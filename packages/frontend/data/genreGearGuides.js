@@ -10424,7 +10424,7 @@ The grid is in the player, not the price tag.
     // SEO metadata
     title: "Best Hi-Hats for Metal Drumming: 2026 Ultimate Guide",
     metaTitle: "Best Hi-Hats for Metal in 2026 | MetalForge Expert Guide",
-    description: "Discover the best hi-hats for metal drumming. Expert recommendations covering Zildjian, Meinl, Paiste, and Sabian — the exact hi-hats used by Lars Ulrich, Joey Jordison, Mike Mangini, and Matt Greiner.",
+    description: "Discover the best hi-hats for metal drumming. Expert recommendations covering Zildjian, Meinl, Paiste, and Sabian — the exact hi-hats used by Lars Ulrich, Joey Jordison, and Mike Mangini.",
     seoKeywords: [
       'best hi-hats for metal',
       'best metal hi-hats',
@@ -10531,7 +10531,7 @@ This guide breaks down exactly which hi-hats work best for metal, why weight and
 
           description: `The Zildjian A Custom Medium Hi-Hats are the most popular hi-hats on MetalForge's entire pro roster — versatile, cutting, and responsive enough to handle everything from delicate 16th-note grooves to thundering blast-beat accents. The A Custom series uses brilliant finish B20 bronze with a proprietary Zildjian lathing pattern that emphasizes attack and clarity without sacrificing warmth.
 
-Lars Ulrich of Metallica has used Zildjian A Custom cymbals extensively throughout the band's career — the cutting, articulate top end of the A Custom cuts through the wall of Marshall stacks at stadium volumes. Matt Greiner of August Burns Red relies on Zildjian hi-hats for the complex progressive metalcore patterns that define ABR's groove. The A Custom's medium weight provides excellent projection without the stiffness of heavier models, keeping stick response natural even during demanding double-time passages.`,
+Lars Ulrich of Metallica has used Zildjian A Custom cymbals extensively throughout the band's career — the cutting, articulate top end of the A Custom cuts through the wall of Marshall stacks at stadium volumes. The A Custom's medium weight provides excellent projection without the stiffness of heavier models, keeping stick response natural even during demanding double-time passages.`,
 
           pros: [
             "Brilliant finish delivers cutting, articulate attack",
@@ -10554,7 +10554,6 @@ Lars Ulrich of Metallica has used Zildjian A Custom cymbals extensively througho
           },
           usedBy: [
             { name: "Lars Ulrich", band: "Metallica", note: "Zildjian A Custom across Metallica's career" },
-            { name: "Matt Greiner", band: "August Burns Red", note: "Progressive metalcore hi-hat precision" },
             { name: "Charlie Benante", band: "Anthrax", note: "Thrash metal hi-hat authority" }
           ],
           verdict: "The benchmark hi-hat for metal. Cutting, versatile, and used by legends. Start here if you're unsure.",
@@ -10801,7 +10800,7 @@ The K's ability to transition from aggressive closed chicks to rich, complex ope
 - Brilliant finish for maximum cutting power
 - Medium weight for versatile attack and response
 - The industry standard for metal hi-hats across all sub-genres
-- Preferred by: Lars Ulrich, Matt Greiner, Joey Jordison
+- Preferred by: Lars Ulrich, Joey Jordison
 
 **Meinl Byzance Traditional:**
 - Dark, warm, complex character for nuanced styles
@@ -10837,7 +10836,7 @@ The K's ability to transition from aggressive closed chicks to rich, complex ope
         {
           category: "Best Overall",
           pedal: "Zildjian A Custom Medium Hi-Hats",
-          reason: "The most versatile, cutting hi-hat for metal. Used by Lars Ulrich, Matt Greiner, and countless other pros."
+          reason: "The most versatile, cutting hi-hat for metal. Used by Lars Ulrich and countless other pros."
         },
         {
           category: "Best for Progressive Metal",
@@ -10866,7 +10865,6 @@ The K's ability to transition from aggressive closed chicks to rich, complex ope
     relatedDrummers: [
       { slug: 'lars-ulrich', name: 'Lars Ulrich', reason: 'Zildjian A Custom — the definitive metal hi-hat sound' },
       { slug: 'mike-mangini', name: 'Mike Mangini', reason: 'Meinl endorser — progressive metal hi-hat complexity' },
-      { slug: 'matt-greiner', name: 'Matt Greiner', reason: 'Zildjian hi-hats for progressive metalcore precision' },
       { slug: 'mikkey-dee', name: 'Mikkey Dee', reason: 'Paiste 2002 — classic heavy metal hi-hat power' }
     ],
 
@@ -11053,8 +11051,7 @@ Tomas Haake of Meshuggah has built his legendary polyrhythmic kick technique aro
           usedBy: [
             { name: "Tomas Haake", band: "Meshuggah", note: "Iron Cobra — building the world's most precise kick technique" },
             { name: "Chris Adler", band: "Lamb of God", note: "Iron Cobra for groove metal authority" },
-            { name: "George Kollias", band: "Nile", note: "Tama pedals for 280 BPM death metal extremity" },
-            { name: "Matt Greiner", band: "August Burns Red", note: "Tama hardware for progressive metalcore" }
+            { name: "George Kollias", band: "Nile", note: "Tama pedals for 280 BPM death metal extremity" }
           ],
           verdict: "The benchmark metal bass drum pedal. If you're not sure what to buy, the Iron Cobra 900 is the answer.",
           rating: 4.9,
@@ -18902,7 +18899,7 @@ For touring mathcore-adjacent bands, the rack's quick-release clamps mean a full
           tier: "pro",
           material: "Double-braced steel",
 
-          description: `Matt Greiner's odd-time integration across August Burns Red's catalog demands cymbal placement he can trust to hold exactly through jarring, unpredictable riffing. Tama's Titan Series pairs oversized double-braced tripods with precise memory locks, so a mathcore-adjacent drummer can rebuild a complex layout identically at every stop on tour.
+          description: `Tama's Titan Series pairs oversized double-braced tripods with precise memory locks, giving mathcore-adjacent drummers cymbal placement they can trust to hold exactly through jarring, unpredictable riffing and rebuild identically at every stop on tour.
 
 The line's individual-stand format also lets a drummer build out only the pieces they actually need, avoiding the bulk of a full rack for a kit that doesn't require one.`,
 
@@ -18923,9 +18920,7 @@ The line's individual-stand format also lets a drummer build out only the pieces
             includes: "Sold as individual stands or packs",
             weight: "Heavy"
           },
-          usedBy: [
-            { name: "Matt Greiner", band: "August Burns Red", note: "Precise memory locks for odd-time, mathcore-adjacent integration" }
-          ],
+          usedBy: [],
           verdict: "Precision hardware for holding a complex layout exactly through unpredictable, odd-metered riffing.",
           rating: 4.6,
           affiliateLink: "https://www.thomann.de/intl/tama_titan_series_hardware.htm?partner_id=metalforge"
@@ -27361,7 +27356,7 @@ Start with a 20" in whatever alloy fits your budget, experiment with inverted mo
       title: "Why Metalcore Drummers Rely on China Cymbals",
       content: `Metalcore lives and dies by the breakdown, and nothing announces one like a trashy china slamming down right as the guitars drop to half-time and the pit opens up. Where a crash cymbal rings out musically, a china delivers a short, dirty explosion that punctuates a transition without stepping on the riff underneath it — exactly what a genre built on tight arrangement changes and sudden dynamic shifts needs.
 
-Matt Greiner (August Burns Red) pairs his Meinl Byzance setup with a china for the technical, tightly arranged transitions that define ABR's sound, while Jay Weinberg's Zildjian A Custom setup — honed through his time in both Slipknot and Trivium — leans on china accents to punch through modern metalcore's dense, drop-tuned mixes. Alex Bent's Meinl Byzance Brilliant series and Chris Adler's Meinl Byzance Dark setup with Lamb of God both use china cymbals as a breakdown-specific tool rather than a constant texture, saving the trashiest sound in the kit for the moment it matters most.
+Matt Greiner (August Burns Red) pairs his Paiste Formula 602 setup with a china for the technical, tightly arranged transitions that define ABR's sound, while Jay Weinberg's Zildjian A Custom setup — honed through his time in both Slipknot and Trivium — leans on china accents to punch through modern metalcore's dense, drop-tuned mixes. Alex Bent's Meinl Byzance Brilliant series and Chris Adler's Meinl Byzance Dark setup with Lamb of God both use china cymbals as a breakdown-specific tool rather than a constant texture, saving the trashiest sound in the kit for the moment it matters most.
 
 This guide covers everything you need to pick the right china for metalcore: size, alloy, and mounting, along with specific model recommendations across every budget for breakdown-heavy, riff-driven modern metal.`,
       keyPoints: [
@@ -27430,7 +27425,7 @@ This guide covers everything you need to pick the right china for metalcore: siz
           driveType: "B20 Bronze, Dark/Dry",
           description: `The Byzance Extra Dry China delivers a dark, fast-decaying trash that punctuates a breakdown without lingering into the next arrangement change — a critical trait for metalcore's rapid-fire structural shifts.
 
-Matt Greiner's Meinl Byzance setup with August Burns Red pairs this dry, controlled china voice with the band's technical, tightly written transitions, where a lingering wash would clutter the arrangement rather than punctuate it.`,
+Its dry, controlled voice suits technical, tightly written arrangements where a lingering wash would clutter the transition rather than punctuate it.`,
           pros: [
             "Dark, dry tone with fast decay suited to quick transitions",
             "18\" size responds instantly for tightly arranged breakdowns",
@@ -27449,9 +27444,7 @@ Matt Greiner's Meinl Byzance setup with August Burns Red pairs this dry, control
             weight: "Medium",
             mounting: "Standard or Inverted"
           },
-          usedBy: [
-            { name: "Matt Greiner", band: "August Burns Red", note: "Byzance setup for technical, tightly arranged transitions" }
-          ],
+          usedBy: [],
           verdict: "The benchmark for technical metalcore — controlled trash that punctuates without cluttering.",
           rating: 4.7,
           affiliateLink: "https://www.thomann.de/intl/meinl_byzance_extra_dry_china_18.htm?partner_id=metalforge"
@@ -27702,7 +27695,7 @@ A reliable choice among the wider Sabian AAX-endorsed metalcore roster for its c
       'best-splash-cymbals-for-metalcore'
     ],
     relatedDrummers: [
-      { slug: 'matt-greiner', name: 'Matt Greiner', reason: 'Meinl Byzance Extra Dry China — August Burns Red\'s technical precision' },
+      { slug: 'matt-greiner', name: 'Matt Greiner', reason: 'Paiste Formula 602 China — August Burns Red\'s technical precision' },
       { slug: 'jay-weinberg', name: 'Jay Weinberg', reason: 'Zildjian A Custom China — explosive cut for dense mixes' },
       { slug: 'alex-bent', name: 'Alex Bent', reason: 'Meinl Byzance Brilliant China — Trivium\'s melodic modern metal' },
       { slug: 'chris-adler', name: 'Chris Adler', reason: 'Meinl Byzance setup for breakdown precision' }
@@ -27717,7 +27710,7 @@ A reliable choice among the wider Sabian AAX-endorsed metalcore roster for its c
       },
       {
         question: "What china cymbal does Matt Greiner use?",
-        answer: "Matt Greiner (August Burns Red) runs a Meinl Byzance setup, pairing a dark, dry china with the band's technical, tightly written arrangement changes for punctuation that doesn't clutter the mix."
+        answer: "Matt Greiner (August Burns Red) runs a Paiste Formula 602 setup, pairing a china with the band's technical, tightly written arrangement changes for punctuation that doesn't clutter the mix."
       },
       {
         question: "Should I mount my china inverted for metalcore breakdowns?",
@@ -27736,7 +27729,7 @@ A reliable choice among the wider Sabian AAX-endorsed metalcore roster for its c
     // Conclusion
     conclusion: {
       title: "Punctuate Every Breakdown",
-      content: `A china cymbal is metalcore's exclamation point — the trashy, fast-decaying accent that announces a breakdown and gets out of the way before the next tight arrangement change. Whether you land on the dark, controlled trash of Meinl's Byzance Extra Dry that Matt Greiner relies on, the explosive cut of Zildjian's A Custom, or a budget-friendly ZBT to start practicing breakdown timing, the right china sharpens every transition in your set.
+      content: `A china cymbal is metalcore's exclamation point — the trashy, fast-decaying accent that announces a breakdown and gets out of the way before the next tight arrangement change. Whether you land on the dark, controlled trash of Meinl's Byzance Extra Dry, the Paiste Formula 602 setup Matt Greiner relies on, the explosive cut of Zildjian's A Custom, or a budget-friendly ZBT to start practicing breakdown timing, the right china sharpens every transition in your set.
 
 Start with an 18" in whatever alloy fits your budget, experiment with inverted mounting for the heaviest sections, and size up to 20" if your band's sound skews toward deathcore-level weight.
 

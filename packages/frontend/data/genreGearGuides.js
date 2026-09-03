@@ -27328,7 +27328,7 @@ Start with a 20" in whatever alloy fits your budget, experiment with inverted mo
       title: "Why Metalcore Drummers Rely on China Cymbals",
       content: `Metalcore lives and dies by the breakdown, and nothing announces one like a trashy china slamming down right as the guitars drop to half-time and the pit opens up. Where a crash cymbal rings out musically, a china delivers a short, dirty explosion that punctuates a transition without stepping on the riff underneath it — exactly what a genre built on tight arrangement changes and sudden dynamic shifts needs.
 
-Matt Greiner (August Burns Red) pairs his Paiste Formula 602 setup with a china for the technical, tightly arranged transitions that define ABR's sound, while Jay Weinberg's Zildjian A Custom setup — honed through his time in both Slipknot and Trivium — leans on china accents to punch through modern metalcore's dense, drop-tuned mixes. Alex Bent's Meinl Byzance Brilliant series and Chris Adler's Meinl Byzance Dark setup with Lamb of God both use china cymbals as a breakdown-specific tool rather than a constant texture, saving the trashiest sound in the kit for the moment it matters most.
+Matt Greiner (August Burns Red) pairs his Paiste Formula 602 setup with a china for the technical, tightly arranged transitions that define ABR's sound, while Jay Weinberg's Zildjian A Custom setup — honed through his time in both Slipknot and Trivium — leans on china accents to punch through modern metalcore's dense, drop-tuned mixes. Alex Bent's Zildjian K Custom Hybrid setup and Chris Adler's Meinl Byzance Dark setup with Lamb of God both use china cymbals as a breakdown-specific tool rather than a constant texture, saving the trashiest sound in the kit for the moment it matters most.
 
 This guide covers everything you need to pick the right china for metalcore: size, alloy, and mounting, along with specific model recommendations across every budget for breakdown-heavy, riff-driven modern metal.`,
       keyPoints: [
@@ -27460,20 +27460,20 @@ Jay Weinberg's Zildjian A Custom setup — carried from his work with Slipknot i
         },
         {
           rank: 3,
-          name: "Meinl Byzance Brilliant China",
-          brand: "Meinl",
-          model: "18\" Byzance Brilliant China",
+          name: "Zildjian K Custom Hybrid China",
+          brand: "Zildjian",
+          model: "18\" K Custom Hybrid China",
           image: "https://upload.wikimedia.org/wikipedia/commons/7/74/Dixon-double-pedal.jpg",
           priceRange: "€210-260",
           tier: "pro",
-          driveType: "B20 Bronze, Brilliant",
-          description: `The Byzance Brilliant China trades the Extra Dry line's darkness for a shinier, more melodic trash that still explodes on impact — a good fit for metalcore bands that blend aggressive breakdowns with clean-sung, melodic sections.
+          driveType: "B20 Bronze, Hybrid finish",
+          description: `The K Custom Hybrid China blends a dark, complex K Custom body with a brighter, cutting finish for a trash that still explodes on impact — a good fit for metalcore bands that blend aggressive breakdowns with clean-sung, melodic sections.
 
-Alex Bent's Meinl Byzance Brilliant setup with Trivium leans on this balance, giving him a china voice that punctuates hard-hitting sections without sounding out of place against the band's more melodic material.`,
+Alex Bent's Zildjian K Custom Hybrid setup with Trivium leans on this balance, giving him a china voice that punctuates hard-hitting sections without sounding out of place against the band's more melodic material.`,
           pros: [
-            "Shinier, more melodic trash than dark/dry alternatives",
+            "Hybrid voicing splits the difference between dark and bright",
             "Explosive attack that still fits cleaner, melodic sections",
-            "Consistent Byzance-line build quality",
+            "Consistent K Custom-line build quality",
             "Versatile across a band's heavier and more melodic material"
           ],
           cons: [
@@ -27484,16 +27484,16 @@ Alex Bent's Meinl Byzance Brilliant setup with Trivium leans on this balance, gi
           specs: {
             size: "18\"",
             alloy: "B20 Bronze",
-            finish: "Brilliant",
+            finish: "Hybrid",
             weight: "Medium",
             mounting: "Standard or Inverted"
           },
           usedBy: [
-            { name: "Alex Bent", band: "Trivium", note: "Byzance Brilliant balance for melodic modern metal" }
+            { name: "Alex Bent", band: "Trivium", note: "K Custom Hybrid balance for melodic modern metal" }
           ],
           verdict: "Best for metalcore bands that blend melodic sections with hard-hitting breakdowns.",
           rating: 4.5,
-          affiliateLink: "https://www.thomann.de/intl/meinl_byzance_brilliant_china_18.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/zildjian_k_custom_hybrid_china_18_metalcore.htm?partner_id=metalforge"
         },
         {
           rank: 4,
@@ -27654,8 +27654,8 @@ A reliable choice among the wider Sabian AAX-endorsed metalcore roster for its c
         },
         {
           category: "Best for Melodic Metalcore",
-          pedal: "Meinl Byzance Brilliant China",
-          reason: "Shinier, more melodic trash that still explodes on impact."
+          pedal: "Zildjian K Custom Hybrid China",
+          reason: "Hybrid voicing that still explodes on impact."
         }
       ]
     },
@@ -27669,7 +27669,7 @@ A reliable choice among the wider Sabian AAX-endorsed metalcore roster for its c
     relatedDrummers: [
       { slug: 'matt-greiner', name: 'Matt Greiner', reason: 'Paiste Formula 602 China — August Burns Red\'s technical precision' },
       { slug: 'jay-weinberg', name: 'Jay Weinberg', reason: 'Zildjian A Custom China — explosive cut for dense mixes' },
-      { slug: 'alex-bent', name: 'Alex Bent', reason: 'Meinl Byzance Brilliant China — Trivium\'s melodic modern metal' },
+      { slug: 'alex-bent', name: 'Alex Bent', reason: 'Zildjian K Custom Hybrid China — Trivium\'s melodic modern metal' },
       { slug: 'chris-adler', name: 'Chris Adler', reason: 'Meinl Byzance setup for breakdown precision' }
     ],
     relatedComparisons: [],
@@ -40889,7 +40889,7 @@ Start with a 21"-22" pro ride, and specialize toward a Mega Bell or Dark-voiced 
       title: "Why Metalcore Rides Need to Stay Dry and Legible",
       content: `Metalcore drumming lives between two worlds — breakdown-driven heaviness and technical, syncopated precision — and the ride cymbal has to serve both. Palm-muted chugs and tightly syncopated riffing need a ride that stays dry and controlled rather than washing out, while the genre's frequent tempo and dynamic shifts demand quick, clear stick definition through complex patterns.
 
-Matt Halpern of Periphery rides a 22" Meinl Byzance Extra Dry Transition Ride, prioritizing a controlled, low-sustain voice that stays articulate through breakdown-heavy arrangements and complex time signature changes. Matt Greiner of August Burns Red runs a near-identical 21" Meinl Byzance Extra Dry Transition Ride, driving August Burns Red's Grammy-nominated catalog with the same dry clarity. Alex Bent, who brought his technical death metal background to Trivium, rides a 21" Meinl Byzance Brilliant Medium Ride for a brighter, faster attack suited to Trivium's more melodic, riff-driven modern metal sound. Jay Weinberg of Slipknot takes a different path entirely, riding a 21" Zildjian K Custom Ride for a darker, more controlled definition underneath Slipknot's aggressive nu-metal/metalcore hybrid sound.
+Matt Halpern of Periphery rides a 22" Meinl Byzance Extra Dry Transition Ride, prioritizing a controlled, low-sustain voice that stays articulate through breakdown-heavy arrangements and complex time signature changes. Matt Greiner of August Burns Red runs a near-identical 21" Meinl Byzance Extra Dry Transition Ride, driving August Burns Red's Grammy-nominated catalog with the same dry clarity. Alex Bent, who brought his technical death metal background to Trivium, rides a 21" Zildjian K Custom Hybrid Ride for a brighter, faster attack suited to Trivium's more melodic, riff-driven modern metal sound. Jay Weinberg of Slipknot takes a different path entirely, riding a 21" Zildjian K Custom Ride for a darker, more controlled definition underneath Slipknot's aggressive nu-metal/metalcore hybrid sound.
 
 This guide breaks down what actually makes a ride work for metalcore — dry control, stick definition, and clarity through breakdown transitions — and recommends specific models across every budget, from a first dry-toned ride to the exact cymbals metalcore's most influential drummers ride night after night.`,
       keyPoints: [
@@ -40919,8 +40919,8 @@ This guide breaks down what actually makes a ride work for metalcore — dry con
         {
           name: "Brightness vs. Dryness Tradeoff",
           icon: "⚖️",
-          description: "Meinl Byzance Extra Dry (Halpern, Greiner) prioritizes control; Meinl Byzance Brilliant (Bent) and Zildjian K Custom (Weinberg) trade some of that dryness for a brighter, faster attack that suits metalcore's more melodic or aggressive extremes.",
-          recommendation: "Extra Dry for breakdown-heavy technical metalcore; brighter Brilliant/K Custom voicing for melodic or aggressive metalcore"
+          description: "Meinl Byzance Extra Dry (Halpern, Greiner) prioritizes control; Zildjian K Custom Hybrid (Bent) and Zildjian K Custom (Weinberg) trade some of that dryness for a brighter, faster attack that suits metalcore's more melodic or aggressive extremes.",
+          recommendation: "Extra Dry for breakdown-heavy technical metalcore; brighter K Custom Hybrid/K Custom voicing for melodic or aggressive metalcore"
         },
         {
           name: "Size",
@@ -40987,40 +40987,40 @@ Both drummers rely on the Transition Ride's minimal-sustain voicing to stay arti
         },
         {
           rank: 2,
-          name: "Meinl Byzance Brilliant Medium Ride",
-          brand: "Meinl",
-          model: "21\" Byzance Brilliant Medium Ride",
+          name: "Zildjian K Custom Hybrid Ride",
+          brand: "Zildjian",
+          model: "K Custom Hybrid Ride",
           image: "https://upload.wikimedia.org/wikipedia/commons/4/43/Zildjian_Quick_Beat_Hi_Hat_15.jpg",
           priceRange: "€290-350",
           tier: "pro",
-          driveType: "B20 Bronze, Brilliant",
-          description: `Alex Bent brought his technical death metal background from Brain Drill and Arkaik into Trivium, and his 21" Meinl Byzance Brilliant Medium Ride reflects that hybrid pedigree. The brilliant finish gives a faster, brighter attack than the Extra Dry line, matching Trivium's more melodic, riff-driven modern metal sound on "The Sin and the Sentence" and "In the Court of the Dragon."
+          driveType: "B20 Bronze, Hybrid finish",
+          description: `Alex Bent brought his technical death metal background from Brain Drill and Arkaik into Trivium, and his Zildjian K Custom Hybrid Ride reflects that hybrid pedigree. The hybrid finish blends a dark, complex K Custom body with a brighter, cutting edge, giving a faster attack than the Extra Dry line while matching Trivium's more melodic, riff-driven modern metal sound on "The Sin and the Sentence" and "In the Court of the Dragon."
 
-Where Halpern and Greiner prioritize dryness and control, Bent's Brilliant Medium Ride shows that a brighter, more resonant voice works equally well for metalcore-adjacent modern metal that leans into melody as much as breakdown weight.`,
+Where Halpern and Greiner prioritize dryness and control, Bent's K Custom Hybrid Ride shows that a brighter, more resonant voice works equally well for metalcore-adjacent modern metal that leans into melody as much as breakdown weight.`,
           pros: [
             "Alex Bent's Trivium setup — proof that brighter voicing works for melodic modern metalcore",
-            "Brilliant finish gives faster, more cutting attack than Extra Dry alternatives",
+            "Hybrid finish gives faster, more cutting attack than Extra Dry alternatives",
             "Proven on Trivium's Grammy-nominated modern catalog",
             "Medium weight balances stick definition with genuine wash"
           ],
           cons: [
             "Brighter voicing less suited to pure breakdown-heavy technical metalcore",
-            "Premium Meinl Byzance pricing",
+            "Premium Zildjian K Custom pricing",
             "More sustain than Extra Dry may require more dampening in dense mixes"
           ],
           specs: {
             size: "21\"",
             alloy: "B20 Bronze",
-            finish: "Brilliant",
+            finish: "Hybrid",
             bell: "Standard",
             weight: "Medium"
           },
           usedBy: [
-            { name: "Alex Bent", band: "Trivium", note: "21\" Brilliant Medium Ride for melodic, riff-driven modern metalcore" }
+            { name: "Alex Bent", band: "Trivium", note: "K Custom Hybrid Ride for melodic, riff-driven modern metalcore" }
           ],
           verdict: "Best for melodic modern metalcore. Bent's brighter setup proves technical precision and melody aren't mutually exclusive.",
           rating: 4.6,
-          affiliateLink: "https://www.thomann.de/intl/meinl_byzance_brilliant_medium_ride_21_bent.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/zildjian_k_custom_hybrid_ride_21_bent.htm?partner_id=metalforge"
         },
         {
           rank: 3,
@@ -41170,9 +41170,9 @@ While not tied to one of metalcore's specific signature setups, the AAX Ride app
       ]
     },
 
-    // Extra Dry vs Brilliant vs K Custom comparison
+    // Extra Dry vs K Custom Hybrid vs K Custom comparison
     comparison: {
-      title: "Meinl Extra Dry vs Meinl Brilliant vs Zildjian K Custom for Metalcore",
+      title: "Meinl Extra Dry vs Zildjian K Custom Hybrid vs Zildjian K Custom for Metalcore",
       content: `Metalcore's ride choices split along a clear line: dry control versus brighter, more explosive voicing.
 
 **Meinl Byzance Extra Dry Transition Ride (Matt Halpern, Matt Greiner):**
@@ -41180,7 +41180,7 @@ While not tied to one of metalcore's specific signature setups, the AAX Ride app
 - The metalcore ride standard for technical, djent-influenced setups
 - Best for breakdown-driven, syncopated arrangements where wash would create mud
 
-**Meinl Byzance Brilliant Medium Ride (Alex Bent):**
+**Zildjian K Custom Hybrid Ride (Alex Bent):**
 - Brighter, faster attack than Extra Dry
 - Best for melodic, riff-driven modern metalcore
 
@@ -41188,7 +41188,7 @@ While not tied to one of metalcore's specific signature setups, the AAX Ride app
 - Darker, more controlled definition with a brighter overall kit voice
 - Best for aggressive, nu-metal-influenced metalcore
 
-**Our Recommendation:** Start with a Zildjian ZBT or Sabian XSR Monarch ride if you're building metalcore technique on a budget. Choose Matt Halpern's or Matt Greiner's Extra Dry Transition Ride if breakdown-heavy technical precision is your priority. Go with Alex Bent's Brilliant Medium Ride if you want a brighter, more melodic voice.`,
+**Our Recommendation:** Start with a Zildjian ZBT or Sabian XSR Monarch ride if you're building metalcore technique on a budget. Choose Matt Halpern's or Matt Greiner's Extra Dry Transition Ride if breakdown-heavy technical precision is your priority. Go with Alex Bent's K Custom Hybrid Ride if you want a brighter, more melodic voice.`,
       comparisonTable: [
         { feature: "Dry Control", directDrive: "⭐⭐⭐⭐⭐", chainDrive: "⭐⭐⭐" },
         { feature: "Brightness/Cut", directDrive: "⭐⭐⭐", chainDrive: "⭐⭐⭐⭐⭐" },
@@ -41208,7 +41208,7 @@ While not tied to one of metalcore's specific signature setups, the AAX Ride app
         },
         {
           category: "Best for Melodic Metalcore",
-          pedal: "Meinl Byzance Brilliant Medium Ride",
+          pedal: "Zildjian K Custom Hybrid Ride",
           reason: "Alex Bent's brighter, faster attack for Trivium's riff-driven modern metal sound."
         },
         {
@@ -41233,7 +41233,7 @@ While not tied to one of metalcore's specific signature setups, the AAX Ride app
     relatedDrummers: [
       { slug: 'matt-halpern', name: 'Matt Halpern', reason: '22" Meinl Byzance Extra Dry Transition Ride — Periphery djent-metalcore precision' },
       { slug: 'matt-greiner', name: 'Matt Greiner', reason: '21" Meinl Byzance Extra Dry Transition Ride — August Burns Red technical metalcore' },
-      { slug: 'alex-bent', name: 'Alex Bent', reason: '21" Meinl Byzance Brilliant Medium Ride — Trivium melodic modern metal' },
+      { slug: 'alex-bent', name: 'Alex Bent', reason: 'Zildjian K Custom Hybrid Ride — Trivium melodic modern metal' },
       { slug: 'jay-weinberg', name: 'Jay Weinberg', reason: '21" Zildjian K Custom Ride — Slipknot aggressive metalcore' }
     ],
 
@@ -41261,7 +41261,7 @@ While not tied to one of metalcore's specific signature setups, the AAX Ride app
       },
       {
         question: "Dry or bright ride — which is better for metalcore?",
-        answer: "Both work at the highest level. Matt Halpern's and Matt Greiner's Meinl Byzance Extra Dry Transition Rides suit breakdown-heavy, technical metalcore where wash would create mud. Alex Bent's Brilliant Medium Ride and Jay Weinberg's Zildjian K Custom Ride suit more melodic or aggressive metalcore that wants a brighter attack."
+        answer: "Both work at the highest level. Matt Halpern's and Matt Greiner's Meinl Byzance Extra Dry Transition Rides suit breakdown-heavy, technical metalcore where wash would create mud. Alex Bent's K Custom Hybrid Ride and Jay Weinberg's Zildjian K Custom Ride suit more melodic or aggressive metalcore that wants a brighter attack."
       },
       {
         question: "What's the best budget ride cymbal for metalcore?",
@@ -41272,7 +41272,7 @@ While not tied to one of metalcore's specific signature setups, the AAX Ride app
     // Conclusion
     conclusion: {
       title: "Find the Ride That Stays Legible Through the Breakdown",
-      content: `Metalcore ride choice comes down to one core question: dry control or brighter attack? Whether you build around Matt Halpern's and Matt Greiner's dry, controlled Meinl Byzance Extra Dry Transition Ride, Alex Bent's brighter Byzance Brilliant Medium Ride, or Jay Weinberg's darker Zildjian K Custom Ride, the right metalcore ride has to stay legible through breakdowns, tempo shifts, and everything in between.
+      content: `Metalcore ride choice comes down to one core question: dry control or brighter attack? Whether you build around Matt Halpern's and Matt Greiner's dry, controlled Meinl Byzance Extra Dry Transition Ride, Alex Bent's brighter K Custom Hybrid Ride, or Jay Weinberg's darker Zildjian K Custom Ride, the right metalcore ride has to stay legible through breakdowns, tempo shifts, and everything in between.
 
 Start with a 21"-22" pro ride built for control, and choose your voicing based on whether your metalcore leans technical and breakdown-heavy or melodic and aggressive.
 
@@ -43852,12 +43852,12 @@ Start with one dry, controlled crash in the 16"-18" range, and layer a second si
       title: "Why Metalcore Crashes Need to Punctuate, Not Wash Out",
       content: `Metalcore drumming lives between two worlds — breakdown-driven heaviness and technical, syncopated precision — and the genre's crash choices reflect that split. A breakdown crash needs to land hard and decay fast so the next palm-muted chug isn't buried under ringing metal, while the genre's frequent tempo and dynamic shifts demand a crash that responds instantly to a wide range of accent styles.
 
-Matt Greiner of August Burns Red runs 18" and 19" Meinl Byzance Extra Dry Medium Crashes, prioritizing a controlled, low-sustain voice that stays articulate through breakdown-heavy arrangements and complex time signature changes. Alex Bent, who brought his technical death metal background into Trivium, uses 16", 18", and 19" Meinl Byzance Brilliant Medium Thin Crashes for a faster, more cutting attack suited to Trivium's more melodic, riff-driven modern metal sound. Jay Weinberg of Slipknot takes a different path, running 18" and 19" Zildjian A Custom Crashes for a brighter, more explosive voice that matches Slipknot's aggressive nu-metal/metalcore hybrid sound, while Chris Adler of Lamb of God plays 18" and 19" Meinl Byzance Dark Crashes tuned for groove metal's tightly arranged breakdowns.
+Matt Greiner of August Burns Red runs 18" and 19" Meinl Byzance Extra Dry Medium Crashes, prioritizing a controlled, low-sustain voice that stays articulate through breakdown-heavy arrangements and complex time signature changes. Alex Bent, who brought his technical death metal background into Trivium, uses 16", 18", and 19" Zildjian K Custom Hybrid Crashes for a faster, more cutting attack suited to Trivium's more melodic, riff-driven modern metal sound. Jay Weinberg of Slipknot takes a different path, running 18" and 19" Zildjian A Custom Crashes for a brighter, more explosive voice that matches Slipknot's aggressive nu-metal/metalcore hybrid sound, while Chris Adler of Lamb of God plays 18" and 19" Meinl Byzance Dark Crashes tuned for groove metal's tightly arranged breakdowns.
 
 This guide breaks down what actually makes a crash work for metalcore — fast decay, breakdown punctuation, and brightness versus control — and recommends specific models across every budget, from a first breakdown-ready crash to the exact cymbals metalcore's most influential drummers play.`,
       keyPoints: [
         "Metalcore crashes need to decay fast enough that breakdown hits don't wash into the next palm-muted riff",
-        "Matt Greiner's and Alex Bent's Meinl Byzance setups show the dry-vs-bright split within the genre's technical wing",
+        "Matt Greiner's Meinl Byzance and Alex Bent's Zildjian K Custom Hybrid setups show the dry-vs-bright split within the genre's technical wing",
         "Jay Weinberg's brighter Zildjian A Custom and Chris Adler's darker Byzance Dark show metalcore's range from explosive to controlled",
         "16\"-19\" covers the metalcore crash range, with most pro drummers running at least two sizes"
       ]
@@ -43882,7 +43882,7 @@ This guide breaks down what actually makes a crash work for metalcore — fast d
         {
           name: "Brightness vs Control",
           icon: "⚖️",
-          description: "Meinl Byzance Extra Dry (Matt Greiner) prioritizes control; Meinl Byzance Brilliant (Alex Bent) and Zildjian A Custom (Jay Weinberg) trade some of that dryness for a brighter, more explosive attack suited to melodic or aggressive metalcore.",
+          description: "Meinl Byzance Extra Dry (Matt Greiner) prioritizes control; Zildjian K Custom Hybrid (Alex Bent) and Zildjian A Custom (Jay Weinberg) trade some of that dryness for a brighter, more explosive attack suited to melodic or aggressive metalcore.",
           recommendation: "Extra Dry for breakdown-heavy technical metalcore; brighter voicing for melodic or aggressive metalcore"
         },
         {
@@ -43949,40 +43949,40 @@ Matt Halpern of Periphery runs a near-identical Byzance Extra Dry crash setup, u
         },
         {
           rank: 2,
-          name: "Meinl Byzance Brilliant Medium Thin Crash",
-          brand: "Meinl",
-          model: "16\", 18\" & 19\" Byzance Brilliant Medium Thin Crash",
+          name: "Zildjian K Custom Hybrid Medium Thin Crash",
+          brand: "Zildjian",
+          model: "16\", 18\" & 19\" K Custom Hybrid Medium Thin Crash",
           image: "https://upload.wikimedia.org/wikipedia/commons/8/8f/Avedis_Zildjian_Cymbal.jpg",
           priceRange: "€200-250",
           tier: "pro",
-          driveType: "B20 Bronze, Brilliant",
-          description: `Alex Bent brought his technical death metal background from Brain Drill and Arkaik into Trivium, and his 16", 18" and 19" Meinl Byzance Brilliant Medium Thin Crashes reflect that hybrid pedigree. The brilliant finish gives a faster, brighter attack than the Extra Dry line, matching Trivium's more melodic, riff-driven modern metal sound.
+          driveType: "B20 Bronze, Hybrid finish",
+          description: `Alex Bent brought his technical death metal background from Brain Drill and Arkaik into Trivium, and his 16", 18" and 19" Zildjian K Custom Hybrid Medium Thin Crashes reflect that hybrid pedigree. The hybrid finish blends a dark, complex K Custom body with a brighter, cutting edge, giving a faster attack than the Extra Dry line while matching Trivium's more melodic, riff-driven modern metal sound.
 
-Where Matt Greiner prioritizes dryness and control, Bent's Brilliant Series setup shows that a brighter, more resonant crash voice works equally well for metalcore-adjacent modern metal that leans into melody as much as breakdown weight.`,
+Where Matt Greiner prioritizes dryness and control, Bent's K Custom Hybrid setup shows that a brighter, more resonant crash voice works equally well for metalcore-adjacent modern metal that leans into melody as much as breakdown weight.`,
           pros: [
             "Alex Bent's proven Trivium setup — brighter voicing for melodic modern metalcore",
-            "Brilliant finish gives a faster, more cutting attack than Extra Dry alternatives",
+            "Hybrid finish gives a faster, more cutting attack than Extra Dry alternatives",
             "Medium Thin weight offers quicker decay for busy, technical patterns",
             "16\" size adds a faster, tighter accent option alongside larger crashes"
           ],
           cons: [
             "Brighter voicing less suited to pure breakdown-heavy technical metalcore",
-            "Premium Meinl Byzance pricing",
+            "Premium Zildjian K Custom pricing",
             "More sustain than Extra Dry may require more dampening in dense mixes"
           ],
           specs: {
             size: "16\", 18\" & 19\"",
             alloy: "B20 Bronze",
-            finish: "Brilliant",
+            finish: "Hybrid",
             weight: "Medium Thin",
             decay: "Fast, bright"
           },
           usedBy: [
-            { name: "Alex Bent", band: "Trivium", note: "16\", 18\" & 19\" Medium Thin Crashes for melodic modern metalcore" }
+            { name: "Alex Bent", band: "Trivium", note: "16\", 18\" & 19\" K Custom Hybrid Medium Thin Crashes for melodic modern metalcore" }
           ],
           verdict: "Best for melodic modern metalcore — proof that technical precision and melody aren't mutually exclusive.",
           rating: 4.6,
-          affiliateLink: "https://www.thomann.de/intl/meinl_byzance_brilliant_medium_thin_crash_bent.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/zildjian_k_custom_hybrid_medium_thin_crash_bent.htm?partner_id=metalforge"
         },
         {
           rank: 3,
@@ -44142,14 +44142,14 @@ Adler's crash choice sits between Matt Greiner's ultra-dry technical voice and J
 - More tonal complexity in the Byzance Dark line than a purely dry voicing
 - Best for technical, breakdown-driven metalcore and groove metal hybrids
 
-**Bright / Brilliant (Alex Bent, Jay Weinberg):**
+**Bright / Hybrid (Alex Bent, Jay Weinberg):**
 - Faster, more cutting attack with more natural sustain
 - More explosive, theatrical impact live
 - Best for melodic modern metalcore and aggressive nu-metal/metalcore hybrids
 
 **The Truth:** Both approaches are proven at the highest level. Matt Greiner's Grammy-nominated technical precision runs on dry control; Jay Weinberg's Slipknot intensity runs on bright explosiveness. Neither is objectively better — it depends entirely on whether your metalcore leans breakdown-technical or melodic-aggressive.
 
-**Our Recommendation:** If your band is breakdown-heavy and technical, start with Meinl Byzance Extra Dry. If your band leans melodic or aggressive/theatrical, start with Zildjian A Custom or Meinl Byzance Brilliant.`,
+**Our Recommendation:** If your band is breakdown-heavy and technical, start with Meinl Byzance Extra Dry. If your band leans melodic or aggressive/theatrical, start with Zildjian A Custom or Zildjian K Custom Hybrid.`,
       comparisonTable: [
         { feature: "Breakdown Control", directDrive: "⭐⭐⭐⭐⭐", chainDrive: "⭐⭐⭐" },
         { feature: "Brightness/Cut", directDrive: "⭐⭐⭐", chainDrive: "⭐⭐⭐⭐⭐" },
@@ -44169,7 +44169,7 @@ Adler's crash choice sits between Matt Greiner's ultra-dry technical voice and J
         },
         {
           category: "Best for Melodic Metalcore",
-          pedal: "Meinl Byzance Brilliant Medium Thin Crash",
+          pedal: "Zildjian K Custom Hybrid Medium Thin Crash",
           reason: "Alex Bent's brighter Trivium setup — proof melody and precision aren't mutually exclusive."
         },
         {
@@ -44193,7 +44193,7 @@ Adler's crash choice sits between Matt Greiner's ultra-dry technical voice and J
     ],
     relatedDrummers: [
       { slug: 'matt-greiner', name: 'Matt Greiner', reason: 'Meinl Byzance Extra Dry Medium Crashes — August Burns Red\'s technical precision' },
-      { slug: 'alex-bent', name: 'Alex Bent', reason: 'Meinl Byzance Brilliant Medium Thin Crashes — Trivium\'s melodic modern metal' },
+      { slug: 'alex-bent', name: 'Alex Bent', reason: 'Zildjian K Custom Hybrid Medium Thin Crashes — Trivium\'s melodic modern metal' },
       { slug: 'jay-weinberg', name: 'Jay Weinberg', reason: 'Zildjian A Custom Crashes — Slipknot\'s explosive attack' },
       { slug: 'chris-adler', name: 'Chris Adler', reason: 'Meinl Byzance Dark Crashes — Lamb of God\'s breakdown precision' }
     ],
@@ -44222,7 +44222,7 @@ Adler's crash choice sits between Matt Greiner's ultra-dry technical voice and J
       },
       {
         question: "Should I choose a dry or bright crash for metalcore?",
-        answer: "It depends on your style. Dry, controlled crashes like Matt Greiner's and Chris Adler's Meinl Byzance Extra Dry/Dark suit breakdown-heavy, technical metalcore. Brighter crashes like Alex Bent's Byzance Brilliant and Jay Weinberg's Zildjian A Custom suit melodic or aggressive, theatrical metalcore."
+        answer: "It depends on your style. Dry, controlled crashes like Matt Greiner's and Chris Adler's Meinl Byzance Extra Dry/Dark suit breakdown-heavy, technical metalcore. Brighter crashes like Alex Bent's Zildjian K Custom Hybrid and Jay Weinberg's Zildjian A Custom suit melodic or aggressive, theatrical metalcore."
       },
       {
         question: "What's the best budget crash cymbal for metalcore?",
@@ -60609,9 +60609,9 @@ Budget shouldn't stop you either. A Pearl Export or Mapex Storm Series snare wil
       title: "Why Metalcore Cymbals Need to Stay Dry and Controlled",
       content: `Metalcore drumming lives between two worlds — breakdown-driven heaviness and technical, syncopated precision — and the genre's cymbal choices reflect that split. Palm-muted chugs and tightly syncopated riffing need cymbals that stay dry and controlled rather than washing out, while the genre's frequent tempo and dynamic shifts demand quick, articulate response.
 
-Matt Halpern of Periphery and Matt Greiner of August Burns Red both build their setups around Meinl Byzance Extra Dry Series cymbals, prioritizing a controlled, low-sustain voice that stays articulate through breakdown-heavy arrangements and complex time signature changes. Alex Bent, who brought his technical death metal background to Trivium, uses the brighter Meinl Byzance Brilliant Series for a faster, more cutting attack suited to Trivium's more melodic, riff-driven modern metal sound. Jay Weinberg of Slipknot takes a different path entirely, building his kit around Zildjian A Custom and K Custom cymbals for a brighter, more explosive voice that matches Slipknot's aggressive nu-metal/metalcore hybrid sound.
+Matt Halpern of Periphery and Matt Greiner of August Burns Red both build their setups around Meinl Byzance Extra Dry Series cymbals, prioritizing a controlled, low-sustain voice that stays articulate through breakdown-heavy arrangements and complex time signature changes. Alex Bent, who brought his technical death metal background to Trivium, uses the brighter Zildjian K Custom Hybrid Series for a faster, more cutting attack suited to Trivium's more melodic, riff-driven modern metal sound. Jay Weinberg of Slipknot takes a different path entirely, building his kit around Zildjian A Custom and K Custom cymbals for a brighter, more explosive voice that matches Slipknot's aggressive nu-metal/metalcore hybrid sound.
 
-This guide compares Meinl Byzance Extra Dry, Meinl Byzance Brilliant, and Zildjian A/K Custom cymbals for metalcore — breaking down what each of these four influential drummers plays and why, with recommendations across every budget.`,
+This guide compares Meinl Byzance Extra Dry, Zildjian K Custom Hybrid, and Zildjian A/K Custom cymbals for metalcore — breaking down what each of these four influential drummers plays and why, with recommendations across every budget.`,
       keyPoints: [
         "Meinl Byzance Extra Dry defines the dry, controlled metalcore cymbal standard — Matt Halpern and Matt Greiner both use it",
         "China cymbals are essential for punctuating breakdowns — all four featured drummers include an 18\"-19\" china",
@@ -60651,8 +60651,8 @@ This guide compares Meinl Byzance Extra Dry, Meinl Byzance Brilliant, and Zildji
         {
           name: "Brightness vs. Dryness Tradeoff",
           icon: "⚖️",
-          description: "Meinl Byzance Extra Dry (Halpern, Greiner) prioritizes control; Meinl Byzance Brilliant (Bent) and Zildjian A/K Custom (Weinberg) trade some of that dryness for a brighter, more explosive attack that suits metalcore's more melodic or aggressive extremes.",
-          recommendation: "Extra Dry for breakdown-heavy technical metalcore; brighter Brilliant/A Custom voicing for melodic or aggressive metalcore"
+          description: "Meinl Byzance Extra Dry (Halpern, Greiner) prioritizes control; Zildjian K Custom Hybrid (Bent) and Zildjian A/K Custom (Weinberg) trade some of that dryness for a brighter, more explosive attack that suits metalcore's more melodic or aggressive extremes.",
+          recommendation: "Extra Dry for breakdown-heavy technical metalcore; brighter K Custom Hybrid/A Custom voicing for melodic or aggressive metalcore"
         },
         {
           name: "Touring Durability",
@@ -60709,33 +60709,33 @@ Matt Greiner of August Burns Red runs a near-identical Meinl Byzance Extra Dry s
         },
         {
           rank: 2,
-          name: "Meinl Byzance Brilliant Series",
-          brand: "Meinl",
-          model: "Byzance Brilliant Series",
+          name: "Zildjian K Custom Hybrid Series",
+          brand: "Zildjian",
+          model: "K Custom Hybrid Series",
           image: "https://upload.wikimedia.org/wikipedia/commons/4/43/Zildjian_Quick_Beat_Hi_Hat_15.jpg",
           priceRange: "€210-430 per cymbal",
           tier: "pro",
           material: "B20 Bronze",
 
-          description: `Alex Bent brought his technical death metal background from Brain Drill and Arkaik into Trivium, and his Meinl Byzance Brilliant Series setup reflects that hybrid pedigree — 14" Medium Hi-Hats, 16", 18" & 19" Medium Thin Crashes, a 21" Medium Ride, and an 18" China. The brilliant finish gives a faster, brighter attack than the Extra Dry line, matching Trivium's more melodic, riff-driven modern metal sound on "The Sin and the Sentence" and "In the Court of the Dragon."
+          description: `Alex Bent brought his technical death metal background from Brain Drill and Arkaik into Trivium, and his Zildjian K Custom Hybrid Series setup reflects that hybrid pedigree — 14" Medium Hi-Hats, 16", 18" & 19" Medium Thin Crashes, a 21" Medium Ride, and an 18" China. The hybrid finish blends a dark, complex K Custom body with a brighter, cutting edge, giving a faster attack than the Extra Dry line while matching Trivium's more melodic, riff-driven modern metal sound on "The Sin and the Sentence" and "In the Court of the Dragon."
 
-Where Halpern and Greiner prioritize dryness and control, Bent's Brilliant Series setup shows that a brighter, more resonant voice works equally well for metalcore-adjacent modern metal that leans into melody as much as breakdown weight.`,
+Where Halpern and Greiner prioritize dryness and control, Bent's K Custom Hybrid Series setup shows that a brighter, more resonant voice works equally well for metalcore-adjacent modern metal that leans into melody as much as breakdown weight.`,
 
           pros: [
             "Alex Bent's Trivium setup — proof that brighter voicing works for melodic modern metalcore",
-            "Brilliant finish gives faster, more cutting attack than Extra Dry alternatives",
+            "Hybrid finish gives faster, more cutting attack than Extra Dry alternatives",
             "Medium Thin crashes offer quicker decay for busy, technical patterns",
             "Versatile across metalcore's more melodic and technical extremes",
             "Proven on Trivium's Grammy-nominated modern catalog"
           ],
           cons: [
             "Brighter voicing less suited to pure breakdown-heavy technical metalcore",
-            "Premium Meinl Byzance pricing",
+            "Premium Zildjian K Custom pricing",
             "More sustain than Extra Dry may require more dampening in dense mixes"
           ],
           specs: {
             alloy: "B20 Bronze",
-            finish: "Brilliant",
+            finish: "Hybrid",
             priceRange: "€210–€430 per cymbal",
             bestFor: "Melodic, riff-driven metalcore and modern metal hybrids"
           },
@@ -60744,7 +60744,7 @@ Where Halpern and Greiner prioritize dryness and control, Bent's Brilliant Serie
           ],
           verdict: "Best for melodic modern metalcore. Bent's brighter setup proves technical precision and melody aren't mutually exclusive.",
           rating: 4.6,
-          affiliateLink: "https://www.thomann.de/intl/meinl_byzance_brilliant_series.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/zildjian_k_custom_hybrid_series_bent.htm?partner_id=metalforge"
         },
         {
           rank: 3,
@@ -60902,7 +60902,7 @@ While not tied to one of metalcore's specific signature setups, AAX cymbals appe
         },
         {
           category: "Best for Melodic Metalcore",
-          pedal: "Meinl Byzance Brilliant Series",
+          pedal: "Zildjian K Custom Hybrid Series",
           reason: "Alex Bent's brighter Trivium setup. Fast, cutting attack for riff-driven modern metal."
         },
         {
@@ -60928,7 +60928,7 @@ While not tied to one of metalcore's specific signature setups, AAX cymbals appe
     relatedDrummers: [
       { slug: 'matt-halpern', name: 'Matt Halpern', reason: 'Meinl Byzance Extra Dry — Periphery djent-metalcore precision' },
       { slug: 'matt-greiner', name: 'Matt Greiner', reason: 'Meinl Byzance Extra Dry — August Burns Red technical metalcore' },
-      { slug: 'alex-bent', name: 'Alex Bent', reason: 'Meinl Byzance Brilliant — Trivium melodic modern metal' },
+      { slug: 'alex-bent', name: 'Alex Bent', reason: 'Zildjian K Custom Hybrid — Trivium melodic modern metal' },
       { slug: 'jay-weinberg', name: 'Jay Weinberg', reason: 'Zildjian A Custom & K Custom — Slipknot aggressive metalcore' }
     ],
 
@@ -60936,7 +60936,7 @@ While not tied to one of metalcore's specific signature setups, AAX cymbals appe
     featuredDrummers: [
       { slug: 'matt-halpern', name: 'Matt Halpern', reason: 'Meinl Byzance Extra Dry — Periphery djent-metalcore precision' },
       { slug: 'matt-greiner', name: 'Matt Greiner', reason: 'Meinl Byzance Extra Dry — August Burns Red technical metalcore' },
-      { slug: 'alex-bent', name: 'Alex Bent', reason: 'Meinl Byzance Brilliant — Trivium melodic modern metal' },
+      { slug: 'alex-bent', name: 'Alex Bent', reason: 'Zildjian K Custom Hybrid — Trivium melodic modern metal' },
       { slug: 'jay-weinberg', name: 'Jay Weinberg', reason: 'Zildjian A Custom & K Custom — Slipknot aggressive metalcore' }
     ],
 
@@ -60967,7 +60967,7 @@ While not tied to one of metalcore's specific signature setups, AAX cymbals appe
     // Conclusion
     conclusion: {
       title: "Find Your Metalcore Cymbal Voice",
-      content: `Metalcore cymbal choice comes down to a fundamental question: do you want dry control or explosive brightness? Matt Halpern and Matt Greiner both found their answer in Meinl Byzance Extra Dry's controlled voicing, ideal for breakdown-heavy technical metalcore. Alex Bent found a brighter middle ground in the Byzance Brilliant Series for Trivium's more melodic modern metal sound, while Jay Weinberg found his in Zildjian's explosive A Custom & K Custom lines for Slipknot's aggressive, theatrical performances.
+      content: `Metalcore cymbal choice comes down to a fundamental question: do you want dry control or explosive brightness? Matt Halpern and Matt Greiner both found their answer in Meinl Byzance Extra Dry's controlled voicing, ideal for breakdown-heavy technical metalcore. Alex Bent found a brighter middle ground in the Zildjian K Custom Hybrid Series for Trivium's more melodic modern metal sound, while Jay Weinberg found his in Zildjian's explosive A Custom & K Custom lines for Slipknot's aggressive, theatrical performances.
 
 Neither approach is more "authentic" to the genre — all four have driven some of metalcore's most influential recordings. Start with whichever family matches your band's balance of breakdown weight versus melody and aggression.
 
@@ -78084,7 +78084,7 @@ Start with one splash matched to whichever side of deathcore's structure your ma
     // SEO metadata
     title: "Best Snare Drums for Metalcore: 2026 Ultimate Guide",
     metaTitle: "Best Snare Drums for Metalcore 2026 | MetalForge Expert Guide",
-    description: "Best snare drums for metalcore drumming: what Matt Greiner (Pearl Signature Steel), Eloy Casagrande (Tama Bell Brass), Matt Halpern (Pearl Reference Brass), and Alex Bent (Pearl Reference Brass) actually play. Cutting attack for breakdowns and syncopated riffing — ranked budget to pro.",
+    description: "Best snare drums for metalcore drumming: what Matt Greiner (Pearl Signature Steel), Eloy Casagrande (Tama Bell Brass), Matt Halpern (Pearl Reference Brass), and Alex Bent (Tama Starclassic Maple) actually play. Cutting attack for breakdowns and syncopated riffing — ranked budget to pro.",
     seoKeywords: [
       'best snare drum for metalcore',
       'metalcore snare drum',
@@ -78121,7 +78121,7 @@ Start with one splash matched to whichever side of deathcore's structure your ma
       title: "Why Metalcore Needs a Cutting, Articulate Snare",
       content: `Metalcore drumming lives between two worlds — breakdown-driven heaviness and technical, syncopated precision — and the genre's snare choice has to serve both at once. A snare that's too dark or damp gets swallowed by palm-muted breakdown chugs, while a snare that's too thin loses the punch needed to land a crushing half-time hit. Metalcore drummers instead reach for bright, cutting shells that stay articulate through complex time signature changes and still deliver real crack when the breakdown hits.
 
-Matt Greiner of August Burns Red plays a Pearl Matt Greiner Signature 14x6" Steel snare, its steel shell giving the sharp, cutting attack that drives the band's Grammy-nominated, jazz-influenced technical metalcore. Eloy Casagrande, whose Sepultura and current Slipknot work bridges groove metal and modern metalcore-adjacent aggression, plays a Tama Bell Brass 14x5.5" snare for bright, cutting projection through dense arrangements. Matt Halpern of Periphery drives the djent-metalcore hybrid on a Pearl Reference 14x6.5" Brass snare, chosen for cutting, focused crack that sits precisely within downtuned guitar layers. Alex Bent, who brought technical death metal precision to Trivium's thrash-meets-metalcore sound, plays a Pearl Reference 14x5" Brass snare for a bright, cutting attack at a shallower depth built for speed.
+Matt Greiner of August Burns Red plays a Pearl Matt Greiner Signature 14x6" Steel snare, its steel shell giving the sharp, cutting attack that drives the band's Grammy-nominated, jazz-influenced technical metalcore. Eloy Casagrande, whose Sepultura and current Slipknot work bridges groove metal and modern metalcore-adjacent aggression, plays a Tama Bell Brass 14x5.5" snare for bright, cutting projection through dense arrangements. Matt Halpern of Periphery drives the djent-metalcore hybrid on a Pearl Reference 14x6.5" Brass snare, chosen for cutting, focused crack that sits precisely within downtuned guitar layers. Alex Bent, who brought technical death metal precision to Trivium's thrash-meets-metalcore sound, plays a Tama Starclassic Maple 14x5" snare, its maple shell giving a warm, full-bodied crack at a shallower depth built for speed.
 
 This guide breaks down shell material, depth, and tuning for metalcore snares — comparing four drummers whose setups define the genre's cutting, articulate standard, with recommendations from budget to professional touring rigs.`,
       keyPoints: [
@@ -78139,8 +78139,8 @@ This guide breaks down shell material, depth, and tuning for metalcore snares �
         {
           name: "Bright, Cutting Shell Material",
           icon: "⚡",
-          description: "Steel (Matt Greiner) and brass (Eloy Casagrande, Matt Halpern, Alex Bent) dominate metalcore's snare choices — both deliver a bright, cutting attack that punches through dense, downtuned guitar layers rather than getting buried beneath them.",
-          recommendation: "Steel or brass shell for bright, cutting projection through dense arrangements"
+          description: "Steel (Matt Greiner) and brass (Eloy Casagrande, Matt Halpern) dominate metalcore's snare choices for their bright, cutting attack that punches through dense, downtuned guitar layers, while Alex Bent's maple shell trades some of that brightness for a warmer, fuller crack.",
+          recommendation: "Steel or brass shell for bright, cutting projection through dense arrangements; maple for a warmer, fuller crack"
         },
         {
           name: "Breakdown Punch",
@@ -78301,43 +78301,43 @@ The Reference Series brass shell balances warmth and cut, giving Halpern's odd-t
         },
         {
           rank: 4,
-          name: "Pearl Reference Brass (Shallow)",
-          brand: "Pearl",
-          model: "Reference 14x5\" Brass",
+          name: "Tama Starclassic Maple (Shallow)",
+          brand: "Tama",
+          model: "Starclassic Maple 14x5\"",
           image: "https://upload.wikimedia.org/wikipedia/commons/a/ac/Drums_01.jpg",
           priceRange: "€350-450",
           tier: "pro",
-          material: "Brass (14x5\")",
+          material: "Maple (14x5\")",
 
-          description: `Alex Bent's Pearl Reference Brass snare delivers the bright, cutting attack that drove Trivium's thrash-meets-technical-death-metal sound across three albums: "The Sin and the Sentence" (2017), "What the Dead Men Say" (2020), and "In the Court of the Dragon" (2021). The shallower 5" depth favors quick rebound, reflecting Bent's technical death metal roots in Arkaik and Brain Drill.
+          description: `Alex Bent's Tama Starclassic Maple snare delivers a warm, full-bodied crack that drove Trivium's thrash-meets-technical-death-metal sound across three albums: "The Sin and the Sentence" (2017), "What the Dead Men Say" (2020), and "In the Court of the Dragon" (2021). The shallower 5" depth favors quick rebound, reflecting Bent's technical death metal roots in Arkaik and Brain Drill.
 
-For metalcore drummers who prioritize speed and technical precision over maximum breakdown body, Bent's shallower brass shell shows how depth can be tuned for rebound without losing the genre's signature cut.`,
+For metalcore drummers who prioritize speed and technical precision over maximum breakdown body, Bent's shallower maple shell shows how depth can be tuned for rebound without losing body.`,
 
           pros: [
             "Alex Bent's Trivium setup — technical death metal precision applied to metalcore",
             "5\" depth favors quick rebound for fast, technical passages",
-            "Brass shell delivers bright, cutting projection",
+            "Maple shell delivers warm, full-bodied tone",
             "Proven across three acclaimed Trivium albums",
             "More affordable than deeper signature-depth alternatives"
           ],
           cons: [
             "Shallower depth trades some low-end body for speed",
             "Less breakdown punch than 6\"-6.5\" deep alternatives",
-            "Requires a confident tuning hand for maximum crack"
+            "Warmer voicing cuts less than brass or steel in the densest mixes"
           ],
           specs: {
-            shell: "Brass (Pearl Reference)",
+            shell: "Maple (Tama Starclassic)",
             diameter: "14\"",
             depth: "5\"",
-            throwOff: "Pearl SR-1000 SuperHoop",
+            throwOff: "Tama MTS-100",
             wires: "20-strand"
           },
           usedBy: [
-            { name: "Alex Bent", band: "Trivium", note: "14x5\" Pearl Reference Brass — fast, technical metalcore attack" }
+            { name: "Alex Bent", band: "Trivium", note: "14x5\" Tama Starclassic Maple — fast, technical metalcore attack" }
           ],
-          verdict: "Best for fast, technical metalcore. Bent's shallow brass shell prioritizes speed without losing cut.",
+          verdict: "Best for fast, technical metalcore. Bent's shallow maple shell prioritizes speed without losing body.",
           rating: 4.4,
-          affiliateLink: "https://www.thomann.de/intl/pearl_reference_brass_snare_14x5.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/tama_starclassic_maple_snare_14x5_bent.htm?partner_id=metalforge"
         }
       ]
     },
@@ -78380,7 +78380,7 @@ For metalcore drummers who prioritize speed and technical precision over maximum
 
     // Comparison
     comparison: {
-      title: "Steel vs Brass vs Bell Brass for Metalcore",
+      title: "Steel vs Brass vs Bell Brass vs Maple for Metalcore",
       content: `Bright, cutting projection stays consistent across metalcore's closest working lineage, but shell material and depth split these drummers into distinct camps. Here's how they compare:
 
 **Steel (Matt Greiner):**
@@ -78393,12 +78393,17 @@ For metalcore drummers who prioritize speed and technical precision over maximum
 - 5.5\" depth balances speed and body
 - Best for modern, aggressive metalcore-adjacent live setups
 
-**Brass (Matt Halpern, Alex Bent):**
+**Brass (Matt Halpern):**
 - Balances warmth and cutting articulation
 - Depth ranges 5\"-6.5\" depending on speed vs. body priority
-- Best for djent-metalcore and fast, technical metalcore
+- Best for djent-metalcore
 
-**Our Recommendation:** Start with a Pearl Export or Tama Stagestar steel snare if you're building metalcore technique on a budget. Choose a brass snare at 14x5\" if speed and technicality are your priority. Go with Matt Greiner's signature steel shell if your priority is maximum breakdown crack.`,
+**Maple (Alex Bent):**
+- Warm, full-bodied crack with less brightness than brass or steel
+- 5\" depth favors quick rebound for fast, technical passages
+- Best for fast, technical metalcore
+
+**Our Recommendation:** Start with a Pearl Export or Tama Stagestar steel snare if you're building metalcore technique on a budget. Choose a 14x5\" shell if speed and technicality are your priority. Go with Matt Greiner's signature steel shell if your priority is maximum breakdown crack.`,
       comparisonTable: [
         { feature: "Brightness/Cut", maple: "⭐⭐⭐⭐⭐", hybrid: "⭐⭐⭐⭐⭐", dual: "⭐⭐⭐⭐" },
         { feature: "Breakdown Punch", maple: "⭐⭐⭐⭐⭐", hybrid: "⭐⭐⭐⭐", dual: "⭐⭐⭐⭐" },
@@ -78444,7 +78449,7 @@ For metalcore drummers who prioritize speed and technical precision over maximum
       { slug: 'matt-greiner', name: 'Matt Greiner', reason: 'Pearl Signature Steel — August Burns Red\'s cutting, technical metalcore standard' },
       { slug: 'eloy-casagrande', name: 'Eloy Casagrande', reason: 'Tama Bell Brass — Slipknot/Sepultura\'s bright, modern metalcore-adjacent attack' },
       { slug: 'matt-halpern', name: 'Matt Halpern', reason: 'Pearl Reference Brass — Periphery\'s djent-metalcore articulation' },
-      { slug: 'alex-bent', name: 'Alex Bent', reason: 'Pearl Reference Brass — Trivium\'s fast, technical metalcore attack' }
+      { slug: 'alex-bent', name: 'Alex Bent', reason: 'Tama Starclassic Maple — Trivium\'s fast, technical metalcore attack' }
     ],
 
     // Featured drummers (issue template)
@@ -78452,14 +78457,14 @@ For metalcore drummers who prioritize speed and technical precision over maximum
       { slug: 'matt-greiner', name: 'Matt Greiner', reason: 'Pearl Signature Steel — August Burns Red\'s cutting, technical metalcore standard' },
       { slug: 'eloy-casagrande', name: 'Eloy Casagrande', reason: 'Tama Bell Brass — Slipknot/Sepultura\'s bright, modern metalcore-adjacent attack' },
       { slug: 'matt-halpern', name: 'Matt Halpern', reason: 'Pearl Reference Brass — Periphery\'s djent-metalcore articulation' },
-      { slug: 'alex-bent', name: 'Alex Bent', reason: 'Pearl Reference Brass — Trivium\'s fast, technical metalcore attack' }
+      { slug: 'alex-bent', name: 'Alex Bent', reason: 'Tama Starclassic Maple — Trivium\'s fast, technical metalcore attack' }
     ],
 
     // FAQ section for SEO
     faq: [
       {
         question: "Who are the best metalcore drummers and what snares do they use?",
-        answer: "Matt Greiner of August Burns Red plays a Pearl Matt Greiner Signature 14x6\" Steel snare. Eloy Casagrande of Slipknot/Sepultura plays a Tama Bell Brass 14x5.5\" snare. Matt Halpern of Periphery plays a Pearl Reference 14x6.5\" Brass snare, and Alex Bent of Trivium plays a Pearl Reference 14x5\" Brass snare."
+        answer: "Matt Greiner of August Burns Red plays a Pearl Matt Greiner Signature 14x6\" Steel snare. Eloy Casagrande of Slipknot/Sepultura plays a Tama Bell Brass 14x5.5\" snare. Matt Halpern of Periphery plays a Pearl Reference 14x6.5\" Brass snare, and Alex Bent of Trivium plays a Tama Starclassic Maple 14x5\" snare."
       },
       {
         question: "What snare drum does Matt Greiner use?",
@@ -78467,7 +78472,7 @@ For metalcore drummers who prioritize speed and technical precision over maximum
       },
       {
         question: "Steel or brass — which is better for metalcore?",
-        answer: "Both work. Steel (Matt Greiner) delivers maximum brightness and crack, ideal for breakdown-heavy material. Brass (Matt Halpern, Alex Bent) and bell brass (Eloy Casagrande) balance warmth with cutting articulation, suiting more melodic or technical metalcore. Choose steel for maximum breakdown punch, brass for a more rounded tone."
+        answer: "Both work. Steel (Matt Greiner) delivers maximum brightness and crack, ideal for breakdown-heavy material. Brass (Matt Halpern) and bell brass (Eloy Casagrande) balance warmth with cutting articulation, while Alex Bent's maple shell trades some brightness for a warmer, fuller tone. Choose steel for maximum breakdown punch, brass for a more rounded tone, maple for warmth."
       },
       {
         question: "What snare depth is best for metalcore?",
@@ -78482,7 +78487,7 @@ For metalcore drummers who prioritize speed and technical precision over maximum
     // Conclusion
     conclusion: {
       title: "Find Your Metalcore Snare Voice",
-      content: `Metalcore snare choice comes down to how much crack and brightness your riffs and breakdowns demand. Matt Greiner's Pearl Signature Steel snare defined the genre's cutting, technical standard, anchoring August Burns Red's Grammy-nominated catalog. Eloy Casagrande's Tama Bell Brass snare proved that a bright, focused shell can bridge groove metal and modern metalcore-adjacent aggression on some of metal's biggest stages. Matt Halpern's Pearl Reference Brass shows how djent-metalcore's polyrhythmic complexity demands both body and articulation, while Alex Bent's shallower Pearl Reference Brass demonstrates how technical death metal precision can sharpen metalcore's speed.
+      content: `Metalcore snare choice comes down to how much crack and brightness your riffs and breakdowns demand. Matt Greiner's Pearl Signature Steel snare defined the genre's cutting, technical standard, anchoring August Burns Red's Grammy-nominated catalog. Eloy Casagrande's Tama Bell Brass snare proved that a bright, focused shell can bridge groove metal and modern metalcore-adjacent aggression on some of metal's biggest stages. Matt Halpern's Pearl Reference Brass shows how djent-metalcore's polyrhythmic complexity demands both body and articulation, while Alex Bent's shallower Tama Starclassic Maple demonstrates how technical death metal precision can sharpen metalcore's speed.
 
 None of these approaches is more "correct" — all four represent metalcore's founding commitment to cutting through dense, downtuned arrangements while staying articulate through syncopation. Start with whichever shell material and depth matches your material's balance of speed versus breakdown weight.
 
@@ -84939,7 +84944,7 @@ Budget shouldn't stop you either. A Pearl Export bass drum with a Tama Iron Cobr
     // SEO metadata
     title: "Best Hi-Hats for Metalcore: 2026 Ultimate Guide",
     metaTitle: "Best Hi-Hats for Metalcore 2026 | MetalForge Expert Guide",
-    description: "What hi-hats are used in metalcore? Discover what Matt Halpern, Matt Greiner, Alex Bent, and Jay Weinberg actually play — Meinl Byzance Extra Dry, Byzance Brilliant, and Zildjian A/K Custom — from budget to pro, built for breakdown control.",
+    description: "What hi-hats are used in metalcore? Discover what Matt Halpern, Matt Greiner, Alex Bent, and Jay Weinberg actually play — Meinl Byzance Extra Dry, Zildjian K Custom Hybrid, and Zildjian A/K Custom — from budget to pro, built for breakdown control.",
     seoKeywords: [
       'best hi-hats for metalcore',
       'metalcore hi-hats',
@@ -84976,13 +84981,13 @@ Budget shouldn't stop you either. A Pearl Export bass drum with a Tama Iron Cobr
       title: "What Hi-Hats Are Used in Metalcore?",
       content: `Hi-hats do more rhythmic work in metalcore than almost any other cymbal in the kit. Palm-muted breakdown riffing, tightly syncopated chugs, and constant tempo and dynamic shifts all live or die on whether the hi-hat stays controlled and articulate — a washy, uncontrolled hi-hat turns a precise breakdown into mud, while a dry, well-chosen pair locks the whole riff into place.
 
-Matt Halpern of Periphery builds his setup around 15" Dark Hi-Hats from the Meinl Byzance Extra Dry line, giving Periphery's polyrhythmic djent-metalcore hybrid a controlled, low-sustain foundation across "Periphery II," "Juggernaut," and "Hail Stan." Matt Greiner of August Burns Red runs a near-identical 15" Dual Hi-Hats setup from the same Byzance Extra Dry series, driving August Burns Red's Grammy-nominated technical precision. Alex Bent, who carried his technical death metal background from Brain Drill and Arkaik into Trivium, plays 14" Medium Hi-Hats from the brighter Meinl Byzance Brilliant Series, suited to Trivium's more melodic, riff-driven modern metal sound. Jay Weinberg of Slipknot takes yet another path, running 14" A New Beat Hi-Hats from Zildjian's A Custom line for a brighter, more explosive voice matched to Slipknot's aggressive nu-metal/metalcore hybrid.
+Matt Halpern of Periphery builds his setup around 15" Dark Hi-Hats from the Meinl Byzance Extra Dry line, giving Periphery's polyrhythmic djent-metalcore hybrid a controlled, low-sustain foundation across "Periphery II," "Juggernaut," and "Hail Stan." Matt Greiner of August Burns Red runs a near-identical 15" Dual Hi-Hats setup from the same Byzance Extra Dry series, driving August Burns Red's Grammy-nominated technical precision. Alex Bent, who carried his technical death metal background from Brain Drill and Arkaik into Trivium, plays 14" Medium Hi-Hats from the brighter Zildjian K Custom Hybrid Series, suited to Trivium's more melodic, riff-driven modern metal sound. Jay Weinberg of Slipknot takes yet another path, running 14" A New Beat Hi-Hats from Zildjian's A Custom line for a brighter, more explosive voice matched to Slipknot's aggressive nu-metal/metalcore hybrid.
 
 This guide breaks down exactly what makes a great metalcore hi-hat — diameter, voicing, and control — and which specific models these four influential drummers play, from budget starter pairs to the professional setups heard on the genre's most technically respected records.`,
       keyPoints: [
         "Meinl Byzance Extra Dry defines metalcore's dry, controlled hi-hat standard — Matt Halpern and Matt Greiner both build around it",
         "15\" hi-hats (Halpern, Greiner) give extra surface area and control for tightly muted, syncopated breakdown riffing",
-        "Meinl Byzance Brilliant gives Alex Bent a faster, brighter attack suited to Trivium's more melodic modern metal",
+        "Zildjian K Custom Hybrid gives Alex Bent a faster, brighter attack suited to Trivium's more melodic modern metal",
         "Zildjian A Custom & K Custom gives Jay Weinberg a brighter, more explosive voice for Slipknot's aggressive hybrid sound"
       ]
     },
@@ -84995,7 +85000,7 @@ This guide breaks down exactly what makes a great metalcore hi-hat — diameter,
           name: "Dry vs Bright Voicing",
           icon: "🌫️",
           description: "Metalcore's breakdown-driven riffing needs hi-hats that don't wash into a wall of sustain. Matt Halpern and Matt Greiner's Meinl Byzance Extra Dry hi-hats are voiced with minimal ring, staying controlled through syncopated, palm-muted passages. Alex Bent and Jay Weinberg instead favor brighter voicing for a faster, more cutting attack on more melodic or aggressive material.",
-          recommendation: "Extra Dry or dark voicing for breakdown-heavy technical metalcore; brighter Brilliant or A Custom voicing for melodic or aggressive metalcore"
+          recommendation: "Extra Dry or dark voicing for breakdown-heavy technical metalcore; brighter K Custom Hybrid or A Custom voicing for melodic or aggressive metalcore"
         },
         {
           name: "Diameter",
@@ -85071,21 +85076,21 @@ Both drummers rely on the Extra Dry line's minimal-sustain voicing to stay contr
         },
         {
           rank: 2,
-          name: "Meinl Byzance Brilliant Hi-Hats",
-          brand: "Meinl",
-          model: "Byzance Brilliant Hi-Hats 14\"",
+          name: "Zildjian K Custom Hybrid Hi-Hats",
+          brand: "Zildjian",
+          model: "K Custom Hybrid Hi-Hats 14\"",
           image: "https://upload.wikimedia.org/wikipedia/commons/4/43/Zildjian_Quick_Beat_Hi_Hat_15.jpg",
           priceRange: "€300-400 per pair",
           tier: "pro",
-          material: "B20 Bronze, Brilliant Finish",
+          material: "B20 Bronze, Hybrid Finish",
 
-          description: `Alex Bent brought his technical death metal background from Brain Drill and Arkaik into Trivium, and his 14" Medium Hi-Hats from the Meinl Byzance Brilliant Series reflect that hybrid pedigree. The brilliant finish gives a faster, brighter attack than the Extra Dry line, matching Trivium's more melodic, riff-driven modern metal sound on "The Sin and the Sentence" and "In the Court of the Dragon."
+          description: `Alex Bent brought his technical death metal background from Brain Drill and Arkaik into Trivium, and his 14" Medium Hi-Hats from the Zildjian K Custom Hybrid Series reflect that hybrid pedigree. The hybrid finish blends a dark, complex K Custom body with a brighter, cutting edge, giving a faster attack than the Extra Dry line while matching Trivium's more melodic, riff-driven modern metal sound on "The Sin and the Sentence" and "In the Court of the Dragon."
 
-Where Halpern and Greiner prioritize dryness and control, Bent's Brilliant Series hi-hats show that a brighter, more resonant voice works equally well for metalcore-adjacent modern metal that leans into melody as much as breakdown weight.`,
+Where Halpern and Greiner prioritize dryness and control, Bent's K Custom Hybrid hi-hats show that a brighter, more resonant voice works equally well for metalcore-adjacent modern metal that leans into melody as much as breakdown weight.`,
 
           pros: [
             "Alex Bent's Trivium setup — proof that brighter voicing works for melodic metalcore",
-            "Brilliant finish gives faster, more cutting attack than Extra Dry alternatives",
+            "Hybrid finish gives faster, more cutting attack than Extra Dry alternatives",
             "Standard 14\" diameter for versatile response",
             "Proven on Trivium's Grammy-nominated modern catalog"
           ],
@@ -85096,17 +85101,17 @@ Where Halpern and Greiner prioritize dryness and control, Bent's Brilliant Serie
           ],
           specs: {
             material: "B20 bronze",
-            finish: "Brilliant",
+            finish: "Hybrid",
             weight: "Medium",
             diameter: "14\"",
-            series: "Byzance Brilliant"
+            series: "K Custom Hybrid"
           },
           usedBy: [
             { name: "Alex Bent", band: "Trivium", note: "14\" Medium Hi-Hats — melodic modern metalcore precision" }
           ],
           verdict: "Best for melodic modern metalcore. Bent's brighter hi-hats prove technical precision and melody aren't mutually exclusive.",
           rating: 4.6,
-          affiliateLink: "https://www.thomann.de/intl/meinl_byzance_brilliant_hi_hats.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/zildjian_k_custom_hybrid_hi_hats_bent.htm?partner_id=metalforge"
         },
         {
           rank: 3,
@@ -85235,13 +85240,13 @@ While not tied to one of metalcore's specific signature setups, AAX Stage hi-hat
 - 15" diameter common for extra control
 - The genre's technical benchmark
 
-**Bright (Meinl Byzance Brilliant — Alex Bent's choice; Zildjian A Custom — Jay Weinberg's choice):**
+**Bright (Zildjian K Custom Hybrid — Alex Bent's choice; Zildjian A Custom — Jay Weinberg's choice):**
 - Faster, more cutting attack
 - Suits melodic, riff-driven, or aggressive nu-metal-influenced metalcore
 - Standard 14" diameter
 - The contemporary alternative for genre-crossing bands
 
-**Metalcore Verdict:** Choose dry (Meinl Byzance Extra Dry) if you play breakdown-heavy, technical metalcore in the Periphery or August Burns Red tradition. Choose bright (Meinl Byzance Brilliant or Zildjian A Custom) if you play melodic or aggressive metalcore in the Trivium or Slipknot tradition.`,
+**Metalcore Verdict:** Choose dry (Meinl Byzance Extra Dry) if you play breakdown-heavy, technical metalcore in the Periphery or August Burns Red tradition. Choose bright (Zildjian K Custom Hybrid or Zildjian A Custom) if you play melodic or aggressive metalcore in the Trivium or Slipknot tradition.`,
       comparisonTable: [
         { feature: "Breakdown Control", birch: "⭐⭐⭐⭐⭐", maple: "⭐⭐⭐" },
         { feature: "Cutting Articulation", birch: "⭐⭐⭐", maple: "⭐⭐⭐⭐⭐" },
@@ -85262,7 +85267,7 @@ While not tied to one of metalcore's specific signature setups, AAX Stage hi-hat
         },
         {
           category: "Best for Melodic Metalcore",
-          pedal: "Meinl Byzance Brilliant Hi-Hats",
+          pedal: "Zildjian K Custom Hybrid Hi-Hats",
           reason: "Alex Bent's Trivium setup. Faster, brighter attack for melodic, riff-driven material."
         },
         {
@@ -85287,7 +85292,7 @@ While not tied to one of metalcore's specific signature setups, AAX Stage hi-hat
     relatedDrummers: [
       { slug: 'matt-halpern', name: 'Matt Halpern', reason: 'Meinl Byzance Extra Dry 15" Hi-Hats — Periphery djent-metalcore precision' },
       { slug: 'matt-greiner', name: 'Matt Greiner', reason: 'Meinl Byzance Extra Dry 15" Hi-Hats — August Burns Red technical precision' },
-      { slug: 'alex-bent', name: 'Alex Bent', reason: 'Meinl Byzance Brilliant 14" Hi-Hats — Trivium melodic modern metal' },
+      { slug: 'alex-bent', name: 'Alex Bent', reason: 'Zildjian K Custom Hybrid 14" Hi-Hats — Trivium melodic modern metal' },
       { slug: 'jay-weinberg', name: 'Jay Weinberg', reason: 'Zildjian A Custom 14" Hi-Hats — Slipknot explosive hybrid sound' }
     ],
 
@@ -85295,7 +85300,7 @@ While not tied to one of metalcore's specific signature setups, AAX Stage hi-hat
     featuredDrummers: [
       { slug: 'matt-halpern', name: 'Matt Halpern', reason: 'Meinl Byzance Extra Dry Hi-Hats — Periphery djent-metalcore precision' },
       { slug: 'matt-greiner', name: 'Matt Greiner', reason: 'Meinl Byzance Extra Dry Hi-Hats — August Burns Red technical precision' },
-      { slug: 'alex-bent', name: 'Alex Bent', reason: 'Meinl Byzance Brilliant Hi-Hats — Trivium melodic modern metal' },
+      { slug: 'alex-bent', name: 'Alex Bent', reason: 'Zildjian K Custom Hybrid Hi-Hats — Trivium melodic modern metal' },
       { slug: 'jay-weinberg', name: 'Jay Weinberg', reason: 'Zildjian A Custom Hi-Hats — Slipknot\'s explosive hybrid attack' },
     ],
 
@@ -85303,7 +85308,7 @@ While not tied to one of metalcore's specific signature setups, AAX Stage hi-hat
     faq: [
       {
         question: "What hi-hats are used in metalcore?",
-        answer: "Matt Halpern of Periphery and Matt Greiner of August Burns Red both use 15\" Meinl Byzance Extra Dry Hi-Hats for controlled, low-sustain response. Alex Bent of Trivium uses 14\" Meinl Byzance Brilliant Hi-Hats for a brighter, faster attack. Jay Weinberg of Slipknot uses 14\" Zildjian A Custom Hi-Hats for explosive projection."
+        answer: "Matt Halpern of Periphery and Matt Greiner of August Burns Red both use 15\" Meinl Byzance Extra Dry Hi-Hats for controlled, low-sustain response. Alex Bent of Trivium uses 14\" Zildjian K Custom Hybrid Hi-Hats for a brighter, faster attack. Jay Weinberg of Slipknot uses 14\" Zildjian A Custom Hi-Hats for explosive projection."
       },
       {
         question: "What hi-hats does Matt Halpern use?",
@@ -85315,11 +85320,11 @@ While not tied to one of metalcore's specific signature setups, AAX Stage hi-hat
       },
       {
         question: "Best hi-hats for breakdowns?",
-        answer: "Dry, controlled hi-hats with a defined chick handle breakdown patterns best. Meinl Byzance Extra Dry (Matt Halpern, Matt Greiner) is the genre's technical benchmark. Meinl Byzance Brilliant (Alex Bent) and Zildjian A Custom (Jay Weinberg) offer brighter alternatives for more melodic or aggressive breakdown-adjacent material."
+        answer: "Dry, controlled hi-hats with a defined chick handle breakdown patterns best. Meinl Byzance Extra Dry (Matt Halpern, Matt Greiner) is the genre's technical benchmark. Zildjian K Custom Hybrid (Alex Bent) and Zildjian A Custom (Jay Weinberg) offer brighter alternatives for more melodic or aggressive breakdown-adjacent material."
       },
       {
         question: "Dry or bright hi-hats for metalcore?",
-        answer: "Both work at the highest level. Dry hi-hats (Meinl Byzance Extra Dry, Halpern and Greiner's choice) suit breakdown-heavy, technical metalcore. Bright hi-hats (Meinl Byzance Brilliant, Bent's choice; Zildjian A Custom, Weinberg's choice) suit melodic or aggressive, nu-metal-influenced metalcore. Choose based on which subgenre and production style you're chasing."
+        answer: "Both work at the highest level. Dry hi-hats (Meinl Byzance Extra Dry, Halpern and Greiner's choice) suit breakdown-heavy, technical metalcore. Bright hi-hats (Zildjian K Custom Hybrid, Bent's choice; Zildjian A Custom, Weinberg's choice) suit melodic or aggressive, nu-metal-influenced metalcore. Choose based on which subgenre and production style you're chasing."
       }
     ],
 
@@ -85328,7 +85333,7 @@ While not tied to one of metalcore's specific signature setups, AAX Stage hi-hat
       title: "Find Your Metalcore Hi-Hat Voice",
       content: `Metalcore hi-hats split into two proven traditions: the dry, controlled character that Matt Halpern and Matt Greiner both build their setups around, and the brighter, more articulate sound that Alex Bent and Jay Weinberg favor for melodic or aggressive, genre-crossing material.
 
-If you play breakdown-heavy, technical metalcore, start with a 15" Meinl Byzance Extra Dry pair or the budget Classics Custom Dark — both stay controlled through syncopated, palm-muted riffing. If you play melodic or aggressive metalcore, Meinl Byzance Brilliant or Zildjian A Custom will give you the cutting articulation or explosive projection your playing demands.
+If you play breakdown-heavy, technical metalcore, start with a 15" Meinl Byzance Extra Dry pair or the budget Classics Custom Dark — both stay controlled through syncopated, palm-muted riffing. If you play melodic or aggressive metalcore, Zildjian K Custom Hybrid or Zildjian A Custom will give you the cutting articulation or explosive projection your playing demands.
 
 Whatever you choose, prioritize consistent chick response and dynamic range over flashy features — the hi-hat is the most-used cymbal in metalcore drumming, and it needs to lock in every breakdown and syncopated riff with total precision.
 

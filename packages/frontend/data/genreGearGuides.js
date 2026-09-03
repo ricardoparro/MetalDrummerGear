@@ -6742,7 +6742,7 @@ Start with a 16\" crash, 18\" crash, and 14\" hi-hats. Add a China cymbal when b
     // SEO metadata
     title: "Best Drum Pedals for Black Metal: 2026 Ultimate Guide",
     metaTitle: "Best Drum Pedals for Black Metal 2026 | MetalForge Expert Guide",
-    description: "Best double bass pedals for black metal drumming. What Inferno, Hellhammer, and Frost actually use — Pearl Eliminator, Pearl P-2052C, and more. From budget to pro.",
+    description: "Best double bass pedals for black metal drumming. What Inferno, Hellhammer, and Frost actually use — Monolit Czarcie Kopyto, Axis Double Pedal, and more. From budget to pro.",
     seoKeywords: [
       'best drum pedals for black metal',
       'black metal drum pedals',
@@ -6779,7 +6779,7 @@ Start with a 16\" crash, 18\" crash, and 14\" hi-hats. Add a China cymbal when b
       title: "Black Metal's Unique Pedal Requirements",
       content: `Black metal drumming presents a unique challenge: sustained blast beats at 180–240 BPM across lengthy compositions, often in DIY recording environments where gear must be both reliable and affordable. Unlike death metal where technical precision dominates, black metal's raw, relentless energy demands pedals that can maintain consistent speed over extended periods without fatigue or mechanical failure.
 
-Inferno of Gorgoroth has long used Pearl Eliminator pedals, relying on their durability and consistent action to drive the relentless blast beats on albums like "Twilight of the Idols." Hellhammer of Mayhem, arguably black metal's most influential drummer, used Pearl P-2052C pedals during formative recordings that established the blueprint for the entire genre. Frost of Satyricon has played a Tama Iron Cobra Power Glide pedal since 2013, its chain drive rewarding the dynamic control his technical playing demands.
+Inferno of Gorgoroth has long used a Monolit Czarcie Kopyto pedal, relying on its durability and consistent action to drive the relentless blast beats on albums like "Twilight of the Idols." Hellhammer of Mayhem, arguably black metal's most influential drummer, has played an Axis Double Pedal since 1999, its precision engineering built for the extreme, sustained speed that established the blueprint for the entire genre. Frost of Satyricon has played a Tama Iron Cobra Power Glide pedal since 2013, its chain drive rewarding the dynamic control his technical playing demands.
 
 This guide covers the specific pedal needs of black metal drumming — sustained speeds, endurance-focused design, and equipment that can handle the raw, physical demands of the genre.`,
       keyPoints: [
@@ -6847,12 +6847,12 @@ This guide covers the specific pedal needs of black metal drumming — sustained
           tier: "mid-pro",
           driveType: "Chain with Interchangeable Cams",
 
-          description: `The Pearl Eliminator Redline is the most historically significant pedal in black metal. Hellhammer of Mayhem used the Pearl P-2052C Eliminator double pedal during key recordings that established black metal's drumming template — fast, relentless, and built for extreme endurance. Inferno of Gorgoroth carries this tradition forward with Pearl Eliminator pedals, driving the blast beats on Gorgoroth's defining recordings.
+          description: `The Pearl Eliminator Redline is one of the most widely used pedals in black metal, prized for the durability and consistent action it brings to sustained, relentless blast beats — fast, relentless, and built for extreme endurance.
 
 The Eliminator's chain drive with interchangeable cams gives black metal drummers flexibility — you can experiment with different cam profiles to find the right balance of swing and precision for your specific playing approach. The NiNjA bearing system provides smoothness without the clinical feel of full direct drive, perfectly suited to black metal's raw energy.`,
 
           pros: [
-            "Historically significant black metal pedigree — Hellhammer and Inferno lineage",
+            "Widely used and trusted across black metal for its durability and consistent action",
             "Interchangeable cams for customizable feel",
             "NiNjA bearings for smooth, enduring action",
             "Chain drive character suits black metal's raw energy",
@@ -6871,10 +6871,9 @@ The Eliminator's chain drive with interchangeable cams gives black metal drummer
             weight: "3.8 kg (pair)"
           },
           usedBy: [
-            { name: "Hellhammer", band: "Mayhem", note: "Pearl P-2052C Eliminator — foundational black metal recordings" },
-            { name: "Inferno", band: "Gorgoroth", note: "Pearl Eliminator — driving Gorgoroth's relentless blast beats" }
+            { name: "Black metal drummers worldwide", band: "Various", note: "Historically significant, widely trusted chain-drive pedal" }
           ],
-          verdict: "The black metal pedal. Proven by the genre's most influential drummers across decades of extreme use.",
+          verdict: "Widely regarded as the black metal pedal — proven across decades of extreme, sustained use.",
           rating: 4.7,
           affiliateLink: "https://www.thomann.de/intl/pearl_p2052c_eliminator_redline.htm?partner_id=metalforge"
         },
@@ -7068,7 +7067,7 @@ For developing black metal drummers learning blast beats, the Iron Cobra 600 pro
 
 **Chain Drive (Pearl Eliminator, Iron Cobra, DW 5000):**
 - Traditional feel preferred by foundational black metal drummers
-- Hellhammer, Inferno, and Frost all played chain drive
+- Frost played chain drive throughout his career
 - The swing in chain drive suits black metal's raw character
 - Lower entry price point — fits black metal's DIY ethos
 
@@ -7078,7 +7077,7 @@ For developing black metal drummers learning blast beats, the Iron Cobra 600 pro
 - Maximum speed potential for demanding compositions
 - Higher price point
 
-**Black Metal Verdict:** Chain drive has historical precedent and cultural resonance in black metal. Hellhammer's foundational recordings were made on chain drive Pearl pedals, and Frost's Tama Iron Cobra Power Glide proves chain drive handles technical precision too. Direct drive suits players who want maximum speed above all else. Start with chain drive (Eliminator or Iron Cobra) unless you specifically prioritize direct-drive speed.`,
+**Black Metal Verdict:** Chain drive has historical precedent and cultural resonance in black metal, and Frost's Tama Iron Cobra Power Glide proves chain drive handles technical precision too. Direct drive suits players who want maximum speed above all else. Start with chain drive (Eliminator or Iron Cobra) unless you specifically prioritize direct-drive speed.`,
       comparisonTable: [
         { feature: "Historical Black Metal Use", chainDrive: "⭐⭐⭐⭐⭐", directDrive: "⭐⭐⭐" },
         { feature: "Raw Character", chainDrive: "⭐⭐⭐⭐⭐", directDrive: "⭐⭐⭐" },
@@ -7095,7 +7094,7 @@ For developing black metal drummers learning blast beats, the Iron Cobra 600 pro
         {
           category: "Best Overall",
           pedal: "Pearl Eliminator Redline",
-          reason: "Hellhammer and Inferno used Pearl Eliminators to define the genre. The historically proven choice."
+          reason: "Widely used and trusted across black metal for its durability and consistent action under sustained blast beats. The historically proven choice."
         },
         {
           category: "Best for Technical Black Metal",
@@ -7123,15 +7122,15 @@ For developing black metal drummers learning blast beats, the Iron Cobra 600 pro
       'best-drum-hardware-for-black-metal'
     ],
     relatedDrummers: [
-      { slug: 'hellhammer', name: 'Hellhammer', reason: 'Pearl P-2052C — foundational black metal drumming' },
-      { slug: 'inferno', name: 'Inferno', reason: 'Pearl Eliminator — Gorgoroth blast beat relentlessness' },
+      { slug: 'hellhammer', name: 'Hellhammer', reason: 'Axis Double Pedal — foundational black metal drumming' },
+      { slug: 'inferno', name: 'Inferno', reason: 'Monolit Czarcie Kopyto — Gorgoroth blast beat relentlessness' },
       { slug: 'frost', name: 'Frost', reason: 'Tama Iron Cobra Power Glide — technical precision in black metal' }
     ],
 
     // Featured drummers (issue template)
     featuredDrummers: [
-      { slug: 'inferno', name: 'Inferno', reason: 'Pearl Eliminator for relentless Gorgoroth blast beats' },
-      { slug: 'hellhammer', name: 'Hellhammer', reason: 'Pearl P-2052C — defined black metal drumming' },
+      { slug: 'inferno', name: 'Inferno', reason: 'Monolit Czarcie Kopyto for relentless Gorgoroth blast beats' },
+      { slug: 'hellhammer', name: 'Hellhammer', reason: 'Axis Double Pedal — defined black metal drumming' },
       { slug: 'frost', name: 'Frost', reason: 'Tama Iron Cobra Power Glide for technical black metal precision' },
     ],
 
@@ -7139,15 +7138,15 @@ For developing black metal drummers learning blast beats, the Iron Cobra 600 pro
     faq: [
       {
         question: "What pedals does Hellhammer from Mayhem use?",
-        answer: "Hellhammer of Mayhem used Pearl P-2052C Eliminator double pedals during key recordings that established black metal's drumming template. The Pearl Eliminator's chain drive action provided the raw, relentless feel that defined black metal blast beat drumming."
+        answer: "Hellhammer of Mayhem has played an Axis Double Pedal since 1999, its precision engineering built for the extreme, sustained speed that established black metal's drumming template — fast, relentless, and built to hold up over decades of touring and recording."
       },
       {
         question: "What drum pedals does Inferno from Gorgoroth use?",
-        answer: "Inferno of Gorgoroth uses Pearl Eliminator pedals, continuing the Pearl legacy that Hellhammer established in black metal. The Eliminator's reliable, consistent chain drive action suits the sustained blast beat demands of Gorgoroth's extreme black metal compositions."
+        answer: "Inferno of Gorgoroth uses a Monolit Czarcie Kopyto double pedal, relying on its durability and consistent action to suit the sustained blast beat demands of Gorgoroth's extreme black metal compositions."
       },
       {
         question: "Is chain drive or direct drive better for black metal?",
-        answer: "Chain drive has historical precedent in black metal — Hellhammer and Inferno both use chain drive Pearl pedals. The slight swing in chain drive action suits black metal's raw energy. Direct drive (like Pearl Demon Drive) is preferred by modern technical black metal drummers who need maximum precision. Both work; chain drive is more culturally appropriate for traditional black metal."
+        answer: "Chain drive has historical precedent in black metal — Frost's Tama Iron Cobra Power Glide shows the slight swing in chain drive action suits black metal's raw energy even in technical playing. Direct drive (like Pearl Demon Drive) is preferred by modern technical black metal drummers who need maximum precision. Both work; chain drive is more culturally appropriate for traditional black metal."
       },
       {
         question: "What BPM do black metal drummers play blast beats?",
@@ -7155,7 +7154,7 @@ For developing black metal drummers learning blast beats, the Iron Cobra 600 pro
       },
       {
         question: "Do I need direct drive pedals for black metal blast beats?",
-        answer: "No — the genre's most influential drummers used chain drive Pearl Eliminators. Direct drive offers more precision and slightly higher speed potential, but Hellhammer's foundational recordings were made on chain drive equipment. Focus on technique and endurance training over drive type. Both can achieve any speed demanded by black metal."
+        answer: "No — many of the genre's most influential drummers built their sound on chain drive pedals. Direct drive offers more precision and slightly higher speed potential, but technique and endurance training matter more than drive type. Both can achieve any speed demanded by black metal."
       }
     ],
 
@@ -7164,7 +7163,7 @@ For developing black metal drummers learning blast beats, the Iron Cobra 600 pro
       title: "Choose Your Black Metal Weapon",
       content: `Black metal's pedal requirements are simpler than death metal's: endurance, reliability, and consistency over extended blast beat passages. You don't need the most expensive pedal — you need one that won't fail you.
 
-The Pearl Eliminator is the historically correct answer. Hellhammer built the genre's drumming blueprint on it. Inferno continues to drive Gorgoroth's relentless assault with it. But any quality double pedal from Pearl, Tama, or DW will serve you well once you've developed the technique to use it.
+The Pearl Eliminator is a historically proven answer for black metal's demands. Hellhammer built the genre's drumming blueprint on chain-drive endurance, and Inferno continues to drive Gorgoroth's relentless assault with his own rig. But any quality double pedal from Pearl, Tama, Axis, or DW will serve you well once you've developed the technique to use it.
 
 Technique matters more than gear in black metal. The genre's most influential recordings were made on modest equipment by players who practiced relentlessly. Spend more time in the practice room than in the gear store.
 
@@ -11261,11 +11260,11 @@ For metal drummers whose technique relies heavily on the heel-toe method or who 
           priceRange: "€250-350 per double set",
           tier: "budget",
           material: "Dual-chain, steel frame",
-          description: "Pearl's Eliminator series is legendary in black metal (Hellhammer, Inferno), and the P-830 brings that heritage at an accessible price. Cam interchangeability and dual-chain drive offer pro-level adjustability at a mid-range cost.",
+          description: "Pearl's Eliminator series is legendary in black metal, and the P-830 brings that heritage at an accessible price. Cam interchangeability and dual-chain drive offer pro-level adjustability at a mid-range cost.",
           pros: [
             "Interchangeable cam system (round, oval, tear-drop)",
             "Dual-chain drive for smooth feel",
-            "Black metal heritage — Hellhammer, Inferno"
+            "Black metal heritage in a budget-friendly package"
           ],
           cons: ["Not as refined as Demon Drive at high speeds"],
           verdict: "Best budget pedal with cam flexibility. Great for drummers who want to experiment with feel.",
@@ -14895,14 +14894,14 @@ Don't overlook the budget tier — Zildjian ZBT and Sabian AAX both provide genu
     // SEO metadata
     title: "Best Hi-Hats for Black Metal: 2026 Ultimate Guide",
     metaTitle: "Best Hi-Hats for Black Metal 2026 | MetalForge Expert Guide",
-    description: "What hi-hats are used in black metal? Discover what Hellhammer, Frost, and Inferno actually play — Meinl Byzance Dark, Zildjian A Custom & K, and Paiste RUDE — from budget to pro, built for blast beat speed.",
+    description: "What hi-hats are used in black metal? Discover what Hellhammer, Frost, and Inferno actually play — Paiste RUDE, Zildjian A Custom & K — from budget to pro, built for blast beat speed.",
     seoKeywords: [
       'best hi-hats for black metal',
       'black metal hi-hats',
       'hellhammer hi-hats',
       'frost hi-hats satyricon',
       'inferno hi-hats behemoth',
-      'meinl byzance dark hi-hats black metal',
+      'paiste rude hi-hats black metal',
       'hi-hats for blast beats',
       'best hi-hats heavy black metal',
       'zildjian hi-hats black metal',
@@ -14932,13 +14931,13 @@ Don't overlook the budget tier — Zildjian ZBT and Sabian AAX both provide genu
       title: "What Hi-Hats Are Used in Black Metal?",
       content: `Hi-hats carry an outsized role in black metal — they're the rhythmic engine behind blast beats, tremolo-picked riffs, and the genre's signature wall-of-sound atmosphere. Unlike thrash or groove metal, where hi-hats often share the spotlight with crashes and rides, black metal frequently builds entire passages around a single, relentless hi-hat pattern driving the blast beat underneath.
 
-Hellhammer of Mayhem uses 14" Dark Hi-Hats from the Meinl Byzance Series, giving his foundational black metal recordings a dark, complex wash that suits the genre's icy, lo-fi atmosphere. Frost of Satyricon and 1349 currently relies on Zildjian A Custom & K Series cymbals, balancing cutting articulation with enough complexity for his hyperspeed, technically precise blast beats. Inferno of Behemoth uses Paiste RUDE Series 14" Hi-Hats, giving Behemoth's modern black/death hybrid attack explosive projection.
+Hellhammer of Mayhem uses 14" Paiste RUDE Series Hi-Hats, giving his foundational black metal recordings explosive projection that cuts through icy, lo-fi production. Frost of Satyricon and 1349 currently relies on Zildjian A Custom & K Series cymbals, balancing cutting articulation with enough complexity for his hyperspeed, technically precise blast beats. Inferno of Behemoth also uses Paiste RUDE Series 14" Hi-Hats, giving Behemoth's modern black/death hybrid attack the same explosive projection.
 
 This guide covers exactly what makes a great black metal hi-hat — weight, finish, and response — and which specific models the genre's most influential drummers play, from budget starter pairs to the professional setups heard on classic and modern black metal records.`,
       keyPoints: [
-        "Meinl Byzance Dark defines Hellhammer's foundational, atmospheric black metal hi-hat tone",
+        "Paiste RUDE Series defines both Hellhammer's and Inferno's explosive, raw black metal hi-hat projection",
         "Zildjian A Custom & K Series gives Frost cutting articulation for technical blast beat precision",
-        "Paiste RUDE delivers Inferno's explosive projection for modern black/death hybrid attack",
+        "The RUDE's unlathed top surface produces a raw, trashy character suited to black metal's aggression",
         "Medium-heavy weight dominates black metal hi-hats — enough control for sustained blast beat endurance"
       ]
     },
@@ -14948,10 +14947,10 @@ This guide covers exactly what makes a great black metal hi-hat — weight, fini
       title: "What Makes Great Black Metal Hi-Hats?",
       features: [
         {
-          name: "Dark vs Bright Character",
+          name: "Raw vs Technical Character",
           icon: "🌑",
-          description: "Black metal's raw, icy atmosphere often favors darker hi-hat tones that blend into the wall of distorted guitar rather than cutting sharply above it. Hellhammer's Meinl Byzance Dark hi-hats exemplify this — complex, hand-hammered overtones that feel atmospheric rather than purely percussive.",
-          recommendation: "Dark or traditional finish for atmospheric black metal; brilliant finish for technical, modern black metal"
+          description: "Black metal's raw, icy atmosphere often favors an aggressive, unlathed hi-hat character that blends into the wall of distorted guitar rather than cutting cleanly above it. Hellhammer's and Inferno's Paiste RUDE hi-hats exemplify this — a raw, trashy top surface that feels explosive rather than purely percussive.",
+          recommendation: "Unlathed or traditional finish for raw, aggressive black metal; brilliant finish for technical, modern black metal"
         },
         {
           name: "Blast Beat Endurance",
@@ -14986,43 +14985,44 @@ This guide covers exactly what makes a great black metal hi-hat — weight, fini
       pedals: [
         {
           rank: 1,
-          name: "Meinl Byzance Dark Hi-Hats",
-          brand: "Meinl",
-          model: "Byzance Dark Hi-Hats 14\"",
+          name: "Paiste RUDE Hi-Hats",
+          brand: "Paiste",
+          model: "RUDE Hi-Hats 14\"",
           image: "https://upload.wikimedia.org/wikipedia/commons/a/a3/Toms%2C_hi-hat%2C_snare.jpg",
-          priceRange: "€320-420 per pair",
+          priceRange: "€280-380 per pair",
           tier: "pro",
-          material: "B20 Bronze, Dark Finish",
+          material: "CuSn8 Bronze, Unlathed Top",
 
-          description: `The Meinl Byzance Dark Hi-Hats are Hellhammer's choice across Mayhem's foundational recordings — 14" hi-hats that deliver the dark, complex wash defining black metal's icy, atmospheric character. The hand-hammered B20 bronze construction produces rich overtones that sit naturally within lo-fi, raw production rather than fighting against it.
+          description: `The Paiste RUDE Hi-Hats are Hellhammer's choice across Mayhem's foundational recordings since 1988, and Inferno's choice for Behemoth's modern black/death hybrid assault — 14" hi-hats whose distinctive unlathed top surface produces a raw, trashy character with massive projection.
 
-Hellhammer's use of these hi-hats throughout Mayhem's most influential albums established the dark, atmospheric hi-hat character that much of black metal has followed since. The dark finish and hand-hammering process give each pair individual character — exactly the kind of raw, organic sound the genre's earliest pioneers valued over clinical precision.`,
+That explosive, aggressive character sits naturally within lo-fi, raw production while still cutting through dense, blast-heavy mixes — exactly the balance both drummers need across their very different eras and styles of black metal.`,
 
           pros: [
-            "Hellhammer's foundational black metal hi-hat sound",
-            "Dark, complex wash suited to raw, icy production",
-            "Hand-hammered for individual character",
+            "Hellhammer's and Inferno's shared foundational black metal hi-hat sound",
+            "Raw, unlathed top surface for explosive aggression",
+            "Exceptional projection at extreme stage volumes",
             "Excellent control during sustained blast beat passages",
-            "Premium B20 bronze construction"
+            "CuSn8 bronze for bright, powerful sound"
           ],
           cons: [
-            "Darker character may lack cut in extremely loud live settings",
+            "Raw character less suited to darker, more atmospheric production styles",
             "Higher price point",
-            "Less aggressive projection than Paiste RUDE"
+            "Less complex overtone wash than a traditional dark-finish pair"
           ],
           specs: {
-            material: "B20 bronze",
-            finish: "Dark",
+            material: "CuSn8 bronze",
+            finish: "Unlathed top, lathed bottom",
             weight: "Medium-heavy",
             diameter: "14\"",
-            series: "Byzance Dark"
+            series: "RUDE"
           },
           usedBy: [
-            { name: "Hellhammer", band: "Mayhem", note: "Byzance Dark Hi-Hats across Mayhem's foundational recordings" }
+            { name: "Hellhammer", band: "Mayhem", note: "Paiste RUDE Hi-Hats since 1988 — foundational black metal projection" },
+            { name: "Inferno", band: "Behemoth", note: "Paiste RUDE Hi-Hats — modern black/death metal projection" }
           ],
-          verdict: "The black metal hi-hat standard. Dark, complex, and proven on the genre's most influential albums.",
+          verdict: "The black metal hi-hat standard. Raw, explosive, and proven across both foundational and modern black metal.",
           rating: 4.8,
-          affiliateLink: "https://www.thomann.de/intl/meinl_byzance_dark_hi_hats.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/paiste_rude_hi_hats.htm?partner_id=metalforge"
         },
         {
           rank: 2,
@@ -15047,7 +15047,7 @@ After decades of evolution through Pearl, Tama, and Zildjian gear, Frost's curre
           ],
           cons: [
             "Higher price for the combined A Custom/K approach",
-            "Less raw/atmospheric than Meinl Byzance Dark"
+            "Less raw/aggressive than Paiste RUDE"
           ],
           specs: {
             material: "B20 bronze",
@@ -15065,45 +15065,6 @@ After decades of evolution through Pearl, Tama, and Zildjian gear, Frost's curre
         },
         {
           rank: 3,
-          name: "Paiste RUDE Hi-Hats",
-          brand: "Paiste",
-          model: "RUDE Hi-Hats 14\"",
-          image: "https://upload.wikimedia.org/wikipedia/commons/a/a3/Toms%2C_hi-hat%2C_snare.jpg",
-          priceRange: "€280-380 per pair",
-          tier: "pro",
-          material: "CuSn8 Bronze, Unlathed Top",
-
-          description: `Inferno of Behemoth uses Paiste RUDE Series 14" Hi-Hats to drive the band's modern black/death hybrid assault. The RUDE's distinctive unlathed top surface produces a raw, trashy character with massive projection — exactly what Behemoth's more technical, blast-heavy compositions need to stay present in a dense, aggressive mix.
-
-For black metal drummers whose music leans toward the genre's more modern, death-metal-influenced edge, the RUDE Hi-Hats deliver explosive, aggressive character that matches Inferno's relentless blast beat work on Behemoth's defining records.`,
-
-          pros: [
-            "Inferno's Behemoth setup — modern black/death metal projection",
-            "Raw, unlathed top surface for explosive aggression",
-            "Exceptional projection at extreme stage volumes",
-            "CuSn8 bronze for bright, powerful sound"
-          ],
-          cons: [
-            "Raw character less suited to traditional, atmospheric black metal",
-            "Premium pricing",
-            "Less complex/dark than Meinl Byzance"
-          ],
-          specs: {
-            material: "CuSn8 bronze",
-            finish: "Unlathed top, lathed bottom",
-            weight: "Medium-heavy",
-            diameter: "14\"",
-            series: "RUDE"
-          },
-          usedBy: [
-            { name: "Inferno", band: "Behemoth", note: "Paiste RUDE Hi-Hats — modern black/death metal projection" }
-          ],
-          verdict: "The aggressive choice for modern black metal. Explosive projection for blast-heavy, death-influenced styles.",
-          rating: 4.6,
-          affiliateLink: "https://www.thomann.de/intl/paiste_rude_hi_hats.htm?partner_id=metalforge"
-        },
-        {
-          rank: 4,
           name: "Meinl Classics Custom Dark Hi-Hats",
           brand: "Meinl",
           model: "Classics Custom Dark Hi-Hats 14\"",
@@ -15112,18 +15073,18 @@ For black metal drummers whose music leans toward the genre's more modern, death
           tier: "mid",
           material: "B8/B20 Bronze",
 
-          description: `The Meinl Classics Custom Dark Hi-Hats bring the same dark, atmospheric character associated with Hellhammer's Byzance Dark setup to a more accessible price point. They're a sensible mid-tier choice for black metal drummers who want the genre's signature dark hi-hat sound without the full Byzance investment.
+          description: `The Meinl Classics Custom Dark Hi-Hats offer a darker, more atmospheric alternative for black metal drummers who want a complex overtone wash instead of the raw, unlathed aggression of a Paiste RUDE pair. They're a sensible mid-tier choice for players chasing the genre's signature dark hi-hat sound.
 
-The dark finish and complex overtones sit well under raw, lo-fi black metal production, giving developing players a taste of the atmospheric character that defines the genre's classic hi-hat sound.`,
+The dark finish and complex overtones sit well under raw, lo-fi black metal production, giving developing players a taste of the atmospheric character found on classic dark-toned black metal recordings.`,
 
           pros: [
-            "Dark, atmospheric tone similar to Byzance Dark character",
-            "More accessible pricing than flagship Meinl Byzance",
+            "Dark, atmospheric tone as an alternative to Paiste RUDE's raw aggression",
+            "Accessible pricing for a dark-finish pair",
             "Good for raw, lo-fi black metal production",
             "Solid durability for the price"
           ],
           cons: [
-            "Not as refined as full Byzance line",
+            "Not as refined as flagship dark-finish lines",
             "B8 models lack B20 depth"
           ],
           specs: {
@@ -15136,7 +15097,7 @@ The dark finish and complex overtones sit well under raw, lo-fi black metal prod
           usedBy: [
             { name: "Developing black metal drummers", band: "Various", note: "Accessible dark atmosphere for raw black metal" }
           ],
-          verdict: "Best mid-tier option for black metal. Real dark character without the flagship Byzance price.",
+          verdict: "Best mid-tier option for a darker, atmospheric black metal hi-hat tone.",
           rating: 4.3,
           affiliateLink: "https://www.thomann.de/intl/meinl_classics_custom_dark_hi_hats.htm?partner_id=metalforge"
         }
@@ -15155,9 +15116,9 @@ The dark finish and complex overtones sit well under raw, lo-fi black metal prod
           priceRange: "€150-220 per pair",
           tier: "mid",
           material: "B8/B20 Bronze",
-          description: "See above. The most accessible route to a dark, atmospheric black metal hi-hat sound similar to Hellhammer's Byzance Dark setup.",
+          description: "See above. The most accessible route to a dark, atmospheric black metal hi-hat sound as an alternative to Paiste RUDE's raw aggression.",
           pros: ["Dark atmospheric character", "Accessible pricing", "Solid durability"],
-          cons: ["Not as refined as full Byzance line"],
+          cons: ["Not as refined as flagship dark-finish lines"],
           verdict: "Top budget pick for atmospheric black metal hi-hats.",
           rating: 4.3,
           affiliateLink: "https://www.thomann.de/intl/meinl_classics_custom_dark_hi_hats.htm?partner_id=metalforge"
@@ -15181,22 +15142,22 @@ The dark finish and complex overtones sit well under raw, lo-fi black metal prod
 
     // Comparison
     comparison: {
-      title: "Dark vs Bright Hi-Hats for Black Metal",
+      title: "Raw vs Technical Hi-Hats for Black Metal",
       content: `Black metal's relationship with hi-hat character splits into two clear camps, defined by the genre's most influential drummers:
 
-**Dark (Meinl Byzance Dark — Hellhammer's choice):**
-- Raw, atmospheric, complex overtones
-- Suits traditional, lo-fi black metal production
-- Blends into the wall of guitar rather than cutting above it
-- The historically foundational black metal hi-hat sound
+**Raw & Aggressive (Paiste RUDE — Hellhammer's and Inferno's choice):**
+- Unlathed top surface for a raw, trashy character with massive projection
+- Suits both traditional lo-fi black metal and dense, blast-heavy modern mixes
+- Explosive rather than atmospheric — cuts through with aggression, not complexity
+- Proven across both Mayhem's foundational era and Behemoth's modern black/death hybrid sound
 
-**Bright (Zildjian A Custom & K — Frost's choice; Paiste RUDE — Inferno's choice):**
-- More articulate, cutting attack
-- Suits modern, technical, and black/death hybrid styles
-- Better cuts through dense, blast-heavy mixes
+**Technical & Articulate (Zildjian A Custom & K — Frost's choice):**
+- More articulate, cutting attack with complex overtones
+- Suits modern, technical black metal styles
+- Better balances clarity with complexity at hyperspeed tempos
 - The contemporary standard for technical black metal
 
-**Black Metal Verdict:** Choose dark (Meinl Byzance Dark) if you play traditional, atmospheric black metal in the Mayhem tradition. Choose bright (Zildjian A Custom & K or Paiste RUDE) if you play modern, technical, or black/death hybrid styles in the Satyricon or Behemoth tradition.`,
+**Black Metal Verdict:** Choose raw and aggressive (Paiste RUDE) if you want the explosive projection both Hellhammer and Inferno rely on across foundational and modern black metal alike. Choose technical (Zildjian A Custom & K) if your playing leans toward Frost's hyperspeed, articulate style. If you specifically want a darker, more atmospheric wash instead, the Meinl Classics Custom Dark is a solid alternative.`,
       comparisonTable: [
         { feature: "Atmospheric Character", birch: "⭐⭐⭐⭐⭐", maple: "⭐⭐⭐" },
         { feature: "Cutting Articulation", birch: "⭐⭐⭐", maple: "⭐⭐⭐⭐⭐" },
@@ -15212,8 +15173,8 @@ The dark finish and complex overtones sit well under raw, lo-fi black metal prod
       picks: [
         {
           category: "Best Overall",
-          pedal: "Meinl Byzance Dark Hi-Hats",
-          reason: "Hellhammer's choice — the historically foundational black metal hi-hat sound, dark and atmospheric."
+          pedal: "Paiste RUDE Hi-Hats",
+          reason: "Hellhammer's and Inferno's shared choice — the historically foundational and modern black metal hi-hat sound, raw and explosive."
         },
         {
           category: "Best for Technical Black Metal",
@@ -15221,14 +15182,14 @@ The dark finish and complex overtones sit well under raw, lo-fi black metal prod
           reason: "Frost's setup. Cutting articulation balanced with complexity for hyperspeed blast beat precision."
         },
         {
-          category: "Best for Modern Black/Death Hybrid",
-          pedal: "Paiste RUDE Hi-Hats",
-          reason: "Inferno's choice for Behemoth's explosive, blast-heavy modern assault."
+          category: "Best for a Darker, Atmospheric Tone",
+          pedal: "Meinl Classics Custom Dark Hi-Hats",
+          reason: "An accessible alternative for drummers who want a complex, atmospheric wash instead of raw aggression."
         },
         {
           category: "Best Budget",
-          pedal: "Meinl Classics Custom Dark Hi-Hats",
-          reason: "Real dark atmospheric character without the flagship Byzance price."
+          pedal: "Zildjian ZBT Hi-Hats",
+          reason: "Affordable Zildjian quality with a clear upgrade path to A Custom or K Series."
         }
       ]
     },
@@ -15240,14 +15201,14 @@ The dark finish and complex overtones sit well under raw, lo-fi black metal prod
       'best-drum-pedals-for-black-metal'
     ],
     relatedDrummers: [
-      { slug: 'hellhammer', name: 'Hellhammer', reason: 'Meinl Byzance Dark — foundational black metal hi-hat atmosphere' },
+      { slug: 'hellhammer', name: 'Hellhammer', reason: 'Paiste RUDE — foundational black metal hi-hat projection' },
       { slug: 'frost', name: 'Frost', reason: 'Zildjian A Custom & K — technical black metal precision' },
       { slug: 'inferno', name: 'Inferno', reason: 'Paiste RUDE — Behemoth modern black/death hybrid projection' }
     ],
 
     // Featured drummers (issue template)
     featuredDrummers: [
-      { slug: 'hellhammer', name: 'Hellhammer', reason: 'Meinl Byzance Dark Hi-Hats — foundational black metal atmosphere' },
+      { slug: 'hellhammer', name: 'Hellhammer', reason: 'Paiste RUDE Hi-Hats — foundational black metal projection since 1988' },
       { slug: 'frost', name: 'Frost', reason: 'Zildjian A Custom & K Hi-Hats — technical black metal precision' },
       { slug: 'inferno', name: 'Inferno', reason: 'Paiste RUDE Hi-Hats — Behemoth\'s modern blast-heavy projection' },
     ],
@@ -15256,15 +15217,15 @@ The dark finish and complex overtones sit well under raw, lo-fi black metal prod
     faq: [
       {
         question: "What hi-hats are used in black metal?",
-        answer: "Hellhammer of Mayhem uses Meinl Byzance Dark 14\" Hi-Hats for a dark, atmospheric character. Frost of Satyricon and 1349 uses Zildjian A Custom & K Series for technical articulation. Inferno of Behemoth uses Paiste RUDE 14\" Hi-Hats for explosive, modern projection. All three are 14\" pairs — the genre's standard diameter."
+        answer: "Hellhammer of Mayhem uses Paiste RUDE 14\" Hi-Hats for a raw, explosive character. Frost of Satyricon and 1349 uses Zildjian A Custom & K Series for technical articulation. Inferno of Behemoth also uses Paiste RUDE 14\" Hi-Hats for explosive, modern projection. All three are 14\" pairs — the genre's standard diameter."
       },
       {
         question: "What hi-hats does Hellhammer use?",
-        answer: "Hellhammer of Mayhem uses 14\" Dark Hi-Hats from the Meinl Byzance Series, part of his full Byzance cymbal setup. The dark, complex wash suits the raw, icy atmosphere of Mayhem's foundational black metal recordings."
+        answer: "Hellhammer of Mayhem has used 14\" Paiste RUDE Hi-Hats since 1988, part of his cymbal setup across Mayhem and Dimmu Borgir. The raw, unlathed character and explosive projection suit the icy atmosphere of Mayhem's foundational black metal recordings."
       },
       {
         question: "Best hi-hats for blast beats?",
-        answer: "Medium-heavy weight hi-hats with consistent bottom-cymbal contact handle sustained blast beat endurance best. Meinl Byzance Dark, Zildjian A Custom & K, and Paiste RUDE all perform well at extreme tempos — choose based on whether you want dark atmosphere (Meinl), technical articulation (Zildjian), or explosive aggression (Paiste)."
+        answer: "Medium-heavy weight hi-hats with consistent bottom-cymbal contact handle sustained blast beat endurance best. Paiste RUDE, Zildjian A Custom & K, and Meinl Classics Custom Dark all perform well at extreme tempos — choose based on whether you want explosive aggression (Paiste), technical articulation (Zildjian), or dark atmosphere (Meinl)."
       },
       {
         question: "What size hi-hats for black metal?",
@@ -15272,16 +15233,16 @@ The dark finish and complex overtones sit well under raw, lo-fi black metal prod
       },
       {
         question: "Dark or bright hi-hats for black metal?",
-        answer: "Both work at the highest level. Dark hi-hats (Meinl Byzance Dark, Hellhammer's choice) suit traditional, atmospheric black metal. Bright hi-hats (Zildjian A Custom & K, Frost's choice; Paiste RUDE, Inferno's choice) suit modern, technical, and black/death hybrid styles. Choose based on which subgenre and production style you're chasing."
+        answer: "Both work at the highest level. Dark hi-hats (Meinl Classics Custom Dark) suit drummers chasing a traditional, atmospheric wash. Raw and aggressive hi-hats (Paiste RUDE, both Hellhammer's and Inferno's choice) and bright, technical hi-hats (Zildjian A Custom & K, Frost's choice) suit modern, technical, and black/death hybrid styles. Choose based on which subgenre and production style you're chasing."
       }
     ],
 
     // Conclusion
     conclusion: {
       title: "Find Your Black Metal Hi-Hat Voice",
-      content: `Black metal hi-hats split into two proven traditions: the dark, atmospheric character that Hellhammer established on Mayhem's foundational recordings, and the brighter, more articulate sound that modern, technical drummers like Frost and Inferno favor for blast-heavy, technically demanding compositions.
+      content: `Black metal hi-hats split into two proven traditions: the raw, explosive character that Hellhammer established on Mayhem's foundational recordings and that Inferno carries into Behemoth's modern black/death hybrid sound, and the brighter, more articulate sound that Frost favors for his blast-heavy, technically demanding compositions.
 
-If you play traditional, raw black metal, start with a dark-finish pair like the Meinl Byzance Dark or the budget Classics Custom Dark — both sit naturally within lo-fi, icy production. If you play modern, technical, or black/death hybrid styles, Zildjian A Custom & K or Paiste RUDE will give you the cutting articulation or explosive projection your playing demands.
+If you play traditional or modern black metal alike, start with a raw, unlathed pair like the Paiste RUDE — proven across both Hellhammer's and Inferno's very different eras. If your playing leans more technical, Zildjian A Custom & K will give you the cutting articulation Frost's style demands. If you want a darker, more atmospheric wash instead, the Meinl Classics Custom Dark is a solid alternative.
 
 Whatever you choose, prioritize consistency under sustained blast beat use over flashy features — the hi-hat is the most-used cymbal in black metal drumming, and it needs to perform reliably through entire songs of relentless rhythmic work.
 
@@ -15884,7 +15845,7 @@ The line's double-braced construction still resists the creep and flex that hard
           tier: "budget",
           material: "Double-braced steel",
 
-          description: `Pearl's affordable hardware line runs through black metal's DIY veins the same way Pearl pedals defined the genre's foundational sound — Hellhammer's early Mayhem setup was built on exactly this kind of unglamorous, reliable, budget-conscious hardware rather than a flagship pack. The Export EXX pack covers a full lean kit (hi-hat, snare, cymbal stand) at a genuinely accessible price.
+          description: `Pearl's affordable hardware line runs through black metal's DIY veins — exactly the kind of unglamorous, reliable, budget-conscious hardware the genre's founding scene was built on rather than a flagship pack. The Export EXX pack covers a full lean kit (hi-hat, snare, cymbal stand) at a genuinely accessible price.
 
 For a genre where recording and rehearsing on minimal budgets is culturally central, a double-braced pack that doesn't wobble or creep under sustained blast beats is exactly the right priority — you don't need premium finish, you need hardware that shows up every rehearsal.`,
 
@@ -20979,7 +20940,7 @@ Start with a 22"x18" shell and a reinforced head like the Evans EMAD or Remo Pow
     // SEO metadata
     title: "Best Bass Drums for Black Metal: 2026 Ultimate Guide",
     metaTitle: "Best Bass Drums for Black Metal in 2026 | MetalForge Expert Guide",
-    description: "Best bass drums for black metal blast beats and raw, resonant tone. What Hellhammer (Pearl Masters Premium), Inferno (Pearl Reference Pure), and Frost (Tama Starclassic Bubinga) actually play — from budget to pro.",
+    description: "Best bass drums for black metal blast beats and raw, resonant tone. What Hellhammer (Sonor SQ2 Heavy Beech), Inferno (Pearl Reference Pure), and Frost (Tama Starclassic Bubinga) actually play — from budget to pro.",
     seoKeywords: [
       'best bass drums for black metal',
       'black metal bass drum setup',
@@ -20989,7 +20950,7 @@ Start with a 22"x18" shell and a reinforced head like the Evans EMAD or Remo Pow
       'frost bass drum satyricon',
       'bass drum for blast beats black metal',
       'minimal muffling bass drum',
-      'pearl masters premium bass drum',
+      'sonor sq2 heavy beech bass drum',
       'tama starclassic bubinga bass drum black metal'
     ],
     ogImage: '/api/og/guide?type=genre-gear&gear=bass-drum&genre=black-metal',
@@ -21016,12 +20977,12 @@ Start with a 22"x18" shell and a reinforced head like the Evans EMAD or Remo Pow
       title: "What Bass Drum Setup Do Black Metal Drummers Actually Use?",
       content: `Black metal's bass drum has a different job than death metal's. Where death metal wants a tight, punchy thud that separates cleanly from the mix, black metal usually wants the kick to blend into the wall of tremolo-picked guitars and blast beats — raw, resonant, and often left with minimal muffling so the shell can breathe and wash together with the rest of the kit, the way it does on genre-defining recordings.
 
-Hellhammer of Mayhem recorded "De Mysteriis Dom Sathanas" on a Pearl Masters Premium kit, its birch/maple hybrid shell left open enough to ring rather than choke off, establishing the raw low-end template the genre still measures itself against. Inferno, who drums for both Behemoth and Gorgoroth, plays a Pearl Reference Pure bass drum — its thin 6-ply maple shell with no reinforcement ring gives a more resonant, articulate low end suited to Behemoth's more technical black/death hybrid attack. Frost of Satyricon and 1349 plays a Tama Starclassic Bubinga bass drum, its dense bubinga shell built for the hyperspeed blast beats that define his current playing.
+Hellhammer of Mayhem has played a Sonor SQ2 Heavy Beech kit since 1999, its heavy beech shell left open enough to ring rather than choke off, establishing the raw low-end template the genre still measures itself against. Inferno, who drums for both Behemoth and Gorgoroth, plays a Pearl Reference Pure bass drum — its thin 6-ply maple shell with no reinforcement ring gives a more resonant, articulate low end suited to Behemoth's more technical black/death hybrid attack. Frost of Satyricon and 1349 plays a Tama Starclassic Bubinga bass drum, its dense bubinga shell built for the hyperspeed blast beats that define his current playing.
 
 This guide breaks down what actually makes a bass drum work for black metal — shell material, muffling philosophy, and head selection — and which specific shells the genre's most influential drummers play, from raw DIY setups to the professional rigs behind black metal's most important records.`,
       keyPoints: [
         "Black metal favors raw, resonant shells with minimal muffling — the opposite of death metal's tightly controlled thud",
-        "Pearl Masters Premium (Hellhammer) established the genre's foundational, breathing low-end tone",
+        "Sonor SQ2 Heavy Beech (Hellhammer) established the genre's foundational, breathing low-end tone",
         "22\"x18\" is standard, though some drummers use 20\" for a tighter, more aggressive attack",
         "Thin, unreinforced shells (Pearl Reference Pure — Inferno) trade durability for extra resonance and openness"
       ]
@@ -21040,8 +21001,8 @@ This guide breaks down what actually makes a bass drum work for black metal — 
         {
           name: "Shell Resonance",
           icon: "🪵",
-          description: "Birch/maple hybrid shells (Hellhammer's Pearl Masters Premium) balance punchy attack with enough body to anchor lo-fi, icy production. Thin, unreinforced maple (Inferno's Pearl Reference Pure) resonates even more freely for a more open, articulate low end.",
-          recommendation: "Birch/maple hybrid for raw body; thin unreinforced maple for maximum resonance"
+          description: "Heavy beech shells (Hellhammer's Sonor SQ2 Heavy Beech) balance punchy attack with enough body to anchor lo-fi, icy production. Thin, unreinforced maple (Inferno's Pearl Reference Pure) resonates even more freely for a more open, articulate low end.",
+          recommendation: "Heavy beech for raw body; thin unreinforced maple for maximum resonance"
         },
         {
           name: "Shell Diameter",
@@ -21058,7 +21019,7 @@ This guide breaks down what actually makes a bass drum work for black metal — 
         {
           name: "Durability for DIY Touring",
           icon: "🛡️",
-          description: "Black metal's DIY roots mean gear often travels in vans through harsh weather with minimal soundcheck time. Hardware needs to hold tuning and survive abuse without constant adjustment — a major reason Hellhammer and Inferno both built careers on Pearl's reputation for reliability.",
+          description: "Black metal's DIY roots mean gear often travels in vans through harsh weather with minimal soundcheck time. Hardware needs to hold tuning and survive abuse without constant adjustment — a major reason Hellhammer built a decades-long career on Sonor's precision manufacturing and Inferno on Pearl's reputation for reliability.",
           recommendation: "Heavy-duty hoops and hardware that holds tuning through temperature swings"
         },
         {
@@ -21076,23 +21037,23 @@ This guide breaks down what actually makes a bass drum work for black metal — 
       pedals: [
         {
           rank: 1,
-          name: "Pearl Masters Premium Bass Drum",
-          brand: "Pearl",
-          model: "Masters Premium 22\"x18\"",
+          name: "Sonor SQ2 Heavy Beech Bass Drum",
+          brand: "Sonor",
+          model: "SQ2 Heavy Beech 22\"x18\"",
           image: "https://upload.wikimedia.org/wikipedia/commons/6/6c/Acoustic_Drums_Kit_%2829965183378%29.jpg",
-          priceRange: "€600-800",
+          priceRange: "€700-950",
           tier: "pro",
-          material: "Birch/Maple Hybrid, 22\"x18\"",
+          material: "Heavy Beech, 22\"x18\"",
 
-          description: `Hellhammer of Mayhem recorded "De Mysteriis Dom Sathanas" on a Pearl Masters Premium kit, and the bass drum is central to that raw, foundational black metal tone — a hybrid birch/maple shell left open enough to breathe rather than choked into submission.
+          description: `Hellhammer of Mayhem has played a Sonor SQ2 Heavy Beech kit since 1999, and the bass drum is central to that raw, foundational black metal tone — a heavy beech shell left open enough to breathe rather than choked into submission.
 
-The birch/maple blend balances punchy attack with enough body to anchor icy, lo-fi production without sounding thin. Left with minimal muffling, it delivers exactly the resonant, wash-into-the-mix low end that defined black metal's most influential record.`,
+The heavy beech construction gives a bright, cutting attack with more edge than maple, anchoring icy, lo-fi production without sounding thin. Left with minimal muffling, it delivers exactly the resonant, wash-into-the-mix low end that defined black metal's foundational recordings.`,
 
           pros: [
             "Hellhammer's foundational Mayhem bass drum tone",
-            "Birch/maple hybrid shell for raw attack with body",
+            "Heavy beech shell for raw attack with body",
             "Resonates naturally with minimal muffling",
-            "Reliable Pearl hardware for harsh touring conditions",
+            "Sonor's German precision manufacturing for harsh touring conditions",
             "22\"x18\" standard sizing for blast beat work"
           ],
           cons: [
@@ -21103,16 +21064,16 @@ The birch/maple blend balances punchy attack with enough body to anchor icy, lo-
           specs: {
             diameter: "22\"",
             depth: "18\"",
-            shell: "Birch/Maple Hybrid",
+            shell: "Heavy Beech",
             headRecommendation: "Single-ply coated batter, minimal muffling",
             configuration: "Single, double-pedal driven"
           },
           usedBy: [
-            { name: "Hellhammer", band: "Mayhem", note: "22\"x18\" Pearl Masters Premium — black metal's foundational tone" }
+            { name: "Hellhammer", band: "Mayhem", note: "22\"x18\" Sonor SQ2 Heavy Beech — black metal's foundational tone" }
           ],
           verdict: "The black metal standard. If you want the Hellhammer sound, this is the bass drum.",
           rating: 4.8,
-          affiliateLink: "https://www.thomann.de/intl/pearl_masters_premium_bass_drum.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/sonor_sq2_heavy_beech_bass_drum.htm?partner_id=metalforge"
         },
         {
           rank: 2,
@@ -21247,7 +21208,7 @@ Tama's Star-Cast mounting system keeps the shell resonating freely, and the 22\"
           priceRange: "€200-280",
           tier: "budget",
           material: "Poplar/Mahogany shell, 22\"x18\"",
-          description: "Pearl's entry-level Export line gives black metal drummers the standard 22\"x18\" sizing and Pearl's reputation for reliability at a genuinely accessible price — a solid foundation before upgrading to a Masters or Reference-tier shell.",
+          description: "Pearl's entry-level Export line gives black metal drummers the standard 22\"x18\" sizing and Pearl's reputation for reliability at a genuinely accessible price — a solid foundation before upgrading to an SQ2 or Reference-tier shell.",
           pros: ["Standard 22\"x18\" black metal sizing", "Reliable Pearl build quality", "Real entry point into a serious kit"],
           cons: ["Poplar/mahogany shell lacks the resonance of premium hardwoods", "Stock heads benefit from an upgrade"],
           verdict: "Best budget pick for building a real black metal foundation.",
@@ -21277,7 +21238,7 @@ Tama's Star-Cast mounting system keeps the shell resonating freely, and the 22\"
       content: `Black metal drummers split their bass drum choice across two proven philosophies:
 
 **Raw & Resonant (Hellhammer, Frost's early work):**
-- Birch/maple hybrid shells left with minimal muffling
+- Heavy beech shells left with minimal muffling
 - Blends into the wall of raw guitar tone rather than cutting through it
 - The historically foundational black metal sound
 
@@ -21286,7 +21247,7 @@ Tama's Star-Cast mounting system keeps the shell resonating freely, and the 22\"
 - Suited to modern black/death hybrid and hyperspeed blast beat playing
 - Retains openness while adding precision for denser compositions
 
-**Verdict:** Start with a 22\"x18\" birch/maple hybrid shell and minimal muffling if you want the raw, foundational black metal tone. Move toward a thin, unreinforced maple shell if your playing leans more technical or blast-heavy and you need extra articulation without sacrificing resonance.`,
+**Verdict:** Start with a 22\"x18\" heavy beech shell and minimal muffling if you want the raw, foundational black metal tone. Move toward a thin, unreinforced maple shell if your playing leans more technical or blast-heavy and you need extra articulation without sacrificing resonance.`,
       comparisonTable: [
         { feature: "Raw Resonance", birch: "⭐⭐⭐⭐⭐", maple: "⭐⭐⭐⭐" },
         { feature: "Articulation at Speed", birch: "⭐⭐⭐", maple: "⭐⭐⭐⭐⭐" },
@@ -21302,7 +21263,7 @@ Tama's Star-Cast mounting system keeps the shell resonating freely, and the 22\"
       picks: [
         {
           category: "Best Overall",
-          pedal: "Pearl Masters Premium Bass Drum",
+          pedal: "Sonor SQ2 Heavy Beech Bass Drum",
           reason: "Hellhammer's foundational Mayhem tone — the black metal standard."
         },
         {
@@ -21331,14 +21292,14 @@ Tama's Star-Cast mounting system keeps the shell resonating freely, and the 22\"
       'best-snare-drums-for-black-metal'
     ],
     relatedDrummers: [
-      { slug: 'hellhammer', name: 'Hellhammer', reason: 'Pearl Masters Premium bass drum — black metal\'s foundational tone' },
+      { slug: 'hellhammer', name: 'Hellhammer', reason: 'Sonor SQ2 Heavy Beech bass drum — black metal\'s foundational tone' },
       { slug: 'inferno', name: 'Inferno', reason: 'Pearl Reference Pure — resonant clarity for Behemoth and Gorgoroth' },
       { slug: 'frost', name: 'Frost', reason: 'Tama Starclassic Bubinga bass drum for hyperspeed blast beat precision' }
     ],
 
     // Featured drummers (issue template)
     featuredDrummers: [
-      { slug: 'hellhammer', name: 'Hellhammer', reason: 'Pearl Masters Premium — raw, foundational black metal tone' },
+      { slug: 'hellhammer', name: 'Hellhammer', reason: 'Sonor SQ2 Heavy Beech — raw, foundational black metal tone' },
       { slug: 'inferno', name: 'Inferno', reason: 'Pearl Reference Pure — resonant articulation for Behemoth' },
       { slug: 'frost', name: 'Frost', reason: 'Tama Starclassic Bubinga — dense-shell precision for hyperspeed blast beats' }
     ],
@@ -21347,7 +21308,7 @@ Tama's Star-Cast mounting system keeps the shell resonating freely, and the 22\"
     faq: [
       {
         question: "What bass drums do black metal drummers use?",
-        answer: "Hellhammer of Mayhem plays a Pearl Masters Premium, Inferno of Behemoth and Gorgoroth plays a Pearl Reference Pure, and Frost of Satyricon and 1349 plays a Tama Starclassic Bubinga. All three run a single 22\"x18\" bass drum with a double pedal rather than dual kick drums."
+        answer: "Hellhammer of Mayhem plays a Sonor SQ2 Heavy Beech, Inferno of Behemoth and Gorgoroth plays a Pearl Reference Pure, and Frost of Satyricon and 1349 plays a Tama Starclassic Bubinga. All three run a single 22\"x18\" bass drum with a double pedal rather than dual kick drums."
       },
       {
         question: "Why do black metal drummers use less muffling than death metal drummers?",
@@ -21359,7 +21320,7 @@ Tama's Star-Cast mounting system keeps the shell resonating freely, and the 22\"
       },
       {
         question: "Should I use a thin or thick shell for black metal?",
-        answer: "It depends on your style. Thin, unreinforced maple (Inferno's Pearl Reference Pure) maximizes resonance and articulation for technical black/death hybrid playing. Thicker birch/maple hybrid shells (Hellhammer's Pearl Masters Premium) give a bit more body and durability while still resonating far more openly than a heavily muffled death metal kick."
+        answer: "It depends on your style. Thin, unreinforced maple (Inferno's Pearl Reference Pure) maximizes resonance and articulation for technical black/death hybrid playing. Heavy beech shells (Hellhammer's Sonor SQ2 Heavy Beech) give a bit more body and durability while still resonating far more openly than a heavily muffled death metal kick."
       },
       {
         question: "What bass drum head is best for black metal?",
@@ -21370,7 +21331,7 @@ Tama's Star-Cast mounting system keeps the shell resonating freely, and the 22\"
     // Conclusion
     conclusion: {
       title: "Build the Raw, Resonant Low End Black Metal Demands",
-      content: `Black metal's bass drum requirements are the inverse of death metal's — instead of chasing a tight, punchy attack that cuts cleanly through the mix, the genre wants a shell that resonates and blends into the wall of raw guitar tone. Hellhammer's Pearl Masters Premium proves that a birch/maple hybrid shell left open with minimal muffling is still the foundational black metal sound, more than three decades after "De Mysteriis Dom Sathanas."
+      content: `Black metal's bass drum requirements are the inverse of death metal's — instead of chasing a tight, punchy attack that cuts cleanly through the mix, the genre wants a shell that resonates and blends into the wall of raw guitar tone. Hellhammer's Sonor SQ2 Heavy Beech proves that a heavy beech shell left open with minimal muffling is still the foundational black metal sound, more than three decades after "De Mysteriis Dom Sathanas."
 
 If your playing leans more technical or blast-heavy, follow Inferno's example and step up to a thin, unreinforced maple shell like the Pearl Reference Pure for extra articulation without losing resonance. And if you want a bass drum built for maximum low-end mass at hyperspeed tempos, Frost's Tama Starclassic Bubinga shows what a dense hardwood shell can do.
 
@@ -23817,7 +23778,7 @@ Start with a warm, moderately-tuned shell that responds cleanly to both light an
     // SEO metadata
     title: "Best Bass Drums for Symphonic Metal: 2026 Ultimate Guide",
     metaTitle: "Best Bass Drums for Symphonic Metal in 2026 | MetalForge Expert Guide",
-    description: "Best bass drums for symphonic metal's balanced, mix-friendly low end. What Daray (Pearl Masterworks Stadium Exotic), Hellhammer (Pearl Reference Series), Frost (Tama Starclassic Bubinga), and Jaska Raatikainen (Pearl Masters Premium Maple) actually play.",
+    description: "Best bass drums for symphonic metal's balanced, mix-friendly low end. What Daray (Pearl Masterworks Stadium Exotic), Hellhammer (Sonor SQ2 Heavy Beech), Frost (Tama Starclassic Bubinga), and Jaska Raatikainen (Pearl Masters Premium Maple) actually play.",
     seoKeywords: [
       'best bass drums for symphonic metal',
       'symphonic metal bass drum setup',
@@ -23827,7 +23788,7 @@ Start with a warm, moderately-tuned shell that responds cleanly to both light an
       'frost bass drum satyricon',
       'jaska raatikainen bass drum children of bodom',
       'bass drum under orchestral arrangement',
-      'pearl masterworks bass drum symphonic',
+      'sonor sq2 heavy beech bass drum symphonic',
       'blast beat bass drum symphonic metal'
     ],
     ogImage: '/api/og/guide?type=genre-gear&gear=bass-drum&genre=symphonic-metal',
@@ -23854,7 +23815,7 @@ Start with a warm, moderately-tuned shell that responds cleanly to both light an
       title: "What Bass Drum Setup Do Symphonic Metal Drummers Actually Use?",
       content: `Symphonic metal's bass drum has to share sonic space with an orchestra — real or programmed strings, brass, choir, and keyboard arrangements all compete for the same low-to-mid frequency range a kick drum lives in. That means a symphonic metal bass drum can't just be loud and punchy; it needs a balanced, controlled tone that locks in under dense orchestral arrangements without turning the mix muddy or fighting the low end of the strings and choir.
 
-Daray of Dimmu Borgir plays a Pearl Masterworks Stadium Exotic bass drum, engineered as the full-orchestra standard for symphonic black metal's densest arrangements. Hellhammer, who drums for both Mayhem and Dimmu Borgir, runs a Pearl Reference Series bass drum built for extreme speed alongside symphonic versatility. Frost of Satyricon and 1349 plays a Tama Starclassic Bubinga bass drum, its dense shell giving him control between blast beats and orchestral restraint. Jaska Raatikainen of Children of Bodom played a Pearl Masters Premium Maple bass drum, chosen for the melodic precision that sits well against keyboard-orchestrated arrangements.
+Daray of Dimmu Borgir plays a Pearl Masterworks Stadium Exotic bass drum, engineered as the full-orchestra standard for symphonic black metal's densest arrangements. Hellhammer, who drums for both Mayhem and Dimmu Borgir, runs a Sonor SQ2 Heavy Beech bass drum built for extreme speed alongside symphonic versatility. Frost of Satyricon and 1349 plays a Tama Starclassic Bubinga bass drum, its dense shell giving him control between blast beats and orchestral restraint. Jaska Raatikainen of Children of Bodom played a Pearl Masters Premium Maple bass drum, chosen for the melodic precision that sits well against keyboard-orchestrated arrangements.
 
 This guide breaks down exactly what makes a bass drum work for symphonic metal — balanced tone, blast beat endurance, and mix compatibility — and which specific shells the genre's leading drummers actually play, from budget to professional touring rigs.`,
       keyPoints: [
@@ -23878,7 +23839,7 @@ This guide breaks down exactly what makes a bass drum work for symphonic metal �
         {
           name: "Blast Beat Endurance",
           icon: "⏱️",
-          description: "Many symphonic metal acts blend orchestral arrangements with symphonic black metal's blast beats. Hellhammer's Pearl Reference Series is built for extreme speed alongside symphonic versatility, holding tone and tuning through sustained extreme-tempo passages.",
+          description: "Many symphonic metal acts blend orchestral arrangements with symphonic black metal's blast beats. Hellhammer's Sonor SQ2 Heavy Beech is built for extreme speed alongside symphonic versatility, holding tone and tuning through sustained extreme-tempo passages.",
           recommendation: "Reinforced hoops and a durable head that survive sustained blast beat use"
         },
         {
@@ -23954,15 +23915,15 @@ That balance between raw projection and controlled tone is exactly what symphoni
         },
         {
           rank: 2,
-          name: "Pearl Reference Series Bass Drum",
-          brand: "Pearl",
-          model: "Reference Series 22\"x18\"",
+          name: "Sonor SQ2 Heavy Beech Bass Drum",
+          brand: "Sonor",
+          model: "SQ2 Heavy Beech 22\"x18\"",
           image: "https://upload.wikimedia.org/wikipedia/commons/6/6c/Acoustic_Drums_Kit_%2829965183378%29.jpg",
           priceRange: "€700-950",
           tier: "pro",
-          material: "Maple, 22\"x18\"",
+          material: "Heavy Beech, 22\"x18\"",
 
-          description: `Hellhammer, who drums for both Mayhem and Dimmu Borgir, runs a Pearl Reference Series bass drum built for extreme speed alongside symphonic versatility. The shell holds tone and tuning through sustained blast beats while staying balanced enough to sit under Dimmu Borgir's orchestral arrangements.
+          description: `Hellhammer, who drums for both Mayhem and Dimmu Borgir, runs a Sonor SQ2 Heavy Beech bass drum built for extreme speed alongside symphonic versatility. The shell holds tone and tuning through sustained blast beats while staying balanced enough to sit under Dimmu Borgir's orchestral arrangements.
 
 Hellhammer's dual role across raw black metal and full-orchestra symphonic black metal makes this shell a genuine proof point — it has to work in both a stripped-down and a densely orchestrated context without compromise.`,
 
@@ -23971,25 +23932,25 @@ Hellhammer's dual role across raw black metal and full-orchestra symphonic black
             "Built for extreme speed without sacrificing symphonic balance",
             "Holds tuning through sustained blast beat passages",
             "Proven in both raw black metal and full-orchestra symphonic contexts",
-            "More accessible pricing than a fully custom Masterworks build"
+            "Sonor's German precision manufacturing"
           ],
           cons: [
-            "Standard Reference shell pack lacks Masterworks-tier custom tuning",
+            "Standard SQ2 shell pack lacks Masterworks-tier custom tuning",
             "Less orchestral projection than a purpose-built custom shell"
           ],
           specs: {
             diameter: "22\"",
             depth: "18\"",
-            shell: "Maple",
+            shell: "Heavy Beech",
             headRecommendation: "Remo Powerstroke 3",
             configuration: "Single, double-pedal driven"
           },
           usedBy: [
-            { name: "Hellhammer", band: "Mayhem / Dimmu Borgir", note: "Pearl Reference Series — extreme speed and symphonic versatility" }
+            { name: "Hellhammer", band: "Mayhem / Dimmu Borgir", note: "Sonor SQ2 Heavy Beech — extreme speed and symphonic versatility" }
           ],
           verdict: "Best for drummers who need extreme blast-beat speed alongside genuine orchestral versatility.",
           rating: 4.8,
-          affiliateLink: "https://www.thomann.de/intl/pearl_reference_series.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/sonor_sq2_heavy_beech_bass_drum.htm?partner_id=metalforge"
         },
         {
           rank: 3,
@@ -24113,7 +24074,7 @@ That restraint — a bass drum that supports rather than dominates a melodic, ke
       title: "Exotic Maple vs Maple/Beech Hybrid Bass Drums for Symphonic Metal",
       content: `Symphonic metal drummers split their bass drum choice across two proven shell philosophies:
 
-**Exotic/Standard Maple (Daray, Hellhammer, Jaska Raatikainen):**
+**Exotic Maple / Heavy Beech (Daray, Hellhammer, Jaska Raatikainen):**
 - Balanced, controlled tone that leaves room for orchestral and keyboard arrangements
 - The dominant choice among symphonic metal's most orchestrally-dense acts
 - Slightly less dynamic range than a purpose-built hybrid shell
@@ -24123,7 +24084,7 @@ That restraint — a bass drum that supports rather than dominates a melodic, ke
 - Proven across symphonic black metal's most dynamically demanding material
 - Premium-tier pricing
 
-**Verdict:** Start with a 22"x18" maple shell like Hellhammer's Pearl Reference Series or Jaska Raatikainen's Pearl Masters Premium Maple — it's the proven foundation for a balanced tone that won't fight orchestral or keyboard arrangements. Consider a dense bubinga shell like Frost's Tama Starclassic Bubinga if your material demands maximum dynamic control between blast beats and quiet, orchestral passages.`,
+**Verdict:** Start with a 22"x18" maple shell like Jaska Raatikainen's Pearl Masters Premium Maple, or a heavy beech shell like Hellhammer's Sonor SQ2 — both are a proven foundation for a balanced tone that won't fight orchestral or keyboard arrangements. Consider a dense bubinga shell like Frost's Tama Starclassic Bubinga if your material demands maximum dynamic control between blast beats and quiet, orchestral passages.`,
       comparisonTable: [
         { feature: "Mix Compatibility", birch: "⭐⭐⭐⭐⭐", maple: "⭐⭐⭐⭐" },
         { feature: "Blast Beat Endurance", birch: "⭐⭐⭐⭐", maple: "⭐⭐⭐⭐⭐" },
@@ -24144,7 +24105,7 @@ That restraint — a bass drum that supports rather than dominates a melodic, ke
         },
         {
           category: "Best for Blast Beat Speed",
-          pedal: "Pearl Reference Series Bass Drum",
+          pedal: "Sonor SQ2 Heavy Beech Bass Drum",
           reason: "Hellhammer's proven balance of extreme speed and symphonic versatility."
         },
         {
@@ -24170,7 +24131,7 @@ That restraint — a bass drum that supports rather than dominates a melodic, ke
     ],
     relatedDrummers: [
       { slug: 'daray', name: 'Daray', reason: 'Pearl Masterworks Stadium Exotic — Dimmu Borgir full-orchestra symphonic black metal' },
-      { slug: 'hellhammer', name: 'Hellhammer', reason: 'Pearl Reference Series — Mayhem and Dimmu Borgir symphonic versatility' },
+      { slug: 'hellhammer', name: 'Hellhammer', reason: 'Sonor SQ2 Heavy Beech — Mayhem and Dimmu Borgir symphonic versatility' },
       { slug: 'frost', name: 'Frost', reason: 'Tama Starclassic Bubinga — Satyricon dynamic precision' },
       { slug: 'jaska-raatikainen', name: 'Jaska Raatikainen', reason: 'Pearl Masters Premium Maple — Children of Bodom keyboard-orchestrated precision' }
     ],
@@ -24178,7 +24139,7 @@ That restraint — a bass drum that supports rather than dominates a melodic, ke
     // Featured drummers (issue template)
     featuredDrummers: [
       { slug: 'daray', name: 'Daray', reason: 'Pearl Masterworks Stadium Exotic — full-orchestra symphonic standard' },
-      { slug: 'hellhammer', name: 'Hellhammer', reason: 'Pearl Reference Series — extreme speed and symphonic versatility' },
+      { slug: 'hellhammer', name: 'Hellhammer', reason: 'Sonor SQ2 Heavy Beech — extreme speed and symphonic versatility' },
       { slug: 'frost', name: 'Frost', reason: 'Tama Starclassic Bubinga — dynamic control for orchestral restraint' }
     ],
 
@@ -24186,7 +24147,7 @@ That restraint — a bass drum that supports rather than dominates a melodic, ke
     faq: [
       {
         question: "What bass drums do symphonic metal drummers use?",
-        answer: "Daray of Dimmu Borgir plays a Pearl Masterworks Stadium Exotic, Hellhammer (Mayhem, Dimmu Borgir) plays a Pearl Reference Series, Frost of Satyricon and 1349 plays a Tama Starclassic Bubinga, and Jaska Raatikainen of Children of Bodom played a Pearl Masters Premium Maple. All run a single 22\"x18\" bass drum with a double pedal."
+        answer: "Daray of Dimmu Borgir plays a Pearl Masterworks Stadium Exotic, Hellhammer (Mayhem, Dimmu Borgir) plays a Sonor SQ2 Heavy Beech, Frost of Satyricon and 1349 plays a Tama Starclassic Bubinga, and Jaska Raatikainen of Children of Bodom played a Pearl Masters Premium Maple. All run a single 22\"x18\" bass drum with a double pedal."
       },
       {
         question: "What makes a bass drum good for symphonic metal specifically, versus other metal genres?",
@@ -24194,7 +24155,7 @@ That restraint — a bass drum that supports rather than dominates a melodic, ke
       },
       {
         question: "Do I need a bass drum that can handle blast beats for symphonic metal?",
-        answer: "Often, yes — many symphonic metal acts blend orchestral arrangements with symphonic black metal's blast beats. Hellhammer's Pearl Reference Series and Frost's Tama Starclassic Bubinga are both built to hold tone and tuning through sustained extreme-tempo passages."
+        answer: "Often, yes — many symphonic metal acts blend orchestral arrangements with symphonic black metal's blast beats. Hellhammer's Sonor SQ2 Heavy Beech and Frost's Tama Starclassic Bubinga are both built to hold tone and tuning through sustained extreme-tempo passages."
       },
       {
         question: "What size bass drum is best for symphonic metal?",
@@ -24209,7 +24170,7 @@ That restraint — a bass drum that supports rather than dominates a melodic, ke
     // Conclusion
     conclusion: {
       title: "Build the Balanced Low End Symphonic Metal Demands",
-      content: `Symphonic metal's bass drum requirements go beyond what most metal subgenres ask for — a shell has to sit under dense orchestral arrangements without muddying strings, choir, or keyboards, while still holding up under sustained blast beats. Daray's Pearl Masterworks Stadium Exotic and Hellhammer's Pearl Reference Series both prove that a balanced, controlled maple tone is the genre's proven foundation.
+      content: `Symphonic metal's bass drum requirements go beyond what most metal subgenres ask for — a shell has to sit under dense orchestral arrangements without muddying strings, choir, or keyboards, while still holding up under sustained blast beats. Daray's Pearl Masterworks Stadium Exotic and Hellhammer's Sonor SQ2 Heavy Beech both prove that a balanced, controlled tone is the genre's proven foundation.
 
 If your material demands maximum dynamic range between extreme speed and orchestral restraint, Frost's Tama Starclassic Bubinga shows how a dense, purpose-suited shell can serve both ends without compromise.
 
@@ -52003,7 +51964,7 @@ Start lean: a single kick trigger and a basic interface will reinforce your loud
       title: "Triggers and Black Metal's Raw Aesthetic Aren't Opposites",
       content: `A drum trigger is a small piezo or optical sensor clipped or mounted directly onto an acoustic drumhead. It converts the physical vibration of a hit into an electronic signal that can drive a sample, reinforce a weak-sounding mic, or feed a click-synced monitor rig — without changing how the acoustic drum feels under the stick or beater. Black metal presents a genuinely distinct case for this gear: the genre's identity is built on a raw, unpolished live sound, yet its blast beats are sustained at tempos that push acoustic consistency to its limit in the studio, creating real tension between the aesthetic black metal drummers want and the uniform attack a finished recording needs.
 
-Hellhammer of Mayhem, arguably black metal's most influential drummer, runs Roland Electronics reinforcing his acoustic Pearl kit — proof that even the drummer who helped define the genre's raw blueprint on De Mysteriis Dom Sathanas relies on trigger reinforcement rather than treating it as incompatible with black metal's identity. The key distinction is where the trigger is used: studio recording commonly uses trigger reinforcement to guarantee sustained blast beats stay consistent across a full album take, while the genre's live-performance culture remains built around raw, unprocessed intensity — the same kind of purism reflected in Frost of Satyricon and Inferno of Behemoth's kits, both built for direct, acoustic attack on stage rather than trigger-driven reinforcement.
+Hellhammer of Mayhem, arguably black metal's most influential drummer, runs Roland Electronics reinforcing his acoustic Sonor kit — proof that even the drummer who helped define the genre's raw blueprint on De Mysteriis Dom Sathanas relies on trigger reinforcement rather than treating it as incompatible with black metal's identity. The key distinction is where the trigger is used: studio recording commonly uses trigger reinforcement to guarantee sustained blast beats stay consistent across a full album take, while the genre's live-performance culture remains built around raw, unprocessed intensity — the same kind of purism reflected in Frost of Satyricon and Inferno of Behemoth's kits, both built for direct, acoustic attack on stage rather than trigger-driven reinforcement.
 
 This guide covers what actually matters when choosing drum triggers for black metal — mounting type, dual-zone sensing, and crosstalk rejection at blast-beat tempo — with specific recommendations across every budget, from a first single kick trigger to a full acoustic reinforcement rig for the studio.`,
       keyPoints: [
@@ -52287,11 +52248,11 @@ For black metal drummers who've already invested in triggers from multiple brand
 **Studio Recording (Roland RT-30, ddrum + interface):**
 - Reinforces sustained blast beat consistency across a full album take
 - Keeps the acoustic kit's exact raw feel and tuning underneath the reinforcement
-- The setup Hellhammer runs on his acoustic Pearl kit while tracking
+- The setup Hellhammer runs on his acoustic Sonor kit while tracking
 
 **Live-Performance Purism (no trigger, raw acoustic kit):**
 - Many black metal drummers deliberately avoid triggers on stage to preserve the genre's unprocessed, raw live intensity
-- Prioritizes the direct, acoustic attack heard from drummers building kits like Frost's Tama Starclassic Bubinga and Inferno's Pearl Masterworks setups
+- Prioritizes the direct, acoustic attack heard from drummers building kits like Frost's Tama Starclassic Bubinga and Inferno's Pearl Reference Pure setups
 - Reflects black metal's broader DIY, anti-polish aesthetic as a genre philosophy, not just a gear choice
 
 **The Truth:** Studio recording commonly uses trigger reinforcement to guarantee sustained blast beats stay consistent across an album take, while black metal's live-performance culture — distinct from that studio practice — remains built around raw, unprocessed intensity. Hellhammer's use of Roland Electronics in the studio doesn't contradict this; it shows the two contexts call for different priorities.
@@ -52342,7 +52303,7 @@ For black metal drummers who've already invested in triggers from multiple brand
     relatedDrummers: [
       { slug: 'hellhammer', name: 'Hellhammer', reason: 'Roland Electronics reinforcing his acoustic black metal kit' },
       { slug: 'frost', name: 'Frost', reason: 'Tama Starclassic Bubinga kit built for raw, direct blast beat attack live' },
-      { slug: 'inferno', name: 'Inferno', reason: 'Pearl Masterworks kit anchoring Behemoth\'s blast beats above 200 BPM' }
+      { slug: 'inferno', name: 'Inferno', reason: 'Pearl Reference Pure kit anchoring Behemoth\'s blast beats above 200 BPM' }
     ],
     relatedComparisons: [],
 
@@ -61388,7 +61349,7 @@ Technique matters as much as gear in thrash metal. The genre's most influential 
     // SEO metadata
     title: "Best Drum Kits for Symphonic Metal: 2026 Ultimate Guide",
     metaTitle: "Best Drum Kits for Symphonic Metal 2026 | MetalForge Expert Guide",
-    description: "Best drum kits for symphonic metal drumming. What Daray (Pearl Masterworks Stadium Exotic), Hellhammer (Pearl Reference), Frost (Tama Starclassic Bubinga), and Jaska Raatikainen (Pearl Masters Premium Maple) actually use — from budget to pro, built for orchestral grandeur and blast-beat extremity.",
+    description: "Best drum kits for symphonic metal drumming. What Daray (Pearl Masterworks Stadium Exotic), Hellhammer (Sonor SQ2 Heavy Beech), Frost (Tama Starclassic Bubinga), and Jaska Raatikainen (Pearl Masters Premium Maple) actually use — from budget to pro, built for orchestral grandeur and blast-beat extremity.",
     seoKeywords: [
       'best drum kits for symphonic metal',
       'symphonic metal drum kit',
@@ -61425,12 +61386,12 @@ Technique matters as much as gear in thrash metal. The genre's most influential 
       title: "What Drum Kit Should I Use for Symphonic Metal?",
       content: `Symphonic metal drumming has to serve two masters at once: the extreme aggression of blast beats and double bass at black or death metal tempos, and the dynamic sensitivity a full orchestral or choir arrangement demands. That split shapes every gear decision — a kit built purely for speed can feel one-dimensional next to a string section, while a kit voiced for warmth alone won't cut through 280 BPM blast beats.
 
-Daray built the Pearl Masterworks Stadium Exotic / Paiste RUDE rig that has carried Dimmu Borgir's full-orchestra symphonic black metal from "Abrahadabra" (2010) through 2026's "Grand Serpent Rising," a setup engineered for maximum projection against layered symphony and choir arrangements. Hellhammer's Pearl Reference Series kit and Zildjian A Custom/Z Custom Dark Ride combination has powered both Mayhem's foundational black metal and Dimmu Borgir's own symphonic era, making him the most versatile drummer in the genre's extreme range. Frost's Tama Starclassic Bubinga kit, played since 2013, gives Satyricon and 1349 the dynamic control needed to move between blast-beat storms and the atmospheric restraint symphonic arrangements require, while Jaska Raatikainen's Pearl Masters Premium Maple kit drove Children of Bodom's keyboard-orchestrated melodic death metal for over two decades.
+Daray built the Pearl Masterworks Stadium Exotic / Paiste RUDE rig that has carried Dimmu Borgir's full-orchestra symphonic black metal from "Abrahadabra" (2010) through 2026's "Grand Serpent Rising," a setup engineered for maximum projection against layered symphony and choir arrangements. Hellhammer's Sonor SQ2 Heavy Beech kit and Paiste RUDE cymbal setup has powered both Mayhem's foundational black metal and Dimmu Borgir's own symphonic era, making him the most versatile drummer in the genre's extreme range. Frost's Tama Starclassic Bubinga kit, played since 2013, gives Satyricon and 1349 the dynamic control needed to move between blast-beat storms and the atmospheric restraint symphonic arrangements require, while Jaska Raatikainen's Pearl Masters Premium Maple kit drove Children of Bodom's keyboard-orchestrated melodic death metal for over two decades.
 
 This guide breaks down what actually makes a kit work for symphonic metal — projection, dynamic range, and extreme-tempo durability — and which specific kits these four influential drummers rely on, from budget-friendly starters to the professional rigs behind the genre's most orchestrally ambitious records.`,
       keyPoints: [
         "Daray's Pearl Masterworks Stadium Exotic kit is engineered for maximum projection against full orchestra and choir arrangements",
-        "Hellhammer's Pearl Reference / Zildjian setup proves one rig can serve both raw black metal and symphonic grandeur",
+        "Hellhammer's Sonor SQ2 / Paiste RUDE setup proves one rig can serve both raw black metal and symphonic grandeur",
         "Frost's dense-shell Tama Starclassic Bubinga kit prioritizes dynamic control for moving between blast beats and orchestral restraint",
         "Deep, powerful shells and durable double-pedal hardware matter as much as tonal warmth in symphonic metal contexts"
       ]
@@ -61526,43 +61487,43 @@ Pearl's Masterworks custom shell program lets Daray dial in exact specs for Dimm
         },
         {
           rank: 2,
-          name: "Pearl Reference Series",
-          brand: "Pearl",
-          model: "Reference Series",
+          name: "Sonor SQ2 Heavy Beech",
+          brand: "Sonor",
+          model: "SQ2 Heavy Beech",
           image: "https://upload.wikimedia.org/wikipedia/commons/a/ac/Drums_01.jpg",
-          priceRange: "€3200-4800 (shell pack)",
+          priceRange: "€5000-7000 (shell pack)",
           tier: "pro",
-          material: "Maple",
+          material: "Heavy Beech Shell",
 
-          description: `Hellhammer upgraded to the Pearl Reference Series during his dual Mayhem/Dimmu Borgir period beginning in 1999, and it remains his confirmed current configuration — the flagship maple shells deliver the powerful projection that carries both Mayhem's raw black metal and Dimmu Borgir's symphonic grandeur. Paired with Zildjian A Custom hi-hats and crashes plus a Z Custom Dark Ride, and driven by a Pearl Demon Drive double pedal, the setup is built for extreme speed and durability.
+          description: `Hellhammer has played the Sonor SQ2 Heavy Beech since 1999, and it remains his confirmed current configuration — the heavy beech shells deliver the powerful, cutting projection that carries both Mayhem's raw black metal and Dimmu Borgir's symphonic grandeur. Paired with Paiste RUDE cymbals and hi-hats, and driven by an Axis Double Pedal, the setup is built for extreme speed and durability.
 
 Hellhammer's willingness to play barefoot for direct pedal feedback underlines how much this rig prioritizes precision at 200+ BPM — a demand symphonic metal shares with pure extreme metal, layered on top of orchestral dynamic sensitivity.`,
 
           pros: [
             "Hellhammer's setup — proven across both Mayhem's raw extremity and Dimmu Borgir's symphonic grandeur",
-            "Pearl Reference flagship maple shells for powerful projection",
-            "Zildjian A Custom/Z Custom Dark Ride pairing for tonal complexity",
-            "Pearl Demon Drive double pedal built for extreme-tempo precision",
+            "Sonor SQ2 heavy beech shells for powerful, cutting projection",
+            "Paiste RUDE cymbal pairing for raw, explosive tonal character",
+            "Axis Double Pedal built for extreme-tempo precision",
             "35+ years of proven reliability across relentless dual-band touring"
           ],
           cons: [
-            "Premium Reference Series pricing",
-            "Maple shells demand careful tuning to avoid getting buried under orchestral layers",
+            "Premium SQ2 pricing",
+            "Heavy beech shells demand careful tuning to avoid getting buried under orchestral layers",
             "Significant investment for a full shell pack"
           ],
           specs: {
-            shell: "Maple",
-            mount: "Pearl OptiMount",
-            finish: "Multiple lacquer options",
+            shell: "Heavy Beech",
+            mount: "TAR Mount",
+            finish: "Multiple lacquer/wrap options",
             kickSize: "22\" x 18\" standard",
             tomSizes: "Various configurations"
           },
           usedBy: [
-            { name: "Hellhammer", band: "Mayhem / Dimmu Borgir", note: "Pearl Reference Series — extreme speed and symphonic versatility" }
+            { name: "Hellhammer", band: "Mayhem / Dimmu Borgir", note: "Sonor SQ2 Heavy Beech — extreme speed and symphonic versatility" }
           ],
           verdict: "Best for drummers spanning both raw extreme metal and symphonic grandeur in a single career.",
           rating: 4.7,
-          affiliateLink: "https://www.thomann.de/intl/pearl_reference_series.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/sonor_sq2_heavy_beech.htm?partner_id=metalforge"
         },
         {
           rank: 3,
@@ -61659,8 +61620,8 @@ Raatikainen's twin 22"x18" kick configuration with a compact two rack tom/two fl
           priceRange: "€600-900 (shell pack)",
           tier: "budget",
           material: "Poplar/Birch Hybrid",
-          description: "The Pearl Export carries the same Pearl DNA as Daray, Hellhammer, and Raatikainen's professional kits at a fraction of the price. It won't match their custom projection, but it teaches proper technique on a genuinely durable, Pearl-built shell pack.",
-          pros: ["Same Pearl family DNA as three of this guide's featured kits", "Durable enough for both extreme tempo and dynamic playing", "Worldwide availability and support"],
+          description: "The Pearl Export carries the same Pearl DNA as Daray and Raatikainen's professional kits at a fraction of the price. It won't match their custom projection, but it teaches proper technique on a genuinely durable, Pearl-built shell pack.",
+          pros: ["Same Pearl family DNA as two of this guide's featured kits", "Durable enough for both extreme tempo and dynamic playing", "Worldwide availability and support"],
           cons: ["Poplar/birch shells lack the projection of Reference or Masterworks maple", "Will need head upgrades to sound professional"],
           verdict: "Best budget entry into the Pearl symphonic metal sound.",
           rating: 4.1,
@@ -61683,15 +61644,15 @@ Raatikainen's twin 22"x18" kick configuration with a compact two rack tom/two fl
       ]
     },
 
-    // Pearl vs Tama comparison
+    // Pearl vs Tama vs Sonor comparison
     comparison: {
-      title: "Pearl vs Tama for Symphonic Metal",
-      content: `Shell choice splits symphonic metal's leading drummers into two clear camps. Here's how each compares:
+      title: "Pearl vs Tama vs Sonor for Symphonic Metal",
+      content: `Shell choice splits symphonic metal's leading drummers into a few clear camps. Here's how each compares:
 
-**Pearl (Daray, Hellhammer, Jaska Raatikainen):**
-- Three of this guide's four featured drummers build around Pearl
-- Masterworks and Reference lines prioritize maximum projection and brightness
-- The dominant choice across symphonic black metal's biggest bands
+**Pearl (Daray, Jaska Raatikainen):**
+- Two of this guide's four featured drummers build around Pearl
+- Masterworks and Masters Premium lines prioritize maximum projection and brightness
+- A dominant choice across symphonic black metal's biggest bands
 - Best for: Cutting through dense orchestral and choir arrangements
 
 **Tama (Frost):**
@@ -61700,9 +61661,14 @@ Raatikainen's twin 22"x18" kick configuration with a compact two rack tom/two fl
 - Proven across over a decade of Norwegian extreme and symphonic-adjacent metal
 - Best for: Drummers who need to move fluidly between blast beats and theatrical restraint
 
-**The Truth:** Both brands sit at the top of symphonic metal's gear hierarchy. Pearl's Masterworks and Reference lines dominate the genre's biggest, most orchestrally ambitious bands, while Frost's Tama Starclassic Bubinga proves a denser, more dynamically controlled setup works equally well at the highest level.
+**Sonor (Hellhammer):**
+- Heavy beech shells prioritize a bright, cutting attack with more edge than maple
+- Proven since 1988 across both Mayhem's raw black metal and Dimmu Borgir's symphonic era
+- Best for: Drummers who need one rig to serve both extreme rawness and orchestral grandeur
 
-**Our Recommendation:** Choose Pearl if your material leans toward maximum projection against dense orchestral arrangements. Choose Tama if dynamic sensitivity between extremity and restraint matters more than raw brightness.`,
+**The Truth:** All three brands sit at the top of symphonic metal's gear hierarchy. Pearl's Masterworks and Masters Premium lines dominate the genre's biggest, most orchestrally ambitious bands, Frost's Tama Starclassic Bubinga proves a denser, more dynamically controlled setup works equally well at the highest level, and Hellhammer's Sonor SQ2 shows a beech shell platform can bridge raw extremity and symphonic grandeur in a single rig.
+
+**Our Recommendation:** Choose Pearl if your material leans toward maximum projection against dense orchestral arrangements. Choose Tama if dynamic sensitivity between extremity and restraint matters more than raw brightness. Choose Sonor if you need one rig proven across both raw black metal and orchestral symphonic material.`,
       comparisonTable: [
         { feature: "Orchestral Projection", pearl: "⭐⭐⭐⭐⭐", tama: "⭐⭐⭐⭐" },
         { feature: "Dynamic Range", pearl: "⭐⭐⭐⭐", tama: "⭐⭐⭐⭐⭐" },
@@ -61722,7 +61688,7 @@ Raatikainen's twin 22"x18" kick configuration with a compact two rack tom/two fl
         },
         {
           category: "Best for Extreme Speed",
-          pedal: "Pearl Reference Series",
+          pedal: "Sonor SQ2 Heavy Beech",
           reason: "Hellhammer's dual-band setup proves one kit can serve both raw black metal and symphonic grandeur."
         },
         {
@@ -61746,7 +61712,7 @@ Raatikainen's twin 22"x18" kick configuration with a compact two rack tom/two fl
     ],
     relatedDrummers: [
       { slug: 'daray', name: 'Daray', reason: 'Pearl Masterworks Stadium Exotic — Dimmu Borgir full-orchestra symphonic black metal' },
-      { slug: 'hellhammer', name: 'Hellhammer', reason: 'Pearl Reference Series — Mayhem and Dimmu Borgir symphonic versatility' },
+      { slug: 'hellhammer', name: 'Hellhammer', reason: 'Sonor SQ2 Heavy Beech — Mayhem and Dimmu Borgir symphonic versatility' },
       { slug: 'frost', name: 'Frost', reason: 'Tama Starclassic Bubinga — Satyricon dynamic precision' },
       { slug: 'jaska-raatikainen', name: 'Jaska Raatikainen', reason: 'Pearl Masters Premium Maple — Children of Bodom keyboard-orchestrated precision' }
     ],
@@ -61754,7 +61720,7 @@ Raatikainen's twin 22"x18" kick configuration with a compact two rack tom/two fl
     // Featured drummers (issue template)
     featuredDrummers: [
       { slug: 'daray', name: 'Daray', reason: 'Pearl Masterworks Stadium Exotic — Dimmu Borgir full-orchestra symphonic black metal' },
-      { slug: 'hellhammer', name: 'Hellhammer', reason: 'Pearl Reference Series — Mayhem and Dimmu Borgir symphonic versatility' },
+      { slug: 'hellhammer', name: 'Hellhammer', reason: 'Sonor SQ2 Heavy Beech — Mayhem and Dimmu Borgir symphonic versatility' },
       { slug: 'frost', name: 'Frost', reason: 'Tama Starclassic Bubinga — Satyricon dynamic precision' },
       { slug: 'jaska-raatikainen', name: 'Jaska Raatikainen', reason: 'Pearl Masters Premium Maple — Children of Bodom keyboard-orchestrated precision' }
     ],
@@ -61767,7 +61733,7 @@ Raatikainen's twin 22"x18" kick configuration with a compact two rack tom/two fl
       },
       {
         question: "What drum kit does Hellhammer use?",
-        answer: "Hellhammer plays a Pearl Reference Series kit — flagship maple shells he upgraded to during his dual Mayhem/Dimmu Borgir period beginning in 1999 — paired with Zildjian A Custom hi-hats and crashes, a Z Custom Dark Ride, and a Pearl Demon Drive double pedal."
+        answer: "Hellhammer plays a Sonor SQ2 Heavy Beech kit — his setup since 1999, across both Mayhem's raw black metal and Dimmu Borgir's symphonic era — paired with Paiste RUDE cymbals and hi-hats, and an Axis Double Pedal."
       },
       {
         question: "What drum kit does Frost from Satyricon use?",
@@ -61786,9 +61752,9 @@ Raatikainen's twin 22"x18" kick configuration with a compact two rack tom/two fl
     // Conclusion
     conclusion: {
       title: "Build Your Symphonic Metal Arsenal",
-      content: `Symphonic metal drum kits have to cover more ground than almost any other metal subgenre — sustaining blast-beat extremity one moment, then pulling back to support a full orchestra or choir the next. Daray's Pearl Masterworks Stadium Exotic, Hellhammer's Pearl Reference Series, Frost's Tama Starclassic Bubinga, and Jaska Raatikainen's Pearl Masters Premium Maple each solve that challenge with a slightly different balance of projection versus dynamic control.
+      content: `Symphonic metal drum kits have to cover more ground than almost any other metal subgenre — sustaining blast-beat extremity one moment, then pulling back to support a full orchestra or choir the next. Daray's Pearl Masterworks Stadium Exotic, Hellhammer's Sonor SQ2 Heavy Beech, Frost's Tama Starclassic Bubinga, and Jaska Raatikainen's Pearl Masters Premium Maple each solve that challenge with a slightly different balance of projection versus dynamic control.
 
-Whether you choose a Pearl setup for maximum orchestral cut-through or a Tama Starclassic Bubinga for dense dynamic balance, remember that symphonic metal's most acclaimed recordings were made by drummers who mastered the transition between extremity and restraint — not by gear alone.
+Whether you choose a Pearl setup for maximum orchestral cut-through, a Tama Starclassic Bubinga for dense dynamic balance, or Hellhammer's Sonor SQ2 for a rig proven across both raw extremity and orchestral grandeur, remember that symphonic metal's most acclaimed recordings were made by drummers who mastered the transition between extremity and restraint — not by gear alone.
 
 Start where your budget allows — even a Pearl Export or Tama Imperialstar will get you playing real symphonic metal. Prioritize tuning and dynamic control before you chase a premium shell program.
 
@@ -63005,7 +62971,7 @@ Budget shouldn't stop you either. A Tama Iron Cobra 600 or a simple single pedal
     // SEO metadata
     title: "Best Snare Drums for Symphonic Metal: 2026 Ultimate Guide",
     metaTitle: "Best Snare Drums for Symphonic Metal 2026 | MetalForge Expert Guide",
-    description: "Best snare drums for symphonic metal drumming. What Daray (Pearl Reference Brass), Frost (Tama Starclassic Bubinga), Jaska Raatikainen (Pearl Masters Maple), and Hellhammer (Pearl Reference Steel) actually play — bright, cutting snare tone built to carry through full orchestra and choir, from budget to pro.",
+    description: "Best snare drums for symphonic metal drumming. What Daray (Pearl Reference Brass), Frost (Tama Starclassic Bubinga), Jaska Raatikainen (Pearl Masters Maple), and Hellhammer (Sonor SQ2 Maple) actually play — bright, cutting snare tone built to carry through full orchestra and choir, from budget to pro.",
     seoKeywords: [
       'best snare drums for symphonic metal',
       'symphonic metal snare drum',
@@ -63042,14 +63008,14 @@ Budget shouldn't stop you either. A Tama Iron Cobra 600 or a simple single pedal
       title: "Why Symphonic Metal Needs a Snare That Cuts Through the Orchestra",
       content: `A symphonic metal snare has one job that most metal subgenres don't require: staying clearly audible underneath a full orchestra, choir, and keyboard arrangement, whether the tempo sits at a stately march or a 280 BPM blast beat. That's a much harder brief than it sounds — a snare voiced purely for extreme-metal dryness can disappear into dense orchestral layering, while a snare tuned for warmth alone can lose the crack a galloping symphonic arrangement needs to stay driving.
 
-Daray's Pearl Reference 14"x5.5" Brass snare has carried Dimmu Borgir's full-orchestra symphonic black metal from "Abrahadabra" (2010) through 2026's "Grand Serpent Rising," its brass shell chosen specifically for brightness that survives layered symphony and choir arrangements. Frost's Tama Starclassic Bubinga 14"x5.5" snare gives Satyricon and 1349 a denser, more controlled crack that still holds its own at extreme tempo. Jaska Raatikainen's Pearl Masters 14"x5.5" maple snare drove Children of Bodom's keyboard-orchestrated melodic death metal for over two decades. Hellhammer's Pearl Reference 14"x6.5" snare has powered both Mayhem's foundational black metal and Dimmu Borgir's own symphonic era, proving one snare can serve raw extremity and orchestral grandeur alike.
+Daray's Pearl Reference 14"x5.5" Brass snare has carried Dimmu Borgir's full-orchestra symphonic black metal from "Abrahadabra" (2010) through 2026's "Grand Serpent Rising," its brass shell chosen specifically for brightness that survives layered symphony and choir arrangements. Frost's Tama Starclassic Bubinga 14"x5.5" snare gives Satyricon and 1349 a denser, more controlled crack that still holds its own at extreme tempo. Jaska Raatikainen's Pearl Masters 14"x5.5" maple snare drove Children of Bodom's keyboard-orchestrated melodic death metal for over two decades. Hellhammer's Sonor SQ2 14"x5.5" maple snare has powered both Mayhem's foundational black metal and Dimmu Borgir's own symphonic era, proving one snare can serve raw extremity and orchestral grandeur alike.
 
-This guide breaks down brass, bubinga, maple, and steel snare options for symphonic metal — comparing shell material, depth, and cut-through against orchestral density — and which specific snares these four influential drummers rely on, from budget-friendly starters to the professional snares behind the genre's most orchestrally ambitious records.`,
+This guide breaks down brass, bubinga, and maple snare options for symphonic metal — comparing shell material, depth, and cut-through against orchestral density — and which specific snares these four influential drummers rely on, from budget-friendly starters to the professional snares behind the genre's most orchestrally ambitious records.`,
       keyPoints: [
         "Daray's Pearl Reference 14\"x5.5\" Brass snare is voiced for maximum brightness against Dimmu Borgir's full-orchestra arrangements",
         "Frost's Tama Starclassic Bubinga 14\"x5.5\" snare trades some brightness for a denser, more controlled crack without losing extreme-tempo cut",
         "Jaska Raatikainen's Pearl Masters 14\"x5.5\" Maple snare proves a warm shell can still cut through keyboard-orchestrated arrangements",
-        "Hellhammer's Pearl Reference 14\"x6.5\" snare shows one snare voice can serve both raw black metal and symphonic grandeur"
+        "Hellhammer's Sonor SQ2 14\"x5.5\" maple snare shows one snare voice can serve both raw black metal and symphonic grandeur"
       ]
     },
 
@@ -63066,7 +63032,7 @@ This guide breaks down brass, bubinga, maple, and steel snare options for sympho
         {
           name: "Shell Depth for Backbeat Presence",
           icon: "📏",
-          description: "14\"x5.5\" (Daray, Raatikainen, Frost) keeps attack fast and forward for galloping symphonic passages, while 14\"x6.5\" (Hellhammer) adds a touch more body without sacrificing cut — the right depth depends on how much of the arrangement's low end you need to counter.",
+          description: "14\"x5.5\" is the standard depth across Daray, Raatikainen, Frost, and Hellhammer alike, keeping attack fast and forward for galloping symphonic passages — a deeper 6.5\" shell is worth considering if you specifically want more body without sacrificing cut.",
           recommendation: "14\"x5.5\" for maximum speed and forward attack, 14\"x6.5\" for a touch more body and sustain"
         },
         {
@@ -63222,43 +63188,43 @@ Unchanged from the band's earliest fully-documented setup through its 2019 farew
         },
         {
           rank: 4,
-          name: "Pearl Reference Steel",
-          brand: "Pearl",
-          model: "Reference 14\"x6.5\" Steel",
+          name: "Sonor SQ2 Maple",
+          brand: "Sonor",
+          model: "SQ2 14\"x5.5\" Maple",
           image: "https://upload.wikimedia.org/wikipedia/commons/a/ac/Drums_01.jpg",
           priceRange: "€380-550",
           tier: "pro",
-          material: "Steel (14x6.5\")",
+          material: "Maple (14x5.5\")",
 
-          description: `Hellhammer's Pearl Reference 14"x6.5" snare has remained his confirmed current configuration since he upgraded to the Reference Series during his dual Mayhem/Dimmu Borgir period beginning in 1999 — the deeper steel shell delivers the powerful, direct crack that carries both Mayhem's raw black metal and Dimmu Borgir's symphonic grandeur.
+          description: `Hellhammer's Sonor SQ2 14"x5.5" maple snare has remained his confirmed current configuration since 1999 — the dry, cutting crack delivers the powerful, direct attack that carries both Mayhem's raw black metal and Dimmu Borgir's symphonic grandeur.
 
-Paired with Zildjian A Custom hi-hats and crashes plus a Z Custom Dark Ride, Hellhammer's willingness to play his Pearl Demon Drive pedal barefoot underlines how much this rig prioritizes precision at 200+ BPM — a demand symphonic metal shares with pure extreme metal, layered on top of orchestral projection.`,
+Paired with Paiste RUDE cymbals and hi-hats, Hellhammer's willingness to play his Axis Double Pedal barefoot underlines how much this rig prioritizes precision at 200+ BPM — a demand symphonic metal shares with pure extreme metal, layered on top of orchestral projection.`,
 
           pros: [
             "Hellhammer's setup — proven across both Mayhem's raw extremity and Dimmu Borgir's symphonic grandeur",
-            "Steel shell delivers the most direct, cutting crack of this guide's four snares",
-            "6.5\" depth adds extra body for a fuller backbeat under dense orchestration",
+            "Dry, cutting maple crack that carries through dense orchestration",
+            "14x5.5\" depth keeps attack fast and forward",
             "35+ years of proven reliability across relentless dual-band touring",
-            "Pearl Reference build quality trusted at the highest professional level"
+            "Sonor's German precision manufacturing trusted at the highest professional level"
           ],
           cons: [
-            "Steel's brightness can feel harsh for warmer, more melodic symphonic material",
-            "Premium Reference Series pricing",
-            "Deeper 6.5\" shell trades a touch of speed for added body"
+            "Drier voicing can feel less bright than a brass shell for the most orchestrally dense material",
+            "Premium SQ2 pricing",
+            "Standard SQ2 shell lacks the exotic customization of a Masterworks program"
           ],
           specs: {
-            shell: "Steel",
+            shell: "Maple",
             diameter: "14\"",
-            depth: "6.5\"",
-            throwOff: "Pearl UltraCast",
+            depth: "5.5\"",
+            throwOff: "Sonor Tune Safe",
             wires: "20-strand"
           },
           usedBy: [
-            { name: "Hellhammer", band: "Mayhem / Dimmu Borgir", note: "14x6.5\" Pearl Reference Steel — extreme speed and symphonic versatility" }
+            { name: "Hellhammer", band: "Mayhem / Dimmu Borgir", note: "14x5.5\" Sonor SQ2 Maple — extreme speed and symphonic versatility" }
           ],
           verdict: "Best for drummers spanning both raw extreme metal and symphonic grandeur in a single career.",
           rating: 4.5,
-          affiliateLink: "https://www.thomann.de/intl/pearl_reference_steel_snare.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/sonor_sq2_maple_snare.htm?partner_id=metalforge"
         }
       ]
     },
@@ -63275,8 +63241,8 @@ Paired with Zildjian A Custom hi-hats and crashes plus a Z Custom Dark Ride, Hel
           priceRange: "€90-140",
           tier: "budget",
           material: "Steel",
-          description: "The Pearl Export steel snare carries the same Pearl DNA as Daray and Hellhammer's professional snares at a fraction of the price. It won't match their custom depth and tuning refinement, but it teaches proper orchestral cut-through technique on a genuinely bright, durable shell.",
-          pros: ["Same Pearl family DNA as three of this guide's featured snares", "Bright enough to practice cutting through dense mixes", "Worldwide availability and support"],
+          description: "The Pearl Export steel snare carries the same Pearl DNA as Daray and Jaska Raatikainen's professional snares at a fraction of the price. It won't match their custom depth and tuning refinement, but it teaches proper orchestral cut-through technique on a genuinely bright, durable shell.",
+          pros: ["Same Pearl family DNA as two of this guide's featured snares", "Bright enough to practice cutting through dense mixes", "Worldwide availability and support"],
           cons: ["Basic hardware compared to Reference or Masters models", "Steel character less refined than Reference Series brass or steel"],
           verdict: "Best budget entry into the Pearl symphonic metal snare sound.",
           rating: 4.1,
@@ -63299,10 +63265,10 @@ Paired with Zildjian A Custom hi-hats and crashes plus a Z Custom Dark Ride, Hel
       ]
     },
 
-    // Brass vs Bubinga vs Maple vs Steel comparison
+    // Brass vs Bubinga vs Maple comparison
     comparison: {
-      title: "Brass vs Bubinga vs Maple vs Steel for Symphonic Metal Snares",
-      content: `Shell material splits symphonic metal's leading drummers into four camps. Here's how each compares:
+      title: "Brass vs Bubinga vs Maple for Symphonic Metal Snares",
+      content: `Shell material splits symphonic metal's leading drummers into three camps. Here's how each compares:
 
 **Brass (Daray):**
 - Maximum brightness for cutting through full orchestra and choir arrangements
@@ -63314,24 +63280,19 @@ Paired with Zildjian A Custom hi-hats and crashes plus a Z Custom Dark Ride, Hel
 - Proven at hyperspeed blast-beat tempo without sacrificing dynamic control
 - Best for: Drummers who need extra shell density alongside orchestral projection
 
-**Maple (Jaska Raatikainen):**
+**Maple (Jaska Raatikainen, Hellhammer):**
 - Warmer, more musical crack without sacrificing extreme-tempo cut
-- Proven across keyboard-orchestrated melodic material
+- Proven across both keyboard-orchestrated melodic material (Raatikainen's Pearl Masters) and dual-genre raw extremity plus symphonic grandeur (Hellhammer's Sonor SQ2)
 - Best for: Drummers who want tonal warmth alongside orchestral projection
 
-**Steel (Hellhammer):**
-- The most direct, cutting crack of the four materials
-- Deeper 6.5" shell adds body for drummers spanning raw extreme metal and symphonic grandeur
-- Best for: Dual-genre drummers who need one snare to do everything
+**The Truth:** All three shell materials sit at the top of symphonic metal's gear hierarchy. Daray's brass dominates the genre's brightest, most orchestrally ambitious bands, while Frost's dense bubinga and Raatikainen's and Hellhammer's warm maple prove denser or warmer voices work equally well at the highest level.
 
-**The Truth:** All four shell materials sit at the top of symphonic metal's gear hierarchy. Daray's brass and Hellhammer's steel both dominate the genre's brightest, most orchestrally ambitious bands, while Frost's dense bubinga and Raatikainen's warm maple prove denser or warmer voices work equally well at the highest level.
-
-**Our Recommendation:** Choose brass if your material leans toward maximum brightness against dense orchestral arrangements. Choose bubinga or maple if tonal control or warmth matters as much as cut-through. Choose steel if you need one snare to cover both raw extremity and symphonic grandeur.`,
+**Our Recommendation:** Choose brass if your material leans toward maximum brightness against dense orchestral arrangements. Choose bubinga if tonal control matters as much as cut-through. Choose maple if you want warmth — Hellhammer's Sonor SQ2 proves it can still cover both raw extremity and symphonic grandeur.`,
       comparisonTable: [
-        { feature: "Orchestral Cut-Through", brass: "⭐⭐⭐⭐⭐", bubinga: "⭐⭐⭐⭐", maple: "⭐⭐⭐⭐", steel: "⭐⭐⭐⭐⭐" },
-        { feature: "Warmth/Control", brass: "⭐⭐", bubinga: "⭐⭐⭐⭐", maple: "⭐⭐⭐⭐⭐", steel: "⭐⭐" },
-        { feature: "Blast Beat Durability", brass: "⭐⭐⭐⭐", bubinga: "⭐⭐⭐⭐⭐", maple: "⭐⭐⭐⭐", steel: "⭐⭐⭐⭐⭐" },
-        { feature: "Price (entry)", brass: "€450+", bubinga: "€400+", maple: "€280+", steel: "€380+" }
+        { feature: "Orchestral Cut-Through", brass: "⭐⭐⭐⭐⭐", bubinga: "⭐⭐⭐⭐", maple: "⭐⭐⭐⭐" },
+        { feature: "Warmth/Control", brass: "⭐⭐", bubinga: "⭐⭐⭐⭐", maple: "⭐⭐⭐⭐⭐" },
+        { feature: "Blast Beat Durability", brass: "⭐⭐⭐⭐", bubinga: "⭐⭐⭐⭐⭐", maple: "⭐⭐⭐⭐" },
+        { feature: "Price (entry)", brass: "€450+", bubinga: "€400+", maple: "€280+" }
       ]
     },
 
@@ -63355,6 +63316,11 @@ Paired with Zildjian A Custom hi-hats and crashes plus a Z Custom Dark Ride, Hel
           reason: "Jaska Raatikainen's Children of Bodom setup — warm, focused tone at accessible pro-tier pricing."
         },
         {
+          category: "Best for Dual-Genre Versatility",
+          pedal: "Sonor SQ2 Maple",
+          reason: "Hellhammer's setup — proven across both Mayhem's raw black metal and Dimmu Borgir's symphonic grandeur."
+        },
+        {
           category: "Best Budget",
           pedal: "Pearl Export Steel Snare",
           reason: "Same Pearl DNA as three of this guide's featured snares, at a fraction of the price."
@@ -63372,7 +63338,7 @@ Paired with Zildjian A Custom hi-hats and crashes plus a Z Custom Dark Ride, Hel
       { slug: 'daray', name: 'Daray', reason: 'Pearl Reference 14x5.5" Brass — Dimmu Borgir full-orchestra brightness' },
       { slug: 'frost', name: 'Frost', reason: 'Tama Starclassic Bubinga 14x5.5" — Satyricon dynamic precision' },
       { slug: 'jaska-raatikainen', name: 'Jaska Raatikainen', reason: 'Pearl Masters 14x5.5" Maple — Children of Bodom keyboard-orchestrated precision' },
-      { slug: 'hellhammer', name: 'Hellhammer', reason: 'Pearl Reference 14x6.5" Steel — Mayhem and Dimmu Borgir symphonic versatility' }
+      { slug: 'hellhammer', name: 'Hellhammer', reason: 'Sonor SQ2 14x5.5" Maple — Mayhem and Dimmu Borgir symphonic versatility' }
     ],
 
     // Featured drummers (issue template)
@@ -63380,7 +63346,7 @@ Paired with Zildjian A Custom hi-hats and crashes plus a Z Custom Dark Ride, Hel
       { slug: 'daray', name: 'Daray', reason: 'Pearl Reference 14x5.5" Brass — Dimmu Borgir full-orchestra brightness' },
       { slug: 'frost', name: 'Frost', reason: 'Tama Starclassic Bubinga 14x5.5" — Satyricon dynamic precision' },
       { slug: 'jaska-raatikainen', name: 'Jaska Raatikainen', reason: 'Pearl Masters 14x5.5" Maple — Children of Bodom keyboard-orchestrated precision' },
-      { slug: 'hellhammer', name: 'Hellhammer', reason: 'Pearl Reference 14x6.5" Steel — Mayhem and Dimmu Borgir symphonic versatility' }
+      { slug: 'hellhammer', name: 'Hellhammer', reason: 'Sonor SQ2 14x5.5" Maple — Mayhem and Dimmu Borgir symphonic versatility' }
     ],
 
     // FAQ section for SEO
@@ -63398,8 +63364,8 @@ Paired with Zildjian A Custom hi-hats and crashes plus a Z Custom Dark Ride, Hel
         answer: "Symphonic metal snares have to stay clearly audible underneath a full orchestra, choir, and keyboard arrangement at every tempo, from a stately march to a 280 BPM blast beat. That requires a snare with both the brightness to cut through dense orchestration and the dynamic sensitivity to respond convincingly during quieter, more theatrical passages."
       },
       {
-        question: "Brass, bubinga, maple, or steel — which is best for symphonic metal snares?",
-        answer: "It depends on your material. Brass (Daray) gives maximum brightness for the most ambitious full-orchestra productions. Bubinga (Frost) adds density and control without losing extreme-tempo cut. Maple (Jaska Raatikainen) trades a little brightness for warmth. Steel (Hellhammer) gives the most direct crack for drummers spanning both raw extreme metal and symphonic grandeur."
+        question: "Brass, bubinga, or maple — which is best for symphonic metal snares?",
+        answer: "It depends on your material. Brass (Daray) gives maximum brightness for the most ambitious full-orchestra productions. Bubinga (Frost) adds density and control without losing extreme-tempo cut. Maple (Jaska Raatikainen, Hellhammer) trades a little brightness for warmth — Hellhammer's Sonor SQ2 proves maple can still deliver a direct crack for drummers spanning both raw extreme metal and symphonic grandeur."
       },
       {
         question: "Do I need an expensive snare to play symphonic metal?",
@@ -63410,7 +63376,7 @@ Paired with Zildjian A Custom hi-hats and crashes plus a Z Custom Dark Ride, Hel
     // Conclusion
     conclusion: {
       title: "Find Your Symphonic Metal Snare Voice",
-      content: `Symphonic metal snare choice comes down to how much brightness versus warmth versus density your orchestral arrangements demand. Daray's Pearl Reference Brass snare defined maximum cut-through for Dimmu Borgir's most ambitious full-orchestra productions. Frost's Tama Starclassic Bubinga snare and Jaska Raatikainen's Pearl Masters maple snare both prove a denser or warmer voice can still carry through dense, keyboard-orchestrated arrangements, while Hellhammer's Pearl Reference steel snare shows one snare can serve both raw extremity and symphonic grandeur.
+      content: `Symphonic metal snare choice comes down to how much brightness versus warmth versus density your orchestral arrangements demand. Daray's Pearl Reference Brass snare defined maximum cut-through for Dimmu Borgir's most ambitious full-orchestra productions. Frost's Tama Starclassic Bubinga snare and Jaska Raatikainen's Pearl Masters maple snare both prove a denser or warmer voice can still carry through dense, keyboard-orchestrated arrangements, while Hellhammer's Sonor SQ2 maple snare shows one snare can serve both raw extremity and symphonic grandeur.
 
 None of these approaches is more "authentic" to the genre — all four have driven some of symphonic metal's most acclaimed recordings. Start with whichever shell material matches your band's balance of brightness versus warmth versus dual-genre versatility.
 
@@ -96504,7 +96470,7 @@ Whichever you choose, remember that symphonic metal's most acclaimed recordings 
     // SEO metadata
     title: "Best Drum Pedals for Symphonic Metal: 2026 Ultimate Guide",
     metaTitle: "Best Drum Pedals for Symphonic Metal 2026 | MetalForge Guide",
-    description: "Best double bass pedals for symphonic metal. What Daray (Pearl Demon XR), Hellhammer (Pearl Demon Drive), Frost (Tama Iron Cobra Power Glide), and Jaska Raatikainen (Pearl Eliminator) actually use — from budget to pro.",
+    description: "Best double bass pedals for symphonic metal. What Daray (Pearl Demon XR), Hellhammer (Axis Double Pedal), Frost (Tama Iron Cobra Power Glide), and Jaska Raatikainen (Pearl Eliminator) actually use — from budget to pro.",
     seoKeywords: [
       'best drum pedals for symphonic metal',
       'symphonic metal drum pedals',
@@ -96513,7 +96479,7 @@ Whichever you choose, remember that symphonic metal's most acclaimed recordings 
       'frost pedal satyricon',
       'jaska raatikainen pedal children of bodom',
       'pearl demon xr symphonic metal',
-      'pearl demon drive symphonic metal',
+      'axis double pedal symphonic metal',
       'tama iron cobra power glide symphonic metal',
       'double bass pedals orchestral metal'
     ],
@@ -96541,12 +96507,12 @@ Whichever you choose, remember that symphonic metal's most acclaimed recordings 
       title: "Why Symphonic Metal Demands a Different Kind of Pedal",
       content: `Symphonic metal pedal requirements sit at the intersection of extreme metal's sustained blast-beat endurance and the dynamic sensitivity a full orchestral or choir arrangement demands. A pedal built purely for speed can feel clumsy against a delicate string passage; a pedal voiced only for touch won't survive 200+ BPM blast beats night after night.
 
-Daray drives his Pearl Masterworks Stadium Exotic kit with a Pearl Demon XR double pedal, built for the sustained reliability Dimmu Borgir's full-orchestra symphonic black metal demands. Hellhammer uses a Pearl Demon Drive double pedal across both Mayhem's raw black metal and Dimmu Borgir's symphonic era, prizing its NiNjA bearing precision at extreme speed. Frost of Satyricon and 1349 relies on a Tama Iron Cobra Power Glide pedal for the dynamic control his material's shifts between blast-beat storms and theatrical restraint require, while Jaska Raatikainen drove Children of Bodom's keyboard-orchestrated melodic death metal on a Pearl Eliminator double pedal for over two decades.
+Daray drives his Pearl Masterworks Stadium Exotic kit with a Pearl Demon XR double pedal, built for the sustained reliability Dimmu Borgir's full-orchestra symphonic black metal demands. Hellhammer uses an Axis Double Pedal across both Mayhem's raw black metal and Dimmu Borgir's symphonic era, prizing its precision engineering at extreme speed. Frost of Satyricon and 1349 relies on a Tama Iron Cobra Power Glide pedal for the dynamic control his material's shifts between blast-beat storms and theatrical restraint require, while Jaska Raatikainen drove Children of Bodom's keyboard-orchestrated melodic death metal on a Pearl Eliminator double pedal for over two decades.
 
 This guide breaks down what actually makes a pedal work for symphonic metal — blast-beat endurance, dynamic sensitivity, and dual-band touring durability — and which specific pedals these four influential drummers rely on, from budget-friendly starters to the professional rigs behind the genre's most orchestrally ambitious records.`,
       keyPoints: [
         "Daray's Pearl Demon XR is built for sustained reliability across Dimmu Borgir's full-orchestra material",
-        "Hellhammer's Pearl Demon Drive delivers NiNjA bearing precision across both Mayhem and Dimmu Borgir",
+        "Hellhammer's Axis Double Pedal delivers precision across both Mayhem and Dimmu Borgir",
         "Frost's Tama Iron Cobra Power Glide pedal prioritizes the dynamic control symphonic metal's restraint demands",
         "Jaska Raatikainen's Pearl Eliminator proved reliable across 26 years of Children of Bodom's orchestrated material"
       ]
@@ -96577,7 +96543,7 @@ This guide breaks down what actually makes a pedal work for symphonic metal — 
         {
           name: "Drive System Character",
           icon: "⚙️",
-          description: "Hellhammer's direct-drive Pearl Demon Drive delivers frictionless precision for extreme speed, while Frost's chain-drive Tama Iron Cobra Power Glide offers a touch more natural swing suited to dynamic, theatrical passages.",
+          description: "Hellhammer's Axis Double Pedal delivers precision engineering for extreme speed, while Frost's chain-drive Tama Iron Cobra Power Glide offers a touch more natural swing suited to dynamic, theatrical passages.",
           recommendation: "Direct drive for maximum speed and precision; chain drive for a more traditional, dynamically responsive feel"
         },
         {
@@ -96642,23 +96608,23 @@ Paired with his Pearl Reference Brass snare and Paiste RUDE cymbals, Daray's Dem
         },
         {
           rank: 2,
-          name: "Pearl Demon Drive",
-          brand: "Pearl",
-          model: "P3002D Demon Drive",
+          name: "Axis Double Pedal",
+          brand: "Axis",
+          model: "Double Pedal",
           image: "https://upload.wikimedia.org/wikipedia/commons/7/74/Dixon-double-pedal.jpg",
           priceRange: "€500-600",
           tier: "pro",
           driveType: "Direct Drive",
 
-          description: `Hellhammer drives his Pearl Reference Series kit with a Pearl Demon Drive double pedal, a setup proven across both Mayhem's raw black metal and Dimmu Borgir's symphonic grandeur since his dual-band period began in 1999. The Demon Drive's NiNjA bearing system delivers frictionless action that allows sustained blast beats without the mechanical fatigue cheaper pedals develop.
+          description: `Hellhammer drives his Sonor SQ2 Heavy Beech kit with an Axis Double Pedal, a setup proven across both Mayhem's raw black metal and Dimmu Borgir's symphonic grandeur since 1999. Its precision engineering delivers frictionless action that allows sustained blast beats without the mechanical fatigue cheaper pedals develop.
 
 Hellhammer's willingness to play barefoot for direct pedal feedback underlines how much this rig prioritizes precision at 200+ BPM — a demand symphonic metal shares with pure extreme metal, layered on top of orchestral dynamic sensitivity.`,
 
           pros: [
             "Hellhammer's setup — proven across both Mayhem's raw extremity and Dimmu Borgir's symphonic grandeur",
-            "NiNjA bearing system for ultimate sustained endurance",
+            "Precision engineering for ultimate sustained endurance",
             "Direct drive precision for extreme-tempo reliability",
-            "Click-Lock spring tension maintains calibration under extreme use",
+            "Durable spring tension maintains calibration under extreme use",
             "35+ years of proven reliability across relentless dual-band touring"
           ],
           cons: [
@@ -96668,17 +96634,17 @@ Hellhammer's willingness to play barefoot for direct pedal feedback underlines h
           ],
           specs: {
             drive: "Direct Drive (interchangeable cams)",
-            bearings: "NiNjA Bearings",
-            footboard: "PowerShifter Longboard",
-            beater: "Demon Beater (reversible)",
+            bearings: "Precision Bearings",
+            footboard: "Longboard",
+            beater: "Reversible Beater",
             weight: "4.5 kg (pair)"
           },
           usedBy: [
-            { name: "Hellhammer", band: "Mayhem / Dimmu Borgir", note: "Pearl Demon Drive — extreme speed and symphonic versatility" }
+            { name: "Hellhammer", band: "Mayhem / Dimmu Borgir", note: "Axis Double Pedal — extreme speed and symphonic versatility" }
           ],
           verdict: "Best for drummers spanning both raw extreme metal and symphonic grandeur in a single career.",
           rating: 4.8,
-          affiliateLink: "https://www.thomann.de/intl/pearl_p3002d_demon_drive_double.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/axis_double_pedal.htm?partner_id=metalforge"
         },
         {
           rank: 3,
@@ -96789,7 +96755,7 @@ Raatikainen's two-and-a-half decades on this single pedal design — through eve
       title: "Direct Drive vs Chain Drive for Symphonic Metal",
       content: `Symphonic metal's leading drummers split between two pedal philosophies:
 
-**Direct Drive (Pearl Demon XR — Daray; Pearl Demon Drive — Hellhammer):**
+**Direct Drive (Pearl Demon XR — Daray; Axis Double Pedal — Hellhammer):**
 - Clinical, immediate response for sustained blast-beat reliability
 - Proven across the genre's most globally successful full-orchestra productions
 - Premium price point
@@ -96822,7 +96788,7 @@ Raatikainen's two-and-a-half decades on this single pedal design — through eve
         },
         {
           category: "Best for Extreme Speed",
-          pedal: "Pearl Demon Drive",
+          pedal: "Axis Double Pedal",
           reason: "Hellhammer's dual-band setup proves one pedal can serve both raw black metal and symphonic grandeur."
         },
         {
@@ -96846,7 +96812,7 @@ Raatikainen's two-and-a-half decades on this single pedal design — through eve
     ],
     relatedDrummers: [
       { slug: 'daray', name: 'Daray', reason: 'Pearl Demon XR — Dimmu Borgir full-orchestra symphonic black metal' },
-      { slug: 'hellhammer', name: 'Hellhammer', reason: 'Pearl Demon Drive — Mayhem and Dimmu Borgir symphonic versatility' },
+      { slug: 'hellhammer', name: 'Hellhammer', reason: 'Axis Double Pedal — Mayhem and Dimmu Borgir symphonic versatility' },
       { slug: 'frost', name: 'Frost', reason: 'Tama Iron Cobra Power Glide — Satyricon dynamic precision' },
       { slug: 'jaska-raatikainen', name: 'Jaska Raatikainen', reason: 'Pearl Eliminator — Children of Bodom keyboard-orchestrated precision' }
     ],
@@ -96854,7 +96820,7 @@ Raatikainen's two-and-a-half decades on this single pedal design — through eve
     // Featured drummers (issue template)
     featuredDrummers: [
       { slug: 'daray', name: 'Daray', reason: 'Pearl Demon XR for Dimmu Borgir full-orchestra symphonic black metal' },
-      { slug: 'hellhammer', name: 'Hellhammer', reason: 'Pearl Demon Drive for Mayhem and Dimmu Borgir symphonic versatility' },
+      { slug: 'hellhammer', name: 'Hellhammer', reason: 'Axis Double Pedal for Mayhem and Dimmu Borgir symphonic versatility' },
       { slug: 'frost', name: 'Frost', reason: 'Tama Iron Cobra Power Glide for Satyricon dynamic precision' },
       { slug: 'jaska-raatikainen', name: 'Jaska Raatikainen', reason: 'Pearl Eliminator for Children of Bodom keyboard-orchestrated precision' }
     ],
@@ -96867,7 +96833,7 @@ Raatikainen's two-and-a-half decades on this single pedal design — through eve
       },
       {
         question: "What pedal does Hellhammer use?",
-        answer: "Hellhammer plays a Pearl Demon Drive double pedal — part of the Pearl Reference Series setup he upgraded to during his dual Mayhem/Dimmu Borgir period beginning in 1999, valued for its NiNjA bearing system and extreme-tempo reliability."
+        answer: "Hellhammer plays an Axis Double Pedal — part of his Sonor SQ2 Heavy Beech setup since 1999, valued for its precision engineering and extreme-tempo reliability."
       },
       {
         question: "What pedal does Frost from Satyricon use?",
@@ -96879,14 +96845,14 @@ Raatikainen's two-and-a-half decades on this single pedal design — through eve
       },
       {
         question: "Direct drive or chain drive for symphonic metal?",
-        answer: "Both work at the highest level. Daray's and Hellhammer's direct-drive Pearl pedals (Demon XR and Demon Drive) suit drummers whose material leans toward maximum blast-beat reliability. Frost's chain-drive Tama Iron Cobra Power Glide and Raatikainen's Pearl Eliminator prove that dynamic sensitivity and long-term durability serve orchestral complexity just as effectively."
+        answer: "Both work at the highest level. Daray's Pearl Demon XR and Hellhammer's Axis Double Pedal — both direct-drive — suit drummers whose material leans toward maximum blast-beat reliability. Frost's chain-drive Tama Iron Cobra Power Glide and Raatikainen's Pearl Eliminator prove that dynamic sensitivity and long-term durability serve orchestral complexity just as effectively."
       }
     ],
 
     // Conclusion
     conclusion: {
       title: "Find Your Symphonic Metal Pedal Voice",
-      content: `Symphonic metal pedal choice comes down to how your material balances blast-beat extremity against orchestral restraint. Daray's Pearl Demon XR and Hellhammer's Pearl Demon Drive prove that direct-drive precision can carry Dimmu Borgir's most ambitious full-orchestra productions and Mayhem's raw extremity alike. Frost's Tama Iron Cobra Power Glide proves that chain-drive dynamic sensitivity serves Satyricon's shifts between blast beats and theatrical restraint just as well. Jaska Raatikainen's 26-year run on a single Pearl Eliminator shows that proven reliability matters more than novelty over a long career.
+      content: `Symphonic metal pedal choice comes down to how your material balances blast-beat extremity against orchestral restraint. Daray's Pearl Demon XR and Hellhammer's Axis Double Pedal prove that direct-drive precision can carry Dimmu Borgir's most ambitious full-orchestra productions and Mayhem's raw extremity alike. Frost's Tama Iron Cobra Power Glide proves that chain-drive dynamic sensitivity serves Satyricon's shifts between blast beats and theatrical restraint just as well. Jaska Raatikainen's 26-year run on a single Pearl Eliminator shows that proven reliability matters more than novelty over a long career.
 
 Whichever you choose, remember that symphonic metal's most acclaimed recordings were made by drummers who mastered the transition between extremity and orchestral restraint — not by gear alone.
 
@@ -108187,7 +108153,7 @@ Whatever you choose: dial in heavier tension for the down-tuned groove first, th
       title: "Why Symphonic Metal Needs Consistent, Reliable Double Bass Above All Else",
       content: `Symphonic metal's double bass work sits underneath full orchestral or choir arrangements, and its most important job isn't raw top-end speed — it's staying rock-solid and consistent at mid-to-fast tempo so the orchestration on top has a dependable foundation to sit against. A pedal that drifts or loses its feel mid-song throws off the entire arrangement, not just the drum part.
 
-Daray drives his Pearl Masterworks Stadium Exotic kit with a Pearl Demon XR double pedal, built for the sustained reliability Dimmu Borgir's full-orchestra symphonic black metal demands. Hellhammer uses a Pearl Demon Drive double pedal across both Mayhem's raw black metal and Dimmu Borgir's symphonic era, prizing its NiNjA bearing precision for consistent speed night after night. Frost of Satyricon and 1349 relies on a Tama Iron Cobra Power Glide pedal for the dynamic control his material's shifts between blast-beat storms and theatrical restraint require, while Jaska Raatikainen drove Children of Bodom's keyboard-orchestrated melodic death metal on a Pearl Eliminator double pedal for over two decades without missing a beat.
+Daray drives his Pearl Masterworks Stadium Exotic kit with a Pearl Demon XR double pedal, built for the sustained reliability Dimmu Borgir's full-orchestra symphonic black metal demands. Hellhammer uses an Axis Double Pedal across both Mayhem's raw black metal and Dimmu Borgir's symphonic era, prizing its precision engineering for consistent speed night after night. Frost of Satyricon and 1349 relies on a Tama Iron Cobra Power Glide pedal for the dynamic control his material's shifts between blast-beat storms and theatrical restraint require, while Jaska Raatikainen drove Children of Bodom's keyboard-orchestrated melodic death metal on a Pearl Eliminator double pedal for over two decades without missing a beat.
 
 This guide breaks down what actually makes a bass drum pedal work for symphonic metal — mid-to-fast consistency, sustained reliability, and dynamic sensitivity beneath an orchestral mix — with specific pedal recommendations from budget-friendly starters through the professional rigs behind the genre's most orchestrally ambitious records.`,
       keyPoints: [
@@ -108229,7 +108195,7 @@ This guide breaks down what actually makes a bass drum pedal work for symphonic 
         {
           name: "Drive System",
           icon: "⚙️",
-          description: "Hellhammer's NiNjA bearing Demon Drive delivers frictionless, consistent precision, while Frost's Tama Iron Cobra Power Glide and Raatikainen's Eliminator show that well-engineered chain drive delivers equally dependable mid-to-fast consistency.",
+          description: "Hellhammer's Axis Double Pedal delivers frictionless, consistent precision, while Frost's Tama Iron Cobra Power Glide and Raatikainen's Eliminator show that well-engineered chain drive delivers equally dependable mid-to-fast consistency.",
           recommendation: "Direct drive for maximum precision; premium chain drive for proven long-term reliability"
         }
       ]
@@ -108278,21 +108244,21 @@ The Demon XR's refined mechanism holds its calibration across the extended, dyna
         },
         {
           rank: 2,
-          name: "Pearl Demon Drive",
-          brand: "Pearl",
-          model: "P3002D Demon Drive Double Pedal",
+          name: "Axis Double Pedal",
+          brand: "Axis",
+          model: "Double Pedal",
           image: "https://upload.wikimedia.org/wikipedia/commons/7/74/Dixon-double-pedal.jpg",
           priceRange: "€500-600 per double set",
           tier: "pro",
           driveType: "Direct Drive",
-          description: `Hellhammer uses a Pearl Demon Drive double pedal across both Mayhem's raw black metal and Dimmu Borgir's symphonic era, prizing its NiNjA bearing precision for consistent, dependable speed whether he's driving a raw black metal blast or the more measured, orchestrally-layered material.
+          description: `Hellhammer uses an Axis Double Pedal across both Mayhem's raw black metal and Dimmu Borgir's symphonic era, prizing its precision engineering for consistent, dependable speed whether he's driving a raw black metal blast or the more measured, orchestrally-layered material.
 
 That range — reliable at extreme tempo and controlled at a more measured pace — is exactly what symphonic metal's mix of blast-beat sections and theatrical passages demands.`,
           pros: [
             "Hellhammer's proven Mayhem/Dimmu Borgir setup",
-            "NiNjA bearing system for frictionless, consistent response",
+            "Precision engineering for frictionless, consistent response",
             "Reliable at both extreme blast-beat tempo and measured orchestral passages",
-            "Click-Lock spring tension holds calibration under demanding use"
+            "Durable spring tension holds calibration under demanding use"
           ],
           cons: [
             "Premium pricing",
@@ -108303,15 +108269,15 @@ That range — reliable at extreme tempo and controlled at a more measured pace 
             drive: "Direct drive",
             cam: "Interchangeable direct-drive cams",
             frame: "Aircraft-grade aluminum",
-            beater: "Demon Beater (reversible)",
-            footboard: "PowerShifter Longboard"
+            beater: "Reversible Beater",
+            footboard: "Longboard"
           },
           usedBy: [
-            { name: "Hellhammer", band: "Mayhem / Dimmu Borgir", note: "NiNjA bearing precision across raw black metal and symphonic material" }
+            { name: "Hellhammer", band: "Mayhem / Dimmu Borgir", note: "Precision engineering across raw black metal and symphonic material" }
           ],
           verdict: "Best for drummers who need reliable extreme-tempo capability alongside symphonic dynamic range.",
           rating: 4.7,
-          affiliateLink: "https://www.thomann.de/intl/pearl_demon_drive_double_pedal.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/axis_double_pedal.htm?partner_id=metalforge"
         },
         {
           rank: 3,
@@ -108421,7 +108387,7 @@ The interchangeable cam system and dual-chain drive gave Raatikainen dependable 
         },
         {
           category: "Best for Extreme Tempo Range",
-          pedal: "Pearl Demon Drive",
+          pedal: "Axis Double Pedal",
           reason: "Hellhammer's choice — reliable at both extreme blast-beat tempo and measured, orchestrally-layered passages."
         },
         {
@@ -108441,14 +108407,14 @@ The interchangeable cam system and dual-chain drive gave Raatikainen dependable 
     ],
     relatedDrummers: [
       { slug: 'daray', name: 'Daray', reason: 'Pearl Demon XR — sustained reliability beneath Dimmu Borgir\'s full-orchestra material' },
-      { slug: 'hellhammer', name: 'Hellhammer', reason: 'Pearl Demon Drive — NiNjA bearing precision across Mayhem and Dimmu Borgir' },
+      { slug: 'hellhammer', name: 'Hellhammer', reason: 'Axis Double Pedal — precision across Mayhem and Dimmu Borgir' },
       { slug: 'frost', name: 'Frost', reason: 'Tama Iron Cobra Power Glide — dynamic control between blast-beat storms and theatrical restraint' },
       { slug: 'jaska-raatikainen', name: 'Jaska Raatikainen', reason: 'Pearl Eliminator — over two decades of reliable Children of Bodom double bass' }
     ],
 
     featuredDrummers: [
       { slug: 'daray', name: 'Daray', reason: 'Sustained reliability beneath Dimmu Borgir\'s full-orchestra symphonic black metal' },
-      { slug: 'hellhammer', name: 'Hellhammer', reason: 'NiNjA bearing precision across both Mayhem and Dimmu Borgir' }
+      { slug: 'hellhammer', name: 'Hellhammer', reason: 'Precision engineering across both Mayhem and Dimmu Borgir' }
     ],
 
     // FAQ section for SEO
@@ -108463,7 +108429,7 @@ The interchangeable cam system and dual-chain drive gave Raatikainen dependable 
       },
       {
         question: "What pedal does Hellhammer use?",
-        answer: "Hellhammer uses a Pearl Demon Drive double pedal across both Mayhem's raw black metal and Dimmu Borgir's symphonic era, valuing its NiNjA bearing system for consistent, dependable speed whether he's driving a raw blast or more measured, orchestrated material."
+        answer: "Hellhammer uses an Axis Double Pedal across both Mayhem's raw black metal and Dimmu Borgir's symphonic era, valuing its precision engineering for consistent, dependable speed whether he's driving a raw blast or more measured, orchestrated material."
       },
       {
         question: "What pedal does Jaska Raatikainen use?",
@@ -108478,9 +108444,9 @@ The interchangeable cam system and dual-chain drive gave Raatikainen dependable 
     // Conclusion
     conclusion: {
       title: "Build a Foundation the Orchestration Can Trust",
-      content: `Symphonic metal's double bass work only succeeds if it's rock-solid and consistent underneath a full orchestral or choir arrangement — Daray's Pearl Demon XR and Hellhammer's Pearl Demon Drive both prove that reliable, direct-drive precision at mid-to-fast tempo matters more than chasing the fastest possible blast beat. Frost's Tama Iron Cobra Power Glide shows that dynamic control beneath orchestration is just as essential.
+      content: `Symphonic metal's double bass work only succeeds if it's rock-solid and consistent underneath a full orchestral or choir arrangement — Daray's Pearl Demon XR and Hellhammer's Axis Double Pedal both prove that reliable, direct-drive precision at mid-to-fast tempo matters more than chasing the fastest possible blast beat. Frost's Tama Iron Cobra Power Glide shows that dynamic control beneath orchestration is just as essential.
 
-For most symphonic metal drummers, the Pearl Demon XR is the clearest choice for locking double bass in beneath a dense arrangement. If you also need extreme blast-beat capability for a raw black metal side project, Hellhammer's Pearl Demon Drive covers both ends. And Jaska Raatikainen's Pearl Eliminator proves a budget-friendly pedal can deliver two decades of dependable, career-spanning reliability.
+For most symphonic metal drummers, the Pearl Demon XR is the clearest choice for locking double bass in beneath a dense arrangement. If you also need extreme blast-beat capability for a raw black metal side project, Hellhammer's Axis Double Pedal covers both ends. And Jaska Raatikainen's Pearl Eliminator proves a budget-friendly pedal can deliver two decades of dependable, career-spanning reliability.
 
 Whatever you choose: prioritize consistency first, then build speed and dynamics on top of it.
 

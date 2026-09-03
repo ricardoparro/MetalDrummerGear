@@ -22581,7 +22581,7 @@ Start with a 22"x18" maple shell and a reinforced head like the Evans EMAD or Re
     // SEO metadata
     title: "Best Bass Drums for Doom Metal: 2026 Ultimate Guide",
     metaTitle: "Best Bass Drums for Doom Metal in 2026 | MetalForge Expert Guide",
-    description: "Best bass drums for doom metal's oversized, weight-first low end. What Danny Carey (Sonor Custom), Brann Dailor (Gretsch Signature), Mario Duplantier (Tama Starclassic Bubinga), and Igor Cavalera (Pearl Reference) actually play — from budget to pro.",
+    description: "Best bass drums for doom metal's oversized, weight-first low end. What Danny Carey (Sonor Custom), Brann Dailor (Gretsch Signature), Mario Duplantier (Tama Starclassic Bubinga), and Igor Cavalera (Yamaha Absolute Hybrid Maple) actually play — from budget to pro.",
     seoKeywords: [
       'best bass drums for doom metal',
       'doom metal bass drum setup',
@@ -22618,7 +22618,7 @@ Start with a 22"x18" maple shell and a reinforced head like the Evans EMAD or Re
       title: "What Bass Drum Setup Do Doom Metal Drummers Actually Use?",
       content: `Doom metal's bass drum has to do the opposite of what most extreme metal subgenres ask for. Instead of surviving blast beats at 240+ BPM, a doom kick locks into riffs at half or a quarter the tempo, letting every single stroke ring out and carry maximum tonnage before the next one lands. That flips the gear brief: rather than a dry, tightly muffled shell built for rapid-fire endurance, doom rewards oversized 24"+ shells with deep bodies that can sustain real low-end weight through slow, riff-locked repetition.
 
-Bill Ward, who invented doom metal's tempo-and-tonnage template with Black Sabbath, doesn't currently have a dedicated MetalForge gear profile — so this guide draws on the closest working analogues from progressive sludge, technical death, and progressive rock lineages that share doom's foundational commitment to weight. Danny Carey's Sonor Custom bass drum runs a dual 22"/24" kick configuration, one of the largest touring setups in rock, purpose-built for deliberate, patient low end. Brann Dailor's Gretsch Signature 24"x18" bass drum anchors Mastodon's progressive sludge-doom catalog with warm, musical sustain. Mario Duplantier's dual 22"x18" Tama Starclassic Bubinga bass drums give Gojira's crushing, down-tuned passages tectonic body through mass rather than a single oversized shell. Igor Cavalera's Pearl Reference bass drum carries the tribal, down-tuned heaviness that parallels doom's own tonnage-first philosophy.
+Bill Ward, who invented doom metal's tempo-and-tonnage template with Black Sabbath, doesn't currently have a dedicated MetalForge gear profile — so this guide draws on the closest working analogues from progressive sludge, technical death, and progressive rock lineages that share doom's foundational commitment to weight. Danny Carey's Sonor Custom bass drum runs a dual 22"/24" kick configuration, one of the largest touring setups in rock, purpose-built for deliberate, patient low end. Brann Dailor's Gretsch Signature 24"x18" bass drum anchors Mastodon's progressive sludge-doom catalog with warm, musical sustain. Mario Duplantier's dual 22"x18" Tama Starclassic Bubinga bass drums give Gojira's crushing, down-tuned passages tectonic body through mass rather than a single oversized shell. Igor Cavalera's Yamaha Absolute Hybrid Maple bass drum carries the tribal, down-tuned heaviness that parallels doom's own tonnage-first philosophy.
 
 This guide breaks down exactly what makes a bass drum work for doom metal — oversized shell diameter, depth, and tuning philosophy — and which specific shells the genre's closest analogues actually play, from budget to professional touring rigs.`,
       keyPoints: [
@@ -22636,13 +22636,13 @@ This guide breaks down exactly what makes a bass drum work for doom metal — ov
         {
           name: "Oversized Shell Diameter",
           icon: "⭕",
-          description: "Where blast-beat genres standardize on 22\"x18\" for speed, doom rewards going bigger. Danny Carey's dual-kick Sonor Custom runs 22\"/24\", and Igor Cavalera's Pearl Reference favors the extra headroom a 24\" shell gives for sub-bass weight over raw response.",
+          description: "Where blast-beat genres standardize on 22\"x18\" for speed, doom rewards going bigger. Danny Carey's dual-kick Sonor Custom runs 22\"/24\", and Igor Cavalera's Yamaha Absolute Hybrid Maple favors the extra headroom a 24\" shell gives for sub-bass weight over raw response.",
           recommendation: "24\" (or larger) diameter for maximum low-end weight when tempo isn't a constraint"
         },
         {
           name: "Deep Shell Depth for Sustain",
           icon: "🌳",
-          description: "A deeper shell gives a single, massive hit more room to develop and sustain before decaying — exactly what doom's patient, riff-locked tempo rewards. Igor Cavalera's Pearl Reference runs a full 24\" diameter specifically for that extended tonal body.",
+          description: "A deeper shell gives a single, massive hit more room to develop and sustain before decaying — exactly what doom's patient, riff-locked tempo rewards. Igor Cavalera's Yamaha Absolute Hybrid Maple runs a full 24\" diameter specifically for that extended tonal body.",
           recommendation: "20\"+ depth for extended sustain on a single, deliberate hit"
         },
         {
@@ -22806,7 +22806,7 @@ Bubinga is roughly 53% harder than maple, and 100% bubinga shells push that low-
           tier: "pro",
           material: "Maple, 24\"x18\"",
 
-          description: `Igor Cavalera's Pearl Reference bass drum carries the tribal, down-tuned heaviness that parallels doom's own tonnage-first philosophy. The 24" shell gives Sepultura and Cavalera Conspiracy's riff-driven material a deep, resonant low end that cuts through heavily down-tuned guitar work without relying on brightness.
+          description: `Igor Cavalera's Yamaha Absolute Hybrid Maple bass drum carries the tribal, down-tuned heaviness that parallels doom's own tonnage-first philosophy. The 24" shell gives Sepultura and Cavalera Conspiracy's riff-driven material a deep, resonant low end that cuts through heavily down-tuned guitar work without relying on brightness.
 
 Pearl's Reference program balances projection and warmth in a way that's translated well across Cavalera's decades-long career spanning thrash, groove, and doom-adjacent tribal metal.`,
 
@@ -22829,7 +22829,7 @@ Pearl's Reference program balances projection and warmth in a way that's transla
             configuration: "Single, double-pedal driven"
           },
           usedBy: [
-            { name: "Igor Cavalera", band: "Sepultura / Cavalera Conspiracy", note: "24\"x18\" Pearl Reference — tribal, down-tuned doom-adjacent weight" }
+            { name: "Igor Cavalera", band: "Sepultura / Cavalera Conspiracy", note: "24\"x18\" Yamaha Absolute Hybrid Maple — tribal, down-tuned doom-adjacent weight" }
           ],
           verdict: "The road-proven, accessible way into an oversized doom-adjacent low end.",
           rating: 4.6,
@@ -22889,7 +22889,7 @@ Pearl's Reference program balances projection and warmth in a way that's transla
 - Skips the double pedal entirely for two independently-tuned kicks
 - Faster individual response than an oversized shell, without sacrificing overall low-end weight
 
-**Verdict:** Start with a 24\" shell like Igor Cavalera's Pearl Reference or Brann Dailor's Gretsch Signature — it's the proven foundation for the deep, sustained low end doom's slow tempo demands. Consider a dual-kick configuration like Danny Carey's or Mario Duplantier's if maximum tonal contrast and reserve low-end mass matter as much to you as raw shell size.`,
+**Verdict:** Start with a 24\" shell like Igor Cavalera's Yamaha Absolute Hybrid Maple or Brann Dailor's Gretsch Signature — it's the proven foundation for the deep, sustained low end doom's slow tempo demands. Consider a dual-kick configuration like Danny Carey's or Mario Duplantier's if maximum tonal contrast and reserve low-end mass matter as much to you as raw shell size.`,
       comparisonTable: [
         { feature: "Low-End Weight", birch: "⭐⭐⭐⭐⭐", maple: "⭐⭐⭐" },
         { feature: "Sustain and Ring-Out", birch: "⭐⭐⭐⭐⭐", maple: "⭐⭐⭐" },
@@ -22938,7 +22938,7 @@ Pearl's Reference program balances projection and warmth in a way that's transla
       { slug: 'danny-carey', name: 'Danny Carey', reason: 'Dual 22\"/24\" Sonor Custom — patient, atmospheric doom-adjacent weight' },
       { slug: 'brann-dailor', name: 'Brann Dailor', reason: '24\"x18\" Gretsch Signature carrying progressive sludge-doom\'s warmest low end' },
       { slug: 'mario-duplantier', name: 'Mario Duplantier', reason: 'Dual 22\"x18\" Tama Starclassic Bubinga — crushing, tectonic weight' },
-      { slug: 'igor-cavalera', name: 'Igor Cavalera', reason: '24\"x18\" Pearl Reference — tribal, down-tuned doom-adjacent weight' }
+      { slug: 'igor-cavalera', name: 'Igor Cavalera', reason: '24\"x18\" Yamaha Absolute Hybrid Maple — tribal, down-tuned doom-adjacent weight' }
     ],
 
     // Featured drummers (issue template)
@@ -22952,7 +22952,7 @@ Pearl's Reference program balances projection and warmth in a way that's transla
     faq: [
       {
         question: "What bass drums do doom metal drummers use?",
-        answer: "Bill Ward, who invented doom metal's template with Black Sabbath, doesn't have a dedicated MetalForge gear profile, so this guide draws on the genre's closest analogues. Danny Carey of Tool runs a dual 22\"/24\" Sonor Custom, Brann Dailor of Mastodon plays a 24\"x18\" Gretsch Signature, Mario Duplantier of Gojira runs dual 22\"x18\" Tama Starclassic Bubinga kicks, and Igor Cavalera plays a 24\"x18\" Pearl Reference."
+        answer: "Bill Ward, who invented doom metal's template with Black Sabbath, doesn't have a dedicated MetalForge gear profile, so this guide draws on the genre's closest analogues. Danny Carey of Tool runs a dual 22\"/24\" Sonor Custom, Brann Dailor of Mastodon plays a 24\"x18\" Gretsch Signature, Mario Duplantier of Gojira runs dual 22\"x18\" Tama Starclassic Bubinga kicks, and Igor Cavalera plays a 24\"x18\" Yamaha Absolute Hybrid Maple."
       },
       {
         question: "What size bass drum is best for doom metal?",
@@ -22977,7 +22977,7 @@ Pearl's Reference program balances projection and warmth in a way that's transla
       title: "Build the Oversized, Sustained Low End Doom Demands",
       content: `Doom metal's bass drum requirements run opposite to almost everything else in extreme metal — instead of surviving blast beats, a doom kick needs to sustain real tonnage through slow, riff-locked repetition. Danny Carey's dual 22\"/24\" Sonor Custom and Brann Dailor's 24\"x18\" Gretsch Signature both prove that oversized, resonant shells are the genre's proven foundation, while Mario Duplantier's dual 22\"x18\" Tama Starclassic Bubinga kicks show how standard-sized shells in pairs can extend low-end mass just as far.
 
-If you're building toward doom's tonnage-first low end, Igor Cavalera's 24\"x18\" Pearl Reference proves a more accessible shell can still deliver the tribal, down-tuned weight the genre demands.
+If you're building toward doom's tonnage-first low end, Igor Cavalera's 24\"x18\" Yamaha Absolute Hybrid Maple proves a more accessible shell can still deliver the tribal, down-tuned weight the genre demands.
 
 Start with a 24\" shell and open, moderate tuning — it's the proven foundation across doom metal's closest working analogues.
 
@@ -63474,7 +63474,7 @@ Budget shouldn't stop you either. A Pearl Export or Tama Imperialstar snare will
     // SEO metadata
     title: "Best Drum Kits for Doom Metal: 2026 Ultimate Guide",
     metaTitle: "Best Drum Kits for Doom Metal 2026 | MetalForge Expert Guide",
-    description: "Best drum kits for doom metal drumming: what Brann Dailor (Gretsch Signature), Mario Duplantier (Tama Starclassic Bubinga), Danny Carey (Sonor Custom), and Igor Cavalera (Pearl Reference) actually play. Deep, resonant shells built for doom's slow, crushing tempos — ranked budget to pro.",
+    description: "Best drum kits for doom metal drumming: what Brann Dailor (Gretsch Signature), Mario Duplantier (Tama Starclassic Bubinga), Danny Carey (Sonor Custom), and Igor Cavalera (Yamaha Absolute Hybrid Maple) actually play. Deep, resonant shells built for doom's slow, crushing tempos — ranked budget to pro.",
     seoKeywords: [
       'best drum kits for doom metal',
       'doom metal drum kit',
@@ -63511,7 +63511,7 @@ Budget shouldn't stop you either. A Pearl Export or Tama Imperialstar snare will
       title: "What Drum Kit Should I Use for Doom Metal?",
       content: `Doom metal asks a drum kit to do the opposite of almost everything extreme metal usually rewards. Instead of surviving blast beats and rapid double bass, doom locks into riffs at half or a quarter the tempo most metal subgenres demand, letting every hit ring out with maximum tonnage before the next one lands. That changes the gear brief entirely: rather than a dry, choked kit built for endurance at 200+ BPM, doom rewards deep, resonant shells and large-format toms that can carry real weight through slow, riff-locked repetition.
 
-Bill Ward, who invented doom metal's tempo-and-tonnage template with Black Sabbath, doesn't currently have a dedicated MetalForge gear profile — so this guide draws on the closest working analogues from progressive sludge, technical death, and progressive rock lineages that share doom's foundational commitment to weight and riff-driven power. Brann Dailor's Gretsch Brann Dailor Signature kit anchors Mastodon's progressive sludge-doom catalog with a warm, musical resonance across its deep tom spread. Mario Duplantier's Tama Starclassic Bubinga kit gives Gojira's crushing, down-tuned passages their tectonic body on dual 22"x18" kicks. Danny Carey's Sonor Custom kit — one of the largest touring configurations in rock, with eight toms and dual kicks — shows how deliberate deceleration itself can become doom's defining atmospheric device. Igor Cavalera's Pearl Reference kit carries the tribal, down-tuned heaviness that parallels doom's own tonnage-first philosophy.
+Bill Ward, who invented doom metal's tempo-and-tonnage template with Black Sabbath, doesn't currently have a dedicated MetalForge gear profile — so this guide draws on the closest working analogues from progressive sludge, technical death, and progressive rock lineages that share doom's foundational commitment to weight and riff-driven power. Brann Dailor's Gretsch Brann Dailor Signature kit anchors Mastodon's progressive sludge-doom catalog with a warm, musical resonance across its deep tom spread. Mario Duplantier's Tama Starclassic Bubinga kit gives Gojira's crushing, down-tuned passages their tectonic body on dual 22"x18" kicks. Danny Carey's Sonor Custom kit — one of the largest touring configurations in rock, with eight toms and dual kicks — shows how deliberate deceleration itself can become doom's defining atmospheric device. Igor Cavalera's Yamaha Absolute Hybrid Maple kit carries the tribal, down-tuned heaviness that parallels doom's own tonnage-first philosophy.
 
 This guide breaks down maple, custom hybrid, and large-format kit configurations for doom metal — comparing shell depth, tom spread, and tuning approach across four drummers whose lineages run closest to doom's crushing rhythmic foundation, with recommendations from budget to professional touring rigs.`,
       keyPoints: [
@@ -63548,7 +63548,7 @@ This guide breaks down maple, custom hybrid, and large-format kit configurations
         {
           name: "Down-Tuned Projection",
           icon: "⚓",
-          description: "Igor Cavalera's Pearl Reference kit cuts through Sepultura's tribal, down-tuned heaviness — proof that a warm-toned kit can still project clearly against heavily down-tuned, riff-locked guitar work common to doom and its stoner/sludge relatives.",
+          description: "Igor Cavalera's Yamaha Absolute Hybrid Maple kit cuts through Sepultura's tribal, down-tuned heaviness — proof that a warm-toned kit can still project clearly against heavily down-tuned, riff-locked guitar work common to doom and its stoner/sludge relatives.",
           recommendation: "A kit voiced to cut through heavily down-tuned guitar without relying on brightness alone"
         },
         {
@@ -63700,7 +63700,7 @@ The massive tom spread is driven by a custom hardware cage built to hold the con
           tier: "pro",
           material: "Multi-Ply Hybrid",
 
-          description: `Igor Cavalera's Pearl Reference kit delivers the punishing, down-tuned crack behind Sepultura's tribal groove-metal anthem "Roots Bloody Roots" — a parallel philosophy to doom metal's own tonnage-first foundation, even from outside the genre's Sabbath-descended lineage. The multi-ply hybrid shells combine maple's warmth with birch's attack, holding their own against heavily down-tuned riffing and layered tribal percussion arrangements.
+          description: `Igor Cavalera's Yamaha Absolute Hybrid Maple kit delivers the punishing, down-tuned crack behind Sepultura's tribal groove-metal anthem "Roots Bloody Roots" — a parallel philosophy to doom metal's own tonnage-first foundation, even from outside the genre's Sabbath-descended lineage. The multi-ply hybrid shells combine maple's warmth with birch's attack, holding their own against heavily down-tuned riffing and layered tribal percussion arrangements.
 
 For doom-adjacent drummers whose material blends traditional doom weight with more percussive or tribal elements, Cavalera's kit proves a warm, hybrid-shell setup can project clearly without relying on an exotic custom program — the same tonnage-first restraint that defines doom metal's rhythmic identity, at a more accessible price point than this guide's other three kits.`,
 
@@ -63724,7 +63724,7 @@ For doom-adjacent drummers whose material blends traditional doom weight with mo
             tomSizes: "8\", 10\", 12\" rack / 14\", 16\" floor"
           },
           usedBy: [
-            { name: "Igor Cavalera", band: "Sepultura / Cavalera Conspiracy", note: "Pearl Reference — tribal, down-tuned tonnage-first heaviness" }
+            { name: "Igor Cavalera", band: "Sepultura / Cavalera Conspiracy", note: "Yamaha Absolute Hybrid Maple — tribal, down-tuned tonnage-first heaviness" }
           ],
           verdict: "Best value for down-tuned, tempo-disciplined heaviness. A more accessible path into doom-adjacent tonnage-first tone.",
           rating: 4.4,
@@ -63835,7 +63835,7 @@ For doom-adjacent drummers whose material blends traditional doom weight with mo
       { slug: 'brann-dailor', name: 'Brann Dailor', reason: 'Gretsch Signature kit — Mastodon progressive sludge-doom warmth' },
       { slug: 'mario-duplantier', name: 'Mario Duplantier', reason: 'Dual 22"x18" Tama Starclassic Bubinga — Gojira crushing, tectonic weight' },
       { slug: 'danny-carey', name: 'Danny Carey', reason: 'Sonor Custom — Tool atmospheric patience' },
-      { slug: 'igor-cavalera', name: 'Igor Cavalera', reason: 'Pearl Reference — Sepultura tribal, down-tuned heaviness' }
+      { slug: 'igor-cavalera', name: 'Igor Cavalera', reason: 'Yamaha Absolute Hybrid Maple — Sepultura tribal, down-tuned heaviness' }
     ],
 
     // Featured drummers (issue template)
@@ -63843,7 +63843,7 @@ For doom-adjacent drummers whose material blends traditional doom weight with mo
       { slug: 'brann-dailor', name: 'Brann Dailor', reason: 'Gretsch Signature kit — Mastodon progressive sludge-doom warmth' },
       { slug: 'mario-duplantier', name: 'Mario Duplantier', reason: 'Dual 22"x18" Tama Starclassic Bubinga — Gojira crushing, tectonic weight' },
       { slug: 'danny-carey', name: 'Danny Carey', reason: 'Sonor Custom — Tool atmospheric patience' },
-      { slug: 'igor-cavalera', name: 'Igor Cavalera', reason: 'Pearl Reference — Sepultura tribal, down-tuned heaviness' }
+      { slug: 'igor-cavalera', name: 'Igor Cavalera', reason: 'Yamaha Absolute Hybrid Maple — Sepultura tribal, down-tuned heaviness' }
     ],
 
     // FAQ section for SEO
@@ -63873,7 +63873,7 @@ For doom-adjacent drummers whose material blends traditional doom weight with mo
     // Conclusion
     conclusion: {
       title: "Build Your Doom Metal Arsenal",
-      content: `Doom metal drum kit choice comes down to how much weight and resonance your riffs demand. Brann Dailor's warm Gretsch Signature kit defined the closest working analogue to doom's founding tonnage-first template. Mario Duplantier's dual-kick Tama Starclassic Bubinga kit proved that technical, down-tuned crushing weight can carry the same philosophy into progressive death metal. Danny Carey's massive Sonor Custom rig shows how tonal contrast can serve doom-adjacent material's most patient, atmospheric compositions, while Igor Cavalera's Pearl Reference kit carries the same tonnage-first restraint into tribal groove metal.
+      content: `Doom metal drum kit choice comes down to how much weight and resonance your riffs demand. Brann Dailor's warm Gretsch Signature kit defined the closest working analogue to doom's founding tonnage-first template. Mario Duplantier's dual-kick Tama Starclassic Bubinga kit proved that technical, down-tuned crushing weight can carry the same philosophy into progressive death metal. Danny Carey's massive Sonor Custom rig shows how tonal contrast can serve doom-adjacent material's most patient, atmospheric compositions, while Igor Cavalera's Yamaha Absolute Hybrid Maple kit carries the same tonnage-first restraint into tribal groove metal.
 
 None of these approaches is more "correct" — all four represent doom metal's foundational commitment to weight and riff-driven power in the absence of dedicated doom metal drummer profiles in MetalForge's database. Start with whichever configuration matches your riff style, and don't be afraid to let your toms ring out longer than extreme metal convention would suggest.
 

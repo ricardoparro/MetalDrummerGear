@@ -20743,33 +20743,33 @@ Paired with Pearl Demon Drive double pedals, the Reference Pure gives extreme me
         },
         {
           rank: 5,
-          name: "Tama Starclassic Performer Bass Drum",
-          brand: "Tama",
-          model: "Starclassic Performer 22\"x16\"",
+          name: "Pearl Reference Series Bass Drum",
+          brand: "Pearl",
+          model: "Reference Series 22\"x18\"",
           image: "https://upload.wikimedia.org/wikipedia/commons/6/6c/Acoustic_Drums_Kit_%2829965183378%29.jpg",
-          priceRange: "€400-550",
+          priceRange: "€650-850",
           tier: "mid",
-          material: "Birch/maple hybrid, 22\"x16\"",
+          material: "Maple, 22\"x18\"",
 
-          description: `Joey Jordison built his legendary Slipknot sound on a Tama Starclassic Performer kit configured with a 22" bass drum, driven by Axis A Longboard double pedals for the extreme double kick technique and blast beats he performed live on Slipknot's rotating drum riser.
+          description: `Joey Jordison built his legendary Slipknot sound on a Pearl Reference Series kit configured with a 22" bass drum, driven by Pearl Demon Drive double pedals for the extreme double kick technique and blast beats he performed live on Slipknot's rotating drum riser.
 
-The slightly shallower 16" depth (versus the 18" standard) gives a faster, punchier response — well-suited to nu-metal and extreme metal drummers who prioritize attack and speed over maximum sub-bass weight.`,
+The maple shell's full-bodied projection gives a faster, punchier response — well-suited to nu-metal and extreme metal drummers who prioritize attack and speed over maximum sub-bass weight.`,
 
           pros: [
             "Joey Jordison's proven Slipknot-era standard",
-            "22\"x16\" delivers fast, punchy attack",
-            "Birch/maple hybrid balances projection and clarity",
+            "22\"x18\" delivers fast, punchy attack",
+            "Maple shell balances projection and clarity",
             "More affordable than premium custom shell programs",
             "Well-suited to extreme double kick and blast beat technique"
           ],
           cons: [
-            "16\" depth trades some low-end weight for speed",
-            "Less sub-bass presence than 18\" depth shells"
+            "Less aggressive low-end punch than bubinga or beech shells",
+            "Less sub-bass presence than exotic-shell custom programs"
           ],
           specs: {
             diameter: "22\"",
-            depth: "16\"",
-            shell: "Birch/maple hybrid",
+            depth: "18\"",
+            shell: "Maple",
             headRecommendation: "Remo Powerstroke 3",
             configuration: "Single, double-pedal driven"
           },
@@ -20778,7 +20778,7 @@ The slightly shallower 16" depth (versus the 18" standard) gives a faster, punch
           ],
           verdict: "Best for drummers who prioritize speed and attack over maximum sub-bass.",
           rating: 4.5,
-          affiliateLink: "https://www.thomann.de/intl/tama_starclassic_performer_bass_drum.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/pearl_reference_series_bass_drum.htm?partner_id=metalforge"
         }
       ]
     },
@@ -20900,7 +20900,7 @@ The slightly shallower 16" depth (versus the 18" standard) gives a faster, punch
     faq: [
       {
         question: "What bass drums do extreme metal drummers use?",
-        answer: "22\"x18\" is the extreme metal standard — George Kollias plays a Pearl Masterworks, Gene Hoglan plays a Pearl Reference Pure, and Joey Jordison played a Tama Starclassic Performer, all at this size. Tomas Haake (Meshuggah) uses an oversized 24\"x18\" Sonor SQ2 for maximum low-end weight, while Mario Duplantier (Gojira) and Martin Axenrot (Opeth) both run dual 22\"x18\" bass drums instead of a double pedal."
+        answer: "22\"x18\" is the extreme metal standard — George Kollias plays a Pearl Masterworks, Gene Hoglan plays a Pearl Reference Pure, and Joey Jordison played a Pearl Reference Series, all at this size. Tomas Haake (Meshuggah) uses an oversized 24\"x18\" Sonor SQ2 for maximum low-end weight, while Mario Duplantier (Gojira) and Martin Axenrot (Opeth) both run dual 22\"x18\" bass drums instead of a double pedal."
       },
       {
         question: "What size bass drum is best for blast beats?",
@@ -24935,7 +24935,7 @@ Land the breakdown. Cut through the mix.`
     // SEO metadata
     title: "Best Bass Drums for Nu-Metal: 2026 Ultimate Guide",
     metaTitle: "Best Bass Drums for Nu-Metal in 2026 | MetalForge Expert Guide",
-    description: "Best bass drums for nu-metal's fuller, warmer low end. What Joey Jordison (Tama Starclassic Performer, dual bass drums), Ray Luzier (Pearl Reference Series), and John Otto (OCDP Acrylic) actually play - groove-tuned shells for down-tuned riffing.",
+    description: "Best bass drums for nu-metal's fuller, warmer low end. What Joey Jordison (Pearl Reference Series, dual bass drums), Ray Luzier (Pearl Reference Series), and John Otto (OCDP Acrylic) actually play - groove-tuned shells for down-tuned riffing.",
     seoKeywords: [
       'best bass drums for nu metal',
       'nu metal bass drum setup',
@@ -24972,7 +24972,7 @@ Land the breakdown. Cut through the mix.`
       title: "What Bass Drum Setup Do Nu-Metal Drummers Actually Use?",
       content: `Nu-metal's bass drum has a different job than most of metal: instead of chasing blast-beat attack and speed, it needs to deliver a fuller, warmer low end that locks into groove-driven, hip-hop-influenced patterns beneath heavily down-tuned guitars. The genre rewards feel and pocket over raw double-bass velocity, which shapes shell choice as much as tuning.
 
-Joey Jordison built Slipknot's explosive, theatrical sound on a Tama Starclassic Performer kit, running a dual bass drum configuration whose maple/birch hybrid shells powered the "Iowa" era's brutal, high-energy live performances. Ray Luzier has anchored Korn's dense, syncopated grooves since 2007 on a Pearl Reference Series bass drum, delivering the powerful, warm low end that fills out the band's processed, down-tuned productions. John Otto locked in Limp Bizkit's hip-hop/metal crossover groove on a visually and sonically distinctive OCDP Custom Type 5 Acrylic bass drum, prioritizing pocket and feel over raw speed throughout "Significant Other" and "Chocolate Starfish and the Hot Dog Flavored Water."
+Joey Jordison built Slipknot's explosive, theatrical sound on a Pearl Reference Series kit, running a dual bass drum configuration whose maple/birch hybrid shells powered the "Iowa" era's brutal, high-energy live performances. Ray Luzier has anchored Korn's dense, syncopated grooves since 2007 on a Pearl Reference Series bass drum, delivering the powerful, warm low end that fills out the band's processed, down-tuned productions. John Otto locked in Limp Bizkit's hip-hop/metal crossover groove on a visually and sonically distinctive OCDP Custom Type 5 Acrylic bass drum, prioritizing pocket and feel over raw speed throughout "Significant Other" and "Chocolate Starfish and the Hot Dog Flavored Water."
 
 This guide breaks down exactly what makes a bass drum work for nu-metal - shell material, low-end fullness, and single versus dual configurations - and which specific shells the genre's most influential drummers actually play.`,
       keyPoints: [
@@ -24996,13 +24996,13 @@ This guide breaks down exactly what makes a bass drum work for nu-metal - shell 
         {
           name: "Shell Material Flexibility",
           icon: "🪵",
-          description: "Joey Jordison's Tama Starclassic Performer uses a maple/birch hybrid shell for balanced punch and warmth, while John Otto's OCDP Custom Type 5 uses acrylic for a bright, distinctive tone. Nu-metal's low end doesn't require a single 'correct' shell material the way faster metal subgenres often do.",
+          description: "Joey Jordison's Pearl Reference Series uses a maple/birch hybrid shell for balanced punch and warmth, while John Otto's OCDP Custom Type 5 uses acrylic for a bright, distinctive tone. Nu-metal's low end doesn't require a single 'correct' shell material the way faster metal subgenres often do.",
           recommendation: "Maple/birch hybrid for balanced warmth; acrylic for a brighter, more distinctive low end"
         },
         {
           name: "Single Kick vs Dual Bass Drums",
           icon: "🥁",
-          description: "Joey Jordison's dual bass drum Tama Starclassic Performer setup powered Slipknot's explosive, theatrical live performances, while John Otto built Limp Bizkit's entire groove-first sound around a single bass drum. Both approaches have produced era-defining nu-metal records.",
+          description: "Joey Jordison's dual bass drum Pearl Reference Series setup powered Slipknot's explosive, theatrical live performances, while John Otto built Limp Bizkit's entire groove-first sound around a single bass drum. Both approaches have produced era-defining nu-metal records.",
           recommendation: "Dual bass drums for theatrical, high-energy performance; single shell for groove-first, pocket-driven playing"
         },
         {
@@ -25020,7 +25020,7 @@ This guide breaks down exactly what makes a bass drum work for nu-metal - shell 
         {
           name: "Build Quality for High-Energy Performance",
           icon: "🔩",
-          description: "Nu-metal's theatrical, high-energy live shows - like Slipknot's rotating riser - put real stress on hardware. Reinforced hoops and hardware, standard on the Tama Starclassic Performer and Pearl Reference Series, keep tone consistent through aggressive live performance.",
+          description: "Nu-metal's theatrical, high-energy live shows - like Slipknot's rotating riser - put real stress on hardware. Reinforced hoops and hardware, standard on Pearl Reference Series bass drums, keep tone consistent through aggressive live performance.",
           recommendation: "Reinforced hoops and hardware rated for high-energy, theatrical live performance"
         }
       ]
@@ -25072,24 +25072,24 @@ The maple shell's full-bodied projection gives Luzier's groove-focused, syncopat
         },
         {
           rank: 2,
-          name: "Tama Starclassic Performer Bass Drum",
-          brand: "Tama",
-          model: "Starclassic Performer 22\"x18\" (dual configuration)",
+          name: "Pearl Reference Series Bass Drum",
+          brand: "Pearl",
+          model: "Reference Series 22\"x18\" (dual configuration)",
           image: "https://upload.wikimedia.org/wikipedia/commons/6/6c/Acoustic_Drums_Kit_%2829965183378%29.jpg",
-          priceRange: "€500-700 per shell",
+          priceRange: "€650-850 per shell",
           tier: "pro",
-          material: "Maple/Birch hybrid, 22\"x18\"",
+          material: "Maple, 22\"x18\"",
 
-          description: `Joey Jordison built Slipknot's explosive, theatrical sound on a dual Tama Starclassic Performer bass drum configuration, its maple/birch hybrid shells striking a balance between warmth and punch that powered the "Iowa" era's brutal, high-energy live performances on the band's rotating drum riser.
+          description: `Joey Jordison built Slipknot's explosive, theatrical sound on a dual Pearl Reference Series bass drum configuration, its maple shells striking a balance between warmth and punch that powered the "Iowa" era's brutal, high-energy live performances on the band's rotating drum riser.
 
 Running two shells rather than a single kick with a double pedal gave Jordison's theatrical, high-visibility performances an extra layer of visual and sonic impact well suited to nu-metal's most explosive material.`,
 
           pros: [
             "Joey Jordison's exact Slipknot dual bass drum configuration",
-            "Maple/birch hybrid balances warmth and punch",
+            "Maple shell balances warmth and punch",
             "Built for theatrical, high-energy live performance",
             "Proven on some of nu-metal's most explosive live shows",
-            "Reliable Tama hardware for extreme touring conditions"
+            "Reliable Pearl hardware for extreme touring conditions"
           ],
           cons: [
             "Dual-shell setup costs and weighs roughly double a single kick",
@@ -25099,16 +25099,16 @@ Running two shells rather than a single kick with a double pedal gave Jordison's
           specs: {
             diameter: "22\"",
             depth: "18\"",
-            shell: "Maple/Birch hybrid",
+            shell: "Maple",
             headRecommendation: "Remo Powerstroke 3",
             configuration: "Dual bass drums"
           },
           usedBy: [
-            { name: "Joey Jordison", band: "Slipknot", note: "Dual Tama Starclassic Performer - theatrical, high-energy low end" }
+            { name: "Joey Jordison", band: "Slipknot", note: "Dual Pearl Reference Series - theatrical, high-energy low end" }
           ],
           verdict: "Best for drummers who want Slipknot's explosive, theatrical dual-kick sound.",
           rating: 4.6,
-          affiliateLink: "https://www.thomann.de/intl/tama_starclassic_performer_bass_drum.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/pearl_reference_series_bass_drum_dual.htm?partner_id=metalforge"
         },
         {
           rank: 3,
@@ -25204,7 +25204,7 @@ Acrylic's bright, focused low end gave Otto's hip-hop-informed patterns a distin
 - Well-suited to explosive, extreme material and elaborate stage setups
 - More maintenance and tuning consistency work across two shells
 
-**Verdict:** Start with a single 22"x18" maple shell like the Pearl Reference Series and a reinforced head like the Evans EMAD or Remo Powerstroke 3 - it's the proven foundation for nu-metal's warm, groove-driven low end. Move to a dual bass drum setup like Joey Jordison's Tama Starclassic Performer if theatrical, high-energy performance is central to your material.`,
+**Verdict:** Start with a single 22"x18" maple shell like the Pearl Reference Series and a reinforced head like the Evans EMAD or Remo Powerstroke 3 - it's the proven foundation for nu-metal's warm, groove-driven low end. Move to a dual bass drum setup like Joey Jordison's Pearl Reference Series if theatrical, high-energy performance is central to your material.`,
       comparisonTable: [
         { feature: "Groove Consistency", birch: "⭐⭐⭐⭐", maple: "⭐⭐⭐⭐⭐" },
         { feature: "Live Visual Impact", birch: "⭐⭐⭐⭐⭐", maple: "⭐⭐⭐" },
@@ -25225,7 +25225,7 @@ Acrylic's bright, focused low end gave Otto's hip-hop-informed patterns a distin
         },
         {
           category: "Best for Theatrical Live Performance",
-          pedal: "Tama Starclassic Performer Bass Drum",
+          pedal: "Pearl Reference Series Bass Drum",
           reason: "Joey Jordison's dual-kick Slipknot setup - explosive, high-energy impact."
         },
         {
@@ -25249,14 +25249,14 @@ Acrylic's bright, focused low end gave Otto's hip-hop-informed patterns a distin
       'best-cymbals-for-nu-metal'
     ],
     relatedDrummers: [
-      { slug: 'joey-jordison', name: 'Joey Jordison', reason: 'Dual Tama Starclassic Performer - Slipknot\'s theatrical, high-energy low end' },
+      { slug: 'joey-jordison', name: 'Joey Jordison', reason: 'Dual Pearl Reference Series - Slipknot\'s theatrical, high-energy low end' },
       { slug: 'ray-luzier', name: 'Ray Luzier', reason: 'Pearl Reference Series - Korn\'s warm, syncopated groove since 2007' },
       { slug: 'john-otto', name: 'John Otto', reason: 'OCDP Custom Type 5 Acrylic - Limp Bizkit\'s groove-first low end' }
     ],
 
     // Featured drummers (issue template)
     featuredDrummers: [
-      { slug: 'joey-jordison', name: 'Joey Jordison', reason: 'Dual Tama Starclassic Performer - theatrical, explosive low end' },
+      { slug: 'joey-jordison', name: 'Joey Jordison', reason: 'Dual Pearl Reference Series - theatrical, explosive low end' },
       { slug: 'ray-luzier', name: 'Ray Luzier', reason: 'Pearl Reference Series - warm, syncopated groove standard' },
       { slug: 'john-otto', name: 'John Otto', reason: 'OCDP Custom Type 5 Acrylic - groove-first, single-pedal tone' }
     ],
@@ -25265,7 +25265,7 @@ Acrylic's bright, focused low end gave Otto's hip-hop-informed patterns a distin
     faq: [
       {
         question: "What bass drums do nu-metal drummers use?",
-        answer: "Joey Jordison of Slipknot ran dual Tama Starclassic Performer bass drums, Ray Luzier of Korn plays a Pearl Reference Series, and John Otto of Limp Bizkit built his sound around a single OCDP Custom Type 5 Acrylic bass drum. All three prioritize a fuller, warmer low end over raw attack."
+        answer: "Joey Jordison of Slipknot ran dual Pearl Reference Series bass drums, Ray Luzier of Korn plays a Pearl Reference Series, and John Otto of Limp Bizkit built his sound around a single OCDP Custom Type 5 Acrylic bass drum. All three prioritize a fuller, warmer low end over raw attack."
       },
       {
         question: "What size bass drum is best for nu-metal?",
@@ -25290,7 +25290,7 @@ Acrylic's bright, focused low end gave Otto's hip-hop-informed patterns a distin
       title: "Build the Full, Warm Low End Nu-Metal Demands",
       content: `Nu-metal's bass drum requirements flip the usual metal priorities: fullness and warmth matter more than cutting attack, and groove matters more than raw double-bass speed. Ray Luzier's Pearl Reference Series proves that a warm maple shell fills out Korn's down-tuned, processed productions exactly the way the genre demands.
 
-If theatrical, high-energy performance is central to your material, follow Joey Jordison's example with a dual bass drum setup like the Tama Starclassic Performer - built for the visual and sonic impact of Slipknot's most explosive live shows.
+If theatrical, high-energy performance is central to your material, follow Joey Jordison's example with a dual bass drum setup like the Pearl Reference Series - built for the visual and sonic impact of Slipknot's most explosive live shows.
 
 Start with a single 22"x18" maple or acrylic shell and a reinforced head like the Evans EMAD or Remo Powerstroke 3 - it's the proven foundation across nu-metal's most influential, groove-driven drummers.
 
@@ -57146,12 +57146,12 @@ Start lean: a single kick trigger and a basic interface will reinforce your loud
       title: "Why Nu-Metal Was Built for Hybrid Triggering",
       content: `A drum trigger is a small piezo or optical sensor clipped or mounted directly onto an acoustic drumhead. It converts the physical vibration of a hit into an electronic signal that can drive a sample, reinforce a weak-sounding mic, or feed a click-synced monitor rig — without changing how the acoustic drum feels under the stick or beater. Nu-metal has a more natural relationship with hybrid acoustic/electronic setups than almost any other metal subgenre: the style fuses metal's low-tuned heaviness with hip-hop and electronic production sensibilities, and its studio sound has always leaned on layered, produced low end rather than a purely raw acoustic attack.
 
-Joey Jordison built Slipknot's explosive, theatrical sound on a Tama Starclassic Performer kit, its dual bass drum configuration powering the "Iowa" era's brutal live performances alongside the band's sample-heavy, electronically layered production. Ray Luzier has anchored Korn's dense, syncopated grooves since 2007 on a Pearl Reference Series kit, records built around modern low-tuned production values. John Otto locked in Limp Bizkit's hip-hop/metal crossover sound on an OCDP Custom Type 5 Acrylic kit, driving a genre defined by its fusion of rock power and hip-hop-influenced groove. That production DNA — low-tuned, sample-conscious, hip-hop-adjacent — is exactly where trigger-driven hybrid setups fit naturally into nu-metal's sound.
+Joey Jordison built Slipknot's explosive, theatrical sound on a Pearl Reference Series kit, its dual bass drum configuration powering the "Iowa" era's brutal live performances alongside the band's sample-heavy, electronically layered production. Ray Luzier has anchored Korn's dense, syncopated grooves since 2007 on a Pearl Reference Series kit, records built around modern low-tuned production values. John Otto locked in Limp Bizkit's hip-hop/metal crossover sound on an OCDP Custom Type 5 Acrylic kit, driving a genre defined by its fusion of rock power and hip-hop-influenced groove. That production DNA — low-tuned, sample-conscious, hip-hop-adjacent — is exactly where trigger-driven hybrid setups fit naturally into nu-metal's sound.
 
 This guide covers what actually matters when building a hybrid acoustic/electronic trigger setup for nu-metal — kick weight for low-tuned mixes, sample-layering flexibility, and groove-preserving crosstalk rejection — with specific recommendations across every budget, from a first single kick trigger to a full hybrid sample-layering rig.`,
       keyPoints: [
         "Nu-metal fuses metal's low-tuned heaviness with hip-hop and electronic production, making hybrid trigger setups a natural fit",
-        "Joey Jordison's dual-bass Tama Starclassic Performer powered Slipknot's sample-heavy, electronically layered production",
+        "Joey Jordison's dual-bass Pearl Reference Series powered Slipknot's sample-heavy, electronically layered production",
         "Ray Luzier's Pearl Reference kit anchors Korn's modern, low-tuned syncopated grooves",
         "John Otto's OCDP kit drove Limp Bizkit's hip-hop/metal crossover, a genre built around groove and production layering"
       ]
@@ -57482,7 +57482,7 @@ For nu-metal drummers who've already invested in triggers from multiple brands, 
       'best-cymbals-for-nu-metal'
     ],
     relatedDrummers: [
-      { slug: 'joey-jordison', name: 'Joey Jordison', reason: 'Dual-bass Tama Starclassic Performer powering Slipknot\'s sample-heavy, electronically layered production' },
+      { slug: 'joey-jordison', name: 'Joey Jordison', reason: 'Dual-bass Pearl Reference Series powering Slipknot\'s sample-heavy, electronically layered production' },
       { slug: 'ray-luzier', name: 'Ray Luzier', reason: 'Pearl Reference kit anchoring Korn\'s dense, syncopated, modern low-tuned grooves since 2007' },
       { slug: 'john-otto', name: 'John Otto', reason: 'OCDP Custom kit driving Limp Bizkit\'s hip-hop/metal crossover groove' }
     ],
@@ -57515,7 +57515,7 @@ For nu-metal drummers who've already invested in triggers from multiple brands, 
     // Conclusion
     conclusion: {
       title: "Build the Hybrid Sound Nu-Metal Was Made For",
-      content: `Nu-metal's relationship with hybrid triggering runs deeper than most metal subgenres — the style's low-tuned, hip-hop-influenced production sound was practically built for it. Joey Jordison's dual-bass Tama Starclassic Performer, Ray Luzier's Pearl Reference kit, and John Otto's OCDP setup all anchor bands whose studio sound leans on layered, produced elements rather than raw acoustic tone alone.
+      content: `Nu-metal's relationship with hybrid triggering runs deeper than most metal subgenres — the style's low-tuned, hip-hop-influenced production sound was practically built for it. Joey Jordison's dual-bass Pearl Reference Series, Ray Luzier's Pearl Reference kit, and John Otto's OCDP setup all anchor bands whose studio sound leans on layered, produced elements rather than raw acoustic tone alone.
 
 Start lean: a single kick trigger and a basic interface will reinforce your loudest, most tempo-critical drum without touching how your acoustic kit feels. Step up to a Roland SPD-SX once you're ready to build the full hybrid acoustic/electronic sound nu-metal's production style is built around.
 
@@ -59695,7 +59695,7 @@ Start where your budget allows — even a Pearl Export will get you playing real
     // SEO metadata
     title: "Best Drum Kits for Nu-Metal: 2026 Ultimate Guide",
     metaTitle: "Best Drum Kits for Nu-Metal 2026 | MetalForge Expert Guide",
-    description: "Best drum kits for nu-metal drumming. What Joey Jordison (Tama Starclassic Performer), Ray Luzier (Pearl Reference), and John Otto (OCDP Acrylic) actually use — from budget to pro, built for syncopated grooves and floor-tom-driven weight.",
+    description: "Best drum kits for nu-metal drumming. What Joey Jordison (Pearl Reference Series), Ray Luzier (Pearl Reference), and John Otto (OCDP Acrylic) actually use — from budget to pro, built for syncopated grooves and floor-tom-driven weight.",
     seoKeywords: [
       'best drum kits for nu metal',
       'nu metal drum kit',
@@ -59732,11 +59732,11 @@ Start where your budget allows — even a Pearl Export will get you playing real
       title: "What Drum Kit Should I Use for Nu-Metal?",
       content: `Nu-metal drum kits are built for groove, not speed. The genre blends metal's heaviness with hip-hop and funk's rhythmic sophistication, which means the kit needs deep, floor-tom-driven low end and a snare that locks into syncopated, off-beat patterns — not blast-beat endurance or ultra-bright, technical articulation.
 
-Joey Jordison built Slipknot's explosive, theatrical sound on a Tama Starclassic Performer kit, its maple/birch hybrid shells and dual bass drum configuration powering the "Iowa" era's brutal live performances. Ray Luzier has anchored Korn's dense, syncopated grooves since 2007 on a Pearl Reference Series kit, pairing it with a cutting brass snare across records from "Korn III" through "The Paradigm Shift." John Otto locked in Limp Bizkit's hip-hop/metal crossover sound on a visually and sonically distinctive OCDP Custom Type 5 Acrylic kit, carrying the band through "Significant Other" and "Chocolate Starfish and the Hot Dog Flavored Water."
+Joey Jordison built Slipknot's explosive, theatrical sound on a Pearl Reference Series kit, its maple/birch hybrid shells and dual bass drum configuration powering the "Iowa" era's brutal live performances. Ray Luzier has anchored Korn's dense, syncopated grooves since 2007 on a Pearl Reference Series kit, pairing it with a cutting brass snare across records from "Korn III" through "The Paradigm Shift." John Otto locked in Limp Bizkit's hip-hop/metal crossover sound on a visually and sonically distinctive OCDP Custom Type 5 Acrylic kit, carrying the band through "Significant Other" and "Chocolate Starfish and the Hot Dog Flavored Water."
 
 This guide covers what actually makes a kit work for nu-metal — shell material, tom configuration, and groove-focused tone — and which specific kits the genre's most influential drummers play, from budget starter kits to the professional setups behind nu-metal's biggest records.`,
       keyPoints: [
-        "Joey Jordison's Tama Starclassic Performer defined Slipknot's explosive, dual-kick nu-metal sound",
+        "Joey Jordison's Pearl Reference Series defined Slipknot's explosive, dual-kick nu-metal sound",
         "Extended tom setups (10\"–16\") support the melodic, hip-hop-influenced fill work the genre favors",
         "Wood shells (maple, maple/birch) and acrylic shells both have a place in nu-metal's history",
         "Standard sizes: 22\"–24\" kick, deep floor toms, and a punchy 14\" snare for syncopated backbeats"
@@ -59792,22 +59792,22 @@ This guide covers what actually makes a kit work for nu-metal — shell material
       pedals: [
         {
           rank: 1,
-          name: "Tama Starclassic Performer",
-          brand: "Tama",
-          model: "Starclassic Performer Series",
+          name: "Pearl Reference Series",
+          brand: "Pearl",
+          model: "Reference Series",
           image: "https://upload.wikimedia.org/wikipedia/commons/a/ac/Drums_01.jpg",
-          priceRange: "€2200-3800 (shell pack)",
+          priceRange: "€2500-4200 (shell pack)",
           tier: "pro",
-          material: "Maple/Birch Hybrid",
+          material: "Maple/Birch/African Mahogany Hybrid",
 
-          description: `Joey Jordison built Slipknot's legendary, theatrical sound on a Tama Starclassic Performer kit configured with a 22" bass drum and 12", 13", and 16" toms. The maple/birch hybrid shells combine maple's warmth with birch's clarity and attack, projecting cleanly through Slipknot's dense, percussion-heavy arrangements.
+          description: `Joey Jordison built Slipknot's legendary, theatrical sound on a Pearl Reference Series kit configured with a 22" bass drum and 12", 13", and 16" toms. The maple/birch/African mahogany hybrid shells combine maple's warmth with birch's clarity and attack, projecting cleanly through Slipknot's dense, percussion-heavy arrangements.
 
-Paired with his signature Pearl 13x6.5" snare and driven by Axis A Longboard double pedals, this configuration gave Jordison the explosive cut and reliability needed for Slipknot's extreme double kick technique on their rotating drum riser — one of nu-metal's most demanding live setups.`,
+Paired with his signature Pearl 13x6.5" snare and driven by Pearl Demon Drive double pedals, this configuration gave Jordison the explosive cut and reliability needed for Slipknot's extreme double kick technique on their rotating drum riser — one of nu-metal's most demanding live setups.`,
 
           pros: [
             "Joey Jordison's Slipknot setup — theatrical, explosive nu-metal standard",
-            "Maple/birch hybrid shells for warmth with cutting clarity",
-            "Star-Cast Mounting System for maximum resonance",
+            "Maple/birch/African mahogany hybrid shells for warmth with cutting clarity",
+            "Optimount Suspension System for maximum resonance",
             "Proven reliability for extreme, high-energy live shows",
             "Wide range of configurations available"
           ],
@@ -59817,18 +59817,18 @@ Paired with his signature Pearl 13x6.5" snare and driven by Axis A Longboard dou
             "Heavy for solo transport without road crew support"
           ],
           specs: {
-            shell: "Maple/Birch Hybrid (6-ply)",
-            mount: "Star-Cast Mounting System",
+            shell: "Maple/Birch/African Mahogany Hybrid (SST)",
+            mount: "Optimount Suspension System",
             finish: "Multiple lacquer/wrap options",
             kickSize: "22\" x 18\" standard (dual-kick configurations available)",
             tomSizes: "12\", 13\" (rack) / 16\" (floor)"
           },
           usedBy: [
-            { name: "Joey Jordison", band: "Slipknot", note: "Primary Tama Starclassic Performer user — defined Slipknot's explosive nu-metal sound" }
+            { name: "Joey Jordison", band: "Slipknot", note: "Primary Pearl Reference Series user — defined Slipknot's explosive nu-metal sound" }
           ],
           verdict: "The nu-metal standard. If you want the Joey Jordison sound, this is the kit.",
           rating: 4.8,
-          affiliateLink: "https://www.thomann.de/intl/tama_starclassic_performer_series.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/pearl_reference_series_kit.htm?partner_id=metalforge"
         },
         {
           rank: 2,
@@ -60031,7 +60031,7 @@ For drummers building their first nu-metal rig on a budget, the Imperialstar off
       title: "Wood Shells vs Acrylic Shells for Nu-Metal",
       content: `The choice between wood and acrylic shells shapes both the tone and stage presence of your nu-metal kit:
 
-**Maple/Birch Hybrid (Tama Starclassic Performer, Joey Jordison's choice):**
+**Maple/Birch Hybrid (Pearl Reference Series, Joey Jordison's choice):**
 - Warmth from maple combined with birch's cutting clarity
 - Excellent projection for dense, percussion-heavy arrangements
 - The most common choice for modern nu-metal and its metalcore-adjacent descendants
@@ -60064,7 +60064,7 @@ For drummers building their first nu-metal rig on a budget, the Imperialstar off
       picks: [
         {
           category: "Best Overall",
-          pedal: "Tama Starclassic Performer",
+          pedal: "Pearl Reference Series",
           reason: "Joey Jordison's Slipknot kit — the most historically significant nu-metal drum sound. Explosive, reliable, proven on the genre's biggest stages."
         },
         {
@@ -60092,14 +60092,14 @@ For drummers building their first nu-metal rig on a budget, the Imperialstar off
       'best-cymbals-for-metal'
     ],
     relatedDrummers: [
-      { slug: 'joey-jordison', name: 'Joey Jordison', reason: 'Tama Starclassic Performer — Slipknot explosive nu-metal standard' },
+      { slug: 'joey-jordison', name: 'Joey Jordison', reason: 'Pearl Reference Series — Slipknot explosive nu-metal standard' },
       { slug: 'ray-luzier', name: 'Ray Luzier', reason: 'Pearl Reference Series — Korn modern groove and precision' },
       { slug: 'john-otto', name: 'John Otto', reason: 'OCDP Custom Type 5 Acrylic — Limp Bizkit iconic nu-metal identity' }
     ],
 
     // Featured drummers (issue template)
     featuredDrummers: [
-      { slug: 'joey-jordison', name: 'Joey Jordison', reason: 'Tama Starclassic Performer — Slipknot explosive nu-metal standard' },
+      { slug: 'joey-jordison', name: 'Joey Jordison', reason: 'Pearl Reference Series — Slipknot explosive nu-metal standard' },
       { slug: 'ray-luzier', name: 'Ray Luzier', reason: 'Pearl Reference Series — Korn modern groove and precision' },
       { slug: 'john-otto', name: 'John Otto', reason: 'OCDP Custom Type 5 Acrylic — Limp Bizkit iconic nu-metal identity' },
     ],
@@ -60108,11 +60108,11 @@ For drummers building their first nu-metal rig on a budget, the Imperialstar off
     faq: [
       {
         question: "What drum kit should I use for nu-metal?",
-        answer: "Tama Starclassic Performer is the historically definitive choice — Joey Jordison built Slipknot's explosive, theatrical sound on this kit. For modern, groove-focused nu-metal, Ray Luzier's Pearl Reference Series offers full-bodied punch suited to dense, syncopated grooves. For a distinctive, visually iconic setup, John Otto's OCDP acrylic kit is the genre's most recognizable choice."
+        answer: "Pearl Reference Series is the historically definitive choice — Joey Jordison built Slipknot's explosive, theatrical sound on this kit. For modern, groove-focused nu-metal, Ray Luzier's Pearl Reference Series offers full-bodied punch suited to dense, syncopated grooves. For a distinctive, visually iconic setup, John Otto's OCDP acrylic kit is the genre's most recognizable choice."
       },
       {
         question: "What drum kit does Joey Jordison use?",
-        answer: "Joey Jordison built his Slipknot sound on a Tama Starclassic Performer kit configured with a 22\" bass drum and 12\", 13\", and 16\" toms, paired with a signature Pearl 13x6.5\" snare. The maple/birch hybrid shells gave him the projection and clarity to cut through Slipknot's dense, percussion-heavy arrangements."
+        answer: "Joey Jordison built his Slipknot sound on a Pearl Reference Series kit configured with a 22\" bass drum and 12\", 13\", and 16\" toms, paired with a signature Pearl 13x6.5\" snare. The maple/birch hybrid shells gave him the projection and clarity to cut through Slipknot's dense, percussion-heavy arrangements."
       },
       {
         question: "What drum kit does Ray Luzier use?",
@@ -60124,7 +60124,7 @@ For drummers building their first nu-metal rig on a budget, the Imperialstar off
       },
       {
         question: "Wood or acrylic shells for nu-metal?",
-        answer: "Wood shells (Tama Starclassic Performer's maple/birch hybrid, Pearl Reference's maple/birch/mahogany blend) deliver warmer, more controlled groove tone and are the more common modern choice. Acrylic shells (John Otto's OCDP kit) offer brighter, more aggressive live projection with a distinctive visual identity — historically iconic but less common today. Both work; choose based on tone preference and stage presence goals."
+        answer: "Wood shells (Joey Jordison's Pearl Reference Series maple/birch hybrid, Ray Luzier's Pearl Reference Series maple/birch/mahogany blend) deliver warmer, more controlled groove tone and are the more common modern choice. Acrylic shells (John Otto's OCDP kit) offer brighter, more aggressive live projection with a distinctive visual identity — historically iconic but less common today. Both work; choose based on tone preference and stage presence goals."
       },
       {
         question: "What tom configuration is best for nu-metal?",
@@ -60137,7 +60137,7 @@ For drummers building their first nu-metal rig on a budget, the Imperialstar off
       title: "Build Your Nu-Metal Groove Machine",
       content: `Nu-metal drum kits succeed by locking into a groove, not by chasing speed or raw aggression. Joey Jordison proved that a maple/birch hybrid kit configured for explosive, theatrical performance could define an entire era of mainstream metal, while Ray Luzier and John Otto each found their own path to nu-metal's syncopated, floor-tom-driven sound.
 
-Whether you choose the historically definitive Tama Starclassic Performer, Ray Luzier's groove-focused Pearl Reference Series, or John Otto's visually iconic OCDP acrylic kit, remember that nu-metal's biggest records were built on feel, syncopation, and stage presence as much as gear.
+Whether you choose Joey Jordison's historically definitive Pearl Reference Series, Ray Luzier's groove-focused Pearl Reference Series, or John Otto's visually iconic OCDP acrylic kit, remember that nu-metal's biggest records were built on feel, syncopation, and stage presence as much as gear.
 
 Start where your budget allows — even a Pearl Export configured with an extended tom setup will get you playing real nu-metal grooves. Prioritize your pocket and syncopation before you upgrade your shells. The genre's headbang-inducing weight comes from groove as much as equipment.
 
@@ -81719,14 +81719,14 @@ Budget shouldn't stop you either. A Zildjian ZBT or Meinl HCS setup will teach r
     // SEO metadata
     title: "Best Drum Pedals for Nu-Metal: 2026 Ultimate Guide",
     metaTitle: "Best Drum Pedals for Nu-Metal 2026 | MetalForge Expert Guide",
-    description: "Best drum pedals for nu-metal drumming. What Joey Jordison (Axis A Longboard double pedal), John Otto (single-pedal groove approach), and Ray Luzier (DW 9002 double pedal) actually use — from budget to pro.",
+    description: "Best drum pedals for nu-metal drumming. What Joey Jordison (Pearl Demon Drive double pedal), John Otto (single-pedal groove approach), and Ray Luzier (DW 9002 double pedal) actually use — from budget to pro.",
     seoKeywords: [
       'best drum pedals for nu metal',
       'nu metal drum pedals',
       'joey jordison pedal slipknot',
       'john otto pedal limp bizkit',
       'ray luzier pedal korn',
-      'axis a longboard nu metal',
+      'pearl demon drive nu metal',
       'dw 9002 double pedal',
       'best single pedal for groove metal',
       'double bass pedal nu metal',
@@ -81756,11 +81756,11 @@ Budget shouldn't stop you either. A Zildjian ZBT or Meinl HCS setup will teach r
       title: "Nu-Metal's Two Very Different Pedal Philosophies",
       content: `Nu-metal's pedal requirements split along the same line as its songwriting: some drummers chase double-bass speed and theatrical extremity, while others build their entire foot technique around groove, feel, and restraint. Both approaches produced era-defining records, and both demand very different equipment.
 
-Joey Jordison drove Slipknot's explosive, theatrical double bass work on Axis A Longboard double pedals, whose extended footboard gave him the leverage and speed for the extreme kick patterns and blast beats he performed live on the band's rotating drum riser. John Otto took the opposite path in Limp Bizkit, building his groove-first, hip-hop-informed sound around a single bass drum pedal rather than the double-kick norm of the era — proof that nu-metal's pocket can matter more than raw speed. Ray Luzier bridges the two philosophies in Korn, running DW 9002 double pedals to deliver the powerful, syncopated kick patterns that anchor Korn's dense, processed productions.
+Joey Jordison drove Slipknot's explosive, theatrical double bass work on Pearl Demon Drive double pedals, whose extended footboard gave him the leverage and speed for the extreme kick patterns and blast beats he performed live on the band's rotating drum riser. John Otto took the opposite path in Limp Bizkit, building his groove-first, hip-hop-informed sound around a single bass drum pedal rather than the double-kick norm of the era — proof that nu-metal's pocket can matter more than raw speed. Ray Luzier bridges the two philosophies in Korn, running DW 9002 double pedals to deliver the powerful, syncopated kick patterns that anchor Korn's dense, processed productions.
 
 This guide covers what actually makes a pedal work for nu-metal — speed versus feel, single versus double configurations — and which specific pedals the genre's most influential drummers rely on, from budget starter pedals to the professional setups behind nu-metal's biggest records.`,
       keyPoints: [
-        "Joey Jordison's Axis A Longboard double pedal powered Slipknot's extreme, theatrical double-kick work",
+        "Joey Jordison's Pearl Demon Drive double pedal powered Slipknot's extreme, theatrical double-kick work",
         "John Otto's single-pedal setup shows groove and feel can matter more than raw double-bass speed",
         "Ray Luzier's DW 9002 double pedal drives Korn's powerful, syncopated kick patterns",
         "Long footboards and precision bearings matter for both single- and double-pedal nu-metal setups"
@@ -81792,7 +81792,7 @@ This guide covers what actually makes a pedal work for nu-metal — speed versus
         {
           name: "Footboard Length and Leverage",
           icon: "📏",
-          description: "Jordison's Axis A Longboard uses an extended footboard specifically for added leverage and speed on extreme kick patterns. Longer boards suit drummers chasing maximum power and speed; standard boards suit groove-focused, feel-first playing.",
+          description: "Jordison's Pearl Demon Drive uses an extended footboard specifically for added leverage and speed on extreme kick patterns. Longer boards suit drummers chasing maximum power and speed; standard boards suit groove-focused, feel-first playing.",
           recommendation: "Longboard designs for maximum speed and leverage; standard boards for groove-first control"
         },
         {
@@ -81816,21 +81816,21 @@ This guide covers what actually makes a pedal work for nu-metal — speed versus
       pedals: [
         {
           rank: 1,
-          name: "Axis A Longboard",
-          brand: "Axis Percussion",
-          model: "A Longboard Double Pedal",
+          name: "Pearl Demon Drive",
+          brand: "Pearl",
+          model: "P3002D Demon Drive",
           image: "https://upload.wikimedia.org/wikipedia/commons/7/74/Dixon-double-pedal.jpg",
-          priceRange: "€550-650",
+          priceRange: "€500-600",
           tier: "pro",
-          driveType: "Direct Drive (Longboard)",
+          driveType: "Direct Drive",
 
-          description: `Joey Jordison drove Slipknot's explosive, theatrical double bass work on Axis A Longboard double pedals. The extended longboard footboard design gave him the leverage and speed required for the extreme double-kick patterns and blast beats he performed live on the band's rotating drum riser, one of nu-metal's most demanding touring setups.
+          description: `Joey Jordison drove Slipknot's explosive, theatrical double bass work on Pearl Demon Drive double pedals since 2010. The direct drive action and NiNjA bearing system gave him the leverage and speed required for the extreme double-kick patterns and blast beats he performed live on the band's rotating drum riser, one of nu-metal's most demanding touring setups.
 
-Paired with his Tama Starclassic Performer kit and signature Pearl snare, the Axis Longboard's direct drive action gave Jordison the explosive cut and split-second reliability needed for Slipknot's most extreme material, from "Iowa" through the band's biggest arena tours.`,
+Paired with his Pearl Reference Series kit and signature Pearl snare, the Demon Drive's direct drive action gave Jordison the explosive cut and split-second reliability needed for Slipknot's most extreme material, from "Iowa" through the band's biggest arena tours.`,
 
           pros: [
-            "Joey Jordison's setup — powering Slipknot's most extreme double-kick work",
-            "Extended longboard footboard adds leverage and speed for extreme patterns",
+            "Joey Jordison's setup since 2010 — powering Slipknot's most extreme double-kick work",
+            "PowerShifter longboard footboard adds leverage and speed for extreme patterns",
             "Direct drive action for explosive, reliable response",
             "Proven on one of nu-metal's most demanding touring setups — Slipknot's rotating riser",
             "Built for extreme, sustained double-bass and blast-beat work"
@@ -81841,18 +81841,18 @@ Paired with his Tama Starclassic Performer kit and signature Pearl snare, the Ax
             "More pedal than groove-focused, single-kick nu-metal drummers need"
           ],
           specs: {
-            drive: "Direct Drive (Longboard)",
-            bearings: "Precision Bearings",
-            footboard: "Extended Longboard",
-            beater: "Axis Beater (interchangeable)",
-            weight: "4.2 kg (pair)"
+            drive: "Direct Drive (interchangeable cams)",
+            bearings: "NiNjA Bearings",
+            footboard: "PowerShifter Longboard",
+            beater: "Demon Beater (reversible)",
+            weight: "4.5 kg (pair)"
           },
           usedBy: [
-            { name: "Joey Jordison", band: "Slipknot", note: "Axis A Longboard double pedal — extreme double-kick and blast-beat work on Slipknot's rotating riser" }
+            { name: "Joey Jordison", band: "Slipknot", note: "Pearl Demon Drive double pedal — extreme double-kick and blast-beat work on Slipknot's rotating riser, since 2010" }
           ],
           verdict: "The nu-metal pedal for maximum speed and theatrical extremity. Jordison's setup for a reason.",
           rating: 4.7,
-          affiliateLink: "https://www.thomann.de/intl/axis_a_longboard_double_pedal.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/pearl_demon_drive_double_pedal.htm?partner_id=metalforge"
         },
         {
           rank: 2,
@@ -81956,7 +81956,7 @@ While not tied to one of nu-metal's featured signature setups, the Speed Cobra a
           ],
           cons: [
             "Not tied to a specific nu-metal legend's setup",
-            "Less distinctive character than Axis A Longboard or DW 9002",
+            "Less distinctive character than Pearl Demon Drive or DW 9002",
             "Lightweight feel may need adjustment for players used to heavier pedals"
           ],
           specs: {
@@ -82047,7 +82047,7 @@ While not tied to one of nu-metal's featured signature setups, the Speed Cobra a
       picks: [
         {
           category: "Best Overall",
-          pedal: "Axis A Longboard",
+          pedal: "Pearl Demon Drive",
           reason: "Joey Jordison's Slipknot setup — the most historically significant nu-metal double-kick sound, built for extreme speed and theatrical live shows."
         },
         {
@@ -82075,14 +82075,14 @@ While not tied to one of nu-metal's featured signature setups, the Speed Cobra a
       'best-snare-drums-for-nu-metal'
     ],
     relatedDrummers: [
-      { slug: 'joey-jordison', name: 'Joey Jordison', reason: 'Axis A Longboard — Slipknot extreme double-kick and blast-beat work' },
+      { slug: 'joey-jordison', name: 'Joey Jordison', reason: 'Pearl Demon Drive — Slipknot extreme double-kick and blast-beat work' },
       { slug: 'john-otto', name: 'John Otto', reason: 'Single-pedal setup — Limp Bizkit groove-first approach' },
       { slug: 'ray-luzier', name: 'Ray Luzier', reason: 'DW 9002 double pedal — Korn syncopated groove' }
     ],
 
     // Featured drummers (issue template)
     featuredDrummers: [
-      { slug: 'joey-jordison', name: 'Joey Jordison', reason: 'Axis A Longboard — Slipknot extreme double-kick and blast-beat work' },
+      { slug: 'joey-jordison', name: 'Joey Jordison', reason: 'Pearl Demon Drive — Slipknot extreme double-kick and blast-beat work' },
       { slug: 'john-otto', name: 'John Otto', reason: 'Single-pedal setup — Limp Bizkit groove-first approach' },
       { slug: 'ray-luzier', name: 'Ray Luzier', reason: 'DW 9002 double pedal — Korn syncopated groove' },
     ],
@@ -82091,7 +82091,7 @@ While not tied to one of nu-metal's featured signature setups, the Speed Cobra a
     faq: [
       {
         question: "What pedal does Joey Jordison use?",
-        answer: "Joey Jordison drove Slipknot's explosive double bass work on Axis A Longboard double pedals. The extended longboard footboard gave him the leverage and speed for the extreme kick patterns and blast beats he performed live on the band's rotating drum riser."
+        answer: "Joey Jordison drove Slipknot's explosive double bass work on Pearl Demon Drive double pedals. The extended longboard footboard gave him the leverage and speed for the extreme kick patterns and blast beats he performed live on the band's rotating drum riser."
       },
       {
         question: "Does John Otto use a double pedal?",
@@ -82107,14 +82107,14 @@ While not tied to one of nu-metal's featured signature setups, the Speed Cobra a
       },
       {
         question: "Direct drive or chain drive for nu-metal?",
-        answer: "Both work at the highest level — Joey Jordison's Axis A Longboard uses direct drive for maximum speed, while Ray Luzier's DW 9002 uses chain drive for smooth, precise control on syncopated patterns. Direct drive suits extreme speed and theatrical extremity; chain drive suits groove-focused precision."
+        answer: "Both work at the highest level — Joey Jordison's Pearl Demon Drive uses direct drive for maximum speed, while Ray Luzier's DW 9002 uses chain drive for smooth, precise control on syncopated patterns. Direct drive suits extreme speed and theatrical extremity; chain drive suits groove-focused precision."
       }
     ],
 
     // Conclusion
     conclusion: {
       title: "Build Your Nu-Metal Pedal Setup",
-      content: `Nu-metal's pedal choice comes down to what your material actually demands. Joey Jordison proved that an Axis A Longboard double pedal could power some of the genre's most extreme, theatrical double-kick work, while John Otto proved the opposite — that a single, well-calibrated pedal can anchor three decades of groove-first, hip-hop-influenced hits. Ray Luzier's DW 9002 shows a syncopated middle ground that drives Korn's dense productions.
+      content: `Nu-metal's pedal choice comes down to what your material actually demands. Joey Jordison proved that an Pearl Demon Drive double pedal could power some of the genre's most extreme, theatrical double-kick work, while John Otto proved the opposite — that a single, well-calibrated pedal can anchor three decades of groove-first, hip-hop-influenced hits. Ray Luzier's DW 9002 shows a syncopated middle ground that drives Korn's dense productions.
 
 None of these approaches is more "correct" for nu-metal — all three have driven some of the genre's most commercially significant records. See our nu-metal cymbal guide and the full top 10 nu-metal drummers list to see how these setups fit into each drummer's complete rig.
 
@@ -82170,7 +82170,7 @@ Start with whichever approach matches your material's demands — groove and fee
       title: "Why the Snare Anchors Nu-Metal's Syncopated Backbeat",
       content: `Nu-metal's rhythm section lives and dies on the backbeat. The genre's hip-hop-influenced groove needs a snare that cracks with authority on the 2 and 4 while staying sensitive enough for the ghost-note work that gives nu-metal its syncopated, pocket-heavy feel — a very different demand from the pure speed and blast-beat endurance other metal subgenres chase.
 
-Joey Jordison's Pearl Free-Floating snare was central to Slipknot's aggressive nu-metal attack — the pure steel shell's free-floating design eliminated shell dampening for maximum resonance and cutting brightness, sitting alongside his signature Pearl 13x6.5" snare used with his Tama Starclassic Performer kit. John Otto anchored Limp Bizkit's groove-first sound on a custom OCDP 14"x6.5" snare tuned to medium-high tension, delivering punch for heavy passages and sensitivity for his jazz-trained ghost-note work. Ray Luzier drives Korn's dense grooves on a Pearl Reference 14"x6.5" brass snare, its cutting, full-bodied crack anchoring records from "Korn III" through "The Paradigm Shift."
+Joey Jordison's Pearl Free-Floating snare was central to Slipknot's aggressive nu-metal attack — the pure steel shell's free-floating design eliminated shell dampening for maximum resonance and cutting brightness, sitting alongside his signature Pearl 13x6.5" snare used with his Pearl Reference Series kit. John Otto anchored Limp Bizkit's groove-first sound on a custom OCDP 14"x6.5" snare tuned to medium-high tension, delivering punch for heavy passages and sensitivity for his jazz-trained ghost-note work. Ray Luzier drives Korn's dense grooves on a Pearl Reference 14"x6.5" brass snare, its cutting, full-bodied crack anchoring records from "Korn III" through "The Paradigm Shift."
 
 This guide breaks down what actually makes a snare work for nu-metal — shell material, depth, and tuning — and which specific snares the genre's most influential drummers rely on, from budget starter options to the professional setups behind nu-metal's biggest records.`,
       keyPoints: [
@@ -82357,7 +82357,7 @@ For nu-metal drummers who want a fuller, warmer snare voice than steel without s
           tier: "pro",
           material: "Steel",
 
-          description: `Joey Jordison's signature Pearl 13"x6.5" snare — smaller in diameter than the standard 14" — was configured for faster, more machine-gun-style fill work alongside his Tama Starclassic Performer kit, giving him rapid articulation for Slipknot's most percussion-dense arrangements.
+          description: `Joey Jordison's signature Pearl 13"x6.5" snare — smaller in diameter than the standard 14" — was configured for faster, more machine-gun-style fill work alongside his Pearl Reference Series kit, giving him rapid articulation for Slipknot's most percussion-dense arrangements.
 
 The reduced diameter speeds up stick rebound and fill turnaround without sacrificing the deep 6.5" shell's punch, offering nu-metal drummers who prioritize fast fills over maximum crack a proven alternative to a standard 14" setup.`,
 
@@ -82380,7 +82380,7 @@ The reduced diameter speeds up stick rebound and fill turnaround without sacrifi
             wires: "20-strand"
           },
           usedBy: [
-            { name: "Joey Jordison", band: "Slipknot", note: "Signature 13\"x6.5\" snare — fast fill work alongside his Tama Starclassic Performer kit" }
+            { name: "Joey Jordison", band: "Slipknot", note: "Signature 13\"x6.5\" snare — fast fill work alongside his Pearl Reference Series kit" }
           ],
           verdict: "Best for drummers prioritizing rapid fill articulation over maximum diameter and crack.",
           rating: 4.4,
@@ -82508,7 +82508,7 @@ The reduced diameter speeds up stick rebound and fill turnaround without sacrifi
     faq: [
       {
         question: "What snare drum does Joey Jordison use?",
-        answer: "Joey Jordison's Pearl Free-Floating steel snare was central to Slipknot's aggressive nu-metal attack — the free-floating design eliminates shell dampening for maximum resonance and ghost-note sensitivity. He also used a signature Pearl 13\"x6.5\" snare alongside his Tama Starclassic Performer kit for faster, machine-gun-style fill work."
+        answer: "Joey Jordison's Pearl Free-Floating steel snare was central to Slipknot's aggressive nu-metal attack — the free-floating design eliminates shell dampening for maximum resonance and ghost-note sensitivity. He also used a signature Pearl 13\"x6.5\" snare alongside his Pearl Reference Series kit for faster, machine-gun-style fill work."
       },
       {
         question: "What snare drum does John Otto use?",
@@ -94063,7 +94063,7 @@ For most deathcore drummers, start with a standard Vic Firth or Vater 5B to find
     // SEO metadata
     title: "Best Drumsticks for Nu-Metal: 2026 Ultimate Guide",
     metaTitle: "Best Drumsticks for Nu-Metal 2026 | MetalForge Expert Guide",
-    description: "Best drumsticks for nu-metal drumming: what Joey Jordison (Zildjian Z5A), Ray Luzier (Vic Firth Signature), Shannon Larkin (Promark Signature), and John Otto (Vic Firth 5B) actually play. Thicker sticks for groove-based power and explosive impact — ranked budget to pro.",
+    description: "Best drumsticks for nu-metal drumming: what Joey Jordison (Promark TX515W Signature), Ray Luzier (Vic Firth Signature), Shannon Larkin (Promark Signature), and John Otto (Vic Firth 5B) actually play. Thicker sticks for groove-based power and explosive impact — ranked budget to pro.",
     seoKeywords: [
       'best drumsticks for nu metal',
       'nu metal drumsticks',
@@ -94071,7 +94071,7 @@ For most deathcore drummers, start with a standard Vic Firth or Vater 5B to find
       'ray luzier drumsticks korn',
       'shannon larkin drumsticks godsmack',
       'john otto drumsticks limp bizkit',
-      'zildjian z5a drumsticks',
+      'promark tx515w drumsticks',
       'best sticks for groove metal power',
       'thick drumsticks for nu metal grooves',
       'vic firth ray luzier signature'
@@ -94100,14 +94100,14 @@ For most deathcore drummers, start with a standard Vic Firth or Vater 5B to find
       title: "Why Nu-Metal Rewards a Thicker, Groove-First Stick",
       content: `Nu-metal built its identity on groove over speed — down-tuned, mid-tempo riffs that lock a drummer's pocket to the guitar rather than chasing blast-beat tempo. That priority shows up directly in stick choice: nu-metal's most influential drummers favor thicker diameters that drive explosive, radio-ready impact into every accented hit, rather than the lighter, speed-tuned sticks extreme metal depends on.
 
-Joey Jordison of Slipknot used Zildjian sticks throughout his most celebrated recordings, choosing the power and consistency his explosive, technically demanding playing required. Ray Luzier of Korn plays his own Vic Firth signature stick, built for the driving low-end power Korn's groove-locked riffing demands. Shannon Larkin of Godsmack plays his own Promark signature stick, delivering the explosive, radio-ready punch behind two decades of multi-platinum records. John Otto of Limp Bizkit anchors his groove-first playing on a standard Vic Firth American Classic 5B, prioritizing raw diameter for maximum accent impact.
+Joey Jordison of Slipknot played his own Promark TX515W signature stick from 2008 onward, a long-tapered 5A-class model chosen for the reach and speed his explosive, technically demanding playing required across his massive kit. Ray Luzier of Korn plays his own Vic Firth signature stick, built for the driving low-end power Korn's groove-locked riffing demands. Shannon Larkin of Godsmack plays his own Promark signature stick, delivering the explosive, radio-ready punch behind two decades of multi-platinum records. John Otto of Limp Bizkit anchors his groove-first playing on a standard Vic Firth American Classic 5B, prioritizing raw diameter for maximum accent impact.
 
 This guide covers what actually makes a stick work for nu-metal's groove-first, power-driven demands, what the genre's most influential drummers actually play, and concrete recommendations from budget to pro.`,
       keyPoints: [
         "Nu-metal's groove-locked, mid-tempo riffing rewards stick mass over blast-beat speed",
-        "Joey Jordison's Zildjian Z5A and John Otto's Vic Firth 5B both favor a thicker, power-first diameter",
-        "Ray Luzier's and Shannon Larkin's signature sticks are purpose-built for driving, radio-ready impact",
-        "5B-class diameter is the nu-metal standard, with signature models adding tuned tip shapes for extra cutting power"
+        "Joey Jordison's Promark TX515W favors reach and speed, while John Otto's Vic Firth 5B favors raw power-first diameter",
+        "Ray Luzier's, Shannon Larkin's, and Joey Jordison's signature sticks are each purpose-built for their own band's demands",
+        "5A/5B-class diameter covers the nu-metal range, with signature models adding tuned tip shapes or tapers for extra cutting power or reach"
       ]
     },
 
@@ -94118,7 +94118,7 @@ This guide covers what actually makes a stick work for nu-metal's groove-first, 
         {
           name: "Diameter and Groove Power",
           icon: "📏",
-          description: "Nu-metal's mid-tempo, riff-locked patterns reward a thicker stick that drives real force into accented downbeats. Joey Jordison's Zildjian Z5A and John Otto's Vic Firth 5B both sit at a power-first diameter built for exactly this kind of explosive impact.",
+          description: "Nu-metal's mid-tempo, riff-locked patterns reward a thicker stick that drives real force into accented downbeats. John Otto's Vic Firth 5B sits at a power-first diameter built for exactly this kind of explosive impact, while Joey Jordison's slightly slimmer 5A-class Promark TX515W trades some diameter for reach and speed.",
           recommendation: "5B-class diameter for maximum groove-driven accent power"
         },
         {
@@ -94148,8 +94148,8 @@ This guide covers what actually makes a stick work for nu-metal's groove-first, 
         {
           name: "Signature vs Standard",
           icon: "🎯",
-          description: "Nu-metal splits between drummers on purpose-built signature sticks (Ray Luzier, Shannon Larkin) and drummers on standard or brand-endorsed sizes (Joey Jordison, John Otto). Both approaches are proven at the genre's highest level.",
-          recommendation: "Standard 5B is a fully valid choice; a signature model is worth it for tuned cutting power"
+          description: "Nu-metal splits between drummers on purpose-built signature sticks (Joey Jordison, Ray Luzier, Shannon Larkin) and drummers on standard sizes (John Otto). Both approaches are proven at the genre's highest level.",
+          recommendation: "Standard 5B is a fully valid choice; a signature model is worth it for a tuned taper or cutting power"
         }
       ]
     },
@@ -94160,40 +94160,42 @@ This guide covers what actually makes a stick work for nu-metal's groove-first, 
       pedals: [
         {
           rank: 1,
-          name: "Zildjian Z5A",
-          brand: "Zildjian",
-          model: "Z5A Wood Tip",
+          name: "Promark TX515W Joey Jordison Signature",
+          brand: "Promark",
+          model: "TX515W Joey Jordison Signature",
           image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Drumsticks.jpg/640px-Drumsticks.jpg",
-          priceRange: "€11-16 (pair)",
+          priceRange: "€12-16 (pair)",
           tier: "pro",
           material: "Hickory",
 
-          description: `The Zildjian Z5A is Zildjian's 5A-based metal-focused model, with hickory construction and a design optimized for the power demands of nu-metal's dense, groove-locked arrangements.
+          description: `Joey Jordison's own Promark TX515W signature stick, which he switched to in 2008 after starting his career on aluminum-core Ahead sticks. The 515 design — based on Promark's 747 model but slightly shorter — pairs a long taper with a round wood tip, giving Jordison reach and speed across his massive kit for Slipknot's most percussion-dense arrangements.
 
-Zildjian's stick manufacturing draws on the company's centuries of sound expertise, shaping how the Z5A's tip projects on cymbals across dense, percussion-heavy nu-metal mixes.`,
+The long taper concentrates mass toward the tip for a fast, articulate stroke, while the round wood tip delivers clear cymbal articulation even at Jordison's fastest blast-beat tempos.`,
 
           pros: [
-            "Metal-focused 5A-based diameter with added power",
+            "Joey Jordison's own signature model — his stick since 2008",
             "Hickory construction for durability under heavy nu-metal playing",
-            "Tip shape optimized for cymbal projection in dense mixes",
-            "Good balance of power and response",
-            "Zildjian manufacturing quality"
+            "Long taper adds reach and speed across a large kit",
+            "Round wood tip gives clear cymbal articulation at high velocity",
+            "Accessible signature pricing"
           ],
           cons: [
-            "Less distinctive than Promark or Vic Firth in the 5A/5B range",
-            "Premium branding adds to cost slightly"
+            "Slimmer 5A-class diameter than a full 5B for drummers wanting maximum weight",
+            "Limited availability since Jordison's passing in 2021 — verify stock before buying"
           ],
           specs: {
             material: "Hickory",
-            diameter: "0.580\"",
+            diameter: "0.551\"",
             length: "16\"",
-            tip: "Acorn (wood)",
+            tip: "Round (wood)",
             grip: "Lacquered"
           },
-          usedBy: [],
-          verdict: "A metal-focused 5A-based stick with strong cymbal projection — a solid all-round nu-metal pick.",
+          usedBy: [
+            { name: "Joey Jordison", band: "Slipknot", note: "Promark TX515W signature — his stick since 2008" }
+          ],
+          verdict: "Jordison's own signature model — a long-tapered 5A-class stick built for reach and speed across a big kit.",
           rating: 4.6,
-          affiliateLink: "https://www.thomann.de/intl/zildjian_z5a.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/promark_tx515w_joey_jordison_signature.htm?partner_id=metalforge"
         },
         {
           rank: 2,
@@ -94354,21 +94356,21 @@ Otto's choice reinforces that nu-metal's explosive template doesn't strictly req
     // Comparison section
     comparison: {
       title: "Signature vs Standard Sticks for Nu-Metal",
-      content: `Nu-metal's most influential drummers split between purpose-built signature sticks and proven standard or brand-endorsed sizes — here's the honest breakdown:
+      content: `Nu-metal's most influential drummers split between purpose-built signature sticks and a proven standard size — here's the honest breakdown:
 
-**Signature Models (Vic Firth Ray Luzier, Promark Shannon Larkin):**
-- Engineered around a specific drummer's groove-first, radio-ready attack
-- Tuned tip shapes add cutting definition through dense, down-tuned mixes
-- Preferred by: Ray Luzier, Shannon Larkin
+**Signature Models (Promark Joey Jordison, Vic Firth Ray Luzier, Promark Shannon Larkin):**
+- Engineered around a specific drummer's own attack, taper, and tip
+- Tuned tip shapes and tapers add cutting definition or reach through dense, down-tuned mixes
+- Preferred by: Joey Jordison, Ray Luzier, Shannon Larkin
 
-**Standard/Endorsed Sizes (Zildjian Z5A, Vic Firth 5B):**
+**Standard Size (Vic Firth 5B):**
 - Broadly proven, widely available, and more affordable
-- Joey Jordison's and John Otto's picks show maximum standard diameter alone delivers real accent impact
-- Preferred by: Joey Jordison, John Otto
+- John Otto's pick shows maximum standard diameter alone delivers real accent impact
+- Preferred by: John Otto
 
-**The Truth:** Both approaches work at nu-metal's highest level. Ray Luzier's and Shannon Larkin's signature sticks exist because their groove-first material rewards a tuned tip and diameter for maximum cutting power. Joey Jordison's and John Otto's standard picks show raw diameter alone can carry nu-metal's explosive, riff-locked demands.
+**The Truth:** Both approaches work at nu-metal's highest level. Ray Luzier's, Shannon Larkin's, and Joey Jordison's signature sticks exist because each drummer's material rewards a tuned tip, taper, or diameter for maximum cutting power or reach. John Otto's standard pick shows raw diameter alone can carry nu-metal's explosive, riff-locked demands.
 
-**Our Recommendation:** Start with a standard Vic Firth or Zildjian 5A/5B to find your baseline feel. If you're chasing extra cutting definition through a dense, down-tuned mix, a signature model like Ray Luzier's or Shannon Larkin's is worth the upgrade.`,
+**Our Recommendation:** Start with a standard Vic Firth 5A/5B to find your baseline feel. If you're chasing extra cutting definition or reach through a dense, down-tuned mix, a signature model like Jordison's, Luzier's, or Larkin's is worth the upgrade.`,
       comparisonTable: [
         { feature: "Groove-Locked Accent Power", wood: "⭐⭐⭐⭐⭐", aluminum: "⭐⭐⭐" },
         { feature: "Cutting Definition", wood: "⭐⭐⭐⭐", aluminum: "⭐⭐⭐⭐⭐" },
@@ -94384,8 +94386,8 @@ Otto's choice reinforces that nu-metal's explosive template doesn't strictly req
       picks: [
         {
           category: "Best Overall",
-          pedal: "Zildjian Z5A",
-          reason: "Joey Jordison's Slipknot weapon — proven power and cymbal projection through dense mixes."
+          pedal: "Promark TX515W Joey Jordison Signature",
+          reason: "Joey Jordison's Slipknot weapon — reach and speed across a massive kit."
         },
         {
           category: "Best for Groove-Locked Power",
@@ -94413,7 +94415,7 @@ Otto's choice reinforces that nu-metal's explosive template doesn't strictly req
       'best-snare-drums-for-nu-metal'
     ],
     relatedDrummers: [
-      { slug: 'joey-jordison', name: 'Joey Jordison', reason: 'Zildjian Z5A — Slipknot explosive, technically demanding playing' },
+      { slug: 'joey-jordison', name: 'Joey Jordison', reason: 'Promark TX515W signature — Slipknot reach and speed' },
       { slug: 'ray-luzier', name: 'Ray Luzier', reason: 'Vic Firth signature — Korn groove-locked driving power' },
       { slug: 'shannon-larkin', name: 'Shannon Larkin', reason: 'Promark signature — Godsmack radio-ready punch' },
       { slug: 'john-otto', name: 'John Otto', reason: 'Vic Firth American Classic 5B — Limp Bizkit groove-first weight' }
@@ -94421,7 +94423,7 @@ Otto's choice reinforces that nu-metal's explosive template doesn't strictly req
 
     // Featured drummers (issue template)
     featuredDrummers: [
-      { slug: 'joey-jordison', name: 'Joey Jordison', reason: 'Zildjian Z5A — Slipknot\'s explosive, technically demanding catalog' },
+      { slug: 'joey-jordison', name: 'Joey Jordison', reason: 'Promark TX515W signature — Slipknot\'s explosive, technically demanding catalog' },
       { slug: 'ray-luzier', name: 'Ray Luzier', reason: 'Vic Firth signature — Korn\'s groove-locked, down-tuned power' },
       { slug: 'shannon-larkin', name: 'Shannon Larkin', reason: 'Promark signature — Godsmack\'s multi-platinum radio-ready catalog' },
       { slug: 'john-otto', name: 'John Otto', reason: 'Vic Firth American Classic 5B — Limp Bizkit\'s iconic nu-metal groove' }
@@ -94432,7 +94434,7 @@ Otto's choice reinforces that nu-metal's explosive template doesn't strictly req
     faq: [
       {
         question: "What drumsticks does Joey Jordison use?",
-        answer: "Joey Jordison of Slipknot used Zildjian sticks, specifically the Z5A, throughout his most celebrated recordings — a 5A-based, hickory-construction model optimized for the power and consistency his explosive playing required."
+        answer: "Joey Jordison of Slipknot played his own Promark TX515W signature stick from 2008 onward — a 5A-class, hickory-construction model with a long taper and round wood tip, optimized for the reach and speed his explosive playing required across a large kit. Earlier in his career he used aluminum-core Ahead sticks."
       },
       {
         question: "What drumsticks does Ray Luzier use?",
@@ -94440,7 +94442,7 @@ Otto's choice reinforces that nu-metal's explosive template doesn't strictly req
       },
       {
         question: "What's the best drumstick diameter for nu-metal?",
-        answer: "A 5A-to-5B diameter range covers nu-metal's demands well. John Otto's standard Vic Firth 5B and Joey Jordison's Zildjian Z5A both sit in this range, delivering the explosive accent power the genre's groove-locked riffing rewards."
+        answer: "A 5A-to-5B diameter range covers nu-metal's demands well. John Otto's standard Vic Firth 5B sits at the power-first end of that range, while Joey Jordison's Promark TX515W sits at the 5A-class end, trading some diameter for reach and speed."
       },
       {
         question: "What drumsticks does Shannon Larkin use?",
@@ -94448,16 +94450,16 @@ Otto's choice reinforces that nu-metal's explosive template doesn't strictly req
       },
       {
         question: "Do nu-metal drummers need thicker sticks than extreme metal drummers?",
-        answer: "Often, yes. Nu-metal's groove-locked, mid-tempo riffing rewards stick mass over blast-beat speed, which is why John Otto's and Joey Jordison's picks both sit at a 5A/5B diameter rather than the lighter sticks extreme metal's blast-beat drummers favor."
+        answer: "Often, yes. Nu-metal's groove-locked, mid-tempo riffing rewards stick mass over blast-beat speed, which is why John Otto's pick sits at a full 5B diameter rather than the lighter sticks extreme metal's blast-beat drummers favor — though Joey Jordison's 5A-class Promark TX515W shows reach and taper can substitute for raw diameter."
       }
     ],
 
     // Conclusion
     conclusion: {
       title: "Find Your Nu-Metal Stick",
-      content: `Nu-metal's stick choices reflect the genre's core identity: groove and pocket over blast-beat speed. Joey Jordison's Zildjian Z5A and John Otto's standard Vic Firth 5B both prove that a well-chosen power-first diameter carries the genre's explosive, riff-locked demands. Ray Luzier's and Shannon Larkin's signature sticks add a tuned tip on top of that same foundation, for drummers chasing extra cutting definition through a dense, down-tuned mix.
+      content: `Nu-metal's stick choices reflect the genre's core identity: groove and pocket over blast-beat speed. John Otto's standard Vic Firth 5B proves that a well-chosen power-first diameter carries the genre's explosive, riff-locked demands. Joey Jordison's, Ray Luzier's, and Shannon Larkin's signature sticks each add a tuned tip or taper on top of that same foundation, for drummers chasing extra cutting definition or reach through a dense, down-tuned mix.
 
-For most nu-metal drummers, start with a standard Vic Firth or Zildjian 5A/5B to find your baseline feel. If you want more cutting power through a heavily down-tuned mix, a signature model like Ray Luzier's or Shannon Larkin's is worth the upgrade.
+For most nu-metal drummers, start with a standard Vic Firth 5A/5B to find your baseline feel. If you want more cutting power or reach through a heavily down-tuned mix, a signature model like Jordison's, Luzier's, or Larkin's is worth the upgrade.
 
 🤘 **Find the pocket. Drive the groove. Cut through the mix.**`
     }
@@ -105282,14 +105284,14 @@ Start with a linked double pedal unless you have a specific reason to separate y
       title: "Why Nu-Metal Values Durability and Feel Over Extreme Speed",
       content: `Nu-metal's grooves are built on pocket, syncopation, and heavy downtuned riffing — not blast-beat velocity. That means most nu-metal drummers don't need a pedal engineered purely for extreme top-end speed. What matters more is reliability night after night on tour, a punchy beater that cuts through processed, downtuned guitar tone, and genuine value, since nu-metal's groove-first patterns don't demand the priciest direct-drive hardware on the market.
 
-Joey Jordison is the clear exception — his Axis A Longboard double pedal powered Slipknot's explosive, theatrical double-bass work and blast beats on the band's rotating drum riser. But John Otto built Limp Bizkit's entire hip-hop-informed sound around a single bass drum pedal rather than the double-kick norm of the era, proving groove and feel matter more than raw speed. Ray Luzier bridges the two philosophies in Korn, running a DW 9002 double pedal to deliver the powerful, syncopated kick patterns that anchor Korn's dense productions without chasing extreme-metal speed specs.
+Joey Jordison is the clear exception — his Pearl Demon Drive double pedal powered Slipknot's explosive, theatrical double-bass work and blast beats on the band's rotating drum riser. But John Otto built Limp Bizkit's entire hip-hop-informed sound around a single bass drum pedal rather than the double-kick norm of the era, proving groove and feel matter more than raw speed. Ray Luzier bridges the two philosophies in Korn, running a DW 9002 double pedal to deliver the powerful, syncopated kick patterns that anchor Korn's dense productions without chasing extreme-metal speed specs.
 
 This guide covers what actually makes a pedal work for nu-metal's groove-first demands, with recommendations that prioritize durability and value across every budget.`,
       keyPoints: [
         "Nu-metal's groove-first, downtuned grooves generally prioritize durability and value over extreme double-bass speed",
         "John Otto's single-pedal setup shows groove and feel can matter more than raw speed on some of nu-metal's biggest records",
         "Ray Luzier's DW 9002 double pedal drives Korn's powerful, syncopated kick patterns without chasing speed specs",
-        "Joey Jordison's Axis A Longboard remains the exception for drummers chasing genuine extreme-speed double bass"
+        "Joey Jordison's Pearl Demon Drive remains the exception for drummers chasing genuine extreme-speed double bass"
       ]
     },
 
@@ -105445,19 +105447,19 @@ It won't match a Speed Cobra or Axis pedal for outright speed, but for nu-metal'
         },
         {
           rank: 4,
-          name: "Axis A Longboard",
-          brand: "Axis Percussion",
-          model: "A Longboard Double Pedal",
+          name: "Pearl Demon Drive",
+          brand: "Pearl",
+          model: "P3002D Demon Drive",
           image: "https://upload.wikimedia.org/wikipedia/commons/7/74/Dixon-double-pedal.jpg",
-          priceRange: "€550-650",
+          priceRange: "€500-600",
           tier: "premium",
-          driveType: "Direct Drive (Longboard)",
-          description: `Joey Jordison drove Slipknot's explosive, theatrical double bass work on Axis A Longboard double pedals. The extended longboard footboard design gave him the leverage and speed required for the extreme double-kick patterns and blast beats he performed live on the band's rotating drum riser — the clear exception to nu-metal's typical groove-first pedal demands.
+          driveType: "Direct Drive",
+          description: `Joey Jordison drove Slipknot's explosive, theatrical double bass work on Pearl Demon Drive double pedals since 2010. The direct drive action and NiNjA bearing system gave him the leverage and speed required for the extreme double-kick patterns and blast beats he performed live on the band's rotating drum riser — the clear exception to nu-metal's typical groove-first pedal demands.
 
 If your nu-metal material genuinely calls for extreme double-kick speed rather than groove and pocket, this is the pedal that proved it could be done at the genre's highest level.`,
           pros: [
-            "Joey Jordison's setup — powering Slipknot's most extreme double-kick work",
-            "Extended longboard footboard for maximum leverage and speed",
+            "Joey Jordison's setup since 2010 — powering Slipknot's most extreme double-kick work",
+            "PowerShifter longboard footboard for maximum leverage and speed",
             "Direct drive delivers instant, linear response",
             "Proven reliability across Slipknot's most demanding tours"
           ],
@@ -105467,18 +105469,18 @@ If your nu-metal material genuinely calls for extreme double-kick speed rather t
             "Direct drive takes real adjustment time coming from chain drive"
           ],
           specs: {
-            drive: "Direct Drive (Longboard)",
+            drive: "Direct Drive (interchangeable cams)",
             cam: "Eccentric cam",
             frame: "Aircraft-grade aluminum",
-            beater: "Axis Sonic Hammer",
-            footboard: "Variable length longboard"
+            beater: "Demon Beater (reversible)",
+            footboard: "PowerShifter Longboard"
           },
           usedBy: [
-            { name: "Joey Jordison", band: "Slipknot", note: "Axis A Longboard — extreme double-kick and blast-beat work" }
+            { name: "Joey Jordison", band: "Slipknot", note: "Pearl Demon Drive — extreme double-kick and blast-beat work, since 2010" }
           ],
           verdict: "The exception, not the rule — for nu-metal drummers who genuinely need extreme double-bass speed.",
           rating: 4.5,
-          affiliateLink: "https://www.thomann.de/intl/axis_a_longboard_double_pedal.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/pearl_demon_drive_double_pedal.htm?partner_id=metalforge"
         }
       ]
     },
@@ -105563,7 +105565,7 @@ If your nu-metal material genuinely calls for extreme double-kick speed rather t
       'best-snare-drums-for-nu-metal'
     ],
     relatedDrummers: [
-      { slug: 'joey-jordison', name: 'Joey Jordison', reason: 'Axis A Longboard — Slipknot extreme double-kick and blast-beat work' },
+      { slug: 'joey-jordison', name: 'Joey Jordison', reason: 'Pearl Demon Drive — Slipknot extreme double-kick and blast-beat work' },
       { slug: 'john-otto', name: 'John Otto', reason: 'Single-pedal setup — Limp Bizkit groove-first approach' },
       { slug: 'ray-luzier', name: 'Ray Luzier', reason: 'DW 9002 double pedal — Korn syncopated groove' }
     ],
@@ -105589,7 +105591,7 @@ If your nu-metal material genuinely calls for extreme double-kick speed rather t
       },
       {
         question: "What pedal does Joey Jordison use?",
-        answer: "Joey Jordison drove Slipknot's explosive double bass work on Axis A Longboard double pedals. The extended longboard footboard gave him the leverage and speed for the extreme kick patterns and blast beats he performed live on the band's rotating drum riser."
+        answer: "Joey Jordison drove Slipknot's explosive double bass work on Pearl Demon Drive double pedals. The extended longboard footboard gave him the leverage and speed for the extreme kick patterns and blast beats he performed live on the band's rotating drum riser."
       },
       {
         question: "What's the best budget bass drum pedal for nu-metal?",
@@ -105600,7 +105602,7 @@ If your nu-metal material genuinely calls for extreme double-kick speed rather t
     // Conclusion
     conclusion: {
       title: "Build Your Nu-Metal Pedal Setup",
-      content: `Nu-metal's pedal choice comes down to what your material actually demands, and most of the time that's durability and feel rather than extreme speed. John Otto proved that a single, well-calibrated pedal can anchor three decades of groove-first, hip-hop-influenced hits. Ray Luzier's DW 9002 shows a syncopated middle ground that drives Korn's dense productions without chasing raw double-bass velocity. Joey Jordison's Axis A Longboard remains the clear exception, proving extreme speed is available if your material genuinely calls for it.
+      content: `Nu-metal's pedal choice comes down to what your material actually demands, and most of the time that's durability and feel rather than extreme speed. John Otto proved that a single, well-calibrated pedal can anchor three decades of groove-first, hip-hop-influenced hits. Ray Luzier's DW 9002 shows a syncopated middle ground that drives Korn's dense productions without chasing raw double-bass velocity. Joey Jordison's Pearl Demon Drive remains the clear exception, proving extreme speed is available if your material genuinely calls for it.
 
 Start with whichever approach matches your material's demands — groove and durability, or genuine double-kick speed — and don't be afraid to prioritize a reliable, affordable pedal over a premium one nu-metal's grooves rarely need.
 

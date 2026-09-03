@@ -80603,7 +80603,7 @@ Budget shouldn't stop you either. A Pearl Demonator or Tama Iron Cobra 600 will 
     // SEO metadata
     title: "Best Snare Drums for Power Metal: 2026 Ultimate Guide",
     metaTitle: "Best Snare Drums for Power Metal 2026 | MetalForge Expert Guide",
-    description: "Best snare drums for power metal drumming: what Scott Travis (Tama Starphonic Brass), Aquiles Priester (Trick Drums Custom), Nicko McBrain (Sonor Signature), and Mikkey Dee (Pearl Free-Floating) actually play. Bright, cutting projection for power metal's soaring, high-tempo anthems — ranked budget to pro.",
+    description: "Best snare drums for power metal drumming: what Scott Travis (Tama Starphonic Brass), Aquiles Priester (Trick Drums Custom), Nicko McBrain (Sonor Signature), and Mikkey Dee (Sonor Signature Birch) actually play. Bright, cutting projection for power metal's soaring, high-tempo anthems — ranked budget to pro.",
     seoKeywords: [
       'best snare drums for power metal',
       'power metal snare drum',
@@ -80640,7 +80640,7 @@ Budget shouldn't stop you either. A Pearl Demonator or Tama Iron Cobra 600 will 
       title: "Why Power Metal Needs a Bright, Cutting Snare",
       content: `Power metal's soaring vocal melodies, galloping riffs, and sustained double-bass patterns need a snare that cuts through a dense, often orchestral or keyboard-heavy mix without ever sounding harsh. That means power metal drummers generally favor brighter, more cutting tones than doom or sludge metal's deep, resonant approach — a snare voice built to punctuate anthemic choruses and stay articulate at high tempos.
 
-Scott Travis has run a Tama Starphonic Brass 14"x6" snare since returning to Tama for Judas Priest's "Firepower" (2018), carrying through to "Invincible Shield" (2024). Aquiles Priester's Trick Drums Custom 14"x6.5" snare gives Angra's neoclassical, high-tempo material its cutting attack. Nicko McBrain's Sonor Nicko McBrain Signature 14"x6.5" snare has anchored Iron Maiden's galloping anthems from "Virtual XI" (1998) through "Senjutsu" (2021). Mikkey Dee's Pearl Free-Floating 14"x6.5" snare, alternating steel and maple shells, carried 23 years with Motörhead and now Scorpions.
+Scott Travis has run a Tama Starphonic Brass 14"x6" snare since returning to Tama for Judas Priest's "Firepower" (2018), carrying through to "Invincible Shield" (2024). Aquiles Priester's Trick Drums Custom 14"x6.5" snare gives Angra's neoclassical, high-tempo material its cutting attack. Nicko McBrain's Sonor Nicko McBrain Signature 14"x6.5" snare has anchored Iron Maiden's galloping anthems from "Virtual XI" (1998) through "Senjutsu" (2021). Mikkey Dee's Sonor Mikkey Dee Signature 14"x7.25" birch snare, released in 2012 on his longtime Sonor SQ2 endorsement, carried him through his final years with Motörhead and now anchors his kit with Scorpions.
 
 This guide breaks down shell material, brightness, and projection for power metal snares — comparing four drummers whose setups define the genre's cutting, anthemic sound, with recommendations from budget to professional touring rigs.`,
       keyPoints: [
@@ -80658,7 +80658,7 @@ This guide breaks down shell material, brightness, and projection for power meta
         {
           name: "Bright, Cutting Shell Material",
           icon: "🔆",
-          description: "Scott Travis's brass-shell Tama Starphonic and Mikkey Dee's steel/maple alternating Pearl Free-Floating both prioritize a bright, cutting tone that projects clearly against power metal's often orchestral or keyboard-heavy arrangements.",
+          description: "Scott Travis's brass-shell Tama Starphonic and Mikkey Dee's birch-shell Sonor Signature both prioritize a bright, cutting tone that projects clearly against power metal's often orchestral or keyboard-heavy arrangements.",
           recommendation: "Brass or steel shells for maximum brightness and cut through dense, layered mixes"
         },
         {
@@ -80670,8 +80670,8 @@ This guide breaks down shell material, brightness, and projection for power meta
         {
           name: "Signature Depth for Anthemic Backbeats",
           icon: "📏",
-          description: "Nicko McBrain and Mikkey Dee both favor a 14x6.5\" depth, giving their backbeats enough body to punctuate power metal's anthemic choruses without sacrificing the genre's essential brightness.",
-          recommendation: "14x6.5\" depth balances anthemic body with bright, cutting projection"
+          description: "Nicko McBrain favors a 14x6.5\" depth, while Mikkey Dee runs even deeper at 14x7.25\", both giving their backbeats enough body to punctuate power metal's anthemic choruses without sacrificing the genre's essential brightness.",
+          recommendation: "14x6.5\"-7.25\" depth range balances anthemic body with bright, cutting projection"
         },
         {
           name: "Sensitivity for Galloping Patterns",
@@ -80682,7 +80682,7 @@ This guide breaks down shell material, brightness, and projection for power meta
         {
           name: "Touring Durability",
           icon: "🛡️",
-          description: "Power metal bands tour relentlessly across festival circuits worldwide. Mikkey Dee's Pearl Free-Floating snare has held up across 23 years with Motörhead and now Scorpions — proof that a well-built shell can last decades on the road.",
+          description: "Power metal bands tour relentlessly across festival circuits worldwide. Mikkey Dee's Sonor Signature snare, built on an endorsement dating back to his King Diamond days, has held up across decades with Motörhead and now Scorpions — proof that a well-built shell can last decades on the road.",
           recommendation: "Reinforced hoops and quality throw-offs that hold tuning through relentless touring"
         },
         {
@@ -80780,43 +80780,43 @@ McBrain's decades-long partnership with this signature spec proves a steel shell
         },
         {
           rank: 3,
-          name: "Pearl Free-Floating",
-          brand: "Pearl",
-          model: "Free-Floating 14\"x6.5\" (Steel/Maple)",
+          name: "Sonor Mikkey Dee Signature",
+          brand: "Sonor",
+          model: "Mikkey Dee Signature 14\"x7.25\" (Birch)",
           image: "https://upload.wikimedia.org/wikipedia/commons/a/ac/Drums_01.jpg",
-          priceRange: "€350-500",
-          tier: "pro",
-          material: "Steel/Maple (Free-Floating, alternating)",
+          priceRange: "€400-550",
+          tier: "premium",
+          material: "Birch (14x7.25\")",
 
-          description: `Mikkey Dee's Pearl Free-Floating 14"x6.5" snare, alternating between steel and maple shells depending on the material, carried him through 23 years with Motörhead — including the band's Grammy-winning "Bad Magic" (2015) — and now continues with Scorpions. The free-floating design isolates the shell from the rim and hardware, maximizing resonance and sensitivity.
+          description: `Mikkey Dee's Sonor Mikkey Dee Signature 14"x7.25" birch snare, released in 2012, is built on his longtime Sonor SQ2 endorsement dating back to his King Diamond days. It carried him through his final years with Motörhead and now anchors his kit with Scorpions. The deeper birch shell adds extra anthemic body without sacrificing the genre's essential brightness.
 
-Dee's alternating-shell approach shows how a versatile free-floating platform can flex between steel's bright cut and maple's warmer body depending on a track's specific needs.`,
+Dee's decades-long Sonor partnership — spanning three bands and over 30 years — shows how a deep, birch-shell signature snare can hold up across power metal's most demanding touring schedules.`,
 
           pros: [
-            "Mikkey Dee's Motörhead/Scorpions setup — 23 years of proven touring pedigree",
-            "Free-floating design maximizes resonance and sensitivity",
-            "Alternating steel/maple shells offer tonal flexibility",
-            "Proven across Motörhead's Grammy-winning \"Bad Magic\" (2015)",
-            "Isolation mounting reduces unwanted overtone bleed from hardware"
+            "Mikkey Dee's current Motörhead/Scorpions signature setup — decades of Sonor pedigree",
+            "Deeper 7.25\" shell adds extra anthemic body",
+            "Birch shell delivers warm punch alongside bright, cutting projection",
+            "Built on Dee's Sonor SQ2 endorsement dating back to his King Diamond years",
+            "Sonor build quality proven across decades of touring"
           ],
           cons: [
-            "Premium pricing for the free-floating hardware system",
-            "Free-floating design requires more careful tuning maintenance",
-            "Owning both shell options adds to overall cost"
+            "Signature pricing above generic steel alternatives",
+            "Deeper shell may feel less nimble for drummers used to shallower snares",
+            "Limited availability outside signature production runs"
           ],
           specs: {
-            shell: "Steel/Maple Free-Floating",
+            shell: "Birch (Signature)",
             diameter: "14\"",
-            depth: "6.5\"",
-            throwOff: "Pearl UltraCast",
+            depth: "7.25\"",
+            throwOff: "Sonor TuneSafe",
             wires: "20-strand"
           },
           usedBy: [
-            { name: "Mikkey Dee", band: "Motörhead / Scorpions", note: "14x6.5\" Pearl Free-Floating — alternating steel/maple versatility" }
+            { name: "Mikkey Dee", band: "Motörhead / Scorpions", note: "14x7.25\" Sonor Signature — deep birch shell for anthemic body since 2012" }
           ],
-          verdict: "Best for versatile tonal flexibility. Dee's alternating shells prove one platform can cover multiple voicings.",
+          verdict: "Best for anthemic body alongside bright projection. Dee's decades-long Sonor pedigree across two legendary bands.",
           rating: 4.6,
-          affiliateLink: "https://www.thomann.de/intl/pearl_free_floating_snare.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/sonor_mikkey_dee_signature_snare.htm?partner_id=metalforge"
         },
         {
           rank: 4,
@@ -80887,10 +80887,10 @@ The custom aluminum/steel construction is built specifically for drummers who ne
           priceRange: "€90-130",
           tier: "budget",
           material: "Steel",
-          description: "The Pearl Export steel snare carries the same bright, cutting DNA as Mikkey Dee's professional Pearl Free-Floating snare at a fraction of the price. Tune it bright and tight to get closer to power metal's cutting, anthemic sound.",
-          pros: ["Same Pearl family DNA as Mikkey Dee's professional setup", "Affordable, widely available entry point", "Responsive enough to develop bright tuning technique"],
-          cons: ["Less refined projection than Free-Floating shells", "Basic hardware compared to signature models"],
-          verdict: "Best budget entry into power metal's bright, cutting Pearl sound.",
+          description: "The Pearl Export steel snare delivers the same bright, cutting steel-shell character that power metal favors, at a fraction of pro pricing. Tune it bright and tight to get closer to the genre's cutting, anthemic sound.",
+          pros: ["Bright, cutting steel-shell tone", "Affordable, widely available entry point", "Responsive enough to develop bright tuning technique"],
+          cons: ["Less refined projection than signature shells", "Basic hardware compared to signature models"],
+          verdict: "Best budget entry into power metal's bright, cutting steel sound.",
           rating: 3.9,
           affiliateLink: "https://www.thomann.de/intl/pearl_export_steel_snare.htm?partner_id=metalforge"
         }
@@ -80899,7 +80899,7 @@ The custom aluminum/steel construction is built specifically for drummers who ne
 
     // Comparison
     comparison: {
-      title: "Brass vs Steel vs Free-Floating for Power Metal",
+      title: "Brass vs Steel vs Birch for Power Metal",
       content: `Shell material and design split power metal's leading drummers into distinct camps. Here's how they compare:
 
 **Brass Shell (Scott Travis):**
@@ -80912,12 +80912,12 @@ The custom aluminum/steel construction is built specifically for drummers who ne
 - Tuned specifically for galloping, anthemic rhythms
 - Best for classic, gallop-driven power metal
 
-**Free-Floating Steel/Maple (Mikkey Dee):**
-- Tonal flexibility between bright cut and warmer body
-- Maximum resonance and sensitivity from shell isolation
-- Best for drummers who need to flex across varied material
+**Signature Birch (Mikkey Dee):**
+- Deeper 7.25" shell adds extra anthemic body
+- Decades of Sonor pedigree across Motörhead and Scorpions
+- Best for drummers who want warmth and body alongside bright projection
 
-**Our Recommendation:** Start with a bright steel shell (Tama Imperialstar or Pearl Export) if your priority is affordable, cutting projection. Choose a brass shell (Tama Starphonic) for maximum cut through the densest, most orchestral power metal arrangements. Consider a free-floating design (Pearl Free-Floating) if you want tonal flexibility across a varied setlist.`,
+**Our Recommendation:** Start with a bright steel shell (Tama Imperialstar or Pearl Export) if your priority is affordable, cutting projection. Choose a brass shell (Tama Starphonic) for maximum cut through the densest, most orchestral power metal arrangements. Consider a deeper birch signature snare (Sonor Signature) if you want extra anthemic body alongside bright projection.`,
       comparisonTable: [
         { feature: "Brightness/Cut", maple: "⭐⭐⭐", hybrid: "⭐⭐⭐⭐⭐", dual: "⭐⭐⭐⭐" },
         { feature: "Tonal Flexibility", maple: "⭐⭐⭐", hybrid: "⭐⭐⭐", dual: "⭐⭐⭐⭐⭐" },
@@ -80941,9 +80941,9 @@ The custom aluminum/steel construction is built specifically for drummers who ne
           reason: "Decades-proven cut through Iron Maiden's dual/triple-guitar galloping anthems."
         },
         {
-          category: "Best for Tonal Flexibility",
-          pedal: "Pearl Free-Floating",
-          reason: "Mikkey Dee's alternating steel/maple setup — 23 years of proven touring versatility."
+          category: "Best for Anthemic Body",
+          pedal: "Sonor Mikkey Dee Signature",
+          reason: "Mikkey Dee's deep 7.25\" birch shell — decades of proven touring pedigree across Motörhead and Scorpions."
         },
         {
           category: "Best Budget",
@@ -80963,7 +80963,7 @@ The custom aluminum/steel construction is built specifically for drummers who ne
       { slug: 'scott-travis', name: 'Scott Travis', reason: 'Tama Starphonic Brass — Judas Priest bright, cutting projection' },
       { slug: 'aquiles-priester', name: 'Aquiles Priester', reason: 'Trick Drums Custom — Angra neoclassical high-tempo attack' },
       { slug: 'nicko-mcbrain', name: 'Nicko McBrain', reason: 'Sonor Signature — Iron Maiden galloping anthem projection' },
-      { slug: 'mikkey-dee', name: 'Mikkey Dee', reason: 'Pearl Free-Floating — Motörhead/Scorpions versatile touring pedigree' }
+      { slug: 'mikkey-dee', name: 'Mikkey Dee', reason: 'Sonor Signature — Motörhead/Scorpions touring pedigree since his King Diamond days' }
     ],
 
     // Featured drummers (issue template)
@@ -80971,14 +80971,14 @@ The custom aluminum/steel construction is built specifically for drummers who ne
       { slug: 'scott-travis', name: 'Scott Travis', reason: 'Tama Starphonic Brass — Judas Priest bright, cutting projection' },
       { slug: 'aquiles-priester', name: 'Aquiles Priester', reason: 'Trick Drums Custom — Angra neoclassical high-tempo attack' },
       { slug: 'nicko-mcbrain', name: 'Nicko McBrain', reason: 'Sonor Signature — Iron Maiden galloping anthem projection' },
-      { slug: 'mikkey-dee', name: 'Mikkey Dee', reason: 'Pearl Free-Floating — Motörhead/Scorpions versatile touring pedigree' }
+      { slug: 'mikkey-dee', name: 'Mikkey Dee', reason: 'Sonor Signature — Motörhead/Scorpions touring pedigree since his King Diamond days' }
     ],
 
     // FAQ section for SEO
     faq: [
       {
         question: "Who are the best power metal drummers and what snares do they use?",
-        answer: "Scott Travis of Judas Priest plays a Tama Starphonic Brass 14x6\" snare, Aquiles Priester of Angra plays a Trick Drums Custom 14x6.5\" snare, Nicko McBrain of Iron Maiden plays a Sonor Signature 14x6.5\" snare, and Mikkey Dee of Motörhead/Scorpions plays a Pearl Free-Floating 14x6.5\" snare alternating steel and maple shells."
+        answer: "Scott Travis of Judas Priest plays a Tama Starphonic Brass 14x6\" snare, Aquiles Priester of Angra plays a Trick Drums Custom 14x6.5\" snare, Nicko McBrain of Iron Maiden plays a Sonor Signature 14x6.5\" snare, and Mikkey Dee of Motörhead/Scorpions plays a Sonor Mikkey Dee Signature 14x7.25\" birch snare."
       },
       {
         question: "What snare drum does Scott Travis use?",
@@ -80986,22 +80986,22 @@ The custom aluminum/steel construction is built specifically for drummers who ne
       },
       {
         question: "What snare depth is best for power metal?",
-        answer: "14x6.5\" is the power metal standard — Nicko McBrain and Mikkey Dee both use that depth for anthemic body with bright projection, while Scott Travis's Tama Starphonic Brass sits slightly shallower at 14x6\" for extra cut."
+        answer: "14x6.5\"-7.25\" is the power metal standard for anthemic body — Nicko McBrain runs 14x6.5\" and Mikkey Dee runs even deeper at 14x7.25\", both for body alongside bright projection, while Scott Travis's Tama Starphonic Brass sits slightly shallower at 14x6\" for extra cut."
       },
       {
         question: "Why does power metal need a brighter snare than doom or sludge metal?",
-        answer: "Power metal's dense, often orchestral or keyboard-heavy arrangements need a snare that cuts through without getting buried, unlike doom and sludge's slower, riff-driven approach that favors deep, resonant tone. Scott Travis's brass-shell Tama Starphonic and Mikkey Dee's steel-shell Pearl Free-Floating both prioritize brightness and projection over low-end weight."
+        answer: "Power metal's dense, often orchestral or keyboard-heavy arrangements need a snare that cuts through without getting buried, unlike doom and sludge's slower, riff-driven approach that favors deep, resonant tone. Scott Travis's brass-shell Tama Starphonic and Mikkey Dee's birch-shell Sonor Signature both prioritize brightness and projection over low-end weight."
       },
       {
         question: "Do I need a pro-level snare to play power metal?",
-        answer: "No — a Tama Imperialstar or Pearl Export steel snare, tuned bright and tight, will teach real power metal technique at a fraction of the price of the genre's professional Starphonic, Sonor Signature, and Free-Floating models. Upgrade once your technique and budget allow."
+        answer: "No — a Tama Imperialstar or Pearl Export steel snare, tuned bright and tight, will teach real power metal technique at a fraction of the price of the genre's professional Starphonic, Sonor Signature, and Trick Drums models. Upgrade once your technique and budget allow."
       }
     ],
 
     // Conclusion
     conclusion: {
       title: "Find Your Power Metal Snare Voice",
-      content: `Power metal snare choice comes down to how bright and cutting you need your projection to be against dense, anthemic arrangements. Scott Travis's brass-shell Tama Starphonic has defined Judas Priest's modern touring era with maximum cut. Nicko McBrain's Sonor Signature snare has powered Iron Maiden's galloping anthems for decades, while Mikkey Dee's alternating steel/maple Pearl Free-Floating shows the tonal flexibility that carried him through 23 years with Motörhead and into Scorpions. Aquiles Priester's custom Trick Drums snare rounds things out, staying articulate through Angra's most extreme sustained tempos.
+      content: `Power metal snare choice comes down to how bright and cutting you need your projection to be against dense, anthemic arrangements. Scott Travis's brass-shell Tama Starphonic has defined Judas Priest's modern touring era with maximum cut. Nicko McBrain's Sonor Signature snare has powered Iron Maiden's galloping anthems for decades, while Mikkey Dee's deep, birch-shell Sonor Signature shows the anthemic body that carried him through decades with Motörhead and into Scorpions. Aquiles Priester's custom Trick Drums snare rounds things out, staying articulate through Angra's most extreme sustained tempos.
 
 None of these approaches is more "correct" — all four represent power metal's foundational commitment to bright, cutting projection that carves through dense, layered arrangements. Start with whichever shell material matches your material's density, and don't be afraid to tune brighter and tighter than doom or sludge metal convention would suggest.
 

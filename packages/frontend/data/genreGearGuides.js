@@ -31102,12 +31102,12 @@ Start with a Meinl HCS Dark or Zildjian ZBT china to build technique across both
       title: "Why Doom Metal Chinas Favor Size and Slow Decay Over Speed",
       content: `Doom metal inverts the usual china cymbal logic. Where thrash and death metal drummers reach for a fast-decaying china to punctuate a blast beat transition, doom drummers want the opposite: a large, dark-toned china that opens up slowly and sustains through a riff that might not resolve for another sixteen bars. The instrument becomes less an accent and more a texture — a wash of controlled trash that reinforces the crushing weight of a down-tuned, half-time riff rather than cutting cleanly through it.
 
-Bill Ward built the template on Black Sabbath's Sabotage (1975) and Technical Ecstasy (1976), pairing an 18" Paiste 2002 China with his Giant Beat hi-hats and 2002 crashes — the first documented china in doom metal's cymbal vocabulary, used sparingly for maximum weight rather than constant accenting. Brann Dailor carries that lineage forward on Mastodon's Leviathan and Crack the Skye, running an 18" Meinl Byzance Extra Dry China within a Byzance setup built for aggressive, cutting punctuation across the band's progressive sludge-doom material. Danny Carey's Tool rig features 20" and 22" Paiste Signature Chinas alongside Rude crashes, giving Tool's patient, doom-adjacent build-ups room to breathe before the explosive payoff. Mario Duplantier runs dual 18" and 20" Zildjian Chinas within Gojira's tectonic, down-tuned attack — proof that a larger china pairs naturally with doom's crushing low end even outside strict genre lines.
+Bill Ward built the template on Black Sabbath's Sabotage (1975) and Technical Ecstasy (1976), pairing an 18" Zildjian Avedis China with the rest of his Avedis ride, crashes, and hi-hats — the first documented china in doom metal's cymbal vocabulary, used sparingly for maximum weight rather than constant accenting. Brann Dailor carries that lineage forward on Mastodon's Leviathan and Crack the Skye, running an 18" Meinl Byzance Extra Dry China within a Byzance setup built for aggressive, cutting punctuation across the band's progressive sludge-doom material. Danny Carey's Tool rig features 20" and 22" Paiste Signature Chinas alongside Rude crashes, giving Tool's patient, doom-adjacent build-ups room to breathe before the explosive payoff. Mario Duplantier runs dual 18" and 20" Zildjian Chinas within Gojira's tectonic, down-tuned attack — proof that a larger china pairs naturally with doom's crushing low end even outside strict genre lines.
 
 This guide covers what actually separates a doom-ready china from a standard metal china — size, decay time, and dark voicing — along with specific model recommendations across every budget.`,
       keyPoints: [
         "Doom metal chinas favor size (18\"-22\") and slow decay over the fast-attack chinas used in thrash and death metal",
-        "Bill Ward's 18\" Paiste 2002 China set doom's original template on Black Sabbath's Sabotage and Technical Ecstasy",
+        "Bill Ward's 18\" Zildjian Avedis China set doom's original template on Black Sabbath's Sabotage and Technical Ecstasy",
         "Brann Dailor's Meinl Byzance Extra Dry China and Danny Carey's Paiste Signature Chinas both prioritize sustained wash over quick accents",
         "Larger, darker-hammered chinas reinforce doom's down-tuned, half-time riffing rather than cutting through it"
       ]
@@ -31162,40 +31162,40 @@ This guide covers what actually separates a doom-ready china from a standard met
       pedals: [
         {
           rank: 1,
-          name: "Paiste 2002 China",
-          brand: "Paiste",
-          model: "18\" 2002 China",
+          name: "Zildjian Avedis China",
+          brand: "Zildjian",
+          model: "18\" Avedis China",
           image: "https://upload.wikimedia.org/wikipedia/commons/7/74/Dixon-double-pedal.jpg",
-          priceRange: "€230-280",
+          priceRange: "€200-250",
           tier: "pro",
-          driveType: "CuSn8 Bronze, Brilliant",
-          description: `Bill Ward introduced the 18" Paiste 2002 China on Black Sabbath's Sabotage (1975), continuing it into Technical Ecstasy (1976) alongside his 2002 crashes and Giant Beat hi-hats. It remains doom metal's original documented china — used sparingly for weight rather than constant accenting.
+          driveType: "B20 Bronze, Traditional",
+          description: `Bill Ward switched to Avedis Zildjian cymbals for Black Sabbath's Master of Reality (1971), carrying the setup — including an 18" china — through Sabotage (1975) and Technical Ecstasy (1976) alongside his Avedis ride, crashes, and hi-hats. It remains doom metal's original documented china — used sparingly for weight rather than constant accenting.
 
-The 2002 series' CuSn8 bronze delivers a bright but genuinely trashy voice that cuts through Sabbath's riff-driven mix without disappearing into the background, exactly the balance doom's founding drummer struck decades before the genre had a name.`,
+Avedis Zildjian's traditional B20 bronze delivers a dark, complex trash that cuts through Sabbath's riff-driven mix without disappearing into the background, exactly the balance doom's founding drummer struck decades before the genre had a name.`,
           pros: [
-            "Bill Ward's documented Black Sabbath setup since Sabotage (1975)",
-            "Bright enough to cut, trashy enough to reinforce riff weight",
-            "Proven durability across Paiste's flagship 2002 line",
+            "Bill Ward's documented Black Sabbath setup since Master of Reality (1971)",
+            "Dark, complex B20 trash reinforces riff weight",
+            "Proven durability across Zildjian's flagship Avedis line",
             "Historic doom metal china tone"
           ],
           cons: [
-            "Brighter voicing than some modern doom drummers prefer",
+            "Darker, less cutting voicing than a bright CuSn8 china",
             "Less low-end weight than a full 20\"-22\" alternative",
             "Premium pricing for an 18\" cymbal"
           ],
           specs: {
             size: "18\"",
-            alloy: "CuSn8 Bronze",
-            finish: "Brilliant",
+            alloy: "B20 Bronze",
+            finish: "Traditional",
             weight: "Medium-Heavy",
             mounting: "Standard"
           },
           usedBy: [
-            { name: "Bill Ward", band: "Black Sabbath", note: "Documented on Sabotage (1975) and Technical Ecstasy (1976)" }
+            { name: "Bill Ward", band: "Black Sabbath", note: "Documented on Sabotage (1975) and Technical Ecstasy (1976), part of his Avedis Zildjian setup since Master of Reality (1971)" }
           ],
           verdict: "The historic doom metal china — the original documented template the genre grew from.",
           rating: 4.6,
-          affiliateLink: "https://www.thomann.de/intl/paiste_2002_china_18_doom.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/zildjian_avedis_china_18_doom.htm?partner_id=metalforge"
         },
         {
           rank: 2,
@@ -31366,9 +31366,9 @@ While Gojira sits outside strict doom-metal genre lines, the dual-china, down-tu
           priceRange: "€110-140",
           tier: "budget",
           driveType: "CuSn8 Bronze",
-          description: "PST 8 shares its bronze alloy family with the pro-tier 2002 series Bill Ward built doom's original china sound on, in a more affordable construction and a full 20\" size.",
+          description: "PST 8 shares its bronze alloy family with Paiste's pro-tier 2002 and Signature series — the same CuSn8 bronze Danny Carey runs in his Tool rig — in a more affordable construction and a full 20\" size.",
           pros: [
-            "Same CuSn8 bronze family as the historic 2002 series",
+            "Same CuSn8 bronze family as Paiste's flagship 2002 and Signature lines",
             "Full 20\" size for genuine low-end weight",
             "Solid durability for the price"
           ],
@@ -31421,7 +31421,7 @@ While Gojira sits outside strict doom-metal genre lines, the dual-china, down-tu
         },
         {
           category: "Most Historic",
-          pedal: "Paiste 2002 China",
+          pedal: "Zildjian Avedis China",
           reason: "Bill Ward's original documented doom metal china, dating back to Black Sabbath's Sabotage."
         },
         {
@@ -31444,7 +31444,7 @@ While Gojira sits outside strict doom-metal genre lines, the dual-china, down-tu
       'best-crash-cymbals-for-doom-metal'
     ],
     relatedDrummers: [
-      { slug: 'bill-ward', name: 'Bill Ward', reason: 'Paiste 2002 China — doom metal\'s original documented china sound with Black Sabbath' },
+      { slug: 'bill-ward', name: 'Bill Ward', reason: 'Zildjian Avedis China — doom metal\'s original documented china sound with Black Sabbath' },
       { slug: 'brann-dailor', name: 'Brann Dailor', reason: 'Meinl Byzance Extra Dry China — Mastodon\'s progressive sludge-doom control' },
       { slug: 'danny-carey', name: 'Danny Carey', reason: 'Paiste Signature Chinas — Tool\'s patient, doom-adjacent build-ups' },
       { slug: 'mario-duplantier', name: 'Mario Duplantier', reason: 'Dual Zildjian Chinas — Gojira\'s tectonic, down-tuned weight' }
@@ -31455,7 +31455,7 @@ While Gojira sits outside strict doom-metal genre lines, the dual-china, down-tu
     faq: [
       {
         question: "What china cymbal does Bill Ward use?",
-        answer: "Bill Ward used an 18\" Paiste 2002 China on Black Sabbath's Sabotage (1975) and Technical Ecstasy (1976), alongside his 2002 crashes and Giant Beat hi-hats — doom metal's original documented china setup."
+        answer: "Bill Ward used an 18\" Zildjian Avedis China on Black Sabbath's Sabotage (1975) and Technical Ecstasy (1976), part of the Avedis Zildjian setup he'd played since Master of Reality (1971) — doom metal's original documented china setup."
       },
       {
         question: "What size china cymbal is best for doom metal?",
@@ -31478,7 +31478,7 @@ While Gojira sits outside strict doom-metal genre lines, the dual-china, down-tu
     // Conclusion
     conclusion: {
       title: "Build Your Doom Metal China Sound",
-      content: `Doom metal china choice comes down to one principle that reverses standard metal china logic: bigger and slower almost always wins. Whether you follow Bill Ward's historic 18" Paiste 2002 China, Brann Dailor's dark and controlled Meinl Byzance Extra Dry, or Danny Carey's massive 20"/22" Paiste Signature setup, the goal is the same — a china that reinforces a riff's crushing weight instead of cutting cleanly through it.
+      content: `Doom metal china choice comes down to one principle that reverses standard metal china logic: bigger and slower almost always wins. Whether you follow Bill Ward's historic 18" Zildjian Avedis China, Brann Dailor's dark and controlled Meinl Byzance Extra Dry, or Danny Carey's massive 20"/22" Paiste Signature setup, the goal is the same — a china that reinforces a riff's crushing weight instead of cutting cleanly through it.
 
 Start with a 20" in whatever alloy fits your budget, favor darker Extra Dry or Dark-hammered finishes, and don't be afraid to let the cymbal ring out longer than you would in a faster metal subgenre.
 

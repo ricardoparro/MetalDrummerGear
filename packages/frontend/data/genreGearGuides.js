@@ -22584,7 +22584,7 @@ Start with a 22"x18" maple shell and a reinforced head like the Evans EMAD or Re
     // SEO metadata
     title: "Best Bass Drums for Doom Metal: 2026 Ultimate Guide",
     metaTitle: "Best Bass Drums for Doom Metal in 2026 | MetalForge Expert Guide",
-    description: "Best bass drums for doom metal's oversized, weight-first low end. What Danny Carey (Sonor Custom), Brann Dailor (Gretsch Signature), Mario Duplantier (Tama Starclassic Bubinga), and Igor Cavalera (Yamaha Absolute Hybrid Maple) actually play — from budget to pro.",
+    description: "Best bass drums for doom metal's oversized, weight-first low end. What Danny Carey (Sonor Custom), Brann Dailor (Tama Starclassic Performer B/B), Mario Duplantier (Tama Starclassic Bubinga), and Igor Cavalera (Yamaha Absolute Hybrid Maple) actually play — from budget to pro.",
     seoKeywords: [
       'best bass drums for doom metal',
       'doom metal bass drum setup',
@@ -22621,13 +22621,13 @@ Start with a 22"x18" maple shell and a reinforced head like the Evans EMAD or Re
       title: "What Bass Drum Setup Do Doom Metal Drummers Actually Use?",
       content: `Doom metal's bass drum has to do the opposite of what most extreme metal subgenres ask for. Instead of surviving blast beats at 240+ BPM, a doom kick locks into riffs at half or a quarter the tempo, letting every single stroke ring out and carry maximum tonnage before the next one lands. That flips the gear brief: rather than a dry, tightly muffled shell built for rapid-fire endurance, doom rewards oversized 24"+ shells with deep bodies that can sustain real low-end weight through slow, riff-locked repetition.
 
-Bill Ward, who invented doom metal's tempo-and-tonnage template with Black Sabbath, doesn't currently have a dedicated MetalForge gear profile — so this guide draws on the closest working analogues from progressive sludge, technical death, and progressive rock lineages that share doom's foundational commitment to weight. Danny Carey's Sonor Custom bass drum runs a dual 22"/24" kick configuration, one of the largest touring setups in rock, purpose-built for deliberate, patient low end. Brann Dailor's Gretsch Signature 24"x18" bass drum anchors Mastodon's progressive sludge-doom catalog with warm, musical sustain. Mario Duplantier's dual 22"x18" Tama Starclassic Bubinga bass drums give Gojira's crushing, down-tuned passages tectonic body through mass rather than a single oversized shell. Igor Cavalera's Yamaha Absolute Hybrid Maple bass drum carries the tribal, down-tuned heaviness that parallels doom's own tonnage-first philosophy.
+Bill Ward, who invented doom metal's tempo-and-tonnage template with Black Sabbath, doesn't currently have a dedicated MetalForge gear profile — so this guide draws on the closest working analogues from progressive sludge, technical death, and progressive rock lineages that share doom's foundational commitment to weight. Danny Carey's Sonor Custom bass drum runs a dual 22"/24" kick configuration, one of the largest touring setups in rock, purpose-built for deliberate, patient low end. Brann Dailor's Tama Starclassic Performer B/B bass drum anchors Mastodon's progressive sludge-doom catalog with warm, musical sustain. Mario Duplantier's dual 22"x18" Tama Starclassic Bubinga bass drums give Gojira's crushing, down-tuned passages tectonic body through mass rather than a single oversized shell. Igor Cavalera's Yamaha Absolute Hybrid Maple bass drum carries the tribal, down-tuned heaviness that parallels doom's own tonnage-first philosophy.
 
 This guide breaks down exactly what makes a bass drum work for doom metal — oversized shell diameter, depth, and tuning philosophy — and which specific shells the genre's closest analogues actually play, from budget to professional touring rigs.`,
       keyPoints: [
         "Doom metal rewards oversized 24\"+ shells that ring out and carry real low-end weight, the opposite of blast-beat genres' dry, choked kicks",
         "Danny Carey's dual 22\"/24\" Sonor Custom configuration shows how deliberate deceleration itself becomes doom's defining atmospheric device",
-        "Brann Dailor's Gretsch Signature proves deep, resonant shells suit doom's slow, riff-locked tempo, while Mario Duplantier's dual 22\"x18\" Tama Starclassic Bubinga kicks show mass can deliver the same tectonic weight",
+        "Brann Dailor's Tama Starclassic Performer B/B proves a warm, resonant shell suits doom's slow, riff-locked tempo, while Mario Duplantier's dual 22\"x18\" Tama Starclassic Bubinga kicks show mass can deliver the same tectonic weight",
         "Open, moderately-tuned heads let each deliberate hit build tension and sustain before the next lands"
       ]
     },
@@ -22651,7 +22651,7 @@ This guide breaks down exactly what makes a bass drum work for doom metal — ov
         {
           name: "Dense Shell Material for Weight",
           icon: "🪵",
-          description: "Brann Dailor's Gretsch Signature maple and Mario Duplantier's Tama Starclassic Bubinga both favor a fuller, more musical low end over pure attack. Denser shells carry doom's tonnage without sacrificing warmth.",
+          description: "Brann Dailor's Tama Starclassic Performer B/B (birch/bubinga) and Mario Duplantier's Tama Starclassic Bubinga both favor a fuller, more musical low end over pure attack. Denser shells carry doom's tonnage without sacrificing warmth.",
           recommendation: "Maple or maple/beech hybrid shells tuned for resonance and body rather than dry articulation"
         },
         {
@@ -22721,43 +22721,43 @@ Sonor's TuneSafe tensioning ensures precise, repeatable tuning across two mismat
         },
         {
           rank: 2,
-          name: "Gretsch Brann Dailor Signature Bass Drum",
-          brand: "Gretsch",
-          model: "Brann Dailor Signature 24\"x18\"",
+          name: "Tama Starclassic Performer B/B Bass Drum",
+          brand: "Tama",
+          model: "Starclassic Performer B/B 22\"x18\"",
           image: "https://upload.wikimedia.org/wikipedia/commons/6/6c/Acoustic_Drums_Kit_%2829965183378%29.jpg",
-          priceRange: "€900-1300",
-          tier: "premium",
-          material: "Maple, 24\"x18\"",
+          priceRange: "€750-1000",
+          tier: "pro",
+          material: "Birch/Bubinga Hybrid, 22\"x18\"",
 
-          description: `Brann Dailor's Gretsch Brann Dailor Signature bass drum — maple shells in a custom graphic wrap referencing "Hushed and Grim" (2021) artwork — anchors Mastodon's most ambitious progressive sludge-doom material at a full 24" diameter. The extra size over a standard 22" kick gives Dailor's slower, riff-locked passages a warmer, more musical low end that carries real tonnage.
+          description: `Brann Dailor's Tama Starclassic Performer B/B bass drum anchors Mastodon's most ambitious progressive sludge-doom material with a warm, musical low end. The birch/bubinga hybrid shell doesn't chase Danny Carey's or Igor Cavalera's oversized 24" diameter, but its dense construction gives Dailor's slower, riff-locked passages plenty of resonant weight without needing extra shell size.
 
-Mastodon's early catalog — "Remission" (2002) and the doom-adjacent "Leviathan" (2004) — built the closest working analogue to Black Sabbath's tempo-and-tonnage doom template currently documented in MetalForge's database, and this signature shell's oversized resonance is central to that crushing, down-tuned sound.`,
+Mastodon's early catalog — "Remission" (2002) and the doom-adjacent "Leviathan" (2004) — built the closest working analogue to Black Sabbath's tempo-and-tonnage doom template currently documented in MetalForge's database, and this shell's dense hybrid resonance is central to that crushing, down-tuned sound.`,
 
           pros: [
             "Brann Dailor's current Mastodon setup — the closest working analogue to doom's founding template",
-            "24\" diameter delivers real low-end tonnage over standard 22\" sizing",
-            "Warm, musical maple tone refined over a decade of signature development",
+            "Birch/bubinga hybrid shell delivers real low-end tonnage without needing oversized sizing",
+            "Warm, musical tone proven across a decade of Mastodon's catalog",
             "Proven across Mastodon's most acclaimed sludge-doom recordings",
             "Grammy-winning pedigree (\"Emperor of Sand,\" 2017)"
           ],
           cons: [
-            "Signature pricing above generic maple alternatives",
-            "24\" shell needs more careful muffling to avoid boominess in smaller rooms",
-            "Limited availability outside Gretsch's signature production run"
+            "Pro-tier pricing above generic maple alternatives",
+            "Standard 22\" diameter gives up some low-end mass versus doom's oversized 24\"+ camp",
+            "Birch/bubinga hybrid shells cost more than single-species alternatives"
           ],
           specs: {
-            diameter: "24\"",
+            diameter: "22\"",
             depth: "18\"",
-            shell: "Maple",
+            shell: "Birch/Bubinga Hybrid",
             headRecommendation: "Evans EQ4",
             configuration: "Single, double-pedal driven"
           },
           usedBy: [
-            { name: "Brann Dailor", band: "Mastodon", note: "24\"x18\" Gretsch Signature carrying progressive sludge-doom's warmest low end" }
+            { name: "Brann Dailor", band: "Mastodon", note: "22\"x18\" Tama Starclassic Performer B/B carrying progressive sludge-doom's warmest low end" }
           ],
-          verdict: "Best for drummers who want a warm, musical oversized shell with genuine progressive-doom pedigree.",
+          verdict: "Best for drummers who want a warm, musical shell with genuine progressive-doom pedigree.",
           rating: 4.8,
-          affiliateLink: "https://www.thomann.de/intl/gretsch_brann_dailor_signature_bass_drum.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/tama_starclassic_performer_bb_bass_drum.htm?partner_id=metalforge"
         },
         {
           rank: 3,
@@ -22882,17 +22882,16 @@ Pearl's Reference program balances projection and warmth in a way that's transla
       title: "24\" vs 22\" Bass Drums for Doom Metal",
       content: `Doom metal drummers split their bass drum choice across two proven approaches:
 
-**Oversized 24\"+ Single Shell (Danny Carey, Brann Dailor, Igor Cavalera):**
+**Oversized 24\"+ Single Shell (Danny Carey, Igor Cavalera):**
 - Maximum low-end weight and sustain for slow, riff-locked tempo from a single deep or wide shell
-- The dominant single-shell sizing among doom's closest working analogues
 - Slower response than standard sizing, though tempo rarely matters in doom
 
-**Standard 22\" Dual Kicks (Mario Duplantier):**
-- Two standard-diameter shells deliver comparable tonnage through mass rather than an oversized single shell
-- Skips the double pedal entirely for two independently-tuned kicks
+**Standard 22\" Shells (Mario Duplantier, Brann Dailor):**
+- Standard-diameter shells deliver comparable tonnage through denser hybrid materials or mass rather than an oversized single shell
+- Duplantier skips the double pedal entirely for two independently-tuned kicks; Dailor runs a single dense birch/bubinga shell
 - Faster individual response than an oversized shell, without sacrificing overall low-end weight
 
-**Verdict:** Start with a 24\" shell like Igor Cavalera's Yamaha Absolute Hybrid Maple or Brann Dailor's Gretsch Signature — it's the proven foundation for the deep, sustained low end doom's slow tempo demands. Consider a dual-kick configuration like Danny Carey's or Mario Duplantier's if maximum tonal contrast and reserve low-end mass matter as much to you as raw shell size.`,
+**Verdict:** Start with a 24\" shell like Igor Cavalera's Yamaha Absolute Hybrid Maple if you want maximum sustained low end from raw size. Brann Dailor's Tama Starclassic Performer B/B proves a dense 22\" hybrid shell can carry the same warm, sustained tone at standard sizing. Consider a dual-kick configuration like Danny Carey's or Mario Duplantier's if maximum tonal contrast and reserve low-end mass matter as much to you as raw shell size.`,
       comparisonTable: [
         { feature: "Low-End Weight", birch: "⭐⭐⭐⭐⭐", maple: "⭐⭐⭐" },
         { feature: "Sustain and Ring-Out", birch: "⭐⭐⭐⭐⭐", maple: "⭐⭐⭐" },
@@ -22913,8 +22912,8 @@ Pearl's Reference program balances projection and warmth in a way that's transla
         },
         {
           category: "Best for Warm, Musical Sustain",
-          pedal: "Gretsch Brann Dailor Signature Bass Drum",
-          reason: "Brann Dailor's 24\" shell — doom's closest working analogue to Black Sabbath's founding template."
+          pedal: "Tama Starclassic Performer B/B Bass Drum",
+          reason: "Brann Dailor's dense hybrid shell — doom's closest working analogue to Black Sabbath's founding template."
         },
         {
           category: "Best for Dual-Kick Mass",
@@ -22939,7 +22938,7 @@ Pearl's Reference program balances projection and warmth in a way that's transla
     ],
     relatedDrummers: [
       { slug: 'danny-carey', name: 'Danny Carey', reason: 'Dual 22\"/24\" Sonor Custom — patient, atmospheric doom-adjacent weight' },
-      { slug: 'brann-dailor', name: 'Brann Dailor', reason: '24\"x18\" Gretsch Signature carrying progressive sludge-doom\'s warmest low end' },
+      { slug: 'brann-dailor', name: 'Brann Dailor', reason: '22\"x18\" Tama Starclassic Performer B/B carrying progressive sludge-doom\'s warmest low end' },
       { slug: 'mario-duplantier', name: 'Mario Duplantier', reason: 'Dual 22\"x18\" Tama Starclassic Bubinga — crushing, tectonic weight' },
       { slug: 'igor-cavalera', name: 'Igor Cavalera', reason: '24\"x18\" Yamaha Absolute Hybrid Maple — tribal, down-tuned doom-adjacent weight' }
     ],
@@ -22947,7 +22946,7 @@ Pearl's Reference program balances projection and warmth in a way that's transla
     // Featured drummers (issue template)
     featuredDrummers: [
       { slug: 'danny-carey', name: 'Danny Carey', reason: 'Dual-kick Sonor Custom — the oversized doom-adjacent standard' },
-      { slug: 'brann-dailor', name: 'Brann Dailor', reason: 'Gretsch Signature — closest analogue to doom\'s founding template' },
+      { slug: 'brann-dailor', name: 'Brann Dailor', reason: 'Tama Starclassic Performer B/B — closest analogue to doom\'s founding template' },
       { slug: 'mario-duplantier', name: 'Mario Duplantier', reason: 'Dual 22\"x18\" Tama Starclassic Bubinga — maximum low-end mass' }
     ],
 
@@ -22955,7 +22954,7 @@ Pearl's Reference program balances projection and warmth in a way that's transla
     faq: [
       {
         question: "What bass drums do doom metal drummers use?",
-        answer: "Bill Ward, who invented doom metal's template with Black Sabbath, doesn't have a dedicated MetalForge gear profile, so this guide draws on the genre's closest analogues. Danny Carey of Tool runs a dual 22\"/24\" Sonor Custom, Brann Dailor of Mastodon plays a 24\"x18\" Gretsch Signature, Mario Duplantier of Gojira runs dual 22\"x18\" Tama Starclassic Bubinga kicks, and Igor Cavalera plays a 24\"x18\" Yamaha Absolute Hybrid Maple."
+        answer: "Bill Ward, who invented doom metal's template with Black Sabbath, doesn't have a dedicated MetalForge gear profile, so this guide draws on the genre's closest analogues. Danny Carey of Tool runs a dual 22\"/24\" Sonor Custom, Brann Dailor of Mastodon plays a 22\"x18\" Tama Starclassic Performer B/B, Mario Duplantier of Gojira runs dual 22\"x18\" Tama Starclassic Bubinga kicks, and Igor Cavalera plays a 24\"x18\" Yamaha Absolute Hybrid Maple."
       },
       {
         question: "What size bass drum is best for doom metal?",
@@ -22978,7 +22977,7 @@ Pearl's Reference program balances projection and warmth in a way that's transla
     // Conclusion
     conclusion: {
       title: "Build the Oversized, Sustained Low End Doom Demands",
-      content: `Doom metal's bass drum requirements run opposite to almost everything else in extreme metal — instead of surviving blast beats, a doom kick needs to sustain real tonnage through slow, riff-locked repetition. Danny Carey's dual 22\"/24\" Sonor Custom and Brann Dailor's 24\"x18\" Gretsch Signature both prove that oversized, resonant shells are the genre's proven foundation, while Mario Duplantier's dual 22\"x18\" Tama Starclassic Bubinga kicks show how standard-sized shells in pairs can extend low-end mass just as far.
+      content: `Doom metal's bass drum requirements run opposite to almost everything else in extreme metal — instead of surviving blast beats, a doom kick needs to sustain real tonnage through slow, riff-locked repetition. Danny Carey's dual 22\"/24\" Sonor Custom proves oversized, resonant shells are one proven foundation, while Brann Dailor's 22\"x18\" Tama Starclassic Performer B/B and Mario Duplantier's dual 22\"x18\" Tama Starclassic Bubinga kicks show how standard-sized shells — single or in pairs — can extend low-end mass just as far.
 
 If you're building toward doom's tonnage-first low end, Igor Cavalera's 24\"x18\" Yamaha Absolute Hybrid Maple proves a more accessible shell can still deliver the tribal, down-tuned weight the genre demands.
 
@@ -57609,7 +57608,7 @@ Start lean: a single kick trigger and a basic interface will reinforce your loud
       title: "Why Doom Metal Uses Triggers Sparingly, Not by Default",
       content: `A drum trigger is a small piezo or optical sensor clipped or mounted directly onto an acoustic drumhead. It converts the physical vibration of a hit into an electronic signal that can drive a sample, reinforce a weak-sourced mic, or feed a click-synced monitor rig — without changing how the acoustic drum feels under the stick or beater. Doom metal asks something different of this technology than almost any other metal subgenre: the style locks into riffs at half or a quarter the tempo most metal demands, letting every hit ring out with maximum natural resonance and tonnage before the next one lands — which is exactly the kind of tone a heavy-handed trigger can flatten if it's not used carefully.
 
-Brann Dailor's Gretsch Signature kit and Mario Duplantier's Tama Starclassic Bubinga both prioritize deep, resonant shells built to carry weight through doom's slow, riff-locked repetition. Danny Carey's Sonor SQ2 Heavy Beech kit — which also incorporates Mandala electronic pads for textural range — anchors Tool's weighty, controlled low end. Igor Cavalera's Tama Starclassic Maple kit carried Sepultura's tribal-influenced groove metal and doom-adjacent weight across landmark records. What unites all four is a preference for natural shell resonance as the primary source of tone — trigger reinforcement, where it's used at all, is applied sparingly to fix a specific problem spot rather than replacing the acoustic sound wholesale.
+Brann Dailor's Tama Starclassic Performer B/B kit and Mario Duplantier's Tama Starclassic Bubinga both prioritize deep, resonant shells built to carry weight through doom's slow, riff-locked repetition. Danny Carey's Sonor SQ2 Heavy Beech kit — which also incorporates Mandala electronic pads for textural range — anchors Tool's weighty, controlled low end. Igor Cavalera's Tama Starclassic Maple kit carried Sepultura's tribal-influenced groove metal and doom-adjacent weight across landmark records. What unites all four is a preference for natural shell resonance as the primary source of tone — trigger reinforcement, where it's used at all, is applied sparingly to fix a specific problem spot rather than replacing the acoustic sound wholesale.
 
 This guide covers what actually matters when adding sparing trigger reinforcement to doom metal — preserving natural resonance, subtle blending, and using a trigger only where the acoustic sound genuinely needs help — with specific recommendations across every budget, from a first problem-solving kick trigger to a light studio reinforcement chain.`,
       keyPoints: [
@@ -57868,7 +57867,7 @@ This is a bigger investment than most doom metal drummers need, but it's the rig
       content: `Doom metal drummers approach triggers along a spectrum built around one core principle: natural shell resonance comes first.
 
 **Pure Natural Resonance (Brann Dailor, Mario Duplantier's approach):**
-- Deep, resonant shells (Gretsch Signature, Tama Starclassic Bubinga) carry doom's slow tempo entirely on natural tone
+- Deep, resonant shells (Tama Starclassic Performer B/B, Tama Starclassic Bubinga) carry doom's slow tempo entirely on natural tone
 - No trigger dependency — the standard doom metal's benchmark drummers have set
 - Requires a genuinely well-tuned kit and a good-sounding room
 
@@ -57924,7 +57923,7 @@ This is a bigger investment than most doom metal drummers need, but it's the rig
       'best-cymbals-for-doom-metal'
     ],
     relatedDrummers: [
-      { slug: 'brann-dailor', name: 'Brann Dailor', reason: 'Deep, resonant Gretsch Signature shells built to carry Mastodon\'s slow, riff-locked weight on natural tone' },
+      { slug: 'brann-dailor', name: 'Brann Dailor', reason: 'Deep, resonant Tama Starclassic Performer B/B shells built to carry Mastodon\'s slow, riff-locked weight on natural tone' },
       { slug: 'mario-duplantier', name: 'Mario Duplantier', reason: 'Tama Starclassic Bubinga kit prioritizing resonant, natural tone for Gojira\'s crushing low end' },
       { slug: 'danny-carey', name: 'Danny Carey', reason: 'Sonor SQ2 Heavy Beech kit with Mandala electronic pads adding texture without replacing acoustic resonance' }
     ],
@@ -57934,7 +57933,7 @@ This is a bigger investment than most doom metal drummers need, but it's the rig
     faq: [
       {
         question: "Do doom metal drummers use drum triggers?",
-        answer: "Rarely, and sparingly when they do. Brann Dailor and Mario Duplantier both build their sound on deep, resonant shells (Gretsch Signature, Tama Starclassic Bubinga) that carry doom's slow, riff-locked tempo on natural tone alone. When a trigger is used, it's typically applied to fix one specific problem drum, not as a default reinforcement layer."
+        answer: "Rarely, and sparingly when they do. Brann Dailor and Mario Duplantier both build their sound on deep, resonant shells (Tama Starclassic Performer B/B, Tama Starclassic Bubinga) that carry doom's slow, riff-locked tempo on natural tone alone. When a trigger is used, it's typically applied to fix one specific problem drum, not as a default reinforcement layer."
       },
       {
         question: "Won't a trigger ruin doom metal's natural, resonant tone?",
@@ -63430,7 +63429,7 @@ Budget shouldn't stop you either. A Pearl Export or Tama Imperialstar snare will
     // SEO metadata
     title: "Best Drum Kits for Doom Metal: 2026 Ultimate Guide",
     metaTitle: "Best Drum Kits for Doom Metal 2026 | MetalForge Expert Guide",
-    description: "Best drum kits for doom metal drumming: what Brann Dailor (Gretsch Signature), Mario Duplantier (Tama Starclassic Bubinga), Danny Carey (Sonor Custom), and Igor Cavalera (Yamaha Absolute Hybrid Maple) actually play. Deep, resonant shells built for doom's slow, crushing tempos — ranked budget to pro.",
+    description: "Best drum kits for doom metal drumming: what Brann Dailor (Tama Starclassic Performer B/B), Mario Duplantier (Tama Starclassic Bubinga), Danny Carey (Sonor Custom), and Igor Cavalera (Yamaha Absolute Hybrid Maple) actually play. Deep, resonant shells built for doom's slow, crushing tempos — ranked budget to pro.",
     seoKeywords: [
       'best drum kits for doom metal',
       'doom metal drum kit',
@@ -63438,7 +63437,7 @@ Budget shouldn't stop you either. A Pearl Export or Tama Imperialstar snare will
       'mario duplantier drum kit gojira',
       'danny carey drum kit tool',
       'igor cavalera drum kit',
-      'gretsch signature kit doom metal',
+      'tama starclassic performer bb doom metal',
       'tama starclassic bubinga drum kit doom',
       'best drum kit for slow heavy riffs',
       'doom metal drum setup'
@@ -63467,11 +63466,11 @@ Budget shouldn't stop you either. A Pearl Export or Tama Imperialstar snare will
       title: "What Drum Kit Should I Use for Doom Metal?",
       content: `Doom metal asks a drum kit to do the opposite of almost everything extreme metal usually rewards. Instead of surviving blast beats and rapid double bass, doom locks into riffs at half or a quarter the tempo most metal subgenres demand, letting every hit ring out with maximum tonnage before the next one lands. That changes the gear brief entirely: rather than a dry, choked kit built for endurance at 200+ BPM, doom rewards deep, resonant shells and large-format toms that can carry real weight through slow, riff-locked repetition.
 
-Bill Ward, who invented doom metal's tempo-and-tonnage template with Black Sabbath, doesn't currently have a dedicated MetalForge gear profile — so this guide draws on the closest working analogues from progressive sludge, technical death, and progressive rock lineages that share doom's foundational commitment to weight and riff-driven power. Brann Dailor's Gretsch Brann Dailor Signature kit anchors Mastodon's progressive sludge-doom catalog with a warm, musical resonance across its deep tom spread. Mario Duplantier's Tama Starclassic Bubinga kit gives Gojira's crushing, down-tuned passages their tectonic body on dual 22"x18" kicks. Danny Carey's Sonor Custom kit — one of the largest touring configurations in rock, with eight toms and dual kicks — shows how deliberate deceleration itself can become doom's defining atmospheric device. Igor Cavalera's Yamaha Absolute Hybrid Maple kit carries the tribal, down-tuned heaviness that parallels doom's own tonnage-first philosophy.
+Bill Ward, who invented doom metal's tempo-and-tonnage template with Black Sabbath, doesn't currently have a dedicated MetalForge gear profile — so this guide draws on the closest working analogues from progressive sludge, technical death, and progressive rock lineages that share doom's foundational commitment to weight and riff-driven power. Brann Dailor's Tama Starclassic Performer B/B kit anchors Mastodon's progressive sludge-doom catalog with a warm, musical resonance across its deep tom spread. Mario Duplantier's Tama Starclassic Bubinga kit gives Gojira's crushing, down-tuned passages their tectonic body on dual 22"x18" kicks. Danny Carey's Sonor Custom kit — one of the largest touring configurations in rock, with eight toms and dual kicks — shows how deliberate deceleration itself can become doom's defining atmospheric device. Igor Cavalera's Yamaha Absolute Hybrid Maple kit carries the tribal, down-tuned heaviness that parallels doom's own tonnage-first philosophy.
 
 This guide breaks down maple, custom hybrid, and large-format kit configurations for doom metal — comparing shell depth, tom spread, and tuning approach across four drummers whose lineages run closest to doom's crushing rhythmic foundation, with recommendations from budget to professional touring rigs.`,
       keyPoints: [
-        "Brann Dailor's Gretsch Signature kit anchors Mastodon's progressive sludge-doom catalog with warm, musical resonance",
+        "Brann Dailor's Tama Starclassic Performer B/B kit anchors Mastodon's progressive sludge-doom catalog with warm, musical resonance",
         "Mario Duplantier's Tama Starclassic Bubinga kit on dual 22\"x18\" kicks delivers the tectonic body Gojira's crushing riffs demand",
         "Danny Carey's 8-tom, dual-kick Sonor Custom kit shows how deliberate deceleration itself can become doom's defining atmospheric device",
         "Deep, large-format toms and reinforced hardware matter more than raw speed hardware in doom-adjacent kit configurations"
@@ -63485,7 +63484,7 @@ This guide breaks down maple, custom hybrid, and large-format kit configurations
         {
           name: "Deep, Resonant Shells",
           icon: "🌳",
-          description: "Where blast-beat genres favor dry, choked shells for control at speed, doom metal rewards shells that ring out and carry real low-end weight. Brann Dailor's Gretsch maple shells and Mario Duplantier's Tama Starclassic Bubinga shells both prioritize a fuller, more musical tone over pure attack.",
+          description: "Where blast-beat genres favor dry, choked shells for control at speed, doom metal rewards shells that ring out and carry real low-end weight. Brann Dailor's Tama Starclassic Performer B/B (birch/bubinga) shells and Mario Duplantier's Tama Starclassic Bubinga shells both prioritize a fuller, more musical tone over pure attack.",
           recommendation: "Deep maple or maple/beech hybrid shells tuned for resonance and low-end body rather than dry articulation"
         },
         {
@@ -63528,43 +63527,43 @@ This guide breaks down maple, custom hybrid, and large-format kit configurations
       pedals: [
         {
           rank: 1,
-          name: "Gretsch Brann Dailor Signature",
-          brand: "Gretsch",
-          model: "Brann Dailor Signature",
+          name: "Tama Starclassic Performer B/B",
+          brand: "Tama",
+          model: "Starclassic Performer Birch/Bubinga",
           image: "https://upload.wikimedia.org/wikipedia/commons/a/ac/Drums_01.jpg",
-          priceRange: "€4200-6000 (shell pack)",
-          tier: "premium",
-          material: "Maple",
+          priceRange: "€2200-3000 (shell pack)",
+          tier: "pro",
+          material: "Birch/Bubinga",
 
-          description: `Brann Dailor's current Gretsch Brann Dailor Signature kit — maple shells in a custom graphic wrap referencing "Hushed and Grim" (2021) artwork — is the definitive sound behind Mastodon's most ambitious progressive sludge-doom material. The 22" kick and 8"/10"/12"/14"/16" tom spread gives a warm, musical tone that Dailor himself describes as unmistakably his own after more than a decade refining the signature partnership.
+          description: `Brann Dailor's current Tama Starclassic Performer B/B kit is the definitive sound behind Mastodon's most ambitious progressive sludge-doom material. The birch/bubinga hybrid shells split the difference between bubinga's raw mass and birch's punch, giving the kit a warm, musical tone across its tom spread that carries doom's low-tuned weight without sacrificing focus.
 
-Mastodon's early catalog — "Remission" (2002) and the doom-adjacent "Leviathan" (2004) — built the closest working analogue to Black Sabbath's tempo-and-tonnage doom template currently documented in MetalForge's database, and this signature kit's warm resonance is central to that crushing, down-tuned sound.`,
+Mastodon's early catalog — "Remission" (2002) and the doom-adjacent "Leviathan" (2004) — built the closest working analogue to Black Sabbath's tempo-and-tonnage doom template currently documented in MetalForge's database, and this hybrid shell's warm resonance is central to that crushing, down-tuned sound.`,
 
           pros: [
             "Brann Dailor's current Mastodon setup — the closest working analogue to doom metal's founding tonnage-first template",
-            "Warm, musical maple tone refined over a decade of signature development",
-            "Deep 5-piece tom spread balances body and articulation for slow, riff-locked grooves",
+            "Birch/bubinga hybrid adds resonant weight without pure bubinga's full mass",
+            "Deep tom spread balances body and articulation for slow, riff-locked grooves",
             "Proven across Mastodon's most acclaimed sludge-doom recordings",
             "Grammy-winning pedigree (\"Emperor of Sand,\" 2017)"
           ],
           cons: [
-            "Signature pricing above generic maple alternatives",
+            "Premium Starclassic pricing above generic maple alternatives",
             "Warmer voicing may need more EQ presence in extremely dense, down-tuned mixes",
-            "Limited availability outside Gretsch's signature production run"
+            "Requires careful low tuning to avoid excess ring"
           ],
           specs: {
-            shell: "Maple",
-            mount: "Gretsch GTS",
-            finish: "Custom graphic wrap",
+            shell: "Birch/Bubinga (Starclassic Performer)",
+            mount: "Tama STAR-Cast",
+            finish: "Custom lacquer/wrap options",
             kickSize: "22\" x 18\" (single)",
-            tomSizes: "8\", 10\", 12\", 14\", 16\""
+            tomSizes: "10\", 12\", 13\" rack / 16\" floor"
           },
           usedBy: [
-            { name: "Brann Dailor", band: "Mastodon", note: "Gretsch Brann Dailor Signature — progressive sludge-doom's warmest, most musical kit" }
+            { name: "Brann Dailor", band: "Mastodon", note: "Tama Starclassic Performer B/B — progressive sludge-doom's warmest, most musical kit" }
           ],
-          verdict: "The doom-adjacent kit standard. Dailor's warm, musical maple tone defines the genre's closest working analogue.",
+          verdict: "The doom-adjacent kit standard. Dailor's warm, musical hybrid tone defines the genre's closest working analogue.",
           rating: 4.7,
-          affiliateLink: "https://www.thomann.de/intl/gretsch_brann_dailor_signature_kit.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/tama_starclassic_performer_bb.htm?partner_id=metalforge"
         },
         {
           rank: 2,
@@ -63692,7 +63691,7 @@ For doom-adjacent drummers whose material blends traditional doom weight with mo
     // Budget options section
     budgetOptions: {
       title: "Best Budget Drum Kits for Doom Metal",
-      description: "You don't need a signature Gretsch or custom Sonor SQ2 kit to start playing doom metal. These kits deliver real weight and resonance for developing players.",
+      description: "You don't need a pro Tama Starclassic or custom Sonor SQ2 kit to start playing doom metal. These kits deliver real weight and resonance for developing players.",
       pedals: [
         {
           name: "Pearl Export",
@@ -63725,14 +63724,14 @@ For doom-adjacent drummers whose material blends traditional doom weight with mo
       ]
     },
 
-    // Signature vs custom vs large-format comparison
+    // Pro shell pack vs custom vs large-format comparison
     comparison: {
-      title: "Signature vs Custom vs Large-Format for Doom Metal",
+      title: "Pro Shell Pack vs Custom vs Large-Format for Doom Metal",
       content: `Kit configuration splits doom metal's closest working analogues into distinct camps. Here's how they compare:
 
-**Signature Production (Brann Dailor - Gretsch):**
+**Pro Shell Pack (Brann Dailor - Tama):**
 - Warm, musical resonance suited to slow, riff-locked grooves
-- Simpler 5-piece configuration, easier to tune and maintain
+- Simpler configuration, easier to tune and maintain
 - Best for straightforward doom, sludge, and groove-doom hybrids
 
 **Custom Dual-Kick (Mario Duplantier - Tama):**
@@ -63745,12 +63744,12 @@ For doom-adjacent drummers whose material blends traditional doom weight with mo
 - Suited to long, slowly evolving, dynamically varied compositions
 - Best for atmospheric, patient doom-adjacent progressive material
 
-**Our Recommendation:** Start with a signature-style 5-piece kit (Gretsch Signature or budget Pearl Export) if your material leans toward straightforward, crushing doom weight. Choose a custom dual-kick setup (Tama Starclassic Bubinga) if you need maximum low-end power for technical doom-death material. Consider a large-format custom rig (Sonor Custom) only if your compositions demand tonal contrast across long, patient arrangements.`,
+**Our Recommendation:** Start with a pro shell pack (Tama Starclassic Performer B/B or budget Pearl Export) if your material leans toward straightforward, crushing doom weight. Choose a custom dual-kick setup (Tama Starclassic Bubinga) if you need maximum low-end power for technical doom-death material. Consider a large-format custom rig (Sonor Custom) only if your compositions demand tonal contrast across long, patient arrangements.`,
       comparisonTable: [
         { feature: "Low-End Weight", signature: "⭐⭐⭐⭐", custom: "⭐⭐⭐⭐⭐", largeFormat: "⭐⭐⭐⭐⭐" },
         { feature: "Tonal Flexibility", signature: "⭐⭐⭐", custom: "⭐⭐⭐⭐", largeFormat: "⭐⭐⭐⭐⭐" },
         { feature: "Setup Simplicity", signature: "⭐⭐⭐⭐⭐", custom: "⭐⭐⭐⭐", largeFormat: "⭐⭐" },
-        { feature: "Price (entry)", signature: "€4200+", custom: "€4500+", largeFormat: "€6000+" }
+        { feature: "Price (entry)", signature: "€2200+", custom: "€4500+", largeFormat: "€6000+" }
       ]
     },
 
@@ -63760,7 +63759,7 @@ For doom-adjacent drummers whose material blends traditional doom weight with mo
       picks: [
         {
           category: "Best Overall",
-          pedal: "Gretsch Brann Dailor Signature",
+          pedal: "Tama Starclassic Performer B/B",
           reason: "Brann Dailor's Mastodon setup — the closest working analogue to doom metal's warm, tonnage-first founding template."
         },
         {
@@ -63788,7 +63787,7 @@ For doom-adjacent drummers whose material blends traditional doom weight with mo
       'best-drum-kits-for-progressive-metal'
     ],
     relatedDrummers: [
-      { slug: 'brann-dailor', name: 'Brann Dailor', reason: 'Gretsch Signature kit — Mastodon progressive sludge-doom warmth' },
+      { slug: 'brann-dailor', name: 'Brann Dailor', reason: 'Tama Starclassic Performer B/B — Mastodon progressive sludge-doom warmth' },
       { slug: 'mario-duplantier', name: 'Mario Duplantier', reason: 'Dual 22"x18" Tama Starclassic Bubinga — Gojira crushing, tectonic weight' },
       { slug: 'danny-carey', name: 'Danny Carey', reason: 'Sonor Custom — Tool atmospheric patience' },
       { slug: 'igor-cavalera', name: 'Igor Cavalera', reason: 'Yamaha Absolute Hybrid Maple — Sepultura tribal, down-tuned heaviness' }
@@ -63796,7 +63795,7 @@ For doom-adjacent drummers whose material blends traditional doom weight with mo
 
     // Featured drummers (issue template)
     featuredDrummers: [
-      { slug: 'brann-dailor', name: 'Brann Dailor', reason: 'Gretsch Signature kit — Mastodon progressive sludge-doom warmth' },
+      { slug: 'brann-dailor', name: 'Brann Dailor', reason: 'Tama Starclassic Performer B/B — Mastodon progressive sludge-doom warmth' },
       { slug: 'mario-duplantier', name: 'Mario Duplantier', reason: 'Dual 22"x18" Tama Starclassic Bubinga — Gojira crushing, tectonic weight' },
       { slug: 'danny-carey', name: 'Danny Carey', reason: 'Sonor Custom — Tool atmospheric patience' },
       { slug: 'igor-cavalera', name: 'Igor Cavalera', reason: 'Yamaha Absolute Hybrid Maple — Sepultura tribal, down-tuned heaviness' }
@@ -63806,15 +63805,15 @@ For doom-adjacent drummers whose material blends traditional doom weight with mo
     faq: [
       {
         question: "Who are the best doom metal drummers and what kits do they use?",
-        answer: "Bill Ward, who invented doom metal's tempo-and-tonnage template with Black Sabbath, doesn't currently have a dedicated MetalForge gear profile. Brann Dailor of Mastodon is the closest working analogue, playing a Gretsch Brann Dailor Signature maple kit on the band's progressive sludge-doom catalog. Mario Duplantier of Gojira plays a dual-kick Tama Starclassic Bubinga kit for crushing, tectonic weight."
+        answer: "Bill Ward, who invented doom metal's tempo-and-tonnage template with Black Sabbath, doesn't currently have a dedicated MetalForge gear profile. Brann Dailor of Mastodon is the closest working analogue, playing a Tama Starclassic Performer B/B kit on the band's progressive sludge-doom catalog. Mario Duplantier of Gojira plays a dual-kick Tama Starclassic Bubinga kit for crushing, tectonic weight."
       },
       {
         question: "What drum kit does Brann Dailor use?",
-        answer: "Brann Dailor of Mastodon currently plays a Gretsch Brann Dailor Signature maple kit with a custom graphic wrap referencing \"Hushed and Grim\" (2021) artwork — a warm, musical tone refined over more than a decade that defines Mastodon's progressive sludge-doom sound."
+        answer: "Brann Dailor of Mastodon currently plays a Tama Starclassic Performer B/B kit — birch/bubinga hybrid shells that give a warm, musical tone that defines Mastodon's progressive sludge-doom sound."
       },
       {
         question: "Do doom metal drummers need a large tom spread?",
-        answer: "Not necessarily. Brann Dailor's 5-piece Gretsch Signature kit proves a compact configuration can carry doom's full weight. Danny Carey's 8-tom Sonor Custom setup is the exception, built specifically for Tool's long, dynamically varied compositions rather than doom metal's more straightforward riff-locked structure."
+        answer: "Not necessarily. Brann Dailor's Tama Starclassic Performer B/B kit proves a compact configuration can carry doom's full weight. Danny Carey's 8-tom Sonor Custom setup is the exception, built specifically for Tool's long, dynamically varied compositions rather than doom metal's more straightforward riff-locked structure."
       },
       {
         question: "Single or dual kick — which is better for doom metal?",
@@ -63822,14 +63821,14 @@ For doom-adjacent drummers whose material blends traditional doom weight with mo
       },
       {
         question: "Do I need a signature kit to play doom metal?",
-        answer: "No — a Pearl Export or Sonor AQ2 shell pack will teach real doom metal technique at a fraction of the price of the genre's closest analogues' signature and custom models. Upgrade to a Gretsch, Sonor, or Pearl Reference kit once your technique and budget allow."
+        answer: "No — a Pearl Export or Sonor AQ2 shell pack will teach real doom metal technique at a fraction of the price of the genre's closest analogues' pro and custom models. Upgrade to a Tama Starclassic, Sonor, or Pearl Reference kit once your technique and budget allow."
       }
     ],
 
     // Conclusion
     conclusion: {
       title: "Build Your Doom Metal Arsenal",
-      content: `Doom metal drum kit choice comes down to how much weight and resonance your riffs demand. Brann Dailor's warm Gretsch Signature kit defined the closest working analogue to doom's founding tonnage-first template. Mario Duplantier's dual-kick Tama Starclassic Bubinga kit proved that technical, down-tuned crushing weight can carry the same philosophy into progressive death metal. Danny Carey's massive Sonor Custom rig shows how tonal contrast can serve doom-adjacent material's most patient, atmospheric compositions, while Igor Cavalera's Yamaha Absolute Hybrid Maple kit carries the same tonnage-first restraint into tribal groove metal.
+      content: `Doom metal drum kit choice comes down to how much weight and resonance your riffs demand. Brann Dailor's warm Tama Starclassic Performer B/B kit defined the closest working analogue to doom's founding tonnage-first template. Mario Duplantier's dual-kick Tama Starclassic Bubinga kit proved that technical, down-tuned crushing weight can carry the same philosophy into progressive death metal. Danny Carey's massive Sonor Custom rig shows how tonal contrast can serve doom-adjacent material's most patient, atmospheric compositions, while Igor Cavalera's Yamaha Absolute Hybrid Maple kit carries the same tonnage-first restraint into tribal groove metal.
 
 None of these approaches is more "correct" — all four represent doom metal's foundational commitment to weight and riff-driven power in the absence of dedicated doom metal drummer profiles in MetalForge's database. Start with whichever configuration matches your riff style, and don't be afraid to let your toms ring out longer than extreme metal convention would suggest.
 
@@ -65518,7 +65517,7 @@ Budget shouldn't stop you either. A Pearl Export or Tama Imperialstar snare will
     // SEO metadata
     title: "Best Snare Drums for Sludge Metal: 2026 Ultimate Guide",
     metaTitle: "Best Snare Drums for Sludge Metal 2026 | MetalForge Expert Guide",
-    description: "Best snare drums for sludge metal drumming: what Brann Dailor (Gretsch Signature), Igor Cavalera (Tama S.L.P.), and Mario Duplantier (Tama S.L.P. G-Maple) actually play. Thick, damp, low-tuned tone for sludge's crushing, riff-driven grooves — ranked budget to pro.",
+    description: "Best snare drums for sludge metal drumming: what Brann Dailor (Tama Starclassic Performer B/B), Igor Cavalera (Tama S.L.P.), and Mario Duplantier (Tama S.L.P. G-Maple) actually play. Thick, damp, low-tuned tone for sludge's crushing, riff-driven grooves — ranked budget to pro.",
     seoKeywords: [
       'best snare drums for sludge metal',
       'sludge metal snare drum',
@@ -65529,7 +65528,7 @@ Budget shouldn't stop you either. A Pearl Export or Tama Imperialstar snare will
       'thick damp snare metal',
       'sludge metal drum setup',
       'best snare for slow heavy riffs',
-      'gretsch signature snare sludge'
+      'tama starclassic performer bb snare sludge'
     ],
     ogImage: '/api/og/guide?type=genre-gear&gear=snares&genre=sludge-metal',
     datePublished: '2026-07-05',
@@ -65555,11 +65554,11 @@ Budget shouldn't stop you either. A Pearl Export or Tama Imperialstar snare will
       title: "Why Sludge Metal Needs a Thick, Damp, Low-Tuned Snare",
       content: `Sludge metal grew out of the 1980s New Orleans scene by fusing doom metal's down-tuned, riff-locked weight with hardcore punk's raw aggression — and that fusion demands a snare voice that's fundamentally different from thrash or death metal's bright, cutting crack. Where speed-driven subgenres need a snare that punches through fast picking, sludge's slow, crushing grooves reward a thick, damp, low-tuned snare that adds tonnage rather than cut, punctuated by sudden bursts of hardcore-derived speed.
 
-Brann Dailor of Mastodon — the genre's most direct working analogue currently profiled at MetalForge, having built the band's early catalog on "Remission" (2002) and "Leviathan" (2004) — plays a Gretsch Brann Dailor Signature 14"x6.5" maple snare whose warm, musical resonance anchors Mastodon's crushing, down-tuned sludge riffs. Igor Cavalera of Sepultura and Mario Duplantier of Gojira both bring down-tuned heaviness on a shared Tama S.L.P. G-Maple snare that parallels sludge's own tonnage-first foundation from two entirely different lineages — tribal groove metal and technical death metal. Shannon Larkin of Godsmack plays a Ddrum Shannon Larkin Signature 14"x6.5" snare built for the slow-building, riff-locked grooves that carry sludge's patient heaviness into mainstream hard rock.
+Brann Dailor of Mastodon — the genre's most direct working analogue currently profiled at MetalForge, having built the band's early catalog on "Remission" (2002) and "Leviathan" (2004) — doesn't have a separately documented signature snare, but his verified Tama Starclassic Performer B/B kit's matching birch/bubinga snare anchors Mastodon's crushing, down-tuned sludge riffs with warm, musical resonance. Igor Cavalera of Sepultura and Mario Duplantier of Gojira both bring down-tuned heaviness on a shared Tama S.L.P. G-Maple snare that parallels sludge's own tonnage-first foundation from two entirely different lineages — tribal groove metal and technical death metal. Shannon Larkin of Godsmack plays a Ddrum Shannon Larkin Signature 14"x6.5" snare built for the slow-building, riff-locked grooves that carry sludge's patient heaviness into mainstream hard rock.
 
 This guide breaks down shell depth, material, and tuning for sludge metal snares — comparing thick, damp tone across four drummers whose lineages share sludge's foundational commitment to weight and riff-driven aggression, with recommendations from budget to professional touring rigs.`,
       keyPoints: [
-        "Brann Dailor's Gretsch Signature snare is the genre's most direct working analogue, anchoring Mastodon's crushing sludge riffs with warm, musical resonance",
+        "Brann Dailor doesn't have a separately documented signature snare, but his verified Tama Starclassic Performer B/B kit anchors Mastodon's crushing sludge riffs with warm, musical resonance",
         "14\"x6.5\" is the sludge metal standard depth — deep enough for real body and sustain without sacrificing all articulation",
         "Maple shells dominate sludge for their warm, resonant tone that adds weight rather than bright cut",
         "Damp, low tuning lets each hit sit inside sludge's crushing, riff-locked grooves instead of cutting above them"
@@ -65573,13 +65572,13 @@ This guide breaks down shell depth, material, and tuning for sludge metal snares
         {
           name: "Deep Shell for Thick Body",
           icon: "📏",
-          description: "Brann Dailor's, Igor Cavalera's, and Mario Duplantier's primary snares all sit at 14\"x6.5\" — deep enough to add real body and sustain to sludge's slow, riff-locked grooves without the extreme depth that would sacrifice articulation entirely.",
+          description: "Igor Cavalera's and Mario Duplantier's shared Tama S.L.P. G-Maple sits at 14\"x6.5\" — deep enough to add real body and sustain to sludge's slow, riff-locked grooves without the extreme depth that would sacrifice articulation entirely.",
           recommendation: "14\"x6.5\" for the sludge standard balance of body and control"
         },
         {
           name: "Warm, Resonant Shell Material",
           icon: "🪵",
-          description: "Maple is the dominant choice across sludge metal's closest lineages — Brann Dailor's Gretsch signature and the shared Tama S.L.P. G-Maple that both Igor Cavalera and Mario Duplantier play all favor warm, musical maple over the bright steel that faster subgenres prefer.",
+          description: "Maple is the dominant choice across sludge metal's closest lineages — Brann Dailor's Tama Starclassic Performer B/B and the shared Tama S.L.P. G-Maple that both Igor Cavalera and Mario Duplantier play all favor warm, musical hybrid tone over the bright steel that faster subgenres prefer.",
           recommendation: "Maple shell for the warm, weighted tone sludge's slow grooves reward"
         },
         {
@@ -65615,43 +65614,43 @@ This guide breaks down shell depth, material, and tuning for sludge metal snares
       pedals: [
         {
           rank: 1,
-          name: "Gretsch Brann Dailor Signature",
-          brand: "Gretsch",
-          model: "Brann Dailor Signature 14\"x6.5\"",
+          name: "Tama Starclassic Performer B/B Snare",
+          brand: "Tama",
+          model: "Starclassic Performer B/B",
           image: "https://upload.wikimedia.org/wikipedia/commons/4/46/2006-07-06_snare_14.jpg",
-          priceRange: "€450-600",
+          priceRange: "€350-500",
           tier: "pro",
-          material: "Maple (14x6.5\")",
+          material: "Birch/Bubinga Hybrid",
 
-          description: `Brann Dailor's Gretsch Brann Dailor Signature snare is the definitive sound behind Mastodon's most crushing sludge material, including the band's early, tonnage-first catalog on "Remission" (2002) and "Leviathan" (2004). The 14"x6.5" maple shell gives a warm, musical tone that carries the down-tuned weight sludge metal was built around.
+          description: `Brann Dailor doesn't have a separately documented signature snare, but the matching birch/bubinga snare from his verified Tama Starclassic Performer B/B kit is the closest working reference behind Mastodon's most crushing sludge material, including the band's early, tonnage-first catalog on "Remission" (2002) and "Leviathan" (2004). The hybrid shell gives a warm, musical tone that carries the down-tuned weight sludge metal was built around.
 
-As the genre's most direct working analogue currently profiled at MetalForge, Dailor's setup proves a warm, resonant maple snare can anchor sludge's crushing riffs while still leaving room for his jazz-informed, melodically ambitious drumming to breathe.`,
+As the genre's most direct working analogue currently profiled at MetalForge, Dailor's Starclassic kit proves a warm, resonant hybrid shell can anchor sludge's crushing riffs while still leaving room for his jazz-informed, melodically ambitious drumming to breathe.`,
 
           pros: [
-            "Brann Dailor's current Mastodon setup — the genre's most direct working analogue at MetalForge",
-            "Warm, musical maple tone that adds tonnage without harsh brightness",
-            "14x6.5\" depth balances real body with enough control for tempo shifts",
-            "Proven across Mastodon's most acclaimed sludge recordings",
-            "Refined over two decades of touring and studio work"
+            "Matches Brann Dailor's current, verified Mastodon kit — the genre's most direct working analogue at MetalForge",
+            "Warm, musical birch/bubinga tone that adds tonnage without harsh brightness",
+            "6.5\" depth balances real body with enough control for tempo shifts",
+            "Shell construction proven across Mastodon's most acclaimed sludge recordings",
+            "Same Starclassic line refined over two decades of touring and studio work"
           ],
           cons: [
-            "Premium signature pricing",
+            "Not a separately confirmed signature model — inferred from Dailor's documented kit",
             "Requires careful tuning to avoid excess ring at low tensions",
-            "Limited availability outside specialty retailers"
+            "Pro-tier pricing above generic maple alternatives"
           ],
           specs: {
-            shell: "Maple (Gretsch Signature)",
+            shell: "Birch/Bubinga (Starclassic Performer)",
             diameter: "14\"",
             depth: "6.5\"",
-            throwOff: "Gretsch die-cast strainer",
+            throwOff: "Tama MTS-100",
             wires: "20-strand"
           },
           usedBy: [
-            { name: "Brann Dailor", band: "Mastodon", note: "14x6.5\" Gretsch Signature — sludge metal's warmest, most direct working crack" }
+            { name: "Brann Dailor", band: "Mastodon", note: "Tama Starclassic Performer B/B kit — sludge metal's warmest, most direct working analogue" }
           ],
-          verdict: "The sludge metal standard. Dailor's warm, resonant snare defines the genre's closest working analogue at MetalForge.",
-          rating: 4.8,
-          affiliateLink: "https://www.thomann.de/intl/gretsch_brann_dailor_signature_snare.htm?partner_id=metalforge"
+          verdict: "The sludge metal standard. Dailor's warm, resonant Starclassic kit defines the genre's closest working analogue at MetalForge.",
+          rating: 4.7,
+          affiliateLink: "https://www.thomann.de/intl/tama_starclassic_performer_bb_snare.htm?partner_id=metalforge"
         },
         {
           rank: 2,
@@ -65749,7 +65748,7 @@ Designed for durability and powerful projection, this signature snare handles th
           priceRange: "€90-140",
           tier: "budget",
           material: "Maple",
-          description: "The Pearl Export maple snare carries the same warm maple DNA as Brann Dailor and Mario Duplantier's professional snares at a fraction of the price. Tune it low and damp it with a pack or moongel to get closer to sludge's thick, crushing tone.",
+          description: "The Pearl Export maple snare carries the same warm maple DNA as Mario Duplantier's professional snare at a fraction of the price. Tune it low and damp it with a pack or moongel to get closer to sludge's thick, crushing tone.",
           pros: ["Same warm maple DNA as pro sludge snares", "Affordable, widely available entry point", "Deep 6.5\" depth for real low-end body"],
           cons: ["Less refined projection than signature-tier shells", "Basic hardware compared to custom models"],
           verdict: "Best budget entry into sludge's warm, low-tuned maple sound.",
@@ -65775,10 +65774,10 @@ Designed for durability and powerful projection, this signature snare handles th
 
     // Comparison
     comparison: {
-      title: "Gretsch Signature vs Tama S.L.P. G-Maple for Sludge Metal",
+      title: "Tama Starclassic Performer B/B vs Tama S.L.P. G-Maple for Sludge Metal",
       content: `Shell depth stays consistent across sludge metal's closest working lineage, but material and hardware choices split these drummers into distinct camps. Here's how they compare:
 
-**Gretsch Signature Maple (Brann Dailor):**
+**Tama Starclassic Performer B/B (Brann Dailor):**
 - Warm, musical resonance that anchors down-tuned riffing
 - The genre's most direct working analogue currently profiled
 - Best for straightforward, riff-locked sludge and progressive-sludge hybrids
@@ -65788,7 +65787,7 @@ Designed for durability and powerful projection, this signature snare handles th
 - More accessible pricing than fully custom signature snares
 - Best for down-tuned, groove-first or technically ambitious sludge-adjacent material
 
-**Our Recommendation:** Start with a Pearl Export or Ludwig Acrolite if you're building sludge technique on a budget. Choose the Tama S.L.P. G-Maple if you want a grinding, down-tuned tone proven across two distinct lineages. Go with the Gretsch Brann Dailor Signature if your priority is the genre's most direct, working-analogue crushing crack.`,
+**Our Recommendation:** Start with a Pearl Export or Ludwig Acrolite if you're building sludge technique on a budget. Choose the Tama S.L.P. G-Maple if you want a grinding, down-tuned tone proven across two distinct lineages. Go with the Tama Starclassic Performer B/B if your priority is the genre's most direct, working-analogue crushing crack.`,
       comparisonTable: [
         { feature: "Warmth", maple: "⭐⭐⭐⭐⭐", hybrid: "⭐⭐⭐⭐", dual: "⭐⭐⭐⭐" },
         { feature: "Low-End Weight", maple: "⭐⭐⭐⭐", hybrid: "⭐⭐⭐⭐", dual: "⭐⭐⭐⭐⭐" },
@@ -65803,7 +65802,7 @@ Designed for durability and powerful projection, this signature snare handles th
       picks: [
         {
           category: "Best Overall",
-          pedal: "Gretsch Brann Dailor Signature",
+          pedal: "Tama Starclassic Performer B/B Snare",
           reason: "Brann Dailor's Mastodon setup — sludge metal's most direct working analogue currently profiled at MetalForge."
         },
         {
@@ -65826,7 +65825,7 @@ Designed for durability and powerful projection, this signature snare handles th
       'best-snare-drums-for-groove-metal'
     ],
     relatedDrummers: [
-      { slug: 'brann-dailor', name: 'Brann Dailor', reason: 'Gretsch Signature — Mastodon sludge metal\'s most direct working analogue' },
+      { slug: 'brann-dailor', name: 'Brann Dailor', reason: 'Tama Starclassic Performer B/B — Mastodon sludge metal\'s most direct working analogue' },
       { slug: 'igor-cavalera', name: 'Igor Cavalera', reason: 'Tama S.L.P. G-Maple — Sepultura tribal, down-tuned sludge-adjacent weight' },
       { slug: 'shannon-larkin', name: 'Shannon Larkin', reason: 'Ddrum Signature — Godsmack sludge-influenced hard rock weight' },
       { slug: 'mario-duplantier', name: 'Mario Duplantier', reason: 'Tama S.L.P. G-Maple — Gojira technical death metal, down-tuned weight' }
@@ -65834,7 +65833,7 @@ Designed for durability and powerful projection, this signature snare handles th
 
     // Featured drummers (issue template)
     featuredDrummers: [
-      { slug: 'brann-dailor', name: 'Brann Dailor', reason: 'Gretsch Signature — Mastodon sludge metal\'s most direct working analogue' },
+      { slug: 'brann-dailor', name: 'Brann Dailor', reason: 'Tama Starclassic Performer B/B — Mastodon sludge metal\'s most direct working analogue' },
       { slug: 'igor-cavalera', name: 'Igor Cavalera', reason: 'Tama S.L.P. G-Maple — Sepultura tribal, down-tuned sludge-adjacent weight' },
       { slug: 'shannon-larkin', name: 'Shannon Larkin', reason: 'Ddrum Signature — Godsmack sludge-influenced hard rock weight' },
       { slug: 'mario-duplantier', name: 'Mario Duplantier', reason: 'Tama S.L.P. G-Maple — Gojira technical death metal, down-tuned weight' }
@@ -65844,15 +65843,15 @@ Designed for durability and powerful projection, this signature snare handles th
     faq: [
       {
         question: "Who are the best sludge metal drummers and what snares do they use?",
-        answer: "Brann Dailor of Mastodon, the genre's most direct working analogue currently profiled at MetalForge, plays a Gretsch Brann Dailor Signature 14x6.5\" snare. Igor Cavalera of Sepultura and Mario Duplantier of Gojira both play a Tama S.L.P. G-Maple 14x6.5\" snare."
+        answer: "Brann Dailor of Mastodon, the genre's most direct working analogue currently profiled at MetalForge, doesn't have a separately documented signature snare — his verified Tama Starclassic Performer B/B kit is the closest reference. Igor Cavalera of Sepultura and Mario Duplantier of Gojira both play a Tama S.L.P. G-Maple 14x6.5\" snare."
       },
       {
         question: "What snare drum does Brann Dailor use?",
-        answer: "Brann Dailor of Mastodon plays a Gretsch Brann Dailor Signature 14x6.5\" maple snare — a warm, musical shell that anchors Mastodon's crushing, down-tuned sludge riffs on albums like \"Remission\" (2002) and \"Leviathan\" (2004)."
+        answer: "Brann Dailor of Mastodon doesn't have a separately documented signature snare, but his verified Tama Starclassic Performer B/B kit's matching birch/bubinga shell — a warm, musical build — anchors Mastodon's crushing, down-tuned sludge riffs on albums like \"Remission\" (2002) and \"Leviathan\" (2004)."
       },
       {
         question: "What snare depth is best for sludge metal?",
-        answer: "14x6.5\" is the sludge metal standard — Brann Dailor, Igor Cavalera, Shannon Larkin, and Mario Duplantier's primary snares all sit at this depth, balancing real body and sustain for slow, riff-locked grooves without sacrificing all articulation."
+        answer: "14x6.5\" is the sludge metal standard — Igor Cavalera, Shannon Larkin, and Mario Duplantier's primary snares all sit at this depth, balancing real body and sustain for slow, riff-locked grooves without sacrificing all articulation."
       },
       {
         question: "Why does sludge metal need a different snare tuning than thrash or death metal?",
@@ -65860,18 +65859,18 @@ Designed for durability and powerful projection, this signature snare handles th
       },
       {
         question: "Do I need a pro-level snare to play sludge metal?",
-        answer: "No — a Pearl Export or Ludwig Acrolite, tuned low and damped with a moongel or pack, will teach real sludge technique at a fraction of the price of the genre's professional Gretsch Signature and Tama S.L.P. G-Maple models. Upgrade once your technique and budget allow."
+        answer: "No — a Pearl Export or Ludwig Acrolite, tuned low and damped with a moongel or pack, will teach real sludge technique at a fraction of the price of the genre's professional Tama Starclassic Performer B/B and Tama S.L.P. G-Maple models. Upgrade once your technique and budget allow."
       }
     ],
 
     // Conclusion
     conclusion: {
       title: "Find Your Sludge Metal Snare Voice",
-      content: `Sludge metal snare choice comes down to how much thick, damp weight your riffs demand. Brann Dailor's warm Gretsch Signature snare defined the genre's most direct working analogue currently profiled at MetalForge, anchoring Mastodon's crushing early catalog. Igor Cavalera's and Mario Duplantier's shared Tama S.L.P. G-Maple proves that a grinding, down-tuned tone can reach the same crushing destination from two entirely different lineages — tribal groove metal and technical death metal. Shannon Larkin's Ddrum Signature shows how sludge's patient, weight-over-speed philosophy scaled into platinum-selling hard rock.
+      content: `Sludge metal snare choice comes down to how much thick, damp weight your riffs demand. Brann Dailor's warm Tama Starclassic Performer B/B kit defined the genre's most direct working analogue currently profiled at MetalForge, anchoring Mastodon's crushing early catalog. Igor Cavalera's and Mario Duplantier's shared Tama S.L.P. G-Maple proves that a grinding, down-tuned tone can reach the same crushing destination from two entirely different lineages — tribal groove metal and technical death metal. Shannon Larkin's Ddrum Signature shows how sludge's patient, weight-over-speed philosophy scaled into platinum-selling hard rock.
 
 None of these approaches is more "correct" — all three represent sludge metal's founding commitment to thick, damp weight over bright cut. Start with whichever depth and material matches your material's density, and don't be afraid to tune lower and damper than other metal subgenres would suggest.
 
-Budget shouldn't stop you either. A Pearl Export or Ludwig Acrolite will teach real technique and survive demanding practice while you save toward the Gretsch Signature and Tama S.L.P. G-Maple models that defined this lineage's heaviest records.
+Budget shouldn't stop you either. A Pearl Export or Ludwig Acrolite will teach real technique and survive demanding practice while you save toward the Tama Starclassic Performer B/B and Tama S.L.P. G-Maple models that defined this lineage's heaviest records.
 
 🤘 **Now go get crushing.**`
     }
@@ -65886,7 +65885,7 @@ Budget shouldn't stop you either. A Pearl Export or Ludwig Acrolite will teach r
     // SEO metadata
     title: "Best Snare Drums for Doom Metal: 2026 Ultimate Guide",
     metaTitle: "Best Snare Drums for Doom Metal 2026 | MetalForge Expert Guide",
-    description: "Best snare drums for doom metal drumming: what Bill Ward (Ludwig Supraphonic), Brann Dailor (Gretsch Signature), Mario Duplantier (Tama S.L.P. G-Maple), and Danny Carey (Sonor Custom) actually play. Deep, low-tuned snare tone for doom's crawling, riff-locked tempos — ranked budget to pro.",
+    description: "Best snare drums for doom metal drumming: what Bill Ward (Ludwig Supraphonic), Brann Dailor (Tama Starclassic Performer B/B), Mario Duplantier (Tama S.L.P. G-Maple), and Danny Carey (Sonor Custom) actually play. Deep, low-tuned snare tone for doom's crawling, riff-locked tempos — ranked budget to pro.",
     seoKeywords: [
       'best snare drums for doom metal',
       'doom metal snare drum',
@@ -65923,13 +65922,13 @@ Budget shouldn't stop you either. A Pearl Export or Ludwig Acrolite will teach r
       title: "Why Doom Metal Demands the Deepest, Lowest-Tuned Snare in Metal",
       content: `Doom metal is heavy metal slowed to its most extreme tempo and heaviest tonnage — a genre whose entire vocabulary traces back to Bill Ward's foundational, groove-locked drumming on Black Sabbath's earliest records. Where thrash and death metal snares are voiced to cut above a wall of fast picking, doom drops the tempo to a crawl and asks the opposite of its snare: carry maximum depth and weight on every deliberate hit, letting each strike ring out and breathe before the next one lands minutes — sometimes literally minutes — later in the riff.
 
-Bill Ward's Ludwig Supraphonic 14"x6.5" LM402 snare, now fully documented in MetalForge's drummer database, is the actual snare heard cracking through "Black Sabbath," "Iron Man," "War Pigs," and "Symptom of the Universe" — the direct, founding voice doom metal's tempo-and-tonnage template was built around on landmark albums like "Paranoid" (1970), "Master of Reality" (1971), and "Vol. 4" (1972). Brann Dailor of Mastodon carries that same warm, musical resonance forward on a Gretsch Brann Dailor Signature 14"x6.5" snare, anchoring the band's progressive sludge-doom catalog from "Remission" (2002) through "Leviathan" (2004). Mario Duplantier's Tama S.L.P. 14"x6.5" G-Maple snare gives Gojira's crushing, down-tuned passages their tectonic body, filtering doom's tonnage-first philosophy through technical death metal's compositional ambition. Danny Carey's dual-snare Sonor Custom setup with Tool adds the slow-building, atmospheric weight that doom's deceleration-as-intensity approach has always depended on.
+Bill Ward's Ludwig Supraphonic 14"x6.5" LM402 snare, now fully documented in MetalForge's drummer database, is the actual snare heard cracking through "Black Sabbath," "Iron Man," "War Pigs," and "Symptom of the Universe" — the direct, founding voice doom metal's tempo-and-tonnage template was built around on landmark albums like "Paranoid" (1970), "Master of Reality" (1971), and "Vol. 4" (1972). Brann Dailor of Mastodon doesn't have a separately documented signature snare, but his verified Tama Starclassic Performer B/B kit carries that same warm, musical resonance forward, anchoring the band's progressive sludge-doom catalog from "Remission" (2002) through "Leviathan" (2004). Mario Duplantier's Tama S.L.P. 14"x6.5" G-Maple snare gives Gojira's crushing, down-tuned passages their tectonic body, filtering doom's tonnage-first philosophy through technical death metal's compositional ambition. Danny Carey's dual-snare Sonor Custom setup with Tool adds the slow-building, atmospheric weight that doom's deceleration-as-intensity approach has always depended on.
 
 This guide breaks down shell depth, material, and tuning for doom metal snares — comparing deep, low-tuned tone across four drummers whose lineages run from the genre's literal 1970s origin through its modern progressive and technical descendants, with recommendations from budget to professional touring rigs.`,
       keyPoints: [
         "Bill Ward's Ludwig Supraphonic 14x6.5\" LM402 is the actual snare heard on Black Sabbath's genre-founding records — doom metal's single most direct historical reference point",
         "14x6.5\" or deeper is the doom metal standard depth, prioritizing body and sustain over the fast articulation faster subgenres chase",
-        "Warm materials — Ludwig's aluminum Supraphonic shell and Gretsch/Tama's maple builds — dominate doom over the bright steel faster subgenres favor",
+        "Warm materials — Ludwig's aluminum Supraphonic shell and Tama's hybrid/maple builds — dominate doom over the bright steel faster subgenres favor",
         "Low, open tuning lets each deliberate hit ring out and breathe instead of choking the sound the way high-tempo genres require"
       ]
     },
@@ -65941,13 +65940,13 @@ This guide breaks down shell depth, material, and tuning for doom metal snares �
         {
           name: "Deep Shell for Maximum Weight",
           icon: "📏",
-          description: "Bill Ward's Ludwig Supraphonic, Brann Dailor's Gretsch Signature, and Mario Duplantier's Tama S.L.P. G-Maple all sit at 14\"x6.5\" — deep enough to add real body and sustain to doom's crawling, riff-locked grooves without losing all articulation on the rare faster passage.",
+          description: "Bill Ward's Ludwig Supraphonic and Mario Duplantier's Tama S.L.P. G-Maple both sit at 14\"x6.5\" — deep enough to add real body and sustain to doom's crawling, riff-locked grooves without losing all articulation on the rare faster passage.",
           recommendation: "14\"x6.5\" (or deeper) for the doom standard balance of weight and control"
         },
         {
           name: "Warm Shell Material",
           icon: "🪵",
-          description: "Ward's aluminum Ludwig Supraphonic and Dailor's and Duplantier's maple shells both prioritize warmth and musicality over the bright steel that thrash and death metal snares typically favor — the same restraint doom's slow tempos reward.",
+          description: "Ward's aluminum Ludwig Supraphonic, Dailor's Tama Starclassic hybrid shell, and Duplantier's maple shell all prioritize warmth and musicality over the bright steel that thrash and death metal snares typically favor — the same restraint doom's slow tempos reward.",
           recommendation: "Warm aluminum or maple shells over bright, cutting steel"
         },
         {
@@ -66023,43 +66022,43 @@ As the genre's single most direct historical reference point, Ward's setup prove
         },
         {
           rank: 2,
-          name: "Gretsch Brann Dailor Signature",
-          brand: "Gretsch",
-          model: "Brann Dailor Signature 14\"x6.5\"",
+          name: "Tama Starclassic Performer B/B Snare",
+          brand: "Tama",
+          model: "Starclassic Performer B/B",
           image: "https://upload.wikimedia.org/wikipedia/commons/a/ac/Drums_01.jpg",
-          priceRange: "€400-550",
+          priceRange: "€350-500",
           tier: "pro",
-          material: "Maple (14x6.5\")",
+          material: "Birch/Bubinga Hybrid",
 
-          description: `Brann Dailor's Gretsch Brann Dailor Signature snare carries Ward's warm, weighted foundation into Mastodon's progressive sludge-doom catalog, including "Remission" (2002), "Leviathan" (2004), and the Grammy-winning "Emperor of Sand" (2017). The 14"x6.5" maple shell trades the Supraphonic's bright aluminum crack for a darker, more musical resonance suited to Mastodon's denser, more layered production.
+          description: `Brann Dailor doesn't have a separately documented signature snare, but the matching birch/bubinga snare from his verified Tama Starclassic Performer B/B kit carries Ward's warm, weighted foundation into Mastodon's progressive sludge-doom catalog, including "Remission" (2002), "Leviathan" (2004), and the Grammy-winning "Emperor of Sand" (2017). The hybrid shell trades the Supraphonic's bright aluminum crack for a darker, more musical resonance suited to Mastodon's denser, more layered production.
 
-Refined over two decades of touring and studio work, Dailor's signature snare proves a warm maple shell can anchor crushing, down-tuned doom riffs while still leaving room for his jazz-informed, melodically ambitious drumming to breathe.`,
+Refined across two decades of Starclassic development, Dailor's kit proves a warm hybrid shell can anchor crushing, down-tuned doom riffs while still leaving room for his jazz-informed, melodically ambitious drumming to breathe.`,
 
           pros: [
-            "Brann Dailor's current Mastodon setup — doom's warmest, most modern progressive lineage",
-            "Warm, musical maple tone that adds tonnage without harsh brightness",
-            "14x6.5\" depth balances real body with enough control for tempo shifts",
-            "Proven across Mastodon's most acclaimed, Grammy-winning recordings",
-            "Refined over two decades of touring and studio development"
+            "Matches Brann Dailor's current, verified Mastodon kit — doom's warmest, most modern progressive lineage",
+            "Warm, musical birch/bubinga tone that adds tonnage without harsh brightness",
+            "6.5\" depth balances real body with enough control for tempo shifts",
+            "Shell construction proven across Mastodon's most acclaimed, Grammy-winning recordings",
+            "Same Starclassic line refined over two decades of touring and studio development"
           ],
           cons: [
-            "Premium signature pricing",
+            "Not a separately confirmed signature model — inferred from Dailor's documented kit",
             "Requires careful tuning to avoid excess ring at low tensions",
-            "Limited availability outside specialty retailers"
+            "Pro-tier pricing above generic maple alternatives"
           ],
           specs: {
-            shell: "Maple (Gretsch Signature)",
+            shell: "Birch/Bubinga (Starclassic Performer)",
             diameter: "14\"",
             depth: "6.5\"",
-            throwOff: "Gretsch die-cast strainer",
+            throwOff: "Tama MTS-100",
             wires: "20-strand"
           },
           usedBy: [
-            { name: "Brann Dailor", band: "Mastodon", note: "14x6.5\" Gretsch Signature — doom's warmest modern progressive lineage" }
+            { name: "Brann Dailor", band: "Mastodon", note: "Tama Starclassic Performer B/B kit — doom's warmest modern progressive lineage" }
           ],
-          verdict: "Best modern progressive alternative. Dailor's warm maple tone carries doom's foundation into denser, more layered production.",
-          rating: 4.7,
-          affiliateLink: "https://www.thomann.de/intl/gretsch_brann_dailor_signature_snare.htm?partner_id=metalforge"
+          verdict: "Best modern progressive alternative. Dailor's warm hybrid tone carries doom's foundation into denser, more layered production.",
+          rating: 4.6,
+          affiliateLink: "https://www.thomann.de/intl/tama_starclassic_performer_bb_snare.htm?partner_id=metalforge"
         },
         {
           rank: 3,
@@ -66196,7 +66195,7 @@ The dual-snare configuration is a distinctive option for doom drummers who want 
 
     // Comparison
     comparison: {
-      title: "Ludwig Supraphonic vs Gretsch Signature vs Tama S.L.P. G-Maple for Doom Metal",
+      title: "Ludwig Supraphonic vs Tama Starclassic Performer B/B vs Tama S.L.P. G-Maple for Doom Metal",
       content: `Shell depth stays consistent across doom metal's founding and closest working lineage, but material and hardware choices split these drummers into distinct camps. Here's how they compare:
 
 **Ludwig Supraphonic Aluminum (Bill Ward):**
@@ -66204,8 +66203,8 @@ The dual-snare configuration is a distinctive option for doom drummers who want 
 - The genre's single most direct historical reference point
 - Best for the classic, genre-founding doom crack and vintage-style tuning
 
-**Gretsch Signature Maple (Brann Dailor):**
-- Warmer, darker maple resonance suited to denser modern production
+**Tama Starclassic Performer B/B (Brann Dailor):**
+- Warmer, darker hybrid resonance suited to denser modern production
 - Refined over two decades of Mastodon's progressive sludge-doom catalog
 - Best for modern, layered doom and progressive-sludge hybrids
 
@@ -66214,7 +66213,7 @@ The dual-snare configuration is a distinctive option for doom drummers who want 
 - Warm, resonant maple tone proven across Gojira's technical death metal catalog
 - Best for technically ambitious, progressive doom material
 
-**Our Recommendation:** Start with a Pearl Export or Ludwig Acrolite if you're building doom technique on a budget — the Acrolite in particular shares the Supraphonic's aluminum DNA. Choose the Gretsch Brann Dailor Signature if your material leans modern and layered. Go with the Ludwig Supraphonic if your priority is the genre's actual, historically documented founding crack.`,
+**Our Recommendation:** Start with a Pearl Export or Ludwig Acrolite if you're building doom technique on a budget — the Acrolite in particular shares the Supraphonic's aluminum DNA. Choose the Tama Starclassic Performer B/B if your material leans modern and layered. Go with the Ludwig Supraphonic if your priority is the genre's actual, historically documented founding crack.`,
       comparisonTable: [
         { feature: "Brightness/Cut", maple: "⭐⭐⭐", hybrid: "⭐⭐⭐⭐⭐", dual: "⭐⭐⭐⭐" },
         { feature: "Low-End Weight", maple: "⭐⭐⭐⭐", hybrid: "⭐⭐⭐⭐", dual: "⭐⭐⭐⭐⭐" },
@@ -66234,7 +66233,7 @@ The dual-snare configuration is a distinctive option for doom drummers who want 
         },
         {
           category: "Best Modern Progressive Alternative",
-          pedal: "Gretsch Brann Dailor Signature",
+          pedal: "Tama Starclassic Performer B/B Snare",
           reason: "Brann Dailor's Mastodon setup — doom's warmest, most modern progressive lineage."
         },
         {
@@ -66258,7 +66257,7 @@ The dual-snare configuration is a distinctive option for doom drummers who want 
     ],
     relatedDrummers: [
       { slug: 'bill-ward', name: 'Bill Ward', reason: 'Ludwig Supraphonic LM402 — Black Sabbath doom metal\'s genre-founding crack' },
-      { slug: 'brann-dailor', name: 'Brann Dailor', reason: 'Gretsch Signature — Mastodon\'s warmest modern progressive doom lineage' },
+      { slug: 'brann-dailor', name: 'Brann Dailor', reason: 'Tama Starclassic Performer B/B — Mastodon\'s warmest modern progressive doom lineage' },
       { slug: 'mario-duplantier', name: 'Mario Duplantier', reason: 'Tama S.L.P. G-Maple — Gojira\'s crushing, tectonic doom-adjacent weight' },
       { slug: 'danny-carey', name: 'Danny Carey', reason: 'Sonor Custom dual snare — Tool\'s patient, atmospheric doom-adjacent weight' }
     ],
@@ -66266,7 +66265,7 @@ The dual-snare configuration is a distinctive option for doom drummers who want 
     // Featured drummers (issue template)
     featuredDrummers: [
       { slug: 'bill-ward', name: 'Bill Ward', reason: 'Ludwig Supraphonic LM402 — Black Sabbath doom metal\'s genre-founding crack' },
-      { slug: 'brann-dailor', name: 'Brann Dailor', reason: 'Gretsch Signature — Mastodon\'s warmest modern progressive doom lineage' },
+      { slug: 'brann-dailor', name: 'Brann Dailor', reason: 'Tama Starclassic Performer B/B — Mastodon\'s warmest modern progressive doom lineage' },
       { slug: 'mario-duplantier', name: 'Mario Duplantier', reason: 'Tama S.L.P. G-Maple — Gojira\'s crushing, tectonic doom-adjacent weight' },
       { slug: 'danny-carey', name: 'Danny Carey', reason: 'Sonor Custom dual snare — Tool\'s patient, atmospheric doom-adjacent weight' }
     ],
@@ -66275,7 +66274,7 @@ The dual-snare configuration is a distinctive option for doom drummers who want 
     faq: [
       {
         question: "Who are the best doom metal drummers and what snares do they use?",
-        answer: "Bill Ward of Black Sabbath, doom metal's genre-founding drummer, plays a Ludwig Supraphonic 14x6.5\" LM402 snare. Brann Dailor of Mastodon plays a Gretsch Brann Dailor Signature 14x6.5\" snare, Mario Duplantier of Gojira plays a Tama S.L.P. G-Maple 14x6.5\" snare, and Danny Carey of Tool runs a dual-snare Sonor Custom setup."
+        answer: "Bill Ward of Black Sabbath, doom metal's genre-founding drummer, plays a Ludwig Supraphonic 14x6.5\" LM402 snare. Brann Dailor of Mastodon doesn't have a separately documented signature snare — his verified Tama Starclassic Performer B/B kit is the closest reference. Mario Duplantier of Gojira plays a Tama S.L.P. G-Maple 14x6.5\" snare, and Danny Carey of Tool runs a dual-snare Sonor Custom setup."
       },
       {
         question: "What snare drum does Bill Ward use?",
@@ -66283,7 +66282,7 @@ The dual-snare configuration is a distinctive option for doom drummers who want 
       },
       {
         question: "What snare depth and tuning is best for doom metal?",
-        answer: "14x6.5\" (or deeper) is the doom metal standard — Bill Ward, Brann Dailor, and Mario Duplantier's Tama S.L.P. G-Maple all sit at this depth. Tune low and open rather than choked or dampened, letting each deliberate hit ring out and build tension before the next one lands."
+        answer: "14x6.5\" (or deeper) is the doom metal standard — Bill Ward and Mario Duplantier's Tama S.L.P. G-Maple both sit at this depth. Tune low and open rather than choked or dampened, letting each deliberate hit ring out and build tension before the next one lands."
       },
       {
         question: "Why does doom metal need a different snare tuning than thrash or death metal?",
@@ -66291,18 +66290,18 @@ The dual-snare configuration is a distinctive option for doom drummers who want 
       },
       {
         question: "Do I need a pro-level snare to play doom metal?",
-        answer: "No — a Pearl Export, Ludwig Acrolite, or Mapex Storm Series snare, tuned low and open, will teach real doom technique at a fraction of the price of Bill Ward's Ludwig Supraphonic or the Tama S.L.P. G-Maple and signature Gretsch models used by doom's modern lineage. Upgrade once your technique and budget allow."
+        answer: "No — a Pearl Export, Ludwig Acrolite, or Mapex Storm Series snare, tuned low and open, will teach real doom technique at a fraction of the price of Bill Ward's Ludwig Supraphonic or the Tama S.L.P. G-Maple and Tama Starclassic Performer B/B models used by doom's modern lineage. Upgrade once your technique and budget allow."
       }
     ],
 
     // Conclusion
     conclusion: {
       title: "Find Your Doom Metal Snare Voice",
-      content: `Doom metal snare choice comes down to how much depth and low-tuned weight your riffs demand. Bill Ward's Ludwig Supraphonic defined the genre's actual founding crack, anchoring Black Sabbath's earliest, most influential records. Brann Dailor's Gretsch Signature proved that same warm, weighted foundation could carry forward into modern, more densely layered progressive sludge-doom. Mario Duplantier's Tama S.L.P. G-Maple shows how technical precision can layer onto doom's crushing, tonnage-first foundation, while Danny Carey's dual-snare Sonor setup demonstrates how deliberate deceleration itself can become doom's defining atmospheric device.
+      content: `Doom metal snare choice comes down to how much depth and low-tuned weight your riffs demand. Bill Ward's Ludwig Supraphonic defined the genre's actual founding crack, anchoring Black Sabbath's earliest, most influential records. Brann Dailor's Tama Starclassic Performer B/B kit proved that same warm, weighted foundation could carry forward into modern, more densely layered progressive sludge-doom. Mario Duplantier's Tama S.L.P. G-Maple shows how technical precision can layer onto doom's crushing, tonnage-first foundation, while Danny Carey's dual-snare Sonor setup demonstrates how deliberate deceleration itself can become doom's defining atmospheric device.
 
 None of these approaches is more "correct" — all four represent doom metal's founding commitment to depth and weight over speed and cut. Start with whichever depth and material matches your material's density, and don't be afraid to tune lower and more open than other metal subgenres would suggest.
 
-Budget shouldn't stop you either. A Pearl Export, Ludwig Acrolite, or Mapex Storm Series snare will teach real technique and survive demanding practice while you save toward the Ludwig Supraphonic, Gretsch Signature, and Tama S.L.P. G-Maple models that defined this lineage's heaviest records.
+Budget shouldn't stop you either. A Pearl Export, Ludwig Acrolite, or Mapex Storm Series snare will teach real technique and survive demanding practice while you save toward the Ludwig Supraphonic, Tama Starclassic Performer B/B, and Tama S.L.P. G-Maple models that defined this lineage's heaviest records.
 
 🤘 **Now go get crushing.**`
     }
@@ -79346,7 +79345,7 @@ Budget shouldn't stop you either. A Meinl HCS or Sabian SBR set will teach real 
       title: "Why Doom Metal Needs a Weighted, Deliberate Pedal — Not a Speed Machine",
       content: `Doom metal inverts almost everything extreme metal usually asks of a bass drum pedal. Instead of chasing 250+ BPM blast beats, doom locks into riffs at a fraction of that tempo, and every kick hit has to land with deliberate, weighted authority rather than rapid-fire precision. That changes the pedal brief entirely: rather than the lightest, fastest-returning cam and footboard combination you can find, doom rewards a pedal that delivers consistent, heavy impact on a single, massive downbeat — with speed reserved for the rare double-kick accent rather than sustained sixteenth notes.
 
-Bill Ward, who invented doom metal's tempo-and-tonnage template with Black Sabbath, doesn't currently have a dedicated MetalForge gear profile — so this guide draws on the closest working analogues from progressive sludge, technical death, and progressive rock lineages that share doom's foundational commitment to weight over speed. Mario Duplantier drives Gojira's dual 22"x18" kicks with a pair of Tama Iron Cobra 900 Power Glide pedals rather than a single double pedal, giving each kick independent, crushing control. Igor Cavalera relies on a Pearl Eliminator double pedal to cut through Sepultura's tribal, down-tuned heaviness. Danny Carey's massive Tool rig runs a Sonor Giant Step Twin Effect double pedal for consistent response across one of the largest touring kits in rock, and Brann Dailor pairs his warm Gretsch Signature kit with a Tama Speed Cobra double pedal for Mastodon's more straightforward, riff-locked doom-sludge grooves.
+Bill Ward, who invented doom metal's tempo-and-tonnage template with Black Sabbath, doesn't currently have a dedicated MetalForge gear profile — so this guide draws on the closest working analogues from progressive sludge, technical death, and progressive rock lineages that share doom's foundational commitment to weight over speed. Mario Duplantier drives Gojira's dual 22"x18" kicks with a pair of Tama Iron Cobra 900 Power Glide pedals rather than a single double pedal, giving each kick independent, crushing control. Igor Cavalera relies on a Pearl Eliminator double pedal to cut through Sepultura's tribal, down-tuned heaviness. Danny Carey's massive Tool rig runs a Sonor Giant Step Twin Effect double pedal for consistent response across one of the largest touring kits in rock, and Brann Dailor pairs his warm Tama Starclassic Performer B/B kit with a Tama Speed Cobra double pedal for Mastodon's more straightforward, riff-locked doom-sludge grooves.
 
 This guide breaks down drive systems, spring tension, and footboard weight for doom-adjacent pedals — comparing single and dual-kick setups across four drummers whose lineages run closest to doom's crushing rhythmic foundation, with recommendations from budget to professional touring rigs.`,
       keyPoints: [
@@ -79534,7 +79533,7 @@ Paired with a large-format kit, the Giant Step Twin Effect proves that a pedal d
           tier: "pro",
           driveType: "Chain Drive (Speedo-Ring)",
 
-          description: `Brann Dailor pairs his warm Gretsch Brann Dailor Signature kit with a Tama Speed Cobra double pedal for Mastodon's more straightforward, riff-locked doom-sludge grooves. The Speedo-Ring sprocket combines the smooth feel of direct drive with the familiar swing of chain drive, giving him controlled, musical response without needing an exotic setup.
+          description: `Brann Dailor pairs his warm Tama Starclassic Performer B/B kit with a Tama Speed Cobra double pedal for Mastodon's more straightforward, riff-locked doom-sludge grooves. The Speedo-Ring sprocket combines the smooth feel of direct drive with the familiar swing of chain drive, giving him controlled, musical response without needing an exotic setup.
 
 For doom-adjacent drummers whose material rarely calls for rapid double bass, the Speed Cobra still delivers everything the genre actually needs, with speed in reserve for the rare fill.`,
 
@@ -79721,7 +79720,7 @@ Budget shouldn't stop you either. A Tama Iron Cobra 600 or DW 3000 Series pedal 
     // SEO metadata
     title: "Best Drum Pedals for Sludge Metal: 2026 Ultimate Guide",
     metaTitle: "Best Drum Pedals for Sludge Metal 2026 | MetalForge Expert Guide",
-    description: "Best drum pedals for sludge metal drumming: what Igor Cavalera (Pearl Eliminator), Mario Duplantier (dual Tama Iron Cobra 900 Power Glide), Brann Dailor (DW 5000), and Shannon Larkin (Tama Iron Cobra 600) actually play. Thick, weighted response for sludge's crushing, riff-driven grooves — ranked budget to pro.",
+    description: "Best drum pedals for sludge metal drumming: what Igor Cavalera (Pearl Eliminator), Mario Duplantier (dual Tama Iron Cobra 900 Power Glide), Brann Dailor (Tama Speed Cobra), and Shannon Larkin (Tama Iron Cobra 600) actually play. Thick, weighted response for sludge's crushing, riff-driven grooves — ranked budget to pro.",
     seoKeywords: [
       'best drum pedals for sludge metal',
       'sludge metal bass drum pedal',
@@ -79758,13 +79757,13 @@ Budget shouldn't stop you either. A Tama Iron Cobra 600 or DW 3000 Series pedal 
       title: "Why Sludge Metal Needs a Thick, Weighted Pedal Over Raw Speed",
       content: `Sludge metal shares doom's commitment to slow, riff-driven weight, but layers in a grittier, more aggressive edge borrowed from hardcore and Southern groove. That combination asks a bass drum pedal to deliver a thick, heavy hit that locks in with a crushing, down-tuned riff — with just enough reserve power for the occasional faster, more aggressive passage that separates sludge from pure doom.
 
-Igor Cavalera's Pearl Eliminator double pedal anchors Sepultura's tribal, down-tuned heaviness with reliable, controlled response. Mario Duplantier skips a double pedal entirely, driving Gojira's dual 22"x18" kicks with two independent Tama Iron Cobra 900 Power Glide pedals for crushing, tectonic weight. Brann Dailor pairs his warm Gretsch Signature kit with a DW 5000 Series pedal on Mastodon's crushing early catalog, and Shannon Larkin's Tama Iron Cobra 600 gives Godsmack's platinum-selling, groove-heavy sludge influence its weighted, dependable low end.
+Igor Cavalera's Pearl Eliminator double pedal anchors Sepultura's tribal, down-tuned heaviness with reliable, controlled response. Mario Duplantier skips a double pedal entirely, driving Gojira's dual 22"x18" kicks with two independent Tama Iron Cobra 900 Power Glide pedals for crushing, tectonic weight. Brann Dailor pairs his warm Tama Starclassic Performer B/B kit with a Tama Speed Cobra pedal on Mastodon's crushing early catalog, and Shannon Larkin's Tama Iron Cobra 600 gives Godsmack's platinum-selling, groove-heavy sludge influence its weighted, dependable low end.
 
 This guide breaks down drive systems, spring tension, and beater mass for sludge-metal pedals — comparing single, double, and dual independent setups across four drummers whose lineages define the genre's crushing, riff-driven foundation, with recommendations from budget to professional touring rigs.`,
       keyPoints: [
         "Igor Cavalera's Pearl Eliminator double pedal delivers reliable, controlled tonnage for Sepultura's down-tuned tribal heaviness",
         "Mario Duplantier drives Gojira's dual kicks with two independent Tama Iron Cobra 900 Power Glide pedals rather than a shared double pedal",
-        "Brann Dailor's single DW 5000 Series pedal proves sludge's crushing weight doesn't require a double pedal",
+        "Brann Dailor's single Tama Speed Cobra pedal proves sludge's crushing weight doesn't require a double pedal",
         "Shannon Larkin's Tama Iron Cobra 600 brought sludge-influenced groove weight into Godsmack's platinum-selling hard rock catalog"
       ]
     },
@@ -79776,7 +79775,7 @@ This guide breaks down drive systems, spring tension, and beater mass for sludge
         {
           name: "Thick, Weighted Impact",
           icon: "⚓",
-          description: "Sludge's crushing, down-tuned riffs need a pedal that delivers real low-end thump on every hit. Igor Cavalera's Pearl Eliminator and Brann Dailor's DW 5000 both prioritize weighted, controlled power over lightweight speed.",
+          description: "Sludge's crushing, down-tuned riffs need a pedal that delivers real low-end thump on every hit. Igor Cavalera's Pearl Eliminator and Brann Dailor's Tama Speed Cobra both prioritize weighted, controlled power over lightweight speed.",
           recommendation: "A heavier spring and beater combination tuned for thick, low-end impact"
         },
         {
@@ -79898,43 +79897,43 @@ The Power Glide cam trades a bit of raw top-end speed for a smoother, more power
         },
         {
           rank: 3,
-          name: "DW 5000 Series",
-          brand: "DW",
-          model: "DWCP5000AD4 Accelerator",
+          name: "Tama Speed Cobra Single Pedal",
+          brand: "Tama",
+          model: "Speed Cobra Single Pedal",
           image: "https://upload.wikimedia.org/wikipedia/commons/7/74/Dixon-double-pedal.jpg",
-          priceRange: "€180-230 (single)",
+          priceRange: "€200-260 (single)",
           tier: "mid",
-          driveType: "Chain Drive",
+          driveType: "Chain Drive (Speedo-Ring)",
 
-          description: `Brann Dailor pairs his warm Gretsch Brann Dailor Signature kit with a DW 5000 Series single pedal, anchoring Mastodon's crushing early catalog — "Remission" (2002) and "Leviathan" (2004) — without any double-kick hardware at all. The Accelerator cam's adjustable stroke lets him dial in exactly how much punch each single downbeat needs.
+          description: `Brann Dailor pairs his warm Tama Starclassic Performer B/B kit with a Tama Speed Cobra pedal, anchoring Mastodon's crushing early catalog — "Remission" (2002) and "Leviathan" (2004) — without any double-kick hardware at all. The Speedo-Ring sprocket combines the smooth feel of direct drive with the familiar swing of chain drive, letting him dial in exactly how much punch each single downbeat needs.
 
-For sludge drummers whose material rarely calls for rapid double bass, a well-built single pedal like the DW 5000 delivers everything the genre's crushing riffs actually need, at a fraction of a double pedal's cost.`,
+For sludge drummers whose material rarely calls for rapid double bass, a well-built single pedal like the Speed Cobra delivers everything the genre's crushing riffs actually need, at a fraction of a double pedal's cost.`,
 
           pros: [
             "Brann Dailor's Mastodon setup — crushing early-catalog weight without a double pedal",
-            "Adjustable Accelerator cam for dialing in punch per hit",
-            "DW build quality at a genuinely accessible single-pedal price",
+            "Speedo-Ring gives chain drive a smooth, direct-drive-like feel",
+            "Tama build quality at a genuinely accessible single-pedal price",
             "Ideal for sludge material that rarely needs rapid double bass",
             "Easy to pair with any kick drum brand"
           ],
           cons: [
             "Single pedal only — not built for double-kick accents",
-            "Chain drive rather than direct drive",
+            "Chain drive rather than true direct drive",
             "Basic bearings compared to premium double-pedal options"
           ],
           specs: {
-            drive: "Chain (Accelerator)",
-            bearings: "Standard Bearing",
+            drive: "Chain with Speedo-Ring",
+            bearings: "Oiles Bearings",
             footboard: "Standard",
-            beater: "DW SM101 (reversible)",
-            weight: "1.8 kg (single unit)"
+            beater: "Cobra Beater (dual surface)",
+            weight: "1.9 kg (single unit)"
           },
           usedBy: [
-            { name: "Brann Dailor", band: "Mastodon", note: "DW 5000 Series single pedal — crushing early-catalog weight" }
+            { name: "Brann Dailor", band: "Mastodon", note: "Tama Speed Cobra single pedal — crushing early-catalog weight" }
           ],
           verdict: "Best single-pedal pick for sludge that leans doom-heavy over grittier hardcore-influenced bursts.",
-          rating: 4.3,
-          affiliateLink: "https://www.thomann.de/intl/dw_dwcp5000ad4_accelerator.htm?partner_id=metalforge"
+          rating: 4.4,
+          affiliateLink: "https://www.thomann.de/intl/tama_speed_cobra_single.htm?partner_id=metalforge"
         },
         {
           rank: 4,
@@ -79991,10 +79990,10 @@ Larkin's setup proves that sludge's patient, riff-driven grooves scale just as w
           priceRange: "€90-120",
           tier: "budget",
           driveType: "Chain Drive",
-          description: "A budget entry into the same DW family that anchors Brann Dailor's professional setup. It won't match the 5000's adjustability, but it delivers dependable, weighted response for developing sludge drummers on a tight budget.",
-          pros: ["Same DW family DNA as Brann Dailor's professional pedal", "Genuinely affordable single-pedal entry point", "Dependable, weighted feel out of the box"],
-          cons: ["Limited adjustability compared to the 5000 Series", "Single pedal only"],
-          verdict: "Best budget path toward Dailor's DW sound.",
+          description: "A genuinely affordable single-pedal entry point for developing sludge drummers who don't yet need a double pedal, delivering dependable, weighted response on a tight budget.",
+          pros: ["Genuinely affordable single-pedal entry point", "Dependable, weighted feel out of the box", "Easy to pair with any kick drum brand"],
+          cons: ["Limited adjustability compared to premium pedals", "Single pedal only"],
+          verdict: "Best budget single-pedal starting point before stepping up to a double pedal.",
           rating: 4.0,
           affiliateLink: "https://www.thomann.de/intl/dw_dwcp3000_single_pedal.htm?partner_id=metalforge"
         },
@@ -80020,7 +80019,7 @@ Larkin's setup proves that sludge's patient, riff-driven grooves scale just as w
       title: "Single vs Double vs Dual Independent Pedals for Sludge Metal",
       content: `Kick setup splits sludge metal's leading drummers into distinct camps. Here's how they compare:
 
-**Single Pedal (Brann Dailor - DW):**
+**Single Pedal (Brann Dailor - Tama):**
 - Handles the vast majority of crushing, riff-locked sludge material
 - Simplest setup, easiest to maintain and transport
 - Best for traditional, doom-leaning sludge
@@ -80035,7 +80034,7 @@ Larkin's setup proves that sludge's patient, riff-driven grooves scale just as w
 - Maximizes independent tonal and timing control per kick
 - Best for technical, crushing sludge-death hybrids chasing tectonic weight
 
-**Our Recommendation:** Start with a single pedal (DW 5000 or budget DW 3000) if your material is straightforward, crushing sludge. Add a double pedal (Pearl Eliminator or Tama Iron Cobra 600) if you need reserve speed for grittier, hardcore-influenced sections. Only move to dual independent pedals if you're also running dual kick drums for maximum tectonic weight.`,
+**Our Recommendation:** Start with a single pedal (Tama Speed Cobra or budget DW 3000) if your material is straightforward, crushing sludge. Add a double pedal (Pearl Eliminator or Tama Iron Cobra 600) if you need reserve speed for grittier, hardcore-influenced sections. Only move to dual independent pedals if you're also running dual kick drums for maximum tectonic weight.`,
       comparisonTable: [
         { feature: "Weighted Impact", directDrive: "⭐⭐⭐⭐⭐", chainDrive: "⭐⭐⭐⭐" },
         { feature: "Setup Simplicity", directDrive: "⭐⭐⭐⭐⭐", chainDrive: "⭐⭐⭐" },
@@ -80060,7 +80059,7 @@ Larkin's setup proves that sludge's patient, riff-driven grooves scale just as w
         },
         {
           category: "Best Single Pedal",
-          pedal: "DW 5000 Series",
+          pedal: "Tama Speed Cobra Single Pedal",
           reason: "Brann Dailor's Mastodon setup. Proof that crushing weight doesn't require a double pedal."
         },
         {
@@ -80080,7 +80079,7 @@ Larkin's setup proves that sludge's patient, riff-driven grooves scale just as w
     relatedDrummers: [
       { slug: 'igor-cavalera', name: 'Igor Cavalera', reason: 'Pearl Eliminator double pedal — Sepultura tribal, down-tuned heaviness' },
       { slug: 'mario-duplantier', name: 'Mario Duplantier', reason: 'Dual Tama Iron Cobra 900 Power Glide — Gojira crushing, tectonic control' },
-      { slug: 'brann-dailor', name: 'Brann Dailor', reason: 'DW 5000 Series — Mastodon crushing early-catalog weight' },
+      { slug: 'brann-dailor', name: 'Brann Dailor', reason: 'Tama Speed Cobra — Mastodon crushing early-catalog weight' },
       { slug: 'shannon-larkin', name: 'Shannon Larkin', reason: 'Tama Iron Cobra 600 — Godsmack sludge-influenced groove weight' }
     ],
 
@@ -80088,7 +80087,7 @@ Larkin's setup proves that sludge's patient, riff-driven grooves scale just as w
     featuredDrummers: [
       { slug: 'igor-cavalera', name: 'Igor Cavalera', reason: 'Pearl Eliminator double pedal — Sepultura tribal, down-tuned heaviness' },
       { slug: 'mario-duplantier', name: 'Mario Duplantier', reason: 'Dual Tama Iron Cobra 900 Power Glide — Gojira crushing, tectonic control' },
-      { slug: 'brann-dailor', name: 'Brann Dailor', reason: 'DW 5000 Series — Mastodon crushing early-catalog weight' },
+      { slug: 'brann-dailor', name: 'Brann Dailor', reason: 'Tama Speed Cobra — Mastodon crushing early-catalog weight' },
       { slug: 'shannon-larkin', name: 'Shannon Larkin', reason: 'Tama Iron Cobra 600 — Godsmack sludge-influenced groove weight' }
     ],
 
@@ -80096,7 +80095,7 @@ Larkin's setup proves that sludge's patient, riff-driven grooves scale just as w
     faq: [
       {
         question: "Who are the best sludge metal drummers and what pedals do they use?",
-        answer: "Igor Cavalera of Sepultura plays a Pearl Eliminator double pedal, Mario Duplantier of Gojira drives dual kicks with two independent Tama Iron Cobra 900 Power Glide pedals, Brann Dailor of Mastodon plays a single DW 5000 Series pedal, and Shannon Larkin of Godsmack plays a Tama Iron Cobra 600 double pedal."
+        answer: "Igor Cavalera of Sepultura plays a Pearl Eliminator double pedal, Mario Duplantier of Gojira drives dual kicks with two independent Tama Iron Cobra 900 Power Glide pedals, Brann Dailor of Mastodon plays a single Tama Speed Cobra pedal, and Shannon Larkin of Godsmack plays a Tama Iron Cobra 600 double pedal."
       },
       {
         question: "What pedal does Igor Cavalera use?",
@@ -80104,7 +80103,7 @@ Larkin's setup proves that sludge's patient, riff-driven grooves scale just as w
       },
       {
         question: "Do sludge metal drummers need double bass pedals?",
-        answer: "Not always. Brann Dailor's single DW 5000 Series pedal handles Mastodon's crushing early catalog without any double-kick hardware. Igor Cavalera and Shannon Larkin both use double pedals mainly for reserve power on sludge's grittier, hardcore-influenced bursts rather than sustained double-bass speed."
+        answer: "Not always. Brann Dailor's single Tama Speed Cobra pedal handles Mastodon's crushing early catalog without any double-kick hardware. Igor Cavalera and Shannon Larkin both use double pedals mainly for reserve power on sludge's grittier, hardcore-influenced bursts rather than sustained double-bass speed."
       },
       {
         question: "What pedal does Mario Duplantier use?",
@@ -80112,14 +80111,14 @@ Larkin's setup proves that sludge's patient, riff-driven grooves scale just as w
       },
       {
         question: "What's the best budget pedal for sludge metal?",
-        answer: "The DW 3000 Series (around €90-120) shares the same family DNA as Brann Dailor's professional DW 5000 pedal. For a double-pedal budget option in the same family as Igor Cavalera's setup, the Pearl Demonator (€150-190) is a solid single-pedal starting point."
+        answer: "The DW 3000 Series (around €90-120) is a genuinely affordable single-pedal entry point. For a double-pedal budget option in the same family as Igor Cavalera's setup, the Pearl Demonator (€150-190) is a solid single-pedal starting point."
       }
     ],
 
     // Conclusion
     conclusion: {
       title: "Build Your Sludge Metal Pedal Arsenal",
-      content: `Sludge metal pedal choice comes down to how much thick, weighted impact your riffs demand — with just enough reserve power for the genre's grittier, hardcore-influenced bursts. Igor Cavalera's Pearl Eliminator double pedal defined the genre's most direct working analogue currently profiled at MetalForge, anchoring Sepultura's crushing early catalog. Mario Duplantier's dual independent Tama Iron Cobra 900 Power Glide pedals proved that technical precision can layer onto sludge's tonnage-first foundation without sacrificing organic feel. Brann Dailor's single DW 5000 pedal shows how a straightforward setup can still carry crushing weight, while Shannon Larkin's Tama Iron Cobra 600 demonstrates how sludge's patient, weight-over-speed philosophy scaled into platinum-selling hard rock.
+      content: `Sludge metal pedal choice comes down to how much thick, weighted impact your riffs demand — with just enough reserve power for the genre's grittier, hardcore-influenced bursts. Igor Cavalera's Pearl Eliminator double pedal defined the genre's most direct working analogue currently profiled at MetalForge, anchoring Sepultura's crushing early catalog. Mario Duplantier's dual independent Tama Iron Cobra 900 Power Glide pedals proved that technical precision can layer onto sludge's tonnage-first foundation without sacrificing organic feel. Brann Dailor's single Tama Speed Cobra pedal shows how a straightforward setup can still carry crushing weight, while Shannon Larkin's Tama Iron Cobra 600 demonstrates how sludge's patient, weight-over-speed philosophy scaled into platinum-selling hard rock.
 
 None of these approaches is more "correct" — all four represent sludge metal's founding commitment to thick, weighted tone over bright, cutting speed. Start with whichever setup matches your kick configuration, and don't be afraid to lean heavier on spring tension and beater mass than other metal subgenres would suggest.
 
@@ -104225,7 +104224,7 @@ Whatever you choose: dial in your tension for the buried stroke first, then buil
       title: "Why Doom Metal Needs Footboard Weight, Not Footboard Speed",
       content: `Doom metal is the one corner of metal drumming where a bass drum pedal's job has almost nothing to do with speed. A crawling 60 BPM riff doesn't need a pedal that fires sixteenth notes — it needs one that delivers full, controlled weight on every single downbeat, with a footboard that gives you real feedback on exactly how hard you're driving the beater into the head. Pedals tuned purely for blast-beat velocity often feel skittish and light underfoot at doom tempos, which is the opposite of what the genre's crushing, riff-locked hits demand.
 
-Mario Duplantier doesn't even run a linked double pedal with Gojira — he drives the band's two separate 22"x18" bass drums with a pair of independent Tama Iron Cobra 900 Power Glide pedals, giving each kick fully independent tension and timing for the tectonic weight of "From Mars to Sirius" and "Magma." Igor Cavalera's Pearl Eliminator double pedal carries Sepultura and Cavalera Conspiracy's down-tuned, tribal-influenced heaviness with a controlled, tonnage-first response. Danny Carey holds Tool's massive touring rig together on Tama Iron Cobra pedals built for dependable weight through long, patient compositions, while Brann Dailor proves Mastodon's riff-locked doom-sludge grooves don't even need a double pedal — a single DW 5000 handles it.
+Mario Duplantier doesn't even run a linked double pedal with Gojira — he drives the band's two separate 22"x18" bass drums with a pair of independent Tama Iron Cobra 900 Power Glide pedals, giving each kick fully independent tension and timing for the tectonic weight of "From Mars to Sirius" and "Magma." Igor Cavalera's Pearl Eliminator double pedal carries Sepultura and Cavalera Conspiracy's down-tuned, tribal-influenced heaviness with a controlled, tonnage-first response. Danny Carey holds Tool's massive touring rig together on Tama Iron Cobra pedals built for dependable weight through long, patient compositions, while Brann Dailor proves Mastodon's riff-locked doom-sludge grooves don't even need a double pedal — a single Tama Speed Cobra handles it.
 
 This guide breaks down exactly what footboard feel, spring tension, and beater mass mean for doom metal specifically, with pedal recommendations across every budget — from a first single pedal to the pro-level double and dual-independent setups behind the genre's heaviest records.`,
       keyPoints: [
@@ -104390,40 +104389,40 @@ A pedal doesn't need extreme-speed specs to anchor a demanding rig; it needs to 
         },
         {
           rank: 4,
-          name: "DW 5000 Series Accelerator",
-          brand: "DW",
-          model: "DWCP5000AD4 Accelerator",
+          name: "Tama Speed Cobra Single Pedal",
+          brand: "Tama",
+          model: "Speed Cobra Single Pedal",
           image: "https://upload.wikimedia.org/wikipedia/commons/7/74/Dixon-double-pedal.jpg",
-          priceRange: "€180-230 (single)",
+          priceRange: "€200-260 (single)",
           tier: "mid",
-          driveType: "Chain Drive",
-          description: `Brann Dailor pairs his warm Gretsch Signature kit with a single DW 5000 Accelerator pedal for Mastodon's straightforward, riff-locked doom-sludge grooves — proof that crushing weight doesn't require a double pedal at all. The adjustable Accelerator cam lets him dial in exactly how much punch each single downbeat needs.
+          driveType: "Chain Drive (Speedo-Ring)",
+          description: `Brann Dailor pairs his warm Tama Starclassic Performer B/B kit with a single Tama Speed Cobra pedal for Mastodon's straightforward, riff-locked doom-sludge grooves — proof that crushing weight doesn't require a double pedal at all. The Speedo-Ring sprocket lets him dial in exactly how much punch each single downbeat needs.
 
 For doom drummers whose material rarely calls for rapid double bass, a well-built single pedal like this delivers everything the genre actually needs at a fraction of the cost of a double.`,
           pros: [
             "Brann Dailor's Mastodon setup — straightforward, riff-locked doom-sludge weight",
-            "Adjustable Accelerator cam for dialing in punch per hit",
-            "DW build quality at a genuinely accessible single-pedal price",
+            "Speedo-Ring gives chain drive a smooth, direct-drive-like feel",
+            "Tama build quality at a genuinely accessible single-pedal price",
             "Ideal for doom material that rarely needs rapid double bass"
           ],
           cons: [
             "Single pedal only — not built for double-kick accents",
-            "Chain drive rather than direct drive",
+            "Chain drive rather than true direct drive",
             "Basic bearings compared to premium double-pedal options"
           ],
           specs: {
-            drive: "Chain (Accelerator)",
-            cam: "Accelerating cam",
+            drive: "Chain with Speedo-Ring",
+            cam: "Speedo-Ring sprocket",
             frame: "Cast aluminum",
-            beater: "Reversible DW SM101",
+            beater: "Cobra Beater (dual surface)",
             footboard: "Standard"
           },
           usedBy: [
-            { name: "Brann Dailor", band: "Mastodon", note: "DW 5000 Series single pedal — straightforward doom-sludge weight" }
+            { name: "Brann Dailor", band: "Mastodon", note: "Tama Speed Cobra single pedal — straightforward doom-sludge weight" }
           ],
           verdict: "Best single-pedal pick for straightforward doom. Proof that crushing weight doesn't require a double pedal.",
-          rating: 4.3,
-          affiliateLink: "https://www.thomann.de/intl/dw_dwcp5000ad4_accelerator.htm?partner_id=metalforge"
+          rating: 4.4,
+          affiliateLink: "https://www.thomann.de/intl/tama_speed_cobra_single.htm?partner_id=metalforge"
         }
       ]
     },
@@ -104454,10 +104453,10 @@ For doom drummers whose material rarely calls for rapid double bass, a well-buil
           priceRange: "€90-120",
           tier: "budget",
           material: "Cast aluminum",
-          description: "A budget entry into the same DW family that anchors Brann Dailor's professional single-pedal setup. It won't match the 5000's adjustability, but it delivers dependable, weighted response for developing doom drummers on a tight budget.",
-          pros: ["Same DW family DNA as Brann Dailor's professional pedal", "Genuinely affordable single-pedal entry point", "Dependable, weighted feel out of the box"],
-          cons: ["Limited adjustability compared to the 5000 Series", "Single pedal only"],
-          verdict: "Best budget path toward Dailor's straightforward, riff-locked DW sound.",
+          description: "A genuinely affordable single-pedal entry point for developing doom drummers who don't yet need a double pedal, delivering dependable, weighted response on a tight budget.",
+          pros: ["Genuinely affordable single-pedal entry point", "Dependable, weighted feel out of the box", "Easy to pair with any kick drum brand"],
+          cons: ["Limited adjustability compared to premium pedals", "Single pedal only"],
+          verdict: "Best budget single-pedal starting point before stepping up to a double pedal.",
           rating: 4.0,
           affiliateLink: "https://www.thomann.de/intl/dw_dwcp3000_single_pedal.htm?partner_id=metalforge"
         },
@@ -104494,7 +104493,7 @@ For doom drummers whose material rarely calls for rapid double bass, a well-buil
         },
         {
           category: "Best Single-Pedal Pick",
-          pedal: "DW 5000 Series Accelerator",
+          pedal: "Tama Speed Cobra Single Pedal",
           reason: "Brann Dailor's proof that crushing doom weight doesn't require a double pedal at all."
         }
       ]
@@ -104511,12 +104510,12 @@ For doom drummers whose material rarely calls for rapid double bass, a well-buil
       { slug: 'mario-duplantier', name: 'Mario Duplantier', reason: 'Dual independent Tama Iron Cobra 900 Power Glide — Gojira crushing, tectonic control' },
       { slug: 'igor-cavalera', name: 'Igor Cavalera', reason: 'Pearl Eliminator double pedal — Sepultura tribal, down-tuned heaviness' },
       { slug: 'danny-carey', name: 'Danny Carey', reason: 'Tama Iron Cobra pedals — Tool massive touring rig consistency' },
-      { slug: 'brann-dailor', name: 'Brann Dailor', reason: 'DW 5000 Series single pedal — Mastodon straightforward riff-locked weight' }
+      { slug: 'brann-dailor', name: 'Brann Dailor', reason: 'Tama Speed Cobra single pedal — Mastodon straightforward riff-locked weight' }
     ],
 
     featuredDrummers: [
       { slug: 'mario-duplantier', name: 'Mario Duplantier', reason: 'Dual independent Tama Iron Cobra 900 Power Glide for Gojira\'s crushing weight' },
-      { slug: 'brann-dailor', name: 'Brann Dailor', reason: 'Proof a single DW 5000 pedal can carry an entire doom-sludge catalog' }
+      { slug: 'brann-dailor', name: 'Brann Dailor', reason: 'Proof a single Tama Speed Cobra pedal can carry an entire doom-sludge catalog' }
     ],
 
     // FAQ section for SEO
@@ -104531,7 +104530,7 @@ For doom drummers whose material rarely calls for rapid double bass, a well-buil
       },
       {
         question: "Do doom metal drummers need a double bass drum pedal?",
-        answer: "Not usually. Brann Dailor's single DW 5000 Series pedal handles Mastodon's straightforward, riff-locked doom-sludge grooves without any double-kick hardware. Igor Cavalera and Danny Carey both use double pedals, mostly for occasional accents rather than sustained double-bass speed."
+        answer: "Not usually. Brann Dailor's single Tama Speed Cobra pedal handles Mastodon's straightforward, riff-locked doom-sludge grooves without any double-kick hardware. Igor Cavalera and Danny Carey both use double pedals, mostly for occasional accents rather than sustained double-bass speed."
       },
       {
         question: "What beater is best for doom metal's slow, heavy riffs?",
@@ -104546,7 +104545,7 @@ For doom drummers whose material rarely calls for rapid double bass, a well-buil
     // Conclusion
     conclusion: {
       title: "Build Your Weighted, Deliberate Foundation",
-      content: `Doom metal pedal choice comes down to how much controlled weight your riffs demand — not how many notes per second you can squeeze out of a footboard. Mario Duplantier's dual independent Tama Iron Cobra 900 Power Glide pedals define the genre's tonnage-first template, driving two separate kicks with full independent control. Igor Cavalera's Pearl Eliminator proves the same philosophy carries into tribal groove metal, while Danny Carey's Tama Iron Cobra pedals show how dependable, weighted response anchors even the largest touring rigs. Brann Dailor's single DW 5000 pedal rounds things out, proving crushing doom weight doesn't require a double pedal at all.
+      content: `Doom metal pedal choice comes down to how much controlled weight your riffs demand — not how many notes per second you can squeeze out of a footboard. Mario Duplantier's dual independent Tama Iron Cobra 900 Power Glide pedals define the genre's tonnage-first template, driving two separate kicks with full independent control. Igor Cavalera's Pearl Eliminator proves the same philosophy carries into tribal groove metal, while Danny Carey's Tama Iron Cobra pedals show how dependable, weighted response anchors even the largest touring rigs. Brann Dailor's single Tama Speed Cobra pedal rounds things out, proving crushing doom weight doesn't require a double pedal at all.
 
 Start with whichever setup matches your kick configuration, and don't be afraid to prioritize a heavier spring and beater over raw top-end speed. Budget shouldn't stop you either — a Tama Iron Cobra 600 or DW 3000 Series pedal will teach real technique and survive slow, deliberate playing while you save toward the pro setups above.
 

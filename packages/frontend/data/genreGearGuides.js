@@ -11069,7 +11069,7 @@ Tomas Haake of Meshuggah has built his legendary polyrhythmic kick technique aro
 
           description: `The Pearl Demon Drive uses a direct drive mechanism — no chain, no belt, no slack between your foot and the beater. The solid aluminum drive rod transmits foot force instantly to the beater shaft, creating the most immediate, direct response possible. For extreme speed metal drummers who need maximum control over every micro-movement, the Demon Drive's direct action is unmatched.
 
-George Kollias of Nile — one of the fastest and most technically precise drummers in extreme metal — plays his own co-designed Pearl Demon XR, a signature pedal built on this same direct-drive platform, to sustain 270-280 BPM single-stroke kick patterns for extended periods. Its direct mechanism allows Kollias to maintain perfect note consistency at speeds that would cause chain-drive pedals to introduce unwanted variations in feel and timing. Gene Hoglan — "The Atomic Clock" — has trusted the standard Demon Drive since 2008 for the identical response it delivers at every dynamic level across his career with Death, Dark Angel, Testament, and Strapping Young Lad. For death metal, grindcore, and any extreme metal context where raw speed and technical precision are the primary demands, Pearl's direct-drive pedals are the premier choice.`,
+George Kollias of Nile — one of the fastest and most technically precise drummers in extreme metal — plays his own co-designed Pearl Demon XR, a signature pedal built on this same direct-drive platform, to sustain 270-280 BPM single-stroke kick patterns for extended periods. Its direct mechanism allows Kollias to maintain perfect note consistency at speeds that would cause chain-drive pedals to introduce unwanted variations in feel and timing. Gene Hoglan — "The Atomic Clock" — has trusted the standard Demon Drive since 2008 for the identical response it delivers at every dynamic level across his career with Death, Dark Angel, Testament, and Strapping Young Lad. Joey Jordison of Slipknot has trusted the Demon Drive since 2010, driving Slipknot's explosive combination of groove and extreme metal with the same direct-drive consistency. For death metal, grindcore, and any extreme metal context where raw speed and technical precision are the primary demands, Pearl's direct-drive pedals are the premier choice.`,
 
           pros: [
             "Direct drive — zero slack, maximum speed and control",
@@ -11093,6 +11093,7 @@ George Kollias of Nile — one of the fastest and most technically precise drumm
           usedBy: [
             { name: "George Kollias", band: "Nile", note: "Pearl Demon XR — fastest feet in death metal" },
             { name: "Gene Hoglan", band: "Death / Testament / Dark Angel", note: "Pearl Demon Drive — The Atomic Clock's precision instrument since 2008" },
+            { name: "Joey Jordison", band: "Slipknot", note: "Pearl Demon Drive — explosive groove and extreme metal precision since 2010" },
             { name: "Shannon Larkin", band: "Godsmack", note: "Pearl hardware for heavy groove" },
             { name: "Anton Johansson", band: "Various", note: "Extreme speed precision" }
           ],
@@ -11112,14 +11113,14 @@ George Kollias of Nile — one of the fastest and most technically precise drumm
 
           description: `The DW 9000 is the flagship pedal from Drum Workshop — the American brand that's been building some of the finest hardware and drums in the world since the 1970s. The 9000 series features DW's XF Extended Footboard for additional leverage, a smooth chain drive, and DW's signature magnetic controlled-friction spring system for consistent tension across all stroke positions.
 
-Joey Jordison of Slipknot used DW hardware throughout his career, driving Slipknot's explosive combination of groove and extreme metal. The DW 9000's consistent feel and American manufacturing quality make it the choice of drummers who want reliability and precision over anything else.`,
+The DW 9000's consistent feel and American manufacturing quality make it the choice of drummers who want reliability and precision over anything else.`,
 
           pros: [
             "XF Extended Footboard for superior leverage",
             "Magnetic spring system for consistent tension at all positions",
             "Premium American-made hardware quality",
             "Extensive adjustability for technique customization",
-            "Trusted by Joey Jordison for explosive groove and extreme metal precision"
+            "Trusted by Matt Garstka and Dirk Verbeuren for technical precision"
           ],
           cons: [
             "Highest price point in this guide",
@@ -11134,11 +11135,10 @@ Joey Jordison of Slipknot used DW hardware throughout his career, driving Slipkn
             spring: "Magnetic controlled-friction"
           },
           usedBy: [
-            { name: "Joey Jordison", band: "Slipknot", note: "DW 9000 for explosive nu/extreme metal" },
             { name: "Matt Garstka", band: "Animals as Leaders", note: "DW for technical precision" },
             { name: "Dirk Verbeuren", band: "Megadeth", note: "DW hardware for technical thrash precision" }
           ],
-          verdict: "Best for technical precision and dynamic range. Joey Jordison's choice is reason enough to consider it.",
+          verdict: "Best for technical precision and dynamic range. Dirk Verbeuren's choice is reason enough to consider it.",
           rating: 4.7,
           affiliateLink: "https://www.thomann.de/intl/dw_9000_double_pedal.htm?partner_id=metalforge"
         },
@@ -11306,12 +11306,13 @@ For metal drummers whose technique relies heavily on the heel-toe method or who 
 - Zero slack between foot and beater
 - George Kollias' choice for 280 BPM death metal precision
 - Gene Hoglan's platform since 2008 for consistent, dynamic-range precision
+- Joey Jordison's platform since 2010 for explosive groove and extreme metal
 - Best for extreme speed and technical death metal
 
 **DW 9000:**
 - Chain drive with extended footboard and magnetic spring
 - Precision-focused feel with exceptional dynamic consistency
-- Joey Jordison — technical precision and dynamic range
+- Dirk Verbeuren — technical precision and dynamic range
 - Best for technical metal and dynamic range across tempos
 
 **Trick Bigfoot:**
@@ -11340,12 +11341,12 @@ For metal drummers whose technique relies heavily on the heel-toe method or who 
         {
           category: "Best for Extreme Speed",
           pedal: "Pearl Demon Drive",
-          reason: "Direct drive eliminates chain slack for maximum speed and precision. George Kollias' pedal of choice for 280 BPM death metal."
+          reason: "Direct drive eliminates chain slack for maximum speed and precision. George Kollias' pedal of choice for 280 BPM death metal, also trusted by Joey Jordison since 2010."
         },
         {
           category: "Best for Technical Precision",
           pedal: "DW 9000",
-          reason: "Extended footboard and magnetic spring for consistent feel at all dynamics. Joey Jordison's platform for explosive groove and extreme metal precision."
+          reason: "Extended footboard and magnetic spring for consistent feel at all dynamics. Dirk Verbeuren's platform for technical thrash precision."
         },
         {
           category: "Best for Elite Players",
@@ -11365,7 +11366,7 @@ For metal drummers whose technique relies heavily on the heel-toe method or who 
       { slug: 'tomas-haake', name: 'Tomas Haake', reason: 'Iron Cobra — the world\'s most precise kick technique' },
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Pearl Demon XR — 280 BPM death metal extremity' },
       { slug: 'gene-hoglan', name: 'Gene Hoglan', reason: 'Pearl Demon Drive — The Atomic Clock\'s precision platform since 2008' },
-      { slug: 'joey-jordison', name: 'Joey Jordison', reason: 'DW hardware for explosive nu/extreme metal kick' },
+      { slug: 'joey-jordison', name: 'Joey Jordison', reason: 'Pearl Demon Drive for explosive nu/extreme metal kick since 2010' },
       { slug: 'chris-adler', name: 'Chris Adler', reason: 'Iron Cobra for Lamb of God groove metal authority' }
     ],
 
@@ -11404,9 +11405,9 @@ For metal drummers whose technique relies heavily on the heel-toe method or who 
       title: "Find Your Metal Kick Foundation",
       content: `Your bass drum pedal is the foundation of your entire kick technique. Tomas Haake didn't build the most precise kick machine in metal by accident — the Iron Cobra's adjustability and consistent action gave him a stable platform to develop his polyrhythmic approach over decades. George Kollias didn't reach 280 BPM by just practicing harder — the Demon XR's direct mechanism translated his extreme speed practice into consistent, reliable performance.
 
-For most metal drummers, the Tama Iron Cobra 900 is the answer. It's versatile, adjustable, indestructible, and used by more professional metal drummers than any competitor. If you're a death metal specialist pushing extreme speeds, consider the Pearl Demon Drive — Gene Hoglan's platform since 2008.
+For most metal drummers, the Tama Iron Cobra 900 is the answer. It's versatile, adjustable, indestructible, and used by more professional metal drummers than any competitor. If you're a death metal specialist pushing extreme speeds, consider the Pearl Demon Drive — Gene Hoglan's platform since 2008, also trusted by Joey Jordison since 2010.
 
-If you want American build quality and Joey Jordison's precision platform, the DW 9000 delivers.
+If you want American build quality and Dirk Verbeuren's precision platform, the DW 9000 delivers.
 
 Whatever you choose: learn your pedal, adjust it for your technique, and practice consistently. The pedal amplifies your technique — it doesn't replace it.
 
@@ -114527,7 +114528,7 @@ Start with the Tama Iron Cobra 600 if you're building technique on a budget, and
 
 Tomas Haake of Meshuggah built his legendary polyrhythmic kick technique around the Tama Iron Cobra — the single most common pedal among MetalForge's pro roster, prized for its smooth, predictable action and fine-tunable cam angle. George Kollias of Nile uses Pearl's Demon XR to sustain 270-280 BPM single-stroke patterns, showing what direct drive offers once you need maximum speed. Gene Hoglan, "The Atomic Clock," has trusted a Pearl Demon Drive since 2008 across Death, Testament, and Dark Angel for its consistent, dependable feel at every dynamic level.
 
-Joey Jordison of Slipknot relied on DW hardware, driving the band's explosive combination of groove and extreme metal.
+Joey Jordison of Slipknot relied on a Pearl Demon Drive since 2010, driving the band's explosive combination of groove and extreme metal.
 
 This guide breaks down the fundamentals — drive systems, bearings, and footboard feel — that apply across every metal subgenre, plus which specific pedals the pros actually use, from first-pedal budgets to professional touring rigs.`,
       keyPoints: [
@@ -114632,7 +114633,7 @@ The Iron Cobra's combination of smooth action, adjustability, and bulletproof du
           priceRange: "€500-600",
           tier: "pro",
           driveType: "Direct Drive",
-          description: `George Kollias of Nile — one of the fastest and most technically precise drummers in metal — plays his own co-designed Pearl Demon XR, built on this same direct-drive platform, to sustain 270-280 BPM single-stroke kick patterns for extended periods. Its direct mechanism gives Kollias perfect note consistency at speeds that would introduce unwanted variation in a chain-drive pedal. Gene Hoglan — "The Atomic Clock" — has trusted the standard Demon Drive since 2008 across Death, Testament, and Dark Angel, its identical response at every dynamic level suiting his technical precision.
+          description: `George Kollias of Nile — one of the fastest and most technically precise drummers in metal — plays his own co-designed Pearl Demon XR, built on this same direct-drive platform, to sustain 270-280 BPM single-stroke kick patterns for extended periods. Its direct mechanism gives Kollias perfect note consistency at speeds that would introduce unwanted variation in a chain-drive pedal. Gene Hoglan — "The Atomic Clock" — has trusted the standard Demon Drive since 2008 across Death, Testament, and Dark Angel, its identical response at every dynamic level suiting his technical precision. Joey Jordison of Slipknot has also trusted the Demon Drive since 2010, driving Slipknot's explosive combination of groove and extreme metal.
 
 Once your technique has outgrown what chain drive can offer, Pearl's direct-drive pedals are the natural upgrade for any metal drummer chasing raw speed and precision.`,
           pros: [
@@ -114640,7 +114641,7 @@ Once your technique has outgrown what chain drive can offer, Pearl's direct-driv
             "Interchangeable cam system (Direct Drive/Standard)",
             "Click-Lock spring tension adjustment",
             "PowerShifter longboard included",
-            "Also Gene Hoglan's platform since 2008 for dynamic precision",
+            "Also Gene Hoglan's platform since 2008 and Joey Jordison's since 2010",
             "The natural upgrade once chain drive isn't fast enough"
           ],
           cons: [
@@ -114657,7 +114658,8 @@ Once your technique has outgrown what chain drive can offer, Pearl's direct-driv
           },
           usedBy: [
             { name: "George Kollias", band: "Nile", note: "Sustains 270-280 BPM single-stroke patterns" },
-            { name: "Gene Hoglan", band: "Death / Testament / Dark Angel", note: "Pearl Demon Drive — The Atomic Clock's precision instrument since 2008" }
+            { name: "Gene Hoglan", band: "Death / Testament / Dark Angel", note: "Pearl Demon Drive — The Atomic Clock's precision instrument since 2008" },
+            { name: "Joey Jordison", band: "Slipknot", note: "Pearl Demon Drive — explosive groove and extreme metal precision since 2010" }
           ],
           verdict: "The speed upgrade. Once you know you need maximum sustained speed, this delivers it.",
           rating: 4.8,
@@ -114672,11 +114674,11 @@ Once your technique has outgrown what chain drive can offer, Pearl's direct-driv
           priceRange: "€650-750",
           tier: "pro",
           driveType: "Chain Drive (Dual Chain)",
-          description: `Joey Jordison of Slipknot relied on DW hardware throughout his career, driving the band's explosive combination of groove and extreme metal. The 9000's consistent feel and dual chain drive made it his choice for reliability and precision.
+          description: `The DW 9000's consistent feel and dual chain drive give it a reliable, precise character across groove and extreme metal styles alike.
 
 The DW 9000's consistent feel and American manufacturing quality make it the choice of drummers who want reliability and precision over any single specialized feature.`,
           pros: [
-            "Trusted by Joey Jordison — explosive groove and extreme metal precision",
+            "Dual chain drive built for reliability and precision",
             "Infinitely adjustable — customize everything",
             "Dual chain for power and stability",
             "Exceptional build quality",
@@ -114694,10 +114696,8 @@ The DW 9000's consistent feel and American manufacturing quality make it the cho
             beater: "DW SM101 (reversible)",
             weight: "5.2 kg (pair)"
           },
-          usedBy: [
-            { name: "Joey Jordison", band: "Slipknot", note: "DW hardware for explosive groove/extreme metal" }
-          ],
-          verdict: "Best for technical precision and dynamic range across metal styles. Joey Jordison's choice is reason enough to consider it.",
+          usedBy: [],
+          verdict: "Best for technical precision and dynamic range across metal styles, with consistent feel at every dynamic level.",
           rating: 4.6,
           affiliateLink: "https://www.thomann.de/intl/dw_9000_double_pedal.htm?partner_id=metalforge"
         },
@@ -114816,12 +114816,12 @@ For a first serious pedal, before you've decided which metal subgenre you'll spe
         {
           category: "Best for Maximum Speed",
           pedal: "Pearl Demon Drive",
-          reason: "George Kollias sustains 270-280 BPM single-stroke patterns on this pedal — the upgrade once chain drive isn't fast enough. Also Gene Hoglan's platform since 2008."
+          reason: "George Kollias sustains 270-280 BPM single-stroke patterns on this pedal — the upgrade once chain drive isn't fast enough. Also Gene Hoglan's platform since 2008 and Joey Jordison's since 2010."
         },
         {
           category: "Best for Technical Precision",
           pedal: "DW 9000 Double Pedal",
-          reason: "Joey Jordison trusts DW for consistent, dependable feel across groove and extreme metal styles."
+          reason: "Consistent, dependable feel across groove and extreme metal styles thanks to its dual chain drive."
         },
         {
           category: "Best Budget",
@@ -114842,7 +114842,7 @@ For a first serious pedal, before you've decided which metal subgenre you'll spe
       { slug: 'tomas-haake', name: 'Tomas Haake', reason: 'Tama Iron Cobra — the world\'s most precise polyrhythmic kick technique with Meshuggah' },
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Pearl Demon XR — sustaining 270-280 BPM single-stroke patterns with Nile' },
       { slug: 'gene-hoglan', name: 'Gene Hoglan', reason: 'Pearl Demon Drive — The Atomic Clock\'s precision platform across Death and Testament since 2008' },
-      { slug: 'joey-jordison', name: 'Joey Jordison', reason: 'DW hardware for Slipknot\'s explosive groove/extreme metal kick' }
+      { slug: 'joey-jordison', name: 'Joey Jordison', reason: 'Pearl Demon Drive for Slipknot\'s explosive groove/extreme metal kick since 2010' }
     ],
 
     // Featured drummers (issue template)

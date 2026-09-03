@@ -13989,14 +13989,14 @@ One genuinely overlooked factor in death metal snare setup: head tension consist
     // SEO metadata
     title: "Best Drum Kits for Black Metal: 2026 Ultimate Guide",
     metaTitle: "Best Drum Kits for Black Metal 2026 | MetalForge Expert Guide",
-    description: "Best drum kits for black metal drumming. What Hellhammer (Pearl Masters Premium), Inferno (Pearl Reference Pure), and Frost (Tama Starclassic Bubinga) actually use — from budget to pro, built for raw tone and blast beat endurance.",
+    description: "Best drum kits for black metal drumming. What Hellhammer (Sonor SQ2 Heavy Beech), Inferno (Pearl Reference Pure), and Frost (Tama Starclassic Bubinga) actually use — from budget to pro, built for raw tone and blast beat endurance.",
     seoKeywords: [
       'best drum kits for black metal',
       'black metal drum kit',
       'hellhammer drum kit',
       'inferno drum kit behemoth',
       'frost drum kit satyricon',
-      'pearl masters premium black metal',
+      'sonor sq2 heavy beech black metal',
       'tama starclassic bubinga black metal',
       'best beginner drum kit black metal',
       'drum kit for tremolo picking speed',
@@ -14026,11 +14026,11 @@ One genuinely overlooked factor in death metal snare setup: head tension consist
       title: "What Drum Kit Should I Use for Black Metal?",
       content: `Black metal drum kits face a different set of demands than thrash or death metal setups. The genre's defining sound — icy, raw, and relentless — comes from kits that can sustain blast beats and tremolo-picked blast patterns for entire songs while still cutting through lo-fi or deliberately harsh production. Durability matters as much as tone: black metal was built in cold Norwegian rehearsal spaces and DIY studios, not climate-controlled tracking rooms.
 
-Hellhammer of Mayhem recorded "De Mysteriis Dom Sathanas" — the album that defined black metal drumming — on a Pearl Masters Premium kit, establishing the raw, foundational tone the genre still measures itself against. Inferno of Behemoth drives the band's modern, more technical black/death hybrid sound on a Pearl Reference Pure kit, built for both blast beat speed and message clarity in dense mixes. Frost of Satyricon and 1349 recorded "Nemesis Divina" on a Pearl kit before moving to a Tama Starclassic Bubinga in 2013 for the precision his hyperspeed blast beats demand.
+Hellhammer of Mayhem, black metal drumming's most influential figure, has played a Sonor SQ2 Heavy Beech kit since 1999, its heavy beech shells giving him the raw, foundational tone the genre still measures itself against. Inferno of Behemoth drives the band's modern, more technical black/death hybrid sound on a Pearl Reference Pure kit, built for both blast beat speed and message clarity in dense mixes. Frost of Satyricon and 1349 recorded "Nemesis Divina" on a Pearl kit before moving to a Tama Starclassic Bubinga in 2013 for the precision his hyperspeed blast beats demand.
 
 This guide breaks down what actually makes a drum kit work for black metal — shell material, durability, and tone — and which specific kits the genre's most influential drummers play, from budget-friendly starter kits to the professional setups used on classic and modern black metal records.`,
       keyPoints: [
-        "Pearl Masters Premium defined black metal's raw tone on Mayhem's most influential recordings",
+        "Sonor SQ2 Heavy Beech has defined Hellhammer's raw black metal tone since 1999",
         "Durability and reliability matter as much as tone — black metal was built on DIY budgets",
         "Birch and maple shells both work; tuning and head choice shape the raw character more than wood alone",
         "Standard sizes: 22\" kick, 10\"/12\" rack toms, 14\"/16\" floor tom for fast, efficient blast beat fills"
@@ -14050,7 +14050,7 @@ This guide breaks down what actually makes a drum kit work for black metal — s
         {
           name: "Durability for DIY Touring",
           icon: "🛡️",
-          description: "Black metal's DIY roots mean gear often travels in vans through harsh weather, plays cold venues, and gets minimal soundcheck time. Hardware needs to hold tuning and survive abuse without constant adjustment. Pearl's reputation for reliability is a major reason Hellhammer and Inferno both built careers on Pearl kits.",
+          description: "Black metal's DIY roots mean gear often travels in vans through harsh weather, plays cold venues, and gets minimal soundcheck time. Hardware needs to hold tuning and survive abuse without constant adjustment. Pearl's reputation for reliability is a major reason Inferno built a career on Pearl kits, and Sonor's German-engineered SQ2 hardware has held up for Hellhammer just as well since 1999.",
           recommendation: "Heavy-duty lugs, reinforced bearing edges, and hardware that holds tuning through temperature swings"
         },
         {
@@ -14086,43 +14086,43 @@ This guide breaks down what actually makes a drum kit work for black metal — s
       pedals: [
         {
           rank: 1,
-          name: "Pearl Masters Premium",
-          brand: "Pearl",
-          model: "Masters Premium Series",
-          image: "https://upload.wikimedia.org/wikipedia/commons/a/ac/Drums_01.jpg",
-          priceRange: "€2200-3800 (shell pack)",
+          name: "Sonor SQ2 Heavy Beech",
+          brand: "Sonor",
+          model: "SQ2 Custom Series",
+          image: "https://upload.wikimedia.org/wikipedia/commons/6/6c/Acoustic_Drums_Kit_%2829965183378%29.jpg",
+          priceRange: "€3000-5000 (shell pack)",
           tier: "pro",
-          material: "Birch/Maple Hybrid Shell",
+          material: "Heavy Beech",
 
-          description: `The Pearl Masters Premium is the foundational black metal drum kit — Hellhammer of Mayhem recorded "De Mysteriis Dom Sathanas" on this setup, establishing the raw, relentless tone that defines black metal drumming to this day. The hybrid birch/maple shell construction balances the punchy attack of birch with the body and projection of maple, giving the kit enough presence to anchor lo-fi, icy production without sounding thin.
+          description: `The Sonor SQ2 Heavy Beech is black metal's foundational drum kit — Hellhammer of Mayhem has played this setup since 1999, and it defines the raw, relentless tone the genre still measures itself against. The heavy beech shell construction gives the kit a dense, focused low end and punchy attack, enough presence to anchor lo-fi, icy production without sounding thin.
 
-Pearl's SST (Superior Shell Technology) ensures consistent resonance across the kit, and the reinforced hardware holds tuning through the demanding touring conditions that defined early black metal's DIY ethos. If you want the Hellhammer sound, this is the starting point.`,
+The fully custom SQ2 platform's German-engineered hardware holds tuning through the demanding touring conditions that define black metal's DIY ethos. If you want the Hellhammer sound, this is the starting point.`,
 
           pros: [
-            "The black metal kit — Hellhammer's foundational Mayhem setup",
-            "Birch/maple hybrid shells for raw attack with body",
-            "SST construction for consistent resonance",
-            "Reliable hardware built for harsh touring conditions",
+            "The black metal kit — Hellhammer's long-running Mayhem/Dimmu Borgir setup since 1999",
+            "Heavy beech shells for raw attack with dense low end",
+            "Fully custom SQ2 specification for shell depth and configuration",
+            "Reliable German-engineered hardware built for harsh touring conditions",
             "Wide range of configurations available"
           ],
           cons: [
             "Premium pricing — significant investment",
-            "Hybrid shell character less suited to ultra-bright, technical tones",
+            "Custom SQ2 ordering process takes time",
             "Heavy for DIY van touring"
           ],
           specs: {
-            shell: "Birch/Maple Hybrid",
-            mount: "Optimount Suspension System",
+            shell: "Heavy Beech (SQ2 custom spec)",
+            mount: "Sonor TMS Suspension",
             finish: "Multiple lacquer/wrap options",
             kickSize: "22\" x 18\" standard",
             tomSizes: "10\", 12\" (rack) / 16\" (floor)"
           },
           usedBy: [
-            { name: "Hellhammer", band: "Mayhem", note: "Primary Pearl Masters Premium user — defined black metal's foundational tone" }
+            { name: "Hellhammer", band: "Mayhem / Dimmu Borgir", note: "Sonor SQ2 Heavy Beech since 1999 — defined black metal's foundational tone" }
           ],
           verdict: "The black metal standard. If you want the Hellhammer sound, this is the kit.",
           rating: 4.8,
-          affiliateLink: "https://www.thomann.de/intl/pearl_masters_premium_series.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/sonor_sq2_heavy_beech.htm?partner_id=metalforge"
         },
         {
           rank: 2,
@@ -14223,7 +14223,7 @@ The Export's biggest strength for black metal is durability at a low price — i
             "Worldwide availability and support"
           ],
           cons: [
-            "Poplar shells lack the raw character of Pearl Masters Premium",
+            "Poplar shells lack the raw character of the Sonor SQ2 Heavy Beech",
             "Will need head upgrades to sound professional",
             "Hardware less robust than premium options"
           ],
@@ -14237,7 +14237,7 @@ The Export's biggest strength for black metal is durability at a low price — i
           usedBy: [
             { name: "Black metal drummers on a budget", band: "Various", note: "The DIY-appropriate beginner kit" }
           ],
-          verdict: "Best budget black metal kit. Authentic underground roots, real durability, save for a Pearl Masters later.",
+          verdict: "Best budget black metal kit. Authentic underground roots, real durability, save for a Sonor SQ2 later.",
           rating: 4.1,
           affiliateLink: "https://www.thomann.de/intl/pearl_export_series.htm?partner_id=metalforge"
         },
@@ -14262,7 +14262,7 @@ For drummers building their first black metal setup on a tight budget, the Imper
             "Good upgrade path within Tama family"
           ],
           cons: [
-            "Poplar shells — less refined than Pearl Masters Premium or Sonor SQ2",
+            "Poplar shells — less refined than Sonor SQ2 Heavy Beech or Pearl Reference Pure",
             "Not tied to a specific black metal legend's setup"
           ],
           specs: {
@@ -14310,7 +14310,7 @@ For drummers building their first black metal setup on a tight budget, the Imper
           material: "Poplar",
           description: "A complete kit including hardware, which keeps total setup cost down for drummers building their first black metal rig from scratch.",
           pros: ["Includes hardware", "Tama quality control", "Complete kit value"],
-          cons: ["Less raw character than Pearl Masters Premium"],
+          cons: ["Less raw character than Sonor SQ2 Heavy Beech"],
           verdict: "Best value complete kit for first-time black metal drummers.",
           rating: 4.0,
           affiliateLink: "https://www.thomann.de/intl/tama_imperialstar_series.htm?partner_id=metalforge"
@@ -14320,11 +14320,11 @@ For drummers building their first black metal setup on a tight budget, the Imper
 
     // Shell material comparison
     comparison: {
-      title: "Birch/Maple Hybrid vs Pure Maple for Black Metal",
-      content: `The choice between Pearl's birch/maple hybrid and pure maple shells shapes your black metal tone in distinct ways:
+      title: "Heavy Beech vs Pure Maple for Black Metal",
+      content: `The choice between heavy beech and pure maple shells shapes your black metal tone in distinct ways:
 
-**Birch/Maple Hybrid (Pearl Masters Premium, Hellhammer's choice):**
-- Raw, punchy attack with enough body to anchor lo-fi production
+**Heavy Beech (Sonor SQ2 Heavy Beech, Hellhammer's choice since 1999):**
+- Raw, punchy attack with a dense, focused low end
 - The historically definitive black metal tone
 - Slightly less refined, more aggressive character
 - Better suited to traditional, icy black metal
@@ -14335,7 +14335,7 @@ For drummers building their first black metal setup on a tight budget, the Imper
 - More expensive and requires more careful tuning
 - The premium standard for modern black/death hybrid styles
 
-**Black Metal Recommendation:** Start with a birch/maple hybrid kit like the Masters Premium (or budget Pearl Export) if you specifically play raw, traditional black metal. Move to pure maple or bubinga (Reference Pure or Starclassic Bubinga) when you want more technical articulation for modern, blast-heavy compositions.`,
+**Black Metal Recommendation:** Start with a heavy beech kit like the Sonor SQ2 (or budget Pearl Export) if you specifically play raw, traditional black metal. Move to pure maple or bubinga (Reference Pure or Starclassic Bubinga) when you want more technical articulation for modern, blast-heavy compositions.`,
       comparisonTable: [
         { feature: "Raw Tone", birch: "⭐⭐⭐⭐⭐", maple: "⭐⭐⭐" },
         { feature: "Articulation", birch: "⭐⭐⭐", maple: "⭐⭐⭐⭐⭐" },
@@ -14351,8 +14351,8 @@ For drummers building their first black metal setup on a tight budget, the Imper
       picks: [
         {
           category: "Best Overall",
-          pedal: "Pearl Masters Premium",
-          reason: "Hellhammer's kit — the most historically significant black metal drum sound. Raw, durable, and proven on the genre's defining record."
+          pedal: "Sonor SQ2 Heavy Beech",
+          reason: "Hellhammer's kit since 1999 — the most historically significant black metal drum sound. Raw, durable, and proven across decades of Mayhem and Dimmu Borgir."
         },
         {
           category: "Best for Technical Black Metal",
@@ -14367,7 +14367,7 @@ For drummers building their first black metal setup on a tight budget, the Imper
         {
           category: "Best Budget",
           pedal: "Pearl Export",
-          reason: "Authentic DIY underground heritage at an accessible price. Save for a Masters Premium later."
+          reason: "Authentic DIY underground heritage at an accessible price. Save for a Sonor SQ2 later."
         }
       ]
     },
@@ -14380,14 +14380,14 @@ For drummers building their first black metal setup on a tight budget, the Imper
       'best-drum-hardware-for-black-metal'
     ],
     relatedDrummers: [
-      { slug: 'hellhammer', name: 'Hellhammer', reason: 'Pearl Masters Premium — foundational black metal raw tone' },
+      { slug: 'hellhammer', name: 'Hellhammer', reason: 'Sonor SQ2 Heavy Beech — foundational black metal raw tone since 1999' },
       { slug: 'inferno', name: 'Inferno', reason: 'Pearl Reference Pure — Behemoth modern black metal standard' },
       { slug: 'frost', name: 'Frost', reason: 'Tama Starclassic Bubinga — Norwegian black metal precision' }
     ],
 
     // Featured drummers (issue template)
     featuredDrummers: [
-      { slug: 'hellhammer', name: 'Hellhammer', reason: 'Pearl Masters Premium — foundational black metal raw tone' },
+      { slug: 'hellhammer', name: 'Hellhammer', reason: 'Sonor SQ2 Heavy Beech — foundational black metal raw tone since 1999' },
       { slug: 'inferno', name: 'Inferno', reason: 'Pearl Reference Pure — Behemoth modern black metal standard' },
       { slug: 'frost', name: 'Frost', reason: 'Tama Starclassic Bubinga — Norwegian black metal precision' },
     ],
@@ -14396,32 +14396,32 @@ For drummers building their first black metal setup on a tight budget, the Imper
     faq: [
       {
         question: "What drum kit should I use for black metal?",
-        answer: "Pearl Masters Premium is the historically definitive choice — Hellhammer recorded Mayhem's \"De Mysteriis Dom Sathanas\" on this kit, establishing black metal's raw, foundational tone. For more technical, modern black metal, Inferno's Pearl Reference Pure or Frost's Tama Starclassic Bubinga offer more articulate tone suited to blast-heavy compositions."
+        answer: "Sonor SQ2 Heavy Beech is the historically definitive choice — Hellhammer has played this kit since 1999, establishing black metal's raw, foundational tone across his Mayhem and Dimmu Borgir career. For more technical, modern black metal, Inferno's Pearl Reference Pure or Frost's Tama Starclassic Bubinga offer more articulate tone suited to blast-heavy compositions."
       },
       {
         question: "What drum kit does Hellhammer use?",
-        answer: "Hellhammer of Mayhem plays a Pearl Masters Premium kit, the foundational setup behind \"De Mysteriis Dom Sathanas\" and the black metal sound he helped define from the late 1980s onward. He has maintained Pearl as his primary drum set throughout his career."
+        answer: "Hellhammer of Mayhem plays a Sonor SQ2 Heavy Beech kit, his setup since 1999 and the black metal sound he helped define. He also runs Paiste RUDE cymbals, Vic Firth American Classic 5B sticks, and Remo Coated Ambassador heads."
       },
       {
         question: "What's the best kit for tremolo picking speed and blast beats?",
-        answer: "For sustained blast beat endurance behind fast tremolo-picked riffs, prioritize a kit with reinforced bass drum hoops and quality bearing edges that hold tuning under repeated impact — Pearl Masters Premium and Pearl Reference Pure both excel here. Dense, resonant shells (Reference Pure, Tama Starclassic Bubinga) respond fastest to subtle technique at high tempos."
+        answer: "For sustained blast beat endurance behind fast tremolo-picked riffs, prioritize a kit with reinforced bass drum hoops and quality bearing edges that hold tuning under repeated impact — Sonor SQ2 Heavy Beech and Pearl Reference Pure both excel here. Dense, resonant shells (Reference Pure, Tama Starclassic Bubinga) respond fastest to subtle technique at high tempos."
       },
       {
         question: "Do I need an expensive kit to play black metal?",
-        answer: "No — black metal's roots are explicitly DIY. Frost himself started on a Pearl Export Series kit in the early 1990s underground scene. A budget Pearl Export or Tama Imperialstar will teach you proper technique and survive aggressive practice. Upgrade to a Masters Premium or Reference Pure once your technique and budget catch up."
+        answer: "No — black metal's roots are explicitly DIY. Frost himself started on a Pearl Export Series kit in the early 1990s underground scene. A budget Pearl Export or Tama Imperialstar will teach you proper technique and survive aggressive practice. Upgrade to a Sonor SQ2 or Reference Pure once your technique and budget catch up."
       },
       {
         question: "Birch or maple shells for black metal?",
-        answer: "Birch/maple hybrid shells (Pearl Masters Premium) deliver the raw, punchy attack associated with traditional black metal. Pure maple (Pearl Reference Pure) is warmer and more articulate, while bubinga (Tama Starclassic Bubinga) adds low-end mass and projection — both suited to modern, technical black metal. Choose based on whether you want raw atmosphere or technical clarity."
+        answer: "Heavy beech shells (Sonor SQ2 Heavy Beech) deliver the raw, punchy attack associated with traditional black metal. Pure maple (Pearl Reference Pure) is warmer and more articulate, while bubinga (Tama Starclassic Bubinga) adds low-end mass and projection — both suited to modern, technical black metal. Choose based on whether you want raw atmosphere or technical clarity."
       }
     ],
 
     // Conclusion
     conclusion: {
       title: "Choose Your Black Metal Weapon",
-      content: `Black metal drum kits don't need to be expensive — they need to be reliable and capable of sustaining blast beats without falling apart. Hellhammer's Pearl Masters Premium defined the genre's raw tone on a budget that would be considered modest by today's standards; what mattered was durability and consistency, not luxury features.
+      content: `Black metal drum kits don't need to be expensive — they need to be reliable and capable of sustaining blast beats without falling apart. Hellhammer's Sonor SQ2 Heavy Beech defined the genre's raw tone on a budget that would be considered modest by today's standards; what mattered was durability and consistency, not luxury features.
 
-Whether you choose the historically definitive Pearl Masters Premium, the technically precise Pearl Reference Pure that drives Behemoth's modern assault, or Frost's Tama Starclassic Bubinga, remember that black metal's greatest recordings were made in cold rehearsal rooms and DIY studios on equipment far humbler than what's available today.
+Whether you choose the historically definitive Sonor SQ2 Heavy Beech, the technically precise Pearl Reference Pure that drives Behemoth's modern assault, or Frost's Tama Starclassic Bubinga, remember that black metal's greatest recordings were made in cold rehearsal rooms and DIY studios on equipment far humbler than what's available today.
 
 Start where your budget allows — even a Pearl Export will get you playing real black metal. Upgrade your heads and tuning technique before you upgrade your shells. The icy, raw atmosphere that defines this genre comes from technique and intent as much as gear.
 

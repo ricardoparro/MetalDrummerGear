@@ -11831,7 +11831,7 @@ This guide breaks down the technique, gear, and practice approach behind Ågren'
     genre: 'Death Metal / Technical Death Metal',
     priority: 45,
     title: "How to Sound Like Tim Yeung: Complete Gear & Technique Guide",
-    description: "Master Tim Yeung's blast beats at 280+ BPM. Learn the Morbid Angel drummer's relaxed, rebound-efficient technique, Pearl Reference Masters kit, Sabian cymbal setup, and Tama Speed Cobra 910 double bass pedal approach.",
+    description: "Master Tim Yeung's blast beats at 280+ BPM. Learn the Morbid Angel drummer's relaxed, rebound-efficient technique, Tama Starclassic Bubinga kit, Sabian cymbal setup, and Tama Speed Cobra 910 double bass pedal approach.",
     seoKeywords: ['tim yeung drums', 'how to play like tim yeung', 'tim yeung blast beat', 'morbid angel drummer', 'tim yeung technique', 'tim yeung gear'],
     ogImage: '/images/guides/tim-yeung-guide.webp',
     datePublished: '2026-07-01',
@@ -11898,24 +11898,24 @@ This guide breaks down the technique, gear, and practice approach behind Yeung's
     gear: {
       title: "Yeung's Gear Setup",
       drumKit: {
-        brand: 'Pearl',
-        model: 'Pearl Reference Masters',
-        shells: 'Maple/Mahogany hybrid',
+        brand: 'Tama',
+        model: 'Starclassic Bubinga',
+        shells: 'Bubinga',
         finish: 'Various touring finishes',
         config: {
           kick: '22" x 18" Bass Drums (x2)',
-          snare: '14" x 6.5" Pearl Free-Floating / Sensitone Snare',
+          snare: '14" x 6.5" Tama S.L.P. Big Black Steel Snare',
           toms: ['10" x 8" Rack Tom', '12" x 9" Rack Tom'],
           floorToms: ['16" x 14" Floor Tom', '18" x 16" Floor Tom']
         },
-        description: "The Reference Masters series uses Pearl's high-mass maple/mahogany hybrid shells, built to tolerances that translate identically from studio to stage. Two 22\" x 18\" kick drums provide the sub-bass mass that makes Yeung's double-kick patterns felt as well as heard, with each stroke articulating cleanly even at 200+ BPM.",
-        affiliateNote: "Pearl Export or Pearl Decade Maple offer similar hybrid-shell attack character at a lower price point."
+        description: "The Starclassic Bubinga series uses Tama's dense bubinga wood shells for a high-mass, focused low end that translates identically from studio to stage. Two 22\" x 18\" kick drums provide the sub-bass mass that makes Yeung's double-kick patterns felt as well as heard, with each stroke articulating cleanly even at 200+ BPM.",
+        affiliateNote: "Tama Imperialstar or Tama Superstar Custom offer similar high-mass shell attack character at a lower price point."
       },
       snare: {
-        brand: 'Pearl',
-        model: 'Pearl Free-Floating / Sensitone Snare',
+        brand: 'Tama',
+        model: 'S.L.P. Big Black Steel Snare',
         size: '14" x 6.5"',
-        shell: 'Steel or Brass',
+        shell: 'Steel',
         description: "A bright, focused snare tuning ensures every stroke articulates as a discrete event even when alternating with the kick at 200-280 strokes per minute — a challenge that eliminates lower-tension or thicker-shell snares that blur at extreme tempo.",
         alternative: "Any steel-shell snare tuned medium-bright with minimal muffling will approximate the cut."
       },
@@ -12009,16 +12009,16 @@ This guide breaks down the technique, gear, and practice approach behind Yeung's
       budget: {
         price: "$1,100",
         label: "Starter Setup",
-        kit: "Pearl Export ($750)",
+        kit: "Tama Imperialstar ($750)",
         cymbals: "Sabian SBR Pack + extra crash ($200)",
         pedals: "DW 3000 Double Pedal ($150)",
         sticks: "Vic Firth 5B ($10)",
-        notes: "Pearl's entry-level hybrid shells share the attack-focused character of the Reference Masters kit."
+        notes: "Tama's entry-level shells share the attack-focused character of the Starclassic Bubinga kit."
       },
       mid: {
         price: "$3,300",
         label: "Intermediate Setup",
-        kit: "Pearl Decade Maple ($1,900)",
+        kit: "Tama Superstar Custom ($1,900)",
         cymbals: "Sabian AAX full setup ($1,000)",
         pedals: "DW 5000 Double ($350)",
         sticks: "Vic Firth 5B ($10)",
@@ -12027,7 +12027,7 @@ This guide breaks down the technique, gear, and practice approach behind Yeung's
       pro: {
         price: "$6,000+",
         label: "Professional Setup",
-        kit: "Pearl Reference Masters ($3,500+)",
+        kit: "Tama Starclassic Bubinga ($3,500+)",
         cymbals: "Full Sabian AAX/HHX selection ($1,800+)",
         pedals: "Tama Speed Cobra 910 Double Pedal ($600)",
         heads: "Full Remo setup ($400)",
@@ -12045,7 +12045,7 @@ This guide breaks down the technique, gear, and practice approach behind Yeung's
       },
       {
         question: "What kit and cymbals does Tim Yeung use?",
-        answer: "Yeung plays a Pearl Reference Masters kit with maple/mahogany hybrid shells, built around a double 22\" x 18\" bass drum configuration. His cymbals are Sabian AAX and HHX series, including 14\" AAX hi-hats, 16\" and 18\" AAX crashes, a 20\" HHX ride, and an 18\" AAX china. He uses a Tama Speed Cobra 910 double bass pedal and Vic Firth 5B sticks."
+        answer: "Yeung plays a Tama Starclassic Bubinga kit with bubinga wood shells, built around a double 22\" x 18\" bass drum configuration. His cymbals are Sabian AAX and HHX series, including 14\" AAX hi-hats, 16\" and 18\" AAX crashes, a 20\" HHX ride, and an 18\" AAX china. He uses a Tama Speed Cobra 910 double bass pedal and Vic Firth 5B sticks."
       },
       {
         question: "How to play blast beats at 280+ BPM like Tim Yeung?",

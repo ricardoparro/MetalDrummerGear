@@ -40,17 +40,17 @@ export const licks = {
     },
     "gearUsed": [
       {
-        "name": "Pearl Masters Series",
+        "name": "Pearl Reference Pure",
         "type": "drums",
         "link": null
       },
       {
-        "name": "Sabian AAX / HHX Series Cymbals",
+        "name": "Zildjian A Custom & K Custom Series",
         "type": "cymbals",
         "link": null
       },
       {
-        "name": "DW or Pearl Double Pedal",
+        "name": "Pearl Demon Drive Double Pedal",
         "type": "pedals",
         "link": null
       },
@@ -117,17 +117,17 @@ export const licks = {
     },
     "gearUsed": [
       {
-        "name": "Pearl Masters Series",
+        "name": "Pearl Reference Pure",
         "type": "drums",
         "link": null
       },
       {
-        "name": "Sabian AAX / HHX Series Cymbals",
+        "name": "Zildjian A Custom & K Custom Series",
         "type": "cymbals",
         "link": null
       },
       {
-        "name": "DW or Pearl Double Pedal",
+        "name": "Pearl Demon Drive Double Pedal",
         "type": "pedals",
         "link": null
       },
@@ -195,17 +195,17 @@ export const licks = {
     },
     "gearUsed": [
       {
-        "name": "Pearl Masters Series",
+        "name": "Pearl Reference Pure",
         "type": "drums",
         "link": null
       },
       {
-        "name": "Sabian AAX / HHX Series Cymbals",
+        "name": "Zildjian A Custom & K Custom Series",
         "type": "cymbals",
         "link": null
       },
       {
-        "name": "DW or Pearl Double Pedal",
+        "name": "Pearl Demon Drive Double Pedal",
         "type": "pedals",
         "link": null
       },

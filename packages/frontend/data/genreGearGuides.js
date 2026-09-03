@@ -84599,12 +84599,12 @@ Budget shouldn't stop you either. A Pearl Export bass drum with a Tama Iron Cobr
     // SEO metadata
     title: "Best Bass Drums for Mathcore: 2026 Ultimate Guide",
     metaTitle: "Best Bass Drums for Mathcore in 2026 | MetalForge Expert Guide",
-    description: "Best bass drum setups for mathcore's rapid time-signature shifts: what Ben Koller (Tama Starclassic), Matt Greiner (Pearl Reference Pure), Blake Richardson (Pearl Reference Pure), and Danny Carey (Sonor SQ2) actually play. Tight, fast-decaying low end for odd-meter precision — ranked budget to pro.",
+    description: "Best bass drum setups for mathcore's rapid time-signature shifts: what Ben Koller (Tama Starclassic), Matt Greiner (Mapex Black Panther Design Lab), Blake Richardson (Pearl Reference Pure), and Danny Carey (Sonor SQ2) actually play. Tight, fast-decaying low end for odd-meter precision — ranked budget to pro.",
     seoKeywords: [
       'best bass drums for mathcore',
       'mathcore bass drum setup',
       'ben koller bass drum tama',
-      'matt greiner bass drum pearl',
+      'matt greiner bass drum mapex',
       'blake richardson bass drum pearl',
       'danny carey bass drum sonor',
       'tight bass drum for odd time signatures',
@@ -84636,7 +84636,7 @@ Budget shouldn't stop you either. A Pearl Export bass drum with a Tama Iron Cobr
       title: "What Bass Drum Setup Handles Mathcore's Rapid Time-Signature Shifts?",
       content: `Mathcore's constantly shifting time signatures and asymmetrical rhythmic cells put a very different demand on a bass drum than straightforward hardcore or metalcore. Instead of a big, sustained, resonant thump, the genre rewards a tight, fast-decaying low end that can articulate individual hits clearly even as the meter jumps from 7/8 to 11/16 mid-phrase. A bass drum that rings out too long smears notes together that need to stay rhythmically distinct — precision matters more here than raw weight.
 
-Ben Koller of Converge — whose fluid control within apparent rhythmic chaos on "Jane Doe" (2001) turned mathcore's unpredictability into genuine musical expression rather than mere noise — plays a Tama Starclassic Performer B/B bass drum through a Tama Iron Cobra double pedal, favoring a stripped-down setup that keeps every hit tight and controlled. Matt Greiner of August Burns Red runs a Pearl Reference Pure bass drum in Piano Black with a Pearl Demon Drive double pedal, giving his jazz-influenced, odd-time phrasing an immediate, well-defined low end. Blake Richardson of Between the Buried and Me plays a Pearl Reference Pure or Masters Maple bass drum, also through a Pearl Demon Drive double pedal, built to keep pace with BTBAM's genre-hopping meter changes without losing articulation. Danny Carey of Tool, whose Fibonacci-structured polyrhythms on "Lateralus" established a mathematically rigorous drumming standard that directly informed mathcore's own rhythmic ambitions, runs a Sonor SQ2 Heavy Beech bass drum with a Sonor Giant Step Twin Effect double pedal for dark, controlled definition across constantly shifting meters.
+Ben Koller of Converge — whose fluid control within apparent rhythmic chaos on "Jane Doe" (2001) turned mathcore's unpredictability into genuine musical expression rather than mere noise — plays a Tama Starclassic Performer B/B bass drum through a Tama Iron Cobra double pedal, favoring a stripped-down setup that keeps every hit tight and controlled. Matt Greiner of August Burns Red runs a Mapex Black Panther Design Lab bass drum with a DW 9000 Series double pedal, giving his jazz-influenced, odd-time phrasing an immediate, well-defined low end. Blake Richardson of Between the Buried and Me plays a Pearl Reference Pure or Masters Maple bass drum, also through a Pearl Demon Drive double pedal, built to keep pace with BTBAM's genre-hopping meter changes without losing articulation. Danny Carey of Tool, whose Fibonacci-structured polyrhythms on "Lateralus" established a mathematically rigorous drumming standard that directly informed mathcore's own rhythmic ambitions, runs a Sonor SQ2 Heavy Beech bass drum with a Sonor Giant Step Twin Effect double pedal for dark, controlled definition across constantly shifting meters.
 
 This guide breaks down shell size, head selection, and pedal choice for mathcore bass drums — comparing tight, fast-decaying setups across four drummers whose hardcore-rooted and progressive lineages define the genre's rhythmically unpredictable precision, with recommendations from budget to professional touring rigs.`,
       keyPoints: [
@@ -84666,7 +84666,7 @@ This guide breaks down shell size, head selection, and pedal choice for mathcore
         {
           name: "Precise, Immediate Pedal Response",
           icon: "🦶",
-          description: "Ben Koller's Tama Iron Cobra and Matt Greiner and Blake Richardson's shared Pearl Demon Drive pedals all prioritize immediate, predictable response — essential for landing accurately on mathcore's sudden tempo and meter changes without lagging behind the band's rhythmic whiplash.",
+          description: "Ben Koller's Tama Iron Cobra, Matt Greiner's DW 9000 Series, and Blake Richardson's Pearl Demon Drive pedals all prioritize immediate, predictable response — essential for landing accurately on mathcore's sudden tempo and meter changes without lagging behind the band's rhythmic whiplash.",
           recommendation: "A pedal tuned for immediate, predictable response over maximum top-end speed"
         },
         {
@@ -84736,43 +84736,43 @@ Koller's stripped-down setup emphasizes clarity and immediacy over raw power, a 
         },
         {
           rank: 2,
-          name: "Pearl Reference Pure + Pearl Demon Drive",
-          brand: "Pearl",
-          model: "Reference Pure (Piano Black) 22\"x18\" + Pearl Demon Drive Double Pedal",
+          name: "Mapex Black Panther Design Lab + DW 9000",
+          brand: "Mapex",
+          model: "Black Panther Design Lab 22\"x18\" + DW 9000 Series Double Pedal",
           image: "https://upload.wikimedia.org/wikipedia/commons/6/6c/Acoustic_Drums_Kit_%2829965183378%29.jpg",
           priceRange: "€700-950",
           tier: "pro",
-          material: "Maple/Birch/Mahogany, 22\"x18\" + direct-drive double pedal",
+          material: "Maple/Walnut Hybrid, 22\"x18\" + dual-chain double pedal",
 
-          description: `Matt Greiner's Pearl Reference Pure bass drum in Piano Black, paired with a Pearl Demon Drive double pedal, brings math metal's rhythmic complexity into mathcore-adjacent metalcore with August Burns Red. His jazz-influenced dynamics and precise sense of time require a bass drum that responds immediately and consistently across the band's odd time signature integration.
+          description: `Matt Greiner's Mapex Black Panther Design Lab bass drum, paired with a DW 9000 Series double pedal, brings math metal's rhythmic complexity into mathcore-adjacent metalcore with August Burns Red. His jazz-influenced dynamics and precise sense of time require a bass drum that responds immediately and consistently across the band's odd time signature integration.
 
-The Reference Pure's multi-ply shell construction balances low-end depth with a controlled, well-defined attack — giving Greiner a bass drum that stays articulate whether he's locked into a steady groove or navigating a sudden meter shift.`,
+The Design Lab's maple/walnut hybrid shell construction balances low-end depth with a controlled, well-defined attack — giving Greiner a bass drum that stays articulate whether he's locked into a steady groove or navigating a sudden meter shift.`,
 
           pros: [
             "Matt Greiner's August Burns Red setup — math metal complexity in mathcore-adjacent metalcore",
-            "Multi-ply shell balances low-end depth with controlled, defined attack",
-            "Pearl Demon Drive delivers immediate, reliable direct-drive response",
+            "Maple/walnut hybrid shell balances low-end depth with controlled, defined attack",
+            "DW 9000's free-floating rotor delivers immediate, reliable dual-chain response",
             "Proven across August Burns Red's Grammy-nominated, technically demanding catalog",
             "Versatile enough for both odd-time precision and full-force breakdown accents"
           ],
           cons: [
-            "Premium Reference Pure pricing",
+            "Premium Design Lab custom-configuration pricing",
             "22\"x18\" size carries more low-end weight than Koller's tighter, smaller shell",
             "Requires careful tuning to keep decay controlled at faster tempos"
           ],
           specs: {
             diameter: "22\"",
             depth: "18\"",
-            shell: "Maple/Birch/Mahogany (Reference Pure)",
-            pedal: "Pearl Demon Drive double pedal",
+            shell: "Maple/Walnut Hybrid (Black Panther Design Lab)",
+            pedal: "DW 9000 Series double pedal",
             headRecommendation: "Remo Controlled Sound"
           },
           usedBy: [
-            { name: "Matt Greiner", band: "August Burns Red", note: "22\"x18\" Pearl Reference Pure + Demon Drive — math metal complexity in mathcore-adjacent metalcore" }
+            { name: "Matt Greiner", band: "August Burns Red", note: "22\"x18\" Mapex Black Panther Design Lab + DW 9000 — math metal complexity in mathcore-adjacent metalcore" }
           ],
           verdict: "Best for jazz-informed technical precision. Greiner's setup carries math metal complexity into breakdown-driven songwriting.",
           rating: 4.6,
-          affiliateLink: "https://www.thomann.de/intl/pearl_reference_pure_demon_drive.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/mapex_black_panther_dw_9000.htm?partner_id=metalforge"
         },
         {
           rank: 3,
@@ -84869,8 +84869,8 @@ The dense beech shell delivers dark, controlled definition that holds up whether
           priceRange: "€150-220",
           tier: "budget",
           material: "Poplar/Mahogany",
-          description: "The Pearl Export bass drum shares its shell family with Matt Greiner and Blake Richardson's professional Pearl setups at a fraction of the price. Pair it with moderate internal muffling to develop mathcore's tight, fast-decaying tone.",
-          pros: ["Same shell family as Greiner and Richardson's pro Pearl setups", "Affordable, widely available entry point", "Responsive enough to develop odd-meter technique"],
+          description: "The Pearl Export bass drum shares its shell family with Blake Richardson's professional Pearl setup at a fraction of the price. Pair it with moderate internal muffling to develop mathcore's tight, fast-decaying tone.",
+          pros: ["Same shell family as Richardson's pro Pearl setup", "Affordable, widely available entry point", "Responsive enough to develop odd-meter technique"],
           cons: ["Less controlled low-end definition than pro Reference Pure or Starclassic shells", "Basic hardware compared to signature models"],
           verdict: "Best budget entry into mathcore's tight, fast-decaying Pearl-family sound.",
           rating: 4.1,
@@ -84895,7 +84895,7 @@ The dense beech shell delivers dark, controlled definition that holds up whether
 
     // Comparison
     comparison: {
-      title: "Tama Iron Cobra vs Pearl Demon Drive vs Sonor Giant Step Twin Effect for Mathcore",
+      title: "Tama Iron Cobra vs DW 9000 vs Pearl Demon Drive vs Sonor Giant Step Twin Effect for Mathcore",
       content: `Pedal choice splits mathcore's founding and progressive-adjacent drummers into distinct camps, even as shell size stays relatively close across the lineage. Here's how they compare:
 
 **Tama Iron Cobra (Ben Koller):**
@@ -84903,17 +84903,22 @@ The dense beech shell delivers dark, controlled definition that holds up whether
 - Mathcore's founding, most directly documented bass drum setup
 - Best for genre-defining, chaotic Converge-style mathcore
 
-**Pearl Demon Drive (Matt Greiner, Blake Richardson):**
-- Immediate, direct-drive response suited to jazz-informed, odd-time phrasing
-- Versatile across both technical precision and dynamic, genre-hopping material
+**DW 9000 Series (Matt Greiner):**
+- Infinitely adjustable dual-chain response suited to jazz-informed, odd-time phrasing
+- Free-floating rotor design built for August Burns Red's technically demanding touring schedule
 - Best for technical, math metal-adjacent mathcore and progressive-leaning material
+
+**Pearl Demon Drive (Blake Richardson):**
+- Immediate, direct-drive response suited to dynamic, genre-hopping material
+- Versatile across both technical precision and dynamic restraint
+- Best for genre-hopping, dynamically extreme mathcore-adjacent material
 
 **Sonor Giant Step Twin Effect (Danny Carey):**
 - Supports intricate, technical foot patterns for compositionally rigorous material
 - Treats rhythmic complexity as songwriting structure over technical display
 - Best for progressive, patient mathcore-adjacent compositions
 
-**Our Recommendation:** Start with a Pearl Export shell and a Tama Iron Cobra 600 double pedal if you're building mathcore technique on a budget. Choose Pearl Demon Drive if your material blends odd-time precision with dynamic, genre-hopping restraint. Go with Ben Koller's Tama Starclassic/Iron Cobra combination if your priority is mathcore's founding, hardcore-rooted tightness.`,
+**Our Recommendation:** Start with a Pearl Export shell and a Tama Iron Cobra 600 double pedal if you're building mathcore technique on a budget. Choose Matt Greiner's DW 9000 if your material demands jazz-informed, odd-time precision, or Blake Richardson's Pearl Demon Drive if it blends technical precision with dynamic, genre-hopping restraint. Go with Ben Koller's Tama Starclassic/Iron Cobra combination if your priority is mathcore's founding, hardcore-rooted tightness.`,
       comparisonTable: [
         { feature: "Decay Control", maple: "⭐⭐⭐⭐⭐", hybrid: "⭐⭐⭐⭐", dual: "⭐⭐⭐" },
         { feature: "Odd-Time Precision", maple: "⭐⭐⭐⭐", hybrid: "⭐⭐⭐⭐⭐", dual: "⭐⭐⭐⭐⭐" },
@@ -84933,7 +84938,7 @@ The dense beech shell delivers dark, controlled definition that holds up whether
         },
         {
           category: "Best for Technical Odd-Time Precision",
-          pedal: "Pearl Reference Pure + Pearl Demon Drive",
+          pedal: "Mapex Black Panther Design Lab + DW 9000",
           reason: "Matt Greiner's August Burns Red setup — math metal complexity in mathcore-adjacent metalcore."
         },
         {
@@ -84957,7 +84962,7 @@ The dense beech shell delivers dark, controlled definition that holds up whether
     ],
     relatedDrummers: [
       { slug: 'ben-koller', name: 'Ben Koller', reason: 'Tama Starclassic Performer B/B + Iron Cobra — Converge mathcore\'s founding tight attack' },
-      { slug: 'matt-greiner', name: 'Matt Greiner', reason: 'Pearl Reference Pure + Demon Drive — August Burns Red math metal complexity' },
+      { slug: 'matt-greiner', name: 'Matt Greiner', reason: 'Mapex Black Panther Design Lab + DW 9000 — August Burns Red math metal complexity' },
       { slug: 'blake-richardson', name: 'Blake Richardson', reason: 'Pearl Reference Pure/Masters Maple + Demon Drive — BTBAM genre-hopping technicality' },
       { slug: 'danny-carey', name: 'Danny Carey', reason: 'Sonor SQ2 Heavy Beech + Giant Step Twin Effect — Tool\'s Fibonacci-structured rigor' }
     ],
@@ -84965,7 +84970,7 @@ The dense beech shell delivers dark, controlled definition that holds up whether
     // Featured drummers (issue template)
     featuredDrummers: [
       { slug: 'ben-koller', name: 'Ben Koller', reason: 'Tama Starclassic Performer B/B + Iron Cobra — Converge mathcore\'s founding tight attack' },
-      { slug: 'matt-greiner', name: 'Matt Greiner', reason: 'Pearl Reference Pure + Demon Drive — August Burns Red math metal complexity' },
+      { slug: 'matt-greiner', name: 'Matt Greiner', reason: 'Mapex Black Panther Design Lab + DW 9000 — August Burns Red math metal complexity' },
       { slug: 'blake-richardson', name: 'Blake Richardson', reason: 'Pearl Reference Pure/Masters Maple + Demon Drive — BTBAM genre-hopping technicality' },
       { slug: 'danny-carey', name: 'Danny Carey', reason: 'Sonor SQ2 Heavy Beech + Giant Step Twin Effect — Tool\'s Fibonacci-structured rigor' }
     ],
@@ -84974,11 +84979,11 @@ The dense beech shell delivers dark, controlled definition that holds up whether
     faq: [
       {
         question: "Who are the best mathcore-adjacent drummers and what bass drum setups do they use?",
-        answer: "Ben Koller of Converge, whose work on \"Jane Doe\" (2001) defined mathcore's founding sound, plays a Tama Starclassic Performer B/B bass drum with a Tama Iron Cobra double pedal. Matt Greiner of August Burns Red plays a Pearl Reference Pure bass drum with a Pearl Demon Drive double pedal, and Blake Richardson of Between the Buried and Me plays a Pearl Reference Pure or Masters Maple bass drum, also with a Demon Drive."
+        answer: "Ben Koller of Converge, whose work on \"Jane Doe\" (2001) defined mathcore's founding sound, plays a Tama Starclassic Performer B/B bass drum with a Tama Iron Cobra double pedal. Matt Greiner of August Burns Red plays a Mapex Black Panther Design Lab bass drum with a DW 9000 Series double pedal, and Blake Richardson of Between the Buried and Me plays a Pearl Reference Pure or Masters Maple bass drum, also with a Demon Drive."
       },
       {
         question: "What bass drum pedal handles mathcore's rapid time-signature shifts best?",
-        answer: "Ben Koller's Tama Iron Cobra and Matt Greiner and Blake Richardson's shared Pearl Demon Drive are both prized for immediate, predictable response — essential for landing accurately on mathcore's sudden meter changes. Danny Carey's Sonor Giant Step Twin Effect supports more intricate, compositionally driven foot patterns for the genre's most progressive wing."
+        answer: "Ben Koller's Tama Iron Cobra, Matt Greiner's DW 9000 Series, and Blake Richardson's Pearl Demon Drive are all prized for immediate, predictable response — essential for landing accurately on mathcore's sudden meter changes. Danny Carey's Sonor Giant Step Twin Effect supports more intricate, compositionally driven foot patterns for the genre's most progressive wing."
       },
       {
         question: "What bass drum size is best for mathcore?",
@@ -84997,7 +85002,7 @@ The dense beech shell delivers dark, controlled definition that holds up whether
     // Conclusion
     conclusion: {
       title: "Find Your Mathcore Bass Drum Setup",
-      content: `Mathcore bass drum choice comes down to how much rhythmic precision your material's constantly shifting meters demand. Ben Koller's tight, controlled Tama Starclassic Performer B/B and Iron Cobra setup defined the genre's founding, hardcore-rooted low end with Converge's landmark "Jane Doe." Matt Greiner's Pearl Reference Pure and Demon Drive rig proved that math metal's rhythmic complexity could carry into mathcore-adjacent metalcore's mainstream audience, while Blake Richardson's similar Pearl setup shows the dynamic flexibility genre-hopping mathcore-adjacent material demands. Danny Carey's Sonor SQ2 and Giant Step Twin Effect rig demonstrates how a dark, controlled bass drum voice can serve mathematically rigorous, Fibonacci-structured composition over pure technical display.
+      content: `Mathcore bass drum choice comes down to how much rhythmic precision your material's constantly shifting meters demand. Ben Koller's tight, controlled Tama Starclassic Performer B/B and Iron Cobra setup defined the genre's founding, hardcore-rooted low end with Converge's landmark "Jane Doe." Matt Greiner's Mapex Black Panther Design Lab and DW 9000 rig proved that math metal's rhythmic complexity could carry into mathcore-adjacent metalcore's mainstream audience, while Blake Richardson's Pearl setup shows the dynamic flexibility genre-hopping mathcore-adjacent material demands. Danny Carey's Sonor SQ2 and Giant Step Twin Effect rig demonstrates how a dark, controlled bass drum voice can serve mathematically rigorous, Fibonacci-structured composition over pure technical display.
 
 None of these approaches is more "correct" — all four represent mathcore's founding commitment to a bass drum that can turn rhythmic chaos into genuine musical expression. Start with whichever shell size and pedal response matches your material's balance of hardcore-rooted aggression and progressive complexity, and don't be afraid to tune for a shorter decay than a typical metalcore setup would suggest.
 

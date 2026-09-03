@@ -2668,9 +2668,9 @@ His 2017 Vic Firth Matt Greiner Signature stick cemented his status among the ge
       },
       heads: {
         kick: 'Evans EMAD2 Clear',
-        snare: 'Remo Ambassador Coated',
-        toms: 'Remo Emperor Clear',
-        resonant: 'Remo Ambassador Clear'
+        snare: 'Evans G2 Coated',
+        toms: 'Evans G2 Clear',
+        resonant: 'Evans G2 Clear'
       }
     },
     tuning: {

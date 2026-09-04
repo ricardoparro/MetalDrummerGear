@@ -36,18 +36,13 @@ export const licks = {
     "video": null,
     "gearUsed": [
       {
-        "name": "Tama Artstar Custom Kit",
+        "name": "Pearl Maxwin Kit",
         "type": "drums",
         "link": null
       },
       {
         "name": "Paiste RUDE Cymbals",
         "type": "cymbals",
-        "link": null
-      },
-      {
-        "name": "Tama Iron Cobra Pedals",
-        "type": "pedals",
         "link": null
       }
     ],
@@ -103,7 +98,7 @@ export const licks = {
     "video": null,
     "gearUsed": [
       {
-        "name": "Tama Drum Kit",
+        "name": "Pearl Maxwin Kit",
         "type": "drums",
         "link": null
       },
@@ -175,18 +170,13 @@ export const licks = {
     },
     "gearUsed": [
       {
-        "name": "Tama Artstar Custom Kit",
+        "name": "Pearl Maxwin Kit",
         "type": "drums",
         "link": null
       },
       {
         "name": "Paiste RUDE Cymbals",
         "type": "cymbals",
-        "link": null
-      },
-      {
-        "name": "Tama Iron Cobra Pedals",
-        "type": "pedals",
         "link": null
       }
     ],
@@ -246,7 +236,7 @@ export const licks = {
     },
     "gearUsed": [
       {
-        "name": "Tama Artstar Custom Kit",
+        "name": "Pearl Maxwin Kit",
         "type": "drums",
         "link": null
       },
@@ -317,18 +307,13 @@ export const licks = {
     "tutorial": null,
     "gearUsed": [
       {
-        "name": "Tama Artstar Custom Kit",
+        "name": "Pearl Maxwin Kit",
         "type": "drums",
         "link": null
       },
       {
         "name": "Paiste RUDE Cymbals",
         "type": "cymbals",
-        "link": null
-      },
-      {
-        "name": "Tama Iron Cobra Pedals",
-        "type": "pedals",
         "link": null
       }
     ],
@@ -382,9 +367,8 @@ export const licks = {
     "video": null,
     "tutorial": null,
     "gearUsed": [
-      { "name": "Tama Artstar Custom Kit", "type": "drums", "link": null },
-      { "name": "Paiste RUDE Cymbals", "type": "cymbals", "link": null },
-      { "name": "Tama Iron Cobra Pedals", "type": "pedals", "link": null }
+      { "name": "Pearl Maxwin Kit", "type": "drums", "link": null },
+      { "name": "Paiste RUDE Cymbals", "type": "cymbals", "link": null }
     ],
     "learningTips": [
       "Build sustained sixteenth-note alternating stroke endurance on a practice pad before touching the kit — the technique is foundational",
@@ -438,9 +422,8 @@ export const licks = {
     "video": null,
     "tutorial": null,
     "gearUsed": [
-      { "name": "Tama Artstar Custom Kit", "type": "drums", "link": null },
-      { "name": "Paiste RUDE Cymbals", "type": "cymbals", "link": null },
-      { "name": "Tama Iron Cobra Pedals", "type": "pedals", "link": null }
+      { "name": "Pearl Maxwin Kit", "type": "drums", "link": null },
+      { "name": "Paiste RUDE Cymbals", "type": "cymbals", "link": null }
     ],
     "learningTips": [
       "Develop double-bass evenness in complete isolation — feet only, no hands — before adding any upper-body elements",
@@ -494,9 +477,8 @@ export const licks = {
     "video": null,
     "tutorial": null,
     "gearUsed": [
-      { "name": "Tama Artstar Custom Kit", "type": "drums", "link": null },
-      { "name": "Paiste RUDE Cymbals", "type": "cymbals", "link": null },
-      { "name": "Tama Iron Cobra Pedals", "type": "pedals", "link": null }
+      { "name": "Pearl Maxwin Kit", "type": "drums", "link": null },
+      { "name": "Paiste RUDE Cymbals", "type": "cymbals", "link": null }
     ],
     "learningTips": [
       "Start at 80 BPM and establish the half-time feel with snare on beat three only before adding other limbs",

@@ -39,9 +39,9 @@ export const licks = {
       "description": "Full-song drum cover demonstrating Sean Reinert's jazz-inflected polyrhythmic technique on Lack of Comprehension"
     },
     "gearUsed": [
-      { "name": "Pearl Export Kit", "type": "drums", "link": null },
+      { "name": "Tama Artstar II Kit", "type": "drums", "link": null },
       { "name": "Zildjian A Custom Cymbals", "type": "cymbals", "link": null },
-      { "name": "Pearl P-100P Twin Pedal", "type": "hardware", "link": null }
+      { "name": "DW 5000 Double Pedal", "type": "hardware", "link": null }
     ],
     "learningTips": [
       "Learn the 6/4 phrase and the 4/4 groove in complete isolation before attempting to combine them",
@@ -99,9 +99,9 @@ export const licks = {
       "description": "Full-song drum cover following Sean Reinert's jazz-death hybrid groove on Suicide Machine"
     },
     "gearUsed": [
-      { "name": "Pearl Export Kit", "type": "drums", "link": null },
+      { "name": "Tama Artstar II Kit", "type": "drums", "link": null },
       { "name": "Zildjian A Custom Cymbals", "type": "cymbals", "link": null },
-      { "name": "Pearl P-100P Twin Pedal", "type": "hardware", "link": null }
+      { "name": "DW 5000 Double Pedal", "type": "hardware", "link": null }
     ],
     "learningTips": [
       "Practice ghost notes in isolation — they should be barely audible, adding texture without volume",
@@ -159,9 +159,9 @@ export const licks = {
       "description": "Full-song drum cover demonstrating Sean Reinert's mid-paced technical foundation beat on Flattening of Emotions"
     },
     "gearUsed": [
-      { "name": "Pearl Export Kit", "type": "drums", "link": null },
+      { "name": "Tama Artstar II Kit", "type": "drums", "link": null },
       { "name": "Zildjian A Custom Cymbals", "type": "cymbals", "link": null },
-      { "name": "Pearl P-100P Twin Pedal", "type": "hardware", "link": null }
+      { "name": "DW 5000 Double Pedal", "type": "hardware", "link": null }
     ],
     "learningTips": [
       "Use this track as your first exposure to Reinert's style — the moderate tempo reveals details faster tracks hide",

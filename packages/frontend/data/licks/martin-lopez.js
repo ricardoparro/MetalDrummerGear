@@ -39,8 +39,8 @@ export const licks = {
       "description": "Isolated drum track of Martin Lopez's ghost-note-driven groove on Opeth's Bleak, allowing close study of his dynamic placement and jazz-influenced touch"
     },
     "gearUsed": [
-      { "name": "Pearl Masters Custom Kit", "type": "drums", "link": null },
-      { "name": "Zildjian K Constantinople Cymbals", "type": "cymbals", "link": null },
+      { "name": "Sonor Designer Series Kit", "type": "drums", "link": null },
+      { "name": "Sabian HH/AAX Cymbals", "type": "cymbals", "link": null },
       { "name": "DW 5000 Double Pedal", "type": "hardware", "link": null },
       { "name": "Vic Firth Signature Sticks", "type": "sticks", "link": null }
     ],
@@ -100,8 +100,8 @@ export const licks = {
       "description": "Official studio audio of Opeth's The Drapery Falls, featuring Martin Lopez's full dynamic range from delicate acoustic passages to heavy metal driving"
     },
     "gearUsed": [
-      { "name": "Pearl Masters Custom Kit", "type": "drums", "link": null },
-      { "name": "Zildjian K Constantinople Cymbals", "type": "cymbals", "link": null },
+      { "name": "Sonor Designer Series Kit", "type": "drums", "link": null },
+      { "name": "Sabian HH/AAX Cymbals", "type": "cymbals", "link": null },
       { "name": "DW 5000 Double Pedal", "type": "hardware", "link": null },
       { "name": "Vic Firth Signature Sticks", "type": "sticks", "link": null }
     ],
@@ -161,9 +161,9 @@ export const licks = {
       "description": "Soen's official lyric video for Antagonist from Imperial, showcasing Martin Lopez's refined progressive groove in a full-band arrangement context"
     },
     "gearUsed": [
-      { "name": "Sonor SQ2 Kit", "type": "drums", "link": null },
+      { "name": "Noble & Cooley Kit", "type": "drums", "link": null },
       { "name": "Zildjian K Constantinople Cymbals", "type": "cymbals", "link": null },
-      { "name": "Sonor Hardware", "type": "hardware", "link": null },
+      { "name": "Axis Percussion Double Pedal", "type": "hardware", "link": null },
       { "name": "Vic Firth Sticks", "type": "sticks", "link": null }
     ],
     "learningTips": [
@@ -216,8 +216,8 @@ export const licks = {
       "Record the transition and verify the downbeat impact — the hit should feel like a door slamming, not a gradual arrival"
     ],
     "gearUsed": [
-      { "name": "Pearl Masters Custom Kit", "type": "drums", "link": null },
-      { "name": "Zildjian K Constantinople Cymbals", "type": "cymbals", "link": null },
+      { "name": "Sonor Designer Series Kit", "type": "drums", "link": null },
+      { "name": "Sabian HH/AAX Cymbals", "type": "cymbals", "link": null },
       { "name": "DW 5000 Double Pedal", "type": "hardware", "link": null },
       { "name": "Vic Firth Signature Sticks", "type": "sticks", "link": null }
     ],
@@ -271,8 +271,8 @@ export const licks = {
       "Listen for the bass drum and bass guitar relationship: they should lock to each other within the shuffle feel"
     ],
     "gearUsed": [
-      { "name": "Pearl Masters Custom Kit", "type": "drums", "link": null },
-      { "name": "Zildjian K Constantinople Cymbals", "type": "cymbals", "link": null },
+      { "name": "Sonor Designer Series Kit", "type": "drums", "link": null },
+      { "name": "Sabian HH/AAX Cymbals", "type": "cymbals", "link": null },
       { "name": "DW 5000 Double Pedal", "type": "hardware", "link": null },
       { "name": "Vic Firth Signature Sticks", "type": "sticks", "link": null }
     ],
@@ -326,8 +326,8 @@ export const licks = {
       "Keep the ghost-note instinct active during the blast to retain dynamic variation at maximum intensity"
     ],
     "gearUsed": [
-      { "name": "Pearl Masters Custom Kit", "type": "drums", "link": null },
-      { "name": "Zildjian K Constantinople Cymbals", "type": "cymbals", "link": null },
+      { "name": "Sonor Designer Series Kit", "type": "drums", "link": null },
+      { "name": "Sabian HH/AAX Cymbals", "type": "cymbals", "link": null },
       { "name": "DW 5000 Double Pedal", "type": "hardware", "link": null },
       { "name": "Vic Firth Signature Sticks", "type": "sticks", "link": null }
     ],

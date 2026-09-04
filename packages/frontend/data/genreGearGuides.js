@@ -27326,7 +27326,7 @@ Start with a 20" in whatever alloy fits your budget, experiment with inverted mo
       title: "Why Metalcore Drummers Rely on China Cymbals",
       content: `Metalcore lives and dies by the breakdown, and nothing announces one like a trashy china slamming down right as the guitars drop to half-time and the pit opens up. Where a crash cymbal rings out musically, a china delivers a short, dirty explosion that punctuates a transition without stepping on the riff underneath it — exactly what a genre built on tight arrangement changes and sudden dynamic shifts needs.
 
-Matt Greiner (August Burns Red) pairs his Paiste Formula 602 setup with a china for the technical, tightly arranged transitions that define ABR's sound, while Jay Weinberg's Zildjian A Custom setup — honed through his time in both Slipknot and Trivium — leans on china accents to punch through modern metalcore's dense, drop-tuned mixes. Alex Bent's Zildjian K Custom Hybrid setup and Chris Adler's Meinl Byzance Dark setup with Lamb of God both use china cymbals as a breakdown-specific tool rather than a constant texture, saving the trashiest sound in the kit for the moment it matters most.
+Matt Greiner (August Burns Red) pairs his Paiste Formula 602 setup with a china for the technical, tightly arranged transitions that define ABR's sound, while Jay Weinberg's Zildjian A Custom setup — honed through his time in Slipknot — leans on china accents to punch through modern metalcore's dense, drop-tuned mixes. Alex Bent's Zildjian K Custom Hybrid setup and Chris Adler's Meinl Byzance Dark setup with Lamb of God both use china cymbals as a breakdown-specific tool rather than a constant texture, saving the trashiest sound in the kit for the moment it matters most.
 
 This guide covers everything you need to pick the right china for metalcore: size, alloy, and mounting, along with specific model recommendations across every budget for breakdown-heavy, riff-driven modern metal.`,
       keyPoints: [
@@ -27430,7 +27430,7 @@ Its dry, controlled voice suits technical, tightly written arrangements where a 
           driveType: "B20 Bronze, Brilliant",
           description: `The A Custom China brings a bright, explosive attack with enough cut to punch through a dense, drop-tuned metalcore mix, while staying controlled enough not to overwhelm cleaner, more melodic sections.
 
-Jay Weinberg's Zildjian A Custom setup — carried from his work with Slipknot into Trivium's modern metalcore-adjacent material — relies on this brightness and immediacy for accents that need to read clearly even in a busy live mix.`,
+Jay Weinberg's Zildjian A Custom setup with Slipknot relies on this brightness and immediacy for accents that need to read clearly even in a busy live mix.`,
           pros: [
             "Bright, explosive attack that cuts through dense mixes",
             "Versatile enough for both aggressive and melodic sections",
@@ -27450,7 +27450,7 @@ Jay Weinberg's Zildjian A Custom setup — carried from his work with Slipknot i
             mounting: "Standard or Inverted"
           },
           usedBy: [
-            { name: "Jay Weinberg", band: "Slipknot/Trivium", note: "Bright A Custom accents for dense, modern metalcore mixes" }
+            { name: "Jay Weinberg", band: "Slipknot", note: "Bright A Custom accents for dense, modern metalcore mixes" }
           ],
           verdict: "Best for drummers who need an accent china bright enough to cut through a loud, busy mix.",
           rating: 4.6,

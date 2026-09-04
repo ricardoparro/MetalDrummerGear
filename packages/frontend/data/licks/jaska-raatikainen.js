@@ -46,7 +46,7 @@ export const licks = {
         "link": null
       },
       {
-        "name": "Sabian Cymbals",
+        "name": "Zildjian A Series Cymbals",
         "type": "cymbals",
         "link": null
       },
@@ -113,12 +113,12 @@ export const licks = {
     },
     "gearUsed": [
       {
-        "name": "Tama Starclassic Kit",
+        "name": "Pearl Kit",
         "type": "drums",
         "link": null
       },
       {
-        "name": "Sabian Cymbals",
+        "name": "Zildjian A Series Cymbals",
         "type": "cymbals",
         "link": null
       },
@@ -185,7 +185,7 @@ export const licks = {
         "link": null
       },
       {
-        "name": "Sabian Cymbals",
+        "name": "Zildjian A Series Cymbals",
         "type": "cymbals",
         "link": null
       },
@@ -252,7 +252,7 @@ export const licks = {
         "link": null
       },
       {
-        "name": "Sabian Cymbals",
+        "name": "Zildjian A Series Cymbals",
         "type": "cymbals",
         "link": null
       },
@@ -319,7 +319,7 @@ export const licks = {
         "link": null
       },
       {
-        "name": "Sabian Cymbals",
+        "name": "Zildjian A Series Cymbals",
         "type": "cymbals",
         "link": null
       },
@@ -391,7 +391,7 @@ export const licks = {
         "link": null
       },
       {
-        "name": "Sabian Cymbals",
+        "name": "Zildjian A Series Cymbals",
         "type": "cymbals",
         "link": null
       },

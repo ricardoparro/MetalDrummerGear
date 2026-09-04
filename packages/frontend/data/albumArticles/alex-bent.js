@@ -78,7 +78,7 @@ export const articles = {
       "shell": "Maple",
       "description": "Alex's snare drum choice reflects his approach to the instrument: versatility without compromise. The 14\" x 5\" Tama Starclassic Maple snare provides the crack and projection needed to cut through Trivium's dense guitar arrangements while offering enough body for groove-heavy passages.\n\nThe all-maple shell construction is key, delivering warmth and sustain for slower, more dynamic sections—crucial for songs like \"Beyond Oblivion\" or \"The Sin and the Sentence\"—while still providing the attack and cut needed for the faster, more aggressive passages where the snare has to punch through walls of down-tuned guitars.\n\nBent typically tuned the snare on the higher side—not as extreme as some death metal drummers, but tight enough to ensure articulation at high tempos. This tuning, combined with tighter snare wire tension, gave him the response needed for ghost notes and intricate patterns inherited from his tech-death background.",
       "tuningSetting": "Medium-high tension for articulation at speed",
-      "heads": "Evans EC Reverse Dot (batter), Evans Hazy 300 (resonant)",
+      "heads": "Remo Coated Controlled Sound Reverse Dot (batter), Remo Ambassador Hazy (resonant)",
       "estimatedValue": "$500-700"
     },
     "cymbals": {
@@ -162,9 +162,9 @@ export const articles = {
         }
       ],
       "heads": {
-        "bassKick": "Evans EMAD (batter), Evans EQ3 (resonant)",
-        "toms": "Evans G2 Clear (batter), Evans G1 Clear (resonant)",
-        "snare": "Evans EC Reverse Dot (batter), Evans Hazy 300 (resonant)"
+        "bassKick": "Remo Powerstroke 3 (batter), Remo Powerstroke 3 Clear (resonant)",
+        "toms": "Remo Pinstripe Clear (batter), Remo Ambassador Clear (resonant)",
+        "snare": "Remo Coated Controlled Sound Reverse Dot (batter), Remo Ambassador Hazy (resonant)"
       }
     },
     "gearTimeline": [
@@ -348,7 +348,7 @@ export const articles = {
       "shell": "Maple",
       "description": "Bent paired his kit with a 14\" x 5\" Tama Starclassic Maple snare, tuned on the higher side for articulation at speed — a tuning philosophy carried over directly from his technical death metal background. On \"Betrayer\" and the title track, the snare cuts cleanly through Wilbur's dense guitar mix without needing to be pushed hard in the console.\n\nThe all-maple shell gave the drum enough body for the record's more melodic moments, like \"The Heart from Your Hate,\" while still delivering the crack needed for the album's faster, more aggressive sections. It's a snare built for versatility rather than a single specialized tone — appropriate for a drummer stepping into a band with a much broader stylistic range than his previous projects.",
       "tuningSetting": "Medium-high tension for articulation at speed",
-      "heads": "Evans EC Reverse Dot (batter), Evans Hazy 300 (resonant)",
+      "heads": "Remo Coated Controlled Sound Reverse Dot (batter), Remo Ambassador Hazy (resonant)",
       "estimatedValue": "$500-700 (2017)"
     },
     "cymbals": {
@@ -420,9 +420,9 @@ export const articles = {
         }
       ],
       "heads": {
-        "bassKick": "Evans EMAD (batter), Evans EQ3 (resonant)",
-        "toms": "Evans G2 Clear (batter), Evans G1 Clear (resonant)",
-        "snare": "Evans EC Reverse Dot (batter), Evans Hazy 300 (resonant)"
+        "bassKick": "Remo Powerstroke 3 (batter), Remo Powerstroke 3 Clear (resonant)",
+        "toms": "Remo Pinstripe Clear (batter), Remo Ambassador Clear (resonant)",
+        "snare": "Remo Coated Controlled Sound Reverse Dot (batter), Remo Ambassador Hazy (resonant)"
       }
     },
     "faq": [
@@ -542,7 +542,7 @@ export const articles = {
       "shell": "Maple",
       "description": "The 14\" x 5\" Tama Starclassic Maple snare returned unchanged from the debut, tuned medium-high for articulation. What differs on \"What the Dead Men Say\" is how Bent used it — the album's more progressive, dynamically varied writing calls for more ghost notes and restrained backbeats on tracks like \"The Defiant\" alongside the full-force hits of \"Catastrophist\" and the title track.\n\nRecording the drums at Studio 606 rather than Full Sail gave the snare a slightly different room character than the debut album, though the fundamental tuning and head selection stayed the same.",
       "tuningSetting": "Medium-high tension for articulation across a wider dynamic range",
-      "heads": "Evans EC Reverse Dot (batter), Evans Hazy 300 (resonant)",
+      "heads": "Remo Coated Controlled Sound Reverse Dot (batter), Remo Ambassador Hazy (resonant)",
       "estimatedValue": "$500-700 (2020)"
     },
     "cymbals": {
@@ -614,9 +614,9 @@ export const articles = {
         }
       ],
       "heads": {
-        "bassKick": "Evans EMAD (batter), Evans EQ3 (resonant)",
-        "toms": "Evans G2 Clear (batter), Evans G1 Clear (resonant)",
-        "snare": "Evans EC Reverse Dot (batter), Evans Hazy 300 (resonant)"
+        "bassKick": "Remo Powerstroke 3 (batter), Remo Powerstroke 3 Clear (resonant)",
+        "toms": "Remo Pinstripe Clear (batter), Remo Ambassador Clear (resonant)",
+        "snare": "Remo Coated Controlled Sound Reverse Dot (batter), Remo Ambassador Hazy (resonant)"
       }
     },
     "faq": [
@@ -731,7 +731,7 @@ export const articles = {
       "shell": "Maple",
       "description": "The 14\" x 5\" Tama Starclassic Maple snare that debuted on \"The Sin and the Sentence\" returned for a third straight album, still tuned medium-high for articulation. On the nearly eight-minute title track, the snare has to hold up across multiple sections and tempo shifts — a different demand than the more compact song structures of the first two Bent-era records, but one the drum handled without any change in tuning philosophy.",
       "tuningSetting": "Medium-high tension for articulation across extended song forms",
-      "heads": "Evans EC Reverse Dot (batter), Evans Hazy 300 (resonant)",
+      "heads": "Remo Coated Controlled Sound Reverse Dot (batter), Remo Ambassador Hazy (resonant)",
       "estimatedValue": "$500-700 (2021)"
     },
     "cymbals": {
@@ -809,9 +809,9 @@ export const articles = {
         }
       ],
       "heads": {
-        "bassKick": "Evans EMAD (batter), Evans EQ3 (resonant)",
-        "toms": "Evans G2 Clear (batter), Evans G1 Clear (resonant)",
-        "snare": "Evans EC Reverse Dot (batter), Evans Hazy 300 (resonant)"
+        "bassKick": "Remo Powerstroke 3 (batter), Remo Powerstroke 3 Clear (resonant)",
+        "toms": "Remo Pinstripe Clear (batter), Remo Ambassador Clear (resonant)",
+        "snare": "Remo Coated Controlled Sound Reverse Dot (batter), Remo Ambassador Hazy (resonant)"
       }
     },
     "faq": [

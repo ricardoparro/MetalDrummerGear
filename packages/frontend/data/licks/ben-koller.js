@@ -46,7 +46,7 @@ export const licks = {
         "link": null
       },
       {
-        "name": "Zildjian Cymbals",
+        "name": "Sabian HHX & AAX Cymbals",
         "type": "cymbals",
         "link": null
       },
@@ -190,7 +190,7 @@ export const licks = {
         "link": null
       },
       {
-        "name": "Zildjian Cymbals",
+        "name": "Sabian HHX & AAX Cymbals",
         "type": "cymbals",
         "link": null
       },

@@ -41,7 +41,7 @@ export const licks = {
     },
     "gearUsed": [
       {
-        "name": "Tama Star Series Kit",
+        "name": "Pearl Reference Series Kit",
         "type": "drums",
         "link": null
       },
@@ -51,8 +51,8 @@ export const licks = {
         "link": null
       },
       {
-        "name": "Tama Speed Cobra Pedals",
-        "type": "pedals",
+        "name": "Pearl Demon Drive Double Pedal",
+        "type": "hardware",
         "link": null
       }
     ],
@@ -113,7 +113,7 @@ export const licks = {
     },
     "gearUsed": [
       {
-        "name": "Tama Star Series Kit",
+        "name": "Pearl Reference Series Kit",
         "type": "drums",
         "link": null
       },
@@ -123,8 +123,8 @@ export const licks = {
         "link": null
       },
       {
-        "name": "Tama Speed Cobra Pedals",
-        "type": "pedals",
+        "name": "Pearl Demon Drive Double Pedal",
+        "type": "hardware",
         "link": null
       }
     ],
@@ -185,18 +185,18 @@ export const licks = {
     },
     "gearUsed": [
       {
-        "name": "Tama Star Series Kit",
+        "name": "Mapex Black Panther Design Lab Kit",
         "type": "drums",
         "link": null
       },
       {
-        "name": "Meinl Byzance Cymbals",
+        "name": "Paiste Formula 602 Cymbals",
         "type": "cymbals",
         "link": null
       },
       {
-        "name": "Tama Speed Cobra Pedals",
-        "type": "pedals",
+        "name": "DW 9000 Series Double Pedal",
+        "type": "hardware",
         "link": null
       }
     ],
@@ -252,7 +252,7 @@ export const licks = {
     "tutorial": null,
     "gearUsed": [
       {
-        "name": "Tama Star Series Kit",
+        "name": "Pearl Reference Series Kit",
         "type": "drums",
         "link": null
       },
@@ -262,8 +262,8 @@ export const licks = {
         "link": null
       },
       {
-        "name": "Tama Speed Cobra Pedals",
-        "type": "pedals",
+        "name": "Pearl Demon Drive Double Pedal",
+        "type": "hardware",
         "link": null
       }
     ],
@@ -319,7 +319,7 @@ export const licks = {
     "tutorial": null,
     "gearUsed": [
       {
-        "name": "Tama Star Series Kit",
+        "name": "Pearl Reference Series Kit",
         "type": "drums",
         "link": null
       },
@@ -329,8 +329,8 @@ export const licks = {
         "link": null
       },
       {
-        "name": "Tama Speed Cobra Pedals",
-        "type": "pedals",
+        "name": "Pearl Demon Drive Double Pedal",
+        "type": "hardware",
         "link": null
       }
     ],
@@ -453,7 +453,7 @@ export const licks = {
     "tutorial": null,
     "gearUsed": [
       {
-        "name": "Tama Star Series Kit",
+        "name": "Pearl Reference Series Kit",
         "type": "drums",
         "link": null
       },
@@ -463,8 +463,8 @@ export const licks = {
         "link": null
       },
       {
-        "name": "Tama Speed Cobra Pedals",
-        "type": "pedals",
+        "name": "Pearl Demon Drive Double Pedal",
+        "type": "hardware",
         "link": null
       }
     ],
@@ -587,7 +587,7 @@ export const licks = {
     "tutorial": null,
     "gearUsed": [
       {
-        "name": "Tama Star Series Kit",
+        "name": "Pearl Reference Series Kit",
         "type": "drums",
         "link": null
       },
@@ -597,8 +597,8 @@ export const licks = {
         "link": null
       },
       {
-        "name": "Tama Speed Cobra Pedals",
-        "type": "pedals",
+        "name": "Pearl Demon Drive Double Pedal",
+        "type": "hardware",
         "link": null
       }
     ],

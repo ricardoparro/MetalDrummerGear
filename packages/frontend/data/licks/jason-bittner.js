@@ -46,7 +46,7 @@ export const licks = {
         "link": null
       },
       {
-        "name": "Meinl Byzance Series Cymbals",
+        "name": "Zildjian K and A Custom Series Cymbals",
         "type": "cymbals",
         "link": null
       },
@@ -56,7 +56,7 @@ export const licks = {
         "link": null
       },
       {
-        "name": "Ahead 5B Sticks",
+        "name": "ProMark Jason Bittner Signature 5BX",
         "type": "sticks",
         "link": null
       }
@@ -124,7 +124,7 @@ export const licks = {
         "link": null
       },
       {
-        "name": "Meinl Byzance Series Cymbals",
+        "name": "Zildjian K and A Custom Series Cymbals",
         "type": "cymbals",
         "link": null
       },
@@ -134,7 +134,7 @@ export const licks = {
         "link": null
       },
       {
-        "name": "Ahead 5B Sticks",
+        "name": "ProMark Jason Bittner Signature 5BX",
         "type": "sticks",
         "link": null
       }
@@ -202,7 +202,7 @@ export const licks = {
         "link": null
       },
       {
-        "name": "Meinl Byzance Series Cymbals",
+        "name": "Zildjian K and A Custom Series Cymbals",
         "type": "cymbals",
         "link": null
       },
@@ -212,7 +212,7 @@ export const licks = {
         "link": null
       },
       {
-        "name": "Ahead 5B Sticks",
+        "name": "ProMark Jason Bittner Signature 5BX",
         "type": "sticks",
         "link": null
       }

@@ -3970,10 +3970,10 @@ What sets Mike apart from other technical drummers is his orchestral dynamic ran
         alternative: "Any quality 5A or 5B depending on desired weight"
       },
       heads: {
-        kick: 'Aquarian Super-Kick',
-        snare: 'Aquarian Classic Clear Coated',
-        toms: 'Aquarian Studio X Clear',
-        resonant: 'Aquarian Resonant heads'
+        kick: 'Remo Powerstroke 3',
+        snare: 'Remo Emperor Coated',
+        toms: 'Remo Emperor Coated',
+        resonant: 'Remo Ambassador'
       }
     },
     tuning: {
@@ -3981,19 +3981,19 @@ What sets Mike apart from other technical drummers is his orchestral dynamic ran
       overview: "Mike tunes for clarity and dynamic response rather than pure aggression. His drums need to speak quietly in delicate passages and project massively in full-band moments — that requires open tuning with controlled muffling.",
       kickDrum: {
         tension: "Medium",
-        muffling: "Aquarian Super-Kick head with built-in muffling ring",
-        description: "Mike's kick has punch and definition without excessive boom. The Aquarian Super-Kick head provides built-in muffling that keeps the sound focused across dynamic levels.",
-        tip: "Use the Super-Kick's built-in muffle ring. Port the resonant head for consistent tone in both live and studio contexts."
+        muffling: "Remo Powerstroke 3 head with built-in muffling ring",
+        description: "Mike's kick has punch and definition without excessive boom. The Remo Powerstroke 3 head provides built-in muffling that keeps the sound focused across dynamic levels.",
+        tip: "Use the Powerstroke 3's built-in muffle ring. Port the resonant head for consistent tone in both live and studio contexts."
       },
       snare: {
         tension: "Medium-high",
-        muffling: "Minimal — Aquarian Classic Clear for open response",
+        muffling: "Minimal — Remo Emperor Coated for open response",
         description: "Mike's snare needs to work across the entire dynamic spectrum. Medium-high tuning gives clarity without being too brittle at low volumes.",
         tip: "Tune for sensitivity at low dynamics first. The drum should respond to ghost notes, then still project when struck hard."
       },
       toms: {
         tension: "Medium",
-        muffling: "Minimal — Aquarian Studio X for clear tone",
+        muffling: "Minimal — Remo Emperor Coated for clear tone",
         description: "Mike's toms have projection and sustain that support Dream Theater's orchestral arrangements. Melodic tom work requires musical intervals between drums.",
         tip: "Tune toms in musical fourths or fifths. Let them ring — muffling kills the melodic quality progressive metal needs."
       }
@@ -4063,7 +4063,7 @@ What sets Mike apart from other technical drummers is his orchestral dynamic ran
         kit: "Pearl Reference Series Custom ($4,000+)",
         cymbals: "Sabian HHX Evolution / AAX X-Plosion Selection ($2,500+)",
         pedals: "Pearl Demon Drive Double Pedal ($700)",
-        heads: "Full Aquarian setup ($200)",
+        heads: "Full Remo setup ($200)",
         notes: "The actual Mike Mangini setup — studio and stage ready."
       }
     },
@@ -4082,7 +4082,7 @@ What sets Mike apart from other technical drummers is his orchestral dynamic ran
       },
       {
         question: "What drum heads does Mike Mangini use?",
-        answer: "Mike Mangini uses Aquarian drum heads — Super-Kick for kick drums and Studio X for toms. Aquarian heads are known for their durability and dynamic response, which suits his wide-range playing style."
+        answer: "Mike Mangini uses Remo drum heads — Powerstroke 3 for kick drums and Emperor Coated for snare and toms. Remo heads are known for their durability and dynamic response, which suits his wide-range playing style."
       },
       {
         question: "Can beginners learn to play Mike Mangini's style?",

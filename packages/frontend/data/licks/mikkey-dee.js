@@ -39,8 +39,8 @@ export const licks = {
       "description": "Isolated drum track of Mikkey Dee's 2008 re-recording, showing his driving high-tempo groove"
     },
     "gearUsed": [
-      { "name": "Yamaha Recording Custom Kit", "type": "drums", "link": null },
-      { "name": "Zildjian A Custom & K Cymbals", "type": "cymbals", "link": null },
+      { "name": "Tama Artstar II/Swingstar Kit", "type": "drums", "link": null },
+      { "name": "Paiste Cymbals", "type": "cymbals", "link": null },
       { "name": "Yamaha FP9 Double Pedal", "type": "hardware", "link": null },
       { "name": "Vic Firth Mikkey Dee Signature", "type": "sticks", "link": null }
     ],
@@ -100,8 +100,8 @@ export const licks = {
       "description": "Isolated drum track of Mikkey Dee's 2008 re-recording, showing the iconic double-bass drive"
     },
     "gearUsed": [
-      { "name": "Yamaha Recording Custom Kit", "type": "drums", "link": null },
-      { "name": "Zildjian A Custom & K Cymbals", "type": "cymbals", "link": null },
+      { "name": "Tama Artstar II/Swingstar Kit", "type": "drums", "link": null },
+      { "name": "Paiste Cymbals", "type": "cymbals", "link": null },
       { "name": "Yamaha FP9 Double Pedal", "type": "hardware", "link": null },
       { "name": "Vic Firth Mikkey Dee Signature", "type": "sticks", "link": null }
     ],
@@ -161,8 +161,8 @@ export const licks = {
       "description": "Isolated drum track of Mikkey Dee's 2008 re-recording, showing his powerful in-the-pocket groove"
     },
     "gearUsed": [
-      { "name": "Yamaha Recording Custom Kit", "type": "drums", "link": null },
-      { "name": "Zildjian A Custom & K Cymbals", "type": "cymbals", "link": null },
+      { "name": "Tama Artstar II/Swingstar Kit", "type": "drums", "link": null },
+      { "name": "Paiste Cymbals", "type": "cymbals", "link": null },
       { "name": "Yamaha FP9 Double Pedal", "type": "hardware", "link": null },
       { "name": "Vic Firth Mikkey Dee Signature", "type": "sticks", "link": null }
     ],
@@ -217,8 +217,8 @@ export const licks = {
     ],
     "tutorial": null,
     "gearUsed": [
-      { "name": "Sonor Designer Series Kit", "type": "drums", "link": null },
-      { "name": "Zildjian A & K Cymbals", "type": "cymbals", "link": null },
+      { "name": "Tama Artstar II/Swingstar Kit", "type": "drums", "link": null },
+      { "name": "Paiste Cymbals", "type": "cymbals", "link": null },
       { "name": "Sonor Double Pedal", "type": "hardware", "link": null },
       { "name": "Vic Firth Mikkey Dee Signature", "type": "sticks", "link": null }
     ],
@@ -272,8 +272,8 @@ export const licks = {
     ],
     "tutorial": null,
     "gearUsed": [
-      { "name": "Yamaha Recording Custom Kit", "type": "drums", "link": null },
-      { "name": "Zildjian A Custom & K Cymbals", "type": "cymbals", "link": null },
+      { "name": "Tama Artstar II/Swingstar Kit", "type": "drums", "link": null },
+      { "name": "Paiste Cymbals", "type": "cymbals", "link": null },
       { "name": "Yamaha FP9 Double Pedal", "type": "hardware", "link": null },
       { "name": "Vic Firth Mikkey Dee Signature", "type": "sticks", "link": null }
     ],
@@ -327,8 +327,8 @@ export const licks = {
     ],
     "tutorial": null,
     "gearUsed": [
-      { "name": "Yamaha Recording Custom Kit", "type": "drums", "link": null },
-      { "name": "Zildjian A Custom & K Cymbals", "type": "cymbals", "link": null },
+      { "name": "Tama Artstar II/Swingstar Kit", "type": "drums", "link": null },
+      { "name": "Paiste Cymbals", "type": "cymbals", "link": null },
       { "name": "Yamaha FP9 Double Pedal", "type": "hardware", "link": null },
       { "name": "Vic Firth Mikkey Dee Signature", "type": "sticks", "link": null }
     ],

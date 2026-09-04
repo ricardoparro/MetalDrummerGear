@@ -40,9 +40,9 @@ export const licks = {
       "description": "Death's Scavenger of Human Sorrow from The Sound of Perseverance — Richard Christy's blast beat sequence at ~230 BPM"
     },
     "gearUsed": [
-      { "name": "Pearl Reference Series Kit", "type": "drums", "link": null },
+      { "name": "Pearl Masters Custom Kit", "type": "drums", "link": null },
       { "name": "Pearl 14\"x5.5\" Sensitone Snare", "type": "snare", "link": null },
-      { "name": "Zildjian A Custom Series Cymbals", "type": "cymbals", "link": null },
+      { "name": "Sabian AA/AAX Cymbals", "type": "cymbals", "link": null },
       { "name": "Pearl Eliminator Double Pedal", "type": "hardware", "link": null },
       { "name": "Vic Firth American Classic 5B", "type": "sticks", "link": null }
     ],
@@ -103,9 +103,9 @@ export const licks = {
       "description": "Death's Flesh and the Power It Holds from The Sound of Perseverance — Richard Christy's progressive fill work and meter navigation over eight minutes"
     },
     "gearUsed": [
-      { "name": "Pearl Reference Series Kit", "type": "drums", "link": null },
+      { "name": "Pearl Masters Custom Kit", "type": "drums", "link": null },
       { "name": "Pearl 14\"x5.5\" Sensitone Snare", "type": "snare", "link": null },
-      { "name": "Zildjian A Custom Series Cymbals", "type": "cymbals", "link": null },
+      { "name": "Sabian AA/AAX Cymbals", "type": "cymbals", "link": null },
       { "name": "Pearl Eliminator Double Pedal", "type": "hardware", "link": null },
       { "name": "Vic Firth American Classic 5B", "type": "sticks", "link": null }
     ],
@@ -166,9 +166,9 @@ export const licks = {
       "description": "Death's Voice of the Soul from The Sound of Perseverance — Richard Christy's linear drumming accompanying Chuck Schuldiner's acoustic guitar"
     },
     "gearUsed": [
-      { "name": "Pearl Reference Series Kit", "type": "drums", "link": null },
+      { "name": "Pearl Masters Custom Kit", "type": "drums", "link": null },
       { "name": "Pearl 14\"x5.5\" Sensitone Snare", "type": "snare", "link": null },
-      { "name": "Zildjian A Custom Series Cymbals", "type": "cymbals", "link": null },
+      { "name": "Sabian AA/AAX Cymbals", "type": "cymbals", "link": null },
       { "name": "Pearl Eliminator Double Pedal", "type": "hardware", "link": null },
       { "name": "Vic Firth American Classic 5B", "type": "sticks", "link": null }
     ],

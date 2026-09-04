@@ -2033,15 +2033,15 @@ export const articles = {
       "items": [
         {
           "type": "Bass Drum Pedal",
-          "brand": "DW",
-          "model": "DW Double Pedal",
-          "notes": "DW double pedal — chain-drive, smooth action for complex two-foot patterns",
-          "description": "For the *Six Degrees* sessions, Mike Portnoy continued with DW double pedals, the same mechanical platform that had served the *Scenes from a Memory* recordings. The DW chain-drive system's smooth, progressive feel was well-suited to the double album's range of demands: extended, high-velocity double bass for 'The Glass Prison,' controlled, musical two-foot work for the title suite's more dynamic movements. The transition to Pearl Eliminator pedals would come with *Train of Thought* the following year."
+          "brand": "Tama",
+          "model": "Tama Iron Cobra Double Pedal",
+          "notes": "Tama Iron Cobra double pedal — rolling-glide cam, smooth action for complex two-foot patterns",
+          "description": "For the *Six Degrees* sessions, Mike Portnoy continued with the Tama Iron Cobra double pedal, the same mechanical platform that had served the *Scenes from a Memory* recordings, part of his continuous Tama endorsement since 1985. The Iron Cobra's rolling-glide cam and smooth, long-throw action were well-suited to the double album's range of demands: extended, high-velocity double bass for 'The Glass Prison,' controlled, musical two-foot work for the title suite's more dynamic movements."
         },
         {
           "type": "Hi-Hat Stand",
-          "brand": "DW",
-          "model": "DW 5000 Hi-Hat Stand",
+          "brand": "Tama",
+          "model": "Tama Iron Cobra Hi-Hat Stand",
           "notes": "Matched to the bass drum pedal series — consistent mechanical feel"
         },
         {

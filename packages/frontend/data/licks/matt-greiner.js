@@ -41,7 +41,7 @@ export const licks = {
     },
     "gearUsed": [
       {
-        "name": "Tama Star Series Kit",
+        "name": "Pearl Reference Series Kit",
         "type": "drums",
         "link": null
       },
@@ -51,7 +51,7 @@ export const licks = {
         "link": null
       },
       {
-        "name": "Tama Speed Cobra Pedals",
+        "name": "Double Bass Pedals",
         "type": "pedals",
         "link": null
       }
@@ -113,7 +113,7 @@ export const licks = {
     },
     "gearUsed": [
       {
-        "name": "Tama Star Series Kit",
+        "name": "Pearl Reference Series Kit",
         "type": "drums",
         "link": null
       },
@@ -123,7 +123,7 @@ export const licks = {
         "link": null
       },
       {
-        "name": "Tama Speed Cobra Pedals",
+        "name": "Double Bass Pedals",
         "type": "pedals",
         "link": null
       }
@@ -185,7 +185,7 @@ export const licks = {
     },
     "gearUsed": [
       {
-        "name": "Tama Star Series Kit",
+        "name": "Pearl Reference Series Kit",
         "type": "drums",
         "link": null
       },
@@ -195,7 +195,7 @@ export const licks = {
         "link": null
       },
       {
-        "name": "Tama Speed Cobra Pedals",
+        "name": "Double Bass Pedals",
         "type": "pedals",
         "link": null
       }
@@ -252,7 +252,7 @@ export const licks = {
     "tutorial": null,
     "gearUsed": [
       {
-        "name": "Tama Star Series Kit",
+        "name": "Pearl Reference Series Kit",
         "type": "drums",
         "link": null
       },
@@ -262,7 +262,7 @@ export const licks = {
         "link": null
       },
       {
-        "name": "Tama Speed Cobra Pedals",
+        "name": "Double Bass Pedals",
         "type": "pedals",
         "link": null
       }
@@ -319,7 +319,7 @@ export const licks = {
     "tutorial": null,
     "gearUsed": [
       {
-        "name": "Tama Star Series Kit",
+        "name": "Pearl Reference Series Kit",
         "type": "drums",
         "link": null
       },
@@ -329,7 +329,7 @@ export const licks = {
         "link": null
       },
       {
-        "name": "Tama Speed Cobra Pedals",
+        "name": "Double Bass Pedals",
         "type": "pedals",
         "link": null
       }
@@ -453,7 +453,7 @@ export const licks = {
     "tutorial": null,
     "gearUsed": [
       {
-        "name": "Tama Star Series Kit",
+        "name": "Pearl Reference Series Kit",
         "type": "drums",
         "link": null
       },
@@ -463,7 +463,7 @@ export const licks = {
         "link": null
       },
       {
-        "name": "Tama Speed Cobra Pedals",
+        "name": "Double Bass Pedals",
         "type": "pedals",
         "link": null
       }
@@ -587,7 +587,7 @@ export const licks = {
     "tutorial": null,
     "gearUsed": [
       {
-        "name": "Tama Star Series Kit",
+        "name": "Pearl Reference Series Kit",
         "type": "drums",
         "link": null
       },
@@ -597,7 +597,7 @@ export const licks = {
         "link": null
       },
       {
-        "name": "Tama Speed Cobra Pedals",
+        "name": "Double Bass Pedals",
         "type": "pedals",
         "link": null
       }

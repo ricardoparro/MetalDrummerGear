@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-09-04 02:59 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-09-04 05:13 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,16 +8,16 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 264 |
-| Sessions | 301 |
-| Page views | 387 |
-| Engagement rate | 55.81% |
-| Avg session (s) | 136 |
+| Active users | 271 |
+| Sessions | 309 |
+| Page views | 391 |
+| Engagement rate | 54.37% |
+| Avg session (s) | 133 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
-| / | 20 | 15 |
+| / | 21 | 16 |
 | /drummer/frost | 12 | 1 |
 | /drummer/john-otto | 11 | 10 |
 | /drummers | 9 | 2 |
@@ -26,25 +26,25 @@
 | /drummer/matt-greiner | 6 | 5 |
 | /drummer/shannon-larkin | 6 | 4 |
 | /articles/reign-in-blood-drum-setup | 5 | 3 |
-| /drummer/joey-jordison | 5 | 4 |
+| /drummer/joey-jordison | 5 | 5 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 244 | 211 |
-| Direct | 40 | 35 |
-| Unassigned | 32 | 29 |
-| Cross-network | 4 | 4 |
+| Organic Search | 246 | 213 |
+| Direct | 41 | 36 |
+| Unassigned | 37 | 34 |
+| Cross-network | 8 | 7 |
 | Referral | 3 | 3 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 119 | 101 |
+| United States | 122 | 103 |
 | United Kingdom | 34 | 18 |
 | Australia | 13 | 13 |
 | Canada | 13 | 12 |
-| Brazil | 11 | 11 |
+| Brazil | 12 | 12 |
 | China | 9 | 9 |
 | Germany | 8 | 8 |
 | Finland | 7 | 7 |

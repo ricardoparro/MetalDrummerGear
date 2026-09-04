@@ -7439,3 +7439,53 @@ Held back (not filed): Nick Augusto Shogun-era drums/cymbals — adjacent source
 3. Flag for CEO: #5756 (Daniel Erlandsson) and #5990 (Hannes Grossmann) both illustrate that a closed SEO-proposal issue is not proof the fix shipped/was correctly scoped — worth a spot-check habit when an issue number is cited as "already fixed" during dedup passes, not just a title-match search.
 4. 22 more roster drummers remain unswept by this run's specific target list (the ones marked "clean" by this round's agent — Eloy Casagrande, Jay Weinberg, Ben Koller, Gavin Harrison, Paul Bostaph, Morgan Ågren, Ryan Van Poederooyen, Martin Lopez, Matt Garstka, Sean Reinert, Adrian Erlandsson, Jon Dette, Jimmy DeGrasso, Nick Barker, Alex Rüdinger, John Longstreth, Waltteri Väyrynen) — genuinely clean this round, don't re-check next round without a reason (e.g. a new content merge touching their pages).
 5. Drum-chair watch: next due Monday 2026-09-07 (week 37, group 1).
+
+## 2026-09-04 (24th sweep round) — 8 fresh gear-fabrication proposals filed (#6867-6874), first round to target the `licks/*.js` directory; 1 new source-conflict discovered and held back (Paul Mazurkiewicz)
+
+### Bank check
+Open `seo-proposal` at run start: 11 total — 8 already `ai-fix`-promoted (#6846-6853, per CEO's 03:05 UTC cheap-pulse log; filed by an untracked run 21:40 UTC 09-03, gap in this log) + 3 standing umbrellas (#3810/#3819/#2211). True untriaged bank: 0. Well under the 45 cap → cleared to file up to 8 net-new. (Note: the #6846-6853 batch was filed and promoted without a corresponding entry in this log — logging gap, not a process issue; flagging so the gap doesn't look like missing work.)
+
+### Audit summary
+- Robots.txt (live curl, GPTBot UA): all 8 AI crawlers explicitly allowed. ✅
+- `/llms.txt`: 200. ✅
+- `/public/llms/**/*.md`: 2,011 files live, unchanged.
+- Metrics (2026-09-04 05:13 UTC): 271 users/309 sessions/391 views (7d); GSC 6,757 impr/141 clicks/2.09% CTR/pos 9.5. Content-gap row `jaska raatikainen` (59 impr/1.69% CTR) — fix already shipped (#6740, closed 09-02), CTR trending as window rolls in, per CEO's repeated ruling this week. No new action.
+- Drum-chair watch: today is Friday — not due (next due Monday 2026-09-07, week 37 group 1).
+
+### This run's sweep
+Round 23 (last logged) left 17 "clean" roster drummers and a standing 5-drummer source-conflict watch list. Dispatched a research agent to check `genreGearGuides.js`/`drummerComparisons.js`/`soundLikeGuides.js`/`albumArticles/*.js`/`licks/*.js` for drummers outside both lists. It returned 15 candidates and flagged a structural gap: **the `licks/*.js` directory has never been targeted by any of the 23 prior sweep rounds**, which concentrated on the other 4 file families. Personally re-verified every candidate via direct `Read`/`grep`/`sed` against both the fabricating file and `endorsementNews.js` before filing — this went deeper than a flat brand check in several cases, applying era-of-the-song verification (same discipline as the Kairos/#4160 lesson) since `licks/*.js` entries are each tied to a specific song/album/year:
+
+1. **#6867 — Scott Travis** (`licks/scott-travis.js`, Painkiller-1990 entry only) — narrowed from the agent's "all 3 licks" claim: the other 2 licks (Breaking the Law, Living After Midnight) are explicitly framed as live covers of pre-Travis Priest songs with no specific date, so their current-day ddrum gear listing is reasonable and untouched; only the 1990-dated Painkiller entry's drums (ddrum, correct only since 2018) needed the era-correct Tama Artstar II fix. No verified pre-2018 pedal/sticks brand exists — issue instructs omit, not guess.
+2. **#6868 — Bill Ward** (`licks/bill-ward.js`, all 3 licks) — cymbals fabricated as Paiste (never appears in his history); verified is Super Zyn for the 1968-1970 window all 3 songs (War Pigs/Iron Man/N.I.B., all 1970) fall inside — NOT the later Zildjian (1971+) either, a 3-way brand distinction the agent's flat "Paiste is wrong" framing didn't surface.
+3. **#6869 — Mario Duplantier** (`licks/mario-duplantier.js`, 6 entries) — drums/cymbals fabricated as Mapex/Paiste; verified Tama/Zildjian only documented from 2010. 4 "Magma" (2016) entries fully fixable; the 2 "From Mars to Sirius" (2005) entries predate the only verified endorsement date — instructed to omit the brand claim there rather than guess Tama for 2005.
+4. **#6870 — Jaska Raatikainen** (`licks/jaska-raatikainen.js`, 6 entries) — cymbals fabricated as Sabian across all 6; verified is Zildjian **A Series** (not the current A/K Custom) for this pre-2005 batch of songs. Also caught that the drums field ("Tama Starclassic") is already correct for 5/6 entries but wrong for the 1 pre-1999 entry ("Lake Bodom," 1997) which should be Pearl — a self-caught era nuance the agent's report didn't flag.
+5. **#6871 — Frost** (`licks/frost.js`, all 3 licks) — drums say "Starclassic Maple" (verified: Bubinga, same brand wrong model), cymbals say Meinl (verified: Zildjian A Series), and a "Tama Lars Ulrich Signature Snare" line is a blatant copy-paste of Metallica's drummer's actual signature product onto Frost's page — instructed removal, not a guessed replacement.
+6. **#6872 — Abe Cunningham** (`licks/abe-cunningham.js`, 6 entries) — drums/hardware fabricated as SJC/DW across all 6 (verified Tama both fields; SJC actually belongs to a different roster drummer, Travis Orbin — apparent misattribution). Also caught a cymbal era mismatch the agent missed: 5/6 entries correctly say Zildjian K/A Custom, but the "Diamond Eyes" (2010) entry is the exact album where his own timeline documents a temporary switch to Sabian HHX — fixed that 1 entry only, left the other 5 alone.
+7. **#6873 — Alex Bent 2-file batch** (`albumArticles/alex-bent.js` heads + `licks/alex-bent.js` drums) — Evans heads (verified Remo) and Pearl Reference Pure drums (verified Tama), both untouched by the 6 prior closed Alex Bent fixes (all in different files). One lick ("Beyond Oblivion," 2015) predates his 2016 Trivium/Tama start — instructed omit rather than guess.
+8. **#6874 — Jason Bittner** (`licks/jason-bittner.js`, 3 entries) — cymbals fabricated as Meinl (verified Zildjian K/A Custom) and sticks fabricated as generic "Ahead 5B" (verified: his actual ProMark signature model) — drums/pedal in the same file already correctly say Mapex, left untouched.
+
+**Held back — NOT filed, new source-conflict discovered**: **Paul Mazurkiewicz** cymbals (Sabian vs. Meinl). While verifying a 9th candidate (`albumArticles/paul-mazurkiewicz.js`, 178 "Sabian" occurrences vs. `endorsementNews.js`'s verified `cymbals: { brand: 'Meinl', ... since: '1990s' }`), discovered this is NOT a fresh miss — it's a **live, shipped contradiction between two closed issues**: #5803 (closed) deliberately flipped `albumArticles.js` from Meinl → Sabian, citing `extendedBios.js`, `cymbalSetups.js` (marked `verified: true`), `drummerEvolution.js`, and external Sabian-artist listings as its sources. #6639 (closed, this week) flipped `soundLikeGuides.js` from Sabian → Meinl, citing `endorsementNews.js` as its source. Both issues did thorough, good-faith verification against different files that themselves disagree — this is the same class of problem as the standing 5-drummer watch list, just discovered on a 6th drummer. Filing a 9th proposal to flip `albumArticles.js` back to Meinl would just continue the flip-flop churn #5803 already exists to explain. **Added to the standing source-conflict watch list** (now 6 drummers: Mike Mangini, Flo Mounier, Nick Menza, Vinnie Paul, Nick Augusto, **Paul Mazurkiewicz**) — needs a founder/CEO ruling on which file wins (`endorsementNews.js` vs. `extendedBios.js`/`cymbalSetups.js`/`drummerEvolution.js`) before any further cymbal-brand fix on this drummer is safe in either direction.
+
+All 8 filed proposals personally verified via direct `Read`/`grep`/`sed` against current file contents and `endorsementNews.js`, plus a `gh issue list --state all --search` dedup pass per drummer+file before filing.
+
+### Proposals filed this run (8)
+1. #6867 — Scott Travis Painkiller-1990 drums era fix (licks/scott-travis.js, 1 of 3 entries)
+2. #6868 — Bill Ward cymbals (licks/bill-ward.js, all 3 entries, Paiste→Super Zyn)
+3. #6869 — Mario Duplantier drums+cymbals (licks/mario-duplantier.js, 4 of 6 entries fixed, 2 omit-only)
+4. #6870 — Jaska Raatikainen cymbals + 1-entry drums era fix (licks/jaska-raatikainen.js, 6 entries)
+5. #6871 — Frost drums+cymbals+fake-snare removal (licks/frost.js, all 3 entries)
+6. #6872 — Abe Cunningham drums+hardware + 1-entry cymbals era fix (licks/abe-cunningham.js, 6 entries)
+7. #6873 — Alex Bent 2-file batch (albumArticles.js heads + licks.js drums)
+8. #6874 — Jason Bittner cymbals+sticks (licks/jason-bittner.js, all 3 entries)
+
+Held back (not filed): Paul Mazurkiewicz cymbals — new source-conflict discovery (#5803 vs #6639), added to the standing watch list, needs a founder ruling.
+
+### Open proposals waiting on CEO triage
+- #6867-6874 (this run, 8 fresh)
+- #3810/#3819/#2211 (standing umbrellas)
+
+### Next run
+1. Watch #6867-6874 ship via Roadie/PR Merger.
+2. **`licks/*.js` confirmed as a productive, previously-unswept vein** (8/8 this round, several with self-caught era nuances the research agent's flat brand-check missed) — continue widening here next round; roughly 60+ lick files exist and only 6 drummers' were checked this round.
+3. Flag for CEO/founder: standing source-conflict watch list now 6 drummers (Mike Mangini, Flo Mounier, Nick Menza, Vinnie Paul, Nick Augusto, Paul Mazurkiewicz) — all need a ruling on which `endorsementNews.js`-vs-sibling-file wins before further content fixes on the disputed fields are safe in either direction.
+4. Drum-chair watch: next due Monday 2026-09-07 (week 37, group 1).

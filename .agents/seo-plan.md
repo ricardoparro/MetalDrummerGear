@@ -7529,3 +7529,50 @@ Held for next round (pre-verified, ready to file): Jay Weinberg Trivium band-mem
 2. File the pre-verified Jay Weinberg Trivium-attribution finding (genreGearGuides.js lines 27333/27437/27457) — no further research needed.
 3. Watch whether the "narrow proposal hides a wider narrative fabrication" pattern (Lars Ulrich this round, Scott Travis/Brann Dailor 2026-09-03) recurs on other long-tenured, many-album drummers (Portnoy, Lombardo) — if it does 2-3 more times, worth flagging to the CEO as a standing check to run before promoting any single-line albumArticles fix on those drummers.
 4. Drum-chair watch: next due Monday 2026-09-07 (week 37, group 1) — today (Friday 2026-09-04) confirmed not due.
+
+## 2026-09-04 (26th sweep round, ~17:xx UTC) — licks/*.js vein widened to 26 more drummers; 8 proposals filed (#6914-6921), 10 held for next round
+
+### Bank check
+Open `seo-proposal` at run start: 11 total — #6894-6901 (8) already `ai-fix`-promoted per CEO's 15:47 UTC mid-day-pulse log + 3 standing umbrellas (#3810/#3819/#2211). Confirmed via `gh issue list --json number,labels`: all 8 carry `ai-fix` already. True untriaged bank: 0. Well under 45 cap → cleared to file up to 8 net-new. Metrics (16:39 UTC): 305 users/347 sessions/446 views 7d; GSC 8,293 impr/171 clicks/2.06% CTR/pos 9.3 (same snapshot the 15:47 CEO pulse used). Both flagged content-gap rows (`danny carey drum kit`, `jaska raatikainen`) already ruled per CEO's 15:47 log (ceiling-hold / #6740 shipped) — no new action needed, re-confirmed same rulings still hold. Robots.txt (`api/robots.js`) re-checked: all 8 AI crawlers present. Drum-chair watch: today is Friday 2026-09-04, not due (next Monday 2026-09-07, week 37, group 1) — skipped per weekly-only rule.
+
+### This run's sweep
+Filed the pre-verified Jay Weinberg Trivium fabrication (genreGearGuides.js:27333/27437/27457 — he was never in Trivium, real bands are Slipknot 2014-2023 then Suicidal Tendencies 2024-2026; gear brand itself correct, only band attribution fabricated) as flagged ready-to-file last round.
+
+Continued widening the confirmed-productive `licks/*.js` vein (only 15 of 73 lick files checked before this round). Dispatched 3 parallel research agents across 26 fresh drummers not yet checked in licks/*.js: adrian-erlandsson, arin-ilejay, aquiles-priester, chris-turner, daray, dave-lombardo, derek-roddy, gavin-harrison, george-kollias, isaac-lamb, jimmy-degrasso, john-longstreth, john-otto, jon-dette, kevin-talley, martin-lopez, matt-garstka, morgan-agren, navene-koperweis, nick-augusto, paul-mazurkiewicz, pete-sandoval, richard-christy, ryan-van-poederooyen, sean-reinert, shannon-larkin. Returned 17 candidate findings + several clean/skip results (adrian-erlandsson, chris-turner, john-longstreth, john-otto, navene-koperweis, nick-augusto, pete-sandoval, shannon-larkin all clean; isaac-lamb skipped — no authoritative endorsementNews.js entry exists per #5911).
+
+Personally live-verified 7 of the highest-confidence, cleanest findings directly via grep against both the licks file and `endorsementNews.js` before filing (all confirmed exactly as the research agents reported — no false positives caught this round, unlike the 2026-09-03 Scott Travis/Brann Dailor and 2026-09-04-morning Charlie Benante/Portnoy-sticks rounds). Picked for breadth across subgenres/bands and cleanest pinned-date evidence; held the remaining 10 lower-priority-but-still-valid findings for next round rather than filing >8:
+
+### Proposals filed this run (8)
+1. #6914 — Jay Weinberg genreGearGuides.js Trivium band-attribution fabrication (held from last round)
+2. #6915 — Dave Lombardo licks/dave-lombardo.js all 7 pre-1990 entries fabricate Tama (verified Pearl through 1986, no pinned Tama switch date exists anywhere)
+3. #6916 — Martin Lopez licks/martin-lopez.js all 6 entries fabricate Pearl+Zildjian for the Opeth era (verified Sonor+Sabian 1997-2009, Zildjian/Noble & Cooley only from 2010)
+4. #6917 — Matt Garstka licks/matt-garstka.js all 5 entries fabricate Tama (verified Pearl 2012-2021, Tama only from Sept 2021) — also flagged a secondary drummer-attribution question on the 2009 "Tempting Time" entry (predates his 2012 join) for a future issue, not guessed at here
+5. #6918 — Sean Reinert licks/sean-reinert.js all 3 "Human" (1991) entries fabricate pre-Human Pearl gear (verified Tama Artstar II/DW pedal switch pinned specifically to Human)
+6. #6919 — Richard Christy licks/richard-christy.js all 3 entries fabricate Pearl "Reference Series" + Zildjian (verified Pearl Masters Custom + Sabian AA/AAX)
+7. #6920 — Ryan Van Poederooyen licks/ryan-van-poederooyen.js all 3 entries fabricate Tama+Zildjian (verified Pearl Reference Series + Sabian AAX/HHX since 2000)
+8. #6921 — Paul Mazurkiewicz licks/paul-mazurkiewicz.js all 3 entries fabricate DW+Vater (verified Pearl Reference + Vic Firth signature; cymbals field deliberately left untouched — matches the standing #5803/#6639 source conflict awaiting a founder ruling)
+
+Searched `gh issue list --state all --search` per drummer name and per `"<drummer> licks"` for all 8 before filing — no true duplicates (all prior closed hits target different files: drummerComparisons.js, albumArticles.js, soundLikeGuides.js, endorsementNews.js itself, or licks-page-creation/schema/sitemap issues, never the licks/*.js gearUsed content itself).
+
+**Held for next round (pre-verified by research agents, ready to file, no further research needed):**
+- arin-ilejay — cymbals fabricated Sabian (verified Zildjian A Custom, pinned 2011-2015); drums also wrong (PDP claimed, but endorsementNews.js itself internally conflicts Mapex-vs-DW — flag the source conflict itself as part of the fix)
+- aquiles-priester — sticks fabricated Vater (verified Vic Firth signature, pinned 2004)
+- daray — cymbals fabricated Meinl (verified Paiste RUDE/2002, pinned 2008, renewed 2018)
+- derek-roddy — sticks fabricated Vic Firth across all 6 entries (verified Vater, pinned 2001); 1 entry also has an undated drums claim that should be omitted per verified-only rather than fixed
+- gavin-harrison — 1 of 3 entries (2002-dated) fabricates 2007-signed Zildjian K Custom Special Dry + Vic Firth signature sticks 5 years early
+- george-kollias — first lick entry misattributes a 2002 In Their Darkened Shrines song to Kollias, who didn't join Nile until 2004 (real drummer was Tony Laureano) — a drummer-attribution error, not just a gear error; secondary lower-confidence cymbal note (Meinl vs likely-Zildjian) needs more research before filing
+- jon-dette — 2 of 3 entries misdate songs to before his 1996 Slayer tenure began (1994 Divine Intervention tracks, recorded by Paul Bostaph); all 3 entries also fabricate Pearl Reference Series gear vs verified Ludwig Classic Maple
+- jimmy-degrasso — 1 entry states a 2008 NAMM-debuted signature snare on a 2001 track (anachronism)
+- kevin-talley — 2 of 3 entries fabricate Meinl/Trick Pro1-V (verified Sabian AAX/Pearl Eliminator from 2000); brand fabrication solid regardless of the entries' exact dates
+- morgan-agren — all 3 entries (2019-2021) fabricate Meinl/DW/Regal Tip (verified Paiste since 1988, Sonor Giant Step pedal since 2012, Vic Firth sticks — triple-corroborated across endorsementNews.js + extendedBios.js)
+
+### Open proposals waiting on CEO triage
+- #6914-6921 (this run, 8 fresh)
+- #3810/#3819/#2211 (standing umbrellas)
+
+### Next run
+1. Watch #6914-6921 ship via Roadie/PR Merger.
+2. File the 10 pre-verified held findings above (arin-ilejay, aquiles-priester, daray, derek-roddy, gavin-harrison, george-kollias, jon-dette, jimmy-degrasso, kevin-talley, morgan-agren) — no further research needed, just write + dedup-check + file, prioritizing george-kollias and jon-dette first since those are drummer-attribution errors (more serious than a gear-brand swap).
+3. `licks/*.js` vein: 41 of 73 files now checked (15 prior + 26 this round). ~32 remain unswept — still a productive vein, continue widening next round after the held batch clears.
+4. Watch whether the "narrow proposal hides a wider narrative fabrication" pattern (Lars Ulrich 2026-09-04, Scott Travis/Brann Dailor 2026-09-03) recurs — if 2-3 more times, flag to CEO as a standing pre-promotion check for long-tenured many-album drummers.
+5. Drum-chair watch: next due Monday 2026-09-07 (week 37, group 1) — today (Friday 2026-09-04) confirmed not due.

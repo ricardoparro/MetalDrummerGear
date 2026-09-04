@@ -39,9 +39,8 @@ export const licks = {
       "description": "Full-song drum cover following Igor Cavalera's tribal groove on Roots Bloody Roots"
     },
     "gearUsed": [
-      { "name": "Pearl Reference Kit", "type": "drums", "link": null },
-      { "name": "Sabian Cymbals", "type": "cymbals", "link": null },
-      { "name": "Pearl Eliminator Double Pedal", "type": "hardware", "link": null }
+      { "name": "Pearl Masters Custom Kit", "type": "drums", "link": null },
+      { "name": "Paiste RUDE / 2002 Series Cymbals", "type": "cymbals", "link": null }
     ],
     "learningTips": [
       "Focus on feel and pocket over technical complexity",
@@ -99,9 +98,8 @@ export const licks = {
       "description": "Full-song drum cover following Igor Cavalera's double-bass drive on Refuse/Resist"
     },
     "gearUsed": [
-      { "name": "Pearl Reference Kit", "type": "drums", "link": null },
-      { "name": "Sabian Cymbals", "type": "cymbals", "link": null },
-      { "name": "Pearl Eliminator Double Pedal", "type": "hardware", "link": null }
+      { "name": "Pearl Masters Custom Kit", "type": "drums", "link": null },
+      { "name": "Paiste RUDE / 2002 Series Cymbals", "type": "cymbals", "link": null }
     ],
     "learningTips": [
       "Build double-bass evenness slowly before chasing the song's tempo",
@@ -159,9 +157,8 @@ export const licks = {
       "description": "Full-song drum cover of Igor Cavalera's thrash-blast masterclass on Beneath the Remains"
     },
     "gearUsed": [
-      { "name": "Pearl Reference Kit", "type": "drums", "link": null },
-      { "name": "Sabian Cymbals", "type": "cymbals", "link": null },
-      { "name": "Pearl Eliminator Double Pedal", "type": "hardware", "link": null }
+      { "name": "Brand not publicly documented (pre-1993 era)", "type": "drums", "link": null },
+      { "name": "Brand not publicly documented (pre-1993 era)", "type": "cymbals", "link": null }
     ],
     "learningTips": [
       "Build double-bass speed gradually — evenness matters more than raw velocity",
@@ -214,9 +211,8 @@ export const licks = {
     ],
     "tutorial": null,
     "gearUsed": [
-      { "name": "Pearl Reference Kit", "type": "drums", "link": null },
-      { "name": "Sabian Cymbals", "type": "cymbals", "link": null },
-      { "name": "Pearl Eliminator Double Pedal", "type": "hardware", "link": null }
+      { "name": "Brand not publicly documented (pre-1993 era)", "type": "drums", "link": null },
+      { "name": "Brand not publicly documented (pre-1993 era)", "type": "cymbals", "link": null }
     ],
     "learningTips": [
       "Build single-foot 16th notes to the full tempo before combining both feet",
@@ -269,9 +265,8 @@ export const licks = {
     ],
     "tutorial": null,
     "gearUsed": [
-      { "name": "Pearl Reference Kit", "type": "drums", "link": null },
-      { "name": "Sabian Cymbals", "type": "cymbals", "link": null },
-      { "name": "Pearl Eliminator Double Pedal", "type": "hardware", "link": null }
+      { "name": "Pearl Masters Custom Kit", "type": "drums", "link": null },
+      { "name": "Paiste RUDE / 2002 Series Cymbals", "type": "cymbals", "link": null }
     ],
     "learningTips": [
       "Listen to baião and samba recordings to understand the rhythmic sensibility underlying the groove",
@@ -324,9 +319,8 @@ export const licks = {
     ],
     "tutorial": null,
     "gearUsed": [
-      { "name": "Pearl Reference Kit", "type": "drums", "link": null },
-      { "name": "Sabian Cymbals", "type": "cymbals", "link": null },
-      { "name": "Pearl Eliminator Double Pedal", "type": "hardware", "link": null }
+      { "name": "Brand not publicly documented (pre-1993 era)", "type": "drums", "link": null },
+      { "name": "Brand not publicly documented (pre-1993 era)", "type": "cymbals", "link": null }
     ],
     "learningTips": [
       "Approach this blast from a feel and intensity perspective rather than a technical precision one",

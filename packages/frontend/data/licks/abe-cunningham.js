@@ -41,7 +41,7 @@ export const licks = {
     },
     "gearUsed": [
       {
-        "name": "SJC Custom Drums",
+        "name": "Tama Starclassic Maple/Bubinga Kit",
         "type": "drums",
         "link": null
       },
@@ -51,7 +51,7 @@ export const licks = {
         "link": null
       },
       {
-        "name": "DW 9000 Series Double Pedal",
+        "name": "Tama Iron Cobra 900 Rolling Glide Pedal",
         "type": "pedals",
         "link": null
       }
@@ -114,7 +114,7 @@ export const licks = {
     },
     "gearUsed": [
       {
-        "name": "SJC Custom Drums",
+        "name": "Tama Starclassic Maple/Bubinga Kit",
         "type": "drums",
         "link": null
       },
@@ -124,7 +124,7 @@ export const licks = {
         "link": null
       },
       {
-        "name": "DW 9000 Series Double Pedal",
+        "name": "Tama Iron Cobra 900 Rolling Glide Pedal",
         "type": "pedals",
         "link": null
       }
@@ -186,9 +186,9 @@ export const licks = {
       "description": "Abe Cunningham's atmospheric ghost-note groove on Passenger from White Pony"
     },
     "gearUsed": [
-      { "name": "SJC Custom Drums", "type": "drums", "link": null },
+      { "name": "Tama Starclassic Maple/Bubinga Kit", "type": "drums", "link": null },
       { "name": "Zildjian K Custom & A Custom Series Cymbals", "type": "cymbals", "link": null },
-      { "name": "DW 9000 Series Double Pedal", "type": "pedals", "link": null }
+      { "name": "Tama Iron Cobra 900 Rolling Glide Pedal", "type": "pedals", "link": null }
     ],
     "learningTips": [
       "Practise the verse groove on a practice pad at pianissimo volume — if you can hear the stick rebound, you are playing too loudly",
@@ -246,9 +246,9 @@ export const licks = {
       "description": "Abe Cunningham's rolling tom fill and groove approach on Diamond Eyes"
     },
     "gearUsed": [
-      { "name": "SJC Custom Drums", "type": "drums", "link": null },
-      { "name": "Zildjian K Custom & A Custom Series Cymbals", "type": "cymbals", "link": null },
-      { "name": "DW 9000 Series Double Pedal", "type": "pedals", "link": null }
+      { "name": "Tama Starclassic Maple/Bubinga Kit", "type": "drums", "link": null },
+      { "name": "Sabian HHX Cymbals", "type": "cymbals", "link": null },
+      { "name": "Tama Iron Cobra 900 Rolling Glide Pedal", "type": "pedals", "link": null }
     ],
     "learningTips": [
       "Practise the tom cascade slowly, ensuring each stroke is the same volume and has the same rebound height before building tempo",
@@ -306,9 +306,9 @@ export const licks = {
       "description": "Abe Cunningham's syncopated hi-hat wrist pattern on Hole in the Earth from Saturday Night Wrist"
     },
     "gearUsed": [
-      { "name": "SJC Custom Drums", "type": "drums", "link": null },
+      { "name": "Tama Starclassic Maple/Bubinga Kit", "type": "drums", "link": null },
       { "name": "Zildjian K Custom & A Custom Series Cymbals", "type": "cymbals", "link": null },
-      { "name": "DW 9000 Series Double Pedal", "type": "pedals", "link": null }
+      { "name": "Tama Iron Cobra 900 Rolling Glide Pedal", "type": "pedals", "link": null }
     ],
     "learningTips": [
       "Practise the hi-hat pattern in isolation at 90 BPM with a metronome, focusing on consistent accent placement before adding other elements",
@@ -367,7 +367,7 @@ export const licks = {
     },
     "gearUsed": [
       {
-        "name": "SJC Custom Drums",
+        "name": "Tama Starclassic Maple/Bubinga Kit",
         "type": "drums",
         "link": null
       },
@@ -377,7 +377,7 @@ export const licks = {
         "link": null
       },
       {
-        "name": "DW 9000 Series Double Pedal",
+        "name": "Tama Iron Cobra 900 Rolling Glide Pedal",
         "type": "pedals",
         "link": null
       }

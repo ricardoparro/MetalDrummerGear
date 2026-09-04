@@ -40,18 +40,13 @@ export const licks = {
     },
     "gearUsed": [
       {
-        "name": "ddrum Vinnie Paul Signature Series",
+        "name": "Tama Kit",
         "type": "drums",
         "link": null
       },
       {
         "name": "Sabian AA & AAX Cymbals",
         "type": "cymbals",
-        "link": null
-      },
-      {
-        "name": "ddrum Double Pedal",
-        "type": "pedals",
         "link": null
       }
     ],
@@ -112,18 +107,13 @@ export const licks = {
     },
     "gearUsed": [
       {
-        "name": "ddrum Vinnie Paul Signature Series",
+        "name": "Tama Kit",
         "type": "drums",
         "link": null
       },
       {
         "name": "Sabian AA & AAX Cymbals",
         "type": "cymbals",
-        "link": null
-      },
-      {
-        "name": "ddrum Double Pedal",
-        "type": "pedals",
         "link": null
       }
     ],
@@ -184,18 +174,13 @@ export const licks = {
     },
     "gearUsed": [
       {
-        "name": "ddrum Vinnie Paul Signature Series",
+        "name": "Tama Kit",
         "type": "drums",
         "link": null
       },
       {
         "name": "Sabian AA & AAX Cymbals",
         "type": "cymbals",
-        "link": null
-      },
-      {
-        "name": "ddrum Double Pedal",
-        "type": "pedals",
         "link": null
       }
     ],
@@ -251,18 +236,13 @@ export const licks = {
     "tutorial": null,
     "gearUsed": [
       {
-        "name": "ddrum Vinnie Paul Signature Series",
+        "name": "Tama Kit",
         "type": "drums",
         "link": null
       },
       {
         "name": "Sabian AA & AAX Cymbals",
         "type": "cymbals",
-        "link": null
-      },
-      {
-        "name": "ddrum Double Pedal",
-        "type": "pedals",
         "link": null
       }
     ],
@@ -317,18 +297,13 @@ export const licks = {
     "tutorial": null,
     "gearUsed": [
       {
-        "name": "ddrum Vinnie Paul Signature Series",
+        "name": "Tama Kit",
         "type": "drums",
         "link": null
       },
       {
         "name": "Sabian AA & AAX Cymbals",
         "type": "cymbals",
-        "link": null
-      },
-      {
-        "name": "ddrum Double Pedal",
-        "type": "pedals",
         "link": null
       }
     ],
@@ -383,18 +358,13 @@ export const licks = {
     "tutorial": null,
     "gearUsed": [
       {
-        "name": "ddrum Vinnie Paul Signature Series",
+        "name": "Tama Kit",
         "type": "drums",
         "link": null
       },
       {
         "name": "Sabian AA & AAX Cymbals",
         "type": "cymbals",
-        "link": null
-      },
-      {
-        "name": "ddrum Double Pedal",
-        "type": "pedals",
         "link": null
       }
     ],

@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-09-04 05:13 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-09-04 10:37 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,48 +8,48 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 271 |
-| Sessions | 309 |
-| Page views | 391 |
-| Engagement rate | 54.37% |
-| Avg session (s) | 133 |
+| Active users | 292 |
+| Sessions | 333 |
+| Page views | 430 |
+| Engagement rate | 61.56% |
+| Avg session (s) | 129 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
-| / | 21 | 16 |
-| /drummer/frost | 12 | 1 |
-| /drummer/john-otto | 11 | 10 |
-| /drummers | 9 | 2 |
+| / | 21 | 17 |
+| /drummer/frost | 12 | 2 |
+| /drummer/john-otto | 12 | 11 |
+| /drummers | 10 | 3 |
+| /drummer/matt-greiner | 8 | 7 |
 | /drummer/igor-cavalera | 7 | 6 |
-| /drummer/bill-ward | 6 | 5 |
-| /drummer/matt-greiner | 6 | 5 |
+| /drummer/bill-ward | 6 | 6 |
+| /drummer/joey-jordison | 6 | 5 |
 | /drummer/shannon-larkin | 6 | 4 |
 | /articles/reign-in-blood-drum-setup | 5 | 3 |
-| /drummer/joey-jordison | 5 | 5 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 246 | 213 |
-| Direct | 41 | 36 |
-| Unassigned | 37 | 34 |
-| Cross-network | 8 | 7 |
+| Organic Search | 279 | 243 |
+| Direct | 42 | 37 |
+| Unassigned | 13 | 13 |
 | Referral | 3 | 3 |
+| Cross-network | 2 | 2 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 122 | 103 |
-| United Kingdom | 34 | 18 |
-| Australia | 13 | 13 |
-| Canada | 13 | 12 |
-| Brazil | 12 | 12 |
+| United States | 132 | 111 |
+| United Kingdom | 36 | 19 |
+| Canada | 15 | 14 |
+| Australia | 14 | 14 |
+| Brazil | 13 | 13 |
 | China | 9 | 9 |
-| Germany | 8 | 8 |
-| Finland | 7 | 7 |
-| France | 7 | 7 |
-| Sweden | 7 | 7 |
+| Germany | 9 | 9 |
+| Finland | 8 | 8 |
+| France | 8 | 8 |
+| Spain | 7 | 7 |
 
 ## Search Console — Search performance
 | Metric | Last 7d |

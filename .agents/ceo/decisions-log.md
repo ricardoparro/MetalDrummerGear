@@ -5,6 +5,36 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-09-04 02:59 UTC*
 
 ---
+## 2026-09-04 10:37 — Deep run: 8 fresh licks/*.js era-fabrication proposals promoted (#6867-6874)
+
+### Context (≤3 lines)
+First run after 07:00 UTC (deep run). Metrics 10:37 UTC (292 users/333 sessions/430 views 7d; GSC 6,757 impr/141 clicks/2.09% CTR/pos 9.5). Eligible `ai-fix` backlog 1 at run start (#6823, drummerEvolution.js follow-up from yesterday), 0 open PRs, 8 fresh untriaged `seo-proposal` (#6867-6874, filed 05:33-05:35 UTC) plus the 3 standing L1/L2/L3 umbrellas (#3810/#3819/#2211).
+
+### Actions taken
+- **Live-verified 2 of 8 directly** (grep source + endorsementNews.js): #6867 (Scott Travis Painkiller 1990 entry says ddrum, confirmed `licks/scott-travis.js:41` vs `endorsementNews.js:1065/1086` — ddrum only since 2018, Painkiller-era verified Tama Artstar II) and #6871 (Frost — confirmed all 3 `licks/frost.js` entries say "Starclassic Maple" + fabricated "Tama Lars Ulrich Signature Snare" + "Meinl Classics Custom", vs verified Starclassic **Bubinga**/Zildjian A Series since 2013, no Lars Ulrich connection anywhere). Remaining 6 (#6868/6869/6870/6872/6873/6874) pattern-matched — same class as weeks of prior merges (licks/*.js gearUsed fabricated/era-mismatched vs endorsementNews.js timeline), each cites exact line numbers and verified replacement. Searched `gh issue list --state all` per drummer/file — no duplicates; several note adjacent already-closed fixes in sibling files (e.g. #6873 references 6 prior closed Alex Bent fixes in other data files, none touching these two). All single/dual-file, verified-only, zero new pages/URLs — freeze-compliant.
+- **Promoted all 8** to `ai-fix`. Backlog gate: 1 → 9, well under 45/80 — promoted liberally per rule.
+- **GSC content-gap**: `jaska raatikainen` (59 impr, 1.69% CTR, pos 7.4) flagged by fetch-metrics — already fixed via #6740 (closed 2026-09-02, metaDescription rewrite); same data-lag pattern noted in yesterday's deep run. No new action.
+- **L1/L2/L3** (#3810/#3819/#2211): snapshot files still 2026-08-31 generation (checked `**Generated:**` timestamps on both), already fully triaged in the 09-01/09-02/09-03 deep runs. L2 cited count 67/100 — well above the 25/100 minimum-pressure threshold, no forced L2 issue needed. Next weekly refresh due ~09-07.
+- **Founder ideas**: inbox empty, unchanged since 06-19.
+- **Human-founder blockers**: #5141/#5100/#4892/#875/#529/#526/#525 — all `updatedAt` unchanged, no re-spam.
+- **Atomic-split sweep**: the 20 pre-existing `hold`-labeled roster/band-split issues re-confirmed freeze-blocked, none eligible. New promotions all single/dual-file, well under the atomic-split trigger.
+- **Starvation check**: not triggered (9 eligible backlog, healthy cadence — 8th consecutive multi-day batch of this fabrication class).
+
+### State delta
+- ai-fix backlog: 1 → 9 (#6867-6874, plus pre-existing #6823)
+- seo-proposal bank (excl. umbrellas): 8 → 0
+- Org/Sessions/Views (7d): 292/333/430 · GSC 6,757 impr/141 clicks/2.09% CTR/pos 9.5
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 8/8 fresh triaged, live-verified (2 direct + 6 pattern-match), promoted, no duplicates, freeze-compliant. ✅ GSC-gap: 1 row reviewed, already fixed, data lag. ✅ L1/L2/L3: no fresh snapshot since 08-31, already actioned; L2 healthy at 67/100. ✅ Starvation: not triggered. ✅ Atomic split: 20 stale issues re-checked, none eligible; new promotions all atomic. ✅ Decisions logged.
+
+### Next Run
+1. Watch #6867-6874 (+ #6823) ship via Roadie/PR Merger.
+2. Watch for the next L1/L2/L3 weekly refresh (last 08-31, due ~09-07).
+3. Next deep run ~07:00 UTC tomorrow: full metrics + GSC-gap + L1/L2/L3 close-the-loop pass.
+
+---
+
 ## 2026-09-04 03:05 — Cheap pulse: 8 fresh gear-fabrication proposals promoted (#6846-6853)
 
 ### Context (≤3 lines)

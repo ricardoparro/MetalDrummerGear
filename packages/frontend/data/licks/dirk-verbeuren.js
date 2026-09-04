@@ -39,10 +39,10 @@ export const licks = {
       "description": "Dirk Verbeuren's official playthrough, showing his fast double bass and thrash drive"
     },
     "gearUsed": [
-      { "name": "Tama Starclassic Walnut/Birch Kit", "type": "drums", "link": null },
-      { "name": "Zildjian A Custom & K Custom Cymbals", "type": "cymbals", "link": null },
+      { "name": "Tama Starclassic Maple Kit", "type": "drums", "link": null },
+      { "name": "Meinl Byzance Brilliant Heavy Hammered / Classics Custom Dark", "type": "cymbals", "link": null },
       { "name": "Tama Speed Cobra 910 Double Pedal", "type": "hardware", "link": null },
-      { "name": "Promark Shira Kashi Oak 5B", "type": "sticks", "link": null }
+      { "name": "Tama O-DVM2 Signature Sticks", "type": "sticks", "link": null }
     ],
     "learningTips": [
       "Build double bass slowly and evenly before adding speed",
@@ -100,10 +100,10 @@ export const licks = {
       "description": "Dirk Verbeuren's playthrough of the thrash classic, showing his speed and even double bass"
     },
     "gearUsed": [
-      { "name": "Tama Starclassic Walnut/Birch Kit", "type": "drums", "link": null },
-      { "name": "Zildjian A Custom & K Custom Cymbals", "type": "cymbals", "link": null },
+      { "name": "Tama Starclassic Maple Kit", "type": "drums", "link": null },
+      { "name": "Meinl Byzance Brilliant Heavy Hammered / Classics Custom Dark", "type": "cymbals", "link": null },
       { "name": "Tama Speed Cobra 910 Double Pedal", "type": "hardware", "link": null },
-      { "name": "Promark Shira Kashi Oak 5B", "type": "sticks", "link": null }
+      { "name": "Tama O-DVM2 Signature Sticks", "type": "sticks", "link": null }
     ],
     "learningTips": [
       "Build the thrash beat to tempo gradually with a metronome",
@@ -161,10 +161,10 @@ export const licks = {
       "description": "Dirk Verbeuren's blast-beat and double-bass technique on Soilwork's King of the Threshold"
     },
     "gearUsed": [
-      { "name": "Tama Starclassic Walnut/Birch Kit", "type": "drums", "link": null },
-      { "name": "Zildjian A Custom & K Custom Cymbals", "type": "cymbals", "link": null },
+      { "name": "Tama Starclassic Performer Kit", "type": "drums", "link": null },
+      { "name": "Meinl Byzance Dark Cymbals", "type": "cymbals", "link": null },
       { "name": "Tama Speed Cobra 910 Double Pedal", "type": "hardware", "link": null },
-      { "name": "Promark Shira Kashi Oak 5B", "type": "sticks", "link": null }
+      { "name": "Vater Power 5B", "type": "sticks", "link": null }
     ],
     "learningTips": [
       "Build the blast beat slowly until it is even and controlled",

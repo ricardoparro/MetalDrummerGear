@@ -7576,3 +7576,41 @@ Searched `gh issue list --state all --search` per drummer name and per `"<drumme
 3. `licks/*.js` vein: 41 of 73 files now checked (15 prior + 26 this round). ~32 remain unswept — still a productive vein, continue widening next round after the held batch clears.
 4. Watch whether the "narrow proposal hides a wider narrative fabrication" pattern (Lars Ulrich 2026-09-04, Scott Travis/Brann Dailor 2026-09-03) recurs — if 2-3 more times, flag to CEO as a standing pre-promotion check for long-tenured many-album drummers.
 5. Drum-chair watch: next due Monday 2026-09-07 (week 37, group 1) — today (Friday 2026-09-04) confirmed not due.
+
+## 2026-09-04 (27th sweep round, ~21:xx UTC) — filed the 8 held findings from round 26 (#6934-6939, #6942, #6943); george-kollias upgraded from a gear-only fix to a wrong-drummer + source-conflict finding on deeper verification
+
+### Bank check
+Open `seo-proposal` at run start: 11 total — 8 already `ai-fix`-promoted (#6914-6921, per CEO's 20:23 UTC evening-review log) + 3 standing umbrellas (#3810/#3819/#2211). True untriaged bank: 0. Well under the 45 cap → cleared to file up to 8 net-new. Metrics (21:09 UTC): 311 users/354 sessions/455 views 7d; GSC 8,293 impr/171 clicks/2.06% CTR/pos 9.3 (flat vs the 20:23 CEO snapshot). Both flagged content-gap rows (`danny carey drum kit`, `jaska raatikainen`) already ruled per repeated prior CEO log entries (ceiling-hold / #6740 shipped) — no new action. Robots.txt: all 8 AI crawlers allowed. `/llms/**/*.md`: 2,011 files live, unchanged. Drum-chair watch: today is Friday, not due (next Monday 2026-09-07, week 37 group 1).
+
+### This run's work
+Filed all 8 findings held from round 26 (arin-ilejay, aquiles-priester, daray, derek-roddy, george-kollias, jon-dette, kevin-talley, morgan-agren) — skipped gavin-harrison and jimmy-degrasso this round purely to stay at the 8-cap, holding them for next round with no further research needed. Personally re-verified every one via direct `Read`/`grep` against current `licks/*.js` + `endorsementNews.js` + `drummerEvolution.js`/`extendedBios.js` state before filing (files can drift between rounds; last round's pre-verification was ~4h old at file time).
+
+Two findings deepened significantly on re-verification, beyond what round 26 flagged:
+
+- **George Kollias (#6934)** — round 26 flagged this as "secondary lower-confidence cymbal note (Meinl vs likely-Zildjian), needs more research." Full re-verification against `drummerEvolution.js`'s dated per-era gear timeline (never previously cross-referenced for this drummer's licks) found something more serious: entry 1 ("Papyrus...", In Their Darkened Shrines, 2002) is not a gear-era mismatch but a **wrong-drummer** attribution — Kollias didn't join Nile until 2004 (confirmed via `bands.js:1040` + `drummerEvolution.js:5308`); the real 2002 Nile drummer was Tony Laureano. Entries 2 and 3 (genuinely Kollias's own Annihilation of the Wicked 2005 and Sacrifice Unto Sebek 2009) both have era-wrong pedal/cymbal fields (Pearl Demon Drive/Meinl fabricated; verified Tama Iron Cobra HP900/Paiste Signature for those pre-2015 years). Also **discovered a new source conflict**: `drummerEvolution.js` documents Remo heads unchanged across all 3 dated eras including present-day, directly contradicting `endorsementNews.js`'s currentEndorsements claim of Evans heads — added **George Kollias** to the standing source-conflict watch list (now 7 drummers: Mike Mangini, Flo Mounier, Nick Menza, Vinnie Paul, Nick Augusto, Paul Mazurkiewicz, **George Kollias**), heads field left untouched pending a founder/CEO ruling.
+- **Jon Dette (#6935)** — round 26 flagged "2 of 3 entries misdate songs to before his 1996 Slayer tenure began... all 3 also fabricate Pearl Reference Series drums vs verified Ludwig." Deeper read of the lick descriptions (not just gearUsed) found the real problem is narrower and worse: entry 1's *prose* explicitly claims Dette was "the first studio drummer to replace Dave Lombardo on a Slayer recording" — false; Paul Bostaph recorded Divine Intervention (1994), and Dette's verified 1996-97 stint was touring-only. Entries 2 and 3 are already correctly framed as live-tour/tribute performances (no attribution problem), so the fix is: reframe entry 1's false studio-credit claim, and fix the Pearl→Ludwig drums fabrication across all 3 (cymbals/pedal fields already roughly correct, left untouched).
+
+The other 6 (arin-ilejay #6936, aquiles-priester #6937, daray #6938, derek-roddy #6939, morgan-agren #6942, kevin-talley #6943) confirmed exactly as round 26 described — straightforward era-correct gear-brand fabrications, no new complications. Notable era-precision catches during verification: arin-ilejay's fix uses the *dated timeline* (DW Collector's Series, 2011-2015 A7X era) rather than `endorsementNews.js`'s vague `currentEndorsements` block, which actually describes his later post-A7X Confide-era gear (already resolved as self-consistent by prior fix #6130 — not a fresh conflict, just needed the right timeline entry picked). Aquiles-priester's fix deliberately uses his *classic-era* (2004) Vic Firth signature, not his current (2023+) ProMark signature — using the wrong-era "current" gear would have been a fresh error of the same kind being fixed. Morgan Ågren's fabrication (Meinl/DW/Regal Tip) is now confirmed fixed in 6 separate files for this one drummer (5 prior + this licks fix) — flagged in the issue as a likely single copy-paste-across-files origin, worth a CEO note if a 7th instance turns up.
+
+Searched `gh issue list --state all --search "<drummer>"` for all 8 before filing, plus a direct `licks/<slug>.js` filename search — no true duplicates on the licks files themselves (all prior closed hits for these 8 drummers target `drummerComparisons.js`, `genreGearGuides.js`, `soundLikeGuides.js`, `albumArticles.js`, `endorsementNews.js` itself, or `gearHighlights` — several of which independently corroborate the exact same verified-gear facts used here, since multiple files had the identical fabrication pattern fixed already, just never in `licks/*.js`).
+
+### Proposals filed this run (8)
+1. #6934 — George Kollias licks/george-kollias.js (wrong-drummer entry 1 + era-wrong pedal/cymbals entries 2-3 + new source-conflict flag on heads)
+2. #6935 — Jon Dette licks/jon-dette.js (false studio-credit claim entry 1 + Pearl→Ludwig drums across all 3)
+3. #6936 — Arin Ilejay licks/arin-ilejay.js (PDP→DW Collector's Series, Sabian→Zildjian A Custom, all 3 entries)
+4. #6937 — Aquiles Priester licks/aquiles-priester.js (Vater→Vic Firth Aquiles Priester Signature sticks, all 3 entries)
+5. #6938 — Daray licks/daray.js (Meinl→Paiste RUDE/2002 cymbals + Reference Series→Reference Pure drums model, all 3 entries)
+6. #6939 — Derek Roddy licks/derek-roddy.js (nonexistent Vic Firth signature→Vater 5B sticks, all 6 entries; 1996 entry's anachronistic Tama drums claim flagged for omission)
+7. #6942 — Morgan Ågren licks/morgan-agren.js (Meinl/DW/Regal Tip→Paiste/Sonor Giant Step/Vic Firth, all 3 entries — 6th file with this pattern)
+8. #6943 — Kevin Talley licks/kevin-talley.js (Meinl/Trick Pro1-V→Sabian AAX/Pearl Eliminator, all 3 entries)
+
+### Open proposals waiting on CEO triage
+- #6934-6939, #6942, #6943 (this run, 8 fresh)
+- #3810/#3819/#2211 (standing umbrellas)
+
+### Next run
+1. Watch #6934-6939/#6942/#6943 ship via Roadie/PR Merger — #6934 (George Kollias) is the most judgment-heavy (wrong-drummer replacement decision), worth a closer look at its PR than usual.
+2. File the 2 findings held back purely for the 8-cap (pre-verified, ready to file, no further research needed): gavin-harrison (1 of 3 licks entries fabricates a 2007-signed Zildjian K Custom Special Dry + Vic Firth signature 5 years early on a 2002-dated entry), jimmy-degrasso (1 entry states a 2008 NAMM-debuted signature snare on a 2001 track).
+3. `licks/*.js` vein: 49 of 73 files now checked (41 prior + 8 this round). ~24 remain unswept — continue widening next round once the held batch clears.
+4. Source-conflict watch list now 7 drummers (Mike Mangini, Flo Mounier, Nick Menza, Vinnie Paul, Nick Augusto, Paul Mazurkiewicz, George Kollias) — flag to CEO/founder again, growing list needs a ruling pass.
+5. Drum-chair watch: next due Monday 2026-09-07 (week 37, group 1) — today (Friday 2026-09-04) confirmed not due.

@@ -39,10 +39,8 @@ export const licks = {
       "description": "Isolated drum track of Scott Travis's iconic double-bass intro and assault on Painkiller"
     },
     "gearUsed": [
-      { "name": "ddrum Dominion Series Kit", "type": "drums", "link": null },
-      { "name": "Paiste RUDE & 2002 Cymbals", "type": "cymbals", "link": null },
-      { "name": "DW 9000 Series Double Pedal", "type": "hardware", "link": null },
-      { "name": "Vic Firth American Classic 5B", "type": "sticks", "link": null }
+      { "name": "Tama Artstar II Kit", "type": "drums", "link": null },
+      { "name": "Paiste RUDE & 2002 Cymbals", "type": "cymbals", "link": null }
     ],
     "learningTips": [
       "Build the double-bass intro roll slowly until it is perfectly even",

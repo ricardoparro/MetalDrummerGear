@@ -163,7 +163,7 @@ export const licks = {
     "gearUsed": [
       { "name": "Noble & Cooley Kit", "type": "drums", "link": null },
       { "name": "Zildjian K Constantinople Cymbals", "type": "cymbals", "link": null },
-      { "name": "Sonor Hardware", "type": "hardware", "link": null },
+      { "name": "Axis Percussion Double Pedal", "type": "hardware", "link": null },
       { "name": "Vic Firth Sticks", "type": "sticks", "link": null }
     ],
     "learningTips": [

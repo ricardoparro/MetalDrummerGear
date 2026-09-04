@@ -41,12 +41,12 @@ export const licks = {
     },
     "gearUsed": [
       {
-        "name": "Mapex Saturn V Kit",
+        "name": "Tama Kit",
         "type": "drums",
         "link": null
       },
       {
-        "name": "Paiste Signature Cymbals",
+        "name": "Zildjian K Custom / A Custom / Z Custom Cymbals",
         "type": "cymbals",
         "link": null
       },
@@ -113,12 +113,12 @@ export const licks = {
     "tutorial": null,
     "gearUsed": [
       {
-        "name": "Mapex Saturn V Kit",
+        "name": "Tama Kit",
         "type": "drums",
         "link": null
       },
       {
-        "name": "Paiste Signature Cymbals",
+        "name": "Zildjian K Custom / A Custom / Z Custom Cymbals",
         "type": "cymbals",
         "link": null
       },
@@ -178,12 +178,12 @@ export const licks = {
     "tutorial": null,
     "gearUsed": [
       {
-        "name": "Mapex Saturn V Kit",
+        "name": "Tama Kit",
         "type": "drums",
         "link": null
       },
       {
-        "name": "Paiste Signature Cymbals",
+        "name": "Zildjian K Custom / A Custom / Z Custom Cymbals",
         "type": "cymbals",
         "link": null
       },
@@ -245,12 +245,12 @@ export const licks = {
     "tutorial": null,
     "gearUsed": [
       {
-        "name": "Mapex Saturn V Kit",
+        "name": "Tama Kit",
         "type": "drums",
         "link": null
       },
       {
-        "name": "Paiste Signature Cymbals",
+        "name": "Zildjian K Custom / A Custom / Z Custom Cymbals",
         "type": "cymbals",
         "link": null
       },
@@ -312,16 +312,6 @@ export const licks = {
     "tutorial": null,
     "gearUsed": [
       {
-        "name": "Mapex Saturn Kit",
-        "type": "drums",
-        "link": null
-      },
-      {
-        "name": "Paiste Signature Cymbals",
-        "type": "cymbals",
-        "link": null
-      },
-      {
         "name": "DW 9000 Pedals",
         "type": "pedals",
         "link": null
@@ -382,16 +372,6 @@ export const licks = {
       "description": "Drum cover of Mario Duplantier's heavy pocket groove on Gojira's Backbone"
     },
     "gearUsed": [
-      {
-        "name": "Mapex Saturn Kit",
-        "type": "drums",
-        "link": null
-      },
-      {
-        "name": "Paiste Signature Cymbals",
-        "type": "cymbals",
-        "link": null
-      },
       {
         "name": "DW 9000 Pedals",
         "type": "pedals",

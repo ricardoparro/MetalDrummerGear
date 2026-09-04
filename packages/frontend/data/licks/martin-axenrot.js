@@ -40,11 +40,10 @@ export const licks = {
       "description": "Opeth's official music video for The Devil's Orchard from Heritage, showcasing Martin Axenrot's odd-meter groove command and dynamic range in a progressive rock context"
     },
     "gearUsed": [
-      { "name": "Sonor SQ2 Series Kit (twin 22\"x18\" bass drums)", "type": "drums", "link": null },
-      { "name": "Sonor SQ2 14\"x5.75\" Maple Snare", "type": "snare", "link": null },
-      { "name": "Meinl Byzance Series Cymbals", "type": "cymbals", "link": null },
-      { "name": "Tama Iron Cobra Double Pedal", "type": "hardware", "link": null },
-      { "name": "Vic Firth American Classic 5B", "type": "sticks", "link": null }
+      { "name": "DW Custom Kit (maple/gum shells)", "type": "drums", "link": null },
+      { "name": "Sabian HHX / AAX Series Cymbals", "type": "cymbals", "link": null },
+      { "name": "DW Hardware", "type": "hardware", "link": null },
+      { "name": "Pro-Mark Sticks", "type": "sticks", "link": null }
     ],
     "learningTips": [
       "Loop the verse groove alone until the syncopated snare accents against the guitar riff feel automatic before adding the 7/8 transitions",
@@ -102,11 +101,10 @@ export const licks = {
       "description": "Opeth's official live video for the title track from Sorceress, showing Martin Axenrot's heavy riff-lock groove and physical playing approach in full performance context"
     },
     "gearUsed": [
-      { "name": "Sonor SQ2 Series Kit (twin 22\"x18\" bass drums)", "type": "drums", "link": null },
-      { "name": "Sonor SQ2 14\"x5.75\" Maple Snare", "type": "snare", "link": null },
-      { "name": "Meinl Byzance Series Cymbals", "type": "cymbals", "link": null },
-      { "name": "Tama Iron Cobra Double Pedal", "type": "hardware", "link": null },
-      { "name": "Vic Firth American Classic 5B", "type": "sticks", "link": null }
+      { "name": "DW Custom Kit (maple/gum shells)", "type": "drums", "link": null },
+      { "name": "Sabian HHX / AAX Series Cymbals", "type": "cymbals", "link": null },
+      { "name": "DW Hardware", "type": "hardware", "link": null },
+      { "name": "Pro-Mark Sticks", "type": "sticks", "link": null }
     ],
     "learningTips": [
       "Practice the main groove with a focus on kick restraint — resist filling in extra subdivisions even when it feels natural to add them",

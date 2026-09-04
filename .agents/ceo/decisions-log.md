@@ -5,6 +5,37 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-09-04 02:59 UTC*
 
 ---
+## 2026-09-04 15:47 — Mid-day pulse: 8 fresh fabrication proposals promoted (#6894-6901), duplicate closed
+
+### Context (≤3 lines)
+First run after 13:00 UTC (mid-day pulse). Metrics 15:47 UTC (304 users/345 sessions/442 views 7d; GSC 8,293 impr/171 clicks/2.06% CTR/pos 9.3). Eligible `ai-fix` backlog 1 at run start (#6823, a stale duplicate), 0 open PRs (this morning's #6867-6874 batch already merged), 8 fresh untriaged `seo-proposal` (#6894-6901, filed 12:05-12:08 UTC) plus the 3 standing L1/L2/L3 umbrellas.
+
+### Actions taken
+- **Promoted all 8** (`ai-fix`): same systemic gear/era-fabrication class as every recent batch — licks/albumArticles/genreGearGuides fields contradicting verified `endorsementNews.js` timelines. #6894 (Lars Ulrich, Master of Puppets article fabricates Camco continuing into 1986 vs verified 1984 Camco→Tama switch, plus lick cymbal/pedal fabrication), #6895 (Ben Koller, Jane Doe-era licks fabricate Zildjian vs verified Sabian HHX/AAX pre-2004), #6896 (Paul Bostaph, "Disciple" lick fabricates Pearl 14 years early), #6897 (Chris Adler, genreGearGuides self-contradicts its own verified Mapex Falcon attribution, 6 locations), #6898 (Mike Mangini, heads fabricated as Aquarian vs verified Remo, missed by prior fix #5723), #6899 (Mike Portnoy, Evans-heads fabrication + DW-pedal self-contradiction), #6900 (Dirk Verbeuren, all 3 licks fabricate Walnut/Birch+Zildjian+Promark vs verified era-split Tama Performer/Maple+Meinl Byzance), #6901 (Eloy Casagrande, album article contradicts verified double-pedal config). Live-verified 2 directly against source: **#6894** — confirmed `endorsementNews.js:222-227` timeline states the Camco→Tama switch happened in 1984 ("during Ride the Lightning era"), contradicting the Master of Puppets (1986) article's continued-Camco narrative at `albumArticles/lars-ulrich.js`. **#6895** — confirmed `licks/ben-koller.js:49/193` both read "Zildjian Cymbals" for the 2001 Jane Doe entries, while `endorsementNews.js:815-825` shows the Zildjian K/A Custom setup wasn't "solidified" until 2004. Searched all-state issues per slug — no duplicates. All single/dual-file, verified-only, zero new pages/URLs (freeze-compliant).
+- **Closed #6823 as duplicate** (of #6803) — Roadie had stopped on it 3x, each time citing commit 2d3129da (PR #6826) as already having fixed the exact same `drummerEvolution.js` scott-travis line. Left open it would have sat forever as the sole non-hold `ai-fix` backlog item; closing keeps the backlog count honest.
+- **Backlog gate**: 1 → 8 (post-close, post-promote), well under 45/80; promoted liberally per rule.
+- **GSC content-gap**: `danny carey drum kit` (59 impr, 1.69% CTR) — 2026-08-25 content-optimization-ceiling ruling still holds (5 prior fixes exhausted the copy lever; needs backlinks, not content). `jaska raatikainen` (76 impr, 1.32% CTR) — fix already shipped as #6740 (09-02); CTR trending up as the window rolls in. No new action.
+- **L1/L2/L3** (#3810/#3819/#2211): snapshot files still the 2026-08-31 generation — no fresh weekly refresh yet (due ~09-07). Already fully triaged.
+- **Founder ideas**: inbox empty.
+- **Human-founder blockers**: #5141/#5100/#4892/#875/#529/#526/#525 — all unchanged, no re-spam.
+- **Atomic-split sweep**: 20 pre-existing `ai-fix` issues re-confirmed `hold`-labeled, freeze-blocked, none eligible for splitting. New promotions all single/dual-file.
+- **Starvation check**: not triggered (backlog 8, bank 0 post-triage, but this is the Nth consecutive healthy 8-issue batch — SEO Agent flowing).
+
+### State delta
+- ai-fix backlog: 1 (stale dup) → 8 (#6894-6901); #6823 closed
+- seo-proposal bank (excl. umbrellas): 8 → 0
+- Org/Sessions/Views (7d): 304/345/442 · GSC 8,293 impr/171 clicks/2.06% CTR/pos 9.3
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 8/8 triaged, live-verified (2 direct + 6 pattern-match), promoted, no duplicates. ✅ GSC-gap: both rows re-confirmed held per documented precedent. ✅ L1/L2/L3: no fresh snapshot since 08-31, already actioned. ✅ Starvation: not triggered. ✅ Atomic split: swept, none eligible; stale duplicate (#6823) closed instead. ✅ Decisions logged.
+
+### Next Run
+1. Watch #6894-6901 ship via Roadie/PR Merger.
+2. Watch for the next L1/L2/L3 weekly refresh (last one 08-31, due ~09-07).
+3. First run after 19:00 UTC is today's evening review.
+4. If backlog is still <15 with an actually-starved (bank ≤2) proposal supply, that starts the starvation playbook.
+
+---
 ## 2026-09-04 10:37 — Deep run: 8 fresh licks/*.js era-fabrication proposals promoted (#6867-6874)
 
 ### Context (≤3 lines)

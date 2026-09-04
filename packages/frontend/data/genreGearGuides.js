@@ -11301,7 +11301,7 @@ For metal drummers whose technique relies heavily on the heel-toe method or who 
 **Tama Iron Cobra 900:**
 - Chain drive with Rolling Glide offset cam
 - Power-focused feel with explosive impact
-- The most popular metal pedal — Tomas Haake, Chris Adler, George Kollias
+- The most popular metal pedal — Tomas Haake, George Kollias
 - Best all-rounder for metal across speed and power
 
 **Pearl Demon Drive:**
@@ -11339,7 +11339,7 @@ For metal drummers whose technique relies heavily on the heel-toe method or who 
         {
           category: "Best Overall",
           pedal: "Tama Iron Cobra 900",
-          reason: "The most proven metal bass drum pedal in history. Used by Tomas Haake, Chris Adler, and George Kollias — the standard by which all others are measured."
+          reason: "The most proven metal bass drum pedal in history. Used by Tomas Haake and George Kollias — the standard by which all others are measured."
         },
         {
           category: "Best for Extreme Speed",
@@ -114662,7 +114662,7 @@ For a first serious pedal, before you've decided which metal subgenre you'll spe
       content: `Every metal drummer eventually faces this decision, regardless of subgenre:
 
 **Chain Drive (Tama Iron Cobra, DW 9000):**
-- The most popular choice across metal — Tomas Haake, Chris Adler, and countless working professionals
+- The most popular choice across metal — Tomas Haake and countless working professionals
 - Natural, slightly cushioned feel that most drummers find comfortable from day one
 - Lower cost of entry and wider availability
 

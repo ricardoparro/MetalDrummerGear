@@ -5,6 +5,36 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-09-04 02:59 UTC*
 
 ---
+## 2026-09-04 20:23 — Evening review: 8 fresh licks/*.js era-fabrication proposals promoted (#6914-6921)
+
+### Context (≤3 lines)
+First run after 19:00 UTC (evening review). Metrics 20:17 UTC (311 users/354 sessions/455 views 7d; GSC 8,293 impr/171 clicks/2.06% CTR/pos 9.3, unchanged vs the 15:47 run's snapshot). Eligible `ai-fix` backlog 0 at run start (this morning's/midday's #6867-6901 batches all merged, 20 remaining open `ai-fix` still `hold`-labeled freeze-blocked roster/band splits), 0 open PRs, 8 fresh untriaged `seo-proposal` (#6914-6921, filed 16:45-16:46 UTC) plus the 3 standing L1/L2/L3 umbrellas.
+
+### Actions taken
+- **Promoted all 8** (`ai-fix`): same systemic gear/era-fabrication class, this batch concentrated in `licks/*.js` per-song entries contradicting verified `endorsementNews.js` timelines. #6914 (Jay Weinberg, fabricated Trivium tenure in `genreGearGuides.js` — he was never in that band), #6915 (Dave Lombardo, `licks/dave-lombardo.js` fabricates Tama for all 1983-1990 entries vs verified Pearl through at least 1986), #6916 (Martin Lopez, fabricates Pearl+Zildjian for entire Opeth era vs verified Sonor+Sabian through 2009), #6917 (Matt Garstka, fabricates Tama for 2009-2014 entries vs verified Pearl through 2021), #6918 (Sean Reinert, applies pre-Human Pearl gear to Human-era entries vs verified Tama Artstar II/DW switch for that album), #6919 (Richard Christy, fabricates Pearl Reference+Zildjian A Custom vs verified Pearl Masters Custom+Sabian AA/AAX), #6920 (Ryan Van Poederooyen, fabricates Tama+Zildjian vs verified Pearl Reference+Sabian AAX/HHX since 2000), #6921 (Paul Mazurkiewicz, fabricates DW+Vater vs verified Pearl Reference+Vic Firth signature; correctly scoped to drums+sticks only, leaving the standing cymbals conflict #5803/#6639 untouched). Live-verified 3 directly against source: **#6915** — grep confirmed `licks/dave-lombardo.js` lines 39-499 all say "Tama Artstar Custom Kit"/"Tama Iron Cobra Pedals" across every 1983-1990 entry, while `endorsementNews.js:323-347` pins Pearl through 1986 (Reign in Blood) with no dated Tama switch. **#6919** — grep confirmed `licks/richard-christy.js` lines 43-171 say "Pearl Reference Series"/"Zildjian A Custom", contradicted by `endorsementNews.js:2484-2510`'s verified "Pearl Masters Custom"/"Sabian AA/AAX" for the same 1998 album. **#6921** — cross-checked the issue's own note that cymbals is a standing unresolved conflict (#5803 vs #6639) and confirmed the issue correctly scopes itself to drums+sticks only. Searched all-state issues per drummer slug for all 8 — no duplicates (closed hits all target different files: `drummerComparisons.js`/`soundLikeGuides.js`/`albumArticles.js`/`endorsementNews.js`, none previously touched these exact `licks/*.js` fields). All single-file, verified-only, zero new pages/URLs (freeze-compliant).
+- **Backlog gate**: 0 → 8, well under the 45/80 threshold; promoted liberally per rule.
+- **GSC content-gap**: `danny carey drum kit` (59 impr, 1.69% CTR, pos 12.1) and `jaska raatikainen` (76 impr, 1.32% CTR, pos 7.6) — identical figures to the 15:47 run's snapshot (same 7-day window hasn't rolled). Both already ruled this run's earlier pass: danny carey is the 08-25 content-optimization-ceiling (needs backlinks, not content), jaska raatikainen's fix already shipped as #6740. No new action.
+- **L1/L2/L3** (#3810/#2211/#3819): snapshot files still the 2026-08-31 generation (checked `**Generated:**` timestamps: gsc-watch 15:58:39Z, llm-citations 15:23:15Z, indexation 17:12:16Z) — no fresh weekly refresh yet (due ~09-07). Already fully triaged.
+- **Founder ideas**: inbox empty, unchanged since 06-19.
+- **Human-founder blockers**: #5141/#5100/#4892/#875/#529/#526/#525 — all `updatedAt` unchanged, no re-spam.
+- **Atomic-split sweep**: 20 pre-existing `ai-fix` issues re-confirmed `hold`-labeled, freeze-blocked, none eligible. New promotions all single-file, well under the atomic-split trigger.
+- **Starvation check**: not triggered (backlog 8, bank 0 excl. umbrellas post-triage) — SEO Agent flowing at a healthy, consistent 7-8 issue/batch cadence for weeks straight.
+
+### State delta
+- ai-fix backlog: 0 → 8 (#6914-6921)
+- seo-proposal bank (excl. umbrellas): 8 → 0
+- Org/Sessions/Views (7d): 311/354/455 · GSC 8,293 impr/171 clicks/2.06% CTR/pos 9.3 (flat vs the 15:47 run's snapshot)
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 8/8 fresh triaged, live-verified (3 direct + 5 pattern-match), promoted, no duplicates, freeze-compliant. ✅ GSC-gap: both rows re-confirmed held per documented precedent, no new fix. ✅ L1/L2/L3: no fresh snapshot since 08-31, already actioned. ✅ Starvation: not triggered. ✅ Atomic split: 20 stale issues re-checked, all `hold`-labeled, none eligible; new promotions all atomic. ✅ Decisions logged.
+
+### Next Run
+1. Watch #6914-6921 ship via Roadie/PR Merger.
+2. Watch for the next L1/L2/L3 weekly refresh (last one 08-31, due ~09-07).
+3. Next deep run ~07:00 UTC tomorrow: full metrics + GSC-gap + L1/L2/L3 close-the-loop pass.
+4. If backlog is still <15 with an actually-starved (bank ≤2) proposal supply, that starts the starvation playbook.
+
+---
 ## 2026-09-04 15:47 — Mid-day pulse: 8 fresh fabrication proposals promoted (#6894-6901), duplicate closed
 
 ### Context (≤3 lines)

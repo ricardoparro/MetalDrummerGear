@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-09-04 16:39 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-09-04 20:17 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,41 +8,41 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 305 |
-| Sessions | 347 |
-| Page views | 446 |
-| Engagement rate | 59.08% |
-| Avg session (s) | 127 |
+| Active users | 311 |
+| Sessions | 354 |
+| Page views | 455 |
+| Engagement rate | 57.91% |
+| Avg session (s) | 126 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
 | / | 21 | 18 |
 | /drummer/frost | 13 | 2 |
-| /drummer/john-otto | 12 | 11 |
+| /drummer/john-otto | 13 | 12 |
 | /drummers | 10 | 3 |
-| /drummer/mario-duplantier | 8 | 10 |
+| /drummer/mario-duplantier | 9 | 10 |
 | /drummer/matt-greiner | 8 | 7 |
 | /drummer/igor-cavalera | 7 | 6 |
+| /drummer/jaska-raatikainen | 7 | 6 |
 | /drummer/bill-ward | 6 | 6 |
-| /drummer/jaska-raatikainen | 6 | 6 |
-| /drummer/joey-jordison | 6 | 5 |
+| /drummer/joey-jordison | 6 | 6 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 290 | 254 |
+| Organic Search | 293 | 257 |
 | Direct | 45 | 40 |
-| Unassigned | 27 | 26 |
+| Unassigned | 36 | 32 |
 | Referral | 3 | 3 |
 | Cross-network | 2 | 2 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 133 | 113 |
-| United Kingdom | 36 | 19 |
-| Canada | 16 | 14 |
+| United States | 136 | 116 |
+| United Kingdom | 37 | 20 |
+| Canada | 17 | 14 |
 | Australia | 15 | 14 |
 | Brazil | 13 | 13 |
 | China | 12 | 12 |

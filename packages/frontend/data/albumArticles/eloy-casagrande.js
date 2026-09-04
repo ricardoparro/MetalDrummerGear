@@ -63,7 +63,7 @@ export const articles = {
         ],
         "shells": "Bubinga/Birch hybrid shells"
       },
-      "description": "For Slipknot, Eloy upgraded to Tama's flagship Starclassic Bubinga series — the same shells trusted by metal drummers worldwide for their combination of attack, projection, and controlled low-end.\n\nThe Bubinga/Birch hybrid construction offers the best of both worlds: Bubinga's exotic warmth and powerful low frequencies paired with Birch's focused attack and cut. This combination is essential for Slipknot's dense sonic landscape, where drums must punch through nine-member chaos without getting lost.\n\nEloy's Slipknot configuration is more expansive than his Sepultura setup, featuring double 22\" bass drums and five toms (three rack, two floor). The additional rack tom gives him more melodic options during the complex fills Slipknot material demands.\n\nThe custom finish — a striking black with red tribal accents — was designed specifically for Slipknot's visual aesthetic. Each kit is built to withstand the punishment of Slipknot's explosive live shows, where drums must survive not just aggressive playing but the physical intensity of masked performance in hot stage conditions.\n\nNotably, Eloy uses two independent bass drums rather than a single drum with a double pedal. This choice, shared by many extreme metal drummers, allows for complete foot independence and eliminates the slave pedal's slight delay that can affect precision at high speeds.",
+      "description": "For Slipknot, Eloy upgraded to Tama's flagship Starclassic Bubinga series — the same shells trusted by metal drummers worldwide for their combination of attack, projection, and controlled low-end.\n\nThe Bubinga/Birch hybrid construction offers the best of both worlds: Bubinga's exotic warmth and powerful low frequencies paired with Birch's focused attack and cut. This combination is essential for Slipknot's dense sonic landscape, where drums must punch through nine-member chaos without getting lost.\n\nEloy's Slipknot configuration is more expansive than his Sepultura setup, featuring double 22\" bass drums and five toms (three rack, two floor). The additional rack tom gives him more melodic options during the complex fills Slipknot material demands.\n\nThe custom finish — a striking black with red tribal accents — was designed specifically for Slipknot's visual aesthetic. Each kit is built to withstand the punishment of Slipknot's explosive live shows, where drums must survive not just aggressive playing but the physical intensity of masked performance in hot stage conditions.\n\nNotably, Eloy's dual 22\" bass drums are driven by a single Tama Speed Cobra 910 double pedal rather than two independent pedals, one per drum. This double-pedal configuration, common among extreme metal drummers, delivers the speed and power his double-bass patterns require through one mechanical unit.",
       "notes": [
         "Double 22\"x18\" bass drums for maximum low-end attack",
         "Bubinga/Birch hybrid for warmth + cut balance",
@@ -153,9 +153,9 @@ export const articles = {
         {
           "type": "Bass Drum Pedals",
           "brand": "Tama",
-          "model": "Tama Speed Cobra 910",
-          "notes": "Rolling Glide cam for smooth, fast action on each bass drum",
-          "description": "Eloy uses two independent Speed Cobra pedals — one for each bass drum. The Speed Cobra's smooth Rolling Glide cam and lightweight footboard deliver the effortless speed needed for Slipknot's demanding double-bass passages."
+          "model": "Tama Speed Cobra 910 Double Pedal",
+          "notes": "Rolling Glide cam for smooth, fast action across both bass drums",
+          "description": "Eloy drives his dual bass drums with a single Tama Speed Cobra 910 double pedal. The Speed Cobra's smooth Rolling Glide cam and lightweight footboard deliver the effortless speed needed for Slipknot's demanding double-bass passages."
         },
         {
           "type": "Hi-Hat Stand",
@@ -296,9 +296,9 @@ export const articles = {
     ],
     "techniques": {
       "title": "The Casagrande Method: Speed Meets Groove",
-      "content": "What makes Eloy Casagrande special isn't just speed — it's speed that feels good. His technical approach combines traditional grip power with matched grip speed, Brazilian rhythmic sensibility, and the stamina developed over 13 years with Sepultura.\n\n**Double Bass Foundation:**\nEloy uses two independent pedals rather than a connected double pedal. This allows complete foot independence — essential for the polyrhythmic patterns in both Sepultura and Slipknot material. His speed comes from ankle technique at high velocities, switching to full leg motion for power passages.\n\n**Blast Beat Precision:**\nWhile not a pure death metal drummer, Eloy can deliver blast beats when needed. His approach emphasizes clarity over pure speed — each hit distinct, not a wash of noise. This clarity comes from years of live performance where muddy blasts get lost.\n\n**Groove Mastery:**\nBeneath the technical fireworks, Eloy maintains pocket. His Sepultura work on tracks like \"Refuse/Resist\" and \"Territory\" required locking in with the riff while adding complexity. This skill translates perfectly to Slipknot's groove-heavy material.\n\n**Stamina and Conditioning:**\nSlipknot shows run 90+ minutes in demanding conditions (masks, heat, physical movement). Eloy's conditioning allows him to maintain performance quality throughout. This isn't just about drumming practice — it's about athletic preparation.",
+      "content": "What makes Eloy Casagrande special isn't just speed — it's speed that feels good. His technical approach combines traditional grip power with matched grip speed, Brazilian rhythmic sensibility, and the stamina developed over 13 years with Sepultura.\n\n**Double Bass Foundation:**\nEloy drives his dual bass drums with a single Tama double pedal. His speed comes from ankle technique at high velocities, switching to full leg motion for power passages, built on the bilateral foot control the double pedal demands.\n\n**Blast Beat Precision:**\nWhile not a pure death metal drummer, Eloy can deliver blast beats when needed. His approach emphasizes clarity over pure speed — each hit distinct, not a wash of noise. This clarity comes from years of live performance where muddy blasts get lost.\n\n**Groove Mastery:**\nBeneath the technical fireworks, Eloy maintains pocket. His Sepultura work on tracks like \"Refuse/Resist\" and \"Territory\" required locking in with the riff while adding complexity. This skill translates perfectly to Slipknot's groove-heavy material.\n\n**Stamina and Conditioning:**\nSlipknot shows run 90+ minutes in demanding conditions (masks, heat, physical movement). Eloy's conditioning allows him to maintain performance quality throughout. This isn't just about drumming practice — it's about athletic preparation.",
       "keyTechniques": [
-        "Two independent pedals for maximum foot independence",
+        "Double pedal technique for maximum bilateral foot control",
         "Ankle technique for speed, leg motion for power accents",
         "Brazilian rhythmic foundation for natural groove",
         "Clarity-focused blast beats that cut through mix",
@@ -381,9 +381,9 @@ export const articles = {
           "notes": "Aggressive accent cymbals"
         },
         {
-          "item": "Tama Speed Cobra 910 Pedals (x2)",
+          "item": "Tama Speed Cobra 910 Double Pedal",
           "available": true,
-          "priceRange": "$250-300 each",
+          "priceRange": "$250-300",
           "notes": "Rolling Glide cam for speed"
         },
         {
@@ -459,7 +459,7 @@ export const articles = {
         "Debuted at #1 in Brazil; charted in Germany and across Europe",
         "Tama Starclassic Walnut/Birch kit — Eloy's primary setup at the start of his Sepultura recording career",
         "\"Phantom Self\" and \"Iceberg Dances\" introduced Eloy's blast-beat precision and polyrhythm style",
-        "Tama Iron Cobra 900 pedals powering his independent double-bass approach",
+        "Tama Iron Cobra 900 double pedal powering his double-bass approach",
         "The foundation album of the arc: Machine Messiah (2017) → Quadra (2020) → Slipknot (2024)"
       ]
     },
@@ -482,10 +482,10 @@ export const articles = {
         ],
         "shells": "Walnut/Birch hybrid shells — walnut outer ply for warm attack, birch inner plies for focused projection"
       },
-      "description": "For *Machine Messiah*, Eloy Casagrande recorded with the Tama Starclassic Walnut/Birch — Tama's premium hybrid shell series, pairing the natural warmth and low-end resonance of walnut with the bright projection and attack focus of birch. This hybrid construction was well-matched to both Eloy's playing style and Jens Bogren's production approach at Fascination Street Studios: the walnut component adds warmth and body to the attack, while the birch plies deliver the focused punch and definition that thrash metal production demands.\n\nTwin 22\" x 18\" bass drums formed the foundation of Eloy's independent double-kick setup — a configuration he has maintained throughout his professional career. Independent pedals (rather than a double-pedal on a single drum) give each foot its own fully resonant instrument, delivering balanced tone from both sides and eliminating the mechanical compromises that affect double-pedal configurations at high tempos. On *Machine Messiah*, this independence is audible in the evenness and power of Eloy's bass drum patterns throughout tracks like \"Phantom Self\" and \"Iceberg Dances.\"\n\nThe four-tom configuration — three rack toms plus a 16\" floor tom — gave Eloy the melodic range and tonal contrast that Sepultura's arrangements regularly demanded. Bogren's recording approach preserved the Starclassic's natural character: the walnut warmth comes through in the body of each drum's tone, while the birch definition ensures clarity in the attack even in dense mix contexts.",
+      "description": "For *Machine Messiah*, Eloy Casagrande recorded with the Tama Starclassic Walnut/Birch — Tama's premium hybrid shell series, pairing the natural warmth and low-end resonance of walnut with the bright projection and attack focus of birch. This hybrid construction was well-matched to both Eloy's playing style and Jens Bogren's production approach at Fascination Street Studios: the walnut component adds warmth and body to the attack, while the birch plies deliver the focused punch and definition that thrash metal production demands.\n\nTwin 22\" x 18\" bass drums formed the foundation of Eloy's double-kick setup — a configuration he has maintained throughout his professional career, driven by a single Tama Iron Cobra 900 double pedal rather than a separate pedal per drum. On *Machine Messiah*, the evenness and power of that double-pedal drive is audible throughout tracks like \"Phantom Self\" and \"Iceberg Dances.\"\n\nThe four-tom configuration — three rack toms plus a 16\" floor tom — gave Eloy the melodic range and tonal contrast that Sepultura's arrangements regularly demanded. Bogren's recording approach preserved the Starclassic's natural character: the walnut warmth comes through in the body of each drum's tone, while the birch definition ensures clarity in the attack even in dense mix contexts.",
       "notes": [
         "Tama Starclassic Walnut/Birch — hybrid shells for warm attack and focused projection",
-        "Twin 22\" x 18\" bass drums for independent double-kick (not double pedal)",
+        "Twin 22\" x 18\" bass drums driven by a single Tama Iron Cobra 900 double pedal",
         "Four-tom configuration (3 rack + 1 floor) for melodic range across Sepultura's arrangements",
         "Jens Bogren's recording approach preserved the walnut/birch's natural hybrid character"
       ],
@@ -547,9 +547,9 @@ export const articles = {
         {
           "type": "Bass Drum Pedals",
           "brand": "Tama",
-          "model": "Tama Iron Cobra 900 (x2)",
-          "notes": "Cam-driven power and speed for independent double-kick at Sepultura tempos",
-          "description": "Eloy's independent twin pedal setup on *Machine Messiah* relied on Tama Iron Cobra 900 pedals — one per bass drum. The Iron Cobra 900's PowerGlide or RollingGlide cam delivers controlled acceleration through the stroke, allowing consistent speed and power at the high tempos Sepultura demands. The robust construction and adjustable beater angle gave Eloy the mechanical foundation for the double-bass precision that defines his playing throughout the album."
+          "model": "Tama Iron Cobra 900 Double Pedal",
+          "notes": "Cam-driven power and speed for double-kick at Sepultura tempos",
+          "description": "Eloy's double-bass setup on *Machine Messiah* relied on a single Tama Iron Cobra 900 double pedal. The Iron Cobra 900's PowerGlide or RollingGlide cam delivers controlled acceleration through the stroke, allowing consistent speed and power at the high tempos Sepultura demands. The robust construction and adjustable beater angle gave Eloy the mechanical foundation for the double-bass precision that defines his playing throughout the album."
         },
         {
           "type": "Hi-Hat Stand",
@@ -643,8 +643,8 @@ export const articles = {
         },
         {
           "category": "Pedals",
-          "then": "Tama Iron Cobra 900 x2 (Machine Messiah)",
-          "now": "Tama Speed Cobra x2 (Quadra) / Tama Speed Cobra x2 (Slipknot)"
+          "then": "Tama Iron Cobra 900 double pedal (Machine Messiah)",
+          "now": "Tama Speed Cobra double pedal (Quadra) / Tama Speed Cobra double pedal (Slipknot)"
         },
         {
           "category": "Career context",
@@ -655,9 +655,9 @@ export const articles = {
     },
     "technicalAnalysis": {
       "title": "Eloy's Machine Messiah Technique: The Foundation",
-      "content": "On *Machine Messiah*, Eloy Casagrande announced his technical capabilities to an international audience for the first time at full album scale. The attributes that would become his defining characteristics — independent double-bass at sustained tempos, four-limb coordination, dynamic intelligence — are all present here in their earliest major recorded form.\n\n**Independent Double-Bass at Speed:**\nThe Iron Cobra 900 pedals and twin-kick configuration allowed Eloy to execute sustained double-bass patterns at the tempos Sepultura demanded without mechanical compromise. \"Phantom Self\" and similar tracks showcase this capability: even, powerful, and consistent through entire songs rather than brief passages.\n\n**Polyrhythmic Intelligence:**\n\"Iceberg Dances\" demonstrated early that Eloy was not simply a thrash executor — he could superimpose metric layers and navigate complex rhythmic structures that most extreme metal drummers avoid. This polyrhythmic sensibility would become more prominent on *Quadra* but is already clearly established here.\n\n**Serving the Band:**\nPerhaps the most significant technical achievement on *Machine Messiah* is the degree to which Eloy's playing serves Sepultura's arrangements without ego. At 24, with the technical ability to dominate any mix, he chose musical integration — establishing himself as a drummer who elevated the band rather than competed with it.",
+      "content": "On *Machine Messiah*, Eloy Casagrande announced his technical capabilities to an international audience for the first time at full album scale. The attributes that would become his defining characteristics — double-bass speed at sustained tempos, four-limb coordination, dynamic intelligence — are all present here in their earliest major recorded form.\n\n**Double-Bass at Speed:**\nThe Iron Cobra 900 double pedal and twin-kick configuration allowed Eloy to execute sustained double-bass patterns at the tempos Sepultura demanded. \"Phantom Self\" and similar tracks showcase this capability: even, powerful, and consistent through entire songs rather than brief passages.\n\n**Polyrhythmic Intelligence:**\n\"Iceberg Dances\" demonstrated early that Eloy was not simply a thrash executor — he could superimpose metric layers and navigate complex rhythmic structures that most extreme metal drummers avoid. This polyrhythmic sensibility would become more prominent on *Quadra* but is already clearly established here.\n\n**Serving the Band:**\nPerhaps the most significant technical achievement on *Machine Messiah* is the degree to which Eloy's playing serves Sepultura's arrangements without ego. At 24, with the technical ability to dominate any mix, he chose musical integration — establishing himself as a drummer who elevated the band rather than competed with it.",
       "keyTechniques": [
-        "Independent twin-pedal double-bass via Iron Cobra 900 at sustained Sepultura tempos",
+        "Double-pedal double-bass via the Iron Cobra 900 at sustained Sepultura tempos",
         "Polyrhythmic pattern construction in compositionally complex tracks",
         "Four-limb independence across all dynamic levels",
         "Musical fill placement serving song structure rather than technical showcase",
@@ -680,12 +680,12 @@ export const articles = {
     "relatedLicks": [],
     "practiceGuide": {
       "title": "Learning From Eloy's Machine Messiah Approach",
-      "content": "*Machine Messiah* offers a cleaner window into Eloy Casagrande's foundational technique than *Quadra* — the arrangements are more direct, making his core skills more audible. Studying this album develops the essential vocabulary that Eloy refined over his Sepultura career.\n\n**Independent Double-Bass Development (45-60 minutes daily):**\n- Practice all patterns with independent pedals (not double pedal) — the bilateral development is what Eloy's Iron Cobra 900 twin setup was built for\n- Work the \"Phantom Self\" bass drum pattern starting at 110 BPM — evenness before speed\n- Record and listen for volume balance between left and right kick: consistency is the goal\n\n**Polyrhythmic Pattern Study (20-30 minutes):**\n- Transcribe the \"Iceberg Dances\" groove and identify where Eloy superimposes metric layers\n- Practice the underlying pattern at half tempo until it feels natural, then build speed\n\n**Thrash Groove Fundamentals:**\n- Master a consistent 16th-note double-kick with independent hand pattern at 140-170 BPM\n- Eloy's thrash playing on Machine Messiah is textbook in its execution: start here before adding complexity"
+      "content": "*Machine Messiah* offers a cleaner window into Eloy Casagrande's foundational technique than *Quadra* — the arrangements are more direct, making his core skills more audible. Studying this album develops the essential vocabulary that Eloy refined over his Sepultura career.\n\n**Double-Bass Development (45-60 minutes daily):**\n- Practice all patterns on a double pedal — the bilateral development is what Eloy's Iron Cobra 900 double pedal setup was built for\n- Work the \"Phantom Self\" bass drum pattern starting at 110 BPM — evenness before speed\n- Record and listen for volume balance between left and right foot: consistency is the goal\n\n**Polyrhythmic Pattern Study (20-30 minutes):**\n- Transcribe the \"Iceberg Dances\" groove and identify where Eloy superimposes metric layers\n- Practice the underlying pattern at half tempo until it feels natural, then build speed\n\n**Thrash Groove Fundamentals:**\n- Master a consistent 16th-note double-kick with independent hand pattern at 140-170 BPM\n- Eloy's thrash playing on Machine Messiah is textbook in its execution: start here before adding complexity"
     },
     "faq": [
       {
         "question": "What drums did Eloy Casagrande use on Sepultura's Machine Messiah?",
-        "answer": "Eloy Casagrande recorded Machine Messiah (2017) using a Tama Starclassic Walnut/Birch kit — Tama's premium hybrid shell series. His configuration included twin 22\"x18\" bass drums for independent double-kick, 10\", 12\", and 14\" rack toms, and a 16\" floor tom. His cymbals were Paiste 2002/RUDE series. His bass drum pedals were Tama Iron Cobra 900 (one per kick drum). The album was recorded at Fascination Street Studios in Örebro, Sweden, produced by Jens Bogren."
+        "answer": "Eloy Casagrande recorded Machine Messiah (2017) using a Tama Starclassic Walnut/Birch kit — Tama's premium hybrid shell series. His configuration included twin 22\"x18\" bass drums driven by a single Tama Iron Cobra 900 double pedal, 10\", 12\", and 14\" rack toms, and a 16\" floor tom. His cymbals were Paiste 2002/RUDE series. The album was recorded at Fascination Street Studios in Örebro, Sweden, produced by Jens Bogren."
       },
       {
         "question": "When did Eloy Casagrande join Sepultura?",
@@ -693,7 +693,7 @@ export const articles = {
       },
       {
         "question": "What is Eloy Casagrande's drum setup on Machine Messiah?",
-        "answer": "On Machine Messiah (2017), Eloy Casagrande's setup was: Tama Starclassic Walnut/Birch shells (twin 22\"x18\" bass drums, 10\"/12\"/14\" rack toms, 16\" floor tom); Paiste 2002/RUDE cymbals (14\" hi-hats, 16\" and 18\" crashes, 20\" ride, 18\" china); Tama Iron Cobra 900 pedals (independent pair, one per bass drum); ProMark Eloy Casagrande Signature sticks. Recorded at Fascination Street Studios, Örebro, Sweden with Jens Bogren producing."
+        "answer": "On Machine Messiah (2017), Eloy Casagrande's setup was: Tama Starclassic Walnut/Birch shells (twin 22\"x18\" bass drums, 10\"/12\"/14\" rack toms, 16\" floor tom); Paiste 2002/RUDE cymbals (14\" hi-hats, 16\" and 18\" crashes, 20\" ride, 18\" china); a Tama Iron Cobra 900 double pedal; ProMark Eloy Casagrande Signature sticks. Recorded at Fascination Street Studios, Örebro, Sweden with Jens Bogren producing."
       },
       {
         "question": "How does Eloy's Machine Messiah setup compare to his Quadra setup?",
@@ -772,10 +772,10 @@ export const articles = {
         ],
         "shells": "Walnut/Birch hybrid shells — walnut outer ply for warm attack, birch inner plies for focused projection"
       },
-      "description": "For *Quadra*, Eloy Casagrande continued with the Tama Starclassic Walnut/Birch — the same hybrid shell series he had recorded *Machine Messiah* with three years earlier. The kit's hybrid construction was integral to the sound Jens Bogren created at Fascination Street: the walnut component's warmth and low-end resonance, balanced by the birch plies' focused attack, gave Bogren the tonal range that *Quadra*'s double-concept architecture demanded.\n\nWalnut/Birch's natural characteristic — fuller fundamental tone and warm overtones from the walnut, paired with birch's controlled decay and cut — suited the album's compositional ambitions perfectly. On *Quadra*, Eloy's toms ring with melodic authority between the thrash passages, adding textural information that a purely bright, mono-species shell would have suppressed.\n\nThe twin 22\" x 18\" bass drums maintained Eloy's independent double-kick philosophy: two complete instruments rather than one drum with a double pedal. This approach, which Eloy has used throughout his career, allows complete foot independence and eliminates the mechanical compromises inherent in double-pedal configurations. At the tempos *Quadra* requires — from the galloping patterns of \"Isolation\" to the blasting sections of \"Means to an End\" — independent kick drums provide the mechanical advantage that separates clean execution from close-enough.\n\nJens Bogren's engineering approach captured the Starclassic with careful attention to shell resonance. Rather than deadening the drums to achieve a controlled, compressed sound, Bogren worked with the walnut/birch's natural ring — using tuning and microphone placement to shape the tone rather than suppress it. The result is a kit sound that feels alive and three-dimensional: present at the attack, resonant in the body, and musically useful throughout the decay.",
+      "description": "For *Quadra*, Eloy Casagrande continued with the Tama Starclassic Walnut/Birch — the same hybrid shell series he had recorded *Machine Messiah* with three years earlier. The kit's hybrid construction was integral to the sound Jens Bogren created at Fascination Street: the walnut component's warmth and low-end resonance, balanced by the birch plies' focused attack, gave Bogren the tonal range that *Quadra*'s double-concept architecture demanded.\n\nWalnut/Birch's natural characteristic — fuller fundamental tone and warm overtones from the walnut, paired with birch's controlled decay and cut — suited the album's compositional ambitions perfectly. On *Quadra*, Eloy's toms ring with melodic authority between the thrash passages, adding textural information that a purely bright, mono-species shell would have suppressed.\n\nThe twin 22\" x 18\" bass drums, driven by a single Tama Speed Cobra double pedal, maintained the double-kick foundation Eloy has used throughout his career. At the tempos *Quadra* requires — from the galloping patterns of \"Isolation\" to the blasting sections of \"Means to an End\" — that double-pedal drive provides the mechanical consistency that separates clean execution from close-enough.\n\nJens Bogren's engineering approach captured the Starclassic with careful attention to shell resonance. Rather than deadening the drums to achieve a controlled, compressed sound, Bogren worked with the walnut/birch's natural ring — using tuning and microphone placement to shape the tone rather than suppress it. The result is a kit sound that feels alive and three-dimensional: present at the attack, resonant in the body, and musically useful throughout the decay.",
       "notes": [
         "Tama Starclassic Walnut/Birch — hybrid shells carried over from Machine Messiah for warmth and focused projection",
-        "Twin 22\" x 18\" bass drums for independent double-kick (not double pedal)",
+        "Twin 22\" x 18\" bass drums driven by a single Tama Speed Cobra double pedal",
         "Four-tom configuration (3 rack + 1 floor) for melodic fill range",
         "Jens Bogren's engineering preserved the walnut/birch's natural resonance without excessive deadening"
       ],
@@ -843,9 +843,9 @@ export const articles = {
         {
           "type": "Bass Drum Pedals",
           "brand": "Tama",
-          "model": "Tama Speed Cobra HP310LW (x2)",
-          "notes": "Individual pedals for each bass drum — lightweight aluminium footboard for fast, controlled response",
-          "description": "Eloy's independent twin-pedal setup on *Quadra* relied on Tama Speed Cobra pedals — one per bass drum. The Speed Cobra's rolling glide cam and lightweight footboard deliver exceptional rebound speed and foot response, suited to the technical double-bass demands across *Quadra*'s range of tempos. The lightweight aluminium footboard reduces fatigue during extended passages, maintaining precision through the album's most sustained double-bass sections."
+          "model": "Tama Speed Cobra HP310LW Double Pedal",
+          "notes": "Lightweight aluminium footboard for fast, controlled response",
+          "description": "Eloy's double-bass setup on *Quadra* relied on a single Tama Speed Cobra double pedal. The Speed Cobra's rolling glide cam and lightweight footboard deliver exceptional rebound speed and foot response, suited to the technical double-bass demands across *Quadra*'s range of tempos. The lightweight aluminium footboard reduces fatigue during extended passages, maintaining precision through the album's most sustained double-bass sections."
         },
         {
           "type": "Hi-Hat Stand",
@@ -897,7 +897,7 @@ export const articles = {
           "Snare crack precision at sustained high tempos",
           "One of the most complete showcases of Eloy's thrash vocabulary"
         ],
-        "gearNotes": "The Sonic Steel snare's crack is central to the track's identity. Tama Starclassic Walnut/Birch bass drums at 200 BPM demonstrate the independent twin-pedal advantage at sustained tempos."
+        "gearNotes": "The Sonic Steel snare's crack is central to the track's identity. Tama Starclassic Walnut/Birch bass drums at 200 BPM demonstrate the Speed Cobra double pedal's advantage at sustained tempos."
       },
       {
         "track": "Means to an End",
@@ -960,8 +960,8 @@ export const articles = {
         },
         {
           "category": "Pedals",
-          "then": "Tama Speed Cobra HP310LW x2 (Sepultura)",
-          "now": "Tama Speed Cobra x2 (Slipknot)"
+          "then": "Tama Speed Cobra HP310LW double pedal (Sepultura)",
+          "now": "Tama Speed Cobra double pedal (Slipknot)"
         },
         {
           "category": "Career context",
@@ -972,9 +972,9 @@ export const articles = {
     },
     "technicalAnalysis": {
       "title": "Eloy's Quadra Technique: The Blueprint",
-      "content": "On *Quadra*, Eloy Casagrande played with a technical authority and musical intelligence that elevated the album above typical extreme metal production. The specific technical attributes that Jens Bogren's production captured can be identified and studied in every track.\n\n**Independent Double-Bass at Sustained Tempos:**\n*Quadra*'s most demanding passages require sustained double-bass at 180-200+ BPM without degradation of evenness or volume. Eloy's twin Speed Cobra setup and his developed ankle-driven heel-up technique made this possible: the mechanical advantage of independent pedals, combined with years of conditioning, allowed him to execute these passages throughout entire songs — not just brief showcase sections.\n\n**Four-Limb Independence:**\nThroughout *Quadra*, Eloy maintains complex coordination across all four limbs simultaneously. Hi-hat foot patterns continue during fill sequences. Bass drum patterns continue during cymbal accents. Snare patterns continue during tom runs. This four-limb independence — developed through years of intense Sepultura live performance — is the fundamental technical foundation beneath everything else on the record.\n\n**Ghost Note Integration:**\nOne of the most striking technical elements on *Quadra* is Eloy's integration of ghost notes into grooves that would be purely aggressive in other players' hands. The Byzance Traditional hi-hats' sensitivity and Bogren's dynamic-preserving production philosophy allowed these subtle strokes to remain audible in the mix, adding rhythmic texture that lifts the grooves beyond simple thrash patterns.\n\n**Musical Fill Placement:**\nAt the technical level Eloy operates, fills can easily become exercises in speed for its own sake. On *Quadra*, every fill serves the arrangement: positioned at structural boundaries, shaped to transition between sections, and calibrated to the dynamic level of the surrounding music. This is the musical intelligence that separated Eloy from technically equivalent drummers.",
+      "content": "On *Quadra*, Eloy Casagrande played with a technical authority and musical intelligence that elevated the album above typical extreme metal production. The specific technical attributes that Jens Bogren's production captured can be identified and studied in every track.\n\n**Double-Bass at Sustained Tempos:**\n*Quadra*'s most demanding passages require sustained double-bass at 180-200+ BPM without degradation of evenness or volume. Eloy's Speed Cobra double pedal and his developed ankle-driven heel-up technique made this possible: the mechanical advantage of the double pedal's rolling glide cam, combined with years of conditioning, allowed him to execute these passages throughout entire songs — not just brief showcase sections.\n\n**Four-Limb Independence:**\nThroughout *Quadra*, Eloy maintains complex coordination across all four limbs simultaneously. Hi-hat foot patterns continue during fill sequences. Bass drum patterns continue during cymbal accents. Snare patterns continue during tom runs. This four-limb independence — developed through years of intense Sepultura live performance — is the fundamental technical foundation beneath everything else on the record.\n\n**Ghost Note Integration:**\nOne of the most striking technical elements on *Quadra* is Eloy's integration of ghost notes into grooves that would be purely aggressive in other players' hands. The Byzance Traditional hi-hats' sensitivity and Bogren's dynamic-preserving production philosophy allowed these subtle strokes to remain audible in the mix, adding rhythmic texture that lifts the grooves beyond simple thrash patterns.\n\n**Musical Fill Placement:**\nAt the technical level Eloy operates, fills can easily become exercises in speed for its own sake. On *Quadra*, every fill serves the arrangement: positioned at structural boundaries, shaped to transition between sections, and calibrated to the dynamic level of the surrounding music. This is the musical intelligence that separated Eloy from technically equivalent drummers.",
       "keyTechniques": [
-        "Independent twin-pedal double-bass at sustained 180-200+ BPM",
+        "Double-pedal double-bass at sustained 180-200+ BPM",
         "Four-limb independence: all limbs executing independent patterns simultaneously",
         "Ghost note integration adding rhythmic texture within thrash grooves",
         "Musical fill placement serving arrangement structure rather than showcasing technique",
@@ -1001,12 +1001,12 @@ export const articles = {
     "relatedLicks": [],
     "practiceGuide": {
       "title": "Learning From Eloy's Quadra Approach",
-      "content": "Eloy Casagrande's playing on *Quadra* offers lessons in technical precision, musical intelligence, and the integration of ghost notes and dynamics into extreme metal drumming. Studying this album will develop your playing in multiple dimensions simultaneously.\n\n**Independent Double-Bass Development (45-60 minutes daily):**\n- Practice all patterns with independent pedals (not double pedal) for true bilateral development\n- Work the \"Isolation\" groove pattern starting at 120 BPM — evenness before speed\n- Record yourself and listen for volume equality between left and right bass drums\n- Develop ankle technique: efficient mechanics at 180+ BPM require ankle drive, not calf\n\n**Ghost Note Integration (20-30 minutes):**\n- Practice adding 32nd-note ghost notes around your primary snare backbeats\n- Start slow (70-80 BPM) until ghost note placement is automatic, then increase tempo\n- Listen to the verse sections of \"Means to an End\" — Eloy's ghost note integration in a thrash context\n\n**Four-Limb Independence (20 minutes):**\n- Practice maintaining hi-hat foot patterns while playing snare and bass drum patterns\n- Add tom fills while continuing to play bass drum and hi-hat simultaneously\n- Eloy's independence on *Quadra* is the result of years of this practice applied to real musical contexts\n\n**Dynamic Range Control:**\n- Record yourself playing a thrash groove for 2 minutes and listen back\n- Identify moments you can add dynamic variation without losing the groove's drive\n- Study the difference between \"Isolation\" (full power) and \"Guardians of Earth\" (dynamic) — both Eloy, same kit, completely different approach"
+      "content": "Eloy Casagrande's playing on *Quadra* offers lessons in technical precision, musical intelligence, and the integration of ghost notes and dynamics into extreme metal drumming. Studying this album will develop your playing in multiple dimensions simultaneously.\n\n**Double-Bass Development (45-60 minutes daily):**\n- Practice all patterns on a double pedal for true bilateral development\n- Work the \"Isolation\" groove pattern starting at 120 BPM — evenness before speed\n- Record yourself and listen for volume equality between left and right foot\n- Develop ankle technique: efficient mechanics at 180+ BPM require ankle drive, not calf\n\n**Ghost Note Integration (20-30 minutes):**\n- Practice adding 32nd-note ghost notes around your primary snare backbeats\n- Start slow (70-80 BPM) until ghost note placement is automatic, then increase tempo\n- Listen to the verse sections of \"Means to an End\" — Eloy's ghost note integration in a thrash context\n\n**Four-Limb Independence (20 minutes):**\n- Practice maintaining hi-hat foot patterns while playing snare and bass drum patterns\n- Add tom fills while continuing to play bass drum and hi-hat simultaneously\n- Eloy's independence on *Quadra* is the result of years of this practice applied to real musical contexts\n\n**Dynamic Range Control:**\n- Record yourself playing a thrash groove for 2 minutes and listen back\n- Identify moments you can add dynamic variation without losing the groove's drive\n- Study the difference between \"Isolation\" (full power) and \"Guardians of Earth\" (dynamic) — both Eloy, same kit, completely different approach"
     },
     "faq": [
       {
         "question": "What drums did Eloy Casagrande use on Sepultura's Quadra?",
-        "answer": "Eloy Casagrande recorded Quadra (2020) using a Tama Starclassic Walnut/Birch kit — the same hybrid shell series he used on Machine Messiah and his primary Sepultura-era endorsement setup. His configuration included twin 22\"x18\" bass drums for independent double-kick, 10\", 12\", and 14\" rack toms, and a 16\" floor tom. His snare was the Tama S.L.P. Sonic Steel, the drum most associated with his Sepultura sound, and his cymbals were a mixed Paiste arsenal spanning Masters, Formula 602, RUDE, and PST X series. The album was recorded at Fascination Street Studios in Örebro, Sweden, produced by Jens Bogren."
+        "answer": "Eloy Casagrande recorded Quadra (2020) using a Tama Starclassic Walnut/Birch kit — the same hybrid shell series he used on Machine Messiah and his primary Sepultura-era endorsement setup. His configuration included twin 22\"x18\" bass drums driven by a single Tama Speed Cobra double pedal, 10\", 12\", and 14\" rack toms, and a 16\" floor tom. His snare was the Tama S.L.P. Sonic Steel, the drum most associated with his Sepultura sound, and his cymbals were a mixed Paiste arsenal spanning Masters, Formula 602, RUDE, and PST X series. The album was recorded at Fascination Street Studios in Örebro, Sweden, produced by Jens Bogren."
       },
       {
         "question": "Is Quadra Eloy Casagrande's last Sepultura album before joining Slipknot?",
@@ -1022,7 +1022,7 @@ export const articles = {
       },
       {
         "question": "How does Eloy's Quadra setup compare to his Slipknot setup?",
-        "answer": "The core endorsements carried straight through: Eloy's Quadra setup (Tama Starclassic Walnut/Birch, Tama S.L.P. Sonic Steel snare, mixed Paiste Masters/602/RUDE/PSTX cymbals) was refreshed rather than replaced when he joined Slipknot in 2024. His Slipknot kit is Tama Starclassic Bubinga shells; the snare is still a Tama S.L.P. Sonic Steel; the cymbals consolidated to Paiste RUDE/PST X/2002; and the pedals are Tama Speed Cobra twin pedals. The gear refresh mirrored the career transformation — from Sepultura's recording studio to Slipknot's stage — while keeping Eloy's Tama and Paiste endorsements intact. See the full breakdown at the [What's In Eloy Casagrande's Kit](/articles/whats-in-eloy-casagrandes-kit) article."
+        "answer": "The core endorsements carried straight through: Eloy's Quadra setup (Tama Starclassic Walnut/Birch, Tama S.L.P. Sonic Steel snare, mixed Paiste Masters/602/RUDE/PSTX cymbals) was refreshed rather than replaced when he joined Slipknot in 2024. His Slipknot kit is Tama Starclassic Bubinga shells; the snare is still a Tama S.L.P. Sonic Steel; the cymbals consolidated to Paiste RUDE/PST X/2002; and the pedals are a Tama Speed Cobra double pedal. The gear refresh mirrored the career transformation — from Sepultura's recording studio to Slipknot's stage — while keeping Eloy's Tama and Paiste endorsements intact. See the full breakdown at the [What's In Eloy Casagrande's Kit](/articles/whats-in-eloy-casagrandes-kit) article."
       }
     ],
     "conclusion": {
@@ -1092,10 +1092,10 @@ export const articles = {
         ],
         "shells": "Bubinga/Birch hybrid shells — exotic African hardwood outer plies for warmth and low-end power, birch inner plies for attack and projection"
       },
-      "description": "For *The Mediator*, Eloy Casagrande recorded with the Tama Starclassic Bubinga — the kit that became his first major endorsement-level setup, and the same series he would later expand for his Slipknot tenure a decade on. The Bubinga/Birch hybrid construction pairs the dense, exotic hardwood's powerful low frequencies with birch's focused attack, a combination built for cutting through aggressive, distortion-heavy mixes.\n\nTwin 22\" x 18\" bass drums, run independently rather than through a double pedal, gave the 21-year-old the foot independence that would define his playing throughout his career. The compact three-piece tom configuration — two rack toms and a single 16\" floor tom — reflected a leaner, more direct setup than the expanded five-tom rig he would later use with Slipknot, suited to *The Mediator*'s stripped-down, aggressive material.\n\nRoss Robinson's recording philosophy left the Bubinga's natural character largely untouched: minimal compression, performances captured as close to a live take as a studio allows. The result is a drum sound that favors raw power and immediacy over the polished, layered production Eloy's later albums with Jens Bogren would pursue.",
+      "description": "For *The Mediator*, Eloy Casagrande recorded with the Tama Starclassic Bubinga — the kit that became his first major endorsement-level setup, and the same series he would later expand for his Slipknot tenure a decade on. The Bubinga/Birch hybrid construction pairs the dense, exotic hardwood's powerful low frequencies with birch's focused attack, a combination built for cutting through aggressive, distortion-heavy mixes.\n\nTwin 22\" x 18\" bass drums, driven by a single Tama Iron Cobra Power Glide double pedal, gave the 21-year-old the double-bass foundation that would define his playing throughout his career. The compact three-piece tom configuration — two rack toms and a single 16\" floor tom — reflected a leaner, more direct setup than the expanded five-tom rig he would later use with Slipknot, suited to *The Mediator*'s stripped-down, aggressive material.\n\nRoss Robinson's recording philosophy left the Bubinga's natural character largely untouched: minimal compression, performances captured as close to a live take as a studio allows. The result is a drum sound that favors raw power and immediacy over the polished, layered production Eloy's later albums with Jens Bogren would pursue.",
       "notes": [
         "Tama Starclassic Bubinga — Eloy's first major endorsement-level kit",
-        "Twin 22\" x 18\" bass drums for independent double-kick from the start of his career",
+        "Twin 22\" x 18\" bass drums driven by a single Tama Iron Cobra Power Glide double pedal from the start of his career",
         "Lean three-piece tom configuration suited to the album's direct, aggressive material",
         "Ross Robinson's raw production approach preserved the kit's natural character with minimal processing"
       ],
@@ -1157,9 +1157,9 @@ export const articles = {
         {
           "type": "Bass Drum Pedals",
           "brand": "Tama",
-          "model": "Tama Iron Cobra Power Glide (x2)",
-          "notes": "Cam-driven pedals for independent double-kick from the start of his recording career",
-          "description": "Eloy's independent twin-pedal setup on *The Mediator* used Tama Iron Cobra Power Glide pedals — one per bass drum. The cam-driven design gave a 21-year-old drummer the mechanical reliability needed to deliver sustained double-bass passages on his first major studio record, establishing the independent-pedal approach he would maintain for the rest of his career."
+          "model": "Tama Iron Cobra Power Glide Double Pedal",
+          "notes": "Cam-driven double pedal for double-kick from the start of his recording career",
+          "description": "Eloy's double-bass setup on *The Mediator* used a single Tama Iron Cobra Power Glide double pedal. The cam-driven design gave a 21-year-old drummer the mechanical reliability needed to deliver sustained double-bass passages on his first major studio record, establishing the double-pedal approach he would maintain for the rest of his career."
         },
         {
           "type": "Hi-Hat Stand",
@@ -1248,8 +1248,8 @@ export const articles = {
         },
         {
           "category": "Pedals",
-          "then": "Tama Iron Cobra Power Glide x2 (The Mediator)",
-          "now": "Tama Iron Cobra 900 x2 (Machine Messiah) / Tama Speed Cobra x2 (Quadra)"
+          "then": "Tama Iron Cobra Power Glide double pedal (The Mediator)",
+          "now": "Tama Iron Cobra 900 double pedal (Machine Messiah) / Tama Speed Cobra double pedal (Quadra)"
         },
         {
           "category": "Career context",
@@ -1260,9 +1260,9 @@ export const articles = {
     },
     "technicalAnalysis": {
       "title": "Eloy's Mediator Technique: Raw Talent, No Safety Net",
-      "content": "On *The Mediator*, Eloy Casagrande's technical identity is present in rawer, less refined form than on his later Sepultura albums — a direct result of both his age and Ross Robinson's live-take production philosophy, which left little room for the layered precision later albums would pursue.\n\n**Independent Double-Bass From Day One:**\nEven at 21, Eloy's twin Iron Cobra Power Glide pedals delivered the independent double-bass foundation that would define his entire career. \"Trauma of War\" shows this clearly from the album's opening bars — even, driving, and already mechanically consistent at speed.\n\n**Performance Under Pressure:**\nRobinson's minimal-overdub approach meant Eloy's performances on *The Mediator* are close to first-take reality — there was little opportunity to comp together a flawless performance from multiple passes. The slight rawness audible across the record is not a flaw; it is the sound of a young drummer proving himself in real time, in the room, with veteran bandmates watching.\n\n**The Foundation for Everything After:**\nThe stamina, the independent-pedal foundation, the willingness to commit fully to a take — all of it is present on *The Mediator* in embryonic form. What Eloy lacked in 2013 compared to *Machine Messiah* or *Quadra* was studio polish and refined dynamic control, not raw ability. That talent is precisely what convinced Sepultura's veterans, and then Ross Robinson, to trust a 19/21-year-old with the band's rhythmic identity.",
+      "content": "On *The Mediator*, Eloy Casagrande's technical identity is present in rawer, less refined form than on his later Sepultura albums — a direct result of both his age and Ross Robinson's live-take production philosophy, which left little room for the layered precision later albums would pursue.\n\n**Double-Bass From Day One:**\nEven at 21, Eloy's Iron Cobra Power Glide double pedal delivered the double-bass foundation that would define his entire career. \"Trauma of War\" shows this clearly from the album's opening bars — even, driving, and already mechanically consistent at speed.\n\n**Performance Under Pressure:**\nRobinson's minimal-overdub approach meant Eloy's performances on *The Mediator* are close to first-take reality — there was little opportunity to comp together a flawless performance from multiple passes. The slight rawness audible across the record is not a flaw; it is the sound of a young drummer proving himself in real time, in the room, with veteran bandmates watching.\n\n**The Foundation for Everything After:**\nThe stamina, the double-pedal foundation, the willingness to commit fully to a take — all of it is present on *The Mediator* in embryonic form. What Eloy lacked in 2013 compared to *Machine Messiah* or *Quadra* was studio polish and refined dynamic control, not raw ability. That talent is precisely what convinced Sepultura's veterans, and then Ross Robinson, to trust a 19/21-year-old with the band's rhythmic identity.",
       "keyTechniques": [
-        "Independent twin-pedal double-bass via Iron Cobra Power Glide at thrash tempos, present from his earliest recordings",
+        "Double-pedal double-bass via the Iron Cobra Power Glide at thrash tempos, present from his earliest recordings",
         "Live, minimally-overdubbed performances shaped directly by Ross Robinson's production philosophy",
         "Raw stamina and commitment across fast, demanding tempos at age 21",
         "The earliest recorded form of the technical vocabulary refined on Machine Messiah and Quadra"
@@ -1284,7 +1284,7 @@ export const articles = {
     "relatedLicks": [],
     "practiceGuide": {
       "title": "Learning From Eloy's Mediator-Era Approach",
-      "content": "*The Mediator* offers a window into Eloy Casagrande's playing before studio polish smoothed its edges — useful for drummers who want to study raw execution rather than a fully produced, dynamically-refined performance.\n\n**Independent Double-Bass Foundation (30-45 minutes daily):**\n- Practice all patterns on independent pedals, not a double pedal — this is the foundation Eloy built his entire career on\n- Work the \"Trauma of War\" verse pattern starting at 100 BPM, prioritizing evenness over speed\n\n**Live-Take Discipline:**\n- Record a full song in one pass without stopping to fix mistakes — Robinson's methodology rewards commitment over perfection\n- Listen back critically: identify where energy and conviction compensate for technical roughness\n\n**Thrash Groove Fundamentals:**\n- Master a steady 16th-note double-kick pattern with independent hand coordination at 140-165 BPM\n- Study how a 21-year-old Eloy prioritizes power and consistency over ornamentation — the same fundamentals underpin his later, more technical work"
+      "content": "*The Mediator* offers a window into Eloy Casagrande's playing before studio polish smoothed its edges — useful for drummers who want to study raw execution rather than a fully produced, dynamically-refined performance.\n\n**Double-Bass Foundation (30-45 minutes daily):**\n- Practice all patterns on a double pedal — this is the foundation Eloy built his entire career on\n- Work the \"Trauma of War\" verse pattern starting at 100 BPM, prioritizing evenness over speed\n\n**Live-Take Discipline:**\n- Record a full song in one pass without stopping to fix mistakes — Robinson's methodology rewards commitment over perfection\n- Listen back critically: identify where energy and conviction compensate for technical roughness\n\n**Thrash Groove Fundamentals:**\n- Master a steady 16th-note double-kick pattern with independent hand coordination at 140-165 BPM\n- Study how a 21-year-old Eloy prioritizes power and consistency over ornamentation — the same fundamentals underpin his later, more technical work"
     },
     "faq": [
       {
@@ -1293,7 +1293,7 @@ export const articles = {
       },
       {
         "question": "What drums did Eloy Casagrande use on The Mediator Between Head and Hands Must Be the Heart?",
-        "answer": "Eloy Casagrande recorded The Mediator (2013) using a Tama Starclassic Bubinga kit — his first major endorsement-level setup. His configuration included twin 22\"x18\" bass drums for independent double-kick, 10\" and 12\" rack toms, and a 16\" floor tom. His snare was a Tama S.L.P. Big Black Steel, 14\"x6.5\". His cymbals were Paiste RUDE and 2002 series. His bass drum pedals were Tama Iron Cobra Power Glide (one per kick drum)."
+        "answer": "Eloy Casagrande recorded The Mediator (2013) using a Tama Starclassic Bubinga kit — his first major endorsement-level setup. His configuration included twin 22\"x18\" bass drums driven by a single Tama Iron Cobra Power Glide double pedal, 10\" and 12\" rack toms, and a 16\" floor tom. His snare was a Tama S.L.P. Big Black Steel, 14\"x6.5\". His cymbals were Paiste RUDE and 2002 series."
       },
       {
         "question": "Who produced Sepultura's The Mediator Between Head and Hands Must Be the Heart?",

@@ -39,10 +39,10 @@ export const licks = {
       "description": "Mayhem's official live performance of Freezing Moon at Wacken Open Air 2024, showcasing Hellhammer's atmospheric black metal blast technique"
     },
     "gearUsed": [
-      { "name": "Pearl Reference Series Kit", "type": "drums", "link": null },
-      { "name": "Pearl Reference 14\"x5.5\" Snare", "type": "snare", "link": null },
-      { "name": "Zildjian A Custom Cymbals", "type": "cymbals", "link": null },
-      { "name": "Pearl Demon Drive Double Pedal", "type": "hardware", "link": null },
+      { "name": "Sonor SQ2 Heavy Beech Kit", "type": "drums", "link": null },
+      { "name": "Sonor SQ2 Heavy Beech 14\"x5.5\" Snare", "type": "snare", "link": null },
+      { "name": "Paiste RUDE Cymbals", "type": "cymbals", "link": null },
+      { "name": "Axis Double Pedal", "type": "hardware", "link": null },
       { "name": "Vic Firth American Classic 5B", "type": "sticks", "link": null }
     ],
     "learningTips": [
@@ -101,10 +101,10 @@ export const licks = {
       "description": "Mayhem's official live video for Deathcrush, showcasing Hellhammer's original black metal speed metal battery"
     },
     "gearUsed": [
-      { "name": "Pearl Reference Series Kit", "type": "drums", "link": null },
-      { "name": "Pearl Reference 14\"x6.5\" Snare", "type": "snare", "link": null },
-      { "name": "Zildjian Z Custom Ride", "type": "cymbals", "link": null },
-      { "name": "Pearl Demon Drive Double Pedal", "type": "hardware", "link": null },
+      { "name": "Sonor SQ2 Heavy Beech Kit", "type": "drums", "link": null },
+      { "name": "Sonor SQ2 Heavy Beech 14\"x6.5\" Snare", "type": "snare", "link": null },
+      { "name": "Paiste RUDE Cymbals", "type": "cymbals", "link": null },
+      { "name": "Axis Double Pedal", "type": "hardware", "link": null },
       { "name": "Vic Firth American Classic 5B", "type": "sticks", "link": null }
     ],
     "learningTips": [
@@ -163,10 +163,10 @@ export const licks = {
       "description": "Mayhem's De Mysteriis Dom Sathanas title track, the nine-minute centrepiece of black metal's defining album showcasing Hellhammer's long-form mastery"
     },
     "gearUsed": [
-      { "name": "Pearl Reference Series Kit", "type": "drums", "link": null },
-      { "name": "Pearl Reference 14\"x5.5\" Snare", "type": "snare", "link": null },
-      { "name": "Zildjian A Custom Cymbals", "type": "cymbals", "link": null },
-      { "name": "Pearl Demon Drive Double Pedal", "type": "hardware", "link": null },
+      { "name": "Sonor SQ2 Heavy Beech Kit", "type": "drums", "link": null },
+      { "name": "Sonor SQ2 Heavy Beech 14\"x5.5\" Snare", "type": "snare", "link": null },
+      { "name": "Paiste RUDE Cymbals", "type": "cymbals", "link": null },
+      { "name": "Axis Double Pedal", "type": "hardware", "link": null },
       { "name": "Vic Firth American Classic 5B", "type": "sticks", "link": null }
     ],
     "learningTips": [

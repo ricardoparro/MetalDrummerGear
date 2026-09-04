@@ -40,7 +40,7 @@ export const licks = {
     },
     "gearUsed": [
       { "name": "Ludwig Standard Kit", "type": "drums", "link": null },
-      { "name": "Paiste Cymbals", "type": "cymbals", "link": null },
+      { "name": "Super Zyn Cymbals", "type": "cymbals", "link": null },
       { "name": "Ludwig Speed King Single Pedal", "type": "hardware", "link": null }
     ],
     "learningTips": [
@@ -100,7 +100,7 @@ export const licks = {
     },
     "gearUsed": [
       { "name": "Ludwig Standard Kit", "type": "drums", "link": null },
-      { "name": "Paiste Cymbals", "type": "cymbals", "link": null },
+      { "name": "Super Zyn Cymbals", "type": "cymbals", "link": null },
       { "name": "Ludwig Speed King Single Pedal", "type": "hardware", "link": null }
     ],
     "learningTips": [
@@ -160,7 +160,7 @@ export const licks = {
     },
     "gearUsed": [
       { "name": "Ludwig Standard Kit", "type": "drums", "link": null },
-      { "name": "Paiste Cymbals", "type": "cymbals", "link": null },
+      { "name": "Super Zyn Cymbals", "type": "cymbals", "link": null },
       { "name": "Ludwig Speed King Single Pedal", "type": "hardware", "link": null }
     ],
     "learningTips": [

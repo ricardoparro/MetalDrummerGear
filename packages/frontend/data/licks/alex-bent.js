@@ -20,7 +20,7 @@ export const licks = {
     "bpm": 170,
     "bpmDisplay": "~170 BPM",
     "timeSignature": "4/4",
-    "description": "\"The Sin and the Sentence\" from Trivium's 2017 album of the same name is Alex Bent's definitive arrival statement as the band's new drummer and one of the most complete showcases of his playing on record. The title track establishes the template for everything that makes Bent exceptional: the ability to navigate blast beat ferocity and crushing groove-metal weight within the same arrangement, transitioning between extremes with a precision and stamina rooted in his years playing technical death metal with Brain Drill and Arkaik. The verse opens with a controlled blast beat that propels Trivium's signature melodic thrash riffing at relentless pace — Bent's blasts are precisely sculpted bursts rather than a constant wall, timed to the song's dynamic shape and always serving the arrangement rather than dominating it. The pre-chorus pulls back into a driving groove feel that lets the melody breathe, and the chorus drops into a crushing half-time pocket that is as heavy as anything in Trivium's catalog: wide backbeats on the Pearl Reference Pure kit, deliberate kick placement with the Axis A Longboard double pedal, and an authoritative snare crack on beat three that makes every measure hit with maximum weight. The breakdown section is the performance's most instructive moment — Bent executes a precise blast-to-groove transition at full song tempo, demonstrating the four-way independence and fast-twitch coordination that separate elite-level drummers from advanced players. His Zildjian K Custom Hybrid cymbal work throughout is musical and considered: crashes mark phrase boundaries and structural changes, the ride builds tension in the verse, and the hi-hat provides a controlled pulse in the melodic sections. The official drum cut video remains the definitive reference and has been watched by drummers worldwide studying the modern metal playing style. For drummers, \"The Sin and the Sentence\" is one of the most demanding and complete studies in modern metal: it builds blast beat precision under musical constraints, develops the groove control needed for heavy modern thrash choruses, and forces the four-way independence and stamina required to maintain high quality across a full song's worth of extreme material. It also demonstrates how a technical death metal background can be channelled into a melodic thrash context, broadening the expressive range of both styles.",
+    "description": "\"The Sin and the Sentence\" from Trivium's 2017 album of the same name is Alex Bent's definitive arrival statement as the band's new drummer and one of the most complete showcases of his playing on record. The title track establishes the template for everything that makes Bent exceptional: the ability to navigate blast beat ferocity and crushing groove-metal weight within the same arrangement, transitioning between extremes with a precision and stamina rooted in his years playing technical death metal with Brain Drill and Arkaik. The verse opens with a controlled blast beat that propels Trivium's signature melodic thrash riffing at relentless pace — Bent's blasts are precisely sculpted bursts rather than a constant wall, timed to the song's dynamic shape and always serving the arrangement rather than dominating it. The pre-chorus pulls back into a driving groove feel that lets the melody breathe, and the chorus drops into a crushing half-time pocket that is as heavy as anything in Trivium's catalog: wide backbeats on the Tama Starclassic Maple kit, deliberate kick placement with the Axis A Longboard double pedal, and an authoritative snare crack on beat three that makes every measure hit with maximum weight. The breakdown section is the performance's most instructive moment — Bent executes a precise blast-to-groove transition at full song tempo, demonstrating the four-way independence and fast-twitch coordination that separate elite-level drummers from advanced players. His Zildjian K Custom Hybrid cymbal work throughout is musical and considered: crashes mark phrase boundaries and structural changes, the ride builds tension in the verse, and the hi-hat provides a controlled pulse in the melodic sections. The official drum cut video remains the definitive reference and has been watched by drummers worldwide studying the modern metal playing style. For drummers, \"The Sin and the Sentence\" is one of the most demanding and complete studies in modern metal: it builds blast beat precision under musical constraints, develops the groove control needed for heavy modern thrash choruses, and forces the four-way independence and stamina required to maintain high quality across a full song's worth of extreme material. It also demonstrates how a technical death metal background can be channelled into a melodic thrash context, broadening the expressive range of both styles.",
     "techniques": [
       "blast-beat",
       "groove-drumming",
@@ -42,7 +42,7 @@ export const licks = {
     },
     "gearUsed": [
       {
-        "name": "Pearl Reference Pure Series",
+        "name": "Tama Starclassic Maple Kit",
         "type": "drums",
         "link": null
       },
@@ -99,7 +99,7 @@ export const licks = {
     "bpm": 175,
     "bpmDisplay": "~175 BPM",
     "timeSignature": "4/4",
-    "description": "\"Betrayer\" from Trivium's 2017 album The Sin and the Sentence became one of the most-studied modern thrash drum performances immediately upon the album's release, and Alex Bent's official drum playthrough video reveals precisely why: the part is a model of modern thrash precision, combining sustained double-bass patterns, explosive snare accents locked tightly to the riff, and linear fill sequences that are technically demanding and completely musical. The verse groove rides a driving hi-hat pattern with the kick delivering a relentless alternating gallop locked to the band's signature thrash riff — Bent's heel-up approach on the Axis A Longboard double pedal is fully on display here, generating consistent power and clarity across an extended 16th-note kick sequence without losing definition or dynamics. Every snare accent punctuates the natural emphasis points of the guitar figure, giving the groove a forward-driving inevitability that makes the song feel unstoppable from the first measure. Bent's technique on the Pearl Reference Pure kit is efficient and authoritative throughout — strokes are even, velocity is controlled, and every crash and ride accent is placed exactly where the arrangement needs it. The bridge section features a cascading linear fill sequence that moves through toms and cymbals with the accuracy and speed of his death metal background, resolving cleanly back into the driving thrash groove and demonstrating a level of fill precision that is uncommon even at the elite level. These linear passages are particularly instructive for drummers: they break down as a sequence of single-limb alternations across the kit, making them learnable when approached one step at a time at reduced tempo. For drummers, \"Betrayer\" is a complete study in modern thrash technique: it develops double-bass endurance and clarity at high tempo, snare accent placement locked to a fast riff, linear fill construction and execution under performance pressure, and the overall stamina needed to drive a fast thrash arrangement at full intensity. Because the official playthrough exists at high quality with Bent's full kit visible, it is one of the most instructive thrash drum performances available online — every technical choice is documented and analysable, and the part has been transcribed and discussed extensively by the drumming community. It remains the definitive introduction to Bent's playing for most listeners.",
+    "description": "\"Betrayer\" from Trivium's 2017 album The Sin and the Sentence became one of the most-studied modern thrash drum performances immediately upon the album's release, and Alex Bent's official drum playthrough video reveals precisely why: the part is a model of modern thrash precision, combining sustained double-bass patterns, explosive snare accents locked tightly to the riff, and linear fill sequences that are technically demanding and completely musical. The verse groove rides a driving hi-hat pattern with the kick delivering a relentless alternating gallop locked to the band's signature thrash riff — Bent's heel-up approach on the Axis A Longboard double pedal is fully on display here, generating consistent power and clarity across an extended 16th-note kick sequence without losing definition or dynamics. Every snare accent punctuates the natural emphasis points of the guitar figure, giving the groove a forward-driving inevitability that makes the song feel unstoppable from the first measure. Bent's technique on the Tama Starclassic Maple kit is efficient and authoritative throughout — strokes are even, velocity is controlled, and every crash and ride accent is placed exactly where the arrangement needs it. The bridge section features a cascading linear fill sequence that moves through toms and cymbals with the accuracy and speed of his death metal background, resolving cleanly back into the driving thrash groove and demonstrating a level of fill precision that is uncommon even at the elite level. These linear passages are particularly instructive for drummers: they break down as a sequence of single-limb alternations across the kit, making them learnable when approached one step at a time at reduced tempo. For drummers, \"Betrayer\" is a complete study in modern thrash technique: it develops double-bass endurance and clarity at high tempo, snare accent placement locked to a fast riff, linear fill construction and execution under performance pressure, and the overall stamina needed to drive a fast thrash arrangement at full intensity. Because the official playthrough exists at high quality with Bent's full kit visible, it is one of the most instructive thrash drum performances available online — every technical choice is documented and analysable, and the part has been transcribed and discussed extensively by the drumming community. It remains the definitive introduction to Bent's playing for most listeners.",
     "techniques": [
       "double-bass",
       "fill-techniques",
@@ -121,7 +121,7 @@ export const licks = {
     },
     "gearUsed": [
       {
-        "name": "Pearl Reference Pure Series",
+        "name": "Tama Starclassic Maple Kit",
         "type": "drums",
         "link": null
       },
@@ -199,11 +199,6 @@ export const licks = {
     },
     "gearUsed": [
       {
-        "name": "Pearl Reference Pure Series",
-        "type": "drums",
-        "link": null
-      },
-      {
         "name": "Zildjian K Custom Hybrid Cymbals",
         "type": "cymbals",
         "link": null
@@ -256,7 +251,7 @@ export const licks = {
     "bpm": 132,
     "bpmDisplay": "~132 BPM",
     "timeSignature": "4/4",
-    "description": "\"Beyond Oblivion\" from Trivium's 2015 album Silence in the Snow demonstrates a dimension of Alex Bent's drumming that his work with technical death metal outfits like Brain Drill rarely puts on display: the ability to build a melodic metal drum setup that serves the song's emotional landscape without imposing the drummer's technical range on arrangements that call for restraint. Bent's Pearl Reference Pure Series kit is one of the most versatile tools in modern metal drumming, capable of producing both the explosive attack needed for blast beats and the warm, controlled tone required for melodic passages — and \"Beyond Oblivion\" leans heavily into the latter. The snare tuning for this song sits at a medium pitch that projects clearly in the mix without overwhelming the clean guitar lines, and Bent's stick choice — Vic Firth 5B — provides enough weight for authority on the heavier hits without becoming unwieldy in the delicate verse passages. The Axis A Longboard double pedal configuration is optimised for control at moderate tempo: the spring tension and beater angle are set for a lighter, more responsive touch than the heavy, planted approach used in blast beat contexts, allowing Bent to produce even, measured kick strokes that add weight beneath the melody without cluttering the low-end space. His Zildjian K Custom Hybrid cymbals bring a warm, slightly dark tone to the arrangement that complements the song's melodic character — the ride has enough wash to smooth out the pulse, and the crash cymbals decay quickly enough that they mark phrase ends without ringing into the next section. The setup and approach together reveal how a technically elite drummer configures their equipment and adjusts their physical approach to serve a song's emotional requirements — a skill as important as any technical capability in a drummer's development.",
+    "description": "\"Beyond Oblivion\" from Trivium's 2015 album Silence in the Snow demonstrates a dimension of Alex Bent's drumming that his work with technical death metal outfits like Brain Drill rarely puts on display: the ability to build a melodic metal drum setup that serves the song's emotional landscape without imposing the drummer's technical range on arrangements that call for restraint. Bent's kit for this era is one of the most versatile tools in his arsenal, capable of producing both the explosive attack needed for blast beats and the warm, controlled tone required for melodic passages — and \"Beyond Oblivion\" leans heavily into the latter. The snare tuning for this song sits at a medium pitch that projects clearly in the mix without overwhelming the clean guitar lines, and Bent's stick choice — Vic Firth 5B — provides enough weight for authority on the heavier hits without becoming unwieldy in the delicate verse passages. The Axis A Longboard double pedal configuration is optimised for control at moderate tempo: the spring tension and beater angle are set for a lighter, more responsive touch than the heavy, planted approach used in blast beat contexts, allowing Bent to produce even, measured kick strokes that add weight beneath the melody without cluttering the low-end space. His Zildjian K Custom Hybrid cymbals bring a warm, slightly dark tone to the arrangement that complements the song's melodic character — the ride has enough wash to smooth out the pulse, and the crash cymbals decay quickly enough that they mark phrase ends without ringing into the next section. The setup and approach together reveal how a technically elite drummer configures their equipment and adjusts their physical approach to serve a song's emotional requirements — a skill as important as any technical capability in a drummer's development.",
     "techniques": [
       "groove-drumming",
       "fill-techniques",
@@ -273,14 +268,9 @@ export const licks = {
       "youtubeId": "nUYwI9V0wMw",
       "startTime": 0,
       "title": "Trivium — Beyond Oblivion (Alex Bent Drum Playthrough)",
-      "description": "Alex Bent's official drum playthrough showing his Pearl Reference Pure setup configuration, dynamic control, and fill placement philosophy for melodic metal contexts"
+      "description": "Alex Bent's official drum playthrough showing his kit setup configuration, dynamic control, and fill placement philosophy for melodic metal contexts"
     },
     "gearUsed": [
-      {
-        "name": "Pearl Reference Pure Series",
-        "type": "drums",
-        "link": null
-      },
       {
         "name": "Zildjian K Custom Hybrid Cymbals",
         "type": "cymbals",
@@ -305,12 +295,11 @@ export const licks = {
     ],
     "seo": {
       "title": "Alex Bent Beyond Oblivion Drum Setup - Trivium | MetalForge",
-      "description": "Learn Alex Bent's melodic metal drum setup and groove from Trivium's Beyond Oblivion (Silence in the Snow, 2015). Pearl Reference Pure configuration, dynamic technique, and practice tips.",
+      "description": "Learn Alex Bent's melodic metal drum setup and groove from Trivium's Beyond Oblivion (Silence in the Snow, 2015). Dynamic technique and practice tips.",
       "keywords": [
         "alex bent",
         "beyond oblivion drum setup",
         "trivium melodic metal drums",
-        "pearl reference pure drums",
         "alex bent drum configuration",
         "melodic metal drumming technique"
       ]
@@ -333,7 +322,7 @@ export const licks = {
     "bpm": 175,
     "bpmDisplay": "~175 BPM",
     "timeSignature": "4/4 (with polyrhythmic accents)",
-    "description": "\"Seat of the Soul\" from Trivium's 2020 album What the Dead Men Say represents Alex Bent's most complete exploration of polyrhythmic groove architecture in the melodic thrash context — a track that applies the rhythmic sophistication of his technical death metal background to Trivium's accessible, song-focused format. The drum setup for this track is configured for the specific demands of sustained polyrhythmic playing at a pace that sits at the boundary between thrash aggression and groove control: the Pearl Reference Pure Series shells are tuned for articulate attack that preserves each individual stroke's clarity even in dense kick-snare passages, ensuring that the polyrhythmic interplay remains audible as distinct rhythmic voices rather than blurring into undifferentiated density. The Axis A Longboard pedal setup is critical for the kick pattern's polyrhythmic function: the pedal's exceptionally responsive feel allows Bent to vary foot pressure and velocity with precision, shaping the kick accent points against the snare's pattern in a way that creates the cross-rhythmic tension at the core of the track's groove. His snare placement creates a cross-accent pattern that generates a polyrhythmic relationship with the guitar riff's emphasis cycle — the snare's accent grid operates in a different rhythmic cycle from the guitar's main accent points, and the tension between these two cycles gives the groove its driving, restless energy. The Zildjian K Custom Hybrid ride keeps the pulse anchored while the kick and snare work their polyrhythmic relationship beneath it, providing the listener with a fixed reference point that prevents the complexity from becoming disorienting. For drummers, this track develops the ability to maintain a stable hand pattern above a polyrhythmic kick-snare relationship — one of the most technically demanding and musically productive skills in modern metal drumming, and the foundation of Bent's distinctive rhythmic identity. Practise the kick-snare polyrhythm in isolation against a click before adding the hand pattern above it.",
+    "description": "\"Seat of the Soul\" from Trivium's 2020 album What the Dead Men Say represents Alex Bent's most complete exploration of polyrhythmic groove architecture in the melodic thrash context — a track that applies the rhythmic sophistication of his technical death metal background to Trivium's accessible, song-focused format. The drum setup for this track is configured for the specific demands of sustained polyrhythmic playing at a pace that sits at the boundary between thrash aggression and groove control: the Tama Starclassic Maple shells are tuned for articulate attack that preserves each individual stroke's clarity even in dense kick-snare passages, ensuring that the polyrhythmic interplay remains audible as distinct rhythmic voices rather than blurring into undifferentiated density. The Axis A Longboard pedal setup is critical for the kick pattern's polyrhythmic function: the pedal's exceptionally responsive feel allows Bent to vary foot pressure and velocity with precision, shaping the kick accent points against the snare's pattern in a way that creates the cross-rhythmic tension at the core of the track's groove. His snare placement creates a cross-accent pattern that generates a polyrhythmic relationship with the guitar riff's emphasis cycle — the snare's accent grid operates in a different rhythmic cycle from the guitar's main accent points, and the tension between these two cycles gives the groove its driving, restless energy. The Zildjian K Custom Hybrid ride keeps the pulse anchored while the kick and snare work their polyrhythmic relationship beneath it, providing the listener with a fixed reference point that prevents the complexity from becoming disorienting. For drummers, this track develops the ability to maintain a stable hand pattern above a polyrhythmic kick-snare relationship — one of the most technically demanding and musically productive skills in modern metal drumming, and the foundation of Bent's distinctive rhythmic identity. Practise the kick-snare polyrhythm in isolation against a click before adding the hand pattern above it.",
     "techniques": [
       "groove-drumming",
       "double-bass",
@@ -350,11 +339,11 @@ export const licks = {
       "youtubeId": "56N3q01ujlI",
       "startTime": 0,
       "title": "Trivium - \"What the Dead Men Say\" LIVE - Drum Cam",
-      "description": "Alex Bent's live drum cam performance of What the Dead Men Say material, showing his Pearl Reference Pure setup configuration and polyrhythmic approach in the WTDMS era"
+      "description": "Alex Bent's live drum cam performance of What the Dead Men Say material, showing his Tama Starclassic Maple setup configuration and polyrhythmic approach in the WTDMS era"
     },
     "gearUsed": [
       {
-        "name": "Pearl Reference Pure Series",
+        "name": "Tama Starclassic Maple Kit",
         "type": "drums",
         "link": null
       },
@@ -410,7 +399,7 @@ export const licks = {
     "bpm": 165,
     "bpmDisplay": "~165 BPM",
     "timeSignature": "4/4",
-    "description": "\"A Crisis of Revelation\" from Trivium's 2021 album In the Court of the Dragon is among the most technically complete drum performances Alex Bent has committed to record, and the Vic Firth drum-cam session documenting his studio approach to the track provides one of the clearest available windows into how an elite-level drummer configures and uses their setup for demanding modern metal material. The track operates at approximately 165 BPM with a rhythmic complexity that demands total four-way independence: blast beat passages where the kick and snare operate at extreme density, melodic sections where the groove pulls back to a driving thrash feel with precise accent placement, and breakdown passages where the energy concentrates into a crushing half-time pocket that makes the heaviest moments of the arrangement absolutely conclusive. Bent's Pearl Reference Pure Series kit is configured for the widest possible dynamic range across these contrasting sections: the shells are tuned to deliver a bright, punchy attack in the extreme passages and a warm, full-bodied tone in the melodic sections, a balance that requires careful tuning attention and an understanding of how the drum voices interact with the arrangement at different dynamic levels. The Axis A Longboard double pedal is set for maximum responsiveness — Bent's heel-up technique, refined through years of technical death metal playing, allows him to produce even, defined strokes at blast beat density without any loss of kick clarity. The Zildjian K Custom Hybrid cymbals provide the smooth, warm crashes that mark the song's major section changes without overshadowing the melodic elements, and the ride bell's clarity keeps the pulse present throughout the most complex rhythmic passages. The Vic Firth drum-cam session documents every technical choice in high-quality video, making it one of the most instructive performance documents in modern thrash drumming. For drummers, \"A Crisis of Revelation\" is the definitive Alex Bent study piece for the ICTOTD era.",
+    "description": "\"A Crisis of Revelation\" from Trivium's 2021 album In the Court of the Dragon is among the most technically complete drum performances Alex Bent has committed to record, and the Vic Firth drum-cam session documenting his studio approach to the track provides one of the clearest available windows into how an elite-level drummer configures and uses their setup for demanding modern metal material. The track operates at approximately 165 BPM with a rhythmic complexity that demands total four-way independence: blast beat passages where the kick and snare operate at extreme density, melodic sections where the groove pulls back to a driving thrash feel with precise accent placement, and breakdown passages where the energy concentrates into a crushing half-time pocket that makes the heaviest moments of the arrangement absolutely conclusive. Bent's Tama Starclassic Maple kit is configured for the widest possible dynamic range across these contrasting sections: the shells are tuned to deliver a bright, punchy attack in the extreme passages and a warm, full-bodied tone in the melodic sections, a balance that requires careful tuning attention and an understanding of how the drum voices interact with the arrangement at different dynamic levels. The Axis A Longboard double pedal is set for maximum responsiveness — Bent's heel-up technique, refined through years of technical death metal playing, allows him to produce even, defined strokes at blast beat density without any loss of kick clarity. The Zildjian K Custom Hybrid cymbals provide the smooth, warm crashes that mark the song's major section changes without overshadowing the melodic elements, and the ride bell's clarity keeps the pulse present throughout the most complex rhythmic passages. The Vic Firth drum-cam session documents every technical choice in high-quality video, making it one of the most instructive performance documents in modern thrash drumming. For drummers, \"A Crisis of Revelation\" is the definitive Alex Bent study piece for the ICTOTD era.",
     "techniques": [
       "blast-beat",
       "groove-drumming",
@@ -419,7 +408,7 @@ export const licks = {
     ],
     "techniqueDetails": [
       "Configure the Axis A Longboard for maximum responsiveness — the spring tension and beater angle must support heel-up blast beat density without fatigue",
-      "Tune the Pearl Reference Pure for a wide dynamic range — bright attack in the blast passages, warm resonance in the melodic sections",
+      "Tune the Tama Starclassic Maple for a wide dynamic range — bright attack in the blast passages, warm resonance in the melodic sections",
       "Execute the blast-to-groove transitions with total four-way independence — the body must be able to shift rhythmic modes instantaneously on the intended beat",
       "Use the K Custom Hybrid crashes to mark major section changes — their warm decay complements the melodic guitar lines without clashing in the mix",
       "Approach the half-time breakdown with maximum backbeat authority — the contrast with the blast passages makes the downshift hit with extra physical impact"
@@ -432,7 +421,7 @@ export const licks = {
     },
     "gearUsed": [
       {
-        "name": "Pearl Reference Pure Series",
+        "name": "Tama Starclassic Maple Kit",
         "type": "drums",
         "link": null
       },
@@ -467,7 +456,7 @@ export const licks = {
         "trivium in the court of the dragon",
         "blast beat groove metal",
         "alex bent vic firth drum cam",
-        "pearl reference pure trivium"
+        "tama starclassic maple trivium"
       ]
     }
   }

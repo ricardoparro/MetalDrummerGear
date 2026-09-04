@@ -1946,7 +1946,7 @@ Budget shouldn't stop you — Remo Renaissance Ambassador and Evans G1 Coated bo
     // SEO metadata
     title: "Best Drum Heads for Progressive Metal: 2026 Ultimate Guide",
     metaTitle: "Best Drum Heads for Progressive Metal in 2026 | MetalForge Expert Guide",
-    description: "Discover the best drum heads for progressive metal drumming. Expert recommendations covering Remo, Evans, and Aquarian — the exact heads used by Mike Portnoy, Mike Mangini, Gavin Harrison, and Danny Carey for tunable, articulate tone across complex, odd-meter passages.",
+    description: "Discover the best drum heads for progressive metal drumming. Expert recommendations covering Remo, Evans, and Aquarian — the exact heads used by Mike Mangini, Gavin Harrison, and Danny Carey for tunable, articulate tone across complex, odd-meter passages.",
     seoKeywords: [
       'best drum heads for progressive metal',
       'progressive metal drum heads',
@@ -2051,7 +2051,7 @@ This guide breaks down the drum heads that deliver progressive metal's precision
           tier: "pro",
           material: "2-Ply Coated (7mil + 7mil)",
 
-          description: `The Evans G2 Coated is progressive metal's most versatile head — warm and focused enough for melodic tom fills, durable enough for full-band unison hits, and precise enough at the collar to hunt down the exact pitch a composition demands. Mike Portnoy's foundational Dream Theater tone runs through heads in this family, balancing natural sustain reduction with genuine musicality.
+          description: `The Evans G2 Coated is progressive metal's most versatile head — warm and focused enough for melodic tom fills, durable enough for full-band unison hits, and precise enough at the collar to hunt down the exact pitch a composition demands. Its balanced tone and controlled sustain reduction give it genuine musicality without sacrificing durability.
 
 It's the head to reach for if your kit needs to cover everything progressive metal throws at it — odd-meter fills, quiet instrumental sections, and full-weight riffing — without sounding over-processed in any of them.`,
 
@@ -2060,7 +2060,7 @@ It's the head to reach for if your kit needs to cover everything progressive met
             "Double-ply durability for full-band unison hits",
             "Level 360 collar for wide, accurate tuning",
             "Versatile enough to cover the genre's full dynamic range",
-            "Proven across decades of Dream Theater's touring and recording"
+            "Widely used across professional progressive metal touring and recording setups"
           ],
           cons: [
             "Less inherently controlled than SST-series heads for maximum-dry tones",
@@ -2075,7 +2075,7 @@ It's the head to reach for if your kit needs to cover everything progressive met
             sizes: "6\" to 26\""
           },
           usedBy: [
-            { name: "Mike Portnoy", band: "Dream Theater / Liquid Tension Experiment / The Winery Dogs", note: "Evans-family heads for balanced, articulate prog metal tone" }
+            { name: "Technically versatile progressive metal drummers", band: "Various", note: "Evans G2 Coated for balanced, controlled tone across melodic and full-weight playing" }
           ],
           verdict: "The versatile, do-everything head for progressive metal. A safe default for a kit that has to cover the whole genre.",
           rating: 4.7,
@@ -2301,7 +2301,7 @@ Its balanced tone works well across melodic tom fills and full-band unison hits,
 - G2 Coated is the genre's most versatile, do-everything head
 - SST-ring EC2 delivers instant, controlled decay for technical, djent-adjacent progressive material
 - Level 360 collar gives the wide, accurate tuning range odd-meter compositions demand
-- Preferred by: Mike Portnoy
+- Preferred by: technically-focused progressive drummers building a versatile, do-everything kit
 
 **Remo:**
 - Coated Ambassador and Emperor cover the genre from touch-focused restraint to hybrid-electronics consistency
@@ -2325,7 +2325,7 @@ Its balanced tone works well across melodic tom fills and full-band unison hits,
         {
           category: "Best Overall",
           pedal: "Evans G2 Coated",
-          reason: "The most versatile head in progressive metal — articulate, tunable, and proven across decades of Dream Theater's catalog."
+          reason: "The most versatile head in progressive metal — articulate, tunable, and durable enough to cover the genre's full demands."
         },
         {
           category: "Best for Hybrid Electronics",
@@ -2353,14 +2353,12 @@ Its balanced tone works well across melodic tom fills and full-band unison hits,
       'best-drum-heads-for-djent'
     ],
     relatedDrummers: [
-      { slug: 'mike-portnoy', name: 'Mike Portnoy', reason: 'Evans G2 Coated — Dream Theater\'s foundational, balanced prog metal tone' },
       { slug: 'mike-mangini', name: 'Mike Mangini', reason: 'Remo Emperor integrated with Roland SPD-SX hybrid electronics' },
       { slug: 'gavin-harrison', name: 'Gavin Harrison', reason: 'Remo Ambassador — touch and dynamic restraint for Porcupine Tree/King Crimson' },
       { slug: 'danny-carey', name: 'Danny Carey', reason: 'Remo heads — Tool\'s polyrhythmic dynamic complexity' }
     ],
 
     featuredDrummers: [
-      { slug: 'mike-portnoy', name: 'Mike Portnoy', reason: 'Evans G2 Coated — the genre\'s foundational, versatile tone' },
       { slug: 'mike-mangini', name: 'Mike Mangini', reason: 'Remo Emperor with hybrid electronics — maximum tonal control' },
       { slug: 'gavin-harrison', name: 'Gavin Harrison', reason: 'Remo Ambassador — compositional nuance and dynamic restraint' }
     ],
@@ -2369,7 +2367,7 @@ Its balanced tone works well across melodic tom fills and full-band unison hits,
     faq: [
       {
         question: "What drum heads do progressive metal drummers use?",
-        answer: "Progressive metal drummers favor tunable, articulate heads across both Evans and Remo. Mike Portnoy's foundational Dream Theater tone runs on Evans-family heads, Mike Mangini pairs Remo Emperor with Roland SPD-SX hybrid electronics, and Gavin Harrison and Danny Carey both favor Remo Ambassador for its honest dynamic sensitivity."
+        answer: "Progressive metal drummers favor tunable, articulate heads across both Evans and Remo. Mike Mangini pairs Remo Emperor with Roland SPD-SX hybrid electronics, and Gavin Harrison and Danny Carey both favor Remo Ambassador for its honest dynamic sensitivity, while Evans EC2 SST's SST-ring control suits more technical, djent-adjacent progressive material."
       },
       {
         question: "Why does tuning range matter so much for progressive metal drum heads?",
@@ -2392,7 +2390,7 @@ Its balanced tone works well across melodic tom fills and full-band unison hits,
     // Conclusion
     conclusion: {
       title: "Build Your Progressive Metal Head Setup",
-      content: `Progressive metal demands more versatility from a drum head than almost any other subgenre — articulate enough for odd-meter fills, tunable enough for precise pitch relationships, and dynamically honest enough to serve both whisper-quiet and full-band passages. Evans G2 Coated is the single best starting point, giving you Mike Portnoy's balanced, do-everything foundation.
+      content: `Progressive metal demands more versatility from a drum head than almost any other subgenre — articulate enough for odd-meter fills, tunable enough for precise pitch relationships, and dynamically honest enough to serve both whisper-quiet and full-band passages. Evans G2 Coated is the single best starting point, giving you a balanced, do-everything foundation for the whole genre.
 
 If your setup integrates electronic triggers, Remo Coated Emperor gives you the consistency Mike Mangini relies on. For compositional nuance and dynamic restraint, Remo Coated Ambassador is Gavin Harrison's pick, and Danny Carey's polyrhythmic complexity runs on the same philosophy.
 

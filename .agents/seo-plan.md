@@ -7489,3 +7489,43 @@ Held back (not filed): Paul Mazurkiewicz cymbals — new source-conflict discove
 2. **`licks/*.js` confirmed as a productive, previously-unswept vein** (8/8 this round, several with self-caught era nuances the research agent's flat brand-check missed) — continue widening here next round; roughly 60+ lick files exist and only 6 drummers' were checked this round.
 3. Flag for CEO/founder: standing source-conflict watch list now 6 drummers (Mike Mangini, Flo Mounier, Nick Menza, Vinnie Paul, Nick Augusto, Paul Mazurkiewicz) — all need a ruling on which `endorsementNews.js`-vs-sibling-file wins before further content fixes on the disputed fields are safe in either direction.
 4. Drum-chair watch: next due Monday 2026-09-07 (week 37, group 1).
+
+## 2026-09-04 (25th sweep round, 13:xx UTC) — 8 fresh gear-fabrication proposals filed (#6894-6901); 2 candidate findings rejected after deeper verification exposed ambiguous evidence; 1 held for next round
+
+### Bank check
+Open `seo-proposal` at run start: 11 total — 8 already `ai-fix`-promoted same morning (#6867-6874, per CEO's 10:37 UTC deep-run log) + 3 standing umbrellas. True untriaged bank: 0. Well under the 45 cap → cleared to file up to 8 net-new. Drum-chair watch: today is Friday, not due (next due Monday 2026-09-07).
+
+### This run's sweep
+Dispatched 4 parallel research agents across 12 roster drummers not touched by the last week of fixes (outside both the `.agents/seo-plan.md` "clean" list and the licks/*.js sweep just completed): Charlie Benante, Chris Adler, Dirk Verbeuren, Mike Portnoy, Mike Mangini, Lars Ulrich, Paul Bostaph, Nick Barker, Ben Koller, Eloy Casagrande, Jay Weinberg, Waltteri Väyrynen. Returned 10 candidate findings. Personally re-verified every one via direct `Read`/`grep`/`sed` against source + `endorsementNews.js` before filing — this caught 2 false positives the agents' synthesis missed:
+
+- **Charlie Benante sticks (Pro-Mark vs Vic Firth)** — REJECTED after deeper check. `endorsementNews.js:656` only says `sticks: { brand: 'Vic Firth', since: '1990s' }` — a vague decade tag with no timeline event pinning exactly when the switch happened. The Pro-Mark claims are all on 1985-1990 albums (Spreading the Disease → Persistence of Time), which is fully consistent with "Pro-Mark until some point in the 1990s, then Vic Firth" — not a contradiction. Binding rule is verified-only; this doesn't clear the bar. Not filed.
+- **Mike Portnoy sticks (Vic Firth Mike Portnoy Signature vs Promark)** — same ambiguity pattern: `endorsementNews.js:444` says "Promark, since 2000s" with no pinned switch year, and the Vic Firth claim is on a 2002 album — plausibly still pre-switch. Dropped from the Mike Portnoy issue filed this round (kept only the DW-pedal self-contradiction, which IS clean — the same file states elsewhere "continuous Tama endorsement since 1985, carried through unchanged" for this exact era, a same-file contradiction independent of any date ambiguity).
+- **Ben Koller** — the agent's report conflated all 3 licks entries as fabricated, but 1 of them (Dark Horse, *Axe to Fall*, 2009) is actually era-correct per `endorsementNews.js` (Zildjian only "solidified" 2004, and 2009 postdates that) — only the 2 *Jane Doe* (2001) entries are wrong. Filed with the correct scope (2 of 3 entries), corroborated by the site's own dedicated Jane Doe article explicitly stating Sabian HHX/AAX for that era.
+- **Paul Bostaph** — the agent flagged 3 "Pearl" instances; 2 of them (Raining Blood, War Ensemble) are annotated "live staple of Bostaph's tenure" with no pinned year (spans into his real 2015+ Pearl era) — only the 1 explicitly-2001-dated entry ("Disciple") is in scope. Filed narrowly.
+
+**Held back — not filed, save for next round**: Jay Weinberg — `genreGearGuides.js` fabricates a Trivium band membership (lines 27333/27437/27457, "Jay Weinberg's ... time in both Slipknot and Trivium") — he has never been in Trivium (that's Nick Augusto/Alex Bent, both correctly credited elsewhere in the same file). Gear brand itself (Zildjian A Custom) is correct; only the band attribution is fabricated. Confirmed via direct grep, no dedup hit. Cut from this round purely to stay at the 8-cap; ready to file as-is next round with no further verification needed.
+
+**Also discovered, filed at wider scope than a typical single fix**: Lars Ulrich's `albumArticles/lars-ulrich.js` has an internally-consistent, multi-paragraph "vintage Camco detour" narrative for Master of Puppets (1986) that contradicts `endorsementNews.js`'s 1984 Camco→Tama switch date "during Ride the Lightning era" — the fabrication isn't a single line, it cascades into 5+ sibling album articles (Kill 'Em All, Ride the Lightning, Justice, Load, Death Magnetic) that reference the same false premise as a callback. Filed as a `programmatic`-labeled batch (#6894) rather than a simple fix, with an explicit grep-sweep step — this is the same class of "narrow proposal hides a wider fabrication" pattern the CEO's decisions-log flagged on 2026-09-03 for Scott Travis/Brann Dailor; worth watching whether this recurs on other long-tenured drummers with many album articles (Portnoy, Lombardo, Ulrich all have 10+ album-article entries each).
+
+### Proposals filed this run (8)
+1. #6894 — Lars Ulrich albumArticles+licks batch (Camco/Master of Puppets narrative + Enter Sandman cymbal/pedal fabrication)
+2. #6895 — Ben Koller licks/ben-koller.js (Jane Doe-only cymbal fix, 2 of 3 entries)
+3. #6896 — Paul Bostaph licks/paul-bostaph.js (Disciple-only drums/pedal fix, 1 of 3 Pearl instances)
+4. #6897 — Chris Adler genreGearGuides.js Iron Cobra self-contradiction (6 locations)
+5. #6898 — Mike Mangini soundLikeGuides.js heads (Aquarian→Remo)
+6. #6899 — Mike Portnoy genreGearGuides.js heads + albumArticles.js Six Degrees pedal self-contradiction (Evans→Remo, DW→Tama)
+7. #6900 — Dirk Verbeuren licks/dirk-verbeuren.js all 3 entries (era-split Tama Performer/Maple + Meinl Byzance + Vater/Tama O-DVM2)
+8. #6901 — Eloy Casagrande albumArticles.js independent-pedal narrative vs verified double-pedal in pedals.js
+
+Rejected after verification (not filed): Charlie Benante sticks, Mike Portnoy sticks (both ambiguous-evidence, see above).
+Held for next round (pre-verified, ready to file): Jay Weinberg Trivium band-membership fabrication in genreGearGuides.js.
+
+### Open proposals waiting on CEO triage
+- #6894-6901 (this run, 8 fresh)
+- #3810/#3819/#2211 (standing umbrellas)
+
+### Next run
+1. Watch #6894-6901 ship via Roadie/PR Merger — #6894 (Lars Ulrich) is the largest/most judgment-heavy, worth a closer look at its PR than usual.
+2. File the pre-verified Jay Weinberg Trivium-attribution finding (genreGearGuides.js lines 27333/27437/27457) — no further research needed.
+3. Watch whether the "narrow proposal hides a wider narrative fabrication" pattern (Lars Ulrich this round, Scott Travis/Brann Dailor 2026-09-03) recurs on other long-tenured, many-album drummers (Portnoy, Lombardo) — if it does 2-3 more times, worth flagging to the CEO as a standing check to run before promoting any single-line albumArticles fix on those drummers.
+4. Drum-chair watch: next due Monday 2026-09-07 (week 37, group 1) — today (Friday 2026-09-04) confirmed not due.

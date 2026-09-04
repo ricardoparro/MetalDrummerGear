@@ -40,12 +40,12 @@ export const licks = {
     },
     "gearUsed": [
       {
-        "name": "Tama Starclassic Maple Kit",
+        "name": "Pearl Reference Series Kit",
         "type": "drums",
         "link": null
       },
       {
-        "name": "Zildjian K Series Cymbals",
+        "name": "Sabian AAX/HHX Cymbals",
         "type": "cymbals",
         "link": null
       },
@@ -110,12 +110,12 @@ export const licks = {
     },
     "gearUsed": [
       {
-        "name": "Tama Starclassic Maple Kit",
+        "name": "Pearl Reference Series Kit",
         "type": "drums",
         "link": null
       },
       {
-        "name": "Zildjian K Series Cymbals",
+        "name": "Sabian AAX/HHX Cymbals",
         "type": "cymbals",
         "link": null
       },
@@ -180,12 +180,12 @@ export const licks = {
     },
     "gearUsed": [
       {
-        "name": "Tama Starclassic Maple Kit",
+        "name": "Pearl Reference Series Kit",
         "type": "drums",
         "link": null
       },
       {
-        "name": "Zildjian K Series Cymbals",
+        "name": "Sabian AAX/HHX Cymbals",
         "type": "cymbals",
         "link": null
       },

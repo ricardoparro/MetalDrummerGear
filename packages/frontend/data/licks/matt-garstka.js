@@ -41,7 +41,7 @@ export const licks = {
     },
     "gearUsed": [
       {
-        "name": "Tama Star Series Kit",
+        "name": "Pearl Masterworks Maple Kit",
         "type": "drums",
         "link": null
       },
@@ -51,7 +51,7 @@ export const licks = {
         "link": null
       },
       {
-        "name": "Tama Speed Cobra Pedals",
+        "name": "Pearl Demon Drive Double Pedal",
         "type": "pedals",
         "link": null
       }
@@ -113,7 +113,7 @@ export const licks = {
     },
     "gearUsed": [
       {
-        "name": "Tama Star Series Kit",
+        "name": "Pearl Masterworks Maple Kit",
         "type": "drums",
         "link": null
       },
@@ -123,7 +123,7 @@ export const licks = {
         "link": null
       },
       {
-        "name": "Tama Speed Cobra Pedals",
+        "name": "Pearl Demon Drive Double Pedal",
         "type": "pedals",
         "link": null
       }
@@ -180,7 +180,7 @@ export const licks = {
     "tutorial": null,
     "gearUsed": [
       {
-        "name": "Tama Star Series Kit",
+        "name": "Pearl Masterworks Maple Kit",
         "type": "drums",
         "link": null
       },
@@ -190,7 +190,7 @@ export const licks = {
         "link": null
       },
       {
-        "name": "Tama Speed Cobra Pedals",
+        "name": "Pearl Demon Drive Double Pedal",
         "type": "pedals",
         "link": null
       }
@@ -247,7 +247,7 @@ export const licks = {
     "tutorial": null,
     "gearUsed": [
       {
-        "name": "Tama Star Series Kit",
+        "name": "Pearl Masterworks Maple Kit",
         "type": "drums",
         "link": null
       },
@@ -257,7 +257,7 @@ export const licks = {
         "link": null
       },
       {
-        "name": "Tama Speed Cobra Pedals",
+        "name": "Pearl Demon Drive Double Pedal",
         "type": "pedals",
         "link": null
       }
@@ -319,7 +319,7 @@ export const licks = {
     },
     "gearUsed": [
       {
-        "name": "Tama Star Series Kit",
+        "name": "Pearl Masterworks Maple Kit",
         "type": "drums",
         "link": null
       },
@@ -329,7 +329,7 @@ export const licks = {
         "link": null
       },
       {
-        "name": "Tama Speed Cobra Pedals",
+        "name": "Pearl Demon Drive Double Pedal",
         "type": "pedals",
         "link": null
       }

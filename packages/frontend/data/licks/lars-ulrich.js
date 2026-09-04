@@ -117,12 +117,12 @@ export const licks = {
         "link": null
       },
       {
-        "name": "Zildjian Z Custom Cymbals",
+        "name": "Zildjian A Custom Cymbals",
         "type": "cymbals",
         "link": null
       },
       {
-        "name": "DW 5000 Pedals",
+        "name": "Tama Iron Cobra 900 Pedals",
         "type": "pedals",
         "link": null
       }

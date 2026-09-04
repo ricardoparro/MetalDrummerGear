@@ -39,10 +39,10 @@ export const licks = {
       "description": "Live drum cam of Paul Mazurkiewicz showing his blast-beat and groove interplay on Hammer Smashed Face"
     },
     "gearUsed": [
-      { "name": "DW Collector's Series Kit", "type": "drums", "link": null },
+      { "name": "Pearl Reference Kit", "type": "drums", "link": null },
       { "name": "Paiste 2002 Cymbals", "type": "cymbals", "link": null },
       { "name": "DW 9002 Double Pedal", "type": "hardware", "link": null },
-      { "name": "Vater American Classic 5B", "type": "sticks", "link": null }
+      { "name": "Vic Firth Paul Mazurkiewicz Signature", "type": "sticks", "link": null }
     ],
     "learningTips": [
       "Build the conventional blast slowly until it is tight and even",
@@ -100,10 +100,10 @@ export const licks = {
       "description": "Paul Mazurkiewicz's sustained double-bass technique from the Tomb of the Mutilated album (1992)"
     },
     "gearUsed": [
-      { "name": "DW Collector's Series Kit", "type": "drums", "link": null },
+      { "name": "Pearl Reference Kit", "type": "drums", "link": null },
       { "name": "Paiste 2002 Cymbals", "type": "cymbals", "link": null },
       { "name": "DW 9002 Double Pedal", "type": "hardware", "link": null },
-      { "name": "Vater American Classic 5B", "type": "sticks", "link": null }
+      { "name": "Vic Firth Paul Mazurkiewicz Signature", "type": "sticks", "link": null }
     ],
     "learningTips": [
       "Build the double bass slowly and evenly — stability before speed",
@@ -161,10 +161,10 @@ export const licks = {
       "description": "Live drum cam of Paul Mazurkiewicz showing his death metal pocket groove and kick density on Evisceration Plague"
     },
     "gearUsed": [
-      { "name": "DW Collector's Series Kit", "type": "drums", "link": null },
+      { "name": "Pearl Reference Kit", "type": "drums", "link": null },
       { "name": "Paiste 2002 Cymbals", "type": "cymbals", "link": null },
       { "name": "DW 9002 Double Pedal", "type": "hardware", "link": null },
-      { "name": "Vater American Classic 5B", "type": "sticks", "link": null }
+      { "name": "Vic Firth Paul Mazurkiewicz Signature", "type": "sticks", "link": null }
     ],
     "learningTips": [
       "Build the groove at tempo with a metronome before adding dynamics",

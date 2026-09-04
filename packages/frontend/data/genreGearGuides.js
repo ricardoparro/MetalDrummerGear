@@ -11031,7 +11031,7 @@ This guide breaks down exactly which bass drum pedals work best for metal, why d
 
           description: `The Tama Iron Cobra is the most iconic bass drum pedal in metal drumming — a pedal whose 'Rolling Glide' cam system and smooth chain drive have made it the choice of more professional metal drummers than any competitor. The IC900 series features die-cast aluminum construction, a versatile cam adjustment system, and a feel that rewards both speed and power.
 
-Tomas Haake of Meshuggah has built his legendary polyrhythmic kick technique around the Iron Cobra — the pedal's smooth, predictable action and the ability to fine-tune cam angle and spring tension lets Haake precisely control the machine-like precision that defines Meshuggah's rhythmic identity. Chris Adler of Lamb of God used Iron Cobra throughout his tenure with the band, driving the groove metal patterns that made Lamb of God one of the most influential metal acts of the 2000s. The Iron Cobra's combination of smooth action, adjustability, and bulletproof durability makes it the benchmark that every other metal pedal is measured against.`,
+Tomas Haake of Meshuggah has built his legendary polyrhythmic kick technique around the Iron Cobra — the pedal's smooth, predictable action and the ability to fine-tune cam angle and spring tension lets Haake precisely control the machine-like precision that defines Meshuggah's rhythmic identity. The Iron Cobra's combination of smooth action, adjustability, and bulletproof durability makes it the benchmark that every other metal pedal is measured against.`,
 
           pros: [
             "Rolling Glide cam system — smooth power throughout stroke",
@@ -11054,7 +11054,6 @@ Tomas Haake of Meshuggah has built his legendary polyrhythmic kick technique aro
           },
           usedBy: [
             { name: "Tomas Haake", band: "Meshuggah", note: "Iron Cobra — building the world's most precise kick technique" },
-            { name: "Chris Adler", band: "Lamb of God", note: "Iron Cobra for groove metal authority" },
             { name: "George Kollias", band: "Nile", note: "Tama pedals for 280 BPM death metal extremity" }
           ],
           verdict: "The benchmark metal bass drum pedal. If you're not sure what to buy, the Iron Cobra 900 is the answer.",
@@ -11302,7 +11301,7 @@ For metal drummers whose technique relies heavily on the heel-toe method or who 
 **Tama Iron Cobra 900:**
 - Chain drive with Rolling Glide offset cam
 - Power-focused feel with explosive impact
-- The most popular metal pedal — Tomas Haake, Chris Adler, George Kollias
+- The most popular metal pedal — Tomas Haake, George Kollias
 - Best all-rounder for metal across speed and power
 
 **Pearl Demon Drive:**
@@ -11340,7 +11339,7 @@ For metal drummers whose technique relies heavily on the heel-toe method or who 
         {
           category: "Best Overall",
           pedal: "Tama Iron Cobra 900",
-          reason: "The most proven metal bass drum pedal in history. Used by Tomas Haake, Chris Adler, and George Kollias — the standard by which all others are measured."
+          reason: "The most proven metal bass drum pedal in history. Used by Tomas Haake and George Kollias — the standard by which all others are measured."
         },
         {
           category: "Best for Extreme Speed",
@@ -11370,8 +11369,7 @@ For metal drummers whose technique relies heavily on the heel-toe method or who 
       { slug: 'tomas-haake', name: 'Tomas Haake', reason: 'Iron Cobra — the world\'s most precise kick technique' },
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Pearl Demon XR — 280 BPM death metal extremity' },
       { slug: 'gene-hoglan', name: 'Gene Hoglan', reason: 'Pearl Demon Drive — The Atomic Clock\'s precision platform since 2008' },
-      { slug: 'joey-jordison', name: 'Joey Jordison', reason: 'Pearl Demon Drive for explosive nu/extreme metal kick since 2010' },
-      { slug: 'chris-adler', name: 'Chris Adler', reason: 'Iron Cobra for Lamb of God groove metal authority' }
+      { slug: 'joey-jordison', name: 'Joey Jordison', reason: 'Pearl Demon Drive for explosive nu/extreme metal kick since 2010' }
     ],
 
     featuredDrummers: [
@@ -11384,7 +11382,7 @@ For metal drummers whose technique relies heavily on the heel-toe method or who 
     faq: [
       {
         question: "What bass drum pedal do metal drummers use?",
-        answer: "The Tama Iron Cobra is the most common bass drum pedal among professional metal drummers. Tomas Haake of Meshuggah, Chris Adler of Lamb of God, and George Kollias of Nile have all used Iron Cobra pedals. The Pearl Demon XR, George Kollias's own co-designed signature model, is popular with extreme metal drummers for its direct drive speed. Gene Hoglan plays a Pearl Demon Drive. The Iron Cobra is the safe default choice for any metal style."
+        answer: "The Tama Iron Cobra is the most common bass drum pedal among professional metal drummers. Tomas Haake of Meshuggah and George Kollias of Nile have both used Iron Cobra pedals. The Pearl Demon XR, George Kollias's own co-designed signature model, is popular with extreme metal drummers for its direct drive speed. Gene Hoglan plays a Pearl Demon Drive. The Iron Cobra is the safe default choice for any metal style."
       },
       {
         question: "What is the difference between chain drive and direct drive bass drum pedals?",
@@ -114496,8 +114494,7 @@ The Iron Cobra's combination of smooth action, adjustability, and bulletproof du
             weight: "3.5 kg (pair)"
           },
           usedBy: [
-            { name: "Tomas Haake", band: "Meshuggah", note: "Iron Cobra — building the world's most precise polyrhythmic kick technique" },
-            { name: "Chris Adler", band: "Lamb of God", note: "Iron Cobra for groove metal authority" }
+            { name: "Tomas Haake", band: "Meshuggah", note: "Iron Cobra — building the world's most precise polyrhythmic kick technique" }
           ],
           verdict: "The safe default for any metal style. If you're not sure yet what subgenre you'll specialize in, start here.",
           rating: 4.8,
@@ -114665,7 +114662,7 @@ For a first serious pedal, before you've decided which metal subgenre you'll spe
       content: `Every metal drummer eventually faces this decision, regardless of subgenre:
 
 **Chain Drive (Tama Iron Cobra, DW 9000):**
-- The most popular choice across metal — Tomas Haake, Chris Adler, and countless working professionals
+- The most popular choice across metal — Tomas Haake and countless working professionals
 - Natural, slightly cushioned feel that most drummers find comfortable from day one
 - Lower cost of entry and wider availability
 
@@ -114735,7 +114732,7 @@ For a first serious pedal, before you've decided which metal subgenre you'll spe
     faq: [
       {
         question: "What's the best drum pedal for metal drumming overall?",
-        answer: "The Tama Iron Cobra is the most common bass drum pedal among professional metal drummers. Tomas Haake of Meshuggah, Chris Adler of Lamb of God, and George Kollias of Nile have all used Iron Cobra pedals at some point. It's the safe default choice for any metal subgenre, whether you end up playing thrash, death metal, or progressive metal."
+        answer: "The Tama Iron Cobra is the most common bass drum pedal among professional metal drummers. Tomas Haake of Meshuggah and George Kollias of Nile have both used Iron Cobra pedals at some point. It's the safe default choice for any metal subgenre, whether you end up playing thrash, death metal, or progressive metal."
       },
       {
         question: "Should I choose chain drive or direct drive for metal?",

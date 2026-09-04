@@ -40,9 +40,8 @@ export const licks = {
       "description": "Satyricon's official music video for Fuel for Hatred from the Volcano album, showcasing Frost's precision blast beat architecture at 210 BPM"
     },
     "gearUsed": [
-      { "name": "Tama Starclassic Maple Kit", "type": "drums", "link": null },
-      { "name": "Tama Lars Ulrich Signature Snare", "type": "snare", "link": null },
-      { "name": "Meinl Classics Custom Cymbals", "type": "cymbals", "link": null },
+      { "name": "Tama Starclassic Bubinga Kit", "type": "drums", "link": null },
+      { "name": "Zildjian A Series Cymbals", "type": "cymbals", "link": null },
       { "name": "Tama Iron Cobra Double Pedal", "type": "hardware", "link": null },
       { "name": "Vic Firth 5B", "type": "sticks", "link": null }
     ],
@@ -102,9 +101,8 @@ export const licks = {
       "description": "Satyricon's official high-definition music video for K.I.N.G. from Now, Diabolical, showcasing Frost's signature mid-tempo black metal groove"
     },
     "gearUsed": [
-      { "name": "Tama Starclassic Maple Kit", "type": "drums", "link": null },
-      { "name": "Tama Lars Ulrich Signature Snare", "type": "snare", "link": null },
-      { "name": "Meinl Classics Custom Cymbals", "type": "cymbals", "link": null },
+      { "name": "Tama Starclassic Bubinga Kit", "type": "drums", "link": null },
+      { "name": "Zildjian A Series Cymbals", "type": "cymbals", "link": null },
       { "name": "Tama Iron Cobra Double Pedal", "type": "hardware", "link": null },
       { "name": "Vic Firth 5B", "type": "sticks", "link": null }
     ],
@@ -164,9 +162,8 @@ export const licks = {
       "description": "Satyricon's official music video for Mother North from Nemesis Divina, showcasing Frost's classic mid-paced black metal groove and compositional drum approach"
     },
     "gearUsed": [
-      { "name": "Tama Starclassic Maple Kit", "type": "drums", "link": null },
-      { "name": "Tama Lars Ulrich Signature Snare", "type": "snare", "link": null },
-      { "name": "Meinl Classics Custom Cymbals", "type": "cymbals", "link": null },
+      { "name": "Tama Starclassic Bubinga Kit", "type": "drums", "link": null },
+      { "name": "Zildjian A Series Cymbals", "type": "cymbals", "link": null },
       { "name": "Tama Iron Cobra Double Pedal", "type": "hardware", "link": null },
       { "name": "Vic Firth 5B", "type": "sticks", "link": null }
     ],

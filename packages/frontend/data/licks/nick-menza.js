@@ -39,8 +39,8 @@ export const licks = {
       "description": "Full-song drum cover following Nick Menza's melodic thrash groove on Tornado of Souls"
     },
     "gearUsed": [
-      { "name": "Sonor Performer Kit", "type": "drums", "link": null },
-      { "name": "Paiste 2002 Cymbals", "type": "cymbals", "link": null },
+      { "name": "Tama Artstar II Kit", "type": "drums", "link": null },
+      { "name": "Zildjian A / A Custom Cymbals", "type": "cymbals", "link": null },
       { "name": "Yamaha Double Bass Pedal", "type": "hardware", "link": null }
     ],
     "learningTips": [
@@ -99,8 +99,8 @@ export const licks = {
       "description": "Full-song drum cover of Nick Menza's blast-to-groove thrash performance on Holy Wars"
     },
     "gearUsed": [
-      { "name": "Sonor Performer Kit", "type": "drums", "link": null },
-      { "name": "Paiste 2002 Cymbals", "type": "cymbals", "link": null },
+      { "name": "Tama Artstar II Kit", "type": "drums", "link": null },
+      { "name": "Zildjian A / A Custom Cymbals", "type": "cymbals", "link": null },
       { "name": "Yamaha Double Bass Pedal", "type": "hardware", "link": null }
     ],
     "learningTips": [
@@ -159,8 +159,8 @@ export const licks = {
       "description": "Full-song drum cover showcasing Nick Menza's technical fill sequences throughout Hangar 18"
     },
     "gearUsed": [
-      { "name": "Sonor Performer Kit", "type": "drums", "link": null },
-      { "name": "Paiste 2002 Cymbals", "type": "cymbals", "link": null },
+      { "name": "Tama Artstar II Kit", "type": "drums", "link": null },
+      { "name": "Zildjian A / A Custom Cymbals", "type": "cymbals", "link": null },
       { "name": "Yamaha Double Bass Pedal", "type": "hardware", "link": null }
     ],
     "learningTips": [
@@ -215,8 +215,8 @@ export const licks = {
     "video": null,
     "tutorial": null,
     "gearUsed": [
-      { "name": "Sonor Performer Kit", "type": "drums", "link": null },
-      { "name": "Paiste 2002 Cymbals", "type": "cymbals", "link": null },
+      { "name": "Tama Artstar II Kit", "type": "drums", "link": null },
+      { "name": "Zildjian A / A Custom Cymbals", "type": "cymbals", "link": null },
       { "name": "Yamaha Double Bass Pedal", "type": "hardware", "link": null }
     ],
     "learningTips": [
@@ -271,8 +271,8 @@ export const licks = {
     "video": null,
     "tutorial": null,
     "gearUsed": [
-      { "name": "Sonor Performer Kit", "type": "drums", "link": null },
-      { "name": "Paiste 2002 Cymbals", "type": "cymbals", "link": null },
+      { "name": "Tama Artstar II Kit", "type": "drums", "link": null },
+      { "name": "Zildjian A / A Custom Cymbals", "type": "cymbals", "link": null },
       { "name": "Yamaha Double Bass Pedal", "type": "hardware", "link": null }
     ],
     "learningTips": [
@@ -327,7 +327,7 @@ export const licks = {
     "video": null,
     "tutorial": null,
     "gearUsed": [
-      { "name": "Sonor Performer Kit", "type": "drums", "link": null },
+      { "name": "Pearl Masters Kit", "type": "drums", "link": null },
       { "name": "Paiste 2002 Cymbals", "type": "cymbals", "link": null },
       { "name": "Yamaha Double Bass Pedal", "type": "hardware", "link": null }
     ],

@@ -119,18 +119,13 @@ export const licks = {
     },
     "gearUsed": [
       {
-        "name": "Pearl Masters Custom Series",
+        "name": "Tama Starclassic Maple Kit",
         "type": "drums",
         "link": null
       },
       {
         "name": "Paiste 2002 Series Cymbals",
         "type": "cymbals",
-        "link": null
-      },
-      {
-        "name": "Pearl Eliminator Double Pedal",
-        "type": "pedals",
         "link": null
       },
       {

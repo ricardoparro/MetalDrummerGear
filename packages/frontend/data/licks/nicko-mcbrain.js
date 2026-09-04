@@ -39,9 +39,9 @@ export const licks = {
       "description": "Nicko McBrain performing The Trooper, showcasing his galloping single-pedal groove and fills"
     },
     "gearUsed": [
-      { "name": "Sonor SQ2 Series Kit", "type": "drums", "link": null },
+      { "name": "Pearl DLX Kit", "type": "drums", "link": null },
       { "name": "Paiste 2002 & Signature Cymbals", "type": "cymbals", "link": null },
-      { "name": "Sonor Single Bass Drum Pedal", "type": "hardware", "link": null },
+      { "name": "DW 5000 Single Pedal", "type": "hardware", "link": null },
       { "name": "Vic Firth Nicko McBrain Signature", "type": "sticks", "link": null }
     ],
     "learningTips": [
@@ -100,9 +100,9 @@ export const licks = {
       "description": "Nicko McBrain tour drum-cam, which opens with the full-throttle drive of Aces High"
     },
     "gearUsed": [
-      { "name": "Sonor SQ2 Series Kit", "type": "drums", "link": null },
+      { "name": "Pearl DLX Kit", "type": "drums", "link": null },
       { "name": "Paiste 2002 & Signature Cymbals", "type": "cymbals", "link": null },
-      { "name": "Sonor Single Bass Drum Pedal", "type": "hardware", "link": null },
+      { "name": "DW 5000 Single Pedal", "type": "hardware", "link": null },
       { "name": "Vic Firth Nicko McBrain Signature", "type": "sticks", "link": null }
     ],
     "learningTips": [
@@ -163,7 +163,7 @@ export const licks = {
     "gearUsed": [
       { "name": "Sonor SQ2 Series Kit", "type": "drums", "link": null },
       { "name": "Paiste 2002 & Signature Cymbals", "type": "cymbals", "link": null },
-      { "name": "Sonor Single Bass Drum Pedal", "type": "hardware", "link": null },
+      { "name": "DW 5000 Single Pedal", "type": "hardware", "link": null },
       { "name": "Vic Firth Nicko McBrain Signature", "type": "sticks", "link": null }
     ],
     "learningTips": [

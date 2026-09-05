@@ -111,6 +111,15 @@ const INFRA_PREFIX = '🔧 ';
 // picked up by a hosted runner. Checked via check-run annotations rather than
 // job logs, because a never-acquired job has NO log at all.
 const RUNNER_CAPACITY_RE = /was not acquired by Runner/i;
+// GitHub Actions occasionally recycles the runner VM mid-job (host
+// maintenance/reclaim) — steps that already ran keep their conclusions, then
+// the in-flight step is SIGTERM'd (exit 143) with this exact log line and any
+// orphan process is reaped (#6998: SEO Agent 2026-09-05, 8 steps had already
+// succeeded; roadie.yml drain hit the identical signature on 2026-09-04).
+// Distinct from RUNNER_CAPACITY_RE, which never starts a single step — this
+// one has a normal log, just truncated mid-run, so it's checked via
+// fetchJobLog alongside the quota signature rather than via annotations.
+const RUNNER_SHUTDOWN_RE = /runner has received a shutdown signal/i;
 
 // ===========================================================================
 // GitHub REST helper — same style as generate-digest.cjs collectGitHubData().
@@ -251,6 +260,9 @@ function evalWorkflowFailure(wf, run) {
       return [`${QUOTA_PREFIX}${wf.name} (${wf.file}) — both Claude subscriptions hit their ${scope} limit${reset} — self-healing, no action needed (${run.created_at})`];
     }
     if (run.quotaInfo && run.quotaInfo.infra) {
+      if (run.quotaInfo.infraReason === 'shutdown') {
+        return [`${INFRA_PREFIX}${wf.name} (${wf.file}) — GitHub Actions runner VM got recycled mid-job ("received a shutdown signal") — transient GitHub Actions infra hiccup, self-healing, no action needed (${run.created_at})`];
+      }
       return [`${INFRA_PREFIX}${wf.name} (${wf.file}) — GitHub-hosted runner never acquired (queued job timed out waiting) — transient GitHub Actions capacity hiccup, self-healing, no action needed (${run.created_at})`];
     }
     return [`${wf.name} (${wf.file}) last run ${run.conclusion} — ${run.created_at}`];
@@ -458,7 +470,7 @@ function buildIssueBody(alerts, now = new Date()) {
   if (infra.length) {
     lines.push('### 🔧 GitHub Actions runner capacity — expected, recovers by itself');
     lines.push('');
-    lines.push('_GitHub never handed the job a hosted runner ("not acquired ... after multiple attempts") — no step ran, nothing in this repo executed or failed. This is a transient GitHub Actions capacity issue, not a repo-side cause; the next scheduled run picks up normally. Recurring often ⇒ check https://www.githubstatus.com/._');
+    lines.push('_A GitHub Actions runner-side hiccup, not a repo bug: either the job never got a hosted runner ("not acquired ... after multiple attempts", no step ran) or the runner VM was recycled mid-job ("received a shutdown signal", already-run steps kept their results). Either way the next scheduled run picks up normally. Recurring often ⇒ check https://www.githubstatus.com/._');
     lines.push('');
     for (const a of infra) lines.push(`- ${stripPrefix(a)}`);
     lines.push('');
@@ -563,12 +575,15 @@ async function classifyFailure(run) {
       let annotations = [];
       try { annotations = (await fetchJobAnnotations(job.id)) || []; } catch { annotations = []; }
       if (annotations.some(a => RUNNER_CAPACITY_RE.test(a.message || ''))) {
-        return { quota: false, infra: true };
+        return { quota: false, infra: true, infraReason: 'capacity' };
       }
     }
     for (const job of failed) {
       let log = '';
       try { log = await fetchJobLog(job.id); } catch { continue; }
+      if (RUNNER_SHUTDOWN_RE.test(log)) {
+        return { quota: false, infra: true, infraReason: 'shutdown' };
+      }
       if (!QUOTA_LOG_RE.test(log)) continue;
       const m = log.match(QUOTA_DETAIL_RE);
       return { quota: true, scope: m ? m[1].toLowerCase() : 'usage', resets: m ? m[2].trim() : null };
@@ -850,6 +865,22 @@ function selfTest() {
     /Needs attention/.test(buildIssueBody(infraAlerts, now)), false);
   check('issue body: infra-only → has runner-capacity section',
     /runner capacity/i.test(buildIssueBody(infraAlerts, now)), true);
+
+  // Fixture A5 (#6998): a runner VM recycled mid-job ("received a shutdown
+  // signal") after steps already ran — same self-healing 🔧 bucket as the
+  // never-acquired case, but distinguishable in the alert text since it's a
+  // different failure mode (steps DID run here).
+  const shutdownRun = {
+    status: 'completed', conclusion: 'failure', created_at: now.toISOString(),
+    quotaInfo: { quota: false, infra: true, infraReason: 'shutdown' },
+  };
+  const shutdownAlerts = evalWorkflowFailure(wf, shutdownRun);
+  check('runner-shutdown failure → 1 alert', shutdownAlerts.length, 1);
+  check('runner-shutdown alert carries the 🔧 prefix', shutdownAlerts[0].startsWith(INFRA_PREFIX), true);
+  check('runner-shutdown alert names the shutdown signal', /shutdown signal/i.test(shutdownAlerts[0]), true);
+  check('telegram: runner-shutdown-only → pause headline', buildTelegramText(shutdownAlerts, now).startsWith('⏳'), true);
+  check('issue body: runner-shutdown-only → no "Needs attention" section',
+    /Needs attention/.test(buildIssueBody(shutdownAlerts, now)), false);
 
   // Fixture B: a healthy, recent success → 0 alerts (failure + stale both clear).
   const healthyRun = {

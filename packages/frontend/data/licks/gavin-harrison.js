@@ -101,9 +101,7 @@ export const licks = {
     },
     "gearUsed": [
       { "name": "Sonor SQ2 Series Kit", "type": "drums", "link": null },
-      { "name": "Zildjian K Custom Special Dry Cymbals", "type": "cymbals", "link": null },
-      { "name": "Sonor Perfect Balance Pedal", "type": "hardware", "link": null },
-      { "name": "Vic Firth Gavin Harrison Signature", "type": "sticks", "link": null }
+      { "name": "Sonor Perfect Balance Pedal", "type": "hardware", "link": null }
     ],
     "learningTips": [
       "Learn the limb pattern slowly before worrying about speed",

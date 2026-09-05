@@ -3237,7 +3237,7 @@ export const ENDORSEMENT_TIMELINE = {
     currentEndorsements: {
       drums: { brand: 'Tama', model: 'Starclassic Performer B/B', since: '2010s' },
       heads: { brand: 'Evans', since: '2010s' },
-      cymbals: { brand: 'Meinl', model: 'Byzance / MB20 Series', since: '2010s' },
+      cymbals: { brand: 'Meinl', model: 'Byzance / MB20 Series', since: '2015' },
     },
     timeline: [
       {

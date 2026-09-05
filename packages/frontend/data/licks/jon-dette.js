@@ -11,7 +11,7 @@ export const licks = {
     "drummerSlug": "jon-dette",
     "band": "Slayer",
     "song": "Killing Fields",
-    "album": "Divine Intervention (1994)",
+    "album": "Divine Intervention (1994 studio; performed live 1996-1997 tour)",
     "category": "main-groove",
     "style": "thrash-metal",
     "difficulty": "advanced",
@@ -19,7 +19,7 @@ export const licks = {
     "bpm": 182,
     "bpmDisplay": "182 BPM",
     "timeSignature": "4/4",
-    "description": "Jon Dette's machine-precise thrash engine on 'Killing Fields' from Slayer's 1994 album Divine Intervention defines his contribution to the band. As the first studio drummer to replace Dave Lombardo on a Slayer recording, Dette delivered a locked-in double bass and snare pattern that drove the mid-tempo groove without sacrificing aggression. His even 16th-note kick placement and ghost-note snare work reveal a thrash drummer whose technical discipline rivals his raw power, making this groove a masterclass in controlled thrash-metal authority.",
+    "description": "Jon Dette's machine-precise thrash engine on 'Killing Fields' came alive during his 1996-1997 stint filling in for Paul Bostaph on Slayer's touring lineup, bringing the Divine Intervention cut to life night after night. Dette delivered a locked-in double bass and snare pattern that drove the mid-tempo groove without sacrificing aggression. His even 16th-note kick placement and ghost-note snare work reveal a thrash drummer whose technical discipline rivals his raw power, making this groove a masterclass in controlled thrash-metal authority.",
     "techniques": [
       "double-bass",
       "thrash-groove",
@@ -40,7 +40,7 @@ export const licks = {
     },
     "gearUsed": [
       {
-        "name": "Pearl Reference Series Kit",
+        "name": "Ludwig Classic Maple Kit",
         "type": "drums",
         "link": null
       },
@@ -110,7 +110,7 @@ export const licks = {
     },
     "gearUsed": [
       {
-        "name": "Pearl Reference Series Kit",
+        "name": "Ludwig Classic Maple Kit",
         "type": "drums",
         "link": null
       },
@@ -180,7 +180,7 @@ export const licks = {
     },
     "gearUsed": [
       {
-        "name": "Pearl Reference Series Kit",
+        "name": "Ludwig Classic Maple Kit",
         "type": "drums",
         "link": null
       },

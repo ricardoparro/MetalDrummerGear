@@ -161,9 +161,9 @@ export const licks = {
       "description": "Hannes Grossmann teaches his approach to subdividing and grooving in odd time signatures"
     },
     "gearUsed": [
-      { "name": "DW Collectors Series Kit", "type": "drums", "link": null },
+      { "name": "Tama Starclassic Maple Kit", "type": "drums", "link": null },
       { "name": "Meinl Byzance Cymbals", "type": "cymbals", "link": null },
-      { "name": "DW 9000 Series Double Pedal", "type": "hardware", "link": null },
+      { "name": "Tama Iron Cobra", "type": "hardware", "link": null },
       { "name": "Vic Firth American Classic 5B", "type": "sticks", "link": null }
     ],
     "learningTips": [

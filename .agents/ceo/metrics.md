@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-09-05 20:49 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-09-05 21:01 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -10,7 +10,7 @@
 | --- | --- |
 | Active users | 329 |
 | Sessions | 375 |
-| Page views | 493 |
+| Page views | 494 |
 | Engagement rate | 48.27% |
 | Avg session (s) | 157 |
 
@@ -23,7 +23,7 @@
 | /drummer/frost | 12 | 2 |
 | /drummers | 11 | 4 |
 | /drummer/joey-jordison | 10 | 7 |
-| /drummer/bill-ward | 8 | 7 |
+| /drummer/bill-ward | 9 | 7 |
 | /drummer/igor-cavalera | 8 | 7 |
 | /drummer/matt-greiner | 8 | 7 |
 | /drummer/shannon-larkin | 7 | 5 |
@@ -31,7 +31,7 @@
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 294 | 255 |
+| Organic Search | 295 | 256 |
 | Unassigned | 77 | 69 |
 | Direct | 49 | 44 |
 | Cross-network | 11 | 11 |

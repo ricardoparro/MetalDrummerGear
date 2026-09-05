@@ -41,7 +41,6 @@ export const licks = {
     "gearUsed": [
       { "name": "Tama Starclassic Performer B/B Kit", "type": "drums", "link": null },
       { "name": "Tama STARPHONIC Brass 14x6 Snare", "type": "snare", "link": null },
-      { "name": "Meinl Byzance and MB20 Cymbals", "type": "cymbals", "link": null },
       { "name": "Tama Speed Cobra Pedals", "type": "hardware", "link": null }
     ],
     "learningTips": [

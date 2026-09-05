@@ -41,7 +41,7 @@ export const licks = {
     "gearUsed": [
       { "name": "Tama Starclassic Bubinga Kit", "type": "drums", "link": null },
       { "name": "Meinl Byzance & Mb20 Cymbals", "type": "cymbals", "link": null },
-      { "name": "Vic Firth Derek Roddy Signature Sticks", "type": "sticks", "link": null }
+      { "name": "Vater 5B", "type": "sticks", "link": null }
     ],
     "learningTips": [
       "Start at half tempo and only speed up when every single stroke is even",
@@ -101,7 +101,7 @@ export const licks = {
     "gearUsed": [
       { "name": "Tama Starclassic Bubinga Kit", "type": "drums", "link": null },
       { "name": "Meinl Byzance & Mb20 Cymbals", "type": "cymbals", "link": null },
-      { "name": "Vic Firth Derek Roddy Signature Sticks", "type": "sticks", "link": null }
+      { "name": "Vater 5B", "type": "sticks", "link": null }
     ],
     "learningTips": [
       "Practise feet-only first, listening for the left foot to match the right exactly",
@@ -161,7 +161,7 @@ export const licks = {
     "gearUsed": [
       { "name": "Tama Starclassic Bubinga Kit", "type": "drums", "link": null },
       { "name": "Meinl Byzance & Mb20 Cymbals", "type": "cymbals", "link": null },
-      { "name": "Vic Firth Derek Roddy Signature Sticks", "type": "sticks", "link": null }
+      { "name": "Vater 5B", "type": "sticks", "link": null }
     ],
     "learningTips": [
       "Practise at the fastest tempo you can stay relaxed, not the fastest you can survive",
@@ -217,7 +217,7 @@ export const licks = {
     "gearUsed": [
       { "name": "Tama Starclassic Bubinga Kit", "type": "drums", "link": null },
       { "name": "Meinl Byzance & Mb20 Cymbals", "type": "cymbals", "link": null },
-      { "name": "Vic Firth Derek Roddy Signature Sticks", "type": "sticks", "link": null }
+      { "name": "Vater 5B", "type": "sticks", "link": null }
     ],
     "learningTips": [
       "Practise the gravity blast in isolation on a practice pad before the kit",
@@ -270,9 +270,8 @@ export const licks = {
     ],
     "tutorial": null,
     "gearUsed": [
-      { "name": "Tama Starclassic Bubinga Kit", "type": "drums", "link": null },
       { "name": "Meinl Byzance & Mb20 Cymbals", "type": "cymbals", "link": null },
-      { "name": "Vic Firth Derek Roddy Signature Sticks", "type": "sticks", "link": null }
+      { "name": "Vater 5B", "type": "sticks", "link": null }
     ],
     "learningTips": [
       "Clap and count the stroke groupings before touching the kit — feel the polyrhythm first",
@@ -327,7 +326,7 @@ export const licks = {
     "gearUsed": [
       { "name": "Tama Starclassic Bubinga Kit", "type": "drums", "link": null },
       { "name": "Meinl Byzance & Mb20 Cymbals", "type": "cymbals", "link": null },
-      { "name": "Vic Firth Derek Roddy Signature Sticks", "type": "sticks", "link": null }
+      { "name": "Vater 5B", "type": "sticks", "link": null }
     ],
     "learningTips": [
       "Practise the hand sequence in isolation at very slow tempo for tone and consistency",

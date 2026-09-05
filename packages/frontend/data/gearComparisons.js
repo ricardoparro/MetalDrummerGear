@@ -688,7 +688,7 @@ Both companies have earned their place on the world's biggest stages. You can't 
           hoops: 'True Hoop',
           hardware: 'STM mount',
         },
-        usedBy: ['Brann Dailor', 'Navene Koperweis'],
+        usedBy: ['Navene Koperweis'],
         bestFor: 'Modern metal, fusion, djent',
         rating: 4.8,
       },

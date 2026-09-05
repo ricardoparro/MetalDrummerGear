@@ -43,7 +43,7 @@ export const licks = {
       { "name": "DW 14\"x6.5\" Collector's Snare", "type": "snare", "link": null },
       { "name": "Meinl Byzance Extra Dry Series Cymbals", "type": "cymbals", "link": null },
       { "name": "DW 9002 Double Pedal", "type": "hardware", "link": null },
-      { "name": "Vic Firth American Classic 5B", "type": "sticks", "link": null }
+      { "name": "Vic Firth American Classic 3A", "type": "sticks", "link": null }
     ],
     "learningTips": [
       "Loop a seven-beat phrase with a metronome at 60 BPM and tap along until the shape feels as natural as a bar of 4/4",
@@ -106,7 +106,7 @@ export const licks = {
       { "name": "DW 14\"x6.5\" Collector's Snare", "type": "snare", "link": null },
       { "name": "Meinl Byzance Extra Dry Series Cymbals", "type": "cymbals", "link": null },
       { "name": "DW 9002 Double Pedal", "type": "hardware", "link": null },
-      { "name": "Vic Firth American Classic 5B", "type": "sticks", "link": null }
+      { "name": "Vic Firth American Classic 3A", "type": "sticks", "link": null }
     ],
     "learningTips": [
       "Transcribe the kick drum density map for each section before playing — note where it increases and decreases relative to the song structure",
@@ -169,7 +169,7 @@ export const licks = {
       { "name": "DW 14\"x6.5\" Collector's Snare", "type": "snare", "link": null },
       { "name": "Meinl Byzance Extra Dry Series Cymbals", "type": "cymbals", "link": null },
       { "name": "DW 9002 Double Pedal", "type": "hardware", "link": null },
-      { "name": "Vic Firth American Classic 5B", "type": "sticks", "link": null }
+      { "name": "Vic Firth American Classic 3A", "type": "sticks", "link": null }
     ],
     "learningTips": [
       "Map the song's sections and mark where each significant fill falls — understanding the structural role of each fill before playing it makes the execution more intentional",

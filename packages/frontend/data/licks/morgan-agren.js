@@ -40,9 +40,9 @@ export const licks = {
     },
     "gearUsed": [
       { "name": "Sonor SQ2 Kit", "type": "drums", "link": null },
-      { "name": "Meinl Cymbals", "type": "cymbals", "link": null },
-      { "name": "DW 9000 Double Pedal", "type": "hardware", "link": null },
-      { "name": "Regal Tip Sticks", "type": "sticks", "link": null }
+      { "name": "Paiste Signature / 2002 Series", "type": "cymbals", "link": null },
+      { "name": "Sonor Giant Step Double Pedal", "type": "hardware", "link": null },
+      { "name": "Vic Firth American Classic 5A", "type": "sticks", "link": null }
     ],
     "learningTips": [
       "Record the modulation transitions and listen back critically — the subdivision should feel seamless, not like a reset",
@@ -101,9 +101,9 @@ export const licks = {
     },
     "gearUsed": [
       { "name": "Sonor SQ2 Kit", "type": "drums", "link": null },
-      { "name": "Meinl Cymbals", "type": "cymbals", "link": null },
-      { "name": "DW 9000 Double Pedal", "type": "hardware", "link": null },
-      { "name": "Regal Tip Sticks", "type": "sticks", "link": null }
+      { "name": "Paiste Signature / 2002 Series", "type": "cymbals", "link": null },
+      { "name": "Sonor Giant Step Double Pedal", "type": "hardware", "link": null },
+      { "name": "Vic Firth American Classic 5A", "type": "sticks", "link": null }
     ],
     "learningTips": [
       "Practise walking and clapping a 7/8 pattern before playing it on the kit — embodied feeling precedes technical execution",
@@ -162,9 +162,9 @@ export const licks = {
     },
     "gearUsed": [
       { "name": "Sonor SQ2 Kit", "type": "drums", "link": null },
-      { "name": "Meinl Cymbals", "type": "cymbals", "link": null },
-      { "name": "DW 9000 Double Pedal", "type": "hardware", "link": null },
-      { "name": "Regal Tip Sticks", "type": "sticks", "link": null }
+      { "name": "Paiste Signature / 2002 Series", "type": "cymbals", "link": null },
+      { "name": "Sonor Giant Step Double Pedal", "type": "hardware", "link": null },
+      { "name": "Vic Firth American Classic 5A", "type": "sticks", "link": null }
     ],
     "learningTips": [
       "Practise locking the bass drum and hi-hat to a click while freeing the snare to land on any subdivision — the two layers should not influence each other",

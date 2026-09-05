@@ -5,6 +5,38 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-09-05 03:00 UTC*
 
 ---
+## 2026-09-05 14:37 — Mid-day pulse: 7 fresh gearComparisons/cymbalSetups/snares/pedals proposals promoted (#6975-6981)
+
+### Context (≤3 lines)
+First run after 13:00 UTC = today's mid-day pulse. Metrics 14:37 UTC (319 users/360 sessions/480 views 7d; GSC 8,571 impr/189 clicks/2.21% CTR/pos 9.0). Eligible `ai-fix` backlog 0 at run start (this morning's #6956-6962/#6973 batch already merged — 0 open PRs; the 20 standing `hold`-labeled roster/band splits remain), 7 fresh untriaged `seo-proposal` (#6975-6981, filed 11:08-11:09 UTC) plus the 3 standing L1/L2/L3 umbrellas (#3810/#2211/#3819).
+
+### Actions taken
+- **Promoted all 7** (`ai-fix`): same systemic gear-brand-fabrication class as the last several weeks, this batch spread across `cymbalSetups.js`, `pedalReferencePages.js`, `snareBestForMetal.js`+`snareReferencePages.js`, `gearComparisons.js` (3 separate issues), and `drummersByKit.js`. #6975 (Bill Ward + Aquiles Priester cymbals wholesale wrong-brand vs verified Zildjian/Sabian), #6976 (George Kollias pedal misnamed "Demon Drive" vs verified "Demon XR" — correctly leaves Gene Hoglan's genuine Demon Drive mention untouched), #6977 (Chris Adler snare mislabeled "Mapex Black Panther" — that's a different Mapex artist's line, vs verified Chris Adler Signature Walnut/Maple), #6978 (Charlie Benante + Ray Luzier wrongly in a Zildjian A Custom `usedBy` list, verified Paiste/Sabian respectively), #6979 (Gene Hoglan wrongly listed as current Tama drums/pedal user across 4 `gearComparisons.js` locations, verified Pearl since 2018), #6980 (Brann Dailor wrongly in a DW Collector's Series `usedBy` list, verified Tama since 2002), #6981 (drummersByKit.js 3 fabricated entries: Mikkey Dee never used Yamaha at all — wrong page entirely — plus Gene Hoglan/Igor Cavalera wrong-era brands). Read all 7 bodies directly: each cites a specific `endorsementNews.js` verified line contradicting the current file content, all single- or dual-file, all subtractive-or-corrective (no new pages/URLs). Searched all-state issues per file+drummer for all 7 — no true duplicates (closed hits are different files already fixed, e.g. #6979/#6978's drummers have prior closed issues in `albumArticles.js`/`endorsementNews.js`/`/compare` pages, never `gearComparisons.js`'s `usedBy` arrays until now). Freeze-compliant depth work.
+- **Backlog gate**: 0 → 7, well under the 45/80 threshold; promoted liberally per rule.
+- **GSC content-gap**: same 3 rows as this morning's deep run (`danny carey drum kit`, `flo mounier`, `jaska raatikainen`) — all already covered by standing rulings/fixes (ceiling-hold, #6973, #6740 respectively). No new action.
+- **L1/L2/L3** (#3810/#2211/#3819): no fresh weekly refresh since 08-31 (due ~09-07); #2211's title still reads "33 of 100 do not cite" (67/100 cited), consistent with this morning's milestone note. Already fully triaged.
+- **Founder ideas**: inbox empty, unchanged since 06-19.
+- **Human-founder blockers**: unchanged, no re-spam.
+- **Stale-issue / atomic-split sweep**: same 20 pre-existing `hold`-labeled issues re-confirmed, none eligible. New promotions all single/dual-file, well under the atomic-split trigger.
+- **Starvation check**: post-triage backlog=7, bank=0 (excl. umbrellas) — technically under 15/≤2, but continues the established flowing cadence — not escalating.
+
+### State delta
+- ai-fix backlog: 0 → 7 (#6975-6981)
+- seo-proposal bank (excl. umbrellas): 7 → 0
+- Org/Sessions/Views (7d): 319/360/480 · GSC 8,571 impr/189 clicks/2.21% CTR/pos 9.0 (flat vs this morning)
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 7/7 fresh triaged, pattern-verified against cited source lines, promoted, no duplicates, freeze-compliant. ✅ GSC-gap: 3 rows re-confirmed already covered, no new fix needed. ✅ L1/L2/L3: no fresh snapshot since 08-31, already actioned. ✅ Starvation: technically met but judged healthy (flowing cadence). ✅ Atomic split: 20 stale issues re-checked, none eligible; new promotions all atomic. ✅ Decisions logged.
+
+### Next Run
+1. Watch #6975-6981 ship via Roadie/PR Merger.
+2. Watch for the next L1/L2/L3 weekly refresh (last one 08-31, due ~09-07) — confirm the 67/100 L2 milestone holds, then append to `learned-patterns.md`.
+3. First run after 19:00 UTC is today's evening review.
+4. If backlog is still <15 with an actually-starved (bank ≤2) proposal supply at the next run, that starts the starvation playbook.
+
+---
+
+---
 ## 2026-09-05 09:59 — Deep run: 7 fresh licks/*.js proposals promoted (#6956-6962); new GSC-gap fix filed (#6973, flo-mounier bare-name CTR)
 
 ### Context (≤3 lines)

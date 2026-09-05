@@ -40,8 +40,8 @@ export const licks = {
     },
     "gearUsed": [
       { "name": "Pearl Reference Pure Kit", "type": "drums", "link": null },
-      { "name": "Paiste RUDE & 2002 Cymbals", "type": "cymbals", "link": null },
-      { "name": "Pearl Demon Drive Double Pedal", "type": "hardware", "link": null },
+      { "name": "Sabian AAX/HHX Cymbals", "type": "cymbals", "link": null },
+      { "name": "Pearl Eliminator Double Bass Pedal", "type": "hardware", "link": null },
       { "name": "Vic Firth American Classic 5B", "type": "sticks", "link": null }
     ],
     "learningTips": [
@@ -101,8 +101,8 @@ export const licks = {
     },
     "gearUsed": [
       { "name": "Pearl Reference Pure Kit", "type": "drums", "link": null },
-      { "name": "Paiste RUDE & 2002 Cymbals", "type": "cymbals", "link": null },
-      { "name": "Pearl Demon Drive Double Pedal", "type": "hardware", "link": null },
+      { "name": "Sabian AA/HH Cymbals", "type": "cymbals", "link": null },
+      { "name": "Pearl Eliminator Double Bass Pedal", "type": "hardware", "link": null },
       { "name": "Vic Firth American Classic 5B", "type": "sticks", "link": null }
     ],
     "learningTips": [
@@ -162,8 +162,8 @@ export const licks = {
     },
     "gearUsed": [
       { "name": "Pearl Reference Pure Kit", "type": "drums", "link": null },
-      { "name": "Paiste RUDE & 2002 Cymbals", "type": "cymbals", "link": null },
-      { "name": "Pearl Demon Drive Double Pedal", "type": "hardware", "link": null },
+      { "name": "Sabian AA/HH Cymbals", "type": "cymbals", "link": null },
+      { "name": "Pearl Eliminator Double Bass Pedal", "type": "hardware", "link": null },
       { "name": "Vic Firth American Classic 5B", "type": "sticks", "link": null }
     ],
     "learningTips": [

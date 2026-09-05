@@ -46,7 +46,7 @@ export const PILLAR_PAGE = {
     { name: 'Pearl', note: 'Reference (brass/steel) and Masters (maple) series both show up widely, alongside several artist-signature models.' },
     { name: 'Ludwig', note: 'Home of the Black Beauty and Supraphonic — two of the most recorded metal shells (brass and aluminium/steel respectively) in drumming history.' },
     { name: 'Sonor', note: 'SQ2 (customizable maple) and several artist-signature models (Tomas Haake, Nicko McBrain) are common metal-roster picks.' },
-    { name: 'Mapex', note: 'Black Panther and artist-signature lines (Chris Adler) cover both metal shells and maple/walnut hybrids.' },
+    { name: 'Mapex', note: 'Black Panther and artist-signature lines (e.g. Chris Adler\'s own-name signature) cover both metal shells and maple/walnut hybrids.' },
     { name: 'DW', note: 'Collector\'s Series and Performance Series snares appear in both maple and steel across the verified roster.' },
   ],
   bestForMetal:

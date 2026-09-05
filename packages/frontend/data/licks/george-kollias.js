@@ -11,16 +11,16 @@ export const licks = {
     "drummerName": "George Kollias",
     "drummerSlug": "george-kollias",
     "band": "Nile",
-    "song": "Papyrus Containing the Spell to Preserve Its Possessor",
-    "album": "In Their Darkened Shrines (2002)",
+    "song": "Papyrus Containing the Spell to Preserve Its Possessor Against Attacks From He Who Is in the Water",
+    "album": "Ithyphallic (2007)",
     "category": "blast-technique",
     "style": "death-metal",
     "difficulty": "expert",
     "difficultyRating": 5,
-    "bpm": 280,
-    "bpmDisplay": "280+ BPM",
+    "bpm": 271,
+    "bpmDisplay": "271 BPM",
     "timeSignature": "4/4",
-    "description": "George Kollias is widely regarded as one of the fastest and most technically sophisticated drummers in extreme metal, and his gravity blast technique is the defining example of why. The gravity blast — also called the one-handed roll or rebound blast — involves using a single stick's natural rebound off the snare or hi-hat rim to generate a rapid-fire burst of strokes that would be impossible to match with traditional alternating alternating strokes. Where a conventional blast beat interleaves left and right hands to produce a continuous stream of notes, the gravity blast allows a single hand to produce the same density at even higher speed, while the other hand maintains a ride or hi-hat pattern on top. At 280+ BPM this becomes one of the most demanding techniques in all of drumming: the motion has to be completely relaxed, letting gravity and the stick's own bounce do the work, because any muscular tension will kill both speed and consistency. Kollias has demonstrated this technique in hundreds of live performances and clinic settings, showing how the physics of the bounce — not raw arm strength — is what makes the extreme velocity possible. \"Papyrus Containing the Spell to Preserve Its Possessor\" from Nile's 2002 album In Their Darkened Shrines is one of the earliest showcases of this approach, and the live footage of Kollias performing it remains essential viewing for any serious student of extreme metal drumming. For drummers approaching this technique, the first priority is internalising the rebound mechanics away from the kit entirely, feeling how gravity returns the stick before any muscle pull is needed. The technique rewards patience: rushing the speed before the mechanics are solid produces a messy, uneven result, while trusting the rebound produces something genuinely remarkable.",
+    "description": "George Kollias is widely regarded as one of the fastest and most technically sophisticated drummers in extreme metal, and his gravity blast technique is the defining example of why. The gravity blast — also called the one-handed roll or rebound blast — involves using a single stick's natural rebound off the snare or hi-hat rim to generate a rapid-fire burst of strokes that would be impossible to match with traditional alternating strokes. Where a conventional blast beat interleaves left and right hands to produce a continuous stream of notes, the gravity blast allows a single hand to produce the same density at even higher speed, while the other hand maintains a ride or hi-hat pattern on top. At 271 BPM — per album producer Neil Kernon — this becomes one of the most demanding techniques in all of drumming: the motion has to be completely relaxed, letting gravity and the stick's own bounce do the work, because any muscular tension will kill both speed and consistency. Kollias has demonstrated this technique in hundreds of live performances and clinic settings, showing how the physics of the bounce — not raw arm strength — is what makes the extreme velocity possible. \"Papyrus Containing the Spell to Preserve Its Possessor Against Attacks From He Who Is in the Water\" from Nile's 2007 album Ithyphallic is one of the standout showcases of this approach from Kollias's early tenure with the band, and his own live footage of performing it remains essential viewing for any serious student of extreme metal drumming. For drummers approaching this technique, the first priority is internalising the rebound mechanics away from the kit entirely, feeling how gravity returns the stick before any muscle pull is needed. The technique rewards patience: rushing the speed before the mechanics are solid produces a messy, uneven result, while trusting the rebound produces something genuinely remarkable.",
     "techniques": [
       "gravity-blast",
       "one-handed-roll",
@@ -37,7 +37,7 @@ export const licks = {
       "youtubeId": "sqk2wprx6j4",
       "startTime": 0,
       "title": "George Kollias - Papyrus Containing the Spell....Live",
-      "description": "George Kollias performing his gravity blast technique live with Nile on Papyrus Containing the Spell"
+      "description": "George Kollias performing his gravity blast technique live with Nile on Papyrus Containing the Spell, from his own official channel"
     },
     "gearUsed": [
       {
@@ -46,12 +46,12 @@ export const licks = {
         "link": null
       },
       {
-        "name": "Pearl Demon Drive Pedals",
+        "name": "Tama Iron Cobra HP900 Double Pedal",
         "type": "pedals",
         "link": null
       },
       {
-        "name": "Meinl Byzance Cymbals",
+        "name": "Paiste Signature Series",
         "type": "cymbals",
         "link": null
       }
@@ -118,12 +118,12 @@ export const licks = {
         "link": null
       },
       {
-        "name": "Pearl Demon Drive Pedals",
+        "name": "Tama Iron Cobra HP900 Double Pedal",
         "type": "pedals",
         "link": null
       },
       {
-        "name": "Meinl Byzance Cymbals",
+        "name": "Paiste Signature Series",
         "type": "cymbals",
         "link": null
       }
@@ -185,12 +185,12 @@ export const licks = {
     },
     "gearUsed": [
       {
-        "name": "Pearl Reference Series Kit",
+        "name": "Pearl Reference Pure",
         "type": "drums",
         "link": null
       },
       {
-        "name": "Pearl Demon Drive Pedals",
+        "name": "Tama Iron Cobra HP900 Double Pedal",
         "type": "pedals",
         "link": null
       },

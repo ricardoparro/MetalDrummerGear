@@ -40,7 +40,6 @@ export const licks = {
     },
     "gearUsed": [
       { "name": "Pearl Drums", "type": "drums", "link": null },
-      { "name": "Pearl JD1455 Signature Snare", "type": "snare", "link": null },
       { "name": "Sabian Cymbals", "type": "cymbals", "link": null },
       { "name": "Promark Drumsticks", "type": "sticks", "link": null }
     ],

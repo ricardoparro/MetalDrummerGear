@@ -129,7 +129,7 @@ export const gearComparisons = {
           manufacturing: 'Machine-hammered',
           origin: 'USA',
         },
-        usedBy: ['Lars Ulrich', 'Ray Luzier', 'John Otto', 'Charlie Benante'],
+        usedBy: ['Lars Ulrich', 'John Otto'],
         bestFor: 'Thrash metal, classic metal, nu-metal',
         rating: 4.6,
       },

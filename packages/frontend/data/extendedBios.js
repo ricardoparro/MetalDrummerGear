@@ -6263,7 +6263,7 @@ Hellhammer joined Mayhem in 1988, becoming their most enduring member and the rh
       { slug: 'cryptopsy', period: '1992-present', role: 'Drummer, founding member' }
     ],
     metaTitle: 'Flo Mounier Drum Kit & Gear Setup — Cryptopsy Drummer | MetalForge',
-    metaDescription: 'Complete biography of Flo Mounier, founding drummer of Cryptopsy. Explore his revolutionary technical death metal drumming, signature gear, and influence on extreme metal.',
+    metaDescription: "What gear does Flo Mounier play? Cryptopsy's drummer: Sabian AAX/HHX cymbals, Evans EC Reverse Dot heads, Vic Firth 5A sticks for his gravity-blast technique.",
     ogImage: '/images/drummers/flo-mounier.webp',
     sections: {
       overview: {

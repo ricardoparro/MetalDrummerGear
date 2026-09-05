@@ -40,9 +40,9 @@ export const licks = {
       "description": "Dimmu Borgir's official music video for Gateways from Abrahadabra, showcasing Daray's technical blast beat precision in a full orchestral symphonic black metal context"
     },
     "gearUsed": [
-      { "name": "Pearl Reference Series Kit", "type": "drums", "link": null },
+      { "name": "Pearl Reference Pure", "type": "drums", "link": null },
       { "name": "Pearl Reference 14\"x6.5\" Snare", "type": "snare", "link": null },
-      { "name": "Meinl Classics Custom Dark Cymbals", "type": "cymbals", "link": null },
+      { "name": "Paiste RUDE / 2002 Series", "type": "cymbals", "link": null },
       { "name": "Pearl Demon Drive Double Pedal", "type": "hardware", "link": null },
       { "name": "Vic Firth 5B", "type": "sticks", "link": null }
     ],
@@ -102,9 +102,9 @@ export const licks = {
       "description": "Dimmu Borgir's official live recording of Progenies of the Great Apocalypse from Forces of the Northern Night, featuring Daray's double bass precision with the Norwegian Radio Orchestra at Oslo Spektrum"
     },
     "gearUsed": [
-      { "name": "Pearl Reference Series Kit", "type": "drums", "link": null },
+      { "name": "Pearl Reference Pure", "type": "drums", "link": null },
       { "name": "Pearl Reference 14\"x6.5\" Snare", "type": "snare", "link": null },
-      { "name": "Meinl Classics Custom Dark Cymbals", "type": "cymbals", "link": null },
+      { "name": "Paiste RUDE / 2002 Series", "type": "cymbals", "link": null },
       { "name": "Pearl Demon Drive Double Pedal", "type": "hardware", "link": null },
       { "name": "Vic Firth 5B", "type": "sticks", "link": null }
     ],
@@ -164,9 +164,9 @@ export const licks = {
       "description": "Dimmu Borgir's official music video for Council of Wolves and Snakes from Eonian, showcasing Daray's groove architecture and orchestral interlocking technique in symphonic black metal"
     },
     "gearUsed": [
-      { "name": "Pearl Reference Series Kit", "type": "drums", "link": null },
+      { "name": "Pearl Reference Pure", "type": "drums", "link": null },
       { "name": "Pearl Reference 14\"x6.5\" Snare", "type": "snare", "link": null },
-      { "name": "Meinl Classics Custom Dark Cymbals", "type": "cymbals", "link": null },
+      { "name": "Paiste RUDE / 2002 Series", "type": "cymbals", "link": null },
       { "name": "Pearl Demon Drive Double Pedal", "type": "hardware", "link": null },
       { "name": "Vic Firth 5B", "type": "sticks", "link": null }
     ],

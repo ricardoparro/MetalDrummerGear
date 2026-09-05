@@ -100,10 +100,10 @@ export const licks = {
       "description": "Jay Weinberg's live drum-cam of The Devil in I, showing his dynamic control and groove"
     },
     "gearUsed": [
-      { "name": "SJC Custom Drums Kit", "type": "drums", "link": null },
-      { "name": "Zildjian A & K Custom Cymbals", "type": "cymbals", "link": null },
+      { "name": "Pearl Reference Pure Kit", "type": "drums", "link": null },
+      { "name": "Zildjian A Series Cymbals", "type": "cymbals", "link": null },
       { "name": "DW 9000 Series Double Pedal", "type": "hardware", "link": null },
-      { "name": "Vater Jay Weinberg 908 Signature", "type": "sticks", "link": null }
+      { "name": "Vic Firth Jay Weinberg Signature", "type": "sticks", "link": null }
     ],
     "learningTips": [
       "Map the song's dynamic sections before playing it through",

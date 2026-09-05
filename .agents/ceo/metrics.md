@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-09-05 14:37 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-09-05 19:57 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,48 +8,48 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 319 |
-| Sessions | 360 |
-| Page views | 480 |
-| Engagement rate | 50.28% |
-| Avg session (s) | 161 |
+| Active users | 327 |
+| Sessions | 372 |
+| Page views | 491 |
+| Engagement rate | 48.66% |
+| Avg session (s) | 158 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
 | / | 27 | 18 |
+| /drummer/mario-duplantier | 14 | 14 |
+| /drummer/john-otto | 13 | 12 |
 | /drummer/frost | 12 | 2 |
-| /drummer/john-otto | 12 | 12 |
-| /drummer/mario-duplantier | 12 | 14 |
 | /drummers | 11 | 4 |
-| /drummer/joey-jordison | 9 | 7 |
+| /drummer/joey-jordison | 10 | 7 |
 | /drummer/bill-ward | 8 | 6 |
 | /drummer/igor-cavalera | 8 | 7 |
 | /drummer/matt-greiner | 7 | 6 |
-| /drummers/joey-jordison/evolution | 7 | 3 |
+| /drummer/shannon-larkin | 7 | 5 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 287 | 252 |
-| Unassigned | 65 | 60 |
+| Organic Search | 293 | 254 |
+| Unassigned | 75 | 68 |
 | Direct | 49 | 44 |
-| Cross-network | 9 | 9 |
+| Cross-network | 11 | 11 |
 | Referral | 3 | 3 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 132 | 114 |
-| United Kingdom | 36 | 20 |
-| Canada | 20 | 18 |
+| United States | 133 | 115 |
+| United Kingdom | 37 | 21 |
+| Canada | 22 | 20 |
 | Australia | 15 | 14 |
 | China | 14 | 14 |
-| Brazil | 12 | 12 |
-| France | 12 | 12 |
+| Brazil | 13 | 13 |
+| France | 13 | 12 |
 | Spain | 9 | 9 |
+| Finland | 8 | 7 |
 | Germany | 8 | 8 |
-| Singapore | 8 | 8 |
 
 ## Search Console — Search performance
 | Metric | Last 7d |

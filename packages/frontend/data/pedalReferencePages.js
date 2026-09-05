@@ -111,7 +111,7 @@ export const DRIVE_TYPES_PAGE = {
     {
       heading: 'Why extreme metal gravitates to direct drive',
       body:
-        'Direct drive\'s biggest advantage — instant, zero-lag transfer from foot to beater — matters most exactly where extreme metal lives: sustained, maximum-speed single-stroke and blast-beat patterns where even microscopic response lag compounds over hundreds of strokes per minute. That\'s why Axis, a brand built entirely around direct drive, and the Pearl Demon Drive (used across the verified roster by drummers including George Kollias, Gene Hoglan, and several black and death metal specialists) are the go-to choice for drummers chasing raw, sustained top-end speed, while chain drive remains the comfortable, versatile default for every other style of metal.',
+        'Direct drive\'s biggest advantage — instant, zero-lag transfer from foot to beater — matters most exactly where extreme metal lives: sustained, maximum-speed single-stroke and blast-beat patterns where even microscopic response lag compounds over hundreds of strokes per minute. That\'s why Axis, a brand built entirely around direct drive, and Pearl\'s direct-drive Demon line (Gene Hoglan\'s Demon Drive, George Kollias\'s co-designed signature Demon XR, and several black and death metal specialists on both) are the go-to choice for drummers chasing raw, sustained top-end speed, while chain drive remains the comfortable, versatile default for every other style of metal.',
     },
   ],
   table: DRIVE_TYPES_TABLE,

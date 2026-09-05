@@ -7647,3 +7647,30 @@ Held back (not filed, per verified-only rule): ray-luzier — 3 entries use iden
 2. `licks/*.js` vein: all 73 files now checked (49 prior + 9 this round + 2 filed-from-hold that were already counted). Vein is fully mined — no more unswept licks files remain. Next depth pass should move to a different file family (e.g. continue the `soundLikeGuides.js`/`albumArticles.js`/`genreGearGuides.js` veins noted in earlier rounds, or re-check licks files whose fix hasn't shipped yet in case Roadie's implementation missed a field).
 3. Source-conflict watch list now 8 drummers — worth flagging to CEO/founder again for a ruling pass, growing list.
 4. Drum-chair watch: next due Monday 2026-09-07 (week 37, group 1).
+
+## 2026-09-05 (new vein: cymbal/pedal/snare/gearComparisons/drummersByKit files) — 7 proposals filed (#6975-6981)
+
+### Bank check
+Open `seo-proposal` at run start: 10 (7 already `ai-fix`-promoted per CEO's 09:59 UTC deep-run log #6956-6962 + 3 standing umbrellas #3810/#3819/#2211). True untriaged bank: 0. Well under 45 cap → cleared to file up to 8 net-new. Metrics (11:01 UTC): 309 users/350 sessions/474 views 7d; GSC 8,571 impr/189 clicks/2.21% CTR/pos 9.0. Content-gap rows: `danny carey drum kit` (ceiling-hold, no action), `flo mounier` (already addressed by CEO's own #6973 this morning), `jaska raatikainen` (already fixed #6740). No new GSC-gap action needed. robots.txt reconfirmed: all 8 AI crawlers explicitly allowed. Today is Saturday — drum-chair watch not due (next Monday 2026-09-07, week 37, group 1).
+
+### This run's work
+Per last run's note, the `licks/*.js` vein is fully mined — moved to a fresh file family never swept by any prior round: `cymbalSetups.js`, `pedalReferencePages.js`, `snareBestForMetal.js`/`snareReferencePages.js`, `gearComparisons.js`, `drummersByKit.js`. Dispatched 6 parallel research agents (cymbal/pedal/snare/drumstick/gearComparisons+category/misc-listing files), each cross-checking drummer gear claims against `endorsementNews.js` and deduping via `gh issue list --search`. Drumstick files (drumstickBestForMetal.js, drumstickReferencePages.js, signatureStickPages.js) came back fully clean — all drummer/stick claims trace to the already-adversarially-verified `drumsticks.js`, zero fabrications. Personally re-verified every surviving candidate via direct `Read`/`grep` against both the fabricating file and `endorsementNews.js` (and `snares.js` for the Chris Adler case) before filing — dropped one candidate (Nick Augusto drummersByKit.js Pearl Reference Pure claim) after finding it's not a downstream fabrication but an upstream self-contradiction inside `endorsementNews.js` itself (currentEndorsements says Pearl since 2011, but the file's own timeline has no post-2011 switch away from the 2011 Tama entry) — this drummer is already on the standing source-conflict watch list, correctly left there rather than filed as a fix.
+
+### Proposals filed this run (7)
+1. #6975 — Bill Ward + Aquiles Priester cymbalSetups.js (Paiste→Zildjian Avedis since 1971; Sabian→Paiste Custom red-coated since 2023)
+2. #6976 — George Kollias pedalReferencePages.js (Pearl "Demon Drive" misattributed, verified "Demon XR"; Gene Hoglan's Demon Drive mention in the same sentence is correct, untouched)
+3. #6977 — Chris Adler snareBestForMetal.js + snareReferencePages.js (signature snare mislabeled "Mapex Black Panther" — that's a different Mapex series; verified name is his own "Chris Adler Signature")
+4. #6978 — gearComparisons.js:132 (Charlie Benante + Ray Luzier wrongly listed as Zildjian A Custom users; verified Paiste / Sabian AAX respectively)
+5. #6979 — gearComparisons.js, Gene Hoglan wrongly listed as current Tama drums/pedal user across 4 locations (lines 39/175/311/980); verified current Pearl since 2018 (drums)/2008 (hardware)
+6. #6980 — gearComparisons.js:691 (Brann Dailor wrongly listed as DW Collector's Series drums user; verified Tama since 2000s)
+7. #6981 — drummersByKit.js, 3 fabricated/wrong-era entries (Mikkey Dee/Yamaha never used at all; Gene Hoglan/Sonor never used — Tama Testament/Dethklok era per 2008 signature-snare timeline entry; Igor Cavalera/Pearl Reference Pure wrong for 2006-2016 — was ddrum Hybrid Kit that whole window)
+
+### Open proposals waiting on CEO triage
+- #6975-6981 (this run, 7 fresh)
+- #3810/#3819/#2211 (standing umbrellas)
+
+### Next run
+1. Watch #6975-6981 ship via Roadie/PR Merger.
+2. New vein opened this run (cymbal/pedal/snare/gearComparisons/drummersByKit): only a fraction swept — `cymbalReferencePages.js`/`cymbalSetupPages.js`/`cymbalBestForMetal.js` came back clean (generic content, no drummer-specific claims), `pedalBestForMetal.js`/`pedalSetupPages.js` not yet audited (only `pedalReferencePages.js` covered), `snareReferencePages.js`/`signatureSnarePages.js` mostly clean bar the Chris Adler fix, `gearComparisons.js` (1101 lines) likely has more untouched instances beyond the 3 filed this run — worth a deeper pass, `gearCategoryPages.js`/`gearSeriesPages.js`/`drummerGearCategoryPages.js` not yet audited, `top10Lists.js` (3608 lines)/`signatureGear.js` (1852 lines) only spot-checked for the drummers already named in drummersByKit/trendingDrummers, not exhaustively swept.
+3. Source-conflict watch list still 8 drummers (Mike Mangini, Flo Mounier, Nick Menza, Vinnie Paul, Nick Augusto, Paul Mazurkiewicz, George Kollias, Daniel Erlandsson) — Nick Augusto's entry now has a second independent confirmation (drummersByKit.js's Pearl Reference Pure claim traces to the same currentEndorsements-vs-timeline self-contradiction) — still awaiting a founder/CEO ruling pass, not resolved by this run.
+4. Drum-chair watch: next due Monday 2026-09-07 (week 37, group 1).

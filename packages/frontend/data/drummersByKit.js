@@ -60,14 +60,6 @@ export const DRUMMERS_BY_KIT = {
       config: 'Pearl Reference Pure (22"×18" Bass, 10"×8", 12"×9", 14"×12", 16"×14" Toms)',
       endorsee: true,
     },
-    {
-      slug: 'igor-cavalera',
-      name: 'Igor Cavalera',
-      band: 'Sepultura / Cavalera Conspiracy',
-      yearsUsed: '2006–2016',
-      config: 'Pearl Reference Pure (22"×18" Bass, 10"×8", 12"×9", 14"×12", 16"×14" Toms)',
-      endorsee: false,
-    },
   ],
   'sonor/sq2-heavy-maple': [],
   // Issue #2405 (split 3/4 of #2215): Sonor SQ2 general page (/gear/sonor/sq2/)
@@ -79,14 +71,6 @@ export const DRUMMERS_BY_KIT = {
       yearsUsed: '2002–present',
       config: 'Sonor SQ2 Heavy Beech (24"×18" Bass ×2, 10"×8", 12"×9", 14"×12", 16"×16", 18"×16" Toms)',
       endorsee: true,
-    },
-    {
-      slug: 'gene-hoglan',
-      name: 'Gene Hoglan',
-      band: 'Testament / Dethklok',
-      yearsUsed: '2007–2014',
-      config: 'Sonor SQ2 Heavy Maple (22"×18" Bass, 10"×8", 12"×9", 14"×12", 16"×14" Toms)',
-      endorsee: false,
     },
   ],
   'mapex/orion': [],
@@ -141,14 +125,6 @@ export const DRUMMERS_BY_KIT = {
   ],
   // Issue #2406 (split 4/4 of #2215): Yamaha Recording Custom page (/gear/yamaha/recording-custom/)
   'yamaha/recording-custom': [
-    {
-      slug: 'mikkey-dee',
-      name: 'Mikkey Dee',
-      band: 'Scorpions / Motörhead',
-      yearsUsed: '1992–present',
-      config: 'Yamaha Recording Custom (22"×18" Bass, 10"×8", 12"×9", 13"×11", 16"×14" Toms)',
-      endorsee: true,
-    },
     {
       slug: 'nicko-mcbrain',
       name: 'Nicko McBrain',

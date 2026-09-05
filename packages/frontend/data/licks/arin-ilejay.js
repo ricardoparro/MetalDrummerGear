@@ -41,12 +41,12 @@ export const licks = {
     },
     "gearUsed": [
       {
-        "name": "PDP Concept Series Custom Maple Kit",
+        "name": "DW Collector's Series",
         "type": "drums",
         "link": null
       },
       {
-        "name": "Sabian AAX Series Cymbals",
+        "name": "Zildjian A Custom Series",
         "type": "cymbals",
         "link": null
       },
@@ -119,12 +119,12 @@ export const licks = {
     },
     "gearUsed": [
       {
-        "name": "PDP Concept Series Custom Maple Kit",
+        "name": "DW Collector's Series",
         "type": "drums",
         "link": null
       },
       {
-        "name": "Sabian AAX Series Cymbals",
+        "name": "Zildjian A Custom Series",
         "type": "cymbals",
         "link": null
       },
@@ -197,12 +197,12 @@ export const licks = {
     },
     "gearUsed": [
       {
-        "name": "PDP Concept Series Custom Maple Kit",
+        "name": "DW Collector's Series",
         "type": "drums",
         "link": null
       },
       {
-        "name": "Sabian AAX Series Cymbals",
+        "name": "Zildjian A Custom Series",
         "type": "cymbals",
         "link": null
       },

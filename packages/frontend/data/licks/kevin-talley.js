@@ -40,8 +40,8 @@ export const licks = {
     },
     "gearUsed": [
       { "name": "Pearl Masters Kit", "type": "drums", "link": null },
-      { "name": "Meinl Cymbals", "type": "cymbals", "link": null },
-      { "name": "Trick Pro1-V Double Pedal", "type": "hardware", "link": null },
+      { "name": "Sabian AAX Series", "type": "cymbals", "link": null },
+      { "name": "Pearl Eliminator Double Pedal", "type": "hardware", "link": null },
       { "name": "Vic Firth American Classic Sticks", "type": "sticks", "link": null }
     ],
     "learningTips": [
@@ -101,8 +101,8 @@ export const licks = {
     },
     "gearUsed": [
       { "name": "Pearl Masters Kit", "type": "drums", "link": null },
-      { "name": "Meinl Cymbals", "type": "cymbals", "link": null },
-      { "name": "Trick Pro1-V Double Pedal", "type": "hardware", "link": null },
+      { "name": "Sabian AAX Series", "type": "cymbals", "link": null },
+      { "name": "Pearl Eliminator Double Pedal", "type": "hardware", "link": null },
       { "name": "Vic Firth American Classic Sticks", "type": "sticks", "link": null }
     ],
     "learningTips": [
@@ -162,8 +162,8 @@ export const licks = {
     },
     "gearUsed": [
       { "name": "Pearl Masters Kit", "type": "drums", "link": null },
-      { "name": "Meinl Cymbals", "type": "cymbals", "link": null },
-      { "name": "Trick Pro1-V Double Pedal", "type": "hardware", "link": null },
+      { "name": "Sabian AAX Series", "type": "cymbals", "link": null },
+      { "name": "Pearl Eliminator Double Pedal", "type": "hardware", "link": null },
       { "name": "Vic Firth American Classic Sticks", "type": "sticks", "link": null }
     ],
     "learningTips": [

@@ -3948,12 +3948,15 @@ Before joining Judas Priest, Travis was a founding member of neo-classical metal
     metaTitle: 'Mikkey Dee Drum Kit & Gear Setup — Motörhead & Scorpions Drummer | MetalForge',
     metaDescription: 'Complete biography of Mikkey Dee, legendary drummer for Motörhead and Scorpions. Explore his career with Lemmy, King Diamond, and his powerful drumming style.',
     ogImage: '/images/drummers/mikkey-dee.webp',
+    lastUpdated: '2026-09-05',
     sections: {
       overview: {
         title: 'Overview',
         content: `Mikkey Dee (born Micael Kiriakos Delaoglou; October 31, 1963, in Gothenburg, Sweden) is a Swedish drummer best known for his work with Motörhead from 1992 until Lemmy's death in 2015, and currently with German rock legends Scorpions since 2016.
 
-Dee's powerful, hard-hitting style perfectly complemented Lemmy's raw, loud approach in Motörhead. Before Motörhead, he was the drummer for King Diamond's band, showcasing his versatility across different metal styles. His drumming combines raw power with technical proficiency, making him one of rock and metal's most respected drummers.`
+Dee's powerful, hard-hitting style perfectly complemented Lemmy's raw, loud approach in Motörhead. Before Motörhead, he was the drummer for King Diamond's band, showcasing his versatility across different metal styles. His drumming combines raw power with technical proficiency, making him one of rock and metal's most respected drummers.
+
+**October 31, 2026** marks Mikkey Dee's 63rd birthday. Fans continue to celebrate the anniversary by revisiting his Grammy-winning run with Motörhead and his ongoing tenure behind the kit for Scorpions.`
       },
       careerHighlights: {
         title: 'Career Highlights',
@@ -4033,12 +4036,14 @@ Dee's powerful, hard-hitting style perfectly complemented Lemmy's raw, loud appr
           'Joined Scorpions just months after Lemmy\'s death',
           'His real surname "Delaoglou" is of Greek origin',
           'King Diamond\'s "Abigail" is considered one of the best metal drum performances of the 1980s',
-          'Has stated Lemmy was like a brother to him'
+          'Has stated Lemmy was like a brother to him',
+          'Born October 31, 1963 — October 31, 2026 marks his 63rd birthday'
         ]
       },
       faq: {
         title: 'Frequently Asked Questions',
         items: [
+          { q: 'When was Mikkey Dee born?', a: 'Mikkey Dee was born Micael Kiriakos Delaoglou on October 31, 1963, in Gothenburg, Sweden, and turns 63 on October 31, 2026.' },
           { q: 'What band does Mikkey Dee play drums for?', a: 'Mikkey Dee has been the drummer for Scorpions since 2016. He previously drummed for Motörhead from 1992 until Lemmy Kilmister\'s death in 2015, and for King Diamond from 1985-1989.' },
           { q: 'What drums does Mikkey Dee play?', a: 'Mikkey Dee plays a Sonor SQ2 drum kit.' },
           { q: 'What drum kit does Mikkey Dee play?', a: 'Mikkey Dee\'s drum kit is a Sonor SQ2 shell pack, built around his Sonor Mikkey Dee Signature 14"x7.25" birch snare drum for extra depth and power.' },

@@ -5,6 +5,39 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-09-05 03:00 UTC*
 
 ---
+## 2026-09-05 09:59 — Deep run: 7 fresh licks/*.js proposals promoted (#6956-6962); new GSC-gap fix filed (#6973, flo-mounier bare-name CTR)
+
+### Context (≤3 lines)
+First run after 07:00 UTC = today's deep run. Metrics 09:58 UTC (308 users/349 sessions/472 views 7d; GSC 8,571 impr/189 clicks/2.21% CTR/pos 9.0). Eligible `ai-fix` backlog 0 at run start (all 20 open `ai-fix` remain `hold`-labeled freeze-blocked roster/band splits), 0 open PRs, 7 fresh untriaged `seo-proposal` (#6956-6962, filed 05:05-05:10 UTC) plus the 3 standing L1/L2/L3 umbrellas (#3810/#3819/#2211).
+
+### Actions taken
+- **Promoted all 7** (`ai-fix`): same systemic gear-brand/era-fabrication class in `licks/*.js` as the last several days. #6956 (Gavin Harrison, 2007 gear cited on a 2002-dated track), #6957 (Alex Rüdinger, Meinl cymbals cited a year before he signed — 2013-2014 Faceless-era lick cites 2015-signed Meinl), #6958 (Blake Richardson, sticks fabricated as 5B vs verified 3A), #6959 (Daniel Erlandsson, Paiste cymbals + Pearl Demon Drive pedal fabricated across all 3 entries vs verified Sabian/Pearl Eliminator — also flags a genuine sticks cross-file conflict, ProMark vs Vic Firth, to the standing watch list rather than guessing), #6960 (Hannes Grossmann, 2011 Omnivium entry cites 2014+ DW gear vs verified Tama for that era), #6961 (Jay Weinberg, 2014 Gray Chapter entry cites 2019+ SJC/Vater vs verified Pearl/Vic Firth debut kit), #6962 (Jimmy DeGrasso, 2008 signature snare cited on a 2001-dated track). Live-verified 2 directly: **#6957** — grep confirmed `licks/alex-rudinger.js:44` still has "Meinl Byzance and MB20 Cymbals" against `endorsementNews.js:3259-3265`'s verified 2015 signing (one year after the cited 2013-2014 tenure). **#6959** — read confirmed `daniel-erlandsson.js` has "Paiste RUDE & 2002"/"Pearl Demon Drive" at all 3 entries against `endorsementNews.js:1892-1943`'s verified Sabian (never Paiste) and Pearl Eliminator (Demon Drive is a different, unverified pedal line). Searched all-state issues per drummer slug for all 7 — zero hits, no duplicates. All single-file, verified-only, zero new pages/URLs (freeze-compliant depth work).
+- **New GSC-gap fix filed** — **#6973**: `flo mounier` bare-name query flagged by metrics.md's content-gap filter (67 impr, 1.49% CTR, pos 8.7 — first time this exact row crosses the impr≥50 threshold). Read confirmed `extendedBios.js:8`'s `metaDescription` leads with "Complete biography of..." framing, the identical gap already fixed for `jaska-raatikainen` in #6740 (2026-09-02) using the proven question-led/query-matched format (Issue #1163). Filed as single-file, additive-refresh on an existing profile with GSC standing — freeze-compliant.
+- **GSC content-gap**: 3 rows flagged. `danny carey drum kit` (71 impr, 1.41% CTR, pos 12.1) — remains under the 2026-08-25 ceiling-hold ruling, no 6th fix. `jaska raatikainen` (74 impr, 1.35% CTR, pos 7.9) — already fixed by #6740 (2026-09-02), next weekly GSC refresh will verify. `flo mounier` (67 impr, 1.49% CTR, pos 8.7) — new, addressed above via #6973.
+- **L1/L2/L3**: both snapshot files carry file-checkout mtimes of 09-05 09:58 but their internal `**Generated:**` timestamps are still **2026-08-31** (confirmed via grep) — no fresh weekly refresh yet (due ~09-07), already fully triaged in prior runs. **L2 milestone note**: issue #2211's live body now shows **67/100 cited** (up from 43/100 noted in CLAUDE.md's 07-16 strategic snapshot, and 8/84 at the original 2026-07-14 crisis point) — the L2 minimum-pressure rule (binding below 25/84) is now comfortably inactive; citation growth has been a side-effect of the ongoing gear-fabrication-fix cadence (accurate verified data → more LLM-citable facts), not dedicated L2 pattern work. Worth a `learned-patterns.md` append if this holds across the next weekly refresh.
+- **Founder ideas**: inbox empty, unchanged since 06-19.
+- **Human-founder blockers**: #5141/#5100/#4892/#875/#529/#526/#525 — all `updatedAt` unchanged, no re-spam.
+- **Stale-issue / atomic-split sweep**: same 20 pre-existing `ai-fix` issues re-confirmed `hold`-labeled, freeze-blocked, none eligible. New promotions all single-file, well under the atomic-split trigger.
+- **Starvation check**: post-triage backlog=8 (7 licks fixes + #6973), bank=0 (excl. umbrellas) — technically under 15/≤2, but continues the established flowing cadence (7-8 fresh proposals per cycle for weeks) — not escalating.
+
+### State delta
+- ai-fix backlog: 0 → 8 (#6956-6962, #6973)
+- seo-proposal bank (excl. umbrellas): 7 → 0
+- Org/Sessions/Views (7d): 308/349/472 · GSC 8,571 impr/189 clicks/2.21% CTR/pos 9.0 (impressions up vs prior runs, CTR/pos flat)
+- L2 citations: 67/100 cited (per #2211 live body) — up from the 43/100 figure in CLAUDE.md's strategic snapshot; milestone, not yet logged to learned-patterns.md pending next weekly refresh confirmation
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 7/7 fresh triaged, live-verified (2 direct + 5 pattern-match), promoted, no duplicates, freeze-compliant. ✅ GSC-gap: 3 rows reviewed, 1 new fix filed (#6973), 2 already covered by standing rulings. ✅ L1/L2/L3: no fresh snapshot since 08-31, already actioned; L2 milestone noted (67/100). ✅ Starvation: technically met but judged healthy (flowing cadence). ✅ Atomic split: 20 stale issues re-checked, all `hold`-labeled, none eligible; new promotions all atomic. ✅ Decisions logged.
+
+### Next Run
+1. Watch #6956-6962/#6973 ship via Roadie/PR Merger.
+2. Watch for the next L1/L2/L3 weekly refresh (last one 08-31, due ~09-07) — if it confirms 67/100+ cited holding, append the milestone to `learned-patterns.md`.
+3. First run after 13:00 UTC is today's mid-day pulse: check Roadie's progress on opened issues.
+4. If backlog is still <15 with an actually-starved (bank ≤2) proposal supply at the next run, that starts the starvation playbook.
+
+---
+
+---
 ## 2026-09-05 03:00 — Cheap pulse: 8 fresh licks/*.js gear-fabrication proposals promoted (#6934-6939, #6942-6943)
 
 ### Context (≤3 lines)

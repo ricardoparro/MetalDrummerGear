@@ -42,7 +42,7 @@ export const licks = {
       { "name": "Mapex Saturn Series Kit", "type": "drums", "link": null },
       { "name": "Sabian HH & HHX Cymbals", "type": "cymbals", "link": null },
       { "name": "Axis A Double Pedal", "type": "hardware", "link": null },
-      { "name": "Vater Fusion 55A", "type": "sticks", "link": null }
+      { "name": "Vic Firth Aquiles Priester Signature", "type": "sticks", "link": null }
     ],
     "learningTips": [
       "Build the double bass slowly and evenly — never sacrifice evenness for speed",
@@ -103,7 +103,7 @@ export const licks = {
       { "name": "Mapex Saturn Series Kit", "type": "drums", "link": null },
       { "name": "Sabian HH & HHX Cymbals", "type": "cymbals", "link": null },
       { "name": "Axis A Double Pedal", "type": "hardware", "link": null },
-      { "name": "Vater Fusion 55A", "type": "sticks", "link": null }
+      { "name": "Vic Firth Aquiles Priester Signature", "type": "sticks", "link": null }
     ],
     "learningTips": [
       "Learn the song section by section before attempting it in full",
@@ -164,7 +164,7 @@ export const licks = {
       { "name": "Mapex Saturn Series Kit", "type": "drums", "link": null },
       { "name": "Sabian HH & HHX Cymbals", "type": "cymbals", "link": null },
       { "name": "Axis A Double Pedal", "type": "hardware", "link": null },
-      { "name": "Vater Fusion 55A", "type": "sticks", "link": null }
+      { "name": "Vic Firth Aquiles Priester Signature", "type": "sticks", "link": null }
     ],
     "learningTips": [
       "Build to full speed in stages — only push once the current tempo feels effortless",

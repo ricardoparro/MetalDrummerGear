@@ -396,7 +396,6 @@ export const gearComparisons = {
         ],
         usedBy: [
           { name: 'Lars Ulrich', band: 'Metallica', series: 'A Custom', note: 'Thrash metal pioneer' },
-          { name: 'Danny Carey', band: 'Tool', series: 'K/Constantinople', note: 'Prog metal complexity' },
           { name: 'Mario Duplantier', band: 'Gojira', series: 'K Custom/A Custom', note: 'Modern prog metal' },
           { name: 'Jay Weinberg', band: 'Slipknot', series: 'K/A Custom', note: 'Extreme metal' },
           { name: 'Hellhammer', band: 'Mayhem/Dimmu Borgir', series: 'A Custom/Z Custom', note: 'Black metal' },
@@ -476,7 +475,7 @@ For metal drummers, the choice often comes down to: do you want the 400-year leg
           { genre: 'Thrash Metal', zildjian: '★★★★★', sabian: '★★★★☆', notes: 'A Custom was literally designed for this. Both work, Zildjian has more legacy picks.' },
           { genre: 'Death Metal', zildjian: '★★★★☆', sabian: '★★★★★', notes: 'Gene Hoglan\'s AAX choice influential. Compression Hi-Hats game-changing for blast beats.' },
           { genre: 'Black Metal', zildjian: '★★★★★', sabian: '★★★☆☆', notes: 'Hellhammer, Frost, most black metal drummers choose Zildjian for cold brightness.' },
-          { genre: 'Progressive Metal', zildjian: '★★★★★', sabian: '★★★★★', notes: 'Tied. Danny Carey (Zildjian K) vs Mike Portnoy (Sabian HHX) — both legendary.' },
+          { genre: 'Progressive Metal', zildjian: '★★★★★', sabian: '★★★★★', notes: 'Tied. Mario Duplantier (Zildjian K) vs Mike Portnoy (Sabian HHX) — both legendary.' },
           { genre: 'Groove Metal', zildjian: '★★★★☆', sabian: '★★★★★', notes: 'Vinnie Paul established the Sabian groove metal sound.' },
           { genre: 'Djent', zildjian: '★★★★☆', sabian: '★★★★★', notes: 'Tomas Haake\'s Meshuggah setup defined the genre. Sabian dominates here.' },
           { genre: 'Nu-Metal', zildjian: '★★★★★', sabian: '★★★★☆', notes: 'Lars Ulrich, John Otto favor Zildjian. But Ray Luzier (Korn) proves Sabian works.' },
@@ -531,12 +530,6 @@ For metal drummers, the choice often comes down to: do you want the 400-year leg
         band: 'Death/Testament', 
         brand: 'Sabian', 
         quote: 'AAX gives me the brightness and definition I need for technical playing at any tempo.', 
-      },
-      { 
-        name: 'Danny Carey', 
-        band: 'Tool', 
-        brand: 'Zildjian', 
-        quote: 'The K and Constantinople series have that dark complexity that suits what Tool does.', 
       },
     ],
     history: {
@@ -616,7 +609,7 @@ Today, Robert Zildjian has passed (2013), and Sabian continues under his vision.
 - You play thrash, black metal, or nu-metal and need cutting brightness
 - You want the 400-year heritage and proven quality
 - You need ultimate ride definition and bell projection
-- Danny Carey, Lars Ulrich, or Mario Duplantier are your sonic heroes
+- Lars Ulrich or Mario Duplantier are your sonic heroes
 
 **Choose Sabian if:**
 - You play progressive metal, djent, or groove metal

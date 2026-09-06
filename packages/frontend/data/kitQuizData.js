@@ -70,7 +70,7 @@ export const KIT_QUIZ_QUESTIONS = [
       snare: 'Sonor Tomas Haake Signature 14x6.25"',
       cymbals: 'Meinl Byzance & MB20 Series',
       hardware: 'Sonor Perfect Balance Pedal',
-      sticks: 'Vic Firth Tomas Haake Signature',
+      sticks: 'Wincent Tomas Haake Signature',
     },
     hint: '🔢 Polyrhythm Master - Swedish progressive pioneers',
     options: [5, 14, 18, 16], // Tomas, Danny Carey, Matt Halpern, Brann Dailor
@@ -124,9 +124,9 @@ export const KIT_QUIZ_QUESTIONS = [
     gear: {
       drums: 'Tama Starclassic Bubinga',
       snare: 'Tama Mario Duplantier Signature 14x6"',
-      cymbals: 'Meinl Byzance Traditional & Extra Dry',
+      cymbals: 'Zildjian K Custom / A Custom / Z Custom',
       hardware: 'Tama Speed Cobra Double Pedal',
-      sticks: 'Vic Firth Mario Duplantier Signature',
+      sticks: 'Tama Mario Duplantier Signature',
     },
     hint: '🐋 Flying Whale Grooves - French progressive death',
     options: [15, 5, 3, 25], // Mario, Tomas, Gene, Alex Bent

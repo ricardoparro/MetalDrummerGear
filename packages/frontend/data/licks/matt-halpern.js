@@ -41,18 +41,13 @@ export const licks = {
     },
     "gearUsed": [
       {
-        "name": "Mapex Saturn V MH Exotic Kit",
+        "name": "Pearl Reference Series",
         "type": "drums",
         "link": null
       },
       {
         "name": "Meinl Byzance Cymbals",
         "type": "cymbals",
-        "link": null
-      },
-      {
-        "name": "Mapex Falcon Double Pedal",
-        "type": "pedals",
         "link": null
       }
     ],
@@ -113,18 +108,13 @@ export const licks = {
     },
     "gearUsed": [
       {
-        "name": "Mapex Saturn V MH Exotic Kit",
+        "name": "Pearl Reference Series",
         "type": "drums",
         "link": null
       },
       {
         "name": "Meinl Byzance Cymbals",
         "type": "cymbals",
-        "link": null
-      },
-      {
-        "name": "Mapex Falcon Double Pedal",
-        "type": "pedals",
         "link": null
       }
     ],
@@ -185,18 +175,13 @@ export const licks = {
     },
     "gearUsed": [
       {
-        "name": "Mapex Saturn V MH Exotic Kit",
+        "name": "Pearl Reference Series",
         "type": "drums",
         "link": null
       },
       {
         "name": "Meinl Byzance Cymbals",
         "type": "cymbals",
-        "link": null
-      },
-      {
-        "name": "Mapex Falcon Double Pedal",
-        "type": "pedals",
         "link": null
       }
     ],
@@ -250,9 +235,8 @@ export const licks = {
       "Lock kick accents to the staccato guitar hits so drums and riff read as a single rhythmic organism"
     ],
     "gearUsed": [
-      { "name": "Mapex Saturn V MH Exotic Kit", "type": "drums", "link": null },
-      { "name": "Meinl Byzance Cymbals", "type": "cymbals", "link": null },
-      { "name": "Mapex Falcon Double Pedal", "type": "pedals", "link": null }
+      { "name": "Pearl Reference Series", "type": "drums", "link": null },
+      { "name": "Meinl Byzance Cymbals", "type": "cymbals", "link": null }
     ],
     "learningTips": [
       "Practise the ghost-note layer alone with a metronome before adding kick and snare",
@@ -304,9 +288,8 @@ export const licks = {
       "Track guitar accents with the hands even during the blast to keep the hybrid quality intact"
     ],
     "gearUsed": [
-      { "name": "Mapex Saturn V MH Exotic Kit", "type": "drums", "link": null },
-      { "name": "Meinl Byzance Cymbals", "type": "cymbals", "link": null },
-      { "name": "Mapex Falcon Double Pedal", "type": "pedals", "link": null }
+      { "name": "Pearl Reference Series", "type": "drums", "link": null },
+      { "name": "Meinl Byzance Cymbals", "type": "cymbals", "link": null }
     ],
     "learningTips": [
       "Build pure blast technique at a slower tempo before adding the syncopated kick displacement",
@@ -358,9 +341,8 @@ export const licks = {
       "Add kick complexity incrementally: ghost-note-only first, then add backbeat, then add the shifting kick pattern"
     ],
     "gearUsed": [
-      { "name": "Mapex Saturn V MH Exotic Kit", "type": "drums", "link": null },
-      { "name": "Meinl Byzance Cymbals", "type": "cymbals", "link": null },
-      { "name": "Mapex Falcon Double Pedal", "type": "pedals", "link": null }
+      { "name": "Pearl Reference Series", "type": "drums", "link": null },
+      { "name": "Meinl Byzance Cymbals", "type": "cymbals", "link": null }
     ],
     "learningTips": [
       "Use a practice pad before the kit — ghost-note control develops faster in total isolation of other sounds",

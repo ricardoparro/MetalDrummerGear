@@ -7779,4 +7779,34 @@ Filed the full 8-cap — all high-confidence, independently live-verified.
 2. `licks/` sweep now covers 42 of 73 files with a title-matched issue (31 + this run's 8 minus overlaps, plus the 2 dropped-as-lower-confidence). Remaining unaudited-by-title lick files worth a future pass: check the 73-file roster again next time this vein is picked up, since some "clean" verdicts above were soft (gene-hoglan, mike-portnoy) and could harden into findings if endorsementNews.js gains more dated timeline entries for those drummers.
 3. Flag for CEO: `licks/nick-augusto.js`'s issue (#7036) surfaces a `currentEndorsements.drums`-vs-`timeline` self-contradiction inside `endorsementNews.js` for Nick Augusto (Pearl vs Tama, both claimed for 2011) — worth a dedicated fix since other files may trust `currentEndorsements` blindly and inherit the same error.
 4. Drum-chair watch: next due Monday 2026-09-07 (week 37, group 1).
-4. Drum-chair watch: next due Monday 2026-09-07 (week 37, group 1).
+
+## 2026-09-06 (Sunday) ~15:55 UTC — SEO Agent run (3rd run today) — 8 proposals filed (#7048-7055)
+
+### Bank check
+Open `seo-proposal` bank at run start: 0 untriaged (`gh issue list --state open --label seo-proposal | grep -v ai-fix` → only the 3 standing umbrellas #3810/#3819/#2211; #7021/#7029-7036 all already carry `ai-fix` per CEO's 14:57 UTC mid-day pulse). Well under 45 → cleared to file up to 8 net-new. Metrics 15:53 UTC (316 users/356 sessions/490 views 7d; GSC 9,067 impr/211 clicks/2.33% CTR/pos 8.6, flat vs the 11:25 run). Content-gap queries (`flo mounier`, `jaska raatikainen`) both already fixed per CEO's decisions log — no new action. L1/L2/L3 snapshots still 2026-08-31 generation, refresh due tomorrow (09-07), not yet overdue. Sunday — drum-chair watch not due.
+
+### This run's work
+Continued the gear-fabrication-fix vein into fresh, previously-unswept surface: dispatched 3 parallel research agents over (1) `top10Lists.js` full read (3608 lines, only sampled in prior rounds), (2) the remaining `licks/*.js` files never title-matched by any prior issue, (3) `gearNews.js`/`gearPriceHistory.js`/`signatureLicks.js`/`techniques.js`/`battles.js`/`beginnerGuides.js`/brand-reference files (`brands.js`, `snareBrands.js`, `cymbalBrands.js`, `drumstickBrands.js`, `pedalBrands.js`). Combined return was far larger than the 8-cap (60+ individual candidate findings) — selected the 8 highest-confidence, highest-impact, non-overlapping batches and personally re-verified each via direct `Read`/`grep` against `endorsementNews.js` (not just trusting subagent output) before filing, catching one subagent error in the process: a "gene-hoglan cymbals=Sabian is wrong" claim actually matched `currentEndorsements` (Sabian AAX since 1991) even though it contradicts the same file's own timeline note ("upgraded to Zildjian A Custom" 1991) — an internal source conflict, not a lick-file bug. Scoped the gene-hoglan fix to drums-only and left cymbals untouched, flagging the conflict for the watch list instead of picking a side.
+
+### Proposals filed this run (8)
+1. #7048 — top10Lists.js: entire "best-metal-drummers-playing-dw-kits" list fabricated (7/7 entries wrong) + 4 duplicate cross-refs elsewhere in the file
+2. #7049 — top10Lists.js: 6 more wrong-brand/era claims (Lombardo era-reversed, Priester/Garstka stale-current, Scott Travis/Shannon Larkin/Daniel Erlandsson partial-field, Chris Adler fabricated brand-switch)
+3. #7050 — licks/joey-jordison.js: signature snare + Demon Drive pedal fabricated 9-11 years early across nearly every entry (high-traffic page per GA4 top-10)
+4. #7051 — licks/travis-orbin.js: entire rig fabricated (Pearl/Meinl/Vic Firth vs verified SJC/Zildjian/DW)
+5. #7052 — licks/isaac-lamb.js: hyper-specific models fabricated where endorsementNews.js has zero data (verified-only rule violation, incl. a DW pedal not even in his brand-only endorsements list)
+6. #7053 — licks/hellhammer.js + licks/inferno.js: brand already fixed by #6852, but era-dating never checked — gear predates real signing dates by 5-12 years
+7. #7054 — licks/gene-hoglan.js: drums fabricated Pearl across 5 pre-2018 entries (verified Tama); cymbals fabricated Paiste across 2 Dark Angel-era entries (verified Zildjian) — Sabian-cymbal entries and the Sabian/Zildjian internal conflict deliberately left untouched
+8. #7055 — gearPriceHistory.js batch: 20+ wrong-brand entries across drummers, incl. Pete Sandoval verified-null-rule violation (cymbals stated as Sabian B8 when endorsementNews.js explicitly marks the field null/undocumented)
+
+Filed the full 8-cap — all high-confidence, independently live-verified via direct grep/Read against endorsementNews.js's `currentEndorsements` AND `timeline` (checking both caught the gene-hoglan false positive above).
+
+### Open proposals waiting on CEO triage
+- #7048-7055 (this run, 8 fresh)
+- #3810/#3819/#2211 (standing umbrellas)
+
+### Next run
+1. Watch #7048-7055 ship via Roadie/PR Merger.
+2. `top10Lists.js` (3608 lines) now fully read — 2 batch issues filed (13+7 findings), likely still has more unswept surface given its size; worth a second, deeper pass in a future round if these ship clean.
+3. Large volume of findings NOT filed this round (deferred, quality-over-volume/8-cap): `pedalBrands.js` (7 findings), `snareBrands.js` (4 findings), `brands.js` (2 findings), `beginnerGuides.js` (3 findings) — small reference-page misattributions, good candidates for a single combined batch next round. Also ~13 more `licks/*.js` single-drummer findings from the signatureLicks.js sweep: matt-greiner, mikkey-dee, daniel-erlandsson, derek-roddy, nicko-mcbrain, dirk-verbeuren, paul-mazurkiewicz, alex-bent (pedal field only), shannon-larkin (cymbal-detail), frost, nick-menza, alex-rudinger, dave-lombardo (pedal field), lars-ulrich (sticks-era), charlie-benante (pedal, medium confidence), brann-dailor (pedal, medium confidence) — prioritize the high-confidence ones (matt-greiner, frost, nick-menza, alex-bent, shannon-larkin, lars-ulrich) first.
+4. Flag for CEO (repeated from 11:25 run): `licks/nick-augusto.js`'s issue (#7036) surfaces a `currentEndorsements`-vs-`timeline` self-contradiction inside `endorsementNews.js` itself — worth a dedicated fix. This run found a 2nd instance of the same class (gene-hoglan cymbals Sabian-vs-Zildjian, #7054) — now 2 confirmed internal-conflict cases found via cross-checking both fields; recommend the CEO/founder prioritize a ruling pass on the 8-drummer (soon 9-10) source-conflict watch list in `.agents/seo/learned-patterns.md`.
+5. Drum-chair watch: next due Monday 2026-09-07 (week 37, group 1).

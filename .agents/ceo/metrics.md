@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-09-06 14:57 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-09-06 15:53 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,10 +8,10 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 315 |
-| Sessions | 354 |
-| Page views | 488 |
-| Engagement rate | 63.28% |
+| Active users | 316 |
+| Sessions | 356 |
+| Page views | 490 |
+| Engagement rate | 62.92% |
 | Avg session (s) | 117 |
 
 ### Top pages (by page views, last 7d)
@@ -23,7 +23,7 @@
 | /drummer/bill-ward | 13 | 8 |
 | /drummers | 12 | 4 |
 | /drummer/joey-jordison | 11 | 8 |
-| /drummer/matt-greiner | 8 | 7 |
+| /drummer/matt-greiner | 9 | 8 |
 | /drummer/frost | 7 | 2 |
 | /drummer/igor-cavalera | 7 | 6 |
 | /drummer/chris-turner | 6 | 4 |
@@ -31,9 +31,9 @@
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 294 | 261 |
+| Organic Search | 296 | 262 |
 | Direct | 49 | 44 |
-| Unassigned | 20 | 17 |
+| Unassigned | 21 | 18 |
 | Referral | 2 | 2 |
 | AI Assistant | 1 | 1 |
 

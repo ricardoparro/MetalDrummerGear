@@ -80,11 +80,16 @@ export const GEAR_DATABASE = {
     { id: 'ahead-lars', name: 'Ahead Lars Ulrich Signature', brand: 'ahead', category: 'sticks', tier: 'mid', price: 45, keywords: ['lars', 'ulrich', 'ahead', 'aluminum'] },
     { id: 'promark-joey', name: 'Promark Joey Jordison Signature TX515W', brand: 'promark', category: 'sticks', tier: 'budget', price: 15, keywords: ['joey', 'jordison', 'promark'] },
     { id: 'promark-lombardo', name: 'Promark Dave Lombardo Signature', brand: 'promark', category: 'sticks', tier: 'budget', price: 15, keywords: ['dave', 'lombardo', 'promark'] },
+    { id: 'promark-hoglan', name: 'ProMark Classic Forward 2B', brand: 'promark', category: 'sticks', tier: 'budget', price: 15, keywords: ['gene', 'hoglan', 'classic forward', '2b', 'promark'] },
+    { id: 'promark-adler', name: 'Promark TX5AXW Chris Adler Signature', brand: 'promark', category: 'sticks', tier: 'budget', price: 15, keywords: ['chris', 'adler', 'tx5axw', 'promark'] },
+    { id: 'promark-halpern', name: 'Promark Matt Halpern Signature', brand: 'promark', category: 'sticks', tier: 'budget', price: 15, keywords: ['matt', 'halpern', 'promark'] },
     { id: 'vicfirth-kollias', name: 'Vic Firth George Kollias Signature', brand: 'vicfirth', category: 'sticks', tier: 'budget', price: 15, keywords: ['george', 'kollias', 'vic firth'] },
-    { id: 'vicfirth-haake', name: 'Vic Firth Tomas Haake Signature', brand: 'vicfirth', category: 'sticks', tier: 'budget', price: 15, keywords: ['tomas', 'haake', 'vic firth'] },
+    { id: 'wincent-haake', name: 'Wincent Tomas Haake Signature', brand: 'wincent', category: 'sticks', tier: 'budget', price: 15, keywords: ['tomas', 'haake', 'wincent'] },
     { id: 'vicfirth-5a', name: 'Vic Firth American Classic 5A', brand: 'vicfirth', category: 'sticks', tier: 'budget', price: 12, keywords: ['5a', 'american', 'classic', 'vic firth'] },
     { id: 'vicfirth-5b', name: 'Vic Firth American Classic 5B', brand: 'vicfirth', category: 'sticks', tier: 'budget', price: 12, keywords: ['5b', 'american', 'classic', 'vic firth'] },
     { id: 'vater-5a', name: 'Vater Hickory 5A', brand: 'vater', category: 'sticks', tier: 'budget', price: 12, keywords: ['5a', 'hickory', 'vater'] },
+    { id: 'vater-5b', name: 'Vater Hickory 5B', brand: 'vater', category: 'sticks', tier: 'budget', price: 12, keywords: ['5b', 'hickory', 'vater'] },
+    { id: 'tama-mario', name: 'Tama Mario Duplantier Signature', brand: 'tama', category: 'sticks', tier: 'budget', price: 15, keywords: ['mario', 'duplantier', 'tama'] },
   ],
 };
 
@@ -112,7 +117,7 @@ export const DRUMMER_GEAR = {
     snare: ['pearl-sensitone'],
     cymbals: ['sabian-aax'],
     hardware: ['pearl-demon-drive'],
-    sticks: ['vicfirth-5b'],
+    sticks: ['promark-hoglan'],
   },
   'dave-lombardo': {
     drums: ['tama-starclassic-maple'],
@@ -126,7 +131,7 @@ export const DRUMMER_GEAR = {
     snare: ['sonor-haake'],
     cymbals: ['sabian-hhx'],
     hardware: ['tama-speed-cobra'],
-    sticks: ['vicfirth-haake'],
+    sticks: ['wincent-haake'],
   },
   'george-kollias': {
     drums: ['pearl-masterworks'],
@@ -140,7 +145,7 @@ export const DRUMMER_GEAR = {
     snare: ['tama-bell-brass'],
     cymbals: ['paiste-2002'],
     hardware: ['tama-speed-cobra'],
-    sticks: ['promark-joey'],
+    sticks: ['vicfirth-5a'],
   },
   'ray-luzier': {
     drums: ['pearl-reference-series'],
@@ -196,28 +201,28 @@ export const DRUMMER_GEAR = {
     snare: ['tama-slp'],
     cymbals: ['meinl-byzance'],
     hardware: ['tama-speed-cobra'],
-    sticks: ['vicfirth-5a'],
+    sticks: ['tama-mario'],
   },
   'brann-dailor': {
     drums: ['dw-collectors'],
     snare: ['dw-collectors-snare'],
     cymbals: ['meinl-byzance'],
     hardware: ['dw-9000'],
-    sticks: ['vicfirth-5a'],
+    sticks: ['vater-5b'],
   },
   'chris-adler': {
     drums: ['mapex-saturn'],
     snare: ['tama-slp'],
     cymbals: ['meinl-byzance'],
     hardware: ['mapex-falcon'],
-    sticks: ['vicfirth-5b'],
+    sticks: ['promark-adler'],
   },
   'matt-halpern': {
     drums: ['pearl-masters'],
     snare: ['pearl-sensitone'],
     cymbals: ['meinl-byzance'],
     hardware: ['pearl-eliminator'],
-    sticks: ['vicfirth-5a'],
+    sticks: ['promark-halpern'],
   },
 };
 

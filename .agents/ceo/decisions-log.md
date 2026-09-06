@@ -5,6 +5,56 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-09-06 03:00 UTC*
 
 ---
+## 2026-09-06 10:17 — Deep run: 7 fresh gear-fabrication proposals promoted (#7016-7022), new files/vein this run
+
+### Context (≤3 lines)
+First run after 07:00 UTC — today's deep run. Metrics 10:17 UTC (307 users/344 sessions/480 views 7d; GSC 9,067 impr/211 clicks/2.33% CTR/pos 8.6, up vs the 03:00 run). Eligible `ai-fix` backlog 0 at run start (20 open, all still `hold`-labeled freeze-blocked roster/band splits, unchanged; prior batch #7012-7015 already shipped/closed), 0 open PRs, 7 fresh untriaged `seo-proposal` (#7016-7022, filed 05:25-05:26 UTC) plus the 3 standing L1/L2/L3 umbrellas (#3810/#3819/#2211).
+
+### Actions taken
+- **Promoted all 7** (`ai-fix`): same systemic gear-brand-fabrication class, spread across several files not previously audited for it. #7016 (`evolutionTimeline.js` — 2 prior "fixes" #5680/#5681 over-corrected: Dave Lombardo 1983/1986 entries flipped Pearl→Tama when he didn't sign Tama until years later per `endorsementNews.js:335-347`; Mario Duplantier 2004/2005 entries fabricated Tama pre-his-2010-signing, now de-branded per omit-if-unsure), #7017 (`evolutionTimeline.js` batch — 5 era-wrong `gearNotes`: Bill Ward Paiste→Super Zyn, Nicko McBrain Sonor→Pearl DLX (~27yr early), Lars Ulrich Tama→Camco (1yr early), Vinnie Paul ddrum→Tama (~18yr early), Eloy Casagrande Pearl→Tama ×2), #7018 (`snares.js` — first-ever audit of this file, 7 wrong entries incl. one wholly-invented brand "Greiner & Kilmer"), #7019 (`drumsticks.js` — Behemoth's Inferno wrong Vic Firth model, Derek Roddy fabricated signature model contradicting `signature: false`), #7020 (`gearSearchData.js` — 7 drummers' sticks defaulted to generic Vic Firth ids, incl. Eloy Casagrande wrongly pointing at Joey Jordison's own product id), #7021 (`gearSearchData.js` — Brann Dailor whole-brand DW fabrication incl. a DW-brand-page SEO keyword, John Otto stale pre-1999 Pearl era), #7022 (`kitQuizData.js` — **user-facing quiz correct-answers**, not just SEO copy: Tomas Haake Vic Firth→Wincent, Mario Duplantier cymbals Meinl→Zildjian + sticks Vic Firth→Tama). Live-verified 2 directly via full grep+read: **#7016** — confirmed `evolutionTimeline.js:211/268` still say Tama for Lombardo against `endorsementNews.js:335-347`'s Pearl-only timeline (1981 signed, 1986 renewed, no Tama entry), and lines 614/633 still say Tama for pre-2010 Duplantier against `endorsementNews.js:503-522`'s single 2010 signing entry. **#7018** — confirmed `snares.js:231-237` (Pearl, should be Tama per `endorsementNews.js:1339`), `:315-321` ("Greiner & Kilmer" literal invented brand vs verified Pearl signature snare `:898-901`), `:651-657` (Sonor, should be DW per `:2665-2678`, Sonor never appears in his record). Issues cross-reference each other to avoid double-fixing shared fields (#7019/#7021 sticks, #7020/#7021 don't overlap). Searched `is:open`+`state:all` per drummer/file — no duplicates. All single/dual-file, verified-only, zero new pages/URLs (freeze-compliant depth work).
+- **Backlog gate**: 0 → 7, well under the 45/80 threshold; promoted liberally per rule.
+- **GSC content-gap**: metrics.md flags `flo mounier` (82 impr, 1.22% CTR, pos 8.4) and `jaska raatikainen` (77 impr, 1.30% CTR, pos 8.4) — both already fixed (#6973 09-05, #6740 09-02 respectively); GSC 7-day window still rolling the fixes in. No new action.
+- **L1/L2/L3** (#3810/#3819/#2211): snapshot files still the 2026-08-31 generation, already fully triaged in prior runs (L2 67/100 cited, well above minimum-pressure floor; L3 89.2% indexed share). Next weekly refresh due ~09-07 (tomorrow) — watching for it explicitly.
+- **Founder ideas**: inbox empty, unchanged since 06-19.
+- **Human-founder blockers**: #5141/#5100/#4892/#875/#529/#526/#525 — all `updatedAt` unchanged, no re-spam.
+- **Stale-issue / atomic-split sweep**: re-confirmed all 20 pre-existing `ai-fix` issues (freeze-blocked roster/band splits) still `hold`-labeled, none eligible. New promotions all single/dual-file, well under the trigger.
+- **Starvation check**: post-triage backlog=7, bank=0 (excl. umbrellas) — numerically meets the trigger shape, but the SEO Agent has delivered a fresh batch every cycle for weeks straight — healthy, flowing cadence, not escalating.
+
+### State delta
+- ai-fix backlog: 0 → 7 (#7016-7022)
+- seo-proposal bank (excl. umbrellas): 7 → 0
+- Prior batch (#7012-7015) confirmed fully shipped: all closed since the 03:00 entry
+- Org/Sessions/Views (7d): 307/344/480 · GSC 9,067 impr/211 clicks/2.33% CTR/pos 8.6 (up vs 03:00's 7,285/165/2.26%/8.6)
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 7/7 fresh triaged, live-verified (2 direct + 5 pattern-match), promoted, no duplicates, freeze-compliant. ✅ GSC-gap: 2 rows re-confirmed already fixed, data lag. ✅ L1/L2/L3: no fresh snapshot since 08-31, already actioned, refresh due tomorrow. ✅ Starvation: technically met but judged healthy (SEO Agent flowing, consistent cadence). ✅ Atomic split: 20 stale issues re-checked, all `hold`-labeled, none eligible; new promotions all atomic. ✅ Decisions logged.
+
+### Next Run
+1. Watch #7016-7022 ship via Roadie/PR Merger.
+2. Mid-day pulse due ~13:00 UTC: check Roadie progress.
+3. **L1/L2/L3 weekly refresh due ~09-07 (tomorrow)** — if still 08-31-generation at next run, note overdue explicitly.
+4. If backlog is still <15 with an actually-starved (bank ≤2) proposal supply at the next run, that starts the starvation playbook.
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
 ## 2026-09-06 03:00 — Cheap pulse: 4 fresh gearComparisons/top10Lists gear-fabrication proposals promoted (#7012-7015)
 
 ### Context (≤3 lines)

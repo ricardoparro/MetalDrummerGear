@@ -46,7 +46,7 @@ export const licks = {
         "link": null
       },
       {
-        "name": "Axis Longboard Pedals",
+        "name": "Tama Speed Cobra Pedals",
         "type": "pedals",
         "link": null
       }
@@ -113,7 +113,7 @@ export const licks = {
         "link": null
       },
       {
-        "name": "Axis Longboard Pedals",
+        "name": "Tama Speed Cobra Pedals",
         "type": "pedals",
         "link": null
       }
@@ -185,7 +185,7 @@ export const licks = {
         "link": null
       },
       {
-        "name": "Axis Longboard Pedals",
+        "name": "Tama Speed Cobra Pedals",
         "type": "pedals",
         "link": null
       }
@@ -257,7 +257,7 @@ export const licks = {
         "link": null
       },
       {
-        "name": "Axis Longboard Pedals",
+        "name": "Tama Speed Cobra Pedals",
         "type": "pedals",
         "link": null
       }
@@ -329,7 +329,7 @@ export const licks = {
         "link": null
       },
       {
-        "name": "Axis Longboard Pedals",
+        "name": "Tama Speed Cobra Pedals",
         "type": "pedals",
         "link": null
       }

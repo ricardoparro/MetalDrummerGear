@@ -39,11 +39,9 @@ export const licks = {
       "description": "Mayhem's official live performance of Freezing Moon at Wacken Open Air 2024, showcasing Hellhammer's atmospheric black metal blast technique"
     },
     "gearUsed": [
-      { "name": "Sonor SQ2 Heavy Beech Kit", "type": "drums", "link": null },
-      { "name": "Sonor SQ2 Heavy Beech 14\"x5.5\" Snare", "type": "snare", "link": null },
-      { "name": "Paiste RUDE Cymbals", "type": "cymbals", "link": null },
-      { "name": "Axis Double Pedal", "type": "hardware", "link": null },
-      { "name": "Vic Firth American Classic 5B", "type": "sticks", "link": null }
+      { "name": "Sonor Kit", "type": "drums", "link": null },
+      { "name": "Sonor Snare", "type": "snare", "link": null },
+      { "name": "Paiste RUDE Cymbals", "type": "cymbals", "link": null }
     ],
     "learningTips": [
       "Listen to the track several times before playing — absorb the atmosphere you are trying to create",
@@ -101,11 +99,7 @@ export const licks = {
       "description": "Mayhem's official live video for Deathcrush, showcasing Hellhammer's original black metal speed metal battery"
     },
     "gearUsed": [
-      { "name": "Sonor SQ2 Heavy Beech Kit", "type": "drums", "link": null },
-      { "name": "Sonor SQ2 Heavy Beech 14\"x6.5\" Snare", "type": "snare", "link": null },
-      { "name": "Paiste RUDE Cymbals", "type": "cymbals", "link": null },
-      { "name": "Axis Double Pedal", "type": "hardware", "link": null },
-      { "name": "Vic Firth American Classic 5B", "type": "sticks", "link": null }
+      { "name": "Paiste RUDE Cymbals", "type": "cymbals", "link": null }
     ],
     "learningTips": [
       "Start by locking the bass drum and snare together at a moderate tempo before adding speed",
@@ -163,11 +157,9 @@ export const licks = {
       "description": "Mayhem's De Mysteriis Dom Sathanas title track, the nine-minute centrepiece of black metal's defining album showcasing Hellhammer's long-form mastery"
     },
     "gearUsed": [
-      { "name": "Sonor SQ2 Heavy Beech Kit", "type": "drums", "link": null },
-      { "name": "Sonor SQ2 Heavy Beech 14\"x5.5\" Snare", "type": "snare", "link": null },
-      { "name": "Paiste RUDE Cymbals", "type": "cymbals", "link": null },
-      { "name": "Axis Double Pedal", "type": "hardware", "link": null },
-      { "name": "Vic Firth American Classic 5B", "type": "sticks", "link": null }
+      { "name": "Sonor Kit", "type": "drums", "link": null },
+      { "name": "Sonor Snare", "type": "snare", "link": null },
+      { "name": "Paiste RUDE Cymbals", "type": "cymbals", "link": null }
     ],
     "learningTips": [
       "Listen to the full nine-minute track from start to finish without playing — map every section change",

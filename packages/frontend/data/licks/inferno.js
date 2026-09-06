@@ -42,7 +42,6 @@ export const licks = {
       { "name": "Pearl Reference Pure Series Kit", "type": "drums", "link": null },
       { "name": "Pearl Reference 14\"x5\" Snare", "type": "snare", "link": null },
       { "name": "Paiste RUDE Cymbals", "type": "cymbals", "link": null },
-      { "name": "Monolit Czarcie Kopyto Double Pedal", "type": "hardware", "link": null },
       { "name": "Vic Firth American Classic 5B", "type": "sticks", "link": null }
     ],
     "learningTips": [
@@ -161,7 +160,6 @@ export const licks = {
       { "name": "Pearl Reference Pure Series Kit", "type": "drums", "link": null },
       { "name": "Pearl Reference 14\"x5\" Snare", "type": "snare", "link": null },
       { "name": "Paiste RUDE Cymbals", "type": "cymbals", "link": null },
-      { "name": "Monolit Czarcie Kopyto Double Pedal", "type": "hardware", "link": null },
       { "name": "Vic Firth American Classic 5B", "type": "sticks", "link": null }
     ],
     "learningTips": [
@@ -275,7 +273,6 @@ export const licks = {
       { "name": "Pearl Reference Pure Series Kit", "type": "drums", "link": null },
       { "name": "Pearl Reference 14\"x5\" Snare", "type": "snare", "link": null },
       { "name": "Paiste RUDE Cymbals", "type": "cymbals", "link": null },
-      { "name": "Monolit Czarcie Kopyto Double Pedal", "type": "hardware", "link": null },
       { "name": "Vic Firth American Classic 5B", "type": "sticks", "link": null }
     ],
     "learningTips": [

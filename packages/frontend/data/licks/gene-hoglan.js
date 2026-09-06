@@ -41,7 +41,7 @@ export const licks = {
     },
     "gearUsed": [
       {
-        "name": "Pearl Drum Kit",
+        "name": "Tama Drum Kit",
         "type": "drums",
         "link": null
       },
@@ -113,7 +113,7 @@ export const licks = {
     },
     "gearUsed": [
       {
-        "name": "Pearl Drum Kit",
+        "name": "Tama Drum Kit",
         "type": "drums",
         "link": null
       },
@@ -185,7 +185,7 @@ export const licks = {
         "link": null
       },
       {
-        "name": "Paiste Cymbals",
+        "name": "Zildjian Cymbals",
         "type": "cymbals",
         "link": null
       },
@@ -247,7 +247,7 @@ export const licks = {
     "tutorial": null,
     "gearUsed": [
       {
-        "name": "Pearl Drum Kit",
+        "name": "Tama Drum Kit",
         "type": "drums",
         "link": null
       },
@@ -319,7 +319,7 @@ export const licks = {
     },
     "gearUsed": [
       {
-        "name": "Pearl Drum Kit",
+        "name": "Tama Drum Kit",
         "type": "drums",
         "link": null
       },
@@ -387,7 +387,7 @@ export const licks = {
     "tutorial": null,
     "gearUsed": [
       { "name": "Tama Drum Kit", "type": "drums", "link": null },
-      { "name": "Paiste Cymbals", "type": "cymbals", "link": null },
+      { "name": "Zildjian Cymbals", "type": "cymbals", "link": null },
       { "name": "Single Bass Drum Pedal", "type": "pedals", "link": null }
     ],
     "learningTips": [
@@ -498,7 +498,7 @@ export const licks = {
     "video": null,
     "tutorial": null,
     "gearUsed": [
-      { "name": "Pearl Drum Kit", "type": "drums", "link": null },
+      { "name": "Tama Drum Kit", "type": "drums", "link": null },
       { "name": "Sabian Cymbals", "type": "cymbals", "link": null },
       { "name": "Double Bass Pedals", "type": "pedals", "link": null }
     ],

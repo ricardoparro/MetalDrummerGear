@@ -51,7 +51,7 @@ export const licks = {
         "link": null
       },
       {
-        "name": "DW 9000 Bass Drum Pedals",
+        "name": "Sonor Giant Step Twin Effect Double Pedal",
         "type": "pedals",
         "link": null
       }
@@ -123,7 +123,7 @@ export const licks = {
         "link": null
       },
       {
-        "name": "DW 9000 Bass Drum Pedals",
+        "name": "Sonor Giant Step Twin Effect Double Pedal",
         "type": "pedals",
         "link": null
       }
@@ -195,7 +195,7 @@ export const licks = {
         "link": null
       },
       {
-        "name": "DW 9000 Bass Drum Pedals",
+        "name": "Sonor Giant Step Twin Effect Double Pedal",
         "type": "pedals",
         "link": null
       }
@@ -267,7 +267,7 @@ export const licks = {
         "link": null
       },
       {
-        "name": "DW 9000 Bass Drum Pedals",
+        "name": "Sonor Giant Step Twin Effect Double Pedal",
         "type": "pedals",
         "link": null
       }
@@ -339,7 +339,7 @@ export const licks = {
         "link": null
       },
       {
-        "name": "DW 9000 Bass Drum Pedals",
+        "name": "Sonor Giant Step Twin Effect Double Pedal",
         "type": "pedals",
         "link": null
       }
@@ -411,7 +411,7 @@ export const licks = {
         "link": null
       },
       {
-        "name": "DW 9000 Bass Drum Pedals",
+        "name": "Sonor Giant Step Twin Effect Double Pedal",
         "type": "pedals",
         "link": null
       }

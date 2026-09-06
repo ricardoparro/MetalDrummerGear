@@ -40,10 +40,10 @@ export const licks = {
       "description": "Fear Factory's Replica from Demanufacture — the definitive showcase of Raymond Herrera's machine-gun double bass technique"
     },
     "gearUsed": [
-      { "name": "Pearl Masters Series Kit", "type": "drums", "link": null },
+      { "name": "Tama Starclassic Kit", "type": "drums", "link": null },
       { "name": "Pearl 14\"x6.5\" Free-Floating Snare", "type": "snare", "link": null },
-      { "name": "Sabian HH & AAX Series Cymbals", "type": "cymbals", "link": null },
-      { "name": "Pearl Eliminator Double Pedal", "type": "hardware", "link": null },
+      { "name": "Zildjian Z Custom Cymbals", "type": "cymbals", "link": null },
+      { "name": "DW 5000 Series Double Pedal", "type": "hardware", "link": null },
       { "name": "Drum triggers (DDrum/Roland)", "type": "hardware", "link": null }
     ],
     "learningTips": [
@@ -103,10 +103,10 @@ export const licks = {
       "description": "Fear Factory's Edgecrusher from Obsolete — Raymond Herrera's industrial groove-metal drum pattern and syncopated kick technique"
     },
     "gearUsed": [
-      { "name": "Pearl Masters Series Kit", "type": "drums", "link": null },
+      { "name": "Tama Starclassic Kit", "type": "drums", "link": null },
       { "name": "Pearl 14\"x6.5\" Free-Floating Snare", "type": "snare", "link": null },
-      { "name": "Sabian HH & AAX Series Cymbals", "type": "cymbals", "link": null },
-      { "name": "Pearl Eliminator Double Pedal", "type": "hardware", "link": null },
+      { "name": "Zildjian Z Custom Cymbals", "type": "cymbals", "link": null },
+      { "name": "DW 5000 Series Double Pedal", "type": "hardware", "link": null },
       { "name": "Drum triggers (DDrum/Roland)", "type": "hardware", "link": null }
     ],
     "learningTips": [
@@ -166,10 +166,10 @@ export const licks = {
       "description": "Fear Factory's Linchpin from Digimortal — Raymond Herrera's snare and bass drum interplay and machine-precise fill technique"
     },
     "gearUsed": [
-      { "name": "Pearl Masters Series Kit", "type": "drums", "link": null },
+      { "name": "Tama Starclassic Kit", "type": "drums", "link": null },
       { "name": "Pearl 14\"x6.5\" Free-Floating Snare", "type": "snare", "link": null },
-      { "name": "Sabian HH & AAX Series Cymbals", "type": "cymbals", "link": null },
-      { "name": "Pearl Eliminator Double Pedal", "type": "hardware", "link": null },
+      { "name": "Zildjian Z Custom Cymbals", "type": "cymbals", "link": null },
+      { "name": "DW 5000 Series Double Pedal", "type": "hardware", "link": null },
       { "name": "Drum triggers (DDrum/Roland)", "type": "hardware", "link": null }
     ],
     "learningTips": [

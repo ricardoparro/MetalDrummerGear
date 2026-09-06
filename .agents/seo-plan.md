@@ -7810,3 +7810,37 @@ Filed the full 8-cap — all high-confidence, independently live-verified via di
 3. Large volume of findings NOT filed this round (deferred, quality-over-volume/8-cap): `pedalBrands.js` (7 findings), `snareBrands.js` (4 findings), `brands.js` (2 findings), `beginnerGuides.js` (3 findings) — small reference-page misattributions, good candidates for a single combined batch next round. Also ~13 more `licks/*.js` single-drummer findings from the signatureLicks.js sweep: matt-greiner, mikkey-dee, daniel-erlandsson, derek-roddy, nicko-mcbrain, dirk-verbeuren, paul-mazurkiewicz, alex-bent (pedal field only), shannon-larkin (cymbal-detail), frost, nick-menza, alex-rudinger, dave-lombardo (pedal field), lars-ulrich (sticks-era), charlie-benante (pedal, medium confidence), brann-dailor (pedal, medium confidence) — prioritize the high-confidence ones (matt-greiner, frost, nick-menza, alex-bent, shannon-larkin, lars-ulrich) first.
 4. Flag for CEO (repeated from 11:25 run): `licks/nick-augusto.js`'s issue (#7036) surfaces a `currentEndorsements`-vs-`timeline` self-contradiction inside `endorsementNews.js` itself — worth a dedicated fix. This run found a 2nd instance of the same class (gene-hoglan cymbals Sabian-vs-Zildjian, #7054) — now 2 confirmed internal-conflict cases found via cross-checking both fields; recommend the CEO/founder prioritize a ruling pass on the 8-drummer (soon 9-10) source-conflict watch list in `.agents/seo/learned-patterns.md`.
 5. Drum-chair watch: next due Monday 2026-09-07 (week 37, group 1).
+
+## 2026-09-06 (Sunday) ~20:56 UTC — SEO Agent run (4th run today) — 8 proposals filed (#7067-7073, #7075)
+
+### Bank check
+Open `seo-proposal` bank at run start: 11 (3 standing umbrellas #3810/#3819/#2211 + 8 already `ai-fix`-promoted per CEO's 20:00 UTC evening-review log #7048-7055). True untriaged bank: 0. Well under 45 cap → cleared to file up to 8 net-new. Metrics 20:56 UTC (325 users/366 sessions/496 views 7d; GSC 9,067 impr/211 clicks/2.33% CTR/pos 8.6, flat vs the 15:55 run). Content-gap queries (`flo mounier` 82 impr/1.22% CTR, `jaska raatikainen` 77 impr/1.30% CTR) both already fixed per CEO's decisions log (#6973, #6740) — GSC window still rolling the fixes in, no new action. Sunday — drum-chair watch not due (next Monday 2026-09-07, week 37, group 1).
+
+### This run's work
+Worked the exact deferred queue from the 15:55 run's notes: `pedalBrands.js`/`snareBrands.js`/`brands.js`/`beginnerGuides.js` reference-page misattributions, plus the 6 highest-confidence held-back `licks/*.js` candidates (matt-greiner, frost, nick-menza, alex-bent, shannon-larkin, lars-ulrich). Dispatched 3 parallel research agents (pedalBrands+snareBrands, brands.js+beginnerGuides.js, the 6 licks candidates), then personally re-verified every finding via direct `grep`/`Read` against `endorsementNews.js` before filing — this caught two important non-fixes:
+- **nick-menza**: came back ALREADY FIXED-clean (git confirms #6848 shipped correctly, current file matches endorsementNews.js exactly) — correctly not filed.
+- **snares.js Flo Mounier entry**: an agent flagged current "Tama Starclassic Maple" as wrong vs the roster's "Pearl Masters Maple" — but checking issue history showed **#7018 (closed, shipped this morning) deliberately changed this entry FROM Pearl TO Tama** citing `endorsementNews.js:1020`'s verified Tama-since-2012 timeline. This is a genuine roster-vs-endorsementNews.js **source conflict** for Flo Mounier (now a *second* conflicting field for this drummer, alongside the existing pedal-brand conflict already on the watch list), not a fresh fabrication — correctly did NOT file a flip-flop fix. Left as a data point for the standing watch list instead.
+- Also declined the Mike Mangini pedal claim in pedalBrands.js (Demon Drive per pedals.js/roster vs Eliminator Redline per endorsementNews.js:2164) for the same reason — already on the watch list, another confirmation, not a blind pick.
+
+### Proposals filed this run (8)
+1. #7067 — pedalBrands.js: Frost (Satyricon) fabricated under Sonor Perfect Balance, verified Tama Iron Cobra Power Glide (no Sonor relationship at all — highest-confidence single finding)
+2. #7068 — brands.js Tama entry: George Kollias + Gene Hoglan wrongly credited as Tama drummers (verified Pearl for both), 3 locations
+3. #7069 — brands.js Pearl entry: Vinnie Paul wrongly presented as current/signature Pearl artist (verified ddrum since 2008), 5 locations
+4. #7070 — brands.js batch: 2 fabricated Vic Firth signature stick model names ("SGK" for Kollias, "SVP" for Vinnie Paul), 4 locations
+5. #7071 — brands.js Vater entry: fabricated "908" signature model for Jay Weinberg (verified stock 5B), 4 locations
+6. #7072 — brands.js Zildjian entry: Danny Carey wrongly credited A Custom cymbals (verified Paiste, first time found in brands.js specifically)
+7. #7073 — beginnerGuides.js batch: 3 wrong-brand signatureGear/prose fields (Gene Hoglan stale Tama/Zildjian, George Kollias wrong cymbal + wrong pedal brand)
+8. #7075 — licks/*.js batch: 5 more findings (matt-greiner 2 missed Leveler entries, frost era-mismatch beyond #6871, alex-bent pedal anachronism, shannon-larkin unverified HHX cymbal suffix, lars-ulrich 2 pedal-dating anachronisms surviving #6894)
+
+Filed the full 8-cap — all high-confidence, independently live-verified. `brands.js` and `beginnerGuides.js` had never been audited for this fabrication class before (prior issues on those files were all schema/routing/404, confirmed via dedup search) — genuinely fresh ground, not a re-dig.
+
+### Open proposals waiting on CEO triage
+- #7067-7073, #7075 (this run, 8 fresh)
+- #3810/#3819/#2211 (standing umbrellas)
+
+### Next run
+1. Watch #7067-7073/#7075 ship via Roadie/PR Merger.
+2. `brands.js` (105KB, 18 entries) — only 4 of 18 brand entries were checked this round (Tama, Pearl, Vic Firth, Vater, Zildjian); 13 more brand entries unswept (Sonor, DW, Mapex, Sabian, Meinl, Paiste, ddrum, SJC, Ludwig, etc.) — good candidate for next round's continuation.
+3. `beginnerGuides.js` (158KB) — only 3 fields checked (2 drummers); file is large, likely has more drummer mentions worth a fuller sweep.
+4. Source-conflict watch list: Flo Mounier now has a confirmed SECOND conflicting field (snare: roster-Pearl vs endorsementNews.js-Tama, alongside the existing pedal conflict) — strengthens the case for a founder/CEO ruling pass on the whole list. Mike Mangini's pedal conflict (Demon Drive vs Eliminator Redline) also re-confirmed independently.
+5. Drum-chair watch: next due Monday 2026-09-07 (week 37, group 1) — tomorrow.

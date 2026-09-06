@@ -1049,7 +1049,7 @@ Both companies have earned their place on the world's biggest stages. You can't 
           hoops: 'True Hoop',
           mounting: 'STM Suspension',
         },
-        usedBy: ['Brann Dailor', 'Derek Roddy', 'Scott Travis', 'Hannes Grossmann'],
+        usedBy: ['Hannes Grossmann'],
         bestFor: 'Modern metal, progressive death metal, studio work',
         rating: 4.8,
       },

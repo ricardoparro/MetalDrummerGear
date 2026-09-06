@@ -240,7 +240,7 @@ export const gearComparisons = {
           manufacturing: 'Machine-made',
           origin: 'Switzerland',
         },
-        usedBy: ['Dave Lombardo', 'Joey Jordison', 'Pete Sandoval'],
+        usedBy: ['Dave Lombardo', 'Joey Jordison'],
         bestFor: 'Thrash metal, live performance',
         rating: 4.5,
       },

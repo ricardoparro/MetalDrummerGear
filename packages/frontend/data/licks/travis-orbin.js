@@ -39,11 +39,11 @@ export const licks = {
       "description": "Travis Orbin's detailed playthrough of Zyglrox, demonstrating his polyrhythmic approach and limb independence"
     },
     "gearUsed": [
-      { "name": "Pearl Reference Series Kit", "type": "drums", "link": null },
-      { "name": "Pearl Reference 14\"x5.5\" Snare", "type": "snare", "link": null },
-      { "name": "Meinl Byzance Extra Dry Series Cymbals", "type": "cymbals", "link": null },
-      { "name": "Pearl Eliminator Double Pedal", "type": "hardware", "link": null },
-      { "name": "Vic Firth American Classic 5A", "type": "sticks", "link": null }
+      { "name": "SJC Custom Drums", "type": "drums", "link": null },
+      { "name": "SJC Custom Snare", "type": "snare", "link": null },
+      { "name": "Zildjian K Custom Dark / A Custom Cymbals", "type": "cymbals", "link": null },
+      { "name": "DW 9000 Series Double Pedal", "type": "hardware", "link": null },
+      { "name": "Vic Firth American Classic 5B", "type": "sticks", "link": null }
     ],
     "learningTips": [
       "Slow the polyrhythmic passages to 60 BPM and tap through the accents without the kit until the pattern is memorised",
@@ -102,11 +102,11 @@ export const licks = {
       "description": "Travis Orbin's playthrough session including Insomnia, demonstrating his approach to odd-time djent groove"
     },
     "gearUsed": [
-      { "name": "Pearl Reference Series Kit", "type": "drums", "link": null },
-      { "name": "Pearl Reference 14\"x5.5\" Snare", "type": "snare", "link": null },
-      { "name": "Meinl Byzance Extra Dry Series Cymbals", "type": "cymbals", "link": null },
-      { "name": "Pearl Eliminator Double Pedal", "type": "hardware", "link": null },
-      { "name": "Vic Firth American Classic 5A", "type": "sticks", "link": null }
+      { "name": "SJC Custom Drums", "type": "drums", "link": null },
+      { "name": "SJC Custom Snare", "type": "snare", "link": null },
+      { "name": "Zildjian K Custom Dark / A Custom Cymbals", "type": "cymbals", "link": null },
+      { "name": "DW 9000 Series Double Pedal", "type": "hardware", "link": null },
+      { "name": "Vic Firth American Classic 5B", "type": "sticks", "link": null }
     ],
     "learningTips": [
       "Map the phrase structure of each section on paper before playing — mark where each bar boundary falls",
@@ -165,11 +165,11 @@ export const licks = {
       "description": "Travis Orbin's approach to the 7/8+9/8 metric modulation engine in Periphery's Racecar"
     },
     "gearUsed": [
-      { "name": "Pearl Reference Series Kit", "type": "drums", "link": null },
-      { "name": "Pearl Reference 14\"x5.5\" Snare", "type": "snare", "link": null },
-      { "name": "Meinl Byzance Extra Dry Series Cymbals", "type": "cymbals", "link": null },
-      { "name": "Pearl Eliminator Double Pedal", "type": "hardware", "link": null },
-      { "name": "Vic Firth American Classic 5A", "type": "sticks", "link": null }
+      { "name": "SJC Custom Drums", "type": "drums", "link": null },
+      { "name": "SJC Custom Snare", "type": "snare", "link": null },
+      { "name": "Zildjian K Custom Dark / A Custom Cymbals", "type": "cymbals", "link": null },
+      { "name": "DW 9000 Series Double Pedal", "type": "hardware", "link": null },
+      { "name": "Vic Firth American Classic 5B", "type": "sticks", "link": null }
     ],
     "learningTips": [
       "Practise 7/8 grooves daily as loops before touching the metric modulation — the feel must be automatic",
@@ -227,11 +227,11 @@ export const licks = {
       "description": "Travis Orbin demonstrating the wrist mechanics and dynamic control behind a controlled blast beat in deathcore contexts"
     },
     "gearUsed": [
-      { "name": "Pearl Reference Series Kit", "type": "drums", "link": null },
-      { "name": "Pearl Reference 14\"x5.5\" Snare", "type": "snare", "link": null },
-      { "name": "Meinl Byzance Extra Dry Series Cymbals", "type": "cymbals", "link": null },
-      { "name": "Pearl Eliminator Double Pedal", "type": "hardware", "link": null },
-      { "name": "Vic Firth American Classic 5A", "type": "sticks", "link": null }
+      { "name": "SJC Custom Drums", "type": "drums", "link": null },
+      { "name": "SJC Custom Snare", "type": "snare", "link": null },
+      { "name": "Zildjian K Custom Dark / A Custom Cymbals", "type": "cymbals", "link": null },
+      { "name": "DW 9000 Series Double Pedal", "type": "hardware", "link": null },
+      { "name": "Vic Firth American Classic 5B", "type": "sticks", "link": null }
     ],
     "learningTips": [
       "Isolate each blast-beat component — kick alone, hi-hat alone, snare alone — and build them independently before combining",
@@ -289,11 +289,11 @@ export const licks = {
       "description": "Travis Orbin demonstrating the singles-and-doubles hybrid rudiment pattern from his YouTube instructional series"
     },
     "gearUsed": [
-      { "name": "Pearl Reference Series Kit", "type": "drums", "link": null },
-      { "name": "Pearl Reference 14\"x5.5\" Snare", "type": "snare", "link": null },
-      { "name": "Meinl Byzance Extra Dry Series Cymbals", "type": "cymbals", "link": null },
-      { "name": "Pearl Eliminator Double Pedal", "type": "hardware", "link": null },
-      { "name": "Vic Firth American Classic 5A", "type": "sticks", "link": null }
+      { "name": "SJC Custom Drums", "type": "drums", "link": null },
+      { "name": "SJC Custom Snare", "type": "snare", "link": null },
+      { "name": "Zildjian K Custom Dark / A Custom Cymbals", "type": "cymbals", "link": null },
+      { "name": "DW 9000 Series Double Pedal", "type": "hardware", "link": null },
+      { "name": "Vic Firth American Classic 5B", "type": "sticks", "link": null }
     ],
     "learningTips": [
       "Begin at 60 BPM on a practice pad, alternating single-single-double slowly until the transition feels effortless",
@@ -351,11 +351,11 @@ export const licks = {
       "description": "Travis Orbin's playthrough of The Walk, showcasing his fill vocabulary and groove-to-fill transitions in a djent context"
     },
     "gearUsed": [
-      { "name": "Pearl Reference Series Kit", "type": "drums", "link": null },
-      { "name": "Pearl Reference 14\"x5.5\" Snare", "type": "snare", "link": null },
-      { "name": "Meinl Byzance Extra Dry Series Cymbals", "type": "cymbals", "link": null },
-      { "name": "Pearl Eliminator Double Pedal", "type": "hardware", "link": null },
-      { "name": "Vic Firth American Classic 5A", "type": "sticks", "link": null }
+      { "name": "SJC Custom Drums", "type": "drums", "link": null },
+      { "name": "SJC Custom Snare", "type": "snare", "link": null },
+      { "name": "Zildjian K Custom Dark / A Custom Cymbals", "type": "cymbals", "link": null },
+      { "name": "DW 9000 Series Double Pedal", "type": "hardware", "link": null },
+      { "name": "Vic Firth American Classic 5B", "type": "sticks", "link": null }
     ],
     "learningTips": [
       "Isolate each signature fill and practise it as a standalone pattern before placing it in the song context",

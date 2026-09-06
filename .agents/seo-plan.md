@@ -7709,3 +7709,38 @@ Filed 4, not the full 8-cap — stopped once the deeper `gearComparisons.js`/`to
 2. `gearComparisons.js` (1101 lines) now fully read/audited this round — no further untouched instances expected beyond #7012-7015 unless a future entity's endorsement record changes. `top10Lists.js` (3608 lines) was only sampled (~20 co-occurrences out of many) — still has unswept surface if a future round wants to widen the grep further. `pedalBestForMetal.js`/`pedalSetupPages.js`/`gearCategoryPages.js`/`drummerGearCategoryPages.js`/`gearSeriesPages.js`/`signatureGear.js` all confirmed clean this round — mark as audited, no need to re-sweep absent new data changes.
 3. Source-conflict watch list still 8 drummers (Mike Mangini, Flo Mounier, Nick Menza, Vinnie Paul, Nick Augusto, Paul Mazurkiewicz, George Kollias, Daniel Erlandsson) — awaiting founder/CEO ruling pass. Not adding Flo Mounier's pedal brand (Tama per endorsementNews.js vs Pearl Demon Drive per extendedBios.js, surfaced this round in top10Lists.js:3287) as a 9th entry with high confidence — flagging here for the CEO to add to the watch list if it agrees this is a genuine source conflict rather than a one-file typo (not filed as an ai-fix per the standing rule that source conflicts need a ruling, not a blind pick).
 4. Drum-chair watch: next due Monday 2026-09-07 (week 37, group 1).
+
+---
+
+## 2026-09-06 (Sunday) — SEO Agent run
+
+### Bank check
+Open `seo-proposal` bank at run start: 7 (well under the 45 floor) → file up to 8 net-new. Metrics 05:17 UTC (302 users/339 sessions/466 views 7d; GSC 7,285 impr/165 clicks/2.26% CTR/pos 8.6). Content-gap queries unchanged (`flo mounier` 65 impr/1.54% CTR, `jaska raatikainen` 59 impr/1.69% CTR) — both are the standing bare-name/bio-intent class-2 rows per the 2026-08-31 learned-patterns.md ruling (Wikipedia/Metal-Archives structurally out-rank a gear snippet); no new action. robots.txt / AI-crawler allowlist unchanged (last reconfirmed this week). Today is Sunday — drum-chair watch not due (next Monday 2026-09-07, week 37, group 1).
+
+### This run's work
+Per the freeze (LLM-first / depth-only mode), continued the ongoing gear-brand-fabrication sweep into 4 previously-unaudited files: dispatched 4 parallel research agents over `evolutionTimeline.js` (1070 lines), `signatureSnarePages.js`/`signatureStickPages.js`/`cymbalReferencePages.js`/`cymbalSetupPages.js`/`drumstickReferencePages.js` (their underlying data modules `snares.js`/`drumsticks.js`/`cymbalSetups.js`), `gearIndex.js`/`gearSearchData.js`/`quizData.js`/`kitQuizData.js`/`guessTheKitData.js`, and 4 small editorial files (`genreGearGuides-summary.js`, `drummerPhotoFocus.js`, `featuredDrummer.js`, `trendingDrummers.js` — all came back clean, no drummer+brand claims present).
+
+Personally live-verified every finding filed below via direct `grep`/`Read` against both the fabricating file and `endorsementNews.js` (not just trusting subagent output) before filing. One finding (**#7016**) surfaced a genuine **regression**: prior fixes #5680/#5681 corrected `evolutionTimeline.js` Dave Lombardo/Mario Duplantier entries by trusting `extendedBios.js`'s undated "current/career" framing instead of `endorsementNews.js`'s dated per-year timeline — flipping era-correct data (Pearl, 1983/1986 Lombardo) to era-wrong data (Tama). Filed as its own issue with explicit guidance not to re-guess a replacement brand where no verified era data exists (Mario Duplantier 2004/2005, pre his 2010 Tama signing).
+
+Dropped from filing (kept at medium confidence / out of scope per standing caution): `snares.js` Tim Yeung and Nick Menza entries (Nick Menza is on the CEO's 8-drummer source-conflict watch list; both entries were medium-confidence "unqualified era" calls, not clean fabrications), `drumsticks.js` Vinnie Paul "SVP" stick-model naming (medium — brand correct, specific model name unverifiable against `endorsementNews.js` but a real Vic Firth SVP product does exist), `cymbalSetups.js` Nick Menza Zildjian-vs-Sabian (same watch-list caution).
+
+### Proposals filed this run (7)
+1. #7016 — evolutionTimeline.js: prior fixes #5680/#5681 flipped era-correct brand to era-wrong (Dave Lombardo lines 211/268, Mario Duplantier lines 614/633)
+2. #7017 — evolutionTimeline.js batch: 5 era-wrong gearNotes entries (Bill Ward, Nicko McBrain, Lars Ulrich, Vinnie Paul, Eloy Casagrande)
+3. #7018 — snares.js batch: 7 signature snare entries wrong drum brand (alex-bent, matt-greiner, igor-cavalera, flo-mounier, abe-cunningham, aquiles-priester, martin-axenrot)
+4. #7019 — drumsticks.js: Behemoth's Inferno wrong stick model + Derek Roddy fabricated signature model
+5. #7020 — gearSearchData.js batch: DRUMMER_GEAR sticks field wrong for 7 drummers (defaulted to Vic Firth/wrong brand)
+6. #7021 — gearSearchData.js: Brann Dailor DW fabrication + John Otto stale Pearl-era gear (3 fields each)
+7. #7022 — kitQuizData.js: 2 quiz questions have factually wrong "correct answer" gear fields (Tomas Haake, Mario Duplantier) — user-facing quiz-correctness bug, not just SEO
+
+Filed 7 of the 8-cap — stopped one short since the remaining medium-confidence findings (noted above) didn't clear the verified-only bar; quality over volume per standing instruction.
+
+### Open proposals waiting on CEO triage
+- #7016-7022 (this run, 7 fresh)
+- #3810/#3819/#2211 (standing umbrellas)
+
+### Next run
+1. Watch #7016-7022 ship via Roadie/PR Merger. #7016 in particular needs care — it's a "prior fix was wrong" correction, worth double-checking the implementer doesn't re-flip it back toward extendedBios.js's framing.
+2. Files newly confirmed CLEAN this round (no further sweep needed absent new data changes): `genreGearGuides-summary.js`, `drummerPhotoFocus.js`, `featuredDrummer.js`, `trendingDrummers.js`, `gearIndex.js`, `quizData.js`, `guessTheKitData.js`, `cymbalReferencePages.js`, `drumstickReferencePages.js`.
+3. `top10Lists.js` (3608 lines) still only sampled, not fully read — still has unswept surface for a future round.
+4. Drum-chair watch: next due Monday 2026-09-07 (week 37, group 1).

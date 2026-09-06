@@ -40,12 +40,9 @@ export const licks = {
       "description": "Kublai Khan TX's official music video for B.C. from the Nomad album, showcasing Isaac Lamb's beatdown groove architecture and breakdown technique"
     },
     "gearUsed": [
-      { "name": "SJC Custom Drum Kit", "type": "drums", "link": null },
-      { "name": "SJC Custom 14x6.5\" Snare", "type": "snare", "link": null },
-      { "name": "Meinl Classics Custom Dark 14\" Hi-Hats", "type": "cymbals", "link": null },
-      { "name": "Meinl Classics Custom Dark 21\" Ride", "type": "cymbals", "link": null },
-      { "name": "DW 9000 Series Double Pedal", "type": "hardware", "link": null },
-      { "name": "Vic Firth American Classic 2B", "type": "sticks", "link": null }
+      { "name": "SJC Custom Drums", "type": "drums", "link": null },
+      { "name": "Meinl Cymbals", "type": "cymbals", "link": null },
+      { "name": "Vic Firth Sticks", "type": "sticks", "link": null }
     ],
     "learningTips": [
       "Practise the verse groove without fills until it locks at tempo — the feel of the groove before any fills is the entire technique",
@@ -103,12 +100,9 @@ export const licks = {
       "description": "Kublai Khan TX's official music video for True Fear from the Nomad album, showcasing Isaac Lamb's blast beat technique, groove orientation through speed escalation, and breakdown power"
     },
     "gearUsed": [
-      { "name": "SJC Custom Drum Kit", "type": "drums", "link": null },
-      { "name": "SJC Custom 14x6.5\" Snare", "type": "snare", "link": null },
-      { "name": "Meinl Classics Custom Dark 18\" Crash", "type": "cymbals", "link": null },
-      { "name": "Meinl Classics Custom Dark 20\" Crash", "type": "cymbals", "link": null },
-      { "name": "DW 9000 Series Double Pedal", "type": "hardware", "link": null },
-      { "name": "Vic Firth American Classic 2B", "type": "sticks", "link": null }
+      { "name": "SJC Custom Drums", "type": "drums", "link": null },
+      { "name": "Meinl Cymbals", "type": "cymbals", "link": null },
+      { "name": "Vic Firth Sticks", "type": "sticks", "link": null }
     ],
     "learningTips": [
       "Practise the blast at moderate tempo (160 BPM) while deliberately maintaining the same pocket feel as your groove — record and listen for the difference",
@@ -166,12 +160,9 @@ export const licks = {
       "description": "Kublai Khan TX's official music video for Boomslang from the Absolute album, showcasing Isaac Lamb's evolved groove architecture and power delivery"
     },
     "gearUsed": [
-      { "name": "SJC Custom Drum Kit", "type": "drums", "link": null },
-      { "name": "SJC Custom 14x6.5\" Snare", "type": "snare", "link": null },
-      { "name": "Meinl Classics Custom Dark 18\" China", "type": "cymbals", "link": null },
-      { "name": "Meinl Classics Custom Dark Series Cymbals", "type": "cymbals", "link": null },
-      { "name": "DW 9000 Series Double Pedal", "type": "hardware", "link": null },
-      { "name": "Vic Firth American Classic 2B", "type": "sticks", "link": null }
+      { "name": "SJC Custom Drums", "type": "drums", "link": null },
+      { "name": "Meinl Cymbals", "type": "cymbals", "link": null },
+      { "name": "Vic Firth Sticks", "type": "sticks", "link": null }
     ],
     "learningTips": [
       "Record the groove and listen for any fills or embellishments not specifically justified by the arrangement — remove them",

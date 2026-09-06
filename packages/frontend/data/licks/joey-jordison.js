@@ -40,11 +40,6 @@ export const licks = {
     },
     "gearUsed": [
       {
-        "name": "Pearl Joey Jordison Signature Snare",
-        "type": "snare",
-        "link": "/drummers/joey-jordison/signature/joey-jordison-pearl-signature-snare"
-      },
-      {
         "name": "Pearl Export Series Kit",
         "type": "drums",
         "link": null
@@ -52,11 +47,6 @@ export const licks = {
       {
         "name": "Paiste 2002 Cymbals",
         "type": "cymbals",
-        "link": null
-      },
-      {
-        "name": "Pearl Demon Drive Pedals",
-        "type": "pedals",
         "link": null
       }
     ],
@@ -115,13 +105,8 @@ export const licks = {
     },
     "gearUsed": [
       {
-        "name": "Pearl Joey Jordison Signature Snare",
-        "type": "snare",
-        "link": "/drummers/joey-jordison/signature/joey-jordison-pearl-signature-snare"
-      },
-      {
-        "name": "Pearl Demon Drive Pedals",
-        "type": "pedals",
+        "name": "Pearl Export Series Kit",
+        "type": "drums",
         "link": null
       },
       {
@@ -187,11 +172,6 @@ export const licks = {
     "tutorial": null,
     "gearUsed": [
       {
-        "name": "Pearl Joey Jordison Signature Snare",
-        "type": "snare",
-        "link": "/drummers/joey-jordison/signature/joey-jordison-pearl-signature-snare"
-      },
-      {
         "name": "Pearl Export Series Kit",
         "type": "drums",
         "link": null
@@ -237,7 +217,7 @@ export const licks = {
     "bpm": 130,
     "bpmDisplay": "~130 BPM",
     "timeSignature": "4/4",
-    "description": "The title track of Slipknot's Iowa (2001) is one of the most extreme drumming performances in the history of heavy music — a nearly fifteen-minute maelstrom of sustained intensity that tested the physical and psychological limits of what a drummer could execute in a recording context. Joey Jordison's pedal work through the Iowa track is built on dense, relentless double-bass patterns that drive the song's crushing, doom-paced riff with precision and ferocity that few drummers could sustain over such a duration. Unlike the high-velocity blast-beat passages that define other parts of the Iowa album, the title track's double-bass patterns operate at a mid-tempo that prioritises weight over speed: the kick strokes are heavy, deliberate, and precisely timed to lock with the guitars' down-tuned heaviness. Jordison's technique here is less about raw foot speed and more about power, even alternation, and the ability to maintain absolute consistency in dynamics across a very long and demanding performance. The Pearl Demon Drive pedals he used on the album enabled the mechanical directness and rebound efficiency that his playing demanded: a pedal that fights the player at extreme tension would be unplayable over fifteen minutes at this level of intensity. For drummers, the Iowa double-bass patterns are a study in controlled power at mid-tempo: developing the ability to strike both bass drums with equal force, maintain that force across an extended duration, and lock the kick precisely to a slow, heavy riff without rushing or dragging. This kind of stamina and control is in many ways more difficult to develop than raw speed, because there is nowhere to hide unevenness or fatigue at this tempo — every kick stroke is heard and felt in the mix. Jordison's performance across the Iowa title track remains one of the definitive statements of what double-bass drumming in service of heavy music actually sounds like when executed at the highest level of physical and musical commitment.",
+    "description": "The title track of Slipknot's Iowa (2001) is one of the most extreme drumming performances in the history of heavy music — a nearly fifteen-minute maelstrom of sustained intensity that tested the physical and psychological limits of what a drummer could execute in a recording context. Joey Jordison's pedal work through the Iowa track is built on dense, relentless double-bass patterns that drive the song's crushing, doom-paced riff with precision and ferocity that few drummers could sustain over such a duration. Unlike the high-velocity blast-beat passages that define other parts of the Iowa album, the title track's double-bass patterns operate at a mid-tempo that prioritises weight over speed: the kick strokes are heavy, deliberate, and precisely timed to lock with the guitars' down-tuned heaviness. Jordison's technique here is less about raw foot speed and more about power, even alternation, and the ability to maintain absolute consistency in dynamics across a very long and demanding performance. His Pearl hardware setup at the time enabled the mechanical directness and rebound efficiency that his playing demanded: a pedal that fights the player at extreme tension would be unplayable over fifteen minutes at this level of intensity. For drummers, the Iowa double-bass patterns are a study in controlled power at mid-tempo: developing the ability to strike both bass drums with equal force, maintain that force across an extended duration, and lock the kick precisely to a slow, heavy riff without rushing or dragging. This kind of stamina and control is in many ways more difficult to develop than raw speed, because there is nowhere to hide unevenness or fatigue at this tempo — every kick stroke is heard and felt in the mix. Jordison's performance across the Iowa title track remains one of the definitive statements of what double-bass drumming in service of heavy music actually sounds like when executed at the highest level of physical and musical commitment.",
     "techniques": [
       "double-bass",
       "groove-drumming",
@@ -255,16 +235,6 @@ export const licks = {
       {
         "name": "Pearl Masterworks Custom Kit",
         "type": "drums",
-        "link": null
-      },
-      {
-        "name": "Pearl Joey Jordison Signature Snare",
-        "type": "snare",
-        "link": "/drummers/joey-jordison/signature/joey-jordison-pearl-signature-snare"
-      },
-      {
-        "name": "Pearl Demon Drive Pedals",
-        "type": "pedals",
         "link": null
       },
       {
@@ -330,18 +300,8 @@ export const licks = {
         "link": null
       },
       {
-        "name": "Pearl Joey Jordison Signature Snare",
-        "type": "snare",
-        "link": "/drummers/joey-jordison/signature/joey-jordison-pearl-signature-snare"
-      },
-      {
         "name": "Paiste 2002 Cymbals",
         "type": "cymbals",
-        "link": null
-      },
-      {
-        "name": "Pearl Demon Drive Pedals",
-        "type": "pedals",
         "link": null
       }
     ],
@@ -397,18 +357,8 @@ export const licks = {
     "tutorial": null,
     "gearUsed": [
       {
-        "name": "Pearl Joey Jordison Signature Snare",
-        "type": "snare",
-        "link": "/drummers/joey-jordison/signature/joey-jordison-pearl-signature-snare"
-      },
-      {
         "name": "Pearl Masterworks Custom Kit",
         "type": "drums",
-        "link": null
-      },
-      {
-        "name": "Pearl Demon Drive Pedals",
-        "type": "pedals",
         "link": null
       },
       {

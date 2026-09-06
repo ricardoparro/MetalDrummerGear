@@ -39,11 +39,8 @@ export const licks = {
       "description": "Mayhem's official live performance of Freezing Moon at Wacken Open Air 2024, showcasing Hellhammer's atmospheric black metal blast technique"
     },
     "gearUsed": [
-      { "name": "Sonor SQ2 Heavy Beech Kit", "type": "drums", "link": null },
-      { "name": "Sonor SQ2 Heavy Beech 14\"x5.5\" Snare", "type": "snare", "link": null },
-      { "name": "Paiste RUDE Cymbals", "type": "cymbals", "link": null },
-      { "name": "Axis Double Pedal", "type": "hardware", "link": null },
-      { "name": "Vic Firth American Classic 5B", "type": "sticks", "link": null }
+      { "name": "Sonor Drum Kit", "type": "drums", "link": null },
+      { "name": "Paiste RUDE Cymbals", "type": "cymbals", "link": null }
     ],
     "learningTips": [
       "Listen to the track several times before playing — absorb the atmosphere you are trying to create",
@@ -81,7 +78,7 @@ export const licks = {
     "bpm": 200,
     "bpmDisplay": "~200 BPM",
     "timeSignature": "4/4",
-    "description": "Mayhem's Deathcrush EP (1987) is one of the earliest and most influential documents of what would become the Norwegian black metal scene, and the title track is a direct, ferocious blast of speed that shows Hellhammer already in command of the extreme technique he would develop further over the following decades. \"Deathcrush\" sits in the tradition of Motörhead and early speed metal as much as it anticipates black metal — the drumming is fast and aggressive, but also locked in to a groove that makes the track feel compulsive in a way that pure blast-beat material does not. The beat is somewhere between a traditional blast and a speed metal kit pattern: the bass drum drives the tempo, the snare provides the primary accent, and the ride cymbal rather than the hi-hat gives the track its grinding, abrasive character. It is a historically significant approach — Hellhammer on \"Deathcrush\" is doing something that had not quite been done before, blending the speed and aggression of American thrash with a European rawness and nihilism that would become the blueprint for black metal production and performance. The rawness of the 1987 recording is part of what makes the track so effective — the drums cut through a lo-fi mix with a physical presence that overproduced modern recordings often lack, and Hellhammer's performance is correspondingly direct: no excess, no wasted motion, just the forward drive that the song demands. Studying the live performances available on YouTube reveals how the pattern translates to a modern context: the same essential energy, the same forward momentum, unchanged nearly four decades later. For drummers, \"Deathcrush\" is a study in the fundamentals of extreme metal timekeeping — driving a blast at high tempo with consistent snare and bass drum placement, maintaining ride cymbal independence, and creating a physical urgency that propels the music. These fundamentals apply across every extreme subgenre, making it as relevant a study today as it was in 1987.",
+    "description": "Mayhem's Deathcrush EP (1987) is one of the earliest and most influential documents of what would become the Norwegian black metal scene, and the title track is a direct, ferocious blast of speed. The EP was recorded with founding drummer Kjetil Manheim behind the kit — Hellhammer (Jan Axel Blomberg) did not join Mayhem until 1988, after which he inherited \"Deathcrush\" for the band's live sets and has kept it in rotation ever since. \"Deathcrush\" sits in the tradition of Motörhead and early speed metal as much as it anticipates black metal — the drumming is fast and aggressive, but also locked in to a groove that makes the track feel compulsive in a way that pure blast-beat material does not. The beat is somewhere between a traditional blast and a speed metal kit pattern: the bass drum drives the tempo, the snare provides the primary accent, and the ride cymbal rather than the hi-hat gives the track its grinding, abrasive character. It is a historically significant approach — Mayhem on \"Deathcrush\" were doing something that had not quite been done before, blending the speed and aggression of American thrash with a European rawness and nihilism that would become the blueprint for black metal production and performance. The rawness of the 1987 recording is part of what makes the track so effective — the drums cut through a lo-fi mix with a physical presence that overproduced modern recordings often lack, and the performance is correspondingly direct: no excess, no wasted motion, just the forward drive that the song demands. Hellhammer has kept \"Deathcrush\" in Mayhem's live set for decades, and studying his live performances of the song reveals how the pattern translates to a modern context: the same essential energy, the same forward momentum, filtered through his own technique. For drummers, \"Deathcrush\" is a study in the fundamentals of extreme metal timekeeping — driving a blast at high tempo with consistent snare and bass drum placement, maintaining ride cymbal independence, and creating a physical urgency that propels the music. These fundamentals apply across every extreme subgenre, making it as relevant a study today as when Mayhem first recorded it.",
     "techniques": [
       "blast-beat",
       "speed-metal",
@@ -98,14 +95,10 @@ export const licks = {
       "youtubeId": "P-L8dNGGEiY",
       "startTime": 0,
       "title": "MAYHEM – Deathcrush (Live) (OFFICIAL VIDEO)",
-      "description": "Mayhem's official live video for Deathcrush, showcasing Hellhammer's original black metal speed metal battery"
+      "description": "Mayhem's official live video for Deathcrush, showcasing Hellhammer's live rendition of the band's original black metal speed metal battery"
     },
     "gearUsed": [
-      { "name": "Sonor SQ2 Heavy Beech Kit", "type": "drums", "link": null },
-      { "name": "Sonor SQ2 Heavy Beech 14\"x6.5\" Snare", "type": "snare", "link": null },
-      { "name": "Paiste RUDE Cymbals", "type": "cymbals", "link": null },
-      { "name": "Axis Double Pedal", "type": "hardware", "link": null },
-      { "name": "Vic Firth American Classic 5B", "type": "sticks", "link": null }
+      { "name": "Paiste RUDE Cymbals", "type": "cymbals", "link": null }
     ],
     "learningTips": [
       "Start by locking the bass drum and snare together at a moderate tempo before adding speed",
@@ -163,11 +156,8 @@ export const licks = {
       "description": "Mayhem's De Mysteriis Dom Sathanas title track, the nine-minute centrepiece of black metal's defining album showcasing Hellhammer's long-form mastery"
     },
     "gearUsed": [
-      { "name": "Sonor SQ2 Heavy Beech Kit", "type": "drums", "link": null },
-      { "name": "Sonor SQ2 Heavy Beech 14\"x5.5\" Snare", "type": "snare", "link": null },
-      { "name": "Paiste RUDE Cymbals", "type": "cymbals", "link": null },
-      { "name": "Axis Double Pedal", "type": "hardware", "link": null },
-      { "name": "Vic Firth American Classic 5B", "type": "sticks", "link": null }
+      { "name": "Sonor Drum Kit", "type": "drums", "link": null },
+      { "name": "Paiste RUDE Cymbals", "type": "cymbals", "link": null }
     ],
     "learningTips": [
       "Listen to the full nine-minute track from start to finish without playing — map every section change",

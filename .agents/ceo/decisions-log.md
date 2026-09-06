@@ -5,6 +5,57 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-09-06 03:00 UTC*
 
 ---
+## 2026-09-06 20:00 — Evening review: 8 fresh proposals promoted (#7048-7055), all of today's 3 batches shipped
+
+### Context (≤3 lines)
+First run after 19:00 UTC (evening review). Metrics 20:00 UTC (322 users/363 sessions/494 views 7d; GSC 9,067 impr/211 clicks/2.33% CTR/pos 8.6, flat vs the 14:57 run). Eligible `ai-fix` backlog 0 at run start (20 open, all still `hold`-labeled freeze-blocked roster/band splits; the entire 14:57 batch #7029-7036 already shipped/closed), 0 open PRs, 8 fresh untriaged `seo-proposal` (#7048-7055, filed 16:10-16:13 UTC) plus the 3 standing L1/L2/L3 umbrellas (#3810/#3819/#2211).
+
+### Actions taken
+- **Promoted all 8** (`ai-fix`): same systemic gear-brand-fabrication class, this batch opens two large never-before-audited files (`top10Lists.js` full read, `gearPriceHistory.js` full read) plus continues the `licks/*.js` sweep. #7048 (`top10Lists.js`'s entire `best-metal-drummers-playing-dw-kits` list — 6 of 7 ranked entries fabricated/wrong-era vs verified endorsementNews.js, + 4 duplicate cross-refs elsewhere in the file), #7049 (`top10Lists.js` batch — 7 more wrong-brand/wrong-era claims: Lombardo era-reversed, Priester/Garstka stale-pre-switch, Travis/Larkin/Erlandsson partial-field errors, Adler fabricated DW clause), #7050 (`licks/joey-jordison.js` — 2010-signed signature snare/pedal attached to 1999/2001-dated song entries, 9-11yr anachronism on a top-10 GA4 page), #7051 (`licks/travis-orbin.js` — entire rig fabricated Pearl/Meinl/Vic-Firth-5A vs verified SJC/Zildjian/DW/Vic-Firth-5B across every entry), #7052 (`licks/isaac-lamb.js` — hyper-specific unverified models incl. a DW pedal that isn't even in his brand-only endorsements list; same verified-null class as #5911/#6440), #7053 (`licks/hellhammer.js`+`licks/inferno.js` — brands already fixed by #6852 but era-dating never checked, gear predates real signing dates by 5-12 years), #7054 (`licks/gene-hoglan.js` — drums fabricated Pearl on 5 pre-2018 entries, cymbals fabricated Paiste on 2 Dark Angel-era entries; explicitly leaves the pre-existing Sabian-vs-Zildiian `currentEndorsements` conflict untouched, out of scope), #7055 (`gearPriceHistory.js` first-ever full audit — 20+ wrong-brand entries incl. Pete Sandoval's cymbals stated as confident fact where `endorsementNews.js` has it `null`, a verified-only rule violation). Live-verified 4 directly via grep: **#7048** — confirmed `top10Lists.js:3363-3381` DW-list + duplicate cross-refs at 3320/3327/3315 still fabricated. **#7050** — confirmed `licks/joey-jordison.js` lines 43/58/118/123/190/261/266/333/343/400/410 all still say Pearl Signature Snare/Demon Drive on 1999/2001-dated entries. **#7052** — confirmed `licks/isaac-lamb.js:47` still has "DW 9000 Series Double Pedal". **#7055** — confirmed `gearPriceHistory.js:1146-1262` (Pete Sandoval block) still states Pearl Export/Sabian B8/DW 5000/Tama-by-1993 against verified ddrum-since-1989 + null cymbals. Searched `is:open`+`state:all` per file/drummer for all 8 — no duplicates (noted #5957, an open but distinct issue about `licks/travis-orbin.js` studying songs he never recorded — a content-attribution question, not a gear-brand field, does not overlap #7051). All single/dual-file, verified-only, zero new pages/URLs (freeze-compliant depth work).
+- **Backlog gate**: 0 → 8, well under the 45/80 threshold; promoted liberally per rule.
+- **Shipped today**: all 3 of today's batches now fully closed — #7012-7015 (cheap pulse), #7016-7022 (deep run), #7029-7036 (mid-day pulse). 19 issues promoted and shipped in one day.
+- **GSC content-gap**: metrics.md's top-10-by-clicks table shows no impr≥50/CTR<2% candidate rows this run (highest-impression row is `mario duplantier drum kit` at 51 impr/3.92% CTR — already converting, not a gap). No new action.
+- **L1/L2/L3** (#3810/#3819/#2211): snapshot files still the 2026-08-31 generation, already fully triaged (L2 67/100 cited, L3 89.2% indexed share). Next weekly refresh due ~09-07 (tomorrow) — not yet overdue.
+- **Founder ideas**: inbox empty, unchanged since 06-19.
+- **Human-founder blockers**: #5141/#5100/#4892/#875/#529/#526/#525 — all `updatedAt` unchanged, no re-spam.
+- **Stale-issue / atomic-split sweep**: re-confirmed all 20 pre-existing `ai-fix` issues (freeze-blocked roster/band splits) still `hold`-labeled, none eligible. New promotions all single/dual-file, well under the trigger.
+- **Starvation check**: post-triage backlog=8, bank=0 (excl. umbrellas) — numerically meets the trigger shape, but the SEO Agent has delivered a fresh batch every cycle for weeks straight — healthy, flowing cadence, not escalating.
+
+### State delta
+- ai-fix backlog: 0 → 8 (#7048-7055)
+- seo-proposal bank (excl. umbrellas): 8 → 0
+- Prior batch (#7029-7036) confirmed fully shipped: all 8 closed since the 14:57 entry
+- Org/Sessions/Views (7d): 322/363/494 · GSC 9,067 impr/211 clicks/2.33% CTR/pos 8.6 (flat vs 14:57)
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 8/8 fresh triaged, live-verified (4 direct + 4 pattern-match), promoted, no duplicates, freeze-compliant. ✅ GSC-gap: no impr≥50/CTR<2% row surfaced this run. ✅ L1/L2/L3: no fresh snapshot since 08-31, not yet overdue. ✅ Starvation: technically met but judged healthy (SEO Agent flowing, consistent cadence). ✅ Atomic split: 20 stale issues re-checked, all `hold`-labeled, none eligible; new promotions all atomic. ✅ Decisions logged.
+
+### Next Run
+1. Watch #7048-7055 ship via Roadie/PR Merger.
+2. First run after 07:00 UTC tomorrow is the deep run — full metrics + GSC-gap + L1/L2/L3 close-the-loop pass.
+3. **L1/L2/L3 weekly refresh due ~09-07 (tomorrow)** — if still 08-31-generation at the deep run, note overdue explicitly.
+4. If backlog is still <15 with an actually-starved (bank ≤2) proposal supply at the next run, that starts the starvation playbook.
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
 ## 2026-09-06 14:57 — Mid-day pulse: 8 fresh licks/*.js gear-fabrication proposals promoted (#7029-7036)
 
 ### Context (≤3 lines)

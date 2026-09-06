@@ -42,7 +42,7 @@ export const licks = {
       { "name": "Pearl Reference Series Kit", "type": "drums", "link": null },
       { "name": "Sabian HHX & AAX Cymbals", "type": "cymbals", "link": null },
       { "name": "Pearl Demon Drive Double Pedal", "type": "hardware", "link": null },
-      { "name": "Vic Firth Mike Mangini Signature", "type": "sticks", "link": null }
+      { "name": "Vater Mike Mangini Wicked Piston", "type": "sticks", "link": null }
     ],
     "learningTips": [
       "Practise weak-side leads so both hands and feet are equally capable",
@@ -103,7 +103,7 @@ export const licks = {
       { "name": "Pearl Reference Series Kit", "type": "drums", "link": null },
       { "name": "Sabian HHX & AAX Cymbals", "type": "cymbals", "link": null },
       { "name": "Pearl Demon Drive Double Pedal", "type": "hardware", "link": null },
-      { "name": "Vic Firth Mike Mangini Signature", "type": "sticks", "link": null }
+      { "name": "Vater Mike Mangini Wicked Piston", "type": "sticks", "link": null }
     ],
     "learningTips": [
       "Learn linear phrases slowly as isolated exercises first",
@@ -164,7 +164,7 @@ export const licks = {
       { "name": "Pearl Reference Series Kit", "type": "drums", "link": null },
       { "name": "Sabian HHX & AAX Cymbals", "type": "cymbals", "link": null },
       { "name": "Pearl Demon Drive Double Pedal", "type": "hardware", "link": null },
-      { "name": "Vic Firth Mike Mangini Signature", "type": "sticks", "link": null }
+      { "name": "Vater Mike Mangini Wicked Piston", "type": "sticks", "link": null }
     ],
     "learningTips": [
       "Count the groupings out loud and mark every section change",
@@ -225,7 +225,7 @@ export const licks = {
       { "name": "Pearl Reference Series Kit", "type": "drums", "link": null },
       { "name": "Sabian HHX & AAX Cymbals", "type": "cymbals", "link": null },
       { "name": "Pearl Demon Drive Double Pedal", "type": "hardware", "link": null },
-      { "name": "Vic Firth Mike Mangini Signature", "type": "sticks", "link": null }
+      { "name": "Vater Mike Mangini Wicked Piston", "type": "sticks", "link": null }
     ],
     "learningTips": [
       "Practise the paradiddle at 60 BPM with a metronome, both leading with right and left hand, until the strokes are identical",
@@ -286,7 +286,7 @@ export const licks = {
       { "name": "Pearl Reference Series Kit", "type": "drums", "link": null },
       { "name": "Sabian HHX & AAX Cymbals", "type": "cymbals", "link": null },
       { "name": "Pearl Demon Drive Double Pedal", "type": "hardware", "link": null },
-      { "name": "Vic Firth Mike Mangini Signature", "type": "sticks", "link": null }
+      { "name": "Vater Mike Mangini Wicked Piston", "type": "sticks", "link": null }
     ],
     "learningTips": [
       "Learn the 5-over-4 cycle by speaking it first: \"1-2-3-4-5\" over a steady quarter-note pulse until the landing feels natural",
@@ -347,7 +347,7 @@ export const licks = {
       { "name": "Pearl Reference Series Kit", "type": "drums", "link": null },
       { "name": "Sabian HHX & AAX Cymbals", "type": "cymbals", "link": null },
       { "name": "Pearl Demon Drive Double Pedal", "type": "hardware", "link": null },
-      { "name": "Vic Firth Mike Mangini Signature", "type": "sticks", "link": null }
+      { "name": "Vater Mike Mangini Wicked Piston", "type": "sticks", "link": null }
     ],
     "learningTips": [
       "Isolate the fill at 70 BPM and play it perfectly ten times before advancing to 80 BPM",

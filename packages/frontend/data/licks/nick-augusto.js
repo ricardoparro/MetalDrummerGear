@@ -42,8 +42,8 @@ export const licks = {
     "gearUsed": [
       { "name": "Tama Starclassic Performer B/B", "type": "drums", "link": null },
       { "name": "Meinl MB20 Cymbals", "type": "cymbals", "link": null },
-      { "name": "Tama Iron Cobra Double Pedal", "type": "pedals", "link": null },
-      { "name": "Promark 5B Sticks", "type": "sticks", "link": null }
+      { "name": "Pearl Demon Drive Double Bass Pedal", "type": "pedals", "link": null },
+      { "name": "Vic Firth American Classic 5B Sticks", "type": "sticks", "link": null }
     ],
     "learningTips": [
       "Learn the ride pattern alone at 160 BPM before adding any other limb — the ride sets the groove's entire character",
@@ -104,7 +104,7 @@ export const licks = {
     "gearUsed": [
       { "name": "Tama Starclassic Performer B/B", "type": "drums", "link": null },
       { "name": "Meinl MB20 Cymbals", "type": "cymbals", "link": null },
-      { "name": "Tama Iron Cobra Double Pedal", "type": "pedals", "link": null },
+      { "name": "Pearl Demon Drive Double Bass Pedal", "type": "pedals", "link": null },
       { "name": "Meinl Classics Custom China Cymbal", "type": "cymbals", "link": null }
     ],
     "learningTips": [
@@ -167,7 +167,7 @@ export const licks = {
       { "name": "Tama Starclassic Performer B/B", "type": "drums", "link": null },
       { "name": "Meinl MB20 Heavy Metal Cymbals", "type": "cymbals", "link": null },
       { "name": "Meinl Classics Custom China Cymbal", "type": "cymbals", "link": null },
-      { "name": "Tama Iron Cobra Double Pedal", "type": "pedals", "link": null }
+      { "name": "Pearl Demon Drive Double Bass Pedal", "type": "pedals", "link": null }
     ],
     "learningTips": [
       "Learn the blast-to-groove handoff at 100 BPM before raising tempo — the transition out of the blast is where timing errors accumulate",

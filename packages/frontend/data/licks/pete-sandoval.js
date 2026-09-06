@@ -39,10 +39,9 @@ export const licks = {
       "description": "Isolated drum track of Pete Sandoval's blast beats and double bass on Chapel of Ghouls"
     },
     "gearUsed": [
-      { "name": "ddrum Dios Series Kit", "type": "drums", "link": null },
-      { "name": "Sabian AAX Cymbals", "type": "cymbals", "link": null },
-      { "name": "ddrum Mercury Double Pedal", "type": "hardware", "link": null },
-      { "name": "Ahead Signature Sticks", "type": "sticks", "link": null }
+      { "name": "ddrum Drum Kit", "type": "drums", "link": null },
+      { "name": "ddrum Hardware", "type": "hardware", "link": null },
+      { "name": "Promark or Vic Firth Sticks (5B/2B)", "type": "sticks", "link": null }
     ],
     "learningTips": [
       "Build the blast beat slowly until the single strokes are perfectly even",
@@ -100,10 +99,9 @@ export const licks = {
       "description": "Pete Sandoval demonstrates the extreme blast-beat speed and double-bass stamina behind his Morbid Angel playing"
     },
     "gearUsed": [
-      { "name": "ddrum Dios Series Kit", "type": "drums", "link": null },
-      { "name": "Sabian AAX Cymbals", "type": "cymbals", "link": null },
-      { "name": "ddrum Mercury Double Pedal", "type": "hardware", "link": null },
-      { "name": "Ahead Signature Sticks", "type": "sticks", "link": null }
+      { "name": "ddrum Drum Kit", "type": "drums", "link": null },
+      { "name": "ddrum Hardware", "type": "hardware", "link": null },
+      { "name": "Promark or Vic Firth Sticks (5B/2B)", "type": "sticks", "link": null }
     ],
     "learningTips": [
       "Practise at the fastest blast you can stay relaxed, not the fastest you can survive",
@@ -161,10 +159,9 @@ export const licks = {
       "description": "Pete Sandoval's drum-cam of Dominate, showing his blast-to-groove gear changes and control"
     },
     "gearUsed": [
-      { "name": "ddrum Dios Series Kit", "type": "drums", "link": null },
-      { "name": "Sabian AAX Cymbals", "type": "cymbals", "link": null },
-      { "name": "ddrum Mercury Double Pedal", "type": "hardware", "link": null },
-      { "name": "Ahead Signature Sticks", "type": "sticks", "link": null }
+      { "name": "ddrum Drum Kit", "type": "drums", "link": null },
+      { "name": "ddrum Hardware", "type": "hardware", "link": null },
+      { "name": "Promark or Vic Firth Sticks (5B/2B)", "type": "sticks", "link": null }
     ],
     "learningTips": [
       "Isolate each section and get the transitions smooth before combining",

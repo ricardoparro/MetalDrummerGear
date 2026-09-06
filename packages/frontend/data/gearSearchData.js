@@ -15,6 +15,7 @@ export const GEAR_DATABASE = {
     { id: 'tama-starclassic-bubinga', name: 'Tama Starclassic Bubinga', brand: 'tama', category: 'drums', tier: 'pro', price: 4200, keywords: ['bubinga', 'starclassic', 'tama'] },
     { id: 'tama-starclassic-walnut-birch', name: 'Tama Starclassic Walnut/Birch', brand: 'tama', category: 'drums', tier: 'pro', price: 3800, keywords: ['walnut', 'birch', 'starclassic', 'tama'] },
     { id: 'tama-superstar-classic', name: 'Tama Superstar Classic', brand: 'tama', category: 'drums', tier: 'mid', price: 1200, keywords: ['superstar', 'tama', 'classic'] },
+    { id: 'tama-starclassic-performer', name: 'Tama Starclassic Performer B/B', brand: 'tama', category: 'drums', tier: 'pro', price: 3600, keywords: ['starclassic', 'performer', 'tama', 'birch', 'bubinga'] },
     { id: 'pearl-reference-pure', name: 'Pearl Reference Pure', brand: 'pearl', category: 'drums', tier: 'pro', price: 3500, keywords: ['reference', 'pure', 'maple', 'pearl'] },
     { id: 'pearl-reference-series', name: 'Pearl Reference Series', brand: 'pearl', category: 'drums', tier: 'pro', price: 3200, keywords: ['reference', 'pearl'] },
     { id: 'pearl-masterworks', name: 'Pearl Masterworks Stadium Exotic', brand: 'pearl', category: 'drums', tier: 'pro', price: 4800, keywords: ['masterworks', 'exotic', 'stadium', 'pearl'] },
@@ -33,6 +34,7 @@ export const GEAR_DATABASE = {
     { id: 'ludwig-legacy', name: 'Ludwig Legacy Mahogany', brand: 'ludwig', category: 'drums', tier: 'pro', price: 4000, keywords: ['ludwig', 'legacy', 'mahogany'] },
     { id: 'gretsch-usa-custom', name: 'Gretsch USA Custom', brand: 'gretsch', category: 'drums', tier: 'pro', price: 4500, keywords: ['gretsch', 'usa', 'custom'] },
     { id: 'yamaha-recording-custom', name: 'Yamaha Recording Custom', brand: 'yamaha', category: 'drums', tier: 'pro', price: 3500, keywords: ['yamaha', 'recording', 'custom'] },
+    { id: 'ocdp-custom-kit', name: 'OCDP Custom Kit', brand: 'ocdp', category: 'drums', tier: 'pro', price: 3000, keywords: ['ocdp', 'orange county', 'custom kit'] },
   ],
   snare: [
     { id: 'tama-lars-ulrich', name: 'Tama LU1465 Lars Ulrich Signature 14x6.5"', brand: 'tama', category: 'snare', tier: 'pro', price: 650, keywords: ['lars', 'ulrich', 'signature', 'tama'] },
@@ -75,6 +77,7 @@ export const GEAR_DATABASE = {
     { id: 'sonor-giant', name: 'Sonor Giant Step Twin Effect Double Pedal', brand: 'sonor', category: 'hardware', tier: 'pro', price: 650, keywords: ['giant step', 'twin', 'sonor'] },
     { id: 'mapex-falcon', name: 'Mapex Falcon Double Pedal', brand: 'mapex', category: 'hardware', tier: 'mid', price: 450, keywords: ['falcon', 'mapex'] },
     { id: 'axis-a', name: 'Axis A Series Longboard Double Pedal', brand: 'axis', category: 'hardware', tier: 'pro', price: 800, keywords: ['axis', 'longboard', 'direct drive'] },
+    { id: 'gibraltar-professional', name: 'Gibraltar Professional Series', brand: 'gibraltar', category: 'hardware', tier: 'mid', price: 300, keywords: ['gibraltar', 'professional', 'hardware'] },
   ],
   sticks: [
     { id: 'ahead-lars', name: 'Ahead Lars Ulrich Signature', brand: 'ahead', category: 'sticks', tier: 'mid', price: 45, keywords: ['lars', 'ulrich', 'ahead', 'aluminum'] },
@@ -90,6 +93,7 @@ export const GEAR_DATABASE = {
     { id: 'vater-5a', name: 'Vater Hickory 5A', brand: 'vater', category: 'sticks', tier: 'budget', price: 12, keywords: ['5a', 'hickory', 'vater'] },
     { id: 'vater-5b', name: 'Vater Hickory 5B', brand: 'vater', category: 'sticks', tier: 'budget', price: 12, keywords: ['5b', 'hickory', 'vater'] },
     { id: 'tama-mario', name: 'Tama Mario Duplantier Signature', brand: 'tama', category: 'sticks', tier: 'budget', price: 15, keywords: ['mario', 'duplantier', 'tama'] },
+    { id: 'zildjian-drumsticks', name: 'Zildjian Drumsticks', brand: 'zildjian', category: 'sticks', tier: 'budget', price: 12, keywords: ['zildjian', 'drumsticks'] },
   ],
 };
 
@@ -155,11 +159,11 @@ export const DRUMMER_GEAR = {
     sticks: ['vicfirth-5a'],
   },
   'john-otto': {
-    drums: ['pearl-reference-series'],
+    drums: ['ocdp-custom-kit'],
     snare: ['pearl-sensitone'],
     cymbals: ['zildjian-a-custom'],
-    hardware: ['pearl-eliminator'],
-    sticks: ['vicfirth-5b'],
+    hardware: ['gibraltar-professional'],
+    sticks: ['zildjian-drumsticks'],
   },
   'jay-weinberg': {
     drums: ['sjc-custom'],
@@ -204,10 +208,10 @@ export const DRUMMER_GEAR = {
     sticks: ['tama-mario'],
   },
   'brann-dailor': {
-    drums: ['dw-collectors'],
-    snare: ['dw-collectors-snare'],
+    drums: ['tama-starclassic-performer'],
+    snare: ['tama-slp'],
     cymbals: ['meinl-byzance'],
-    hardware: ['dw-9000'],
+    hardware: ['tama-speed-cobra'],
     sticks: ['vater-5b'],
   },
   'chris-adler': {
@@ -285,7 +289,7 @@ export const BRAND_SEO_DATA = {
     description: 'American premium drum manufacturer known for meticulous craftsmanship.',
     metaTitle: 'Metal Drummers Who Use DW | MetalForge Gear Search',
     metaDescription: 'Explore which metal drummers play DW drums. Discover the premium setups of progressive metal legends.',
-    keywords: ['dw drums', 'drum workshop', 'dw collectors', 'brann dailor drums'],
+    keywords: ['dw drums', 'drum workshop', 'dw collectors'],
     affiliateUrl: 'https://www.thomann.de/intl/search_dir.html?sw=dw+drums&tag=metalforge',
   },
   ludwig: {

@@ -5,6 +5,56 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-09-06 03:00 UTC*
 
 ---
+## 2026-09-06 14:57 — Mid-day pulse: 8 fresh licks/*.js gear-fabrication proposals promoted (#7029-7036)
+
+### Context (≤3 lines)
+First run after 13:00 UTC (mid-day pulse). Metrics 14:57 UTC (315 users/354 sessions/488 views 7d; GSC 9,067 impr/211 clicks/2.33% CTR/pos 8.6, flat vs the 10:17 run). Eligible `ai-fix` backlog 1 at run start (#7021, 6 of the 7 in the 10:17 batch already shipped/closed), 0 open PRs, 8 fresh untriaged `seo-proposal` (#7029-7036, filed 11:34-11:35 UTC) plus the 3 standing L1/L2/L3 umbrellas (#3810/#3819/#2211).
+
+### Actions taken
+- **Promoted all 8** (`ai-fix`): same systemic gear-brand-fabrication class, this batch entirely in `licks/*.js` (a file family not previously audited for this bug) vs verified `endorsementNews.js`. #7029 (Danny Carey pedal fabricated DW 9000 across all 6 entries vs verified Sonor Giant Step), #7030 (Flo Mounier 2008 entry wrong-era drums + unverified cymbal brand across all 6 entries), #7031 (Matt Halpern drums/cymbals/pedal fabricated Mapex/Byzance/Falcon across all 6 entries vs verified Yamaha since 2010 / Pearl since 2015), #7032 (Pete Sandoval 4 fabricated brands/models where `endorsementNews.js` explicitly marks the fields unconfirmed/null — worse than a wrong-brand error), #7033 (Raymond Herrera drums/cymbals fabricated Pearl/Sabian across all 3 entries vs verified Tama/Zildjian/DW since 1995), #7034 (Tomas Haake pedal fabricated "Axis Longboard" across all 5 entries vs verified Tama Speed Cobra — looks like a copy-paste artifact from Hellhammer's correctly-verified Axis pedal entry), #7035 (Mike Mangini sticks fabricated Vic Firth across all 6 entries vs verified Vater), #7036 (Nick Augusto wrong sticks + wrong pedal brand, also flags a self-contradiction in `endorsementNews.js`). Live-verified 3 directly via grep: **#7034** — confirmed `licks/tomas-haake.js:49,116,188,260,332` all still say "Axis Longboard Pedals" against `endorsementNews.js`'s verified Tama Speed Cobra. **#7035** — confirmed `licks/mike-mangini.js` still has 6 "Vic Firth Mike Mangini Signature" hits. **#7029** — confirmed `licks/danny-carey.js` still has 6 "DW 9000 Bass Drum Pedals" hits against verified Sonor Giant Step. Searched `is:open label:ai-fix --search "<drummer>"` for all 8 — no duplicates. All single-file, verified-only, zero new pages/URLs (freeze-compliant depth work).
+- **Backlog gate**: 1 → 9, well under the 45/80 threshold; promoted liberally per rule.
+- **GSC content-gap**: same 2 rows as the 10:17 run (`flo mounier` 82 impr/1.22% CTR/pos 8.4, `jaska raatikainen` 77 impr/1.30% CTR/pos 8.4) — both already fixed (#6973 09-05, #6740 09-02 respectively) and confirmed via `gh issue list --state all` search; identical 7-day window hasn't rolled yet. No new action. (Note: #7030 promoted this run is a distinct `licks/flo-mounier.js` era/brand data fix, unrelated to the CTR metaDescription fix #6973.)
+- **L1/L2/L3** (#3810/#3819/#2211): snapshot files still the 2026-08-31 generation, already fully triaged. Next weekly refresh due ~09-07 (tomorrow) — still not overdue as of this run.
+- **Founder ideas**: inbox empty, unchanged since 06-19.
+- **Human-founder blockers**: #5141/#5100/#4892/#875/#529/#526/#525 — all `updatedAt` unchanged, no re-spam.
+- **Stale-issue / atomic-split sweep**: re-confirmed all 20 pre-existing `ai-fix` issues (freeze-blocked roster/band splits) still `hold`-labeled, none eligible. New promotions all single-file, well under the trigger.
+- **Starvation check**: post-triage backlog=9, bank=0 (excl. umbrellas) — numerically meets the trigger shape, but the SEO Agent has delivered a fresh batch every cycle for weeks straight — healthy, flowing cadence, not escalating.
+
+### State delta
+- ai-fix backlog: 1 → 9 (#7021 carried over + #7029-7036)
+- seo-proposal bank (excl. umbrellas): 8 → 0
+- Prior batch (#7016-7022) confirmed mostly shipped: 6/7 closed since the 10:17 entry, only #7021 remains open
+- Org/Sessions/Views (7d): 315/354/488 · GSC 9,067 impr/211 clicks/2.33% CTR/pos 8.6 (flat vs 10:17)
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 8/8 fresh triaged, live-verified (3 direct + 5 pattern-match), promoted, no duplicates, freeze-compliant. ✅ GSC-gap: 2 rows re-confirmed already fixed, data lag. ✅ L1/L2/L3: no fresh snapshot since 08-31, not yet overdue. ✅ Starvation: technically met but judged healthy (SEO Agent flowing, consistent cadence). ✅ Atomic split: 20 stale issues re-checked, all `hold`-labeled, none eligible; new promotions all atomic. ✅ Decisions logged.
+
+### Next Run
+1. Watch #7021, #7029-7036 ship via Roadie/PR Merger.
+2. Evening review due ~19:00 UTC: review what shipped today, log decisions.
+3. **L1/L2/L3 weekly refresh due ~09-07** — if still 08-31-generation at next run, note overdue explicitly.
+4. If backlog is still <15 with an actually-starved (bank ≤2) proposal supply at the next run, that starts the starvation playbook.
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
 ## 2026-09-06 10:17 — Deep run: 7 fresh gear-fabrication proposals promoted (#7016-7022), new files/vein this run
 
 ### Context (≤3 lines)

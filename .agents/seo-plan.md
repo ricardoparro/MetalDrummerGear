@@ -7743,4 +7743,40 @@ Filed 7 of the 8-cap — stopped one short since the remaining medium-confidence
 1. Watch #7016-7022 ship via Roadie/PR Merger. #7016 in particular needs care — it's a "prior fix was wrong" correction, worth double-checking the implementer doesn't re-flip it back toward extendedBios.js's framing.
 2. Files newly confirmed CLEAN this round (no further sweep needed absent new data changes): `genreGearGuides-summary.js`, `drummerPhotoFocus.js`, `featuredDrummer.js`, `trendingDrummers.js`, `gearIndex.js`, `quizData.js`, `guessTheKitData.js`, `cymbalReferencePages.js`, `drumstickReferencePages.js`.
 3. `top10Lists.js` (3608 lines) still only sampled, not fully read — still has unswept surface for a future round.
+
+---
+
+## 2026-09-06 (Sunday) 11:25 UTC — SEO Agent run (2nd run today)
+
+### Bank check
+Open `seo-proposal` bank at run start: 10 (well under the 45 floor) → file up to 8 net-new. Metrics 11:25 UTC (308 users/345 sessions/480 views 7d; GSC 9,067 impr/211 clicks/2.33% CTR/pos 8.6). Content-gap queries (`flo mounier` 82 impr/1.22% CTR, `jaska raatikainen` 77 impr/1.30% CTR) both already fixed per CEO's 10:17 UTC decisions-log entry (#6973 09-05, #6740 09-02) — GSC 7-day window still rolling the fixes in, no new action. Sunday — drum-chair watch not due (next Monday 2026-09-07, week 37, group 1).
+
+### This run's work
+Widened the `licks/*.js` gear-fabrication sweep (same class as weeks of prior merges) into the 31 lick files that had never matched a `licks/<slug>.js`-titled issue (diffed all 73 files in `packages/frontend/data/licks/` against `gh issue list --search "licks/"` titles). Dispatched 2 parallel research agents over disjoint 13/17-file splits, each cross-checking every gear mention against `endorsementNews.js`'s dated timeline and searching all-state issues for duplicates before reporting. Personally live-verified every one of the 8 findings filed below via direct `grep`/`Read` on both the lick file and `endorsementNews.js` (not just trusting subagent output), plus cross-referenced 3 additional independent files (`pedals.js`, `extendedBios.js`, `drummerComparisons.js`, `gearPriceHistory.js`) for Danny Carey's pedal brand since `endorsementNews.js` itself has no hardware field for him.
+
+One finding (nick-augusto) surfaced a same-file self-contradiction in `endorsementNews.js` itself (`currentEndorsements.drums` says Pearl, but the `timeline` array's own 2011 entry says Tama Starclassic Performer B/B with no later reversion) — logged inside the issue for a future separate fix rather than resolved here, since this run's fix only touches the lick file's sticks/pedal fields (both unambiguous) and leaves the drums field alone (already correct per the timeline).
+
+21 of 30 audited lick files came back clean (verified gear matches the dated era exactly): alex-bent, brann-dailor, charlie-benante, chris-turner, eloy-casagrande, gene-hoglan (soft/non-dated tags only, no exact contradiction), hellhammer, inferno (both already fixed by #6852), isaac-lamb (no verified endorsement data exists to check against, correctly unverifiable), joey-jordison, chris-adler, john-longstreth, john-otto, mike-portnoy, navene-koperweis, nick-barker, ray-luzier, tim-yeung, waltteri-vayrynen, adrian-erlandsson. Dropped 2 lower-confidence candidates from filing this round (kept for a future pass if they recur): shannon-larkin (`licks/shannon-larkin.js` adds an unverified "& HHX Series" to an otherwise-correct Sabian AAX claim — minor, low severity) and lars-ulrich (`licks/lars-ulrich.js` has 2 Iron Cobra pedal mentions dated 2-4 years before the verified 1990s adoption — narrower/lower-confidence than the 8 filed, and #6894 already partially fixed this same file's Enter Sandman entry).
+
+### Proposals filed this run (8)
+1. #7029 — licks/danny-carey.js: DW 9000 pedal fabricated across all 6 entries, verified Sonor Giant Step
+2. #7030 — licks/flo-mounier.js: 2008 entry wrong-era drums (Pearl vs verified Yamaha) + unverified Sabian cymbal brand across all 6 entries
+3. #7031 — SEO batch: licks/matt-halpern.js: Mapex/Byzance/Falcon fabricated across all 6 entries, verified Yamaha(2010)/Pearl(2015+)
+4. #7032 — licks/pete-sandoval.js: 4 fabricated brands/models where endorsementNews.js explicitly marks fields unconfirmed/null
+5. #7033 — licks/raymond-herrera.js: Pearl/Sabian fabricated across all 3 entries, verified Tama/Zildjian/DW since 1995
+6. #7034 — licks/tomas-haake.js: fabricated "Axis Longboard" pedal across all 5 entries, verified Tama Speed Cobra
+7. #7035 — licks/mike-mangini.js: Vic Firth fabricated signature stick across all 6 entries, verified Vater
+8. #7036 — licks/nick-augusto.js: wrong sticks brand + wrong pedal brand; flags an endorsementNews.js self-contradiction for a future fix
+
+Filed the full 8-cap — all high-confidence, independently live-verified.
+
+### Open proposals waiting on CEO triage
+- #7029-7036 (this run, 8 fresh)
+- #3810/#3819/#2211 (standing umbrellas)
+
+### Next run
+1. Watch #7029-7036 ship via Roadie/PR Merger.
+2. `licks/` sweep now covers 42 of 73 files with a title-matched issue (31 + this run's 8 minus overlaps, plus the 2 dropped-as-lower-confidence). Remaining unaudited-by-title lick files worth a future pass: check the 73-file roster again next time this vein is picked up, since some "clean" verdicts above were soft (gene-hoglan, mike-portnoy) and could harden into findings if endorsementNews.js gains more dated timeline entries for those drummers.
+3. Flag for CEO: `licks/nick-augusto.js`'s issue (#7036) surfaces a `currentEndorsements.drums`-vs-`timeline` self-contradiction inside `endorsementNews.js` for Nick Augusto (Pearl vs Tama, both claimed for 2011) — worth a dedicated fix since other files may trust `currentEndorsements` blindly and inherit the same error.
+4. Drum-chair watch: next due Monday 2026-09-07 (week 37, group 1).
 4. Drum-chair watch: next due Monday 2026-09-07 (week 37, group 1).

@@ -33,6 +33,7 @@ export const GEAR_DATABASE = {
     { id: 'ludwig-legacy', name: 'Ludwig Legacy Mahogany', brand: 'ludwig', category: 'drums', tier: 'pro', price: 4000, keywords: ['ludwig', 'legacy', 'mahogany'] },
     { id: 'gretsch-usa-custom', name: 'Gretsch USA Custom', brand: 'gretsch', category: 'drums', tier: 'pro', price: 4500, keywords: ['gretsch', 'usa', 'custom'] },
     { id: 'yamaha-recording-custom', name: 'Yamaha Recording Custom', brand: 'yamaha', category: 'drums', tier: 'pro', price: 3500, keywords: ['yamaha', 'recording', 'custom'] },
+    { id: 'ocdp-custom-kit', name: 'OCDP Custom Kit', brand: 'ocdp', category: 'drums', tier: 'pro', price: 3000, keywords: ['ocdp', 'orange county', 'custom kit'] },
   ],
   snare: [
     { id: 'tama-lars-ulrich', name: 'Tama LU1465 Lars Ulrich Signature 14x6.5"', brand: 'tama', category: 'snare', tier: 'pro', price: 650, keywords: ['lars', 'ulrich', 'signature', 'tama'] },
@@ -75,6 +76,7 @@ export const GEAR_DATABASE = {
     { id: 'sonor-giant', name: 'Sonor Giant Step Twin Effect Double Pedal', brand: 'sonor', category: 'hardware', tier: 'pro', price: 650, keywords: ['giant step', 'twin', 'sonor'] },
     { id: 'mapex-falcon', name: 'Mapex Falcon Double Pedal', brand: 'mapex', category: 'hardware', tier: 'mid', price: 450, keywords: ['falcon', 'mapex'] },
     { id: 'axis-a', name: 'Axis A Series Longboard Double Pedal', brand: 'axis', category: 'hardware', tier: 'pro', price: 800, keywords: ['axis', 'longboard', 'direct drive'] },
+    { id: 'gibraltar-professional', name: 'Gibraltar Professional Series', brand: 'gibraltar', category: 'hardware', tier: 'mid', price: 400, keywords: ['gibraltar', 'professional', 'hardware'] },
   ],
   sticks: [
     { id: 'ahead-lars', name: 'Ahead Lars Ulrich Signature', brand: 'ahead', category: 'sticks', tier: 'mid', price: 45, keywords: ['lars', 'ulrich', 'ahead', 'aluminum'] },
@@ -85,6 +87,7 @@ export const GEAR_DATABASE = {
     { id: 'vicfirth-5a', name: 'Vic Firth American Classic 5A', brand: 'vicfirth', category: 'sticks', tier: 'budget', price: 12, keywords: ['5a', 'american', 'classic', 'vic firth'] },
     { id: 'vicfirth-5b', name: 'Vic Firth American Classic 5B', brand: 'vicfirth', category: 'sticks', tier: 'budget', price: 12, keywords: ['5b', 'american', 'classic', 'vic firth'] },
     { id: 'vater-5a', name: 'Vater Hickory 5A', brand: 'vater', category: 'sticks', tier: 'budget', price: 12, keywords: ['5a', 'hickory', 'vater'] },
+    { id: 'zildjian-sticks', name: 'Zildjian Drumsticks', brand: 'zildjian', category: 'sticks', tier: 'budget', price: 12, keywords: ['zildjian', 'drumsticks'] },
   ],
 };
 
@@ -150,11 +153,11 @@ export const DRUMMER_GEAR = {
     sticks: ['vicfirth-5a'],
   },
   'john-otto': {
-    drums: ['pearl-reference-series'],
+    drums: ['ocdp-custom-kit'],
     snare: ['pearl-sensitone'],
     cymbals: ['zildjian-a-custom'],
-    hardware: ['pearl-eliminator'],
-    sticks: ['vicfirth-5b'],
+    hardware: ['gibraltar-professional'],
+    sticks: ['zildjian-sticks'],
   },
   'jay-weinberg': {
     drums: ['sjc-custom'],
@@ -199,10 +202,10 @@ export const DRUMMER_GEAR = {
     sticks: ['vicfirth-5a'],
   },
   'brann-dailor': {
-    drums: ['dw-collectors'],
-    snare: ['dw-collectors-snare'],
+    drums: ['tama-starclassic-bubinga'],
+    snare: ['tama-slp'],
     cymbals: ['meinl-byzance'],
-    hardware: ['dw-9000'],
+    hardware: ['tama-speed-cobra'],
     sticks: ['vicfirth-5a'],
   },
   'chris-adler': {
@@ -280,7 +283,7 @@ export const BRAND_SEO_DATA = {
     description: 'American premium drum manufacturer known for meticulous craftsmanship.',
     metaTitle: 'Metal Drummers Who Use DW | MetalForge Gear Search',
     metaDescription: 'Explore which metal drummers play DW drums. Discover the premium setups of progressive metal legends.',
-    keywords: ['dw drums', 'drum workshop', 'dw collectors', 'brann dailor drums'],
+    keywords: ['dw drums', 'drum workshop', 'dw collectors'],
     affiliateUrl: 'https://www.thomann.de/intl/search_dir.html?sw=dw+drums&tag=metalforge',
   },
   ludwig: {

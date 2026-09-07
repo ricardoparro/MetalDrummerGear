@@ -870,7 +870,7 @@ Vic Firth's signature roster includes some of metal's most recognizable drummers
         { year: 1963, event: "Firth founds the Vic Firth Company in Massachusetts to manufacture his own drumstick and mallet designs." },
         { year: 2010, event: "Vic Firth Company merges with the Avedis Zildjian Company." },
       ],
-      metalEra: "Vic Firth's American Classic 5A/5B is among the most widely used stick models across every metal subgenre, and the brand's signature roster includes some of metal's biggest names: George Kollias (Nile) plays the SGK signature, Nicko McBrain (Iron Maiden) the SNM, and Vinnie Paul (Pantera) had his own SVP model. The American Classic Metal and Extreme (X5A/X5B) lines extend that lineup with purpose-built heavier, longer variants for hard-hitting players.",
+      metalEra: "Vic Firth's American Classic 5A/5B is among the most widely used stick models across every metal subgenre, and the brand's signature roster includes some of metal's biggest names, including Nicko McBrain (Iron Maiden), who plays the SNM. The American Classic Metal and Extreme (X5A/X5B) lines extend that lineup with purpose-built heavier, longer variants for hard-hitting players.",
       sources: ["https://vicfirth.com", "https://en.wikipedia.org/wiki/Vic_Firth"],
     },
     themeLinks: [
@@ -878,17 +878,16 @@ Vic Firth's signature roster includes some of metal's most recognizable drummers
     ],
     metaTitle: "Vic Firth Metal Drummers - Who Plays Vic Firth Sticks | MetalForge",
     metaDescription:
-      "Discover which metal drummers play Vic Firth drumsticks. From George Kollias' SGK to Nicko McBrain's SNM signature, explore Vic Firth setups used in metal.",
+      "Discover which metal drummers play Vic Firth drumsticks. From the American Classic 5A/5B to Nicko McBrain's SNM signature, explore Vic Firth setups used in metal.",
     keywords: ["vic firth drumsticks", "vic firth metal drummers", "vic firth american classic", "george kollias sticks", "nicko mcbrain sticks"],
     popularModels: [
       { name: "American Classic 5A/5B", description: "The industry-reference stick sizing every other brand is measured against", affiliate: "vic-firth-american-classic" },
       { name: "American Classic Metal", description: "A long, thick American Classic variant built for extra reach and power", affiliate: "vic-firth-american-classic-metal" },
-      { name: "SGK Signature", description: "George Kollias' signature model, built for extreme-speed blast-beat drumming", affiliate: "vic-firth-sgk" },
     ],
     faq: [
       {
         question: "What Vic Firth sticks do metal drummers use?",
-        answer: "Metal drummers commonly use the American Classic 5A or 5B, or one of Vic Firth's signature models — George Kollias plays the SGK, Nicko McBrain the SNM, and Vinnie Paul used the SVP."
+        answer: "Metal drummers commonly use the American Classic 5A or 5B, or one of Vic Firth's signature models — Nicko McBrain plays the SNM."
       },
       {
         question: "Is Vic Firth good for metal?",

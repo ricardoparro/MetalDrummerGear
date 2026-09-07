@@ -206,21 +206,37 @@ import { getBrandForPedal } from './data/pedalBrands';
 // ==========================================
 
 // Album Articles for iconic metal album gear breakdowns (Issue #663)
-// Lazy loaded for performance optimization (#708) - 206KB module
-let _albumArticlesModule = null;
-let _albumArticlesLoadPromise = null;
-const loadAlbumArticles = () => import('./data/albumArticles');
+// Issue #7149 (L4 perf: /articles/<slug> LCP 26s on mobile): the full
+// albumArticles barrel is ~10MB raw (every drummer's article bodies in one
+// chunk). Related-article rails/list pages only ever need lightweight
+// metadata (title/slug/drummer/cover), so they load the small
+// `albumArticlesCatalog` chunk below instead. The single article a reader is
+// actually viewing loads its own per-drummer chunk via loadAlbumArticleBody.
+let _albumArticlesCatalogModule = null;
+let _albumArticlesCatalogLoadPromise = null;
+const loadAlbumArticlesCatalog = () => import('./data/albumArticles/albumArticlesCatalog.js');
 
 function preloadAlbumArticles() {
-  if (!_albumArticlesLoadPromise) {
-    _albumArticlesLoadPromise = loadAlbumArticles().then(m => { _albumArticlesModule = m; return m; });
+  if (!_albumArticlesCatalogLoadPromise) {
+    _albumArticlesCatalogLoadPromise = loadAlbumArticlesCatalog().then(m => { _albumArticlesCatalogModule = m; return m; });
   }
-  return _albumArticlesLoadPromise;
+  return _albumArticlesCatalogLoadPromise;
 }
-function isAlbumArticlesLoaded() { return _albumArticlesModule !== null; }
-function getAlbumArticleBySlug(slug) { return _albumArticlesModule?.getAlbumArticleBySlug(slug) || null; }
-function getAllAlbumArticles() { return _albumArticlesModule?.getAllAlbumArticles() || []; }
-function isAlbumArticleSlug(slug) { return _albumArticlesModule?.isAlbumArticleSlug(slug) || false; }
+function isAlbumArticlesLoaded() { return _albumArticlesCatalogModule !== null; }
+function getAllAlbumArticles() { return _albumArticlesCatalogModule ? Object.values(_albumArticlesCatalogModule.ALBUM_ARTICLES_META) : []; }
+function isAlbumArticleSlug(slug) { return !!_albumArticlesCatalogModule?.ALBUM_ARTICLES_META[slug]; }
+
+// Full body of a single album article — only the current slug's own
+// per-drummer chunk downloads, never the whole catalog of article bodies.
+async function loadAlbumArticleBody(slug) {
+  const catalog = await preloadAlbumArticles();
+  const meta = catalog.ALBUM_ARTICLES_META[slug];
+  if (!meta) return null;
+  const loader = catalog.ALBUM_ARTICLE_LOADERS[meta.moduleFile];
+  if (!loader) return null;
+  const mod = await loader();
+  return (mod.articles || mod.default || {})[slug] || null;
+}
 
 // Metal Songs BPM database (Issue #4762, songs epic #4758 phase 4/4): lazy
 // loaded so the drummer profile page can link to its /songs/drummer/<slug>
@@ -3010,11 +3026,10 @@ function TopListPage({ theme, onBack, drummers, onSelectDrummer, listSlug, isArt
         }
       }
 
-      // First, ensure album articles module is loaded (Issue #663, fix for lazy load race condition)
-      await preloadAlbumArticles();
-
-      // Check if this is an album article
-      const albumArticle = getAlbumArticleBySlug(listSlug);
+      // Check if this is an album article - Issue #7149: loads only this
+      // slug's own per-drummer chunk (catalog lookup + single body chunk),
+      // never the full ~10MB album-articles bundle.
+      const albumArticle = await loadAlbumArticleBody(listSlug);
       if (albumArticle) {
         setList(albumArticle);
         setIsAlbumArticle(true);
@@ -3045,9 +3060,10 @@ function TopListPage({ theme, onBack, drummers, onSelectDrummer, listSlug, isArt
     const normalize = (s) => (s || '').toLowerCase().replace(/[^a-z0-9]+/g, ' ').trim();
     preloadMetalSongsBpm().then((mod) => {
       if (!mounted) return;
-      // Album articles are already loaded by this point — this effect only
-      // runs once `list`/`isAlbumArticle` are set, which happens after
-      // loadData()'s `await preloadAlbumArticles()` above resolves.
+      // The album-articles catalog is already loaded by this point — this
+      // effect only runs once `list`/`isAlbumArticle` are set, which happens
+      // after loadData()'s `await loadAlbumArticleBody()` above resolves
+      // (it awaits the shared catalog internally before its own chunk).
       const qualifyingSlugs = new Set(mod.getSongPageSlugs(getAllAlbumArticles()));
       const map = {};
       list.trackAnalysis.forEach((track) => {
@@ -4556,14 +4572,16 @@ function ArticlesIndexPage({ theme, onBack, onSelectArticle }) {
     const loadData = async () => {
       setIsLoading(true);
       
-      // Load both modules in parallel
+      // Load both modules in parallel. Issue #7149: this list view only
+      // needs title/slug metadata, so it loads the small albumArticlesCatalog
+      // chunk instead of the ~10MB full-body album-articles bundle.
       const [albumModule, top10Module] = await Promise.all([
-        import('./data/albumArticles'),
+        import('./data/albumArticles/albumArticlesCatalog.js'),
         loadTop10Lists()
       ]);
-      
+
       // Extract album articles
-      const articles = Object.values(albumModule.ALBUM_ARTICLES || {});
+      const articles = Object.values(albumModule.ALBUM_ARTICLES_META || {});
       setAlbumArticles(articles);
       
       // Extract top10 lists that are articles (fix: use getAllTop10Lists() not top10Lists)

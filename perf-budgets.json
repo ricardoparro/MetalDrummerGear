@@ -6,9 +6,10 @@
     "warnRawBytes": 5200000
   },
   "homepageRequestGraph": {
-    "description": "Chunk names that must never be requested on initial homepage load. These are explicitly deferred behind scroll (IntersectionObserver) in TopListsSection/AlbumArticlesSection (#4407) because of their size (albumArticles ~10MB raw, top10Lists ~830KB raw). Other lazy chunks (SoundLikeGuides, drummerComparisons, etc.) are intentionally preloaded in the background via requestIdleCallback for fast subsequent navigation and are not covered by this check.",
+    "description": "Chunk names that must never be requested on initial homepage load. These are explicitly deferred behind scroll (IntersectionObserver) in TopListsSection/AlbumArticlesSection (#4407) because of their size (top10Lists ~830KB raw). Other lazy chunks (SoundLikeGuides, drummerComparisons, etc.) are intentionally preloaded in the background via requestIdleCallback for fast subsequent navigation and are not covered by this check. 2026-09-07 (#7149): data/albumArticles.js was split so a single /articles/<slug> page only downloads its own per-drummer chunk (named after the drummer's slug, e.g. \"lars-ulrich\") instead of the full ~10MB bundle; the old \"albumArticles\" chunk no longer exists but is kept here defensively. The new \"albumArticlesCatalog\" chunk (lightweight metadata used by every related-articles rail/list view) is scroll-gated the same way and must stay off the homepage's initial request graph too - the 70+ per-drummer body chunks are only reachable from inside that catalog's loader map, which TopListPage (the /articles/<slug> route) is the only caller of, so guarding the catalog chunk transitively guards all of them.",
     "forbiddenChunks": [
       "albumArticles",
+      "albumArticlesCatalog",
       "top10Lists"
     ]
   }

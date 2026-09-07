@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-09-07 21:08 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-09-07 21:56 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,17 +8,17 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 321 |
-| Sessions | 357 |
-| Page views | 485 |
-| Engagement rate | 64.43% |
-| Avg session (s) | 129 |
+| Active users | 324 |
+| Sessions | 361 |
+| Page views | 490 |
+| Engagement rate | 63.71% |
+| Avg session (s) | 128 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
+| /drummer/mario-duplantier | 21 | 18 |
 | / | 20 | 13 |
-| /drummer/mario-duplantier | 20 | 17 |
 | /drummer/john-otto | 15 | 14 |
 | /drummers | 15 | 5 |
 | /drummer/bill-ward | 12 | 8 |
@@ -31,22 +31,22 @@
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 298 | 266 |
-| Direct | 48 | 44 |
-| Unassigned | 21 | 21 |
+| Organic Search | 301 | 268 |
+| Direct | 50 | 46 |
+| Unassigned | 23 | 23 |
 | AI Assistant | 2 | 2 |
 | Referral | 2 | 2 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 133 | 116 |
+| United States | 135 | 117 |
 | United Kingdom | 32 | 22 |
 | Canada | 19 | 18 |
-| France | 16 | 15 |
+| France | 17 | 16 |
 | Australia | 15 | 13 |
 | Brazil | 12 | 12 |
-| Singapore | 11 | 11 |
+| Singapore | 12 | 12 |
 | China | 9 | 9 |
 | Finland | 8 | 7 |
 | Germany | 8 | 8 |

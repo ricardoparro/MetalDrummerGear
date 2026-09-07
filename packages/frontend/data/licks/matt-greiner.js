@@ -370,7 +370,7 @@ export const licks = {
     "bpm": 175,
     "bpmDisplay": "~175 BPM",
     "timeSignature": "4/4 (with odd time shifts)",
-    "description": "Released in 2011, August Burns Red's Leveler is widely regarded as the band's creative peak, and Matt Greiner's drumming throughout the album is a sustained masterclass in how to combine technical complexity with genuine groove. \"Empire,\" the album's extended centerpiece, contains some of the most demanding sustained double-bass playing of Greiner's career: long passages of continuous, even kick-drum patterns that must maintain their punch and clarity across a near-eight-minute arrangement of shifting sections, tempo nudges, and dramatic dynamic contrasts. What is instructive about Greiner's double-bass playing on this track — and on the Leveler album as a whole — is that it is never just a velocity showcase. Each double-bass figure is chosen and placed to serve the song: the density increases as the tension builds, the kick drops out or reduces to accents when the arrangement opens up, and sustained runs are used to drive the climactic sections with maximum physical impact. On the Leveler, Greiner was using a DW 9000 double pedal setup, and the mechanical directness of that pedal is audible in the evenness of the kick attack: there is no roll or delay between the two feet, just clean, alternating strokes that hit with equal force every time. Building that evenness across the full tempo range is the central technical challenge this lick presents. Greiner's advice for developing this kind of playing — offered in his drum clinics — is to work on single-foot endurance before combining the feet, and to prioritise the quality and evenness of each stroke over raw speed. At the Leveler's tempos, every kick stroke is heard in the mix, and any unevenness between feet will be audible. Leveler-era Greiner is the definitive example of double bass done right in a metalcore context: powerful, musical, and built on a foundation of patience and careful technique development that rewards the player willing to slow down and get it right before chasing the song's full tempo.",
+    "description": "Released in 2011, August Burns Red's Leveler is widely regarded as the band's creative peak, and Matt Greiner's drumming throughout the album is a sustained masterclass in how to combine technical complexity with genuine groove. \"Empire,\" the album's extended centerpiece, contains some of the most demanding sustained double-bass playing of Greiner's career: long passages of continuous, even kick-drum patterns that must maintain their punch and clarity across a near-eight-minute arrangement of shifting sections, tempo nudges, and dramatic dynamic contrasts. What is instructive about Greiner's double-bass playing on this track — and on the Leveler album as a whole — is that it is never just a velocity showcase. Each double-bass figure is chosen and placed to serve the song: the density increases as the tension builds, the kick drops out or reduces to accents when the arrangement opens up, and sustained runs are used to drive the climactic sections with maximum physical impact. On the Leveler, Greiner was working with a double pedal setup, and the mechanical directness of that setup is audible in the evenness of the kick attack: there is no roll or delay between the two feet, just clean, alternating strokes that hit with equal force every time. Building that evenness across the full tempo range is the central technical challenge this lick presents. Greiner's advice for developing this kind of playing — offered in his drum clinics — is to work on single-foot endurance before combining the feet, and to prioritise the quality and evenness of each stroke over raw speed. At the Leveler's tempos, every kick stroke is heard in the mix, and any unevenness between feet will be audible. Leveler-era Greiner is the definitive example of double bass done right in a metalcore context: powerful, musical, and built on a foundation of patience and careful technique development that rewards the player willing to slow down and get it right before chasing the song's full tempo.",
     "techniques": [
       "double-bass",
       "groove-drumming",
@@ -386,17 +386,17 @@ export const licks = {
     "tutorial": null,
     "gearUsed": [
       {
-        "name": "Ludwig Classic Maple Kit",
+        "name": "Pearl Reference Series Kit",
         "type": "drums",
         "link": null
       },
       {
-        "name": "Paiste 2002 Cymbals",
+        "name": "Meinl Byzance Cymbals",
         "type": "cymbals",
         "link": null
       },
       {
-        "name": "DW 9000 Double Pedal",
+        "name": "Double Bass Pedals",
         "type": "pedals",
         "link": null
       }
@@ -520,17 +520,17 @@ export const licks = {
     "tutorial": null,
     "gearUsed": [
       {
-        "name": "Ludwig Classic Maple Kit",
+        "name": "Pearl Reference Series Kit",
         "type": "drums",
         "link": null
       },
       {
-        "name": "Paiste 2002 Cymbals",
+        "name": "Meinl Byzance Cymbals",
         "type": "cymbals",
         "link": null
       },
       {
-        "name": "DW 9000 Double Pedal",
+        "name": "Double Bass Pedals",
         "type": "pedals",
         "link": null
       }

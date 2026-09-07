@@ -766,7 +766,7 @@ Beyond his work with Nile, Kollias is an accomplished drum educator, having rele
       },
       gearHighlights: {
         title: 'Gear Highlights',
-        content: `George Kollias has signature products with both Pearl Drums and Vic Firth. He was instrumental in co-designing the Pearl Demon XR double pedal, specifically engineered for extreme speed applications.
+        content: `George Kollias has a signature snare with Pearl Drums and endorses Vic Firth sticks. He was instrumental in co-designing the Pearl Demon XR double pedal, specifically engineered for extreme speed applications.
 
 **Current Setup:**
 - **Drums**: Pearl Masterworks Stadium Exotic (Piano Black with Gold Hardware)
@@ -774,11 +774,10 @@ Beyond his work with Nile, Kollias is an accomplished drum educator, having rele
 - **Cymbals**: Zildjian (14" K Mastersound Hi-Hats, K Custom Dark Crashes, A Custom Mega Bell Ride)
 - **Hardware**: Pearl Demon XR Double Pedal (co-designed)
 - **Throne**: Pearl D-3000
-- **Sticks**: Vic Firth George Kollias Signature SGK
+- **Sticks**: Vic Firth
 - **Heads**: Evans
 
 **Signature Product Features:**
-- Vic Firth SGK sticks: longer reach, balanced for speed
 - Pearl Demon XR pedal: linear action optimized for extreme speeds
 - Signature snare: designed for cut and articulation in dense metal mixes`
       },
@@ -807,7 +806,7 @@ Beyond his work with Nile, Kollias is an accomplished drum educator, having rele
           { q: 'Does George Kollias teach drumming?', a: 'Yes, George is an accomplished drum educator with instructional DVDs and worldwide clinics.' },
           { q: 'When was George Kollias born?', a: 'George Kollias was born on August 30, 1977, and turns 49 on August 30, 2026.' },
           { q: 'What drum kit does George Kollias use?', a: 'George Kollias plays a Pearl Masterworks Stadium Exotic drum kit finished in Piano Black with Gold Hardware, built around his signature Pearl George Kollias 14"x6.5" snare drum. The drum kit is powered by the Pearl Demon XR double pedal — a pedal George co-designed specifically for extreme-speed blast beats — and topped with Zildjian cymbals and a Pearl D-3000 throne.' },
-          { q: 'What drum set does George Kollias use?', a: 'George Kollias\'s drum set is a Pearl Masterworks Stadium Exotic configuration in Piano Black with Gold Hardware, centered on his Pearl George Kollias Signature 14"x6.5" snare. He drives the drum set with the Pearl Demon XR double pedal he co-designed, plays Vic Firth George Kollias Signature SGK sticks, and heads it with Evans drumheads.' },
+          { q: 'What drum set does George Kollias use?', a: 'George Kollias\'s drum set is a Pearl Masterworks Stadium Exotic configuration in Piano Black with Gold Hardware, centered on his Pearl George Kollias Signature 14"x6.5" snare. He drives the drum set with the Pearl Demon XR double pedal he co-designed, plays Vic Firth sticks, and heads it with Evans drumheads.' },
           { q: 'What cymbals does George Kollias use?', a: 'George Kollias uses Zildjian cymbals, including 14" K Mastersound Hi-Hats, K Custom Dark Crashes, and an A Custom Mega Bell Ride. The K Mastersound hats and Custom Dark crashes are chosen for quick response and cutting articulation at extreme blast-beat tempos.' },
           { q: 'What pedals does George Kollias use?', a: 'George Kollias uses the Pearl Demon XR double bass drum pedal, which he co-designed with Pearl specifically for extreme-speed applications. Its linear action and lightweight beater design give Kollias the responsiveness needed to sustain blast beats well above 240 BPM.' },
           { q: 'How fast does George Kollias play?', a: 'George Kollias can sustain blast beats at 240+ BPM with clarity and precision, one of the fastest sustained tempos in extreme metal drumming. His endurance and gravity blast technique allow him to maintain that speed through extended passages without losing articulation.' }

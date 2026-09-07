@@ -77,7 +77,7 @@ export const SNARE_BRANDS = [
     positioning:
       "Sonor is one of the oldest percussion manufacturers in the world, and on the verified metal roster its customizable maple SQ2 series is the most common single Sonor snare, used alongside artist-signature models built for Tomas Haake, Nicko McBrain, and Gavin Harrison.",
     notableLines: [
-      { name: 'SQ2', description: 'A fully customizable maple shell series — the most common single Sonor snare on the verified roster, used by Hellhammer, Frost (Satyricon), and Martin Axenrot.' },
+      { name: 'SQ2', description: 'A fully customizable maple shell series — the most common single Sonor snare on the verified roster, used by Hellhammer (Mayhem).' },
       { name: 'Artist-signature models', description: 'Purpose-built signature snares for roster drummers, including Tomas Haake (Meshuggah), Nicko McBrain (Iron Maiden), and Gavin Harrison.' },
     ],
     source: { label: 'Sonor — Wikipedia (company history)', url: 'https://en.wikipedia.org/wiki/Sonor' },

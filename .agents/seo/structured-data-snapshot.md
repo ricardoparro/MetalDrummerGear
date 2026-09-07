@@ -2,17 +2,17 @@
 
 *Auto-written by `.github/workflows/check-structured-data.yml`. CEO Agent: read this every run when deciding which JSON-LD gaps to file `ai-fix` issues for. This catches the class of bug GSC flags as "Missing field X" before Google does.*
 
-**Generated:** 2026-08-31T17:20:57.946Z
-**Sitemap URLs total:** 3174 · **Sampled this run:** 150 (cap 150)
-**Compared against:** 2026-08-24.json
+**Generated:** 2026-09-07T15:26:43.700Z
+**Sitemap URLs total:** 3172 · **Sampled this run:** 150 (cap 150)
+**Compared against:** 2026-08-31.json
 
 **150 URLs scanned · 150 clean · 0 with issues · WoW: +0 new, −0 fixed**
 
 **Counts:** `ok`=150
 
-**Sample coverage (by URL type):** `articles` 22/432 · `bands` 22/48 · `drummer` 22/619 · `guides` 21/354 · `licks` 21/295 · `lists` 21/98 · `other` 21/1328
+**Sample coverage (by URL type):** `articles` 22/432 · `bands` 22/48 · `drummer` 22/619 · `guides` 21/354 · `licks` 21/295 · `lists` 21/97 · `other` 21/1327
 
-> ⚠️ Cap reached — not every URL was scanned this run: `other` 1307 skipped, `guides` 333 skipped, `lists` 77 skipped, `articles` 410 skipped, `drummer` 597 skipped, `bands` 26 skipped, `licks` 274 skipped.
+> ⚠️ Cap reached — not every URL was scanned this run: `other` 1306 skipped, `guides` 333 skipped, `lists` 76 skipped, `articles` 410 skipped, `drummer` 597 skipped, `bands` 26 skipped, `licks` 274 skipped.
 
 ## Classification
 
@@ -176,28 +176,28 @@ _(none)_
 - `https://metalforge.io/drummer/alex-bent/heads`
 - `https://metalforge.io/guides/best-bass-drum-pedals-for-technical-death-metal`
 - `https://metalforge.io/drummers/aquiles-priester/licks/aquiles-priester-rebirth`
-- `https://metalforge.io/lists/best-metal-drummers-playing-dw-kits`
+- `https://metalforge.io/lists/best-metal-drummers-playing-meinl-cymbals`
 - `https://metalforge.io/drummers/abe-cunningham/licks`
 - `https://metalforge.io/articles/animals-as-leaders-drum-setup`
 - `https://metalforge.io/bands/fear-factory`
 - `https://metalforge.io/drummer/alex-bent/pedals`
 - `https://metalforge.io/guides/best-bass-drum-pedals-for-thrash-metal`
 - `https://metalforge.io/drummers/aquiles-priester/licks/aquiles-priester-spread-your-fire`
-- `https://metalforge.io/lists/best-metal-drummers-playing-meinl-cymbals`
+- `https://metalforge.io/lists/best-metal-drummers-playing-pearl-kits`
 - `https://metalforge.io/drummers/adrian-erlandsson/gear-history`
 - `https://metalforge.io/articles/anthems-of-rebellion-drum-setup`
 - `https://metalforge.io/bands/godsmack`
 - `https://metalforge.io/drummer/alex-bent/snare`
 - `https://metalforge.io/guides/best-bass-drums-for-black-metal`
 - `https://metalforge.io/drummers/arin-ilejay/licks/arin-ilejay-god-forsaken-fill-cascade`
-- `https://metalforge.io/lists/best-metal-drummers-playing-pearl-kits`
+- `https://metalforge.io/lists/best-metal-drummers-playing-sabian-cymbals`
 - `https://metalforge.io/drummers/adrian-erlandsson/licks`
 - `https://metalforge.io/articles/aquiles-priester-drum-kit-guide`
 - `https://metalforge.io/bands/gojira`
 - `https://metalforge.io/drummer/alex-bent/sticks`
 - `https://metalforge.io/guides/best-bass-drums-for-death-metal`
 - `https://metalforge.io/drummers/arin-ilejay/licks/arin-ilejay-hail-to-the-king-halftime`
-- `https://metalforge.io/lists/best-metal-drummers-playing-sabian-cymbals`
+- `https://metalforge.io/lists/best-metal-drummers-playing-tama-kits`
 - `https://metalforge.io/drummers/alex-bent/gear-history`
 - `https://metalforge.io/articles/aquiles-priester-drum-setup`
 - `https://metalforge.io/bands/hate-eternal`

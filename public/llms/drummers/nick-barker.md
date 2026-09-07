@@ -6,7 +6,7 @@ country: "UK"
 primary_brand: "Sonor"
 profile_url: "https://metalforge.io/drummer/nick-barker"
 source: "https://metalforge.io"
-last_updated: "2026-08-01"
+last_updated: "2026-09-07"
 ---
 
 # Nick Barker — Drum Kit & Gear Setup
@@ -24,6 +24,12 @@ Nick Barker's drum kit and gear setup. Nick Barker is a professional metal drumm
 | Country | UK |
 | Primary brand | Sonor |
 | Drum kit | Sonor |
+
+## Kit Overview
+
+Nick Barker is an official Sonor artist, endorsed by the German drum manufacturer across his touring and session career in extreme metal. Sonor's own artist page credits him for his work with Cradle of Filth (1993–1999) and Dimmu Borgir (1999–2004), alongside his ongoing role in the grindcore supergroup Lock Up and session credits for Testament, Old Man's Child, and Exodus, among others.
+
+Sonor's artist materials do not publish a specific kit model, snare spec, cymbal brand, or drumhead endorsement for Barker, so this profile omits those fields rather than guessing — a Nick Barker drum kit breakdown at the same component-level detail as many of his peers isn't independently documented as of this writing.
 
 ## Biography
 
@@ -102,4 +108,4 @@ Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-08-01 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-07 · Source: [MetalForge.io](https://metalforge.io)*

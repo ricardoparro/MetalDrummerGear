@@ -3,10 +3,10 @@ name: "Frost"
 band: "Satyricon / 1349"
 genre: "Black Metal"
 country: "Norway"
-primary_brand: "Sonor"
+primary_brand: "Tama"
 profile_url: "https://metalforge.io/drummer/frost"
 source: "https://metalforge.io"
-last_updated: "2026-08-01"
+last_updated: "2026-09-07"
 ---
 
 # Frost — Drum Kit & Gear Setup
@@ -22,16 +22,16 @@ Frost's drum kit and gear setup. Frost is a professional metal drummer best know
 | All bands | Satyricon, 1349 |
 | Genre | Black Metal |
 | Country | Norway |
-| Primary brand | Sonor |
-| Drum kit | Sonor SQ2 Series |
-| Signature snare | Sonor SQ2 14x6" Maple |
+| Primary brand | Tama |
+| Drum kit | Tama Starclassic Bubinga |
+| Signature snare | Tama Starclassic Bubinga 14x5.5" |
 | Sticks | Vic Firth American Classic Extreme 5B |
 
 ## Kit Overview
 
-Frost plays a Sonor SQ2 Series drum kit — Germany's premium custom-build platform selected for its focused, articulate attack at the extreme blast beat tempos that define Satyricon's Nordic black metal sound. As Satyricon's drummer since 1993 and a founding member of 1349 since 2001, Frost has built one of black metal's most distinctive drum sets around a Sonor SQ2 14x6" Maple snare that delivers the dry, cutting crack heard on albums like Nemesis Divina, Volcano, and Now, Diabolical.
+Frost plays a Tama Starclassic Bubinga drum kit in Piano Black finish — a dense-shell platform selected for its focused, articulate attack at the extreme blast beat tempos that define Satyricon's Nordic black metal sound. As Satyricon's drummer since 1993 and a founding member of 1349 since 2001, Frost has built one of black metal's most distinctive drum sets around a Tama Starclassic Bubinga 14x5.5" snare that delivers the dry, cutting crack heard on albums like Nemesis Divina, Volcano, and Now, Diabolical.
 
-Zildjian A Custom and K Series cymbals define the tonal character of the Frost drum kit: 14" A Custom Hi-Hats for fast, controlled hi-hat articulation during relentless blast beat passages; 16", 17", and 18" A Custom Crashes for explosive accents; a 22" K Custom Dark Ride for dark rhythmic definition; and an 18" K China for brutal black metal punctuation. A Sonor Perfect Balance single pedal drives Frost's precise, powerful kick drum work. Vic Firth American Classic Extreme 5B sticks and Remo drumheads complete the Frost drum set — a configuration built for the sustained physical demands of Satyricon and 1349's uncompromising live performances.
+Zildjian A Custom and K Series cymbals define the tonal character of the Frost drum kit: 14" A Custom Hi-Hats for fast, controlled hi-hat articulation during relentless blast beat passages; 16", 17", and 18" A Custom Crashes for explosive accents; a 22" K Custom Dark Ride for dark rhythmic definition; and an 18" K China for brutal black metal punctuation. Tama Iron Cobra Power Glide and Lever Glide hardware drives Frost's precise, powerful kick and hi-hat work. Vic Firth American Classic Extreme 5B sticks and Remo drumheads complete the Frost drum set — a configuration built for the sustained physical demands of Satyricon and 1349's uncompromising live performances.
 
 ## Biography
 
@@ -48,10 +48,10 @@ Frost is renowned for his blistering speed, metronomic precision, and seemingly 
 
 ## Gear
 
-- **Drums:** Sonor SQ2 Series
-- **Snare:** Sonor SQ2 14x6" Maple
+- **Drums:** Tama Starclassic Bubinga
+- **Snare:** Tama Starclassic Bubinga 14x5.5"
 - **Cymbals:** Zildjian A Custom & K Series (14" A Custom Hi-Hats, 16", 17", 18" A Custom Crashes, 22" K Custom Dark Ride, 18" K China)
-- **Hardware:** Sonor Perfect Balance Pedal, Sonor Hardware
+- **Hardware:** Tama Iron Cobra Power Glide Pedal, Tama Iron Cobra Lever Glide Hi-Hat Stand
 - **Sticks:** Vic Firth American Classic Extreme 5B
 - **Heads:** Remo
 
@@ -69,15 +69,15 @@ A: Frost (Kjetil-Vidar Haraldstad) has been the drummer for Satyricon since 1993
 
 **Q: What drums does Frost play?**
 
-A: Frost plays a Sonor SQ2 Series drum kit.
+A: Frost plays a Tama Starclassic Bubinga drum kit.
 
 **Q: What drum kit does Frost play?**
 
-A: Frost's drum kit is a Sonor SQ2 Series shell pack, built around a Sonor SQ2 14"x6" maple snare drum, with Remo drumheads.
+A: Frost's drum kit is a Tama Starclassic Bubinga shell pack, built around a Tama Starclassic Bubinga 14"x5.5" snare drum, with Remo drumheads.
 
 **Q: What drum set does Frost play?**
 
-A: Frost's drum set pairs Sonor SQ2 shells and his 14"x6" maple snare with Zildjian A Custom and K Series cymbals and a Sonor Perfect Balance pedal built for his hyperspeed blast beats.
+A: Frost's drum set pairs Tama Starclassic Bubinga shells and his 14"x5.5" snare with Zildjian A Custom and K Series cymbals and a Tama Iron Cobra Power Glide pedal built for his hyperspeed blast beats.
 
 **Q: What cymbals does Frost use?**
 
@@ -85,11 +85,11 @@ A: Frost uses Zildjian A Custom and K Series cymbals, including 14" A Custom Hi-
 
 **Q: What snare drum does Frost use?**
 
-A: Frost's primary snare is the Sonor SQ2, a 14"x6" maple shell.
+A: Frost's primary snare is the Tama Starclassic Bubinga, a 14"x5.5" shell.
 
 **Q: What pedals does Frost use?**
 
-A: Frost drives his hyperspeed double bass patterns with a Sonor Perfect Balance pedal on Sonor hardware.
+A: Frost drives his hyperspeed double bass patterns with a Tama Iron Cobra Power Glide pedal on Tama hardware.
 
 **Q: What drumsticks does Frost use?**
 
@@ -97,7 +97,7 @@ A: Frost plays Vic Firth American Classic Extreme 5B drumsticks.
 
 **Q: What drumheads does Frost use?**
 
-A: Frost uses Remo drumheads across his Sonor SQ2 Series drum kit, giving him consistent response for the hyperspeed blast beats he plays with both Satyricon and 1349.
+A: Frost uses Remo drumheads across his Tama Starclassic Bubinga drum kit, giving him consistent response for the hyperspeed blast beats he plays with both Satyricon and 1349.
 
 ## Quotes
 
@@ -121,7 +121,7 @@ Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
 ## Snare
 
-Frost's snare: Sonor SQ2 14x6" Maple. See the [snares guide](https://metalforge.io/snares) for shell, size, and tuning background.
+Frost's snare: Tama Starclassic Bubinga 14x5.5". See the [snares guide](https://metalforge.io/snares) for shell, size, and tuning background.
 
 ## Cymbal Setup
 
@@ -140,7 +140,7 @@ Full breakdown: [Frost's cymbal setup](https://metalforge.io/cymbals/setups/fros
 
 ## Pedal
 
-Frost plays a Sonor Perfect Balance pedal.
+Frost plays a Tama Iron Cobra Power Glide pedal.
 
 Full breakdown: [Frost's pedal setup](https://metalforge.io/pedals/setups/frost).
 
@@ -155,4 +155,4 @@ Full breakdown: [Frost's pedal setup](https://metalforge.io/pedals/setups/frost)
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-08-01 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-07 · Source: [MetalForge.io](https://metalforge.io)*

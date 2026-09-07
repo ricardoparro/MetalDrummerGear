@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Tama"
 profile_url: "https://metalforge.io/drummer/sean-reinert"
 source: "https://metalforge.io"
-last_updated: "2026-08-01"
+last_updated: "2026-09-07"
 ---
 
 # Sean Reinert — Drum Kit & Gear Setup
@@ -26,6 +26,14 @@ Sean Reinert's drum kit and gear setup. Sean Reinert is a professional metal dru
 | Drum kit | Tama Artstar II |
 | Signature snare | Tama Artstar II Birch 14x5.5" |
 | Sticks | Vic Firth American Classic 5A |
+
+## Kit Overview
+
+Sean Reinert's defining setup was the Tama Artstar II birch shell kit he played on Death's Human (1991) — the album, recorded at Morrisound with producer Scott Burns when Reinert was just 20, that introduced jazz vocabulary and polyrhythmic complexity to death metal drumming. The Sean Reinert drum set centered on a single 22x16" bass drum with a DW 5000 double pedal rather than the twin-kick setups favored by his death metal peers, paired with a 14x5.5" Tama birch snare tuned medium-high for the ghost-note sensitivity his playing required.
+
+Zildjian's A/K Series cymbals defined Reinert's sound: 14" A Quick Beat Hi-Hats, 16" and 18" A Crashes, a 16" China, a 10" A Splash, and — central to his revolutionary approach — a 20" K Custom Dry Ride that he actually rode with sustained jazz-fusion patterns, unprecedented in death metal at the time. Vic Firth American Classic 5A sticks, a medium-weight model atypical for metal drummers of the era, gave Reinert the fast rebound and dynamic control his jazz-informed vocabulary demanded, a setup he carried into Cynic's Focus (1993), the landmark album he co-founded with Paul Masvidal.
+
+After Cynic reunited in 2006, Reinert upgraded to a DW Collector's Series maple shell pack and darker, more complex Zildjian K Custom cymbals for Traced in Air (2008), suited to the album's atmospheric, self-produced sound. Sean Reinert passed away on January 24, 2020, one day after his 49th birthday, leaving behind a drumming legacy that proved death metal could swing.
 
 ## Biography
 
@@ -61,7 +69,7 @@ A: Sean Reinert's best-known recordings are Death's Human (1991) and Cynic's Foc
 
 **Q: What drum kit did Sean Reinert use on Human?**
 
-A: Sean Reinert played a DW Collector's Series maple shell kit with a 14"x5.5" maple snare, Zildjian A Series cymbals, and a DW 5000 double pedal on Death's Human.
+A: Sean Reinert played a Tama Artstar II birch shell kit with a 14"x5.5" birch snare, Zildjian A Series cymbals, and a DW 5000 double pedal on Death's Human.
 
 **Q: Did Sean Reinert play jazz before death metal?**
 
@@ -77,7 +85,7 @@ A: Sean Reinert passed away on January 24, 2020, one day after his 49th birthday
 
 **Q: What drum set did Sean Reinert use?**
 
-A: Sean Reinert's Human/Focus-era drum set was a DW Collector's Series maple shell pack — a 22" kick and 10"/12"/13"/14"/16" toms — built around a DW Collector's 14"x5.5" maple snare with die-cast hoops. He upgraded to a DW Collector's maple shell pack and Zildjian K Custom cymbals for Cynic's 2008 reunion album, Traced in Air.
+A: Sean Reinert's Human/Focus-era drum set was a Tama Artstar II birch shell kit — a single 22"x16" kick and various toms — built around a Tama Artstar II 14"x5.5" birch snare. He upgraded to a DW Collector's maple shell pack and Zildjian K Custom cymbals for Cynic's 2008 reunion album, Traced in Air.
 
 **Q: What cymbals did Sean Reinert use?**
 
@@ -85,7 +93,7 @@ A: Sean Reinert used Zildjian A Series cymbals on Death's Human (1991), then swi
 
 **Q: What snare drum did Sean Reinert use?**
 
-A: Sean Reinert played a DW Collector's 14"x5.5" maple snare with die-cast hoops, tuned higher and more open for Cynic's Focus to suit the album's jazz-fusion textures.
+A: Sean Reinert played a Tama Artstar II 14"x5.5" birch snare, tuned higher and more open for Cynic's Focus to suit the album's jazz-fusion textures.
 
 **Q: What bass drum pedal did Sean Reinert use?**
 
@@ -137,4 +145,4 @@ Full breakdown: [Sean Reinert's pedal setup](https://metalforge.io/pedals/setups
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-08-01 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-07 · Source: [MetalForge.io](https://metalforge.io)*

@@ -6,7 +6,7 @@ country: "Greece"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/george-kollias"
 source: "https://metalforge.io"
-last_updated: "2026-08-01"
+last_updated: "2026-09-07"
 ---
 
 # George Kollias — Drum Kit & Gear Setup
@@ -25,13 +25,13 @@ George Kollias's drum kit and gear setup. George Kollias is a professional metal
 | Primary brand | Pearl |
 | Drum kit | Pearl Masterworks Stadium Exotic (Piano Black with Gold Hardware) |
 | Signature snare | Pearl George Kollias Signature 14x6.5" |
-| Sticks | Vic Firth George Kollias Signature SGK |
+| Sticks | Vic Firth |
 
 ## Kit Overview
 
-George Kollias plays a Pearl Masterworks Stadium Exotic drum kit — Piano Black with Gold Hardware — the configuration engineered for Nile's extreme technical death metal demands since 2004. As one of the fastest drummers in extreme metal, sustaining blast beats at 240+ BPM with surgical clarity, the George Kollias drum set centers on his co-designed Pearl Demon XR double pedal, which provides the linear, direct action required for rapid-fire bass drum sequences defining tracks like "[Annihilation of the Wicked](/articles/george-kollias-nile-annihilation-drum-setup)" and "[Those Whom the Gods Detest](/articles/those-whom-the-gods-detest-drum-setup)."
+George Kollias plays a Pearl Masterworks Stadium Exotic drum kit — Piano Black with Gold Hardware — the configuration engineered for Nile's extreme technical death metal demands since 2004. As one of the fastest drummers in extreme metal, sustaining blast beats at 240+ BPM with surgical clarity, the George Kollias drum set centers on his co-designed Pearl Demon XR double pedal, which provides the linear, direct action required for rapid-fire bass drum sequences defining tracks like "Annihilation of the Wicked" and "Those Whom the Gods Detest."
 
-The cornerstone of the drum kit is his Pearl George Kollias Signature snare — a 14×6.5" model designed for cutting articulation through Nile's densely layered guitar and bass walls. Zildjian cymbals complete the George Kollias drum set: 14" K Mastersound Hi-Hats for dry, defined hi-hat articulation; 17" and 18" K Custom Dark Crashes for explosive accent layering; a 21" A Custom Mega Bell Ride for powerful rhythmic definition; and an 18" China for aggressive punctuation. Vic Firth George Kollias Signature SGK sticks and Evans heads round out this drum set purpose-built for extreme technical death metal. For the full gear breakdown, see the [George Kollias complete kit guide](/articles/whats-in-george-kollias-kit).
+The cornerstone of the drum kit is his Pearl George Kollias Signature snare — a 14×6.5" model designed for cutting articulation through Nile's densely layered guitar and bass walls. Zildjian cymbals complete the George Kollias drum set: 14" K Mastersound Hi-Hats for dry, defined hi-hat articulation; 17" and 18" K Custom Dark Crashes for explosive accent layering; a 21" A Custom Mega Bell Ride for powerful rhythmic definition; and an 18" China for aggressive punctuation. Vic Firth George Kollias Signature SGK sticks and Evans heads round out this drum set purpose-built for extreme technical death metal.
 
 ## Biography
 
@@ -54,7 +54,7 @@ Beyond his work with Nile, Kollias is an accomplished drum educator, having rele
 - **Snare:** Pearl George Kollias Signature 14x6.5"
 - **Cymbals:** Zildjian (14" K Mastersound Hi-Hats, 17" & 18" K Custom Dark Crashes, 21" A Custom Mega Bell Ride, 18" China)
 - **Hardware:** Pearl Demon XR Double Pedal (Co-designed), Pearl D-3000 Throne
-- **Sticks:** Vic Firth George Kollias Signature SGK
+- **Sticks:** Vic Firth
 - **Heads:** Evans
 
 ## Notable Performances
@@ -95,7 +95,7 @@ A: George Kollias plays a Pearl Masterworks Stadium Exotic drum kit finished in 
 
 **Q: What drum set does George Kollias use?**
 
-A: George Kollias's drum set is a Pearl Masterworks Stadium Exotic configuration in Piano Black with Gold Hardware, centered on his Pearl George Kollias Signature 14"x6.5" snare. He drives the drum set with the Pearl Demon XR double pedal he co-designed, plays Vic Firth George Kollias Signature SGK sticks, and heads it with Evans drumheads.
+A: George Kollias's drum set is a Pearl Masterworks Stadium Exotic configuration in Piano Black with Gold Hardware, centered on his Pearl George Kollias Signature 14"x6.5" snare. He drives the drum set with the Pearl Demon XR double pedal he co-designed, plays Vic Firth sticks, and heads it with Evans drumheads.
 
 **Q: What cymbals does George Kollias use?**
 
@@ -154,4 +154,4 @@ Full breakdown: [George Kollias's pedal setup](https://metalforge.io/pedals/setu
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-08-01 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-07 · Source: [MetalForge.io](https://metalforge.io)*

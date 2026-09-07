@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "ddrum"
 profile_url: "https://metalforge.io/drummer/pete-sandoval"
 source: "https://metalforge.io"
-last_updated: "2026-08-01"
+last_updated: "2026-09-07"
 ---
 
 # Pete Sandoval — Drum Kit & Gear Setup
@@ -23,17 +23,13 @@ Pete Sandoval's drum kit and gear setup. Pete Sandoval is a professional metal d
 | Genre | Death Metal |
 | Country | USA |
 | Primary brand | ddrum |
-| Drum kit | ddrum Dios Series |
-| Signature snare | ddrum Dios 14x6.5" Maple |
+| Drum kit | ddrum (specific series unconfirmed) |
+| Signature snare | ddrum (specific model unconfirmed) |
 | Sticks | Pro-Mark (historical endorsement — current sticks unverified) |
 
 ## Kit Overview
 
-Pete Sandoval plays a ddrum Dios Series drum kit — an all-metal-shell platform built to survive the extreme velocities of the blast beats and gravity blasts he pioneered across more than three decades of death metal drumming. At the heart of the Pete Sandoval drum set is a ddrum Dios 14x6.5" maple snare, chosen for the tight, punchy crack needed to stay audible under Morbid Angel's dense, downtuned guitar work on landmark albums like "Altars of Madness," "Blessed Are the Sick," and "Covenant."
-
-Sabian AAX Series cymbals round out the Pete Sandoval drum kit: 14" Stage Hi-Hats for rapid, controlled chops during his signature gravity-blast passages; 18" and 19" X-Plosion Crashes for explosive accents; a 20" Stage Ride for cutting through relentless double-bass runs; and an 18" Chinese cymbal for abrupt punctuation. A ddrum Mercury double pedal anchors the low end, giving Sandoval the speed and durability to sustain the blistering blast-beat tempos that redefined what was considered physically possible on a drum kit, while a ddrum throne keeps him stable through Morbid Angel's and Terrorizer's most punishing live sets.
-
-Ahead Lars Ulrich Signature sticks, built from aircraft-grade aluminum for exceptional durability, complete the rig — a practical choice for a drummer whose relentless attack wears through conventional wood sticks fast. The Pete Sandoval drum set has remained anchored to ddrum's electronic-hybrid shells throughout a career spanning Morbid Angel (1988–2013) and Terrorizer (1986–1989, 2005–present).
+Pete Sandoval has been a ddrum artist for much of his career, though the specific drum series and snare model he currently plays are not publicly documented on ddrum's own artist page, which lists him only as an endorsee without kit specifics. Cymbal brand is similarly undocumented — Sabian's current official artist roster no longer lists Sandoval (it lists Tim Yeung, Morbid Angel's other touring drummer, instead), so no cymbal brand claim should be made without a fresher source. A ddrum-brand double pedal anchors the low end, though the specific model is unconfirmed. Pro-Mark sticks round out a historical endorsement — his current stick choice is not publicly documented. The Pete Sandoval drum set has remained associated with ddrum throughout a career spanning Morbid Angel (1988–2013) and Terrorizer (1986–1989, 2005–present).
 
 ## Biography
 
@@ -50,10 +46,10 @@ According to AllMusic's Jason Birchmeier, Sandoval "challenges one's perception 
 
 ## Gear
 
-- **Drums:** ddrum Dios Series
-- **Snare:** ddrum Dios 14x6.5" Maple
-- **Cymbals:** Sabian AAX Series (14" Stage Hi-Hats, 18" & 19" X-Plosion Crashes, 20" Stage Ride, 18" Chinese)
-- **Hardware:** ddrum Mercury Double Pedal, ddrum Throne
+- **Drums:** ddrum (specific series unconfirmed)
+- **Snare:** ddrum (specific model unconfirmed)
+- **Cymbals:** Cymbal brand/model not publicly documented
+- **Hardware:** ddrum (specific pedal/hardware model unconfirmed)
 - **Sticks:** Pro-Mark (historical endorsement — current sticks unverified)
 
 ## Notable Performances
@@ -70,27 +66,27 @@ A: Pete Sandoval drummed for Morbid Angel from 1988-2013 and co-founded Terroriz
 
 **Q: What drums does Pete Sandoval play?**
 
-A: Pete Sandoval plays a ddrum Dios Series drum kit.
+A: Pete Sandoval has been a ddrum artist for much of his career, but the specific drum series he plays is not named on ddrum's own artist page.
 
 **Q: What drum kit does Pete Sandoval play?**
 
-A: Pete Sandoval's drum kit is a ddrum Dios Series shell pack, built around a ddrum Dios 14"x6.5" maple snare drum.
+A: Pete Sandoval's drum kit is built on ddrum shells, though the specific series and snare model are not publicly documented.
 
 **Q: What drum set does Pete Sandoval play?**
 
-A: Pete Sandoval's drum set pairs ddrum Dios Series shells and his 14"x6.5" maple snare with Sabian AAX Series cymbals and a ddrum Mercury double pedal.
+A: Pete Sandoval's drum set is built on ddrum shells with a ddrum-brand double pedal; the specific series, snare model, and cymbal brand are not publicly documented.
 
 **Q: What cymbals does Pete Sandoval use?**
 
-A: Pete Sandoval uses Sabian AAX Series cymbals, including 14" Stage Hi-Hats, 18" and 19" X-Plosion Crashes, a 20" Stage Ride, and an 18" Chinese.
+A: Pete Sandoval's current cymbal brand is not publicly documented; Sabian's official artist roster, which once may have included him, no longer lists Sandoval.
 
 **Q: What snare drum does Pete Sandoval use?**
 
-A: Pete Sandoval's primary snare is the ddrum Dios, a 14"x6.5" maple shell.
+A: Pete Sandoval's snare is a ddrum shell, though the specific model is not publicly documented.
 
 **Q: What pedals does Pete Sandoval use?**
 
-A: Pete Sandoval drives his pioneering blast beat technique with a ddrum Mercury double pedal, seated on a ddrum throne.
+A: Pete Sandoval drives his pioneering blast beat technique with a ddrum-brand double pedal, though the specific model is unconfirmed.
 
 **Q: What is Pete Sandoval known for?**
 
@@ -116,4 +112,4 @@ Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-08-01 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-07 · Source: [MetalForge.io](https://metalforge.io)*

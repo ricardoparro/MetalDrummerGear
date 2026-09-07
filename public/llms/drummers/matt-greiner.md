@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Mapex"
 profile_url: "https://metalforge.io/drummer/matt-greiner"
 source: "https://metalforge.io"
-last_updated: "2026-08-01"
+last_updated: "2026-09-07"
 ---
 
 # Matt Greiner — Drum Kit & Gear Setup
@@ -28,9 +28,9 @@ Matt Greiner's drum kit and gear setup. Matt Greiner is a professional metal dru
 
 ## Kit Overview
 
-Matt Greiner plays a Greiner & Kilmer Custom drum kit — the drum set he co-designed with fellow drummer Kaleb Kilmer after co-founding their drum company in 2012, engineered to the specifications August Burns Red's technically demanding metalcore shows require. As a Grammy-nominated recording artist and one of metalcore's most studied drummers, Greiner has assembled one of the genre's most recognizable drum sets, balancing blazing double bass speed with nuanced dynamics and an elaborate fill vocabulary.
+Matt Greiner plays a Mapex Black Panther Design Lab drum kit — a maple/walnut hybrid shell he switched to in 2016, engineered to the specifications August Burns Red's technically demanding metalcore shows require. As a Grammy-nominated recording artist and one of metalcore's most studied drummers, Greiner has assembled one of the genre's most recognizable drum sets, balancing blazing double bass speed with nuanced dynamics and an elaborate fill vocabulary.
 
-The cornerstone of the Matt Greiner drum kit is his Greiner & Kilmer Custom 14×6.5" Maple snare drum, delivering warm yet cutting crack that anchors August Burns Red's arrangements on albums including [Messengers](/articles/messengers-drum-setup), [Constellations](/articles/constellations-drum-setup), and [Phantom Anthem](/articles/abr-phantom-anthem-drum-setup). The Matt Greiner drum set features Meinl Byzance Series cymbals: 15" Dual Hi-Hats for controlled articulation; 18" and 19" Dual Crashes for explosive dynamic accents; a 21" Transition Ride for rhythmic clarity; an 18" Extra Dry China for aggressive punctuation; and 10" and 12" Splashes for quick accents. A DW 9000 Series double pedal drives the blazing double bass lines beneath August Burns Red's dense rhythmic layers. Vic Firth American Classic 5A sticks and Evans drumheads complete the rig.
+The cornerstone of the Matt Greiner drum kit is his Mapex Black Panther 14×5.5" Maple snare drum, delivering a warm crack that anchors August Burns Red's arrangements on albums including Ember, Tides, and Death Below. The Matt Greiner drum set features Paiste Formula 602 cymbals: 14" Hi-Hats for controlled articulation; 16", 17", and 18" Crashes for dynamic accents; a 22" Ride for rhythmic clarity; an 18" China for aggressive punctuation; and a 10" Splash for quick accents. A DW 9000 Series double pedal drives the blazing double bass lines beneath August Burns Red's dense rhythmic layers. Vic Firth Matt Greiner Signature sticks and Evans G2/EMAD2 heads complete the rig.
 
 ## Biography
 
@@ -68,6 +68,10 @@ A: Matt Greiner plays a Mapex Black Panther Design Lab kit, a maple/walnut hybri
 **Q: What drum set does Matt Greiner use?**
 
 A: Greiner's Mapex Black Panther Design Lab set is built around a Mapex Black Panther 14"x5.5" Maple snare and a DW 9000 Series double pedal for August Burns Red's blazing double bass patterns, mounted on a DW 9100 throne.
+
+**Q: What is Matt Greiner's drum setup?**
+
+A: Matt Greiner's drum setup is a Mapex Black Panther Design Lab kit (maple/walnut hybrid shells) paired with Paiste Formula 602 cymbals, a DW 9000 Series double pedal, and his own Vic Firth signature sticks — built for August Burns Red's technically demanding metalcore sets.
 
 **Q: What cymbals does Matt Greiner play?**
 
@@ -125,7 +129,7 @@ Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
 ## Snare
 
-Matt Greiner's snare: Greiner & Kilmer Custom 14x6.5" Maple. See the [snares guide](https://metalforge.io/snares) for shell, size, and tuning background.
+Matt Greiner's snare: Pearl Reference Pure Matt Greiner Signature 14x6.5". See the [snares guide](https://metalforge.io/snares) for shell, size, and tuning background.
 
 ## Cymbal Setup
 
@@ -160,4 +164,4 @@ Full breakdown: [Matt Greiner's pedal setup](https://metalforge.io/pedals/setups
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-08-01 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-07 · Source: [MetalForge.io](https://metalforge.io)*

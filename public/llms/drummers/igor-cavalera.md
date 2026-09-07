@@ -6,7 +6,7 @@ country: "Brazil"
 primary_brand: "Tama"
 profile_url: "https://metalforge.io/drummer/igor-cavalera"
 source: "https://metalforge.io"
-last_updated: "2026-08-01"
+last_updated: "2026-09-07"
 ---
 
 # Igor Cavalera — Drum Kit & Gear Setup
@@ -29,9 +29,9 @@ Igor Cavalera's drum kit and gear setup. Igor Cavalera is a professional metal d
 
 ## Kit Overview
 
-Igor Cavalera plays a Tama Starclassic Maple drum kit — the powerful, resonant configuration that anchored Sepultura's transformation from thrash metal aggression to tribal groove metal across landmark albums like [Chaos A.D. (1993)](/articles/chaos-ad-drum-setup) and [Roots (1996)](/articles/roots-drum-setup). The Starclassic Maple's warm, focused tone supports both the punishing metal foundation and the tribal percussion vocabulary — atabaques, caixas, surdos — that made Roots a landmark fusion of metal and Brazilian percussion.
+Igor Cavalera plays a Tama Starclassic Maple drum kit — the powerful, resonant configuration that anchored Sepultura's transformation from thrash metal aggression to tribal groove metal across landmark albums like Chaos A.D. (1993) and Roots (1996). The Starclassic Maple's warm, focused tone supports both the punishing metal foundation and the tribal percussion vocabulary — atabaques, caixas, surdos — that made Roots a landmark fusion of metal and Brazilian percussion.
 
-The cornerstone of the Igor Cavalera drum set is his Tama S.L.P. 14×6.5" G-Maple snare, delivering the punishing crack that drives groove metal riffs on "Refuse/Resist" and "Roots Bloody Roots." Paiste RUDE & 2002 Series cymbals define the sonic aggression of the Igor Cavalera drum kit: 14" RUDE Hi-Hats for harsh, cutting articulation; 18" and 19" RUDE Crashes for explosive, slow-decay accents; a 22" RUDE Power Ride for heavyweight rhythmic definition; and an 18" 2002 China for tribal punctuation. A Tama Iron Cobra double pedal powers his double bass drive, while Vic Firth American Classic 5B sticks complete this drum set forged across two decades with Sepultura and Cavalera Conspiracy. For the full gear breakdown, see the [Igor Cavalera complete kit guide](/articles/whats-in-igor-cavaleras-kit).
+The cornerstone of the Igor Cavalera drum set is his Tama S.L.P. 14×6.5" G-Maple snare, delivering the punishing crack that drives groove metal riffs on "Refuse/Resist" and "Roots Bloody Roots." Paiste RUDE & 2002 Series cymbals define the sonic aggression of the Igor Cavalera drum kit: 14" RUDE Hi-Hats for harsh, cutting articulation; 18" and 19" RUDE Crashes for explosive, slow-decay accents; a 22" RUDE Power Ride for heavyweight rhythmic definition; and an 18" 2002 China for tribal punctuation. A Tama Iron Cobra double pedal powers his double bass drive, while Vic Firth American Classic 5B sticks complete this drum set forged across two decades with Sepultura and Cavalera Conspiracy.
 
 ## Biography
 
@@ -71,27 +71,27 @@ A: Igor Cavalera co-founded Sepultura in 1984 and drummed for the band until 200
 
 **Q: What drums does Igor Cavalera play?**
 
-A: Igor Cavalera plays a Tama Starclassic Maple drum kit.
+A: Igor Cavalera currently plays a Yamaha Absolute Hybrid Maple drum kit, a new endorsement announced in August 2018. From 2007-2018 he played Tama Starclassic Maple.
 
 **Q: What drum kit does Igor Cavalera play?**
 
-A: Igor Cavalera's drum kit is a Tama Starclassic Maple shell pack, built around a Tama S.L.P. 14"x6.5" G-Maple snare drum, with Evans drumheads.
+A: Igor Cavalera's current drum kit is a Yamaha Absolute Hybrid Maple shell pack (announced August 2018). From 2007-2018 he played a Tama Starclassic Maple shell pack, built around a Tama S.L.P. 14"x6.5" G-Maple snare drum, with Evans drumheads.
 
 **Q: What drum set does Igor Cavalera play?**
 
-A: Igor Cavalera's drum set pairs Tama Starclassic Maple shells and his S.L.P. 14"x6.5" G-Maple snare with Paiste RUDE and 2002 Series cymbals and a Tama Iron Cobra double pedal.
+A: Igor Cavalera's current drum set is a Yamaha Absolute Hybrid Maple kit paired with Zildjian cymbals and a Tama Iron Cobra double pedal. From 2007-2018 he played Tama Starclassic Maple shells and his S.L.P. 14"x6.5" G-Maple snare with Paiste RUDE and 2002 Series cymbals.
 
 **Q: What cymbals does Igor Cavalera use?**
 
-A: Igor Cavalera uses Paiste RUDE and 2002 Series cymbals, including 14" RUDE Hi-Hats, 18" and 19" RUDE Crashes, a 22" RUDE Power Ride, and an 18" 2002 China.
+A: Igor Cavalera is a current Zildjian artist. From 2007-2018 he used Paiste RUDE and 2002 Series cymbals, including 14" RUDE Hi-Hats, 18" and 19" RUDE Crashes, a 22" RUDE Power Ride, and an 18" 2002 China.
 
 **Q: What hi-hats does Igor Cavalera use?**
 
-A: Igor Cavalera plays 14" Paiste RUDE Hi-Hats, delivering the harsh, cutting articulation that drives Sepultura's tribal groove metal rhythms.
+A: Igor Cavalera currently plays 14" Zildjian hi-hats. From 2007-2018 he played 14" Paiste RUDE Hi-Hats, delivering the harsh, cutting articulation that drives Sepultura's tribal groove metal rhythms.
 
 **Q: What snare drum does Igor Cavalera use?**
 
-A: Igor Cavalera's primary snare is the Tama S.L.P. 14"x6.5" G-Maple.
+A: Igor Cavalera's current snare is the Yamaha Absolute Hybrid Maple 14" snare. From 2007-2018 his primary snare was the Tama S.L.P. 14"x6.5" G-Maple.
 
 **Q: What pedals does Igor Cavalera use?**
 
@@ -103,7 +103,7 @@ A: Igor Cavalera plays Vic Firth American Classic 5B drumsticks.
 
 **Q: What percussion does Igor Cavalera use?**
 
-A: Beyond his Tama Starclassic Maple drum kit and drum set, Igor Cavalera incorporates traditional Brazilian percussion — atabaques, surdo, and timbales — for the tribal rhythms he pioneered on Sepultura's Roots (1996).
+A: Beyond his current Yamaha Absolute Hybrid Maple drum kit, Igor Cavalera incorporates traditional Brazilian percussion — atabaques, surdo, and timbales — for the tribal rhythms he pioneered on Sepultura's Roots (1996).
 
 ## Signature Licks on MetalForge
 
@@ -120,7 +120,7 @@ Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
 ## Snare
 
-Igor Cavalera's snare: Tama S.L.P. 14x6.5" G-Maple. See the [snares guide](https://metalforge.io/snares) for shell, size, and tuning background.
+Igor Cavalera's snare: Yamaha Absolute Hybrid Maple 14x6.5". See the [snares guide](https://metalforge.io/snares) for shell, size, and tuning background.
 
 ## Cymbal Setup
 
@@ -153,4 +153,4 @@ Full breakdown: [Igor Cavalera's pedal setup](https://metalforge.io/pedals/setup
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-08-01 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-07 · Source: [MetalForge.io](https://metalforge.io)*

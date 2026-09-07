@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Tama"
 profile_url: "https://metalforge.io/drummer/mike-portnoy"
 source: "https://metalforge.io"
-last_updated: "2026-08-01"
+last_updated: "2026-09-07"
 ---
 
 # Mike Portnoy — Drum Kit & Gear Setup
@@ -23,15 +23,15 @@ Mike Portnoy's drum kit and gear setup. Mike Portnoy is a professional metal dru
 | Genre | Progressive Metal |
 | Country | USA |
 | Primary brand | Tama |
-| Drum kit | Tama Starclassic Maple/Birch |
+| Drum kit | Tama Starclassic Maple + Starclassic Bubinga ("Dream Monster" dual kit) |
 | Signature snare | Tama Mike Portnoy Signature Melody Master 14x5.5" |
 | Sticks | Promark Mike Portnoy Signature TX420N |
 
 ## Kit Overview
 
-Mike Portnoy plays a Tama Starclassic Maple/Birch drum kit — a hybrid shell he selected for its tonal balance between maple's warmth and birch's articulate attack, well-suited to progressive metal's dynamic range. The defining component of the Mike Portnoy drum set is his Tama Melody Master signature snare (14×5.5"): a steel shell tuned for a punchy, cutting crack that sits clearly in Dream Theater's densely layered arrangements.
+Mike Portnoy plays a dual Tama Starclassic drum kit — a side-by-side "Dream Monster" configuration combining Starclassic Maple and Starclassic Bubinga shells, confirmed on Tama's own current artist page. The defining component of the Mike Portnoy drum set is his Tama Melody Master signature snare (14×5.5"): a steel shell tuned for a punchy, cutting crack that sits clearly in Dream Theater's densely layered arrangements.
 
-Sabian HHX Evolution cymbals complete the Mike Portnoy drum kit: 14" Evolution Hi-Hats provide bright, responsive feel for complex hi-hat work across odd time signatures; 18" and 19" Evolution Crashes deliver staggered attack; a 21" Raw Bell Dry Ride gives stick definition on intricate ride passages; and 10" and 12" Evolution Splashes plus a 19" O-Zone Crash add punchy accents. A Tama Iron Cobra Power Glide double pedal drives his demanding double-bass lines, and a Tama 1st Chair Ergo-Rider throne supports marathon performances exceeding three hours.
+Sabian HHX MAX and AAX MAXX cymbals complete the Mike Portnoy drum kit, per Sabian's current official artist listing: a 22" HHX MAX Ride, 18" AAX X-Plosion and 19" HHX X-Plosion Crashes, an 18" AAX O-Zone Crash, 18" HHX and 19" Paragon Chinas, 7"/9"/11" AAX MAXX Splashes, and 6"/6.5"/7" AA MAX Chimes. A Tama Iron Cobra Power Glide Twin Pedal (HP900PSW) drives his demanding double-bass lines.
 
 The Mike Portnoy drum set configuration has served across Dream Theater (1985–2010, 2023–present), The Winery Dogs, Sons of Apollo, Transatlantic, and Liquid Tension Experiment — each demanding adaptability from the same core rig. His Promark Mike Portnoy Signature TX420N drumsticks are heavier than average, chosen for the power progressive metal's complex, high-tempo compositions require.
 
@@ -53,10 +53,10 @@ Portnoy's technical proficiency, creative compositions, and theatrical live perf
 
 ## Gear
 
-- **Drums:** Tama Starclassic Maple/Birch
+- **Drums:** Tama Starclassic Maple + Starclassic Bubinga ("Dream Monster" dual kit)
 - **Snare:** Tama Mike Portnoy Signature Melody Master 14x5.5"
-- **Cymbals:** Sabian HHX Series (14" Evolution Hi-Hats, 18" & 19" Evolution Crashes, 21" Raw Bell Dry Ride, 10" & 12" Evolution Splashes, 19" O-Zone Crash)
-- **Hardware:** Tama Iron Cobra Power Glide Double Pedal, Tama 1st Chair Ergo-Rider Throne
+- **Cymbals:** Sabian HHX MAX / AAX MAXX Series (22" HHX MAX Ride, 18" AAX X-Plosion Crash, 19" HHX X-Plosion Crash, 18" AAX O-Zone Crash, 18" HHX Chinese, 19" Paragon Chinese, 7"/9"/11" AAX MAXX Splashes, 6"/6.5"/7" AA MAX Chimes)
+- **Hardware:** Tama Iron Cobra Power Glide Twin Pedal (HP900PSW)
 - **Sticks:** Promark Mike Portnoy Signature TX420N
 
 ## Notable Performances
@@ -69,7 +69,7 @@ Portnoy's technical proficiency, creative compositions, and theatrical live perf
 
 **Q: What drums does Mike Portnoy play?**
 
-A: Mike Portnoy plays Tama Starclassic drums with Sabian HHX cymbals.
+A: Mike Portnoy plays a dual Tama Starclassic Maple + Starclassic Bubinga "Dream Monster" kit with Sabian HHX MAX/AAX MAXX cymbals.
 
 **Q: Is Mike Portnoy back in Dream Theater?**
 
@@ -89,15 +89,15 @@ A: Mike attended Berklee College of Music where Dream Theater was formed.
 
 **Q: What drum kit did Mike Portnoy use?**
 
-A: Mike Portnoy's drum kit is Tama Starclassic Maple/Birch, featuring his signature Tama Mike Portnoy Melody Master snare (14"x5.5") alongside a large array of rack and floor toms, octobans, and electronic pads. Sabian HHX cymbals — Evolution hi-hats, crashes, a Raw Bell Dry Ride, and an O-Zone — round out the kit, powered by a Tama Iron Cobra Power Glide double pedal.
+A: Mike Portnoy's drum kit is a dual Tama Starclassic Maple + Starclassic Bubinga "Dream Monster" configuration, featuring his signature Tama Mike Portnoy Melody Master snare (14"x5.5") alongside a large array of rack and floor toms, octobans, and electronic pads. Sabian HHX MAX/AAX MAXX cymbals — including a 22" HHX MAX Ride, X-Plosion crashes, and an O-Zone crash — round out the kit, powered by a Tama Iron Cobra Power Glide Twin Pedal.
 
 **Q: What drum set did Mike Portnoy use?**
 
-A: Mike Portnoy's drum set is a large Tama Starclassic Maple/Birch configuration built around his signature Tama Mike Portnoy Melody Master 14"x5.5" snare drum. The drum set includes Sabian HHX Evolution hi-hats, HHX crashes, a Raw Bell Dry Ride, an O-Zone effects cymbal, and Roland TD-series electronic pads for hybrid acoustic/electronic sounds.
+A: Mike Portnoy's drum set is a large dual Tama Starclassic configuration — Starclassic Maple paired with Starclassic Bubinga in his "Dream Monster" setup — built around his signature Tama Mike Portnoy Melody Master 14"x5.5" snare drum. The drum set includes Sabian HHX MAX and AAX MAXX cymbals plus Roland TD-series electronic pads for hybrid acoustic/electronic sounds.
 
 **Q: What cymbals does Mike Portnoy use?**
 
-A: Mike Portnoy uses Sabian HHX series cymbals, including HHX Evolution hi-hats, multiple HHX crashes, a Raw Bell Dry Ride, and an HHX O-Zone effects cymbal, along with extensive china cymbals for his progressive metal fills.
+A: Mike Portnoy uses Sabian HHX MAX and AAX MAXX series cymbals, per Sabian's current artist listing: a 22" HHX MAX Ride, 18" AAX X-Plosion and 19" HHX X-Plosion crashes, an 18" AAX O-Zone crash, 18" HHX and 19" Paragon Chinas, plus AAX MAXX splashes and AA MAX chimes.
 
 **Q: What snare drum does Mike Portnoy use?**
 
@@ -140,4 +140,4 @@ Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-08-01 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-07 · Source: [MetalForge.io](https://metalforge.io)*

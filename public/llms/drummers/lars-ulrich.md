@@ -6,7 +6,7 @@ country: "Denmark"
 primary_brand: "Tama"
 profile_url: "https://metalforge.io/drummer/lars-ulrich"
 source: "https://metalforge.io"
-last_updated: "2026-08-01"
+last_updated: "2026-09-07"
 ---
 
 # Lars Ulrich — Drum Kit & Gear Setup
@@ -30,7 +30,7 @@ Lars Ulrich's drum kit and gear setup. Lars Ulrich is a professional metal drumm
 
 Lars Ulrich plays a Tama Starclassic Maple drum kit — the setup he has refined over three decades as Metallica's founding drummer. The centerpiece of the Lars Ulrich drum set is the LU1465 signature snare drum: a 14×6.5" steel shell tuned to cut through Metallica's wall of guitars, paired with Remo drumheads for maximum resonance and attack. His 22" kick drum is driven by a Tama Iron Cobra 900 Power Glide double pedal — the same configuration heard on Metallica recordings from the Black Album through 72 Seasons.
 
-Zildjian A Custom cymbals have defined the Lars Ulrich drum kit since the 1996 Load sessions: 14" Dyno Beat Hi-Hats for a tight chick sound on thrash grooves; 16", 17", and 18" Rock Crashes for rapid-attack accents; a 20" Z Custom China for explosive punctuation; and a 22" Ride that cuts through Metallica's dense mix. Ahead Lars Ulrich Signature aluminum sticks complete the rig — selected for their extraordinary durability on global arena tours.
+Zildjian A Custom cymbals have defined the Lars Ulrich drum kit since the 1996 Load sessions: 14" Dyno Beat Hi-Hats for a tight chick sound on thrash grooves; 16", 17", and 18" Rock Crashes for rapid-attack accents; a 20" Z Custom China for explosive punctuation; and a 22" Ride that cuts through Metallica's dense mix. Ahead Lars Ulrich Signature aluminum sticks complete the rig — selected for their extraordinary durability on world arena tours.
 
 The Lars Ulrich drum set has remained stable in its Tama/Zildjian configuration since Death Magnetic (2008), carrying through Hardwired…to Self-Destruct (2016) and 72 Seasons (2023). Before Tama, Ulrich played Camco and Ludwig kits in Metallica's early thrash years — making his four-decade Tama partnership one of the most consistent endorsement relationships in heavy metal history.
 
@@ -174,4 +174,4 @@ Full breakdown: [Lars Ulrich's pedal setup](https://metalforge.io/pedals/setups/
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-08-01 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-07 · Source: [MetalForge.io](https://metalforge.io)*

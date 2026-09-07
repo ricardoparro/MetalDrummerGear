@@ -6,7 +6,7 @@ country: "Belgium"
 primary_brand: "Tama"
 profile_url: "https://metalforge.io/drummer/dirk-verbeuren"
 source: "https://metalforge.io"
-last_updated: "2026-08-01"
+last_updated: "2026-09-07"
 ---
 
 # Dirk Verbeuren — Drum Kit & Gear Setup
@@ -31,7 +31,7 @@ Dirk Verbeuren's drum kit and gear setup. Dirk Verbeuren is a professional metal
 
 Dirk Verbeuren plays a Tama Starclassic Walnut/Birch drum kit — a hybrid shell combination chosen for the tight low end and articulate attack needed to anchor Megadeth's thrash riffing while still translating the melodic death metal groove he built over eighteen years with Soilwork. The heart of the Dirk Verbeuren drum set is a Tama S.L.P. Big Black Steel 14x6.5" snare, a dark, aggressive-sounding steel shell that gives tracks like "Tornado of Souls" and "The Conjuring" their sharp, cutting backbeat live.
 
-Zildjian A Custom and K Custom cymbals shape the tonal palette of the Dirk Verbeuren drum kit: 14" A Custom Hi-Hats for crisp, controlled chops during rapid thrash picking patterns; 17", 18", and 19" A Custom Crashes stacked for layered accents; a 21" K Custom Hybrid Ride for definition through Megadeth's technical arrangements; and an 18" K China for abrupt punctuation. Tama Speed Cobra 910 double pedals deliver the fast, even double-bass runs heard throughout his Soilwork catalog and Megadeth's Dystopia and The Sick, the Dying... and the Dead! eras, while Promark Shira Kashi Oak 5B sticks and Evans heads complete a setup built for both precision and power.
+Meinl Byzance Brilliant and Classics Custom Dark cymbals shape the tonal palette of the Dirk Verbeuren drum kit: a 14" Byzance Brilliant Hi-Hat for crisp, controlled chops during rapid thrash picking patterns; 18", 19", 20", and 21" Classics Custom Dark Crashes stacked for layered accents; a 22" Byzance Brilliant Ride for definition through Megadeth's technical arrangements; and an 18" Byzance Brilliant China for abrupt punctuation. Tama Speed Cobra 910 double pedals deliver the fast, even double-bass runs heard throughout his Soilwork catalog and Megadeth's The Sick, the Dying... and the Dead! era, while Tama O-DVM2 Dirk Verbeuren Signature sticks and Evans heads complete a setup built for both precision and power.
 
 ## Biography
 
@@ -50,7 +50,7 @@ Verbeuren's drumming combines the technical precision of melodic death metal wit
 
 - **Drums:** Tama Starclassic Walnut/Birch
 - **Snare:** Tama S.L.P. Big Black Steel 14x6.5"
-- **Cymbals:** Zildjian A Custom & K Custom Series (14" A Custom Hi-Hats, 17", 18", 19" A Custom Crashes, 21" K Custom Hybrid Ride, 18" K China)
+- **Cymbals:** Meinl Byzance Brilliant & Classics Custom Dark Series (14" Byzance Brilliant Hi-Hat, 18"-21" Classics Custom Dark Crashes, 22" Byzance Brilliant Ride, 18" Byzance Brilliant China)
 - **Hardware:** Tama Speed Cobra 910 Double Pedal, Tama Iron Cobra Hi-Hat Stand
 - **Sticks:** Tama O-DVM2 Dirk Verbeuren Signature
 - **Heads:** Evans
@@ -65,15 +65,15 @@ Verbeuren's drumming combines the technical precision of melodic death metal wit
 
 **Q: What drum kit does Dirk Verbeuren use?**
 
-A: Dirk Verbeuren's drum kit is a Tama Starclassic Walnut/Birch hybrid shell kit, chosen for the tight low end and articulate attack needed to anchor Megadeth's thrash riffing. It centers on a Tama S.L.P. Big Black Steel 14"x6.5" snare and is topped with Zildjian A Custom and K Custom cymbals, driven by Tama Speed Cobra 910 double pedals.
+A: Dirk Verbeuren's drum kit is a Tama Starclassic Walnut/Birch hybrid shell kit, chosen for the tight low end and articulate attack needed to anchor Megadeth's thrash riffing. It centers on a Tama S.L.P. Big Black Steel 14"x6.5" snare and is topped with Meinl Byzance Brilliant and Classics Custom Dark cymbals, driven by Tama Speed Cobra 910 double pedals.
 
 **Q: What drum set does Dirk Verbeuren use?**
 
-A: Dirk Verbeuren's drum set is a Tama Starclassic Walnut/Birch configuration built around his dark, aggressive-sounding Tama S.L.P. Big Black Steel 14"x6.5" snare. The drum set carries Zildjian A Custom and K Custom cymbals, Tama Speed Cobra 910 double pedals, and his signature Tama O-DVM2 sticks.
+A: Dirk Verbeuren's drum set is a Tama Starclassic Walnut/Birch configuration built around his dark, aggressive-sounding Tama S.L.P. Big Black Steel 14"x6.5" snare. The drum set carries Meinl Byzance Brilliant and Classics Custom Dark cymbals, Tama Speed Cobra 910 double pedals, and his signature Tama O-DVM2 sticks.
 
 **Q: What cymbals does Dirk Verbeuren use?**
 
-A: Dirk Verbeuren uses Zildjian A Custom and K Custom Series cymbals: 14" A Custom Hi-Hats, 17", 18", and 19" A Custom Crashes stacked for layered accents, a 21" K Custom Hybrid Ride, and an 18" K China for punctuation.
+A: Dirk Verbeuren uses Meinl Byzance Brilliant and Classics Custom Dark cymbals: a 14" Byzance Brilliant Hi-Hat, 18", 19", 20", and 21" Classics Custom Dark Crashes stacked for layered accents, a 22" Byzance Brilliant Ride, and an 18" Byzance Brilliant China for punctuation.
 
 **Q: What snare drum does Dirk Verbeuren play?**
 
@@ -85,7 +85,7 @@ A: Dirk Verbeuren uses Tama Speed Cobra 910 double pedals, delivering the fast, 
 
 **Q: What band is Dirk Verbeuren in?**
 
-A: Dirk Verbeuren has been Megadeth's drummer since 2016, and previously drummed for Swedish melodic death metal band Soilwork from 2004 to 2016.
+A: Dirk Verbeuren has been Megadeth's drummer since 2016, and previously drummed for Swedish melodic death metal band Soilwork from 1998 to 2016.
 
 **Q: What drumsticks does Dirk Verbeuren use?**
 
@@ -125,16 +125,17 @@ Dirk Verbeuren's snare: Tama S.L.P. Big Black Steel 14x6.5". See the [snares gui
 
 ## Cymbal Setup
 
-Dirk Verbeuren's cymbals: Zildjian A Custom & K Custom Series (14" A Custom Hi-Hats, 17", 18", 19" A Custom Crashes, 21" K Custom Hybrid Ride, 18" K China).
+Dirk Verbeuren's cymbals: Meinl Byzance Brilliant & Classics Custom Dark Series (14" Byzance Brilliant Hi-Hats, 18"-21" Classics Custom Dark Crashes, 22" Byzance Brilliant Ride, 18" Byzance Brilliant China).
 
 | Piece | Size | Series | Model |
 |---|---|---|---|
-| hi-hat | 14" | A Custom | Hi-Hats |
-| crash | 17" | A Custom | Crash |
-| crash | 18" | A Custom | Crash |
-| crash | 19" | A Custom | Crash |
-| ride | 21" | K Custom Hybrid | Ride |
-| china | 18" | K | China |
+| hi-hat | 14" | Byzance Brilliant | Medium Hi-Hats |
+| crash | 18" | Classics Custom Dark | Crash |
+| crash | 19" | Classics Custom Dark | Crash |
+| crash | 20" | Classics Custom Dark | Crash |
+| crash | 21" | Classics Custom Dark | Crash |
+| ride | 22" | Byzance Brilliant | HH Ride |
+| china | 18" | Byzance Brilliant | HH China |
 
 Full breakdown: [Dirk Verbeuren's cymbal setup](https://metalforge.io/cymbals/setups/dirk-verbeuren).
 
@@ -154,4 +155,4 @@ Full breakdown: [Dirk Verbeuren's pedal setup](https://metalforge.io/pedals/setu
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-08-01 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-07 · Source: [MetalForge.io](https://metalforge.io)*

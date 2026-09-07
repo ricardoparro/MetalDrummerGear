@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/paul-bostaph"
 source: "https://metalforge.io"
-last_updated: "2026-08-01"
+last_updated: "2026-09-07"
 ---
 
 # Paul Bostaph — Drum Kit & Gear Setup
@@ -26,6 +26,14 @@ Paul Bostaph's drum kit and gear setup. Paul Bostaph is a professional metal dru
 | Drum kit | Pearl Masters Maple Complete (MCX) |
 | Signature snare | Pearl Masters Steel 14x6.5" |
 | Sticks | Vater Power 5B |
+
+## Kit Overview
+
+Paul Bostaph's setup during Slayer's final chapter centered on a Pearl Masters Maple Complete shell pack — an all-maple, double-bass configuration producer Terry Date brought in for 2015's Repentless, the band's twelfth and final studio album and the first without guitarist Jeff Hanneman. The Paul Bostaph drum set anchors on a 14x6.5" Pearl Masters steel snare tuned for a sharp, cutting crack that projects through Kerry King and Gary Holt's dense guitar work, driven by a Pearl Eliminator double pedal built for the machine-like consistency Bostaph brought to Slayer's catalog across two separate tenures.
+
+Sabian's AAX Series cymbals rounded out the Repentless-era rig — one of only two points in Bostaph's career where his cymbal choice broke from the Paiste cymbals he otherwise favored: 14" AAX Stage Hi-Hats, 17" and 19" AAX X-Plosion Crashes, a 21" AAX Stage Ride, and an 18" AAXtreme China for aggressive punctuation. Bostaph carried this Pearl/Sabian configuration through Slayer's Final World Tour, including the band's last-ever show at the Forum in Los Angeles on November 30, 2019.
+
+Earlier eras document a gear journey through nearly every major drum brand: a Tama Artstar II and Paiste RUDE cymbals on his Slayer debut Divine Intervention (1994); a DW Collector's Series Maple kit and Zildjian A Custom cymbals on Diabolus in Musica (1998); and a Tama Starclassic Maple kit with Paiste 2002 cymbals on God Hates Us All (2001), recorded during his stints with Forbidden, Testament, and Exodus. Vater Power 5B sticks and Remo heads have remained constants across every configuration, chosen for the durability his relentless double-bass attack demands.
 
 ## Biography
 
@@ -88,7 +96,7 @@ A: Paul Bostaph uses Remo Powerstroke 3, Emperor Coated, and Ambassador drumhead
 
 **Q: What band is Paul Bostaph in?**
 
-A: Paul Bostaph is Slayer's longest-serving drummer, playing with the band from 1992-2001 and 2013-2019. He has also drummed for Testament (1999-2001, 2024-present), Exodus (2005-2007), and Forbidden (1987-1989).
+A: Paul Bostaph is Slayer's longest-serving drummer, playing with the band from 1992-2001 and 2013-2019. He has also drummed for Testament (1999-2001, 2024-present), Exodus (2005-2007), and Forbidden (1986-1991).
 
 **Q: How long did Paul Bostaph play with Slayer?**
 
@@ -138,4 +146,4 @@ Full breakdown: [Paul Bostaph's pedal setup](https://metalforge.io/pedals/setups
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-08-01 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-07 · Source: [MetalForge.io](https://metalforge.io)*

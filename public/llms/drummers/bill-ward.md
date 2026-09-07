@@ -6,7 +6,7 @@ country: "UK"
 primary_brand: "Ludwig"
 profile_url: "https://metalforge.io/drummer/bill-ward"
 source: "https://metalforge.io"
-last_updated: "2026-08-01"
+last_updated: "2026-09-07"
 ---
 
 # Bill Ward — Drum Kit & Gear Setup
@@ -62,15 +62,15 @@ Ward's drumming style combined jazz influences with proto-metal power, creating 
 
 **Q: What drum kit does Bill Ward use?**
 
-A: Bill Ward played Ludwig drum kits throughout Black Sabbath's classic era — a Ludwig Super Classic setup on landmark albums like Paranoid (1970), Vol. 4 (1972), and Sabotage (1975), paired with Paiste 2002 and Giant Beat cymbals. His Ludwig Supraphonic 14"x6.5" LM402 snare delivered the sharp crack anchoring "Iron Man," "War Pigs," and "Symptom of the Universe."
+A: Bill Ward played Ludwig drum kits throughout Black Sabbath's classic era — a Ludwig Classic Maple setup on landmark albums like Paranoid (1970), Vol. 4 (1972), and Sabotage (1975), paired with Super Zyn cymbals from the debut through Paranoid (1968-1971) and Zildjian cymbals from Master of Reality onward (1971-1978). His Ludwig Supraphonic 14"x6.5" LM402 snare delivered the sharp crack anchoring "Iron Man," "War Pigs," and "Symptom of the Universe."
 
 **Q: What drum set does Bill Ward use?**
 
-A: Bill Ward's drum set typically centered on a 22" bass drum and 13" and 16" toms in Ludwig Classic Maple shells, driven by a Ludwig Atlas Pro double pedal and Ludwig throne, with Paiste's 24" 2002 Ride — one of the largest ride cymbals in classic rock — anchoring the kit.
+A: Bill Ward's drum set typically centered on a 24" bass drum and 13" and 16" toms in Ludwig Classic Maple shells, driven by a Ludwig Atlas Pro double pedal and Ludwig throne, with a 20" Zildjian Ride anchoring the kit from Master of Reality onward.
 
 **Q: What cymbals does Bill Ward play?**
 
-A: Bill Ward plays Paiste 2002 and Giant Beat Series cymbals: 15" Giant Beat Hi-Hats, 18" and 20" 2002 Crashes, a 24" 2002 Ride, and an 18" 2002 China.
+A: Bill Ward played Super Zyn cymbals from Black Sabbath's 1970 debut through Paranoid (1968-1971), then switched to Avedis Zildjian — 14" hi-hats, a 20" ride, and 16"-18" crashes — for Master of Reality (1971) through Never Say Die! (1978).
 
 **Q: What snare does Bill Ward use?**
 
@@ -90,11 +90,11 @@ A: Bill Ward uses Remo drumheads.
 
 **Q: What band is Bill Ward in?**
 
-A: Bill Ward is a co-founder and drummer of Black Sabbath, playing with the band from 1968-1983 and again from 1997-2006.
+A: Bill Ward is a co-founder and drummer of Black Sabbath, playing with the band 1968-1980, briefly in 1983-1984, again in 1997-1998, and once more in 2011-2012 amid a lineup dispute.
 
 **Q: What hi-hats did Bill Ward play?**
 
-A: Bill Ward played 15" Paiste Giant Beat hi-hats, mounted alongside his Ludwig Supraphonic snare and 24" Paiste 2002 ride in his classic Black Sabbath drum kit.
+A: Bill Ward played 14" Avedis Zildjian hi-hats from Master of Reality (1971) onward, mounted alongside his Ludwig Supraphonic snare in his classic Black Sabbath drum kit.
 
 ## Black Sabbath (1970) — Debut Album
 
@@ -168,15 +168,15 @@ Bill Ward's snare: Ludwig Supraphonic 14x6.5" LM402. See the [snares guide](http
 
 ## Cymbal Setup
 
-Bill Ward's cymbals: Paiste 2002 & Giant Beat Series (15" Giant Beat Hi-Hats, 18" & 20" 2002 Crashes, 24" 2002 Ride, 18" 2002 China).
+Bill Ward's cymbals: Zildjian Avedis Series (15" Hi-Hats, 18" & 20" Crashes, 24" Ride, 18" China).
 
 | Piece | Size | Series | Model |
 |---|---|---|---|
-| hi-hat | 15" | Giant Beat | Hi-Hats |
-| crash | 18" | 2002 | Crash |
-| crash | 20" | 2002 | Crash |
-| ride | 24" | 2002 | Ride |
-| china | 18" | 2002 | China |
+| hi-hat | 15" | Avedis | Hi-Hats |
+| crash | 18" | Avedis | Crash |
+| crash | 20" | Avedis | Crash |
+| ride | 24" | Avedis | Ride |
+| china | 18" | Avedis | China |
 
 Full breakdown: [Bill Ward's cymbal setup](https://metalforge.io/cymbals/setups/bill-ward).
 
@@ -197,4 +197,4 @@ Full breakdown: [Bill Ward's pedal setup](https://metalforge.io/pedals/setups/bi
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-08-01 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-07 · Source: [MetalForge.io](https://metalforge.io)*

@@ -3,10 +3,10 @@ name: "Martin Axenrot"
 band: "Opeth"
 genre: "Progressive Metal / Progressive Death Metal"
 country: "Sweden"
-primary_brand: "Sonor"
+primary_brand: "DW"
 profile_url: "https://metalforge.io/drummer/martin-axenrot"
 source: "https://metalforge.io"
-last_updated: "2026-08-01"
+last_updated: "2026-09-07"
 ---
 
 # Martin Axenrot — Drum Kit & Gear Setup
@@ -22,16 +22,16 @@ Martin Axenrot's drum kit and gear setup. Martin Axenrot is a professional metal
 | All bands | Opeth, Bloodbath, Witchery |
 | Genre | Progressive Metal / Progressive Death Metal |
 | Country | Sweden |
-| Primary brand | Sonor |
-| Drum kit | Sonor SQ2 Series |
-| Signature snare | Sonor SQ2 14x5.75" Maple |
-| Sticks | Vic Firth American Classic 5B |
+| Primary brand | DW |
+| Drum kit | DW (Drum Workshop) — custom, maple/gum shells |
+| Signature snare | DW custom (specific model unverified) |
+| Sticks | Pro-Mark |
 
 ## Kit Overview
 
-Martin Axenrot plays a Sonor SQ2 drum kit — the German custom-build platform he has anchored since joining Opeth as their drummer in 2006, replacing Martin Lopez. His studio debut on Watershed (2008) established the twin-bass-drum Sonor configuration that has defined his sound across every Opeth recording since, signaling a more aggressive approach to the drum chair informed by his extreme metal background with Bloodbath, Witchery, and Nifelheim.
+Martin Axenrot plays a custom hand-made DW drum kit with maple/gum shells — the setup he described in a 2016 MusicRadar interview around Opeth's Sorceress cycle, anchoring his sound since joining the band as their drummer in 2006, replacing Martin Lopez. His studio debut on Watershed (2008) opened the tenure that carried through Heritage (2011), Pale Communion (2014), Sorceress (2016), and In Cauda Venenum (2019).
 
-The Martin Axenrot drum set is defined by twin 22"×18" bass drums — a departure from Lopez's single-kick rig that brings additional low-end density and the firepower for extended double-bass passages. A Sonor SQ2 maple snare (14"×5.75") delivers the warm, cutting crack heard on Watershed, Heritage (2011), Pale Communion (2014), and Sorceress (2016). Meinl Byzance cymbals complete the Martin Axenrot drum kit: 14" Byzance Traditional Medium Hi-Hats for dark, complex hi-hat work; 16", 18", and 19" Byzance Crashes for dynamic accents; a 22" Byzance Traditional Ride for articulate rhythmic definition; and an 18" Byzance China for aggressive punctuation. The Axenrot drum set has remained rooted in Sonor and Meinl gear throughout his Opeth tenure.
+Axenrot is a current SABIAN artist, playing the company's HHX and AAX series cymbals per SABIAN's own artist page — including HHX Groove Hats, an HHX Evolution O-Zone Crash, an HHX Legacy Ride, and an AAX Splash. His sticks are Pro-Mark, and his heads are Evans, both confirmed via Wikipedia's sourced equipment listing. Specific hardware (pedals, stands) has not been independently verified and is not listed here.
 
 ## Biography
 
@@ -49,18 +49,18 @@ Beyond Opeth, Axenrot has been a core member of death metal supergroup Bloodbath
 
 ## Gear
 
-- **Drums:** Sonor SQ2 Series
-- **Snare:** Sonor SQ2 14x5.75" Maple
-- **Cymbals:** Meinl Byzance Series (14" Traditional Medium Hi-Hats, 16" & 18" & 19" Crashes, 22" Traditional Ride, 18" China)
-- **Hardware:** Tama Iron Cobra Double Pedal, Sonor Hardware
-- **Sticks:** Vic Firth American Classic 5B
-- **Heads:** Remo
+- **Drums:** DW (Drum Workshop) — custom, maple/gum shells
+- **Snare:** DW custom (specific model unverified)
+- **Cymbals:** SABIAN HHX / AAX Series (HHX Groove Hats, HHX Evolution O-Zone Crash, HHX Legacy Ride, HHX Chinese, AAX Splash)
+- **Hardware:** Unverified
+- **Sticks:** Pro-Mark
+- **Heads:** Evans
 
 ## Frequently Asked Questions
 
 **Q: What drum kit does Martin Axenrot play?**
 
-A: Martin Axenrot plays a Sonor SQ2 Series drum kit with twin 22"x18" bass drums, the configuration he has used throughout his tenure as Opeth's drummer since 2006.
+A: Martin Axenrot plays a custom hand-made DW (Drum Workshop) drum kit with maple/gum shells, as he described in a 2016 MusicRadar interview around Opeth's Sorceress cycle.
 
 **Q: Who is the current Opeth drummer?**
 
@@ -68,7 +68,7 @@ A: Martin Axenrot is Opeth's drummer since 2006, when he replaced Martin Lopez m
 
 **Q: What cymbals does Martin Axenrot use?**
 
-A: Martin Axenrot uses Meinl Byzance Series cymbals, including 14" Traditional Medium Hi-Hats, 16"/18"/19" Crashes, a 22" Traditional Ride, and an 18" China.
+A: Martin Axenrot is a current SABIAN artist, per SABIAN's own artist page, playing the HHX and AAX series — including HHX Groove Hats, an HHX Evolution O-Zone Crash, an HHX Legacy Ride, and an AAX Splash.
 
 **Q: What bands has Martin Axenrot played in?**
 
@@ -80,19 +80,19 @@ A: Martin Axenrot joined Opeth in 2006, replacing Martin Lopez, and made his stu
 
 **Q: What drum set does Martin Axenrot use?**
 
-A: Martin Axenrot's drum set is a Sonor SQ2 Series build with twin 22"x18" bass drums — a departure from Martin Lopez's single-kick rig — anchored by a Sonor SQ2 14"x5.75" maple snare and Meinl Byzance Series cymbals.
+A: Martin Axenrot's drum set is a custom hand-made DW build with maple/gum shells, paired with SABIAN HHX/AAX cymbals.
 
 **Q: What snare drum does Martin Axenrot use?**
 
-A: Martin Axenrot plays a Sonor SQ2 14"x5.75" maple snare drum.
+A: Martin Axenrot's snare is part of his custom DW kit; the specific snare model has not been independently verified.
 
 **Q: What pedals does Martin Axenrot use?**
 
-A: Martin Axenrot drives his twin-bass-drum Sonor SQ2 kit with a Tama Iron Cobra double pedal.
+A: Martin Axenrot's hardware and pedal setup has not been independently verified.
 
 **Q: What sticks does Martin Axenrot use?**
 
-A: Martin Axenrot plays Vic Firth American Classic 5B drumsticks.
+A: Martin Axenrot plays Pro-Mark drumsticks, per Wikipedia's sourced equipment listing.
 
 ## Album Drum Setup Articles
 
@@ -114,20 +114,20 @@ Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
 ## Snare
 
-Martin Axenrot's snare: Sonor SQ2 14x5.75" Maple. See the [snares guide](https://metalforge.io/snares) for shell, size, and tuning background.
+Martin Axenrot's snare: DW Custom maple/gum shells 14x5.75". See the [snares guide](https://metalforge.io/snares) for shell, size, and tuning background.
 
 ## Cymbal Setup
 
-Martin Axenrot's cymbals: Meinl Byzance Series (14" Traditional Medium Hi-Hats, 16" & 18" & 19" Crashes, 22" Traditional Ride, 18" China).
+Martin Axenrot's cymbals: SABIAN HHX / AAX Series (15" HHX Groove Hats, 18" HHX Evolution O-Zone Crash, 21" HHX Legacy Ride, 20" HHX Chinese, 12" HHX Splash, 10" AAX Splash).
 
 | Piece | Size | Series | Model |
 |---|---|---|---|
-| hi-hat | 14" | Byzance | Traditional Medium Hi-Hats |
-| crash | 16" | Byzance | Crash |
-| crash | 18" | Byzance | Crash |
-| crash | 19" | Byzance | Crash |
-| ride | 22" | Byzance | Traditional Ride |
-| china | 18" | Byzance | China |
+| hi-hat | 15" | HHX | Groove Hats |
+| crash | 18" | HHX | Evolution O-Zone Crash |
+| ride | 21" | HHX | Legacy Ride |
+| china | 20" | HHX | Chinese |
+| splash | 12" | HHX | Splash |
+| splash | 10" | AAX | Splash |
 
 Full breakdown: [Martin Axenrot's cymbal setup](https://metalforge.io/cymbals/setups/martin-axenrot).
 
@@ -148,4 +148,4 @@ Full breakdown: [Martin Axenrot's pedal setup](https://metalforge.io/pedals/setu
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-08-01 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-07 · Source: [MetalForge.io](https://metalforge.io)*

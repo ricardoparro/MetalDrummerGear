@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/matt-halpern"
 source: "https://metalforge.io"
-last_updated: "2026-08-01"
+last_updated: "2026-09-07"
 ---
 
 # Matt Halpern — Drum Kit & Gear Setup
@@ -70,7 +70,7 @@ A: Matt Halpern's drum set pairs Pearl Reference Series shells and his Brass sna
 
 **Q: What cymbals does Matt Halpern play?**
 
-A: Matt Halpern plays Meinl Byzance Series cymbals: 15" Dark Hi-Hats, 18" and 20" Extra Dry Medium Crashes, a 22" Transition Ride, and an 18" Extra Dry China.
+A: Matt Halpern plays Meinl Byzance Series cymbals: 14" Byzance Traditional Medium Hi-Hats, 18" and 20" Byzance Traditional Extra Thin Hammered Crashes, a 22" Byzance Sand Crash-Ride, and a 10" Byzance Traditional Splash, plus his signature Meinl Artist Concept "Double Down Stack".
 
 **Q: What snare does Matt Halpern use?**
 
@@ -119,4 +119,4 @@ Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-08-01 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-07 · Source: [MetalForge.io](https://metalforge.io)*

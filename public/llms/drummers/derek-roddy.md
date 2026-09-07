@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Tama"
 profile_url: "https://metalforge.io/drummer/derek-roddy"
 source: "https://metalforge.io"
-last_updated: "2026-08-01"
+last_updated: "2026-09-07"
 ---
 
 # Derek Roddy — Drum Kit & Gear Setup
@@ -96,7 +96,7 @@ A: Derek Roddy uses Evans drumheads.
 
 **Q: What band is Derek Roddy in?**
 
-A: Derek Roddy has drummed for Hate Eternal (2000-2002, 2004-2005), Nile (2000-2002), and Malevolent Creation (1996-1999).
+A: Derek Roddy is best known for his tenure in Hate Eternal (2001-2008), where he recorded albums including King of All Kings, and for a 2000 stint as Nile's live drummer. He also drummed for Aurora Borealis (1994-2000) and currently plays in Serpents Rise (2010-present).
 
 **Q: What hi-hats does Derek Roddy use?**
 
@@ -159,4 +159,4 @@ Full breakdown: [Derek Roddy's pedal setup](https://metalforge.io/pedals/setups/
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-08-01 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-07 · Source: [MetalForge.io](https://metalforge.io)*

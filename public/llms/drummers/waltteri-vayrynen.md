@@ -6,7 +6,7 @@ country: "Finland"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/waltteri-vayrynen"
 source: "https://metalforge.io"
-last_updated: "2026-08-01"
+last_updated: "2026-09-07"
 ---
 
 # Waltteri Väyrynen — Drum Kit & Gear Setup
@@ -25,6 +25,12 @@ Waltteri Väyrynen's drum kit and gear setup. Waltteri Väyrynen is a profession
 | Primary brand | Pearl |
 | Drum kit | Pearl (endorsement confirmed via Pearl's own artist roster and corroborated by Antelope Audio's 2020 studio-session writeup; specific kit model/shell sizes not independently documented — omitted rather than guessed) |
 | Sticks | Wincent W-5BXL |
+
+## Kit Overview
+
+Waltteri Väyrynen is an endorsed Pearl Drums artist — the relationship is confirmed via Pearl's own artist roster, though that page blocks automated access, so specific shell sizes and finish are omitted rather than guessed; Antelope Audio's writeup of his 2020 studio session at Orgone Studios independently corroborates the Pearl (and Sabian) gear. His Sabian cymbal endorsement is documented on Sabian's own artist page, which names a 22" HH Power Bell Ride as his favourite piece in the setup — the rest of his cymbal lineup isn't itemized there, so only that confirmed piece is listed here.
+
+He plays Wincent's W-5BXL signature stick model, announced through Wincent's artist roster in December 2022.
 
 ## Biography
 
@@ -57,7 +63,7 @@ In 2020, while still in Paradise Lost, he joined Bodom After Midnight — the pr
 
 **Q: What drum kit does Waltteri Väyrynen play?**
 
-A: Waltteri Väyrynen is an endorsed Pearl Drums artist, a relationship confirmed via Pearl's own artist roster and corroborated by Antelope Audio's 2020 studio-session writeup; specific kit model and shell sizes are not independently documented and are omitted rather than guessed.
+A: Waltteri Väyrynen plays a Pearl drum kit with Sabian cymbals (confirmed 22" HH Power Bell Ride) and his own Wincent W-5BXL signature sticks — the Pearl endorsement is confirmed via Pearl's own artist roster and corroborated by Antelope Audio's 2020 studio-session writeup, though specific kit model and shell sizes aren't independently documented and are omitted rather than guessed.
 
 **Q: What drum set does Waltteri Väyrynen use with Opeth?**
 
@@ -119,4 +125,4 @@ Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-08-01 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-07 · Source: [MetalForge.io](https://metalforge.io)*

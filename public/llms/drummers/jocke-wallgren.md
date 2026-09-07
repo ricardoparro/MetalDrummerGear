@@ -6,7 +6,7 @@ country: "Sweden"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/jocke-wallgren"
 source: "https://metalforge.io"
-last_updated: "2026-08-01"
+last_updated: "2026-09-07"
 ---
 
 # Jocke Wallgren — Drum Kit & Gear Setup
@@ -26,6 +26,12 @@ Jocke Wallgren's drum kit and gear setup. Jocke Wallgren is a professional metal
 | Signature snare | Pearl Reference 14x6.5" Brass |
 | Sticks | Vic Firth American Classic 5B |
 
+## Kit Overview
+
+Jocke Wallgren plays a Pearl Reference Pure drum kit — the versatile, hybrid-shell configuration that has powered Amon Amarth's Viking metal assault since he joined the band in 2016. The Jocke Wallgren drum set centers on a Pearl Reference 14x6.5" Brass snare, delivering the bright, cutting crack that projects through Amon Amarth's dense dual-guitar arrangements and gang-vocal choruses on arena and festival stages worldwide.
+
+Zildjian A Custom and K Custom Series cymbals define the Jocke Wallgren drum kit's sonic character: 14" A Custom Hi-Hats for tight, driving patterns; 18" and 19" A Custom Crashes for explosive accents that punctuate Amon Amarth's galloping riffs; and a 21" K Custom Ride for dark, controlled rhythmic definition. A Pearl Demon Drive double pedal anchors his double bass work, giving Wallgren the speed and stability needed for the band's driving, groove-oriented tempos. Vic Firth American Classic 5B sticks and Evans drumheads complete the rig — a setup built for consistency across Amon Amarth's relentless touring schedule since Jomsviking (2016) and Berserker (2019).
+
 ## Biography
 
 Jocke Wallgren (born April 1, 1986) is a Swedish drummer who joined melodic death metal band Amon Amarth in 2016, replacing Fredrik Andersson. His drumming brings a fresh energy to Amon Amarth's Viking-themed sound, combining powerful double bass patterns with groove-oriented playing.
@@ -33,12 +39,6 @@ Jocke Wallgren (born April 1, 1986) is a Swedish drummer who joined melodic deat
 Jocke Wallgren (born April 1, 1986, in Karlstad, Sweden) is a Swedish drummer who joined melodic death metal band Amon Amarth in 2016, replacing longtime drummer Fredrik Andersson. His powerful, groove-oriented drumming style has brought fresh energy to the band's Viking-themed sound while honoring their established musical identity.
 
 Before Amon Amarth, Wallgren was known for his work with Swedish bands including Valkyria. His transition to one of Sweden's most internationally successful metal bands marked a significant career milestone, and he has since become an integral part of Amon Amarth's live and studio work.
-
-## Kit Overview
-
-Jocke Wallgren plays a Pearl Reference Pure drum kit — the versatile, hybrid-shell configuration that has powered Amon Amarth's Viking metal assault since he joined the band in 2016. The Jocke Wallgren drum set centers on a Pearl Reference 14x6.5" Brass snare, delivering the bright, cutting crack that projects through Amon Amarth's dense dual-guitar arrangements and gang-vocal choruses on arena and festival stages worldwide.
-
-Zildjian A Custom and K Custom Series cymbals define the Jocke Wallgren drum kit's sonic character: 14" A Custom Hi-Hats for tight, driving patterns; 18" and 19" A Custom Crashes for explosive accents that punctuate Amon Amarth's galloping riffs; and a 21" K Custom Ride for dark, controlled rhythmic definition. A Pearl Demon Drive double pedal anchors his double bass work, giving Wallgren the speed and stability needed for the band's driving, groove-oriented tempos. Vic Firth American Classic 5B sticks and Evans drumheads complete the rig — a setup built for consistency across Amon Amarth's relentless touring schedule since Jomsviking (2016) and Berserker (2019).
 
 ## Band History
 
@@ -145,4 +145,4 @@ Full breakdown: [Jocke Wallgren's pedal setup](https://metalforge.io/pedals/setu
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-08-01 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-07 · Source: [MetalForge.io](https://metalforge.io)*

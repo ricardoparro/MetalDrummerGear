@@ -489,7 +489,7 @@ Zildjian's centuries of experience show in their consistency and quality. Each c
     faq: [
       {
         question: "What Zildjian cymbals do metal drummers use?",
-        answer: "Most metal drummers use the A Custom series for its bright, cutting sound that penetrates heavy guitar tones. Lars Ulrich, Danny Carey, and many others rely on A Customs. Progressive metal drummers often prefer K Customs for their darker complexity."
+        answer: "Most metal drummers use the A Custom series for its bright, cutting sound that penetrates heavy guitar tones. Lars Ulrich and many others rely on A Customs. Progressive metal drummers often prefer K Customs for their darker complexity."
       },
       {
         question: "A Custom vs K Custom for metal?",

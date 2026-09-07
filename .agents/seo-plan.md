@@ -7844,3 +7844,34 @@ Filed the full 8-cap — all high-confidence, independently live-verified. `bran
 3. `beginnerGuides.js` (158KB) — only 3 fields checked (2 drummers); file is large, likely has more drummer mentions worth a fuller sweep.
 4. Source-conflict watch list: Flo Mounier now has a confirmed SECOND conflicting field (snare: roster-Pearl vs endorsementNews.js-Tama, alongside the existing pedal conflict) — strengthens the case for a founder/CEO ruling pass on the whole list. Mike Mangini's pedal conflict (Demon Drive vs Eliminator Redline) also re-confirmed independently.
 5. Drum-chair watch: next due Monday 2026-09-07 (week 37, group 1) — tomorrow.
+
+## 2026-09-07 (Monday) — SEO Agent run (#7087-7090 filed)
+
+### Bank check
+Open `seo-proposal` bank at run start: 11 (3 standing umbrellas #3810/#3819/#2211 + 8 already `ai-fix`-promoted, #7067-7073/#7075 from yesterday's 4th run). True untriaged bank: 0. Well under 45 → cleared to file up to 8 net-new. Metrics 05:25 UTC (310 users/345 sessions/463 views 7d; GSC 9,353 impr/212 clicks/2.27% CTR/pos 8.5). Content-gap queries (`flo mounier` 94 impr/1.06% CTR, `jaska raatikainen` 82 impr/1.22% CTR) both already fixed per CEO's decisions log (#6973, #6740) — GSC window still rolling the fixes in, no new action. L1/L2/L3 umbrellas confirmed still 2026-08-31 generation — weekly refresh due today, not yet overdue.
+
+### Drum-chair watch (Monday, due this run)
+Week 37, rotation group 1 (12 bands, alphabetical split of the 47-band roster in `packages/frontend/data/bands.js`): damageplan, death, deftones, dream-theater, entheos, fear-factory, godsmack, gojira, hate-eternal, hellyeah, iron-maiden, judas-priest. Dispatched a research agent with 14-day-window web searches per band. **Zero verified changes within the last 14 days** — the one real story in the group (Godsmack Wade Murff→Mike Mangini, June 2026) is old and already covered by closed #5604/#5905. Gojira's Mario Duplantier→Luigi Paraventi fill-in (July 2026, immigration-related, verified via Metal Injection/Consequence/Loudwire/Revolver) is real but temporary/not-permanent and outside the 14-day window — logged as a watch item, not filed, in case Paraventi becomes semi-permanent. No rumors below the 2-source bar surfaced either. 0 candidates → 0 cleared → 0 filed.
+
+### This run's work
+Continued the gear-brand-fabrication accuracy sweep (systemic class, weeks of prior merges) into 3 previously-unswept-or-partially-swept files, dispatched via 3 parallel research agents: (1) the 13 remaining `brands.js` brand entries not covered by yesterday's #7068-7072 batch (Sonor, DW, Mapex, Paiste, Meinl, Sabian, Evans, Remo, Pro-Mark, Ahead, Wincent, Axis, Ludwig), (2) a fuller `beginnerGuides.js` sweep beyond yesterday's 2-drummer/3-field check (#7073), (3) a fuller `top10Lists.js` pass beyond the prior 2 batches (#7048/#7049), which had only sampled the file. Personally live-verified every finding via direct `grep`/`Read` against `endorsementNews.js`'s `currentEndorsements` AND `timeline` (not just trusting subagent output) before filing — confirmed all reported findings exactly as reported, no false positives this round. Also personally spot-checked the sibling brand-reference files (`snareBrands.js`, `cymbalBrands.js`, `drumstickBrands.js`, `pedalBrands.js`) for the same "hardcoded notableLines prose contradicts the file's own live-computed drummer data" pattern that #7067 (pedalBrands.js/Frost) already caught — found one more instance in `snareBrands.js`.
+
+### Proposals filed this run (4)
+1. #7087 — SEO batch: brands.js — 2 more wrong-brand findings (Chris Adler Mapex Black Panther → verified Saturn; Frost Sonor SQ2 → verified Tama, no Sonor relationship)
+2. #7088 — SEO: beginnerGuides.js — Dave Lombardo fabricated "basic Ludwig kit" intro line, verified first kit was Pearl Maxwin (1981)
+3. #7089 — SEO batch: top10Lists.js — 4 more wrong-brand/model findings (Derek Roddy Axis→Tama Speed Cobra, Flo Mounier Pearl Demon Drive/kit→Tama, Frost Sonor→Tama, Daray Masterworks→Reference Pure)
+4. #7090 — SEO: snareBrands.js Sonor entry — Frost + Martin Axenrot fabricated as SQ2 users, contradicts the file's own `snares.js`-computed data (only Hellhammer verified)
+
+Filed 4 of the 8-cap — stopped once `brands.js` (all 18 entries now fully audited across yesterday+today), `beginnerGuides.js` (full file read), and `top10Lists.js` (full file read) were exhausted, plus a quick clean sweep of the 3 remaining brand-reference sibling files (cymbalBrands.js, drumstickBrands.js — both checked, no further hardcoded-prose contradictions found this round). Quality over volume per standing instruction — did not force lower-confidence findings to hit the cap.
+
+### Open proposals waiting on CEO triage
+- #7087-7090 (this run, 4 fresh)
+- #3810/#3819/#2211 (standing umbrellas)
+
+### Next run
+1. Watch #7087-7090 ship via Roadie/PR Merger.
+2. `brands.js` (18/18 entries) now fully audited across the past 2 rounds — no further sweep needed absent a new data change.
+3. `beginnerGuides.js` and `top10Lists.js` both now fully read cover-to-cover — mark as audited; only re-sweep if `endorsementNews.js` gains new dated entries that could surface fresh contradictions.
+4. Gojira watch item: Mario Duplantier's Louder Than Life (Sept 20 2026) status unclear — if Luigi Paraventi's fill-in becomes semi-permanent or a formal touring-member announcement lands, file a drum-chair-change proposal then (currently doesn't meet the "permanent" bar).
+5. Drum-chair watch: week 37/group 1 checked, 0 verified changes. Next due Monday 2026-09-14 (week 38, group 2: korn, kublai-khan-tx, lamb-of-god, limp-bizkit, mastodon, megadeth, meshuggah, metallica, morbid-angel, murderdolls, nile, opeth).
+6. Source-conflict watch list unchanged (8 drummers: Mike Mangini, Flo Mounier, Nick Menza, Vinnie Paul, Nick Augusto, Paul Mazurkiewicz, George Kollias, Daniel Erlandsson) — still awaiting a founder/CEO ruling pass, no new conflicts surfaced this round (both today's findings were one-sided fabrications with clear verified sources, not genuine conflicts).

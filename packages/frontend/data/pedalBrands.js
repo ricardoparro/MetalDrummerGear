@@ -104,9 +104,9 @@ export const PEDAL_BRANDS = [
     founded: '1875, Weissenfels an der Saale, Germany',
     parent: 'Independent; headquartered in Bad Berleburg, Germany',
     positioning:
-      "Sonor is one of the oldest percussion manufacturers in the world, and on the verified metal roster its pedals follow the same distinct-from-Japan-and-America identity as its shells: the Perfect Balance is used by extreme and progressive-metal drummers including Gavin Harrison and Frost (Satyricon), while the Giant Step shows up on Morgan Agren's setup.",
+      "Sonor is one of the oldest percussion manufacturers in the world, and on the verified metal roster its pedals follow the same distinct-from-Japan-and-America identity as its shells: the Perfect Balance is used by extreme and progressive-metal drummers including Gavin Harrison, while the Giant Step shows up on Morgan Agren's setup.",
     notableLines: [
-      { name: 'Perfect Balance', description: "Sonor's current flagship double pedal, used on the verified roster by Gavin Harrison and Frost (Satyricon)." },
+      { name: 'Perfect Balance', description: "Sonor's current flagship double pedal, used on the verified roster by Gavin Harrison." },
       { name: 'Giant Step', description: "Sonor's longboard-footboard double pedal, verified on the roster through Morgan Agren." },
     ],
     source: { label: 'Sonor — Wikipedia (company history)', url: 'https://en.wikipedia.org/wiki/Sonor' },

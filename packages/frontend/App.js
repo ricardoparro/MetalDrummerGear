@@ -3400,14 +3400,18 @@ function TopListPage({ theme, onBack, drummers, onSelectDrummer, listSlug, isArt
     };
   }, [list, isAlbumArticle, drummers]);
 
-  // Issue #3280: restore homepage canonical ONLY on true component unmount.
-  // A separate empty-dep effect ensures the reset does not fire on every
-  // drummers-prop change (which would briefly set canonical → / mid-render).
+  // Issue #7115: remove this page's own canonical link on true component
+  // unmount, rather than resetting it to a hardcoded URL (previous #3280 fix),
+  // so a stale /lists/ canonical can't leak into whatever route mounts next
+  // in the same client-rendered session. Scoped to /lists/ hrefs so this
+  // can't remove a canonical tag a different still-mounting component just set.
+  // A separate empty-dep effect ensures the cleanup does not fire on every
+  // drummers-prop change (which would briefly clear canonical mid-render).
   useEffect(() => {
     return () => {
       if (Platform.OS !== 'web' || typeof document === 'undefined') return;
-      const canon = document.querySelector('link[rel="canonical"]');
-      if (canon) canon.setAttribute('href', 'https://metalforge.io/');
+      const canon = document.querySelector('link[rel="canonical"][href*="/lists/"]');
+      if (canon) canon.remove();
     };
   }, []);
 

@@ -30,7 +30,7 @@ export const brands = {
 - **Starclassic Bubinga** – Deep, powerful sound for extreme genres
 
 **Notable Metal Artists:**
-From Lars Ulrich's iconic thrash sound to George Kollias' blistering death metal, Tama drums have defined the sound of metal for decades.`,
+From Lars Ulrich's iconic thrash sound to Dave Lombardo's relentless attack, Tama drums have defined the sound of metal for decades.`,
     history: {
       foundedYear: 1974,
       foundedPlace: "Nagoya, Japan (Hoshino Gakki)",
@@ -48,7 +48,7 @@ From Lars Ulrich's iconic thrash sound to George Kollias' blistering death metal
         { year: "mid-1980s", event: "Lars Ulrich (Metallica) becomes an official Tama artist, building his kits around Tama shells and, later, the Iron Cobra pedal." },
         { year: 1993, event: "The Iron Cobra bass drum pedal launches and becomes a metal-industry standard." },
       ],
-      metalEra: "Lars Ulrich has been an official Tama artist since the mid-1980s, building his Metallica kits around Tama shells and the Iron Cobra pedal — one of the most visible metal endorsements in drum-brand history. George Kollias (Nile) and other extreme metal drummers have since relied on Tama's Starclassic shells and Iron Cobra pedals for the speed and durability blast-beat drumming demands.",
+      metalEra: "Lars Ulrich has been an official Tama artist since the mid-1980s, building his Metallica kits around Tama shells and the Iron Cobra pedal — one of the most visible metal endorsements in drum-brand history. Dave Lombardo (Slayer/Dead Cross) and other extreme metal drummers have since relied on Tama's Starclassic shells and Iron Cobra pedals for the speed and durability blast-beat drumming demands.",
       sources: ["https://www.tama.com"],
     },
     themeLinks: [
@@ -56,7 +56,7 @@ From Lars Ulrich's iconic thrash sound to George Kollias' blistering death metal
     ],
     metaTitle: "Tama Metal Drummers - Who Plays Tama Drums | MetalForge",
     metaDescription:
-      "Discover which legendary metal drummers play Tama drums. From Lars Ulrich to George Kollias, explore their Tama setups and signature gear.",
+      "Discover which legendary metal drummers play Tama drums. From Lars Ulrich to Dave Lombardo, explore their Tama setups and signature gear.",
     keywords: ["tama drums", "tama metal drummers", "tama starclassic", "tama iron cobra", "lars ulrich drums"],
     popularModels: [
       { name: "Starclassic Maple", description: "Warm, versatile maple shells for all-around performance", affiliate: "tama-starclassic-maple" },
@@ -66,7 +66,7 @@ From Lars Ulrich's iconic thrash sound to George Kollias' blistering death metal
     faq: [
       {
         question: "What Tama drums do metal drummers use?",
-        answer: "Most professional metal drummers use Tama Starclassic series drums - either Maple for warmer tones (Lars Ulrich) or Walnut/Birch for more attack (Gene Hoglan, George Kollias). The Starclassic Bubinga is popular for its deep, powerful sound."
+        answer: "Most professional metal drummers use Tama Starclassic series drums - either Maple for warmer tones (Lars Ulrich) or Walnut/Birch for more attack (Dave Lombardo). The Starclassic Bubinga is popular for its deep, powerful sound."
       },
       {
         question: "Why is Tama popular in metal?",

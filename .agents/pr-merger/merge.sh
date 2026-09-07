@@ -8,6 +8,19 @@
 # when all *required* checks pass and a *non-required* check is red/pending
 # (a failing required check would be BLOCKED instead).
 #
+# CI gate (2026-09-07): `main` has NO required status checks, so a fresh PR reports
+# CLEAN within seconds of opening — before slow CI (the perf-budget gate needs a
+# ~2 min build) has even been assigned a runner. Between 2026-07-13 and 2026-09-07
+# that meant ~830 runs of perf-budget.yml with exactly ONE success: the merger
+# squash-merged each Roadie PR ~20s after it opened, the branch vanished, and the
+# run died with 0 jobs. The bundle drifted over budget on main unnoticed. So the
+# merger now enforces the checks in GATE_CHECKS itself: a PR is merged only once
+# each gate check on its head SHA has completed green; pending → defer to the next
+# run (the gate's own `check_suite completed` event re-triggers us); failed → HOLD
+# the PR (comment once, flag the linked issue `needs-human`). Branch protection
+# with required checks would do the same thing at the GitHub level — this is the
+# in-script equivalent so the guarantee doesn't depend on repo settings.
+#
 # Reaps DIRTY (content-conflicting) Roadie PRs instead of leaving them in limbo:
 # closes the PR, deletes the branch, and clears the linked issue's
 # pr-opened/in-progress labels so Roadie re-implements cleanly from the latest
@@ -24,6 +37,12 @@ BLOCKING_LABELS=("human-founder" "do-not-merge" "hold" "wip" "blocked")
 WALL_CAP_SECS=$((45 * 60))   # whole-run cap
 CI_POLL_SECS=10
 CI_POLL_MAX=60               # 10 min per BEHIND PR
+# Check-run NAMES (= the job `name:` in the workflow) that must be green before a
+# merge. Only listed here because GitHub has no required checks on main.
+GATE_CHECKS=("Bundle budget + homepage request graph")   # perf-budget.yml (#4410)
+GATE_GRACE_SECS=180          # a gate run may take a few seconds to appear on a fresh SHA
+GATE_STUCK_SECS=$((45 * 60)) # a gate still pending this long after the commit is treated as failed
+GATE_MARKER='<!-- pr-merger-gate -->'
 START=$(date +%s)
 
 declare -A SKIP=()           # PR numbers we've decided to skip this run
@@ -49,6 +68,90 @@ comment_conflict_once() {
         --jq '.comments[].body' 2>/dev/null | grep -q "<!-- pr-merger -->"; then
     gh pr comment "$n" --repo "$REPO" --body $'<!-- pr-merger -->\n🤖 Auto-merge skipped: this branch has conflicts with `main`. Please rebase/resolve, and I\'ll merge it on the next pass once CI is green.' || true
   fi
+}
+
+# ---- CI gate -----------------------------------------------------------------
+# Prints exactly one of: ok | pending | fail:<check name>|<html url>
+# Looks at the latest check run per name on the PR's head SHA. A gate check that
+# does not exist for the SHA is "not applicable" (its workflow has a `paths:`
+# filter) once the commit is older than GATE_GRACE_SECS; before that it may simply
+# not have been created yet, so we defer. Any API hiccup also defers — deferring is
+# always safe, merging blind is not.
+gate_state() {
+  local n="$1" sha commit_date age_secs runs
+  sha=$(gh pr view "$n" --repo "$REPO" --json headRefOid --jq '.headRefOid // ""' 2>/dev/null)
+  [[ -z "$sha" ]] && { echo pending; return; }
+  commit_date=$(gh api "repos/$REPO/commits/$sha" --jq '.commit.committer.date // ""' 2>/dev/null)
+  # Unknown commit age → 0 (= "fresh"), so an API/date hiccup can only make us
+  # defer, never treat a missing gate run as "not applicable" or "stuck".
+  age_secs=0
+  if [[ -n "$commit_date" ]]; then
+    local ts; ts=$(date -u -d "$commit_date" +%s 2>/dev/null) || ts=""
+    [[ -n "$ts" ]] && age_secs=$(( $(date +%s) - ts ))
+  fi
+  runs=$(gh api "repos/$REPO/commits/$sha/check-runs?per_page=100" \
+    --jq '.check_runs[] | [.name, .status, (.conclusion // ""), (.html_url // "")] | @tsv' 2>/dev/null) \
+    || { echo pending; return; }
+  local name line status conclusion url
+  for name in "${GATE_CHECKS[@]}"; do
+    line=$(printf '%s\n' "$runs" | awk -F'\t' -v n="$name" '$1==n' | head -1)
+    if [[ -z "$line" ]]; then
+      (( age_secs < GATE_GRACE_SECS )) && { echo pending; return; }
+      continue   # older commit, no such check → workflow's paths filter did not match
+    fi
+    status=$(printf '%s' "$line" | cut -f2)
+    conclusion=$(printf '%s' "$line" | cut -f3)
+    url=$(printf '%s' "$line" | cut -f4)
+    if [[ "$status" != "completed" ]]; then
+      (( age_secs > GATE_STUCK_SECS )) && { echo "fail:${name} (stuck ${status} for $((age_secs/60)) min)|${url}"; return; }
+      echo pending; return
+    fi
+    case "$conclusion" in
+      success|neutral|skipped) ;;
+      *) echo "fail:${name} (${conclusion:-no conclusion})|${url}"; return ;;
+    esac
+  done
+  echo ok
+}
+
+# A gate check failed on this PR: leave one explanatory comment, flag the linked
+# issue `needs-human`, and keep the PR open (never merged, never reaped — a
+# perf regression is not something Roadie should blindly retry from scratch).
+hold_gate_failure() {
+  local n="$1" detail="$2" issue
+  local what="${detail%%|*}" url="${detail#*|}"
+  log "HOLD #$n — CI gate failed: $what"
+  # Idempotent: the PR comment carries the marker; everything below (issue label +
+  # issue comment) happens only the first time, so a held PR that the merger
+  # re-evaluates every 15 min does not spam its issue.
+  if gh pr view "$n" --repo "$REPO" --json comments \
+        --jq '.comments[].body' 2>/dev/null | grep -q "$GATE_MARKER"; then
+    return 0
+  fi
+  gh pr comment "$n" --repo "$REPO" --body "${GATE_MARKER}
+🤖 Auto-merge held: the CI gate **${what}** is red on this PR${url:+ (${url})}. This check is enforced by the PR Merger even though \`main\` has no required checks. Fix the regression on this branch (or, for a deliberate bundle growth, bump \`perf-budgets.json\` in the same PR with a note on why) and I'll merge on the next pass once it's green." >/dev/null 2>&1 || true
+  issue=$(gh pr view "$n" --repo "$REPO" --json body,title \
+    --jq '((.body // "") + " " + (.title // "")) | capture("#(?<i>[0-9]+)").i // ""' 2>/dev/null)
+  if [[ -n "$issue" ]]; then
+    gh issue edit "$issue" --repo "$REPO" --add-label needs-human >/dev/null 2>&1 || true
+    gh issue comment "$issue" --repo "$REPO" --body "${GATE_MARKER}
+🤖 PR #${n} for this issue is held by the PR Merger: CI gate **${what}** failed. Needs a human look (or a fix pushed to the PR branch)." >/dev/null 2>&1 || true
+  fi
+}
+
+# merge_pr behind the CI gate. Returns 0 only on an actual merge; on
+# pending/failed it records the reason and returns 1.
+gated_merge() {
+  local n="$1" gs
+  gs=$(gate_state "$n")
+  case "$gs" in
+    ok) merge_pr "$n" && return 0
+        SKIP[$n]=1; SKIPPED_LINES+=("#$n merge failed"); return 1 ;;
+    pending) SKIP[$n]=1; SKIPPED_LINES+=("#$n CI gate still running (retry next run)"); return 1 ;;
+    fail:*) hold_gate_failure "$n" "${gs#fail:}"
+        SKIP[$n]=1; SKIPPED_LINES+=("#$n HELD — CI gate failed: ${gs#fail:}"); return 1 ;;
+    *) SKIP[$n]=1; SKIPPED_LINES+=("#$n gate state '$gs' (retry next run)"); return 1 ;;
+  esac
 }
 
 merge_pr() {
@@ -160,7 +263,7 @@ while :; do
 
   case "$MSS" in
     CLEAN)
-      merge_pr "$CAND" || { SKIP[$CAND]=1; SKIPPED_LINES+=("#$CAND merge failed"); }
+      gated_merge "$CAND" || true
       # loop: re-list and continue
       ;;
     BEHIND)
@@ -173,12 +276,21 @@ while :; do
         sleep "$CI_POLL_SECS"
         STATE=$(gh pr view "$CAND" --repo "$REPO" --json mergeStateStatus --jq .mergeStateStatus 2>/dev/null || echo UNKNOWN)
         case "$STATE" in
-          CLEAN) merge_pr "$CAND" && MERGED_THIS=1; break ;;
+          CLEAN)
+            GS=$(gate_state "$CAND")
+            case "$GS" in
+              ok) merge_pr "$CAND" && MERGED_THIS=1; break ;;
+              pending) continue ;;   # CI gate still running → keep polling
+              fail:*) hold_gate_failure "$CAND" "${GS#fail:}"; SKIPPED_LINES+=("#$CAND HELD — CI gate failed: ${GS#fail:}"); MERGED_THIS=2; break ;;
+              *) continue ;;
+            esac ;;
           BLOCKED|UNSTABLE|DIRTY) break ;;
           *) continue ;;  # BEHIND/UNKNOWN/pending → keep polling
         esac
       done
-      if [[ "$MERGED_THIS" != "1" ]]; then
+      if [[ "$MERGED_THIS" == "2" ]]; then
+        SKIP[$CAND]=1   # held by the gate — reason already recorded
+      elif [[ "$MERGED_THIS" != "1" ]]; then
         SKIP[$CAND]=1; SKIPPED_LINES+=("#$CAND BEHIND→CI not green within wait")
       fi
       ;;
@@ -187,8 +299,8 @@ while :; do
     UNSTABLE)
       # Required checks pass (else GitHub would report BLOCKED); only a
       # non-required check is red/pending → safe to merge per policy.
-      log "#$CAND UNSTABLE → required checks pass, merging (non-required check red/pending)"
-      merge_pr "$CAND" || { SKIP[$CAND]=1; SKIPPED_LINES+=("#$CAND UNSTABLE merge failed"); } ;;
+      log "#$CAND UNSTABLE → required checks pass; merging if the CI gate is green (other non-required checks may be red/pending)"
+      gated_merge "$CAND" || true ;;
     *)
       SKIP[$CAND]=1; SKIPPED_LINES+=("#$CAND state $MSS (skipped)") ;;
   esac

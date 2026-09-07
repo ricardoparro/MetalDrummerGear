@@ -5,8 +5,9 @@
  * metalforge.io URLs every two weeks and diffs the result against the
  * previous run. Output:
  *   - .agents/seo/perf-history/<date>.json (next run's baseline, committed)
- *   - Umbrella issue `performance-watch`   (only when a URL regressed)
- *   - Optional Telegram one-liner on regression (postToTelegram convention)
+ *   - Umbrella issue `performance-watch`   (when a URL regressed OR is
+ *     chronically slow — see the absolute thresholds below)
+ *   - Optional Telegram one-liner on regression / chronic-set change
  *
  * Why this exists: #4410 (perf-budget.yml) gates the BUILD on every PR —
  * prevention. This loop measures PRODUCTION every two weeks — detection. CDN
@@ -17,6 +18,14 @@
  * Baseline context (epic #4407, mid-2026): mobile homepage was ≈63
  * performance / TBT ~2.9s before the epic started driving it down. This loop
  * is how we SEE that number move.
+ *
+ * 2026-09-07 — absolute thresholds added. For its first two months this loop
+ * was regression-only: it flagged fortnight-over-fortnight drops and nothing
+ * else, so pages that were terrible from day one (hubs LCP ~12s, album article
+ * LCP ~26s, scores 49-58 — stable since the 2026-07-15 baseline) never
+ * appeared anywhere. Now any URL below SCORE_FLOOR or above LCP_CEILING_MS is
+ * listed as "chronic" in the same umbrella issue, and the umbrella stays open
+ * until both the regression list AND the chronic list are empty.
  *
  * Reuses generate-digest.cjs / watchdog.cjs conventions verbatim: the GitHub
  * REST helper style (Bearer GITHUB_TOKEN, api.github.com), postToTelegram,
@@ -86,6 +95,15 @@ const HOMEPAGE_URL = 'https://metalforge.io/';
 const SCORE_DROP_THRESHOLD = 5;     // performance score points
 const TBT_WORSEN_PCT = 0.20;        // total blocking time, relative
 const TRANSFER_GROW_PCT = 0.15;     // total transfer bytes, relative
+
+/* ---------------------------------------------------------------------------
+ * Absolute ("chronic") thresholds — flag a URL that is bad in itself, whether
+ * or not it moved since last fortnight. LCP 4000ms is Google's own "poor"
+ * boundary for Core Web Vitals; score 60 is where Lighthouse turns the score
+ * orange→red-adjacent and roughly where our hubs/articles have sat since July.
+ * ------------------------------------------------------------------------- */
+const SCORE_FLOOR = 60;             // performance score below this = chronic
+const LCP_CEILING_MS = 4000;        // largest contentful paint above this = chronic
 
 const ISSUE_MARKER = '<!-- l4-performance-watch-umbrella -->';
 const ISSUE_TITLE_PREFIX = '📉 L4 Performance Watch';
@@ -190,6 +208,31 @@ function detectRegressions(prevByUrl, currByUrl) {
     }
   }
   return regressions;
+}
+
+/**
+ * Pure: URLs that are bad on absolute terms this run (no baseline needed).
+ * Returned in worst-first order (lowest score, then highest LCP).
+ */
+function detectChronic(currByUrl) {
+  const chronic = [];
+  for (const [url, curr] of Object.entries(currByUrl || {})) {
+    const reasons = [];
+    if (typeof curr.performanceScore === 'number' && curr.performanceScore < SCORE_FLOOR) {
+      reasons.push(`score ${curr.performanceScore} (< ${SCORE_FLOOR})`);
+    }
+    if (typeof curr.lcp === 'number' && curr.lcp > LCP_CEILING_MS) {
+      reasons.push(`LCP ${(curr.lcp / 1000).toFixed(1)}s (> ${LCP_CEILING_MS / 1000}s)`);
+    }
+    if (reasons.length > 0) chronic.push({ url, label: curr.label || url, reasons, curr });
+  }
+  chronic.sort((a, b) => {
+    const sa = typeof a.curr.performanceScore === 'number' ? a.curr.performanceScore : 101;
+    const sb = typeof b.curr.performanceScore === 'number' ? b.curr.performanceScore : 101;
+    if (sa !== sb) return sa - sb;
+    return (b.curr.lcp || 0) - (a.curr.lcp || 0);
+  });
+  return chronic;
 }
 
 function loadPrevSnapshot(historyDir, currentFileName) {
@@ -320,7 +363,7 @@ const esc = (s) => String(s).replace(/[<>&]/g, c => ({ '<': '&lt;', '>': '&gt;',
 /* ---------------------------------------------------------------------------
  * Message + issue body builders.
  * ------------------------------------------------------------------------- */
-function buildIssueBody(regressions, now, prevFile) {
+function buildIssueBody(regressions, now, prevFile, chronic = []) {
   const lines = [];
   lines.push(ISSUE_MARKER);
   lines.push('');
@@ -328,27 +371,64 @@ function buildIssueBody(regressions, now, prevFile) {
   lines.push('');
   lines.push(`## 📉 ${regressions.length} URL${regressions.length === 1 ? '' : 's'} regressed`);
   lines.push('');
-  lines.push('| URL | Regression |');
-  lines.push('| --- | --- |');
-  for (const r of regressions) {
-    lines.push(`| ${r.label} (\`${r.url}\`) | ${r.reasons.join('; ')} |`);
+  if (regressions.length === 0) {
+    lines.push('_None this fortnight._');
+  } else {
+    lines.push('| URL | Regression |');
+    lines.push('| --- | --- |');
+    for (const r of regressions) {
+      lines.push(`| ${r.label} (\`${r.url}\`) | ${r.reasons.join('; ')} |`);
+    }
   }
   lines.push('');
   lines.push(`Thresholds: score drop >${SCORE_DROP_THRESHOLD}pts · TBT worsens >${Math.round(TBT_WORSEN_PCT * 100)}% · transfer grows >${Math.round(TRANSFER_GROW_PCT * 100)}% (any URL, vs the previous fortnight's snapshot).`);
   lines.push('');
+  lines.push(`## 🐌 ${chronic.length} URL${chronic.length === 1 ? '' : 's'} chronically slow`);
+  lines.push('');
+  if (chronic.length === 0) {
+    lines.push('_None — every measured URL is above the absolute bar._');
+  } else {
+    lines.push('| URL | Why it is flagged | FCP → LCP | TBT | Biggest script |');
+    lines.push('| --- | --- | --- | --- | --- |');
+    for (const c of chronic) {
+      const m = c.curr;
+      const fcp = typeof m.fcp === 'number' ? `${(m.fcp / 1000).toFixed(1)}s` : '?';
+      const lcp = typeof m.lcp === 'number' ? `${(m.lcp / 1000).toFixed(1)}s` : '?';
+      const tbt = typeof m.tbt === 'number' ? `${Math.round(m.tbt)}ms` : '?';
+      const big = (m.biggestJsRequests && m.biggestJsRequests[0])
+        ? `\`${m.biggestJsRequests[0].url.split('/').pop().replace(/-[0-9a-f]{32}\.js$/, '-*.js')}\` ${Math.round(m.biggestJsRequests[0].transferSize / 1024)}KB`
+        : '?';
+      lines.push(`| ${c.label} (\`${c.url}\`) | ${c.reasons.join('; ')} | ${fcp} → ${lcp} | ${tbt} | ${big} |`);
+    }
+    lines.push('');
+    lines.push(`Absolute bar: score ≥ ${SCORE_FLOOR} and LCP ≤ ${LCP_CEILING_MS / 1000}s (Google's "poor" CWV boundary). These rows are NOT new this fortnight — they are the pages that have been slow all along and only show up here because the bar is absolute.`);
+    lines.push('');
+    lines.push('How to read a row: a small FCP with a huge LCP means the page paints its shell fast but the element Lighthouse counts as "largest content" only arrives after a big lazy JS chunk downloads and parses on simulated slow 4G. The fix is almost never "compress images" — it is getting the above-the-fold content out from behind that chunk (render it from the small eager bundle / `/api/init` data, split the chunk per entity, or give the LCP image a real `<img>` with `fetchpriority=high` instead of a JS-driven one).');
+    lines.push('');
+    lines.push('Before filing new work for a chronic row, search open issues labelled `performance` — a fix may already be queued.');
+  }
+  lines.push('');
   lines.push('Baseline context: mobile homepage was ≈63 performance / TBT ~2.9s before epic #4407 started driving it down — this loop is how we watch that number move over time.');
   lines.push('');
-  lines.push('This issue closes automatically once a run shows no regressions.');
+  lines.push('This issue closes automatically once a run shows no regressions AND no chronically slow URLs.');
   return lines.join('\n');
 }
 
-function buildTelegramText(regressions, now) {
-  const worst = regressions[0];
+function buildTelegramText(regressions, now, chronic = [], chronicChanged = false) {
   const lines = [];
-  lines.push('📉 <b>L4 Performance</b> — fortnightly Lighthouse regression');
-  lines.push(`<i>${fmtNow(now)} · ${regressions.length} URL${regressions.length === 1 ? '' : 's'} regressed</i>`);
-  lines.push(`Worst: ${esc(worst.label)} — ${esc(worst.reasons[0])}`);
+  if (regressions.length > 0) {
+    const worst = regressions[0];
+    lines.push('📉 <b>L4 Performance</b> — fortnightly Lighthouse regression');
+    lines.push(`<i>${fmtNow(now)} · ${regressions.length} URL${regressions.length === 1 ? '' : 's'} regressed${chronic.length ? ` · ${chronic.length} chronically slow` : ''}</i>`);
+    lines.push(`Worst: ${esc(worst.label)} — ${esc(worst.reasons[0])}`);
+  } else {
+    const worst = chronic[0];
+    lines.push('🐌 <b>L4 Performance</b> — chronically slow pages changed');
+    lines.push(`<i>${fmtNow(now)} · no regressions · ${chronic.length} URL${chronic.length === 1 ? '' : 's'} below the absolute bar (score &lt; ${SCORE_FLOOR} or LCP &gt; ${LCP_CEILING_MS / 1000}s)</i>`);
+    if (worst) lines.push(`Worst: ${esc(worst.label)} — ${esc(worst.reasons.join(', '))}`);
+  }
   lines.push(`<a href="https://github.com/${REPO}/actions">Actions tab →</a>`);
+  void chronicChanged;
   return lines.join('\n');
 }
 
@@ -376,12 +456,13 @@ async function ensureLabel() {
   }
 }
 
-async function upsertUmbrellaIssue(regressions, now, prevFile) {
+async function upsertUmbrellaIssue(regressions, now, prevFile, chronic = []) {
   const existing = await findUmbrellaIssue();
-  if (regressions.length === 0) {
+  const actionable = regressions.length + chronic.length;
+  if (actionable === 0) {
     if (existing) {
       await ghWrite('POST', `/repos/${REPO}/issues/${existing.number}/comments`, {
-        body: `🤖 L4 Performance ${fmtNow(now)}: no regressions vs \`${prevFile || '(none)'}\`. Closing.`,
+        body: `🤖 L4 Performance ${fmtNow(now)}: no regressions vs \`${prevFile || '(none)'}\` and no URL below the absolute bar. Closing.`,
       });
       await ghWrite('PATCH', `/repos/${REPO}/issues/${existing.number}`, { state: 'closed' });
       process.stderr.write(`  Closed umbrella issue #${existing.number}.\n`);
@@ -389,12 +470,16 @@ async function upsertUmbrellaIssue(regressions, now, prevFile) {
     return;
   }
   await ensureLabel();
-  const title = `${ISSUE_TITLE_PREFIX} — ${regressions.length} URL${regressions.length === 1 ? '' : 's'} regressed`;
-  const body = buildIssueBody(regressions, now, prevFile);
+  const parts = [];
+  if (regressions.length) parts.push(`${regressions.length} regressed`);
+  if (chronic.length) parts.push(`${chronic.length} chronically slow`);
+  const title = `${ISSUE_TITLE_PREFIX} — ${parts.join(' · ')}`;
+  const body = buildIssueBody(regressions, now, prevFile, chronic);
+  const summary = `${regressions.length} regressed vs \`${prevFile || '(none)'}\`, ${chronic.length} chronically slow (score < ${SCORE_FLOOR} or LCP > ${LCP_CEILING_MS / 1000}s).`;
   if (existing) {
     await ghWrite('PATCH', `/repos/${REPO}/issues/${existing.number}`, { title, body, state: 'open' });
     await ghWrite('POST', `/repos/${REPO}/issues/${existing.number}/comments`, {
-      body: `🤖 L4 Performance ${fmtNow(now)}: ${regressions.length} URL(s) regressed vs \`${prevFile || '(none)'}\`.`,
+      body: `🤖 L4 Performance ${fmtNow(now)}: ${summary}`,
     });
     process.stderr.write(`  Updated umbrella issue #${existing.number}.\n`);
   } else {
@@ -485,8 +570,34 @@ function selfTest() {
   check('multi-URL: only the regressed one reported', multi.length, 1);
   check('multi-URL: correct url flagged', multi[0] && multi[0].url, 'a');
 
+  // Absolute ("chronic") thresholds — independent of any baseline.
+  const good = { label: 'Good', performanceScore: 80, lcp: 1000, fcp: 800, tbt: 700 };
+  check('score 80 / LCP 1.0s → not chronic', detectChronic({ u: good }).length, 0);
+  check('score 59 → chronic', detectChronic({ u: { ...good, performanceScore: 59 } }).length, 1);
+  check('score 60 (not < 60) → not chronic', detectChronic({ u: { ...good, performanceScore: 60 } }).length, 0);
+  check('LCP 4001ms → chronic', detectChronic({ u: { ...good, lcp: 4001 } }).length, 1);
+  check('LCP 4000ms (not > 4000) → not chronic', detectChronic({ u: { ...good, lcp: 4000 } }).length, 0);
+  check('score 49 + LCP 26s → one row, two reasons',
+    detectChronic({ u: { ...good, performanceScore: 49, lcp: 26052 } })[0].reasons.length, 2);
+  const ranked = detectChronic({
+    a: { ...good, performanceScore: 58, lcp: 11739 },
+    b: { ...good, performanceScore: 49, lcp: 26052 },
+    c: good,
+  });
+  check('chronic: only the bad URLs listed', ranked.length, 2);
+  check('chronic: worst (lowest score) first', ranked[0].url, 'b');
+  check('null metrics → not chronic (no false positives on a failed audit)',
+    detectChronic({ u: { label: 'x', performanceScore: null, lcp: null } }).length, 0);
+  check('chronic set signature is order-independent',
+    chronicSignature([{ url: 'b' }, { url: 'a' }]), chronicSignature([{ url: 'a' }, { url: 'b' }]));
+
   process.stdout.write(failures === 0 ? '\nself-test: PASS\n' : `\nself-test: FAIL (${failures})\n`);
   return failures === 0;
+}
+
+/** Pure: stable identity of a chronic set, to notice when it changes run-to-run. */
+function chronicSignature(chronic) {
+  return (chronic || []).map(c => c.url).sort().join('|');
 }
 
 /* ---------------------------------------------------------------------------
@@ -517,50 +628,65 @@ async function main() {
 
   const regressions = detectRegressions(prev && prev.data && prev.data.byUrl, byUrl);
   log(`${regressions.length} regression(s) vs ${prev ? prev.file : '(no previous snapshot)'}`);
+  const chronic = detectChronic(byUrl);
+  const prevChronic = detectChronic(prev && prev.data && prev.data.byUrl);
+  const chronicChanged = chronicSignature(chronic) !== chronicSignature(prevChronic);
+  log(`${chronic.length} chronically slow URL(s) (score < ${SCORE_FLOOR} or LCP > ${LCP_CEILING_MS}ms)${chronicChanged ? ' — set changed vs previous snapshot' : ''}`);
 
   const report = {
     generatedAt: now.toISOString(),
     urls: URLS,
     prevHistoryFile: prev ? prev.file : null,
     regressions,
+    chronic,
+    thresholds: { SCORE_DROP_THRESHOLD, TBT_WORSEN_PCT, TRANSFER_GROW_PCT, SCORE_FLOOR, LCP_CEILING_MS },
     byUrl,
   };
   fs.mkdirSync(path.dirname(OUT), { recursive: true });
   fs.writeFileSync(OUT, JSON.stringify(report, null, 2));
   log(`wrote ${OUT}`);
 
+  // Telegram only when something a human should notice happened: a regression,
+  // or the chronic set changed (a page crossed the bar in either direction).
+  // A stable chronic set is already visible in the umbrella issue + digest.
+  const notify = regressions.length > 0 || (chronic.length > 0 && chronicChanged);
+
   if (dryRun) {
-    if (regressions.length > 0) {
-      process.stdout.write('\n--- ISSUE BODY (dry-run) ---\n' + buildIssueBody(regressions, now, prev && prev.file) + '\n');
-      process.stdout.write('\n--- TELEGRAM (dry-run) ---\n' + buildTelegramText(regressions, now) + '\n');
+    if (regressions.length + chronic.length > 0) {
+      process.stdout.write('\n--- ISSUE BODY (dry-run) ---\n' + buildIssueBody(regressions, now, prev && prev.file, chronic) + '\n');
+      if (notify) process.stdout.write('\n--- TELEGRAM (dry-run) ---\n' + buildTelegramText(regressions, now, chronic, chronicChanged) + '\n');
     } else {
-      process.stdout.write('\nNo regressions. (Would close umbrella issue if open, no Telegram message.)\n');
+      process.stdout.write('\nNo regressions, nothing chronic. (Would close umbrella issue if open, no Telegram message.)\n');
     }
     return;
   }
 
-  await upsertUmbrellaIssue(regressions, now, prev && prev.file);
-  if (regressions.length > 0) {
-    await postToTelegram(buildTelegramText(regressions, now));
+  await upsertUmbrellaIssue(regressions, now, prev && prev.file, chronic);
+  if (notify) {
+    await postToTelegram(buildTelegramText(regressions, now, chronic, chronicChanged));
   }
 }
 
 /* ---------------------------------------------------------------------------
  * Entry point.
  * ------------------------------------------------------------------------- */
-(async () => {
-  if (hasFlag('self-test')) {
-    const ok = selfTest();
-    process.exit(ok ? 0 : 1);
-  }
-  await main();
-  process.exit(0);
-})().catch(e => {
-  log(`FATAL: ${e.stack || e.message || e}`);
-  process.exit(1);
-});
+// Only run when executed directly — generate-digest.cjs requires this file for
+// the thresholds + detectChronic so the digest and the loop can never disagree.
+if (require.main === module) {
+  (async () => {
+    if (hasFlag('self-test')) {
+      const ok = selfTest();
+      process.exit(ok ? 0 : 1);
+    }
+    await main();
+    process.exit(0);
+  })().catch(e => {
+    log(`FATAL: ${e.stack || e.message || e}`);
+    process.exit(1);
+  });
+}
 
 module.exports = {
-  extractMetrics, detectRegressions, buildIssueBody, buildTelegramText,
-  URLS, HOMEPAGE_URL, SCORE_DROP_THRESHOLD, TBT_WORSEN_PCT, TRANSFER_GROW_PCT,
+  extractMetrics, detectRegressions, detectChronic, chronicSignature, buildIssueBody, buildTelegramText,
+  URLS, HOMEPAGE_URL, SCORE_DROP_THRESHOLD, TBT_WORSEN_PCT, TRANSFER_GROW_PCT, SCORE_FLOOR, LCP_CEILING_MS,
 };

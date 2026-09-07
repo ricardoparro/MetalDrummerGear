@@ -191,11 +191,6 @@ export const licks = {
         "name": "Zildjian A Series Cymbals",
         "type": "cymbals",
         "link": null
-      },
-      {
-        "name": "Tama Iron Cobra Pedals",
-        "type": "pedals",
-        "link": null
       }
     ],
     "learningTips": [
@@ -332,11 +327,6 @@ export const licks = {
       {
         "name": "Zildjian A Series Hi-Hats",
         "type": "cymbals",
-        "link": null
-      },
-      {
-        "name": "Tama Iron Cobra Pedals",
-        "type": "pedals",
         "link": null
       }
     ],

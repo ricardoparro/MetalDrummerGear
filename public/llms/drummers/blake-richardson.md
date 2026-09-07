@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Tama"
 profile_url: "https://metalforge.io/drummer/blake-richardson"
 source: "https://metalforge.io"
-last_updated: "2026-08-01"
+last_updated: "2026-09-07"
 ---
 
 # Blake Richardson — Drum Kit & Gear Setup
@@ -26,6 +26,12 @@ Blake Richardson's drum kit and gear setup. Blake Richardson is a professional m
 | Signature snare | Tama STARPHONIC 14x6" Brass |
 | Sticks | Vic Firth American Classic 3A |
 
+## Kit Overview
+
+Blake Richardson's drum kit is a Tama Starclassic Bubinga build in a custom finish — the dense, focused-tone shell pack he has used as Between the Buried and Me's drummer since 2005, prized for the tight low end and explosive attack progressive metal's constantly shifting time signatures demand. The Blake Richardson drum set is anchored by his Tama STARPHONIC 14x6" Brass snare, delivering the cutting crack that drives BTBAM's blast beats and odd-meter grooves across landmark records like Colors (2007) and The Parallax II: Future Sequence (2012).
+
+Sabian cymbals round out the Blake Richardson drum kit: 14" HHX Evolution Hi-Hats for crisp articulation, an 18" HHX Evolution Crash for explosive accents, 17" and 21" AAX Holy Chinas for aggressive color, a 21" HH Raw Bell Dry Ride for rhythmic clarity, and a 10" HH Duo Splash plus 9" Radia Cup Chime for textural detail. Twin Tama Iron Cobra Power Glide single pedals power his independent double-kick patterns, while Vic Firth American Classic 3A sticks and Evans heads complete a drum set engineered for BTBAM's genre-spanning compositions. For the full breakdown, see Richardson's setup on [Colors](/articles/colors-drum-setup) and [The Parallax II: Future Sequence](/articles/the-parallax-ii-future-sequence-drum-setup), plus the [complete cymbal setup](/drummer/blake-richardson/cymbals).
+
 ## Biography
 
 Cartland Blake Richardson (born June 29, 1984) is the drummer for American progressive metal band Between the Buried and Me, as well as Glass Casket. Joining BTBAM in early 2005, Richardson replaced former drummer Jason Roe and has been integral to the band's evolution ever since. His drumming is characterized by a fusion of death metal precision with jazz influences, featuring complex blast beats, odd time signatures, and fill-heavy arrangements. Richardson's work on landmark albums like "Colors," "The Great Misdirect," and "Colors II" has earned him Grammy nominations and widespread acclaim. Inspired by drummers like Terry Bozzio, Dennis Chambers, and Tomas Haake, he is considered one of the most creative and technically proficient drummers in modern progressive metal.
@@ -33,12 +39,6 @@ Cartland Blake Richardson (born June 29, 1984) is the drummer for American progr
 Blake Richardson (born February 25, 1984, in Winston-Salem, North Carolina) is an American drummer known for his work with progressive metal band Between the Buried and Me (BTBAM) since 2005. He is widely regarded as one of the most technically proficient and creative drummers in progressive metal, capable of seamlessly blending extreme metal intensity with jazz, fusion, and experimental elements.
 
 Richardson's work on landmark albums like "Colors," "The Great Misdirect," and "The Parallax" series has earned him critical acclaim and a devoted following among drummers. His ability to navigate complex compositions while maintaining musicality and groove has made him an influential figure in modern progressive metal.
-
-## Kit Overview
-
-Blake Richardson's drum kit is a Tama Starclassic Bubinga build in a custom finish — the dense, focused-tone shell pack he has used as Between the Buried and Me's drummer since 2005, prized for the tight low end and explosive attack progressive metal's constantly shifting time signatures demand. The Blake Richardson drum set is anchored by his Tama STARPHONIC 14x6" Brass snare, delivering the cutting crack that drives BTBAM's blast beats and odd-meter grooves across landmark records like Colors (2007) and The Parallax II: Future Sequence (2012).
-
-Sabian cymbals round out the Blake Richardson drum kit: 14" HHX Evolution Hi-Hats for crisp articulation, an 18" HHX Evolution Crash for explosive accents, 17" and 21" AAX Holy Chinas for aggressive color, a 21" HH Raw Bell Dry Ride for rhythmic clarity, and a 10" HH Duo Splash plus 9" Radia Cup Chime for textural detail. Twin Tama Iron Cobra Power Glide single pedals power his independent double-kick patterns, while Vic Firth American Classic 3A sticks and Evans heads complete a drum set engineered for BTBAM's genre-spanning compositions. For the full breakdown, see Richardson's setup on [Colors](/articles/colors-drum-setup) and [The Parallax II: Future Sequence](/articles/the-parallax-ii-future-sequence-drum-setup), plus the [complete cymbal setup](/drummer/blake-richardson/cymbals).
 
 ## Band History
 
@@ -154,4 +154,4 @@ Full breakdown: [Blake Richardson's pedal setup](https://metalforge.io/pedals/se
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-08-01 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-07 · Source: [MetalForge.io](https://metalforge.io)*

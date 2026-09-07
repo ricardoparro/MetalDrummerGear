@@ -3,10 +3,10 @@ name: "Isaac Lamb"
 band: "Kublai Khan TX"
 genre: "Metalcore / Beatdown Hardcore"
 country: "USA"
-primary_brand: "SJC"
+primary_brand: "Not"
 profile_url: "https://metalforge.io/drummer/isaac-lamb"
 source: "https://metalforge.io"
-last_updated: "2026-08-01"
+last_updated: "2026-09-07"
 ---
 
 # Isaac Lamb — Drum Kit & Gear Setup
@@ -21,10 +21,14 @@ Isaac Lamb's drum kit and gear setup. Isaac Lamb is a professional metal drummer
 | Band | Kublai Khan TX |
 | Genre | Metalcore / Beatdown Hardcore |
 | Country | USA |
-| Primary brand | SJC |
-| Drum kit | SJC Custom Drums |
-| Signature snare | SJC Custom 14x6.5" |
-| Sticks | Vic Firth American Classic 2B |
+| Primary brand | Not |
+| Drum kit | Not publicly documented |
+| Signature snare | Not publicly documented |
+| Sticks | Not publicly documented |
+
+## Kit Overview
+
+Isaac Lamb's specific drum kit brand and model are not publicly documented — no official artist page, interview, or gear feature naming his equipment could be found as of 2026-08-09. What's known is his role: the sole drummer across Kublai Khan TX's full discography since the band's 2009 formation in Sherman, Texas, playing a setup built to cut through the band's heavily downtuned 7-string guitars and land its signature breakdowns.
 
 ## Biography
 
@@ -34,24 +38,18 @@ Isaac Lamb is an American drummer and founding member of the beatdown hardcore/m
 
 Kublai Khan TX draws influence from early 1990s metallic hardcore bands like Integrity, Earth Crisis, All Out War, and Hatebreed. Lamb's drumming style emphasizes power, groove, and devastating timing on breakdowns, helping establish the band as leaders in the beatdown hardcore subgenre. The band has released five studio albums and has toured extensively with major acts in the hardcore and metal scenes.
 
-## Kit Overview
-
-Isaac Lamb plays an SJC Custom drum kit — a hand-built, made-to-order setup that reflects Kublai Khan TX's no-frills, breakdown-driven approach to beatdown hardcore. The Isaac Lamb drum set centers on an SJC Custom 14x6.5" snare, delivering a thick, punishing crack that anchors the band's crushing breakdowns and heavy groove sections without getting lost beneath downtuned guitars.
-
-Meinl Classics Custom Dark Series cymbals define the Isaac Lamb drum kit's tonal character: 14" Hi-Hats for tight, controlled chops; 18" and 20" Crashes for explosive, dark-toned accents; a 21" Ride for rhythmic definition; and an 18" China for aggressive punctuation on the band's heaviest sections. A DW 9000 Series Double Pedal drives Lamb's kick work — direct-drive precision built to land breakdown patterns consistently at every tempo Kublai Khan TX plays. Vic Firth American Classic 2B sticks and Evans Hydraulic drumheads complete the rig, chosen for durability under the sustained physical demands of a touring schedule that has run unbroken since the band's 2009 formation in Sherman, Texas.
-
 ## Band History
 
 - **Kublai Khan TX** — 2009–present (current)
 
 ## Gear
 
-- **Drums:** SJC Custom Drums
-- **Snare:** SJC Custom 14x6.5"
-- **Cymbals:** Meinl Classics Custom Dark Series (14" Hi-Hats, 18" & 20" Crashes, 21" Ride, 18" China)
-- **Hardware:** DW 9000 Series Double Pedal
-- **Sticks:** Vic Firth American Classic 2B
-- **Heads:** Evans Hydraulic
+- **Drums:** Not publicly documented
+- **Snare:** Not publicly documented
+- **Cymbals:** Not publicly documented
+- **Hardware:** Not publicly documented
+- **Sticks:** Not publicly documented
+- **Heads:** Not publicly documented
 
 ## Notable Performances
 
@@ -81,23 +79,23 @@ A: Songs like "The Hammer," "Belligerent," "Swan Song," and "Theory of Mind" are
 
 **Q: What drum set does Isaac Lamb use?**
 
-A: Isaac Lamb's drum set is a boutique SJC Custom Drums kit in American maple — a 22" bass drum, 10"/12" rack toms, and 14"/16" floor toms — paired with an SJC Custom 14"x6.5" maple snare. The tight bearing edges give his kick-snare relationship the focused attack that cuts through Kublai Khan TX's heavily downtuned 7-string guitars.
+A: Isaac Lamb's specific drum kit brand and model are not publicly documented. No official artist page or gear-focused interview naming his equipment has been found.
 
 **Q: What drum kit does Isaac Lamb use?**
 
-A: Isaac Lamb's drum kit centers on SJC Custom Drums American maple shells, an SJC Custom 14"x6.5" maple snare, and a complete Meinl Classics Custom Dark cymbal setup, driven by a DW 9000 Series double pedal — the setup he established for Nomad (2017) and carried through Absolute (2019) and Lowest Form of Animal (2022).
+A: Isaac Lamb's drum kit brand and model are not publicly documented. What's known is that he has played the same role as Kublai Khan TX's sole drummer since the band's 2009 formation, but no source confirms specifics of his equipment.
 
 **Q: What cymbals does Isaac Lamb use?**
 
-A: Isaac Lamb uses a complete Meinl Classics Custom Dark Series setup: 14" Dark hi-hats, 18"/20" Dark crashes, a 21" Dark ride, and an 18" Dark China, chosen for their controlled decay so cymbal wash doesn't ring into Kublai Khan TX's breakdowns.
+A: Isaac Lamb's cymbal brand and sizes are not publicly documented. No gear feature or interview naming his cymbal setup has been found.
 
 **Q: What snare drum does Isaac Lamb use?**
 
-A: Isaac Lamb plays an SJC Custom 14"x6.5" American maple snare drum, its 6.5" depth chosen for the body and backbeat authority that locks with the kick in his groove-first approach.
+A: Isaac Lamb's snare drum brand and model are not publicly documented. No verified source naming his snare has been found.
 
 **Q: What pedals does Isaac Lamb use?**
 
-A: Isaac Lamb drives his kick patterns with a DW 9000 Series double pedal, whose floating rotor and adjustable cam give him the versatility to move between mid-tempo grooves, blast beats, and weighted breakdown strokes.
+A: Isaac Lamb's pedal brand and model are not publicly documented. No verified source naming his hardware has been found.
 
 ## Gear Evolution Timeline
 
@@ -124,4 +122,4 @@ Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-08-01 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-07 · Source: [MetalForge.io](https://metalforge.io)*

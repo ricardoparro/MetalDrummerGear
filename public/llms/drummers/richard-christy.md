@@ -3,10 +3,10 @@ name: "Richard Christy"
 band: "Death / Iced Earth"
 genre: "Death Metal / Thrash Metal"
 country: "USA"
-primary_brand: "Tama"
+primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/richard-christy"
 source: "https://metalforge.io"
-last_updated: "2026-08-01"
+last_updated: "2026-09-07"
 ---
 
 # Richard Christy — Drum Kit & Gear Setup
@@ -22,18 +22,18 @@ Richard Christy's drum kit and gear setup. Richard Christy is a professional met
 | All bands | Death, Iced Earth, Charred Walls of the Damned |
 | Genre | Death Metal / Thrash Metal |
 | Country | USA |
-| Primary brand | Tama |
-| Drum kit | Tama Starclassic Maple |
-| Signature snare | Tama Starclassic 14x6.5" Maple |
+| Primary brand | Pearl |
+| Drum kit | Pearl Custom Z |
+| Signature snare | Pearl Custom Z 14x6.5" Maple |
 | Sticks | Vic Firth American Classic 5A |
 
 ## Kit Overview
 
-Richard Christy plays a Tama Starclassic Maple drum kit — the all-maple shell pack he used to record Death's technical, genre-defining swan song "The Sound of Perseverance" alongside Chuck Schuldiner. At the heart of the Richard Christy drum set is a Tama Starclassic 14x6.5" maple snare, warm enough to sit underneath Death's intricate, progressive arrangements while still delivering the crack needed for his rapid-fire blast beats and complex time-signature work.
+Richard Christy played a Pearl Custom Z drum kit — a nine-piece Canadian Birds Eye Maple shell pack he used to record Death's technical, genre-defining swan song "The Sound of Perseverance" alongside Chuck Schuldiner. At the heart of the Richard Christy drum set is a Pearl Custom Z 14x6.5" maple snare, warm enough to sit underneath Death's intricate, progressive arrangements while still delivering the crack needed for his rapid-fire blast beats and complex time-signature work.
 
-Sabian AAX and HHX Series cymbals define the voice of the Richard Christy drum kit: 14" AAX Stage Hi-Hats for tight control through odd-meter passages; 18" and 19" AAX X-Plosion Crashes for sharp, fast-decaying accents; a 21" HHX Raw Bell Dry Ride for dark, articulate timekeeping; and an 18" AAX Chinese cymbal for abrupt punctuation on technical fills. A Tama Iron Cobra 900 double pedal gives Christy the speed and precision behind his double-bass patterns, a technique he carried from Death into Iced Earth and his own progressive death metal band, Charred Walls of the Damned.
+Sabian AAX and HHX Series cymbals define the voice of the Richard Christy drum kit: 14" AAX Stage Hi-Hats for tight control through odd-meter passages; 18" and 19" AAX X-Plosion Crashes for sharp, fast-decaying accents; a 21" HHX Raw Bell Dry Ride for dark, articulate timekeeping; and an 18" AAX Chinese cymbal for abrupt punctuation on technical fills. An Axis A Longboard double pedal gives Christy the speed and precision behind his double-bass patterns, a technique he carried from Death into Iced Earth and his own progressive death metal band, Charred Walls of the Damned.
 
-Vic Firth American Classic 5A sticks and Evans drumheads round out the Richard Christy drum set — a comparatively lightweight, classic-diameter stick choice that favors the finesse and articulation his technical style demands. Christy's Tama and Sabian setup has remained the backbone of his studio and live sound since his earliest recordings with Chuck Schuldiner.
+Vic Firth American Classic 5A sticks and Evans drumheads round out the Richard Christy drum set — a comparatively lightweight, classic-diameter stick choice that favors the finesse and articulation his technical style demands. Christy's Pearl and Sabian setup has remained the backbone of his studio and live sound since his earliest recordings with Chuck Schuldiner.
 
 ## Biography
 
@@ -51,10 +51,10 @@ Christy's drumming on Death's final two albums—"The Sound of Perseverance" and
 
 ## Gear
 
-- **Drums:** Tama Starclassic Maple
-- **Snare:** Tama Starclassic 14x6.5" Maple
+- **Drums:** Pearl Custom Z
+- **Snare:** Pearl Custom Z 14x6.5" Maple
 - **Cymbals:** Sabian AAX & HHX Series (14" AAX Stage Hi-Hats, 18" & 19" AAX X-Plosion Crashes, 21" HHX Raw Bell Dry Ride, 18" AAX Chinese)
-- **Hardware:** Tama Iron Cobra 900 Double Pedal
+- **Hardware:** Axis A Longboard Double Pedal
 - **Sticks:** Vic Firth American Classic 5A
 - **Heads:** Evans
 
@@ -68,11 +68,11 @@ Christy's drumming on Death's final two albums—"The Sound of Perseverance" and
 
 **Q: What drum kit does Richard Christy use?**
 
-A: Richard Christy plays a Tama Starclassic Maple drum kit — the all-maple shell pack he used to record Death's technical, genre-defining swan song The Sound of Perseverance alongside Chuck Schuldiner. His Tama Starclassic 14"x6.5" Maple snare stays warm under Death's intricate arrangements while still delivering the crack needed for rapid-fire blast beats.
+A: Richard Christy played a Pearl Custom Z drum kit — a nine-piece Canadian Birds Eye Maple shell pack he used to record Death's technical, genre-defining swan song The Sound of Perseverance alongside Chuck Schuldiner. His Pearl 14"x6.5" Maple snare stays warm under Death's intricate arrangements while still delivering the crack needed for rapid-fire blast beats.
 
 **Q: What drum set does Richard Christy use?**
 
-A: Richard Christy's drum set pairs Tama Starclassic Maple shells and his Maple snare with a Tama Iron Cobra 900 double pedal, giving him the speed and precision behind the double-bass patterns he carried from Death into Iced Earth and Charred Walls of the Damned.
+A: Richard Christy's drum set pairs a Pearl Custom Z shell pack and his Pearl Maple snare with an Axis A Longboard double pedal, giving him the speed and precision behind the double-bass patterns he carried from Death into Iced Earth and Charred Walls of the Damned.
 
 **Q: What cymbals does Richard Christy play?**
 
@@ -80,7 +80,7 @@ A: Richard Christy plays Sabian AAX and HHX Series cymbals: 14" AAX Stage Hi-Hat
 
 **Q: What snare does Richard Christy use?**
 
-A: Richard Christy's snare is a Tama Starclassic 14"x6.5" Maple, warm enough to sit underneath Death's progressive arrangements while cutting through for blast beats.
+A: Richard Christy's snare is a Pearl 14"x6.5" Maple, warm enough to sit underneath Death's progressive arrangements while cutting through for blast beats.
 
 **Q: What sticks does Richard Christy use?**
 
@@ -88,7 +88,7 @@ A: Richard Christy uses Vic Firth American Classic 5A drumsticks, a comparativel
 
 **Q: What bass drum pedal does Richard Christy use?**
 
-A: Richard Christy uses a Tama Iron Cobra 900 double pedal.
+A: Richard Christy uses an Axis A Longboard double pedal.
 
 **Q: What drumheads does Richard Christy use?**
 
@@ -96,7 +96,7 @@ A: Richard Christy uses Evans drumheads.
 
 **Q: What band is Richard Christy in?**
 
-A: Richard Christy recorded with Death from 1996-1999, played with Iced Earth from 2003-2004, and has drummed for his own band, Charred Walls of the Damned, since 2009.
+A: Richard Christy recorded with Death from 1996-2001, played with Iced Earth from 2003-2007, and has drummed for his own band, Charred Walls of the Damned, since 2009.
 
 **Q: What hi-hats does Richard Christy use?**
 
@@ -124,7 +124,7 @@ Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
 ## Snare
 
-Richard Christy's snare: Tama Starclassic 14x6.5" Maple. See the [snares guide](https://metalforge.io/snares) for shell, size, and tuning background.
+Richard Christy's snare: Pearl Custom Z 14x6.5" Maple. See the [snares guide](https://metalforge.io/snares) for shell, size, and tuning background.
 
 ## Cymbal Setup
 
@@ -142,7 +142,7 @@ Full breakdown: [Richard Christy's cymbal setup](https://metalforge.io/cymbals/s
 
 ## Pedal
 
-Richard Christy plays a Tama Iron Cobra 900 double pedal (chain-drive).
+Richard Christy plays an Axis A Longboard double pedal (direct-drive).
 
 Full breakdown: [Richard Christy's pedal setup](https://metalforge.io/pedals/setups/richard-christy).
 
@@ -157,4 +157,4 @@ Full breakdown: [Richard Christy's pedal setup](https://metalforge.io/pedals/set
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-08-01 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-07 · Source: [MetalForge.io](https://metalforge.io)*

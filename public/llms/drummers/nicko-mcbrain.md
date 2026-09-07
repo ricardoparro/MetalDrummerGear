@@ -3,10 +3,10 @@ name: "Nicko McBrain"
 band: "Iron Maiden"
 genre: "Heavy Metal / NWOBHM"
 country: "UK"
-primary_brand: "Sonor"
+primary_brand: "British"
 profile_url: "https://metalforge.io/drummer/nicko-mcbrain"
 source: "https://metalforge.io"
-last_updated: "2026-08-01"
+last_updated: "2026-09-07"
 ---
 
 # Nicko McBrain — Drum Kit & Gear Setup
@@ -21,16 +21,16 @@ Nicko McBrain's drum kit and gear setup. Nicko McBrain is a professional metal d
 | Band | Iron Maiden |
 | Genre | Heavy Metal / NWOBHM |
 | Country | UK |
-| Primary brand | Sonor |
-| Drum kit | Sonor SQ2 Series |
+| Primary brand | British |
+| Drum kit | British Drum Co. |
 | Signature snare | Sonor Nicko McBrain Signature 14x6.5" |
 | Sticks | Vic Firth Nicko McBrain Signature |
 
 ## Kit Overview
 
-Nicko McBrain plays a Sonor SQ2 Series drum kit — the premium German-engineered setup he has refined into one of heavy metal's most recognizable drum sets, powering Iron Maiden's galloping rhythms through four decades of arena touring. The cornerstone of the Nicko McBrain drum set is his Sonor Nicko McBrain Signature snare (14×6.5"), delivering the warm, authoritative crack that drives Iron Maiden's twin-guitar arrangements with the presence needed for the band's massive live productions.
+Nicko McBrain plays a British Drum Co. kit — the setup he has refined into one of heavy metal's most recognizable drum sets, powering Iron Maiden's galloping rhythms through four decades of arena touring. The cornerstone of the Nicko McBrain drum set is his Sonor Nicko McBrain Signature snare (14×6.5"), delivering the warm, authoritative crack that drives Iron Maiden's twin-guitar arrangements with the presence needed for the band's massive live productions.
 
-Paiste 2002 and Signature Series cymbals define the tonal character of the Nicko McBrain drum kit: 14" Sound Edge Hi-Hats for the precisely articulated patterns central to Iron Maiden's gallop rhythm; 16" and 18" Power Crashes for explosive accents; a 22" Power Ride for rhythmic clarity across marathon live sets; and a 20" China for aggressive punctuation on section transitions. Vic Firth Nicko McBrain Signature sticks and Remo Emperor drumheads complete the rig. What defines the Nicko McBrain drum set above all else is its single bass drum pedal — no double bass, no second kick drum. His legendary single-pedal technique, proven on landmark albums including [Piece of Mind (1983)](/articles/piece-of-mind-drum-setup), [Powerslave (1984)](/articles/powerslave-drum-setup), and [Somewhere in Time (1986)](/articles/somewhere-in-time-drum-setup), achieves the galloping power most metal drummers require double-bass setups to match.
+Paiste 2002 and Signature Series cymbals define the tonal character of the Nicko McBrain drum kit: 14" Sound Edge Hi-Hats for the precisely articulated patterns central to Iron Maiden's gallop rhythm; 16" and 18" Power Crashes for explosive accents; a 22" Power Ride for rhythmic clarity across marathon live sets; and a 20" China for aggressive punctuation on section transitions. Vic Firth Nicko McBrain Signature sticks and Remo Emperor drumheads complete the rig. What defines the Nicko McBrain drum set above all else is its single bass drum pedal — no double bass, no second kick drum. His legendary single-pedal technique, proven on landmark albums including Piece of Mind (1983), Powerslave (1984), and Somewhere in Time (1986), achieves the galloping power most metal drummers require double-bass setups to match.
 
 ## Biography
 
@@ -46,7 +46,7 @@ McBrain is renowned for his powerful single bass drum technique, incredible stam
 
 ## Gear
 
-- **Drums:** Sonor SQ2 Series
+- **Drums:** British Drum Co.
 - **Snare:** Sonor Nicko McBrain Signature 14x6.5"
 - **Cymbals:** Paiste 2002 & Signature Series (14" Sound Edge Hi-Hats, 16" & 18" Power Crashes, 22" Power Ride, 20" China)
 - **Hardware:** Sonor 600 Series Hardware, Single Bass Drum Pedal
@@ -69,15 +69,15 @@ A: Nicko McBrain has been the drummer for Iron Maiden since 1982, making him one
 
 **Q: What drums does Nicko McBrain play?**
 
-A: Nicko McBrain plays a Sonor SQ2 Series drum kit.
+A: Nicko McBrain plays a British Drum Co. kit.
 
 **Q: What drum kit does Nicko McBrain play?**
 
-A: Nicko McBrain's drum kit is a Sonor SQ2 Series shell pack, anchored by his Sonor Nicko McBrain Signature 14"x6.5" snare and Remo Emperor drumheads for maximum resonance.
+A: Nicko McBrain's drum kit is British Drum Co., anchored by his Sonor Nicko McBrain Signature 14"x6.5" snare and Remo Emperor drumheads for maximum resonance.
 
 **Q: What drum set does Nicko McBrain play?**
 
-A: Nicko McBrain's drum set pairs Sonor SQ2 shells and his signature 14"x6.5" snare with Paiste 2002 and Signature Series cymbals, driven by a single bass drum pedal in keeping with his famous single-foot technique.
+A: Nicko McBrain's drum set pairs British Drum Co. shells and his signature 14"x6.5" snare with Paiste 2002 and Signature Series cymbals, driven by a single bass drum pedal in keeping with his famous single-foot technique.
 
 **Q: What cymbals does Nicko McBrain use?**
 
@@ -101,7 +101,7 @@ A: Nicko McBrain plays his own signature Vic Firth Nicko McBrain drumsticks.
 
 **Q: What drumheads does Nicko McBrain use?**
 
-A: Nicko McBrain uses Remo Emperor drumheads across his Sonor SQ2 Series drum kit and drum set.
+A: Nicko McBrain uses Remo Emperor drumheads across his British Drum Co. kit and drum set.
 
 ## Quotes
 
@@ -158,4 +158,4 @@ Full breakdown: [Nicko McBrain's pedal setup](https://metalforge.io/pedals/setup
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-08-01 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-07 · Source: [MetalForge.io](https://metalforge.io)*

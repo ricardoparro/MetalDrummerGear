@@ -6,7 +6,7 @@ country: "Cuba/USA"
 primary_brand: "Tama"
 profile_url: "https://metalforge.io/drummer/dave-lombardo"
 source: "https://metalforge.io"
-last_updated: "2026-08-01"
+last_updated: "2026-09-07"
 ---
 
 # Dave Lombardo — Drum Kit & Gear Setup
@@ -103,6 +103,10 @@ A: Dave Lombardo uses Paiste RUDE and 2002 series cymbals, including 15" Sound E
 
 A: Dave Lombardo plays a Tama S.L.P. 14"x6.5" G-Maple snare drum, paired with Promark Dave Lombardo Signature 2Bx sticks designed for the power and speed his double bass style demands.
 
+**Q: What is Dave Lombardo's drum setup?**
+
+A: Dave Lombardo's drum setup is built on Tama Starclassic Walnut/Birch shells, anchored by a Tama S.L.P. 14"x6.5" G-Maple snare drum, with Paiste RUDE and 2002 series cymbals — including 15" Sound Edge hi-hats and the signature Paiste Reign Power Ride — powered by a Tama Iron Cobra 900 double pedal.
+
 ## Quotes
 
 > "Speed is nothing without control. You have to be able to play fast and tight at the same time."
@@ -166,4 +170,4 @@ Full breakdown: [Dave Lombardo's pedal setup](https://metalforge.io/pedals/setup
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-08-01 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-07 · Source: [MetalForge.io](https://metalforge.io)*

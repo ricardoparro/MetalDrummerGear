@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/joey-jordison"
 source: "https://metalforge.io"
-last_updated: "2026-08-01"
+last_updated: "2026-09-07"
 ---
 
 # Joey Jordison — Drum Kit & Gear Setup
@@ -93,11 +93,11 @@ A: Joey Jordison's drum kit during his peak Slipknot era was a Pearl Masters Pre
 
 **Q: What cymbals did Joey Jordison use?**
 
-A: Joey Jordison used Sabian HHX Evolution 14" hi-hats, Sabian AAX Stage crashes (16" and 18"), and a Sabian AAX Stage 21" ride cymbal. During the Iowa era he also employed Paiste RUDE and 2002 series cymbals known for their aggressive cut and extreme durability.
+A: Joey Jordison used Paiste RUDE and 2002 series cymbals — 14" hi-hats, 18" & 19" crashes, 20" & 22" Chinas, and a 22" Power Ride — prized for their aggressive cut and extreme durability during Slipknot's most demanding live shows.
 
 **Q: What bass drum pedals did Joey Jordison use?**
 
-A: Joey Jordison used Axis A Longboard double bass drum pedals. The long footboard design gave him the leverage and speed required for his extreme double kick patterns and the blast beats he performed live on Slipknot's rotating drum riser.
+A: Joey Jordison used a Pearl Demon Drive double bass drum pedal, giving him the speed and durability required for his extreme double kick patterns and the blast beats he performed live on Slipknot's rotating drum riser.
 
 ## Quotes
 
@@ -163,4 +163,4 @@ Full breakdown: [Joey Jordison's pedal setup](https://metalforge.io/pedals/setup
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-08-01 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-07 · Source: [MetalForge.io](https://metalforge.io)*

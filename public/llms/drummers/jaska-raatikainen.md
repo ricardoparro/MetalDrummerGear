@@ -6,7 +6,7 @@ country: "Finland"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/jaska-raatikainen"
 source: "https://metalforge.io"
-last_updated: "2026-08-01"
+last_updated: "2026-09-07"
 ---
 
 # Jaska Raatikainen — Drum Kit & Gear Setup
@@ -26,6 +26,12 @@ Jaska Raatikainen's drum kit and gear setup. Jaska Raatikainen is a professional
 | Signature snare | Pearl Masters 14x5.5" Maple |
 | Sticks | Vic Firth American Classic 5A |
 
+## Kit Overview
+
+Jaska Raatikainen plays a Pearl Masters Premium Maple drum kit — the large-format, double-bass configuration he developed across Children of Bodom's catalog from their 1997 debut Something Wild through their 2019 farewell Hexed. As Children of Bodom's co-founder and sole drummer for 26 years, Raatikainen anchored the Finnish band's signature blend of neoclassical melodies and melodic death metal with precision double bass work and driving blast beats.
+
+The Jaska Raatikainen drum set centers on a Pearl Masters 14×5.5" Maple snare — a warm, articulate shell that projects clearly beneath Alexi Laiho's dense guitar and keyboard arrangements. A Pearl Eliminator double pedal powers Raatikainen's precise, fluid bass drum patterns — the direct-drive mechanism essential for the rapid double bass volleys Children of Bodom made a genre cornerstone. Zildjian A Custom and K Custom Series cymbals round out the rig: 14" A Custom Hi-Hats for a bright, cutting chick; 17" and 18" A Custom Crashes for fast-attack accents; and a 20" K Custom Ride for dark, controlled rhythmic work. Vic Firth American Classic 5A sticks and Remo drumheads complete Raatikainen's kit — a setup built for the precision melodic death metal demands.
+
 ## Biography
 
 Jaska Raatikainen (born July 18, 1979) was the drummer and co-founder of Finnish melodic death metal band Children of Bodom, formed in 1993. Alongside the late Alexi Laiho, Raatikainen helped create the band's signature sound that blended neoclassical melodies with aggressive death metal.
@@ -33,12 +39,6 @@ Jaska Raatikainen (born July 18, 1979) was the drummer and co-founder of Finnish
 Jaska Raatikainen (born July 18, 1979, in Espoo, Finland) was the drummer and co-founder of Finnish melodic death metal band Children of Bodom, formed in 1993 (originally as Inearthed). Alongside the late Alexi Laiho (1979-2020), Raatikainen helped create the band's signature sound that blended neoclassical melodies with aggressive death metal.
 
 Children of Bodom became one of Finland's most successful metal exports, selling over 2 million albums worldwide. Raatikainen's drumming combined blast beats, complex double bass patterns, and progressive elements that complemented Laiho's virtuosic guitar work. The band announced their dissolution in 2019 after 26 years together. Following Alexi Laiho's tragic death in December 2020, Children of Bodom's legacy became permanently sealed in metal history.
-
-## Kit Overview
-
-Jaska Raatikainen plays a Pearl Masters Premium Maple drum kit — the large-format, double-bass configuration he developed across Children of Bodom's catalog from their 1997 debut Something Wild through their 2019 farewell Hexed. As Children of Bodom's co-founder and sole drummer for 26 years, Raatikainen anchored the Finnish band's signature blend of neoclassical melodies and melodic death metal with precision double bass work and driving blast beats.
-
-The Jaska Raatikainen drum set centers on a Pearl Masters 14×5.5" Maple snare — a warm, articulate shell that projects clearly beneath Alexi Laiho's dense guitar and keyboard arrangements. A Pearl Eliminator double pedal powers Raatikainen's precise, fluid bass drum patterns — the direct-drive mechanism essential for the rapid double bass volleys Children of Bodom made a genre cornerstone. Zildjian A Custom and K Custom Series cymbals round out the rig: 14" A Custom Hi-Hats for a bright, cutting chick; 17" and 18" A Custom Crashes for fast-attack accents; and a 20" K Custom Ride for dark, controlled rhythmic work. Vic Firth American Classic 5A sticks and Remo drumheads complete Raatikainen's kit — a setup built for the precision melodic death metal demands.
 
 ## Band History
 
@@ -148,4 +148,4 @@ Full breakdown: [Jaska Raatikainen's pedal setup](https://metalforge.io/pedals/s
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-08-01 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-07 · Source: [MetalForge.io](https://metalforge.io)*

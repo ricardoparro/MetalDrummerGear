@@ -6,7 +6,7 @@ country: "Brazil"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/aquiles-priester"
 source: "https://metalforge.io"
-last_updated: "2026-08-01"
+last_updated: "2026-09-07"
 ---
 
 # Aquiles Priester — Drum Kit & Gear Setup
@@ -33,7 +33,7 @@ Aquiles Priester plays a Pearl Reference Series drum kit — a dense, multi-ply 
 
 Sabian HHX and AAX Series cymbals shape the sound of the Aquiles Priester drum kit: 14" HHX Evolution Hi-Hats for crisp, controlled chops at his characteristically breakneck tempos; 18" and 19" HHX X-Plosion Crashes for explosive accents; a 21" HHX Groove Ride for definition through extended double-bass sections; and an 18" AAX Chinese cymbal for sharp punctuation. A Pearl Demon Drive double pedal, mounted on Pearl's Icon Rack System, delivers the sustained, high-speed double-bass patterns that have made Priester one of the most celebrated technical drummers to emerge from Brazil's metal scene.
 
-His own signature Vic Firth Aquiles Priester sticks, paired with Evans heads, complete the Aquiles Priester drum set — a setup that has carried him through his work with Angra, W.A.S.P., and his own project, Hangar.
+His Promark TX419W Aquiles Priester Autograph sticks, paired with Evans heads, complete the Aquiles Priester drum set — a setup that has carried him through his work with Angra, W.A.S.P., and his own project, Hangar.
 
 ## Biography
 
@@ -67,43 +67,43 @@ Priester is considered one of the greatest power metal drummers in the world. Hi
 
 **Q: What drum kit does Aquiles Priester use?**
 
-A: Aquiles Priester's drum kit is a Pearl Reference Series kit, a dense, multi-ply shell pack chosen for powerful low end and quick rebound. It centers on a Pearl Reference 14"x6.5" brass snare and is topped with Sabian HHX and AAX cymbals, driven by a Pearl Demon Drive double pedal mounted on Pearl's Icon Rack System.
+A: Aquiles Priester's drum kit is the Mapex Saturn Evolution All Maple — his own signature kit, and the first Brazilian-drummer signature kit released by a global drum brand. It is topped with Paiste cymbals (a custom red-coated set) and driven by a DW 9000 Series double pedal.
 
 **Q: What drum set does Aquiles Priester use?**
 
-A: Aquiles Priester's drum set is a Pearl Reference Series configuration built around a bright, cutting Pearl Reference 14"x6.5" brass snare. The drum set carries Sabian HHX and AAX Series cymbals, a Pearl Demon Drive double pedal, and his signature Promark TX419W sticks.
+A: Aquiles Priester's drum set is his Mapex Saturn Evolution All Maple signature kit. The drum set carries a custom red-coated Paiste cymbal setup, a DW 9000 Series double pedal, and his signature ProMark sticks.
 
 **Q: What cymbals does Aquiles Priester use?**
 
-A: Aquiles Priester uses Sabian HHX and AAX Series cymbals: 14" HHX Evolution Hi-Hats, 18" and 19" HHX X-Plosion Crashes, a 21" HHX Groove Ride, and an 18" AAX Chinese cymbal.
+A: Aquiles Priester uses Paiste cymbals, playing a custom red-coated set that includes his 18" Psychoctopus Giga Bell Ride.
 
 **Q: What hi-hats does Aquiles Priester use?**
 
-A: Aquiles Priester plays 14" Sabian HHX Evolution Hi-Hats, delivering the bright, articulate chick sound that keeps pace with his rapid single- and double-stroke fills.
+A: Aquiles Priester plays Paiste hi-hats from his custom red-coated set, delivering the bright, articulate chick sound that keeps pace with his rapid single- and double-stroke fills.
 
 **Q: What snare drum does Aquiles Priester play?**
 
-A: Aquiles Priester plays a Pearl Reference 14"x6.5" brass snare, prized for a bright, cutting crack that keeps his rapid single- and double-stroke fills audible through dense progressive power metal arrangements.
+A: Aquiles Priester plays the snare from his Mapex Saturn Evolution All Maple signature kit, prized for a bright, cutting crack that keeps his rapid single- and double-stroke fills audible through dense progressive power metal arrangements.
 
 **Q: What bass drum pedals does Aquiles Priester use?**
 
-A: Aquiles Priester uses a Pearl Demon Drive double bass drum pedal, mounted on Pearl's Icon Rack System, delivering the sustained, high-speed double-bass patterns his playing is known for.
+A: Aquiles Priester uses a DW 9000 Series double bass drum pedal, mounted alongside a DW 9000 Series hi-hat stand and Gibraltar racks, delivering the sustained, high-speed double-bass patterns his playing is known for.
 
 **Q: What band is Aquiles Priester in?**
 
-A: Aquiles Priester is best known for his work with Angra (2000-2012, 2023-present) and W.A.S.P. (2014-2021), along with his own project Hangar.
+A: Aquiles Priester is best known for his work with Angra (2000-2012, 2023-present) and W.A.S.P. (2006-present), along with his own project Hangar.
 
 **Q: What drumsticks does Aquiles Priester use?**
 
-A: Aquiles Priester uses his signature Promark TX419W Aquiles Priester Autograph drumsticks.
+A: Aquiles Priester uses his own ProMark Aquiles Priester Signature drumsticks.
 
 **Q: What drumheads does Aquiles Priester use?**
 
-A: Aquiles Priester uses Evans drumheads across his Pearl Reference Series kit.
+A: Aquiles Priester uses Evans drumheads across his Mapex Saturn Evolution All Maple kit.
 
 **Q: What hardware does Aquiles Priester use?**
 
-A: Aquiles Priester mounts his Pearl Demon Drive double pedal on Pearl's Icon Rack System, supporting his Pearl Reference Series drum kit and drum set on world tours.
+A: Aquiles Priester mounts his DW 9000 Series double pedal and DW 9000 Series hi-hat stand on Gibraltar racks, supporting his Mapex Saturn Evolution kit on world tours.
 
 ## Quotes
 
@@ -127,19 +127,15 @@ Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
 ## Snare
 
-Aquiles Priester's snare: Pearl Reference 14x6.5" Brass. See the [snares guide](https://metalforge.io/snares) for shell, size, and tuning background.
+Aquiles Priester's snare: Mapex Saturn Evolution All Maple 14x6.5" (signature kit). See the [snares guide](https://metalforge.io/snares) for shell, size, and tuning background.
 
 ## Cymbal Setup
 
-Aquiles Priester's cymbals: Sabian HHX & AAX Series (14" HHX Evolution Hi-Hats, 18" & 19" HHX X-Plosion Crashes, 21" HHX Groove Ride, 18" AAX Chinese).
+Aquiles Priester's cymbals: Paiste Custom red-coated set (18" Psychoctopus Giga Bell Ride).
 
 | Piece | Size | Series | Model |
 |---|---|---|---|
-| hi-hat | 14" | HHX | Evolution Hi-Hats |
-| crash | 18" | HHX | X-Plosion Crash |
-| crash | 19" | HHX | X-Plosion Crash |
-| ride | 21" | HHX | Groove Ride |
-| china | 18" | AAX | Chinese |
+| ride | 18" | Custom | Psychoctopus Giga Bell Ride |
 
 Full breakdown: [Aquiles Priester's cymbal setup](https://metalforge.io/cymbals/setups/aquiles-priester).
 
@@ -159,4 +155,4 @@ Full breakdown: [Aquiles Priester's pedal setup](https://metalforge.io/pedals/se
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-08-01 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-07 · Source: [MetalForge.io](https://metalforge.io)*

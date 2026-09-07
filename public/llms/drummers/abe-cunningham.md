@@ -3,10 +3,10 @@ name: "Abe Cunningham"
 band: "Deftones"
 genre: "Alternative Metal / Nu Metal"
 country: "USA"
-primary_brand: "SJC"
+primary_brand: "Tama"
 profile_url: "https://metalforge.io/drummer/abe-cunningham"
 source: "https://metalforge.io"
-last_updated: "2026-08-01"
+last_updated: "2026-09-07"
 ---
 
 # Abe Cunningham — Drum Kit & Gear Setup
@@ -21,10 +21,16 @@ Abe Cunningham's drum kit and gear setup. Abe Cunningham is a professional metal
 | Band | Deftones |
 | Genre | Alternative Metal / Nu Metal |
 | Country | USA |
-| Primary brand | SJC |
-| Drum kit | SJC Custom Drums |
-| Signature snare | SJC Custom 14x6.5" Brass |
-| Sticks | Vic Firth American Classic 2B |
+| Primary brand | Tama |
+| Drum kit | Tama Starclassic Bubinga (Egyptian Night Mist) |
+| Signature snare | Tama Starclassic matching snare (no separate model documented) |
+| Sticks | Pro-Mark |
+
+## Kit Overview
+
+Abe Cunningham plays a Tama Starclassic Bubinga drum kit in the Egyptian Night Mist finish, with Zildjian K Custom and A Custom cymbals — the setup that has anchored the Deftones' atmospheric alt-metal sound across the Koi No Yokan, Gore, and Ohms era. The snare matches the Starclassic Bubinga shell pack; Tama does not publicly document a separate snare model for his current rig. A Tama Iron Cobra Power Glide Twin Pedal (HP900PTW) and Iron Cobra Lever Glide Hi-Hat (HH905) anchor the drum set.
+
+Zildjian cymbals define the Abe Cunningham drum kit's sonic character: 14" K Custom Hi-Hats for a dark, nuanced chick suited to Deftones' atmospheric passages; 18" and 20" K Custom Crashes for the dynamic, full-bodied accents that shift between crushing and delicate; a 22" K Custom Ride for dark, controlled rhythmic definition; and a 19" A Custom China for aggressive punctuation on the most intense sections. Pro-Mark sticks and Remo drumheads complete the rig. For the full gear breakdown, see the [White Pony drum setup](/articles/white-pony-drum-setup).
 
 ## Biography
 
@@ -34,24 +40,18 @@ Abraham "Abe" Cunningham (born July 27, 1973, in Sacramento, California) is an A
 
 Cunningham's playing is characterized by creative, unconventional patterns that serve the song's emotional arc rather than technical showmanship. His ability to seamlessly transition between crushing heaviness and ethereal delicacy has made him one of the most distinctive and influential drummers in alternative metal.
 
-## Kit Overview
-
-Abe Cunningham plays an SJC Custom drum kit with Zildjian K Custom and A Custom cymbals — the bespoke drum set configuration that has anchored the Deftones' atmospheric alt-metal sound across their peak commercial era on White Pony, Diamond Eyes, and Koi No Yokan. The centerpiece of the Abe Cunningham drum kit is an SJC Custom 14×6.5" Brass snare, chosen for the warm, cutting crack that projects through Deftones' layered guitar textures without overwhelming the band's dynamic range. A DW 9000 Series Double Pedal and DW hardware anchor the drum set.
-
-Zildjian cymbals define the Abe Cunningham drum kit's sonic character: 14" K Custom Hi-Hats for a dark, nuanced chick suited to Deftones' atmospheric passages; 18" and 20" K Custom Crashes for the dynamic, full-bodied accents that shift between crushing and delicate; a 22" K Custom Ride for dark, controlled rhythmic definition; and a 19" A Custom China for aggressive punctuation on the most intense sections. Vic Firth American Classic 2B sticks and Remo drumheads complete the rig. For the full gear breakdown, see the [White Pony drum setup](/articles/white-pony-drum-setup).
-
 ## Band History
 
 - **Deftones** — 1988–present (current)
 
 ## Gear
 
-- **Drums:** SJC Custom Drums
-- **Snare:** SJC Custom 14x6.5" Brass
+- **Drums:** Tama Starclassic Bubinga (Egyptian Night Mist)
+- **Snare:** Tama Starclassic matching snare (no separate model documented)
 - **Cymbals:** Zildjian K Custom & A Custom Series (14" K Custom Hi-Hats, 18" & 20" K Custom Crashes, 22" K Custom Ride, 19" A Custom China)
-- **Hardware:** DW 9000 Series Double Pedal, DW Hardware
-- **Sticks:** Vic Firth American Classic 2B
-- **Heads:** Remo
+- **Hardware:** Tama Iron Cobra Power Glide Twin Pedal (HP900PTW), Iron Cobra Lever Glide Hi-Hat (HH905)
+- **Sticks:** Pro-Mark
+- **Heads:** Remo (Powerstroke P3, Pinstripe, Ambassador)
 
 ## Notable Performances
 
@@ -63,11 +63,11 @@ Zildjian cymbals define the Abe Cunningham drum kit's sonic character: 14" K Cus
 
 **Q: What drum kit does Abe Cunningham use?**
 
-A: Abe Cunningham plays an SJC Custom drum kit with Zildjian K Custom and A Custom cymbals — the bespoke setup that has anchored Deftones' atmospheric alt-metal sound across White Pony, Diamond Eyes, and Koi No Yokan. The centerpiece is an SJC Custom 14"x6.5" Brass snare, chosen for the warm, cutting crack that projects through Deftones' layered guitar textures.
+A: Abe Cunningham plays a Tama Starclassic Bubinga drum kit (Egyptian Night Mist finish) with Zildjian K Custom and A Custom cymbals — the setup that has anchored Deftones' atmospheric alt-metal sound through the Koi No Yokan, Gore, and Ohms era. The snare matches the Starclassic Bubinga shell pack; no separate snare model is publicly documented.
 
 **Q: What drum set does Abe Cunningham use?**
 
-A: Abe Cunningham's drum set pairs SJC Custom shells and his 14"x6.5" Brass snare with a DW 9000 Series double pedal and DW hardware, giving him the dynamic range to shift between crushing heaviness and delicate atmosphere within the same song.
+A: Abe Cunningham's drum set pairs a Tama Starclassic Bubinga shell pack with a matching Tama Starclassic snare, a Tama Iron Cobra Power Glide Twin Pedal (HP900PTW), and Iron Cobra Lever Glide Hi-Hat (HH905), giving him the dynamic range to shift between crushing heaviness and delicate atmosphere within the same song.
 
 **Q: What cymbals does Abe Cunningham play?**
 
@@ -75,19 +75,19 @@ A: Abe Cunningham plays Zildjian cymbals: 14" K Custom Hi-Hats, 18" and 20" K Cu
 
 **Q: What snare does Abe Cunningham use?**
 
-A: Abe Cunningham's snare is an SJC Custom 14"x6.5" Brass shell, giving him a warm, cutting crack that sits well within Deftones' dense guitar mix.
+A: Abe Cunningham's snare matches his Tama Starclassic Bubinga shell pack; no separate snare model is publicly documented.
 
 **Q: What sticks does Abe Cunningham use?**
 
-A: Abe Cunningham uses Vic Firth American Classic 2B drumsticks.
+A: Abe Cunningham uses Pro-Mark drumsticks.
 
 **Q: What bass drum pedal does Abe Cunningham use?**
 
-A: Abe Cunningham uses a DW 9000 Series double pedal mounted on DW hardware.
+A: Abe Cunningham uses a Tama Iron Cobra Power Glide Twin Pedal (HP900PTW) mounted with a Tama Iron Cobra Lever Glide Hi-Hat (HH905).
 
 **Q: What drumheads does Abe Cunningham use?**
 
-A: Abe Cunningham uses Remo drumheads.
+A: Abe Cunningham uses Remo drumheads (Powerstroke P3, Pinstripe, and Ambassador).
 
 **Q: What band is Abe Cunningham in?**
 
@@ -122,7 +122,7 @@ Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
 ## Snare
 
-Abe Cunningham's snare: SJC Custom 14x6.5" Brass. See the [snares guide](https://metalforge.io/snares) for shell, size, and tuning background.
+Abe Cunningham's snare: Tama Starclassic Maple/Bubinga 14x6.5". See the [snares guide](https://metalforge.io/snares) for shell, size, and tuning background.
 
 ## Cymbal Setup
 
@@ -155,4 +155,4 @@ Full breakdown: [Abe Cunningham's pedal setup](https://metalforge.io/pedals/setu
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-08-01 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-07 · Source: [MetalForge.io](https://metalforge.io)*

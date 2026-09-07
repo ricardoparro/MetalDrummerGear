@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Mapex"
 profile_url: "https://metalforge.io/drummer/chris-adler"
 source: "https://metalforge.io"
-last_updated: "2026-08-01"
+last_updated: "2026-09-07"
 ---
 
 # Chris Adler — Drum Kit & Gear Setup
@@ -29,9 +29,9 @@ Chris Adler's drum kit and gear setup. Chris Adler is a professional metal drumm
 
 ## Kit Overview
 
-Chris Adler plays a Mapex Black Panther Design Lab drum kit — the precision-engineered configuration that powered Lamb of God's rise from underground metal to one of the most successful American metal bands of the 21st century. The Mapex Black Panther's dry, focused tone delivers the cutting attack central to Adler's groove-driven patterns on [Ashes of the Wake](/articles/ashes-of-the-wake-drum-setup), [Sacrament](/articles/sacrament-drum-setup), and [Wrath](/articles/wrath-drum-setup) — albums that defined the New Wave of American Heavy Metal.
+Chris Adler plays a Mapex Black Panther Design Lab drum kit — the precision-engineered configuration that powered Lamb of God's rise from underground metal to one of the most successful American metal bands of the 21st century. The Mapex Black Panther's dry, focused tone delivers the cutting attack central to Adler's groove-driven patterns on Ashes of the Wake, Sacrament, and Wrath — albums that defined the New Wave of American Heavy Metal.
 
-The cornerstone of the Chris Adler drum set is his Mapex Chris Adler Signature 14×5.5" Walnut/Maple snare — a shallow, articulate shell that punches through dense guitar walls with the precise crack essential for Lamb of God's syncopated riff-locking grooves. Meinl Byzance Series cymbals complete the drum kit: 14" Dark Hi-Hats for dry, controlled articulation; 18" and 19" Dark Crashes for explosive accent bursts; a 21" Transition Ride for clear rhythmic articulation; and an 18" Extra Dry China for raw, cutting punctuation. A Mapex Falcon double pedal and Promark TX5AXW Chris Adler Signature sticks complete this drum set defined by precision groove and Grammy-winning power. For the full gear breakdown, see the [Chris Adler complete kit guide](/articles/whats-in-chris-adlers-kit).
+The cornerstone of the Chris Adler drum set is his Mapex Chris Adler Signature 14×5.5" Walnut/Maple snare — a shallow, articulate shell that punches through dense guitar walls with the precise crack essential for Lamb of God's syncopated riff-locking grooves. Meinl Byzance Series cymbals complete the drum kit: 14" Dark Hi-Hats for dry, controlled articulation; 18" and 19" Dark Crashes for explosive accent bursts; a 21" Transition Ride for clear rhythmic articulation; and an 18" Extra Dry China for raw, cutting punctuation. A Mapex Falcon double pedal and Promark TX5AXW Chris Adler Signature sticks complete this drum set defined by precision groove and Grammy-winning power.
 
 ## Biography
 
@@ -142,4 +142,4 @@ Full breakdown: [Chris Adler's pedal setup](https://metalforge.io/pedals/setups/
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-08-01 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-07 · Source: [MetalForge.io](https://metalforge.io)*

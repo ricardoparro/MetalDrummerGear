@@ -3,10 +3,10 @@ name: "Matt Garstka"
 band: "Animals as Leaders"
 genre: "Progressive Metal / Djent"
 country: "USA"
-primary_brand: "Tama"
+primary_brand: "DW"
 profile_url: "https://metalforge.io/drummer/matt-garstka"
 source: "https://metalforge.io"
-last_updated: "2026-08-01"
+last_updated: "2026-09-07"
 ---
 
 # Matt Garstka — Drum Kit & Gear Setup
@@ -21,10 +21,16 @@ Matt Garstka's drum kit and gear setup. Matt Garstka is a professional metal dru
 | Band | Animals as Leaders |
 | Genre | Progressive Metal / Djent |
 | Country | USA |
-| Primary brand | Tama |
-| Drum kit | Tama Starclassic Walnut/Birch |
-| Signature snare | Tama S.L.P. 14x6" G-Maple |
+| Primary brand | DW |
+| Drum kit | DW Collector's Series |
+| Signature snare | DW Collector's Series Purpleheart |
 | Sticks | Vic Firth Matt Garstka Signature |
+
+## Kit Overview
+
+Matt Garstka's drum kit is a DW Collector's Series custom shop build — mixing Collector's Series wood species and shell configurations — which he switched to in September 2021 after playing Tama for Animals as Leaders' first two albums. The Matt Garstka drum set centers on a DW Collector's Series Purpleheart snare, delivering the articulate crack that cuts through dense odd-meter passages.
+
+Meinl Byzance Series cymbals complete the Matt Garstka drum kit: 15" Dual Hi-Hats for nuanced, washy articulation; 18" and 20" Extra Dry Medium Crashes for quick-decaying accents; and a 22" Dual Ride for complex rhythmic definition. A Tama Speed Cobra 910 double pedal drives the intricate, ghost-note-laced double bass patterns central to Garstka's linear independence, while Vic Firth Matt Garstka Signature sticks and Evans heads complete a drum set built for the technical demands of instrumental progressive metal. For the full gear breakdown, see [what's in Matt Garstka's kit](/articles/whats-in-matt-garstkas-kit), the [Mike Mangini vs. Matt Garstka technique comparison](/vs/mike-mangini-vs-matt-garstka), and the [complete cymbal setup](/drummer/matt-garstka/cymbals).
 
 ## Biography
 
@@ -34,20 +40,14 @@ Matt Garstka (born April 27, 1989, in Westfield, Massachusetts) is an American d
 
 Garstka joined Animals as Leaders after the departure of original drummer Navene Koperweis, bringing a jazz-educated sensibility to the band's technical instrumental music. His approach—combining traditional grip, linear independence, and a deep understanding of metric modulation—has made him one of the most influential drummers of his generation. Beyond Animals as Leaders, Garstka is an in-demand educator and session musician.
 
-## Kit Overview
-
-Matt Garstka's drum kit is a Tama Starclassic Walnut/Birch build — the hybrid shell pack he has used as Animals as Leaders' drummer since 2012, chosen for the warm low end and crisp attack his polyrhythmic, jazz-fusion-infused metal requires. The Matt Garstka drum set centers on his Tama S.L.P. 14x6" G-Maple signature snare, delivering the articulate crack that cuts through dense odd-meter passages on The Joy of Motion (2014) and The Madness of Many (2016).
-
-Meinl Byzance Series cymbals complete the Matt Garstka drum kit: 15" Dual Hi-Hats for nuanced, washy articulation; 18" and 20" Extra Dry Medium Crashes for quick-decaying accents; and a 22" Dual Ride for complex rhythmic definition. A Tama Speed Cobra 910 double pedal drives the intricate, ghost-note-laced double bass patterns central to Garstka's linear independence, while Vic Firth Matt Garstka Signature sticks and Evans heads complete a drum set built for the technical demands of instrumental progressive metal. For the full gear breakdown, see [what's in Matt Garstka's kit](/articles/whats-in-matt-garstkas-kit), the [Mike Mangini vs. Matt Garstka technique comparison](/vs/mike-mangini-vs-matt-garstka), and the [complete cymbal setup](/drummer/matt-garstka/cymbals).
-
 ## Band History
 
 - **Animals as Leaders** — 2012–present (current)
 
 ## Gear
 
-- **Drums:** Tama Starclassic Walnut/Birch
-- **Snare:** Tama S.L.P. 14x6" G-Maple
+- **Drums:** DW Collector's Series
+- **Snare:** DW Collector's Series Purpleheart
 - **Cymbals:** Meinl Byzance Series (15" Dual Hi-Hats, 18" & 20" Extra Dry Medium Crashes, 22" Dual Ride)
 - **Hardware:** Tama Speed Cobra 910 Double Pedal
 - **Sticks:** Vic Firth Matt Garstka Signature
@@ -61,11 +61,11 @@ Meinl Byzance Series cymbals complete the Matt Garstka drum kit: 15" Dual Hi-Hat
 
 **Q: What drum kit does Matt Garstka use?**
 
-A: Matt Garstka's drum kit is a Tama Starclassic Walnut/Birch build, the hybrid shell pack he has played as Animals as Leaders' drummer since 2012, chosen for the balance of warm low end and crisp attack his polyrhythmic, jazz-fusion-infused metal requires. It's anchored by his Tama S.L.P. 14"x6" G-Maple signature snare, which cuts through dense odd-meter passages on The Joy of Motion (2014) and The Madness of Many (2016).
+A: Matt Garstka's drum kit is a DW Collector's Series custom shop build, mixing Collector's Series wood species and shell configurations, which he switched to in September 2021 after playing Tama for his first two Animals as Leaders albums. It's anchored by a DW Collector's Series Purpleheart snare, cutting through dense odd-meter passages.
 
 **Q: What drum set does Matt Garstka use?**
 
-A: Matt Garstka's drum set centers on the same Tama Starclassic Walnut/Birch shells and Tama S.L.P. G-Maple signature snare, driven by a Tama Speed Cobra 910 double pedal for the intricate, ghost-note-laced double bass patterns central to his linear independence. Meinl Byzance cymbals and Vic Firth signature sticks round out the setup.
+A: Matt Garstka's drum set centers on a DW Collector's Series custom shop kit and DW Collector's Series Purpleheart snare, driven by a Tama Speed Cobra 910 double pedal for the intricate, ghost-note-laced double bass patterns central to his linear independence. Meinl Byzance cymbals and Vic Firth signature sticks round out the setup.
 
 **Q: What cymbals does Matt Garstka play?**
 
@@ -77,7 +77,7 @@ A: Matt Garstka plays 15" Meinl Byzance Dual Hi-Hats, chosen for the nuanced, wa
 
 **Q: What snare does Matt Garstka use?**
 
-A: Matt Garstka's snare is his Tama S.L.P. 14"x6" G-Maple signature model, delivering the articulate crack that anchors his ghost-note-heavy patterns on Animals as Leaders records.
+A: Matt Garstka's snare is a DW Collector's Series Purpleheart model, part of the DW custom shop kit he switched to in September 2021.
 
 **Q: What sticks does Matt Garstka use?**
 
@@ -89,7 +89,7 @@ A: Matt Garstka drives his double bass patterns with a Tama Speed Cobra 910 doub
 
 **Q: What drumheads does Matt Garstka use?**
 
-A: Matt Garstka uses Evans drumheads across his Tama Starclassic kit.
+A: Matt Garstka uses Evans drumheads across his DW Collector's Series kit.
 
 **Q: What band is Matt Garstka in?**
 
@@ -97,7 +97,7 @@ A: Matt Garstka has been the drummer for instrumental progressive metal band Ani
 
 **Q: What hi-hats does Matt Garstka use?**
 
-A: Matt Garstka uses 15" Meinl Byzance Dual Hi-Hats for nuanced, washy articulation, mounted on his Tama Starclassic Walnut/Birch drum kit and drum set.
+A: Matt Garstka uses 15" Meinl Byzance Dual Hi-Hats for nuanced, washy articulation, mounted on his DW Collector's Series drum kit and drum set.
 
 ## Signature Licks on MetalForge
 
@@ -145,4 +145,4 @@ Full breakdown: [Matt Garstka's pedal setup](https://metalforge.io/pedals/setups
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-08-01 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-07 · Source: [MetalForge.io](https://metalforge.io)*

@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Tama"
 profile_url: "https://metalforge.io/drummer/nick-menza"
 source: "https://metalforge.io"
-last_updated: "2026-08-01"
+last_updated: "2026-09-07"
 ---
 
 # Nick Menza — Drum Kit & Gear Setup
@@ -25,6 +25,14 @@ Nick Menza's drum kit and gear setup. Nick Menza is a professional metal drummer
 | Drum kit | Tama Swingstar |
 | Signature snare | Tama Steel Snare 14x5.5" |
 | Sticks | Vic Firth American Classic 5B |
+
+## Kit Overview
+
+Nick Menza's Rust in Peace-era setup was built around a Tama Swingstar — a mid-range, poplar-shell kit that proved raw speed and precision mattered more than gear prestige on Megadeth's 1990 thrash masterpiece. The Nick Menza drum set centered on a 14x5.5" Tama steel snare for extra brightness and crack against Megadeth's dense guitar arrangements, driven by a DW 5000 double pedal that carried the machine-gun double-kick on "Holy Wars... The Punishment Due" and "Tornado of Souls."
+
+Zildjian A Series cymbals rounded out the kit — 14" A Hi-Hats, 16" and 18" A Crashes, and a 20" A Ride — a standard, versatile setup that delivered the balanced attack Rust in Peace's technical passages required. Vic Firth American Classic 5B sticks and Remo Ambassador heads, with a Powerstroke 3 kick batter for focused low end, completed the rig Menza used from his 1989 arrival through Countdown to Extinction (1992), when he upgraded to a Tama Artstar kit.
+
+Menza's gear evolved further into a Premier Signia endorsement beginning with Youthanasia (1994) and continuing through Cryptic Writings (1997), before his 1998 departure and brief 2004 return to Megadeth. He died on May 21, 2016, collapsing on stage during a performance with jazz-fusion band OHM — a dramatic end to a career that helped define thrash metal drumming.
 
 ## Biography
 
@@ -142,4 +150,4 @@ Full breakdown: [Nick Menza's pedal setup](https://metalforge.io/pedals/setups/n
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-08-01 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-07 · Source: [MetalForge.io](https://metalforge.io)*

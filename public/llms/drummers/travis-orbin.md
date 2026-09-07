@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "SJC"
 profile_url: "https://metalforge.io/drummer/travis-orbin"
 source: "https://metalforge.io"
-last_updated: "2026-08-01"
+last_updated: "2026-09-07"
 ---
 
 # Travis Orbin — Drum Kit & Gear Setup
@@ -37,9 +37,9 @@ Zildjian K Custom Series cymbals shape the Travis Orbin drum set's tone: 14" K C
 
 Travis Orbin (born August 26, 1985) is an American drummer known for his work with Darkest Hour and as the original studio drummer for Periphery. A self-taught drummer from New York, Orbin rose to prominence recording Periphery's groundbreaking self-titled debut album (2010), which helped define the djent movement. His complex polyrhythmic patterns, precise double bass work, and creative use of electronic triggers set a new standard for modern metal drumming. After leaving Periphery, he joined thrash metal band Darkest Hour in 2013. Orbin is also a prolific session musician and runs the "Travis Orbin Drum" YouTube channel where he posts playthroughs of his studio work. His influences include Gene Hoglan, Tomas Haake, and Matt Garstka.
 
-Travis Orbin (born July 5, 1985, in Baltimore, Maryland) is an American drummer best known as the founding drummer of progressive metal band Periphery. His groundbreaking work on Periphery's self-titled debut album and early EPs helped define the "djent" genre and influenced a generation of progressive metal drummers.
+Travis Orbin (born July 5, 1985, in Baltimore, Maryland) is an American drummer who played in progressive metal band Periphery from around 2006 to February 2009, during the band's early, pre-recording years. He left before Periphery wrote or recorded its self-titled debut album, released in 2010 with new drummer Matt Halpern, and does not perform on any Periphery release.
 
-Orbin's technical prowess, creative use of polyrhythms, and ability to navigate complex time signatures made him an instant sensation in the progressive metal community. After leaving Periphery in 2012, he has continued as a session musician, solo artist, and member of bands like Sky Harbor and Darkest Hour, while also producing acclaimed drum playthrough videos and educational content.
+Orbin's technical prowess, creative use of polyrhythms, and ability to navigate complex time signatures have made him a widely studied figure in the progressive metal community independent of any Periphery studio credit. Since leaving Periphery in 2009, he has continued as a session musician, solo artist, and member of bands like Sky Harbor and Darkest Hour, while also producing acclaimed drum playthrough videos and educational content.
 
 ## Band History
 
@@ -64,7 +64,7 @@ Orbin's technical prowess, creative use of polyrhythms, and ability to navigate 
 
 **Q: What drum kit does Travis Orbin use?**
 
-A: Travis Orbin's drum kit is built around SJC Custom Drums, the setup behind his genre-defining work on Periphery's self-titled debut (2010) and the complex, trigger-augmented polyrhythmic playing he's since carried into Darkest Hour and his solo session work.
+A: Travis Orbin's drum kit is built around SJC Custom Drums, the setup behind the complex, trigger-augmented polyrhythmic playing he's carried through Darkest Hour, Sky Harbor, and his solo playthrough and session work.
 
 **Q: What drum set does Travis Orbin use?**
 
@@ -76,7 +76,7 @@ A: Travis Orbin plays Zildjian K Custom Series cymbals: 14" K Custom Dark Hi-Hat
 
 **Q: What snare does Travis Orbin use?**
 
-A: Travis Orbin's snare is an SJC Custom 14"x6.5" Maple, delivering the crisp, controlled crack heard on Periphery's self-titled debut (2010).
+A: Travis Orbin's snare is an SJC Custom 14"x6.5" Maple, delivering the crisp, controlled crack his precise, linear patterns require.
 
 **Q: What sticks does Travis Orbin use?**
 
@@ -92,11 +92,11 @@ A: Travis Orbin uses Evans drumheads across his SJC Custom kit.
 
 **Q: What band is Travis Orbin in?**
 
-A: Travis Orbin was the founding studio drummer for Periphery (2009-2012) and has drummed for Darkest Hour (2013-2015) and Sky Harbor (since 2012).
+A: Travis Orbin played drums in Periphery from 2006 to 2009, before the band's recorded discography began, and has since drummed for Darkest Hour (2013-2015) and Sky Harbor (since 2012).
 
 **Q: What hi-hats does Travis Orbin use?**
 
-A: Travis Orbin plays 14" Zildjian K Custom Dark Hi-Hats, part of the K Custom cymbal setup behind his genre-defining work on Periphery's self-titled debut (2010).
+A: Travis Orbin plays 14" Zildjian K Custom Dark Hi-Hats, part of his K Custom cymbal setup.
 
 ## Signature Licks on MetalForge
 
@@ -146,4 +146,4 @@ Full breakdown: [Travis Orbin's pedal setup](https://metalforge.io/pedals/setups
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-08-01 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-07 · Source: [MetalForge.io](https://metalforge.io)*

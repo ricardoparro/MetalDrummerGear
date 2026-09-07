@@ -6,7 +6,7 @@ country: "Sweden"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/daniel-erlandsson"
 source: "https://metalforge.io"
-last_updated: "2026-08-01"
+last_updated: "2026-09-07"
 ---
 
 # Daniel Erlandsson — Drum Kit & Gear Setup
@@ -89,7 +89,7 @@ A: Daniel Erlandsson uses a Pearl Demon Drive double bass drum pedal, driving hi
 
 **Q: What band is Daniel Erlandsson in?**
 
-A: Daniel Erlandsson is a founding member and drummer of melodic death metal band Arch Enemy, formed in 1995, and also plays with Brujeria.
+A: Daniel Erlandsson is a founding member and drummer of melodic death metal band Arch Enemy, formed in 1995. He previously played with Gothenburg pioneers Eucharist, briefly with In Flames in 1997, and as a live drummer for Carcass in 2007-2008.
 
 **Q: What drumsticks does Daniel Erlandsson use?**
 
@@ -147,4 +147,4 @@ Full breakdown: [Daniel Erlandsson's pedal setup](https://metalforge.io/pedals/s
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-08-01 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-07 · Source: [MetalForge.io](https://metalforge.io)*

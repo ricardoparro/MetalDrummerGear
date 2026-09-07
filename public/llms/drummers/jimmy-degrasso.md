@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/jimmy-degrasso"
 source: "https://metalforge.io"
-last_updated: "2026-08-01"
+last_updated: "2026-09-07"
 ---
 
 # Jimmy DeGrasso — Drum Kit & Gear Setup
@@ -26,6 +26,12 @@ Jimmy DeGrasso's drum kit and gear setup. Jimmy DeGrasso is a professional metal
 | Drum kit | Pearl |
 | Signature snare | Pearl JD1455 Jimmy DeGrasso Signature 14x5.5" Hammered Brass |
 | Sticks | Promark |
+
+## Kit Overview
+
+Jimmy DeGrasso's Megadeth-era rig centered on a Pearl drum kit paired with his own Pearl JD1455 signature snare — a 14x5.5" hammered brass shell with gold-plated hardware that Pearl unveiled at the 2008 NAMM Show, built for the cut and authority loud, amplified thrash metal demands. Sabian cymbals rounded out the setup, a relationship DeGrasso has maintained across his touring career with Megadeth, Alice Cooper, and other hard rock acts.
+
+Promark drumsticks and Evans drumheads completed the rig DeGrasso used through Megadeth's Risk (1999) and The World Needs a Hero (2001) sessions and the Rude Awakening (2002) live recording — his highest-profile tenure after joining the band with only days of notice to learn its full back catalogue.
 
 ## Biography
 
@@ -116,4 +122,4 @@ Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-08-01 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-07 · Source: [MetalForge.io](https://metalforge.io)*

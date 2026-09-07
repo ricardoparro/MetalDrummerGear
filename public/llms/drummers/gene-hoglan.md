@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/gene-hoglan"
 source: "https://metalforge.io"
-last_updated: "2026-08-01"
+last_updated: "2026-09-07"
 ---
 
 # Gene Hoglan — Drum Kit & Gear Setup
@@ -99,7 +99,7 @@ A: Gene Hoglan's drum kit is a Pearl Reference Pure kit in various finishes, cen
 
 **Q: What drum set does Gene Hoglan use?**
 
-A: Gene Hoglan's drum set is Pearl Reference Pure, built around a Pearl Reference 14"x6.5" brass snare drum, Sabian AAX cymbals (15" hi-hats, crashes to 20", and a 22" ride), and a Pearl Demon Drive double pedal. He plays Evans Genera HD or EMAD heads and Promark 5B sticks, keeping the drum set consistent across Death, Testament, and Dethklok.
+A: Gene Hoglan's drum set is Pearl Reference Pure, built around a Pearl Reference 14"x6.5" brass snare drum, Sabian AAX cymbals (15" hi-hats, crashes to 20", and a 22" ride), and a Pearl Demon Drive double pedal. He plays Evans Genera HD or EMAD heads and ProMark Classic Forward 2B sticks, keeping the drum set consistent across Death, Testament, and Dethklok.
 
 **Q: What cymbals does Gene Hoglan use?**
 
@@ -172,4 +172,4 @@ Full breakdown: [Gene Hoglan's pedal setup](https://metalforge.io/pedals/setups/
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-08-01 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-07 · Source: [MetalForge.io](https://metalforge.io)*

@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Tama"
 profile_url: "https://metalforge.io/drummer/ben-koller"
 source: "https://metalforge.io"
-last_updated: "2026-08-01"
+last_updated: "2026-09-07"
 ---
 
 # Ben Koller — Drum Kit & Gear Setup
@@ -27,6 +27,12 @@ Ben Koller's drum kit and gear setup. Ben Koller is a professional metal drummer
 | Signature snare | Tama S.L.P. 14x6" Brass |
 | Sticks | Vic Firth American Classic 5B |
 
+## Kit Overview
+
+Ben Koller plays a Tama Starclassic Maple drum kit — the streamlined, hard-hitting configuration that powers Converge's unrelenting sonic brutality across two decades of hardcore and metalcore recordings. The Ben Koller drum set favors a raw, open approach: a Tama S.L.P. 14×6" Brass snare delivers the sharp, cutting crack that slices through Converge's dense guitar assault on Jane Doe, You Fail Me, and The Dusk in Us. A Tama Iron Cobra 900 double pedal anchors the kit — built for the sustained, blistering tempo Koller maintains through Converge's most demanding live sets.
+
+Zildjian K Dark Series cymbals define the Ben Koller drum sound: 14" K Dark Thin Hi-Hats for a dry, trashy chick that sits low in the mix; 18" and 19" K Dark Medium Thin Crashes for explosive, rapid-decay accents; a 21" K Custom Ride for controlled rhythmic definition; and an 18" K China for brutal, cutting punctuation. Vic Firth American Classic 5B sticks and Remo drumheads complete the rig. Koller's approach prioritizes power and dynamics over trigger-augmented precision — his kit is built for the organic, visceral impact that has defined Converge's sound since 1999.
+
 ## Biography
 
 Ben Koller (born July 29, 1980) is an American drummer known for his work with Converge, Mutoid Man, Killer Be Killed, and All Pigs Must Die. Joining Converge in late 1999, Koller has been central to the band's legendary status, playing on landmark albums like "Jane Doe," "You Fail Me," and "The Dusk in Us." His drumming style combines blistering speed with creative dynamics, drawing from hardcore punk, grindcore, and experimental rock. Beyond Converge, he co-founded the heavy rock band Mutoid Man with Stephen Brodsky of Cave In, and joined the supergroup Killer Be Killed alongside members of Mastodon, The Dillinger Escape Plan, and Soulfly. Koller's versatility and intensity have made him one of the most respected drummers in extreme music.
@@ -34,12 +40,6 @@ Ben Koller (born July 29, 1980) is an American drummer known for his work with C
 Ben Koller (born March 12, 1978) is an American drummer best known for his work with influential metalcore/hardcore band Converge since 1999. He is widely regarded as one of the most important drummers in heavy music, having helped define the sound of modern metalcore and hardcore through his work on landmark albums like "Jane Doe."
 
 Beyond Converge, Koller maintains an impressive roster of projects including Mutoid Man (with Stephen Brodsky of Cave In), All Pigs Must Die, and Killer Be Killed. His relentless energy, creative approach, and ability to shift between genres while maintaining intensity has made him an icon in underground heavy music.
-
-## Kit Overview
-
-Ben Koller plays a Tama Starclassic Maple drum kit — the streamlined, hard-hitting configuration that powers Converge's unrelenting sonic brutality across two decades of hardcore and metalcore recordings. The Ben Koller drum set favors a raw, open approach: a Tama S.L.P. 14×6" Brass snare delivers the sharp, cutting crack that slices through Converge's dense guitar assault on Jane Doe, You Fail Me, and The Dusk in Us. A Tama Iron Cobra 900 double pedal anchors the kit — built for the sustained, blistering tempo Koller maintains through Converge's most demanding live sets.
-
-Zildjian K Dark Series cymbals define the Ben Koller drum sound: 14" K Dark Thin Hi-Hats for a dry, trashy chick that sits low in the mix; 18" and 19" K Dark Medium Thin Crashes for explosive, rapid-decay accents; a 21" K Custom Ride for controlled rhythmic definition; and an 18" K China for brutal, cutting punctuation. Vic Firth American Classic 5B sticks and Remo drumheads complete the rig. Koller's approach prioritizes power and dynamics over trigger-augmented precision — his kit is built for the organic, visceral impact that has defined Converge's sound since 1999.
 
 ## Band History
 
@@ -145,4 +145,4 @@ Full breakdown: [Ben Koller's pedal setup](https://metalforge.io/pedals/setups/b
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-08-01 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-07 · Source: [MetalForge.io](https://metalforge.io)*

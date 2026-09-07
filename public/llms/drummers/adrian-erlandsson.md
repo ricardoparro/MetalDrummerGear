@@ -6,7 +6,7 @@ country: "Sweden"
 primary_brand: "Tama"
 profile_url: "https://metalforge.io/drummer/adrian-erlandsson"
 source: "https://metalforge.io"
-last_updated: "2026-08-01"
+last_updated: "2026-09-07"
 ---
 
 # Adrian Erlandsson — Drum Kit & Gear Setup
@@ -26,6 +26,14 @@ Adrian Erlandsson's drum kit and gear setup. Adrian Erlandsson is a professional
 | Drum kit | Tama Starclassic Bubinga |
 | Signature snare | Tama Starclassic Bubinga 14x6.5" |
 | Sticks | Vic Firth American Classic Rock Nylon Tip (ROCKN) |
+
+## Kit Overview
+
+Adrian Erlandsson's current rig centers on a Tama Starclassic Bubinga kit with twin 22" bass drums — a four-tom, double-kick configuration built out during his 2009–2016 stint with Paradise Lost after a Tama relationship that began when he founded The Haunted and joined Cradle of Filth in the late 1990s. The Adrian Erlandsson drum set anchors on a Tama Starclassic Bubinga 14x6.5" snare, its hardwood shell delivering the body and depth his D-beat-driven melodic death metal foundation demands beneath At the Gates' tremolo-picked guitar melodies.
+
+Sabian's AAX/HHX Series cymbals define the Adrian Erlandsson drum kit's cutting edge: 15" HHX Xcelerator hi-hats driving the relentless eighth-note pulse beneath his signature D-beat, a 20" AAX Iso crash for accent, and a 19" AAX Paragon China marking every riff transition with the aggressive, trashy punctuation that became a genre signature on "Blinded by Fear." A Monolit Czarcie Kopyto double pedal — a boutique Polish pedal — drives the twin-kick foundation, giving Erlandsson the physical independence behind Slaughter of the Soul's full-velocity blast-beat entrances and the dynamically-controlled grooves of the band's reunion-era material.
+
+Erlandsson's gear history began modestly: a budget Pearl Export kit carried At the Gates through the underground, studio-house-kit circumstances of Slaughter of the Soul (1995) at Studio Fredman, a deliberate contrast to the prestige gear he later adopted. Vic Firth Rock Nylon Tip sticks — bearing his own official At the Gates signature model — and Evans EMAD Onyx and EC Reverse Dot heads round out the rig he has carried across At the Gates' full-time 2008 reformation, The Haunted's 2013 return, and his stints with Cradle of Filth and Paradise Lost.
 
 ## Biography
 
@@ -67,7 +75,7 @@ A: Yes. Adrian Erlandsson (At the Gates, The Haunted, Paradise Lost) and Daniel 
 
 **Q: What drum kit does Adrian Erlandsson use now?**
 
-A: Adrian Erlandsson currently plays a Tama Starclassic Bubinga kit with Sabian AAX/HHX cymbals, a Monolit Czarcie Kopyto double pedal, Evans drumheads, and his own Vic Firth Rock Nylon Tip At the Gates signature sticks.
+A: Adrian Erlandsson currently plays a Tama Starclassic Bubinga kit with Sabian AAX/HHX cymbals, a Monolit Czarcie Kopyto double pedal, Evans drumheads, and custom-printed Vic Firth Rock Nylon Tip At the Gates artist-endorsement sticks.
 
 **Q: Did Adrian Erlandsson play in Cradle of Filth?**
 
@@ -136,4 +144,4 @@ Full breakdown: [Adrian Erlandsson's pedal setup](https://metalforge.io/pedals/s
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-08-01 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-07 · Source: [MetalForge.io](https://metalforge.io)*

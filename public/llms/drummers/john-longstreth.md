@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/john-longstreth"
 source: "https://metalforge.io"
-last_updated: "2026-08-01"
+last_updated: "2026-09-07"
 ---
 
 # John Longstreth — Drum Kit & Gear Setup
@@ -25,6 +25,12 @@ John Longstreth's drum kit and gear setup. John Longstreth is a professional met
 | Primary brand | Pearl |
 | Drum kit | Pearl (endorsement confirmed via his own Scorpion Percussion artist bio; specific kit model/shell sizes not independently documented — omitted rather than guessed) |
 | Sticks | Scorpion Percussion "Wee Heavy" Signature Drumsticks |
+
+## Kit Overview
+
+John Longstreth is an endorsed Pearl Drums artist, though Pearl's own artist specification page could not be independently accessed for this profile (it blocks automated requests) — so specific shell sizes and finish are omitted rather than guessed. His documented cymbal setup, per Meinl Cymbals' own artist page, uses the Classics Custom Dark series — an 8" Dark Splash, 14" Dark Hihats, and 18" Dark China — alongside a Generation X 12"/14" Trash Hat for the metallic, choked accents heard across his Origin blast-beat patterns.
+
+He plays Scorpion Percussion's "Wee Heavy" signature drumsticks, and drives his kick pedals with ACD Unlimited hardware paired with FootBlaster triggers — a rig built around sustaining the high-speed, high-endurance blast beats and double-bass patterns that define his reputation as one of death metal's fastest drummers.
 
 ## Biography
 
@@ -60,7 +66,7 @@ Pearl endorsement confirmed via his own Scorpion Percussion artist bio; specific
 
 **Q: What drum kit does John Longstreth play?**
 
-A: John Longstreth is an endorsed Pearl Drums artist. Pearl's artist specification page blocks automated access, so specific shell sizes and finish are not independently documented and are omitted rather than guessed.
+A: John Longstreth plays a Pearl drum kit with Meinl Classics Custom Dark cymbals (8" Dark Splash, 14" Dark Hihat, 18" Dark China), ACD Unlimited pedals with FootBlaster triggers, and Scorpion Percussion 'Wee Heavy' signature sticks — Pearl's own artist specification page blocks automated access, so specific shell sizes and finish aren't independently documented and are omitted rather than guessed.
 
 **Q: What drum set does John Longstreth use with Origin?**
 
@@ -126,4 +132,4 @@ Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-08-01 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-07 · Source: [MetalForge.io](https://metalforge.io)*

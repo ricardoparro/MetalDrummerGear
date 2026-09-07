@@ -88,7 +88,7 @@ From Lars Ulrich's iconic thrash sound, Tama drums have defined the sound of met
     foundedYear: "1946",
     country: "Japan",
     description:
-      "Pearl is one of the world's largest drum manufacturers, known for innovation and quality. Home to Joey Jordison, Vinnie Paul, and countless metal legends.",
+      "Pearl is one of the world's largest drum manufacturers, known for innovation and quality. Home to Joey Jordison and countless metal legends.",
     longDescription: `Pearl Drums has been a cornerstone of the drumming world since 1946. From their headquarters in Japan, Pearl has consistently pushed the boundaries of drum manufacturing, creating instruments that meet the demanding needs of professional metal drummers.
 
 **Why Metal Drummers Choose Pearl:**
@@ -98,7 +98,7 @@ From Lars Ulrich's iconic thrash sound, Tama drums have defined the sound of met
 - **Masterworks Custom** – Fully customizable high-end drums
 
 **Legacy in Metal:**
-Pearl's metal legacy includes some of the genre's most iconic drummers. Joey Jordison's rotating platform filled with Pearl drums became one of metal's most recognizable images. Vinnie Paul's signature Pearl kit defined the sound of groove metal.
+Pearl's metal legacy includes some of the genre's most iconic drummers. Joey Jordison's rotating platform filled with Pearl drums became one of metal's most recognizable images. Vinnie Paul (Pantera) played Pearl from 1996 to 2008 before moving to ddrum.
 
 **Signature Lines:**
 - **Reference Pure** – Pure maple shells for ultimate resonance
@@ -119,15 +119,15 @@ Pearl's metal legacy includes some of the genre's most iconic drummers. Joey Jor
         { year: 1946, event: "Katsumi Yanagisawa founds the company in Tokyo, Japan, initially manufacturing music stands." },
         { year: 1950, event: "Pearl shifts its manufacturing focus into drums." },
         { year: 1966, event: "The President Series becomes Pearl's first professional-grade drum kit." },
-        { year: 1996, event: "Vinnie Paul (Pantera) begins his long-running Pearl endorsement, with Pearl producing his signature snare drums." },
+        { year: 1996, event: "Vinnie Paul (Pantera) signs with Pearl, playing the brand's drums through 2008 before moving to ddrum." },
       ],
-      metalEra: "Vinnie Paul's Pearl kit — and Pearl's production of his signature snare — helped define the sound of groove metal through Pantera's catalog. Joey Jordison's rotating drum riser packed with Pearl Reference drums became one of the most recognizable images in Slipknot's live show, cementing Pearl's place as a metal-standard drum brand.",
+      metalEra: "Vinnie Paul's Pearl kit helped define the sound of groove metal through Pantera's mid-to-late-1990s catalog, though he left Pearl for ddrum in 2008. Joey Jordison's rotating drum riser packed with Pearl Reference drums became one of the most recognizable images in Slipknot's live show, cementing Pearl's place as a metal-standard drum brand.",
       sources: ["https://en.wikipedia.org/wiki/Pearl_Drums"],
     },
     metaTitle: "Pearl Metal Drummers - Who Plays Pearl Drums | MetalForge",
     metaDescription:
-      "Explore which metal drummers play Pearl drums. From Joey Jordison to Vinnie Paul, discover their Pearl setups and signature gear.",
-    keywords: ["pearl drums", "pearl metal drummers", "pearl reference", "joey jordison drums", "vinnie paul drums"],
+      "Explore which metal drummers play Pearl drums, including Joey Jordison, and discover their Pearl setups and signature gear.",
+    keywords: ["pearl drums", "pearl metal drummers", "pearl reference", "joey jordison drums"],
     popularModels: [
       { name: "Reference Series", description: "Premium shells with exceptional clarity and punch", affiliate: "pearl-reference" },
       { name: "Masters Maple", description: "Classic maple construction trusted by professionals", affiliate: "pearl-masters-maple" },
@@ -136,7 +136,7 @@ Pearl's metal legacy includes some of the genre's most iconic drummers. Joey Jor
     faq: [
       {
         question: "What Pearl drums do metal drummers use?",
-        answer: "Professional metal drummers typically use Pearl Reference or Masterworks series. Joey Jordison used Pearl Reference, while Vinnie Paul played Pearl Masters. The Reference Pure offers maple shells ideal for cutting through heavy guitar tones."
+        answer: "Professional metal drummers typically use Pearl Reference or Masterworks series. Joey Jordison used Pearl Reference. The Reference Pure offers maple shells ideal for cutting through heavy guitar tones."
       },
       {
         question: "Is Pearl good for metal drumming?",

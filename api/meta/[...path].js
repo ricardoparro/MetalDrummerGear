@@ -3101,6 +3101,17 @@ export function getMetaForPath(pathname) {
         // JSON-LD below but never the visible body — leadFact prints it right
         // under the h1, same pattern as #6071's extendedBios overview fix.
         leadFact: band.summary ? escapeHtml(band.summary) : null,
+        // Issue #7138: band.history (story/metalEra, authored per-band from
+        // facts already verified/sourced above) reached no visible body text —
+        // L3 flagged several /bands/<slug> pages soft-404/crawled-not-indexed
+        // for thin bot-served content. Additive-only, only bands with a
+        // history field render this section. Reuses the #6070/#7138
+        // contentSections/renderBioParagraphs template hook (also used by
+        // /brands/<slug>).
+        contentSections: [
+          ...(band.history?.story?.length ? [{ heading: `${band.name} History`, content: band.history.story.join('\n\n') }] : []),
+          ...(band.history?.metalEra ? [{ heading: `${band.name}'s Place in Metal Drumming`, content: band.history.metalEra }] : []),
+        ],
         articleSchema: JSON.stringify({
           '@context': 'https://schema.org',
           '@type': 'MusicGroup',
@@ -3309,6 +3320,17 @@ export function getMetaForPath(pathname) {
           ...(bestForMetal ? [bestForMetal] : []),
         ],
         faqDisplayItems: brandFaqItems,
+        // Issue #7138: longDescription/history (already authored + sourced in
+        // brands.js for every brand) reached JSON-LD's description field but
+        // never the visible bot-served body — L3 flagged /brands/meinl,pearl,
+        // zildjian as soft-404 for exactly this thinness. Additive-only,
+        // reuses the #6070 contentSections/renderBioParagraphs template hook.
+        contentSections: [
+          ...(brand.longDescription ? [{ heading: `About ${brand.name}`, content: brand.longDescription }] : []),
+          ...(brand.history?.story?.length ? [{ heading: `${brand.name} History`, content: brand.history.story.join('\n\n') }] : []),
+          ...(brand.history?.milestones?.length ? [{ heading: `${brand.name} Milestones`, items: brand.history.milestones }] : []),
+          ...(brand.history?.metalEra ? [{ heading: `${brand.name} in Metal`, content: brand.history.metalEra }] : []),
+        ],
         articleSchema: JSON.stringify({
           '@context': 'https://schema.org',
           '@graph': [
@@ -8340,6 +8362,12 @@ export function generateMetaHtml(meta, originalUrl) {
       ${meta.bioSections.styleAndInfluences ? `<h2>Style &amp; Influences</h2>${renderBioParagraphs(meta.bioSections.styleAndInfluences)}` : ''}
       ${meta.bioSections.gearHighlights ? `<h2>Gear Highlights</h2>${renderBioParagraphs(meta.bioSections.gearHighlights)}` : ''}
     </section>` : ''}
+    ${meta.contentSections && meta.contentSections.length > 0 ? meta.contentSections.map(s => `
+    <section>
+      <h2>${escapeHtml(s.heading)}</h2>
+      ${s.content ? renderBioParagraphs(s.content) : ''}
+      ${s.items && s.items.length > 0 ? `<ul>${s.items.map(i => typeof i === 'string' ? `<li>${escapeHtml(i)}</li>` : `<li>${escapeHtml(String(i.year))}: ${escapeHtml(i.event)}</li>`).join('')}</ul>` : ''}
+    </section>`).join('') : ''}
     ${meta.tables && meta.tables.length > 0 ? meta.tables.map(t => `
     <section>
       <h2>${escapeHtml(t.heading)}</h2>

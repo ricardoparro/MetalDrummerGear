@@ -1,0 +1,3401 @@
+{
+  "generatedAt": "2026-09-07T14:05:23.099Z",
+  "site": "https://metalforge.io/",
+  "window": {
+    "startDate": "2026-08-31",
+    "endDate": "2026-09-07",
+    "days": 7
+  },
+  "queries": {
+    "mario duplantier drum kit": {
+      "impressions": 58,
+      "clicks": 2,
+      "position": 4.913793103448276,
+      "ctr": 0.034482758620689655
+    },
+    "arin ilejay drum set": {
+      "impressions": 6,
+      "clicks": 1,
+      "position": 2,
+      "ctr": 0.16666666666666666
+    },
+    "best china cymbal for metal": {
+      "impressions": 1,
+      "clicks": 1,
+      "position": 6,
+      "ctr": 1
+    },
+    "best metal cymbals": {
+      "impressions": 1,
+      "clicks": 1,
+      "position": 7,
+      "ctr": 1
+    },
+    "best metal drummers of all time": {
+      "impressions": 37,
+      "clicks": 1,
+      "position": 9.621621621621621,
+      "ctr": 0.02702702702702703
+    },
+    "bill ward cymbals": {
+      "impressions": 1,
+      "clicks": 1,
+      "position": 11,
+      "ctr": 1
+    },
+    "cryptopsy drummer": {
+      "impressions": 22,
+      "clicks": 1,
+      "position": 6.954545454545454,
+      "ctr": 0.045454545454545456
+    },
+    "danny carey lateralus drum kit": {
+      "impressions": 4,
+      "clicks": 1,
+      "position": 9.75,
+      "ctr": 0.25
+    },
+    "death metal drum kit": {
+      "impressions": 1,
+      "clicks": 1,
+      "position": 5,
+      "ctr": 1
+    },
+    "eloy casagrande drum set": {
+      "impressions": 8,
+      "clicks": 1,
+      "position": 9.25,
+      "ctr": 0.125
+    },
+    "eloy casagrande vs joey jordison": {
+      "impressions": 13,
+      "clicks": 1,
+      "position": 7.076923076923077,
+      "ctr": 0.07692307692307693
+    },
+    "fastest double bass": {
+      "impressions": 6,
+      "clicks": 1,
+      "position": 6.5,
+      "ctr": 0.16666666666666666
+    },
+    "flo mounier": {
+      "impressions": 94,
+      "clicks": 1,
+      "position": 7.8936170212765955,
+      "ctr": 0.010638297872340425
+    },
+    "flo mounier drum kit": {
+      "impressions": 9,
+      "clicks": 1,
+      "position": 5.777777777777778,
+      "ctr": 0.1111111111111111
+    },
+    "igor cavalera drum kit": {
+      "impressions": 3,
+      "clicks": 1,
+      "position": 4,
+      "ctr": 0.3333333333333333
+    },
+    "jaska raatikainen": {
+      "impressions": 82,
+      "clicks": 1,
+      "position": 8.792682926829269,
+      "ctr": 0.012195121951219513
+    },
+    "jaska raatikainen drum set": {
+      "impressions": 4,
+      "clicks": 1,
+      "position": 1,
+      "ctr": 0.25
+    },
+    "jay weinberg cymbals": {
+      "impressions": 2,
+      "clicks": 1,
+      "position": 10,
+      "ctr": 0.5
+    },
+    "joey?": {
+      "impressions": 1,
+      "clicks": 1,
+      "position": 8,
+      "ctr": 1
+    },
+    "mario duplantier cymbal setup": {
+      "impressions": 3,
+      "clicks": 1,
+      "position": 5.333333333333333,
+      "ctr": 0.3333333333333333
+    },
+    "mario duplantier cymbals": {
+      "impressions": 16,
+      "clicks": 1,
+      "position": 3.6875,
+      "ctr": 0.0625
+    },
+    "mario duplantier kit": {
+      "impressions": 18,
+      "clicks": 1,
+      "position": 4.555555555555555,
+      "ctr": 0.05555555555555555
+    },
+    "mario duplantier pedals": {
+      "impressions": 2,
+      "clicks": 1,
+      "position": 5.5,
+      "ctr": 0.5
+    },
+    "matt garstka kit": {
+      "impressions": 1,
+      "clicks": 1,
+      "position": 3,
+      "ctr": 1
+    },
+    "matt greiner cymbal setup": {
+      "impressions": 12,
+      "clicks": 1,
+      "position": 7.5,
+      "ctr": 0.08333333333333333
+    },
+    "matt greiner cymbals": {
+      "impressions": 4,
+      "clicks": 1,
+      "position": 8.75,
+      "ctr": 0.25
+    },
+    "matt greiner drum setup": {
+      "impressions": 15,
+      "clicks": 1,
+      "position": 15.866666666666667,
+      "ctr": 0.06666666666666667
+    },
+    "nick menza drum kit": {
+      "impressions": 14,
+      "clicks": 1,
+      "position": 3.5,
+      "ctr": 0.07142857142857142
+    },
+    "1349 drummer": {
+      "impressions": 8,
+      "clicks": 0,
+      "position": 8.25,
+      "ctr": 0
+    },
+    "1349 frost": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 1,
+      "ctr": 0
+    },
+    "5b?": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 28,
+      "ctr": 0
+    },
+    "abe cunningham": {
+      "impressions": 9,
+      "clicks": 0,
+      "position": 22.11111111111111,
+      "ctr": 0
+    },
+    "abe cunningham cymbals": {
+      "impressions": 3,
+      "clicks": 0,
+      "position": 11,
+      "ctr": 0
+    },
+    "abe cunningham drum kit": {
+      "impressions": 3,
+      "clicks": 0,
+      "position": 7.666666666666667,
+      "ctr": 0
+    },
+    "abe cunningham drum set": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 12,
+      "ctr": 0
+    },
+    "abe cunningham kit": {
+      "impressions": 2,
+      "clicks": 0,
+      "position": 10.5,
+      "ctr": 0
+    },
+    "aces high bpm": {
+      "impressions": 2,
+      "clicks": 0,
+      "position": 8,
+      "ctr": 0
+    },
+    "animals as leaders drummer": {
+      "impressions": 2,
+      "clicks": 0,
+      "position": 13.5,
+      "ctr": 0
+    },
+    "anthrax drummer charlie benante": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 27,
+      "ctr": 0
+    },
+    "arch enemy drummer": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 11,
+      "ctr": 0
+    },
+    "are joe and mario duplantier related": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 1,
+      "ctr": 0
+    },
+    "arin a7x": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 12,
+      "ctr": 0
+    },
+    "arin ilejay": {
+      "impressions": 258,
+      "clicks": 0,
+      "position": 12.13953488372093,
+      "ctr": 0
+    },
+    "arin ilejay bands": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 10,
+      "ctr": 0
+    },
+    "arin ilejay drum kit": {
+      "impressions": 2,
+      "clicks": 0,
+      "position": 8.5,
+      "ctr": 0
+    },
+    "arin ilejay wiki": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 11,
+      "ctr": 0
+    },
+    "arin illejay": {
+      "impressions": 3,
+      "clicks": 0,
+      "position": 14,
+      "ctr": 0
+    },
+    "arin llejay": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 13,
+      "ctr": 0
+    },
+    "art cruz drum setup": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 7,
+      "ctr": 0
+    },
+    "baard kolstad": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 2,
+      "ctr": 0
+    },
+    "ben coller": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 9,
+      "ctr": 0
+    },
+    "ben koller": {
+      "impressions": 58,
+      "clicks": 0,
+      "position": 7.137931034482759,
+      "ctr": 0
+    },
+    "ben koller band": {
+      "impressions": 2,
+      "clicks": 0,
+      "position": 10,
+      "ctr": 0
+    },
+    "ben koller converge": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 14,
+      "ctr": 0
+    },
+    "ben koller drummer": {
+      "impressions": 3,
+      "clicks": 0,
+      "position": 7.333333333333333,
+      "ctr": 0
+    },
+    "best alt rock drummers": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 8,
+      "ctr": 0
+    },
+    "best alternative drummers": {
+      "impressions": 2,
+      "clicks": 0,
+      "position": 7.5,
+      "ctr": 0
+    },
+    "best bass drum head for metal": {
+      "impressions": 2,
+      "clicks": 0,
+      "position": 36,
+      "ctr": 0
+    },
+    "best bass pedals for metal": {
+      "impressions": 2,
+      "clicks": 0,
+      "position": 16,
+      "ctr": 0
+    },
+    "best black metal drummer": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 26,
+      "ctr": 0
+    },
+    "best black metal drummers": {
+      "impressions": 3,
+      "clicks": 0,
+      "position": 12.666666666666666,
+      "ctr": 0
+    },
+    "best china cymbals for metal": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 5,
+      "ctr": 0
+    },
+    "best crash cymbal for rock": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 42,
+      "ctr": 0
+    },
+    "best crash cymbals": {
+      "impressions": 3,
+      "clicks": 0,
+      "position": 34.666666666666664,
+      "ctr": 0
+    },
+    "best crash cymbals for metal": {
+      "impressions": 2,
+      "clicks": 0,
+      "position": 4,
+      "ctr": 0
+    },
+    "best crash cymbals for rock": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 41,
+      "ctr": 0
+    },
+    "best cymbal set for metal": {
+      "impressions": 82,
+      "clicks": 0,
+      "position": 7.146341463414634,
+      "ctr": 0
+    },
+    "best cymbals for metal": {
+      "impressions": 7,
+      "clicks": 0,
+      "position": 9.857142857142858,
+      "ctr": 0
+    },
+    "best death metal drummers": {
+      "impressions": 4,
+      "clicks": 0,
+      "position": 3,
+      "ctr": 0
+    },
+    "best death metal drummers of all time": {
+      "impressions": 3,
+      "clicks": 0,
+      "position": 1,
+      "ctr": 0
+    },
+    "best deathcore drummers": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 8,
+      "ctr": 0
+    },
+    "best djent metal bands": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 43,
+      "ctr": 0
+    },
+    "best double bass drummers": {
+      "impressions": 2,
+      "clicks": 0,
+      "position": 10,
+      "ctr": 0
+    },
+    "best double bass pedal for metal": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 23,
+      "ctr": 0
+    },
+    "best drum heads for metal": {
+      "impressions": 11,
+      "clicks": 0,
+      "position": 14.272727272727273,
+      "ctr": 0
+    },
+    "best drum heads for rock": {
+      "impressions": 2,
+      "clicks": 0,
+      "position": 58,
+      "ctr": 0
+    },
+    "best drum kit for metal": {
+      "impressions": 2,
+      "clicks": 0,
+      "position": 8.5,
+      "ctr": 0
+    },
+    "best drum machine for metal": {
+      "impressions": 3,
+      "clicks": 0,
+      "position": 22.666666666666668,
+      "ctr": 0
+    },
+    "best drum set for metal": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 27,
+      "ctr": 0
+    },
+    "best drum shields": {
+      "impressions": 2,
+      "clicks": 0,
+      "position": 23.5,
+      "ctr": 0
+    },
+    "best drummer in metal": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 11,
+      "ctr": 0
+    },
+    "best drummer metal": {
+      "impressions": 2,
+      "clicks": 0,
+      "position": 13.5,
+      "ctr": 0
+    },
+    "best drummers in metal": {
+      "impressions": 2,
+      "clicks": 0,
+      "position": 10.5,
+      "ctr": 0
+    },
+    "best drummers metal": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 11,
+      "ctr": 0
+    },
+    "best drummers of all time in metal": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 10,
+      "ctr": 0
+    },
+    "best drummers of all time metal": {
+      "impressions": 2,
+      "clicks": 0,
+      "position": 10,
+      "ctr": 0
+    },
+    "best drummers of the 2000s": {
+      "impressions": 3,
+      "clicks": 0,
+      "position": 8.333333333333332,
+      "ctr": 0
+    },
+    "best drumstick for metal": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 28,
+      "ctr": 0
+    },
+    "best drumsticks for blast beats": {
+      "impressions": 19,
+      "clicks": 0,
+      "position": 7.315789473684211,
+      "ctr": 0
+    },
+    "best drumsticks for metal": {
+      "impressions": 7,
+      "clicks": 0,
+      "position": 9.857142857142858,
+      "ctr": 0
+    },
+    "best drumsticks for metal drumming": {
+      "impressions": 2,
+      "clicks": 0,
+      "position": 11,
+      "ctr": 0
+    },
+    "best electronic drum set for metal": {
+      "impressions": 3,
+      "clicks": 0,
+      "position": 17.666666666666668,
+      "ctr": 0
+    },
+    "best electronic drums for metal": {
+      "impressions": 2,
+      "clicks": 0,
+      "position": 9.5,
+      "ctr": 0
+    },
+    "best extreme metal drummers": {
+      "impressions": 4,
+      "clicks": 0,
+      "position": 10.25,
+      "ctr": 0
+    },
+    "best heavy metal drummer": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 11,
+      "ctr": 0
+    },
+    "best heavy metal drummers": {
+      "impressions": 4,
+      "clicks": 0,
+      "position": 17.5,
+      "ctr": 0
+    },
+    "best heavy metal drummers of all time": {
+      "impressions": 3,
+      "clicks": 0,
+      "position": 16.666666666666664,
+      "ctr": 0
+    },
+    "best metal drummer": {
+      "impressions": 11,
+      "clicks": 0,
+      "position": 11.454545454545455,
+      "ctr": 0
+    },
+    "best metal drummer in the world": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 9,
+      "ctr": 0
+    },
+    "best metal drummer of all time": {
+      "impressions": 6,
+      "clicks": 0,
+      "position": 8.166666666666668,
+      "ctr": 0
+    },
+    "best metal drummers": {
+      "impressions": 15,
+      "clicks": 0,
+      "position": 11.066666666666666,
+      "ctr": 0
+    },
+    "best metal drummers today": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 49,
+      "ctr": 0
+    },
+    "best metal drums fl studio": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 29,
+      "ctr": 0
+    },
+    "best metal snare for country music": {
+      "impressions": 4,
+      "clicks": 0,
+      "position": 26,
+      "ctr": 0
+    },
+    "best metalcore drummers": {
+      "impressions": 5,
+      "clicks": 0,
+      "position": 7,
+      "ctr": 0
+    },
+    "best session drummer": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 41,
+      "ctr": 0
+    },
+    "best session drummers": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 47,
+      "ctr": 0
+    },
+    "best steel drummers": {
+      "impressions": 13,
+      "clicks": 0,
+      "position": 46.30769230769231,
+      "ctr": 0
+    },
+    "best?": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 6,
+      "ctr": 0
+    },
+    "bill ward": {
+      "impressions": 10,
+      "clicks": 0,
+      "position": 37.4,
+      "ctr": 0
+    },
+    "bill ward black sabbath": {
+      "impressions": 6,
+      "clicks": 0,
+      "position": 38.166666666666664,
+      "ctr": 0
+    },
+    "bill ward black sabbath drummer": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 24,
+      "ctr": 0
+    },
+    "bill ward drum": {
+      "impressions": 7,
+      "clicks": 0,
+      "position": 29,
+      "ctr": 0
+    },
+    "bill ward drum kit": {
+      "impressions": 17,
+      "clicks": 0,
+      "position": 7.588235294117647,
+      "ctr": 0
+    },
+    "bill ward drum kit 1970": {
+      "impressions": 5,
+      "clicks": 0,
+      "position": 6,
+      "ctr": 0
+    },
+    "bill ward drum set": {
+      "impressions": 6,
+      "clicks": 0,
+      "position": 5.5,
+      "ctr": 0
+    },
+    "bill ward drum setup": {
+      "impressions": 8,
+      "clicks": 0,
+      "position": 8.875,
+      "ctr": 0
+    },
+    "bill ward drum setup 1970": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 6,
+      "ctr": 0
+    },
+    "bill ward drummer": {
+      "impressions": 3,
+      "clicks": 0,
+      "position": 38.666666666666664,
+      "ctr": 0
+    },
+    "bill ward drumming style": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 8,
+      "ctr": 0
+    },
+    "bill ward drums": {
+      "impressions": 11,
+      "clicks": 0,
+      "position": 27.09090909090909,
+      "ctr": 0
+    },
+    "bill ward drumset": {
+      "impressions": 2,
+      "clicks": 0,
+      "position": 1.5,
+      "ctr": 0
+    },
+    "bill ward kit": {
+      "impressions": 2,
+      "clicks": 0,
+      "position": 10,
+      "ctr": 0
+    },
+    "bill ward signature": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 29,
+      "ctr": 0
+    },
+    "bill ward wiki": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 36,
+      "ctr": 0
+    },
+    "black drum hardware": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 30,
+      "ctr": 0
+    },
+    "black metal drummer": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 26,
+      "ctr": 0
+    },
+    "black metal drummers": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 30,
+      "ctr": 0
+    },
+    "black sabbath bill ward": {
+      "impressions": 3,
+      "clicks": 0,
+      "position": 35.333333333333336,
+      "ctr": 0
+    },
+    "black sabbath drum kit": {
+      "impressions": 3,
+      "clicks": 0,
+      "position": 9.666666666666666,
+      "ctr": 0
+    },
+    "black sabbath drummer": {
+      "impressions": 5,
+      "clicks": 0,
+      "position": 33.2,
+      "ctr": 0
+    },
+    "black sabbath iron man bpm": {
+      "impressions": 8,
+      "clicks": 0,
+      "position": 6.375,
+      "ctr": 0
+    },
+    "blastbeat": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 13,
+      "ctr": 0
+    },
+    "bpm iron man black sabbath": {
+      "impressions": 6,
+      "clicks": 0,
+      "position": 5.333333333333333,
+      "ctr": 0
+    },
+    "brann dailor drum kit": {
+      "impressions": 12,
+      "clicks": 0,
+      "position": 5.583333333333333,
+      "ctr": 0
+    },
+    "brann dailor drum setup": {
+      "impressions": 3,
+      "clicks": 0,
+      "position": 15,
+      "ctr": 0
+    },
+    "brann dailor drums": {
+      "impressions": 2,
+      "clicks": 0,
+      "position": 8.5,
+      "ctr": 0
+    },
+    "brann dailor height": {
+      "impressions": 2,
+      "clicks": 0,
+      "position": 36,
+      "ctr": 0
+    },
+    "brann dailor kit": {
+      "impressions": 5,
+      "clicks": 0,
+      "position": 6,
+      "ctr": 0
+    },
+    "chad smith": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 3,
+      "ctr": 0
+    },
+    "charlie benante": {
+      "impressions": 6,
+      "clicks": 0,
+      "position": 38.666666666666664,
+      "ctr": 0
+    },
+    "charlie benante anthrax": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 23,
+      "ctr": 0
+    },
+    "charlie benante drum kit": {
+      "impressions": 8,
+      "clicks": 0,
+      "position": 5.125,
+      "ctr": 0
+    },
+    "charlie benante drum setup": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 8,
+      "ctr": 0
+    },
+    "charlie benate": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 28,
+      "ctr": 0
+    },
+    "charly benante": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 31,
+      "ctr": 0
+    },
+    "children of bodom drummer": {
+      "impressions": 16,
+      "clicks": 0,
+      "position": 8.625,
+      "ctr": 0
+    },
+    "chris adler cymbals": {
+      "impressions": 3,
+      "clicks": 0,
+      "position": 9.333333333333334,
+      "ctr": 0
+    },
+    "chris adler drum kit": {
+      "impressions": 6,
+      "clicks": 0,
+      "position": 9.666666666666666,
+      "ctr": 0
+    },
+    "chris adler drum set": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 8,
+      "ctr": 0
+    },
+    "chris adler drum setup": {
+      "impressions": 7,
+      "clicks": 0,
+      "position": 7.571428571428571,
+      "ctr": 0
+    },
+    "chris adler kit": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 11,
+      "ctr": 0
+    },
+    "clive burr drum kit": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 10,
+      "ctr": 0
+    },
+    "converge drummer": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 16,
+      "ctr": 0
+    },
+    "cryptopsy flo mounier": {
+      "impressions": 2,
+      "clicks": 0,
+      "position": 9,
+      "ctr": 0
+    },
+    "cymbal material": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 39,
+      "ctr": 0
+    },
+    "d drum trigger": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 5,
+      "ctr": 0
+    },
+    "daniel erlandsson": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 27,
+      "ctr": 0
+    },
+    "daniel erlandsson drum kit": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 6,
+      "ctr": 0
+    },
+    "dannt carey": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 20,
+      "ctr": 0
+    },
+    "danny carey": {
+      "impressions": 35,
+      "clicks": 0,
+      "position": 16.514285714285712,
+      "ctr": 0
+    },
+    "danny carey bands": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 18,
+      "ctr": 0
+    },
+    "danny carey cymbal setup": {
+      "impressions": 2,
+      "clicks": 0,
+      "position": 9.5,
+      "ctr": 0
+    },
+    "danny carey cymbals": {
+      "impressions": 3,
+      "clicks": 0,
+      "position": 6.666666666666667,
+      "ctr": 0
+    },
+    "danny carey drum kit": {
+      "impressions": 103,
+      "clicks": 0,
+      "position": 11.932038834951456,
+      "ctr": 0
+    },
+    "danny carey drum kit setup": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 8,
+      "ctr": 0
+    },
+    "danny carey drum kit specs": {
+      "impressions": 2,
+      "clicks": 0,
+      "position": 10,
+      "ctr": 0
+    },
+    "danny carey drum set": {
+      "impressions": 72,
+      "clicks": 0,
+      "position": 10.194444444444445,
+      "ctr": 0
+    },
+    "danny carey drum set cost": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 5,
+      "ctr": 0
+    },
+    "danny carey drum set up": {
+      "impressions": 4,
+      "clicks": 0,
+      "position": 15.25,
+      "ctr": 0
+    },
+    "danny carey drum setup": {
+      "impressions": 14,
+      "clicks": 0,
+      "position": 12.785714285714286,
+      "ctr": 0
+    },
+    "danny carey drumkit": {
+      "impressions": 8,
+      "clicks": 0,
+      "position": 9.375,
+      "ctr": 0
+    },
+    "danny carey drummer": {
+      "impressions": 4,
+      "clicks": 0,
+      "position": 18.25,
+      "ctr": 0
+    },
+    "danny carey drumset": {
+      "impressions": 11,
+      "clicks": 0,
+      "position": 7.909090909090909,
+      "ctr": 0
+    },
+    "danny carey gear": {
+      "impressions": 4,
+      "clicks": 0,
+      "position": 10.5,
+      "ctr": 0
+    },
+    "danny carey height": {
+      "impressions": 2,
+      "clicks": 0,
+      "position": 21.5,
+      "ctr": 0
+    },
+    "danny carey kit": {
+      "impressions": 8,
+      "clicks": 0,
+      "position": 10.125,
+      "ctr": 0
+    },
+    "danny carey setup": {
+      "impressions": 6,
+      "clicks": 0,
+      "position": 9.5,
+      "ctr": 0
+    },
+    "danny carey tool drum kit": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 8,
+      "ctr": 0
+    },
+    "danny carey's drum set": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 9,
+      "ctr": 0
+    },
+    "danny careys drum kit": {
+      "impressions": 3,
+      "clicks": 0,
+      "position": 13.333333333333334,
+      "ctr": 0
+    },
+    "danny carrey drum kit": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 11,
+      "ctr": 0
+    },
+    "danny cary": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 19,
+      "ctr": 0
+    },
+    "dave lombardo cymbals": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 10,
+      "ctr": 0
+    },
+    "dave lombardo drum kit": {
+      "impressions": 17,
+      "clicks": 0,
+      "position": 8.176470588235293,
+      "ctr": 0
+    },
+    "dave lombardo drum set": {
+      "impressions": 3,
+      "clicks": 0,
+      "position": 9,
+      "ctr": 0
+    },
+    "dave lombardo drumset": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 12,
+      "ctr": 0
+    },
+    "dave lombardo kit": {
+      "impressions": 5,
+      "clicks": 0,
+      "position": 7.6,
+      "ctr": 0
+    },
+    "dave lombardo vs joey jordison": {
+      "impressions": 3,
+      "clicks": 0,
+      "position": 6.666666666666667,
+      "ctr": 0
+    },
+    "dave lombardo vs lars ulrich": {
+      "impressions": 2,
+      "clicks": 0,
+      "position": 7.5,
+      "ctr": 0
+    },
+    "death band drummers": {
+      "impressions": 2,
+      "clicks": 0,
+      "position": 9,
+      "ctr": 0
+    },
+    "death drummer": {
+      "impressions": 10,
+      "clicks": 0,
+      "position": 9.9,
+      "ctr": 0
+    },
+    "death drummers": {
+      "impressions": 14,
+      "clicks": 0,
+      "position": 6.428571428571429,
+      "ctr": 0
+    },
+    "death drummers by album": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 9,
+      "ctr": 0
+    },
+    "death metal": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 4,
+      "ctr": 0
+    },
+    "death metal drum set": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 3,
+      "ctr": 0
+    },
+    "death metal drummer": {
+      "impressions": 3,
+      "clicks": 0,
+      "position": 8.666666666666668,
+      "ctr": 0
+    },
+    "death metal drummers": {
+      "impressions": 8,
+      "clicks": 0,
+      "position": 7.5,
+      "ctr": 0
+    },
+    "death metal drumming": {
+      "impressions": 3,
+      "clicks": 0,
+      "position": 4.333333333333334,
+      "ctr": 0
+    },
+    "death metal drums": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 20,
+      "ctr": 0
+    },
+    "death metal snare": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 8,
+      "ctr": 0
+    },
+    "deathcore": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 1,
+      "ctr": 0
+    },
+    "deathcore drum kit": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 2,
+      "ctr": 0
+    },
+    "deftones drummer": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 10,
+      "ctr": 0
+    },
+    "did joey jordison use triggers": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 11,
+      "ctr": 0
+    },
+    "dirk verbeuren drum kit": {
+      "impressions": 10,
+      "clicks": 0,
+      "position": 9.8,
+      "ctr": 0
+    },
+    "djent metal bands": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 45,
+      "ctr": 0
+    },
+    "djent pedal": {
+      "impressions": 2,
+      "clicks": 0,
+      "position": 10,
+      "ctr": 0
+    },
+    "does demolition by judas priest have nu metal elements?": {
+      "impressions": 3,
+      "clicks": 0,
+      "position": 4.333333333333334,
+      "ctr": 0
+    },
+    "does lars ulrich use triggers": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 1,
+      "ctr": 0
+    },
+    "does mario duplantier use triggers": {
+      "impressions": 15,
+      "clicks": 0,
+      "position": 8.533333333333333,
+      "ctr": 0
+    },
+    "does tomas haake use triggers": {
+      "impressions": 2,
+      "clicks": 0,
+      "position": 5,
+      "ctr": 0
+    },
+    "double bass": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 11,
+      "ctr": 0
+    },
+    "drum joey jordison": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 15,
+      "ctr": 0
+    },
+    "drum kit joey jordison": {
+      "impressions": 6,
+      "clicks": 0,
+      "position": 8,
+      "ctr": 0
+    },
+    "drum kit mike portnoy": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 15,
+      "ctr": 0
+    },
+    "drum kit used on saviors": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 37,
+      "ctr": 0
+    },
+    "drum set for metal": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 67,
+      "ctr": 0
+    },
+    "drum set joey jordison": {
+      "impressions": 8,
+      "clicks": 0,
+      "position": 15.75,
+      "ctr": 0
+    },
+    "drum set slipknot": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 6,
+      "ctr": 0
+    },
+    "drum sticks for metal": {
+      "impressions": 2,
+      "clicks": 0,
+      "position": 49.5,
+      "ctr": 0
+    },
+    "drum tuning": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 2,
+      "ctr": 0
+    },
+    "drummer for gojira": {
+      "impressions": 2,
+      "clicks": 0,
+      "position": 22.5,
+      "ctr": 0
+    },
+    "drummer from gojira": {
+      "impressions": 2,
+      "clicks": 0,
+      "position": 6.5,
+      "ctr": 0
+    },
+    "drummer gojira": {
+      "impressions": 6,
+      "clicks": 0,
+      "position": 8.5,
+      "ctr": 0
+    },
+    "drummer limp bizkit": {
+      "impressions": 4,
+      "clicks": 0,
+      "position": 17.5,
+      "ctr": 0
+    },
+    "drummer of gojira": {
+      "impressions": 2,
+      "clicks": 0,
+      "position": 10,
+      "ctr": 0
+    },
+    "drummer of limp bizkit": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 23,
+      "ctr": 0
+    },
+    "drums joey jordison": {
+      "impressions": 2,
+      "clicks": 0,
+      "position": 13,
+      "ctr": 0
+    },
+    "duplantier brothers": {
+      "impressions": 2,
+      "clicks": 0,
+      "position": 9,
+      "ctr": 0
+    },
+    "duplantier gojira": {
+      "impressions": 2,
+      "clicks": 0,
+      "position": 23,
+      "ctr": 0
+    },
+    "dw drummers": {
+      "impressions": 4,
+      "clicks": 0,
+      "position": 18,
+      "ctr": 0
+    },
+    "eloy casagrande bill ward": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 11,
+      "ctr": 0
+    },
+    "eloy casagrande cymbal setup": {
+      "impressions": 2,
+      "clicks": 0,
+      "position": 7,
+      "ctr": 0
+    },
+    "eloy casagrande drum kit": {
+      "impressions": 17,
+      "clicks": 0,
+      "position": 9.294117647058824,
+      "ctr": 0
+    },
+    "eloy casagrande drum setup": {
+      "impressions": 6,
+      "clicks": 0,
+      "position": 9.166666666666666,
+      "ctr": 0
+    },
+    "eloy casagrande drumkit": {
+      "impressions": 2,
+      "clicks": 0,
+      "position": 7,
+      "ctr": 0
+    },
+    "eloy casagrande drumset": {
+      "impressions": 2,
+      "clicks": 0,
+      "position": 10,
+      "ctr": 0
+    },
+    "eloy casagrande kit": {
+      "impressions": 3,
+      "clicks": 0,
+      "position": 12,
+      "ctr": 0
+    },
+    "eloy casagrande setup": {
+      "impressions": 2,
+      "clicks": 0,
+      "position": 8.5,
+      "ctr": 0
+    },
+    "eloy casagrande slipknot drum kit": {
+      "impressions": 3,
+      "clicks": 0,
+      "position": 6.333333333333333,
+      "ctr": 0
+    },
+    "eloy casagrande slipknot kit": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 5,
+      "ctr": 0
+    },
+    "eloy casagrande snare": {
+      "impressions": 2,
+      "clicks": 0,
+      "position": 9,
+      "ctr": 0
+    },
+    "eloy casagrande snare drum": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 10,
+      "ctr": 0
+    },
+    "eloy casagrande vs igor cavalera": {
+      "impressions": 3,
+      "clicks": 0,
+      "position": 3,
+      "ctr": 0
+    },
+    "eloy casagrande vs jay weinberg": {
+      "impressions": 6,
+      "clicks": 0,
+      "position": 5.166666666666667,
+      "ctr": 0
+    },
+    "enter sandman tempo": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 8,
+      "ctr": 0
+    },
+    "expensive drum set": {
+      "impressions": 2,
+      "clicks": 0,
+      "position": 22,
+      "ctr": 0
+    },
+    "expensive drum sets": {
+      "impressions": 2,
+      "clicks": 0,
+      "position": 44,
+      "ctr": 0
+    },
+    "extreme.drumming": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 23,
+      "ctr": 0
+    },
+    "fact check": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 6,
+      "ctr": 0
+    },
+    "famous open handed drummers": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 11,
+      "ctr": 0
+    },
+    "fastest double bass drummer": {
+      "impressions": 7,
+      "clicks": 0,
+      "position": 6.428571428571429,
+      "ctr": 0
+    },
+    "fastest double kick drummer": {
+      "impressions": 4,
+      "clicks": 0,
+      "position": 7.5,
+      "ctr": 0
+    },
+    "fastest metal song": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 7,
+      "ctr": 0
+    },
+    "fear factory drummer raymond herrera": {
+      "impressions": 3,
+      "clicks": 0,
+      "position": 11.333333333333334,
+      "ctr": 0
+    },
+    "fear factory raymond herrera": {
+      "impressions": 3,
+      "clicks": 0,
+      "position": 6.333333333333333,
+      "ctr": 0
+    },
+    "flo cryptopsy": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 13,
+      "ctr": 0
+    },
+    "flo drummer": {
+      "impressions": 2,
+      "clicks": 0,
+      "position": 11.5,
+      "ctr": 0
+    },
+    "flo mounier band": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 8,
+      "ctr": 0
+    },
+    "flo mounier drummer": {
+      "impressions": 2,
+      "clicks": 0,
+      "position": 8,
+      "ctr": 0
+    },
+    "flo mounier wikipedia": {
+      "impressions": 3,
+      "clicks": 0,
+      "position": 6.666666666666667,
+      "ctr": 0
+    },
+    "flo mounier young": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 7,
+      "ctr": 0
+    },
+    "flo mournier": {
+      "impressions": 3,
+      "clicks": 0,
+      "position": 1,
+      "ctr": 0
+    },
+    "frost": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 3,
+      "ctr": 0
+    },
+    "frost 1349": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 9,
+      "ctr": 0
+    },
+    "frost drum": {
+      "impressions": 2,
+      "clicks": 0,
+      "position": 1,
+      "ctr": 0
+    },
+    "frost drummer": {
+      "impressions": 4,
+      "clicks": 0,
+      "position": 7.5,
+      "ctr": 0
+    },
+    "frost drumming": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 1,
+      "ctr": 0
+    },
+    "gallop drum beat": {
+      "impressions": 2,
+      "clicks": 0,
+      "position": 7.5,
+      "ctr": 0
+    },
+    "galloping drum beat": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 9,
+      "ctr": 0
+    },
+    "gavin harrison drum kit": {
+      "impressions": 6,
+      "clicks": 0,
+      "position": 14,
+      "ctr": 0
+    },
+    "gavin harrison drum setup": {
+      "impressions": 3,
+      "clicks": 0,
+      "position": 10,
+      "ctr": 0
+    },
+    "gavin harrison drummer": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 40,
+      "ctr": 0
+    },
+    "gavin harrison gear": {
+      "impressions": 2,
+      "clicks": 0,
+      "position": 9,
+      "ctr": 0
+    },
+    "gavin harrison vs danny carey": {
+      "impressions": 3,
+      "clicks": 0,
+      "position": 3,
+      "ctr": 0
+    },
+    "gene hoglan drum set": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 19,
+      "ctr": 0
+    },
+    "gene hoglan drum setup": {
+      "impressions": 2,
+      "clicks": 0,
+      "position": 10,
+      "ctr": 0
+    },
+    "gene hoglan drums": {
+      "impressions": 2,
+      "clicks": 0,
+      "position": 36.5,
+      "ctr": 0
+    },
+    "ggd matt garstka": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 40,
+      "ctr": 0
+    },
+    "gojira band members": {
+      "impressions": 2,
+      "clicks": 0,
+      "position": 42.5,
+      "ctr": 0
+    },
+    "gojira brothers": {
+      "impressions": 2,
+      "clicks": 0,
+      "position": 10,
+      "ctr": 0
+    },
+    "gojira drum kit": {
+      "impressions": 5,
+      "clicks": 0,
+      "position": 5.4,
+      "ctr": 0
+    },
+    "gojira drum set": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 7,
+      "ctr": 0
+    },
+    "gojira drummer": {
+      "impressions": 42,
+      "clicks": 0,
+      "position": 9.857142857142858,
+      "ctr": 0
+    },
+    "gojira drummer name": {
+      "impressions": 4,
+      "clicks": 0,
+      "position": 10.75,
+      "ctr": 0
+    },
+    "gojira mario": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 1,
+      "ctr": 0
+    },
+    "gojira polyrhythm": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 8,
+      "ctr": 0
+    },
+    "gojira's drummer": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 9,
+      "ctr": 0
+    },
+    "gojiras drummer": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 11,
+      "ctr": 0
+    },
+    "gravity blast": {
+      "impressions": 3,
+      "clicks": 0,
+      "position": 17,
+      "ctr": 0
+    },
+    "gravity blasts": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 22,
+      "ctr": 0
+    },
+    "greatest metal drummer of all time": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 7,
+      "ctr": 0
+    },
+    "greatest metal drummers": {
+      "impressions": 3,
+      "clicks": 0,
+      "position": 9.666666666666666,
+      "ctr": 0
+    },
+    "greatest metal drummers of all time": {
+      "impressions": 8,
+      "clicks": 0,
+      "position": 10.5,
+      "ctr": 0
+    },
+    "groove metal": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 2,
+      "ctr": 0
+    },
+    "hail to the king drummer": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 8,
+      "ctr": 0
+    },
+    "heavy metal drum kit": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 44,
+      "ctr": 0
+    },
+    "heavy metal drum set": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 32,
+      "ctr": 0
+    },
+    "heavy metal drummer": {
+      "impressions": 2,
+      "clicks": 0,
+      "position": 37.5,
+      "ctr": 0
+    },
+    "hell hammer drummer": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 13,
+      "ctr": 0
+    },
+    "hellhammer drum kit": {
+      "impressions": 3,
+      "clicks": 0,
+      "position": 3.6666666666666665,
+      "ctr": 0
+    },
+    "hellhammer drummer": {
+      "impressions": 26,
+      "clicks": 0,
+      "position": 8.076923076923077,
+      "ctr": 0
+    },
+    "hellhammer drums": {
+      "impressions": 5,
+      "clicks": 0,
+      "position": 5,
+      "ctr": 0
+    },
+    "hellhammer mayhem": {
+      "impressions": 5,
+      "clicks": 0,
+      "position": 11.2,
+      "ctr": 0
+    },
+    "how much does danny carey's drum set cost": {
+      "impressions": 2,
+      "clicks": 0,
+      "position": 5,
+      "ctr": 0
+    },
+    "how tall is danny carey from tool": {
+      "impressions": 7,
+      "clicks": 0,
+      "position": 9.285714285714286,
+      "ctr": 0
+    },
+    "i play drums": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 1,
+      "ctr": 0
+    },
+    "iggor cavalera drum kit": {
+      "impressions": 4,
+      "clicks": 0,
+      "position": 5,
+      "ctr": 0
+    },
+    "igor cavalera": {
+      "impressions": 129,
+      "clicks": 0,
+      "position": 12.720930232558139,
+      "ctr": 0
+    },
+    "igor cavalera 1991": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 9,
+      "ctr": 0
+    },
+    "igor cavalera drum setup": {
+      "impressions": 2,
+      "clicks": 0,
+      "position": 9.5,
+      "ctr": 0
+    },
+    "igor cavalera drums": {
+      "impressions": 4,
+      "clicks": 0,
+      "position": 9.75,
+      "ctr": 0
+    },
+    "igor cavalers": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 1,
+      "ctr": 0
+    },
+    "igor cavallera": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 11,
+      "ctr": 0
+    },
+    "igor cavelera": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 12,
+      "ctr": 0
+    },
+    "igor drummer": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 11,
+      "ctr": 0
+    },
+    "independent projects": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 2,
+      "ctr": 0
+    },
+    "inferno behemoth": {
+      "impressions": 3,
+      "clicks": 0,
+      "position": 17.333333333333332,
+      "ctr": 0
+    },
+    "inferno drum kit": {
+      "impressions": 5,
+      "clicks": 0,
+      "position": 5.4,
+      "ctr": 0
+    },
+    "inferno drummer": {
+      "impressions": 2,
+      "clicks": 0,
+      "position": 12.5,
+      "ctr": 0
+    },
+    "instrumenty": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 8,
+      "ctr": 0
+    },
+    "iron man black sabbath bpm": {
+      "impressions": 11,
+      "clicks": 0,
+      "position": 5.636363636363637,
+      "ctr": 0
+    },
+    "iron man black sabbath tempo": {
+      "impressions": 4,
+      "clicks": 0,
+      "position": 7.25,
+      "ctr": 0
+    },
+    "iron man bpm": {
+      "impressions": 32,
+      "clicks": 0,
+      "position": 7.46875,
+      "ctr": 0
+    },
+    "iron man bpm black sabbath": {
+      "impressions": 3,
+      "clicks": 0,
+      "position": 6.333333333333333,
+      "ctr": 0
+    },
+    "iron man tempo": {
+      "impressions": 13,
+      "clicks": 0,
+      "position": 8.153846153846153,
+      "ctr": 0
+    },
+    "is he influential": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 5,
+      "ctr": 0
+    },
+    "jatka": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 3,
+      "ctr": 0
+    },
+    "jay weinberg drum": {
+      "impressions": 5,
+      "clicks": 0,
+      "position": 15.6,
+      "ctr": 0
+    },
+    "jay weinberg drum kit": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 10,
+      "ctr": 0
+    },
+    "jay weinberg drum pack": {
+      "impressions": 2,
+      "clicks": 0,
+      "position": 7,
+      "ctr": 0
+    },
+    "jay weinberg drum set": {
+      "impressions": 4,
+      "clicks": 0,
+      "position": 11.75,
+      "ctr": 0
+    },
+    "jay weinberg drum setup": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 9,
+      "ctr": 0
+    },
+    "jay weinberg drums": {
+      "impressions": 7,
+      "clicks": 0,
+      "position": 16.57142857142857,
+      "ctr": 0
+    },
+    "jay weinberg drumset": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 10,
+      "ctr": 0
+    },
+    "jay weinberg kit": {
+      "impressions": 3,
+      "clicks": 0,
+      "position": 9,
+      "ctr": 0
+    },
+    "jay weinberg slipknot drum kit": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 8,
+      "ctr": 0
+    },
+    "jay weinberg vs eloy casagrande": {
+      "impressions": 4,
+      "clicks": 0,
+      "position": 4.75,
+      "ctr": 0
+    },
+    "jocke wallgren": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 10,
+      "ctr": 0
+    },
+    "joey drum kit": {
+      "impressions": 2,
+      "clicks": 0,
+      "position": 7,
+      "ctr": 0
+    },
+    "joey jordison": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 5,
+      "ctr": 0
+    },
+    "joey jordison 1999": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 8,
+      "ctr": 0
+    },
+    "joey jordison bpm": {
+      "impressions": 7,
+      "clicks": 0,
+      "position": 5.285714285714286,
+      "ctr": 0
+    },
+    "joey jordison cymbals": {
+      "impressions": 5,
+      "clicks": 0,
+      "position": 8.6,
+      "ctr": 0
+    },
+    "joey jordison drum kit": {
+      "impressions": 72,
+      "clicks": 0,
+      "position": 10.125,
+      "ctr": 0
+    },
+    "joey jordison drum kit 1999": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 5,
+      "ctr": 0
+    },
+    "joey jordison drum kit setup": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 9,
+      "ctr": 0
+    },
+    "joey jordison drum set": {
+      "impressions": 78,
+      "clicks": 0,
+      "position": 10.384615384615385,
+      "ctr": 0
+    },
+    "joey jordison drum set 1999": {
+      "impressions": 7,
+      "clicks": 0,
+      "position": 5.857142857142857,
+      "ctr": 0
+    },
+    "joey jordison drum set up": {
+      "impressions": 7,
+      "clicks": 0,
+      "position": 19.714285714285715,
+      "ctr": 0
+    },
+    "joey jordison drum sets": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 19,
+      "ctr": 0
+    },
+    "joey jordison drum setup": {
+      "impressions": 16,
+      "clicks": 0,
+      "position": 7.8125,
+      "ctr": 0
+    },
+    "joey jordison drumkit": {
+      "impressions": 7,
+      "clicks": 0,
+      "position": 6.714285714285714,
+      "ctr": 0
+    },
+    "joey jordison drumset": {
+      "impressions": 9,
+      "clicks": 0,
+      "position": 8,
+      "ctr": 0
+    },
+    "joey jordison gear": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 8,
+      "ctr": 0
+    },
+    "joey jordison instruments": {
+      "impressions": 2,
+      "clicks": 0,
+      "position": 6.5,
+      "ctr": 0
+    },
+    "joey jordison iowa drum kit": {
+      "impressions": 2,
+      "clicks": 0,
+      "position": 6,
+      "ctr": 0
+    },
+    "joey jordison kit": {
+      "impressions": 20,
+      "clicks": 0,
+      "position": 8.65,
+      "ctr": 0
+    },
+    "joey jordison kit setup": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 7,
+      "ctr": 0
+    },
+    "joey jordison pearl": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 14,
+      "ctr": 0
+    },
+    "joey jordison pearl drum set": {
+      "impressions": 2,
+      "clicks": 0,
+      "position": 21.5,
+      "ctr": 0
+    },
+    "joey jordison rotating drum kit": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 7,
+      "ctr": 0
+    },
+    "joey jordison self titled era": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 9,
+      "ctr": 0
+    },
+    "joey jordison signature drum kit": {
+      "impressions": 2,
+      "clicks": 0,
+      "position": 10,
+      "ctr": 0
+    },
+    "joey jordison signature drum set": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 9,
+      "ctr": 0
+    },
+    "joey jordison signature kit": {
+      "impressions": 2,
+      "clicks": 0,
+      "position": 10.5,
+      "ctr": 0
+    },
+    "joey jordison slipknot drum set": {
+      "impressions": 3,
+      "clicks": 0,
+      "position": 13.333333333333334,
+      "ctr": 0
+    },
+    "joey jordison snare": {
+      "impressions": 4,
+      "clicks": 0,
+      "position": 18,
+      "ctr": 0
+    },
+    "joey jordison snare drum": {
+      "impressions": 3,
+      "clicks": 0,
+      "position": 17,
+      "ctr": 0
+    },
+    "joey jordison vs eloy casagrande": {
+      "impressions": 7,
+      "clicks": 0,
+      "position": 7.714285714285714,
+      "ctr": 0
+    },
+    "john otto": {
+      "impressions": 7,
+      "clicks": 0,
+      "position": 39.142857142857146,
+      "ctr": 0
+    },
+    "john otto cymbal setup": {
+      "impressions": 2,
+      "clicks": 0,
+      "position": 9.5,
+      "ctr": 0
+    },
+    "john otto cymbals": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 3,
+      "ctr": 0
+    },
+    "john otto drum kit": {
+      "impressions": 11,
+      "clicks": 0,
+      "position": 4.272727272727273,
+      "ctr": 0
+    },
+    "john otto drum set": {
+      "impressions": 6,
+      "clicks": 0,
+      "position": 3.6666666666666665,
+      "ctr": 0
+    },
+    "john otto drum setup": {
+      "impressions": 2,
+      "clicks": 0,
+      "position": 4,
+      "ctr": 0
+    },
+    "john otto drummer": {
+      "impressions": 3,
+      "clicks": 0,
+      "position": 22.666666666666668,
+      "ctr": 0
+    },
+    "john otto drumset": {
+      "impressions": 6,
+      "clicks": 0,
+      "position": 41,
+      "ctr": 0
+    },
+    "john otto setup": {
+      "impressions": 2,
+      "clicks": 0,
+      "position": 5,
+      "ctr": 0
+    },
+    "john otto snare": {
+      "impressions": 6,
+      "clicks": 0,
+      "position": 8.5,
+      "ctr": 0
+    },
+    "john otto snare drum": {
+      "impressions": 4,
+      "clicks": 0,
+      "position": 7,
+      "ctr": 0
+    },
+    "jon dette": {
+      "impressions": 3,
+      "clicks": 0,
+      "position": 28,
+      "ctr": 0
+    },
+    "jon dette slayer": {
+      "impressions": 3,
+      "clicks": 0,
+      "position": 45.333333333333336,
+      "ctr": 0
+    },
+    "judas priest painkiller bpm": {
+      "impressions": 6,
+      "clicks": 0,
+      "position": 8.833333333333332,
+      "ctr": 0
+    },
+    "kevin talley": {
+      "impressions": 2,
+      "clicks": 0,
+      "position": 17,
+      "ctr": 0
+    },
+    "kevin talley drummer": {
+      "impressions": 2,
+      "clicks": 0,
+      "position": 13,
+      "ctr": 0
+    },
+    "kevin talley dying fetus": {
+      "impressions": 7,
+      "clicks": 0,
+      "position": 6.428571428571429,
+      "ctr": 0
+    },
+    "lateralus tempo": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 11,
+      "ctr": 0
+    },
+    "limp bizkit drum kit": {
+      "impressions": 2,
+      "clicks": 0,
+      "position": 3,
+      "ctr": 0
+    },
+    "limp bizkit drum set": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 2,
+      "ctr": 0
+    },
+    "limp bizkit drummer": {
+      "impressions": 3,
+      "clicks": 0,
+      "position": 20,
+      "ctr": 0
+    },
+    "limp bizkit john otto": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 19,
+      "ctr": 0
+    },
+    "limpbizkit drummer": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 23,
+      "ctr": 0
+    },
+    "marigold periphery tempo": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 7,
+      "ctr": 0
+    },
+    "mario duplantier": {
+      "impressions": 47,
+      "clicks": 0,
+      "position": 12.27659574468085,
+      "ctr": 0
+    },
+    "mario duplantier band": {
+      "impressions": 4,
+      "clicks": 0,
+      "position": 8.5,
+      "ctr": 0
+    },
+    "mario duplantier drum": {
+      "impressions": 3,
+      "clicks": 0,
+      "position": 9.666666666666666,
+      "ctr": 0
+    },
+    "mario duplantier drum heads": {
+      "impressions": 3,
+      "clicks": 0,
+      "position": 9.666666666666666,
+      "ctr": 0
+    },
+    "mario duplantier drum set": {
+      "impressions": 5,
+      "clicks": 0,
+      "position": 6,
+      "ctr": 0
+    },
+    "mario duplantier drum setup": {
+      "impressions": 3,
+      "clicks": 0,
+      "position": 6.666666666666667,
+      "ctr": 0
+    },
+    "mario duplantier drum sticks": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 3,
+      "ctr": 0
+    },
+    "mario duplantier drumset": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 3,
+      "ctr": 0
+    },
+    "mario duplantier gojira": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 12,
+      "ctr": 0
+    },
+    "mario duplantier influences": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 10,
+      "ctr": 0
+    },
+    "mario duplantier ride cymbal": {
+      "impressions": 7,
+      "clicks": 0,
+      "position": 5.714285714285714,
+      "ctr": 0
+    },
+    "mario duplantier snare": {
+      "impressions": 4,
+      "clicks": 0,
+      "position": 6.75,
+      "ctr": 0
+    },
+    "mario duplantier sticks": {
+      "impressions": 11,
+      "clicks": 0,
+      "position": 8.727272727272727,
+      "ctr": 0
+    },
+    "mario gojira": {
+      "impressions": 3,
+      "clicks": 0,
+      "position": 8.333333333333332,
+      "ctr": 0
+    },
+    "martin lopez drummer": {
+      "impressions": 4,
+      "clicks": 0,
+      "position": 18.75,
+      "ctr": 0
+    },
+    "mastodon drum kit": {
+      "impressions": 3,
+      "clicks": 0,
+      "position": 5.333333333333333,
+      "ctr": 0
+    },
+    "matt garstka": {
+      "impressions": 15,
+      "clicks": 0,
+      "position": 23.866666666666667,
+      "ctr": 0
+    },
+    "matt garstka bands": {
+      "impressions": 2,
+      "clicks": 0,
+      "position": 29,
+      "ctr": 0
+    },
+    "matt garstka drum kit": {
+      "impressions": 8,
+      "clicks": 0,
+      "position": 7.125,
+      "ctr": 0
+    },
+    "matt garstka drum set": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 6,
+      "ctr": 0
+    },
+    "matt garstka drum setup": {
+      "impressions": 5,
+      "clicks": 0,
+      "position": 8.8,
+      "ctr": 0
+    },
+    "matt greiner": {
+      "impressions": 10,
+      "clicks": 0,
+      "position": 15.5,
+      "ctr": 0
+    },
+    "matt greiner drum kit": {
+      "impressions": 3,
+      "clicks": 0,
+      "position": 5,
+      "ctr": 0
+    },
+    "matt greiner drum set": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 6,
+      "ctr": 0
+    },
+    "matt greiner drummer": {
+      "impressions": 3,
+      "clicks": 0,
+      "position": 17,
+      "ctr": 0
+    },
+    "matt greiner drums": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 12,
+      "ctr": 0
+    },
+    "matt griner": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 26,
+      "ctr": 0
+    },
+    "matt halpern": {
+      "impressions": 36,
+      "clicks": 0,
+      "position": 10.222222222222221,
+      "ctr": 0
+    },
+    "matt halpern band": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 10,
+      "ctr": 0
+    },
+    "matt halpern drum kit": {
+      "impressions": 2,
+      "clicks": 0,
+      "position": 7.5,
+      "ctr": 0
+    },
+    "matt halpern drummer": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 12,
+      "ctr": 0
+    },
+    "matt halpern height": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 19,
+      "ctr": 0
+    },
+    "matt halpern periphery": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 14,
+      "ctr": 0
+    },
+    "matt periphery": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 12,
+      "ctr": 0
+    },
+    "mayhem drummer": {
+      "impressions": 19,
+      "clicks": 0,
+      "position": 9.631578947368421,
+      "ctr": 0
+    },
+    "mayhem hellhammer": {
+      "impressions": 3,
+      "clicks": 0,
+      "position": 10.333333333333334,
+      "ctr": 0
+    },
+    "megadeth nick menza": {
+      "impressions": 3,
+      "clicks": 0,
+      "position": 12,
+      "ctr": 0
+    },
+    "menza nick": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 13,
+      "ctr": 0
+    },
+    "metaiforge": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 5,
+      "ctr": 0
+    },
+    "metal": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 11,
+      "ctr": 0
+    },
+    "metal cymbals": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 26,
+      "ctr": 0
+    },
+    "metal drum": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 25,
+      "ctr": 0
+    },
+    "metal drum kit": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 27,
+      "ctr": 0
+    },
+    "metal drum kits": {
+      "impressions": 7,
+      "clicks": 0,
+      "position": 35.285714285714285,
+      "ctr": 0
+    },
+    "metal drum machine": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 45,
+      "ctr": 0
+    },
+    "metal drum pack": {
+      "impressions": 4,
+      "clicks": 0,
+      "position": 45.75,
+      "ctr": 0
+    },
+    "metal drum set": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 35,
+      "ctr": 0
+    },
+    "metal drummer": {
+      "impressions": 4,
+      "clicks": 0,
+      "position": 20,
+      "ctr": 0
+    },
+    "metal drummers": {
+      "impressions": 2,
+      "clicks": 0,
+      "position": 21.5,
+      "ctr": 0
+    },
+    "metal drums": {
+      "impressions": 4,
+      "clicks": 0,
+      "position": 45.25,
+      "ctr": 0
+    },
+    "metal snare drums": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 50,
+      "ctr": 0
+    },
+    "metalcore": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 7,
+      "ctr": 0
+    },
+    "metalcore drum kit": {
+      "impressions": 4,
+      "clicks": 0,
+      "position": 9,
+      "ctr": 0
+    },
+    "metalforge": {
+      "impressions": 270,
+      "clicks": 0,
+      "position": 6.003703703703704,
+      "ctr": 0
+    },
+    "metallic drums": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 46,
+      "ctr": 0
+    },
+    "mike portnoy drum kit": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 9,
+      "ctr": 0
+    },
+    "mike portnoy drum kits": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 8,
+      "ctr": 0
+    },
+    "mike portnoy drum set": {
+      "impressions": 3,
+      "clicks": 0,
+      "position": 15.333333333333334,
+      "ctr": 0
+    },
+    "mike portnoy kit": {
+      "impressions": 2,
+      "clicks": 0,
+      "position": 17.5,
+      "ctr": 0
+    },
+    "mike portnoy winery dogs kit": {
+      "impressions": 2,
+      "clicks": 0,
+      "position": 10,
+      "ctr": 0
+    },
+    "mikkey dee drum kit": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 6,
+      "ctr": 0
+    },
+    "mikkey dee drum set": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 7,
+      "ctr": 0
+    },
+    "mikkey dee drum setup": {
+      "impressions": 3,
+      "clicks": 0,
+      "position": 6,
+      "ctr": 0
+    },
+    "mikkey dee drummer": {
+      "impressions": 3,
+      "clicks": 0,
+      "position": 14.333333333333334,
+      "ctr": 0
+    },
+    "mikkey dee drums": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 6,
+      "ctr": 0
+    },
+    "mikkey dee längd": {
+      "impressions": 2,
+      "clicks": 0,
+      "position": 49.5,
+      "ctr": 0
+    },
+    "morgan agren": {
+      "impressions": 3,
+      "clicks": 0,
+      "position": 42.333333333333336,
+      "ctr": 0
+    },
+    "most expensive drum": {
+      "impressions": 4,
+      "clicks": 0,
+      "position": 9.5,
+      "ctr": 0
+    },
+    "most expensive drum set": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 38,
+      "ctr": 0
+    },
+    "most expensive drums": {
+      "impressions": 3,
+      "clicks": 0,
+      "position": 8,
+      "ctr": 0
+    },
+    "most influential metal drummers": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 15,
+      "ctr": 0
+    },
+    "motorhead drummer mikkey dee": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 26,
+      "ctr": 0
+    },
+    "najszybszy": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 4,
+      "ctr": 0
+    },
+    "nick augusto": {
+      "impressions": 9,
+      "clicks": 0,
+      "position": 9.777777777777779,
+      "ctr": 0
+    },
+    "nick menza": {
+      "impressions": 12,
+      "clicks": 0,
+      "position": 18.333333333333332,
+      "ctr": 0
+    },
+    "nick menza drum": {
+      "impressions": 2,
+      "clicks": 0,
+      "position": 11,
+      "ctr": 0
+    },
+    "nick menza drum set": {
+      "impressions": 6,
+      "clicks": 0,
+      "position": 7.166666666666667,
+      "ctr": 0
+    },
+    "nick menza drum setup": {
+      "impressions": 2,
+      "clicks": 0,
+      "position": 4.5,
+      "ctr": 0
+    },
+    "nick menza drummer": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 12,
+      "ctr": 0
+    },
+    "nick menza height": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 34,
+      "ctr": 0
+    },
+    "nick menza megadeth": {
+      "impressions": 4,
+      "clicks": 0,
+      "position": 12,
+      "ctr": 0
+    },
+    "nicko mcbrain vs lars ulrich": {
+      "impressions": 2,
+      "clicks": 0,
+      "position": 10,
+      "ctr": 0
+    },
+    "nile george kollias": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 68,
+      "ctr": 0
+    },
+    "nwoahm bands": {
+      "impressions": 4,
+      "clicks": 0,
+      "position": 7.25,
+      "ctr": 0
+    },
+    "painkiller": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 11,
+      "ctr": 0
+    },
+    "painkiller bpm": {
+      "impressions": 16,
+      "clicks": 0,
+      "position": 8.6875,
+      "ctr": 0
+    },
+    "painkiller bpm judas priest": {
+      "impressions": 2,
+      "clicks": 0,
+      "position": 7,
+      "ctr": 0
+    },
+    "painkiller judas priest bpm": {
+      "impressions": 6,
+      "clicks": 0,
+      "position": 8.5,
+      "ctr": 0
+    },
+    "painkiller tempo": {
+      "impressions": 7,
+      "clicks": 0,
+      "position": 5,
+      "ctr": 0
+    },
+    "paul bostaph vs dave lombardo": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 10,
+      "ctr": 0
+    },
+    "paul mazurkiewicz drum kit": {
+      "impressions": 2,
+      "clicks": 0,
+      "position": 10.5,
+      "ctr": 0
+    },
+    "pearl joey jordison drum kit": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 17,
+      "ctr": 0
+    },
+    "pearl joey jordison signature snare drum": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 16,
+      "ctr": 0
+    },
+    "pearl joey jordison snare": {
+      "impressions": 2,
+      "clicks": 0,
+      "position": 32.5,
+      "ctr": 0
+    },
+    "pearl masterworks joey jordison": {
+      "impressions": 2,
+      "clicks": 0,
+      "position": 9,
+      "ctr": 0
+    },
+    "pearl reference": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 37,
+      "ctr": 0
+    },
+    "pearl reference drums": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 48,
+      "ctr": 0
+    },
+    "pearl reference series": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 24,
+      "ctr": 0
+    },
+    "periphery drummer": {
+      "impressions": 8,
+      "clicks": 0,
+      "position": 8.875,
+      "ctr": 0
+    },
+    "pete sandoval drums": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 39,
+      "ctr": 0
+    },
+    "power metal bpm": {
+      "impressions": 2,
+      "clicks": 0,
+      "position": 9.5,
+      "ctr": 0
+    },
+    "prog metal drum kit": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 8,
+      "ctr": 0
+    },
+    "ray luzier cymbal setup": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 20,
+      "ctr": 0
+    },
+    "raymond herrera": {
+      "impressions": 38,
+      "clicks": 0,
+      "position": 13.105263157894736,
+      "ctr": 0
+    },
+    "raymond herrera drummer": {
+      "impressions": 2,
+      "clicks": 0,
+      "position": 15.5,
+      "ctr": 0
+    },
+    "scott travis drum set": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 7,
+      "ctr": 0
+    },
+    "scott travis painkiller": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 1,
+      "ctr": 0
+    },
+    "shannon drummer": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 17,
+      "ctr": 0
+    },
+    "shannon larkin": {
+      "impressions": 6,
+      "clicks": 0,
+      "position": 17,
+      "ctr": 0
+    },
+    "shannon larkin drum kit": {
+      "impressions": 4,
+      "clicks": 0,
+      "position": 1,
+      "ctr": 0
+    },
+    "shannon larkin drummer": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 14,
+      "ctr": 0
+    },
+    "shannon larkin drums": {
+      "impressions": 4,
+      "clicks": 0,
+      "position": 11.75,
+      "ctr": 0
+    },
+    "si": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 4,
+      "ctr": 0
+    },
+    "single stroke": {
+      "impressions": 2,
+      "clicks": 0,
+      "position": 28,
+      "ctr": 0
+    },
+    "single stroke rolls": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 20,
+      "ctr": 0
+    },
+    "slipknot drum set": {
+      "impressions": 8,
+      "clicks": 0,
+      "position": 6.375,
+      "ctr": 0
+    },
+    "slipknot drummer drum set": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 12,
+      "ctr": 0
+    },
+    "sludge drum": {
+      "impressions": 5,
+      "clicks": 0,
+      "position": 7.4,
+      "ctr": 0
+    },
+    "snare drummers": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 32,
+      "ctr": 0
+    },
+    "soilwork": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 7,
+      "ctr": 0
+    },
+    "sound of muzak time signature": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 7,
+      "ctr": 0
+    },
+    "technical death metal": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 1,
+      "ctr": 0
+    },
+    "the sound of muzak time signature": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 8,
+      "ctr": 0
+    },
+    "thrash metal drums": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 23,
+      "ctr": 0
+    },
+    "tomas haake cymbal setup": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 10,
+      "ctr": 0
+    },
+    "tomas haake drum setup": {
+      "impressions": 2,
+      "clicks": 0,
+      "position": 10.5,
+      "ctr": 0
+    },
+    "tool drummer": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 3,
+      "ctr": 0
+    },
+    "tool drummer drum kit": {
+      "impressions": 3,
+      "clicks": 0,
+      "position": 12,
+      "ctr": 0
+    },
+    "tool drummer drum set": {
+      "impressions": 3,
+      "clicks": 0,
+      "position": 9.333333333333334,
+      "ctr": 0
+    },
+    "tools drummer drum set": {
+      "impressions": 8,
+      "clicks": 0,
+      "position": 7.75,
+      "ctr": 0
+    },
+    "top 10 best metal drummers": {
+      "impressions": 2,
+      "clicks": 0,
+      "position": 5.5,
+      "ctr": 0
+    },
+    "top 10 fastest drummers": {
+      "impressions": 2,
+      "clicks": 0,
+      "position": 5.5,
+      "ctr": 0
+    },
+    "top 10 metal drummers": {
+      "impressions": 2,
+      "clicks": 0,
+      "position": 5.5,
+      "ctr": 0
+    },
+    "top 10 metal drummers of all time": {
+      "impressions": 8,
+      "clicks": 0,
+      "position": 8,
+      "ctr": 0
+    },
+    "top 5 metal drummers of all time": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 8,
+      "ctr": 0
+    },
+    "top metal drummers": {
+      "impressions": 2,
+      "clicks": 0,
+      "position": 11,
+      "ctr": 0
+    },
+    "top metal drummers of all time": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 9,
+      "ctr": 0
+    },
+    "top session drummers": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 24,
+      "ctr": 0
+    },
+    "triggered drums": {
+      "impressions": 2,
+      "clicks": 0,
+      "position": 17,
+      "ctr": 0
+    },
+    "trivium nick augusto": {
+      "impressions": 2,
+      "clicks": 0,
+      "position": 6,
+      "ctr": 0
+    },
+    "unsainted bpm": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 9,
+      "ctr": 0
+    },
+    "vinnie paul cymbals": {
+      "impressions": 4,
+      "clicks": 0,
+      "position": 8.5,
+      "ctr": 0
+    },
+    "walk bpm pantera": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 11,
+      "ctr": 0
+    },
+    "war pigs black sabbath bpm": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 11,
+      "ctr": 0
+    },
+    "what bpm is the song": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 3,
+      "ctr": 0
+    },
+    "what cymbals did joey jordison use": {
+      "impressions": 6,
+      "clicks": 0,
+      "position": 10.666666666666666,
+      "ctr": 0
+    },
+    "what cymbals does danny carey use": {
+      "impressions": 4,
+      "clicks": 0,
+      "position": 8.25,
+      "ctr": 0
+    },
+    "what cymbals does lars ulrich use": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 10,
+      "ctr": 0
+    },
+    "what cymbals does mario duplantier use": {
+      "impressions": 5,
+      "clicks": 0,
+      "position": 2.8,
+      "ctr": 0
+    },
+    "what drum kit did joey jordison use": {
+      "impressions": 4,
+      "clicks": 0,
+      "position": 8.75,
+      "ctr": 0
+    },
+    "what drum kit does danny carey use": {
+      "impressions": 2,
+      "clicks": 0,
+      "position": 5.5,
+      "ctr": 0
+    },
+    "what drums did joey jordison use": {
+      "impressions": 4,
+      "clicks": 0,
+      "position": 9.25,
+      "ctr": 0
+    },
+    "what drums does danny carey use": {
+      "impressions": 3,
+      "clicks": 0,
+      "position": 11.333333333333334,
+      "ctr": 0
+    },
+    "what drums does eloy casagrande use": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 8,
+      "ctr": 0
+    },
+    "what drums does joey jordison use": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 6,
+      "ctr": 0
+    },
+    "what drums does slipknot use": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 7,
+      "ctr": 0
+    },
+    "what gear does he use": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 33,
+      "ctr": 0
+    },
+    "what pedals does mario duplantier use": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 6,
+      "ctr": 0
+    },
+    "what snare does danny carey use": {
+      "impressions": 4,
+      "clicks": 0,
+      "position": 12.75,
+      "ctr": 0
+    },
+    "what snare does eloy casagrande use": {
+      "impressions": 4,
+      "clicks": 0,
+      "position": 10.25,
+      "ctr": 0
+    },
+    "what sticks does eloy casagrande use": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 36,
+      "ctr": 0
+    },
+    "what sticks does mario duplantier use": {
+      "impressions": 3,
+      "clicks": 0,
+      "position": 5.666666666666667,
+      "ctr": 0
+    },
+    "who are the best metal drummers of all time": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 7,
+      "ctr": 0
+    },
+    "who is the best metal drummer": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 11,
+      "ctr": 0
+    },
+    "who is the best metal drummer of all time": {
+      "impressions": 4,
+      "clicks": 0,
+      "position": 7,
+      "ctr": 0
+    },
+    "who is the drummer for limp bizkit": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 26,
+      "ctr": 0
+    },
+    "who played drums on hail to the king": {
+      "impressions": 10,
+      "clicks": 0,
+      "position": 7.5,
+      "ctr": 0
+    },
+    "who was the drummer for hail to the king": {
+      "impressions": 2,
+      "clicks": 0,
+      "position": 8,
+      "ctr": 0
+    },
+    "who was the drummer on hail to the king": {
+      "impressions": 7,
+      "clicks": 0,
+      "position": 6.714285714285714,
+      "ctr": 0
+    },
+    "да": {
+      "impressions": 1,
+      "clicks": 0,
+      "position": 8,
+      "ctr": 0
+    }
+  }
+}

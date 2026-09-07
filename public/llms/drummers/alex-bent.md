@@ -27,6 +27,12 @@ Alex Bent's drum kit and gear setup. Alex Bent is a professional metal drummer b
 | Signature snare | Pearl Reference 14x5" Brass |
 | Sticks | Vic Firth American Classic 5B |
 
+## Kit Overview
+
+Alex Bent plays a Pearl Reference Pure Series drum kit — a setup built for the technical precision and cross-genre versatility he brought to Trivium from 2017 to 2024, after cutting his teeth in technical death metal outfits Arkaik and Brain Drill. The kit powered three Trivium albums, "The Sin and the Sentence" (2017), "What the Dead Men Say" (2020), and "In the Court of the Dragon" (2021), and continues to serve his work with Eric Peterson's Dragonlord.
+
+The foundation of the Alex Bent drum kit is his Pearl Reference 14x5" Brass snare, delivering the bright, cutting attack that drives Trivium's thrash-meets-technical-death-metal sound. Zildjian K Custom Hybrid cymbals define the setup: 14" K Custom Hybrid Hi-Hats for crisp articulation, 18" and 19" K Custom Hybrid Crashes for dark, trashy accents, and a 21" K Custom Hybrid Ride for a dry, complex wash, paired with an 18" A Custom China for aggressive punctuation. Bent's rapid double bass work is powered by Axis A Longboard double pedals, mounted on a Pearl D-3000 throne, with Vic Firth American Classic 5B sticks and Remo heads rounding out a rig built for speed and technicality.
+
 ## Biography
 
 Alex Bent, born January 31, 1993, in Oakland, California, is a versatile drummer known for his technical proficiency across multiple metal subgenres. He joined Trivium in 2017, replacing Paul Wandtke, and recorded three critically acclaimed albums with the band: "The Sin and the Sentence" (2017), "What the Dead Men Say" (2020), and "In the Court of the Dragon" (2021). Before Trivium, he played with technical death metal bands Arkaik and Brain Drill, and filled in for Gene Hoglan on Testament tours. He also drums for Eric Peterson's Dragonlord. Self-taught from age 11, Bent competed in Guitar Center Drum Off competitions and brings a unique blend of death metal technicality and thrash metal power to his playing.

@@ -25,6 +25,12 @@ Nick Barker's drum kit and gear setup. Nick Barker is a professional metal drumm
 | Primary brand | Sonor |
 | Drum kit | Sonor |
 
+## Kit Overview
+
+Nick Barker is an official Sonor artist, endorsed by the German drum manufacturer across his touring and session career in extreme metal. Sonor's own artist page credits him for his work with Cradle of Filth (1993–1999) and Dimmu Borgir (1999–2004), alongside his ongoing role in the grindcore supergroup Lock Up and session credits for Testament, Old Man's Child, and Exodus, among others.
+
+Sonor's artist materials do not publish a specific kit model, snare spec, cymbal brand, or drumhead endorsement for Barker, so this profile omits those fields rather than guessing — a Nick Barker drum kit breakdown at the same component-level detail as many of his peers isn't independently documented as of this writing.
+
 ## Biography
 
 Nicholas Howard Barker (born April 25, 1973, in Chesterfield, Derbyshire, England) is a British extreme metal drummer. He joined Cradle of Filth in 1993, recording The Principle of Evil Made Flesh (1994), Vempire or Dark Faerytales in Phallustein (1996), Dusk... and Her Embrace (1996), Cruelty and the Beast (1998), and From the Cradle to Enslave (1999) before departing in 1999. He then joined Norwegian symphonic black metal band Dimmu Borgir, recording Puritanical Euphoric Misanthropia (2001) and Death Cult Armageddon (2003) during his 1999–2004 tenure. In 1998 he co-founded the grindcore supergroup Lock Up with Napalm Death's Shane Embury, recording Pleasures Pave Sewers (1999), Hate Breeds Suffering (2002), and Demonization (2017) before leaving the band in 2020. He has also done session and touring work for Testament, Old Man's Child, Exodus, Brujeria, Gorgoroth/God Seed, Anaal Nathrakh, and Benediction.

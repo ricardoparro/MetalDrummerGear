@@ -26,6 +26,12 @@ Alex Rüdinger's drum kit and gear setup. Alex Rüdinger is a professional metal
 | Drum kit | Tama Starclassic Performer B/B |
 | Signature snare | Tama STARPHONIC Brass 14x6" (or SLP Black Brass alternate) |
 
+## Kit Overview
+
+Alex Rüdinger is an official Tama Drums artist, playing a Tama Starclassic Performer B/B kit — Tama's own artist page lists a 20x16" bass drum and 14x6" STARPHONIC Brass snare (with an SLP Black Brass snare as an alternate), 8x7" and 10x7" rack toms, and 14x12" and 16x14" floor toms, driven by Tama Speed Cobra bass drum pedals and hi-hat stands on Tama Roadpro stands and a 1st Chair Ergo-Rider throne.
+
+Rüdinger is also a D'Addario/Evans artist: Evans' own artist page credits him with a UV EQ4 Coated bass batter, G2 Clear tom batters, an HD Dry snare batter with a Snare Side 300 reso and PureSound Super 30 snare wires, and a G1 Clear/EQ3-NP Black bass reso combination. He is additionally a longtime Meinl Cymbals artist, endorsing Meinl's Byzance and MB20 cymbal lines, though Meinl does not publish a component-level spec sheet as detailed as Tama's and Evans', so this profile omits a specific cymbal-by-cymbal breakdown rather than guessing model sizes.
+
 ## Biography
 
 Alex Rüdinger (born November 18, 1991, in Frederick, Maryland) is an American drummer known for his technical, high-precision playing across progressive and technical death metal. He received his first drum kit at age 12 and began his professional career at 18, filling in for Threat Signal and appearing on the band's self-titled album (2011) before departing in late 2011. He went on to join The HAARP Machine (2012–2013) and technical death metal band The Faceless (2013–2014), and has been a member of the instrumental project Conquering Dystopia since 2013 and progressive band 7 Horns 7 Eyes since 2018. He also drummed in the progressive metalcore band Good Tiger from 2015 to 2018. Beyond his studio bands, Rüdinger has done extensive session and touring work, including studio credits with Whitechapel (Kin, 2021), Nonvector (Ashen Time, 2024), Cognizance, Monuments, Revocation, and Intronaut, and live touring with Whitechapel (2019–2021) and Light the Torch (2021). In 2025 he became the touring/studio drummer for Trivium.

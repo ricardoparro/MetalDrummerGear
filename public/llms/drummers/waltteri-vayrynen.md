@@ -26,6 +26,12 @@ Waltteri Väyrynen's drum kit and gear setup. Waltteri Väyrynen is a profession
 | Drum kit | Pearl (endorsement confirmed via Pearl's own artist roster and corroborated by Antelope Audio's 2020 studio-session writeup; specific kit model/shell sizes not independently documented — omitted rather than guessed) |
 | Sticks | Wincent W-5BXL |
 
+## Kit Overview
+
+Waltteri Väyrynen is an endorsed Pearl Drums artist — the relationship is confirmed via Pearl's own artist roster, though that page blocks automated access, so specific shell sizes and finish are omitted rather than guessed; Antelope Audio's writeup of his 2020 studio session at Orgone Studios independently corroborates the Pearl (and Sabian) gear. His Sabian cymbal endorsement is documented on Sabian's own artist page, which names a 22" HH Power Bell Ride as his favourite piece in the setup — the rest of his cymbal lineup isn't itemized there, so only that confirmed piece is listed here.
+
+He plays Wincent's W-5BXL signature stick model, announced through Wincent's artist roster in December 2022.
+
 ## Biography
 
 Waltteri Väyrynen is a Finnish drummer born July 5, 1994, in Puolanka, Finland, now based in Helsinki. He first appeared as a session drummer for British gothic doom metal band Paradise Lost in 2015, became an official member in 2016, and recorded the albums Medusa (2017) and Obsidian (2020) with the band before departing in September 2022. In 2020, while still in Paradise Lost, he joined Bodom After Midnight — the project former Children of Bodom frontman Alexi Laiho formed after that band's 2019 split — tracking material later released posthumously as the Paint the Sky with Blood EP (2021) following Laiho's death in December 2020. Väyrynen has also drummed for Finnish death metal band Abhorrence since 2016 and performed live with Bloodbath. In September 2022 he joined Swedish progressive metal band Opeth, replacing longtime drummer Martin Axenrot, and recorded his first album with the band, The Last Will and Testament (2024). His stated influences include Dirk Verbeuren, Kai Hahto, and Daniel Erlandsson.

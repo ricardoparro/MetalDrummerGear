@@ -151,6 +151,7 @@ const BASE = 'https://metalforge.io';
 // hand-added and carried forward at its original anchor position.
 const KNOWN_HEADERS = new Set([
   'Quick Facts',
+  'Kit Overview',
   'Biography',
   'Band History',
   'Gear',
@@ -341,6 +342,12 @@ function buildMarkdown(drummer) {
   if (drummer.gear && drummer.gear.snare) quickFacts += `| Signature snare | ${drummer.gear.snare} |\n`;
   if (drummer.gear && drummer.gear.sticks) quickFacts += `| Sticks | ${drummer.gear.sticks} |\n`;
   sections.push({ header: 'Quick Facts', body: quickFacts });
+
+  // --- Kit Overview (declarative prose for "<drummer> drum kit" queries) -------
+  // Omit the section entirely when there's no kitOverview prose — never fabricate.
+  if (drummer.kitOverview) {
+    sections.push({ header: 'Kit Overview', body: drummer.kitOverview });
+  }
 
   // --- Biography ---------------------------------------------------------------
   let bio = `${drummer.bio}\n`;

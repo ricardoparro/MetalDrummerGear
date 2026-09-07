@@ -27,6 +27,12 @@ Art Cruz's drum kit and gear setup. Art Cruz is a professional metal drummer bes
 | Signature snare | Ludwig 14x6.5" Black Beauty |
 | Sticks | Vic Firth American Classic 5B |
 
+## Kit Overview
+
+Art Cruz plays a Ludwig Drums kit — a setup chosen to deliver the explosive dynamics and precise double bass work he brought to Lamb of God after joining in 2019, following his time with Winds of Plague and Prong. The kit anchors his aggressive, hard-hitting groove metal style across Lamb of God's self-titled 2020 album and 2022's "Omens."
+
+The centerpiece of the Art Cruz drum kit is his Ludwig 14x6.5" Black Beauty snare, delivering the sharp, cutting crack heard throughout Lamb of God's most recent releases. Zildjian cymbals dominate the setup: 14" A Custom Mastersound Hi-Hats for tight articulation, an 18" A Custom EFX and 17" K China with EFX holes for trashy texture, 18" A Custom Medium and 19" A Custom Projection Crashes plus a 20" A Custom Crash for varied accents, a 21" A Zildjian Mega Bell Ride for cutting rhythmic drive, and a 19" A Ultra Hammered China alongside 9" FX Trash Splashes and an FX Blast Bell for extra color. Cruz drives his relentless double bass patterns with a Trick Pro 1-V double pedal mounted on Gibraltar hardware, seated on a Ludwig Atlas throne, and keeps time with Vic Firth American Classic 5B sticks and Evans heads.
+
 ## Biography
 
 Art Cruz, born May 27, 1988, in Downey, California, is the current drummer of Lamb of God. He joined the band in 2019, replacing Chris Adler, after first filling in on their North American tour supporting Slayer's farewell tour in 2018. Cruz rose to prominence as one of the genre's top touring drummers, previously playing with Winds of Plague and Prong. His first studio album with Lamb of God was their 2020 self-titled release, followed by "Omens" in 2022. Known for his aggressive style, explosive dynamics, and precise double bass work, Cruz has reenergized Lamb of God's overall sound while honoring the band's legacy.

@@ -27,6 +27,14 @@ Paul Bostaph's drum kit and gear setup. Paul Bostaph is a professional metal dru
 | Signature snare | Pearl Masters Steel 14x6.5" |
 | Sticks | Vater Power 5B |
 
+## Kit Overview
+
+Paul Bostaph's setup during Slayer's final chapter centered on a Pearl Masters Maple Complete shell pack — an all-maple, double-bass configuration producer Terry Date brought in for 2015's Repentless, the band's twelfth and final studio album and the first without guitarist Jeff Hanneman. The Paul Bostaph drum set anchors on a 14x6.5" Pearl Masters steel snare tuned for a sharp, cutting crack that projects through Kerry King and Gary Holt's dense guitar work, driven by a Pearl Eliminator double pedal built for the machine-like consistency Bostaph brought to Slayer's catalog across two separate tenures.
+
+Sabian's AAX Series cymbals rounded out the Repentless-era rig — one of only two points in Bostaph's career where his cymbal choice broke from the Paiste cymbals he otherwise favored: 14" AAX Stage Hi-Hats, 17" and 19" AAX X-Plosion Crashes, a 21" AAX Stage Ride, and an 18" AAXtreme China for aggressive punctuation. Bostaph carried this Pearl/Sabian configuration through Slayer's Final World Tour, including the band's last-ever show at the Forum in Los Angeles on November 30, 2019.
+
+Earlier eras document a gear journey through nearly every major drum brand: a Tama Artstar II and Paiste RUDE cymbals on his Slayer debut Divine Intervention (1994); a DW Collector's Series Maple kit and Zildjian A Custom cymbals on Diabolus in Musica (1998); and a Tama Starclassic Maple kit with Paiste 2002 cymbals on God Hates Us All (2001), recorded during his stints with Forbidden, Testament, and Exodus. Vater Power 5B sticks and Remo heads have remained constants across every configuration, chosen for the durability his relentless double-bass attack demands.
+
 ## Biography
 
 Paul Bostaph (born March 4, 1964, in San Francisco, California) is an American drummer and Slayer's longest-serving drummer, holding the drum chair from 1992 to 2001 and again from 2013 until the band's farewell tour ended in 2019. Before Slayer he cut his teeth in the Bay Area thrash scene with Forbidden, and he has also recorded and toured with Testament and Exodus.

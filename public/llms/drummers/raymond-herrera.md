@@ -27,6 +27,12 @@ Raymond Herrera's drum kit and gear setup. Raymond Herrera is a professional met
 | Signature snare | Tama 14x6.5" Brass |
 | Sticks | Pro-Mark 5A Oak Nylon Tip |
 
+## Kit Overview
+
+Raymond Herrera plays a Tama Starclassic drum kit — the mechanically precise setup behind his innovative "stop-go" double bass technique that defined Fear Factory's industrial metal sound across Soul of a New Machine (1992), Demanufacture (1995), and Obsolete (1998). Rather than sustaining a blast-beat style double bass, Herrera's staccato, machine-like patterns became a signature element of the band's sound, one he carried into his later work with Brujeria and Arkaea.
+
+The core of the Raymond Herrera drum kit is his Tama 14x6.5" Brass snare, delivering the sharp, industrial crack that cuts through Fear Factory's mechanized riffing. Zildjian A Custom and Z Custom cymbals complete the setup: 14" A Custom Hi-Hats for tight articulation, 18" and 19" A Custom Crashes for punchy accents, a 21" Z Custom Mega Bell Ride for a dark, cutting wash, and an 18" A Custom China for aggressive texture. Herrera's precise, stop-go double bass patterns are driven by a DW 5000 Series double pedal, mounted on a Tama Power Tower Custom rack and Tama Wide Rider throne, with Pro-Mark 5A Oak Nylon Tip sticks and Attack Drumheads rounding out the rig.
+
 ## Biography
 
 Raymond Herrera is an American drummer best known as the founding member and former drummer of industrial metal band Fear Factory. His innovative "stop-go" double bass technique, rather than the traditional sustained blast approach, became a signature element of Fear Factory's mechanical, precise sound. He played on iconic albums like Soul of a New Machine (1992), Demanufacture (1995), and Obsolete (1998). Beyond drumming, Herrera has composed music for numerous video games including Tom Clancy's Ghost Recon Advanced Warfighter and Scarface: The World Is Yours. He also drummed for Brujeria and later formed Arkaea.

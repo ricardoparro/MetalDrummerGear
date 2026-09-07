@@ -27,6 +27,12 @@ Jimmy DeGrasso's drum kit and gear setup. Jimmy DeGrasso is a professional metal
 | Signature snare | Pearl JD1455 Jimmy DeGrasso Signature 14x5.5" Hammered Brass |
 | Sticks | Promark |
 
+## Kit Overview
+
+Jimmy DeGrasso's Megadeth-era rig centered on a Pearl drum kit paired with his own Pearl JD1455 signature snare — a 14x5.5" hammered brass shell with gold-plated hardware that Pearl unveiled at the 2008 NAMM Show, built for the cut and authority loud, amplified thrash metal demands. Sabian cymbals rounded out the setup, a relationship DeGrasso has maintained across his touring career with Megadeth, Alice Cooper, and other hard rock acts.
+
+Promark drumsticks and Evans drumheads completed the rig DeGrasso used through Megadeth's Risk (1999) and The World Needs a Hero (2001) sessions and the Rude Awakening (2002) live recording — his highest-profile tenure after joining the band with only days of notice to learn its full back catalogue.
+
 ## Biography
 
 Jimmy DeGrasso (born March 16, 1963, in Bethlehem, Pennsylvania) is an American drummer best known for his 1998–2002 tenure in Megadeth, recording Risk (1999), The World Needs a Hero (2001), and the band's first live release, Rude Awakening (2002). He relocated to Los Angeles in the 1980s and played on pre-production demos for Ozzy Osbourne's The Ultimate Sin, though he was replaced by Randy Castillo before recording began. He went on to touring/recording stints with Y&T, Suicidal Tendencies, and Alice Cooper, and later drummed for Dokken, Black Star Riders, and Ratt.

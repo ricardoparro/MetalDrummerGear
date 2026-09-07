@@ -17,6 +17,7 @@ permissions:
   contents: write        # merge + delete branch + update-branch
   pull-requests: write   # merge PRs, comment
   issues: write          # linked-issue auto-close on merge
+  checks: read           # CI gate: read check runs on the PR head SHA (merge.sh GATE_CHECKS)
 
 # Never run two mergers at once — they'd race on the same PRs.
 concurrency:

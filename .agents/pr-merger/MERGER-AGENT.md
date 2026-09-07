@@ -14,7 +14,23 @@ Repo: `ricardoparro/MetalDrummerGear`  ·  Base branch: `main`
 - **Scope: ANY open PR to `main`** — not just `ai-fix` bot PRs. Human-authored PRs are in
   scope too, as long as they pass every gate below.
 - **No human approval required.** A PR merges on green CI alone. (There is no
-  required-reviews rule on `main`; the only hard gate is the required status check.)
+  required-reviews rule on `main`, and — as of 2026-09 — **no required status check
+  either**, so `mergeStateStatus` is CLEAN seconds after a PR opens.)
+- **CI gate enforced by the merger itself (2026-09-07).** Because nothing is required
+  at the GitHub level, `merge.sh` keeps its own list `GATE_CHECKS` of check-run names
+  (currently `Bundle budget + homepage request graph` from `perf-budget.yml`) and, right
+  before every merge, reads the check runs on the PR's head SHA:
+  - gate check **pending** (or not yet created and the commit is < 3 min old) → defer the
+    PR to the next run (the gate's own `check_suite completed` event re-triggers us);
+  - gate check **absent** on an older commit → not applicable (the workflow's `paths:`
+    filter didn't match) → merge;
+  - gate check **failed / cancelled / timed out / stuck > 45 min** → **HOLD**: comment once
+    (`<!-- pr-merger-gate -->`), add `needs-human` to the linked issue, leave the PR open.
+    Never reap a gate-held Roadie PR — a perf regression is not something to blindly
+    re-implement from scratch.
+  Why: between 2026-07-13 and 2026-09-07 the merger squash-merged each Roadie PR ~20 s
+  after it opened, the branch vanished, and the perf gate died with 0 jobs — 1 success in
+  ~830 runs, and `main` drifted over its bundle budget unnoticed.
 - To hold a PR back from auto-merge: mark it **draft**, or add a blocking label
   (`do-not-merge`, `hold`, `wip`, `blocked`, `human-founder`).
 

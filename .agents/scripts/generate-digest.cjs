@@ -207,12 +207,28 @@ function summariseIdx(snap) {
     earningWindow: snap.earningPages ? snap.earningPages.windowDays : null,
   };
 }
+// L4 thresholds + chronic detection come from the loop itself so the digest can
+// never disagree with the umbrella issue (check-performance.cjs guards its entry
+// point with require.main, so requiring it here runs nothing).
+const L4 = require('./check-performance.cjs');
 function summarisePerf(snap) {
   if (!snap || !snap.byUrl) return null;
   // Homepage key must match HOMEPAGE_URL in check-performance.cjs.
-  const home = snap.byUrl['https://metalforge.io/'];
+  const home = snap.byUrl[L4.HOMEPAGE_URL];
   if (!home) return null;
-  return { urls: Object.keys(snap.byUrl).length, homepageScore: home.performanceScore, homepageTbt: home.tbt };
+  const chronic = L4.detectChronic(snap.byUrl);   // worst-first
+  const worst = chronic[0] ? {
+    label: chronic[0].label,
+    score: chronic[0].curr.performanceScore,
+    lcp: chronic[0].curr.lcp,
+  } : null;
+  return {
+    urls: Object.keys(snap.byUrl).length,
+    homepageScore: home.performanceScore,
+    homepageTbt: home.tbt,
+    chronicCount: chronic.length,
+    worst,
+  };
 }
 function summariseReferral(snap) {
   if (!snap || !snap.domains) return null;
@@ -420,7 +436,10 @@ function buildMarkdown(gh, metrics, decisions) {
     }
     if (loops.l4) {
       const p = loops.l4prev;
-      lines.push(`| **L4 performance** (${loops.l4.urls} URLs, live site) | homepage ${loops.l4.homepageScore ?? '?'} perf · TBT ${loops.l4.homepageTbt != null ? Math.round(loops.l4.homepageTbt) : '?'}ms | score${dlt(loops.l4.homepageScore, p && p.homepageScore)} · TBT${dlt(loops.l4.homepageTbt, p && p.homepageTbt)}ms _(both ↓ = better)_ |`);
+      const w = loops.l4.worst;
+      const worstStr = w ? ` · **worst: ${w.label} — ${w.score ?? '?'} perf, LCP ${w.lcp != null ? (w.lcp / 1000).toFixed(1) : '?'}s**` : '';
+      const chronicStr = loops.l4.chronicCount ? ` · ${loops.l4.chronicCount}/${loops.l4.urls} URLs chronically slow (score < ${L4.SCORE_FLOOR} or LCP > ${L4.LCP_CEILING_MS / 1000}s)` : ' · no URL below the absolute bar';
+      lines.push(`| **L4 performance** (${loops.l4.urls} URLs, live site) | homepage ${loops.l4.homepageScore ?? '?'} perf · TBT ${loops.l4.homepageTbt != null ? Math.round(loops.l4.homepageTbt) : '?'}ms${worstStr}${chronicStr} | homepage score${dlt(loops.l4.homepageScore, p && p.homepageScore)} · TBT${dlt(loops.l4.homepageTbt, p && p.homepageTbt)}ms · chronic${dlt(loops.l4.chronicCount, p && p.chronicCount)} _(TBT/chronic ↓ = better)_ |`);
     }
     lines.push('');
     lines.push('> _L1/L3 are week-over-week and L4 is fortnight-over-fortnight, all from committed verifier snapshots; L2 is the weekly citation umbrella. Rising clicks / falling avg position / more indexed / higher perf score = the loops are working._');
@@ -570,7 +589,12 @@ function buildTelegramText(gh, metrics, fullUrl) {
         lines.push(`• L3 indexação: ${loops.l3.indexed}/${loops.l3.inspected} das páginas prioritárias${dlt(loops.l3.indexed, loops.l3prev && loops.l3prev.indexed)} — amostra top-${loops.l3.inspected}, sitemap tem ${loops.l3.sitemap} URLs`);
       }
     }
-    if (loops.l4) lines.push(`• L4: perf ${loops.l4.homepageScore ?? '?'}${dlt(loops.l4.homepageScore, loops.l4prev && loops.l4prev.homepageScore)} · TBT ${loops.l4.homepageTbt != null ? Math.round(loops.l4.homepageTbt) : '?'}ms`);
+    if (loops.l4) {
+      const w = loops.l4.worst;
+      const worstStr = w ? ` · pior página: ${w.label} ${w.score ?? '?'} / LCP ${w.lcp != null ? (w.lcp / 1000).toFixed(0) : '?'}s` : '';
+      const chronicStr = loops.l4.chronicCount ? ` · ${loops.l4.chronicCount}/${loops.l4.urls} páginas lentas${dlt(loops.l4.chronicCount, loops.l4prev && loops.l4prev.chronicCount)}` : ' · nenhuma página lenta';
+      lines.push(`• L4: homepage perf ${loops.l4.homepageScore ?? '?'}${dlt(loops.l4.homepageScore, loops.l4prev && loops.l4prev.homepageScore)} · TBT ${loops.l4.homepageTbt != null ? Math.round(loops.l4.homepageTbt) : '?'}ms${worstStr}${chronicStr}`);
+    }
     lines.push('');
   }
 

@@ -60,6 +60,22 @@ function findArrayLiterals(src) {
 const src = fs.readFileSync(SITEMAP_PATH, 'utf-8');
 const SLUG_ENTRY_RE = /'([a-z0-9]+(?:-[a-z0-9]+)*)'/g;
 
+// Explicit opt-out for arrays that are a deliberate SUBSET of the roster (a
+// demand gate, not a mirror): the comment block immediately preceding the
+// array must contain this marker. Added 2026-09-07 — the sitemap diet's
+// VS_DEMAND_DRUMMERS gate (PR #4867, 24 of 72 slugs by design) tripped this
+// check on every push for seven weeks; nothing was reading the red check.
+// The marker is a reviewable, greppable statement of intent, not a silencer:
+// a subset array WITHOUT it still fails, as it should.
+const INTENTIONAL_SUBSET_MARKER = 'sitemap-drift: intentional-subset';
+function precedingComment(source, index) {
+  // Text between the previous blank line and the array — i.e. the comment
+  // paragraph and declaration line that introduce it.
+  const before = source.slice(Math.max(0, index - 2000), index);
+  const paragraphStart = before.lastIndexOf('\n\n');
+  return paragraphStart >= 0 ? before.slice(paragraphStart) : before;
+}
+
 let failed = false;
 let checked = 0;
 
@@ -78,6 +94,10 @@ for (const { index, body } of findArrayLiterals(src)) {
 
   checked++;
   const lineNo = src.slice(0, index).split('\n').length;
+  if (precedingComment(src, index).includes(INTENTIONAL_SUBSET_MARKER)) {
+    console.log(`✓ api/sitemap.js:${lineNo}: drummer-slug array is a declared intentional subset (${entries.length} of ${canonicalCount}) — marker "${INTENTIONAL_SUBSET_MARKER}" present, skipped`);
+    continue;
+  }
   if (entries.length !== canonicalCount) {
     console.error(
       `✗ api/sitemap.js:${lineNo}: hardcoded drummer-slug array has ${entries.length} ` +

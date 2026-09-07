@@ -262,6 +262,9 @@ const drummerComparisons = generateAllDrummerComparisons(drummers);
 // stay in the sitemap. The other /vs/ pages REMAIN LIVE and reachable — they
 // are just no longer flagged to Google as index-worthy. Update this set from
 // GSC evidence, not intuition; removing a slug here is reversible.
+// sitemap-drift: intentional-subset — this is a demand gate, NOT a roster
+// mirror; scripts/check-sitemap-drift.mjs must not expect it to match the
+// full drummer roster.
 const VS_DEMAND_DRUMMERS = new Set([
   'joey-jordison', 'eloy-casagrande', 'mario-duplantier', 'bill-ward',
   'john-otto', 'shannon-larkin', 'matt-greiner', 'jay-weinberg',

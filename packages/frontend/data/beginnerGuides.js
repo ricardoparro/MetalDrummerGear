@@ -844,7 +844,7 @@ This guide is specifically designed for beginners with a total budget around $1,
             id: 'gene-hoglan',
             name: 'Gene Hoglan',
             band: 'Death / Testament / Dethklok',
-            signatureGear: 'Tama drums, Zildjian cymbals',
+            signatureGear: 'Pearl drums, Sabian cymbals',
             whyStudy: 'Technical death metal, groove, endurance',
             link: '/drummer/gene-hoglan'
           },
@@ -852,7 +852,7 @@ This guide is specifically designed for beginners with a total budget around $1,
             id: 'george-kollias',
             name: 'George Kollias',
             band: 'Nile',
-            signatureGear: 'Pearl drums, Meinl cymbals',
+            signatureGear: 'Pearl drums, Zildjian cymbals',
             whyStudy: 'Extreme speed, single pedal mastery',
             link: '/drummer/george-kollias'
           },
@@ -2777,7 +2777,7 @@ The strategy at this tier is to buy each piece at near-pro quality: a maple/birc
               price: '$299-349',
               type: 'Double Pedal',
               rating: 4.7,
-              description: 'The longboard speed favourite. A long footboard and fast chain drive built for sustained double-bass passages—George Kollias\'s pedal of choice.',
+              description: 'The longboard speed favourite. A long footboard and fast chain drive built for sustained double-bass passages—Tomas Haake\'s pedal of choice.',
               affiliateLinks: {
                 thomann: AFFILIATE_LINKS.thomann.tamaSpeedCobra,
                 sweetwater: AFFILIATE_LINKS.sweetwater.tamaSpeedCobra
@@ -3054,7 +3054,7 @@ The strategy at this tier is to buy each piece at near-pro quality: a maple/birc
             id: 'george-kollias',
             name: 'George Kollias',
             band: 'Nile',
-            signatureGear: 'Pearl Masterworks, Speed Cobra pedals, triggers',
+            signatureGear: 'Pearl Masterworks, Demon XR pedals, triggers',
             whyStudy: 'Where the $2000 double-bass build leads at the extreme end',
             link: '/drummer/george-kollias'
           },

@@ -60,7 +60,7 @@ import { STUDIES } from '../packages/frontend/data/studies/index.js';
 // Issue #4760 (songs epic #4758, phase 2/4): /songs hub + tempo/flagship/
 // drummer list pages — tempo tiers and drummer counts derive from the same
 // module the pages themselves read, so the sitemap can't drift out of sync.
-import { getTempoTiers, getDrummersWithSongCounts, getSongPageSlugs } from '../packages/frontend/data/metalSongsBpm.js';
+import { getTempoTiers, getDrummersWithSongCounts, getSongPageSlugs, getSongPageData } from '../packages/frontend/data/metalSongsBpm.js';
 // Issue #3661: source gear-history and sound-like-guide slugs from their
 // canonical data modules (same pattern as above) so the sitemap can never
 // drift out of sync with these two data files again.
@@ -417,6 +417,27 @@ for (const technique of getAllTechniques()) {
   });
 }
 
+// Issue #7152: /songs/<slug> pages — reuses getSongPageData, the exact same
+// data module + video field selection (song.video.youtubeId/title) the
+// api/meta/[...path].js /songs/<slug> VideoObject block reads. The songs
+// family shipped after #4771 and never got a video:video mapping here, so
+// every song page with a VideoObject was missing from the video sitemap —
+// this is what scripts/audit-video-seo.mjs (#4771) exists to catch.
+const songDrummerNameBySlug = {};
+for (const d of drummers) {
+  songDrummerNameBySlug[generateSlug(d.name)] = d.name;
+}
+const songVideoByLoc = {};
+for (const slug of getSongPageSlugs(Object.values(ALBUM_ARTICLES))) {
+  const song = getSongPageData(slug, Object.values(ALBUM_ARTICLES));
+  if (!song?.video?.youtubeId) continue;
+  songVideoByLoc[`/songs/${slug}`] = youtubeVideoEntry({
+    youtubeId: song.video.youtubeId,
+    title: song.video.title,
+    description: `${songDrummerNameBySlug[song.drummer] || song.drummer} performing "${song.song}" by ${song.band}.`,
+  });
+}
+
 // Drummers with licks hub pages — distinct drummerSlugs in first-appearance order.
 const drummerLicksHubs = Object.values(SIGNATURE_LICKS).reduce((hubs, lick) => {
   if (!hubs.some(h => h.drummerSlug === lick.drummerSlug)) {
@@ -645,7 +666,7 @@ export function buildSitemapXml() {
     // Issue #4761 (songs epic #4758, phase 3/4): per-song pages, gated by
     // content-richness (getSongPageSlugs) — under-gate songs stay list-only
     // and never get a sitemap entry.
-    ...getSongPageSlugs(Object.values(ALBUM_ARTICLES)).map(slug => ({ loc: `/songs/${slug}`, priority: '0.75', changefreq: 'monthly' })),
+    ...getSongPageSlugs(Object.values(ALBUM_ARTICLES)).map(slug => ({ loc: `/songs/${slug}`, priority: '0.75', changefreq: 'monthly', video: songVideoByLoc[`/songs/${slug}`] })),
     // Issue #4371: Gear Finder tool
     { loc: '/gear-finder', priority: '0.85', changefreq: 'weekly' },
     // Issue #4370: Metal Drumming Evolution Timeline (47 events, 1970-2024)

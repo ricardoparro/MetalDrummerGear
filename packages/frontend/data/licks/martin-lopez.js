@@ -32,12 +32,6 @@ export const licks = {
       "Place fills as musical punctuation at phrase ends, proportional to the dynamic of the moment",
       "Listen at low volume and correct any loss of evenness in the ghost-note layer before raising dynamics"
     ],
-    "tutorial": {
-      "youtubeId": "qQxfnCp-jfc",
-      "startTime": 0,
-      "title": "Opeth - Bleak (Drum Only)",
-      "description": "Isolated drum track of Martin Lopez's ghost-note-driven groove on Opeth's Bleak, allowing close study of his dynamic placement and jazz-influenced touch"
-    },
     "gearUsed": [
       { "name": "Sonor Designer Series Kit", "type": "drums", "link": null },
       { "name": "Sabian HH/AAX Cymbals", "type": "cymbals", "link": null },

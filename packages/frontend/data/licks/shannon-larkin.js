@@ -46,7 +46,7 @@ export const licks = {
         "link": null
       },
       {
-        "name": "Sabian AAX & HHX Series Cymbals",
+        "name": "Sabian AAX Series Cymbals",
         "type": "cymbals",
         "link": null
       },
@@ -119,7 +119,7 @@ export const licks = {
         "link": null
       },
       {
-        "name": "Sabian AAX & HHX Series Cymbals",
+        "name": "Sabian AAX Series Cymbals",
         "type": "cymbals",
         "link": null
       },
@@ -187,7 +187,7 @@ export const licks = {
         "link": null
       },
       {
-        "name": "Sabian AAX & HHX Series Cymbals",
+        "name": "Sabian AAX Series Cymbals",
         "type": "cymbals",
         "link": null
       },
@@ -255,7 +255,7 @@ export const licks = {
         "link": null
       },
       {
-        "name": "Sabian AAX & HHX Series Cymbals",
+        "name": "Sabian AAX Series Cymbals",
         "type": "cymbals",
         "link": null
       },
@@ -328,7 +328,7 @@ export const licks = {
         "link": null
       },
       {
-        "name": "Sabian AAX & HHX Series Cymbals",
+        "name": "Sabian AAX Series Cymbals",
         "type": "cymbals",
         "link": null
       },

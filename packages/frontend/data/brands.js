@@ -306,7 +306,7 @@ While Ludwig is often associated with classic rock, many metal drummers rely on 
 - **Armory Series** – Birch/maple hybrid shells at a mid-tier price point
 
 **Metal Credibility:**
-Chris Adler's decade-plus run with Lamb of God on a Mapex Black Panther Design Lab kit gave the brand serious credibility in American groove metal and modern thrash, and drummers like Jason Bittner (Overkill, Shadows Fall) have continued that association on Mapex's Saturn line.
+Chris Adler's decade-plus run with Lamb of God on a Mapex Saturn kit gave the brand serious credibility in American groove metal and modern thrash, and drummers like Jason Bittner (Overkill, Shadows Fall) have continued that association on Mapex's Saturn line.
 
 **Signature Lines:**
 - **Saturn V** – Jason Bittner's touring choice with Overkill
@@ -330,12 +330,12 @@ Chris Adler's decade-plus run with Lamb of God on a Mapex Black Panther Design L
         { year: 2000, event: "Mapex expands production into China." },
         { year: 2013, event: "The Saturn IV series introduces Mapex's SONIClear bearing edge shell technology." },
       ],
-      metalEra: "Chris Adler's endorsement of Mapex throughout Lamb of God's commercial peak — playing a Black Panther Design Lab kit and his own signature snare — gave the brand serious credibility in American groove metal and modern thrash. Jason Bittner (Overkill, Shadows Fall) has extended that association on Mapex's Saturn line, helping establish Mapex as a serious choice for touring metal drummers.",
+      metalEra: "Chris Adler's endorsement of Mapex throughout Lamb of God's commercial peak — playing a Saturn kit and his own signature snare — gave the brand serious credibility in American groove metal and modern thrash. Jason Bittner (Overkill, Shadows Fall) has extended that association on Mapex's Saturn line, helping establish Mapex as a serious choice for touring metal drummers.",
       sources: ["https://mapexdrums.com/history"],
     },
     metaTitle: "Mapex Metal Drummers - Who Plays Mapex Drums | MetalForge",
     metaDescription:
-      "Discover which metal drummers play Mapex drums. From Chris Adler's Black Panther Design Lab to Jason Bittner's Saturn V, explore Mapex setups used in metal.",
+      "Discover which metal drummers play Mapex drums. From Chris Adler's Saturn to Jason Bittner's Saturn V, explore Mapex setups used in metal.",
     keywords: ["mapex drums", "mapex metal drummers", "mapex saturn", "mapex black panther", "chris adler drums"],
     popularModels: [
       { name: "Saturn V", description: "Maple/walnut hybrid shells with a warm, punchy tone and enhanced sustain", affiliate: "mapex-saturn-v" },
@@ -345,7 +345,7 @@ Chris Adler's decade-plus run with Lamb of God on a Mapex Black Panther Design L
     faq: [
       {
         question: "What drums does Chris Adler play?",
-        answer: "Chris Adler plays a Mapex Black Panther Design Lab kit with a Mapex Chris Adler Signature 14x5.5\" Walnut/Maple snare and a Mapex Falcon Double Pedal."
+        answer: "Chris Adler plays a Mapex Saturn kit with a Mapex Chris Adler Signature 14x5.5\" Walnut/Maple snare and a Mapex Falcon Double Pedal."
       },
       {
         question: "Is Mapex good for metal?",
@@ -395,7 +395,7 @@ Sonor's snares in particular have found a home in extreme and progressive metal,
         { year: 1925, event: "Sonor grows to 145 employees, becoming one of the largest drum manufacturers of its kind." },
         { year: 1946, event: "Otto Link and his son Horst rebuild the company in Bad Berleburg, West Germany, after fleeing Soviet-controlled East Germany." },
       ],
-      metalEra: "Sonor's snares have become a fixture on extreme and progressive metal rosters through signature models: Tomas Haake (Meshuggah) plays a Sonor signature bronze-shell snare, and Nicko McBrain (Iron Maiden) has his own namesake Sonor signature snare. Other metal drummers on the verified roster, including Jan Axel \"Hellhammer\" Blomberg (Mayhem) and Frost (Satyricon), have used Sonor's modular SQ2 maple snares for their focused, cutting attack.",
+      metalEra: "Sonor's snares have become a fixture on extreme and progressive metal rosters through signature models: Tomas Haake (Meshuggah) plays a Sonor signature bronze-shell snare, and Nicko McBrain (Iron Maiden) has his own namesake Sonor signature snare. Other metal drummers on the verified roster, including Jan Axel \"Hellhammer\" Blomberg (Mayhem), have used Sonor's modular SQ2 maple snares for their focused, cutting attack.",
       sources: ["https://en.wikipedia.org/wiki/Sonor"],
     },
     themeLinks: [

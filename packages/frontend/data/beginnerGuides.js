@@ -99,7 +99,7 @@ export const BEGINNER_GUIDES = {
       title: "Welcome to Metal Drumming",
       content: `So you want to play metal drums? Welcome to the most physically demanding, musically rewarding, and absolutely brutal form of drumming on the planet. Whether you're drawn to the thunderous double bass of death metal, the precision blasts of black metal, or the groovy polyrhythms of progressive metal, this guide will help you build your first kit without emptying your wallet.
 
-Here's the truth: you don't need a $5,000 kit to sound brutal. Joey Jordison's early demos were recorded on entry-level gear. Dave Lombardo started on a basic Ludwig kit. The legends didn't wait for perfect gear—they made their gear work.
+Here's the truth: you don't need a $5,000 kit to sound brutal. Joey Jordison's early demos were recorded on entry-level gear. Dave Lombardo started on a basic Pearl kit. The legends didn't wait for perfect gear—they made their gear work.
 
 This guide is specifically designed for beginners with a total budget around $1,000 (or less). We'll cover everything from choosing the right kit to setting it up for metal-specific playing. By the end, you'll have a complete, stage-ready rig that can handle everything from blast beats to breakdowns.`,
       keyPoints: [

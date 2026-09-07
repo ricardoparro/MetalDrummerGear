@@ -6,7 +6,7 @@
  *
  * Stick record shape:
  *   {
- *     id: string,               // stable slug, e.g. 'vic-firth-sgk'
+ *     id: string,               // stable slug, e.g. 'vic-firth-sdc'
  *     brand: string,
  *     model: string,
  *     size: string,             // manufacturer's own size/model label
@@ -31,22 +31,6 @@
  */
 
 export const DRUMSTICKS = [
-  {
-    id: 'vic-firth-sgk',
-    brand: 'Vic Firth',
-    model: 'SGK',
-    size: 'Signature (blends 5A/5B)',
-    diameterIn: 0.585,
-    lengthIn: 16,
-    material: 'Hickory',
-    tip: 'Barrel (wood)',
-    taper: 'Medium',
-    endorsementType: 'signature-model',
-    drummerSlug: 'george-kollias',
-    priceBand: 'budget',
-    retailerUrls: {},
-    source: 'vicfirth.com',
-  },
   {
     id: 'vic-firth-sben',
     brand: 'Vic Firth',
@@ -148,20 +132,21 @@ export const DRUMSTICKS = [
     source: 'vicfirth.com',
   },
   {
-    id: 'vic-firth-svp',
+    id: 'vic-firth-american-classic-5b-vinnie-paul',
     brand: 'Vic Firth',
-    model: 'SVP',
-    size: 'Signature Vinnie Paul',
-    diameterIn: 0.63,
-    lengthIn: 16.875,
+    model: 'American Classic 5B',
+    size: '5B',
+    diameterIn: 0.595,
+    lengthIn: 16,
     material: 'Hickory',
     tip: 'Teardrop (wood)',
-    taper: 'Full-sized, no formal taper class',
-    endorsementType: 'signature-model',
+    taper: 'Medium',
+    endorsementType: 'artist-endorsement',
     drummerSlug: 'vinnie-paul',
     priceBand: 'budget',
     retailerUrls: {},
     source: 'vicfirth.com',
+    notes: 'Endorsed stock model — no custom signature model.',
   },
   {
     id: 'tama-hmd',

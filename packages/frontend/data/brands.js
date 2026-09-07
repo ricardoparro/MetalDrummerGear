@@ -1004,7 +1004,7 @@ Vater's consistency pitch — every pair playing identically — has built a fol
         { year: 1988, event: "The Vater family opens a dedicated factory in Holbrook, Massachusetts." },
         { year: 1991, event: "Alan and Ron Vater launch Vater Percussion as its own branded company." },
       ],
-      metalEra: "Vater's consistency-first manufacturing has built a metal following anchored by signature models: Jay Weinberg (Slipknot) plays the 908, Mike Mangini (ex-Dream Theater) the Wicked Piston (VHMMWP), and Derek Roddy (Hate Eternal, Nile) the Player's Design VHDRW. Brann Dailor (Mastodon) is a confirmed endorser of Vater's stock 5B Wood Tip.",
+      metalEra: "Vater's consistency-first manufacturing has built a metal following anchored by signature models: Mike Mangini (ex-Dream Theater) plays the Wicked Piston (VHMMWP), and Derek Roddy (Hate Eternal, Nile) the Player's Design VHDRW. Jay Weinberg (Slipknot/Suicidal Tendencies) is a confirmed endorser of Vater's stock 5B, and Brann Dailor (Mastodon) of the stock 5B Wood Tip.",
       sources: ["https://www.namm.org/library/oral-history/alan-vater", "https://en.wikipedia.org/wiki/Vater_Percussion"],
     },
     themeLinks: [
@@ -1012,17 +1012,16 @@ Vater's consistency pitch — every pair playing identically — has built a fol
     ],
     metaTitle: "Vater Metal Drummers - Who Plays Vater Sticks | MetalForge",
     metaDescription:
-      "Discover which metal drummers play Vater drumsticks. From Jay Weinberg's 908 to Mike Mangini's Wicked Piston, explore Vater setups used in metal.",
-    keywords: ["vater drumsticks", "vater metal drummers", "vater 908", "jay weinberg sticks", "mike mangini sticks"],
+      "Discover which metal drummers play Vater drumsticks. From Jay Weinberg's stock 5B to Mike Mangini's Wicked Piston, explore Vater setups used in metal.",
+    keywords: ["vater drumsticks", "vater metal drummers", "jay weinberg sticks", "mike mangini sticks"],
     popularModels: [
-      { name: "908", description: "Jay Weinberg's signature model, blending 5A and 5B proportions", affiliate: "vater-908" },
       { name: "Wicked Piston (VHMMWP)", description: "Mike Mangini's signature model, built for long reach and control", affiliate: "vater-wicked-piston" },
       { name: "Power Series", description: "Extra-thick, extra-durable models aimed at hard-hitting players", affiliate: "vater-power" },
     ],
     faq: [
       {
         question: "What Vater sticks do metal drummers use?",
-        answer: "Vater's metal endorsers include Jay Weinberg (Slipknot) on the 908, Mike Mangini (ex-Dream Theater) on the Wicked Piston, and Derek Roddy (Hate Eternal, Nile) on the Player's Design VHDRW."
+        answer: "Vater's metal endorsers include Mike Mangini (ex-Dream Theater) on the Wicked Piston, Derek Roddy (Hate Eternal, Nile) on the Player's Design VHDRW, and Jay Weinberg (Slipknot/Suicidal Tendencies) on the stock 5B."
       },
       {
         question: "Is Vater good for metal?",

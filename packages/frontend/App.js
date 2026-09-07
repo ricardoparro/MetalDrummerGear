@@ -13155,6 +13155,12 @@ function BpmTapPage({ theme, onBack, drummers, onSelectDrummer }) {
   // Update meta on mount
   useEffect(() => {
     updateBpmMeta(bpm);
+    return () => {
+      if (Platform.OS === 'web' && typeof document !== 'undefined') {
+        const canonicalLink = document.querySelector('link[rel="canonical"][href*="/bpm"]');
+        if (canonicalLink) canonicalLink.remove();
+      }
+    };
   }, [bpm]);
   
   // Keyboard support for spacebar tapping
@@ -21484,6 +21490,16 @@ function updateBpmMeta(bpm) {
     meta.setAttribute('content', content);
   };
 
+  const setCanonical = (href) => {
+    let link = document.querySelector('link[rel="canonical"][href*="/bpm"]') || document.querySelector('link[rel="canonical"]');
+    if (!link) {
+      link = document.createElement('link');
+      link.setAttribute('rel', 'canonical');
+      document.head.appendChild(link);
+    }
+    link.setAttribute('href', href);
+  };
+
   if (bpm) {
     const title = `${Math.round(bpm)} BPM - Tap Tempo Result | MetalForge`;
     const description = `Tapped tempo: ${Math.round(bpm)} BPM. Use the BPM Tap Calculator to find the tempo of any song. Browse metal songs by BPM at MetalForge.io!`;
@@ -21498,6 +21514,7 @@ function updateBpmMeta(bpm) {
     setMeta('twitter:card', 'summary');
     setMeta('twitter:title', title);
     setMeta('twitter:description', description);
+    setCanonical(shareUrl);
   } else {
     const title = 'BPM Tap Calculator - Find Song Tempo | MetalForge';
     const description = 'Tap to find the BPM of any song. Browse metal songs by tempo and discover tracks perfect for your drumming practice. Free tap tempo tool for drummers!';
@@ -21511,6 +21528,7 @@ function updateBpmMeta(bpm) {
     setMeta('twitter:card', 'summary');
     setMeta('twitter:title', title);
     setMeta('twitter:description', description);
+    setCanonical('https://metalforge.io/bpm');
   }
 }
 

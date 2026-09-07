@@ -96,6 +96,25 @@ function removeSchema() {
   if (el) el.remove();
 }
 
+// Issue #7116: self-declare canonical so the page doesn't inherit a leftover
+// canonical value from whatever route rendered previously in this SPA session.
+function setCanonical(brandSlug, seriesSlug) {
+  if (typeof document === 'undefined') return;
+  let link = document.querySelector('link[rel="canonical"][href*="/drummers-using"]') || document.querySelector('link[rel="canonical"]');
+  if (!link) {
+    link = document.createElement('link');
+    link.setAttribute('rel', 'canonical');
+    document.head.appendChild(link);
+  }
+  link.setAttribute('href', `${BASE_URL}/gear/${brandSlug}/${seriesSlug}/drummers-using`);
+}
+
+function removeCanonical() {
+  if (typeof document === 'undefined') return;
+  const link = document.querySelector('link[rel="canonical"][href*="/drummers-using"]');
+  if (link) link.remove();
+}
+
 function navigate(path) {
   if (Platform.OS === 'web' && typeof window !== 'undefined') {
     window.history.pushState({}, '', path);
@@ -114,8 +133,12 @@ export function DrummersUsingKitPage({ brandSlug, seriesSlug, onBack }) {
     if (Platform.OS === 'web') {
       document.title = `${seriesName} Drummers — Which Metal Drummers Use ${brandName} ${seriesName}?`;
       injectSchema(brandSlug, seriesSlug, drummers);
+      setCanonical(brandSlug, seriesSlug);
     }
-    return () => removeSchema();
+    return () => {
+      removeSchema();
+      removeCanonical();
+    };
   }, [brandSlug, seriesSlug]);
 
   return (

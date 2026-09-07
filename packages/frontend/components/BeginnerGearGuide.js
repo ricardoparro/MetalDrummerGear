@@ -84,14 +84,14 @@ export function updateBeginnerGuideMeta(guide) {
     document.title = `${title} | MetalForge`;
     setMeta('description', description);
     setMeta('keywords', (guide.seoKeywords || []).join(', '));
-    
+
     // Open Graph
     setMeta('og:title', title, true);
     setMeta('og:description', description, true);
     setMeta('og:image', image, true);
     setMeta('og:url', url, true);
     setMeta('og:type', 'article', true);
-    
+
     // Twitter
     setMeta('twitter:card', 'summary_large_image');
     setMeta('twitter:title', title);
@@ -102,6 +102,15 @@ export function updateBeginnerGuideMeta(guide) {
     setMeta('article:published_time', guide.datePublished, true);
     setMeta('article:modified_time', guide.dateModified, true);
     setMeta('article:author', guide.author, true);
+
+    // Canonical URL (Issue #7116)
+    let canonicalLink = document.querySelector('link[rel="canonical"][href*="/guides/"]') || document.querySelector('link[rel="canonical"]');
+    if (!canonicalLink) {
+      canonicalLink = document.createElement('link');
+      canonicalLink.setAttribute('rel', 'canonical');
+      document.head.appendChild(canonicalLink);
+    }
+    canonicalLink.setAttribute('href', url);
   }
 }
 
@@ -227,6 +236,9 @@ export function BeginnerGearGuidePage({ theme, onBack, onSelectDrummer, slug }) 
           const script = document.querySelector(`script[data-schema="${schemaId}"]`);
           if (script) script.remove();
         });
+        // Remove canonical link added by this page (Issue #7116)
+        const canonicalLink = document.querySelector('link[rel="canonical"][href*="/guides/"]');
+        if (canonicalLink) canonicalLink.remove();
       }
     };
   }, [activeSlug]);

@@ -239,6 +239,9 @@ export function GuidePage({ theme, onBack, guideSlug, onSelectDrummer }) {
         const faqScript = document.querySelector('script[data-schema="guide-faq"]');
         if (howToScript) howToScript.remove();
         if (faqScript) faqScript.remove();
+        // Remove canonical link added by this page (Issue #7116)
+        const canonicalLink = document.querySelector('link[rel="canonical"][href*="/guides/"]');
+        if (canonicalLink) canonicalLink.remove();
       }
     };
   }, [guideSlug]);

@@ -3400,14 +3400,15 @@ function TopListPage({ theme, onBack, drummers, onSelectDrummer, listSlug, isArt
     };
   }, [list, isAlbumArticle, drummers]);
 
-  // Issue #3280: restore homepage canonical ONLY on true component unmount.
-  // A separate empty-dep effect ensures the reset does not fire on every
-  // drummers-prop change (which would briefly set canonical → / mid-render).
+  // Issue #7115: remove this page's own canonical link ONLY on true component
+  // unmount (empty-dep effect avoids firing on every drummers-prop change).
+  // Resetting to a hardcoded URL (the old #3280 behavior) leaked this page's
+  // canonical into whatever route rendered next in the same client session.
   useEffect(() => {
     return () => {
       if (Platform.OS !== 'web' || typeof document === 'undefined') return;
-      const canon = document.querySelector('link[rel="canonical"]');
-      if (canon) canon.setAttribute('href', 'https://metalforge.io/');
+      const canon = document.querySelector('link[rel="canonical"][href*="/lists/"]');
+      if (canon) canon.remove();
     };
   }, []);
 

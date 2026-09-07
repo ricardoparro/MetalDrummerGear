@@ -30,7 +30,10 @@ const moduleLoaders = {
   signatureLicks: () => import('../../components/SignatureLicks'),
   
   // Heavy data modules
-  albumArticles: () => import('../../data/albumArticles'),
+  // Issue #7149: predictive hover preload only knows the route prefix, not
+  // the article slug, so it can only warm the lightweight catalog chunk
+  // (metadata only) — the actual article body loads per-slug on navigation.
+  albumArticles: () => import('../../data/albumArticles/albumArticlesCatalog.js'),
   extendedBios: () => import('../../data/extendedBios'),
   techniques: () => import('../../data/techniques'),
   bands: () => import('../../data/bands'),

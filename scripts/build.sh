@@ -5,6 +5,9 @@ node scripts/generate-responsive-images.cjs
 node scripts/generate-llms-full.cjs
 node scripts/generate-llms-index.cjs
 node scripts/generate-llms-techniques-per-slug.cjs
+# Issue #7149: lightweight browser catalog so /articles/<slug> only downloads
+# its own per-drummer chunk instead of the full ~10MB albumArticles bundle.
+node scripts/generate-album-articles-catalog.mjs
 cd packages/frontend
 npx expo export --platform web --clear
 node scripts/inject-ga.cjs

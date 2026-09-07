@@ -107,8 +107,16 @@ import {
   getBudgetTierEmoji, 
   getBudgetTierInfo, 
   getBudgetTierColor, 
-  formatPriceRange 
+  formatPriceRange
 } from './data/budgetTiers';
+
+// Drumsticks/Cymbals Hub pages (Issue #7148, L4 perf): imported eagerly rather
+// than React.lazy so /drumsticks and /cymbals render their H1/intro/first-row
+// content in the same pass as the app shell instead of behind a route-level
+// chunk fetch — that extra sequential hop after index/__common was the ~12s
+// LCP on these pages.
+import { DrumsticksHubPage } from './components/DrumsticksHubPage';
+import { CymbalsHubPage } from './components/CymbalsHubPage';
 
 // Featured Drummer Module - Curated weekly rotation with birthday overrides (Issue #494)
 import { 
@@ -349,8 +357,11 @@ function isGuidePage() { return _soundLikeGuidesModule?.isGuidePage?.() ?? (type
 function getGuideSlugFromURL() { return _soundLikeGuidesModule?.getGuideSlugFromURL?.() ?? (typeof window !== 'undefined' ? window.location.pathname.replace('/guides/', '') : ''); }
 
 // Drumsticks Hub (Issue #4137, epic #4135 phase 2) - SEO pillar + reference pages at /drumsticks/*
+// Issue #7148 (L4 perf): the hub page itself is imported eagerly (not React.lazy,
+// see top-of-file import) so its H1/intro/first-row content renders in the same
+// pass as the app shell instead of waiting on a route-level chunk fetch+parse
+// after index/__common — that extra sequential hop was the ~12s LCP on /drumsticks.
 const DRUMSTICK_REFERENCE_SLUGS = ['sizes', 'materials', 'tips'];
-const LazyDrumsticksHubPage = lazy(() => import('./components/DrumsticksHubPage').then(m => ({ default: m.DrumsticksHubPage })));
 const LazyDrumstickReferencePage = lazy(() => import('./components/DrumstickReferencePage').then(m => ({ default: m.DrumstickReferencePage })));
 function isDrumsticksHubPage() { if (typeof window === 'undefined') return false; const p = window.location.pathname.replace(/\/+$/, ''); return p === '/drumsticks' || p === '/gear/sticks'; }
 function isDrumstickReferencePage() {
@@ -387,8 +398,9 @@ function isBestForMetalPage() { return typeof window !== 'undefined' && window.l
 // Cymbals Hub (Issue #4305, epic #4303 phase 2/4) - SEO pillar + reference pages at /cymbals/*
 // Issue #4307 (phase 4/4): /gear/cymbals now 301s to /cymbals (vercel.json) and
 // is aliased here too, same as /gear/sticks -> /drumsticks.
+// Issue #7148 (L4 perf): CymbalsHubPage is imported eagerly at the top of this
+// file (not React.lazy) — see that import's comment.
 const CYMBAL_REFERENCE_SLUGS = ['types', 'alloys', 'sizes-weights'];
-const LazyCymbalsHubPage = lazy(() => import('./components/CymbalsHubPage').then(m => ({ default: m.CymbalsHubPage })));
 const LazyCymbalReferencePage = lazy(() => import('./components/CymbalReferencePage').then(m => ({ default: m.CymbalReferencePage })));
 function isCymbalsHubPage() { if (typeof window === 'undefined') return false; const p = window.location.pathname.replace(/\/+$/, ''); return p === '/cymbals' || p === '/gear/cymbals'; }
 function isCymbalReferencePage() {
@@ -30918,40 +30930,40 @@ setShowList(false);
       );
     }
     // Drumsticks pillar page (Issue #4137, epic #4135 phase 2) - /drumsticks
+    // Issue #7148: eager component (no Suspense/lazy chunk hop) — see the
+    // top-of-file import for why.
     if (showDrumsticksHub) {
       return (
-        <Suspense fallback={<PageLoadingSkeleton theme={theme} />}>
-          <LazyDrumsticksHubPage
-            theme={theme}
-            drummers={drummers}
-            onNavigateReference={(slug) => {
-              setShowDrumsticksHub(false);
-              setShowDrumstickPage(true);
-              setDrumstickPageSlug(slug);
-              if (Platform.OS === 'web' && typeof window !== 'undefined') {
-                window.history.pushState({}, '', `/drumsticks/${slug}`);
-              }
-            }}
-            onNavigateBrandsHub={() => {
-              if (Platform.OS === 'web' && typeof window !== 'undefined') {
-                window.history.pushState({}, '', '/drumsticks/brands');
-                window.dispatchEvent(new PopStateEvent('popstate'));
-              }
-            }}
-            onNavigateBrand={(slug) => {
-              if (Platform.OS === 'web' && typeof window !== 'undefined') {
-                window.history.pushState({}, '', `/drumsticks/brands/${slug}`);
-                window.dispatchEvent(new PopStateEvent('popstate'));
-              }
-            }}
-            onNavigateBestForMetal={() => {
-              if (Platform.OS === 'web' && typeof window !== 'undefined') {
-                window.history.pushState({}, '', '/drumsticks/best-for-metal');
-                window.dispatchEvent(new PopStateEvent('popstate'));
-              }
-            }}
-          />
-        </Suspense>
+        <DrumsticksHubPage
+          theme={theme}
+          drummers={drummers}
+          onNavigateReference={(slug) => {
+            setShowDrumsticksHub(false);
+            setShowDrumstickPage(true);
+            setDrumstickPageSlug(slug);
+            if (Platform.OS === 'web' && typeof window !== 'undefined') {
+              window.history.pushState({}, '', `/drumsticks/${slug}`);
+            }
+          }}
+          onNavigateBrandsHub={() => {
+            if (Platform.OS === 'web' && typeof window !== 'undefined') {
+              window.history.pushState({}, '', '/drumsticks/brands');
+              window.dispatchEvent(new PopStateEvent('popstate'));
+            }
+          }}
+          onNavigateBrand={(slug) => {
+            if (Platform.OS === 'web' && typeof window !== 'undefined') {
+              window.history.pushState({}, '', `/drumsticks/brands/${slug}`);
+              window.dispatchEvent(new PopStateEvent('popstate'));
+            }
+          }}
+          onNavigateBestForMetal={() => {
+            if (Platform.OS === 'web' && typeof window !== 'undefined') {
+              window.history.pushState({}, '', '/drumsticks/best-for-metal');
+              window.dispatchEvent(new PopStateEvent('popstate'));
+            }
+          }}
+        />
       );
     }
     // Drumsticks reference pages (Issue #4137) - /drumsticks/sizes|materials|tips
@@ -30980,40 +30992,40 @@ setShowList(false);
       );
     }
     // Cymbals pillar page (Issue #4305, epic #4303 phase 2) - /cymbals
+    // Issue #7148: eager component (no Suspense/lazy chunk hop) — see the
+    // top-of-file import for why.
     if (showCymbalsHub) {
       return (
-        <Suspense fallback={<PageLoadingSkeleton theme={theme} />}>
-          <LazyCymbalsHubPage
-            theme={theme}
-            drummers={drummers}
-            onNavigateReference={(slug) => {
-              setShowCymbalsHub(false);
-              setShowCymbalPage(true);
-              setCymbalPageSlug(slug);
-              if (Platform.OS === 'web' && typeof window !== 'undefined') {
-                window.history.pushState({}, '', `/cymbals/${slug}`);
-              }
-            }}
-            onNavigateBrandsHub={() => {
-              if (Platform.OS === 'web' && typeof window !== 'undefined') {
-                window.history.pushState({}, '', '/cymbals/brands');
-                window.dispatchEvent(new PopStateEvent('popstate'));
-              }
-            }}
-            onNavigateBrand={(slug) => {
-              if (Platform.OS === 'web' && typeof window !== 'undefined') {
-                window.history.pushState({}, '', `/cymbals/brands/${slug}`);
-                window.dispatchEvent(new PopStateEvent('popstate'));
-              }
-            }}
-            onNavigateBestForMetal={() => {
-              if (Platform.OS === 'web' && typeof window !== 'undefined') {
-                window.history.pushState({}, '', '/cymbals/best-for-metal');
-                window.dispatchEvent(new PopStateEvent('popstate'));
-              }
-            }}
-          />
-        </Suspense>
+        <CymbalsHubPage
+          theme={theme}
+          drummers={drummers}
+          onNavigateReference={(slug) => {
+            setShowCymbalsHub(false);
+            setShowCymbalPage(true);
+            setCymbalPageSlug(slug);
+            if (Platform.OS === 'web' && typeof window !== 'undefined') {
+              window.history.pushState({}, '', `/cymbals/${slug}`);
+            }
+          }}
+          onNavigateBrandsHub={() => {
+            if (Platform.OS === 'web' && typeof window !== 'undefined') {
+              window.history.pushState({}, '', '/cymbals/brands');
+              window.dispatchEvent(new PopStateEvent('popstate'));
+            }
+          }}
+          onNavigateBrand={(slug) => {
+            if (Platform.OS === 'web' && typeof window !== 'undefined') {
+              window.history.pushState({}, '', `/cymbals/brands/${slug}`);
+              window.dispatchEvent(new PopStateEvent('popstate'));
+            }
+          }}
+          onNavigateBestForMetal={() => {
+            if (Platform.OS === 'web' && typeof window !== 'undefined') {
+              window.history.pushState({}, '', '/cymbals/best-for-metal');
+              window.dispatchEvent(new PopStateEvent('popstate'));
+            }
+          }}
+        />
       );
     }
     // Cymbal Brands Hub (Issue #4307, epic #4303 phase 4/4) - /cymbals/brands

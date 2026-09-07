@@ -70,6 +70,18 @@ const spotlightPreload = `
     <!-- LCP: Spotlight Image Preload (#752, #4470) -->
     <script>(function(){var r=['tomas-haake','danny-carey','dave-lombardo','lars-ulrich','mario-duplantier','gene-hoglan','joey-jordison','george-kollias','brann-dailor','chris-adler'],w=Math.floor((Date.now()-1704067200000)/604800000),d=r[w%10];var cw=window.matchMedia('(max-width:479px)').matches?100:140;var tw=cw*(window.devicePixelRatio||1);var sfx=tw<=100?'-100w':tw<=200?'-200w':tw<=400?'-400w':'';var base='/images/drummers/'+d;var l=document.createElement('link');l.rel='preload';l.href=base+sfx+'.webp';l.imageSrcset=base+'-100w.webp 100w, '+base+'-200w.webp 200w, '+base+'-400w.webp 400w, '+base+'.webp 800w';l.imageSizes='(max-width: 479px) 100px, 140px';l.as='image';l.type='image/webp';l.fetchPriority='high';document.head.appendChild(l);})();</script>`;
 
+// LCP Optimization (Issue #7148): /lists/:slug renders its real H1/intro only
+// after the SPA lazy-loads data/top10Lists.js in full (~830KB raw) — that
+// route-level chunk was the page's LCP-blocking resource on slow connections.
+// This kicks off a tiny same-origin fetch (/api/list-preview/:slug, a few
+// hundred bytes) as early as possible and swaps the shared critical-hero's
+// placeholder H1/paragraph for the list's real title/description — served
+// from the same source of truth (top10Lists.js) via that endpoint, not a
+// duplicated copy. No-ops on every other route (regex match fails first).
+const listPreviewHeroSwap = `
+    <!-- LCP: Top-10 list hero swap (#7148) -->
+    <script>(function(){var m=location.pathname.match(/^\\/lists\\/([a-z0-9-]+)\\/?$/);if(!m)return;fetch('/api/list-preview/'+m[1]).then(function(r){return r.ok?r.json():null}).then(function(d){if(!d)return;function apply(){var h=document.querySelector('#critical-hero h1'),p=document.querySelector('#critical-hero p');if(h)h.textContent=(d.emoji?d.emoji+' ':'')+d.title;if(p){p.textContent=d.description;p.style.fontSize='16px';p.style.lineHeight='24px';p.style.maxWidth='600px'}}if(document.getElementById('critical-hero'))apply();else document.addEventListener('DOMContentLoaded',apply,{once:true})}).catch(function(){})})();</script>`;
+
 // Critical CSS for fast FCP (Issues #535, #752)
 const criticalCSS = `
     <style>
@@ -215,7 +227,14 @@ try {
     console.log('✅ Injected spotlight image preload (#752)');
     injectedSomething = true;
   }
-  
+
+  // Inject top-10 list hero swap (#7148)
+  if (!html.includes('Top-10 list hero swap')) {
+    html = html.replace('</head>', listPreviewHeroSwap + '\n  </head>');
+    console.log('✅ Injected top-10 list hero swap (#7148)');
+    injectedSomething = true;
+  }
+
   // Check if critical CSS is already injected (update marker to new version)
   if (!html.includes('Critical CSS for fast FCP (#535, #752)')) {
     // Remove old critical CSS if present

@@ -967,6 +967,147 @@ export default KIT_CONFIGURATIONS;
 `;
 fs.writeFileSync(kitConfigOutPath, kitConfigHeader);
 
+// ===================================================================================
+// Study Membership Index (issue #7150)
+// ===================================================================================
+// A small derived slug/rank index consumed by packages/frontend/data/studies/links.js
+// instead of the four full datasets above. links.js only needs to answer "does this
+// drummer/genre/brand appear in a study's top ranking" (for App.js's link rails and
+// the brand-page components) — it never needs the per-brand drummer lists, hall-of-
+// speed, or explicit shell configs that make the full datasets ~200KB. Every field
+// below is copied straight out of the STUDY/brandReach/genreStats/pedalConfigByGenre
+// structures already computed above, never re-derived independently.
+const membershipCategories = {};
+for (const cat of CATEGORIES) {
+  membershipCategories[cat.key] = {
+    label: cat.label,
+    ranked: STUDY.categories[cat.key].ranked.map((r) => ({ brand: r.brand, percent: r.percent })),
+  };
+}
+const mostUsedTopDrummerSlugs = [
+  ...new Set(CATEGORIES.flatMap((cat) => (STUDY.categories[cat.key].ranked[0]?.drummers || []).map((d) => d.slug))),
+];
+
+const STUDY_MEMBERSHIP = {
+  generatedAt: SNAPSHOT_DATE,
+  mostUsedGearBrands: {
+    categories: membershipCategories,
+    topDrummerSlugs: mostUsedTopDrummerSlugs,
+  },
+  drumEndorsementLandscape: {
+    brandReach: brandReach.map((b) => ({ brand: b.brand, percent: b.percent })),
+    topDrummerSlugs: (brandReach[0]?.drummers || []).map((d) => d.slug),
+  },
+  tempoBySubgenre: {
+    genres: genreStats.map((g) => ({ genre: g.genre, label: g.label, avgBpm: g.avgBpm, songCount: g.songCount })),
+  },
+  kitConfigurations: {
+    genres: pedalConfigByGenre.map((g) => g.genre),
+  },
+};
+
+const membershipOutPath = path.join(outDir, 'studyMembership.js');
+const membershipHeader = `/**
+ * Study Membership Index — small derived slug/rank index for the link-derivation
+ * helpers in packages/frontend/data/studies/links.js (getBrandStudyLinks/
+ * getDrummerStudyLinks/getGenreStudyLinks). Exists so App.js's eager bundle and the
+ * brand-page lazy chunks (PedalBrandPage.jsx etc.) never need to import the full
+ * ~200KB of study datasets (mostUsedGearBrands.js/drumEndorsementLandscape.js/
+ * tempoBySubgenre.js/kitConfigurations.js) just to check study membership (issue
+ * #7150).
+ *
+ * GENERATED FILE — do not edit by hand.
+ * Regenerate with: node scripts/compute-studies.cjs
+ *
+ * Source of truth: the same in-memory structures used to write mostUsedGearBrands.js,
+ * drumEndorsementLandscape.js, tempoBySubgenre.js, and kitConfigurations.js above —
+ * every field here is copied from those, never re-derived independently. Dataset
+ * snapshot date: ${SNAPSHOT_DATE}.
+ *
+ * Consumed by: packages/frontend/data/studies/links.js only. Each individual
+ * /studies/<slug> page reads its own full dataset directly instead (e.g.
+ * MostUsedGearBrandsStudyPage.jsx imports mostUsedGearBrands.js); the STUDIES
+ * registry's own headlineStat numbers come from studySummary.js, not this file.
+ */
+
+export const STUDY_MEMBERSHIP = ${JSON.stringify(STUDY_MEMBERSHIP, null, 2)};
+
+export default STUDY_MEMBERSHIP;
+`;
+fs.writeFileSync(membershipOutPath, membershipHeader);
+
+// ===================================================================================
+// Study Summary (issue #7150)
+// ===================================================================================
+// A second small derived index, this one for packages/frontend/data/studies/index.js's
+// STUDIES registry (title/description/headlineStat metadata consumed by the /studies
+// hub, sitemap, OG card generator, and llms.txt mirrors). STUDIES only ever needed a
+// handful of scalar numbers out of the four full datasets (totalDrummers/totalSongs,
+// the single top-ranked brand per study, one genre's avg BPM) — never the per-brand
+// drummer lists or hall-of-speed that make the full datasets ~200KB. Importing the
+// full datasets for these scalars was what made STUDIES (shared by the hub page and
+// all four individual study pages) get bundler-hoisted into the always-preloaded
+// common chunk. Every field below is copied from the same structures used above,
+// never re-derived independently.
+const topKitBrandSummary = STUDY.categories.kits.ranked[0];
+const topReachBrandSummary = brandReach[0];
+const deathMetalTempoSummary = genreStats.find((g) => g.genre === 'death-metal');
+
+const STUDY_SUMMARY = {
+  generatedAt: SNAPSHOT_DATE,
+  mostUsedGearBrands: {
+    generatedAt: SNAPSHOT_DATE,
+    totalDrummers: TOTAL_DRUMMERS,
+    topKitBrand: { brand: topKitBrandSummary.brand, count: topKitBrandSummary.count, percent: topKitBrandSummary.percent },
+  },
+  tempoBySubgenre: {
+    generatedAt: SNAPSHOT_DATE,
+    totalSongs: songs.length,
+    overallAvgBpm: TEMPO_BY_SUBGENRE.overall.avgBpm,
+    deathMetalAvgBpm: deathMetalTempoSummary.avgBpm,
+  },
+  drumEndorsementLandscape: {
+    generatedAt: SNAPSHOT_DATE,
+    totalDrummers: TOTAL_DRUMMERS,
+    topReachBrand: { brand: topReachBrandSummary.brand, count: topReachBrandSummary.count, percent: topReachBrandSummary.percent },
+  },
+  kitConfigurations: {
+    generatedAt: SNAPSHOT_DATE,
+    totalDrummers: TOTAL_DRUMMERS,
+    doublePedalCount: pedalOverall.doublePedal,
+    doublePedalPercent: Math.round((pedalOverall.doublePedal / TOTAL_DRUMMERS) * 1000) / 10,
+  },
+};
+
+const summaryOutPath = path.join(outDir, 'studySummary.js');
+const summaryHeader = `/**
+ * Study Summary — small derived scalar index for the STUDIES registry in
+ * packages/frontend/data/studies/index.js (title/description/headlineStat metadata
+ * consumed by the /studies hub, sitemap, OG card generator, and llms.txt mirrors).
+ * Carries only the handful of numbers that metadata needs (totalDrummers/totalSongs,
+ * one top-ranked brand per study, one genre's avg BPM) — never the per-brand drummer
+ * lists, hall-of-speed, or explicit shell configs that make the full datasets
+ * (mostUsedGearBrands.js/drumEndorsementLandscape.js/tempoBySubgenre.js/
+ * kitConfigurations.js) ~200KB (issue #7150).
+ *
+ * GENERATED FILE — do not edit by hand.
+ * Regenerate with: node scripts/compute-studies.cjs
+ *
+ * Source of truth: the same in-memory structures used to write the four full
+ * datasets above — every field here is copied from those, never re-derived
+ * independently. Dataset snapshot date: ${SNAPSHOT_DATE}.
+ *
+ * Consumed by: packages/frontend/data/studies/index.js only. Each individual
+ * /studies/<slug> page still reads its own full dataset directly for the detailed
+ * breakdown tables/charts it renders.
+ */
+
+export const STUDY_SUMMARY = ${JSON.stringify(STUDY_SUMMARY, null, 2)};
+
+export default STUDY_SUMMARY;
+`;
+fs.writeFileSync(summaryOutPath, summaryHeader);
+
 // --- Report --------------------------------------------------------------------------
 console.log(`✅ Wrote ${path.relative(path.join(__dirname, '..'), outPath)}`);
 console.log(`   Dataset: ${TOTAL_DRUMMERS} drummers, snapshot ${SNAPSHOT_DATE}`);
@@ -992,3 +1133,9 @@ console.log(`✅ Wrote ${path.relative(path.join(__dirname, '..'), kitConfigOutP
 console.log(`   Pedal config: ${JSON.stringify(pedalOverall)}`);
 console.log(`   Cymbal setup size: ${CYMBAL_SETUPS.length} drummers, avg ${KIT_CONFIGURATIONS.cymbalSetupSize.avgPieces} pieces`);
 console.log(`   Explicit shell configs: ${explicitShellConfigs.length}`);
+
+console.log(`✅ Wrote ${path.relative(path.join(__dirname, '..'), membershipOutPath)}`);
+console.log(`   Most-used-gear top drummer slugs: ${mostUsedTopDrummerSlugs.length}, endorsement top drummer slugs: ${STUDY_MEMBERSHIP.drumEndorsementLandscape.topDrummerSlugs.length}`);
+
+console.log(`✅ Wrote ${path.relative(path.join(__dirname, '..'), summaryOutPath)}`);
+console.log(`   Top kit brand: ${STUDY_SUMMARY.mostUsedGearBrands.topKitBrand.brand} (${STUDY_SUMMARY.mostUsedGearBrands.topKitBrand.percent}%), top reach brand: ${STUDY_SUMMARY.drumEndorsementLandscape.topReachBrand.brand} (${STUDY_SUMMARY.drumEndorsementLandscape.topReachBrand.percent}%)`);

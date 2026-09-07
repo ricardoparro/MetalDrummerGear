@@ -17,7 +17,7 @@ import {
   generateBrandSchema,
 } from '../data/snareBrands';
 import { hasBrand as hasFullBrandPage } from '../data/brands';
-import { getBrandStudyLinks } from '../data/studies/index.js';
+import { getBrandStudyLinks } from '../data/studies/links.js';
 
 function injectSchema(id, schema) {
   if (Platform.OS !== 'web' || typeof document === 'undefined' || !schema) return;

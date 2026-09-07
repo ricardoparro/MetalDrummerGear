@@ -1750,7 +1750,7 @@ export const MOST_USED_GEAR_BRANDS = {
               "name": "George Kollias",
               "slug": "george-kollias",
               "band": "Nile",
-              "configString": "Vic Firth George Kollias Signature SGK"
+              "configString": "Vic Firth"
             },
             {
               "id": 8,

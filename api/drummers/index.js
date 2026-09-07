@@ -679,7 +679,7 @@ const drummers = [
       snare: 'Pearl George Kollias Signature 14x6.5"',
       cymbals: 'Zildjian (14" K Mastersound Hi-Hats, 17" & 18" K Custom Dark Crashes, 21" A Custom Mega Bell Ride, 18" China)',
       hardware: 'Pearl Demon XR Double Pedal (Co-designed), Pearl D-3000 Throne',
-      sticks: 'Vic Firth George Kollias Signature SGK',
+      sticks: 'Vic Firth',
       heads: 'Evans',
       verified: true,
       sources: ['https://pearldrum.com/en/artist/george-kollias/15801', 'https://zildjian.com/artists', 'https://vicfirth.com/products/signature-series-george-kollias']

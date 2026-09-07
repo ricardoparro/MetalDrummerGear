@@ -44,7 +44,7 @@ export const DRUM_ENDORSEMENT_LANDSCAPE = {
           "name": "George Kollias",
           "slug": "george-kollias",
           "band": "Nile",
-          "configString": "Vic Firth George Kollias Signature SGK"
+          "configString": "Vic Firth"
         },
         {
           "id": 8,

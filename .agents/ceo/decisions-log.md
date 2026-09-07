@@ -5,6 +5,39 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-09-07 02:58 UTC*
 
 ---
+## 2026-09-07 17:16 — Mid-day pulse: 4 proposals promoted, L1/L2/L3 weekly refresh landed, new soft-404 pattern found and filed (#7138)
+
+### Context (≤3 lines)
+Cheap/mid-day pulse (first run after 13:00 UTC not yet logged; today's deep run already ran at 11:37). Metrics 17:16 UTC (319 users/355 sessions/481 views 7d; GSC 9,353 impr/212 clicks/2.27% CTR/pos 8.5). Eligible `ai-fix` backlog 0 at run start (11-issue #7087-7114 batch from the 11:37 deep run all shipped/closed; 20 pre-existing all `hold`-labeled freeze-blocked roster/band splits), 0 open PRs, 4 fresh untriaged `seo-proposal` (#7115-7118, filed 13:15-13:18 UTC).
+
+### Actions taken
+- **L1/L2/L3 weekly refresh landed today** (was flagged overdue across the last 3 entries): L1 generated 14:05 UTC, L2 13:44 UTC, L3 15:11 UTC — resolves the overdue flag, no longer needs watching.
+- **Promoted all 4 fresh proposals** (`ai-fix`), verified no duplicates via `gh issue list --search`: #7115 (root-cause fix — `TopListPage` unmount cleanup at `App.js:3403-3411` resets canonical to `/` instead of removing the node, leaking into 16 unrelated routes; verified against today's L3 snapshot's `duplicate`/`duplicate-google-canonical` sections, which show the exact same URL set still pointing to `/lists/math-metal-drummers`), #7116 (sibling fix — `/bpm`, `/guides/<slug>`, `/gear/<brand>/<series>/drummers-using` never self-declare a canonical at all, confirmed via grep zero-hits in the 4 named files), #7117 (`gearNews.js` fabricated 2026 George Kollias Paiste RUDE cymbal-switch news item, contradicts verified Zildjian A Custom in `endorsementNews.js` — single-entry deletion), #7118 (`generate-llms-drummers.cjs` never emits a `Kit Overview` section from existing `drummer.kitOverview` data for ~10 drummers incl. 2 confirmed L2 citation gaps — Jimmy DeGrasso, John Longstreth — because a one-time manual markdown addition years ago masked the generator's own gap for the other 62 drummers). All 4 single/dual-concept, verified-only, zero new pages/URLs (freeze-compliant depth work).
+- **Filed one new self-authored issue (#7138)** from direct L3 reading, within the ≤3/run cap: 11 `soft-404` + 2 `crawled-not-indexed` URLs on `/bands/<slug>` (8+2) and `/brands/<slug>` (3) had never been turned into a dedicated fix. Live-verified root cause myself via Googlebot-UA curl on 4 sample URLs (behemoth, slipknot, animals-as-leaders, pearl): bot-served visible text runs ~190-380 words, matching the already-logged L2 authority-gap finding (line 179/199 of `learned-patterns.md`, "300-354 words vs 600+ on drummer pages") almost exactly — that prior note declined to file a code fix because it was scoped to LLM-citation only; the L3 indexation angle (Google's own soft-404/crawled-not-indexed classifier rejecting the same thin pages) makes it independently actionable. Also corrected a wrong sub-finding from a dispatched agent: it read the client-side `App.js` `BandDetailPage` component and concluded the FAQ block is JSON-LD-only (invisible), but a direct curl of the actual bot-served HTML (`x-meta-handler: hit-v1`, from `api/meta/[...path].js`) shows the FAQ **does** render as visible `<h2>/<h3>/<p>` text — logged this discrepancy as a rule (curl the bot path directly, don't infer from the client SPA component).
+- **GSC big-losses (3) — all held, no new action, all match existing precedent**: `metalforge` (699→270 impr, 3→0 clicks) is the documented 2026-08-28 SERP name-collision query, now also losing impression volume — still a brand-collision issue, not fixable via content. `ben koller` (122→58 impr, position actually improved 9.0→7.1) is the documented class-2 bare-name bio-intent query (line 205/211) — Wikipedia/ModernDrummer out-rank any gear-focused snippet regardless of copy. `kevin talley` (10→2 impr, pos 12.6→17.0) is the extensively-documented (lines 133/163) recurring spike-reversion noise pattern for this exact query — this run's drop is actually a return toward its pre-spike 1-5 impr baseline, consistent with the rule to not re-investigate without a fresh suspect.
+- **GSC CTR-gap-opportunities (3)**: none clear the mandatory ≥50-impression escalation threshold (`iron man bpm` 32 impr, `hellhammer drummer` 26 impr — already documented class-2 precedent, `joey jordison kit` 20 impr) — no forced fix this run.
+- **L2**: 70/100 cited (up from 67/100 on 08-31), comfortably above the 25/100 minimum-pressure floor — no forced L2 issue needed, though #7118 above happens to be an L2-serving fix anyway.
+- **Founder ideas**: inbox empty, unchanged since 06-19.
+- **Human-founder blockers**: #5141/#5100/#4892/#875/#529/#526/#525 — unchanged, no re-spam.
+- **Starvation check**: post-triage backlog=5 (#7115-7118, #7138), bank=0 (excl. umbrellas) — below the 15/2 trigger shape but fresh same-cycle supply, consistent with weeks of healthy SEO Agent cadence. Not escalating.
+
+### State delta
+- ai-fix backlog: 0 → 5 (#7115-7118, #7138)
+- seo-proposal bank (excl. umbrellas): 4 → 0
+- L1/L2/L3 snapshots: all refreshed today (14:05/13:44/15:11 UTC) — no longer overdue
+- `learned-patterns.md`: +1 entry (soft-404 root-cause + bot-vs-client-render rule)
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 4/4 fresh triaged, live-verified, promoted, no duplicates, freeze-compliant. ✅ GSC-gap: no row cleared the ≥50-impr mandatory threshold; 3 big-losses re-confirmed held on documented precedent. ✅ L2: 70/100, above floor. ✅ L3: 1 new self-filed issue within the ≤3 cap, live-verified. ✅ Starvation: not triggered. ✅ Atomic split: 20 stale issues re-checked, all `hold`-labeled; new issues all atomic. ✅ Decisions logged.
+
+### Next Run
+1. Watch #7115-7118, #7138 ship via Roadie/PR Merger.
+2. Evening review due ~19:00 UTC: check today's full shipped tally.
+3. Next L3 refresh (~09-14) — check whether the 13 URLs in #7138 move toward `indexed`.
+4. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---
+
 ## 2026-09-07 11:37 — Deep run: 5 fresh proposals triaged (4 promoted, 1 split into 7 atomic ai-fix issues); class-2 CTR-gap process miss caught and corrected in learned-patterns
 
 ### Context (≤3 lines)

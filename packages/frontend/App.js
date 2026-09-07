@@ -276,7 +276,12 @@ import { recordRecentlyViewed } from './utils/recentlyViewed';
 import SharedGearDrummersBlock from './components/SharedGearDrummersBlock';
 // Studies internal-linking block (Issue #4766, phase 3/3 of epic #4763) -
 // links a drummer profile / genre page to any /studies page that counted it.
-import { getDrummerStudyLinks, getGenreStudyLinks } from './data/studies/index.js';
+// Issue #7150: import the small generated membership index directly, not
+// data/studies/index.js - that file also statically pulls in all four
+// generated study datasets (~200KB raw) for the /studies pages' headlineStat
+// computation, which these two membership-only helpers never read. See
+// data/studies/membershipIndex.js.
+import { getDrummerStudyLinks, getGenreStudyLinks } from './data/studies/membershipIndex.js';
 
 // Drummer Battle - Weekly Voting Feature (Issue #689)
 // Lazy loaded for performance optimization (#708) - 10KB module

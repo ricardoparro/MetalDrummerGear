@@ -17,7 +17,7 @@ import {
   generateBrandSchema,
 } from '../data/drumstickBrands';
 import { hasBrand as hasFullBrandPage } from '../data/brands';
-import { getBrandStudyLinks } from '../data/studies/index.js';
+import { getBrandStudyLinks } from '../data/studies/membershipIndex.js';
 
 function injectSchema(id, schema) {
   if (Platform.OS !== 'web' || typeof document === 'undefined' || !schema) return;

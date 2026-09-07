@@ -967,6 +967,219 @@ export default KIT_CONFIGURATIONS;
 `;
 fs.writeFileSync(kitConfigOutPath, kitConfigHeader);
 
+// ===================================================================================
+// Membership index (issue #7150): packages/frontend/data/studies/membershipIndex.js
+// ===================================================================================
+// packages/frontend/App.js only needs to know, for a given drummer/genre, whether a
+// /studies page counted it and what link text to show ("Featured in MetalForge
+// Studies" rail) — it never reads a study's full rankings. Statically importing
+// data/studies/index.js there (which imports all four datasets above for
+// headlineStat) pulled ~200KB of generated data into the eager web bundle for that
+// boolean check. This index is the same lookups, precomputed here from the same
+// in-memory objects that produced the datasets above, so App.js can depend on a file
+// with just the entries that exist. data/studies/index.js re-exports
+// getDrummerStudyLinks/getGenreStudyLinks from here so bot-facing SSR (api/meta)
+// keeps returning identical output.
+function normalizeMembershipKey(s) {
+  return String(s).toLowerCase().replace(/[^a-z0-9]/g, '');
+}
+
+const mostUsedGearBrandsDrummers = new Set();
+for (const cat of Object.values(STUDY.categories)) {
+  const top = cat.ranked[0];
+  if (!top) continue;
+  for (const d of top.drummers) mostUsedGearBrandsDrummers.add(d.slug);
+}
+const drumEndorsementDrummers = new Set((DRUM_ENDORSEMENT_LANDSCAPE.brandReach[0]?.drummers || []).map((d) => d.slug));
+
+const genreTempoLinks = {};
+for (const g of TEMPO_BY_SUBGENRE.genres) {
+  const link = {
+    studySlug: 'metal-tempo-by-subgenre',
+    studyTitle: 'Metal Tempo by Subgenre: How Fast Is Death Metal, Really?',
+    sentence: `${g.label} averages ${g.avgBpm} BPM across ${g.songCount} songs in our tempo-by-subgenre study.`,
+  };
+  genreTempoLinks[normalizeMembershipKey(g.genre)] = link;
+  genreTempoLinks[normalizeMembershipKey(g.label)] = link;
+}
+
+const genrePedalLinks = {};
+for (const g of KIT_CONFIGURATIONS.pedalConfig.byGenre) {
+  genrePedalLinks[normalizeMembershipKey(g.genre)] = {
+    studySlug: 'metal-kit-configurations',
+    studyTitle: 'Metal Drum Kit Configurations: Double Bass vs. Double Pedal',
+    sentence: `${g.genre} drummers' bass-pedal configurations are broken down in our kit-configurations study.`,
+  };
+}
+
+// getBrandStudyLinks (packages/frontend/components/*BrandPage.jsx + api/meta) only
+// ever reads a brand's rank + percent within a category, never the "drummers" arrays
+// that make up nearly all of mostUsedGearBrands.js/drumEndorsementLandscape.js's
+// weight — so the index below carries rank/percent only, same shape minus that list.
+const mostUsedGearBrandsRanks = {};
+for (const [key, cat] of Object.entries(STUDY.categories)) {
+  mostUsedGearBrandsRanks[key] = {
+    label: cat.label,
+    ranked: cat.ranked.map((r) => ({ brand: r.brand, percent: r.percent })),
+  };
+}
+const drumEndorsementBrandReachRanks = DRUM_ENDORSEMENT_LANDSCAPE.brandReach.map((b) => ({
+  brand: b.brand,
+  percent: b.percent,
+}));
+
+// STUDIES registry metadata (issue #7150): data/studies/index.js combines this with
+// hand-authored copy (title/description/seoTitle) to build the STUDIES array that
+// StudiesHubPage and every individual /studies/<slug> page's getStudyBySlug() read.
+// Precomputing headlineStat/dateModified/datasetSize here — instead of data/studies/
+// index.js importing all four full datasets to compute them on every import, as it
+// used to — means the five /studies-family lazy chunks that all share
+// data/studies/index.js (StudiesHubPage + one per study) only share this tiny
+// registry, not the ~200KB of full per-brand "drummers" rankings each individual
+// study page already imports directly for its own table.
+const topKitBrand = STUDY.categories.kits.ranked[0];
+const topReachBrand = DRUM_ENDORSEMENT_LANDSCAPE.brandReach[0];
+const deathMetalTempo = TEMPO_BY_SUBGENRE.genres.find((g) => g.genre === 'death-metal');
+const doublePedalPercent =
+  Math.round((KIT_CONFIGURATIONS.pedalConfig.overall.doublePedal / KIT_CONFIGURATIONS.totalDrummers) * 1000) / 10;
+
+const studyHeadlines = {
+  'most-used-gear-brands-metal': {
+    dateModified: STUDY.generatedAt,
+    datasetSize: STUDY.totalDrummers,
+    headlineStat: {
+      value: `${topKitBrand.percent}%`,
+      label: `${topKitBrand.brand} — most-used drum kit brand`,
+      sentence: `${topKitBrand.brand} is the most-used drum kit brand in metal, played by ${topKitBrand.count} of the ${STUDY.totalDrummers} drummers documented on MetalForge (${topKitBrand.percent}%).`,
+    },
+  },
+  'metal-tempo-by-subgenre': {
+    dateModified: TEMPO_BY_SUBGENRE.generatedAt,
+    datasetSize: TEMPO_BY_SUBGENRE.totalSongs,
+    headlineStat: {
+      value: `${deathMetalTempo.avgBpm} BPM`,
+      label: 'Death Metal — average tempo',
+      sentence: `Across the ${TEMPO_BY_SUBGENRE.totalSongs} songs in MetalForge's tempo database, death metal averages ${deathMetalTempo.avgBpm} BPM, well above the all-genre average of ${TEMPO_BY_SUBGENRE.overall.avgBpm} BPM.`,
+    },
+  },
+  'drum-endorsement-landscape': {
+    dateModified: DRUM_ENDORSEMENT_LANDSCAPE.generatedAt,
+    datasetSize: DRUM_ENDORSEMENT_LANDSCAPE.totalDrummers,
+    headlineStat: {
+      value: `${topReachBrand.percent}%`,
+      label: `${topReachBrand.brand} — widest brand reach`,
+      sentence: `${topReachBrand.brand} reaches more metal drummers than any other brand tracked by MetalForge, endorsed by ${topReachBrand.count} of the ${DRUM_ENDORSEMENT_LANDSCAPE.totalDrummers} documented drummers (${topReachBrand.percent}%).`,
+    },
+  },
+  'metal-kit-configurations': {
+    dateModified: KIT_CONFIGURATIONS.generatedAt,
+    datasetSize: KIT_CONFIGURATIONS.totalDrummers,
+    headlineStat: {
+      value: `${doublePedalPercent}%`,
+      label: 'use a double-pedal setup',
+      sentence: `Double pedal is by far the most common bass-drum configuration among metal drummers, used by ${KIT_CONFIGURATIONS.pedalConfig.overall.doublePedal} of the ${KIT_CONFIGURATIONS.totalDrummers} documented drummers on MetalForge (${doublePedalPercent}%).`,
+    },
+  },
+};
+
+const membershipOutPath = path.join(outDir, 'membershipIndex.js');
+const membershipHeader = `/**
+ * Studies membership index — GENERATED FILE, do not edit by hand.
+ * Regenerate with: node scripts/compute-studies.cjs
+ *
+ * Issue #7150: small derived slices of the four datasets in this directory, for
+ * every caller that only reads a membership flag, a rank/percent, or a headline
+ * number — never the "drummers" arrays that make up nearly all of those datasets'
+ * weight (~200KB). Exports:
+ *   - getDrummerStudyLinks/getGenreStudyLinks: consumed by packages/frontend/App.js
+ *     ("Featured in MetalForge Studies" rail).
+ *   - getBrandStudyLinks: consumed by the four *BrandPage components.
+ *   - STUDY_HEADLINES: consumed by data/studies/index.js to build STUDIES without
+ *     importing the full datasets itself.
+ * See data/studies/index.js.
+ */
+
+const DRUMMER_MOST_USED_GEAR_BRANDS = ${JSON.stringify([...mostUsedGearBrandsDrummers].sort())};
+const DRUM_ENDORSEMENT_LANDSCAPE_DRUMMERS = ${JSON.stringify([...drumEndorsementDrummers].sort())};
+const GENRE_TEMPO_LINKS = ${JSON.stringify(genreTempoLinks, null, 2)};
+const GENRE_PEDAL_LINKS = ${JSON.stringify(genrePedalLinks, null, 2)};
+const MOST_USED_GEAR_BRANDS_RANKS = ${JSON.stringify(mostUsedGearBrandsRanks, null, 2)};
+const DRUM_ENDORSEMENT_BRAND_REACH_RANKS = ${JSON.stringify(drumEndorsementBrandReachRanks, null, 2)};
+export const STUDY_HEADLINES = ${JSON.stringify(studyHeadlines, null, 2)};
+
+function normalizeMembershipKey(s) {
+  return String(s).toLowerCase().replace(/[^a-z0-9]/g, '');
+}
+
+export function getDrummerStudyLinks(drummerSlug) {
+  const links = [];
+  if (DRUMMER_MOST_USED_GEAR_BRANDS.includes(drummerSlug)) {
+    links.push({
+      studySlug: 'most-used-gear-brands-metal',
+      studyTitle: 'Most-Used Drum & Cymbal Brands in Metal',
+      sentence: 'Counted in our most-used gear brands study.',
+    });
+  }
+  if (DRUM_ENDORSEMENT_LANDSCAPE_DRUMMERS.includes(drummerSlug)) {
+    links.push({
+      studySlug: 'drum-endorsement-landscape',
+      studyTitle: 'The Drum Endorsement Landscape in Metal',
+      sentence: 'Counted in our drum endorsement landscape study.',
+    });
+  }
+  return links;
+}
+
+export function getGenreStudyLinks(genreSlugOrName) {
+  const norm = normalizeMembershipKey(genreSlugOrName);
+  const links = [];
+  if (GENRE_TEMPO_LINKS[norm]) links.push(GENRE_TEMPO_LINKS[norm]);
+  if (GENRE_PEDAL_LINKS[norm]) links.push(GENRE_PEDAL_LINKS[norm]);
+  return links;
+}
+
+// Brand display names differ slightly across the per-category brand pages (e.g.
+// "Vater Percussion" vs. the studies' canonical "Vater", "Pro-Mark" vs. "Promark")
+// - matched by normalized substring rather than exact equality, mirroring
+// data/studies/index.js's getBrandStudyLinks (which this replaces for callers that
+// only need the rank/percent, not the full per-brand drummer lists).
+function brandNamesMatch(displayName, canonicalName) {
+  const a = normalizeMembershipKey(displayName);
+  const b = normalizeMembershipKey(canonicalName);
+  return a.includes(b) || b.includes(a);
+}
+
+export function getBrandStudyLinks(displayBrandName) {
+  const links = [];
+
+  for (const cat of Object.values(MOST_USED_GEAR_BRANDS_RANKS)) {
+    const idx = cat.ranked.findIndex((r) => brandNamesMatch(displayBrandName, r.brand));
+    if (idx !== -1) {
+      const r = cat.ranked[idx];
+      links.push({
+        studySlug: 'most-used-gear-brands-metal',
+        studyTitle: 'Most-Used Drum & Cymbal Brands in Metal',
+        sentence: \`\${r.brand} ranks #\${idx + 1} in \${cat.label.toLowerCase()} usage in our brand-usage study (\${r.percent}% of the roster).\`,
+      });
+      break;
+    }
+  }
+
+  const reachIdx = DRUM_ENDORSEMENT_BRAND_REACH_RANKS.findIndex((b) => brandNamesMatch(displayBrandName, b.brand));
+  if (reachIdx !== -1) {
+    const b = DRUM_ENDORSEMENT_BRAND_REACH_RANKS[reachIdx];
+    links.push({
+      studySlug: 'drum-endorsement-landscape',
+      studyTitle: 'The Drum Endorsement Landscape in Metal',
+      sentence: \`\${b.brand} ranks #\${reachIdx + 1} for overall brand reach in our endorsement-landscape study (\${b.percent}% of the roster).\`,
+    });
+  }
+
+  return links;
+}
+`;
+fs.writeFileSync(membershipOutPath, membershipHeader);
+
 // --- Report --------------------------------------------------------------------------
 console.log(`✅ Wrote ${path.relative(path.join(__dirname, '..'), outPath)}`);
 console.log(`   Dataset: ${TOTAL_DRUMMERS} drummers, snapshot ${SNAPSHOT_DATE}`);
@@ -992,3 +1205,11 @@ console.log(`✅ Wrote ${path.relative(path.join(__dirname, '..'), kitConfigOutP
 console.log(`   Pedal config: ${JSON.stringify(pedalOverall)}`);
 console.log(`   Cymbal setup size: ${CYMBAL_SETUPS.length} drummers, avg ${KIT_CONFIGURATIONS.cymbalSetupSize.avgPieces} pieces`);
 console.log(`   Explicit shell configs: ${explicitShellConfigs.length}`);
+
+console.log(`✅ Wrote ${path.relative(path.join(__dirname, '..'), membershipOutPath)}`);
+console.log(
+  `   Membership: ${mostUsedGearBrandsDrummers.size} drummers (gear brands), ${drumEndorsementDrummers.size} drummers (endorsement), ${Object.keys(genreTempoLinks).length} tempo genre keys, ${Object.keys(genrePedalLinks).length} pedal genre keys`
+);
+console.log(
+  `   Brand ranks (no drummer lists): ${Object.values(mostUsedGearBrandsRanks).reduce((n, c) => n + c.ranked.length, 0)} category entries, ${drumEndorsementBrandReachRanks.length} reach entries`
+);

@@ -30,7 +30,10 @@ const moduleLoaders = {
   signatureLicks: () => import('../../components/SignatureLicks'),
   
   // Heavy data modules
-  albumArticles: () => import('../../data/albumArticles'),
+  // Issue #7149: hovering a /articles/ link used to preload the entire
+  // ~2.5MB albumArticles dataset. Preload only the lightweight metadata
+  // manifest instead - the actual article body loads per-slug on navigation.
+  albumArticlesIndex: () => import('../../data/albumArticles/generated/albumArticlesManifest'),
   extendedBios: () => import('../../data/extendedBios'),
   techniques: () => import('../../data/techniques'),
   bands: () => import('../../data/bands'),
@@ -119,7 +122,7 @@ function getModulesForRoute(route) {
     '/techniques': ['techniques'],
     '/genres': ['genres'],
     '/lists': ['top10Lists'],
-    '/articles': ['albumArticles'],
+    '/articles': ['albumArticlesIndex'],
     '/cards': ['gearCards'],
     '/drummer/': ['extendedBios', 'bands'],
   };

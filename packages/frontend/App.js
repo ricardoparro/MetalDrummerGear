@@ -198,21 +198,29 @@ import { getBrandForPedal } from './data/pedalBrands';
 // ==========================================
 
 // Album Articles for iconic metal album gear breakdowns (Issue #663)
-// Lazy loaded for performance optimization (#708) - 206KB module
-let _albumArticlesModule = null;
-let _albumArticlesLoadPromise = null;
-const loadAlbumArticles = () => import('./data/albumArticles');
+// Issue #7149 (L4 perf regression, 26s LCP on mobile): a single
+// `import('./data/albumArticles')` used to pull in every one of the ~429
+// articles (~2.5MB transfer) before any one article's first paragraph could
+// render. The dataset is now split at build time (scripts/generate-album-
+// article-chunks.mjs) into one module per slug plus a lightweight metadata
+// manifest (no bodies) - preloadAlbumArticlesIndex() below loads only the
+// manifest for listing/rail UIs, and loadAlbumArticleBySlug() loads only the
+// one article a /articles/<slug> page actually needs.
+let _albumArticlesManifestModule = null;
+let _albumArticlesManifestLoadPromise = null;
+const loadAlbumArticlesManifest = () => import('./data/albumArticles/generated/albumArticlesManifest');
 
-function preloadAlbumArticles() {
-  if (!_albumArticlesLoadPromise) {
-    _albumArticlesLoadPromise = loadAlbumArticles().then(m => { _albumArticlesModule = m; return m; });
+function preloadAlbumArticlesIndex() {
+  if (!_albumArticlesManifestLoadPromise) {
+    _albumArticlesManifestLoadPromise = loadAlbumArticlesManifest().then(m => { _albumArticlesManifestModule = m; return m; });
   }
-  return _albumArticlesLoadPromise;
+  return _albumArticlesManifestLoadPromise;
 }
-function isAlbumArticlesLoaded() { return _albumArticlesModule !== null; }
-function getAlbumArticleBySlug(slug) { return _albumArticlesModule?.getAlbumArticleBySlug(slug) || null; }
-function getAllAlbumArticles() { return _albumArticlesModule?.getAllAlbumArticles() || []; }
-function isAlbumArticleSlug(slug) { return _albumArticlesModule?.isAlbumArticleSlug(slug) || false; }
+function isAlbumArticlesIndexLoaded() { return _albumArticlesManifestModule !== null; }
+function getAllAlbumArticles() { return _albumArticlesManifestModule?.ALBUM_ARTICLES_MANIFEST || []; }
+function loadAlbumArticleBySlug(slug) {
+  return import('./data/albumArticles/generated/albumArticlesLoaders').then(m => m.loadAlbumArticle(slug));
+}
 
 // Metal Songs BPM database (Issue #4762, songs epic #4758 phase 4/4): lazy
 // loaded so the drummer profile page can link to its /songs/drummer/<slug>
@@ -2899,14 +2907,15 @@ function AlbumArticlesSection({ theme }) {
   // Load album articles lazily - performance optimization (#708), only once
   // the section nears the viewport (Issue #4407 - this 2.5MB+ chunk was
   // downloading unconditionally on every homepage load, even for visitors
-  // who never scrolled this far).
+  // who never scrolled this far). Issue #7149: this rail only needs the
+  // lightweight metadata manifest, not any article's body content.
   useEffect(() => {
     if (!isVisible) return;
-    if (isAlbumArticlesLoaded()) {
+    if (isAlbumArticlesIndexLoaded()) {
       setAlbumArticles(getAllAlbumArticles());
       setIsLoaded(true);
     } else {
-      preloadAlbumArticles().then(() => {
+      preloadAlbumArticlesIndex().then(() => {
         setAlbumArticles(getAllAlbumArticles());
         setIsLoaded(true);
       });
@@ -2998,11 +3007,10 @@ function TopListPage({ theme, onBack, drummers, onSelectDrummer, listSlug, isArt
         }
       }
 
-      // First, ensure album articles module is loaded (Issue #663, fix for lazy load race condition)
-      await preloadAlbumArticles();
-
-      // Check if this is an album article
-      const albumArticle = getAlbumArticleBySlug(listSlug);
+      // Issue #7149 (L4 perf regression, 26s LCP on mobile): load only this
+      // slug's own module instead of the full albumArticles dataset (#5588
+      // already fixed every other route that used to pay this cost).
+      const albumArticle = await loadAlbumArticleBySlug(listSlug);
       if (albumArticle) {
         setList(albumArticle);
         setIsAlbumArticle(true);
@@ -3031,11 +3039,8 @@ function TopListPage({ theme, onBack, drummers, onSelectDrummer, listSlug, isArt
     }
     let mounted = true;
     const normalize = (s) => (s || '').toLowerCase().replace(/[^a-z0-9]+/g, ' ').trim();
-    preloadMetalSongsBpm().then((mod) => {
+    Promise.all([preloadMetalSongsBpm(), preloadAlbumArticlesIndex()]).then(([mod]) => {
       if (!mounted) return;
-      // Album articles are already loaded by this point — this effect only
-      // runs once `list`/`isAlbumArticle` are set, which happens after
-      // loadData()'s `await preloadAlbumArticles()` above resolves.
       const qualifyingSlugs = new Set(mod.getSongPageSlugs(getAllAlbumArticles()));
       const map = {};
       list.trackAnalysis.forEach((track) => {
@@ -4544,14 +4549,16 @@ function ArticlesIndexPage({ theme, onBack, onSelectArticle }) {
     const loadData = async () => {
       setIsLoading(true);
       
-      // Load both modules in parallel
+      // Load both modules in parallel. Issue #7149: this index only lists
+      // articles (title/slug/etc.), so it only needs the lightweight
+      // metadata manifest, not any article's body content.
       const [albumModule, top10Module] = await Promise.all([
-        import('./data/albumArticles'),
+        loadAlbumArticlesManifest(),
         loadTop10Lists()
       ]);
-      
+
       // Extract album articles
-      const articles = Object.values(albumModule.ALBUM_ARTICLES || {});
+      const articles = albumModule.ALBUM_ARTICLES_MANIFEST || [];
       setAlbumArticles(articles);
       
       // Extract top10 lists that are articles (fix: use getAllTop10Lists() not top10Lists)
@@ -7683,11 +7690,13 @@ function DrummerDetail({ drummer, theme, onBack, onSelectGear, onCompareYourKit,
   // TBT hit once #5174 correctly split it back out. Gated behind viewport
   // visibility, same Issue #4407 pattern as the homepage's Album Articles rail
   // (see AlbumArticlesSection above), since this section renders below the fold.
+  // Issue #7149: this list only needs the lightweight metadata manifest
+  // (title/description/drummer ids for filtering) - not any article's body.
   const [articlesVisRef, articlesAreVisible] = useLazyChunkOnVisible();
   useEffect(() => {
     if (!articlesAreVisible) return;
     let mounted = true;
-    preloadAlbumArticles().then(() => {
+    preloadAlbumArticlesIndex().then(() => {
       if (mounted) {
         const articles = getAllAlbumArticles()
           .filter(a => a.drummerId === drummer.id || (a.relatedDrummers || []).includes(drummer.id) || a.relatedDrummerSlug === drummerSlug);
@@ -13056,7 +13065,7 @@ function BpmTapPage({ theme, onBack, drummers, onSelectDrummer }) {
   useEffect(() => {
     let mounted = true;
     const normalize = (s) => (s || '').toLowerCase().replace(/[^a-z0-9]+/g, ' ').trim();
-    Promise.all([preloadMetalSongsBpm(), preloadAlbumArticles()]).then(([mod]) => {
+    Promise.all([preloadMetalSongsBpm(), preloadAlbumArticlesIndex()]).then(([mod]) => {
       if (!mounted) return;
       const qualifyingSlugs = new Set(mod.getSongPageSlugs(getAllAlbumArticles()));
       const map = {};

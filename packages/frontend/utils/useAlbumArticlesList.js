@@ -3,15 +3,19 @@
 // their own; a *static* import of the album-articles dataset from inside one
 // of them would duplicate that multi-MB dataset across chunks and get
 // hoisted by Metro into the always-loaded `__common` bundle (the exact bug
-// this fix resolves in data/metalSongsBpm.js). Going through the existing
-// `import('../data/albumArticles')` dynamic boundary keeps it a single
-// shared async chunk, same as the rest of the app.
+// this fix resolves in data/metalSongsBpm.js). Going through a dynamic
+// import() keeps it a single shared async chunk, same as the rest of the app.
+//
+// Issue #7149: getSongPageGate/getSongPageSlugs/getSongPageData (the only
+// consumers of this list) only ever read `.relatedDrummerSlug`/`.albumTitle`/
+// `.slug`/`.title` off each entry, so this loads the lightweight metadata
+// manifest instead of every article's full body content.
 import { useEffect, useState } from 'react';
 
 let _loadPromise = null;
 function loadAlbumArticlesList() {
   if (!_loadPromise) {
-    _loadPromise = import('../data/albumArticles').then((m) => Object.values(m.ALBUM_ARTICLES));
+    _loadPromise = import('../data/albumArticles/generated/albumArticlesManifest').then((m) => m.ALBUM_ARTICLES_MANIFEST);
   }
   return _loadPromise;
 }

@@ -6,9 +6,10 @@
     "warnRawBytes": 5200000
   },
   "homepageRequestGraph": {
-    "description": "Chunk names that must never be requested on initial homepage load. These are explicitly deferred behind scroll (IntersectionObserver) in TopListsSection/AlbumArticlesSection (#4407) because of their size (albumArticles ~10MB raw, top10Lists ~830KB raw). Other lazy chunks (SoundLikeGuides, drummerComparisons, etc.) are intentionally preloaded in the background via requestIdleCallback for fast subsequent navigation and are not covered by this check.",
+    "description": "Chunk names that must never be requested on initial homepage load. These are explicitly deferred behind scroll (IntersectionObserver) in TopListsSection/AlbumArticlesSection (#4407) because of their size (top10Lists ~830KB raw). Other lazy chunks (SoundLikeGuides, drummerComparisons, etc.) are intentionally preloaded in the background via requestIdleCallback for fast subsequent navigation and are not covered by this check. 2026-09-07 (#7149): the old monolithic `albumArticles` chunk (~10MB raw) was split into one module per /articles/<slug> plus a small `albumArticlesManifest` metadata chunk (AlbumArticlesSection's rail) - both stay scroll-gated, so both stay listed here. The per-slug chunks themselves are named after their article slug and are never requested from the homepage at all, so they don't need an entry.",
     "forbiddenChunks": [
       "albumArticles",
+      "albumArticlesManifest",
       "top10Lists"
     ]
   }

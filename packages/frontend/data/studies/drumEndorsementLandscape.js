@@ -1927,78 +1927,9 @@ export const DRUM_ENDORSEMENT_LANDSCAPE = {
   "signatureModels": {
     "sticks": {
       "signature": {
-        "totalModels": 30,
-        "endorsedModelCount": 25,
+        "totalModels": 29,
+        "endorsedModelCount": 24,
         "byBrand": [
-          {
-            "brand": "Vic Firth",
-            "modelCount": 9,
-            "drummers": [
-              {
-                "id": 6,
-                "name": "George Kollias",
-                "slug": "george-kollias",
-                "band": "Nile",
-                "genre": "Technical Death Metal"
-              },
-              {
-                "id": 12,
-                "name": "Charlie Benante",
-                "slug": "charlie-benante",
-                "band": "Anthrax / S.O.D. / Pantera",
-                "genre": "Thrash Metal"
-              },
-              {
-                "id": 14,
-                "name": "Danny Carey",
-                "slug": "danny-carey",
-                "band": "Tool",
-                "genre": "Progressive Metal"
-              },
-              {
-                "id": 32,
-                "name": "Matt Greiner",
-                "slug": "matt-greiner",
-                "band": "August Burns Red",
-                "genre": "Metalcore / Christian Metal"
-              },
-              {
-                "id": 41,
-                "name": "Nicko McBrain",
-                "slug": "nicko-mcbrain",
-                "band": "Iron Maiden",
-                "genre": "Heavy Metal / NWOBHM"
-              },
-              {
-                "id": 11,
-                "name": "Vinnie Paul",
-                "slug": "vinnie-paul",
-                "band": "Pantera / Damageplan / Hellyeah",
-                "genre": "Groove Metal / Heavy Metal"
-              },
-              {
-                "id": 53,
-                "name": "Matt Garstka",
-                "slug": "matt-garstka",
-                "band": "Animals as Leaders",
-                "genre": "Progressive Metal / Djent"
-              },
-              {
-                "id": 8,
-                "name": "Ray Luzier",
-                "slug": "ray-luzier",
-                "band": "Korn",
-                "genre": "Nu Metal"
-              },
-              {
-                "id": 47,
-                "name": "Gavin Harrison",
-                "slug": "gavin-harrison",
-                "band": "Porcupine Tree / King Crimson",
-                "genre": "Progressive Metal / Progressive Rock"
-              }
-            ]
-          },
           {
             "brand": "ProMark",
             "modelCount": 8,
@@ -2058,6 +1989,68 @@ export const DRUM_ENDORSEMENT_LANDSCAPE = {
                 "slug": "jason-bittner",
                 "band": "Shadows Fall / Overkill / Category 7",
                 "genre": "Thrash Metal / Heavy Metal"
+              }
+            ]
+          },
+          {
+            "brand": "Vic Firth",
+            "modelCount": 8,
+            "drummers": [
+              {
+                "id": 12,
+                "name": "Charlie Benante",
+                "slug": "charlie-benante",
+                "band": "Anthrax / S.O.D. / Pantera",
+                "genre": "Thrash Metal"
+              },
+              {
+                "id": 14,
+                "name": "Danny Carey",
+                "slug": "danny-carey",
+                "band": "Tool",
+                "genre": "Progressive Metal"
+              },
+              {
+                "id": 32,
+                "name": "Matt Greiner",
+                "slug": "matt-greiner",
+                "band": "August Burns Red",
+                "genre": "Metalcore / Christian Metal"
+              },
+              {
+                "id": 41,
+                "name": "Nicko McBrain",
+                "slug": "nicko-mcbrain",
+                "band": "Iron Maiden",
+                "genre": "Heavy Metal / NWOBHM"
+              },
+              {
+                "id": 11,
+                "name": "Vinnie Paul",
+                "slug": "vinnie-paul",
+                "band": "Pantera / Damageplan / Hellyeah",
+                "genre": "Groove Metal / Heavy Metal"
+              },
+              {
+                "id": 53,
+                "name": "Matt Garstka",
+                "slug": "matt-garstka",
+                "band": "Animals as Leaders",
+                "genre": "Progressive Metal / Djent"
+              },
+              {
+                "id": 8,
+                "name": "Ray Luzier",
+                "slug": "ray-luzier",
+                "band": "Korn",
+                "genre": "Nu Metal"
+              },
+              {
+                "id": 47,
+                "name": "Gavin Harrison",
+                "slug": "gavin-harrison",
+                "band": "Porcupine Tree / King Crimson",
+                "genre": "Progressive Metal / Progressive Rock"
               }
             ]
           },
@@ -2144,7 +2137,7 @@ export const DRUM_ENDORSEMENT_LANDSCAPE = {
         ]
       },
       "artistEndorsement": {
-        "totalModels": 30,
+        "totalModels": 29,
         "endorsedModelCount": 5,
         "byBrand": [
           {

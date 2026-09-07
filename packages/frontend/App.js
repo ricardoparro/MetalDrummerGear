@@ -300,7 +300,7 @@ import { recordRecentlyViewed } from './utils/recentlyViewed';
 import SharedGearDrummersBlock from './components/SharedGearDrummersBlock';
 // Studies internal-linking block (Issue #4766, phase 3/3 of epic #4763) -
 // links a drummer profile / genre page to any /studies page that counted it.
-import { getDrummerStudyLinks, getGenreStudyLinks } from './data/studies/index.js';
+import { getDrummerStudyLinks, getGenreStudyLinks } from './data/studies/links.js';
 
 // Drummer Battle - Weekly Voting Feature (Issue #689)
 // Lazy loaded for performance optimization (#708) - 10KB module

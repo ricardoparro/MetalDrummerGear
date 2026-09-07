@@ -140,7 +140,7 @@ export const KIT_QUIZ_QUESTIONS = [
       snare: 'ddrum Vinnie Paul Signature 14x8"',
       cymbals: 'Sabian AAX & HHX Series',
       hardware: 'DW 5000 Series Double Pedal',
-      sticks: 'Vic Firth Vinnie Paul Signature',
+      sticks: 'Vic Firth American Classic 5B',
     },
     hint: '🤠 Texas Groove King - Walk on home, brother!',
     options: [11, 17, 22, 4], // Vinnie, Chris Adler, Art Cruz, Lombardo

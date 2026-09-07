@@ -250,6 +250,14 @@ export const bands = {
     metaTitle: "Slipknot - Drummer History & Gear | MetalForge",
     metaDescription: "Complete history of Slipknot drummers from Joey Jordison to Eloy Casagrande.",
     summary: "Slipknot, formed in 1995 in Des Moines, pioneered the masked nu-metal movement.",
+    // Issue #7138: L3 flagged this page soft-404/crawled-not-indexed for bot-visible
+    // text far thinner than drummer profiles. Bio synthesizes facts already verified
+    // and sourced elsewhere in this same entry (members/drummerHistory/discography/sources).
+    bio: `Slipknot formed in Des Moines, Iowa in 1995 around percussionist/vocalist Shawn "Clown" Crahan, one of the band's founding members and its only remaining original member. The band built its identity around numbered masked personas, elaborate matching jumpsuits, and a nine-member lineup that fused nu-metal's groove and rap-inflected vocals with hardcore aggression and industrial-tinged percussion. That look and sound, cemented on the self-titled 1999 debut, made Slipknot one of the defining acts of the late-1990s nu-metal explosion alongside bands like Korn and Limp Bizkit.
+
+Founding drummer Joey Jordison, one of the most influential and technically gifted drummers of his generation, anchored the band's rise through Iowa (2001), Vol. 3: (The Subliminal Verses) (2004), and All Hope Is Gone (2008) before being dismissed in December 2013; he was later revealed to have been diagnosed with acute transverse myelitis, and he died in 2021. Jay Weinberg, son of E Street Band drummer Max Weinberg, replaced Jordison and recorded three studio albums with the band — .5: The Gray Chapter (2014), We Are Not Your Kind (2019), and The End, So Far (2022) — before departing in a November 2023 "creative decision." Former Sepultura drummer Eloy Casagrande joined in 2024 and made his live debut that April, though he has yet to appear on a Slipknot studio album.
+
+The band has weathered other losses along the way, most significantly the 2010 death of founding bassist Paul Gray, to whom .5: The Gray Chapter is dedicated. Percussionist Chris Fehn departed in 2019 amid a lawsuit over royalties, and sampler/keyboardist Craig Jones left in 2023 after 27 years. Despite the upheaval, Slipknot has sold tens of millions of records worldwide and remains one of the most successful and influential bands to emerge from the nu-metal era, still headlining festivals globally with a lineup built around Crahan, guitarists Mick Thomson and Jim Root, vocalist Corey Taylor, and turntablist Sid Wilson.`,
     keywords: ["slipknot", "joey jordison", "jay weinberg", "eloy casagrande", "nu metal", "drummer gear"],
     members: [
       { name: "Shawn \"Clown\" Crahan", role: "percussion, vocals", period: "1995-present", notes: "Founding member; only original member remaining" },
@@ -314,6 +322,12 @@ export const bands = {
     metaTitle: "Slayer - Dave Lombardo Drummer Profile & Gear | MetalForge",
     metaDescription: "Explore Slayer's legendary drummer Dave Lombardo and his iconic gear.",
     summary: "Slayer, formed in 1981, defined extreme thrash metal with aggressive drumming.",
+    // Issue #7138: content-depth fix — see Slipknot entry for rationale.
+    bio: `Slayer formed in Huntington Park, California, in 1981, when guitarists Kerry King and Jeff Hanneman joined forces with bassist/vocalist Tom Araya and drummer Dave Lombardo. Alongside Metallica, Megadeth, and Anthrax, Slayer became one of the "Big Four" bands credited with founding and defining thrash metal, but the band pushed further into extremity than its peers, building a reputation for uncompromising speed, dark and often controversial lyrical themes, and some of the most technically demanding drumming in the genre.
+
+Lombardo's blast-beat-driven playing on Show No Mercy (1983) and Hell Awaits (1985) helped set the template for extreme metal drumming, but it was 1986's Reign in Blood, produced by Rick Rubin, that became Slayer's definitive statement — a roughly 29-minute album widely regarded as one of the most influential and extreme thrash records ever made. Lombardo left the band in 1986, returned for 1987-1992, and was replaced by Paul Bostaph for a run of albums including Divine Intervention (1994) and Diabolus in Musica (1998); Jon Dette briefly filled the drum stool between Bostaph's two stints. Lombardo rejoined in 2001 for Christ Illusion (2006) and World Painted Blood (2009) before being fired in February 2013 amid a pay dispute, after which Bostaph returned for Repentless (2015) and remained through the band's farewell.
+
+Slayer ended full-time touring with a final show on November 30, 2019, at The Forum in Los Angeles, closing out a nearly four-decade career shadowed by the 2013 death of co-founding guitarist Jeff Hanneman. The band has played sporadic reunion festival dates since 2024. Slayer's catalog — anchored by Reign in Blood, South of Heaven (1988), and Seasons in the Abyss (1990) — remains a cornerstone reference point for thrash, death, and black metal drummers who cite Lombardo's speed and precision as foundational to extreme drumming technique.`,
     keywords: ["slayer", "dave lombardo", "thrash metal", "double bass", "drummer gear"],
     formerMembers: [
       { name: "Tom Araya", role: "bass, vocals", period: "1981-2019", notes: "Founding member; band ended touring in 2019, sporadic reunion festival dates from 2024" },
@@ -373,6 +387,14 @@ export const bands = {
     metaTitle: "Meshuggah - Tomas Haake Drummer Profile & Gear | MetalForge",
     metaDescription: "Discover Tomas Haake's revolutionary polyrhythmic drumming with Meshuggah.",
     summary: "Meshuggah, formed in 1987 in Sweden, pioneered djent and polyrhythmic metal.",
+    // Issue #7138: content-depth fix — see Slipknot entry for rationale.
+    bio: `Meshuggah formed in Umeå, Sweden, in 1987, and spent its early years as one of extreme metal's most technically ambitious bands, built around vocalist Jens Kidman and guitarist Fredrik Thordendal. Original drummer Niklas Lundgren played on the band's 1989 self-titled EP before departing in 1990 and being replaced by Tomas Haake, who has since recorded every Meshuggah studio album and become one of metal's most studied and influential drummers for his polyrhythmic, mathematically precise approach to groove.
+
+Beginning with 1991's Contradictions Collapse, Meshuggah built a sound defined by extended-range 8-string guitars, downtuned riffs locked into shifting, overlapping time signatures, and Haake's ability to phrase across those meters without losing the groove — a style later labeled "djent" by the online metal community, even as Meshuggah themselves resisted the term. Albums like Destroy Erase Improve (1995), Chaosphere (1998), Catch Thirtythree (2005), and obZen (2008) expanded the approach and drew the band an increasingly devoted following among progressive and technical metal musicians.
+
+The band's lineup has been unusually stable for a genre known for turnover: Kidman and Thordendal have anchored Meshuggah since 1987, rhythm guitarist Marten Hagstrom joined in 1993, and bassist Dick Lovgren has held the position since 2004, following founding bassist Peter Nordin and his successor Gustaf Hielm. That continuity carried through Koloss (2012), The Violent Sleep of Reason (2016), and Immutable (2022), and Meshuggah's influence is now cited by a generation of progressive metal and djent bands, including genre peers like Periphery and Animals as Leaders.
+
+Haake's drumming is a central reason Meshuggah is studied as closely by drum educators as it is enjoyed by fans: rather than simply playing in odd time signatures, he builds ostinato patterns that repeat independently of the guitar riff's own cycle length, so the two lock back into phase only every few bars. That approach, combined with his use of a customized, downtuned kit built for clarity at extreme volume, has made Haake a reference point cited by technical and progressive metal drummers well outside Meshuggah's own djent-adjacent scene, and the band remains a headline act on progressive metal package tours worldwide more than three decades after forming.`,
     keywords: ["meshuggah", "tomas haake", "djent", "polyrhythm", "progressive metal", "drummer gear"],
     members: [
       { name: "Jens Kidman", role: "lead vocals", period: "1987-present", notes: "Founding member; also rhythm guitar 1987-1993" },
@@ -615,6 +637,12 @@ export const bands = {
     metaTitle: "Korn - Drummer History & Gear | MetalForge",
     metaDescription: "Explore Korn's drummer history from David Silveria to Ray Luzier.",
     summary: "Korn, formed in 1993 in Bakersfield, California, is credited with pioneering the nu-metal genre.",
+    // Issue #7138: content-depth fix — see Slipknot entry for rationale.
+    bio: `Korn formed in Bakersfield, California, in 1993 and is widely credited as one of the founding bands of nu-metal, fusing detuned, percussive guitar riffs with hip-hop-influenced rhythms and Jonathan Davis's raw, confessional vocals about trauma and alienation. The band's self-titled 1994 debut introduced a sound built around seven-string guitars and founding drummer David Silveria's groove-heavy, hip-hop-inflected playing, and Korn's popularity exploded with Follow the Leader (1998) and Issues (1999), both of which debuted at number one on the Billboard 200.
+
+Silveria drummed on every Korn album through See You on the Other Side (2005) before going on what became a permanent hiatus in December 2006. The band's 2007 self-titled follow-up (commonly called the "Untitled" album) was recorded using session drummers Terry Bozzio and Brooks Wackerman rather than a single official replacement, and Slipknot's Joey Jordison filled in for live shows through 2008. Ray Luzier joined in 2007, became a full-time official member in 2009, and made his studio debut on Korn III: Remember Who You Are (2010), going on to record the dubstep-influenced The Path of Totality (2011) and every Korn album since.
+
+Guitarist Brian "Head" Welch left the band for several years citing religious reasons before rejoining permanently in 2013, first appearing on The Paradigm Shift that year, while bassist Reginald "Fieldy" Arvizu has been on indefinite hiatus since 2021. Across three decades and albums including The Serenity of Suffering (2016), The Nothing (2019), and Requiem (2022), Korn's blend of groove, aggression, and emotional rawness has remained a foundational reference point for nu-metal and alternative metal drummers.`,
     keywords: ["korn", "ray luzier", "david silveria", "nu metal", "drummer gear"],
     members: [
       { name: "Jonathan Davis", role: "vocals", period: "1993-present", notes: "Founding member" },
@@ -679,6 +707,12 @@ export const bands = {
     metaTitle: "Kublai Khan TX - Isaac Lamb Drummer Profile & Gear | MetalForge",
     metaDescription: "Complete profile of Kublai Khan TX drummer Isaac Lamb. Explore his powerful beatdown hardcore style and the band's crushing breakdowns.",
     summary: "Kublai Khan TX, formed in 2009 in Sherman, Texas, is a leading force in beatdown hardcore and metalcore. Known for crushing breakdowns and socially conscious lyrics.",
+    // Issue #7138: content-depth fix — see Slipknot entry for rationale.
+    bio: `Kublai Khan TX formed in Sherman, Texas — a small city roughly 60 miles north of Dallas — in 2009, built around vocalist Matt Honeycutt and drummer Isaac Lamb, who remains the only drummer in the band's history. The band added "TX" to its name after a naming conflict with a Minnesota thrash metal band also called Kublai Khan, and went on to become one of the leading acts in the beatdown hardcore scene, a heavier, more breakdown-driven offshoot of metalcore influenced by bands like Hatebreed, Earth Crisis, and Integrity.
+
+After a self-released debut EP, Youth War (2010), the band signed to Artery Records and released its first full-length, Balancing Survival and Happiness, in 2014; the album was named to Alternative Press's "Best Albums of 2014 So Far" list and helped establish Kublai Khan TX nationally. The band followed with New Strength (2015) before moving to Rise Records for Nomad (2017) and Absolute (2019), building a reputation on Isaac Lamb's punishing, breakdown-driven drumming and the band's socially conscious lyrical themes.
+
+Kublai Khan TX has continued to release music steadily through the 2020s, including the Lowest Form of Animal EP (2022) and the full-length Exhibition of Prowess (2024). With Isaac Lamb behind the kit for the band's entire existence and no lineup changes on drums, Kublai Khan TX stands out in the hardcore and metalcore scene for its stability, and the band remains a fixture on hardcore and metalcore package tours.`,
     keywords: ["kublai khan tx", "isaac lamb", "beatdown hardcore", "metalcore", "texas hardcore", "drummer gear", "heavy breakdowns"],
     members: [
       { name: "Matt Honeycutt", role: "vocals", period: "2009-present", notes: "Founding member" },
@@ -791,6 +825,12 @@ export const bands = {
     metaTitle: "Death - Drummer History & Gear | MetalForge",
     metaDescription: "Complete history of drummers for Death, the pioneering death metal band.",
     summary: "Death, formed in 1984 by Chuck Schuldiner, is considered the pioneer of death metal.",
+    // Issue #7138: content-depth fix — see Slipknot entry for rationale.
+    bio: `Death began in Altamonte Springs, Florida, in 1983 under the name Mantas, founded by guitarist, vocalist, and songwriter Chuck Schuldiner, who renamed the project Death before releasing any music. The band's 1987 debut, Scream Bloody Gore — recorded with 17-year-old drummer Chris Reifert, who left afterward to found Autopsy — is widely regarded, alongside early releases by Possessed, as one of the first true death metal albums, and Schuldiner is commonly credited as a founding architect of the genre.
+
+Because Death was fundamentally Chuck Schuldiner's vehicle, the band's lineup turned over on almost every record, drawing in players who would go on to prominent careers elsewhere: drummer Bill Andrews recorded Leprosy (1988) and Spiritual Healing (1990); Sean Reinert of Cynic played on the more progressive Human (1991); Gene Hoglan, later known as one of extreme metal's most respected drummers, recorded Individual Thought Patterns (1993) and Symbolic (1995); and Richard Christy closed out the band's discography on The Sound of Perseverance (1998). That constant reinvention let Death evolve from the raw, primitive death metal of its early releases into the technical, progressive style that defined its final albums.
+
+Chuck Schuldiner was diagnosed with brain cancer while working on his side project Control Denied's debut album, and he died on December 13, 2001, from complications including pneumonia, ending Death permanently. Death's catalog remains foundational listening in death metal, and Schuldiner is routinely cited by later generations of death and technical metal drummers and guitarists as one of the genre's most important and influential figures.`,
     keywords: ["death", "chuck schuldiner", "death metal", "gene hoglan", "richard christy", "drummer gear"],
     formerMembers: [
       { name: "Chuck Schuldiner", role: "guitar, vocals, founder", period: "1983-2001", notes: "Founded the band (originally as Mantas) in 1983; died December 13, 2001, of complications from brain cancer (glioma) and pneumonia, ending the band" },
@@ -856,6 +896,14 @@ export const bands = {
     metaTitle: "Limp Bizkit - John Otto Drummer Profile & Gear | MetalForge",
     metaDescription: "Explore John Otto's hip-hop influenced drumming with Limp Bizkit.",
     summary: "Limp Bizkit, formed in 1994, fused rap and metal to become one of the biggest nu-metal bands.",
+    // Issue #7138: content-depth fix — see Slipknot entry for rationale.
+    bio: `Limp Bizkit formed in Jacksonville, Florida, in 1994 around vocalist Fred Durst, guitarist Wes Borland, turntablist DJ Lethal, bassist Sam Rivers, and drummer John Otto, who trained in jazz drumming at the Douglas Anderson School of the Arts and has played on every Limp Bizkit studio album since the band's 1997 debut, Three Dollar Bill, Y'all. That jazz background gave Otto's playing a looseness and swing that set Limp Bizkit apart from many of its more straightforwardly aggressive nu-metal contemporaries.
+
+The band became one of the biggest acts in rock with Significant Other (1999) and especially Chocolate Starfish and the Hot Dog Flavored Water (2000), which debuted at number one on the Billboard 200 and sold more than a million copies in its first week, fueled by Durst's confrontational persona and the band's fusion of rap cadences with heavy, downtuned riffs. Guitarist Wes Borland left the band after Chocolate Starfish's touring cycle and returned in 2004, reflecting a lineup that has otherwise remained remarkably stable around its four founding members.
+
+John Otto has missed only a brief stretch of the band's output — session drummer Sammy Siegler filled in for much of the 2005 EP The Unquestionable Truth (Part 1) — and Otto returned for Results May Vary (2003), Gold Cobra (2011), and the band's 2021 comeback album, Still Sucks. Founding bassist Sam Rivers, who died in October 2025, played across most of the band's catalog, and Limp Bizkit remains one of nu-metal's most commercially successful and enduring acts.
+
+Guitarist Wes Borland's elaborate stage costumes and body paint, paired with Fred Durst's brash, red-cap-and-backwards-jersey frontman persona, made Limp Bizkit as much a visual fixture of early-2000s rock as a musical one, and the band's fusion of rap cadences with metal riffing helped pave the way for the broader rap-metal and nu-metal boom of that era. Decades on, Otto's jazz-schooled pocket remains the rhythmic backbone that lets the band's chaotic, genre-blending songwriting hold together live.`,
     keywords: ["limp bizkit", "john otto", "nu metal", "rap metal", "drummer gear"],
     members: [
       { name: "Fred Durst", role: "lead vocals", period: "1994-present", notes: "Founding member" },
@@ -907,6 +955,12 @@ export const bands = {
     metaTitle: "Suicidal Tendencies - Drummer History & Gear | MetalForge",
     metaDescription: "Complete history of Suicidal Tendencies drummers.",
     summary: "Suicidal Tendencies, formed in 1980, pioneered the crossover thrash genre.",
+    // Issue #7138: content-depth fix — see Slipknot entry for rationale.
+    bio: `Suicidal Tendencies formed in Venice, California, in 1980, led from the start by vocalist Mike Muir, and became one of the pioneering bands of crossover thrash — a style that fused hardcore punk's speed and DIY attitude with the riffing and musicianship of thrash metal. The band's self-titled 1983 debut, featuring the enduring single "Institutionalized," became an underground classic and helped bridge the hardcore punk and thrash metal scenes at a time when the two audiences rarely mixed.
+
+Few bands in metal or hardcore have seen as much drummer turnover as Suicidal Tendencies, which has gone through more than a dozen drummers since 1980. R.J. Herrera anchored the band's classic crossover-era run through Join the Army (1987) and Lights...Camera...Revolution! (1990); later drummers included Jimmy DeGrasso, Brooks Wackerman (who rejoined from the band's own side project Infectious Grooves), and Eric Moore, who held the seat from 2008 to 2016. Former Slayer drummer Dave Lombardo joined in 2016 and recorded World Gone Mad, and bassist Robert Trujillo, who played with the band from 1989 to 1995, went on to join Metallica.
+
+The revolving drum chair has continued in recent years: Brandon Pertzborn, Greyson Nekrutman, and former Slipknot drummer Jay Weinberg each held the position for a few years apiece before Xavier Ware, who also drums on Mike Muir's Cyco Miko solo project, took over in January 2026. Despite the lineup churn, Suicidal Tendencies has remained active for over four decades and is widely credited as a founding influence on crossover thrash and the broader fusion of hardcore punk with metal.`,
     keywords: ["suicidal tendencies", "dave lombardo", "jay weinberg", "crossover thrash", "drummer gear"],
     members: [
       { name: "Mike Muir", role: "lead vocals", period: "1980-1995, 1996-present", notes: "Founding member" },
@@ -1504,6 +1558,14 @@ export const bands = {
     metaTitle: "Animals as Leaders - Drummer History & Gear | MetalForge",
     metaDescription: "Explore Animals as Leaders' drumming legacy with Navene Koperweis and Matt Garstka.",
     summary: "Animals as Leaders, formed in 2007 in Washington D.C. by guitarist Tosin Abasi, is a leading instrumental progressive metal act known for its complex, technical compositions.",
+    // Issue #7138: content-depth fix — see Slipknot entry for rationale.
+    bio: `Animals as Leaders formed in Washington, D.C., in 2007 around guitarist Tosin Abasi, and the project's 2009 self-titled debut was notable for having no live drummer at all — the drum tracks were programmed, primarily by engineer and Periphery guitarist Misha Mansoor, while Abasi recorded most of the guitar and bass parts himself. The band is entirely instrumental, with Abasi's and later Javier Reyes's guitar work carrying the melodic lead role usually filled by a vocalist.
+
+Navene Koperweis, also known for his work with Entheos, became the band's first live drummer in 2009 and recorded 2011's Weightless before departing in March 2012. He was replaced by Matt Garstka, whose jazz-fusion background and polyrhythmic command of odd meters became central to the band's identity, first showcased on The Joy of Motion (2014). Garstka has since recorded every Animals as Leaders album, including The Madness of Many (2016) and Parrhesia (2022).
+
+Animals as Leaders became one of the flagship bands of the djent movement and instrumental progressive metal more broadly, drawing frequent comparisons to and touring alongside genre peers like Periphery and Meshuggah — bands the group itself counts among its closest musical relatives. Garstka's playing in particular is widely studied by progressive and technical drummers for its blend of extended-technique jazz vocabulary with the extreme time-signature complexity typical of modern djent, and the band's all-instrumental format has let its guitar-and-drums interplay take a compositional role usually reserved for vocals in more conventional metal.
+
+Because Animals as Leaders carries no vocalist, each album leans heavily on the interplay between Abasi and Reyes's extended-range guitar work — typically eight-string instruments tuned well below standard guitar range — and Garstka's drumming to supply melodic hooks, dynamic contrast, and a sense of song structure that would otherwise come from lyrics and vocal melody. That format has made the band a frequent reference point in discussions of instrumental metal songwriting, and its catalog is commonly used as a teaching tool by drum instructors covering odd-meter phrasing and metric modulation.`,
     keywords: ["animals as leaders", "navene koperweis", "matt garstka", "djent", "progressive metal", "instrumental metal", "drummer gear"],
     members: [
       { name: "Tosin Abasi", role: "lead guitar", period: "2007-present", notes: "Founding member" },
@@ -1989,6 +2051,12 @@ export const bands = {
     metaTitle: "Behemoth - Inferno Drummer Profile & Gear | MetalForge",
     metaDescription: "Explore Inferno's extreme drumming with Polish blackened death metal band Behemoth.",
     summary: "Behemoth, formed in 1991, evolved from black metal to become a leading blackened death metal band.",
+    // Issue #7138: content-depth fix — see Slipknot entry for rationale.
+    bio: `Behemoth formed in Gdańsk, Poland, in 1991, founded by guitarist and vocalist Adam "Nergal" Darski, and began as a raw black metal act before gradually evolving — starting most clearly with 1999's Satanica — into one of the leading blackened death metal bands in the world. Original drummer Adam "Baal Ravenlock" Muraszko played on the band's early releases, including the 1995 debut Sventevith (Storming Near the Baltic) and 1996's Grom, before Zbigniew "Inferno" Promiński took over on drums in 1997 and has remained the band's drummer ever since, aside from a brief absence around Satanica's release and paternity leave in 2017.
+
+Behemoth's transition from black metal toward a heavier, more technical and theatrical blackened death metal sound accelerated through the 2000s on albums like Zos Kia Cultus (Here and Beyond) (2002), Demigod (2004), and The Apostasy (2007), building the band's reputation for elaborate corpse paint, provocative anti-religious imagery, and increasingly ambitious songwriting. Evangelion (2009), produced by Colin Richardson, marked a further leap in production scale and international profile.
+
+In August 2010, Nergal was diagnosed with leukemia, and after a period of treatment and recovery, Behemoth released The Satanist (2014) to widespread critical acclaim, widely regarded as a career-defining album. The band has continued at a high level since, with I Loved You at Your Darkest (2018) and Opvs Contra Natvram (2022), released for Behemoth's 30th anniversary, cementing the band's status as Poland's most internationally successful metal export and one of extreme metal's most enduring and influential acts.`,
     keywords: ["behemoth", "inferno", "nergal", "blackened death metal", "polish metal", "drummer gear"],
     members: [
       { name: "Adam \"Nergal\" Darski", role: "guitar, lead vocals", period: "1991-present", notes: "Founder; also played bass and rhythm guitar during various periods; recovered from leukemia diagnosed August 2010" },

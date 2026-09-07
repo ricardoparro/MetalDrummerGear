@@ -3101,6 +3101,11 @@ export function getMetaForPath(pathname) {
         // JSON-LD below but never the visible body — leadFact prints it right
         // under the h1, same pattern as #6071's extendedBios overview fix.
         leadFact: band.summary ? escapeHtml(band.summary) : null,
+        // Issue #7138: band.bio is verified prose synthesized from this same
+        // entry's members/drummerHistory/discography/sources fields — L3 flagged
+        // these pages soft-404 for bot-visible text far thinner than drummer
+        // profiles. Reuses the #6070/#6071 bioSections/renderBioParagraphs hook.
+        bioSections: band.bio ? { name: band.name, overview: band.bio } : null,
         articleSchema: JSON.stringify({
           '@context': 'https://schema.org',
           '@type': 'MusicGroup',
@@ -3308,6 +3313,25 @@ export function getMetaForPath(pathname) {
           })),
           ...(bestForMetal ? [bestForMetal] : []),
         ],
+        // Issue #7138: brand.history/longDescription is already-verified, sourced
+        // content (founding story, milestones, metal-era usage) that reached the
+        // JSON-LD description but was never rendered in the bot-visible body —
+        // L3 flagged these pages soft-404 for content far thinner than drummer
+        // profiles. Reuses the #6070/#6071 bioSections/renderBioParagraphs hook.
+        bioSections: brand.history ? {
+          name: brand.name,
+          overview: brand.history.story ? brand.history.story.join('\n\n') : undefined,
+          careerHighlights: brand.history.milestones,
+          styleAndInfluences: brand.longDescription,
+          gearHighlights: brand.history.metalEra,
+        } : null,
+        ...(brand.popularModels && brand.popularModels.length > 0 ? {
+          tables: [{
+            heading: `Popular ${brand.name} Models for Metal`,
+            headers: ['Model', 'Description'],
+            rows: brand.popularModels.map(m => [m.name, m.description]),
+          }],
+        } : {}),
         faqDisplayItems: brandFaqItems,
         articleSchema: JSON.stringify({
           '@context': 'https://schema.org',

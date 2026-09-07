@@ -1,0 +1,62 @@
+{
+  "generatedAt": "2026-09-07T13:44:03.670Z",
+  "windowDays": 90,
+  "totalDomains": 10,
+  "newDomainsThisRun": [
+    "hotbot.com",
+    "odiasearch.com"
+  ],
+  "domains": [
+    {
+      "domain": "m.facebook.com",
+      "sessions": 12,
+      "users": 2
+    },
+    {
+      "domain": "uk.search.yahoo.com",
+      "sessions": 2,
+      "users": 2
+    },
+    {
+      "domain": "ca.search.yahoo.com",
+      "sessions": 1,
+      "users": 1
+    },
+    {
+      "domain": "doubao.com",
+      "sessions": 1,
+      "users": 1
+    },
+    {
+      "domain": "facebook.com",
+      "sessions": 1,
+      "users": 1
+    },
+    {
+      "domain": "hotbot.com",
+      "sessions": 1,
+      "users": 1
+    },
+    {
+      "domain": "mx.search.yahoo.com",
+      "sessions": 1,
+      "users": 1
+    },
+    {
+      "domain": "odiasearch.com",
+      "sessions": 1,
+      "users": 1
+    },
+    {
+      "domain": "searchhippo.com",
+      "sessions": 1,
+      "users": 1
+    },
+    {
+      "domain": "zapmeta.com",
+      "sessions": 1,
+      "users": 1
+    }
+  ],
+  "prevSnapshotFile": "2026-08-31.json"
+}

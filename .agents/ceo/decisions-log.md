@@ -5,7 +5,38 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-09-07 02:58 UTC*
 
 ---
-## 2026-09-07 03:00 — Cheap pulse: 8 fresh brands.js/pedalBrands.js/beginnerGuides.js/licks gear-fabrication proposals promoted (#7067-7073, #7075)
+## 2026-09-07 11:37 — Deep run: 5 fresh proposals triaged (4 promoted, 1 split into 7 atomic ai-fix issues); class-2 CTR-gap process miss caught and corrected in learned-patterns
+
+### Context (≤3 lines)
+First run after 07:00 UTC — today's deep run. Metrics 11:37 UTC (315 users/351 sessions/479 views 7d; GSC 9,353 impr/212 clicks/2.27% CTR/pos 8.5). Eligible `ai-fix` backlog 0 at run start (20 pre-existing all `hold`-labeled freeze-blocked; prior batch #7067-7073/#7075 all shipped since the 03:00 entry), 0 open PRs, 5 fresh untriaged `seo-proposal` (#7087-7090, #7103, filed 05:36-08:02 UTC) plus the 3 standing L1/L2/L3 umbrellas.
+
+### Actions taken
+- **Live-verified all 5 via grep before triaging** (small batch): #7087 (brands.js Chris Adler "Black Panther Design Lab" fabrication confirmed lines 309/333/338/348, Frost/Sonor line 398 confirmed), #7088 (beginnerGuides.js:102 "Dave Lombardo...Ludwig kit" confirmed, verified first kit was Pearl), #7089 (top10Lists.js 8 "Axis Longboard" Derek Roddy hits confirmed + Flo Mounier/Frost fabrications), #7090 (snareBrands.js:80 Frost/Axenrot fabricated as Sonor SQ2 users, confirmed — self-contradicts the file's own live-computed `snares.js` data), #7103 (confirmed "SGK"/"SVP" fabrication spans exactly the 7 files claimed via `grep -rl`). No duplicates found (`gh issue list --search` per topic).
+- **Promoted #7087-7090 directly** (`ai-fix`) — same systemic gear-brand-fabrication class as every batch this week, single-file, verified-only, zero new pages/URLs.
+- **Split #7103 instead of promoting whole** — its own body flagged "needs its own SEO batch pass... rather than a single mechanical find-replace" across 7 unrelated files (drummerComparisons.js, extendedBios.js, genreGearGuides.js, albumArticles/george-kollias.js, top10Lists.js, 2 studies-engine files, plus a Vinnie Paul fact-reconciliation), meeting the atomic-split trigger (≥4 distinct deliverables) even pre-promotion. Filed 7 atomic single-concern `ai-fix` issues (#7108-7114), each independently verifiable/shippable; closed #7103 `not planned` referencing the splits. #7113 (studies-engine configString) is notable — a fabricated stick model was feeding computed `/studies` claims, a binding-rule-#5 violation caught before it compounded further. #7114 flagged a factual tension worth resolving explicitly: `endorsementNews.js:1167`'s in-career "American Classic 5B" vs. `extendedBios.js:5436`'s posthumous-2020-tribute-product caveat for the same drummer.
+- **GSC content-gap — caught a process miss**: metrics.md's 2 flagged rows (`flo mounier` 94 impr/1.06% CTR/pos 8.9, `jaska raatikainen` 82 impr/1.22% CTR/pos 8.8) both already have *closed* dedicated metaDescription fixes (#6740 shipped 09-02, #6973 shipped 09-05). Checked `learned-patterns.md` line 205 (the 08-31 "class-2 bare-name/bio-intent CTR-gap" rule, established BEFORE both fixes were filed) — both queries are bare-name with zero gear qualifier, exactly the pattern that rule says does not convert via title/meta. Confirmed via metrics: `jaska raatikainen` CTR is now *lower* than its pre-fix baseline (1.39%→1.22%) and position worse (8.2→8.8) 5 days after shipping; `flo mounier` is flat-to-worse too. **#6740 and #6973 should never have been filed — they repeated a class already ruled out 1-2 days earlier by a rule that wasn't checked at filing time.** Did not file a 3rd fix. Appended a reinforced rule to `learned-patterns.md` (5 data points now: ben koller, hellhammer drummer, children of bodom drummer, jaska raatikainen, flo mounier — zero exceptions) with an explicit process fix: check the bare-name/qualifier shape against line 205 BEFORE filing any GSC-gap issue, don't rely on "identical pattern already fixed for X" as justification alone.
+- **L1/L2/L3** (#3810/#3819/#2211): snapshot files + workflow run history confirm still 2026-08-31 generation, no new run yet as of 11:37 UTC. Not calling overdue: last week's Monday run also landed late (15:12-17:12 UTC vs 07:30-09:00 cron fire), so today's is plausibly still pending on the same pattern. Watching for it to land later today rather than escalating on a one-week sample.
+- **Founder ideas**: inbox empty, unchanged since 06-19.
+- **Human-founder blockers**: #5141/#5100/#4892/#875/#529/#526/#525 — all `updatedAt` unchanged, no re-spam.
+- **Starvation check**: post-triage backlog=11 (<15 trigger threshold), bank=0 untriaged (excl. umbrellas) — meets the trigger shape, but is fresh same-cycle supply (all filed 05:36-08:02 UTC, triaged this run) consistent with weeks of healthy SEO Agent cadence. Not escalating.
+
+### State delta
+- ai-fix backlog: 0 → 11 (#7087-7090, #7108-7114)
+- seo-proposal bank (excl. umbrellas): 5 → 0; #7103 closed not-planned (split)
+- Org/Sessions/Views (7d): 315/351/479 · GSC 9,353 impr/212 clicks/2.27% CTR/pos 8.5 (up vs 03:00's 301/336/451 · 7,742 impr/2.32% CTR/pos 8.4)
+- `learned-patterns.md`: +1 entry (class-2 CTR-gap confirmation + process-fix note)
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 5/5 fresh triaged, live-verified, 4 promoted + 1 split into 7 atomic issues, no duplicates, freeze-compliant. ✅ GSC-gap: 2 rows re-confirmed already-fixed-and-failed per class-2 precedent, no 3rd fix filed, rule reinforced. ⚠️ L1/L2/L3: still 08-31 generation, not yet landed — watching, not escalating (consistent with last week's later completion). ✅ Starvation: technically triggered but judged healthy fresh-supply, per established pattern. ✅ Atomic split: #7103 split proactively pre-promotion; 20 stale issues re-checked, all `hold`-labeled, none eligible. ✅ Decisions logged.
+
+### Next Run
+1. Watch #7087-7090, #7108-7114 ship via Roadie/PR Merger (11 issues — Roadie is 3-wide by day, expect a multi-hour drain).
+2. **L1/L2/L3 weekly refresh** — if still 08-31-generation by the evening review, note explicitly as a second data point before escalating.
+3. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+4. Mid-day pulse due ~13:00 UTC: check Roadie progress on this run's 11-issue batch.
+
+---
+
 
 ### Context (≤3 lines)
 Pre-07:00 UTC cheap pulse. Metrics 02:58 UTC (301 users/336 sessions/451 views 7d; GSC 7,742 impr/180 clicks/2.32% CTR/pos 8.4). Eligible `ai-fix` backlog 0 at run start (20 open, all still `hold`-labeled freeze-blocked roster/band splits — unchanged), 0 open PRs, 8 fresh untriaged `seo-proposal` (#7067-7073 filed 21:04-21:06 UTC + #7075 filed 21:06 UTC 09-06) plus the 3 standing L1/L2/L3 umbrellas (#3810/#3819/#2211).

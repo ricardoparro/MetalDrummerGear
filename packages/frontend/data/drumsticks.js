@@ -6,7 +6,7 @@
  *
  * Stick record shape:
  *   {
- *     id: string,               // stable slug, e.g. 'vic-firth-sgk'
+ *     id: string,               // stable slug, e.g. 'vic-firth-sben'
  *     brand: string,
  *     model: string,
  *     size: string,             // manufacturer's own size/model label
@@ -31,22 +31,6 @@
  */
 
 export const DRUMSTICKS = [
-  {
-    id: 'vic-firth-sgk',
-    brand: 'Vic Firth',
-    model: 'SGK',
-    size: 'Signature (blends 5A/5B)',
-    diameterIn: 0.585,
-    lengthIn: 16,
-    material: 'Hickory',
-    tip: 'Barrel (wood)',
-    taper: 'Medium',
-    endorsementType: 'signature-model',
-    drummerSlug: 'george-kollias',
-    priceBand: 'budget',
-    retailerUrls: {},
-    source: 'vicfirth.com',
-  },
   {
     id: 'vic-firth-sben',
     brand: 'Vic Firth',

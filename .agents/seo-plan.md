@@ -8025,3 +8025,40 @@ Filed 2 of the 8-cap — the fresh, high-confidence surface from this run's 3 re
 3. `generate-llms-drummers.cjs` now cross-links (once #7189 ships) all of Snare/Cymbal/Pedal/Licks/Studies/Evolution/Gear-History/Endorsements — the 72-drummer LLM profile is at max sibling-cross-link completeness; if a NEW per-drummer `/llms/<family>/<slug>.md` surface is ever added, remember to also add its cross-link here as part of the same PR, not as a separate later fix.
 4. `relatedAlbums` (70/72 files, UI-only slug array) and `producer`/`studio` (now fixed via #7188) close out the `generate-llms-articles.cjs` field-parity audit — no further candidate fields identified this round.
 5. Rule for future runs: when a research agent reports a field/file "population count," personally re-verify with a quick corrected grep before trusting it for a filing decision — agent (2) this run undercounted `studio`/`producer` by an order of magnitude due to a quoting mismatch, which would have caused 2 legitimate gaps to be wrongly dropped.
+
+---
+
+## 2026-09-08 (run ~22:00 UTC) — 4 fresh proposals filed: 1 gear-fabrication + 3 LLM-generator surface gaps
+
+### Bank check
+Open `seo-proposal` count at run start: 6 (3 standing L1/L2/L3 umbrellas #2211/#3810/#3819 + 3 fresh CEO-untriaged from today's earlier pulses). Well under the 45 floor → filed up to 8 net-new, chose 4 high-quality atomic proposals over padding to the cap (quality-over-volume rule).
+
+### Audit summary
+- robots.txt: ✅ all 8 AI crawlers (GPTBot, ChatGPT-User, ClaudeBot, anthropic-ai, PerplexityBot, Applebot-Extended, cohere-ai, Google-Extended) explicitly allowed (`api/robots.js`).
+- `/llms/*.md` endpoints live: 2,011 files across 25 route-family subdirectories (drummers, articles, licks, comparisons, bands, brands, gear, etc.) — comprehensive coverage, consistent with prior weeks.
+- GSC content-gap queries (metrics.md 21:30 UTC): `flo mounier` (107 impr, 0.93% CTR) and `joey jordison drum set` (87 impr, 1.15% CTR) — both held, no new fix. `flo mounier` is the extensively-documented class-2 bare-name/bio-intent query (learned-patterns.md line 205/211, 5 data points, zero exceptions — Wikipedia/press out-rank any gear snippet regardless of copy). `joey jordison drum set` is a documented known oscillator in an already-cited, already-fixed cluster (line 99/187) — not re-filed.
+- L2: last refresh 2026-09-08 (per CEO log), 70/100 cited, comfortably above the 25/100 minimum-pressure floor. No forced L2 issue needed.
+- Drum-chair watch: today is Tuesday (2026-09-08) — skipped per "first run each Monday" gate.
+
+### Research approach
+Dispatched 4 parallel research agents into the currently-productive, still-open veins per `learned-patterns.md`: (1) remaining `brands.js` entries, (2) `albumArticles/*.js` vs `extendedBios.js` gear contradictions, (3) `generate-llms-*.cjs` generator-level field-render gaps (Rule 3 LLM-citation priority), (4) follow-up sweep of JSON-LD-only structured-data fields per the #5721 note. Live-verified every candidate myself (grep + line numbers) and ran `gh issue list --state all --search` dedup checks before filing.
+
+**Results:**
+1. `brands.js` remaining 13 entries — **clean, nothing found.** Turns out #7087 (filed/closed 2026-09-07, one day prior) already swept exactly this scope and fixed the only 2 real bugs. Independently re-verified ~15 drummer/brand pairs — all match `endorsementNews.js`. One near-miss (Chris Adler Mapex Falcon claim in `brands.js:356`) is part of the still-open #7160 cross-file ambiguity — not filed as fresh, flagged for whoever follows up on #7160.
+2. `albumArticles/*.js` gear contradictions — sampled danny-carey, dave-lombardo, bill-ward, vinnie-paul. Found 1 clean filable case (Danny Carey fabricated pre-Sonor "Pearl"/"DW pedal" era on Undertow/Ænima articles — zero corroboration anywhere in the codebase). Vinnie Paul was a false alarm (already correctly fixed via #5746/#6041). Bill Ward clean. Dave Lombardo has real internal contradictions but the sources of truth disagree with each other too — correctly held, not filed (needs external verification first, per the repo's own tiebreak rule).
+3. Generator-level LLM surface gaps — 3 solid findings: `generate-llms-drummers.cjs` renders only 2 of 7 `extendedBios.js` sections (missing careerHighlights/styleAndInfluences/notableRecordings/trivia/sources, 72/72 entries); `generate-llms-licks.cjs`/`generate-llms-licks-per-drummer.cjs` cross-swapped gap (each renders one of timeSignature/category, missing the other, 295/295 entries); `generate-llms-comparisons.cjs`+`generate-llms-vs.cjs` ignore the curated `faqs` array in `drummerComparisons.js` (172/227 entries) in favor of a generic template.
+4. JSON-LD-only structured-data follow-up sweep — **clean, nothing found.** Confirmed #5721 shipped; swept every remaining `@type` node in `api/meta/[...path].js` against its visible-body path — this bug class (28 closed issues total) is now fully exhausted across every reachable route family.
+
+### Proposals filed this run
+1. #7200 — SEO: Danny Carey albumArticles.js fabricates pre-Sonor 'Pearl' kit + 'DW pedal' era (Undertow/Ænima, 1993-1996)
+2. #7201 — SEO: generate-llms-drummers.cjs renders only 2 of 7 extendedBios.js sections — careerHighlights/styleAndInfluences/notableRecordings/trivia/sources missing from 72/72 files
+3. #7202 — SEO: generate-llms-licks.cjs and generate-llms-licks-per-drummer.cjs each render one of two fields, missing the other — timeSignature/category cross-gap across 295 lick entries
+4. #7203 — SEO: generate-llms-comparisons.cjs and generate-llms-vs.cjs ignore curated faqs array in drummerComparisons.js — 172/227 entries have real Q&A never rendered
+
+All 4 verified-only, single/dual-file fixes on existing routes — zero new pages/URLs, freeze-compliant, LLM-citation-surface-priority per Rule 3.
+
+### Next run
+1. Watch #7200-7203 through CEO triage.
+2. `brands.js` gear-fabrication vein appears fully mined (2 consecutive clean sweeps) — don't re-run without a fresh regression signal.
+3. `albumArticles/*.js` vein still has unaudited drummers beyond the ~20 already covered — good candidate for next round's continuation, but note Dave Lombardo needs an external-source resolution before any of his 3 conflicting files can be touched (flagging as a possible founder-ideas/external-research item if it recurs).
+4. Generator-level LLM surface gap class remains productive — weaker candidates not filed this run (relatedArticles missing in 2 generators, bands.js history.story/metalEra gap, pros/cons in gear-comparisons) are queued for a future pass if the bank needs topping up.

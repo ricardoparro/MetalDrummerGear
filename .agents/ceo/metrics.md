@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-09-07 21:56 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-09-08 03:08 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,90 +8,89 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 324 |
-| Sessions | 361 |
-| Page views | 490 |
-| Engagement rate | 63.71% |
+| Active users | 287 |
+| Sessions | 314 |
+| Page views | 448 |
+| Engagement rate | 62.42% |
 | Avg session (s) | 128 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
-| /drummer/mario-duplantier | 21 | 18 |
 | / | 20 | 13 |
-| /drummer/john-otto | 15 | 14 |
+| /drummer/mario-duplantier | 19 | 17 |
 | /drummers | 15 | 5 |
 | /drummer/bill-ward | 12 | 8 |
 | /drummer/joey-jordison | 12 | 9 |
-| /drummer/matt-greiner | 10 | 8 |
+| /drummer/john-otto | 11 | 10 |
 | /drummer/jaska-raatikainen | 8 | 5 |
+| /drummer/matt-greiner | 8 | 7 |
 | /drummer/chris-turner | 6 | 4 |
-| /drummer/frost | 6 | 2 |
+| /drummers/joey-jordison/evolution | 6 | 2 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 301 | 268 |
-| Direct | 50 | 46 |
-| Unassigned | 23 | 23 |
+| Organic Search | 259 | 234 |
+| Direct | 44 | 43 |
+| Unassigned | 28 | 27 |
 | AI Assistant | 2 | 2 |
 | Referral | 2 | 2 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 135 | 117 |
-| United Kingdom | 32 | 22 |
-| Canada | 19 | 18 |
-| France | 17 | 16 |
+| United States | 123 | 109 |
+| United Kingdom | 21 | 18 |
+| Canada | 18 | 17 |
+| France | 16 | 15 |
 | Australia | 15 | 13 |
 | Brazil | 12 | 12 |
 | Singapore | 12 | 12 |
-| China | 9 | 9 |
-| Finland | 8 | 7 |
-| Germany | 8 | 8 |
+| China | 8 | 8 |
+| Finland | 7 | 6 |
+| Indonesia | 6 | 4 |
 
 ## Search Console — Search performance
 | Metric | Last 7d |
 | --- | --- |
-| Impressions | 9,353 |
-| Clicks | 212 |
+| Impressions | 7,965 |
+| Clicks | 181 |
 | CTR | 2.27% |
-| Avg position | 8.5 |
+| Avg position | 8.3 |
 
 ### Top queries
 | Query | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| mario duplantier drum kit | 58 | 2 | 3.45% | 4.9 |
-| arin ilejay drum set | 6 | 1 | 16.67% | 2.0 |
+| mario duplantier drum kit | 54 | 2 | 3.70% | 4.9 |
+| arin ilejay drum set | 5 | 1 | 20.00% | 1.8 |
 | best china cymbal for metal | 1 | 1 | 100.00% | 6.0 |
 | best metal cymbals | 1 | 1 | 100.00% | 7.0 |
-| best metal drummers of all time | 37 | 1 | 2.70% | 9.6 |
+| best metal drummers of all time | 34 | 1 | 2.94% | 9.0 |
 | bill ward cymbals | 1 | 1 | 100.00% | 11.0 |
-| cryptopsy drummer | 22 | 1 | 4.55% | 7.0 |
+| cryptopsy drummer | 19 | 1 | 5.26% | 6.7 |
 | danny carey lateralus drum kit | 4 | 1 | 25.00% | 9.8 |
 | death metal drum kit | 1 | 1 | 100.00% | 5.0 |
-| eloy casagrande drum set | 8 | 1 | 12.50% | 9.3 |
+| eloy casagrande drum set | 6 | 1 | 16.67% | 8.8 |
 
 ### Top countries (impressions, last 7d)
 | Country | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| usa | 3,444 | 64 | 1.86% | 9.3 |
-| can | 511 | 12 | 2.35% | 8.3 |
-| fra | 208 | 12 | 5.77% | 7.2 |
-| gbr | 542 | 11 | 2.03% | 8.7 |
-| deu | 345 | 10 | 2.90% | 9.1 |
-| aus | 388 | 9 | 2.32% | 7.7 |
-| bra | 290 | 8 | 2.76% | 7.2 |
-| esp | 86 | 7 | 8.14% | 6.9 |
-| ita | 186 | 5 | 2.69% | 7.3 |
-| nor | 94 | 5 | 5.32% | 6.2 |
+| usa | 2,975 | 60 | 2.02% | 9.3 |
+| can | 437 | 11 | 2.52% | 7.9 |
+| fra | 170 | 11 | 6.47% | 7.0 |
+| aus | 329 | 9 | 2.74% | 7.9 |
+| gbr | 472 | 9 | 1.91% | 8.7 |
+| deu | 295 | 7 | 2.37% | 9.0 |
+| bra | 253 | 6 | 2.37% | 7.3 |
+| esp | 64 | 5 | 7.81% | 7.3 |
+| fin | 102 | 4 | 3.92% | 7.1 |
+| phl | 148 | 4 | 2.70% | 7.2 |
 
 ### 🎯 Content-gap queries (impr ≥50, CTR <2%) — CEO MUST address
 | Query | Impr | CTR | Pos | Action |
 | --- | --- | --- | --- | --- |
-| flo mounier | 94 | 1.06% | 7.9 | open issue to answer better |
-| jaska raatikainen | 82 | 1.22% | 8.8 | open issue to answer better |
+| flo mounier | 90 | 1.11% | 7.7 | open issue to answer better |
 
 ---
 *Re-run manually: `node .agents/scripts/fetch-metrics.cjs`*

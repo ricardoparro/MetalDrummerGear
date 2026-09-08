@@ -48,7 +48,7 @@ export const PILLAR_PAGE = {
   ],
   brands: [
     { name: 'Tama', note: 'The single most common pedal brand across the verified metal roster — Iron Cobra (chain) and Speed Cobra (chain, longboard) cover most of the double-pedal roster.' },
-    { name: 'Pearl', note: 'Demon Drive and Demon XR (direct drive) and Eliminator (chain) are the extreme-metal and technical-metal standard, from Hellhammer to George Kollias.' },
+    { name: 'Pearl', note: 'Demon Drive and Demon XR (direct drive) and Eliminator (chain) are the extreme-metal and technical-metal standard, from Gene Hoglan to George Kollias.' },
     { name: 'DW', note: '5000 and 9000 Series chain-drive pedals appear throughout the roster, prized for precision and touring reliability.' },
     { name: 'Axis', note: 'The direct-drive specialist brand — no chain or belt at all — used by drummers who prioritize instant, zero-slack response above everything else.' },
     { name: 'Mapex', note: 'The Falcon double pedal shows up across several roster drummers, including Chris Adler.' },

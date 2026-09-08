@@ -52,6 +52,20 @@ The switch to 15" Sound Edge hi-hats — with their serrated bottom cymbal — g
 
 The 2002 series' reputation as a metal and hard rock workhorse — the same cymbals Lars Ulrich used on *Kill 'Em All* and Dave Lombardo used on *Reign in Blood* — made it a natural fit for an album built to reassert Motörhead's aggression. Dee's setup stayed consistent across the *Inferno* sessions and tour: bright, cutting, and durable enough for the punishing schedule Motörhead kept even twelve years into his tenure.
 
+## Inferno: The Bridge Between Two Gear Eras
+
+*Inferno* (2004) occupies a quiet but pivotal place in Mikkey Dee's Motörhead story. It's the album where Cameron Webb entered the picture and began reshaping how the band approached the studio — a partnership that would carry Motörhead through its final decade. It's also, in retrospect, the closing chapter of Dee's Tama era, the drum brand he'd relied on since replacing Phil Taylor in 1992.
+
+The Tama Starclassic kit and Paiste 2002 cymbals that powered *Inferno* delivered the same fundamental voice Dee established on *Bastards* over a decade earlier — precision-driven power, economical fills, a kick drum that never rushed ahead of Lemmy's bass. What changed was the production around it: tighter, more modern, more defined.
+
+**For Drummers Studying Inferno:**
+Listen to "Killers" for Dee's ability to sustain speed and power twelve years into a punishing touring schedule, and "Whorehouse Blues" for the dynamic restraint that reveals his jazz-trained roots. Few hard rock drummers move as convincingly between full-force attack and delicate brushwork.
+
+**The Gear Legacy:**
+Inferno marks the end of an eleven-year Tama chapter. Two years later, on [*Kiss of Death*](/articles/kiss-of-death-drum-setup), Dee would switch to Pearl drums — a transition explored in depth in that album's gear breakdown. For the complete arc from *Bastards* through *Bad Magic*, see the [Mikkey Dee drummer profile](/drummer/mikkey-dee) and the [full kit breakdown](/articles/whats-in-mikkey-dees-kit).
+
+🤘 *Twelve years in, and the thunder hadn't slowed down.* 🤘
+
 ## Key Facts
 
 - Released June 22, 2004 — first Motörhead album produced by Cameron Webb, a partnership that lasted through Bad Magic (2015)
@@ -88,4 +102,4 @@ A: Yes — *Inferno* (2004) features a guest lead guitar appearance from Steve V
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

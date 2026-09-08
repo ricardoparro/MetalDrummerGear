@@ -32,7 +32,7 @@ For his recording debut, Art Cruz built his sound around a Ludwig Classic Maple 
 
 The four-tom configuration (10", 12", 14", 16") mirrors the band's long-standing template, which mattered for an album that needed to bridge old and new eras convincingly. Cruz's fills on tracks like "Resurrection Man" are economical rather than flashy, placed to punctuate the riff rather than overshadow it — a philosophy that respects the groove-first approach Lamb of God built its reputation on.
 
-The Classic Maple shells gave Wilbur's production a warm, present low end that cuts through the band's down-tuned guitars without losing punch. It's the same core setup Cruz would carry into Omens two years later, refined but fundamentally unchanged — proof that he found his voice on this record and didn't need to chase it further.
+The Classic Maple shells gave Wilbur's production a warm, present low end that cuts through the band's down-tuned guitars without losing punch — the sound that established his voice on this record.
 
 ### The Snare on Memento Mori
 
@@ -46,6 +46,16 @@ Already a Zildjian endorser by the time the self-titled album was tracked, Cruz 
 
 The 21" A Custom ride carries much of the album's groove-driven mid-tempo material, giving Cruz a cymbal with both a clear bell for accents and enough wash for sustained sections.
 
+## A New Chapter, Built on the Old Foundation
+
+Lamb of God's 2020 self-titled album answered the question every band faces when a defining member leaves: would the music still feel like Lamb of God? Art Cruz's recording debut made the case decisively. His Ludwig Classic Maple kit and Zildjian A Custom cymbals echo the tonal character longtime fans expect, while his single-bass-drum-plus-double-pedal approach and economical fill placement mark a clear musical identity of his own.
+
+The gear tells part of the story, but the bigger one is continuity. Cruz didn't try to replicate Chris Adler's exact dual-kick setup or note-for-note vocabulary — documented in detail on the [Ashes of the Wake drum setup](/articles/ashes-of-the-wake-drum-setup) breakdown of Adler's earlier era — he built his own version of the same groove-first philosophy. That distinction matters: it's why the album sounds like a natural continuation of Lamb of God's catalog rather than an imitation of it.
+
+For a complete look at the gear Cruz uses on stage today, see the full [Art Cruz kit breakdown](/articles/whats-in-art-cruzs-kit) and the [Art Cruz drummer profile](/drummer/art-cruz). His next studio outing, 2022's Omens, would refine everything introduced here.
+
+🤘 *The Cruz era begins — same foundation, new hands on the kit.* 🤘
+
 ## Key Facts
 
 - Released June 19, 2020 — Lamb of God's eighth studio album
@@ -53,11 +63,10 @@ The 21" A Custom ride carries much of the album's groove-driven mid-tempo materi
 - First Lamb of God album without Chris Adler on drums
 - Produced by longtime collaborator Josh Wilbur
 - Key tracks: Memento Mori, Resurrection Man, New Colossal Hate, Gomorrah, Routes
-- Set up the gear and approach later heard on 2022's Omens
+- Established the groove-first approach the band carried into 2022's Omens
 - Single 22x18" bass drum with Trick double pedal, not dual kicks
 - Four-tom layout (10", 12", 14", 16") matches the band's established template
 - Classic Maple shells deliver warmth without sacrificing attack
-- Same core kit carried forward into the 2022 Omens sessions
 - Estimated kit value: $4,000-6,000 (Ludwig Classic Maple configuration)
 - Estimated snare value: $400-700 (Ludwig professional snare)
 
@@ -83,4 +92,4 @@ A: Yes. While Cruz had toured with Lamb of God as a live fill-in for Chris Adler
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

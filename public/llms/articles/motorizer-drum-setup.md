@@ -52,6 +52,20 @@ The move to Signature hi-hats and crashes gave Dee's cymbal sound more overtone 
 
 This was still recognizably the same Paiste artist relationship Dee had maintained since 1987 — just a more mature, refined expression of it, mirroring the confidence he'd developed with his Pearl drums over the preceding two years.
 
+## Motörizer: A Kit Fully Mastered, A Band Still Climbing
+
+*Motörizer* (2008) captures Mikkey Dee at a moment of complete comfort with his gear — two years into the Pearl Reference Series kit introduced on *Kiss of Death*, recording in a studio built by one of rock's most famous drummers-turned-frontmen. The result is some of the most confident, settled drumming of Dee's later Motörhead career, delivered on an album that gave the band its best UK chart position in 17 years.
+
+The expanded four-tom configuration, the matured Paiste Signature cymbal setup, and Studio 606's natural room capture all point to a drummer and a band operating at peak assurance — no longer proving anything, simply delivering. "Rock Out" reaching WWE's audience and the album's strong UK/German chart performance showed that after 16 years and as many studio albums, Motörhead's rhythm section still had genuine commercial pull.
+
+**For Drummers Studying Motörizer:**
+Listen to "Runaround Man" for the settled, confident Pearl Reference tone, and "English Rose" for the same dynamic restraint Dee showed on *Inferno*'s "Whorehouse Blues" — proof that his range extended well beyond pure power, even this deep into a hard rock career.
+
+**The Gear Legacy:**
+The Pearl Reference configuration refined here carried Dee through *The Wörld Is Yours* (2010) and *Aftershock* (2013) before its final form on *Bad Magic* (2015). For the complete arc, see the [Bad Magic drum setup](/articles/bad-magic-drum-setup), the [Mikkey Dee drummer profile](/drummer/mikkey-dee), and the [full kit breakdown](/articles/whats-in-mikkey-dees-kit).
+
+🤘 *Sixteen albums in, and the engine was still running hot.* 🤘
+
 ## Key Facts
 
 - Released August 26, 2008 (September 1 UK/Europe) — Motörhead's sixteenth studio album
@@ -88,4 +102,4 @@ A: By *Motörizer*, Mikkey Dee's cymbal setup had shifted almost entirely to the
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

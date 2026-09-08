@@ -1,6 +1,6 @@
 # Bill Ward's Drum Setup on Black Sabbath's 'Technical Ecstasy' (1976)
 
-> Bill Ward's drum setup for Technical Ecstasy (1976) — the Ludwig kit and Paiste 2002 cymbals behind "Dirty Women," plus the album where Ward sang lead vocals for the first time.
+> Bill Ward's drum setup for Technical Ecstasy (1976) — the Ludwig kit and Zildjian cymbals behind "Dirty Women," plus the album where Ward sang lead vocals for the first time.
 
 **Type:** Album Drum Setup
 **Drummer(s):** [Bill Ward](/llms/drummers/bill-ward.md)
@@ -13,13 +13,13 @@ Recorded at Criteria Studios in Miami and released in September 1976, *Technical
 
 The album is also notable as the first time Bill Ward stepped out from behind the kit to sing lead vocals on a Black Sabbath track: "It's Alright," a piano-led ballad written and sung by Ward himself. It remains one of the more surprising entries in his discography — proof that his musicality with the band extended well past the drum stool.
 
-This article covers the Ludwig kit and Paiste 2002 cymbal setup Ward carried over from *Sabotage*, and how his playing adapted to *Technical Ecstasy*'s more varied, occasionally funk- and rock-radio-leaning material.
+This article covers the Ludwig kit and Zildjian cymbal setup Ward carried over from *Sabotage*, and how his playing adapted to *Technical Ecstasy*'s more varied, occasionally funk- and rock-radio-leaning material.
 
 ## Gear Breakdown
 
 - **Drums:** Ludwig Ludwig Standard Maple (Natural Maple finish)
 - **Snare:** Ludwig Ludwig Supraphonic 400 (LM402), 14" x 6.5"
-- **Cymbals:** Paiste — Paiste 2002
+- **Cymbals:** Zildjian — Avedis Zildjian
 - **Hardware / Pedals:** Ludwig Speed King; Ludwig Atlas Hi-Hat Stand; Ludwig Atlas Throne; Ludwig 2B Hickory
 - **Heads:** Remo Emperor (batter), Remo Ambassador Coated (resonant)
 - **Snare tuning:** Medium tension, consistent with the Sabotage sessions
@@ -38,11 +38,21 @@ Ward stayed with the Ludwig Supraphonic he'd used since *Sabbath Bloody Sabbath*
 
 "You Won't Change Me" and "Gypsy" show Ward locking into mid-tempo grooves with a lighter touch than *Sabotage*'s more aggressive material, while "Dirty Women" calls for the full range of his dynamics — restrained in the verses, driving hard by the track's climax. "All Moving Parts (Stand Still)"'s funk-inflected groove is some of the loosest, most syncopated snare work of Ward's Sabbath career, reflecting the album's willingness to pull from outside the band's usual vocabulary.
 
-### Paiste 2002: Carried Over From Sabotage
+### Avedis Zildjian: Carried Over From Sabotage
 
-Ward's Paiste 2002 setup made the jump from *Sabotage* unchanged — the same 15" hi-hats, 18" and 20" crashes, 24" ride, and 18" China that had replaced his Zildjian cymbals a year earlier. *Technical Ecstasy*'s more varied, occasionally funk-leaning material gave the brighter Paiste voice a different context to work in than the proto-thrash gallop of "Symptom of the Universe."
+Ward's Zildjian setup made the jump from *Sabotage* unchanged — the same 14" hi-hats, crash, 20" ride, and 18" China. *Technical Ecstasy*'s more varied, occasionally funk-leaning material gave the same cymbal voice a different context to work in than the proto-thrash gallop of "Symptom of the Universe."
 
-The 24" ride carries "Dirty Women"'s extended slow build before the track opens up into its driving final section, while the hi-hats do much of the rhythmic work on "All Moving Parts (Stand Still)," a track that leans harder into groove and syncopation than almost anything else in Ward's Sabbath catalog. Crash use stays proportional to the album's more measured dynamics — reserved for genuine high points rather than every section change.
+The 20" ride carries "Dirty Women"'s extended slow build before the track opens up into its driving final section, while the hi-hats do much of the rhythmic work on "All Moving Parts (Stand Still)," a track that leans harder into groove and syncopation than almost anything else in Ward's Sabbath catalog. Crash use stays proportional to the album's more measured dynamics — reserved for genuine high points rather than every section change.
+
+## A Wider Range, the Same Trusted Gear
+
+*Technical Ecstasy* asked Bill Ward to stretch further than any Sabbath album before it — not just as a drummer moving between funk-inflected grooves and driving rock, but as a vocalist stepping up to sing lead for the first time on "It's Alright." He met that range on the same Ludwig kit and Zildjian cymbals that had carried *Sabotage* a year earlier, proof that the gear was never the limiting factor in what he could do.
+
+**For Drummers Studying *Technical Ecstasy*:** "Dirty Women" is the essential study — a slow-building arrangement that rewards patience before its driving final section. "All Moving Parts (Stand Still)" shows Ward applying his jazz-rooted vocabulary to genuinely funky territory. And "It's Alright" is a reminder that even a drummer this accomplished can put the sticks down entirely when the song calls for it.
+
+For the rest of Ward's gear evolution through Black Sabbath's catalog, see the [Sabotage drum setup](/articles/sabotage-drum-setup), recorded the year before, and the [Never Say Die! drum setup](/articles/never-say-die-drum-setup), his final studio album with the band's original lineup. The full picture of his career is on the [Bill Ward drummer profile](/drummer/bill-ward).
+
+🥁 *The album where Bill Ward proved there was more to him than the drum stool — and his Ludwig kit still anchored every track he played on.* 🥁
 
 ## Key Facts
 
@@ -61,7 +71,7 @@ The 24" ride carries "Dirty Women"'s extended slow build before the track opens 
 
 **Q: What drums did Bill Ward use on Technical Ecstasy?**
 
-A: Bill Ward recorded *Technical Ecstasy* (1976) on the same Ludwig Standard Maple kit he'd used on *Sabotage* — a 22" bass drum, two rack toms, and a 16" floor tom in natural maple, paired with a Ludwig Supraphonic snare. His Paiste 2002 cymbal setup, including the 18" China introduced on *Sabotage*, also carried over unchanged. For the full arc of Ward's gear through Black Sabbath's catalog, see the [Bill Ward drummer profile](/drummer/bill-ward).
+A: Bill Ward recorded *Technical Ecstasy* (1976) on the same Ludwig Standard Maple kit he'd used on *Sabotage* — a 22" bass drum, two rack toms, and a 16" floor tom in natural maple, paired with a Ludwig Supraphonic snare. His Avedis Zildjian cymbal setup, including the 18" China introduced on *Sabotage*, also carried over unchanged. For the full arc of Ward's gear through Black Sabbath's catalog, see the [Bill Ward drummer profile](/drummer/bill-ward).
 
 **Q: Did Bill Ward sing on a Black Sabbath album?**
 
@@ -69,14 +79,14 @@ A: Yes — Bill Ward sang lead vocals on "It's Alright," a piano-led ballad from
 
 **Q: What is Dirty Women from?**
 
-A: "Dirty Women" is the closing track on *Technical Ecstasy* (1976), Black Sabbath's seventh studio album. It has become one of the record's most enduring deep cuts, built around an extended arrangement that moves from a patient, tension-building verse into a driving, syncopated climax — a showcase for Bill Ward's dynamic range on the same Ludwig kit and Paiste 2002 cymbals he used across *Sabotage*.
+A: "Dirty Women" is the closing track on *Technical Ecstasy* (1976), Black Sabbath's seventh studio album. It has become one of the record's most enduring deep cuts, built around an extended arrangement that moves from a patient, tension-building verse into a driving, syncopated climax — a showcase for Bill Ward's dynamic range on the same Ludwig kit and Zildjian cymbals he used across *Sabotage*.
 
 **Q: How much did Bill Ward's 1976 drum kit cost?**
 
-A: Bill Ward's Ludwig Standard Maple kit on *Technical Ecstasy* — a 22" bass drum, two rack toms, and a floor tom — would have cost roughly $1,100 to $1,900 new in 1976, with the Paiste 2002 cymbal setup adding another $500 to $850. Comparable vintage Ludwig kits from this era sell for $6,500 to $16,000 today in good original condition. See the [Sabotage drum setup](/articles/sabotage-drum-setup) for the album where this same gear configuration debuted.
+A: Bill Ward's Ludwig Standard Maple kit on *Technical Ecstasy* — a 22" bass drum, two rack toms, and a floor tom — would have cost roughly $1,100 to $1,900 new in 1976, with the Zildjian cymbal setup adding another $500 to $850. Comparable vintage Ludwig kits from this era sell for $6,500 to $16,000 today in good original condition. See the [Sabotage drum setup](/articles/sabotage-drum-setup) for the album where this same gear configuration debuted.
 
 **Source:** https://metalforge.io/articles/technical-ecstasy-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

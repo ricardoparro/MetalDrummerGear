@@ -22,7 +22,7 @@ For *The Paradigm Shift*, Luzier had transitioned from his DW setup (used on *Ko
 - **Drums:** Pearl Pearl Reference Maple (Custom finish (Korn touring configuration) finish)
 - **Snare:** Pearl Pearl Reference 14" × 6.5" Brass, 14" × 6.5"
 - **Cymbals:** Sabian — Sabian AAX Series
-- **Hardware / Pedals:** Pearl Demon Drive Double Bass Pedal; Promark Ray Luzier Signature TX420X; Pearl D-2000 Roadster Throne; Evans EC2 Coated; Evans EMAD2
+- **Hardware / Pedals:** DW 9000 Series Double Bass Pedal; Vic Firth Ray Luzier Signature; Pearl D-2000 Roadster Throne; Evans EC2 Coated; Evans EMAD2
 - **Heads:** Remo Coated Emperor (batter), Remo Hazy Ambassador Snare Side (resonant)
 - **Snare tuning:** Medium to medium-high tension for bright attack and projection in polished production
 
@@ -53,6 +53,19 @@ The 14" AAX Stage Hi-Hats are critical groove anchors. Korn's music — whether 
 The 18" and 19" AAX X-Plosion Crashes give Luzier two distinct accent voices. The 18" X-Plosion speaks fast and bright — a quick, cutting explosion for syncopated accents within groove patterns. The 19" provides a fuller, more sustained crash for structural boundaries and section peaks. The AAXtreme China adds a raw, upward-projecting trash tone for the heaviest moments of 'Prey for Me' and 'Mass Hysteria'.
 
 With both Head and Munky contributing guitar layers on the record, the cymbal setup needed to occupy its own clearly defined space. The AAX series' bright, fast-decaying character achieves this: cymbals that speak clearly, project with authority, and don't wash into Korn's sustained guitar frequencies.
+
+## The Head Reunion and the Pearl Era Begins
+
+The Paradigm Shift answered two questions simultaneously: could Korn reintegrate Head into their chemistry after nine years, and had Ray Luzier fully become the band's drummer rather than a capable stand-in? Both answers were yes.
+
+Luzier's Pearl Reference Maple kit, Pearl Reference Brass snare, Sabian AAX cymbals, and Pearl Demon Drive pedals represent the configuration that the current Korn rhythm section is built around — the gear foundation that has carried the band through its most successful post-reunion years. The album's #8 chart position and the crossover success of 'Never Never' confirmed that the new Korn lineup, with Head back and Luzier established as the permanent drummer, was operating at full strength.
+
+For deeper exploration of Ray Luzier's complete gear arc:
+- **Full drummer profile**: [Ray Luzier at MetalForge](/drummer/ray-luzier)
+- **Current full kit guide**: [What's in Ray Luzier's Kit?](/articles/whats-in-ray-luziers-kit)
+- **Previous album**: [The Path of Totality Drum Setup (2011)](/articles/path-of-totality-drum-setup)
+- **Next album**: [Serenity of Suffering Drum Setup (2016)](/articles/serenity-of-suffering-drum-setup)
+- **Nu-metal context**: [Nu-Metal Drum Setups](/articles/nu-metal-drum-setups)
 
 ## Key Facts
 
@@ -96,4 +109,4 @@ A: The Paradigm Shift (2013) was produced by Don Gilmore, best known for produci
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

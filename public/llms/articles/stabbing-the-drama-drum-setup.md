@@ -52,6 +52,16 @@ The 14" Byzance Dark hi-hats provided the fast, articulate foundation for his te
 
 The 18" Byzance China rounds out the setup, delivering the trashy, explosive accent that punctuates riff changes throughout tracks like "Nerve" and "Observation Slave." This same dark-cymbal philosophy would remain a constant across Verbeuren's catalogue, from his earliest Soilwork sessions through his Grammy-winning work with Megadeth a decade later.
 
+## Where Dirk Verbeuren's Technical Signature Began
+
+"Stabbing the Drama" isn't just another entry in Soilwork's discography — it's the record where Dirk Verbeuren's technical fingerprint first appeared on tape. Stepping into a band with an established sound and fanbase, Verbeuren didn't just fill Henry Ranta's chair; he raised the ceiling on what Soilwork's rhythm section could do, layering in the jazz-informed precision and stamina that would eventually earn him a seat with one of thrash metal's Big Four.
+
+**The Gear Foundation:**
+The Tama Starclassic Performer kit, Meinl Byzance cymbals, and Iron Cobra pedals Verbeuren used on this album established brand relationships that lasted the rest of his career. Two decades later, he's still a Tama and Meinl artist — the specific models have evolved, but the core sonic philosophy traces directly back to these 2004 sessions.
+
+**A Career-Long Arc:**
+"Stabbing the Drama" opens a run of six studio albums Verbeuren recorded with Soilwork between 2005 and 2015, before he departed for Megadeth in 2016. For the album that introduced his playing to a global thrash metal audience, see the [The Sick, the Dying... and the Dead! Drum Setup article](/articles/the-sick-the-dying-and-the-dead-drum-setup) — his actual Megadeth studio debut. For his complete gear evolution across both bands, visit the [Dirk Verbeuren drummer profile](/drummer/dirk-verbeuren).
+
 ## Key Facts
 
 - Dirk Verbeuren's studio debut with Soilwork, released March 8, 2005 on Nuclear Blast Records
@@ -89,4 +99,4 @@ A: On 'Stabbing the Drama,' Verbeuren played a Tama Starclassic Performer kit wi
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

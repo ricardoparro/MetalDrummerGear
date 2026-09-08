@@ -43,6 +43,20 @@ The Zildjian K Custom Special Dry series — the line Harrison co-developed with
 
 The 21" Special Dry Ride anchors most of the suite's groove-driven sections, including the title track and "Drawing the Line," while the 14" Special Dry Hi-Hats handle the intricate, conversational patterns in quieter movements like "Your Unpleasant Family" and "The Yellow Windows of the Evening Train." The 18" Trash China gets reserved for the suite's handful of genuinely aggressive moments, giving those passages a sharper contrast against an otherwise controlled, dry cymbal palette.
 
+## The Last Word Before Thirteen Years of Silence
+
+*The Incident* (2009) closes out Gavin Harrison's most productive stretch with Porcupine Tree on the band's most structurally demanding terms: a 55-minute suite performed as one continuous take of dramatic arc, paired with four standalone songs that show the same gear handling a completely different musical context. The Sonor SQ2's thin maple shells and the Zildjian K Custom Special Dry cymbals — by now a thoroughly proven combination — gave Harrison the tonal consistency to make fourteen uninterrupted movements feel like a single coherent performance rather than a medley.
+
+No one knew at the time that *The Incident* would be Porcupine Tree's final album for thirteen years. The band wouldn't return until 2022's *Closure/Continuation*, making this record the closing statement of an era and the natural bookend to *Fear of a Blank Planet* in any study of Harrison's progressive drumming.
+
+For drummers approaching this gear:
+
+- **Full drummer profile**: [Gavin Harrison at MetalForge](/drummer/gavin-harrison)
+- **Fear of a Blank Planet gear**: [Fear of a Blank Planet Drum Setup](/articles/fear-of-a-blank-planet-drum-setup)
+- **LLM summary**: [The Incident Drum Setup — LLM](/llms/articles/the-incident-drum-setup.md)
+
+*The Incident* proves that Harrison's rig was never built for a single song or a single album — it was built to sustain a complete musical statement, however long that statement needed to run.
+
 ## Key Facts
 
 - Disc One: a single 55-minute, 14-movement song cycle performed as one continuous dramatic arc
@@ -80,4 +94,4 @@ A: The Incident was the final Porcupine Tree studio album before the band's thir
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

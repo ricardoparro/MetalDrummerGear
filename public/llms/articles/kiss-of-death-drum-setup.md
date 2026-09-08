@@ -52,6 +52,20 @@ The Signature 22" Full Ride offered more complexity and wash than the straightfo
 
 This blended setup — new drums, evolving-but-familiar cymbals — captures *Kiss of Death* as a genuine transitional record in Dee's gear history: a kit change layered onto a cymbal sound that stayed recognizably his own.
 
+## Kiss of Death: The Kit Change That Redefined Dee's Sound
+
+*Kiss of Death* (2006) stands as the single most consequential gear-change record in Mikkey Dee's Motörhead career. After more than a decade on Tama drums — dating back to his 1993 debut on *Bastards* — Dee's switch to Pearl Reference Series drums here would define his sound for nearly the next ten years, all the way through the band's final album in 2015.
+
+What's remarkable is how little actually changed in Dee's fundamental approach. The 22" bass drum, the steel snare, the Paiste cymbal family — all carried forward, proof that a drummer's core identity lives in technique and philosophy, not brand loyalty. Cameron Webb's returning production captured the transition faithfully, letting the new Pearl kit's fuller resonance come through without losing the tight, modern edge established on *Inferno* two years earlier.
+
+**For Drummers Studying Kiss of Death:**
+Listen to "Sucker" for the clearest first impression of the new Pearl kit's voice, and "Trigger" for how quickly Dee adapted to the new Pearl Eliminator pedal without any loss of precision. The album is a case study in how professional drummers absorb equipment changes without disrupting their fundamental sound.
+
+**The Gear Legacy:**
+The Pearl Reference Series introduced here would carry Dee through *Motörizer* (2008) and beyond. For the full arc of that kit's refinement, see the [Motörizer drum setup](/articles/motorizer-drum-setup), the [Mikkey Dee drummer profile](/drummer/mikkey-dee), and the [complete kit breakdown](/articles/whats-in-mikkey-dees-kit).
+
+🤘 *New kit, same thunder.* 🤘
+
 ## Key Facts
 
 - Released August 29, 2006 — Motörhead's fifteenth studio album and ninth for Steamhammer/SPV
@@ -88,4 +102,4 @@ A: *Kiss of Death* charted at #4 in Germany — Motörhead's highest German char
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

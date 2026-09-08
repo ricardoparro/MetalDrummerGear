@@ -1,6 +1,6 @@
 # Tim Yeung Drum Kit & Gear Setup — Morbid Angel Death Metal
 
-> Tim Yeung's Pearl Reference Masters kit, Sabian cymbals, and DW 9002 double bass pedals — the extreme death metal rig behind Morbid Angel and Hate Eternal. Complete drum setup breakdown including blast beat technique and double bass speed.
+> Tim Yeung's Tama Starclassic Bubinga kit, Sabian cymbals, and Tama Speed Cobra 910 double bass pedal — the extreme death metal rig behind Morbid Angel and Hate Eternal. Complete drum setup breakdown including blast beat technique and double bass speed.
 
 **Type:** Kit Breakdown
 **Drummer(s):** [Tim Yeung](/llms/drummers/tim-yeung.md)
@@ -13,20 +13,20 @@ Tim Yeung is one of death metal's most technically accomplished drummers, known 
 
 Yeung's profile rests on two pillars: raw speed and mechanical consistency. His blast beats operate in a range that challenges even the most accomplished death metal drummers — 200–280 BPM, sustained across full-length sets without perceptible degradation in precision. His double bass technique is particularly studied among drummers: fluid, relaxed, and seemingly effortless at tempos that would exhaust players using tension-based approaches.
 
-His primary setup is built around Pearl Reference Masters drums, Sabian cymbals, and DW 9002 double bass pedals — a combination optimized for extreme speed, durability, and the precise articulation that Morbid Angel's technically demanding catalogue requires. This article covers every component, explains how the gear supports Yeung's blast beat approach, and compares his setups across his Hate Eternal and Morbid Angel periods.
+His current setup is built around a Tama Starclassic Bubinga kit, Sabian cymbals, and a Tama Speed Cobra 910 double bass pedal — a combination optimized for extreme speed, durability, and the precise articulation that Morbid Angel's technically demanding catalogue requires. Yeung switched from Pearl to Tama in 2021, retiring the Pearl Reference Masters kit and DW 9002 pedal he used throughout his Hate Eternal and Morbid Angel recording years. This article covers every component, explains how the gear supports Yeung's blast beat approach, and compares his setups across his Hate Eternal and Morbid Angel periods.
 
 ## Gear Breakdown
 
-- **Drums:** Pearl Pearl Reference Masters (Various finishes across touring periods finish)
-- **Snare:** Pearl Pearl Free-Floating or Sensitone Snare, 14" x 6.5"
+- **Drums:** Tama Tama Starclassic Bubinga (Various finishes across touring periods finish)
+- **Snare:** Tama Tama S.L.P. Big Black Steel, 14" x 6.5"
 - **Cymbals:** Sabian — Sabian AAX / HHX Series
-- **Hardware / Pedals:** DW 9002 Double Bass Pedal; Vic Firth 5B; Remo Powerstroke 3; Remo Emperor Coated
+- **Hardware / Pedals:** Tama Speed Cobra 910 Double Pedal; Vic Firth American Classic 5A; Remo Powerstroke 3; Remo Emperor Coated
 - **Heads:** Remo Coated Ambassador (batter), Remo Diplomat Snare Side (resonant)
 - **Snare tuning:** Medium-bright for cut and articulation at extreme blast beat tempos
 
-### Pearl Reference Masters: Built for Extreme Speed
+### Tama Starclassic Bubinga: Built for Extreme Speed
 
-Tim Yeung's Pearl Reference Masters kit reflects the specific demands of technical death metal drumming at extreme tempos. The Reference Masters series uses Pearl's high-mass shell construction — maple and mahogany hybrid shells built to tolerances that translate identically from studio to stage. The maple layers deliver immediate attack and stick response; the mahogany component adds the warm body and controlled low-end resonance that Morbid Angel's guitar environment requires.
+Tim Yeung's Tama Starclassic Bubinga kit — adopted in a 2021 switch from his earlier Pearl Reference Masters setup — reflects the specific demands of technical death metal drumming at extreme tempos. The Starclassic Bubinga series uses Tama's dense bubinga shell construction, built to tolerances that translate identically from studio to stage; the bubinga shells deliver focused low-end and strong projection through Morbid Angel's guitar environment.
 
 The double bass drum configuration is fundamental to Yeung's setup. Two 22" x 18" kick drums provide the sub-bass frequency mass that makes his double-kick patterns felt as well as heard. At 200+ BPM, each individual kick stroke must articulate cleanly without merging into a single low-frequency wash — the 22" diameter and 18" depth combination supports this articulation while generating the physical impact that Morbid Angel's music demands at stage volumes.
 
@@ -38,7 +38,7 @@ In the sonic environment of death metal — guitars tuned to C and below, bass m
 
 At Yeung's blast beat tempos, the snare alternates with the kick in patterns that may reach 200–280 alternating strokes per minute. Each snare stroke must articulate separately even at maximum velocity — a challenge that eliminates lower-tension or thicker-shell snares that blur at high tempos. A bright, focused snare tuning ensures each stroke is a discrete, defined event rather than merging into the surrounding sonic mass.
 
-The Pearl snare approach serves the Morbid Angel context well: aggressive, forward, present in the mix even when Erik Rutan's guitar frequencies saturate the lower spectrum. Whether on record with Trey Azagthoth or live at extreme volumes, the snare functions as the rhythmic backbone that holds the blast beat together.
+The Tama S.L.P. Big Black Steel snare — his current model, switched from a Pearl steel snare in 2021 — serves the Morbid Angel context well: aggressive, forward, present in the mix even when Erik Rutan's guitar frequencies saturate the lower spectrum. Whether on record with Trey Azagthoth or live at extreme volumes, the snare functions as the rhythmic backbone that holds the blast beat together.
 
 ### Sabian: Aggressive, Fast, Death Metal Purpose-Built
 
@@ -48,45 +48,66 @@ The hi-hat choice is critical at Yeung's blast beat tempos. In a standard blast 
 
 The crash selection covers Morbid Angel's dynamic range. The 16" AAX responds quickly for accent work within dense passages; the 18" provides the fuller crash for structural boundaries and climactic section endings. The china cymbal — used selectively but to maximum effect — adds the trashy, violent character that punctuates Morbid Angel's most extreme passages with an aggression that standard crashes cannot replicate.
 
+## Extreme Speed, Extreme Precision: Tim Yeung and Morbid Angel
+
+Tim Yeung occupies a specific position in death metal's drummer hierarchy: the extreme technician whose speed is not an end in itself but the tool through which he serves the most demanding material in the genre. From Hate Eternal's technical brutality to Morbid Angel's foundational death metal, the constant is a technique built for consistency at tempos most drummers cannot sustain across a full set.
+
+His current gear reflects this philosophy at every level:
+
+- **Tama Starclassic Bubinga**: Bubinga shells that reward the relaxed, rebound-efficient technique he applies at 200–280 BPM — attack speed and focused resonance across the double-kick configuration, adopted in a 2021 switch from Pearl
+- **Sabian AAX/HHX Cymbals**: Fast-attacking, controlled-decay instruments that articulate at extreme blast beat tempos without blurring into wash
+- **Tama Speed Cobra 910 Double Pedal**: Direct-drive action that supports relaxed foot technique — the mechanical partner to his efficient double-bass approach, replacing the DW 9002 alongside the Tama switch
+- **Remo Powerstroke 3 bass heads**: Focused attack zone ensuring kick articulation at maximum double-kick tempo
+
+For drummers studying Yeung's approach, the gear is the framework — the technique is the foundation. The lesson is efficiency: at extreme tempos, relaxation beats tension, rebound beats power, and consistency beats speed records. Every blast beat he plays demonstrates that principle in real time.
+
+Study Hate Eternal's Fury & Flames for technical death metal blast beat intensity. Study Morbid Angel's Kingdoms Disdained for how extreme technique serves groove-oriented death metal. Study both together to understand how a complete extreme metal drummer adapts speed and precision across different compositional contexts.
+
+For deeper exploration:
+- **Full drummer profile**: [Tim Yeung at MetalForge](/drummer/tim-yeung)
+- **Death metal cluster**: [Paul Mazurkiewicz drum setup — Cannibal Corpse](/articles/paul-mazurkiewicz-drum-setup)
+- **Blast beat technique**: [Blast beat guide at MetalForge](/technique/blast-beat)
+- **Double bass technique**: [Double-bass drumming at MetalForge](/technique/double-bass-drumming)
+
 ## Key Facts
 
 - Morbid Angel drummer since the Illud Divinum Insanus era — maintaining the legacy of one of death metal's founding bands
-- Pearl Reference Masters kit — high-mass shells for attack speed and focused low-end
+- Tama Starclassic Bubinga kit — bubinga shells for focused low-end and projection, adopted in a 2021 switch from Pearl
 - Sabian cymbals throughout his career — fast, aggressive, purpose-built for extreme metal
-- DW 9002 double bass pedal — smooth cam action for sustained 200–280 BPM double kick
+- Tama Speed Cobra 910 double pedal — direct-drive action for sustained 200–280 BPM double kick
 - Known for extreme blast beat speed and relaxed double-bass technique at high tempos
 - Also recorded with Hate Eternal and Divine Heresy — crossover with Erik Rutan's extreme metal universe
-- Pearl Reference Masters — maple/mahogany hybrid for immediate attack and controlled low-end resonance
+- Tama Starclassic Bubinga — bubinga shells for focused low-end and projection, replacing his earlier Pearl kit in 2021
 - Double 22" x 18" bass drums — the engine for 200–280 BPM double kick patterns
 - Compact four-tom configuration matched to Morbid Angel's riff-driven arrangement style
-- Consistent setup between Hate Eternal and Morbid Angel touring periods
-- Estimated kit value: $3,500–6,000 (Pearl Reference Masters shell pack)
+- Consistent tom/bass drum configuration carried from his earlier Pearl setup into the Tama switch
+- Estimated kit value: $3,500–6,000 (Tama Starclassic Bubinga shell pack)
 - Estimated snare value: $350–700
 
 ## Frequently Asked Questions
 
 **Q: What drums does Tim Yeung play?**
 
-A: Tim Yeung plays Pearl Reference Masters drums. His configuration is built around a double bass drum setup with two 22" x 18" kick drums for the sub-bass mass his extreme double-kick patterns require, two rack toms (10" and 12"), and two floor toms (16" and 18"). The Reference Masters series uses a maple and mahogany hybrid shell construction that delivers immediate attack response and controlled low-end resonance — essential for the articulation and physical impact of death metal drumming at 200+ BPM blast beat tempos.
+A: Tim Yeung currently plays a Tama Starclassic Bubinga kit, switched from Pearl Reference Masters in 2021. His configuration is built around a double bass drum setup with two 22" x 18" kick drums for the sub-bass mass his extreme double-kick patterns require, two rack toms (10" and 12"), and two floor toms (16" and 18"). The Starclassic Bubinga series uses dense bubinga shell construction that delivers focused low-end and strong projection — essential for the articulation and physical impact of death metal drumming at 200+ BPM blast beat tempos.
 
 **Q: What pedals does Tim Yeung use?**
 
-A: Tim Yeung uses the DW 9002 double bass pedal. The DW 9002's smooth cam system and consistent action support his relaxed high-speed double bass technique — at 200–280 BPM, the pedal's mechanical consistency is a performance requirement, not a preference. The 9002 minimizes energy loss between foot movement and beater impact, which compounds across extended double-kick passages. Yeung has used DW double bass pedals across his Hate Eternal and Morbid Angel periods — the same fundamental setup in different extreme death metal contexts. For more on double bass pedal setup and technique, see [double-bass drumming at MetalForge](/technique/double-bass-drumming).
+A: Tim Yeung uses the Tama Speed Cobra 910 double bass pedal, switched from the DW 9002 alongside his 2021 move to Tama. The Speed Cobra's direct-drive system and consistent action support his relaxed high-speed double bass technique — at 200–280 BPM, the pedal's mechanical consistency is a performance requirement, not a preference. It minimizes energy loss between foot movement and beater impact, which compounds across extended double-kick passages. Yeung used DW double bass pedals across his Hate Eternal and earlier Morbid Angel periods before the Tama switch. For more on double bass pedal setup and technique, see [double-bass drumming at MetalForge](/technique/double-bass-drumming).
 
 **Q: How fast is Tim Yeung's double bass?**
 
-A: Tim Yeung's blast beat tempos are documented in the 200–280 BPM range, placing him among the fastest death metal drummers in the genre. His extreme speed is built on relaxed, rebound-efficient technique rather than muscular power striking — at tempos above 250 BPM, the body's muscular system cannot sustain tension-based striking across full performances, so rebound efficiency (letting the stick or beater return via its own momentum before the next stroke) becomes the only sustainable approach. The DW 9002 pedal's smooth action supports this efficiency on the feet, mirroring the hand technique he applies on the kit. For context on extreme blast beat technique and comparison: [blast beat technique guide at MetalForge](/technique/blast-beat).
+A: Tim Yeung's blast beat tempos are documented in the 200–280 BPM range, placing him among the fastest death metal drummers in the genre. His extreme speed is built on relaxed, rebound-efficient technique rather than muscular power striking — at tempos above 250 BPM, the body's muscular system cannot sustain tension-based striking across full performances, so rebound efficiency (letting the stick or beater return via its own momentum before the next stroke) becomes the only sustainable approach. His Tama Speed Cobra 910 pedal's direct-drive action supports this efficiency on the feet, mirroring the hand technique he applies on the kit. For context on extreme blast beat technique and comparison: [blast beat technique guide at MetalForge](/technique/blast-beat).
 
 **Q: What cymbals does Tim Yeung use?**
 
-A: Tim Yeung plays Sabian cymbals, primarily from the AAX and HHX series. His setup includes Sabian 14" AAX hi-hats, 16" and 18" AAX crashes, a 20" HHX ride, and an 18" AAX china cymbal. Sabian's AAX line — machine-hammered B20 bronze — produces focused, bright voices with fast attack and controlled decay that articulate clearly in death metal's dense sonic environment. At his blast beat tempos, hi-hat decay speed is a technical requirement: the AAX hi-hats cycle fast enough to articulate each stroke at 250+ BPM without blurring into an undifferentiated wash.
+A: Tim Yeung plays Sabian cymbals, primarily from the AAX and HHX series. His setup includes Sabian 14" AAX hi-hats, 16" and 18" AAX crashes, a 20" HHX ride, and an 18" AAX china cymbal. Sabian's AAX line — machine-hammered B20 bronze — produces focused, bright voices with fast attack and controlled decay that articulate clearly in death metal's dense sonic environment. At his blast beat tempos, hi-hat decay speed is a technical requirement: the AAX hi-hats cycle fast enough to articulate each stroke at 250+ BPM without blurring into an undifferentiated wash. Sabian is the one brand relationship that carried through his 2021 switch from Pearl to Tama.
 
 **Q: What is the difference between Tim Yeung's Hate Eternal and Morbid Angel setups?**
 
-A: Tim Yeung's core gear setup — Pearl Reference Masters drums, Sabian cymbals, DW 9002 double bass pedal — remained consistent across his Hate Eternal and Morbid Angel periods. The primary difference is in musical application rather than equipment. Hate Eternal's arrangements (particularly Fury & Flames and I, Monarch) demand faster, more technically dense blast beat patterns in Erik Rutan's extreme technical death metal context. Morbid Angel's catalogue — especially the Kingdoms Disdained return-to-form — balances extreme speed sections with more groove-oriented death metal passages. Yeung's technique spans both contexts. For the full Morbid Angel connection and comparison with Paul Mazurkiewicz's Cannibal Corpse setup: [Paul Mazurkiewicz drum setup](/articles/paul-mazurkiewicz-drum-setup).
+A: Tim Yeung's core gear setup — Pearl Reference Masters drums, Sabian cymbals, DW 9002 double bass pedal — remained consistent across his Hate Eternal and earlier Morbid Angel periods, before a full 2021 switch to Tama Starclassic Bubinga drums and a Tama Speed Cobra 910 pedal for his current touring and session work. The primary difference between the Hate Eternal and Morbid Angel eras was in musical application rather than equipment. Hate Eternal's arrangements (particularly Fury & Flames and I, Monarch) demand faster, more technically dense blast beat patterns in Erik Rutan's extreme technical death metal context. Morbid Angel's catalogue — especially the Kingdoms Disdained return-to-form — balances extreme speed sections with more groove-oriented death metal passages. Yeung's technique spans both contexts. For the full Morbid Angel connection and comparison with Paul Mazurkiewicz's Cannibal Corpse setup: [Paul Mazurkiewicz drum setup](/articles/paul-mazurkiewicz-drum-setup).
 
 **Source:** https://metalforge.io/articles/tim-yeung-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

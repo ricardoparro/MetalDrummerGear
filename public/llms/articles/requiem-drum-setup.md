@@ -22,7 +22,7 @@ Luzier's rig for the *Requiem* sessions continued the Pearl platform he'd built 
 - **Drums:** Pearl Pearl Reference Maple (Custom finish (Korn touring/studio configuration) finish)
 - **Snare:** Pearl Pearl Reference 14" × 6.5" Brass, 14" × 6.5"
 - **Cymbals:** Sabian — Sabian AAX Series
-- **Hardware / Pedals:** Pearl Demon Drive Double Bass Pedal; Promark Ray Luzier Signature TX420X; Pearl D-2000 Roadster Throne; Evans EC2 Coated; Evans EMAD2
+- **Hardware / Pedals:** DW 9000 Series Double Bass Pedal; Vic Firth Ray Luzier Signature; Pearl D-2000 Roadster Throne; Evans EC2 Coated; Evans EMAD2
 - **Heads:** Remo Coated Emperor (batter), Remo Hazy Ambassador Snare Side (resonant)
 - **Snare tuning:** Medium tension, controlled sustain for exposed backbeats in a spacious mix
 
@@ -45,6 +45,20 @@ The 14" × 6.5" brass shell's natural projection meant Chris Collier's productio
 Luzier's Sabian AAX setup continued unchanged into *Requiem*, but the way it's deployed reflects the album's more controlled, atmospheric identity. Where *Serenity of Suffering* leaned on the AAXtreme China for constant aggressive punctuation, *Requiem* uses it sparingly — saving the raw trash tone for genuine peak moments rather than routine accents, which makes those moments hit harder.
 
 The 14" AAX Stage Hi-Hats carry more of the rhythmic responsibility on this record. With Chris Collier's production leaving more space in the mix, the hi-hat's fast, bright response becomes a primary driver of groove on tracks like 'Let the Dark Do the Rest,' rather than one element among a denser wall of cymbal work. The 21" AAX Stage Ride sees more use than on prior Korn records too, its clear bell definition suited to the album's more spacious, riding-based sections — a texture *Requiem* reaches for more often than any previous Luzier-era Korn album.
+
+## The Arc Comes Home: Requiem
+
+*Requiem* closes a fourteen-year circle for Ray Luzier — from a touring drummer proving himself on *Korn III* in 2010 to a fully integrated member delivering one of the most controlled, dynamically mature performances of his career, recorded in the band's own hometown. Debuting at #14 on the Billboard 200 with 'Start the Healing' topping the Active Rock chart, *Requiem* confirmed that Korn — and its rhythm section — still had new ground to cover after nearly three decades.
+
+Luzier's Pearl Reference Maple kit, Reference Brass snare, Sabian AAX cymbals, and Demon Drive pedal carried the same DNA as *The Paradigm Shift* and *Serenity of Suffering*, deployed here with a new degree of restraint that let *Requiem*'s atmosphere breathe. It's the sound of a drummer who no longer has anything to prove, playing exactly what the song needs.
+
+For deeper exploration of Ray Luzier's complete Korn arc:
+- **Full drummer profile**: [Ray Luzier at MetalForge](/drummer/ray-luzier)
+- **Complete current kit guide**: [What's in Ray Luzier's Kit?](/articles/whats-in-ray-luziers-kit)
+- **Previous album**: [The Nothing Drum Setup (2019)](/articles/the-nothing-drum-setup)
+- **Two albums back**: [The Serenity of Suffering Drum Setup (2016)](/articles/serenity-of-suffering-drum-setup)
+- **Where it began**: [Korn III Drum Setup (2010)](/articles/korn-iii-drum-setup)
+- **Nu-metal context**: [Nu-Metal Drum Setups](/articles/nu-metal-drum-setups)
 
 ## Key Facts
 
@@ -88,4 +102,4 @@ A: "Start the Healing" was the lead single from Korn's Requiem, released Novembe
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

@@ -1,6 +1,6 @@
 # Joey Jordison's Drum Setup on Slipknot's All Hope Is Gone (2008)
 
-> Complete breakdown of Joey Jordison's drum setup on Slipknot's All Hope Is Gone (2008) — the Grammy-nominated 'Psychosocial' album and Joey's farewell Slipknot studio record. Pearl Reference Series kit, Zildjian Z Custom cymbals, Pearl Eliminator Demon Drive pedals — the gear that closed the Jordison-era discography arc.
+> Complete breakdown of Joey Jordison's drum setup on Slipknot's All Hope Is Gone (2008) — the Grammy-nominated 'Psychosocial' album and Joey's farewell Slipknot studio record. Pearl Reference Series kit, Paiste RUDE cymbals, Pearl Eliminator Demon Drive pedals — the gear that closed the Jordison-era discography arc.
 
 **Type:** Album Drum Setup
 **Drummer(s):** [Joey Jordison](/llms/drummers/joey-jordison.md)
@@ -23,8 +23,8 @@ In hindsight, *All Hope Is Gone* is the arc closer of Jordison's recorded Slipkn
 
 - **Drums:** Pearl Pearl Reference Series (Black/Red finish finish)
 - **Snare:** Pearl Pearl Joey Jordison Signature Steel Snare, 14" x 5"
-- **Cymbals:** Zildjian — Zildjian Z Custom
-- **Hardware / Pedals:** Pearl Eliminator Demon Drive Double Pedal; Pearl Icon Rack System; Pearl H-2000 Hi-Hat Stand; Pearl Roadster Throne; Vic Firth Joey Jordison Signature
+- **Cymbals:** Paiste — Paiste RUDE & 2002
+- **Hardware / Pedals:** Pearl Eliminator Demon Drive Double Pedal; Pearl Icon Rack System; Pearl H-2000 Hi-Hat Stand; Pearl Roadster Throne; Promark Joey Jordison Signature TX515W
 - **Heads:** Remo Ambassador X (batter), Remo Ambassador Hazy Snare Side (resonant)
 - **Snare tuning:** Medium-high tension with controlled snare wire pressure — open enough for ghost notes, cracking enough for chorus backbeats
 
@@ -48,17 +48,31 @@ Joey tuned the snare relatively high for the *All Hope Is Gone* sessions, with c
 
 The signature snare's beaded shell construction provides additional structural rigidity and slight tonal complexity from the bead's interaction with the shell's resonance. This contributes to the distinctive cracking attack that became one of the most recognised snare sounds in modern metal — a sound directly tied to Joey's name through the signature model.
 
-### Zildjian Z Custom: Joey's Late-2000s Slipknot Choice
+### Paiste RUDE: The Expanded Late-Slipknot Setup
 
-By 2008, Joey Jordison had moved away from the Paiste RUDE series that defined his Iowa and Vol. 3 cymbal sound and embraced Zildjian's Z Custom series for his late-Slipknot work. The Z Custom — Zildjian's heaviest production line, designed specifically for hard rock and metal drumming — provided a different sonic philosophy from the unlathed raw character of Paiste RUDE: brighter, more cutting, with more projection and a tighter, more focused attack.
+For *All Hope Is Gone*, Joey Jordison expanded on the Paiste RUDE and 2002 series setup that had defined his Iowa and Vol. 3 cymbal sound, adding an additional crash and refreshed china options for the album's wider dynamic range. The RUDE series' unlathed, raw bronze surface remained the sonic foundation of his late-Slipknot cymbal voice — dark, trashy, and loud enough to cut through Dave Fortman's dense mix.
 
-The Z Custom hi-hats deliver the rapid articulation Joey's playing demanded with a cutting chick sound that sits clearly in Dave Fortman's mix. On "Psychosocial" — the album's defining track — the hi-hat pattern drives the verse with the kind of precision that survives the dense rhythm guitar layering without disappearing.
+The RUDE hi-hats deliver the rapid articulation Joey's playing demanded with a cutting chick sound that sits clearly in Dave Fortman's mix. On "Psychosocial" — the album's defining track — the hi-hat pattern drives the verse with the kind of precision that survives the dense rhythm guitar layering without disappearing.
 
-The crash array (16", 18", 19") provides a hierarchy of dynamic weights for *All Hope Is Gone*'s wide range of song-section intensities. The Z Custom Medium-weight crashes deliver faster response and brighter character than the heavier RUDE series — appropriate for Fortman's tighter, more controlled production approach.
+The crash array (16", 18", 19") provides a hierarchy of dynamic weights for *All Hope Is Gone*'s wide range of song-section intensities, continuing the same crash sizes Joey used on Iowa and Vol. 3.
 
-The 22" Mega Bell Ride is a notable addition to Joey's late-Slipknot setup. The pronounced bell gives the ride a powerful, cutting attack particularly suited to the slower, riff-driven sections of "Dead Memories" and "Snuff," where the ride functions as a melodic voice rather than a pure timekeeping device. This represents a maturation of Joey's cymbal vocabulary beyond the pure-aggression vocabulary of the Iowa era.
+The Paiste 2002 22" Power Ride carried over from the Iowa and Vol. 3 setups. Its pronounced bell gives the ride a powerful, cutting attack particularly suited to the slower, riff-driven sections of "Dead Memories" and "Snuff," where the ride functions as a melodic voice rather than a pure timekeeping device.
 
-The 19" Z Custom China continued the Slipknot tradition of aggressive China accents as compositional punctuation. On "Gematria (The Killing Name)" — the album opener — the China fires on the downbeats of the most intense sections with the same authority as the RUDE Chinas of earlier Slipknot albums, but with a brighter, more cutting character that suits Fortman's production.
+The 19" RUDE China continued the Slipknot tradition of aggressive China accents as compositional punctuation. On "Gematria (The Killing Name)" — the album opener — the China fires on the downbeats of the most intense sections with the same raw, unlathed authority as the RUDE Chinas of earlier Slipknot albums.
+
+## The Farewell Document: All Hope Is Gone in Joey Jordison's Legacy
+
+*All Hope Is Gone* is the closing document of Joey Jordison's Slipknot studio career. Released August 26, 2008, recorded in his home state of Iowa, debuted at #1 on the Billboard 200, certified Gold within months, Grammy-nominated for "Psychosocial" — it is the most commercially decorated record Joey would make with the band, and the one that captures him at the peak of his discipline as a recording artist.
+
+The gear evolution across his four Slipknot albums tells its own story. The Tama Rockstar of the 1999 debut gave way to the Pearl Masterworks Custom of Iowa and Vol. 3, then to the Pearl Reference Series of *All Hope Is Gone*. The Zildjian A Custom of the debut became Paiste RUDE for the Iowa era, continuing in an expanded form through *All Hope Is Gone*. The Tama Iron Cobra of the debut became the Pearl Demon Drive of Iowa and Vol. 3, then the Eliminator Demon Drive of *All Hope Is Gone*. Every change was incremental, intentional, and tied to specific sonic outcomes — a player thinking carefully about the relationship between his tools and his recorded voice.
+
+The Pearl Reference Series kit, Paiste RUDE cymbals, Pearl Joey Jordison Signature steel snare, and Pearl Eliminator Demon Drive pedals captured on *All Hope Is Gone* represent the most refined setup Joey would use on a Slipknot record. Dave Fortman's production captured this setup with a song-focused polish that distinguished the album from both Ross Robinson's chaos and Rick Rubin's stripped-back clarity. The result is a record that rewards listeners who follow the songs from start to finish — a different proposition from the immediate-impact extremity of Iowa.
+
+For drummers studying Joey Jordison's late career, *All Hope Is Gone* offers a master class in restraint within heaviness. The double-bass passages of "Gematria" are as extreme as anything from Iowa, but the verse-and-chorus discipline of "Psychosocial" and the melodic restraint of "Snuff" demonstrate everything he had learned about song-focused playing across his Slipknot tenure. It is the work of a mature player operating with full command of his instrument and his role in the band.
+
+The album's title — *All Hope Is Gone* — proved more prophetic than anyone could have known. Paul Gray died in 2010. Joey left Slipknot in 2013. Joey died in 2021. The record that closed the arc of his Slipknot studio career also closed the original lineup of the band that defined his life as a musician.
+
+For the studio arc that led here, see the [Iowa drum setup article](/articles/iowa-drum-setup) for the peak-extremity era, the [Vol. 3 drum setup article](/articles/vol-3-the-subliminal-verses-drum-setup) for the Rubin-era clarity record, and the [Slipknot self-titled drum setup](/articles/slipknot-self-titled-drum-setup) for the original gear foundation. For the post-Joey era, see the [Gray Chapter drum setup article](/articles/the-gray-chapter-drum-setup) — Jay Weinberg's Slipknot debut, recorded six years after Joey's last Slipknot studio session. For Joey's complete gear history and career legacy, see the [Joey Jordison drummer profile](/drummer/joey-jordison).
 
 ## Key Facts
 
@@ -87,7 +101,7 @@ A: Yes — All Hope Is Gone (2008) is Joey Jordison's final Slipknot studio albu
 
 **Q: What cymbals did Joey Jordison use on All Hope Is Gone?**
 
-A: Joey Jordison used Zildjian Z Custom cymbals on All Hope Is Gone (2008), a change from the Paiste RUDE series that defined his Iowa and Vol. 3 cymbal sound. The setup included Zildjian Z Custom 14 inch Mastersound Hi-Hats, Z Custom Medium crashes in 16, 18, and 19 inch sizes, a Z Custom 22 inch Mega Bell Ride, a Z Custom 19 inch China, and a Z Custom 10 inch Splash. The Z Custom series — Zildjian's heaviest production line, designed for hard rock and metal — delivers brighter, more cutting tones with faster response than the unlathed Paiste RUDE series, suiting Dave Fortman's tighter, more controlled production at Sound Farm Studios.
+A: Joey Jordison used Paiste RUDE cymbals on All Hope Is Gone (2008), the same series that defined his Iowa and Vol. 3 cymbal sound, expanded for the album's wider dynamic range. The setup included Paiste RUDE 14 inch Wild Hi-Hats, RUDE Wild Crashes in 16, 18, and 19 inch sizes, a Paiste 2002 22 inch Power Ride, a RUDE 19 inch Wild China, and a RUDE 10 inch Splash. The RUDE series' unlathed, raw bronze surface delivers the dark, trashy, high-volume tone Jordison relied on throughout his Slipknot tenure, coming through with added definition in Dave Fortman's tighter, more controlled production at Sound Farm Studios.
 
 **Q: What pedals did Joey Jordison use on All Hope Is Gone?**
 
@@ -105,4 +119,4 @@ A: All Hope Is Gone was recorded at Sound Farm Studios in Jamaica, Iowa, just ov
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

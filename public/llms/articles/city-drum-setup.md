@@ -21,7 +21,7 @@ Devin Townsend's compositions for "City" were written with full awareness of wha
 
 - **Drums:** Tama Tama Artstar II (Piano Black finish)
 - **Snare:** Pearl Pearl Free-Floating Steel, 14" x 6.5"
-- **Cymbals:** Zildjian — Zildjian A Custom
+- **Cymbals:** Sabian — Sabian HHX
 - **Hardware / Pedals:** Roland SPD-20 Total Percussion Pad; Tama Iron Cobra Power Glide (x2); Tama Iron Cobra Hi-Hat Stand; Tama 1st Chair; Pro-Mark 5B Wood Tip
 - **Heads:** Remo Emperor Coated (batter), Remo Ambassador Snare Side (resonant)
 - **Snare tuning:** Medium-high tension for maximum articulation at industrial metal tempos
@@ -46,15 +46,34 @@ In "City"'s production context, the Free-Floating's natural sonic character was 
 
 Hoglan tuned the drum medium-high — consistent with his Death-era approach — prioritizing articulation and attack over body or warmth. On a track like "Oh My Fucking God," where the snare punctuates some of the fastest patterns of Hoglan's career, this tuning decision kept every stroke legible regardless of tempo.
 
-### Zildjian A Custom: Brightness Through the Industrial Wall
+### Sabian HHX: Brightness Through the Industrial Wall
 
-Gene Hoglan's cymbal setup for "City" centered on Zildjian's A Custom series — bright, modern cymbals with excellent attack definition and fast decay times that were ideally suited to Townsend's industrial production aesthetic.
+Gene Hoglan's cymbal setup for "City" centered on Sabian's HHX series — bright, modern cymbals with excellent attack definition and fast decay times that were ideally suited to Townsend's industrial production aesthetic.
 
-The A Custom hi-hats (14") were essential to the album's rhythmic identity. Their bright, cutting character allowed Hoglan's hi-hat patterns to register clearly even within Townsend's wall-of-sound guitar layers. On "Detox" and "Underneath the Waves," the hi-hat work functions as a precision rhythmic grid — every stroke exactly placed, the cymbal's fast decay preventing wash from obscuring the pattern.
+The HHX Evolution hi-hats (14") were essential to the album's rhythmic identity. Their bright, cutting character allowed Hoglan's hi-hat patterns to register clearly even within Townsend's wall-of-sound guitar layers. On "Detox" and "Underneath the Waves," the hi-hat work functions as a precision rhythmic grid — every stroke exactly placed, the cymbal's fast decay preventing wash from obscuring the pattern.
 
-The three-crash configuration (17", 18", 19") gave Hoglan dynamic range across the album's varied intensity levels. The A Custom crashes are known for their bright, cutting initial attack and relatively fast decay — qualities that served "City"'s production approach. Industrial metal doesn't reward cymbals that sustain heavily; every crash accent needs to speak clearly and then get out of the way of the next event.
+The three-crash configuration (17", 18", 19") gave Hoglan dynamic range across the album's varied intensity levels. The HHX Evolution crashes are known for their bright, cutting initial attack and relatively fast decay — qualities that served "City"'s production approach. Industrial metal doesn't reward cymbals that sustain heavily; every crash accent needs to speak clearly and then get out of the way of the next event.
 
-The 20" A Custom Ride provided the articulate bell work that appears in "City"'s groove-based passages, where Hoglan shifts between rhythmic grid work and more open riding patterns. Unlike some extreme metal drummers who treat the ride primarily as a crash alternative, Hoglan used it as a textural element — creating contrast with the hi-hat work that defined the album's more aggressive sections.
+The 20" HHX Ride provided the articulate bell work that appears in "City"'s groove-based passages, where Hoglan shifts between rhythmic grid work and more open riding patterns. Unlike some extreme metal drummers who treat the ride primarily as a crash alternative, Hoglan used it as a textural element — creating contrast with the hi-hat work that defined the album's more aggressive sections.
+
+## City: The Industrial Album That Proved Human Precision Could Sound Like a Machine
+
+"City" occupies a unique position in Gene Hoglan's discography and in the history of extreme metal: it is the record where "The Atomic Clock" nickname stopped being a compliment about precision and became something genuinely uncanny. Devin Townsend's production didn't make Hoglan sound like a machine by editing or programming — he sounded like a machine because he played like one.
+
+**The Gear as Industrial Tool:**
+The Tama Artstar II shells and Pearl Free-Floating snare that Hoglan had used for "Symbolic" — warm, acoustic, musical — became industrial percussion objects on "City" through Townsend's production chain. The Roland SPD-20 added a layer of electronic sound design that no previous Hoglan recording had included. Together, these choices created a drum setup that existed in a genuinely new space: acoustic enough to feel human, precise enough to feel programmed, electronic enough to feel industrial.
+
+**For Drummers Studying City:**
+This album rewards close study:
+- Listen to the double kick clarity at extreme tempos — no triggers, no editing, pure technique
+- Study how the SPD-20 electronic accents integrate with the acoustic kit performance
+- Notice the dynamic range even within the most extreme sections — ghost notes coexist with blast beats
+- Pay attention to how the production transforms the acoustic sounds: same kit as Symbolic, different sonic universe
+
+**The Influence Arc:**
+City → Meshuggah's Nothing (2002) → Periphery's first records (2010) → the mainstream djent movement. The chain is direct. Hoglan and Townsend on City established that the intersection of human precision and industrial production was a viable aesthetic destination for extreme metal. Everything that followed built on what they demonstrated here.
+
+🥁 *The Atomic Clock went industrial. Nothing sounded the same after.* 🤘
 
 ## Key Facts
 
@@ -76,7 +95,7 @@ The 20" A Custom Ride provided the articulate bell work that appears in "City"'s
 
 **Q: What drums did Gene Hoglan use on Strapping Young Lad City?**
 
-A: Gene Hoglan recorded Strapping Young Lad's City (1997) using a Tama Artstar II kit with birch shells, two 22" x 16" bass drums, and a Pearl Free-Floating steel snare at 14" x 6.5". His cymbal setup was Zildjian A Custom series throughout. The defining addition that made the City setup unique was the Roland SPD-20 electronic percussion pad, integrated into the kit to trigger the industrial electronic sounds that define the album's character.
+A: Gene Hoglan recorded Strapping Young Lad's City (1997) using a Tama Artstar II kit with birch shells, two 22" x 16" bass drums, and a Pearl Free-Floating steel snare at 14" x 6.5". His cymbal setup was Sabian HHX series throughout. The defining addition that made the City setup unique was the Roland SPD-20 electronic percussion pad, integrated into the kit to trigger the industrial electronic sounds that define the album's character.
 
 **Q: Did Gene Hoglan use electronic drums on Strapping Young Lad City?**
 
@@ -94,4 +113,4 @@ A: City (1997) is widely considered a direct precursor to the djent movement. De
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

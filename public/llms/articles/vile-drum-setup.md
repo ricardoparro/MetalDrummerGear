@@ -46,6 +46,18 @@ As with the drum kit itself, Mazurkiewicz's cymbal setup on "Vile" carried over 
 
 Because the cymbal, drum, and bass tracks were captured before the vocalist change, the brass on "Vile" reflects zero disruption from the turmoil surrounding the sessions — a continuity that underscores how much of the album's finished sound was locked in before George Fisher ever stepped into the booth.
 
+## The Bridge Between Two Eras
+
+"Vile" occupies a singular place in Cannibal Corpse's history: the album where the band's most consequential lineup change happened almost entirely off-camera, in the vocal booth, after the instrumental tracking Paul Mazurkiewicz played on was already complete. His pre-endorsement Pearl kit, conventional grip, and locomotive double-bass technique carried over unchanged from The Bleeding, giving George "Corpsegrinder" Fisher a fully-formed rhythmic foundation to build his Cannibal Corpse debut on.
+
+Scott Burns's fifth and final Cannibal Corpse production closed out the Morrisound partnership that had defined the band's first five albums, even as the record is remembered first and foremost for introducing the vocalist who would front Cannibal Corpse for the next three decades and counting. For Mazurkiewicz, Vile is the quiet technical bridge between two well-documented eras — proof that the locomotive foundation he built across the Barnes years was strong enough to survive the biggest lineup earthquake in the band's history without missing a beat.
+
+For the full Cannibal Corpse drum setup arc:
+- **The predecessor**: [The Bleeding drum setup (1994)](/articles/the-bleeding-drum-setup) — the last Chris Barnes album, tracked in the same room with the same producer
+- **The successor**: [Gallery of Suicide drum setup (1998)](/articles/gallery-of-suicide-drum-setup) — Fisher's second album and the last Morrisound session
+- **Modern rig**: [Paul Mazurkiewicz drum setup](/articles/paul-mazurkiewicz-drum-setup) — Pearl Reference / Meinl / Pearl Eliminator
+- **Full profile**: [Paul Mazurkiewicz at MetalForge](/drummer/paul-mazurkiewicz)
+
 ## Key Facts
 
 - Cannibal Corpse's fifth album (May 21, 1996) — Metal Blade Records — George 'Corpsegrinder' Fisher's debut as vocalist
@@ -87,4 +99,4 @@ A: Vile (1996) sits directly between The Bleeding (1994) and Gallery of Suicide 
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

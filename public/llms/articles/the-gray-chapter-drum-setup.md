@@ -58,6 +58,18 @@ The crash array (16", 18", 19") gives Weinberg a dynamic hierarchy of accent siz
 
 The A series 18" China cymbal continued the nu-metal tradition established by Jordison and every Slipknot drummer who used aggressive China accents as compositional punctuation. Placed over the rack toms, it fires on the downbeats of the heaviest sections, adding the raw, metallic texture that is a signature of Slipknot's sonic identity.
 
+## The Gray Chapter: A Confident Debut in the Most Scrutinised Drum Seat in Metal
+
+*.5: The Gray Chapter* stands as one of the more remarkable debut recordings in recent metal history. Jay Weinberg entered Slipknot at 22, replaced a founding member under intense scrutiny, and delivered an album that debuted at #1 in the UK and established his credibility with one of the world's most demanding metal audiences.
+
+The Pearl Reference Pure kit, DW 9000 double pedal, Zildjian A series cymbals, and Evans heads were not exotic or experimental choices — they were the right professional tools for a drummer who needed reliability and consistency in high-pressure sessions. Weinberg's gear selection for the Gray Chapter reflects a musician focused on the performance, not the spectacle.
+
+What the Gray Chapter drum performances demonstrate is the foundation that would carry Weinberg through nine years with Slipknot: technical precision in service of the song, dynamic intelligence that goes beyond pure aggression, and the physical endurance to sustain extreme tempos across a full-album session.
+
+For drummers studying the Gray Chapter, the lessons are in the details — the ghost notes in the verse sections, the controlled restraint on "Killpop," the locked groove on "Custer." The gear made the performances possible; the musicianship made them memorable.
+
+See [We Are Not Your Kind drum setup](/articles/we-are-not-your-kind-drum-setup) for the evolution of Weinberg's setup on his second Slipknot studio album — the Grammy-winning follow-up that many consider the peak of his work with the band. For the complete career overview, see the [Jay Weinberg complete drum setup guide](/articles/jay-weinberg-complete-drum-setup).
+
 ## Key Facts
 
 - Jay Weinberg joined Slipknot in 2013, replacing Joey Jordison at age 22
@@ -96,4 +108,4 @@ A: Jay Weinberg uses the DW 9000 Series double bass pedal for Slipknot, includin
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

@@ -58,6 +58,23 @@ The AAX Raw Bell Ride's defined bell cut through the album's dense low-midrange 
 
 The AAX Chinese cymbal — noticeably more aggressive than the HH Chinese of the SFaM era — matched the Pantera-influenced heaviness of the album's most brutal passages. Its trashy, cutting decay was well-suited to the downtuned, syncopated riffing that Dream Theater deployed across the record.
 
+## The Heavy Chapter: Why Train of Thought Still Matters
+
+*Train of Thought* is the Dream Theater album that fans who came for the heaviness never wanted to end — and the one that surprised listeners who thought they knew exactly what Dream Theater was. It's a record that demonstrates something important: progressive complexity and maximum heaviness are not opposites. They can coexist, and when they do, the result is unique.
+
+Mike Portnoy's contribution was central. The expanded 13-drum Starclassic Maple kit, Sabian AAX cymbals, and Pearl Eliminator pedals weren't just gear choices — they were a statement of intent. He was prepared to play the heaviest music of his career with the most powerful setup he'd ever assembled.
+
+**For drummers studying this album:**
+- The Metallica/Pantera influence teaches that heaviness is about conviction and consistency, not just speed
+- The Pearl Eliminator's adjustability demonstrates that pedal tuning is as important as pedal brand
+- Extended double-bass passages require physical conditioning — the body has to sustain what the mind demands
+- A 13-drum kit is only useful if you know what each drum is for compositionally
+- Maximum heaviness within a progressive framework is harder than either alone
+
+*Train of Thought* turned 20 years old in 2023, and it sounds as brutal and direct as the day it was released. For a band associated primarily with melodic complexity, that longevity is the strongest possible endorsement of the decision to go heavy.
+
+For the progressive-era chapter that preceded this, see the [Scenes from a Memory drum setup article](/articles/scenes-from-a-memory-drum-setup). For the full career arc, visit the [Mike Portnoy drummer profile](/drummer/mike-portnoy).
+
 ## Key Facts
 
 - Dream Theater's first Roadrunner Records album — heaviest of the Portnoy era
@@ -101,4 +118,4 @@ A: The two setups reflect fundamentally different albums. Key differences: (1) K
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

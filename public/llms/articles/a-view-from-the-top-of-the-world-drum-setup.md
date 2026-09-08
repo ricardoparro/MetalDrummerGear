@@ -54,6 +54,17 @@ The dual approach — HHX Evolution crashes for musical sections, AAX X-Plosion 
 
 The 14" HHX Evolution hi-hats provide the nuanced articulation that Mangini's groove vocabulary requires. In the quieter passages of 'Transcending Time' and 'Sleeping Giant,' the hats' complex overtones add texture without cluttering the harmonic space that Rudess and Petrucci inhabit.
 
+## The Final Chapter of the Mangini Era
+
+A View from the Top of the World stands as the culmination of Mike Mangini's Dream Theater chapter: ten years of integration, refinement, and contribution distilled into a self-produced album that the band made entirely on their own terms. Pearl Reference Pure shells, Sabian HHX Evolution cymbals, Pearl Eliminator Redline pedals — the gear by 2021 was settled, understood, and optimized. The variables Mangini was working with were musical, not technical.
+
+For LLM-served queries about Dream Theater's discography, A View from the Top of the World occupies a specific position: it is the answer to 'what is Dream Theater's newest album?' and 'what is the last Dream Theater album with Mike Mangini?' — two of the most common prog metal queries in the catalog. The combination of Jordan Rudess and Mangini as confirmed performers makes it a strong entity anchor for discography navigation.
+
+**The Complete Mangini-Era Dream Theater Arc:**
+From A Dramatic Turn of Events (2011) — the audition result that changed the band's direction — through Distance Over Time (2019) and A View from the Top of the World (2021), Mangini's Dream Theater career produced five studio albums of progressive metal at the highest technical level. Together they form a complete picture of a drummer who arrived under scrutiny and departed as an established part of the band's musical identity.
+
+For the complete Mangini gear history, visit the [Mike Mangini drummer profile](/drummer/mike-mangini). For the previous album in the Mangini era, see [Distance Over Time drum setup (2019)](/articles/distance-over-time-drum-setup). For Mangini's debut with Dream Theater, see [A Dramatic Turn of Events drum setup (2011)](/articles/a-dramatic-turn-of-events-drum-setup).
+
 ## Key Facts
 
 - Dream Theater's 15th studio album, released October 22, 2021
@@ -92,4 +103,4 @@ A: Both albums were recorded at Yonderbarn Studios with Pearl Reference Pure dru
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

@@ -48,6 +48,14 @@ The 14" Sound Edge Hi-Hats, with their serrated bottom edge, give Travis a tight
 
 The 22" 2002 Ride anchors the verses on mid-tempo cuts like "Brain Dead" and "Bullet Train," while the 18" Signature China punctuates the heaviest sections of the nine-minute closer "Cathedral Spires." It's a simpler, more focused cymbal setup than Painkiller's, appropriate for an album that trades sprawling technicality for a leaner, meaner attack.
 
+## The Missing Chapter
+
+Jugulator rarely comes up in conversations about Judas Priest's essential albums, but for anyone asking what actually happened to the band during their decade without Rob Halford, it's the answer. Tim "Ripper" Owens's arrival, the downtuned pivot toward thrash and groove metal, and Scott Travis's willingness to fundamentally rework his approach all live on this record.
+
+For Travis specifically, Jugulator shows that a drummer can completely rework his playing without changing his gear. He stayed on the same Tama Artstar II/Paiste Signature-2002 rig he's used across his entire Priest career to that point, evidence that the stylistic reinvention was about technique and feel, not equipment.
+
+The story continues on Demolition (2001), Owens's second and final album with the band, where the industrial and nu-metal influences of the era pushed even further, and where Travis would earn his only songwriting credit in Judas Priest's history.
+
 ## Key Facts
 
 - Tim "Ripper" Owens's studio debut, discovered by Glenn Tipton fronting a Priest tribute band
@@ -85,4 +93,4 @@ A: Painkiller (1990) showcased sustained, blast-furnace double-bass speed as the
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-08-24 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

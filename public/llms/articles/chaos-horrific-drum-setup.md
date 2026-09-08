@@ -1,6 +1,6 @@
 # Paul Mazurkiewicz's Drum Setup on Cannibal Corpse's 'Chaos Horrific' (2023)
 
-> Complete drum gear breakdown for Cannibal Corpse's Chaos Horrific (2023), the band's most recent studio album — Paul Mazurkiewicz's Pearl Reference/Meinl rig, Erik Rutan's sixth production credit, and a UK Rock & Metal Albums #1 debut.
+> Complete drum gear breakdown for Cannibal Corpse's Chaos Horrific (2023), the band's most recent studio album — Paul Mazurkiewicz's Pearl Reference/Sabian rig, Erik Rutan's sixth production credit, and a UK Rock & Metal Albums #1 debut.
 
 **Type:** Album Drum Setup
 **Drummer(s):** [Paul Mazurkiewicz](/llms/drummers/paul-mazurkiewicz.md)
@@ -15,13 +15,13 @@ Rutan again produced, engineered, and mixed the record at his own Mana Recording
 
 Commercially, the album reached #142 on the US Billboard 200 and #9 on the US Top Hard Rock Albums chart, while topping the UK Rock & Metal Albums chart at #1. It also charted at #6 in Germany and #10 in Switzerland. The ten-track album includes "Overlords of Violence," "Frenzied Feeding," "Summoned for Sacrifice," "Blood Blind," "Vengeful Invasion," the title track "Chaos Horrific," "Fracture and Refracture," "Pitchfork Impalement," "Pestilential Rictus," and "Drain You Empty."
 
-This article breaks down the Pearl Reference and Meinl configuration Mazurkiewicz brought into the Mana Recording Studios sessions for the band's newest album, closing out the gear arc from Red Before Black (2017) through the present day.
+This article breaks down the Pearl Reference and Sabian configuration Mazurkiewicz brought into the Mana Recording Studios sessions for the band's newest album, closing out the gear arc from Red Before Black (2017) through the present day.
 
 ## Gear Breakdown
 
 - **Drums:** Pearl Pearl Reference (mature endorsement configuration, 2023) (Custom finish (Pearl endorsement era) finish)
 - **Snare:** Pearl Pearl Free-Floating steel-shell snare, 14" x 6.5"
-- **Cymbals:** Meinl — Meinl Byzance (established endorsement, 2023)
+- **Cymbals:** Sabian — Sabian AAX (established endorsement, 2023)
 - **Hardware / Pedals:** Pearl Eliminator Double Bass Pedal; ddrum Acoustic Pro Triggers (live context); Vic Firth Paul Mazurkiewicz Signature
 - **Heads:** Remo Coated Ambassador (batter), Remo Diplomat Snare Side (resonant)
 - **Snare tuning:** Medium-high tension for cut and punch against the album's dense, Rutan-produced guitar mix
@@ -38,11 +38,23 @@ The 14" x 6.5" Pearl Free-Floating steel-shell snare that has anchored Mazurkiew
 
 The free-floating design's isolation from lug and rim stress remains just as relevant as ever, given the sustained, high-velocity playing demanded across all ten tracks — reviewers at Blabbermouth.net and Metal Storm both singled out the rhythm section's tightness as a highlight of the record.
 
-### Meinl Byzance: Seven Albums and Counting
+### Sabian AAX: Seven Albums and Counting
 
-The Meinl Byzance setup Mazurkiewicz has used across seven consecutive albums returned unchanged on Chaos Horrific. Meinl's hand-hammered bronze construction continues to deliver the fast attack and controlled decay needed to stay articulate against Erik Rutan's dense guitar mix, a constant across nearly two decades of Rutan-produced Cannibal Corpse records.
+The Sabian AAX setup Mazurkiewicz has used across seven consecutive albums returned unchanged on Chaos Horrific. Sabian's hand-hammered bronze construction continues to deliver the fast attack and controlled decay needed to stay articulate against Erik Rutan's dense guitar mix, a constant across nearly two decades of Rutan-produced Cannibal Corpse records.
 
 The 18" China remained the defining accent for riff transitions on tracks like "Vengeful Invasion" and "Pitchfork Impalement," a role it has occupied in Mazurkiewicz's vocabulary since the band's earliest records. With the album debuting at #1 on the UK Rock & Metal Albums chart, the cymbal setup that has carried the band since the mid-2000s proved it remains a defining element of Cannibal Corpse's sound in 2023.
+
+## The Arc Closes at the Present Day
+
+"Chaos Horrific" closes out Paul Mazurkiewicz's Cannibal Corpse gear arc at the present day — the band's most recent studio album, built on the same Pearl Reference and Sabian rig he has used since Kill (2006), and produced by Erik Rutan for a sixth time, now as a full bandmate rather than an outside collaborator. With critics praising the record as one that "breathes life into the corpse once more" and a #1 debut on the UK Rock & Metal Albums chart, Chaos Horrific proves that nearly two decades into an unchanged gear setup, Mazurkiewicz's playing remains as vital to the band's identity as ever.
+
+From Eaten Back to Life (1990) through Chaos Horrific (2023) — 33 years, sixteen studio albums, and one drummer who never left — Paul Mazurkiewicz's Cannibal Corpse story is a testament to the idea that consistency, not reinvention, is what makes a death metal rhythm section legendary.
+
+For the complete Paul Mazurkiewicz CC gear arc around this record:
+- **The predecessor**: [Violence Unimagined drum setup (2021)](/articles/violence-unimagined-drum-setup) — Rutan's first album as a full band member
+- **The wider arc**: [Red Before Black drum setup (2017)](/articles/red-before-black-drum-setup) — Rutan's last album as a purely outside producer
+- **The complete history**: [Paul Mazurkiewicz drum setup](/articles/paul-mazurkiewicz-drum-setup) — the full career gear breakdown
+- **Full profile**: [Paul Mazurkiewicz at MetalForge](/drummer/paul-mazurkiewicz)
 
 ## Key Facts
 
@@ -69,7 +81,7 @@ A: As of this writing, Cannibal Corpse's most recent studio album is Chaos Horri
 
 **Q: What kit did Paul Mazurkiewicz use on Chaos Horrific?**
 
-A: On Chaos Horrific (2023), Paul Mazurkiewicz played the same Pearl Reference kit he has used since Kill (2006) — dual 22-inch x 18-inch kick drums, a four-tom layout in maple/African mahogany hybrid shells, and his 14-inch x 6.5-inch Pearl Free-Floating steel-shell snare. His Meinl Byzance cymbal setup and Pearl Eliminator double bass pedal carried over unchanged from Violence Unimagined (2021).
+A: On Chaos Horrific (2023), Paul Mazurkiewicz played the same Pearl Reference kit he has used since Kill (2006) — dual 22-inch x 18-inch kick drums, a four-tom layout in maple/African mahogany hybrid shells, and his 14-inch x 6.5-inch Pearl Free-Floating steel-shell snare. His Sabian AAX cymbal setup and Pearl Eliminator double bass pedal carried over unchanged from Violence Unimagined (2021).
 
 **Q: Who produced Chaos Horrific and how does it compare to Rutan's other Cannibal Corpse albums?**
 
@@ -91,4 +103,4 @@ A: Chaos Horrific is a ten-track album: "Overlords of Violence," "Frenzied Feedi
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

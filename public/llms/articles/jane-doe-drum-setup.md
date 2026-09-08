@@ -58,6 +58,19 @@ The 21" HHX Raw Bell Dry Ride is the most distinctive cymbal in the setup. With 
 
 The 18" AAX Chinese is Koller's exclamation point — trashy, aggressive, fast-decaying — used to punctuate Jane Doe's most violent breakdowns.
 
+## The Album That Set the Template
+
+Jane Doe stands as one of the defining heavy records of its era — a mathcore masterpiece that fused hardcore, metal, and noise into something genuinely new. Ben Koller's drum setup on the album wasn't about expensive boutique gear or elaborate configurations. It was about a small, hard-touring Tama kit, a single bass drum, a bright cutting snare, and Sabian cymbals — all played with a vocabulary of blast beats, breakdowns, and chaos that drummers have studied ever since.
+
+For drummers building a Jane Doe-inspired rig, the lessons are about commitment, not catalog price:
+- **Tama Starclassic / Bubinga shells**: Focused attack with a deep fundamental
+- **Single 22" bass drum**: Trust your foot — Koller does
+- **Brass-shell 14"x6.5" snare**: Bright, cutting, tuned medium-high
+- **Sabian HHX / AAX**: Complementary dark and bright voices
+- **Tama Iron Cobra single pedal**: Smooth, consistent feel for single-foot work
+
+Twenty-five years after Jane Doe, the album still sounds violent, articulate, and alive. The drums sit at the center of that — captured by Kurt Ballou with the immediacy his GodCity Studio is now famous for, played by a 23-year-old Ben Koller who would go on to spend the next two decades as one of heavy music's most important drummers.
+
 ## Key Facts
 
 - Released September 4, 2001 on Equal Vision Records
@@ -93,4 +106,4 @@ A: Jane Doe was recorded at GodCity Studio in Salem, Massachusetts, with Converg
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

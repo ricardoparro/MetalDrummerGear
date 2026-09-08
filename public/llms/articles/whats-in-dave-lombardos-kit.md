@@ -62,6 +62,24 @@ The crowning piece is the 24" "Reign Power Ride" — Dave's signature cymbal dev
 
 The dual China setup (18" and 20") gives Dave options for different intensities. Chinas have been part of thrash metal's DNA since the beginning, and Dave uses them to punctuate riffs and signal transitions.
 
+## The Standard, Still Setting It
+
+Four decades after co-founding Slayer, Dave Lombardo remains the standard for thrash metal drumming. Not because he was the first to play fast double bass (he essentially was), but because he combined that speed with feel, musicality, and constant evolution.
+
+The gear Dave uses today reflects his journey. The Starclassic Walnut/Birch is warmer and more versatile than the Artstar II of his Slayer youth — appropriate for a drummer who now spans Pantera grooves, Mr. Bungle chaos, and Dead Cross punk. The Paiste cymbals have evolved but maintain the aggressive, cutting sound he pioneered. The Iron Cobra pedals are refined versions of the prototypes he helped develop decades ago.
+
+What hasn't changed is the approach. Dave Lombardo plays with intention, groove, and a Cuban-rooted swing that no amount of technique alone can replicate. He's proven that extreme metal drumming isn't just about speed — it's about making speed feel good.
+
+For drummers studying Dave's work, the lessons extend beyond rudiments:
+- **Groove first**: Speed without feel is just noise
+- **Heritage matters**: Your musical background shapes your sound — embrace it
+- **Evolution continues**: The best drummers never stop growing
+- **Honor the music**: Whether playing Slayer or Pantera, serve the song
+
+At nearly 61, Dave Lombardo isn't resting on his legacy. He's touring with Pantera, recording with various projects, and continuing to influence new generations of drummers. The godfather of thrash metal drumming earned that title decades ago — but he's still earning it every night on stage.
+
+Long live the double bass. Long live Dave Lombardo. 🤘
+
 ## Key Facts
 
 - Co-founder and original drummer of Slayer (1981-1992, 2001-2013)
@@ -96,4 +114,4 @@ A: Dave Lombardo's Tama Starclassic Walnut and Birch double bass setup currently
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

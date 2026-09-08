@@ -15,6 +15,19 @@ This tutorial covers the four essential blast beat variations: the standard sing
 
 Before you begin: set a metronome at 80 BPM and work slowly. Every blast beat legend — Kollias included — emphasizes that controlled, relaxed technique at slow tempos is the foundation for extreme speed. Tension is the enemy of speed.
 
+## Your Blast Beat Journey Starts at 80 BPM
+
+The blast beat is the threshold technique of extreme metal. On the other side of that threshold is the vocabulary of death metal, black metal, and grindcore — all accessible once you command the foundational pattern and its variations.
+
+Start slow. Build consistency before speed. Learn the four variations: single-stroke, double-stroke hyper blast, bomb blast, and gravity blast. Study the masters: George Kollias for sustained speed and nuance, Pete Sandoval for raw power, Dave Lombardo for musical placement and thrash precision.
+
+Explore the complete profiles and gear setups of these blast beat legends:
+- George Kollias (/drummer/george-kollias) — Pearl drums, Zildjian cymbals, Pearl Demon XR double pedal
+- Pete Sandoval (/drummer/pete-sandoval) — ddrum kit and pedals
+- Dave Lombardo (/drummer/dave-lombardo) — Tama, Paiste cymbals
+
+Also explore the Blast Beat technique page (/technique/blast-beat) for a deep dive into the technique's history and most notable practitioners.
+
 ## Key Facts
 
 - George Kollias (Nile) sustains blast beats at 280+ BPM — start at 80 BPM and build gradually
@@ -41,4 +54,4 @@ A: A blast beat is a specific pattern combining snare, hi-hat, and kick drum in 
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

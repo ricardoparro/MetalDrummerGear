@@ -26,7 +26,7 @@ The album's songwriting — developed over an extended period following the Wors
 
 ### The Fully Realized Starclassic Configuration
 
-For All Kings finds Charlie Benante on the same Tama Starclassic Maple configuration that had served Worship Music, but with five additional years of intensive touring and recording familiarity behind the instrument. The kit itself represents the mature, settled endpoint of Benante's decades-long search for the perfect professional setup — a dual-kick, five-tom configuration built around Tama's Starclassic Maple shells and Star-Cast mounting that had evolved from the thrash-era Artstar II kits of the 1980s through the DW experiments of the 1990s and back to Tama for the modern era.
+For All Kings finds Charlie Benante on the same Tama Starclassic Maple configuration that had served Worship Music, but with five additional years of intensive touring and recording familiarity behind the instrument. The kit itself represents the mature, settled endpoint of Benante's decades-long search for the perfect professional setup — a dual-kick, five-tom configuration built around Tama's Starclassic Maple shells and Star-Cast mounting that had evolved from the thrash-era Artstar II and Artstar Custom kits of the 1980s and 1990s through the Starclassic Maple upgrade of the 2000s.
 
 The dual 22" x 18" bass drums remain the foundation of everything Benante does rhythmically. The 18" shell depth delivers the low-end body that two-kick setups require — a fundamental difference from the 22" x 16" dimensions of the Among the Living era that reflects Benante's evolved understanding of what his double bass approach needs sonically. Jay Ruston's production for For All Kings gave these drums more low-end weight than they had received on Worship Music, aligning with the album's slightly darker, more muscular sonic character.
 
@@ -53,6 +53,14 @@ The 14" 2002 Sound Edge hi-hats provided the familiar, defining thrash vocabular
 The crash configuration — 16" Signature Fast Crash, 18" 2002 Medium Crash, and 19" RUDE Crash/Ride — gave Benante three distinct accent voices with different response times and tonal characters. The fast crash for quick transitions, the medium crash for primary accent work, the RUDE for the heaviest, most sustained accent moments — this configuration allowed For All Kings' varied emotional range to be supported with matching cymbal choices rather than a single-voice approach.
 
 The 22" 2002 Heavy Ride sustained its clear bell character under Benante's powerful attack throughout the album's instrumental passages, while the 18" China delivered the explosive, trashy accents that had been part of the Anthrax sonic vocabulary since the thrash era's beginning. The 10" Splash added fast punctuation across the album's more intense passages — a small cymbal that made a significant contribution to the rhythmic texture of the recording.
+
+## The Modern Arc Closed: Charlie Benante at His Peak
+
+For All Kings is the record that completed Charlie Benante's modern discography and confirmed that his creative and technical peak was not behind him but ongoing. The Grammy nomination for "Evil Twin," the #9 US and #7 UK chart debuts, and the critical consensus that the album ranked among Anthrax's finest work all pointed to the same conclusion: 33 years into his professional career, Charlie Benante was playing and composing at the highest level of his life.
+
+The drum sound on For All Kings — captured by Jay Ruston at Sphere Studios with five years of refined experience working with Benante's setup — is the definitive modern documentation of his playing: the Tama Starclassic Maple's warm, balanced tone; the signature snare's authoritative crack; the Speed Cobra double bass in its most settled and mature expression; and the Paiste 2002/Signature/RUDE cymbal configuration that served every moment of the album's widest compositional range.
+
+For the album that preceded For All Kings and initiated the modern Grammy-era arc, see the [Worship Music drum setup article](/articles/worship-music-drum-setup). For the John Bush transition era, visit the [Sound of White Noise drum setup](/articles/sound-of-white-noise-drum-setup). For the classic thrash foundation, see [Among the Living drum setup](/articles/charlie-benante-among-the-living-drum-setup). For Charlie's complete career and current gear, see the [Charlie Benante drummer profile](/drummer/charlie-benante) and the [Anthrax band page](/bands/anthrax).
 
 ## Key Facts
 
@@ -96,4 +104,4 @@ A: Charlie Benante switched to Tama Speed Cobra pedals in 2010, replacing the le
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

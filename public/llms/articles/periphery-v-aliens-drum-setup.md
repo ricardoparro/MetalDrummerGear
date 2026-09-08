@@ -19,10 +19,10 @@ The album contains standout tracks including "Zagreus," "Wildfire," "Dying Star,
 
 ## Gear Breakdown
 
-- **Drums:** Mapex Mapex Saturn V MH Exotic (Custom finishes (varies per promotional cycle) finish)
-- **Snare:** Mapex Mapex Black Panther Design Lab, 14" x 6" (primary configuration)
+- **Drums:** Pearl Pearl Reference Series (Custom finishes (varies per promotional cycle) finish)
+- **Snare:** Pearl Pearl Reference 14"x6.5" Brass, 14" x 6" (primary configuration)
 - **Cymbals:** Meinl — Byzance (Dual, Extra Dry, Traditional, Pure Alloy)
-- **Hardware / Pedals:** DW 9000 Double Pedal; Mapex Falcon Series Hi-Hat Stand; Mapex Saddle Throne; Vic Firth Matt Halpern Signature
+- **Hardware / Pedals:** Pearl Demon Drive Double Pedal; Mapex Falcon Series Hi-Hat Stand; Mapex Saddle Throne; Vic Firth Matt Halpern Signature
 - **Heads:** Evans UV1 (batter), Evans Hazy 300 (resonant)
 - **Snare tuning:** Medium-high — authority and ghost-note clarity across Aliens' wide dynamic range
 
@@ -59,6 +59,14 @@ The 14" Byzance Dual hi-hats provide the articulation platform for Aliens' intri
 The 22" Byzance Extra Dry Medium Ride provides the primary time-keeping voice for extended riding passages, with a defined ping and controlled wash suited to sustained playing intensities. The Extra Dry surface gives the ride a slightly raw, responsive quality that complements the darker character of the crash array.
 
 The Byzance series' handcrafted B20 bronze construction — made in Turkey using traditional methods — provides the dark, layered harmonic depth that Periphery's arrangements require. Thirteen years after the debut's Sabian HHX cymbals, Halpern's cymbal voice has evolved into the Byzance system — different in character, same in philosophy: serve the music, complement the guitars, and let the rhythmic detail speak.
+
+## The Arc Closes: From Djent Debut to 2023
+
+Periphery V: Aliens closes the arc that began with the 2010 self-titled debut in Misha Mansoor's home studio. From the DW Collector's Series and Sabian HHX of "Icarus Lives!" to the Mapex Saturn V MH Exotic and Meinl Byzance of "Zagreus" and "Wildfire" — thirteen years of Periphery recordings document not just Matt Halpern's gear evolution, but the maturation of djent drumming itself.
+
+The through-line across all seven Periphery studio albums is Halpern's consistent philosophy: groove first, articulation always, technical complexity in service of the music rather than as an end in itself. The gear changed — DW to Mapex, Sabian to Meinl, single pedals to DW 9000 double — but the drummer's approach remained constant. Aliens is the clearest evidence: the 2023 album shows a drummer who has refined his craft across a decade of world-class recordings into something that sounds effortless, which is the hardest thing of all to achieve.
+
+For the complete Periphery gear evolution, see [Periphery Drum Setup (2010)](/articles/periphery-drum-setup) for where the journey began, [Periphery III: Select Difficulty Drum Setup](/articles/periphery-iii-drum-setup) for the Grammy-era Mapex Saturn configuration, and [Periphery IV: Hail Stan Drum Setup](/articles/periphery-iv-drum-setup) for the record that immediately preceded Aliens. For the full current kit breakdown and technique analysis, see Matt Halpern's [drummer profile](/drummer/matt-halpern).
 
 ## Key Facts
 
@@ -97,4 +105,4 @@ A: Periphery V: Aliens was released on 3DOT Recordings, Periphery's own independ
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

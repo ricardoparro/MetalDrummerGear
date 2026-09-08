@@ -41,6 +41,21 @@ Harrison's Zildjian K Custom Special Dry cymbals — co-developed with Zildjian 
 
 The 21" Special Dry Ride remains the centrepiece of his ride work, while the 14" Special Dry Hi-Hats handle the conversational, dynamically nuanced patterns that distinguish "Harridan" and "Of the New Day" from more straightforward rock drumming. The fact that this cymbal setup required no updating after a thirteen-year gap is itself a testament to how specifically it was designed around Harrison's playing rather than around any particular era's production trends.
 
+## The Reunion That Needed No Reinvention
+
+*Closure/Continuation* (2022) answers the most obvious question about Porcupine Tree's thirteen-year reunion before a single review gets written: did the time away change anything? For Gavin Harrison's drumming, the answer is a deliberate no. He returned to the same Sonor SQ2 kit, the same Zildjian K Custom Special Dry cymbals, and the same Gavin Harrison Signature snare that had carried *In Absentia*, *Fear of a Blank Planet*, and *The Incident* — proof that the setup was never tied to a particular era, only to the specific musical demands Steven Wilson's writing makes of a drummer.
+
+The album's highest-ever UK chart position and its trio of producers working from separate home studios make *Closure/Continuation* a genuinely unusual reunion record, but the drumming itself is a direct continuation of everything Harrison built across the 2000s. "Chimera's Wreck" alone — with its extended polyrhythmic close — could sit comfortably alongside "Anesthetize" or the title suite of *The Incident*.
+
+For drummers approaching this gear:
+
+- **Full drummer profile**: [Gavin Harrison at MetalForge](/drummer/gavin-harrison)
+- **The Incident gear**: [The Incident Drum Setup](/articles/the-incident-drum-setup)
+- **Fear of a Blank Planet gear**: [Fear of a Blank Planet Drum Setup](/articles/fear-of-a-blank-planet-drum-setup)
+- **LLM summary**: [Closure/Continuation Drum Setup — LLM](/llms/articles/closure-continuation-drum-setup.md)
+
+Thirteen years is a long time for a band to stay silent. Gavin Harrison's gear didn't need a single year of it to find its way back.
+
 ## Key Facts
 
 - Porcupine Tree's first album in 13 years — released June 24, 2022, after the band's 2010–2022 hiatus
@@ -78,4 +93,4 @@ A: Yes. Gavin Harrison has been Porcupine Tree's sole drummer since joining in 2
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

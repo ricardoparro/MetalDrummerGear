@@ -52,6 +52,19 @@ The 14" hi-hats continued to anchor the rhythmic pulse across the record's blast
 
 Jim Morris mixed the cymbals with the same bleed-conscious, individually close-miked philosophy Burns had used throughout the Morrisound era, keeping cymbal definition intact even through the album's denser, more layered arrangements.
 
+## The Morrisound Era's Quiet Close
+
+"Gallery of Suicide" doesn't get discussed with the same reverence as "Tomb of the Mutilated" or the same Fisher-era-defining status as "Bloodthirst," but it occupies an important hinge point in both Cannibal Corpse's history and Paul Mazurkiewicz's gear evolution. It closed the Morrisound chapter that had shaped the band's sound since 1990, introduced a guitarist who would remain in the lineup for decades, and captured Mazurkiewicz's transitional Pearl setup at a moment squarely between his pre-endorsement gear and the Reference-era rig still a few years away.
+
+Jim Morris's production kept the Tampa drum sound intact even as Scott Burns moved on, and the album's experiments — the black-metal-tinged blast patterns, the unprecedented instrumental closer in 'From Skin to Liquid' — show a band and a drummer willing to push at the edges of their own formula rather than simply repeat it. Mazurkiewicz's locomotive double-bass and conventional grip remained the constants throughout.
+
+For the complete Paul Mazurkiewicz CC gear arc around this record:
+- **The predecessor**: [The Bleeding drum setup (1994)](/articles/the-bleeding-drum-setup) — Scott Burns's final Morrisound session
+- **The successor**: [Bloodthirst drum setup (1999)](/articles/bloodthirst-drum-setup) — the move to Colin Richardson and the UK
+- **The genre landmark**: [Tomb of the Mutilated drum setup (1992)](/articles/tomb-of-the-mutilated-drum-setup) — the Morrisound peak
+- **Modern rig**: [Paul Mazurkiewicz drum setup](/articles/paul-mazurkiewicz-drum-setup) — Pearl Reference / Meinl / Pearl Eliminator
+- **Full profile**: [Paul Mazurkiewicz at MetalForge](/drummer/paul-mazurkiewicz)
+
 ## Key Facts
 
 - Cannibal Corpse's sixth album (April 21, 1998) — Metal Blade Records — the last CC album recorded at Morrisound Recording, Tampa
@@ -94,4 +107,4 @@ A: 'From Skin to Liquid' is Cannibal Corpse's first instrumental track and, at t
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

@@ -58,6 +58,14 @@ The A Custom 14" hi-hats anchor The Rev's rhythmic foundation throughout the alb
 
 The graduated crash palette (16", 18", 19") gave The Rev the dynamic range to match the self-titled's varied arrangements. The 16" for tight accent moments within sections; the 18" for primary structural transitions; the 19" for the album's climactic musical peaks. "A Little Piece of Heaven" — with its theatrical orchestration and The Rev's lead vocal performance — required cymbal deployment that complemented the arrangement's drama without overwhelming it. The A Custom's controlled wash served that function better than brighter, more aggressive alternatives.
 
+## The Rev's Final Studio Chapter
+
+The self-titled *Avenged Sevenfold* (2007) is The Rev's final complete studio recording — and it stands as his most technically ambitious and musically diverse performance. The Pearl Masters MCX shell kit, the Pearl Free-Floating snare, the Zildjian A Custom cymbals, and the jazz-influenced vocabulary he deployed across tracks ranging from "Afterlife" to "A Little Piece of Heaven" represent the full range of his artistry captured in a single studio record.
+
+For anyone building an accurate picture of The Rev (James Owen Sullivan, February 9, 1981 – December 28, 2009), the self-titled answers the question of where his drumming went after *City of Evil*: further into technical territory, more diverse in arrangement and emotional range, and richer in the vocal and songwriting contributions that made him irreplaceable in A7X's creative identity. His death on December 28, 2009 — two years after this album's release — ended A7X's foundational creative era.
+
+For the full A7X drummer arc — from The Rev's era through Mike Portnoy's tribute on *Nightmare* to Arin Ilejay's *Hail to the King* — see the [Nightmare drum setup article](/articles/nightmare-drum-setup) and the [Hail to the King drum setup article](/articles/hail-to-the-king-drum-setup). For The Rev's earlier mainstream breakthrough, see the [City of Evil drum setup article](/articles/city-of-evil-drum-setup).
+
 ## Key Facts
 
 - The Rev's last complete studio album — debuted #4 on Billboard 200; over 2M copies sold worldwide
@@ -105,4 +113,4 @@ A: The Rev (Jimmy Sullivan) recorded four studio albums as Avenged Sevenfold's d
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

@@ -19,10 +19,10 @@ Hail Stan also marked a commercial and critical milestone. The #1 chart position
 
 ## Gear Breakdown
 
-- **Drums:** Mapex Mapex Saturn V MH Exotic (Custom finishes (various per promotional cycle) finish)
-- **Snare:** Mapex Mapex Black Panther Design Lab, 14" x 6" (primary) with rotation
+- **Drums:** Pearl Pearl Reference Series (Custom finishes (various per promotional cycle) finish)
+- **Snare:** Pearl Pearl Reference 14"x6.5" Brass, 14" x 6" (primary) with rotation
 - **Cymbals:** Meinl — Byzance (Dual, Extra Dry, Traditional, Pure Alloy)
-- **Hardware / Pedals:** DW 9000 Double Pedal; Mapex Falcon Series Hi-Hat Stand; Mapex Saddle Throne; Vic Firth Matt Halpern Signature
+- **Hardware / Pedals:** Pearl Demon Drive Double Pedal; Mapex Falcon Series Hi-Hat Stand; Mapex Saddle Throne; Vic Firth Matt Halpern Signature
 - **Heads:** Evans UV1 (batter), Evans Hazy 300 (resonant)
 - **Snare tuning:** Medium-high for authority and ghost-note clarity across Hail Stan's wide dynamic range
 
@@ -59,6 +59,16 @@ The Byzance series' handcrafted B20 bronze construction — made in Turkey using
 The trash stacks, positioned at strategic points around the kit, provide the quick effect sounds that modern progressive metal production uses for micro-rhythmic punctuation. On tracks like "Blood Eagle" and "CHVRCH BVRNER," these fast-decaying effect sounds appear as rhythmic accents rather than sustained cymbal events — a production technique that keeps the high-frequency range clean for Mansoor's guitar tones while still giving Halpern a tool for emphasis beyond crashes and china.
 
 The Byzance setup on Hail Stan represents the mature expression of a cymbal relationship that had begun with the early Meinl explorations of Periphery II and fully blossomed through Select Difficulty and Juggernaut. By 2019, Halpern and Meinl had refined his configuration to the point where every cymbal served a specific purpose within the Periphery musical framework, and no piece of the setup was redundant.
+
+## The Album That Completed the Arc
+
+Periphery IV: Hail Stan completes the gear evolution arc that began with the DW Collector's Series and Sabian HHX of the 2010 self-titled debut. From the single-bass, DW-anchored, home-studio djent of "Icarus Lives!" to the Mapex Saturn V MH Exotic and Meinl Byzance-equipped performances on "Reptile" — this nine-year gear journey documents not just what Matt Halpern plays, but how his tools evolved to match his musical ambitions.
+
+The transition from DW Collector's Series (self-titled, Periphery II) to Mapex Saturn (Periphery III) to Mapex Saturn V MH Exotic (Hail Stan) represents a refinement rather than a reinvention. At each stage, Halpern sought the same qualities: articulation, dynamic range, consistent response, and a sonic character that complemented rather than competed with Periphery's guitar-forward arrangements. The Saturn V MH Exotic delivered all of it at the highest level, and the Meinl Byzance setup gave him the complex, dark cymbal vocabulary to match.
+
+"Reptile" is the monument this gear journey built toward. Sixteen minutes of progressive metal that require every capability Halpern had developed across a decade of Periphery recordings — the ghost note vocabulary from the self-titled, the double-kick aggression expanded through Periphery II, the Grammy-caliber precision of Select Difficulty, and the conceptual ambition that only a mature band and drummer can execute. The Mapex Saturn V and Meinl Byzance were there for every measure of it.
+
+For the complete gear evolution leading to this album, see [Periphery III: Select Difficulty Drum Setup](/articles/periphery-iii-drum-setup) for the Mapex Saturn era, [Periphery Drum Setup](/articles/periphery-drum-setup) for where the journey began, and [Matt Halpern's complete kit breakdown](/drummer/matt-halpern) for his full signature setup and technique analysis.
 
 ## Key Facts
 
@@ -101,4 +111,4 @@ A: Hail Stan debuted at number one on the US Top Progressive Albums chart and re
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

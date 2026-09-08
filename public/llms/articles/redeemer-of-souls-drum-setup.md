@@ -50,6 +50,16 @@ By 2014, Scott Travis's Sabian setup had evolved from the HH/AA hybrid documente
 
 The brighter Sabian HHX Power Ride reflects that late-era transition: dry, defined, with a pronounced bell that cuts through the mix during ride passages. The 18" AA China provides the trashy accent voice in the aggressive moments.
 
+## The Grammy Nomination That Confirmed the Faulkner Era
+
+When K.K. Downing departed in 2011, the unspoken question in the metal world was whether Judas Priest could survive the loss of a founding member who had defined the band's guitar voice for forty years. *Redeemer of Souls* answered that question definitively. A Grammy nomination for "Halls of Valhalla," a #3 UK chart position, and a #6 US showing — these were not the numbers of a band coasting on nostalgia. They were the numbers of a band that had found new energy.
+
+For Scott Travis, *Redeemer of Souls* was the album where his role in Judas Priest was most clearly defined. He was not a founding member. He was not a guitar hero. He was the engine room — the constant, reliable, authoritative rhythmic foundation that made every lineup configuration work. Through the Tim Owens years, through the Rob Halford reunion, through the orchestral concept album detour of *Nostradamus*, through K.K. Downing's departure and Richie Faulkner's arrival: the engine room didn't change.
+
+Andy Sneap's dry, present production on *Redeemer of Souls* gave Travis the clearest drum sound of his Priest career to that point — a preview of what they'd build together on *Firepower* (2018). The Pearl Reference Brass snare sits at the center of "Halls of Valhalla" the way a snare has sat at the center of every Priest track Travis has anchored since joining the band in 1989. Precise, powerful, and exactly where it needs to be.
+
+For drummers studying the Grammy nomination, the lesson isn't about flash or complexity. "Halls of Valhalla" earned Best Metal Performance consideration because the rhythm section made the song feel inevitable — every backbeat landing at exactly the right moment, every double-kick flourish deployed for impact rather than display. That is Scott Travis's career in miniature: not the most flamboyant drummer in metal, but perhaps the most dependable. The Redeemer of Souls Grammy nomination says so.
+
 ## Key Facts
 
 - Grammy nomination — 'Halls of Valhalla' up for Best Metal Performance, 57th Grammy Awards (2015)
@@ -87,4 +97,4 @@ A: Redeemer of Souls (2014) and Firepower (2018) are both Andy Sneap-produced Ju
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-08-24 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

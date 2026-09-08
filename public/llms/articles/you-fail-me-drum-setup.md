@@ -48,6 +48,18 @@ The 14" HHX Groove Hats remained the rhythmic anchor, their dark, dry voice keep
 
 The 21" HHX Raw Bell Dry Ride does more work on You Fail Me than on Jane Doe — songs like "Hope Street" and "Drop Out" lean on sustained ride patterns that Jane Doe's faster, more chaotic arrangements rarely allowed. The 18" AAX Chinese remains Koller's punctuation mark for the record's most violent moments, including the extended breakdown that closes "Hanging Moon."
 
+## The Essential Follow-Up
+
+You Fail Me remains one of the most underrated records in Converge's catalog — a difficult, rawer-edged follow-up to a masterpiece, made without the safety net of repeating what worked. Ben Koller's drum setup on the album barely changed from Jane Doe, and that consistency is the point: the Tama Starclassic bubinga kit, the brass snare, and the Sabian HHX/AAX cymbals gave Koller a reliable foundation while everything else about the record pushed into rawer, more wounded territory.
+
+For the complete Converge drumming arc:
+- [Ben Koller — Full Drummer Profile](/drummer/ben-koller)
+- [Jane Doe Drum Setup (2001)](/articles/jane-doe-drum-setup) — the mathcore landmark that came before
+- [No Heroes Drum Setup (2006)](/articles/no-heroes-drum-setup) — the next chapter, fully self-produced at GodCity
+- [Axe to Fall Drum Setup (2009)](/articles/axe-to-fall-drum-setup) — the all-star expansion that followed
+
+Twenty years on, "Last Light" and "In Her Shadow" remain Converge live staples, and Koller's playing on them — built on the same single-kick, Tama-and-Sabian foundation he established on Jane Doe — is proof that the hardest part of following a masterpiece isn't changing your gear. It's trusting it.
+
 ## Key Facts
 
 - Released September 20, 2004 — Converge's fifth studio album
@@ -85,4 +97,4 @@ A: Gear-wise, almost nothing changed — Ben Koller used the same Tama Starclass
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

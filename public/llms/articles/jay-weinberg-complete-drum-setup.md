@@ -11,7 +11,7 @@
 
 Jay Weinberg (born September 8, 1990, in Middletown Township, New Jersey) served as Slipknot's drummer from 2014 to 2023, donning the iconic mask #1 and manning the drum throne behind one of the heaviest live productions in metal. As the son of Max Weinberg — legendary drummer for Bruce Springsteen's E Street Band — Jay brought an unusual combination of hardcore punk intensity, classical technique discipline, and an encyclopedic knowledge of Joey Jordison's parts to the most demanding drum seat in nu-metal.
 
-Weinberg uses an SJC Custom Drums kit paired with Zildjian cymbals as Slipknot's drummer — a setup he developed and refined across three studio albums and years of relentless world touring with the band. His rig is a hybrid acoustic and electronic system built to deliver Slipknot's dense sample-triggered live show while maintaining the explosive, muscular live drumming feel the band demands.
+Weinberg uses an SJC Custom Drums kit paired with Zildjian cymbals as Slipknot's drummer — a setup he switched to for We Are Not Your Kind (2019) after debuting on a Pearl Reference Pure kit for .5: The Gray Chapter (2014), and then carried through The End, So Far (2022) and years of relentless world touring with the band. His rig is a hybrid acoustic and electronic system built to deliver Slipknot's dense sample-triggered live show while maintaining the explosive, muscular live drumming feel the band demands.
 
 Before Slipknot, Weinberg built his chops in the hardcore and punk scenes — touring with Against Me!, Madball, and filling in for his father on the Springsteen Working on a Dream World Tour in 2009. That background in raw, immediate playing gave him the physical toughness that nine years with Slipknot required.
 
@@ -62,6 +62,29 @@ The crash setup — 17" Dark and 19" Dark — delivers asymmetric crashes: the 1
 
 The K Custom 18" China brings the signature trash texture that nu-metal drumming has incorporated since the genre's earliest records. Used selectively and at critical moments, it adds the sonic aggression that Slipknot's extreme passages require.
 
+## Nine Years Behind the Mask
+
+Jay Weinberg spent nine years proving that one of metal's most impossible jobs — replacing a legend, night after night, behind a mask, on a rotating drum riser — could be done with skill, commitment, and genuine artistry.
+
+His SJC Custom kit, Zildjian K Custom cymbals, DW 9000 pedals, Tama SLP snare, and Roland trigger system represent a professional's answer to Slipknot's uncompromising demands:
+
+- **SJC Custom Drums**: Hand-built American shells with the custom aesthetic Slipknot's visual identity demands
+- **Zildjian K Custom**: Dark, complex cymbals that evolved the Slipknot drum sound beyond the Jordison era's AAX brightness
+- **DW 9000**: Industry-standard double-kick engineering carried forward from the Jordison era
+- **Tama SLP**: A boutique snare cutting through the densest mix in nu-metal
+- **Roland Electronics**: Hybrid trigger system that keeps Slipknot's sample-driven show in lockstep with live performance
+
+From the guarded reveal of his identity in 2014 to the celebrated drumming on We Are Not Your Kind (2019) to the complex, genre-expanding performances on The End, So Far (2022), Weinberg documented an extraordinary trajectory — from careful custodian of someone else's parts to co-author of new ones.
+
+For deeper exploration of Slipknot's drumming lineage:
+- **Full drummer profile**: [Jay Weinberg at MetalForge](/drummer/jay-weinberg)
+- **Joey Jordison setup**: [Joey Jordison drum setup](/articles/joey-jordison-drum-setup) — the founding drummer whose legacy Weinberg inherited
+- **Eloy Casagrande setup**: [What's in Eloy Casagrande's kit](/articles/whats-in-eloy-casagrandes-kit) — Slipknot's current drummer from 2024
+
+The mask concealed his face. The playing spoke for itself.
+
+🥁 *"Slipknot's music is demanding in every sense."* — Jay Weinberg 🤘
+
 ## Key Facts
 
 - Slipknot drummer 2014–2023 — masked drummer #1
@@ -105,4 +128,4 @@ A: Jay Weinberg plays DW 9000 series double bass drum pedals — the same pedal 
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

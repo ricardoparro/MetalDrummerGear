@@ -50,6 +50,19 @@ Dee's cymbal setup for the "Hellraiser" session combined Paiste's Giant Beat lin
 
 The Giant Beat hi-hats' extra body gave the song's driving verses weight without overwhelming the mix, while the 2002 ride and crash provided the brighter cut needed for a track aimed at film-soundtrack placement as much as album cohesion. Paiste's CuSn8 bronze alloy — shared across both series — gave the cymbals a warm-but-cutting character that translated well to the more polished, radio-conscious production "Hellraiser" received compared to the rest of *March ör Die*.
 
+## One Song, Twenty-Three Years
+
+*March ör Die* is not usually remembered as a Mikkey Dee album — and by any reasonable accounting, it isn't one. Nine of its eleven tracks belong to Tommy Aldridge, and its most chaotic footnote belongs to Phil Taylor's final Motörhead performance. But buried in the track list is "Hellraiser," a single recorded session that quietly launched the longest drummer tenure in the band's history.
+
+The Tama Artstar II kit and Paiste cymbals Dee used on that one song were not a temporary loaner setup — they were the exact gear he would bring back into the studio a year later for *Bastards*, and much of it stayed in his rig for years after. In hindsight, "Hellraiser" reads less like a guest appearance and more like the first page of a 23-year story.
+
+**For Drummers Studying This Session:**
+Listen to "Hellraiser" against the Tommy Aldridge tracks elsewhere on *March ör Die*. The difference in feel — tighter, more controlled, more song-focused — previews exactly what Dee would bring to the band full-time. It's a rare chance to hear an incoming drummer's signature sound before he technically has the job.
+
+For the album where Dee's tenure truly begins, see the [Bastards drum setup](/articles/bastards-drum-setup). For his complete gear history, visit the [Mikkey Dee drummer profile](/drummer/mikkey-dee) and the [full kit breakdown](/articles/whats-in-mikkey-dees-kit).
+
+🤘 *Before there were twelve albums, there was one song.* 🤘
+
 ## Key Facts
 
 - *March ör Die* (1992) is Motörhead's tenth studio album, released 27 July 1992 on WTG Records/Epic
@@ -86,4 +99,4 @@ A: Mikkey Dee used a Tama Artstar II kit for the "Hellraiser" session — a 22" 
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

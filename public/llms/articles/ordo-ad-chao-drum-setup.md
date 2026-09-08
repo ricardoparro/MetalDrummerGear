@@ -1,6 +1,6 @@
 # Ordo Ad Chao Drum Setup: Hellhammer's Most Demanding Mayhem Session
 
-> Hellhammer's drum gear on Mayhem's Ordo Ad Chao (2007) — the Pearl Reference kit and Zildjian cymbals behind a Spellemannprisen-winning album recorded without a bassist, where the drums and guitars carried the full structural weight of the songs.
+> Hellhammer's drum gear on Mayhem's Ordo Ad Chao (2007) — the Sonor SQ2 Heavy Beech kit and Paiste cymbals behind a Spellemannprisen-winning album recorded without a bassist, where the drums and guitars carried the full structural weight of the songs.
 
 **Type:** Album Drum Setup
 **Drummer(s):** [Hellhammer](/llms/drummers/hellhammer.md)
@@ -17,32 +17,46 @@ The detail that makes "Ordo Ad Chao" uniquely demanding on Hellhammer is its bas
 
 ## Gear Breakdown
 
-- **Drums:** Pearl Pearl Reference Series (Black finish)
-- **Snare:** Pearl Pearl Reference Snare, 14" x 6.5"
-- **Cymbals:** Zildjian — Zildjian A Custom / Z Custom Series
-- **Hardware / Pedals:** Pearl Demon Drive Double Bass Pedal; Vic Firth American Classic 5B; Remo Emperor Coated; Remo Powerstroke 3
+- **Drums:** Sonor Sonor SQ2 Heavy Beech (Black finish)
+- **Snare:** Sonor Sonor SQ2 Heavy Beech Snare, 14" x 6.5"
+- **Cymbals:** Paiste — Paiste RUDE Series
+- **Hardware / Pedals:** Axis Double Bass Pedal; Vic Firth American Classic 5B; Remo Emperor Coated; Remo Powerstroke 3
 - **Heads:** Remo Coated Ambassador (batter), Remo Ambassador Snare Side (resonant)
 - **Snare tuning:** Medium-bright — cutting attack suited to the album's raw, unpolished mix
 
-### Pearl Reference: Carrying the Album's Structural Weight
+### Sonor SQ2 Heavy Beech: Carrying the Album's Structural Weight
 
-Hellhammer's Pearl Reference kit — the same flagship configuration documented across his 1999–2014 dual Mayhem/Dimmu Borgir era — took on an unusually load-bearing structural role on "Ordo Ad Chao." With no independently recorded bass part providing a separate low-frequency voice, the album's rhythmic and harmonic foundation rests almost entirely on the interaction between Hellhammer's kick drums and Blasphemer's guitar-doubled bass lines. The double 22" x 18" bass drum configuration had to do more work here than on a conventionally arranged black metal record — not simply reinforcing a bass guitar's low end, but effectively constituting it.
+Hellhammer's Sonor SQ2 Heavy Beech kit — the same flagship configuration documented across his 1999–2014 dual Mayhem/Dimmu Borgir era — took on an unusually load-bearing structural role on "Ordo Ad Chao." With no independently recorded bass part providing a separate low-frequency voice, the album's rhythmic and harmonic foundation rests almost entirely on the interaction between Hellhammer's kick drums and Blasphemer's guitar-doubled bass lines. The double 22" x 18" bass drum configuration had to do more work here than on a conventionally arranged black metal record — not simply reinforcing a bass guitar's low end, but effectively constituting it.
 
 The raw, deliberately harsh mix Attila Csihar and Blasphemer built at Mølla Studio placed the kit in a more exposed sonic position than the more polished "Chimera" three years earlier. On tracks like "Deconsecrate" and "Illuminate Eliminate," the kick drum pattern is audible as a distinct rhythmic and textural element in a way that a fuller, bass-guitar-supported mix would not require — a direct consequence of the album's unconventional recording approach.
 
-As with the surrounding albums in this era, no source independently documents a shell or configuration change specific to the Ordo Ad Chao sessions; the specs reflect Hellhammer's best-documented Reference configuration for this period.
+As with the surrounding albums in this era, no source independently documents a shell or configuration change specific to the Ordo Ad Chao sessions; the specs reflect Hellhammer's best-documented SQ2 Heavy Beech configuration for this period.
 
 ### The Snare in a Bass-Less Mix
 
-Hellhammer's Pearl Reference snare on "Ordo Ad Chao" sits inside one of the more unusual mixes in his discography. With Blasphemer's bass largely doubling the guitar rather than occupying independent low-mid space, the snare's crack becomes one of the mix's few clearly defined percussive events distinct from the guitar wall — a role it does not have to play on more conventionally arranged black metal records, where a bass guitar typically shares that rhythmic-anchor duty.
+Hellhammer's Sonor SQ2 Heavy Beech snare on "Ordo Ad Chao" sits inside one of the more unusual mixes in his discography. With Blasphemer's bass largely doubling the guitar rather than occupying independent low-mid space, the snare's crack becomes one of the mix's few clearly defined percussive events distinct from the guitar wall — a role it does not have to play on more conventionally arranged black metal records, where a bass guitar typically shares that rhythmic-anchor duty.
 
 The recording's raw, unpolished character — a deliberate production choice by Attila Csihar and Blasphemer rather than a technical limitation — leaves the snare's natural resonance more audible than the more processed sound of "Chimera." Hellhammer's tuning follows the medium-bright approach documented across this era, favoring cutting attack over sustain, which serves the mix's stripped-down, confrontational character.
 
-### Zildjian A Custom in a Deliberately Harsh Mix
+### Paiste RUDE in a Deliberately Harsh Mix
 
-Hellhammer's Zildjian A Custom cymbal setup on "Ordo Ad Chao" is the same documented architecture he used across the surrounding years of his Mayhem/Dimmu Borgir dual era, but the album's raw, confrontational mix gives the cymbals a different sonic role than on a more polished record. Attila Csihar and Blasphemer's production leaves considerably more of the cymbals' natural decay and overtone content audible, an approach consistent with the album's overall aesthetic of deliberately rejecting the smoother production standards that had become common in extreme metal by 2007.
+Hellhammer's Paiste RUDE cymbal setup on "Ordo Ad Chao" is the same documented architecture he used across the surrounding years of his Mayhem/Dimmu Borgir dual era, but the album's raw, confrontational mix gives the cymbals a different sonic role than on a more polished record. Attila Csihar and Blasphemer's production leaves considerably more of the cymbals' natural decay and overtone content audible, an approach consistent with the album's overall aesthetic of deliberately rejecting the smoother production standards that had become common in extreme metal by 2007.
 
-On tracks like "Psychic Horns" and "Key to the Storms," the A Custom hi-hats and crashes cut through a mix that offers them little harmonic cover from a bass guitar — reinforcing how much structural work Hellhammer's entire kit, cymbals included, does across this record.
+On tracks like "Psychic Horns" and "Key to the Storms," the RUDE hi-hats and crashes cut through a mix that offers them little harmonic cover from a bass guitar — reinforcing how much structural work Hellhammer's entire kit, cymbals included, does across this record.
+
+## Ordo Ad Chao: The Record That Tested Hellhammer's Limits
+
+"Ordo Ad Chao" is a strange, singular entry in Mayhem's catalog — a Spellemannprisen-winning album built on a production choice (no independently recorded bass) that most bands would treat as a problem to fix rather than an aesthetic to embrace. For Hellhammer, it produced a session unlike any other in his discography: drumming that had to function as both rhythm and harmonic foundation simultaneously, with none of the cover a conventional bass guitar provides.
+
+The gear behind that performance was, by the documented record, unremarkable in the best sense — the same Sonor SQ2 Heavy Beech kit, Paiste RUDE cymbals, and Axis Double Pedal pedal system Hellhammer used across his entire dual Mayhem/Dimmu Borgir era. What made the session demanding was not unfamiliar equipment but an unfamiliar mix, one that left every stroke exposed.
+
+For drummers and fans studying Mayhem's catalog, "Ordo Ad Chao" sits between the course-correcting "Chimera" and the leaner, more modern "Esoteric Warfare" — a raw, confrontational middle chapter that remains one of the most discussed records in the band's post-reunion history.
+
+For deeper exploration:
+- **Full drummer profile**: [Hellhammer at MetalForge](/drummer/hellhammer)
+- **The preceding album**: [Chimera drum setup](/articles/chimera-drum-setup)
+- **The next chapter**: [Esoteric Warfare drum setup](/articles/esoteric-warfare-drum-setup)
+- **Blast beat technique**: [Blast Beat Technique Guide at MetalForge](/technique/blast-beat)
 
 ## Key Facts
 
@@ -52,19 +66,19 @@ On tracks like "Psychic Horns" and "Key to the Storms," the A Custom hi-hats and
 - Recorded at Mølla Studio, Gjerstad, Norway (Nov–Dec 2006), produced by Attila Csihar and Blasphemer
 - Recorded functionally without an independent bassist — Blasphemer doubled bass over his own guitar parts
 - Hellhammer's kick drum work carries a disproportionate share of the album's low-end structural weight
-- Pearl Reference — Hellhammer's documented kit across the Mayhem/Dimmu Borgir dual era
+- Sonor SQ2 Heavy Beech — Hellhammer's documented kit across the Mayhem/Dimmu Borgir dual era
 - Kick drums functioned as a primary low-end structural element in the absence of an independently recorded bass part
 - Recorded at Mølla Studio, Gjerstad, Norway, November–December 2006
 - Raw, harsh production mix leaves the kit more sonically exposed than on Chimera (2004)
 - Widely cited by Hellhammer and critics as among his most demanding studio performances
-- Estimated kit value: $3,500–6,000 (Pearl Reference shell pack)
-- Estimated snare value: $400–700 (Pearl Reference Snare, 14" x 6.5")
+- Estimated kit value: $3,500–6,000 (Sonor SQ2 Heavy Beech shell pack)
+- Estimated snare value: $400–700 (Sonor SQ2 Heavy Beech Snare, 14" x 6.5")
 
 ## Frequently Asked Questions
 
 **Q: What drums did Hellhammer use on Mayhem's Ordo Ad Chao?**
 
-A: Hellhammer played a Pearl Reference kit on Ordo Ad Chao (2007) — the same double-bass, five-tom configuration documented across his 1999–2014 Mayhem/Dimmu Borgir dual era. The album was recorded at Mølla Studio in Gjerstad, Norway. See the [full Hellhammer gear profile](/articles/hellhammer-drum-setup) for his complete career-spanning equipment breakdown.
+A: Hellhammer played a Sonor SQ2 Heavy Beech kit on Ordo Ad Chao (2007) — the same double-bass, five-tom configuration documented across his 1999–2014 Mayhem/Dimmu Borgir dual era. The album was recorded at Mølla Studio in Gjerstad, Norway. See the [full Hellhammer gear profile](/articles/hellhammer-drum-setup) for his complete career-spanning equipment breakdown.
 
 **Q: Is it true Ordo Ad Chao was recorded without a bassist?**
 
@@ -86,4 +100,4 @@ A: Attila Csihar sang on Ordo Ad Chao (2007), marking his return to Mayhem as vo
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

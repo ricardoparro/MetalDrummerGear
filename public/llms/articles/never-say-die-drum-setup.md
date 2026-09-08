@@ -1,6 +1,6 @@
 # Bill Ward's Drum Setup on Black Sabbath's 'Never Say Die!' (1978)
 
-> Bill Ward's drum setup for Never Say Die! (1978) — the Ludwig kit and Paiste 2002 cymbals on Ward's final studio album with Black Sabbath's original Ozzy-era lineup before Vinnie Appice took over for Heaven and Hell.
+> Bill Ward's drum setup for Never Say Die! (1978) — the Ludwig kit and Zildjian cymbals on Ward's final studio album with Black Sabbath's original Ozzy-era lineup before Vinnie Appice took over for Heaven and Hell.
 
 **Type:** Album Drum Setup
 **Drummer(s):** [Bill Ward](/llms/drummers/bill-ward.md)
@@ -13,13 +13,13 @@ Black Sabbath began work on *Never Say Die!* in the winter of 1977–78 at Sound
 
 *Never Say Die!*, released in September 1978, would be Bill Ward's last studio album with Black Sabbath's original lineup. He continued to tour behind the record, but left the band in 1980 before recording began on *Heaven and Hell*, replaced by Vinnie Appice — closing out a decade-long run that began with the band's self-titled 1970 debut. Fittingly, the album gave Ward a second turn at the microphone, singing lead vocals on the jazz-inflected closer "Swinging the Chain," echoing the vocal spotlight he'd had on *Technical Ecstasy*'s "It's Alright."
 
-This article covers the Ludwig kit and Paiste 2002 cymbal setup Ward used across his final album with the classic Ozzy-era lineup — gear that stayed remarkably consistent even as the band's sound stretched toward jazz-rock textures and, on "Breakout," a horn section.
+This article covers the Ludwig kit and Zildjian cymbal setup Ward used across his final album with the classic Ozzy-era lineup — gear that stayed remarkably consistent even as the band's sound stretched toward jazz-rock textures and, on "Breakout," a horn section.
 
 ## Gear Breakdown
 
 - **Drums:** Ludwig Ludwig Standard Maple (Natural Maple finish)
 - **Snare:** Ludwig Ludwig Supraphonic 400 (LM402), 14" x 6.5"
-- **Cymbals:** Paiste — Paiste 2002
+- **Cymbals:** Zildjian — Avedis Zildjian
 - **Hardware / Pedals:** Ludwig Speed King; Ludwig Atlas Hi-Hat Stand; Ludwig Atlas Throne; Ludwig 2B Hickory
 - **Heads:** Remo Emperor (batter), Remo Ambassador Coated (resonant)
 - **Snare tuning:** Medium tension, consistent with the Technical Ecstasy and Sabotage sessions
@@ -38,11 +38,21 @@ Ward's Ludwig Supraphonic carried through *Never Say Die!* unchanged from *Sabba
 
 "Johnny Blade" and "Junior's Eyes" show Ward's backbeat sitting tight and controlled against the album's more conventional rock material, while "Shock Wave" calls for a heavier, more sustained touch reminiscent of the band's mid-decade doom material. "Over to You" closes out the album's more straightforward stretch before "Breakout" and "Swinging the Chain" send the record — and Ward's original run with the band — out on its most exploratory note.
 
-### Paiste 2002: Ward's Cymbal Voice Through the End of the Original Run
+### Avedis Zildjian: Ward's Cymbal Voice Through the End of the Original Run
 
-Ward closed out his original run with Black Sabbath on the same Paiste 2002 setup he'd used since *Sabotage* — 15" hi-hats, 18" and 20" crashes, a 24" ride, and an 18" China. On *Never Say Die!*'s more jazz-inflected material, especially "Air Dance" and the horn-led "Breakout," that cymbal voice gave him the textural range to move beyond straightforward rock timekeeping.
+Ward closed out his original run with Black Sabbath on the same Zildjian setup he'd used since *Sabotage* — 14" hi-hats, a crash, a 20" ride, and an 18" China. On *Never Say Die!*'s more jazz-inflected material, especially "Air Dance" and the horn-led "Breakout," that cymbal voice gave him the textural range to move beyond straightforward rock timekeeping.
 
-The 24" ride's wash suits "Air Dance"'s flowing, almost fusion-adjacent feel, while the China adds an exotic color to "Breakout"'s arrangement alongside the track's horn section — a first for a Black Sabbath recording. Crash use on the more conventional tracks, like the title cut and "Johnny Blade," stays consistent with the restrained, purposeful approach Ward had carried since switching to Paiste three years earlier.
+The 20" ride's wash suits "Air Dance"'s flowing, almost fusion-adjacent feel, while the China adds an exotic color to "Breakout"'s arrangement alongside the track's horn section — a first for a Black Sabbath recording. Crash use on the more conventional tracks, like the title cut and "Johnny Blade," stays consistent with the restrained, purposeful approach Ward had carried since Master of Reality.
+
+## A Quiet, Consistent Close to an Era-Defining Run
+
+*Never Say Die!* is where Bill Ward's original run with Black Sabbath came to an end — not with a dramatic gear change, but with the same trusted Ludwig kit and Zildjian cymbals he'd played for years, applied to some of the most exploratory material the band's classic lineup ever recorded. From the horn-backed "Breakout" to his own lead vocal on "Swinging the Chain," the album shows a drummer still willing to stretch, right up to his last session with the band.
+
+**For Drummers Studying *Never Say Die!*:** "Air Dance" is the essential study in restraint, showing how Ward's jazz roots surfaced directly in a Sabbath recording. "Breakout" teaches how to support a horn arrangement without over-playing. And the title track is a reminder that even at the end of a difficult chapter, Ward could still deliver a driving, arena-ready groove.
+
+For the rest of Ward's gear evolution through Black Sabbath's catalog, see the [Technical Ecstasy drum setup](/articles/technical-ecstasy-drum-setup), recorded two years earlier, and the [Sabotage drum setup](/articles/sabotage-drum-setup). The full picture of his career is on the [Bill Ward drummer profile](/drummer/bill-ward).
+
+🥁 *The final album of Bill Ward's original run with Black Sabbath — same Ludwig kit, same Zildjian cymbals, right through to the last note.* 🥁
 
 ## Key Facts
 
@@ -61,7 +71,7 @@ The 24" ride's wash suits "Air Dance"'s flowing, almost fusion-adjacent feel, wh
 
 **Q: What drums did Bill Ward use on Never Say Die!?**
 
-A: Bill Ward recorded *Never Say Die!* (1978) on the same Ludwig Standard Maple kit he'd used on *Technical Ecstasy* and *Sabotage* — a 22" bass drum, two rack toms, and a 16" floor tom in natural maple, paired with his Ludwig Supraphonic snare and Paiste 2002 cymbals. The gear stayed consistent across all three albums. For the full arc of Ward's gear through Black Sabbath's catalog, see the [Bill Ward drummer profile](/drummer/bill-ward).
+A: Bill Ward recorded *Never Say Die!* (1978) on the same Ludwig Standard Maple kit he'd used on *Technical Ecstasy* and *Sabotage* — a 22" bass drum, two rack toms, and a 16" floor tom in natural maple, paired with his Ludwig Supraphonic snare and Avedis Zildjian cymbals. The gear stayed consistent across all three albums. For the full arc of Ward's gear through Black Sabbath's catalog, see the [Bill Ward drummer profile](/drummer/bill-ward).
 
 **Q: What was Bill Ward's last studio album with Black Sabbath before he left?**
 
@@ -79,4 +89,4 @@ A: Black Sabbath's original lineup of Ozzy Osbourne, Tony Iommi, Geezer Butler, 
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

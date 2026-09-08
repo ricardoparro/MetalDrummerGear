@@ -50,6 +50,17 @@ The 14" HHX Evolution hi-hats are the foundation of Mangini's rhythmic palette. 
 
 The dual-crash approach — HHX Evolution crashes for musical passages, AAX X-Plosion crashes for heavier punctuation — gives Mangini a dynamic range of accent options. Dream Theater songs typically traverse multiple emotional registers within a single track; matching the cymbal character to the musical moment is part of Mangini's preparation process. The 21" HHX Evolution ride anchors his pattern work with a defined bell and controlled wash, audible through the densest Petrucci/Rudess arrangements.
 
+## The Album That Closed the Distance
+
+Distance Over Time accomplished exactly what Dream Theater needed in 2019: it reestablished the band's heavy credentials, demonstrated Mangini at his most natural and integrated, and delivered a chart result that validated the creative reset.
+
+For drummers studying Mangini's work, Distance Over Time is the essential album. The Yonderbarn approach gave him room to perform rather than execute — the difference between a musician inhabiting the music and a technician reproducing it. Pearl Reference Pure shells, Sabian HHX Evolution cymbals, and Pearl Eliminator Redline pedals were the instruments; Mangini's eleven years of Dream Theater experience was the foundation.
+
+**The Mangini Dream Theater Arc:**
+Distance Over Time sits between A Dramatic Turn of Events (2011) — the audition result that proved the lineup could survive — and A View from the Top of the World (2021) — the self-produced final chapter of Mangini's Dream Theater era. Together they form a complete picture of a drummer who arrived under the most scrutinized circumstances in progressive metal history and earned his place on his own terms.
+
+For the complete Mangini gear profile, visit the [Mike Mangini drummer profile](/drummer/mike-mangini). For the earlier Mangini-era Dream Theater albums, see [A Dramatic Turn of Events drum setup](/articles/a-dramatic-turn-of-events-drum-setup). For the band's most recent studio album with Mangini, see [A View from the Top of the World drum setup](/articles/a-view-from-the-top-of-the-world-drum-setup).
+
 ## Key Facts
 
 - Recorded at Yonderbarn Studios, John Petrucci's facility in Hurleyville, New York
@@ -88,4 +99,4 @@ A: Pale Blue Dot is an extended instrumental track from Distance Over Time and M
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

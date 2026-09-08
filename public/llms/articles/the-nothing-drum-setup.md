@@ -22,7 +22,7 @@ Luzier's gear for *The Nothing* sessions continued the Pearl platform he'd estab
 - **Drums:** Pearl Pearl Reference Maple (Custom finish (Korn touring/studio configuration) finish)
 - **Snare:** Pearl Pearl Reference 14" × 6.5" Brass, 14" × 6.5"
 - **Cymbals:** Sabian — Sabian AAX Series
-- **Hardware / Pedals:** Pearl Demon Drive Double Bass Pedal; Promark Ray Luzier Signature TX420X; Pearl D-2000 Roadster Throne; Evans EC2 Coated; Evans EMAD2
+- **Hardware / Pedals:** DW 9000 Series Double Bass Pedal; Vic Firth Ray Luzier Signature; Pearl D-2000 Roadster Throne; Evans EC2 Coated; Evans EMAD2
 - **Heads:** Remo Coated Emperor (batter), Remo Hazy Ambassador Snare Side (resonant)
 - **Snare tuning:** Medium to medium-high tension — bright attack with enough natural sustain to support the album's exposed, dynamically varied mix
 
@@ -45,6 +45,20 @@ The 14" × 6.5" depth continued to deliver the full-bodied backbeat that had def
 Luzier's Sabian AAX setup carried over unchanged for *The Nothing*, continuing the cymbal platform he'd used since *The Paradigm Shift*. The AAX series' bright, fast-responding character remained essential — Korn's dense guitar layering on tracks like 'The Darkness Is Revealing' and 'Idiosyncrasy' still needed cymbals that could cut through without added EQ lift.
 
 Where the setup's deployment changed was in restraint. The AAXtreme China — used aggressively throughout *The Serenity of Suffering* — appears more sparingly on *The Nothing*, reserved for the album's genuine emotional peaks rather than routine accents. On 'Finally Free' in particular, a single well-placed China hit carries more weight for being one of the only ones in the song, using the cymbal's raw, aggressive voice as a dramatic tool rather than a rhythmic constant.
+
+## The Rawest Record: Ray Luzier on The Nothing
+
+*The Nothing* is the record where Ray Luzier's steady, groove-first drumming mattered most — not as a display of technique, but as the foundation that let Jonathan Davis process the worst year of his life in front of a microphone. Debuting at #8 on the Billboard 200 and drawing some of the strongest reviews of Korn's career, the album proved that the band's rawest material could also be its most acclaimed.
+
+Luzier's Pearl Reference Maple kit, Reference Brass snare, Sabian AAX cymbals, and Demon Drive pedal carried the same DNA that had defined *The Paradigm Shift* and *The Serenity of Suffering* — deployed here with the restraint and dynamic sensitivity that one of Korn's most personal albums demanded. It closes the gap in Luzier's Korn discography between two of his most acclaimed studio performances.
+
+For deeper exploration of Ray Luzier's complete Korn arc:
+- **Full drummer profile**: [Ray Luzier at MetalForge](/drummer/ray-luzier)
+- **Complete current kit guide**: [What's in Ray Luzier's Kit?](/articles/whats-in-ray-luziers-kit)
+- **Previous album**: [The Serenity of Suffering Drum Setup (2016)](/articles/serenity-of-suffering-drum-setup)
+- **Next album**: [Requiem Drum Setup (2022)](/articles/requiem-drum-setup)
+- **Korn band profile**: [Korn at MetalForge](/bands/korn)
+- **Nu-metal context**: [Nu-Metal Drum Setups](/articles/nu-metal-drum-setups)
 
 ## Key Facts
 
@@ -88,4 +102,4 @@ A: The Nothing (2019) was produced by Nick Raskulinecz, returning after producin
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

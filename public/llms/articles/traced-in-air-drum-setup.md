@@ -56,6 +56,24 @@ The K Custom Dark ride became the center of Reinert's cymbal vocabulary on *Trac
 
 The hi-hat evolution from the A 14" New Beat (1991–93) to K Custom Dark hi-hats reflects the same philosophy. The darker, more complex hi-hat tones gave Reinert's foot splashes and open-hat accents a rounder, less percussive quality that suited the album's jazz-fusion passages on tracks like "The Unknown Guest" and "King of Those Who Know."
 
+## The Reunion Chapter: 15 Years and a New Sound
+
+*Traced in Air* is not the album fans who had spent 15 years waiting for *Focus 2* expected. It is something richer and more interesting than that: an authentic creative statement from musicians who had continued to grow while the world waited for their return.
+
+**What Traced in Air Reveals:**
+The album fills the gap in the Sean Reinert / Cynic narrative that no other record addresses. *Focus* (1993) ended with Cynic at a creative peak — the most ambitious fusion of jazz and death metal anyone had achieved. *Traced in Air* (2008) shows where that trajectory led when the death metal framework was removed: a more contemplative, atmospheric, and musically open sound that still bears Reinert's unmistakable fingerprints.
+
+**The Gear Perspective:**
+The shift from Tama Artstar II to DW Collector's Series, from Zildjian A/K to K Custom Dark throughout, from Morrisound with Scott Burns to self-production — every gear change on *Traced in Air* reflects a deliberate artistic decision. Reinert chose warmer, more complex tools for a warmer, more complex musical statement. The DW maple shells and K Custom Dark cymbals are the physical manifestation of where his musical thinking had arrived by 2008.
+
+**For the Sean Reinert Discovery Arc:**
+Anyone who arrives at *Focus* asking "what came after?" needs *Traced in Air* as the next chapter. And anyone asking "what happened to Sean Reinert after Death?" finds here the reunion story: the drummer who changed extreme metal in 1991 and 1993 returned in 2008 to prove that he had never stopped developing his art.
+
+**The Legacy:**
+Sean Reinert passed away on January 24, 2020. The arc from *Human* (1991) through *Focus* (1993) to *Traced in Air* (2008) is the complete story of one of progressive metal's most important drummers — and *Traced in Air* is the chapter that too many fans of his work have missed.
+
+🥁 *Sean Reinert (1971-2020) — He returned after 15 years and proved the music had never stopped.* 🥁
+
 ## Key Facts
 
 - Cynic's reunion album — 15-year gap between Focus (1993) and Traced in Air (2008)
@@ -94,4 +112,4 @@ A: Cynic dissolved in 1994 after Focus (1993) failed to find commercial traction
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

@@ -45,6 +45,20 @@ Harrison's Zildjian K Custom Special Dry setup — the cymbal line he co-develop
 
 The 21" Special Dry Ride anchors "The Final Thing on My Mind," the album's longest track, where its dry, controlled character lets the arrangement build over nearly ten minutes without the ride cymbal accumulating uncontrolled sustain. The 14" Special Dry Hi-Hats drive the more intricate rhythmic passages on "No Man's Land" and "Fend for Yourself," giving Soord's guitar-and-vocal-led songwriting the same conversational hi-hat texture that had characterized Harrison's work on "The Sound of Muzak" over a decade earlier.
 
+## The Session That Started a New Chapter
+
+*Your Wilderness* (2016) is a genuine outlier in Gavin Harrison's discography: a full album recorded for a band he'd never played with, tracked entirely without a shared studio session, built on nothing but the same Sonor SQ2 kit, Zildjian K Custom Special Dry cymbals, and decades of accumulated musical judgment that had already defined his Porcupine Tree and King Crimson work. That the results hold up — critically and commercially the strongest response The Pineapple Thief had received to that point — says as much about the reliability of Harrison's gear and technique as it does about Bruce Soord's songwriting.
+
+The remote recording process itself is worth studying on its own terms: without a producer or bandmate present to react to a take, Harrison's dynamic judgment on his Sonor Perfect Balance pedal and his Gavin Harrison Signature snare had to be exactly right the first time, with no do-overs after the file was sent across for mixing. "The Final Thing on My Mind" stands as the clearest evidence of that judgment holding up across nearly ten minutes of shifting arrangement.
+
+For drummers approaching this gear:
+
+- **Full drummer profile**: [Gavin Harrison at MetalForge](/drummer/gavin-harrison)
+- **Full gear profile**: [What's In Gavin Harrison's Kit](/articles/whats-in-gavin-harrisons-kit)
+- **The album that established this rig**: [Fear of a Blank Planet Drum Setup](/articles/fear-of-a-blank-planet-drum-setup)
+
+*Your Wilderness* proves that Gavin Harrison's setup and judgment travel well beyond Porcupine Tree — the same gear and the same restraint work for any songwriter who knows how to use them.
+
 ## Key Facts
 
 - Released August 2016 via Kscope — The Pineapple Thief's eleventh studio album
@@ -86,4 +100,4 @@ A: Your Wilderness (2016) marked Gavin Harrison's first recording with The Pinea
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

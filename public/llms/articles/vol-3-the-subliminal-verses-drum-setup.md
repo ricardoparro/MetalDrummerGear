@@ -56,6 +56,16 @@ The crash array (16"–19") provided the same dynamic hierarchy as the Iowa setu
 
 The dual China cymbals (20" and 22") continued as Slipknot's signature percussive punctuation. On "Pulse of the Maggots" and "The Blister Exists," the China accents define the arrangement's climax points with more tonal specificity than Iowa's production allowed.
 
+## Vol. 3: The Album That Proved What Iowa Could Not Show
+
+*Vol. 3: (The Subliminal Verses)* is the definitive proof that Joey Jordison was more than an extreme drumming machine. *Iowa* established his credentials as one of metal's most ferocious players. Vol. 3 established that he was also a musician — that the speed and intensity were tools in service of something larger, deployable at will and equally capable of being set aside when the song required restraint.
+
+Rick Rubin and Greg Fidelman's production at Henson Studios made this visible. The gear was largely continuous with Iowa — Pearl drums, Paiste cymbals, Pearl Demon Drive pedals. The Free-Floating brass snare was the most significant change, and its character defines the album's drum identity. The Demon Drive remained the foundation of everything, enabling the double-bass polyrhythms and sustained blast beats that powered the album's heaviest material.
+
+For drummers studying Jordison's work, Vol. 3 offers something Iowa cannot: clarity. You can hear the choices — the ghost notes, the selective use of different crash sizes, the transition from blast beat to groove mid-song — in a way that Iowa's production makes impossible. Vol. 3 is the essential study record for understanding what Joey Jordison was actually doing behind the kit.
+
+For the extreme recording that preceded this, see the [Iowa drum setup article](/articles/iowa-drum-setup). For how the Pearl gear evolved into the Reference Series for Slipknot's final Jordison-era album, see the [All Hope Is Gone drum setup article](/articles/all-hope-is-gone-drum-setup). For Joey's complete gear history and career profile, see the [Joey Jordison drummer profile](/drummer/joey-jordison).
+
 ## Key Facts
 
 - Debuted #1 US Billboard 200 AND UK Albums Chart — 2× Platinum RIAA
@@ -93,4 +103,4 @@ A: Joey Jordison used a Pearl Free-Floating brass snare drum in 14 x 6.5 inches 
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

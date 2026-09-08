@@ -50,6 +50,20 @@ The Zildjian A 14" hi-hats provided the articulation foundation for Raatikainen'
 
 The two A Series crashes (16" and 18") gave Raatikainen tonal variety for accent work: the 16" for fast, explosive accents in tight melodic passages; the 18" for section boundaries and climactic builds. The 20" A ride served both sustained time-keeping and bell accents during Wirman's keyboard-driven passages. The 18" A China added the trashy, upward-cutting attack essential to the album's most aggressive riff transitions — deployed at structural moments rather than continuously, following the compositional intelligence that distinguishes Raatikainen's approach from purely aggressive death metal drumming.
 
+## The Album That Started Everything: Hatebreeder and the CoB Drum Legacy
+
+*Hatebreeder* (1999) is where Jaska Raatikainen's approach to melodic death metal drumming first found full expression in a major studio context. The early Tama configuration, Zildjian A Series cymbals, and DW 5000 double pedal were not a finished setup — they were a starting point, the gear foundation from which the Starclassic Maple and Paiste 2002 era, and later the Pearl Masters years, would evolve. But the drumming language was already complete.
+
+What makes *Hatebreeder* worth studying as a drum record is exactly what makes it the entry point for the Jaska Raatikainen discovery cluster: it captures the CoB approach before refinement, at its most direct and energetic. The rawer Astia Studio production, the brightness of the Zildjian A Series against the dense keyboard arrangements, the DW 5000's foundational double-kick engine — these elements create a drum sound with a character distinct from the more polished *Hate Crew Deathroll* recording, and that distinction is musically meaningful.
+
+**For Drummers Studying Hatebreeder:**
+Start with "Towards Dead End" for the double-kick foundation: count the patterns against the keyboard lines, observe how the bass drum placement locks with the rhythm rather than simply underlining it. Then move to "Children of Decadence" for the fill language: track the tom phrases against Janne Wirman's keyboard runs, hear how each fill functions as melodic counterpoint. Finally, listen to "Downfall" for the full dynamic range — the contrast from verse restraint to the album's climactic close shows the compositional thinking that was already present at age 19.
+
+**The Gear Legacy:**
+The DW 5000 double pedal remains in production and remains respected as one of metal drumming's foundational chain-drive options. Zildjian A Series cymbals have been continuous for decades — the same B20 alloy and traditional lathing that Raatikainen used on *Hatebreeder* are available today.
+
+For Jaska Raatikainen's complete gear evolution — from the DW 5000 era through the Tama Starclassic years and into the Pearl Masters decade — see the [Jaska Raatikainen drummer profile](/drummer/jaska-raatikainen), the [Hate Crew Deathroll drum setup article](/articles/hate-crew-deathroll-drum-setup), and the [full kit guide](/articles/jaska-raatikainen-drum-setup).
+
 ## Key Facts
 
 - Recorded at Astia Studio, Imatra — Anssi Kippo's first major CoB production
@@ -88,4 +102,4 @@ A: *Hatebreeder* (1999) documents the first fully-realized expression of Jaska R
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

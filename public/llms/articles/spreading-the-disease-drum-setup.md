@@ -58,6 +58,16 @@ Multiple crashes gave him the dynamic range that a nine-track album of continuou
 
 The 22" 2002 Heavy Ride provided the bell clarity and sustain control needed at thrash tempos. A lighter ride would wash out under Benante's attack; the Heavy Ride's mass prevented that without sacrificing the bell definition he used for accents. The 18" China delivered the explosive, trashy bursts that punctuated the album's most intense passages — a strategic accent voice rather than a constant presence.
 
+## The Album That Started the Arc
+
+Spreading the Disease is where the Charlie Benante story begins in earnest — not because Fistful of Metal didn't exist, but because everything that defines the Anthrax sound arrived here simultaneously. Joey Belladonna's voice, Scott Ian and Dan Spitz's twin-guitar aggression, Frank Bello's rumbling bass, and Charlie Benante's technically advanced, compositionally intelligent drumming: this is the lineup that wrote the Anthrax chapter of thrash history, and Spreading the Disease is its opening statement.
+
+For drummers, the album is a study in priorities. Benante was already one of thrash's most technically accomplished practitioners in 1985, but the gear choices and production approach on Spreading the Disease reflect the priorities he has maintained for four decades: gear that serves the music, technique that serves the song, and innovations that expand the vocabulary rather than merely display it. The HP35 Camco pedals he started using in 1984 appear here for the first time on a full-length Anthrax album. The Paiste 2002 Sound Edge hi-hats deliver the crisp, defined patterns that have driven Anthrax grooves ever since. The dual Tama bass drums establish the physical foundation of the most sustained double-bass technique in Big Four thrash.
+
+Tracks like 'Madhouse' and 'A.I.R.' have remained in Anthrax's live set for four decades not because the band is nostalgic, but because the material is genuinely great — and at the core of that greatness is Charlie Benante's drumming. 'Madhouse' in particular has become one of the most-searched Anthrax drum topics on the internet because it represents something rare: a song where the drums are simultaneously appropriate for the song and undeniably impressive on their own terms.
+
+For the full Charlie Benante gear story, visit the [Charlie Benante drummer profile](/drummer/charlie-benante). For the album that immediately followed this one, see the [Among the Living drum setup breakdown](/articles/charlie-benante-among-the-living-drum-setup). For Anthrax's complete drummer history, see the [Anthrax band page](/bands/anthrax).
+
 ## Key Facts
 
 - First Anthrax album with Joey Belladonna — debut of the classic lineup
@@ -86,7 +96,7 @@ A: Charlie Benante has been a founding member of Anthrax since 1983 and played o
 
 **Q: What cymbals did Charlie Benante use on Spreading the Disease?**
 
-A: Charlie Benante used Paiste cymbals on Spreading the Disease, combining the 2002 and RUDE series. The setup included Paiste 2002 14" Sound Edge hi-hats, 16" and 18" 2002 Medium Crashes, a RUDE 18" Crash/Ride for the most aggressive playing, a 2002 22" Heavy Ride, and a 2002 18" China. He would continue using Paiste through Among the Living (1987) before switching to Sabian for State of Euphoria (1988).
+A: Charlie Benante used Paiste cymbals on Spreading the Disease, combining the 2002 and RUDE series. The setup included Paiste 2002 14" Sound Edge hi-hats, 16" and 18" 2002 Medium Crashes, a RUDE 18" Crash/Ride for the most aggressive playing, a 2002 22" Heavy Ride, and a 2002 18" China. He continued using this same Paiste 2002/RUDE setup through Among the Living (1987), State of Euphoria (1988), and the rest of his career.
 
 **Q: What pedals did Charlie Benante use on Spreading the Disease?**
 
@@ -104,4 +114,4 @@ A: Spreading the Disease is the opening chapter of Charlie Benante's classic-era
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

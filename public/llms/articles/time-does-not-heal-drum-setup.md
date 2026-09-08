@@ -60,7 +60,17 @@ The Paiste 2002's CuSn8 bronze alloy continued to deliver the drier, faster-deca
 
 The 14" Sound Edge Hi-Hats were particularly prominent on this album. The extended song structures gave Hoglan more room for hi-hat variation — moving between closed, half-open, and open positions within extended passages, using the hi-hat as a melodic voice rather than purely a timekeeping instrument. This approach to hi-hat work would characterize his Death recordings and establish a technique that remains part of his vocabulary today.
 
-The 2002 setup on "Time Does Not Heal" represents Hoglan's cymbal approach at the peak of his Dark Angel era — and the final iteration before the Zildjian A series return that marked his transition into the Death recordings.
+The 2002 setup on "Time Does Not Heal" represents Hoglan's cymbal approach at the peak of his Dark Angel era — and the final iteration before the Sabian HH series that marked his transition into the Death recordings.
+
+## Time Does Not Heal: The Dark Angel Endgame
+
+"Time Does Not Heal" stands as both Dark Angel's most sophisticated studio recording and the conclusion of the arc that began with "Darkness Descends" in 1986. Gene Hoglan at 24 was playing at a level that the 19-year-old who had opened that earlier album at 247 BPM could not have reached — not faster, but more complete, more compositionally aware, more dynamically sophisticated.
+
+The gear that served these sessions — Tama Rockstar, Ludwig Acrolite, Paiste 2002 — was not exotic or expensive by professional standards. But Hoglan had made it his own across multiple albums and years of touring, and the familiarity shows in the performance. Every choice on "Time Does Not Heal" sounds considered: the cymbal selections serve the compositions, the dynamic range serves the song structures, the double kick patterns serve the arrangements.
+
+For drummers tracing Gene Hoglan's development through MetalForge's documentation: this album completes the Dark Angel trilogy of [darkness-descends-drum-setup](https://metalforge.io/articles/darkness-descends-drum-setup) (1986), [leave-scars-drum-setup](https://metalforge.io/articles/leave-scars-drum-setup) (1989), and this 1991 final chapter. From here, Hoglan walked into Morrisound Recording with Chuck Schuldiner and changed the course of death metal drumming — but "Time Does Not Heal" made that transition possible. The Atomic Clock, in 1991, was fully wound.
+
+🥁 *Time Does Not Heal, 1991. Dark Angel's final statement. Hoglan's death metal pivot was eighteen months away.* 🤘
 
 ## Key Facts
 
@@ -97,4 +107,4 @@ A: Gene Hoglan recorded Dark Angel's Time Does Not Heal (1991) using a Tama Rock
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

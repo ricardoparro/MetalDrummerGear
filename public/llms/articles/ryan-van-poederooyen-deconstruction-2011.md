@@ -22,7 +22,7 @@ This article is a dedicated breakdown of the rig Van Poederooyen used specifical
 - **Drums:** Pearl Pearl Reference Series (Maple/mahogany hybrid, 2011 recording configuration finish)
 - **Snare:** Pearl Pearl Free-Floating / Sensitone Snare, 14" x 6.5"
 - **Cymbals:** Sabian — Sabian AAX / HHX Series
-- **Hardware / Pedals:** Tama Iron Cobra Double Bass Pedal (x2, one per kick drum); Vic Firth American Classic 5B; Remo Powerstroke 3
+- **Hardware / Pedals:** Pearl Demon Drive Double Bass Pedal (x2, one per kick drum); Vic Firth American Classic 5B; Remo Powerstroke 3
 - **Heads:** Remo Coated Ambassador (batter), Remo Diplomat Snare Side (resonant)
 - **Snare tuning:** Medium to medium-bright, balancing cut against a maximalist, guest-vocalist-heavy mix
 
@@ -48,6 +48,14 @@ The 20" HHX Ride carries particular weight on a record built around extended com
 
 The 18" AAX China supplies the aggressive, trashy accent that punctuates the album's most extreme peaks — a texture Metal Hammer's review specifically singled out as part of what made the record feel "sonically overwhelming" in the best sense.
 
+## Deconstruction: The Full-Power Half of a 25-Year Partnership
+
+"Deconstruction" stands as the fullest demonstration of what Ryan Van Poederooyen's power and precision look like when Devin Townsend's writing demands maximum intensity rather than dynamic restraint. The true double-kick Pearl Reference configuration, the Sabian AAX/HHX cymbal spread built for both projection and orchestral depth, and the Pearl Demon Drive pedals driving two physically separate bass drums — every piece of that rig exists to serve a record built to overwhelm.
+
+What makes the album a genuinely useful case study, rather than just a technically impressive one, is the same-day release of 'Ghost': the fact that Van Poederooyen delivered a record this extreme and a record this restrained from the same fundamental setup, on the same day, is the clearest evidence of the versatility that has kept him behind Devin Townsend's kit for over 25 years. The dual drums credit with Dirk Verbeuren adds a further dimension — a rare moment where two drummers profiled separately on MetalForge shared a single album's drum chair.
+
+For the fuller arc of Van Poederooyen's career and his standard touring rig: [Ryan Van Poederooyen's general drum setup breakdown](/articles/ryan-van-poederooyen-drum-setup). For his complete profile: [Ryan Van Poederooyen at MetalForge](/drummer/ryan-van-poederooyen).
+
 ## Key Facts
 
 - Released June 20, 2011 on HevyDevy Records / InsideOut Music; produced by Devin Townsend, mixed by Jens Bogren
@@ -67,7 +75,7 @@ The 18" AAX China supplies the aggressive, trashy accent that punctuates the alb
 
 **Q: What drum kit did Ryan Van Poederooyen use on 'Deconstruction'?**
 
-A: Ryan Van Poederooyen recorded 'Deconstruction' (2011) on a true double bass drum configuration — two 22" x 18" Pearl Reference kick drums, each driven by its own Tama Iron Cobra pedal, alongside 10" and 12" rack toms and 16" and 18" floor toms. This is a rare instance in his discography of a genuine double-kick setup rather than his usual single-kick-plus-double-pedal configuration, chosen specifically for the album's crushing double-bass demands. For his general setup, see the [Ryan Van Poederooyen drum setup breakdown](/articles/ryan-van-poederooyen-drum-setup).
+A: Ryan Van Poederooyen recorded 'Deconstruction' (2011) on a true double bass drum configuration — two 22" x 18" Pearl Reference kick drums, each driven by its own Pearl Demon Drive pedal, alongside 10" and 12" rack toms and 16" and 18" floor toms. This is a rare instance in his discography of a genuine double-kick setup rather than his usual single-kick-plus-double-pedal configuration, chosen specifically for the album's crushing double-bass demands. For his general setup, see the [Ryan Van Poederooyen drum setup breakdown](/articles/ryan-van-poederooyen-drum-setup).
 
 **Q: Why is 'Deconstruction' considered one of Ryan Van Poederooyen's most demanding performances?**
 
@@ -89,4 +97,4 @@ A: 'Deconstruction' and 'Ghost' were released on the same day — June 20, 2011 
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

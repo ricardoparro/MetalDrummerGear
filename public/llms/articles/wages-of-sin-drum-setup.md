@@ -15,7 +15,7 @@ Behind the kit on Wages of Sin is Daniel Erlandsson, Arch Enemy co-founding memb
 
 Wages of Sin was recorded at Studio Fredman in Gothenburg, Sweden — the same room that captured At the Gates' Slaughter of the Soul (1995), In Flames' early albums, and the broader Gothenburg melodic death metal canon. But the production team for Wages of Sin was distinctive: British producer Andy Sneap (Testament, Megadeth, Exodus) co-produced the record with Arch Enemy themselves, bringing a denser, more aggressive mix philosophy than Studio Fredman's earlier dry, gated Gothenburg template. The result is a hybrid: the Studio Fredman tracking room and house culture, processed through Sneap's modern metal production sensibility. The drum sound on Wages of Sin sits between the dry directness of mid-90s Gothenburg and the saturated polish of 2000s international metal production — punchy and articulate, but with more weight and modern low-end character than its Studio Fredman predecessors.
 
-Erlandsson's gear on Wages of Sin reflects his early-2000s Pearl artist relationship: Pearl Masters / Reference-era shells in a double-kick configuration with two 22"x18" bass drums, 10" and 12" rack toms, 14" and 16" floor toms, and a Pearl Free-Floating Brass 14"x6.5" snare delivering the bright, cutting attack the album's dense production needed. His Sabian setup combined AA and HH series cymbals — the durable workhorse lines from Sabian's catalog, suited to the velocity and aggression Arch Enemy's material demanded. The Pearl Eliminator double bass pedal provided the consistency that the album's sustained double-kick patterns required, and Vic Firth or Vater 5B-class sticks gave him the mass and durability for tracking through long days at Studio Fredman.
+Erlandsson's gear on Wages of Sin reflects his early-2000s Pearl artist relationship: Pearl Masters / Reference-era shells in a double-kick configuration with two 22"x18" bass drums, 10" and 12" rack toms, 14" and 16" floor toms, and a Pearl Free-Floating Brass 14"x6.5" snare delivering the bright, cutting attack the album's dense production needed. His Sabian setup combined AA and HH series cymbals — the durable workhorse lines from Sabian's catalog, suited to the velocity and aggression Arch Enemy's material demanded. The Pearl Eliminator double bass pedal provided the consistency that the album's sustained double-kick patterns required, and ProMark 5B-class sticks gave him the mass and durability for tracking through long days at Studio Fredman.
 
 This article breaks down Daniel Erlandsson's drum setup for Wages of Sin — the kit, snare, cymbals, hardware, production approach, and technique — and places the album within the broader context of Arch Enemy's Gossow-era expansion and the Gothenburg melodic death metal tradition that shaped both of the Erlandsson brothers' careers.
 
@@ -58,6 +58,24 @@ The HH 20" Heavy Ride provides the tonal contrast point in the setup. Where the 
 
 The AA 18" Mini China and AA 10" Splash round out the accent vocabulary. China accents are essential to the Gothenburg melodic death metal idiom — the aggressive trashy character that punctuates riff changes and marks structural moments. The splash provides shorter accent texture for syncopated fill content where a full crash would be too long. Together the six-cymbal setup gives Erlandsson the full range of accent options the album's compositional density demands.
 
+## Wages of Sin: The Album That Built Arch Enemy's Global Era
+
+Wages of Sin (February 14, 2002) is the breakthrough record at the heart of Arch Enemy's history. It introduced Angela Gossow as the band's vocalist — the defining identity-shaping move that gave Arch Enemy the global profile they would carry across the next two decades. It launched the singles "Ravenous" and "Heart of Darkness" into MTV2 rotation and European metal radio, breaking the band into North American media in a way their first three albums had not. And it consolidated Daniel Erlandsson's reputation as one of melodic death metal's most disciplined drummers, with playing that integrated blast beats, double-kick patterns, and melodic fill content into a mature compositional statement.
+
+The gear behind that performance — Pearl Masters / Reference-era maple shells, Pearl Free-Floating Brass 14" x 6.5" snare, Sabian AA and HH cymbal setup, Pearl Eliminator double bass pedal, ProMark 5B-class sticks — represents the early-2000s standard for professional melodic death metal drumming. Each component was chosen for function: the maple kit for tonal clarity within Studio Fredman's controlled tracking room, the brass snare for cutting projection through Andy Sneap's dense mix, the Sabian AA/HH pairing for tonal range across the album's compositional variety, the Eliminator pedal for the sustained double-kick consistency the material demanded.
+
+**Key takeaways for drummers studying this album:**
+- Blast beats deployed as structural intensification, not constant texture
+- Double-kick patterns lock to guitar riff contours for compositional cohesion
+- Bright snare cut is essential in dense modern metal mix contexts
+- Sabian AA/HH pairing provides full tonal range across one professional cymbal setup
+- Pearl Eliminator pedal delivers the foot technique consistency long studio sessions require
+
+**Explore related content at MetalForge:**
+- [Daniel Erlandsson drum setup](/articles/daniel-erlandsson-drum-setup) — the broader Erlandsson Arch Enemy gear profile
+- [Daniel Erlandsson drummer profile](/drummer/daniel-erlandsson) — full career context for Arch Enemy's drummer
+- [Slaughter of the Soul drum setup](/articles/slaughter-of-the-soul-drum-setup) — Adrian Erlandsson's parallel Gothenburg melodic death metal landmark
+
 ## Key Facts
 
 - Angela Gossow's debut as Arch Enemy vocalist — the arc-opening album of the band's defining era
@@ -81,7 +99,7 @@ A: Daniel Erlandsson played drums on Arch Enemy's Wages of Sin (2002), as he has
 
 **Q: What drum kit did Daniel Erlandsson use on Wages of Sin?**
 
-A: Daniel Erlandsson used a Pearl Masters / Reference-era kit on Wages of Sin (2002), reflecting his long-standing Pearl artist relationship. The configuration followed his standard setup: two 22" x 18" bass drums in a true double-kick configuration (not double pedal on single kick), 10" and 12" rack toms, 14" and 16" floor toms, and a Pearl Free-Floating Brass 14" x 6.5" snare delivering the bright, cutting attack the album's dense Andy Sneap production demanded. His cymbal setup combined Sabian AA series (hi-hats, crashes, China, splash) for cutting brightness with a Sabian HH 20" Heavy Ride for darker tonal contrast. Pearl Eliminator double bass pedal provided the foot technique foundation, and Vic Firth or Vater 5B-class hickory sticks gave him the mass for sustained high-velocity playing.
+A: Daniel Erlandsson used a Pearl Masters / Reference-era kit on Wages of Sin (2002), reflecting his long-standing Pearl artist relationship. The configuration followed his standard setup: two 22" x 18" bass drums in a true double-kick configuration (not double pedal on single kick), 10" and 12" rack toms, 14" and 16" floor toms, and a Pearl Free-Floating Brass 14" x 6.5" snare delivering the bright, cutting attack the album's dense Andy Sneap production demanded. His cymbal setup combined Sabian AA series (hi-hats, crashes, China, splash) for cutting brightness with a Sabian HH 20" Heavy Ride for darker tonal contrast. Pearl Eliminator double bass pedal provided the foot technique foundation, and ProMark 5B-class hickory sticks gave him the mass for sustained high-velocity playing.
 
 **Q: Where was Wages of Sin recorded?**
 
@@ -99,4 +117,4 @@ A: Daniel Erlandsson played Sabian cymbals on Wages of Sin, combining the AA and
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

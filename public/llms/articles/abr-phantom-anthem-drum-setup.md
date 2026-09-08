@@ -1,6 +1,6 @@
 # August Burns Red 'Phantom Anthem' Drum Setup (Matt Greiner, 2017)
 
-> Discover the exact drum kit, cymbals, and gear Matt Greiner used on August Burns Red's Grammy-nominated Phantom Anthem (2017). Complete breakdown of the Pearl Reference Pure kit, Zildjian A Custom and Sabian AAX cymbals, and the drumming that earned a Best Metal Performance nomination for 'King of Sorrow' at the 2018 Grammy Awards.
+> Discover the exact drum kit, cymbals, and gear Matt Greiner used on August Burns Red's Grammy-nominated Phantom Anthem (2017). Complete breakdown of the Mapex Black Panther Design Lab kit, Zildjian A Custom and Sabian AAX cymbals, and the drumming that earned a Best Metal Performance nomination for 'King of Sorrow' at the 2018 Grammy Awards.
 
 **Type:** Album Drum Setup
 **Drummer(s):** [Matt Greiner](/llms/drummers/matt-greiner.md)
@@ -11,38 +11,38 @@
 
 Released on September 15, 2017, August Burns Red's *Phantom Anthem* arrived as one of the most anticipated metalcore records of the year — and delivered a Grammy nomination to prove it. "King of Sorrow," the album's standout track, earned a nod for Best Metal Performance at the 60th Grammy Awards in 2018, marking the highest individual track recognition of ABR's career and confirming Matt Greiner's status as the defining drummer of modern metalcore.
 
-*Phantom Anthem* occupies a critical position in the August Burns Red discography: the bridge between *Found in Far Away Places* (2015) — the band's commercial peak and RIAA Gold certification — and *Beacon* (2023), their most recent studio statement. Where *Found in Far Away Places* crystallized Greiner's Pearl era with Meinl Byzance cymbals, *Phantom Anthem* marked a significant cymbal change: from Meinl Byzance to a hybrid setup blending Zildjian A Custom and Sabian AAX. The tonal shift is audible — brighter, more aggressive at the top end, suited to the album's compressed, punishing production character.
+*Phantom Anthem* occupies a critical position in the August Burns Red discography: the bridge between *Found in Far Away Places* (2015) — the band's commercial peak and RIAA Gold certification — and *Beacon* (2023), their most recent studio statement. Where *Found in Far Away Places* closed out Greiner's Pearl era with Meinl Byzance cymbals, *Phantom Anthem* is the first full album cycle built entirely on the new rig he adopted in 2016: Mapex Black Panther Design Lab drums, a DW 9000 Series double pedal, and — for this record specifically — a further cymbal change from Meinl Byzance to a hybrid setup blending Zildjian A Custom and Sabian AAX. The tonal shift on top is audible — brighter, more aggressive at the top end, suited to the album's compressed, punishing production character.
 
-Greiner retained the Pearl Reference Pure kit and Pearl Demon Drive double pedal from the *Found in Far Away Places* era, demonstrating that his foundational choices had stabilized even as the cymbal voice evolved. The result is a drum sound that is simultaneously familiar — the tight, articulate Reference Pure attack that defined the *Found in Far Away Places* era — and unmistakably 2017: denser, more aggressive at the surface, designed to cut through a production that prioritizes weight above warmth.
+Greiner had left Pearl for the Mapex Black Panther Design Lab kit and DW 9000 Series double pedal in 2016, switching gear specifically for August Burns Red's technically demanding metalcore sets. By the time *Phantom Anthem* was tracked, that new foundation had been road- and studio-tested for over a year. The result is a drum sound that is simultaneously familiar — the tight, articulate Black Panther Design Lab attack that had already replaced the Reference Pure the previous year — and unmistakably 2017: denser, more aggressive at the surface, designed to cut through a production that prioritizes weight above warmth.
 
 "King of Sorrow," the Grammy-nominated track, showcases Greiner's complete technical vocabulary: blast beat sequences that resolve into locked groove patterns, ghost note density that adds textural complexity beneath heavy riff sections, and the odd-meter facility that has distinguished his playing across the entire ABR catalog. The Grammy nomination was not a surprise to anyone who had followed his development from *Messengers* (2007) through *Leveler* (2011) to this point.
 
 ## Gear Breakdown
 
-- **Drums:** Pearl Pearl Reference Pure (Custom wrap / lacquer finish finish)
-- **Snare:** Pearl Pearl Matt Greiner Signature, 14" x 6"
+- **Drums:** Mapex Mapex Black Panther Design Lab (Maple/walnut hybrid shell finish finish)
+- **Snare:** Mapex Mapex Black Panther 14" x 5.5" Maple, 14" x 5.5"
 - **Cymbals:** Zildjian / Sabian — Zildjian A Custom + Sabian AAX
-- **Hardware / Pedals:** Pearl Demon Drive Double Pedal; Pearl H-2050 Demon Hi-Hat Stand; Roc-N-Soc Nitro Throne; Vic Firth Matt Greiner Signature
-- **Heads:** Remo Ambassador Coated (batter), Remo Ambassador Snare Side (resonant)
-- **Snare tuning:** Medium-high tension — bright steel attack with controlled warmth
+- **Hardware / Pedals:** DW 9000 Series Double Pedal; DW 9000 Series Hi-Hat Stand; Roc-N-Soc Nitro Throne; Vic Firth Matt Greiner Signature
+- **Heads:** Evans G2 Coated (batter)
+- **Snare tuning:** Medium tuning — warmth and articulation across the dynamic range
 
-### Matt's 2017 Kit: Pearl Reference Pure (Continued)
+### Matt's 2017 Kit: Mapex Black Panther Design Lab
 
-By the *Phantom Anthem* sessions, the Pearl Reference Pure had become Greiner's settled foundation — carried over from the *Found in Far Away Places* era without modification. The maple/mahogany hybrid shell construction continued to deliver the tight, articulate attack that defines his modern sound: a drum that cuts through a metal mix with definition rather than blurring into the low-midrange mass.
+By the *Phantom Anthem* sessions, the Mapex Black Panther Design Lab had become Greiner's settled foundation — the kit he'd switched to in 2016, after leaving Pearl, specifically for August Burns Red's technically demanding metalcore sets. The maple/walnut hybrid shell construction delivered the tight, articulate attack that defines his modern sound: a drum that cuts through a metal mix with definition rather than blurring into the low-midrange mass.
 
-The Reference Pure's tighter attack profile suited *Phantom Anthem*'s production character especially well. Where *Found in Far Away Places*' sessions with Carson Slovak and Grant McFarland had emphasized polished clarity, *Phantom Anthem*'s production leaned into compression and density — a heavier, more aggressive surface energy. The Reference Pure's inherently precise shell response prevented the drum sound from muddying in a production context that saturated the guitars more aggressively.
+The Black Panther Design Lab's tighter attack profile suited *Phantom Anthem*'s production character especially well. Where *Found in Far Away Places*' sessions with Carson Slovak and Grant McFarland had emphasized polished clarity on the outgoing Pearl kit, *Phantom Anthem*'s production leaned into compression and density — a heavier, more aggressive surface energy. The new Mapex kit's precise shell response prevented the drum sound from muddying in a production context that saturated the guitars more aggressively.
 
 The double bass drum configuration remained non-negotiable. Greiner's lever-driven technique — generating explosive double-bass speed through ankle and calf mechanics rather than leg force — demanded two fully matched, independent bass drums. The 22" diameter provided the deep fundamental that *Phantom Anthem*'s heaviest passages required, particularly on "King of Sorrow," where extended double-bass sequences underpin the track's most aggressive sections.
 
 The compact rack tom layout (10", 12" rack, 16" floor) encouraged the compositional fill choices that characterize Greiner's approach: fills designed around musical moments rather than sweeping tom runs performed for technical display.
 
-### The 2017 Snare: Pearl Matt Greiner Signature
+### The 2017 Snare: Mapex Black Panther Maple
 
-Greiner continued with his Pearl signature snare through the *Phantom Anthem* sessions — the 14" x 6" steel-shell drum that had defined his sound since the *Found in Far Away Places* era. The signature snare's steel shell provides the bright, cutting attack required to project through metalcore's dense guitar arrangements, while the 6" depth adds the body and volume that shallower steel drums can lack at high volume.
+Greiner played the Mapex Black Panther maple snare through the *Phantom Anthem* sessions — the 14" x 5.5" drum that replaced his Pearl signature snare when he switched brands in 2016. The maple shell delivers a warmer, fuller crack than the steel drum it replaced, with a rounder attack that still projects through metalcore's dense guitar arrangements.
 
-The custom bearing edge — designed in collaboration with Pearl to maximize ghost note sensitivity without sacrificing the crack and projection of power accent strokes — is audible throughout *Phantom Anthem*. On "King of Sorrow," Greiner alternates between thunderous backbeat accents and intricate ghost note passages within single bars, a dynamic range that only a drum specifically designed for that balance can deliver reliably.
+Greiner tunes the snare for a balance of warmth and articulation, audible throughout *Phantom Anthem*. On "King of Sorrow," he alternates between thunderous backbeat accents and intricate ghost note passages within single bars — a dynamic range the maple shell handles without sacrificing body.
 
-The steel shell's character suits *Phantom Anthem*'s aggressive production more directly than a warmer wood shell would. Where a maple snare contributes tonal complexity and overtones, steel cuts with a focused clarity that sits precisely in a mix dominated by heavily processed guitars. The signature drum's presence on *Phantom Anthem* is the result of deliberate choice, not default endorsement behavior.
+The maple shell's character suits *Phantom Anthem*'s aggressive production differently than the steel Pearl snare it replaced. Where steel cuts with a focused, bright clarity, maple contributes tonal complexity and overtones that sit warmly inside a mix dominated by heavily processed guitars — a deliberate tonal shift that came bundled with the 2016 brand switch.
 
 ### Zildjian A Custom + Sabian AAX: The Phantom Anthem Cymbal Voice
 
@@ -54,39 +54,51 @@ The Sabian AAX China — a hybrid alloy china rather than pure B20 — adds a cu
 
 The overall cymbal shift from Byzance to Zildjian A Custom / Sabian AAX reflects a move toward a more aggressive, bright-top-end voice — appropriate for an album whose production prioritizes weight and intensity over the polished clarity of *Found in Far Away Places*.
 
+## Phantom Anthem: Grammy Recognition on the New Mapex Setup
+
+*Phantom Anthem* (2017) is the album that brought August Burns Red their most significant individual track recognition — a Grammy nomination for "King of Sorrow" at the 60th Grammy Awards. For Matt Greiner, it validated what the metalcore community had recognized for years: that his approach — jazz-informed musicality applied to aggressive music, lever-driven double-bass efficiency, ghost note density that adds textural complexity without sacrificing heaviness — was operating at a level that Grammy voters could recognize as exceptional.
+
+The Mapex Black Panther Design Lab / Zildjian A Custom + Sabian AAX / DW 9000 Series setup that powered *Phantom Anthem* represents the first full album cycle on the gear Greiner switched to in 2016, after leaving Pearl. The foundational choices — shell construction, pedal mechanism, stick spec — had already stabilized on the new brands. The cymbal evolution to Zildjian A Custom brought a brighter, more aggressive surface voice on top, suited to *Phantom Anthem*'s production character while maintaining the precision that Greiner's technical approach demands.
+
+**For Drummers Studying Phantom Anthem:**
+Begin with "King of Sorrow." Study the blast-to-groove transitions — the moment where a blast beat sequence locks into a groove pattern is Greiner's most recognizable compositional signature, and *Phantom Anthem* contains refined versions. Note the ghost note integration beneath the melodic sections: those subtle dynamics are what earned Grammy attention, because they demonstrate musicality inside aggression. Then examine how the Zildjian A Custom hi-hats' fast response enables the open/closed pattern variations that add rhythmic texture throughout the track.
+
+**The ABR Arc:**
+*Phantom Anthem* fills the 2017 position in the complete August Burns Red drum story. Trace it: [Leveler (2011)](/articles/leveler-drum-setup) established the Ludwig Classic Maple era. [Found in Far Away Places (2015)](/articles/found-in-far-away-places-drum-setup) closed out the Pearl Reference Pure era. *Phantom Anthem* (2017) opens on the Mapex Black Panther Design Lab setup Greiner adopted in 2016, paired with a brighter cymbal voice, and earned the Grammy nomination. For the full arc including Greiner's current setup, see the [Matt Greiner complete drum setup guide](/articles/matt-greiner-complete-drum-setup).
+
 ## Key Facts
 
 - Released September 15, 2017 on Fearless Records — bridge between Found in Far Away Places (2015) and Beacon (2023)
 - "King of Sorrow" nominated for Best Metal Performance at the 60th Grammy Awards (2018) — highest single-track recognition in ABR's career
 - Matt Greiner switched from Meinl Byzance to Zildjian A Custom / Sabian AAX — a brighter, more aggressive cymbal voice for the album's denser production
-- Pearl Reference Pure kit and Pearl Demon Drive pedal continued from the Found in Far Away Places era
-- Pearl Reference Pure carried directly from Found in Far Away Places era — the foundational shell choice had stabilized
-- Maple/mahogany hybrid construction: tighter attack profile suited Phantom Anthem's denser, more compressed production aesthetic
+- Mapex Black Panther Design Lab kit and DW 9000 Series double pedal, both adopted in the 2016 switch from Pearl, carried the entire Phantom Anthem cycle
+- Mapex Black Panther Design Lab — the kit Greiner switched to in 2016 after leaving Pearl, now settled as his foundational shell choice
+- Maple/walnut hybrid construction: tighter attack profile suited Phantom Anthem's denser, more compressed production aesthetic
 - Double 22" bass drums continued — lever-driven technique demands two fully independent, matched kick drums
 - Compact tom configuration (10", 12" rack, 16" floor) emphasizes compositional fill choices over linear kit sweeps
-- Estimated kit value: $3,500–5,500 (2017) / $2,500–4,000 (used today)
-- Estimated snare value: $400–600 (2017) / $300–500 (used today)
+- Estimated kit value: $2,800–4,500 (2017) / $2,200–3,800 (used today)
+- Estimated snare value: $300–450 (2017) / $250–400 (used today)
 
 ## Frequently Asked Questions
 
 **Q: What cymbals does Matt Greiner use on Phantom Anthem?**
 
-A: On *Phantom Anthem* (2017), Matt Greiner switched from Meinl Byzance to a hybrid Zildjian A Custom / Sabian AAX setup — the most significant gear change between *Found in Far Away Places* and this album. The Zildjian A Custom series delivers a brighter, more aggressive top-end character suited to *Phantom Anthem*'s denser production, while the Sabian AAX China provides cutting accent character. For comparison with his earlier Byzance setup, see the [Found in Far Away Places drum setup](/articles/found-in-far-away-places-drum-setup).
+A: On *Phantom Anthem* (2017), Matt Greiner switched from Meinl Byzance to a hybrid Zildjian A Custom / Sabian AAX setup — the main gear change for this specific album, on top of the bigger 2016 switch from Pearl to Mapex Black Panther Design Lab drums. The Zildjian A Custom series delivers a brighter, more aggressive top-end character suited to *Phantom Anthem*'s denser production, while the Sabian AAX China provides cutting accent character. For comparison with his earlier Byzance setup, see the [Found in Far Away Places drum setup](/articles/found-in-far-away-places-drum-setup).
 
 **Q: Was Phantom Anthem Grammy-nominated?**
 
-A: Yes. "King of Sorrow" from *Phantom Anthem* (2017) was nominated for Best Metal Performance at the 60th Grammy Awards in January 2018 — the highest single-track recognition of August Burns Red's career. Matt Greiner's drumming on the track — blast sequences, ghost note layers, and blast-to-groove transitions executed on the Pearl Reference Pure kit — was a central factor in what made the track Grammy-eligible.
+A: Yes. "King of Sorrow" from *Phantom Anthem* (2017) was nominated for Best Metal Performance at the 60th Grammy Awards in January 2018 — the highest single-track recognition of August Burns Red's career. Matt Greiner's drumming on the track — blast sequences, ghost note layers, and blast-to-groove transitions executed on the Mapex Black Panther Design Lab kit — was a central factor in what made the track Grammy-eligible.
 
 **Q: What tuning does Matt Greiner use on Phantom Anthem?**
 
-A: Greiner tunes his Pearl Matt Greiner Signature snare at medium-high tension — bright steel attack with controlled warmth, preserving both ghost note sensitivity and the projection of power accent strokes. Pearl Reference Pure toms are tuned for articulate attack rather than warmth, suiting *Phantom Anthem*'s compressed, aggressive production. Kick drums use Remo Powerstroke 3 heads for focused low-end attack. For his complete current tuning philosophy, see the [Matt Greiner complete drum setup guide](/articles/matt-greiner-complete-drum-setup).
+A: Greiner tunes his Mapex Black Panther maple snare at medium tension — warmth and articulation across the dynamic range, preserving both ghost note sensitivity and the projection of power accent strokes. Mapex Black Panther Design Lab toms are tuned for articulate attack rather than warmth, suiting *Phantom Anthem*'s compressed, aggressive production. Kick drums use Evans EMAD2 heads for focused low-end attack. For his complete current tuning philosophy, see the [Matt Greiner complete drum setup guide](/articles/matt-greiner-complete-drum-setup).
 
 **Q: How does Phantom Anthem fit in the August Burns Red discography?**
 
-A: *Phantom Anthem* (2017) fills the gap between *Found in Far Away Places* (2015) — ABR's Gold-certified commercial peak — and *Beacon* (2023), their most recent studio record. It's the album that earned ABR's highest Grammy recognition with "King of Sorrow" (Best Metal Performance nomination, 2018). The gear continuity with *Found in Far Away Places* (same Pearl Reference Pure kit, same Pearl Demon Drive) shows how Greiner's setup had stabilized, while the cymbal shift to Zildjian A Custom / Sabian AAX marks the key sonic evolution. See the full ABR arc: [Leveler (2011)](/articles/leveler-drum-setup) → [Found in Far Away Places (2015)](/articles/found-in-far-away-places-drum-setup) → Phantom Anthem (2017).
+A: *Phantom Anthem* (2017) fills the gap between *Found in Far Away Places* (2015) — ABR's Gold-certified commercial peak — and *Beacon* (2023), their most recent studio record. It's the album that earned ABR's highest Grammy recognition with "King of Sorrow" (Best Metal Performance nomination, 2018). Greiner's switch from Pearl to Mapex Black Panther Design Lab and DW 9000 Series in 2016 was already settled by this point, while the cymbal shift to Zildjian A Custom / Sabian AAX marks the key sonic evolution for this album. See the full ABR arc: [Leveler (2011)](/articles/leveler-drum-setup) → [Found in Far Away Places (2015)](/articles/found-in-far-away-places-drum-setup) → Phantom Anthem (2017).
 
 **Source:** https://metalforge.io/articles/abr-phantom-anthem-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

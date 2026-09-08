@@ -22,7 +22,7 @@ This article breaks down the gear Ray Luzier used for *The Path of Totality* ses
 - **Drums:** DW DW Collector's Series (Custom finish (matching Korn's touring configuration for the era) finish)
 - **Snare:** DW DW Collector's Series 14" × 5.5", 14" × 5.5"
 - **Cymbals:** Paiste / Meinl — Paiste 2002 / Meinl Byzance
-- **Hardware / Pedals:** DW 9002 Double Bass Pedal; Promark Hickory 5B; DW 9000 Series Round Throne; Evans EC2 Coated; Evans EMAD2
+- **Hardware / Pedals:** DW 9002 Double Bass Pedal; Vic Firth Ray Luzier Signature; DW 9000 Series Round Throne; Evans EC2 Coated; Evans EMAD2
 - **Heads:** Remo Coated Emperor (batter), Remo Hazy Ambassador Snare Side (resonant)
 - **Snare tuning:** Medium-high tension, moderate snare wires for clean attack within dense electronic production
 
@@ -51,6 +51,18 @@ Luzier's Paiste 2002 and Meinl Byzance cymbal combination continued on *The Path
 The Paiste 2002 Sound Edge Hi-Hats were critical for groove definition. In tracks where the kick drum and snare must coexist with programmed bass and electronic percussion elements, the hi-hat becomes the most clearly identifiable 'live' groove element — its organic opening and closing motion and natural dynamic variation marking the track as performed rather than entirely produced. The 2002's bright, cutting character ensured the hi-hat remained audible even in Skrillex's dense mixes.
 
 The Meinl Byzance China's dark, complex tonal character provided an interesting textural complement to *The Path of Totality*'s electronic sound design. Where electronic producers use reverb and effects to create decay and atmosphere, the Byzance China's natural wash and complex overtone structure offered an organic version of similar sonic qualities — accents that didn't sound mechanical even in a mechanically produced context.
+
+## The Session Player in the Electronic Storm
+
+*The Path of Totality* demonstrated something about Ray Luzier that pure nu-metal records cannot: the depth of his musicianship beyond the specific demands of Korn's traditional sound. The album's polarizing critical reception missed a more interesting story — a professional drummer navigating one of the most unusual recording contexts in rock history and delivering performances that served the music rather than the drummer's ego.
+
+His DW Collector's Series kit, Paiste 2002 and Meinl Byzance cymbals, and DW 9002 pedals were deployed here with restraint and precision — a different application of the same professional quality that drove *Korn III*'s back-to-basics aggression.
+
+For the complete Ray Luzier picture:
+- **Full drummer profile**: [Ray Luzier at MetalForge](/drummer/ray-luzier)
+- **Complete current kit guide**: [What's in Ray Luzier's kit?](/articles/whats-in-ray-luziers-kit)
+- **Earlier Luzier era**: [Korn III Drum Setup (2010)](/articles/korn-iii-drum-setup)
+- **Nu-metal context**: [Nu-Metal Drum Setups](/articles/nu-metal-drum-setups)
 
 ## Key Facts
 
@@ -94,4 +106,4 @@ A: Ray Luzier used the DW 9002 double bass pedal on The Path of Totality (2011),
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

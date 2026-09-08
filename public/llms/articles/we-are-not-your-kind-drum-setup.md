@@ -1,6 +1,6 @@
 # We Are Not Your Kind — Slipknot Drum Setup (Jay Weinberg, 2019)
 
-> Grammy-winning WANYK (2019): Jay Weinberg's evolved Pearl Reference Pure, Zildjian A+K Custom hybrid cymbals, DW 9000 double pedal. Complete drum setup breakdown for Slipknot's #1 US/UK album.
+> Grammy-winning WANYK (2019): Jay Weinberg's switch to SJC Custom Drums and Tama SLP snare, Zildjian A+K Custom hybrid cymbals, DW 9000 double pedal. Complete drum setup breakdown for Slipknot's #1 US/UK album.
 
 **Type:** Album Drum Setup
 **Drummer(s):** [Jay Weinberg](/llms/drummers/jay-weinberg.md)
@@ -17,34 +17,32 @@ The album won the Grammy Award for Best Metal Performance in 2021, with the trac
 
 The commercial response was equally emphatic: WANYK debuted at #1 on the US Billboard 200 and at #1 in the UK, making it Slipknot's first album to top the American chart. For a band recording their fifth studio album 22 years into their career, it represented a remarkable second wind — driven in no small part by the energy Weinberg brought to the rhythm section.
 
-This article covers the drum gear Jay Weinberg used on *We Are Not Your Kind*: the evolved Pearl Reference Pure shell pack, his hybrid Zildjian A and K Custom cymbal setup, DW 9000 double pedal with Pearl Demon Drive triggers, Evans heads, and Vic Firth signature sticks. For his Gray Chapter setup, see [The Gray Chapter drum setup](/articles/the-gray-chapter-drum-setup). For the complete career overview, see the [Jay Weinberg complete drum setup guide](/articles/jay-weinberg-complete-drum-setup).
+This article covers the drum gear Jay Weinberg used on *We Are Not Your Kind*: his switch to a boutique SJC Custom Drums shell pack and Tama SLP snare, his hybrid Zildjian A and K Custom cymbal setup, DW 9000 double pedal with Pearl Demon Drive triggers, Evans heads, and Vic Firth signature sticks. For his Gray Chapter setup, see [The Gray Chapter drum setup](/articles/the-gray-chapter-drum-setup). For the complete career overview, see the [Jay Weinberg complete drum setup guide](/articles/jay-weinberg-complete-drum-setup).
 
 ## Gear Breakdown
 
-- **Drums:** Pearl Pearl Reference Pure (Custom Slipknot finish (darker than natural Gray Chapter configuration) finish)
-- **Snare:** Pearl Pearl Reference Pure 14" Snare, 14" x 6.5"
+- **Drums:** SJC Custom Drums SJC Custom Series (Custom Slipknot-themed finishes (black, custom wraps) finish)
+- **Snare:** Tama Tama SLP (Sound Lab Project), 14" x 6.5"
 - **Cymbals:** Zildjian — Zildjian A Series + K Custom Hybrid
 - **Hardware / Pedals:** DW 9000 Series Double Bass Pedal; Pearl Demon Drive Triggers; Vic Firth Jay Weinberg Signature; Evans EC2 and EMAD2 series
 - **Heads:** Evans EC2 Coated (batter), Evans 300 Snare Side (resonant)
 - **Snare tuning:** Higher tension than Gray Chapter — tighter crack for denser WANYK production
 
-### Pearl Reference Pure: The Evolved WANYK Setup
+### SJC Custom Drums: The WANYK Setup Shift
 
-By the time Slipknot entered the studio for *We Are Not Your Kind* in 2018–2019, Jay Weinberg had refined his Pearl Reference Pure setup considerably beyond its Gray Chapter configuration. The most visible change was the expanded tom array: WANYK sessions used a wider tom spread (five rack toms plus two floor toms) compared to the more standard four-rack setup of the debut. This expansion gave Weinberg the full melodic range of fills that the album's more compositionally complex arrangements required.
+By the time Slipknot entered the studio for *We Are Not Your Kind* in 2018–2019, Jay Weinberg had moved away from the production Pearl Reference Pure shells that carried his Gray Chapter debut, switching to a boutique, hand-built SJC Custom Drums kit finished to match Slipknot's stage aesthetic. SJC (Scott Johnson Customs), based in Marlborough, Massachusetts, builds drums to individual artist specifications — giving Weinberg a kit tailored exactly to his touch, tuning preferences, and the band's visual identity.
 
-The Reference Pure's maple/birch hybrid shells continued to deliver the controlled attack and clean sustain that Greg Fidelman's production approach favored. Five years of live touring with the kit had given Weinberg intimate knowledge of how it responded across different acoustic environments — knowledge he applied in the studio to produce performances that translated from the tracking room to the final mix with minimal correction.
+SJC's maple shells deliver a warmer, more full-bodied attack than the Reference Pure's maple/birch hybrid construction — a character suited to the denser, more atmospheric production Greg Fidelman built for WANYK. Custom hardware finishes matched the band's iconic visual aesthetic, replacing the Gray Chapter kit's understated natural finish with a setup that was unmistakably Slipknot on stage.
 
-One significant evolution was the finish: where the Gray Chapter kit wore a more understated natural finish, the WANYK configuration adopted a darker visual identity aligned with the album's atmospheric aesthetic. Slipknot's live production for the WANYK era was darker and more elaborate than the Gray Chapter tour — the drum kit's appearance was part of this expanded visual package.
+The double 22" x 18" bass drums remained the foundation, with Weinberg's double-kick technique fully matured by the WANYK sessions. Tracks like "Nero Forte" and "Birth of the Cruel" feature double-bass patterns of exceptional density and precision.
 
-The double 22" bass drums remained the foundation, with Weinberg's double-kick technique fully matured by the WANYK sessions. Tracks like "Nero Forte" and "Birth of the Cruel" feature double-bass patterns of exceptional density and precision — the product of years of live performance that had stress-tested the Reference Pure kick shells under real touring conditions.
+The tom configuration — four rack toms (8", 10", 12", 13") plus two floor toms (16", 18") — gave Weinberg the full melodic range of fills that the album's more compositionally complex arrangements required, with the floor toms seeing increased compositional use on WANYK compared to the Gray Chapter's more standard layout.
 
-The floor toms (16" and 18") saw increased compositional use on WANYK compared to the Gray Chapter, with Weinberg incorporating lower-register fill work that served the album's heavier, more orchestral arrangements. The Reference Pure's warm low-end resonance in the floor toms contributed to the album's characteristic density.
+### The WANYK Crack: A New Tama SLP Snare
 
-### The WANYK Crack: Heavier Tuning for Denser Production
+The snare approach on *We Are Not Your Kind* reflects the album's overall move toward a denser, darker sound palette. Jay Weinberg moved on from the Pearl Reference Pure snare he used on the Gray Chapter, switching to a Tama SLP (Sound Lab Project) — a boutique snare chosen for immediate attack and controlled sustain that also proved sensitive enough to register the ghost notes Weinberg developed from his hardcore background.
 
-The snare approach on *We Are Not Your Kind* reflects the album's overall move toward a denser, darker sound palette. Jay Weinberg retained his Pearl Reference Pure 14" snare — the same basic instrument as the Gray Chapter sessions — but refined the tuning and head selection to serve Fidelman's more atmospheric production approach.
-
-Where the Gray Chapter snare sat with a relatively open, natural tone in a production designed to preserve acoustic character, the WANYK snare tuning moved toward slightly higher tension with tighter snare wire adjustment — producing a crisper, more defined crack that could cut through the album's increased sonic density without excessive processing.
+Where the Gray Chapter snare sat with a relatively open, natural tone in a production designed to preserve acoustic character, the WANYK snare tuning moved toward slightly higher tension with tighter snare wire adjustment — producing a crisper, more defined crack that could cut through the album's increased sonic density without excessive processing. The Tama SLP's floating bearing edge construction supports this dynamic range.
 
 Evans EMAD2 heads (on the kick) and EC2 heads (on the snare batter) gave Weinberg a controlled, consistent response across the recording sessions. The EC2's built-in damping ring eliminated the overtones that would otherwise compete with the album's darker atmospheric elements — tracks like "Solway Firth" and "A Liar's Funeral" feature passages where the drum sound needed to integrate with cinematic elements rather than dominate them.
 
@@ -62,28 +60,41 @@ The K Custom 20" ride gave Weinberg a riding sound with genuine complexity — t
 
 This hybrid cymbal philosophy — mixing series within the same brand to achieve a target sound — is sophisticated gear thinking that reflects five years of professional development. The Gray Chapter setup was a drummer finding his tools; the WANYK setup was a drummer who knew exactly why each choice served the record.
 
+## We Are Not Your Kind: Jay Weinberg at the Peak of His Slipknot Career
+
+*We Are Not Your Kind* is the definitive Jay Weinberg Slipknot record — the album where his voice as a drummer is fully present, fully developed, and fully recognized. A #1 album in the United States and the United Kingdom. A Grammy Award for Best Metal Performance. A drum performance on "Nero Forte" that earned co-writing credit and global critical recognition. These are not the achievements of a replacement; they are the achievements of a musician who had made the role his own.
+
+The equipment that made these recordings possible — the new SJC Custom Drums shell pack, the Tama SLP snare, the Zildjian A + K Custom hybrid cymbal setup, the DW 9000 double pedal, the Pearl Demon Drive triggers, the Evans EMAD2 heads, the Vic Firth signature sticks — represents a drummer who understood exactly why each piece of gear served the music. The hybrid cymbal approach in particular reflects sophisticated tonal thinking: mixing series to achieve a target sound, not selecting endorsement products by default.
+
+For drummers studying WANYK, the rewards are in the details. Listen to the polyrhythmic patterns in "Nero Forte"'s verse against the 4/4 pulse of the track. Hear the dynamic control across "Solway Firth" — from the restrained verse groove to the full-power chorus. Track the floor tom usage across the album, more prominent than on the Gray Chapter, more compositionally integrated into the arrangements.
+
+The gear is accessible. SJC-style boutique kits, Tama SLP snares, Zildjian cymbals, DW pedals, Evans heads — all are available to working drummers at professional price points. What is not accessible, except through years of dedicated work, is the musical intelligence to deploy them in service of compositions as demanding and as good as *We Are Not Your Kind*.
+
+For the full picture of Jay Weinberg's Slipknot drum journey, see [The Gray Chapter drum setup](/articles/the-gray-chapter-drum-setup) and the [Jay Weinberg complete drum setup guide](/articles/jay-weinberg-complete-drum-setup).
+
 ## Key Facts
 
 - Grammy Award for Best Metal Performance 2021 — "Nero Forte"
 - #1 US Billboard 200 and #1 UK — Slipknot's first US #1 album
-- Pearl Reference Pure evolved setup — expanded tom configuration vs Gray Chapter
+- Switched from the Gray Chapter's Pearl Reference Pure to a boutique SJC Custom Drums shell pack
+- New Tama SLP snare replacing the Pearl Reference Pure snare used on the debut
 - Hybrid Zildjian A + K Custom cymbal approach for darker tonal character
 - DW 9000 double pedal with Pearl Demon Drive triggers for live/studio hybrid
 - Evans EC2 and EMAD2 heads throughout — denser batter construction for heavier playing
 - Greg Fidelman production again — darker, more atmospheric approach than 2014
-- Expanded tom configuration vs Gray Chapter — five rack toms plus two floor toms
+- Switched from Pearl Reference Pure to boutique SJC Custom Drums for WANYK
 - Darker visual finish aligned with WANYK album aesthetic
-- Same Reference Pure maple/birch hybrid shells — refined through five years of touring
-- Double 22" bass drums — kick technique fully matured by WANYK sessions
+- SJC maple shells for warmer, fuller attack than the Reference Pure hybrid shells
+- Double 22" x 18" bass drums — kick technique fully matured by WANYK sessions
 - Floor toms more prominent compositionally than on Gray Chapter
-- Estimated kit value: $4,000–6,000 (Pearl Reference Pure expanded configuration, 2019)
-- Estimated snare value: $400–550 (Pearl Reference Pure snare, 2019)
+- Estimated kit value: $4,000–8,000 (SJC Custom shell pack, 2019)
+- Estimated snare value: $300–600 (Tama SLP series, 2019)
 
 ## Frequently Asked Questions
 
 **Q: What drum kit does Jay Weinberg use on We Are Not Your Kind?**
 
-A: Jay Weinberg used an evolved Pearl Reference Pure setup on We Are Not Your Kind (2019), featuring an expanded tom configuration compared to The Gray Chapter — five rack toms (8", 10", 12", 14", 16") plus two floor toms (16", 18"), and double 22" bass drums. The Reference Pure's maple/birch hybrid shells were paired with Evans EMAD2 kick heads and EC2 batter heads throughout. Pearl Demon Drive triggers were integrated on the bass drums for the album's dense, hybrid production approach.
+A: Jay Weinberg switched to a boutique SJC Custom Drums shell pack on We Are Not Your Kind (2019), moving on from the Pearl Reference Pure kit he played on The Gray Chapter. The SJC configuration features four rack toms (8", 10", 12", 13") plus two floor toms (16", 18"), and double 22" x 18" bass drums, with maple shells finished in custom Slipknot-themed wraps. Evans EMAD2 kick heads and EC2 batter heads were used throughout, with Pearl Demon Drive triggers integrated on the bass drums for the album's dense, hybrid production approach.
 
 **Q: Did Jay Weinberg win a Grammy for We Are Not Your Kind?**
 
@@ -91,7 +102,7 @@ A: Yes — Slipknot won the Grammy Award for Best Metal Performance in 2021 for 
 
 **Q: How does Jay Weinberg's setup differ between The Gray Chapter and We Are Not Your Kind?**
 
-A: The most significant change between Jay Weinberg's Gray Chapter (2014) and WANYK (2019) setups was the cymbal configuration. On the Gray Chapter, Weinberg used a pure Zildjian A series setup; on WANYK he adopted a hybrid A and K Custom approach — retaining A series hi-hats and China for attack and clarity, while adding K Custom Dark crashes and a K Custom ride for darker, more complex crash and ride character suited to the album's atmospheric production. The drum kit itself evolved from a standard Reference Pure configuration to an expanded tom setup (5 rack toms + 2 floor toms), and Evans EMAD2 heads replaced EMAD for heavier batter construction. Pearl Demon Drive triggers were also more prominent in the WANYK mix.
+A: The most significant changes between Jay Weinberg's Gray Chapter (2014) and WANYK (2019) setups were the drum kit, snare, and cymbal configuration. Weinberg switched from a Pearl Reference Pure kit and snare to a boutique SJC Custom Drums shell pack and a Tama SLP snare. On the cymbal side, the Gray Chapter used a pure Zildjian A series setup; on WANYK he adopted a hybrid A and K Custom approach — retaining A series hi-hats and China for attack and clarity, while adding K Custom Dark crashes and a K Custom ride for darker, more complex crash and ride character suited to the album's atmospheric production. Evans EMAD2 heads replaced EMAD for heavier batter construction, and Pearl Demon Drive triggers were more prominent in the WANYK mix.
 
 **Q: What cymbals does Jay Weinberg use on We Are Not Your Kind?**
 
@@ -101,4 +112,4 @@ A: Jay Weinberg used a hybrid Zildjian A and K Custom setup on We Are Not Your K
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

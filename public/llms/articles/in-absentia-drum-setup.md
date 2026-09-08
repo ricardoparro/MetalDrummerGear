@@ -45,6 +45,21 @@ By the time Harrison entered the studio for *In Absentia*, his Zildjian K Custom
 
 The 21" Special Dry Ride carries the bulk of the album's groove-based sections, including "Trains" and "The Sound of Muzak," where its dry ping and controlled wash keep the ride pattern distinct even as the arrangement thickens. The 14" Special Dry Hi-Hats drive the intricate rhythmic conversation at the heart of "The Sound of Muzak" — a track that would become one of the most-studied Harrison performances from this era of the band.
 
+## Where the Sonor and Zildjian Story Begins
+
+*In Absentia* (2002) is the starting point for every drum setup story that follows in Gavin Harrison's Porcupine Tree career. The thin maple shells, the developing Sonor relationship that would become the SQ2, and the Zildjian K Custom Special Dry cymbals that never changed for the rest of his tenure — all of it is already present on this record, five years before *Fear of a Blank Planet* made his approach a benchmark for progressive drumming.
+
+What makes *In Absentia* worth studying on its own terms is the immediacy of the fit: Harrison's first session with the band already sounds like a complete musical identity, not a work in progress. "The Sound of Muzak" alone contains the ghost-note layering and odd-meter groove that would define his career.
+
+For drummers approaching this gear:
+
+- **Full drummer profile**: [Gavin Harrison at MetalForge](/drummer/gavin-harrison)
+- **Deadwing gear**: [Deadwing Drum Setup](/articles/deadwing-drum-setup)
+- **Fear of a Blank Planet gear**: [Fear of a Blank Planet Drum Setup](/articles/fear-of-a-blank-planet-drum-setup)
+- **LLM summary**: [In Absentia Drum Setup — LLM](/llms/articles/in-absentia-drum-setup.md)
+
+*In Absentia* proves that Harrison's Porcupine Tree sound didn't need years to develop — it arrived essentially complete, and every album since has been a refinement of what's already audible here.
+
 ## Key Facts
 
 - Recorded at Avatar Studios, New York, with additional sessions across four other studios
@@ -82,4 +97,4 @@ A: "The Sound of Muzak" is the most studied Gavin Harrison performance on In Abs
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

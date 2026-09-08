@@ -46,6 +46,14 @@ Travis's cymbal setup on Demolition is identical to Jugulator's, the same Paiste
 
 The 14" Sound Edge Hi-Hats continue to provide the tighter, more controlled chick that suits groove-based material better than a bright, washy hi-hat would. The 18" China gets a heavier workout here than on Jugulator, punctuating the mechanical, stop-start rhythms of "Machine Man" and the angular patterns of "Cyberface."
 
+## Closing the Owens Chapter
+
+Demolition closed the book on Judas Priest's seven-year, two-album experiment without Rob Halford. It's a harder, darker, more contemporary-sounding record than Jugulator, pushing the band's downtuned pivot further into nu-metal and industrial territory, and it gave Scott Travis his only songwriting credit in the band's history, a small but meaningful mark of how central he'd become to Priest's creative process by 2001.
+
+Gear-wise, Demolition is a story of refinement rather than reinvention: the same Tama Artstar II kit, the same Paiste RUDE/2002 cymbal voice, with Yamaha hardware layered in alongside the established DW/Gibraltar rig. It's the sound of a drummer who had already found his post-Painkiller identity on Jugulator and simply kept building on it.
+
+Two years after Demolition's release, Rob Halford rejoined Judas Priest, and Travis's gradual migration off this Tama rig toward Pearl was already underway by Angel of Retribution (2005). For drummers tracing the full arc of Scott Travis's career, Painkiller's speed-metal blitz, the Owens-era pivot toward groove and industrial textures on Jugulator and Demolition, and the mature, song-serving drummer of the Halford-reunion years, Demolition is the essential missing link.
+
 ## Key Facts
 
 - Second and final Tim "Ripper" Owens album — released July 2001, two years before Rob Halford's 2003 return
@@ -87,4 +95,4 @@ A: Demolition (2001) continues the same Tama Artstar II / Paiste RUDE/2002 setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-08-26 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

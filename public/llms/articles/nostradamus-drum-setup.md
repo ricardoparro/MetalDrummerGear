@@ -54,6 +54,16 @@ The range of crashes — 16" through 20", mixing AA brightness with the HH 19" C
 
 For a double concept album that required Travis to play with unprecedented restraint in some sections and full-force aggression in others, this Sabian hybrid setup was the right toolkit.
 
+## Architecture Over Attack
+
+*Nostradamus* is the most unusual album in Judas Priest's catalogue — and Scott Travis's most unusual performance within the band's history. The speed is still present when the songs demand it, but *Nostradamus* asked Travis for something more sophisticated: the ability to think architecturally across a 23-track double concept album, to know when a floor-tom pulse serves the narrative better than a double-kick blast, to let orchestral arrangements breathe without the drums competing for space.
+
+The Pearl Reference Series kit — the platform Travis had moved onto for Angel of Retribution three years earlier — was the right tool for this assignment. Its versatility across dynamic ranges made it capable of serving both the album's heaviest moments and its quietest without requiring a setup change. The Sabian HH/AA cymbal setup provided the tonal options that a 23-track arc demands.
+
+For drummers studying Travis's career, *Nostradamus* is the evidence that there is more to his playing than the legendary Painkiller title track intro. It is the album that proves he could serve a story, not just a beat. The restraint documented here would inform the mature, song-focused drumming he'd bring to *Redeemer of Souls* (2014) and *Firepower* (2018) in the years that followed.
+
+The concept album that asked heavy metal's most in-demand speed drummer to slow down — and proved he could.
+
 ## Key Facts
 
 - Double concept album spanning 23 tracks and over two hours — Judas Priest's most ambitious studio project
@@ -91,4 +101,4 @@ A: Scott Travis used Sabian HH and AA series cymbals on Nostradamus — the same
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-08-24 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

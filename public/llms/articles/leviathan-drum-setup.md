@@ -38,7 +38,7 @@ The double bass drum configuration — two 22" x 18" kicks rather than the singl
 
 The tom configuration — 10" and 12" rack toms, 14" and 16" floor toms — is denser than a conventional rock four-piece, giving Dailor a four-pitch melodic palette. This is the configuration around which his cascading fills are built. When the *Leviathan* fills appear to "tumble" across the kit — most famously on "Blood and Thunder" and "Aqua Dementia" — that tumbling effect is a function of having four adjacent tom pitches close enough to read as melodic intervals rather than as separate percussive events.
 
-This is the kit that established Mastodon's relationship with Tama and that defined the band's drum sound from *Leviathan* (2004) through *Blood Mountain* (2006). For Dailor's later DW Collector's Series setup on [Crack the Skye](/articles/crack-the-skye-drum-setup) and the subsequent return to Tama Starclassic Maple for [Emperor of Sand](/articles/emperor-of-sand-drum-setup), see those album breakdowns for the complete gear arc.
+This is the kit that established Mastodon's relationship with Tama and that defined the band's drum sound from *Leviathan* (2004) through *Blood Mountain* (2006). For Dailor's later Tama Starclassic Maple setup on [Crack the Skye](/articles/crack-the-skye-drum-setup) and the continuation of that Starclassic Maple line into [Emperor of Sand](/articles/emperor-of-sand-drum-setup), see those album breakdowns for the complete gear arc.
 
 ### The Snare: Brass Crack for the Whale Song
 
@@ -59,6 +59,20 @@ For *Leviathan* specifically, the HHX series was the correct musical choice. The
 The China cymbal is particularly significant on *Leviathan*. Dailor uses it constantly throughout the album — aggressive, trashy accents marking riff transitions across "Blood and Thunder," section boundaries in "Iron Tusk," and the closing intensity of "Hearts Alive." The HHX China's controlled trashiness gives those accents a sonic identity that became part of the album's recognisable character: not a brief decorative splash but a structural compositional element.
 
 For drummers studying how cymbal choice shapes an album's emotional character, the comparison between *Leviathan*'s Sabian HHX setup and the later Meinl Byzance setup on [Crack the Skye](/articles/crack-the-skye-drum-setup) is instructive. Same player, different cymbals, dramatically different result: HHX gives *Leviathan* its bright physicality; Byzance gives *Crack the Skye* its dark atmosphere. See also the [Brann Dailor drummer profile](/drummer/brann-dailor) for the full cymbal evolution.
+
+## Leviathan: The Whale That Made Mastodon — and the Drum Setup That Made the Whale
+
+*Leviathan*'s place in metal history is secure. The Grammy nomination for "Blood and Thunder," the universal critical acclaim, the year-end honours from *Revolver* and others — these confirmed at the time what listeners could hear immediately: that Mastodon was a band of rare compositional ambition, and that Brann Dailor was a drummer operating on a different musical plane than most of his metal peers.
+
+The gear behind that achievement — a Tama Starclassic Bubinga kit, Sabian HHX cymbals, Tama Iron Cobra pedals, and a Tama brass snare — was chosen specifically to serve the album's heavy concept-record character. The dense, focused fundamental of bubinga shells gave Dailor's cascading fills the structural punch they needed to register through dense guitar layering. The bright, cutting HHX cymbals provided an articulate top end that contrasted cleanly against the dark bubinga character. The double-kick architecture of the Iron Cobra pedals drove the album's most physically intense passages with consistency and stamina across full takes.
+
+For drummers studying *Leviathan*, the key takeaways are:
+- Cymbal choice shapes album character. Compare the HHX brightness of *Leviathan* with the Byzance darkness of *Crack the Skye* for the same player on different cymbals.
+- Tom configuration enables melodic vocabulary. The four-tom palette (10", 12", 14", 16") makes Dailor's cascading fills audible as melodic intervals rather than as a wash of percussive events.
+- Double-kick is a compositional tool, not just a velocity exercise. *Leviathan* uses double-kick for visceral physicality and structural drive, not for blast beat shock value.
+- A jazz vocabulary translates beautifully into metal when the gear supports the dynamic range required. Ghost notes, controlled fills, and intricate hi-hat work all register on this kit because the gear choices were made with that vocabulary in mind.
+
+For the complete Brann Dailor gear arc, visit the [Brann Dailor drummer profile](/drummer/brann-dailor) and the related album breakdowns: [Blood Mountain](/articles/blood-mountain-drum-setup) (2006), [Crack the Skye](/articles/crack-the-skye-drum-setup) (2009), and [Emperor of Sand](/articles/emperor-of-sand-drum-setup) (2017). For Mastodon's earlier underground origin, see the [Remission drum setup](/articles/remission-drum-setup). And for what's currently in Brann's kit, see [What's in Brann Dailor's kit](/articles/whats-in-brann-dailors-kit).
 
 ## Key Facts
 
@@ -104,4 +118,4 @@ A: Leviathan was recorded at Studio Litho in Seattle, Washington — Stone Gossa
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

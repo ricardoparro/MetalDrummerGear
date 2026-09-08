@@ -58,6 +58,20 @@ The 18" A Custom China is one of the signature sonic elements of *Constellations
 
 The 10" A Custom Splash adds color accents within fills — bright, fast, and capable of registering distinctly even at low volume. Greiner uses it economically across the album, but where it appears, it functions as a deliberate compositional choice.
 
+## Constellations' Legacy: The Album That Broke ABR Through
+
+*Constellations* (2009) is the album that broke August Burns Red through to the mainstream metal audience and the album that fully established Matt Greiner's playing identity. The combination of Audiohammer production, mature songwriting, and a band that had spent years refining their sound came together on a record that earned the #16 spot on the Billboard 200, took top metalcore album of the year honors, and laid the groundwork for the decade-plus run of acclaimed records that followed.
+
+The Mapex Saturn IV / Zildjian A and Z Custom / Pearl Demon Drive combination that powered *Constellations* defined the pre-*Leveler* ABR sound. The Saturn's hybrid shells delivered the brightness and attack that the production demanded. The Zildjian setup provided both the articulation of the A Custom line and the cutting heaviness of the Z Custom Rock Crash for the breakdowns. The Pearl Demon Drive translated Greiner's lever-driven technique into the consistent, surgical double-bass work that defines the album.
+
+**For Drummers Studying Constellations:**
+The most important lesson from *Constellations* is the same lesson Greiner would expand on for *Leveler* two years later: musical aggression. Study how the snare on "Marianas Trench" sits forward in the mix without dominating. Study how the China cymbal on "Meridian" lands as a compositional accent rather than just a wash element. Study how the sustained double-bass on "The Escape Artist" maintains consistent attack across long passages — and how that consistency comes from technique and pedal choice working together, not from brute force. Then notice that beneath the technical aggression there is always a song; the drums serve the music, never compete with it.
+
+**The Gear Legacy:**
+The Mapex Saturn line continues to be a flagship offering — current Saturn V models retain the hybrid shell philosophy that defined Greiner's *Constellations* kit. Zildjian A Custom and Z Custom cymbals remain in production and remain widely used in metal contexts. The Pearl Demon Drive evolved through several spec updates but remains a benchmark direct-drive double pedal.
+
+For Matt Greiner's current gear — the Pearl Reference Pure and Meinl Byzance setup he plays today — see the [Matt Greiner complete drum setup guide](/articles/matt-greiner-complete-drum-setup). For the next chapter of his recorded sound, see the [Leveler drum setup article](/articles/leveler-drum-setup). For the broader context of his influence on metalcore drumming, see his [full drummer profile](/drummer/matt-greiner).
+
 ## Key Facts
 
 - Released July 14, 2009 on Solid State Records — ABR's metalcore breakthrough album
@@ -99,4 +113,4 @@ A: Matt Greiner's snare on *Constellations* came from Mapex's Black Panther seri
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

@@ -1,6 +1,6 @@
 # Charlie Benante's Drum Setup on Anthrax's State of Euphoria (1988)
 
-> Complete breakdown of Charlie Benante's drum setup on Anthrax's State of Euphoria (1988). Tama Granstar kit, Bell Brass snare, Sabian cymbals, and the first Anthrax record with Charlie's Remo drumhead endorsement.
+> Complete breakdown of Charlie Benante's drum setup on Anthrax's State of Euphoria (1988). Tama Granstar kit, Bell Brass snare, Paiste cymbals, and the first Anthrax record with Charlie's Remo drumhead endorsement.
 
 **Type:** Album Drum Setup
 **Drummer(s):** [Charlie Benante](/llms/drummers/charlie-benante.md)
@@ -21,7 +21,7 @@ For drummers tracing the arc between Among the Living (1987) and Persistence of 
 
 - **Drums:** Tama Tama Granstar (Black finish)
 - **Snare:** Tama Tama Bell Brass, 14" x 6.5"
-- **Cymbals:** Sabian — Sabian AA / HH
+- **Cymbals:** Paiste — Paiste 2002 / RUDE
 - **Hardware / Pedals:** Tama HP35 Camco; Tama Titan Hi-Hat Stand; Tama Titan / Stage Master; Tama 1st Chair; Pro-Mark Hickory 2B
 - **Heads:** Remo Emperor Coated (batter), Remo Ambassador Snare Side (resonant)
 - **Snare tuning:** High tension for cut and articulation, with snare wires tensioned tight
@@ -46,13 +46,23 @@ Mark Dodson's production captured the Bell Brass's upper-frequency content witho
 
 Today the Bell Brass is rare and expensive, sought after by collectors and working drummers alike. Charlie's use of it on State of Euphoria is one of the most prominent recorded examples in metal.
 
-### Sabian AA / HH Setup at Compass Point
+### Paiste 2002 / RUDE Setup at Compass Point
 
-Charlie Benante's Sabian endorsement is one of the longest-running relationships in metal drumming, and State of Euphoria captures him in the late-80s Sabian AA / HH era — before the proliferation of the modern signature lines. The AA series gave him bright, cutting projection that survived Mark Dodson's aggressive mix, and a handful of HH cymbals appeared where slightly warmer, more controlled response was useful.
+Charlie Benante's Paiste endorsement is one of the longest-running relationships in metal drumming, and State of Euphoria captures him in the late-80s Paiste 2002 / RUDE era — before the proliferation of the modern signature lines. The 2002 series gave him bright, cutting projection that survived Mark Dodson's aggressive mix, and the RUDE crash/ride appeared where a slightly heavier, more controlled response was useful.
 
-The 14" Rock Hats anchored every groove on the album. At thrash tempos, hi-hat articulation makes the difference between a clear, driving pattern and an indistinct wash, and the AA Rock profile gave Charlie a tight, percussive chick that cut through the densest sections.
+The 14" Sound Edge Hi-Hats anchored every groove on the album. At thrash tempos, hi-hat articulation makes the difference between a clear, driving pattern and an indistinct wash, and the wavy-bottom profile gave Charlie a tight, percussive chick that cut through the densest sections.
 
-Multiple crashes in 16", 17", and 18" sizes gave him dynamic range. The 16" provided the fast, sharp attack needed for quick song transitions; the 17" served as the primary workhorse crash; and the 18" handled the album's biggest moments. The 21" Rock Ride supplied the bell-driven accents that punctuate verses and instrumental sections, while the 18" Chinese delivered the trashy bursts that have always been part of Charlie's vocabulary.
+Multiple crashes in 16", 17", and 18" sizes gave him dynamic range. The 16" provided the fast, sharp attack needed for quick song transitions; the 17" served as the primary workhorse crash; and the 18" RUDE handled the album's biggest moments. The 22" Heavy Ride supplied the bell-driven accents that punctuate verses and instrumental sections, while the 18" China delivered the trashy bursts that have always been part of Charlie's vocabulary.
+
+## The Bridge Album in Charlie Benante's Late-80s Arc
+
+State of Euphoria sits in a critical place in Charlie Benante's recorded history. It follows the watershed Among the Living, precedes the more ambitious Persistence of Time, and captures Charlie at the precise moment his identity as a working endorser stabilised — Tama drums, Paiste cymbals, Pro-Mark sticks, Remo heads. Everything that would define his sound for the next two decades is in place on this record.
+
+For drummers studying his evolution, State of Euphoria is the album where the Tama Granstar bridges the Artstar II of Among the Living and the kits to come; where the Tama Bell Brass snare provides one of the most prominent recorded examples of that legendary shell; where the Tama HP35 Camco pedals continue the chain-drive legacy that lasted until 2010; and where Charlie's Remo drumhead endorsement makes its first fully credited Anthrax appearance.
+
+Producer Mark Dodson's tighter, drier, more forward approach gave the album a distinctly different sonic personality from its predecessor — and the result is a record that sounds unmistakably late-80s thrash, full of the upper-midrange aggression that defined the era. It remains essential listening for anyone tracing the lineage of Big Four thrash drumming.
+
+For the full Charlie Benante gear story, visit the [Charlie Benante drummer profile](/drummer/charlie-benante). For the album that immediately preceded this one, see the [Among the Living drum setup breakdown](/articles/charlie-benante-among-the-living-drum-setup).
 
 ## Key Facts
 
@@ -86,7 +96,7 @@ A: State of Euphoria was recorded at Compass Point Studios in Nassau, Bahamas, i
 
 **Q: What cymbals did Charlie Benante play on State of Euphoria?**
 
-A: Charlie Benante played Sabian AA / HH cymbals on State of Euphoria — 14" Rock Hats, 16"/17"/18" AA Medium Crashes, a 21" AA Rock Ride, and an 18" AA Chinese. His Sabian endorsement was already well established by 1988, and the AA series gave him the bright, cutting projection needed to cut through Mark Dodson's aggressive late-80s thrash mix.
+A: Charlie Benante played Paiste 2002 / RUDE cymbals on State of Euphoria — 14" Sound Edge Hi-Hats, 16"/17" 2002 Medium Crashes, an 18" RUDE Crash/Ride, a 22" 2002 Heavy Ride, and an 18" 2002 China. His Paiste endorsement was already well established by 1988, and the 2002 series gave him the bright, cutting projection needed to cut through Mark Dodson's aggressive late-80s thrash mix.
 
 **Q: Why is State of Euphoria important in Charlie Benante's gear story?**
 
@@ -100,4 +110,4 @@ A: State of Euphoria debuted at #30 on the Billboard 200 — Anthrax's highest c
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

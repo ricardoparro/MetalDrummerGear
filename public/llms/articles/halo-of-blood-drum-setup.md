@@ -13,7 +13,7 @@ Released on June 7, 2013, Halo of Blood is Children of Bodom's eighth full-lengt
 
 For Jaska Raatikainen, Halo of Blood meant no gear changes at all — a rare stretch of stability in a catalog otherwise marked by steady equipment evolution. The Pearl Masters MCX shells that had reached their refined form on Relentless Reckless Forever carried over unchanged, paired with the same settled Zildjian A Custom and K Custom cymbal configuration and the same Pearl Eliminator double pedal that had anchored his double-kick work since Are You Dead Yet? (2005). Where earlier albums documented transition or refinement, Halo of Blood documents pure consolidation: eight years of Pearl ownership distilled into the tightest, most economical drum performance of the band's Nuclear Blast era.
 
-Opener "Waste of Skin" throws the full Pearl Eliminator authority at the listener from the first bar, while the title track "Halo of Blood" balances that aggression with the melodic tom phrasing that has defined Raatikainen's playing since Hatebreeder (1999). This article breaks down every component of Raatikainen's setup on Halo of Blood — the Pearl Masters MCX shells, the Zildjian cymbal configuration, the Pearl Eliminator double pedal, and the Sonic Pump Studios session that closed out the Pearl Masters decade before the DW Collector's Series transition on I Worship Chaos (2015).
+Opener "Waste of Skin" throws the full Pearl Eliminator authority at the listener from the first bar, while the title track "Halo of Blood" balances that aggression with the melodic tom phrasing that has defined Raatikainen's playing since Hatebreeder (1999). This article breaks down every component of Raatikainen's setup on Halo of Blood — the Pearl Masters MCX shells, the Zildjian cymbal configuration, the Pearl Eliminator double pedal, and the Sonic Pump Studios session that carried the settled Pearl Masters decade into I Worship Chaos (2015) and beyond.
 
 ## Gear Breakdown
 
@@ -46,6 +46,16 @@ The A Custom series' bright, cutting character remained the correct tool for CoB
 
 The K Custom 20" ride continued its role as the warmer counterpoint to the brighter A Custom crashes, particularly audible in "Transference" and "Damaged Beyond Repair," where the ride's darker bell tone supports the album's more melodic, mid-tempo passages. The A Custom China above the floor tom marks structural transitions across the record with the same signature deployment pattern established on Blooddrunk and carried through Relentless Reckless Forever.
 
+## Consolidation, Not Change: Halo of Blood and the End of the Pearl Era
+
+Halo of Blood (2013) is the rare Jaska Raatikainen album that introduces nothing new — no shell upgrade, no cymbal swap, no pedal change. Instead, it captures eight years of Pearl Masters, Zildjian, and Eliminator familiarity distilled into the most confident, economical drum performance of CoB's Nuclear Blast era, recorded for the fourth straight time with Anssi Kippo at Sonic Pump Studios.
+
+What makes Halo of Blood worth studying is exactly this absence of drama: "Waste of Skin" delivers the Pearl Eliminator at total command from the album's opening bar, and the title track balances that aggression with the melodic tom language Raatikainen had been refining since Hatebreeder (1999). Neither track needed to reintroduce the listener to new gear — every component was already a known quantity.
+
+For Drummers Studying Halo of Blood: Start with "Waste of Skin" for the Pearl Eliminator at its most assured, then compare directly to "Shovel Knockout" from Relentless Reckless Forever to hear how little changed between the two albums — deliberately so. Then listen to the title track for the MCX kit's melodic side, tracking Janne Wirman's keyboard lines with the same compositional precision found throughout the Pearl era.
+
+For the complete picture of Jaska Raatikainen's gear arc — including what came immediately after this album — see the [Jaska Raatikainen drummer profile](/drummer/jaska-raatikainen), the [Relentless Reckless Forever drum setup](/articles/relentless-reckless-forever-drum-setup), and the [I Worship Chaos drum setup](/articles/i-worship-chaos-drum-setup), which documents the same Pearl Masters kit continuing under a new producer.
+
 ## Key Facts
 
 - Released June 7, 2013 — Children of Bodom's eighth studio album on Nuclear Blast
@@ -53,12 +63,12 @@ The K Custom 20" ride continued its role as the warmer counterpoint to the brigh
 - Pearl Masters MCX kit carried over unchanged from Relentless Reckless Forever (2011) — the Pearl era's final configuration
 - Zildjian A Custom and K Custom cymbals — the same settled setup running since Are You Dead Yet? (2005)
 - Pearl Eliminator double pedal — eight years of continuous use behind the double-kick work on "Waste of Skin"
-- Last Children of Bodom album on Pearl Masters before the DW Collector's Series transition on I Worship Chaos (2015)
+- Pearl Masters MCX kit and Pearl Eliminator pedal continued unchanged on I Worship Chaos (2015) and Hexed (2019)
 - Pearl Masters MCX — unchanged from Relentless Reckless Forever, no shell adjustments needed
 - Fourth consecutive Kippo-produced Sonic Pump session with this exact kit — zero adjustment period
 - Double 22" x 18" bass drums drive "Waste of Skin" — the album's fastest, most demanding track
 - Compact tom spread (10", 12", 14", 16") continues the melodic fill language refined since Hatebreeder
-- Final studio album on Pearl Masters before the DW Collector's Series transition on I Worship Chaos
+- Pearl Masters MCX configuration carried forward unchanged through I Worship Chaos (2015) and Hexed (2019)
 - Estimated kit value: $2,400–4,800 (Pearl Masters MCX shell pack, 2013)
 - Estimated snare value: $400–620 (Pearl Masters MCX snare, 2013)
 
@@ -78,10 +88,10 @@ A: On Halo of Blood (2013), Jaska Raatikainen used Zildjian A Custom and K Custo
 
 **Q: How does Halo of Blood fit in the Children of Bodom drum setup arc?**
 
-A: Halo of Blood (2013) is the final Children of Bodom studio album on the Pearl Masters MCX kit — it carries the exact gear configuration from Relentless Reckless Forever (2011) unchanged, closing out an eight-year Pearl endorsement era that began on Are You Dead Yet? (2005). It directly precedes I Worship Chaos (2015), where Raatikainen transitioned to the DW Collector's Series. See the [Jaska Raatikainen drummer profile](/drummer/jaska-raatikainen) and the [I Worship Chaos drum setup](/articles/i-worship-chaos-drum-setup) for what came next.
+A: Halo of Blood (2013) carries the Pearl Masters MCX kit and the exact gear configuration from Relentless Reckless Forever (2011) unchanged, continuing the Pearl endorsement era that began on Are You Dead Yet? (2005). Raatikainen kept playing Pearl Masters drums through I Worship Chaos (2015) and Hexed (2019), the band's final album. See the [Jaska Raatikainen drummer profile](/drummer/jaska-raatikainen) and the [I Worship Chaos drum setup](/articles/i-worship-chaos-drum-setup) for what came next.
 
 **Source:** https://metalforge.io/articles/halo-of-blood-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

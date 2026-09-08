@@ -22,7 +22,7 @@ This article breaks down every piece of gear George Kollias used during the "Vil
 - **Drums:** Pearl Pearl Masterworks Stadium Exotic (Piano Black with Gold Hardware finish)
 - **Snare:** Pearl Pearl Free-Floating Snare, 14" x 6.5"
 - **Cymbals:** Meinl / Zildjian (transitional setup) — Meinl Byzance / Zildjian K Mastersound & A Custom
-- **Hardware / Pedals:** Pearl Demon XR Double Pedal (co-designed); Pearl H-2050 Eliminator Hi-Hat Stand; Pearl D-3000 Roadster Throne; Vic Firth SGK George Kollias Signature
+- **Hardware / Pedals:** Pearl Demon XR Double Pedal (co-designed); Pearl H-2050 Eliminator Hi-Hat Stand; Pearl D-3000 Roadster Throne; Vic Firth
 - **Heads:** Remo Ambassador Coated (batter), Remo Ambassador Snare Side (resonant)
 - **Snare tuning:** Medium-high tension, unchanged since 2009 — final studio use before the 2022 signature snare
 
@@ -53,6 +53,28 @@ The K Mastersound hi-hats were the first piece to change, and the choice reveals
 The A Custom Mega Bell Ride followed, chosen for the same reason it remains in his setup today: a bell that cuts through everything, essential for Nile's hypnotic, atmospheric passages like the extended sections of "The Oxford Handbook of Savage Genocidal Warfare."
 
 The crash spread and China remained pure Meinl Byzance throughout "Vile Nilotic Rites" — the 17"/18"/19" configuration and 18" China that had served Kollias since his debut. This transitional, mixed-brand setup is unique to this album in his discography; by the time his current kit article documents his setup, the transition to full Zildjian K Custom and A Custom is complete.
+
+## The Modern Rig, Fully Arrived
+
+"Vile Nilotic Rites" closes out the drum-setup arc that began with "Annihilation of the Wicked" fourteen years earlier — and it does so by introducing nearly every element that defines George Kollias's current kit. The Pearl Masterworks Stadium Exotic, the Demon XR pedal at full maturity, the first Zildjian cymbals alongside a fading Meinl Byzance voice: this album is where the modern Kollias rig assembles itself in real time, on record, for anyone willing to listen for the transition.
+
+Key takeaways for drummers studying this album:
+
+- **Gear transitions can be gradual**: introducing Zildjian hi-hats and ride while retaining Meinl crashes shows a considered, piece-by-piece approach rather than a wholesale switch
+- **Co-designed equipment rewards patience**: the Demon XR, four years into use by 2019, performs differently than it did on release — mechanical familiarity compounds over years, not months
+- **"Seven Horns of War"** is essential listening for studying sustained blast beat consistency at extreme tempo
+- **Fifteen years in, no plateau**: this album is proof that extreme metal drumming careers can continue sharpening well past the debut-era breakthrough
+
+Internal links for the complete George Kollias picture:
+- **Full drummer profile**: [George Kollias at MetalForge](/drummer/george-kollias)
+- **Debut Nile album**: [Annihilation of the Wicked drum setup (2005)](/articles/george-kollias-nile-annihilation-drum-setup)
+- **The bridge album**: [Ithyphallic drum setup (2007)](/articles/ithyphallic-drum-setup)
+- **The Pearl transition**: [Those Whom the Gods Detest drum setup (2009)](/articles/those-whom-the-gods-detest-drum-setup)
+- **The matured Byzance era**: [At the Gate of Sethu drum setup (2012)](/articles/at-the-gate-of-sethu-drum-setup)
+- **The Demon XR debut**: [What Should Not Be Unearthed drum setup (2015)](/articles/what-should-not-be-unearthed-drum-setup)
+- **Current complete gear**: [What's in George Kollias's Kit](/articles/whats-in-george-kollias-kit)
+
+Six albums, fourteen years, one continuously evolving rig. "Vile Nilotic Rites" is where the story catches up to the present.
 
 ## Key Facts
 
@@ -86,7 +108,7 @@ A: 'Vile Nilotic Rites' (2019) is the first Nile album to feature Zildjian cymba
 
 **Q: What pedals does George Kollias use on Vile Nilotic Rites?**
 
-A: George Kollias played the Pearl Demon XR double bass drum pedal on 'Vile Nilotic Rites' (2019) — the pedal he co-designed with Pearl, released in 2015 and fully matured across four years of use by these sessions. Paired with his Vic Firth SGK George Kollias Signature sticks (adopted 2012), this album is the first where nearly his entire rig was either signature or co-designed equipment.
+A: George Kollias played the Pearl Demon XR double bass drum pedal on 'Vile Nilotic Rites' (2019) — the pedal he co-designed with Pearl, released in 2015 and fully matured across four years of use by these sessions. He paired it with his usual Vic Firth sticks.
 
 **Q: Why is Vile Nilotic Rites significant in George Kollias's gear history?**
 
@@ -96,4 +118,4 @@ A: 'Vile Nilotic Rites' (Nile, 2019) marks George Kollias's transition to the Pe
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

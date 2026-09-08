@@ -61,6 +61,20 @@ The 14" Special Dry Hi-Hats drive the intricate rhythmic conversations Harrison 
 
 The 16" and 18" Special Dry crashes speak and clear quickly, providing the dramatic section-ending accents the album's long-form compositions require without accumulating wash that would muddy the arrangement.
 
+## The Benchmark Recording
+
+*Fear of a Blank Planet* (2007) is the recording that made Gavin Harrison's approach to progressive metal drumming a benchmark rather than a curiosity. The combination of his Sonor SQ2 custom kit, Zildjian K Custom Special Dry cymbals, Sonor Gavin Harrison Signature snares, and Sonor Perfect Balance Pedal was not assembled for this album — it was a rig developed over years of exacting progressive music. But *Fear of a Blank Planet* is where every element of that rig is tested to its limit and the result is one of the most complete demonstrations of what a drum kit can do in a rock context.
+
+The title track, "Anesthetize," and the rest of the album have been studied in drum education programmes, transcribed in drumming publications, and cited by working drummers across every genre as a reference point for dynamic range, polyrhythmic integration, and the musical application of odd time signatures. Harrison achieves this not through volume or flash but through precision: the right instrument, configured correctly, played by a musician who has spent decades understanding what each element contributes.
+
+For drummers approaching this gear:
+
+- **Full drummer profile**: [Gavin Harrison at MetalForge](/drummer/gavin-harrison)
+- **Full gear profile**: [What's In Gavin Harrison's Kit](/articles/whats-in-gavin-harrisons-kit)
+- **LLM summary**: [Fear of a Blank Planet Drum Setup — LLM](/llms/articles/fear-of-a-blank-planet-drum-setup.md)
+
+The most important thing *Fear of a Blank Planet* demonstrates is that technical complexity and emotional directness are not opposites in drumming. Harrison's rig makes both possible simultaneously, and the album is the proof.
+
 ## Key Facts
 
 - Recorded at Britannia Row Studios, London, 2007 — produced by Steven Wilson
@@ -99,4 +113,4 @@ A: Gavin Harrison's primary snare on Fear of a Blank Planet is the Sonor Gavin H
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

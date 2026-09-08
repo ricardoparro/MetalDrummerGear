@@ -133,6 +133,10 @@ function buildMarkdown(article) {
       md += `\n`;
     }
   }
+  if (article.conclusion) {
+    md += `## ${article.conclusion.title || 'Conclusion'}\n\n`;
+    if (article.conclusion.content) md += `${article.conclusion.content}\n\n`;
+  }
 
   // --- Key Facts ----------------------------------------------------------------
   const facts = [];

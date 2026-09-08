@@ -1,6 +1,6 @@
 # Blake Richardson's Drum Setup on Between the Buried and Me's Colors (2007)
 
-> Blake Richardson's drum kit and gear on BTBAM's landmark Colors (2007): DW Collector's Series drums, Meinl Byzance Extra Dry cymbals, DW 9002 double pedal, and the metric modulation performance that defined progressive metal's gold standard.
+> Blake Richardson's drum kit and gear on BTBAM's landmark Colors (2007): DW Collector's Series drums, Meinl Byzance Extra Dry cymbals, DW 9002 chain-drive double bass pedal, and the metric modulation performance that defined progressive metal's gold standard.
 
 **Type:** Album Drum Setup
 **Drummer(s):** [Blake Richardson](/llms/drummers/blake-richardson.md)
@@ -13,7 +13,7 @@ Released in 2007 on Victory Records, *Colors* is the Between the Buried and Me a
 
 Blake Richardson's performance on *Colors* is the recording that established him as a generational talent. Two years into his BTBAM tenure, the technical foundation visible on *Alaska* had fully matured. His odd-time integration — embedding 7/8, 5/4, and complex metric patterns so naturally they never sound mathematical — is at its most organic here. 'Prequel to the Sequel,' the album's compositional centerpiece, is a master class in 7/8 groove: Richardson locks the most challenging odd-time signature in metal into something that swings, breathes, and feels inevitable rather than calculated. It is the performance that drum teachers assign and that progressives study. It is the reason his name appears in the same sentence as Brann Dailor, Danny Carey, and Gavin Harrison when the conversation turns to progressive metal drumming.
 
-Gear-wise, Richardson was operating in the DW Collector's Series configuration he had established on *Alaska* — all-maple shells, wide dynamic range, warm fundamental suited to BTBAM's full emotional spectrum. Meinl Byzance Extra Dry cymbals provided the dark, controlled voice that had anchored the *Alaska* sessions, with the Extra Dry series' minimal wash keeping Richardson's complex rhythmic patterns clearly articulated through *Colors*' densest arrangements. The DW 9002 double bass pedal gave him the compositional kick foundation for the record's most intense passages.
+Gear-wise, Richardson was operating in the DW Collector's Series configuration he had established on *Alaska* — all-maple shells, wide dynamic range, warm fundamental suited to BTBAM's full emotional spectrum. Meinl Byzance Extra Dry cymbals provided the dark, hand-hammered voice that had anchored the *Alaska* sessions, with the Extra Dry series' minimal wash keeping Richardson's complex rhythmic patterns clearly articulated through *Colors*' densest arrangements. The DW 9002 chain-drive double bass pedal gave him the compositional kick foundation for the record's most intense passages.
 
 Jamie King's production at The Basement Studio in Winston-Salem — the same producer and studio as *Alaska* — captured *Colors* with the clarity and dynamic range a 65-minute single-arc composition requires. King understood that *Colors* needed to breathe as much as it needed to hit: the drum sound is full and present in the intense sections, open and ambient in the quieter ones, serving the record's emotional arc rather than imposing a single compressed texture across its entire length.
 
@@ -24,25 +24,25 @@ This article breaks down the complete drum setup Blake Richardson used on *Color
 - **Drums:** DW DW Collector's Series (Custom lacquer finish finish)
 - **Snare:** DW DW Collector's Series Maple Snare, 14" x 6.5"
 - **Cymbals:** Meinl — Meinl Byzance Extra Dry Series
-- **Hardware / Pedals:** DW 9002 Double Bass Pedal; Vic Firth American Classic 5B; Remo Ambassador Coated; Remo Powerstroke 3
+- **Hardware / Pedals:** DW 9002 Chain-Drive Double Bass Pedal; Vic Firth American Classic 5B; Remo Ambassador Coated; Remo Powerstroke 3
 - **Heads:** Remo Ambassador Coated (batter), Remo Hazy Snare Side (resonant)
 - **Snare tuning:** Medium tension — full body for intense sections, sensitive response for ghost note work throughout Colors' dynamic spectrum
 
 ### DW Collector's Series: The Colors Era Foundation
 
-Blake Richardson's DW Collector's Series kit on *Colors* was the refined evolution of the setup he had used on *Alaska* (2005) — two years of intensive touring had dialed in every head choice, tuning setting, and hardware configuration. The DW Collector's Series uses North American Hard Rock Maple shells: warm, resonant, with a midrange fundamental that carries equally well through BTBAM's most intense passages and its most restrained ambient interludes.
+Blake Richardson's DW Collector's Series kit on *Colors* was the refined evolution of the setup he had established on *Alaska* (2005) — two years of intensive touring had dialed in every head choice, tuning setting, and hardware configuration. The DW Collector's Series uses all-maple shells: warm, resonant, with a midrange fundamental that carries equally well through BTBAM's most intense passages and its most restrained ambient interludes.
 
-The single 22"x18" bass drum driven by the DW 9002 double pedal is the kick foundation of *Colors*' most iconic passages. 'Prequel to the Sequel' demonstrates Richardson's compositional double-bass approach at its most developed: kick patterns that lock into the 7/8 groove rather than running against it, varying density to follow the arrangement's emotional arc. This compositional approach — double-bass as a dynamic tool rather than a constant underpinning — is what separates Richardson's kick playing from technicians who can execute fast patterns but cannot make them musical.
+The single 22"x18" bass drum driven by the DW 9002 chain-drive double bass pedal is the kick foundation of *Colors*' most iconic passages. 'Prequel to the Sequel' demonstrates Richardson's compositional double-bass approach at its most developed: kick patterns that lock into the 7/8 groove rather than running against it, varying density to follow the arrangement's emotional arc. This compositional approach — double-bass as a dynamic tool rather than a constant underpinning — is what separates Richardson's kick playing from technicians who can execute fast patterns but cannot make them musical.
 
-Three rack toms (10", 12", 13") and a 16" floor tom give Richardson the wide pitch range his fill architecture requires. On *Colors*, tom fills function as compositional connective tissue: they prepare genre transitions, mark structural boundaries, and carry pitch intervals that echo the guitar arrangements. 'White Walls,' the album's 17-minute closing track, contains the most structurally significant fill sequences on the record — fills that navigate the transition from the album's most intense metal passages through progressive rock and ambient sections and back again. The Collector's Series maple provides the warm, resonant tone that makes these melodic fills musical rather than merely rhythmic.
+Three rack toms (10", 12", 13") and a 16" floor tom give Richardson the wide pitch range his fill architecture requires. On *Colors*, tom fills function as compositional connective tissue: they prepare genre transitions, mark structural boundaries, and carry pitch intervals that echo the guitar arrangements. 'White Walls,' the album's 17-minute closing track, contains the most structurally significant fill sequences on the record — fills that navigate the transition from the album's most intense metal passages through progressive rock and ambient sections and back again. The DW Collector's Series' warm, resonant tone makes these melodic fills musical rather than merely rhythmic.
 
 Jamie King's recording approach at The Basement Studio on *Colors* balanced close-miked kit presence with natural room character — giving the drums a full, organic sound that serves the record's dynamic range.
 
-### DW Collector's Maple: Versatility Across Colors' Full Spectrum
+### DW Collector's Series Maple: Versatility Across Colors' Full Spectrum
 
-Richardson's primary snare on *Colors* was the DW Collector's Series maple at 14"x6.5" — the same model that had driven *Alaska* and would continue through the *Parallax* era. Tuned at medium tension, the maple shell delivers warm, authoritative crack that works across *Colors*' full dynamic range: present and cutting during the record's death metal passages, warm and sensitive for the ghost note-intensive jazz interludes that appear throughout the album.
+Richardson's primary snare on *Colors* was the DW Collector's Series maple snare at 14"x6.5" — matched to his DW kit and the same model that had driven *Alaska* and would continue through the *Parallax* era. Tuned at medium tension, the maple shell delivers a warm, articulate crack that works across *Colors*' full dynamic range: present and cutting during the record's death metal passages, warm and sensitive for the ghost note-intensive jazz interludes that appear throughout the album.
 
-*Colors* demands extraordinary snare versatility within single tracks. 'Sun of Nothing' moves from ambient openings through full-intensity metal passages and back; 'Ants of the Sky' contains jazz-inflected sections where Richardson's ghost note work requires the snare to speak clearly at low velocities. The DW Collector's maple handles both contexts from the same tuning: its 6.5" depth gives each stroke body at full velocity, while the maple shell's warm midrange allows ghost notes to read as rhythmic texture rather than noise.
+*Colors* demands extraordinary snare versatility within single tracks. 'Sun of Nothing' moves from ambient openings through full-intensity metal passages and back; 'Ants of the Sky' contains jazz-inflected sections where Richardson's ghost note work requires the snare to speak clearly at low velocities. The DW Collector's Series maple snare handles both contexts from the same tuning: its 6.5" depth gives each stroke body at full velocity, while the maple shell's midrange allows ghost notes to read as rhythmic texture rather than noise.
 
 Jamie King's snare capture on *Colors* emphasizes natural shell character — close-miked with overhead room contributing to the body. The result is a snare sound that has presence without hardness, serving *Colors*' full emotional arc from 'Foam Born' through 'White Walls.'
 
@@ -52,20 +52,31 @@ Blake Richardson's Meinl Byzance Extra Dry cymbal setup on *Colors* is the sonic
 
 The 14" Extra Dry Hi-Hats are the rhythmic center of everything Richardson does on *Colors*. 'Prequel to the Sequel' makes this most explicit: his hi-hat work in that track's iconic 7/8 groove demonstrates jazz-level density and independence — dense sixteenth-note patterns, frequent foot-hat independence, and transitions between open and closed positions that create rhythmic texture beyond simple timekeeping. The Extra Dry character gives these demanding patterns clarity without harshness.
 
-The dual-crash configuration (17" and 18" Extra Dry Thin Crashes) provides two distinct accent voices: the 17" for fast, focused punctuation in technical passages, the 18" for larger structural accents at section peaks in 'White Walls' and 'Sun of Nothing.' The Extra Dry Ride provides clean articulation through *Colors*' most rhythmically complex passages — particularly in 'Prequel to the Sequel,' where a washy ride would blur the 7/8 patterns. The Byzance China delivers the aggressive upward-projecting accent for *Colors*' most intense death metal moments — deployed selectively rather than continuously, functioning as punctuation rather than a constant voice.
+The dual-crash configuration (17" and 18" Extra Dry Thin Crashes) provides two distinct accent voices: the 17" for fast, focused punctuation in technical passages, the 18" for larger structural accents at section peaks in 'White Walls' and 'Sun of Nothing.' The Extra Dry Ride provides clean articulation through *Colors*' most rhythmically complex passages — particularly in 'Prequel to the Sequel,' where a washy ride would blur the 7/8 patterns. The Meinl Byzance Extra Dry China delivers the aggressive upward-projecting accent for *Colors*' most intense death metal moments — deployed selectively rather than continuously, functioning as punctuation rather than a constant voice.
 
-For context on how this cymbal voice evolved into the Dark/Extra Dry dual setup of the Parallax era, see the [Blake Richardson drummer profile](/drummer/blake-richardson).
+For context on how this cymbal voice carried through the rest of the pre-Automata era, see the [Blake Richardson drummer profile](/drummer/blake-richardson).
+
+## Colors: The Album That Defined Blake Richardson's Legacy
+
+*Colors* (2007) is the record that made Blake Richardson's name in progressive metal. More than fifteen years after its release, it remains the album listeners and critics reach for first when defining what the genre can achieve: compositionally ambitious, technically demanding, and — crucially — musical rather than merely impressive.
+
+His DW Collector's Series setup, Meinl Byzance Extra Dry cymbals, and DW 9002 chain-drive double bass pedal are the tools behind one of progressive metal's landmark drum performances.
+
+- **Full drummer profile**: [Blake Richardson at MetalForge](/drummer/blake-richardson)
+- **Previous album**: [Alaska drum setup (2005)](/articles/alaska-drum-setup)
+- **Next album**: [The Great Misdirect drum setup (2009)](/articles/great-misdirect-drum-setup)
+- **Career peak**: [The Parallax II drum setup (2012)](/articles/the-parallax-ii-future-sequence-drum-setup)
 
 ## Key Facts
 
 - BTBAM's landmark album — 65-minute single-arc composition across eight tracks, prog metal's most cited record
 - Blake Richardson's breakout performance — 'Prequel to the Sequel' (7/8) is the most-studied drum performance of the Colors era
 - DW Collector's Series refined from Alaska — same all-maple foundation, more precisely calibrated after two years of touring
-- Meinl Byzance Extra Dry — dark, controlled cymbal voice for clean articulation through Colors' densest arrangements
-- DW 9002 double bass pedal — compositional kick deployment across BTBAM's most intense passages
+- Meinl Byzance Extra Dry — dark, hand-hammered cymbal voice for clean articulation through Colors' densest arrangements
+- DW 9002 chain-drive double bass pedal — compositional kick deployment across BTBAM's most intense passages
 - Jamie King production at The Basement Studio — full, dynamic drum sound serving Colors' 65-minute emotional arc
-- DW Collector's Series refined over two years of post-Alaska touring — same shells, more precisely calibrated
-- 22"x18" kick via DW 9002 double pedal — compositional double-bass in Colors' landmark 7/8 passages
+- DW Collector's Series refined over two years of post-Alaska touring — same all-maple shells, more precisely calibrated
+- 22"x18" kick via DW 9002 chain-drive double bass pedal — compositional double-bass in Colors' landmark 7/8 passages
 - Three rack toms (10", 12", 13") for melodic fills marking Colors' genre transitions
 - Jamie King Basement Studio production captures natural shell resonance as compositional element
 - Foundation carried through The Great Misdirect (2009) and into the Parallax era
@@ -76,7 +87,7 @@ For context on how this cymbal voice evolved into the Dark/Extra Dry dual setup 
 
 **Q: What kit did Blake Richardson use on Colors?**
 
-A: Blake Richardson played a DW Collector's Series kit on *Colors* (2007) — BTBAM's landmark progressive metal record. The DW Collector's Series uses North American Hard Rock Maple shells, delivering the warm, resonant tone that suited *Colors*' 65-minute single-arc composition spanning death metal, jazz, and ambient textures. Configuration: single 22"x18" bass drum driven by a DW 9002 double pedal, three rack toms (10", 12", 13"), and a 16" floor tom. Meinl Byzance Extra Dry cymbals completed the setup. Full drummer profile at [Blake Richardson at MetalForge](/drummer/blake-richardson).
+A: Blake Richardson played a DW Collector's Series kit on *Colors* (2007) — BTBAM's landmark progressive metal record. The DW Collector's Series uses all-maple shells, delivering the warm, resonant tone that suited *Colors*' 65-minute single-arc composition spanning death metal, jazz, and ambient textures. Configuration: single 22"x18" bass drum driven by a DW 9002 chain-drive double bass pedal, three rack toms (10", 12", 13"), and a 16" floor tom. Meinl Byzance Extra Dry cymbals completed the setup. Full drummer profile at [Blake Richardson at MetalForge](/drummer/blake-richardson).
 
 **Q: What is BTBAM's Colors?**
 
@@ -84,10 +95,10 @@ A: *Colors* (2007) is Between the Buried and Me's fourth studio album and widely
 
 **Q: What bass drum technique does Blake use on Selkies?**
 
-A: 'Selkies: The Endless Obsession' is from BTBAM's *Alaska* (2005), not *Colors* — but it is one of the most-studied drum performances in Richardson's catalog, and the bass drum technique it showcases carries directly into the *Colors* era. Richardson's kick approach is compositional rather than constant: he varies double-bass density to follow the arrangement's emotional arc, deploying dense kick patterns during intense passages and pulling back to sparse or single-foot patterns during restrained sections. The DW 9002 double pedal, used on both *Alaska* and *Colors*, provides the consistent feel this density-variable approach requires. On *Colors*, the same compositional double-bass philosophy drives 'Prequel to the Sequel' and 'White Walls' — the kick following the music's arc rather than running beneath it as a constant. Full technique breakdown at [Blake Richardson at MetalForge](/drummer/blake-richardson).
+A: 'Selkies: The Endless Obsession' is from BTBAM's *Alaska* (2005), not *Colors* — but it is one of the most-studied drum performances in Richardson's catalog, and the bass drum technique it showcases carries directly into the *Colors* era. Richardson's kick approach is compositional rather than constant: he varies double-bass density to follow the arrangement's emotional arc, deploying dense kick patterns during intense passages and pulling back to sparse or single-foot patterns during restrained sections. The DW 9002 chain-drive double bass pedal, used on both *Alaska* and *Colors*, provides the consistent feel this density-variable approach requires. On *Colors*, the same compositional double-bass philosophy drives 'Prequel to the Sequel' and 'White Walls' — the kick following the music's arc rather than running beneath it as a constant. Full technique breakdown at [Blake Richardson at MetalForge](/drummer/blake-richardson).
 
 **Source:** https://metalforge.io/articles/colors-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

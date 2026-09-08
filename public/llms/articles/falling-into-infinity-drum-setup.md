@@ -46,13 +46,31 @@ Producer Kevin Shirley, known for his work with Aerosmith and Journey, brought a
 
 ### The Sabian HH and HHX Setup
 
-The transition to Sabian HH and HHX cymbals for *Falling into Infinity* represented an important shift in Portnoy's cymbal palette. The HH (Hand Hammered) series offered a darker, more complex sound than the Zildjian A Customs he had used earlier — warm and musical with complex overtones suited to melodic, atmospheric material. The HHX Stage Crashes provided a faster, more responsive attack for the album's shorter song structures.
+The move to Sabian HH and HHX cymbals for *Falling into Infinity* represented an important shift in Portnoy's cymbal palette. The HH (Hand Hammered) series offered a darker, more complex sound than the brighter Sabian AA cymbals he had used earlier — warm and musical with complex overtones suited to melodic, atmospheric material. The HHX Stage Crashes provided a faster, more responsive attack for the album's shorter song structures.
 
 The Sabian HH series, produced through careful hand-hammering, carries a warmth that complements maple-shell kits particularly well — the overtone characters align. For *Falling into Infinity*'s melodic mid-tempo tracks, this combination of maple shells and hand-hammered bronze produced a drum sound that was simultaneously powerful and musical.
 
 The HH 20" Medium Ride provided the dark, warm bell character that Portnoy uses extensively during "New Millennium" and "Trial of Tears." This ride never becomes aggressive or cutting — it blends into the musical fabric, which was essential for a record that needed drums to support atmosphere rather than define energy levels.
 
 The HH Chinese cymbal — bright, trashy, and aggressive — provided the contrast needed for *Falling into Infinity*'s heavier passages. On "Lines in the Sand" and "Peruvian Skies," the Chinese accents defined section boundaries and added the edge that kept the album from becoming too polished. This balance between the warm HH main cymbals and the aggressive Chinese was central to the album's sonic identity.
+
+## The Middle Chapter: Why FII Matters
+
+*Falling into Infinity* is the Dream Theater album that critics and casual fans most often overlook. It lacks the landmark status of *Images and Words*, the cult aura of *Awake*, and the unanimous acclaim of *Metropolis Pt. 2*. But for anyone studying Mike Portnoy's development as a musician and as a drumming artist, it is indispensable.
+
+The album documents Portnoy at a creative crossroads: technically at his peak, but constrained by label demands that pushed him outside his comfort zone. His response — to develop melodic discipline, to serve accessible material with taste, to find ways to preserve progressive identity within commercial constraints — is a masterclass in professional musicianship.
+
+The Tama Starclassic Maple 10-ply kit and Sabian HH/HHX cymbals documented here represent a transitional moment in Portnoy's gear history: the setup he used between the *Awake* Artstar II era and the *Metropolis Pt. 2* Starclassic Maple/Sabian Artisan configuration. These are not landmark gear choices — they don't have the iconic status of the cherry Starclassic setup of SFaM — but they are essential stops on the journey.
+
+**For drummers studying this album:**
+- "Hollow Years" teaches that invisibility is a skill — sometimes the best drumming is the drumming you don't hear
+- "Trial of Tears" shows how to maintain progressive identity even when surrounding material pulls toward accessibility
+- The Iron Cobra double pedal on varied material demonstrates how equipment must serve dynamic range, not just peak performance
+- The shift from the brighter Sabian AA to the darker Sabian HH illustrates how cymbal series selection shapes the tonal character of an entire recording
+
+Thirty years after its release, *Falling into Infinity* rewards revisiting. It is a record made under difficult circumstances by musicians who refused to entirely give up on who they were — and the drum performances Mike Portnoy delivered within those constraints are among the most revealing of his career.
+
+For the album that preceded this, see the [Scenes from a Memory drum setup article](/articles/scenes-from-a-memory-drum-setup). For Portnoy's complete gear story, visit the [Mike Portnoy drummer profile](/drummer/mike-portnoy).
 
 ## Key Facts
 
@@ -79,11 +97,11 @@ A: Mike Portnoy recorded Falling into Infinity (1997) on a Tama Starclassic Mapl
 
 **Q: What cymbals did Mike Portnoy use on Falling into Infinity?**
 
-A: For the Falling into Infinity sessions, Portnoy used Sabian HH (Hand Hammered) and HHX cymbals. His setup included Sabian HH 14" medium hi-hats, HHX Stage Crashes at 16", 17", and 18", a Sabian HH 19" medium crash, a Sabian HH 20" medium ride, and a Sabian HH 18" Chinese cymbal, plus a 10" splash. The HH series — hand-hammered for complex, warm overtones — was darker and more musical than the Zildjian A Customs he had used on earlier Dream Theater recordings. This setup carried through to the early Metropolis Pt. 2 sessions and influenced his choice of Sabian Artisan cymbals for that album.
+A: For the Falling into Infinity sessions, Portnoy used Sabian HH (Hand Hammered) and HHX cymbals. His setup included Sabian HH 14" medium hi-hats, HHX Stage Crashes at 16", 17", and 18", a Sabian HH 19" medium crash, a Sabian HH 20" medium ride, and a Sabian HH 18" Chinese cymbal, plus a 10" splash. The HH series — hand-hammered for complex, warm overtones — was darker and more musical than the brighter Sabian AA cymbals he had used on earlier Dream Theater recordings. This setup carried through to the early Metropolis Pt. 2 sessions and influenced his choice of Sabian Artisan cymbals for that album.
 
 **Q: How did the Falling into Infinity drum setup differ from the Awake setup?**
 
-A: The key differences between the Awake (1994) and Falling into Infinity (1997) setups are: (1) Shell material — FII uses Tama Starclassic Maple 10-ply vs. Awake's Tama Artstar II birch. Maple is warmer and more resonant; birch is punchier and more attack-focused. (2) Cymbals — FII uses Sabian HH/HHX (warm, dark, hand-hammered) vs. Awake's Zildjian A Custom (bright, cutting). (3) Depth — FII's 22"x18" bass drums vs. 22"x16" on Awake gives more low-end body. (4) Pedals — Tama Iron Cobra was used on both albums. The overall tonal shift from birch/Zildjian to maple/Sabian HH reflects FII's move toward warmer, more melodic production. See the [Scenes from a Memory drum setup article](/articles/scenes-from-a-memory-drum-setup) for how the setup evolved by 1999.
+A: The key differences between the Awake (1994) and Falling into Infinity (1997) setups are: (1) Shell material — FII uses Tama Starclassic Maple 10-ply vs. Awake's Tama Artstar II birch. Maple is warmer and more resonant; birch is punchier and more attack-focused. (2) Cymbals — FII uses Sabian HH/HHX (warm, dark, hand-hammered) vs. Awake's brighter Sabian AA/HH mix. (3) Depth — FII's 22"x18" bass drums vs. 22"x16" on Awake gives more low-end body. (4) Pedals — Tama Iron Cobra was used on both albums. The overall tonal shift from birch/AA to maple/HH reflects FII's move toward warmer, more melodic production. See the [Scenes from a Memory drum setup article](/articles/scenes-from-a-memory-drum-setup) for how the setup evolved by 1999.
 
 **Q: Why did Dream Theater sound so different on Falling into Infinity?**
 
@@ -97,4 +115,4 @@ A: Mike Portnoy used Tama Iron Cobra double pedals on Falling into Infinity — 
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

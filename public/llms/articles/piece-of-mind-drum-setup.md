@@ -58,6 +58,18 @@ The 16" and 18" crashes gave Nicko dynamic options. He used crashes musically th
 
 The 20" ride was important for the album's longer tracks. "The Trooper" and "Revelations" both feature extended sections where Nicko plays on the ride rather than hi-hats, and the Paiste 2002's defined bell and clear bow sound cut through without washing.
 
+## The Beginning of a Legend
+
+Piece of Mind is where the Nicko McBrain era of Iron Maiden began — and it began not with a gentle introduction but with one of the most dramatic drum intros in heavy metal history. "Where Eagles Dare" put the drumming world on notice from the album's first seconds.
+
+The gear was professional and appropriate: Ludwig Vistalite drums with their bright acrylic character, Paiste 2002 cymbals with their articulate brightness, and a single Ludwig Speed King pedal establishing from the very first recording that Nicko would do this with one bass drum.
+
+What makes Piece of Mind historically significant is the before/after narrative. Clive Burr had defined Iron Maiden's rhythmic character on the first four albums. Nicko McBrain arrived and maintained everything essential — the galloping rhythms, the dynamic sensitivity, the musical approach — while adding his own vocabulary of rolling fills, swinging grooves, and explosive tom work.
+
+"Flight of Icarus" became Iron Maiden's first major UK top-10 hit. "The Trooper" became one of their most enduring live staples. "Where Eagles Dare" became a lesson in how to open an album. All of it powered by Nicko's debut performance on Ludwig Vistalite and Paiste 2002.
+
+For drummers approaching this album today, Piece of Mind offers a masterclass in debut impact: how to arrive fully formed, honor what came before, and immediately establish something new. Nicko McBrain managed all three on his very first Iron Maiden record.
+
 ## Key Facts
 
 - Nicko McBrain's first Iron Maiden album, replacing Clive Burr mid-1982
@@ -94,4 +106,4 @@ A: On Piece of Mind, Nicko McBrain used a full Paiste 2002 series cymbal setup: 
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

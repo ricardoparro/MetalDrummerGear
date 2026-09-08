@@ -60,6 +60,19 @@ A 10" AAX Splash joined the setup for quick textural accents on the more rhythmi
 
 The 18" AAX Chinese remained the exclamation point — trashy, aggressive, fast-decaying — used to punctuate the album's most violent breakdowns.
 
+## The All-Star Hardcore Statement
+
+Axe to Fall sits as one of the most ambitious records in Converge's catalog — an unprecedented all-star collaboration that pulled members of Mastodon, Cave In, Genghis Tron, Neurosis, and Disfear into a single set of mathcore-rooted compositions. Ben Koller's drum setup on the album is the same core rig that powered Jane Doe eight years earlier, refined and expanded for the more progressive arrangements.
+
+For drummers building an Axe to Fall-inspired rig, the principles are continuity and refinement:
+- **Tama Starclassic / Bubinga shells**: Focused attack with deep fundamental
+- **Single 22" bass drum**: Trust your foot
+- **Brass-shell 14"x6.5" snare**: Bright, cutting, tuned medium-high
+- **Sabian HHX / AAX**: Complementary dark and bright voices, expanded with splash and X-Plosion
+- **Tama Iron Cobra single pedal**: Smooth, consistent single-foot feel
+
+Axe to Fall demonstrates that a great drum setup doesn't have to change every album. Koller's Jane Doe setup, refined over eight more years of touring and recording, served Axe to Fall's expanded ambition without compromise. The blast-and-breakdown vocabulary was already locked in. The collaborators brought new textures. Koller's job was to drive the band through every shift in feel — and his Tama / Sabian / Iron Cobra / Vater rig was built for exactly that.
+
 ## Key Facts
 
 - Released October 20, 2009 on Epitaph Records
@@ -95,4 +108,4 @@ A: Axe to Fall features guest contributions from members of Mastodon (Brann Dail
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

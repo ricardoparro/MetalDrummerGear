@@ -22,7 +22,7 @@ Luzier's gear on *The Serenity of Suffering* continued the Pearl platform establ
 - **Drums:** Pearl Pearl Reference Maple (Custom finish (Korn touring configuration) finish)
 - **Snare:** Pearl Pearl Reference 14" × 6.5" Brass, 14" × 6.5"
 - **Cymbals:** Sabian — Sabian AAX Series
-- **Hardware / Pedals:** Pearl Demon Drive Double Bass Pedal; Promark Ray Luzier Signature TX420X; Pearl D-2000 Roadster Throne; Evans EC2 Coated; Evans EMAD2
+- **Hardware / Pedals:** DW 9000 Series Double Bass Pedal; Vic Firth Ray Luzier Signature; Pearl D-2000 Roadster Throne; Evans EC2 Coated; Evans EMAD2
 - **Heads:** Remo Coated Emperor (batter), Remo Hazy Ambassador Snare Side (resonant)
 - **Snare tuning:** Medium to medium-high tension — bright attack and projection in Raskulinecz's natural production environment
 
@@ -53,6 +53,22 @@ The 14" AAX Stage Hi-Hats are the groove's rhythmic skeleton throughout the albu
 The AAXtreme China sees significant use on *The Serenity of Suffering*'s heavier material. Where *The Paradigm Shift* had 'Never Never' and more pop-accessible fare, *Serenity* leans consistently into Korn's dark, aggressive side — and the China cymbal's raw, upward-projecting trash tone punctuates the album's most intense moments with the kind of aggressive accent that defines nu-metal's sonic vocabulary.
 
 The 18" and 19" X-Plosion Crash pair provides Luzier with the dynamic range for both the sudden section accents in 'Take Me' and the sustained crash intensity of 'Rotting in Vain' — two different crash characters in two sizes, giving the setup flexibility across the album's range of intensity.
+
+## Luzier at His Most Confident: The Serenity of Suffering
+
+*The Serenity of Suffering* is the record that best captures Ray Luzier at the height of his Korn powers. A decade after joining as a touring drummer, fully integrated into the band's identity and groove language, Luzier delivered a performance on this album that drove one of the most critically praised Korn records of the modern era.
+
+The Grammy-nominated 'Take Me' alone would make *Serenity* a landmark in his Korn catalog. But it's the album's consistent, groove-locked heaviness — 'Rotting in Vain,' 'Black Is the Soul,' 'A Different World' — that demonstrates what Luzier brings to Korn's music when a producer like Raskulinecz gives the drums room to breathe and physical weight to project.
+
+His Pearl Reference Maple kit, Reference Brass snare, Sabian AAX cymbals, and Demon Drive pedals represent the mature Luzier rig delivering the kind of performance these instruments were built for.
+
+For deeper exploration:
+- **Full drummer profile**: [Ray Luzier at MetalForge](/drummer/ray-luzier)
+- **Complete current kit guide**: [What's in Ray Luzier's Kit?](/articles/whats-in-ray-luziers-kit)
+- **Previous album**: [The Paradigm Shift Drum Setup (2013)](/articles/the-paradigm-shift-drum-setup)
+- **Next album**: [The Nothing Drum Setup (2019)](/articles/the-nothing-drum-setup)
+- **Joey Jordison — Slipknot comparison**: [Joey Jordison at MetalForge](/drummer/joey-jordison) — Corey Taylor's drummer across Slipknot's catalog
+- **Nu-metal context**: [Nu-Metal Drum Setups](/articles/nu-metal-drum-setups)
 
 ## Key Facts
 
@@ -96,4 +112,4 @@ A: Ray Luzier recorded The Serenity of Suffering with Korn in 2016 — the band'
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

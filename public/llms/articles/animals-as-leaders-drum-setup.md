@@ -54,6 +54,16 @@ The hi-hat programming is particularly musical: across the album, the closed/ope
 
 The China cymbal accents above the floor tom are a djent-era constant, and Tosin's programming uses them sparingly — for section transitions and accent points rather than continuous trash.
 
+## A Programmed Debut, Honestly Framed
+
+Animals as Leaders' self-titled debut is one of the most influential progressive instrumental metal albums of the 2000s. It is also a programmed-drums record — sequenced by Tosin Abasi, voiced through Toontrack samples, mixed by Misha Mansoor. Any honest discussion of its "drum setup" has to acknowledge that this album has no live drummer.
+
+This is not a criticism of the album. Tosin's programming work is musical, the sample library used is professional, and the production approach was appropriate for the budget and the project scope. The album launched a band that has since become one of the defining acts of modern progressive metal, and Matt Garstka's live drumming on every subsequent record has built one of the catalog drummers will study most closely from the post-2010 era.
+
+But the self-titled debut belongs in a separate category from the rest of the Animals as Leaders catalog when it comes to "gear" discussions. There was no kit setup, no snare choice, no cymbal selection, no pedal model — the drums on this record came from a sample library triggered by MIDI in a DAW. The editorial value here is naming that honestly rather than papering over it with a fictional gear list. This is what the album is and how it was made.
+
+For drum-gear study of the Animals as Leaders catalog, the live-drummer records — Weightless, The Joy of Motion, The Madness of Many, Parrhesia — are the appropriate references. The self-titled debut documents a programmed-drums production, and that documentation is what this article provides.
+
 ## Key Facts
 
 - Released April 28, 2009 on Prosthetic Records — Tosin Abasi's solo project debut
@@ -96,4 +106,4 @@ A: The Animals as Leaders debut began as Tosin Abasi's solo project — he had r
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

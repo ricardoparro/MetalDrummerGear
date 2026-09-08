@@ -1,6 +1,6 @@
 # Images and Words Drum Setup: Mike Portnoy's Progressive Metal Breakthrough
 
-> Complete breakdown of Mike Portnoy's drum gear on Dream Theater's Images and Words. Discover the Tama Artstar II kit, Zildjian cymbals, and the technical drumming that launched progressive metal into the mainstream.
+> Complete breakdown of Mike Portnoy's drum gear on Dream Theater's Images and Words. Discover the Tama Artstar II kit, Sabian cymbals, and the technical drumming that launched progressive metal into the mainstream.
 
 **Type:** Album Drum Setup
 **Drummer(s):** [Mike Portnoy](/llms/drummers/mike-portnoy.md)
@@ -23,7 +23,7 @@ This article breaks down every piece of gear Mike used to create this genre-defi
 
 - **Drums:** Tama Tama Artstar II Custom (Custom Purple with Gold Hardware finish)
 - **Snare:** Tama Tama Artstar II Brass Snare, 14" x 6.5"
-- **Cymbals:** Zildjian — Zildjian A Custom / K Custom
+- **Cymbals:** Sabian — Sabian AA Series
 - **Hardware / Pedals:** Tama Iron Cobra Power Glide Double Pedal; Tama Iron Cobra Hi-Hat Stand; Tama 1st Chair Round Rider; Promark 5B Hickory
 - **Heads:** Remo Coated Ambassador (batter), Remo Ambassador Snare Side (resonant)
 - **Snare tuning:** Medium-high tension for ghost note articulation with full backbeat crack
@@ -52,19 +52,43 @@ Mike tuned the snare in the medium-high range, tight enough for articulate ghost
 
 This snare would evolve over time — Mike later developed his signature Melody Master snare with Tama — but the core philosophy was already present: a drum that could whisper and scream equally well.
 
-### The Zildjian Setup
+### The Sabian AA Setup
 
-Mike's cymbal setup for Images and Words was built around the newly introduced Zildjian A Custom series, which had debuted in 1989. The A Customs' bright, cutting sound suited progressive metal perfectly — enough power to compete with heavy guitars, enough musicality for intricate passages.
+Mike's cymbal setup for Images and Words was built around Sabian's AA series, the bright, all-around line at the core of his kit since he signed with Sabian in 1985. The AA series' cutting sound suited progressive metal perfectly — enough power to compete with heavy guitars, enough musicality for intricate passages.
 
-The 14" A Custom hi-hats were central to Mike's style. Bright and articulate, they allowed fast 16th-note patterns to speak clearly even in dense arrangements. The opening hi-hat pattern of "Pull Me Under" showcases their cutting quality.
+The 14" AA hi-hats were central to Mike's style. Bright and articulate, they allowed fast 16th-note patterns to speak clearly even in dense arrangements. The opening hi-hat pattern of "Pull Me Under" showcases their cutting quality.
 
 Mike used multiple crashes strategically placed around his kit, ranging from 16" to 19". This gave him options for different intensities and tonal colors. The variety was practical too — with songs featuring complex structures and multiple sections, different crashes marked different emotional territories.
 
-The 20" A Custom Medium Ride provided versatility. Mike could ride on it with jazz-influenced grace during quiet sections, then crash it aggressively during climaxes. The clear bell was essential for accents, particularly in songs like "Metropolis—Part I" where the bell punctuates technical passages.
+The 20" AA Medium Ride provided versatility. Mike could ride on it with jazz-influenced grace during quiet sections, then crash it aggressively during climaxes. The clear bell was essential for accents, particularly in songs like "Metropolis—Part I" where the bell punctuates technical passages.
 
-The 18" Oriental China Trash added aggressive color. China cymbals were becoming increasingly popular in metal and progressive rock during the early 90s, and Mike used his to punctuate transitions and add explosive accents. The trashy quality cut through the mix distinctively.
+The 18" AA Chinese added aggressive color. China cymbals were becoming increasingly popular in metal and progressive rock during the early 90s, and Mike used his to punctuate transitions and add explosive accents. The trashy quality cut through the mix distinctively.
 
 Multiple splash cymbals gave Mike quick accent options without the sustain of larger crashes — perfect for progressive arrangements where every note counts.
+
+## The Album That Changed Everything
+
+Images and Words arrived at a pivotal moment for heavy music. In 1992, grunge dominated rock radio. Nirvana's "Nevermind" had changed everything. Complex, technical music was supposedly dead.
+
+Dream Theater proved otherwise.
+
+"Pull Me Under" shouldn't have been a hit. It's nearly 9 minutes long (radio edits aside), features odd time signatures, and makes no commercial concessions. But it connected — because beneath the technical prowess was genuine emotion and musicality.
+
+Mike Portnoy's drumming was central to this success. He could play anything technically, but he always served the song. "Pull Me Under" grooves despite its complexity. "Metropolis—Part I" thrills despite its 9-minute runtime. "Another Day" moves listeners despite its simplicity.
+
+The gear — Tama Artstar II drums, Sabian AA cymbals, Iron Cobra pedals — provided the tools. But Mike Portnoy himself was the instrument. At 25, he already understood what many drummers never grasp: technique means nothing without musicality.
+
+For drummers studying this album, the lessons extend beyond patterns and gear:
+
+- **Serve the song first**: Technical skill should enhance emotion, not replace it
+- **Dynamics matter**: The quiet moments make the loud ones louder
+- **Odd times can groove**: Subdivision and feel trump counting
+- **Double bass is a voice**: It speaks within the music, not over it
+- **Every fill should mean something**: Compositional thinking applies to drums too
+
+Images and Words launched progressive metal into the mainstream and established Mike Portnoy as a generational talent. The album remains essential listening — for drummers, for metal fans, and for anyone who believes that popular music and complexity aren't mutually exclusive.
+
+🥁 *"Pull me under, pull me under, pull me under..."* 🥁
 
 ## Key Facts
 
@@ -89,14 +113,14 @@ A: Mike Portnoy recorded Images and Words in 1992 using a Tama Artstar II Custom
 
 **Q: What cymbals did Mike Portnoy use on Images and Words?**
 
-A: Mike Portnoy used Zildjian A Custom and K Custom series cymbals on Images and Words. His setup included A Custom 14 inch Hi-Hats, A Custom crashes from 16 to 19 inches, an A Custom 20 inch Medium Ride, a Zildjian Oriental 18 inch China Trash, and A Custom splashes at 8 and 10 inches. The A Custom series was known for its bright, cutting sound that cut through the progressive arrangements on the album.
+A: Mike Portnoy used Sabian AA series cymbals on Images and Words, continuing the Sabian endorsement he had held since 1985. His setup included AA 14 inch Hi-Hats, AA crashes from 16 to 19 inches, an AA 20 inch Medium Ride, an AA 18 inch Chinese, and AA splashes at 8 and 10 inches. The AA series was known for its bright, cutting sound that cut through the progressive arrangements on the album.
 
 **Q: How much does Mike Portnoy's Images and Words drum kit cost?**
 
-A: At the time of the 1992 recording, the Tama Artstar II Custom kit was valued at around $3,500 to $5,000. Today, vintage Artstar II kits in playable condition can be found on the used market for $700 to $2,500. Vintage Zildjian A Custom cymbals from that era add another $400 to $1,200 used. Reproducing the full Images and Words setup with vintage gear typically costs between $1,100 and $3,700 today.
+A: At the time of the 1992 recording, the Tama Artstar II Custom kit was valued at around $3,500 to $5,000. Today, vintage Artstar II kits in playable condition can be found on the used market for $700 to $2,500. Vintage Sabian AA cymbals from that era add another $400 to $1,200 used. Reproducing the full Images and Words setup with vintage gear typically costs between $1,100 and $3,700 today.
 
 **Source:** https://metalforge.io/articles/images-and-words-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

@@ -46,6 +46,17 @@ Sabian's B8 series is B8 bronze — a lower tin-content alloy than the B20 bronz
 
 The four-piece setup (hi-hats, one crash, ride, china) is notably sparser than the multi-crash configurations documented on every later ABR album in this archive — a direct reflection of a smaller equipment budget and a band still building its touring rig from scratch. Even within those constraints, the single china cymbal placement above the floor tom for aggressive accent work is a choice that carries through, in expanded form, to every subsequent Greiner setup: the China cymbal as a compositional exclamation point, not just an effects cymbal.
 
+## Thrill Seeker's Legacy: Where Matt Greiner's Story Begins
+
+*Thrill Seeker* (2005) is not the polished, technically dazzling record that would make Matt Greiner's name — that came two years later with *Messengers*. What it offers instead is something arguably more valuable to drummers studying his career: proof that the foundation of a signature style can be built on entry-level gear and raw ambition, long before any manufacturer takes notice.
+
+The Pearl Export kit, Sabian B8 cymbals, and stock chain-drive pedal Greiner played on *Thrill Seeker* were purchased, not provided — the gear of a teenage drummer in a newly-signed Christian hardcore band, not yet the endorsed artist whose name would later appear on signature Pearl snares and Vic Firth sticks. The blast-beat-to-groove instincts that would define his career are already present, just executed with less refined tools and less experience behind them.
+
+**For Drummers Studying Thrill Seeker:**
+Listen to "Your Little Suburbia Is in Ruins" for the earliest version of Greiner's compositional fill approach, and "The Seventh Trumpet" for a glimpse of the technical ambition that would fully bloom on *Messengers*. The lesson is the same one that runs through this entire archive: technique and musical instinct come first, and the gear catches up.
+
+For the next chapter in Matt Greiner's gear evolution, see the [Messengers drum setup guide (2007)](/articles/messengers-drum-setup). For his complete current setup, see the [Matt Greiner complete drum setup guide](/articles/matt-greiner-complete-drum-setup).
+
 ## Key Facts
 
 - Released November 8, 2005 on Solid State Records — August Burns Red's debut studio album
@@ -81,4 +92,4 @@ A: *Thrill Seeker* (2005) shows a rawer, less technically developed version of t
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

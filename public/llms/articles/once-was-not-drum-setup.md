@@ -56,6 +56,25 @@ The crash setup — 16" and 18" ZXT — provided the fast-decaying accent voices
 
 The 20" ZXT Ride and 18" ZXT China completed a setup oriented around bright, cutting character — cymbals that project through Cryptopsy's dense guitar walls without requiring high-volume playing. Producer Chris Donaldson's overhead and room miking captured the ZXT array's combined brightness with precision, creating the album's cymbal soundscape.
 
+## The Velocity Record: Once Was Not as Technical Apex
+
+"Once Was Not" occupies a specific position in the Cryptopsy discography and in technical death metal history: it is the album where Flo Mounier went as fast as the recording process could capture. Not as technically complex as "And Then You'll Beg" in terms of odd-time metrics. Not as historically significant as [None So Vile](/articles/none-so-vile-drum-setup) in terms of genre impact. But faster, and at that speed, more precise than any extreme metal drummer before or since has matched on record.
+
+The Yamaha Recording Custom plus Zildjian ZXT configuration that Flo assembled for this album was not an endorsement arrangement or a fashion choice. Birch shells and ZXT's cutting brightness both prioritize attack over sustain — they were chosen because they served the album's musical requirements at its extreme tempos. This is the recurring pattern in Flo Mounier's career: gear changes follow musical needs, not brand relationships.
+
+What Lord Worm's return meant for the drums was freedom. DiSalvo's vocal style had introduced rhythmic concessions — momentary groove accommodations that made the music more accessible. Lord Worm's extreme approach allowed the rhythm section to operate at maximum intensity without concession, and Flo seized the opportunity completely.
+
+For drummers studying "Once Was Not":
+
+**Speed is not the ceiling it appears**: At 270 BPM, Flo's strokes are as individually articulated as they are at 200. The ceiling is not velocity — it is precision at velocity.
+**Gear serves music**: The Yamaha/ZXT combination was not arbitrary. Both prioritize the attack transient that extreme velocity requires.
+**Internalization enables speed**: Flo doesn't think at 280 BPM. The patterns are internalized as motor programs that execute without conscious management.
+**Birch for attack**: If you're recording extreme metal at high tempos, birch shells' faster attack transient is a practical advantage, not just a tonal preference.
+
+"Once Was Not" remains the primary benchmark for studio-recorded blast beat velocity in technical death metal. For drummers who want to understand what the upper limit looks like in practice, this album is the document.
+
+💀 *"Once Was Not" — where technical death metal's velocity ceiling was found.* 🥁
+
 ## Key Facts
 
 - Recorded at Piccolo Studio, St-Hubert, Quebec in 2005
@@ -98,4 +117,4 @@ A: Once Was Not (2005) and And Then You'll Beg (2000) represent different peaks 
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

@@ -62,6 +62,26 @@ The Z Custom 21" Mega Bell Ride is a statement piece. The "Mega Bell" designatio
 
 Dual Chinas — K Custom and Oriental — give Mario options for trashy accents at different volumes and in different positions. The K Custom is darker and more complex, while the Oriental Trash is brighter and more aggressive.
 
+## The Whale's Architect
+
+Mario Duplantier has built something rare in extreme metal: a drumming style that's instantly recognizable, technically demanding, and emotionally resonant. His work with Gojira proves that heavy music can be smart, thoughtful, and powerful simultaneously.
+
+The gear — Tama Starclassic Bubinga drums, Zildjian K and A Custom cymbals, Iron Cobra pedals — provides the foundation. But Mario's unique contribution is understanding how to use these tools. His tribal influences, dynamic control, and compositional thinking transform standard metal drumming into something approaching orchestration.
+
+For drummers studying Mario's approach, the lessons extend beyond gear and technique:
+
+- **Space is a tool**: What you don't play matters as much as what you do
+- **Dynamics create impact**: Quiet moments make loud moments louder
+- **Groove transcends genre**: Even death metal can swing
+- **Concept matters**: Understanding why you're playing something affects how you play it
+- **Art informs art**: Skills in one creative discipline enhance others
+
+From the underground of Bayonne, France to headlining festivals worldwide, Gojira's rise mirrors the growth of conscious, environmentally-aware metal. At the center of it all, Mario Duplantier's drums provide not just rhythm, but purpose. His kit is an instrument of both sonic devastation and artistic expression.
+
+The flying whales rise because Mario Duplantier carries them.
+
+🐋 *"I have to find the whales..."* 🥁
+
 ## Key Facts
 
 - Co-founded Gojira with brother Joe in 1996
@@ -97,4 +117,4 @@ A: A Tama Starclassic Bubinga kit matching Duplantier's configuration currently 
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

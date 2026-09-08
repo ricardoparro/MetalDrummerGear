@@ -52,6 +52,16 @@ The 14" Byzance Dark hi-hats handled the fast, controlled pattern work on tracks
 
 The 18" Byzance China closes out the setup, delivering the same trashy, explosive accent that had already become a signature of Verbeuren's playing — used here to punctuate riff changes on the album's harder-hitting tracks like "Brickwalker" and "The Mindmaker."
 
+## The Middle Chapter of an Acclaimed Trilogy
+
+"Figure Number Five" doesn't get the same historical credit as the breakthrough of "Natural Born Chaos" or the commercial peak of "Stabbing the Drama," but among Soilwork's own fanbase it's frequently named the best of the three — and often the best album the band ever made. For Dirk Verbeuren, it's the record where the technical foundation he'd built on "Natural Born Chaos" became second nature, freeing him to serve an album that pushed even further into melody without losing an ounce of precision.
+
+**The Gear Foundation:**
+Verbeuren changed nothing about his rig between these two albums — the same Tama Starclassic Performer kit, Meinl Byzance cymbals, and Iron Cobra double pedal carried straight through. That continuity let him focus entirely on performance during a session split across three different studios in the span of three months.
+
+**A Career-Long Arc:**
+"Figure Number Five" completes the early stretch of Verbeuren's Soilwork tenure that began with "A Predator's Portrait" and "Natural Born Chaos." For the breakthrough album that came before it, see the [Natural Born Chaos Drum Setup article](/articles/natural-born-chaos-drum-setup). For the commercial peak that followed two years later, see the [Stabbing the Drama Drum Setup article](/articles/stabbing-the-drama-drum-setup). For his complete gear evolution across both Soilwork and Megadeth, visit the [Dirk Verbeuren drummer profile](/drummer/dirk-verbeuren).
+
 ## Key Facts
 
 - Soilwork's fifth studio album, released April 22, 2003 on Nuclear Blast Records
@@ -89,4 +99,4 @@ A: Both albums feature Dirk Verbeuren on an identical core setup — a Tama Star
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

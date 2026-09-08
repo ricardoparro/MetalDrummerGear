@@ -40,6 +40,10 @@ Every major piece of Lombardo's Reign in Blood rig is documented in detail on Me
 - [Cymbal Setup — Paiste RUDE & 2002 Series](https://metalforge.io/cymbals/setups/dave-lombardo) — Full per-piece breakdown of the hi-hats, crashes, ride, and China
 - [Paul Bostaph vs Dave Lombardo](https://metalforge.io/vs/paul-bostaph-vs-dave-lombardo) — The Slayer drum chair, gear and technique compared
 
+## 40 Years Later, Still the Standard
+
+Reign in Blood's 40th anniversary isn't just a nostalgia trigger — it's a reminder that the album's drumming still holds up as a technical and musical benchmark. The gear that made it possible is still partly on the market: the Paiste RUDE and 2002 cymbal lineup is unchanged, and Lombardo's current signature sticks carry the lineage forward even though the exact vintage Tama kit is now a collector's item. For drummers discovering Reign in Blood for the first time in 2026, or returning to it four decades on, the links above are where the study starts.
+
 ## Key Facts
 
 - Released October 1986 on Def Jam Recordings — the exact day is disputed between October 7 and October 20
@@ -74,4 +78,4 @@ A: The Paiste RUDE and 2002 series cymbals he used remain in production largely 
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-08-05 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

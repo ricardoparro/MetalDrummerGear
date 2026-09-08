@@ -52,6 +52,27 @@ The crash pairing — 17" A Custom and 18" A Custom — covers Raatikainen's two
 
 The 20" K Custom Ride introduces deliberate tonal contrast. Where the A Custom crashes are bright and modern, the K Custom's darker, more complex character provides a different sonic texture for ride passages — particularly effective in the more atmospheric or groove-oriented passages that appear on albums like Halo of Blood and I Worship Chaos, where sustained ride work needs to sit differently in the mix than the sharp attack of the crash-heavy sections.
 
+## Children of Bodom's Rhythmic Foundation: A Legacy Sealed
+
+Jaska Raatikainen co-founded Children of Bodom at 14 years old and drummed for every record the band ever made — from the raw, youthful energy of Something Wild through the mature melodic sophistication of Hexed. The band's dissolution in 2019 and Alexi Laiho's death in December 2020 permanently sealed the Children of Bodom catalog as one of melodic death metal's defining bodies of work. Raatikainen's drumming is inseparable from that legacy.
+
+His gear choices reflect the demands his music made:
+
+- **Pearl Masters Premium Maple**: Professional-grade shells built for the endurance of 26 years of worldwide touring and technically demanding studio work
+- **Zildjian A Custom Hi-Hats and Crashes**: Definition and attack that cuts through dense keyboard and guitar arrangements without mix compromise
+- **Zildjian K Custom Ride**: Tonal contrast that separates atmospheric passages from full-intensity sections
+- **Pearl Eliminator Double Pedal**: Mechanical consistency supporting the double-kick patterns that drive Children of Bodom's most relentless material
+- **Vic Firth American Classic 5A**: Speed and projection balance for a drummer navigating blast beats and neoclassical fills within the same song
+
+The deeper lesson in Raatikainen's playing is the melodic integration: how fills follow keyboard lines, how kick density responds to guitar riff structure, how the full kit participates in compositional decisions that most drummers treat as the melody instruments' job alone. Children of Bodom demanded that, and Raatikainen delivered it across a decade of peak-era recordings.
+
+For deeper exploration:
+- **Full drummer profile**: [Jaska Raatikainen at MetalForge](/drummer/55)
+- **Gene Hoglan profile**: [Gene Hoglan — the Atomic Clock](/drummer/3) — another extreme metal drummer whose precision and melodic fill intelligence defined a genre
+- **Dave Lombardo profile**: [Dave Lombardo at MetalForge](/drummer/4) — the blast beat architect whose vocabulary Raatikainen drew on for Children of Bodom's most aggressive passages
+
+Children of Bodom's catalog stands as Finnish metal's defining contribution to the global melodic death metal genre. Jaska Raatikainen was there for every note.
+
 ## Key Facts
 
 - Co-founded Children of Bodom with Alexi Laiho at age 14 in Espoo, Finland
@@ -94,4 +115,4 @@ A: Jaska Raatikainen plays Vic Firth American Classic 5A sticks. The 5A's weight
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

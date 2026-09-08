@@ -56,6 +56,16 @@ The AAX X-Plosion crashes deliver fast attack and quick decay — essential in M
 
 The heavy 21" ride and AAX China provide the authority and character needed for *Nothing*'s more intense passages, with the China's trashy explosions punctuating the most rhythmically dramatic section transitions.
 
+## The Blueprint That Built a Genre
+
+*Nothing* is where the djent blueprint was drawn, years before the genre had a name or a community. When Periphery, Animals as Leaders, and a generation of progressive metal bands began citing Meshuggah as their foundational influence, they were citing the vocabulary that *Nothing* codified in January 2002.
+
+For Tomas Haake, the album represents the full crystallization of a technique that had been developing across *Chaosphere* (1998) — the polyrhythmic approach now executed with a precision and musical confidence that would carry forward through *Catch 33* (2005), *obZen* (2008), *Koloss* (2012), and beyond. The Sonor Designer Series kit that anchored these recordings was the same one he maintained through the decade — not because he lacked options, but because the equipment served the vision perfectly.
+
+The practical lesson for drummers studying *Nothing* is the same one that runs through Haake's entire catalog: extreme complexity and powerful groove are not in opposition. The patterns on *Nothing* are intellectually staggering in their rhythmic architecture, yet the album *grooves* — it moves the body even as it stuns the mind. That combination, more than the technical achievements themselves, is what made *Nothing* the foundational document of a genre.
+
+Two decades after its release, *Nothing* remains essential listening for anyone who wants to understand where the djent template came from — and essential study for any drummer who wants to understand what polyrhythmic displacement actually sounds like when played by a master. 🤘
+
 ## Key Facts
 
 - Meshuggah's 4th studio album — first with 8-string guitars in F# standard tuning
@@ -98,4 +108,4 @@ A: Yes, Nothing (2002) was the first Meshuggah album recorded with 8-string guit
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

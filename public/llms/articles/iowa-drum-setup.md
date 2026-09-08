@@ -58,6 +58,18 @@ The dual China cymbals (20" and 22") were essential to Slipknot's sound. The tra
 
 The massive 22" Power Ride could withstand Joey's aggressive playing while providing clear stick definition for the relatively few ride-heavy passages on the album.
 
+## The Standard for Extreme Drumming
+
+Iowa's drum performances set a standard for extreme metal that few have matched. Joey Jordison's combination of speed, precision, stamina, and musicality created a document of drumming that continues to inspire and intimidate drummers two decades later.
+
+What made Joey special wasn't just technical ability — it was the musical intelligence behind it. Even at 200+ BPM, his parts served the songs. The fills made sense, the grooves connected, and the intensity supported rather than overwhelmed the music.
+
+The gear Joey used was professional but not exotic. Pearl drums, Paiste cymbals, Promark sticks — all standard professional equipment. What made Iowa's drum sound special was the player, the producer, and the specific combination of elements that captured lightning in a bottle.
+
+For drummers studying Iowa, the lessons go beyond speed and technical exercises. It's about channeling intensity into music, about maintaining precision under extreme physical demands, and about finding your unique voice within a genre.
+
+Joey Jordison's work on Iowa ensures his place among metal's greatest drummers. The album remains essential listening for anyone interested in extreme drumming, and its influence echoes through every blast beat and double bass pattern in modern metal.
+
 ## Key Facts
 
 - Recorded live at Sound City and Indigo Ranch with Ross Robinson
@@ -89,4 +101,4 @@ A: Joey Jordison's Pearl Masterworks Custom setup for Iowa would have cost appro
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

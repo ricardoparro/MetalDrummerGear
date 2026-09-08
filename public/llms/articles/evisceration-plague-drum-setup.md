@@ -1,6 +1,6 @@
 # Paul Mazurkiewicz's Drum Setup on Cannibal Corpse's Evisceration Plague (2009)
 
-> Complete drum gear breakdown for Cannibal Corpse's Evisceration Plague (2009). Paul Mazurkiewicz's Pearl Reference and Meinl rig, Erik Rutan's second Mana Recording Studios production, and the band's highest Billboard 200 debut to that point.
+> Complete drum gear breakdown for Cannibal Corpse's Evisceration Plague (2009). Paul Mazurkiewicz's Pearl Reference and Sabian rig, Erik Rutan's second Mana Recording Studios production, and the band's highest Billboard 200 debut to that point.
 
 **Type:** Album Drum Setup
 **Drummer(s):** [Paul Mazurkiewicz](/llms/drummers/paul-mazurkiewicz.md)
@@ -15,13 +15,13 @@ The same five-piece lineup that recorded Kill returned intact: George "Corpsegri
 
 Evisceration Plague became Cannibal Corpse's highest-charting album to that point, entering the Billboard 200 at #66 on first-week sales of roughly 9,600 copies — more than double the chart position Kill had managed three years earlier. AllMusic's Greg Prato awarded the record 3.5 out of 5 stars, praising its "metronome-like precision drumming, razor-sharp riffing" and singling out the eight-minute-plus title track — the fifth Cannibal Corpse album to feature a title track, and the subject of an official music video — as a highlight. Contemporary reviews repeatedly cited Mazurkiewicz's playing specifically, describing his work on the record as his most technically accomplished performance to date, built on some of the fastest and most controlled blast-beat passages of his career.
 
-This article breaks down the Pearl Reference and Meinl rig Mazurkiewicz brought into the second Mana Recording Studios session, Erik Rutan's production on the album, and the technical character of a record that pushed his drumming to a new level of precision.
+This article breaks down the Pearl Reference and Sabian rig Mazurkiewicz brought into the second Mana Recording Studios session, Erik Rutan's production on the album, and the technical character of a record that pushed his drumming to a new level of precision.
 
 ## Gear Breakdown
 
 - **Drums:** Pearl Pearl Reference (mature endorsement configuration, 2009) (Custom finish (Pearl endorsement era) finish)
 - **Snare:** Pearl Pearl Free-Floating steel-shell snare, 14" x 6.5"
-- **Cymbals:** Meinl — Meinl Byzance (established endorsement, 2009)
+- **Cymbals:** Sabian — Sabian AAX (established endorsement, 2009)
 - **Hardware / Pedals:** Pearl Eliminator Double Bass Pedal; ddrum Acoustic Pro Triggers (live context); Vic Firth Paul Mazurkiewicz Signature
 - **Heads:** Remo Coated Ambassador (batter), Remo Diplomat Snare Side (resonant)
 - **Snare tuning:** Medium-high tension for maximum cut and articulation at extreme tempo
@@ -42,13 +42,26 @@ The free-floating design's isolation from rim and lug stress mattered more on th
 
 Rutan's mix again favored a forward, present snare position, consistent with every Cannibal Corpse production since the band's earliest Morrisound sessions.
 
-### Meinl Byzance: The Settled Modern Arsenal
+### Sabian AAX: The Settled Modern Arsenal
 
-The Meinl Byzance setup that carried Mazurkiewicz through Kill returned unaltered on Evisceration Plague, and by 2009 there was little left to establish — the endorsement, first developing on Bloodthirst a decade earlier, was fully mature. Meinl's hand-hammered bronze construction gave the cymbals the fast attack needed to stay articulate through the album's fastest blast sections, a quality contemporary reviewers highlighted alongside Mazurkiewicz's drumming itself.
+The Sabian AAX setup that carried Mazurkiewicz through Kill returned unaltered on Evisceration Plague, and by 2009 there was little left to establish — the endorsement, first developing on Bloodthirst a decade earlier, was fully mature. Sabian's hand-hammered bronze construction gave the cymbals the fast attack needed to stay articulate through the album's fastest blast sections, a quality contemporary reviewers highlighted alongside Mazurkiewicz's drumming itself.
 
 The 18" China remained the go-to accent for riff transitions, a constant in Mazurkiewicz's vocabulary across every era of his career, now delivering that role through a cymbal setup that had not needed to change in years — a sign of just how settled his gear identity had become by this point.
 
 Rutan's mix kept the cymbals present but tightly controlled, avoiding the kind of wash that could blur the album's most extreme blast passages, particularly on the title track's centerpiece drumming.
+
+## The Refinement Album: Consistency as Achievement
+
+"Evisceration Plague" doesn't reinvent what Kill established three years earlier — and that consistency is exactly what makes it notable. Paul Mazurkiewicz's Pearl Reference and Sabian rig, fully settled since the Kill sessions, gave him a stable platform to deliver what critics at the time widely regarded as his fastest, most controlled recorded performance to date. Erik Rutan's second consecutive Mana Recording Studios production refined rather than rebuilt the punishing sonic identity introduced on Kill, and the album rewarded that consistency with Cannibal Corpse's best Billboard 200 debut to that point.
+
+For a band eleven albums into its career, Evisceration Plague stands as proof that a stable lineup, a trusted producer, and unchanged gear can still produce a genuine technical leap forward — not through reinvention, but through the kind of refinement that only comes from repetition at the highest level.
+
+For the complete Paul Mazurkiewicz CC gear arc around this record:
+- **The predecessor**: [Kill drum setup (2006)](/articles/kill-drum-setup) — the return-to-brutality album and the start of the Rutan era
+- **The earlier consolidation chapter**: [Gore Obsessed drum setup (2002)](/articles/gore-obsessed-drum-setup) — the pre-Kill bridge record
+- **The genre landmark**: [Tomb of the Mutilated drum setup (1992)](/articles/tomb-of-the-mutilated-drum-setup) — the Morrisound peak
+- **Modern rig**: [Paul Mazurkiewicz drum setup](/articles/paul-mazurkiewicz-drum-setup) — Pearl Reference / Sabian / Pearl Eliminator
+- **Full profile**: [Paul Mazurkiewicz at MetalForge](/drummer/paul-mazurkiewicz)
 
 ## Key Facts
 
@@ -69,7 +82,7 @@ Rutan's mix kept the cymbals present but tightly controlled, avoiding the kind o
 
 **Q: What kit did Paul Mazurkiewicz use on Evisceration Plague?**
 
-A: On Evisceration Plague (2009), Paul Mazurkiewicz played the same fully mature Pearl Reference kit documented on Kill (2006) — dual 22-inch x 18-inch kick drums, a four-tom layout in maple/African mahogany hybrid shells, and his 14-inch x 6.5-inch Pearl Free-Floating steel-shell snare. His Meinl Byzance cymbal setup and Pearl Eliminator double bass pedal carried over unchanged, giving the album the same core rig as its predecessor with no gear changes.
+A: On Evisceration Plague (2009), Paul Mazurkiewicz played the same fully mature Pearl Reference kit documented on Kill (2006) — dual 22-inch x 18-inch kick drums, a four-tom layout in maple/African mahogany hybrid shells, and his 14-inch x 6.5-inch Pearl Free-Floating steel-shell snare. His Sabian AAX cymbal setup and Pearl Eliminator double bass pedal carried over unchanged, giving the album the same core rig as its predecessor with no gear changes.
 
 **Q: Who produced Evisceration Plague and where was it recorded?**
 
@@ -91,4 +104,4 @@ A: The title track "Evisceration Plague" is the fifth Cannibal Corpse song to sh
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

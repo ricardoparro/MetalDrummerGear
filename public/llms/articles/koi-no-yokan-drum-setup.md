@@ -23,7 +23,7 @@ This article explores the gear Abe used during the Koi No Yokan sessions, the te
 
 - **Drums:** Tama Tama Starclassic Bubinga / Birch hybrid (Custom dark finish finish)
 - **Snare:** Tama Tama Bell Brass 14"x6.5" / Tama Starphonic Brass, 14" x 6.5"
-- **Cymbals:** Sabian — Sabian HHX Series
+- **Cymbals:** Zildjian — K Custom / A Custom
 - **Hardware / Pedals:** Tama Speed Cobra Single Pedal; Tama Iron Cobra Hi-Hat Stand; Tama 1st Chair; Vic Firth Signature / 5B-equivalent
 - **Heads:** Remo Ambassador Coated (batter), Remo Ambassador Snare Side (resonant)
 - **Snare tuning:** Medium-high tuning with controlled overtones
@@ -50,17 +50,43 @@ For more dynamic tracks like "Entombed" and "Rosemary," the same drum reveals di
 
 "Tempest" is the album's centerpiece, and the snare work there is some of Abe's most expressive on record. The verse plays with rim clicks and ghost notes; the chorus opens up with a full backbeat; the bridge drops to near silence before the song's enormous climax. Through all of it, the bell brass shell delivers exactly what's needed, exactly when it's needed.
 
-### Sabian HHX: A Deepening Palette
+### Zildjian K Custom: A Deepening Palette
 
-Abe's Sabian HHX setup carries forward from Diamond Eyes essentially unchanged, but Koi No Yokan finds him using the cymbals with even more nuance. The dream-state textures of "Entombed" and "Rosemary" rely heavily on ride bell work, china accents, and partially-open hi-hat patterns that the HHX line is perfectly suited for.
+Abe's Zildjian K Custom setup carries forward from Diamond Eyes essentially unchanged, but Koi No Yokan finds him using the cymbals with even more nuance. The dream-state textures of "Entombed" and "Rosemary" rely heavily on ride bell work, china accents, and partially-open hi-hat patterns that the K Custom line is perfectly suited for.
 
-The 14" HHX Groove Hi-Hats remain the workhorse. Their dry chick and clear stick definition cut through the album's wall-of-guitars arrangements, and Abe's foot work on the hat — particularly his use of subtle splash openings — is some of the most musical of his career on this record.
+The 14" K Custom Hi-Hats remain the workhorse. Their dry chick and clear stick definition cut through the album's wall-of-guitars arrangements, and Abe's foot work on the hat — particularly his use of subtle splash openings — is some of the most musical of his career on this record.
 
-The HHX Evolution Ride is once again the secret weapon. On "Tempest," the extended ride patterns that drive the song's middle section are unmistakably Sabian — complex wash, clear stick definition, and a bell that punches without screaming. There's a reason Abe has stayed with this cymbal for over a decade.
+The 22" K Custom Ride is once again the secret weapon. On "Tempest," the extended ride patterns that drive the song's middle section are unmistakably K Custom — complex wash, clear stick definition, and a bell that punches without screaming. There's a reason Abe has stayed with this cymbal for over a decade.
 
-The 17" and 19" HHX Evolution crashes punctuate Koi No Yokan's many dynamic peaks without ever overwhelming the mix. Raskulinecz captures their full frequency range — fast attack, dark sustain, no harshness — and they sit beautifully in the stereo field.
+The 18" and 20" K Custom crashes punctuate Koi No Yokan's many dynamic peaks without ever overwhelming the mix. Raskulinecz captures their full frequency range — fast attack, dark sustain, no harshness — and they sit beautifully in the stereo field.
 
-The 18" HHX Chinese gets a few standout moments, particularly on "Poltergeist" and "Swerve City." Like everything else in Abe's kit, the china is used with discipline: rare enough that when it appears, it means something.
+The 19" A Custom China gets a few standout moments, particularly on "Poltergeist" and "Swerve City." Like everything else in Abe's kit, the china is used with discipline: rare enough that when it appears, it means something.
+
+## The Album Where Deftones Became Themselves
+
+Koi No Yokan is the album where Deftones became the band they are today. The patient buildups, the dynamic range, the dream-state textures, the locked-in rhythm section — every element of modern Deftones is on full display here, perfected to the point where everything since has been a continuation rather than a reinvention.
+
+**What Made Abe's Performance Special:**
+
+- **Dynamic Patience:** Abe's willingness to play almost nothing for minutes at a time is what makes "Entombed," "Tempest," and "Rosemary" work. The restraint is the performance.
+
+- **Settled Pocket:** With Sergio Vega fully integrated, Abe's pocket here is the deepest of his career to that point. The rhythm section is one organism.
+
+- **Melodic Drumming:** The tom melodies on "Romantic Dreams" and "Goon Squad" treat the kit as a pitched instrument, expanding Abe's vocabulary without abandoning his pocket-first identity.
+
+- **Honor the History:** As the final Chi Cheng-credited album, Koi No Yokan carries emotional weight, and Abe's drumming reflects it — patient, dignified, and built for the long view.
+
+**For Drummers Studying Koi No Yokan:**
+
+Start with the spaces. Learn to play "Entombed" by playing nothing for three minutes. The patience is the part.
+
+Study "Tempest." That song is a textbook of dynamic pacing — how to build a seven-minute arc that never loses the listener.
+
+Lock into Sergio Vega's bass lines. The rhythm-section relationship on Koi No Yokan is one of the most musical in modern metal. Hear how the kick and bass move as one.
+
+Finally, remember: Koi No Yokan is the album where Deftones stopped having anything to prove. It's confident, patient, and completely itself. Aim for that as a drummer — to play music that sounds like it could only be you.
+
+🥁 *"The premonition of love" — and the certainty of pocket.* 🤘
 
 ## Key Facts
 
@@ -96,4 +122,4 @@ A: No. Abe Cunningham is a documented single-kick player, and Koi No Yokan uses 
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

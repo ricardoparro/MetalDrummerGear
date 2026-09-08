@@ -54,6 +54,21 @@ The A Series New Beat hi-hats provided the tonal center his playing demanded. Re
 
 The crash and China cymbals served the album's death metal sections with characteristic Zildjian clarity — musical crashes with enough body to punctuate section changes, a China with the raw aggression required for blasting passages. The 10" splash appeared in jazz-vocabulary contexts, providing the quick accent responses that larger crashes couldn't deliver.
 
+## Focus: Where Jazz Fusion Met Extreme Metal and Neither Survived Unchanged
+
+Cynic's "Focus" is the album where Sean Reinert proved that his innovations on "Human" were not a ceiling — they were a foundation. Every technique he had introduced to death metal in 1991 he took further in 1993: more sophisticated jazz vocabulary, more compositional thinking, and the addition of electronic integration that pushed the sonic possibilities of extreme metal drumming into entirely new territory.
+
+**The Gear in Perspective:**
+Reinert's equipment on "Focus" was an evolution of what he had used on "Human" — Tama Artstar II shells, Zildjian A and K cymbals, DW double pedal — augmented by the electronic trigger pads that gave the album its unique textural dimension. The lesson is the same as always: extraordinary playing elevates ordinary equipment. The Artstar II and Zildjian cymbals were professional but not exotic; what made them produce extraordinary sounds was Reinert's hands.
+
+**For Drummers Today:**
+Study "Focus" as a masterclass in vocabulary expansion. Reinert demonstrates what happens when you commit fully to erasing genre boundaries rather than testing them. Every passage is considered, every fill is compositional, every cymbal choice serves the music rather than the drummer's ego.
+
+**The Sean Reinert Legacy:**
+From "Human" through "Focus" and beyond, Sean Reinert established that extreme metal drumming could be genuinely musical — not just technically demanding, but sophisticated, dynamic, and emotionally expressive. "Focus" is his most complete statement. Every progressive metal drummer since has been building on what he laid down.
+
+🥁 *Sean Reinert (1971-2020) — He showed death metal what was possible when jazz met metal and neither blinked.* 🥁
+
 ## Key Facts
 
 - Recorded at Morrisound Recording, Tampa with producer Scott Burns
@@ -91,4 +106,4 @@ A: Cynic's Focus (1993) was recorded at Morrisound Recording in Tampa, Florida, 
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

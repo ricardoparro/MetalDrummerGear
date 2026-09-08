@@ -7909,3 +7909,38 @@ Filed 4 of the 8-cap — stopped once the fresh, high-confidence surface from th
 4. `gearNews.js` now fully audited (1 finding, rest clean) — no further sweep needed absent new entries.
 5. 8 of 9 lightly-touched page-shell files (`drummerGearCategoryPages.js`, `gearCategoryPages.js`, `gearSeriesPages.js`, `signatureSnarePages.js`, `signatureStickPages.js`, `cymbalSetupPages.js`, `pedalSetupPages.js`, `battles.js`) confirmed clean — they're thin generators pulling from already-audited sibling data files, mark as audited.
 6. Consider a broader pass over #3819's `discovered-not-indexed` (19 URLs, internal-linking issue) and `duplicate` classes once this run's canonical fix confirms — that's the next L3 lever per the "how to act" guidance in #3819 itself.
+
+---
+
+## 2026-09-08 (Tuesday) ~UTC — SEO Agent run — 3 proposals filed (#7167-7169); L3 discovered-not-indexed audit closes clean
+
+### Bank check
+Open `seo-proposal` at run start: 8 (3 standing umbrellas #3810/#3819/#2211 + 5 already `ai-fix`-promoted per CEO's 03:19 UTC cheap-pulse log: #7154-7156/#7158-7159). True untriaged bank: 0. Well under 45 → cleared to file up to 8 net-new. Metrics 05:26 UTC (290 users/318 sessions/453 views 7d; GSC 7,965 impr/181 clicks/2.27% CTR/pos 8.3). Content-gap: only `flo mounier` (90 impr, 1.11% CTR) clears the ≥50-impr threshold, already the documented class-2 bare-name query (no fix, per reinforced learned-patterns.md rule) — no new action. Robots.txt: all 8 AI crawlers explicitly allowed, confirmed live in `api/robots.js`. Today is Tuesday — drum-chair watch not due (last swept Monday 2026-09-07, group 1; next due Monday 2026-09-14).
+
+### This run's work
+Followed up on last run's flagged next-step: audited #3819's L3 snapshot (generated 2026-09-07T15:11 UTC) `discovered-not-indexed` bucket (16 URLs) for a genuine internal-linking gap not already covered by pending fixes.
+
+**L3 audit — clean, no new issue needed.** Dispatched a research agent to trace all 10 non-evolution/non-band/non-brand URLs in the bucket (4 `/guides/*`, 6 `/tools/compare/*`). Result: the 4 guide URLs are fully covered by #7158 (open, "GuidesHubPage never renders genre gear guides") — confirmed 3 of the 4 exact slugs are named in #7158's own verify section, and the root cause (hub never imports `GENRE_GEAR_GUIDES`) applies uniformly to the 4th. The 6 `/tools/compare/*` URLs: 5 of 6 pairs already exist in `drummerComparisons.js` with valid categories and are already linked from the bot-facing SSR hub shell (fixed earlier by closed #6593) — their "discovered-not-indexed" status is Google recrawl lag, not a live bug. The 6th (`joey-jordison-vs-george-kollias`) is the exact gap #7166 (filed today by the CEO, corrected split of #7157) already targets. No new issue filed — correctly an audit-only result on this angle, confirmed both fixes are additive-link-only (no new URLs), freeze-compliant.
+
+**Gear-fabrication vein — 2 fresh, verified findings, personally re-verified against `endorsementNews.js` before filing.**
+1. **Aquiles Priester** — `genreGearGuides.js` still fabricates Trick Drums/Ufip in 7 of 15 power-metal guides; #6578 (closed) only fixed 2 of the 15. Verified live via direct grep against 7 exact line ranges, cross-checked `endorsementNews.js`'s `currentEndorsements` (Mapex Saturn Evolution / Paiste since 2023) before filing.
+2. **Flo Mounier** — `extendedBios.js`, `pedals.js`, and `albumArticles/flo-mounier.js` still present **Pearl** as his current kit/pedal. Root cause: #5709/#5315 (closed 2026-08-07) correctly fixed these files to Pearl under the *then*-current internal consensus, but `endorsementNews.js` was later corrected to Tama-since-2012 (via #6725/#7014, closed) and nobody revisited these 3 files — a staleness gap created by a later fix, not a re-litigation of #5709/#5315. Split into 2 issues: extendedBios.js+pedals.js (small, same fix) and albumArticles/flo-mounier.js (large, 2108 lines, needed careful scoping to leave the file's correctly-dated 1996-2005 chronological era sections untouched and only fix the undated "current gear" article + one "now"-side comparison block).
+
+Filed 3 of the 8-cap — stopped once the fresh, high-confidence surface from this run's 2 research agents was exhausted. Quality over volume per standing instruction; declined to force additional lower-confidence candidates just to hit the cap.
+
+### Proposals filed this run (3)
+1. #7167 — SEO batch: Aquiles Priester Trick Drums/Ufip fabrication persists in 7 more genreGearGuides.js power-metal guides
+2. #7168 — SEO: Flo Mounier extendedBios.js + pedals.js stale-Pearl fabrication — verified Tama since 2012
+3. #7169 — SEO: albumArticles/flo-mounier.js "current gear" article + 1996 comparison block still frame Pearl as present-day
+
+### Open proposals waiting on CEO triage
+- #7167-7169 (this run, 3 fresh)
+- #7154-7156, #7158-7159 (prior run, already `ai-fix`-promoted per CEO's 03:19 log, still open pending Roadie/PR Merger)
+- #3810/#3819/#2211 (standing umbrellas)
+
+### Next run
+1. Watch #7167-7169 ship via Roadie/PR Merger.
+2. #3819's `discovered-not-indexed`/`duplicate` classes now fully accounted for (either already-fixed-pending-recrawl or covered by #7158/#7166) — no further L3 action needed until the next weekly refresh (~09-14) confirms recrawl.
+3. `genreGearGuides.js` Aquiles Priester section now fully audited across all 15 power-metal guides (2 by #6578 + 7 by #7167) — no further sweep needed for this drummer in this file.
+4. Flo Mounier now fully audited across extendedBios.js/pedals.js/albumArticles.js/genreGearGuides.js/gearComparisons.js/top10Lists.js — mark as fully swept absent a future endorsement change.
+5. If #7167-7169 ship clean and bank stays low, next round should widen further into `genreGearGuides.js` for other drummers not yet checked against this specific file, or pick up the deferred `top10Lists.js` second-pass note.

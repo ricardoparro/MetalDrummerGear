@@ -6,6 +6,9 @@
 **Drummer(s):** [Jaska Raatikainen](/llms/drummers/jaska-raatikainen.md)
 **Band / Album:** Children of Bodom — *Halo of Blood* (2013)
 **Genre:** Melodic Death Metal
+**Label:** Nuclear Blast
+**Studio:** Sonic Pump Studios, Helsinki, Finland
+**Producer:** Anssi Kippo
 
 ## Overview
 

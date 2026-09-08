@@ -6,6 +6,9 @@
 **Drummer(s):** [Mike Portnoy](/llms/drummers/mike-portnoy.md)
 **Band / Album:** Avenged Sevenfold — *Nightmare* (2010)
 **Genre:** Heavy Metal
+**Label:** Warner Bros. Records
+**Studio:** Los Angeles, California
+**Producer:** Mike Elizondo
 
 ## Overview
 

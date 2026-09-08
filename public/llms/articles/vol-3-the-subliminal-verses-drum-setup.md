@@ -6,6 +6,9 @@
 **Drummer(s):** [Joey Jordison](/llms/drummers/joey-jordison.md)
 **Band / Album:** Slipknot — *Vol. 3: (The Subliminal Verses)* (2004)
 **Genre:** Nu Metal / Alternative Metal
+**Label:** Roadrunner Records
+**Studio:** Henson Recording Studios (formerly A&M), Los Angeles
+**Producer:** Rick Rubin, Slipknot
 
 ## Overview
 

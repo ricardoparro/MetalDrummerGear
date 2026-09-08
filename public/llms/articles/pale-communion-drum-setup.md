@@ -6,6 +6,9 @@
 **Drummer(s):** [Martin Axenrot](/llms/drummers/martin-axenrot.md)
 **Band / Album:** Opeth — *Pale Communion* (2014)
 **Genre:** Progressive Rock / Art Rock
+**Label:** Roadrunner Records
+**Studio:** Fascination Street Studios, Örebro, Sweden
+**Producer:** Mikael Åkerfeldt
 
 ## Overview
 

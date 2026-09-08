@@ -6,6 +6,9 @@
 **Drummer(s):** [Paul Mazurkiewicz](/llms/drummers/paul-mazurkiewicz.md)
 **Band / Album:** Cannibal Corpse — *Gallery of Suicide* (1998)
 **Genre:** Death Metal
+**Label:** Metal Blade Records
+**Studio:** Morrisound Recording, Tampa, Florida
+**Producer:** Jim Morris
 
 ## Overview
 

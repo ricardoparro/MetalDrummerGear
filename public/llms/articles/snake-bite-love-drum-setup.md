@@ -6,6 +6,9 @@
 **Drummer(s):** [Mikkey Dee](/llms/drummers/mikkey-dee.md)
 **Band / Album:** Motörhead — *Snake Bite Love* (1998)
 **Genre:** Heavy Metal / Hard Rock
+**Label:** SPV/Steamhammer (CMC International in North America)
+**Studio:** The Valley, Woodland Hills, California
+**Producer:** Howard Benson, with Motörhead
 
 ## Overview
 

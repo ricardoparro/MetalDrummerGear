@@ -6,6 +6,9 @@
 **Drummer(s):** [Sean Reinert](/llms/drummers/sean-reinert.md)
 **Band / Album:** Cynic — *Traced in Air* (2008)
 **Genre:** Progressive Metal / Jazz Fusion
+**Label:** Season of Mist
+**Studio:** Self-produced, Los Angeles, California
+**Producer:** Sean Reinert and Paul Masvidal
 
 ## Overview
 

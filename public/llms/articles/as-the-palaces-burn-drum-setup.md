@@ -6,6 +6,9 @@
 **Drummer(s):** [Chris Adler](/llms/drummers/chris-adler.md)
 **Band / Album:** Lamb of God — *As the Palaces Burn* (2003)
 **Genre:** Groove Metal / New Wave of American Heavy Metal
+**Label:** Metal Blade Records
+**Studio:** Audiohammer Studios, Sanford, Florida
+**Producer:** Machine (Mark Lewis)
 
 ## Overview
 

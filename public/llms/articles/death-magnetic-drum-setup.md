@@ -6,6 +6,9 @@
 **Drummer(s):** [Lars Ulrich](/llms/drummers/lars-ulrich.md)
 **Band / Album:** Metallica — *Death Magnetic* (2008)
 **Genre:** Thrash Metal / Heavy Metal
+**Label:** Warner Bros. Records
+**Studio:** HQ Studios, San Rafael, CA; Sound City Studios, Los Angeles
+**Producer:** Rick Rubin
 
 ## Overview
 

@@ -6,6 +6,9 @@
 **Drummer(s):** [Daniel Erlandsson](/llms/drummers/daniel-erlandsson.md)
 **Band / Album:** Arch Enemy — *Anthems of Rebellion* (2003)
 **Genre:** Melodic Death Metal
+**Label:** Century Media Records
+**Studio:** Studio Fredman, Gothenburg, Sweden
+**Producer:** Andy Sneap, Arch Enemy
 
 ## Overview
 

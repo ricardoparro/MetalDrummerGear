@@ -6,6 +6,9 @@
 **Drummer(s):** [Inferno](/llms/drummers/inferno.md)
 **Band / Album:** Behemoth — *Opvs Contra Natvram* (2022)
 **Genre:** Blackened Death Metal
+**Label:** Nuclear Blast
+**Studio:** Tall Fire Records Studio (drums), Sound Division Studio (guitars/vocals), Heinrich House Studio (bass)
+**Producer:** Behemoth, engineered by Daniel Bergstrand, mixed by Joe Barresi, mastered by Bob Ludwig
 
 ## Overview
 
@@ -22,7 +25,7 @@ This article breaks down Inferno's studio setup for *Opvs Contra Natvram*: the P
 - **Drums:** Pearl Pearl Masters MCX (Custom Black finish)
 - **Snare:** Pork Pie Pork Pie Custom Brass Snare, 14" x 6.5"
 - **Cymbals:** Paiste — Paiste 2002 Black
-- **Hardware / Pedals:** Axis A-Longboard Double Pedals (one per bass drum); Pearl Demon Series Hi-Hat Stand; Pearl Roadster D-3500BR; Vic Firth American Classic 5B
+- **Hardware / Pedals:** Monolit Czarcie Kopyto Double Pedals (one per bass drum); Pearl Demon Series Hi-Hat Stand; Pearl Roadster D-3500BR; Vic Firth American Classic 5B
 - **Heads:** Remo Emperor X (batter), Remo Ambassador Snare Side (resonant)
 - **Snare tuning:** Medium-high tension, dry wire response for clarity at blast beat tempos
 

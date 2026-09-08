@@ -6,6 +6,9 @@
 **Drummer(s):** [Vinnie Paul](/llms/drummers/vinnie-paul.md)
 **Band / Album:** Pantera — *Power Metal* (1988)
 **Genre:** Glam Metal / Speed Metal
+**Label:** Metal Magic Records
+**Studio:** Pantego Sound Studio, Pantego, Texas
+**Producer:** Jerry Abbott, Pantera & Marc Ferrari
 
 ## Overview
 

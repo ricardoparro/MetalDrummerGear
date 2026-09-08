@@ -6,6 +6,9 @@
 **Drummer(s):** [Matt Halpern](/llms/drummers/matt-halpern.md)
 **Band / Album:** Periphery — *Periphery V: Aliens* (2023)
 **Genre:** Djent / Progressive Metal
+**Label:** 3DOT Recordings
+**Studio:** Misha Mansoor's personal studio
+**Producer:** Misha Mansoor
 
 ## Overview
 

@@ -6,6 +6,9 @@
 **Drummer(s):** Bill Andrews
 **Band / Album:** Death — *Spiritual Healing* (1990)
 **Genre:** Death Metal
+**Label:** Combat Records
+**Studio:** Morrisound Recording, Tampa, Florida
+**Producer:** Scott Burns
 
 ## Overview
 

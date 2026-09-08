@@ -6,6 +6,9 @@
 **Drummer(s):** [Brann Dailor](/llms/drummers/brann-dailor.md)
 **Band / Album:** Mastodon — *Blood Mountain* (2006)
 **Genre:** Progressive Sludge Metal
+**Label:** Atlantic Records
+**Studio:** Doppler Studios, Atlanta, Georgia
+**Producer:** Matt Bayles
 
 ## Overview
 

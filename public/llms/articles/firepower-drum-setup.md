@@ -6,6 +6,9 @@
 **Drummer(s):** [Scott Travis](/llms/drummers/scott-travis.md)
 **Band / Album:** Judas Priest — *Firepower* (2018)
 **Genre:** Heavy Metal / Power Metal
+**Label:** Epic Records
+**Studio:** Old Mill Recording Studios + Witchroom Sound, England
+**Producer:** Andy Sneap, Tom Allom
 
 ## Overview
 

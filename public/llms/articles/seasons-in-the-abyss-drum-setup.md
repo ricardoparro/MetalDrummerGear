@@ -6,6 +6,9 @@
 **Drummer(s):** [Dave Lombardo](/llms/drummers/dave-lombardo.md)
 **Band / Album:** Slayer — *Seasons in the Abyss* (1990)
 **Genre:** Thrash Metal
+**Label:** Def American / Columbia
+**Studio:** Eldorado Recording Studios, Hollywood, California
+**Producer:** Rick Rubin
 
 ## Overview
 

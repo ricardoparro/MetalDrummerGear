@@ -6,6 +6,9 @@
 **Drummer(s):** [Igor Cavalera](/llms/drummers/igor-cavalera.md)
 **Band / Album:** Sepultura — *Chaos A.D.* (1993)
 **Genre:** Groove Metal / Thrash Metal
+**Label:** Roadrunner Records
+**Studio:** Rockfield Studios, Monmouth, Wales
+**Producer:** Andy Wallace
 
 ## Overview
 

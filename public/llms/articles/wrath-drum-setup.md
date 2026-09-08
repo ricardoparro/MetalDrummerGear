@@ -6,6 +6,9 @@
 **Drummer(s):** [Chris Adler](/llms/drummers/chris-adler.md)
 **Band / Album:** Lamb of God — *Wrath* (2009)
 **Genre:** Groove Metal / New Wave of American Heavy Metal
+**Label:** Roadrunner Records
+**Studio:** Sonic Ranch, Tornillo, Texas
+**Producer:** Machine (Mark Lewis)
 
 ## Overview
 

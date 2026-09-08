@@ -6,6 +6,8 @@
 **Drummer(s):** [Matt Garstka](/llms/drummers/matt-garstka.md)
 **Band / Album:** Animals as Leaders — *The Joy of Motion* (2014)
 **Genre:** Progressive Metal / Djent
+**Label:** Sumerian Records
+**Producer:** Misha Mansoor
 
 ## Overview
 

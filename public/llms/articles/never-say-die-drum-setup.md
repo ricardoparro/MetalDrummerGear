@@ -6,6 +6,9 @@
 **Drummer(s):** [Bill Ward](/llms/drummers/bill-ward.md)
 **Band / Album:** Black Sabbath — *Never Say Die!* (1978)
 **Genre:** Heavy Metal / Hard Rock / Jazz Rock
+**Label:** Vertigo Records
+**Studio:** Sounds Interchange Studios, Toronto (mixed at Criteria Studios, Miami)
+**Producer:** Black Sabbath
 
 ## Overview
 

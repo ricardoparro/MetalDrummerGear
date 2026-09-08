@@ -6,6 +6,9 @@
 **Drummer(s):** [Ben Koller](/llms/drummers/ben-koller.md)
 **Band / Album:** Converge — *No Heroes* (2006)
 **Genre:** Mathcore / Metalcore
+**Label:** Epitaph Records
+**Studio:** GodCity Studio, Salem, Massachusetts
+**Producer:** Kurt Ballou
 
 ## Overview
 

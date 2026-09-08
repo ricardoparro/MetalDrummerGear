@@ -6,6 +6,9 @@
 **Drummer(s):** [Mikkey Dee](/llms/drummers/mikkey-dee.md)
 **Band / Album:** Motörhead — *Hammered* (2002)
 **Genre:** Heavy Metal / Hard Rock
+**Label:** SPV/Steamhammer (Metal-Is/Sanctuary Records in North America)
+**Studio:** Henson Recording Studios, Hollywood; Chuck Reed's House, Hollywood Hills, California
+**Producer:** Thom Panunzio, with Motörhead
 
 ## Overview
 

@@ -6,6 +6,9 @@
 **Drummer(s):** [Eloy Casagrande](/llms/drummers/eloy-casagrande.md)
 **Band / Album:** Sepultura — *The Mediator Between Head and Hands Must Be the Heart* (2013)
 **Genre:** Thrash Metal / Groove Metal / Heavy Metal
+**Label:** Nuclear Blast
+**Studio:** Ross Robinson's studio, Venice, California
+**Producer:** Ross Robinson (co-produced by Steve Evetts)
 
 ## Overview
 

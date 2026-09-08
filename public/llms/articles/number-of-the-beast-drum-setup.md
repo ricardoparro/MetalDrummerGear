@@ -6,6 +6,9 @@
 **Drummer(s):** [Nicko McBrain](/llms/drummers/nicko-mcbrain.md)
 **Band / Album:** Iron Maiden — *The Number of the Beast* (1982)
 **Genre:** Heavy Metal / NWOBHM
+**Label:** EMI
+**Studio:** Battery Studios, London
+**Producer:** Martin Birch
 
 ## Overview
 

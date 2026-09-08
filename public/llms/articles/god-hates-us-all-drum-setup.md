@@ -6,6 +6,9 @@
 **Drummer(s):** [Paul Bostaph](/llms/drummers/paul-bostaph.md)
 **Band / Album:** Slayer — *God Hates Us All* (2001)
 **Genre:** Thrash Metal
+**Label:** American Recordings
+**Studio:** The Warehouse Studio, Vancouver, Canada
+**Producer:** Matt Hyde
 
 ## Overview
 

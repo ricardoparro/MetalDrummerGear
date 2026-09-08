@@ -6,6 +6,9 @@
 **Drummer(s):** [Tomas Haake](/llms/drummers/tomas-haake.md)
 **Band / Album:** Meshuggah — *Chaosphere* (1998)
 **Genre:** Extreme Progressive Metal
+**Label:** Nuclear Blast
+**Studio:** Soundfront Studios, Umeå, Sweden
+**Producer:** Meshuggah
 
 ## Overview
 

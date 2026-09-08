@@ -6,6 +6,9 @@
 **Drummer(s):** [Inferno](/llms/drummers/inferno.md)
 **Band / Album:** Behemoth — *Thelema.6* (2002)
 **Genre:** Blackened Death Metal
+**Label:** Avantgarde Music / Metal Blade Records
+**Studio:** Hertz Studio, Białystok, Poland
+**Producer:** Behemoth / Arkadiusz "Malta" Malczewski
 
 ## Overview
 

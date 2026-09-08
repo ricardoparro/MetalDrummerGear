@@ -6,6 +6,9 @@
 **Drummer(s):** [Jocke Wallgren](/llms/drummers/jocke-wallgren.md)
 **Band / Album:** Amon Amarth — *Berserker* (2019)
 **Genre:** Melodic Death Metal / Viking Metal
+**Label:** Metal Blade Records
+**Studio:** Sphere Studios, North Hollywood, California (tracking); TRS West, Sherman Oaks, California (mixing)
+**Producer:** Jay Ruston
 
 ## Overview
 

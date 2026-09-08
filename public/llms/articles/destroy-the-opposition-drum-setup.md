@@ -6,6 +6,9 @@
 **Drummer(s):** [Kevin Talley](/llms/drummers/kevin-talley.md)
 **Band / Album:** Dying Fetus — *Destroy the Opposition* (2000)
 **Genre:** Brutal Death Metal
+**Label:** Relapse Records
+**Studio:** Hit and Run Studios, Rockville, Maryland
+**Producer:** Dying Fetus and Steve Carr
 
 ## Overview
 

@@ -6,6 +6,9 @@
 **Drummer(s):** [Matt Halpern](/llms/drummers/matt-halpern.md)
 **Band / Album:** Periphery — *Periphery II: This Time It's Personal* (2012)
 **Genre:** Djent / Progressive Metal
+**Label:** Sumerian Records
+**Studio:** Misha Mansoor's personal studio
+**Producer:** Misha Mansoor
 
 ## Overview
 

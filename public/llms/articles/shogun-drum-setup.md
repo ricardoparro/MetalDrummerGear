@@ -6,6 +6,9 @@
 **Drummer(s):** [Nick Augusto](/llms/drummers/nick-augusto.md)
 **Band / Album:** Trivium — *Shogun* (2008)
 **Genre:** Progressive Thrash Metal / Metalcore
+**Label:** Roadrunner Records
+**Studio:** Morrisound Recording, Tampa, Florida
+**Producer:** Nick Raskulinecz
 
 ## Overview
 

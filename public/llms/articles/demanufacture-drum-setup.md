@@ -6,6 +6,9 @@
 **Drummer(s):** [Raymond Herrera](/llms/drummers/raymond-herrera.md)
 **Band / Album:** Fear Factory — *Demanufacture* (1995)
 **Genre:** Industrial Metal
+**Label:** Roadrunner Records
+**Studio:** Indigo Ranch Studios, Malibu, CA
+**Producer:** Colin Richardson & Rhys Fulber (after aborted initial sessions with Ross Robinson)
 
 ## Overview
 

@@ -6,6 +6,9 @@
 **Drummer(s):** [Nicko McBrain](/llms/drummers/nicko-mcbrain.md)
 **Band / Album:** Iron Maiden — *A Matter of Life and Death* (2006)
 **Genre:** Heavy Metal / Progressive Metal
+**Label:** EMI Records
+**Studio:** Sarm West Studios, London
+**Producer:** Kevin Shirley / Steve Harris
 
 ## Overview
 

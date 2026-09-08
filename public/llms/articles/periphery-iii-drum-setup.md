@@ -6,6 +6,9 @@
 **Drummer(s):** [Matt Halpern](/llms/drummers/matt-halpern.md)
 **Band / Album:** Periphery — *Periphery III: Select Difficulty* (2016)
 **Genre:** Djent / Progressive Metal
+**Label:** Sumerian Records
+**Studio:** Misha Mansoor's personal studio
+**Producer:** Misha Mansoor
 
 ## Overview
 

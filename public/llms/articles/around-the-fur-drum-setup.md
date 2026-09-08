@@ -6,6 +6,9 @@
 **Drummer(s):** [Abe Cunningham](/llms/drummers/abe-cunningham.md)
 **Band / Album:** Deftones — *Around the Fur* (1997)
 **Genre:** Alternative Metal / Nu-Metal
+**Label:** Maverick Records
+**Studio:** Studios in Burbank, California
+**Producer:** Terry Date
 
 ## Overview
 

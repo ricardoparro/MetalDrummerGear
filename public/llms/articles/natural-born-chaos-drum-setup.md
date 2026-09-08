@@ -6,6 +6,9 @@
 **Drummer(s):** [Dirk Verbeuren](/llms/drummers/dirk-verbeuren.md)
 **Band / Album:** Soilwork — *Natural Born Chaos* (2002)
 **Genre:** Melodic Death Metal
+**Label:** Nuclear Blast Records
+**Studio:** Studio Fredman, Gothenburg, Sweden
+**Producer:** Fredrik Nordström
 
 ## Overview
 

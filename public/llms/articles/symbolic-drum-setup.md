@@ -6,6 +6,9 @@
 **Drummer(s):** [Gene Hoglan](/llms/drummers/gene-hoglan.md)
 **Band / Album:** Death — *Symbolic* (1995)
 **Genre:** Progressive Death Metal
+**Label:** Roadrunner Records
+**Studio:** Morrisound Recording, Tampa, Florida
+**Producer:** Jim Morris & Chuck Schuldiner
 
 ## Overview
 

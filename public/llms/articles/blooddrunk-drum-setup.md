@@ -6,6 +6,9 @@
 **Drummer(s):** [Jaska Raatikainen](/llms/drummers/jaska-raatikainen.md)
 **Band / Album:** Children of Bodom — *Blooddrunk* (2008)
 **Genre:** Melodic Death Metal
+**Label:** Spinefarm Records
+**Studio:** Sonic Pump Studios, Helsinki, Finland
+**Producer:** Anssi Kippo
 
 ## Overview
 

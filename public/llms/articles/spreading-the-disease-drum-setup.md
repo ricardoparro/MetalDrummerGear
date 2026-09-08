@@ -6,6 +6,9 @@
 **Drummer(s):** [Charlie Benante](/llms/drummers/charlie-benante.md)
 **Band / Album:** Anthrax — *Spreading the Disease* (1985)
 **Genre:** Thrash Metal
+**Label:** Megaforce Records
+**Studio:** Pyramid Sound Studios, Ithaca, New York
+**Producer:** Carl Canedy
 
 ## Overview
 

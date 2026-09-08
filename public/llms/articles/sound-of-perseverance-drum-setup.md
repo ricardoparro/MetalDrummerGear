@@ -6,6 +6,9 @@
 **Drummer(s):** [Richard Christy](/llms/drummers/richard-christy.md)
 **Band / Album:** Death — *The Sound of Perseverance* (1998)
 **Genre:** Progressive Death Metal
+**Label:** Nuclear Blast
+**Studio:** Morrisound Recording, Tampa
+**Producer:** Jim Morris & Chuck Schuldiner
 
 ## Overview
 

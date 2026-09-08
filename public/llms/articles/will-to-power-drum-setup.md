@@ -6,6 +6,9 @@
 **Drummer(s):** [Daniel Erlandsson](/llms/drummers/daniel-erlandsson.md)
 **Band / Album:** Arch Enemy — *Will to Power* (2017)
 **Genre:** Melodic Death Metal
+**Label:** Century Media Records
+**Studio:** Fascination Street Studio, Örebro, Sweden
+**Producer:** Jens Bogren, Michael Amott
 
 ## Overview
 

@@ -6,6 +6,9 @@
 **Drummer(s):** [Gene Hoglan](/llms/drummers/gene-hoglan.md)
 **Band / Album:** Strapping Young Lad — *Alien* (2005)
 **Genre:** Extreme Metal / Industrial Metal
+**Label:** Century Media Records
+**Studio:** The Armoury, Vancouver, British Columbia
+**Producer:** Devin Townsend
 
 ## Overview
 

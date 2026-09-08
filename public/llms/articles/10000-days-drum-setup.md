@@ -6,6 +6,9 @@
 **Drummer(s):** [Danny Carey](/llms/drummers/danny-carey.md)
 **Band / Album:** Tool — *10,000 Days* (2006)
 **Genre:** Progressive Metal
+**Label:** Tool Dissectional / Volcano Records
+**Studio:** Cello Studios / The Hook, Los Angeles
+**Producer:** Tool
 
 ## Overview
 

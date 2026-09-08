@@ -6,6 +6,9 @@
 **Drummer(s):** [Isaac Lamb](/llms/drummers/isaac-lamb.md)
 **Band / Album:** Kublai Khan TX — *Absolute* (2019)
 **Genre:** Metalcore / Beatdown Hardcore
+**Label:** Rise Records
+**Studio:** Graphic Nature Audio
+**Producer:** Randy LeBoeuf
 
 ## Overview
 

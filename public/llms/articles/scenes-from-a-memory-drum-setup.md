@@ -6,6 +6,9 @@
 **Drummer(s):** [Mike Portnoy](/llms/drummers/mike-portnoy.md)
 **Band / Album:** Dream Theater — *Metropolis Pt. 2: Scenes from a Memory* (1999)
 **Genre:** Progressive Metal
+**Label:** Elektra Records
+**Studio:** BearTracks Studios, Suffern, New York
+**Producer:** David Prater
 
 ## Overview
 

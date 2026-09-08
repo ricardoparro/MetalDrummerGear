@@ -6,6 +6,9 @@
 **Drummer(s):** [Brann Dailor](/llms/drummers/brann-dailor.md)
 **Band / Album:** Mastodon — *Hushed and Grim* (2021)
 **Genre:** Progressive Sludge Metal
+**Label:** Reprise Records
+**Studio:** Doppler Studios, Atlanta, Georgia
+**Producer:** David Bottrill
 
 ## Overview
 

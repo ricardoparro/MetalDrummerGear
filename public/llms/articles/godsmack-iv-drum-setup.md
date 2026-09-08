@@ -6,6 +6,9 @@
 **Drummer(s):** [Shannon Larkin](/llms/drummers/shannon-larkin.md)
 **Band / Album:** Godsmack — *IV* (2006)
 **Genre:** Hard Rock / Heavy Metal
+**Label:** Republic Records
+**Studio:** Los Angeles, California
+**Producer:** Godsmack
 
 ## Overview
 

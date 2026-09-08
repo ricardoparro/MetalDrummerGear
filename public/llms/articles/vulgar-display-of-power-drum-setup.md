@@ -6,6 +6,9 @@
 **Drummer(s):** [Vinnie Paul](/llms/drummers/vinnie-paul.md)
 **Band / Album:** Pantera — *Vulgar Display of Power* (1992)
 **Genre:** Groove Metal
+**Label:** Atco Records
+**Studio:** Pantego Sound Studio, Texas
+**Producer:** Terry Date & Vinnie Paul
 
 ## Overview
 

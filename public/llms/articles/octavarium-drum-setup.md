@@ -6,6 +6,9 @@
 **Drummer(s):** [Mike Portnoy](/llms/drummers/mike-portnoy.md)
 **Band / Album:** Dream Theater — *Octavarium* (2005)
 **Genre:** Progressive Metal
+**Label:** Roadrunner Records
+**Studio:** Avatar Studios (The Power Station), New York
+**Producer:** John Petrucci & Mike Portnoy
 
 ## Overview
 

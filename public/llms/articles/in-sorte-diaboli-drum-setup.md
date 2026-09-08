@@ -6,6 +6,9 @@
 **Drummer(s):** [Hellhammer](/llms/drummers/hellhammer.md)
 **Band / Album:** Dimmu Borgir — *In Sorte Diaboli* (2007)
 **Genre:** Symphonic Black Metal
+**Label:** Nuclear Blast Records
+**Studio:** Studio Fredman, Gothenburg, Sweden
+**Producer:** Fredrik Nordström, Dimmu Borgir
 
 ## Overview
 

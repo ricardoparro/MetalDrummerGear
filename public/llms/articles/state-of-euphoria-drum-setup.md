@@ -6,6 +6,9 @@
 **Drummer(s):** [Charlie Benante](/llms/drummers/charlie-benante.md)
 **Band / Album:** Anthrax — *State of Euphoria* (1988)
 **Genre:** Thrash Metal
+**Label:** Island Records
+**Studio:** Compass Point Studios, Nassau, Bahamas
+**Producer:** Mark Dodson, Anthrax
 
 ## Overview
 

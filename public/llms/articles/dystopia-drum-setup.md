@@ -6,6 +6,9 @@
 **Drummer(s):** [Chris Adler](/llms/drummers/chris-adler.md)
 **Band / Album:** Megadeth — *Dystopia* (2016)
 **Genre:** Thrash Metal
+**Label:** Universal Music Enterprises
+**Studio:** Vic's Garage (Dave Mustaine's private studio), San Marcos, California
+**Producer:** Dave Mustaine & Dann Huff
 
 ## Overview
 

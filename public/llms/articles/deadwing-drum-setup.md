@@ -6,6 +6,9 @@
 **Drummer(s):** [Gavin Harrison](/llms/drummers/gavin-harrison.md)
 **Band / Album:** Porcupine Tree — *Deadwing* (2005)
 **Genre:** Progressive Metal / Art Rock
+**Label:** Lava / Atlantic
+**Studio:** Various English studios (No Man's Land, The Artillery, Bourne Place, New Rising, RAK, Astoria and Livingstone), March–October 2004
+**Producer:** Steven Wilson, Richard Barbieri and Gavin Harrison
 
 ## Overview
 

@@ -6,6 +6,9 @@
 **Drummer(s):** [Blake Richardson](/llms/drummers/blake-richardson.md)
 **Band / Album:** Between the Buried and Me — *Coma Ecliptic* (2015)
 **Genre:** Progressive Metal / Progressive Rock
+**Label:** Metal Blade Records
+**Studio:** The Basement Studio, Winston-Salem, NC
+**Producer:** Jamie King
 
 ## Overview
 

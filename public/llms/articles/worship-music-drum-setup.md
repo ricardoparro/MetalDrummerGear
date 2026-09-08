@@ -6,6 +6,9 @@
 **Drummer(s):** [Charlie Benante](/llms/drummers/charlie-benante.md)
 **Band / Album:** Anthrax — *Worship Music* (2011)
 **Genre:** Thrash Metal
+**Label:** Megaforce Records
+**Studio:** Sphere Studios, North Hollywood, CA
+**Producer:** Jay Ruston
 
 ## Overview
 

@@ -6,6 +6,9 @@
 **Drummer(s):** [Nicko McBrain](/llms/drummers/nicko-mcbrain.md)
 **Band / Album:** Iron Maiden — *The Final Frontier* (2010)
 **Genre:** Heavy Metal / Progressive Metal
+**Label:** EMI Records
+**Studio:** Compass Point Studios, Nassau, Bahamas / Sarm West Studios, London
+**Producer:** Kevin Shirley / Steve Harris
 
 ## Overview
 

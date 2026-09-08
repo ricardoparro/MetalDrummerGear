@@ -6,6 +6,9 @@
 **Drummer(s):** [Abe Cunningham](/llms/drummers/abe-cunningham.md)
 **Band / Album:** Deftones — *White Pony* (2000)
 **Genre:** Alternative Metal / Shoegaze Metal
+**Label:** Maverick Records
+**Studio:** Village Recorder, Sunset Sound, The Shop
+**Producer:** Terry Date
 
 ## Overview
 

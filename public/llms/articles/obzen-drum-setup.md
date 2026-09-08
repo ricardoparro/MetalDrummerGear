@@ -6,6 +6,9 @@
 **Drummer(s):** [Tomas Haake](/llms/drummers/tomas-haake.md)
 **Band / Album:** Meshuggah — *obZen* (2008)
 **Genre:** Extreme Progressive Metal / Djent
+**Label:** Nuclear Blast
+**Studio:** Fear and Loathing Studios, Stockholm
+**Producer:** Meshuggah & Daniel Bergstrand
 
 ## Overview
 

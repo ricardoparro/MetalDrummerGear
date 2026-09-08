@@ -6,6 +6,9 @@
 **Drummer(s):** [Gavin Harrison](/llms/drummers/gavin-harrison.md)
 **Band / Album:** The Pineapple Thief — *Your Wilderness* (2016)
 **Genre:** Progressive Rock / Progressive Metal
+**Label:** Kscope
+**Studio:** Gavin Harrison's home studio (drums); mixed by Bruce Soord
+**Producer:** Bruce Soord
 
 ## Overview
 

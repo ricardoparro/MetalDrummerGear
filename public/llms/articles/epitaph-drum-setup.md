@@ -6,6 +6,9 @@
 **Drummer(s):** [Hannes Grossmann](/llms/drummers/hannes-grossmann.md)
 **Band / Album:** Necrophagist — *Epitaph* (2004)
 **Genre:** Technical Death Metal
+**Label:** Relapse Records
+**Studio:** Studios in Germany
+**Producer:** Necrophagist
 
 ## Overview
 
@@ -24,7 +27,7 @@ For drummers studying extreme metal, Epitaph remains essential listening more th
 - **Drums:** Tama Tama Starclassic Performer (or Pearl Reference equivalent) (High-gloss professional studio finish finish)
 - **Snare:** Tama Tama Starphonic or comparable professional studio snare, 14" x 6.5"
 - **Cymbals:** Meinl — Meinl Pure Alloy / early Byzance
-- **Hardware / Pedals:** Axis Longboard or Tama Iron Cobra Power Glide Double Pedal; Vic Firth American Classic 5A; Evans G2 Coated / Remo Emperor; Evans EMAD / Remo Powerstroke 3
+- **Hardware / Pedals:** Vic Firth American Classic 5A; Evans G2 Coated / Remo Emperor; Evans EMAD / Remo Powerstroke 3
 - **Heads:** Evans Genera HD or Remo Ambassador Coated (batter); Evans Hazy 300 (resonant)
 - **Snare tuning:** Medium-bright — articulation and crack through dense tech-death guitar production
 
@@ -65,7 +68,7 @@ The 18" China appears at the album's most aggressive intensity peaks. Its trashy
 Necrophagist's "Epitaph" stands as one of the foundational documents of modern technical death metal, and Hannes Grossmann's drum performance is one of the central reasons. The album proved that the genre could combine extreme technical complexity with musical cohesion — every track is dense with vocabulary, but every track is also organized around clear musical structures and dynamic arcs that give the technical content emotional impact.
 
 **The Gear in Perspective:**
-Grossmann's setup on Epitaph — Tama Starclassic-era shells, Meinl cymbals in transition toward the mature Byzance configuration, Axis Longboard pedals, Vic Firth sticks — was professional but built around durability and articulation rather than exotic specifications. What made it produce the iconic Epitaph drum sound was the combination of Necrophagist's self-production discipline and Grossmann's playing. The lesson is consistent across great metal drumming: the gear is the foundation, but the performance is the music.
+Grossmann's setup on Epitaph — Tama Starclassic-era shells, Meinl cymbals in transition toward the mature Byzance configuration, a high-speed double pedal, Vic Firth sticks — was professional but built around durability and articulation rather than exotic specifications. What made it produce the iconic Epitaph drum sound was the combination of Necrophagist's self-production discipline and Grossmann's playing. The lesson is consistent across great metal drumming: the gear is the foundation, but the performance is the music.
 
 **For Drummers Studying the Album:**
 Study Epitaph as a masterclass in tech-death vocabulary deployment. Grossmann demonstrates how density and complexity can be organized into musical statements rather than reduced to technical display. Listen to how "Stabwound" enters — the dynamic restraint that precedes the album's most intense passages is what makes those passages land. That's drumming as composition.
@@ -86,7 +89,7 @@ From Necrophagist's Epitaph (2004) through Obscura's Cosmogenesis (2009) and onw
 - Self-produced by Necrophagist at studios in Germany
 - Tama Starclassic Performer or comparable high-end shells with double 22" kick configuration
 - Meinl cymbal setup — early Pure Alloy and Byzance series elements developing Grossmann's signature voice
-- High-speed double pedals (Axis Longboard or Tama Speed Cobra-era) for sustained 16th-note double-bass
+- High-speed double pedals for sustained 16th-note double-bass
 - "Stabwound" became one of the most studied drum performances in modern tech death
 - Tama Starclassic Performer-era high-end production shells
 - Double 22" x 18" bass drums for sustained Epitaph double-kick passages

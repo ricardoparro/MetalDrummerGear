@@ -6,6 +6,9 @@
 **Drummer(s):** [Ray Luzier](/llms/drummers/ray-luzier.md)
 **Band / Album:** Korn — *Requiem* (2022)
 **Genre:** Nu-Metal
+**Label:** Loma Vista Recordings
+**Studio:** Buck Owens Studio, Bakersfield, California
+**Producer:** Chris Collier
 
 ## Overview
 

@@ -6,6 +6,9 @@
 **Drummer(s):** [Danny Carey](/llms/drummers/danny-carey.md)
 **Band / Album:** Tool — *Undertow* (1993)
 **Genre:** Alternative Metal / Progressive Metal
+**Label:** Zoo Entertainment
+**Studio:** Sound City Studios, Van Nuys / Grand Master Recorders, Los Angeles
+**Producer:** Sylvia Massy with Tool
 
 ## Overview
 

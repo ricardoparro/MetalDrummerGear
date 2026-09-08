@@ -6,6 +6,8 @@
 **Drummer(s):** [Tomas Haake](/llms/drummers/tomas-haake.md)
 **Band / Album:** Meshuggah — *Destroy Erase Improve* (1995)
 **Genre:** Progressive Metal / Technical Death Metal
+**Label:** Nuclear Blast
+**Producer:** Meshuggah
 
 ## Overview
 

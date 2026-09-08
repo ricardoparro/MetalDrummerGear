@@ -6,6 +6,9 @@
 **Drummer(s):** [Lars Ulrich](/llms/drummers/lars-ulrich.md)
 **Band / Album:** Metallica — *Reload* (1997)
 **Genre:** Heavy Metal / Hard Rock
+**Label:** Vertigo / Elektra
+**Studio:** The Plant Studios, Sausalito, CA; Prairie Sun Recording, Cotati, CA
+**Producer:** Bob Rock & Metallica
 
 ## Overview
 

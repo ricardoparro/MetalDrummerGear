@@ -6,6 +6,9 @@
 **Drummer(s):** [Flo Mounier](/llms/drummers/flo-mounier.md)
 **Band / Album:** Cryptopsy — *Whisper Supremacy* (1998)
 **Genre:** Technical Death Metal
+**Label:** Century Media Records
+**Studio:** Studio Victor, Montreal
+**Producer:** Pierre Rémillard
 
 ## Overview
 

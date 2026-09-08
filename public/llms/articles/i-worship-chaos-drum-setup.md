@@ -6,6 +6,9 @@
 **Drummer(s):** [Jaska Raatikainen](/llms/drummers/jaska-raatikainen.md)
 **Band / Album:** Children of Bodom — *I Worship Chaos* (2015)
 **Genre:** Melodic Death Metal
+**Label:** Nuclear Blast
+**Studio:** Sonic Pump Studios, Helsinki, Finland
+**Producer:** Mikko Karmila
 
 ## Overview
 

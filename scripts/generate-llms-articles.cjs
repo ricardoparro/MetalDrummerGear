@@ -73,6 +73,9 @@ function buildMarkdown(article) {
     md += `**Band / Album:** ${article.band}\n`;
   }
   if (article.genre) md += `**Genre:** ${article.genre}\n`;
+  if (article.label) md += `**Label:** ${article.label}\n`;
+  if (article.studio) md += `**Studio:** ${article.studio}\n`;
+  if (article.producer) md += `**Producer:** ${article.producer}\n`;
   md += `\n`;
 
   // --- Overview (full intro prose — the bulk of the word count) -----------------

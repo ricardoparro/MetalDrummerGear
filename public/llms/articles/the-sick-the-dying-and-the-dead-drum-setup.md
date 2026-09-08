@@ -6,6 +6,9 @@
 **Drummer(s):** [Dirk Verbeuren](/llms/drummers/dirk-verbeuren.md)
 **Band / Album:** Megadeth — *The Sick, the Dying... and the Dead!* (2022)
 **Genre:** Thrash Metal
+**Label:** Tradecraft / Universal Music Enterprises
+**Studio:** Dave Mustaine's home studio, Nashville, Tennessee (pre-production in Franklin, Tennessee)
+**Producer:** Dave Mustaine & Chris Rakestraw
 
 ## Overview
 

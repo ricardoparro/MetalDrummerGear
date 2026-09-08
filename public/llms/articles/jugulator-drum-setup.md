@@ -6,6 +6,9 @@
 **Drummer(s):** [Scott Travis](/llms/drummers/scott-travis.md)
 **Band / Album:** Judas Priest — *Jugulator* (1997)
 **Genre:** Heavy Metal / Thrash Metal
+**Label:** CMC International (US) / SPV (Europe)
+**Studio:** Silvermere Studios, Surrey, England
+**Producer:** Glenn Tipton, K.K. Downing, Sean Lynch
 
 ## Overview
 

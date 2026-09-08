@@ -6,6 +6,9 @@
 **Drummer(s):** [Abe Cunningham](/llms/drummers/abe-cunningham.md)
 **Band / Album:** Deftones — *Deftones* (2003)
 **Genre:** Alternative Metal
+**Label:** Maverick Records
+**Studio:** NRG Recording Services, North Hollywood, CA
+**Producer:** Don Gilmore
 
 ## Overview
 

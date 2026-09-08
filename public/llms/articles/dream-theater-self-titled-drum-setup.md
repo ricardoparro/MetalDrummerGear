@@ -6,6 +6,9 @@
 **Drummer(s):** [Mike Mangini](/llms/drummers/mike-mangini.md)
 **Band / Album:** Dream Theater — *Dream Theater* (2013)
 **Genre:** Progressive Metal
+**Label:** Roadrunner Records
+**Studio:** Cove City Sound Studios, Glen Cove, New York
+**Producer:** John Petrucci
 
 ## Overview
 

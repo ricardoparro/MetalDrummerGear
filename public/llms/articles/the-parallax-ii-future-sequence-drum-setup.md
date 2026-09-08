@@ -6,6 +6,9 @@
 **Drummer(s):** [Blake Richardson](/llms/drummers/blake-richardson.md)
 **Band / Album:** Between the Buried and Me — *The Parallax II: Future Sequence* (2012)
 **Genre:** Progressive Metal
+**Label:** Metal Blade Records
+**Studio:** The Basement Studio, Winston-Salem, NC
+**Producer:** Jamie King
 
 ## Overview
 

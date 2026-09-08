@@ -6,6 +6,9 @@
 **Drummer(s):** [Tomas Haake](/llms/drummers/tomas-haake.md)
 **Band / Album:** Meshuggah — *Nothing* (2002)
 **Genre:** Extreme Progressive Metal / Djent
+**Label:** Nuclear Blast
+**Studio:** Nacksving Studio, Stockholm
+**Producer:** Meshuggah
 
 ## Overview
 

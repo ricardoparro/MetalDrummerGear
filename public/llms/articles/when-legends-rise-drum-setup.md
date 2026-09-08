@@ -6,6 +6,9 @@
 **Drummer(s):** [Shannon Larkin](/llms/drummers/shannon-larkin.md)
 **Band / Album:** Godsmack — *When Legends Rise* (2018)
 **Genre:** Hard Rock
+**Label:** BMG
+**Studio:** Henson Recording Studios, Los Angeles, California
+**Producer:** Erik Ron, Marilyn Manson (co-prod. "Bulletproof")
 
 ## Overview
 

@@ -6,6 +6,9 @@
 **Drummer(s):** [Tim Yeung](/llms/drummers/tim-yeung.md)
 **Band / Album:** Divine Heresy — *Bleed the Fifth* (2007)
 **Genre:** Death Metal / Groove Metal
+**Label:** Century Media Records (North America) / Roadrunner Records (Europe)
+**Studio:** Undercity Studios, North Hollywood, CA
+**Producer:** Logan Mader
 
 ## Overview
 

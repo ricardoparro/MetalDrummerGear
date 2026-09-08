@@ -6,6 +6,9 @@
 **Drummer(s):** [Chris Adler](/llms/drummers/chris-adler.md)
 **Band / Album:** Lamb of God — *Resolution* (2012)
 **Genre:** Groove Metal / New Wave of American Heavy Metal
+**Label:** Epic Records
+**Studio:** NRG Recording Services, North Hollywood, California
+**Producer:** Josh Wilbur
 
 ## Overview
 

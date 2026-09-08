@@ -6,6 +6,9 @@
 **Drummer(s):** [Dirk Verbeuren](/llms/drummers/dirk-verbeuren.md)
 **Band / Album:** Soilwork — *Figure Number Five* (2003)
 **Genre:** Melodic Death Metal
+**Label:** Nuclear Blast Records
+**Studio:** Queenstreet Recording (guitars/keyboards), Dug-Out Productions (drums) & Studio Fredman (vocals/bass), Sweden
+**Producer:** Self-produced by Soilwork; mixed by Fredrik Nordström & Patrik J. Sten
 
 ## Overview
 

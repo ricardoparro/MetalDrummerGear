@@ -6,6 +6,9 @@
 **Drummer(s):** [Adrian Erlandsson](/llms/drummers/adrian-erlandsson.md)
 **Band / Album:** At the Gates — *Slaughter of the Soul* (1995)
 **Genre:** Melodic Death Metal
+**Label:** Earache Records
+**Studio:** Studio Fredman, Gothenburg, Sweden
+**Producer:** Fredrik Nordström
 
 ## Overview
 

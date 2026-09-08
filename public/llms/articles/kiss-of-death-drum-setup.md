@@ -6,6 +6,9 @@
 **Drummer(s):** [Mikkey Dee](/llms/drummers/mikkey-dee.md)
 **Band / Album:** Motörhead — *Kiss of Death* (2006)
 **Genre:** Heavy Metal / Speed Metal
+**Label:** Steamhammer/SPV (Sanctuary Records in North America)
+**Studio:** Paramount Recording Studios, NRG Studios & Maple Studios, Hollywood, California
+**Producer:** Cameron Webb
 
 ## Overview
 

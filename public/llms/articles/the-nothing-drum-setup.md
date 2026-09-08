@@ -6,6 +6,9 @@
 **Drummer(s):** [Ray Luzier](/llms/drummers/ray-luzier.md)
 **Band / Album:** Korn — *The Nothing* (2019)
 **Genre:** Nu-Metal
+**Label:** Roadrunner Records / Elektra Records
+**Studio:** Rock Falcon Studio, Nashville, TN / Buck Owens Studio, Bakersfield, CA
+**Producer:** Nick Raskulinecz
 
 ## Overview
 

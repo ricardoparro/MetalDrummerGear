@@ -6,6 +6,9 @@
 **Drummer(s):** [Jason Bittner](/llms/drummers/jason-bittner.md)
 **Band / Album:** Shadows Fall — *The War Within* (2004)
 **Genre:** NWOAHM / Metalcore
+**Label:** Century Media Records
+**Studio:** Zing Studios, Methuen, Massachusetts
+**Producer:** Peter Wichers
 
 ## Overview
 

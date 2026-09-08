@@ -6,6 +6,9 @@
 **Drummer(s):** [Abe Cunningham](/llms/drummers/abe-cunningham.md)
 **Band / Album:** Deftones — *Koi No Yokan* (2012)
 **Genre:** Alternative Metal
+**Label:** Reprise Records
+**Studio:** Studios in California
+**Producer:** Nick Raskulinecz
 
 ## Overview
 

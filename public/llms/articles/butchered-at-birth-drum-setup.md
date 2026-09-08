@@ -6,6 +6,9 @@
 **Drummer(s):** [Paul Mazurkiewicz](/llms/drummers/paul-mazurkiewicz.md)
 **Band / Album:** Cannibal Corpse — *Butchered at Birth* (1991)
 **Genre:** Death Metal
+**Label:** Metal Blade Records
+**Studio:** Morrisound Studios, Tampa, Florida
+**Producer:** Scott Burns
 
 ## Overview
 

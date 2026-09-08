@@ -6,6 +6,9 @@
 **Drummer(s):** [Gavin Harrison](/llms/drummers/gavin-harrison.md)
 **Band / Album:** Porcupine Tree — *Closure/Continuation* (2022)
 **Genre:** Progressive Rock / Progressive Metal
+**Label:** Music for Nations
+**Studio:** Home studios of each band member
+**Producer:** Steven Wilson, Richard Barbieri, Gavin Harrison
 
 ## Overview
 

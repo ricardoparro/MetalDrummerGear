@@ -6,6 +6,9 @@
 **Drummer(s):** [Raymond Herrera](/llms/drummers/raymond-herrera.md)
 **Band / Album:** Fear Factory — *Digimortal* (2001)
 **Genre:** Industrial Metal / Nu-Metal
+**Label:** Roadrunner Records
+**Studio:** Track Record Studios, Hollywood, CA
+**Producer:** Rhys Fulber
 
 ## Overview
 

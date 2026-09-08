@@ -6,6 +6,9 @@
 **Drummer(s):** [George Kollias](/llms/drummers/george-kollias.md)
 **Band / Album:** Nile — *Vile Nilotic Rites* (2019)
 **Genre:** Technical Death Metal / Brutal Death Metal
+**Label:** Nuclear Blast
+**Studio:** Serpent Headed Studios, Greenville SC; drum tracking at Esoteron Music Studio, Athens, Greece
+**Producer:** Karl Sanders
 
 ## Overview
 

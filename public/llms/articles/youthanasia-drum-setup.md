@@ -6,6 +6,9 @@
 **Drummer(s):** [Nick Menza](/llms/drummers/nick-menza.md)
 **Band / Album:** Megadeth — *Youthanasia* (1994)
 **Genre:** Thrash Metal
+**Label:** Capitol Records
+**Studio:** Phase Four Studios, Phoenix, Arizona
+**Producer:** Max Norman, Dave Mustaine
 
 ## Overview
 

@@ -6,6 +6,9 @@
 **Drummer(s):** [Pete Sandoval](/llms/drummers/pete-sandoval.md)
 **Band / Album:** Morbid Angel — *Covenant* (1993)
 **Genre:** Death Metal
+**Label:** Giant Records / Earache Records
+**Studio:** Morrisound Recording, Tampa, Florida
+**Producer:** Tom Morris
 
 ## Overview
 

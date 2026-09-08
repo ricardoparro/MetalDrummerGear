@@ -6,6 +6,9 @@
 **Drummer(s):** [Flo Mounier](/llms/drummers/flo-mounier.md)
 **Band / Album:** Cryptopsy — *None So Vile* (1996)
 **Genre:** Technical Death Metal
+**Label:** Wrong Again Records
+**Studio:** Victor Studio, Montreal
+**Producer:** Pierre Rémillard
 
 ## Overview
 

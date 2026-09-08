@@ -6,6 +6,9 @@
 **Drummer(s):** [Hellhammer](/llms/drummers/hellhammer.md)
 **Band / Album:** Mayhem — *Daemon* (2019)
 **Genre:** Black Metal
+**Label:** Century Media Records
+**Studio:** NBS Studio (Stockholm), Lupercal Studio (Oslo), Chamber Studios (Hillegom, Netherlands), SBM Studio (Oslo)
+**Producer:** Teloch (Morten Bergeton Iversen) and Tore Stjerna
 
 ## Overview
 

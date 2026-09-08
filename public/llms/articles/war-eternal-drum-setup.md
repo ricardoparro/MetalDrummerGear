@@ -6,6 +6,9 @@
 **Drummer(s):** [Daniel Erlandsson](/llms/drummers/daniel-erlandsson.md)
 **Band / Album:** Arch Enemy — *War Eternal* (2014)
 **Genre:** Melodic Death Metal
+**Label:** Century Media Records
+**Studio:** Studio Fredman, Gothenburg, Sweden
+**Producer:** Jens Bogren, Michael Amott
 
 ## Overview
 

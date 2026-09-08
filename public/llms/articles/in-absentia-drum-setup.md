@@ -6,6 +6,9 @@
 **Drummer(s):** [Gavin Harrison](/llms/drummers/gavin-harrison.md)
 **Band / Album:** Porcupine Tree — *In Absentia* (2002)
 **Genre:** Progressive Metal / Art Rock
+**Label:** Lava / Atlantic
+**Studio:** Avatar Studios, New York; additional sessions at Air Lyndhurst (London), No Man's Land (Hemel Hempstead), New Rising (Colchester) and Red Room Recorders (Tampa)
+**Producer:** Steven Wilson
 
 ## Overview
 

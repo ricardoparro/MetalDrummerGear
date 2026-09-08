@@ -6,6 +6,9 @@
 **Drummer(s):** [Daniel Erlandsson](/llms/drummers/daniel-erlandsson.md)
 **Band / Album:** Arch Enemy — *Doomsday Machine* (2005)
 **Genre:** Melodic Death Metal
+**Label:** Century Media Records
+**Studio:** Studios in England (Andy Sneap)
+**Producer:** Andy Sneap
 
 ## Overview
 

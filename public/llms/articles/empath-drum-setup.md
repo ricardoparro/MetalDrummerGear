@@ -6,6 +6,9 @@
 **Drummer(s):** [Morgan Ågren](/llms/drummers/morgan-agren.md)
 **Band / Album:** Devin Townsend — *Empath* (2019)
 **Genre:** Progressive Metal / Avant-Garde
+**Label:** HevyDevy Records
+**Studio:** Monnow Valley Studios, Wales (drums and bass)
+**Producer:** Devin Townsend
 
 ## Overview
 

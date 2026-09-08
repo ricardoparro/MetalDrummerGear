@@ -6,6 +6,9 @@
 **Drummer(s):** [George Kollias](/llms/drummers/george-kollias.md)
 **Band / Album:** Nile — *Ithyphallic* (2007)
 **Genre:** Technical Death Metal / Brutal Death Metal
+**Label:** Nuclear Blast
+**Studio:** The Sound Lab, Columbia SC (tracking); Rax Trax Recording, Chicago IL (mixing)
+**Producer:** Neil Kernon
 
 ## Overview
 

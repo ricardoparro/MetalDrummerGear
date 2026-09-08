@@ -6,6 +6,9 @@
 **Drummer(s):** [Martin Axenrot](/llms/drummers/martin-axenrot.md)
 **Band / Album:** Opeth — *Watershed* (2008)
 **Genre:** Progressive Death Metal
+**Label:** Roadrunner Records
+**Studio:** Fascination Street Studios, Örebro, Sweden
+**Producer:** Jens Bogren, Mikael Åkerfeldt
 
 ## Overview
 

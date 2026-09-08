@@ -6,6 +6,9 @@
 **Drummer(s):** [Ray Luzier](/llms/drummers/ray-luzier.md)
 **Band / Album:** Korn — *The Paradigm Shift* (2013)
 **Genre:** Nu-Metal
+**Label:** Prospect Park Records
+**Studio:** Henson Recording Studios, Hollywood, CA
+**Producer:** Don Gilmore
 
 ## Overview
 

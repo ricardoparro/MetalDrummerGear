@@ -6,6 +6,9 @@
 **Drummer(s):** [Danny Carey](/llms/drummers/danny-carey.md)
 **Band / Album:** Tool — *Ænima* (1996)
 **Genre:** Progressive Metal / Alternative Metal
+**Label:** Zoo Entertainment / Volcano Records
+**Studio:** Grandmaster Recording, Los Angeles
+**Producer:** David Bottrill & Tool
 
 ## Overview
 

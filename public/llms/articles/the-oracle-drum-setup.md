@@ -6,6 +6,9 @@
 **Drummer(s):** [Shannon Larkin](/llms/drummers/shannon-larkin.md)
 **Band / Album:** Godsmack — *The Oracle* (2010)
 **Genre:** Hard Rock / Alternative Metal
+**Label:** Universal Republic Records
+**Studio:** Sully Erna's home studio, Massachusetts
+**Producer:** Dave Fortman, Sully Erna
 
 ## Overview
 

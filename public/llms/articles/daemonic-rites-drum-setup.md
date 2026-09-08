@@ -6,6 +6,9 @@
 **Drummer(s):** [Hellhammer](/llms/drummers/hellhammer.md)
 **Band / Album:** Mayhem — *Daemonic Rites* (2023)
 **Genre:** Black Metal
+**Label:** Century Media Records
+**Studio:** Live recordings — Sydney, Melbourne, London, Manchester, Budapest, Gothenburg, and Milan (Daemon World Tour, 2019–2023)
+**Producer:** Mayhem
 
 ## Overview
 

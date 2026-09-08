@@ -6,6 +6,9 @@
 **Drummer(s):** [Hellhammer](/llms/drummers/hellhammer.md)
 **Band / Album:** Mayhem — *Esoteric Warfare* (2014)
 **Genre:** Black Metal
+**Label:** Season of Mist
+**Studio:** Mølla Studio, Gjerstad, Norway (drums); SleikBallaMi, Oslo, Norway (guitars, bass, vocals)
+**Producer:** Attila Csihar and Teloch (Morten Bergeton Iversen)
 
 ## Overview
 

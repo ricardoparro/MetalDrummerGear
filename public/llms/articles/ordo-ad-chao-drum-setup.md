@@ -6,6 +6,9 @@
 **Drummer(s):** [Hellhammer](/llms/drummers/hellhammer.md)
 **Band / Album:** Mayhem — *Ordo Ad Chao* (2007)
 **Genre:** Black Metal
+**Label:** Season of Mist
+**Studio:** Mølla Studio, Gjerstad, Norway (with additional recording at MyHome-YourTomb Studio, Almada, Portugal)
+**Producer:** Attila Csihar and Blasphemer (Rune Eriksen)
 
 ## Overview
 

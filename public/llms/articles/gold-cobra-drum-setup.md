@@ -6,6 +6,9 @@
 **Drummer(s):** [John Otto](/llms/drummers/john-otto.md)
 **Band / Album:** Limp Bizkit — *Gold Cobra* (2011)
 **Genre:** Nu-Metal
+**Label:** Interscope Records
+**Studio:** Various studios, Jacksonville, FL and Los Angeles, CA
+**Producer:** Fred Durst
 
 ## Overview
 

@@ -6,6 +6,9 @@
 **Drummer(s):** [Matt Greiner](/llms/drummers/matt-greiner.md)
 **Band / Album:** August Burns Red — *Messengers* (2007)
 **Genre:** Metalcore / Melodic Death Metal
+**Label:** Solid State Records
+**Studio:** Audiohammer Studios, Sanford, Florida
+**Producer:** Jason Suecof
 
 ## Overview
 

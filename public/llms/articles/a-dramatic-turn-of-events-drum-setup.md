@@ -6,6 +6,9 @@
 **Drummer(s):** [Mike Mangini](/llms/drummers/mike-mangini.md)
 **Band / Album:** Dream Theater — *A Dramatic Turn of Events* (2011)
 **Genre:** Progressive Metal
+**Label:** Roadrunner Records
+**Studio:** Cove City Sound Studios, Glen Cove, New York
+**Producer:** John Petrucci & Mike Mangini
 
 ## Overview
 

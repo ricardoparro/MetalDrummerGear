@@ -6,6 +6,9 @@
 **Drummer(s):** [John Otto](/llms/drummers/john-otto.md)
 **Band / Album:** Limp Bizkit — *Still Sucks* (2021)
 **Genre:** Nu-Metal
+**Label:** Suretone Records
+**Studio:** Various studios
+**Producer:** Fred Durst, Zakk Cervini
 
 ## Overview
 

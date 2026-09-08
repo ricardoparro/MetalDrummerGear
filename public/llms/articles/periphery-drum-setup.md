@@ -6,6 +6,9 @@
 **Drummer(s):** [Matt Halpern](/llms/drummers/matt-halpern.md)
 **Band / Album:** Periphery — *Periphery* (2010)
 **Genre:** Djent / Progressive Metal
+**Label:** Sumerian Records
+**Studio:** Misha Mansoor's home studio
+**Producer:** Misha Mansoor
 
 ## Overview
 

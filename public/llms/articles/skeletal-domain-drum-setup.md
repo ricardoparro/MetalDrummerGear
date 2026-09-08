@@ -6,6 +6,9 @@
 **Drummer(s):** [Paul Mazurkiewicz](/llms/drummers/paul-mazurkiewicz.md)
 **Band / Album:** Cannibal Corpse — *A Skeletal Domain* (2014)
 **Genre:** Death Metal
+**Label:** Metal Blade Records
+**Studio:** Audiohammer Studios, Sanford, Florida
+**Producer:** Mark Lewis
 
 ## Overview
 

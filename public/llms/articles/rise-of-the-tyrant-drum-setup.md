@@ -6,6 +6,9 @@
 **Drummer(s):** [Daniel Erlandsson](/llms/drummers/daniel-erlandsson.md)
 **Band / Album:** Arch Enemy — *Rise of the Tyrant* (2007)
 **Genre:** Melodic Death Metal
+**Label:** Century Media Records
+**Studio:** Andy Sneap's Backstage Studio, Derbyshire, England
+**Producer:** Andy Sneap
 
 ## Overview
 

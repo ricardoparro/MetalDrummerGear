@@ -6,6 +6,9 @@
 **Drummer(s):** [Martin Lopez](/llms/drummers/martin-lopez.md)
 **Band / Album:** Opeth — *My Arms, Your Hearse* (1998)
 **Genre:** Progressive Death Metal
+**Label:** Candlelight Records
+**Studio:** Fredman Studio, Gothenburg
+**Producer:** Mikael Åkerfeldt & Opeth
 
 ## Overview
 

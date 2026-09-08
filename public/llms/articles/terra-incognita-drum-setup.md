@@ -6,6 +6,9 @@
 **Drummer(s):** [Mario Duplantier](/llms/drummers/mario-duplantier.md)
 **Band / Album:** Gojira — *Terra Incognita* (2001)
 **Genre:** Progressive Death Metal
+**Label:** Gabriel Editions
+**Studio:** Bayonne, France (DIY home studio)
+**Producer:** Joe Duplantier, Mario Duplantier
 
 ## Overview
 

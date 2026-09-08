@@ -6,6 +6,9 @@
 **Drummer(s):** [Flo Mounier](/llms/drummers/flo-mounier.md)
 **Band / Album:** Cryptopsy — *Once Was Not* (2005)
 **Genre:** Technical Death Metal
+**Label:** Century Media Records
+**Studio:** Piccolo Studio, St-Hubert, Quebec
+**Producer:** Chris Donaldson
 
 ## Overview
 

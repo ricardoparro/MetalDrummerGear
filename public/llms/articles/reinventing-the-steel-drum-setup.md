@@ -6,6 +6,9 @@
 **Drummer(s):** [Vinnie Paul](/llms/drummers/vinnie-paul.md)
 **Band / Album:** Pantera — *Reinventing the Steel* (2000)
 **Genre:** Groove Metal
+**Label:** EastWest Records America / Elektra
+**Studio:** Chasin' Jason Studios, Dalworthington Gardens, Texas
+**Producer:** Vinnie Paul, Dimebag Darrell & Sterling Winfield
 
 ## Overview
 

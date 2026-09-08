@@ -6,6 +6,9 @@
 **Drummer(s):** [Adrian Erlandsson](/llms/drummers/adrian-erlandsson.md)
 **Band / Album:** At the Gates — *At War with Reality* (2014)
 **Genre:** Melodic Death Metal
+**Label:** Century Media Records
+**Studio:** Studio Fredman, Gothenburg, Sweden (narration recorded at HVR Studios, Suffolk, UK)
+**Producer:** At the Gates (self-produced); engineered by Fredrik Nordström and Henrik Udd; mixed and mastered by Jens Bogren at Fascination Street Studios
 
 ## Overview
 

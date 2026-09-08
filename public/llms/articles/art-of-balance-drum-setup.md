@@ -6,6 +6,9 @@
 **Drummer(s):** [Jason Bittner](/llms/drummers/jason-bittner.md)
 **Band / Album:** Shadows Fall — *The Art of Balance* (2002)
 **Genre:** NWOAHM / Metalcore
+**Label:** Century Media Records
+**Studio:** Planet Z Studios, Hadley, Massachusetts
+**Producer:** Chris "Zeuss" Harris
 
 ## Overview
 

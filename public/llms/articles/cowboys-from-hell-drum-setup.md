@@ -6,6 +6,9 @@
 **Drummer(s):** [Vinnie Paul](/llms/drummers/vinnie-paul.md)
 **Band / Album:** Pantera — *Cowboys from Hell* (1990)
 **Genre:** Groove Metal / Thrash Metal
+**Label:** Atco Records
+**Studio:** Pantego Sound Studio, Arlington, Texas
+**Producer:** Terry Date & Vinnie Paul
 
 ## Overview
 

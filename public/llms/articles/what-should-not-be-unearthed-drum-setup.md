@@ -6,6 +6,9 @@
 **Drummer(s):** [George Kollias](/llms/drummers/george-kollias.md)
 **Band / Album:** Nile — *What Should Not Be Unearthed* (2015)
 **Genre:** Technical Death Metal / Brutal Death Metal
+**Label:** Nuclear Blast
+**Studio:** Sound Lab Studios, Columbia SC (drums); Serpent Headed Studios/OTB, Greenville SC
+**Producer:** Nile (self-produced); mixed by Neil Kernon
 
 ## Overview
 

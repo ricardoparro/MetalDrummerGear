@@ -6,6 +6,8 @@
 **Drummer(s):** [Tomas Haake](/llms/drummers/tomas-haake.md)
 **Band / Album:** Meshuggah — *Contradictions Collapse* (1991)
 **Genre:** Progressive Metal / Thrash Metal
+**Label:** Nuclear Blast
+**Producer:** Meshuggah
 
 ## Overview
 

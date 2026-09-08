@@ -6,6 +6,9 @@
 **Drummer(s):** [Martin Lopez](/llms/drummers/martin-lopez.md)
 **Band / Album:** Opeth — *Ghost Reveries* (2005)
 **Genre:** Progressive Death Metal
+**Label:** Roadrunner Records
+**Studio:** Fascination Street Studios, Örebro
+**Producer:** Opeth (mixed by Jens Bogren)
 
 ## Overview
 

@@ -6,6 +6,9 @@
 **Drummer(s):** [Gavin Harrison](/llms/drummers/gavin-harrison.md)
 **Band / Album:** Porcupine Tree — *Fear of a Blank Planet* (2007)
 **Genre:** Progressive Rock / Progressive Metal
+**Label:** Roadrunner Records
+**Studio:** Britannia Row Studios, London
+**Producer:** Steven Wilson
 
 ## Overview
 

@@ -6,6 +6,9 @@
 **Drummer(s):** [Charlie Benante](/llms/drummers/charlie-benante.md)
 **Band / Album:** Anthrax — *Persistence of Time* (1990)
 **Genre:** Thrash Metal
+**Label:** Island Records
+**Studio:** Bearsville Studios, Bearsville, New York
+**Producer:** Mark Dodson, Anthrax
 
 ## Overview
 

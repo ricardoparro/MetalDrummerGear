@@ -6,6 +6,7 @@
 **Drummer(s):** [George Kollias](/llms/drummers/george-kollias.md)
 **Band / Album:** Nile — *At the Gate of Sethu* (2012)
 **Genre:** Technical Death Metal / Brutal Death Metal
+**Label:** Nuclear Blast
 
 ## Overview
 

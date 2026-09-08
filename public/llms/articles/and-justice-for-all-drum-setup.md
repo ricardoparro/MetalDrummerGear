@@ -6,6 +6,9 @@
 **Drummer(s):** [Lars Ulrich](/llms/drummers/lars-ulrich.md)
 **Band / Album:** Metallica — *...And Justice for All* (1988)
 **Genre:** Thrash Metal / Progressive Thrash
+**Label:** Elektra Records
+**Studio:** One on One Recording Studios, Los Angeles
+**Producer:** Flemming Rasmussen & Metallica
 
 ## Overview
 

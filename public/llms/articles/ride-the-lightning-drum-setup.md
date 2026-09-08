@@ -6,6 +6,9 @@
 **Drummer(s):** [Lars Ulrich](/llms/drummers/lars-ulrich.md)
 **Band / Album:** Metallica — *Ride the Lightning* (1984)
 **Genre:** Thrash Metal
+**Label:** Megaforce Records / Elektra Records
+**Studio:** Sweet Silence Studios, Copenhagen, Denmark
+**Producer:** Flemming Rasmussen
 
 ## Overview
 

@@ -6,6 +6,9 @@
 **Drummer(s):** [Daniel Erlandsson](/llms/drummers/daniel-erlandsson.md)
 **Band / Album:** Arch Enemy — *Wages of Sin* (2002)
 **Genre:** Melodic Death Metal
+**Label:** Century Media Records
+**Studio:** Studio Fredman, Gothenburg, Sweden
+**Producer:** Andy Sneap, Arch Enemy
 
 ## Overview
 

@@ -6,6 +6,9 @@
 **Drummer(s):** [Mikkey Dee](/llms/drummers/mikkey-dee.md)
 **Band / Album:** Motörhead — *Inferno* (2004)
 **Genre:** Heavy Metal / Speed Metal
+**Label:** Steamhammer/SPV (Sanctuary Records in North America)
+**Studio:** NRG Studios & Paramount Recording Studios, Hollywood, California
+**Producer:** Cameron Webb
 
 ## Overview
 

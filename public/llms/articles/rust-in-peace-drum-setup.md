@@ -6,6 +6,9 @@
 **Drummer(s):** [Nick Menza](/llms/drummers/nick-menza.md)
 **Band / Album:** Megadeth — *Rust in Peace* (1990)
 **Genre:** Thrash Metal
+**Label:** Capitol Records / Combat Records
+**Studio:** Rumbo Recorders, Canoga Park, California
+**Producer:** Dave Mustaine & Mike Clink
 
 ## Overview
 

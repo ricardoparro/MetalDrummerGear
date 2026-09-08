@@ -6,6 +6,9 @@
 **Drummer(s):** [Lars Ulrich](/llms/drummers/lars-ulrich.md)
 **Band / Album:** Metallica — *Kill 'Em All* (1983)
 **Genre:** Thrash Metal
+**Label:** Megaforce Records
+**Studio:** Music America Studios, Rochester, New York
+**Producer:** Paul Curcio
 
 ## Overview
 

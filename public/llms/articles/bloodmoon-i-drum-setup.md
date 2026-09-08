@@ -6,6 +6,9 @@
 **Drummer(s):** [Ben Koller](/llms/drummers/ben-koller.md)
 **Band / Album:** Converge & Chelsea Wolfe — *Bloodmoon: I* (2021)
 **Genre:** Hardcore / Atmospheric Sludge Metal
+**Label:** Epitaph Records / Deathwish Inc.
+**Studio:** GodCity Studio, Salem, Massachusetts
+**Producer:** Kurt Ballou
 
 ## Overview
 

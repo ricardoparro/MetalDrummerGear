@@ -6,6 +6,9 @@
 **Drummer(s):** [Scott Travis](/llms/drummers/scott-travis.md)
 **Band / Album:** Judas Priest — *Invincible Shield* (2024)
 **Genre:** Heavy Metal
+**Label:** Columbia Records (Japan) / Epic Records
+**Studio:** Distributed sessions — Nashville, TN (Travis, Faulkner); Phoenix, AZ (Halford); on tour in Europe (Hill); Backstage Studios, England (guitar re-amping)
+**Producer:** Andy Sneap (Tom Allom co-produced "Sons of Thunder" and "Giants in the Sky")
 
 ## Overview
 

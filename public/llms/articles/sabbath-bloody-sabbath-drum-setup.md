@@ -6,6 +6,9 @@
 **Drummer(s):** [Bill Ward](/llms/drummers/bill-ward.md)
 **Band / Album:** Black Sabbath — *Sabbath Bloody Sabbath* (1973)
 **Genre:** Heavy Metal
+**Label:** Vertigo Records
+**Studio:** Morgan Studios, London (sessions began at Clearwell Castle, Wales)
+**Producer:** Black Sabbath
 
 ## Overview
 

@@ -6,6 +6,9 @@
 **Drummer(s):** [Matt Greiner](/llms/drummers/matt-greiner.md)
 **Band / Album:** August Burns Red — *Leveler* (2011)
 **Genre:** Metalcore / Progressive Metal
+**Label:** Metal Blade Records
+**Studio:** Audiohammer Studios, Sanford, Florida
+**Producer:** Jason Suecof
 
 ## Overview
 

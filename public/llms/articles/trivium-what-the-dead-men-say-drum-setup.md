@@ -6,6 +6,9 @@
 **Drummer(s):** [Alex Bent](/llms/drummers/alex-bent.md)
 **Band / Album:** Trivium — *What the Dead Men Say* (2020)
 **Genre:** Metalcore / Progressive Metal
+**Label:** Roadrunner Records
+**Studio:** Full Sail University, Orlando, FL (drums: Studio 606, Los Angeles, CA)
+**Producer:** Josh Wilbur
 
 ## Overview
 

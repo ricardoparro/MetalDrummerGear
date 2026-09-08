@@ -6,6 +6,9 @@
 **Drummer(s):** [Mikkey Dee](/llms/drummers/mikkey-dee.md)
 **Band / Album:** Motörhead — *Bad Magic* (2015)
 **Genre:** Heavy Metal / Hard Rock
+**Label:** Motörhead Music / UDR
+**Studio:** NRG Studios, North Hollywood, California
+**Producer:** Cameron Webb
 
 ## Overview
 

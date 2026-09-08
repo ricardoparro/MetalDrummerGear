@@ -6,6 +6,9 @@
 **Drummer(s):** [Martin Lopez](/llms/drummers/martin-lopez.md)
 **Band / Album:** Opeth — *Damnation* (2003)
 **Genre:** Progressive Rock
+**Label:** Music for Nations
+**Studio:** Studio Fredman, Gothenburg
+**Producer:** Steven Wilson
 
 ## Overview
 

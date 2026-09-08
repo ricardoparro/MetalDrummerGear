@@ -6,6 +6,9 @@
 **Drummer(s):** [Matt Greiner](/llms/drummers/matt-greiner.md)
 **Band / Album:** August Burns Red — *Guardians* (2020)
 **Genre:** Metalcore
+**Label:** Fearless Records
+**Studio:** Think Loud Studios, York, Pennsylvania
+**Producer:** Carson Slovak and Grant McFarland
 
 ## Overview
 

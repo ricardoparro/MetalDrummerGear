@@ -6,6 +6,7 @@
 **Drummer(s):** [Matt Garstka](/llms/drummers/matt-garstka.md)
 **Band / Album:** Animals as Leaders — *The Madness of Many* (2016)
 **Genre:** Progressive Metal / Djent
+**Label:** Sumerian Records
 
 ## Overview
 

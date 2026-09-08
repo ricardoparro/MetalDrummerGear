@@ -6,6 +6,9 @@
 **Drummer(s):** [Eloy Casagrande](/llms/drummers/eloy-casagrande.md)
 **Band / Album:** Sepultura — *Machine Messiah* (2017)
 **Genre:** Thrash Metal / Heavy Metal / Progressive Metal
+**Label:** Nuclear Blast
+**Studio:** Fascination Street Studios, Örebro, Sweden
+**Producer:** Jens Bogren
 
 ## Overview
 

@@ -6,6 +6,9 @@
 **Drummer(s):** [Alex Bent](/llms/drummers/alex-bent.md)
 **Band / Album:** Trivium — *The Sin and the Sentence* (2017)
 **Genre:** Metalcore / Progressive Metal
+**Label:** Roadrunner Records
+**Studio:** Hybrid Studios, Santa Ana, California
+**Producer:** Josh Wilbur
 
 ## Overview
 

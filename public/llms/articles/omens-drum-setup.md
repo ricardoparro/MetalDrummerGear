@@ -6,6 +6,9 @@
 **Drummer(s):** [Art Cruz](/llms/drummers/art-cruz.md)
 **Band / Album:** Lamb of God — *Omens* (2022)
 **Genre:** Groove Metal / New Wave of American Heavy Metal
+**Label:** Epic Records / Nuclear Blast
+**Studio:** Henson Recording Studios, Los Angeles, California
+**Producer:** Josh Wilbur
 
 ## Overview
 

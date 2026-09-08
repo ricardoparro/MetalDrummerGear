@@ -6,6 +6,9 @@
 **Drummer(s):** [Jaska Raatikainen](/llms/drummers/jaska-raatikainen.md)
 **Band / Album:** Children of Bodom — *Hexed* (2019)
 **Genre:** Melodic Death Metal
+**Label:** Nuclear Blast
+**Studio:** Sonic Pump Studios, Helsinki, Finland
+**Producer:** Mikko Karmila
 
 ## Overview
 

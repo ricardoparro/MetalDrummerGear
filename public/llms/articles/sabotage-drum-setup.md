@@ -6,6 +6,9 @@
 **Drummer(s):** [Bill Ward](/llms/drummers/bill-ward.md)
 **Band / Album:** Black Sabbath — *Sabotage* (1975)
 **Genre:** Heavy Metal / Progressive Metal
+**Label:** Vertigo Records
+**Studio:** Morgan Studios, London
+**Producer:** Black Sabbath
 
 ## Overview
 

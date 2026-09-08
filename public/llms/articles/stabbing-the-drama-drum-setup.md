@@ -6,6 +6,9 @@
 **Drummer(s):** [Dirk Verbeuren](/llms/drummers/dirk-verbeuren.md)
 **Band / Album:** Soilwork — *Stabbing the Drama* (2005)
 **Genre:** Melodic Death Metal
+**Label:** Nuclear Blast Records
+**Studio:** Fascination Street Recordings & Dug-Out Studios, Örebro, Sweden
+**Producer:** Jens Bogren & Daniel Bergstrand
 
 ## Overview
 

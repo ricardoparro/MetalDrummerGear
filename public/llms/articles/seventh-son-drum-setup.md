@@ -6,6 +6,9 @@
 **Drummer(s):** [Nicko McBrain](/llms/drummers/nicko-mcbrain.md)
 **Band / Album:** Iron Maiden — *Seventh Son of a Seventh Son* (1988)
 **Genre:** Heavy Metal / Progressive Metal
+**Label:** EMI
+**Studio:** Musicland Studios, Munich, Germany
+**Producer:** Martin Birch
 
 ## Overview
 

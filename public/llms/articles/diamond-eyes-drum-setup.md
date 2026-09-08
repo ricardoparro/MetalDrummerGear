@@ -6,6 +6,9 @@
 **Drummer(s):** [Abe Cunningham](/llms/drummers/abe-cunningham.md)
 **Band / Album:** Deftones — *Diamond Eyes* (2010)
 **Genre:** Alternative Metal
+**Label:** Reprise Records
+**Studio:** Various, including Nick Raskulinecz studio
+**Producer:** Nick Raskulinecz
 
 ## Overview
 

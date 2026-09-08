@@ -6,6 +6,9 @@
 **Drummer(s):** [Scott Travis](/llms/drummers/scott-travis.md)
 **Band / Album:** Judas Priest — *Nostradamus* (2008)
 **Genre:** Heavy Metal / Concept Metal
+**Label:** Epic Records / Sony BMG
+**Studio:** Various studios, England & USA
+**Producer:** Roy Z, Judas Priest
 
 ## Overview
 

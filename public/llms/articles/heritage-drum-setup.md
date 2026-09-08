@@ -6,6 +6,9 @@
 **Drummer(s):** [Martin Axenrot](/llms/drummers/martin-axenrot.md)
 **Band / Album:** Opeth — *Heritage* (2011)
 **Genre:** Progressive Rock / Art Rock
+**Label:** Roadrunner Records
+**Studio:** Fascination Street Studios, Örebro, Sweden
+**Producer:** Mikael Åkerfeldt
 
 ## Overview
 

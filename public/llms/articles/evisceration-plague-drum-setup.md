@@ -6,6 +6,9 @@
 **Drummer(s):** [Paul Mazurkiewicz](/llms/drummers/paul-mazurkiewicz.md)
 **Band / Album:** Cannibal Corpse — *Evisceration Plague* (2009)
 **Genre:** Death Metal
+**Label:** Metal Blade Records
+**Studio:** Mana Recording Studios, St. Petersburg, Florida
+**Producer:** Erik Rutan
 
 ## Overview
 

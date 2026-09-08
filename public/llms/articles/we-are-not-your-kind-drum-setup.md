@@ -6,6 +6,9 @@
 **Drummer(s):** [Jay Weinberg](/llms/drummers/jay-weinberg.md)
 **Band / Album:** Slipknot — *We Are Not Your Kind* (2019)
 **Genre:** Nu-Metal / Alternative Metal
+**Label:** Roadrunner Records
+**Studio:** Henson Recording Studios, Los Angeles & EastWest Studios, Los Angeles
+**Producer:** Greg Fidelman
 
 ## Overview
 

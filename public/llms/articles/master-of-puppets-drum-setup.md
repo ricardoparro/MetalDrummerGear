@@ -6,6 +6,9 @@
 **Drummer(s):** [Lars Ulrich](/llms/drummers/lars-ulrich.md)
 **Band / Album:** Metallica — *Master of Puppets* (1986)
 **Genre:** Thrash Metal
+**Label:** Elektra Records
+**Studio:** Sweet Silence Studios, Copenhagen
+**Producer:** Flemming Rasmussen
 
 ## Overview
 

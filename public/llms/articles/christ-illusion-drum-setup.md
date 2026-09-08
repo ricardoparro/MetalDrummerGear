@@ -6,6 +6,9 @@
 **Drummer(s):** [Dave Lombardo](/llms/drummers/dave-lombardo.md)
 **Band / Album:** Slayer — *Christ Illusion* (2006)
 **Genre:** Thrash Metal
+**Label:** American Recordings
+**Studio:** Track Studios, Chicago / The Mansion, Los Angeles
+**Producer:** Josh Abraham
 
 ## Overview
 

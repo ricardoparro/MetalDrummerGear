@@ -6,6 +6,9 @@
 **Drummer(s):** [Dave Lombardo](/llms/drummers/dave-lombardo.md)
 **Band / Album:** Slayer — *World Painted Blood* (2009)
 **Genre:** Thrash Metal
+**Label:** American Recordings
+**Studio:** Henson Recording Studios, Hollywood, CA
+**Producer:** Greg Fidelman
 
 ## Overview
 

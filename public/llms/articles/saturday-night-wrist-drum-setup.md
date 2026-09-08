@@ -6,6 +6,9 @@
 **Drummer(s):** [Abe Cunningham](/llms/drummers/abe-cunningham.md)
 **Band / Album:** Deftones — *Saturday Night Wrist* (2006)
 **Genre:** Alternative Metal / Experimental Rock
+**Label:** Maverick Records
+**Studio:** Various studios, California
+**Producer:** Terry Date, Bob Ezrin, Deftones
 
 ## Overview
 

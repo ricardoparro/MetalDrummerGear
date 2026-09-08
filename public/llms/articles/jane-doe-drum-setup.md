@@ -6,6 +6,9 @@
 **Drummer(s):** [Ben Koller](/llms/drummers/ben-koller.md)
 **Band / Album:** Converge — *Jane Doe* (2001)
 **Genre:** Mathcore / Metalcore
+**Label:** Equal Vision Records
+**Studio:** GodCity Studio, Salem, Massachusetts
+**Producer:** Kurt Ballou
 
 ## Overview
 

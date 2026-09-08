@@ -6,6 +6,9 @@
 **Drummer(s):** [Joey Jordison](/llms/drummers/joey-jordison.md)
 **Band / Album:** Slipknot — *Slipknot* (1999)
 **Genre:** Nu Metal
+**Label:** Roadrunner Records
+**Studio:** Indigo Ranch Studios, Malibu & Grandmaster Recorders, Hollywood
+**Producer:** Ross Robinson
 
 ## Overview
 

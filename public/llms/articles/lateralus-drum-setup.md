@@ -6,6 +6,9 @@
 **Drummer(s):** [Danny Carey](/llms/drummers/danny-carey.md)
 **Band / Album:** Tool — *Lateralus* (2001)
 **Genre:** Progressive Metal
+**Label:** Volcano Entertainment
+**Studio:** Cello Studios, Los Angeles / The Hook, North Hollywood
+**Producer:** David Bottrill & Tool
 
 ## Overview
 

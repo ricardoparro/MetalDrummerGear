@@ -6,6 +6,7 @@
 **Drummer(s):** [Matt Garstka](/llms/drummers/matt-garstka.md)
 **Band / Album:** Animals as Leaders — *Parrhesia* (2022)
 **Genre:** Progressive Metal / Djent
+**Label:** Sumerian Records
 
 ## Overview
 

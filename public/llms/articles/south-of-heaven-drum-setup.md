@@ -6,6 +6,9 @@
 **Drummer(s):** [Dave Lombardo](/llms/drummers/dave-lombardo.md)
 **Band / Album:** Slayer — *South of Heaven* (1988)
 **Genre:** Thrash Metal
+**Label:** Def Jam Recordings / Columbia
+**Studio:** Record One Studios, Sherman Oaks, California
+**Producer:** Rick Rubin
 
 ## Overview
 

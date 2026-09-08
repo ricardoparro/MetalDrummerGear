@@ -6,6 +6,9 @@
 **Drummer(s):** [Tomas Haake](/llms/drummers/tomas-haake.md)
 **Band / Album:** Meshuggah — *The Violent Sleep of Reason* (2016)
 **Genre:** Extreme Progressive Metal / Djent
+**Label:** Nuclear Blast
+**Studio:** Soundtrade Studios, Stockholm
+**Producer:** Meshuggah & Tue Madsen
 
 ## Overview
 

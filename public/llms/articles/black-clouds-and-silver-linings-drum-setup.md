@@ -6,6 +6,9 @@
 **Drummer(s):** [Mike Portnoy](/llms/drummers/mike-portnoy.md)
 **Band / Album:** Dream Theater — *Black Clouds & Silver Linings* (2009)
 **Genre:** Progressive Metal
+**Label:** Roadrunner Records
+**Studio:** Cove City Sound Studios, Glen Cove, NY
+**Producer:** John Petrucci & Mike Portnoy
 
 ## Overview
 

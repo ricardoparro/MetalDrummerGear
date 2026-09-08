@@ -6,6 +6,9 @@
 **Drummer(s):** [Paul Mazurkiewicz](/llms/drummers/paul-mazurkiewicz.md)
 **Band / Album:** Cannibal Corpse — *Bloodthirst* (1999)
 **Genre:** Death Metal
+**Label:** Metal Blade Records
+**Studio:** Skyclad Recording, Burton-on-Trent, UK
+**Producer:** Colin Richardson
 
 ## Overview
 

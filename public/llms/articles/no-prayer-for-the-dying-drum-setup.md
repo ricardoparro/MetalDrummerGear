@@ -6,6 +6,9 @@
 **Drummer(s):** [Nicko McBrain](/llms/drummers/nicko-mcbrain.md)
 **Band / Album:** Iron Maiden — *No Prayer for the Dying* (1990)
 **Genre:** Heavy Metal / NWOBHM
+**Label:** EMI
+**Studio:** Barnyard Studios, Essex, UK (Rolling Stones Mobile Studio)
+**Producer:** Martin Birch
 
 ## Overview
 

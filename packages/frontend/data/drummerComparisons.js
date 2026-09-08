@@ -4776,6 +4776,22 @@ export const drummerComparisons = {
       { q: 'What albums showcase Mario Duplantier\'s and Ben Koller\'s best work?', a: 'Mario Duplantier\'s landmark records with Gojira include "From Mars to Sirius" (2005), "L\'Enfant Sauvage" (2012), and "Magma" (2016). Ben Koller\'s most acclaimed work is Converge\'s "Jane Doe" (2001), widely regarded as a genre-defining mathcore record, along with "Axe to Fall" (2009) and "The Dusk in Us" (2017).' },
     ],
   },
+
+  'joey-jordison-vs-george-kollias': {
+    slug: 'joey-jordison-vs-george-kollias',
+    title: 'Joey Jordison vs George Kollias',
+    metaTitle: 'Joey Jordison vs George Kollias - Extreme Metal Drumming Compared | MetalForge',
+    metaDescription: 'Slipknot\'s Joey Jordison vs Nile\'s George Kollias. Blast beats, technical death metal precision, and nu-metal intensity compared side by side.',
+    category: 'extreme',
+    drummers: ['joey-jordison', 'george-kollias'],
+    comparison: {
+      style: 'Joey brought death metal blast beat speed and theatrical intensity to Slipknot\'s nu-metal aggression. George built his reputation on sustained, unrelenting blast beats within Nile\'s Egyptian-themed technical death metal.',
+      technique: 'Joey combined blast beats with groove and showmanship, playing at extreme tempos while masked and elevated on a rotating riser. George uses heel-toe double bass technique to sustain blast beats far longer than most drummers, a skill he has documented in his own instructional books.',
+      gear: 'Joey played Pearl drums with Paiste RUDE and 2002 series cymbals, using Promark signature sticks. George plays Pearl drums (Masterworks Series) with Zildjian A Custom cymbals, Vic Firth sticks, and signature Pearl Demon XR pedals built for extreme speed.',
+      influence: 'Joey proved extreme metal technicality could exist inside a mainstream nu-metal act, influencing a generation of hybrid metal drummers. George raised the technical ceiling for sustained blast beats in death metal and became a leading voice in modern drum education.',
+    },
+    verdict: 'Joey Jordison brought extreme drumming into the mainstream through Slipknot\'s massive reach. George Kollias pushed sustained blast beat technicality further than almost anyone in death metal. Both share a Pearl drums foundation while representing different paths to extreme metal drumming mastery.',
+  },
 };
 
 /**

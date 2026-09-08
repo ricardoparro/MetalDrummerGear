@@ -31122,10 +31122,12 @@ setShowList(false);
               }
             }}
             onSelectGuide={(slug) => {
-              // Route any beginner-tier gear guide (multi-slug #832) to the
-              // generalized beginner guide page; everything else is a "Sound Like" guide.
+              // Route any beginner-tier gear guide (multi-slug #832) or genre gear
+              // guide (#7158) to the generalized beginner guide page; everything
+              // else is a "Sound Like" guide.
               const isBeginnerSlug = slug === 'beginner-metal-drummer-setup' ||
-                (_beginnerGuideModule?.isBeginnerGuideSlug?.(slug) ?? false);
+                (_beginnerGuideModule?.isBeginnerGuideSlug?.(slug) ?? false) ||
+                !!GENRE_GEAR_GUIDES_SUMMARY[slug];
               if (isBeginnerSlug) {
                 setShowGuidesHub(false);
                 setShowBeginnerGuide(true);

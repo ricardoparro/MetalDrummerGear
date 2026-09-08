@@ -6,6 +6,9 @@
 **Drummer(s):** [Inferno](/llms/drummers/inferno.md)
 **Band / Album:** Behemoth — *Demigod* (2004)
 **Genre:** Blackened Death Metal
+**Label:** Avantgarde Music / Metal Blade Records
+**Studio:** Hertz Studio, Białystok, Poland
+**Producer:** Behemoth
 
 ## Overview
 

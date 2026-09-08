@@ -6,6 +6,9 @@
 **Drummer(s):** [Igor Cavalera](/llms/drummers/igor-cavalera.md)
 **Band / Album:** Sepultura — *Roots* (1996)
 **Genre:** Groove Metal / Tribal Metal
+**Label:** Roadrunner Records
+**Studio:** Indigo Ranch Studios, Malibu, California / Xavante Territory, Brazil
+**Producer:** Ross Robinson
 
 ## Overview
 

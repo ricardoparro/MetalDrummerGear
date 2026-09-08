@@ -6,6 +6,9 @@
 **Drummer(s):** [Paul Mazurkiewicz](/llms/drummers/paul-mazurkiewicz.md)
 **Band / Album:** Cannibal Corpse — *Torture* (2012)
 **Genre:** Death Metal
+**Label:** Metal Blade Records
+**Studio:** Sonic Ranch Studios, Tornillo, Texas / Mana Recording Studios, St. Petersburg, Florida
+**Producer:** Erik Rutan
 
 ## Overview
 

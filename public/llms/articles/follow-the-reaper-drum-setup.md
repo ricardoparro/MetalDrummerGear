@@ -6,6 +6,9 @@
 **Drummer(s):** [Jaska Raatikainen](/llms/drummers/jaska-raatikainen.md)
 **Band / Album:** Children of Bodom — *Follow the Reaper* (2000)
 **Genre:** Melodic Death Metal
+**Label:** Spinefarm Records
+**Studio:** Astia Studio, Imatra, Finland
+**Producer:** Anssi Kippo
 
 ## Overview
 

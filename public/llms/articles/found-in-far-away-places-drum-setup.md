@@ -6,6 +6,9 @@
 **Drummer(s):** [Matt Greiner](/llms/drummers/matt-greiner.md)
 **Band / Album:** August Burns Red — *Found in Far Away Places* (2015)
 **Genre:** Metalcore
+**Label:** Fearless Records
+**Studio:** Castle Chaos Recording, Lancaster, Pennsylvania
+**Producer:** Carson Slovak and Grant McFarland
 
 ## Overview
 

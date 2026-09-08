@@ -6,6 +6,9 @@
 **Drummer(s):** [Tomas Haake](/llms/drummers/tomas-haake.md)
 **Band / Album:** Meshuggah — *Catch Thirtythree* (2005)
 **Genre:** Extreme Progressive Metal / Djent
+**Label:** Nuclear Blast
+**Studio:** Logic Pro (programmed by Tomas Haake) — Mixed at Fear and Loathing Studios, Stockholm
+**Producer:** Tomas Haake & Fredrik Thordendal
 
 ## Overview
 

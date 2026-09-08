@@ -6,6 +6,9 @@
 **Drummer(s):** [Jaska Raatikainen](/llms/drummers/jaska-raatikainen.md)
 **Band / Album:** Children of Bodom — *Hate Crew Deathroll* (2003)
 **Genre:** Melodic Death Metal
+**Label:** Nuclear Blast
+**Studio:** Finnvox Studios, Helsinki, Finland
+**Producer:** Mikko Karmila / Anssi Kippo
 
 ## Overview
 

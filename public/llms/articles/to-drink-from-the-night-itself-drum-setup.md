@@ -6,6 +6,9 @@
 **Drummer(s):** [Adrian Erlandsson](/llms/drummers/adrian-erlandsson.md)
 **Band / Album:** At the Gates — *To Drink from the Night Itself* (2018)
 **Genre:** Melodic Death Metal
+**Label:** Century Media Records
+**Studio:** Parlour Recording Studios, Kettering, UK (drums, bass, guitars); Welfare Studios, Gothenburg (vocals); Rovljud Studios, Örebro (strings)
+**Producer:** Jonas Björler, Russ Russell, and Tomas Lindberg Redant; recorded, mixed and mastered by Russ Russell
 
 ## Overview
 

@@ -6,6 +6,9 @@
 **Drummer(s):** [Mario Duplantier](/llms/drummers/mario-duplantier.md)
 **Band / Album:** Gojira — *Magma* (2016)
 **Genre:** Progressive Death Metal
+**Label:** Roadrunner Records
+**Studio:** Silver Cord Studio, Brooklyn, New York
+**Producer:** Joe Duplantier
 
 ## Overview
 

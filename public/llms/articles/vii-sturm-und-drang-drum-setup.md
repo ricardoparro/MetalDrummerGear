@@ -6,6 +6,9 @@
 **Drummer(s):** [Chris Adler](/llms/drummers/chris-adler.md)
 **Band / Album:** Lamb of God — *VII: Sturm und Drang* (2015)
 **Genre:** Groove Metal / New Wave of American Heavy Metal
+**Label:** Epic Records
+**Studio:** NRG Recording Studios, North Hollywood, CA / Suburban Soul Studios, Torrance, CA
+**Producer:** Josh Wilbur
 
 ## Overview
 

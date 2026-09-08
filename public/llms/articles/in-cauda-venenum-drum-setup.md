@@ -6,6 +6,9 @@
 **Drummer(s):** [Martin Axenrot](/llms/drummers/martin-axenrot.md)
 **Band / Album:** Opeth — *In Cauda Venenum* (2019)
 **Genre:** Progressive Rock / Progressive Metal
+**Label:** Moderbolaget Records / Nuclear Blast
+**Studio:** Park Studios & Junkmail Studios, Stockholm; Angel Recording Studios, London (strings)
+**Producer:** Mikael Åkerfeldt (with Stefan Boman co-producing, engineering, and mixing)
 
 ## Overview
 

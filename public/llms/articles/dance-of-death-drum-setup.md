@@ -6,6 +6,9 @@
 **Drummer(s):** [Nicko McBrain](/llms/drummers/nicko-mcbrain.md)
 **Band / Album:** Iron Maiden — *Dance of Death* (2003)
 **Genre:** Heavy Metal / NWOBHM
+**Label:** EMI Records
+**Studio:** Sarm West Studios, London
+**Producer:** Kevin Shirley / Steve Harris
 
 ## Overview
 

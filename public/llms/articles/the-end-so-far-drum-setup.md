@@ -6,6 +6,9 @@
 **Drummer(s):** [Jay Weinberg](/llms/drummers/jay-weinberg.md)
 **Band / Album:** Slipknot — *The End, So Far* (2022)
 **Genre:** Nu-Metal / Alternative Metal
+**Label:** Roadrunner Records
+**Studio:** Henson Recording Studios, Los Angeles
+**Producer:** Joe Barresi
 
 ## Overview
 

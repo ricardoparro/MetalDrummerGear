@@ -6,6 +6,9 @@
 **Drummer(s):** [Alex Bent](/llms/drummers/alex-bent.md)
 **Band / Album:** Trivium — *In the Court of the Dragon* (2021)
 **Genre:** Progressive Metal / Metalcore
+**Label:** Roadrunner Records
+**Studio:** Full Sail University, Orlando, FL
+**Producer:** Josh Wilbur
 
 ## Overview
 

@@ -6,6 +6,9 @@
 **Drummer(s):** [Paul Mazurkiewicz](/llms/drummers/paul-mazurkiewicz.md)
 **Band / Album:** Cannibal Corpse — *Chaos Horrific* (2023)
 **Genre:** Death Metal
+**Label:** Metal Blade Records
+**Studio:** Mana Recording Studios, St. Petersburg, Florida
+**Producer:** Erik Rutan
 
 ## Overview
 

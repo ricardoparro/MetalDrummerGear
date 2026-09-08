@@ -6,6 +6,9 @@
 **Drummer(s):** [Matt Halpern](/llms/drummers/matt-halpern.md)
 **Band / Album:** Periphery — *Periphery IV: Hail Stan* (2019)
 **Genre:** Djent / Progressive Metal
+**Label:** 3DOT Recordings
+**Studio:** Misha Mansoor's personal studio / various locations
+**Producer:** Misha Mansoor
 
 ## Overview
 

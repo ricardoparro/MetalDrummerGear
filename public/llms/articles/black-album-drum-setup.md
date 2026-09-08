@@ -6,6 +6,9 @@
 **Drummer(s):** [Lars Ulrich](/llms/drummers/lars-ulrich.md)
 **Band / Album:** Metallica — *Metallica (The Black Album)* (1991)
 **Genre:** Heavy Metal / Hard Rock
+**Label:** Elektra Records
+**Studio:** One on One Recording Studios, Los Angeles
+**Producer:** Bob Rock & Metallica
 
 ## Overview
 

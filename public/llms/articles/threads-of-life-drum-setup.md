@@ -6,6 +6,9 @@
 **Drummer(s):** [Jason Bittner](/llms/drummers/jason-bittner.md)
 **Band / Album:** Shadows Fall — *Threads of Life* (2007)
 **Genre:** NWOAHM / Metalcore
+**Label:** Atlantic Records
+**Studio:** Studio 606, Northridge, California (mixed at Planet Z Studios, Hadley, Massachusetts)
+**Producer:** Nick Raskulinecz
 
 ## Overview
 

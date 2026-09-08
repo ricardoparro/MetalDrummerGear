@@ -6,6 +6,9 @@
 **Drummer(s):** [Nick Menza](/llms/drummers/nick-menza.md)
 **Band / Album:** Megadeth — *Countdown to Extinction* (1992)
 **Genre:** Thrash Metal
+**Label:** Capitol Records
+**Studio:** Enterprise Studios, Burbank, California
+**Producer:** Max Norman, Dave Mustaine
 
 ## Overview
 

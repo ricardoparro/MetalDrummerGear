@@ -6,6 +6,9 @@
 **Drummer(s):** [Gene Hoglan](/llms/drummers/gene-hoglan.md)
 **Band / Album:** Death — *Individual Thought Patterns* (1993)
 **Genre:** Progressive Death Metal
+**Label:** Relativity Records
+**Studio:** Morrisound Recording, Tampa, Florida
+**Producer:** Scott Burns
 
 ## Overview
 

@@ -6,6 +6,9 @@
 **Drummer(s):** [Nicko McBrain](/llms/drummers/nicko-mcbrain.md)
 **Band / Album:** Iron Maiden — *Somewhere in Time* (1986)
 **Genre:** Heavy Metal / NWOBHM
+**Label:** EMI
+**Studio:** Wisseloord Studios, Hilversum, Netherlands
+**Producer:** Martin Birch
 
 ## Overview
 

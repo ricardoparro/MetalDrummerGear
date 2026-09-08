@@ -6,6 +6,9 @@
 **Drummer(s):** [Scott Travis](/llms/drummers/scott-travis.md)
 **Band / Album:** Judas Priest — *Redeemer of Souls* (2014)
 **Genre:** Heavy Metal / Power Metal
+**Label:** Epic Records
+**Studio:** Winfield Sound, Westlake Village, CA & Stage 2 Studio, England
+**Producer:** Andy Sneap, Judas Priest
 
 ## Overview
 

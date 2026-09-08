@@ -6,6 +6,9 @@
 **Drummer(s):** [Inferno](/llms/drummers/inferno.md)
 **Band / Album:** Behemoth — *Zos Kia Cultus (Here and Beyond)* (2002)
 **Genre:** Blackened Death Metal
+**Label:** Avantgarde Music / Metal Blade Records
+**Studio:** Hertz Studios, Poland
+**Producer:** Behemoth
 
 ## Overview
 

@@ -6,6 +6,9 @@
 **Drummer(s):** [Brann Dailor](/llms/drummers/brann-dailor.md)
 **Band / Album:** Mastodon — *Remission* (2002)
 **Genre:** Sludge Metal
+**Label:** Relapse Records
+**Studio:** Studio Fredman, Gothenburg, Sweden
+**Producer:** Fredrik Nordström
 
 ## Overview
 

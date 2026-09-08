@@ -6,6 +6,9 @@
 **Drummer(s):** [Paul Bostaph](/llms/drummers/paul-bostaph.md)
 **Band / Album:** Slayer — *Diabolus in Musica* (1998)
 **Genre:** Thrash Metal
+**Label:** American Recordings
+**Studio:** The Hook, Richmond, CA
+**Producer:** Toby Wright
 
 ## Overview
 

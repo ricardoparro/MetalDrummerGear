@@ -6,6 +6,9 @@
 **Drummer(s):** [Brann Dailor](/llms/drummers/brann-dailor.md)
 **Band / Album:** Mastodon — *Once More 'Round the Sun* (2014)
 **Genre:** Progressive Sludge Metal / Hard Rock
+**Label:** Reprise Records
+**Studio:** Doppler Studios, Atlanta, Georgia
+**Producer:** Nick Raskulinecz
 
 ## Overview
 

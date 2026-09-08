@@ -6,6 +6,9 @@
 **Drummer(s):** The Rev
 **Band / Album:** Avenged Sevenfold — *Avenged Sevenfold* (2007)
 **Genre:** Heavy Metal
+**Label:** Warner Bros. Records
+**Studio:** Track Recording Studio, Huntington Beach, California
+**Producer:** Mudrock
 
 ## Overview
 

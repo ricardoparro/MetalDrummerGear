@@ -6,6 +6,9 @@
 **Drummer(s):** [Eloy Casagrande](/llms/drummers/eloy-casagrande.md)
 **Band / Album:** Sepultura — *Quadra* (2020)
 **Genre:** Thrash Metal / Progressive Metal / Heavy Metal
+**Label:** Nuclear Blast
+**Studio:** Fascination Street Studios, Örebro, Sweden
+**Producer:** Jens Bogren
 
 ## Overview
 

@@ -6,6 +6,9 @@
 **Drummer(s):** [Ben Koller](/llms/drummers/ben-koller.md)
 **Band / Album:** Converge — *You Fail Me* (2004)
 **Genre:** Mathcore / Metalcore
+**Label:** Epitaph Records
+**Studio:** GodCity Studio, Salem, Massachusetts (additional sessions at Magpie Sound Design and Witch Doctor Studio)
+**Producer:** Alan Douches, Kurt Ballou
 
 ## Overview
 

@@ -6,6 +6,9 @@
 **Drummer(s):** [Daray](/llms/drummers/daray.md)
 **Band / Album:** Dimmu Borgir — *Eonian* (2018)
 **Genre:** Symphonic Black Metal
+**Label:** Nuclear Blast
+**Studio:** Fascination Street Studios, Örebro, Sweden
+**Producer:** Dimmu Borgir (mixed and mastered by Jens Bogren)
 
 ## Overview
 

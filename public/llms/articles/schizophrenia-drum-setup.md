@@ -6,6 +6,9 @@
 **Drummer(s):** [Igor Cavalera](/llms/drummers/igor-cavalera.md)
 **Band / Album:** Sepultura — *Schizophrenia* (1987)
 **Genre:** Thrash Metal / Death Metal
+**Label:** Cogumelo Records
+**Studio:** JG Recording Studio, Belo Horizonte, Brazil
+**Producer:** Sepultura
 
 ## Overview
 

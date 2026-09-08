@@ -6,6 +6,9 @@
 **Drummer(s):** [Nicko McBrain](/llms/drummers/nicko-mcbrain.md)
 **Band / Album:** Iron Maiden — *Powerslave* (1984)
 **Genre:** Heavy Metal / NWOBHM
+**Label:** EMI
+**Studio:** Compass Point Studios, Nassau, Bahamas
+**Producer:** Martin Birch
 
 ## Overview
 

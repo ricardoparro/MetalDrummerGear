@@ -6,6 +6,9 @@
 **Drummer(s):** [Paul Mazurkiewicz](/llms/drummers/paul-mazurkiewicz.md)
 **Band / Album:** Cannibal Corpse — *The Wretched Spawn* (2004)
 **Genre:** Death Metal
+**Label:** Metal Blade Records
+**Studio:** Sonic Ranch, Tornillo, Texas
+**Producer:** Neil Kernon
 
 ## Overview
 

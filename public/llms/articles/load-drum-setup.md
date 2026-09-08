@@ -6,6 +6,9 @@
 **Drummer(s):** [Lars Ulrich](/llms/drummers/lars-ulrich.md)
 **Band / Album:** Metallica — *Load* (1996)
 **Genre:** Heavy Metal / Hard Rock
+**Label:** Elektra Records
+**Studio:** The Plant Studios, Sausalito, CA; Prairie Sun Recording, Cotati, CA
+**Producer:** Bob Rock & Metallica
 
 ## Overview
 

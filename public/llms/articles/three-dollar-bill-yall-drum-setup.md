@@ -6,6 +6,9 @@
 **Drummer(s):** [John Otto](/llms/drummers/john-otto.md)
 **Band / Album:** Limp Bizkit — *Three Dollar Bill, Y'all$* (1997)
 **Genre:** Nu-Metal / Rap Metal
+**Label:** Flip Records / Interscope
+**Studio:** Indigo Ranch Studios, Malibu, CA
+**Producer:** Ross Robinson
 
 ## Overview
 

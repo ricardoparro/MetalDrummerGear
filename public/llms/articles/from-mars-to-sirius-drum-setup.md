@@ -6,6 +6,9 @@
 **Drummer(s):** [Mario Duplantier](/llms/drummers/mario-duplantier.md)
 **Band / Album:** Gojira — *From Mars to Sirius* (2005)
 **Genre:** Progressive Death Metal
+**Label:** Listenable Records
+**Studio:** Duplantier Studios, Bayonne, France
+**Producer:** Gojira (self-produced)
 
 ## Overview
 

@@ -6,6 +6,9 @@
 **Drummer(s):** [Igor Cavalera](/llms/drummers/igor-cavalera.md)
 **Band / Album:** Sepultura — *Beneath the Remains* (1989)
 **Genre:** Thrash Metal
+**Label:** Roadrunner Records
+**Studio:** Morrisound Recording, Tampa, Florida
+**Producer:** Scott Burns
 
 ## Overview
 

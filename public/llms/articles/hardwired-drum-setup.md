@@ -6,6 +6,9 @@
 **Drummer(s):** [Lars Ulrich](/llms/drummers/lars-ulrich.md)
 **Band / Album:** Metallica — *Hardwired...to Self-Destruct* (2016)
 **Genre:** Thrash Metal
+**Label:** Blackened Recordings
+**Studio:** HQ, San Rafael, California
+**Producer:** Greg Fidelman, James Hetfield, Lars Ulrich
 
 ## Overview
 

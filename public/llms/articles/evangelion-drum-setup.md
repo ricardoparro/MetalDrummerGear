@@ -6,6 +6,9 @@
 **Drummer(s):** [Inferno](/llms/drummers/inferno.md)
 **Band / Album:** Behemoth — *Evangelion* (2009)
 **Genre:** Blackened Death Metal
+**Label:** Nuclear Blast
+**Studio:** Hertz Studio, Białystok, Poland
+**Producer:** Behemoth / Wojtek & Sławek Wiesławski
 
 ## Overview
 
@@ -29,7 +32,7 @@ This article breaks down every piece of gear Inferno used on *Evangelion*, the t
 
 For *Evangelion*, Inferno's Pearl Reference Pure configuration was built around one primary requirement: maximum efficiency at extreme blast beat tempos. The all-maple shell construction delivers a warm, focused fundamental — essential in the studio environment at Hertz, where the Wiesławski brothers' recording approach rewards tonal definition over raw volume projection.
 
-The double 22" kick drum setup maintained the extreme metal standard. Two independent bass drums, rather than a double pedal on a single drum, gave Inferno full mechanical independence on each foot — critical at the 200–240 BPM passages that dominate *Evangelion*'s most intense sections. The Axis A Longboard double pedal's mechanical precision meant that even during extended blast sequences, each stroke's attack remained consistent and clearly articulated in the Hertz Studio environment.
+The double 22" kick drum setup maintained the extreme metal standard. Two independent bass drums, rather than a double pedal on a single drum, gave Inferno full mechanical independence on each foot — critical at the 200–240 BPM passages that dominate *Evangelion*'s most intense sections. His double pedal setup's mechanical precision meant that even during extended blast sequences, each stroke's attack remained consistent and clearly articulated in the Hertz Studio environment.
 
 The compact four-tom spread — emphasizing smaller sizes compared to the expanded configurations favored for live performance — served *Evangelion*'s compositional priorities. Where some extreme metal records weaponize tom fills as dynamic events, *Evangelion*'s arrangements deploy Inferno's kit as a relentless, forward-moving engine. The tighter setup reduced transition distances and kept the kit's mass concentrated for the album's punishing pace.
 
@@ -55,7 +58,7 @@ The 14" Dark hi-hats were central to Inferno's blast beat technique on this albu
 
 The *Evangelion* album cycle would take a sobering turn in 2010 when Nergal was diagnosed with leukemia during the supporting tour. The diagnosis halted Behemoth's activities and placed the band's future in uncertainty. Nergal's recovery drove the creation of *The Satanist* — an album whose emotional gravity and compositional ambition reflect its extraordinary context. *Evangelion*, in retrospect, marks the boundary between two eras: the relentless forward assault of the pre-cancer Behemoth and the more considered, dynamically sophisticated work that followed.
 
-For drummers studying Inferno's career, the comparison between *Evangelion* and *The Satanist* is instructive beyond the gear differences. On *Evangelion*, the Pearl Reference Pure / Paiste Signature Dark Energy / Axis A Longboard combination was optimized for a single primary objective: maximum velocity at maximum precision. On *The Satanist*, Inferno's approach broadened — the setup, the cymbal voicing, and the performance itself all reflect an artist deploying the full range of his musicianship, not just its most extreme technical edge.
+For drummers studying Inferno's career, the comparison between *Evangelion* and *The Satanist* is instructive beyond the gear differences. On *Evangelion*, the Pearl Reference Pure / Paiste Signature Dark Energy combination — paired with a double pedal setup — was optimized for a single primary objective: maximum velocity at maximum precision. On *The Satanist*, Inferno's approach broadened — the setup, the cymbal voicing, and the performance itself all reflect an artist deploying the full range of his musicianship, not just its most extreme technical edge.
 
 Both approaches are valid. Both produce exceptional recordings. Understanding *Evangelion* — the Billboard 200 charting, the Hertz Studio sessions, the Wiesławski production, the blast beat architecture of "Ov Fire and the Void" and "Shemhamforash" — is prerequisite knowledge for any serious study of how Inferno's drumming evolved across Behemoth's career.
 
@@ -66,7 +69,7 @@ For the complete picture of Inferno's gear across Behemoth's career, visit the [
 - Recorded at Hertz Studio, Białystok — Behemoth's long-time studio home with the Wiesławski brothers
 - Pearl Reference Pure — compact configuration optimized for blast beat velocity
 - Paiste Signature Dark Energy cymbals — dry, controlled response at extreme tempos
-- Axis A Longboard double pedal for mechanical precision at 200–240 BPM
+- A double pedal setup for mechanical precision at 200–240 BPM (specific brand unverified for this era)
 - Charted #153 on Billboard 200 — landmark crossover for extreme blackened death metal
 - Pivotal transitional album: Behemoth's first fully realized blackened death metal statement
 - Maple/birch hybrid Reference Pure construction for studio warmth and tonal definition
@@ -89,7 +92,7 @@ A: On Evangelion (2009), Inferno used a tighter Pearl Reference Pure configurati
 
 **Q: How fast does Inferno play blast beats on Evangelion?**
 
-A: Inferno delivers blast beats in the 200–240 BPM range on Evangelion, executed with single-stroke alternating technique. Tracks like "Ov Fire and the Void" and "Shemhamforash" feature extended blast sections at near-maximum velocity, maintained across the full length of each arrangement. The Axis A Longboard double pedal's mechanical precision and the Paiste Signature Dark Energy hi-hats' fast-decay character were both critical to sustaining this velocity with rhythmic clarity — sloppy or wash-heavy cymbal response would obscure the kick-snare interplay at these tempos.
+A: Inferno delivers blast beats in the 200–240 BPM range on Evangelion, executed with single-stroke alternating technique. Tracks like "Ov Fire and the Void" and "Shemhamforash" feature extended blast sections at near-maximum velocity, maintained across the full length of each arrangement. His double pedal setup's mechanical precision and the Paiste Signature Dark Energy hi-hats' fast-decay character were both critical to sustaining this velocity with rhythmic clarity — sloppy or wash-heavy cymbal response would obscure the kick-snare interplay at these tempos.
 
 **Q: What cymbals did Inferno use on Evangelion?**
 
@@ -97,7 +100,7 @@ A: Inferno used Paiste Signature Dark Energy cymbals on Evangelion — including
 
 **Q: What double pedal did Inferno use on Evangelion?**
 
-A: Inferno used an Axis A Longboard double pedal during the Evangelion era. The Axis A's direct-drive mechanism and extended longboard footplate deliver the mechanical precision and consistent power transfer that extreme blast beat performance at 200–240 BPM requires. At maximum double-bass tempos, chain-drive systems can introduce energy loss or inconsistency; the Axis direct-drive eliminates those variables. The longboard design also provides additional foot leverage during sustained double-bass passages. For a full breakdown of Inferno's double pedal evolution, see the [Inferno drum setup overview](/articles/whats-in-infernos-kit).
+A: Inferno used a double pedal setup during the Evangelion era; the specific brand and model are not confirmed by a verified source for this period, so no brand claim is made here. What is clear from the recording is that the setup delivered the mechanical precision and consistent power transfer that extreme blast beat performance at 200–240 BPM requires. For a full breakdown of Inferno's double pedal evolution, see the [Inferno drum setup overview](/articles/whats-in-infernos-kit).
 
 **Source:** https://metalforge.io/articles/evangelion-drum-setup
 

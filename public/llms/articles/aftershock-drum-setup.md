@@ -6,6 +6,9 @@
 **Drummer(s):** [Mikkey Dee](/llms/drummers/mikkey-dee.md)
 **Band / Album:** Motörhead — *Aftershock* (2013)
 **Genre:** Heavy Metal / Hard Rock
+**Label:** Motörhead Music / UDR GmbH (distributed by ADA)
+**Studio:** NRG Studios, Hollywood, CA / Sound Factory & Sunset Sound, Hollywood, CA / Maple Studios, Santa Ana, CA
+**Producer:** Cameron Webb
 
 ## Overview
 

@@ -6,6 +6,9 @@
 **Drummer(s):** [Mario Duplantier](/llms/drummers/mario-duplantier.md)
 **Band / Album:** Gojira — *Fortitude* (2021)
 **Genre:** Progressive Death Metal
+**Label:** Roadrunner Records / Mercury KX
+**Studio:** Silver Cord Studio, New York
+**Producer:** Joe Duplantier (mixed by Andy Wallace)
 
 ## Overview
 

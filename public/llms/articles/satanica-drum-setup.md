@@ -6,6 +6,9 @@
 **Drummer(s):** [Inferno](/llms/drummers/inferno.md)
 **Band / Album:** Behemoth — *Satanica* (1999)
 **Genre:** Blackened Death Metal
+**Label:** Avantgarde Music
+**Studio:** Recorded in Poland (1998–1999)
+**Producer:** Nergal / Behemoth
 
 ## Overview
 

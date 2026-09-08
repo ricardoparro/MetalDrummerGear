@@ -6,6 +6,9 @@
 **Drummer(s):** [Paul Bostaph](/llms/drummers/paul-bostaph.md)
 **Band / Album:** Slayer — *Repentless* (2015)
 **Genre:** Thrash Metal
+**Label:** Nuclear Blast
+**Studio:** Henson Recording Studios, Los Angeles, CA
+**Producer:** Terry Date
 
 ## Overview
 

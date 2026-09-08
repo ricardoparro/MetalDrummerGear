@@ -6,6 +6,9 @@
 **Drummer(s):** [Shannon Larkin](/llms/drummers/shannon-larkin.md)
 **Band / Album:** Godsmack — *Lighting Up the Sky* (2023)
 **Genre:** Hard Rock
+**Label:** BMG
+**Studio:** Various Studios
+**Producer:** Godsmack
 
 ## Overview
 

@@ -6,6 +6,9 @@
 **Drummer(s):** [Mikkey Dee](/llms/drummers/mikkey-dee.md)
 **Band / Album:** Motörhead — *March ör Die* (1992)
 **Genre:** Heavy Metal / Hard Rock
+**Label:** WTG Records / Epic Records
+**Studio:** Music Grinder Studios, Hollywood, California
+**Producer:** Peter Solley (album); Billy Sherwood and Phil Carson ("Hellraiser")
 
 ## Overview
 

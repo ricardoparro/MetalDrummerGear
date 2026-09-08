@@ -6,6 +6,9 @@
 **Drummer(s):** [Charlie Benante](/llms/drummers/charlie-benante.md)
 **Band / Album:** Anthrax — *Sound of White Noise* (1993)
 **Genre:** Groove Metal / Thrash Metal
+**Label:** Elektra Records
+**Studio:** A&M Studios, Hollywood, California
+**Producer:** Dave Jerden
 
 ## Overview
 

@@ -6,6 +6,9 @@
 **Drummer(s):** [Tomas Haake](/llms/drummers/tomas-haake.md)
 **Band / Album:** Meshuggah — *Immutable* (2022)
 **Genre:** Extreme Progressive Metal / Djent
+**Label:** Atomic Fire Records
+**Studio:** Sweetspot Studios, Halmstad, Sweden
+**Producer:** Meshuggah & Tue Madsen
 
 ## Overview
 

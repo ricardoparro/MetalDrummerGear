@@ -6,6 +6,9 @@
 **Drummer(s):** [Mikkey Dee](/llms/drummers/mikkey-dee.md)
 **Band / Album:** Motörhead — *The Wörld Is Yours* (2010)
 **Genre:** Heavy Metal / Hard Rock
+**Label:** Motörhead Music / UDR GmbH (distributed by EMI Label Services)
+**Studio:** NRG Studios, North Hollywood, CA / Maple Studios, Santa Ana, CA / Sage and Sound Studios, Hollywood, CA
+**Producer:** Cameron Webb
 
 ## Overview
 

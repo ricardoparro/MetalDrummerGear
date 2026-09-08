@@ -6,6 +6,9 @@
 **Drummer(s):** [Bill Ward](/llms/drummers/bill-ward.md)
 **Band / Album:** Black Sabbath — *Technical Ecstasy* (1976)
 **Genre:** Heavy Metal / Hard Rock
+**Label:** Vertigo Records
+**Studio:** Criteria Studios, Miami
+**Producer:** Black Sabbath
 
 ## Overview
 

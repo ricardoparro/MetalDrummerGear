@@ -6,6 +6,9 @@
 **Drummer(s):** [Flo Mounier](/llms/drummers/flo-mounier.md)
 **Band / Album:** Cryptopsy — *And Then You'll Beg* (2000)
 **Genre:** Technical Death Metal
+**Label:** Century Media Records
+**Studio:** Studio Victor, Montreal
+**Producer:** Pierre Rémillard
 
 ## Overview
 

@@ -6,6 +6,9 @@
 **Drummer(s):** [Gene Hoglan](/llms/drummers/gene-hoglan.md)
 **Band / Album:** Testament — *Titans of Creation* (2020)
 **Genre:** Thrash Metal
+**Label:** Nuclear Blast
+**Studio:** Sharkbite Studios, Oakland, California
+**Producer:** Juan Urteaga
 
 ## Overview
 

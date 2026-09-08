@@ -6,6 +6,9 @@
 **Drummer(s):** [Tomas Haake](/llms/drummers/tomas-haake.md)
 **Band / Album:** Meshuggah — *Koloss* (2012)
 **Genre:** Extreme Progressive Metal / Djent
+**Label:** Nuclear Blast
+**Studio:** Fear and Loathing Studios, Stockholm
+**Producer:** Meshuggah
 
 ## Overview
 

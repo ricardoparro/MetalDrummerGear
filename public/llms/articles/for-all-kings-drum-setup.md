@@ -6,6 +6,9 @@
 **Drummer(s):** [Charlie Benante](/llms/drummers/charlie-benante.md)
 **Band / Album:** Anthrax — *For All Kings* (2016)
 **Genre:** Thrash Metal
+**Label:** Megaforce Records
+**Studio:** Sphere Studios, North Hollywood, CA
+**Producer:** Jay Ruston
 
 ## Overview
 

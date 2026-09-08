@@ -6,6 +6,9 @@
 **Drummer(s):** [Nicko McBrain](/llms/drummers/nicko-mcbrain.md)
 **Band / Album:** Iron Maiden — *Brave New World* (2000)
 **Genre:** Heavy Metal / NWOBHM
+**Label:** EMI Records
+**Studio:** Barnyard Studios, Essex, UK
+**Producer:** Kevin Shirley / Steve Harris
 
 ## Overview
 

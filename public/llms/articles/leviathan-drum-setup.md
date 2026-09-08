@@ -6,6 +6,9 @@
 **Drummer(s):** [Brann Dailor](/llms/drummers/brann-dailor.md)
 **Band / Album:** Mastodon — *Leviathan* (2004)
 **Genre:** Progressive Sludge Metal
+**Label:** Relapse Records
+**Studio:** Studio Litho, Seattle, Washington
+**Producer:** Matt Bayles
 
 ## Overview
 

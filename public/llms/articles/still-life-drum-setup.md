@@ -6,6 +6,9 @@
 **Drummer(s):** [Martin Lopez](/llms/drummers/martin-lopez.md)
 **Band / Album:** Opeth — *Still Life* (1999)
 **Genre:** Progressive Death Metal
+**Label:** Peaceville Records
+**Studio:** Fredman Studio, Gothenburg
+**Producer:** Mikael Åkerfeldt
 
 ## Overview
 

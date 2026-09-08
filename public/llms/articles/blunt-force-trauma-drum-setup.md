@@ -6,6 +6,9 @@
 **Drummer(s):** [Igor Cavalera](/llms/drummers/igor-cavalera.md)
 **Band / Album:** Cavalera Conspiracy — *Blunt Force Trauma* (2011)
 **Genre:** Thrash Metal / Death Metal
+**Label:** Roadrunner Records
+**Studio:** Undercroft Studios, Los Angeles, California
+**Producer:** Logan Mader
 
 ## Overview
 

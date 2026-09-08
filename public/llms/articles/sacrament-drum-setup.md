@@ -6,6 +6,9 @@
 **Drummer(s):** [Chris Adler](/llms/drummers/chris-adler.md)
 **Band / Album:** Lamb of God — *Sacrament* (2006)
 **Genre:** Groove Metal / New Wave of American Heavy Metal
+**Label:** Epic Records
+**Studio:** Capitol Studios, Hollywood, California
+**Producer:** Machine (Mark Lewis)
 
 ## Overview
 

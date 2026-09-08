@@ -6,6 +6,9 @@
 **Drummer(s):** [Sean Reinert](/llms/drummers/sean-reinert.md)
 **Band / Album:** Death — *Human* (1991)
 **Genre:** Progressive Death Metal
+**Label:** Relativity Records
+**Studio:** Morrisound Recording, Tampa, Florida
+**Producer:** Scott Burns
 
 ## Overview
 

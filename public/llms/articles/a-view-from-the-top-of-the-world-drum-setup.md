@@ -6,6 +6,9 @@
 **Drummer(s):** [Mike Mangini](/llms/drummers/mike-mangini.md)
 **Band / Album:** Dream Theater — *A View from the Top of the World* (2021)
 **Genre:** Progressive Metal
+**Label:** InsideOut Music
+**Studio:** Yonderbarn Studios, Hurleyville, New York
+**Producer:** Dream Theater
 
 ## Overview
 

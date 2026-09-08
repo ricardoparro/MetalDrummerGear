@@ -6,6 +6,9 @@
 **Drummer(s):** [Mikkey Dee](/llms/drummers/mikkey-dee.md)
 **Band / Album:** Motörhead — *Overnight Sensation* (1996)
 **Genre:** Heavy Metal / Hard Rock
+**Label:** SPV/Steamhammer (CMC International in North America)
+**Studio:** Ocean Studios, Burbank, California; Track House Recording Studio, St. Louis, Missouri
+**Producer:** Howard Benson and Duane Baron, with Ryan Dorn and Motörhead
 
 ## Overview
 

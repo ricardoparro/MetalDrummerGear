@@ -6,6 +6,9 @@
 **Drummer(s):** [Danny Carey](/llms/drummers/danny-carey.md)
 **Band / Album:** Tool — *Fear Inoculum* (2019)
 **Genre:** Progressive Metal
+**Label:** RCA Records / Tool Dissectional
+**Studio:** Tool Compound, Los Angeles
+**Producer:** Tool
 
 ## Overview
 

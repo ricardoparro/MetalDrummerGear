@@ -6,6 +6,9 @@
 **Drummer(s):** [Charlie Benante](/llms/drummers/charlie-benante.md)
 **Band / Album:** Anthrax — *Among the Living* (1987)
 **Genre:** Thrash Metal
+**Label:** Island Records / Megaforce Records
+**Studio:** Kajem/Victory Studios, Gladwyne, PA
+**Producer:** Eddie Kramer
 
 ## Overview
 

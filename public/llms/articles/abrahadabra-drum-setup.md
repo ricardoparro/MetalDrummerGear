@@ -6,6 +6,9 @@
 **Drummer(s):** [Daray](/llms/drummers/daray.md)
 **Band / Album:** Dimmu Borgir — *Abrahadabra* (2010)
 **Genre:** Symphonic Black Metal
+**Label:** Nuclear Blast
+**Studio:** Dug Out Studios, Uppsala, Sweden (drums); Living Room Studios, Oslo (guitars/bass); NRK Studios, Oslo (orchestra/choir)
+**Producer:** Dimmu Borgir (mixed by Dimmu Borgir and Andy Sneap)
 
 ## Overview
 

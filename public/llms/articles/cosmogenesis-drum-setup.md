@@ -6,6 +6,9 @@
 **Drummer(s):** [Hannes Grossmann](/llms/drummers/hannes-grossmann.md)
 **Band / Album:** Obscura — *Cosmogenesis* (2009)
 **Genre:** Technical Death Metal
+**Label:** Relapse Records
+**Studio:** Woodshed Studios, Germany
+**Producer:** V. Santura
 
 ## Overview
 

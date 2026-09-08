@@ -6,6 +6,9 @@
 **Drummer(s):** [Blake Richardson](/llms/drummers/blake-richardson.md)
 **Band / Album:** Between the Buried and Me — *The Great Misdirect* (2009)
 **Genre:** Progressive Metal
+**Label:** Metal Blade Records
+**Studio:** The Basement Studio, Winston-Salem, NC
+**Producer:** Jamie King
 
 ## Overview
 

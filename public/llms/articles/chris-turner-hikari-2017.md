@@ -6,6 +6,8 @@
 **Drummer(s):** [Chris Turner](/llms/drummers/chris-turner.md)
 **Band / Album:** Oceans Ate Alaska — *Hikari* (2017)
 **Genre:** Progressive Metalcore
+**Label:** Fearless Records
+**Producer:** Nick Sampson
 
 ## Overview
 

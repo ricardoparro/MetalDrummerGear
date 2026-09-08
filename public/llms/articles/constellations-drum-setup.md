@@ -6,6 +6,9 @@
 **Drummer(s):** [Matt Greiner](/llms/drummers/matt-greiner.md)
 **Band / Album:** August Burns Red — *Constellations* (2009)
 **Genre:** Metalcore
+**Label:** Solid State Records
+**Studio:** Audiohammer Studios, Sanford, Florida
+**Producer:** Jason Suecof
 
 ## Overview
 

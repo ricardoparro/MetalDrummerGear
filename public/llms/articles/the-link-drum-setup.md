@@ -6,6 +6,9 @@
 **Drummer(s):** [Mario Duplantier](/llms/drummers/mario-duplantier.md)
 **Band / Album:** Gojira — *The Link* (2003)
 **Genre:** Progressive Death Metal
+**Label:** Listenable Records
+**Studio:** Bayonne, France (self-produced)
+**Producer:** Gojira (self-produced)
 
 ## Overview
 

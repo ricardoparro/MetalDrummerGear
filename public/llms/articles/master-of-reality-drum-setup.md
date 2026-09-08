@@ -6,6 +6,9 @@
 **Drummer(s):** [Bill Ward](/llms/drummers/bill-ward.md)
 **Band / Album:** Black Sabbath — *Master of Reality* (1971)
 **Genre:** Doom Metal / Heavy Metal
+**Label:** Vertigo Records
+**Studio:** Island Studios, London
+**Producer:** Rodger Bain
 
 ## Overview
 

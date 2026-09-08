@@ -6,6 +6,9 @@
 **Drummer(s):** [Charlie Benante](/llms/drummers/charlie-benante.md)
 **Band / Album:** Anthrax — *Stomp 442* (1995)
 **Genre:** Groove Metal / Thrash Metal
+**Label:** Elektra Records
+**Studio:** Studio 4, Conshohocken, Pennsylvania
+**Producer:** Anthrax and the Butcher Bros.
 
 ## Overview
 

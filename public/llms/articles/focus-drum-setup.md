@@ -6,6 +6,9 @@
 **Drummer(s):** [Sean Reinert](/llms/drummers/sean-reinert.md)
 **Band / Album:** Cynic — *Focus* (1993)
 **Genre:** Progressive Death Metal / Jazz Fusion
+**Label:** Roadrunner Records
+**Studio:** Morrisound Recording, Tampa FL
+**Producer:** Scott Burns
 
 ## Overview
 

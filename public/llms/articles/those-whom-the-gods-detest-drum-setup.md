@@ -6,6 +6,7 @@
 **Drummer(s):** [George Kollias](/llms/drummers/george-kollias.md)
 **Band / Album:** Nile — *Those Whom the Gods Detest* (2009)
 **Genre:** Technical Death Metal / Brutal Death Metal
+**Label:** Nuclear Blast
 
 ## Overview
 

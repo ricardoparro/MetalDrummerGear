@@ -6,6 +6,9 @@
 **Drummer(s):** [Dave Lombardo](/llms/drummers/dave-lombardo.md)
 **Band / Album:** Slayer — *Hell Awaits* (1985)
 **Genre:** Thrash Metal
+**Label:** Metal Blade Records
+**Studio:** Music Grinder Studios, Hollywood, California
+**Producer:** Brian Slagel
 
 ## Overview
 

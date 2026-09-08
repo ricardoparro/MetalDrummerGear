@@ -6,6 +6,9 @@
 **Drummer(s):** [Brann Dailor](/llms/drummers/brann-dailor.md)
 **Band / Album:** Mastodon — *The Hunter* (2011)
 **Genre:** Progressive Metal / Hard Rock
+**Label:** Reprise Records
+**Studio:** Doppler Studios, Atlanta, Georgia
+**Producer:** Mike Elizondo
 
 ## Overview
 

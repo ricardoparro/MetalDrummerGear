@@ -6,6 +6,9 @@
 **Drummer(s):** The Rev
 **Band / Album:** Avenged Sevenfold — *City of Evil* (2005)
 **Genre:** Heavy Metal / Metalcore
+**Label:** Warner Bros. Records
+**Studio:** Track Recording Studio, Huntington Beach, California
+**Producer:** Mudrock
 
 ## Overview
 

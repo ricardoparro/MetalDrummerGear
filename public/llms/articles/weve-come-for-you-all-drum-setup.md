@@ -6,6 +6,9 @@
 **Drummer(s):** [Charlie Benante](/llms/drummers/charlie-benante.md)
 **Band / Album:** Anthrax — *We've Come for You All* (2003)
 **Genre:** Groove Metal / Thrash Metal
+**Label:** Sanctuary Records (North America) / Nuclear Blast (Europe)
+**Studio:** BearTracks Recording Studio, Suffern, New York
+**Producer:** Anthrax and Scrap 60 Productions (Rob Caggiano, Eddie Wohl, Steve Regina)
 
 ## Overview
 

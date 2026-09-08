@@ -6,6 +6,9 @@
 **Drummer(s):** [Blake Richardson](/llms/drummers/blake-richardson.md)
 **Band / Album:** Between the Buried and Me — *Automata II* (2018)
 **Genre:** Progressive Metal
+**Label:** Sumerian Records
+**Studio:** The Basement Studio, Winston-Salem, NC
+**Producer:** Jamie King
 
 ## Overview
 

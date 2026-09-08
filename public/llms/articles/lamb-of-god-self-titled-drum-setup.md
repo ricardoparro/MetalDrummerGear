@@ -6,6 +6,8 @@
 **Drummer(s):** [Art Cruz](/llms/drummers/art-cruz.md)
 **Band / Album:** Lamb of God — *Lamb of God* (2020)
 **Genre:** Groove Metal / American Metal
+**Label:** Epic Records
+**Producer:** Josh Wilbur
 
 ## Overview
 

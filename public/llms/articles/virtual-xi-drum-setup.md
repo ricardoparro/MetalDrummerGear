@@ -6,6 +6,9 @@
 **Drummer(s):** [Nicko McBrain](/llms/drummers/nicko-mcbrain.md)
 **Band / Album:** Iron Maiden — *Virtual XI* (1998)
 **Genre:** Heavy Metal / NWOBHM
+**Label:** EMI Records
+**Studio:** Barnyard Studios, Essex, UK
+**Producer:** Steve Harris / Nigel Green
 
 ## Overview
 

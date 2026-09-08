@@ -6,6 +6,9 @@
 **Drummer(s):** [Abe Cunningham](/llms/drummers/abe-cunningham.md)
 **Band / Album:** Deftones — *Gore* (2016)
 **Genre:** Alternative Metal
+**Label:** Reprise Records
+**Studio:** Megawatt Recording, Studio City, California
+**Producer:** Matt Hyde
 
 ## Overview
 

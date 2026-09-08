@@ -6,6 +6,9 @@
 **Drummer(s):** [Igor Cavalera](/llms/drummers/igor-cavalera.md)
 **Band / Album:** Sepultura — *Arise* (1991)
 **Genre:** Thrash Metal / Death Metal
+**Label:** Roadrunner Records
+**Studio:** Morrisound Recording, Tampa, Florida
+**Producer:** Scott Burns
 
 ## Overview
 

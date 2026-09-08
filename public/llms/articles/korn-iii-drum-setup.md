@@ -6,6 +6,9 @@
 **Drummer(s):** [Ray Luzier](/llms/drummers/ray-luzier.md)
 **Band / Album:** Korn — *Korn III: Remember Who You Are* (2010)
 **Genre:** Nu-Metal
+**Label:** Roadrunner Records
+**Studio:** NRG Recording Studios, North Hollywood
+**Producer:** Ross Robinson
 
 ## Overview
 

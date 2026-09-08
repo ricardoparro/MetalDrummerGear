@@ -6,6 +6,9 @@
 **Drummer(s):** [Bill Ward](/llms/drummers/bill-ward.md)
 **Band / Album:** Black Sabbath — *Paranoid* (1970)
 **Genre:** Heavy Metal
+**Label:** Vertigo Records
+**Studio:** Regent Sound Studios, London
+**Producer:** Rodger Bain
 
 ## Overview
 

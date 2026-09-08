@@ -6,6 +6,9 @@
 **Drummer(s):** [Matt Greiner](/llms/drummers/matt-greiner.md)
 **Band / Album:** August Burns Red — *Rescue & Restore* (2014)
 **Genre:** Metalcore
+**Label:** Solid State Records
+**Studio:** Atrium Audio, Lancaster, Pennsylvania
+**Producer:** Carson Slovak & Grant McFarland
 
 ## Overview
 

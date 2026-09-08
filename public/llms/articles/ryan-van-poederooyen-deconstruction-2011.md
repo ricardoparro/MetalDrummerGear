@@ -6,6 +6,8 @@
 **Drummer(s):** [Ryan Van Poederooyen](/llms/drummers/ryan-van-poederooyen.md)
 **Band / Album:** Devin Townsend Project — *Deconstruction* (2011)
 **Genre:** Progressive Metal / Extreme Metal
+**Label:** HevyDevy Records / InsideOut Music
+**Producer:** Devin Townsend
 
 ## Overview
 

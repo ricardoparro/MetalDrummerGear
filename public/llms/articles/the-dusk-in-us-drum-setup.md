@@ -6,6 +6,9 @@
 **Drummer(s):** [Ben Koller](/llms/drummers/ben-koller.md)
 **Band / Album:** Converge — *The Dusk in Us* (2017)
 **Genre:** Mathcore / Hardcore
+**Label:** Epitaph Records
+**Studio:** GodCity Studio, Salem, Massachusetts
+**Producer:** Kurt Ballou
 
 ## Overview
 

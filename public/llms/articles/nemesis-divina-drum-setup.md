@@ -6,6 +6,9 @@
 **Drummer(s):** [Frost](/llms/drummers/frost.md)
 **Band / Album:** Satyricon — *Nemesis Divina* (1996)
 **Genre:** Black Metal
+**Label:** Moonfog Productions
+**Studio:** Waterfall Studios, Bergen, Norway
+**Producer:** Satyricon (self-produced)
 
 ## Overview
 

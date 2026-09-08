@@ -6,6 +6,9 @@
 **Drummer(s):** [Vinnie Paul](/llms/drummers/vinnie-paul.md)
 **Band / Album:** Pantera — *I Am the Night* (1985)
 **Genre:** Glam Metal / Hard Rock
+**Label:** Metal Magic Records
+**Studio:** Pantego Sound Studio, Pantego, Texas
+**Producer:** Jerry Abbott & Pantera
 
 ## Overview
 

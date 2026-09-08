@@ -6,6 +6,9 @@
 **Drummer(s):** [Gene Hoglan](/llms/drummers/gene-hoglan.md)
 **Band / Album:** Dark Angel — *Darkness Descends* (1986)
 **Genre:** Thrash Metal
+**Label:** Combat Records
+**Studio:** Track Record Studios, North Hollywood, California
+**Producer:** Bill Metoyer
 
 ## Overview
 

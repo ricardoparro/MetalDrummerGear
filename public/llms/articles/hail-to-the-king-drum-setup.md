@@ -6,6 +6,9 @@
 **Drummer(s):** [Arin Ilejay](/llms/drummers/arin-ilejay.md)
 **Band / Album:** Avenged Sevenfold — *Hail to the King* (2013)
 **Genre:** Heavy Metal
+**Label:** Warner Bros. Records
+**Studio:** Los Angeles, California
+**Producer:** Mike Elizondo
 
 ## Overview
 

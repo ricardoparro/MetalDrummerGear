@@ -6,6 +6,9 @@
 **Drummer(s):** [Gene Hoglan](/llms/drummers/gene-hoglan.md)
 **Band / Album:** Strapping Young Lad — *City* (1997)
 **Genre:** Industrial Metal / Extreme Metal
+**Label:** Century Media Records
+**Studio:** The Greenhouse, Vancouver, British Columbia
+**Producer:** Devin Townsend
 
 ## Overview
 

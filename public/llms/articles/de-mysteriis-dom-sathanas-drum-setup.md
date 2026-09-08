@@ -6,6 +6,9 @@
 **Drummer(s):** [Hellhammer](/llms/drummers/hellhammer.md)
 **Band / Album:** Mayhem — *De Mysteriis Dom Sathanas* (1994)
 **Genre:** Black Metal
+**Label:** Deathlike Silence Productions
+**Studio:** Grieghallen Studio, Bergen, Norway
+**Producer:** Pytten (Eirik Hundvin)
 
 ## Overview
 

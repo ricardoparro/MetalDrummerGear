@@ -6,6 +6,8 @@
 **Drummer(s):** [Navene Koperweis](/llms/drummers/navene-koperweis.md)
 **Band / Album:** Animals as Leaders — *Weightless* (2011)
 **Genre:** Progressive Metal / Djent
+**Label:** Prosthetic Records
+**Producer:** Animals as Leaders
 
 ## Overview
 

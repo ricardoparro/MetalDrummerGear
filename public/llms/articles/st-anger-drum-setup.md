@@ -6,6 +6,9 @@
 **Drummer(s):** [Lars Ulrich](/llms/drummers/lars-ulrich.md)
 **Band / Album:** Metallica — *St. Anger* (2003)
 **Genre:** Thrash Metal / Nu Metal
+**Label:** Elektra Records
+**Studio:** HQ / The Presidio, San Francisco
+**Producer:** Bob Rock, Metallica
 
 ## Overview
 

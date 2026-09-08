@@ -6,6 +6,9 @@
 **Drummer(s):** [John Otto](/llms/drummers/john-otto.md)
 **Band / Album:** Limp Bizkit — *Results May Vary* (2003)
 **Genre:** Nu-Metal / Alternative Rock
+**Label:** Flip Records / Interscope
+**Studio:** Various studios, Los Angeles, CA
+**Producer:** Fred Durst
 
 ## Overview
 

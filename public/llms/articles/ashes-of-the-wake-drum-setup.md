@@ -6,6 +6,9 @@
 **Drummer(s):** [Chris Adler](/llms/drummers/chris-adler.md)
 **Band / Album:** Lamb of God — *Ashes of the Wake* (2004)
 **Genre:** Groove Metal / New Wave of American Heavy Metal
+**Label:** Epic Records
+**Studio:** Audiohammer Studios, Sanford, Florida
+**Producer:** Machine (Mark Lewis)
 
 ## Overview
 

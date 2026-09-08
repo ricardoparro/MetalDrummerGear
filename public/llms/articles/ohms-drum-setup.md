@@ -6,6 +6,9 @@
 **Drummer(s):** [Abe Cunningham](/llms/drummers/abe-cunningham.md)
 **Band / Album:** Deftones — *Ohms* (2020)
 **Genre:** Alternative Metal
+**Label:** Reprise Records
+**Studio:** Henson Recording Studios, Hollywood, CA
+**Producer:** Terry Date
 
 ## Overview
 

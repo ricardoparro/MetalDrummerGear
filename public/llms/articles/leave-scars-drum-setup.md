@@ -6,6 +6,9 @@
 **Drummer(s):** [Gene Hoglan](/llms/drummers/gene-hoglan.md)
 **Band / Album:** Dark Angel — *Leave Scars* (1989)
 **Genre:** Thrash Metal
+**Label:** Combat Records
+**Studio:** Track Record Studios, North Hollywood, California
+**Producer:** Bill Metoyer
 
 ## Overview
 

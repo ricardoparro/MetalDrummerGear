@@ -6,6 +6,9 @@
 **Drummer(s):** [John Otto](/llms/drummers/john-otto.md)
 **Band / Album:** Limp Bizkit — *Chocolate Starfish and the Hot Dog Flavored Water* (2000)
 **Genre:** Nu-Metal / Rap Metal
+**Label:** Flip Records / Interscope
+**Studio:** Westlake Recording Studios, Hollywood, CA
+**Producer:** Terry Date & Limp Bizkit
 
 ## Overview
 

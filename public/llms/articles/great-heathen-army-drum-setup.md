@@ -6,6 +6,9 @@
 **Drummer(s):** [Jocke Wallgren](/llms/drummers/jocke-wallgren.md)
 **Band / Album:** Amon Amarth — *The Great Heathen Army* (2022)
 **Genre:** Melodic Death Metal / Viking Metal
+**Label:** Metal Blade Records
+**Studio:** Backstage Productions, Derbyshire, England
+**Producer:** Andy Sneap
 
 ## Overview
 

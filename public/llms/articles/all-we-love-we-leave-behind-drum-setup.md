@@ -6,6 +6,9 @@
 **Drummer(s):** [Ben Koller](/llms/drummers/ben-koller.md)
 **Band / Album:** Converge — *All We Love We Leave Behind* (2012)
 **Genre:** Mathcore / Hardcore
+**Label:** Epitaph Records
+**Studio:** GodCity Studio, Salem, Massachusetts
+**Producer:** Kurt Ballou
 
 ## Overview
 

@@ -6,6 +6,9 @@
 **Drummer(s):** [Mike Mangini](/llms/drummers/mike-mangini.md)
 **Band / Album:** Dream Theater — *Distance Over Time* (2019)
 **Genre:** Progressive Metal
+**Label:** InsideOut Music
+**Studio:** Yonderbarn Studios, Hurleyville, New York
+**Producer:** John Petrucci
 
 ## Overview
 

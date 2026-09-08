@@ -6,6 +6,9 @@
 **Drummer(s):** Tosin Abasi (programmed)
 **Band / Album:** Animals as Leaders — *Animals as Leaders* (2009)
 **Genre:** Progressive Metal / Djent
+**Label:** Prosthetic Records
+**Studio:** Tosin Abasi's home studio
+**Producer:** Misha Mansoor + Tosin Abasi
 
 ## Overview
 

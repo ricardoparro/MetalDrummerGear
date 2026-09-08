@@ -6,6 +6,9 @@
 **Drummer(s):** [Mikkey Dee](/llms/drummers/mikkey-dee.md)
 **Band / Album:** Motörhead — *We Are Motörhead* (2000)
 **Genre:** Heavy Metal / Hard Rock
+**Label:** SPV/Steamhammer (CMC International in North America)
+**Studio:** Karo Studios, Brackel, Germany; American Recorders, Calabasas, California
+**Producer:** Motörhead, with Bob Kulick, Bruce Bouillet, and Duane Baron
 
 ## Overview
 

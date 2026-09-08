@@ -6,6 +6,9 @@
 **Drummer(s):** [Mike Portnoy](/llms/drummers/mike-portnoy.md)
 **Band / Album:** Dream Theater — *Awake* (1994)
 **Genre:** Progressive Metal
+**Label:** EastWest Records
+**Studio:** Devonshire Studios, North Hollywood, California
+**Producer:** Dream Theater, John Purdell, Duane Baron
 
 ## Overview
 

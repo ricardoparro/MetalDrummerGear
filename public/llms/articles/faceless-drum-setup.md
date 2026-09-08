@@ -6,6 +6,9 @@
 **Drummer(s):** [Shannon Larkin](/llms/drummers/shannon-larkin.md)
 **Band / Album:** Godsmack — *Faceless* (2003)
 **Genre:** Hard Rock / Heavy Metal
+**Label:** Republic Records / Universal
+**Studio:** Boston, Massachusetts
+**Producer:** Godsmack
 
 ## Overview
 

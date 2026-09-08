@@ -6,6 +6,9 @@
 **Drummer(s):** [Lars Ulrich](/llms/drummers/lars-ulrich.md)
 **Band / Album:** Metallica — *72 Seasons* (2023)
 **Genre:** Heavy Metal / Thrash Metal
+**Label:** Blackened Recordings
+**Studio:** HQ, San Rafael, CA
+**Producer:** Greg Fidelman with James Hetfield & Lars Ulrich
 
 ## Overview
 

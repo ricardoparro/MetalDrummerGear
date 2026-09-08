@@ -6,6 +6,9 @@
 **Drummer(s):** [Ray Luzier](/llms/drummers/ray-luzier.md)
 **Band / Album:** Korn — *The Path of Totality* (2011)
 **Genre:** Nu-Metal / Dubstep
+**Label:** Prospect Park
+**Studio:** Various (Los Angeles recording facilities)
+**Producer:** Skrillex, Excision, Feed Me, Noisia, Downlink, Kill the Noise, 12th Planet
 
 ## Overview
 

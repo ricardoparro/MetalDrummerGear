@@ -6,6 +6,9 @@
 **Drummer(s):** [George Kollias](/llms/drummers/george-kollias.md)
 **Band / Album:** Nile — *Annihilation of the Wicked* (2005)
 **Genre:** Technical Death Metal / Brutal Death Metal
+**Label:** Relapse Records
+**Studio:** Sonic Ranch, Tornillo TX
+**Producer:** Neil Kernon
 
 ## Overview
 

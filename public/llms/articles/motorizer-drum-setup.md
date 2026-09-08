@@ -6,6 +6,9 @@
 **Drummer(s):** [Mikkey Dee](/llms/drummers/mikkey-dee.md)
 **Band / Album:** Motörhead — *Motörizer* (2008)
 **Genre:** Heavy Metal / Speed Metal
+**Label:** Steamhammer/SPV
+**Studio:** Studio 606 (Northridge, California) & Sage and Sound (Los Angeles, California)
+**Producer:** Cameron Webb
 
 ## Overview
 

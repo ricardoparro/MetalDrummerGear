@@ -6,6 +6,9 @@
 **Drummer(s):** [Scott Travis](/llms/drummers/scott-travis.md)
 **Band / Album:** Judas Priest — *Angel of Retribution* (2005)
 **Genre:** Heavy Metal
+**Label:** Epic Records / Sony BMG
+**Studio:** Various studios, California
+**Producer:** Roy Z, Judas Priest
 
 ## Overview
 

@@ -6,6 +6,9 @@
 **Drummer(s):** [Paul Mazurkiewicz](/llms/drummers/paul-mazurkiewicz.md)
 **Band / Album:** Cannibal Corpse — *The Bleeding* (1994)
 **Genre:** Death Metal
+**Label:** Metal Blade Records
+**Studio:** Morrisound Recording, Tampa, Florida
+**Producer:** Scott Burns
 
 ## Overview
 

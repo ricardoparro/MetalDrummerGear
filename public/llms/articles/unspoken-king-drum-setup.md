@@ -6,6 +6,9 @@
 **Drummer(s):** [Flo Mounier](/llms/drummers/flo-mounier.md)
 **Band / Album:** Cryptopsy — *The Unspoken King* (2008)
 **Genre:** Technical Death Metal / Death Metal
+**Label:** Century Media Records
+**Studio:** Piccolo Studio, St-Hubert, Quebec
+**Producer:** Chris Donaldson
 
 ## Overview
 

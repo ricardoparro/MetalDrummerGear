@@ -6,6 +6,9 @@
 **Drummer(s):** [Shannon Larkin](/llms/drummers/shannon-larkin.md)
 **Band / Album:** Godsmack — *1000hp* (2014)
 **Genre:** Hard Rock / Heavy Metal
+**Label:** Republic Records
+**Studio:** NRG Recording Services, North Hollywood, California
+**Producer:** Rob Cavallo
 
 ## Overview
 

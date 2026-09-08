@@ -6,6 +6,9 @@
 **Drummer(s):** [Nicko McBrain](/llms/drummers/nicko-mcbrain.md)
 **Band / Album:** Iron Maiden — *Fear of the Dark* (1992)
 **Genre:** Heavy Metal / NWOBHM
+**Label:** EMI / Epic
+**Studio:** Barnyard Studios, Essex, UK
+**Producer:** Martin Birch
 
 ## Overview
 

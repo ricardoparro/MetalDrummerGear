@@ -6,6 +6,9 @@
 **Drummer(s):** [Bill Ward](/llms/drummers/bill-ward.md)
 **Band / Album:** Black Sabbath — *Vol. 4* (1972)
 **Genre:** Heavy Metal / Hard Rock
+**Label:** Vertigo / Warner Bros.
+**Studio:** Record Plant, Los Angeles
+**Producer:** Black Sabbath
 
 ## Overview
 

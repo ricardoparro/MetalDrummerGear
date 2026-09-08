@@ -6,6 +6,9 @@
 **Drummer(s):** [Martin Lopez](/llms/drummers/martin-lopez.md)
 **Band / Album:** Opeth — *Blackwater Park* (2001)
 **Genre:** Progressive Death Metal
+**Label:** Music for Nations
+**Studio:** Fredman Studio, Gothenburg
+**Producer:** Steven Wilson
 
 ## Overview
 

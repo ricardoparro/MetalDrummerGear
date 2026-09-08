@@ -6,6 +6,9 @@
 **Drummer(s):** [Pete Sandoval](/llms/drummers/pete-sandoval.md)
 **Band / Album:** Morbid Angel — *Altars of Madness* (1989)
 **Genre:** Death Metal
+**Label:** Earache Records
+**Studio:** Morrisound Recording, Tampa, Florida
+**Producer:** Tom Morris
 
 ## Overview
 

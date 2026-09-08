@@ -6,6 +6,9 @@
 **Drummer(s):** [Nick Menza](/llms/drummers/nick-menza.md)
 **Band / Album:** Megadeth — *Cryptic Writings* (1997)
 **Genre:** Thrash Metal
+**Label:** Capitol Records
+**Studio:** The Tracking Room, Nashville, Tennessee (overdubs at The Castle, Franklin, Tennessee)
+**Producer:** Dann Huff, Dave Mustaine
 
 ## Overview
 

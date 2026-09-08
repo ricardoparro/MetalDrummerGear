@@ -6,6 +6,9 @@
 **Drummer(s):** [Mario Duplantier](/llms/drummers/mario-duplantier.md)
 **Band / Album:** Gojira — *L'Enfant Sauvage* (2012)
 **Genre:** Progressive Death Metal
+**Label:** Roadrunner Records
+**Studio:** Silvercord Studio, Brooklyn, New York
+**Producer:** Joe Duplantier
 
 ## Overview
 

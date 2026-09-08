@@ -6,6 +6,9 @@
 **Drummer(s):** [Nick Augusto](/llms/drummers/nick-augusto.md)
 **Band / Album:** Trivium — *In Waves* (2011)
 **Genre:** Thrash Metal / Metalcore
+**Label:** Roadrunner Records
+**Studio:** Audiohammer Studios, Sanford, Florida
+**Producer:** Jason Suecof & Mark Lewis
 
 ## Overview
 

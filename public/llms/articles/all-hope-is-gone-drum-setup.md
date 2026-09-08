@@ -6,6 +6,9 @@
 **Drummer(s):** [Joey Jordison](/llms/drummers/joey-jordison.md)
 **Band / Album:** Slipknot — *All Hope Is Gone* (2008)
 **Genre:** Alternative Metal
+**Label:** Roadrunner Records
+**Studio:** Sound Farm Studios, Iowa
+**Producer:** Dave Fortman
 
 ## Overview
 

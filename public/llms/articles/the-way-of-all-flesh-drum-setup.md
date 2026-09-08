@@ -6,6 +6,9 @@
 **Drummer(s):** [Mario Duplantier](/llms/drummers/mario-duplantier.md)
 **Band / Album:** Gojira — *The Way of All Flesh* (2008)
 **Genre:** Progressive Death Metal
+**Label:** Prosthetic Records
+**Studio:** Studio Château de Beaulieu, France / Duplantier Studios, Bayonne
+**Producer:** Joe Duplantier, Mario Duplantier
 
 ## Overview
 

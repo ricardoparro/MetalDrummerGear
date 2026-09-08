@@ -6,6 +6,9 @@
 **Drummer(s):** [Vinnie Paul](/llms/drummers/vinnie-paul.md)
 **Band / Album:** Pantera — *Far Beyond Driven* (1994)
 **Genre:** Groove Metal
+**Label:** EastWest Records / Elektra
+**Studio:** Pantego Sound Studio, Arlington, Texas
+**Producer:** Terry Date & Vinnie Paul
 
 ## Overview
 

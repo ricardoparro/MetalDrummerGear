@@ -6,6 +6,9 @@
 **Drummer(s):** [Inferno](/llms/drummers/inferno.md)
 **Band / Album:** Behemoth — *The Satanist* (2014)
 **Genre:** Blackened Death Metal
+**Label:** Metal Blade Records
+**Studio:** Hertz Studio, Białystok, Poland
+**Producer:** Behemoth / Wojtek & Sławek Wiesławski
 
 ## Overview
 

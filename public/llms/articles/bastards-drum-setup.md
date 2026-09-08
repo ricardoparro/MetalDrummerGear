@@ -6,6 +6,9 @@
 **Drummer(s):** [Mikkey Dee](/llms/drummers/mikkey-dee.md)
 **Band / Album:** Motörhead — *Bastards* (1993)
 **Genre:** Heavy Metal / Hard Rock
+**Label:** ZYX Music
+**Studio:** Los Angeles, California
+**Producer:** Howard Benson
 
 ## Overview
 

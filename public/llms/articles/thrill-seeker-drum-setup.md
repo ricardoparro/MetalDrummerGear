@@ -6,6 +6,9 @@
 **Drummer(s):** [Matt Greiner](/llms/drummers/matt-greiner.md)
 **Band / Album:** August Burns Red — *Thrill Seeker* (2005)
 **Genre:** Metalcore / Christian Hardcore
+**Label:** Solid State Records
+**Studio:** Dark Horse Studio, Franklin, Tennessee
+**Producer:** Adam Dutkiewicz
 
 ## Overview
 

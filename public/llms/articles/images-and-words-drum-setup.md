@@ -6,6 +6,9 @@
 **Drummer(s):** [Mike Portnoy](/llms/drummers/mike-portnoy.md)
 **Band / Album:** Dream Theater — *Images and Words* (1992)
 **Genre:** Progressive Metal
+**Label:** Atco Records
+**Studio:** BearTracks Studios, Suffern, New York
+**Producer:** David Prater
 
 ## Overview
 

@@ -6,6 +6,9 @@
 **Drummer(s):** [Nick Augusto](/llms/drummers/nick-augusto.md)
 **Band / Album:** Trivium — *Vengeance Falls* (2013)
 **Genre:** Metalcore / Groove Metal
+**Label:** Roadrunner Records
+**Studio:** DMD Productions, Austin, Texas
+**Producer:** David Draiman (Disturbed)
 
 ## Overview
 

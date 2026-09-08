@@ -6,6 +6,9 @@
 **Drummer(s):** [Scott Travis](/llms/drummers/scott-travis.md)
 **Band / Album:** Judas Priest — *Painkiller* (1990)
 **Genre:** Heavy Metal / Speed Metal
+**Label:** Columbia Records
+**Studio:** Wisseloord Studios, Hilversum, Netherlands & Miraval Studios, France
+**Producer:** Chris Tsangarides
 
 ## Overview
 

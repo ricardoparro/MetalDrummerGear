@@ -6,6 +6,9 @@
 **Drummer(s):** [Nicko McBrain](/llms/drummers/nicko-mcbrain.md)
 **Band / Album:** Iron Maiden — *The Book of Souls* (2015)
 **Genre:** Heavy Metal / Progressive Metal
+**Label:** Parlophone / BMG
+**Studio:** Guillaume Tell Studio, Paris, France
+**Producer:** Kevin Shirley
 
 ## Overview
 

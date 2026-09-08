@@ -6,6 +6,9 @@
 **Drummer(s):** [Paul Bostaph](/llms/drummers/paul-bostaph.md)
 **Band / Album:** Slayer — *Divine Intervention* (1994)
 **Genre:** Thrash Metal
+**Label:** American Recordings
+**Studio:** Ocean Way Recording, Los Angeles / Sound City, Van Nuys, CA
+**Producer:** Toby Wright
 
 ## Overview
 

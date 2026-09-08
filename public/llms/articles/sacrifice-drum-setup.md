@@ -6,6 +6,9 @@
 **Drummer(s):** [Mikkey Dee](/llms/drummers/mikkey-dee.md)
 **Band / Album:** Motörhead — *Sacrifice* (1995)
 **Genre:** Heavy Metal / Hard Rock
+**Label:** SPV/Steamhammer (CMC International in North America)
+**Studio:** Cherokee Studios, Hollywood, California
+**Producer:** Howard Benson and Ryan Dorn, with Motörhead
 
 ## Overview
 

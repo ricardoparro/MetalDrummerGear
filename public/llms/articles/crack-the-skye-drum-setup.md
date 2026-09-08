@@ -6,6 +6,9 @@
 **Drummer(s):** [Brann Dailor](/llms/drummers/brann-dailor.md)
 **Band / Album:** Mastodon — *Crack the Skye* (2009)
 **Genre:** Progressive Sludge Metal
+**Label:** Reprise Records
+**Studio:** Doppler Studios, Atlanta, Georgia
+**Producer:** Brendan O'Brien
 
 ## Overview
 

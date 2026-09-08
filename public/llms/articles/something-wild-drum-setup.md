@@ -6,6 +6,8 @@
 **Drummer(s):** [Jaska Raatikainen](/llms/drummers/jaska-raatikainen.md)
 **Band / Album:** Children of Bodom — *Something Wild* (1997)
 **Genre:** Melodic Death Metal
+**Label:** Spinefarm Records
+**Studio:** Helsinki, Finland
 
 ## Overview
 

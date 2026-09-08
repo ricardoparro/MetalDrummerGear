@@ -6,6 +6,9 @@
 **Drummer(s):** [Hellhammer](/llms/drummers/hellhammer.md)
 **Band / Album:** Mayhem — *Chimera* (2004)
 **Genre:** Black Metal
+**Label:** Season of Mist
+**Studio:** Fagerborg Studio (drums), Top Room Mobile Hostile Studio (guitars), Top Room Studio (vocals/bass), Masterhuset (mastering) — Norway
+**Producer:** Blasphemer (Rune Eriksen), engineered by Børge Finstad
 
 ## Overview
 

@@ -6,6 +6,9 @@
 **Drummer(s):** [Brann Dailor](/llms/drummers/brann-dailor.md)
 **Band / Album:** Mastodon — *Emperor of Sand* (2017)
 **Genre:** Progressive Sludge Metal
+**Label:** Reprise Records
+**Studio:** Doppler Studios, Atlanta, Georgia
+**Producer:** Brendan O'Brien
 
 ## Overview
 

@@ -6,6 +6,9 @@
 **Drummer(s):** [Ray Luzier](/llms/drummers/ray-luzier.md)
 **Band / Album:** Korn — *The Serenity of Suffering* (2016)
 **Genre:** Nu-Metal
+**Label:** Roadrunner Records
+**Studio:** Various (Los Angeles)
+**Producer:** Nick Raskulinecz
 
 ## Overview
 

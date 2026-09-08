@@ -6,6 +6,9 @@
 **Drummer(s):** [Jay Weinberg](/llms/drummers/jay-weinberg.md)
 **Band / Album:** Slipknot — *.5: The Gray Chapter* (2014)
 **Genre:** Nu-Metal / Alternative Metal
+**Label:** Roadrunner Records
+**Studio:** Shangri-La Studios, Malibu, California
+**Producer:** Greg Fidelman
 
 ## Overview
 

@@ -6,6 +6,9 @@
 **Drummer(s):** [Vinnie Paul](/llms/drummers/vinnie-paul.md)
 **Band / Album:** Pantera — *The Great Southern Trendkill* (1996)
 **Genre:** Groove Metal
+**Label:** EastWest Records America
+**Studio:** Chasin' Jason Studios, Dalworthington Gardens, Texas + Dallas Sound Lab
+**Producer:** Terry Date, Vinnie Paul, Dimebag Darrell
 
 ## Overview
 

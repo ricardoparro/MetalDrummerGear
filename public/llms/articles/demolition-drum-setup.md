@@ -6,6 +6,9 @@
 **Drummer(s):** [Scott Travis](/llms/drummers/scott-travis.md)
 **Band / Album:** Judas Priest — *Demolition* (2001)
 **Genre:** Heavy Metal / Industrial Metal
+**Label:** SPV/Steamhammer (Europe) / Atlantic Records (North America)
+**Studio:** Silvermere Sound & Riverside Studios, England
+**Producer:** Glenn Tipton, Sean Lynch
 
 ## Overview
 

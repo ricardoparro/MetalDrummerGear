@@ -6,6 +6,9 @@
 **Drummer(s):** [Chris Adler](/llms/drummers/chris-adler.md)
 **Band / Album:** Lamb of God — *New American Gospel* (2000)
 **Genre:** Groove Metal / New Wave of American Heavy Metal
+**Label:** Prosthetic Records
+**Studio:** Austin Enterprises, Clinton, Massachusetts
+**Producer:** Steve Austin
 
 ## Overview
 

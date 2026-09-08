@@ -6,6 +6,9 @@
 **Drummer(s):** [Charlie Benante](/llms/drummers/charlie-benante.md)
 **Band / Album:** Anthrax — *Volume 8: The Threat Is Real* (1998)
 **Genre:** Groove Metal / Nu Metal Influence
+**Label:** Ignition Records / Tommy Boy Records
+**Studio:** Krusty's Fun House, Yonkers, New York
+**Producer:** Anthrax and Paul Crook
 
 ## Overview
 

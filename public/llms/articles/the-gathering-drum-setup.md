@@ -6,6 +6,9 @@
 **Drummer(s):** [Dave Lombardo](/llms/drummers/dave-lombardo.md)
 **Band / Album:** Testament — *The Gathering* (1999)
 **Genre:** Thrash Metal / Technical Death Metal
+**Label:** Spitfire Records
+**Studio:** Morrisound Recording, Tampa, Florida
+**Producer:** James Murphy
 
 ## Overview
 

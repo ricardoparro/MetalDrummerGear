@@ -6,6 +6,9 @@
 **Drummer(s):** [Dave Lombardo](/llms/drummers/dave-lombardo.md)
 **Band / Album:** Slayer — *Show No Mercy* (1983)
 **Genre:** Thrash Metal
+**Label:** Metal Blade Records
+**Studio:** Track Recording Studio, Torrance, California
+**Producer:** Slayer
 
 ## Overview
 

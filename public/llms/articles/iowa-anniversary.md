@@ -6,6 +6,7 @@
 **Drummer(s):** [Joey Jordison](/llms/drummers/joey-jordison.md)
 **Band / Album:** Slipknot — *Iowa* (2001)
 **Genre:** Nu Metal / Death Metal
+**Label:** Roadrunner Records
 
 ## Overview
 

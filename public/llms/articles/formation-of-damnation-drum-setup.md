@@ -6,6 +6,9 @@
 **Drummer(s):** [Paul Bostaph](/llms/drummers/paul-bostaph.md)
 **Band / Album:** Testament — *The Formation of Damnation* (2008)
 **Genre:** Thrash Metal
+**Label:** Nuclear Blast
+**Studio:** Fantasy Studios, Berkeley, CA
+**Producer:** Eric Peterson and Chuck Billy
 
 ## Overview
 

@@ -6,6 +6,9 @@
 **Drummer(s):** [Gavin Harrison](/llms/drummers/gavin-harrison.md)
 **Band / Album:** Porcupine Tree — *The Incident* (2009)
 **Genre:** Progressive Rock / Progressive Metal
+**Label:** Roadrunner Records
+**Studio:** Air Lyndhurst Studios, London (additional sessions at No-Man's Land, Monkey Puzzle, Bourne Place and Red Room Recorders)
+**Producer:** Porcupine Tree (self-produced); mixed by Steven Wilson
 
 ## Overview
 

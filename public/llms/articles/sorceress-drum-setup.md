@@ -6,6 +6,9 @@
 **Drummer(s):** [Martin Axenrot](/llms/drummers/martin-axenrot.md)
 **Band / Album:** Opeth — *Sorceress* (2016)
 **Genre:** Progressive Rock / Progressive Metal
+**Label:** Nuclear Blast
+**Studio:** Fascination Street Studios, Örebro, Sweden
+**Producer:** Mikael Åkerfeldt
 
 ## Overview
 

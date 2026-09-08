@@ -593,7 +593,7 @@ export const articles = {
         "Self-produced by Necrophagist at studios in Germany",
         "Tama Starclassic Performer or comparable high-end shells with double 22\" kick configuration",
         "Meinl cymbal setup — early Pure Alloy and Byzance series elements developing Grossmann's signature voice",
-        "High-speed double pedals (Axis Longboard or Tama Speed Cobra-era) for sustained 16th-note double-bass",
+        "High-speed double pedals for sustained 16th-note double-bass",
         "\"Stabwound\" became one of the most studied drum performances in modern tech death"
       ]
     },
@@ -681,10 +681,8 @@ export const articles = {
       "items": [
         {
           "type": "Bass Drum Pedals",
-          "brand": "Axis (or Tama Iron Cobra)",
-          "model": "Axis Longboard or Tama Iron Cobra Power Glide Double Pedal",
-          "notes": "High-speed action and longboard footplate for sustained 16th-note double-bass at Epitaph tempos",
-          "description": "Hannes Grossmann's pedal choice on Epitaph — Axis Longboards or comparable high-speed Tama Iron Cobra-era double pedals — provided the mechanical foundation for the album's sustained double-kick work. Tracks like \"Stabwound,\" \"Ignominious & Pale,\" and \"Mutilate the Stillborn\" demand sustained 16th-note double-bass at tempos where pedal response curve determines whether the passages survive the mix as music or collapse.\n\nThe Axis Longboard's extended footplate was particularly well-suited to Grossmann's heel-toe and swivel foot technique. The longboard length distributes pedal work across the foot rather than concentrating it in the ankle, which is essential for the sustained passages on Epitaph. For double-bass technique context: [double-bass drumming at MetalForge](/technique/double-bass-drumming)."
+          "notes": "High-speed double pedal setup for sustained 16th-note double-bass at Epitaph tempos",
+          "description": "Hannes Grossmann's pedal setup on Epitaph — a high-speed double pedal configuration — provided the mechanical foundation for the album's sustained double-kick work. Tracks like \"Stabwound,\" \"Ignominious & Pale,\" and \"Mutilate the Stillborn\" demand sustained 16th-note double-bass at tempos where pedal response curve determines whether the passages survive the mix as music or collapse.\n\nAn extended footplate design was particularly well-suited to Grossmann's heel-toe and swivel foot technique. The longboard length distributes pedal work across the foot rather than concentrating it in the ankle, which is essential for the sustained passages on Epitaph. For double-bass technique context: [double-bass drumming at MetalForge](/technique/double-bass-drumming)."
         },
         {
           "type": "Sticks",
@@ -734,7 +732,7 @@ export const articles = {
           "Sustained double-bass passages running underneath neoclassical guitar",
           "Polyrhythmic fills moving between snare, toms, and bass drums at high velocity"
         ],
-        "gearNotes": "Axis Longboard pedals delivering the sustained double-bass that defines the track. The compact 4-tom spread keeps the dense fill vocabulary articulate at velocity."
+        "gearNotes": "A high-speed double pedal setup delivering the sustained double-bass that defines the track. The compact 4-tom spread keeps the dense fill vocabulary articulate at velocity."
       },
       {
         "track": "Ignominious & Pale",
@@ -789,7 +787,7 @@ export const articles = {
         },
         {
           "category": "Pedals (2004)",
-          "then": "Axis Longboards / Tama Iron Cobra",
+          "then": "High-speed double pedal setup",
           "now": "High-speed direct-drive pedals"
         },
         {
@@ -837,7 +835,7 @@ export const articles = {
     ],
     "conclusion": {
       "title": "Epitaph: The Foundation of Modern Technical Death Metal",
-      "content": "Necrophagist's \"Epitaph\" stands as one of the foundational documents of modern technical death metal, and Hannes Grossmann's drum performance is one of the central reasons. The album proved that the genre could combine extreme technical complexity with musical cohesion — every track is dense with vocabulary, but every track is also organized around clear musical structures and dynamic arcs that give the technical content emotional impact.\n\n**The Gear in Perspective:**\nGrossmann's setup on Epitaph — Tama Starclassic-era shells, Meinl cymbals in transition toward the mature Byzance configuration, Axis Longboard pedals, Vic Firth sticks — was professional but built around durability and articulation rather than exotic specifications. What made it produce the iconic Epitaph drum sound was the combination of Necrophagist's self-production discipline and Grossmann's playing. The lesson is consistent across great metal drumming: the gear is the foundation, but the performance is the music.\n\n**For Drummers Studying the Album:**\nStudy Epitaph as a masterclass in tech-death vocabulary deployment. Grossmann demonstrates how density and complexity can be organized into musical statements rather than reduced to technical display. Listen to how \"Stabwound\" enters — the dynamic restraint that precedes the album's most intense passages is what makes those passages land. That's drumming as composition.\n\n**The Hannes Grossmann Legacy:**\nFrom Necrophagist's Epitaph (2004) through Obscura's Cosmogenesis (2009) and onward through Omnivium, Akroasis, Diluvium, and the Alkaloid catalog, Hannes Grossmann has established himself as one of the defining drummers of modern progressive death metal. Epitaph is the album where that career began, and it remains required listening for every drummer working in extreme metal today.\n\n**For deeper exploration:**\n- **Full drummer profile**: [Hannes Grossmann at MetalForge](/drummer/hannes-grossmann)\n- **Hannes Grossmann's broader kit setup**: [Hannes Grossmann drum setup](/articles/hannes-grossmann-drum-setup)\n- **Tech-death evolution**: [Obscura's Cosmogenesis drum setup](/articles/cosmogenesis-drum-setup)\n- **Tech-death predecessor**: [Death's Individual Thought Patterns drum setup](/articles/individual-thought-patterns-drum-setup)"
+      "content": "Necrophagist's \"Epitaph\" stands as one of the foundational documents of modern technical death metal, and Hannes Grossmann's drum performance is one of the central reasons. The album proved that the genre could combine extreme technical complexity with musical cohesion — every track is dense with vocabulary, but every track is also organized around clear musical structures and dynamic arcs that give the technical content emotional impact.\n\n**The Gear in Perspective:**\nGrossmann's setup on Epitaph — Tama Starclassic-era shells, Meinl cymbals in transition toward the mature Byzance configuration, a high-speed double pedal, Vic Firth sticks — was professional but built around durability and articulation rather than exotic specifications. What made it produce the iconic Epitaph drum sound was the combination of Necrophagist's self-production discipline and Grossmann's playing. The lesson is consistent across great metal drumming: the gear is the foundation, but the performance is the music.\n\n**For Drummers Studying the Album:**\nStudy Epitaph as a masterclass in tech-death vocabulary deployment. Grossmann demonstrates how density and complexity can be organized into musical statements rather than reduced to technical display. Listen to how \"Stabwound\" enters — the dynamic restraint that precedes the album's most intense passages is what makes those passages land. That's drumming as composition.\n\n**The Hannes Grossmann Legacy:**\nFrom Necrophagist's Epitaph (2004) through Obscura's Cosmogenesis (2009) and onward through Omnivium, Akroasis, Diluvium, and the Alkaloid catalog, Hannes Grossmann has established himself as one of the defining drummers of modern progressive death metal. Epitaph is the album where that career began, and it remains required listening for every drummer working in extreme metal today.\n\n**For deeper exploration:**\n- **Full drummer profile**: [Hannes Grossmann at MetalForge](/drummer/hannes-grossmann)\n- **Hannes Grossmann's broader kit setup**: [Hannes Grossmann drum setup](/articles/hannes-grossmann-drum-setup)\n- **Tech-death evolution**: [Obscura's Cosmogenesis drum setup](/articles/cosmogenesis-drum-setup)\n- **Tech-death predecessor**: [Death's Individual Thought Patterns drum setup](/articles/individual-thought-patterns-drum-setup)"
     }
   }
 };

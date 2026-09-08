@@ -5,6 +5,40 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-09-08 03:08 UTC*
 
 ---
+## 2026-09-08 10:37 — Deep run: duplicate PR closed (#7177), 3 fresh proposals promoted (#7167-7169), L1/L2/L3 confirmed already closed out yesterday
+
+### Context (≤3 lines)
+First run after 07:00 UTC — today's deep run. Metrics 10:36 UTC (295 users/324 sessions/465 views 7d; GSC 9,633 impr/216 clicks/2.24% CTR/pos 8.2). Eligible `ai-fix` backlog 0 at run start (18 pre-existing all `hold`-labeled freeze-blocked roster/band splits), 1 open PR (#7177, CONFLICTING), 3 fresh untriaged `seo-proposal` (#7167-7169, filed 05:33-05:34 UTC).
+
+### Actions taken
+- **Closed duplicate PR #7177**: title/target both `#7158` (GuidesHubPage never rendering genre gear guides), but #7158 was already closed and its fix already merged via **#7176** at 09:52:27 UTC — same file (`SoundLikeGuides.js`), same problem, a parallel Roadie run raced it and lost. #7177 was the loser, hence `CONFLICTING`. Closed with a comment pointing to #7176 rather than resolving the conflict, since the underlying issue no longer exists.
+- **Promoted all 3 fresh proposals** (`ai-fix`), live-verified each directly before promoting: **#7167** (`genreGearGuides.js` — 7 of 15 power-metal guides still fabricate Aquiles Priester's gear as Trick Drums/Ufip; confirmed 137 live "Trick Drums"/"Ufip" hits in the file against verified Mapex/Paiste in `endorsementNews.js`; prior fix #6578 only cleared 2/15 guides, this clears the remaining 7 — same file, not a duplicate), **#7168** (`extendedBios.js:6270,6329-6336` + `pedals.js:332-341` — Flo Mounier's metaDescription/gearHighlights/pedal entry still say Pearl; confirmed live against `endorsementNews.js`'s verified Tama since 2012 — a fresh staleness gap created *after* #5709/#5315 correctly set these to Pearl under the then-current consensus, since overtaken by #6725/#7014 flipping the source-of-truth to Tama), **#7169** (`albumArticles/flo-mounier.js` — same Tama-vs-Pearl staleness, scoped to the undated "current gear" article (lines 1-243, confirmed live) and the "Now (2026)" half of the 1996 comparison block (confirmed live at ~line 476); correctly leaves the dated 1996/1998/2000 era sections alone since those are accurately Pearl-era). All verified-only, single/multi-field fixes on existing URLs, zero new pages — freeze-compliant. No duplicates (each explicitly cites and distinguishes from prior closed fixes).
+- **Backlog gate**: 0 → 3, well under 45/80; promoted liberally per rule.
+- **GSC content-gap** (metrics.md mechanical filter): `flo mounier` (107 impr, 0.93% CTR) and `joey jordison drum set` (87 impr, 1.15% CTR) — both re-confirmed held on existing `learned-patterns.md` precedent: flo-mounier is a documented class-2 bare-name bio-intent query (line 211, #6973's CTR fix already shown not to convert), joey-jordison-drum-set is a documented known oscillator in an already-fixed, already-cited cluster (line 99/187). No new CTR fix filed for either.
+- **L1/L2/L3**: snapshots still the 2026-09-07 generation (L1 14:05, L2 13:44, L3 15:11 UTC) — already fully closed out by yesterday's 17:16 UTC mid-day pulse (5 issues filed, #7115-7118/#7138). Confirmed no regression since; next weekly refresh due ~09-14.
+- **Founder ideas**: inbox empty, unchanged since 2026-06-19. **Human-founder blockers**: #5141/#5100/#4892/#875/#529/#526/#525 — all unchanged, no re-spam.
+- **Stale-issue / atomic-split sweep**: 18 pre-existing `ai-fix` issues re-confirmed, all `hold`-labeled freeze-blocked roster/band splits, none eligible. New promotions all single/multi-file, atomic.
+- **Starvation check**: post-triage backlog=3, bank=0 (excl. umbrellas) — numerically below the 15/2 trigger, but fresh same-cycle supply consistent with weeks of healthy SEO Agent cadence. Not escalating.
+
+### State delta
+- ai-fix backlog: 0 → 3 (#7167-7169)
+- seo-proposal bank (excl. umbrellas): 3 → 0
+- Open PRs: 1 (conflicting duplicate) → 0
+- Org/Sessions/Views (7d): 295/324/465 · GSC 9,633 impr/216 clicks/2.24% CTR/pos 8.2 (up vs recent pulses)
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 3/3 fresh triaged, live-verified, promoted, no duplicates, freeze-compliant. ✅ GSC-gap: both rows re-confirmed held on documented precedent. ✅ L1/L2/L3: still 09-07 generation, already fully closed out, no regression. ✅ Starvation: not triggered (fresh supply). ✅ Atomic split: 18 stale issues re-checked, all `hold`-labeled; new work all atomic. ✅ PR hygiene: 1 conflicting duplicate closed. ✅ Decisions logged.
+
+### Next Run
+1. Watch #7167-7169 ship via Roadie/PR Merger.
+2. Mid-day pulse due ~13:00 UTC: check Roadie progress.
+3. Watch for the next L1/L2/L3 weekly refresh (last 09-07, due ~09-14).
+4. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---
+
+---
+
 ## 2026-09-08 03:19 — Cheap pulse: 6 of 7 fresh proposals promoted, 1 closed for a stale premise then corrected and re-filed atomically (#7166), 1 resolved via external research before promoting (#7160)
 
 ### Context (≤3 lines)

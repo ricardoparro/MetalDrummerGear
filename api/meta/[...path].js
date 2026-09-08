@@ -6216,6 +6216,12 @@ export function getMetaForPath(pathname) {
             href: `/drummers/${slug}/endorsements`,
             label: `${drummer.name} Endorsements`,
           }] : []),
+          // Issue #7155: mirrors the /drummer/<slug>/<category> sibling block's
+          // #4699 fix — the main profile shell never linked to its own
+          // /evolution page, leaving it discoverable only post-hydration.
+          ...(DRUMMER_EVOLUTION[slug]
+            ? [{ href: `/drummers/${slug}/evolution`, label: `${drummer.name} Gear Evolution` }]
+            : []),
           ...(relatedArticles.length > 0 ? relatedArticles.map(a => ({
             href: `/articles/${a.slug}`,
             label: a.title,

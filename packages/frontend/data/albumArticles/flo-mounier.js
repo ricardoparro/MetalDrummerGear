@@ -17,12 +17,12 @@ export const articles = {
     "dateModified": "2026-03-21",
     "author": "MetalForge Editorial",
     "title": "What's In Flo Mounier's Extreme Arsenal: Complete Gear Breakdown",
-    "description": "Discover the exact drums, cymbals, and gear Flo Mounier uses to create Cryptopsy's legendary technical death metal. Complete breakdown of his Pearl setup, Sabian cymbals, and the gear behind 30 years of extreme drumming.",
+    "description": "Discover the exact drums, cymbals, and gear Flo Mounier uses to create Cryptopsy's legendary technical death metal. Complete breakdown of his Tama setup, Sabian cymbals, and the gear behind 30 years of extreme drumming.",
     "seoKeywords": [
       "flo mounier drum kit",
       "flo mounier setup",
       "cryptopsy drummer gear",
-      "flo mounier pearl drums",
+      "flo mounier tama drums",
       "flo mounier cymbals",
       "technical death metal drums"
     ],
@@ -39,9 +39,9 @@ export const articles = {
       ]
     },
     "drumKit": {
-      "title": "Flo's Precision Arsenal: Pearl Masters Maple Complete",
-      "brand": "Pearl",
-      "model": "Pearl Masters Maple Complete",
+      "title": "Flo's Precision Arsenal: Tama Starclassic Maple",
+      "brand": "Tama",
+      "model": "Tama Starclassic Maple",
       "config": {
         "bassdrums": [
           "22\" x 18\" Bass Drum"
@@ -56,7 +56,7 @@ export const articles = {
         ],
         "shells": "All-maple shells"
       },
-      "description": "Flo Mounier's Pearl Masters Maple Complete kit might seem surprisingly modest for someone who plays some of the fastest, most complex music in metal. But that's the point — Flo's approach prioritizes response and precision over power and size.\n\nThe single 22\" x 18\" bass drum is tuned for attack and articulation rather than massive low-end. At the tempos Flo plays (often 240-280 BPM), clarity is essential. A boomy bass drum would turn into mush; his tight tuning ensures every stroke is heard.\n\nThe compact rack tom configuration (10\" and 12\") provides quick response for his lightning-fast fills. The Masters Maple Complete's maple shells are sensitive enough for nuance yet strong enough for projection. Flo's fills move around the kit melodically, treating toms as pitched instruments rather than noise makers.\n\nThe floor toms at 14\" and 16\" anchor his sound when needed, but they're used sparingly. Flo's playing is primarily about hi-hat, snare, and bass drum precision — the toms are accent instruments.\n\nWhat's notable about Flo's setup is its relative simplicity. Unlike many extreme metal drummers who use massive kits, Flo proves that technical death metal is about the player, not the gear.",
+      "description": "Flo Mounier's Tama Starclassic Maple kit might seem surprisingly modest for someone who plays some of the fastest, most complex music in metal. But that's the point — Flo's approach prioritizes response and precision over power and size.\n\nThe single 22\" x 18\" bass drum is tuned for attack and articulation rather than massive low-end. At the tempos Flo plays (often 240-280 BPM), clarity is essential. A boomy bass drum would turn into mush; his tight tuning ensures every stroke is heard.\n\nThe compact rack tom configuration (10\" and 12\") provides quick response for his lightning-fast fills. The Starclassic Maple's maple shells are sensitive enough for nuance yet strong enough for projection. Flo's fills move around the kit melodically, treating toms as pitched instruments rather than noise makers.\n\nThe floor toms at 14\" and 16\" anchor his sound when needed, but they're used sparingly. Flo's playing is primarily about hi-hat, snare, and bass drum precision — the toms are accent instruments.\n\nWhat's notable about Flo's setup is its relative simplicity. Unlike many extreme metal drummers who use massive kits, Flo proves that technical death metal is about the player, not the gear.",
       "notes": [
         "Single bass drum — no double bass drums needed at his speed",
         "Compact configuration for quick response",
@@ -64,18 +64,18 @@ export const articles = {
         "Tight tuning emphasizes attack over resonance",
         "Proves technical death metal doesn't require massive kits"
       ],
-      "estimatedValue": "$3,500-5,000 (Masters Maple Complete configuration)"
+      "estimatedValue": "$3,500-5,000 (Starclassic Maple configuration)"
     },
     "snare": {
-      "title": "The Heart of the Blast: Pearl Masters Maple",
-      "brand": "Pearl",
-      "model": "Pearl Masters Maple",
+      "title": "The Heart of the Blast: Tama Starclassic Maple",
+      "brand": "Tama",
+      "model": "Tama Starclassic Maple Snare",
       "size": "14\" x 5.5\"",
       "shell": "Maple",
-      "description": "The snare drum is the most crucial element in Flo's setup. For sustained blast beats at extreme tempos, every stroke must be perfectly articulated. The Pearl Masters Maple delivers exactly that — a sharp, penetrating crack with instant response.\n\nThe 14\" x 5.5\" dimensions are standard, giving Flo a familiar platform he's relied on across his career. The maple shell provides the projection and articulation needed to cut through Cryptopsy's dense guitar tones without the notes blurring together at extreme speeds.\n\nFlo tunes the snare high with extremely tight snare wires. This maximizes attack and sensitivity while minimizing ring. The result is a snare that produces a consistent, cutting sound whether he's playing at 120 BPM or 280 BPM.\n\nFor blast beats, the snare is struck alternating hands (traditional blast) or with the same hand (one-handed blast). Either way, the Masters Maple responds identically to every stroke, giving Flo the consistency his music demands.\n\nEven in the most chaotic sections, the snare is always audible — the sharp, penetrating crack that has defined Flo's sound for years.",
+      "description": "The snare drum is the most crucial element in Flo's setup. For sustained blast beats at extreme tempos, every stroke must be perfectly articulated. The Tama Starclassic Maple snare delivers exactly that — a sharp, penetrating crack with instant response.\n\nThe 14\" x 5.5\" dimensions are standard, giving Flo a familiar platform he's relied on across his career. The maple shell provides the projection and articulation needed to cut through Cryptopsy's dense guitar tones without the notes blurring together at extreme speeds.\n\nFlo tunes the snare high with extremely tight snare wires. This maximizes attack and sensitivity while minimizing ring. The result is a snare that produces a consistent, cutting sound whether he's playing at 120 BPM or 280 BPM.\n\nFor blast beats, the snare is struck alternating hands (traditional blast) or with the same hand (one-handed blast). Either way, the Starclassic Maple responds identically to every stroke, giving Flo the consistency his music demands.\n\nEven in the most chaotic sections, the snare is always audible — the sharp, penetrating crack that has defined Flo's sound for years.",
       "tuningSetting": "High tension, very tight snare wires for maximum articulation",
       "heads": "Evans EC Reverse Dot (batter), Evans Hazy 300 (resonant)",
-      "estimatedValue": "$300-400 (Masters Maple series)"
+      "estimatedValue": "$300-400 (Starclassic Maple series)"
     },
     "cymbals": {
       "title": "Sabian Precision: AAX and HHX",
@@ -127,21 +127,21 @@ export const articles = {
       "items": [
         {
           "type": "Bass Drum Pedal",
-          "brand": "Pearl",
-          "model": "Pearl Demon Drive",
+          "brand": "Tama",
+          "model": "Tama Speed Cobra 910 Twin Pedal",
           "notes": "Direct-drive double pedal engineered for fast rebound",
-          "description": "The Demon Drive's direct-drive mechanism and fast rebound provide the effortless response Flo needs for sustained double bass at 250+ BPM. The design allows minimal effort at maximum speeds, supporting his legendary gravity blast technique."
+          "description": "The Speed Cobra 910's direct-drive mechanism and fast rebound provide the effortless response Flo needs for sustained double bass at 250+ BPM. The design allows minimal effort at maximum speeds, supporting his legendary gravity blast technique."
         },
         {
           "type": "Hi-Hat Stand",
-          "brand": "Pearl",
-          "model": "Pearl Hi-Hat Stand",
+          "brand": "Tama",
+          "model": "Tama Hi-Hat Stand",
           "notes": "Smooth action for complex footwork"
         },
         {
           "type": "Throne",
-          "brand": "Pearl",
-          "model": "Pearl Throne",
+          "brand": "Tama",
+          "model": "Tama Throne",
           "notes": "Ergonomic support for long performances"
         },
         {
@@ -170,17 +170,17 @@ export const articles = {
     },
     "evolution": {
       "title": "Three Decades of Extreme Evolution",
-      "content": "Flo Mounier's gear has evolved over three decades, but his approach has remained consistent: precision, response, and musicality over power and size.\n\n**Early Days (1992-1996):**\nIn Cryptopsy's early years, Flo played Pearl drums, establishing the long-term partnership that continues today. His cymbal choices were simpler, focused on durability for the band's aggressive style.\n\n**Classic Era (1996-2005):**\nThe \"None So Vile\" through \"Once Was Not\" period established Flo's reputation. He refined his setup for maximum response, moving to smaller cymbals and tighter tuning.\n\n**Modern Setup (2012-Present):**\nToday's configuration represents decades of refinement. The Pearl Masters Maple Complete kit and Sabian cymbal combination provides everything Flo needs without excess.\n\n**Educational Career:**\nBeyond Cryptopsy, Flo has become an important drum educator. His clinics worldwide share the techniques he's developed over 30 years, and his instructional content has helped countless drummers improve their extreme metal skills.\n\n**2023 Comeback:**\nCryptopsy's \"As Gomorrah Burns\" (2023) proved Flo is still at the top of his game. The album showcases drumming as intense and creative as anything he recorded in the 90s.",
+      "content": "Flo Mounier's gear has evolved over three decades, but his approach has remained consistent: precision, response, and musicality over power and size.\n\n**Early Days (1992-1996):**\nIn Cryptopsy's early years, Flo played Pearl drums, an endorsement that carried through \"None So Vile.\" His cymbal choices were simpler, focused on durability for the band's aggressive style.\n\n**Classic Era (1996-2005):**\nThe \"None So Vile\" through \"Once Was Not\" period established Flo's reputation. He refined his setup for maximum response, moving to smaller cymbals and tighter tuning, before switching to a Yamaha Recording Custom kit for \"Once Was Not\" in 2005.\n\n**Modern Setup (2012-Present):**\nFlo moved to Tama in 2012, and today's configuration represents decades of refinement. The Tama Starclassic Maple kit and Sabian cymbal combination provides everything Flo needs without excess.\n\n**Educational Career:**\nBeyond Cryptopsy, Flo has become an important drum educator. His clinics worldwide share the techniques he's developed over 30 years, and his instructional content has helped countless drummers improve their extreme metal skills.\n\n**2023 Comeback:**\nCryptopsy's \"As Gomorrah Burns\" (2023) proved Flo is still at the top of his game. The album showcases drumming as intense and creative as anything he recorded in the 90s.",
       "thenVsNow": [
         {
           "category": "Kit",
           "then": "Pearl MX (1990s)",
-          "now": "Pearl Masters Maple Complete"
+          "now": "Tama Starclassic Maple"
         },
         {
           "category": "Snare",
           "then": "Pearl Steel 14x5.5\"",
-          "now": "Pearl Masters 14x5.5\" Maple"
+          "now": "Tama Starclassic Maple Snare"
         },
         {
           "category": "Cymbals",
@@ -195,7 +195,7 @@ export const articles = {
         {
           "category": "Pedals",
           "then": "Pearl P-2002C",
-          "now": "Pearl Demon Drive"
+          "now": "Tama Speed Cobra 910 Twin Pedal"
         }
       ]
     },
@@ -218,7 +218,7 @@ export const articles = {
     "faq": [
       {
         "question": "What drum kit does Flo Mounier use?",
-        "answer": "Flo Mounier of Cryptopsy plays a Pearl Masters Maple Complete kit built around a single 22x18 inch bass drum, 10 and 12 inch rack toms, and 14 and 16 inch floor toms. The all-maple shells are optimized for the extreme tempo and articulation demands of technical death metal. He pairs this with a Pearl Masters 14x5.5 inch maple snare, which delivers a sharp, cutting crack suited to his explosive playing style."
+        "answer": "Flo Mounier of Cryptopsy plays a Tama Starclassic Maple kit built around a single 22x18 inch bass drum, 10 and 12 inch rack toms, and 14 and 16 inch floor toms. The all-maple shells are optimized for the extreme tempo and articulation demands of technical death metal. He pairs this with a Tama Starclassic Maple 14x5.5 inch snare, which delivers a sharp, cutting crack suited to his explosive playing style."
       },
       {
         "question": "What cymbals does Flo Mounier use?",
@@ -226,12 +226,12 @@ export const articles = {
       },
       {
         "question": "How much does Flo Mounier's drum kit cost?",
-        "answer": "Flo Mounier's Pearl Masters Maple Complete kit is estimated at $3,500 to $5,000 for the shell pack, with his Pearl Masters Maple snare adding $300 to $400. The Sabian AAX and HHX cymbal setup typically runs $1,500 to $2,500 for a full configuration. A complete replica of his rig would cost approximately $5,300 to $7,900, placing it in the professional mid-tier range for serious extreme metal drummers."
+        "answer": "Flo Mounier's Tama Starclassic Maple kit is estimated at $3,500 to $5,000 for the shell pack, with his Tama Starclassic Maple snare adding $300 to $400. The Sabian AAX and HHX cymbal setup typically runs $1,500 to $2,500 for a full configuration. A complete replica of his rig would cost approximately $5,300 to $7,900, placing it in the professional mid-tier range for serious extreme metal drummers."
       }
     ],
     "conclusion": {
       "title": "The Standard for Technical Extremity",
-      "content": "For over three decades, Flo Mounier has defined what's possible in extreme metal drumming. His combination of jazz musicality, physical precision, and brutal intensity created the template for technical death metal that countless drummers have attempted to replicate.\n\nWhat makes Flo special isn't just speed — plenty of drummers can play fast. It's how he uses speed musically. His patterns swing. His dynamics shift. His fills tell stories. Even at 280 BPM, there's sophistication and intentionality behind every stroke.\n\nThe gear Flo uses is professional but not excessive. A compact Pearl Masters Maple Complete kit, a focused Sabian cymbal setup, and a Pearl Demon Drive pedal — equipment available to any serious drummer. The magic comes from the player, not the instruments.\n\nFor drummers studying Flo Mounier's playing, the lessons go beyond blast beats:\n\n- **Jazz matters**: Study jazz drummers for vocabulary and dynamics\n- **Precision over power**: Speed comes from technique, not force\n- **Simplicity works**: You don't need a massive kit for complex music\n- **Practice fundamentals**: Start slow, build accuracy before speed\n- **Relax**: Tension is the enemy of speed\n\nCryptopsy's music remains some of the most demanding ever recorded, and Flo has been delivering it live for three decades. His 2023 performances prove he's still at the peak of his abilities.\n\n\"None So Vile\" changed what drummers thought was possible. Songs like \"Phobophile\" are still studied as benchmarks of extreme drumming. And Flo Mounier, the architect of it all, continues to inspire and educate drummers worldwide.\n\n🤘 *Thirty years of technical death metal mastery. The Cryptopsy legend continues.* 🤘"
+      "content": "For over three decades, Flo Mounier has defined what's possible in extreme metal drumming. His combination of jazz musicality, physical precision, and brutal intensity created the template for technical death metal that countless drummers have attempted to replicate.\n\nWhat makes Flo special isn't just speed — plenty of drummers can play fast. It's how he uses speed musically. His patterns swing. His dynamics shift. His fills tell stories. Even at 280 BPM, there's sophistication and intentionality behind every stroke.\n\nThe gear Flo uses is professional but not excessive. A compact Tama Starclassic Maple kit, a focused Sabian cymbal setup, and a Tama Speed Cobra 910 Twin Pedal — equipment available to any serious drummer. The magic comes from the player, not the instruments.\n\nFor drummers studying Flo Mounier's playing, the lessons go beyond blast beats:\n\n- **Jazz matters**: Study jazz drummers for vocabulary and dynamics\n- **Precision over power**: Speed comes from technique, not force\n- **Simplicity works**: You don't need a massive kit for complex music\n- **Practice fundamentals**: Start slow, build accuracy before speed\n- **Relax**: Tension is the enemy of speed\n\nCryptopsy's music remains some of the most demanding ever recorded, and Flo has been delivering it live for three decades. His 2023 performances prove he's still at the peak of his abilities.\n\n\"None So Vile\" changed what drummers thought was possible. Songs like \"Phobophile\" are still studied as benchmarks of extreme drumming. And Flo Mounier, the architect of it all, continues to inspire and educate drummers worldwide.\n\n🤘 *Thirty years of technical death metal mastery. The Cryptopsy legend continues.* 🤘"
     }
   },
   "none-so-vile-drum-setup": {
@@ -473,17 +473,17 @@ export const articles = {
     },
     "evolution": {
       "title": "1996 vs. Today: Three Decades of Refinement",
-      "content": "Flo Mounier recorded \"None So Vile\" nearly three decades ago. His gear has evolved significantly, though his approach remains rooted in the same principles.\n\n**Then (1996):**\n- Pearl MX Series drums\n- Pearl Steel snare\n- Sabian AA cymbals\n- Pearl Eliminator pedals\n- Vic Firth 5A sticks\n\n**Now (2026):**\n- Pearl Masters Maple Complete drums\n- Pearl Masters 14x5.5\" Maple snare\n- Sabian AAX/HHX cymbals\n- Pearl Demon Drive pedal\n- Vic Firth 5A American Classic sticks\n\n**What Changed:**\nFlo's modern setup emphasizes even more precision and response within the same Pearl partnership. The Masters Maple Complete's refined tone suits his evolved playing, and the Demon Drive pedal offers faster, lighter action than the original Eliminator.\n\n**What Didn't Change:**\nThe fundamental approach — compact kit, tight tuning, speed over power — remains identical, as does the Pearl partnership itself. Flo proved on \"None So Vile\" that technical death metal doesn't require massive kits. That philosophy persists today.\n\n**2023's \"As Gomorrah Burns\":**\nNearly 30 years after \"None So Vile,\" Cryptopsy's latest album proves Flo is still at the top. The drumming is as intense and creative as anything he recorded in 1996 — perhaps even more sophisticated.",
+      "content": "Flo Mounier recorded \"None So Vile\" nearly three decades ago. His gear has evolved significantly, though his approach remains rooted in the same principles.\n\n**Then (1996):**\n- Pearl MX Series drums\n- Pearl Steel snare\n- Sabian AA cymbals\n- Pearl Eliminator pedals\n- Vic Firth 5A sticks\n\n**Now (2026):**\n- Tama Starclassic Maple drums\n- Tama Starclassic Maple snare\n- Sabian AAX/HHX cymbals\n- Tama Speed Cobra 910 Twin Pedal\n- Vic Firth 5A American Classic sticks\n\n**What Changed:**\nFlo's modern setup emphasizes even more precision and response since his 2012 move to Tama, following an earlier switch to Yamaha in 2005. The Starclassic Maple's refined tone suits his evolved playing, and the Speed Cobra 910 offers faster, lighter action than the original Eliminator.\n\n**What Didn't Change:**\nThe fundamental approach — compact kit, tight tuning, speed over power — remains identical, even as the brand partnership has changed. Flo proved on \"None So Vile\" that technical death metal doesn't require massive kits. That philosophy persists today.\n\n**2023's \"As Gomorrah Burns\":**\nNearly 30 years after \"None So Vile,\" Cryptopsy's latest album proves Flo is still at the top. The drumming is as intense and creative as anything he recorded in 1996 — perhaps even more sophisticated.",
       "thenVsNow": [
         {
           "category": "Kit",
           "then": "Pearl MX Series",
-          "now": "Pearl Masters Maple Complete"
+          "now": "Tama Starclassic Maple"
         },
         {
           "category": "Snare",
           "then": "Pearl Steel 14x5.5\"",
-          "now": "Pearl Masters 14x5.5\" Maple"
+          "now": "Tama Starclassic Maple Snare"
         },
         {
           "category": "Cymbals",
@@ -493,7 +493,7 @@ export const articles = {
         {
           "category": "Pedals",
           "then": "Pearl P-2002C Eliminator",
-          "now": "Pearl Demon Drive"
+          "now": "Tama Speed Cobra 910 Twin Pedal"
         },
         {
           "category": "Recording",

@@ -14511,6 +14511,173 @@ function BandDetailPage({ bandSlug, drummers, onBack, onSelectDrummer, theme }) 
   );
 }
 
+// Bands List Page - Browse all bands (Issue #7156)
+function BandsListPage({ onBack, onSelectBand, theme }) {
+  const { width } = useWindowDimensions();
+  const isMobile = width < 768;
+  const allBands = useMemo(
+    () => getAllBands().slice().sort((a, b) => a.name.localeCompare(b.name)),
+    []
+  );
+
+  const formatGenre = (genre) => genre.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase());
+
+  // Update SEO meta tags + CollectionPage/ItemList structured data (Issue #7156),
+  // mirroring the /bands bot shell in api/meta/[...path].js so the client-rendered
+  // hub and the SSR shell agree.
+  useEffect(() => {
+    if (Platform.OS === 'web' && typeof document !== 'undefined') {
+      const title = 'Metal Bands & Their Drummers | MetalForge';
+      const description = 'Browse metal bands and the drummers behind them — lineups, drum gear, and discographies.';
+      document.title = title;
+
+      const setMeta = (name, content, isProperty = false) => {
+        const attr = isProperty ? 'property' : 'name';
+        let meta = document.querySelector(`meta[${attr}="${name}"]`);
+        if (!meta) {
+          meta = document.createElement('meta');
+          meta.setAttribute(attr, name);
+          document.head.appendChild(meta);
+        }
+        meta.setAttribute('content', content);
+      };
+
+      setMeta('description', description);
+      setMeta('og:title', title, true);
+      setMeta('og:description', description, true);
+      setMeta('og:type', 'website', true);
+      setMeta('og:url', 'https://metalforge.io/bands', true);
+      setMeta('og:site_name', 'MetalForge', true);
+      setMeta('twitter:card', 'summary_large_image');
+      setMeta('twitter:title', title);
+      setMeta('twitter:description', description);
+
+      let canonicalLink = document.querySelector('link[rel="canonical"]');
+      if (!canonicalLink) {
+        canonicalLink = document.createElement('link');
+        canonicalLink.setAttribute('rel', 'canonical');
+        document.head.appendChild(canonicalLink);
+      }
+      canonicalLink.setAttribute('href', 'https://metalforge.io/bands');
+
+      const bandsSchema = {
+        "@context": "https://schema.org",
+        "@type": "CollectionPage",
+        "name": "Metal Bands & Their Drummers",
+        "description": description,
+        "url": "https://metalforge.io/bands",
+        "publisher": { "@type": "Organization", "name": "MetalForge", "url": "https://metalforge.io" },
+        "hasPart": allBands.map((band) => ({
+          "@type": "MusicGroup",
+          "name": band.name,
+          "url": `https://metalforge.io/bands/${band.slug}`,
+        })),
+      };
+
+      let ldScript = document.querySelector('script[data-schema="bands-list"]');
+      if (!ldScript) {
+        ldScript = document.createElement('script');
+        ldScript.type = 'application/ld+json';
+        ldScript.setAttribute('data-schema', 'bands-list');
+        document.head.appendChild(ldScript);
+      }
+      ldScript.textContent = JSON.stringify(bandsSchema);
+
+      const breadcrumbSchema = {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://metalforge.io" },
+          { "@type": "ListItem", "position": 2, "name": "Bands", "item": "https://metalforge.io/bands" },
+        ],
+      };
+      let breadcrumbScript = document.querySelector('script[data-schema="bands-list-breadcrumb"]');
+      if (!breadcrumbScript) {
+        breadcrumbScript = document.createElement('script');
+        breadcrumbScript.setAttribute('data-schema', 'bands-list-breadcrumb');
+        breadcrumbScript.type = 'application/ld+json';
+        document.head.appendChild(breadcrumbScript);
+      }
+      breadcrumbScript.textContent = JSON.stringify(breadcrumbSchema);
+    }
+
+    return () => {
+      if (Platform.OS === 'web' && typeof document !== 'undefined') {
+        const ldScript = document.querySelector('script[data-schema="bands-list"]');
+        if (ldScript) ldScript.remove();
+        const breadcrumbScript = document.querySelector('script[data-schema="bands-list-breadcrumb"]');
+        if (breadcrumbScript) breadcrumbScript.remove();
+      }
+    };
+  }, [allBands]);
+
+  const renderBandCard = (band) => (
+    <TouchableOpacity
+      key={band.slug}
+      style={[styles.genreCard, {
+        backgroundColor: theme.card,
+        borderColor: theme.border,
+        borderWidth: 2,
+        borderRadius: 12,
+        padding: 16,
+        width: isMobile ? '100%' : 'calc(50% - 8px)',
+        maxWidth: 400,
+      }]}
+      onPress={() => onSelectBand(band.slug)}
+      accessibilityRole="link"
+      accessibilityLabel={`View ${band.name}`}
+    >
+      <Text style={[styles.genreCardTitle, { color: theme.text }]}>
+        {band.name}
+      </Text>
+      <Text style={[styles.textSm, { color: theme.secondaryText, marginTop: 4 }]}>
+        Est. {band.formed} • {band.origin}
+      </Text>
+      <View style={[styles.flexRowWrap, styles.gap2, { marginTop: 8 }]}>
+        {band.genres.map((genre) => (
+          <View key={genre} style={[styles.bandGenreTag, { backgroundColor: theme.border }]}>
+            <Text style={[styles.bandGenreText, { color: theme.text }]}>{formatGenre(genre)}</Text>
+          </View>
+        ))}
+      </View>
+      <Text style={{ color: theme.accent, fontWeight: '600', marginTop: 8 }}>
+        View band →
+      </Text>
+    </TouchableOpacity>
+  );
+
+  return (
+    <ScrollView style={[styles.detailContainer, { backgroundColor: theme.background }]}>
+      <View style={styles.detailContent}>
+        <TouchableOpacity
+          onPress={onBack}
+          style={[styles.backButton, { backgroundColor: theme.card, borderColor: theme.border }]}
+          accessibilityRole="button"
+          accessibilityLabel="Go back"
+        >
+          <Text style={[styles.backButtonText, { color: theme.text }]}>← Back</Text>
+        </TouchableOpacity>
+
+        <Text style={[styles.bandPageTitle, { color: theme.text }]} accessibilityRole="header">
+          Metal Bands & Their Drummers
+        </Text>
+        <Text style={[styles.bandPageSubtitle, { color: theme.secondaryText, marginBottom: 24 }]}>
+          Browse {allBands.length} metal bands and the drummers behind them — lineups, drum gear, and discographies.
+        </Text>
+
+        <View style={{
+          flexDirection: 'row',
+          flexWrap: 'wrap',
+          gap: 16,
+          justifyContent: isMobile ? 'center' : 'flex-start',
+        }}>
+          {allBands.map(renderBandCard)}
+        </View>
+      </View>
+    </ScrollView>
+  );
+}
+
 // ==========================================
 // GEAR CATEGORY PAGES (Issue #339)
 // ==========================================
@@ -25423,6 +25590,7 @@ function AppContent() {
   // Band Detail Page state (Issue #349)
   const [showBandDetail, setShowBandDetail] = useState(() => isBandDetailPage());
   const [bandSlug, setBandSlug] = useState(() => getBandSlugFromURL());
+  const [showBandsList, setShowBandsList] = useState(() => isBandsListPage());
 
   // Genre Landing Page state (Issue #340)
   const [showGenrePage, setShowGenrePage] = useState(() => isGenreLandingPage());
@@ -26063,6 +26231,21 @@ function AppContent() {
         const slug = getBandSlugFromURL();
         setShowBandDetail(true);
         setBandSlug(slug);
+        setShowBandsList(false);
+        setShowQuotes(false);
+        setShowPrivacy(false);
+        setShowQuiz(false);
+        setShowCompare(false);
+        setShowBioPage(false);
+        setBioSlug(null);
+        setSelectedDrummer(null);
+        setSelectedDrummerId(null);
+        setSelectedGear(null);
+      } else if (isBandsListPage()) {
+        // Bands list page (Issue #7156)
+        setShowBandsList(true);
+        setShowBandDetail(false);
+        setBandSlug(null);
         setShowQuotes(false);
         setShowPrivacy(false);
         setShowQuiz(false);
@@ -28923,6 +29106,7 @@ setShowList(false);
   const handleNavigateToBand = (slug) => {
     setShowBandDetail(true);
     setBandSlug(slug);
+    setShowBandsList(false);
     // Reset other views
     setShowGearFinder(false);
     setShowGearByBudget(false);
@@ -28944,10 +29128,46 @@ setShowList(false);
     }
   };
 
-  // Handle back from band detail page
+  // Handle back from band detail page (Issue #7156: back to the bands hub,
+  // mirroring handleBackFromBrand, instead of stranding on home)
   const handleBackFromBand = () => {
     setShowBandDetail(false);
     setBandSlug(null);
+    setShowBandsList(true);
+    if (Platform.OS === 'web' && typeof window !== 'undefined') {
+      window.history.pushState({}, '', '/bands');
+    }
+  };
+
+  // Navigate to bands list page (Issue #7156)
+  const handleNavigateToBandsList = () => {
+    setShowBandsList(true);
+    setShowBandDetail(false);
+    setBandSlug(null);
+    // Reset other views
+    setShowGearFinder(false);
+    setShowGearByBudget(false);
+    setShowList(false);
+    setListSlug(null);
+    setShowSpotlights(false);
+    setShowQuiz(false);
+    setShowCompare(false);
+    setShowPrivacy(false);
+    setShowQuotes(false);
+    setShowBioPage(false);
+    setBioSlug(null);
+    setSelectedDrummer(null);
+    setSelectedDrummerId(null);
+    setSelectedGear(null);
+    // Update URL
+    if (Platform.OS === 'web' && typeof window !== 'undefined') {
+      window.history.pushState({}, '', '/bands');
+    }
+  };
+
+  // Handle back from bands list page (Issue #7156)
+  const handleBackFromBandsList = () => {
+    setShowBandsList(false);
     // Navigate back to home
     if (Platform.OS === 'web' && typeof window !== 'undefined') {
       window.history.pushState({}, '', '/');
@@ -31680,6 +31900,16 @@ setShowList(false);
           drummers={drummers}
           onBack={handleBackFromBand}
           onSelectDrummer={handleSelectDrummer}
+          theme={theme}
+        />
+      );
+    }
+    // Bands List Page (Issue #7156)
+    if (showBandsList) {
+      return (
+        <BandsListPage
+          onBack={handleBackFromBandsList}
+          onSelectBand={handleNavigateToBand}
           theme={theme}
         />
       );

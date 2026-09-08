@@ -6267,7 +6267,7 @@ Hellhammer joined Mayhem in 1988, becoming their most enduring member and the rh
       { slug: 'cryptopsy', period: '1992-present', role: 'Drummer, founding member' }
     ],
     metaTitle: 'Flo Mounier Drum Kit & Gear Setup — Cryptopsy Drummer | MetalForge',
-    metaDescription: "What drum kit does Flo Mounier play? Cryptopsy's drummer runs a Pearl Masters Maple Complete kit with Sabian AAX/HHX cymbals — full gear breakdown.",
+    metaDescription: "What drum kit does Flo Mounier play? Cryptopsy's drummer runs a Tama Starclassic Maple kit with Sabian AAX/HHX cymbals — full gear breakdown.",
     ogImage: '/images/drummers/flo-mounier.webp',
     sections: {
       overview: {
@@ -6329,13 +6329,13 @@ His lightning-fast blast beats, complex polyrhythmic patterns, and jazz-influenc
       },
       gearHighlights: {
         title: 'Gear Highlights',
-        content: `Flo Mounier has been a long-time Pearl Drums endorser, using their Masters Maple Complete kit for Cryptopsy's demanding live and studio work. His setup is designed for speed, precision, and durability.
+        content: `Flo Mounier has been a Tama endorser since 2012, using their Starclassic Maple kit for Cryptopsy's demanding live and studio work. His setup is designed for speed, precision, and durability.
 
 **Current Setup:**
-- **Drums**: Pearl Masters Maple Complete
-- **Snare**: Pearl Masters 14"x5.5" Maple
+- **Drums**: Tama Starclassic Maple
+- **Snare**: Tama Starclassic Maple 14"x5.5"
 - **Cymbals**: Sabian AAX and HHX Series (14" HHX Stage Hi-Hats, 17"/18" AAX X-Plosion Crashes, 21" HHX Raw Bell Dry Ride, 18" AAXtreme China)
-- **Hardware**: Pearl Demon Drive double pedal
+- **Hardware**: Tama Speed Cobra 910 Twin Pedal
 - **Sticks**: Vic Firth American Classic 5A
 - **Heads**: Evans
 
@@ -6362,21 +6362,21 @@ His lightning-fast blast beats, complex polyrhythmic patterns, and jazz-influenc
       faq: {
         title: 'Frequently Asked Questions',
         items: [
-          { q: 'What drum kit does Flo Mounier use?', a: 'Flo Mounier\'s drum kit is a Pearl Masters Maple Complete kit, the maple-shell configuration he has maintained through Cryptopsy\'s most demanding technical death metal recordings. It centers on a Pearl Masters 14"x5.5" maple snare and is topped with Sabian AAX and HHX Series cymbals, driven by a Pearl Demon Drive double pedal.' },
-          { q: 'What drum set does Flo Mounier use?', a: 'Flo Mounier\'s drum set is a Pearl Masters Maple Complete configuration built around a sharp, penetrating Pearl Masters 14"x5.5" maple snare. The drum set carries Sabian AAX and HHX Series cymbals, a Pearl Demon Drive double pedal engineered for fast rebound, and Vic Firth American Classic 5A sticks.' },
+          { q: 'What drum kit does Flo Mounier use?', a: 'Flo Mounier\'s drum kit is a Tama Starclassic Maple kit, the configuration he has run since switching to Tama in 2012 through Cryptopsy\'s most demanding technical death metal recordings. It centers on a Tama Starclassic Maple 14"x5.5" snare and is topped with Sabian AAX and HHX Series cymbals, driven by a Tama Speed Cobra 910 Twin Pedal.' },
+          { q: 'What drum set does Flo Mounier use?', a: 'Flo Mounier\'s drum set is a Tama Starclassic Maple configuration built around a sharp, penetrating Tama Starclassic Maple 14"x5.5" snare. The drum set carries Sabian AAX and HHX Series cymbals, a Tama Speed Cobra 910 Twin Pedal engineered for fast rebound, and Vic Firth American Classic 5A sticks.' },
           { q: 'What cymbals does Flo Mounier use?', a: 'Flo Mounier uses Sabian AAX and HHX Series cymbals: 14" HHX Stage Hi-Hats for rapid hi-hat patterns, 17" and 18" AAX X-Plosion Crashes for fast-response accent work, a 21" HHX Raw Bell Dry Ride for dark articulation, and an 18" AAXtreme China for brutal punctuation.' },
-          { q: 'What snare drum does Flo Mounier play?', a: 'Flo Mounier plays a Pearl Masters 14"x5.5" maple snare, tuned for the sharp, penetrating crack that cuts through Cryptopsy\'s dense arrangements on albums like None So Vile and Whisper Supremacy.' },
-          { q: 'What bass drum pedals does Flo Mounier use?', a: 'Flo Mounier uses a Pearl Demon Drive double bass drum pedal, a direct-drive mechanism engineered for the fast rebound his legendary gravity blast technique demands.' },
+          { q: 'What snare drum does Flo Mounier play?', a: 'Flo Mounier plays a Tama Starclassic Maple 14"x5.5" snare, tuned for the sharp, penetrating crack that cuts through Cryptopsy\'s dense arrangements on albums like None So Vile and Whisper Supremacy.' },
+          { q: 'What bass drum pedals does Flo Mounier use?', a: 'Flo Mounier uses a Tama Speed Cobra 910 Twin Pedal, a chain-drive mechanism engineered for the fast rebound his legendary gravity blast technique demands.' },
           { q: 'What band is Flo Mounier in?', a: 'Flo Mounier is the only constant member of technical death metal pioneers Cryptopsy, which he joined in 1992.' },
           { q: 'What drumsticks does Flo Mounier use?', a: 'Flo Mounier uses Vic Firth American Classic 5A drumsticks.' },
-          { q: 'What drumheads does Flo Mounier use?', a: 'Flo Mounier uses Evans drumheads across his Pearl Masters Maple Complete kit.' },
+          { q: 'What drumheads does Flo Mounier use?', a: 'Flo Mounier uses Evans drumheads across his Tama Starclassic Maple kit.' },
           { q: 'What hi-hats does Flo Mounier use?', a: 'Flo Mounier plays 14" Sabian HHX Stage Hi-Hats, chosen for the rapid response his gravity blast technique demands on tracks like Cryptopsy\'s "Phobophile."' }
         ]
       },
       sources: {
         title: 'Sources',
         items: [
-          { name: 'Pearl Drums', url: 'https://pearldrum.com' },
+          { name: 'Tama Drums', url: 'https://www.tama.com' },
           { name: 'Sabian Cymbals', url: 'https://www.sabian.com' },
           { name: 'Nuclear Blast Records', url: 'https://www.nuclearblast.com' },
           { name: 'Wikipedia: Flo Mounier', url: 'https://en.wikipedia.org/wiki/Flo_Mounier' }

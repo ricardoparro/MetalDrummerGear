@@ -2450,7 +2450,7 @@ export const ENDORSEMENT_TIMELINE = {
     currentEndorsements: {
       drums: { brand: 'Tama', model: 'Starclassic (with triggering)', since: '1995' },
       cymbals: { brand: 'Zildjian', model: 'Z Custom', since: '1995' },
-      sticks: { brand: 'Vater', model: 'Power 5B', since: '1995' },
+      sticks: { brand: 'Pro-Mark', model: '5A Oak Nylon Tip', since: '1995' },
       heads: { brand: 'Remo', model: 'Pinstripe / Ambassador', since: '1995' },
       hardware: { brand: 'DW', model: '5000 Series Double Pedal', since: '1995' },
     },
@@ -2478,6 +2478,14 @@ export const ENDORSEMENT_TIMELINE = {
         from: null,
         to: 'ddrum / Roland',
         notes: 'Wired his Tama kit with ddrum triggers into a Roland drum module for "Demanufacture," creating the mechanical, processed drum sound at the core of Fear Factory\'s identity',
+      },
+      {
+        year: 1995,
+        changeType: ENDORSEMENT_CHANGE_TYPES.SIGNED,
+        category: ENDORSEMENT_CATEGORIES.STICKS,
+        from: null,
+        to: 'Pro-Mark',
+        notes: 'Plays Pro-Mark 5A Oak Nylon Tip sticks, per MusicRadar\'s "How to sound like Fear Factory\'s Raymond Herrera" breakdown of his "Demanufacture"-era (1995) setup',
       },
     ],
   },

@@ -14305,7 +14305,7 @@ This guide breaks down the technique, gear, and practice approach behind Herrera
       overview: `Herrera's technique is built on the idea that the electronics serve the performance rather than the other way around. Every trigger fires off a real acoustic stroke, so consistent velocity and placement matter more here than in a purely acoustic setup — an uneven stroke doesn't just sound uneven, it produces an audibly inconsistent triggered sample layered on top of it.`,
       stickGrip: {
         type: 'Matched Grip (power-driven)',
-        description: "Herrera drives Vater Power 5B sticks with a firm, consistent matched grip built for authority rather than finesse — every stroke needs enough force to register cleanly and consistently with the trigger sensor, since a weak or glancing stroke produces an inconsistent electronic signal alongside the acoustic hit.",
+        description: "Herrera drives Pro-Mark 5A Oak Nylon Tip sticks with a firm, consistent matched grip built for authority rather than finesse — every stroke needs enough force to register cleanly and consistently with the trigger sensor, since a weak or glancing stroke produces an inconsistent electronic signal alongside the acoustic hit.",
         tips: [
           "Strike with consistent velocity on every note — trigger modules respond to impact force, so uneven strokes create audibly uneven triggered samples",
           "Commit fully to each stroke rather than playing lightly; industrial metal's mechanical aesthetic depends on that consistency",
@@ -14385,11 +14385,11 @@ This guide breaks down the technique, gear, and practice approach behind Herrera
         alternative: "Tama Speed Cobra or Pearl Eliminator for similarly adjustable, consistent chain-drive action at a lower cost."
       },
       sticks: {
-        brand: 'Vater',
-        model: 'Vater Power 5B',
-        specs: 'Hickory, heavier weight and larger tip',
-        description: "The Power 5B's added mass drives cymbals and heads with the consistent force that trigger sensors need to fire cleanly on every stroke, plus the durability to withstand extended high-impact touring.",
-        alternative: "Promark 5B or Vic Firth American Classic 5B for a comparable heavier-weight feel."
+        brand: 'Pro-Mark',
+        model: 'Pro-Mark 5A Oak Nylon Tip',
+        specs: 'Oak, nylon tip',
+        description: "The 5A Oak Nylon Tip's dense oak shaft drives cymbals and heads with the consistent force that trigger sensors need to fire cleanly on every stroke, while the nylon tip adds a bright, defined cymbal attack.",
+        alternative: "Vic Firth American Classic 5A or Regal Tip 5A Nylon Tip for a comparable nylon-tip feel."
       },
       heads: {
         kick: 'Remo Pinstripe (batter, controlled attack for trigger consistency)',
@@ -14459,7 +14459,7 @@ This guide breaks down the technique, gear, and practice approach behind Herrera
         kit: "Pearl Export ($750)",
         cymbals: "Zildjian ZBT Pack + extra crash ($250)",
         pedals: "Pearl P2000C Double ($150)",
-        sticks: "Vater Power 5B ($10)",
+        sticks: "Pro-Mark 5A Oak Nylon Tip ($10)",
         trigger: "Single ddrum Red Shot trigger for kick ($100)",
         notes: "A single kick trigger gets you the core mechanical low-end punch before expanding to a full-kit trigger setup."
       },
@@ -14469,7 +14469,7 @@ This guide breaks down the technique, gear, and practice approach behind Herrera
         kit: "Pearl Decade Maple ($1,900)",
         cymbals: "Zildjian Z Custom partial set ($1,000)",
         pedals: "DW 5000 Double ($350)",
-        sticks: "Vater Power 5B ($10)",
+        sticks: "Pro-Mark 5A Oak Nylon Tip ($10)",
         trigger: "ddrum trigger kit (kick, snare, toms) with basic module ($350)",
         notes: "Full-kit triggering is the essential upgrade — it's what actually produces the Fear Factory sound, not just the acoustic gear."
       },
@@ -14491,7 +14491,7 @@ This guide breaks down the technique, gear, and practice approach behind Herrera
       },
       {
         question: "What drum kit did Raymond Herrera use in Fear Factory?",
-        answer: "Herrera played a Tama Starclassic kit with a double 22\" bass drum configuration, a Tama 14\" x 6.5\" Brass snare, and two rack toms plus two floor toms — every drum fitted with a ddrum trigger feeding a Roland module. His cymbals are Zildjian Z Custom, his double pedal is the DW 5000 Series, and he plays Vater Power 5B sticks."
+        answer: "Herrera played a Tama Starclassic kit with a double 22\" bass drum configuration, a Tama 14\" x 6.5\" Brass snare, and two rack toms plus two floor toms — every drum fitted with a ddrum trigger feeding a Roland module. His cymbals are Zildjian Z Custom, his double pedal is the DW 5000 Series, and he plays Pro-Mark 5A Oak Nylon Tip sticks."
       },
       {
         question: "How do I achieve the Fear Factory drum trigger sound?",

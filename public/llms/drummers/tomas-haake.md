@@ -60,6 +60,20 @@ See the [Tomas Haake vs Gene Hoglan](/vs/gene-hoglan-vs-tomas-haake) comparison 
 - [Wincent Drumsticks](https://www.wincent.se)
 - [Remo Drumheads](https://remo.com)
 
+## Endorsements
+
+- [Sonor Drums](https://www.sonor.com)
+- [Sabian Cymbals](https://www.sabian.com)
+- [Wincent Drumsticks](https://www.wincent.se)
+- [Remo Drumheads](https://remo.com)
+
+## Endorsements
+
+- [Sonor Drums](https://www.sonor.com)
+- [Sabian Cymbals](https://www.sabian.com)
+- [Wincent Drumsticks](https://www.wincent.se)
+- [Remo Drumheads](https://remo.com)
+
 ## Notable Performances
 
 - Bleed - Wincent Drumsticks (8.1M views) (2013)
@@ -163,6 +177,18 @@ Full breakdown: [Tomas Haake's pedal setup](https://metalforge.io/pedals/setups/
 ## Study Rankings
 
 - Counted in our most-used gear brands study. [Most-Used Drum & Cymbal Brands in Metal](https://metalforge.io/studies/most-used-gear-brands-metal)
+
+## Gear Evolution
+
+Full album-by-album gear evolution: [Tomas Haake's gear evolution timeline](https://metalforge.io/llms/evolution/tomas-haake.md).
+
+## Gear Price History
+
+Historical gear pricing and value: [Tomas Haake's gear price history](https://metalforge.io/llms/gear-history/tomas-haake.md).
+
+## Endorsement History
+
+Dated brand-endorsement timeline: [Tomas Haake's endorsement history](https://metalforge.io/llms/endorsements/tomas-haake.md).
 
 ---
 

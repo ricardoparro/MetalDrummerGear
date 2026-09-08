@@ -63,6 +63,18 @@ Before Arch Enemy, Erlandsson played with Eucharist, one of the pioneers of the 
 - [Paiste Cymbals](https://www.paiste.com)
 - [Vic Firth Sticks](https://vicfirth.zildjian.com)
 
+## Endorsements
+
+- [Pearl Drums](https://pearldrum.com)
+- [Paiste Cymbals](https://www.paiste.com)
+- [Vic Firth Sticks](https://vicfirth.zildjian.com)
+
+## Endorsements
+
+- [Pearl Drums](https://pearldrum.com)
+- [Paiste Cymbals](https://www.paiste.com)
+- [Vic Firth Sticks](https://vicfirth.zildjian.com)
+
 ## Notable Performances
 
 - Arch Enemy - Nemesis (Drum Cam) (2017)
@@ -146,6 +158,18 @@ Full breakdown: [Daniel Erlandsson's pedal setup](https://metalforge.io/pedals/s
 
 - Counted in our most-used gear brands study. [Most-Used Drum & Cymbal Brands in Metal](https://metalforge.io/studies/most-used-gear-brands-metal)
 - Counted in our drum endorsement landscape study. [The Drum Endorsement Landscape in Metal](https://metalforge.io/studies/drum-endorsement-landscape)
+
+## Gear Evolution
+
+Full album-by-album gear evolution: [Daniel Erlandsson's gear evolution timeline](https://metalforge.io/llms/evolution/daniel-erlandsson.md).
+
+## Gear Price History
+
+Historical gear pricing and value: [Daniel Erlandsson's gear price history](https://metalforge.io/llms/gear-history/daniel-erlandsson.md).
+
+## Endorsement History
+
+Dated brand-endorsement timeline: [Daniel Erlandsson's endorsement history](https://metalforge.io/llms/endorsements/daniel-erlandsson.md).
 
 ---
 

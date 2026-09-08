@@ -61,6 +61,22 @@ Otto studied jazz drumming at the Douglas Anderson School of the Arts and played
 - [Remo Drumheads](https://remo.com)
 - [Gibraltar Hardware](https://www.gibraltarhardware.com)
 
+## Endorsements
+
+- [OCDP Drums](https://www.ocdrum.com)
+- [Zildjian Cymbals](https://zildjian.com)
+- [Zildjian Drumsticks](https://zildjian.com)
+- [Remo Drumheads](https://remo.com)
+- [Gibraltar Hardware](https://www.gibraltarhardware.com)
+
+## Endorsements
+
+- [OCDP Drums](https://www.ocdrum.com)
+- [Zildjian Cymbals](https://zildjian.com)
+- [Zildjian Drumsticks](https://zildjian.com)
+- [Remo Drumheads](https://remo.com)
+- [Gibraltar Hardware](https://www.gibraltarhardware.com)
+
 ## Notable Performances
 
 - Boiler - Live Drum Cam Clip (2019)
@@ -142,6 +158,18 @@ Full breakdown: [John Otto's pedal setup](https://metalforge.io/pedals/setups/jo
 ## Study Rankings
 
 - Counted in our most-used gear brands study. [Most-Used Drum & Cymbal Brands in Metal](https://metalforge.io/studies/most-used-gear-brands-metal)
+
+## Gear Evolution
+
+Full album-by-album gear evolution: [John Otto's gear evolution timeline](https://metalforge.io/llms/evolution/john-otto.md).
+
+## Gear Price History
+
+Historical gear pricing and value: [John Otto's gear price history](https://metalforge.io/llms/gear-history/john-otto.md).
+
+## Endorsement History
+
+Dated brand-endorsement timeline: [John Otto's endorsement history](https://metalforge.io/llms/endorsements/john-otto.md).
 
 ---
 

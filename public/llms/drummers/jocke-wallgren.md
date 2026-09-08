@@ -59,6 +59,18 @@ Before Amon Amarth, Wallgren was known for his work with Swedish bands including
 - [Zildjian Cymbals](https://zildjian.com)
 - [Vic Firth Sticks](https://vicfirth.zildjian.com)
 
+## Endorsements
+
+- [Pearl Drums](https://pearldrum.com)
+- [Zildjian Cymbals](https://zildjian.com)
+- [Vic Firth Sticks](https://vicfirth.zildjian.com)
+
+## Endorsements
+
+- [Pearl Drums](https://pearldrum.com)
+- [Zildjian Cymbals](https://zildjian.com)
+- [Vic Firth Sticks](https://vicfirth.zildjian.com)
+
 ## Notable Performances
 
 - War Of The Gods - With Full Force 2016 (2016)
@@ -144,6 +156,18 @@ Full breakdown: [Jocke Wallgren's pedal setup](https://metalforge.io/pedals/setu
 
 - Counted in our most-used gear brands study. [Most-Used Drum & Cymbal Brands in Metal](https://metalforge.io/studies/most-used-gear-brands-metal)
 - Counted in our drum endorsement landscape study. [The Drum Endorsement Landscape in Metal](https://metalforge.io/studies/drum-endorsement-landscape)
+
+## Gear Evolution
+
+Full album-by-album gear evolution: [Jocke Wallgren's gear evolution timeline](https://metalforge.io/llms/evolution/jocke-wallgren.md).
+
+## Gear Price History
+
+Historical gear pricing and value: [Jocke Wallgren's gear price history](https://metalforge.io/llms/gear-history/jocke-wallgren.md).
+
+## Endorsement History
+
+Dated brand-endorsement timeline: [Jocke Wallgren's endorsement history](https://metalforge.io/llms/endorsements/jocke-wallgren.md).
 
 ---
 

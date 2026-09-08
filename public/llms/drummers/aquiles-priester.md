@@ -64,6 +64,20 @@ Priester is considered one of the greatest power metal drummers in the world. Hi
 - [Vic Firth Sticks](https://vicfirth.zildjian.com)
 - [Evans Drumheads](https://www.daddario.com/evans)
 
+## Endorsements
+
+- [Pearl Drums](https://pearldrum.com)
+- [Sabian Cymbals](https://www.sabian.com)
+- [Vic Firth Sticks](https://vicfirth.zildjian.com)
+- [Evans Drumheads](https://www.daddario.com/evans)
+
+## Endorsements
+
+- [Pearl Drums](https://pearldrum.com)
+- [Sabian Cymbals](https://www.sabian.com)
+- [Vic Firth Sticks](https://vicfirth.zildjian.com)
+- [Evans Drumheads](https://www.daddario.com/evans)
+
 ## Notable Performances
 
 - W.A.S.P. Tour Kit Rundown (2024)
@@ -155,6 +169,18 @@ Full breakdown: [Aquiles Priester's pedal setup](https://metalforge.io/pedals/se
 ## Study Rankings
 
 - Counted in our most-used gear brands study. [Most-Used Drum & Cymbal Brands in Metal](https://metalforge.io/studies/most-used-gear-brands-metal)
+
+## Gear Evolution
+
+Full album-by-album gear evolution: [Aquiles Priester's gear evolution timeline](https://metalforge.io/llms/evolution/aquiles-priester.md).
+
+## Gear Price History
+
+Historical gear pricing and value: [Aquiles Priester's gear price history](https://metalforge.io/llms/gear-history/aquiles-priester.md).
+
+## Endorsement History
+
+Dated brand-endorsement timeline: [Aquiles Priester's endorsement history](https://metalforge.io/llms/endorsements/aquiles-priester.md).
 
 ---
 

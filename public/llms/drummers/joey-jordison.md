@@ -62,6 +62,20 @@ His blistering speed, technical precision, and theatrical stage presence—inclu
 - [Promark Sticks](https://www.daddario.com/promark)
 - [Evans Drumheads](https://www.daddario.com/evans)
 
+## Endorsements
+
+- [Pearl Drums](https://pearldrum.com)
+- [Paiste Cymbals](https://www.paiste.com)
+- [Promark Sticks](https://www.daddario.com/promark)
+- [Evans Drumheads](https://www.daddario.com/evans)
+
+## Endorsements
+
+- [Pearl Drums](https://pearldrum.com)
+- [Paiste Cymbals](https://www.paiste.com)
+- [Promark Sticks](https://www.daddario.com/promark)
+- [Evans Drumheads](https://www.daddario.com/evans)
+
 ## Notable Performances
 
 - Disasterpieces Drum Solo (Official) (2002)
@@ -163,6 +177,18 @@ Full breakdown: [Joey Jordison's pedal setup](https://metalforge.io/pedals/setup
 ## Study Rankings
 
 - Counted in our most-used gear brands study. [Most-Used Drum & Cymbal Brands in Metal](https://metalforge.io/studies/most-used-gear-brands-metal)
+
+## Gear Evolution
+
+Full album-by-album gear evolution: [Joey Jordison's gear evolution timeline](https://metalforge.io/llms/evolution/joey-jordison.md).
+
+## Gear Price History
+
+Historical gear pricing and value: [Joey Jordison's gear price history](https://metalforge.io/llms/gear-history/joey-jordison.md).
+
+## Endorsement History
+
+Dated brand-endorsement timeline: [Joey Jordison's endorsement history](https://metalforge.io/llms/endorsements/joey-jordison.md).
 
 ---
 

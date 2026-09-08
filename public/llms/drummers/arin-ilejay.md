@@ -62,6 +62,20 @@ Ilejay's time with Avenged Sevenfold coincided with their transition to a more c
 - [Vic Firth Sticks](https://vicfirth.zildjian.com)
 - [Evans Drumheads](https://www.daddario.com/evans)
 
+## Endorsements
+
+- [Mapex Drums](https://www.mapexdrums.com)
+- [Zildjian Cymbals](https://zildjian.com)
+- [Vic Firth Sticks](https://vicfirth.zildjian.com)
+- [Evans Drumheads](https://www.daddario.com/evans)
+
+## Endorsements
+
+- [Mapex Drums](https://www.mapexdrums.com)
+- [Zildjian Cymbals](https://zildjian.com)
+- [Vic Firth Sticks](https://vicfirth.zildjian.com)
+- [Evans Drumheads](https://www.daddario.com/evans)
+
 ## Notable Performances
 
 - Arin Ilejay Drum Solo + Band Jam @ Avenged Sevenfold Barcelona (2013)
@@ -124,6 +138,18 @@ Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
 - Counted in our most-used gear brands study. [Most-Used Drum & Cymbal Brands in Metal](https://metalforge.io/studies/most-used-gear-brands-metal)
 - Counted in our drum endorsement landscape study. [The Drum Endorsement Landscape in Metal](https://metalforge.io/studies/drum-endorsement-landscape)
+
+## Gear Evolution
+
+Full album-by-album gear evolution: [Arin Ilejay's gear evolution timeline](https://metalforge.io/llms/evolution/arin-ilejay.md).
+
+## Gear Price History
+
+Historical gear pricing and value: [Arin Ilejay's gear price history](https://metalforge.io/llms/gear-history/arin-ilejay.md).
+
+## Endorsement History
+
+Dated brand-endorsement timeline: [Arin Ilejay's endorsement history](https://metalforge.io/llms/endorsements/arin-ilejay.md).
 
 ---
 

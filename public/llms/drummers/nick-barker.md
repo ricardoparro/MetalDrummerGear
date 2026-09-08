@@ -55,6 +55,14 @@ Official Sonor artist endorsement confirmed; specific kit model, snare, cymbals,
 
 - [Sonor Drums](https://www.sonor.com)
 
+## Endorsements
+
+- [Sonor Drums](https://www.sonor.com)
+
+## Endorsements
+
+- [Sonor Drums](https://www.sonor.com)
+
 ## Notable Performances
 
 - LOCK UP - Accelerated Mutation - Nicholas Barker - Live in Poland (Drum Cam) (2017)
@@ -105,6 +113,18 @@ MetalForge has 1 signature lick tutorial(s) for Nick Barker:
 - [Blessings Upon the Throne of Tyranny — Symphonic Blast & Groove](https://metalforge.io/drummers/nick-barker/licks/nick-barker-blessings-upon-the-throne-of-tyranny-blast)
 
 Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
+
+## Gear Evolution
+
+Full album-by-album gear evolution: [Nick Barker's gear evolution timeline](https://metalforge.io/llms/evolution/nick-barker.md).
+
+## Gear Price History
+
+Historical gear pricing and value: [Nick Barker's gear price history](https://metalforge.io/llms/gear-history/nick-barker.md).
+
+## Endorsement History
+
+Dated brand-endorsement timeline: [Nick Barker's endorsement history](https://metalforge.io/llms/endorsements/nick-barker.md).
 
 ---
 

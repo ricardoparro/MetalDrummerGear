@@ -67,6 +67,22 @@ Portnoy's technical proficiency, creative compositions, and theatrical live perf
 - [Remo Drumheads](https://remo.com)
 - [Roland Electronics](https://www.roland.com)
 
+## Endorsements
+
+- [Tama Drums](https://www.tama.com)
+- [Sabian Cymbals](https://www.sabian.com)
+- [ProMark Sticks](https://www.daddario.com/promark)
+- [Remo Drumheads](https://remo.com)
+- [Roland Electronics](https://www.roland.com)
+
+## Endorsements
+
+- [Tama Drums](https://www.tama.com)
+- [Sabian Cymbals](https://www.sabian.com)
+- [ProMark Sticks](https://www.daddario.com/promark)
+- [Remo Drumheads](https://remo.com)
+- [Roland Electronics](https://www.roland.com)
+
 ## Notable Performances
 
 - Instrumedley - The Dance of Instrumentals (4.5M views) (2003)
@@ -141,6 +157,18 @@ Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 ## Study Rankings
 
 - Counted in our most-used gear brands study. [Most-Used Drum & Cymbal Brands in Metal](https://metalforge.io/studies/most-used-gear-brands-metal)
+
+## Gear Evolution
+
+Full album-by-album gear evolution: [Mike Portnoy's gear evolution timeline](https://metalforge.io/llms/evolution/mike-portnoy.md).
+
+## Gear Price History
+
+Historical gear pricing and value: [Mike Portnoy's gear price history](https://metalforge.io/llms/gear-history/mike-portnoy.md).
+
+## Endorsement History
+
+Dated brand-endorsement timeline: [Mike Portnoy's endorsement history](https://metalforge.io/llms/endorsements/mike-portnoy.md).
 
 ---
 

@@ -65,6 +65,20 @@ Dette served as Slayer's touring drummer during 1996-1997, filling in when Paul 
 - [Zildjian Cymbals](https://zildjian.com)
 - [Remo Drumheads](https://remo.com)
 
+## Endorsements
+
+- [Ludwig Drums](https://www.ludwig-drums.com)
+- [Sabian Cymbals](https://www.sabian.com)
+- [Zildjian Cymbals](https://zildjian.com)
+- [Remo Drumheads](https://remo.com)
+
+## Endorsements
+
+- [Ludwig Drums](https://www.ludwig-drums.com)
+- [Sabian Cymbals](https://www.sabian.com)
+- [Zildjian Cymbals](https://zildjian.com)
+- [Remo Drumheads](https://remo.com)
+
 ## Notable Performances
 
 - Slayer - Killing Fields (Drum Playthrough by Former Slayer Drummer Jon Dette) (2022)
@@ -144,6 +158,18 @@ Full breakdown: [Jon Dette's pedal setup](https://metalforge.io/pedals/setups/jo
 ## Study Rankings
 
 - Counted in our most-used gear brands study. [Most-Used Drum & Cymbal Brands in Metal](https://metalforge.io/studies/most-used-gear-brands-metal)
+
+## Gear Evolution
+
+Full album-by-album gear evolution: [Jon Dette's gear evolution timeline](https://metalforge.io/llms/evolution/jon-dette.md).
+
+## Gear Price History
+
+Historical gear pricing and value: [Jon Dette's gear price history](https://metalforge.io/llms/gear-history/jon-dette.md).
+
+## Endorsement History
+
+Dated brand-endorsement timeline: [Jon Dette's endorsement history](https://metalforge.io/llms/endorsements/jon-dette.md).
 
 ---
 

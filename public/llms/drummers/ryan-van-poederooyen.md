@@ -60,6 +60,20 @@ Van Poederooyen's versatile drumming has adapted to Townsend's constantly evolvi
 - [Vic Firth Sticks](https://vicfirth.zildjian.com)
 - [Evans Drumheads](https://www.daddario.com/evans)
 
+## Endorsements
+
+- [Pearl Drums](https://pearldrum.com)
+- [Sabian Cymbals](https://www.sabian.com)
+- [Vic Firth Sticks](https://vicfirth.zildjian.com)
+- [Evans Drumheads](https://www.daddario.com/evans)
+
+## Endorsements
+
+- [Pearl Drums](https://pearldrum.com)
+- [Sabian Cymbals](https://www.sabian.com)
+- [Vic Firth Sticks](https://vicfirth.zildjian.com)
+- [Evans Drumheads](https://www.daddario.com/evans)
+
 ## Notable Performances
 
 - Regulator - Barcelona Drum Cam (2017)
@@ -156,6 +170,18 @@ Full breakdown: [Ryan Van Poederooyen's pedal setup](https://metalforge.io/pedal
 
 - Counted in our most-used gear brands study. [Most-Used Drum & Cymbal Brands in Metal](https://metalforge.io/studies/most-used-gear-brands-metal)
 - Counted in our drum endorsement landscape study. [The Drum Endorsement Landscape in Metal](https://metalforge.io/studies/drum-endorsement-landscape)
+
+## Gear Evolution
+
+Full album-by-album gear evolution: [Ryan Van Poederooyen's gear evolution timeline](https://metalforge.io/llms/evolution/ryan-van-poederooyen.md).
+
+## Gear Price History
+
+Historical gear pricing and value: [Ryan Van Poederooyen's gear price history](https://metalforge.io/llms/gear-history/ryan-van-poederooyen.md).
+
+## Endorsement History
+
+Dated brand-endorsement timeline: [Ryan Van Poederooyen's endorsement history](https://metalforge.io/llms/endorsements/ryan-van-poederooyen.md).
 
 ---
 

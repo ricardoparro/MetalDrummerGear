@@ -60,6 +60,20 @@ During his four years with Trivium, Augusto recorded two studio albums—"In Wav
 - [Vic Firth Sticks](https://vicfirth.zildjian.com)
 - [Evans Drumheads](https://www.daddario.com/evans)
 
+## Endorsements
+
+- [Pearl Drums](https://pearldrum.com)
+- [Sabian Cymbals](https://www.sabian.com)
+- [Vic Firth Sticks](https://vicfirth.zildjian.com)
+- [Evans Drumheads](https://www.daddario.com/evans)
+
+## Endorsements
+
+- [Pearl Drums](https://pearldrum.com)
+- [Sabian Cymbals](https://www.sabian.com)
+- [Vic Firth Sticks](https://vicfirth.zildjian.com)
+- [Evans Drumheads](https://www.daddario.com/evans)
+
 ## Notable Performances
 
 - Path to the Big Stage (Full Episode) (2016)
@@ -118,6 +132,18 @@ Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
 - Counted in our most-used gear brands study. [Most-Used Drum & Cymbal Brands in Metal](https://metalforge.io/studies/most-used-gear-brands-metal)
 - Counted in our drum endorsement landscape study. [The Drum Endorsement Landscape in Metal](https://metalforge.io/studies/drum-endorsement-landscape)
+
+## Gear Evolution
+
+Full album-by-album gear evolution: [Nick Augusto's gear evolution timeline](https://metalforge.io/llms/evolution/nick-augusto.md).
+
+## Gear Price History
+
+Historical gear pricing and value: [Nick Augusto's gear price history](https://metalforge.io/llms/gear-history/nick-augusto.md).
+
+## Endorsement History
+
+Dated brand-endorsement timeline: [Nick Augusto's endorsement history](https://metalforge.io/llms/endorsements/nick-augusto.md).
 
 ---
 

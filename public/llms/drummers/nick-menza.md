@@ -64,6 +64,20 @@ Menza's playing was distinguished by surgical double-bass precision at 180-200 B
 - [Vic Firth Sticks](https://vicfirth.zildjian.com)
 - [Remo Drumheads](https://remo.com)
 
+## Endorsements
+
+- [Tama Drums](https://www.tama.com)
+- [Zildjian Cymbals](https://zildjian.com)
+- [Vic Firth Sticks](https://vicfirth.zildjian.com)
+- [Remo Drumheads](https://remo.com)
+
+## Endorsements
+
+- [Tama Drums](https://www.tama.com)
+- [Zildjian Cymbals](https://zildjian.com)
+- [Vic Firth Sticks](https://vicfirth.zildjian.com)
+- [Remo Drumheads](https://remo.com)
+
 ## Notable Performances
 
 - Nick Menza Drum Cam - Megadeth - The Conjuring (Live at NEC Centre, Birmingham UK, 1990) (1990)
@@ -150,6 +164,18 @@ Full breakdown: [Nick Menza's pedal setup](https://metalforge.io/pedals/setups/n
 
 - Counted in our most-used gear brands study. [Most-Used Drum & Cymbal Brands in Metal](https://metalforge.io/studies/most-used-gear-brands-metal)
 - Counted in our drum endorsement landscape study. [The Drum Endorsement Landscape in Metal](https://metalforge.io/studies/drum-endorsement-landscape)
+
+## Gear Evolution
+
+Full album-by-album gear evolution: [Nick Menza's gear evolution timeline](https://metalforge.io/llms/evolution/nick-menza.md).
+
+## Gear Price History
+
+Historical gear pricing and value: [Nick Menza's gear price history](https://metalforge.io/llms/gear-history/nick-menza.md).
+
+## Endorsement History
+
+Dated brand-endorsement timeline: [Nick Menza's endorsement history](https://metalforge.io/llms/endorsements/nick-menza.md).
 
 ---
 

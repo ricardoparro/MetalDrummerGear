@@ -62,6 +62,20 @@ Adler's drumming is characterized by powerful groove-based patterns, creative us
 - [Promark Sticks](https://www.daddario.com/promark)
 - [Evans Drumheads](https://www.daddario.com/evans)
 
+## Endorsements
+
+- [Mapex Drums](https://www.mapexdrums.com)
+- [Meinl Cymbals](https://meinlcymbals.com)
+- [Promark Sticks](https://www.daddario.com/promark)
+- [Evans Drumheads](https://www.daddario.com/evans)
+
+## Endorsements
+
+- [Mapex Drums](https://www.mapexdrums.com)
+- [Meinl Cymbals](https://meinlcymbals.com)
+- [Promark Sticks](https://www.daddario.com/promark)
+- [Evans Drumheads](https://www.daddario.com/evans)
+
 ## Notable Performances
 
 - Lamb of God - Laid to Rest (Live Drum Cam) (2018)
@@ -142,6 +156,18 @@ Full breakdown: [Chris Adler's cymbal setup](https://metalforge.io/cymbals/setup
 Chris Adler plays a Mapex Falcon double pedal.
 
 Full breakdown: [Chris Adler's pedal setup](https://metalforge.io/pedals/setups/chris-adler).
+
+## Gear Evolution
+
+Full album-by-album gear evolution: [Chris Adler's gear evolution timeline](https://metalforge.io/llms/evolution/chris-adler.md).
+
+## Gear Price History
+
+Historical gear pricing and value: [Chris Adler's gear price history](https://metalforge.io/llms/gear-history/chris-adler.md).
+
+## Endorsement History
+
+Dated brand-endorsement timeline: [Chris Adler's endorsement history](https://metalforge.io/llms/endorsements/chris-adler.md).
 
 ---
 

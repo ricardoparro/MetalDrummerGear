@@ -60,6 +60,20 @@ His lightning-fast blast beats, complex polyrhythmic patterns, and jazz-influenc
 - [Vic Firth Sticks](https://vicfirth.zildjian.com)
 - [Evans Drumheads](https://www.daddario.com/evans)
 
+## Endorsements
+
+- [Pearl Drums](https://pearldrum.com)
+- [Sabian Cymbals](https://www.sabian.com)
+- [Vic Firth Sticks](https://vicfirth.zildjian.com)
+- [Evans Drumheads](https://www.daddario.com/evans)
+
+## Endorsements
+
+- [Pearl Drums](https://pearldrum.com)
+- [Sabian Cymbals](https://www.sabian.com)
+- [Vic Firth Sticks](https://vicfirth.zildjian.com)
+- [Evans Drumheads](https://www.daddario.com/evans)
+
 ## Notable Performances
 
 - Sire of Sin - Drum Playthrough (2019)
@@ -155,6 +169,18 @@ Full breakdown: [Flo Mounier's pedal setup](https://metalforge.io/pedals/setups/
 
 - Counted in our most-used gear brands study. [Most-Used Drum & Cymbal Brands in Metal](https://metalforge.io/studies/most-used-gear-brands-metal)
 - Counted in our drum endorsement landscape study. [The Drum Endorsement Landscape in Metal](https://metalforge.io/studies/drum-endorsement-landscape)
+
+## Gear Evolution
+
+Full album-by-album gear evolution: [Flo Mounier's gear evolution timeline](https://metalforge.io/llms/evolution/flo-mounier.md).
+
+## Gear Price History
+
+Historical gear pricing and value: [Flo Mounier's gear price history](https://metalforge.io/llms/gear-history/flo-mounier.md).
+
+## Endorsement History
+
+Dated brand-endorsement timeline: [Flo Mounier's endorsement history](https://metalforge.io/llms/endorsements/flo-mounier.md).
 
 ---
 

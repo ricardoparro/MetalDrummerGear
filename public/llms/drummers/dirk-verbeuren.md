@@ -62,6 +62,20 @@ Verbeuren's drumming combines the technical precision of melodic death metal wit
 - [Promark Sticks](https://www.daddario.com/promark)
 - [Evans Drumheads](https://www.daddario.com/evans)
 
+## Endorsements
+
+- [Tama Drums](https://www.tama.com)
+- [Meinl Cymbals](https://www.meinlcymbals.com)
+- [Promark Sticks](https://www.daddario.com/promark)
+- [Evans Drumheads](https://www.daddario.com/evans)
+
+## Endorsements
+
+- [Tama Drums](https://www.tama.com)
+- [Meinl Cymbals](https://www.meinlcymbals.com)
+- [Promark Sticks](https://www.daddario.com/promark)
+- [Evans Drumheads](https://www.daddario.com/evans)
+
 ## Notable Performances
 
 - Mechanix - Drum Playthrough (2021)
@@ -155,6 +169,18 @@ Full breakdown: [Dirk Verbeuren's pedal setup](https://metalforge.io/pedals/setu
 ## Study Rankings
 
 - Counted in our most-used gear brands study. [Most-Used Drum & Cymbal Brands in Metal](https://metalforge.io/studies/most-used-gear-brands-metal)
+
+## Gear Evolution
+
+Full album-by-album gear evolution: [Dirk Verbeuren's gear evolution timeline](https://metalforge.io/llms/evolution/dirk-verbeuren.md).
+
+## Gear Price History
+
+Historical gear pricing and value: [Dirk Verbeuren's gear price history](https://metalforge.io/llms/gear-history/dirk-verbeuren.md).
+
+## Endorsement History
+
+Dated brand-endorsement timeline: [Dirk Verbeuren's endorsement history](https://metalforge.io/llms/endorsements/dirk-verbeuren.md).
 
 ---
 

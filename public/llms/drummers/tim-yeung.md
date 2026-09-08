@@ -62,6 +62,18 @@ Yeung's drumming combines machine-like consistency with the brutal intensity dem
 - [Sabian Cymbals](https://www.sabian.com)
 - [Vic Firth Sticks](https://vicfirth.zildjian.com)
 
+## Endorsements
+
+- [Tama Drums](https://www.tama.com)
+- [Sabian Cymbals](https://www.sabian.com)
+- [Vic Firth Sticks](https://vicfirth.zildjian.com)
+
+## Endorsements
+
+- [Tama Drums](https://www.tama.com)
+- [Sabian Cymbals](https://www.sabian.com)
+- [Vic Firth Sticks](https://vicfirth.zildjian.com)
+
 ## Notable Performances
 
 - Rapture - Morbid Angel Drum Cam (2012)
@@ -143,6 +155,18 @@ Full breakdown: [Tim Yeung's pedal setup](https://metalforge.io/pedals/setups/ti
 
 - Counted in our most-used gear brands study. [Most-Used Drum & Cymbal Brands in Metal](https://metalforge.io/studies/most-used-gear-brands-metal)
 - Counted in our drum endorsement landscape study. [The Drum Endorsement Landscape in Metal](https://metalforge.io/studies/drum-endorsement-landscape)
+
+## Gear Evolution
+
+Full album-by-album gear evolution: [Tim Yeung's gear evolution timeline](https://metalforge.io/llms/evolution/tim-yeung.md).
+
+## Gear Price History
+
+Historical gear pricing and value: [Tim Yeung's gear price history](https://metalforge.io/llms/gear-history/tim-yeung.md).
+
+## Endorsement History
+
+Dated brand-endorsement timeline: [Tim Yeung's endorsement history](https://metalforge.io/llms/endorsements/tim-yeung.md).
 
 ---
 

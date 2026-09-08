@@ -61,6 +61,22 @@ His work with August Burns Red has earned a Grammy nomination and widespread cri
 - [Evans Drumheads](https://www.daddario.com/evans)
 - [DW Hardware](https://www.dwdrums.com)
 
+## Endorsements
+
+- [Mapex Drums](https://mapexdrums.com)
+- [Paiste Cymbals](https://www.paiste.com)
+- [Vic Firth Sticks](https://vicfirth.zildjian.com)
+- [Evans Drumheads](https://www.daddario.com/evans)
+- [DW Hardware](https://www.dwdrums.com)
+
+## Endorsements
+
+- [Mapex Drums](https://mapexdrums.com)
+- [Paiste Cymbals](https://www.paiste.com)
+- [Vic Firth Sticks](https://vicfirth.zildjian.com)
+- [Evans Drumheads](https://www.daddario.com/evans)
+- [DW Hardware](https://www.dwdrums.com)
+
 ## Notable Performances
 
 - White Washed - Break Down Series (2017)
@@ -165,6 +181,18 @@ Full breakdown: [Matt Greiner's pedal setup](https://metalforge.io/pedals/setups
 
 - Counted in our most-used gear brands study. [Most-Used Drum & Cymbal Brands in Metal](https://metalforge.io/studies/most-used-gear-brands-metal)
 - Counted in our drum endorsement landscape study. [The Drum Endorsement Landscape in Metal](https://metalforge.io/studies/drum-endorsement-landscape)
+
+## Gear Evolution
+
+Full album-by-album gear evolution: [Matt Greiner's gear evolution timeline](https://metalforge.io/llms/evolution/matt-greiner.md).
+
+## Gear Price History
+
+Historical gear pricing and value: [Matt Greiner's gear price history](https://metalforge.io/llms/gear-history/matt-greiner.md).
+
+## Endorsement History
+
+Dated brand-endorsement timeline: [Matt Greiner's endorsement history](https://metalforge.io/llms/endorsements/matt-greiner.md).
 
 ---
 

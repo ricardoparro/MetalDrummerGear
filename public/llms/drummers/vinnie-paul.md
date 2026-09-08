@@ -62,6 +62,20 @@ After Pantera's breakup, Vinnie Paul co-founded Damageplan with Darrell, and fol
 - [Vic Firth Sticks](https://vicfirth.zildjian.com)
 - [Evans Drumheads](https://www.daddario.com/evans)
 
+## Endorsements
+
+- [ddrum Drums](https://www.ddrum.com)
+- [Sabian Cymbals](https://www.sabian.com)
+- [Vic Firth Sticks](https://vicfirth.zildjian.com)
+- [Evans Drumheads](https://www.daddario.com/evans)
+
+## Endorsements
+
+- [ddrum Drums](https://www.ddrum.com)
+- [Sabian Cymbals](https://www.sabian.com)
+- [Vic Firth Sticks](https://vicfirth.zildjian.com)
+- [Evans Drumheads](https://www.daddario.com/evans)
+
 ## Notable Performances
 
 - The MONSTER known as VINNIE PAUL (by Scott Ian) (2010)
@@ -123,6 +137,18 @@ Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
 - Counted in our most-used gear brands study. [Most-Used Drum & Cymbal Brands in Metal](https://metalforge.io/studies/most-used-gear-brands-metal)
 - Counted in our drum endorsement landscape study. [The Drum Endorsement Landscape in Metal](https://metalforge.io/studies/drum-endorsement-landscape)
+
+## Gear Evolution
+
+Full album-by-album gear evolution: [Vinnie Paul's gear evolution timeline](https://metalforge.io/llms/evolution/vinnie-paul.md).
+
+## Gear Price History
+
+Historical gear pricing and value: [Vinnie Paul's gear price history](https://metalforge.io/llms/gear-history/vinnie-paul.md).
+
+## Endorsement History
+
+Dated brand-endorsement timeline: [Vinnie Paul's endorsement history](https://metalforge.io/llms/endorsements/vinnie-paul.md).
 
 ---
 

@@ -65,6 +65,20 @@ Dee's powerful, hard-hitting style perfectly complemented Lemmy's raw, loud appr
 - [Wincent Drumsticks](https://wincentdrumsticks.com)
 - [Evans Drumheads](https://www.daddario.com/evans)
 
+## Endorsements
+
+- [Sonor Drums](https://www.sonor.com)
+- [Paiste Cymbals](https://www.paiste.com)
+- [Wincent Drumsticks](https://wincentdrumsticks.com)
+- [Evans Drumheads](https://www.daddario.com/evans)
+
+## Endorsements
+
+- [Sonor Drums](https://www.sonor.com)
+- [Paiste Cymbals](https://www.paiste.com)
+- [Wincent Drumsticks](https://wincentdrumsticks.com)
+- [Evans Drumheads](https://www.daddario.com/evans)
+
 ## Notable Performances
 
 - Motörhead - Ace of Spades (Official Video) (1980)
@@ -163,6 +177,18 @@ Full breakdown: [Mikkey Dee's pedal setup](https://metalforge.io/pedals/setups/m
 ## Study Rankings
 
 - Counted in our most-used gear brands study. [Most-Used Drum & Cymbal Brands in Metal](https://metalforge.io/studies/most-used-gear-brands-metal)
+
+## Gear Evolution
+
+Full album-by-album gear evolution: [Mikkey Dee's gear evolution timeline](https://metalforge.io/llms/evolution/mikkey-dee.md).
+
+## Gear Price History
+
+Historical gear pricing and value: [Mikkey Dee's gear price history](https://metalforge.io/llms/gear-history/mikkey-dee.md).
+
+## Endorsement History
+
+Dated brand-endorsement timeline: [Mikkey Dee's endorsement history](https://metalforge.io/llms/endorsements/mikkey-dee.md).
 
 ---
 

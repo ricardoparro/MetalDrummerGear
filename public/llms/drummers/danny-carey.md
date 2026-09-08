@@ -65,6 +65,22 @@ Standing at 6'5" (196 cm), Carey is an imposing presence behind his massive Sono
 - [Remo Drumheads](https://www.remo.com)
 - [Mandala Drums](https://www.mandaladrum.com)
 
+## Endorsements
+
+- [Sonor Drums](https://www.sonor.com)
+- [Paiste Cymbals](https://www.paiste.com)
+- [Vic Firth Sticks](https://vicfirth.zildjian.com)
+- [Remo Drumheads](https://www.remo.com)
+- [Mandala Drums](https://www.mandaladrum.com)
+
+## Endorsements
+
+- [Sonor Drums](https://www.sonor.com)
+- [Paiste Cymbals](https://www.paiste.com)
+- [Vic Firth Sticks](https://vicfirth.zildjian.com)
+- [Remo Drumheads](https://www.remo.com)
+- [Mandala Drums](https://www.mandaladrum.com)
+
 ## Notable Performances
 
 - Pneuma - Live in Concert (2022)
@@ -156,6 +172,18 @@ Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
 - Counted in our most-used gear brands study. [Most-Used Drum & Cymbal Brands in Metal](https://metalforge.io/studies/most-used-gear-brands-metal)
 - Counted in our drum endorsement landscape study. [The Drum Endorsement Landscape in Metal](https://metalforge.io/studies/drum-endorsement-landscape)
+
+## Gear Evolution
+
+Full album-by-album gear evolution: [Danny Carey's gear evolution timeline](https://metalforge.io/llms/evolution/danny-carey.md).
+
+## Gear Price History
+
+Historical gear pricing and value: [Danny Carey's gear price history](https://metalforge.io/llms/gear-history/danny-carey.md).
+
+## Endorsement History
+
+Dated brand-endorsement timeline: [Danny Carey's endorsement history](https://metalforge.io/llms/endorsements/danny-carey.md).
 
 ---
 

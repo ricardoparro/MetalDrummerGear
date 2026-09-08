@@ -131,6 +131,30 @@ try {
   console.warn('Could not load pedals, continuing without them:', e.message);
 }
 
+// --- Cross-link sibling per-drummer LLM surfaces (Issue #7189) --------------------
+// Evolution/Gear History/Endorsements each have their own generator producing
+// public/llms/<family>/<slug>.md directly (no shared data module to import), so
+// availability is checked the same way as drummerMdSlugs above: read the directory
+// once, build a Set, and only link when the file actually exists on disk.
+const evolutionDir = path.join(__dirname, '../public/llms/evolution');
+const evolutionSlugs = new Set(
+  fs.existsSync(evolutionDir)
+    ? fs.readdirSync(evolutionDir).filter((f) => f.endsWith('.md')).map((f) => f.replace(/\.md$/, ''))
+    : []
+);
+const gearHistoryDir = path.join(__dirname, '../public/llms/gear-history');
+const gearHistorySlugs = new Set(
+  fs.existsSync(gearHistoryDir)
+    ? fs.readdirSync(gearHistoryDir).filter((f) => f.endsWith('.md')).map((f) => f.replace(/\.md$/, ''))
+    : []
+);
+const endorsementsDir = path.join(__dirname, '../public/llms/endorsements');
+const endorsementsSlugs = new Set(
+  fs.existsSync(endorsementsDir)
+    ? fs.readdirSync(endorsementsDir).filter((f) => f.endsWith('.md')).map((f) => f.replace(/\.md$/, ''))
+    : []
+);
+
 // --- Load study-citation links (index by drummerSlug) -----------------------------
 // Issue #5161: studies/index.js has real logic (imports + functions), not a plain
 // object/array literal, so it can't go through the regex+eval pattern used above —
@@ -163,6 +187,9 @@ const KNOWN_HEADERS = new Set([
   'Cymbal Setup',
   'Pedal',
   'Study Rankings',
+  'Gear Evolution',
+  'Gear Price History',
+  'Endorsement History',
 ]);
 const FOOTER_MARKER = /\n---\n\n\*\*Full interactive profile:\*\*[\s\S]*$/;
 
@@ -519,6 +546,28 @@ function buildMarkdown(drummer) {
       studies += `- ${link.sentence} [${link.studyTitle}](${BASE}/studies/${link.studySlug})\n`;
     }
     sections.push({ header: 'Study Rankings', body: studies });
+  }
+
+  // --- Evolution / Gear History / Endorsements cross-references (Issue #7189) -----
+  // Omit each section entirely when the sibling file isn't present on disk — never
+  // fabricate a link to a page that doesn't exist.
+  if (evolutionSlugs.has(slug)) {
+    sections.push({
+      header: 'Gear Evolution',
+      body: `Full album-by-album gear evolution: [${drummer.name}'s gear evolution timeline](${BASE}/llms/evolution/${slug}.md).\n`,
+    });
+  }
+  if (gearHistorySlugs.has(slug)) {
+    sections.push({
+      header: 'Gear Price History',
+      body: `Historical gear pricing and value: [${drummer.name}'s gear price history](${BASE}/llms/gear-history/${slug}.md).\n`,
+    });
+  }
+  if (endorsementsSlugs.has(slug)) {
+    sections.push({
+      header: 'Endorsement History',
+      body: `Dated brand-endorsement timeline: [${drummer.name}'s endorsement history](${BASE}/llms/endorsements/${slug}.md).\n`,
+    });
   }
 
   // --- Preserve hand-added sections (Kit Overview, per-album Q&A, ...) not

@@ -60,6 +60,20 @@ Richardson's work on landmark albums like "Colors," "The Great Misdirect," and "
 - [Vic Firth Sticks](https://vicfirth.zildjian.com)
 - [Evans Drumheads](https://www.daddario.com/evans)
 
+## Endorsements
+
+- [Tama Drums](https://www.tama.com)
+- [Sabian Cymbals](https://www.sabian.com)
+- [Vic Firth Sticks](https://vicfirth.zildjian.com)
+- [Evans Drumheads](https://www.daddario.com/evans)
+
+## Endorsements
+
+- [Tama Drums](https://www.tama.com)
+- [Sabian Cymbals](https://www.sabian.com)
+- [Vic Firth Sticks](https://vicfirth.zildjian.com)
+- [Evans Drumheads](https://www.daddario.com/evans)
+
 ## Notable Performances
 
 - Voice of Trespass - Live Drum Playthrough (2019)
@@ -154,6 +168,18 @@ Full breakdown: [Blake Richardson's pedal setup](https://metalforge.io/pedals/se
 
 - Counted in our most-used gear brands study. [Most-Used Drum & Cymbal Brands in Metal](https://metalforge.io/studies/most-used-gear-brands-metal)
 - Counted in our drum endorsement landscape study. [The Drum Endorsement Landscape in Metal](https://metalforge.io/studies/drum-endorsement-landscape)
+
+## Gear Evolution
+
+Full album-by-album gear evolution: [Blake Richardson's gear evolution timeline](https://metalforge.io/llms/evolution/blake-richardson.md).
+
+## Gear Price History
+
+Historical gear pricing and value: [Blake Richardson's gear price history](https://metalforge.io/llms/gear-history/blake-richardson.md).
+
+## Endorsement History
+
+Dated brand-endorsement timeline: [Blake Richardson's endorsement history](https://metalforge.io/llms/endorsements/blake-richardson.md).
 
 ---
 

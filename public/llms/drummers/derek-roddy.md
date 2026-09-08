@@ -65,6 +65,20 @@ Roddy is considered one of the pioneers of modern extreme metal drumming, having
 - [Vic Firth Sticks](https://vicfirth.zildjian.com)
 - [Evans Drumheads](https://www.daddario.com/evans)
 
+## Endorsements
+
+- [Tama Drums](https://www.tama.com)
+- [Meinl Cymbals](https://meinlcymbals.com)
+- [Vic Firth Sticks](https://vicfirth.zildjian.com)
+- [Evans Drumheads](https://www.daddario.com/evans)
+
+## Endorsements
+
+- [Tama Drums](https://www.tama.com)
+- [Meinl Cymbals](https://meinlcymbals.com)
+- [Vic Firth Sticks](https://vicfirth.zildjian.com)
+- [Evans Drumheads](https://www.daddario.com/evans)
+
 ## Notable Performances
 
 - Meeting Erik Rutan - Hate Eternal Interview (2020)
@@ -159,6 +173,18 @@ Full breakdown: [Derek Roddy's pedal setup](https://metalforge.io/pedals/setups/
 ## Study Rankings
 
 - Counted in our most-used gear brands study. [Most-Used Drum & Cymbal Brands in Metal](https://metalforge.io/studies/most-used-gear-brands-metal)
+
+## Gear Evolution
+
+Full album-by-album gear evolution: [Derek Roddy's gear evolution timeline](https://metalforge.io/llms/evolution/derek-roddy.md).
+
+## Gear Price History
+
+Historical gear pricing and value: [Derek Roddy's gear price history](https://metalforge.io/llms/gear-history/derek-roddy.md).
+
+## Endorsement History
+
+Dated brand-endorsement timeline: [Derek Roddy's endorsement history](https://metalforge.io/llms/endorsements/derek-roddy.md).
 
 ---
 

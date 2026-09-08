@@ -63,6 +63,22 @@ Beyond his drumming, Benante is Anthrax's main composer and a talented graphic a
 - [Evans Drumheads](https://www.daddario.com/evans)
 - [Roland Electronics](https://www.roland.com)
 
+## Endorsements
+
+- [Tama Drums](https://www.tama.com)
+- [Paiste Cymbals](https://www.paiste.com)
+- [Vic Firth Sticks](https://vicfirth.zildjian.com)
+- [Evans Drumheads](https://www.daddario.com/evans)
+- [Roland Electronics](https://www.roland.com)
+
+## Endorsements
+
+- [Tama Drums](https://www.tama.com)
+- [Paiste Cymbals](https://www.paiste.com)
+- [Vic Firth Sticks](https://vicfirth.zildjian.com)
+- [Evans Drumheads](https://www.daddario.com/evans)
+- [Roland Electronics](https://www.roland.com)
+
 ## Notable Performances
 
 - Indians - Drumeo Breakdown (2023)
@@ -124,6 +140,18 @@ Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
 - Counted in our most-used gear brands study. [Most-Used Drum & Cymbal Brands in Metal](https://metalforge.io/studies/most-used-gear-brands-metal)
 - Counted in our drum endorsement landscape study. [The Drum Endorsement Landscape in Metal](https://metalforge.io/studies/drum-endorsement-landscape)
+
+## Gear Evolution
+
+Full album-by-album gear evolution: [Charlie Benante's gear evolution timeline](https://metalforge.io/llms/evolution/charlie-benante.md).
+
+## Gear Price History
+
+Historical gear pricing and value: [Charlie Benante's gear price history](https://metalforge.io/llms/gear-history/charlie-benante.md).
+
+## Endorsement History
+
+Dated brand-endorsement timeline: [Charlie Benante's endorsement history](https://metalforge.io/llms/endorsements/charlie-benante.md).
 
 ---
 

@@ -60,6 +60,20 @@ Ward's drumming style combined jazz influences with proto-metal power, creating 
 - [Vic Firth Sticks](https://vicfirth.zildjian.com)
 - [Remo Drumheads](https://remo.com)
 
+## Endorsements
+
+- [Ludwig Drums](https://www.ludwig-drums.com)
+- [Paiste Cymbals](https://www.paiste.com)
+- [Vic Firth Sticks](https://vicfirth.zildjian.com)
+- [Remo Drumheads](https://remo.com)
+
+## Endorsements
+
+- [Ludwig Drums](https://www.ludwig-drums.com)
+- [Paiste Cymbals](https://www.paiste.com)
+- [Vic Firth Sticks](https://vicfirth.zildjian.com)
+- [Remo Drumheads](https://remo.com)
+
 ## Notable Performances
 
 - 10 Times Bill Ward Was the Best Drummer on Earth (2021)
@@ -197,6 +211,18 @@ Full breakdown: [Bill Ward's pedal setup](https://metalforge.io/pedals/setups/bi
 
 - Counted in our most-used gear brands study. [Most-Used Drum & Cymbal Brands in Metal](https://metalforge.io/studies/most-used-gear-brands-metal)
 - Counted in our drum endorsement landscape study. [The Drum Endorsement Landscape in Metal](https://metalforge.io/studies/drum-endorsement-landscape)
+
+## Gear Evolution
+
+Full album-by-album gear evolution: [Bill Ward's gear evolution timeline](https://metalforge.io/llms/evolution/bill-ward.md).
+
+## Gear Price History
+
+Historical gear pricing and value: [Bill Ward's gear price history](https://metalforge.io/llms/gear-history/bill-ward.md).
+
+## Endorsement History
+
+Dated brand-endorsement timeline: [Bill Ward's endorsement history](https://metalforge.io/llms/endorsements/bill-ward.md).
 
 ---
 

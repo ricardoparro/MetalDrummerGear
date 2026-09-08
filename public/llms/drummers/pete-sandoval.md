@@ -58,6 +58,18 @@ According to AllMusic's Jason Birchmeier, Sandoval "challenges one's perception 
 - [Sabian Cymbals](https://www.sabian.com)
 - [Evans Drumheads](https://www.daddario.com/evans)
 
+## Endorsements
+
+- [ddrum Drums](https://www.ddrum.com)
+- [Sabian Cymbals](https://www.sabian.com)
+- [Evans Drumheads](https://www.daddario.com/evans)
+
+## Endorsements
+
+- [ddrum Drums](https://www.ddrum.com)
+- [Sabian Cymbals](https://www.sabian.com)
+- [Evans Drumheads](https://www.daddario.com/evans)
+
 ## Notable Performances
 
 - Morbid Angel - Fall from Grace (Drum Cam) (2023)
@@ -111,6 +123,18 @@ MetalForge has 3 signature lick tutorial(s) for Pete Sandoval:
 - [Dominate Blast & Double-Bass Onslaught](https://metalforge.io/drummers/pete-sandoval/licks/pete-sandoval-dominate)
 
 Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
+
+## Gear Evolution
+
+Full album-by-album gear evolution: [Pete Sandoval's gear evolution timeline](https://metalforge.io/llms/evolution/pete-sandoval.md).
+
+## Gear Price History
+
+Historical gear pricing and value: [Pete Sandoval's gear price history](https://metalforge.io/llms/gear-history/pete-sandoval.md).
+
+## Endorsement History
+
+Dated brand-endorsement timeline: [Pete Sandoval's endorsement history](https://metalforge.io/llms/endorsements/pete-sandoval.md).
 
 ---
 

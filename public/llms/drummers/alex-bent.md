@@ -63,6 +63,22 @@ Bent's background in technical death metal—with bands like Brain Drill, Arkaik
 - [Remo Drumheads](https://remo.com)
 - [Axis Percussion](https://www.axispercussion.com)
 
+## Endorsements
+
+- [Pearl Drums](https://pearldrum.com)
+- [Zildjian Cymbals](https://zildjian.com)
+- [Vic Firth Sticks](https://vicfirth.zildjian.com)
+- [Remo Drumheads](https://remo.com)
+- [Axis Percussion](https://www.axispercussion.com)
+
+## Endorsements
+
+- [Pearl Drums](https://pearldrum.com)
+- [Zildjian Cymbals](https://zildjian.com)
+- [Vic Firth Sticks](https://vicfirth.zildjian.com)
+- [Remo Drumheads](https://remo.com)
+- [Axis Percussion](https://www.axispercussion.com)
+
 ## Notable Performances
 
 - Trivium - Beyond Oblivion (Alex Bent Drum Playthrough) (2017)
@@ -148,6 +164,18 @@ Full breakdown: [Alex Bent's pedal setup](https://metalforge.io/pedals/setups/al
 
 - Counted in our most-used gear brands study. [Most-Used Drum & Cymbal Brands in Metal](https://metalforge.io/studies/most-used-gear-brands-metal)
 - Counted in our drum endorsement landscape study. [The Drum Endorsement Landscape in Metal](https://metalforge.io/studies/drum-endorsement-landscape)
+
+## Gear Evolution
+
+Full album-by-album gear evolution: [Alex Bent's gear evolution timeline](https://metalforge.io/llms/evolution/alex-bent.md).
+
+## Gear Price History
+
+Historical gear pricing and value: [Alex Bent's gear price history](https://metalforge.io/llms/gear-history/alex-bent.md).
+
+## Endorsement History
+
+Dated brand-endorsement timeline: [Alex Bent's endorsement history](https://metalforge.io/llms/endorsements/alex-bent.md).
 
 ---
 

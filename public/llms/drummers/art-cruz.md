@@ -65,6 +65,24 @@ Before Lamb of God, Cruz built his reputation through extensive work with Winds 
 - [Trick Pedals](https://www.trickdrums.com)
 - [Gibraltar Hardware](https://www.gibraltarhardware.com)
 
+## Endorsements
+
+- [Ludwig Drums](https://www.ludwig-drums.com)
+- [Zildjian Cymbals](https://zildjian.com)
+- [Vic Firth Sticks](https://vicfirth.zildjian.com)
+- [Evans Drumheads](https://www.daddario.com/evans)
+- [Trick Pedals](https://www.trickdrums.com)
+- [Gibraltar Hardware](https://www.gibraltarhardware.com)
+
+## Endorsements
+
+- [Ludwig Drums](https://www.ludwig-drums.com)
+- [Zildjian Cymbals](https://zildjian.com)
+- [Vic Firth Sticks](https://vicfirth.zildjian.com)
+- [Evans Drumheads](https://www.daddario.com/evans)
+- [Trick Pedals](https://www.trickdrums.com)
+- [Gibraltar Hardware](https://www.gibraltarhardware.com)
+
 ## Notable Performances
 
 - Art Cruz - Lamb of God - Laid to Rest (Drum Cam) (2022)
@@ -154,6 +172,18 @@ Full breakdown: [Art Cruz's pedal setup](https://metalforge.io/pedals/setups/art
 
 - Counted in our most-used gear brands study. [Most-Used Drum & Cymbal Brands in Metal](https://metalforge.io/studies/most-used-gear-brands-metal)
 - Counted in our drum endorsement landscape study. [The Drum Endorsement Landscape in Metal](https://metalforge.io/studies/drum-endorsement-landscape)
+
+## Gear Evolution
+
+Full album-by-album gear evolution: [Art Cruz's gear evolution timeline](https://metalforge.io/llms/evolution/art-cruz.md).
+
+## Gear Price History
+
+Historical gear pricing and value: [Art Cruz's gear price history](https://metalforge.io/llms/gear-history/art-cruz.md).
+
+## Endorsement History
+
+Dated brand-endorsement timeline: [Art Cruz's endorsement history](https://metalforge.io/llms/endorsements/art-cruz.md).
 
 ---
 

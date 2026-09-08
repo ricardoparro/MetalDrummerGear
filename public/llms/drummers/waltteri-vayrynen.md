@@ -59,6 +59,18 @@ In 2020, while still in Paradise Lost, he joined Bodom After Midnight — the pr
 - [Sabian Cymbals](https://sabian.com)
 - [Wincent Drumsticks](https://www.wincentdrumsticks.com)
 
+## Endorsements
+
+- [Pearl Drums](https://pearldrum.com)
+- [Sabian Cymbals](https://sabian.com)
+- [Wincent Drumsticks](https://www.wincentdrumsticks.com)
+
+## Endorsements
+
+- [Pearl Drums](https://pearldrum.com)
+- [Sabian Cymbals](https://sabian.com)
+- [Wincent Drumsticks](https://www.wincentdrumsticks.com)
+
 ## Notable Performances
 
 - Waltteri Väyrynen: Paradise Lost - Forsaken (live drum cam, Athens '22) (2022)
@@ -124,6 +136,18 @@ Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 ## Study Rankings
 
 - Counted in our most-used gear brands study. [Most-Used Drum & Cymbal Brands in Metal](https://metalforge.io/studies/most-used-gear-brands-metal)
+
+## Gear Evolution
+
+Full album-by-album gear evolution: [Waltteri Väyrynen's gear evolution timeline](https://metalforge.io/llms/evolution/waltteri-vayrynen.md).
+
+## Gear Price History
+
+Historical gear pricing and value: [Waltteri Väyrynen's gear price history](https://metalforge.io/llms/gear-history/waltteri-vayrynen.md).
+
+## Endorsement History
+
+Dated brand-endorsement timeline: [Waltteri Väyrynen's endorsement history](https://metalforge.io/llms/endorsements/waltteri-vayrynen.md).
 
 ---
 

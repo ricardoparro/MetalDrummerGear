@@ -25,6 +25,7 @@ import {
   generateGuideFaqSchema
 } from '../data/soundLikeGuides';
 import { getAllBeginnerGuides } from '../data/beginnerGuides';
+import { GENRE_GEAR_GUIDES_SUMMARY } from '../data/genreGearGuides-summary';
 import { updateSoundLikeGuideMeta } from '../utils/ogMetaTags';
 
 // ==========================================
@@ -33,6 +34,7 @@ import { updateSoundLikeGuideMeta } from '../utils/ogMetaTags';
 export function GuidesHubPage({ theme, onBack, onSelectGuide }) {
   const guides = getAllSoundLikeGuides();
   const beginnerGuides = getAllBeginnerGuides();
+  const genreGearGuides = Object.values(GENRE_GEAR_GUIDES_SUMMARY);
   
   useEffect(() => {
     // Update OG meta for hub page
@@ -75,7 +77,7 @@ export function GuidesHubPage({ theme, onBack, onSelectGuide }) {
         </Text>
         <View style={styles.statsBadges}>
           <View style={[styles.statBadge, { backgroundColor: theme.primary + '20' }]}>
-            <Text style={[styles.statNumber, { color: theme.primary }]}>{guides.length + beginnerGuides.length}</Text>
+            <Text style={[styles.statNumber, { color: theme.primary }]}>{guides.length + beginnerGuides.length + genreGearGuides.length}</Text>
             <Text style={[styles.statLabel, { color: theme.secondaryText }]}>Guides</Text>
           </View>
           <View style={[styles.statBadge, { backgroundColor: theme.primary + '20' }]}>
@@ -155,6 +157,35 @@ export function GuidesHubPage({ theme, onBack, onSelectGuide }) {
           ))}
         </View>
       </View>
+
+      {/* Genre Gear Guides Grid (Issue #7158, residual half of #3956) */}
+      {genreGearGuides.length > 0 && (
+        <View style={styles.guidesSection}>
+          <Text style={[styles.sectionTitle, { color: theme.text }]}>🛠️ Best Gear by Genre</Text>
+          <View style={styles.guidesGrid}>
+            {genreGearGuides.map((guide) => (
+              <TouchableOpacity
+                key={guide.slug}
+                style={[styles.guideCard, { backgroundColor: theme.card, borderColor: theme.border }]}
+                onPress={() => onSelectGuide(guide.slug)}
+                accessibilityLabel={`Read guide: ${guide.title}`}
+              >
+                <View style={styles.guideCardHeader}>
+                  <Text style={[styles.guideGenre, { color: theme.secondaryText }]}>
+                    {guide.genre}
+                  </Text>
+                </View>
+                <Text style={[styles.guideDrummerName, { color: theme.text }]}>
+                  {guide.title}
+                </Text>
+                <View style={styles.guideCardFooter}>
+                  <Text style={[styles.guideArrow, { color: theme.primary }]}>→</Text>
+                </View>
+              </TouchableOpacity>
+            ))}
+          </View>
+        </View>
+      )}
 
       {/* SEO Content Section */}
       <View style={[styles.seoSection, { backgroundColor: theme.card }]}>

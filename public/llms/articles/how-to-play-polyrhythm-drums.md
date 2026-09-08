@@ -13,6 +13,19 @@ Brann Dailor of Mastodon is one of the most melodic polyrhythmic drummers in met
 
 This tutorial builds the polyrhythmic vocabulary step by step: understanding what polyrhythm is, learning to feel 3 against 4, applying odd meters in metal contexts, and studying specific patterns from Brann Dailor, Danny Carey, and Tomas Haake.
 
+## Polyrhythm Opens Metal's Deepest Musical Territory
+
+Polyrhythmic drumming is where metal becomes genuinely compositional. The drummers who command this vocabulary — Brann Dailor, Danny Carey, Tomas Haake — are not just keeping time; they are co-composers building rhythmic architecture that defines the music's character.
+
+The five steps in this guide give you the foundation: understand 3 against 4, learn odd time signatures, study Dailor's melodic approach, understand Carey's sacred geometry framework, and apply Haake's djent polyrhythm over 4/4. Each of these approaches is a distinct school of polyrhythmic thought — mastering all three gives you the complete progressive metal rhythmic vocabulary.
+
+Explore the complete profiles and gear setups of these polyrhythmic masters:
+- Brann Dailor (/drummer/brann-dailor) — DW kit, Zildjian cymbals, melodic tuning
+- Danny Carey (/drummer/danny-carey) — Sonor kit, Paiste cymbals, octobans and electronics
+- Tomas Haake (/drummer/tomas-haake) — Sonor SQ2, Sabian HHX, Wincent sticks
+
+Also visit the polyrhythms technique page (/technique/polyrhythms) and odd time signatures page (/technique/odd-time-signatures) for additional study material.
+
 ## Key Facts
 
 - Polyrhythm places two or more contrasting rhythm patterns simultaneously — the most common in metal is 3 against 4
@@ -39,4 +52,4 @@ A: "Schism" by Tool is the classic entry point for odd time signatures in metal 
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

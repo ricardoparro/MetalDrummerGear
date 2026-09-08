@@ -46,6 +46,14 @@ Bostaph became a Paiste artist himself in December 1992, and the RUDE series he 
 
 The RUDE 14-inch hi-hats gave Bostaph the raw, cutting chick needed for the album's fast passages, while the 17 and 19-inch Wild Crashes handled riff-transition accents with the trashy, unrefined character the RUDE series is known for. The RUDE 20-inch Ride's unlathed surface produced a rawer, less controlled stick sound than a traditional ride — appropriate for an album that needed to sound aggressive rather than polished. The 18-inch China above the floor tom kept the exotic, trashy accent that has appeared in some form on every Slayer studio album.
 
+## The Album That Opened the Bostaph Era
+
+Divine Intervention isn't remembered as Slayer's best album, but it may be its most consequential from a personnel standpoint: it's the record that proved the band could survive losing Dave Lombardo, at least commercially and, for most fans, artistically. The #8 Billboard debut — Slayer's highest to that point — settled the commercial question almost immediately. The Tama Artstar II kit, the Paiste RUDE cymbals that Bostaph brought to the band as a newly signed Paiste artist, and the Toby Wright/Rick Rubin production at Ocean Way and Sound City document a drummer stamping his own gear identity onto the band from the very first session.
+
+For drummers studying the complete Slayer catalog, Divine Intervention is the opening chapter of a four-album arc that Paul Bostaph would complete with Diabolus in Musica (1998) and God Hates Us All (2001), before Dave Lombardo's own return on [Christ Illusion](/articles/christ-illusion-drum-setup) in 2006. It documents Bostaph's tighter, more mechanically precise style right at the moment it entered the band's discography — and the Paiste cymbal relationship that began here would follow him through nearly the rest of his career, interrupted only by Diabolus in Musica's one-album Zildjian A Custom chapter.
+
+See the [Seasons in the Abyss drum setup](/articles/seasons-in-the-abyss-drum-setup) for Dave Lombardo's final studio album before this one, the [Diabolus in Musica drum setup](/articles/diabolus-in-musica-drum-setup) for the gear chapter that followed, and the [Paul Bostaph drummer profile](/drummer/paul-bostaph) for his complete career overview from Forbidden through Slayer's final tour. For technique breakdowns, see [how to sound like Paul Bostaph](/guides/how-to-sound-like-paul-bostaph).
+
 ## Key Facts
 
 - Released September 27, 1994 — Paul Bostaph's first studio album with Slayer, replacing Dave Lombardo
@@ -87,4 +95,4 @@ A: Divine Intervention debuted at #8 on the Billboard 200 — Slayer's highest U
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

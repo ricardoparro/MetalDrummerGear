@@ -52,6 +52,17 @@ The A Custom 14" hi-hats provided the articulation foundation for *Are You Dead 
 
 The Zildjian K Custom 20" ride brought a darker, more complex character into the setup — its warmer bell and body sound creating a different textural dimension from the Paiste 2002 ride's brighter character. This combination of A Custom crashes and K Custom ride is a classic Zildjian pairing that balances cut and warmth across different cymbal functions.
 
+## The Commercial Pivot: Are You Dead Yet? and the Beginning of the Pearl Era
+
+*Are You Dead Yet?* (2005) is the most significant gear transition album in Jaska Raatikainen's discography — the record where the Tama Starclassic / Paiste 2002 combination that defined CoB's most celebrated era gave way to the Pearl Masters / Zildjian A Custom setup that would carry through the remainder of the band's career. It also documents the most deliberate artistic evolution in the band's approach: a conscious move toward accessibility, groove, and commercial appeal from the technical extremity of *Follow the Reaper* and *Hate Crew Deathroll*.
+
+The drumming on *Are You Dead Yet?* rewards careful listening precisely because it is not the most technically demanding Raatikainen performance — it is the most stylistically adaptive. Tracks like "Living Dead Beat" and "Are You Dead Yet?" demonstrate his ability to serve groove-oriented arrangements with the same precision and musical intelligence he brought to blast-beat-dominant compositions. The Pearl Eliminator's cam-adjustable response and the A Custom's bright precision were the right tools for this broader brief.
+
+**For Drummers Studying Are You Dead Yet?:**
+Start with "In Your Face" for continuity with the Tama era: the full-velocity passages here show that the Pearl Masters / Eliminator combination serves high-tempo playing as effectively as the Starclassic / Iron Cobra. Then move to the title track for the groove adaptation: observe how the Eliminator's controlled feel at 160 BPM differs from the Iron Cobra's approach to sustained-velocity patterns. Finally, listen to "If You Want Peace... Prepare for War" for the K Custom ride's contribution — a deliberately darker textural element in a setup that otherwise favours brightness and precision.
+
+For the complete picture of how this album fits within Jaska Raatikainen's gear arc — from the Tama era through the Pearl transition and into *Blooddrunk* — see the [Jaska Raatikainen drummer profile](/drummer/jaska-raatikainen), the [Hate Crew Deathroll drum setup article](/articles/hate-crew-deathroll-drum-setup), and the [Blooddrunk drum setup article](/articles/blooddrunk-drum-setup).
+
 ## Key Facts
 
 - Released September 26, 2005 — Children of Bodom's fifth album and most commercially successful
@@ -90,4 +101,4 @@ A: *Are You Dead Yet?* (2005) represented a deliberate shift in Children of Bodo
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

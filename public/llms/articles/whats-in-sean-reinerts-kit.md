@@ -23,10 +23,10 @@ This article celebrates his gear and approach — a tribute to the man who prove
 
 ## Gear Breakdown
 
-- **Drums:** Various (Pearl, Tama, Mapex) Changed throughout career (Natural/Dark finishes preferred finish)
+- **Drums:** Various (Tama, DW) Changed throughout career (Natural/Dark finishes preferred finish)
 - **Snare:** Various Multiple snares used, 14" x 5" to 14" x 6.5"
-- **Cymbals:** Sabian — Sabian AA / AAX / HHX
-- **Hardware / Pedals:** DW 5000 / Pearl Eliminator; Professional series; Roc-N-Soc Nitro; 5A or similar jazz-weight sticks
+- **Cymbals:** Zildjian — Zildjian A / K / K Custom
+- **Hardware / Pedals:** DW 5000 / Pearl P-100P; Professional series; Roc-N-Soc Nitro; 5A or similar jazz-weight sticks
 - **Heads:** Remo Ambassador or Coated Emperor (context-dependent)
 - **Snare tuning:** Variable — jazz-sensitive to metal-aggressive
 
@@ -66,9 +66,9 @@ Sean collected snares throughout his career, often using different drums for dif
 
 The snare drum was Sean's primary voice. He spoke through it with jazz vocabulary in a death metal accent.
 
-### Sabian Sophistication
+### Zildjian Sophistication
 
-Sean Reinert's Sabian cymbals reflected his musical priorities: complexity, musicality, and dynamic range. Unlike the wall-of-cymbals approach favored by many metal drummers, Sean chose cymbals that offered tonal sophistication and response to touch dynamics.
+Sean Reinert's Zildjian cymbals reflected his musical priorities: complexity, musicality, and dynamic range. Unlike the wall-of-cymbals approach favored by many metal drummers, Sean chose cymbals that offered tonal sophistication and response to touch dynamics, moving from the brighter A Series on Human and Focus to the darker K and K Custom lines by Cynic's 2008 reunion, Traced in Air.
 
 **The Ride Cymbal:**
 For Sean, the ride wasn't just for steady riding — it was a lead instrument. His jazz training made the ride cymbal a primary voice, used for complex patterns, bell accents, and crash-ride textures. He favored rides with clear stick definition and complex wash — cymbals that rewarded subtle technique rather than just loud playing.
@@ -80,9 +80,39 @@ Sean's hi-hat work drew directly from jazz drumming. Foot splashes, subtle openi
 Rather than using crashes purely for explosive accents, Sean integrated them into his musical vocabulary. Crash rolls, swells, and subtle touches added texture to Cynic's atmospheric sections. His cymbal choices reflected this — musical rather than merely loud.
 
 **The Complete Sound:**
-Sean's cymbal setup created a cohesive tonal palette. The brightness of AAX crashes balanced against the complexity of HHX rides, with the musicality of AA hi-hats providing foundation. Every cymbal served the music, not the drummer's ego.
+Sean's cymbal setup created a cohesive tonal palette. The brightness of A Series crashes balanced against the complexity of K Custom rides, with the musicality of the hi-hats providing foundation. Every cymbal served the music, not the drummer's ego.
 
 This was the sound of jazz meeting metal — sophisticated, dynamic, and utterly unique.
+
+## The Man Who Made Death Metal Swing
+
+Sean Reinert left us too soon. His passing on January 24, 2020, robbed music of one of its most innovative drummers — a true pioneer who bridged worlds that seemed unbridgeable.
+
+**What Made Sean Irreplaceable:**
+
+- **Vision:** He didn't just add jazz licks to metal; he fundamentally reimagined what death metal drumming could be. "Human" and "Focus" weren't experiments — they were statements of a complete musical philosophy.
+
+- **Technique in service of music:** Sean had formidable chops, but he never showed off. Every ghost note, every polyrhythmic passage, every dynamic shift served the composition. Ego never drove his playing.
+
+- **Courage:** Playing jazz-influenced drums in 1991 death metal took courage. The scene was insular and judgmental. Sean did it anyway, trusting that real musicianship transcends genre boundaries.
+
+- **Influence:** Every progressive metal drummer working today builds on foundations Sean helped lay. When bands like Opeth, Gojira, or modern Cynic use sophisticated drum vocabulary, they're walking paths Sean helped clear.
+
+**For Drummers Studying Sean:**
+
+Don't just learn his patterns — understand his approach. Take jazz lessons. Develop real four-way independence. Practice dynamics until you can play a whisper or a thunderclap with equal control. Study music theory. Listen beyond metal.
+
+Most importantly, remember that technical ability means nothing without musical taste. Sean could play anything, but he only played what the music needed. That restraint is harder to develop than any technical skill.
+
+**The Legacy:**
+
+"Human" and "Focus" remain essential listening for any serious drummer. They prove that extreme metal can have sophistication, that power and nuance coexist, and that jazz vocabulary belongs anywhere a creative drummer wants to put it.
+
+Sean Reinert played drums like no one before or since. He took jazz into the heart of death metal and emerged with something entirely new. That vision, that courage, that musicality — it changed everything.
+
+Rest in power, Sean. The ghosts notes echo still.
+
+🥁 *"How long has this gone on?"* — the music plays forever. 🥁
 
 ## Key Facts
 
@@ -104,18 +134,18 @@ This was the sound of jazz meeting metal — sophisticated, dynamic, and utterly
 
 **Q: What drum kit did Sean Reinert use throughout his career?**
 
-A: Sean Reinert used several kits across his career, including Pearl, Tama, and Mapex setups depending on the project. He favored maple shells for their warm response, working with bass drums in both 20 and 22 inch sizes to suit jazz and death metal contexts. His configurations typically included 10 and 12 inch rack toms and 14 and 16 inch floor toms, balancing melodic sensitivity with the power required for technical death metal.
+A: Sean Reinert used a Tama Artstar II birch shell kit throughout his tenure in Death and on Cynic's Focus, then upgraded to a DW Collector's maple shell pack for Cynic's 2008 reunion album, Traced in Air. He favored maple and birch shells for their warm response, working with bass drums in both 20 and 22 inch sizes to suit jazz and death metal contexts. His configurations typically included 10 and 12 inch rack toms and 14 and 16 inch floor toms, balancing melodic sensitivity with the power required for technical death metal.
 
 **Q: What cymbals did Sean Reinert use throughout his career?**
 
-A: Sean Reinert was closely associated with Sabian cymbals, drawing from the AA, AAX, and HHX lines. His setup typically featured 14 inch AA or HHX Evolution hi-hats, an AA 16 inch crash paired with an AAX 18 inch crash, a large HHX or AA ride between 20 and 22 inches, an 18 inch AAX Chinese, and an 8 or 10 inch splash. Sabian's darker, more complex tones complemented his jazz-influenced approach to death metal.
+A: Sean Reinert was closely associated with Zildjian cymbals throughout his career, drawing from the A, K, and K Custom lines. He used Zildjian A Series cymbals on Death's Human (1991), then switched to the darker Zildjian K Series for Cynic's Focus (1993), before upgrading to Zildjian K Custom cymbals for Cynic's 2008 reunion album, Traced in Air. His setup typically featured 14 inch hi-hats, 16 and 18 inch crashes, a 20 to 22 inch ride, an 18 inch China, and an 8 or 10 inch splash. Zildjian's darker, more complex K Series tones complemented his jazz-influenced approach to death metal.
 
 **Q: How much does Sean Reinert's signature kit cost?**
 
-A: Because Sean Reinert used different brands at different points in his career, assembling a representative setup requires flexibility. A quality maple shell pack from Pearl, Tama, or Mapex in a similar configuration runs $3,000 to $5,000. Adding a full Sabian AA, AAX, and HHX cymbal setup brings the total to roughly $7,000 to $10,000. Individual snares in his preferred 14 inch depths range from $300 to $700 each.
+A: Because Sean Reinert's gear evolved across his career, assembling a representative setup requires flexibility. A quality maple or birch shell pack from Tama or DW in a similar configuration runs $3,000 to $5,000. Adding a full Zildjian A, K, and K Custom cymbal setup brings the total to roughly $1,800 to $2,500. Individual snares in his preferred 14 inch depths range from $300 to $700 each.
 
 **Source:** https://metalforge.io/articles/whats-in-sean-reinerts-kit
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

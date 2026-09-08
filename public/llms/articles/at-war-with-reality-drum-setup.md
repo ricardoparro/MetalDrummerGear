@@ -24,7 +24,7 @@ This article breaks down Adrian Erlandsson's drum setup for At War with Reality 
 - **Drums:** Tama Tama Starclassic Bubinga (Transparent black finish over Bubinga shells finish)
 - **Snare:** Tama Tama Starclassic Bubinga Snare, 14" x 6.5"
 - **Cymbals:** Sabian — Sabian AAX / HHX Series
-- **Hardware / Pedals:** Czarcie Kopyto double pedal; Professional Starclassic-series hi-hat stand; Vic Firth signature model
+- **Hardware / Pedals:** Czarcie Kopyto double pedal; Professional Starclassic-series hi-hat stand; Vic Firth Rock Nylon Tip (custom-printed At the Gates artist-endorsement batch)
 - **Heads:** Remo or Evans coated batter head, standard for Tama Starclassic Bubinga snares of the era
 - **Snare tuning:** Medium-high tension for articulation with added body from the deeper shell
 
@@ -51,6 +51,24 @@ Erlandsson's cymbal setup for At War with Reality moved him firmly into Sabian's
 The AAX Iso 20" crash and AAX Paragon 19" China give the record its accent character — the China cymbal in particular carries forward the same aggressive, trashy role it played on Slaughter of the Soul, marking riff transitions throughout tracks like "Death and the Labyrinth" and "The Head of the Hydra" with the same rhythmic function, now delivered through more refined, professionally engineered metal.
 
 This Sabian AAX/HHX combination is the setup Erlandsson carried over from his Paradise Lost years and has kept largely unchanged since — a stable, mature cymbal voice built over nearly two decades of professional recording and touring, in contrast to the studio-availability cymbal choices of the Slaughter of the Soul sessions.
+
+## Proof That the Gothenburg Blueprint Still Held
+
+At War with Reality answered the question every reunion album faces: could At the Gates still deliver the sound that made Slaughter of the Soul a genre-defining record, nineteen years and a completely changed metal landscape later? The answer was an emphatic yes, and Adrian Erlandsson's drumming was central to that continuity — the same D-beat and blast-beat discipline, now delivered through a far more developed, professional setup than the budget gear of 1994.
+
+The journey from the Pearl Export-era studio kit of Slaughter of the Soul to the Tama Starclassic Bubinga rig documented on At War with Reality traces two decades of professional growth: years with The Haunted, Cradle of Filth, and Paradise Lost that turned an underground Gothenburg drummer into a seasoned international touring and recording musician. That the songs still connected directly back to 1995 — while sounding unmistakably like a 2014 record — is a testament to both the durability of the band's original vocabulary and the quality of the modern gear and production behind it.
+
+**Key takeaways for drummers studying this album:**
+- A drummer's core vocabulary can remain intact across decades even as the surrounding gear matures dramatically
+- Returning to the same studio and engineer for a comeback record can anchor a band's sound across a long gap
+- Professional-grade hardware (Starclassic Bubinga, Sabian AAX/HHX) gives modern mix engineers more to work with than budget studio gear ever could
+- Endurance for full-length extreme metal recording is a skill that requires rebuilding after years away from the format
+
+**Explore related content at MetalForge:**
+- [Slaughter of the Soul drum setup](/articles/slaughter-of-the-soul-drum-setup) — Erlandsson's original 1995 gear and the album that started it all
+- [To Drink from the Night Itself drum setup](/articles/to-drink-from-the-night-itself-drum-setup) — the 2018 follow-up recorded with a new lineup
+- [Adrian Erlandsson drummer profile](/drummer/adrian-erlandsson) — his full career across At the Gates, The Haunted, Cradle of Filth, and Paradise Lost
+- [Best Cymbals for Death Metal](/guides/best-cymbals-for-death-metal) — gear guide covering the Sabian and Zildjian lines favored by extreme metal drummers
 
 ## Key Facts
 
@@ -89,4 +107,4 @@ A: Yes. At the Gates disbanded in 1996, the year after releasing Slaughter of th
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

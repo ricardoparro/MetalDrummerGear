@@ -54,6 +54,16 @@ For World Painted Blood's production, this suited Fidelman's intention to create
 
 The China cymbal above the floor tom — a constant across every Lombardo-era Slayer album from Show No Mercy through World Painted Blood — completed the setup. It is perhaps the most persistent single piece of gear in the entire Lombardo Slayer discography.
 
+## The Last Arc Entry
+
+World Painted Blood is the record that closes Dave Lombardo's Slayer story — not with a Grammy or a genre-defining peak, but with a solid, direct thrash album that demonstrated everything he had developed across 26 years with the band. The Tama Starclassic Maple, the Zildjian K Custom Dark cymbals, the Iron Cobra 900 pedals, the Vic Firth signature sticks: this was the final configuration of the Lombardo Slayer rig, captured by Greg Fidelman at Henson Recording Studios before the 2013 departure.
+
+The album's #17 Billboard 200 debut, "Psychopathy Red"'s controversy, and the production that returned to a drier, more aggressive aesthetic after Christ Illusion's polished Grammy moment — all of these positioned World Painted Blood as a fitting conclusion to a chapter that had started with a teenager playing a budget Ludwig kit on Show No Mercy.
+
+For drummers studying the complete Lombardo catalog, this is the final entry. After Show No Mercy's raw debut, Reign in Blood's genre-defining peak, South of Heaven's groove transition, the Christ Illusion comeback, and everything in between — World Painted Blood is where the arc ends.
+
+See the [Christ Illusion drum setup](/articles/christ-illusion-drum-setup) for the 2006 Grammy-winning comeback chapter, the [Reign in Blood drum setup](/articles/reign-in-blood-drum-setup) for the 1986 speed apex, and the [Dave Lombardo drummer profile](/drummers/dave-lombardo) for the complete career overview across both Slayer eras and beyond.
+
 ## Key Facts
 
 - Final Dave Lombardo Slayer studio album — departed during 2013 Repentless sessions
@@ -94,4 +104,4 @@ A: "Psychopathy Red" from World Painted Blood is about Soviet serial killer Andr
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

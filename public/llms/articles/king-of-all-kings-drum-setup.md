@@ -1,6 +1,6 @@
 # King of All Kings Drum Setup: Derek Roddy's Blast Beat Masterclass (2002)
 
-> How Derek Roddy tracked Hate Eternal's King of All Kings (2002) — the DW Collector's kit, Axis Longboard pedals, and freehand blast beat endurance that made it a technical death metal landmark.
+> How Derek Roddy tracked Hate Eternal's King of All Kings (2002) — the Tama Starclassic kit, Tama Speed Cobra pedals, and freehand blast beat endurance that made it a technical death metal landmark.
 
 **Type:** Kit Breakdown
 **Drummer(s):** [Derek Roddy](/llms/drummers/derek-roddy.md)
@@ -17,50 +17,56 @@ This article is a dedicated look at the King of All Kings sessions specifically 
 
 ## Gear Breakdown
 
-- **Drums:** DW DW Collector's Series Maple (Custom studio finish finish)
-- **Snare:** DW DW Collector's Series Maple, 14" x 5.5"
-- **Cymbals:** Sabian — Sabian HHX and AAX Series
-- **Hardware / Pedals:** Axis A Longboard Double Pedal; Vater 5B
+- **Drums:** Tama Tama Starclassic Maple (Custom studio finish finish)
+- **Snare:** Tama Tama Starclassic Maple, 14" x 6.5"
+- **Cymbals:** Meinl — Meinl Byzance and Mb20 Heavy Series
+- **Hardware / Pedals:** Speed Cobra 910 Double Pedal; Vater 5B
 - **Heads:** Evans Genera HD Dry (batter), Hazy 300 snare side (resonant)
 - **Snare tuning:** Medium-high tension for blast beat articulation
 
 ### The King of All Kings Session Kit
 
-For the King of All Kings sessions, Roddy tracked with the same DW Collector's Series Maple configuration that anchored his Hate Eternal era: a 22" x 18" kick, 10" and 12" rack toms, and 14" and 16" floor toms. The deeper-than-typical kick depth gave the album's low end the punch to sit under Rutan's down-tuned riffing without losing the articulation needed for the record's rapid single-kick and double-kick passages.
+For the King of All Kings sessions, Roddy tracked with the same Tama Starclassic Maple configuration that anchored his Hate Eternal era: a 22" x 18" kick, 10" and 12" rack toms, and 14" and 16" floor toms. The deeper-than-typical kick depth gave the album's low end the punch to sit under Rutan's down-tuned riffing without losing the articulation needed for the record's rapid single-kick and double-kick passages.
 
-Maple shells were the right call for a record built around sustained blast sections — the wood's balanced attack meant every stroke in a blast pattern spoke clearly instead of blurring into a wash, even during the longest sustained sections on the title track and "Thorns of Acacia." DW's True Pitch tuning hardware kept the kit locked in through a full studio day of extreme-tempo takes, a practical necessity when a single tom drifting out of tune could force a re-take of an entire section.
+Maple shells were the right call for a record built around sustained blast sections — the wood's balanced attack meant every stroke in a blast pattern spoke clearly instead of blurring into a wash, even during the longest sustained sections on the title track and "Thorns of Acacia." Tama's Starclassic hardware kept the kit locked in through a full studio day of extreme-tempo takes, a practical necessity when a single tom drifting out of tune could force a re-take of an entire section.
 
 ### Cutting Through Rutan's Wall of Riffs
 
-King of All Kings needed a snare that could hold its own against Erik Rutan's dense, down-tuned guitar tone without relying on a triggered sample. Roddy's 14" x 5.5" DW Collector's Maple, tuned medium-high, delivered the crack needed to stay audible through the album's thickest riff passages while remaining responsive enough for blast-tempo backbeat work.
+King of All Kings needed a snare that could hold its own against Erik Rutan's dense, down-tuned guitar tone without relying on a triggered sample. Roddy's 14" x 6.5" Tama Starclassic Maple, tuned medium-high, delivered the crack needed to stay audible through the album's thickest riff passages while remaining responsive enough for blast-tempo backbeat work.
 
 The session snare was left largely untriggered — Roddy's freehand technique produced consistent enough attack and volume on its own that Rutan's production could capture the acoustic performance directly, giving King of All Kings a rawer, more human-sounding blast section than many contemporaries that leaned on sample replacement.
 
-### Sabian HHX/AAX: Built to Survive the Sessions
+### Meinl Byzance/Mb20 Heavy: Built to Survive the Sessions
 
-Roddy's Sabian HHX/AAX setup on King of All Kings was chosen for durability and control as much as tone. The 14" HHX Stage Hi-Hats kept their definition during the album's longest sustained blast passages, where a washier hi-hat would have blurred into an indistinct texture. The AAX X-Plosion crash's fast decay let accents punch through and clear out before the next blast section resumed, which mattered on a record where blast beats made up the majority of the runtime.
+Roddy's Meinl Byzance/Mb20 Heavy setup on King of All Kings was chosen for durability and control as much as tone. The 14" Byzance Hi-Hats kept their definition during the album's longest sustained blast passages, where a washier hi-hat would have blurred into an indistinct texture. The Mb20 Heavy crash's fast decay let accents punch through and clear out before the next blast section resumed, which mattered on a record where blast beats made up the majority of the runtime.
 
-The HHX Raw Bell Dry Ride saw limited use given the album's blast-heavy structure, but provided a controlled, non-washy option for the handful of sections where Roddy dropped out of blast tempo. The AAX China added the aggressive punctuation Rutan's arrangements needed at song transitions.
+The Byzance Ride saw limited use given the album's blast-heavy structure, but provided a controlled, non-washy option for the handful of sections where Roddy dropped out of blast tempo. The Byzance China added the aggressive punctuation Rutan's arrangements needed at song transitions.
+
+## A Blast Beat Benchmark
+
+King of All Kings didn't need to be the fastest death metal record of 2002 to become one of the most influential — it needed to prove that extreme tempo could be sustained, not just flashed. Derek Roddy's freehand technique, backed by a Tama/Meinl setup chosen for reliability under pressure, delivered exactly that. The result is a record still studied by technical death metal drummers for how it balances speed, endurance, and clarity.
+
+For the full arc of Roddy's gear across his career, see [What's In Derek Roddy's Kit](/articles/whats-in-derek-roddys-kit). For his complete profile and other roster drummers, visit [his drummer page](/drummer/44).
 
 ## Key Facts
 
 - King of All Kings (2002) is the Hate Eternal record most associated with Roddy's technical peak
 - Freehand/gravity blast technique enabled sustained blast beats without tempo drift
-- DW Collector's Series kit and Axis Longboard pedals provided the response needed for the sessions
+- Tama Starclassic kit and Tama Speed Cobra pedals provided the response needed for the sessions
 - Erik Rutan's production favored captured performance over heavy triggering
 - The record remains a reference point for technical death metal drumming endurance
 - 22" x 18" bass drum for low-end weight under down-tuned guitars
 - Maple shells preserved stroke definition during sustained blast sections
-- DW True Pitch hardware held tuning through extreme-tempo studio takes
+- Tama Starclassic hardware held tuning through extreme-tempo studio takes
 - Standard tom sizing kept fills predictable during high-pressure sessions
-- Estimated kit value: $4,000-6,000 (Collector's Series configuration)
-- Estimated snare value: $600-800
+- Estimated kit value: $3,000-5,500 (Starclassic Maple configuration)
+- Estimated snare value: $300-600
 
 ## Frequently Asked Questions
 
 **Q: What drum kit did Derek Roddy use on King of All Kings?**
 
-A: Derek Roddy tracked Hate Eternal's King of All Kings (2002) on a DW Collector's Series Maple kit — a 22" x 18" bass drum, 10" and 12" rack toms, and 14" and 16" floor toms, built from North American Hard Rock Maple shells. The kit's balanced attack and DW's True Pitch tuning hardware kept it stable through the album's extended blast beat sessions, which demanded consistent tuning across a full day of extreme-tempo takes.
+A: Derek Roddy tracked Hate Eternal's King of All Kings (2002) on a Tama Starclassic Maple kit — a 22" x 18" bass drum, 10" and 12" rack toms, and 14" and 16" floor toms, built from 100% maple shells. The kit's balanced attack and Tama's Starclassic hardware kept it stable through the album's extended blast beat sessions, which demanded consistent tuning across a full day of extreme-tempo takes.
 
 **Q: What technique did Derek Roddy use for the blast beats on King of All Kings?**
 
@@ -78,4 +84,4 @@ A: Roddy's studio approach on King of All Kings favored minimal triggering. His 
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

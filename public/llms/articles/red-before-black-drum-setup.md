@@ -1,6 +1,6 @@
 # Paul Mazurkiewicz's Drum Setup on Cannibal Corpse's 'Red Before Black' (2017)
 
-> Discover the drum kit, cymbals, and gear Paul Mazurkiewicz used to record Cannibal Corpse's Red Before Black (2017) — Erik Rutan's return as producer, the Pearl Reference/Meinl rig, and the album that set up Rutan's eventual move to guitar.
+> Discover the drum kit, cymbals, and gear Paul Mazurkiewicz used to record Cannibal Corpse's Red Before Black (2017) — Erik Rutan's return as producer, the Pearl Reference/Sabian rig, and the album that set up Rutan's eventual move to guitar.
 
 **Type:** Album Drum Setup
 **Drummer(s):** [Paul Mazurkiewicz](/llms/drummers/paul-mazurkiewicz.md)
@@ -15,13 +15,13 @@ The Rutan reunion mattered for reasons beyond this one record. Rutan — the for
 
 Critical reception was strong: Metal Injection rated the album 9/10 and Blabbermouth.net gave it 8.5/10, while AllMusic and MetalSucks both landed at 3.5 out of 5 stars and Angry Metal Guy scored it 3/5. Commercially, Red Before Black reached #95 on the US Billboard 200 and charted internationally, hitting #16 in Germany and #29 in both Austria and Switzerland. Alan Douches again handled mastering at West West Side Music.
 
-This article breaks down the Pearl Reference and Meinl configuration Mazurkiewicz brought back into the Mana Recording Studios sessions, Erik Rutan's return as producer, and the technical character of an album that closed out an era just before Rutan's role in the band changed forever.
+This article breaks down the Pearl Reference and Sabian configuration Mazurkiewicz brought back into the Mana Recording Studios sessions, Erik Rutan's return as producer, and the technical character of an album that closed out an era just before Rutan's role in the band changed forever.
 
 ## Gear Breakdown
 
 - **Drums:** Pearl Pearl Reference (mature endorsement configuration, 2017) (Custom finish (Pearl endorsement era) finish)
 - **Snare:** Pearl Pearl Free-Floating steel-shell snare, 14" x 6.5"
-- **Cymbals:** Meinl — Meinl Byzance (established endorsement, 2017)
+- **Cymbals:** Sabian — Sabian AAX (established endorsement, 2017)
 - **Hardware / Pedals:** Pearl Eliminator Double Bass Pedal; ddrum Acoustic Pro Triggers (live context); Vic Firth Paul Mazurkiewicz Signature
 - **Heads:** Remo Coated Ambassador (batter), Remo Diplomat Snare Side (resonant)
 - **Snare tuning:** Medium-high tension for cut and punch, mixed back into Rutan's denser Mana Recording Studios sound
@@ -40,11 +40,24 @@ The 14" x 6.5" Pearl Free-Floating steel-shell snare that had anchored every Maz
 
 The steel shell's naturally bright, cutting overtone profile continued to give the drum enough presence to stay legible against Red Before Black's guitar tracks, while the free-floating design kept the shell isolated from the mechanical stress of Mazurkiewicz's sustained backbeat playing across the album's two-part recording schedule.
 
-### Meinl Byzance: Restored to a Familiar Room
+### Sabian AAX: Restored to a Familiar Room
 
-The Meinl Byzance setup that had carried Mazurkiewicz through four consecutive albums needed no adjustment for Red Before Black — Meinl's hand-hammered bronze construction continued to deliver the fast attack and controlled decay that keeps the cymbals articulate against Cannibal Corpse's dense low end, whether tracked at Audiohammer Studios or, once again, at Mana Recording Studios.
+The Sabian AAX setup that had carried Mazurkiewicz through four consecutive albums needed no adjustment for Red Before Black — Sabian's hand-hammered bronze construction continued to deliver the fast attack and controlled decay that keeps the cymbals articulate against Cannibal Corpse's dense low end, whether tracked at Audiohammer Studios or, once again, at Mana Recording Studios.
 
 The 18" China remained the defining accent for riff transitions on tracks like "Code of the Slashers" and the title track, a role it has occupied in Mazurkiewicz's vocabulary across every era of his recorded career. Rutan's returning mix pushed the cymbals back into the denser, more compressed overall sound that critics associated with his production era.
+
+## The Last Album Before Everything Changed
+
+"Red Before Black" closes out the five-album run of Mazurkiewicz's unchanged Pearl Reference and Sabian rig with Erik Rutan restored to the producer's chair at his own Mana Recording Studios. Critically well-received — Metal Injection's 9/10 and Blabbermouth.net's 8.5/10 lead a strong set of reviews — the album stands as the final chapter of Rutan's career as a purely outside producer for the band.
+
+What makes Red Before Black significant in hindsight isn't just its return to the denser, more familiar Cannibal Corpse sound; it's the fact that within a few years, the producer behind the board would become the guitarist standing next to Mazurkiewicz on stage. That transition reshaped the sessions for Violence Unimagined (2021), the album that followed.
+
+For the complete Paul Mazurkiewicz CC gear arc around this record:
+- **The predecessor**: [A Skeletal Domain drum setup (2014)](/articles/skeletal-domain-drum-setup) — the one album produced by Mark Lewis at Audiohammer Studios
+- **The successor**: [Violence Unimagined drum setup (2021)](/articles/violence-unimagined-drum-setup) — Rutan's debut as a full band member
+- **The prior Rutan album**: [Torture drum setup (2012)](/articles/torture-drum-setup) — the last of Rutan's original three-album production streak
+- **Modern rig**: [Paul Mazurkiewicz drum setup](/articles/paul-mazurkiewicz-drum-setup) — Pearl Reference / Sabian / Pearl Eliminator
+- **Full profile**: [Paul Mazurkiewicz at MetalForge](/drummer/paul-mazurkiewicz)
 
 ## Key Facts
 
@@ -67,7 +80,7 @@ The 18" China remained the defining accent for riff transitions on tracks like "
 
 **Q: What kit did Paul Mazurkiewicz use on Red Before Black?**
 
-A: On Red Before Black (2017), Paul Mazurkiewicz played the same Pearl Reference kit documented across Kill (2006), Evisceration Plague (2009), Torture (2012), and A Skeletal Domain (2014) — dual 22-inch x 18-inch kick drums, a four-tom layout in maple/African mahogany hybrid shells, and his 14-inch x 6.5-inch Pearl Free-Floating steel-shell snare. His Meinl Byzance cymbal setup and Pearl Eliminator double bass pedal carried over unchanged.
+A: On Red Before Black (2017), Paul Mazurkiewicz played the same Pearl Reference kit documented across Kill (2006), Evisceration Plague (2009), Torture (2012), and A Skeletal Domain (2014) — dual 22-inch x 18-inch kick drums, a four-tom layout in maple/African mahogany hybrid shells, and his 14-inch x 6.5-inch Pearl Free-Floating steel-shell snare. His Sabian AAX cymbal setup and Pearl Eliminator double bass pedal carried over unchanged.
 
 **Q: Who produced Cannibal Corpse's Red Before Black?**
 
@@ -89,4 +102,4 @@ A: Red Before Black was the last Cannibal Corpse album Erik Rutan produced purel
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

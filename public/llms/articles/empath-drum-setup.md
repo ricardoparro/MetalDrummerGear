@@ -1,6 +1,6 @@
 # Empath Drum Setup — Morgan Ågren's Metric Modulation Masterclass
 
-> Inside Morgan Ågren's drum performance on Devin Townsend's Empath (2019): Sonor SQ2 Beech kit, Meinl Byzance cymbals, and the metric modulation technique that powers 'Sprite.' Complete gear and technique breakdown.
+> Inside Morgan Ågren's drum performance on Devin Townsend's Empath (2019): Sonor SQ2 Beech kit, Paiste Signature and 2002 Series cymbals, and the metric modulation technique that powers 'Sprite.' Complete gear and technique breakdown.
 
 **Type:** Album Drum Setup
 **Drummer(s):** [Morgan Ågren](/llms/drummers/morgan-agren.md)
@@ -19,8 +19,8 @@ This article focuses on Ågren's contribution to Empath — his gear, his approa
 
 - **Drums:** Sonor Sonor SQ2 Beech (Studio configuration, Monnow Valley Studios sessions finish)
 - **Snare:** Sonor Sonor Designer Snare, 14" x 5" or 14" x 6"
-- **Cymbals:** Meinl — Meinl Byzance Series
-- **Hardware / Pedals:** DW Double Bass Pedal; American Classic 5A
+- **Cymbals:** Paiste — Paiste Signature and 2002 Series
+- **Hardware / Pedals:** Sonor Giant Step Double Pedal; American Classic 5A
 - **Heads:** Remo Ambassador Coated (batter), Remo Ambassador Snare Side (resonant)
 - **Snare tuning:** Medium tension — balance between ghost-note sensitivity and cut through dense studio production
 
@@ -36,9 +36,20 @@ The compact tom configuration — 10" and 12" rack toms, 14" and 16" floor toms 
 
 Given Empath's dense, layered mix — orchestral overdubs, programmed elements, and a wall of guitar and vocal tracking — Ågren's medium-tension approach keeps the snare articulate without pushing into harshness, letting it read clearly through Townsend's maximalist production choices.
 
-### Meinl Byzance: Complexity for a Maximalist Record
+### Paiste Signature and 2002 Series: Precision for a Maximalist Record
 
-Ågren's Byzance setup gives Empath's most rhythmically complex passages a cymbal voice that reads as musical rather than purely percussive — appropriate for a record where Townsend treats the entire arrangement, drums included, as an extension of the orchestration. On "Sprite," the 14" Sand Hi-Hats function as the anchor subdivision that carries the pulse across each bar-line change, letting Ågren keep the underlying eighth-note grid audible even as the time signature above it shifts from 4/4 to 7/8 to 5/4.
+Ågren's Paiste Signature and 2002 Series setup gives Empath's most rhythmically complex passages a cymbal voice that reads as precise rather than washy — appropriate for a record where Townsend treats the entire arrangement, drums included, as an extension of the orchestration. On "Sprite," the 14" Signature Heavy Hi-Hats function as the anchor subdivision that carries the pulse across each bar-line change, letting Ågren keep the underlying eighth-note grid audible even as the time signature above it shifts from 4/4 to 7/8 to 5/4.
+
+## Sprite: Where Ågren's Whole Career Converges
+
+Empath didn't require Morgan Ågren to change anything about how he plays — it required a producer willing to build a track specifically around what he already does best. "Sprite" works as a showcase precisely because Devin Townsend wrote and arranged it as a vehicle for genuine metric modulation rather than asking a drummer to impose complexity onto a simpler song. That distinction is why Ågren's bars in one meter followed by bars in another never feel like a technical exercise: the compositional structure and the drum part were built together.
+
+For drummers studying this track, the lesson sits above the gear: the Sonor SQ2 and Paiste Signature/2002 Series setup is identical to what Ågren plays everywhere else, because the instrument was never the variable. What changed on Empath was the compositional context — a producer who wanted a Zappa-trained, Mats/Morgan-honed rhythmic sensibility applied directly to a prog-metal arrangement, with nothing hidden or simplified for the audience.
+
+For deeper exploration:
+- **Full drummer profile**: [Morgan Ågren at MetalForge](/drummers/morgan-agren)
+- **Complete gear breakdown**: [Morgan Ågren drum setup](/articles/morgan-agren-drum-setup)
+- **Sprite technique lesson**: [Morgan Ågren's Sprite lick page](/drummers/morgan-agren/licks/morgan-agren-sprite-metric-modulation)
 
 ## Key Facts
 
@@ -47,7 +58,7 @@ Given Empath's dense, layered mix — orchestral overdubs, programmed elements, 
 - Three drummers appear across the album — Morgan Ågren, Anup Sastry, and Samus Paulicelli — each assigned to specific tracks
 - Ågren played on "Genesis," "Sprite," "Why?," "Borderlands," and additional tracks, per Townsend's own account
 - "Sprite" is the album's signature showcase for Ågren's metric modulation and odd-time technique
-- Same Sonor SQ2 Beech / Meinl Byzance / DW setup Ågren has used throughout his career anchors his Empath performance
+- Same Sonor SQ2 Beech / Paiste Signature and 2002 Series / Sonor Giant Step setup Ågren has used throughout his career anchors his Empath performance
 - Same Sonor SQ2 Beech configuration Ågren uses across his Devin Townsend Project and Mats/Morgan Band work
 - Compact tom spread suited to fast melodic fills through metric modulation transitions
 - Beech shells provide the controlled resonance needed across Empath's extreme dynamic range
@@ -63,7 +74,7 @@ A: No. Empath features three different drummers across its ten tracks — Morgan
 
 **Q: What drum kit did Morgan Ågren use on Empath?**
 
-A: Morgan Ågren used his standard Sonor SQ2 Beech kit on Empath — the same configuration he plays across his Devin Townsend Project and Mats/Morgan Band work. His setup includes a single 22" bass drum, 10" and 12" rack toms, and 14" and 16" floor toms, paired with Meinl Byzance cymbals, a DW double bass pedal, and Vic Firth American Classic 5A sticks. Drums for Empath were tracked at Monnow Valley Studios in Wales starting in September 2018.
+A: Morgan Ågren used his standard Sonor SQ2 Beech kit on Empath — the same configuration he plays across his Devin Townsend Project and Mats/Morgan Band work. His setup includes a single 22" bass drum, 10" and 12" rack toms, and 14" and 16" floor toms, paired with Paiste Signature and 2002 Series cymbals, a Sonor Giant Step double pedal, and Vic Firth American Classic 5A sticks. Drums for Empath were tracked at Monnow Valley Studios in Wales starting in September 2018.
 
 **Q: What is metric modulation, and how does Morgan Ågren use it on 'Sprite'?**
 
@@ -77,4 +88,4 @@ A: Empath's drum and bass tracks were recorded at Monnow Valley Studios in Wales
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

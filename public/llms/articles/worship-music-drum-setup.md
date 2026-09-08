@@ -28,7 +28,7 @@ The album also closed an 18-year gap in Anthrax's studio partnership with Bellad
 
 ### Benante's Modern Tama Starclassic Command Center
 
-For Worship Music, Charlie Benante played his long-running Tama Starclassic Maple configuration — a kit that had been his primary setup since returning to Tama after the DW years of the John Bush era. The Starclassic Maple represented everything Benante needed for the thrash-reunion context of Worship Music: a bright, punchy attack that cut through Jay Ruston's production, the volume and projection to support Joey Belladonna's expansive vocals, and the reliability needed for a drummer who had been performing these instruments at professional touring levels for nearly three decades.
+For Worship Music, Charlie Benante played his long-running Tama Starclassic Maple configuration — the kit he had upgraded to on We've Come for You All (2003) and continued playing through the rest of his career. The Starclassic Maple represented everything Benante needed for the thrash-reunion context of Worship Music: a bright, punchy attack that cut through Jay Ruston's production, the volume and projection to support Joey Belladonna's expansive vocals, and the reliability needed for a drummer who had been performing these instruments at professional touring levels for nearly three decades.
 
 The dual 22" x 18" bass drums were, as ever, non-negotiable. Benante's pioneering sustained double bass technique — the technique that had defined Anthrax since Among the Living — depends on two independent kick drums, each with its own tuning, damping, and miking. The 18" shell depth delivers a low-end body that single-kick or double-pedal setups cannot replicate. On tracks like "Fight 'Em 'Til You Can't" and "The Devil You Know," the kick patterns land with the physical weight that Benante's double bass work demands.
 
@@ -56,6 +56,14 @@ The crash configuration provided dynamic range across the album's varied emotion
 
 The 22" 2002 Heavy Ride matched the power of Benante's double kick foundation. When Benante rides rather than crashes, he needs a cymbal that can sustain its defined character at his attack level — the Heavy Ride's substantial mass keeps it from washing out even under intense playing. The 18" China provided the signature thrash-metal trashy accent voice that has punctuated Anthrax records since the beginning — used strategically on Worship Music rather than constantly, each appearance landing with maximum impact.
 
+## The Grammy Album: Anthrax's Modern Thrash Benchmark
+
+Worship Music is the album that proved Anthrax's classic lineup could produce material worthy of their 1980s peak — and that Charlie Benante, two and a half decades into his career, remained one of thrash metal's defining drummers. The Grammy nomination for "In the End" was not a lifetime achievement recognition; it was a direct acknowledgment that the music on Worship Music was among the best heavy metal of 2011. The album debuted at #12 on the US Billboard 200, closed a two-decade gap in the Belladonna-Benante partnership, and established Jay Ruston as the band's production partner for the decade to come.
+
+For Charlie Benante, Worship Music was the first major studio document of his Speed Cobra era — the pedals that replaced the HP35 Camcos he had used since 1984 and would carry him through all future Anthrax recordings. The Starclassic Maple kit, Paiste 2002 and Signature cymbals, and the high-tension snare tuning that Ruston captured at Sphere Studios represents the fully realized modern Benante configuration.
+
+For the album that followed and completed this modern arc, see the [For All Kings drum setup article](/articles/for-all-kings-drum-setup). For the Sound of White Noise-era gear evolution, visit the [Sound of White Noise drum setup](/articles/sound-of-white-noise-drum-setup). For Charlie's complete career and gear timeline, see the [Charlie Benante drummer profile](/drummer/charlie-benante) and the [Anthrax band page](/bands/anthrax).
+
 ## Key Facts
 
 - Joey Belladonna's return — first full studio album with him since Persistence of Time (1990)
@@ -68,7 +76,7 @@ The 22" 2002 Heavy Ride matched the power of Benante's double kick foundation. W
 - Five-tom configuration for compositional variety across Worship Music's arrangements
 - Star-Cast mounting preserves shell resonance — critical for Ruston's production approach
 - All-maple shells for balanced, full-spectrum tone in the modern production context
-- Long-term Tama Starclassic endorsee — brand partner since the early 1990s return after DW years
+- Long-term Tama endorsee since the mid-1980s, on the Starclassic Maple since We've Come for You All (2003)
 - Estimated kit value: $5,500-7,500 (Starclassic Maple touring configuration)
 - Estimated snare value: $400-500 (Tama Charlie Benante Signature)
 
@@ -76,7 +84,7 @@ The 22" 2002 Heavy Ride matched the power of Benante's double kick foundation. W
 
 **Q: What drum kit did Charlie Benante use on Worship Music?**
 
-A: Charlie Benante used a Tama Starclassic Maple kit on Worship Music (2011), configured with dual 22" x 18" bass drums, three rack toms (10", 12", 13"), and two floor toms (14" and 16"). The all-maple shells with Tama's Star-Cast mounting system delivered the bright, punchy attack Jay Ruston's thrash-reunion production required. The Starclassic Maple represented Benante's return to Tama after the DW Collector's Series years of the John Bush era (1993-2001) and remained his primary touring and recording configuration through the 2010s.
+A: Charlie Benante used a Tama Starclassic Maple kit on Worship Music (2011), configured with dual 22" x 18" bass drums, three rack toms (10", 12", 13"), and two floor toms (14" and 16"). The all-maple shells with Tama's Star-Cast mounting system delivered the bright, punchy attack Jay Ruston's thrash-reunion production required. Benante had upgraded to the Starclassic Maple line on We've Come for You All (2003), and it remained his primary touring and recording configuration through the 2010s.
 
 **Q: Was Worship Music Grammy nominated?**
 
@@ -98,4 +106,4 @@ A: Worship Music (2011) and Among the Living (1987) share the same fundamental c
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

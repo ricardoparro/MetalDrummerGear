@@ -58,6 +58,20 @@ The 22" Medium Ride is the cornerstone of the modern Greiner sound — a cymbal 
 
 The Paiste-to-Meinl transition reflected Greiner's growing identity as an endorsed artist and his evolving musical vision. The Byzance series would remain central to his sound across every subsequent ABR album.
 
+## Rescue & Restore's Legacy: The Album That Launched Matt Greiner's Modern Era
+
+*Rescue & Restore* (2014) is the album where Matt Greiner's modern sound crystallized. Every element of the gear setup that would define his next decade — the Pearl Reference Pure kit, the Meinl Byzance cymbals, the Pearl Demon Drive pedals — was documented in studio for the first time. The shift to Atrium Audio with Carson Slovak and Grant McFarland produced a drum sound that was cleaner, more dynamically nuanced, and more musically expressive than ABR's earlier records.
+
+The album also captured Greiner at an important compositional moment. *Rescue & Restore*'s experimental arrangements — saxophone features, extended instrumentals, Eastern-tinged passages — demanded a drummer who could support unconventional musical choices without falling back on metalcore reflexes. Greiner met every challenge with the jazz-informed sensitivity and technical command that had become his signature, proving that his approach scaled beyond the genre's conventions.
+
+**For Drummers Studying Rescue & Restore:**
+The most valuable lesson from this album is how to use restraint as a compositional tool. Study "Beauty in Tragedy" for how Greiner supports the saxophone melody with ghost note work and selective crash placement. Study "Spirit Breaker" for how an extended instrumental demands the drummer act as a co-composer, leading sections rather than supporting them. Study "Treatment" for how the rapid tom fills translate cleanly when shells share a consistent tonal character — the Pearl Reference Pure's design philosophy in action.
+
+**The Gear Legacy:**
+Pearl Reference Pure remains one of the most respected professional metal kits available. Meinl Byzance cymbals are central to modern metalcore and rock drumming. The Pearl Demon Drive pedal continues as a benchmark for direct-drive mechanism preference. The setup Matt Greiner premiered on *Rescue & Restore* defined the next chapter of his career.
+
+For Matt Greiner's current gear and the full evolution of his sound, see the [Matt Greiner complete drum setup guide](/articles/matt-greiner-complete-drum-setup). For the previous chapter in the ABR drum story, see the [Leveler drum setup article (2011)](/articles/leveler-drum-setup).
+
 ## Key Facts
 
 - Released June 24, 2014 on Solid State Records — ABR's first hometown-recorded studio album
@@ -93,4 +107,4 @@ A: *Rescue & Restore* (2014) was August Burns Red's first studio album recorded 
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

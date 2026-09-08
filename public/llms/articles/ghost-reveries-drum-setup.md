@@ -15,66 +15,81 @@ Recorded at Fascination Street Studios in Örebro, Sweden, and mixed by Jens Bog
 
 "Ghost of Perdition," the album's nine-minute opener, remains one of Opeth's most celebrated tracks and a showcase for everything Lopez could do — blast beats giving way to syncopated grooves, then dissolving into a hushed acoustic midsection before crashing back into the album's heaviest riffing. "The Baying of the Hounds" and "The Grand Conjuration" demonstrate the same range across the record, while "Reverie/Harlequin Forest" (added as a bonus track on later pressings) closes the era with one final burst of the dynamic interplay Lopez had spent eight years perfecting with this band.
 
-By the time Ghost Reveries toured, Lopez's long-standing struggles with panic disorder had become unmanageable on the road. He left Opeth in 2006, and Martin Axenrot took over the drum stool for Watershed (2008) — closing the most celebrated chapter of Opeth's drumming history. This article breaks down every piece of gear Martin Lopez used on Ghost Reveries, traces how his setup evolved from the Deliverance era, and examines why this record stands as the definitive sign-off to his Opeth tenure.
+By the time Ghost Reveries toured, Lopez's long-standing struggles with panic disorder had become unmanageable on the road. He left Opeth in 2006, and Martin Axenrot took over the drum stool for Watershed (2008) — closing the most celebrated chapter of Opeth's drumming history. This article breaks down every piece of gear Martin Lopez used on Ghost Reveries, confirms his setup carried over from the Deliverance era, and examines why this record stands as the definitive sign-off to his Opeth tenure.
 
 ## Gear Breakdown
 
-- **Drums:** Pearl Pearl Reference (Piano Black Lacquer finish)
-- **Snare:** Pearl Pearl Reference Maple/Birch Snare, 14" x 6.5"
-- **Cymbals:** Paiste — Paiste Signature Series
-- **Hardware / Pedals:** Pearl Eliminator Double Pedal; Pearl Eliminator Hi-Hat Stand; Roc-N-Soc Nitro; Vic Firth American Classic 5A; Pearl Felt Beaters
+- **Drums:** Sonor Sonor Designer Series (Natural Maple finish)
+- **Snare:** Sonor Sonor Designer Maple Snare, 14" x 5.5"
+- **Cymbals:** Sabian — Sabian HH (Hand Hammered) & AAX Series
+- **Hardware / Pedals:** DW 5000 Double Pedal; DW 5500 Hi-Hat Stand; Roc-N-Soc Nitro; Vic Firth American Classic 5A; DW Standard Felt Beaters
 - **Heads:** Remo Ambassador Coated (batter), Remo Ambassador Snare Side (resonant)
 - **Snare tuning:** Medium, balanced for both ghost notes and full-force hits
 
-### Martin's Pearl Reference Setup: Built for Range
+### Martin's Sonor Setup: Built for Range
 
-For Ghost Reveries, Martin Lopez moved to Pearl's flagship Reference series — a step up from the Masters Premium kit he had used on Deliverance. The Reference series' mahogany/birch hybrid shells split the difference between warmth and attack, giving Lopez a kit that could deliver Deliverance-style punch on the heaviest passages while still breathing on the album's acoustic interludes.
+For Ghost Reveries, Martin Lopez stuck with the same Sonor Designer Series kit he had played since Blackwater Park — the maple shells' natural warmth and range gave him a kit that could deliver Deliverance-style punch on the heaviest passages while still breathing on the album's acoustic interludes without changing equipment.
 
-The bass drum returned to 22" — back up from Deliverance's tighter 20" — restoring the low-end body that had characterized the Blackwater Park sessions. This wasn't a retreat; it was a recognition that Ghost Reveries needed the full dynamic spectrum, from "Ghost of Perdition"'s blast-beat sections to its hushed, Mellotron-soaked midsection.
+The bass drum sat back at its familiar tuning — more open than Deliverance's tightened setup — restoring the low-end body that had characterized the Blackwater Park sessions. This wasn't new gear; it was a recognition that Ghost Reveries needed the full dynamic spectrum, from "Ghost of Perdition"'s blast-beat sections to its hushed, Mellotron-soaked midsection, and the same Sonor kit could deliver both when tuned accordingly.
 
-The tom configuration stayed consistent with the rest of the Lopez/Opeth catalog — 10" and 12" rack toms, 14" and 16" floor toms — preserving the melodic voicing he had relied on since Blackwater Park. What changed was the shell composition: the Reference series' hybrid construction gave the toms a slightly faster decay than the all-maple Sonor, useful for the album's more rhythmically intricate sections.
+The tom configuration stayed consistent with the rest of the Lopez/Opeth catalog — 10" and 12" rack toms, 14" and 16" floor toms — preserving the melodic voicing he had relied on since Blackwater Park. The all-maple Sonor shells retained the same fast decay and articulation that had served him on the album's more rhythmically intricate sections throughout his tenure.
 
-Pearl's Reference series was, at the time, among the most expensive production kits available, reflecting Opeth's bigger budget on their first Roadrunner release. For Lopez, it represented the most refined instrument of his Opeth career — a kit capable of the full range Ghost Reveries demanded.
+By Ghost Reveries, this Sonor Designer Series kit had carried Lopez through his three most acclaimed Opeth albums — Blackwater Park, Deliverance, and now Ghost Reveries. For Lopez, it represented the most trusted instrument of his Opeth career, dialed in to deliver the full range the album demanded.
 
 ### The Snare for Maximum Dynamic Range
 
-Ghost Reveries required a snare that could whisper through the acoustic midsection of "Ghost of Perdition" and still crack through the wall of riffing in "The Baying of the Hounds." Lopez's Pearl Reference snare, built from a maple/birch hybrid shell, delivered exactly that range — more sensitive than the Deliverance-era Free-Floating snare, but with enough authority to avoid getting buried under Ghost Reveries' denser guitar production.
+Ghost Reveries required a snare that could whisper through the acoustic midsection of "Ghost of Perdition" and still crack through the wall of riffing in "The Baying of the Hounds." Lopez used the same Sonor Designer maple snare he had played since Blackwater Park, tuned toward the middle of his range — it delivered exactly that range, sensitive enough for the album's quieter moments yet with enough authority to avoid getting buried under Ghost Reveries' denser guitar production.
 
-At 14" x 6.5", the depth matched the Deliverance snare, but the hybrid shell construction shifted the tone toward a rounder, less aggressive crack — better suited to an album that moves between Mellotron-laced ballad passages and blast-beat death metal within the same track. Jens Bogren's mix captured the snare with notable clarity, allowing both the ghost notes in the album's quieter sections and the full-force hits in its heaviest moments to register naturally.
+At 14" x 5.5", the depth matched the Blackwater Park configuration, and the all-maple shell construction gave a rounder, less aggressive crack than the tighter, higher-tuned Deliverance setup — better suited to an album that moves between Mellotron-laced ballad passages and blast-beat death metal within the same track. Jens Bogren's mix captured the snare with notable clarity, allowing both the ghost notes in the album's quieter sections and the full-force hits in its heaviest moments to register naturally.
 
-Lopez tuned the snare toward the middle of his range — neither as bright as the Deliverance setup nor as dark as the Blackwater Park snare — a deliberate middle path that mirrored the album's own balancing act between two eras of his playing.
+Lopez tuned the snare toward the middle of his range — neither as tight as the Deliverance setup nor as loose as some of his gentlest Damnation passages — a deliberate middle path that mirrored the album's own balancing act between two eras of his playing.
 
-### The Paiste Signature Arsenal
+### The Sabian Arsenal, Full Circle
 
-Lopez moved from the bright, cutting Paiste 2002 series he used on Deliverance to the more complex, musical Paiste Signature line for Ghost Reveries — a shift that mirrored the album's return to Blackwater Park's dynamic range. The Signature series offered more overtone complexity and a darker fundamental than the 2002s, qualities that suited Ghost Reveries' frequent moves into acoustic and Mellotron-laden territory.
+For Ghost Reveries, Lopez returned to the same Sabian HH (Hand Hammered) and AAX cymbals he had used on Blackwater Park, easing off the tightened, harder-struck approach of Deliverance — a shift in playing rather than equipment that mirrored the album's return to Blackwater Park's dynamic range. The HH cymbals' overtone complexity and dark fundamental suited Ghost Reveries' frequent moves into acoustic and Mellotron-laden territory.
 
-The 14" Dark Crisp Hi-Hats gave Lopez a voice that could sit quietly under the album's clean passages without disappearing, then open up with enough bite to drive the blast-beat sections of "Ghost of Perdition" and "The Grand Conjuration." This dual capability mattered on Ghost Reveries more than on any previous Opeth record — the songs shift between extremes more frequently and more abruptly than Deliverance ever did.
+The 14" HH Regular Hi-Hats gave Lopez a voice that could sit quietly under the album's clean passages without disappearing, then open up with enough bite to drive the blast-beat sections of "Ghost of Perdition" and "The Grand Conjuration." This dual capability mattered on Ghost Reveries more than on any previous Opeth record — the songs shift between extremes more frequently and more abruptly than Deliverance ever did.
 
-The 16" and 18" crashes carried fuller decay than the quicker-speaking 2002 crashes, giving Lopez's accents more sustain during the album's progressive sections — useful for marking the long-form structural transitions that define tracks like "Hours of Wealth" and "Isolation Years." The 20" Full Ride balanced wash and bell clarity, letting Lopez move between driving the heavy riffs and coloring the quieter interludes without swapping cymbals.
+The 16" AAX Stage Crash and 18" HH Medium Crash carried fuller decay when played with a lighter touch than on Deliverance, giving Lopez's accents more sustain during the album's progressive sections — useful for marking the long-form structural transitions that define tracks like "Hours of Wealth" and "Isolation Years." The 20" HH Medium Ride balanced wash and bell clarity, letting Lopez move between driving the heavy riffs and coloring the quieter interludes without swapping cymbals.
 
-The China cymbal remained a precision tool rather than a constant presence — deployed for the album's sharpest death metal transitions, consistent with Lopez's restrained approach to effect cymbals throughout his Opeth career.
+The AAX China cymbal remained a precision tool rather than a constant presence — deployed for the album's sharpest death metal transitions, consistent with Lopez's restrained approach to effect cymbals throughout his Opeth career.
+
+## A Complete Farewell
+
+Ghost Reveries stands as the synthesis point of Martin Lopez's Opeth career — the album where the dynamic breakthrough of Blackwater Park and the extreme physicality of Deliverance finally combined within the same songs rather than across separate records.
+
+**Why It Matters:**
+No one involved in recording Ghost Reveries knew it would be Lopez's last studio album with Opeth, which makes its completeness all the more remarkable. Rather than a transitional or tentative record, it reads as a fully realized statement — every lesson from eight years of playing with this band distilled into one performance.
+
+**The Gear Perspective:**
+The same Sonor Designer Series kit and Sabian HH/AAX cymbals Lopez had trusted since Blackwater Park needed no upgrade for Opeth's Roadrunner debut. What mattered was how he played them — a kit and cymbal set capable of the full range "Ghost of Perdition" and the rest of the album demanded, dialed in by years of familiarity.
+
+**Legacy:**
+Martin Lopez's departure in 2006 closed the most celebrated chapter of Opeth's drumming history, but Ghost Reveries ensured that chapter ended on its highest note. For drummers studying the Lopez/Opeth catalog, this album is the place where every earlier lesson — dynamics, intensity, architecture — comes together at once.
+
+🥁 *The album where everything Martin Lopez built with Opeth finally became one performance.* 🥁
 
 ## Key Facts
 
 - Recorded at Fascination Street Studios, Örebro, mixed by Jens Bogren
 - Opeth's first album for Roadrunner Records — a bigger budget and broader reach
 - Martin Lopez's final studio album with Opeth before his 2006 departure
-- Pearl Reference kit and Paiste Signature cymbals — expanded dynamic range vs. Deliverance
+- Same Sonor Designer Series kit and Sabian HH/AAX cymbals he had used since Blackwater Park
 - Returns to Blackwater Park's full dynamic contrast after Deliverance's sustained extremity
 - "Ghost of Perdition" widely regarded as a career-defining Lopez performance
-- Pearl Reference chosen for hybrid attack and warmth across dynamic extremes
-- 22" kick restored for full low-end presence after Deliverance's tighter 20"
-- Hybrid mahogany/birch shells split the difference between Sonor warmth and Pearl punch
+- Same Sonor Designer Series kit used since Blackwater Park — no change for Ghost Reveries
+- Bass drum returned to a more open tuning for full low-end presence after Deliverance's tightened setup
+- All-maple shells retained across three albums — warmth and articulation in one kit
 - Same tom voicing as Blackwater Park and Deliverance for catalog continuity
-- Most expensive kit of Lopez's Opeth tenure, reflecting the Roadrunner-era budget
-- Estimated kit value: $4,500-6,500 (2005) / $5,000-7,500 (comparable setup today)
-- Estimated snare value: $500-700
+- The kit that carried Lopez through his three most acclaimed Opeth albums
+- Estimated kit value: $3,500-5,000 (2005) / $4,000-6,000 (comparable setup today)
+- Estimated snare value: $400-600
 
 ## Frequently Asked Questions
 
 **Q: What drums did Martin Lopez use on Ghost Reveries?**
 
-A: On Opeth's Ghost Reveries (2005), Martin Lopez played a Pearl Reference kit with a 22" bass drum, 10" and 12" rack toms, and 14" and 16" floor toms, paired with a Pearl Reference maple/birch snare. This was a step up from the Pearl Masters Premium kit he used on [Deliverance](/articles/deliverance-drum-setup), and the restored 22" kick brought back the full low-end presence of his earlier [Blackwater Park](/articles/blackwater-park-drum-setup) setup.
+A: On Opeth's Ghost Reveries (2005), Martin Lopez played the same Sonor Designer Series kit he used since Blackwater Park — a 22" bass drum, 10" and 12" rack toms, and 14" and 16" floor toms, paired with a Sonor Designer maple snare. This was the same kit he used on [Deliverance](/articles/deliverance-drum-setup), with the kick tuning opened back up to bring back the full low-end presence of his earlier [Blackwater Park](/articles/blackwater-park-drum-setup) setup.
 
 **Q: Why did Martin Lopez leave Opeth after Ghost Reveries?**
 
@@ -82,14 +97,14 @@ A: Martin Lopez left Opeth in 2006, during the touring cycle for Ghost Reveries,
 
 **Q: How does the drumming on Ghost Reveries differ from Blackwater Park?**
 
-A: Ghost Reveries returns to the full dynamic range that defined [Blackwater Park](/articles/blackwater-park-drum-setup) after the more compressed extremity of [Deliverance](/articles/deliverance-drum-setup), but it integrates that range within single tracks rather than across an album's arc. Where Blackwater Park alternated between brutal and acoustic sections song by song, tracks like "Ghost of Perdition" move through blast beats, syncopated grooves, and hushed acoustic passages within one nine-minute piece. The gear reflects this synthesis too: a Pearl Reference kit and Paiste Signature cymbals that combine the punch Lopez developed on Deliverance with the tonal complexity of his earlier Sabian-and-Sonor Blackwater Park setup.
+A: Ghost Reveries returns to the full dynamic range that defined [Blackwater Park](/articles/blackwater-park-drum-setup) after the more compressed extremity of [Deliverance](/articles/deliverance-drum-setup), but it integrates that range within single tracks rather than across an album's arc. Where Blackwater Park alternated between brutal and acoustic sections song by song, tracks like "Ghost of Perdition" move through blast beats, syncopated grooves, and hushed acoustic passages within one nine-minute piece. The gear was unchanged: the same Sonor Designer Series kit and Sabian HH/AAX cymbals Lopez had played since Blackwater Park, combining the punch he developed on Deliverance with the tonal complexity of his earlier setup.
 
 **Q: What cymbals did Martin Lopez use on Ghost Reveries?**
 
-A: Martin Lopez used Paiste Signature series cymbals on Ghost Reveries, including 14" Dark Crisp Hi-Hats, 16" and 18" Full Crashes, a 20" Full Ride, and an 18" China. This was a shift from the brighter Paiste 2002 series he used on Deliverance toward a darker, more harmonically complex voice suited to the album's frequent moves between death metal aggression and acoustic, Mellotron-laden passages.
+A: Martin Lopez used Sabian HH and AAX cymbals on Ghost Reveries — the same complement he'd used since Blackwater Park, including HH 14" Regular Hi-Hats, an AAX 16" Stage Crash, an HH 18" Medium Crash, an HH 20" Medium Ride, and an AAX 18" Chinese. He eased off the tighter, harder-struck approach he'd used on Deliverance, letting the cymbals' dark, harmonically complex voice suit the album's frequent moves between death metal aggression and acoustic, Mellotron-laden passages.
 
 **Source:** https://metalforge.io/articles/ghost-reveries-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

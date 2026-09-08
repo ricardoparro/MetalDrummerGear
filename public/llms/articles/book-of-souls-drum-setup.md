@@ -54,6 +54,16 @@ The expanded three-crash setup (16, 18, and 19 inch) and 22-inch Power Ride, bot
 
 For Iron Maiden's subsequent Book of Souls World Tour, Paiste built Nicko an elaborate Signature Reflector cymbal set inspired by the tour's Mayan stage design — but that expanded touring rig came after this album's studio sessions, which relied on his existing Signature setup.
 
+## A Comeback Album in More Ways Than One
+
+The Book of Souls is a comeback story on two fronts. For Nicko McBrain, it marked a return to Sonor after business troubles ended his long run with Premier, and the largest, most ambitious drum kit of his recording career. For Iron Maiden as a whole, its September 2015 release followed Bruce Dickinson's recovery from a serious cancer diagnosis discovered weeks after recording wrapped — turning the album's arrival into a genuine second chance, celebrated by a UK #1 debut and the band's strongest US first week in over two decades.
+
+Across 92 minutes and 11 tracks, Nicko's Sonor SQ2 kit — built to match the specifications of the Sonor he'd played in the early 1990s — carried the record's full emotional and dynamic range: the driving gallop of 'Speed of Light,' the tribal off-beat china groove of the title track, the 13-minute live favorite 'The Red and the Black,' and the patient, wide-open 18 minutes of 'Empire of the Clouds,' the longest song Iron Maiden has ever recorded.
+
+The Paiste Signature cymbals and Vic Firth signature sticks carried through unchanged, proof that Nicko's core musical voice survived a manufacturer switch intact. The single bass drum pedal, as ever, powered every gallop and fill.
+
+The Book of Souls closes the arc that runs from The Final Frontier through to Senjutsu — and stands as one of the most historically important records of Nicko McBrain's four-decade career, not for any single technical feat, but for the sheer scale of what it took to make it, and the circumstances the band overcame to bring it home.
+
 ## Key Facts
 
 - Iron Maiden's first-ever double album — 92 minutes across 11 tracks
@@ -95,4 +105,4 @@ A: The Book of Souls (2015) is Iron Maiden's first studio double album, running 
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

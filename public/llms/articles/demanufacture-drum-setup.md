@@ -1,6 +1,6 @@
 # Demanufacture Drum Setup: Raymond Herrera's 1995 Fear Factory Kit Breakdown
 
-> Complete breakdown of Raymond Herrera's drum gear on Fear Factory's Demanufacture (1995) — the album that defined industrial metal drumming. Pearl Reference Series triggered kit, Zildjian Z Custom cymbals, Pearl Eliminator pedals, and the machine-gun double bass behind 'Replica' and the title track.
+> Complete breakdown of Raymond Herrera's drum gear on Fear Factory's Demanufacture (1995) — the album that defined industrial metal drumming. Pearl Reference Series triggered kit, Zildjian Z Custom cymbals, DW 5000 Series pedals, and the machine-gun double bass behind 'Replica' and the title track.
 
 **Type:** Album Drum Setup
 **Drummer(s):** [Raymond Herrera](/llms/drummers/raymond-herrera.md)
@@ -13,16 +13,16 @@ Released on June 13, 1995, Fear Factory's *Demanufacture* is the record that gav
 
 *Demanufacture* was recorded at Indigo Ranch Studios in Malibu, California, and produced by Colin Richardson, with additional production and programming from Rhys Fulber of Front Line Assembly. The album's sessions initially began with Ross Robinson, but that material was ultimately scrapped and re-recorded under Richardson's production — a decision that shaped the tighter, more mechanically precise drum sound the finished album is known for. Fulber's electronic programming background gave the record's triggered drum signals an industrial sheen that had no real precedent in metal production up to that point.
 
-Herrera's setup for *Demanufacture* was built around Pearl Reference Series drums, fully triggered with ddrum and Roland sensors across the kick drums, snare, and toms, driven by a Pearl Eliminator double pedal and cut through by Zildjian Z Custom cymbals. What made the record a landmark wasn't just the gear — it was how Herrera used it. The title track and "Replica" feature machine-gun double-kick patterns at a level of sixteenth-note consistency that redefined what double bass drumming could sound like in a metal context, directly influencing the generation of industrial and groove metal drummers that followed, from Robb Flynn's Machine Head collaborators to countless nu-metal and industrial acts of the late 1990s.
+Herrera's setup for *Demanufacture* was built around Pearl Reference Series drums, fully triggered with ddrum and Roland sensors across the kick drums, snare, and toms, driven by a DW 5000 Series double pedal and cut through by Zildjian Z Custom cymbals. What made the record a landmark wasn't just the gear — it was how Herrera used it. The title track and "Replica" feature machine-gun double-kick patterns at a level of sixteenth-note consistency that redefined what double bass drumming could sound like in a metal context, directly influencing the generation of industrial and groove metal drummers that followed, from Robb Flynn's Machine Head collaborators to countless nu-metal and industrial acts of the late 1990s.
 
 This article breaks down every component of Herrera's *Demanufacture* kit and explains why the album remains the reference point for industrial metal drumming three decades later.
 
 ## Gear Breakdown
 
 - **Drums:** Pearl Pearl Reference Series (Various finishes — Demanufacture recording and touring period finish)
-- **Snare:** Pearl Pearl Custom 14" x 6.5", 14" x 6.5"
+- **Snare:** Tama Tama 14" x 6.5" Brass, 14" x 6.5"
 - **Cymbals:** Zildjian — Zildjian Z Custom Series
-- **Hardware / Pedals:** Pearl Eliminator Double Pedal; ddrum triggers and Roland drum module; Vater Power 5B; Remo Pinstripe; Remo Ambassador
+- **Hardware / Pedals:** DW 5000 Series Double Pedal; ddrum triggers and Roland drum module; Pro-Mark 5A Oak Nylon Tip; Remo Pinstripe; Remo Ambassador
 - **Heads:** Remo Pinstripe (batter) with ddrum trigger sensor — controlled attack for consistent electronic layering
 - **Snare tuning:** Medium-high tension for fast mechanical response and cut through dense industrial guitar frequencies
 
@@ -36,7 +36,7 @@ The tom configuration — two rack toms and two floor toms, all triggered — se
 
 ### Snare: The Mechanical Crack That Defined Industrial Metal
 
-Herrera's Pearl Custom 14" x 6.5" steel-shell snare, fitted with a ddrum trigger, produced the crack that anchors *Demanufacture*'s backbeat throughout tracks like "Self Bias Resistor" and "Zero Signal." The steel shell's fast decay and cutting attack gave the acoustic hit definition even at the album's most tempo-dense passages, while the triggered sample layered an electronically processed snap on top — the two signals combining into the tight, robotic snare sound that became a hallmark of industrial metal production.
+Herrera's Tama 14" x 6.5" Brass snare, fitted with a ddrum trigger, produced the crack that anchors *Demanufacture*'s backbeat throughout tracks like "Self Bias Resistor" and "Zero Signal." The brass shell's fast decay and cutting attack gave the acoustic hit definition even at the album's most tempo-dense passages, while the triggered sample layered an electronically processed snap on top — the two signals combining into the tight, robotic snare sound that became a hallmark of industrial metal production.
 
 Colin Richardson and Rhys Fulber leaned on the triggered snare signal heavily in the mix, using it to reinforce the acoustic crack rather than replace it. This approach — acoustic performance as the physical foundation, electronic triggering as the sonic amplifier — is the production philosophy that makes *Demanufacture*'s drum sound still stand out among 1990s metal records: it never sounds purely programmed, but it never sounds purely acoustic either.
 
@@ -46,12 +46,33 @@ The Zildjian Z Custom cymbals Herrera chose for *Demanufacture* were built for e
 
 The china cymbal gets particular emphasis on *Demanufacture* — its aggressive, trashy character driving the album's most intense sections on "Replica" and "H-K (Hunter-Killer)." The Z Custom series' physical durability also mattered for a band that toured relentlessly behind the album's success: thick, machine-hammered construction resisting the cracking that thinner cymbals develop under Herrera's high-impact striking technique.
 
+## Demanufacture: The Blueprint for Industrial Metal Drumming
+
+Fear Factory's *Demanufacture* is the record where industrial metal drumming was invented in practice rather than theory. Raymond Herrera's Pearl Reference Series kit — fully triggered with ddrum and Roland sensors, driven by a DW 5000 Series double pedal, cut through by Zildjian Z Custom cymbals — gave producers Colin Richardson and Rhys Fulber the raw material to sculpt a drum sound that matched the album's mechanical, dehumanized concept at Indigo Ranch Studios. Thirty years on, it remains the first reference point for any drummer building a triggered hybrid kit for heavy music.
+
+The gear that made it possible:
+
+- **Pearl Reference Series**: Maple shells providing the acoustic body and consistent trigger response beneath every stroke
+- **ddrum/Roland triggers**: Full-kit triggering — the electronic layer that turned acoustic performance into industrial metal's mechanical signature sound
+- **DW 5000 Series Double Pedal**: The engine behind the sustained machine-gun double-kick grids on "Replica" and the title track
+- **Zildjian Z Custom cymbals**: Upper-frequency projection cutting through *Demanufacture*'s dense industrial guitar wall
+- **Pro-Mark 5A Oak Nylon Tip sticks**: Dense oak shaft and bright nylon tip for a demanding recording and touring schedule
+
+For drummers studying industrial metal technique, *Demanufacture* demonstrates the founding principle of the genre: the trigger system amplifies precision that the drummer already has, rather than manufacturing precision that isn't there. Herrera's machine-gun double-kick patterns were physically executed at speeds few metal drummers of 1995 could sustain — the electronics simply ensured that precision translated with total consistency to tape.
+
+For deeper exploration:
+- **Full drummer profile**: [Raymond Herrera at MetalForge](/drummer/raymond-herrera)
+- **General Raymond Herrera kit**: [Raymond Herrera drum setup](/articles/raymond-herrera-drum-setup)
+- **Next chapter — Obsolete (1998)**: [Obsolete drum setup](/articles/obsolete-drum-setup)
+- **Double bass technique**: [Double-bass drumming at MetalForge](/techniques/double-bass)
+- **Blast beat technique**: [Blast beat technique at MetalForge](/techniques/blast-beat)
+
 ## Key Facts
 
 - Released June 13, 1995 — Gold-certified (RIAA) US, the album that defined industrial metal drumming
 - Recorded at Indigo Ranch Studios, Malibu, CA; produced by Colin Richardson & Rhys Fulber after scrapped initial Ross Robinson sessions
 - Pearl Reference Series with full ddrum/Roland trigger integration across kick, snare, and toms
-- Pearl Eliminator Double Pedal driving the machine-gun double-kick patterns on "Replica" and the title track
+- DW 5000 Series Double Pedal driving the machine-gun double-kick patterns on "Replica" and the title track
 - Zildjian Z Custom cymbals for upper-frequency cut through industrial metal's dense guitar wall
 - Herrera's precision double bass technique on this album became the industrial metal drumming template — first-generation influence still cited today
 - Pearl Reference Series — maple shells for consistent trigger response, first deployed at this scale on Demanufacture
@@ -65,11 +86,11 @@ The china cymbal gets particular emphasis on *Demanufacture* — its aggressive,
 
 **Q: What drums did Raymond Herrera use on Fear Factory's Demanufacture?**
 
-A: Raymond Herrera used a Pearl Reference Series drum kit on Fear Factory's *Demanufacture* (1995): two 22" x 18" bass drums in a double kick configuration, rack toms at 10" and 12", and floor toms at 16" and 18". Every drum — kick, snare, and toms — was fitted with a ddrum or Roland trigger, the electronic layer that defines Fear Factory's hybrid drum sound. His snare was a Pearl Custom 14" x 6.5" steel-shell model, also triggered. He drove the kit with a Pearl Eliminator double bass pedal and cut through the mix with Zildjian Z Custom cymbals. Vater Power 5B sticks completed the setup. For the full gear breakdown across Herrera's career: [Raymond Herrera at MetalForge](/drummer/raymond-herrera).
+A: Raymond Herrera used a Pearl Reference Series drum kit on Fear Factory's *Demanufacture* (1995): two 22" x 18" bass drums in a double kick configuration, rack toms at 10" and 12", and floor toms at 16" and 18". Every drum — kick, snare, and toms — was fitted with a ddrum or Roland trigger, the electronic layer that defines Fear Factory's hybrid drum sound. His snare was a Tama 14" x 6.5" Brass model, also triggered. He drove the kit with a DW 5000 Series double bass pedal and cut through the mix with Zildjian Z Custom cymbals. Pro-Mark 5A Oak Nylon Tip sticks completed the setup. For the full gear breakdown across Herrera's career: [Raymond Herrera at MetalForge](/drummer/raymond-herrera).
 
 **Q: How fast is Raymond Herrera's double bass drumming on Demanufacture?**
 
-A: Herrera's double-kick patterns on *Demanufacture* — most notably on "Replica" and the title track — run in sustained sixteenth-note grids at tempos in the 190–210 BPM range, executed with a machine-gun consistency that made the kick drum function almost like a rhythmic sequencer beneath the riffs rather than a simple accent. What set the performance apart from other fast metal drumming of the era wasn't raw speed alone — plenty of death metal drummers were playing double bass at comparable tempos by 1995 — but the sustained precision: each stroke fired its ddrum trigger with near-identical velocity and timing, so the pattern locked into the same mechanical grid for entire song sections. That combination of speed and metronomic consistency, driven by the Pearl Eliminator's cam-adjustable action, is what made the *Demanufacture* double-kick sound directly influential on the generation of industrial and groove metal drummers who followed. For technique context: [double-bass drumming at MetalForge](/techniques/double-bass).
+A: Herrera's double-kick patterns on *Demanufacture* — most notably on "Replica" and the title track — run in sustained sixteenth-note grids at tempos in the 190–210 BPM range, executed with a machine-gun consistency that made the kick drum function almost like a rhythmic sequencer beneath the riffs rather than a simple accent. What set the performance apart from other fast metal drumming of the era wasn't raw speed alone — plenty of death metal drummers were playing double bass at comparable tempos by 1995 — but the sustained precision: each stroke fired its ddrum trigger with near-identical velocity and timing, so the pattern locked into the same mechanical grid for entire song sections. That combination of speed and metronomic consistency, driven by the DW 5000 Series' cam-adjustable action, is what made the *Demanufacture* double-kick sound directly influential on the generation of industrial and groove metal drummers who followed. For technique context: [double-bass drumming at MetalForge](/techniques/double-bass).
 
 **Q: What defined Fear Factory's sound on Demanufacture?**
 
@@ -87,4 +108,4 @@ A: The title track "Demanufacture" and "Replica" are the essential Herrera perfo
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

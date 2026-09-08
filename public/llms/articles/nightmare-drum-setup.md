@@ -1,6 +1,6 @@
 # Nightmare Drum Setup — Mike Portnoy's Tribute Performance for Avenged Sevenfold (2010)
 
-> Complete breakdown of Mike Portnoy's drum gear on Avenged Sevenfold's Nightmare (2010). Tama Starclassic Maple kit, Paiste/Sabian hybrid cymbals — the story of how Dream Theater's drummer stepped in as tribute fill-in after The Rev's death.
+> Complete breakdown of Mike Portnoy's drum gear on Avenged Sevenfold's Nightmare (2010). Tama Starclassic Maple kit, Sabian HHX Evolution cymbals — the story of how Dream Theater's drummer stepped in as tribute fill-in after The Rev's death.
 
 **Type:** Album Drum Setup
 **Drummer(s):** [Mike Portnoy](/llms/drummers/mike-portnoy.md)
@@ -15,7 +15,7 @@ Portnoy's role on *Nightmare* is unique in the MetalForge catalog and in modern 
 
 The result debuted at #1 on the Billboard 200 — Avenged Sevenfold's first chart-topper — and went Multi-Platinum in the United States. The single "So Far Away," a ballad dedicated directly to The Rev, received a **Grammy nomination**. The album reached the UK Top 3 and became a landmark in A7X's commercial and artistic trajectory, serving as the bridge between The Rev era and the Arin Ilejay era that followed.
 
-For the drum gear, Portnoy brought his 2010 touring configuration: a **Tama Starclassic Maple** kit and a **Paiste/Sabian hybrid cymbal rig** — equipment refined across years of high-demand Dream Theater touring. He was in peak physical and technical form, having just completed the *Black Clouds & Silver Linings* (2009) cycle. The Nightmare sessions put that form in service of someone else's music, which makes the performances all the more remarkable.
+For the drum gear, Portnoy brought his 2010 touring configuration: a **Tama Starclassic Maple** kit and a **Sabian HHX Evolution cymbal rig** — equipment refined across years of high-demand Dream Theater touring. He was in peak physical and technical form, having just completed the *Black Clouds & Silver Linings* (2009) cycle. The Nightmare sessions put that form in service of someone else's music, which makes the performances all the more remarkable.
 
 This article documents the gear Mike Portnoy used on *Nightmare*, the context of his guest appearance, and what this recording means in both his career arc and the broader A7X drummer narrative.
 
@@ -23,7 +23,7 @@ This article documents the gear Mike Portnoy used on *Nightmare*, the context of
 
 - **Drums:** Tama Tama Starclassic Maple (Transparent Black / Midnight Blue Sparkle finish)
 - **Snare:** Tama Tama Starclassic Maple Snare, 14" x 6.5"
-- **Cymbals:** Paiste / Sabian — Paiste and Sabian hybrid configuration
+- **Cymbals:** Sabian — Sabian HHX Evolution Series
 - **Hardware / Pedals:** DW 9000 Double Pedal; DW 9000 Hi-Hat Stand; Tama Power Tower Rack; Tama 1st Chair; Vic Firth Mike Portnoy Signature
 - **Heads:** Remo Ambassador Coated (batter), Remo Ambassador Snare Side (resonant)
 - **Snare tuning:** Medium tension — balanced attack and sensitivity for the album's wide dynamic range
@@ -46,15 +46,25 @@ The maple shell's character complemented the album's emotional register. Maple s
 
 Tuned in the medium range for the sessions, the snare delivered clear attack for metal passages while retaining the sensitivity for dynamic variation that The Rev's original compositions required. Portnoy's task was to replicate The Rev's drum voice as faithfully as possible — and the Starclassic Maple snare's versatile character gave him the range to do that.
 
-### The 2010 Hybrid Rig: Paiste and Sabian
+### The 2010 Sabian HHX Evolution Setup
 
-Portnoy's cymbal configuration for the *Nightmare* sessions reflected a transitional moment in his endorsement history — a hybrid of Sabian HHX and Paiste 2002 cymbals drawn from the expanding arsenal of a drummer who had been exploring both brands through the late Dream Theater era.
+Portnoy's cymbal configuration for the *Nightmare* sessions was his proven Sabian HHX Evolution touring rig, carried over directly from *Black Clouds & Silver Linings* (2009) — two years of *Systematic Chaos* and *Black Clouds* touring had tested every cymbal's character across every conceivable musical context.
 
-The combination delivered a distinctive palette. Sabian's HHX series — hand-hammered with a complex, dark wash — provided depth and atmosphere suited to *Nightmare*'s more emotionally resonant material: "So Far Away," "Fiction," "Tonight the World Dies." The Paiste 2002's brighter, more direct character cut through the heavy guitar frequencies on "God Hates Us," "Natural Born Killer," and "Nightmare" itself.
+Sabian's HHX Evolution series — hand-hammered with an unlathed finish, producing a darker, complex overtone wash — provided the depth and atmosphere suited to *Nightmare*'s more emotionally resonant material: "So Far Away," "Fiction," "Tonight the World Dies." The same cymbals also delivered the projection and cutting power needed on the heavier tracks, "God Hates Us," "Natural Born Killer," and "Nightmare" itself.
 
-The Rev had been known for a specific cymbal sound — responsive, with a dark complexity that suited his jazz-influenced approach within A7X's metal framework. The Sabian HHX elements of Portnoy's hybrid rig were the closest match to that character available within his existing setup. Rather than sourcing an entirely new cymbal configuration to approximate The Rev's palette, Portnoy drew on the darker elements of his hybrid rig and used the Paiste 2002 pieces for projection and power where the arrangements demanded it.
+The Rev had been known for a specific cymbal sound — responsive, with a dark complexity that suited his jazz-influenced approach within A7X's metal framework. The HHX Evolution series' hand-hammered, complex wash was the closest match to that character available within Portnoy's existing setup, and he leaned on it throughout the sessions to approximate The Rev's palette without needing to source new equipment.
 
-For an album recorded under significant emotional and time pressure — the band needed to complete *Nightmare* quickly, both for commercial reasons and out of a desire to release the tribute within the mourning period — Portnoy's existing hybrid rig was a practical necessity and a musical strength. He knew this equipment inside out.
+For an album recorded under significant emotional and time pressure — the band needed to complete *Nightmare* quickly, both for commercial reasons and out of a desire to release the tribute within the mourning period — Portnoy's existing, road-proven Sabian rig was a practical necessity and a musical strength. He knew this equipment inside out.
+
+## The Tribute That Topped the Charts
+
+*Nightmare* stands as one of the most unusual and moving records in modern heavy metal history — an album that needed to function simultaneously as a commercial release, a tribute to a fallen friend, and a bridge between two eras of one of metal's most passionate fanbases. Mike Portnoy's performance achieved all three.
+
+The gear he brought — Tama Starclassic Maple kit, Sabian HHX Evolution cymbals, DW 9000 pedals — was the equipment of a drummer at the peak of his technical and creative powers. But the performance required something beyond technical command: the discipline to disappear entirely into The Rev's compositions, to serve another drummer's vision with complete fidelity, and to do so under the emotional weight of grief, time pressure, and the scrutiny of one of metal's most devoted fan communities.
+
+That *Nightmare* debuted at #1, received a Grammy nomination for "So Far Away," and is still regularly cited by A7X fans as one of the band's most important records says everything about the quality of that service. Portnoy gave the A7X community The Rev's album. That is the most accurate description of what happened on *Nightmare* — and it is a remarkable thing to have done.
+
+For the Dream Theater arc that preceded this, see the [Systematic Chaos drum setup article](/articles/systematic-chaos-drum-setup) and the [Mike Portnoy drummer profile](/drummer/mike-portnoy). For what came next in the A7X drummer story, see the [Hail to the King drum setup article](/articles/hail-to-the-king-drum-setup) and the [Arin Ilejay drum setup guide](/articles/arin-ilejay-drum-setup).
 
 ## Key Facts
 
@@ -62,7 +72,7 @@ For an album recorded under significant emotional and time pressure — the band
 - The Rev (Jimmy Sullivan) died December 28, 2009 at age 28; Portnoy was personally close to Sullivan and accepted out of respect
 - Nightmare debuted at #1 on the Billboard 200 — Avenged Sevenfold's first US #1
 - "So Far Away" received a Grammy nomination — the album's defining tribute ballad
-- Tama Starclassic Maple kit + Paiste/Sabian hybrid rig — Portnoy's 2010 touring configuration
+- Tama Starclassic Maple kit + Sabian HHX Evolution cymbal rig — Portnoy's 2010 touring configuration
 - Fills the A7X drummer arc: [The Rev era] → Nightmare (Portnoy 2010) → Hail to the King (Ilejay 2013)
 - Portnoy left Dream Theater in September 2010; Nightmare was recorded before his DT departure
 - Tama Starclassic Maple — warmer, more resonant than the Bubinga shells of the Dream Theater studio era
@@ -89,7 +99,7 @@ A: Nightmare (2010) is the last Avenged Sevenfold album associated with The Rev 
 
 **Q: What drums did Mike Portnoy use on the Nightmare album?**
 
-A: Mike Portnoy used a Tama Starclassic Maple kit for the Nightmare (2010) sessions — his 2010 touring configuration featuring double 22"x18" bass drums, five rack toms (8" through 14"), and three floor toms (14", 16", 18"). His cymbal rig was a Paiste/Sabian hybrid, combining Paiste 2002 crashes and china with Sabian HHX crashes and ride. Hardware included the DW 9000 double bass pedal. He played his Vic Firth Mike Portnoy Signature sticks throughout the sessions. For the full Mike Portnoy gear story, see the [Mike Portnoy kit guide](/articles/whats-in-mike-portnoys-kit).
+A: Mike Portnoy used a Tama Starclassic Maple kit for the Nightmare (2010) sessions — his 2010 touring configuration featuring double 22"x18" bass drums, five rack toms (8" through 14"), and three floor toms (14", 16", 18"). His cymbal rig was Sabian HHX Evolution, carried over from the Black Clouds & Silver Linings touring setup — crashes, ride, chinese, and splash. Hardware included the DW 9000 double bass pedal. He played his Vic Firth Mike Portnoy Signature sticks throughout the sessions. For the full Mike Portnoy gear story, see the [Mike Portnoy kit guide](/articles/whats-in-mike-portnoys-kit).
 
 **Q: Was Avenged Sevenfold's Nightmare Grammy-nominated?**
 
@@ -99,4 +109,4 @@ A: "So Far Away" — the Grammy-nominated tribute ballad from Nightmare — rece
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

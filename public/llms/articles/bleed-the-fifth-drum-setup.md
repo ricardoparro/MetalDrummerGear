@@ -42,6 +42,17 @@ Yeung's Sabian AAX/HHX setup on Bleed the Fifth is built for exactly the acousti
 
 On "Anarchists of the Underground," the 20" HHX Ride carries a different role entirely — driving a groove-within-brutality texture where Yeung varies the accent placement across sections rather than running a static pattern, giving the track's dynamic range room to breathe even at extreme tempo.
 
+## Bleed the Fifth: The Record That Widened Tim Yeung's Audience
+
+Bleed the Fifth works as a career document precisely because it captures Tim Yeung's range rather than a single dimension of his playing. The title track proves he can sustain a 200 BPM blast beat with machine-like consistency; "Inferno of Violence" isolates the foot technique that makes that consistency possible; "Anarchists of the Underground" proves he can trade pure speed for groove without losing intensity. Few extreme metal drummers demonstrate all three capabilities on a single record as clearly as Yeung does here.
+
+The gear behind that performance — Pearl Reference Masters, Sabian AAX/HHX cymbals, a DW 9002 double bass pedal, Vic Firth 5B sticks — is the same setup Yeung carried into his subsequent Morbid Angel tenure, evidence that his equipment choices were never the variable driving his versatility. Logan Mader's production at Undercity Studios gave that performance the clarity to be heard in full detail.
+
+For deeper exploration:
+- **Full drummer profile**: [Tim Yeung at MetalForge](/drummer/tim-yeung)
+- **Complete gear breakdown**: [Tim Yeung drum setup](/articles/tim-yeung-drum-setup)
+- **Death metal cluster**: [Paul Mazurkiewicz drum setup — Cannibal Corpse](/articles/paul-mazurkiewicz-drum-setup)
+
 ## Key Facts
 
 - Bleed the Fifth (2007) is Divine Heresy's debut album, produced by Logan Mader at Undercity Studios
@@ -79,4 +90,4 @@ A: Tim Yeung played a Pearl Reference Masters kit on Bleed the Fifth — maple/m
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

@@ -60,6 +60,25 @@ The 22" Medium ride sees significant use across Epitaph in the album's more groo
 
 The 18" China appears at the album's most aggressive intensity peaks. Its trashy, explosive character provides the aggressive accent voice that tech-death's climactic moments demand.
 
+## Epitaph: The Foundation of Modern Technical Death Metal
+
+Necrophagist's "Epitaph" stands as one of the foundational documents of modern technical death metal, and Hannes Grossmann's drum performance is one of the central reasons. The album proved that the genre could combine extreme technical complexity with musical cohesion — every track is dense with vocabulary, but every track is also organized around clear musical structures and dynamic arcs that give the technical content emotional impact.
+
+**The Gear in Perspective:**
+Grossmann's setup on Epitaph — Tama Starclassic-era shells, Meinl cymbals in transition toward the mature Byzance configuration, Axis Longboard pedals, Vic Firth sticks — was professional but built around durability and articulation rather than exotic specifications. What made it produce the iconic Epitaph drum sound was the combination of Necrophagist's self-production discipline and Grossmann's playing. The lesson is consistent across great metal drumming: the gear is the foundation, but the performance is the music.
+
+**For Drummers Studying the Album:**
+Study Epitaph as a masterclass in tech-death vocabulary deployment. Grossmann demonstrates how density and complexity can be organized into musical statements rather than reduced to technical display. Listen to how "Stabwound" enters — the dynamic restraint that precedes the album's most intense passages is what makes those passages land. That's drumming as composition.
+
+**The Hannes Grossmann Legacy:**
+From Necrophagist's Epitaph (2004) through Obscura's Cosmogenesis (2009) and onward through Omnivium, Akroasis, Diluvium, and the Alkaloid catalog, Hannes Grossmann has established himself as one of the defining drummers of modern progressive death metal. Epitaph is the album where that career began, and it remains required listening for every drummer working in extreme metal today.
+
+**For deeper exploration:**
+- **Full drummer profile**: [Hannes Grossmann at MetalForge](/drummer/hannes-grossmann)
+- **Hannes Grossmann's broader kit setup**: [Hannes Grossmann drum setup](/articles/hannes-grossmann-drum-setup)
+- **Tech-death evolution**: [Obscura's Cosmogenesis drum setup](/articles/cosmogenesis-drum-setup)
+- **Tech-death predecessor**: [Death's Individual Thought Patterns drum setup](/articles/individual-thought-patterns-drum-setup)
+
 ## Key Facts
 
 - Released August 10, 2004 via Relapse Records — foundational technical death metal album
@@ -103,4 +122,4 @@ A: Stabwound is widely considered one of the most important tech death drum trac
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

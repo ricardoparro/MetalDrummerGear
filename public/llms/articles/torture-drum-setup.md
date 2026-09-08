@@ -1,6 +1,6 @@
 # Paul Mazurkiewicz's Drum Setup on Cannibal Corpse's 'Torture' (2012)
 
-> Complete drum gear breakdown for Cannibal Corpse's Torture (2012). Paul Mazurkiewicz's Pearl Reference and Meinl rig, Erik Rutan's two-studio production, and the band's highest Billboard 200 debut at the time.
+> Complete drum gear breakdown for Cannibal Corpse's Torture (2012). Paul Mazurkiewicz's Pearl Reference and Sabian rig, Erik Rutan's two-studio production, and the band's highest Billboard 200 debut at the time.
 
 **Type:** Album Drum Setup
 **Drummer(s):** [Paul Mazurkiewicz](/llms/drummers/paul-mazurkiewicz.md)
@@ -15,13 +15,13 @@ Torture was once again shaped by Erik Rutan, but the production process itself c
 
 Commercially, Torture became Cannibal Corpse's best chart performance to date, debuting at #38 on the Billboard 200 on first-week sales of roughly 9,600 copies — surpassing Evisceration Plague's #66 debut three years earlier. Critical reception was strong across the board: AllMusic's Gregory Heaney awarded the album 4 out of 5 stars, and the record posted a Metacritic aggregate score of 81/100 based on seven critic reviews, making it one of the best-reviewed Cannibal Corpse albums of the band's second decade.
 
-This article breaks down the Pearl Reference and Meinl configuration Mazurkiewicz brought into the Sonic Ranch sessions, Erik Rutan's split-studio production approach, and the technical character of a record that extended the band's most stable and highly regarded creative stretch.
+This article breaks down the Pearl Reference and Sabian configuration Mazurkiewicz brought into the Sonic Ranch sessions, Erik Rutan's split-studio production approach, and the technical character of a record that extended the band's most stable and highly regarded creative stretch.
 
 ## Gear Breakdown
 
 - **Drums:** Pearl Pearl Reference (mature endorsement configuration, 2012) (Custom finish (Pearl endorsement era) finish)
 - **Snare:** Pearl Pearl Free-Floating steel-shell snare, 14" x 6.5"
-- **Cymbals:** Meinl — Meinl Byzance (established endorsement, 2012)
+- **Cymbals:** Sabian — Sabian AAX (established endorsement, 2012)
 - **Hardware / Pedals:** Pearl Eliminator Double Bass Pedal; ddrum Acoustic Pro Triggers (live context); Vic Firth Paul Mazurkiewicz Signature
 - **Heads:** Remo Coated Ambassador (batter), Remo Diplomat Snare Side (resonant)
 - **Snare tuning:** Medium-high tension for cut and punch against the album's dense low-tuned guitar mix
@@ -40,11 +40,24 @@ The 14" x 6.5" Pearl Free-Floating steel-shell snare that had defined Mazurkiewi
 
 Erik Rutan's mix, finished back at Mana Recording Studios after the Sonic Ranch tracking sessions, again favored a forward, present snare position — a constant of every Cannibal Corpse production since the band's earliest Morrisound sessions — giving reviewers a consistent point of comparison against Kill and Evisceration Plague despite the change in tracking room.
 
-### Meinl Byzance: A Settled Arsenal at Sonic Ranch
+### Sabian AAX: A Settled Arsenal at Sonic Ranch
 
-The Meinl Byzance setup that had carried Mazurkiewicz through Kill and Evisceration Plague needed no adjustment for Torture — by 2012, the endorsement was as settled as the rest of his rig. Meinl's hand-hammered bronze construction gave the cymbals the fast attack and controlled decay to stay articulate against the album's dense low end, holding up equally well whether tracked in the Sonic Ranch drum room or mixed back at Mana.
+The Sabian AAX setup that had carried Mazurkiewicz through Kill and Evisceration Plague needed no adjustment for Torture — by 2012, the endorsement was as settled as the rest of his rig. Sabian's hand-hammered bronze construction gave the cymbals the fast attack and controlled decay to stay articulate against the album's dense low end, holding up equally well whether tracked in the Sonic Ranch drum room or mixed back at Mana.
 
 The 18" China remained the defining accent for riff transitions across tracks like "Scourge of Iron" and "Demented Aggression," a role it has occupied in Mazurkiewicz's vocabulary across every era of his recorded career. Rutan's mix again kept the cymbals present but controlled, avoiding wash across the album's faster blast-driven sections.
+
+## The High-Water Mark of the Rutan Era's Middle Stretch
+
+"Torture" stands as the commercial and critical high point of Cannibal Corpse's three-album run with the same lineup and the same producer. Paul Mazurkiewicz's Pearl Reference and Sabian rig, unchanged since Kill (2006), gave him a stable platform to carry his playing into an unfamiliar tracking room at Sonic Ranch Studios without losing a step, while Erik Rutan's split-studio production kept the band's established sonic identity fully intact.
+
+With a #38 Billboard 200 debut, an AllMusic 4/5 rating, and an 81/100 Metacritic score, Torture gave Cannibal Corpse its best chart and critical reception to date — proof that three albums into a stable creative partnership, the band was still finding ways to sharpen rather than repeat itself.
+
+For the complete Paul Mazurkiewicz CC gear arc around this record:
+- **The predecessor**: [Evisceration Plague drum setup (2009)](/articles/evisceration-plague-drum-setup) — Rutan's second Mana Recording Studios session
+- **The successor**: [A Skeletal Domain drum setup (2014)](/articles/skeletal-domain-drum-setup) — the album that ended the Rutan production streak
+- **The turning point**: [Kill drum setup (2006)](/articles/kill-drum-setup) — the return-to-brutality album and the start of the Rutan era
+- **Modern rig**: [Paul Mazurkiewicz drum setup](/articles/paul-mazurkiewicz-drum-setup) — Pearl Reference / Sabian / Pearl Eliminator
+- **Full profile**: [Paul Mazurkiewicz at MetalForge](/drummer/paul-mazurkiewicz)
 
 ## Key Facts
 
@@ -66,7 +79,7 @@ The 18" China remained the defining accent for riff transitions across tracks li
 
 **Q: What kit did Paul Mazurkiewicz use on Torture?**
 
-A: On Torture (2012), Paul Mazurkiewicz played the same Pearl Reference kit documented on Kill (2006) and Evisceration Plague (2009) — dual 22-inch x 18-inch kick drums, a four-tom layout in maple/African mahogany hybrid shells, and his 14-inch x 6.5-inch Pearl Free-Floating steel-shell snare. His Meinl Byzance cymbal setup and Pearl Eliminator double bass pedal carried over unchanged, giving the album the same core rig as its two predecessors.
+A: On Torture (2012), Paul Mazurkiewicz played the same Pearl Reference kit documented on Kill (2006) and Evisceration Plague (2009) — dual 22-inch x 18-inch kick drums, a four-tom layout in maple/African mahogany hybrid shells, and his 14-inch x 6.5-inch Pearl Free-Floating steel-shell snare. His Sabian AAX cymbal setup and Pearl Eliminator double bass pedal carried over unchanged, giving the album the same core rig as its two predecessors.
 
 **Q: Who produced Torture and where was it recorded?**
 
@@ -88,4 +101,4 @@ A: Torture marked the first time Cannibal Corpse tracked drums, bass, and rhythm
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

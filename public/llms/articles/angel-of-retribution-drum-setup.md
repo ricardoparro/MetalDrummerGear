@@ -52,6 +52,14 @@ The crash array spans 16" to 20", giving Travis a range from quick AA Medium acc
 
 This setup represents Travis's first year on his new cymbal platform: a hand-hammered HH/AA hybrid rig with a deliberate balance between cutting attack and musical sustain, replacing the Paiste setup he'd used since joining the band.
 
+## Closing the Arc
+
+Angel of Retribution isn't the loudest, fastest, or most extreme Judas Priest album — and that's exactly what makes it important. It's the record where Rob Halford came home after 13 years, where the classic lineup proved it could still write together, and where Scott Travis made the quiet but decisive shift from being the drummer who reinvented Priest on Painkiller to being the long-arc drummer who could serve any version of the band that came next.
+
+The new Pearl Reference Series kit, the Pearl Reference Brass snare, the Sabian HH/AA cymbal setup, the Pearl Demon Drive pedals, and the Vater signature sticks all add up to a rebuilt rig doing a new job: a mid-2000s reunion record that needed to feel modern without abandoning the band's DNA. Tracks like "Revolution," "Worth Fighting For," and the sprawling "Eulogy/Lochness" each show a different side of that toolkit, and together they bridge the 15-year arc gap between Painkiller (1990) and Nostradamus (2008) before the eventual Firepower-era gear change in 2018.
+
+For drummers studying Travis's career, Angel of Retribution is the missing middle chapter — the record that explains how the Painkiller phenom became the Firepower veteran, via a thirteen-year detour through Pearl and Sabian, without losing either identity along the way.
+
 ## Key Facts
 
 - Rob Halford's first studio album back with Judas Priest after a 13-year departure (1992-2005)
@@ -93,4 +101,4 @@ A: Eulogy/Lochness is a 13-minute closing epic that gives Travis more long-form 
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-08-24 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

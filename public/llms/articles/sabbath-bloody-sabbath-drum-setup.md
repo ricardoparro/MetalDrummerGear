@@ -44,6 +44,16 @@ Ward's core cymbal setup — Avedis Zildjian hi-hats, ride, and crash — carrie
 
 The ride carries much of "A National Acrobat"'s shifting phrasing, while crashes land more frequently across the album than on the comparatively austere *Master of Reality* — a reflection of the bigger dynamic range Black Sabbath were reaching for as a self-produced band with more studio time. Occasional use of a smaller splash-type cymbal for accents shows Ward reaching beyond the three-piece setup that had served him since the band's debut.
 
+## Black Sabbath's Most Ambitious Drum Performance Yet
+
+*Sabbath Bloody Sabbath* finds Bill Ward at his most musically versatile — driving the tritone-riffed title track with the same riff-locked precision he'd developed on earlier albums, then shifting into the more textured, dynamically varied playing demanded by "A National Acrobat" and "Spiral Architect." The bigger Ludwig kit and deeper Supraphonic snare gave him the tools; the self-produced sessions at Morgan Studios (after the band's unconventional writing stint at Clearwell Castle) gave him the time to use them.
+
+**For Drummers Studying *Sabbath Bloody Sabbath*:** the title track teaches controlled, stop-start kick placement rather than continuous patterns. "A National Acrobat" rewards close listening to how Ward shifts dynamics within irregular phrase lengths. "Spiral Architect" shows how a drummer can support an orchestrated arrangement without disappearing into it.
+
+For the rest of Ward's gear evolution through Black Sabbath's catalog, see the [Master of Reality drum setup](/articles/master-of-reality-drum-setup), recorded two years earlier, and the [Bill Ward drummer profile](/drummer/bill-ward).
+
+🥁 *The album where Black Sabbath got ambitious — and Bill Ward's bigger Ludwig kit was right there to support it.* 🥁
+
 ## Key Facts
 
 - Writing sessions began at Clearwell Castle, Wales, before recording finished at Morgan Studios, London
@@ -79,4 +89,4 @@ A: Bill Ward's expanded Ludwig kit on *Sabbath Bloody Sabbath* — a 24" bass dr
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

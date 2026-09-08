@@ -58,13 +58,29 @@ The Paiste 2002 series handled crashes and ride duties. The 2002 has been a fixt
 
 The 18" China cymbal added the trashy, aggressive accent that Motörhead's heaviest moments demanded. Dee deployed it sparingly — a punctuation mark rather than a constant texture — giving each hit maximum impact.
 
+## The New Motörhead Standard: Bastards and the Dee Era Begins
+
+*Bastards* (1993) is the sound of Motörhead recalibrating. Phil Taylor's chaotic thunder had defined the band through its classic period, and replacing him was an impossible task in the minds of devoted fans. Mikkey Dee didn't attempt to replicate Taylor — he brought something different, and arguably better: the same raw power delivered with Swedish precision and professional control.
+
+The Tama/Paiste setup that powered *Bastards* was the right tool for this moment. The Artstar II shells produced a drum tone with genuine character and definition. The Giant Beat hi-hats provided the body to be heard next to Lemmy's legendary volume. The Iron Cobra pedals delivered the mechanical precision that Dee's placement-focused kick technique required.
+
+**For Drummers Studying Bastards:**
+The most important lesson is the transition from Taylor to Dee — how a band with deeply embedded sonic identity can integrate a fundamentally different drummer while retaining its essential character. Study "Burner" for Dee's high-tempo groove approach: the kick placement, the ghost note density, the way fills end cleanly on the downbeat. Then compare it to classic Taylor tracks on *Overkill* or *Ace of Spades*. Two legitimate approaches to the same band context, separated by entirely different philosophies.
+
+**The Gear Legacy:**
+Tama Iron Cobra pedals remain among the most respected chain-drive pedals in rock drumming. Paiste's Giant Beat series — revived and continuously available — is the authentic classic-rock cymbal choice. A drummer who wants to approximate the *Bastards* drum sound doesn't need an enormous budget, just the right gear philosophy: power through placement, not volume alone.
+
+For Mikkey Dee's complete setup evolution — from the Tama era through his Sonor/Paiste years with both Motörhead and Scorpions — see the [Mikkey Dee drummer profile](/drummer/mikkey-dee) and the [full kit breakdown](/articles/whats-in-mikkey-dees-kit).
+
+🤘 *Twenty-three years with the world's loudest band. It started here.* 🤘
+
 ## Key Facts
 
 - First Motörhead studio album featuring Mikkey Dee, released November 1, 1993
 - Mikkey Dee joined Motörhead in early 1992, replacing Phil "Philthy Animal" Taylor
 - "Born to Raise Hell" featured Ice-T and Whitfield Crane (Ugly Kid Joe) — most commercially visible track
 - Dee's Tama/Paiste setup represented a significant tonal departure from Taylor's era
-- Tama Artstar II series used by Dee in his early Motörhead years — later transitioning to Yamaha
+- Tama Artstar II series used by Dee in his early Motörhead years
 - 22" bass drum: classic hard rock size, punchy and focused rather than overwhelming
 - Multi-tom configuration gave Dee options for the varied material on Bastards
 - Maple shells provided warm attack and even sustain suited to studio capture
@@ -75,7 +91,7 @@ The 18" China cymbal added the trashy, aggressive accent that Motörhead's heavi
 
 **Q: What drums did Mikkey Dee use on Bastards?**
 
-A: On *Bastards* (1993), Mikkey Dee used a Tama drum kit — specifically the Artstar II / Swingstar series that he relied on during his early Motörhead years. The configuration centered on a 22" bass drum for focused, punchy low-end, with three rack toms (10", 12", 13") and dual floor toms (16", 18"). This was Dee's first studio album with Motörhead — he had joined the band in early 1992, replacing Phil "Philthy Animal" Taylor. Dee would later transition to Yamaha drums, but his Tama era produced some of his most visceral Motörhead recordings. For his complete career gear evolution, see the [Mikkey Dee drummer profile](/drummer/mikkey-dee).
+A: On *Bastards* (1993), Mikkey Dee used a Tama drum kit — specifically the Artstar II / Swingstar series that he relied on during his early Motörhead years. The configuration centered on a 22" bass drum for focused, punchy low-end, with three rack toms (10", 12", 13") and dual floor toms (16", 18"). This was Dee's first studio album with Motörhead — he had joined the band in early 1992, replacing Phil "Philthy Animal" Taylor. His Tama era produced some of his most visceral Motörhead recordings. For his complete career gear evolution, see the [Mikkey Dee drummer profile](/drummer/mikkey-dee).
 
 **Q: When did Mikkey Dee join Motörhead?**
 
@@ -87,10 +103,10 @@ A: Phil Taylor's drumming was characterized by barely-controlled fury — enormo
 
 **Q: What cymbals did Mikkey Dee use on Bastards?**
 
-A: During the *Bastards* (1993) sessions, Mikkey Dee used a Paiste setup combining Giant Beat and Paiste 2002 series cymbals. The Giant Beat 15" hi-hats provided more body and projection than standard 14" hi-hats — essential when playing next to Lemmy's legendary bass volume. Paiste 2002 crashes (18" and 20") and a 22" ride handled accent and time-keeping duties, with an 18" China cymbal for trashy accents on Motörhead's heaviest moments. Paiste's CuSn8 bronze alloy — shared by both the Giant Beat and 2002 series — delivers a warm, complex sound that cuts through dense mixes naturally. Dee would later move toward Zildjian cymbals as his endorsement relationships evolved.
+A: During the *Bastards* (1993) sessions, Mikkey Dee used a Paiste setup combining Giant Beat and Paiste 2002 series cymbals. The Giant Beat 15" hi-hats provided more body and projection than standard 14" hi-hats — essential when playing next to Lemmy's legendary bass volume. Paiste 2002 crashes (18" and 20") and a 22" ride handled accent and time-keeping duties, with an 18" China cymbal for trashy accents on Motörhead's heaviest moments. Paiste's CuSn8 bronze alloy — shared by both the Giant Beat and 2002 series — delivers a warm, complex sound that cuts through dense mixes naturally. Dee's Paiste relationship continued for the rest of his career, later shifting toward the Signature Series he plays today with Scorpions.
 
 **Source:** https://metalforge.io/articles/bastards-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

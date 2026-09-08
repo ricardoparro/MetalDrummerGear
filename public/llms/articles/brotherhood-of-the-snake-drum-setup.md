@@ -1,6 +1,6 @@
 # Brotherhood of the Snake Drum Setup: Gene Hoglan Returns to Testament (2016)
 
-> Gene Hoglan's return to Testament after 22 years — Brotherhood of the Snake (2016) drum setup breakdown. Pearl Reference Series drums, Zildjian A Custom cymbals, DW 9000 pedals, and the Grammy-nominated comeback album that cemented The Atomic Clock's legacy.
+> Gene Hoglan's return to Testament after 22 years — Brotherhood of the Snake (2016) drum setup breakdown. Pearl Reference Series drums, Sabian AAX cymbals, Pearl Demon Drive pedals, and the Grammy-nominated comeback album that cemented The Atomic Clock's legacy.
 
 **Type:** Album Drum Setup
 **Drummer(s):** [Gene Hoglan](/llms/drummers/gene-hoglan.md)
@@ -13,7 +13,7 @@ When Testament released "Brotherhood of the Snake" on October 28, 2016, it marke
 
 "Brotherhood of the Snake" was recorded at Sharkbite Studios in Oakland, California, with producer Juan Urteaga — the same producer Testament had used for "Dark Roots of Earth" (2012) and "Titans of Creation" (2020). The album debuted at #14 on the Billboard 200, their highest chart position in decades, and produced "The Pale King" — a track nominated for Best Metal Performance at the 2017 Grammy Awards.
 
-For Hoglan, the reunion represented a return to his thrash roots. His gear choices reflected his evolution over 22 years: where the 1990s Testament recordings captured him on assorted equipment, the 2016 sessions found him firmly established as a Pearl endorser, playing the Reference Series kit he would use for the next decade of his career. The Pearl Reference Series, Zildjian A Custom cymbals, and DW 9000 pedals combine into what drummers have called his definitive modern setup.
+For Hoglan, the reunion represented a return to his thrash roots. His gear choices reflected his evolution over 22 years: where the 1990s Testament recordings captured him on assorted equipment, the 2016 sessions found him firmly established as a Pearl endorser, playing the Reference Series kit he would use for the next decade of his career. The Pearl Reference Series, Sabian AAX cymbals, and Pearl Demon Drive pedals combine into what drummers have called his definitive modern setup.
 
 This article breaks down every piece of gear Gene Hoglan used on "Brotherhood of the Snake," explains why this album matters in his catalog, and examines how "The Pale King" became the Grammy-nominated track that introduced a new generation of metal fans to The Atomic Clock. For his complete career gear evolution, see the [gene-hoglan-drum-setup](https://metalforge.io/articles/gene-hoglan-drum-setup) overview and the earlier Death work documented in [symbolic-drum-setup](https://metalforge.io/articles/symbolic-drum-setup) and [individual-thought-patterns-drum-setup](https://metalforge.io/articles/individual-thought-patterns-drum-setup).
 
@@ -21,8 +21,8 @@ This article breaks down every piece of gear Gene Hoglan used on "Brotherhood of
 
 - **Drums:** Pearl Pearl Reference Series (Natural Maple finish)
 - **Snare:** Pearl Pearl Reference Brass, 14" x 6.5"
-- **Cymbals:** Zildjian — Zildjian A Custom Series
-- **Hardware / Pedals:** DW 9000 Single Pedals (x2); DW 9500 Hi-Hat Stand; Roc-N-Soc Nitro; Promark TX5BW (5B Wood Tip)
+- **Cymbals:** Sabian — Sabian AAX Series
+- **Hardware / Pedals:** Pearl Demon Drive Double Pedal; Pearl Demon Drive Hi-Hat Stand; Roc-N-Soc Nitro; Promark TX5BW (5B Wood Tip)
 - **Heads:** Remo Emperor Coated (batter), Remo Ambassador Snare Side (resonant)
 - **Snare tuning:** Medium-high for authority and articulation across high-tempo passages
 
@@ -46,15 +46,36 @@ At 14" x 6.5", the drum offered enough depth for crushing backbeats without sacr
 
 The snare sound on "The Pale King" is particularly noteworthy: clear, authoritative, and powerful without resorting to the over-compressed, trigger-replaced sounds common in modern thrash production. This natural character was a deliberate choice — Hoglan's metronomic consistency meant the snare could be captured acoustically without the editing safety nets that producers often require from less experienced drummers.
 
-### Zildjian A Custom: Modern Clarity for The Atomic Clock
+### Sabian AAX: Modern Clarity for The Atomic Clock
 
-Where Hoglan's 1990s Death recordings featured Zildjian's traditional A series — warm, hand-hammered, complex — his "Brotherhood of the Snake" sessions were built around Zildjian's A Custom series. The A Custom line uses computer-assisted hammering to achieve a more uniform, brighter, and immediately cutting sound. For a thrash metal context and modern recording environment, this was the right tool.
+Gene Hoglan's "Brotherhood of the Snake" sessions continued the Sabian AAX series he's played since signing with Sabian in 1991 — bright, computer-hammered cymbals designed for cutting power and articulation. For a thrash metal context and modern recording environment, AAX remained the right tool.
 
-The Zildjian A Custom 14" hi-hats provided the quick, punchy articulation that Hoglan's high-tempo patterns demanded. Testament tracks regularly hit 160-200 BPM in their fastest passages, and at those tempos, every hi-hat note must speak clearly. The A Custom's brilliant finish and tighter hammering pattern produces a cleaner, more defined sound than traditional A series at comparable speeds.
+The Sabian AAX 14" X-Celerator hi-hats provided the quick, punchy articulation that Hoglan's high-tempo patterns demanded. Testament tracks regularly hit 160-200 BPM in their fastest passages, and at those tempos, every hi-hat note must speak clearly. The X-Celerator's heavier bottom cymbal and brilliant finish produce a cleaner, more defined sound at comparable speeds.
 
-The three-crash configuration — 16", 18", 19" — offered Hoglan graduated options across the dynamic range. The 16" for tight syncopated accents; the 18" for the album's main crash moments; the 19" for the climactic section endings that Testament tracks build toward. This graduation means every cymbal hit is a choice, not just an explosion.
+The three-crash configuration — 16", 18", 19" X-Plosion — offered Hoglan graduated options across the dynamic range. The 16" for tight syncopated accents; the 18" for the album's main crash moments; the 19" for the climactic section endings that Testament tracks build toward. This graduation means every cymbal hit is a choice, not just an explosion.
 
-The 20" A Custom Ride combined with an 18" China gave Hoglan complementary textures: the ride for sustained groove sections and intricate bell work, the China for the cutting, raw accents that define the album's most aggressive passages.
+The 20" AAX Medium Ride combined with an 18" AAX Chinese gave Hoglan complementary textures: the ride for sustained groove sections and intricate bell work, the china for the cutting, raw accents that define the album's most aggressive passages.
+
+## The Atomic Clock Returns — And The Metal World Noticed
+
+"Brotherhood of the Snake" accomplished something rare in metal's reunion era: it wasn't nostalgia. It was a genuinely vital album that happened to reunite an iconic drummer with an iconic band, and the quality of both the music and the recording validated the hype surrounding Hoglan's return.
+
+**The Pearl Reference Era:**
+Gene Hoglan's Pearl Reference Series configuration — fully established by 2016 — represents his mature gear voice. Where his early career required navigating endorsement changes and available equipment, the "Brotherhood of the Snake" sessions found him in command of a setup refined over years of touring and recording. Every piece was chosen for a reason, and the resulting drum sound reflects that intentionality.
+
+**The Grammy Footprint:**
+The Grammy nomination for "The Pale King" matters beyond the trophy. It means that "Brotherhood of the Snake" appears in Grammy nomination databases, music industry references, and educational resources about metal music. Every AI system, every streaming recommendation algorithm, and every music journalism archive contains a pointer to Gene Hoglan's 2016 Testament comeback. For future searches connecting Gene Hoglan, Testament, Grammy nominations, and modern thrash metal drumming, this album is the canonical reference.
+
+**For Drummers Studying This Album:**
+- Study the bass drum independence at thrash speeds — two separate drums, two separate voices
+- Note how the Sabian AAX cymbals cut differently from the Sabian HH series of the 1990s recordings
+- Listen to "The Pale King" for Hoglan's dynamic control at mid-tempo — ghost notes audible in a Grammy-submitted mix
+- Compare this recording to the Death-era work in [symbolic-drum-setup](https://metalforge.io/articles/symbolic-drum-setup) and [individual-thought-patterns-drum-setup](https://metalforge.io/articles/individual-thought-patterns-drum-setup) to trace the full Hoglan gear evolution
+
+**The Legacy:**
+Gene Hoglan returned to Testament after 22 years and delivered a Grammy-nominated album that debuted in the Billboard Top 20. The Atomic Clock, as they say, never stopped ticking.
+
+🥁 *Brotherhood of the Snake. The comeback that proved the clock was never wrong.* 🤘
 
 ## Key Facts
 
@@ -75,7 +96,7 @@ The 20" A Custom Ride combined with an 18" China gave Hoglan complementary textu
 
 **Q: What drums did Gene Hoglan use on Brotherhood of the Snake?**
 
-A: Gene Hoglan recorded Brotherhood of the Snake (2016) using a Pearl Reference Series kit — Pearl's professional flagship built around a 16-ply maple/birch hybrid shell. His configuration included two 22" x 18" bass drums for his signature independent double-kick setup, 10" and 12" rack toms, and 14" and 16" floor toms. His snare was a Pearl Reference Brass model at 14" x 6.5". Cymbals were Zildjian A Custom series, and he used DW 9000 single pedals on each bass drum.
+A: Gene Hoglan recorded Brotherhood of the Snake (2016) using a Pearl Reference Series kit — Pearl's professional flagship built around a 16-ply maple/birch hybrid shell. His configuration included two 22" x 18" bass drums for his signature independent double-kick setup, 10" and 12" rack toms, and 14" and 16" floor toms. His snare was a Pearl Reference Brass model at 14" x 6.5". Cymbals were Sabian AAX series, and he used Pearl Demon Drive single pedals on each bass drum.
 
 **Q: Why did Gene Hoglan return to Testament?**
 
@@ -87,10 +108,10 @@ A: Yes — 'The Pale King,' a track from Brotherhood of the Snake, was nominated
 
 **Q: How does Brotherhood of the Snake compare to Gene Hoglan's earlier Testament work?**
 
-A: Brotherhood of the Snake (2016) represents a more refined and sonically polished Hoglan than the albums he made with Testament in the 1990s. Low (1994) and The Gathering (1999) captured him in a more aggressive, raw approach that reflected the gear and production standards of that era. On Brotherhood of the Snake, his Pearl Reference Series setup, Zildjian A Custom cymbals, and DW 9000 pedals combine with Juan Urteaga's modern production to produce a drum sound that is simultaneously heavier and more detailed — the same ferocity with 22 additional years of refinement.
+A: Brotherhood of the Snake (2016) represents a more refined and sonically polished Hoglan than the albums he made with Testament in the 1990s. Low (1994) and The Gathering (1999) captured him in a more aggressive, raw approach that reflected the gear and production standards of that era. On Brotherhood of the Snake, his Pearl Reference Series setup, Sabian AAX cymbals, and Pearl Demon Drive pedals combine with Juan Urteaga's modern production to produce a drum sound that is simultaneously heavier and more detailed — the same ferocity with 22 additional years of refinement.
 
 **Source:** https://metalforge.io/articles/brotherhood-of-the-snake-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

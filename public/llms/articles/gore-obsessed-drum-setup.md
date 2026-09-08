@@ -1,6 +1,6 @@
 # Paul Mazurkiewicz's Drum Setup on Cannibal Corpse's Gore Obsessed (2002)
 
-> Complete drum gear breakdown for Cannibal Corpse's Gore Obsessed (2002). Paul Mazurkiewicz's solidifying Pearl Reference and Meinl rig, Neil Kernon's Sonic Ranch production, and the bridge album connecting Bloodthirst to The Wretched Spawn and Kill.
+> Complete drum gear breakdown for Cannibal Corpse's Gore Obsessed (2002). Paul Mazurkiewicz's solidifying Pearl Reference and Sabian rig, Neil Kernon's Sonic Ranch production, and the bridge album connecting Bloodthirst to The Wretched Spawn and Kill.
 
 **Type:** Album Drum Setup
 **Drummer(s):** [Paul Mazurkiewicz](/llms/drummers/paul-mazurkiewicz.md)
@@ -15,13 +15,13 @@ The album marked another production relocation. After four albums at Morrisound 
 
 Gore Obsessed charted modestly but measurably: #11 on the US Independent Albums chart, #28 on the Billboard Heatseekers Albums chart, and #71 on the German Albums chart, continuing the gradual commercial trajectory the band had built since Vile's 1996 Billboard 200 debut. The same five-piece lineup that had recorded Gallery of Suicide and Bloodthirst — Fisher, Pat O'Brien, Jack Owen, Alex Webster, and Mazurkiewicz — remained intact, giving the album a stability in personnel that let the band focus on tightening its compositional and technical approach rather than absorbing a lineup change.
 
-Behind the kit, Mazurkiewicz's gear had moved further along the path it had been tracing since Gallery of Suicide: the Pearl Reference configuration and Meinl cymbal endorsement that define his modern rig were now considerably more solidified than the transitional setups of 1998 and 1999, and the Pearl Eliminator double bass pedal — a defining piece of his later-career rig — was now an established part of his setup. This article breaks down that more mature configuration, Neil Kernon's Sonic Ranch production, and the technical refinement Gore Obsessed represents in Mazurkiewicz's pre-Kill development.
+Behind the kit, Mazurkiewicz's gear had moved further along the path it had been tracing since Gallery of Suicide: the Pearl Reference configuration and Sabian cymbal endorsement that define his modern rig were now considerably more solidified than the transitional setups of 1998 and 1999, and the Pearl Eliminator double bass pedal — a defining piece of his later-career rig — was now an established part of his setup. This article breaks down that more mature configuration, Neil Kernon's Sonic Ranch production, and the technical refinement Gore Obsessed represents in Mazurkiewicz's pre-Kill development.
 
 ## Gear Breakdown
 
 - **Drums:** Pearl Pearl Reference (solidifying endorsement configuration, 2002) (Custom finish (Pearl endorsement era) finish)
 - **Snare:** Pearl Pearl steel-shell snare (developing toward Free-Floating), 14" x 6.5"
-- **Cymbals:** Meinl — Meinl Classics / Byzance (established endorsement, 2002)
+- **Cymbals:** Sabian — Sabian AAX Series (established endorsement, 2002)
 - **Hardware / Pedals:** Pearl Eliminator Double Bass Pedal; ddrum Acoustic Pro Triggers (live context); Vic Firth 5B or developing signature specification
 - **Heads:** Remo Coated Ambassador (batter), Remo Diplomat Snare Side (resonant)
 - **Snare tuning:** Medium tension — more body and authority than the earlier wood-shell snares, tuned for both blast and groove contexts
@@ -42,13 +42,26 @@ The steel shell's brighter, more cutting overtone profile gave the snare extra p
 
 Kernon's snare capture favored a forward, present mix position, consistent with the priority every Cannibal Corpse producer placed on keeping Mazurkiewicz's backbeat legible through the band's dense, multi-guitar arrangements.
 
-### Meinl Established: The Full Endorsement Arsenal
+### Sabian Established: The Full Endorsement Arsenal
 
-By Gore Obsessed, the Meinl cymbal endorsement that had been developing since Bloodthirst (1999) was firmly established as Mazurkiewicz's primary cymbal setup, in the Classics or early Byzance series range. Meinl's hand-hammered bronze construction — fast attack, controlled decay — suited the album's dual character well: focused enough to stay readable through the record's rapid-fire blast sections, with enough body to carry weight through the heavier, chugging mid-tempo passages that AllMusic's contemporary review singled out.
+By Gore Obsessed, the Sabian cymbal endorsement that had been developing since Bloodthirst (1999) was firmly established as Mazurkiewicz's primary cymbal setup, in the AAX Series range. Sabian's hand-hammered bronze construction — fast attack, controlled decay — suited the album's dual character well: focused enough to stay readable through the record's rapid-fire blast sections, with enough body to carry weight through the heavier, chugging mid-tempo passages that AllMusic's contemporary review singled out.
 
-The 14" hi-hats continued to anchor the rhythmic pulse across both modes, while the China cymbal remained a central accent in Mazurkiewicz's vocabulary for marking riff transitions — a role it had played consistently since the band's earliest records, now voiced through a fully mature Meinl setup rather than the budget Paiste/Zildjian cymbals of the pre-endorsement era.
+The 14" hi-hats continued to anchor the rhythmic pulse across both modes, while the China cymbal remained a central accent in Mazurkiewicz's vocabulary for marking riff transitions — a role it had played consistently since the band's earliest records, now voiced through a fully mature Sabian setup rather than the budget Paiste/Zildjian cymbals of the pre-endorsement era.
 
 Neil Kernon's Sonic Ranch mix gave the cymbals a present, well-defined position, supporting the album's alternating tempo character without letting cymbal wash blur the more extreme blast passages.
+
+## The Quiet Bridge to Kill
+
+"Gore Obsessed" rarely tops lists of Cannibal Corpse's essential albums, overshadowed by the Fisher-era arrival of "Bloodthirst" on one side and the widely celebrated "Kill" two albums later. But as a document of Paul Mazurkiewicz's gear and technique at a pivotal consolidation point, it deserves more attention than it typically receives. The Pearl Reference and Sabian relationships that define his modern setup were, by 2002, no longer developing — they were established. The Pearl Eliminator pedal that powers his blast beat work today was a settled part of his rig. And the dual fluency between extreme-tempo blasting and heavy mid-tempo groove that the album's compositions demanded gave him a technical workout that directly informed the more celebrated playing on Kill four years later.
+
+Neil Kernon's Sonic Ranch production gave the record a sound distinct from both the dry Tampa attack of the Morrisound era and the denser British weight of Bloodthirst — a third sonic identity in as many albums, reflecting a band still actively searching for its definitive studio environment even as its lineup and gear had stabilized.
+
+For the complete Paul Mazurkiewicz CC gear arc around this record:
+- **The predecessor**: [Bloodthirst drum setup (1999)](/articles/bloodthirst-drum-setup) — the Fisher-era establishment record
+- **The earlier transitional chapter**: [Gallery of Suicide drum setup (1998)](/articles/gallery-of-suicide-drum-setup) — the last Morrisound session
+- **The genre landmark**: [Tomb of the Mutilated drum setup (1992)](/articles/tomb-of-the-mutilated-drum-setup) — the Morrisound peak
+- **Modern rig**: [Paul Mazurkiewicz drum setup](/articles/paul-mazurkiewicz-drum-setup) — Pearl Reference / Sabian / Pearl Eliminator
+- **Full profile**: [Paul Mazurkiewicz at MetalForge](/drummer/paul-mazurkiewicz)
 
 ## Key Facts
 
@@ -56,7 +69,7 @@ Neil Kernon's Sonic Ranch mix gave the cymbals a present, well-defined position,
 - Produced by Neil Kernon with engineer Justin Leeah at Sonic Ranch, Tornillo, Texas — a third distinct studio environment after Morrisound and Skyclad
 - Charted at #11 US Independent Albums, #28 Billboard Heatseekers Albums, and #71 German Albums
 - Same five-piece Fisher-era lineup as Gallery of Suicide and Bloodthirst — Fisher, O'Brien, Owen, Webster, Mazurkiewicz
-- Pearl Reference and Meinl endorsement relationships considerably more solidified than the 1998–1999 transitional setups
+- Pearl Reference and Sabian endorsement relationships considerably more solidified than the 1998–1999 transitional setups
 - Pearl Eliminator double bass pedal now an established part of the rig
 - Limited edition included a Metallica cover, 'No Remorse,' as a bonus track
 - Pearl Reference-tier maple/African mahogany hybrid shells — endorsement relationship now clearly solidified
@@ -70,7 +83,7 @@ Neil Kernon's Sonic Ranch mix gave the cymbals a present, well-defined position,
 
 **Q: What kit did Paul Mazurkiewicz use on Gore Obsessed?**
 
-A: On Gore Obsessed (2002), Paul Mazurkiewicz played a Pearl Reference-tier kit with dual 22-inch x 18-inch kick drums, a four-tom layout (two rack toms, two floor toms), and a 14-inch x 6.5-inch steel-shell snare moving toward his signature Free-Floating model. His Meinl cymbal endorsement, first developing around Bloodthirst (1999), was firmly established by this point, and the Pearl Eliminator double bass pedal was a settled part of his hardware setup. This configuration is considerably closer to his modern rig than the transitional gear documented on Gallery of Suicide (1998).
+A: On Gore Obsessed (2002), Paul Mazurkiewicz played a Pearl Reference-tier kit with dual 22-inch x 18-inch kick drums, a four-tom layout (two rack toms, two floor toms), and a 14-inch x 6.5-inch steel-shell snare moving toward his signature Free-Floating model. His Sabian cymbal endorsement, first developing around Bloodthirst (1999), was firmly established by this point, and the Pearl Eliminator double bass pedal was a settled part of his hardware setup. This configuration is considerably closer to his modern rig than the transitional gear documented on Gallery of Suicide (1998).
 
 **Q: What Cannibal Corpse albums came out between Bloodthirst and Kill?**
 
@@ -92,4 +105,4 @@ A: The limited edition of Gore Obsessed (2002) included a cover of Metallica's '
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

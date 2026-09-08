@@ -56,6 +56,16 @@ The crash configuration (16" and 18") mirrored the setups Lars had used since th
 
 The 20" A Custom Ride provided clear bell definition for the riding passages throughout tracks like "The Unforgiven III" and "Cyanide," while the 18" China supplied the explosive, trashy accents that punctuated riff endings — a Metallica signature going back to Master of Puppets.
 
+## Death Magnetic: The Comeback Kit
+
+Death Magnetic represents a decisive moment in Lars Ulrich's career: the decision to recommit to the thrash drumming that made his reputation. The Tama Starclassic Birch kit, Zildjian A Custom cymbals, and Rick Rubin's production created a drum sound that acknowledged the Black Album era without being trapped by it — punchy and direct where the Justice era was dry and technical, aggressive and forward-pushing where St. Anger was intentionally raw.
+
+The album's Loudness War controversy is inseparable from its legacy. The irony is that the actual drum performances — Lars playing with more double-bass stamina than he had shown in two decades — are among his strongest. The mastering-stage compression that generated so much controversy obscured rather than enhanced what was captured in the studio.
+
+For drummers interested in the Death Magnetic sound, the kit is modern and accessible: the Tama Starclassic Birch remains in production in various configurations, the LU1465 signature snare is available new, and Zildjian A Custom cymbals are among the most widely available professional cymbals on the market. The gear is achievable; what's less replicable is the context — the deliberate return to form, the Rubin philosophy, and the specific chapter in one of metal's longest-running stories.
+
+For the full Lars Ulrich gear story, see the [Lars Ulrich drummer profile](/drummer/lars-ulrich), the [Master of Puppets drum setup](/articles/master-of-puppets-drum-setup), and the [...And Justice for All drum setup](/articles/and-justice-for-all-drum-setup). For production context, the [Rick Rubin production techniques guide](/articles/rick-rubin-metal-production) covers his approach across Slayer, Metallica, and other metal recordings. And for the broader Metallica band context, see the [Metallica band page](/band/metallica).
+
 ## Key Facts
 
 - Deliberate return to thrash after St. Anger controversy
@@ -91,10 +101,10 @@ A: Lars Ulrich used Zildjian A Custom cymbals on Death Magnetic. His setup inclu
 
 **Q: How does the Death Magnetic drum sound compare to Master of Puppets?**
 
-A: Death Magnetic is a deliberate sonic callback to the Master of Puppets era, but with 2008-era gear and production. Both albums feature a punchy, attack-forward drum sound with clear snare crack and aggressive double-bass work. Master of Puppets used vintage Camco drums and a Ludwig Supraphonic snare captured at Sweet Silence Studios in Copenhagen; Death Magnetic used Tama Starclassic Birch shells and the LU1465 signature snare recorded with Rick Rubin. The Death Magnetic sound is cleaner and more modern, but the playing approach — technical, stamina-demanding thrash drumming — consciously mirrors the 1986 performances.
+A: Death Magnetic is a deliberate sonic callback to the Master of Puppets era, but with 2008-era gear and production. Both albums feature a punchy, attack-forward drum sound with clear snare crack and aggressive double-bass work. Master of Puppets used a Tama Artstar II kit and a Ludwig Supraphonic snare captured at Sweet Silence Studios in Copenhagen; Death Magnetic used Tama Starclassic Birch shells and the LU1465 signature snare recorded with Rick Rubin. The Death Magnetic sound is cleaner and more modern, but the playing approach — technical, stamina-demanding thrash drumming — consciously mirrors the 1986 performances.
 
 **Source:** https://metalforge.io/articles/death-magnetic-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

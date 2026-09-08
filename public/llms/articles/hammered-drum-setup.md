@@ -52,6 +52,20 @@ The album's more atmospheric production, courtesy of Thom Panunzio, gave the Pai
 
 On the album's heavier tracks, like "Kill the World" and "No Remorse," the China cymbal's aggressive trash tone punctuates the darker lyrical content appropriately, giving Dee's playing an edge that matches the album's post-9/11 emotional weight without abandoning the band's fundamental sonic identity.
 
+## Hammered: Where the Starclassic Sound Fully Arrived
+
+*Hammered* (2002) is a record shaped by real-world weight — recorded in the shadow of September 11, its darker tone stands apart from most of Motörhead's catalog. For Mikkey Dee, it's also the album where his Tama Starclassic kit and Paiste 2002 Sound Edge cymbals, introduced in transitional form on [*We Are Motörhead*](/articles/we-are-motorhead-drum-setup), became his fully settled, confident sound — the same configuration that would carry through to [*Inferno*](/articles/inferno-drum-setup) two years later.
+
+**For Drummers Studying This Album:**
+Listen to "Voices from the War" for a rare example of Dee's dynamic restraint on a Motörhead record, then compare it to "Kill the World" for the full-force attack that never left his playing, whatever the emotional register of the material.
+
+**An Unlikely Crossover:**
+"The Game" and its WWE connection remain one of the more unexpected footnotes in Motörhead's catalog — proof that even a reflective, world-events-shadowed record could still make room for the band's flair for the unpredictable.
+
+For the complete arc of this gear transition, see [*We Are Motörhead*](/articles/we-are-motorhead-drum-setup), [*Inferno*](/articles/inferno-drum-setup), and the [Mikkey Dee drummer profile](/drummer/mikkey-dee).
+
+🤘 *A darker record, the same unstoppable engine underneath.* 🤘
+
 ## Key Facts
 
 - *Hammered*, released 9 April 2002, is Motörhead's sixteenth studio album and Dee's sixth full studio record with the band
@@ -88,4 +102,4 @@ A: *Hammered* was produced by Thom Panunzio, known for his work with Bruce Sprin
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

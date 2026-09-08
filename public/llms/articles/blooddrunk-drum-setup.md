@@ -52,6 +52,17 @@ The A Custom 14" hi-hats' articulation through *Blooddrunk*'s faster passages �
 
 The combination of A Custom crashes and K Custom ride continued to serve its function: the crashes providing bright, fast accent work at structurally precise moments; the K Custom ride offering a darker, warmer textural alternative for sustained patterns and melodic keyboard-driven passages. The China cymbal's deployment was more prominent on *Blooddrunk* than on *Are You Dead Yet?*, reflecting the album's more aggressive character and the structural moments where the China's upward-cutting attack serves best.
 
+## The Pearl Era Settled: Blooddrunk and the Mature CoB Sound
+
+*Blooddrunk* (2008) is where the Pearl Masters era stops being a transition and becomes a settled reality. The Pearl Masters Premium Maple shells, Zildjian A Custom and K Custom cymbals, and Pearl Eliminator double pedal that had debuted on *Are You Dead Yet?* (2005) were now a familiar, confident setup — and the return to more aggressive arrangements on *Blooddrunk* provided the musical context to demonstrate what that settled Pearl configuration could do at full velocity.
+
+What makes *Blooddrunk* worth studying as a drum record is the combination of familiarity and renewed intensity: the Pearl era gear, fully understood and deployed without adjustment, serving arrangements that push the double-kick demands closer to the technical heights of *Follow the Reaper* and *Hate Crew Deathroll* than *Are You Dead Yet?* had. "LoBodomy" is the most direct demonstration — comparable in its double-kick extremity to "Kissing the Shadows" from *Follow the Reaper*, but in the Pearl Eliminator's different mechanical character rather than the Iron Cobra's.
+
+**For Drummers Studying Blooddrunk:**
+Start with "Hellhounds on My Trail" for the setup in its aggressive context: hear how the Pearl Masters' focused attack and the Eliminator's established cam response sound together at 185 BPM. Then move to "LoBodomy" for the maximum-velocity test: compare the double-kick patterns and Pearl Eliminator feel to the Iron Cobra passages on *Follow the Reaper* and *Hate Crew Deathroll*. Finally, listen to "One Day You Will Cry" for the full dynamic range — the K Custom ride's warmer character and the soft dynamic passages show the Pearl era setup's capacity beyond pure aggression.
+
+For the complete picture of Jaska Raatikainen's gear arc — from the early Tama of *Hatebreeder* through the Starclassic peak of *Hate Crew Deathroll* and into the settled Pearl era of *Blooddrunk* and beyond — see the [Jaska Raatikainen drummer profile](/drummer/jaska-raatikainen), the [Are You Dead Yet? drum setup article](/articles/are-you-dead-yet-drum-setup), and the [full kit guide](/articles/jaska-raatikainen-drum-setup).
+
 ## Key Facts
 
 - Released April 2, 2008 — deliberate return to aggressive approach after Are You Dead Yet?
@@ -90,4 +101,4 @@ A: *Blooddrunk* (2008) represents a deliberate return to the aggressive, high-ve
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

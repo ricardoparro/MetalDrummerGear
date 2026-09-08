@@ -50,6 +50,19 @@ The Byzance Brilliant Heavy Hammered hi-hats and ride carry the album's brightes
 
 The Classics Custom Dark crashes and secondary china give Verbeuren a darker, more complex voice for contrast — a texture that echoes the deliberately varied palette he brought over from his Soilwork years. Running two hi-hat setups and two china cymbals side by side lets him switch tonal character mid-song without changing his physical position at the kit, a practical solution for an album with as much arrangement variety as this one.
 
+## The Album That Made the Seat Fully His Own
+
+"The Sick, the Dying... and the Dead!" is the record that proved Dirk Verbeuren belonged in Megadeth's drum seat permanently. Having spent six years touring the band's catalogue — including material from "Dystopia," the 2016 album recorded entirely by Chris Adler before Verbeuren joined — Verbeuren finally got the chance to build an album from the ground up, and delivered performances and, for the first time, songwriting contributions that reflect a drummer fully integrated into the band's identity.
+
+**From Touring Drummer to Songwriter:**
+The jump from six years of touring Megadeth's back catalogue to co-writing material on "The Sick, the Dying... and the Dead!" is the clearest evidence of how far Verbeuren's role evolved since 2016. His own Tama signature snare, debuted on this record, is a similar marker — the difference between an artist playing an endorsed product and one whose name is on it.
+
+**Gear Evolution:**
+The move to twin bass drums, an expanded cymbal setup spanning two Meinl lines, and a deeper tom configuration all point to a drummer with real creative latitude on his actual studio debut. None of it abandons the fundamentals — Tama drums, Meinl cymbals, Evans heads — that have anchored his sound since his Soilwork days.
+
+**Completing the Arc:**
+"The Sick, the Dying... and the Dead!" stands as Dirk Verbeuren's first Megadeth studio recording — a Grammy-nominated statement of ownership that arrived six years after he joined the band's touring lineup. For the album that came before it — Chris Adler's Grammy-winning "Dystopia" — see the [Dystopia Drum Setup article](/articles/dystopia-drum-setup). For Verbeuren's complete touring rig and career history, visit the [Dirk Verbeuren drummer profile](/drummer/dirk-verbeuren).
+
 ## Key Facts
 
 - Megadeth's sixteenth studio album and, as of 2026, the band's most recent studio release
@@ -91,4 +104,4 @@ A: The album was produced by Dave Mustaine and longtime Megadeth collaborator Ch
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

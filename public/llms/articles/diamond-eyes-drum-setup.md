@@ -15,7 +15,7 @@ The result is one of the most direct, melodic, and cathartic records in the Deft
 
 At the rhythmic core of all of it is Abe Cunningham. With Sergio Vega's punchy, propulsive bass playing pushing him forward, Abe leans into the pocket like never before. The opening hit of "Diamond Eyes" — that simple, monstrous half-time groove — is a thesis statement: the band is alive, the drums are huge, and restraint is still the most powerful tool in the kit.
 
-Raskulinecz's production gave Abe's Tama kit room to breathe while still hitting hard. The bass drum has weight without flab, the toms are tuned for melody as much as impact, and the cymbals — Abe's longtime Sabian HHX setup — sit beautifully in a mix that prizes clarity. The result is a drum sound that feels both modern and timeless, anchoring a record that closed the door on tragedy and opened a new chapter for the band.
+Raskulinecz's production gave Abe's Tama kit room to breathe while still hitting hard. The bass drum has weight without flab, the toms are tuned for melody as much as impact, and the cymbals — Abe's longtime Zildjian K Custom setup — sit beautifully in a mix that prizes clarity. The result is a drum sound that feels both modern and timeless, anchoring a record that closed the door on tragedy and opened a new chapter for the band.
 
 This article explores the gear Abe used during the Diamond Eyes sessions, the techniques that defined its sound, and what made this album a turning point for Deftones drumming.
 
@@ -23,7 +23,7 @@ This article explores the gear Abe used during the Diamond Eyes sessions, the te
 
 - **Drums:** Tama Tama Starclassic Bubinga / Birch hybrid (Custom dark finish finish)
 - **Snare:** Tama Tama Bell Brass 14"x6.5" / Tama Starphonic Brass, 14" x 6.5"
-- **Cymbals:** Sabian — Sabian HHX Series
+- **Cymbals:** Zildjian — K Custom / A Custom
 - **Hardware / Pedals:** Tama Iron Cobra / Speed Cobra Single Pedal; Tama Iron Cobra Hi-Hat Stand; Tama 1st Chair; Vic Firth Signature / 5B-equivalent
 - **Heads:** Remo Ambassador Coated (batter), Remo Ambassador Snare Side (resonant)
 - **Snare tuning:** Medium-high tuning with controlled overtones
@@ -50,17 +50,41 @@ Raskulinecz's engineering approach on the snare is dynamic-friendly. Rather than
 
 For heavier moments like "Royal" and "This Place Is Death," the snare gets cranked tighter and hit harder, and the bell brass shell pays it back with a knife-sharp accent. For more atmospheric tracks like "Sextape," looser tuning brings out the shell's body and overtones. Same drum, different role — exactly how Abe approaches the entire kit.
 
-### Sabian HHX: Dark, Complex, and Cutting
+### Zildjian K Custom: Dark, Complex, and Cutting
 
-By 2010 Abe had become one of Sabian's most visible artists, and his Diamond Eyes cymbal setup leaned heavily on the HHX line — darker, drier cymbals that complement his pocket-first approach without dominating the mix. Where his White Pony era used Zildjian, the Diamond Eyes era is firmly Sabian HHX territory.
+Abe's Diamond Eyes cymbal setup is built around Zildjian's K Custom series — darker, drier cymbals that complement his pocket-first approach without dominating the mix. It's the same K Custom/A Custom pairing that's carried his sound since White Pony, refined rather than replaced.
 
-The 14" HHX Groove Hi-Hats anchor most of the album's grooves. They have a tight, dry chick and a strong stick definition that cuts through Stephen Carpenter's eight-string downtuning without ever sounding shrill. On the title track and "Risk," the hat work is essential to the song's forward motion.
+The 14" K Custom Hi-Hats anchor most of the album's grooves. They have a tight, dry chick and a strong stick definition that cuts through Stephen Carpenter's eight-string downtuning without ever sounding shrill. On the title track and "Risk," the hat work is essential to the song's forward motion.
 
-The HHX Evolution Ride is the secret weapon. Designed in collaboration with Dave Weckl, it offers complex wash, clear ping, and a beautifully musical bell — perfect for the textured ride patterns on "Beauty School" and the bridge of "Sextape." It's not a "metal ride" in any traditional sense, and that's exactly the point.
+The 22" K Custom Ride is the secret weapon. Its complex wash, clear ping, and musical bell make it perfect for the textured ride patterns on "Beauty School" and the bridge of "Sextape." It's not a "metal ride" in any traditional sense, and that's exactly the point.
 
-For crashes, Abe sticks with the HHX Evolution line in 17" and 19" sizes, plus an 18" HHX Stage as a crash/ride hybrid. They're fast, dark, and musical — the kind of crashes that punctuate rather than overpower. Raskulinecz's mix gives them full frequency range without harshness, and they sit beautifully in the stereo field.
+For crashes, Abe sticks with the K Custom line in 18" and 20" sizes. They're fast, dark, and musical — the kind of crashes that punctuate rather than overpower. Raskulinecz's mix gives them full frequency range without harshness, and they sit beautifully in the stereo field.
 
-The 18" Chinese is used sparingly — a sharp accent on the heaviest moments of "Rocket Skates" and "Royal." Like the China cymbal on White Pony, its restraint is what makes it effective.
+The 19" A Custom China is used sparingly — a sharp accent on the heaviest moments of "Rocket Skates" and "Royal." Like the China cymbal on White Pony, its restraint is what makes it effective.
+
+## The Album That Brought Deftones Back
+
+Diamond Eyes is the sound of a band coming back to life. After Chi Cheng's accident and the shelving of the Eros sessions, no one would have blamed Deftones for taking years off — or for never coming back at all. Instead, they made one of the best records of their career, with Sergio Vega on bass and Nick Raskulinecz behind the board.
+
+**What Made Abe's Performance Special:**
+
+- **Pocket:** Diamond Eyes is a pocket album. Abe and Sergio Vega lock together like they'd been playing together for decades, not months.
+
+- **Single-Kick Discipline:** In an era when every metal drummer was racing to add more bass drum, Abe doubled down on a single 22" kick — and proved it was heavier than any double-pedal blast.
+
+- **Dynamics:** From the bone-crushing title track to the dreamlike "Beauty School," Abe shows the full range of what a single kit can do.
+
+- **Service to Song:** Every drum part on Diamond Eyes is in service of the song. No fills for the sake of fills, no flash for the sake of flash. Just the right hit at the right time.
+
+**For Drummers Studying Diamond Eyes:**
+
+Start with the title track. Play that opening hit. Then play the half-time groove. Then play nothing where Abe plays nothing. Understanding the spaces is more important than understanding the hits.
+
+Study the relationship between the kick and the bass guitar. Abe and Sergio Vega are the textbook example of a locked rhythm section in modern metal. Their parts are simple in isolation but unstoppable together.
+
+Diamond Eyes proved that recovery is possible — for a band, for a sound, for an entire chapter of a career. And Abe Cunningham's drumming is the foundation everything else was built on.
+
+🥁 *"Heavy isn't speed. Heavy is intention."* — The lesson Diamond Eyes teaches every drummer who listens. 🤘
 
 ## Key Facts
 
@@ -69,7 +93,7 @@ The 18" Chinese is used sparingly — a sharp accent on the heaviest moments of 
 - Sergio Vega (ex-Quicksand) joined on bass — his first Deftones studio album
 - Debuted at #6 on Billboard 200; RIAA Gold certified in the US
 - Singles "Diamond Eyes" and "Rocket Skates" reasserted the band on rock radio
-- Abe leaned into pocket-first playing with Tama Starclassic kit and Sabian HHX cymbals
+- Abe leaned into pocket-first playing with Tama Starclassic kit and Zildjian K Custom cymbals
 - Tama Starclassic Bubinga/Birch hybrid — focused punch with bright attack
 - Single 22" bass drum — Abe is a documented single-kick player
 - 10/12 rack toms and 14/16 floor toms for a wide melodic span
@@ -96,4 +120,4 @@ A: No. Abe Cunningham is a documented single-kick player, and Diamond Eyes uses 
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

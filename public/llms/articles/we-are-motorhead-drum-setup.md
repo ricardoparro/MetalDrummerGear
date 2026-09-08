@@ -52,6 +52,20 @@ The rest of the cymbal setup — the 22" 2002 ride, 18"/20" crashes, and 18" Chi
 
 On the Sex Pistols cover "God Save the Queen," the tighter Sound Edge hi-hats give Dee's driving eighth-note patterns a crisper, more controlled edge than the looser Giant Beat sound would have produced — a small technical choice that suited the track's punk-adjacent urgency particularly well.
 
+## We Are Motörhead: Two Continents, One Evolving Sound
+
+*We Are Motörhead* (2000) is a quiet turning point in Mikkey Dee's Motörhead story. It's the first album made without Howard Benson behind the board, the first tracked across two continents, and the first to feature a genuinely different drum kit — the Tama Starclassic line replacing the Artstar II/Swingstar setup Dee had used since 1993, alongside a cymbal update that finally retired the Paiste Giant Beat hi-hats from his very first Motörhead session.
+
+**For Drummers Studying This Album:**
+Compare "See Me Burning" to any track on [*Snake Bite Love*](/articles/snake-bite-love-drum-setup) and listen for the punchier, more contemporary low end the Starclassic shells provide. Then listen to "God Save the Queen" for how the new Sound Edge hi-hats change the character of Dee's fast eighth-note patterns.
+
+**An Underrated Record:**
+Lemmy Kilmister considered *We Are Motörhead* better than its commercial reception suggested, and the album's gear evolution supports that reassessment — this is a band and drummer actively refining their sound rather than coasting on a formula.
+
+For the full arc of this transition, see [*Snake Bite Love*](/articles/snake-bite-love-drum-setup), [*Hammered*](/articles/hammered-drum-setup), and the [Mikkey Dee drummer profile](/drummer/mikkey-dee).
+
+🤘 *New millennium, new studio, same relentless drive.* 🤘
+
 ## Key Facts
 
 - *We Are Motörhead*, released 15 May 2000, is Motörhead's fifteenth studio album and Dee's fifth full studio record with the band
@@ -88,4 +102,4 @@ A: *We Are Motörhead* includes a cover of the Sex Pistols' "God Save the Queen,
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

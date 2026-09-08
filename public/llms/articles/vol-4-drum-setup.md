@@ -38,11 +38,21 @@ Ward stayed with the same Ludwig Acrolite he'd used on *Paranoid* and *Master of
 
 On "Supernaut," the snare lands with unusual precision against the track's syncopated riff, driving the groove rather than just marking the backbeat. "Snowblind" shows a heavier, more sustained touch suited to the song's sludgier tempo, while "St. Vitus Dance" and "Under the Sun/Every Day Comes and Goes" find Ward shifting between tight backbeat work and looser, more improvisational fills — the same jazz-rooted vocabulary he'd carried since the band's debut.
 
-### Avedis Zildjian: Unchanged Ahead of the Paiste Switch
+### Avedis Zildjian: Unchanged Into Sabbath's Progressive Era
 
-Ward's cymbal setup carried over directly from *Master of Reality* — the same Avedis Zildjian hi-hats, ride, and crash he'd used since *Paranoid*. *Vol. 4* would be his last album on Zildjian before switching to the brighter, more cutting Paiste 2002 series on *Sabotage* three years later.
+Ward's cymbal setup carried over directly from *Master of Reality* — the same Avedis Zildjian hi-hats, ride, and crash he'd used since that album. That Zildjian setup would remain his cymbal voice for the rest of the decade, through *Sabotage*, *Technical Ecstasy*, and *Never Say Die!*.
 
 The hi-hats do most of the work driving "Supernaut"'s syncopated groove, while the 20" ride carries the tempo shift midway through "Wheels of Confusion/The Straightener." Crash usage stays restrained throughout the album's heavier tracks, consistent with the more deliberate, riff-locked approach Ward had developed since *Master of Reality*.
+
+## The Bridge Between Doom and Orchestration
+
+*Vol. 4* asked more of Bill Ward's range than any Sabbath album before it — not through heavier riffs or bigger gear, but by pushing him to the edges of the band's format entirely. He delivers one of his most driving performances on "Supernaut," holds down the sludgy weight of "Snowblind," and then sits out completely on "Changes," a piano ballad that remains one of the band's most enduring songs despite his absence from it.
+
+**For Drummers Studying *Vol. 4*:** "Supernaut" is the essential study — a syncopated, riff-locked groove frequently cited as a reference point for jazz-influenced metal drumming. "Wheels of Confusion/The Straightener" rewards attention to how cleanly Ward handles a mid-song tempo shift. And "Changes" is a reminder that knowing when not to play is its own kind of technique.
+
+For the rest of Ward's gear evolution through Black Sabbath's catalog, see the [Master of Reality drum setup](/articles/master-of-reality-drum-setup), recorded the year before, and the [Sabbath Bloody Sabbath drum setup](/articles/sabbath-bloody-sabbath-drum-setup), recorded the year after. The full picture of his career is on the [Bill Ward drummer profile](/drummer/bill-ward).
+
+🥁 *The album where Black Sabbath got experimental — and Bill Ward's steady Ludwig kit anchored every direction they pulled.* 🥁
 
 ## Key Facts
 
@@ -79,4 +89,4 @@ A: "Changes" appears on *Vol. 4* (1972), Black Sabbath's fourth studio album. It
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

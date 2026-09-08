@@ -41,6 +41,10 @@ Every major piece of Jordison's Iowa rig is documented in detail on MetalForge, 
 - [Signature Snare — Pearl 13" × 6.5"](https://metalforge.io/snares/signature/joey-jordison) — The snare built to cut through Slipknot's nine-piece wall of sound
 - [Joey Jordison's Legacy: 5 Years On](https://metalforge.io/articles/joey-jordison-legacy) — The full tribute — kit, sticks, sound, and the drummers carrying it forward
 
+## 25 Years Later, Still the Standard
+
+Iowa's 25th anniversary isn't just a nostalgia trigger — it's a reminder that the album's drumming still holds up as a technical and musical benchmark. The gear that made it possible is still largely on the market: a Pearl signature snare still shipping today, Promark TX515W sticks still on store shelves, a wall of Paiste RUDE cymbals unchanged since 2001. For drummers discovering Iowa for the first time in 2026, or returning to it a quarter century on, the links above are where the study starts.
+
 ## Key Facts
 
 - Released August 28, 2001 on Roadrunner Records
@@ -75,4 +79,4 @@ A: Yes. The Pearl Joey Jordison Signature snare and Promark TX515W signature sti
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

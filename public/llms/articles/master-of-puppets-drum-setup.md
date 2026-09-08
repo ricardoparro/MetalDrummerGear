@@ -15,26 +15,26 @@ Lars Ulrich recorded the album at Sweet Silence Studios in Copenhagen, Denmark, 
 
 The drum sound on Master of Puppets was revolutionary for its time. Unlike the often muddy production of earlier thrash records, the drums cut through with clarity while maintaining raw power. This was achieved through careful microphone placement, Lars's precise playing, and the natural acoustics of Sweet Silence's studio rooms.
 
-This article breaks down every piece of gear Lars used during these legendary sessions, from his Camco drums to his Zildjian cymbals, and explores the recording techniques that captured the sound.
+This article breaks down every piece of gear Lars used during these legendary sessions, from his Tama drums to his Zildjian cymbals, and explores the recording techniques that captured the sound.
 
 ## Gear Breakdown
 
-- **Drums:** Camco Camco Oaklawn Badge (Black finish)
+- **Drums:** Tama Tama Artstar II (Black Wrap finish)
 - **Snare:** Ludwig Ludwig Supraphonic LM402, 14" x 6.5"
 - **Cymbals:** Zildjian — Zildjian A Series
-- **Hardware / Pedals:** Camco Chain Drive Single Pedal; Camco Hi-Hat Stand; Roc-N-Soc Standard; Regal Tip 5B
+- **Hardware / Pedals:** Tama single pedal (Iron Cobra precursor); Tama Titan Hi-Hat Stand; Roc-N-Soc Standard; Regal Tip 5B
 - **Heads:** Remo Ambassador Coated (batter), Remo Ambassador Snare Side (resonant)
 - **Snare tuning:** Medium-high tension for maximum cut
 
-### Lars's Studio Kit: The Camco Setup
+### Lars's Studio Kit: The Tama Artstar II
 
-Lars Ulrich's choice of Camco drums for Master of Puppets was unusual in the metal world of 1985-86. While most thrash drummers were using Tama, Pearl, or Ludwig, Lars favored the punchy, articulate sound of vintage Camco maple shells.
+Lars Ulrich recorded Master of Puppets on the same Tama Artstar II kit he'd upgraded to two years earlier for Ride the Lightning (1984), when he switched from his earlier Camco drums to Tama's professional lineup. There was no gear change between the two albums — Lars, producer Flemming Rasmussen, and Sweet Silence Studios simply continued refining the sound they'd already established.
 
-The Camco company (California Drum Company, later Chicago Drum) had ceased production in 1977, making Lars's kit a collector's item even then. The "Oaklawn Badge" drums (named after the Illinois factory location) were known for their superior shell construction and clear, projecting tone.
+The Artstar II's birch shells produced a tight, bright tone with strong projection, well suited to the increasingly dense arrangements on Master of Puppets.
 
-For Master of Puppets, Lars used a relatively compact setup by thrash standards: a single 22" bass drum, two rack toms (12" and 13"), and one floor tom (16"). This minimal configuration forced Lars to be creative with his fills and kept the focus on groove and power rather than flashy tom runs.
+For the album, Lars used a relatively compact setup by thrash standards: a single 22" bass drum, two rack toms (12" and 13"), and one floor tom (16"). This minimal configuration forced Lars to be creative with his fills and kept the focus on groove and power rather than flashy tom runs.
 
-The shells' maple construction provided the attack and clarity needed to cut through Metallica's wall of guitars, while the vintage hardware gave the kit character that modern drums often lack.
+The birch shells provided the attack and clarity needed to cut through Metallica's wall of guitars, continuing the tonal character Rasmussen had captured on Ride the Lightning.
 
 ### The Snare Sound That Changed Everything
 
@@ -58,24 +58,32 @@ The 20" Medium Ride provided a versatile sound for both riding and crashing. Lar
 
 The 18" China cymbal added the aggressive, cutting accents that punctuated songs like "Battery" and "Damage, Inc." The China's trashy, explosive sound became a thrash metal staple.
 
+## The Legacy Lives On
+
+Master of Puppets remains the gold standard for thrash metal production, and the drum sound is a crucial part of that legacy. Lars Ulrich's performance — captured on his Tama Artstar II kit through careful engineering — created a template that drummers still study and emulate.
+
+While gear has evolved dramatically since 1986, the principles remain the same: quality shells, well-chosen cymbals, proper tuning, and most importantly, the performance itself. Lars's playing on Master of Puppets combined technical precision with raw aggression, a balance that defines great metal drumming.
+
+Whether you're building your own thrash setup or simply appreciating the history, understanding the gear behind Master of Puppets provides insight into one of metal's defining moments. The album proves that legendary sounds come not just from expensive gear, but from the perfect combination of player, instrument, and vision.
+
 ## Key Facts
 
 - Recorded at Sweet Silence Studios, Copenhagen in late 1985
 - Producer Flemming Rasmussen captured the definitive thrash drum sound
-- Lars played Camco drums, a departure from typical metal setups
+- Lars continued playing the Tama Artstar II kit he'd adopted on Ride the Lightning in 1984
 - The snare sound became a benchmark for thrash metal production
-- Camco drums were already out of production, making them rare
+- Same Tama Artstar II kit Lars had played since Ride the Lightning (1984)
 - Single bass drum setup despite complex double-bass patterns
 - Minimal tom configuration focused the sound
-- Lars would switch to Tama after this album
-- Estimated kit value: $2,000-4,000 (1986) / $8,000-15,000 (vintage today)
+- Lars would stay with Tama through Justice and into the Starclassic era
+- Estimated kit value: $1,500-2,000 (1986) / $2,500-5,000 (vintage today)
 - Estimated snare value: $400-500 (1986) / $600-800 (vintage today)
 
 ## Frequently Asked Questions
 
 **Q: What drum kit did Lars Ulrich use on Master of Puppets?**
 
-A: Lars Ulrich recorded Master of Puppets in 1986 using a Camco Oaklawn Badge drum kit with maple shells and reinforcement rings. The configuration included a 22x14 inch bass drum, 12x8 and 13x9 inch rack toms, and a 16x16 inch floor tom. His snare was a Ludwig Supraphonic LM402 at 14x6.5 inches, a studio-favorite workhorse that contributed heavily to the punchy, cutting snare tone heard throughout the album.
+A: Lars Ulrich recorded Master of Puppets in 1986 using the same Tama Artstar II drum kit with birch shells that he'd adopted for Ride the Lightning two years earlier. The configuration included a 22x16 inch bass drum, 12x8 and 13x9 inch rack toms, and a 16x16 inch floor tom. His snare was a Ludwig Supraphonic LM402 at 14x6.5 inches, a studio-favorite workhorse that contributed heavily to the punchy, cutting snare tone heard throughout the album.
 
 **Q: What cymbals did Lars Ulrich use on Master of Puppets?**
 
@@ -83,10 +91,10 @@ A: Lars Ulrich used Zildjian A Series cymbals on Master of Puppets. His setup in
 
 **Q: How much does Lars Ulrich's Master of Puppets kit cost?**
 
-A: When Lars Ulrich recorded Master of Puppets in 1986, the Camco Oaklawn Badge kit would have cost approximately $2,000 to $4,000 new. Today, original vintage Camco kits from that era are highly collectible and typically fetch between $8,000 and $15,000 depending on condition. The Ludwig Supraphonic LM402 snare adds another $600 to $800 for a vintage example. It is a historically significant and expensive setup to replicate authentically.
+A: When Lars Ulrich recorded Master of Puppets in 1986, the Tama Artstar II kit would have cost approximately $1,500 to $2,000 new. Today, original vintage Artstar II kits from that era are collectible and typically fetch between $2,500 and $5,000 depending on condition. The Ludwig Supraphonic LM402 snare adds another $600 to $800 for a vintage example. It is a historically significant setup that remains achievable to replicate today.
 
 **Source:** https://metalforge.io/articles/master-of-puppets-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

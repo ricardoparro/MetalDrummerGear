@@ -1,6 +1,6 @@
 # Paul Mazurkiewicz's Drum Setup on Cannibal Corpse's 'A Skeletal Domain' (2014)
 
-> Complete drum gear breakdown for Cannibal Corpse's A Skeletal Domain (2014). Paul Mazurkiewicz's Pearl Reference and Meinl rig, Mark Lewis's Audiohammer Studios production, and the band's highest-ever Billboard 200 debut at the time.
+> Complete drum gear breakdown for Cannibal Corpse's A Skeletal Domain (2014). Paul Mazurkiewicz's Pearl Reference and Sabian rig, Mark Lewis's Audiohammer Studios production, and the band's highest-ever Billboard 200 debut at the time.
 
 **Type:** Album Drum Setup
 **Drummer(s):** [Paul Mazurkiewicz](/llms/drummers/paul-mazurkiewicz.md)
@@ -15,13 +15,13 @@ The change in producer and studio brought a change in sound. Multiple reviewers 
 
 Commercially, A Skeletal Domain became Cannibal Corpse's highest Billboard 200 debut to date, entering at #32 on first-week sales of roughly 8,800 copies, edging out Torture's #38 debut two years earlier. Critical reception was strong across outlets: AllMusic rated the album 3.5 out of 5 stars, Sputnikmusic awarded it 4.0 out of 5, and The Guardian and Revolver both gave it 4 out of 5.
 
-This article breaks down the Pearl Reference and Meinl configuration Mazurkiewicz brought into the Audiohammer Studios sessions, Mark Lewis's cleaner production approach, and the technical character of an album that pushed the band's sound into a noticeably more modern register.
+This article breaks down the Pearl Reference and Sabian configuration Mazurkiewicz brought into the Audiohammer Studios sessions, Mark Lewis's cleaner production approach, and the technical character of an album that pushed the band's sound into a noticeably more modern register.
 
 ## Gear Breakdown
 
 - **Drums:** Pearl Pearl Reference (mature endorsement configuration, 2014) (Custom finish (Pearl endorsement era) finish)
 - **Snare:** Pearl Pearl Free-Floating steel-shell snare, 14" x 6.5"
-- **Cymbals:** Meinl — Meinl Byzance (established endorsement, 2014)
+- **Cymbals:** Sabian — Sabian AAX (established endorsement, 2014)
 - **Hardware / Pedals:** Pearl Eliminator Double Bass Pedal; ddrum Acoustic Pro Triggers (live context); Vic Firth Paul Mazurkiewicz Signature
 - **Heads:** Remo Coated Ambassador (batter), Remo Diplomat Snare Side (resonant)
 - **Snare tuning:** Medium-high tension for cut and articulation, rendered with added clarity under Audiohammer Studios engineering
@@ -40,11 +40,24 @@ The 14" x 6.5" Pearl Free-Floating steel-shell snare that had anchored Mazurkiew
 
 The free-floating design's isolation from rim and lug stress remained just as important as ever, given how much of A Skeletal Domain's material still demanded sustained, high-velocity backbeat playing. Lewis's mix kept the snare forward and present, consistent with every Cannibal Corpse production dating back to the band's earliest Morrisound sessions, but rendered with a cleaner separation from the rest of the kit.
 
-### Meinl Byzance: Fully Audible in a Cleaner Mix
+### Sabian AAX: Fully Audible in a Cleaner Mix
 
-The Meinl Byzance setup that had been fully established since Bloodthirst (1999) and unchanged through Kill, Evisceration Plague, and Torture returned once again on A Skeletal Domain, but Mark Lewis's Audiohammer Studios mix gave the cymbals more individual space than the denser Rutan-era productions. Meinl's hand-hammered bronze construction gave each cymbal a fast attack and controlled decay that came through with noticeably more separation from the guitars, part of the broader production shift reviewers praised across the record.
+The Sabian AAX setup that had been fully established since Bloodthirst (1999) and unchanged through Kill, Evisceration Plague, and Torture returned once again on A Skeletal Domain, but Mark Lewis's Audiohammer Studios mix gave the cymbals more individual space than the denser Rutan-era productions. Sabian's hand-hammered bronze construction gave each cymbal a fast attack and controlled decay that came through with noticeably more separation from the guitars, part of the broader production shift reviewers praised across the record.
 
 The 18" China remained Mazurkiewicz's defining accent for riff transitions, a constant across every era of his recorded career, now rendered with the same added clarity that defined the rest of the kit under Lewis's engineering. Sputnikmusic's description of a mix that "allows all the instruments space to breathe" applies as directly to the cymbals as to any other element of the record.
+
+## The Cleanest Window Yet Into an Unchanged Rig
+
+"A Skeletal Domain" closes out the post-Gore Obsessed arc of Paul Mazurkiewicz's Cannibal Corpse career on a high note, both commercially and critically. His Pearl Reference and Sabian rig, unchanged in every material respect since Kill (2006), sounds newly vivid under Mark Lewis's cleaner Audiohammer Studios production — proof that a change in room and engineer can reveal as much about a drummer's playing as any change in gear.
+
+With a record-setting #32 Billboard 200 debut and reviews across AllMusic, Sputnikmusic, The Guardian, and Revolver all landing in the 3.5–4/5 range, A Skeletal Domain gave Cannibal Corpse its strongest commercial showing yet, bridging the Rutan-produced middle stretch of the band's catalog to the Red Before Black (2017) era that followed.
+
+For the complete Paul Mazurkiewicz CC gear arc around this record:
+- **The predecessor**: [Torture drum setup (2012)](/articles/torture-drum-setup) — the final album of the three-record Rutan production streak
+- **The turning point**: [Kill drum setup (2006)](/articles/kill-drum-setup) — the return-to-brutality album and the start of the modern era
+- **The technical peak**: [Evisceration Plague drum setup (2009)](/articles/evisceration-plague-drum-setup) — Rutan's second Mana Recording Studios session
+- **Modern rig**: [Paul Mazurkiewicz drum setup](/articles/paul-mazurkiewicz-drum-setup) — Pearl Reference / Sabian / Pearl Eliminator
+- **Full profile**: [Paul Mazurkiewicz at MetalForge](/drummer/paul-mazurkiewicz)
 
 ## Key Facts
 
@@ -66,7 +79,7 @@ The 18" China remained Mazurkiewicz's defining accent for riff transitions, a co
 
 **Q: What kit did Paul Mazurkiewicz use on A Skeletal Domain?**
 
-A: On A Skeletal Domain (2014), Paul Mazurkiewicz played the same Pearl Reference kit documented on Kill (2006), Evisceration Plague (2009), and Torture (2012) — dual 22-inch x 18-inch kick drums, a four-tom layout in maple/African mahogany hybrid shells, and his 14-inch x 6.5-inch Pearl Free-Floating steel-shell snare. His Meinl Byzance cymbal setup and Pearl Eliminator double bass pedal carried over unchanged; the main difference was a cleaner, more modern production under new producer Mark Lewis.
+A: On A Skeletal Domain (2014), Paul Mazurkiewicz played the same Pearl Reference kit documented on Kill (2006), Evisceration Plague (2009), and Torture (2012) — dual 22-inch x 18-inch kick drums, a four-tom layout in maple/African mahogany hybrid shells, and his 14-inch x 6.5-inch Pearl Free-Floating steel-shell snare. His Sabian AAX cymbal setup and Pearl Eliminator double bass pedal carried over unchanged; the main difference was a cleaner, more modern production under new producer Mark Lewis.
 
 **Q: Who produced A Skeletal Domain and where was it recorded?**
 
@@ -88,4 +101,4 @@ A: Reviewers widely noted that A Skeletal Domain sounded noticeably cleaner and 
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

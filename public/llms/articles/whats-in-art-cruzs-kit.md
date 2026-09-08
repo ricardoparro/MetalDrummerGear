@@ -62,6 +62,26 @@ The 21" A Custom ride handles both clear bell patterns and crash-riding during i
 
 The China cymbal is essential for LOG's aggressive accents — those trashy explosions that punctuate riffs and signal transitions. Cruz uses it sparingly but effectively, maintaining its impact by not overusing it.
 
+## The Torch Carrier
+
+Art Cruz faced one of metal's most daunting challenges: replacing Chris Adler in Lamb of God. The expectations were enormous — Adler's drumming was as integral to LOG's sound as Randy Blythe's vocals or Mark Morton's riffs. Cruz didn't just meet those expectations; he exceeded them.
+
+**What Makes Cruz's Approach Work:**
+He didn't try to become Chris Adler. Instead, he learned Adler's parts with genuine respect while bringing his own power and consistency. The result is a seamless integration that honors LOG's past while driving them forward. "Lamb of God" (2020) and "Omens" (2022) prove this isn't a band treading water — they're still evolving.
+
+**The Gear Philosophy:**
+Cruz's setup is professional but accessible. Ludwig drums, Zildjian cymbals, Trick pedals — quality gear that serves the music rather than showing off. His choices prioritize reliability and tone over exotic specifications. This is a working drummer's arsenal, built for two-hour sets and extensive touring.
+
+**The Journey:**
+From South El Monte High School marching band to Winds of Plague's deathcore chaos to Prong's industrial precision to Lamb of God's massive stage — Cruz's path proves that dedication and adaptability lead to opportunity. When that Slayer Farewell Tour call came in 2018, he was ready because he'd prepared for years.
+
+**For Aspiring Drummers:**
+Study Cruz to understand what it means to honor a legacy while maintaining your identity. Learn Chris Adler's parts to understand LOG's vocabulary, then watch how Cruz interprets them. Notice his consistency — he delivers the same quality performance night after night. That reliability is what earns a permanent seat in a band like Lamb of God.
+
+The torch has been passed. Art Cruz carries it with power, precision, and respect.
+
+🥁 *"Walk with me in Hell..." — and Cruz will be behind the kit, driving you there.* 🥁
+
 ## Key Facts
 
 - Lamb of God drummer since 2019, succeeding Chris Adler
@@ -96,4 +116,4 @@ A: A current Ludwig Classic Maple kit configured to Art Cruz's specifications ru
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

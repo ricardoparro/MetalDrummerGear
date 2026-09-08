@@ -1,6 +1,6 @@
 # Jason Bittner's Drum Setup on Shadows Fall's The War Within (2004)
 
-> Complete breakdown of the drum kit, snare, cymbals, and hardware Jason Bittner used to record Shadows Fall's Grammy-nominated, RIAA Gold-certified album The War Within (2004). Tama Starclassic kit, Sabian HHX cymbals, DW double pedal, and the NWOAHM drumming that charted at #43 on the Billboard 200.
+> Complete breakdown of the drum kit, snare, cymbals, and hardware Jason Bittner used to record Shadows Fall's Grammy-nominated, RIAA Gold-certified album The War Within (2004). Mapex Saturn V kit, Zildjian K and A Custom cymbals, Mapex Falcon double pedal, and the NWOAHM drumming that charted at #43 on the Billboard 200.
 
 **Type:** Album Drum Setup
 **Drummer(s):** [Jason Bittner](/llms/drummers/jason-bittner.md)
@@ -13,46 +13,65 @@ Released on September 14, 2004 through Century Media Records, Shadows Fall's *Th
 
 Shadows Fall recorded *The War Within* with producer Peter Wichers — the Soilwork guitarist and producer who had developed a distinctive sound for Scandinavian melodic death metal before bringing that production clarity to American metalcore. The Zing Studios sessions in Methuen, Massachusetts, captured Bittner's playing with the modern articulation that distinguished the album from the rougher-edged production of its predecessor, *The Art of Balance* (2002). Tracks like "What Drives the Weak" — the Grammy-nominated single for Best Metal Performance — "Lead Me Home," and "The Power of I and I" became signature NWOAHM moments, with Bittner's double-bass work and dynamic snare placement defining the genre's technical language for the albums that followed.
 
-For Bittner, *The War Within* was the arrival: the album that confirmed his status as one of American metal's premier drummers and gave Shadows Fall the commercial breakthrough the band's talent had long warranted. The gear that powered that performance — a Tama Starclassic kit, Sabian HHX cymbals, DW 9002 double bass pedal — reflected an artist who had refined his setup to a point of complete command. Every component was chosen for a specific functional reason in the NWOAHM context, and the album's drum performance demonstrates the result of that precision.
+For Bittner, *The War Within* was the arrival: the album that confirmed his status as one of American metal's premier drummers and gave Shadows Fall the commercial breakthrough the band's talent had long warranted. The gear that powered that performance — a Mapex Saturn V kit, Zildjian K and A Custom cymbals, a Mapex Falcon double bass pedal — reflected an artist who had refined his setup to a point of complete command. Every component was chosen for a specific functional reason in the NWOAHM context, and the album's drum performance demonstrates the result of that precision.
 
 This article documents every element of that setup and examines how Bittner's gear choices supported the performances captured on Shadows Fall's most important album. For the full career and current gear overview, see [Jason Bittner at MetalForge](/drummer/jason-bittner).
 
 ## Gear Breakdown
 
-- **Drums:** Tama Tama Starclassic Performer B/B (Natural burst / touring finish finish)
-- **Snare:** Tama Tama Starphonic Steel 14" x 6.5", 14" x 6.5"
-- **Cymbals:** Sabian — Sabian HHX and HH Series
-- **Hardware / Pedals:** DW 9002 Double Bass Pedal; Vic Firth 5B; Remo Powerstroke 3; Remo Ambassador Coated
-- **Heads:** Remo Ambassador Coated (batter) — warm attack with snare wire response clarity
+- **Drums:** Mapex Mapex Saturn V (Natural burst / touring finish finish)
+- **Snare:** Mapex Mapex Black Panther Brass 14" x 6.5", 14" x 6.5"
+- **Cymbals:** Zildjian — Zildjian K and A Custom Series
+- **Hardware / Pedals:** Mapex Falcon Double Pedal; ProMark Jason Bittner Signature 5BX (TX5BXN); Evans EMAD; Evans G2 Coated
+- **Heads:** Evans G2 Coated (batter) — warm attack with snare wire response clarity
 - **Snare tuning:** Medium-high for articulate attack and projection through The War Within's dense NWOAHM arrangement
 
-### The War Within Kit: Tama Starclassic Performer B/B
+### The War Within Kit: Mapex Saturn V
 
-Jason Bittner's drum kit on *The War Within* was his Tama Starclassic Performer B/B — the birch/bubinga hybrid shell kit that defined his playing with Shadows Fall throughout the band's peak NWOAHM period. The "B/B" designation specifies Tama's hybrid construction: outer birch plies for focused attack and controlled sustain, inner bubinga ply for warmth and additional fundamental resonance that prevents the kit from sounding brittle against Shadows Fall's wall of down-tuned guitar.
+Jason Bittner's drum kit on *The War Within* was his Mapex Saturn V — the all-maple shell pack that defined his playing with Shadows Fall throughout the band's peak NWOAHM period, part of a Mapex Drums endorsement that has run across more than a decade with the band. The all-maple construction delivers a balanced, punchy fundamental with enough attack definition to stay articulate against Shadows Fall's wall of down-tuned guitar.
 
-For the *War Within* sessions, the Starclassic Performer's shell character was ideally matched to Peter Wichers's production approach. Wichers built the album's guitar tracks with melodic clarity layered over heavy rhythm — a Scandinavian melodic death metal production philosophy applied to American metalcore. In that context, Bittner's kit needed attack definition for rhythmic clarity and tonal warmth for the passages where melody was the primary voice. The birch/bubinga combination delivers both: the birch attack sits clearly in the mix during the album's densest passages, and the bubinga warmth keeps the drums from sounding percussive and thin during the album's more dynamic sections.
+For the *War Within* sessions, the Saturn V's shell character was ideally matched to Peter Wichers's production approach. Wichers built the album's guitar tracks with melodic clarity layered over heavy rhythm — a Scandinavian melodic death metal production philosophy applied to American metalcore. In that context, Bittner's kit needed attack definition for rhythmic clarity and tonal body for the passages where melody was the primary voice. The all-maple shells deliver both: attack that sits clearly in the mix during the album's densest passages, and warmth that keeps the drums from sounding thin during the album's more dynamic sections.
 
 The double 22" x 18" bass drum configuration drives the sustained double-kick work that defines tracks like "What Drives the Weak" and "The Power of I and I." Two independent bass drums — each delivering the same 22" diameter fundamental — allow Bittner the equal weight distribution between both feet that a single kick with a slave pedal cannot fully replicate. The 22" size supplies the low-end body that carries through Shadows Fall's guitar density; the 18" depth keeps response speed consistent with the tempos *The War Within* demands.
 
 The four-tom configuration — 10", 12", 14", and 16" — provides the complete tonal range Bittner's NWOAHM arrangement approach requires. Shadows Fall's arrangements use toms not just as fill vehicles but as compositional elements marking section changes and amplifying the band's dynamic shifts from melodic verse to heavy breakdown. The full four-tom spread allows Bittner to construct fills that sweep across a wide tonal range rather than cycling within a limited register.
 
-### Snare: Steel Attack for the NWOAHM Mix
+### Snare: Brass Attack for the NWOAHM Mix
 
 Jason Bittner's snare on *The War Within* prioritized attack definition and mix projection above all else — the two qualities that NWOAHM production demands. Peter Wichers's album production places guitar density at a very high level, with melodic lead guitar, rhythm guitar, and down-tuned bass guitar all competing for mid-frequency space in the arrangement. For the snare to register clearly — as a structural element that marks backbeats, drives breakdowns, and defines section boundaries — it needed to sit above that mid-frequency density rather than competing within it.
 
-A 14" x 6.5" steel snare delivers that positioning through the physics of steel shell construction. Steel's resonant character is focused at higher frequencies than wood shells, producing a crack with immediate upper-frequency projection that naturally sits above the guitar density in a metal mix. The 6.5" depth provides sufficient body and authority on the backbeat without excessive sustain that would blur snare placement in the dense, fast-moving arrangements on *The War Within*.
+A 14" x 6.5" Mapex Black Panther Brass snare delivers that positioning through the physics of brass shell construction. Brass's resonant character produces a steel-edged crack with immediate upper-frequency projection that naturally sits above the guitar density in a metal mix. The 6.5" depth provides sufficient body and authority on the backbeat without excessive sustain that would blur snare placement in the dense, fast-moving arrangements on *The War Within*.
 
 Bittner's snare tuning across the *War Within* era runs medium-high: tight enough for fast articulation and consistent response across extended double-bass passages, warm enough to retain character in the album's more dynamic sections. The result is a snare sound that defines the album's rhythmic architecture — clearly audible on every backbeat, with the crack projection needed to register in even the densest breakdown sections. Listen to "What Drives the Weak" for the clearest example: Bittner's snare sits definitively above the guitars across the entire arrangement, providing the rhythmic grid that the Grammy-nominated track's momentum depends on.
 
-### Sabian HHX: Brightness and Definition Above the NWOAHM Wall
+### Zildjian K and A Custom: Tone and Cut Above the NWOAHM Wall
 
-Jason Bittner's Sabian HHX cymbal setup on *The War Within* was engineered around a single challenge: maintaining cymbal clarity and rhythmic articulation in a guitar environment where mid-frequency density is very high. Peter Wichers's production stacks rhythm guitar, melodic lead, and down-tuned bass across the mid range — a dense layering that can make it difficult for crash cymbals and hi-hat patterns to register distinctly unless they are positioned above the guitar density in the frequency spectrum.
+Jason Bittner's Zildjian cymbal setup on *The War Within* was engineered around a single challenge: maintaining cymbal clarity and rhythmic articulation in a guitar environment where mid-frequency density is very high. Peter Wichers's production stacks rhythm guitar, melodic lead, and down-tuned bass across the mid range — a dense layering that can make it difficult for crash cymbals and hi-hat patterns to register distinctly unless they are positioned above the guitar density in the frequency spectrum.
 
-Sabian's HHX series solves this through its hand-hammered B20 bronze construction and brilliant finish, which emphasize upper harmonics over the mid-frequency character of other B20 alloys. On *The War Within*, this upper-frequency positioning means the hi-hat patterns that drive the rhythmic grid on tracks like "Lead Me Home" and "What Drives the Weak" cut cleanly through the guitar arrangements — the rhythmic pulse is always audible, never buried in the guitar mass.
+Zildjian's K series solves this through its darker, more complex overtone structure, which the brighter A Custom series complements for crash accents that still cut through a dry mix. On *The War Within*, this pairing means the hi-hat patterns that drive the rhythmic grid on tracks like "Lead Me Home" and "What Drives the Weak" cut cleanly through the guitar arrangements — the rhythmic pulse is always audible, never buried in the guitar mass.
 
-The 16" and 18" HHX crash cymbals complement each other across the album's dynamic range. The 16" responds fast with a short sustain — perfect for the quick accents between rapid riff changes in tracks like "The Power of I and I" where crashes function as rhythmic punctuation rather than sustained accent. The 18" provides the fuller crash response for the album's major structural moments — the breakdown arrivals and climactic section changes where a bigger crash voice is the right tool.
+The 18" and 19" A Custom crash cymbals complement each other across the album's dynamic range. The 18" responds fast with a bright decay — perfect for the quick accents between rapid riff changes in tracks like "The Power of I and I" where crashes function as rhythmic punctuation rather than sustained accent. The 19" provides the fuller crash response for the album's major structural moments — the breakdown arrivals and climactic section changes where a bigger crash voice is the right tool.
 
-The HH 20" ride's defined bell is particularly significant for Bittner's approach on *The War Within*. Several passages on the album use ride-bell patterns to define the rhythmic grid in a way that differs from the sustained hi-hat pulse of most passages — the bell cuts through the guitar density with a pitched, percussive attack that registers as a distinct rhythmic voice. The china cymbal serves as the album's heaviest accent tool, appearing at the most aggressive breakdown moments and adding the trashy upper-frequency energy that marks NWOAHM's defining textural extremes.
+The K Custom 21" ride's defined bell is particularly significant for Bittner's approach on *The War Within*. Several passages on the album use ride-bell patterns to define the rhythmic grid in a way that differs from the sustained hi-hat pulse of most passages — the bell cuts through the guitar density with a pitched, percussive attack that registers as a distinct rhythmic voice. The china cymbal serves as the album's heaviest accent tool, appearing at the most aggressive breakdown moments and adding the trashy upper-frequency energy that marks NWOAHM's defining textural extremes.
+
+## The Grammy-Nominated NWOAHM Benchmark
+
+*The War Within* remains the most commercially and critically validated document of what NWOAHM drumming achieved at its peak — a Grammy-nominated, Gold-certified album whose drum performance defined the genre's technical language for the decade that followed. Jason Bittner's work on the album is the clearest example in the NWOAHM catalog of what technical precision, dynamic control, and gear optimized for the genre can accomplish when everything works together.
+
+Every component of Bittner's setup on *The War Within* contributed to the performance:
+
+- **Mapex Saturn V**: All-maple shells providing attack definition for rhythmic clarity and body for the album's dynamic melodic passages
+- **Zildjian K and A Custom cymbals**: Tone and cut through Shadows Fall's dense guitar arrangements — hi-hat patterns and crash accents always audible
+- **Mapex Falcon Double Pedal**: Matched, road-worthy action for the precise, metronomic double-bass work that drives the Grammy-nominated tracks
+- **ProMark Jason Bittner Signature 5BX sticks**: Weight and durability across the most demanding NWOAHM arrangements ever recorded
+
+For drummers studying NWOAHM drumming, "What Drives the Weak" is the canonical study track: the Grammy nomination means it is NWOAHM's most externally validated performance, and the track demonstrates the double-bass precision, dynamic control, and cymbal arrangement that define the approach. "Lead Me Home" demonstrates half-time groove in NWOAHM context. "The Power of I and I" shows maximum velocity.
+
+For deeper exploration:
+- **Full drummer profile**: [Jason Bittner at MetalForge](/drummer/jason-bittner)
+- **Double bass technique**: [Double-bass drummers at MetalForge](/technique/double-bass/drummers)
+- **Kit overview across career**: [Jason Bittner complete gear guide](/articles/jason-bittner-drum-setup)
+- **NWOAHM/thrash comparison**: [Gene Hoglan vs Charlie Benante](/vs/gene-hoglan-vs-charlie-benante)
 
 ## Key Facts
 
@@ -60,27 +79,27 @@ The HH 20" ride's defined bell is particularly significant for Bittner's approac
 - Grammy nomination for Best Metal Performance ("What Drives the Weak") — the genre's highest mainstream recognition
 - RIAA Gold certified — 500,000+ copies sold in the US; charted at #43 on the Billboard 200
 - Produced by Peter Wichers (Soilwork) at Zing Studios, Methuen, Massachusetts
-- Bittner played a Tama Starclassic kit with Sabian HHX cymbals and a DW 9002 double bass pedal — the NWOAHM benchmark setup
-- Tama Starclassic Performer B/B — birch/bubinga hybrid shells for attack and warmth in the NWOAHM context
+- Bittner played a Mapex Saturn V kit with Zildjian K and A Custom cymbals and a Mapex Falcon double bass pedal — the NWOAHM benchmark setup
+- Mapex Saturn V — all-maple shells for attack and body in the NWOAHM context
 - Double 22" x 18" bass drums — equal-weight double-kick foundation across The War Within's most demanding passages
 - Four-tom configuration (10", 12", 14", 16") — compositional range for NWOAHM's melodic-to-heavy dynamic arc
-- Shell character matched to Peter Wichers's production philosophy — attack for rhythmic definition, warmth for melodic sections
-- Estimated kit value: $2,500–4,000 (Tama Starclassic Performer B/B shell pack, 2004 era)
+- Shell character matched to Peter Wichers's production philosophy — attack for rhythmic definition, body for melodic sections
+- Estimated kit value: $2,500–4,000 (Mapex Saturn V shell pack, 2004 era)
 - Estimated snare value: $300–600
 
 ## Frequently Asked Questions
 
 **Q: What drums did Jason Bittner use on The War Within?**
 
-A: On *The War Within* (2004), Jason Bittner played a Tama Starclassic Performer B/B kit — the "B/B" designation indicating birch/bubinga hybrid shell construction. His setup included a double bass drum configuration with two 22" x 18" kick drums, two rack toms (10" and 12"), and two floor toms (14" and 16"). The birch/bubinga shells provided the attack definition needed to cut through Shadows Fall's dense guitar arrangements combined with tonal warmth for the album's more dynamic passages. The Tama Starclassic Performer was Bittner's kit throughout the peak Shadows Fall era, from *The Art of Balance* (2002) through *The War Within* (2004) and beyond. For full career gear context, see [Jason Bittner at MetalForge](/drummer/jason-bittner).
+A: On *The War Within* (2004), Jason Bittner played a Mapex Saturn V kit — an all-maple shell pack. His setup included a double bass drum configuration with two 22" x 18" kick drums, two rack toms (10" and 12"), and two floor toms (14" and 16"). The all-maple shells provided the attack definition needed to cut through Shadows Fall's dense guitar arrangements combined with tonal body for the album's more dynamic passages. The Mapex Saturn V has been Bittner's kit across more than a decade of his Shadows Fall tenure, including *The Art of Balance* (2002) through *The War Within* (2004) and beyond. For full career gear context, see [Jason Bittner at MetalForge](/drummer/jason-bittner).
 
 **Q: What cymbals did Jason Bittner use on The War Within?**
 
-A: Jason Bittner played Sabian HHX and HH series cymbals on *The War Within*. His setup included Sabian HHX 14" hi-hats, HHX 16" and 18" crash cymbals, an HH 20" ride, and an HHX china cymbal. The HHX series — hand-hammered B20 bronze with brilliant finish — emphasizes upper harmonics that project above the mid-range density of Shadows Fall's dual-guitar arrangements. This upper-frequency positioning is what allows the hi-hat patterns and crash accents to register clearly in *The War Within*'s dense NWOAHM production. Sabian has been Bittner's primary cymbal endorsement throughout his career.
+A: Jason Bittner played Zildjian K and A Custom series cymbals on *The War Within*. His setup included Zildjian K 14" hi-hats, A Custom 18" and 19" crash cymbals, a K Custom 21" ride, and a K 18" china. The K series' darker overtone structure paired with the A Custom series' brighter cut gives the setup the projection needed to sit above the mid-range density of Shadows Fall's dual-guitar arrangements. This projection is what allows the hi-hat patterns and crash accents to register clearly in *The War Within*'s dense NWOAHM production. Zildjian has been Bittner's primary cymbal endorsement throughout his career.
 
 **Q: What double bass pedal did Jason Bittner use on The War Within?**
 
-A: Jason Bittner used the DW 9002 double bass pedal on *The War Within*. The 9002's dual-chain drive system provides matched action across both the primary and slave pedal sides — critical for the sustained double-bass patterns that define the album's most demanding tracks, including the Grammy-nominated "What Drives the Weak." At the tempos *The War Within* demands, any mechanical variation between pedal sides would become audible as rhythmic unevenness; the 9002's engineering prevents this. The DW 9002 remained Bittner's pedal of choice across his career with both Shadows Fall and Overkill. See [double-bass technique at MetalForge](/technique/double-bass/drummers).
+A: Jason Bittner used the Mapex Falcon double bass pedal on *The War Within*. The Falcon provides matched action across both the primary and slave pedal sides — critical for the sustained double-bass patterns that define the album's most demanding tracks, including the Grammy-nominated "What Drives the Weak." At the tempos *The War Within* demands, any mechanical variation between pedal sides would become audible as rhythmic unevenness; the Falcon's road-worthy engineering prevents this. The Mapex Falcon has remained Bittner's pedal of choice across his career with both Shadows Fall and Overkill. See [double-bass technique at MetalForge](/technique/double-bass/drummers).
 
 **Q: Was The War Within Grammy nominated?**
 
@@ -94,4 +113,4 @@ A: *The War Within* was produced by Peter Wichers — the Soilwork guitarist and
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

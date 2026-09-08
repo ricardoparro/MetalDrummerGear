@@ -22,7 +22,7 @@ For the *Korn III* sessions, Luzier was running a DW Collector's Series setup �
 - **Drums:** DW DW Collector's Series (Custom finish (satin or lacquer, Korn touring configuration) finish)
 - **Snare:** DW DW Collector's Series 14" × 5.5", 14" × 5.5"
 - **Cymbals:** Paiste / Meinl — Paiste 2002 / Meinl Byzance
-- **Hardware / Pedals:** DW 9002 Double Bass Pedal; Promark Hickory 5B; DW 9000 Series Round Throne; Evans EC2 Coated; Evans EMAD2
+- **Hardware / Pedals:** DW 9002 Double Bass Pedal; Vic Firth 5A American Classic; DW 9000 Series Round Throne; Evans EC2 Coated; Evans EMAD2
 - **Heads:** Remo Coated Emperor (batter), Remo Hazy Ambassador Snare Side (resonant)
 - **Snare tuning:** Medium-high tension, tight snare wires for clean attack and defined crack
 
@@ -51,6 +51,18 @@ Ray Luzier's cymbal setup for *Korn III* combined Paiste's 2002 series — the l
 Paiste 2002 cymbals are hand-hammered Swiss bronze (CuSn8 alloy), delivering a bright, full-bodied sound with significant projection and controlled sustain. The 2002 Sound Edge Hi-Hats — with their wavy top cymbal for faster closing response and unique hi-hat chick character — provide the distinct, slightly raw hi-hat voice that Luzier uses to anchor Korn's groove patterns. The attack is immediate and the stick definition is clear, essential qualities when the hi-hat must project through Fieldy's bass and Korn's seven-string guitar layers.
 
 The Meinl Byzance China represents the complementary texture in the setup. Where the 2002 series is bright and aggressive, the Byzance series — hand-hammered in Istanbul — delivers a darker, more complex tonal character with warm undertones and controlled wash. The combination of Paiste and Meinl cymbals gave Luzier distinct tonal zones across his setup, preventing the sonic uniformity that can occur when every cymbal comes from the same line and alloy.
+
+## Opening the Luzier Era
+
+Korn III: Remember Who You Are was the answer to a question — not just who could replace David Silveria, but whether Korn could recapture the raw identity that had made them one of nu-metal's defining bands. Ray Luzier's performance answered both questions decisively.
+
+His DW Collector's Series setup, Paiste 2002 cymbals, and DW 9002 double pedal provided the gear foundation for a performance that locked with Fieldy's bass in exactly the way Korn needed. The album's #7 US chart position — the band's best in years — confirmed what the performances made clear: the new Korn rhythm section worked.
+
+For deeper exploration of Ray Luzier's complete gear evolution:
+- **Full drummer profile**: [Ray Luzier at MetalForge](/drummer/ray-luzier)
+- **Complete kit guide**: [What's in Ray Luzier's kit?](/articles/whats-in-ray-luziers-kit)
+- **Next album in the Luzier arc**: [The Path of Totality Drum Setup (2011)](/articles/path-of-totality-drum-setup)
+- **Nu-metal context**: [Nu-Metal Drum Setups](/articles/nu-metal-drum-setups)
 
 ## Key Facts
 
@@ -94,4 +106,4 @@ A: Korn III: Remember Who You Are (2010) was produced by Ross Robinson — the s
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

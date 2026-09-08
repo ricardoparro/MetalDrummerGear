@@ -52,6 +52,20 @@ The Signature hi-hats and crashes provided the fuller, more musical overtone com
 
 With the gear settled and unchanging, the cymbal setup on *The Wörld Is Yours* reflects a drummer no longer experimenting — Dee knew exactly what this cymbal blend delivered, and the album's producer knew exactly how to record it.
 
+## The Wörld Is Yours: A Tribute Wrapped in Familiar Thunder
+
+*The Wörld Is Yours* (2010) doesn't announce itself as a transitional record, but in hindsight it plays exactly that role in Mikkey Dee's Motörhead gear story — the album where his Pearl Reference kit settled permanently into the lean three-tom shape that would carry, essentially unchanged, all the way to *Bad Magic* five years later.
+
+The dedication to Ronnie James Dio gives the album a gravity that sits alongside its straightforward hard rock songwriting, and Dee's drumming — precise, economical, occasionally restrained in ways his earlier records rarely were — matches that tone without ever losing the power that defined his Motörhead tenure.
+
+**For Drummers Studying The Wörld Is Yours:**
+Listen to "Get Back in Line" for the settled, radio-ready side of Dee's late-career playing, and "Brotherhood of Man" for the dynamic restraint that echoes his King Diamond-era jazz training. Together they show a drummer equally comfortable driving a hook and coloring a slower, more atmospheric arrangement.
+
+**The Gear Legacy:**
+The trimmed Pearl Reference configuration established here carried forward into *Aftershock* (2013), where Dee's cymbal and pedal choices would change for the first time in years. For the next chapter, see the [Aftershock drum setup](/articles/aftershock-drum-setup), the [Mikkey Dee drummer profile](/drummer/mikkey-dee), and the [full kit breakdown](/articles/whats-in-mikkey-dees-kit).
+
+🤘 *Twenty albums in, and still finding what to leave out.* 🤘
+
 ## Key Facts
 
 - Motörhead's twentieth studio album — exclusive edition December 14, 2010; standard release January 17, 2011
@@ -88,4 +102,4 @@ A: *The Wörld Is Yours* reached #45 on the UK Albums Chart and #94 on the Billb
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

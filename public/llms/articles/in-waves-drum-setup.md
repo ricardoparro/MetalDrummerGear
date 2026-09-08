@@ -1,6 +1,6 @@
 # In Waves Drum Setup: Nick Augusto's Breakthrough Kit (Trivium, 2011)
 
-> Complete gear breakdown for Nick Augusto's drum setup on Trivium's In Waves (2011) — the Tama Starclassic kit, Meinl cymbals, and Iron Cobra pedals behind Trivium's commercial breakthrough.
+> Complete gear breakdown for Nick Augusto's drum setup on Trivium's In Waves (2011) — the Pearl Reference Pure kit, Sabian AAX cymbals, and Pearl Demon Drive pedal behind Trivium's commercial breakthrough.
 
 **Type:** Album Drum Setup
 **Drummer(s):** [Nick Augusto](/llms/drummers/nick-augusto.md)
@@ -15,35 +15,52 @@ Nick Augusto, who had joined Trivium in 2007 and cut his teeth on Shogun's techn
 
 Recorded at Audiohammer Studios in Sanford, Florida with producers Jason Suecof and Mark Lewis, the sessions produced Trivium's heaviest-sounding record since "The Crusade." Augusto's relentless double-bass work and punchy snare attack became the rhythmic backbone of the band's commercial breakthrough, setting up the even bigger chart success of "Vengeance Falls" two years later.
 
-This article breaks down the specific gear Nick Augusto used on In Waves — his Tama Starclassic Performer B/B kit, Meinl cymbal setup, and the Tama Iron Cobra pedal driving the album's double-bass attack.
+This article breaks down the specific gear Nick Augusto used on In Waves — his Pearl Reference Pure kit, Sabian AAX cymbal setup, and the Pearl Demon Drive pedal driving the album's double-bass attack.
 
 ## Gear Breakdown
 
-- **Drums:** Tama Tama Starclassic Performer B/B (Custom finish finish)
-- **Snare:** Tama Tama S.L.P. Steel Snare, 14" x 6.5"
-- **Cymbals:** Meinl — Meinl MB20 and Classics Custom Series
+- **Drums:** Pearl Pearl Reference Pure (Custom finish finish)
+- **Snare:** Pearl Pearl Reference 14"x6.5" Brass, 14" x 6.5"
+- **Cymbals:** Sabian — Sabian AAX Series
 - **Heads:** Evans Genera Dry (batter), Evans 300 Snare Side (resonant)
 - **Snare tuning:** Medium-high — balanced crack and body for a direct, riff-forward backbeat
 
-### Augusto's Tama Starclassic Performer B/B
+### Augusto's Pearl Reference Pure
 
 For In Waves, Augusto scaled back from Shogun's expanded five-tom array to a compact four-piece configuration — a single 22" kick, two rack toms, and two floor toms. The reduction reflects the album's songwriting: In Waves trades Shogun's melodic tom fills for tight, riff-doubling patterns that don't need the extra range a five-piece setup provides.
 
-The birch/bubinga hybrid shell construction of the Starclassic Performer B/B was a deliberate change from the all-maple DW kit used on Shogun. Birch contributes a faster attack and more high-frequency clarity, while the bubinga layer keeps enough low-end warmth to project through the album's heavier, more compressed production. It's a kit built for punch rather than tonal complexity.
+The maple/birch hybrid shell construction of the Reference Pure delivered a fast attack with controlled low-end resonance. Birch contributes a faster attack and more high-frequency clarity, while the maple layer keeps enough low-end warmth to project through the album's heavier, more compressed production. It's a kit built for punch rather than tonal complexity.
 
-On the In Waves World Tour (2011–2012), Augusto occasionally expanded to a double-kick configuration for extended live double-bass passages, giving him low-end weight without the latency a double pedal can introduce at speed. The Starclassic's high-tension lugs kept shell vibration contained even at full touring volume.
+On the In Waves World Tour (2011–2012), Augusto occasionally expanded to a double-kick configuration for extended live double-bass passages, giving him low-end weight without the latency a double pedal can introduce at speed. The Reference Pure's high-tension lugs kept shell vibration contained even at full touring volume.
 
-### The In Waves Crack: Tama S.L.P. Steel
+### The In Waves Crack: Pearl Reference Brass
 
-The Tama S.L.P. steel snare at 14" x 6.5" is the sound of the In Waves backbeat — bright, immediate, and tuned to cut cleanly through Jason Suecof's dense, drop-tuned guitar mix. It's a shallower, brighter drum than the 6.5" DW Edge steel snare Augusto used on Shogun, matched to the more direct, verse-chorus songwriting of In Waves rather than Shogun's more orchestrated, dynamic-heavy arrangements.
+The Pearl Reference brass snare at 14" x 6.5" is the sound of the In Waves backbeat — bright, immediate, and tuned to cut cleanly through Jason Suecof's dense, drop-tuned guitar mix. It's the same 14"x6.5" brass configuration Augusto used on Shogun, matched here to the more direct, verse-chorus songwriting of In Waves rather than Shogun's more orchestrated, dynamic-heavy arrangements.
 
 Tuned medium-high, the snare delivers clean rimshots on the album's aggressive sections while retaining enough body on the backbeat to avoid thinning out over a full set. That balance of crack and thud is central to the album's rhythmic identity on tracks like "In Waves" and "Black."
 
-### Meinl: A Brighter, Tighter Voice
+### Sabian AAX: A Bright, Cutting Voice
 
-In Waves marked Augusto's switch away from the dark, complex Meinl Byzance line used on Shogun to the brighter MB20 and Classics Custom series — a change that mirrors the album's overall shift from progressive texture to direct impact. The MB20 Heavy Crashes at 17" and 19" speak immediately on accent hits, cutting through the album's dense guitar saturation, while the Classics Custom 14" hi-hats articulate cleanly at the fast 16th-note tempos the record's double-bass sections demand.
+In Waves carried forward the same bright, cutting Sabian AAX setup Augusto used throughout his Trivium tenure — a voice well matched to the album's overall shift from progressive texture to direct impact. The AAX X-Plosion Crashes at 18" and 19" speak immediately on accent hits, cutting through the album's dense guitar saturation, while the AAX 14" Stage Hi-Hats articulate cleanly at the fast 16th-note tempos the record's double-bass sections demand.
 
-The 18" MB20 China above the floor tom became the go-to effect cymbal for the band's breakdown entrances and riff-change hits — a short-decay, aggressive voice suited to In Waves' more direct song structures.
+The 18" AAXtreme China above the floor tom became the go-to effect cymbal for the band's breakdown entrances and riff-change hits — a short-decay, aggressive voice suited to In Waves' more direct song structures.
+
+## In Waves: The Sound of Trivium's Breakthrough
+
+In Waves is the record where Nick Augusto's drumming shifted from technical showcase to commercial engine. The gear tells the story of that shift:
+
+- **Pearl Reference Pure**: A compact four-piece configuration trading Shogun's melodic tom range for tight, punchy attack
+- **Pearl Reference 14"x6.5" Brass Snare**: A bright, cutting crack tuned for direct, riff-forward songwriting rather than orchestrated dynamics
+- **Sabian AAX Cymbals**: The same bright, cutting cymbal voice Augusto relied on throughout his Trivium tenure, built for cutting through a heavier, more compressed mix
+- **Pearl Demon Drive**: Its direct-drive response driving sustained, steady double-bass rather than Shogun's variable, tempo-shifting passages
+
+The result was Trivium's best chart performance to that point — a #13 Billboard 200 debut and the band's first UK top-20 entry — and set the stage for the even bigger commercial success of Vengeance Falls two years later.
+
+For deeper exploration:
+- **Full drummer profile**: [Nick Augusto at MetalForge](/drummer/nick-augusto)
+- **Previous album**: [Shogun Drum Setup at MetalForge](/articles/shogun-drum-setup)
+- **Next album**: [Vengeance Falls Drum Setup at MetalForge](/articles/vengeance-falls-drum-setup)
+- **Genre overview**: [Thrash metal drummers at MetalForge](/genre/thrash-metal)
 
 ## Key Facts
 
@@ -52,9 +69,9 @@ The 18" MB20 China above the floor tom became the go-to effect cymbal for the ba
 - A direct pivot from Shogun's progressive sprawl back to tight, aggressive songwriting
 - Recorded at Audiohammer Studios with producers Jason Suecof and Mark Lewis
 - Bridges Shogun (2008) and Vengeance Falls (2013) in Augusto's four-album run with Trivium
-- Tama Starclassic Performer B/B kit with Meinl MB20/Classics Custom cymbals
+- Pearl Reference Pure kit with Sabian AAX cymbals
 - Compact four-piece configuration — a deliberate scale-down from Shogun's five-tom setup
-- Birch/bubinga shells for fast attack with controlled low-end resonance
+- Maple/birch hybrid shells for fast attack with controlled low-end resonance
 - Double-kick live configurations for extended double-bass touring passages
 - Punchy, attack-forward tuning to cut through a heavier, more compressed mix
 - Estimated kit value: $2,800–3,800 (2011) / $1,500–2,200 (used today)
@@ -64,15 +81,15 @@ The 18" MB20 China above the floor tom became the go-to effect cymbal for the ba
 
 **Q: What kit does Nick Augusto use on In Waves?**
 
-A: On Trivium's In Waves (2011), Nick Augusto played a Tama Starclassic Performer B/B kit with birch/bubinga hybrid shells, configured with a 22" bass drum, two rack toms (10" and 12"), and two floor toms (14" and 16"). This was a scaled-down, four-piece version of the expanded five-tom kit he used on Shogun — a change that matched In Waves' tighter, more direct songwriting. He paired the kit with a Tama S.L.P. steel snare, Meinl MB20 and Classics Custom cymbals, and a Tama Iron Cobra 900 double bass pedal. For the complete drummer profile, see [Nick Augusto at MetalForge](/drummer/nick-augusto).
+A: On Trivium's In Waves (2011), Nick Augusto played a Pearl Reference Pure kit with maple/birch hybrid shells, configured with a 22" bass drum, two rack toms (10" and 12"), and two floor toms (14" and 16"). This was a scaled-down, four-piece version of the expanded five-tom kit he used on Shogun — a change that matched In Waves' tighter, more direct songwriting. He paired the kit with a Pearl Reference brass snare, Sabian AAX cymbals, and a Pearl Demon Drive double bass pedal. For the complete drummer profile, see [Nick Augusto at MetalForge](/drummer/nick-augusto).
 
 **Q: How does In Waves compare to Shogun in terms of drumming?**
 
-A: In Waves (2011) is a deliberate pivot away from the progressive ambition of Shogun (2008). Where Shogun asked Augusto to navigate 7/8 and 11/8 passages, jazz-influenced sections, and an 11-minute title track across an expanded five-tom DW kit with dark Meinl Byzance cymbals, In Waves compresses his playing into tighter, riff-forward song structures on a leaner four-piece Tama Starclassic kit with brighter Meinl MB20/Classics Custom cymbals. The commercial result was a step forward — In Waves debuted at #13 on the Billboard 200 and gave Trivium their first UK top-20 placement, outperforming Shogun's chart run. For the full Shogun gear breakdown, see [Shogun Drum Setup at MetalForge](/articles/shogun-drum-setup).
+A: In Waves (2011) is a deliberate pivot away from the progressive ambition of Shogun (2008). Where Shogun asked Augusto to navigate 7/8 and 11/8 passages, jazz-influenced sections, and an 11-minute title track across an expanded five-tom Pearl Reference Pure kit with Sabian AAX cymbals, In Waves compresses his playing into tighter, riff-forward song structures on the same Pearl Reference Pure kit scaled down to a leaner four-piece configuration, still paired with Sabian AAX cymbals. The commercial result was a step forward — In Waves debuted at #13 on the Billboard 200 and gave Trivium their first UK top-20 placement, outperforming Shogun's chart run. For the full Shogun gear breakdown, see [Shogun Drum Setup at MetalForge](/articles/shogun-drum-setup).
 
 **Q: What is Nick Augusto's overall drum setup?**
 
-A: Nick Augusto's core setup across his Trivium tenure (2007–2014) centered on Tama drums, Meinl cymbals, and Promark sticks, with specific gear choices shifting between records. On Shogun (2008) he played an expanded DW Performance Series kit with Meinl Byzance cymbals; on In Waves (2011) he moved to a compact Tama Starclassic Performer B/B kit with brighter Meinl MB20/Classics Custom cymbals, a setup he carried into Vengeance Falls (2013). Across all three albums he relied on a Tama Iron Cobra double bass pedal running the Rolling Glide cam. For the full In Waves-through-Vengeance Falls gear breakdown, see [In Waves drum setup at MetalForge](/articles/in-waves-drum-setup).
+A: Nick Augusto's core setup across his Trivium tenure (2007–2014) centered on Pearl drums, Sabian cymbals, and Vic Firth sticks. On Shogun (2008) he played an expanded five-tom Pearl Reference Pure kit with Sabian AAX cymbals; on In Waves (2011) he moved to a compact four-piece Pearl Reference Pure kit, still paired with Sabian AAX cymbals, a setup he carried into Vengeance Falls (2013). Across all three albums he relied on a Pearl Demon Drive double bass pedal. For the full In Waves-through-Vengeance Falls gear breakdown, see [In Waves drum setup at MetalForge](/articles/in-waves-drum-setup).
 
 **Q: How did In Waves perform commercially for Trivium?**
 
@@ -82,4 +99,4 @@ A: In Waves debuted at #13 on the Billboard 200 upon its August 2011 release —
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

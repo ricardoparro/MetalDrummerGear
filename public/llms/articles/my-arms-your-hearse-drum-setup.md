@@ -58,6 +58,23 @@ The 18" China cymbal is the most prominent effect cymbal on the record. Lopez de
 
 The cymbal upgrade between My Arms, Your Hearse and Still Life is one of the clearest gear-evolution markers in Lopez's career. Where the B8 Pro range here delivered bright, functional attack, the HH series on Still Life and beyond would bring the dark, complex, washy character that became inseparable from the Opeth drum sound. You can hear the difference clearly by A/B-ing the ride cymbal on "Demon of the Fall" against any ride passage on Blackwater Park.
 
+## The Origin Point of the Lopez/Opeth Cluster
+
+My Arms, Your Hearse is the overlooked starting point of one of progressive metal's most influential drumming careers. The album that gets the accolades is Blackwater Park; the album that hints at greatness is Still Life. But the album where Martin Lopez first put his stamp on Opeth — and where the four-tom layout, architectural fills, and precision kick work that would define his career first appeared on tape — is this 1998 record.
+
+**What Lopez Accomplished on My Arms, Your Hearse:**
+Stepping into Opeth mid-session, with budget gear and tighter compositional constraints than he would ever face again in the band, Lopez delivered a performance that established his presence and his technique simultaneously. The compositional constraint (no clean vocals) and the production constraint (self-produced, heavily compressed) compressed his vocabulary visibly — but every signature element of his later playing is present in embryonic form.
+
+**The Gear Perspective:**
+This is the only Lopez Opeth album where the gear meaningfully constrained the player. The budget touring kit, entry-level Sabian B8 Pro cymbals, and self-produced recording all kept the album tighter and more clipped than anything that followed. The clearest gear-evolution moment in Lopez's career happens between this album and [Still Life (1999)](/articles/still-life-drum-setup) — the Sabian HH cymbal upgrade alone transformed his sound. By Blackwater Park, with the Sonor Designer Series and Steven Wilson behind the board, the player and the gear were finally fully matched.
+
+**For Drummers Today:**
+Study My Arms, Your Hearse for what it teaches about playing through constraints. Listen to "Demon of the Fall" and "April Ethereal" for Lopez's architectural approach to fills within heavier framework. Listen to "Karma" for the tom melodicism in tighter form. Then A/B against the [Blackwater Park drum setup](/articles/blackwater-park-drum-setup) to hear what changed when the constraints lifted — and what stayed exactly the same.
+
+Martin Lopez found his Opeth role on My Arms, Your Hearse. Still Life unlocked his vocabulary. Blackwater Park unlocked his sound. But every step started here, with a budget kit, tighter production, and a 19-year-old drummer figuring out where he fit in one of the most ambitious progressive metal bands of the decade. That makes My Arms, Your Hearse not just a great album but the essential opening chapter of the Lopez/Opeth story.
+
+🥁 *My Arms, Your Hearse — where the Lopez/Opeth story begins.* 🥁
+
 ## Key Facts
 
 - Recorded at Fredman Studio, Gothenburg in 1998
@@ -100,4 +117,4 @@ A: My Arms, Your Hearse is the entry point for the five-album Lopez/Opeth cluste
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

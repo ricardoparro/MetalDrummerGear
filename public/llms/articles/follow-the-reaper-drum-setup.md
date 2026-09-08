@@ -50,6 +50,17 @@ The Paiste Sound Edge 14" hi-hats — with their rippled-edge bottom cymbal for 
 
 The two Paiste 2002 crashes (16" and 18") provided tonal variety for accent work: the 16" for explosive short-decay accents in tight melodic passages, the 18" for section boundaries and builds. The 20" ride served both time-keeping and bell accent functions. The 18" China added the trashy upward-cutting attack deployed at structural riff transitions — always deliberate, never continuous.
 
+## The Technical Summit: Follow the Reaper and the Starclassic Era
+
+*Follow the Reaper* (2000) is where Jaska Raatikainen's technical drumming reached its most demanding expression in Children of Bodom's catalog. The transition to the Tama Starclassic Maple, Paiste 2002 cymbals, and Tama Iron Cobra double pedal was not cosmetic — it was a gear upgrade matched to a fundamental increase in the technical ambition of the arrangements.
+
+What distinguishes *Follow the Reaper* as a drum record is not merely the speed — though "Kissing the Shadows" remains one of melodic death metal's most physically demanding recorded performances. It is the combination of that technical extremity with the melody-following intelligence that characterizes Raatikainen's approach: tom fills that track neoclassical guitar and keyboard lines, blast beats deployed as structural events rather than constant texture, dynamic contrast maintained across the full range from verse restraint to peak intensity. The Starclassic Maple's shell consistency and the Iron Cobra's mechanical reliability were the gear conditions that made this combination achievable at these tempos.
+
+**For Drummers Studying Follow the Reaper:**
+Start with "Kissing the Shadows" for the technical foundation: count the double-bass patterns against the guitar riff, observe how the kick placement locks with the rhythm rather than running independently under it. Then move to "Bodom After Midnight" for the groove sensibility: hear how the same Raatikainen who sustains blast at 210 BPM also swings with clear pulse through the track's verse sections. Finally, listen to "Children of Bodom" for the full dynamic range — the contrast from verse restraint to climactic intensity shows the compositional intelligence at work.
+
+For the complete picture of how this album fits within Jaska Raatikainen's gear evolution — from the early Tama of *Hatebreeder* through the Starclassic era and into the Pearl Masters years — see the [Jaska Raatikainen drummer profile](/drummer/jaska-raatikainen), the [Hatebreeder drum setup article](/articles/hatebreeder-drum-setup), and the [Hate Crew Deathroll drum setup article](/articles/hate-crew-deathroll-drum-setup).
+
 ## Key Facts
 
 - Released September 25, 2000 — Children of Bodom's third full-length, one year after Hatebreeder
@@ -88,4 +99,4 @@ A: *Follow the Reaper* (2000) is widely regarded as Jaska Raatikainen's most tec
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

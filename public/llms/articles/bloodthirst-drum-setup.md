@@ -21,7 +21,7 @@ The album opens with "Dead Human Collection" — a track that became an immediat
 
 - **Drums:** Pearl Pearl Masters MX or early Reference (transitional era, 1999) (Custom finish (transitional to endorsement configuration) finish)
 - **Snare:** Pearl Pearl steel-shell or wood-shell snare (transitional, 1999), 14" x 6.5"
-- **Cymbals:** Meinl (developing endorsement) — Meinl Classics / early Byzance (developing endorsement, 1999)
+- **Cymbals:** Sabian — Sabian AAX Series
 - **Hardware / Pedals:** Pearl Eliminator or transitional double bass pedal configuration; ddrum Acoustic Pro Triggers (live context); Vic Firth 5B or early signature development
 - **Heads:** Remo Coated Ambassador (batter), Remo Diplomat Snare Side (resonant)
 - **Snare tuning:** Medium tension — more body and weight than the debut-era bright approach, suited to Richardson's production aesthetic
@@ -44,15 +44,27 @@ A 14" x 6.5" snare (whether steel or wood at this transitional stage) delivers m
 
 Richardson's snare capture on "Bloodthirst" differs from Burns's Morrisound approach: slightly more body, slightly lower tuning, with the snare's fundamental allowed to breathe more than the bright, close-miked Burns approach had permitted. The result is a snare that feels heavier and more physical — appropriate for an album that was repositioning Cannibal Corpse's sonic identity for the Fisher era.
 
-### Meinl: The Endorsement Relationship Takes Shape
+### Sabian: The Endorsement Relationship Takes Shape
 
-By 1999, Paul Mazurkiewicz was developing his Meinl endorsement relationship — the partnership that defines his modern setup. Whether the cymbals on "Bloodthirst" were full Meinl Classics or early Byzance series, or represented the transition from the pre-endorsement era-typical Paiste/Zildjian selection, the Meinl character was entering his sound around this period.
+By 1999, Paul Mazurkiewicz was developing his Sabian endorsement relationship — the partnership that defines his modern setup. Whether the cymbals on "Bloodthirst" were full Sabian AAX Series or represented the transition from the pre-endorsement era-typical Paiste/Zildjian selection, the Sabian character was entering his sound around this period.
 
-Meinl's manufacturing philosophy — hand-hammered bronze with focused attack and controlled decay — served the Fisher-era Cannibal Corpse sound well. The technical precision of the "Bloodthirst" compositions required cymbals that spoke clearly and decayed quickly in dense, compressed sonic environments. Richardson's UK production approach added density and richness to the overall sound; cymbals with slow decay or excess wash would have blurred the rhythmic clarity that Mazurkiewicz's blast beat and double-kick work demanded.
+Sabian's manufacturing philosophy — hand-hammered bronze with focused attack and controlled decay — served the Fisher-era Cannibal Corpse sound well. The technical precision of the "Bloodthirst" compositions required cymbals that spoke clearly and decayed quickly in dense, compressed sonic environments. Richardson's UK production approach added density and richness to the overall sound; cymbals with slow decay or excess wash would have blurred the rhythmic clarity that Mazurkiewicz's blast beat and double-kick work demanded.
 
 The 14" hi-hats continue as the rhythmic backbone, defining the pulse across blast beat and groove sections alike. On "Dead Human Collection" and "Unleashing the Bloodthirsty," the hi-hat articulation drives the fast subdivisions over the double-kick patterns that open the album with such authority. The China cymbal, a Mazurkiewicz vocabulary staple since the debut, appears in its most developed form on "Bloodthirst" — Richardson mixed it prominently, treating it as the compositional accent piece that Mazurkiewicz had been developing it toward across five prior albums.
 
-The full Meinl setup — as it would be confirmed in subsequent Fisher-era recordings — proved ideal for Cannibal Corpse's sonic environment: focused, fast, aggressive, and built for the sustained extreme playing that death metal demands.
+The full Sabian setup — as it would be confirmed in subsequent Fisher-era recordings — proved ideal for Cannibal Corpse's sonic environment: focused, fast, aggressive, and built for the sustained extreme playing that death metal demands.
+
+## The Fisher Era's Foundation: Bloodthirst and the New Cannibal Corpse Identity
+
+"Bloodthirst" marks the moment Cannibal Corpse completed its transformation from the Barnes-era lineup to the Fisher-era machine that would carry the band through the next two-plus decades. Paul Mazurkiewicz — the constant in every CC lineup since the 1988 founding — provided the rhythmic continuity that made that transformation feel authoritative rather than disruptive. The locomotive double-bass was still the engine. The conventional grip blast beats were still the signature. The serve-the-riff philosophy was still the operating principle. But the kit had evolved, the production context had shifted to the UK, and the result was a Cannibal Corpse that sounded heavier and more precise than at any prior point in its history.
+
+The drum performances on "Bloodthirst" — particularly on "Dead Human Collection," "Pounded into Dust," and "Unleashing the Bloodthirsty" — remain among the most cited references for the Fisher-era CC sound because they demonstrate what Mazurkiewicz's fully mature technique sounds like when matched with a production approach that gives it the weight it deserves. Richardson's UK production brought a density that Burns's dry Tampa approach had controlled; the result was a drum sound that felt physically massive in a way the Morrisound era had approached but not fully achieved.
+
+For the complete Paul Mazurkiewicz CC gear arc:
+- **The Barnes-era capstone**: [The Bleeding drum setup (1994)](/articles/the-bleeding-drum-setup) — Scott Burns's final CC production
+- **The genre landmark**: [Tomb of the Mutilated drum setup (1992)](/articles/tomb-of-the-mutilated-drum-setup) — the Morrisound peak
+- **Modern rig**: [Paul Mazurkiewicz drum setup](/articles/paul-mazurkiewicz-drum-setup) — Pearl Reference / Sabian / Pearl Eliminator
+- **Full profile**: [Paul Mazurkiewicz at MetalForge](/drummer/paul-mazurkiewicz)
 
 ## Key Facts
 
@@ -77,7 +89,7 @@ A: George 'Corpsegrinder' Fisher sang on Bloodthirst (1999). Fisher joined Canni
 
 **Q: What drums did Paul Mazurkiewicz use on Bloodthirst?**
 
-A: On Bloodthirst (1999), Paul Mazurkiewicz was evolving toward the Pearl Reference configuration that defines his modern setup. His kit featured deeper kick drums (22-inch x 18-inch, transitioning from the earlier 16-inch depth) and an expanded four-tom layout including an 18-inch floor tom not present in the debut-era setup. The shell construction was Pearl's higher-tier maple/mahogany hybrid — Pearl Masters MX or early Reference-range. He was also developing his Meinl cymbal endorsement relationship around this period. The setup was the most developed of his career to that point, matching the technical demands of the Fisher-era compositions.
+A: On Bloodthirst (1999), Paul Mazurkiewicz was evolving toward the Pearl Reference configuration that defines his modern setup. His kit featured deeper kick drums (22-inch x 18-inch, transitioning from the earlier 16-inch depth) and an expanded four-tom layout including an 18-inch floor tom not present in the debut-era setup. The shell construction was Pearl's higher-tier maple/mahogany hybrid — Pearl Masters MX or early Reference-range. He was also developing his Sabian cymbal endorsement relationship around this period. The setup was the most developed of his career to that point, matching the technical demands of the Fisher-era compositions.
 
 **Q: Who produced Bloodthirst and what studio was it recorded in?**
 
@@ -95,4 +107,4 @@ A: The Bleeding (1994) and Bloodthirst (1999) represent the two poles of Canniba
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

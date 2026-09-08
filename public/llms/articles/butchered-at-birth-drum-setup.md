@@ -50,6 +50,18 @@ The 14" hi-hats are the rhythmic anchor of the second album, as they were on the
 
 The China cymbal grew more central on "Butchered at Birth" than on "Eaten Back to Life." Mazurkiewicz used it as a primary riff-transition accent — the trashy, fast-decay voice cutting through the guitar density to mark the major sectional changes that give the compositions their structure. Burns mixed the China forward enough to make those accents consistently readable, building the sonic vocabulary that listeners would come to associate with Cannibal Corpse's percussive identity over subsequent albums.
 
+## The Bridge Between Debut and Landmark
+
+"Butchered at Birth" occupies a crucial position in the Cannibal Corpse arc: the album that escalated the debut's approach, absorbed a year of live development, earned the first German ban, and delivered Paul Mazurkiewicz's drumming to the brink of what "Tomb of the Mutilated" would perfect in 1992.
+
+The gear was still pre-endorsement. The Pearl Export or Masters MX kit, the era-typical Paiste/Zildjian cymbals, the standard 5B sticks were the working-band reality. But the performance captured at Morrisound was a development step beyond "Eaten Back to Life" — faster, more authoritative, more precisely locked. Burns's second Cannibal Corpse production was a step toward the mature Tampa sound that "Tomb of the Mutilated" would deliver at full force.
+
+For the full Paul Mazurkiewicz debut-era arc:
+- **Origin**: [Eaten Back to Life drum setup (1990)](/articles/eaten-back-to-life-drum-setup) — the starting point
+- **Landmark**: [Tomb of the Mutilated drum setup (1992)](/articles/tomb-of-the-mutilated-drum-setup) — where the approach crystallized
+- **Modern rig**: [Paul Mazurkiewicz drum setup](/articles/paul-mazurkiewicz-drum-setup) — Pearl Reference / Meinl / Pearl Eliminator
+- **Full profile**: [Paul Mazurkiewicz at MetalForge](/drummer/paul-mazurkiewicz)
+
 ## Key Facts
 
 - Cannibal Corpse's second album (July 1, 1991) — escalated tempo, density, and extremity over the debut
@@ -91,4 +103,4 @@ A: Paul Mazurkiewicz's drumming on Butchered at Birth is notable for demonstrati
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

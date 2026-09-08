@@ -56,6 +56,20 @@ The Byzance hi-hats' controlled response was central to Greiner's rhythmic preci
 
 The China cymbal provided the aggressive, trashy accent character that metalcore's most intense moments demand. Greiner's China usage on *Found in Far Away Places* is deliberate and compositional — each hit lands at a specific musical moment, giving the accent maximum impact through careful placement rather than constant deployment.
 
+## Found in Far Away Places: The Commercial Peak and the Technical Apex
+
+*Found in Far Away Places* (2015) represents the moment when August Burns Red's commercial ambitions and technical identity converged most successfully. A Gold RIAA certification and #1 US Christian Albums chart position — achieved without softening the band's approach — validated that metalcore's sophisticated end could connect with a broad audience. Matt Greiner's drumming was the foundation that made that convergence possible.
+
+The Pearl Reference Pure / Meinl Byzance / Pearl Demon Drive setup that powered *Found in Far Away Places* was the most refined version of Greiner's approach to that point. Every component had been chosen with deliberate purpose: shells that articulate rather than merely resonate, cymbals that cut without washing, pedals calibrated to his specific mechanical technique. The result was a drum sound that is simultaneously heavy enough for ABR's most aggressive moments and precise enough for the Ghost's polyrhythmic complexity.
+
+**For Drummers Studying Found in Far Away Places:**
+Start with "Ghosts" — not because it's the easiest material, but because it's the most complete expression of Greiner's vocabulary. Study how he maintains independent rhythmic cycles across multiple limbs simultaneously. Note the ghost note density beneath the main groove: those subtle dynamics are what separate his playing from a technically capable but musically flat approach. Then trace how the blast beat sections resolve into locked grooves — the blast-to-groove transition is Greiner's signature compositional move, and *Found in Far Away Places* contains his most refined versions.
+
+**The Gear Legacy:**
+Pearl Reference Pure drums remain the professional benchmark for maple/mahogany hybrid construction — Greiner's endorsement helped establish the line's credibility in metalcore contexts. Meinl Byzance Traditional cymbals are widely available and continue to be the precise, controlled-decay choice for modern metal production. The Pearl Demon Drive remains a top-tier double pedal option.
+
+For Matt Greiner's current setup and how it has evolved since *Found in Far Away Places*, see the [Matt Greiner complete drum setup guide](/articles/matt-greiner-complete-drum-setup). For the full ABR drumming arc, trace it from [Messengers](/articles/messengers-drum-setup) through [Leveler](/articles/leveler-drum-setup) to this article's documentation of the Pearl era.
+
 ## Key Facts
 
 - Released July 24, 2015 on Fearless Records — ABR's most commercially successful album, certified Gold (RIAA)
@@ -91,4 +105,4 @@ A: The comparison between *Found in Far Away Places* (2015) and *Leveler* (2011)
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

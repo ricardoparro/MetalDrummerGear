@@ -15,6 +15,25 @@ This guide covers exactly what's still available from Joey's rig, what has been 
 
 For a deep dive into Joey's gear by era, see the [full Joey Jordison kit breakdown](/articles/whats-in-joey-jordisons-kit). For the specific gear used on the Iowa album, read the [Iowa drum setup article](/articles/iowa-drum-setup). And for Joey's complete biography and career timeline, visit the [Joey Jordison drummer profile](/drummer/joey-jordison).
 
+## Joey's Legacy: Gear That Outlives the Drummer
+
+Joey Jordison's gear tells a story about how he thought about drumming: every piece was chosen for a specific purpose, built to endure extreme playing, and designed to serve the music rather than impress observers. The Pearl JJ1365 wasn't just a snare — it was an engineering solution to the problem of cutting through Slipknot's nine-instrument wall of sound. The Paiste RUDE cymbals weren't just cymbals — they were chosen because they were physically capable of withstanding his playing night after night.
+
+The good news for drummers and collectors in 2026 is that most of Joey's sound is still accessible. The JJ1365 snare and Promark TX515W sticks are in production. The Paiste RUDE lineup hasn't changed. The Pearl Reference and Masters series maintain the shell character of his Iowa-era Masterworks setup.
+
+What's harder to find is the Iowa-era Masterworks kit in its original purple/black fade configuration — but these kits surface on Reverb and through vintage dealers for collectors willing to be patient. And for players who just want the sound rather than the artifact, a budget build using the three signature items (snare, sticks, one RUDE China) plus a mid-tier Pearl kit delivers the essential Joey Jordison character at a fraction of the full replica cost.
+
+**Quick Reference:**
+- **JJ1365 Signature Snare**: Buy new from any Pearl dealer — $250–350
+- **TX515W Signature Sticks**: Any music retailer — $13/pair
+- **Paiste RUDE**: Authorized Paiste dealers or Guitar Center — $150–380 per cymbal
+- **Iowa-era Pearl Masterworks**: Reverb.com, patience required — $2,000–6,000
+- **Full Replica Build**: $2,000–2,500 budget / $6,000–10,000 authentic
+
+For the complete story of Joey's gear across all eras, start with the [Joey Jordison drummer profile](/drummer/joey-jordison), then read the [Iowa drum setup breakdown](/articles/iowa-drum-setup) and the [What's In Joey Jordison's Kit article](/articles/whats-in-joey-jordisons-kit).
+
+Rest in power, #1. 🥁
+
 ## Key Facts
 
 - Pearl Joey Jordison Signature Snare (JJ1365) still in production
@@ -50,4 +69,4 @@ A: Joey Jordison's Iowa-era Pearl Masterworks Custom kits (2000–2004 vintage) 
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

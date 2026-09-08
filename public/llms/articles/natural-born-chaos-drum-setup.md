@@ -50,6 +50,16 @@ The 14" Byzance Dark hi-hats handled the fast, articulate pattern work that driv
 
 The 18" Byzance China closes out the setup, delivering the trashy, explosive accent that punctuates riff changes on tracks like "Rejection Role." This same dark-cymbal approach, established here on just his second Soilwork album, would go on to define his cymbal voice for the next two decades.
 
+## The Album That Put Dirk Verbeuren on the Map
+
+"Natural Born Chaos" is the record where Dirk Verbeuren's name started reaching listeners far beyond Soilwork's existing fanbase. Just his second album with the band, it paired his technical precision with a bolder, more melodic songwriting direction — and the combination turned Soilwork into one of the flagship bands of the early-2000s melodic death metal boom.
+
+**The Gear Foundation:**
+The Tama Starclassic Performer kit, Meinl Byzance cymbals, and Iron Cobra pedals Verbeuren used here are the same core setup he carried into 'Stabbing the Drama' three years later — brand relationships that would ultimately last his entire career, evolving into Meinl and Tama's flagship lines by the time he joined Megadeth.
+
+**A Career-Long Arc:**
+'Natural Born Chaos' sits early in a run of studio albums Verbeuren recorded with Soilwork between 2001 and 2015, before he departed for Megadeth in 2016. For the very next Soilwork album, released a year later, see the [Figure Number Five Drum Setup article](/articles/figure-number-five-drum-setup). For the album released three years after that on the same core setup, see the [Stabbing the Drama Drum Setup article](/articles/stabbing-the-drama-drum-setup). For his complete gear evolution across both bands, visit the [Dirk Verbeuren drummer profile](/drummer/dirk-verbeuren).
+
 ## Key Facts
 
 - Soilwork's fourth studio album, released March 4, 2002 on Nuclear Blast Records
@@ -87,4 +97,4 @@ A: Both albums feature Dirk Verbeuren on the same core setup — a Tama Starclas
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

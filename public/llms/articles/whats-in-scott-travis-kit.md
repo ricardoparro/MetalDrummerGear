@@ -22,50 +22,71 @@ This is the gear that powers heavy metal's longest-running speed demon.
 
 ## Gear Breakdown
 
-- **Drums:** Pearl Pearl Reference Series (Piano Black finish)
-- **Snare:** Pearl Pearl Reference Brass or Custom Brass, 14" x 6.5"
-- **Cymbals:** Sabian — HHX / AAX Series
-- **Hardware / Pedals:** Pearl Demon Drive Double Pedal; Pearl H-2050 Eliminator Hi-Hat; Pearl D-3500 Roadster; Vic Firth American Classic 5A or 5B; Remo Emperor or Powerstroke series
+- **Drums:** ddrum ddrum Dominion Series (Piano Black finish)
+- **Snare:** ddrum ddrum Scott Travis Signature, 14" x 6.5"
+- **Cymbals:** Paiste — RUDE / 2002 Series
+- **Hardware / Pedals:** DW 9000 Series Double Pedal; Gibraltar Rack System Hi-Hat Mount; Gibraltar Throne; Vic Firth American Classic 5B; Remo Emperor or Powerstroke series
 - **Heads:** Remo Ambassador Coated (batter), Remo Ambassador Snare Side (resonant)
 - **Snare tuning:** Medium-high tension for cut, moderate snare wire tension
 
-### Scott's Current Arsenal: Pearl Reference Series
+### Scott's Current Arsenal: ddrum Dominion Series
 
-Scott Travis has been a Pearl endorser for decades, and his current setup centers on the Pearl Reference Series — the company's flagship professional line. The Reference shells combine maple and birch in a proprietary formula that delivers both warmth and attack.
+Scott Travis has been a long-time ddrum endorser, and his setup centers on the Dominion Series shell pack — the platform behind Painkiller and every Priest album since.
 
-The 24" x 18" bass drum is crucial to Travis's sound. Larger and deeper than typical metal bass drums, it produces a commanding low-end that fills arenas without sacrificing definition. Despite the size, his double bass patterns remain clear and articulate — a testament to both his technique and Pearl's shell design.
+The dual 22" x 18" bass drums are crucial to Travis's sound, producing a commanding low-end that fills arenas without sacrificing definition. Despite running two independent kick drums rather than a connected double pedal, his double bass patterns remain clear and articulate — a testament to both his technique and the Dominion Series's shell design.
 
-His three-rack-tom configuration (10", 12", 13") provides melodic options for fills while maintaining accessibility. The Reference shells' 45-degree bearing edges produce focused, powerful tones that cut through Priest's twin-guitar assault.
+His two-rack-tom configuration (10", 12") provides melodic options for fills while maintaining accessibility. The Dominion Series produces focused, powerful tones that cut through Priest's twin-guitar assault.
 
-The dual floor toms (16" and 18") anchor the kit's bottom end. Travis uses them sparingly but effectively, saving the thunder for moments of maximum impact. The 18" floor tom, in particular, adds weight to section endings and dramatic fills.
+The dual floor toms (14" and 16") anchor the kit's bottom end. Travis uses them sparingly but effectively, saving the thunder for moments of maximum impact.
 
-What sets the Reference Series apart is consistency — every drum responds predictably, allowing Travis to execute his demanding patterns with confidence. For a drummer whose style depends on precision at extreme speeds, that reliability is essential.
+What sets the Dominion Series apart is consistency — every drum responds predictably, allowing Travis to execute his demanding patterns with confidence. For a drummer whose style depends on precision at extreme speeds, that reliability is essential.
 
 ### The Crack That Cuts Through Walls of Sound
 
-Scott Travis's snare sound is one of heavy metal's most distinctive — powerful, cutting, yet never harsh. He achieves this with Pearl brass snares, typically a Reference Brass or custom signature model.
+Scott Travis's snare sound is one of heavy metal's most distinctive — powerful, cutting, yet never harsh. He achieves this with his ddrum Scott Travis Signature snare, built to his own specifications.
 
-The brass shell provides the brightness and projection needed to slice through Priest's dense guitar arrangements. At 6.5" depth, the drum has enough body to avoid sounding thin, while still delivering the crack that defines Travis's backbeat.
+The shell provides the brightness and projection needed to slice through Priest's dense guitar arrangements. At 6.5" depth, the drum has enough body to avoid sounding thin, while still delivering the crack that defines Travis's backbeat.
 
 Listen to "Painkiller" — the snare is present in every mix, even during the most chaotic passages. That same snare tone appears across three decades of Priest albums, proving Travis's consistency in both performance and sound.
 
-Travis tunes his snare medium-high for maximum cut and sensitivity. The brass shell's natural brightness means he doesn't need extreme tension to project. His snare wire tension is moderate, allowing ghost notes to speak while keeping the crack tight on backbeats.
+Travis tunes his snare medium-high for maximum cut and sensitivity. His snare wire tension is moderate, allowing ghost notes to speak while keeping the crack tight on backbeats.
 
-For live shows, the same snare cuts through Priest's massive PA systems. In arenas where lesser snare sounds disappear, Travis's brass ring remains clear and commanding.
+For live shows, the same snare cuts through Priest's massive PA systems. In arenas where lesser snare sounds disappear, Travis's Signature snare remains clear and commanding.
 
-### The Sabian Heavy Metal Arsenal
+### The Paiste Heavy Metal Arsenal
 
-Scott Travis's cymbal setup is built for arena-level projection. His combination of Sabian HHX and AAX cymbals delivers the brightness and cut that heavy metal demands while maintaining musical quality.
+Scott Travis's cymbal setup is built for arena-level projection. His combination of Paiste RUDE and 2002 cymbals delivers the brightness and cut that heavy metal demands while maintaining musical quality.
 
-The 14" HHX Power Hi-Hats are the foundation. Heavier than standard hi-hats, they provide stability during aggressive playing and clear definition at all tempos. Travis's hi-hat work — often overlooked in favor of his double bass — is remarkably precise, providing the "chick" and "splash" sounds that drive Priest's rhythms.
+The 14" RUDE Hi-Hats are the foundation. Heavier than standard hi-hats, they provide stability during aggressive playing and clear definition at all tempos. Travis's hi-hat work — often overlooked in favor of his double bass — is remarkably precise, providing the "chick" and "splash" sounds that drive Priest's rhythms.
 
-Multiple crashes allow dynamic variety. The AAX X-Plosion series crashes are designed for heavy hitting — they project immediately, sustain appropriately, then get out of the way. The 18", 19", and 20" sizing gives Travis options for different musical moments.
+Multiple crashes allow dynamic variety. The RUDE series crashes are designed for heavy hitting — they project immediately, sustain appropriately, then get out of the way. The 18", 19", and 20" sizing gives Travis options for different musical moments.
 
-The 22" HHX Power Ride is essential for songs with extended ride work. Heavier than typical rides, it maintains stick definition even during aggressive playing. The bell is particularly prominent, cutting through for accents.
+The 22" RUDE Power Ride is essential for songs with extended ride work. Heavier than typical rides, it maintains stick definition even during aggressive playing. The bell is particularly prominent, cutting through for accents.
 
-The AAX Chinese cymbal provides the trashy explosions that punctuate Priest's heaviest moments. Used sparingly but effectively, it adds aggression that standard crashes can't match.
+The RUDE China cymbal provides the trashy explosions that punctuate Priest's heaviest moments. Used sparingly but effectively, it adds aggression that standard crashes can't match.
 
-This cymbal array has remained relatively consistent since Travis joined Priest. He knows what works for their sound and sees no need to chase trends.
+This cymbal array has remained consistent since Travis joined Priest. He knows what works for their sound and sees no need to chase trends.
+
+## The Painkiller Legacy Continues
+
+Scott Travis's contribution to heavy metal drumming cannot be overstated. When he joined Judas Priest in 1989, speed metal was still finding its footing. By the time "Painkiller" dropped in 1990, the genre had its definitive statement — and its definitive drummer.
+
+**What Makes Travis Special:**
+Technical drummers are common in metal. What sets Travis apart is his combination of precision, power, and musicality. He plays fast, but he also plays smart. Every fill serves the song. Every double bass run builds toward something. He's never showboating; he's always contributing.
+
+His longevity speaks volumes. Thirty-five years with Judas Priest — longer than any previous Priest drummer. He's outlasted band turmoil, lineup changes, musical trends, and the physical demands of speed metal drumming. At 64 years old (as of 2025), he's still touring extensively, delivering two-hour shows that would exhaust drummers half his age.
+
+**The Gear Philosophy:**
+Travis's setup proves that legendary drumming doesn't require exotic equipment. His ddrum Dominion Series drums and Paiste cymbals are professional-grade but accessible. His snare is his own signature model, his sticks are standard Vic Firth 5Bs. The magic isn't in rare vintage gear or custom builds — it's in the hands holding the sticks.
+
+**For Aspiring Drummers:**
+Study Travis to understand what "precision" actually means. Watch live footage and notice how his stick heights remain consistent, how his double bass patterns stay even, how his dynamics serve Priest's arrangements. Then consider his journey: years with Racer X building technique, the opportunity with Priest, the commitment to maintaining his abilities for three decades.
+
+There are faster drummers. There are flashier drummers. But few have combined speed, power, precision, and longevity like Scott Travis. "Painkiller" announced him to the world. Every album and tour since has reinforced the message.
+
+Heavy metal's speed demon shows no signs of slowing down.
+
+🥁 *You've got another thing coming...* 🥁
 
 ## Key Facts
 
@@ -74,11 +95,11 @@ This cymbal array has remained relatively consistent since Travis joined Priest.
 - "Painkiller" set the benchmark for speed metal drumming
 - 35+ years with Priest — longer than any previous drummer
 - Still touring and recording at the highest level in 2026
-- Pearl Reference Series — flagship professional line
-- 24" bass drum for arena-filling power
-- Three rack toms for melodic flexibility
-- Maple/Birch hybrid shells balance warmth and attack
-- Same basic configuration since mid-2000s
+- ddrum Dominion Series — Travis's long-standing shell pack
+- Dual bass drums for arena-filling power
+- Two rack toms for melodic flexibility
+- Same basic configuration since Painkiller (1990)
+- Consistency — no gear changes documented across his Priest career
 - Estimated kit value: $6,000-8,000 (new) / $4,000-6,000 (used)
 - Estimated snare value: $600-900 (new)
 
@@ -86,18 +107,18 @@ This cymbal array has remained relatively consistent since Travis joined Priest.
 
 **Q: What drum kit does Scott Travis use with Judas Priest?**
 
-A: Scott Travis plays a Pearl Reference Series kit with maple and birch hybrid shells and Reference-level bearing edges. His large-format configuration includes a 24x18 inch bass drum, 10, 12, and 13 inch rack toms, and 16 and 18 inch floor toms. The extended sizes and hybrid shell construction give Travis the deep, powerful tone that anchors Judas Priest's arena rock and heavy metal sound, while the Reference Series construction provides the durability required for decades of touring.
+A: Scott Travis plays the ddrum Dominion Series shell pack — his long-time endorsement, unchanged since Painkiller (1990). His configuration includes dual 22x18 inch bass drums, 10 and 12 inch rack toms, and 14 and 16 inch floor toms. The shell pack gives Travis the deep, powerful tone that anchors Judas Priest's arena rock and heavy metal sound, with the durability required for decades of touring.
 
 **Q: What cymbals does Scott Travis use with Judas Priest?**
 
-A: Scott Travis uses Sabian HHX and AAX series cymbals. His setup includes Sabian HHX 14 inch Power Hi-Hats, Sabian AAX X-Plosion crashes in 18 and 20 inch sizes, a Sabian HHX 22 inch Power Ride, a Sabian AAX 18 inch Chinese, and a Sabian HHX 20 inch X-Treme Crash. The HHX Power series is built for high-volume projection, making it well suited for Travis's powerful playing style in large-venue Judas Priest performances.
+A: Scott Travis uses Paiste RUDE and 2002 series cymbals. His setup includes Paiste RUDE 14 inch Hi-Hats, RUDE crashes in 18 and 19 inch sizes, a Paiste RUDE 22 inch Power Ride, and a Paiste RUDE 18 inch China. The RUDE series is built for high-volume projection, making it well suited for Travis's powerful playing style in large-venue Judas Priest performances.
 
 **Q: How much does Scott Travis's Judas Priest drum kit cost?**
 
-A: Scott Travis's Pearl Reference Series shell pack in his large configuration is estimated at $6,000 to $8,000 new. His Pearl Reference Brass or Custom Brass snare adds approximately $600 to $900. The Sabian HHX and AAX cymbal setup including the full array of crashes, ride, hi-hats, and china runs $2,500 to $4,000. Combined with professional hardware, pedals, and accessories, a complete comparable Travis setup can total between $12,000 and $18,000.
+A: Scott Travis's ddrum Dominion Series shell pack is estimated at $6,000 to $8,000 new. His ddrum Scott Travis Signature snare adds approximately $600 to $900. The Paiste RUDE and 2002 cymbal setup including the full array of crashes, ride, hi-hats, and china runs $2,500 to $4,000. Combined with professional hardware, pedals, and accessories, a complete comparable Travis setup can total between $12,000 and $18,000.
 
 **Source:** https://metalforge.io/articles/whats-in-scott-travis-kit
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

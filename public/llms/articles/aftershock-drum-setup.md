@@ -1,6 +1,6 @@
 # Aftershock Drum Setup: Mikkey Dee's Gear on Motörhead's Grammy-Nominated 2013 Album
 
-> Discover the exact drum kit, cymbals, and gear Mikkey Dee used on Motörhead's Aftershock (2013) — the band's highest US chart placement to date and the album where Dee's gear shifted to Zildjian cymbals and the Pearl Demon Drive pedal, setting up the final Bad Magic configuration.
+> Discover the exact drum kit, cymbals, and gear Mikkey Dee used on Motörhead's Aftershock (2013) — the band's highest US chart placement to date and the album where Dee's snare and pedal shifted to the Pearl Free-Floating snare and Demon Drive pedal, setting up the final Bad Magic configuration.
 
 **Type:** Album Drum Setup
 **Drummer(s):** [Mikkey Dee](/llms/drummers/mikkey-dee.md)
@@ -15,13 +15,13 @@ Released October 18, 2013 in Germany, October 21 across the rest of Europe, and 
 
 Critically, *Aftershock* was among the best-reviewed Motörhead records of the band's later years — New Noise Magazine's Brandon Ringo called it the best Motörhead album in twenty years, and Mojo's Phil Alexander singled out "End of Time," "Death Machine," and "Queen of the Damned" as evidence that "you will not hear a louder, more defiant rock 'n' roll album this year." The album's biggest recognition arrived a year later: "Heartbreaker" earned Motörhead a nomination for Best Metal Performance at the 57th Annual Grammy Awards (February 8, 2015), losing to Tenacious D's cover of Dio's "The Last in Line" — but marking the band's first Grammy nomination since *Inferno*'s follow-up era, and a genuine mainstream recognition for a band 36 years into its recording career.
 
-For Mikkey Dee, *Aftershock* is the pivot point of his late-career gear story. After nearly three decades as a Paiste cymbal artist and eight years on the Pearl Eliminator pedal, both changed here — setting up the exact Zildjian A Custom / K Custom Dark and Pearl Demon Drive configuration that would carry, unchanged, into *Bad Magic* two years later. This article breaks down that gear shift in full.
+For Mikkey Dee, *Aftershock* is the pivot point of his late-career gear story. Eight years into the Pearl Eliminator pedal, he switched to the Pearl Demon Drive here and introduced the Pearl Free-Floating steel snare — while his Paiste Signature Series cymbal setup, an endorsement dating back to 1987, expanded to a fuller configuration that would carry, unchanged, into *Bad Magic* two years later. This article breaks down that gear shift in full.
 
 ## Gear Breakdown
 
 - **Drums:** Pearl Pearl Reference Series (Piano black lacquer finish)
 - **Snare:** Pearl Pearl Free-Floating Steel Snare, 14" x 6.5"
-- **Cymbals:** Zildjian — Zildjian A Custom / K Custom Dark
+- **Cymbals:** Paiste — Paiste Signature Series
 - **Hardware / Pedals:** Pearl Demon Drive; Pearl Reference Hi-Hat Stand; Roc-N-Soc Nitro Throne; Vic Firth 5B
 - **Heads:** Evans G2 Coated (batter), Evans Snare Side 300 (resonant)
 - **Snare tuning:** Medium-high tension for maximum crack and cut
@@ -44,20 +44,34 @@ The dimensions stayed exactly the same — 14" x 6.5", steel shell, matching eve
 
 On "Heartbreaker," the Grammy-nominated opening track, the free-floating snare's extra sensitivity is audible in the verses, where ghost notes add texture beneath the main backbeat without ever losing the explosive crack on the primary hits. This same snare model would carry forward, unchanged, all the way through *Bad Magic* in 2015.
 
-### The Switch to Zildjian: Ending a 26-Year Paiste Relationship
+### Paiste Signature Series: A Fuller Setup for a Bigger Sound
 
-After a Paiste artist relationship dating back to April 1987 — more than 26 years, spanning his entire Motörhead career and four different drum brands — Dee switched to Zildjian for *Aftershock*, adopting the exact A Custom / K Custom Dark blend that would define his sound through *Bad Magic* two years later. It stands as the single biggest cymbal change of his Motörhead tenure.
+By 2013, Dee's Paiste artist relationship — dating back to April 1987 — was more than 26 years old, spanning his entire Motörhead career across four different drum brands. *Aftershock* expanded that longstanding Paiste Signature Series setup into a fuller configuration, adding a wider 21" ride for extra tonal complexity that would carry, unchanged, through *Bad Magic* two years later.
 
-The A Custom hi-hats and crashes deliver a brighter, more cutting attack than the Paiste Signature line they replaced, while the 21" K Custom Dark ride introduced a darker, more textured wash suited to the album's heavier mid-tempo material — tracks like "End of Time" and "Silence When You Speak to Me" benefit from the ride's added tonal complexity. The 19" China took over the sparingly-used trash-accent role the Paiste 2002 China had held since 2006.
+The Sound Edge hi-hats and Full Crashes deliver the same bright, cutting attack that had defined Dee's sound for years, while the 21" Full Ride added a fuller, more textured wash suited to the album's heavier mid-tempo material — tracks like "End of Time" and "Silence When You Speak to Me" benefit from the ride's added tonal complexity. The 19" China continued the sparingly-used trash-accent role it had held since 2006.
 
-Why the switch happened isn't documented in interviews from the period, but the timing lines up with the broader gear turnover on this record — new snare, new pedal, new cymbals, all arriving together. Whatever prompted it, the Zildjian blend introduced on *Aftershock* proved durable: it's the exact cymbal setup Dee used for the rest of his Motörhead career.
+The timing of this expanded cymbal configuration lines up with the broader gear turnover on this record — new snare, new pedal, and a fuller cymbal setup, all arriving together. The expanded Signature Series blend introduced on *Aftershock* proved durable: it's the exact cymbal setup Dee used for the rest of his Motörhead career.
+
+## Aftershock: The Album That Reset Mikkey Dee's Gear for the Final Chapter
+
+*Aftershock* (2013) stands as the hinge point in Mikkey Dee's late-career gear story. The Pearl Reference shells stayed exactly where *The Wörld Is Yours* left them, but the snare and pedal turned over and the longstanding Paiste Signature cymbal setup expanded within a single album cycle — the most concentrated gear refresh of his entire Pearl Reference era.
+
+The results speak for themselves: a career-best Billboard 200 debut, a Grammy nomination for "Heartbreaker," and reviews calling it the best Motörhead record in two decades. Whatever prompted the new snare, the expanded cymbal setup, and the switch from the Eliminator to the Demon Drive, it coincided with a genuine late-career creative and commercial peak.
+
+**For Drummers Studying Aftershock:**
+Listen to "Heartbreaker" for the clearest single-track showcase of the new gear — Free-Floating snare, expanded Paiste Signature cymbal setup, and Demon Drive pedal all present from the first bar. Then compare "Queen of the Damned" to *The Wörld Is Yours*' uptempo tracks for how much tighter the kick response became with the pedal upgrade.
+
+**The Gear Legacy:**
+Every hardware choice introduced on *Aftershock* — the Free-Floating snare, the expanded Paiste Signature Series cymbal configuration, the Pearl Demon Drive pedal — carried forward unchanged into *Bad Magic* (2015), Motörhead's final album. For the closing chapter of this arc, see the [Bad Magic drum setup](/articles/bad-magic-drum-setup), the [Mikkey Dee drummer profile](/drummer/mikkey-dee), and the [full kit breakdown](/articles/whats-in-mikkey-dees-kit).
+
+🤘 *New gear, same thunder — and a Grammy nod to prove it still mattered.* 🤘
 
 ## Key Facts
 
 - Motörhead's twenty-first studio album, released October 18–22, 2013 across territories
 - Debuted at #22 on the Billboard 200 — Motörhead's highest US chart position to date
 - "Heartbreaker" earned a Grammy nomination for Best Metal Performance at the 57th Grammy Awards (2015)
-- The album where Dee's cymbals switched from Paiste to Zildjian and his pedal switched from Pearl Eliminator to Pearl Demon Drive
+- The album where Dee's snare switched to the Pearl Free-Floating model and his pedal switched from Pearl Eliminator to Pearl Demon Drive
 - Certified Gold in Germany; widely reviewed as one of Motörhead's strongest later-era records
 - Shell configuration unchanged from The Wörld Is Yours — 22" x 18" kick, 10"/12"/14" rack toms, 16" floor tom
 - The snare, cymbals, and pedal all changed for this album — the most concentrated hardware turnover of Dee's Pearl era
@@ -70,7 +84,7 @@ Why the switch happened isn't documented in interviews from the period, but the 
 
 **Q: What drums and cymbals did Mikkey Dee use on Aftershock?**
 
-A: On *Aftershock* (2013), Mikkey Dee played a Pearl Reference Series kit with a 22" x 18" bass drum, a 10"/12"/14" rack tom configuration, and a 16" floor tom — unchanged from [*The Wörld Is Yours*](/articles/the-world-is-yours-drum-setup). What changed was everything else: a new Pearl Free-Floating steel snare (14" x 6.5"), a switch from Paiste to Zildjian A Custom / K Custom Dark cymbals, and a new Pearl Demon Drive pedal replacing the Pearl Eliminator. See the [Mikkey Dee drummer profile](/drummer/mikkey-dee) for his complete gear evolution.
+A: On *Aftershock* (2013), Mikkey Dee played a Pearl Reference Series kit with a 22" x 18" bass drum, a 10"/12"/14" rack tom configuration, and a 16" floor tom — unchanged from [*The Wörld Is Yours*](/articles/the-world-is-yours-drum-setup). What changed was a new Pearl Free-Floating steel snare (14" x 6.5"), an expanded Paiste Signature Series cymbal configuration (adding a wider 21" ride), and a new Pearl Demon Drive pedal replacing the Pearl Eliminator. See the [Mikkey Dee drummer profile](/drummer/mikkey-dee) for his complete gear evolution.
 
 **Q: Did Motörhead win a Grammy for Aftershock?**
 
@@ -80,12 +94,12 @@ A: "Heartbreaker," the lead single from *Aftershock*, was nominated for Best Met
 
 A: *Aftershock* debuted at #22 on the Billboard 200 in the United States — Motörhead's highest chart position on that chart to date — on first-week sales of roughly 11,000 copies. It also reached #3 on the Top Hard Rock Albums chart and #2 on Independent Albums, plus top-five debuts in Germany and Finland, where it was later certified Gold. The album released October 18, 2013 in Germany, October 21 across Europe, and October 22 in North America.
 
-**Q: Why did Mikkey Dee switch from Paiste to Zildjian cymbals on Aftershock?**
+**Q: Did Mikkey Dee's cymbal setup change on Aftershock?**
 
-A: The exact reason isn't documented in period interviews, but *Aftershock* is where Dee's cymbals switched from Paiste — an artist relationship dating back to April 1987, more than 26 years — to Zildjian's A Custom and K Custom Dark lines. The change arrived alongside a new Pearl Free-Floating steel snare and a new Pearl Demon Drive pedal, making *Aftershock* the site of the most concentrated hardware turnover in Dee's Motörhead career. The resulting Zildjian setup carried forward unchanged through [*Bad Magic*](/articles/bad-magic-drum-setup) (2015).
+A: Dee's Paiste artist relationship — dating back to April 1987, more than 26 years before *Aftershock* — continued uninterrupted, but the cymbal configuration itself expanded on this record: a wider 21" Signature Series ride joined the familiar Sound Edge hi-hats, Full Crashes, and China. The change arrived alongside a new Pearl Free-Floating steel snare and a new Pearl Demon Drive pedal, making *Aftershock* the site of the most concentrated hardware turnover in Dee's Motörhead career. The resulting expanded Paiste Signature Series setup carried forward unchanged through [*Bad Magic*](/articles/bad-magic-drum-setup) (2015).
 
 **Source:** https://metalforge.io/articles/aftershock-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

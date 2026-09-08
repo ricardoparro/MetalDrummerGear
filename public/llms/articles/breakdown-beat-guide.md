@@ -13,6 +13,19 @@ The metal breakdown beat is deceptively simple in concept and surprisingly nuanc
 
 This guide teaches you the breakdown beat from the ground up: the half-time feel, the kick patterns, the dynamic buildup, and the specific approaches of Pantera, Lamb of God, and Slayer.
 
+## The Breakdown: Metal's Most Powerful Moment
+
+The breakdown beat is metal's most crowd-reactive technique. When it hits correctly — with the right dynamic setup, the right half-time snare placement, and the right kick pattern beneath — it creates a physical sensation that no other drumming approach can replicate.
+
+The five steps in this guide give you the complete breakdown toolkit: half-time feel fundamentals, kick syncopation patterns from Vinnie Paul, Chris Adler, and Dave Lombardo, dynamic contrast techniques, groove and micro-timing, and transition fills. Apply them to the songs you play and you'll feel the difference immediately.
+
+Explore the complete profiles and gear setups of these breakdown masters on MetalForge:
+- Vinnie Paul (/drummer/vinnie-paul) — Tama Superstar, DW Performance heads, Zildjian cymbals
+- Chris Adler (/drummer/chris-adler) — Mapex, Evans heads, Meinl cymbals
+- Dave Lombardo (/drummer/dave-lombardo) — Tama, Evans heads, Paiste cymbals
+
+Also explore the double-bass technique page (/technique/double-bass) for how breakdown beats integrate with double bass patterns in modern metal.
+
 ## Key Facts
 
 - The half-time feel places the snare on beat 3 rather than beats 2 and 4, creating a sense of double-speed slowdown
@@ -39,4 +52,4 @@ A: Three things make breakdown beats heavy: (1) Dynamic contrast — come from a
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

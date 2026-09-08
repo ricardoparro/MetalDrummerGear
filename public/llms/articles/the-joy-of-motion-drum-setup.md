@@ -48,6 +48,12 @@ The Sand Ride's dry, articulate stick definition combined with a controlled wash
 
 Compared to his later, more elaborate stacks and multiple crash configurations, this early Byzance setup is comparatively streamlined — the sound of a drummer establishing his core cymbal voice before expanding it.
 
+## The Album That Started It All
+
+"The Joy of Motion" remains the foundational document of Matt Garstka's career — the recording where his Berklee-trained jazz vocabulary first collided with Animals as Leaders' progressive djent, producing a sound that redefined what technical metal drumming could be. His Pearl Masterworks kit, pre-signature Reference snare, and early Byzance cymbal stack may look modest next to his later, more elaborate rigs, but the musical DNA — dynamics, ghost notes, traditional grip, metric modulation — is already fully realized.
+
+For drummers tracing how Garstka's gear and playing evolved, this album is the essential starting point before moving to [The Madness of Many drum setup](/articles/the-madness-of-many-drum-setup) and [Parrhesia drum setup](/articles/parrhesia-drum-setup). For his complete equipment history across every era, see [What's In Matt Garstka's Kit](/articles/whats-in-matt-garstkas-kit), and for his full biography, visit [Matt Garstka's drummer profile](/drummer/matt-garstka).
+
 ## Key Facts
 
 - Released March 25, 2014 on Sumerian Records — Garstka's first album with Animals as Leaders
@@ -89,4 +95,4 @@ A: Yes. Garstka joined Animals as Leaders in 2012, replacing founding drummer Na
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

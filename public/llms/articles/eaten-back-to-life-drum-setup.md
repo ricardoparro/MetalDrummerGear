@@ -54,6 +54,20 @@ The China cymbal appears in a supporting role already recognizable on the debut 
 
 The two crash sizes (16" and 18") cover the full range of accent demands on "Eaten Back to Life": the smaller crash for quick, punchy riff punctuation; the larger for the section-ending explosions that mark chorus entries and climactic drops.
 
+## The Beginning of the Cannibal Corpse Rhythmic Legacy
+
+"Eaten Back to Life" is the origin point of a 35-year percussive legacy — the first recorded document of Paul Mazurkiewicz's approach to death metal drumming, captured at Morrisound Studios before anyone outside the underground knew Cannibal Corpse's name.
+
+The gear was modest. The Pearl Export-range kit, the pre-endorsement cymbals, the standard 5B sticks were the working-band reality of a young drummer from Buffalo who had not yet broken through commercially. But the philosophy was fully formed: conventional grip, locomotive double-bass, serve-the-riff phrasing, consistency over peak velocity. Every principle that defines Mazurkiewicz's playing on Kill (2006) and Violence Unimagined (2021) is audible on "Eaten Back to Life" in 1990.
+
+Scott Burns's production captured that philosophy with the early version of the Morrisound approach that would become the death metal production standard — close-miked, dry, attack-forward, every drum articulating clearly through a dense guitar mix. The result is a debut recording that holds up as a drum performance document three decades later.
+
+For the complete arc of Paul Mazurkiewicz's gear evolution and technique:
+- **Debut follow-up**: [Butchered at Birth drum setup (1991)](/articles/butchered-at-birth-drum-setup) — the second album and escalating brutality
+- **Genre landmark**: [Tomb of the Mutilated drum setup (1992)](/articles/tomb-of-the-mutilated-drum-setup) — where the approach crystallized
+- **Modern rig**: [Paul Mazurkiewicz drum setup — full gear guide](/articles/paul-mazurkiewicz-drum-setup) — Pearl Reference / Meinl / Pearl Eliminator
+- **Full profile**: [Paul Mazurkiewicz at MetalForge](/drummer/paul-mazurkiewicz)
+
 ## Key Facts
 
 - Cannibal Corpse's debut album (August 17, 1990) — first Metal Blade death metal release from Buffalo, NY
@@ -95,4 +109,4 @@ A: The full Paul Mazurkiewicz drum setup article at MetalForge covers his modern
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

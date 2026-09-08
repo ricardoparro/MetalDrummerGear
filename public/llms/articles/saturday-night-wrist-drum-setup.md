@@ -15,7 +15,7 @@ The result is a contradictory, fascinating record — at once the most experimen
 
 For Abe Cunningham, Saturday Night Wrist was a test of character. In the midst of sessions that were strained and often halting, he continued to show up and play with the musicality and taste that define his best work. His drumming on this record is more varied than any previous Deftones album — matching the record's experimental spirit with playing that shifts between groove-heavy, atmospheric, angular, and explosive depending on what each song demands.
 
-This era also marks a key transition in Abe's cymbal palette. The Zildjian A series that had defined his earlier sound was giving way to darker, drier options as he began exploring what would eventually become his Sabian HHX period. The Saturday Night Wrist sessions capture that transitional moment — a palette developing toward the refined sound that [Diamond Eyes](/articles/diamond-eyes-drum-setup) and [Koi No Yokan](/articles/koi-no-yokan-drum-setup) would later display.
+Through it all, Abe's Zildjian A Custom and K Custom hybrid cymbal setup — the same combination that had anchored his sound since Around the Fur — carries through Saturday Night Wrist, giving the record's disparate moods a consistent foundation.
 
 This article explores the gear Abe used during the Saturday Night Wrist sessions, the techniques that defined its sound, and what makes this challenging record a significant chapter in his drumming career.
 
@@ -23,7 +23,7 @@ This article explores the gear Abe used during the Saturday Night Wrist sessions
 
 - **Drums:** Tama Tama Starclassic Maple/Birch (Custom finish finish)
 - **Snare:** Tama Tama Steel / Brass Snare, 14" x 6.5"
-- **Cymbals:** Zildjian / Sabian — Transitional — Zildjian A/K giving way to Sabian HHX
+- **Cymbals:** Zildjian — A Custom / K Custom
 - **Hardware / Pedals:** Tama Iron Cobra Single Pedal; Tama Iron Cobra Hi-Hat Stand; Tama 1st Chair; Zildjian 5A / Artist Series
 - **Heads:** Remo Ambassador Coated (batter), Remo Ambassador Snare Side (resonant)
 - **Snare tuning:** Medium tuning — versatile across aggressive and atmospheric sections
@@ -50,17 +50,41 @@ The fractured recording process meant that the snare sound isn't entirely consis
 
 For heavier sections of "Beware" and the title track, the snare is pushed hard, delivering the aggressive backbeat the songs require. For atmospheric sections of "Cherry Waves" and "Rivière," the same drum reveals its softer, more resonant side. This versatility — central to [Abe Cunningham's](/drummer/abe-cunningham) entire approach — is why natural metal shells have defined his snare choices throughout his career.
 
-### The Transitional Palette: From Zildjian Toward Sabian
+### The Zildjian A Custom / K Custom Hybrid
 
-Saturday Night Wrist captures Abe Cunningham at a transitional point in his cymbal philosophy. The Zildjian A series that had been the foundation of his sound since Adrenaline was evolving — he was experimenting with darker, drier options, moving toward the Sabian HHX palette that would define his playing from [Diamond Eyes](/articles/diamond-eyes-drum-setup) onward.
+Saturday Night Wrist finds Abe Cunningham using the same Zildjian A Custom/K Custom hybrid that had been the foundation of his sound since Adrenaline, matched to the album's unusually wide emotional range.
 
-The A New Beat hi-hats remained his anchor point throughout this period. Their consistent articulation and versatile tone — reliable in aggressive contexts and musical in quiet ones — made them the last element to change as his cymbal setup evolved. On Saturday Night Wrist, they anchor the grooves on "Hole in the Earth" and "Beware" with the same clarity they'd provided since the band's early albums.
+The A New Beat hi-hats remain his anchor point. Their consistent articulation and versatile tone — reliable in aggressive contexts and musical in quiet ones — make them essential across the record. On Saturday Night Wrist, they anchor the grooves on "Hole in the Earth" and "Beware" with the same clarity they'd provided since the band's early albums.
 
-The crash cymbal setup reflects the transitional era. Moving from standard A series sizes toward slightly larger options in the 17-19 inch range, Abe was developing a preference for crashes with more body and sustain — darker and more musical rather than bright and cutting. This shift anticipates the HHX Evolution crashes he'd embrace on Diamond Eyes.
+The crash cymbal setup sits in the 17-19 inch range, giving Abe crashes with body and sustain — darker and more musical rather than bright and cutting — that suit the record's heavier, more angular moments.
 
-The K Custom ride is the clearest preview of where Abe's cymbal palette was heading. Its dark, complex wash and subtle stick definition are essential to Saturday Night Wrist's atmospheric sections. On "Cherry Waves" — one of the album's most beautiful tracks — the ride work is meditative and textured, a direct preview of the HHX Evolution Ride that would become central to the modern Deftones sound.
+The K Custom ride is essential to Saturday Night Wrist's atmospheric sections. Its dark, complex wash and subtle stick definition are put to their best use on "Cherry Waves" — one of the album's most beautiful tracks — where the ride work is meditative and textured.
 
-By the time [Diamond Eyes](/articles/diamond-eyes-drum-setup) was recorded four years later, the transition would be complete. But Saturday Night Wrist is where you can hear [Abe's](/drummer/abe-cunningham) cymbal voice finding its darker character.
+Saturday Night Wrist is where you can hear [Abe's](/drummer/abe-cunningham) cymbal voice covering the widest stylistic range of his career, without ever needing to change the gear behind it.
+
+## The Difficult, Essential Record
+
+Saturday Night Wrist is the Deftones album that people come back to after they've heard everything else. It's not the most cohesive record in the catalog, not the most accessible, not the most critically celebrated. But it's the most emotionally honest — a document of a band navigating real difficulty and making real art out of it.
+
+**What Made Abe's Performance Special:**
+
+- **Adaptability:** Saturday Night Wrist asks [Abe](/drummer/abe-cunningham) to cover more stylistic ground than any previous Deftones record — from the dreamlike minimalism of "Cherry Waves" to the angular aggression of "Beware" to the urgent directness of "Hole in the Earth." He navigates all of it with the same musical intelligence.
+
+- **Restraint Under Pressure:** In circumstances that might have pushed a lesser drummer toward overplaying, Abe kept doing what he always does: serving the song. "Cherry Waves" might be his most selfless performance on record.
+
+- **Honesty Under Pressure:** The production varying track to track, the emotional rawness — all of it is present in the playing. Abe didn't try to paper over the record's difficult origins. He played through them.
+
+- **Chi Cheng Partnership:** For the last time in the studio, Abe and Chi locked into the low-end partnership they'd been building for almost twenty years. On every track you can hear why Chi Cheng was irreplaceable.
+
+**For Drummers Studying Saturday Night Wrist:**
+
+Learn "Cherry Waves." Play almost nothing for four minutes and see what it does to the song. That kind of restraint is harder than any technical challenge.
+
+Study "Hole in the Earth." That verse kick groove is an Abe classic — syncopated, inventive, and locked in with the bass guitar in a way that makes the whole song feel urgent.
+
+Then listen to the whole album, with the knowledge of what came after. Saturday Night Wrist is the last chapter of a particular Deftones story. [Diamond Eyes](/articles/diamond-eyes-drum-setup) writes the next one.
+
+🥁 *The hardest record to make. The most necessary one to hear.* 🤘
 
 ## Key Facts
 
@@ -68,7 +92,7 @@ By the time [Diamond Eyes](/articles/diamond-eyes-drum-setup) was recorded four 
 - Produced by Terry Date, Bob Ezrin, and Deftones across multiple sessions
 - Deftones' most experimental album — angular, dark, and emotionally raw
 - Singles 'Hole in the Earth' and 'Cherry Waves' were immediate fan favorites
-- Transitional cymbal era — Zildjian A series giving way to darker Sabian options
+- Zildjian A Custom / K Custom cymbal setup carries through, consistent with the rest of his catalog
 - Final full Deftones studio album featuring Chi Cheng on bass
 - Tama Starclassic Maple/Birch — warmth with focused attack
 - Consistent single 22" bass drum across all sessions
@@ -86,7 +110,7 @@ A: Abe Cunningham recorded Saturday Night Wrist in 2005-2006 using a Tama Starcl
 
 **Q: What Deftones album followed the White Pony era?**
 
-A: After White Pony (2000) came the self-titled Deftones album (2003), followed by Saturday Night Wrist (2006). Saturday Night Wrist is the fifth Deftones studio album and the last to feature Chi Cheng playing bass throughout before his 2008 accident. It marked a more experimental direction for the band and a transitional period in Abe Cunningham's cymbal palette, moving from Zildjian toward the Sabian HHX setup that would fully emerge on Diamond Eyes (2010).
+A: After White Pony (2000) came the self-titled Deftones album (2003), followed by Saturday Night Wrist (2006). Saturday Night Wrist is the fifth Deftones studio album and the last to feature Chi Cheng playing bass throughout before his 2008 accident. It marked a more experimental direction for the band, while Abe Cunningham's Zildjian A Custom/K Custom cymbal setup remained consistent.
 
 **Q: Who produced Saturday Night Wrist?**
 
@@ -100,4 +124,4 @@ A: Yes — Saturday Night Wrist (2006) is the last Deftones studio album to feat
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

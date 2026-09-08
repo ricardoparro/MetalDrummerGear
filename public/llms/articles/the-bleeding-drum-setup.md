@@ -54,6 +54,20 @@ The China cymbal accent pattern — an increasingly central element of Mazurkiew
 
 The cymbal setup's overall character — focused attack, controlled decay, no excess wash — served the album's accessibility goals. "The Bleeding" is the clearest-sounding Cannibal Corpse album of the Morrisound era, and the cymbal capture is part of why: every accent is readable, every crash is precisely placed, and the rhythmic picture Mazurkiewicz paints is legible to listeners who had never encountered death metal before.
 
+## The Morrisound Finale and the Barnes-Era Capstone
+
+"The Bleeding" closes the most important chapter in Cannibal Corpse's history: the Chris Barnes era, the Scott Burns / Morrisound production partnership, and Paul Mazurkiewicz's pre-endorsement development period. All three threads concluded with this album — Barnes would depart for Six Feet Under, Burns would hand production duties to Colin Richardson, and Mazurkiewicz would eventually establish the Pearl Reference / Meinl / Vic Firth endorsement relationships that define his modern setup.
+
+What the album captures is Paul Mazurkiewicz at the peak of his pre-endorsement approach: locomotive double-bass fully formed, conventional grip blast beats at their tightest, and a groove sensibility that the debut-era material had only hinted at. The most accessible death metal record of its era is also a definitive document of Mazurkiewicz's ability to adapt his technique to material that demanded something different without abandoning the core philosophy.
+
+The drum performances on "The Bleeding" — particularly on "Staring Through the Eyes of the Dead," "Stripped, Raped, and Strangled," and "The Pick-Axe Murders" — remain among the most widely cited references for Cannibal Corpse's early-era sound because they sit at the intersection of brutality and accessibility. That balance, achieved through Mazurkiewicz's disciplined serve-the-riff philosophy and Burns's most refined production, is the enduring legacy of the record.
+
+For the full Cannibal Corpse drum setup arc:
+- **The predecessor**: [Tomb of the Mutilated drum setup (1992)](/articles/tomb-of-the-mutilated-drum-setup) — the peak of the Morrisound era
+- **The Fisher-era pivot**: [Bloodthirst drum setup (1999)](/articles/bloodthirst-drum-setup) — Colin Richardson production and the new CC sound
+- **Modern rig**: [Paul Mazurkiewicz drum setup](/articles/paul-mazurkiewicz-drum-setup) — Pearl Reference / Meinl / Pearl Eliminator
+- **Full profile**: [Paul Mazurkiewicz at MetalForge](/drummer/paul-mazurkiewicz)
+
 ## Key Facts
 
 - Cannibal Corpse's fourth album (April 5, 1994) — Metal Blade Records — Chris Barnes's final CC album
@@ -95,4 +109,4 @@ A: The Bleeding (1994) and Bloodthirst (1999) represent the two poles of the Mor
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

@@ -48,6 +48,18 @@ The 14" HHX Groove Hats remain the rhythmic anchor across the record's wide temp
 
 The HHX Raw Bell Dry Ride gets its most extended workout yet in Koller's catalog on "Grim Heart/Black Rose" — its dry wash and defined bell give the song's long, patient sections a textural anchor that a brighter ride couldn't provide. The AAX crashes and Chinese cymbal handle their familiar duties on the album's faster, more violent tracks, where No Heroes returns repeatedly to the blast-and-breakdown attack that's been Koller's signature since 2001.
 
+## The Consolidation Before the Expansion
+
+No Heroes is the quiet turning point in Converge's catalog — not as immediately celebrated as Jane Doe or as ambitious as Axe to Fall, but the record where Kurt Ballou's full creative control at GodCity Studio and Ben Koller's matured command of his Tama/Sabian rig locked into the workflow that would define the band for the next two decades. "Grim Heart/Black Rose," with its patient nine-and-a-half-minute build and Jonah Jenkins guest vocal, remains the album's boldest statement and a high-water mark for Koller's dynamic control.
+
+For the complete Converge drumming arc:
+- [Ben Koller — Full Drummer Profile](/drummer/ben-koller)
+- [Jane Doe Drum Setup (2001)](/articles/jane-doe-drum-setup) — the mathcore landmark that started it all
+- [You Fail Me Drum Setup (2004)](/articles/you-fail-me-drum-setup) — the difficult, rawer follow-up
+- [Axe to Fall Drum Setup (2009)](/articles/axe-to-fall-drum-setup) — the all-star expansion that followed
+
+No Heroes proved that Converge's sound didn't need reinvention to keep evolving — just a band and a studio that finally had each other figured out. Ben Koller's drumming, built on the same single-kick Tama and Sabian foundation he'd used since 2001, carried that consolidation from the album's 67-second blasts all the way to its nine-and-a-half-minute centerpiece.
+
 ## Key Facts
 
 - Released October 24, 2006 on Epitaph Records — Converge's sixth studio album
@@ -84,4 +96,4 @@ A: Gear-wise, almost nothing changed across all three records — Ben Koller use
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

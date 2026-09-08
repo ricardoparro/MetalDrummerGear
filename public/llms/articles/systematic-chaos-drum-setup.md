@@ -56,6 +56,23 @@ The 14" HHX Evolution hi-hats deliver articulation with a darker baseline charac
 
 The HHX Evolution 21" Ride — with its complex bell and hammered bow — is central to the prog sections of "In the Presence of Enemies – Part II," providing a shimmering quality that sustains across the track's 16-minute arc. The darker ride sound differentiates Portnoy's groove vocabulary on *Systematic Chaos* from anything in the AAX era.
 
+## The Grammy-Nominated Peak: Why Systematic Chaos Still Matters
+
+*Systematic Chaos* is the album that proved Mike Portnoy could do everything at once — play the heaviest music of his career while maintaining the progressive complexity that defined Dream Theater's identity, all within a 77-minute record that holds together as a coherent artistic statement from beginning to end.
+
+The Grammy nomination for "The Dark Eternal Night" wasn't just a recognition of the album's heaviness. It was a recognition that Dream Theater had achieved something genuinely singular: progressive metal that was also genuinely extreme. Portnoy's drumming was central to that achievement — the bubinga shells' tight attack, the HHX Evolution cymbals' complex wash, and the DW 9000's dynamic sensitivity created a drum sound that could serve both "Constant Motion" and "Repentance" without compromise.
+
+**For drummers studying this album:**
+- Tama Starclassic Bubinga demonstrates that shell material is not cosmetic — it fundamentally changes how a kit speaks
+- Sabian HHX Evolution shows how cymbal series voice affects the entire character of a recorded performance
+- "The Dark Eternal Night" is a masterclass in odd-time groove at maximum velocity
+- "In the Presence of Enemies" is the standard for extended-form compositional drumming
+- DW 9000's dynamic sensitivity proves that pedal feel matters as much as pedal power
+
+*Systematic Chaos* turned 18 years old in 2025, and it remains the definitive statement of Portnoy's final Dream Theater era. The Grammy nomination brought new listeners to a band that had long deserved the recognition — and the drum performance that drove that nomination holds up as one of the finest recorded in progressive metal history.
+
+For the heavy pivot that preceded this, see the [Train of Thought drum setup article](/articles/train-of-thought-drum-setup). For Portnoy's complete story with Dream Theater, visit the [Mike Portnoy drummer profile](/drummer/mike-portnoy). For the prog foundation that started it all, see the [Scenes from a Memory drum setup article](/articles/scenes-from-a-memory-drum-setup).
+
 ## Key Facts
 
 - Grammy nomination for Best Metal Performance — 'The Dark Eternal Night' (50th Grammy Awards, 2008)
@@ -99,4 +116,4 @@ A: Yes. Dream Theater received a Grammy nomination for Best Metal Performance at
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

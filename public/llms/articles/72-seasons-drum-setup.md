@@ -52,6 +52,16 @@ On the faster, thrash-influenced tracks like the title track and "Room of Mirror
 
 The long-term stability of this cymbal setup — unchanged since 2008 — mirrors the stability of the LU1465 snare. By 72 Seasons, Lars's studio rig had become less about experimentation and more about a trusted, dialed-in sound that Fidelman could mix consistently across an entire album cycle.
 
+## 72 Seasons: The Studio Chapter Closes (For Now)
+
+72 Seasons doesn't represent a dramatic gear shift for Lars Ulrich — quite the opposite. The Tama Starclassic Maple kit, LU1465 signature snare, Zildjian A Custom cymbals, and Iron Cobra pedals are the same core rig he has trusted since settling into his modern sound around Death Magnetic in 2008. What makes this album significant isn't a new piece of gear; it's the moment in time it occupies.
+
+Released in April 2023 to commercial numbers that would be the envy of bands a fraction of Metallica's age — number one in more than 30 countries, number two on the Billboard 200 — 72 Seasons proved the band's commercial and creative relevance undiminished more than four decades into its career, ahead of the M72 World Tour that carried the album's songs to stadiums worldwide.
+
+For drummers and fans tracing the full arc of Metallica's studio sound, 72 Seasons closes the loop that started with [Kill 'Em All](/articles/kill-em-all-drum-setup) in 1983 and ran through [Master of Puppets](/articles/master-of-puppets-drum-setup), [the Black Album](/articles/black-album-drum-setup), and [Death Magnetic](/articles/death-magnetic-drum-setup). The full career context lives at the [Lars Ulrich drummer profile](/drummer/lars-ulrich).
+
+🥁 *Tama Starclassic Maple, HQ San Rafael, 2021-2022 — Lars Ulrich's most recent studio chapter.* 🥁
+
 ## Key Facts
 
 - Metallica's most recent studio album — released April 14, 2023
@@ -94,4 +104,4 @@ A: Lars Ulrich used Zildjian A Custom cymbals throughout 72 Seasons — the same
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

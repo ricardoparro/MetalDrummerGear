@@ -39,6 +39,10 @@ This is the part of Joey Jordison's story that's still hands-on: nearly every pi
 - [Signature Snare — Pearl 13" × 6.5"](https://metalforge.io/snares/signature/joey-jordison) — The snare built to cut through Slipknot's nine-piece wall of sound
 - [Joey Jordison vs Jay Weinberg](https://metalforge.io/vs/joey-jordison-vs-jay-weinberg) — The Slipknot succession, gear and technique compared
 
+## Rest in Power, #1
+
+Five years on, Joey Jordison's legacy isn't an abstraction — it's a signature snare still shipping from Pearl, a pack of Promark TX515W sticks still on music-store shelves, a wall of Paiste RUDE cymbals still cutting through mixes the way he needed them to. Slipknot's 2026 tributes will bring a new wave of listeners to his playing; the gear linked above is how they can actually study it. Rest in power, #1.
+
 ## Key Facts
 
 - Died July 26, 2021, at age 46
@@ -65,4 +69,4 @@ A: Jordison built his sound around a Pearl kit, his own Pearl Joey Jordison Sign
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

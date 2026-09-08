@@ -58,6 +58,14 @@ The A Custom 14" hi-hats provide the rhythmic foundation for The Rev's playing t
 
 His crash configuration — 16", 18", and 19" A Custom crashes — gave him a graded palette of accent weights. The 16" provided fast, controlled crashes for tight accent moments within sections. The 18" handled primary structural transitions. The 19" appeared at the album's biggest musical moments: the climax of "Beast and the Harlot," the peak of "M.I.A.," the dynamic apex of "Burn It Down." Together they created the dynamic range that makes *City of Evil*'s arrangements feel physically larger than their track count suggests.
 
+## The Rev's Lasting Document
+
+*City of Evil* is the album where The Rev stepped fully into the mainstream spotlight — and it remains the most important document of his artistry as a drummer, songwriter, and musician. The Pearl Masters MCX kit, the Zildjian A Custom cymbals, and the jazz-influenced vocabulary he deployed across ten tracks of arena-scale hard rock represent one of the most distinctive drumming identities in modern heavy metal.
+
+The Grammy nomination for "Beast and the Harlot," the Platinum certification, the UK charting, and the sustained cultural presence of the album in the years since The Rev's death in December 2009 are all evidence of *City of Evil*'s significance. But the more important evidence is in the music itself: the precision and musicality of The Rev's playing, the way his fills function as composed melodic events rather than reflexive technical exercises, and the ease with which he moved between the album's various registers — from the technical aggression of "M.I.A." to the restrained emotion of "Seize the Day."
+
+For the full A7X drummer arc — from The Rev's era through Mike Portnoy's tribute on *Nightmare* to Arin Ilejay's *Hail to the King* — see the [Nightmare drum setup article](/articles/nightmare-drum-setup) and the [Hail to the King drum setup article](/articles/hail-to-the-king-drum-setup). For The Rev's earlier work before the mainstream breakthrough, see the [Avenged Sevenfold band page at MetalForge](/bands/avenged-sevenfold).
+
 ## Key Facts
 
 - A7X's mainstream breakthrough album — US #30 debut, climbed to Platinum via touring; UK #22
@@ -101,4 +109,4 @@ A: The Rev (Jimmy Sullivan) recorded four studio albums as the drummer for Aveng
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

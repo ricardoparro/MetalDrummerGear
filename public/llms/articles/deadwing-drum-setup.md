@@ -43,6 +43,21 @@ The Zildjian K Custom Special Dry series that Harrison had already established o
 
 The 21" Special Dry Ride does the heaviest lifting on "Arriving Somewhere but Not Here," where its dry, articulate ping carries the track's long build without building up uncontrolled wash over twelve minutes of dynamic development. The 18" Trash China gets more use on *Deadwing* than on *In Absentia*, reflecting the album's heavier moments on "Shallow" and the title track's climactic sections.
 
+## The Bridge to Fear of a Blank Planet
+
+*Deadwing* (2005) is the bridge between Gavin Harrison's debut on *In Absentia* and the benchmark recording of *Fear of a Blank Planet* two years later. The gear tells that story as clearly as the music: the same core Sonor maple kit and Zildjian K Custom Special Dry cymbals, refined further with each album, in service of writing that grew more cinematic and dynamically extreme with every release.
+
+"Arriving Somewhere but Not Here" stands as the album's clearest showcase — a twelve-minute build from sparse texture to full-band climax that asks Harrison's kit to cover its entire dynamic range within a single performance. "Shallow" shows the other end of that range: a direct, driving groove that proves the same setup handles power as convincingly as nuance.
+
+For drummers approaching this gear:
+
+- **Full drummer profile**: [Gavin Harrison at MetalForge](/drummer/gavin-harrison)
+- **In Absentia gear**: [In Absentia Drum Setup](/articles/in-absentia-drum-setup)
+- **Fear of a Blank Planet gear**: [Fear of a Blank Planet Drum Setup](/articles/fear-of-a-blank-planet-drum-setup)
+- **LLM summary**: [Deadwing Drum Setup — LLM](/llms/articles/deadwing-drum-setup.md)
+
+*Deadwing* proves that Harrison's evolution as a drummer was gradual and deliberate — every album builds directly on the gear and technique established by the one before it.
+
 ## Key Facts
 
 - Recorded across multiple English studios, March–October 2004
@@ -80,4 +95,4 @@ A: Deadwing sits between In Absentia (2002) and Fear of a Blank Planet (2007) in
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

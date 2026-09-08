@@ -1,6 +1,6 @@
 # Brann Dailor's Drum Setup on Mastodon's Remission (2002)
 
-> Brann Dailor recorded Remission — Mastodon's debut full-length on Relapse Records — on a DW Collector's Series kit before the band's Tama endorsement era. Discover the raw Southern sludge drum sound behind the album that started the entire Mastodon arc.
+> Brann Dailor recorded Remission — Mastodon's debut full-length on Relapse Records — on a Tama Starclassic kit, the same kit brand he has played continuously ever since. Discover the raw Southern sludge drum sound behind the album that started the entire Mastodon arc.
 
 **Type:** Album Drum Setup
 **Drummer(s):** [Brann Dailor](/llms/drummers/brann-dailor.md)
@@ -15,32 +15,32 @@ Dailor's drumming on *Remission* draws heavily on his jazz background — the sa
 
 The album was produced by Fredrik Nordström — whose Studio Fredman in Gothenburg had become one of the most important metal recording facilities in the world through work with At the Gates, In Flames, and Dimmu Borgir. Nordström's approach gave *Remission* a clarity within its density that distinguished it from the muddier underground sludge recordings of the era, while keeping the raw, unprocessed quality that Relapse Records bands were known for.
 
-This article breaks down the gear Dailor used on *Remission*: a DW Collector's Series kit assembled before Mastodon's later Tama endorsement, Zildjian cymbals from his early career, and the physical setup that captured sludge metal's most musically ambitious debut.
+This article breaks down the gear Dailor used on *Remission*: the Tama Starclassic kit that marks the start of his Tama endorsement, Zildjian cymbals from his early career, and the physical setup that captured sludge metal's most musically ambitious debut.
 
 ## Gear Breakdown
 
-- **Drums:** DW DW Collector's Series (Pre-endorsement custom finish finish)
-- **Snare:** DW DW 14x6.5 Black Nickel over Steel, 14" x 6.5"
+- **Drums:** Tama Tama Starclassic (Early-endorsement custom finish finish)
+- **Snare:** Tama Tama Artstar 14x6.5 Black Nickel over Steel, 14" x 6.5"
 - **Cymbals:** Zildjian — Zildjian A Series
 - **Hardware / Pedals:** Pearl Eliminator Double Pedal; Pearl 900 Series Hi-Hat Stand; Roc-N-Soc Nitro Throne; Vic Firth 5A American Classic
 - **Heads:** Remo Ambassador Coated (batter), Remo Ambassador Snare Side (resonant)
 - **Snare tuning:** High tension — direct attack, maximum cut for sludge metal riffing
 
-### The DW Collector's Series: Before the Tama Era
+### The Tama Starclassic: The Start of the Tama Era
 
-For the *Remission* sessions, Brann Dailor used a DW Collector's Series kit — his setup before Mastodon established the Tama endorsement relationship that would define the band's gear through the Leviathan and Blood Mountain years. The DW Collector's Series, built at DW's California workshop from premium maple shells, gave Dailor a warm, resonant instrument capable of producing musical tom pitches even in the densest sludge metal context.
+For the *Remission* sessions, Brann Dailor used a Tama Starclassic kit — the instrument that marks the beginning of the Tama endorsement relationship that has defined his gear ever since, through the Leviathan and Blood Mountain years and up to his current touring setup. The Starclassic line, built from premium maple shells, gave Dailor a warm, resonant instrument capable of producing musical tom pitches even in the densest sludge metal context.
 
-The maple shell construction is significant for understanding *Remission*'s drum sound. Even in 2002, before Dailor's melodic tom philosophy became the defining characteristic of Mastodon's progressive sound, the DW maple shells provided the tonal quality that made his fills sound musical rather than merely percussive. The overtone development of maple shells — the way pitches sustain and bloom — is audible throughout *Remission*'s more complex drum passages, pointing toward the fuller expression of that approach on [Blood Mountain](/articles/blood-mountain-drum-setup) four years later.
+The maple shell construction is significant for understanding *Remission*'s drum sound. Even in 2002, before Dailor's melodic tom philosophy became the defining characteristic of Mastodon's progressive sound, the Tama maple shells provided the tonal quality that made his fills sound musical rather than merely percussive. The overtone development of maple shells — the way pitches sustain and bloom — is audible throughout *Remission*'s more complex drum passages, pointing toward the fuller expression of that approach on [Blood Mountain](/articles/blood-mountain-drum-setup) four years later.
 
 The kit configuration on *Remission* was relatively straightforward — a setup suited to the album's sludge metal demands rather than the extended progressive compositions that would require larger configurations on later records. Four toms spanning a melodic range, a single 22" bass drum, and the compact physical layout typical of a young band recording their debut in an efficient studio context.
 
-What makes the DW Collector's Series kit historically interesting is its position in Dailor's gear timeline. This is the instrument that appears on the record that introduced Mastodon to the world. Every subsequent gear choice — the Tama endorsement, the specific DW configurations on [Crack the Skye](/articles/crack-the-skye-drum-setup), the current Tama Starclassic setup — follows from this starting point. Studying the *Remission* gear is studying where [Brann Dailor](/drummer/brann-dailor)'s career as a recording artist begins.
+What makes the Tama Starclassic kit historically interesting is its position in Dailor's gear timeline. This is the instrument that appears on the record that introduced Mastodon to the world, and it opens the same endorsement relationship that runs unbroken through [Crack the Skye](/articles/crack-the-skye-drum-setup) and the current Tama Starclassic setup. Studying the *Remission* gear is studying where [Brann Dailor](/drummer/brann-dailor)'s career as a recording artist — and his Tama partnership — begins.
 
 ### Raw Attack: The Remission Snare Sound
 
 The snare drum on *Remission* is one of the album's most immediately recognizable sonic signatures. Where later Mastodon records would use snare tuning to balance ghost note sensitivity with backbeat authority, *Remission*'s snare is tuned for maximum impact — a direct, cutting attack that drives the sludge metal grooves without ambiguity.
 
-At 14" x 6.5", the DW Black Nickel over Steel snare provides the depth and projection needed to cut through Mastodon's dense, down-tuned guitar arrangements. Steel shells respond quickly and with brightness — a different character from the warmer, more nuanced snare tones of later DW or Tama instruments in Dailor's career. On *Remission*, that brightness and attack is exactly right: the album demands a snare that asserts itself, not one that blends sensitively into complex arrangements.
+At 14" x 6.5", the Tama Black Nickel over Steel snare provides the depth and projection needed to cut through Mastodon's dense, down-tuned guitar arrangements. Steel shells respond quickly and with brightness — a different character from the warmer, more nuanced snare tones of later Tama instruments in Dailor's career. On *Remission*, that brightness and attack is exactly right: the album demands a snare that asserts itself, not one that blends sensitively into complex arrangements.
 
 Fredrik Nordström's production at Studio Fredman captured the snare with the directness that characterises Gothenburg's metal recording approach. The result is a snare sound that feels physically present — more raw and less processed than the drum sounds on Mastodon's major-label albums — and that suits the Relapse Records aesthetic of the early 2000s underground metal world.
 
@@ -56,27 +56,37 @@ The hi-hat work on *Remission* demonstrates Dailor's jazz background in this ear
 
 The China cymbal is used throughout *Remission* with a characteristic aggression — crashes and accent marks that add abrasive texture to the already dense guitar work. Dailor's China usage on this record is more direct than the atmospheric China applications of his later career, reflecting the album's character: assault rather than atmosphere.
 
+## Remission: The Foundation of the Mastodon Arc
+
+*Remission* is not the most sophisticated Mastodon album — by design. It is the origin point: the record where Mastodon established their Southern sludge identity on Relapse Records, where [Brann Dailor](/drummer/brann-dailor) first proved his jazz-influenced approach could function in an extreme metal context, and where the gear choices — Tama Starclassic, Zildjian A cymbals, Pearl Eliminator pedal — reflected a young band's practical reality at the very start of the Tama endorsement that has defined Dailor's career ever since.
+
+What makes *Remission* historically significant is precisely its rawness. The album captures Dailor before the progressive refinements of [Leviathan](/articles/leviathan-drum-setup) and [Blood Mountain](/articles/blood-mountain-drum-setup), before the mature melodic philosophy of [Crack the Skye](/articles/crack-the-skye-drum-setup), and before the fuller endorsement relationship that gave his later setups their polished consistency. This is the sound of a drummer of genuine talent playing in a room with the best gear he had, making records that would matter.
+
+For drummers studying Dailor's development, *Remission* is essential. The fills that would become melodic centrepieces on *Crack the Skye* are present here in rougher form. The jazz-influenced hi-hat patterns that make Dailor's playing distinctive in any context are audible throughout. The musical intelligence that would eventually produce the fills-as-lead-instrument philosophy of *Blood Mountain* is already shaping how he plays in service of Mastodon's sludge riffing.
+
+The full picture of Brann Dailor's gear and development is available at the [Brann Dailor drummer profile](/drummer/brann-dailor), where the complete arc from *Remission* through the current Tama Starclassic setup is documented. For the progressive peaks of that arc, the [Crack the Skye drum setup](/articles/crack-the-skye-drum-setup) and [Blood Mountain drum setup](/articles/blood-mountain-drum-setup) articles provide the full breakdown of how the Tama / Meinl era defined Mastodon's most acclaimed records.
+
 ## Key Facts
 
 - Mastodon's debut full-length on Relapse Records — origin point of the entire discography
 - Brann Dailor's first full LP recording — jazz-influenced drumming in a raw sludge metal context
-- DW Collector's Series kit — pre-Tama endorsement era gear
+- Tama Starclassic kit — the start of Dailor's Tama endorsement, which continues today
 - Produced by Fredrik Nordström at Studio Fredman, Gothenburg
 - Rawer, more direct sound than the progressive complexity of later Mastodon albums
 - Foundation for the entire Brann Dailor arc through Blood Mountain and Crack the Skye
-- Pre-Tama endorsement era — DW Collector's Series before the partnership developed
+- The earliest Tama endorsement gear — Starclassic before the relationship expanded
 - Maple shell construction provided musical tonal quality suited to Dailor's jazz-influenced approach
 - Compact configuration appropriate for debut album sessions
 - Single bass drum — consistent with Dailor's preference throughout most of his career
 - Foundation of the gear arc that would evolve through Leviathan and Blood Mountain
-- Estimated kit value: $3,000–6,000 (DW Collector's Series shell pack, early 2000s)
-- Estimated snare value: $400–700 (DW 14x6.5 Black Nickel over Steel)
+- Estimated kit value: $3,000–5,500 (Tama Starclassic shell pack, early 2000s)
+- Estimated snare value: $400–700 (Tama Artstar 14x6.5 Black Nickel over Steel)
 
 ## Frequently Asked Questions
 
 **Q: What kit did Brann Dailor use on Remission?**
 
-A: Brann Dailor recorded Mastodon's Remission (2002) using a DW Collector's Series drum kit — before Mastodon's later Tama endorsement era. The DW Collector's Series maple shells provided warm, resonant tone well suited to Dailor's jazz-influenced playing approach, even in the raw sludge metal context of the debut album. The configuration featured a single 22-inch bass drum, four toms (10, 12, 14, and 16 inch), and the compact setup appropriate for a debut recording session.
+A: Brann Dailor recorded Mastodon's Remission (2002) using a Tama Starclassic drum kit — the record that opened his Tama endorsement, which has continued unbroken through to his current setup. The Starclassic's maple shells provided warm, resonant tone well suited to Dailor's jazz-influenced playing approach, even in the raw sludge metal context of the debut album. The configuration featured a single 22-inch bass drum, four toms (10, 12, 14, and 16 inch), and the compact setup appropriate for a debut recording session.
 
 **Q: Is Remission Mastodon's first album?**
 
@@ -98,4 +108,4 @@ A: On Remission (2002), Brann Dailor used Zildjian A Series cymbals — his earl
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

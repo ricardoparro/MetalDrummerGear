@@ -13,6 +13,17 @@ Joey Jordison's Slipknot snare has one of the most recognizable sounds in nu-met
 
 These three drummers prove that metal drum tuning is not one-size-fits-all. It depends on the specific subgenre, the guitar tone, the recording or PA environment, and the player's aesthetic. This guide walks you through the tuning principles that apply across all metal contexts, then explains how to adapt them for your style.
 
+## Great Tuning Takes Practice — But So Does Everything Worth Mastering
+
+Drum tuning is a skill developed over years, not days. Every session you spend at the kit learning how head tension, muffling, and pitch intervals interact is time invested in a skill that will make every drum you ever play sound better.
+
+The five steps in this guide give you the systematic approach: bass drum for punch, snare for signature character, rack toms for pitch interval, floor tom for low-end anchor, and final adjustment as a complete kit. Apply these principles, then study the recordings of the masters to hear how their choices compare to yours.
+
+For complete gear setups and tuning clues from the masters, visit:
+- Joey Jordison (/drummer/joey-jordison) — Pearl Reference, Evans heads, Paiste cymbals
+- Vinnie Paul (/drummer/vinnie-paul) — Tama Superstar, DW heads, Zildjian cymbals
+- Dave Lombardo (/drummer/dave-lombardo) — Tama, Evans heads, Paiste cymbals
+
 ## Key Facts
 
 - Snare tuning for metal: medium-high tension gives the crack and sustain cut needed to slice through guitars
@@ -29,7 +40,7 @@ A: Yes, strategic dampening is essential for metal. Too much ring on snare and t
 
 **Q: How do I get the click in my bass drum for metal?**
 
-A: The bass drum "click" or "beater attack" comes from the beater striking the head at the right point and the head having appropriate tension. Use a hard plastic or wood beater (rather than felt) for maximum click definition. The batter head should be at medium-high tension — too loose produces a thud, too tight loses the fundamental tone. Evans EMAD and Aquarian Super-Kick heads have impact patches that enhance beater click while controlling ring. Joey Jordison's bass drum click is enhanced by the Pearl Eliminator beater's multi-surface beater head design.
+A: The bass drum "click" or "beater attack" comes from the beater striking the head at the right point and the head having appropriate tension. Use a hard plastic or wood beater (rather than felt) for maximum click definition. The batter head should be at medium-high tension — too loose produces a thud, too tight loses the fundamental tone. Evans EMAD and Aquarian Super-Kick heads have impact patches that enhance beater click while controlling ring. Joey Jordison's bass drum click is enhanced by the Pearl Demon Drive beater's multi-surface beater head design.
 
 **Q: What is the best drum head for metal tuning?**
 
@@ -39,4 +50,4 @@ A: For bass drum: Evans EMAD, Remo Powerstroke 3, or Aquarian Super-Kick are the
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

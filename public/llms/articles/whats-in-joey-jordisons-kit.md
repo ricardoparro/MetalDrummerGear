@@ -58,6 +58,20 @@ Multiple crashes ranging from 16" to 19" gave Joey options for different dynamic
 
 The twin China cymbals (20" and 22") were crucial to Slipknot's sound. Joey used them constantly for accents, and their trashy, explosive character became part of the band's sonic identity. The Wild Chinas are among the most aggressive China cymbals ever made.
 
+## The Legacy Lives On
+
+Joey Jordison's influence on metal drumming cannot be overstated. He combined speed, precision, showmanship, and musicality in ways that inspired an entire generation of drummers. His technical abilities were matched only by his creativity and willingness to push boundaries.
+
+The gear Joey used was professional-grade but accessible — Pearl drums, Paiste cymbals, Promark sticks. What made his sound special was never just the equipment; it was the person behind it. Joey brought a combination of work ethic, natural talent, and artistic vision that elevated everything he touched.
+
+For drummers looking to capture some of Joey's sound, his signature snare and sticks remain in production and are among the most affordable ways to connect with his legacy. The RUDE cymbals he championed continue to be the choice for drummers who demand aggressive tones and extreme durability.
+
+Joey Jordison passed away on July 26, 2021, but his legacy endures. Every blast beat, every double bass pattern, every drummer who picked up sticks after seeing Slipknot play — they all carry a piece of Joey with them.
+
+For a full era-by-era breakdown of every component in his drum set, see the [Joey Jordison drum setup guide](/articles/joey-jordison-drum-setup).
+
+Rest in power, #1. 🥁
+
 ## Key Facts
 
 - Pearl Drums endorsee for most of his career
@@ -91,4 +105,4 @@ A: Joey Jordison's Pearl Reference Series custom configuration typically runs be
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

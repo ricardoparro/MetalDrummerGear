@@ -15,13 +15,13 @@ At the heart of that sound was Bill Ward — a drummer whose jazz upbringing mad
 
 The recording setup was bare-bones by any standard. Regent Sound was a modest four-track studio. Rodger Bain's production philosophy was capture the band live in the room and get out of the way. There were no click tracks, no drum triggers, no extensive overdubs. What you hear on *Paranoid* is a band playing live, and Bill Ward driving every second of it.
 
-This article breaks down the Ludwig-based kit Ward used, his Avedis Zildjian cymbal setup, and the playing philosophy behind some of metal's most studied drum performances — from the locked-in groove of "Iron Man" to the tumbling fills of "War Pigs."
+This article breaks down the Ludwig-based kit Ward used, his Super Zyn cymbal setup, and the playing philosophy behind some of metal's most studied drum performances — from the locked-in groove of "Iron Man" to the tumbling fills of "War Pigs."
 
 ## Gear Breakdown
 
 - **Drums:** Ludwig Ludwig Standard / Club Date Series (Silver Sparkle finish)
 - **Snare:** Ludwig Ludwig Acrolite, 14" x 5"
-- **Cymbals:** Zildjian — Avedis Zildjian
+- **Cymbals:** Super Zyn — Super Zyn
 - **Hardware / Pedals:** Ludwig Speed King; Ludwig Atlas Hi-Hat Stand; Ludwig Standard Throne; Pro-Mark Standard (5A or 5B equivalent)
 - **Heads:** Remo Ambassador Coated (batter), Remo Ambassador Snare Side (resonant)
 - **Snare tuning:** Medium-high tension for crack and projection
@@ -46,15 +46,31 @@ Rodger Bain's close-mic approach captured the snare directly, without room ambie
 
 Ward played with considerable force, and the Acrolite's aluminum construction could take the punishment. The tension rods were cranked relatively tight for projection, giving the snare its characteristic crack without excessive ring. Coated Remo Ambassador heads (standard for the era) added a touch of warmth to the attack.
 
-### Avedis Zildjian: Period-Correct Bronze for the Birth of Metal
+### Super Zyn: Carried Over From the Debut
 
-Bill Ward's cymbal setup on *Paranoid* was period-correct Avedis Zildjian — the bronze alloy standard of professional drumming in 1970. The Avedis line (named after Avedis Zildjian III, who expanded the company's American presence) produced cymbals with a warm, complex sound profile that suited Ward's jazz-influenced playing far better than the brighter, more aggressive cymbal designs that would come later.
+Bill Ward's cymbal setup on *Paranoid* carried over unchanged from the debut album — the same modest, entry-level Super Zyn line he'd played on his first Black Sabbath session seven months earlier. Ward would upgrade to Avedis Zildjian for *Master of Reality* the following year.
 
-The 14" hi-hats were central to Ward's style. His jazz background made him a hi-hat player first — he rides the hi-hat on several *Paranoid* tracks with a swung, slightly shuffled feel that gives "War Pigs" and "Paranoid" their human groove quality. Drummers analyzing Ward's playing consistently cite his hi-hat work as the most jazz-influenced element of Black Sabbath's rhythm section.
+The 15" hi-hats were central to Ward's style. His jazz background made him a hi-hat player first — he rides the hi-hat on several *Paranoid* tracks with a swung, slightly shuffled feel that gives "War Pigs" and "Paranoid" their human groove quality. Drummers analyzing Ward's playing consistently cite his hi-hat work as the most jazz-influenced element of Black Sabbath's rhythm section.
 
-The 20" ride was Ward's primary time-keeping surface for longer sections. His jazz background led him to use the ride more idiomatically than most rock drummers of the era — playing in the bow rather than the bell, varying pressure to control overtones, and letting the cymbal breathe between strokes.
+The 22" ride was Ward's primary time-keeping surface for longer sections. His jazz background led him to use the ride more idiomatically than most rock drummers of the era — playing in the bow rather than the bell, varying pressure to control overtones, and letting the cymbal breathe between strokes.
 
 The crash was used for accents and fill punctuation. Ward's crash technique was impulsive and musical — he didn't crash on every downbeat as later metal drummers would. Instead, crashes arrived at moments of genuine musical emphasis, a restraint rooted in his jazz listening.
+
+## The Foundation Beneath Every Metal Groove
+
+*Paranoid* is the album where heavy metal started. Bill Ward's drumming on that record is the reason the genre has the rhythmic character it does — the riff-locked kick on "Iron Man," the swung hi-hat on "War Pigs," the improvisational fills that arrive when the music demands them rather than when a chart dictates. All of it traces back to a jazz drummer in a budget London studio with four days to record.
+
+The gear was ordinary: a Ludwig kit, an Acrolite snare, Super Zyn cymbals, and a Speed King pedal. The production was minimal: close mics, four-track tape, Rodger Bain staying out of the way. What made the album extraordinary was the player — Bill Ward's ability to bring jazz sensibility to the heaviest music being made in 1970.
+
+**For Drummers Studying *Paranoid*:**
+The most important lesson Ward teaches is that feel precedes technique. Learn "Iron Man" not for the kick pattern's complexity (it isn't complex) but for its placement — where the bass drum lands relative to the riff is the entire lesson. "War Pigs" teaches dynamic range across eight minutes. "Paranoid" teaches how to play at tempo without losing the human element.
+
+**The Gear Legacy:**
+The Ludwig Acrolite Ward used is still in production. The Speed King pedal is still available. A modern drummer can approximate the *Paranoid* drum sound without a large gear budget — which is fitting, because Ward himself had no large gear budget when he recorded it.
+
+For the complete exploration of Bill Ward's technique, see the [Bill Ward drummer profile](/drummer/bill-ward) and the [Bill Ward licks and technique breakdowns](/drummer/bill-ward/licks). For the broader tradition Ward's playing created, the [groove drumming techniques guide](/techniques/groove-drumming) traces the jazz-to-metal lineage.
+
+🥁 *The Ludwig kit that started heavy metal — four days, four tracks, and one of the most influential drum performances in music history.* 🥁
 
 ## Key Facts
 
@@ -77,7 +93,7 @@ A: Bill Ward recorded *Paranoid* (1970) on a Ludwig drum kit — the standard pr
 
 **Q: What cymbals did Bill Ward use on Paranoid?**
 
-A: Bill Ward's cymbal setup on *Paranoid* was built around Avedis Zildjian bronze — the professional standard of 1970. His setup included 14" hi-hats (used with a jazz-influenced swung feel on "War Pigs" and "Paranoid"), a 20" ride (his primary time-keeping surface, played with varying bow and bell technique drawn from his jazz listening), and a crash cymbal for fill punctuation and accents. The warm, complex Avedis bronze character suits Ward's improvisational style far better than the brighter, more aggressive cymbal alloys developed later. His hi-hat playing is consistently cited by drumming analysts as the most jazz-influenced element of Black Sabbath's rhythm section. See [Bill Ward's drum licks and technique breakdowns](/drummer/bill-ward/licks) for analysis of his cymbal approach.
+A: Bill Ward's cymbal setup on *Paranoid* carried over the modest Super Zyn line from the debut album — the professional-but-budget setup a working Birmingham drummer could afford in 1970. His setup included 15" hi-hats (used with a jazz-influenced swung feel on "War Pigs" and "Paranoid"), a 22" ride (his primary time-keeping surface, played with varying bow and bell technique drawn from his jazz listening), and a crash cymbal for fill punctuation and accents. Ward would upgrade to Avedis Zildjian the following year on *Master of Reality*. His hi-hat playing is consistently cited by drumming analysts as the most jazz-influenced element of Black Sabbath's rhythm section. See [Bill Ward's drum licks and technique breakdowns](/drummer/bill-ward/licks) for analysis of his cymbal approach.
 
 **Q: Why did Bill Ward not use double bass drums on Paranoid?**
 
@@ -91,4 +107,4 @@ A: A vintage Ludwig drum kit from the late 1960s to early 1970s — similar to w
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

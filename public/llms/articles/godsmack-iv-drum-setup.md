@@ -1,6 +1,6 @@
-# Godsmack IV Drum Setup: Shannon Larkin's Pearl Reference Gear on the #2 Billboard Album (2006)
+# Godsmack IV Drum Setup: Shannon Larkin's ddrum Dios Series Gear on the #2 Billboard Album (2006)
 
-> Discover the exact drum kit, cymbals, and gear Shannon Larkin used on Godsmack's IV (2006) — the #2 Billboard 200 debut, certified Platinum. Pearl Reference drums, Sabian HH/HHX cymbals, Pearl Eliminator pedals, and the heavier direction that evolved from Faceless.
+> Discover the exact drum kit, cymbals, and gear Shannon Larkin used on Godsmack's IV (2006) — the #2 Billboard 200 debut, certified Platinum. ddrum Dios Series drums, Sabian HH/HHX cymbals, Pearl Eliminator pedals, and the heavier direction that evolved from Faceless.
 
 **Type:** Album Drum Setup
 **Drummer(s):** [Shannon Larkin](/llms/drummers/shannon-larkin.md)
@@ -11,40 +11,38 @@
 
 Released on April 25, 2006, *IV* is Godsmack's fourth studio album and the direct follow-up to the #1 Billboard 200 breakthrough *Faceless* (2003). Where *Faceless* had been Larkin's introduction to the band and its commercial apex, *IV* arrived as a statement of intent: a heavier, more aggressive album from a band that had nothing left to prove commercially and everything to gain artistically. It debuted at #2 on the Billboard 200 and certified Platinum in the United States — a remarkable achievement for a hard rock album in 2006, a year when the format was facing increasing commercial headwinds.
 
-Between *Faceless* and *IV*, Shannon Larkin had undergone a significant gear transition. The Tama Starclassic Maple kit that defined his debut Godsmack studio performance gave way to the Pearl Reference Series — Pearl's flagship professional shell pack, introduced in the mid-2000s as the company's highest-tier touring and recording instrument. The Pearl Reference's hybrid maple/birch shell construction delivered a more punchy, immediate attack than the Starclassic Maple's warmth, calibrated precisely for the heavier, more direct sound Godsmack was pursuing on *IV*.
+Between *Faceless* and *IV*, Shannon Larkin's core kit stayed the same: the ddrum Dios Series that anchored his Godsmack debut remained his platform for *IV*, delivering the durable, punchy attack that suited the album's heavier, more direct direction. His cymbal setup evolved from pure Sabian AAX to a dual-series HH/HHX configuration that added darker tonal complexity to the bright, aggressive character that had defined *Faceless*, and Larkin's pedal choice for the album was the Pearl Eliminator double pedal — his Vic Firth American Classic 5B sticks carried over unchanged from *Faceless*.
 
-Alongside the Pearl Reference, Larkin upgraded his pedal setup to the Pearl Eliminator — Pearl's top-tier double bass pedal, co-engineered for the direct-drive precision demanded by harder-hitting rock and metal applications. His cymbal setup evolved from pure Sabian AAX to a dual-series HH/HHX configuration that added darker tonal complexity to the bright, aggressive character that had defined *Faceless*. And his sticks changed endorsement: Vic Firth SD1 General sticks, with their balanced taper and acorn tip, provided the weight and articulation his evolving approach required.
-
-This article documents the Pearl Reference kit, Sabian HH/HHX cymbal configuration, Pearl Eliminator pedals, and Vic Firth sticks that powered Shannon Larkin's *IV* studio performance — the gear behind Godsmack's heaviest, most aggressive album to that point.
+This article documents the ddrum Dios Series kit, Sabian HH/HHX cymbal configuration, Pearl Eliminator pedals, and Vic Firth American Classic 5B sticks that powered Shannon Larkin's *IV* studio performance — the gear behind Godsmack's heaviest, most aggressive album to that point.
 
 ## Gear Breakdown
 
-- **Drums:** Pearl Pearl Reference Series (Custom touring finish finish)
-- **Snare:** Pearl Pearl Free-Floating 14"x6.5" Brass, 14" x 6.5"
+- **Drums:** ddrum ddrum Dios Series (Custom finishes finish)
+- **Snare:** ddrum ddrum Dios 14"x6.5" Maple, 14" x 6.5"
 - **Cymbals:** Sabian — Sabian HH / HHX Series
-- **Hardware / Pedals:** Pearl Eliminator Double Bass Pedal; Vic Firth SD1 General; Pearl H-2050 Gyro-Lock Hi-Hat Stand; Remo Emperor Coated; Remo Powerstroke 3
+- **Hardware / Pedals:** Pearl Eliminator Double Bass Pedal; Vic Firth American Classic 5B; Pearl H-2050 Gyro-Lock Hi-Hat Stand; Remo Emperor Coated; Remo Powerstroke 3
 - **Heads:** Remo Emperor Coated (batter), Remo Ambassador Snare Side (resonant)
-- **Snare tuning:** Medium-high tension — maximizing brass shell warmth while preserving hard rock attack
+- **Snare tuning:** Medium-high tension — maximizing maple shell warmth while preserving hard rock attack
 
-### Pearl Reference: Flagship Shells for a Heavier Direction
+### ddrum Dios Series: Durable Shells for a Heavier Direction
 
-The Pearl Reference Series represented Pearl's commitment to maximum tonal versatility at the professional level when it was introduced in the mid-2000s. Its hybrid maple/birch shell construction — alternating plies of maple and birch — combined the warm fundamental of maple with the punchy attack of birch: a sound that sits distinctly in the spectrum between the Tama Starclassic Maple's all-maple warmth and a pure birch shell's brightness. For Shannon Larkin and the *IV* sessions, the Reference's attack-forward character was exactly the platform the album's heavier direction demanded.
+The ddrum Dios Series carried over unchanged from Larkin's *Faceless* setup for the *IV* sessions — the same road-grade kit that has anchored his sound for his entire Godsmack tenure. For *IV*'s heavier, more direct material, the Dios Series' punchy, durable shell character was exactly the platform the album's aggression demanded.
 
-The double 22" kick configuration carried over from Larkin's *Faceless* setup — this is a constant in his drumming philosophy across the Godsmack catalog. What changed was the character of those kicks: the Pearl Reference 22" bass drums speak with a more immediate, defined transient than the Starclassic Maple's warmer low end. On *IV* tracks like "No Rest for the Wicked" and "Speak," the kick drums lock into the rhythm with a precision and immediacy that marks a genuine step-up in sonic aggression.
+The double 22" kick configuration carried over from Larkin's *Faceless* setup — this is a constant in his drumming philosophy across the Godsmack catalog. On *IV* tracks like "No Rest for the Wicked" and "Speak," the kick drums lock into the rhythm with a precision and immediacy that marks a genuine step-up in sonic aggression from the debut.
 
-Pearl's reference-grade hardware — including the MH-70W Memory Lock series and their reinforced mounting systems — kept the kit road-stable through the touring cycle that followed the album's release. Larkin's playing is physically demanding: driving hard rock grooves at arena volume require hardware that never compromises feel or geometry across a 100-show touring run.
+ddrum's road-grade hardware kept the kit stable through the touring cycle that followed the album's release. Larkin's playing is physically demanding: driving hard rock grooves at arena volume require hardware that never compromises feel or geometry across a 100-show touring run.
 
 The four-tom spread (10", 12", 14", 16") is identical to the *Faceless* configuration by design. Larkin's tom setup is a deliberate, consistent choice: enough range for expressive fills without the complexity overhead of an expanded kit. Godsmack's music — groove-first, power-forward — demands a drummer who is in the pocket, not exploring the outer reaches of a multi-tom rig.
 
-### Pearl Free-Floating Brass: The Crack That Defines IV
+### ddrum Dios Maple: The Crack That Defines IV
 
-The Pearl Free-Floating snare drum is one of the most distinctive professional snare choices available in the mid-2000s, and Shannon Larkin's selection of the 14"x6.5" brass model for the *IV* sessions represents a deliberate evolution in his snare voice. Where his *Faceless*-era steel snare delivered a bright, cutting attack, the Pearl Free-Floating brass shell introduces a warmer fundamental with a complex, multi-layered decay — a harder, more authoritative crack that sits differently in a mix than pure steel brightness.
+Shannon Larkin's snare voice on *IV* is the same ddrum Dios 14"x6.5" maple snare that anchored *Faceless* — a warm, cutting instrument that has been his consistent choice for the entirety of his Godsmack tenure.
 
-Pearl's Free-Floating system is the defining construction feature: rather than bolting the tension rods to a reinforcement hoop that can impede shell resonance, the Free-Floating design suspends the hoops independently, allowing the shell to vibrate without constraint. The result is a snare that sounds like a drum — natural, resonant, with full shell-to-air transference — rather than a drum squeezed into performance by its own mounting hardware. At 6.5" depth, the brass shell has sufficient volume to generate the body and sustain that Larkin's power-driven backbeats require.
+The maple shell delivers a warm fundamental with a complex, articulate decay — a crack that sits with authority in a dense hard rock mix without requiring excessive eq or processing. At 6.5" depth, the shell has sufficient volume to generate the body and sustain that Larkin's power-driven backbeats require.
 
-Brass shell construction delivers a warmer, more complex tone than steel. The initial attack is sharp and articulate — brass is not a soft metal — but the body of the sound has overtones that steel cannot produce. On *IV*, this snare voice adds a layer of musical complexity to what might otherwise be a purely percussive backbeat. Tracks like "Speak" and "Shine Down" demonstrate this: the snare isn't just a timekeeper, it's a sonic character in the arrangement.
+Maple shell construction delivers a warm, cutting tone with real character. The initial attack is sharp and articulate, but the body of the sound carries overtones that give it musical depth. On *IV*, this snare voice adds a layer of musical complexity to what might otherwise be a purely percussive backbeat. Tracks like "Speak" and "Shine Down" demonstrate this: the snare isn't just a timekeeper, it's a sonic character in the arrangement.
 
-Larkin tuned the Free-Floating at medium-high tension to maintain the cutting attack his hard rock playing requires while allowing the brass shell's natural character to fully express itself. The combination of Pearl's Free-Floating suspension and the brass shell's warmth makes this snare one of the more tonally complex choices documented across Godsmack's studio albums.
+Larkin tuned the snare at medium-high tension to maintain the cutting attack his hard rock playing requires while allowing the maple shell's natural character to fully express itself.
 
 ### Sabian HH / HHX: Tonal Depth for a Heavier Record
 
@@ -58,32 +56,47 @@ The HHX Evolution Crashes — available from late 2005, precisely timed for the 
 
 The HHX 21" Raw Bell Dry Ride is the cymbal most associated with Larkin's later Godsmack sound: its dry, contained body wash and sharply defined bell provided the time-keeping complexity his evolving playing required. This cymbal choice — replacing the brighter AAX Stage Ride of the *Faceless* era — marks the clearest single-cymbal evolution in Larkin's setup between the two albums.
 
+## The Heavier Direction: IV and the ddrum Dios Series
+
+*IV* (2006) is Shannon Larkin's most aggressive documented studio performance with Godsmack to that point — a heavier, more direct album than *Faceless*, achieved on the same ddrum Dios Series kit and maple snare while his cymbal, pedal, and stick choices evolved. The ddrum Dios kit, maple snare, Sabian HH/HHX cymbals, Pearl Eliminator pedals, and Vic Firth American Classic 5B sticks collectively represent a drummer who had refined his approach based on three years of touring behind one of American hard rock's biggest albums and arrived at the *IV* sessions with very specific ideas about the sound he wanted to make.
+
+**For Drummers Studying IV:**
+Start with "Speak" — Larkin's most direct, unambiguous groove on the album, built entirely on the ddrum Dios Series' attack-forward character and the maple snare's complex crack. Then work through "No Rest for the Wicked" for the Pearl Eliminator's double-kick consistency at driving tempo. "Shine Down" demonstrates the dynamic restraint that makes *IV* more than a one-dimensional heavy record — the same dynamic intelligence Larkin brought to "Changes" on *Faceless*, now filtered through a heavier arrangement.
+
+**The Gear Legacy:**
+ddrum's Dios Series remains a durable, road-tested choice for professional touring drummers — a kit built for reliability across hundreds of shows. The Sabian HHX Raw Bell Dry Ride that appears in this setup has become one of the most distinctive ride cymbals in contemporary drumming, recognizable for its dry body and articulate bell. A player approaching the *IV* drum sound can replicate the gear philosophy — durable shells, warm complex snare, hand-hammered cymbals — at multiple price points.
+
+For the complete Shannon Larkin gear arc: begin at [Faceless (2003)](/articles/faceless-drum-setup) — the ddrum Dios Series starting point — continue here with *IV* (2006), and follow through to the [Shannon Larkin complete gear guide](/articles/shannon-larkin-drum-setup) documenting the same ddrum setup that has anchored his entire Godsmack career. The [Shannon Larkin drummer profile](/drummer/shannon-larkin) documents the complete career context across all Godsmack albums and touring setups.
+
+For additional drumming context in the same hard rock tradition, explore the [drummers index](/drummers) — Shannon Larkin's approach to groove-first hard rock drumming with maximum power sits within a tradition that includes the genre's defining players.
+
+🥁 *#2 Billboard 200. Platinum certified. The ddrum Dios Series era.* 🤘
+
 ## Key Facts
 
 - Godsmack IV debuted #2 on Billboard 200 (April 2006) and certified Platinum in the US
-- Shannon Larkin's significant gear transition from Faceless: Tama → Pearl Reference
-- Pearl Reference Series — Pearl's flagship professional shell pack, mid-2000s era
-- Pearl Free-Floating 14"x6.5" brass snare: brighter attack, more cutting crack than steel
+- ddrum Dios Series — Shannon Larkin's kit since Faceless, unchanged for IV
+- ddrum Dios 14"x6.5" maple snare — the warm, cutting crack central to Larkin's sound
 - Sabian HH / HHX dual-series cymbals — expanded tonal range over Faceless-era pure AAX
 - Pearl Eliminator double bass pedal — flagship direct-drive precision for harder-hitting grooves
-- Vic Firth SD1 General sticks — new endorsement reflecting Larkin's evolving approach
-- Pearl Reference Series — Pearl's flagship professional shell pack, mid-2000s introduction
-- Maple/birch hybrid: warm fundamental with punchy, immediate attack — more aggressive than Faceless Tama
-- Double 22" bass drums: identical configuration to Faceless, upgraded tonal character
+- Vic Firth American Classic 5B sticks — unchanged from the Faceless era
+- ddrum Dios Series — unchanged from Larkin's Faceless-era kit
+- Custom-finish shells: punchy, durable character suited to IV's heavier direction
+- Double 22" bass drums: identical configuration to Faceless
 - Four-tom spread (10", 12", 14", 16") — consistent Larkin approach across the Godsmack catalog
-- Pearl reference-grade hardware for road stability across the IV touring cycle
-- Estimated kit value: $3,500–6,000 (Pearl Reference Series shell pack, 2006 era)
-- Estimated snare value: $400–700 (Pearl Free-Floating brass snare, 2006 era)
+- ddrum road-grade hardware for stability across the IV touring cycle
+- Estimated kit value: $1,500–3,000 (ddrum Dios Series shell pack, 2006 era)
+- Estimated snare value: $300–500 (ddrum Dios maple snare, 2006 era)
 
 ## Frequently Asked Questions
 
 **Q: What drums did Shannon Larkin use on Godsmack IV?**
 
-A: On Godsmack's *IV* (2006), Shannon Larkin used a Pearl Reference Series kit — Pearl's flagship professional shell pack featuring a hybrid maple/birch shell construction. The configuration ran double 22" bass drums, 10" and 12" rack toms, and 14" and 16" floor toms — the same spread as his *Faceless* (2003) setup, now with the more attack-forward Pearl Reference character. This represented a significant gear transition from the Tama Starclassic Maple he had recorded *Faceless* with. His snare was a Pearl Free-Floating 14"x6.5" brass shell — a warmer, more complex instrument than the steel snare on *Faceless*. For his complete gear history, see the [Shannon Larkin drummer profile](/drummer/shannon-larkin).
+A: On Godsmack's *IV* (2006), Shannon Larkin used a ddrum Dios Series kit — the same road-grade professional shell pack he used on *Faceless* (2003) and has used for his entire Godsmack tenure. The configuration ran double 22" bass drums, 10" and 12" rack toms, and 14" and 16" floor toms — the same spread as his *Faceless* setup. His snare was a ddrum Dios 14"x6.5" maple shell, also unchanged from *Faceless*. For his complete gear history, see the [Shannon Larkin drummer profile](/drummer/shannon-larkin).
 
 **Q: How does Shannon Larkin's kit compare between Faceless and IV?**
 
-A: Between *Faceless* (2003) and *IV* (2006), Shannon Larkin underwent a substantial gear transition. His Tama Starclassic Maple kit — with its warm, all-maple shell construction — gave way to the Pearl Reference Series, whose maple/birch hybrid shells deliver a more punchy, attack-forward tone suited to *IV*'s heavier direction. His snare changed from a steel model to the Pearl Free-Floating 14"x6.5" brass — adding tonal complexity and warmth. His cymbals evolved from pure Sabian AAX (bright, machine-hammered) to a Sabian HH/HHX dual-series configuration (hand-hammered, darker, more complex). His pedals changed from DW 9000 to Pearl Eliminator, and his sticks from Vater Hickory 5B to Vic Firth SD1 General. Virtually every component of the kit shifted between the two albums. See the full [Faceless drum setup](/articles/faceless-drum-setup) for a direct comparison.
+A: Between *Faceless* (2003) and *IV* (2006), Shannon Larkin's kit and snare stayed the same: the ddrum Dios Series shells and ddrum Dios 14"x6.5" maple snare that anchored *Faceless* carried over unchanged for *IV*. What did evolve was his cymbal setup, which moved from pure Sabian AAX (bright, machine-hammered) to a Sabian HH/HHX dual-series configuration (hand-hammered, darker, more complex), and his pedal choice, which changed from DW 9000 to Pearl Eliminator. His Vic Firth American Classic 5B sticks stayed the same. See the full [Faceless drum setup](/articles/faceless-drum-setup) for a direct comparison.
 
 **Q: What cymbals does Shannon Larkin use?**
 
@@ -95,10 +108,10 @@ A: On *IV* (2006), Shannon Larkin transitioned from the DW 9000 double bass peda
 
 **Q: What is the chart position of Godsmack IV?**
 
-A: Godsmack's *IV* (released April 25, 2006, on Republic Records) debuted at #2 on the Billboard 200 — one position below the #1 peak of its predecessor *Faceless* (2003). The album was certified Platinum in the United States, demonstrating that Godsmack maintained their large commercial following even with a heavier, less accessible direction. The #2 debut made *IV* one of the strongest-charting hard rock releases of 2006, a year when the format was facing commercial contraction. Shannon Larkin's drumming on *IV* — driving the album's harder-hitting arrangements with the Pearl Reference kit and Sabian HH/HHX cymbals — was central to the album's ability to satisfy both the band's existing audience and the harder rock direction they pursued.
+A: Godsmack's *IV* (released April 25, 2006, on Republic Records) debuted at #2 on the Billboard 200 — one position below the #1 peak of its predecessor *Faceless* (2003). The album was certified Platinum in the United States, demonstrating that Godsmack maintained their large commercial following even with a heavier, less accessible direction. The #2 debut made *IV* one of the strongest-charting hard rock releases of 2006, a year when the format was facing commercial contraction. Shannon Larkin's drumming on *IV* — driving the album's harder-hitting arrangements with the ddrum Dios Series kit and Sabian HH/HHX cymbals — was central to the album's ability to satisfy both the band's existing audience and the harder rock direction they pursued.
 
 **Source:** https://metalforge.io/articles/godsmack-iv-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

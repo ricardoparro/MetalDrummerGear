@@ -46,6 +46,14 @@ The Sabian AAX setup on Repentless represents a new cymbal chapter for Bostaph, 
 
 The 14-inch AAX Stage Hi-Hats gave Bostaph the fast, articulate chick needed for Repentless's uptempo thrash patterns on tracks like 'Vices' and 'You Against You.' The 17 and 19-inch X-Plosion crashes handled the album's riff-transition accents with a quick attack and controlled decay, while the 21-inch AAX Stage Ride provided a clearly defined bell for the album's more driving, riding-based sections. The 18-inch AAXtreme China above the floor tom carried forward the trashy accent that has punctuated every Slayer drummer's setup since Show No Mercy.
 
+## The Arc Closes
+
+Repentless is where the Paul Bostaph/Slayer story ends — not with a farewell tour retrospective, but with a genuine studio album that closed out the band's entire recorded discography. The Pearl Masters Maple Complete kit, the Sabian AAX cymbals, the Terry Date production at Henson Recording Studios: these represent the final gear chapter of a drummer's career that began with Divine Intervention in 1994 and wound through Diabolus in Musica, God Hates Us All, and, at last, here.
+
+The album carries weight beyond Bostaph's return. It is the only Slayer studio record made without Jeff Hanneman, the first without Rick Rubin in nearly three decades, and — at #4 on the Billboard 200 — the commercial high point of the band's entire career. For a band as allergic to sentimentality as Slayer, Repentless closed its story about as well as it could have: heavier, tighter, and more direct than almost anything the band had released in the 2000s.
+
+For drummers studying the complete Paul Bostaph/Slayer arc, Repentless is the final entry. See the [God Hates Us All drum setup](/articles/god-hates-us-all-drum-setup) for the 2001 chapter that preceded Bostaph's fourteen-year gap from the studio, [What's In Paul Bostaph's Kit](/articles/whats-in-paul-bostaphs-kit) for his complete gear history across both tenures, and the [Paul Bostaph drummer profile](/drummer/paul-bostaph) for the full career overview from Forbidden to Slayer's final note.
+
 ## Key Facts
 
 - Released September 11, 2015 on Nuclear Blast — Slayer's twelfth and final studio album
@@ -87,4 +95,4 @@ A: Repentless debuted at #4 on the Billboard 200 — the highest chart position 
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

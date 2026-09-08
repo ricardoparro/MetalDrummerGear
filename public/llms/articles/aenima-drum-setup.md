@@ -60,6 +60,26 @@ The 18" crash served as the primary accent cymbal throughout the album, its full
 
 By the time Lateralus was recorded (2000-2001), Danny had transitioned to Paiste's more sophisticated Signature and Traditional series. Looking back, the 2002s on Ænima have a raw, immediate quality that fits the album's more visceral character — darker and more complex than Lateralus, but no less intense.
 
+## The Raw Power Behind the Complexity
+
+Ænima stands apart from Tool's later catalog not just in tone and attitude but in the gear that created it. The Pearl Masters Custom kit, Paiste 2002 cymbals, and DW 5000 pedals were professional tools used with extraordinary musicality — proof that great drumming isn't about the most expensive or most exotic equipment.
+
+What Danny Carey achieved on Ænima was remarkable in context: mid-90s progressive metal was not yet the codified genre it would become. Tool was inventing the template that bands would follow for the next three decades. Danny's drum performances — particularly on "Forty Six & 2" and "Eulogy" — set a standard for complexity-in-service-of-groove that remains the benchmark.
+
+The transition from this Pearl/Paiste/DW setup to the Sonor/Paiste Signature/Sonor Giant Step configuration of Lateralus and beyond represents one of the most significant gear evolutions in progressive metal drumming history. Studying both setups reveals how gear choices can reinforce artistic vision: the brighter, more aggressive 2002s suited the rawer energy of Ænima, while the darker, more complex Signature series matched the expanded compositional ambitions of Lateralus.
+
+For drummers studying Danny Carey's evolution, the Ænima era is essential:
+
+- **Gear serves the music**: The 2002s' aggression matched Ænima's character; they were replaced when the music evolved
+- **Complexity can groove**: "Forty Six & 2" is technically demanding and physically compelling simultaneously
+- **Pearl Masters remain relevant**: The kit's balanced sound holds up decades later
+- **DW 5000 reliability**: For pure performance reliability, this pedal served the most demanding conditions
+- **Room sound matters**: Grandmaster Recording's natural ambience is as much an instrument as Danny's kit
+
+Ænima is widely considered Tool's most influential album. Its drum performances are a central reason why — and understanding the gear behind them is the first step to understanding how Danny Carey became one of rock's greatest drummers.
+
+*"Some say the end is near. Some say we'll see Armageddon soon."*
+
 ## Key Facts
 
 - Recorded at Grandmaster Recording, Los Angeles in 1996 with producer David Bottrill
@@ -105,4 +125,4 @@ A: Ænima was recorded at Grandmaster Recording in Hollywood, Los Angeles (forme
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

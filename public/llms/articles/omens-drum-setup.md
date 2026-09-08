@@ -48,6 +48,16 @@ Cruz is a long-standing Zildjian endorser, and the A Custom series remained his 
 
 The 14" A Custom hi-hats handle the rhythmic detail that defines Lamb of God's groove-first songwriting, while the 18" China supplies the explosive, trashy accents that punctuate riff entries on tracks like "Ditch" and "To the Grave." The 21" ride gives Cruz a clear, defined bell for the more open, mid-tempo sections that Omens leans on more than some of the band's faster early-2000s material.
 
+## The Cruz Era, Confirmed
+
+Omens didn't just give Lamb of God a commercial hit — it closed the question of whether Art Cruz belonged in the band's most demanding seat. Three years after taking over for Chris Adler, and two full studio albums in, Cruz's Ludwig Classic Oak kit and raw brass snare are now as much a part of Lamb of God's modern sound as the riffs they sit beneath.
+
+The gear tells part of that story: a harder, more cutting tonal character than Adler's DW and Pearl-era kits, built around twin bass drums and a tom spread designed for groove over decoration. The Zildjian A Custom cymbals and Trick double pedal connect Cruz's setup directly to the vocabulary he had to learn note-for-note before he could add anything of his own.
+
+For the fuller picture of how Lamb of God's drum chair evolved into this moment, the [Art Cruz drummer profile](/drummer/art-cruz) covers his complete path from Winds of Plague and Prong through the 2018 Slayer Farewell Tour audition to the present. The [Sacrament](/articles/sacrament-drum-setup) and [Wrath](/articles/wrath-drum-setup) setup articles document the Chris Adler era that Cruz inherited and had to honor before he could move past it.
+
+🤘 *Ninth studio album. #1 Top Hard Rock Albums. The Cruz era, on record.* 🤘
+
 ## Key Facts
 
 - Released October 7, 2022 via Epic Records / Nuclear Blast — Lamb of God's ninth studio album
@@ -86,4 +96,4 @@ A: Omens was released October 7, 2022, through Epic Records and Nuclear Blast �
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

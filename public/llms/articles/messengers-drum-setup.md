@@ -56,6 +56,20 @@ The crash and China combination gave Greiner maximum impact with minimal setup c
 
 Where later Greiner setups with Meinl Byzance cymbals prioritized tonal complexity and musical refinement, the Wuhan setup on *Messengers* prioritized aggression and impact. The evolution from Wuhan to Meinl mirrors the evolution of ABR's sound from raw, early metalcore toward the progressive, musically sophisticated approach that would define *Leveler* (2011) and beyond.
 
+## Messengers' Legacy: The Album That Built Matt Greiner's Foundation
+
+*Messengers* (2007) is the document of Matt Greiner finding his voice. The techniques that would make him one of metalcore's most respected drummers — the blast-to-groove transitions, the ghost note integration, the compositional approach to fills — are all present here in their formative state. The DW Performance Series kit and Wuhan cymbals gave him professional tools at a critical moment, instruments capable of capturing performances that would introduce him to the metal world.
+
+The contrast with *Leveler* (2011) is instructive precisely because the approach didn't change — the tools improved around it. When you hear the *Messengers* setup and then the *Leveler* setup back to back, the through-line of Greiner's musical identity is unmistakable. What changed was the refinement of the instruments, the production approach, and the endorsement relationships that reflected his growing stature in the genre.
+
+**For Drummers Studying Messengers:**
+The most valuable lesson from *Messengers* is that excellent drumming doesn't require expensive gear. The DW Performance Series and Wuhan cymbals Greiner used in 2007 are accessible, professional instruments — and on this record, they powered performances that changed the trajectory of metalcore drumming. Study "Meddler" for the blast-to-groove transition. Study "Composure" for compositional approach to groove. Study "The Truth of a Liar" for dynamic range in a metalcore context. The tools are secondary to the technique.
+
+**The Gear Legacy:**
+DW Performance Series drums remain in production and represent excellent value for professional-level sound at an accessible price point. Wuhan cymbals continue to be made in China with the same raw B20 bronze character, and remain a popular choice for players who want aggressive cymbal sound at a fraction of premium brand prices.
+
+For Matt Greiner's current gear and the full story of his evolution from *Messengers* to today, see the [Matt Greiner complete drum setup guide](/articles/matt-greiner-complete-drum-setup). For the next chapter in the ABR drum story, see the [Leveler drum setup article (2011)](/articles/leveler-drum-setup).
+
 ## Key Facts
 
 - Released August 7, 2007 on Solid State Records — the breakthrough that established ABR as metalcore leaders
@@ -91,4 +105,4 @@ A: *Messengers* (2007) was the record that introduced Matt Greiner's blast-to-gr
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

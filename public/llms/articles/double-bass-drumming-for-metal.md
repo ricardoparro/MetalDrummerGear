@@ -15,9 +15,22 @@ This guide takes you from your first heel-toe exercises to double bass patterns 
 
 Whether you're setting up a double pedal for the first time or trying to break past a speed plateau, the approach is the same: start slow, eliminate tension, and let consistency do the work.
 
+## Consistent Practice Builds Championship Feet
+
+Double bass drumming is a long-term investment. The drummers who make it look effortless — Joey Jordison, George Kollias, Dave Lombardo — all spent years building their foot technique one careful BPM at a time.
+
+The five-step approach in this guide gives you the complete framework: set up your pedals correctly, learn heel-toe technique, build coordination through isolation exercises, apply musical patterns from the masters, and build stamina through structured practice.
+
+Explore the complete gear setups of these double bass legends on MetalForge:
+- Joey Jordison (/drummer/joey-jordison) — Pearl Reference, Demon Drive pedals, Paiste cymbals
+- George Kollias (/drummer/george-kollias) — Pearl kit, Zildjian, Pearl Demon XR double pedal
+- Dave Lombardo (/drummer/dave-lombardo) — Tama, Paiste, Tama Iron Cobra pedals
+
+Also visit the double-bass technique page (/technique/double-bass) for video examples and a roster of the world's best double bass drummers.
+
 ## Key Facts
 
-- Joey Jordison (Slipknot) uses Pearl Eliminator double pedals tuned for maximum rebound and speed
+- Joey Jordison (Slipknot) uses Pearl Demon Drive double pedals tuned for maximum rebound and speed
 - George Kollias achieves extreme double bass speeds through the heel-toe technique combined with ankle drive
 - Dave Lombardo's thrash double bass on "Raining Blood" uses moderate tempos with explosive accent placement
 - Heel-toe technique allows one foot to play two strokes per single pedal stroke, effectively doubling output
@@ -27,7 +40,7 @@ Whether you're setting up a double pedal for the first time or trying to break p
 
 **Q: Do I need two bass drums or can I use a double pedal?**
 
-A: A double pedal is the standard approach for modern metal drummers. Joey Jordison, George Kollias, and most extreme metal drummers use double pedals rather than two separate bass drums. Two bass drums offer a slightly different feel and sound, but the technique is essentially identical. Start with a quality double pedal — Joey Jordison endorses Pearl Eliminator pedals for their adjustability and rebound response.
+A: A double pedal is the standard approach for modern metal drummers. Joey Jordison, George Kollias, and most extreme metal drummers use double pedals rather than two separate bass drums. Two bass drums offer a slightly different feel and sound, but the technique is essentially identical. Start with a quality double pedal — Joey Jordison endorses Pearl Demon Drive pedals for their adjustability and rebound response.
 
 **Q: How long does it take to learn double bass?**
 
@@ -41,4 +54,4 @@ A: Begin with the "alternating 8ths" exercise: right-left-right-left at 60 BPM, 
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

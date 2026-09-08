@@ -11,7 +11,7 @@
 
 Ryan Van Poederooyen is the Canadian drummer who has anchored Devin Townsend's musical universe since 1999 — one of the longest-running drummer-artist partnerships in progressive metal. Whether navigating the crushing heaviness of *Deconstruction* (2011), the ambient delicacy of *Ghost* (2011), or the sweeping orchestral prog of *Empath* (2019), Van Poederooyen's setup and technique serve Townsend's constantly shifting vision without compromise.
 
-His primary rig is built around Pearl Reference series drums, Sabian AAX and HHX cymbals, and either the Tama Iron Cobra or DW 9000 double bass pedal — a combination optimized for versatility, power, and the dynamic range that Devin Townsend's catalogue demands. Van Poederooyen's double bass approach is precise and powerful rather than speed-focused: the double kick underpins the forward momentum of tracks like "Kingdom" and "Truth" without sacrificing the musical sensitivity required when the same album turns ambient and textural.
+His primary rig is built around Pearl Reference series drums, Sabian AAX and HHX cymbals, and a Pearl Demon Drive double bass pedal — a combination optimized for versatility, power, and the dynamic range that Devin Townsend's catalogue demands. Van Poederooyen's double bass approach is precise and powerful rather than speed-focused: the double kick underpins the forward momentum of tracks like "Kingdom" and "Truth" without sacrificing the musical sensitivity required when the same album turns ambient and textural.
 
 This article covers every component of Van Poederooyen's setup, his double bass configuration, and the technique that makes him the ideal drummer for one of prog-metal's most demanding composers.
 
@@ -20,7 +20,7 @@ This article covers every component of Van Poederooyen's setup, his double bass 
 - **Drums:** Pearl Pearl Reference Series (Various finishes across touring and studio periods finish)
 - **Snare:** Pearl Pearl Free-Floating or Sensitone Snare, 14" x 6.5"
 - **Cymbals:** Sabian — Sabian AAX / HHX Series
-- **Hardware / Pedals:** Tama Iron Cobra / DW 9000 Double Bass Pedal; Vic Firth (various models); Evans EMAD or Remo Powerstroke 3; Evans EC2 or Remo Emperor Coated
+- **Hardware / Pedals:** Pearl Demon Drive Double Bass Pedal; Vic Firth (various models); Evans EMAD or Remo Powerstroke 3; Evans EC2 or Remo Emperor Coated
 - **Heads:** Remo Coated Ambassador (batter), Remo Diplomat Snare Side (resonant)
 - **Snare tuning:** Medium to medium-bright for versatility across Townsend's extreme dynamic range
 
@@ -48,12 +48,33 @@ The hi-hat choice serves DTP's diverse rhythmic demands. In driving metal sectio
 
 The crash configuration spans quick accent work (16" AAX, rapid response for dense passages) to fuller, sustained crashes (18" HHX, darker tone for major transitions). The 20" HHX ride's complex wash and defined bell are particularly important for DTP's extended progressive sections where a one-dimensional ride would flatten the music's harmonic depth.
 
+## Ryan Van Poederooyen: 25 Years of Prog-Metal Versatility
+
+Ryan Van Poederooyen occupies a rare position in progressive metal: the drummer whose defining quality is not a signature technique or extreme speed, but the range to serve one of music's most prolific and genre-defying composers across a 25+ year partnership. From the crushing extremes of *Deconstruction* to the near-inaudible ambience of *Ghost*, his setup and technique have adapted to every musical environment Devin Townsend has created.
+
+His gear reflects this philosophy throughout:
+
+- **Pearl Reference series**: Maple/mahogany hybrid shells delivering consistent response from delicate ghost-note work to full-intensity metal — the versatility platform for Townsend's dynamic range
+- **Sabian AAX/HHX cymbals**: AAX brightness for projection in heavy sections; HHX complexity for musical depth in progressive passages — a two-series combination that mirrors DTP's sonic breadth
+- **Pearl Demon Drive**: Reliable, consistent double pedal action supporting the powerful double bass that drives DTP's heavier material through demanding global touring
+- **Double 22" × 18" bass drums**: Sub-bass configuration for the physical impact that makes Van Poederooyen's double kick felt as well as heard
+
+For drummers studying prog-metal drumming at this level, Van Poederooyen's career is the case study in drummer-as-collaborator. The lesson is not about the biggest blast beats or the fastest double kick — it is about the versatility to serve an artist's vision completely, across every direction that vision travels.
+
+Study *Deconstruction* for how extreme technique and compositional service coexist in progressive metal. Study *Ghost* for how restraint and dynamic sensitivity at the opposite extreme require equal skill. Study both together to understand what 25 years of deep collaboration produces in a drummer.
+
+For deeper exploration:
+- **Full drummer profile**: [Ryan Van Poederooyen at MetalForge](/drummers/ryan-van-poederooyen)
+- **Prog-metal connection**: [Blake Richardson drum setup — Between the Buried and Me](/articles/blake-richardson-drum-setup)
+- **Progressive metal peers**: [Martin Lopez drum setup — Opeth](/articles/martin-lopez-drum-setup)
+- **Double bass technique**: [Double-bass drumming at MetalForge](/technique/double-bass-drumming)
+
 ## Key Facts
 
 - Devin Townsend's drummer since 1999 — 25+ years of progressive metal collaboration
 - Pearl Reference series kit — versatile shells for extreme dynamics from ambient to crushing
 - Sabian AAX and HHX cymbals — fast attack, musical character across DTP's genre-spanning catalogue
-- Tama Iron Cobra / DW 9000 double pedal — powerful, consistent double bass for prog-metal grooves
+- Pearl Demon Drive double pedal — powerful, consistent double bass for prog-metal grooves
 - Master of dynamic range — whisper-quiet ambient to full-blast double-kick intensity in one set
 - Key albums: Deconstruction, Epicloud, Transcendence, Empath, Lightwork
 - Pearl Reference series — maple/mahogany hybrid for dynamic versatility across Devin Townsend's genre-spanning catalogue
@@ -75,7 +96,7 @@ A: Ryan Van Poederooyen plays Sabian cymbals from the AAX and HHX series. His se
 
 **Q: What's Ryan Van Poederooyen's double bass setup?**
 
-A: Ryan Van Poederooyen uses a true double bass drum setup with two 22" x 18" Pearl Reference kick drums, driven by either a Tama Iron Cobra or DW 9000 series double bass pedal (depending on touring period). His double bass approach prioritizes rhythmic drive and groove over maximum speed — the goal is the forward momentum and physical impact that Devin Townsend's heavier material requires rather than blast-beat-level tempos. On records like Deconstruction and Addicted, his double kick provides the foundation that makes DTP's heaviest passages physically impactful. For more on double bass setup and technique: [double-bass drumming at MetalForge](/technique/double-bass-drumming).
+A: Ryan Van Poederooyen uses a true double bass drum setup with two 22" x 18" Pearl Reference kick drums, driven by a Pearl Demon Drive double bass pedal. His double bass approach prioritizes rhythmic drive and groove over maximum speed — the goal is the forward momentum and physical impact that Devin Townsend's heavier material requires rather than blast-beat-level tempos. On records like Deconstruction and Addicted, his double kick provides the foundation that makes DTP's heaviest passages physically impactful. For more on double bass setup and technique: [double-bass drumming at MetalForge](/technique/double-bass-drumming).
 
 **Q: How long has Ryan Van Poederooyen played with Devin Townsend?**
 
@@ -89,4 +110,4 @@ A: Ryan Van Poederooyen has recorded across Devin Townsend's complete catalogue 
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

@@ -54,6 +54,16 @@ The 14" Traditional hi-hats — Dailor's long-time choice — produce the intric
 
 The ride cymbal's washy body and complex bell worked well for the album's more expansive passages — moments where Dailor moved from groove-oriented playing to the melodic, atmospheric drumming that had defined *Crack the Skye*. Even on a more commercially focused album, those passages benefit from a ride that adds textural colour rather than simply marking time. See the [Mastodon band page](/bands/mastodon) for the complete discography context.
 
+## The Hunter: Grammy-Winning Pivot and the Bridge to Dailor's Mature Era
+
+*The Hunter* is the album that proved Brann Dailor's musical intelligence could operate effectively across format boundaries — from the progressive concept album complexity of *Crack the Skye* to the commercial accessibility of radio-ready heavy rock. The Grammy Award for "Black Tongue" was the external confirmation of what the album's musical content had already demonstrated: melodic drumming philosophy does not require conceptual complexity to succeed. It requires musical intelligence, and that transfers across contexts.
+
+The gear choices for *The Hunter* reflect the album's character precisely. The Tama Starclassic Maple kit, with its warm maple shells and single-kick configuration, provided the groove-forward foundation that shorter, more direct songs demanded. The expanded tom configuration gave Dailor the wider melodic palette his characteristic cascading fills required. The Meinl Byzance cymbal palette carried forward from *Crack the Skye* provided musical warmth and tonal complexity within Mike Elizondo's more commercially defined production context.
+
+For drummers building setups influenced by *The Hunter*, the lesson is the same one that runs through all of Dailor's best work: the right kit is the one that serves the music. The *Hunter* setup is defined not by what it does aggressively but by what it does musically — how the warm maple shells, dark Byzance cymbals, and controlled single kick combine to create drum sounds that groove with conviction and sing with melodic intelligence.
+
+For the complete picture of Brann Dailor's gear across Mastodon's career, visit the [Brann Dailor drummer profile](/drummer/brann-dailor) and the related album breakdowns for [Crack the Skye](/articles/crack-the-skye-drum-setup) and [Emperor of Sand](/articles/emperor-of-sand-drum-setup). For context on The Hunter's Grammy win and Mastodon's complete discography, see the [Mastodon band page](/bands/mastodon).
+
 ## Key Facts
 
 - "Black Tongue" won Best Metal Performance at the 55th Grammy Awards (2013) — Mastodon's first Grammy win
@@ -100,4 +110,4 @@ A: The Hunter (2011) was produced by Mike Elizondo, a departure from Brendan O'B
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

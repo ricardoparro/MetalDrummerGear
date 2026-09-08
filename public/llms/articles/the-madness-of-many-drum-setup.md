@@ -48,6 +48,12 @@ The 20" Dual Crash provided a bigger, more sustained crash option for the album'
 
 The 22" Sand Ride remained the constant centerpiece across both albums, its dry articulation and complex wash cementing its status as one of the most recognized cymbal voices in progressive drumming.
 
+## The Signature Era Takes Shape
+
+"The Madness of Many" captures Matt Garstka at the exact moment his career pivoted from rising star to established voice — technically sharper than "The Joy of Motion," and gear-wise the first album to feature the Pearl and Vic Firth signature products that would carry his name for the rest of his career. The core Masterworks kit stayed constant, but the expanded Byzance cymbal stack and the arrival of his signature snare and sticks mark this as the record where Garstka's setup became fully his own.
+
+For the album that established this vocabulary, see [The Joy of Motion drum setup](/articles/the-joy-of-motion-drum-setup); for where the signature-era gear matured six years later, see [Parrhesia drum setup](/articles/parrhesia-drum-setup). Full equipment history at [What's In Matt Garstka's Kit](/articles/whats-in-matt-garstkas-kit), and complete biography at [Matt Garstka's drummer profile](/drummer/matt-garstka).
+
 ## Key Facts
 
 - Released November 11, 2016 on Sumerian Records — Garstka's second Animals as Leaders album
@@ -89,4 +95,4 @@ A: "Arithmophobia" from The Madness of Many is widely cited as one of Matt Garst
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

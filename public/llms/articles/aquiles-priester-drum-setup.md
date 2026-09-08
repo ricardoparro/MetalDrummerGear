@@ -13,7 +13,7 @@ Aquiles Priester's drum setup during Angra's most celebrated era — the albums 
 
 Aquiles Priester (born June 19, 1971, in São Paulo, Brazil) joined Angra in 2000, replacing Ricardo Confessori, and immediately raised the bar for what power metal drumming could demand from a player. His setup evolved through this period from pure Mapex/Sabian/Axis to incorporating Pearl Reference drums mid-era, but the Sabian HHX endorsement and the Axis pedal remained the constants that defined the sound on Angra's most important recordings.
 
-This guide breaks down Priester's setup during the Angra classic era (2000–2012): the drums, cymbals, pedals, and technique philosophy that produced some of the most admired drumming in power metal history. For the current Trick Drums/Ufip/DW 9000 touring setup, see the full drum kit guide.
+This guide breaks down Priester's setup during the Angra classic era (2000–2012): the drums, cymbals, pedals, and technique philosophy that produced some of the most admired drumming in power metal history. For the current Mapex Saturn Evolution/Paiste/DW 9000 touring setup, see the full drum kit guide.
 
 ## Gear Breakdown
 
@@ -48,6 +48,25 @@ The 14" hi-hats are the critical element for Priester's style. His hi-hat work o
 
 The crash configuration — 16", 18", 20" — gives Priester the graduated response he deploys with precision. The 16" handles quick, sharp accents; the 18" is the primary voice for the major section transitions that structure Angra's long-form compositions; the 20" is reserved for the genuinely climactic moments — the chorus peaks and dramatic endings where a smaller crash would feel insufficient. This graduated approach prevents every accent from feeling equally weighted, which is essential in technically demanding music where the dynamic shape of the arrangement must communicate even at high tempos.
 
+## The Setup That Defined Brazilian Power Metal
+
+The Mapex Saturn / Sabian HHX / Axis A configuration that Aquiles Priester carried through the Angra classic era isn't just gear history — it's the technical infrastructure behind some of the most demanding and celebrated drumming in power metal. Temple of Shadows, Aurora Consurgens, and the recordings and tours they spawned represent a peak that was only possible because the setup was matched precisely to the demands of the music.
+
+Three elements defined this era:
+
+- **Mapex Saturn**: Warm, focused shells that projected cleanly through Angra's dense orchestral arrangements
+- **Sabian HHX**: Dark, complex cymbals that added character rather than competing with keyboards and guitars
+- **Axis A**: The ultra-light, frictionless pedal that made 182 BPM double bass an 90-minute live reality
+
+For drummers studying Priester's approach, the gear choices illuminate the technique. The Axis A demands relaxation; it physically won't sustain speed under tension. The HHX hi-hats reward controlled choke technique. The Saturn responds to even, centered strokes that bring out its natural warmth.
+
+These aren't just the tools of a great drummer — they're the constraints and enablers that shaped the specific technique visible in every live performance from the Temple of Shadows World Tour.
+
+For deeper study:
+- [Aquiles Priester — Full Drummer Profile](/drummer/aquiles-priester)
+- [Aquiles Priester Current Drum Kit Guide](/articles/aquiles-priester-drum-kit-guide)
+- [Aquiles Priester Signature Lick Hub](/drummers/aquiles-priester/licks)
+
 ## Key Facts
 
 - Mapex Saturn Series shells — the kit on Rebirth and early Angra recordings
@@ -68,7 +87,7 @@ The crash configuration — 16", 18", 20" — gives Priester the graduated respo
 
 **Q: What is Aquiles Priester's drum setup?**
 
-A: Aquiles Priester's classic era drum setup — the configuration on Angra's Temple of Shadows (2004) and Aurora Consurgens (2006) — was built around a Mapex Saturn Series kit (22" double bass drums, 10"/12"/13" rack toms, 16"/18" floor toms), Sabian HHX cymbals (14" hi-hats, multiple crashes, 21" ride, 18" China), and the Axis A double pedal. His current setup uses Trick Drums custom shells, Ufip cymbals, and a DW 9000 double pedal.
+A: Aquiles Priester's classic era drum setup — the configuration on Angra's Temple of Shadows (2004) and Aurora Consurgens (2006) — was built around a Mapex Saturn Series kit (22" double bass drums, 10"/12"/13" rack toms, 16"/18" floor toms), Sabian HHX cymbals (14" hi-hats, multiple crashes, 21" ride, 18" China), and the Axis A double pedal. His current setup uses his own Mapex Saturn Evolution signature shells, a custom Paiste cymbal setup, and a DW 9000 double pedal.
 
 **Q: What cymbals did Aquiles Priester use on Temple of Shadows?**
 
@@ -84,10 +103,10 @@ A: Aquiles Priester used a Mapex Saturn Series kit for his early Angra recording
 
 **Q: Does Aquiles Priester still use Sabian cymbals?**
 
-A: Aquiles Priester used Sabian HHX cymbals throughout his Angra classic era (2000–2012). He later moved to Meinl Byzance cymbals during his W.A.S.P./Hangar focus years (2012–2022), and currently endorses Ufip cymbals for his Angra return. The Sabian HHX era is most associated with his most celebrated recordings on Temple of Shadows and Aurora Consurgens.
+A: Aquiles Priester used Sabian HHX cymbals throughout his Angra classic era (2000–2012). He later moved to Meinl Byzance cymbals during his W.A.S.P./Hangar focus years (2012–2022), and currently endorses Paiste cymbals for his Angra return. The Sabian HHX era is most associated with his most celebrated recordings on Temple of Shadows and Aurora Consurgens.
 
 **Source:** https://metalforge.io/articles/aquiles-priester-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

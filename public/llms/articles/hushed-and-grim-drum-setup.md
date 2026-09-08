@@ -58,6 +58,16 @@ The contrast between the A Custom hi-hats and ride — responsive, articulate, b
 
 For drummers comparing this palette to the Meinl Byzance setup on earlier Mastodon records, the key observation is intentionality: darker cymbals serve atmospheric music; brighter, more aggressive options serve denser, heavier arrangements. *Hushed and Grim* called for the latter. See the [Mastodon band page](/bands/mastodon) for the complete discography context.
 
+## Hushed and Grim: Closing the Arc of Mastodon's Most Complete Record
+
+*Hushed and Grim* is the record that proved Mastodon — and Brann Dailor — had not exhausted the possibilities of progressive sludge metal after two decades. A 15-track, 86-minute double album that absorbed the band's grief and ambition in equal measure, it represents the fullest expression of everything Dailor has developed since *Remission* in 2002: the melodic tom language, the ghost-note density, the compositional restraint, the vocalist-drummer integration, and now the technical precision of a Pearl Reference Pure kit and Zildjian cymbal palette optimised for the album's demands.
+
+The Grammy nomination for "The Beast" at the 65th Grammy Awards confirmed the album's standing. But the nomination — following the win for *Emperor of Sand* — says something larger: that the kind of drumming Dailor has spent twenty years developing, where toms tell stories and cymbals carry emotional colour, is recognisable as exceptional even within the Grammy-evaluated framework that has historically undervalued progressive complexity.
+
+For drummers building setups influenced by this album, the central lesson is that equipment decisions should serve the music. The shift from Tama Starclassic Maple to Pearl Reference Pure, from Meinl Byzance to Zildjian A Custom and Z Custom, from a 22" to a 20" bass drum — none of these are arbitrary. Each reflects a specific musical requirement that the album's density, scale, and emotional range demanded. The 20" kick provides clarity where bloom would muddy the mix. The Zildjian brightness cuts where the Byzance warmth would be absorbed. The Pearl precision drives where the Tama weight would lumber.
+
+For the complete picture of Brann Dailor's gear across Mastodon's career, visit the [Brann Dailor drummer profile](/drummer/brann-dailor). For the preceding chapter in this arc, see the [Emperor of Sand drum setup](/articles/emperor-of-sand-drum-setup). For the technical peak of Dailor's earlier career, see the [Crack the Skye drum setup](/articles/crack-the-skye-drum-setup).
+
 ## Key Facts
 
 - Grammy-nominated Best Metal Performance at the 65th Grammy Awards (2023) for "The Beast"
@@ -104,4 +114,4 @@ A: Mastodon's Hushed and Grim (2021) is a 15-track double album: 1. Pain with an
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

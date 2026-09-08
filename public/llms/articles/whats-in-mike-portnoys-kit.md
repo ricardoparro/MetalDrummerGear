@@ -66,6 +66,28 @@ Multiple Chinas — 18" and 20" — provide the aggressive, trashy accents that 
 
 The 8" Ice Bell, mounted among the effects cymbals, adds high-pitched bell tones for specific musical moments. It's a small touch, but it shows Mike's attention to sonic detail.
 
+## The Return of the King
+
+Mike Portnoy's return to Dream Theater isn't just a reunion — it's a homecoming for progressive metal itself. After 13 years of exploring different projects, refining his technique, and expanding his musical vocabulary, he returns to the band he co-founded with decades of additional wisdom.
+
+The reunion kit represents this evolution. It's not a nostalgic recreation of his 2010 setup; it's a modern configuration informed by years of playing smaller kits with The Winery Dogs, exploring prog rock with Flying Colors, and pushing technical boundaries with Sons of Apollo and Liquid Tension Experiment.
+
+What hasn't changed is the philosophy: drums as storytelling, technique in service of music, and showmanship that connects with audiences. Mike Portnoy plays for the song, for the band, and for the fans — always.
+
+For drummers studying his approach, the lessons extend beyond gear:
+
+- **Odd-times are math, but they must groove**: Subdivision unlocks complex meters
+- **Double bass serves the arrangement**: It's texture, not just speed
+- **The full kit is your orchestra**: Use every drum melodically
+- **Performance is communication**: Let the audience see your passion
+- **Never stop evolving**: 13 years away made him better, not rusty
+
+The gear — Tama Starclassic drums, Sabian HHX cymbals, Iron Cobra pedals — are world-class tools. But the real instrument is Mike Portnoy himself: 40 years of dedication, thousands of shows, and an unquenchable love for the drums.
+
+The prodigal son has returned. And he's brought his full arsenal with him.
+
+🥁 *"Dream if you will, a progressive metal reunion..."* 🥁
+
 ## Key Facts
 
 - Returned to Dream Theater in 2023 after 13 years away
@@ -101,4 +123,4 @@ A: A Tama Starclassic Maple and Birch kit in Portnoy's configuration with Octoba
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

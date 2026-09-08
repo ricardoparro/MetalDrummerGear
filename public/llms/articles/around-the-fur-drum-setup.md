@@ -62,6 +62,28 @@ The A series ride cymbal provides clear stick definition and a bell that cuts th
 
 The China cymbal is used sparingly but effectively, providing the kind of aggressive, trashy accent that suits Around the Fur's heavier passages. Like every element of [Abe's kit](/drummer/abe-cunningham), its restraint is what makes it effective.
 
+## The Album That Started Everything
+
+Around the Fur is where the Deftones story really begins for most people. It's the record that introduced millions of fans to the band's unique combination of heaviness, vulnerability, and musical sophistication. And Abe Cunningham's drumming is a central reason why it worked.
+
+**What Made Abe's Performance Special:**
+
+- **Syncopated Intelligence:** Abe's kick patterns on Around the Fur are inventive without being showy. He plays against the expected downbeats, creating rhythmic interest that elevates the songs without demanding attention.
+
+- **Dynamic Awareness:** For only his second major-label record, Abe's dynamic control is remarkable. From the whispered verses of "Be Quiet and Drive" to the explosive choruses of "My Own Summer," he navigates the album's wide range with confidence.
+
+- **Groove Over Flash:** Even on the album's heaviest moments, Abe prioritizes feel and forward motion over technical display. This was already countercultural in 1997's nu-metal scene.
+
+- **Terry Date Partnership:** The Date/Cunningham collaboration deepens here, and the result is a drum sound that's natural, punchy, and timeless. The drums on Around the Fur don't sound like a late-1990s record; they sound like a band playing in a room.
+
+**For Drummers Studying Around the Fur:**
+
+Learn the kick patterns on "My Own Summer." Abe's syncopated approach on this record is the seed of everything that came later in his playing. Study how he locks those patterns with Stephen Carpenter's riffs — that rhythmic interplay is what makes the song feel inevitable.
+
+Explore [Abe Cunningham's full gear breakdown](/drummer/abe-cunningham) to trace how this era's setup evolved into the refined kit he uses today.
+
+🥁 *The record that made Deftones famous, and the groove that made Abe Cunningham's reputation.* 🤘
+
 ## Key Facts
 
 - Released October 28, 1997 on Maverick Records
@@ -100,4 +122,4 @@ A: Around the Fur was produced by Terry Date, who also produced Deftones' debut 
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

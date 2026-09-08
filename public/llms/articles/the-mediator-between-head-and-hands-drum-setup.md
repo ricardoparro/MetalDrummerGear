@@ -22,7 +22,7 @@ Eloy's gear for the sessions: a Tama Starclassic Bubinga kit, Paiste RUDE and 20
 - **Drums:** Tama Tama Starclassic Bubinga (Natural Bubinga finish)
 - **Snare:** Tama Tama S.L.P. Big Black Steel, 14" x 6.5"
 - **Cymbals:** Paiste — Paiste RUDE / 2002 Series
-- **Hardware / Pedals:** Tama Iron Cobra Power Glide (x2); Tama Iron Cobra Hi-Hat Stand; Roc-N-Soc Original Nitro Throne; ProMark TX5B Hickory
+- **Hardware / Pedals:** Tama Iron Cobra Power Glide Double Pedal; Tama Iron Cobra Hi-Hat Stand; Roc-N-Soc Original Nitro Throne; ProMark TX5B Hickory
 - **Heads:** Remo Coated Ambassador (batter), Remo Ambassador Snare Side (resonant)
 - **Snare tuning:** Medium-high, deep shell for added body alongside steel bite
 
@@ -30,7 +30,7 @@ Eloy's gear for the sessions: a Tama Starclassic Bubinga kit, Paiste RUDE and 20
 
 For *The Mediator*, Eloy Casagrande recorded with the Tama Starclassic Bubinga — the kit that became his first major endorsement-level setup, and the same series he would later expand for his Slipknot tenure a decade on. The Bubinga/Birch hybrid construction pairs the dense, exotic hardwood's powerful low frequencies with birch's focused attack, a combination built for cutting through aggressive, distortion-heavy mixes.
 
-Twin 22" x 18" bass drums, run independently rather than through a double pedal, gave the 21-year-old the foot independence that would define his playing throughout his career. The compact three-piece tom configuration — two rack toms and a single 16" floor tom — reflected a leaner, more direct setup than the expanded five-tom rig he would later use with Slipknot, suited to *The Mediator*'s stripped-down, aggressive material.
+Twin 22" x 18" bass drums, driven by a single Tama Iron Cobra Power Glide double pedal, gave the 21-year-old the double-bass foundation that would define his playing throughout his career. The compact three-piece tom configuration — two rack toms and a single 16" floor tom — reflected a leaner, more direct setup than the expanded five-tom rig he would later use with Slipknot, suited to *The Mediator*'s stripped-down, aggressive material.
 
 Ross Robinson's recording philosophy left the Bubinga's natural character largely untouched: minimal compression, performances captured as close to a live take as a studio allows. The result is a drum sound that favors raw power and immediacy over the polished, layered production Eloy's later albums with Jens Bogren would pursue.
 
@@ -44,7 +44,19 @@ Ross Robinson's engineering captured the snare close and direct, in keeping with
 
 Eloy's first major cymbal endorsement on *The Mediator* paired Paiste's RUDE and 2002 series — a combination built for heavy hitters who need durability and raw projection. The RUDE line's unlathed "Wild" cymbals deliver bright, cutting overtones with none of the refinement of premium hand-hammered series; for a record built on Ross Robinson's philosophy of unpolished, visceral performance, that rawness was the point.
 
-The 2002 series crash and ride added a brighter, more controlled counterpart to the RUDE cymbals' chaos — the 22" Power Ride in particular gave Eloy a cymbal capable of cutting through the dense, downtuned guitar work that defines the album. This RUDE/2002 pairing would carry through his Sepultura tenure before later evolving into the warmer Meinl Classics Custom and Byzance series he adopted as his career and production contexts matured.
+The 2002 series crash and ride added a brighter, more controlled counterpart to the RUDE cymbals' chaos — the 22" Power Ride in particular gave Eloy a cymbal capable of cutting through the dense, downtuned guitar work that defines the album. This RUDE/2002 pairing would carry through his Sepultura tenure, later expanding into the fuller Masters/602/PST X arsenal he adopted as his career and production contexts matured.
+
+## The Mediator: Where the Eloy Casagrande Arc Truly Begins
+
+*The Mediator Between Head and Hands Must Be the Heart* is the real beginning of the Eloy Casagrande story — four years before *Machine Messiah* introduced him to a wider international audience. The Tama Starclassic Bubinga, the Paiste RUDE and 2002 cymbals, the Tama Iron Cobra pedals: this was the setup of a 21-year-old who had just been trusted with one of thrash metal's most important rhythmic chairs, recording under one of metal production's most demanding, confrontational producers.
+
+**The Debut Before the Debut:**
+Everything that followed in Eloy's career — the polish of *Machine Messiah*, the peak of *Quadra*, the Slipknot chapter — traces back to the raw, unguarded performance captured in Ross Robinson's Venice studio in June 2013. For the complete Eloy arc, see the [Eloy Casagrande drummer profile](/drummer/eloy-casagrande), the [Machine Messiah drum setup breakdown](/articles/machine-messiah-drum-setup), and the [Quadra drum setup breakdown](/articles/quadra-drum-setup).
+
+**The Sepultura Arc:**
+*The Mediator* opens the documented Eloy Casagrande era on MetalForge — the debut that precedes [Machine Messiah (2017)](/articles/machine-messiah-drum-setup) and [Quadra (2020)](/articles/quadra-drum-setup), and the foundation for everything that carried Sepultura's drummer to Slipknot's masked chaos.
+
+*The Mediator. Where the arc truly begins.* 🤘
 
 ## Key Facts
 
@@ -56,7 +68,7 @@ The 2002 series crash and ride added a brighter, more controlled counterpart to 
 - Tama Starclassic Bubinga kit — Eloy's first major endorsement-level setup
 - The opening chapter of the arc that runs through Machine Messiah (2017) to Quadra (2020)
 - Tama Starclassic Bubinga — Eloy's first major endorsement-level kit
-- Twin 22" x 18" bass drums for independent double-kick from the start of his career
+- Twin 22" x 18" bass drums driven by a single Tama Iron Cobra Power Glide double pedal from the start of his career
 - Lean three-piece tom configuration suited to the album's direct, aggressive material
 - Ross Robinson's raw production approach preserved the kit's natural character with minimal processing
 - Estimated kit value: $2,800-4,000 (2013)
@@ -70,7 +82,7 @@ A: Eloy Casagrande's first studio album with Sepultura was The Mediator Between 
 
 **Q: What drums did Eloy Casagrande use on The Mediator Between Head and Hands Must Be the Heart?**
 
-A: Eloy Casagrande recorded The Mediator (2013) using a Tama Starclassic Bubinga kit — his first major endorsement-level setup. His configuration included twin 22"x18" bass drums for independent double-kick, 10" and 12" rack toms, and a 16" floor tom. His snare was a Tama S.L.P. Big Black Steel, 14"x6.5". His cymbals were Paiste RUDE and 2002 series. His bass drum pedals were Tama Iron Cobra Power Glide (one per kick drum).
+A: Eloy Casagrande recorded The Mediator (2013) using a Tama Starclassic Bubinga kit — his first major endorsement-level setup. His configuration included twin 22"x18" bass drums driven by a single Tama Iron Cobra Power Glide double pedal, 10" and 12" rack toms, and a 16" floor tom. His snare was a Tama S.L.P. Big Black Steel, 14"x6.5". His cymbals were Paiste RUDE and 2002 series.
 
 **Q: Who produced Sepultura's The Mediator Between Head and Hands Must Be the Heart?**
 
@@ -78,10 +90,10 @@ A: The Mediator (2013) was produced by Ross Robinson, who also produced Sepultur
 
 **Q: How does Eloy's Mediator setup compare to his Machine Messiah setup?**
 
-A: Between The Mediator (2013) and Machine Messiah (2017), Eloy's setup evolved substantially. Shells: Tama Starclassic Bubinga → Tama Starclassic Walnut/Birch. Cymbals: Paiste RUDE/2002 → Meinl Classics Custom — a shift in tonal character as much as brand. Pedals: Tama Iron Cobra Power Glide → Tama Iron Cobra 900. The production context changed just as much: Ross Robinson's raw, live-take Venice sessions gave way to Jens Bogren's polished Fascination Street Studios approach. See the full Machine Messiah breakdown at [/articles/machine-messiah-drum-setup](/articles/machine-messiah-drum-setup).
+A: Between The Mediator (2013) and Machine Messiah (2017), Eloy's setup evolved moderately. Shells: Tama Starclassic Bubinga → Tama Starclassic Walnut/Birch. Cymbals stayed with Paiste RUDE/2002. Pedals: Tama Iron Cobra Power Glide → Tama Iron Cobra 900. The production context changed the most: Ross Robinson's raw, live-take Venice sessions gave way to Jens Bogren's polished Fascination Street Studios approach. See the full Machine Messiah breakdown at [/articles/machine-messiah-drum-setup](/articles/machine-messiah-drum-setup).
 
 **Source:** https://metalforge.io/articles/the-mediator-between-head-and-hands-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

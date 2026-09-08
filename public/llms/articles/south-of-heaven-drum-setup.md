@@ -56,6 +56,18 @@ The 2002 Sound Edge Hi-Hats — identical to the Reign in Blood setup — take o
 
 Notably, the ride cymbal plays a more prominent role on South of Heaven than on Reign in Blood. Slower passages on "Ghosts of War" and "Behind the Crooked Cross" give the 2002 Medium Ride more opportunity to be heard — its complex bow response and clear bell becoming part of the album's textural vocabulary in ways that 29 minutes of blast beats simply didn't allow.
 
+## The Pivot Point
+
+South of Heaven is where Dave Lombardo proved that the drummer behind Reign in Blood was not a one-dimensional speed machine. The same Tama Artstar II and Paiste RUDE setup that powered the most extreme thrash album ever recorded was deployed here in service of groove, restraint, and mid-paced heaviness — and it worked.
+
+The album's controversy had nothing to do with the drumming. Lombardo's performance on South of Heaven is precise, musical, and confident. The tracks that divide opinion — "Mandatory Suicide," the title track, "Spill the Blood" — divide opinion because of tempo and arrangement, not execution. The execution is exemplary.
+
+For drummers studying the Slayer catalog, South of Heaven is essential precisely because it diverges from Reign in Blood's approach. Learning to play [Reign in Blood](/articles/reign-in-blood-drum-setup) teaches speed and endurance. Learning to play South of Heaven teaches something rarer: how to make metal feel heavy at lower tempos, how to make restraint a weapon, how to play fewer notes more powerfully.
+
+The gear didn't change between 1986 and 1988. The assignment did. And Lombardo delivered.
+
+For the complete Lombardo Slayer arc, see the [Reign in Blood drum setup](/articles/reign-in-blood-drum-setup) for the 1986 speed peak and the [Show No Mercy drum setup](/articles/show-no-mercy-drum-setup) for the 1983 origin story. The [Dave Lombardo drummer profile](/drummers/dave-lombardo) covers his complete career across both Slayer eras and beyond.
+
 ## Key Facts
 
 - Deliberately slower tempos than Reign in Blood — a conscious creative choice
@@ -96,4 +108,4 @@ A: South of Heaven (1988) sits between Reign in Blood (1986) and Seasons in the 
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

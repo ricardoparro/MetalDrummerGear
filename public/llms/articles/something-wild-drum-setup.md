@@ -48,6 +48,16 @@ On *Something Wild*, where Janne Wirman's keyboards occupied substantial harmoni
 
 The 14" A hi-hats provided the articulation foundation for Raatikainen's rhythmic work — bright enough to register clearly in the mix at the tempos Children of Bodom deployed, responsive enough for the rapid 16th-note patterns that tracks like 'Red Light in My Eyes, Pt. 1' require. The two A crashes gave him tonal variety for accent work: the 16" for fast explosive punctuation in tight passages; the 18" for section boundaries and climactic moments. The 18" A China — deployed at riff transitions in 'Lake Bodom' and 'Deadnight Warrior' — added the trashy, upward-cutting attack that distinguishes CoB's accent language from purely European power metal cymbal approach.
 
+## CoB's Origin: Something Wild and the Pre-Endorsement Drum Legacy
+
+*Something Wild* (1997) is the starting point for one of melodic death metal's most complete drummer-gear arcs. The pre-endorsement Pearl configuration, the Zildjian A Series cymbals, the Pearl double pedal without sponsored replacements — these elements document Jaska Raatikainen at the beginning of his career, before the brand relationships that would shape his later instrument choices, before the touring endurance that would refine his studio performances, before the international recognition that would make Children of Bodom one of Finnish metal's defining exports.
+
+What makes *Something Wild* worth studying as a drum record is its pre-refinement authenticity. The drumming vocabulary that would drive *Hatebreeder*, *Follow the Reaper*, and *Hate Crew Deathroll* is fully present on this debut — the sustained double-kick approach, the melody-following fill language, the compositional awareness that distinguishes CoB's drumming from purely aggressive death metal. But on *Something Wild*, that vocabulary is expressed without the studio control and gear endorsement infrastructure that later productions would add.
+
+'Lake Bodom' alone justifies the study. One of Children of Bodom's most iconic songs appears on the debut, performed by a 17-year-old Raatikainen on a pre-endorsement Pearl kit, and it holds up against every subsequent CoB recording as a complete musical statement. The gear is simpler; the performance is not.
+
+For Jaska Raatikainen's complete gear evolution — from this pre-endorsement debut through the Tama Starclassic years and into the Pearl Masters decade — see the [Jaska Raatikainen drummer profile](/drummer/jaska-raatikainen), the [Hatebreeder drum setup article](/articles/hatebreeder-drum-setup), and the [full kit guide](/articles/jaska-raatikainen-drum-setup).
+
 ## Key Facts
 
 - Children of Bodom debut album — first studio recording under the CoB name (formerly Inearthed)
@@ -86,4 +96,4 @@ A: On *Something Wild* (1997), Jaska Raatikainen used Zildjian A Series cymbals 
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

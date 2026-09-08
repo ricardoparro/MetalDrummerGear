@@ -683,7 +683,7 @@ export const articles = {
     "dateModified": "2026-06-26",
     "author": "MetalForge Editorial",
     "title": "Inferno's Drum Setup on Behemoth's I Loved You at Your Darkest (2018)",
-    "description": "Complete breakdown of Inferno's drum setup for Behemoth's I Loved You at Your Darkest (2018). Discover the Pearl Reference Pure kit, Aquarian heads, Paiste cymbals, and Axis Longboard pedals that powered the follow-up to The Satanist.",
+    "description": "Complete breakdown of Inferno's drum setup for Behemoth's I Loved You at Your Darkest (2018). Discover the Pearl Reference Pure kit, Aquarian heads, Paiste cymbals, and Monolit Czarcie Kopyto pedals that powered the follow-up to The Satanist.",
     "seoKeywords": [
       "behemoth i loved you at your darkest drum kit",
       "inferno drum setup",
@@ -703,7 +703,7 @@ export const articles = {
         "Produced by Daniel Bergstrand (Meshuggah, In Flames) with Behemoth",
         "Pearl Reference Pure kit with double 22\" x 18\" bass drums",
         "Paiste Signature Dark Energy + Mb20 cymbal selection — Inferno is a Paiste signature artist",
-        "Axis Longboard pedals — chosen for sustained blast beat speed and control",
+        "Monolit Czarcie Kopyto pedals — chosen for sustained blast beat speed and control",
         "Aquarian heads throughout: Hi-Energy snare batter, Force I kick batter, Response toms"
       ]
     },
@@ -793,14 +793,14 @@ export const articles = {
       "estimatedValue": "$1,800–2,800 total (Paiste Signature Dark Energy + Mb20 selection)"
     },
     "hardware": {
-      "title": "Foundation: Axis Longboards and Premium Hardware",
+      "title": "Foundation: Monolit Czarcie Kopyto and Premium Hardware",
       "items": [
         {
           "type": "Bass Drum Pedals",
-          "brand": "Axis",
-          "model": "Axis A-Longboard Double Pedals (one per bass drum)",
-          "notes": "Independent Longboards on each bass drum for maximum speed and control",
-          "description": "Inferno is well known for using Axis A-Longboard pedals — the longboard footboard design redistributes weight and pedal motion in a way that favors sustained high-tempo work. Operating two independent 22\" bass drums, Inferno deploys a Longboard on each drum rather than a single linked double pedal system. The independence allows each foot to apply precisely the right pressure and angle for its specific drum, which is essential for the precision that sustained blast beats at 200+ BPM require. Axis is the established gold standard for extreme metal foot speed, and Inferno's use of the Longboard variant is a deliberate choice for the longer footboard's leverage characteristics."
+          "brand": "Monolit",
+          "model": "Monolit Czarcie Kopyto Double Pedals (one per bass drum)",
+          "notes": "Independent Czarcie Kopyto pedals on each bass drum for maximum speed and control",
+          "description": "Inferno is well known for using Monolit Czarcie Kopyto pedals — a design that redistributes weight and pedal motion in a way that favors sustained high-tempo work. Operating two independent 22\" bass drums, Inferno deploys a Czarcie Kopyto pedal on each drum rather than a single linked double pedal system. The independence allows each foot to apply precisely the right pressure and angle for its specific drum, which is essential for the precision that sustained blast beats at 200+ BPM require."
         },
         {
           "type": "Hi-Hat Stand",
@@ -858,7 +858,7 @@ export const articles = {
         "signature": "4/4",
         "highlights": [
           "Album's first aggressive full track — establishes the rhythmic intensity",
-          "Inferno's blast beat work demonstrates the Axis Longboard pedals' control at sustained tempo",
+          "Inferno's blast beat work demonstrates the Monolit Czarcie Kopyto pedals' control at sustained tempo",
           "Hi-hat articulation during blast sections shows the Paiste Signature Dark Energy hats' clarity",
           "One of the album's singles — heavily featured in the touring cycle"
         ],
@@ -874,7 +874,7 @@ export const articles = {
           "Snare placement and weight drive the chorus's anthemic character",
           "Demonstrates how Behemoth's songwriting evolved post-Satanist toward broader accessibility within their extreme aesthetic"
         ],
-        "gearNotes": "The Pearl snare's cut sits perfectly in the dense mix. Bass drum work showcases Axis Longboard responsiveness."
+        "gearNotes": "The Pearl snare's cut sits perfectly in the dense mix. Bass drum work showcases Monolit Czarcie Kopyto responsiveness."
       },
       {
         "track": "Bartzabel",
@@ -904,7 +904,7 @@ export const articles = {
     "faq": [
       {
         "question": "What drum kit did Inferno use to record I Loved You at Your Darkest?",
-        "answer": "For I Loved You at Your Darkest (2018) studio sessions at Hertz Studios in Białystok, Poland, Inferno used a Pearl Reference Pure configuration — distinct from the Pearl Reference Pure setup he uses for Behemoth's live performances. The studio choice continued the studio-versus-stage philosophy established on The Satanist: Pearl Reference Pure for recording, Pearl Reference Pure for live. He paired the kit with a Pearl snare, Paiste Signature Dark Energy and Mb20 cymbals, and Axis A-Longboard pedals. For Inferno's current live touring gear, see the [What's In Inferno's Kit article](/articles/whats-in-infernos-kit)."
+        "answer": "For I Loved You at Your Darkest (2018) studio sessions at Hertz Studios in Białystok, Poland, Inferno used a Pearl Reference Pure configuration — distinct from the Pearl Reference Pure setup he uses for Behemoth's live performances. The studio choice continued the studio-versus-stage philosophy established on The Satanist: Pearl Reference Pure for recording, Pearl Reference Pure for live. He paired the kit with a Pearl snare, Paiste Signature Dark Energy and Mb20 cymbals, and Monolit Czarcie Kopyto pedals. For Inferno's current live touring gear, see the [What's In Inferno's Kit article](/articles/whats-in-infernos-kit)."
       },
       {
         "question": "Who produced I Loved You at Your Darkest?",
@@ -912,7 +912,7 @@ export const articles = {
       },
       {
         "question": "What pedals does Inferno use?",
-        "answer": "Inferno is well known for using Axis A-Longboard pedals — the longboard footboard design redistributes pedal motion in a way that favors sustained high-tempo work, which is why Axis Longboards have become a standard among the fastest extreme metal drummers. Operating two independent 22\" bass drums, Inferno deploys an independent Longboard on each drum rather than a linked double pedal system. This allows each foot to apply precisely the right pressure and angle for its specific drum — essential for the precision that sustained blast beats at 200+ BPM require. For a deeper look at extreme metal foot technique, see the [blast beat techniques guide](/articles/blast-beat-techniques)."
+        "answer": "Inferno is well known for using Monolit Czarcie Kopyto pedals, which he has relied on since the 2010s. Operating two independent 22\" bass drums, Inferno deploys an independent Czarcie Kopyto pedal on each drum rather than a linked double pedal system. This allows each foot to apply precisely the right pressure and angle for its specific drum — essential for the precision that sustained blast beats at 200+ BPM require. For a deeper look at extreme metal foot technique, see the [blast beat techniques guide](/articles/blast-beat-techniques)."
       },
       {
         "question": "What cymbals did Inferno use on I Loved You at Your Darkest?",
@@ -1026,7 +1026,7 @@ export const articles = {
     },
     "conclusion": {
       "title": "A Worthy Successor — and an Evolution",
-      "content": "*I Loved You at Your Darkest* faced the impossible task of following *The Satanist*, and Behemoth approached that challenge correctly: not by trying to replicate the previous album's exact formula, but by pushing the band's sound into new territory while preserving the core elements that define them. The choral textures, child-vocal samples, and orchestral arrangements introduced sonic dimensions that *The Satanist* had not explored. The collaboration with Daniel Bergstrand at Dugout Studios brought a different mix sensibility than the Wiesławski brothers' Hertz Studio production. The result is an album that stands on its own terms — distinctly different from its predecessor, but unmistakably Behemoth.\n\nInferno's drumming across *I Loved You at Your Darkest* is the rhythmic foundation that makes all of those creative expansions work. The choice of a Pearl Reference Pure kit for the studio sessions reflected the album's broadened sonic ambitions: warm, full-bodied fundamentals that ground the choral and orchestral elements without competing with them. The Paiste Signature Dark Energy + Mb20 cymbal combination covered the full dynamic range from the atmospheric opener \"Solve\" through the most aggressive blast sections of \"Wolves ov Siberia\" and \"God = Dog.\" The Axis A-Longboard pedals delivered the foot speed and precision that Behemoth's tempos require.\n\nThe Aquarian head selection — Hi-Energy on the snare batter, Force I on the kicks, Response on the toms — gave Inferno the consistent, high-output performance the recording demanded across hours of tracking. The Pearl snare in the 14\" x 5.5\" to 14\" x 6.5\" range provided the cutting articulation that anchors blast beats while sitting cleanly in Bergstrand's mix.\n\n**For Drummers Studying I Loved You at Your Darkest:**\nThe key lesson Inferno's performance offers on this album is integration. The drums had to function inside an arrangement palette that included children's choirs, orchestral textures, and dense guitar layers — not as the dominant element, but as the rhythmic foundation that lets every other element work. That is a different challenge than purely aggressive extreme metal, and Inferno's approach across the album models how to play to the song rather than to the technique.\n\nFor the full story of Inferno's career and gear evolution across Behemoth's catalog, visit the [Inferno drummer profile](/drummer/inferno) and the [What's In Inferno's Kit breakdown](/articles/whats-in-infernos-kit). For the predecessor to this album — the Album of the Year *The Satanist* — see the [Satanist drum setup article](/articles/the-satanist-drum-setup). For the technical foundations of blast beat technique central to Behemoth's sound, the [blast beat techniques guide](/articles/blast-beat-techniques) provides the complete mechanical breakdown.\n\nA worthy successor to *The Satanist*, and a record that proves Behemoth's creative evolution continues. 🤘"
+      "content": "*I Loved You at Your Darkest* faced the impossible task of following *The Satanist*, and Behemoth approached that challenge correctly: not by trying to replicate the previous album's exact formula, but by pushing the band's sound into new territory while preserving the core elements that define them. The choral textures, child-vocal samples, and orchestral arrangements introduced sonic dimensions that *The Satanist* had not explored. The collaboration with Daniel Bergstrand at Dugout Studios brought a different mix sensibility than the Wiesławski brothers' Hertz Studio production. The result is an album that stands on its own terms — distinctly different from its predecessor, but unmistakably Behemoth.\n\nInferno's drumming across *I Loved You at Your Darkest* is the rhythmic foundation that makes all of those creative expansions work. The choice of a Pearl Reference Pure kit for the studio sessions reflected the album's broadened sonic ambitions: warm, full-bodied fundamentals that ground the choral and orchestral elements without competing with them. The Paiste Signature Dark Energy + Mb20 cymbal combination covered the full dynamic range from the atmospheric opener \"Solve\" through the most aggressive blast sections of \"Wolves ov Siberia\" and \"God = Dog.\" The Monolit Czarcie Kopyto pedals delivered the foot speed and precision that Behemoth's tempos require.\n\nThe Aquarian head selection — Hi-Energy on the snare batter, Force I on the kicks, Response on the toms — gave Inferno the consistent, high-output performance the recording demanded across hours of tracking. The Pearl snare in the 14\" x 5.5\" to 14\" x 6.5\" range provided the cutting articulation that anchors blast beats while sitting cleanly in Bergstrand's mix.\n\n**For Drummers Studying I Loved You at Your Darkest:**\nThe key lesson Inferno's performance offers on this album is integration. The drums had to function inside an arrangement palette that included children's choirs, orchestral textures, and dense guitar layers — not as the dominant element, but as the rhythmic foundation that lets every other element work. That is a different challenge than purely aggressive extreme metal, and Inferno's approach across the album models how to play to the song rather than to the technique.\n\nFor the full story of Inferno's career and gear evolution across Behemoth's catalog, visit the [Inferno drummer profile](/drummer/inferno) and the [What's In Inferno's Kit breakdown](/articles/whats-in-infernos-kit). For the predecessor to this album — the Album of the Year *The Satanist* — see the [Satanist drum setup article](/articles/the-satanist-drum-setup). For the technical foundations of blast beat technique central to Behemoth's sound, the [blast beat techniques guide](/articles/blast-beat-techniques) provides the complete mechanical breakdown.\n\nA worthy successor to *The Satanist*, and a record that proves Behemoth's creative evolution continues. 🤘"
     }
   },
   "satanica-drum-setup": {
@@ -1718,7 +1718,7 @@ export const articles = {
         "Recorded at Hertz Studio, Białystok — Behemoth's long-time studio home with the Wiesławski brothers",
         "Pearl Reference Pure — compact configuration optimized for blast beat velocity",
         "Paiste Signature Dark Energy cymbals — dry, controlled response at extreme tempos",
-        "Axis A Longboard double pedal for mechanical precision at 200–240 BPM",
+        "A double pedal setup for mechanical precision at 200–240 BPM (specific brand unverified for this era)",
         "Charted #153 on Billboard 200 — landmark crossover for extreme blackened death metal",
         "Pivotal transitional album: Behemoth's first fully realized blackened death metal statement"
       ]
@@ -1743,7 +1743,7 @@ export const articles = {
         ],
         "shells": "All-maple shells — Pearl Reference Pure construction"
       },
-      "description": "For *Evangelion*, Inferno's Pearl Reference Pure configuration was built around one primary requirement: maximum efficiency at extreme blast beat tempos. The all-maple shell construction delivers a warm, focused fundamental — essential in the studio environment at Hertz, where the Wiesławski brothers' recording approach rewards tonal definition over raw volume projection.\n\nThe double 22\" kick drum setup maintained the extreme metal standard. Two independent bass drums, rather than a double pedal on a single drum, gave Inferno full mechanical independence on each foot — critical at the 200–240 BPM passages that dominate *Evangelion*'s most intense sections. The Axis A Longboard double pedal's mechanical precision meant that even during extended blast sequences, each stroke's attack remained consistent and clearly articulated in the Hertz Studio environment.\n\nThe compact four-tom spread — emphasizing smaller sizes compared to the expanded configurations favored for live performance — served *Evangelion*'s compositional priorities. Where some extreme metal records weaponize tom fills as dynamic events, *Evangelion*'s arrangements deploy Inferno's kit as a relentless, forward-moving engine. The tighter setup reduced transition distances and kept the kit's mass concentrated for the album's punishing pace.",
+      "description": "For *Evangelion*, Inferno's Pearl Reference Pure configuration was built around one primary requirement: maximum efficiency at extreme blast beat tempos. The all-maple shell construction delivers a warm, focused fundamental — essential in the studio environment at Hertz, where the Wiesławski brothers' recording approach rewards tonal definition over raw volume projection.\n\nThe double 22\" kick drum setup maintained the extreme metal standard. Two independent bass drums, rather than a double pedal on a single drum, gave Inferno full mechanical independence on each foot — critical at the 200–240 BPM passages that dominate *Evangelion*'s most intense sections. His double pedal setup's mechanical precision meant that even during extended blast sequences, each stroke's attack remained consistent and clearly articulated in the Hertz Studio environment.\n\nThe compact four-tom spread — emphasizing smaller sizes compared to the expanded configurations favored for live performance — served *Evangelion*'s compositional priorities. Where some extreme metal records weaponize tom fills as dynamic events, *Evangelion*'s arrangements deploy Inferno's kit as a relentless, forward-moving engine. The tighter setup reduced transition distances and kept the kit's mass concentrated for the album's punishing pace.",
       "notes": [
         "Maple/birch hybrid Reference Pure construction for studio warmth and tonal definition",
         "Double 22\" kick drums for independent control at extreme blast tempos",
@@ -1805,12 +1805,12 @@ export const articles = {
       "estimatedValue": "$1,800–2,800 (Paiste Signature Dark Energy setup)"
     },
     "hardware": {
-      "title": "Axis Longboard: Mechanical Precision at Extreme Velocity",
+      "title": "Double Pedal Setup: Mechanical Precision at Extreme Velocity",
       "pedals": [
         {
-          "brand": "Axis",
-          "model": "Axis A Longboard Double Pedal",
-          "description": "The Axis A Longboard double pedal was Inferno's primary drive mechanism for *Evangelion*'s extreme kick drum requirements. At 200–240 BPM, the mechanical precision of the Axis system — its direct-drive linkage and extended footboard — allows consistent power transfer from foot to beater without the energy loss that can affect chain-drive systems at maximum velocity.\n\nThe longboard design distributes foot pressure across a longer platform, giving Inferno's technique more leverage and contact surface during sustained double-bass passages. Combined with the Pearl Reference Pure's bass drum sensitivity, the Axis A Longboard contributed directly to the kick drum's articulate, defined character on *Evangelion*'s most demanding tracks."
+          "brand": "Unverified",
+          "model": "Double pedal setup (specific brand unverified for this era)",
+          "description": "Inferno's primary drive mechanism for *Evangelion*'s extreme kick drum requirements was a double pedal setup — the specific brand and model used during this era are not confirmed by a verified source, so no brand claim is made here. At 200–240 BPM, mechanical precision and consistent power transfer from foot to beater is essential to avoid the energy loss that can affect less rigid systems at maximum velocity.\n\nCombined with the Pearl Reference Pure's bass drum sensitivity, Inferno's pedal technique contributed directly to the kick drum's articulate, defined character on *Evangelion*'s most demanding tracks."
         }
       ],
       "sticks": {
@@ -1835,7 +1835,7 @@ export const articles = {
           "Double kick patterns drive the track's relentless forward momentum",
           "Single-stroke alternating blast technique at near-maximum velocity throughout"
         ],
-        "gearNotes": "Paiste Signature Dark Energy hi-hats maintain definition through extended blast passages. Axis A Longboard double pedal delivers independent kick attacks at sustained tempo."
+        "gearNotes": "Paiste Signature Dark Energy hi-hats maintain definition through extended blast passages. His double pedal setup delivers independent kick attacks at sustained tempo."
       },
       {
         "track": "Shemhamforash",
@@ -1873,7 +1873,7 @@ export const articles = {
       },
       {
         "question": "How fast does Inferno play blast beats on Evangelion?",
-        "answer": "Inferno delivers blast beats in the 200–240 BPM range on Evangelion, executed with single-stroke alternating technique. Tracks like \"Ov Fire and the Void\" and \"Shemhamforash\" feature extended blast sections at near-maximum velocity, maintained across the full length of each arrangement. The Axis A Longboard double pedal's mechanical precision and the Paiste Signature Dark Energy hi-hats' fast-decay character were both critical to sustaining this velocity with rhythmic clarity — sloppy or wash-heavy cymbal response would obscure the kick-snare interplay at these tempos."
+        "answer": "Inferno delivers blast beats in the 200–240 BPM range on Evangelion, executed with single-stroke alternating technique. Tracks like \"Ov Fire and the Void\" and \"Shemhamforash\" feature extended blast sections at near-maximum velocity, maintained across the full length of each arrangement. His double pedal setup's mechanical precision and the Paiste Signature Dark Energy hi-hats' fast-decay character were both critical to sustaining this velocity with rhythmic clarity — sloppy or wash-heavy cymbal response would obscure the kick-snare interplay at these tempos."
       },
       {
         "question": "What cymbals did Inferno use on Evangelion?",
@@ -1881,7 +1881,7 @@ export const articles = {
       },
       {
         "question": "What double pedal did Inferno use on Evangelion?",
-        "answer": "Inferno used an Axis A Longboard double pedal during the Evangelion era. The Axis A's direct-drive mechanism and extended longboard footplate deliver the mechanical precision and consistent power transfer that extreme blast beat performance at 200–240 BPM requires. At maximum double-bass tempos, chain-drive systems can introduce energy loss or inconsistency; the Axis direct-drive eliminates those variables. The longboard design also provides additional foot leverage during sustained double-bass passages. For a full breakdown of Inferno's double pedal evolution, see the [Inferno drum setup overview](/articles/whats-in-infernos-kit)."
+        "answer": "Inferno used a double pedal setup during the Evangelion era; the specific brand and model are not confirmed by a verified source for this period, so no brand claim is made here. What is clear from the recording is that the setup delivered the mechanical precision and consistent power transfer that extreme blast beat performance at 200–240 BPM requires. For a full breakdown of Inferno's double pedal evolution, see the [Inferno drum setup overview](/articles/whats-in-infernos-kit)."
       }
     ],
     "videos": [],
@@ -1979,7 +1979,7 @@ export const articles = {
     },
     "conclusion": {
       "title": "Evangelion: The Apex of Inferno's Pre-Satanist Velocity",
-      "content": "*Evangelion* occupies a specific and irreplaceable position in Behemoth's catalog: the album that completed the band's transformation into a fully realized blackened death metal entity, and the document of Inferno's drumming at its most uncompromisingly fast.\n\nThe *Evangelion* album cycle would take a sobering turn in 2010 when Nergal was diagnosed with leukemia during the supporting tour. The diagnosis halted Behemoth's activities and placed the band's future in uncertainty. Nergal's recovery drove the creation of *The Satanist* — an album whose emotional gravity and compositional ambition reflect its extraordinary context. *Evangelion*, in retrospect, marks the boundary between two eras: the relentless forward assault of the pre-cancer Behemoth and the more considered, dynamically sophisticated work that followed.\n\nFor drummers studying Inferno's career, the comparison between *Evangelion* and *The Satanist* is instructive beyond the gear differences. On *Evangelion*, the Pearl Reference Pure / Paiste Signature Dark Energy / Axis A Longboard combination was optimized for a single primary objective: maximum velocity at maximum precision. On *The Satanist*, Inferno's approach broadened — the setup, the cymbal voicing, and the performance itself all reflect an artist deploying the full range of his musicianship, not just its most extreme technical edge.\n\nBoth approaches are valid. Both produce exceptional recordings. Understanding *Evangelion* — the Billboard 200 charting, the Hertz Studio sessions, the Wiesławski production, the blast beat architecture of \"Ov Fire and the Void\" and \"Shemhamforash\" — is prerequisite knowledge for any serious study of how Inferno's drumming evolved across Behemoth's career.\n\nFor the complete picture of Inferno's gear across Behemoth's career, visit the [What's In Inferno's Kit breakdown](/articles/whats-in-infernos-kit) and the [Inferno drummer profile](/drummer/inferno). For the technical foundations of the blast beat technique central to this album, the [blast beat techniques guide](/articles/blast-beat-techniques) provides the complete mechanical breakdown. And for the remarkable follow-up that *Evangelion* made possible, see the [The Satanist drum setup breakdown](/articles/the-satanist-drum-setup)."
+      "content": "*Evangelion* occupies a specific and irreplaceable position in Behemoth's catalog: the album that completed the band's transformation into a fully realized blackened death metal entity, and the document of Inferno's drumming at its most uncompromisingly fast.\n\nThe *Evangelion* album cycle would take a sobering turn in 2010 when Nergal was diagnosed with leukemia during the supporting tour. The diagnosis halted Behemoth's activities and placed the band's future in uncertainty. Nergal's recovery drove the creation of *The Satanist* — an album whose emotional gravity and compositional ambition reflect its extraordinary context. *Evangelion*, in retrospect, marks the boundary between two eras: the relentless forward assault of the pre-cancer Behemoth and the more considered, dynamically sophisticated work that followed.\n\nFor drummers studying Inferno's career, the comparison between *Evangelion* and *The Satanist* is instructive beyond the gear differences. On *Evangelion*, the Pearl Reference Pure / Paiste Signature Dark Energy combination — paired with a double pedal setup — was optimized for a single primary objective: maximum velocity at maximum precision. On *The Satanist*, Inferno's approach broadened — the setup, the cymbal voicing, and the performance itself all reflect an artist deploying the full range of his musicianship, not just its most extreme technical edge.\n\nBoth approaches are valid. Both produce exceptional recordings. Understanding *Evangelion* — the Billboard 200 charting, the Hertz Studio sessions, the Wiesławski production, the blast beat architecture of \"Ov Fire and the Void\" and \"Shemhamforash\" — is prerequisite knowledge for any serious study of how Inferno's drumming evolved across Behemoth's career.\n\nFor the complete picture of Inferno's gear across Behemoth's career, visit the [What's In Inferno's Kit breakdown](/articles/whats-in-infernos-kit) and the [Inferno drummer profile](/drummer/inferno). For the technical foundations of the blast beat technique central to this album, the [blast beat techniques guide](/articles/blast-beat-techniques) provides the complete mechanical breakdown. And for the remarkable follow-up that *Evangelion* made possible, see the [The Satanist drum setup breakdown](/articles/the-satanist-drum-setup)."
     }
   },
   "zos-kia-cultus-drum-setup": {
@@ -3150,10 +3150,10 @@ export const articles = {
       "items": [
         {
           "type": "Bass Drum Pedals",
-          "brand": "Axis",
-          "model": "Axis A-Longboard Double Pedals (one per bass drum)",
-          "notes": "Continuity piece — the same Longboard pedals documented since I Loved You at Your Darkest",
-          "description": "Inferno's Axis A-Longboard pedals carry over unchanged from the I Loved You at Your Darkest (2018) sessions. Operating two independent 22\" bass drums, he uses a Longboard on each rather than a linked double pedal — the setup that has defined his extreme metal foot speed for years."
+          "brand": "Monolit",
+          "model": "Monolit Czarcie Kopyto Double Pedals (one per bass drum)",
+          "notes": "Continuity piece — the same Czarcie Kopyto pedals documented since I Loved You at Your Darkest",
+          "description": "Inferno's Monolit Czarcie Kopyto pedals carry over unchanged from the I Loved You at Your Darkest (2018) sessions. Operating two independent 22\" bass drums, he uses a Czarcie Kopyto pedal on each rather than a linked double pedal — the setup that has defined his extreme metal foot speed for years."
         },
         {
           "type": "Hi-Hat Stand",
@@ -3200,7 +3200,7 @@ export const articles = {
           "Showcases the Pearl Masters MCX kit's low-end punch at sustained tempo",
           "Paiste 2002 Black hi-hats maintain articulation through the blast sections"
         ],
-        "gearNotes": "The Pork Pie snare's brass crack cuts through the dense guitar layers. Axis Longboard pedals deliver the sustained double-bass speed."
+        "gearNotes": "The Pork Pie snare's brass crack cuts through the dense guitar layers. Monolit Czarcie Kopyto pedals deliver the sustained double-bass speed."
       },
       {
         "track": "Neo-Spartacvs",

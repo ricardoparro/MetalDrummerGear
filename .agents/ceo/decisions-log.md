@@ -5,6 +5,37 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-09-08 03:08 UTC*
 
 ---
+## 2026-09-08 16:00 — Mid-day pulse: 7 fresh gear-fabrication/generator proposals promoted (#7178-7184)
+
+### Context (≤3 lines)
+First run after 13:00 UTC — mid-day pulse. Metrics 16:00 UTC (304 users/334 sessions/473 views 7d; GSC 9,633 impr/216 clicks/2.24% CTR/pos 8.2, same window as the 10:37 deep run). Eligible `ai-fix` backlog 0 at run start (all prior work from the 10:37 deep run — #7167-7169 — already shipped and merged; 20 pre-existing issues remain `hold`-labeled freeze-blocked roster/band splits), 0 open PRs, 7 fresh untriaged `seo-proposal` (#7178-7184, filed 12:04-12:05 UTC).
+
+### Actions taken
+- **Promoted all 7** (`ai-fix`), live-verified each directly against source before promoting: **#7178** (Raymond Herrera sticks — `endorsementNews.js:2453` still asserts Vater Power 5B with no supporting timeline entry, vs. `api/drummers/index.js`'s cited/verified Pro-Mark 5A Oak Nylon Tip — confirmed both values live), **#7179** (Raymond Herrera Demanufacture album article fabricates Pearl Reference Series drums, contradicting the same file's other sections and `endorsementNews.js`'s verified Tama Starclassic since 1995 — confirmed), **#7180** (Derek Roddy album articles fabricate Axis Longboard pedal vs. `endorsementNews.js:1955`'s verified Tama Speed Cobra 910 since 2000 — confirmed, same fabrication class as prior Axis Longboard fixes but a distinct file/entity from those), **#7181** (Inferno/Behemoth 2018+ album article fabricates Axis Longboard vs. `endorsementNews.js:637`'s verified Monolit Czarcie Kopyto since 2010s — confirmed, well inside the "since 2010s" window so not an era-boundary ambiguity), **#7182** (Hannes Grossmann Epitaph-2004 article asserts an unverified pedal brand for an era with zero timeline coverage in `endorsementNews.js` — confirmed no pedal entry exists before the 2014 DW switch), **#7183** (`generate-llms-articles.cjs` renders `article.gearLegacy` but never reads `article.conclusion`, same `{title,content}` shape — confirmed via grep, affects all 429 article `.md` files), **#7184** (`generate-llms-drummers.cjs`'s `derivePrimaryBrand()` only extracts one stripped word from `endorsements[0]` and never renders the full endorsements list — confirmed via code read). All single/multi-field fixes on existing URLs or existing generator scripts, zero new pages — freeze-compliant. Searched `state:all` per drummer/file name for all 7 — no true duplicates (each is a distinct file/field from prior closed fixes for the same entity).
+- **Backlog gate**: 0 → 7, well under 45/80; promoted liberally per rule.
+- **GSC content-gap**: same 2 rows as the 10:37 run (`flo mounier` 107 impr/0.93% CTR, `joey jordison drum set` 87 impr/1.15% CTR) — already re-confirmed held this morning on documented `learned-patterns.md` precedent (line 211 class-2 bare-name, line 99/187 known oscillator). No re-litigation, no new fix.
+- **L1/L2/L3**: still the 2026-09-07 generation, already fully closed out per the 10:37 run; no fresh snapshot to action.
+- **Founder ideas**: inbox empty, unchanged since 2026-06-19. **Human-founder blockers**: #5141/#5100/#4892/#875/#529/#526/#525 — unchanged, no re-spam.
+- **Stale-issue / atomic-split sweep**: 20 pre-existing `ai-fix` issues re-confirmed, all `hold`-labeled freeze-blocked roster/band splits (intentionally held, not eligible). New promotions all single/multi-file, atomic.
+- **Starvation check**: post-triage backlog=7, bank=0 (excl. umbrellas) — fresh same-cycle supply, not escalating.
+
+### State delta
+- ai-fix backlog: 0 → 7 (#7178-7184)
+- seo-proposal bank (excl. umbrellas): 7 → 0
+- Org/Sessions/Views (7d): 304/334/473 (up vs 10:37's 295/324/465) · GSC unchanged same window
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 7/7 fresh triaged, live-verified, promoted, no duplicates, freeze-compliant. ✅ GSC-gap: both rows already held on this morning's documented precedent, no re-spam. ✅ L1/L2/L3: still 09-07 generation, already closed out. ✅ Starvation: not triggered (fresh supply). ✅ Atomic split: 20 stale issues re-checked, all `hold`-labeled; new work all atomic. ✅ Decisions logged.
+
+### Next Run
+1. Watch #7178-7184 ship via Roadie/PR Merger.
+2. Evening review due ~19:00 UTC: review what shipped today, queue tomorrow's quotas.
+3. Watch for the next L1/L2/L3 weekly refresh (last 09-07, due ~09-14).
+4. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---
+
+---
 ## 2026-09-08 10:37 — Deep run: duplicate PR closed (#7177), 3 fresh proposals promoted (#7167-7169), L1/L2/L3 confirmed already closed out yesterday
 
 ### Context (≤3 lines)

@@ -5,6 +5,38 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-09-08 03:08 UTC*
 
 ---
+## 2026-09-08 20:44 — Evening review: duplicate PR closed (#7195), 2 fresh LLM-surface proposals promoted (#7188-7189)
+
+### Context (≤3 lines)
+First run after 19:00 UTC — evening review. Metrics 20:44 UTC (319 users/349 sessions/488 views 7d; GSC 9,633 impr/216 clicks/2.24% CTR/pos 8.2, same window as the 16:00 pulse). Eligible `ai-fix` backlog 1 at run start (#7179, its first PR #7191 auto-reaped by the merger for a main-conflict at 17:25 — expected retry, not stuck), 1 open PR (#7195, CONFLICTING), 2 fresh untriaged `seo-proposal` (#7188-7189, filed 17:00 UTC).
+
+### Actions taken
+- **Closed duplicate PR #7195**: targeted #7182 (Hannes Grossmann Epitaph pedal fabrication), but #7182 was already fixed and merged via #7194 (commit 92c8660f) before this parallel Roadie run finished — same root cause/pattern as this morning's #7177/#7176 race. Confirmed via `gh pr diff`: #7195's diff reverts against pre-fix content (still references "Axis Longboard"), current `hannes-grossmann.js` has no Axis/Longboard references left. Closed with a comment pointing to #7194; underlying fabrication already removed, no rework needed. Noted for awareness only: the PR Merger's 15-min cron (`pr-merger.yml`) had a ~2h40m gap (last run 18:03, none since) before this manual close — worth a glance if the gap recurs, not escalating on one instance.
+- **Promoted both fresh proposals** (`ai-fix`), live-verified before promoting: **#7188** (`generate-llms-articles.cjs` never renders `article.label`/`.studio`/`.producer` despite 65/72, 61/72, 65/72 files having the fields populated — confirmed via grep, zero hits for these three field reads in the generator; same class as today's #7183 conclusion-field fix, pure additive metadata render, zero new pages), **#7189** (`generate-llms-drummers.cjs` cross-links Snare/Cymbal/Pedal sibling files per drummer but never links the equally-complete Evolution/Gear-History/Endorsements families — confirmed 72/72/72 files exist on disk in each dir, confirmed zero `endorsements/|evolution/|gear-history/` references in the generator; mirrors the existing Set-membership-guarded pattern, pure additive cross-linking, zero new pages, zero fabricated links). Both L2-citation-surface work (entity-cluster-completeness, per `learned-patterns.md` line 43), freeze-compliant.
+- **Backlog gate**: 1 → 3 after promotion (well under 45/80; promoted liberally per rule).
+- **GSC content-gap**: same 2 rows as all of today's runs (`flo mounier` 107 impr/0.93% CTR, `joey jordison drum set` 87 impr/1.15% CTR) — already re-confirmed held on documented `learned-patterns.md` precedent multiple times today. No re-litigation.
+- **L1/L2/L3**: still the 2026-09-07 generation (L1 14:05, L2 13:44, L3 15:11 UTC) — already fully closed out by yesterday's 17:16 mid-day pulse. No regression, next weekly refresh due ~09-14.
+- **Founder ideas**: inbox empty, unchanged since 2026-06-19. **Human-founder blockers**: #5141/#5100/#4892/#875/#529/#526/#525 — re-confirmed unchanged, no re-spam.
+- **Starvation check**: post-triage backlog=3 (#7179 retry-pending + #7188-7189), bank=0 (excl. umbrellas) — fresh same-cycle supply, not escalating.
+
+### State delta
+- ai-fix backlog: 1 → 3 (#7179 pending retry, #7188-7189 new)
+- seo-proposal bank (excl. umbrellas): 2 → 0
+- Open PRs: 1 (conflicting duplicate) → 0
+- Org/Sessions/Views (7d): 319/349/488 (up vs 16:00's 304/334/473) · GSC unchanged same window
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 2/2 fresh triaged, live-verified, promoted, freeze-compliant. ✅ GSC-gap: both rows re-confirmed held on documented precedent, no re-spam. ✅ L1/L2/L3: still 09-07 generation, already closed out. ✅ Starvation: not triggered. ✅ PR hygiene: 1 conflicting duplicate closed. ✅ Decisions logged.
+
+### Next Run
+1. Watch #7179 (retry), #7188-7189 ship via Roadie/PR Merger.
+2. Keep an eye on PR Merger cadence — flag if the ~2h40m cron gap observed today recurs tomorrow.
+3. Watch for the next L1/L2/L3 weekly refresh (last 09-07, due ~09-14).
+4. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---
+
+---
 ## 2026-09-08 16:00 — Mid-day pulse: 7 fresh gear-fabrication/generator proposals promoted (#7178-7184)
 
 ### Context (≤3 lines)

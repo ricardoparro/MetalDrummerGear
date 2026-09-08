@@ -25,6 +25,7 @@ import {
   generateGuideFaqSchema
 } from '../data/soundLikeGuides';
 import { getAllBeginnerGuides } from '../data/beginnerGuides';
+import { GENRE_GEAR_GUIDES_SUMMARY } from '../data/genreGearGuides-summary';
 import { updateSoundLikeGuideMeta } from '../utils/ogMetaTags';
 
 // ==========================================
@@ -33,6 +34,7 @@ import { updateSoundLikeGuideMeta } from '../utils/ogMetaTags';
 export function GuidesHubPage({ theme, onBack, onSelectGuide }) {
   const guides = getAllSoundLikeGuides();
   const beginnerGuides = getAllBeginnerGuides();
+  const genreGearGuides = Object.values(GENRE_GEAR_GUIDES_SUMMARY);
   
   useEffect(() => {
     // Update OG meta for hub page
@@ -155,6 +157,68 @@ export function GuidesHubPage({ theme, onBack, onSelectGuide }) {
           ))}
         </View>
       </View>
+
+      {/* Genre Gear Guides (Issue #7158 — residual half of #3956: the real hub
+          never linked these, only the bot-facing SSR meta shell did) */}
+      {genreGearGuides.length > 0 && (
+        <View style={styles.guidesSection}>
+          <Text style={[styles.sectionTitle, { color: theme.text }]}>🔧 Gear Guides by Genre</Text>
+          <View style={styles.guidesGrid}>
+            {genreGearGuides.map((guideEntry) => {
+              const guideUrl = `/guides/${guideEntry.slug}`;
+              const handleGuidePress = () => {
+                if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                  window.history.pushState({}, '', guideUrl);
+                  window.dispatchEvent(new PopStateEvent('popstate'));
+                }
+              };
+              const cardStyle = [styles.guideCard, { backgroundColor: theme.card, borderColor: theme.border }];
+
+              return Platform.OS === 'web' ? (
+                <a
+                  key={guideEntry.slug}
+                  href={guideUrl}
+                  onClick={(e) => {
+                    e.preventDefault();
+                    handleGuidePress();
+                  }}
+                  style={{ textDecoration: 'none', display: 'block' }}
+                >
+                  <View style={cardStyle}>
+                    <Text style={[styles.guideGenre, { color: theme.secondaryText }]}>
+                      {guideEntry.genre}
+                    </Text>
+                    <Text style={[styles.guideDrummerName, { color: theme.text }]}>
+                      {guideEntry.title}
+                    </Text>
+                    <View style={styles.guideCardFooter}>
+                      <Text style={[styles.guideArrow, { color: theme.primary }]}>→</Text>
+                    </View>
+                  </View>
+                </a>
+              ) : (
+                <TouchableOpacity
+                  key={guideEntry.slug}
+                  style={cardStyle}
+                  onPress={handleGuidePress}
+                  accessibilityRole="link"
+                  accessibilityLabel={`Read guide: ${guideEntry.title}`}
+                >
+                  <Text style={[styles.guideGenre, { color: theme.secondaryText }]}>
+                    {guideEntry.genre}
+                  </Text>
+                  <Text style={[styles.guideDrummerName, { color: theme.text }]}>
+                    {guideEntry.title}
+                  </Text>
+                  <View style={styles.guideCardFooter}>
+                    <Text style={[styles.guideArrow, { color: theme.primary }]}>→</Text>
+                  </View>
+                </TouchableOpacity>
+              );
+            })}
+          </View>
+        </View>
+      )}
 
       {/* SEO Content Section */}
       <View style={[styles.seoSection, { backgroundColor: theme.card }]}>

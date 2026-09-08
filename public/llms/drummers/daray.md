@@ -6,7 +6,7 @@ country: "Poland"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/daray"
 source: "https://metalforge.io"
-last_updated: "2026-09-07"
+last_updated: "2026-09-08"
 ---
 
 # Daray — Drum Kit & Gear Setup
@@ -54,6 +54,12 @@ Daray's drumming combines extreme speed and technical precision with theatrical 
 - **Hardware:** Pearl Demon XR Double Pedal
 - **Sticks:** Vic Firth American Classic Extreme 5B
 - **Heads:** Evans
+
+## Endorsements
+
+- [Pearl Drums](https://pearldrum.com)
+- [Paiste Cymbals](https://www.paiste.com)
+- [Vic Firth Sticks](https://vicfirth.zildjian.com)
 
 ## Notable Performances
 
@@ -145,4 +151,4 @@ Full breakdown: [Daray's pedal setup](https://metalforge.io/pedals/setups/daray)
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-09-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

@@ -6,7 +6,7 @@ country: "Brazil"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/aquiles-priester"
 source: "https://metalforge.io"
-last_updated: "2026-09-07"
+last_updated: "2026-09-08"
 ---
 
 # Aquiles Priester — Drum Kit & Gear Setup
@@ -56,6 +56,13 @@ Priester is considered one of the greatest power metal drummers in the world. Hi
 - **Hardware:** Pearl Demon Drive Double Pedal, Pearl Icon Rack System
 - **Sticks:** Promark TX419W Aquiles Priester Autograph
 - **Heads:** Evans
+
+## Endorsements
+
+- [Pearl Drums](https://pearldrum.com)
+- [Sabian Cymbals](https://www.sabian.com)
+- [Vic Firth Sticks](https://vicfirth.zildjian.com)
+- [Evans Drumheads](https://www.daddario.com/evans)
 
 ## Notable Performances
 
@@ -155,4 +162,4 @@ Full breakdown: [Aquiles Priester's pedal setup](https://metalforge.io/pedals/se
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-09-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

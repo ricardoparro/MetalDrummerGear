@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/john-longstreth"
 source: "https://metalforge.io"
-last_updated: "2026-09-07"
+last_updated: "2026-09-08"
 ---
 
 # John Longstreth — Drum Kit & Gear Setup
@@ -55,6 +55,14 @@ He co-founded Angelcorpse in 1995, recording Hammer of Gods (1996) and Extermina
 - **Sticks:** Scorpion Percussion "Wee Heavy" Signature Drumsticks
 
 Pearl endorsement confirmed via his own Scorpion Percussion artist bio; specific kit model and shell sizes are not independently documented — omitted rather than guessed.
+
+## Endorsements
+
+- [Pearl Drums](https://pearldrum.com)
+- [Meinl Cymbals](https://meinlcymbals.com)
+- [Scorpion Percussion](https://scorpionpercussion.com)
+- [ACD Unlimited](https://www.acd-unlimited.at)
+- [FootBlaster](https://footblaster.com)
 
 ## Notable Performances
 
@@ -132,4 +140,4 @@ Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-09-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

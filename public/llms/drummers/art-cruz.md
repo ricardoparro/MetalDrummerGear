@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Ludwig"
 profile_url: "https://metalforge.io/drummer/art-cruz"
 source: "https://metalforge.io"
-last_updated: "2026-09-07"
+last_updated: "2026-09-08"
 ---
 
 # Art Cruz — Drum Kit & Gear Setup
@@ -55,6 +55,15 @@ Before Lamb of God, Cruz built his reputation through extensive work with Winds 
 - **Hardware:** Trick Pro 1-V Double Pedal, Gibraltar Hardware, Ludwig Atlas Throne
 - **Sticks:** Vic Firth American Classic 5B
 - **Heads:** Evans
+
+## Endorsements
+
+- [Ludwig Drums](https://www.ludwig-drums.com)
+- [Zildjian Cymbals](https://zildjian.com)
+- [Vic Firth Sticks](https://vicfirth.zildjian.com)
+- [Evans Drumheads](https://www.daddario.com/evans)
+- [Trick Pedals](https://www.trickdrums.com)
+- [Gibraltar Hardware](https://www.gibraltarhardware.com)
 
 ## Notable Performances
 
@@ -152,4 +161,4 @@ Full breakdown: [Art Cruz's pedal setup](https://metalforge.io/pedals/setups/art
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-09-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

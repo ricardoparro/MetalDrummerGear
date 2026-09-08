@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Tama"
 profile_url: "https://metalforge.io/drummer/abe-cunningham"
 source: "https://metalforge.io"
-last_updated: "2026-09-07"
+last_updated: "2026-09-08"
 ---
 
 # Abe Cunningham — Drum Kit & Gear Setup
@@ -52,6 +52,13 @@ Cunningham's playing is characterized by creative, unconventional patterns that 
 - **Hardware:** Tama Iron Cobra Power Glide Twin Pedal (HP900PTW), Iron Cobra Lever Glide Hi-Hat (HH905)
 - **Sticks:** Pro-Mark
 - **Heads:** Remo (Powerstroke P3, Pinstripe, Ambassador)
+
+## Endorsements
+
+- [Tama Drums](https://www.tama.com/usa/artists/detail/21.html)
+- [Zildjian Cymbals](https://zildjian.com)
+- [Pro-Mark Sticks](https://www.promark.com)
+- [Remo Drumheads](https://remo.com)
 
 ## Notable Performances
 
@@ -155,4 +162,4 @@ Full breakdown: [Abe Cunningham's pedal setup](https://metalforge.io/pedals/setu
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-09-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

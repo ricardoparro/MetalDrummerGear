@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Mapex"
 profile_url: "https://metalforge.io/drummer/chris-adler"
 source: "https://metalforge.io"
-last_updated: "2026-09-07"
+last_updated: "2026-09-08"
 ---
 
 # Chris Adler — Drum Kit & Gear Setup
@@ -54,6 +54,13 @@ Adler's drumming is characterized by powerful groove-based patterns, creative us
 - **Cymbals:** Meinl Byzance Series (14" Dark Hi-Hats, 18" & 19" Dark Crashes, 21" Transition Ride, 18" Extra Dry China)
 - **Hardware:** Mapex Falcon Double Pedal, Mapex T865 Throne
 - **Sticks:** Promark TX5AXW Chris Adler Signature
+
+## Endorsements
+
+- [Mapex Drums](https://www.mapexdrums.com)
+- [Meinl Cymbals](https://meinlcymbals.com)
+- [Promark Sticks](https://www.daddario.com/promark)
+- [Evans Drumheads](https://www.daddario.com/evans)
 
 ## Notable Performances
 
@@ -142,4 +149,4 @@ Full breakdown: [Chris Adler's pedal setup](https://metalforge.io/pedals/setups/
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-09-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

@@ -6,7 +6,7 @@ country: "Sweden"
 primary_brand: "Sonor"
 profile_url: "https://metalforge.io/drummer/tomas-haake"
 source: "https://metalforge.io"
-last_updated: "2026-09-07"
+last_updated: "2026-09-08"
 ---
 
 # Tomas Haake — Drum Kit & Gear Setup
@@ -52,6 +52,13 @@ Haake's approach to drumming involves complex polyrhythmic patterns that create 
 - **Heads:** Remo
 
 See the [Tomas Haake vs Gene Hoglan](/vs/gene-hoglan-vs-tomas-haake) comparison for a full breakdown of how Meshuggah's djent architect stacks up against death/thrash's "Atomic Clock."
+
+## Endorsements
+
+- [Sonor Drums](https://www.sonor.com)
+- [Sabian Cymbals](https://www.sabian.com)
+- [Wincent Drumsticks](https://www.wincent.se)
+- [Remo Drumheads](https://remo.com)
 
 ## Notable Performances
 
@@ -163,4 +170,4 @@ Full breakdown: [Tomas Haake's pedal setup](https://metalforge.io/pedals/setups/
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-09-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

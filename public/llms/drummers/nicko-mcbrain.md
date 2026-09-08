@@ -6,7 +6,7 @@ country: "UK"
 primary_brand: "British"
 profile_url: "https://metalforge.io/drummer/nicko-mcbrain"
 source: "https://metalforge.io"
-last_updated: "2026-09-07"
+last_updated: "2026-09-08"
 ---
 
 # Nicko McBrain — Drum Kit & Gear Setup
@@ -54,6 +54,13 @@ McBrain is renowned for his powerful single bass drum technique, incredible stam
 - **Heads:** Remo Emperor
 
 See the [Nicko McBrain vs Scott Travis](/vs/scott-travis-vs-nicko-mcbrain) comparison for a full breakdown of Iron Maiden's single-pedal gallop vs Judas Priest's double-bass power.
+
+## Endorsements
+
+- [British Drum Co.](https://www.britishdrumco.com/artists/nicko-mcbrain)
+- [Paiste Cymbals](https://www.paiste.com)
+- [Vic Firth Sticks](https://vicfirth.zildjian.com)
+- [Remo Drumheads](https://remo.com)
 
 ## Notable Performances
 
@@ -158,4 +165,4 @@ Full breakdown: [Nicko McBrain's pedal setup](https://metalforge.io/pedals/setup
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-09-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

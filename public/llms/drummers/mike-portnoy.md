@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Tama"
 profile_url: "https://metalforge.io/drummer/mike-portnoy"
 source: "https://metalforge.io"
-last_updated: "2026-09-07"
+last_updated: "2026-09-08"
 ---
 
 # Mike Portnoy — Drum Kit & Gear Setup
@@ -58,6 +58,14 @@ Portnoy's technical proficiency, creative compositions, and theatrical live perf
 - **Cymbals:** Sabian HHX MAX / AAX MAXX Series (22" HHX MAX Ride, 18" AAX X-Plosion Crash, 19" HHX X-Plosion Crash, 18" AAX O-Zone Crash, 18" HHX Chinese, 19" Paragon Chinese, 7"/9"/11" AAX MAXX Splashes, 6"/6.5"/7" AA MAX Chimes)
 - **Hardware:** Tama Iron Cobra Power Glide Twin Pedal (HP900PSW)
 - **Sticks:** Promark Mike Portnoy Signature TX420N
+
+## Endorsements
+
+- [Tama Drums](https://www.tama.com)
+- [Sabian Cymbals](https://www.sabian.com)
+- [ProMark Sticks](https://www.daddario.com/promark)
+- [Remo Drumheads](https://remo.com)
+- [Roland Electronics](https://www.roland.com)
 
 ## Notable Performances
 
@@ -140,4 +148,4 @@ Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-09-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

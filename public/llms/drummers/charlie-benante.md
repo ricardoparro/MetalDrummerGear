@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Tama"
 profile_url: "https://metalforge.io/drummer/charlie-benante"
 source: "https://metalforge.io"
-last_updated: "2026-09-07"
+last_updated: "2026-09-08"
 ---
 
 # Charlie Benante — Drum Kit & Gear Setup
@@ -54,6 +54,14 @@ Beyond his drumming, Benante is Anthrax's main composer and a talented graphic a
 - **Cymbals:** Paiste RUDE & 2002 Series (14" Hi-Hats, 18" & 19" Crashes, 20" Power Ride, 18" China)
 - **Hardware:** Tama Speed Cobra Double Pedal, Roland Electronics
 - **Sticks:** Vic Firth Charlie Benante Signature
+
+## Endorsements
+
+- [Tama Drums](https://www.tama.com)
+- [Paiste Cymbals](https://www.paiste.com)
+- [Vic Firth Sticks](https://vicfirth.zildjian.com)
+- [Evans Drumheads](https://www.daddario.com/evans)
+- [Roland Electronics](https://www.roland.com)
 
 ## Notable Performances
 
@@ -123,4 +131,4 @@ Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-09-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

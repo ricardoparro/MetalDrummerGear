@@ -381,6 +381,15 @@ function buildMarkdown(drummer) {
     sections.push({ header: 'Gear', body: gear });
   }
 
+  // --- Endorsements --------------------------------------------------------------
+  if (drummer.endorsements && drummer.endorsements.length) {
+    let endorsements = '';
+    for (const e of drummer.endorsements) {
+      endorsements += e.url ? `- [${e.name}](${e.url})\n` : `- ${e.name}\n`;
+    }
+    sections.push({ header: 'Endorsements', body: endorsements });
+  }
+
   // --- Notable songs / performances (videos) -----------------------------------
   if (drummer.videos && drummer.videos.length > 0) {
     let performances = '';

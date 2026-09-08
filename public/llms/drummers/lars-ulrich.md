@@ -6,7 +6,7 @@ country: "Denmark"
 primary_brand: "Tama"
 profile_url: "https://metalforge.io/drummer/lars-ulrich"
 source: "https://metalforge.io"
-last_updated: "2026-09-07"
+last_updated: "2026-09-08"
 ---
 
 # Lars Ulrich — Drum Kit & Gear Setup
@@ -68,6 +68,13 @@ Ulrich was the first Danish-born musician inducted into the Rock and Roll Hall o
 - **Hardware:** Tama Iron Cobra 900 Power Glide Double Pedal, Tama 1st Chair Throne
 - **Sticks:** Ahead Lars Ulrich Signature Drumsticks
 - **Heads:** Remo
+
+## Endorsements
+
+- [Tama Drums](https://www.tama.com)
+- [Zildjian Cymbals](https://zildjian.com)
+- [Ahead Drumsticks](https://www.aheaddrumsticks.com)
+- [Remo Drumheads](https://remo.com)
 
 ## Notable Performances
 
@@ -174,4 +181,4 @@ Full breakdown: [Lars Ulrich's pedal setup](https://metalforge.io/pedals/setups/
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-09-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

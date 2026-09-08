@@ -6,7 +6,7 @@ country: "Norway"
 primary_brand: "Sonor"
 profile_url: "https://metalforge.io/drummer/hellhammer"
 source: "https://metalforge.io"
-last_updated: "2026-09-07"
+last_updated: "2026-09-08"
 ---
 
 # Hellhammer — Drum Kit & Gear Setup
@@ -54,6 +54,13 @@ Hellhammer joined Mayhem in 1988, becoming their most enduring member and the rh
 - **Cymbals:** Paiste (14" RUDE Hi-Hats, 18" & 19" RUDE Crashes, 20" RUDE Ride, 18" RUDE China)
 - **Hardware:** Axis Double Pedal, Sonor Drummer Throne, Roland Electronics
 - **Sticks:** Vic Firth American Classic 5B
+
+## Endorsements
+
+- [Sonor Drums](https://www.sonor.com)
+- [Paiste Cymbals](https://www.paiste.com)
+- [Vic Firth Sticks](https://vicfirth.zildjian.com)
+- [Remo Drumheads](https://www.remo.com)
 
 ## Notable Performances
 
@@ -148,4 +155,4 @@ Full breakdown: [Hellhammer's pedal setup](https://metalforge.io/pedals/setups/h
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-09-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

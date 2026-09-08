@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "ddrum"
 profile_url: "https://metalforge.io/drummer/pete-sandoval"
 source: "https://metalforge.io"
-last_updated: "2026-09-07"
+last_updated: "2026-09-08"
 ---
 
 # Pete Sandoval — Drum Kit & Gear Setup
@@ -51,6 +51,12 @@ According to AllMusic's Jason Birchmeier, Sandoval "challenges one's perception 
 - **Cymbals:** Cymbal brand/model not publicly documented
 - **Hardware:** ddrum (specific pedal/hardware model unconfirmed)
 - **Sticks:** Pro-Mark (historical endorsement — current sticks unverified)
+
+## Endorsements
+
+- [ddrum Drums](https://www.ddrum.com)
+- [Sabian Cymbals](https://www.sabian.com)
+- [Evans Drumheads](https://www.daddario.com/evans)
 
 ## Notable Performances
 
@@ -112,4 +118,4 @@ Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-09-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

@@ -6,7 +6,7 @@ country: "UK"
 primary_brand: "Ludwig"
 profile_url: "https://metalforge.io/drummer/bill-ward"
 source: "https://metalforge.io"
-last_updated: "2026-09-07"
+last_updated: "2026-09-08"
 ---
 
 # Bill Ward — Drum Kit & Gear Setup
@@ -52,6 +52,13 @@ Ward's drumming style combined jazz influences with proto-metal power, creating 
 - **Hardware:** Ludwig Atlas Pro Double Pedal, Ludwig Throne
 - **Sticks:** Vic Firth American Classic 2B
 - **Heads:** Remo
+
+## Endorsements
+
+- [Ludwig Drums](https://www.ludwig-drums.com)
+- [Paiste Cymbals](https://www.paiste.com)
+- [Vic Firth Sticks](https://vicfirth.zildjian.com)
+- [Remo Drumheads](https://remo.com)
 
 ## Notable Performances
 
@@ -197,4 +204,4 @@ Full breakdown: [Bill Ward's pedal setup](https://metalforge.io/pedals/setups/bi
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-09-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

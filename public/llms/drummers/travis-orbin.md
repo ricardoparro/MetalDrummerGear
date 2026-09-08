@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "SJC"
 profile_url: "https://metalforge.io/drummer/travis-orbin"
 source: "https://metalforge.io"
-last_updated: "2026-09-07"
+last_updated: "2026-09-08"
 ---
 
 # Travis Orbin — Drum Kit & Gear Setup
@@ -54,6 +54,15 @@ Orbin's technical prowess, creative use of polyrhythms, and ability to navigate 
 - **Hardware:** DW 9000 Series Double Pedal, Roland SPD-SX Sampling Pad, DW 9100 Throne
 - **Sticks:** Vic Firth American Classic 5B
 - **Heads:** Evans
+
+## Endorsements
+
+- [SJC Custom Drums](https://www.sjcdrums.com)
+- [Zildjian Cymbals](https://zildjian.com)
+- [Vic Firth Sticks](https://vicfirth.zildjian.com)
+- [Evans Drumheads](https://www.daddario.com/evans)
+- [Roland Electronics](https://www.roland.com)
+- [DW Hardware](https://www.dwdrums.com)
 
 ## Notable Performances
 
@@ -146,4 +155,4 @@ Full breakdown: [Travis Orbin's pedal setup](https://metalforge.io/pedals/setups
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-09-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

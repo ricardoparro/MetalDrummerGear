@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Tama"
 profile_url: "https://metalforge.io/drummer/blake-richardson"
 source: "https://metalforge.io"
-last_updated: "2026-09-07"
+last_updated: "2026-09-08"
 ---
 
 # Blake Richardson — Drum Kit & Gear Setup
@@ -52,6 +52,13 @@ Richardson's work on landmark albums like "Colors," "The Great Misdirect," and "
 - **Hardware:** Tama Iron Cobra Power Glide Single Pedals (x2), Tama Hardware
 - **Sticks:** Vic Firth American Classic 3A
 - **Heads:** Evans (Hybrid on snare, EMAD on kicks, EC2 SST on toms)
+
+## Endorsements
+
+- [Tama Drums](https://www.tama.com)
+- [Sabian Cymbals](https://www.sabian.com)
+- [Vic Firth Sticks](https://vicfirth.zildjian.com)
+- [Evans Drumheads](https://www.daddario.com/evans)
 
 ## Notable Performances
 
@@ -154,4 +161,4 @@ Full breakdown: [Blake Richardson's pedal setup](https://metalforge.io/pedals/se
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-09-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

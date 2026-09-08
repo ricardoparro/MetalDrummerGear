@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Tama"
 profile_url: "https://metalforge.io/drummer/raymond-herrera"
 source: "https://metalforge.io"
-last_updated: "2026-09-07"
+last_updated: "2026-09-08"
 ---
 
 # Raymond Herrera — Drum Kit & Gear Setup
@@ -55,6 +55,13 @@ His drumming on classic Fear Factory albums like "Demanufacture" (1995) and "Obs
 - **Hardware:** DW 5000 Series Double Pedal, Tama Power Tower Custom Rack, Tama Wide Rider Throne
 - **Sticks:** Pro-Mark 5A Oak Nylon Tip
 - **Heads:** Attack Drumheads
+
+## Endorsements
+
+- [Tama Drums](https://www.tama.com)
+- [Zildjian Cymbals](https://zildjian.com)
+- [Pro-Mark Sticks](https://www.daddario.com/promark)
+- [Attack Drumheads](https://www.universalpercussion.com)
 
 ## Notable Performances
 
@@ -144,4 +151,4 @@ Full breakdown: [Raymond Herrera's pedal setup](https://metalforge.io/pedals/set
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-09-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

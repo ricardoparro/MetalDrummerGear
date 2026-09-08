@@ -6,7 +6,7 @@ country: "France"
 primary_brand: "Tama"
 profile_url: "https://metalforge.io/drummer/mario-duplantier"
 source: "https://metalforge.io"
-last_updated: "2026-09-07"
+last_updated: "2026-09-08"
 ---
 
 # Mario Duplantier — Drum Kit & Gear Setup
@@ -52,6 +52,12 @@ Mario's drumming combines crushing power with technical precision, featuring com
 - **Hardware:** Tama Iron Cobra 900 Power Glide Double Pedal, Tama 1st Chair Ergo-Rider Throne
 - **Sticks:** Tama Mario Duplantier Signature
 - **Heads:** Remo Emperor (toms), Remo Powerstroke 3 (bass drums)
+
+## Endorsements
+
+- [Tama Drums](https://www.tama.com)
+- [Zildjian Cymbals](https://zildjian.com)
+- [Remo Drumheads](https://remo.com)
 
 ## Notable Performances
 
@@ -165,4 +171,4 @@ Full breakdown: [Mario Duplantier's pedal setup](https://metalforge.io/pedals/se
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-09-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

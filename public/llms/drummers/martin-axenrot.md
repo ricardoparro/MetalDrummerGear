@@ -63,6 +63,20 @@ Beyond Opeth, Axenrot has been a core member of death metal supergroup Bloodbath
 - [Pro-Mark Sticks](https://www.promark.com)
 - [Evans Drumheads](https://www.evansdrumheads.com)
 
+## Endorsements
+
+- [DW Drums](https://www.dwdrums.com)
+- [SABIAN Cymbals](https://sabian.com)
+- [Pro-Mark Sticks](https://www.promark.com)
+- [Evans Drumheads](https://www.evansdrumheads.com)
+
+## Endorsements
+
+- [DW Drums](https://www.dwdrums.com)
+- [SABIAN Cymbals](https://sabian.com)
+- [Pro-Mark Sticks](https://www.promark.com)
+- [Evans Drumheads](https://www.evansdrumheads.com)
+
 ## Frequently Asked Questions
 
 **Q: What drum kit does Martin Axenrot play?**
@@ -148,6 +162,18 @@ Full breakdown: [Martin Axenrot's pedal setup](https://metalforge.io/pedals/setu
 
 - Counted in our most-used gear brands study. [Most-Used Drum & Cymbal Brands in Metal](https://metalforge.io/studies/most-used-gear-brands-metal)
 - Counted in our drum endorsement landscape study. [The Drum Endorsement Landscape in Metal](https://metalforge.io/studies/drum-endorsement-landscape)
+
+## Gear Evolution
+
+Full album-by-album gear evolution: [Martin Axenrot's gear evolution timeline](https://metalforge.io/llms/evolution/martin-axenrot.md).
+
+## Gear Price History
+
+Historical gear pricing and value: [Martin Axenrot's gear price history](https://metalforge.io/llms/gear-history/martin-axenrot.md).
+
+## Endorsement History
+
+Dated brand-endorsement timeline: [Martin Axenrot's endorsement history](https://metalforge.io/llms/endorsements/martin-axenrot.md).
 
 ---
 

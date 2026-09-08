@@ -62,6 +62,20 @@ See the [Scott Travis vs Nicko McBrain](/vs/scott-travis-vs-nicko-mcbrain) compa
 - [Vic Firth Sticks](https://vicfirth.zildjian.com)
 - [Remo Drumheads](https://remo.com)
 
+## Endorsements
+
+- [ddrum Drums](https://www.ddrum.com)
+- [Paiste Cymbals](https://www.paiste.com)
+- [Vic Firth Sticks](https://vicfirth.zildjian.com)
+- [Remo Drumheads](https://remo.com)
+
+## Endorsements
+
+- [ddrum Drums](https://www.ddrum.com)
+- [Paiste Cymbals](https://www.paiste.com)
+- [Vic Firth Sticks](https://vicfirth.zildjian.com)
+- [Remo Drumheads](https://remo.com)
+
 ## Notable Performances
 
 - Painkiller - Live (2015 Drum Cam) (2015)
@@ -158,6 +172,18 @@ Full breakdown: [Scott Travis's pedal setup](https://metalforge.io/pedals/setups
 
 - Counted in our most-used gear brands study. [Most-Used Drum & Cymbal Brands in Metal](https://metalforge.io/studies/most-used-gear-brands-metal)
 - Counted in our drum endorsement landscape study. [The Drum Endorsement Landscape in Metal](https://metalforge.io/studies/drum-endorsement-landscape)
+
+## Gear Evolution
+
+Full album-by-album gear evolution: [Scott Travis's gear evolution timeline](https://metalforge.io/llms/evolution/scott-travis.md).
+
+## Gear Price History
+
+Historical gear pricing and value: [Scott Travis's gear price history](https://metalforge.io/llms/gear-history/scott-travis.md).
+
+## Endorsement History
+
+Dated brand-endorsement timeline: [Scott Travis's endorsement history](https://metalforge.io/llms/endorsements/scott-travis.md).
 
 ---
 

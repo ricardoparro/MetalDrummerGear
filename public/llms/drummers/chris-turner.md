@@ -60,6 +60,20 @@ Turner's drumming videos have gone viral on social media, showcasing his ability
 - [Vic Firth Sticks](https://vicfirth.zildjian.com)
 - [Evans Drumheads](https://www.daddario.com/evans)
 
+## Endorsements
+
+- [Tama Drums](https://www.tama.com)
+- [Meinl Cymbals](https://meinlcymbals.com)
+- [Vic Firth Sticks](https://vicfirth.zildjian.com)
+- [Evans Drumheads](https://www.daddario.com/evans)
+
+## Endorsements
+
+- [Tama Drums](https://www.tama.com)
+- [Meinl Cymbals](https://meinlcymbals.com)
+- [Vic Firth Sticks](https://vicfirth.zildjian.com)
+- [Evans Drumheads](https://www.daddario.com/evans)
+
 ## Notable Performances
 
 - Hansha - Drum Playthrough (2022)
@@ -146,6 +160,18 @@ Full breakdown: [Chris Turner's pedal setup](https://metalforge.io/pedals/setups
 
 - Counted in our most-used gear brands study. [Most-Used Drum & Cymbal Brands in Metal](https://metalforge.io/studies/most-used-gear-brands-metal)
 - Counted in our drum endorsement landscape study. [The Drum Endorsement Landscape in Metal](https://metalforge.io/studies/drum-endorsement-landscape)
+
+## Gear Evolution
+
+Full album-by-album gear evolution: [Chris Turner's gear evolution timeline](https://metalforge.io/llms/evolution/chris-turner.md).
+
+## Gear Price History
+
+Historical gear pricing and value: [Chris Turner's gear price history](https://metalforge.io/llms/gear-history/chris-turner.md).
+
+## Endorsement History
+
+Dated brand-endorsement timeline: [Chris Turner's endorsement history](https://metalforge.io/llms/endorsements/chris-turner.md).
 
 ---
 

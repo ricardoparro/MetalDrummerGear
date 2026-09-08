@@ -62,6 +62,20 @@ Hellhammer joined Mayhem in 1988, becoming their most enduring member and the rh
 - [Vic Firth Sticks](https://vicfirth.zildjian.com)
 - [Remo Drumheads](https://www.remo.com)
 
+## Endorsements
+
+- [Sonor Drums](https://www.sonor.com)
+- [Paiste Cymbals](https://www.paiste.com)
+- [Vic Firth Sticks](https://vicfirth.zildjian.com)
+- [Remo Drumheads](https://www.remo.com)
+
+## Endorsements
+
+- [Sonor Drums](https://www.sonor.com)
+- [Paiste Cymbals](https://www.paiste.com)
+- [Vic Firth Sticks](https://vicfirth.zildjian.com)
+- [Remo Drumheads](https://www.remo.com)
+
 ## Notable Performances
 
 - Mayhem - Hellhammer Drumcam 2015 (2015)
@@ -148,6 +162,18 @@ Full breakdown: [Hellhammer's pedal setup](https://metalforge.io/pedals/setups/h
 
 - Counted in our most-used gear brands study. [Most-Used Drum & Cymbal Brands in Metal](https://metalforge.io/studies/most-used-gear-brands-metal)
 - Counted in our drum endorsement landscape study. [The Drum Endorsement Landscape in Metal](https://metalforge.io/studies/drum-endorsement-landscape)
+
+## Gear Evolution
+
+Full album-by-album gear evolution: [Hellhammer's gear evolution timeline](https://metalforge.io/llms/evolution/hellhammer.md).
+
+## Gear Price History
+
+Historical gear pricing and value: [Hellhammer's gear price history](https://metalforge.io/llms/gear-history/hellhammer.md).
+
+## Endorsement History
+
+Dated brand-endorsement timeline: [Hellhammer's endorsement history](https://metalforge.io/llms/endorsements/hellhammer.md).
 
 ---
 

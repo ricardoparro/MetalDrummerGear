@@ -64,6 +64,20 @@ Beyond his work with Nile, Kollias is an accomplished drum educator, having rele
 - [Vic Firth Sticks](https://vicfirth.zildjian.com)
 - [Evans Drumheads](https://www.daddario.com/evans)
 
+## Endorsements
+
+- [Pearl Drums](https://pearldrum.com)
+- [Zildjian Cymbals](https://zildjian.com)
+- [Vic Firth Sticks](https://vicfirth.zildjian.com)
+- [Evans Drumheads](https://www.daddario.com/evans)
+
+## Endorsements
+
+- [Pearl Drums](https://pearldrum.com)
+- [Zildjian Cymbals](https://zildjian.com)
+- [Vic Firth Sticks](https://vicfirth.zildjian.com)
+- [Evans Drumheads](https://www.daddario.com/evans)
+
 ## Notable Performances
 
 - Shall Rise Shall Be Dead (5M views) (2012)
@@ -154,6 +168,18 @@ Full breakdown: [George Kollias's pedal setup](https://metalforge.io/pedals/setu
 
 - Counted in our most-used gear brands study. [Most-Used Drum & Cymbal Brands in Metal](https://metalforge.io/studies/most-used-gear-brands-metal)
 - Counted in our drum endorsement landscape study. [The Drum Endorsement Landscape in Metal](https://metalforge.io/studies/drum-endorsement-landscape)
+
+## Gear Evolution
+
+Full album-by-album gear evolution: [George Kollias's gear evolution timeline](https://metalforge.io/llms/evolution/george-kollias.md).
+
+## Gear Price History
+
+Historical gear pricing and value: [George Kollias's gear price history](https://metalforge.io/llms/gear-history/george-kollias.md).
+
+## Endorsement History
+
+Dated brand-endorsement timeline: [George Kollias's endorsement history](https://metalforge.io/llms/endorsements/george-kollias.md).
 
 ---
 

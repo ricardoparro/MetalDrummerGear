@@ -57,6 +57,18 @@ Kublai Khan TX draws influence from early 1990s metallic hardcore bands like Int
 - [Meinl Cymbals](https://meinlcymbals.com)
 - [Vic Firth Sticks](https://vicfirth.zildjian.com)
 
+## Endorsements
+
+- [SJC Custom Drums](https://www.sjcdrums.com)
+- [Meinl Cymbals](https://meinlcymbals.com)
+- [Vic Firth Sticks](https://vicfirth.zildjian.com)
+
+## Endorsements
+
+- [SJC Custom Drums](https://www.sjcdrums.com)
+- [Meinl Cymbals](https://meinlcymbals.com)
+- [Vic Firth Sticks](https://vicfirth.zildjian.com)
+
 ## Notable Performances
 
 - Kublai Khan TX - Drum Cam (2023)
@@ -121,6 +133,18 @@ Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
 - Counted in our most-used gear brands study. [Most-Used Drum & Cymbal Brands in Metal](https://metalforge.io/studies/most-used-gear-brands-metal)
 - Counted in our drum endorsement landscape study. [The Drum Endorsement Landscape in Metal](https://metalforge.io/studies/drum-endorsement-landscape)
+
+## Gear Evolution
+
+Full album-by-album gear evolution: [Isaac Lamb's gear evolution timeline](https://metalforge.io/llms/evolution/isaac-lamb.md).
+
+## Gear Price History
+
+Historical gear pricing and value: [Isaac Lamb's gear price history](https://metalforge.io/llms/gear-history/isaac-lamb.md).
+
+## Endorsement History
+
+Dated brand-endorsement timeline: [Isaac Lamb's endorsement history](https://metalforge.io/llms/endorsements/isaac-lamb.md).
 
 ---
 

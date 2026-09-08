@@ -64,6 +64,18 @@ He went on to join The HAARP Machine (2012-2013) and technical death metal band 
 - [Evans Drumheads](https://www.daddario.com/evans)
 - [Meinl Cymbals](https://www.meinlcymbals.com)
 
+## Endorsements
+
+- [Tama Drums](https://www.tama.com)
+- [Evans Drumheads](https://www.daddario.com/evans)
+- [Meinl Cymbals](https://www.meinlcymbals.com)
+
+## Endorsements
+
+- [Tama Drums](https://www.tama.com)
+- [Evans Drumheads](https://www.daddario.com/evans)
+- [Meinl Cymbals](https://www.meinlcymbals.com)
+
 ## Notable Performances
 
 - Alex Rudinger (Drum Playthrough) - Cause For Concern (2013)
@@ -123,6 +135,18 @@ Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 ## Study Rankings
 
 - Counted in our most-used gear brands study. [Most-Used Drum & Cymbal Brands in Metal](https://metalforge.io/studies/most-used-gear-brands-metal)
+
+## Gear Evolution
+
+Full album-by-album gear evolution: [Alex Rüdinger's gear evolution timeline](https://metalforge.io/llms/evolution/alex-rudinger.md).
+
+## Gear Price History
+
+Historical gear pricing and value: [Alex Rüdinger's gear price history](https://metalforge.io/llms/gear-history/alex-rudinger.md).
+
+## Endorsement History
+
+Dated brand-endorsement timeline: [Alex Rüdinger's endorsement history](https://metalforge.io/llms/endorsements/alex-rudinger.md).
 
 ---
 

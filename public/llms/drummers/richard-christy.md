@@ -65,6 +65,20 @@ Christy's drumming on Death's final two albums—"The Sound of Perseverance" and
 - [Vic Firth Sticks](https://vicfirth.zildjian.com)
 - [Evans Drumheads](https://www.daddario.com/evans)
 
+## Endorsements
+
+- [Pearl Drums](https://pearldrum.com)
+- [Sabian Cymbals](https://www.sabian.com)
+- [Vic Firth Sticks](https://vicfirth.zildjian.com)
+- [Evans Drumheads](https://www.daddario.com/evans)
+
+## Endorsements
+
+- [Pearl Drums](https://pearldrum.com)
+- [Sabian Cymbals](https://www.sabian.com)
+- [Vic Firth Sticks](https://vicfirth.zildjian.com)
+- [Evans Drumheads](https://www.daddario.com/evans)
+
 ## Notable Performances
 
 - Death Drummer Discussion (2022)
@@ -157,6 +171,18 @@ Full breakdown: [Richard Christy's pedal setup](https://metalforge.io/pedals/set
 
 - Counted in our most-used gear brands study. [Most-Used Drum & Cymbal Brands in Metal](https://metalforge.io/studies/most-used-gear-brands-metal)
 - Counted in our drum endorsement landscape study. [The Drum Endorsement Landscape in Metal](https://metalforge.io/studies/drum-endorsement-landscape)
+
+## Gear Evolution
+
+Full album-by-album gear evolution: [Richard Christy's gear evolution timeline](https://metalforge.io/llms/evolution/richard-christy.md).
+
+## Gear Price History
+
+Historical gear pricing and value: [Richard Christy's gear price history](https://metalforge.io/llms/gear-history/richard-christy.md).
+
+## Endorsement History
+
+Dated brand-endorsement timeline: [Richard Christy's endorsement history](https://metalforge.io/llms/endorsements/richard-christy.md).
 
 ---
 

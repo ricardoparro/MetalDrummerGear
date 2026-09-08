@@ -66,6 +66,20 @@ Before Slayer, Bostaph established his reputation in the Bay Area thrash scene w
 - [Vater Drumsticks](https://www.vater.com)
 - [Remo Drumheads](https://remo.com)
 
+## Endorsements
+
+- [Pearl Drums](https://pearldrum.com)
+- [Sabian Cymbals](https://www.sabian.com)
+- [Vater Drumsticks](https://www.vater.com)
+- [Remo Drumheads](https://remo.com)
+
+## Endorsements
+
+- [Pearl Drums](https://pearldrum.com)
+- [Sabian Cymbals](https://www.sabian.com)
+- [Vater Drumsticks](https://www.vater.com)
+- [Remo Drumheads](https://remo.com)
+
 ## Notable Performances
 
 - Slayer - Disciple (Drum Cam, Paso Robles) (2017)
@@ -146,6 +160,18 @@ Full breakdown: [Paul Bostaph's pedal setup](https://metalforge.io/pedals/setups
 ## Study Rankings
 
 - Counted in our most-used gear brands study. [Most-Used Drum & Cymbal Brands in Metal](https://metalforge.io/studies/most-used-gear-brands-metal)
+
+## Gear Evolution
+
+Full album-by-album gear evolution: [Paul Bostaph's gear evolution timeline](https://metalforge.io/llms/evolution/paul-bostaph.md).
+
+## Gear Price History
+
+Historical gear pricing and value: [Paul Bostaph's gear price history](https://metalforge.io/llms/gear-history/paul-bostaph.md).
+
+## Endorsement History
+
+Dated brand-endorsement timeline: [Paul Bostaph's endorsement history](https://metalforge.io/llms/endorsements/paul-bostaph.md).
 
 ---
 

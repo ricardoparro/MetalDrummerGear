@@ -59,6 +59,18 @@ Garstka joined Animals as Leaders after the departure of original drummer Navene
 - [Meinl Cymbals](https://meinlcymbals.com)
 - [Vic Firth Sticks](https://vicfirth.zildjian.com)
 
+## Endorsements
+
+- [DW Drums](https://www.dwdrums.com)
+- [Meinl Cymbals](https://meinlcymbals.com)
+- [Vic Firth Sticks](https://vicfirth.zildjian.com)
+
+## Endorsements
+
+- [DW Drums](https://www.dwdrums.com)
+- [Meinl Cymbals](https://meinlcymbals.com)
+- [Vic Firth Sticks](https://vicfirth.zildjian.com)
+
 ## Notable Performances
 
 - Animals as Leaders - Physical Education (Drum Playthrough) (2014)
@@ -144,6 +156,18 @@ Full breakdown: [Matt Garstka's pedal setup](https://metalforge.io/pedals/setups
 
 - Counted in our most-used gear brands study. [Most-Used Drum & Cymbal Brands in Metal](https://metalforge.io/studies/most-used-gear-brands-metal)
 - Counted in our drum endorsement landscape study. [The Drum Endorsement Landscape in Metal](https://metalforge.io/studies/drum-endorsement-landscape)
+
+## Gear Evolution
+
+Full album-by-album gear evolution: [Matt Garstka's gear evolution timeline](https://metalforge.io/llms/evolution/matt-garstka.md).
+
+## Gear Price History
+
+Historical gear pricing and value: [Matt Garstka's gear price history](https://metalforge.io/llms/gear-history/matt-garstka.md).
+
+## Endorsement History
+
+Dated brand-endorsement timeline: [Matt Garstka's endorsement history](https://metalforge.io/llms/endorsements/matt-garstka.md).
 
 ---
 

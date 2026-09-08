@@ -63,6 +63,20 @@ His drumming on classic Fear Factory albums like "Demanufacture" (1995) and "Obs
 - [Pro-Mark Sticks](https://www.daddario.com/promark)
 - [Attack Drumheads](https://www.universalpercussion.com)
 
+## Endorsements
+
+- [Tama Drums](https://www.tama.com)
+- [Zildjian Cymbals](https://zildjian.com)
+- [Pro-Mark Sticks](https://www.daddario.com/promark)
+- [Attack Drumheads](https://www.universalpercussion.com)
+
+## Endorsements
+
+- [Tama Drums](https://www.tama.com)
+- [Zildjian Cymbals](https://zildjian.com)
+- [Pro-Mark Sticks](https://www.daddario.com/promark)
+- [Attack Drumheads](https://www.universalpercussion.com)
+
 ## Notable Performances
 
 - Zero Signal - Drum Performance (2018)
@@ -144,6 +158,18 @@ Full breakdown: [Raymond Herrera's pedal setup](https://metalforge.io/pedals/set
 ## Study Rankings
 
 - Counted in our most-used gear brands study. [Most-Used Drum & Cymbal Brands in Metal](https://metalforge.io/studies/most-used-gear-brands-metal)
+
+## Gear Evolution
+
+Full album-by-album gear evolution: [Raymond Herrera's gear evolution timeline](https://metalforge.io/llms/evolution/raymond-herrera.md).
+
+## Gear Price History
+
+Historical gear pricing and value: [Raymond Herrera's gear price history](https://metalforge.io/llms/gear-history/raymond-herrera.md).
+
+## Endorsement History
+
+Dated brand-endorsement timeline: [Raymond Herrera's endorsement history](https://metalforge.io/llms/endorsements/raymond-herrera.md).
 
 ---
 

@@ -65,6 +65,24 @@ Weinberg's career spans diverse genres: from substituting for his father with Br
 - [DW Hardware](https://www.dwdrums.com)
 - [Roland Electronics](https://www.roland.com)
 
+## Endorsements
+
+- [SJC Custom Drums](https://www.sjcdrums.com)
+- [Zildjian Cymbals](https://zildjian.com)
+- [Vater Drumsticks](https://www.vater.com)
+- [Evans Drumheads](https://www.daddario.com/evans)
+- [DW Hardware](https://www.dwdrums.com)
+- [Roland Electronics](https://www.roland.com)
+
+## Endorsements
+
+- [SJC Custom Drums](https://www.sjcdrums.com)
+- [Zildjian Cymbals](https://zildjian.com)
+- [Vater Drumsticks](https://www.vater.com)
+- [Evans Drumheads](https://www.daddario.com/evans)
+- [DW Hardware](https://www.dwdrums.com)
+- [Roland Electronics](https://www.roland.com)
+
 ## Notable Performances
 
 - Unsainted - Zildjian Performance (15M views) (2019)
@@ -147,6 +165,18 @@ Full breakdown: [Jay Weinberg's pedal setup](https://metalforge.io/pedals/setups
 ## Study Rankings
 
 - Counted in our most-used gear brands study. [Most-Used Drum & Cymbal Brands in Metal](https://metalforge.io/studies/most-used-gear-brands-metal)
+
+## Gear Evolution
+
+Full album-by-album gear evolution: [Jay Weinberg's gear evolution timeline](https://metalforge.io/llms/evolution/jay-weinberg.md).
+
+## Gear Price History
+
+Historical gear pricing and value: [Jay Weinberg's gear price history](https://metalforge.io/llms/gear-history/jay-weinberg.md).
+
+## Endorsement History
+
+Dated brand-endorsement timeline: [Jay Weinberg's endorsement history](https://metalforge.io/llms/endorsements/jay-weinberg.md).
 
 ---
 

@@ -62,6 +62,20 @@ Frost is renowned for his blistering speed, metronomic precision, and seemingly 
 - [Vic Firth Sticks](https://vicfirth.zildjian.com)
 - [Remo Drumheads](https://remo.com)
 
+## Endorsements
+
+- [Tama Drums](https://www.tama.com)
+- [Zildjian Cymbals](https://zildjian.com)
+- [Vic Firth Sticks](https://vicfirth.zildjian.com)
+- [Remo Drumheads](https://remo.com)
+
+## Endorsements
+
+- [Tama Drums](https://www.tama.com)
+- [Zildjian Cymbals](https://zildjian.com)
+- [Vic Firth Sticks](https://vicfirth.zildjian.com)
+- [Remo Drumheads](https://remo.com)
+
 ## Notable Performances
 
 - Satyricon Drumming (2020)
@@ -155,6 +169,18 @@ Full breakdown: [Frost's pedal setup](https://metalforge.io/pedals/setups/frost)
 
 - Counted in our most-used gear brands study. [Most-Used Drum & Cymbal Brands in Metal](https://metalforge.io/studies/most-used-gear-brands-metal)
 - Counted in our drum endorsement landscape study. [The Drum Endorsement Landscape in Metal](https://metalforge.io/studies/drum-endorsement-landscape)
+
+## Gear Evolution
+
+Full album-by-album gear evolution: [Frost's gear evolution timeline](https://metalforge.io/llms/evolution/frost.md).
+
+## Gear Price History
+
+Historical gear pricing and value: [Frost's gear price history](https://metalforge.io/llms/gear-history/frost.md).
+
+## Endorsement History
+
+Dated brand-endorsement timeline: [Frost's endorsement history](https://metalforge.io/llms/endorsements/frost.md).
 
 ---
 

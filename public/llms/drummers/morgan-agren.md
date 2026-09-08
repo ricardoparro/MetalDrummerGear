@@ -58,6 +58,20 @@ Morgan Ågren (born November 4, 1967, in Umeå, Sweden) is a Swedish drummer and
 - [Vic Firth Sticks](https://vicfirth.zildjian.com)
 - [Remo Drumheads](https://remo.com)
 
+## Endorsements
+
+- [Sonor Drums](https://www.sonor.com)
+- [Paiste Cymbals](https://www.paiste.com)
+- [Vic Firth Sticks](https://vicfirth.zildjian.com)
+- [Remo Drumheads](https://remo.com)
+
+## Endorsements
+
+- [Sonor Drums](https://www.sonor.com)
+- [Paiste Cymbals](https://www.paiste.com)
+- [Vic Firth Sticks](https://vicfirth.zildjian.com)
+- [Remo Drumheads](https://remo.com)
+
 ## Notable Performances
 
 - Morgan Ågren - Performance (2019)
@@ -140,6 +154,18 @@ Full breakdown: [Morgan Ågren's pedal setup](https://metalforge.io/pedals/setup
 
 - Counted in our most-used gear brands study. [Most-Used Drum & Cymbal Brands in Metal](https://metalforge.io/studies/most-used-gear-brands-metal)
 - Counted in our drum endorsement landscape study. [The Drum Endorsement Landscape in Metal](https://metalforge.io/studies/drum-endorsement-landscape)
+
+## Gear Evolution
+
+Full album-by-album gear evolution: [Morgan Ågren's gear evolution timeline](https://metalforge.io/llms/evolution/morgan-agren.md).
+
+## Gear Price History
+
+Historical gear pricing and value: [Morgan Ågren's gear price history](https://metalforge.io/llms/gear-history/morgan-agren.md).
+
+## Endorsement History
+
+Dated brand-endorsement timeline: [Morgan Ågren's endorsement history](https://metalforge.io/llms/endorsements/morgan-agren.md).
 
 ---
 

@@ -76,6 +76,20 @@ Ulrich was the first Danish-born musician inducted into the Rock and Roll Hall o
 - [Ahead Drumsticks](https://www.aheaddrumsticks.com)
 - [Remo Drumheads](https://remo.com)
 
+## Endorsements
+
+- [Tama Drums](https://www.tama.com)
+- [Zildjian Cymbals](https://zildjian.com)
+- [Ahead Drumsticks](https://www.aheaddrumsticks.com)
+- [Remo Drumheads](https://remo.com)
+
+## Endorsements
+
+- [Tama Drums](https://www.tama.com)
+- [Zildjian Cymbals](https://zildjian.com)
+- [Ahead Drumsticks](https://www.aheaddrumsticks.com)
+- [Remo Drumheads](https://remo.com)
+
 ## Notable Performances
 
 - Sad But True - Drum Cam (Amsterdam 2023) (2023)
@@ -174,6 +188,18 @@ Full breakdown: [Lars Ulrich's pedal setup](https://metalforge.io/pedals/setups/
 ## Study Rankings
 
 - Counted in our most-used gear brands study. [Most-Used Drum & Cymbal Brands in Metal](https://metalforge.io/studies/most-used-gear-brands-metal)
+
+## Gear Evolution
+
+Full album-by-album gear evolution: [Lars Ulrich's gear evolution timeline](https://metalforge.io/llms/evolution/lars-ulrich.md).
+
+## Gear Price History
+
+Historical gear pricing and value: [Lars Ulrich's gear price history](https://metalforge.io/llms/gear-history/lars-ulrich.md).
+
+## Endorsement History
+
+Dated brand-endorsement timeline: [Lars Ulrich's endorsement history](https://metalforge.io/llms/endorsements/lars-ulrich.md).
 
 ---
 

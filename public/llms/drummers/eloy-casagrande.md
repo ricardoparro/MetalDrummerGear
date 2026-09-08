@@ -62,6 +62,20 @@ Starting drums at age 7 and joining Sepultura at just 19, Casagrande represented
 - [Promark Sticks](https://www.daddario.com/promark)
 - [Evans Drumheads](https://www.daddario.com/evans)
 
+## Endorsements
+
+- [Tama Drums](https://www.tama.com)
+- [Paiste Cymbals](https://www.paiste.com)
+- [Promark Sticks](https://www.daddario.com/promark)
+- [Evans Drumheads](https://www.daddario.com/evans)
+
+## Endorsements
+
+- [Tama Drums](https://www.tama.com)
+- [Paiste Cymbals](https://www.paiste.com)
+- [Promark Sticks](https://www.daddario.com/promark)
+- [Evans Drumheads](https://www.daddario.com/evans)
+
 ## Notable Performances
 
 - Desperate Cry - Sepultura (3.3M views) (2017)
@@ -151,6 +165,18 @@ Full breakdown: [Eloy Casagrande's pedal setup](https://metalforge.io/pedals/set
 ## Study Rankings
 
 - Counted in our most-used gear brands study. [Most-Used Drum & Cymbal Brands in Metal](https://metalforge.io/studies/most-used-gear-brands-metal)
+
+## Gear Evolution
+
+Full album-by-album gear evolution: [Eloy Casagrande's gear evolution timeline](https://metalforge.io/llms/evolution/eloy-casagrande.md).
+
+## Gear Price History
+
+Historical gear pricing and value: [Eloy Casagrande's gear price history](https://metalforge.io/llms/gear-history/eloy-casagrande.md).
+
+## Endorsement History
+
+Dated brand-endorsement timeline: [Eloy Casagrande's endorsement history](https://metalforge.io/llms/endorsements/eloy-casagrande.md).
 
 ---
 

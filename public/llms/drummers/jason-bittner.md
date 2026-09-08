@@ -63,6 +63,20 @@ Bittner rose to prominence with Shadows Fall during the early 2000s metalcore ex
 - [Promark Sticks](https://www.daddario.com/promark)
 - [Evans Drumheads](https://www.daddario.com/evans)
 
+## Endorsements
+
+- [Mapex Drums](https://www.mapexdrums.com)
+- [Zildjian Cymbals](https://zildjian.com)
+- [Promark Sticks](https://www.daddario.com/promark)
+- [Evans Drumheads](https://www.daddario.com/evans)
+
+## Endorsements
+
+- [Mapex Drums](https://www.mapexdrums.com)
+- [Zildjian Cymbals](https://zildjian.com)
+- [Promark Sticks](https://www.daddario.com/promark)
+- [Evans Drumheads](https://www.daddario.com/evans)
+
 ## Notable Performances
 
 - Mean Green Killing Machine - Drum Performance (2019)
@@ -154,6 +168,18 @@ Full breakdown: [Jason Bittner's pedal setup](https://metalforge.io/pedals/setup
 ## Study Rankings
 
 - Counted in our most-used gear brands study. [Most-Used Drum & Cymbal Brands in Metal](https://metalforge.io/studies/most-used-gear-brands-metal)
+
+## Gear Evolution
+
+Full album-by-album gear evolution: [Jason Bittner's gear evolution timeline](https://metalforge.io/llms/evolution/jason-bittner.md).
+
+## Gear Price History
+
+Historical gear pricing and value: [Jason Bittner's gear price history](https://metalforge.io/llms/gear-history/jason-bittner.md).
+
+## Endorsement History
+
+Dated brand-endorsement timeline: [Jason Bittner's endorsement history](https://metalforge.io/llms/endorsements/jason-bittner.md).
 
 ---
 

@@ -64,6 +64,24 @@ Orbin's technical prowess, creative use of polyrhythms, and ability to navigate 
 - [Roland Electronics](https://www.roland.com)
 - [DW Hardware](https://www.dwdrums.com)
 
+## Endorsements
+
+- [SJC Custom Drums](https://www.sjcdrums.com)
+- [Zildjian Cymbals](https://zildjian.com)
+- [Vic Firth Sticks](https://vicfirth.zildjian.com)
+- [Evans Drumheads](https://www.daddario.com/evans)
+- [Roland Electronics](https://www.roland.com)
+- [DW Hardware](https://www.dwdrums.com)
+
+## Endorsements
+
+- [SJC Custom Drums](https://www.sjcdrums.com)
+- [Zildjian Cymbals](https://zildjian.com)
+- [Vic Firth Sticks](https://vicfirth.zildjian.com)
+- [Evans Drumheads](https://www.daddario.com/evans)
+- [Roland Electronics](https://www.roland.com)
+- [DW Hardware](https://www.dwdrums.com)
+
 ## Notable Performances
 
 - Zyglrox - Periphery Playalong (2017)
@@ -148,6 +166,18 @@ Full breakdown: [Travis Orbin's pedal setup](https://metalforge.io/pedals/setups
 
 - Counted in our most-used gear brands study. [Most-Used Drum & Cymbal Brands in Metal](https://metalforge.io/studies/most-used-gear-brands-metal)
 - Counted in our drum endorsement landscape study. [The Drum Endorsement Landscape in Metal](https://metalforge.io/studies/drum-endorsement-landscape)
+
+## Gear Evolution
+
+Full album-by-album gear evolution: [Travis Orbin's gear evolution timeline](https://metalforge.io/llms/evolution/travis-orbin.md).
+
+## Gear Price History
+
+Historical gear pricing and value: [Travis Orbin's gear price history](https://metalforge.io/llms/gear-history/travis-orbin.md).
+
+## Endorsement History
+
+Dated brand-endorsement timeline: [Travis Orbin's endorsement history](https://metalforge.io/llms/endorsements/travis-orbin.md).
 
 ---
 

@@ -66,6 +66,20 @@ His work on landmark albums such as "Reign in Blood," "South of Heaven," and "Se
 - [Promark Sticks](https://www.daddario.com/promark)
 - [Evans Drumheads](https://www.daddario.com/evans)
 
+## Endorsements
+
+- [Tama Drums](https://www.tama.com)
+- [Paiste Cymbals](https://www.paiste.com)
+- [Promark Sticks](https://www.daddario.com/promark)
+- [Evans Drumheads](https://www.daddario.com/evans)
+
+## Endorsements
+
+- [Tama Drums](https://www.tama.com)
+- [Paiste Cymbals](https://www.paiste.com)
+- [Promark Sticks](https://www.daddario.com/promark)
+- [Evans Drumheads](https://www.daddario.com/evans)
+
 ## Notable Performances
 
 - War Ensemble - Drum Cam (Yankee Stadium, Official) (2010)
@@ -170,6 +184,18 @@ Full breakdown: [Dave Lombardo's pedal setup](https://metalforge.io/pedals/setup
 ## Study Rankings
 
 - Counted in our most-used gear brands study. [Most-Used Drum & Cymbal Brands in Metal](https://metalforge.io/studies/most-used-gear-brands-metal)
+
+## Gear Evolution
+
+Full album-by-album gear evolution: [Dave Lombardo's gear evolution timeline](https://metalforge.io/llms/evolution/dave-lombardo.md).
+
+## Gear Price History
+
+Historical gear pricing and value: [Dave Lombardo's gear price history](https://metalforge.io/llms/gear-history/dave-lombardo.md).
+
+## Endorsement History
+
+Dated brand-endorsement timeline: [Dave Lombardo's endorsement history](https://metalforge.io/llms/endorsements/dave-lombardo.md).
 
 ---
 

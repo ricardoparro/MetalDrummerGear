@@ -65,6 +65,18 @@ See the [Mike Mangini vs Gavin Harrison](/vs/gavin-harrison-vs-mike-mangini) com
 - [Sabian Cymbals](https://www.sabian.com)
 - [Vater Sticks](https://vater.com)
 
+## Endorsements
+
+- [Pearl Drums](https://pearldrum.com)
+- [Sabian Cymbals](https://www.sabian.com)
+- [Vater Sticks](https://vater.com)
+
+## Endorsements
+
+- [Pearl Drums](https://pearldrum.com)
+- [Sabian Cymbals](https://www.sabian.com)
+- [Vater Sticks](https://vater.com)
+
 ## Notable Performances
 
 - Its Noise - Live at Sweetwater Studios (2023)
@@ -153,6 +165,18 @@ Full breakdown: [Mike Mangini's pedal setup](https://metalforge.io/pedals/setups
 ## Study Rankings
 
 - Counted in our most-used gear brands study. [Most-Used Drum & Cymbal Brands in Metal](https://metalforge.io/studies/most-used-gear-brands-metal)
+
+## Gear Evolution
+
+Full album-by-album gear evolution: [Mike Mangini's gear evolution timeline](https://metalforge.io/llms/evolution/mike-mangini.md).
+
+## Gear Price History
+
+Historical gear pricing and value: [Mike Mangini's gear price history](https://metalforge.io/llms/gear-history/mike-mangini.md).
+
+## Endorsement History
+
+Dated brand-endorsement timeline: [Mike Mangini's endorsement history](https://metalforge.io/llms/endorsements/mike-mangini.md).
 
 ---
 

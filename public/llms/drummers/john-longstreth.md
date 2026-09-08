@@ -64,6 +64,22 @@ Pearl endorsement confirmed via his own Scorpion Percussion artist bio; specific
 - [ACD Unlimited](https://www.acd-unlimited.at)
 - [FootBlaster](https://footblaster.com)
 
+## Endorsements
+
+- [Pearl Drums](https://pearldrum.com)
+- [Meinl Cymbals](https://meinlcymbals.com)
+- [Scorpion Percussion](https://scorpionpercussion.com)
+- [ACD Unlimited](https://www.acd-unlimited.at)
+- [FootBlaster](https://footblaster.com)
+
+## Endorsements
+
+- [Pearl Drums](https://pearldrum.com)
+- [Meinl Cymbals](https://meinlcymbals.com)
+- [Scorpion Percussion](https://scorpionpercussion.com)
+- [ACD Unlimited](https://www.acd-unlimited.at)
+- [FootBlaster](https://footblaster.com)
+
 ## Notable Performances
 
 - Origin-John Longstreth Drum Cam at M.O.D 2010- Staring from the Abyss (2010)
@@ -133,6 +149,18 @@ Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 ## Study Rankings
 
 - Counted in our most-used gear brands study. [Most-Used Drum & Cymbal Brands in Metal](https://metalforge.io/studies/most-used-gear-brands-metal)
+
+## Gear Evolution
+
+Full album-by-album gear evolution: [John Longstreth's gear evolution timeline](https://metalforge.io/llms/evolution/john-longstreth.md).
+
+## Gear Price History
+
+Historical gear pricing and value: [John Longstreth's gear price history](https://metalforge.io/llms/gear-history/john-longstreth.md).
+
+## Endorsement History
+
+Dated brand-endorsement timeline: [John Longstreth's endorsement history](https://metalforge.io/llms/endorsements/john-longstreth.md).
 
 ---
 

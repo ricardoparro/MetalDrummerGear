@@ -59,6 +59,18 @@ Mario's drumming combines crushing power with technical precision, featuring com
 - [Zildjian Cymbals](https://zildjian.com)
 - [Remo Drumheads](https://remo.com)
 
+## Endorsements
+
+- [Tama Drums](https://www.tama.com)
+- [Zildjian Cymbals](https://zildjian.com)
+- [Remo Drumheads](https://remo.com)
+
+## Endorsements
+
+- [Tama Drums](https://www.tama.com)
+- [Zildjian Cymbals](https://zildjian.com)
+- [Remo Drumheads](https://remo.com)
+
 ## Notable Performances
 
 - Gojira - Silvera (Live Drum Cam) (2017)
@@ -164,6 +176,18 @@ Full breakdown: [Mario Duplantier's pedal setup](https://metalforge.io/pedals/se
 ## Study Rankings
 
 - Counted in our most-used gear brands study. [Most-Used Drum & Cymbal Brands in Metal](https://metalforge.io/studies/most-used-gear-brands-metal)
+
+## Gear Evolution
+
+Full album-by-album gear evolution: [Mario Duplantier's gear evolution timeline](https://metalforge.io/llms/evolution/mario-duplantier.md).
+
+## Gear Price History
+
+Historical gear pricing and value: [Mario Duplantier's gear price history](https://metalforge.io/llms/gear-history/mario-duplantier.md).
+
+## Endorsement History
+
+Dated brand-endorsement timeline: [Mario Duplantier's endorsement history](https://metalforge.io/llms/endorsements/mario-duplantier.md).
 
 ---
 

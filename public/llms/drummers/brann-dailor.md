@@ -61,6 +61,20 @@ Dailor's drumming is characterized by constant motion—intricate fills that wea
 - [Vater Drumsticks](https://www.vater.com)
 - [Evans Drumheads](https://www.daddario.com/evans)
 
+## Endorsements
+
+- [Tama Drums](https://www.tama.com)
+- [Meinl Cymbals](https://meinlcymbals.com)
+- [Vater Drumsticks](https://www.vater.com)
+- [Evans Drumheads](https://www.daddario.com/evans)
+
+## Endorsements
+
+- [Tama Drums](https://www.tama.com)
+- [Meinl Cymbals](https://meinlcymbals.com)
+- [Vater Drumsticks](https://www.vater.com)
+- [Evans Drumheads](https://www.daddario.com/evans)
+
 ## Notable Performances
 
 - Mastodon - Blood and Thunder (Meinl Cymbals) (2012)
@@ -121,6 +135,18 @@ Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 ## Study Rankings
 
 - Counted in our most-used gear brands study. [Most-Used Drum & Cymbal Brands in Metal](https://metalforge.io/studies/most-used-gear-brands-metal)
+
+## Gear Evolution
+
+Full album-by-album gear evolution: [Brann Dailor's gear evolution timeline](https://metalforge.io/llms/evolution/brann-dailor.md).
+
+## Gear Price History
+
+Historical gear pricing and value: [Brann Dailor's gear price history](https://metalforge.io/llms/gear-history/brann-dailor.md).
+
+## Endorsement History
+
+Dated brand-endorsement timeline: [Brann Dailor's endorsement history](https://metalforge.io/llms/endorsements/brann-dailor.md).
 
 ---
 

@@ -59,6 +59,20 @@ A graduate of Berklee College of Music, Halpern brings academic rigor to his dru
 - [ProMark Sticks](https://www.daddario.com/promark)
 - [Evans Drumheads](https://www.daddario.com/evans)
 
+## Endorsements
+
+- [Pearl Drums](https://pearldrum.com)
+- [Meinl Cymbals](https://meinlcymbals.com)
+- [ProMark Sticks](https://www.daddario.com/promark)
+- [Evans Drumheads](https://www.daddario.com/evans)
+
+## Endorsements
+
+- [Pearl Drums](https://pearldrum.com)
+- [Meinl Cymbals](https://meinlcymbals.com)
+- [ProMark Sticks](https://www.daddario.com/promark)
+- [Evans Drumheads](https://www.daddario.com/evans)
+
 ## Notable Performances
 
 - Periphery - The Bad Thing (Drum Playthrough) (2019)
@@ -119,6 +133,18 @@ Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 ## Study Rankings
 
 - Counted in our most-used gear brands study. [Most-Used Drum & Cymbal Brands in Metal](https://metalforge.io/studies/most-used-gear-brands-metal)
+
+## Gear Evolution
+
+Full album-by-album gear evolution: [Matt Halpern's gear evolution timeline](https://metalforge.io/llms/evolution/matt-halpern.md).
+
+## Gear Price History
+
+Historical gear pricing and value: [Matt Halpern's gear price history](https://metalforge.io/llms/gear-history/matt-halpern.md).
+
+## Endorsement History
+
+Dated brand-endorsement timeline: [Matt Halpern's endorsement history](https://metalforge.io/llms/endorsements/matt-halpern.md).
 
 ---
 

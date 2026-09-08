@@ -66,6 +66,20 @@ Erlandsson is the brother of Arch Enemy's Daniel Erlandsson; both are prominent 
 - [Vic Firth Sticks](https://vicfirth.zildjian.com)
 - [Evans Drumheads](https://www.evansdrumheads.com)
 
+## Endorsements
+
+- [Tama Drums](https://www.tama.com)
+- [Sabian Cymbals](https://www.sabian.com)
+- [Vic Firth Sticks](https://vicfirth.zildjian.com)
+- [Evans Drumheads](https://www.evansdrumheads.com)
+
+## Endorsements
+
+- [Tama Drums](https://www.tama.com)
+- [Sabian Cymbals](https://www.sabian.com)
+- [Vic Firth Sticks](https://vicfirth.zildjian.com)
+- [Evans Drumheads](https://www.evansdrumheads.com)
+
 ## Notable Performances
 
 - At The Gates - Blinded By Fear [Official Video] (1995)
@@ -144,6 +158,18 @@ Full breakdown: [Adrian Erlandsson's pedal setup](https://metalforge.io/pedals/s
 
 - Counted in our most-used gear brands study. [Most-Used Drum & Cymbal Brands in Metal](https://metalforge.io/studies/most-used-gear-brands-metal)
 - Counted in our drum endorsement landscape study. [The Drum Endorsement Landscape in Metal](https://metalforge.io/studies/drum-endorsement-landscape)
+
+## Gear Evolution
+
+Full album-by-album gear evolution: [Adrian Erlandsson's gear evolution timeline](https://metalforge.io/llms/evolution/adrian-erlandsson.md).
+
+## Gear Price History
+
+Historical gear pricing and value: [Adrian Erlandsson's gear price history](https://metalforge.io/llms/gear-history/adrian-erlandsson.md).
+
+## Endorsement History
+
+Dated brand-endorsement timeline: [Adrian Erlandsson's endorsement history](https://metalforge.io/llms/endorsements/adrian-erlandsson.md).
 
 ---
 

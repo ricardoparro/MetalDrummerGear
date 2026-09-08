@@ -64,6 +64,20 @@ Beyond his drumming career, Koperweis is a prolific producer and electronic arti
 - [Vic Firth Sticks](https://vicfirth.zildjian.com)
 - [Evans Drumheads](https://www.daddario.com/evans)
 
+## Endorsements
+
+- [DW Drums](https://www.dwdrums.com)
+- [Meinl Cymbals](https://meinlcymbals.com)
+- [Vic Firth Sticks](https://vicfirth.zildjian.com)
+- [Evans Drumheads](https://www.daddario.com/evans)
+
+## Endorsements
+
+- [DW Drums](https://www.dwdrums.com)
+- [Meinl Cymbals](https://meinlcymbals.com)
+- [Vic Firth Sticks](https://vicfirth.zildjian.com)
+- [Evans Drumheads](https://www.daddario.com/evans)
+
 ## Notable Performances
 
 - Navene Koperweis - ENTHEOS - All For Nothing (Live Drum Performance) (2024)
@@ -147,6 +161,18 @@ Full breakdown: [Navene Koperweis's pedal setup](https://metalforge.io/pedals/se
 
 - Counted in our most-used gear brands study. [Most-Used Drum & Cymbal Brands in Metal](https://metalforge.io/studies/most-used-gear-brands-metal)
 - Counted in our drum endorsement landscape study. [The Drum Endorsement Landscape in Metal](https://metalforge.io/studies/drum-endorsement-landscape)
+
+## Gear Evolution
+
+Full album-by-album gear evolution: [Navene Koperweis's gear evolution timeline](https://metalforge.io/llms/evolution/navene-koperweis.md).
+
+## Gear Price History
+
+Historical gear pricing and value: [Navene Koperweis's gear price history](https://metalforge.io/llms/gear-history/navene-koperweis.md).
+
+## Endorsement History
+
+Dated brand-endorsement timeline: [Navene Koperweis's endorsement history](https://metalforge.io/llms/endorsements/navene-koperweis.md).
 
 ---
 

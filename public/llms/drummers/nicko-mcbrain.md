@@ -62,6 +62,20 @@ See the [Nicko McBrain vs Scott Travis](/vs/scott-travis-vs-nicko-mcbrain) compa
 - [Vic Firth Sticks](https://vicfirth.zildjian.com)
 - [Remo Drumheads](https://remo.com)
 
+## Endorsements
+
+- [British Drum Co.](https://www.britishdrumco.com/artists/nicko-mcbrain)
+- [Paiste Cymbals](https://www.paiste.com)
+- [Vic Firth Sticks](https://vicfirth.zildjian.com)
+- [Remo Drumheads](https://remo.com)
+
+## Endorsements
+
+- [British Drum Co.](https://www.britishdrumco.com/artists/nicko-mcbrain)
+- [Paiste Cymbals](https://www.paiste.com)
+- [Vic Firth Sticks](https://vicfirth.zildjian.com)
+- [Remo Drumheads](https://remo.com)
+
 ## Notable Performances
 
 - The Trooper - Drum Cam (En Vivo 2012) (2012)
@@ -158,6 +172,18 @@ Full breakdown: [Nicko McBrain's pedal setup](https://metalforge.io/pedals/setup
 
 - Counted in our most-used gear brands study. [Most-Used Drum & Cymbal Brands in Metal](https://metalforge.io/studies/most-used-gear-brands-metal)
 - Counted in our drum endorsement landscape study. [The Drum Endorsement Landscape in Metal](https://metalforge.io/studies/drum-endorsement-landscape)
+
+## Gear Evolution
+
+Full album-by-album gear evolution: [Nicko McBrain's gear evolution timeline](https://metalforge.io/llms/evolution/nicko-mcbrain.md).
+
+## Gear Price History
+
+Historical gear pricing and value: [Nicko McBrain's gear price history](https://metalforge.io/llms/gear-history/nicko-mcbrain.md).
+
+## Endorsement History
+
+Dated brand-endorsement timeline: [Nicko McBrain's endorsement history](https://metalforge.io/llms/endorsements/nicko-mcbrain.md).
 
 ---
 

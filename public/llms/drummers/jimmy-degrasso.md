@@ -65,6 +65,20 @@ Hardware/pedal brand not independently confirmed — omitted rather than guessed
 - [Promark Sticks](https://www.daddario.com/promark)
 - [Evans Drumheads](https://www.daddario.com/evans)
 
+## Endorsements
+
+- [Pearl Drums](https://pearldrum.com)
+- [Sabian Cymbals](https://sabian.com)
+- [Promark Sticks](https://www.daddario.com/promark)
+- [Evans Drumheads](https://www.daddario.com/evans)
+
+## Endorsements
+
+- [Pearl Drums](https://pearldrum.com)
+- [Sabian Cymbals](https://sabian.com)
+- [Promark Sticks](https://www.daddario.com/promark)
+- [Evans Drumheads](https://www.daddario.com/evans)
+
 ## Notable Performances
 
 - Jimmy DeGrasso (Megadeth) Interview with Jason Saulnier (2012)
@@ -122,6 +136,18 @@ Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 ## Study Rankings
 
 - Counted in our most-used gear brands study. [Most-Used Drum & Cymbal Brands in Metal](https://metalforge.io/studies/most-used-gear-brands-metal)
+
+## Gear Evolution
+
+Full album-by-album gear evolution: [Jimmy DeGrasso's gear evolution timeline](https://metalforge.io/llms/evolution/jimmy-degrasso.md).
+
+## Gear Price History
+
+Historical gear pricing and value: [Jimmy DeGrasso's gear price history](https://metalforge.io/llms/gear-history/jimmy-degrasso.md).
+
+## Endorsement History
+
+Dated brand-endorsement timeline: [Jimmy DeGrasso's endorsement history](https://metalforge.io/llms/endorsements/jimmy-degrasso.md).
 
 ---
 

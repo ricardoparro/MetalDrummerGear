@@ -61,6 +61,20 @@ Inferno's drumming combines blistering speed with surgical precision, delivering
 - [Vic Firth Sticks](https://vicfirth.zildjian.com)
 - [Evans Drumheads](https://www.daddario.com/evans)
 
+## Endorsements
+
+- [Pearl Drums](https://pearldrum.com)
+- [Paiste Cymbals](https://www.paiste.com)
+- [Vic Firth Sticks](https://vicfirth.zildjian.com)
+- [Evans Drumheads](https://www.daddario.com/evans)
+
+## Endorsements
+
+- [Pearl Drums](https://pearldrum.com)
+- [Paiste Cymbals](https://www.paiste.com)
+- [Vic Firth Sticks](https://vicfirth.zildjian.com)
+- [Evans Drumheads](https://www.daddario.com/evans)
+
 ## Notable Performances
 
 - Behemoth - Blow Your Trumpets Gabriel (Live Drum Cam) (2018)
@@ -154,6 +168,18 @@ Full breakdown: [Inferno's pedal setup](https://metalforge.io/pedals/setups/infe
 
 - Counted in our most-used gear brands study. [Most-Used Drum & Cymbal Brands in Metal](https://metalforge.io/studies/most-used-gear-brands-metal)
 - Counted in our drum endorsement landscape study. [The Drum Endorsement Landscape in Metal](https://metalforge.io/studies/drum-endorsement-landscape)
+
+## Gear Evolution
+
+Full album-by-album gear evolution: [Inferno's gear evolution timeline](https://metalforge.io/llms/evolution/inferno.md).
+
+## Gear Price History
+
+Historical gear pricing and value: [Inferno's gear price history](https://metalforge.io/llms/gear-history/inferno.md).
+
+## Endorsement History
+
+Dated brand-endorsement timeline: [Inferno's endorsement history](https://metalforge.io/llms/endorsements/inferno.md).
 
 ---
 

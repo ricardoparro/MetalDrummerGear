@@ -61,6 +61,18 @@ Daray's drumming combines extreme speed and technical precision with theatrical 
 - [Paiste Cymbals](https://www.paiste.com)
 - [Vic Firth Sticks](https://vicfirth.zildjian.com)
 
+## Endorsements
+
+- [Pearl Drums](https://pearldrum.com)
+- [Paiste Cymbals](https://www.paiste.com)
+- [Vic Firth Sticks](https://vicfirth.zildjian.com)
+
+## Endorsements
+
+- [Pearl Drums](https://pearldrum.com)
+- [Paiste Cymbals](https://www.paiste.com)
+- [Vic Firth Sticks](https://vicfirth.zildjian.com)
+
 ## Notable Performances
 
 - Dimmu Borgir - Progenies of the Great Apocalypse (Drum Cam) (2018)
@@ -144,6 +156,18 @@ Full breakdown: [Daray's pedal setup](https://metalforge.io/pedals/setups/daray)
 
 - Counted in our most-used gear brands study. [Most-Used Drum & Cymbal Brands in Metal](https://metalforge.io/studies/most-used-gear-brands-metal)
 - Counted in our drum endorsement landscape study. [The Drum Endorsement Landscape in Metal](https://metalforge.io/studies/drum-endorsement-landscape)
+
+## Gear Evolution
+
+Full album-by-album gear evolution: [Daray's gear evolution timeline](https://metalforge.io/llms/evolution/daray.md).
+
+## Gear Price History
+
+Historical gear pricing and value: [Daray's gear price history](https://metalforge.io/llms/gear-history/daray.md).
+
+## Endorsement History
+
+Dated brand-endorsement timeline: [Daray's endorsement history](https://metalforge.io/llms/endorsements/daray.md).
 
 ---
 

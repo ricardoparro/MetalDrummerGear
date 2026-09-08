@@ -64,6 +64,20 @@ Reinert brought a jazz-trained musical vocabulary into death metal at a moment w
 - [Vic Firth Sticks](https://vicfirth.zildjian.com)
 - [Remo Drumheads](https://remo.com)
 
+## Endorsements
+
+- [Tama Drums](https://www.tama.com)
+- [Zildjian Cymbals](https://zildjian.com)
+- [Vic Firth Sticks](https://vicfirth.zildjian.com)
+- [Remo Drumheads](https://remo.com)
+
+## Endorsements
+
+- [Tama Drums](https://www.tama.com)
+- [Zildjian Cymbals](https://zildjian.com)
+- [Vic Firth Sticks](https://vicfirth.zildjian.com)
+- [Remo Drumheads](https://remo.com)
+
 ## Notable Performances
 
 - Sean Reinert's Drum Cam: Last Live with Cynic Playing "Veil of Maya" (2015)
@@ -145,6 +159,18 @@ Full breakdown: [Sean Reinert's pedal setup](https://metalforge.io/pedals/setups
 
 - Counted in our most-used gear brands study. [Most-Used Drum & Cymbal Brands in Metal](https://metalforge.io/studies/most-used-gear-brands-metal)
 - Counted in our drum endorsement landscape study. [The Drum Endorsement Landscape in Metal](https://metalforge.io/studies/drum-endorsement-landscape)
+
+## Gear Evolution
+
+Full album-by-album gear evolution: [Sean Reinert's gear evolution timeline](https://metalforge.io/llms/evolution/sean-reinert.md).
+
+## Gear Price History
+
+Historical gear pricing and value: [Sean Reinert's gear price history](https://metalforge.io/llms/gear-history/sean-reinert.md).
+
+## Endorsement History
+
+Dated brand-endorsement timeline: [Sean Reinert's endorsement history](https://metalforge.io/llms/endorsements/sean-reinert.md).
 
 ---
 

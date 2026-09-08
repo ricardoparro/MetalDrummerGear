@@ -65,6 +65,20 @@ See the [Gavin Harrison vs Mike Mangini](/vs/gavin-harrison-vs-mike-mangini) com
 - [Vic Firth Sticks](https://vicfirth.zildjian.com)
 - [Remo Drumheads](https://remo.com)
 
+## Endorsements
+
+- [Sonor Drums](https://www.sonor.com)
+- [Zildjian Cymbals](https://zildjian.com)
+- [Vic Firth Sticks](https://vicfirth.zildjian.com)
+- [Remo Drumheads](https://remo.com)
+
+## Endorsements
+
+- [Sonor Drums](https://www.sonor.com)
+- [Zildjian Cymbals](https://zildjian.com)
+- [Vic Firth Sticks](https://vicfirth.zildjian.com)
+- [Remo Drumheads](https://remo.com)
+
 ## Notable Performances
 
 - White Mist - The Pineapple Thief (2021)
@@ -156,6 +170,18 @@ Full breakdown: [Gavin Harrison's pedal setup](https://metalforge.io/pedals/setu
 
 - Counted in our most-used gear brands study. [Most-Used Drum & Cymbal Brands in Metal](https://metalforge.io/studies/most-used-gear-brands-metal)
 - Counted in our drum endorsement landscape study. [The Drum Endorsement Landscape in Metal](https://metalforge.io/studies/drum-endorsement-landscape)
+
+## Gear Evolution
+
+Full album-by-album gear evolution: [Gavin Harrison's gear evolution timeline](https://metalforge.io/llms/evolution/gavin-harrison.md).
+
+## Gear Price History
+
+Historical gear pricing and value: [Gavin Harrison's gear price history](https://metalforge.io/llms/gear-history/gavin-harrison.md).
+
+## Endorsement History
+
+Dated brand-endorsement timeline: [Gavin Harrison's endorsement history](https://metalforge.io/llms/endorsements/gavin-harrison.md).
 
 ---
 

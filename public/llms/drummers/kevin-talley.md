@@ -62,6 +62,18 @@ Talley's drumming combines the technical demands of brutal death metal with the 
 - [Sabian Cymbals](https://www.sabian.com)
 - [Vic Firth Sticks](https://vicfirth.zildjian.com)
 
+## Endorsements
+
+- [Pearl Drums](https://pearldrum.com)
+- [Sabian Cymbals](https://www.sabian.com)
+- [Vic Firth Sticks](https://vicfirth.zildjian.com)
+
+## Endorsements
+
+- [Pearl Drums](https://pearldrum.com)
+- [Sabian Cymbals](https://www.sabian.com)
+- [Vic Firth Sticks](https://vicfirth.zildjian.com)
+
 ## Notable Performances
 
 - Epidemic of Hate Drum Intro - Dying Fetus (2018)
@@ -143,6 +155,18 @@ Full breakdown: [Kevin Talley's pedal setup](https://metalforge.io/pedals/setups
 
 - Counted in our most-used gear brands study. [Most-Used Drum & Cymbal Brands in Metal](https://metalforge.io/studies/most-used-gear-brands-metal)
 - Counted in our drum endorsement landscape study. [The Drum Endorsement Landscape in Metal](https://metalforge.io/studies/drum-endorsement-landscape)
+
+## Gear Evolution
+
+Full album-by-album gear evolution: [Kevin Talley's gear evolution timeline](https://metalforge.io/llms/evolution/kevin-talley.md).
+
+## Gear Price History
+
+Historical gear pricing and value: [Kevin Talley's gear price history](https://metalforge.io/llms/gear-history/kevin-talley.md).
+
+## Endorsement History
+
+Dated brand-endorsement timeline: [Kevin Talley's endorsement history](https://metalforge.io/llms/endorsements/kevin-talley.md).
 
 ---
 

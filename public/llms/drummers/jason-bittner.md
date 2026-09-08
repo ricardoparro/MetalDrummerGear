@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Mapex"
 profile_url: "https://metalforge.io/drummer/jason-bittner"
 source: "https://metalforge.io"
-last_updated: "2026-09-07"
+last_updated: "2026-09-08"
 ---
 
 # Jason Bittner — Drum Kit & Gear Setup
@@ -55,6 +55,13 @@ Bittner rose to prominence with Shadows Fall during the early 2000s metalcore ex
 - **Hardware:** Mapex Falcon Double Pedal, Mapex T865 Throne
 - **Sticks:** Promark Jason Bittner Signature 5BX
 - **Heads:** Evans
+
+## Endorsements
+
+- [Mapex Drums](https://www.mapexdrums.com)
+- [Zildjian Cymbals](https://zildjian.com)
+- [Promark Sticks](https://www.daddario.com/promark)
+- [Evans Drumheads](https://www.daddario.com/evans)
 
 ## Notable Performances
 
@@ -154,4 +161,4 @@ Full breakdown: [Jason Bittner's pedal setup](https://metalforge.io/pedals/setup
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-09-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

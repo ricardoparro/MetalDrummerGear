@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Tama"
 profile_url: "https://metalforge.io/drummer/sean-reinert"
 source: "https://metalforge.io"
-last_updated: "2026-09-07"
+last_updated: "2026-09-08"
 ---
 
 # Sean Reinert — Drum Kit & Gear Setup
@@ -56,6 +56,13 @@ Reinert brought a jazz-trained musical vocabulary into death metal at a moment w
 - **Hardware:** DW 5000 Double Pedal
 - **Sticks:** Vic Firth American Classic 5A
 - **Heads:** Remo Powerstroke 3 / Ambassador
+
+## Endorsements
+
+- [Tama Drums](https://www.tama.com)
+- [Zildjian Cymbals](https://zildjian.com)
+- [Vic Firth Sticks](https://vicfirth.zildjian.com)
+- [Remo Drumheads](https://remo.com)
 
 ## Notable Performances
 
@@ -145,4 +152,4 @@ Full breakdown: [Sean Reinert's pedal setup](https://metalforge.io/pedals/setups
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-09-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

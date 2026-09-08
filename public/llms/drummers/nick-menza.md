@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Tama"
 profile_url: "https://metalforge.io/drummer/nick-menza"
 source: "https://metalforge.io"
-last_updated: "2026-09-07"
+last_updated: "2026-09-08"
 ---
 
 # Nick Menza — Drum Kit & Gear Setup
@@ -56,6 +56,13 @@ Menza's playing was distinguished by surgical double-bass precision at 180-200 B
 - **Hardware:** DW 5000 Double Pedal
 - **Sticks:** Vic Firth American Classic 5B
 - **Heads:** Remo Ambassador / Powerstroke 3
+
+## Endorsements
+
+- [Tama Drums](https://www.tama.com)
+- [Zildjian Cymbals](https://zildjian.com)
+- [Vic Firth Sticks](https://vicfirth.zildjian.com)
+- [Remo Drumheads](https://remo.com)
 
 ## Notable Performances
 
@@ -150,4 +157,4 @@ Full breakdown: [Nick Menza's pedal setup](https://metalforge.io/pedals/setups/n
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-09-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

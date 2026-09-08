@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/gene-hoglan"
 source: "https://metalforge.io"
-last_updated: "2026-09-07"
+last_updated: "2026-09-08"
 ---
 
 # Gene Hoglan — Drum Kit & Gear Setup
@@ -64,6 +64,13 @@ Over a career spanning four decades, Hoglan has performed with over 20 major ban
 - **Heads:** Evans
 
 See the [Gene Hoglan vs Tomas Haake](/vs/gene-hoglan-vs-tomas-haake) comparison for a full breakdown of how Hoglan's death/thrash precision stacks up against Meshuggah's djent architect.
+
+## Endorsements
+
+- [Pearl Drums](https://pearldrum.com)
+- [Sabian Cymbals](https://sabian.com)
+- [Promark Sticks](https://www.daddario.com/promark)
+- [Evans Drumheads](https://www.daddario.com/evans)
 
 ## Notable Performances
 
@@ -172,4 +179,4 @@ Full breakdown: [Gene Hoglan's pedal setup](https://metalforge.io/pedals/setups/
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-09-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/alex-bent"
 source: "https://metalforge.io"
-last_updated: "2026-09-07"
+last_updated: "2026-09-08"
 ---
 
 # Alex Bent — Drum Kit & Gear Setup
@@ -54,6 +54,14 @@ Bent's background in technical death metal—with bands like Brain Drill, Arkaik
 - **Hardware:** Axis A Longboard Double Pedal, Pearl D-3000 Throne
 - **Sticks:** Vic Firth American Classic 5B
 - **Heads:** Remo
+
+## Endorsements
+
+- [Pearl Drums](https://pearldrum.com)
+- [Zildjian Cymbals](https://zildjian.com)
+- [Vic Firth Sticks](https://vicfirth.zildjian.com)
+- [Remo Drumheads](https://remo.com)
+- [Axis Percussion](https://www.axispercussion.com)
 
 ## Notable Performances
 
@@ -147,4 +155,4 @@ Full breakdown: [Alex Bent's pedal setup](https://metalforge.io/pedals/setups/al
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-09-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

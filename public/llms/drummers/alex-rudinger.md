@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Tama"
 profile_url: "https://metalforge.io/drummer/alex-rudinger"
 source: "https://metalforge.io"
-last_updated: "2026-09-07"
+last_updated: "2026-09-08"
 ---
 
 # Alex Rüdinger — Drum Kit & Gear Setup
@@ -57,6 +57,12 @@ He went on to join The HAARP Machine (2012-2013) and technical death metal band 
 - **Cymbals:** Meinl Cymbals (Byzance and MB20 series; specific models not independently documented — omitted rather than guessed)
 - **Hardware:** Tama Speed Cobra Bass Drum Pedals, Tama Speed Cobra Hi-Hat Stand, Tama Roadpro Stands, Tama 1st Chair Ergo-Rider Throne
 - **Heads:** Evans (UV EQ4 Coated bass batter, G2 Clear tom batters, HD Dry snare batter, Snare Side 300, G1 Clear/EQ3-NP Black bass reso)
+
+## Endorsements
+
+- [Tama Drums](https://www.tama.com)
+- [Evans Drumheads](https://www.daddario.com/evans)
+- [Meinl Cymbals](https://www.meinlcymbals.com)
 
 ## Notable Performances
 
@@ -124,4 +130,4 @@ Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-09-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

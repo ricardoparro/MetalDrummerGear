@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/kevin-talley"
 source: "https://metalforge.io"
-last_updated: "2026-09-07"
+last_updated: "2026-09-08"
 ---
 
 # Kevin Talley — Drum Kit & Gear Setup
@@ -55,6 +55,12 @@ Talley's drumming combines the technical demands of brutal death metal with the 
 - **Hardware:** Pearl Eliminator Double Pedal
 - **Sticks:** Vic Firth American Classic 5B
 - **Heads:** Remo
+
+## Endorsements
+
+- [Pearl Drums](https://pearldrum.com)
+- [Sabian Cymbals](https://www.sabian.com)
+- [Vic Firth Sticks](https://vicfirth.zildjian.com)
 
 ## Notable Performances
 
@@ -144,4 +150,4 @@ Full breakdown: [Kevin Talley's pedal setup](https://metalforge.io/pedals/setups
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-09-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

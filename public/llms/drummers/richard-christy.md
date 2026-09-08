@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/richard-christy"
 source: "https://metalforge.io"
-last_updated: "2026-09-07"
+last_updated: "2026-09-08"
 ---
 
 # Richard Christy — Drum Kit & Gear Setup
@@ -57,6 +57,13 @@ Christy's drumming on Death's final two albums—"The Sound of Perseverance" and
 - **Hardware:** Axis A Longboard Double Pedal
 - **Sticks:** Vic Firth American Classic 5A
 - **Heads:** Evans
+
+## Endorsements
+
+- [Pearl Drums](https://pearldrum.com)
+- [Sabian Cymbals](https://www.sabian.com)
+- [Vic Firth Sticks](https://vicfirth.zildjian.com)
+- [Evans Drumheads](https://www.daddario.com/evans)
 
 ## Notable Performances
 
@@ -157,4 +164,4 @@ Full breakdown: [Richard Christy's pedal setup](https://metalforge.io/pedals/set
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-09-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

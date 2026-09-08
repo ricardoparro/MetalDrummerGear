@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Ludwig"
 profile_url: "https://metalforge.io/drummer/jon-dette"
 source: "https://metalforge.io"
-last_updated: "2026-09-07"
+last_updated: "2026-09-08"
 ---
 
 # Jon Dette — Drum Kit & Gear Setup
@@ -57,6 +57,13 @@ Dette served as Slayer's touring drummer during 1996-1997, filling in when Paul 
 - **Hardware:** DW 9000 or Tama Iron Cobra Double Pedal
 - **Sticks:** Promark / Vater 5B
 - **Heads:** Remo Powerstroke 3 (Kick) / Emperor Coated (Toms) / Coated Ambassador (Snare)
+
+## Endorsements
+
+- [Ludwig Drums](https://www.ludwig-drums.com)
+- [Sabian Cymbals](https://www.sabian.com)
+- [Zildjian Cymbals](https://zildjian.com)
+- [Remo Drumheads](https://remo.com)
 
 ## Notable Performances
 
@@ -144,4 +151,4 @@ Full breakdown: [Jon Dette's pedal setup](https://metalforge.io/pedals/setups/jo
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-09-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "SJC"
 profile_url: "https://metalforge.io/drummer/jay-weinberg"
 source: "https://metalforge.io"
-last_updated: "2026-09-07"
+last_updated: "2026-09-08"
 ---
 
 # Jay Weinberg — Drum Kit & Gear Setup
@@ -55,6 +55,15 @@ Weinberg's career spans diverse genres: from substituting for his father with Br
 - **Hardware:** DW 9000 Series Double Pedal, DW 9100 Throne
 - **Sticks:** Vater Jay Weinberg 908 Signature
 - **Heads:** Evans Black Chrome
+
+## Endorsements
+
+- [SJC Custom Drums](https://www.sjcdrums.com)
+- [Zildjian Cymbals](https://zildjian.com)
+- [Vater Drumsticks](https://www.vater.com)
+- [Evans Drumheads](https://www.daddario.com/evans)
+- [DW Hardware](https://www.dwdrums.com)
+- [Roland Electronics](https://www.roland.com)
 
 ## Notable Performances
 
@@ -145,4 +154,4 @@ Full breakdown: [Jay Weinberg's pedal setup](https://metalforge.io/pedals/setups
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-09-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

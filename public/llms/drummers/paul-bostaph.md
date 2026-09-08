@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/paul-bostaph"
 source: "https://metalforge.io"
-last_updated: "2026-09-07"
+last_updated: "2026-09-08"
 ---
 
 # Paul Bostaph — Drum Kit & Gear Setup
@@ -58,6 +58,13 @@ Before Slayer, Bostaph established his reputation in the Bay Area thrash scene w
 - **Hardware:** Pearl Eliminator Double Pedal
 - **Sticks:** Vater Power 5B
 - **Heads:** Remo Powerstroke 3 / Emperor Coated / Ambassador
+
+## Endorsements
+
+- [Pearl Drums](https://pearldrum.com)
+- [Sabian Cymbals](https://www.sabian.com)
+- [Vater Drumsticks](https://www.vater.com)
+- [Remo Drumheads](https://remo.com)
 
 ## Notable Performances
 
@@ -146,4 +153,4 @@ Full breakdown: [Paul Bostaph's pedal setup](https://metalforge.io/pedals/setups
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-09-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "DW"
 profile_url: "https://metalforge.io/drummer/navene-koperweis"
 source: "https://metalforge.io"
-last_updated: "2026-09-07"
+last_updated: "2026-09-08"
 ---
 
 # Navene Koperweis — Drum Kit & Gear Setup
@@ -56,6 +56,13 @@ Beyond his drumming career, Koperweis is a prolific producer and electronic arti
 - **Hardware:** DW 9000 Series Double Pedal, DW Throne
 - **Sticks:** Vic Firth American Classic 5B
 - **Heads:** Evans
+
+## Endorsements
+
+- [DW Drums](https://www.dwdrums.com)
+- [Meinl Cymbals](https://meinlcymbals.com)
+- [Vic Firth Sticks](https://vicfirth.zildjian.com)
+- [Evans Drumheads](https://www.daddario.com/evans)
 
 ## Notable Performances
 
@@ -147,4 +154,4 @@ Full breakdown: [Navene Koperweis's pedal setup](https://metalforge.io/pedals/se
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-09-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

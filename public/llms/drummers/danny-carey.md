@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Sonor"
 profile_url: "https://metalforge.io/drummer/danny-carey"
 source: "https://metalforge.io"
-last_updated: "2026-09-07"
+last_updated: "2026-09-08"
 ---
 
 # Danny Carey — Drum Kit & Gear Setup
@@ -56,6 +56,14 @@ Standing at 6'5" (196 cm), Carey is an imposing presence behind his massive Sono
 - **Cymbals:** Paiste Signature Series (14" Sound Edge Hi-Hats, 18" & 20" Power Crashes, 22" Dry Heavy Ride "Monad", 2002 & Signature China cymbals)
 - **Hardware:** Sonor Giant Step Twin Effect Double Pedal, Sonor Drummer Throne, Mandala Drum electronic pads
 - **Sticks:** Vic Firth Danny Carey Signature
+
+## Endorsements
+
+- [Sonor Drums](https://www.sonor.com)
+- [Paiste Cymbals](https://www.paiste.com)
+- [Vic Firth Sticks](https://vicfirth.zildjian.com)
+- [Remo Drumheads](https://www.remo.com)
+- [Mandala Drums](https://www.mandaladrum.com)
 
 ## Notable Performances
 
@@ -155,4 +163,4 @@ Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-09-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

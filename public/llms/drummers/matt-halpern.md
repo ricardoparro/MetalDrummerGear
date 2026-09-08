@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/matt-halpern"
 source: "https://metalforge.io"
-last_updated: "2026-09-07"
+last_updated: "2026-09-08"
 ---
 
 # Matt Halpern — Drum Kit & Gear Setup
@@ -51,6 +51,13 @@ A graduate of Berklee College of Music, Halpern brings academic rigor to his dru
 - **Cymbals:** Meinl Byzance Series (15" Dark Hi-Hats, 18" & 20" Extra Dry Medium Crashes, 22" Transition Ride, 18" Extra Dry China)
 - **Hardware:** Pearl Demon Drive Double Pedal, Pearl D-2000 Throne
 - **Sticks:** Promark Matt Halpern Signature
+
+## Endorsements
+
+- [Pearl Drums](https://pearldrum.com)
+- [Meinl Cymbals](https://meinlcymbals.com)
+- [ProMark Sticks](https://www.daddario.com/promark)
+- [Evans Drumheads](https://www.daddario.com/evans)
 
 ## Notable Performances
 
@@ -119,4 +126,4 @@ Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-09-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*

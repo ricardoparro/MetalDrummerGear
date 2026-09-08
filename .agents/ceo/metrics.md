@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-09-08 10:36 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-09-08 11:52 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,16 +8,16 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 295 |
-| Sessions | 324 |
-| Page views | 465 |
-| Engagement rate | 66.67% |
+| Active users | 296 |
+| Sessions | 325 |
+| Page views | 467 |
+| Engagement rate | 66.46% |
 | Avg session (s) | 119 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
-| / | 20 | 14 |
+| / | 21 | 14 |
 | /drummer/mario-duplantier | 20 | 18 |
 | /drummers | 15 | 5 |
 | /drummer/bill-ward | 12 | 8 |
@@ -31,9 +31,9 @@
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 269 | 241 |
+| Organic Search | 271 | 243 |
 | Direct | 46 | 45 |
-| Unassigned | 12 | 10 |
+| Unassigned | 13 | 11 |
 | AI Assistant | 2 | 2 |
 | Referral | 2 | 2 |
 

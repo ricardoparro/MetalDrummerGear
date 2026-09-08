@@ -21,13 +21,13 @@ export const articles = {
     "dateModified": "2026-03-27",
     "author": "MetalForge Editorial",
     "title": "What's In Derek Roddy's Kit: The Extreme Metal Educator's Speed Arsenal",
-    "description": "Discover Derek Roddy's complete drum setup — the Tama Starclassic drums, Meinl cymbals, Axis pedals, and technique-focused gear that power death metal's most influential educator. Complete breakdown of the blast beat pioneer's equipment.",
+    "description": "Discover Derek Roddy's complete drum setup — the Tama Starclassic drums, Meinl cymbals, Tama Speed Cobra pedals, and technique-focused gear that power death metal's most influential educator. Complete breakdown of the blast beat pioneer's equipment.",
     "seoKeywords": [
       "derek roddy drum kit",
       "derek roddy setup",
       "hate eternal drummer gear",
       "derek roddy tama drums",
-      "derek roddy axis pedals",
+      "derek roddy tama speed cobra pedals",
       "blast beat drums",
       "extreme metal drums",
       "fastest drummer"
@@ -130,14 +130,14 @@ export const articles = {
       "estimatedValue": "$1,400-2,200 total (Byzance/Mb20 Heavy hybrid setup)"
     },
     "hardware": {
-      "title": "Axis Longboards: The Speed Platform",
+      "title": "Tama Speed Cobra: The Speed Platform",
       "items": [
         {
           "type": "Bass Drum Pedal",
-          "brand": "Axis",
-          "model": "Axis A Longboard Double Pedal",
-          "notes": "Direct drive, longboard footboard for heel-toe technique",
-          "description": "The Axis A Longboard is central to Derek's technique. The direct drive mechanism eliminates the slight lag of chain-drive pedals — crucial at extreme speeds. The longboard footboard enables heel-toe technique, allowing faster consecutive strokes. Derek has used Axis pedals throughout his career precisely because they respond instantly to technique."
+          "brand": "Tama",
+          "model": "Speed Cobra 910 Double Pedal",
+          "notes": "Direct drive, low-inertia design for fast, consistent strokes",
+          "description": "The Tama Speed Cobra 910 is central to Derek's technique. Its direct drive mechanism eliminates the slight lag of chain-drive pedals — crucial at extreme speeds. The low-mass frame and infinitely adjustable cam action allow faster consecutive strokes. Derek has used Tama Speed Cobra pedals throughout his career precisely because they respond instantly to technique."
         },
         {
           "type": "Hi-Hat Stand",
@@ -235,7 +235,7 @@ export const articles = {
           "drums": "Tour kit",
           "snare": "Various",
           "cymbals": "Meinl",
-          "hardware": "Axis double pedals"
+          "hardware": "Tama Speed Cobra double pedals"
         },
         "notes": "Touring with one of death metal's most demanding bands proved Derek's abilities."
       },
@@ -252,7 +252,7 @@ export const articles = {
           "drums": "Tama Starclassic Bubinga",
           "snare": "Tama SLP Black Brass",
           "cymbals": "Meinl Byzance/Mb20 Heavy",
-          "hardware": "Axis Longboard pedals, Vater sticks"
+          "hardware": "Tama Speed Cobra pedals, Vater sticks"
         },
         "notes": "This era produced Derek's most celebrated recordings and established his gear preferences."
       },
@@ -268,7 +268,7 @@ export const articles = {
           "drums": "Tama Starclassic or various clinic kits",
           "snare": "Tama",
           "cymbals": "Meinl",
-          "hardware": "Axis Longboard pedals"
+          "hardware": "Tama Speed Cobra pedals"
         },
         "notes": "\"The Evolution of Blast Beats\" cemented Derek's legacy as death metal's premier educator."
       },
@@ -283,7 +283,7 @@ export const articles = {
           "drums": "Tama or various based on context",
           "snare": "Tama SLP",
           "cymbals": "Meinl Byzance/Mb20 Heavy",
-          "hardware": "Axis Longboard pedals, Vater sticks"
+          "hardware": "Tama Speed Cobra pedals, Vater sticks"
         },
         "notes": "Derek continues influencing drummers worldwide through education and occasional performing."
       }
@@ -321,10 +321,10 @@ export const articles = {
           "notes": "Custom configurations available through Tama dealers"
         },
         {
-          "item": "Axis A Longboard Pedals",
+          "item": "Tama Speed Cobra 910 Pedals",
           "available": true,
           "priceRange": "$550-800 (double)",
-          "notes": "The specific pedal Derek relies on — direct drive, longboard"
+          "notes": "The specific pedal Derek relies on — direct drive, low-mass frame"
         },
         {
           "item": "Meinl Byzance/Mb20 Heavy Cymbals",
@@ -355,7 +355,7 @@ export const articles = {
           "items": [
             "PDP Concept Maple (22\" bass, 10/12/14/16 toms) — $1,200",
             "Meinl HCS series cymbals — $600",
-            "Axis A Single/Double Pedal (or Tama Speed Cobra) — $400",
+            "Tama Speed Cobra Single/Double Pedal — $400",
             "Evans G2/EMAD heads — $150",
             "Vater 5B sticks — $15"
           ],
@@ -366,18 +366,18 @@ export const articles = {
           "items": [
             "Tama Superstar Series — $2,500",
             "Meinl Mb20 Heavy series cymbals — $1,200",
-            "Axis A Longboard Double Pedal — $700",
+            "Tama Speed Cobra 910 Double Pedal — $700",
             "Tama Speed Cobra hardware — $400",
             "Evans EC2/EMAD heads — $150"
           ],
-          "notes": "The Superstar Series offers Tama quality at a more accessible price. Axis Longboards are essential for heel-toe technique."
+          "notes": "The Superstar Series offers Tama quality at a more accessible price. The Speed Cobra's low-mass frame is essential for heel-toe technique."
         },
         {
           "tier": "Pro Build (~$8,000+)",
           "items": [
             "Tama Starclassic Bubinga — $4,500",
             "Meinl Byzance/Mb20 Heavy hybrid setup — $2,000",
-            "Axis A Longboard Double Pedal — $700",
+            "Tama Speed Cobra 910 Double Pedal — $700",
             "Tama Starclassic complete hardware pack — $800",
             "Evans/Remo pro-level heads — $200"
           ],
@@ -467,7 +467,7 @@ export const articles = {
     ],
     "conclusion": {
       "title": "The Educator's Legacy",
-      "content": "Derek Roddy changed extreme metal drumming not just through his performances, but through his teaching. Before \"The Evolution of Blast Beats,\" sustained high-speed drumming seemed reserved for a gifted few. After it, drummers worldwide had a roadmap.\n\nHis gear choices reflect his philosophy: quality equipment that supports good technique without compensating for bad technique. Tama drums for reliability and response. Axis pedals for instant feedback. Meinl cymbals for controlled power. None of it is exotic — all of it is chosen for practical reasons.\n\n**What Makes Derek Special:**\nIt's not raw talent (though he has that). It's the analytical mind that deconstructs complex movements into learnable pieces. It's the willingness to share techniques that took years to develop. It's the philosophy that anyone can play extreme music with proper practice.\n\n**For Drummers Seeking This Sound:**\nStart with technique, not gear. Study \"The Evolution of Blast Beats.\" Work on efficiency before speed. Monitor for tension constantly. The gear matters less than you think; the practice matters more than you imagine.\n\n**The Legacy:**\nDerek Roddy proved that extreme metal drumming isn't magic — it's science. Speed comes from efficiency. Endurance comes from relaxation. Consistency comes from proper technique. These insights have influenced thousands of drummers and will continue to for generations.\n\nWhether you're building a Roddy-inspired setup or just seeking to understand extreme drumming, his message is clear: technique over gear, efficiency over force, education over mystique.\n\n🥁 *Derek Roddy — proving that the fastest drumming comes from the smartest technique.* 🥁"
+      "content": "Derek Roddy changed extreme metal drumming not just through his performances, but through his teaching. Before \"The Evolution of Blast Beats,\" sustained high-speed drumming seemed reserved for a gifted few. After it, drummers worldwide had a roadmap.\n\nHis gear choices reflect his philosophy: quality equipment that supports good technique without compensating for bad technique. Tama drums for reliability and response. Tama Speed Cobra pedals for instant feedback. Meinl cymbals for controlled power. None of it is exotic — all of it is chosen for practical reasons.\n\n**What Makes Derek Special:**\nIt's not raw talent (though he has that). It's the analytical mind that deconstructs complex movements into learnable pieces. It's the willingness to share techniques that took years to develop. It's the philosophy that anyone can play extreme music with proper practice.\n\n**For Drummers Seeking This Sound:**\nStart with technique, not gear. Study \"The Evolution of Blast Beats.\" Work on efficiency before speed. Monitor for tension constantly. The gear matters less than you think; the practice matters more than you imagine.\n\n**The Legacy:**\nDerek Roddy proved that extreme metal drumming isn't magic — it's science. Speed comes from efficiency. Endurance comes from relaxation. Consistency comes from proper technique. These insights have influenced thousands of drummers and will continue to for generations.\n\nWhether you're building a Roddy-inspired setup or just seeking to understand extreme drumming, his message is clear: technique over gear, efficiency over force, education over mystique.\n\n🥁 *Derek Roddy — proving that the fastest drumming comes from the smartest technique.* 🥁"
     }
   },
   "king-of-all-kings-drum-setup": {
@@ -487,7 +487,7 @@ export const articles = {
     "dateModified": "2026-07-05",
     "author": "MetalForge Editorial",
     "title": "King of All Kings Drum Setup: Derek Roddy's Blast Beat Masterclass (2002)",
-    "description": "How Derek Roddy tracked Hate Eternal's King of All Kings (2002) — the Tama Starclassic kit, Axis Longboard pedals, and freehand blast beat endurance that made it a technical death metal landmark.",
+    "description": "How Derek Roddy tracked Hate Eternal's King of All Kings (2002) — the Tama Starclassic kit, Tama Speed Cobra pedals, and freehand blast beat endurance that made it a technical death metal landmark.",
     "seoKeywords": [
       "derek roddy king of all kings drums",
       "hate eternal drum kit 2002",
@@ -505,7 +505,7 @@ export const articles = {
       "keyPoints": [
         "King of All Kings (2002) is the Hate Eternal record most associated with Roddy's technical peak",
         "Freehand/gravity blast technique enabled sustained blast beats without tempo drift",
-        "Tama Starclassic kit and Axis Longboard pedals provided the response needed for the sessions",
+        "Tama Starclassic kit and Tama Speed Cobra pedals provided the response needed for the sessions",
         "Erik Rutan's production favored captured performance over heavy triggering",
         "The record remains a reference point for technical death metal drumming endurance"
       ]
@@ -583,14 +583,14 @@ export const articles = {
       "estimatedValue": "$1,400-2,200 (session Byzance/Mb20 Heavy configuration)"
     },
     "hardware": {
-      "title": "Axis Longboards: The Pedal Behind the Endurance",
+      "title": "Tama Speed Cobra: The Pedal Behind the Endurance",
       "items": [
         {
           "type": "Bass Drum Pedal",
-          "brand": "Axis",
-          "model": "Axis A Longboard Double Pedal",
-          "notes": "Direct drive, longboard footboard for heel-toe technique",
-          "description": "The Axis A Longboard was central to surviving King of All Kings' single-kick blast demands. Its direct-drive mechanism eliminated the lag of chain-drive pedals, and the longboard footboard let Roddy use heel-toe technique to distribute the workload across a full studio day of extreme-tempo takes — a key reason the album's blast sections sound consistent from the first track to the last."
+          "brand": "Tama",
+          "model": "Speed Cobra 910 Double Pedal",
+          "notes": "Direct drive, low-inertia design for fast, consistent strokes",
+          "description": "The Tama Speed Cobra 910 was central to surviving King of All Kings' single-kick blast demands. Its direct-drive mechanism eliminated the lag of chain-drive pedals, and the low-mass frame with infinitely adjustable cam action let Roddy use heel-toe technique to distribute the workload across a full studio day of extreme-tempo takes — a key reason the album's blast sections sound consistent from the first track to the last."
         },
         {
           "type": "Sticks",
@@ -667,7 +667,7 @@ export const articles = {
     ],
     "conclusion": {
       "title": "A Blast Beat Benchmark",
-      "content": "King of All Kings didn't need to be the fastest death metal record of 2002 to become one of the most influential — it needed to prove that extreme tempo could be sustained, not just flashed. Derek Roddy's freehand technique, backed by a Tama/Meinl/Axis setup chosen for reliability under pressure, delivered exactly that. The result is a record still studied by technical death metal drummers for how it balances speed, endurance, and clarity.\n\nFor the full arc of Roddy's gear across his career, see [What's In Derek Roddy's Kit](/articles/whats-in-derek-roddys-kit). For his complete profile and other roster drummers, visit [his drummer page](/drummer/44)."
+      "content": "King of All Kings didn't need to be the fastest death metal record of 2002 to become one of the most influential — it needed to prove that extreme tempo could be sustained, not just flashed. Derek Roddy's freehand technique, backed by a Tama/Meinl setup chosen for reliability under pressure, delivered exactly that. The result is a record still studied by technical death metal drummers for how it balances speed, endurance, and clarity.\n\nFor the full arc of Roddy's gear across his career, see [What's In Derek Roddy's Kit](/articles/whats-in-derek-roddys-kit). For his complete profile and other roster drummers, visit [his drummer page](/drummer/44)."
     }
   },
   "derek-roddy-hate-eternal-drum-setup": {

@@ -3229,6 +3229,10 @@ export function getMetaForPath(pathname) {
       image: DEFAULT_IMAGE,
       type: 'website',
       url: `${BASE_URL}/brands`,
+      ssrLinks: brandTimeline.map(b => ({
+        href: `/brands/${b.slug}`,
+        label: b.name,
+      })),
       articleSchema: JSON.stringify({
         '@context': 'https://schema.org',
         '@graph': [

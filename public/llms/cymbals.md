@@ -2,9 +2,31 @@
 
 This page indexes every verified cymbal setup catalogued in MetalForge's cymbals database — 56 entries, each parsed from the drummer's roster gear record and cross-referenced to their profile.
 
-> Last Updated: 2026-07-25 · Source: https://metalforge.io
+> Last Updated: 2026-09-09 · Source: https://metalforge.io
 
 For types, alloys, and sizing/weight reference pages see the Reference Guides section below. For brand positioning and metal-relevant series see [https://metalforge.io/cymbals/brands](https://metalforge.io/cymbals/brands). For a buying guide by budget tier see [https://metalforge.io/cymbals/best-for-metal](https://metalforge.io/cymbals/best-for-metal).
+
+## Overview
+
+A cymbal is a shaped bronze (or brass) disc that a drummer strikes with a stick, mallet, or foot pedal to produce anything from a short, bright accent to a long, washy roar. A metal kit usually carries five to ten of them — hi-hats, crashes, a ride, and one or more chinas or splashes — and the type, alloy, and size/weight of each one changes how it cuts through a wall of distorted guitars, how long it holds up under repeated hard hitting, and how it responds at blast-beat tempos.
+
+## How to Choose Cymbals
+
+### Start with the type and the job it does
+
+Hi-hats keep time, crashes accent, a ride carries sustained patterns, and chinas/splashes/stacks add texture and aggression. See the types guide below for what each one is built to do and the sizes that are typical for it.
+
+### Match the alloy to the tone you want
+
+Cast B20 bronze (80% copper, 20% tin) gives a darker, more complex professional tone; sheet B8 bronze (92% copper, 8% tin) gives a brighter, simpler, more affordable one. See the alloys guide for the full breakdown, including brass and the B10/B12 middle ground.
+
+### Match size and weight to how hard you hit
+
+A bigger diameter lowers the pitch and adds sustain; a heavier weight adds volume, cut, and durability at the cost of a slower, less "open" response. See the sizes & weights guide for how those two variables interact in a metal setup.
+
+### Plan for durability under sustained heavy hitting
+
+Metal drumming — especially blast beats and extended fast passages — puts more repeated stress on a cymbal than most other genres. Medium-heavy to heavy weights and B20 (or comparable cast) alloys tend to hold up best over a long set, though thinner, faster-responding cymbals still have a place for specific accents.
 
 ## Reference Guides
 
@@ -18,6 +40,21 @@ For types, alloys, and sizing/weight reference pages see the Reference Guides se
 - [Paiste](https://metalforge.io/llms/cymbals/brands/paiste.md) — Paiste is a Swiss cymbal maker whose RUDE and 2002 series were built specifically for the volume and abuse of loud rock and metal playing, rather than adapted from a jazz or orchestral line. RUDE in particular is marketed around an intentionally raw, unlathed or partially-lathed finish that trades refinement for maximum cut and durability under hard, sustained hitting.
 - [Sabian](https://metalforge.io/llms/cymbals/brands/sabian.md) — Sabian was founded by Robert Zildjian after the Zildjian company split between his and his sister's branches of the family, and it has since built its own identity around two flagship metal-relevant lines: AAX for a bright, fast, cutting sound, and HHX for a darker, more complex, hand-hammered one. Both show up extensively across thrash, groove, and progressive metal setups on this roster.
 - [Meinl](https://metalforge.io/llms/cymbals/brands/meinl.md) — Meinl is a German percussion and cymbal maker whose Byzance series — hand-hammered in Turkey using traditional B20 bronze — is a favorite among progressive, technical, and modern extreme metal drummers for its complex, darker overtones. Its dedicated Mb20 heavy-metal line and the more budget-tier Classics Custom Dark series extend that darker-toned identity across different price points.
+
+## Best for Metal
+
+There is no single "correct" metal cymbal setup, but drummers playing high-volume, high-endurance sets often gravitate toward medium-heavy to heavy weights for durability and cut, cast B20 (or comparable) alloys for a professional tone that still holds up over a long set, a ride with a pronounced bell for blast-beat patterns and accents, and at least one china for aggressive, trashy accents.
+
+## FAQ
+
+**Q: What cymbals do metal drummers use?**
+A: Most metal drummers run a standard core of hi-hats, two or more crashes, and a ride, plus at least one china for aggressive accents — commonly from Zildjian (A Custom, K Custom), Sabian (AAX, HHX), Meinl (Byzance, Mb20), or Paiste (RUDE, 2002), all of which show up repeatedly across professional metal setups.
+
+**Q: How many cymbals does a metal drummer need?**
+A: A functional metal setup can run on as few as four pieces — hi-hats, one crash, and a ride — but most professional metal drummers use five to eight: hi-hats, two or three crashes of different sizes, a ride, and one or two chinas or splashes for texture and accents.
+
+**Q: What is the best cymbal setup for metal?**
+A: The best setup depends on the sub-genre and how hard you hit, but a durable, cutting starting point is medium-heavy hi-hats and crashes, a ride with a large bell for blast-beat patterns, and a china for aggressive accents — all in a cast B20 (or comparable) alloy for tone and longevity under heavy playing.
 
 ## All 56 Cymbal Setup Records
 
@@ -41,7 +78,7 @@ For types, alloys, and sizing/weight reference pages see the Reference Guides se
 - Raymond Herrera — [Zildjian A Custom & Z Custom Series (14" A Custom Hi-Hats, 18" & 19" A Custom Crashes, 21" Z Custom Mega Bell Ride, 18" A Custom China)](https://metalforge.io/llms/cymbals/setups/raymond-herrera.md) ([profile](https://metalforge.io/drummer/raymond-herrera))
 - morgan-agren — [Paiste Signature & 2002 Series (14" Signature Heavy Hi-Hats, 18" & 20" Signature Fast Crashes, 22" Signature Dry Heavy Ride, 18" 2002 China)](https://metalforge.io/llms/cymbals/setups/morgan-agren.md) ([profile](https://metalforge.io/drummer/morgan-agren))
 - Igor Cavalera — [Paiste RUDE & 2002 Series (14" RUDE Hi-Hats, 18" & 19" RUDE Crashes, 22" RUDE Power Ride, 18" 2002 China)](https://metalforge.io/llms/cymbals/setups/igor-cavalera.md) ([profile](https://metalforge.io/drummer/igor-cavalera))
-- Bill Ward — [Paiste 2002 & Giant Beat Series (15" Giant Beat Hi-Hats, 18" & 20" 2002 Crashes, 24" 2002 Ride, 18" 2002 China)](https://metalforge.io/llms/cymbals/setups/bill-ward.md) ([profile](https://metalforge.io/drummer/bill-ward))
+- Bill Ward — [Zildjian Avedis Series (15" Hi-Hats, 18" & 20" Crashes, 24" Ride, 18" China)](https://metalforge.io/llms/cymbals/setups/bill-ward.md) ([profile](https://metalforge.io/drummer/bill-ward))
 - Chris Turner — [Meinl Byzance Series (15" Dual Hi-Hats, 18" & 20" Extra Dry Medium Crashes, 22" Dual Ride, 18" Extra Dry China)](https://metalforge.io/llms/cymbals/setups/chris-turner.md) ([profile](https://metalforge.io/drummer/chris-turner))
 - Matt Greiner — [Meinl Byzance Series (15" Dual Hi-Hats, 18" & 19" Dual Crashes, 21" Transition Ride, 18" Extra Dry China, 10" & 12" Splashes)](https://metalforge.io/llms/cymbals/setups/matt-greiner.md) ([profile](https://metalforge.io/drummer/matt-greiner))
 - Blake Richardson — [Sabian (14" HHX Evolution Hi-Hats, 18" HHX Evolution Crash, 17" & 21" AAX Holy Chinas, 21" HH Raw Bell Dry Ride, 10" HH Duo Splash, 9" Radia Cup Chime)](https://metalforge.io/llms/cymbals/setups/blake-richardson.md) ([profile](https://metalforge.io/drummer/blake-richardson))
@@ -53,14 +90,14 @@ For types, alloys, and sizing/weight reference pages see the Reference Guides se
 - Ryan Van Poederooyen — [Sabian HHX & AAX Series (14" HHX Evolution Hi-Hats, 18" & 20" HHX Evolution Crashes, 21" HHX Raw Bell Dry Ride, 19" AAXtreme China)](https://metalforge.io/llms/cymbals/setups/ryan-van-poederooyen.md) ([profile](https://metalforge.io/drummer/ryan-van-poederooyen))
 - Nicko McBrain — [Paiste 2002 & Signature Series (14" Sound Edge Hi-Hats, 16" & 18" Power Crashes, 22" Power Ride, 20" China)](https://metalforge.io/llms/cymbals/setups/nicko-mcbrain.md) ([profile](https://metalforge.io/drummer/nicko-mcbrain))
 - Scott Travis — [Paiste RUDE & 2002 Series (14" RUDE Hi-Hats, 18" & 19" RUDE Crashes, 22" RUDE Power Ride, 18" RUDE China)](https://metalforge.io/llms/cymbals/setups/scott-travis.md) ([profile](https://metalforge.io/drummer/scott-travis))
-- Mikkey Dee — [Zildjian A Custom & K Series (14" A Custom Hi-Hats, 18" & 19" A Custom Crashes, 22" K Custom Ride, 20" Oriental China)](https://metalforge.io/llms/cymbals/setups/mikkey-dee.md) ([profile](https://metalforge.io/drummer/mikkey-dee))
+- Mikkey Dee — [Paiste Signature Series (14" Sound Edge Hi-Hats, 19" & 20" Power Crashes, 22" Power Ride, 18" Heavy China)](https://metalforge.io/llms/cymbals/setups/mikkey-dee.md) ([profile](https://metalforge.io/drummer/mikkey-dee))
 - Derek Roddy — [Meinl Byzance & Mb20 Series (14" Byzance Heavy Hi-Hats, 18" & 19" Mb20 Heavy Crashes, 21" Mb20 Heavy Ride, 18" Byzance China)](https://metalforge.io/llms/cymbals/setups/derek-roddy.md) ([profile](https://metalforge.io/drummer/derek-roddy))
-- Dirk Verbeuren — [Zildjian A Custom & K Custom Series (14" A Custom Hi-Hats, 17", 18", 19" A Custom Crashes, 21" K Custom Hybrid Ride, 18" K China)](https://metalforge.io/llms/cymbals/setups/dirk-verbeuren.md) ([profile](https://metalforge.io/drummer/dirk-verbeuren))
+- Dirk Verbeuren — [Meinl Byzance Brilliant & Classics Custom Dark Series (14" Byzance Brilliant Hi-Hats, 18"-21" Classics Custom Dark Crashes, 22" Byzance Brilliant Ride, 18" Byzance Brilliant China)](https://metalforge.io/llms/cymbals/setups/dirk-verbeuren.md) ([profile](https://metalforge.io/drummer/dirk-verbeuren))
 - Frost — [Zildjian A Custom & K Series (14" A Custom Hi-Hats, 16", 17", 18" A Custom Crashes, 22" K Custom Dark Ride, 18" K China)](https://metalforge.io/llms/cymbals/setups/frost.md) ([profile](https://metalforge.io/drummer/frost))
 - Gavin Harrison — [Zildjian K Custom Special Dry Series (14" Hi-Hats, 16" & 18" Crashes, 21" Special Dry Ride, 18" Trash China)](https://metalforge.io/llms/cymbals/setups/gavin-harrison.md) ([profile](https://metalforge.io/drummer/gavin-harrison))
 - Abe Cunningham — [Zildjian K Custom & A Custom Series (14" K Custom Hi-Hats, 18" & 20" K Custom Crashes, 22" K Custom Ride, 19" A Custom China)](https://metalforge.io/llms/cymbals/setups/abe-cunningham.md) ([profile](https://metalforge.io/drummer/abe-cunningham))
 - Richard Christy — [Sabian AAX & HHX Series (14" AAX Stage Hi-Hats, 18" & 19" AAX X-Plosion Crashes, 21" HHX Raw Bell Dry Ride, 18" AAX Chinese)](https://metalforge.io/llms/cymbals/setups/richard-christy.md) ([profile](https://metalforge.io/drummer/richard-christy))
-- Aquiles Priester — [Sabian HHX & AAX Series (14" HHX Evolution Hi-Hats, 18" & 19" HHX X-Plosion Crashes, 21" HHX Groove Ride, 18" AAX Chinese)](https://metalforge.io/llms/cymbals/setups/aquiles-priester.md) ([profile](https://metalforge.io/drummer/aquiles-priester))
+- Aquiles Priester — [Paiste Custom red-coated set (18" Psychoctopus Giga Bell Ride)](https://metalforge.io/llms/cymbals/setups/aquiles-priester.md) ([profile](https://metalforge.io/drummer/aquiles-priester))
 - Paul Mazurkiewicz — [Sabian AAX Series (14" Stage Hi-Hats, 18" & 19" X-Plosion Crashes, 21" Raw Bell Dry Ride, 18" AAXtreme China)](https://metalforge.io/llms/cymbals/setups/paul-mazurkiewicz.md) ([profile](https://metalforge.io/drummer/paul-mazurkiewicz))
 - Mike Mangini — [Sabian HHX & AAX Series (14" HHX Evolution Hi-Hats, 17", 18", 19" HHX Evolution Crashes, 21" HHX Raw Bell Dry Ride)](https://metalforge.io/llms/cymbals/setups/mike-mangini.md) ([profile](https://metalforge.io/drummer/mike-mangini))
 - Matt Garstka — [Meinl Byzance Series (15" Dual Hi-Hats, 18" & 20" Extra Dry Medium Crashes, 22" Dual Ride)](https://metalforge.io/llms/cymbals/setups/matt-garstka.md) ([profile](https://metalforge.io/drummer/matt-garstka))
@@ -71,7 +108,7 @@ For types, alloys, and sizing/weight reference pages see the Reference Guides se
 - Jocke Wallgren — [Zildjian A Custom & K Custom Series (14" A Custom Hi-Hats, 18" & 19" A Custom Crashes, 21" K Custom Ride)](https://metalforge.io/llms/cymbals/setups/jocke-wallgren.md) ([profile](https://metalforge.io/drummer/jocke-wallgren))
 - Tim Yeung — [Sabian AAX & HHX Series (14" AAX Stage Hi-Hats, 18" & 19" AAX X-Plosion Crashes, 21" HHX Raw Bell Dry Ride)](https://metalforge.io/llms/cymbals/setups/tim-yeung.md) ([profile](https://metalforge.io/drummer/tim-yeung))
 - Kevin Talley — [Sabian AAX Series (14" Stage Hi-Hats, 17" & 18" X-Plosion Crashes, 20" Stage Ride)](https://metalforge.io/llms/cymbals/setups/kevin-talley.md) ([profile](https://metalforge.io/drummer/kevin-talley))
-- Martin Axenrot — [Meinl Byzance Series (14" Traditional Medium Hi-Hats, 16" & 18" & 19" Crashes, 22" Traditional Ride, 18" China)](https://metalforge.io/llms/cymbals/setups/martin-axenrot.md) ([profile](https://metalforge.io/drummer/martin-axenrot))
+- Martin Axenrot — [SABIAN HHX / AAX Series (15" HHX Groove Hats, 18" HHX Evolution O-Zone Crash, 21" HHX Legacy Ride, 20" HHX Chinese, 12" HHX Splash, 10" AAX Splash)](https://metalforge.io/llms/cymbals/setups/martin-axenrot.md) ([profile](https://metalforge.io/drummer/martin-axenrot))
 - Paul Bostaph — [Sabian AAX Series (14" AAX Stage Hi-Hats, 17" & 19" AAX X-Plosion Crashes, 21" AAX Stage Ride, 18" AAXtreme China)](https://metalforge.io/llms/cymbals/setups/paul-bostaph.md) ([profile](https://metalforge.io/drummer/paul-bostaph))
 - Sean Reinert — [Zildjian A/K Series (14" A Quick Beat Hi-Hats, 16" & 18" A Crashes, 20" K Custom Dry Ride, 16" China, 10" A Splash)](https://metalforge.io/llms/cymbals/setups/sean-reinert.md) ([profile](https://metalforge.io/drummer/sean-reinert))
 - Nick Menza — [Zildjian A Series (14" A Hi-Hats, 16" & 18" A Crash, 20" A Ride)](https://metalforge.io/llms/cymbals/setups/nick-menza.md) ([profile](https://metalforge.io/drummer/nick-menza))

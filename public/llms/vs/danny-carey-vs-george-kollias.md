@@ -11,7 +11,7 @@ Tool's Danny Carey vs Nile's George Kollias — polyrhythmic progressive metal a
 ## Danny Carey Setup
 
 - **Drums:** Sonor SQ2 Heavy Beech
-- **Cymbals:** Paiste Signature Series (15" Sound Edge Hi-Hats, 18" & 19" Power Crashes, 22" Dry Heavy Ride, 20" & 22" Chinas, various Rude crashes)
+- **Cymbals:** Paiste Signature Series (14" Sound Edge Hi-Hats, 18" & 20" Power Crashes, 22" Dry Heavy Ride "Monad", 2002 & Signature China cymbals)
 - **Snare:** Sonor Danny Carey Signature 14x8" Bronze
 - **Pedals/Hardware:** Sonor Giant Step Twin Effect Double Pedal, Sonor Drummer Throne, Mandala Drum electronic pads
 - **Sticks:** Vic Firth Danny Carey Signature
@@ -22,7 +22,7 @@ Tool's Danny Carey vs Nile's George Kollias — polyrhythmic progressive metal a
 - **Cymbals:** Zildjian (14" K Mastersound Hi-Hats, 17" & 18" K Custom Dark Crashes, 21" A Custom Mega Bell Ride, 18" China)
 - **Snare:** Pearl George Kollias Signature 14x6.5"
 - **Pedals/Hardware:** Pearl Demon XR Double Pedal (Co-designed), Pearl D-3000 Throne
-- **Sticks:** Vic Firth George Kollias Signature SGK
+- **Sticks:** Vic Firth
 
 ## Playing Style
 
@@ -34,7 +34,7 @@ Carey's technique favors spacious, deliberate polyrhythmic construction — his 
 
 ## Key Differences
 
-Danny plays a Sonor SQ2 Heavy Beech kit with a Sonor Danny Carey Signature 14x8" Bronze snare and Paiste Signature Series cymbals (15" Sound Edge Hi-Hats, 18" & 19" Power Crashes, 22" Dry Heavy Ride, 20" & 22" Chinas), driven by a Sonor Giant Step Twin Effect double pedal, Mandala Drum electronic pads, and Vic Firth signature sticks. George plays a Pearl Masterworks Stadium Exotic kit with a Pearl George Kollias Signature 14x6.5" snare and Zildjian cymbals (14" K Mastersound Hi-Hats, 17" & 18" K Custom Dark Crashes, 21" A Custom Mega Bell Ride, 18" China), driven by his co-designed Pearl Demon XR double pedal and Vic Firth George Kollias Signature SGK sticks. Carey's technique favors spacious, deliberate polyrhythmic construction — his Fibonacci-sequence patterns on "Lateralus" (2001) and the expanded electronic textures on "Fear Inoculum" (2019) prioritize compositional depth over raw speed, giving Tool's songs room to breathe across long, evolving arrangements. Kollias's technique is built for sustained extreme velocity — his heel-toe double bass and gravity-blast work let him hold blast beats at tempos few drummers can sustain across an entire song, let alone an album like "Annihilation of the Wicked."
+Danny plays a Sonor SQ2 Heavy Beech kit with a Sonor Danny Carey Signature 14x8" Bronze snare and Paiste Signature Series cymbals (15" Sound Edge Hi-Hats, 18" & 19" Power Crashes, 22" Dry Heavy Ride, 20" & 22" Chinas), driven by a Sonor Giant Step Twin Effect double pedal, Mandala Drum electronic pads, and Vic Firth signature sticks. George plays a Pearl Masterworks Stadium Exotic kit with a Pearl George Kollias Signature 14x6.5" snare and Zildjian cymbals (14" K Mastersound Hi-Hats, 17" & 18" K Custom Dark Crashes, 21" A Custom Mega Bell Ride, 18" China), driven by his co-designed Pearl Demon XR double pedal and Vic Firth sticks. Carey's technique favors spacious, deliberate polyrhythmic construction — his Fibonacci-sequence patterns on "Lateralus" (2001) and the expanded electronic textures on "Fear Inoculum" (2019) prioritize compositional depth over raw speed, giving Tool's songs room to breathe across long, evolving arrangements. Kollias's technique is built for sustained extreme velocity — his heel-toe double bass and gravity-blast work let him hold blast beats at tempos few drummers can sustain across an entire song, let alone an album like "Annihilation of the Wicked."
 
 ## Influence & Legacy
 
@@ -46,17 +46,17 @@ Danny Carey and George Kollias occupy opposite poles of technical metal drumming
 
 ## FAQ
 
-**Q: What are the main differences between Danny Carey's and George Kollias's drum kits?**
-A: Danny Carey plays Sonor SQ2 Heavy Beech with Paiste cymbals, while George Kollias uses Pearl Masterworks Stadium Exotic (Piano Black with Gold Hardware) with Zildjian cymbals. Danny plays a Sonor SQ2 Heavy Beech kit with a Sonor Danny Carey Signature 14x8" Bronze snare and Paiste Signature Series cymbals (15" Sound Edge Hi-Hats, 18" & 19" Power Crashes, 22" Dry Heavy Ride, 20" & 22" Chinas), driven by a Sonor Giant Step Twin Effect double pedal, Mandala Drum electronic pads, and Vic Firth signature sticks. George plays a Pearl Masterworks Stadium Exotic kit with a Pearl George Kollias Signature 14x6.5" snare and Zildjian cymbals (14" K Mastersound Hi-Hats, 17" & 18" K Custom Dark Crashes, 21" A Custom Mega Bell Ride, 18" China), driven by his co-designed Pearl Demon XR double pedal and Vic Firth George Kollias Signature SGK sticks.
+**Q: Who is technically more skilled, Danny Carey or George Kollias?**
+A: They excel in different disciplines. Danny Carey's skill set is rooted in complex polyrhythms, odd time signatures, and electronic integration built across Tool's catalog since 1990. George Kollias's skill set is rooted in sustained extreme-speed blast beats and heel-toe double bass technique built across Nile's technical death metal since 2004.
 
-**Q: What drums does Danny Carey play vs George Kollias?**
-A: Danny Carey plays Sonor SQ2 Heavy Beech. George Kollias plays Pearl Masterworks Stadium Exotic (Piano Black with Gold Hardware).
+**Q: What is each drummer's signature technique?**
+A: Danny Carey's signature is Fibonacci-sequence polyrhythms and layered electronic percussion via Mandala pads, most prominent on Tool's "Lateralus" and "Fear Inoculum." George Kollias's signature is heel-toe blast beats sustained past 240 BPM, showcased on Nile albums like "Annihilation of the Wicked."
 
-**Q: Who is the better progressive metal drummer, Danny Carey or George Kollias?**
-A: Both are legends in their own right. Danny Carey and George Kollias occupy opposite poles of technical metal drumming. See the full analysis at [metalforge.io/vs/danny-carey-vs-george-kollias](https://metalforge.io/vs/danny-carey-vs-george-kollias).
+**Q: What bands have Danny Carey and George Kollias played in?**
+A: Danny Carey has drummed for Tool since 1990 and also plays in Volto! and Legend of the Seagullmen. George Kollias has drummed for Nile since 2004 and previously played in Nightfall from 2002 to 2009.
 
-**Q: What cymbals do Danny Carey and George Kollias use?**
-A: Danny Carey uses Paiste Signature Series (15" Sound Edge Hi-Hats, 18" & 19" Power Crashes, 22" Dry Heavy Ride, 20" & 22" Chinas, various Rude crashes). George Kollias uses Zildjian (14" K Mastersound Hi-Hats, 17" & 18" K Custom Dark Crashes, 21" A Custom Mega Bell Ride, 18" China).
+**Q: What gear do Danny Carey and George Kollias use?**
+A: Danny Carey plays a Sonor SQ2 Heavy Beech kit with a 14x8" Bronze signature snare and Paiste Signature Series cymbals, plus Mandala Drum electronic pads. George Kollias plays a Pearl Masterworks Stadium Exotic kit with a 14x6.5" Pearl George Kollias Signature snare and Zildjian cymbals, driven by his co-designed Pearl Demon XR double pedal.
 
 ---
 
@@ -67,4 +67,4 @@ A: Danny Carey uses Paiste Signature Series (15" Sound Edge Hi-Hats, 18" & 19" P
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

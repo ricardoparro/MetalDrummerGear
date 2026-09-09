@@ -46,17 +46,17 @@ Kevin Talley's speed and precision across Dying Fetus, Misery Index, and Six Fee
 
 ## FAQ
 
-**Q: What are the main differences between Kevin Talley's and Daray's drum kits?**
-A: Kevin Talley plays Pearl Masters Premium Legend with Sabian cymbals, while Daray uses Pearl Masterworks Stadium Exotic with Paiste cymbals. Kevin plays a Pearl Masters Premium Legend kit with a 14x5.5" Pearl Masters maple snare, Sabian AAX Series cymbals (14" Stage Hi-Hats, 17" & 18" X-Plosion Crashes, 20" Stage Ride), and a Pearl Eliminator double pedal. Daray plays a Pearl Masterworks Stadium Exotic kit with a Pearl Reference 14x5.5" Brass snare, Paiste RUDE & 2002 Series cymbals (14" RUDE Hi-Hats, 17" & 18" RUDE Crashes, 22" RUDE Power Ride), and a Pearl Demon XR double pedal.
+**Q: Who is technically more skilled, Kevin Talley or Daray?**
+A: Both are elite extreme-speed drummers from different corners of death metal. Kevin Talley's skill set is rooted in brutal death metal and grindcore — fast, precise single-stroke blasting proven across Dying Fetus, Misery Index, and Six Feet Under. Daray's skill set spans two extreme metal chairs at once, combining Vader's technical death metal speed with Dimmu Borgir's theatrical symphonic black metal.
 
-**Q: What drums does Kevin Talley play vs Daray?**
-A: Kevin Talley plays Pearl Masters Premium Legend. Daray plays Pearl Masterworks Stadium Exotic.
+**Q: What is each drummer's signature technique?**
+A: Kevin Talley's signature is relentless, high-velocity single-stroke and gravity-blast beats that defined brutal death metal's drumming standard. Daray's signature is rapid-fire double bass work delivered through a Pearl Demon XR double pedal, applied across both stripped-down death metal and orchestrated black metal.
 
-**Q: Who is the better extreme / death / black metal drummer, Kevin Talley or Daray?**
-A: Both are legends in their own right. Kevin Talley's speed and precision across Dying Fetus, Misery Index, and Six Feet Under helped establish brutal death metal's blast-beat standard on American soil. See the full analysis at [metalforge.io/vs/kevin-talley-vs-daray](https://metalforge.io/vs/kevin-talley-vs-daray).
+**Q: What bands have Kevin Talley and Daray played in?**
+A: Kevin Talley has played with Dying Fetus, Misery Index, Six Feet Under, Chimaira, and Suffocation. Daray played in Polish death metal band Vader from 2006 to 2016 and has drummed for Norwegian symphonic black metal band Dimmu Borgir since 2008.
 
-**Q: What cymbals do Kevin Talley and Daray use?**
-A: Kevin Talley uses Sabian AAX Series (14" Stage Hi-Hats, 17" & 18" X-Plosion Crashes, 20" Stage Ride). Daray uses Paiste RUDE & 2002 Series (14" RUDE Hi-Hats, 17" & 18" RUDE Crashes, 22" RUDE Power Ride).
+**Q: What gear do Kevin Talley and Daray use?**
+A: Kevin Talley plays a Pearl Masters Premium Legend kit with a 14x5.5" Pearl Masters maple snare and Sabian AAX Series cymbals, driven by a Pearl Eliminator double pedal. Daray plays a Pearl Masterworks Stadium Exotic kit with a Pearl Reference 14x5.5" Brass snare and Paiste RUDE & 2002 Series cymbals, driven by a Pearl Demon XR double pedal.
 
 ---
 
@@ -67,4 +67,4 @@ A: Kevin Talley uses Sabian AAX Series (14" Stage Hi-Hats, 17" & 18" X-Plosion C
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

@@ -18,10 +18,10 @@ Mayhem's Hellhammer vs Motörhead/Scorpions' Mikkey Dee — cold Norwegian black
 
 ## Mikkey Dee Setup
 
-- **Drums:** Yamaha Recording Custom
-- **Cymbals:** Zildjian A Custom & K Series (14" A Custom Hi-Hats, 18" & 19" A Custom Crashes, 22" K Custom Ride, 20" Oriental China)
-- **Snare:** Yamaha Mikkey Dee Signature 14x8"
-- **Pedals/Hardware:** Yamaha FP9 Double Pedal, Yamaha Hardware
+- **Drums:** Sonor SQ2
+- **Cymbals:** Paiste Signature Series (14" Sound Edge Hi-Hats, 19" & 20" Power Crashes, 22" Power Ride, 18" Heavy China)
+- **Snare:** Sonor Mikkey Dee Signature 14x7.25" Birch
+- **Pedals/Hardware:** DW 5000 Series Pedal, Sonor Hardware
 - **Sticks:** Wincent Mikkey Dee Signature (W-MDS)
 
 ## Playing Style
@@ -34,7 +34,7 @@ Hellhammer's blast beats favor cold, relentless one-foot speed built for atmosph
 
 ## Key Differences
 
-Hellhammer plays a Pearl Reference Series kit with a Pearl Reference snare and Zildjian A Custom cymbals (14" A Custom Hi-Hats, 17" & 19" A Custom Crashes, 20" Z Custom Dark Ride, 18" A China Boy), driven by a Pearl Demon Drive double pedal and Vic Firth American Classic 5B sticks. Mikkey Dee plays a Yamaha Recording Custom / Oak Custom kit built around a single 24" bass drum with a Yamaha Recording Custom Aluminum or Brass 14x6.5" snare, and Zildjian A Custom cymbals (15" A New Beat Hi-Hats, 18"-20" A Custom Crashes, 22" A Custom Medium Ride, 18" A Custom China, 10" A Custom Splash), driven by a Yamaha FP9 / Flying Dragon pedal and Vic Firth 2B sticks. Hellhammer's blast beats favor cold, relentless one-foot speed built for atmosphere and aggression over technical display, and he plays barefoot for direct tactile feedback at extreme tempos. Dee's technique blends jazz-trained precision from his King Diamond years with pure rock power — a single massive 24" bass drum rather than a compact double-kick setup delivers the chest-thumping low end that defined Motörhead's live sound, with explosive drum solos and a heavy backbeat built to cut through Lemmy's legendary stage volume.
+Hellhammer plays a Sonor SQ2 Heavy Beech kit with a Sonor SQ2 Heavy Beech snare and Paiste RUDE Series cymbals, driven by an Axis Double Pedal and Vic Firth American Classic 5B sticks. Mikkey Dee plays a Sonor SQ2 kit built around a single 18"x22" bass drum with a Sonor Mikkey Dee Signature 14"x7.25" Birch snare, and Paiste Signature Series cymbals (14" Sound Edge Hi-Hats, 19" & 20" Power Crashes, 22" Power Ride, 18" Heavy China), driven by a DW 5000 Series double pedal and Wincent Mikkey Dee Signature sticks. Hellhammer's blast beats favor cold, relentless one-foot speed built for atmosphere and aggression over technical display, and he plays barefoot for direct tactile feedback at extreme tempos. Dee's technique blends jazz-trained precision from his King Diamond years with pure rock power — a single massive 24" bass drum rather than a compact double-kick setup delivers the chest-thumping low end that defined Motörhead's live sound, with explosive drum solos and a heavy backbeat built to cut through Lemmy's legendary stage volume.
 
 ## Influence & Legacy
 
@@ -46,17 +46,17 @@ Hellhammer and Mikkey Dee represent two very different definitions of extreme dr
 
 ## FAQ
 
-**Q: What are the main differences between Hellhammer's and Mikkey Dee's drum kits?**
-A: Hellhammer plays Sonor SQ2 Heavy Beech with Paiste cymbals, while Mikkey Dee uses Yamaha Recording Custom with Zildjian cymbals. Hellhammer plays a Pearl Reference Series kit with a Pearl Reference snare and Zildjian A Custom cymbals (14" A Custom Hi-Hats, 17" & 19" A Custom Crashes, 20" Z Custom Dark Ride, 18" A China Boy), driven by a Pearl Demon Drive double pedal and Vic Firth American Classic 5B sticks. Mikkey Dee plays a Yamaha Recording Custom / Oak Custom kit built around a single 24" bass drum with a Yamaha Recording Custom Aluminum or Brass 14x6.5" snare, and Zildjian A Custom cymbals (15" A New Beat Hi-Hats, 18"-20" A Custom Crashes, 22" A Custom Medium Ride, 18" A Custom China, 10" A Custom Splash), driven by a Yamaha FP9 / Flying Dragon pedal and Vic Firth 2B sticks.
+**Q: How do Hellhammer and Mikkey Dee compare as drummers?**
+A: Hellhammer has anchored Mayhem's black metal since 1988, delivering genre-defining blast beats on "De Mysteriis Dom Sathanas" (1994). Mikkey Dee drove Motörhead for 23 years (1992-2015) with thunderous single-kick power before joining Scorpions in 2016. Hellhammer represents extreme metal speed; Dee represents hard rock power and stamina.
 
-**Q: What drums does Hellhammer play vs Mikkey Dee?**
-A: Hellhammer plays Sonor SQ2 Heavy Beech. Mikkey Dee plays Yamaha Recording Custom.
+**Q: What bands have Hellhammer and Mikkey Dee played in?**
+A: Hellhammer has drummed for Mayhem since 1988 and Dimmu Borgir since 1999. Mikkey Dee played with King Diamond in the 1980s, drummed for Motörhead from 1992 to 2015, and has been Scorpions' drummer since 2016.
 
-**Q: Who is the better extreme / death / black metal drummer, Hellhammer or Mikkey Dee?**
-A: Both are legends in their own right. Hellhammer and Mikkey Dee represent two very different definitions of extreme drumming power, both rooted in Nordic and Scandinavian metal traditions. See the full analysis at [metalforge.io/vs/hellhammer-vs-mikkey-dee](https://metalforge.io/vs/hellhammer-vs-mikkey-dee).
+**Q: What gear do Hellhammer and Mikkey Dee use?**
+A: Hellhammer plays a Sonor SQ2 Heavy Beech kit with a Sonor SQ2 Heavy Beech snare and Paiste RUDE Series cymbals, driven by an Axis Double Pedal. Mikkey Dee plays Sonor drums built around a single 18"x22" bass drum, with a Sonor Mikkey Dee Signature snare and Paiste Signature Series cymbals.
 
-**Q: What cymbals do Hellhammer and Mikkey Dee use?**
-A: Hellhammer uses Paiste (14" RUDE Hi-Hats, 18" & 19" RUDE Crashes, 20" RUDE Ride, 18" RUDE China). Mikkey Dee uses Zildjian A Custom & K Series (14" A Custom Hi-Hats, 18" & 19" A Custom Crashes, 22" K Custom Ride, 20" Oriental China).
+**Q: Why does Mikkey Dee use a single 24" bass drum instead of double bass?**
+A: Mikkey Dee prioritizes the massive, chest-thumping low end a large single kick provides over the speed of a compact double-bass setup, even though he has used a double pedal on occasion — the resonance and power of one large drum suited Motörhead's thunderous live sound better than two smaller ones.
 
 ---
 
@@ -67,4 +67,4 @@ A: Hellhammer uses Paiste (14" RUDE Hi-Hats, 18" & 19" RUDE Crashes, 20" RUDE Ri
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

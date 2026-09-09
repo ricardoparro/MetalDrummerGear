@@ -46,17 +46,17 @@ Shannon Larkin and Jaska Raatikainen show two ways hard-hitting drumming can def
 
 ## FAQ
 
-**Q: What are the main differences between Shannon Larkin's and Jaska Raatikainen's drum kits?**
-A: Shannon Larkin plays ddrum Dios Series with Sabian cymbals, while Jaska Raatikainen uses Pearl Masters Premium Maple with Zildjian cymbals. Larkin plays a ddrum Dios Series kit with a ddrum Dios 14x6.5" Maple snare and Sabian AAX & HHX Series cymbals, powered by a DW 9000 Series double pedal. Raatikainen played a Pearl Masters Premium Maple kit with a Pearl Masters 14x5.5" Maple snare and Zildjian A Custom & K Custom cymbals, powered by a Pearl Eliminator double pedal.
+**Q: What genre do Shannon Larkin and Jaska Raatikainen play?**
+A: Shannon Larkin has drummed for Godsmack since 2002, a groove-driven hard rock and post-grunge metal band. Jaska Raatikainen co-founded Children of Bodom in 1993 and drove the band's melodic death metal, blending neoclassical melodies with extreme metal drumming, until its 2019 breakup.
 
-**Q: What drums does Shannon Larkin play vs Jaska Raatikainen?**
-A: Shannon Larkin plays ddrum Dios Series. Jaska Raatikainen plays Pearl Masters Premium Maple.
+**Q: What gear does Shannon Larkin use vs Jaska Raatikainen?**
+A: Shannon Larkin plays a ddrum Dios Series kit with a ddrum Dios 14x6.5" Maple snare, Sabian AAX & HHX Series cymbals, and a DW 9000 Series double pedal. Jaska Raatikainen played a Pearl Masters Premium Maple kit with a Pearl Masters 14x5.5" Maple snare, Zildjian A Custom & K Custom cymbals, and a Pearl Eliminator double pedal.
 
-**Q: Who is the better alternative / nu-metal drummer, Shannon Larkin or Jaska Raatikainen?**
-A: Both are legends in their own right. Shannon Larkin and Jaska Raatikainen show two ways hard-hitting drumming can define a band's identity. See the full analysis at [metalforge.io/vs/shannon-larkin-vs-jaska-raatikainen](https://metalforge.io/vs/shannon-larkin-vs-jaska-raatikainen).
+**Q: Did Shannon Larkin ever play for Black Sabbath?**
+A: Yes — Shannon Larkin briefly filled in for Black Sabbath's touring lineup for one show in 1997, years before he joined Godsmack in 2002.
 
-**Q: What cymbals do Shannon Larkin and Jaska Raatikainen use?**
-A: Shannon Larkin uses Sabian AAX & HHX Series (14" AAX Stage Hi-Hats, 18" & 19" AAX X-Plosion Crashes, 21" HHX Raw Bell Dry Ride, 10" AAX Splash, 18" AAX Chinese). Jaska Raatikainen uses Zildjian A Custom & K Custom Series (14" A Custom Hi-Hats, 17" & 18" A Custom Crashes, 20" K Custom Ride).
+**Q: How long was Jaska Raatikainen in Children of Bodom?**
+A: Jaska Raatikainen was a founding member of Children of Bodom in 1993 and remained the band's drummer for 26 years, recording from "Something Wild" (1997) through the band's farewell in 2019.
 
 ---
 
@@ -67,4 +67,4 @@ A: Shannon Larkin uses Sabian AAX & HHX Series (14" AAX Stage Hi-Hats, 18" & 19"
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

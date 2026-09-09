@@ -18,10 +18,10 @@ Cannibal Corpse's Paul Mazurkiewicz vs Morbid Angel's Pete Sandoval. The Tampa v
 
 ## Pete Sandoval Setup
 
-- **Drums:** ddrum Dios Series
-- **Cymbals:** Sabian AAX Series (14" Stage Hi-Hats, 18" & 19" X-Plosion Crashes, 20" Stage Ride, 18" Chinese)
-- **Snare:** ddrum Dios 14x6.5" Maple
-- **Pedals/Hardware:** ddrum Mercury Double Pedal, ddrum Throne
+- **Drums:** ddrum (specific series unconfirmed)
+- **Cymbals:** Cymbal brand/model not publicly documented
+- **Snare:** ddrum (specific model unconfirmed)
+- **Pedals/Hardware:** ddrum (specific pedal/hardware model unconfirmed)
 - **Sticks:** Pro-Mark (historical endorsement — current sticks unverified)
 
 ## Playing Style
@@ -34,7 +34,7 @@ Mazurkiewicz uses a traditional alternating-leg double kick approach, prioritizi
 
 ## Key Differences
 
-Paul Mazurkiewicz plays a Pearl Reference Series kit with a Pearl Free-Floating 14x6.5" steel snare and Zildjian A Custom Series cymbals, driven by a Pearl Demon Drive double pedal and his own Vater signature sticks. Pete Sandoval played a Tama Artstar II kit with a Tama Artstar 14x6" birch snare and Zildjian A Series cymbals throughout his classic Morbid Angel run, powered by a Tama Iron Cobra double pedal built for his gravity-blast foot technique. Mazurkiewicz uses a traditional alternating-leg double kick approach, prioritizing consistency, groove, and relentless drive over technical flash — his parts serve Cannibal Corpse's riffs rather than showcasing individual virtuosity, keeping tempos punishing across marathon brutal death compositions. Sandoval pioneered the gravity blast, a technique that harnesses gravity and stick rebound rather than muscle to generate single-footed blast beats at speeds once considered physically impossible, a discovery AllMusic's Jason Birchmeier said "challenges one's perception of how fast a drummer can possibly drum."
+Paul Mazurkiewicz plays a Pearl Reference Series kit with a Pearl Free-Floating 14x6.5" steel snare and Zildjian A Custom Series cymbals, driven by a Pearl Demon Drive double pedal and his own Vater signature sticks. Pete Sandoval played a ddrum kit (exact model undocumented) with hardware to match; his cymbal brand was never publicly confirmed, though his gravity blast technique relied on the pedal's rebound action regardless of make. Mazurkiewicz uses a traditional alternating-leg double kick approach, prioritizing consistency, groove, and relentless drive over technical flash — his parts serve Cannibal Corpse's riffs rather than showcasing individual virtuosity, keeping tempos punishing across marathon brutal death compositions. Sandoval pioneered the gravity blast, a technique that harnesses gravity and stick rebound rather than muscle to generate single-footed blast beats at speeds once considered physically impossible, a discovery AllMusic's Jason Birchmeier said "challenges one's perception of how fast a drummer can possibly drum."
 
 ## Influence & Legacy
 
@@ -46,17 +46,17 @@ Paul Mazurkiewicz is the definition of consistent, punishing death metal drummin
 
 ## FAQ
 
-**Q: What are the main differences between Paul Mazurkiewicz's and Pete Sandoval's drum kits?**
-A: Paul Mazurkiewicz plays Pearl Masters Maple Complete with Sabian cymbals, while Pete Sandoval uses ddrum Dios Series with Sabian cymbals. Paul Mazurkiewicz plays a Pearl Reference Series kit with a Pearl Free-Floating 14x6.5" steel snare and Zildjian A Custom Series cymbals, driven by a Pearl Demon Drive double pedal and his own Vater signature sticks. Pete Sandoval played a Tama Artstar II kit with a Tama Artstar 14x6" birch snare and Zildjian A Series cymbals throughout his classic Morbid Angel run, powered by a Tama Iron Cobra double pedal built for his gravity-blast foot technique.
+**Q: What is the main technical difference between Paul Mazurkiewicz and Pete Sandoval's drumming?**
+A: The defining difference is double kick technique. Paul Mazurkiewicz uses traditional alternating-leg double kick pedals for sustained brutal tempos. Pete Sandoval invented the gravity blast — a single-footed technique that uses gravity and stick rebound to achieve blast beat speeds physically impossible with conventional methods, revolutionizing extreme metal drumming.
 
 **Q: What drums does Paul Mazurkiewicz play vs Pete Sandoval?**
-A: Paul Mazurkiewicz plays Pearl Masters Maple Complete. Pete Sandoval plays ddrum Dios Series.
+A: Paul Mazurkiewicz plays Pearl Reference Series drums with Pearl Demon Drive double pedals. Pete Sandoval played a ddrum kit, but the exact model and his cymbal brand were never publicly documented.
 
-**Q: Who is the better extreme / death / black metal drummer, Paul Mazurkiewicz or Pete Sandoval?**
-A: Both are legends in their own right. Paul Mazurkiewicz is the definition of consistent, punishing death metal drumming — over three decades of brutal reliability behind the world's biggest death metal band, never missing a Cannibal Corpse album. See the full analysis at [metalforge.io/vs/paul-mazurkiewicz-vs-pete-sandoval](https://metalforge.io/vs/paul-mazurkiewicz-vs-pete-sandoval).
+**Q: Which Florida death metal drummer is more influential — Paul Mazurkiewicz or Pete Sandoval?**
+A: Both are enormously influential in different ways. Pete Sandoval's gravity blast invention had broader technical impact across all extreme metal. Paul Mazurkiewicz's 35+ year tenure with Cannibal Corpse — the best-selling death metal band — gives him unmatched longevity.
 
-**Q: What cymbals do Paul Mazurkiewicz and Pete Sandoval use?**
-A: Paul Mazurkiewicz uses Sabian AAX Series (14" Stage Hi-Hats, 18" & 19" X-Plosion Crashes, 21" Raw Bell Dry Ride, 18" AAXtreme China). Pete Sandoval uses Sabian AAX Series (14" Stage Hi-Hats, 18" & 19" X-Plosion Crashes, 20" Stage Ride, 18" Chinese).
+**Q: What is the gravity blast technique and who invented it?**
+A: The gravity blast (also called the "Morrisound blast" or "rebound blast") is a drumming technique where the drummer uses gravity and natural rebound to generate extremely fast single-stroke rolls between the bass drum and snare. Pete Sandoval is credited with pioneering its widespread use in death metal.
 
 ---
 
@@ -67,4 +67,4 @@ A: Paul Mazurkiewicz uses Sabian AAX Series (14" Stage Hi-Hats, 18" & 19" X-Plos
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

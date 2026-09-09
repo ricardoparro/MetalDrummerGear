@@ -34,7 +34,7 @@ Grossmann's technique is rooted in classical percussion training and open-handed
 
 ## Key Differences
 
-Hannes Grossmann plays a Tama Starclassic Maple kit with a Tama S.L.P. 14"x6" G-Maple snare and Meinl Byzance Series cymbals (14" Dual Hi-Hats, various crashes, 22" Foundry Reserve Ride), driven by a Tama Iron Cobra 900 Power Glide double pedal and Vic Firth 5A sticks. Tim Yeung has used both Pearl and Tama Reference/Starclassic kits over his career, typically paired with a 14"x6.5" metal snare for maximum cut, Zildjian or Sabian cymbals chosen for bright projection, and a Pearl Demon Drive or Tama Iron Cobra double pedal — a trigger-assisted setup built for consistency at extreme tempos. Grossmann's technique is rooted in classical percussion training and open-handed playing — he often leads with his left hand on hi-hat or ride rather than crossing hands, unlocking independent limb combinations that let him construct polyrhythmic patterns with genuine compositional architecture rather than pure technical display. Yeung's technique prioritizes sustained extreme velocity and unwavering consistency — his blast beats and double bass work stay clean and powerful across entire albums and tours, a template drawn directly from Pete Sandoval's gravity-blast innovations that made him Morbid Angel's natural successor when Sandoval's health forced him out.
+Hannes Grossmann plays a DW Collectors Series kit with a DW Collectors 14x5.5" Maple snare and Meinl Byzance Series cymbals (14" Dual Hi-Hats, various crashes, 22" Foundry Reserve Ride), driven by a DW 9000 Series double pedal and Vic Firth American Classic 5B sticks. Tim Yeung plays a Tama Starclassic Bubinga kit, typically paired with a 14"x6.5" metal snare for maximum cut, Sabian AAX/HHX cymbals chosen for bright projection, and a Tama Speed Cobra 910 double pedal — a setup built for consistency at extreme tempos. Grossmann's technique is rooted in classical percussion training and open-handed playing — he often leads with his left hand on hi-hat or ride rather than crossing hands, unlocking independent limb combinations that let him construct polyrhythmic patterns with genuine compositional architecture rather than pure technical display. Yeung's technique prioritizes sustained extreme velocity and unwavering consistency — his blast beats and double bass work stay clean and powerful across entire albums and tours, a template drawn directly from Pete Sandoval's gravity-blast innovations that made him Morbid Angel's natural successor when Sandoval's health forced him out.
 
 ## Influence & Legacy
 
@@ -46,17 +46,17 @@ Hannes Grossmann and Tim Yeung represent two distinct paths to technical death m
 
 ## FAQ
 
-**Q: What are the main differences between Hannes Grossmann's and Tim Yeung's drum kits?**
-A: Hannes Grossmann plays DW Collectors Series with Meinl cymbals, while Tim Yeung uses Tama Starclassic Bubinga with Sabian cymbals. Hannes Grossmann plays a Tama Starclassic Maple kit with a Tama S.L.P. 14"x6" G-Maple snare and Meinl Byzance Series cymbals (14" Dual Hi-Hats, various crashes, 22" Foundry Reserve Ride), driven by a Tama Iron Cobra 900 Power Glide double pedal and Vic Firth 5A sticks. Tim Yeung has used both Pearl and Tama Reference/Starclassic kits over his career, typically paired with a 14"x6.5" metal snare for maximum cut, Zildjian or Sabian cymbals chosen for bright projection, and a Pearl Demon Drive or Tama Iron Cobra double pedal — a trigger-assisted setup built for consistency at extreme tempos.
+**Q: Who is technically more skilled, Hannes Grossmann or Tim Yeung?**
+A: Both are elite technical death metal drummers with different strengths. Hannes Grossmann's skill set is rooted in classically trained, open-handed compositional precision developed on Necrophagist's "Epitaph" and Obscura's "Cosmogenesis" and "Omnivium." Tim Yeung's skill set is rooted in sustained extreme speed and machine-like consistency built across Hate Eternal, Vital Remains, and Morbid Angel.
 
-**Q: What drums does Hannes Grossmann play vs Tim Yeung?**
-A: Hannes Grossmann plays DW Collectors Series. Tim Yeung plays Tama Starclassic Bubinga.
+**Q: What is each drummer's signature technique?**
+A: Hannes Grossmann's signature is open-handed playing combined with classically informed polyrhythmic composition, most audible on Obscura's "Cosmogenesis" (2009). Tim Yeung's signature is sustained, gravity-blast-influenced double bass and blast beats delivered with unwavering consistency across grueling tour schedules.
 
-**Q: Who is the better extreme / death / black metal drummer, Hannes Grossmann or Tim Yeung?**
-A: Both are legends in their own right. Hannes Grossmann and Tim Yeung represent two distinct paths to technical death metal mastery. See the full analysis at [metalforge.io/vs/hannes-grossmann-vs-tim-yeung](https://metalforge.io/vs/hannes-grossmann-vs-tim-yeung).
+**Q: What bands have Hannes Grossmann and Tim Yeung played in?**
+A: Hannes Grossmann drummed for Necrophagist (2004-2010) and has drummed for Obscura (2007-2014, 2020-present), and co-founded Alkaloid and Blotted Science. Tim Yeung drummed for Hate Eternal (2001-2004), Vital Remains (2003-2007), Morbid Angel (2004-2015), Divine Heresy (2006-2011), and filled in for Nile in 2012.
 
-**Q: What cymbals do Hannes Grossmann and Tim Yeung use?**
-A: Hannes Grossmann uses Meinl Byzance Series (14" Byzance Traditional Hi-Hats, 18" & 19" Byzance Brilliant Crashes, 21" Byzance Traditional Ride). Tim Yeung uses Sabian AAX & HHX Series (14" AAX Stage Hi-Hats, 18" & 19" AAX X-Plosion Crashes, 21" HHX Raw Bell Dry Ride).
+**Q: What gear do Hannes Grossmann and Tim Yeung use?**
+A: Hannes Grossmann plays a DW Collectors Series kit with a DW Collectors maple snare and Meinl Byzance Series cymbals, driven by a DW 9000 Series double pedal. Tim Yeung plays a Tama Starclassic Bubinga kit with a metal snare and Sabian AAX/HHX cymbals, driven by a Tama Speed Cobra 910 double pedal.
 
 ---
 
@@ -67,4 +67,4 @@ A: Hannes Grossmann uses Meinl Byzance Series (14" Byzance Traditional Hi-Hats, 
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

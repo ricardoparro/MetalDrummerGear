@@ -10,11 +10,11 @@ Opeth's Martin Axenrot vs Metallica's Lars Ulrich. Progressive death metal power
 
 ## Martin Axenrot Setup
 
-- **Drums:** Sonor SQ2 Series
-- **Cymbals:** Meinl Byzance Series (14" Traditional Medium Hi-Hats, 16" & 18" & 19" Crashes, 22" Traditional Ride, 18" China)
-- **Snare:** Sonor SQ2 14x5.75" Maple
-- **Pedals/Hardware:** Tama Iron Cobra Double Pedal, Sonor Hardware
-- **Sticks:** Vic Firth American Classic 5B
+- **Drums:** DW (Drum Workshop) — custom, maple/gum shells
+- **Cymbals:** SABIAN HHX / AAX Series (HHX Groove Hats, HHX Evolution O-Zone Crash, HHX Legacy Ride, HHX Chinese, AAX Splash)
+- **Snare:** DW custom (specific model unverified)
+- **Pedals/Hardware:** Unverified
+- **Sticks:** Pro-Mark
 
 ## Lars Ulrich Setup
 
@@ -30,11 +30,11 @@ Martin Axenrot joined Opeth in 2006, stepping in mid-tour on the "Ghost Reveries
 
 ## Technique
 
-Axenrot brought a heavier, more aggressive attack to Opeth's drum chair than his predecessor, informed by his parallel extreme metal work in Bloodbath and Witchery — his twin-bass-drum Sonor setup gave the band's post-2006 material a more forceful low end while still honoring the progressive vocabulary Opeth had established, particularly as the songwriting shifted toward longer, more rock-oriented compositions. Ulrich is a feel-driven player whose drumming serves Metallica's songs above all else — powerful, punchy patterns, mid-tempo stomp on the genre-defining classics, and double bass intensity on the speed tracks, locking in with Hetfield's rhythm guitar to create one of metal's tightest rhythm section bonds rather than chasing technical complexity.
+Axenrot brought a heavier, more aggressive attack to Opeth's drum chair than his predecessor, informed by his parallel extreme metal work in Bloodbath and Witchery — his custom DW kit gave the band's post-2006 material a more forceful low end while still honoring the progressive vocabulary Opeth had established, particularly as the songwriting shifted toward longer, more rock-oriented compositions. Ulrich is a feel-driven player whose drumming serves Metallica's songs above all else — powerful, punchy patterns, mid-tempo stomp on the genre-defining classics, and double bass intensity on the speed tracks, locking in with Hetfield's rhythm guitar to create one of metal's tightest rhythm section bonds rather than chasing technical complexity.
 
 ## Key Differences
 
-Martin Axenrot plays a Sonor SQ2 Series kit built around twin 22"x18" bass drums and a Sonor SQ2 14"x5.75" Maple snare, with Meinl Byzance cymbals (14" Traditional Medium Hi-Hats, 16"/18"/19" Crashes, 22" Traditional Ride, 18" China), a Tama Iron Cobra double pedal, and Vic Firth American Classic 5B sticks. Lars Ulrich plays a Tama Starclassic Maple kit with his signature Tama LU1465 14x6.5" snare and Zildjian A Custom Series cymbals (14" Dyno Beat Hi-Hats, 16", 17" & 18" Rock Crashes, 20" Z Custom China, 22" Ride), powered by a Tama Iron Cobra 900 Power Glide double pedal and Ahead Lars Ulrich Signature aluminum sticks. Axenrot brought a heavier, more aggressive attack to Opeth's drum chair than his predecessor, informed by his parallel extreme metal work in Bloodbath and Witchery — his twin-bass-drum Sonor setup gave the band's post-2006 material a more forceful low end while still honoring the progressive vocabulary Opeth had established, particularly as the songwriting shifted toward longer, more rock-oriented compositions. Ulrich is a feel-driven player whose drumming serves Metallica's songs above all else — powerful, punchy patterns, mid-tempo stomp on the genre-defining classics, and double bass intensity on the speed tracks, locking in with Hetfield's rhythm guitar to create one of metal's tightest rhythm section bonds rather than chasing technical complexity.
+Martin Axenrot plays a custom hand-made DW kit with maple/gum shells, per his own account in a 2016 MusicRadar interview, with SABIAN HHX/AAX cymbals per SABIAN's own artist page, and Pro-Mark sticks. His hardware setup has not been independently verified. Lars Ulrich plays a Tama Starclassic Maple kit with his signature Tama LU1465 14x6.5" snare and Zildjian A Custom Series cymbals (14" Dyno Beat Hi-Hats, 16", 17" & 18" Rock Crashes, 20" Z Custom China, 22" Ride), powered by a Tama Iron Cobra 900 Power Glide double pedal and Ahead Lars Ulrich Signature aluminum sticks. Axenrot brought a heavier, more aggressive attack to Opeth's drum chair than his predecessor, informed by his parallel extreme metal work in Bloodbath and Witchery — his custom DW kit gave the band's post-2006 material a more forceful low end while still honoring the progressive vocabulary Opeth had established, particularly as the songwriting shifted toward longer, more rock-oriented compositions. Ulrich is a feel-driven player whose drumming serves Metallica's songs above all else — powerful, punchy patterns, mid-tempo stomp on the genre-defining classics, and double bass intensity on the speed tracks, locking in with Hetfield's rhythm guitar to create one of metal's tightest rhythm section bonds rather than chasing technical complexity.
 
 ## Influence & Legacy
 
@@ -46,17 +46,17 @@ Martin Axenrot and Lars Ulrich sit at opposite ends of metal's drumming spectrum
 
 ## FAQ
 
-**Q: What are the main differences between Martin Axenrot's and Lars Ulrich's drum kits?**
-A: Martin Axenrot plays Sonor SQ2 Series with Meinl cymbals, while Lars Ulrich uses Tama Starclassic Maple with Zildjian cymbals. Martin Axenrot plays a Sonor SQ2 Series kit built around twin 22"x18" bass drums and a Sonor SQ2 14"x5.75" Maple snare, with Meinl Byzance cymbals (14" Traditional Medium Hi-Hats, 16"/18"/19" Crashes, 22" Traditional Ride, 18" China), a Tama Iron Cobra double pedal, and Vic Firth American Classic 5B sticks. Lars Ulrich plays a Tama Starclassic Maple kit with his signature Tama LU1465 14x6.5" snare and Zildjian A Custom Series cymbals (14" Dyno Beat Hi-Hats, 16", 17" & 18" Rock Crashes, 20" Z Custom China, 22" Ride), powered by a Tama Iron Cobra 900 Power Glide double pedal and Ahead Lars Ulrich Signature aluminum sticks.
+**Q: How do Martin Axenrot and Lars Ulrich compare as drummers?**
+A: Martin Axenrot has drummed for Opeth since 2006, bringing a heavier, twin-bass-drum attack shaped by his death metal work in Bloodbath and Witchery to the band's progressive rock evolution. Lars Ulrich co-founded Metallica in 1981 and built thrash metal's mainstream sound on feel-driven, groove-oriented patterns that prioritize serving the song over technical display.
 
-**Q: What drums does Martin Axenrot play vs Lars Ulrich?**
-A: Martin Axenrot plays Sonor SQ2 Series. Lars Ulrich plays Tama Starclassic Maple.
+**Q: What gear do Martin Axenrot and Lars Ulrich use?**
+A: Martin Axenrot plays a custom hand-made DW kit with maple/gum shells and SABIAN HHX/AAX cymbals, per SABIAN's own artist page and his 2016 MusicRadar interview. Lars Ulrich plays a Tama Starclassic Maple kit with his signature Tama LU1465 snare and Zildjian A Custom cymbals, powered by a Tama Iron Cobra 900 Power Glide double pedal and Ahead signature aluminum sticks.
 
-**Q: Who is the better progressive metal drummer, Martin Axenrot or Lars Ulrich?**
-A: Both are legends in their own right. Martin Axenrot and Lars Ulrich sit at opposite ends of metal's drumming spectrum despite both anchoring era-defining bands. See the full analysis at [metalforge.io/vs/martin-axenrot-vs-lars-ulrich](https://metalforge.io/vs/martin-axenrot-vs-lars-ulrich).
+**Q: What bands are Martin Axenrot and Lars Ulrich known for?**
+A: Martin Axenrot has drummed for Opeth since 2006, recording "Watershed" (2008) through "In Cauda Venenum" (2019), and is also a member of death metal supergroup Bloodbath. Lars Ulrich co-founded Metallica in 1981 and has recorded every studio album from "Kill 'Em All" (1983) to "72 Seasons" (2023).
 
-**Q: What cymbals do Martin Axenrot and Lars Ulrich use?**
-A: Martin Axenrot uses Meinl Byzance Series (14" Traditional Medium Hi-Hats, 16" & 18" & 19" Crashes, 22" Traditional Ride, 18" China). Lars Ulrich uses Zildjian A Custom Series (14" Dyno Beat Hi-Hats, 16", 17" & 18" Rock Crashes, 20" Z Custom China, 22" Ride).
+**Q: Who replaced Martin Lopez in Opeth, and how does that compare to Metallica's lineup stability?**
+A: Martin Axenrot replaced Martin Lopez as Opeth's drummer in 2006 after Lopez departed mid-tour due to health issues. By contrast, Lars Ulrich has been Metallica's only drummer since co-founding the band in 1981, giving Metallica over four decades of uninterrupted drum-chair continuity that Opeth's lineup has not had.
 
 ---
 
@@ -67,4 +67,4 @@ A: Martin Axenrot uses Meinl Byzance Series (14" Traditional Medium Hi-Hats, 16"
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

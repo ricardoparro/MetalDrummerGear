@@ -46,17 +46,17 @@ Ben Koller and Inferno represent two very different corners of extreme drumming 
 
 ## FAQ
 
-**Q: What are the main differences between Ben Koller's and Inferno's drum kits?**
-A: Ben Koller plays Tama Starclassic Maple with Zildjian cymbals, while Inferno uses Pearl Masterworks with Paiste cymbals. Ben Koller plays a Tama Starclassic Maple kit with a Tama S.L.P. 14x6" Brass snare and Zildjian K Dark Series cymbals (14" K Dark Thin Hi-Hats, 18" & 19" K Dark Medium Thin Crashes, 21" K Custom Ride, 18" K China), driven by a Tama Iron Cobra 900 double pedal and Vic Firth American Classic 5B sticks. Inferno plays a Pearl Masterworks kit with a Pearl Reference 14x5" Steel snare and Paiste RUDE Series cymbals (14" Hi-Hats, 14" Blast China, 18" & 19" Crashes, 24" Mega Power Ride, 18" China), powered by a Czarcie Kopyto (Devil's Hoof) double pedal and Vic Firth 5B sticks.
+**Q: What is the difference between Ben Koller and Inferno's drumming?**
+A: Ben Koller (Converge) plays with loose, explosive unpredictability rooted in hardcore punk and grindcore, thriving on sudden tempo shifts that make Converge's mathcore feel dangerous. Inferno (Behemoth) plays with disciplined, sustained blast beat brutality built for Behemoth's dense, orchestrated blackened death metal and arena-scale live shows. Koller is chaos-driven; Inferno is endurance-driven.
 
-**Q: What drums does Ben Koller play vs Inferno?**
-A: Ben Koller plays Tama Starclassic Maple. Inferno plays Pearl Masterworks.
+**Q: What gear do Ben Koller and Inferno use?**
+A: Ben Koller plays a Tama Starclassic Maple kit with a Tama S.L.P. 14x6" Brass snare and Zildjian K Dark Series cymbals, driven by a Tama Iron Cobra 900 double pedal. Inferno plays a Pearl Masterworks kit with a Pearl Reference 14x5" Steel snare and Paiste RUDE Series cymbals, powered by a Czarcie Kopyto (Devil's Hoof) double pedal.
 
-**Q: Who is the better extreme / death / black metal drummer, Ben Koller or Inferno?**
-A: Both are legends in their own right. Ben Koller and Inferno represent two very different corners of extreme drumming united by raw intensity. See the full analysis at [metalforge.io/vs/ben-koller-vs-inferno](https://metalforge.io/vs/ben-koller-vs-inferno).
+**Q: What bands are Ben Koller and Inferno known for?**
+A: Ben Koller has drummed for Converge since 1999, and also plays in Mutoid Man and Killer Be Killed. Inferno has drummed for Behemoth since 1997, also playing in Azarath.
 
-**Q: What cymbals do Ben Koller and Inferno use?**
-A: Ben Koller uses Zildjian (14" K Dark Thin Hi-Hats, 18" & 19" K Dark Medium Thin Crashes, 21" K Custom Ride, 18" K China). Inferno uses Paiste RUDE Series (14" Hi-Hats, 14" Blast China, 18" & 19" Crashes, 24" Mega Power Ride, 18" China).
+**Q: Who has more blast beat endurance, Ben Koller or Inferno?**
+A: Inferno is the more dedicated blast beat endurance specialist, sustaining tempos exceeding 200 BPM across Behemoth's full-length live sets. Ben Koller's Converge material demands less continuous blast beat endurance, favoring sudden bursts of speed within constantly shifting mathcore arrangements instead.
 
 ---
 
@@ -67,4 +67,4 @@ A: Ben Koller uses Zildjian (14" K Dark Thin Hi-Hats, 18" & 19" K Dark Medium Th
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

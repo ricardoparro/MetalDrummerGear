@@ -34,7 +34,7 @@ Dette's technique centers on rapid adaptability — learning complete setlists f
 
 ## Key Differences
 
-Jon Dette's rigs varied by gig — Pearl, Tama, or DW drums with 14"x6.5" metal or maple snares, Sabian or Zildjian cymbals, and DW 9000 or Tama Iron Cobra double pedals. Gene Hoglan has been a longtime Pearl Drums endorser, playing a Pearl Reference Pure kit with a Pearl Reference 14"x6.5" Brass snare, Sabian AAX cymbals (15" hi-hats, crashes to 20", 22" ride), and a Pearl Demon Drive double pedal. Both drummers share a preference for Promark 5B sticks — one of the few gear overlaps between a fill-in specialist's ever-changing rig and a career endorser's dialed-in setup. Dette's technique centers on rapid adaptability — learning complete setlists from multiple major thrash bands on short notice and executing them with the power and consistency fans expect, without deviating from the established parts. Hoglan's technique is built on inventing rather than replicating: his self-developed gravity blast technique let him sustain extreme tempos with less fatigue than conventional blast beats, and his ability to move fluidly between odd time signatures and blast-beat sections without losing the pocket became a benchmark studied across death, thrash, and progressive metal alike.
+Jon Dette has played Ludwig Classic Maple drums since 1996 — with 14"x6.5" metal or maple snares, Sabian or Zildjian cymbals, and DW 9000 or Tama Iron Cobra double pedals. Gene Hoglan has been a longtime Pearl Drums endorser, playing a Pearl Reference Pure kit with a Pearl Reference 14"x6.5" Brass snare, Sabian AAX cymbals (15" hi-hats, crashes to 20", 22" ride), and a Pearl Demon Drive double pedal. Both drummers share a preference for Promark 5B sticks — one of the few gear overlaps between a fill-in specialist's ever-changing rig and a career endorser's dialed-in setup. Dette's technique centers on rapid adaptability — learning complete setlists from multiple major thrash bands on short notice and executing them with the power and consistency fans expect, without deviating from the established parts. Hoglan's technique is built on inventing rather than replicating: his self-developed gravity blast technique let him sustain extreme tempos with less fatigue than conventional blast beats, and his ability to move fluidly between odd time signatures and blast-beat sections without losing the pocket became a benchmark studied across death, thrash, and progressive metal alike.
 
 ## Influence & Legacy
 
@@ -46,17 +46,17 @@ Jon Dette and Gene Hoglan sit at opposite ends of the same profession — both b
 
 ## FAQ
 
-**Q: What are the main differences between Jon Dette's and Gene Hoglan's drum kits?**
-A: Jon Dette plays Ludwig Classic Maple with Sabian cymbals, while Gene Hoglan uses Pearl Reference Pure with Sabian cymbals. Jon Dette's rigs varied by gig — Pearl, Tama, or DW drums with 14"x6.5" metal or maple snares, Sabian or Zildjian cymbals, and DW 9000 or Tama Iron Cobra double pedals. Gene Hoglan has been a longtime Pearl Drums endorser, playing a Pearl Reference Pure kit with a Pearl Reference 14"x6.5" Brass snare, Sabian AAX cymbals (15" hi-hats, crashes to 20", 22" ride), and a Pearl Demon Drive double pedal. Both drummers share a preference for Promark 5B sticks — one of the few gear overlaps between a fill-in specialist's ever-changing rig and a career endorser's dialed-in setup.
+**Q: Have Jon Dette and Gene Hoglan both played in Testament?**
+A: Yes. Jon Dette drummed for Testament from 1997-1999 and 2001-2012, most notably recording "The Gathering" (1999). Gene Hoglan has been Testament's primary drummer since 2007, anchoring the band's modern era alongside his other 20-plus band credits.
 
-**Q: What drums does Jon Dette play vs Gene Hoglan?**
-A: Jon Dette plays Ludwig Classic Maple. Gene Hoglan plays Pearl Reference Pure.
+**Q: Why is Gene Hoglan called "The Atomic Clock"?**
+A: Gene Hoglan earned the nickname for his metronomic timing precision — an inhuman accuracy at extreme tempos that he sustained across Dark Angel, Death, Testament, Strapping Young Lad, and Dethklok over a four-decade career.
 
-**Q: Who is the better thrash metal drummer, Jon Dette or Gene Hoglan?**
-A: Both are legends in their own right. Jon Dette and Gene Hoglan sit at opposite ends of the same profession — both built careers as some of thrash and extreme metal's most in-demand touring and session drummers, and both have held Testament's drum chair at different points. See the full analysis at [metalforge.io/vs/jon-dette-vs-gene-hoglan](https://metalforge.io/vs/jon-dette-vs-gene-hoglan).
+**Q: What gear do Jon Dette and Gene Hoglan use?**
+A: Jon Dette has played Ludwig Classic Maple drums since 1996 with Sabian or Zildjian cymbals. Gene Hoglan plays a Pearl Reference Pure kit with a Pearl Reference Brass snare and Sabian AAX cymbals, driven by a Pearl Demon Drive double pedal. Both use Promark 5B sticks.
 
-**Q: What cymbals do Jon Dette and Gene Hoglan use?**
-A: Jon Dette uses Sabian AAX / Zildjian A Series (14" Hi-Hats, 16" & 18" Crash, 20" Ride, 18" China). Gene Hoglan uses Sabian AAX Series (15" Hi-Hats, 18" & 20" Crashes, 22" Ride, 20" China).
+**Q: What is Jon Dette best known for besides Slayer?**
+A: Jon Dette is best known for his long-term membership in Testament (1997-1999, 2001-2012), where he recorded "The Gathering" (1999) — considered one of Testament's finest albums. He also filled in for Charlie Benante on Anthrax tour dates in 2010.
 
 ---
 
@@ -67,4 +67,4 @@ A: Jon Dette uses Sabian AAX / Zildjian A Series (14" Hi-Hats, 16" & 18" Crash, 
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

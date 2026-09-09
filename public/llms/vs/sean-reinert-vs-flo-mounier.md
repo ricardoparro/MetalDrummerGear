@@ -34,7 +34,7 @@ Reinert's jazz training gave him traditional-grip ghost notes, brush-like dynami
 
 ## Key Differences
 
-Sean played a Pearl Reference maple kit with a Pearl Sensitone 14x5.5" steel/brass snare and Zildjian A Series cymbals (14" A New Beat Hi-Hats, 16" & 18" A Medium Thin Crashes, 20" A Medium Ride), driven by Tama Iron Cobra double pedals and Vic Firth 5A sticks — a jazz-crossover setup built for dynamic range. Flo plays a Pearl Masters Maple Complete kit with a Pearl Masters 14x5.5" Maple snare and Sabian AAX & HHX Series cymbals (14" HHX Stage Hi-Hats, 17" & 18" AAX X-Plosion Crashes, 21" HHX Raw Bell Dry Ride, 18" AAXtreme China), driven by a Pearl Demon Drive double pedal and Vic Firth American Classic 5A sticks. Reinert's jazz training gave him traditional-grip ghost notes, brush-like dynamic control, and polymetric phrasing that let him move between brutal intensity and jazz-informed delicacy within the same passage — a vocabulary almost unheard of in death metal at the time. Mounier's technique is built on raw speed and endurance — his gravity blasts and complex polyrhythmic patterns pushed blast-beat technique to new extremes, while his incorporation of jazz and fusion elements adds musicality without sacrificing Cryptopsy's trademark brutality.
+Sean played a DW Collector's Series drum kit with Zildjian K Custom cymbals, driven by a DW 9000 Double Pedal and Vic Firth American Classic 5A sticks — a jazz-crossover setup built for dynamic range. Flo plays a Pearl Masters Maple Complete kit with a Pearl Masters 14x5.5" Maple snare and Sabian AAX & HHX Series cymbals (14" HHX Stage Hi-Hats, 17" & 18" AAX X-Plosion Crashes, 21" HHX Raw Bell Dry Ride, 18" AAXtreme China), driven by a Pearl Demon Drive double pedal and Vic Firth American Classic 5A sticks. Reinert's jazz training gave him traditional-grip ghost notes, brush-like dynamic control, and polymetric phrasing that let him move between brutal intensity and jazz-informed delicacy within the same passage — a vocabulary almost unheard of in death metal at the time. Mounier's technique is built on raw speed and endurance — his gravity blasts and complex polyrhythmic patterns pushed blast-beat technique to new extremes, while his incorporation of jazz and fusion elements adds musicality without sacrificing Cryptopsy's trademark brutality.
 
 ## Influence & Legacy
 
@@ -46,17 +46,17 @@ Sean Reinert and Flo Mounier are two of technical death metal's founding archite
 
 ## FAQ
 
-**Q: What are the main differences between Sean Reinert's and Flo Mounier's drum kits?**
-A: Sean Reinert plays Tama Artstar II with Zildjian cymbals, while Flo Mounier uses Pearl Masters Maple Complete with Sabian cymbals. Sean played a Pearl Reference maple kit with a Pearl Sensitone 14x5.5" steel/brass snare and Zildjian A Series cymbals (14" A New Beat Hi-Hats, 16" & 18" A Medium Thin Crashes, 20" A Medium Ride), driven by Tama Iron Cobra double pedals and Vic Firth 5A sticks — a jazz-crossover setup built for dynamic range. Flo plays a Pearl Masters Maple Complete kit with a Pearl Masters 14x5.5" Maple snare and Sabian AAX & HHX Series cymbals (14" HHX Stage Hi-Hats, 17" & 18" AAX X-Plosion Crashes, 21" HHX Raw Bell Dry Ride, 18" AAXtreme China), driven by a Pearl Demon Drive double pedal and Vic Firth American Classic 5A sticks.
+**Q: Who is technically more skilled, Sean Reinert or Flo Mounier?**
+A: Both are tech-death pioneers with different specialties. Sean Reinert's skill set was rooted in jazz-fusion vocabulary — ghost notes, polymetric phrasing, and dynamic range — developed on Death's "Human" and Cynic's "Focus." Flo Mounier's skill set is rooted in extreme blast-beat speed and gravity-blast technique developed across Cryptopsy's catalog since 1992.
 
-**Q: What drums does Sean Reinert play vs Flo Mounier?**
-A: Sean Reinert plays Tama Artstar II. Flo Mounier plays Pearl Masters Maple Complete.
+**Q: What is each drummer's signature technique?**
+A: Sean Reinert's signature is jazz-informed ghost notes and dynamic, polymetric phrasing that let him shift between brutality and delicacy within a single passage. Flo Mounier's signature is gravity-blast beats and sustained extreme-speed polyrhythms that pushed blast-beat technique to new physical extremes.
 
-**Q: Who is the better extreme / death / black metal drummer, Sean Reinert or Flo Mounier?**
-A: Both are legends in their own right. Sean Reinert and Flo Mounier are two of technical death metal's founding architects, arriving at the genre's cutting edge from opposite directions in the same early-1990s window. See the full analysis at [metalforge.io/vs/sean-reinert-vs-flo-mounier](https://metalforge.io/vs/sean-reinert-vs-flo-mounier).
+**Q: What bands have Sean Reinert and Flo Mounier played in?**
+A: Sean Reinert recorded Death's "Human" (1991) before becoming the founding drummer of Cynic, recording "Focus" (1993) and "Traced in Air" (2008). Flo Mounier has been Cryptopsy's only constant member since joining in 1992, appearing on every album from "Ungentle Exhumation" through "As Gomorrah Burns" (2023).
 
-**Q: What cymbals do Sean Reinert and Flo Mounier use?**
-A: Sean Reinert uses Zildjian A/K Series (14" A Quick Beat Hi-Hats, 16" & 18" A Crashes, 20" K Custom Dry Ride, 16" China, 10" A Splash). Flo Mounier uses Sabian AAX & HHX Series (14" HHX Stage Hi-Hats, 17" & 18" AAX X-Plosion Crashes, 21" HHX Raw Bell Dry Ride, 18" AAXtreme China).
+**Q: What gear do Sean Reinert and Flo Mounier use?**
+A: Sean Reinert played a DW Collector's Series drum kit with Zildjian K Custom cymbals, driven by a DW 9000 Double Pedal and Vic Firth American Classic 5A sticks. Flo Mounier plays a Pearl Masters Maple Complete kit with a Pearl Masters 14x5.5" Maple snare and Sabian AAX & HHX Series cymbals, driven by a Pearl Demon Drive double pedal.
 
 ---
 
@@ -67,4 +67,4 @@ A: Sean Reinert uses Zildjian A/K Series (14" A Quick Beat Hi-Hats, 16" & 18" A 
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

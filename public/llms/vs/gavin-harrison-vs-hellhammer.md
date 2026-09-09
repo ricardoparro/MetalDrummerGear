@@ -34,7 +34,7 @@ Harrison specializes in linear drumming and polyrhythmic layering, using deep mu
 
 ## Key Differences
 
-Gavin Harrison plays a Sonor SQ2 kit with thin maple shells, his own Sonor Gavin Harrison Signature 14x5.25" brass snare, and Zildjian K Custom Special Dry cymbals developed in direct collaboration with him, paired with his Vic Firth Gavin Harrison Signature stick — a setup built for clarity and articulation. Hellhammer plays a Pearl Reference Series kit with a Pearl Reference snare and Zildjian A Custom cymbals (14" A Custom Hi-Hats, 17" & 19" A Custom Crashes, 20" Z Custom Dark Ride, 18" A China Boy), driven by a Pearl Demon Drive double pedal and Vic Firth American Classic 5B sticks — a near-total sonic opposite of Harrison's dry, restrained rig, built instead for raw cutting power at extreme tempos. Harrison specializes in linear drumming and polyrhythmic layering, using deep musical instinct and meticulous ghost-note weaving through odd time signatures to make technically impossible grooves feel natural, treating space and cymbal decay as compositional tools rather than chasing raw volume. Hellhammer's blast beats are built on cold, relentless one-foot precision, and he famously plays barefoot for the direct tactile feedback he says is essential to holding tempo accuracy at extreme speeds — a machine-like consistency that is the polar opposite of Harrison's controlled, dry restraint.
+Gavin Harrison plays a Sonor SQ2 kit with thin maple shells, his own Sonor Gavin Harrison Signature 14x5.25" brass snare, and Zildjian K Custom Special Dry cymbals developed in direct collaboration with him, paired with his Vic Firth Gavin Harrison Signature stick — a setup built for clarity and articulation. Hellhammer plays a Sonor SQ2 Heavy Beech kit with a Sonor SQ2 Heavy Beech snare and Paiste RUDE Series cymbals, driven by an Axis Double Pedal and Vic Firth American Classic 5B sticks — a near-total sonic opposite of Harrison's dry, restrained rig, built instead for raw cutting power at extreme tempos. Harrison specializes in linear drumming and polyrhythmic layering, using deep musical instinct and meticulous ghost-note weaving through odd time signatures to make technically impossible grooves feel natural, treating space and cymbal decay as compositional tools rather than chasing raw volume. Hellhammer's blast beats are built on cold, relentless one-foot precision, and he famously plays barefoot for the direct tactile feedback he says is essential to holding tempo accuracy at extreme speeds — a machine-like consistency that is the polar opposite of Harrison's controlled, dry restraint.
 
 ## Influence & Legacy
 
@@ -46,17 +46,17 @@ Gavin Harrison and Hellhammer represent technical mastery from opposite ends of 
 
 ## FAQ
 
-**Q: What are the main differences between Gavin Harrison's and Hellhammer's drum kits?**
-A: Gavin Harrison plays Sonor SQ2 Series with Zildjian cymbals, while Hellhammer uses Sonor SQ2 Heavy Beech with Paiste cymbals. Gavin Harrison plays a Sonor SQ2 kit with thin maple shells, his own Sonor Gavin Harrison Signature 14x5.25" brass snare, and Zildjian K Custom Special Dry cymbals developed in direct collaboration with him, paired with his Vic Firth Gavin Harrison Signature stick — a setup built for clarity and articulation. Hellhammer plays a Pearl Reference Series kit with a Pearl Reference snare and Zildjian A Custom cymbals (14" A Custom Hi-Hats, 17" & 19" A Custom Crashes, 20" Z Custom Dark Ride, 18" A China Boy), driven by a Pearl Demon Drive double pedal and Vic Firth American Classic 5B sticks — a near-total sonic opposite of Harrison's dry, restrained rig, built instead for raw cutting power at extreme tempos.
+**Q: How do Gavin Harrison and Hellhammer compare as drummers?**
+A: Gavin Harrison (Porcupine Tree, King Crimson) is known for meticulous polyrhythmic layering, ghost notes, and dry, controlled precision built for progressive rock's subtlety. Hellhammer (Mayhem, Dimmu Borgir) is known for cold, relentless blast beats delivered with icy one-foot precision, defining second-wave black metal's speed vocabulary. Harrison represents composed restraint; Hellhammer represents raw, atmosphere-first extremity.
 
-**Q: What drums does Gavin Harrison play vs Hellhammer?**
-A: Gavin Harrison plays Sonor SQ2 Series. Hellhammer plays Sonor SQ2 Heavy Beech.
+**Q: What gear do Gavin Harrison and Hellhammer use?**
+A: Gavin Harrison plays a Sonor SQ2 kit with his signature Sonor 14x5.25" brass snare and Zildjian K Custom Special Dry cymbals. Hellhammer plays a Sonor SQ2 Heavy Beech kit with a Sonor SQ2 Heavy Beech snare and Paiste RUDE Series cymbals, driven by an Axis Double Pedal.
 
-**Q: Who is the better extreme / death / black metal drummer, Gavin Harrison or Hellhammer?**
-A: Both are legends in their own right. Gavin Harrison and Hellhammer represent technical mastery from opposite ends of the volume dial. See the full analysis at [metalforge.io/vs/gavin-harrison-vs-hellhammer](https://metalforge.io/vs/gavin-harrison-vs-hellhammer).
+**Q: What bands are Gavin Harrison and Hellhammer known for?**
+A: Gavin Harrison is best known for Porcupine Tree (since 2002) and King Crimson (since 2008), and also drums for The Pineapple Thief. Hellhammer has drummed for Mayhem since 1988 and Dimmu Borgir since 1999, alongside co-founding Arcturus.
 
-**Q: What cymbals do Gavin Harrison and Hellhammer use?**
-A: Gavin Harrison uses Zildjian K Custom Special Dry Series (14" Hi-Hats, 16" & 18" Crashes, 21" Special Dry Ride, 18" Trash China). Hellhammer uses Paiste (14" RUDE Hi-Hats, 18" & 19" RUDE Crashes, 20" RUDE Ride, 18" RUDE China).
+**Q: Does Hellhammer play barefoot?**
+A: Yes — Hellhammer famously plays barefoot, saying the direct tactile feedback is essential to holding his icy, relentless blast-beat tempo accuracy at extreme speeds with Mayhem and Dimmu Borgir. Gavin Harrison plays in standard footwear across his session, Porcupine Tree, and King Crimson work.
 
 ---
 
@@ -67,4 +67,4 @@ A: Gavin Harrison uses Zildjian K Custom Special Dry Series (14" Hi-Hats, 16" & 
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

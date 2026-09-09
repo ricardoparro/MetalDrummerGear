@@ -1,6 +1,6 @@
 # Jay Weinberg vs Mike Mangini — Drum Kit Comparison
 
-> Side-by-side gear comparison between Jay Weinberg (Suicidal Tendencies) and Mike Mangini (Dream Theater).
+> Side-by-side gear comparison between Jay Weinberg (Suicidal Tendencies) and Mike Mangini (Godsmack (2026-present); Dream Theater (2010-2023)).
 
 **Category:** Progressive Metal · **URL:** https://metalforge.io/vs/jay-weinberg-vs-mike-mangini
 
@@ -34,7 +34,7 @@ Weinberg's technique is precision-meets-chaos — navigating Slipknot's multi-dr
 
 ## Key Differences
 
-Jay Weinberg played Tama Starclassic Maple/Birch drums with Meinl Byzance cymbals and Tama Iron Cobra pedals during his Slipknot tenure — a setup built for visual impact and live endurance. Mike Mangini plays Yamaha Absolute Maple Hybrid drums with Zildjian K Custom and A Custom cymbals and Yamaha chain drive double pedals — a technically focused setup supporting Dream Theater's precision-first progressive metal. Weinberg's technique is precision-meets-chaos — navigating Slipknot's multi-drummer live setup required exceptional timing, independence, and endurance night after night while delivering the chaotic energy the band demands. Mangini specializes in speed and complex metric modulation, developing proprietary techniques he documents in his *Speed and Dexterity* instructional series and applying biomechanical analysis to maximize performance efficiency within Dream Theater's demanding material.
+Jay Weinberg played SJC Custom Drums with Zildjian cymbals and DW hardware during his Slipknot tenure — a setup built for visual impact and live endurance. Mike Mangini plays a Pearl Reference Series kit with Pearl Reference snares, Sabian HHX Evolution and AAX X-Plosion cymbals, and a Pearl Demon Drive double pedal — a technically focused setup supporting Dream Theater's precision-first progressive metal. Weinberg's technique is precision-meets-chaos — navigating Slipknot's multi-drummer live setup required exceptional timing, independence, and endurance night after night while delivering the chaotic energy the band demands. Mangini specializes in speed and complex metric modulation, developing proprietary techniques he documents in his *Speed and Dexterity* instructional series and applying biomechanical analysis to maximize performance efficiency within Dream Theater's demanding material.
 
 ## Influence & Legacy
 
@@ -46,17 +46,14 @@ Jay Weinberg and Mike Mangini share the uncommon experience of replacing iconic 
 
 ## FAQ
 
-**Q: What are the main differences between Jay Weinberg's and Mike Mangini's drum kits?**
-A: Jay Weinberg plays SJC Custom Drums (OBEY x ST Collaboration Kit) with Zildjian cymbals, while Mike Mangini uses Pearl Reference Series with Sabian cymbals. Jay Weinberg played Tama Starclassic Maple/Birch drums with Meinl Byzance cymbals and Tama Iron Cobra pedals during his Slipknot tenure — a setup built for visual impact and live endurance. Mike Mangini plays Yamaha Absolute Maple Hybrid drums with Zildjian K Custom and A Custom cymbals and Yamaha chain drive double pedals — a technically focused setup supporting Dream Theater's precision-first progressive metal.
+**Q: Who did Jay Weinberg and Mike Mangini replace?**
+A: Jay Weinberg replaced Joey Jordison as Slipknot's drummer, joining the band for studio and live work from 2013 onward. Mike Mangini won the Dream Theater drum audition in 2010 after Mike Portnoy departed — beating six world-class candidates — and served until Portnoy's return in 2023.
 
-**Q: What drums does Jay Weinberg play vs Mike Mangini?**
-A: Jay Weinberg plays SJC Custom Drums (OBEY x ST Collaboration Kit). Mike Mangini plays Pearl Reference Series.
+**Q: What drums does Jay Weinberg use vs Mike Mangini?**
+A: Jay Weinberg played SJC Custom Drums with Zildjian cymbals and DW hardware during his Slipknot tenure. Mike Mangini plays a Pearl Reference Series kit with Pearl Reference snares, Sabian HHX Evolution and AAX X-Plosion cymbals, and a Pearl Demon Drive double pedal.
 
-**Q: Who is the better progressive metal drummer, Jay Weinberg or Mike Mangini?**
-A: Both are legends in their own right. Jay Weinberg and Mike Mangini share the uncommon experience of replacing iconic drummers and building distinct legacies in those chairs. See the full analysis at [metalforge.io/vs/jay-weinberg-vs-mike-mangini](https://metalforge.io/vs/jay-weinberg-vs-mike-mangini).
-
-**Q: What cymbals do Jay Weinberg and Mike Mangini use?**
-A: Jay Weinberg uses Zildjian (14" A New Beat Hi-Hats, 18" & 19" A Custom Crashes, 21" K Custom Ride, 19" K China, 7" FX Break Bell). Mike Mangini uses Sabian HHX & AAX Series (14" HHX Evolution Hi-Hats, 17", 18", 19" HHX Evolution Crashes, 21" HHX Raw Bell Dry Ride).
+**Q: Who is the more technically skilled drummer: Jay Weinberg or Mike Mangini?**
+A: Mike Mangini holds Guinness World Records for drumming speed and is considered one of the most technically precise drummers in the world. Jay Weinberg is technically elite in a different way: maintaining precision under the physical and theatrical demands of Slipknot's live performance is its own extraordinary achievement. The comparison depends on which dimension of technical skill you value most.
 
 ---
 
@@ -67,4 +64,4 @@ A: Jay Weinberg uses Zildjian (14" A New Beat Hi-Hats, 18" & 19" A Custom Crashe
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

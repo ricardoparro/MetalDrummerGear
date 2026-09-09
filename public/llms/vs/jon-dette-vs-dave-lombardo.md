@@ -34,7 +34,7 @@ Lombardo's technique combined pioneering double bass speed with a Latin-influenc
 
 ## Key Differences
 
-Dave Lombardo has been a longtime Tama endorser, playing a Tama Starclassic Walnut/Birch kit with a Tama S.L.P. 14"x6.5" G-Maple snare, Paiste RUDE and 2002 series cymbals, a Tama Iron Cobra 900 double pedal, and his own signature Promark 2Bx sticks — gear built for the size and power his revolutionary style demanded. Jon Dette's setups varied by gig, mixing Pearl, Tama, and DW drums with 14"x6.5" metal or maple snares, Sabian or Zildjian cymbals, and DW 9000 or Tama Iron Cobra double pedals with Promark or Vater 5B sticks — a rig built for versatility across multiple bands' requirements rather than one signature identity. Lombardo's technique combined pioneering double bass speed with a Latin-influenced groove inherited from his Cuban heritage and idols like Tito Puente — his fills and accents gave Slayer's riffs a swinging, almost danceable undercurrent beneath the aggression, a quality no other thrash drummer of his generation matched. Dette's technique is defined by rapid adaptability rather than innovation: the ability to absorb an entire Slayer setlist on short notice and deliver it live with the authority fans expected from Lombardo's original recordings, a skill that later carried him through complete setlists for Testament and, briefly, Anthrax.
+Dave Lombardo has been a longtime Tama endorser, playing a Tama Starclassic Walnut/Birch kit with a Tama S.L.P. 14"x6.5" G-Maple snare, Paiste RUDE and 2002 series cymbals, a Tama Iron Cobra 900 double pedal, and his own signature Promark 2Bx sticks — gear built for the size and power his revolutionary style demanded. Jon Dette has played Ludwig Classic Maple drums since 1996, with 14"x6.5" metal or maple snares, Sabian or Zildjian cymbals, and DW 9000 or Tama Iron Cobra double pedals with Promark or Vater 5B sticks — a rig built for versatility across multiple bands' requirements rather than one signature identity. Lombardo's technique combined pioneering double bass speed with a Latin-influenced groove inherited from his Cuban heritage and idols like Tito Puente — his fills and accents gave Slayer's riffs a swinging, almost danceable undercurrent beneath the aggression, a quality no other thrash drummer of his generation matched. Dette's technique is defined by rapid adaptability rather than innovation: the ability to absorb an entire Slayer setlist on short notice and deliver it live with the authority fans expected from Lombardo's original recordings, a skill that later carried him through complete setlists for Testament and, briefly, Anthrax.
 
 ## Influence & Legacy
 
@@ -46,17 +46,17 @@ Dave Lombardo and Jon Dette represent the two poles of Slayer's drum chair: the 
 
 ## FAQ
 
-**Q: What are the main differences between Jon Dette's and Dave Lombardo's drum kits?**
-A: Jon Dette plays Ludwig Classic Maple with Sabian cymbals, while Dave Lombardo uses Tama Starclassic Maple with Paiste cymbals. Dave Lombardo has been a longtime Tama endorser, playing a Tama Starclassic Walnut/Birch kit with a Tama S.L.P. 14"x6.5" G-Maple snare, Paiste RUDE and 2002 series cymbals, a Tama Iron Cobra 900 double pedal, and his own signature Promark 2Bx sticks — gear built for the size and power his revolutionary style demanded. Jon Dette's setups varied by gig, mixing Pearl, Tama, and DW drums with 14"x6.5" metal or maple snares, Sabian or Zildjian cymbals, and DW 9000 or Tama Iron Cobra double pedals with Promark or Vater 5B sticks — a rig built for versatility across multiple bands' requirements rather than one signature identity.
+**Q: Did Jon Dette replace Dave Lombardo in Slayer?**
+A: Not directly. Jon Dette joined Slayer as a touring drummer in 1996-97 while Paul Bostaph — who had replaced Dave Lombardo in 1992 — recovered from an injury. Dette never recorded a studio album with Slayer; Lombardo (1981-1992, 2001-2013) and Bostaph (1992-2001, 2013-2019) hold that distinction.
 
-**Q: What drums does Jon Dette play vs Dave Lombardo?**
-A: Jon Dette plays Ludwig Classic Maple. Dave Lombardo plays Tama Starclassic Maple.
+**Q: What is Dave Lombardo best known for?**
+A: Dave Lombardo co-founded Slayer in 1981 and is best known for his drumming on "Reign in Blood" (1986), widely considered the most influential thrash metal album ever recorded. His pioneering double bass technique and Latin-influenced groove defined extreme metal drumming.
 
-**Q: Who is the better thrash metal drummer, Jon Dette or Dave Lombardo?**
-A: Both are legends in their own right. Dave Lombardo and Jon Dette represent the two poles of Slayer's drum chair: the founding revolutionary who wrote the blueprint, and the professional caretaker who kept the machine running during a transition. See the full analysis at [metalforge.io/vs/jon-dette-vs-dave-lombardo](https://metalforge.io/vs/jon-dette-vs-dave-lombardo).
+**Q: What gear do Jon Dette and Dave Lombardo use?**
+A: Dave Lombardo plays a Tama Starclassic Walnut/Birch kit with Paiste RUDE and 2002 cymbals, a Tama Iron Cobra 900 double pedal, and signature Promark 2Bx sticks. Jon Dette has played Ludwig Classic Maple drums since 1996 with Sabian or Zildjian cymbals and DW 9000 or Tama Iron Cobra double pedals.
 
-**Q: What cymbals do Jon Dette and Dave Lombardo use?**
-A: Jon Dette uses Sabian AAX / Zildjian A Series (14" Hi-Hats, 16" & 18" Crash, 20" Ride, 18" China). Dave Lombardo uses Paiste RUDE & 2002 Series (15" Sound Edge Hi-Hats, 18" & 19" Crashes, 22" Reign Power Ride, 18" China).
+**Q: What did Jon Dette do after leaving Slayer?**
+A: After his 1996-97 Slayer touring stint, Jon Dette joined Testament in 1997, remaining with the band through 1999 and again from 2001-2012, recording "The Gathering" (1999). He also filled in for Charlie Benante on Anthrax tour dates in 2010.
 
 ---
 
@@ -67,4 +67,4 @@ A: Jon Dette uses Sabian AAX / Zildjian A Series (14" Hi-Hats, 16" & 18" Crash, 
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

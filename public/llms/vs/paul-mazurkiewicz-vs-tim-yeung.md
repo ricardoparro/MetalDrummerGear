@@ -34,7 +34,7 @@ Mazurkiewicz operates with brutal consistency — his blast beats are powerful a
 
 ## Key Differences
 
-Paul Mazurkiewicz plays Pearl Reference Series drums with Sabian cymbals, maintaining a robust, traditional death metal setup that has evolved alongside Cannibal Corpse's recording career from early extreme metal production to modern high-definition studio recordings. His Pearl reference setup prioritizes warm, powerful tone that sits in the low end of brutal death metal production. Tim Yeung plays Pearl drums with Sabian cymbals across multiple projects — a similarly configured Pearl setup but tuned for maximum attack and definition at high blast tempos, with his double pedal configuration (DW or Pearl Eliminator) optimized for the single-stroke speed that his verified blast BPM records require. Mazurkiewicz operates with brutal consistency — his blast beats are powerful and relentless, his double bass patterns lock perfectly with Alex Webster's bass and the band's down-tuned guitar assault, and his rhythmic framework is designed for maximum aggression rather than technical complexity. His strength is inexhaustible stamina across decades of the most physically demanding recordings and live performances in death metal. Yeung brings a different technical register: his two-bass or double pedal speed is among the most physically verified in the extreme metal world, and his ability to navigate between technical death metal's polyrhythmic demands (Decrepit Birth), brutal Italian death metal (Hour of Penance), and industrial death metal (Divine Heresy) demonstrates extraordinary cross-genre versatility. Where Mazurkiewicz defines the brutal death metal template, Yeung represents its most technically accelerated modern evolution.
+Paul Mazurkiewicz plays Pearl Reference Series drums with Sabian cymbals, maintaining a robust, traditional death metal setup that has evolved alongside Cannibal Corpse's recording career from early extreme metal production to modern high-definition studio recordings. His Pearl reference setup prioritizes warm, powerful tone that sits in the low end of brutal death metal production. Tim Yeung plays a Tama Starclassic Bubinga kit with Sabian cymbals across multiple projects — a setup tuned for maximum attack and definition at high blast tempos, with his Tama Speed Cobra 910 double pedal optimized for the single-stroke speed that his verified blast BPM records require. Mazurkiewicz operates with brutal consistency — his blast beats are powerful and relentless, his double bass patterns lock perfectly with Alex Webster's bass and the band's down-tuned guitar assault, and his rhythmic framework is designed for maximum aggression rather than technical complexity. His strength is inexhaustible stamina across decades of the most physically demanding recordings and live performances in death metal. Yeung brings a different technical register: his two-bass or double pedal speed is among the most physically verified in the extreme metal world, and his ability to navigate between technical death metal's polyrhythmic demands (Decrepit Birth), brutal Italian death metal (Hour of Penance), and industrial death metal (Divine Heresy) demonstrates extraordinary cross-genre versatility. Where Mazurkiewicz defines the brutal death metal template, Yeung represents its most technically accelerated modern evolution.
 
 ## Influence & Legacy
 
@@ -46,17 +46,17 @@ Paul Mazurkiewicz and Tim Yeung represent brutal death metal from two complement
 
 ## FAQ
 
-**Q: What are the main differences between Paul Mazurkiewicz's and Tim Yeung's drum kits?**
-A: Paul Mazurkiewicz plays Pearl Masters Maple Complete with Sabian cymbals, while Tim Yeung uses Tama Starclassic Bubinga with Sabian cymbals. Paul Mazurkiewicz plays Pearl Reference Series drums with Sabian cymbals, maintaining a robust, traditional death metal setup that has evolved alongside Cannibal Corpse's recording career from early extreme metal production to modern high-definition studio recordings. His Pearl reference setup prioritizes warm, powerful tone that sits in the low end of brutal death metal production. Tim Yeung plays Pearl drums with Sabian cymbals across multiple projects — a similarly configured Pearl setup but tuned for maximum attack and definition at high blast tempos, with his double pedal configuration (DW or Pearl Eliminator) optimized for the single-stroke speed that his verified blast BPM records require.
+**Q: Who is the most brutal death metal drummer, Paul Mazurkiewicz or Tim Yeung?**
+A: Both are among death metal's most extreme drummers, but in different ways. Paul Mazurkiewicz (Cannibal Corpse) has sustained brutal death metal drumming across 35 years and seventeen albums — his longevity and consistency are unmatched. Tim Yeung has been verified at blast tempos exceeding 280 BPM and his resume across Hour of Penance, Decrepit Birth, Divine Heresy, and Morbid Angel demonstrates broader technical extremity. Mazurkiewicz by legacy; Yeung by pure speed.
 
-**Q: What drums does Paul Mazurkiewicz play vs Tim Yeung?**
-A: Paul Mazurkiewicz plays Pearl Masters Maple Complete. Tim Yeung plays Tama Starclassic Bubinga.
+**Q: What bands has Tim Yeung played in?**
+A: Tim Yeung has played with Hour of Penance (Italian brutal death metal), Decrepit Birth (technical death metal), Divine Heresy (industrial death metal, with ex-Fear Factory's Dino Cazares), Vital Remains, and as a touring drummer for Morbid Angel (2011 "Illud Divinum Insanus" cycle). He is regarded as one of the most versatile and technically extreme working drummers in death metal.
 
-**Q: Who is the better extreme / death / black metal drummer, Paul Mazurkiewicz or Tim Yeung?**
-A: Both are legends in their own right. Paul Mazurkiewicz and Tim Yeung represent brutal death metal from two complementary extremes. See the full analysis at [metalforge.io/vs/paul-mazurkiewicz-vs-tim-yeung](https://metalforge.io/vs/paul-mazurkiewicz-vs-tim-yeung).
+**Q: How long has Paul Mazurkiewicz been in Cannibal Corpse?**
+A: Paul Mazurkiewicz has been Cannibal Corpse's drummer since the band formed in Buffalo, New York in 1988 — over 35 years. He is the only drummer the band has ever had, appearing on all seventeen studio albums from "Eaten Back to Life" (1990) through "Chaos Horrific" (2023), making him one of the longest-tenured drummers in any major metal band.
 
-**Q: What cymbals do Paul Mazurkiewicz and Tim Yeung use?**
-A: Paul Mazurkiewicz uses Sabian AAX Series (14" Stage Hi-Hats, 18" & 19" X-Plosion Crashes, 21" Raw Bell Dry Ride, 18" AAXtreme China). Tim Yeung uses Sabian AAX & HHX Series (14" AAX Stage Hi-Hats, 18" & 19" AAX X-Plosion Crashes, 21" HHX Raw Bell Dry Ride).
+**Q: What is Tim Yeung's blast beat BPM?**
+A: Tim Yeung has been documented performing blast beats at over 280 BPM, ranking him among the fastest drummers in the world at measured extreme metal tempos. His technical approach combines high-velocity single-stroke rolls with consistent timing across extended passages — a combination that has made him the go-to touring and session drummer for some of death metal's most demanding bands.
 
 ---
 
@@ -67,4 +67,4 @@ A: Paul Mazurkiewicz uses Sabian AAX Series (14" Stage Hi-Hats, 18" & 19" X-Plos
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

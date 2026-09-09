@@ -46,17 +46,17 @@ Jaska Raatikainen and Brann Dailor show two very different ways technical drummi
 
 ## FAQ
 
-**Q: What are the main differences between Jaska Raatikainen's and Brann Dailor's drum kits?**
-A: Jaska Raatikainen plays Pearl Masters Premium Maple with Zildjian cymbals, while Brann Dailor uses Tama Starclassic Performer B/B with Meinl cymbals. Raatikainen played a Pearl Masters Premium Maple kit with a Pearl Masters 14x5.5" Maple snare and Zildjian A Custom & K Custom cymbals, powered by a Pearl Eliminator double pedal. Dailor plays a Tama Starclassic Performer B/B kit with a Tama S.L.P. G-Maple snare and Meinl Byzance cymbals, driven by a Tama Speed Cobra double pedal for fluid double bass under Mastodon's polyrhythmic riffing.
+**Q: What is the difference between Jaska Raatikainen's and Brann Dailor's drumming styles?**
+A: Jaska Raatikainen builds his style around clean, locked-in double bass and blast beats within Children of Bodom's neoclassical melodic death metal. Brann Dailor drives Mastodon's progressive sludge with flowing, syncopated fills that treat the kit as a lead voice, while also handling co-lead vocal duties on many songs.
 
-**Q: What drums does Jaska Raatikainen play vs Brann Dailor?**
-A: Jaska Raatikainen plays Pearl Masters Premium Maple. Brann Dailor plays Tama Starclassic Performer B/B.
+**Q: What gear do Jaska Raatikainen and Brann Dailor use?**
+A: Jaska Raatikainen played a Pearl Masters Premium Maple kit with a Pearl Masters 14x5.5" Maple snare, Zildjian A Custom & K Custom cymbals, and a Pearl Eliminator double pedal. Brann Dailor plays a Tama Starclassic Performer B/B kit with a Tama S.L.P. G-Maple snare, Meinl Byzance cymbals, and a Tama Speed Cobra double pedal.
 
-**Q: Who is the better progressive metal drummer, Jaska Raatikainen or Brann Dailor?**
-A: Both are legends in their own right. Jaska Raatikainen and Brann Dailor show two very different ways technical drumming can define a band's identity. See the full analysis at [metalforge.io/vs/jaska-raatikainen-vs-brann-dailor](https://metalforge.io/vs/jaska-raatikainen-vs-brann-dailor).
+**Q: Does Brann Dailor sing while drumming for Mastodon?**
+A: Yes — Brann Dailor serves as Mastodon's co-vocalist on many tracks, singing lead or co-lead vocals while simultaneously executing Mastodon's complex, flowing drum patterns, a rare combination among metal drummers.
 
-**Q: What cymbals do Jaska Raatikainen and Brann Dailor use?**
-A: Jaska Raatikainen uses Zildjian A Custom & K Custom Series (14" A Custom Hi-Hats, 17" & 18" A Custom Crashes, 20" K Custom Ride). Brann Dailor uses Meinl Byzance Series (14" Dark Hi-Hats, 18" & 19" Brilliant Heavy Hammered Crashes, 21" Ghost Ride, 18" Extra Dry China).
+**Q: How long was Jaska Raatikainen the drummer for Children of Bodom?**
+A: Jaska Raatikainen was a founding member of Children of Bodom in 1993 and remained the band's drummer for 26 years, from the 1997 debut "Something Wild" through the band's farewell in 2019.
 
 ---
 
@@ -67,4 +67,4 @@ A: Jaska Raatikainen uses Zildjian A Custom & K Custom Series (14" A Custom Hi-H
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

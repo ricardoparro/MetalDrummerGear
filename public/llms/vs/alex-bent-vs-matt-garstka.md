@@ -18,9 +18,9 @@ Alex Bent vs Matt Garstka — technical death metal precision versus jazz-fusion
 
 ## Matt Garstka Setup
 
-- **Drums:** Tama Starclassic Walnut/Birch
+- **Drums:** DW Collector's Series
 - **Cymbals:** Meinl Byzance Series (15" Dual Hi-Hats, 18" & 20" Extra Dry Medium Crashes, 22" Dual Ride)
-- **Snare:** Tama S.L.P. 14x6" G-Maple
+- **Snare:** DW Collector's Series Purpleheart
 - **Pedals/Hardware:** Tama Speed Cobra 910 Double Pedal
 - **Sticks:** Vic Firth Matt Garstka Signature
 
@@ -34,7 +34,7 @@ Bent's technique centers on technical death metal blast beats performed with cla
 
 ## Key Differences
 
-Alex Bent plays a Pearl Reference Pure Series kit with a Pearl Reference 14x5" Brass snare and Zildjian K Custom Hybrid cymbals, driven by an Axis A Longboard double pedal and Vic Firth American Classic 5B sticks. Matt Garstka plays a Tama Starclassic Walnut/Birch kit with his Tama S.L.P. 14x6" G-Maple snare and Meinl Byzance Series cymbals, driven by a Tama Speed Cobra 910 double pedal and his own Vic Firth Matt Garstka Signature sticks. Bent's technique centers on technical death metal blast beats performed with clarity and control, complex fills that serve the song rather than showcase chops, and powerful double bass patterns adapted to Trivium's more melodic, arena-scaled songwriting. Garstka's technique draws on jazz fusion and metric modulation — intricate ghost-note patterns, complex polyrhythms, and linear independence that treat the kit as a compositional voice within Animals as Leaders' instrumental djent framework rather than a purely rhythmic engine.
+Alex Bent plays a TAMA Starclassic Maple kit with a TAMA Starclassic Maple 14x5" snare and Zildjian K Custom Hybrid cymbals, driven by an Axis A Longboard double pedal and Vic Firth American Classic 5B sticks. Matt Garstka plays a DW Collector's Series kit and Meinl Byzance Series cymbals, driven by a Tama Speed Cobra 910 double pedal and his own Vic Firth Matt Garstka Signature sticks. Bent's technique centers on technical death metal blast beats performed with clarity and control, complex fills that serve the song rather than showcase chops, and powerful double bass patterns adapted to Trivium's more melodic, arena-scaled songwriting. Garstka's technique draws on jazz fusion and metric modulation — intricate ghost-note patterns, complex polyrhythms, and linear independence that treat the kit as a compositional voice within Animals as Leaders' instrumental djent framework rather than a purely rhythmic engine.
 
 ## Influence & Legacy
 
@@ -46,17 +46,17 @@ Alex Bent and Matt Garstka represent two branches of modern technical metal drum
 
 ## FAQ
 
-**Q: What are the main differences between Alex Bent's and Matt Garstka's drum kits?**
-A: Alex Bent plays Pearl Reference Pure Series with Zildjian cymbals, while Matt Garstka uses Tama Starclassic Walnut/Birch with Meinl cymbals. Alex Bent plays a Pearl Reference Pure Series kit with a Pearl Reference 14x5" Brass snare and Zildjian K Custom Hybrid cymbals, driven by an Axis A Longboard double pedal and Vic Firth American Classic 5B sticks. Matt Garstka plays a Tama Starclassic Walnut/Birch kit with his Tama S.L.P. 14x6" G-Maple snare and Meinl Byzance Series cymbals, driven by a Tama Speed Cobra 910 double pedal and his own Vic Firth Matt Garstka Signature sticks.
+**Q: Who is technically more skilled, Alex Bent or Matt Garstka?**
+A: Both are elite modern technicians from different traditions. Alex Bent's skill set is rooted in technical death metal — extreme-speed blast beats and complex double bass patterns performed with clarity. Matt Garstka's skill set is rooted in jazz fusion — polyrhythmic complexity, metric modulation, and linear independence. Garstka is more often cited in "most technical progressive drummer" discussions; Bent is more often cited for extreme-metal speed and precision.
 
-**Q: What drums does Alex Bent play vs Matt Garstka?**
-A: Alex Bent plays Pearl Reference Pure Series. Matt Garstka plays Tama Starclassic Walnut/Birch.
+**Q: What is each drummer's signature technique?**
+A: Alex Bent's signature is technical death metal blast beats executed with clarity inside melodic song structures, developed across Brain Drill, Arkaik, and Battlecross before he joined Trivium. Matt Garstka's signature is jazz-fusion-informed polyrhythmic independence and metric modulation, which he uses to treat the drum kit as a compositional voice in Animals as Leaders' instrumental music.
 
-**Q: Who is the better progressive metal drummer, Alex Bent or Matt Garstka?**
-A: Both are legends in their own right. Alex Bent and Matt Garstka represent two branches of modern technical metal drumming. See the full analysis at [metalforge.io/vs/alex-bent-vs-matt-garstka](https://metalforge.io/vs/alex-bent-vs-matt-garstka).
+**Q: Who has influenced more drummers, Alex Bent or Matt Garstka?**
+A: Matt Garstka has been named one of the most influential drummers of his generation by multiple publications and is a widely studied reference point in the djent and progressive instrumental metal scenes. Alex Bent's influence is more concentrated within technical death metal and the melodic metal audiences he reached during his 2017–2025 run with Trivium.
 
-**Q: What cymbals do Alex Bent and Matt Garstka use?**
-A: Alex Bent uses Zildjian (14" K Custom Hybrid Hi-Hats, 18" & 19" K Custom Hybrid Crashes, 21" K Custom Hybrid Ride, 18" A Custom China). Matt Garstka uses Meinl Byzance Series (15" Dual Hi-Hats, 18" & 20" Extra Dry Medium Crashes, 22" Dual Ride).
+**Q: What gear do Alex Bent and Matt Garstka use?**
+A: Alex Bent plays a TAMA Starclassic Maple kit with a TAMA Starclassic Maple 14x5" snare and Zildjian K Custom Hybrid cymbals. Matt Garstka plays a DW Collector's Series kit and Meinl Byzance Series cymbals, driven by a Tama Speed Cobra 910 double pedal.
 
 ---
 
@@ -67,4 +67,4 @@ A: Alex Bent uses Zildjian (14" K Custom Hybrid Hi-Hats, 18" & 19" K Custom Hybr
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

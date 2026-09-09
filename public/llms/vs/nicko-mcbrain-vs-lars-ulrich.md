@@ -10,7 +10,7 @@ Iron Maiden's Nicko McBrain vs Metallica's Lars Ulrich. Two icons of classic hea
 
 ## Nicko McBrain Setup
 
-- **Drums:** Sonor SQ2 Series
+- **Drums:** British Drum Co.
 - **Cymbals:** Paiste 2002 & Signature Series (14" Sound Edge Hi-Hats, 16" & 18" Power Crashes, 22" Power Ride, 20" China)
 - **Snare:** Sonor Nicko McBrain Signature 14x6.5"
 - **Pedals/Hardware:** Sonor 600 Series Hardware, Single Bass Drum Pedal
@@ -34,7 +34,7 @@ Nicko is known for complex patterns, signature gallops, and single-bass mastery.
 
 ## Key Differences
 
-Nicko plays Sonor drums with Paiste cymbals for bright, cutting tone. Lars uses Tama Starclassic with Zildjian cymbals. Nicko is known for complex patterns, signature gallops, and single-bass mastery. Lars favors powerful, punchy patterns with iconic ride patterns.
+Nicko plays a British Drum Co. kit with Paiste cymbals for bright, cutting tone. Lars uses Tama Starclassic with Zildjian cymbals. Nicko is known for complex patterns, signature gallops, and single-bass mastery. Lars favors powerful, punchy patterns with iconic ride patterns.
 
 ## Influence & Legacy
 
@@ -47,10 +47,10 @@ Two pillars of classic heavy metal. Nicko McBrain is the technical master of Iro
 ## FAQ
 
 **Q: What are the main differences between Nicko McBrain's and Lars Ulrich's drum kits?**
-A: Nicko McBrain plays Sonor SQ2 Series with Paiste cymbals, while Lars Ulrich uses Tama Starclassic Maple with Zildjian cymbals. Nicko plays Sonor drums with Paiste cymbals for bright, cutting tone. Lars uses Tama Starclassic with Zildjian cymbals.
+A: Nicko McBrain plays British Drum Co. with Paiste cymbals, while Lars Ulrich uses Tama Starclassic Maple with Zildjian cymbals. Nicko plays a British Drum Co. kit with Paiste cymbals for bright, cutting tone. Lars uses Tama Starclassic with Zildjian cymbals.
 
 **Q: What drums does Nicko McBrain play vs Lars Ulrich?**
-A: Nicko McBrain plays Sonor SQ2 Series. Lars Ulrich plays Tama Starclassic Maple.
+A: Nicko McBrain plays British Drum Co.. Lars Ulrich plays Tama Starclassic Maple.
 
 **Q: Who is the better thrash metal drummer, Nicko McBrain or Lars Ulrich?**
 A: Both are legends in their own right. Two pillars of classic heavy metal. See the full analysis at [metalforge.io/vs/nicko-mcbrain-vs-lars-ulrich](https://metalforge.io/vs/nicko-mcbrain-vs-lars-ulrich).
@@ -67,4 +67,4 @@ A: Nicko McBrain uses Paiste 2002 & Signature Series (14" Sound Edge Hi-Hats, 16
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

@@ -18,11 +18,11 @@ At the Gates' Adrian Erlandsson vs Opeth's Martin Axenrot — Gothenburg melodic
 
 ## Martin Axenrot Setup
 
-- **Drums:** Sonor SQ2 Series
-- **Cymbals:** Meinl Byzance Series (14" Traditional Medium Hi-Hats, 16" & 18" & 19" Crashes, 22" Traditional Ride, 18" China)
-- **Snare:** Sonor SQ2 14x5.75" Maple
-- **Pedals/Hardware:** Tama Iron Cobra Double Pedal, Sonor Hardware
-- **Sticks:** Vic Firth American Classic 5B
+- **Drums:** DW (Drum Workshop) — custom, maple/gum shells
+- **Cymbals:** SABIAN HHX / AAX Series (HHX Groove Hats, HHX Evolution O-Zone Crash, HHX Legacy Ride, HHX Chinese, AAX Splash)
+- **Snare:** DW custom (specific model unverified)
+- **Pedals/Hardware:** Unverified
+- **Sticks:** Pro-Mark
 
 ## Playing Style
 
@@ -34,7 +34,7 @@ Erlandsson's "Slaughter of the Soul" sessions were recorded on a true double-22"
 
 ## Key Differences
 
-Adrian Erlandsson tracked "Slaughter of the Soul" on a budget Pearl Export-style birch kit with Zildjian A-Series cymbals anchored by an 18" China, and now plays a Tama Starclassic Bubinga kit with a Tama Starclassic Bubinga 14x6.5" snare and Sabian AAX/HHX Series cymbals, driven by a Monolit Czarcie Kopyto double pedal and his own Vic Firth Adrian Erlandsson Signature sticks. Martin Axenrot plays a Sonor SQ2 Series kit built around twin 22"x18" bass drums and a Sonor SQ2 14"x5.75" Maple snare, with Meinl Byzance cymbals (14" Traditional Medium Hi-Hats, 16"/18"/19" Crashes, 22" Traditional Ride, 18" China), a Tama Iron Cobra double pedal, and Vic Firth American Classic 5B sticks. Erlandsson's "Slaughter of the Soul" sessions were recorded on a true double-22" bass drum configuration rather than a double pedal, giving tracks like "Blinded by Fear" and "Suicide Nation" a raw, punk-informed physicality — his patterns favor hardcore-bluntness and ferocious immediacy over technical polish. Axenrot brought a heavier, twin-bass-drum attack to Opeth's drum chair, informed by his parallel extreme metal work in Bloodbath and Witchery, giving the band's post-2006 material a more forceful low end while still honoring the progressive vocabulary his predecessor established.
+Adrian Erlandsson tracked "Slaughter of the Soul" on a budget Pearl Export-style birch kit with Zildjian A-Series cymbals anchored by an 18" China, and now plays a Tama Starclassic Bubinga kit with a Tama Starclassic Bubinga 14x6.5" snare and Sabian AAX/HHX Series cymbals, driven by a Monolit Czarcie Kopyto double pedal and his own Vic Firth Adrian Erlandsson Signature sticks. Martin Axenrot plays a custom hand-made DW kit with maple/gum shells, per his own account in a 2016 MusicRadar interview, with SABIAN HHX/AAX cymbals per SABIAN's own artist page, and Pro-Mark sticks. His hardware setup has not been independently verified. Erlandsson's "Slaughter of the Soul" sessions were recorded on a true double-22" bass drum configuration rather than a double pedal, giving tracks like "Blinded by Fear" and "Suicide Nation" a raw, punk-informed physicality — his patterns favor hardcore-bluntness and ferocious immediacy over technical polish. Axenrot brought a heavier, twin-bass-drum attack to Opeth's drum chair, informed by his parallel extreme metal work in Bloodbath and Witchery, giving the band's post-2006 material a more forceful low end while still honoring the progressive vocabulary his predecessor established.
 
 ## Influence & Legacy
 
@@ -46,17 +46,17 @@ Adrian Erlandsson and Martin Axenrot represent Swedish extreme metal drumming fr
 
 ## FAQ
 
-**Q: What are the main differences between Adrian Erlandsson's and Martin Axenrot's drum kits?**
-A: Adrian Erlandsson plays Tama Starclassic Bubinga with Sabian cymbals, while Martin Axenrot uses Sonor SQ2 Series with Meinl cymbals. Adrian Erlandsson tracked "Slaughter of the Soul" on a budget Pearl Export-style birch kit with Zildjian A-Series cymbals anchored by an 18" China, and now plays a Tama Starclassic Bubinga kit with a Tama Starclassic Bubinga 14x6.5" snare and Sabian AAX/HHX Series cymbals, driven by a Monolit Czarcie Kopyto double pedal and his own Vic Firth Adrian Erlandsson Signature sticks. Martin Axenrot plays a Sonor SQ2 Series kit built around twin 22"x18" bass drums and a Sonor SQ2 14"x5.75" Maple snare, with Meinl Byzance cymbals (14" Traditional Medium Hi-Hats, 16"/18"/19" Crashes, 22" Traditional Ride, 18" China), a Tama Iron Cobra double pedal, and Vic Firth American Classic 5B sticks.
+**Q: How do Adrian Erlandsson and Martin Axenrot compare as drummers?**
+A: Adrian Erlandsson co-founded At the Gates and drummed on "Slaughter of the Soul" (1995), one of melodic death metal's most influential albums, later playing in The Haunted, Cradle of Filth, and Paradise Lost. Martin Axenrot has drummed for Opeth since 2006, stepping in mid-tour for Martin Lopez, and also plays in death metal supergroup Bloodbath.
 
-**Q: What drums does Adrian Erlandsson play vs Martin Axenrot?**
-A: Adrian Erlandsson plays Tama Starclassic Bubinga. Martin Axenrot plays Sonor SQ2 Series.
+**Q: What gear do Adrian Erlandsson and Martin Axenrot use?**
+A: Adrian Erlandsson plays a Tama Starclassic Bubinga kit with a Tama Starclassic Bubinga 14x6.5" snare and Sabian AAX/HHX Series cymbals, driven by a Monolit Czarcie Kopyto double pedal. Martin Axenrot plays a custom hand-made DW kit with maple/gum shells and SABIAN HHX/AAX cymbals, per SABIAN's own artist page and his 2016 MusicRadar interview.
 
-**Q: Who is the better extreme / death / black metal drummer, Adrian Erlandsson or Martin Axenrot?**
-A: Both are legends in their own right. Adrian Erlandsson and Martin Axenrot represent Swedish extreme metal drumming from two generations and two philosophies. See the full analysis at [metalforge.io/vs/adrian-erlandsson-vs-martin-axenrot](https://metalforge.io/vs/adrian-erlandsson-vs-martin-axenrot).
+**Q: What bands are Adrian Erlandsson and Martin Axenrot known for?**
+A: Adrian Erlandsson co-founded At the Gates and also drummed for The Haunted, Cradle of Filth, and Paradise Lost. Martin Axenrot has been Opeth's drummer since 2006 and also drums for death metal supergroup Bloodbath and formerly black/thrash band Witchery.
 
-**Q: What cymbals do Adrian Erlandsson and Martin Axenrot use?**
-A: Adrian Erlandsson uses Sabian AAX/HHX Series (15" HHX Xcelerator Hi-Hats, 20" AAX Iso Crash, 19" AAX Paragon China). Martin Axenrot uses Meinl Byzance Series (14" Traditional Medium Hi-Hats, 16" & 18" & 19" Crashes, 22" Traditional Ride, 18" China).
+**Q: What was Adrian Erlandsson's original drum setup on "Slaughter of the Soul"?**
+A: Adrian Erlandsson recorded "Slaughter of the Soul" (1995) on a budget Pearl Export-style birch kit with a true double-22" bass drum configuration rather than a double pedal, paired with Zildjian A-Series cymbals — a setup chosen out of underground European death metal's constrained 1994 recording budgets.
 
 ---
 
@@ -67,4 +67,4 @@ A: Adrian Erlandsson uses Sabian AAX/HHX Series (15" HHX Xcelerator Hi-Hats, 20"
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

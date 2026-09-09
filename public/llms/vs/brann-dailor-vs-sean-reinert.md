@@ -34,7 +34,7 @@ Dailor's constant-motion style treats fills as melody: his snare and toms carry 
 
 ## Key Differences
 
-Brann Dailor plays a Tama Starclassic Performer B/B (birch/bubinga) drum kit with his Tama S.L.P. G-Maple 14x6.5" snare, Meinl Byzance Series cymbals (14" Dark Hi-Hats, 18" & 19" Brilliant Heavy Hammered Crashes, 21" Ghost Ride, 18" Extra Dry China), a Tama Speed Cobra double pedal, and Vater 5B sticks. Sean Reinert played a Pearl Reference maple kit with a Pearl Sensitone 14x5.5" steel/brass snare and Zildjian A Series cymbals (14" A New Beat Hi-Hats, 16" & 18" A Medium Thin Crashes, 20" A Medium Ride), driven by Tama Iron Cobra double pedals and 5A sticks — a jazz-crossover setup chosen for dynamic range over raw power. Dailor's constant-motion style treats fills as melody: his snare and toms carry musical statements through flowing, non-repetitive patterns that blur the line between drumming and composition, all while singing lead and backing vocals over the same parts. Reinert's technique was rooted in formal jazz training — traditional grip, ghost-note vocabulary, and dynamic sensitivity let him navigate between brutal death metal intensity and delicate, swing-informed passages within the same song, a combination virtually unheard of in extreme metal before Cynic's "Focus."
+Brann Dailor plays a Tama Starclassic Performer B/B (birch/bubinga) drum kit with his Tama S.L.P. G-Maple 14x6.5" snare, Meinl Byzance Series cymbals (14" Dark Hi-Hats, 18" & 19" Brilliant Heavy Hammered Crashes, 21" Ghost Ride, 18" Extra Dry China), a Tama Speed Cobra double pedal, and Vater 5B sticks. Sean Reinert played a DW Collector's Series drum kit with Zildjian K Custom cymbals, driven by a DW 9000 Double Pedal and Vic Firth American Classic 5A sticks — a jazz-crossover setup chosen for dynamic range over raw power. Dailor's constant-motion style treats fills as melody: his snare and toms carry musical statements through flowing, non-repetitive patterns that blur the line between drumming and composition, all while singing lead and backing vocals over the same parts. Reinert's technique was rooted in formal jazz training — traditional grip, ghost-note vocabulary, and dynamic sensitivity let him navigate between brutal death metal intensity and delicate, swing-informed passages within the same song, a combination virtually unheard of in extreme metal before Cynic's "Focus."
 
 ## Influence & Legacy
 
@@ -46,17 +46,14 @@ Brann Dailor and Sean Reinert represent two eras of the same idea: that death me
 
 ## FAQ
 
-**Q: What are the main differences between Brann Dailor's and Sean Reinert's drum kits?**
-A: Brann Dailor plays Tama Starclassic Performer B/B with Meinl cymbals, while Sean Reinert uses Tama Artstar II with Zildjian cymbals. Brann Dailor plays a Tama Starclassic Performer B/B (birch/bubinga) drum kit with his Tama S.L.P. G-Maple 14x6.5" snare, Meinl Byzance Series cymbals (14" Dark Hi-Hats, 18" & 19" Brilliant Heavy Hammered Crashes, 21" Ghost Ride, 18" Extra Dry China), a Tama Speed Cobra double pedal, and Vater 5B sticks. Sean Reinert played a Pearl Reference maple kit with a Pearl Sensitone 14x5.5" steel/brass snare and Zildjian A Series cymbals (14" A New Beat Hi-Hats, 16" & 18" A Medium Thin Crashes, 20" A Medium Ride), driven by Tama Iron Cobra double pedals and 5A sticks — a jazz-crossover setup chosen for dynamic range over raw power.
+**Q: Who are metal's most musically creative drummers, Brann Dailor or Sean Reinert?**
+A: Both are routinely cited in "most musically creative metal drummer" discussions. Brann Dailor (Mastodon) built a career-spanning catalog of melodic, jazz-informed fills across "Leviathan," "Blood Mountain," and "Crack the Skye" while also serving as co-vocalist. Sean Reinert (Death, Cynic) pioneered jazz-fusion vocabulary in death metal a decade earlier on "Human" (1991) and "Focus" (1993), works still considered genre-defining.
 
-**Q: What drums does Brann Dailor play vs Sean Reinert?**
-A: Brann Dailor plays Tama Starclassic Performer B/B. Sean Reinert plays Tama Artstar II.
+**Q: What gear does Brann Dailor use vs Sean Reinert?**
+A: Brann Dailor plays a Tama Starclassic Performer B/B kit with a Tama S.L.P. G-Maple snare, Meinl Byzance Series cymbals, a Tama Speed Cobra double pedal, and Vater 5B sticks. Sean Reinert played a DW Collector's Series drum kit with Zildjian K Custom cymbals, a DW 9000 Double Pedal, and Vic Firth American Classic 5A sticks.
 
-**Q: Who is the better progressive metal drummer, Brann Dailor or Sean Reinert?**
-A: Both are legends in their own right. Brann Dailor and Sean Reinert represent two eras of the same idea: that death metal's most extreme foundations can carry genuine musicality without losing their weight. See the full analysis at [metalforge.io/vs/brann-dailor-vs-sean-reinert](https://metalforge.io/vs/brann-dailor-vs-sean-reinert).
-
-**Q: What cymbals do Brann Dailor and Sean Reinert use?**
-A: Brann Dailor uses Meinl Byzance Series (14" Dark Hi-Hats, 18" & 19" Brilliant Heavy Hammered Crashes, 21" Ghost Ride, 18" Extra Dry China). Sean Reinert uses Zildjian A/K Series (14" A Quick Beat Hi-Hats, 16" & 18" A Crashes, 20" K Custom Dry Ride, 16" China, 10" A Splash).
+**Q: What albums are Brann Dailor and Sean Reinert best known for?**
+A: Brann Dailor is best known for Mastodon's "Leviathan" (2004), "Blood Mountain" (2006), and "Crack the Skye" (2009). Sean Reinert is best known for Death's "Human" (1991) and Cynic's "Focus" (1993) — two albums widely credited with founding technical death metal's jazz-fusion wing.
 
 ---
 
@@ -67,4 +64,4 @@ A: Brann Dailor uses Meinl Byzance Series (14" Dark Hi-Hats, 18" & 19" Brilliant
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

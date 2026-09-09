@@ -10,10 +10,10 @@ Motörhead/Scorpions' Mikkey Dee vs Metallica's Lars Ulrich. Two heavy metal ico
 
 ## Mikkey Dee Setup
 
-- **Drums:** Yamaha Recording Custom
-- **Cymbals:** Zildjian A Custom & K Series (14" A Custom Hi-Hats, 18" & 19" A Custom Crashes, 22" K Custom Ride, 20" Oriental China)
-- **Snare:** Yamaha Mikkey Dee Signature 14x8"
-- **Pedals/Hardware:** Yamaha FP9 Double Pedal, Yamaha Hardware
+- **Drums:** Sonor SQ2
+- **Cymbals:** Paiste Signature Series (14" Sound Edge Hi-Hats, 19" & 20" Power Crashes, 22" Power Ride, 18" Heavy China)
+- **Snare:** Sonor Mikkey Dee Signature 14x7.25" Birch
+- **Pedals/Hardware:** DW 5000 Series Pedal, Sonor Hardware
 - **Sticks:** Wincent Mikkey Dee Signature (W-MDS)
 
 ## Lars Ulrich Setup
@@ -34,7 +34,7 @@ Dee's technique is built for stamina and raw power — hard-hitting snare work, 
 
 ## Key Differences
 
-Mikkey Dee plays a Yamaha Recording Custom kit with a Yamaha Mikkey Dee Signature 14x8" snare and Zildjian A Custom & K Series cymbals (14" A Custom Hi-Hats, 18" & 19" A Custom Crashes, 22" K Custom Ride, 20" Oriental China), driven by twin Yamaha FP9 pedals and Vic Firth Mikkey Dee Signature sticks. Lars Ulrich plays a Tama Starclassic Maple kit with his signature Tama LU1465 14x6.5" snare and Zildjian A Custom Series cymbals (14" Dyno Beat Hi-Hats, 16", 17" & 18" Rock Crashes, 20" Z Custom China, 22" Ride), powered by a Tama Iron Cobra 900 Power Glide double pedal and Ahead Lars Ulrich Signature aluminum sticks — both drummers share a Zildjian A Custom cymbal foundation despite very different drum and pedal brands. Dee's technique is built for stamina and raw power — hard-hitting snare work, thunderous double bass, and a no-frills aggressive attack that matched Lemmy's relentless, no-nonsense rock 'n' roll energy night after night across decades of nonstop touring. Ulrich is a feel-driven player whose drumming serves Metallica's songs above all else — powerful, punchy patterns, mid-tempo stomp on the genre-defining classics, and double bass intensity on the speed tracks, locking in with Hetfield's rhythm guitar to create one of metal's tightest rhythm section bonds rather than chasing raw velocity.
+Mikkey Dee plays a Sonor SQ2 kit with an 18"x22" bass drum and a Sonor Mikkey Dee Signature 14"x7.25" Birch snare, paired with Paiste Signature Series cymbals (14" Sound Edge Hi-Hats, 19" & 20" Power Crashes, 22" Power Ride, 18" Heavy China), driven by a DW 5000 Series double pedal and Wincent Mikkey Dee Signature sticks. Lars Ulrich plays a Tama Starclassic Maple kit with his signature Tama LU1465 14x6.5" snare and Zildjian A Custom Series cymbals (14" Dyno Beat Hi-Hats, 16", 17" & 18" Rock Crashes, 20" Z Custom China, 22" Ride), powered by a Tama Iron Cobra 900 Power Glide double pedal and Ahead Lars Ulrich Signature aluminum sticks — two entirely different rigs built on different drum, cymbal, and pedal brands. Dee's technique is built for stamina and raw power — hard-hitting snare work, thunderous double bass, and a no-frills aggressive attack that matched Lemmy's relentless, no-nonsense rock 'n' roll energy night after night across decades of nonstop touring. Ulrich is a feel-driven player whose drumming serves Metallica's songs above all else — powerful, punchy patterns, mid-tempo stomp on the genre-defining classics, and double bass intensity on the speed tracks, locking in with Hetfield's rhythm guitar to create one of metal's tightest rhythm section bonds rather than chasing raw velocity.
 
 ## Influence & Legacy
 
@@ -46,17 +46,17 @@ Mikkey Dee and Lars Ulrich are two of heavy metal's most enduring drum-chair ico
 
 ## FAQ
 
-**Q: What are the main differences between Mikkey Dee's and Lars Ulrich's drum kits?**
-A: Mikkey Dee plays Yamaha Recording Custom with Zildjian cymbals, while Lars Ulrich uses Tama Starclassic Maple with Zildjian cymbals. Mikkey Dee plays a Yamaha Recording Custom kit with a Yamaha Mikkey Dee Signature 14x8" snare and Zildjian A Custom & K Series cymbals (14" A Custom Hi-Hats, 18" & 19" A Custom Crashes, 22" K Custom Ride, 20" Oriental China), driven by twin Yamaha FP9 pedals and Vic Firth Mikkey Dee Signature sticks. Lars Ulrich plays a Tama Starclassic Maple kit with his signature Tama LU1465 14x6.5" snare and Zildjian A Custom Series cymbals (14" Dyno Beat Hi-Hats, 16", 17" & 18" Rock Crashes, 20" Z Custom China, 22" Ride), powered by a Tama Iron Cobra 900 Power Glide double pedal and Ahead Lars Ulrich Signature aluminum sticks — both drummers share a Zildjian A Custom cymbal foundation despite very different drum and pedal brands.
+**Q: How do Mikkey Dee and Lars Ulrich compare as drummers?**
+A: Mikkey Dee drummed for Motörhead from 1992 to 2015 and has played for Scorpions since 2016, bringing stamina-driven raw power and a hard-hitting, no-frills attack. Lars Ulrich co-founded Metallica in 1981 and built thrash metal's mainstream sound on feel-driven, groove-oriented patterns that prioritize serving the song over technical display.
 
-**Q: What drums does Mikkey Dee play vs Lars Ulrich?**
-A: Mikkey Dee plays Yamaha Recording Custom. Lars Ulrich plays Tama Starclassic Maple.
+**Q: What gear do Mikkey Dee and Lars Ulrich use?**
+A: Mikkey Dee plays Sonor drums with a Sonor Mikkey Dee Signature snare and Paiste Signature Series cymbals, driven by a DW 5000 Series double pedal. Lars Ulrich plays a Tama Starclassic Maple kit with his signature Tama LU1465 snare and Zildjian A Custom cymbals, powered by a Tama Iron Cobra 900 Power Glide double pedal — two entirely different rigs built on different drum, cymbal, and pedal brands.
 
-**Q: Who is the better thrash metal drummer, Mikkey Dee or Lars Ulrich?**
-A: Both are legends in their own right. Mikkey Dee and Lars Ulrich are two of heavy metal's most enduring drum-chair icons, built on very different strengths. See the full analysis at [metalforge.io/vs/mikkey-dee-vs-lars-ulrich](https://metalforge.io/vs/mikkey-dee-vs-lars-ulrich).
+**Q: What bands are Mikkey Dee and Lars Ulrich known for?**
+A: Mikkey Dee played with King Diamond (1985-1989) and Motörhead (1992-2015), and has drummed for Scorpions since 2016. Lars Ulrich co-founded Metallica in 1981 and has recorded every studio album from "Kill 'Em All" (1983) to "72 Seasons" (2023).
 
-**Q: What cymbals do Mikkey Dee and Lars Ulrich use?**
-A: Mikkey Dee uses Zildjian A Custom & K Series (14" A Custom Hi-Hats, 18" & 19" A Custom Crashes, 22" K Custom Ride, 20" Oriental China). Lars Ulrich uses Zildjian A Custom Series (14" Dyno Beat Hi-Hats, 16", 17" & 18" Rock Crashes, 20" Z Custom China, 22" Ride).
+**Q: Has Mikkey Dee ever played in two legendary bands like Lars Ulrich has stayed in one?**
+A: Yes — Mikkey Dee is one of the rare drummers to anchor two legendary bands across a single career, spending 23 years with Motörhead before stepping into Scorpions' drum chair in 2016. Lars Ulrich, by contrast, has been Metallica's only drummer since co-founding the band in 1981, never leaving the chair across more than four decades.
 
 ---
 
@@ -67,4 +67,4 @@ A: Mikkey Dee uses Zildjian A Custom & K Series (14" A Custom Hi-Hats, 18" & 19"
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

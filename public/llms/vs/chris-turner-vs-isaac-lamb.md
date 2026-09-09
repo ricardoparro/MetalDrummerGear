@@ -18,11 +18,11 @@ Oceans Ate Alaska's Chris Turner vs Kublai Khan TX's Isaac Lamb — viral techni
 
 ## Isaac Lamb Setup
 
-- **Drums:** SJC Custom Drums
-- **Cymbals:** Meinl Classics Custom Dark Series (14" Hi-Hats, 18" & 20" Crashes, 21" Ride, 18" China)
-- **Snare:** SJC Custom 14x6.5"
-- **Pedals/Hardware:** DW 9000 Series Double Pedal
-- **Sticks:** Vic Firth American Classic 2B
+- **Drums:** Not publicly documented
+- **Cymbals:** Not publicly documented
+- **Snare:** Not publicly documented
+- **Pedals/Hardware:** Not publicly documented
+- **Sticks:** Not publicly documented
 
 ## Playing Style
 
@@ -34,7 +34,7 @@ Turner incorporates extreme-speed double bass patterns, complex polyrhythms over
 
 ## Key Differences
 
-Chris Turner plays a Tama Starclassic Maple/Birch kit with Meinl Byzance cymbals and Vic Firth American Classic 5A sticks. Isaac Lamb plays an SJC Custom kit with a 14x6.5" SJC Custom snare, Meinl Classics Custom Dark Series cymbals (14" Hi-Hats, 18" & 20" Crashes, 21" Ride, 18" China), and a DW 9000 Series double pedal. Turner incorporates extreme-speed double bass patterns, complex polyrhythms over odd time signatures, and jazz-influenced fills, including one-handed blast beats and gravity blasts, pushing modern metalcore's technical ceiling while maintaining groove and musicality. Lamb prioritizes devastating breakdown timing and consistent, direct-drive kick response over flash, built around the kind of relentless, road-tested precision that beatdown hardcore's crushing, floor-impact-focused songwriting demands.
+Chris Turner plays a Tama Starclassic Maple/Birch kit with Meinl Byzance cymbals and Vic Firth American Classic 5A sticks. Isaac Lamb endorses SJC Custom Drums and Meinl Cymbals; his specific kit and cymbal models are not publicly documented. Turner incorporates extreme-speed double bass patterns, complex polyrhythms over odd time signatures, and jazz-influenced fills, including one-handed blast beats and gravity blasts, pushing modern metalcore's technical ceiling while maintaining groove and musicality. Lamb prioritizes devastating breakdown timing and consistent, direct-drive kick response over flash, built around the kind of relentless, road-tested precision that beatdown hardcore's crushing, floor-impact-focused songwriting demands.
 
 ## Influence & Legacy
 
@@ -46,17 +46,17 @@ Chris Turner and Isaac Lamb sit at opposite ends of modern heavy music's technic
 
 ## FAQ
 
-**Q: What are the main differences between Chris Turner's and Isaac Lamb's drum kits?**
-A: Chris Turner plays Tama Starclassic Maple/Birch with Meinl cymbals, while Isaac Lamb uses SJC Custom Drums with Meinl cymbals. Chris Turner plays a Tama Starclassic Maple/Birch kit with Meinl Byzance cymbals and Vic Firth American Classic 5A sticks. Isaac Lamb plays an SJC Custom kit with a 14x6.5" SJC Custom snare, Meinl Classics Custom Dark Series cymbals (14" Hi-Hats, 18" & 20" Crashes, 21" Ride, 18" China), and a DW 9000 Series double pedal.
+**Q: How do Chris Turner and Isaac Lamb compare as drummers?**
+A: Chris Turner co-founded Oceans Ate Alaska in 2010 and is known for viral, extreme-precision technical metalcore drumming built on complex polyrhythms and blast-beat variations. Isaac Lamb co-founded Kublai Khan TX in 2009 and is known for crushing, breakdown-driven beatdown hardcore grooves that prioritize devastating impact over technical display.
 
-**Q: What drums does Chris Turner play vs Isaac Lamb?**
-A: Chris Turner plays Tama Starclassic Maple/Birch. Isaac Lamb plays SJC Custom Drums.
+**Q: What gear do Chris Turner and Isaac Lamb use?**
+A: Chris Turner plays a Tama Starclassic Maple/Birch kit with Meinl Byzance cymbals and Vic Firth American Classic 5A sticks. Isaac Lamb endorses SJC Custom Drums and Meinl Cymbals, but his specific kit and cymbal models are not publicly documented.
 
-**Q: Who is the better alternative / nu-metal drummer, Chris Turner or Isaac Lamb?**
-A: Both are legends in their own right. Chris Turner and Isaac Lamb sit at opposite ends of modern heavy music's technical spectrum despite both emerging from the 2010s metalcore-adjacent underground. See the full analysis at [metalforge.io/vs/chris-turner-vs-isaac-lamb](https://metalforge.io/vs/chris-turner-vs-isaac-lamb).
+**Q: What bands are Chris Turner and Isaac Lamb known for?**
+A: Chris Turner is the founding drummer of British progressive metalcore band Oceans Ate Alaska, formed in Birmingham in 2010. Isaac Lamb is the founding and sole drummer of beatdown hardcore band Kublai Khan TX, formed in Sherman, Texas, in 2009.
 
-**Q: What cymbals do Chris Turner and Isaac Lamb use?**
-A: Chris Turner uses Meinl Byzance Series (15" Dual Hi-Hats, 18" & 20" Extra Dry Medium Crashes, 22" Dual Ride, 18" Extra Dry China). Isaac Lamb uses Meinl Classics Custom Dark Series (14" Hi-Hats, 18" & 20" Crashes, 21" Ride, 18" China).
+**Q: Why is Chris Turner known for viral drumming videos?**
+A: Chris Turner's technical drumming videos, showcasing extreme-speed double bass, complex polyrhythms, and one-handed blast beats, have gone viral on social media since around 2017, earning him millions of views and making him one of the most followed metal drummers on Instagram and TikTok.
 
 ---
 
@@ -67,4 +67,4 @@ A: Chris Turner uses Meinl Byzance Series (15" Dual Hi-Hats, 18" & 20" Extra Dry
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

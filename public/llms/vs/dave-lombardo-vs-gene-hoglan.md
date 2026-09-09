@@ -34,7 +34,7 @@ Dave revolutionized double bass speed and blast beats in thrash. Gene invented t
 
 ## Key Differences
 
-Dave plays Pearl drums with Paiste RUDE cymbals for aggressive cut. Gene endorses Pearl for power and projection with signature sticks. Dave revolutionized double bass speed and blast beats in thrash. Gene invented the gravity blast and is known for impossibly tight timing.
+Dave plays Tama Starclassic drums with Paiste RUDE cymbals for aggressive cut. Gene endorses Pearl for power and projection with signature sticks. Dave revolutionized double bass speed and blast beats in thrash. Gene invented the gravity blast and is known for impossibly tight timing.
 
 ## Influence & Legacy
 
@@ -47,7 +47,7 @@ Two drummers who defined extreme metal drumming. Dave Lombardo is thrash metal r
 ## FAQ
 
 **Q: What are the main differences between Dave Lombardo's and Gene Hoglan's drum kits?**
-A: Dave Lombardo plays Tama Starclassic Maple with Paiste cymbals, while Gene Hoglan uses Pearl Reference Pure with Sabian cymbals. Dave plays Pearl drums with Paiste RUDE cymbals for aggressive cut. Gene endorses Pearl for power and projection with signature sticks.
+A: Dave Lombardo plays Tama Starclassic Maple with Paiste cymbals, while Gene Hoglan uses Pearl Reference Pure with Sabian cymbals. Dave plays Tama Starclassic drums with Paiste RUDE cymbals for aggressive cut. Gene endorses Pearl for power and projection with signature sticks.
 
 **Q: What drums does Dave Lombardo play vs Gene Hoglan?**
 A: Dave Lombardo plays Tama Starclassic Maple. Gene Hoglan plays Pearl Reference Pure.
@@ -67,4 +67,4 @@ A: Dave Lombardo uses Paiste RUDE & 2002 Series (15" Sound Edge Hi-Hats, 18" & 1
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

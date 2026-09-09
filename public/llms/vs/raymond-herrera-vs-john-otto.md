@@ -34,7 +34,7 @@ Herrera's defining technical signature is the machine-gun double-kick — sustai
 
 ## Key Differences
 
-Herrera's kit was a Pearl Reference Series set — 22"x18" double bass drums and a full tom spread, every single piece fitted with ddrum and Roland triggers — driven by a Pearl Eliminator double pedal, cut through the mix with Zildjian Z Custom cymbals, and struck with heavier Vater Power 5B sticks built for high-impact touring durability. Otto's setup centered on custom Orange County Drum and Percussion (OCDP) shells built to his specification, though on "Significant Other" specifically he played a Sonor Force 3007 kit with beech shells and a single 22"x18" kick, paired with Paiste 2002 series cymbals for their bright, cutting projection through Limp Bizkit's dense turntable-and-guitar mix; he later moved to Zildjian A and A Custom cymbals and Gibraltar hardware for his ongoing OCDP setup. Herrera's defining technical signature is the machine-gun double-kick — sustained sixteenth-note grids at 190–210 BPM on tracks like "Replica," executed with such consistency that each stroke fired its ddrum trigger at near-identical velocity, making the kick function almost like a sequencer beneath the riffs. Otto took the opposite approach entirely: at a time when double-kick was nu-metal's default status symbol, he played single kick throughout "Significant Other," placing each hit with hip-hop-informed micro-timing — landing slightly ahead of or behind the strict grid rather than locking mechanically to it — to create the swinging pocket that made tracks like "Nookie" groove rather than merely pound. Where Herrera pursued absolute mechanical consistency, Otto pursued rhythmic feel; both approaches were revolutionary within nu-metal-adjacent metal, just aimed at opposite ends of the precision-versus-groove spectrum.
+Herrera's kit was a Tama Starclassic set (with triggering) — 22"x18" double bass drums and a full tom spread, every single piece fitted with ddrum and Roland triggers — driven by a DW 5000 Series Double Pedal, cut through the mix with Zildjian Z Custom cymbals, and struck with Pro-Mark 5A Oak Nylon Tip sticks. Otto's setup centered on custom Orange County Drum and Percussion (OCDP) shells built to his specification, including on "Significant Other" itself, where he played his newly adopted OCDP kit with a single 22"x18" kick, paired with Zildjian A and A Custom cymbals for their bright, cutting projection through Limp Bizkit's dense turntable-and-guitar mix and Gibraltar hardware for his ongoing OCDP setup. Herrera's defining technical signature is the machine-gun double-kick — sustained sixteenth-note grids at 190–210 BPM on tracks like "Replica," executed with such consistency that each stroke fired its ddrum trigger at near-identical velocity, making the kick function almost like a sequencer beneath the riffs. Otto took the opposite approach entirely: at a time when double-kick was nu-metal's default status symbol, he played single kick throughout "Significant Other," placing each hit with hip-hop-informed micro-timing — landing slightly ahead of or behind the strict grid rather than locking mechanically to it — to create the swinging pocket that made tracks like "Nookie" groove rather than merely pound. Where Herrera pursued absolute mechanical consistency, Otto pursued rhythmic feel; both approaches were revolutionary within nu-metal-adjacent metal, just aimed at opposite ends of the precision-versus-groove spectrum.
 
 ## Influence & Legacy
 
@@ -46,17 +46,17 @@ Raymond Herrera and John Otto both emerged in the early-to-mid 1990s building dr
 
 ## FAQ
 
-**Q: What are the main differences between Raymond Herrera's and John Otto's drum kits?**
-A: Raymond Herrera plays Tama Starclassic with Zildjian cymbals, while John Otto uses Orange County Drum & Percussion (OCDP) Custom Type 5 Acrylic with Zildjian cymbals. Herrera's kit was a Pearl Reference Series set — 22"x18" double bass drums and a full tom spread, every single piece fitted with ddrum and Roland triggers — driven by a Pearl Eliminator double pedal, cut through the mix with Zildjian Z Custom cymbals, and struck with heavier Vater Power 5B sticks built for high-impact touring durability. Otto's setup centered on custom Orange County Drum and Percussion (OCDP) shells built to his specification, though on "Significant Other" specifically he played a Sonor Force 3007 kit with beech shells and a single 22"x18" kick, paired with Paiste 2002 series cymbals for their bright, cutting projection through Limp Bizkit's dense turntable-and-guitar mix; he later moved to Zildjian A and A Custom cymbals and Gibraltar hardware for his ongoing OCDP setup.
+**Q: Did Raymond Herrera and John Otto ever play in the same band?**
+A: No — Raymond Herrera co-founded and drummed for Fear Factory beginning in 1990, while John Otto co-founded and has drummed for Limp Bizkit since 1994. The two never shared a band, but both are foundational drummers of adjacent 1990s heavy-music movements: industrial metal and nu-metal/rap-metal.
 
-**Q: What drums does Raymond Herrera play vs John Otto?**
-A: Raymond Herrera plays Tama Starclassic. John Otto plays Orange County Drum & Percussion (OCDP) Custom Type 5 Acrylic.
+**Q: Why does Raymond Herrera use electronic triggers on every drum?**
+A: Raymond Herrera runs ddrum and Roland triggers on his kick drums, snare, and toms to layer an electronically processed sample beneath each acoustic hit, producing the mechanical, machine-like drum sound central to Fear Factory's industrial metal identity — a sonic match for the band's lyrical themes about the collision of humanity and technology.
 
-**Q: Who is the better alternative / nu-metal drummer, Raymond Herrera or John Otto?**
-A: Both are legends in their own right. Raymond Herrera and John Otto both emerged in the early-to-mid 1990s building drum setups for genres adjacent to nu-metal, and arrived at nearly opposite philosophies. See the full analysis at [metalforge.io/vs/raymond-herrera-vs-john-otto](https://metalforge.io/vs/raymond-herrera-vs-john-otto).
+**Q: Why did John Otto play single kick instead of double bass on Significant Other?**
+A: John Otto's jazz training led him to prioritize hip-hop-influenced groove placement over the double-kick density common among his nu-metal peers. Playing single kick throughout "Significant Other" forced rhythmic creativity — every kick stroke on the album is deliberately placed to lock with the bass and turntable elements rather than simply adding speed.
 
-**Q: What cymbals do Raymond Herrera and John Otto use?**
-A: Raymond Herrera uses Zildjian A Custom & Z Custom Series (14" A Custom Hi-Hats, 18" & 19" A Custom Crashes, 21" Z Custom Mega Bell Ride, 18" A Custom China). John Otto uses Zildjian (13" A Custom Mastersound Hi-Hats, 16" & 17" A Custom Projection Crashes, 20" A Custom EFX, 20" FX Oriental Crash of Doom).
+**Q: What gear did John Otto use on Significant Other versus his later Limp Bizkit albums?**
+A: On "Significant Other" (1999), John Otto played his newly adopted custom Orange County Drum and Percussion (OCDP) kit with Zildjian A and A Custom cymbals — the same OCDP/Zildjian/Gibraltar setup he has used for the bulk of Limp Bizkit's catalog since.
 
 ---
 
@@ -67,4 +67,4 @@ A: Raymond Herrera uses Zildjian A Custom & Z Custom Series (14" A Custom Hi-Hat
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

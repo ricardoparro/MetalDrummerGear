@@ -11,7 +11,7 @@ Tool's Danny Carey vs Gojira's Mario Duplantier. Progressive metal drumming exce
 ## Danny Carey Setup
 
 - **Drums:** Sonor SQ2 Heavy Beech
-- **Cymbals:** Paiste Signature Series (15" Sound Edge Hi-Hats, 18" & 19" Power Crashes, 22" Dry Heavy Ride, 20" & 22" Chinas, various Rude crashes)
+- **Cymbals:** Paiste Signature Series (14" Sound Edge Hi-Hats, 18" & 20" Power Crashes, 22" Dry Heavy Ride "Monad", 2002 & Signature China cymbals)
 - **Snare:** Sonor Danny Carey Signature 14x8" Bronze
 - **Pedals/Hardware:** Sonor Giant Step Twin Effect Double Pedal, Sonor Drummer Throne, Mandala Drum electronic pads
 - **Sticks:** Vic Firth Danny Carey Signature
@@ -56,7 +56,7 @@ A: Danny Carey plays Sonor SQ2 Heavy Beech. Mario Duplantier plays Tama Starclas
 A: Both are legends in their own right. Danny Carey is the philosopher-drummer whose mathematical approach created Tool's sonic universe. See the full analysis at [metalforge.io/vs/danny-carey-vs-mario-duplantier](https://metalforge.io/vs/danny-carey-vs-mario-duplantier).
 
 **Q: What cymbals do Danny Carey and Mario Duplantier use?**
-A: Danny Carey uses Paiste Signature Series (15" Sound Edge Hi-Hats, 18" & 19" Power Crashes, 22" Dry Heavy Ride, 20" & 22" Chinas, various Rude crashes). Mario Duplantier uses Zildjian (14" K Sweet Hi-Hats, 14" A Custom Hi-Hats, 18" K Custom Hybrid Crash, 19" A Custom Crash, 20" K Sweet Crash, 21" Z Custom Mega Bell Ride, 18" & 20" Chinas).
+A: Danny Carey uses Paiste Signature Series (14" Sound Edge Hi-Hats, 18" & 20" Power Crashes, 22" Dry Heavy Ride "Monad", 2002 & Signature China cymbals). Mario Duplantier uses Zildjian (14" K Sweet Hi-Hats, 14" A Custom Hi-Hats, 18" K Custom Hybrid Crash, 19" A Custom Crash, 20" K Sweet Crash, 21" Z Custom Mega Bell Ride, 18" & 20" Chinas).
 
 ---
 
@@ -67,4 +67,4 @@ A: Danny Carey uses Paiste Signature Series (15" Sound Edge Hi-Hats, 18" & 19" P
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

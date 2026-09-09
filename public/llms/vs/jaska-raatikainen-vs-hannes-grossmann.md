@@ -46,17 +46,17 @@ Jaska Raatikainen and Hannes Grossmann represent two disciplined extremes of dea
 
 ## FAQ
 
-**Q: What are the main differences between Jaska Raatikainen's and Hannes Grossmann's drum kits?**
-A: Jaska Raatikainen plays Pearl Masters Premium Maple with Zildjian cymbals, while Hannes Grossmann uses DW Collectors Series with Meinl cymbals. Jaska Raatikainen plays a Pearl Masters Premium Maple kit with a Pearl Masters 14x5.5" Maple snare and Zildjian A Custom & K Custom Series cymbals (14" A Custom Hi-Hats, 17" & 18" A Custom Crashes, 20" K Custom Ride), driven by a Pearl Eliminator double pedal and Vic Firth American Classic 5A sticks. Hannes Grossmann plays a DW Collector's Series kit with a matching DW Collector's 14x5.5" Maple snare and Meinl Byzance Series cymbals (14" Byzance Traditional Hi-Hats, 18" & 19" Byzance Brilliant Crashes, 21" Byzance Traditional Ride), powered by a DW 9000 Series double pedal and heavier Vic Firth American Classic 5B sticks.
+**Q: How do Jaska Raatikainen and Hannes Grossmann compare as drummers?**
+A: Jaska Raatikainen anchored Children of Bodom's melodic death metal with blast beats built to serve the band's neoclassical melodies across a 26-year run. Hannes Grossmann builds polyrhythmic, classically informed technical death metal drumming across Necrophagist, Obscura, and Alkaloid.
 
-**Q: What drums does Jaska Raatikainen play vs Hannes Grossmann?**
-A: Jaska Raatikainen plays Pearl Masters Premium Maple. Hannes Grossmann plays DW Collectors Series.
+**Q: What gear do Jaska Raatikainen and Hannes Grossmann use?**
+A: Jaska Raatikainen plays a Pearl Masters Premium Maple kit with a Pearl Masters 14x5.5" Maple snare and Zildjian A Custom & K Custom cymbals, driven by a Pearl Eliminator double pedal. Hannes Grossmann plays a DW Collector's Series kit with a matching 14x5.5" Maple snare and Meinl Byzance Series cymbals, powered by a DW 9000 Series double pedal.
 
-**Q: Who is the better extreme / death / black metal drummer, Jaska Raatikainen or Hannes Grossmann?**
-A: Both are legends in their own right. Jaska Raatikainen and Hannes Grossmann represent two disciplined extremes of death metal drumming. See the full analysis at [metalforge.io/vs/jaska-raatikainen-vs-hannes-grossmann](https://metalforge.io/vs/jaska-raatikainen-vs-hannes-grossmann).
+**Q: What bands are Jaska Raatikainen and Hannes Grossmann known for?**
+A: Jaska Raatikainen co-founded Children of Bodom in 1993 and remained its sole drummer until the band's 2019 farewell. Hannes Grossmann has drummed for Necrophagist, Obscura, and Alkaloid, and is regarded as one of technical death metal's most proficient players.
 
-**Q: What cymbals do Jaska Raatikainen and Hannes Grossmann use?**
-A: Jaska Raatikainen uses Zildjian A Custom & K Custom Series (14" A Custom Hi-Hats, 17" & 18" A Custom Crashes, 20" K Custom Ride). Hannes Grossmann uses Meinl Byzance Series (14" Byzance Traditional Hi-Hats, 18" & 19" Byzance Brilliant Crashes, 21" Byzance Traditional Ride).
+**Q: What technique is Hannes Grossmann known for?**
+A: Hannes Grossmann plays with an open-handed setup and is known for clean, articulate blast beats at extreme tempos, building polyrhythmic passages where his hands and feet lock into different meters simultaneously.
 
 ---
 
@@ -67,4 +67,4 @@ A: Jaska Raatikainen uses Zildjian A Custom & K Custom Series (14" A Custom Hi-H
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

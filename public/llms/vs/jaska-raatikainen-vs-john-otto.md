@@ -46,17 +46,17 @@ Jaska Raatikainen and John Otto show just how differently precision and groove c
 
 ## FAQ
 
-**Q: What are the main differences between Jaska Raatikainen's and John Otto's drum kits?**
-A: Jaska Raatikainen plays Pearl Masters Premium Maple with Zildjian cymbals, while John Otto uses Orange County Drum & Percussion (OCDP) Custom Type 5 Acrylic with Zildjian cymbals. Raatikainen played a Pearl Masters Premium Maple kit with a Pearl Masters 14x5.5" Maple snare and Zildjian A Custom & K Custom Series cymbals (14" A Custom Hi-Hats, 17" & 18" A Custom Crashes, 20" K Custom Ride, 18" China), powered by a Pearl Eliminator double pedal and Vic Firth American Classic 5A sticks. Otto plays an Orange County Drum & Percussion (OCDP) Custom Type 5 Acrylic kit with dual signature OCDP snares and Zildjian A Custom cymbals, driven by Gibraltar G Class pedals — both drummers favor Zildjian A Custom cymbals despite operating at opposite ends of metal's tempo spectrum.
+**Q: How do Jaska Raatikainen and John Otto compare as drummers?**
+A: Jaska Raatikainen (Children of Bodom) is known for clean, locked-in double bass and precise blast beats that anchored Finnish melodic death metal for 26 years. John Otto (Limp Bizkit) is known for jazz-and-funk-informed grooves built around a tight, single-pedal pocket. Raatikainen represents extreme metal precision; Otto represents nu-metal groove.
 
-**Q: What drums does Jaska Raatikainen play vs John Otto?**
-A: Jaska Raatikainen plays Pearl Masters Premium Maple. John Otto plays Orange County Drum & Percussion (OCDP) Custom Type 5 Acrylic.
+**Q: What gear do Jaska Raatikainen and John Otto use?**
+A: Jaska Raatikainen played a Pearl Masters Premium Maple kit with a Pearl Masters 14x5.5" Maple snare and Zildjian A Custom & K Custom cymbals, powered by a Pearl Eliminator double pedal. John Otto plays an Orange County Drum & Percussion (OCDP) Custom Type 5 Acrylic kit with dual signature OCDP snares, Zildjian A Custom cymbals, and Gibraltar G Class pedals.
 
-**Q: Who is the better alternative / nu-metal drummer, Jaska Raatikainen or John Otto?**
-A: Both are legends in their own right. Jaska Raatikainen and John Otto show just how differently precision and groove can define heavy music drumming. See the full analysis at [metalforge.io/vs/jaska-raatikainen-vs-john-otto](https://metalforge.io/vs/jaska-raatikainen-vs-john-otto).
+**Q: What bands are Jaska Raatikainen and John Otto known for?**
+A: Jaska Raatikainen was the co-founding drummer of Children of Bodom from 1993 until the band's 2019 dissolution. John Otto has been Limp Bizkit's drummer and founding member since 1994.
 
-**Q: What cymbals do Jaska Raatikainen and John Otto use?**
-A: Jaska Raatikainen uses Zildjian A Custom & K Custom Series (14" A Custom Hi-Hats, 17" & 18" A Custom Crashes, 20" K Custom Ride). John Otto uses Zildjian (13" A Custom Mastersound Hi-Hats, 16" & 17" A Custom Projection Crashes, 20" A Custom EFX, 20" FX Oriental Crash of Doom).
+**Q: Does John Otto use a double bass pedal like Jaska Raatikainen?**
+A: No — John Otto plays with a single-pedal setup, relying on jazz-schooled syncopation and funky ghost notes rather than double bass speed. Jaska Raatikainen used a Pearl Eliminator double pedal to drive Children of Bodom's extreme-tempo blast beats and double bass volleys.
 
 ---
 
@@ -67,4 +67,4 @@ A: Jaska Raatikainen uses Zildjian A Custom & K Custom Series (14" A Custom Hi-H
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

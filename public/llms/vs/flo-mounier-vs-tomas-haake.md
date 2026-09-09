@@ -46,17 +46,14 @@ Flo Mounier and Tomas Haake represent two philosophical extremes of ultra-techni
 
 ## FAQ
 
-**Q: What are the main differences between Flo Mounier's and Tomas Haake's drum kits?**
-A: Flo Mounier plays Pearl Masters Maple Complete with Sabian cymbals, while Tomas Haake uses Sonor SQ2 Heavy Beech (24"x18" Bass, 10"x8", 12"x9", 13"x10", 16"x14", 18"x16" Toms) with Sabian cymbals. Flo Mounier plays Tama Starclassic Maple drums with Sabian AAX & HHX cymbals and Tama Iron Cobra 900 double pedals — a precision setup built for the cutting response technical death metal demands. Tomas Haake plays Sonor SQ2 Heavy Beech drums with Sabian HHX & AAX cymbals and two Tama Speed Cobra single pedals — a focused, projection-oriented setup purpose-built for Meshuggah's dense, heavily detuned sound.
+**Q: Is Flo Mounier faster than Tomas Haake?**
+A: Flo Mounier specializes in extreme blast beat velocity — his gravity blast tempos on *None So Vile* represent some of the fastest recorded death metal drumming. Tomas Haake is not primarily a speed player; his genius lies in polyrhythmic complexity and machine-like consistency across extended odd time signatures. Mounier is faster in the traditional blast beat sense; Haake is more rhythmically complex.
 
-**Q: What drums does Flo Mounier play vs Tomas Haake?**
-A: Flo Mounier plays Pearl Masters Maple Complete. Tomas Haake plays Sonor SQ2 Heavy Beech (24"x18" Bass, 10"x8", 12"x9", 13"x10", 16"x14", 18"x16" Toms).
+**Q: What drums do Flo Mounier and Tomas Haake use?**
+A: Flo Mounier plays Tama Starclassic Maple drums with Sabian AAX & HHX cymbals and Tama Iron Cobra 900 double pedals. Tomas Haake plays Sonor SQ2 Heavy Beech drums with Sabian HHX & AAX cymbals and uniquely uses two Tama Speed Cobra single pedals rather than a traditional double pedal.
 
-**Q: Who is the better extreme / death / black metal drummer, Flo Mounier or Tomas Haake?**
-A: Both are legends in their own right. Flo Mounier and Tomas Haake represent two philosophical extremes of ultra-technical drumming. See the full analysis at [metalforge.io/vs/flo-mounier-vs-tomas-haake](https://metalforge.io/vs/flo-mounier-vs-tomas-haake).
-
-**Q: What cymbals do Flo Mounier and Tomas Haake use?**
-A: Flo Mounier uses Sabian AAX & HHX Series (14" HHX Stage Hi-Hats, 17" & 18" AAX X-Plosion Crashes, 21" HHX Raw Bell Dry Ride, 18" AAXtreme China). Tomas Haake uses Sabian HHX & AAX Series (14" HHX Compression Hi-Hats, 15" Artisan Hi-Hats, 19" & 20" & 21" HHX Stage Crashes, 22" Legacy Ride, 19" AAXtreme China).
+**Q: Which drummer is more technical: Flo Mounier or Tomas Haake?**
+A: Both are among the most technically demanding drummers in metal history, but in different dimensions. Mounier's technicality lies in speed, ghost-note density, and jazz-influenced complexity within brutal death metal. Haake's technicality lies in polyrhythmic independence and mathematical precision — maintaining interlocking kick, snare, and cymbal patterns across time signatures most drummers cannot navigate. They represent different technical universes rather than a single scale.
 
 ---
 
@@ -67,4 +64,4 @@ A: Flo Mounier uses Sabian AAX & HHX Series (14" HHX Stage Hi-Hats, 17" & 18" AA
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

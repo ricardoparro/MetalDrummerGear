@@ -10,10 +10,10 @@ Satyricon's Frost vs Behemoth's Inferno. Norwegian black metal blast beat precis
 
 ## Frost Setup
 
-- **Drums:** Sonor SQ2 Series
+- **Drums:** Tama Starclassic Bubinga
 - **Cymbals:** Zildjian A Custom & K Series (14" A Custom Hi-Hats, 16", 17", 18" A Custom Crashes, 22" K Custom Dark Ride, 18" K China)
-- **Snare:** Sonor SQ2 14x6" Maple
-- **Pedals/Hardware:** Sonor Perfect Balance Pedal, Sonor Hardware
+- **Snare:** Tama Starclassic Bubinga 14x5.5"
+- **Pedals/Hardware:** Tama Iron Cobra Power Glide Pedal, Tama Iron Cobra Lever Glide Hi-Hat Stand
 - **Sticks:** Vic Firth American Classic Extreme 5B
 
 ## Inferno Setup
@@ -34,7 +34,7 @@ Frost developed a refined single-stroke blast beat technique built for consisten
 
 ## Key Differences
 
-Frost plays a Sonor SQ2 Series kit with a Sonor SQ2 14x6" Maple snare, Zildjian A Custom & K Series cymbals (14" A Custom Hi-Hats, 16", 17", 18" A Custom Crashes, 22" K Custom Dark Ride, 18" K China), and a Sonor Perfect Balance single pedal. Inferno plays a Pearl Masterworks kit with a Pearl Reference 14x5" Steel snare, Paiste RUDE Series cymbals (14" Hi-Hats, 14" Blast China, 18" & 19" Crashes, 24" Mega Power Ride, 18" China), and a Czarcie Kopyto (Devil's Hoof) double pedal. Frost developed a refined single-stroke blast beat technique built for consistency and endurance across full-length compositions, maintaining precision at extreme tempos without sacrificing black metal's dark atmosphere. Inferno combines sustained double bass blasting with the physical stamina to deliver Behemoth's dense, orchestrated arrangements night after night on some of extreme metal's biggest stages, blending blackened death metal aggression with disciplined tempo control.
+Frost plays a Tama Starclassic Bubinga Series kit, Zildjian A Custom & K Series cymbals (14" A Custom Hi-Hats, 16", 17", 18" A Custom Crashes, 22" K Custom Dark Ride, 18" K China), and a Tama Iron Cobra Power Glide single pedal. Inferno plays a Pearl Masterworks kit with a Pearl Reference 14x5" Steel snare, Paiste RUDE Series cymbals (14" Hi-Hats, 14" Blast China, 18" & 19" Crashes, 24" Mega Power Ride, 18" China), and a Czarcie Kopyto (Devil's Hoof) double pedal. Frost developed a refined single-stroke blast beat technique built for consistency and endurance across full-length compositions, maintaining precision at extreme tempos without sacrificing black metal's dark atmosphere. Inferno combines sustained double bass blasting with the physical stamina to deliver Behemoth's dense, orchestrated arrangements night after night on some of extreme metal's biggest stages, blending blackened death metal aggression with disciplined tempo control.
 
 ## Influence & Legacy
 
@@ -46,17 +46,17 @@ Frost and Inferno represent two national schools of extreme metal drumming. Fros
 
 ## FAQ
 
-**Q: What are the main differences between Frost's and Inferno's drum kits?**
-A: Frost plays Sonor SQ2 Series with Zildjian cymbals, while Inferno uses Pearl Masterworks with Paiste cymbals. Frost plays a Sonor SQ2 Series kit with a Sonor SQ2 14x6" Maple snare, Zildjian A Custom & K Series cymbals (14" A Custom Hi-Hats, 16", 17", 18" A Custom Crashes, 22" K Custom Dark Ride, 18" K China), and a Sonor Perfect Balance single pedal. Inferno plays a Pearl Masterworks kit with a Pearl Reference 14x5" Steel snare, Paiste RUDE Series cymbals (14" Hi-Hats, 14" Blast China, 18" & 19" Crashes, 24" Mega Power Ride, 18" China), and a Czarcie Kopyto (Devil's Hoof) double pedal.
+**Q: Who is the better extreme metal drummer: Frost or Inferno?**
+A: Both are elite extreme metal drummers from different traditions. Frost (Satyricon, 1349) is known for technical precision and controlled, sustained blast beats in Norwegian black metal. Inferno (Behemoth) is known for relentless power and stamina in Polish blackened death metal. Style preference determines the winner.
 
-**Q: What drums does Frost play vs Inferno?**
-A: Frost plays Sonor SQ2 Series. Inferno plays Pearl Masterworks.
+**Q: What gear does Frost use vs Inferno?**
+A: Frost plays a Tama Starclassic Bubinga Series kit with Zildjian A Custom & K Series cymbals and a Tama Iron Cobra Power Glide pedal. Inferno plays a Pearl Masterworks kit with Paiste RUDE Series cymbals and a Czarcie Kopyto (Devil's Hoof) double pedal.
 
-**Q: Who is the better extreme / death / black metal drummer, Frost or Inferno?**
-A: Both are legends in their own right. Frost and Inferno represent two national schools of extreme metal drumming. See the full analysis at [metalforge.io/vs/frost-vs-inferno](https://metalforge.io/vs/frost-vs-inferno).
+**Q: What bands are Frost and Inferno known for?**
+A: Frost is best known as the drummer for Satyricon, also playing in 1349. Inferno is best known as the drummer for Behemoth, which he joined in 1997.
 
-**Q: What cymbals do Frost and Inferno use?**
-A: Frost uses Zildjian A Custom & K Series (14" A Custom Hi-Hats, 16", 17", 18" A Custom Crashes, 22" K Custom Dark Ride, 18" K China). Inferno uses Paiste RUDE Series (14" Hi-Hats, 14" Blast China, 18" & 19" Crashes, 24" Mega Power Ride, 18" China).
+**Q: What blast beat technique does Frost use compared to Inferno?**
+A: Frost uses a single-stroke blast beat technique emphasizing precision and endurance at extreme tempos. Inferno combines sustained double bass blasting with the physical stamina required for Behemoth's dense, theatrical live performances.
 
 ---
 
@@ -67,4 +67,4 @@ A: Frost uses Zildjian A Custom & K Series (14" A Custom Hi-Hats, 16", 17", 18" 
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

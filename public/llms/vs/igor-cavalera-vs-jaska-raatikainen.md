@@ -34,7 +34,7 @@ Igor Cavalera built his style around tribal-metal fusion — incorporating Brazi
 
 ## Key Differences
 
-Igor Cavalera played Tama Starclassic Maple drums with Paiste RUDE and 2002 cymbals throughout his Sepultura tenure — a setup chosen for raw power and cutting attack suited to thrash and groove metal recording. Jaska Raatikainen played Pearl Masters Premium drums with Sabian cymbals and Pearl Eliminator double pedals — a precision setup suited to the exacting demands of melodic death metal recording and touring. Igor Cavalera built his style around tribal-metal fusion — incorporating Brazilian folk rhythms, marching percussion, and tribal beats into a thrash framework that gave Sepultura's music its unmistakable global identity. His groove-oriented approach prioritizes feel and power over maximum speed. Jaska Raatikainen developed a melodic death metal technique defined by clean, locked-in double bass, precise timing across complex arrangements, and the ability to anchor Bodom's layered keyboards and guitars with surgical consistency across demanding live sets.
+Igor Cavalera currently plays a Yamaha Absolute Hybrid Maple kit with Zildjian cymbals, a setup adopted in 2018; from 2007-2018 he played Tama Starclassic Maple drums with Paiste RUDE and 2002 cymbals (and Pearl Masters Custom drums during Sepultura's 1993-1996 Chaos A.D./Roots era) — setups chosen for raw power and cutting attack suited to thrash and groove metal recording. Jaska Raatikainen played Pearl Masters Premium drums with Zildjian A Custom/K Custom cymbals and Pearl Eliminator double pedals — a precision setup suited to the exacting demands of melodic death metal recording and touring. Igor Cavalera built his style around tribal-metal fusion — incorporating Brazilian folk rhythms, marching percussion, and tribal beats into a thrash framework that gave Sepultura's music its unmistakable global identity. His groove-oriented approach prioritizes feel and power over maximum speed. Jaska Raatikainen developed a melodic death metal technique defined by clean, locked-in double bass, precise timing across complex arrangements, and the ability to anchor Bodom's layered keyboards and guitars with surgical consistency across demanding live sets.
 
 ## Influence & Legacy
 
@@ -46,17 +46,17 @@ Igor Cavalera and Jaska Raatikainen are the defining drummers of their respectiv
 
 ## FAQ
 
-**Q: What are the main differences between Igor Cavalera's and Jaska Raatikainen's drum kits?**
-A: Igor Cavalera plays Tama Starclassic Maple with Paiste cymbals, while Jaska Raatikainen uses Pearl Masters Premium Maple with Zildjian cymbals. Igor Cavalera played Tama Starclassic Maple drums with Paiste RUDE and 2002 cymbals throughout his Sepultura tenure — a setup chosen for raw power and cutting attack suited to thrash and groove metal recording. Jaska Raatikainen played Pearl Masters Premium drums with Sabian cymbals and Pearl Eliminator double pedals — a precision setup suited to the exacting demands of melodic death metal recording and touring.
+**Q: Who is the better drummer: Igor Cavalera or Jaska Raatikainen?**
+A: Igor Cavalera pioneered Brazilian tribal-thrash drumming with Sepultura, defining a global genre on albums like Chaos A.D. and Roots. Jaska Raatikainen provided the technical backbone for Children of Bodom's melodic death metal across Hatebreeder and Follow the Reaper. Both are definitive drummers in their styles — the debate is raw tribal power vs melodic death precision.
 
-**Q: What drums does Igor Cavalera play vs Jaska Raatikainen?**
-A: Igor Cavalera plays Tama Starclassic Maple. Jaska Raatikainen plays Pearl Masters Premium Maple.
+**Q: What gear does Igor Cavalera use?**
+A: Igor Cavalera currently plays a Yamaha Absolute Hybrid Maple kit with Zildjian cymbals (since 2018); from 2007-2018 he played Tama Starclassic Maple drums with Paiste RUDE and 2002 cymbals, and during Sepultura's 1993-1996 Chaos A.D./Roots era he played Pearl Masters Custom drums — raw, powerful setups suited to thrash and groove metal.
 
-**Q: Who is the better thrash metal drummer, Igor Cavalera or Jaska Raatikainen?**
-A: Both are legends in their own right. Igor Cavalera and Jaska Raatikainen are the defining drummers of their respective national metal scenes — Brazil and Finland, two countries that built globally influential metal identities from the ground up. See the full analysis at [metalforge.io/vs/igor-cavalera-vs-jaska-raatikainen](https://metalforge.io/vs/igor-cavalera-vs-jaska-raatikainen).
+**Q: What gear does Jaska Raatikainen use?**
+A: Jaska Raatikainen played Pearl Masters Premium drums with Zildjian A Custom/K Custom cymbals and Pearl Eliminator double pedals — a precision-focused setup suited to Children of Bodom's melodic death metal demands.
 
-**Q: What cymbals do Igor Cavalera and Jaska Raatikainen use?**
-A: Igor Cavalera uses Paiste RUDE & 2002 Series (14" RUDE Hi-Hats, 18" & 19" RUDE Crashes, 22" RUDE Power Ride, 18" 2002 China). Jaska Raatikainen uses Zildjian A Custom & K Custom Series (14" A Custom Hi-Hats, 17" & 18" A Custom Crashes, 20" K Custom Ride).
+**Q: What is Igor Cavalera's legacy in metal drumming?**
+A: Igor Cavalera co-founded Sepultura and drove Brazilian metal into global consciousness. His tribal-thrash fusion on Chaos A.D. and Roots introduced Afro-Brazilian rhythms to international metal and defined the roots-metal sub-genre. He remains one of the most influential rhythm architects in metal history.
 
 ---
 
@@ -67,4 +67,4 @@ A: Igor Cavalera uses Paiste RUDE & 2002 Series (14" RUDE Hi-Hats, 18" & 19" RUD
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

@@ -26,7 +26,7 @@ Between the Buried and Me's Blake Richardson vs ex-Periphery's Travis Orbin. Jaz
 
 ## Playing Style
 
-Blake Richardson has been the drummer for American progressive metal band Between the Buried and Me since early 2005, fusing death metal precision with jazz influences across genre-spanning, fill-heavy compositions on landmark albums like "Colors" (2007), "The Great Misdirect" (2009), and "Colors II" (2023), earning Grammy nominations along the way. Travis Orbin rose to prominence as the original studio drummer on Periphery's self-titled 2010 debut album — a record widely credited with helping define the djent movement — before moving on to thrash band Darkest Hour in 2013, building a parallel reputation as a prolific session player and YouTube playthrough artist.
+Blake Richardson has been the drummer for American progressive metal band Between the Buried and Me since early 2005, fusing death metal precision with jazz influences across genre-spanning, fill-heavy compositions on landmark albums like "Colors" (2007), "The Great Misdirect" (2009), and "Colors II" (2023), earning Grammy nominations along the way. Travis Orbin played drums in Periphery from 2006 to 2009, in the band's pre-recording years, leaving before the group wrote or recorded its self-titled 2010 debut — a record widely credited with helping define the djent movement, recorded by his replacement Matt Halpern — before moving on to thrash band Darkest Hour in 2013, building a parallel reputation as a prolific session player and YouTube playthrough artist.
 
 ## Technique
 
@@ -38,25 +38,25 @@ Blake Richardson plays a Tama Starclassic Bubinga kit (Custom Finish) with a Tam
 
 ## Influence & Legacy
 
-Richardson's two-decade run with Between the Buried and Me, citing influences like Terry Bozzio, Dennis Chambers, and Tomas Haake, has made him one of the most creative and technically proficient drummers in modern progressive metal, with Grammy-nominated work that helped define the genre-blending "djent-adjacent" progressive metal sound of the 2010s and 2020s. Orbin's performance on Periphery's 2010 debut is frequently cited as a foundational djent drumming statement, and his "Travis Orbin Drum" YouTube channel — where he posts studio playthroughs — has made his hyper-precise, polyrhythmic approach influential among modern progressive metal and djent drummers.
+Richardson's two-decade run with Between the Buried and Me, citing influences like Terry Bozzio, Dennis Chambers, and Tomas Haake, has made him one of the most creative and technically proficient drummers in modern progressive metal, with Grammy-nominated work that helped define the genre-blending "djent-adjacent" progressive metal sound of the 2010s and 2020s. Orbin's polyrhythmic playthrough and session work is widely cited among technical drummers despite predating Periphery's recorded discography, and his "Travis Orbin Drum" YouTube channel — where he posts studio playthroughs — has made his hyper-precise, polyrhythmic approach influential among modern progressive metal and djent drummers.
 
 ## Verdict
 
-Blake Richardson and Travis Orbin represent two of progressive metalcore's most technically demanding drumming traditions, both orbiting the scene Periphery helped ignite. Richardson is Between the Buried and Me's two-decade compositional chameleon, fusing death metal brutality with jazz-informed odd-meter intricacy across Grammy-nominated albums. Orbin is djent's hyper-precision pioneer, having helped define the genre on Periphery's foundational 2010 debut before carrying that polyrhythmic precision into thrash and session work. Both answer "who is the best technical metalcore drummer?" from adjacent but distinct angles — Richardson through genre-blending complexity, Orbin through polymetric speed and precision.
+Blake Richardson and Travis Orbin represent two of progressive metalcore's most technically demanding drumming traditions, both orbiting the scene Periphery helped ignite. Richardson is Between the Buried and Me's two-decade compositional chameleon, fusing death metal brutality with jazz-informed odd-meter intricacy across Grammy-nominated albums. Orbin is djent-adjacent progressive metal's hyper-precision specialist, carrying the polyrhythmic precision he built independent of Periphery's recorded discography into thrash and session work. Both answer "who is the best technical metalcore drummer?" from adjacent but distinct angles — Richardson through genre-blending complexity, Orbin through polymetric speed and precision.
 
 ## FAQ
 
-**Q: What are the main differences between Blake Richardson's and Travis Orbin's drum kits?**
-A: Blake Richardson plays Tama Starclassic Bubinga (Custom Finish) with Sabian cymbals, while Travis Orbin uses SJC Custom Drums with Zildjian cymbals. Blake Richardson plays a Tama Starclassic Bubinga kit (Custom Finish) with a Tama STARPHONIC 14x6" Brass snare and Sabian cymbals (14" HHX Evolution Hi-Hats, 18" HHX Evolution Crash, 17" & 21" AAX Holy Chinas, 21" HH Raw Bell Dry Ride), driven by twin Tama Iron Cobra Power Glide single pedals for independent double-kick patterns. Travis Orbin plays SJC Custom Drums with an SJC Custom 14x6.5" Maple snare and Zildjian K Custom Series cymbals (14" K Custom Dark Hi-Hats, 18" & 19" K Custom Dark Crashes, 21" K Custom Ride), paired with a DW 9000 Series double pedal and a Roland SPD-SX sampling pad for the electronic triggers central to his sound.
+**Q: Who is a better drummer: Blake Richardson or Travis Orbin?**
+A: Both are elite technical progressive metalcore drummers with different strengths. Blake Richardson (Between the Buried and Me) is known for fusing death metal blast beats with jazz-influenced odd time signatures across two decades of genre-blending, Grammy-nominated albums. Travis Orbin (Periphery drummer 2006–2009) is known for hyper-precise polyrhythmic double bass work, documented extensively in his own solo and session playthroughs rather than on a Periphery studio release. Richardson represents compositional complexity; Orbin represents polymetric speed and precision — there is no objectively "better," only different technical strengths.
 
-**Q: What drums does Blake Richardson play vs Travis Orbin?**
-A: Blake Richardson plays Tama Starclassic Bubinga (Custom Finish). Travis Orbin plays SJC Custom Drums.
+**Q: What is the connection between Blake Richardson, Travis Orbin, and Periphery?**
+A: Travis Orbin played drums in Periphery from 2006 to 2009, before the band wrote or recorded its self-titled 2010 debut album — he does not perform on that record, which was recorded by his replacement, Matt Halpern. Blake Richardson has no direct Periphery connection but operates in the same progressive metalcore/djent-adjacent scene with Between the Buried and Me, and the two drummers are frequently compared for their shared technical, polyrhythmic approach to modern progressive metal.
 
-**Q: Who is the better progressive metal drummer, Blake Richardson or Travis Orbin?**
-A: Both are legends in their own right. Blake Richardson and Travis Orbin represent two of progressive metalcore's most technically demanding drumming traditions, both orbiting the scene Periphery helped ignite. See the full analysis at [metalforge.io/vs/blake-richardson-vs-travis-orbin](https://metalforge.io/vs/blake-richardson-vs-travis-orbin).
+**Q: What gear do Blake Richardson and Travis Orbin use?**
+A: Blake Richardson plays a Tama Starclassic Bubinga kit with a Tama STARPHONIC 14x6" Brass snare and Sabian HHX Evolution & AAX Holy China cymbals. Travis Orbin plays SJC Custom Drums with an SJC Custom 14x6.5" Maple snare and Zildjian K Custom Series cymbals, plus a Roland SPD-SX sampling pad for electronic triggers.
 
-**Q: What cymbals do Blake Richardson and Travis Orbin use?**
-A: Blake Richardson uses Sabian (14" HHX Evolution Hi-Hats, 18" HHX Evolution Crash, 17" & 21" AAX Holy Chinas, 21" HH Raw Bell Dry Ride, 10" HH Duo Splash, 9" Radia Cup Chime). Travis Orbin uses Zildjian K Custom Series (14" K Custom Dark Hi-Hats, 18" & 19" K Custom Dark Crashes, 21" K Custom Ride, 18" K Custom China).
+**Q: How long has Blake Richardson been in Between the Buried and Me?**
+A: Blake Richardson joined Between the Buried and Me in early 2005, replacing former drummer Jason Roe, and has been the band's drummer ever since — recording landmark albums including "Colors" (2007), "The Great Misdirect" (2009), and "Colors II" (2023).
 
 ---
 
@@ -67,4 +67,4 @@ A: Blake Richardson uses Sabian (14" HHX Evolution Hi-Hats, 18" HHX Evolution Cr
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

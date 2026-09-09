@@ -34,7 +34,7 @@ Joey combined death metal speed with theatrical showmanship. John mastered synco
 
 ## Key Differences
 
-Joey played Pearl drums with custom kits. John endorses Pearl with emphasis on tight, punchy tones. Joey combined death metal speed with theatrical showmanship. John mastered syncopated grooves and dynamic control.
+Joey played Pearl drums with custom kits. John plays an OCDP (Orange County Drum & Percussion) custom kit with emphasis on tight, punchy tones. Joey combined death metal speed with theatrical showmanship. John mastered syncopated grooves and dynamic control.
 
 ## Influence & Legacy
 
@@ -47,7 +47,7 @@ Joey Jordison redefined nu-metal's technical ceiling. John Otto exemplified groo
 ## FAQ
 
 **Q: What are the main differences between Joey Jordison's and John Otto's drum kits?**
-A: Joey Jordison plays Pearl Reference Series with Paiste cymbals, while John Otto uses Orange County Drum & Percussion (OCDP) Custom Type 5 Acrylic with Zildjian cymbals. Joey played Pearl drums with custom kits. John endorses Pearl with emphasis on tight, punchy tones.
+A: Joey Jordison plays Pearl Reference Series with Paiste cymbals, while John Otto uses Orange County Drum & Percussion (OCDP) Custom Type 5 Acrylic with Zildjian cymbals. Joey played Pearl drums with custom kits. John plays an OCDP (Orange County Drum & Percussion) custom kit with emphasis on tight, punchy tones.
 
 **Q: What drums does Joey Jordison play vs John Otto?**
 A: Joey Jordison plays Pearl Reference Series. John Otto plays Orange County Drum & Percussion (OCDP) Custom Type 5 Acrylic.
@@ -67,4 +67,4 @@ A: Joey Jordison uses Paiste RUDE & 2002 Series (14" Wild Hi-Hats, 16", 17", 18"
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

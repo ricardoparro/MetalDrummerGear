@@ -10,10 +10,10 @@ Satyricon's Frost vs Vader/Dimmu Borgir's Daray. Norwegian black metal blast bea
 
 ## Frost Setup
 
-- **Drums:** Sonor SQ2 Series
+- **Drums:** Tama Starclassic Bubinga
 - **Cymbals:** Zildjian A Custom & K Series (14" A Custom Hi-Hats, 16", 17", 18" A Custom Crashes, 22" K Custom Dark Ride, 18" K China)
-- **Snare:** Sonor SQ2 14x6" Maple
-- **Pedals/Hardware:** Sonor Perfect Balance Pedal, Sonor Hardware
+- **Snare:** Tama Starclassic Bubinga 14x5.5"
+- **Pedals/Hardware:** Tama Iron Cobra Power Glide Pedal, Tama Iron Cobra Lever Glide Hi-Hat Stand
 - **Sticks:** Vic Firth American Classic Extreme 5B
 
 ## Daray Setup
@@ -34,7 +34,7 @@ Frost's single-stroke blast beat technique emphasizes consistency and endurance 
 
 ## Key Differences
 
-Frost plays a Sonor SQ2 Series kit with a Sonor SQ2 14x6" Maple snare, Zildjian A Custom & K Series cymbals, and a Sonor Perfect Balance single pedal. Daray plays a Pearl Masterworks Stadium Exotic kit with a Pearl Reference 14x5.5" Brass snare, Paiste RUDE & 2002 Series cymbals (14" RUDE Hi-Hats, 17" & 18" RUDE Crashes, 22" RUDE Power Ride), and a Pearl Demon XR double pedal. Frost's single-stroke blast beat technique emphasizes consistency and endurance at extreme tempos, prioritizing black metal's dark atmosphere over showmanship. Daray brings high-speed technical death metal precision from his Vader tenure into Dimmu Borgir's symphonic black metal arrangements, requiring the versatility to shift between Vader's stripped-down brutality and Dimmu Borgir's orchestrated, large-scale productions.
+Frost plays a Tama Starclassic Bubinga Series kit, Zildjian A Custom & K Series cymbals, and a Tama Iron Cobra Power Glide single pedal. Daray plays a Pearl Masterworks Stadium Exotic kit with a Pearl Reference 14x5.5" Brass snare, Paiste RUDE & 2002 Series cymbals (14" RUDE Hi-Hats, 17" & 18" RUDE Crashes, 22" RUDE Power Ride), and a Pearl Demon XR double pedal. Frost's single-stroke blast beat technique emphasizes consistency and endurance at extreme tempos, prioritizing black metal's dark atmosphere over showmanship. Daray brings high-speed technical death metal precision from his Vader tenure into Dimmu Borgir's symphonic black metal arrangements, requiring the versatility to shift between Vader's stripped-down brutality and Dimmu Borgir's orchestrated, large-scale productions.
 
 ## Influence & Legacy
 
@@ -46,17 +46,17 @@ Frost and Daray showcase two approaches to extreme metal drumming discipline. Fr
 
 ## FAQ
 
-**Q: What are the main differences between Frost's and Daray's drum kits?**
-A: Frost plays Sonor SQ2 Series with Zildjian cymbals, while Daray uses Pearl Masterworks Stadium Exotic with Paiste cymbals. Frost plays a Sonor SQ2 Series kit with a Sonor SQ2 14x6" Maple snare, Zildjian A Custom & K Series cymbals, and a Sonor Perfect Balance single pedal. Daray plays a Pearl Masterworks Stadium Exotic kit with a Pearl Reference 14x5.5" Brass snare, Paiste RUDE & 2002 Series cymbals (14" RUDE Hi-Hats, 17" & 18" RUDE Crashes, 22" RUDE Power Ride), and a Pearl Demon XR double pedal.
+**Q: Who is the better extreme metal drummer: Frost or Daray?**
+A: Both are elite extreme metal drummers with different strengths. Frost (Satyricon, 1349) is known for technical precision and controlled, sustained blast beats in Norwegian black metal. Daray is known for high-speed technical death metal precision with Vader and theatrical flair with Dimmu Borgir. Style preference determines the winner.
 
-**Q: What drums does Frost play vs Daray?**
-A: Frost plays Sonor SQ2 Series. Daray plays Pearl Masterworks Stadium Exotic.
+**Q: What gear does Frost use vs Daray?**
+A: Frost plays a Tama Starclassic Bubinga Series kit with Zildjian A Custom & K Series cymbals and a Tama Iron Cobra Power Glide pedal. Daray plays a Pearl Masterworks Stadium Exotic kit with Paiste RUDE & 2002 Series cymbals and a Pearl Demon XR double pedal.
 
-**Q: Who is the better extreme / death / black metal drummer, Frost or Daray?**
-A: Both are legends in their own right. Frost and Daray showcase two approaches to extreme metal drumming discipline. See the full analysis at [metalforge.io/vs/frost-vs-daray](https://metalforge.io/vs/frost-vs-daray).
+**Q: What bands are Frost and Daray known for?**
+A: Frost is best known as the drummer for Satyricon, also playing in 1349. Daray is known for his work with Polish death metal legends Vader (2006-2016) and Norwegian symphonic black metal band Dimmu Borgir (since 2008).
 
-**Q: What cymbals do Frost and Daray use?**
-A: Frost uses Zildjian A Custom & K Series (14" A Custom Hi-Hats, 16", 17", 18" A Custom Crashes, 22" K Custom Dark Ride, 18" K China). Daray uses Paiste RUDE & 2002 Series (14" RUDE Hi-Hats, 17" & 18" RUDE Crashes, 22" RUDE Power Ride).
+**Q: What is the main stylistic difference between Frost and Daray?**
+A: Frost drives Satyricon's black metal with surgical, metronomically consistent blast beats built for atmosphere and endurance. Daray combines Vader's high-speed technical death metal precision with the theatrical, large-scale demands of Dimmu Borgir's symphonic black metal.
 
 ---
 
@@ -67,4 +67,4 @@ A: Frost uses Zildjian A Custom & K Series (14" A Custom Hi-Hats, 16", 17", 18" 
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

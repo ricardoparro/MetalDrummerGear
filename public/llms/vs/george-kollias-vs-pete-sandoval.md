@@ -14,14 +14,14 @@ Nile's George Kollias vs Morbid Angel's Pete Sandoval. Blast beats, speed, and e
 - **Cymbals:** Zildjian (14" K Mastersound Hi-Hats, 17" & 18" K Custom Dark Crashes, 21" A Custom Mega Bell Ride, 18" China)
 - **Snare:** Pearl George Kollias Signature 14x6.5"
 - **Pedals/Hardware:** Pearl Demon XR Double Pedal (Co-designed), Pearl D-3000 Throne
-- **Sticks:** Vic Firth George Kollias Signature SGK
+- **Sticks:** Vic Firth
 
 ## Pete Sandoval Setup
 
-- **Drums:** ddrum Dios Series
-- **Cymbals:** Sabian AAX Series (14" Stage Hi-Hats, 18" & 19" X-Plosion Crashes, 20" Stage Ride, 18" Chinese)
-- **Snare:** ddrum Dios 14x6.5" Maple
-- **Pedals/Hardware:** ddrum Mercury Double Pedal, ddrum Throne
+- **Drums:** ddrum (specific series unconfirmed)
+- **Cymbals:** Cymbal brand/model not publicly documented
+- **Snare:** ddrum (specific model unconfirmed)
+- **Pedals/Hardware:** ddrum (specific pedal/hardware model unconfirmed)
 - **Sticks:** Pro-Mark (historical endorsement — current sticks unverified)
 
 ## Playing Style
@@ -34,7 +34,7 @@ George uses heel-toe technique for sustained blast beats at extreme tempos. Pete
 
 ## Key Differences
 
-George plays Pearl drums with Pearl Demon Drive pedals for speed. Pete used Tama drums with Iron Cobra pedals. George uses heel-toe technique for sustained blast beats at extreme tempos. Pete pioneered gravity blasts with raw power.
+George plays Pearl drums with Pearl Demon XR pedals for speed. Pete played a ddrum kit since 1989 — exact model and cymbal brand were never publicly documented. George uses heel-toe technique for sustained blast beats at extreme tempos. Pete pioneered gravity blasts with raw power.
 
 ## Influence & Legacy
 
@@ -47,16 +47,16 @@ Pete Sandoval laid the foundation for extreme death metal drumming. George Kolli
 ## FAQ
 
 **Q: What are the main differences between George Kollias's and Pete Sandoval's drum kits?**
-A: George Kollias plays Pearl Masterworks Stadium Exotic (Piano Black with Gold Hardware) with Zildjian cymbals, while Pete Sandoval uses ddrum Dios Series with Sabian cymbals. George plays Pearl drums with Pearl Demon Drive pedals for speed. Pete used Tama drums with Iron Cobra pedals.
+A: George Kollias plays Pearl Masterworks Stadium Exotic (Piano Black with Gold Hardware) with Zildjian cymbals, while Pete Sandoval uses ddrum (specific series unconfirmed) with Cymbal cymbals. George plays Pearl drums with Pearl Demon XR pedals for speed. Pete played a ddrum kit since 1989 — exact model and cymbal brand were never publicly documented.
 
 **Q: What drums does George Kollias play vs Pete Sandoval?**
-A: George Kollias plays Pearl Masterworks Stadium Exotic (Piano Black with Gold Hardware). Pete Sandoval plays ddrum Dios Series.
+A: George Kollias plays Pearl Masterworks Stadium Exotic (Piano Black with Gold Hardware). Pete Sandoval plays ddrum (specific series unconfirmed).
 
 **Q: Who is the better extreme / death / black metal drummer, George Kollias or Pete Sandoval?**
 A: Both are legends in their own right. Pete Sandoval laid the foundation for extreme death metal drumming. See the full analysis at [metalforge.io/vs/george-kollias-vs-pete-sandoval](https://metalforge.io/vs/george-kollias-vs-pete-sandoval).
 
 **Q: What cymbals do George Kollias and Pete Sandoval use?**
-A: George Kollias uses Zildjian (14" K Mastersound Hi-Hats, 17" & 18" K Custom Dark Crashes, 21" A Custom Mega Bell Ride, 18" China). Pete Sandoval uses Sabian AAX Series (14" Stage Hi-Hats, 18" & 19" X-Plosion Crashes, 20" Stage Ride, 18" Chinese).
+A: George Kollias uses Zildjian (14" K Mastersound Hi-Hats, 17" & 18" K Custom Dark Crashes, 21" A Custom Mega Bell Ride, 18" China). Pete Sandoval uses Cymbal brand/model not publicly documented.
 
 ---
 
@@ -67,4 +67,4 @@ A: George Kollias uses Zildjian (14" K Mastersound Hi-Hats, 17" & 18" K Custom D
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

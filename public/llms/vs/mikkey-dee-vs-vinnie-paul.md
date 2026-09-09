@@ -10,19 +10,19 @@ Motörhead's Mikkey Dee vs Pantera's Vinnie Paul. Two heavy metal powerhouse dru
 
 ## Mikkey Dee Setup
 
-- **Drums:** Yamaha Recording Custom
-- **Cymbals:** Zildjian A Custom & K Series (14" A Custom Hi-Hats, 18" & 19" A Custom Crashes, 22" K Custom Ride, 20" Oriental China)
-- **Snare:** Yamaha Mikkey Dee Signature 14x8"
-- **Pedals/Hardware:** Yamaha FP9 Double Pedal, Yamaha Hardware
+- **Drums:** Sonor SQ2
+- **Cymbals:** Paiste Signature Series (14" Sound Edge Hi-Hats, 19" & 20" Power Crashes, 22" Power Ride, 18" Heavy China)
+- **Snare:** Sonor Mikkey Dee Signature 14x7.25" Birch
+- **Pedals/Hardware:** DW 5000 Series Pedal, Sonor Hardware
 - **Sticks:** Wincent Mikkey Dee Signature (W-MDS)
 
 ## Vinnie Paul Setup
 
-- **Drums:** ddrum Vinnie Paul Signature Series
-- **Cymbals:** Sabian AA & AAX Series (14" Hi-Hats, 18" & 19" Crashes, 21" Ride, 18" China)
-- **Snare:** ddrum Vinnie Paul Signature 14x8"
-- **Pedals/Hardware:** ddrum Double Pedal, ddrum Throne
-- **Sticks:** Vic Firth American Classic 5B
+- **Drums:** ddrum (brand confirmed; specific kit series unverified)
+- **Cymbals:** Sabian (brand per secondary sources; specific models unverified)
+- **Snare:** ddrum Vinnie Paul Signature 14x8" (8-ply maple, 10 lugs, die-cast hoops)
+- **Pedals/Hardware:** ddrum hardware (brand confirmed via 2009 interview; specific pedal/throne models unverified)
+- **Sticks:** Vic Firth (specific in-career model unverified)
 
 ## Playing Style
 
@@ -34,7 +34,7 @@ Dee's technique is built for stamina and raw power — hard-hitting snare work, 
 
 ## Key Differences
 
-Mikkey Dee plays a Yamaha Recording Custom kit with a Yamaha Mikkey Dee Signature 14x8" snare and Zildjian A Custom & K Series cymbals (14" A Custom Hi-Hats, 18" & 19" A Custom Crashes, 22" K Custom Ride, 20" Oriental China), driven by a Yamaha FP9 double pedal and Vic Firth Mikkey Dee Signature sticks. Vinnie Paul played a ddrum Vinnie Paul Signature Series kit with a ddrum Vinnie Paul Signature 14x8" snare and Sabian AA & AAX Series cymbals (14" Hi-Hats, 18" & 19" Crashes, 21" Ride, 18" China), powered by a ddrum double pedal and Vic Firth American Classic 5B sticks. Dee's technique is built for stamina and raw power — hard-hitting snare work, thunderous double bass, and a no-frills aggressive attack that matched Lemmy's relentless, no-nonsense rock 'n' roll energy night after night across decades of nonstop touring. Paul's technique centers on locked-in, syncopated groove — deliberately placed accents and innovative double-bass patterns that created space for Dimebag's riffing rather than competing with it, a rhythmic approach that became the template for an entire generation of groove metal drummers.
+Mikkey Dee plays a Sonor SQ2 kit with an 18"x22" bass drum and a Sonor Mikkey Dee Signature 14"x7.25" Birch snare, paired with Paiste Signature Series cymbals (14" Sound Edge Hi-Hats, 19" & 20" Power Crashes, 22" Power Ride, 18" Heavy China), driven by a DW 5000 Series double pedal and Wincent Mikkey Dee Signature sticks. Vinnie Paul played a ddrum Vinnie Paul Signature Series kit with a ddrum Vinnie Paul Signature 14x8" snare and Sabian AA & AAX Series cymbals (14" Hi-Hats, 18" & 19" Crashes, 21" Ride, 18" China), powered by a ddrum double pedal and Vic Firth American Classic 5B sticks. Dee's technique is built for stamina and raw power — hard-hitting snare work, thunderous double bass, and a no-frills aggressive attack that matched Lemmy's relentless, no-nonsense rock 'n' roll energy night after night across decades of nonstop touring. Paul's technique centers on locked-in, syncopated groove — deliberately placed accents and innovative double-bass patterns that created space for Dimebag's riffing rather than competing with it, a rhythmic approach that became the template for an entire generation of groove metal drummers.
 
 ## Influence & Legacy
 
@@ -46,17 +46,17 @@ Mikkey Dee and Vinnie Paul are two heavy metal powerhouses whose legacies are in
 
 ## FAQ
 
-**Q: What are the main differences between Mikkey Dee's and Vinnie Paul's drum kits?**
-A: Mikkey Dee plays Yamaha Recording Custom with Zildjian cymbals, while Vinnie Paul uses ddrum Vinnie Paul Signature Series with Sabian cymbals. Mikkey Dee plays a Yamaha Recording Custom kit with a Yamaha Mikkey Dee Signature 14x8" snare and Zildjian A Custom & K Series cymbals (14" A Custom Hi-Hats, 18" & 19" A Custom Crashes, 22" K Custom Ride, 20" Oriental China), driven by a Yamaha FP9 double pedal and Vic Firth Mikkey Dee Signature sticks. Vinnie Paul played a ddrum Vinnie Paul Signature Series kit with a ddrum Vinnie Paul Signature 14x8" snare and Sabian AA & AAX Series cymbals (14" Hi-Hats, 18" & 19" Crashes, 21" Ride, 18" China), powered by a ddrum double pedal and Vic Firth American Classic 5B sticks.
+**Q: Who was the better heavy metal drummer — Mikkey Dee or Vinnie Paul?**
+A: Both are legends measured by different standards. Mikkey Dee brought thunderous stamina and raw power to Motörhead across 23 years, then carried that energy into Scorpions from 2016 onward. Vinnie Paul co-founded groove metal as a genre with Pantera, building a rhythmic vocabulary — deliberate, syncopated grooves and innovative double bass — that influenced an entire generation of metal drummers. Paul's genre-defining innovation gives him a slight edge in overall influence, but Dee's longevity and versatility across two legendary bands are equally remarkable.
 
-**Q: What drums does Mikkey Dee play vs Vinnie Paul?**
-A: Mikkey Dee plays Yamaha Recording Custom. Vinnie Paul plays ddrum Vinnie Paul Signature Series.
+**Q: When did Mikkey Dee and Vinnie Paul pass away?**
+A: Vinnie Paul died on June 22, 2018, at age 54. Mikkey Dee is still active, currently drumming for Scorpions since 2016; his other legendary band, Motörhead, ended following frontman Lemmy Kilmister's death in December 2015.
 
-**Q: Who is the better alternative / nu-metal drummer, Mikkey Dee or Vinnie Paul?**
-A: Both are legends in their own right. Mikkey Dee and Vinnie Paul are two heavy metal powerhouses whose legacies are inseparable from the bands — and bandleaders — they served. See the full analysis at [metalforge.io/vs/mikkey-dee-vs-vinnie-paul](https://metalforge.io/vs/mikkey-dee-vs-vinnie-paul).
+**Q: What gear did Mikkey Dee and Vinnie Paul use?**
+A: Mikkey Dee plays Sonor drums with a Sonor Mikkey Dee Signature snare and Paiste Signature Series cymbals. Vinnie Paul played a ddrum Vinnie Paul Signature Series kit with a ddrum Vinnie Paul Signature 14x8" snare and Sabian AA & AAX Series cymbals.
 
-**Q: What cymbals do Mikkey Dee and Vinnie Paul use?**
-A: Mikkey Dee uses Zildjian A Custom & K Series (14" A Custom Hi-Hats, 18" & 19" A Custom Crashes, 22" K Custom Ride, 20" Oriental China). Vinnie Paul uses Sabian AA & AAX Series (14" Hi-Hats, 18" & 19" Crashes, 21" Ride, 18" China).
+**Q: What bands did Mikkey Dee and Vinnie Paul play in?**
+A: Mikkey Dee played with King Diamond (1985–1989) and Motörhead (1992–2015), and has drummed for Scorpions since 2016. Vinnie Paul co-founded Pantera (1981–2003) with his brother Dimebag Darrell, then formed Damageplan (2003–2004) and Hellyeah (2006–2018).
 
 ---
 
@@ -67,4 +67,4 @@ A: Mikkey Dee uses Zildjian A Custom & K Series (14" A Custom Hi-Hats, 18" & 19"
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

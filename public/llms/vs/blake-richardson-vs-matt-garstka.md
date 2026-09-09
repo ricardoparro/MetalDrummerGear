@@ -18,9 +18,9 @@ Between the Buried and Me's Blake Richardson vs Animals as Leaders' Matt Garstka
 
 ## Matt Garstka Setup
 
-- **Drums:** Tama Starclassic Walnut/Birch
+- **Drums:** DW Collector's Series
 - **Cymbals:** Meinl Byzance Series (15" Dual Hi-Hats, 18" & 20" Extra Dry Medium Crashes, 22" Dual Ride)
-- **Snare:** Tama S.L.P. 14x6" G-Maple
+- **Snare:** DW Collector's Series Purpleheart
 - **Pedals/Hardware:** Tama Speed Cobra 910 Double Pedal
 - **Sticks:** Vic Firth Matt Garstka Signature
 
@@ -34,7 +34,7 @@ Richardson navigates BTBAM's rapid genre changes with jazz-influenced ghost note
 
 ## Key Differences
 
-Blake Richardson plays a Tama Starclassic Bubinga kit with a Tama STARPHONIC 14x6" Brass snare and Sabian cymbals (including 17" and 21" AAX Holy Chinas), driven by twin Tama Iron Cobra Power Glide single pedals for independent double-kick patterns. Matt Garstka plays a Tama Starclassic Walnut/Birch kit with a Tama S.L.P. 14x6" G-Maple snare and Meinl Byzance Series cymbals (15" Dual Hi-Hats, 18" & 20" Extra Dry Medium Crashes, 22" Dual Ride), powered by a Tama Speed Cobra 910 Double Pedal. Richardson navigates BTBAM's rapid genre changes with jazz-influenced ghost notes, seamless transitions between blast beats and swung grooves, and complex odd time signatures that feel conversational rather than forced within a single track. Garstka draws on linear independence, polymetric phrasing, and ghost-note-dense double bass shaped by jazz fusion training, giving Animals as Leaders' constantly shifting time signatures a fluid, almost improvisational precision rather than mechanical rigidity.
+Blake Richardson plays a Tama Starclassic Bubinga kit with a Tama STARPHONIC 14x6" Brass snare and Sabian cymbals (including 17" and 21" AAX Holy Chinas), driven by twin Tama Iron Cobra Power Glide single pedals for independent double-kick patterns. Matt Garstka plays a DW Collector's Series kit and Meinl Byzance Series cymbals (15" Dual Hi-Hats, 18" & 20" Extra Dry Medium Crashes, 22" Dual Ride), powered by a Tama Speed Cobra 910 Double Pedal. Richardson navigates BTBAM's rapid genre changes with jazz-influenced ghost notes, seamless transitions between blast beats and swung grooves, and complex odd time signatures that feel conversational rather than forced within a single track. Garstka draws on linear independence, polymetric phrasing, and ghost-note-dense double bass shaped by jazz fusion training, giving Animals as Leaders' constantly shifting time signatures a fluid, almost improvisational precision rather than mechanical rigidity.
 
 ## Influence & Legacy
 
@@ -46,17 +46,17 @@ Blake Richardson and Matt Garstka represent tech/math metal's new generation fro
 
 ## FAQ
 
-**Q: What are the main differences between Blake Richardson's and Matt Garstka's drum kits?**
-A: Blake Richardson plays Tama Starclassic Bubinga (Custom Finish) with Sabian cymbals, while Matt Garstka uses Tama Starclassic Walnut/Birch with Meinl cymbals. Blake Richardson plays a Tama Starclassic Bubinga kit with a Tama STARPHONIC 14x6" Brass snare and Sabian cymbals (including 17" and 21" AAX Holy Chinas), driven by twin Tama Iron Cobra Power Glide single pedals for independent double-kick patterns. Matt Garstka plays a Tama Starclassic Walnut/Birch kit with a Tama S.L.P. 14x6" G-Maple snare and Meinl Byzance Series cymbals (15" Dual Hi-Hats, 18" & 20" Extra Dry Medium Crashes, 22" Dual Ride), powered by a Tama Speed Cobra 910 Double Pedal.
+**Q: Who is more technical: Blake Richardson or Matt Garstka?**
+A: Both are considered among tech/math metal's most complete drummers. Blake Richardson (Between the Buried and Me) excels at navigating rapid genre shifts within single songs, blending blast beats, jazz swing, and odd time signatures. Matt Garstka (Animals as Leaders) excels at polymetric phrasing and ghost-note-dense double bass drawn from jazz-fusion training. They are technical in different dimensions — genre-hopping versatility versus polyrhythmic fluency.
 
-**Q: What drums does Blake Richardson play vs Matt Garstka?**
-A: Blake Richardson plays Tama Starclassic Bubinga (Custom Finish). Matt Garstka plays Tama Starclassic Walnut/Birch.
+**Q: What bands are Blake Richardson and Matt Garstka known for?**
+A: Blake Richardson has been the drummer for progressive metal band Between the Buried and Me since 2005, appearing on landmark albums including "Colors" (2007) and "Colors II" (2021). Matt Garstka has been the drummer for instrumental progressive metal band Animals as Leaders since 2012, appearing on "The Joy of Motion" (2014) and "The Madness of Many" (2016).
 
-**Q: Who is the better progressive metal drummer, Blake Richardson or Matt Garstka?**
-A: Both are legends in their own right. Blake Richardson and Matt Garstka represent tech/math metal's new generation from two different bands built around instrumental ambition. See the full analysis at [metalforge.io/vs/blake-richardson-vs-matt-garstka](https://metalforge.io/vs/blake-richardson-vs-matt-garstka).
+**Q: What gear do Blake Richardson and Matt Garstka use?**
+A: Blake Richardson plays a Tama Starclassic Bubinga kit with a Tama STARPHONIC snare and Sabian cymbals, driven by twin Tama Iron Cobra Power Glide single pedals. Matt Garstka plays a DW Collector's Series kit and Meinl Byzance Series cymbals, powered by a Tama Speed Cobra 910 Double Pedal.
 
-**Q: What cymbals do Blake Richardson and Matt Garstka use?**
-A: Blake Richardson uses Sabian (14" HHX Evolution Hi-Hats, 18" HHX Evolution Crash, 17" & 21" AAX Holy Chinas, 21" HH Raw Bell Dry Ride, 10" HH Duo Splash, 9" Radia Cup Chime). Matt Garstka uses Meinl Byzance Series (15" Dual Hi-Hats, 18" & 20" Extra Dry Medium Crashes, 22" Dual Ride).
+**Q: Is Matt Garstka jazz trained?**
+A: Yes — Matt Garstka's playing blends jazz fusion, electronic music, and progressive metal, and his jazz-influenced training is central to the linear independence and ghost-note complexity he brings to Animals as Leaders' instrumental compositions.
 
 ---
 
@@ -67,4 +67,4 @@ A: Blake Richardson uses Sabian (14" HHX Evolution Hi-Hats, 18" HHX Evolution Cr
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

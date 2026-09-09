@@ -34,7 +34,7 @@ Greiner's technique draws on jazz-informed dynamics and meticulous compositional
 
 ## Key Differences
 
-Matt Greiner plays a Pearl Reference Pure kit with his own Pearl Matt Greiner Signature 14x6" Steel snare and Meinl Byzance Series cymbals (15" Dual Hi-Hats, 18" & 19" Extra Dry Medium Crashes, 21" Transition Ride, 18" Extra Dry China), driven by a Pearl Demon Drive double pedal and his own Vic Firth Matt Greiner Signature sticks. Eloy Casagrande plays a Tama Starclassic Bubinga kit with a Tama Bell Brass 14x6.5" snare and Paiste cymbals (15" Masters Dark Hi-Hats, 20" Formula 602 Modern Essentials Crash, 20" 2002 Wild Crash, 20" Masters Dark Crash, 20" 2002 Novo China, 20" 2002 Power Ride), powered by a Tama Iron Cobra Power Glide double pedal. Greiner's technique draws on jazz-informed dynamics and meticulous compositional control, favoring purposeful transitions between blast beats, breakdowns, and melodic sections that showcase August Burns Red's progressive songwriting rather than raw speed alone. Casagrande's technique is built for modern extreme dynamics — explosive double bass speed, technical fill construction, and the stamina to move between Sepultura's groove-driven Brazilian thrash lineage and Slipknot's maximalist live show without losing precision.
+Matt Greiner plays a Mapex Black Panther Design Lab kit with his own Pearl Matt Greiner Signature 14x6" Steel snare and Paiste Formula 602 Series cymbals, driven by a DW 9000 Series double pedal and his own Vic Firth Matt Greiner Signature sticks. Eloy Casagrande plays a Tama Starclassic Bubinga kit with a Tama Bell Brass 14x6.5" snare and Paiste cymbals (15" Masters Dark Hi-Hats, 20" Formula 602 Modern Essentials Crash, 20" 2002 Wild Crash, 20" Masters Dark Crash, 20" 2002 Novo China, 20" 2002 Power Ride), powered by a Tama Iron Cobra Power Glide double pedal. Greiner's technique draws on jazz-informed dynamics and meticulous compositional control, favoring purposeful transitions between blast beats, breakdowns, and melodic sections that showcase August Burns Red's progressive songwriting rather than raw speed alone. Casagrande's technique is built for modern extreme dynamics — explosive double bass speed, technical fill construction, and the stamina to move between Sepultura's groove-driven Brazilian thrash lineage and Slipknot's maximalist live show without losing precision.
 
 ## Influence & Legacy
 
@@ -46,17 +46,17 @@ Matt Greiner and Eloy Casagrande both represent technical excellence at the top 
 
 ## FAQ
 
-**Q: What are the main differences between Matt Greiner's and Eloy Casagrande's drum kits?**
-A: Matt Greiner plays Mapex Black Panther Design Lab with Paiste cymbals, while Eloy Casagrande uses Tama Starclassic Bubinga (22"x16" & 24"x14" Bass Drums, 10", 12", 13" Toms, 16" & 18" Floor Toms) with Paiste cymbals. Matt Greiner plays a Pearl Reference Pure kit with his own Pearl Matt Greiner Signature 14x6" Steel snare and Meinl Byzance Series cymbals (15" Dual Hi-Hats, 18" & 19" Extra Dry Medium Crashes, 21" Transition Ride, 18" Extra Dry China), driven by a Pearl Demon Drive double pedal and his own Vic Firth Matt Greiner Signature sticks. Eloy Casagrande plays a Tama Starclassic Bubinga kit with a Tama Bell Brass 14x6.5" snare and Paiste cymbals (15" Masters Dark Hi-Hats, 20" Formula 602 Modern Essentials Crash, 20" 2002 Wild Crash, 20" Masters Dark Crash, 20" 2002 Novo China, 20" 2002 Power Ride), powered by a Tama Iron Cobra Power Glide double pedal.
+**Q: How do Matt Greiner and Eloy Casagrande compare as drummers?**
+A: Matt Greiner brings jazz-influenced dynamics and technical precision to August Burns Red's metalcore, which he has co-founded and drummed for since 2003. Eloy Casagrande brings explosive double bass speed and groove-driven intensity rooted in Sepultura's Brazilian thrash lineage, earning Modern Drummer's No. 1 metal drummer honor in 2024 after joining Slipknot.
 
-**Q: What drums does Matt Greiner play vs Eloy Casagrande?**
-A: Matt Greiner plays Mapex Black Panther Design Lab. Eloy Casagrande plays Tama Starclassic Bubinga (22"x16" & 24"x14" Bass Drums, 10", 12", 13" Toms, 16" & 18" Floor Toms).
+**Q: What gear do Matt Greiner and Eloy Casagrande use?**
+A: Matt Greiner plays a Mapex Black Panther Design Lab kit with his own signature Pearl 14x6" Steel snare and Paiste Formula 602 Series cymbals, driven by a DW 9000 Series double pedal. Eloy Casagrande plays a Tama Starclassic Bubinga kit with a Tama Bell Brass 14x6.5" snare and Paiste cymbals, powered by a Tama Iron Cobra Power Glide double pedal.
 
-**Q: Who is the better alternative / nu-metal drummer, Matt Greiner or Eloy Casagrande?**
-A: Both are legends in their own right. Matt Greiner and Eloy Casagrande both represent technical excellence at the top of their respective metal subgenres. See the full analysis at [metalforge.io/vs/matt-greiner-vs-eloy-casagrande](https://metalforge.io/vs/matt-greiner-vs-eloy-casagrande).
+**Q: What bands are Matt Greiner and Eloy Casagrande known for?**
+A: Matt Greiner co-founded metalcore band August Burns Red in 2003 and remains the band's drummer. Eloy Casagrande drummed for Sepultura from 2011 to 2024 before joining Slipknot in 2024.
 
-**Q: What cymbals do Matt Greiner and Eloy Casagrande use?**
-A: Matt Greiner uses Paiste Formula 602 (14" Hi-Hats, 16"/17"/18" Crashes, 22" Ride, 18" China, 10" Splash). Eloy Casagrande uses Paiste (15" Masters Dark Hi-Hats, 20" Masters Dark Ride, 20" & 20" 602 Crashes, 10" Rude Splash, 20" Masters Dark Crash, 20" 2002 Heavy Ride, 20" 2002 Novo China, 10" 2002 Mega Bell, Symphonic Gong).
+**Q: Does Matt Greiner have a signature drum or stick line?**
+A: Yes — Matt Greiner has his own signature Pearl 14x6" Steel snare drum designed for metalcore applications, along with a Vic Firth Matt Greiner Signature stick model.
 
 ---
 
@@ -67,4 +67,4 @@ A: Matt Greiner uses Paiste Formula 602 (14" Hi-Hats, 16"/17"/18" Crashes, 22" R
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

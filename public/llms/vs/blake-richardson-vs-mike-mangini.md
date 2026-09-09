@@ -1,6 +1,6 @@
 # Blake Richardson vs Mike Mangini — Drum Kit Comparison
 
-> Side-by-side gear comparison between Blake Richardson (Between the Buried and Me) and Mike Mangini (Dream Theater).
+> Side-by-side gear comparison between Blake Richardson (Between the Buried and Me) and Mike Mangini (Godsmack (2026-present); Dream Theater (2010-2023)).
 
 **Category:** Progressive Metal · **URL:** https://metalforge.io/vs/blake-richardson-vs-mike-mangini
 
@@ -46,17 +46,17 @@ Blake Richardson and Mike Mangini share a Sabian HHX Evolution cymbal foundation
 
 ## FAQ
 
-**Q: What are the main differences between Blake Richardson's and Mike Mangini's drum kits?**
-A: Blake Richardson plays Tama Starclassic Bubinga (Custom Finish) with Sabian cymbals, while Mike Mangini uses Pearl Reference Series with Sabian cymbals. Blake Richardson plays a Tama Starclassic Bubinga kit (Custom Finish) with a Tama STARPHONIC 14x6" Brass snare and Sabian cymbals (14" HHX Evolution Hi-Hats, 18" HHX Evolution Crash, 17" & 21" AAX Holy Chinas, 21" HH Raw Bell Dry Ride), driven by twin Tama Iron Cobra Power Glide single pedals and Vic Firth American Classic 3A sticks. Mike Mangini plays a Pearl Reference Series kit with a Pearl Reference 14x5" & 14x6.5" Brass snare and Sabian HHX & AAX Series cymbals (14" HHX Evolution Hi-Hats, 17", 18", 19" HHX Evolution Crashes, 21" HHX Raw Bell Dry Ride), powered by a Pearl Demon Drive double pedal and a Roland SPD-SX sampling pad — both drummers share a Sabian HHX Evolution cymbal foundation despite very different drum and pedal choices.
+**Q: What is the difference between Blake Richardson's and Mike Mangini's drumming styles?**
+A: Blake Richardson fuses death metal blast beats with jazz fusion sophistication across Between the Buried and Me's genre-blending compositions. Mike Mangini applies a scientific, biomechanically optimized approach built on world-record drumming speed to Dream Theater's progressive metal material.
 
-**Q: What drums does Blake Richardson play vs Mike Mangini?**
-A: Blake Richardson plays Tama Starclassic Bubinga (Custom Finish). Mike Mangini plays Pearl Reference Series.
+**Q: What gear do Blake Richardson and Mike Mangini use?**
+A: Blake Richardson plays a Tama Starclassic Bubinga kit with a Tama STARPHONIC Brass snare and Sabian HHX Evolution & AAX Holy China cymbals. Mike Mangini plays a Pearl Reference Series kit with a Pearl Reference Brass snare and Sabian HHX & AAX Series cymbals — both share a Sabian HHX Evolution cymbal endorsement despite otherwise different rigs.
 
-**Q: Who is the better progressive metal drummer, Blake Richardson or Mike Mangini?**
-A: Both are legends in their own right. Blake Richardson and Mike Mangini share a Sabian HHX Evolution cymbal foundation but arrive at progressive metal from opposite directions. See the full analysis at [metalforge.io/vs/blake-richardson-vs-mike-mangini](https://metalforge.io/vs/blake-richardson-vs-mike-mangini).
+**Q: What is Mike Mangini known for besides Dream Theater?**
+A: Before joining Dream Theater in 2010, Mike Mangini played with Steve Vai, Extreme, and Annihilator, taught as a professor at Berklee College of Music, and holds multiple Guinness World Records for drumming speed.
 
-**Q: What cymbals do Blake Richardson and Mike Mangini use?**
-A: Blake Richardson uses Sabian (14" HHX Evolution Hi-Hats, 18" HHX Evolution Crash, 17" & 21" AAX Holy Chinas, 21" HH Raw Bell Dry Ride, 10" HH Duo Splash, 9" Radia Cup Chime). Mike Mangini uses Sabian HHX & AAX Series (14" HHX Evolution Hi-Hats, 17", 18", 19" HHX Evolution Crashes, 21" HHX Raw Bell Dry Ride).
+**Q: What albums showcase Blake Richardson's best drumming?**
+A: Blake Richardson's most celebrated work is on Between the Buried and Me's "Colors" (2007), widely considered one of the greatest progressive metal albums, along with "The Great Misdirect" (2009) and "Colors II" (2021).
 
 ---
 
@@ -67,4 +67,4 @@ A: Blake Richardson uses Sabian (14" HHX Evolution Hi-Hats, 18" HHX Evolution Cr
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

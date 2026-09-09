@@ -10,10 +10,10 @@ Motörhead/Scorpions' Mikkey Dee vs Godsmack's Shannon Larkin. Classic heavy-met
 
 ## Mikkey Dee Setup
 
-- **Drums:** Yamaha Recording Custom
-- **Cymbals:** Zildjian A Custom & K Series (14" A Custom Hi-Hats, 18" & 19" A Custom Crashes, 22" K Custom Ride, 20" Oriental China)
-- **Snare:** Yamaha Mikkey Dee Signature 14x8"
-- **Pedals/Hardware:** Yamaha FP9 Double Pedal, Yamaha Hardware
+- **Drums:** Sonor SQ2
+- **Cymbals:** Paiste Signature Series (14" Sound Edge Hi-Hats, 19" & 20" Power Crashes, 22" Power Ride, 18" Heavy China)
+- **Snare:** Sonor Mikkey Dee Signature 14x7.25" Birch
+- **Pedals/Hardware:** DW 5000 Series Pedal, Sonor Hardware
 - **Sticks:** Wincent Mikkey Dee Signature (W-MDS)
 
 ## Shannon Larkin Setup
@@ -34,7 +34,7 @@ Dee's technique is built for stamina and raw power — hard-hitting snare work, 
 
 ## Key Differences
 
-Mikkey Dee plays a Yamaha Recording Custom kit with a Yamaha Mikkey Dee Signature 14x8" snare and Zildjian A Custom & K Series cymbals (14" A Custom Hi-Hats, 18" & 19" A Custom Crashes, 22" K Custom Ride, 20" Oriental China), driven by twin Yamaha FP9 pedals and Vic Firth Mikkey Dee Signature sticks. Shannon Larkin plays a ddrum Dios Series kit with a ddrum Dios 14x6.5" Maple snare, Sabian AAX & HHX Series cymbals (14" AAX Stage Hi-Hats, 18" & 19" AAX X-Plosion Crashes, 21" HHX Raw Bell Dry Ride, 10" AAX Splash, 18" AAX Chinese), a DW 9000 Series double pedal, and Vic Firth American Classic 5B sticks. Dee's technique is built for stamina and raw power — hard-hitting snare work, thunderous double bass, and a no-frills aggressive attack that matched Lemmy's relentless, no-nonsense rock 'n' roll energy night after night across decades of nonstop touring. Larkin brings deep rock roots and heavy groove instincts to Godsmack, locking in with the guitars using muscular, hook-driven rhythms and dynamic control that made Godsmack's sound commercially unstoppable across the 2000s and 2010s.
+Mikkey Dee plays a Sonor SQ2 kit with an 18"x22" bass drum and a Sonor Mikkey Dee Signature 14"x7.25" Birch snare, paired with Paiste Signature Series cymbals (14" Sound Edge Hi-Hats, 19" & 20" Power Crashes, 22" Power Ride, 18" Heavy China), driven by a DW 5000 Series double pedal and Wincent Mikkey Dee Signature sticks. Shannon Larkin plays a ddrum Dios Series kit with a ddrum Dios 14x6.5" Maple snare, Sabian AAX & HHX Series cymbals (14" AAX Stage Hi-Hats, 18" & 19" AAX X-Plosion Crashes, 21" HHX Raw Bell Dry Ride, 10" AAX Splash, 18" AAX Chinese), a DW 9000 Series double pedal, and Vic Firth American Classic 5B sticks. Dee's technique is built for stamina and raw power — hard-hitting snare work, thunderous double bass, and a no-frills aggressive attack that matched Lemmy's relentless, no-nonsense rock 'n' roll energy night after night across decades of nonstop touring. Larkin brings deep rock roots and heavy groove instincts to Godsmack, locking in with the guitars using muscular, hook-driven rhythms and dynamic control that made Godsmack's sound commercially unstoppable across the 2000s and 2010s.
 
 ## Influence & Legacy
 
@@ -46,17 +46,17 @@ Mikkey Dee and Shannon Larkin are two multi-decade touring veterans who represen
 
 ## FAQ
 
-**Q: What are the main differences between Mikkey Dee's and Shannon Larkin's drum kits?**
-A: Mikkey Dee plays Yamaha Recording Custom with Zildjian cymbals, while Shannon Larkin uses ddrum Dios Series with Sabian cymbals. Mikkey Dee plays a Yamaha Recording Custom kit with a Yamaha Mikkey Dee Signature 14x8" snare and Zildjian A Custom & K Series cymbals (14" A Custom Hi-Hats, 18" & 19" A Custom Crashes, 22" K Custom Ride, 20" Oriental China), driven by twin Yamaha FP9 pedals and Vic Firth Mikkey Dee Signature sticks. Shannon Larkin plays a ddrum Dios Series kit with a ddrum Dios 14x6.5" Maple snare, Sabian AAX & HHX Series cymbals (14" AAX Stage Hi-Hats, 18" & 19" AAX X-Plosion Crashes, 21" HHX Raw Bell Dry Ride, 10" AAX Splash, 18" AAX Chinese), a DW 9000 Series double pedal, and Vic Firth American Classic 5B sticks.
+**Q: How do Mikkey Dee and Shannon Larkin compare as drummers?**
+A: Mikkey Dee drummed for Motörhead from 1992 to 2015 and has played for Scorpions since 2016, bringing stamina-driven raw power and a hard-hitting, no-frills attack. Shannon Larkin drummed for Godsmack from 2002 to 2024, bringing muscular, hook-driven groove to modern alt-metal and hard rock.
 
-**Q: What drums does Mikkey Dee play vs Shannon Larkin?**
-A: Mikkey Dee plays Yamaha Recording Custom. Shannon Larkin plays ddrum Dios Series.
+**Q: What gear do Mikkey Dee and Shannon Larkin use?**
+A: Mikkey Dee plays Sonor drums with a Sonor Mikkey Dee Signature snare and Paiste Signature Series cymbals, driven by a DW 5000 Series double pedal. Shannon Larkin plays a ddrum Dios Series kit with a ddrum Dios 14x6.5" Maple snare and Sabian AAX & HHX Series cymbals, driven by a DW 9000 Series double pedal.
 
-**Q: Who is the better alternative / nu-metal drummer, Mikkey Dee or Shannon Larkin?**
-A: Both are legends in their own right. Mikkey Dee and Shannon Larkin are two multi-decade touring veterans who represent different generations of heavy metal drumming. See the full analysis at [metalforge.io/vs/mikkey-dee-vs-shannon-larkin](https://metalforge.io/vs/mikkey-dee-vs-shannon-larkin).
+**Q: What bands are Mikkey Dee and Shannon Larkin known for?**
+A: Mikkey Dee played with King Diamond (1985-1989) and Motörhead (1992-2015), and has drummed for Scorpions since 2016. Shannon Larkin drummed for Godsmack (2002-2024) and earlier played with Wrathchild America, Ugly Kid Joe, and Amen.
 
-**Q: What cymbals do Mikkey Dee and Shannon Larkin use?**
-A: Mikkey Dee uses Zildjian A Custom & K Series (14" A Custom Hi-Hats, 18" & 19" A Custom Crashes, 22" K Custom Ride, 20" Oriental China). Shannon Larkin uses Sabian AAX & HHX Series (14" AAX Stage Hi-Hats, 18" & 19" AAX X-Plosion Crashes, 21" HHX Raw Bell Dry Ride, 10" AAX Splash, 18" AAX Chinese).
+**Q: Is Shannon Larkin still Godsmack's drummer?**
+A: No — Shannon Larkin was Godsmack's drummer from 2002 to 2024, making him the band's longest-serving drummer, but he is no longer with the band as of 2024.
 
 ---
 
@@ -67,4 +67,4 @@ A: Mikkey Dee uses Zildjian A Custom & K Series (14" A Custom Hi-Hats, 18" & 19"
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

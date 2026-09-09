@@ -229,33 +229,42 @@ function buildMarkdown(c) {
   parts.push('## FAQ');
   parts.push('');
 
-  // Main gear comparison FAQ
-  parts.push(`**Q: What are the main differences between ${d1Name}'s and ${d2Name}'s drum kits?**`);
-  parts.push(`A: ${buildFAQAnswer(c, d1Name, d2Name, d1, d2)}`);
-  parts.push('');
-
-  // Who plays bigger/heavier kit FAQ
-  if (d1 && d1.gear && d1.gear.drums && d2 && d2.gear && d2.gear.drums) {
-    parts.push(`**Q: What drums does ${d1Name} play vs ${d2Name}?**`);
-    parts.push(`A: ${d1Name} plays ${d1.gear.drums}. ${d2Name} plays ${d2.gear.drums}.`);
-    parts.push('');
-  }
-
-  // Category FAQ
-  parts.push(`**Q: Who is the better ${category.toLowerCase()} drummer, ${d1Name} or ${d2Name}?**`);
-  if (verdict) {
-    const shortVerdict = verdict.split('.')[0].trim() + '.';
-    parts.push(`A: Both are legends in their own right. ${shortVerdict} See the full analysis at [metalforge.io/vs/${c.slug}](${vsUrl}).`);
+  if (Array.isArray(c.faqs) && c.faqs.length) {
+    // Curated FAQ (issue #7203): prefer hand-written Q&A over the generic template.
+    for (const { q, a } of c.faqs) {
+      parts.push(`**Q: ${q}**`);
+      parts.push(`A: ${a}`);
+      parts.push('');
+    }
   } else {
-    parts.push(`A: Both ${d1Name} and ${d2Name} are iconic ${category.toLowerCase()} drummers. Compare their full setups and technique at [metalforge.io/vs/${c.slug}](${vsUrl}).`);
-  }
-  parts.push('');
-
-  // Cymbals FAQ if data available
-  if (d1 && d1.gear && d1.gear.cymbals && d2 && d2.gear && d2.gear.cymbals) {
-    parts.push(`**Q: What cymbals do ${d1Name} and ${d2Name} use?**`);
-    parts.push(`A: ${d1Name} uses ${d1.gear.cymbals}. ${d2Name} uses ${d2.gear.cymbals}.`);
+    // Main gear comparison FAQ
+    parts.push(`**Q: What are the main differences between ${d1Name}'s and ${d2Name}'s drum kits?**`);
+    parts.push(`A: ${buildFAQAnswer(c, d1Name, d2Name, d1, d2)}`);
     parts.push('');
+
+    // Who plays bigger/heavier kit FAQ
+    if (d1 && d1.gear && d1.gear.drums && d2 && d2.gear && d2.gear.drums) {
+      parts.push(`**Q: What drums does ${d1Name} play vs ${d2Name}?**`);
+      parts.push(`A: ${d1Name} plays ${d1.gear.drums}. ${d2Name} plays ${d2.gear.drums}.`);
+      parts.push('');
+    }
+
+    // Category FAQ
+    parts.push(`**Q: Who is the better ${category.toLowerCase()} drummer, ${d1Name} or ${d2Name}?**`);
+    if (verdict) {
+      const shortVerdict = verdict.split('.')[0].trim() + '.';
+      parts.push(`A: Both are legends in their own right. ${shortVerdict} See the full analysis at [metalforge.io/vs/${c.slug}](${vsUrl}).`);
+    } else {
+      parts.push(`A: Both ${d1Name} and ${d2Name} are iconic ${category.toLowerCase()} drummers. Compare their full setups and technique at [metalforge.io/vs/${c.slug}](${vsUrl}).`);
+    }
+    parts.push('');
+
+    // Cymbals FAQ if data available
+    if (d1 && d1.gear && d1.gear.cymbals && d2 && d2.gear && d2.gear.cymbals) {
+      parts.push(`**Q: What cymbals do ${d1Name} and ${d2Name} use?**`);
+      parts.push(`A: ${d1Name} uses ${d1.gear.cymbals}. ${d2Name} uses ${d2.gear.cymbals}.`);
+      parts.push('');
+    }
   }
 
   // Footer links

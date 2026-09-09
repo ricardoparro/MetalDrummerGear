@@ -34,7 +34,7 @@ Duplantier forgoes a double pedal in favor of dual bass drums for a more organic
 
 ## Key Differences
 
-Duplantier plays a Tama Starclassic Bubinga kit with dual 22"x18" bass drums and a Tama S.L.P. 14x6.5" G-Maple snare, paired with a sprawling Zildjian cymbal array including a 21" Z Custom Mega Bell Ride. Hellhammer plays a Pearl Reference Series kit with a Pearl Reference snare and Zildjian A Custom cymbals (14" A Custom Hi-Hats, 17" & 19" A Custom Crashes, 20" Z Custom Dark Ride, 18" A China Boy), driven by a Pearl Demon Drive double pedal and Vic Firth American Classic 5B sticks. Duplantier forgoes a double pedal in favor of dual bass drums for a more organic feel, layering tribal, almost ritualistic polyrhythms beneath Gojira's environmentally-themed death metal. Hellhammer's blast beats are built on cold, relentless one-foot precision, and he famously plays barefoot for the direct tactile feedback he says is essential to holding tempo accuracy at extreme speeds.
+Duplantier plays a Tama Starclassic Bubinga kit with dual 22"x18" bass drums and a Tama S.L.P. 14x6.5" G-Maple snare, paired with a sprawling Zildjian cymbal array including a 21" Z Custom Mega Bell Ride. Hellhammer plays a Sonor SQ2 Heavy Beech kit with a Sonor SQ2 Heavy Beech snare and Paiste RUDE Series cymbals, driven by an Axis Double Pedal and Vic Firth American Classic 5B sticks. Duplantier forgoes a double pedal in favor of dual bass drums for a more organic feel, layering tribal, almost ritualistic polyrhythms beneath Gojira's environmentally-themed death metal. Hellhammer's blast beats are built on cold, relentless one-foot precision, and he famously plays barefoot for the direct tactile feedback he says is essential to holding tempo accuracy at extreme speeds.
 
 ## Influence & Legacy
 
@@ -46,17 +46,17 @@ Mario Duplantier and Hellhammer represent two entirely different philosophies of
 
 ## FAQ
 
-**Q: What are the main differences between Mario Duplantier's and Hellhammer's drum kits?**
-A: Mario Duplantier plays Tama Starclassic Bubinga (22"x18" Bass Drums x2, 12"x9" & 13"x10" Toms, 16"x16" Floor Tom) with Zildjian cymbals, while Hellhammer uses Sonor SQ2 Heavy Beech with Paiste cymbals. Duplantier plays a Tama Starclassic Bubinga kit with dual 22"x18" bass drums and a Tama S.L.P. 14x6.5" G-Maple snare, paired with a sprawling Zildjian cymbal array including a 21" Z Custom Mega Bell Ride. Hellhammer plays a Pearl Reference Series kit with a Pearl Reference snare and Zildjian A Custom cymbals (14" A Custom Hi-Hats, 17" & 19" A Custom Crashes, 20" Z Custom Dark Ride, 18" A China Boy), driven by a Pearl Demon Drive double pedal and Vic Firth American Classic 5B sticks.
+**Q: What is the difference between Mario Duplantier's and Hellhammer's drumming styles?**
+A: Mario Duplantier uses dual bass drums instead of a double pedal to give Gojira's progressive death metal a more organic, tribal feel. Hellhammer built his reputation on cold, relentless blast beats delivered with one-foot precision, defining Mayhem's second-wave black metal sound.
 
-**Q: What drums does Mario Duplantier play vs Hellhammer?**
-A: Mario Duplantier plays Tama Starclassic Bubinga (22"x18" Bass Drums x2, 12"x9" & 13"x10" Toms, 16"x16" Floor Tom). Hellhammer plays Sonor SQ2 Heavy Beech.
+**Q: What gear do Mario Duplantier and Hellhammer use?**
+A: Mario Duplantier plays a Tama Starclassic Bubinga kit with dual 22"x18" bass drums, a Tama S.L.P. 14x6.5" G-Maple snare, and a Zildjian cymbal array including a 21" Z Custom Mega Bell Ride. Hellhammer plays a Sonor SQ2 Heavy Beech kit with a Sonor SQ2 Heavy Beech snare, Paiste RUDE Series cymbals, and an Axis Double Pedal.
 
-**Q: Who is the better progressive metal drummer, Mario Duplantier or Hellhammer?**
-A: Both are legends in their own right. Mario Duplantier and Hellhammer represent two entirely different philosophies of extreme metal rhythm. See the full analysis at [metalforge.io/vs/mario-duplantier-vs-hellhammer](https://metalforge.io/vs/mario-duplantier-vs-hellhammer).
+**Q: Why does Mario Duplantier use dual bass drums instead of a double pedal?**
+A: Mario Duplantier prefers dual 22"x18" bass drums over a double pedal because it gives Gojira's tribal, progressive death metal rhythms a more organic feel, letting him layer polyrhythms with a different physical touch than a single-kick double-pedal setup allows.
 
-**Q: What cymbals do Mario Duplantier and Hellhammer use?**
-A: Mario Duplantier uses Zildjian (14" K Sweet Hi-Hats, 14" A Custom Hi-Hats, 18" K Custom Hybrid Crash, 19" A Custom Crash, 20" K Sweet Crash, 21" Z Custom Mega Bell Ride, 18" & 20" Chinas). Hellhammer uses Paiste (14" RUDE Hi-Hats, 18" & 19" RUDE Crashes, 20" RUDE Ride, 18" RUDE China).
+**Q: Does Hellhammer play barefoot?**
+A: Yes — Hellhammer famously plays barefoot, saying the direct tactile feedback is essential to holding his icy, relentless blast-beat tempo accuracy at extreme speeds with Mayhem and Dimmu Borgir.
 
 ---
 
@@ -67,4 +67,4 @@ A: Mario Duplantier uses Zildjian (14" K Sweet Hi-Hats, 14" A Custom Hi-Hats, 18
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

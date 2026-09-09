@@ -34,11 +34,11 @@ Raatikainen built his technique around clean, locked-in double bass and precise,
 
 ## Key Differences
 
-Raatikainen played a Pearl Masters Premium Maple kit with a Pearl Masters 14x5.5" Maple snare and Zildjian A Custom & K Custom cymbals, powered by a Pearl Eliminator double pedal. Greiner plays a Greiner & Kilmer Custom kit, co-designed with his own drum company, with a matching 14x6.5" Maple snare and Meinl Byzance Series cymbals, driven by a DW 9000 Series double pedal. Raatikainen built his technique around clean, locked-in double bass and precise, driving blast beats, keeping Bodom's dense arrangements anchored with surgical consistency at extreme tempos. Greiner weaves odd time signatures seamlessly into song structures rather than showcasing them as a display, incorporating creative stacked-cymbal work and rapid-fire double bass into metalcore's heavy foundation.
+Raatikainen played a Pearl Masters Premium Maple kit with a Pearl Masters 14x5.5" Maple snare and Zildjian A Custom & K Custom cymbals, powered by a Pearl Eliminator double pedal. Greiner plays a Mapex Black Panther Design Lab kit with his own Pearl Matt Greiner Signature 14x6" Steel snare and Paiste Formula 602 Series cymbals, driven by a DW 9000 Series double pedal. Raatikainen built his technique around clean, locked-in double bass and precise, driving blast beats, keeping Bodom's dense arrangements anchored with surgical consistency at extreme tempos. Greiner weaves odd time signatures seamlessly into song structures rather than showcasing them as a display, incorporating creative stacked-cymbal work and rapid-fire double bass into metalcore's heavy foundation.
 
 ## Influence & Legacy
 
-Raatikainen gave Finnish melodic death metal its rhythmic identity, helping Children of Bodom become one of the genre's most globally successful acts and influencing a generation of Scandinavian metal drummers. Greiner earned two Grammy nominations for Best Metal Performance with August Burns Red and co-founded the Greiner & Kilmer drum company, influencing a generation of metalcore drummers through signature gear and worldwide clinics.
+Raatikainen gave Finnish melodic death metal its rhythmic identity, helping Children of Bodom become one of the genre's most globally successful acts and influencing a generation of Scandinavian metal drummers. Greiner earned two Grammy nominations for Best Metal Performance with August Burns Red and has influenced a generation of metalcore drummers through his signature Pearl snare, Vic Firth stick line, and worldwide clinics.
 
 ## Verdict
 
@@ -46,17 +46,17 @@ Jaska Raatikainen and Matt Greiner both prove that precision, not just speed, de
 
 ## FAQ
 
-**Q: What are the main differences between Jaska Raatikainen's and Matt Greiner's drum kits?**
-A: Jaska Raatikainen plays Pearl Masters Premium Maple with Zildjian cymbals, while Matt Greiner uses Mapex Black Panther Design Lab with Paiste cymbals. Raatikainen played a Pearl Masters Premium Maple kit with a Pearl Masters 14x5.5" Maple snare and Zildjian A Custom & K Custom cymbals, powered by a Pearl Eliminator double pedal. Greiner plays a Greiner & Kilmer Custom kit, co-designed with his own drum company, with a matching 14x6.5" Maple snare and Meinl Byzance Series cymbals, driven by a DW 9000 Series double pedal.
+**Q: What is the difference between Jaska Raatikainen's and Matt Greiner's drumming styles?**
+A: Jaska Raatikainen builds his style around clean, locked-in double bass and blast beats within Children of Bodom's neoclassical melodic death metal. Matt Greiner weaves odd time signatures seamlessly into August Burns Red's metalcore song structures, favoring integrated complexity over overt technical display.
 
-**Q: What drums does Jaska Raatikainen play vs Matt Greiner?**
-A: Jaska Raatikainen plays Pearl Masters Premium Maple. Matt Greiner plays Mapex Black Panther Design Lab.
+**Q: What gear does Jaska Raatikainen use vs Matt Greiner?**
+A: Jaska Raatikainen played a Pearl Masters Premium Maple kit with a Pearl Masters 14x5.5" Maple snare, Zildjian A Custom & K Custom cymbals, and a Pearl Eliminator double pedal. Matt Greiner plays a Mapex Black Panther Design Lab kit with his own Pearl Matt Greiner Signature 14x6" Steel snare, Paiste Formula 602 Series cymbals, and a DW 9000 Series double pedal.
 
-**Q: Who is the better progressive metal drummer, Jaska Raatikainen or Matt Greiner?**
-A: Both are legends in their own right. Jaska Raatikainen and Matt Greiner both prove that precision, not just speed, defines extreme metal's more technical corners. See the full analysis at [metalforge.io/vs/jaska-raatikainen-vs-matt-greiner](https://metalforge.io/vs/jaska-raatikainen-vs-matt-greiner).
+**Q: Has Matt Greiner won any awards with August Burns Red?**
+A: Matt Greiner has earned two Grammy nominations for Best Metal Performance with August Burns Red, and he has his own signature Pearl snare and Vic Firth stick line.
 
-**Q: What cymbals do Jaska Raatikainen and Matt Greiner use?**
-A: Jaska Raatikainen uses Zildjian A Custom & K Custom Series (14" A Custom Hi-Hats, 17" & 18" A Custom Crashes, 20" K Custom Ride). Matt Greiner uses Paiste Formula 602 (14" Hi-Hats, 16"/17"/18" Crashes, 22" Ride, 18" China, 10" Splash).
+**Q: How long was Jaska Raatikainen the drummer for Children of Bodom?**
+A: Jaska Raatikainen was a founding member of Children of Bodom in 1993 and remained the band's drummer for 26 years, from the 1997 debut "Something Wild" through the band's farewell in 2019.
 
 ---
 
@@ -67,4 +67,4 @@ A: Jaska Raatikainen uses Zildjian A Custom & K Custom Series (14" A Custom Hi-H
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

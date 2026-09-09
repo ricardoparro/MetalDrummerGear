@@ -18,10 +18,10 @@ Metallica's Lars Ulrich vs Dream Theater's Mike Portnoy. Riff-driven thrash feel
 
 ## Mike Portnoy Setup
 
-- **Drums:** Tama Starclassic Maple/Birch
-- **Cymbals:** Sabian HHX Series (14" Evolution Hi-Hats, 18" & 19" Evolution Crashes, 21" Raw Bell Dry Ride, 10" & 12" Evolution Splashes, 19" O-Zone Crash)
+- **Drums:** Tama Starclassic Maple + Starclassic Bubinga ("Dream Monster" dual kit)
+- **Cymbals:** Sabian HHX MAX / AAX MAXX Series (22" HHX MAX Ride, 18" AAX X-Plosion Crash, 19" HHX X-Plosion Crash, 18" AAX O-Zone Crash, 18" HHX Chinese, 19" Paragon Chinese, 7"/9"/11" AAX MAXX Splashes, 6"/6.5"/7" AA MAX Chimes)
 - **Snare:** Tama Mike Portnoy Signature Melody Master 14x5.5"
-- **Pedals/Hardware:** Tama Iron Cobra Power Glide Double Pedal, Tama 1st Chair Ergo-Rider Throne
+- **Pedals/Hardware:** Tama Iron Cobra Power Glide Twin Pedal (HP900PSW)
 - **Sticks:** Promark Mike Portnoy Signature TX420N
 
 ## Playing Style
@@ -46,17 +46,17 @@ Lars Ulrich and Mike Portnoy represent opposite ends of what "great metal drummi
 
 ## FAQ
 
-**Q: What are the main differences between Lars Ulrich's and Mike Portnoy's drum kits?**
-A: Lars Ulrich plays Tama Starclassic Maple with Zildjian cymbals, while Mike Portnoy uses Tama Starclassic Maple/Birch with Sabian cymbals. Ulrich plays a Tama Starclassic Maple kit with a Tama LU1465 Signature 14x6.5" snare and Zildjian A Custom Series cymbals, driven by a Tama Iron Cobra 900 Power Glide double pedal. Portnoy plays a Tama Starclassic Maple/Birch kit with a Tama Mike Portnoy Signature Melody Master 14x5.5" snare and Sabian HHX Series cymbals, powered by a Tama Iron Cobra Power Glide double pedal.
+**Q: What is the difference between Lars Ulrich's and Mike Portnoy's drumming styles?**
+A: Lars Ulrich favors groove-oriented, riff-driven thrash with powerful, punchy patterns that serve Metallica's songs. Mike Portnoy favors technical, virtuosic progressive metal, weaving odd time signatures and intricate double bass patterns into Dream Theater's sprawling compositions.
 
-**Q: What drums does Lars Ulrich play vs Mike Portnoy?**
-A: Lars Ulrich plays Tama Starclassic Maple. Mike Portnoy plays Tama Starclassic Maple/Birch.
+**Q: What gear does Lars Ulrich use vs Mike Portnoy?**
+A: Lars Ulrich plays a Tama Starclassic Maple kit with a Tama LU1465 Signature 14x6.5" snare and Zildjian A Custom Series cymbals. Mike Portnoy plays a Tama Starclassic Maple/Birch kit with a Tama Mike Portnoy Signature Melody Master 14x5.5" snare and Sabian HHX Series cymbals.
 
-**Q: Who is the better progressive metal drummer, Lars Ulrich or Mike Portnoy?**
-A: Both are legends in their own right. Lars Ulrich and Mike Portnoy represent opposite ends of what "great metal drumming" can mean. See the full analysis at [metalforge.io/vs/lars-ulrich-vs-mike-portnoy](https://metalforge.io/vs/lars-ulrich-vs-mike-portnoy).
+**Q: How many Modern Drummer awards has Mike Portnoy won?**
+A: Mike Portnoy has won over 30 Drummer of the Year awards from Modern Drummer magazine across his career with Dream Theater and numerous other progressive metal projects.
 
-**Q: What cymbals do Lars Ulrich and Mike Portnoy use?**
-A: Lars Ulrich uses Zildjian A Custom Series (14" Dyno Beat Hi-Hats, 16", 17" & 18" Rock Crashes, 20" Z Custom China, 22" Ride). Mike Portnoy uses Sabian HHX Series (14" Evolution Hi-Hats, 18" & 19" Evolution Crashes, 21" Raw Bell Dry Ride, 10" & 12" Evolution Splashes, 19" O-Zone Crash).
+**Q: Did Mike Portnoy rejoin Dream Theater?**
+A: Yes — after leaving Dream Theater in 2010 and recording with projects including Avenged Sevenfold, The Winery Dogs, and Sons of Apollo, Mike Portnoy rejoined Dream Theater in 2023 for the band's reunion tour.
 
 ---
 
@@ -67,4 +67,4 @@ A: Lars Ulrich uses Zildjian A Custom Series (14" Dyno Beat Hi-Hats, 16", 17" & 
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

@@ -46,17 +46,17 @@ Ben Koller and Jaska Raatikainen represent two entirely different approaches to 
 
 ## FAQ
 
-**Q: What are the main differences between Ben Koller's and Jaska Raatikainen's drum kits?**
-A: Ben Koller plays Tama Starclassic Maple with Zildjian cymbals, while Jaska Raatikainen uses Pearl Masters Premium Maple with Zildjian cymbals. Koller plays a Tama Starclassic Maple kit with a Tama S.L.P. 14x6" Brass snare and Zildjian K Dark Series cymbals, driven by a Tama Iron Cobra 900 double pedal. Raatikainen played a Pearl Masters Premium Maple kit with a Pearl Masters 14x5.5" Maple snare and Zildjian A Custom & K Custom cymbals, powered by a Pearl Eliminator double pedal.
+**Q: What is the difference between Ben Koller's and Jaska Raatikainen's drumming styles?**
+A: Ben Koller favors a loose, explosive, unpredictable attack built for Converge's constantly shifting mathcore arrangements. Jaska Raatikainen favors clean, locked-in double bass and precise blast beats, anchoring Children of Bodom's dense melodic death metal arrangements with surgical consistency.
 
-**Q: What drums does Ben Koller play vs Jaska Raatikainen?**
-A: Ben Koller plays Tama Starclassic Maple. Jaska Raatikainen plays Pearl Masters Premium Maple.
+**Q: What gear does Ben Koller use vs Jaska Raatikainen?**
+A: Ben Koller plays a Tama Starclassic Maple kit with a Tama S.L.P. 14x6" Brass snare, Zildjian K Dark Series cymbals, and a Tama Iron Cobra 900 double pedal. Jaska Raatikainen played a Pearl Masters Premium Maple kit with a Pearl Masters 14x5.5" Maple snare, Zildjian A Custom & K Custom cymbals, and a Pearl Eliminator double pedal.
 
-**Q: Who is the better extreme / death / black metal drummer, Ben Koller or Jaska Raatikainen?**
-A: Both are legends in their own right. Ben Koller and Jaska Raatikainen represent two entirely different approaches to technical extreme drumming. See the full analysis at [metalforge.io/vs/ben-koller-vs-jaska-raatikainen](https://metalforge.io/vs/ben-koller-vs-jaska-raatikainen).
+**Q: How long has Ben Koller played drums for Converge?**
+A: Ben Koller joined Converge in late 1999 and has remained the band's drummer since, recording landmark albums including "Jane Doe" (2001) and "The Dusk in Us" (2017).
 
-**Q: What cymbals do Ben Koller and Jaska Raatikainen use?**
-A: Ben Koller uses Zildjian (14" K Dark Thin Hi-Hats, 18" & 19" K Dark Medium Thin Crashes, 21" K Custom Ride, 18" K China). Jaska Raatikainen uses Zildjian A Custom & K Custom Series (14" A Custom Hi-Hats, 17" & 18" A Custom Crashes, 20" K Custom Ride).
+**Q: Why is Children of Bodom's "Something Wild" significant for Jaska Raatikainen?**
+A: "Something Wild" (1997) was Children of Bodom's debut album and Jaska Raatikainen's first recording as the band's founding drummer, launching a 26-year run that helped define Finnish melodic death metal.
 
 ---
 
@@ -67,4 +67,4 @@ A: Ben Koller uses Zildjian (14" K Dark Thin Hi-Hats, 18" & 19" K Dark Medium Th
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

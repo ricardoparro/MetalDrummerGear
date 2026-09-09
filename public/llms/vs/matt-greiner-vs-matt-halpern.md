@@ -34,7 +34,7 @@ Greiner incorporates jazz dynamics, creative cymbal work, and rapid-fire double 
 
 ## Key Differences
 
-Greiner plays Pearl Masters Maple Reserve with Sabian AAX/HHX cymbals and a Pearl Demon Drive double pedal. Halpern uses Pearl Reference Series with Meinl Byzance cymbals and a Pearl Demon Drive double pedal — both Pearl endorsers with contrasting cymbal philosophies. Greiner incorporates jazz dynamics, creative cymbal work, and rapid-fire double bass into metalcore with seamless odd-time integration. Halpern masters groove-focused polyrhythms and ghost notes that anchor Periphery's dense, layered sound.
+Greiner plays a Mapex Black Panther Design Lab kit with Paiste Formula 602 cymbals and a DW 9000 Series double pedal. Halpern uses Pearl Reference Series with Meinl Byzance cymbals (Traditional Medium hi-hats, Traditional Extra Thin Hammered crashes, Sand Crash-Ride) plus his signature Artist Concept Double Down Stack and a Pearl Demon Drive double pedal — Halpern's Pearl/Meinl Byzance rig contrasts with Greiner's Mapex/Paiste setup. Greiner incorporates jazz dynamics, creative cymbal work, and rapid-fire double bass into metalcore with seamless odd-time integration. Halpern masters groove-focused polyrhythms and ghost notes that anchor Periphery's dense, layered sound.
 
 ## Influence & Legacy
 
@@ -42,12 +42,12 @@ Greiner redefined technical metalcore and influenced countless ABR-inspired drum
 
 ## Verdict
 
-Matt Greiner and Matt Halpern represent two defining faces of modern heavy music drumming — Greiner's jazz-infused metalcore and Halpern's polyrhythmic djent. Both are Pearl endorsers who transcend their genres, and both inspire a generation of technically ambitious heavy drummers.
+Matt Greiner and Matt Halpern represent two defining faces of modern heavy music drumming — Greiner's jazz-infused metalcore and Halpern's polyrhythmic djent. Both transcend their genres, and both inspire a generation of technically ambitious heavy drummers.
 
 ## FAQ
 
 **Q: What are the main differences between Matt Greiner's and Matt Halpern's drum kits?**
-A: Matt Greiner plays Mapex Black Panther Design Lab with Paiste cymbals, while Matt Halpern uses Pearl Reference Series with Meinl cymbals. Greiner plays Pearl Masters Maple Reserve with Sabian AAX/HHX cymbals and a Pearl Demon Drive double pedal. Halpern uses Pearl Reference Series with Meinl Byzance cymbals and a Pearl Demon Drive double pedal — both Pearl endorsers with contrasting cymbal philosophies.
+A: Matt Greiner plays Mapex Black Panther Design Lab with Paiste cymbals, while Matt Halpern uses Pearl Reference Series with Meinl cymbals. Greiner plays a Mapex Black Panther Design Lab kit with Paiste Formula 602 cymbals and a DW 9000 Series double pedal. Halpern uses Pearl Reference Series with Meinl Byzance cymbals (Traditional Medium hi-hats, Traditional Extra Thin Hammered crashes, Sand Crash-Ride) plus his signature Artist Concept Double Down Stack and a Pearl Demon Drive double pedal — Halpern's Pearl/Meinl Byzance rig contrasts with Greiner's Mapex/Paiste setup.
 
 **Q: What drums does Matt Greiner play vs Matt Halpern?**
 A: Matt Greiner plays Mapex Black Panther Design Lab. Matt Halpern plays Pearl Reference Series.
@@ -67,4 +67,4 @@ A: Matt Greiner uses Paiste Formula 602 (14" Hi-Hats, 16"/17"/18" Crashes, 22" R
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

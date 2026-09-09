@@ -10,10 +10,10 @@ Satyricon's Frost vs Mayhem's Hellhammer. Two Norwegian black metal legends comp
 
 ## Frost Setup
 
-- **Drums:** Sonor SQ2 Series
+- **Drums:** Tama Starclassic Bubinga
 - **Cymbals:** Zildjian A Custom & K Series (14" A Custom Hi-Hats, 16", 17", 18" A Custom Crashes, 22" K Custom Dark Ride, 18" K China)
-- **Snare:** Sonor SQ2 14x6" Maple
-- **Pedals/Hardware:** Sonor Perfect Balance Pedal, Sonor Hardware
+- **Snare:** Tama Starclassic Bubinga 14x5.5"
+- **Pedals/Hardware:** Tama Iron Cobra Power Glide Pedal, Tama Iron Cobra Lever Glide Hi-Hat Stand
 - **Sticks:** Vic Firth American Classic Extreme 5B
 
 ## Hellhammer Setup
@@ -34,7 +34,7 @@ Frost developed a refined single-stroke blast beat technique that prioritizes co
 
 ## Key Differences
 
-Frost endorses Pearl Reference Pure drums with Paiste Giant Beat and 2002 Series cymbals — a high-endurance setup that translates Satyricon's precise compositions to the live stage. Hellhammer plays Pearl Reference Series drums with Paiste Signature and 2002 cymbals — the same brand loyalty reflecting Norwegian black metal's preference for Pearl's powerful projection and Paiste's dark, aggressive tonal character. Frost developed a refined single-stroke blast beat technique that prioritizes consistency and endurance across full-length compositions, maintaining metronomic precision at extreme tempos without sacrificing the dark atmosphere black metal demands. Hellhammer pioneered the classic black metal one-foot blast beat approach — a technique that became the genre's rhythmic foundation — emphasizing power and relentless forward drive over technical complexity, making him one of the most influential drummers in extreme metal history.
+Frost endorses Tama Starclassic Bubinga Series drums with Zildjian A Series cymbals — a setup he's used since 2013, after switching from his earlier entry-level kit. Hellhammer plays Sonor SQ2 Heavy Beech drums with Paiste RUDE Series cymbals — endorsements dating back to 1999 and 1988 respectively, decades of gear loyalty from two of Norwegian black metal's defining drummers. Frost developed a refined single-stroke blast beat technique that prioritizes consistency and endurance across full-length compositions, maintaining metronomic precision at extreme tempos without sacrificing the dark atmosphere black metal demands. Hellhammer pioneered the classic black metal one-foot blast beat approach — a technique that became the genre's rhythmic foundation — emphasizing power and relentless forward drive over technical complexity, making him one of the most influential drummers in extreme metal history.
 
 ## Influence & Legacy
 
@@ -46,17 +46,17 @@ Frost and Hellhammer represent two philosophical approaches to Norwegian black m
 
 ## FAQ
 
-**Q: What are the main differences between Frost's and Hellhammer's drum kits?**
-A: Frost plays Sonor SQ2 Series with Zildjian cymbals, while Hellhammer uses Sonor SQ2 Heavy Beech with Paiste cymbals. Frost endorses Pearl Reference Pure drums with Paiste Giant Beat and 2002 Series cymbals — a high-endurance setup that translates Satyricon's precise compositions to the live stage. Hellhammer plays Pearl Reference Series drums with Paiste Signature and 2002 cymbals — the same brand loyalty reflecting Norwegian black metal's preference for Pearl's powerful projection and Paiste's dark, aggressive tonal character.
+**Q: Who is the better Norwegian black metal drummer: Frost or Hellhammer?**
+A: Both are legends of Norwegian black metal but in different ways. Frost (Satyricon) is known for technical precision and control; Hellhammer (Mayhem) is known for raw, primitive power and is one of the most recorded drummers in metal history. Style preference determines the winner.
 
-**Q: What drums does Frost play vs Hellhammer?**
-A: Frost plays Sonor SQ2 Series. Hellhammer plays Sonor SQ2 Heavy Beech.
+**Q: What gear does Frost use vs Hellhammer?**
+A: Frost plays Tama Starclassic Bubinga Series drums with Zildjian A Series cymbals, a setup since 2013. Hellhammer plays Sonor SQ2 Heavy Beech drums with Paiste RUDE Series cymbals, endorsements dating back to 1999 and 1988 respectively.
 
-**Q: Who is the better extreme / death / black metal drummer, Frost or Hellhammer?**
-A: Both are legends in their own right. Frost and Hellhammer represent two philosophical approaches to Norwegian black metal drumming. See the full analysis at [metalforge.io/vs/frost-vs-hellhammer](https://metalforge.io/vs/frost-vs-hellhammer).
+**Q: What bands are Frost and Hellhammer known for?**
+A: Frost is best known as the drummer for Satyricon. Hellhammer (Jan Axel Blomberg) is best known as the drummer for Mayhem and has contributed to hundreds of recordings including Winds, Arcturus, Kovenant, and Dimmu Borgir.
 
-**Q: What cymbals do Frost and Hellhammer use?**
-A: Frost uses Zildjian A Custom & K Series (14" A Custom Hi-Hats, 16", 17", 18" A Custom Crashes, 22" K Custom Dark Ride, 18" K China). Hellhammer uses Paiste (14" RUDE Hi-Hats, 18" & 19" RUDE Crashes, 20" RUDE Ride, 18" RUDE China).
+**Q: What blast beat technique does Frost use?**
+A: Frost uses a single-stroke blast beat technique emphasizing precision and endurance — his blasts are metronomically consistent at extreme tempos, prioritizing control and atmosphere over raw speed.
 
 ---
 
@@ -67,4 +67,4 @@ A: Frost uses Zildjian A Custom & K Series (14" A Custom Hi-Hats, 16", 17", 18" 
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

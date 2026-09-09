@@ -18,10 +18,10 @@ Devin Townsend Project's Ryan Van Poederooyen vs Dream Theater's Mike Portnoy �
 
 ## Mike Portnoy Setup
 
-- **Drums:** Tama Starclassic Maple/Birch
-- **Cymbals:** Sabian HHX Series (14" Evolution Hi-Hats, 18" & 19" Evolution Crashes, 21" Raw Bell Dry Ride, 10" & 12" Evolution Splashes, 19" O-Zone Crash)
+- **Drums:** Tama Starclassic Maple + Starclassic Bubinga ("Dream Monster" dual kit)
+- **Cymbals:** Sabian HHX MAX / AAX MAXX Series (22" HHX MAX Ride, 18" AAX X-Plosion Crash, 19" HHX X-Plosion Crash, 18" AAX O-Zone Crash, 18" HHX Chinese, 19" Paragon Chinese, 7"/9"/11" AAX MAXX Splashes, 6"/6.5"/7" AA MAX Chimes)
 - **Snare:** Tama Mike Portnoy Signature Melody Master 14x5.5"
-- **Pedals/Hardware:** Tama Iron Cobra Power Glide Double Pedal, Tama 1st Chair Ergo-Rider Throne
+- **Pedals/Hardware:** Tama Iron Cobra Power Glide Twin Pedal (HP900PSW)
 - **Sticks:** Promark Mike Portnoy Signature TX420N
 
 ## Playing Style
@@ -46,17 +46,17 @@ Ryan Van Poederooyen exemplifies the versatile, service-first drumming progressi
 
 ## FAQ
 
-**Q: What are the main differences between Ryan Van Poederooyen's and Mike Portnoy's drum kits?**
-A: Ryan Van Poederooyen plays Pearl Reference Series with Sabian cymbals, while Mike Portnoy uses Tama Starclassic Maple/Birch with Sabian cymbals. Ryan plays a Pearl Reference Series kit with a 14x6.5" brass Pearl Reference snare, Sabian HHX & AAX cymbals, and a Pearl Demon Drive double pedal. Mike uses a Tama Starclassic Maple/Birch hybrid kit with his steel Tama Melody Master signature snare, Sabian HHX Evolution cymbals, and a Tama Iron Cobra Power Glide double pedal.
+**Q: Who is technically more skilled, Ryan Van Poederooyen or Mike Portnoy?**
+A: Both are accomplished progressive metal drummers with different strengths. Ryan Van Poederooyen's skill set is rooted in versatility — serving Devin Townsend's genre-shifting compositions from ambient passages to crushing metal. Mike Portnoy's skill set is rooted in technical ambition and theatrical scale, built across 25 years of Dream Theater's complex, arrangement-driven songwriting.
 
-**Q: What drums does Ryan Van Poederooyen play vs Mike Portnoy?**
-A: Ryan Van Poederooyen plays Pearl Reference Series. Mike Portnoy plays Tama Starclassic Maple/Birch.
+**Q: What is each drummer's signature technique?**
+A: Ryan Van Poederooyen's signature is creative tom patterns and tasteful cymbal work that adapt to wildly different sections within a single song. Mike Portnoy's signature is rapid-fire transitions and complex time signatures sustained across marathon-length live performances.
 
-**Q: Who is the better progressive metal drummer, Ryan Van Poederooyen or Mike Portnoy?**
-A: Both are legends in their own right. Ryan Van Poederooyen exemplifies the versatile, service-first drumming progressive metal needs when the music constantly shifts shape between ambient and crushing extremes. See the full analysis at [metalforge.io/vs/ryan-van-poederooyen-vs-mike-portnoy](https://metalforge.io/vs/ryan-van-poederooyen-vs-mike-portnoy).
+**Q: What bands have Ryan Van Poederooyen and Mike Portnoy played in?**
+A: Ryan Van Poederooyen played with the Devin Townsend Band and Devin Townsend Project from 2009 to 2018. Mike Portnoy co-founded Dream Theater in 1985, playing with the band until 2010 and again from 2023, plus Liquid Tension Experiment, The Winery Dogs, Transatlantic, and Sons of Apollo.
 
-**Q: What cymbals do Ryan Van Poederooyen and Mike Portnoy use?**
-A: Ryan Van Poederooyen uses Sabian HHX & AAX Series (14" HHX Evolution Hi-Hats, 18" & 20" HHX Evolution Crashes, 21" HHX Raw Bell Dry Ride, 19" AAXtreme China). Mike Portnoy uses Sabian HHX Series (14" Evolution Hi-Hats, 18" & 19" Evolution Crashes, 21" Raw Bell Dry Ride, 10" & 12" Evolution Splashes, 19" O-Zone Crash).
+**Q: What gear do Ryan Van Poederooyen and Mike Portnoy use?**
+A: Ryan Van Poederooyen plays a Pearl Reference Series kit with a 14x6.5" brass Pearl Reference snare and Sabian HHX & AAX cymbals. Mike Portnoy plays a Tama Starclassic Maple/Birch kit with his Tama Melody Master signature snare and Sabian HHX Evolution cymbals, driven by a Tama Iron Cobra Power Glide double pedal.
 
 ---
 
@@ -67,4 +67,4 @@ A: Ryan Van Poederooyen uses Sabian HHX & AAX Series (14" HHX Evolution Hi-Hats,
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

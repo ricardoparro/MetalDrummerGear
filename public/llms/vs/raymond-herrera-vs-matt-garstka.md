@@ -18,9 +18,9 @@ Raymond Herrera (Fear Factory) vs Matt Garstka (Animals as Leaders): industrial 
 
 ## Matt Garstka Setup
 
-- **Drums:** Tama Starclassic Walnut/Birch
+- **Drums:** DW Collector's Series
 - **Cymbals:** Meinl Byzance Series (15" Dual Hi-Hats, 18" & 20" Extra Dry Medium Crashes, 22" Dual Ride)
-- **Snare:** Tama S.L.P. 14x6" G-Maple
+- **Snare:** DW Collector's Series Purpleheart
 - **Pedals/Hardware:** Tama Speed Cobra 910 Double Pedal
 - **Sticks:** Vic Firth Matt Garstka Signature
 
@@ -34,7 +34,7 @@ Herrera's genius was making a human drummer sound like a drum machine without ev
 
 ## Key Differences
 
-Raymond Herrera plays a Tama Starclassic kit with a Tama 14x6.5" Brass snare and Zildjian A Custom & Z Custom cymbals, paired with a DW 5000 Series double pedal built for the rapid stop-go bursts his sound demands. Matt Garstka plays a Tama Starclassic Walnut/Birch kit with a Tama S.L.P. 14x6" G-Maple snare and Meinl Byzance Series cymbals, driven by a Tama Speed Cobra 910 double pedal tuned for the ghost-note-dense, polyrhythmic patterns central to his sound. Herrera's genius was making a human drummer sound like a drum machine without ever using one — his stop-go bass drum patterns required surgical timing precision to lock with Fear Factory's sequenced guitar riffs and Dino Cazares' palm-muted chug, creating the mechanical illusion that defined industrial metal's sound. Garstka's technique draws from an entirely different well: linear independence, polymetric phrasing, and ghost-note-laced double bass that owes as much to jazz fusion drummers as to metal, allowing him to navigate Animals as Leaders' constantly shifting time signatures with fluid, almost conversational precision rather than mechanical rigidity.
+Raymond Herrera plays a Tama Starclassic kit with a Tama 14x6.5" Brass snare and Zildjian Z Custom cymbals, paired with a DW 5000 Series double pedal built for the rapid stop-go bursts his sound demands. Matt Garstka plays a DW Collector's Series kit and Meinl Byzance Series cymbals, driven by a Tama Speed Cobra 910 double pedal tuned for the ghost-note-dense, polyrhythmic patterns central to his sound. Herrera's genius was making a human drummer sound like a drum machine without ever using one — his stop-go bass drum patterns required surgical timing precision to lock with Fear Factory's sequenced guitar riffs and Dino Cazares' palm-muted chug, creating the mechanical illusion that defined industrial metal's sound. Garstka's technique draws from an entirely different well: linear independence, polymetric phrasing, and ghost-note-laced double bass that owes as much to jazz fusion drummers as to metal, allowing him to navigate Animals as Leaders' constantly shifting time signatures with fluid, almost conversational precision rather than mechanical rigidity.
 
 ## Influence & Legacy
 
@@ -46,17 +46,17 @@ Raymond Herrera and Matt Garstka represent two distinct eras and philosophies of
 
 ## FAQ
 
-**Q: What are the main differences between Raymond Herrera's and Matt Garstka's drum kits?**
-A: Raymond Herrera plays Tama Starclassic with Zildjian cymbals, while Matt Garstka uses Tama Starclassic Walnut/Birch with Meinl cymbals. Raymond Herrera plays a Tama Starclassic kit with a Tama 14x6.5" Brass snare and Zildjian A Custom & Z Custom cymbals, paired with a DW 5000 Series double pedal built for the rapid stop-go bursts his sound demands. Matt Garstka plays a Tama Starclassic Walnut/Birch kit with a Tama S.L.P. 14x6" G-Maple snare and Meinl Byzance Series cymbals, driven by a Tama Speed Cobra 910 double pedal tuned for the ghost-note-dense, polyrhythmic patterns central to his sound.
+**Q: Is Raymond Herrera or Matt Garstka more technically precise?**
+A: Both are considered tech-metal touchstones, but in different ways. Raymond Herrera (Fear Factory) pioneered a mechanically precise "stop-go" double bass technique that made his playing sound machine-built. Matt Garstka (Animals as Leaders) brings jazz-fusion-trained polyrhythmic precision and ghost-note complexity to modern djent. Herrera by mechanical tightness; Garstka by polyrhythmic virtuosity.
 
-**Q: What drums does Raymond Herrera play vs Matt Garstka?**
-A: Raymond Herrera plays Tama Starclassic. Matt Garstka plays Tama Starclassic Walnut/Birch.
+**Q: What is Raymond Herrera's stop-go technique?**
+A: Raymond Herrera's "stop-go" double bass technique alternates tight bursts of rapid bass drum hits with abrupt silences, rather than sustaining a continuous blast beat. It became a signature element of Fear Factory's mechanical, industrial metal sound across albums like "Demanufacture" (1995) and "Obsolete" (1998).
 
-**Q: Who is the better progressive metal drummer, Raymond Herrera or Matt Garstka?**
-A: Both are legends in their own right. Raymond Herrera and Matt Garstka represent two distinct eras and philosophies of technical precision in metal drumming. See the full analysis at [metalforge.io/vs/raymond-herrera-vs-matt-garstka](https://metalforge.io/vs/raymond-herrera-vs-matt-garstka).
+**Q: What gear do Raymond Herrera and Matt Garstka use?**
+A: Raymond Herrera plays a Tama Starclassic kit with a Tama 14x6.5" Brass snare and Zildjian Z Custom cymbals. Matt Garstka plays a DW Collector's Series kit and Meinl Byzance Series cymbals.
 
-**Q: What cymbals do Raymond Herrera and Matt Garstka use?**
-A: Raymond Herrera uses Zildjian A Custom & Z Custom Series (14" A Custom Hi-Hats, 18" & 19" A Custom Crashes, 21" Z Custom Mega Bell Ride, 18" A Custom China). Matt Garstka uses Meinl Byzance Series (15" Dual Hi-Hats, 18" & 20" Extra Dry Medium Crashes, 22" Dual Ride).
+**Q: How does industrial metal drumming differ from djent drumming?**
+A: Industrial metal drumming, as pioneered by Raymond Herrera, emphasizes mechanical, programmed-sounding precision built around stop-go rhythmic bursts that mimic drum machines. Djent drumming, as played by Matt Garstka, emphasizes polyrhythmic complexity, odd time signatures, and fusion-informed ghost-note work layered over heavily palm-muted, syncopated riffing.
 
 ---
 
@@ -67,4 +67,4 @@ A: Raymond Herrera uses Zildjian A Custom & Z Custom Series (14" A Custom Hi-Hat
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

@@ -34,7 +34,7 @@ Reinert's technique is rooted in jazz fusion — his ability to navigate between
 
 ## Key Differences
 
-Sean Reinert endorsed Tama drums and Zildjian cymbals across his career — a setup that emphasized articulation and dynamic range suited to his jazz-influenced playing context. His cymbal selection prioritized the kind of complex wash and definition that jazz playing requires. Martin Lopez has played Pearl drums with Zildjian cymbals, favoring a setup that could handle both Opeth's delicate acoustic passages and their most brutal death metal moments — a remarkable tonal range demand that few drummers in any genre face. Reinert's technique is rooted in jazz fusion — his ability to navigate between brutal death metal sections and intricate jazz-time passages within the same composition defined Cynic's identity and influenced a generation of progressive metal drummers. His ghost note vocabulary, odd-meter fluency, and dynamic sensitivity were unlike anything in death metal at the time. Lopez brought a complementary but distinct approach to Opeth — his Scandinavian jazz and progressive rock influences enabled him to serve both the band's acoustic folk passages and the crushing death metal transitions without losing the organic, breathing quality that Mikael Åkerfeldt's compositions demand.
+Sean Reinert endorsed DW Collector's Series drums and Zildjian K Custom cymbals, with Vic Firth American Classic 5A sticks and a DW 9000 Double Pedal — a setup that emphasized articulation and dynamic range suited to his jazz-influenced playing context. Martin Lopez played a Sonor Designer Series maple kit through his Opeth tenure (1997-2006), a setup that could handle both the band's delicate acoustic passages and their most brutal death metal moments, before switching to a Noble & Cooley Walnut shell pack with Zildjian cymbals in his current band Soen (since 2010) — a remarkable tonal range demand that few drummers in any genre face. Reinert's technique is rooted in jazz fusion — his ability to navigate between brutal death metal sections and intricate jazz-time passages within the same composition defined Cynic's identity and influenced a generation of progressive metal drummers. His ghost note vocabulary, odd-meter fluency, and dynamic sensitivity were unlike anything in death metal at the time. Lopez brought a complementary but distinct approach to Opeth — his Scandinavian jazz and progressive rock influences enabled him to serve both the band's acoustic folk passages and the crushing death metal transitions without losing the organic, breathing quality that Mikael Åkerfeldt's compositions demand.
 
 ## Influence & Legacy
 
@@ -46,17 +46,17 @@ Sean Reinert and Martin Lopez are two of the most jazz-sophisticated drummers in
 
 ## FAQ
 
-**Q: What are the main differences between Sean Reinert's and Martin Lopez's drum kits?**
-A: Sean Reinert plays Tama Artstar II with Zildjian cymbals, while Martin Lopez uses Noble & Cooley Walnut with Zildjian cymbals. Sean Reinert endorsed Tama drums and Zildjian cymbals across his career — a setup that emphasized articulation and dynamic range suited to his jazz-influenced playing context. His cymbal selection prioritized the kind of complex wash and definition that jazz playing requires. Martin Lopez has played Pearl drums with Zildjian cymbals, favoring a setup that could handle both Opeth's delicate acoustic passages and their most brutal death metal moments — a remarkable tonal range demand that few drummers in any genre face.
+**Q: Who are the most jazz-influenced death metal drummers?**
+A: Sean Reinert (Death, Cynic) and Martin Lopez (Opeth, Morbid Angel) are among the most jazz-influenced drummers in extreme metal. Others include Richard Christy, Tomas Haake, and Brann Dailor. Reinert's work on Cynic's "Focus" (1993) and Lopez's Opeth catalog (1998–2005) remain the clearest examples of jazz vocabulary applied within a death metal framework.
 
-**Q: What drums does Sean Reinert play vs Martin Lopez?**
-A: Sean Reinert plays Tama Artstar II. Martin Lopez plays Noble & Cooley Walnut.
+**Q: What albums did Sean Reinert record with Death and Cynic?**
+A: Sean Reinert recorded "Human" (1991) with Death — widely considered one of death metal's most technically advanced albums. He also recorded "Focus" (1993) and "Traced in Air" (2008) with Cynic, his primary band. His work on "Human" helped define technical death metal; "Focus" pioneered jazz-death fusion.
 
-**Q: Who is the better extreme / death / black metal drummer, Sean Reinert or Martin Lopez?**
-A: Both are legends in their own right. Sean Reinert and Martin Lopez are two of the most jazz-sophisticated drummers in extreme metal's history, each shaping a different branch of the prog-death tradition. See the full analysis at [metalforge.io/vs/sean-reinert-vs-martin-lopez](https://metalforge.io/vs/sean-reinert-vs-martin-lopez).
+**Q: What Opeth albums did Martin Lopez play on?**
+A: Martin Lopez played on Opeth's "My Arms, Your Hearse" (1998), "Still Life" (1999), "Blackwater Park" (2001), "Deliverance" (2002), "Damnation" (2003), and "Ghost Reveries" (2005). These six albums are widely considered Opeth's definitive era, and Lopez's drumming is central to what makes them exceptional.
 
-**Q: What cymbals do Sean Reinert and Martin Lopez use?**
-A: Sean Reinert uses Zildjian A/K Series (14" A Quick Beat Hi-Hats, 16" & 18" A Crashes, 20" K Custom Dry Ride, 16" China, 10" A Splash). Martin Lopez uses Zildjian K Dark Series (14" K Dark Thin Hi-Hats, 18" & 20" K Dark Medium Thin Crashes, 22" K Dark Light Ride, 18" K China).
+**Q: Did Martin Lopez play with Morbid Angel?**
+A: Yes — Martin Lopez appeared on Morbid Angel's "Heretic" (2003) as a session/guest contributor. His primary association, however, is with Opeth, where he spent nearly a decade shaping the band's progressive death metal sound before departing in 2006 due to health issues.
 
 ---
 
@@ -67,4 +67,4 @@ A: Sean Reinert uses Zildjian A/K Series (14" A Quick Beat Hi-Hats, 16" & 18" A 
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

@@ -11,7 +11,7 @@ Tool's Danny Carey vs Meshuggah's Tomas Haake. Two polyrhythmic metal masters co
 ## Danny Carey Setup
 
 - **Drums:** Sonor SQ2 Heavy Beech
-- **Cymbals:** Paiste Signature Series (15" Sound Edge Hi-Hats, 18" & 19" Power Crashes, 22" Dry Heavy Ride, 20" & 22" Chinas, various Rude crashes)
+- **Cymbals:** Paiste Signature Series (14" Sound Edge Hi-Hats, 18" & 20" Power Crashes, 22" Dry Heavy Ride "Monad", 2002 & Signature China cymbals)
 - **Snare:** Sonor Danny Carey Signature 14x8" Bronze
 - **Pedals/Hardware:** Sonor Giant Step Twin Effect Double Pedal, Sonor Drummer Throne, Mandala Drum electronic pads
 - **Sticks:** Vic Firth Danny Carey Signature
@@ -56,7 +56,7 @@ A: Danny Carey plays Sonor SQ2 Heavy Beech. Tomas Haake plays Sonor SQ2 Heavy Be
 A: Both are legends in their own right. Danny Carey and Tomas Haake are the two great polyrhythmic masters of modern metal. See the full analysis at [metalforge.io/vs/danny-carey-vs-tomas-haake](https://metalforge.io/vs/danny-carey-vs-tomas-haake).
 
 **Q: What cymbals do Danny Carey and Tomas Haake use?**
-A: Danny Carey uses Paiste Signature Series (15" Sound Edge Hi-Hats, 18" & 19" Power Crashes, 22" Dry Heavy Ride, 20" & 22" Chinas, various Rude crashes). Tomas Haake uses Sabian HHX & AAX Series (14" HHX Compression Hi-Hats, 15" Artisan Hi-Hats, 19" & 20" & 21" HHX Stage Crashes, 22" Legacy Ride, 19" AAXtreme China).
+A: Danny Carey uses Paiste Signature Series (14" Sound Edge Hi-Hats, 18" & 20" Power Crashes, 22" Dry Heavy Ride "Monad", 2002 & Signature China cymbals). Tomas Haake uses Sabian HHX & AAX Series (14" HHX Compression Hi-Hats, 15" Artisan Hi-Hats, 19" & 20" & 21" HHX Stage Crashes, 22" Legacy Ride, 19" AAXtreme China).
 
 ---
 
@@ -67,4 +67,4 @@ A: Danny Carey uses Paiste Signature Series (15" Sound Edge Hi-Hats, 18" & 19" P
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

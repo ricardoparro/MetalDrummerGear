@@ -46,17 +46,17 @@ Arin Ilejay and Jay Weinberg both faced the same unforgiving assignment: replaci
 
 ## FAQ
 
-**Q: What are the main differences between Arin Ilejay's and Jay Weinberg's drum kits?**
-A: Arin Ilejay plays Mapex Saturn Series with Zildjian cymbals, while Jay Weinberg uses SJC Custom Drums (OBEY x ST Collaboration Kit) with Zildjian cymbals. Arin Ilejay played a Mapex Saturn Series kit with a Mapex Black Panther 14x6.5" snare and Zildjian A Custom cymbals (14" A Custom Mastersound Hi-Hats, 18" & 19" A Custom Crashes, 21" A Sweet Ride, 18" A Custom China), powered by a Mapex Falcon double pedal and Vic Firth American Classic 5A sticks. Jay Weinberg plays an SJC Custom Drums kit built around his signature SJC "The Crucible" 14x6.5" 48-ply brass snare, with Zildjian cymbals (14" A New Beat Hi-Hats, 18" & 19" A Custom Crashes, 21" K Custom Ride, 19" K China, 7" FX Break Bell), a DW 9000 Series double pedal, and his own Vater Jay Weinberg 908 Signature sticks.
+**Q: What do Arin Ilejay and Jay Weinberg have in common?**
+A: Both drummers replaced a legendary predecessor in a massive metal band. Arin Ilejay joined Avenged Sevenfold in 2011 after the death of founding drummer Jimmy "The Rev" Sullivan. Jay Weinberg joined Slipknot in 2014 after Joey Jordison's departure. Both faced intense scrutiny stepping into an established band's drum chair.
 
-**Q: What drums does Arin Ilejay play vs Jay Weinberg?**
-A: Arin Ilejay plays Mapex Saturn Series. Jay Weinberg plays SJC Custom Drums (OBEY x ST Collaboration Kit).
+**Q: What gear do Arin Ilejay and Jay Weinberg use?**
+A: Arin Ilejay played a Mapex Saturn Series kit with a Mapex Black Panther snare and Zildjian A Custom cymbals. Jay Weinberg plays an SJC Custom Drums kit with his signature SJC "The Crucible" brass snare and Zildjian cymbals, powered by a DW 9000 Series double pedal.
 
-**Q: Who is the better alternative / nu-metal drummer, Arin Ilejay or Jay Weinberg?**
-A: Both are legends in their own right. Arin Ilejay and Jay Weinberg both faced the same unforgiving assignment: replacing a drummer whose playing helped define a legendary band's identity. See the full analysis at [metalforge.io/vs/arin-ilejay-vs-jay-weinberg](https://metalforge.io/vs/arin-ilejay-vs-jay-weinberg).
+**Q: What bands are Arin Ilejay and Jay Weinberg known for?**
+A: Arin Ilejay drummed for Avenged Sevenfold from 2011 to 2015, recording "Hail to the King" (2013). Jay Weinberg drummed for Slipknot from 2014 to 2023 before joining Suicidal Tendencies in 2023.
 
-**Q: What cymbals do Arin Ilejay and Jay Weinberg use?**
-A: Arin Ilejay uses Zildjian (14" A Custom Mastersound Hi-Hats, 18" & 19" A Custom Crashes, 21" A Sweet Ride, 18" A Custom China). Jay Weinberg uses Zildjian (14" A New Beat Hi-Hats, 18" & 19" A Custom Crashes, 21" K Custom Ride, 19" K China, 7" FX Break Bell).
+**Q: How long did Arin Ilejay and Jay Weinberg each hold their replacement drum chair?**
+A: Arin Ilejay held Avenged Sevenfold's drum chair for about four years (2011-2015), recording one studio album. Jay Weinberg held Slipknot's drum chair for nine years (2014-2023), recording three studio albums before departing to join Suicidal Tendencies.
 
 ---
 
@@ -67,4 +67,4 @@ A: Arin Ilejay uses Zildjian (14" A Custom Mastersound Hi-Hats, 18" & 19" A Cust
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

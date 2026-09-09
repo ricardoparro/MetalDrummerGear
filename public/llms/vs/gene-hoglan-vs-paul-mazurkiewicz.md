@@ -46,17 +46,17 @@ Gene Hoglan and Paul Mazurkiewicz are two of death metal's most essential drumme
 
 ## FAQ
 
-**Q: What are the main differences between Gene Hoglan's and Paul Mazurkiewicz's drum kits?**
-A: Gene Hoglan plays Pearl Reference Pure with Sabian cymbals, while Paul Mazurkiewicz uses Pearl Masters Maple Complete with Sabian cymbals. Gene Hoglan endorses Pearl drums, favoring large-format kits with multiple bass drums (or double pedals) capable of handling his demanding technical requirements. His cymbal setup prioritizes attack and decay suited to extreme metal production. Paul Mazurkiewicz plays Pearl Reference Series drums with Sabian cymbals, maintaining a robust but traditional death metal setup that has evolved alongside Cannibal Corpse's recording career across more than fifteen studio albums.
+**Q: Who is the better death metal drummer: Gene Hoglan or Paul Mazurkiewicz?**
+A: Both are legends in their own right. Gene Hoglan is celebrated for technical precision, polyrhythmic complexity, and cross-genre versatility — his "Atomic Clock" nickname reflects inhuman timing accuracy. Paul Mazurkiewicz built the rhythmic foundation of Cannibal Corpse across fifteen-plus albums, defining brutal death metal's template. The question depends on whether you value technical architecture or relentless brutality.
 
-**Q: What drums does Gene Hoglan play vs Paul Mazurkiewicz?**
-A: Gene Hoglan plays Pearl Reference Pure. Paul Mazurkiewicz plays Pearl Masters Maple Complete.
+**Q: Why is Gene Hoglan called the Atomic Clock?**
+A: Gene Hoglan earned the nickname "The Atomic Clock" because of his inhuman timing precision. His ability to maintain complex polyrhythmic patterns at extreme tempos with zero deviation — even in live settings — led fellow musicians and producers to compare him to a measuring instrument rather than a human being.
 
-**Q: Who is the better extreme / death / black metal drummer, Gene Hoglan or Paul Mazurkiewicz?**
-A: Both are legends in their own right. Gene Hoglan and Paul Mazurkiewicz are two of death metal's most essential drummers, with different but equally legendary contributions. See the full analysis at [metalforge.io/vs/gene-hoglan-vs-paul-mazurkiewicz](https://metalforge.io/vs/gene-hoglan-vs-paul-mazurkiewicz).
+**Q: How long has Paul Mazurkiewicz been in Cannibal Corpse?**
+A: Paul Mazurkiewicz has been Cannibal Corpse's drummer since the band formed in Buffalo, New York in 1988 — over 35 years. He appears on every Cannibal Corpse studio album, making him one of the longest-tenured members of any death metal band in history.
 
-**Q: What cymbals do Gene Hoglan and Paul Mazurkiewicz use?**
-A: Gene Hoglan uses Sabian AAX Series (15" Hi-Hats, 18" & 20" Crashes, 22" Ride, 20" China). Paul Mazurkiewicz uses Sabian AAX Series (14" Stage Hi-Hats, 18" & 19" X-Plosion Crashes, 21" Raw Bell Dry Ride, 18" AAXtreme China).
+**Q: What bands has Gene Hoglan played with?**
+A: Gene Hoglan has played with Dark Angel, Death, Dethklok, Strapping Young Lad, Testament, Fear Factory, Zimmer's Hole, and many others. His most celebrated work is on Death's "Individual Thought Patterns" (1993) and "Symbolic" (1995), widely considered among the greatest death metal albums ever recorded.
 
 ---
 
@@ -67,4 +67,4 @@ A: Gene Hoglan uses Sabian AAX Series (15" Hi-Hats, 18" & 20" Crashes, 22" Ride,
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

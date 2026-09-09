@@ -34,7 +34,7 @@ Jordison pioneered the spinning drum platform — a literal stage gimmick that d
 
 ## Key Differences
 
-Joey Jordison played Pearl Masters Premium Maple drums with his signature Pearl Joey Jordison 13"×6.5" snare — a compact shell chosen for faster response at tempos exceeding 280 BPM — paired with Paiste RUDE Series cymbals, Pearl Demon Drive double pedals, and Promark Joey Jordison Signature TX515W sticks. Jay Weinberg endorsed Pearl Masterworks Custom drums with a Pearl Reference 14"×6.5" Steel snare, Zildjian A Custom & K Custom Series cymbals, Pearl Demon Drive double pedal, and Promark ActiveGrip 5B sticks — a setup built for the aggressive attack Slipknot's live shows demand. Jordison pioneered the spinning drum platform — a literal stage gimmick that doubled as a feat of physical endurance — and combined extreme nu-metal speed with death metal-influenced blast beats, becoming one of the most technically admired drummers of his generation. Weinberg delivers powerful, precise playing with massive groove and dynamic control, maintaining the demanding multi-percussionist live arrangement Slipknot requires while adding his own explosive intensity. Where Jordison was the architect of Slipknot's rhythmic chaos, Weinberg refined and sustained it across nine years and three studio albums: ".5: The Gray Chapter" (2014), "We Are Not Your Kind" (2019), and "The End, So Far" (2022).
+Joey Jordison played Pearl Masters Premium Maple drums with his signature Pearl Joey Jordison 13"×6.5" snare — a compact shell chosen for faster response at tempos exceeding 280 BPM — paired with Paiste RUDE Series cymbals, Pearl Demon Drive double pedals, and Promark Joey Jordison Signature TX515W sticks. Jay Weinberg endorsed SJC Custom Drums with Zildjian cymbals, a DW double pedal, and Vater 5B sticks — a setup built for the aggressive attack Slipknot's live shows demand. Jordison pioneered the spinning drum platform — a literal stage gimmick that doubled as a feat of physical endurance — and combined extreme nu-metal speed with death metal-influenced blast beats, becoming one of the most technically admired drummers of his generation. Weinberg delivers powerful, precise playing with massive groove and dynamic control, maintaining the demanding multi-percussionist live arrangement Slipknot requires while adding his own explosive intensity. Where Jordison was the architect of Slipknot's rhythmic chaos, Weinberg refined and sustained it across nine years and three studio albums: ".5: The Gray Chapter" (2014), "We Are Not Your Kind" (2019), and "The End, So Far" (2022).
 
 ## Influence & Legacy
 
@@ -46,17 +46,17 @@ The Slipknot succession represents two eras of metal drumming excellence. Joey J
 
 ## FAQ
 
-**Q: What are the main differences between Joey Jordison's and Jay Weinberg's drum kits?**
-A: Joey Jordison plays Pearl Reference Series with Paiste cymbals, while Jay Weinberg uses SJC Custom Drums (OBEY x ST Collaboration Kit) with Zildjian cymbals. Joey Jordison played Pearl Masters Premium Maple drums with his signature Pearl Joey Jordison 13"×6.5" snare — a compact shell chosen for faster response at tempos exceeding 280 BPM — paired with Paiste RUDE Series cymbals, Pearl Demon Drive double pedals, and Promark Joey Jordison Signature TX515W sticks. Jay Weinberg endorsed Pearl Masterworks Custom drums with a Pearl Reference 14"×6.5" Steel snare, Zildjian A Custom & K Custom Series cymbals, Pearl Demon Drive double pedal, and Promark ActiveGrip 5B sticks — a setup built for the aggressive attack Slipknot's live shows demand.
+**Q: Who replaced Joey Jordison in Slipknot?**
+A: Jay Weinberg replaced Joey Jordison as Slipknot's drummer, joining in December 2013 after Jordison's departure from the band. Weinberg made his studio debut on ".5: The Gray Chapter" (2014) and remained Slipknot's drummer until November 2023, when he departed and subsequently joined Suicidal Tendencies.
 
-**Q: What drums does Joey Jordison play vs Jay Weinberg?**
-A: Joey Jordison plays Pearl Reference Series. Jay Weinberg plays SJC Custom Drums (OBEY x ST Collaboration Kit).
+**Q: Why did Joey Jordison leave Slipknot?**
+A: Joey Jordison's December 2013 departure from Slipknot was initially described as a mutual decision, but Jordison later revealed he had been fired while battling transverse myelitis, an autoimmune condition that temporarily left him unable to walk and significantly affected his ability to drum at the level Slipknot required.
 
-**Q: Who is the better alternative / nu-metal drummer, Joey Jordison or Jay Weinberg?**
-A: Both are legends in their own right. The Slipknot succession represents two eras of metal drumming excellence. See the full analysis at [metalforge.io/vs/joey-jordison-vs-jay-weinberg](https://metalforge.io/vs/joey-jordison-vs-jay-weinberg).
+**Q: What albums did Joey Jordison record with Slipknot?**
+A: Joey Jordison recorded "Slipknot" (1999), "Iowa" (2001), "Vol. 3: The Subliminal Verses" (2004), and "All Hope Is Gone" (2008) with Slipknot — the band's first four studio albums, which established the rotating-riser, blast-beat-driven drumming style he is remembered for.
 
-**Q: What cymbals do Joey Jordison and Jay Weinberg use?**
-A: Joey Jordison uses Paiste RUDE & 2002 Series (14" Wild Hi-Hats, 16", 17", 18", 19" Power Crashes, 20" & 22" Wild Chinas, 22" Power Ride). Jay Weinberg uses Zildjian (14" A New Beat Hi-Hats, 18" & 19" A Custom Crashes, 21" K Custom Ride, 19" K China, 7" FX Break Bell).
+**Q: What gear does Joey Jordison use vs Jay Weinberg?**
+A: Joey Jordison played Pearl Masters Premium Maple drums with a signature 13"×6.5" Pearl snare, Paiste RUDE Series cymbals, and Pearl Demon Drive double pedals. Jay Weinberg played SJC Custom Drums with Zildjian cymbals, a DW double pedal, and Vater 5B sticks.
 
 ---
 
@@ -67,4 +67,4 @@ A: Joey Jordison uses Paiste RUDE & 2002 Series (14" Wild Hi-Hats, 16", 17", 18"
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

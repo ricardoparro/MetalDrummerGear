@@ -34,7 +34,7 @@ Hellhammer's blast beats are built on cold, relentless one-foot precision, and h
 
 ## Key Differences
 
-Hellhammer plays a Pearl Reference Series kit with a Pearl Reference snare and Zildjian A Custom cymbals (14" A Custom Hi-Hats, 17" & 19" A Custom Crashes, 20" Z Custom Dark Ride, 18" A China Boy), driven by a Pearl Demon Drive double pedal and Vic Firth American Classic 5B sticks. John Otto plays an Orange County Drum & Percussion (OCDP) Custom Type 5 Acrylic kit with dual signature OCDP snares and Zildjian A Custom cymbals, driven by Gibraltar G Class pedals — both drummers share a Zildjian A Custom cymbal foundation despite operating at opposite ends of metal's tempo and intensity spectrum. Hellhammer's blast beats are built on cold, relentless one-foot precision, and he famously plays barefoot for the direct tactile feedback he says is essential to holding tempo accuracy at extreme speeds. Otto studied jazz at the Douglas Anderson School of the Arts, using syncopated patterns and funky ghost notes over a single-pedal setup to give Limp Bizkit's grooves their distinctive pocket — a groove-first, song-serving discipline that has nothing in common with Hellhammer's machine-like speed.
+Hellhammer plays a Sonor SQ2 Heavy Beech kit with a Sonor SQ2 Heavy Beech snare and Paiste RUDE Series cymbals, driven by an Axis Double Pedal and Vic Firth American Classic 5B sticks. John Otto plays an Orange County Drum & Percussion (OCDP) Custom Type 5 Acrylic kit with dual signature OCDP snares and Zildjian A Custom cymbals, driven by Gibraltar G Class pedals — the two run entirely different cymbal setups despite operating at opposite ends of metal's tempo and intensity spectrum. Hellhammer's blast beats are built on cold, relentless one-foot precision, and he famously plays barefoot for the direct tactile feedback he says is essential to holding tempo accuracy at extreme speeds. Otto studied jazz at the Douglas Anderson School of the Arts, using syncopated patterns and funky ghost notes over a single-pedal setup to give Limp Bizkit's grooves their distinctive pocket — a groove-first, song-serving discipline that has nothing in common with Hellhammer's machine-like speed.
 
 ## Influence & Legacy
 
@@ -42,21 +42,21 @@ Hellhammer defined the sound and speed vocabulary of second-wave black metal, an
 
 ## Verdict
 
-Hellhammer and John Otto sit at opposite ends of heavy music's rhythmic spectrum, sharing a Zildjian A Custom cymbal preference but nothing else. Hellhammer built his reputation on cold, icy blast-beat precision that turned speed itself into black metal's defining texture on "De Mysteriis Dom Sathanas." Otto's hip-hop-informed pocket made Limp Bizkit's rap-metal commercially unstoppable through disciplined, song-serving restraint. The debate is mechanical, atmosphere-first extremity versus groove-first economy — both are foundational figures in their respective, wildly different corners of heavy music.
+Hellhammer and John Otto sit at opposite ends of heavy music's rhythmic spectrum, with little in common in either approach or gear. Hellhammer built his reputation on cold, icy blast-beat precision that turned speed itself into black metal's defining texture on "De Mysteriis Dom Sathanas." Otto's hip-hop-informed pocket made Limp Bizkit's rap-metal commercially unstoppable through disciplined, song-serving restraint. The debate is mechanical, atmosphere-first extremity versus groove-first economy — both are foundational figures in their respective, wildly different corners of heavy music.
 
 ## FAQ
 
-**Q: What are the main differences between Hellhammer's and John Otto's drum kits?**
-A: Hellhammer plays Sonor SQ2 Heavy Beech with Paiste cymbals, while John Otto uses Orange County Drum & Percussion (OCDP) Custom Type 5 Acrylic with Zildjian cymbals. Hellhammer plays a Pearl Reference Series kit with a Pearl Reference snare and Zildjian A Custom cymbals (14" A Custom Hi-Hats, 17" & 19" A Custom Crashes, 20" Z Custom Dark Ride, 18" A China Boy), driven by a Pearl Demon Drive double pedal and Vic Firth American Classic 5B sticks. John Otto plays an Orange County Drum & Percussion (OCDP) Custom Type 5 Acrylic kit with dual signature OCDP snares and Zildjian A Custom cymbals, driven by Gibraltar G Class pedals — both drummers share a Zildjian A Custom cymbal foundation despite operating at opposite ends of metal's tempo and intensity spectrum.
+**Q: How do Hellhammer and John Otto compare as drummers?**
+A: Hellhammer (Mayhem, Dimmu Borgir) is known for cold, relentless blast beats delivered with icy one-foot precision, defining second-wave black metal's speed vocabulary. John Otto (Limp Bizkit) is known for disciplined, jazz-and-funk-informed grooves built around a tight single-pedal pocket. Hellhammer represents extreme metal speed; Otto represents nu-metal groove and restraint.
 
-**Q: What drums does Hellhammer play vs John Otto?**
-A: Hellhammer plays Sonor SQ2 Heavy Beech. John Otto plays Orange County Drum & Percussion (OCDP) Custom Type 5 Acrylic.
+**Q: What gear do Hellhammer and John Otto use?**
+A: Hellhammer plays a Sonor SQ2 Heavy Beech kit with a Sonor SQ2 Heavy Beech snare and Paiste RUDE Series cymbals, driven by an Axis Double Pedal. John Otto plays an Orange County Drum & Percussion (OCDP) Custom Type 5 Acrylic kit with dual signature OCDP snares, Zildjian A Custom cymbals, and Gibraltar G Class pedals.
 
-**Q: Who is the better extreme / death / black metal drummer, Hellhammer or John Otto?**
-A: Both are legends in their own right. Hellhammer and John Otto sit at opposite ends of heavy music's rhythmic spectrum, sharing a Zildjian A Custom cymbal preference but nothing else. See the full analysis at [metalforge.io/vs/hellhammer-vs-john-otto](https://metalforge.io/vs/hellhammer-vs-john-otto).
+**Q: What bands are Hellhammer and John Otto known for?**
+A: Hellhammer has drummed for Mayhem since 1988 and Dimmu Borgir since 1999, alongside co-founding Arcturus. John Otto has been Limp Bizkit's drummer and founding member since 1994.
 
-**Q: What cymbals do Hellhammer and John Otto use?**
-A: Hellhammer uses Paiste (14" RUDE Hi-Hats, 18" & 19" RUDE Crashes, 20" RUDE Ride, 18" RUDE China). John Otto uses Zildjian (13" A Custom Mastersound Hi-Hats, 16" & 17" A Custom Projection Crashes, 20" A Custom EFX, 20" FX Oriental Crash of Doom).
+**Q: Does Hellhammer play barefoot?**
+A: Yes — Hellhammer famously plays barefoot, saying the direct tactile feedback is essential to holding his icy, relentless blast-beat tempo accuracy at extreme speeds with Mayhem and Dimmu Borgir. John Otto plays in standard footwear with Limp Bizkit.
 
 ---
 
@@ -67,4 +67,4 @@ A: Hellhammer uses Paiste (14" RUDE Hi-Hats, 18" & 19" RUDE Crashes, 20" RUDE Ri
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

@@ -34,7 +34,7 @@ Otto studied at the Douglas Anderson School of the Arts in Jacksonville, Florida
 
 ## Key Differences
 
-John Otto plays Pearl Masters drums with Paiste Signature Series cymbals — a groove-oriented setup that delivers the punchy, pocket-focused tones Limp Bizkit's hip-hop-metal crossover demands. Shannon Larkin endorses DW Performance Series drums with Sabian AAX cymbals — a powerful, projection-focused setup built for Godsmack's arena-scale hard rock. Otto studied at the Douglas Anderson School of the Arts in Jacksonville, Florida, bringing genuine jazz vocabulary — ghost notes, syncopated snare patterns, and hip-hop-influenced rhythmic placement — to the heavy rap-rock context that made Limp Bizkit one of the best-selling bands of the late 1990s. Larkin brings deep rock roots and heavy groove instincts to Godsmack, locking in with Tony Rombola's guitars to create the muscular, hook-driven rhythms that defined Godsmack's commercial hard rock in the 2000s and beyond.
+John Otto plays an Orange County Drum and Percussion (OCDP) custom kit with Zildjian A and A Custom cymbals — a groove-oriented setup that delivers the punchy, pocket-focused tones Limp Bizkit's hip-hop-metal crossover demands. Shannon Larkin plays a ddrum Dios Series kit with a ddrum Dios 14x6.5" Maple snare and Sabian AAX Series cymbals, powered by a DW 9000 Series double pedal and Vic Firth American Classic 5B sticks — a powerful, projection-focused setup built for Godsmack's arena-scale hard rock. Otto studied at the Douglas Anderson School of the Arts in Jacksonville, Florida, bringing genuine jazz vocabulary — ghost notes, syncopated snare patterns, and hip-hop-influenced rhythmic placement — to the heavy rap-rock context that made Limp Bizkit one of the best-selling bands of the late 1990s. Larkin brings deep rock roots and heavy groove instincts to Godsmack, locking in with Tony Rombola's guitars to create the muscular, hook-driven rhythms that defined Godsmack's commercial hard rock in the 2000s and beyond.
 
 ## Influence & Legacy
 
@@ -46,17 +46,17 @@ John Otto and Shannon Larkin are two of nu-metal and hard rock's most defining g
 
 ## FAQ
 
-**Q: What are the main differences between John Otto's and Shannon Larkin's drum kits?**
-A: John Otto plays Orange County Drum & Percussion (OCDP) Custom Type 5 Acrylic with Zildjian cymbals, while Shannon Larkin uses ddrum Dios Series with Sabian cymbals. John Otto plays Pearl Masters drums with Paiste Signature Series cymbals — a groove-oriented setup that delivers the punchy, pocket-focused tones Limp Bizkit's hip-hop-metal crossover demands. Shannon Larkin endorses DW Performance Series drums with Sabian AAX cymbals — a powerful, projection-focused setup built for Godsmack's arena-scale hard rock.
+**Q: What is the difference between John Otto and Shannon Larkin's playing styles?**
+A: John Otto (Limp Bizkit) blends jazz-educated syncopation and hip-hop ghost notes with heavy metal power. Shannon Larkin (Godsmack) plays straightforward hard rock groove with veteran authority and dynamic control. Otto is more rhythmically inventive; Larkin is more powerfully consistent.
 
-**Q: What drums does John Otto play vs Shannon Larkin?**
-A: John Otto plays Orange County Drum & Percussion (OCDP) Custom Type 5 Acrylic. Shannon Larkin plays ddrum Dios Series.
+**Q: What gear does John Otto use vs Shannon Larkin?**
+A: John Otto plays an Orange County Drum and Percussion (OCDP) custom kit with Zildjian A and A Custom cymbals. Shannon Larkin plays a ddrum Dios Series kit with a ddrum Dios 14x6.5" Maple snare, Sabian AAX Series cymbals, a DW 9000 Series double pedal, and Vic Firth American Classic 5B sticks.
 
-**Q: Who is the better alternative / nu-metal drummer, John Otto or Shannon Larkin?**
-A: Both are legends in their own right. John Otto and Shannon Larkin are two of nu-metal and hard rock's most defining groove drummers. See the full analysis at [metalforge.io/vs/john-otto-vs-shannon-larkin](https://metalforge.io/vs/john-otto-vs-shannon-larkin).
+**Q: Where did John Otto study drumming?**
+A: John Otto studied at the Douglas Anderson School of the Arts in Jacksonville, Florida — the same school that produced Limp Bizkit bandmates. His jazz education is evident in his sophisticated ghost note patterns and syncopated groove work.
 
-**Q: What cymbals do John Otto and Shannon Larkin use?**
-A: John Otto uses Zildjian (13" A Custom Mastersound Hi-Hats, 16" & 17" A Custom Projection Crashes, 20" A Custom EFX, 20" FX Oriental Crash of Doom). Shannon Larkin uses Sabian AAX & HHX Series (14" AAX Stage Hi-Hats, 18" & 19" AAX X-Plosion Crashes, 21" HHX Raw Bell Dry Ride, 10" AAX Splash, 18" AAX Chinese).
+**Q: What bands has Shannon Larkin played in?**
+A: Shannon Larkin has played with Wrathchild America, Ugly Kid Joe, Amen, and Godsmack. He joined Godsmack in 2002 and has been their drummer since, appearing on multiple platinum-selling albums.
 
 ---
 
@@ -67,4 +67,4 @@ A: John Otto uses Zildjian (13" A Custom Mastersound Hi-Hats, 16" & 17" A Custom
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

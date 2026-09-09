@@ -34,7 +34,7 @@ Ward's technique is rooted in open, swinging jazz feel inherited from heroes Gen
 
 ## Key Differences
 
-Bill Ward played a Ludwig Classic Maple kit with a Ludwig Supraphonic 14x6.5" LM402 snare and Paiste 2002 & Giant Beat Series cymbals (15" Giant Beat Hi-Hats, 18" & 20" 2002 Crashes, a 24" 2002 Ride, 18" 2002 China), driven by a single Ludwig Speed King pedal — no double bass, relying entirely on foot technique for Sabbath's early doom-laden grooves. Matt Greiner plays a Pearl Reference Pure kit in Piano Black with his own Pearl Matt Greiner Signature 14x6" Steel snare and Meinl Byzance cymbals (15" Dual Hi-Hats, 18" & 19" Extra Dry Medium Crashes, 21" Transition Ride, 18" Extra Dry China), driven by a Pearl Demon Drive double pedal and his own Vic Firth Matt Greiner Signature sticks. Ward's technique is rooted in open, swinging jazz feel inherited from heroes Gene Krupa and Buddy Rich rather than technical precision — his loose grip and behind-the-beat phrasing gave early Sabbath riffs like "Iron Man" and "War Pigs" a heavy, rolling groove that no other rock drummer of the era was playing. Greiner incorporates his own jazz-influenced dynamics, creative stacked-cymbal work, and rapid-fire double bass into metalcore's heavy foundation, weaving odd time signatures seamlessly into August Burns Red's song structures rather than showcasing them as pure technical display.
+Bill Ward played a Ludwig Classic Maple kit with a Ludwig Supraphonic 14x6.5" LM402 snare and Zildjian Avedis Series cymbals (14" Hi-Hats, 16" & 18" Crashes, 20" Ride, 18" China), driven by a single Ludwig Speed King pedal — no double bass, relying entirely on foot technique for Sabbath's early doom-laden grooves. Matt Greiner plays a Mapex Black Panther Design Lab kit with his own Pearl Matt Greiner Signature 14x6" Steel snare and Paiste Formula 602 cymbals, driven by a DW 9000 Series double pedal and his own Vic Firth Matt Greiner Signature sticks. Ward's technique is rooted in open, swinging jazz feel inherited from heroes Gene Krupa and Buddy Rich rather than technical precision — his loose grip and behind-the-beat phrasing gave early Sabbath riffs like "Iron Man" and "War Pigs" a heavy, rolling groove that no other rock drummer of the era was playing. Greiner incorporates his own jazz-influenced dynamics, creative stacked-cymbal work, and rapid-fire double bass into metalcore's heavy foundation, weaving odd time signatures seamlessly into August Burns Red's song structures rather than showcasing them as pure technical display.
 
 ## Influence & Legacy
 
@@ -46,17 +46,17 @@ Bill Ward and Matt Greiner represent two foundational, cross-era pillars of meta
 
 ## FAQ
 
-**Q: What are the main differences between Bill Ward's and Matt Greiner's drum kits?**
-A: Bill Ward plays Ludwig Classic Maple with Paiste cymbals, while Matt Greiner uses Mapex Black Panther Design Lab with Paiste cymbals. Bill Ward played a Ludwig Classic Maple kit with a Ludwig Supraphonic 14x6.5" LM402 snare and Paiste 2002 & Giant Beat Series cymbals (15" Giant Beat Hi-Hats, 18" & 20" 2002 Crashes, a 24" 2002 Ride, 18" 2002 China), driven by a single Ludwig Speed King pedal — no double bass, relying entirely on foot technique for Sabbath's early doom-laden grooves. Matt Greiner plays a Pearl Reference Pure kit in Piano Black with his own Pearl Matt Greiner Signature 14x6" Steel snare and Meinl Byzance cymbals (15" Dual Hi-Hats, 18" & 19" Extra Dry Medium Crashes, 21" Transition Ride, 18" Extra Dry China), driven by a Pearl Demon Drive double pedal and his own Vic Firth Matt Greiner Signature sticks.
+**Q: How do Bill Ward and Matt Greiner compare as drummers?**
+A: Bill Ward co-founded Black Sabbath in 1968 and helped invent heavy metal drumming's jazz-influenced, swinging groove on foundational records like "Paranoid" (1970). Matt Greiner co-founded August Burns Red in 2003 and brings jazz-informed dynamics and technical precision to Grammy-nominated metalcore. Ward founded the genre's rhythmic vocabulary; Greiner represents its jazz-rooted modern technical evolution.
 
-**Q: What drums does Bill Ward play vs Matt Greiner?**
-A: Bill Ward plays Ludwig Classic Maple. Matt Greiner plays Mapex Black Panther Design Lab.
+**Q: What gear do Bill Ward and Matt Greiner use?**
+A: Bill Ward played a Ludwig Classic Maple kit with a Ludwig Supraphonic 14x6.5" LM402 snare and Zildjian Avedis Series cymbals, driven by a single Ludwig Speed King pedal — no double bass. Matt Greiner plays a Mapex Black Panther Design Lab kit with his own signature Pearl 14x6" Steel snare and Paiste Formula 602 cymbals, driven by a DW 9000 Series double pedal.
 
-**Q: Who is the better alternative / nu-metal drummer, Bill Ward or Matt Greiner?**
-A: Both are legends in their own right. Bill Ward and Matt Greiner represent two foundational, cross-era pillars of metal drumming built on the same jazz roots. See the full analysis at [metalforge.io/vs/bill-ward-vs-matt-greiner](https://metalforge.io/vs/bill-ward-vs-matt-greiner).
+**Q: What bands are Bill Ward and Matt Greiner known for?**
+A: Bill Ward co-founded and drummed for Black Sabbath from 1968 to 1983, and again from 1997 to 2006. Matt Greiner co-founded metalcore band August Burns Red in 2003 and remains the band's drummer.
 
-**Q: What cymbals do Bill Ward and Matt Greiner use?**
-A: Bill Ward uses Paiste 2002 & Giant Beat Series (15" Giant Beat Hi-Hats, 18" & 20" 2002 Crashes, 24" 2002 Ride, 18" 2002 China). Matt Greiner uses Paiste Formula 602 (14" Hi-Hats, 16"/17"/18" Crashes, 22" Ride, 18" China, 10" Splash).
+**Q: Has August Burns Red or Matt Greiner won a Grammy?**
+A: Matt Greiner and August Burns Red have not won a Grammy, but the band received Grammy nominations for Best Metal Performance in 2016 and 2020, recognition that reflects Greiner's jazz-informed technical reputation within metalcore.
 
 ---
 
@@ -67,4 +67,4 @@ A: Bill Ward uses Paiste 2002 & Giant Beat Series (15" Giant Beat Hi-Hats, 18" &
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

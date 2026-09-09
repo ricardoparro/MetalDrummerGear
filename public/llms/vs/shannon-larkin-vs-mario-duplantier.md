@@ -34,7 +34,7 @@ Larkin's technique is built for solid, powerful grooves and dynamic fills rather
 
 ## Key Differences
 
-Shannon Larkin plays a Pearl Reference Pure kit with a Pearl Reference 14x6.5" Brass snare and Sabian AAX Series cymbals (14" Stage Hi-Hats, 18" & 19" X-Plosion Crashes, 21" Raw Bell Dry Ride, 18" AAX Chinese), driven by a Pearl Demon Drive double pedal and his own Promark Shannon Larkin Signature sticks. Mario Duplantier plays a Tama Starclassic Walnut/Birch kit with a Tama S.L.P. 14x6" G-Maple snare and Meinl Byzance Series cymbals (14" Dark Hi-Hats, 18" & 20" Brilliant Heavy Hammered Crashes, 21" Transition Ride, 18" Extra Dry China), powered by a Tama Iron Cobra 900 Power Glide double pedal. Larkin's technique is built for solid, powerful grooves and dynamic fills rather than technical flash, giving Godsmack's riffs their driving, radio-ready hard rock weight across two decades of multi-platinum records. Duplantier's technique blends raw power with polyrhythmic complexity and a tribal, ceremonial quality, locking into Gojira's tuned, resonant guitar tones with explosive fills and odd-meter grooves that push progressive death metal's tuned-percussion attack forward.
+Shannon Larkin plays a ddrum Dios Series kit with a ddrum Dios 14x6.5" Maple snare and Sabian AAX Series cymbals (14" Stage Hi-Hats, 18" & 19" X-Plosion Crashes, 21" Raw Bell Dry Ride, 18" AAX Chinese), driven by a DW 9000 Series double pedal and Vic Firth American Classic 5B sticks. Mario Duplantier plays a Tama Starclassic Walnut/Birch kit with a Tama S.L.P. 14x6" G-Maple snare and a Zildjian A Custom/K Custom cymbal array, powered by a Tama Iron Cobra 900 Power Glide double pedal. Larkin's technique is built for solid, powerful grooves and dynamic fills rather than technical flash, giving Godsmack's riffs their driving, radio-ready hard rock weight across two decades of multi-platinum records. Duplantier's technique blends raw power with polyrhythmic complexity and a tribal, ceremonial quality, locking into Gojira's tuned, resonant guitar tones with explosive fills and odd-meter grooves that push progressive death metal's tuned-percussion attack forward.
 
 ## Influence & Legacy
 
@@ -46,17 +46,17 @@ Shannon Larkin and Mario Duplantier represent two distinct strands of modern met
 
 ## FAQ
 
-**Q: What are the main differences between Shannon Larkin's and Mario Duplantier's drum kits?**
-A: Shannon Larkin plays ddrum Dios Series with Sabian cymbals, while Mario Duplantier uses Tama Starclassic Bubinga (22"x18" Bass Drums x2, 12"x9" & 13"x10" Toms, 16"x16" Floor Tom) with Zildjian cymbals. Shannon Larkin plays a Pearl Reference Pure kit with a Pearl Reference 14x6.5" Brass snare and Sabian AAX Series cymbals (14" Stage Hi-Hats, 18" & 19" X-Plosion Crashes, 21" Raw Bell Dry Ride, 18" AAX Chinese), driven by a Pearl Demon Drive double pedal and his own Promark Shannon Larkin Signature sticks. Mario Duplantier plays a Tama Starclassic Walnut/Birch kit with a Tama S.L.P. 14x6" G-Maple snare and Meinl Byzance Series cymbals (14" Dark Hi-Hats, 18" & 20" Brilliant Heavy Hammered Crashes, 21" Transition Ride, 18" Extra Dry China), powered by a Tama Iron Cobra 900 Power Glide double pedal.
+**Q: How do Shannon Larkin and Mario Duplantier compare as drummers?**
+A: Shannon Larkin built Godsmack's hard rock sound on solid, powerful grooves across more than two decades as the band's drummer from 2002 to 2024. Mario Duplantier co-founded Gojira in 1996 and drives the band's tuned-percussion, polyrhythmic groove with crushing double bass patterns.
 
-**Q: What drums does Shannon Larkin play vs Mario Duplantier?**
-A: Shannon Larkin plays ddrum Dios Series. Mario Duplantier plays Tama Starclassic Bubinga (22"x18" Bass Drums x2, 12"x9" & 13"x10" Toms, 16"x16" Floor Tom).
+**Q: What gear do Shannon Larkin and Mario Duplantier use?**
+A: Shannon Larkin plays a ddrum Dios Series kit with a ddrum Dios 14x6.5" Maple snare and Sabian AAX Series cymbals, driven by a DW 9000 Series double pedal and Vic Firth American Classic 5B sticks. Mario Duplantier plays a Tama Starclassic Walnut/Birch kit with a Tama S.L.P. 14x6" G-Maple snare and a Zildjian A Custom/K Custom cymbal array, powered by a Tama Iron Cobra 900 Power Glide double pedal.
 
-**Q: Who is the better alternative / nu-metal drummer, Shannon Larkin or Mario Duplantier?**
-A: Both are legends in their own right. Shannon Larkin and Mario Duplantier represent two distinct strands of modern metal drumming. See the full analysis at [metalforge.io/vs/shannon-larkin-vs-mario-duplantier](https://metalforge.io/vs/shannon-larkin-vs-mario-duplantier).
+**Q: What bands are Shannon Larkin and Mario Duplantier known for?**
+A: Shannon Larkin drummed for Godsmack from 2002 to 2024, and earlier played with Ugly Kid Joe, Wrathchild America, Amen, and Candlebox. Mario Duplantier co-founded Gojira with his brother Joe Duplantier in 1996 and remains the band's drummer.
 
-**Q: What cymbals do Shannon Larkin and Mario Duplantier use?**
-A: Shannon Larkin uses Sabian AAX & HHX Series (14" AAX Stage Hi-Hats, 18" & 19" AAX X-Plosion Crashes, 21" HHX Raw Bell Dry Ride, 10" AAX Splash, 18" AAX Chinese). Mario Duplantier uses Zildjian (14" K Sweet Hi-Hats, 14" A Custom Hi-Hats, 18" K Custom Hybrid Crash, 19" A Custom Crash, 20" K Sweet Crash, 21" Z Custom Mega Bell Ride, 18" & 20" Chinas).
+**Q: Does Shannon Larkin have a signature stick line?**
+A: Yes — Shannon Larkin has his own Promark Shannon Larkin Signature drumstick model, reflecting his standing as one of hard rock's most recognizable drummers.
 
 ---
 
@@ -67,4 +67,4 @@ A: Shannon Larkin uses Sabian AAX & HHX Series (14" AAX Stage Hi-Hats, 18" & 19"
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

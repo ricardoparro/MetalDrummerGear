@@ -19,7 +19,7 @@ Megadeth's Nick Menza (Rust in Peace era) vs Dirk Verbeuren (The Sick, the Dying
 ## Dirk Verbeuren Setup
 
 - **Drums:** Tama Starclassic Walnut/Birch
-- **Cymbals:** Zildjian A Custom & K Custom Series (14" A Custom Hi-Hats, 17", 18", 19" A Custom Crashes, 21" K Custom Hybrid Ride, 18" K China)
+- **Cymbals:** Meinl Byzance Brilliant & Classics Custom Dark Series (14" Byzance Brilliant Hi-Hat, 18"-21" Classics Custom Dark Crashes, 22" Byzance Brilliant Ride, 18" Byzance Brilliant China)
 - **Snare:** Tama S.L.P. Big Black Steel 14x6.5"
 - **Pedals/Hardware:** Tama Speed Cobra 910 Double Pedal, Tama Iron Cobra Hi-Hat Stand
 - **Sticks:** Tama O-DVM2 Dirk Verbeuren Signature
@@ -34,7 +34,7 @@ Menza combined powerful single and double bass work with aggressive fills and th
 
 ## Key Differences
 
-Nick Menza played a Pearl Masters Series kit with a Pearl Free-Floating 14x6.5" steel snare and Zildjian A Series cymbals, driven by a Pearl double pedal, throughout his classic Megadeth tenure. Dirk Verbeuren plays a Tama Starclassic Walnut/Birch kit with a Tama S.L.P. Big Black Steel 14x6.5" snare and Zildjian A Custom & K Custom Series cymbals, powered by a Tama Iron Cobra 910 double pedal and his own Zildjian signature sticks. Menza combined powerful single and double bass work with aggressive fills and the driving pocket that made Megadeth's 1990–1994 material so punishing, keeping his parts locked to the song rather than showcasing technical excess. Verbeuren applies his Soilwork-trained technical metal vocabulary to Megadeth's thrash framework — seamlessly shifting from groove thrash to blast-beat-driven extreme speed within the same song, giving him a broader stylistic range than the classic-era drum chair traditionally required.
+Nick Menza played a Pearl Reference Custom kit with Sabian AA / Signature Series cymbals and Vater Nick Menza Signature sticks in his final "Cryptic Writings" (1997) Megadeth era, driven by a Tama Iron Cobra Double Pedal. Dirk Verbeuren plays a Tama Starclassic Walnut/Birch kit with a Tama S.L.P. Big Black Steel 14x6.5" snare and Meinl Byzance Brilliant & Classics Custom Dark cymbals, powered by a Tama Speed Cobra 910 double pedal and his own Tama signature sticks. Menza combined powerful single and double bass work with aggressive fills and the driving pocket that made Megadeth's 1990–1994 material so punishing, keeping his parts locked to the song rather than showcasing technical excess. Verbeuren applies his Soilwork-trained technical metal vocabulary to Megadeth's thrash framework — seamlessly shifting from groove thrash to blast-beat-driven extreme speed within the same song, giving him a broader stylistic range than the classic-era drum chair traditionally required.
 
 ## Influence & Legacy
 
@@ -46,17 +46,17 @@ Nick Menza's "Rust in Peace" drumming is one of thrash metal's defining performa
 
 ## FAQ
 
-**Q: What are the main differences between Nick Menza's and Dirk Verbeuren's drum kits?**
-A: Nick Menza plays Tama Swingstar with Zildjian cymbals, while Dirk Verbeuren uses Tama Starclassic Walnut/Birch with Zildjian cymbals. Nick Menza played a Pearl Masters Series kit with a Pearl Free-Floating 14x6.5" steel snare and Zildjian A Series cymbals, driven by a Pearl double pedal, throughout his classic Megadeth tenure. Dirk Verbeuren plays a Tama Starclassic Walnut/Birch kit with a Tama S.L.P. Big Black Steel 14x6.5" snare and Zildjian A Custom & K Custom Series cymbals, powered by a Tama Iron Cobra 910 double pedal and his own Zildjian signature sticks.
+**Q: What are the main differences between Nick Menza's and Dirk Verbeuren's drumming styles in Megadeth?**
+A: Nick Menza played aggressive thrash metal with powerful double bass, driving grooves, and classic fills that defined Megadeth's 1990s golden era. Dirk Verbeuren brings European technical extreme metal precision — blast beats, mathematical double bass speed, and modern metal technique — to Megadeth's current material. Nick was the thrash powerhouse; Dirk is the technical precisionist.
 
 **Q: What drums does Nick Menza play vs Dirk Verbeuren?**
-A: Nick Menza plays Tama Swingstar. Dirk Verbeuren plays Tama Starclassic Walnut/Birch.
+A: Nick Menza played Pearl Reference Custom drums with Sabian AA / Signature Series cymbals in his final Megadeth era. Dirk Verbeuren plays Tama Starclassic Walnut/Birch drums with Meinl Byzance Brilliant and Classics Custom Dark cymbals — the endorsements differ across the two Megadeth eras.
 
-**Q: Who is the better thrash metal drummer, Nick Menza or Dirk Verbeuren?**
-A: Both are legends in their own right. Nick Menza's "Rust in Peace" drumming is one of thrash metal's defining performances — raw, powerful, and perfectly matched to Megadeth's most celebrated material across a nine-year run that shaped the band's golden era. See the full analysis at [metalforge.io/vs/nick-menza-vs-dirk-verbeuren](https://metalforge.io/vs/nick-menza-vs-dirk-verbeuren).
+**Q: Which Megadeth drummer is better — Nick Menza or Dirk Verbeuren?**
+A: Both are excellent for different reasons. Nick Menza's work on "Rust in Peace" and "Countdown to Extinction" represents peak thrash metal drumming with raw power and perfect song service. Dirk Verbeuren's Grammy-nominated "The Sick, the Dying... and the Dead!" work demonstrates broader technical range and modern metal capabilities.
 
-**Q: What cymbals do Nick Menza and Dirk Verbeuren use?**
-A: Nick Menza uses Zildjian A Series (14" A Hi-Hats, 16" & 18" A Crash, 20" A Ride). Dirk Verbeuren uses Zildjian A Custom & K Custom Series (14" A Custom Hi-Hats, 17", 18", 19" A Custom Crashes, 21" K Custom Hybrid Ride, 18" K China).
+**Q: What album best showcases Dirk Verbeuren's drumming with Megadeth?**
+A: "The Sick, the Dying... and the Dead!" (2022) is Dirk Verbeuren's actual studio debut with Megadeth and showcases his technical range across the album's thrash passages. Megadeth's prior album, "Dystopia" (2016), won the Grammy for Best Metal Performance, but its drum parts were recorded entirely by Chris Adler — Verbeuren joined the band's touring lineup that same year but did not play on that recording.
 
 ---
 
@@ -67,4 +67,4 @@ A: Nick Menza uses Zildjian A Series (14" A Hi-Hats, 16" & 18" A Crash, 20" A Ri
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

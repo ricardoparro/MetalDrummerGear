@@ -34,7 +34,7 @@ Hellhammer's blast beats are built on cold, relentless one-foot precision, and h
 
 ## Key Differences
 
-Hellhammer plays a Pearl Reference Series kit with a Pearl Reference snare and Zildjian A Custom cymbals (14" A Custom Hi-Hats, 17" & 19" A Custom Crashes, 20" Z Custom Dark Ride, 18" A China Boy), driven by a Pearl Demon Drive double pedal and Vic Firth American Classic 5B sticks — an evolution from the developing-endorsement Pearl kit and Ludwig Acrolite snare he used on "De Mysteriis Dom Sathanas." Ward played a Ludwig Classic Maple kit with a Ludwig Supraphonic 14x6.5" LM402 snare and Paiste 2002 & Giant Beat Series cymbals, including a massive 24" 2002 Ride, driven by a single Ludwig Speed King pedal. Hellhammer's blast beats are built on cold, relentless one-foot precision, and he famously plays barefoot for the direct tactile feedback he says is essential to holding tempo accuracy at extreme speeds. Ward's technique came from jazz — a loose, open-handed feel inherited from Gene Krupa and Buddy Rich that prioritized dynamics and space over raw velocity, and he never reached for a double pedal in his career, generating Sabbath's early heaviness entirely through single-pedal technique and touch.
+Hellhammer plays a Sonor SQ2 Heavy Beech kit with a Sonor SQ2 Heavy Beech snare and Paiste RUDE Series cymbals, driven by an Axis Double Pedal and Vic Firth American Classic 5B sticks — an evolution from the developing-endorsement Sonor kit and Ludwig Acrolite snare he used on "De Mysteriis Dom Sathanas." Ward played a Ludwig Classic Maple kit with a Ludwig Supraphonic 14x6.5" LM402 snare and Zildjian Avedis Series cymbals, including a 20" ride, driven by a single Ludwig Speed King pedal. Hellhammer's blast beats are built on cold, relentless one-foot precision, and he famously plays barefoot for the direct tactile feedback he says is essential to holding tempo accuracy at extreme speeds. Ward's technique came from jazz — a loose, open-handed feel inherited from Gene Krupa and Buddy Rich that prioritized dynamics and space over raw velocity, and he never reached for a double pedal in his career, generating Sabbath's early heaviness entirely through single-pedal technique and touch.
 
 ## Influence & Legacy
 
@@ -46,17 +46,17 @@ Hellhammer and Bill Ward sit at opposite ends of heavy metal drumming's evolutio
 
 ## FAQ
 
-**Q: What are the main differences between Hellhammer's and Bill Ward's drum kits?**
-A: Hellhammer plays Sonor SQ2 Heavy Beech with Paiste cymbals, while Bill Ward uses Ludwig Classic Maple with Paiste cymbals. Hellhammer plays a Pearl Reference Series kit with a Pearl Reference snare and Zildjian A Custom cymbals (14" A Custom Hi-Hats, 17" & 19" A Custom Crashes, 20" Z Custom Dark Ride, 18" A China Boy), driven by a Pearl Demon Drive double pedal and Vic Firth American Classic 5B sticks — an evolution from the developing-endorsement Pearl kit and Ludwig Acrolite snare he used on "De Mysteriis Dom Sathanas." Ward played a Ludwig Classic Maple kit with a Ludwig Supraphonic 14x6.5" LM402 snare and Paiste 2002 & Giant Beat Series cymbals, including a massive 24" 2002 Ride, driven by a single Ludwig Speed King pedal.
+**Q: How do Hellhammer and Bill Ward compare as drummers?**
+A: Hellhammer has driven Mayhem's black metal since 1988, delivering the genre-defining blast beats on "De Mysteriis Dom Sathanas" (1994). Bill Ward co-founded Black Sabbath in 1968 and, drawing on jazz influences like Gene Krupa and Buddy Rich, invented the swinging, dynamic rhythmic feel that became heavy metal's rhythmic foundation. Hellhammer represents extreme metal's speed ceiling; Ward represents the genre's founding groove.
 
-**Q: What drums does Hellhammer play vs Bill Ward?**
-A: Hellhammer plays Sonor SQ2 Heavy Beech. Bill Ward plays Ludwig Classic Maple.
+**Q: What bands have Hellhammer and Bill Ward played in?**
+A: Hellhammer has drummed for Mayhem since 1988 and Dimmu Borgir since 1999, alongside stints in Arcturus and Shining. Bill Ward co-founded and drummed for Black Sabbath from 1968 to 1983, and again from 1997 to 2006.
 
-**Q: Who is the better extreme / death / black metal drummer, Hellhammer or Bill Ward?**
-A: Both are legends in their own right. Hellhammer and Bill Ward sit at opposite ends of heavy metal drumming's evolution, separated by genre and generation but linked by the same instinct to push the instrument's expressive limits. See the full analysis at [metalforge.io/vs/hellhammer-vs-bill-ward](https://metalforge.io/vs/hellhammer-vs-bill-ward).
+**Q: What gear do Hellhammer and Bill Ward use?**
+A: Hellhammer plays a Sonor SQ2 Heavy Beech kit with a Sonor SQ2 Heavy Beech snare and Paiste RUDE Series cymbals, driven by an Axis Double Pedal. Bill Ward played a Ludwig Classic Maple kit with a Ludwig Supraphonic 14x6.5" LM402 snare and Zildjian Avedis Series cymbals, using only a single Ludwig Speed King pedal throughout his career.
 
-**Q: What cymbals do Hellhammer and Bill Ward use?**
-A: Hellhammer uses Paiste (14" RUDE Hi-Hats, 18" & 19" RUDE Crashes, 20" RUDE Ride, 18" RUDE China). Bill Ward uses Paiste 2002 & Giant Beat Series (15" Giant Beat Hi-Hats, 18" & 20" 2002 Crashes, 24" 2002 Ride, 18" 2002 China).
+**Q: Did Bill Ward ever use a double bass pedal?**
+A: No. Bill Ward built Black Sabbath's foundational heaviness entirely with a single Ludwig Speed King pedal, relying on touch, tuning, and jazz-informed technique rather than extra hardware — a contrast to Hellhammer, who has used an Axis Double Pedal throughout his career with Mayhem and Dimmu Borgir.
 
 ---
 
@@ -67,4 +67,4 @@ A: Hellhammer uses Paiste (14" RUDE Hi-Hats, 18" & 19" RUDE Crashes, 20" RUDE Ri
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

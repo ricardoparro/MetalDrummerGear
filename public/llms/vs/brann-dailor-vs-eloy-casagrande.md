@@ -46,17 +46,14 @@ Brann Dailor and Eloy Casagrande represent two generations and two philosophies 
 
 ## FAQ
 
-**Q: What are the main differences between Brann Dailor's and Eloy Casagrande's drum kits?**
-A: Brann Dailor plays Tama Starclassic Performer B/B with Meinl cymbals, while Eloy Casagrande uses Tama Starclassic Bubinga (22"x16" & 24"x14" Bass Drums, 10", 12", 13" Toms, 16" & 18" Floor Toms) with Paiste cymbals. Brann Dailor plays Tama Starclassic Performer B/B drums with Meinl Byzance cymbals and Vater 5B sticks — a warm, musical setup suited to Mastodon's progressive sludge sound. Eloy Casagrande plays Tama Starclassic Maple drums with Paiste cymbals and Tama Iron Cobra double pedals — a powerhouse setup suited to Slipknot's aggressive, percussion-heavy sound.
+**Q: What is the main difference between Brann Dailor and Eloy Casagrande's playing styles?**
+A: Brann Dailor plays with constant motion and jazz-influenced melodic fills — his drumming is compositionally complex and integral to Mastodon's identity. Eloy Casagrande plays with groove-first thrash authority and powerful double bass — his drumming is defined by locked-in precision and the versatility to adapt across styles and tempos.
 
-**Q: What drums does Brann Dailor play vs Eloy Casagrande?**
-A: Brann Dailor plays Tama Starclassic Performer B/B. Eloy Casagrande plays Tama Starclassic Bubinga (22"x16" & 24"x14" Bass Drums, 10", 12", 13" Toms, 16" & 18" Floor Toms).
+**Q: What gear does Brann Dailor use vs Eloy Casagrande?**
+A: Brann Dailor plays Tama Starclassic Performer B/B drums with Meinl Byzance cymbals and Vater 5B sticks. Eloy Casagrande plays Tama Starclassic Maple drums with Paiste cymbals and Tama Iron Cobra double pedals.
 
-**Q: Who is the better progressive metal drummer, Brann Dailor or Eloy Casagrande?**
-A: Both are legends in their own right. Brann Dailor and Eloy Casagrande represent two generations and two philosophies of metal drumming excellence. See the full analysis at [metalforge.io/vs/brann-dailor-vs-eloy-casagrande](https://metalforge.io/vs/brann-dailor-vs-eloy-casagrande).
-
-**Q: What cymbals do Brann Dailor and Eloy Casagrande use?**
-A: Brann Dailor uses Meinl Byzance Series (14" Dark Hi-Hats, 18" & 19" Brilliant Heavy Hammered Crashes, 21" Ghost Ride, 18" Extra Dry China). Eloy Casagrande uses Paiste (15" Masters Dark Hi-Hats, 20" Masters Dark Ride, 20" & 20" 602 Crashes, 10" Rude Splash, 20" Masters Dark Crash, 20" 2002 Heavy Ride, 20" 2002 Novo China, 10" 2002 Mega Bell, Symphonic Gong).
+**Q: Why did Eloy Casagrande join Slipknot?**
+A: Eloy Casagrande joined Slipknot in 2024 after departing Sepultura. His thrash metal roots, technical precision, and ability to handle a vast and demanding catalog made him the natural choice for one of the most scrutinized drum chairs in metal history.
 
 ---
 
@@ -67,4 +64,4 @@ A: Brann Dailor uses Meinl Byzance Series (14" Dark Hi-Hats, 18" & 19" Brilliant
 
 ---
 
-*Last updated: 2026-08-22 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

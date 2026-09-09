@@ -1,6 +1,6 @@
 # Morgan Ågren vs Mike Mangini — Drum Kit Comparison
 
-> Side-by-side gear comparison between Morgan Ågren (Mats/Morgan Band / Kaipa / Fredrik Thordendal's Special Defects) and Mike Mangini (Dream Theater).
+> Side-by-side gear comparison between Morgan Ågren (Mats/Morgan Band / Kaipa / Fredrik Thordendal's Special Defects) and Mike Mangini (Godsmack (2026-present); Dream Theater (2010-2023)).
 
 **Category:** Progressive Metal · **URL:** https://metalforge.io/vs/morgan-agren-vs-mike-mangini
 
@@ -46,17 +46,17 @@ Morgan Ågren and Mike Mangini both sit at the technical extreme of progressive 
 
 ## FAQ
 
-**Q: What are the main differences between Morgan Ågren's and Mike Mangini's drum kits?**
-A: Morgan Ågren plays Sonor SQ2 Designer Series with Paiste cymbals, while Mike Mangini uses Pearl Reference Series with Sabian cymbals. Morgan Ågren plays a Sonor SQ2 Designer Series kit with a Sonor Designer 14x5.5" maple snare and Paiste Signature & 2002 Series cymbals (14" Signature Heavy Hi-Hats, 18" & 20" Signature Fast Crashes, 22" Signature Dry Heavy Ride, 18" 2002 China), powered by a Sonor Giant Step double pedal and Vic Firth American Classic 5A sticks. Mike Mangini plays a Pearl Reference Series kit with 14x5" and 14x6.5" Pearl Reference brass snares and Sabian HHX & AAX Series cymbals (14" HHX Evolution Hi-Hats, 17", 18", and 19" HHX Evolution Crashes, 21" HHX Raw Bell Dry Ride), integrating a Roland SPD-SX sampling pad and Pearl Demon Drive double pedals, with his own Vic Firth Mike Mangini Signature sticks.
+**Q: Who is the more technical drummer: Morgan Ågren or Mike Mangini?**
+A: Both are benchmark technical drummers but in different disciplines. Morgan Ågren is known for extreme four-limb independence and polyrhythmic complexity built through decades of jazz-fusion and Frank Zappa-tradition performance. Mike Mangini holds multiple world records for drumming speed and applies that velocity to Dream Theater's dense progressive metal compositions. Discipline preference determines the winner.
 
-**Q: What drums does Morgan Ågren play vs Mike Mangini?**
-A: Morgan Ågren plays Sonor SQ2 Designer Series. Mike Mangini plays Pearl Reference Series.
+**Q: What gear do Morgan Ågren and Mike Mangini use?**
+A: Morgan Ågren plays a Sonor SQ2 Designer Series kit with a Sonor Designer maple snare and Paiste Signature & 2002 Series cymbals. Mike Mangini plays a Pearl Reference Series kit with Pearl Reference brass snares and Sabian HHX & AAX Series cymbals, integrating a Roland SPD-SX sampling pad.
 
-**Q: Who is the better progressive metal drummer, Morgan Ågren or Mike Mangini?**
-A: Both are legends in their own right. Morgan Ågren and Mike Mangini both sit at the technical extreme of progressive drumming, but from different disciplines. See the full analysis at [metalforge.io/vs/morgan-agren-vs-mike-mangini](https://metalforge.io/vs/morgan-agren-vs-mike-mangini).
+**Q: What bands are Morgan Ågren and Mike Mangini known for?**
+A: Morgan Ågren co-founded the Mats/Morgan Band in 1981 and has played with Kaipa since 2002, also collaborating with Frank Zappa's family and Meshuggah's Fredrik Thordendal. Mike Mangini drummed for Dream Theater from 2010 to 2023, and previously played with Steve Vai, Extreme, and Annihilator.
 
-**Q: What cymbals do Morgan Ågren and Mike Mangini use?**
-A: Morgan Ågren uses Paiste Signature & 2002 Series (14" Signature Heavy Hi-Hats, 18" & 20" Signature Fast Crashes, 22" Signature Dry Heavy Ride, 18" 2002 China). Mike Mangini uses Sabian HHX & AAX Series (14" HHX Evolution Hi-Hats, 17", 18", 19" HHX Evolution Crashes, 21" HHX Raw Bell Dry Ride).
+**Q: Does Mike Mangini still play in Dream Theater?**
+A: No — Mike Mangini drummed for Dream Theater from 2010 to 2023, when the band announced the return of founding drummer Mike Portnoy. Mangini continues to record and perform as a solo artist and clinician.
 
 ---
 
@@ -67,4 +67,4 @@ A: Morgan Ågren uses Paiste Signature & 2002 Series (14" Signature Heavy Hi-Hat
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

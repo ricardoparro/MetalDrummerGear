@@ -46,17 +46,17 @@ Jocke Wallgren and Daray sit at different points on extreme metal's speed-versus
 
 ## FAQ
 
-**Q: What are the main differences between Jocke Wallgren's and Daray's drum kits?**
-A: Jocke Wallgren plays Pearl Reference Pure with Zildjian cymbals, while Daray uses Pearl Masterworks Stadium Exotic with Paiste cymbals. Jocke plays a Pearl Reference Pure kit with a 14x6.5" brass Pearl Reference snare, Zildjian A Custom & K Custom Series cymbals (14" A Custom Hi-Hats, 18" & 19" A Custom Crashes, 21" K Custom Ride), and a Pearl Demon Drive double pedal. Daray plays a Pearl Masterworks Stadium Exotic kit with a Pearl Reference 14x5.5" Brass snare, Paiste RUDE & 2002 Series cymbals (14" RUDE Hi-Hats, 17" & 18" RUDE Crashes, 22" RUDE Power Ride), and a Pearl Demon XR double pedal.
+**Q: Who is technically more skilled, Jocke Wallgren or Daray?**
+A: Both are accomplished drummers from different corners of extreme metal. Jocke Wallgren's skill set is rooted in groove-oriented, double-bass-driven melodic death metal that powers Amon Amarth's Viking anthems. Daray's skill set is rooted in raw blast-beat speed and technical precision across two demanding chairs in Vader and Dimmu Borgir.
 
-**Q: What drums does Jocke Wallgren play vs Daray?**
-A: Jocke Wallgren plays Pearl Reference Pure. Daray plays Pearl Masterworks Stadium Exotic.
+**Q: What is each drummer's signature technique?**
+A: Jocke Wallgren's signature is powerful, groove-oriented double bass patterns that drive Amon Amarth's galloping riffs. Daray's signature is rapid-fire blast-beat double bass work delivered through a Pearl Demon XR double pedal, applied across both stripped-down death metal and orchestrated black metal.
 
-**Q: Who is the better extreme / death / black metal drummer, Jocke Wallgren or Daray?**
-A: Both are legends in their own right. Jocke Wallgren and Daray sit at different points on extreme metal's speed-versus-groove spectrum. See the full analysis at [metalforge.io/vs/jocke-wallgren-vs-daray](https://metalforge.io/vs/jocke-wallgren-vs-daray).
+**Q: What bands have Jocke Wallgren and Daray played in?**
+A: Jocke Wallgren has drummed for Swedish melodic death metal band Amon Amarth since 2016, replacing Fredrik Andersson. Daray played in Polish death metal band Vader from 2006 to 2016 and has drummed for Norwegian symphonic black metal band Dimmu Borgir since 2008.
 
-**Q: What cymbals do Jocke Wallgren and Daray use?**
-A: Jocke Wallgren uses Zildjian A Custom & K Custom Series (14" A Custom Hi-Hats, 18" & 19" A Custom Crashes, 21" K Custom Ride). Daray uses Paiste RUDE & 2002 Series (14" RUDE Hi-Hats, 17" & 18" RUDE Crashes, 22" RUDE Power Ride).
+**Q: What gear do Jocke Wallgren and Daray use?**
+A: Jocke Wallgren plays a Pearl Reference Pure kit with a 14x6.5" brass Pearl Reference snare and Zildjian A Custom & K Custom Series cymbals, driven by a Pearl Demon Drive double pedal. Daray plays a Pearl Masterworks Stadium Exotic kit with a Pearl Reference 14x5.5" Brass snare and Paiste RUDE & 2002 Series cymbals, driven by a Pearl Demon XR double pedal.
 
 ---
 
@@ -67,4 +67,4 @@ A: Jocke Wallgren uses Zildjian A Custom & K Custom Series (14" A Custom Hi-Hats
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

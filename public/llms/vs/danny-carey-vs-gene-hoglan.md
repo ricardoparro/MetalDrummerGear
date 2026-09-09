@@ -11,7 +11,7 @@ Tool's Danny Carey vs Gene "The Atomic Clock" Hoglan. Progressive-metal polyrhyt
 ## Danny Carey Setup
 
 - **Drums:** Sonor SQ2 Heavy Beech
-- **Cymbals:** Paiste Signature Series (15" Sound Edge Hi-Hats, 18" & 19" Power Crashes, 22" Dry Heavy Ride, 20" & 22" Chinas, various Rude crashes)
+- **Cymbals:** Paiste Signature Series (14" Sound Edge Hi-Hats, 18" & 20" Power Crashes, 22" Dry Heavy Ride "Monad", 2002 & Signature China cymbals)
 - **Snare:** Sonor Danny Carey Signature 14x8" Bronze
 - **Pedals/Hardware:** Sonor Giant Step Twin Effect Double Pedal, Sonor Drummer Throne, Mandala Drum electronic pads
 - **Sticks:** Vic Firth Danny Carey Signature
@@ -46,17 +46,17 @@ Danny Carey and Gene Hoglan are both widely cited as the most technically respec
 
 ## FAQ
 
-**Q: What are the main differences between Danny Carey's and Gene Hoglan's drum kits?**
-A: Danny Carey plays Sonor SQ2 Heavy Beech with Paiste cymbals, while Gene Hoglan uses Pearl Reference Pure with Sabian cymbals. Carey plays a Sonor SQ2 Heavy Beech kit with a Sonor Danny Carey Signature 14x8" Bronze snare and Paiste Signature Series cymbals, driven by a Sonor Giant Step Twin Effect double pedal and Mandala Drum electronic pads. Hoglan plays a Pearl Reference Pure kit with a Pearl Reference 14x6.5" Brass snare and Sabian AAX Series cymbals, powered by a Pearl Demon Drive double pedal.
+**Q: What is the difference between Danny Carey's and Gene Hoglan's drumming styles?**
+A: Danny Carey favors spacious, deliberate polyrhythmic construction and unusual time signatures within Tool's progressive metal. Gene Hoglan favors inhuman timing consistency and his signature gravity blast technique, sustaining speed and precision across extreme metal's most demanding tempos.
 
-**Q: What drums does Danny Carey play vs Gene Hoglan?**
-A: Danny Carey plays Sonor SQ2 Heavy Beech. Gene Hoglan plays Pearl Reference Pure.
+**Q: What gear does Danny Carey use vs Gene Hoglan?**
+A: Danny Carey plays a Sonor SQ2 Heavy Beech kit with a Sonor Danny Carey Signature 14x8" Bronze snare and Paiste Signature Series cymbals. Gene Hoglan plays a Pearl Reference Pure kit with a Pearl Reference 14x6.5" Brass snare and Sabian AAX Series cymbals.
 
-**Q: Who is the better progressive metal drummer, Danny Carey or Gene Hoglan?**
-A: Both are legends in their own right. Danny Carey and Gene Hoglan are both widely cited as the most technically respected drummers in their respective lanes. See the full analysis at [metalforge.io/vs/danny-carey-vs-gene-hoglan](https://metalforge.io/vs/danny-carey-vs-gene-hoglan).
+**Q: Why is Gene Hoglan called "The Atomic Clock"?**
+A: Gene Hoglan earned the nickname "The Atomic Clock" for his precise, machine-like timing consistency, a hallmark of his drumming across Death, Dark Angel, Testament, Strapping Young Lad, and Dethklok.
 
-**Q: What cymbals do Danny Carey and Gene Hoglan use?**
-A: Danny Carey uses Paiste Signature Series (15" Sound Edge Hi-Hats, 18" & 19" Power Crashes, 22" Dry Heavy Ride, 20" & 22" Chinas, various Rude crashes). Gene Hoglan uses Sabian AAX Series (15" Hi-Hats, 18" & 20" Crashes, 22" Ride, 20" China).
+**Q: What bands has Gene Hoglan played drums for?**
+A: Gene Hoglan has played drums for Death, Dark Angel, Testament, Strapping Young Lad, Fear Factory, and Dethklok, making him one of extreme metal's most prolific and respected session and touring drummers.
 
 ---
 
@@ -67,4 +67,4 @@ A: Danny Carey uses Paiste Signature Series (15" Sound Edge Hi-Hats, 18" & 19" P
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

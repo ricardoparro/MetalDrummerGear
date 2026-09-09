@@ -10,16 +10,16 @@ Dream Theater's Mike Portnoy vs Tool's Danny Carey. Progressive metal drumming, 
 
 ## Mike Portnoy Setup
 
-- **Drums:** Tama Starclassic Maple/Birch
-- **Cymbals:** Sabian HHX Series (14" Evolution Hi-Hats, 18" & 19" Evolution Crashes, 21" Raw Bell Dry Ride, 10" & 12" Evolution Splashes, 19" O-Zone Crash)
+- **Drums:** Tama Starclassic Maple + Starclassic Bubinga ("Dream Monster" dual kit)
+- **Cymbals:** Sabian HHX MAX / AAX MAXX Series (22" HHX MAX Ride, 18" AAX X-Plosion Crash, 19" HHX X-Plosion Crash, 18" AAX O-Zone Crash, 18" HHX Chinese, 19" Paragon Chinese, 7"/9"/11" AAX MAXX Splashes, 6"/6.5"/7" AA MAX Chimes)
 - **Snare:** Tama Mike Portnoy Signature Melody Master 14x5.5"
-- **Pedals/Hardware:** Tama Iron Cobra Power Glide Double Pedal, Tama 1st Chair Ergo-Rider Throne
+- **Pedals/Hardware:** Tama Iron Cobra Power Glide Twin Pedal (HP900PSW)
 - **Sticks:** Promark Mike Portnoy Signature TX420N
 
 ## Danny Carey Setup
 
 - **Drums:** Sonor SQ2 Heavy Beech
-- **Cymbals:** Paiste Signature Series (15" Sound Edge Hi-Hats, 18" & 19" Power Crashes, 22" Dry Heavy Ride, 20" & 22" Chinas, various Rude crashes)
+- **Cymbals:** Paiste Signature Series (14" Sound Edge Hi-Hats, 18" & 20" Power Crashes, 22" Dry Heavy Ride "Monad", 2002 & Signature China cymbals)
 - **Snare:** Sonor Danny Carey Signature 14x8" Bronze
 - **Pedals/Hardware:** Sonor Giant Step Twin Effect Double Pedal, Sonor Drummer Throne, Mandala Drum electronic pads
 - **Sticks:** Vic Firth Danny Carey Signature
@@ -47,16 +47,16 @@ Mike Portnoy epitomizes technical progressive metal. Danny Carey represents arti
 ## FAQ
 
 **Q: What are the main differences between Mike Portnoy's and Danny Carey's drum kits?**
-A: Mike Portnoy plays Tama Starclassic Maple/Birch with Sabian cymbals, while Danny Carey uses Sonor SQ2 Heavy Beech with Paiste cymbals. Mike plays Tama drums with Sabian cymbals. Danny uses Sonor drums with Paiste cymbals, including custom Mandala pads.
+A: Mike Portnoy plays Tama Starclassic Maple + Starclassic Bubinga ("Dream Monster" dual kit) with Sabian cymbals, while Danny Carey uses Sonor SQ2 Heavy Beech with Paiste cymbals. Mike plays Tama drums with Sabian cymbals. Danny uses Sonor drums with Paiste cymbals, including custom Mandala pads.
 
 **Q: What drums does Mike Portnoy play vs Danny Carey?**
-A: Mike Portnoy plays Tama Starclassic Maple/Birch. Danny Carey plays Sonor SQ2 Heavy Beech.
+A: Mike Portnoy plays Tama Starclassic Maple + Starclassic Bubinga ("Dream Monster" dual kit). Danny Carey plays Sonor SQ2 Heavy Beech.
 
 **Q: Who is the better progressive metal drummer, Mike Portnoy or Danny Carey?**
 A: Both are legends in their own right. Mike Portnoy epitomizes technical progressive metal. See the full analysis at [metalforge.io/vs/mike-portnoy-vs-danny-carey](https://metalforge.io/vs/mike-portnoy-vs-danny-carey).
 
 **Q: What cymbals do Mike Portnoy and Danny Carey use?**
-A: Mike Portnoy uses Sabian HHX Series (14" Evolution Hi-Hats, 18" & 19" Evolution Crashes, 21" Raw Bell Dry Ride, 10" & 12" Evolution Splashes, 19" O-Zone Crash). Danny Carey uses Paiste Signature Series (15" Sound Edge Hi-Hats, 18" & 19" Power Crashes, 22" Dry Heavy Ride, 20" & 22" Chinas, various Rude crashes).
+A: Mike Portnoy uses Sabian HHX MAX / AAX MAXX Series (22" HHX MAX Ride, 18" AAX X-Plosion Crash, 19" HHX X-Plosion Crash, 18" AAX O-Zone Crash, 18" HHX Chinese, 19" Paragon Chinese, 7"/9"/11" AAX MAXX Splashes, 6"/6.5"/7" AA MAX Chimes). Danny Carey uses Paiste Signature Series (14" Sound Edge Hi-Hats, 18" & 20" Power Crashes, 22" Dry Heavy Ride "Monad", 2002 & Signature China cymbals).
 
 ---
 
@@ -67,4 +67,4 @@ A: Mike Portnoy uses Sabian HHX Series (14" Evolution Hi-Hats, 18" & 19" Evoluti
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

@@ -46,17 +46,17 @@ Jaska Raatikainen and Gavin Harrison represent two very different philosophies o
 
 ## FAQ
 
-**Q: What are the main differences between Jaska Raatikainen's and Gavin Harrison's drum kits?**
-A: Jaska Raatikainen plays Pearl Masters Premium Maple with Zildjian cymbals, while Gavin Harrison uses Sonor SQ2 Series with Zildjian cymbals. Raatikainen played a Pearl Masters Premium Maple kit with a Pearl Masters 14x5.5" Maple snare and Zildjian A Custom & K Custom Series cymbals (14" A Custom Hi-Hats, 17" & 18" A Custom Crashes, 20" K Custom Ride, 18" China), powered by a Pearl Eliminator double pedal and Vic Firth American Classic 5A sticks. Harrison plays a Sonor SQ2 kit with thin maple shells and a 22"x17" bass drum, his own Sonor Gavin Harrison Signature brass snares, and Zildjian K Custom Special Dry cymbals developed specifically with him, anchored by a 21" Special Dry Ride, plus Vic Firth signature sticks.
+**Q: Who is more technical: Jaska Raatikainen or Gavin Harrison?**
+A: Both are considered elite technicians in their respective genres. Jaska Raatikainen (Children of Bodom) built his reputation on clean, locked-in double bass and precise blast beats at extreme tempos. Gavin Harrison (Porcupine Tree, King Crimson) is renowned for ghost-note density and odd-time polyrhythmic control delivered with restraint. Raatikainen's technicality is speed-and-precision-based; Harrison's is space-and-groove-based.
 
-**Q: What drums does Jaska Raatikainen play vs Gavin Harrison?**
-A: Jaska Raatikainen plays Pearl Masters Premium Maple. Gavin Harrison plays Sonor SQ2 Series.
+**Q: What gear do Jaska Raatikainen and Gavin Harrison use?**
+A: Jaska Raatikainen played a Pearl Masters Premium Maple kit with a Pearl Masters 14x5.5" Maple snare and Zildjian A Custom & K Custom cymbals, powered by a Pearl Eliminator double pedal. Gavin Harrison plays a Sonor SQ2 kit with thin maple shells, his own Sonor Gavin Harrison Signature snares, and Zildjian K Custom Special Dry cymbals.
 
-**Q: Who is the better progressive metal drummer, Jaska Raatikainen or Gavin Harrison?**
-A: Both are legends in their own right. Jaska Raatikainen and Gavin Harrison represent two very different philosophies of precision. See the full analysis at [metalforge.io/vs/jaska-raatikainen-vs-gavin-harrison](https://metalforge.io/vs/jaska-raatikainen-vs-gavin-harrison).
+**Q: How long was Jaska Raatikainen in Children of Bodom?**
+A: Jaska Raatikainen co-founded Children of Bodom in 1993 and remained the band's sole drummer for its entire 26-year run, from their 1997 debut "Something Wild" through their 2019 farewell album "Hexed."
 
-**Q: What cymbals do Jaska Raatikainen and Gavin Harrison use?**
-A: Jaska Raatikainen uses Zildjian A Custom & K Custom Series (14" A Custom Hi-Hats, 17" & 18" A Custom Crashes, 20" K Custom Ride). Gavin Harrison uses Zildjian K Custom Special Dry Series (14" Hi-Hats, 16" & 18" Crashes, 21" Special Dry Ride, 18" Trash China).
+**Q: What bands are Jaska Raatikainen and Gavin Harrison known for?**
+A: Jaska Raatikainen was the co-founding drummer of Finnish melodic death metal band Children of Bodom from 1993 until the band's 2019 dissolution. Gavin Harrison is best known for Porcupine Tree (since 2002) and King Crimson's three-drummer lineup (since 2008), and also plays with The Pineapple Thief.
 
 ---
 
@@ -67,4 +67,4 @@ A: Jaska Raatikainen uses Zildjian A Custom & K Custom Series (14" A Custom Hi-H
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

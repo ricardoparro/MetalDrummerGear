@@ -34,7 +34,7 @@ Bent's technical death metal background gave him the tools to blend extreme blas
 
 ## Key Differences
 
-Alex Bent played a Pearl Reference Series kit in Matte Black with a Pearl Reference 14x6.5" Maple/Birch snare and Meinl Byzance Brilliant Series cymbals (14" Medium Hi-Hats, 16", 18" & 19" Medium Thin Crashes, 21" Medium Ride, 18" China), powered by Axis Percussion double pedals favored for extreme speed and precision. Jason Bittner plays a Tama Starclassic Performer B/B kit with a Tama Starphonic Steel 14x6.5" snare and Sabian HHX/HH Series cymbals (14" HHX Hi-Hats, 16" & 18" HHX Crashes, 20" HH Ride), driven by a DW 9002 double bass pedal and Vic Firth 5B sticks — a durable, power-oriented rig built for Overkill's relentless touring schedule. Bent's technical death metal background gave him the tools to blend extreme blast beats and intricate fills with the melodic accessibility Trivium's modern metal songwriting demands, a versatility built through drum competitions and jazz band training before he ever joined a signed act. Bittner's technique is built on powerful, driving double bass and tight, punchy snare work that translates seamlessly between metalcore's breakdown-driven aggression and Overkill's classic thrash gallop — a groove-first, road-tested consistency shaped by influences like Dave Lombardo, Nicko McBrain, and Vinnie Paul rather than technical showcase playing.
+Alex Bent played a TAMA Starclassic Maple kit in Matte Black with a TAMA Starclassic Maple 14x5" snare and Zildjian K Custom Hybrid cymbals (14" Hi-Hats, 16", 18" & 19" Crashes, 21" Ride, 18" China), powered by Axis Percussion double pedals favored for extreme speed and precision. Jason Bittner plays a Mapex Saturn V kit with Zildjian K and A Custom Series cymbals, driven by a Mapex Falcon double pedal and ProMark Jason Bittner Signature 5BX sticks — a durable, power-oriented rig built for Overkill's relentless touring schedule. Bent's technical death metal background gave him the tools to blend extreme blast beats and intricate fills with the melodic accessibility Trivium's modern metal songwriting demands, a versatility built through drum competitions and jazz band training before he ever joined a signed act. Bittner's technique is built on powerful, driving double bass and tight, punchy snare work that translates seamlessly between metalcore's breakdown-driven aggression and Overkill's classic thrash gallop — a groove-first, road-tested consistency shaped by influences like Dave Lombardo, Nicko McBrain, and Vinnie Paul rather than technical showcase playing.
 
 ## Influence & Legacy
 
@@ -46,17 +46,17 @@ Alex Bent and Jason Bittner represent NWOAHM-adjacent drumming from two differen
 
 ## FAQ
 
-**Q: What are the main differences between Alex Bent's and Jason Bittner's drum kits?**
-A: Alex Bent plays Pearl Reference Pure Series with Zildjian cymbals, while Jason Bittner uses Mapex Saturn V with Zildjian cymbals. Alex Bent played a Pearl Reference Series kit in Matte Black with a Pearl Reference 14x6.5" Maple/Birch snare and Meinl Byzance Brilliant Series cymbals (14" Medium Hi-Hats, 16", 18" & 19" Medium Thin Crashes, 21" Medium Ride, 18" China), powered by Axis Percussion double pedals favored for extreme speed and precision. Jason Bittner plays a Tama Starclassic Performer B/B kit with a Tama Starphonic Steel 14x6.5" snare and Sabian HHX/HH Series cymbals (14" HHX Hi-Hats, 16" & 18" HHX Crashes, 20" HH Ride), driven by a DW 9002 double bass pedal and Vic Firth 5B sticks — a durable, power-oriented rig built for Overkill's relentless touring schedule.
+**Q: Who is the better NWOAHM drummer, Alex Bent or Jason Bittner?**
+A: Both represent NWOAHM-adjacent metal from different angles. Alex Bent (ex-Trivium) brought technical death metal blast beats and intricate fills to modern metalcore across four albums from 2017-2025. Jason Bittner (Overkill, ex-Shadows Fall) built his reputation on powerful, groove-first double bass and tight snare work across Shadows Fall's metalcore peak and Overkill's thrash catalog. Bent wins on technical complexity; Bittner wins on genre-spanning consistency and longevity.
 
-**Q: What drums does Alex Bent play vs Jason Bittner?**
-A: Alex Bent plays Pearl Reference Pure Series. Jason Bittner plays Mapex Saturn V.
+**Q: What bands did Jason Bittner and Alex Bent play in?**
+A: Jason Bittner played in Shadows Fall (1999-2015), Flotsam and Jetsam (2013-2017), and has drummed for Overkill since 2017. Alex Bent played in Brain Drill, Arkaik, Battlecross, and Dragonlord before joining Trivium in 2017, departing in October 2025 after nine years and four studio albums.
 
-**Q: Who is the better thrash metal drummer, Alex Bent or Jason Bittner?**
-A: Both are legends in their own right. Alex Bent and Jason Bittner represent NWOAHM-adjacent drumming from two different generations and angles. See the full analysis at [metalforge.io/vs/alex-bent-vs-jason-bittner](https://metalforge.io/vs/alex-bent-vs-jason-bittner).
+**Q: What gear do Alex Bent and Jason Bittner use?**
+A: Alex Bent played a TAMA Starclassic Maple kit with a TAMA Starclassic Maple snare and Zildjian K Custom Hybrid cymbals, powered by Axis Percussion double pedals. Jason Bittner plays a Mapex Saturn V kit with Zildjian K and A Custom Series cymbals, driven by a Mapex Falcon double pedal.
 
-**Q: What cymbals do Alex Bent and Jason Bittner use?**
-A: Alex Bent uses Zildjian (14" K Custom Hybrid Hi-Hats, 18" & 19" K Custom Hybrid Crashes, 21" K Custom Hybrid Ride, 18" A Custom China). Jason Bittner uses Zildjian K & A Custom Series (14" K Hi-Hats, 18" & 19" A Custom Crashes, 21" K Custom Ride, 18" K China).
+**Q: Is Alex Bent still in Trivium?**
+A: No — Alex Bent departed Trivium in October 2025 after nine years and four studio albums, including "The Sin and the Sentence" (2017) and "Struck Dead" (2025). Jason Bittner remains Overkill's drummer, a role he has held since 2017.
 
 ---
 
@@ -67,4 +67,4 @@ A: Alex Bent uses Zildjian (14" K Custom Hybrid Hi-Hats, 18" & 19" K Custom Hybr
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

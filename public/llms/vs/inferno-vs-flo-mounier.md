@@ -46,17 +46,14 @@ Inferno and Flo Mounier are the blast-beat kings of their respective corners of 
 
 ## FAQ
 
-**Q: What are the main differences between Inferno's and Flo Mounier's drum kits?**
-A: Inferno plays Pearl Masterworks with Paiste cymbals, while Flo Mounier uses Pearl Masters Maple Complete with Sabian cymbals. Inferno plays Pearl Reference Pure drums with Paiste Signature/2002 cymbals — a powerful, high-endurance setup that translates Behemoth's massive live sound. Flo Mounier uses a Tama Starclassic kit with Sabian cymbals, a combination built for the precise, cutting response his technical death metal demands.
+**Q: Who is faster: Inferno or Flo Mounier?**
+A: Both push the limits of human drumming. Flo set records with None So Vile blast tempos; Inferno's endurance across brutal live sets is legendary.
 
-**Q: What drums does Inferno play vs Flo Mounier?**
-A: Inferno plays Pearl Masterworks. Flo Mounier plays Pearl Masters Maple Complete.
+**Q: What kits do Inferno and Flo Mounier use?**
+A: Inferno plays a Pearl Reference Pure kit with Paiste cymbals; Flo uses a Tama Starclassic kit with Sabian cymbals.
 
-**Q: Who is the better extreme / death / black metal drummer, Inferno or Flo Mounier?**
-A: Both are legends in their own right. Inferno and Flo Mounier are the blast-beat kings of their respective corners of extreme metal. See the full analysis at [metalforge.io/vs/inferno-vs-flo-mounier](https://metalforge.io/vs/inferno-vs-flo-mounier).
-
-**Q: What cymbals do Inferno and Flo Mounier use?**
-A: Inferno uses Paiste RUDE Series (14" Hi-Hats, 14" Blast China, 18" & 19" Crashes, 24" Mega Power Ride, 18" China). Flo Mounier uses Sabian AAX & HHX Series (14" HHX Stage Hi-Hats, 17" & 18" AAX X-Plosion Crashes, 21" HHX Raw Bell Dry Ride, 18" AAXtreme China).
+**Q: Which drummer has more technical diversity?**
+A: Flo Mounier has more jazz and groove crossover; Inferno excels in controlled brutality and live consistency across extreme tempos.
 
 ---
 
@@ -67,4 +64,4 @@ A: Inferno uses Paiste RUDE Series (14" Hi-Hats, 14" Blast China, 18" & 19" Cras
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

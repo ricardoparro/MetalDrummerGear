@@ -46,17 +46,17 @@ This is less a rivalry than a generational handoff. Chris Adler spent 25 years b
 
 ## FAQ
 
-**Q: What are the main differences between Chris Adler's and Art Cruz's drum kits?**
-A: Chris Adler plays Mapex Black Panther Design Lab with Meinl cymbals, while Art Cruz uses Ludwig Drums with Zildjian cymbals. Chris Adler played a Mapex Black Panther Design Lab kit with his Mapex Chris Adler Signature 14x5.5" Walnut/Maple snare and Meinl Byzance Series cymbals, including the Extra Dry China that became a Lamb of God sonic signature, driven by a Mapex Falcon double pedal. Art Cruz plays Ludwig Drums with a Ludwig 14"x6.5" Black Beauty snare and Zildjian A Custom & K Series cymbals, driven by a Trick Pro 1-V Bigfoot double pedal for fast, ergonomic footwork.
+**Q: Who is technically more skilled, Chris Adler or Art Cruz?**
+A: Both are elite technicians in different registers. Chris Adler is generally credited with more innovation — his ride-bell technique and syncopated kick patterning created a new groove metal vocabulary studied worldwide. Art Cruz brings a broader technical base from deathcore and thrash (blast beats, extreme speed) and has proven he can execute Adler's complex parts note-for-note while adding his own power, but he has not yet originated a signature technique on Adler's level.
 
-**Q: What drums does Chris Adler play vs Art Cruz?**
-A: Chris Adler plays Mapex Black Panther Design Lab. Art Cruz plays Ludwig Drums.
+**Q: What is each drummer's signature technique?**
+A: Chris Adler's signature is riding the cymbal bell with his right hand instead of the hi-hat while his left foot handles independent hi-hat accents — a technique that drives Lamb of God's syncopated, riff-locked grooves. Art Cruz's signature is his deathcore-forged blast-beat foundation and front-of-the-beat power attack, which he blends into Lamb of God's groove metal framework.
 
-**Q: Who is the better alternative / nu-metal drummer, Chris Adler or Art Cruz?**
-A: Both are legends in their own right. This is less a rivalry than a generational handoff. See the full analysis at [metalforge.io/vs/chris-adler-vs-art-cruz](https://metalforge.io/vs/chris-adler-vs-art-cruz).
+**Q: Why did Art Cruz replace Chris Adler in Lamb of God?**
+A: Chris Adler stepped away from Lamb of God in 2019 after 25 years, following a period in which arm injury and other factors limited his availability. Art Cruz had already been filling in on tour since 2018 and was named the band's permanent drummer in 2019, debuting on the self-titled "Lamb of God" (2020).
 
-**Q: What cymbals do Chris Adler and Art Cruz use?**
-A: Chris Adler uses Meinl Byzance Series (14" Dark Hi-Hats, 18" & 19" Dark Crashes, 21" Transition Ride, 18" Extra Dry China). Art Cruz uses Zildjian (14" A Custom Mastersound Hi-Hats, 18" A Custom EFX, 18" A Custom Medium Crash, 19" A Custom Projection Crash, 20" A Custom Crash, 21" A Zildjian Mega Bell Ride, 19" A Ultra Hammered Chinas, 17" K China w/ EFX Holes, 9" FX Trash Splashes, FX Blast Bell).
+**Q: What gear do Chris Adler and Art Cruz use?**
+A: Chris Adler played a Mapex Black Panther Design Lab kit with a Mapex Chris Adler Signature 14x5.5" snare and Meinl Byzance cymbals. Art Cruz plays Ludwig Drums with a Ludwig 14"x6.5" Black Beauty snare and Zildjian A Custom & K Series cymbals, driven by a Trick Pro 1-V Bigfoot double pedal.
 
 ---
 
@@ -67,4 +67,4 @@ A: Chris Adler uses Meinl Byzance Series (14" Dark Hi-Hats, 18" & 19" Dark Crash
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

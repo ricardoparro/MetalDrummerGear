@@ -22,7 +22,7 @@ Cryptopsy's Flo Mounier vs Nile's George Kollias. The ultimate technical death m
 - **Cymbals:** Zildjian (14" K Mastersound Hi-Hats, 17" & 18" K Custom Dark Crashes, 21" A Custom Mega Bell Ride, 18" China)
 - **Snare:** Pearl George Kollias Signature 14x6.5"
 - **Pedals/Hardware:** Pearl Demon XR Double Pedal (Co-designed), Pearl D-3000 Throne
-- **Sticks:** Vic Firth George Kollias Signature SGK
+- **Sticks:** Vic Firth
 
 ## Playing Style
 
@@ -46,17 +46,17 @@ Flo Mounier and George Kollias are the two great speed kings of technical death 
 
 ## FAQ
 
-**Q: What are the main differences between Flo Mounier's and George Kollias's drum kits?**
-A: Flo Mounier plays Pearl Masters Maple Complete with Sabian cymbals, while George Kollias uses Pearl Masterworks Stadium Exotic (Piano Black with Gold Hardware) with Zildjian cymbals. Flo Mounier plays Tama Starclassic Maple drums with Sabian AAX & HHX Series cymbals (14" HHX Stage Hi-Hats, 17" & 18" AAX X-Plosion Crashes, 21" HHX Raw Bell Dry Ride) and Tama Iron Cobra 900 double pedals. George Kollias plays Pearl Masterworks Stadium Exotic drums with Zildjian K and A Custom cymbals and the Pearl Demon XR double pedal — co-designed for the extreme-tempo double bass demands of Nile's compositions.
+**Q: Who is faster: Flo Mounier or George Kollias?**
+A: Both are among the fastest drummers in metal history. Flo Mounier's gravity blast technique on None So Vile set records for extreme blast beat velocity. George Kollias sustains 280+ BPM heel-toe blast beats across full-length Nile compositions. Mounier is considered faster at peak velocity; Kollias is renowned for sustaining extreme tempos longer.
 
-**Q: What drums does Flo Mounier play vs George Kollias?**
-A: Flo Mounier plays Pearl Masters Maple Complete. George Kollias plays Pearl Masterworks Stadium Exotic (Piano Black with Gold Hardware).
+**Q: What is the difference between gravity blast and heel-toe technique?**
+A: A gravity blast uses stick momentum and rebound to achieve extreme speed without muscular force — Flo Mounier's speciality. Heel-toe technique applies to the bass drum pedal, using the heel and toe of the foot in sequence to double the number of strokes per pedal motion — George Kollias's speciality for extreme double bass speed.
 
-**Q: Who is the better extreme / death / black metal drummer, Flo Mounier or George Kollias?**
-A: Both are legends in their own right. Flo Mounier and George Kollias are the two great speed kings of technical death metal drumming. See the full analysis at [metalforge.io/vs/flo-mounier-vs-george-kollias](https://metalforge.io/vs/flo-mounier-vs-george-kollias).
+**Q: What gear do Flo Mounier and George Kollias use?**
+A: Flo Mounier plays Tama Starclassic Maple drums with Sabian AAX & HHX cymbals and Tama Iron Cobra 900 double pedals. George Kollias plays Pearl Masterworks Stadium Exotic drums with Zildjian K and A Custom cymbals and the Pearl Demon XR double pedal, which he co-designed for extreme speed.
 
-**Q: What cymbals do Flo Mounier and George Kollias use?**
-A: Flo Mounier uses Sabian AAX & HHX Series (14" HHX Stage Hi-Hats, 17" & 18" AAX X-Plosion Crashes, 21" HHX Raw Bell Dry Ride, 18" AAXtreme China). George Kollias uses Zildjian (14" K Mastersound Hi-Hats, 17" & 18" K Custom Dark Crashes, 21" A Custom Mega Bell Ride, 18" China).
+**Q: Which album best represents Flo Mounier's drumming?**
+A: Cryptopsy's None So Vile (1996) is universally considered Flo Mounier's definitive performance — one of the most technically demanding drum recordings in extreme metal history, combining gravity blast velocity with jazz-influenced ghost notes and complex fills.
 
 ---
 
@@ -67,4 +67,4 @@ A: Flo Mounier uses Sabian AAX & HHX Series (14" HHX Stage Hi-Hats, 17" & 18" AA
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

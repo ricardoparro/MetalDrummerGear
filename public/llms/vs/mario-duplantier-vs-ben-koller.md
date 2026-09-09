@@ -34,7 +34,7 @@ Duplantier's technique blends raw power with polyrhythmic complexity and an unmi
 
 ## Key Differences
 
-Mario Duplantier plays a Tama Starclassic Walnut/Birch kit with a Tama S.L.P. 14x6" G-Maple snare and Meinl Byzance Series cymbals (14" Dark Hi-Hats, 18" & 20" Brilliant Heavy Hammered Crashes, 21" Transition Ride, 18" Extra Dry China), powered by a Tama Iron Cobra 900 Power Glide double pedal and Vic Firth X5A sticks. Ben Koller plays a Tama Starclassic Maple kit with a Tama S.L.P. 14x6" Brass snare and Zildjian K Dark Series cymbals (14" K Dark Thin Hi-Hats, 18" & 19" K Dark Medium Thin Crashes, 21" K Custom Ride, 18" K China), driven by a Tama Iron Cobra 900 double pedal and Vic Firth American Classic 5B sticks. Duplantier's technique blends raw power with polyrhythmic complexity and an unmistakable tribal sensibility, often locking into Gojira's tuned, resonant guitar tones with explosive fills and odd-meter grooves that feel organic and composed rather than mechanical. Koller's technique is built for maximum unpredictability — a loose, explosive attack that thrives on Converge's constantly shifting time signatures and sudden dynamic swings, favoring gut-level feel over rehearsed precision, which is exactly what gives Converge's mathcore its dangerous, live-wire energy.
+Mario Duplantier plays a Tama Starclassic Walnut/Birch kit with a Tama S.L.P. 14x6" G-Maple snare and a Zildjian A Custom/K Custom cymbal array, powered by a Tama Iron Cobra 900 Power Glide double pedal and Tama Mario Duplantier Signature sticks. Ben Koller plays a Tama Starclassic Maple kit with a Tama S.L.P. 14x6" Brass snare and Zildjian K Dark Series cymbals (14" K Dark Thin Hi-Hats, 18" & 19" K Dark Medium Thin Crashes, 21" K Custom Ride, 18" K China), driven by a Tama Iron Cobra 900 double pedal and Vic Firth American Classic 5B sticks. Duplantier's technique blends raw power with polyrhythmic complexity and an unmistakable tribal sensibility, often locking into Gojira's tuned, resonant guitar tones with explosive fills and odd-meter grooves that feel organic and composed rather than mechanical. Koller's technique is built for maximum unpredictability — a loose, explosive attack that thrives on Converge's constantly shifting time signatures and sudden dynamic swings, favoring gut-level feel over rehearsed precision, which is exactly what gives Converge's mathcore its dangerous, live-wire energy.
 
 ## Influence & Legacy
 
@@ -46,17 +46,17 @@ Mario Duplantier and Ben Koller both share a Tama Starclassic foundation yet arr
 
 ## FAQ
 
-**Q: What are the main differences between Mario Duplantier's and Ben Koller's drum kits?**
-A: Mario Duplantier plays Tama Starclassic Bubinga (22"x18" Bass Drums x2, 12"x9" & 13"x10" Toms, 16"x16" Floor Tom) with Zildjian cymbals, while Ben Koller uses Tama Starclassic Maple with Zildjian cymbals. Mario Duplantier plays a Tama Starclassic Walnut/Birch kit with a Tama S.L.P. 14x6" G-Maple snare and Meinl Byzance Series cymbals (14" Dark Hi-Hats, 18" & 20" Brilliant Heavy Hammered Crashes, 21" Transition Ride, 18" Extra Dry China), powered by a Tama Iron Cobra 900 Power Glide double pedal and Vic Firth X5A sticks. Ben Koller plays a Tama Starclassic Maple kit with a Tama S.L.P. 14x6" Brass snare and Zildjian K Dark Series cymbals (14" K Dark Thin Hi-Hats, 18" & 19" K Dark Medium Thin Crashes, 21" K Custom Ride, 18" K China), driven by a Tama Iron Cobra 900 double pedal and Vic Firth American Classic 5B sticks.
+**Q: How do Mario Duplantier and Ben Koller compare as drummers?**
+A: Mario Duplantier (Gojira) blends crushing double bass with tribal, polyrhythmic structures across progressive death metal albums like "Magma" (2016). Ben Koller (Converge) channels a loose, explosive, unpredictable attack into mathcore's constantly shifting time signatures, most notably on "Jane Doe" (2001). Duplantier's complexity is composed and organic; Koller's is visceral and chaotic.
 
-**Q: What drums does Mario Duplantier play vs Ben Koller?**
-A: Mario Duplantier plays Tama Starclassic Bubinga (22"x18" Bass Drums x2, 12"x9" & 13"x10" Toms, 16"x16" Floor Tom). Ben Koller plays Tama Starclassic Maple.
+**Q: What gear do Mario Duplantier and Ben Koller use?**
+A: Mario Duplantier plays a Tama Starclassic Walnut/Birch kit with a Tama S.L.P. 14x6" G-Maple snare and a Zildjian A Custom/K Custom cymbal array, powered by a Tama Iron Cobra 900 Power Glide double pedal. Ben Koller plays a Tama Starclassic Maple kit with a Tama S.L.P. 14x6" Brass snare and Zildjian K Dark Series cymbals, driven by a Tama Iron Cobra 900 double pedal.
 
-**Q: Who is the better progressive metal drummer, Mario Duplantier or Ben Koller?**
-A: Both are legends in their own right. Mario Duplantier and Ben Koller both share a Tama Starclassic foundation yet arrive at heaviness from opposite instincts. See the full analysis at [metalforge.io/vs/mario-duplantier-vs-ben-koller](https://metalforge.io/vs/mario-duplantier-vs-ben-koller).
+**Q: What bands are Mario Duplantier and Ben Koller known for?**
+A: Mario Duplantier co-founded Gojira with his brother Joe Duplantier in 1996 and remains the band's drummer. Ben Koller has drummed for Converge since 1999, and also plays in Mutoid Man and Killer Be Killed.
 
-**Q: What cymbals do Mario Duplantier and Ben Koller use?**
-A: Mario Duplantier uses Zildjian (14" K Sweet Hi-Hats, 14" A Custom Hi-Hats, 18" K Custom Hybrid Crash, 19" A Custom Crash, 20" K Sweet Crash, 21" Z Custom Mega Bell Ride, 18" & 20" Chinas). Ben Koller uses Zildjian (14" K Dark Thin Hi-Hats, 18" & 19" K Dark Medium Thin Crashes, 21" K Custom Ride, 18" K China).
+**Q: What albums showcase Mario Duplantier's and Ben Koller's best work?**
+A: Mario Duplantier's landmark records with Gojira include "From Mars to Sirius" (2005), "L'Enfant Sauvage" (2012), and "Magma" (2016). Ben Koller's most acclaimed work is Converge's "Jane Doe" (2001), widely regarded as a genre-defining mathcore record, along with "Axe to Fall" (2009) and "The Dusk in Us" (2017).
 
 ---
 
@@ -67,4 +67,4 @@ A: Mario Duplantier uses Zildjian (14" K Sweet Hi-Hats, 14" A Custom Hi-Hats, 18
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

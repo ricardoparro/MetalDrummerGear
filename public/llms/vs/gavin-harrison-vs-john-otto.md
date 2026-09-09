@@ -46,17 +46,17 @@ Gavin Harrison and John Otto both draw on jazz training, yet arrive at opposite 
 
 ## FAQ
 
-**Q: What are the main differences between Gavin Harrison's and John Otto's drum kits?**
-A: Gavin Harrison plays Sonor SQ2 Series with Zildjian cymbals, while John Otto uses Orange County Drum & Percussion (OCDP) Custom Type 5 Acrylic with Zildjian cymbals. Gavin Harrison plays a Sonor SQ2 kit with thin maple shells, his own Sonor Gavin Harrison Signature 14x5.25" brass snare, and Zildjian K Custom Special Dry cymbals developed in direct collaboration with him, paired with his Vic Firth Gavin Harrison Signature stick. John Otto plays an Orange County Drum & Percussion (OCDP) Custom Type 5 Acrylic kit with dual signature OCDP snares and Zildjian A Custom cymbals, driven by Gibraltar G Class pedals — Harrison's dry, articulate rig favors restraint, while Otto's acrylic shells and single-pedal setup are built for cutting through Limp Bizkit's dense rap-metal mix.
+**Q: How do Gavin Harrison and John Otto compare as drummers?**
+A: Gavin Harrison (Porcupine Tree, King Crimson) is known for meticulous polyrhythmic layering and ghost-note precision across odd time signatures. John Otto (Limp Bizkit) is known for disciplined, jazz-and-funk-informed grooves built around a tight single-pedal pocket. Both trained in jazz, but Harrison channels it into composed complexity while Otto channels it into song-serving restraint.
 
-**Q: What drums does Gavin Harrison play vs John Otto?**
-A: Gavin Harrison plays Sonor SQ2 Series. John Otto plays Orange County Drum & Percussion (OCDP) Custom Type 5 Acrylic.
+**Q: What gear do Gavin Harrison and John Otto use?**
+A: Gavin Harrison plays a Sonor SQ2 kit with his signature Sonor 14x5.25" brass snare and Zildjian K Custom Special Dry cymbals. John Otto plays an Orange County Drum & Percussion (OCDP) Custom Type 5 Acrylic kit with dual signature OCDP snares, Zildjian A Custom cymbals, and Gibraltar G Class pedals.
 
-**Q: Who is the better alternative / nu-metal drummer, Gavin Harrison or John Otto?**
-A: Both are legends in their own right. Gavin Harrison and John Otto both draw on jazz training, yet arrive at opposite destinations. See the full analysis at [metalforge.io/vs/gavin-harrison-vs-john-otto](https://metalforge.io/vs/gavin-harrison-vs-john-otto).
+**Q: What bands are Gavin Harrison and John Otto known for?**
+A: Gavin Harrison is best known for Porcupine Tree (since 2002) and King Crimson (since 2008), and also drums for The Pineapple Thief. John Otto has been Limp Bizkit's drummer and founding member since 1994.
 
-**Q: What cymbals do Gavin Harrison and John Otto use?**
-A: Gavin Harrison uses Zildjian K Custom Special Dry Series (14" Hi-Hats, 16" & 18" Crashes, 21" Special Dry Ride, 18" Trash China). John Otto uses Zildjian (13" A Custom Mastersound Hi-Hats, 16" & 17" A Custom Projection Crashes, 20" A Custom EFX, 20" FX Oriental Crash of Doom).
+**Q: Did Gavin Harrison and John Otto both study jazz?**
+A: Yes — both drummers have jazz backgrounds. Gavin Harrison built his early career as a jazz-influenced session and touring drummer before joining Porcupine Tree. John Otto studied jazz at the Douglas Anderson School of the Arts before co-founding Limp Bizkit in 1994, and channels that training into syncopated, funk-informed grooves.
 
 ---
 
@@ -67,4 +67,4 @@ A: Gavin Harrison uses Zildjian K Custom Special Dry Series (14" Hi-Hats, 16" & 
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

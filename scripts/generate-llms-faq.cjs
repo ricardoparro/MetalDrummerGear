@@ -147,6 +147,20 @@ for (const { q, a } of generalQAs) {
   md += `${a}\n\n`;
 }
 
+// Drummer-specific FAQs — curated Q&A pairs from extendedBios.js, additive to the
+// general/gear sections above (never overwrites them).
+md += `## Drummer-Specific FAQs\n\n`;
+let extendedFaqEntries = 0;
+for (const bio of Object.values(extendedBios)) {
+  const items = bio.sections && bio.sections.faq && bio.sections.faq.items;
+  if (!items || !items.length) continue;
+  md += `### ${bio.name}\n\n`;
+  for (const { q, a } of items) {
+    md += `**Q: ${q}**\n\nA: ${a}\n\n`;
+    extendedFaqEntries++;
+  }
+}
+
 md += `---\n\n`;
 md += `**More LLM resources:** [Site index](${BASE}/llms.txt) · [Full database](${BASE}/llms-full.txt) · [Drummer markdown index](${BASE}/llms/index.md)\n`;
 
@@ -157,4 +171,4 @@ const outPath = path.join(outDir, 'faq.md');
 fs.writeFileSync(outPath, md);
 
 const words = md.split(/\s+/).filter(Boolean).length;
-console.log(`✅ Generated public/llms/faq.md — ${drummerEntries} drummer Q&As + ${generalQAs.length} general Q&As (${words} words)`);
+console.log(`✅ Generated public/llms/faq.md — ${drummerEntries} drummer Q&As + ${generalQAs.length} general Q&As + ${extendedFaqEntries} extended-bio Q&As (${words} words)`);

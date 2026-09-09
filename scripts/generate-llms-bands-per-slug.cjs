@@ -105,6 +105,23 @@ function buildMarkdown(band) {
     }
   }
 
+  // History / metal legacy prose (if present) — Issue #7208: this editorial
+  // narrative was added for #7138 but never rendered anywhere.
+  if (band.history) {
+    if (Array.isArray(band.history.story) && band.history.story.length > 0) {
+      parts.push('## Band Story');
+      parts.push('');
+      parts.push(band.history.story.join('\n\n'));
+      parts.push('');
+    }
+    if (band.history.metalEra) {
+      parts.push('## Metal Legacy');
+      parts.push('');
+      parts.push(band.history.metalEra);
+      parts.push('');
+    }
+  }
+
   if (Array.isArray(band.members) && band.members.length > 0) {
     parts.push('## Current Members');
     parts.push('');

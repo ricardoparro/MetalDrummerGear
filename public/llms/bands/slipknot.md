@@ -23,6 +23,18 @@ Slipknot, formed in 1995 in Des Moines, pioneered the masked nu-metal movement.
 
 [Eloy Casagrande full profile →](https://metalforge.io/drummer/eloy-casagrande) · [LLM markdown](https://metalforge.io/llms/drummers/eloy-casagrande.md)
 
+## Band Story
+
+Slipknot formed in Des Moines, Iowa in 1995, built around percussionist Shawn "Clown" Crahan and expanding to nine masked members by the time of their self-titled 1999 debut. The band's matching jumpsuits, numbered identities, and disturbing masks were as central to their identity as the music itself, setting them apart from the wave of nu-metal acts emerging in the late 1990s.
+
+Founding drummer Joey Jordison anchored the band for its first four studio albums — Slipknot (1999), Iowa (2001), Vol. 3: (The Subliminal Verses) (2004), and All Hope Is Gone (2008) — establishing a rapid-fire, technically precise style that became one of the band's signatures. His December 2013 dismissal, later revealed to stem from the neurological condition acute transverse myelitis, brought in Jay Weinberg, son of E Street Band drummer Max Weinberg, who recorded .5: The Gray Chapter (2014), We Are Not Your Kind (2019), and The End, So Far (2022). After Slipknot and Weinberg parted ways in November 2023, former Sepultura drummer Eloy Casagrande joined in 2024, debuting live that April.
+
+Slipknot's chaotic, percussion-heavy live shows — built around Crahan, Chris Fehn, and Sid Wilson working custom rigs alongside the kit — helped popularize a maximalist, theatrical strain of nu-metal that influenced a generation of heavy bands. Albums like Iowa are frequently cited among the darkest, most extreme major-label metal releases of the 2000s.
+
+## Metal Legacy
+
+Joey Jordison is widely regarded as one of the most influential metal drummers of his generation: his blast-beat stamina, tightly controlled double-bass runs, and ability to lock in with Slipknot's layered percussion section set a new bar for extreme-metal precision in a mainstream context. Jay Weinberg carried that technical standard forward for nearly a decade, and the band's insistence on virtuosic, high-tempo drumming — even as its drum stool has changed hands three times — has kept Slipknot a reference point for metal drummers studying speed, stamina, and showmanship simultaneously.
+
 ## Current Members
 
 - **Shawn "Clown" Crahan** — percussion, vocals — 1995-present (Founding member; only original member remaining)
@@ -85,4 +97,4 @@ A: Founding bassist Paul Gray died on May 24, 2010; his cause of death was confi
 
 **More resources:** [All bands](https://metalforge.io/llms/bands.md) · [Site index](https://metalforge.io/llms.txt)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

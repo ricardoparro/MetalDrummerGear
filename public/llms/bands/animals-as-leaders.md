@@ -22,6 +22,18 @@ Animals as Leaders, formed in 2007 in Washington D.C. by guitarist Tosin Abasi, 
 
 [Matt Garstka full profile →](https://metalforge.io/drummer/matt-garstka) · [LLM markdown](https://metalforge.io/llms/drummers/matt-garstka.md)
 
+## Band Story
+
+Animals as Leaders formed in Washington, D.C. in 2007 as a solo project for guitarist Tosin Abasi before expanding into a full band with guitarist Javier Reyes and drummer Navene Koperweis by the time of its 2009 self-titled debut, whose drum parts were programmed rather than performed live, largely by engineer and Periphery guitarist Misha Mansoor. The band's fusion of jazz-fusion harmony, extended-range eight-string guitars, and knotty polyrhythms placed it at the center of the emerging djent movement alongside Meshuggah and Periphery.
+
+Koperweis became the band's first live drummer in 2009 and recorded Weightless (2011) before departing in 2012, replaced by Matt Garstka, whose jazz-fusion background and polyrhythmic command have anchored every subsequent album, including The Joy of Motion (2014), The Madness of Many (2016), and Parrhesia (2022). As an entirely instrumental band with no vocalist, Animals as Leaders relies on its rhythm section and guitar interplay to carry melodic and structural weight that would otherwise fall to a singer.
+
+The band's technical, genre-blending approach — drawing as much from jazz fusion and progressive rock as from metal — helped push djent and instrumental progressive metal into wider recognition during the 2010s, influencing a generation of technically minded metal musicians and drummers. Alongside Periphery and TesseracT, Animals as Leaders is considered one of the genre's defining acts.
+
+## Metal Legacy
+
+Matt Garstka's drumming is frequently held up as a model for modern progressive metal: he combines odd-meter independence in the Meshuggah tradition with a jazz-fusion drummer's touch on dynamics and cymbal work, allowing Animals as Leaders' dense, layered compositions to breathe rather than simply grind forward. His playing is widely studied by progressive and technical metal drummers because it treats polyrhythm as a musical tool rather than a display of raw technical difficulty.
+
 ## Current Members
 
 - **Tosin Abasi** — lead guitar — 2007-present (Founding member)
@@ -66,4 +78,4 @@ A: No, Animals as Leaders is an instrumental progressive metal / djent band with
 
 **More resources:** [All bands](https://metalforge.io/llms/bands.md) · [Site index](https://metalforge.io/llms.txt)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

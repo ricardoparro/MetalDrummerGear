@@ -23,6 +23,18 @@ Slayer, formed in 1981, defined extreme thrash metal with aggressive drumming.
 
 [Jon Dette full profile →](https://metalforge.io/drummer/jon-dette) · [LLM markdown](https://metalforge.io/llms/drummers/jon-dette.md)
 
+## Band Story
+
+Slayer formed in Huntington Park, California in 1981, founded by guitarists Kerry King and Jeff Hanneman alongside vocalist/bassist Tom Araya and drummer Dave Lombardo. From their earliest releases, Show No Mercy (1983) and Hell Awaits (1985), the band pushed thrash metal toward faster tempos, more explicit violence, and starker production than contemporaries like Metallica and Megadeth.
+
+1986's Reign in Blood, produced by Rick Rubin, is widely considered one of the most important thrash metal albums ever made, opening with the roughly 4-minute blast of "Angel of Death" and setting a new ceiling for speed and aggression in the genre. Dave Lombardo's tenure was interrupted three times — 1986, 1992, and 2013 — with Paul Bostaph filling in for the bulk of the 1990s and again from 2013 until Slayer's final show in November 2019 at The Forum in Los Angeles.
+
+Slayer never softened its sound across a three-decade career, releasing consistently aggressive albums through South of Heaven (1988) and Seasons in the Abyss (1990), and later Christ Illusion (2006) and World Painted Blood (2009) after Lombardo's 2001 return. Alongside Metallica, Megadeth, and Anthrax, Slayer is considered one of thrash metal's "Big Four," and its refusal to pursue commercial crossover cemented its reputation as the genre's most extreme major act.
+
+## Metal Legacy
+
+Dave Lombardo is widely credited with popularizing the modern double-bass "blast beat" in extreme metal, playing at tempos and with a relentlessness that directly shaped death metal and grindcore drumming that followed. His pioneering speed and precision on Reign in Blood is still used as a technical benchmark for aspiring metal drummers, and Paul Bostaph's ability to seamlessly continue that standard across three separate stints showed how central the drum chair was to Slayer's identity — the band's music does not function without extreme, high-tempo drumming driving it.
+
 ## Former Members
 
 - **Tom Araya** — bass, vocals — 1981-2019 (Founding member; band ended touring in 2019, sporadic reunion festival dates from 2024)
@@ -79,4 +91,4 @@ A: Paul Bostaph, formerly of Forbidden, replaced Lombardo directly in 1992, with
 
 **More resources:** [All bands](https://metalforge.io/llms/bands.md) · [Site index](https://metalforge.io/llms.txt)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

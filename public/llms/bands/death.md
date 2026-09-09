@@ -26,6 +26,18 @@ Death, formed in 1984 by Chuck Schuldiner, is considered the pioneer of death me
 
 [Richard Christy full profile →](https://metalforge.io/drummer/richard-christy) · [LLM markdown](https://metalforge.io/llms/drummers/richard-christy.md)
 
+## Band Story
+
+Death was founded in Altamonte Springs, Florida by guitarist/vocalist Chuck Schuldiner, originally performing as Mantas from 1983 before adopting the Death name. The band's 1987 debut, Scream Bloody Gore — recorded with 17-year-old session drummer Chris Reifert, who later founded Autopsy — is widely regarded as one of the foundational releases of death metal.
+
+Because Schuldiner treated Death as his own vehicle rather than a fixed band, the drum stool changed hands repeatedly: Bill Andrews recorded Leprosy (1988) and Spiritual Healing (1990), Sean Reinert of Cynic contributed the jazz-influenced patterns on Human (1991), Gene Hoglan powered the increasingly technical Individual Thought Patterns (1993) and Symbolic (1995), and Richard Christy closed out the band's catalog on The Sound of Perseverance (1998).
+
+That revolving lineup allowed Death's sound to evolve dramatically across just seven albums, moving from the raw brutality of its early records toward the intricate, progressive death metal of Human and its successors — a shift that influenced the entire technical death metal subgenre. Schuldiner's death from brain cancer in December 2001 ended the band permanently, but Death's catalog remains a required reference point for extreme metal musicians.
+
+## Metal Legacy
+
+Each drummer who passed through Death left a distinct mark on extreme metal drumming: Gene Hoglan's stamina and precision on Individual Thought Patterns and Symbolic helped define what "technical death metal" drumming could sound like, while Sean Reinert's more restrained, jazz-informed approach on Human demonstrated that extreme metal could accommodate real rhythmic sophistication rather than pure speed. That succession of drummers, each pushing the band's technical ceiling higher, is a large part of why Death's catalog is still used as a teaching tool for extreme metal drumming decades later.
+
 ## Former Members
 
 - **Chuck Schuldiner** — guitar, vocals, founder — 1983-2001 (Founded the band (originally as Mantas) in 1983; died December 13, 2001, of complications from brain cancer (glioma) and pneumonia, ending the band)
@@ -85,4 +97,4 @@ A: Chuck Schuldiner was diagnosed with brain cancer (glioma) while working on hi
 
 **More resources:** [All bands](https://metalforge.io/llms/bands.md) · [Site index](https://metalforge.io/llms.txt)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

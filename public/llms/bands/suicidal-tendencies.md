@@ -36,6 +36,18 @@ Suicidal Tendencies, formed in 1980, pioneered the crossover thrash genre.
 
 [Xavier Ware full profile →](https://metalforge.io/drummer/xavier-ware) · [LLM markdown](https://metalforge.io/llms/drummers/xavier-ware.md)
 
+## Band Story
+
+Suicidal Tendencies formed in Venice, California in 1980, led from the start by vocalist Mike Muir, and quickly became one of the pioneering acts of crossover thrash — the fusion of hardcore punk's speed and aggression with thrash metal's musicianship. The band's self-titled 1983 debut, featuring the enduring anthem "Institutionalized," predates much of the thrash movement's commercial breakthrough and helped define the skate-punk-meets-metal aesthetic of 1980s Venice Beach.
+
+Few bands in metal or hardcore have cycled through as many drummers as Suicidal Tendencies, with well over a dozen behind the kit since 1980, including R.J. Herrera through the band's classic Join the Army (1987) era, Jimmy DeGrasso, Brooks Wackerman, Eric Moore, and former Slayer drummer Dave Lombardo, who recorded World Gone Mad (2016). Despite that turnover, Mike Muir has kept the band a going concern for over four decades, with former bassist Robert Trujillo (1989-1995) going on to join Metallica.
+
+Suicidal Tendencies' fusion of hardcore's rawness with metal's technicality directly influenced the crossover thrash scene, and the band is frequently cited alongside D.R.I. and Cro-Mags as a founder of the subgenre. The band remains active, with former Slipknot drummer Jay Weinberg and, most recently, Xavier Ware (from January 2026) continuing that drumming lineage.
+
+## Metal Legacy
+
+The revolving cast of respected metal and hardcore drummers who have passed through Suicidal Tendencies — from R.J. Herrera's foundational crossover-thrash groove to Dave Lombardo's extreme-metal pedigree and Jay Weinberg's technical precision — reflects how central the band's rhythm section has always been to defining the crossover-thrash sound: fast enough to satisfy hardcore purists, but tight and structured enough to hold up alongside thrash metal's most demanding rhythm sections.
+
 ## Current Members
 
 - **Mike Muir** — lead vocals — 1980-1995, 1996-present (Founding member)
@@ -111,4 +123,4 @@ A: R.J. Herrera drummed on Join the Army (1987), How Will I Laugh Tomorrow When 
 
 **More resources:** [All bands](https://metalforge.io/llms/bands.md) · [Site index](https://metalforge.io/llms.txt)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

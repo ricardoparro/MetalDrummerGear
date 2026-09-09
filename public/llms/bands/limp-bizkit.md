@@ -22,6 +22,18 @@ Limp Bizkit, formed in 1994, fused rap and metal to become one of the biggest nu
 
 [John Otto full profile →](https://metalforge.io/drummer/john-otto) · [LLM markdown](https://metalforge.io/llms/drummers/john-otto.md)
 
+## Band Story
+
+Limp Bizkit formed in Jacksonville, Florida in 1994, founded by vocalist Fred Durst alongside guitarist Wes Borland, bassist Sam Rivers, and drummer John Otto, who studied jazz drumming at the Douglas Anderson School of the Arts and has remained the band's only drummer throughout its history. DJ Lethal, formerly of House of Pain, joined shortly after to add turntables to the band's sound.
+
+The band's fusion of rap vocals, down-tuned nu-metal riffs, and hip-hop-derived rhythm reached its commercial peak with Significant Other (1999) and Chocolate Starfish and the Hot Dog Flavored Water (2000), the latter debuting at number one on the Billboard 200 and selling more than a million copies in its first week. Otto's jazz background gave the band's grooves an unusually loose, swinging feel compared to other nu-metal drummers of the era.
+
+After a mid-2000s commercial decline and lineup turmoil, the classic lineup reunited and has continued releasing music, including Gold Cobra (2011) and Still Sucks (2021), while remaining a fixture of the festival circuit. Limp Bizkit's blend of rap-metal bravado and radio hooks made it, alongside Korn, one of the defining commercial forces of the nu-metal era.
+
+## Metal Legacy
+
+John Otto's jazz training set him apart from most of his nu-metal drumming peers: rather than relying purely on aggressive down-strokes, he layered swung hi-hat patterns, ghost notes, and syncopated grooves borrowed from funk and jazz fusion under Limp Bizkit's rap-metal riffs, giving the band's rhythm section a bounce that helped its singles cross over to hip-hop and pop radio. That approach has made Otto a frequently cited example of how jazz vocabulary can be applied inside a heavy, groove-based metal context.
+
 ## Current Members
 
 - **Fred Durst** — lead vocals — 1994-present (Founding member)
@@ -72,4 +84,4 @@ A: Limp Bizkit formed in 1994 in Jacksonville, Florida, blending nu-metal and ra
 
 **More resources:** [All bands](https://metalforge.io/llms/bands.md) · [Site index](https://metalforge.io/llms.txt)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

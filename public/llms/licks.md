@@ -1,6 +1,6 @@
 # MetalForge — Signature Licks Database
 > Drummer signature fills, beats, and patterns with technique breakdowns and tutorial videos.
-Last updated: 2026-07-25 · Source: https://metalforge.io
+Last updated: 2026-09-09 · Source: https://metalforge.io
 
 Step-by-step breakdowns of iconic metal drum licks. Each entry lists tempo, time signature, difficulty, and techniques, followed by an answer-first "how to play it" walkthrough, the tutorial video, and the canonical page URL to cite.
 
@@ -9,7 +9,7 @@ Step-by-step breakdowns of iconic metal drum licks. Each entry lists tempo, time
 Profile: [https://metalforge.io/drummers/abe-cunningham](https://metalforge.io/drummers/abe-cunningham) · All licks: [https://metalforge.io/drummers/abe-cunningham/licks](https://metalforge.io/drummers/abe-cunningham/licks)
 
 ### Digital Bath Dynamic Restraint — "Digital Bath", White Pony (2000)
-- **BPM:** ~80 BPM | **Time:** 4/4 | **Difficulty:** Intermediate (3/5)
+- **BPM:** ~80 BPM | **Time:** 4/4 | **Technique:** signature pattern | **Difficulty:** Intermediate (3/5)
 - **Techniques:** groove-drumming, linear-drumming, fill-techniques
 
 **How to play it:**
@@ -29,7 +29,7 @@ Profile: [https://metalforge.io/drummers/abe-cunningham](https://metalforge.io/d
 **Page:** https://metalforge.io/drummers/abe-cunningham/licks/abe-cunningham-digital-bath-groove
 
 ### My Own Summer Power Groove — "My Own Summer (Shove It)", Around the Fur (1997)
-- **BPM:** ~127 BPM | **Time:** 4/4 | **Difficulty:** Advanced (4/5)
+- **BPM:** ~127 BPM | **Time:** 4/4 | **Technique:** main groove | **Difficulty:** Advanced (4/5)
 - **Techniques:** groove-drumming, fill-techniques, double-bass
 
 **How to play it:**
@@ -49,7 +49,7 @@ Profile: [https://metalforge.io/drummers/abe-cunningham](https://metalforge.io/d
 **Page:** https://metalforge.io/drummers/abe-cunningham/licks/abe-cunningham-my-own-summer-groove
 
 ### Passenger Atmospheric Ghost-Note Groove — "Passenger", White Pony (2000)
-- **BPM:** ~65 BPM | **Time:** 4/4 | **Difficulty:** Intermediate (3/5)
+- **BPM:** ~65 BPM | **Time:** 4/4 | **Technique:** signature pattern | **Difficulty:** Intermediate (3/5)
 - **Techniques:** groove-drumming, dynamic-control, ghost-notes
 
 **How to play it:**
@@ -67,7 +67,7 @@ Profile: [https://metalforge.io/drummers/abe-cunningham](https://metalforge.io/d
 **Page:** https://metalforge.io/drummers/abe-cunningham/licks/cunningham-white-pony-groove
 
 ### Diamond Eyes Rolling Tom Fill — "Diamond Eyes", Diamond Eyes (2010)
-- **BPM:** ~140 BPM | **Time:** 4/4 | **Difficulty:** Advanced (4/5)
+- **BPM:** ~140 BPM | **Time:** 4/4 | **Technique:** fills | **Difficulty:** Advanced (4/5)
 - **Techniques:** fill-techniques, groove-drumming, dynamic-control
 
 **How to play it:**
@@ -85,7 +85,7 @@ Profile: [https://metalforge.io/drummers/abe-cunningham](https://metalforge.io/d
 **Page:** https://metalforge.io/drummers/abe-cunningham/licks/cunningham-diamond-eyes-fill
 
 ### Hole in the Earth Syncopated Hi-Hat Pattern — "Hole in the Earth", Saturday Night Wrist (2006)
-- **BPM:** ~120 BPM | **Time:** 4/4 | **Difficulty:** Intermediate (3/5)
+- **BPM:** ~120 BPM | **Time:** 4/4 | **Technique:** signature pattern | **Difficulty:** Intermediate (3/5)
 - **Techniques:** groove-drumming, syncopation, dynamic-control
 
 **How to play it:**
@@ -103,7 +103,7 @@ Profile: [https://metalforge.io/drummers/abe-cunningham](https://metalforge.io/d
 **Page:** https://metalforge.io/drummers/abe-cunningham/licks/cunningham-saturday-night-wrist-pattern
 
 ### Change Minimalist Alt-Metal Groove — "Change (In the House of Flies)", White Pony (2000)
-- **BPM:** ~104 BPM | **Time:** 4/4 | **Difficulty:** Intermediate (3/5)
+- **BPM:** ~104 BPM | **Time:** 4/4 | **Technique:** signature pattern | **Difficulty:** Intermediate (3/5)
 - **Techniques:** groove-drumming, linear-drumming, fill-techniques
 
 **How to play it:**
@@ -127,7 +127,7 @@ Profile: [https://metalforge.io/drummers/abe-cunningham](https://metalforge.io/d
 Profile: [https://metalforge.io/drummers/adrian-erlandsson](https://metalforge.io/drummers/adrian-erlandsson) · All licks: [https://metalforge.io/drummers/adrian-erlandsson/licks](https://metalforge.io/drummers/adrian-erlandsson/licks)
 
 ### Blinded by Fear — The Blast Beat That Opened a Genre — "Blinded by Fear", Slaughter of the Soul (1995)
-- **BPM:** ~195 BPM | **Time:** 4/4 | **Difficulty:** Expert (5/5)
+- **BPM:** ~195 BPM | **Time:** 4/4 | **Technique:** signature pattern | **Difficulty:** Expert (5/5)
 - **Techniques:** blast-beat, d-beat, double-bass
 
 **How to play it:**
@@ -147,7 +147,7 @@ Profile: [https://metalforge.io/drummers/adrian-erlandsson](https://metalforge.i
 **Page:** https://metalforge.io/drummers/adrian-erlandsson/licks/adrian-erlandsson-slaughter-of-the-soul-drum-setup
 
 ### Death and the Labyrinth — The Comeback Blast — "Death and the Labyrinth", At War with Reality (2014)
-- **BPM:** ~182 BPM | **Time:** 4/4 | **Difficulty:** Advanced (4/5)
+- **BPM:** ~182 BPM | **Time:** 4/4 | **Technique:** signature pattern | **Difficulty:** Advanced (4/5)
 - **Techniques:** blast-beat, d-beat, double-bass
 
 **How to play it:**
@@ -167,7 +167,7 @@ Profile: [https://metalforge.io/drummers/adrian-erlandsson](https://metalforge.i
 **Page:** https://metalforge.io/drummers/adrian-erlandsson/licks/adrian-erlandsson-at-war-with-reality-drum-setup
 
 ### To Drink from the Night Itself — Mid-Paced D-Beat Anchor — "To Drink from the Night Itself", To Drink from the Night Itself (2018)
-- **BPM:** ~157 BPM | **Time:** 4/4 | **Difficulty:** Advanced (4/5)
+- **BPM:** ~157 BPM | **Time:** 4/4 | **Technique:** groove technique | **Difficulty:** Advanced (4/5)
 - **Techniques:** d-beat, groove-drumming, double-bass
 
 **How to play it:**
@@ -191,7 +191,7 @@ Profile: [https://metalforge.io/drummers/adrian-erlandsson](https://metalforge.i
 Profile: [https://metalforge.io/drummers/alex-bent](https://metalforge.io/drummers/alex-bent) · All licks: [https://metalforge.io/drummers/alex-bent/licks](https://metalforge.io/drummers/alex-bent/licks)
 
 ### The Sin and the Sentence Blast+Groove Hybrid — "The Sin and the Sentence", The Sin and the Sentence (2017)
-- **BPM:** ~170 BPM | **Time:** 4/4 | **Difficulty:** Expert (5/5)
+- **BPM:** ~170 BPM | **Time:** 4/4 | **Technique:** signature pattern | **Difficulty:** Expert (5/5)
 - **Techniques:** blast-beat, groove-drumming, double-bass, fill-techniques
 
 **How to play it:**
@@ -211,7 +211,7 @@ Profile: [https://metalforge.io/drummers/alex-bent](https://metalforge.io/drumme
 **Page:** https://metalforge.io/drummers/alex-bent/licks/alex-bent-sin-and-sentence-groove
 
 ### Betrayer Modern Thrash Fill Sequence — "Betrayer", The Sin and the Sentence (2017)
-- **BPM:** ~175 BPM | **Time:** 4/4 | **Difficulty:** Expert (5/5)
+- **BPM:** ~175 BPM | **Time:** 4/4 | **Technique:** main groove | **Difficulty:** Expert (5/5)
 - **Techniques:** double-bass, fill-techniques, linear-drumming, groove-drumming
 
 **How to play it:**
@@ -231,7 +231,7 @@ Profile: [https://metalforge.io/drummers/alex-bent](https://metalforge.io/drumme
 **Page:** https://metalforge.io/drummers/alex-bent/licks/alex-bent-betrayer-groove
 
 ### Beyond Oblivion Melodic Metal Groove — "Beyond Oblivion", Silence in the Snow (2015)
-- **BPM:** ~132 BPM | **Time:** 4/4 | **Difficulty:** Advanced (4/5)
+- **BPM:** ~132 BPM | **Time:** 4/4 | **Technique:** main groove | **Difficulty:** Advanced (4/5)
 - **Techniques:** groove-drumming, fill-techniques, double-bass
 
 **How to play it:**
@@ -251,7 +251,7 @@ Profile: [https://metalforge.io/drummers/alex-bent](https://metalforge.io/drumme
 **Page:** https://metalforge.io/drummers/alex-bent/licks/alex-bent-beyond-oblivion-groove
 
 ### Beyond Oblivion — Melodic Metal Drum Setup — "Beyond Oblivion", Silence in the Snow (2015)
-- **BPM:** ~132 BPM | **Time:** 4/4 | **Difficulty:** Advanced (4/5)
+- **BPM:** ~132 BPM | **Time:** 4/4 | **Technique:** main groove | **Difficulty:** Advanced (4/5)
 - **Techniques:** groove-drumming, fill-techniques, double-bass
 
 **How to play it:**
@@ -271,7 +271,7 @@ Profile: [https://metalforge.io/drummers/alex-bent](https://metalforge.io/drumme
 **Page:** https://metalforge.io/drummers/alex-bent/licks/alex-bent-beyond-oblivion-drum-setup
 
 ### Seat of the Soul — Polyrhythmic Groove Setup — "Seat of the Soul", What the Dead Men Say (2020)
-- **BPM:** ~175 BPM | **Time:** 4/4 (with polyrhythmic accents) | **Difficulty:** Advanced (4/5)
+- **BPM:** ~175 BPM | **Time:** 4/4 (with polyrhythmic accents) | **Technique:** signature pattern | **Difficulty:** Advanced (4/5)
 - **Techniques:** groove-drumming, double-bass, fill-techniques
 
 **How to play it:**
@@ -291,12 +291,12 @@ Profile: [https://metalforge.io/drummers/alex-bent](https://metalforge.io/drumme
 **Page:** https://metalforge.io/drummers/alex-bent/licks/alex-bent-seat-of-the-soul-drum-setup
 
 ### A Crisis of Revelation — Vic Firth Drum Setup — "A Crisis of Revelation", In the Court of the Dragon (2021)
-- **BPM:** ~165 BPM | **Time:** 4/4 | **Difficulty:** Expert (5/5)
+- **BPM:** ~165 BPM | **Time:** 4/4 | **Technique:** signature pattern | **Difficulty:** Expert (5/5)
 - **Techniques:** blast-beat, groove-drumming, double-bass, fill-techniques
 
 **How to play it:**
 1. Configure the Axis A Longboard for maximum responsiveness — the spring tension and beater angle must support heel-up blast beat density without fatigue
-2. Tune the Pearl Reference Pure for a wide dynamic range — bright attack in the blast passages, warm resonance in the melodic sections
+2. Tune the Tama Starclassic Maple for a wide dynamic range — bright attack in the blast passages, warm resonance in the melodic sections
 3. Execute the blast-to-groove transitions with total four-way independence — the body must be able to shift rhythmic modes instantaneously on the intended beat
 4. Use the K Custom Hybrid crashes to mark major section changes — their warm decay complements the melodic guitar lines without clashing in the mix
 5. Approach the half-time breakdown with maximum backbeat authority — the contrast with the blast passages makes the downshift hit with extra physical impact
@@ -315,7 +315,7 @@ Profile: [https://metalforge.io/drummers/alex-bent](https://metalforge.io/drumme
 Profile: [https://metalforge.io/drummers/alex-rudinger](https://metalforge.io/drummers/alex-rudinger) · All licks: [https://metalforge.io/drummers/alex-rudinger/licks](https://metalforge.io/drummers/alex-rudinger/licks)
 
 ### Autotheist Movement III: Deconsecrate — Technical Fill Vocabulary — "Autotheist Movement III: Deconsecrate", Autotheism (2012)
-- **BPM:** ~190 BPM | **Time:** 4/4 (mixed meter sections) | **Difficulty:** Expert (5/5)
+- **BPM:** ~190 BPM | **Time:** 4/4 (mixed meter sections) | **Technique:** fill techniques | **Difficulty:** Expert (5/5)
 - **Techniques:** blast-beat, double-bass, odd-meter
 
 **How to play it:**
@@ -339,7 +339,7 @@ Profile: [https://metalforge.io/drummers/alex-rudinger](https://metalforge.io/dr
 Profile: [https://metalforge.io/drummers/aquiles-priester](https://metalforge.io/drummers/aquiles-priester) · All licks: [https://metalforge.io/drummers/aquiles-priester/licks](https://metalforge.io/drummers/aquiles-priester/licks)
 
 ### Rebirth Double-Bass Power Pattern — "Rebirth", Rebirth (2001)
-- **BPM:** ~165 BPM | **Time:** 4/4 | **Difficulty:** Expert (5/5)
+- **BPM:** ~165 BPM | **Time:** 4/4 | **Technique:** signature pattern | **Difficulty:** Expert (5/5)
 - **Techniques:** double-bass, blast-beat, fill-techniques
 
 **How to play it:**
@@ -359,7 +359,7 @@ Profile: [https://metalforge.io/drummers/aquiles-priester](https://metalforge.io
 **Page:** https://metalforge.io/drummers/aquiles-priester/licks/aquiles-priester-rebirth
 
 ### Heroes of Sand Progressive Prog Feel — "Heroes of Sand", Temple of Shadows (2004)
-- **BPM:** ~130 BPM | **Time:** 4/4 (shifting) | **Difficulty:** Expert (5/5)
+- **BPM:** ~130 BPM | **Time:** 4/4 (shifting) | **Technique:** signature pattern | **Difficulty:** Expert (5/5)
 - **Techniques:** double-bass, fill-techniques, polyrhythms
 
 **How to play it:**
@@ -379,7 +379,7 @@ Profile: [https://metalforge.io/drummers/aquiles-priester](https://metalforge.io
 **Page:** https://metalforge.io/drummers/aquiles-priester/licks/aquiles-priester-heroes-of-sand
 
 ### Spread Your Fire Speed Groove — "Spread Your Fire", Temple of Shadows (2004)
-- **BPM:** ~182 BPM | **Time:** 4/4 (extreme tempo) | **Difficulty:** Expert (5/5)
+- **BPM:** ~182 BPM | **Time:** 4/4 (extreme tempo) | **Technique:** signature pattern | **Difficulty:** Expert (5/5)
 - **Techniques:** double-bass, blast-beat, fill-techniques
 
 **How to play it:**
@@ -403,7 +403,7 @@ Profile: [https://metalforge.io/drummers/aquiles-priester](https://metalforge.io
 Profile: [https://metalforge.io/drummers/arin-ilejay](https://metalforge.io/drummers/arin-ilejay) · All licks: [https://metalforge.io/drummers/arin-ilejay/licks](https://metalforge.io/drummers/arin-ilejay/licks)
 
 ### Hail to the King Half-Time Groove — "Hail to the King", Hail to the King (2013)
-- **BPM:** ~95 BPM | **Time:** 4/4 | **Difficulty:** Intermediate (3/5)
+- **BPM:** ~95 BPM | **Time:** 4/4 | **Technique:** signature pattern | **Difficulty:** Intermediate (3/5)
 - **Techniques:** groove-drumming, half-time-feel, fill-techniques
 
 **How to play it:**
@@ -423,7 +423,7 @@ Profile: [https://metalforge.io/drummers/arin-ilejay](https://metalforge.io/drum
 **Page:** https://metalforge.io/drummers/arin-ilejay/licks/arin-ilejay-hail-to-the-king-halftime
 
 ### Shepherd of Fire Double Bass Drive — "Shepherd of Fire", Hail to the King (2013)
-- **BPM:** ~175 BPM | **Time:** 4/4 | **Difficulty:** Advanced (4/5)
+- **BPM:** ~175 BPM | **Time:** 4/4 | **Technique:** double bass | **Difficulty:** Advanced (4/5)
 - **Techniques:** double-bass, groove-drumming, fill-techniques
 
 **How to play it:**
@@ -443,7 +443,7 @@ Profile: [https://metalforge.io/drummers/arin-ilejay](https://metalforge.io/drum
 **Page:** https://metalforge.io/drummers/arin-ilejay/licks/arin-ilejay-shepherd-of-fire-double-bass
 
 ### God Forsaken Fill Cascade — "God Forsaken", Hail to the King (2013)
-- **BPM:** ~150 BPM | **Time:** 4/4 | **Difficulty:** Advanced (4/5)
+- **BPM:** ~150 BPM | **Time:** 4/4 | **Technique:** fill techniques | **Difficulty:** Advanced (4/5)
 - **Techniques:** fill-techniques, groove-drumming, double-bass
 
 **How to play it:**
@@ -467,7 +467,7 @@ Profile: [https://metalforge.io/drummers/arin-ilejay](https://metalforge.io/drum
 Profile: [https://metalforge.io/drummers/art-cruz](https://metalforge.io/drummers/art-cruz) · All licks: [https://metalforge.io/drummers/art-cruz/licks](https://metalforge.io/drummers/art-cruz/licks)
 
 ### Memento Mori Polyrhythmic Groove — "Memento Mori", Omens (2022)
-- **BPM:** ~192 BPM | **Time:** 4/4 | **Difficulty:** Advanced (4/5)
+- **BPM:** ~192 BPM | **Time:** 4/4 | **Technique:** signature pattern | **Difficulty:** Advanced (4/5)
 - **Techniques:** groove-drumming, double-bass, fill-techniques
 
 **How to play it:**
@@ -487,7 +487,7 @@ Profile: [https://metalforge.io/drummers/art-cruz](https://metalforge.io/drummer
 **Page:** https://metalforge.io/drummers/art-cruz/licks/art-cruz-memento-mori-groove
 
 ### New Colossal Hate Snare-Bass Interplay — "New Colossal Hate", Lamb of God (2020)
-- **BPM:** ~165 BPM | **Time:** 4/4 | **Difficulty:** Intermediate (3/5)
+- **BPM:** ~165 BPM | **Time:** 4/4 | **Technique:** main groove | **Difficulty:** Intermediate (3/5)
 - **Techniques:** groove-drumming, double-bass, fill-techniques
 
 **How to play it:**
@@ -507,7 +507,7 @@ Profile: [https://metalforge.io/drummers/art-cruz](https://metalforge.io/drummer
 **Page:** https://metalforge.io/drummers/art-cruz/licks/art-cruz-new-colossal-hate-snare-bass
 
 ### Gomorrah Blast-to-Groove Transition — "Gomorrah", Omens (2022)
-- **BPM:** ~200 BPM | **Time:** 4/4 | **Difficulty:** Advanced (4/5)
+- **BPM:** ~200 BPM | **Time:** 4/4 | **Technique:** blast technique | **Difficulty:** Advanced (4/5)
 - **Techniques:** blast-technique, groove-drumming, double-bass
 
 **How to play it:**
@@ -527,7 +527,7 @@ Profile: [https://metalforge.io/drummers/art-cruz](https://metalforge.io/drummer
 **Page:** https://metalforge.io/drummers/art-cruz/licks/art-cruz-gomorrah-blast-groove
 
 ### Ghost Walking — Live Groove Setup — "Ghost Walking", VII: Sturm und Drang (2015)
-- **BPM:** ~180 BPM | **Time:** 4/4 | **Difficulty:** Advanced (4/5)
+- **BPM:** ~180 BPM | **Time:** 4/4 | **Technique:** main groove | **Difficulty:** Advanced (4/5)
 - **Techniques:** groove-drumming, double-bass, fill-techniques
 
 **How to play it:**
@@ -535,7 +535,7 @@ Profile: [https://metalforge.io/drummers/art-cruz](https://metalforge.io/drummer
 2. Deliver the backbeat with full arm authority on every repetition — consistency of impact is what gives the groove metal feel its power
 3. Ride the bell with a straight, unwavering eighth-note pulse to anchor the arrangement through the kick's syncopated patterns
 4. Honour the original arrangement's structure while bringing your own physical intensity — faithfulness and personality are not mutually exclusive
-5. Use the DW 9000 pedal's heavier attack to add extra weight to the kick emphasis points without disrupting the overall flow
+5. Use the Trick Drums Dominator pedal's heavier attack to add extra weight to the kick emphasis points without disrupting the overall flow
 
 **Practice tips:**
 - Transcribe the kick-snare pattern before playing along — understanding the interlocking structure makes it physically accessible
@@ -547,7 +547,7 @@ Profile: [https://metalforge.io/drummers/art-cruz](https://metalforge.io/drummer
 **Page:** https://metalforge.io/drummers/art-cruz/licks/art-cruz-ghost-walking-drum-setup
 
 ### Laid to Rest — Art Cruz Live Interpretation — "Laid to Rest", Ashes of the Wake (2004)
-- **BPM:** ~200 BPM | **Time:** 4/4 (heavy syncopation) | **Difficulty:** Expert (5/5)
+- **BPM:** ~200 BPM | **Time:** 4/4 (heavy syncopation) | **Technique:** signature pattern | **Difficulty:** Expert (5/5)
 - **Techniques:** double-bass, groove-drumming, fill-techniques
 
 **How to play it:**
@@ -567,14 +567,14 @@ Profile: [https://metalforge.io/drummers/art-cruz](https://metalforge.io/drummer
 **Page:** https://metalforge.io/drummers/art-cruz/licks/art-cruz-laid-to-rest-drum-setup
 
 ### New Colossal Hate — Studio Debut Setup — "New Colossal Hate", Lamb of God (2020)
-- **BPM:** ~165 BPM | **Time:** 4/4 | **Difficulty:** Advanced (4/5)
+- **BPM:** ~165 BPM | **Time:** 4/4 | **Technique:** main groove | **Difficulty:** Advanced (4/5)
 - **Techniques:** groove-drumming, double-bass, fill-techniques
 
 **How to play it:**
 1. Treat the kick and snare as conversational partners — the pattern is built on dialogue, not parallel independent voices
 2. Add ghost notes between the main backbeats to keep the groove in constant motion without adding rhythmic complexity
 3. Tune the snare for a dry, cutting attack that sits naturally in the mix rather than requiring heavy processing to be heard
-4. Configure the DW 9000 beater angle for maximum attack definition so every kick stroke articulates clearly in fast passages
+4. Configure the Trick Drums Dominator beater angle for maximum attack definition so every kick stroke articulates clearly in fast passages
 5. Lock the kick accent points precisely to the guitar riff's lowest note emphasis for a unified, crushing low-end groove
 
 **Practice tips:**
@@ -591,7 +591,7 @@ Profile: [https://metalforge.io/drummers/art-cruz](https://metalforge.io/drummer
 Profile: [https://metalforge.io/drummers/ben-koller](https://metalforge.io/drummers/ben-koller) · All licks: [https://metalforge.io/drummers/ben-koller/licks](https://metalforge.io/drummers/ben-koller/licks)
 
 ### Concubine Grind Assault — "Concubine", Jane Doe (2001)
-- **BPM:** ~210 BPM | **Time:** 4/4 (frantic, riff-led) | **Difficulty:** Expert (5/5)
+- **BPM:** ~210 BPM | **Time:** 4/4 (frantic, riff-led) | **Technique:** signature pattern | **Difficulty:** Expert (5/5)
 - **Techniques:** blast-beat, fill-techniques, double-bass
 
 **How to play it:**
@@ -611,7 +611,7 @@ Profile: [https://metalforge.io/drummers/ben-koller](https://metalforge.io/drumm
 **Page:** https://metalforge.io/drummers/ben-koller/licks/ben-koller-concubine-grind
 
 ### Dark Horse Driving Fills — "Dark Horse", Axe to Fall (2009)
-- **BPM:** ~190 BPM | **Time:** 4/4 | **Difficulty:** Advanced (4/5)
+- **BPM:** ~190 BPM | **Time:** 4/4 | **Technique:** fill | **Difficulty:** Advanced (4/5)
 - **Techniques:** groove-drumming, fill-techniques, double-bass
 
 **How to play it:**
@@ -631,7 +631,7 @@ Profile: [https://metalforge.io/drummers/ben-koller](https://metalforge.io/drumm
 **Page:** https://metalforge.io/drummers/ben-koller/licks/ben-koller-dark-horse-fills
 
 ### Aimless Arrow Hardcore Drive — "Aimless Arrow", Jane Doe (2001)
-- **BPM:** ~185 BPM | **Time:** 4/4 | **Difficulty:** Advanced (4/5)
+- **BPM:** ~185 BPM | **Time:** 4/4 | **Technique:** main groove | **Difficulty:** Advanced (4/5)
 - **Techniques:** blast-beat, fill-techniques, groove-drumming
 
 **How to play it:**
@@ -655,7 +655,7 @@ Profile: [https://metalforge.io/drummers/ben-koller](https://metalforge.io/drumm
 Profile: [https://metalforge.io/drummers/bill-ward](https://metalforge.io/drummers/bill-ward) · All licks: [https://metalforge.io/drummers/bill-ward/licks](https://metalforge.io/drummers/bill-ward/licks)
 
 ### War Pigs Swinging Half-Time Groove — "War Pigs", Paranoid (1970)
-- **BPM:** ~76 BPM | **Time:** 4/4 | **Difficulty:** Intermediate (3/5)
+- **BPM:** ~76 BPM | **Time:** 4/4 | **Technique:** main groove | **Difficulty:** Intermediate (3/5)
 - **Techniques:** groove-drumming, ghost-notes, jazz-feel
 
 **How to play it:**
@@ -675,7 +675,7 @@ Profile: [https://metalforge.io/drummers/bill-ward](https://metalforge.io/drumme
 **Page:** https://metalforge.io/drummers/bill-ward/licks/bill-ward-war-pigs-groove
 
 ### Iron Man Intro & Verse Groove — "Iron Man", Paranoid (1970)
-- **BPM:** ~68 BPM | **Time:** 4/4 | **Difficulty:** Beginner (2/5)
+- **BPM:** ~68 BPM | **Time:** 4/4 | **Technique:** signature pattern | **Difficulty:** Beginner (2/5)
 - **Techniques:** groove-drumming, dynamic-control, fill-techniques
 
 **How to play it:**
@@ -695,7 +695,7 @@ Profile: [https://metalforge.io/drummers/bill-ward](https://metalforge.io/drumme
 **Page:** https://metalforge.io/drummers/bill-ward/licks/bill-ward-iron-man-groove
 
 ### N.I.B. Blues-Shuffle Feel — "N.I.B.", Black Sabbath (1970)
-- **BPM:** ~112 BPM | **Time:** 4/4 (shuffle feel) | **Difficulty:** Intermediate (3/5)
+- **BPM:** ~112 BPM | **Time:** 4/4 (shuffle feel) | **Technique:** signature pattern | **Difficulty:** Intermediate (3/5)
 - **Techniques:** shuffle-feel, ghost-notes, groove-drumming
 
 **How to play it:**
@@ -719,7 +719,7 @@ Profile: [https://metalforge.io/drummers/bill-ward](https://metalforge.io/drumme
 Profile: [https://metalforge.io/drummers/blake-richardson](https://metalforge.io/drummers/blake-richardson) · All licks: [https://metalforge.io/drummers/blake-richardson/licks](https://metalforge.io/drummers/blake-richardson/licks)
 
 ### Prequel to the Sequel — 7/8 Odd-Time Architecture — "Prequel to the Sequel", Colors (2007)
-- **BPM:** ~120 BPM | **Time:** 7/8 (mixed, shifting) | **Difficulty:** Expert (5/5)
+- **BPM:** ~120 BPM | **Time:** 7/8 (mixed, shifting) | **Technique:** odd time | **Difficulty:** Expert (5/5)
 - **Techniques:** odd-time, groove-drumming, fill-techniques
 
 **How to play it:**
@@ -739,7 +739,7 @@ Profile: [https://metalforge.io/drummers/blake-richardson](https://metalforge.io
 **Page:** https://metalforge.io/drummers/blake-richardson/licks/blake-richardson-prequel-sequel-7-8
 
 ### Lay Your Ghosts to Rest — Double Bass Ostinato — "Lay Your Ghosts to Rest", The Parallax II: Future Sequence (2012)
-- **BPM:** ~155 BPM | **Time:** 4/4 (with irregular bass drum phrasing) | **Difficulty:** Advanced (4/5)
+- **BPM:** ~155 BPM | **Time:** 4/4 (with irregular bass drum phrasing) | **Technique:** double bass | **Difficulty:** Advanced (4/5)
 - **Techniques:** double-bass, groove-drumming, odd-time
 
 **How to play it:**
@@ -759,7 +759,7 @@ Profile: [https://metalforge.io/drummers/blake-richardson](https://metalforge.io
 **Page:** https://metalforge.io/drummers/blake-richardson/licks/blake-richardson-lay-ghosts-double-bass
 
 ### Telos — Progressive Fill Architecture — "Telos", The Parallax II: Future Sequence (2012)
-- **BPM:** ~130 BPM | **Time:** 4/4 (metric modulations throughout) | **Difficulty:** Expert (5/5)
+- **BPM:** ~130 BPM | **Time:** 4/4 (metric modulations throughout) | **Technique:** fills | **Difficulty:** Expert (5/5)
 - **Techniques:** fills, odd-time, groove-drumming
 
 **How to play it:**
@@ -783,7 +783,7 @@ Profile: [https://metalforge.io/drummers/blake-richardson](https://metalforge.io
 Profile: [https://metalforge.io/drummers/brann-dailor](https://metalforge.io/drummers/brann-dailor) · All licks: [https://metalforge.io/drummers/brann-dailor/licks](https://metalforge.io/drummers/brann-dailor/licks)
 
 ### Blood and Thunder Lead Groove — "Blood and Thunder", Leviathan (2004)
-- **BPM:** ~168 BPM | **Time:** 4/4 | **Difficulty:** Advanced (4/5)
+- **BPM:** ~168 BPM | **Time:** 4/4 | **Technique:** signature groove | **Difficulty:** Advanced (4/5)
 - **Techniques:** groove-drumming, fill-techniques, linear-drumming
 
 **How to play it:**
@@ -803,7 +803,7 @@ Profile: [https://metalforge.io/drummers/brann-dailor](https://metalforge.io/dru
 **Page:** https://metalforge.io/drummers/brann-dailor/licks/brann-dailor-blood-and-thunder-groove
 
 ### Hearts Alive Melodic Fills — "Hearts Alive", Leviathan (2004)
-- **BPM:** ~150 BPM | **Time:** 4/4 (shifting) | **Difficulty:** Expert (5/5)
+- **BPM:** ~150 BPM | **Time:** 4/4 (shifting) | **Technique:** signature pattern | **Difficulty:** Expert (5/5)
 - **Techniques:** fill-techniques, groove-drumming, polyrhythms
 
 **How to play it:**
@@ -823,7 +823,7 @@ Profile: [https://metalforge.io/drummers/brann-dailor](https://metalforge.io/dru
 **Page:** https://metalforge.io/drummers/brann-dailor/licks/brann-dailor-hearts-alive-fills
 
 ### Ghost of Karelia Prog Groove — "Ghost of Karelia", Crack the Skye (2009)
-- **BPM:** ~132 BPM | **Time:** shifting (6/8 & 4/4) | **Difficulty:** Advanced (4/5)
+- **BPM:** ~132 BPM | **Time:** shifting (6/8 & 4/4) | **Technique:** signature groove | **Difficulty:** Advanced (4/5)
 - **Techniques:** odd-time-signatures, fill-techniques, groove-drumming
 
 **How to play it:**
@@ -843,7 +843,7 @@ Profile: [https://metalforge.io/drummers/brann-dailor](https://metalforge.io/dru
 **Page:** https://metalforge.io/drummers/brann-dailor/licks/brann-dailor-ghost-of-karelia-groove
 
 ### Blood and Thunder Swung Quasi-Blast — "Blood and Thunder", Leviathan (2004)
-- **BPM:** ~168 BPM | **Time:** 4/4 (swing feel) | **Difficulty:** Advanced (4/5)
+- **BPM:** ~168 BPM | **Time:** 4/4 (swing feel) | **Technique:** signature pattern | **Difficulty:** Advanced (4/5)
 - **Techniques:** groove-drumming, linear-drumming, stamina
 
 **How to play it:**
@@ -861,7 +861,7 @@ Profile: [https://metalforge.io/drummers/brann-dailor](https://metalforge.io/dru
 **Page:** https://metalforge.io/drummers/brann-dailor/licks/brann-dailor-blood-and-thunder-shuffle
 
 ### Crack the Skye Melodic Fill — "Crack the Skye", Crack the Skye (2009)
-- **BPM:** ~115 BPM | **Time:** shifting | **Difficulty:** Advanced (4/5)
+- **BPM:** ~115 BPM | **Time:** shifting | **Technique:** signature fill | **Difficulty:** Advanced (4/5)
 - **Techniques:** fill-techniques, odd-time-signatures, groove-drumming
 
 **How to play it:**
@@ -879,7 +879,7 @@ Profile: [https://metalforge.io/drummers/brann-dailor](https://metalforge.io/dru
 **Page:** https://metalforge.io/drummers/brann-dailor/licks/brann-dailor-crack-the-skye-melodic-fill
 
 ### Colony of Birchmen Funky Groove — "Colony of Birchmen", Blood Mountain (2006)
-- **BPM:** ~120 BPM | **Time:** 4/4 | **Difficulty:** Intermediate (3/5)
+- **BPM:** ~120 BPM | **Time:** 4/4 | **Technique:** main groove | **Difficulty:** Intermediate (3/5)
 - **Techniques:** groove-drumming, ghost-notes, hi-hat-control
 
 **How to play it:**
@@ -901,7 +901,7 @@ Profile: [https://metalforge.io/drummers/brann-dailor](https://metalforge.io/dru
 Profile: [https://metalforge.io/drummers/charlie-benante](https://metalforge.io/drummers/charlie-benante) · All licks: [https://metalforge.io/drummers/charlie-benante/licks](https://metalforge.io/drummers/charlie-benante/licks)
 
 ### Caught in a Mosh Syncopated Groove — "Caught in a Mosh", Among the Living (1987)
-- **BPM:** ~180 BPM | **Time:** 4/4 (heavy syncopation) | **Difficulty:** Advanced (4/5)
+- **BPM:** ~180 BPM | **Time:** 4/4 (heavy syncopation) | **Technique:** signature pattern | **Difficulty:** Advanced (4/5)
 - **Techniques:** groove-drumming, double-bass, fill-techniques
 
 **How to play it:**
@@ -921,7 +921,7 @@ Profile: [https://metalforge.io/drummers/charlie-benante](https://metalforge.io/
 **Page:** https://metalforge.io/drummers/charlie-benante/licks/charlie-benante-caught-in-a-mosh-groove
 
 ### Madhouse Thrash Groove — "Madhouse", Spreading the Disease (1985)
-- **BPM:** ~168 BPM | **Time:** 4/4 | **Difficulty:** Advanced (4/5)
+- **BPM:** ~168 BPM | **Time:** 4/4 | **Technique:** main groove | **Difficulty:** Advanced (4/5)
 - **Techniques:** groove-drumming, double-bass, fill-techniques
 
 **How to play it:**
@@ -941,7 +941,7 @@ Profile: [https://metalforge.io/drummers/charlie-benante](https://metalforge.io/
 **Page:** https://metalforge.io/drummers/charlie-benante/licks/charlie-benante-madhouse-thrash-groove
 
 ### Indians War Dance Breakdown — "Indians", Among the Living (1987)
-- **BPM:** ~200 BPM | **Time:** 4/4 (fast thrash into half-time war dance) | **Difficulty:** Expert (5/5)
+- **BPM:** ~200 BPM | **Time:** 4/4 (fast thrash into half-time war dance) | **Technique:** signature pattern | **Difficulty:** Expert (5/5)
 - **Techniques:** double-bass, groove-drumming, fill-techniques
 
 **How to play it:**
@@ -961,7 +961,7 @@ Profile: [https://metalforge.io/drummers/charlie-benante](https://metalforge.io/
 **Page:** https://metalforge.io/drummers/charlie-benante/licks/charlie-benante-indians-war-dance
 
 ### Among the Living Thrash Groove — "I Am the Law", Among the Living (1987)
-- **BPM:** ~190 BPM | **Time:** 4/4 | **Difficulty:** Advanced (4/5)
+- **BPM:** ~190 BPM | **Time:** 4/4 | **Technique:** main groove | **Difficulty:** Advanced (4/5)
 - **Techniques:** groove-drumming, double-bass, fill-techniques
 
 **How to play it:**
@@ -979,7 +979,7 @@ Profile: [https://metalforge.io/drummers/charlie-benante](https://metalforge.io/
 **Page:** https://metalforge.io/drummers/charlie-benante/licks/charlie-benante-among-the-living-thrash-groove
 
 ### Persistence of Time Blast Beat — "Blood", Persistence of Time (1990)
-- **BPM:** ~195 BPM | **Time:** 4/4 (with blast passages) | **Difficulty:** Expert (5/5)
+- **BPM:** ~195 BPM | **Time:** 4/4 (with blast passages) | **Technique:** signature pattern | **Difficulty:** Expert (5/5)
 - **Techniques:** blast-beat, double-bass, fill-techniques
 
 **How to play it:**
@@ -997,7 +997,7 @@ Profile: [https://metalforge.io/drummers/charlie-benante](https://metalforge.io/
 **Page:** https://metalforge.io/drummers/charlie-benante/licks/charlie-benante-persistence-of-time-blast
 
 ### State of Euphoria Mid-Tempo Groove — "Be All, End All", State of Euphoria (1988)
-- **BPM:** ~156 BPM | **Time:** 4/4 | **Difficulty:** Intermediate (3/5)
+- **BPM:** ~156 BPM | **Time:** 4/4 | **Technique:** main groove | **Difficulty:** Intermediate (3/5)
 - **Techniques:** groove-drumming, double-bass, fill-techniques
 
 **How to play it:**
@@ -1019,7 +1019,7 @@ Profile: [https://metalforge.io/drummers/charlie-benante](https://metalforge.io/
 Profile: [https://metalforge.io/drummers/chris-adler](https://metalforge.io/drummers/chris-adler) · All licks: [https://metalforge.io/drummers/chris-adler/licks](https://metalforge.io/drummers/chris-adler/licks)
 
 ### Laid to Rest Ride-Bell Groove — "Laid to Rest", Ashes of the Wake (2004)
-- **BPM:** ~200 BPM | **Time:** 4/4 (heavy syncopation) | **Difficulty:** Expert (5/5)
+- **BPM:** ~200 BPM | **Time:** 4/4 (heavy syncopation) | **Technique:** signature pattern | **Difficulty:** Expert (5/5)
 - **Techniques:** double-bass, groove-drumming, fill-techniques
 
 **How to play it:**
@@ -1039,7 +1039,7 @@ Profile: [https://metalforge.io/drummers/chris-adler](https://metalforge.io/drum
 **Page:** https://metalforge.io/drummers/chris-adler/licks/chris-adler-laid-to-rest-groove
 
 ### Walk with Me in Hell Half-Time Groove — "Walk with Me in Hell", Sacrament (2006)
-- **BPM:** ~150 BPM | **Time:** 4/4 | **Difficulty:** Advanced (4/5)
+- **BPM:** ~150 BPM | **Time:** 4/4 | **Technique:** main groove | **Difficulty:** Advanced (4/5)
 - **Techniques:** groove-drumming, double-bass, fill-techniques
 
 **How to play it:**
@@ -1059,7 +1059,7 @@ Profile: [https://metalforge.io/drummers/chris-adler](https://metalforge.io/drum
 **Page:** https://metalforge.io/drummers/chris-adler/licks/chris-adler-walk-with-me-in-hell-groove
 
 ### 512 Groove & Fills — "512", VII: Sturm und Drang (2015)
-- **BPM:** ~190 BPM | **Time:** 4/4 (with syncopated accents) | **Difficulty:** Expert (5/5)
+- **BPM:** ~190 BPM | **Time:** 4/4 (with syncopated accents) | **Technique:** signature pattern | **Difficulty:** Expert (5/5)
 - **Techniques:** double-bass, groove-drumming, fill-techniques
 
 **How to play it:**
@@ -1079,7 +1079,7 @@ Profile: [https://metalforge.io/drummers/chris-adler](https://metalforge.io/drum
 **Page:** https://metalforge.io/drummers/chris-adler/licks/chris-adler-512-groove
 
 ### Walk with Me in Hell — Drum Setup & Pattern — "Walk with Me in Hell", Sacrament (2006)
-- **BPM:** ~150 BPM | **Time:** 4/4 | **Difficulty:** Advanced (4/5)
+- **BPM:** ~150 BPM | **Time:** 4/4 | **Technique:** main groove | **Difficulty:** Advanced (4/5)
 - **Techniques:** groove-drumming, double-bass, fill-techniques
 
 **How to play it:**
@@ -1099,7 +1099,7 @@ Profile: [https://metalforge.io/drummers/chris-adler](https://metalforge.io/drum
 **Page:** https://metalforge.io/drummers/chris-adler/licks/chris-adler-walk-drum-setup
 
 ### Redneck — Grammy Groove Setup — "Redneck", Sacrament (2006)
-- **BPM:** ~160 BPM | **Time:** 4/4 | **Difficulty:** Expert (5/5)
+- **BPM:** ~160 BPM | **Time:** 4/4 | **Technique:** main groove | **Difficulty:** Expert (5/5)
 - **Techniques:** groove-drumming, double-bass, fill-techniques
 
 **How to play it:**
@@ -1119,7 +1119,7 @@ Profile: [https://metalforge.io/drummers/chris-adler](https://metalforge.io/drum
 **Page:** https://metalforge.io/drummers/chris-adler/licks/chris-adler-redneck-drum-setup
 
 ### The Contractor — Polyrhythmic Setup — "The Contractor", Resolution (2012)
-- **BPM:** ~168 BPM | **Time:** 4/4 (with polyrhythmic accents) | **Difficulty:** Expert (5/5)
+- **BPM:** ~168 BPM | **Time:** 4/4 (with polyrhythmic accents) | **Technique:** signature pattern | **Difficulty:** Expert (5/5)
 - **Techniques:** groove-drumming, double-bass, fill-techniques
 
 **How to play it:**
@@ -1143,7 +1143,7 @@ Profile: [https://metalforge.io/drummers/chris-adler](https://metalforge.io/drum
 Profile: [https://metalforge.io/drummers/chris-turner](https://metalforge.io/drummers/chris-turner) · All licks: [https://metalforge.io/drummers/chris-turner/licks](https://metalforge.io/drummers/chris-turner/licks)
 
 ### Hansha — Polyrhythmic Metalcore Architecture — "Hansha", Hikari (2017)
-- **BPM:** ~165 BPM | **Time:** 4/4 with polyrhythmic superimposition | **Difficulty:** Expert (5/5)
+- **BPM:** ~165 BPM | **Time:** 4/4 with polyrhythmic superimposition | **Technique:** signature pattern | **Difficulty:** Expert (5/5)
 - **Techniques:** polyrhythm, double-bass, blast-beat
 
 **How to play it:**
@@ -1163,7 +1163,7 @@ Profile: [https://metalforge.io/drummers/chris-turner](https://metalforge.io/dru
 **Page:** https://metalforge.io/drummers/chris-turner/licks/chris-turner-hansha-polyrhythm
 
 ### Escapist — Technical Double-Bass Drive — "Escapist", Hikari (2017)
-- **BPM:** ~170 BPM | **Time:** 4/4 | **Difficulty:** Advanced (4/5)
+- **BPM:** ~170 BPM | **Time:** 4/4 | **Technique:** double bass | **Difficulty:** Advanced (4/5)
 - **Techniques:** double-bass, groove-drumming, polyrhythm
 
 **How to play it:**
@@ -1183,7 +1183,7 @@ Profile: [https://metalforge.io/drummers/chris-turner](https://metalforge.io/dru
 **Page:** https://metalforge.io/drummers/chris-turner/licks/chris-turner-escapist-double-bass
 
 ### Metamorph — Mathcore Odd-Time Precision — "Metamorph", Disparity (2022)
-- **BPM:** ~155 BPM | **Time:** shifting (4/4, 7/8, 5/4) | **Difficulty:** Expert (5/5)
+- **BPM:** ~155 BPM | **Time:** shifting (4/4, 7/8, 5/4) | **Technique:** odd time | **Difficulty:** Expert (5/5)
 - **Techniques:** odd-time-signatures, blast-beat, groove-drumming
 
 **How to play it:**
@@ -1207,7 +1207,7 @@ Profile: [https://metalforge.io/drummers/chris-turner](https://metalforge.io/dru
 Profile: [https://metalforge.io/drummers/daniel-erlandsson](https://metalforge.io/drummers/daniel-erlandsson) · All licks: [https://metalforge.io/drummers/daniel-erlandsson/licks](https://metalforge.io/drummers/daniel-erlandsson/licks)
 
 ### War Eternal Double-Bass Drive — "War Eternal", War Eternal (2014)
-- **BPM:** ~180 BPM | **Time:** 4/4 | **Difficulty:** Advanced (4/5)
+- **BPM:** ~180 BPM | **Time:** 4/4 | **Technique:** signature pattern | **Difficulty:** Advanced (4/5)
 - **Techniques:** double-bass, blast-beat, groove-drumming
 
 **How to play it:**
@@ -1227,7 +1227,7 @@ Profile: [https://metalforge.io/drummers/daniel-erlandsson](https://metalforge.i
 **Page:** https://metalforge.io/drummers/daniel-erlandsson/licks/daniel-erlandsson-war-eternal
 
 ### Nemesis Galloping Double Bass — "Nemesis", Doomsday Machine (2005)
-- **BPM:** ~200 BPM | **Time:** 4/4 | **Difficulty:** Advanced (4/5)
+- **BPM:** ~200 BPM | **Time:** 4/4 | **Technique:** signature pattern | **Difficulty:** Advanced (4/5)
 - **Techniques:** double-bass, blast-beat, fill-techniques
 
 **How to play it:**
@@ -1247,7 +1247,7 @@ Profile: [https://metalforge.io/drummers/daniel-erlandsson](https://metalforge.i
 **Page:** https://metalforge.io/drummers/daniel-erlandsson/licks/daniel-erlandsson-nemesis
 
 ### Avalanche Blast & Groove Attack — "Avalanche", Wages of Sin (2001)
-- **BPM:** ~210 BPM | **Time:** 4/4 | **Difficulty:** Advanced (4/5)
+- **BPM:** ~210 BPM | **Time:** 4/4 | **Technique:** signature pattern | **Difficulty:** Advanced (4/5)
 - **Techniques:** double-bass, groove-drumming, blast-beat
 
 **How to play it:**
@@ -1271,7 +1271,7 @@ Profile: [https://metalforge.io/drummers/daniel-erlandsson](https://metalforge.i
 Profile: [https://metalforge.io/drummers/danny-carey](https://metalforge.io/drummers/danny-carey) · All licks: [https://metalforge.io/drummers/danny-carey/licks](https://metalforge.io/drummers/danny-carey/licks)
 
 ### Pneuma Main Groove — "Pneuma", Fear Inoculum (2019)
-- **BPM:** 77 BPM | **Time:** 9/8 | **Difficulty:** Expert (5/5)
+- **BPM:** 77 BPM | **Time:** 9/8 | **Technique:** main groove | **Difficulty:** Expert (5/5)
 - **Techniques:** odd-time-signatures, polyrhythms, groove-drumming
 
 **How to play it:**
@@ -1291,7 +1291,7 @@ Profile: [https://metalforge.io/drummers/danny-carey](https://metalforge.io/drum
 **Page:** https://metalforge.io/drummers/danny-carey/licks/danny-carey-pneuma-groove
 
 ### Schism Intro Pattern — "Schism", Lateralus (2001)
-- **BPM:** 134 BPM | **Time:** 5/8 | **Difficulty:** Expert (5/5)
+- **BPM:** 134 BPM | **Time:** 5/8 | **Technique:** intro fill | **Difficulty:** Expert (5/5)
 - **Techniques:** odd-time-signatures, polyrhythms, fill-techniques
 
 **How to play it:**
@@ -1311,7 +1311,7 @@ Profile: [https://metalforge.io/drummers/danny-carey](https://metalforge.io/drum
 **Page:** https://metalforge.io/drummers/danny-carey/licks/danny-carey-schism-intro
 
 ### Forty Six & 2 Outro Solo — "Forty Six & 2", Ænima (1996)
-- **BPM:** 110 BPM | **Time:** 4/4 | **Difficulty:** Expert (5/5)
+- **BPM:** 110 BPM | **Time:** 4/4 | **Technique:** drum solo | **Difficulty:** Expert (5/5)
 - **Techniques:** fill-techniques, polyrhythms, groove-drumming
 
 **How to play it:**
@@ -1331,7 +1331,7 @@ Profile: [https://metalforge.io/drummers/danny-carey](https://metalforge.io/drum
 **Page:** https://metalforge.io/drummers/danny-carey/licks/danny-carey-forty-six-and-2-outro
 
 ### Schism Odd Meter Groove — "Schism", Lateralus (2001)
-- **BPM:** 134 BPM | **Time:** 5/4 + 4/4 alternating | **Difficulty:** Expert (5/5)
+- **BPM:** 134 BPM | **Time:** 5/4 + 4/4 alternating | **Technique:** main groove | **Difficulty:** Expert (5/5)
 - **Techniques:** odd-time-signatures, polyrhythms, groove-drumming
 
 **How to play it:**
@@ -1349,7 +1349,7 @@ Profile: [https://metalforge.io/drummers/danny-carey](https://metalforge.io/drum
 **Page:** https://metalforge.io/drummers/danny-carey/licks/danny-carey-schism-odd-meter-groove
 
 ### Lateralus Fibonacci Polyrhythm — "Lateralus", Lateralus (2001)
-- **BPM:** ~99 BPM | **Time:** 9/8 — 8/8 — 7/8 Fibonacci cycle | **Difficulty:** Expert (5/5)
+- **BPM:** ~99 BPM | **Time:** 9/8 — 8/8 — 7/8 Fibonacci cycle | **Technique:** signature pattern | **Difficulty:** Expert (5/5)
 - **Techniques:** odd-time-signatures, polyrhythms, groove-drumming
 
 **How to play it:**
@@ -1367,7 +1367,7 @@ Profile: [https://metalforge.io/drummers/danny-carey](https://metalforge.io/drum
 **Page:** https://metalforge.io/drummers/danny-carey/licks/danny-carey-lateralus-polyrhythm
 
 ### Forty Six & 2 Steady Groove — "Forty Six & 2", Ænima (1996)
-- **BPM:** ~110 BPM | **Time:** 13/8 modular | **Difficulty:** Advanced (4/5)
+- **BPM:** ~110 BPM | **Time:** 13/8 modular | **Technique:** main groove | **Difficulty:** Advanced (4/5)
 - **Techniques:** odd-time-signatures, groove-drumming, polyrhythms
 
 **How to play it:**
@@ -1389,7 +1389,7 @@ Profile: [https://metalforge.io/drummers/danny-carey](https://metalforge.io/drum
 Profile: [https://metalforge.io/drummers/daray](https://metalforge.io/drummers/daray) · All licks: [https://metalforge.io/drummers/daray/licks](https://metalforge.io/drummers/daray/licks)
 
 ### Gateways — Technical Blast in Orchestral Context — "Gateways", Abrahadabra (2010)
-- **BPM:** ~200 BPM | **Time:** 4/4 | **Difficulty:** Expert (5/5)
+- **BPM:** ~200 BPM | **Time:** 4/4 | **Technique:** blast technique | **Difficulty:** Expert (5/5)
 - **Techniques:** blast-beat, orchestral-metal, tempo-precision
 
 **How to play it:**
@@ -1409,7 +1409,7 @@ Profile: [https://metalforge.io/drummers/daray](https://metalforge.io/drummers/d
 **Page:** https://metalforge.io/drummers/daray/licks/daray-gateways-blast
 
 ### Progenies of the Great Apocalypse — Live Double Bass Command — "Progenies of the Great Apocalypse", Forces of the Northern Night (Live, 2016)
-- **BPM:** ~195 BPM | **Time:** 4/4 | **Difficulty:** Expert (5/5)
+- **BPM:** ~195 BPM | **Time:** 4/4 | **Technique:** double bass | **Difficulty:** Expert (5/5)
 - **Techniques:** double-bass, live-performance, orchestral-metal
 
 **How to play it:**
@@ -1429,7 +1429,7 @@ Profile: [https://metalforge.io/drummers/daray](https://metalforge.io/drummers/d
 **Page:** https://metalforge.io/drummers/daray/licks/daray-progenies-double-bass
 
 ### Council of Wolves and Snakes — Groove Architecture in Symphonic Metal — "Council of Wolves and Snakes", Eonian (2018)
-- **BPM:** ~160 BPM | **Time:** 4/4 | **Difficulty:** Advanced (4/5)
+- **BPM:** ~160 BPM | **Time:** 4/4 | **Technique:** signature pattern | **Difficulty:** Advanced (4/5)
 - **Techniques:** groove-drumming, orchestral-metal, syncopation
 
 **How to play it:**
@@ -1453,7 +1453,7 @@ Profile: [https://metalforge.io/drummers/daray](https://metalforge.io/drummers/d
 Profile: [https://metalforge.io/drummers/dave-lombardo](https://metalforge.io/drummers/dave-lombardo) · All licks: [https://metalforge.io/drummers/dave-lombardo/licks](https://metalforge.io/drummers/dave-lombardo/licks)
 
 ### Reign in Blood Double-Bass Pump — "Postmortem", Reign in Blood (1986)
-- **BPM:** ~190 BPM | **Time:** 4/4 | **Difficulty:** Expert (5/5)
+- **BPM:** ~190 BPM | **Time:** 4/4 | **Technique:** double bass | **Difficulty:** Expert (5/5)
 - **Techniques:** double-bass, riff-lock, groove-drumming
 
 **How to play it:**
@@ -1471,7 +1471,7 @@ Profile: [https://metalforge.io/drummers/dave-lombardo](https://metalforge.io/dr
 **Page:** https://metalforge.io/drummers/dave-lombardo/licks/dave-lombardo-slayer-reign-in-blood-double-bass
 
 ### Show No Mercy Speed Tom Cascade — "The Antichrist", Show No Mercy (1983)
-- **BPM:** ~220 BPM | **Time:** 4/4 | **Difficulty:** Advanced (4/5)
+- **BPM:** ~220 BPM | **Time:** 4/4 | **Technique:** fill techniques | **Difficulty:** Advanced (4/5)
 - **Techniques:** fill-techniques, tom-work, groove-drumming
 
 **How to play it:**
@@ -1489,7 +1489,7 @@ Profile: [https://metalforge.io/drummers/dave-lombardo](https://metalforge.io/dr
 **Page:** https://metalforge.io/drummers/dave-lombardo/licks/dave-lombardo-show-no-mercy-tom-run
 
 ### Angel of Death Opening — "Angel of Death", Reign in Blood (1986)
-- **BPM:** 210 BPM | **Time:** 4/4 | **Difficulty:** Expert (5/5)
+- **BPM:** 210 BPM | **Time:** 4/4 | **Technique:** intro chaos | **Difficulty:** Expert (5/5)
 - **Techniques:** blast-beat, double-bass, fills
 
 **How to play it:**
@@ -1506,7 +1506,7 @@ Profile: [https://metalforge.io/drummers/dave-lombardo](https://metalforge.io/dr
 **Page:** https://metalforge.io/drummers/dave-lombardo/licks/dave-lombardo-angel-of-death-chaos
 
 ### Raining Blood Double Bass — "Raining Blood", Reign in Blood (1986)
-- **BPM:** 190 BPM | **Time:** 4/4 | **Difficulty:** Advanced (4/5)
+- **BPM:** 190 BPM | **Time:** 4/4 | **Technique:** main groove | **Difficulty:** Advanced (4/5)
 - **Techniques:** double-bass, groove, dynamics
 
 **How to play it:**
@@ -1523,7 +1523,7 @@ Profile: [https://metalforge.io/drummers/dave-lombardo](https://metalforge.io/dr
 **Page:** https://metalforge.io/drummers/dave-lombardo/licks/dave-lombardo-raining-blood-double-bass
 
 ### Seasons in the Abyss Groove — "Seasons in the Abyss", Seasons in the Abyss (1990)
-- **BPM:** 174 BPM | **Time:** 4/4 | **Difficulty:** Intermediate (3/5)
+- **BPM:** 174 BPM | **Time:** 4/4 | **Technique:** main groove | **Difficulty:** Intermediate (3/5)
 - **Techniques:** groove, dynamics, hi-hat-control
 
 **How to play it:**
@@ -1540,7 +1540,7 @@ Profile: [https://metalforge.io/drummers/dave-lombardo](https://metalforge.io/dr
 **Page:** https://metalforge.io/drummers/dave-lombardo/licks/dave-lombardo-seasons-thrash
 
 ### Raining Blood Intro Blast — "Raining Blood", Reign in Blood (1986)
-- **BPM:** 212 BPM | **Time:** 4/4 | **Difficulty:** Expert (5/5)
+- **BPM:** 212 BPM | **Time:** 4/4 | **Technique:** blast intro | **Difficulty:** Expert (5/5)
 - **Techniques:** blast-beat, straight-sixteenths, wrist-technique
 
 **How to play it:**
@@ -1558,7 +1558,7 @@ Profile: [https://metalforge.io/drummers/dave-lombardo](https://metalforge.io/dr
 **Page:** https://metalforge.io/drummers/dave-lombardo/licks/dave-lombardo-raining-blood-lick
 
 ### Angel of Death Double-Bass Tornado — "Angel of Death", Reign in Blood (1986)
-- **BPM:** 210 BPM | **Time:** 4/4 | **Difficulty:** Expert (5/5)
+- **BPM:** 210 BPM | **Time:** 4/4 | **Technique:** double bass blast | **Difficulty:** Expert (5/5)
 - **Techniques:** double-bass, blast-beat, limb-synchronisation
 
 **How to play it:**
@@ -1576,7 +1576,7 @@ Profile: [https://metalforge.io/drummers/dave-lombardo](https://metalforge.io/dr
 **Page:** https://metalforge.io/drummers/dave-lombardo/licks/dave-lombardo-angel-of-death-lick
 
 ### South of Heaven Half-Time Groove — "South of Heaven", South of Heaven (1988)
-- **BPM:** ~100 BPM | **Time:** 4/4 | **Difficulty:** Intermediate (3/5)
+- **BPM:** ~100 BPM | **Time:** 4/4 | **Technique:** half time groove | **Difficulty:** Intermediate (3/5)
 - **Techniques:** half-time-groove, riff-lock, groove-drumming
 
 **How to play it:**
@@ -1598,7 +1598,7 @@ Profile: [https://metalforge.io/drummers/dave-lombardo](https://metalforge.io/dr
 Profile: [https://metalforge.io/drummers/derek-roddy](https://metalforge.io/drummers/derek-roddy) · All licks: [https://metalforge.io/drummers/derek-roddy/licks](https://metalforge.io/drummers/derek-roddy/licks)
 
 ### King of All Kings Single-Stroke Blast — "King of All Kings", King of All Kings (2002)
-- **BPM:** ~250 BPM | **Time:** 4/4 (extreme tempo) | **Difficulty:** Expert (5/5)
+- **BPM:** ~250 BPM | **Time:** 4/4 (extreme tempo) | **Technique:** signature pattern | **Difficulty:** Expert (5/5)
 - **Techniques:** blast-beat, double-bass, one-handed-roll
 
 **How to play it:**
@@ -1618,7 +1618,7 @@ Profile: [https://metalforge.io/drummers/derek-roddy](https://metalforge.io/drum
 **Page:** https://metalforge.io/drummers/derek-roddy/licks/derek-roddy-king-of-all-kings-blast
 
 ### I, Monarch Double-Bass Control — "I, Monarch", I, Monarch (2005)
-- **BPM:** ~220 BPM | **Time:** 4/4 | **Difficulty:** Expert (5/5)
+- **BPM:** ~220 BPM | **Time:** 4/4 | **Technique:** signature pattern | **Difficulty:** Expert (5/5)
 - **Techniques:** double-bass, blast-beat, linear-drumming
 
 **How to play it:**
@@ -1638,7 +1638,7 @@ Profile: [https://metalforge.io/drummers/derek-roddy](https://metalforge.io/drum
 **Page:** https://metalforge.io/drummers/derek-roddy/licks/derek-roddy-i-monarch-double-bass
 
 ### Sons of Darkness Speed & Endurance Study — "Sons of Darkness", King of All Kings (2002)
-- **BPM:** ~260 BPM | **Time:** 4/4 (extreme tempo) | **Difficulty:** Expert (5/5)
+- **BPM:** ~260 BPM | **Time:** 4/4 (extreme tempo) | **Technique:** signature pattern | **Difficulty:** Expert (5/5)
 - **Techniques:** blast-beat, double-bass, gravity-blast
 
 **How to play it:**
@@ -1658,7 +1658,7 @@ Profile: [https://metalforge.io/drummers/derek-roddy](https://metalforge.io/drum
 **Page:** https://metalforge.io/drummers/derek-roddy/licks/derek-roddy-sons-of-darkness-speed
 
 ### Gravity Blast Technique — "For Raping the Useful Idiot", I, Monarch (2005)
-- **BPM:** ~250 BPM | **Time:** 4/4 (extreme tempo) | **Difficulty:** Expert (5/5)
+- **BPM:** ~250 BPM | **Time:** 4/4 (extreme tempo) | **Technique:** blast beat | **Difficulty:** Expert (5/5)
 - **Techniques:** blast-beat, gravity-blast, double-bass
 
 **How to play it:**
@@ -1676,7 +1676,7 @@ Profile: [https://metalforge.io/drummers/derek-roddy](https://metalforge.io/drum
 **Page:** https://metalforge.io/drummers/derek-roddy/licks/derek-roddy-blast-beat-gravity
 
 ### Evilution Polyrhythmic Fill — "Slaves and Masters", Evilution (1996)
-- **BPM:** ~185 BPM | **Time:** 4/4 | **Difficulty:** Expert (5/5)
+- **BPM:** ~185 BPM | **Time:** 4/4 | **Technique:** polyrhythmic | **Difficulty:** Expert (5/5)
 - **Techniques:** polyrhythms, blast-beat, fill-techniques
 
 **How to play it:**
@@ -1694,7 +1694,7 @@ Profile: [https://metalforge.io/drummers/derek-roddy](https://metalforge.io/drum
 **Page:** https://metalforge.io/drummers/derek-roddy/licks/derek-roddy-evilution-polyrhythm
 
 ### Hate Eternal Descending Tom Fill — "Behold His Wrath", King of All Kings (2002)
-- **BPM:** ~230 BPM | **Time:** 4/4 (extreme tempo) | **Difficulty:** Expert (5/5)
+- **BPM:** ~230 BPM | **Time:** 4/4 (extreme tempo) | **Technique:** fill techniques | **Difficulty:** Expert (5/5)
 - **Techniques:** fill-techniques, blast-beat, double-bass
 
 **How to play it:**
@@ -1716,7 +1716,7 @@ Profile: [https://metalforge.io/drummers/derek-roddy](https://metalforge.io/drum
 Profile: [https://metalforge.io/drummers/dirk-verbeuren](https://metalforge.io/drummers/dirk-verbeuren) · All licks: [https://metalforge.io/drummers/dirk-verbeuren/licks](https://metalforge.io/drummers/dirk-verbeuren/licks)
 
 ### We'll Be Back / Tipping Point Thrash Drive — "Tipping Point", The Sick, the Dying... and the Dead! (2022)
-- **BPM:** ~200 BPM | **Time:** 4/4 (shifting) | **Difficulty:** Expert (5/5)
+- **BPM:** ~200 BPM | **Time:** 4/4 (shifting) | **Technique:** signature pattern | **Difficulty:** Expert (5/5)
 - **Techniques:** double-bass, blast-beat, fill-techniques
 
 **How to play it:**
@@ -1736,7 +1736,7 @@ Profile: [https://metalforge.io/drummers/dirk-verbeuren](https://metalforge.io/d
 **Page:** https://metalforge.io/drummers/dirk-verbeuren/licks/dirk-verbeuren-tipping-point
 
 ### Mechanix Thrash Speed Workout — "Mechanix", Killing Is My Business... and Business Is Good! (1985)
-- **BPM:** ~220 BPM | **Time:** 4/4 (extreme tempo) | **Difficulty:** Expert (5/5)
+- **BPM:** ~220 BPM | **Time:** 4/4 (extreme tempo) | **Technique:** signature pattern | **Difficulty:** Expert (5/5)
 - **Techniques:** double-bass, blast-beat, fill-techniques
 
 **How to play it:**
@@ -1756,7 +1756,7 @@ Profile: [https://metalforge.io/drummers/dirk-verbeuren](https://metalforge.io/d
 **Page:** https://metalforge.io/drummers/dirk-verbeuren/licks/dirk-verbeuren-mechanix
 
 ### King of the Threshold Blast Masterclass — "King of the Threshold", Stabbing the Drama (2005)
-- **BPM:** ~210 BPM | **Time:** 4/4 (shifting) | **Difficulty:** Expert (5/5)
+- **BPM:** ~210 BPM | **Time:** 4/4 (shifting) | **Technique:** signature pattern | **Difficulty:** Expert (5/5)
 - **Techniques:** blast-beat, double-bass, gravity-blast
 
 **How to play it:**
@@ -1780,7 +1780,7 @@ Profile: [https://metalforge.io/drummers/dirk-verbeuren](https://metalforge.io/d
 Profile: [https://metalforge.io/drummers/eloy-casagrande](https://metalforge.io/drummers/eloy-casagrande) · All licks: [https://metalforge.io/drummers/eloy-casagrande/licks](https://metalforge.io/drummers/eloy-casagrande/licks)
 
 ### Means To An End Groove — "Means To An End", Quadra (2020)
-- **BPM:** ~160 BPM | **Time:** 4/4 | **Difficulty:** Advanced (4/5)
+- **BPM:** ~160 BPM | **Time:** 4/4 | **Technique:** signature groove | **Difficulty:** Advanced (4/5)
 - **Techniques:** double-bass, groove-drumming, fill-techniques
 
 **How to play it:**
@@ -1800,7 +1800,7 @@ Profile: [https://metalforge.io/drummers/eloy-casagrande](https://metalforge.io/
 **Page:** https://metalforge.io/drummers/eloy-casagrande/licks/eloy-casagrande-means-to-an-end-groove
 
 ### Isolation Blast & Double Bass — "Isolation", Quadra (2020)
-- **BPM:** ~190 BPM | **Time:** 4/4 | **Difficulty:** Expert (5/5)
+- **BPM:** ~190 BPM | **Time:** 4/4 | **Technique:** blast section | **Difficulty:** Expert (5/5)
 - **Techniques:** blast-beat, double-bass, groove-drumming
 
 **How to play it:**
@@ -1820,7 +1820,7 @@ Profile: [https://metalforge.io/drummers/eloy-casagrande](https://metalforge.io/
 **Page:** https://metalforge.io/drummers/eloy-casagrande/licks/eloy-casagrande-isolation-blast
 
 ### Arise Double Bass Drive — "Arise", Arise (1991)
-- **BPM:** ~180 BPM | **Time:** 4/4 | **Difficulty:** Advanced (4/5)
+- **BPM:** ~180 BPM | **Time:** 4/4 | **Technique:** signature groove | **Difficulty:** Advanced (4/5)
 - **Techniques:** double-bass, groove-drumming, fill-techniques
 
 **How to play it:**
@@ -1844,7 +1844,7 @@ Profile: [https://metalforge.io/drummers/eloy-casagrande](https://metalforge.io/
 Profile: [https://metalforge.io/drummers/flo-mounier](https://metalforge.io/drummers/flo-mounier) · All licks: [https://metalforge.io/drummers/flo-mounier/licks](https://metalforge.io/drummers/flo-mounier/licks)
 
 ### Sire of Sin Blast & Gravity Assault — "Sire of Sin", Cryptopsy (2008)
-- **BPM:** ~240 BPM | **Time:** 4/4 (shifting accents) | **Difficulty:** Expert (5/5)
+- **BPM:** ~240 BPM | **Time:** 4/4 (shifting accents) | **Technique:** signature pattern | **Difficulty:** Expert (5/5)
 - **Techniques:** blast-beat, gravity-blast, double-bass
 
 **How to play it:**
@@ -1864,7 +1864,7 @@ Profile: [https://metalforge.io/drummers/flo-mounier](https://metalforge.io/drum
 **Page:** https://metalforge.io/drummers/flo-mounier/licks/flo-mounier-sire-of-sin-blast
 
 ### Phobophile Gravity Blast Masterclass — "Phobophile", None So Vile (1996)
-- **BPM:** ~230 BPM | **Time:** 4/4 (extreme tempo) | **Difficulty:** Expert (5/5)
+- **BPM:** ~230 BPM | **Time:** 4/4 (extreme tempo) | **Technique:** signature pattern | **Difficulty:** Expert (5/5)
 - **Techniques:** gravity-blast, blast-beat, one-handed-roll
 
 **How to play it:**
@@ -1884,7 +1884,7 @@ Profile: [https://metalforge.io/drummers/flo-mounier](https://metalforge.io/drum
 **Page:** https://metalforge.io/drummers/flo-mounier/licks/flo-mounier-phobophile-gravity-blast
 
 ### None So Vile Gravity Blast — Crown of Horns — "Crown of Horns", None So Vile (1996)
-- **BPM:** ~240 BPM | **Time:** 4/4 (shifting) | **Difficulty:** Expert (5/5)
+- **BPM:** ~240 BPM | **Time:** 4/4 (shifting) | **Technique:** signature pattern | **Difficulty:** Expert (5/5)
 - **Techniques:** gravity-blast, blast-beat, double-bass
 
 **How to play it:**
@@ -1902,7 +1902,7 @@ Profile: [https://metalforge.io/drummers/flo-mounier](https://metalforge.io/drum
 **Page:** https://metalforge.io/drummers/flo-mounier/licks/flo-mounier-none-so-vile-gravity-blast
 
 ### Blasphemy Made Flesh Double Kick — Open Face Surgery — "Open Face Surgery", Blasphemy Made Flesh (1994)
-- **BPM:** ~200 BPM | **Time:** 4/4 | **Difficulty:** Expert (5/5)
+- **BPM:** ~200 BPM | **Time:** 4/4 | **Technique:** blast technique | **Difficulty:** Expert (5/5)
 - **Techniques:** double-bass, blast-beat, foot-endurance
 
 **How to play it:**
@@ -1920,7 +1920,7 @@ Profile: [https://metalforge.io/drummers/flo-mounier](https://metalforge.io/drum
 **Page:** https://metalforge.io/drummers/flo-mounier/licks/flo-mounier-blasphemy-made-flesh-double-kick
 
 ### Whisper Supremacy Extreme Tom Fill — Emaciate — "Emaciate", Whisper Supremacy (1998)
-- **BPM:** ~220 BPM | **Time:** 4/4 (odd accents) | **Difficulty:** Expert (5/5)
+- **BPM:** ~220 BPM | **Time:** 4/4 (odd accents) | **Technique:** fill | **Difficulty:** Expert (5/5)
 - **Techniques:** fill-techniques, jazz-phrasing, blast-beat
 
 **How to play it:**
@@ -1938,7 +1938,7 @@ Profile: [https://metalforge.io/drummers/flo-mounier](https://metalforge.io/drum
 **Page:** https://metalforge.io/drummers/flo-mounier/licks/flo-mounier-whisper-supremacy-tom-fill
 
 ### Slit Your Guts Blast & Double-Bass Barrage — "Slit Your Guts", None So Vile (1996)
-- **BPM:** ~250 BPM | **Time:** 4/4 (shifting accents) | **Difficulty:** Expert (5/5)
+- **BPM:** ~250 BPM | **Time:** 4/4 (shifting accents) | **Technique:** signature pattern | **Difficulty:** Expert (5/5)
 - **Techniques:** blast-beat, double-bass, polyrhythms
 
 **How to play it:**
@@ -1962,7 +1962,7 @@ Profile: [https://metalforge.io/drummers/flo-mounier](https://metalforge.io/drum
 Profile: [https://metalforge.io/drummers/frost](https://metalforge.io/drummers/frost) · All licks: [https://metalforge.io/drummers/frost/licks](https://metalforge.io/drummers/frost/licks)
 
 ### Fuel for Hatred — Precision Blast Beat Architecture — "Fuel for Hatred", Volcano (2002)
-- **BPM:** ~210 BPM | **Time:** 4/4 | **Difficulty:** Expert (5/5)
+- **BPM:** ~210 BPM | **Time:** 4/4 | **Technique:** blast technique | **Difficulty:** Expert (5/5)
 - **Techniques:** blast-beat, groove-drumming, black-metal
 
 **How to play it:**
@@ -1982,7 +1982,7 @@ Profile: [https://metalforge.io/drummers/frost](https://metalforge.io/drummers/f
 **Page:** https://metalforge.io/drummers/frost/licks/frost-fuel-for-hatred-blast
 
 ### K.I.N.G. — Signature Mid-Tempo Black Metal Groove — "K.I.N.G.", Now, Diabolical (2006)
-- **BPM:** ~140 BPM | **Time:** 4/4 | **Difficulty:** Advanced (4/5)
+- **BPM:** ~140 BPM | **Time:** 4/4 | **Technique:** signature pattern | **Difficulty:** Advanced (4/5)
 - **Techniques:** groove-drumming, mid-tempo, rhythmic-precision
 
 **How to play it:**
@@ -2002,7 +2002,7 @@ Profile: [https://metalforge.io/drummers/frost](https://metalforge.io/drummers/f
 **Page:** https://metalforge.io/drummers/frost/licks/frost-king-mid-tempo-groove
 
 ### Mother North — Classic Mid-Paced Black Metal Feel — "Mother North", Nemesis Divina (1996)
-- **BPM:** ~130 BPM | **Time:** 4/4 | **Difficulty:** Advanced (4/5)
+- **BPM:** ~130 BPM | **Time:** 4/4 | **Technique:** signature pattern | **Difficulty:** Advanced (4/5)
 - **Techniques:** groove-drumming, compositional-drumming, black-metal
 
 **How to play it:**
@@ -2026,7 +2026,7 @@ Profile: [https://metalforge.io/drummers/frost](https://metalforge.io/drummers/f
 Profile: [https://metalforge.io/drummers/gavin-harrison](https://metalforge.io/drummers/gavin-harrison) · All licks: [https://metalforge.io/drummers/gavin-harrison/licks](https://metalforge.io/drummers/gavin-harrison/licks)
 
 ### Anesthetize Odd-Time Epic — "Anesthetize", Fear of a Blank Planet (2007)
-- **BPM:** ~150 BPM (shifting) | **Time:** mixed meter | **Difficulty:** Expert (5/5)
+- **BPM:** ~150 BPM (shifting) | **Time:** mixed meter | **Technique:** signature pattern | **Difficulty:** Expert (5/5)
 - **Techniques:** odd-time-signatures, polyrhythms, groove-drumming
 
 **How to play it:**
@@ -2046,7 +2046,7 @@ Profile: [https://metalforge.io/drummers/gavin-harrison](https://metalforge.io/d
 **Page:** https://metalforge.io/drummers/gavin-harrison/licks/gavin-harrison-anesthetize
 
 ### The Sound of Muzak 7/8 Groove — "The Sound of Muzak", In Absentia (2002)
-- **BPM:** ~100 BPM | **Time:** 7/8 | **Difficulty:** Advanced (4/5)
+- **BPM:** ~100 BPM | **Time:** 7/8 | **Technique:** signature pattern | **Difficulty:** Advanced (4/5)
 - **Techniques:** odd-time-signatures, groove-drumming, polyrhythms
 
 **How to play it:**
@@ -2066,7 +2066,7 @@ Profile: [https://metalforge.io/drummers/gavin-harrison](https://metalforge.io/d
 **Page:** https://metalforge.io/drummers/gavin-harrison/licks/gavin-harrison-the-sound-of-muzak
 
 ### Harridan Displaced-Fill Study — "Harridan", Closure/Continuation (2022)
-- **BPM:** ~130 BPM | **Time:** shifting / displaced | **Difficulty:** Expert (5/5)
+- **BPM:** ~130 BPM | **Time:** shifting / displaced | **Technique:** signature pattern | **Difficulty:** Expert (5/5)
 - **Techniques:** odd-time-signatures, polyrhythms, fill-techniques
 
 **How to play it:**
@@ -2090,7 +2090,7 @@ Profile: [https://metalforge.io/drummers/gavin-harrison](https://metalforge.io/d
 Profile: [https://metalforge.io/drummers/gene-hoglan](https://metalforge.io/drummers/gene-hoglan) · All licks: [https://metalforge.io/drummers/gene-hoglan/licks](https://metalforge.io/drummers/gene-hoglan/licks)
 
 ### The Philosopher Groove — "The Philosopher", Individual Thought Patterns (1993)
-- **BPM:** 180 BPM | **Time:** 4/4 | **Difficulty:** Expert (5/5)
+- **BPM:** 180 BPM | **Time:** 4/4 | **Technique:** main groove | **Difficulty:** Expert (5/5)
 - **Techniques:** double-bass, fill-techniques, groove-drumming
 
 **How to play it:**
@@ -2110,7 +2110,7 @@ Profile: [https://metalforge.io/drummers/gene-hoglan](https://metalforge.io/drum
 **Page:** https://metalforge.io/drummers/gene-hoglan/licks/gene-hoglan-the-philosopher-groove
 
 ### Crystal Mountain Groove — "Crystal Mountain", Symbolic (1995)
-- **BPM:** 200 BPM | **Time:** 4/4 | **Difficulty:** Expert (5/5)
+- **BPM:** 200 BPM | **Time:** 4/4 | **Technique:** main groove | **Difficulty:** Expert (5/5)
 - **Techniques:** double-bass, groove-drumming, fill-techniques
 
 **How to play it:**
@@ -2130,7 +2130,7 @@ Profile: [https://metalforge.io/drummers/gene-hoglan](https://metalforge.io/drum
 **Page:** https://metalforge.io/drummers/gene-hoglan/licks/gene-hoglan-crystal-mountain-groove
 
 ### Dark Angel 220 BPM Blast Beat — "Darkness Descends", Darkness Descends (1986)
-- **BPM:** ~220 BPM | **Time:** 4/4 | **Difficulty:** Expert (5/5)
+- **BPM:** ~220 BPM | **Time:** 4/4 | **Technique:** blast beat | **Difficulty:** Expert (5/5)
 - **Techniques:** blast-beat, wrist-technique, single-bass
 
 **How to play it:**
@@ -2148,7 +2148,7 @@ Profile: [https://metalforge.io/drummers/gene-hoglan](https://metalforge.io/drum
 **Page:** https://metalforge.io/drummers/gene-hoglan/licks/gene-hoglan-dark-angel-220bpm-blast-beat
 
 ### Symbolic Groove-to-Blast Switch — "Symbolic", Symbolic (1995)
-- **BPM:** ~195 BPM | **Time:** 4/4 | **Difficulty:** Expert (5/5)
+- **BPM:** ~195 BPM | **Time:** 4/4 | **Technique:** groove to blast | **Difficulty:** Expert (5/5)
 - **Techniques:** groove-drumming, blast-beat, fill-techniques
 
 **How to play it:**
@@ -2166,7 +2166,7 @@ Profile: [https://metalforge.io/drummers/gene-hoglan](https://metalforge.io/drum
 **Page:** https://metalforge.io/drummers/gene-hoglan/licks/gene-hoglan-death-symbolic-groove-blast-combo
 
 ### Zero Tolerance Groove — "Zero Tolerance", Symbolic (1995)
-- **BPM:** 190 BPM | **Time:** 4/4 | **Difficulty:** Advanced (4/5)
+- **BPM:** 190 BPM | **Time:** 4/4 | **Technique:** main groove | **Difficulty:** Advanced (4/5)
 - **Techniques:** double-bass, blast-beat, groove-drumming
 
 **How to play it:**
@@ -2186,7 +2186,7 @@ Profile: [https://metalforge.io/drummers/gene-hoglan](https://metalforge.io/drum
 **Page:** https://metalforge.io/drummers/gene-hoglan/licks/gene-hoglan-zero-tolerance-groove
 
 ### Darkness Descends Hyper-Blast — "Darkness Descends", Darkness Descends (1986)
-- **BPM:** ~240 BPM | **Time:** 4/4 | **Difficulty:** Expert (5/5)
+- **BPM:** ~240 BPM | **Time:** 4/4 | **Technique:** hyper blast | **Difficulty:** Expert (5/5)
 - **Techniques:** blast-beat, wrist-technique, single-bass
 
 **How to play it:**
@@ -2204,7 +2204,7 @@ Profile: [https://metalforge.io/drummers/gene-hoglan](https://metalforge.io/drum
 **Page:** https://metalforge.io/drummers/gene-hoglan/licks/gene-hoglan-darkness-descends-lick
 
 ### Pull the Plug Death Metal Groove — "Pull the Plug", Leprosy (1988)
-- **BPM:** ~168 BPM | **Time:** 4/4 | **Difficulty:** Advanced (4/5)
+- **BPM:** ~168 BPM | **Time:** 4/4 | **Technique:** groove fill | **Difficulty:** Advanced (4/5)
 - **Techniques:** groove-drumming, fill-techniques, riff-lock
 
 **How to play it:**
@@ -2222,7 +2222,7 @@ Profile: [https://metalforge.io/drummers/gene-hoglan](https://metalforge.io/drum
 **Page:** https://metalforge.io/drummers/gene-hoglan/licks/gene-hoglan-pull-the-plug-lick
 
 ### Zero the Hero Clock Polyrhythm — "D.N.R. (Do Not Resuscitate)", The Gathering (1999)
-- **BPM:** ~138 BPM | **Time:** 4/4 | **Difficulty:** Expert (5/5)
+- **BPM:** ~138 BPM | **Time:** 4/4 | **Technique:** polyrhythm | **Difficulty:** Expert (5/5)
 - **Techniques:** polyrhythm, groove-drumming, limb-independence
 
 **How to play it:**
@@ -2243,8 +2243,8 @@ Profile: [https://metalforge.io/drummers/gene-hoglan](https://metalforge.io/drum
 
 Profile: [https://metalforge.io/drummers/george-kollias](https://metalforge.io/drummers/george-kollias) · All licks: [https://metalforge.io/drummers/george-kollias/licks](https://metalforge.io/drummers/george-kollias/licks)
 
-### Nile Gravity Blast Pattern — "Papyrus Containing the Spell to Preserve Its Possessor", In Their Darkened Shrines (2002)
-- **BPM:** 280+ BPM | **Time:** 4/4 | **Difficulty:** Expert (5/5)
+### Nile Gravity Blast Pattern — "Ithyphallic", Ithyphallic (2007)
+- **BPM:** 280+ BPM | **Time:** 4/4 | **Technique:** blast technique | **Difficulty:** Expert (5/5)
 - **Techniques:** gravity-blast, one-handed-roll, extreme-speed
 
 **How to play it:**
@@ -2260,11 +2260,11 @@ Profile: [https://metalforge.io/drummers/george-kollias](https://metalforge.io/d
 - Watch slow-motion video of Kollias performing to study the wrist angle and forearm position before attempting at speed
 - Treat the gravity blast as a long-term project: it may take months to internalise the mechanics, but once it clicks it becomes reliable
 
-**Tutorial:** https://www.youtube.com/watch?v=sqk2wprx6j4
+**Tutorial:** https://www.youtube.com/watch?v=R-qQUFqrjwE
 **Page:** https://metalforge.io/drummers/george-kollias/licks/george-kollias-gravity-blast
 
 ### Polyrhythmic Death Metal Pattern — "Annihilation of the Wicked", Annihilation of the Wicked (2005)
-- **BPM:** 220 BPM | **Time:** 4/4 over 5/4 | **Difficulty:** Expert (5/5)
+- **BPM:** 220 BPM | **Time:** 4/4 over 5/4 | **Technique:** polyrhythmic | **Difficulty:** Expert (5/5)
 - **Techniques:** polyrhythms, independence, odd-groupings
 
 **How to play it:**
@@ -2284,7 +2284,7 @@ Profile: [https://metalforge.io/drummers/george-kollias](https://metalforge.io/d
 **Page:** https://metalforge.io/drummers/george-kollias/licks/george-kollias-polyrhythmic-mayhem
 
 ### Sustained 250+ BPM Blast — "Sacrifice Unto Sebek", Those Whom the Gods Detest (2009)
-- **BPM:** 255 BPM | **Time:** 4/4 | **Difficulty:** Expert (5/5)
+- **BPM:** 255 BPM | **Time:** 4/4 | **Technique:** blast section | **Difficulty:** Expert (5/5)
 - **Techniques:** blast-beat, stamina, double-bass
 
 **How to play it:**
@@ -2308,7 +2308,7 @@ Profile: [https://metalforge.io/drummers/george-kollias](https://metalforge.io/d
 Profile: [https://metalforge.io/drummers/hannes-grossmann](https://metalforge.io/drummers/hannes-grossmann) · All licks: [https://metalforge.io/drummers/hannes-grossmann/licks](https://metalforge.io/drummers/hannes-grossmann/licks)
 
 ### Alter Magnitudes Tech-Death Workout — "Alter Magnitudes", Hannes Grossmann (solo)
-- **BPM:** ~210 BPM | **Time:** shifting (4/4 and odd groupings) | **Difficulty:** Expert (5/5)
+- **BPM:** ~210 BPM | **Time:** shifting (4/4 and odd groupings) | **Technique:** signature pattern | **Difficulty:** Expert (5/5)
 - **Techniques:** double-bass, blast-beat, odd-time-signatures
 
 **How to play it:**
@@ -2328,7 +2328,7 @@ Profile: [https://metalforge.io/drummers/hannes-grossmann](https://metalforge.io
 **Page:** https://metalforge.io/drummers/hannes-grossmann/licks/hannes-grossmann-alter-magnitudes
 
 ### In Turmoil's Swirling Reaches Polyrhythm Study — "In Turmoil's Swirling Reaches", Alkaloid
-- **BPM:** ~190 BPM | **Time:** mixed meter / polyrhythmic | **Difficulty:** Expert (5/5)
+- **BPM:** ~190 BPM | **Time:** mixed meter / polyrhythmic | **Technique:** signature pattern | **Difficulty:** Expert (5/5)
 - **Techniques:** polyrhythms, odd-time-signatures, double-bass
 
 **How to play it:**
@@ -2348,7 +2348,7 @@ Profile: [https://metalforge.io/drummers/hannes-grossmann](https://metalforge.io
 **Page:** https://metalforge.io/drummers/hannes-grossmann/licks/hannes-grossmann-in-turmoils-swirling-reaches
 
 ### Septuagint Odd-Time Mastery — "Septuagint", Omnivium (2011)
-- **BPM:** ~200 BPM | **Time:** odd groupings (7s and 5s) | **Difficulty:** Expert (5/5)
+- **BPM:** ~200 BPM | **Time:** odd groupings (7s and 5s) | **Technique:** signature pattern | **Difficulty:** Expert (5/5)
 - **Techniques:** odd-time-signatures, double-bass, blast-beat
 
 **How to play it:**
@@ -2372,7 +2372,7 @@ Profile: [https://metalforge.io/drummers/hannes-grossmann](https://metalforge.io
 Profile: [https://metalforge.io/drummers/hellhammer](https://metalforge.io/drummers/hellhammer) · All licks: [https://metalforge.io/drummers/hellhammer/licks](https://metalforge.io/drummers/hellhammer/licks)
 
 ### Freezing Moon — Atmospheric Black Metal Blast — "Freezing Moon", De Mysteriis Dom Sathanas (1994)
-- **BPM:** ~175 BPM | **Time:** 4/4 | **Difficulty:** Expert (5/5)
+- **BPM:** ~175 BPM | **Time:** 4/4 | **Technique:** blast technique | **Difficulty:** Expert (5/5)
 - **Techniques:** blast-beat, atmospheric-drumming, black-metal
 
 **How to play it:**
@@ -2392,7 +2392,7 @@ Profile: [https://metalforge.io/drummers/hellhammer](https://metalforge.io/drumm
 **Page:** https://metalforge.io/drummers/hellhammer/licks/hellhammer-freezing-moon-blast
 
 ### Deathcrush — Speed Metal Battery — "Deathcrush", Deathcrush EP (1987)
-- **BPM:** ~200 BPM | **Time:** 4/4 | **Difficulty:** Expert (5/5)
+- **BPM:** ~200 BPM | **Time:** 4/4 | **Technique:** blast technique | **Difficulty:** Expert (5/5)
 - **Techniques:** blast-beat, speed-metal, ride-cymbal-blast
 
 **How to play it:**
@@ -2412,7 +2412,7 @@ Profile: [https://metalforge.io/drummers/hellhammer](https://metalforge.io/drumm
 **Page:** https://metalforge.io/drummers/hellhammer/licks/hellhammer-deathcrush-battery
 
 ### De Mysteriis Dom Sathanas — Long-Form Black Metal Mastery — "De Mysteriis Dom Sathanas", De Mysteriis Dom Sathanas (1994)
-- **BPM:** ~185 BPM | **Time:** 4/4 | **Difficulty:** Expert (5/5)
+- **BPM:** ~185 BPM | **Time:** 4/4 | **Technique:** signature pattern | **Difficulty:** Expert (5/5)
 - **Techniques:** blast-beat, long-form-composition, atmospheric-drumming
 
 **How to play it:**
@@ -2436,7 +2436,7 @@ Profile: [https://metalforge.io/drummers/hellhammer](https://metalforge.io/drumm
 Profile: [https://metalforge.io/drummers/igor-cavalera](https://metalforge.io/drummers/igor-cavalera) · All licks: [https://metalforge.io/drummers/igor-cavalera/licks](https://metalforge.io/drummers/igor-cavalera/licks)
 
 ### Roots Bloody Roots Tribal Groove — "Roots Bloody Roots", Roots (1996)
-- **BPM:** ~116 BPM | **Time:** 4/4 | **Difficulty:** Intermediate (3/5)
+- **BPM:** ~116 BPM | **Time:** 4/4 | **Technique:** main groove | **Difficulty:** Intermediate (3/5)
 - **Techniques:** groove-drumming, dynamic-control, tribal-influence
 
 **How to play it:**
@@ -2456,7 +2456,7 @@ Profile: [https://metalforge.io/drummers/igor-cavalera](https://metalforge.io/dr
 **Page:** https://metalforge.io/drummers/igor-cavalera/licks/igor-cavalera-roots-bloody-roots-tribal-groove
 
 ### Refuse/Resist Double-Bass Drive — "Refuse/Resist", Chaos A.D. (1993)
-- **BPM:** ~160 BPM | **Time:** 4/4 | **Difficulty:** Advanced (4/5)
+- **BPM:** ~160 BPM | **Time:** 4/4 | **Technique:** signature pattern | **Difficulty:** Advanced (4/5)
 - **Techniques:** double-bass, groove-drumming, riff-lock
 
 **How to play it:**
@@ -2476,7 +2476,7 @@ Profile: [https://metalforge.io/drummers/igor-cavalera](https://metalforge.io/dr
 **Page:** https://metalforge.io/drummers/igor-cavalera/licks/igor-cavalera-refuse-resist-double-bass
 
 ### Beneath the Remains Thrash-Blast Section — "Beneath the Remains", Beneath the Remains (1989)
-- **BPM:** ~195 BPM | **Time:** 4/4 (with blast passages) | **Difficulty:** Expert (5/5)
+- **BPM:** ~195 BPM | **Time:** 4/4 (with blast passages) | **Technique:** signature pattern | **Difficulty:** Expert (5/5)
 - **Techniques:** blast-beat, double-bass, fill-techniques
 
 **How to play it:**
@@ -2496,7 +2496,7 @@ Profile: [https://metalforge.io/drummers/igor-cavalera](https://metalforge.io/dr
 **Page:** https://metalforge.io/drummers/igor-cavalera/licks/igor-cavalera-beneath-the-remains-blast
 
 ### Beneath the Remains Stampede Double Bass — "Beneath the Remains", Beneath the Remains (1989)
-- **BPM:** ~195 BPM | **Time:** 4/4 | **Difficulty:** Expert (5/5)
+- **BPM:** ~195 BPM | **Time:** 4/4 | **Technique:** signature pattern | **Difficulty:** Expert (5/5)
 - **Techniques:** double-bass, riff-lock, groove-drumming
 
 **How to play it:**
@@ -2514,7 +2514,7 @@ Profile: [https://metalforge.io/drummers/igor-cavalera](https://metalforge.io/dr
 **Page:** https://metalforge.io/drummers/igor-cavalera/licks/igor-cavalera-beneath-the-remains-double-bass
 
 ### Chaos A.D. Tribal Syncopated Groove — "Territory", Chaos A.D. (1993)
-- **BPM:** ~130 BPM | **Time:** 4/4 (syncopated) | **Difficulty:** Intermediate (3/5)
+- **BPM:** ~130 BPM | **Time:** 4/4 (syncopated) | **Technique:** main groove | **Difficulty:** Intermediate (3/5)
 - **Techniques:** tribal-influence, groove-drumming, dynamic-control
 
 **How to play it:**
@@ -2532,7 +2532,7 @@ Profile: [https://metalforge.io/drummers/igor-cavalera](https://metalforge.io/dr
 **Page:** https://metalforge.io/drummers/igor-cavalera/licks/igor-cavalera-chaos-ad-groove
 
 ### Schizophrenia Raw Blast Groove — "Schizophrenia", Schizophrenia (1987)
-- **BPM:** ~185 BPM | **Time:** 4/4 (with blast passages) | **Difficulty:** Advanced (4/5)
+- **BPM:** ~185 BPM | **Time:** 4/4 (with blast passages) | **Technique:** signature pattern | **Difficulty:** Advanced (4/5)
 - **Techniques:** blast-beat, double-bass, fill-techniques
 
 **How to play it:**
@@ -2554,7 +2554,7 @@ Profile: [https://metalforge.io/drummers/igor-cavalera](https://metalforge.io/dr
 Profile: [https://metalforge.io/drummers/inferno](https://metalforge.io/drummers/inferno) · All licks: [https://metalforge.io/drummers/inferno/licks](https://metalforge.io/drummers/inferno/licks)
 
 ### Conquer All Blast Beat Mastery — "Conquer All", Demigod (2004)
-- **BPM:** ~220 BPM | **Time:** 4/4 | **Difficulty:** Expert (5/5)
+- **BPM:** ~220 BPM | **Time:** 4/4 | **Technique:** blast technique | **Difficulty:** Expert (5/5)
 - **Techniques:** blast-beat, double-bass, blackened-death-metal
 
 **How to play it:**
@@ -2574,7 +2574,7 @@ Profile: [https://metalforge.io/drummers/inferno](https://metalforge.io/drummers
 **Page:** https://metalforge.io/drummers/inferno/licks/inferno-conquer-all-blast
 
 ### Blow Your Trumpets Gabriel — Dynamic Blast Architecture — "Blow Your Trumpets Gabriel", The Satanist (2014)
-- **BPM:** ~200 BPM | **Time:** 4/4 | **Difficulty:** Expert (5/5)
+- **BPM:** ~200 BPM | **Time:** 4/4 | **Technique:** signature pattern | **Difficulty:** Expert (5/5)
 - **Techniques:** blast-beat, dynamic-contrast, atmospheric-drumming
 
 **How to play it:**
@@ -2594,7 +2594,7 @@ Profile: [https://metalforge.io/drummers/inferno](https://metalforge.io/drummers
 **Page:** https://metalforge.io/drummers/inferno/licks/inferno-blow-trumpets-gabriel
 
 ### Evangelion Blast Beat Sequence — Ov Fire and the Void — "Ov Fire and the Void", Evangelion (2009)
-- **BPM:** ~210 BPM | **Time:** 4/4 | **Difficulty:** Expert (5/5)
+- **BPM:** ~210 BPM | **Time:** 4/4 | **Technique:** blast technique | **Difficulty:** Expert (5/5)
 - **Techniques:** blast-beat, double-bass, dynamic-contrast
 
 **How to play it:**
@@ -2612,7 +2612,7 @@ Profile: [https://metalforge.io/drummers/inferno](https://metalforge.io/drummers
 **Page:** https://metalforge.io/drummers/inferno/licks/inferno-evangelion-blast-sequence
 
 ### The Satanist Groove-Blast Hybrid — Ora Pro Nobis Lucifer — "Ora Pro Nobis Lucifer", The Satanist (2014)
-- **BPM:** ~190 BPM | **Time:** 4/4 | **Difficulty:** Expert (5/5)
+- **BPM:** ~190 BPM | **Time:** 4/4 | **Technique:** signature pattern | **Difficulty:** Expert (5/5)
 - **Techniques:** blast-beat, groove-drumming, dynamic-contrast
 
 **How to play it:**
@@ -2630,7 +2630,7 @@ Profile: [https://metalforge.io/drummers/inferno](https://metalforge.io/drummers
 **Page:** https://metalforge.io/drummers/inferno/licks/inferno-satanist-groove-blast-hybrid
 
 ### Demigod Double-Kick Pattern — Sculpting the Throne ov Seth — "Sculpting the Throne ov Seth", Demigod (2004)
-- **BPM:** ~215 BPM | **Time:** 4/4 | **Difficulty:** Expert (5/5)
+- **BPM:** ~215 BPM | **Time:** 4/4 | **Technique:** blast technique | **Difficulty:** Expert (5/5)
 - **Techniques:** double-bass, blast-beat, foot-independence
 
 **How to play it:**
@@ -2648,7 +2648,7 @@ Profile: [https://metalforge.io/drummers/inferno](https://metalforge.io/drummers
 **Page:** https://metalforge.io/drummers/inferno/licks/inferno-demigod-double-kick
 
 ### The Satanist — Compositional Double Bass & Blast — "The Satanist", The Satanist (2014)
-- **BPM:** ~180 BPM | **Time:** 4/4 | **Difficulty:** Expert (5/5)
+- **BPM:** ~180 BPM | **Time:** 4/4 | **Technique:** signature pattern | **Difficulty:** Expert (5/5)
 - **Techniques:** double-bass, blast-beat, compositional-drumming
 
 **How to play it:**
@@ -2672,7 +2672,7 @@ Profile: [https://metalforge.io/drummers/inferno](https://metalforge.io/drummers
 Profile: [https://metalforge.io/drummers/isaac-lamb](https://metalforge.io/drummers/isaac-lamb) · All licks: [https://metalforge.io/drummers/isaac-lamb/licks](https://metalforge.io/drummers/isaac-lamb/licks)
 
 ### B.C. — Beatdown Groove Architecture — "B.C.", Nomad (2017)
-- **BPM:** ~145 BPM | **Time:** 4/4 | **Difficulty:** Intermediate (3/5)
+- **BPM:** ~145 BPM | **Time:** 4/4 | **Technique:** signature pattern | **Difficulty:** Intermediate (3/5)
 - **Techniques:** groove-drumming, breakdown-drumming, rhythmic-precision
 
 **How to play it:**
@@ -2692,7 +2692,7 @@ Profile: [https://metalforge.io/drummers/isaac-lamb](https://metalforge.io/drumm
 **Page:** https://metalforge.io/drummers/isaac-lamb/licks/isaac-lamb-bc-beatdown-groove
 
 ### True Fear — Hardcore Intensity and Groove — "True Fear", Nomad (2017)
-- **BPM:** ~150 BPM | **Time:** 4/4 | **Difficulty:** Advanced (4/5)
+- **BPM:** ~150 BPM | **Time:** 4/4 | **Technique:** blast technique | **Difficulty:** Advanced (4/5)
 - **Techniques:** groove-drumming, blast-beat, breakdown-drumming
 
 **How to play it:**
@@ -2712,7 +2712,7 @@ Profile: [https://metalforge.io/drummers/isaac-lamb](https://metalforge.io/drumm
 **Page:** https://metalforge.io/drummers/isaac-lamb/licks/isaac-lamb-true-fear-hardcore-intensity
 
 ### Boomslang — Heavy Groove and Power Delivery — "Boomslang", Absolute (2019)
-- **BPM:** ~155 BPM | **Time:** 4/4 | **Difficulty:** Intermediate (3/5)
+- **BPM:** ~155 BPM | **Time:** 4/4 | **Technique:** groove pattern | **Difficulty:** Intermediate (3/5)
 - **Techniques:** groove-drumming, breakdown-drumming, power-technique
 
 **How to play it:**
@@ -2736,7 +2736,7 @@ Profile: [https://metalforge.io/drummers/isaac-lamb](https://metalforge.io/drumm
 Profile: [https://metalforge.io/drummers/jaska-raatikainen](https://metalforge.io/drummers/jaska-raatikainen) · All licks: [https://metalforge.io/drummers/jaska-raatikainen/licks](https://metalforge.io/drummers/jaska-raatikainen/licks)
 
 ### Sixpounder Double Bass Drive — "Sixpounder", Hate Crew Deathroll (2003)
-- **BPM:** ~180 BPM | **Time:** 4/4 | **Difficulty:** Advanced (4/5)
+- **BPM:** ~180 BPM | **Time:** 4/4 | **Technique:** main groove | **Difficulty:** Advanced (4/5)
 - **Techniques:** double-bass, blast-beat, groove-drumming
 
 **How to play it:**
@@ -2756,7 +2756,7 @@ Profile: [https://metalforge.io/drummers/jaska-raatikainen](https://metalforge.i
 **Page:** https://metalforge.io/drummers/jaska-raatikainen/licks/jaska-raatikainen-sixpounder-double-bass
 
 ### Lake Bodom Driving Fills — "Lake Bodom", Something Wild (1997)
-- **BPM:** ~200 BPM | **Time:** 4/4 | **Difficulty:** Advanced (4/5)
+- **BPM:** ~200 BPM | **Time:** 4/4 | **Technique:** fill | **Difficulty:** Advanced (4/5)
 - **Techniques:** fill-techniques, double-bass, groove-drumming
 
 **How to play it:**
@@ -2776,7 +2776,7 @@ Profile: [https://metalforge.io/drummers/jaska-raatikainen](https://metalforge.i
 **Page:** https://metalforge.io/drummers/jaska-raatikainen/licks/jaska-raatikainen-lake-bodom-fills
 
 ### Hate Crew Deathroll Signature Fill — Needled 24/7 — "Needled 24/7", Hate Crew Deathroll (2003)
-- **BPM:** ~200 BPM | **Time:** 4/4 | **Difficulty:** Advanced (4/5)
+- **BPM:** ~200 BPM | **Time:** 4/4 | **Technique:** fill | **Difficulty:** Advanced (4/5)
 - **Techniques:** fill-techniques, double-bass, groove-drumming
 
 **How to play it:**
@@ -2794,7 +2794,7 @@ Profile: [https://metalforge.io/drummers/jaska-raatikainen](https://metalforge.i
 **Page:** https://metalforge.io/drummers/jaska-raatikainen/licks/jaska-raatikainen-hate-crew-fill
 
 ### Follow the Reaper Main Groove — "Follow the Reaper", Follow the Reaper (2000)
-- **BPM:** ~185 BPM | **Time:** 4/4 | **Difficulty:** Advanced (4/5)
+- **BPM:** ~185 BPM | **Time:** 4/4 | **Technique:** main groove | **Difficulty:** Advanced (4/5)
 - **Techniques:** groove-drumming, double-bass, hi-hat-control
 
 **How to play it:**
@@ -2812,7 +2812,7 @@ Profile: [https://metalforge.io/drummers/jaska-raatikainen](https://metalforge.i
 **Page:** https://metalforge.io/drummers/jaska-raatikainen/licks/jaska-raatikainen-follow-the-reaper-groove
 
 ### Hatebreeder Double-Bass Run — Warheart — "Warheart", Hatebreeder (1999)
-- **BPM:** ~200 BPM | **Time:** 4/4 | **Difficulty:** Advanced (4/5)
+- **BPM:** ~200 BPM | **Time:** 4/4 | **Technique:** blast technique | **Difficulty:** Advanced (4/5)
 - **Techniques:** double-bass, foot-independence, groove-drumming
 
 **How to play it:**
@@ -2830,7 +2830,7 @@ Profile: [https://metalforge.io/drummers/jaska-raatikainen](https://metalforge.i
 **Page:** https://metalforge.io/drummers/jaska-raatikainen/licks/jaska-raatikainen-hatebreeder-double-bass
 
 ### Hate Crew Deathroll Double-Bass Assault — "Hate Crew Deathroll", Hate Crew Deathroll (2003)
-- **BPM:** ~190 BPM | **Time:** 4/4 | **Difficulty:** Advanced (4/5)
+- **BPM:** ~190 BPM | **Time:** 4/4 | **Technique:** signature pattern | **Difficulty:** Advanced (4/5)
 - **Techniques:** double-bass, blast-beat, odd-time-signatures
 
 **How to play it:**
@@ -2854,7 +2854,7 @@ Profile: [https://metalforge.io/drummers/jaska-raatikainen](https://metalforge.i
 Profile: [https://metalforge.io/drummers/jason-bittner](https://metalforge.io/drummers/jason-bittner) · All licks: [https://metalforge.io/drummers/jason-bittner/licks](https://metalforge.io/drummers/jason-bittner/licks)
 
 ### The Light That Blinds Opening Groove — "The Light That Blinds", The War Within (2004)
-- **BPM:** ~185 BPM | **Time:** 4/4 | **Difficulty:** Advanced (4/5)
+- **BPM:** ~185 BPM | **Time:** 4/4 | **Technique:** main groove | **Difficulty:** Advanced (4/5)
 - **Techniques:** groove-drumming, double-bass, fill-techniques
 
 **How to play it:**
@@ -2874,7 +2874,7 @@ Profile: [https://metalforge.io/drummers/jason-bittner](https://metalforge.io/dr
 **Page:** https://metalforge.io/drummers/jason-bittner/licks/jason-bittner-light-that-blinds-groove
 
 ### What Drives the Weak Metalcore Fill Sequence — "What Drives the Weak", Threads of Life (2007)
-- **BPM:** ~170 BPM | **Time:** 4/4 | **Difficulty:** Advanced (4/5)
+- **BPM:** ~170 BPM | **Time:** 4/4 | **Technique:** fill techniques | **Difficulty:** Advanced (4/5)
 - **Techniques:** fill-techniques, double-bass, groove-drumming
 
 **How to play it:**
@@ -2894,7 +2894,7 @@ Profile: [https://metalforge.io/drummers/jason-bittner](https://metalforge.io/dr
 **Page:** https://metalforge.io/drummers/jason-bittner/licks/jason-bittner-what-drives-the-weak-fill
 
 ### Overkill Thrash Double Bass Run — "Goddamn Trouble", The Grinding Wheel (2017)
-- **BPM:** ~190 BPM | **Time:** 4/4 | **Difficulty:** Advanced (4/5)
+- **BPM:** ~190 BPM | **Time:** 4/4 | **Technique:** double bass | **Difficulty:** Advanced (4/5)
 - **Techniques:** double-bass, groove-drumming, blast-beat
 
 **How to play it:**
@@ -2918,7 +2918,7 @@ Profile: [https://metalforge.io/drummers/jason-bittner](https://metalforge.io/dr
 Profile: [https://metalforge.io/drummers/jay-weinberg](https://metalforge.io/drummers/jay-weinberg) · All licks: [https://metalforge.io/drummers/jay-weinberg/licks](https://metalforge.io/drummers/jay-weinberg/licks)
 
 ### Unsainted Driving Groove & Double Bass — "Unsainted", We Are Not Your Kind (2019)
-- **BPM:** ~150 BPM | **Time:** 4/4 | **Difficulty:** Advanced (4/5)
+- **BPM:** ~150 BPM | **Time:** 4/4 | **Technique:** signature pattern | **Difficulty:** Advanced (4/5)
 - **Techniques:** double-bass, groove-drumming, fill-techniques
 
 **How to play it:**
@@ -2938,7 +2938,7 @@ Profile: [https://metalforge.io/drummers/jay-weinberg](https://metalforge.io/dru
 **Page:** https://metalforge.io/drummers/jay-weinberg/licks/jay-weinberg-unsainted
 
 ### The Devil in I Groove & Dynamics — "The Devil in I", .5: The Gray Chapter (2014)
-- **BPM:** ~140 BPM | **Time:** 4/4 | **Difficulty:** Advanced (4/5)
+- **BPM:** ~140 BPM | **Time:** 4/4 | **Technique:** signature pattern | **Difficulty:** Advanced (4/5)
 - **Techniques:** groove-drumming, double-bass, fill-techniques
 
 **How to play it:**
@@ -2958,7 +2958,7 @@ Profile: [https://metalforge.io/drummers/jay-weinberg](https://metalforge.io/dru
 **Page:** https://metalforge.io/drummers/jay-weinberg/licks/jay-weinberg-the-devil-in-i
 
 ### Duality Live Groove Powerhouse — "Duality", Vol. 3: The Subliminal Verses (2004)
-- **BPM:** ~145 BPM | **Time:** 4/4 | **Difficulty:** Advanced (4/5)
+- **BPM:** ~145 BPM | **Time:** 4/4 | **Technique:** signature pattern | **Difficulty:** Advanced (4/5)
 - **Techniques:** groove-drumming, double-bass, fill-techniques
 
 **How to play it:**
@@ -2982,7 +2982,7 @@ Profile: [https://metalforge.io/drummers/jay-weinberg](https://metalforge.io/dru
 Profile: [https://metalforge.io/drummers/jimmy-degrasso](https://metalforge.io/drummers/jimmy-degrasso) · All licks: [https://metalforge.io/drummers/jimmy-degrasso/licks](https://metalforge.io/drummers/jimmy-degrasso/licks)
 
 ### 1000 Times Goodbye — Driving Verse & Chorus Groove — "1000 Times Goodbye", The World Needs a Hero (2001)
-- **BPM:** ~157 BPM | **Time:** 4/4 | **Difficulty:** Intermediate (3/5)
+- **BPM:** ~157 BPM | **Time:** 4/4 | **Technique:** main groove | **Difficulty:** Intermediate (3/5)
 - **Techniques:** groove-drumming, dynamic-control, double-bass
 
 **How to play it:**
@@ -3006,7 +3006,7 @@ Profile: [https://metalforge.io/drummers/jimmy-degrasso](https://metalforge.io/d
 Profile: [https://metalforge.io/drummers/jocke-wallgren](https://metalforge.io/drummers/jocke-wallgren) · All licks: [https://metalforge.io/drummers/jocke-wallgren/licks](https://metalforge.io/drummers/jocke-wallgren/licks)
 
 ### Twilight of the Thunder God Double Bass Run — "Twilight of the Thunder God", Twilight of the Thunder God (2008) — live staple of Wallgren's tenure
-- **BPM:** ~162 BPM | **Time:** 4/4 | **Difficulty:** Advanced (4/5)
+- **BPM:** ~162 BPM | **Time:** 4/4 | **Technique:** double bass | **Difficulty:** Advanced (4/5)
 - **Techniques:** double-bass, groove-drumming
 
 **How to play it:**
@@ -3026,7 +3026,7 @@ Profile: [https://metalforge.io/drummers/jocke-wallgren](https://metalforge.io/d
 **Page:** https://metalforge.io/drummers/jocke-wallgren/licks/jocke-wallgren-twilight-double-bass
 
 ### Runes to My Memory Melodic Death Groove — "Runes to My Memory", With Oden on Our Side (2006) — live staple of Wallgren's tenure
-- **BPM:** ~148 BPM | **Time:** 4/4 | **Difficulty:** Advanced (4/5)
+- **BPM:** ~148 BPM | **Time:** 4/4 | **Technique:** main groove | **Difficulty:** Advanced (4/5)
 - **Techniques:** groove-drumming, double-bass
 
 **How to play it:**
@@ -3046,7 +3046,7 @@ Profile: [https://metalforge.io/drummers/jocke-wallgren](https://metalforge.io/d
 **Page:** https://metalforge.io/drummers/jocke-wallgren/licks/jocke-wallgren-runes-to-my-memory-groove
 
 ### Fafner's Gold Blast Beat Section — "Fafner's Gold", Berserker (2019)
-- **BPM:** ~160 BPM | **Time:** 4/4 | **Difficulty:** Advanced (4/5)
+- **BPM:** ~160 BPM | **Time:** 4/4 | **Technique:** blast beat | **Difficulty:** Advanced (4/5)
 - **Techniques:** blast-beat, double-bass, groove-drumming
 
 **How to play it:**
@@ -3070,7 +3070,7 @@ Profile: [https://metalforge.io/drummers/jocke-wallgren](https://metalforge.io/d
 Profile: [https://metalforge.io/drummers/joey-jordison](https://metalforge.io/drummers/joey-jordison) · All licks: [https://metalforge.io/drummers/joey-jordison/licks](https://metalforge.io/drummers/joey-jordison/licks)
 
 ### The Heretic Anthem Intro — "The Heretic Anthem", Iowa (2001)
-- **BPM:** 155 BPM | **Time:** 4/4 | **Difficulty:** Advanced (4/5)
+- **BPM:** 155 BPM | **Time:** 4/4 | **Technique:** intro fill | **Difficulty:** Advanced (4/5)
 - **Techniques:** blast-beat, double-bass, snare-rolls
 
 **How to play it:**
@@ -3089,7 +3089,7 @@ Profile: [https://metalforge.io/drummers/joey-jordison](https://metalforge.io/dr
 **Page:** https://metalforge.io/drummers/joey-jordison/licks/joey-jordison-heretic-anthem-intro
 
 ### Eyeless Blast Section — "Eyeless", Slipknot (1999)
-- **BPM:** 200 BPM | **Time:** 4/4 | **Difficulty:** Expert (5/5)
+- **BPM:** 200 BPM | **Time:** 4/4 | **Technique:** blast section | **Difficulty:** Expert (5/5)
 - **Techniques:** blast-beat, single-stroke-roll
 
 **How to play it:**
@@ -3108,7 +3108,7 @@ Profile: [https://metalforge.io/drummers/joey-jordison](https://metalforge.io/dr
 **Page:** https://metalforge.io/drummers/joey-jordison/licks/joey-jordison-eyeless-blast
 
 ### Disasterpiece Chaos Fill — "Disasterpiece", Iowa (2001)
-- **BPM:** 140 BPM | **Time:** 4/4 | **Difficulty:** Advanced (4/5)
+- **BPM:** 140 BPM | **Time:** 4/4 | **Technique:** fill | **Difficulty:** Advanced (4/5)
 - **Techniques:** tom-fill, double-bass, dynamics
 
 **How to play it:**
@@ -3125,7 +3125,7 @@ Profile: [https://metalforge.io/drummers/joey-jordison](https://metalforge.io/dr
 **Page:** https://metalforge.io/drummers/joey-jordison/licks/joey-jordison-disasterpiece-chaos
 
 ### Iowa Title-Track Double-Bass Pedal Work — "Iowa", Iowa (2001)
-- **BPM:** ~130 BPM | **Time:** 4/4 | **Difficulty:** Expert (5/5)
+- **BPM:** ~130 BPM | **Time:** 4/4 | **Technique:** signature pattern | **Difficulty:** Expert (5/5)
 - **Techniques:** double-bass, groove-drumming, dynamics
 
 **How to play it:**
@@ -3143,7 +3143,7 @@ Profile: [https://metalforge.io/drummers/joey-jordison](https://metalforge.io/dr
 **Page:** https://metalforge.io/drummers/joey-jordison/licks/joey-jordison-iowa-double-bass
 
 ### (sic) Displaced Snare Pattern — "(sic)", Slipknot (1999)
-- **BPM:** ~135 BPM | **Time:** 4/4 | **Difficulty:** Advanced (4/5)
+- **BPM:** ~135 BPM | **Time:** 4/4 | **Technique:** main groove | **Difficulty:** Advanced (4/5)
 - **Techniques:** snare-displacement, double-bass, groove-drumming
 
 **How to play it:**
@@ -3161,7 +3161,7 @@ Profile: [https://metalforge.io/drummers/joey-jordison](https://metalforge.io/dr
 **Page:** https://metalforge.io/drummers/joey-jordison/licks/joey-jordison-people-snare-pattern
 
 ### The Heretic Anthem Blast-Beat Run — "The Heretic Anthem", Iowa (2001)
-- **BPM:** 165 BPM | **Time:** 4/4 | **Difficulty:** Expert (5/5)
+- **BPM:** 165 BPM | **Time:** 4/4 | **Technique:** blast section | **Difficulty:** Expert (5/5)
 - **Techniques:** blast-beat, double-bass, single-stroke-roll
 
 **How to play it:**
@@ -3183,7 +3183,7 @@ Profile: [https://metalforge.io/drummers/joey-jordison](https://metalforge.io/dr
 Profile: [https://metalforge.io/drummers/john-longstreth](https://metalforge.io/drummers/john-longstreth) · All licks: [https://metalforge.io/drummers/john-longstreth/licks](https://metalforge.io/drummers/john-longstreth/licks)
 
 ### Expulsion of Fury — High-Speed Double-Stroke Blast — "Expulsion of Fury", Entity (2011)
-- **BPM:** ~220+ BPM | **Time:** 4/4 | **Difficulty:** Expert (5/5)
+- **BPM:** ~220+ BPM | **Time:** 4/4 | **Technique:** blast technique | **Difficulty:** Expert (5/5)
 - **Techniques:** blast-beat, double-bass, one-handed-roll
 
 **How to play it:**
@@ -3207,7 +3207,7 @@ Profile: [https://metalforge.io/drummers/john-longstreth](https://metalforge.io/
 Profile: [https://metalforge.io/drummers/john-otto](https://metalforge.io/drummers/john-otto) · All licks: [https://metalforge.io/drummers/john-otto/licks](https://metalforge.io/drummers/john-otto/licks)
 
 ### Break Stuff Nu-Metal Groove — "Break Stuff", Significant Other (1999)
-- **BPM:** ~96 BPM | **Time:** 4/4 | **Difficulty:** Intermediate (3/5)
+- **BPM:** ~96 BPM | **Time:** 4/4 | **Technique:** main groove | **Difficulty:** Intermediate (3/5)
 - **Techniques:** groove-drumming, fill-techniques
 
 **How to play it:**
@@ -3227,7 +3227,7 @@ Profile: [https://metalforge.io/drummers/john-otto](https://metalforge.io/drumme
 **Page:** https://metalforge.io/drummers/john-otto/licks/john-otto-break-stuff-groove
 
 ### Rollin' Hip-Hop Metal Groove — "Rollin' (Air Raid Vehicle)", Chocolate Starfish and the Hot Dog Flavored Water (2000)
-- **BPM:** ~98 BPM | **Time:** 4/4 | **Difficulty:** Intermediate (3/5)
+- **BPM:** ~98 BPM | **Time:** 4/4 | **Technique:** main groove | **Difficulty:** Intermediate (3/5)
 - **Techniques:** groove-drumming, fill-techniques
 
 **How to play it:**
@@ -3247,7 +3247,7 @@ Profile: [https://metalforge.io/drummers/john-otto](https://metalforge.io/drumme
 **Page:** https://metalforge.io/drummers/john-otto/licks/john-otto-rollin-groove
 
 ### Nookie Signature Fill and Breakdown — "Nookie", Significant Other (1999)
-- **BPM:** ~92 BPM | **Time:** 4/4 | **Difficulty:** Intermediate (3/5)
+- **BPM:** ~92 BPM | **Time:** 4/4 | **Technique:** fill techniques | **Difficulty:** Intermediate (3/5)
 - **Techniques:** fill-techniques, groove-drumming
 
 **How to play it:**
@@ -3270,8 +3270,8 @@ Profile: [https://metalforge.io/drummers/john-otto](https://metalforge.io/drumme
 
 Profile: [https://metalforge.io/drummers/jon-dette](https://metalforge.io/drummers/jon-dette) · All licks: [https://metalforge.io/drummers/jon-dette/licks](https://metalforge.io/drummers/jon-dette/licks)
 
-### Killing Fields Thrash Engine — "Killing Fields", Divine Intervention (1994)
-- **BPM:** 182 BPM | **Time:** 4/4 | **Difficulty:** Advanced (4/5)
+### Killing Fields Thrash Engine — "Killing Fields", Divine Intervention (1994 studio; performed live 1996-1997 tour)
+- **BPM:** 182 BPM | **Time:** 4/4 | **Technique:** main groove | **Difficulty:** Advanced (4/5)
 - **Techniques:** double-bass, thrash-groove, ghost-notes
 
 **How to play it:**
@@ -3287,7 +3287,7 @@ Profile: [https://metalforge.io/drummers/jon-dette](https://metalforge.io/drumme
 **Page:** https://metalforge.io/drummers/jon-dette/licks/jon-dette-killing-fields-thrash
 
 ### Serenity in Fire Thrash Groove — "Serenity in Fire", Divine Intervention (1994)
-- **BPM:** 175 BPM | **Time:** 4/4 | **Difficulty:** Advanced (4/5)
+- **BPM:** 175 BPM | **Time:** 4/4 | **Technique:** main groove | **Difficulty:** Advanced (4/5)
 - **Techniques:** thrash-groove, double-bass, stamina-playing
 
 **How to play it:**
@@ -3303,7 +3303,7 @@ Profile: [https://metalforge.io/drummers/jon-dette](https://metalforge.io/drumme
 **Page:** https://metalforge.io/drummers/jon-dette/licks/jon-dette-serenity-in-fire-groove
 
 ### Postmortem Precision Attack — "Postmortem", Reign in Blood (1986)
-- **BPM:** 190 BPM | **Time:** 4/4 | **Difficulty:** Expert (5/5)
+- **BPM:** 190 BPM | **Time:** 4/4 | **Technique:** main groove | **Difficulty:** Expert (5/5)
 - **Techniques:** thrash-groove, double-bass, high-speed-precision
 
 **How to play it:**
@@ -3323,7 +3323,7 @@ Profile: [https://metalforge.io/drummers/jon-dette](https://metalforge.io/drumme
 Profile: [https://metalforge.io/drummers/kevin-talley](https://metalforge.io/drummers/kevin-talley) · All licks: [https://metalforge.io/drummers/kevin-talley/licks](https://metalforge.io/drummers/kevin-talley/licks)
 
 ### Epidemic of Hate Gravity Blast — "Epidemic of Hate", Killing on Adrenaline (1998)
-- **BPM:** ~200 BPM | **Time:** 4/4 (extreme tempo) | **Difficulty:** Expert (5/5)
+- **BPM:** ~200 BPM | **Time:** 4/4 (extreme tempo) | **Technique:** blast technique | **Difficulty:** Expert (5/5)
 - **Techniques:** gravity-blast, blast-beat, double-bass
 
 **How to play it:**
@@ -3343,7 +3343,7 @@ Profile: [https://metalforge.io/drummers/kevin-talley](https://metalforge.io/dru
 **Page:** https://metalforge.io/drummers/kevin-talley/licks/kevin-talley-epidemic-of-hate-gravity-blast
 
 ### Killing on Adrenaline Two-Handed Blast — "Killing on Adrenaline", Killing on Adrenaline (1998)
-- **BPM:** ~220 BPM | **Time:** 4/4 | **Difficulty:** Expert (5/5)
+- **BPM:** ~220 BPM | **Time:** 4/4 | **Technique:** signature pattern | **Difficulty:** Expert (5/5)
 - **Techniques:** blast-beat, double-bass, hand-speed
 
 **How to play it:**
@@ -3363,7 +3363,7 @@ Profile: [https://metalforge.io/drummers/kevin-talley](https://metalforge.io/dru
 **Page:** https://metalforge.io/drummers/kevin-talley/licks/kevin-talley-killing-on-adrenaline-two-handed-blast
 
 ### Destroy the Opposition Groove Breakdown — "Destroy the Opposition", Destroy the Opposition (2000)
-- **BPM:** ~155 BPM | **Time:** 4/4 | **Difficulty:** Advanced (4/5)
+- **BPM:** ~155 BPM | **Time:** 4/4 | **Technique:** main groove | **Difficulty:** Advanced (4/5)
 - **Techniques:** groove, double-bass, linear-drumming
 
 **How to play it:**
@@ -3387,7 +3387,7 @@ Profile: [https://metalforge.io/drummers/kevin-talley](https://metalforge.io/dru
 Profile: [https://metalforge.io/drummers/lars-ulrich](https://metalforge.io/drummers/lars-ulrich) · All licks: [https://metalforge.io/drummers/lars-ulrich/licks](https://metalforge.io/drummers/lars-ulrich/licks)
 
 ### One Intro Pattern — "One", ...And Justice for All (1988)
-- **BPM:** 108 BPM | **Time:** 4/4 | **Difficulty:** Intermediate (3/5)
+- **BPM:** 108 BPM | **Time:** 4/4 | **Technique:** intro groove | **Difficulty:** Intermediate (3/5)
 - **Techniques:** dynamics, ghost-notes, military-snare
 
 **How to play it:**
@@ -3404,7 +3404,7 @@ Profile: [https://metalforge.io/drummers/lars-ulrich](https://metalforge.io/drum
 **Page:** https://metalforge.io/drummers/lars-ulrich/licks/lars-ulrich-one-intro
 
 ### Enter Sandman Main Groove — "Enter Sandman", Metallica (Black Album) (1991)
-- **BPM:** 123 BPM | **Time:** 4/4 | **Difficulty:** Beginner (2/5)
+- **BPM:** 123 BPM | **Time:** 4/4 | **Technique:** main groove | **Difficulty:** Beginner (2/5)
 - **Techniques:** groove, hi-hat-control, dynamics
 
 **How to play it:**
@@ -3421,7 +3421,7 @@ Profile: [https://metalforge.io/drummers/lars-ulrich](https://metalforge.io/drum
 **Page:** https://metalforge.io/drummers/lars-ulrich/licks/lars-ulrich-enter-sandman-groove
 
 ### Master of Puppets Gallop — "Master of Puppets", Master of Puppets (1986)
-- **BPM:** 212 BPM | **Time:** 4/4 | **Difficulty:** Intermediate (3/5)
+- **BPM:** 212 BPM | **Time:** 4/4 | **Technique:** main groove | **Difficulty:** Intermediate (3/5)
 - **Techniques:** double-bass, gallop, stamina
 
 **How to play it:**
@@ -3438,7 +3438,7 @@ Profile: [https://metalforge.io/drummers/lars-ulrich](https://metalforge.io/drum
 **Page:** https://metalforge.io/drummers/lars-ulrich/licks/lars-ulrich-master-of-puppets-gallop
 
 ### One Building Thrash Section — "One", ...And Justice for All (1988)
-- **BPM:** ~212 BPM | **Time:** 4/4 | **Difficulty:** Advanced (4/5)
+- **BPM:** ~212 BPM | **Time:** 4/4 | **Technique:** signature pattern | **Difficulty:** Advanced (4/5)
 - **Techniques:** double-bass, dynamics, stamina
 
 **How to play it:**
@@ -3456,7 +3456,7 @@ Profile: [https://metalforge.io/drummers/lars-ulrich](https://metalforge.io/drum
 **Page:** https://metalforge.io/drummers/lars-ulrich/licks/lars-ulrich-one-building-thrash
 
 ### Blackened Open Hi-Hat Groove — "Blackened", ...And Justice for All (1988)
-- **BPM:** ~192 BPM | **Time:** 4/4 | **Difficulty:** Intermediate (3/5)
+- **BPM:** ~192 BPM | **Time:** 4/4 | **Technique:** main groove | **Difficulty:** Intermediate (3/5)
 - **Techniques:** hi-hat-control, groove, stamina
 
 **How to play it:**
@@ -3478,7 +3478,7 @@ Profile: [https://metalforge.io/drummers/lars-ulrich](https://metalforge.io/drum
 Profile: [https://metalforge.io/drummers/mario-duplantier](https://metalforge.io/drummers/mario-duplantier) · All licks: [https://metalforge.io/drummers/mario-duplantier/licks](https://metalforge.io/drummers/mario-duplantier/licks)
 
 ### Gojira Polyrhythmic Groove — "Stranded", Magma (2016)
-- **BPM:** 105 BPM | **Time:** 4/4 with 3/4 overlay | **Difficulty:** Advanced (4/5)
+- **BPM:** 105 BPM | **Time:** 4/4 with 3/4 overlay | **Technique:** polyrhythmic | **Difficulty:** Advanced (4/5)
 - **Techniques:** polyrhythms, groove, dynamics
 
 **How to play it:**
@@ -3495,7 +3495,7 @@ Profile: [https://metalforge.io/drummers/mario-duplantier](https://metalforge.io
 **Page:** https://metalforge.io/drummers/mario-duplantier/licks/mario-duplantier-polyrhythmic-groove
 
 ### Gojira Blast Variation — "Silvera", Magma (2016)
-- **BPM:** 170 BPM | **Time:** 4/4 | **Difficulty:** Advanced (4/5)
+- **BPM:** 170 BPM | **Time:** 4/4 | **Technique:** blast variation | **Difficulty:** Advanced (4/5)
 - **Techniques:** blast-beat, dynamics, accents
 
 **How to play it:**
@@ -3512,7 +3512,7 @@ Profile: [https://metalforge.io/drummers/mario-duplantier](https://metalforge.io
 **Page:** https://metalforge.io/drummers/mario-duplantier/licks/mario-duplantier-blast-variation
 
 ### Silvera Tribal Polyrhythm — "Silvera", Magma (2016)
-- **BPM:** ~84 BPM | **Time:** 4/4 with tribal displacement | **Difficulty:** Advanced (4/5)
+- **BPM:** ~84 BPM | **Time:** 4/4 with tribal displacement | **Technique:** main groove | **Difficulty:** Advanced (4/5)
 - **Techniques:** groove-drumming, polyrhythms, tribal-influence
 
 **How to play it:**
@@ -3530,7 +3530,7 @@ Profile: [https://metalforge.io/drummers/mario-duplantier](https://metalforge.io
 **Page:** https://metalforge.io/drummers/mario-duplantier/licks/mario-duplantier-silvera-tribal-groove
 
 ### Stranded Intro Blast Pattern — "Stranded", Magma (2016)
-- **BPM:** ~105 BPM | **Time:** 4/4 | **Difficulty:** Advanced (4/5)
+- **BPM:** ~105 BPM | **Time:** 4/4 | **Technique:** intro fill | **Difficulty:** Advanced (4/5)
 - **Techniques:** blast-beat, fill-techniques, dynamic-control
 
 **How to play it:**
@@ -3548,7 +3548,7 @@ Profile: [https://metalforge.io/drummers/mario-duplantier](https://metalforge.io
 **Page:** https://metalforge.io/drummers/mario-duplantier/licks/mario-duplantier-stranded-intro-fill
 
 ### Flying Whales Main Groove — "Flying Whales", From Mars to Sirius (2005)
-- **BPM:** ~132 BPM | **Time:** 4/4 | **Difficulty:** Advanced (4/5)
+- **BPM:** ~132 BPM | **Time:** 4/4 | **Technique:** main groove | **Difficulty:** Advanced (4/5)
 - **Techniques:** groove-drumming, riff-lock, dynamic-control
 
 **How to play it:**
@@ -3566,7 +3566,7 @@ Profile: [https://metalforge.io/drummers/mario-duplantier](https://metalforge.io
 **Page:** https://metalforge.io/drummers/mario-duplantier/licks/mario-duplantier-flying-whales-groove
 
 ### Backbone Main Groove — "Backbone", From Mars to Sirius (2005)
-- **BPM:** 92 BPM | **Time:** 4/4 | **Difficulty:** Intermediate (3/5)
+- **BPM:** 92 BPM | **Time:** 4/4 | **Technique:** main groove | **Difficulty:** Intermediate (3/5)
 - **Techniques:** groove, pocket, dynamics
 
 **How to play it:**
@@ -3589,7 +3589,7 @@ Profile: [https://metalforge.io/drummers/mario-duplantier](https://metalforge.io
 Profile: [https://metalforge.io/drummers/martin-axenrot](https://metalforge.io/drummers/martin-axenrot) · All licks: [https://metalforge.io/drummers/martin-axenrot/licks](https://metalforge.io/drummers/martin-axenrot/licks)
 
 ### The Devil's Orchard — Odd-Meter Groove Command — "The Devil's Orchard", Heritage (2011)
-- **BPM:** ~132 BPM | **Time:** 4/4 (mixed with 7/8 transitions) | **Difficulty:** Advanced (4/5)
+- **BPM:** ~132 BPM | **Time:** 4/4 (mixed with 7/8 transitions) | **Technique:** signature pattern | **Difficulty:** Advanced (4/5)
 - **Techniques:** odd-meter, dynamics, groove-drumming
 
 **How to play it:**
@@ -3609,7 +3609,7 @@ Profile: [https://metalforge.io/drummers/martin-axenrot](https://metalforge.io/d
 **Page:** https://metalforge.io/drummers/martin-axenrot/licks/martin-axenrot-devils-orchard-meter-shifts
 
 ### Sorceress — Heavy Riff-Lock and Live Dynamics — "Sorceress", Sorceress (2016)
-- **BPM:** ~140 BPM | **Time:** 4/4 | **Difficulty:** Advanced (4/5)
+- **BPM:** ~140 BPM | **Time:** 4/4 | **Technique:** groove technique | **Difficulty:** Advanced (4/5)
 - **Techniques:** groove-drumming, dynamics, riff-lock
 
 **How to play it:**
@@ -3633,7 +3633,7 @@ Profile: [https://metalforge.io/drummers/martin-axenrot](https://metalforge.io/d
 Profile: [https://metalforge.io/drummers/martin-lopez](https://metalforge.io/drummers/martin-lopez) · All licks: [https://metalforge.io/drummers/martin-lopez/licks](https://metalforge.io/drummers/martin-lopez/licks)
 
 ### Bleak Ghost Note Groove — "Bleak", Blackwater Park (2001)
-- **BPM:** ~96 BPM | **Time:** 4/4 (dynamic, atmospheric) | **Difficulty:** Advanced (4/5)
+- **BPM:** ~96 BPM | **Time:** 4/4 (dynamic, atmospheric) | **Technique:** main groove | **Difficulty:** Advanced (4/5)
 - **Techniques:** ghost-notes, groove-drumming, fill-techniques
 
 **How to play it:**
@@ -3648,12 +3648,10 @@ Profile: [https://metalforge.io/drummers/martin-lopez](https://metalforge.io/dru
 - Record yourself: ghost notes that feel audible to the player often disappear on playback
 - Map the dynamic arc of the song before attempting it: know which sections breathe and which drive
 - Count the ghost notes with your left hand while the right keeps a steady hi-hat before adding the kick
-
-**Tutorial:** https://www.youtube.com/watch?v=qQxfnCp-jfc
 **Page:** https://metalforge.io/drummers/martin-lopez/licks/martin-lopez-bleak-ghost-notes
 
 ### The Drapery Falls Dynamic Architecture — "The Drapery Falls", Blackwater Park (2001)
-- **BPM:** ~90 BPM | **Time:** 4/4 (dynamic shifts, mixed passages) | **Difficulty:** Advanced (4/5)
+- **BPM:** ~90 BPM | **Time:** 4/4 (dynamic shifts, mixed passages) | **Technique:** signature pattern | **Difficulty:** Advanced (4/5)
 - **Techniques:** groove-drumming, fill-techniques, polyrhythms
 
 **How to play it:**
@@ -3673,7 +3671,7 @@ Profile: [https://metalforge.io/drummers/martin-lopez](https://metalforge.io/dru
 **Page:** https://metalforge.io/drummers/martin-lopez/licks/martin-lopez-drapery-falls-dynamics
 
 ### Antagonist Progressive Groove — "Antagonist", Imperial (2021)
-- **BPM:** ~112 BPM | **Time:** 4/4 (progressive, dynamic) | **Difficulty:** Advanced (4/5)
+- **BPM:** ~112 BPM | **Time:** 4/4 (progressive, dynamic) | **Technique:** main groove | **Difficulty:** Advanced (4/5)
 - **Techniques:** ghost-notes, groove-drumming, odd-time-signatures
 
 **How to play it:**
@@ -3693,7 +3691,7 @@ Profile: [https://metalforge.io/drummers/martin-lopez](https://metalforge.io/dru
 **Page:** https://metalforge.io/drummers/martin-lopez/licks/martin-lopez-antagonist-soen-groove
 
 ### Demon of the Fall Acoustic-to-Electric Opening — "Demon of the Fall", My Arms, Your Hearse (1998)
-- **BPM:** variable (~95 BPM, explosive fill into full tempo) | **Time:** 4/4 (dynamic shift at fill point) | **Difficulty:** Advanced (4/5)
+- **BPM:** variable (~95 BPM, explosive fill into full tempo) | **Time:** 4/4 (dynamic shift at fill point) | **Technique:** intro fill | **Difficulty:** Advanced (4/5)
 - **Techniques:** fill-techniques, groove-drumming, dynamic-control
 
 **How to play it:**
@@ -3711,7 +3709,7 @@ Profile: [https://metalforge.io/drummers/martin-lopez](https://metalforge.io/dru
 **Page:** https://metalforge.io/drummers/martin-lopez/licks/martin-lopez-demon-of-the-fall-opening
 
 ### Blackwater Park Jazz Shuffle Groove — "Blackwater Park", Blackwater Park (2001)
-- **BPM:** ~92 BPM | **Time:** 4/4 (jazz shuffle feel, triplet subdivision) | **Difficulty:** Advanced (4/5)
+- **BPM:** ~92 BPM | **Time:** 4/4 (jazz shuffle feel, triplet subdivision) | **Technique:** main groove | **Difficulty:** Advanced (4/5)
 - **Techniques:** groove-drumming, ghost-notes, fill-techniques
 
 **How to play it:**
@@ -3729,7 +3727,7 @@ Profile: [https://metalforge.io/drummers/martin-lopez](https://metalforge.io/dru
 **Page:** https://metalforge.io/drummers/martin-lopez/licks/martin-lopez-blackwater-park-shuffle
 
 ### Deliverance Blast-Beat Section — "Deliverance", Deliverance (2002)
-- **BPM:** ~200 BPM (blast passages) | **Time:** 4/4 (with full blast passages) | **Difficulty:** Expert (5/5)
+- **BPM:** ~200 BPM (blast passages) | **Time:** 4/4 (with full blast passages) | **Technique:** blast section | **Difficulty:** Expert (5/5)
 - **Techniques:** blast-beat, double-bass, groove-drumming
 
 **How to play it:**
@@ -3751,7 +3749,7 @@ Profile: [https://metalforge.io/drummers/martin-lopez](https://metalforge.io/dru
 Profile: [https://metalforge.io/drummers/matt-garstka](https://metalforge.io/drummers/matt-garstka) · All licks: [https://metalforge.io/drummers/matt-garstka/licks](https://metalforge.io/drummers/matt-garstka/licks)
 
 ### Monomyth Polyrhythmic Groove — "Monomyth", The Joy of Motion (2014)
-- **BPM:** ~140 BPM | **Time:** 4/4 (with superimposed groupings) | **Difficulty:** Expert (5/5)
+- **BPM:** ~140 BPM | **Time:** 4/4 (with superimposed groupings) | **Technique:** signature pattern | **Difficulty:** Expert (5/5)
 - **Techniques:** polyrhythms, linear-drumming, odd-time-signatures
 
 **How to play it:**
@@ -3771,7 +3769,7 @@ Profile: [https://metalforge.io/drummers/matt-garstka](https://metalforge.io/dru
 **Page:** https://metalforge.io/drummers/matt-garstka/licks/matt-garstka-monomyth-polyrhythm
 
 ### The Woven Web Linear Groove — "The Woven Web", The Joy of Motion (2014)
-- **BPM:** ~150 BPM | **Time:** 4/4 | **Difficulty:** Expert (5/5)
+- **BPM:** ~150 BPM | **Time:** 4/4 | **Technique:** main groove | **Difficulty:** Expert (5/5)
 - **Techniques:** linear-drumming, groove-drumming, polyrhythms
 
 **How to play it:**
@@ -3791,7 +3789,7 @@ Profile: [https://metalforge.io/drummers/matt-garstka](https://metalforge.io/dru
 **Page:** https://metalforge.io/drummers/matt-garstka/licks/matt-garstka-woven-web-linear
 
 ### Lippincott 7/8 Polyrhythm — "Lippincott", The Joy of Motion (2014)
-- **BPM:** ~115 BPM | **Time:** shifting (7/8 polyrhythm passages) | **Difficulty:** Expert (5/5)
+- **BPM:** ~115 BPM | **Time:** shifting (7/8 polyrhythm passages) | **Technique:** polyrhythmic | **Difficulty:** Expert (5/5)
 - **Techniques:** polyrhythms, odd-time-signatures, linear-drumming
 
 **How to play it:**
@@ -3809,7 +3807,7 @@ Profile: [https://metalforge.io/drummers/matt-garstka](https://metalforge.io/dru
 **Page:** https://metalforge.io/drummers/matt-garstka/licks/matt-garstka-lippincott-polyrhythm
 
 ### Physical Education Snare Density Exercise — "Physical Education", The Joy of Motion (2014)
-- **BPM:** ~130 BPM | **Time:** 4/4 (with shifting rhythmic density) | **Difficulty:** Expert (5/5)
+- **BPM:** ~130 BPM | **Time:** 4/4 (with shifting rhythmic density) | **Technique:** fill techniques | **Difficulty:** Expert (5/5)
 - **Techniques:** fill-techniques, linear-drumming, dynamic-control
 
 **How to play it:**
@@ -3827,7 +3825,7 @@ Profile: [https://metalforge.io/drummers/matt-garstka](https://metalforge.io/dru
 **Page:** https://metalforge.io/drummers/matt-garstka/licks/matt-garstka-physical-education-fill
 
 ### Tempting Time Odd-Meter Groove — "Tempting Time", Animals as Leaders (2009)
-- **BPM:** ~160 BPM | **Time:** mixed (shifting odd meters) | **Difficulty:** Expert (5/5)
+- **BPM:** ~160 BPM | **Time:** mixed (shifting odd meters) | **Technique:** signature pattern | **Difficulty:** Expert (5/5)
 - **Techniques:** odd-time-signatures, double-bass, fill-techniques
 
 **How to play it:**
@@ -3851,7 +3849,7 @@ Profile: [https://metalforge.io/drummers/matt-garstka](https://metalforge.io/dru
 Profile: [https://metalforge.io/drummers/matt-greiner](https://metalforge.io/drummers/matt-greiner) · All licks: [https://metalforge.io/drummers/matt-greiner/licks](https://metalforge.io/drummers/matt-greiner/licks)
 
 ### Composure Syncopated Groove — "Composure", Constellations (2009)
-- **BPM:** ~175 BPM | **Time:** 4/4 (heavy syncopation) | **Difficulty:** Expert (5/5)
+- **BPM:** ~175 BPM | **Time:** 4/4 (heavy syncopation) | **Technique:** signature pattern | **Difficulty:** Expert (5/5)
 - **Techniques:** odd-time-signatures, double-bass, fill-techniques
 
 **How to play it:**
@@ -3871,7 +3869,7 @@ Profile: [https://metalforge.io/drummers/matt-greiner](https://metalforge.io/dru
 **Page:** https://metalforge.io/drummers/matt-greiner/licks/matt-greiner-composure-syncopation
 
 ### Meridian Double-Bass Groove — "Meridian", Constellations (2009)
-- **BPM:** ~165 BPM | **Time:** 4/4 | **Difficulty:** Advanced (4/5)
+- **BPM:** ~165 BPM | **Time:** 4/4 | **Technique:** main groove | **Difficulty:** Advanced (4/5)
 - **Techniques:** double-bass, groove-drumming, blast-beat
 
 **How to play it:**
@@ -3891,7 +3889,7 @@ Profile: [https://metalforge.io/drummers/matt-greiner](https://metalforge.io/dru
 **Page:** https://metalforge.io/drummers/matt-greiner/licks/matt-greiner-meridian-double-bass
 
 ### Sonic Salvation Metalcore Groove — "Sonic Salvation", Guardians (2020)
-- **BPM:** ~170 BPM | **Time:** 4/4 (with metric shifts) | **Difficulty:** Advanced (4/5)
+- **BPM:** ~170 BPM | **Time:** 4/4 (with metric shifts) | **Technique:** main groove | **Difficulty:** Advanced (4/5)
 - **Techniques:** groove-drumming, double-bass, fill-techniques
 
 **How to play it:**
@@ -3911,7 +3909,7 @@ Profile: [https://metalforge.io/drummers/matt-greiner](https://metalforge.io/dru
 **Page:** https://metalforge.io/drummers/matt-greiner/licks/matt-greiner-sonic-salvation-groove
 
 ### Messengers Blast-to-Groove Transition — "Meddler", Messengers (2007)
-- **BPM:** ~180 BPM | **Time:** 4/4 | **Difficulty:** Expert (5/5)
+- **BPM:** ~180 BPM | **Time:** 4/4 | **Technique:** signature pattern | **Difficulty:** Expert (5/5)
 - **Techniques:** blast-beat, double-bass, groove-drumming
 
 **How to play it:**
@@ -3929,7 +3927,7 @@ Profile: [https://metalforge.io/drummers/matt-greiner](https://metalforge.io/dru
 **Page:** https://metalforge.io/drummers/matt-greiner/licks/matt-greiner-messengers-blast-groove
 
 ### Constellations Polyrhythmic Pattern — "Crusades", Constellations (2009)
-- **BPM:** ~160 BPM | **Time:** 4/4 with polyrhythmic layers | **Difficulty:** Expert (5/5)
+- **BPM:** ~160 BPM | **Time:** 4/4 with polyrhythmic layers | **Technique:** signature pattern | **Difficulty:** Expert (5/5)
 - **Techniques:** odd-time-signatures, double-bass, groove-drumming
 
 **How to play it:**
@@ -3947,7 +3945,7 @@ Profile: [https://metalforge.io/drummers/matt-greiner](https://metalforge.io/dru
 **Page:** https://metalforge.io/drummers/matt-greiner/licks/matt-greiner-constellations-polyrhythm
 
 ### Leveler Double-Bass Run — "Empire", Leveler (2011)
-- **BPM:** ~175 BPM | **Time:** 4/4 (with odd time shifts) | **Difficulty:** Expert (5/5)
+- **BPM:** ~175 BPM | **Time:** 4/4 (with odd time shifts) | **Technique:** main groove | **Difficulty:** Expert (5/5)
 - **Techniques:** double-bass, groove-drumming, fill-techniques
 
 **How to play it:**
@@ -3965,7 +3963,7 @@ Profile: [https://metalforge.io/drummers/matt-greiner](https://metalforge.io/dru
 **Page:** https://metalforge.io/drummers/matt-greiner/licks/matt-greiner-leveler-double-bass
 
 ### Constellations Blast Groove — "White Washed", Constellations (2009)
-- **BPM:** ~185 BPM | **Time:** 4/4 | **Difficulty:** Expert (5/5)
+- **BPM:** ~185 BPM | **Time:** 4/4 | **Technique:** signature pattern | **Difficulty:** Expert (5/5)
 - **Techniques:** blast-beat, groove-drumming, double-bass
 
 **How to play it:**
@@ -3983,7 +3981,7 @@ Profile: [https://metalforge.io/drummers/matt-greiner](https://metalforge.io/dru
 **Page:** https://metalforge.io/drummers/matt-greiner/licks/matt-greiner-constellations-blast-groove
 
 ### Leveler 5-Over-4 Polyrhythm — "Pangaea", Leveler (2011)
-- **BPM:** ~165 BPM | **Time:** 4/4 with 5-over-4 polyrhythm | **Difficulty:** Expert (5/5)
+- **BPM:** ~165 BPM | **Time:** 4/4 with 5-over-4 polyrhythm | **Technique:** signature pattern | **Difficulty:** Expert (5/5)
 - **Techniques:** odd-time-signatures, double-bass, groove-drumming
 
 **How to play it:**
@@ -4001,7 +3999,7 @@ Profile: [https://metalforge.io/drummers/matt-greiner](https://metalforge.io/dru
 **Page:** https://metalforge.io/drummers/matt-greiner/licks/matt-greiner-leveler-polyrhythm
 
 ### Messengers Debut Intro Groove — "Existence", Messengers (2007)
-- **BPM:** ~165 BPM | **Time:** 4/4 | **Difficulty:** Advanced (4/5)
+- **BPM:** ~165 BPM | **Time:** 4/4 | **Technique:** main groove | **Difficulty:** Advanced (4/5)
 - **Techniques:** groove-drumming, double-bass, fill-techniques
 
 **How to play it:**
@@ -4023,7 +4021,7 @@ Profile: [https://metalforge.io/drummers/matt-greiner](https://metalforge.io/dru
 Profile: [https://metalforge.io/drummers/matt-halpern](https://metalforge.io/drummers/matt-halpern) · All licks: [https://metalforge.io/drummers/matt-halpern/licks](https://metalforge.io/drummers/matt-halpern/licks)
 
 ### Icarus Lives! Djent Groove — "Icarus Lives!", Periphery (2010)
-- **BPM:** ~170 BPM | **Time:** 4/4 (syncopated, polymetric accents) | **Difficulty:** Expert (5/5)
+- **BPM:** ~170 BPM | **Time:** 4/4 (syncopated, polymetric accents) | **Technique:** main groove | **Difficulty:** Expert (5/5)
 - **Techniques:** groove-drumming, double-bass, fill-techniques
 
 **How to play it:**
@@ -4043,7 +4041,7 @@ Profile: [https://metalforge.io/drummers/matt-halpern](https://metalforge.io/dru
 **Page:** https://metalforge.io/drummers/matt-halpern/licks/matt-halpern-icarus-lives-groove
 
 ### Marigold Melodic Groove — "Marigold", Periphery III: Select Difficulty (2016)
-- **BPM:** ~150 BPM | **Time:** 4/4 (dynamic, song-driven) | **Difficulty:** Advanced (4/5)
+- **BPM:** ~150 BPM | **Time:** 4/4 (dynamic, song-driven) | **Technique:** main groove | **Difficulty:** Advanced (4/5)
 - **Techniques:** groove-drumming, double-bass, fill-techniques
 
 **How to play it:**
@@ -4063,7 +4061,7 @@ Profile: [https://metalforge.io/drummers/matt-halpern](https://metalforge.io/dru
 **Page:** https://metalforge.io/drummers/matt-halpern/licks/matt-halpern-marigold-groove
 
 ### The Bad Thing Double-Bass Assault — "The Bad Thing", Juggernaut: Alpha (2015)
-- **BPM:** ~180 BPM | **Time:** 4/4 (shifting groupings, half-time breakdowns) | **Difficulty:** Expert (5/5)
+- **BPM:** ~180 BPM | **Time:** 4/4 (shifting groupings, half-time breakdowns) | **Technique:** signature pattern | **Difficulty:** Expert (5/5)
 - **Techniques:** double-bass, groove-drumming, fill-techniques
 
 **How to play it:**
@@ -4083,7 +4081,7 @@ Profile: [https://metalforge.io/drummers/matt-halpern](https://metalforge.io/dru
 **Page:** https://metalforge.io/drummers/matt-halpern/licks/matt-halpern-the-bad-thing-groove
 
 ### Scarlet Syncopated Djent Groove — "Scarlet", Periphery II: This Time It's Personal (2012)
-- **BPM:** ~158 BPM | **Time:** 4/4 (syncopated 16th-note ghost-note grid) | **Difficulty:** Advanced (4/5)
+- **BPM:** ~158 BPM | **Time:** 4/4 (syncopated 16th-note ghost-note grid) | **Technique:** main groove | **Difficulty:** Advanced (4/5)
 - **Techniques:** ghost-notes, groove-drumming, double-bass
 
 **How to play it:**
@@ -4101,7 +4099,7 @@ Profile: [https://metalforge.io/drummers/matt-halpern](https://metalforge.io/dru
 **Page:** https://metalforge.io/drummers/matt-halpern/licks/matt-halpern-scarlet-groove
 
 ### Ragnarok Hybrid Blast Groove — "Ragnarok", Periphery II: This Time It's Personal (2012)
-- **BPM:** ~200 BPM (blast passages) | **Time:** 4/4 (with hybrid blast/groove transitions) | **Difficulty:** Expert (5/5)
+- **BPM:** ~200 BPM (blast passages) | **Time:** 4/4 (with hybrid blast/groove transitions) | **Technique:** blast section | **Difficulty:** Expert (5/5)
 - **Techniques:** blast-beat, double-bass, groove-drumming
 
 **How to play it:**
@@ -4119,7 +4117,7 @@ Profile: [https://metalforge.io/drummers/matt-halpern](https://metalforge.io/dru
 **Page:** https://metalforge.io/drummers/matt-halpern/licks/matt-halpern-ragnarok-blast
 
 ### Masamune Ghost-Note Density Pattern — "Masamune", Periphery III: Select Difficulty (2016)
-- **BPM:** ~145 BPM | **Time:** 4/4 (dense ghost-note grid, syncopated) | **Difficulty:** Expert (5/5)
+- **BPM:** ~145 BPM | **Time:** 4/4 (dense ghost-note grid, syncopated) | **Technique:** signature pattern | **Difficulty:** Expert (5/5)
 - **Techniques:** ghost-notes, groove-drumming, fill-techniques
 
 **How to play it:**
@@ -4141,7 +4139,7 @@ Profile: [https://metalforge.io/drummers/matt-halpern](https://metalforge.io/dru
 Profile: [https://metalforge.io/drummers/mike-mangini](https://metalforge.io/drummers/mike-mangini) · All licks: [https://metalforge.io/drummers/mike-mangini/licks](https://metalforge.io/drummers/mike-mangini/licks)
 
 ### On the Backs of Angels Speed & Independence — "On the Backs of Angels", A Dramatic Turn of Events (2011)
-- **BPM:** ~200 BPM | **Time:** shifting (4/4 and odd groupings) | **Difficulty:** Expert (5/5)
+- **BPM:** ~200 BPM | **Time:** shifting (4/4 and odd groupings) | **Technique:** signature pattern | **Difficulty:** Expert (5/5)
 - **Techniques:** double-bass, odd-time-signatures, fill-techniques
 
 **How to play it:**
@@ -4161,7 +4159,7 @@ Profile: [https://metalforge.io/drummers/mike-mangini](https://metalforge.io/dru
 **Page:** https://metalforge.io/drummers/mike-mangini/licks/mike-mangini-on-the-backs-of-angels
 
 ### The Looking Glass Linear Fills & Coordination — "The Looking Glass", A Dramatic Turn of Events (2011)
-- **BPM:** ~170 BPM | **Time:** 4/4 with fills in odd groupings | **Difficulty:** Expert (5/5)
+- **BPM:** ~170 BPM | **Time:** 4/4 with fills in odd groupings | **Technique:** signature pattern | **Difficulty:** Expert (5/5)
 - **Techniques:** double-bass, polyrhythms, fill-techniques
 
 **How to play it:**
@@ -4181,7 +4179,7 @@ Profile: [https://metalforge.io/drummers/mike-mangini](https://metalforge.io/dru
 **Page:** https://metalforge.io/drummers/mike-mangini/licks/mike-mangini-the-looking-glass
 
 ### Breaking All Illusions Odd-Time Mastery — "Breaking All Illusions", A Dramatic Turn of Events (2011)
-- **BPM:** ~160 BPM (shifting) | **Time:** mixed meter | **Difficulty:** Expert (5/5)
+- **BPM:** ~160 BPM (shifting) | **Time:** mixed meter | **Technique:** signature pattern | **Difficulty:** Expert (5/5)
 - **Techniques:** odd-time-signatures, double-bass, polyrhythms
 
 **How to play it:**
@@ -4201,7 +4199,7 @@ Profile: [https://metalforge.io/drummers/mike-mangini](https://metalforge.io/dru
 **Page:** https://metalforge.io/drummers/mike-mangini/licks/mike-mangini-breaking-all-illusions
 
 ### Constant Motion 7/8 Paradiddle Engine — "Constant Motion", Systematic Chaos (2007)
-- **BPM:** ~175 BPM | **Time:** 7/8 (mixed meter) | **Difficulty:** Expert (5/5)
+- **BPM:** ~175 BPM | **Time:** 7/8 (mixed meter) | **Technique:** signature pattern | **Difficulty:** Expert (5/5)
 - **Techniques:** paradiddles, odd-time-signatures, double-bass
 
 **How to play it:**
@@ -4219,7 +4217,7 @@ Profile: [https://metalforge.io/drummers/mike-mangini](https://metalforge.io/dru
 **Page:** https://metalforge.io/drummers/mike-mangini/licks/mangini-systematic-chaos-paradiddle-lick
 
 ### Bridges in the Sky 5-over-4 Polyrhythm — "Bridges in the Sky", A Dramatic Turn of Events (2011)
-- **BPM:** ~146 BPM | **Time:** 4/4 with 5-over-4 polyrhythmic groupings | **Difficulty:** Expert (5/5)
+- **BPM:** ~146 BPM | **Time:** 4/4 with 5-over-4 polyrhythmic groupings | **Technique:** polyrhythm | **Difficulty:** Expert (5/5)
 - **Techniques:** polyrhythms, odd-time-signatures, double-bass
 
 **How to play it:**
@@ -4237,7 +4235,7 @@ Profile: [https://metalforge.io/drummers/mike-mangini](https://metalforge.io/dru
 **Page:** https://metalforge.io/drummers/mike-mangini/licks/mangini-dramatic-turn-polyrhythm
 
 ### Paralyzed 32nd-Note Fill Cascade — "Paralyzed", Distance Over Time (2019)
-- **BPM:** ~136 BPM | **Time:** 4/4 | **Difficulty:** Expert (5/5)
+- **BPM:** ~136 BPM | **Time:** 4/4 | **Technique:** fills | **Difficulty:** Expert (5/5)
 - **Techniques:** fill-techniques, double-bass, speed-technique
 
 **How to play it:**
@@ -4259,7 +4257,7 @@ Profile: [https://metalforge.io/drummers/mike-mangini](https://metalforge.io/dru
 Profile: [https://metalforge.io/drummers/mike-portnoy](https://metalforge.io/drummers/mike-portnoy) · All licks: [https://metalforge.io/drummers/mike-portnoy/licks](https://metalforge.io/drummers/mike-portnoy/licks)
 
 ### The Dance of Eternity — "The Dance of Eternity", Metropolis Pt. 2: Scenes from a Memory (1999)
-- **BPM:** variable (~130 BPM core) | **Time:** over 100 changes | **Difficulty:** Expert (5/5)
+- **BPM:** variable (~130 BPM core) | **Time:** over 100 changes | **Technique:** signature pattern | **Difficulty:** Expert (5/5)
 - **Techniques:** odd-time-signatures, fill-techniques, double-bass
 
 **How to play it:**
@@ -4279,7 +4277,7 @@ Profile: [https://metalforge.io/drummers/mike-portnoy](https://metalforge.io/dru
 **Page:** https://metalforge.io/drummers/mike-portnoy/licks/mike-portnoy-dance-of-eternity
 
 ### Pull Me Under Groove & Fills — "Pull Me Under", Images and Words (1992)
-- **BPM:** ~130 BPM | **Time:** 4/4 (with odd-meter sections) | **Difficulty:** Advanced (4/5)
+- **BPM:** ~130 BPM | **Time:** 4/4 (with odd-meter sections) | **Technique:** signature groove | **Difficulty:** Advanced (4/5)
 - **Techniques:** groove-drumming, fill-techniques, odd-time-signatures
 
 **How to play it:**
@@ -4299,7 +4297,7 @@ Profile: [https://metalforge.io/drummers/mike-portnoy](https://metalforge.io/dru
 **Page:** https://metalforge.io/drummers/mike-portnoy/licks/mike-portnoy-pull-me-under-groove
 
 ### Panic Attack Double Bass Assault — "Panic Attack", Octavarium (2005)
-- **BPM:** ~175 BPM | **Time:** 4/4 (with odd-meter riffs) | **Difficulty:** Expert (5/5)
+- **BPM:** ~175 BPM | **Time:** 4/4 (with odd-meter riffs) | **Technique:** signature pattern | **Difficulty:** Expert (5/5)
 - **Techniques:** double-bass, odd-time-signatures, fill-techniques
 
 **How to play it:**
@@ -4319,7 +4317,7 @@ Profile: [https://metalforge.io/drummers/mike-portnoy](https://metalforge.io/dru
 **Page:** https://metalforge.io/drummers/mike-portnoy/licks/mike-portnoy-panic-attack-double-bass
 
 ### Pull Me Under Intro Fill — "Pull Me Under", Images and Words (1992)
-- **BPM:** ~130 BPM | **Time:** 4/4 (displaced 3/4 crash pattern in fill) | **Difficulty:** Advanced (4/5)
+- **BPM:** ~130 BPM | **Time:** 4/4 (displaced 3/4 crash pattern in fill) | **Technique:** intro fill | **Difficulty:** Advanced (4/5)
 - **Techniques:** fill-techniques, odd-time-signatures, groove-drumming
 
 **How to play it:**
@@ -4337,7 +4335,7 @@ Profile: [https://metalforge.io/drummers/mike-portnoy](https://metalforge.io/dru
 **Page:** https://metalforge.io/drummers/mike-portnoy/licks/mike-portnoy-pull-me-under-fill
 
 ### In the Presence of Enemies Blast & Polyrhythm — "In the Presence of Enemies", Systematic Chaos (2007)
-- **BPM:** ~175 BPM (blast passages) | **Time:** shifting meters (4/4, 7/8, 5/4, compound passages) | **Difficulty:** Expert (5/5)
+- **BPM:** ~175 BPM (blast passages) | **Time:** shifting meters (4/4, 7/8, 5/4, compound passages) | **Technique:** blast section | **Difficulty:** Expert (5/5)
 - **Techniques:** blast-beat, odd-time-signatures, double-bass
 
 **How to play it:**
@@ -4355,7 +4353,7 @@ Profile: [https://metalforge.io/drummers/mike-portnoy](https://metalforge.io/dru
 **Page:** https://metalforge.io/drummers/mike-portnoy/licks/mike-portnoy-in-the-presence-of-enemies-blast
 
 ### The Dance of Eternity — Navigating 108 Meter Changes — "The Dance of Eternity", Metropolis Pt. 2: Scenes from a Memory (1999)
-- **BPM:** variable (core ~130 BPM) | **Time:** 108 time signature changes | **Difficulty:** Expert (5/5)
+- **BPM:** variable (core ~130 BPM) | **Time:** 108 time signature changes | **Technique:** signature pattern | **Difficulty:** Expert (5/5)
 - **Techniques:** odd-time-signatures, polyrhythms, double-bass
 
 **How to play it:**
@@ -4377,7 +4375,7 @@ Profile: [https://metalforge.io/drummers/mike-portnoy](https://metalforge.io/dru
 Profile: [https://metalforge.io/drummers/mikkey-dee](https://metalforge.io/drummers/mikkey-dee) · All licks: [https://metalforge.io/drummers/mikkey-dee/licks](https://metalforge.io/drummers/mikkey-dee/licks)
 
 ### Ace of Spades Driving Power — "Ace of Spades", Ace of Spades (2008 re-recording)
-- **BPM:** ~280 BPM | **Time:** 4/4 | **Difficulty:** Advanced (4/5)
+- **BPM:** ~280 BPM | **Time:** 4/4 | **Technique:** signature pattern | **Difficulty:** Advanced (4/5)
 - **Techniques:** groove-drumming, double-bass, fill-techniques
 
 **How to play it:**
@@ -4397,7 +4395,7 @@ Profile: [https://metalforge.io/drummers/mikkey-dee](https://metalforge.io/drumm
 **Page:** https://metalforge.io/drummers/mikkey-dee/licks/mikkey-dee-ace-of-spades
 
 ### Overkill Double-Bass Freight Train — "Overkill", Overkill (2008 re-recording)
-- **BPM:** ~195 BPM | **Time:** 4/4 | **Difficulty:** Advanced (4/5)
+- **BPM:** ~195 BPM | **Time:** 4/4 | **Technique:** signature pattern | **Difficulty:** Advanced (4/5)
 - **Techniques:** double-bass, groove-drumming, fill-techniques
 
 **How to play it:**
@@ -4417,7 +4415,7 @@ Profile: [https://metalforge.io/drummers/mikkey-dee](https://metalforge.io/drumm
 **Page:** https://metalforge.io/drummers/mikkey-dee/licks/mikkey-dee-overkill
 
 ### Killed by Death Groove & Stamina — "Killed by Death", Killed by Death (2008 re-recording)
-- **BPM:** ~165 BPM | **Time:** 4/4 | **Difficulty:** Advanced (4/5)
+- **BPM:** ~165 BPM | **Time:** 4/4 | **Technique:** signature pattern | **Difficulty:** Advanced (4/5)
 - **Techniques:** groove-drumming, fill-techniques, double-bass
 
 **How to play it:**
@@ -4437,7 +4435,7 @@ Profile: [https://metalforge.io/drummers/mikkey-dee](https://metalforge.io/drumm
 **Page:** https://metalforge.io/drummers/mikkey-dee/licks/mikkey-dee-killed-by-death
 
 ### Bastards Motorik Drive — "Death or Glory", Bastards (1993)
-- **BPM:** ~138 BPM | **Time:** 4/4 | **Difficulty:** Advanced (4/5)
+- **BPM:** ~138 BPM | **Time:** 4/4 | **Technique:** main groove | **Difficulty:** Advanced (4/5)
 - **Techniques:** groove-drumming, double-bass
 
 **How to play it:**
@@ -4455,7 +4453,7 @@ Profile: [https://metalforge.io/drummers/mikkey-dee](https://metalforge.io/drumm
 **Page:** https://metalforge.io/drummers/mikkey-dee/licks/mikkey-dee-bastards-motorik
 
 ### Bomber Triplet Gallop — "Bomber", Bomber (1979, live with Mikkey Dee)
-- **BPM:** ~150 BPM | **Time:** 4/4 | **Difficulty:** Advanced (4/5)
+- **BPM:** ~150 BPM | **Time:** 4/4 | **Technique:** signature pattern | **Difficulty:** Advanced (4/5)
 - **Techniques:** groove-drumming, fill-techniques
 
 **How to play it:**
@@ -4473,7 +4471,7 @@ Profile: [https://metalforge.io/drummers/mikkey-dee](https://metalforge.io/drumm
 **Page:** https://metalforge.io/drummers/mikkey-dee/licks/mikkey-dee-bomber-gallop
 
 ### Overkill 8th-Note Double Bass — "Overkill", Overkill (1979, performed by Mikkey Dee)
-- **BPM:** ~195 BPM | **Time:** 4/4 | **Difficulty:** Advanced (4/5)
+- **BPM:** ~195 BPM | **Time:** 4/4 | **Technique:** double bass | **Difficulty:** Advanced (4/5)
 - **Techniques:** double-bass, groove-drumming
 
 **How to play it:**
@@ -4495,7 +4493,7 @@ Profile: [https://metalforge.io/drummers/mikkey-dee](https://metalforge.io/drumm
 Profile: [https://metalforge.io/drummers/morgan-agren](https://metalforge.io/drummers/morgan-agren) · All licks: [https://metalforge.io/drummers/morgan-agren/licks](https://metalforge.io/drummers/morgan-agren/licks)
 
 ### Sprite Metric Modulation Study — "Sprite", Empath (2019)
-- **BPM:** shifting (~130–165 BPM) | **Time:** shifting (4/4, 7/8, 5/4) | **Difficulty:** Expert (5/5)
+- **BPM:** shifting (~130–165 BPM) | **Time:** shifting (4/4, 7/8, 5/4) | **Technique:** signature pattern | **Difficulty:** Expert (5/5)
 - **Techniques:** metric-modulation, odd-time-signatures, polyrhythm
 
 **How to play it:**
@@ -4515,7 +4513,7 @@ Profile: [https://metalforge.io/drummers/morgan-agren](https://metalforge.io/dru
 **Page:** https://metalforge.io/drummers/morgan-agren/licks/morgan-agren-sprite-metric-modulation
 
 ### Odd-Meter Improvisation Study — "Drum Set Improvisation", ArtOfDrumming Clinic (2021)
-- **BPM:** ~120 BPM (shifting meters) | **Time:** shifting (7/8, 9/8, 11/8) | **Difficulty:** Expert (5/5)
+- **BPM:** ~120 BPM (shifting meters) | **Time:** shifting (7/8, 9/8, 11/8) | **Technique:** signature pattern | **Difficulty:** Expert (5/5)
 - **Techniques:** odd-time-signatures, polyrhythm, metric-modulation
 
 **How to play it:**
@@ -4535,7 +4533,7 @@ Profile: [https://metalforge.io/drummers/morgan-agren](https://metalforge.io/dru
 **Page:** https://metalforge.io/drummers/morgan-agren/licks/morgan-agren-odd-meter-improvisation
 
 ### Neyveli Prog Groove Performance — "Neyveli", ArtOfDrumming Feature (2021)
-- **BPM:** ~160 BPM | **Time:** 4/4 with metric displacement | **Difficulty:** Advanced (4/5)
+- **BPM:** ~160 BPM | **Time:** 4/4 with metric displacement | **Technique:** main groove | **Difficulty:** Advanced (4/5)
 - **Techniques:** groove, metric-modulation, polyrhythm
 
 **How to play it:**
@@ -4559,7 +4557,7 @@ Profile: [https://metalforge.io/drummers/morgan-agren](https://metalforge.io/dru
 Profile: [https://metalforge.io/drummers/navene-koperweis](https://metalforge.io/drummers/navene-koperweis) · All licks: [https://metalforge.io/drummers/navene-koperweis/licks](https://metalforge.io/drummers/navene-koperweis/licks)
 
 ### Chemical Flashback Djent Assault — "Chemical Flashback", Primal (EP, 2015)
-- **BPM:** ~155 BPM | **Time:** 4/4 (syncopated djent groupings) | **Difficulty:** Expert (5/5)
+- **BPM:** ~155 BPM | **Time:** 4/4 (syncopated djent groupings) | **Technique:** signature pattern | **Difficulty:** Expert (5/5)
 - **Techniques:** double-bass, groove-drumming, polyrhythms
 
 **How to play it:**
@@ -4579,7 +4577,7 @@ Profile: [https://metalforge.io/drummers/navene-koperweis](https://metalforge.io
 **Page:** https://metalforge.io/drummers/navene-koperweis/licks/navene-koperweis-chemical-flashback-djent
 
 ### An End to Everything Technical Groove — "An End to Everything", An End to Everything (EP, 2024)
-- **BPM:** ~148 BPM | **Time:** 4/4 (shifting, melodic sections) | **Difficulty:** Expert (5/5)
+- **BPM:** ~148 BPM | **Time:** 4/4 (shifting, melodic sections) | **Technique:** main groove | **Difficulty:** Expert (5/5)
 - **Techniques:** double-bass, fill-techniques, groove-drumming
 
 **How to play it:**
@@ -4599,7 +4597,7 @@ Profile: [https://metalforge.io/drummers/navene-koperweis](https://metalforge.io
 **Page:** https://metalforge.io/drummers/navene-koperweis/licks/navene-koperweis-an-end-to-everything
 
 ### The Interior Wilderness Math-Metal Pattern — "The Interior Wilderness", Time Will Take Us All (2023)
-- **BPM:** ~145 BPM | **Time:** mixed meter (polyrhythmic) | **Difficulty:** Expert (5/5)
+- **BPM:** ~145 BPM | **Time:** mixed meter (polyrhythmic) | **Technique:** signature pattern | **Difficulty:** Expert (5/5)
 - **Techniques:** polyrhythms, double-bass, fill-techniques
 
 **How to play it:**
@@ -4623,7 +4621,7 @@ Profile: [https://metalforge.io/drummers/navene-koperweis](https://metalforge.io
 Profile: [https://metalforge.io/drummers/nick-augusto](https://metalforge.io/drummers/nick-augusto) · All licks: [https://metalforge.io/drummers/nick-augusto/licks](https://metalforge.io/drummers/nick-augusto/licks)
 
 ### In Waves Main Groove Pattern — "In Waves", In Waves (2011)
-- **BPM:** ~175 BPM | **Time:** 4/4 | **Difficulty:** Advanced (4/5)
+- **BPM:** ~175 BPM | **Time:** 4/4 | **Technique:** main groove | **Difficulty:** Advanced (4/5)
 - **Techniques:** groove-drumming, double-bass, fill-techniques
 
 **How to play it:**
@@ -4643,7 +4641,7 @@ Profile: [https://metalforge.io/drummers/nick-augusto](https://metalforge.io/dru
 **Page:** https://metalforge.io/drummers/nick-augusto/licks/nick-augusto-in-waves-groove
 
 ### Built to Fall Metalcore Fill Sequence — "Built to Fall", In Waves (2011)
-- **BPM:** ~170 BPM | **Time:** 4/4 | **Difficulty:** Advanced (4/5)
+- **BPM:** ~170 BPM | **Time:** 4/4 | **Technique:** fill techniques | **Difficulty:** Advanced (4/5)
 - **Techniques:** fill-techniques, double-bass, groove-drumming
 
 **How to play it:**
@@ -4663,7 +4661,7 @@ Profile: [https://metalforge.io/drummers/nick-augusto](https://metalforge.io/dru
 **Page:** https://metalforge.io/drummers/nick-augusto/licks/nick-augusto-built-to-fall-fill
 
 ### Vengeance Falls Blast Beat and Drive — "Vengeance Falls", Vengeance Falls (2013)
-- **BPM:** ~180 BPM | **Time:** 4/4 | **Difficulty:** Advanced (4/5)
+- **BPM:** ~180 BPM | **Time:** 4/4 | **Technique:** signature pattern | **Difficulty:** Advanced (4/5)
 - **Techniques:** blast-beat, double-bass, groove-drumming
 
 **How to play it:**
@@ -4687,7 +4685,7 @@ Profile: [https://metalforge.io/drummers/nick-augusto](https://metalforge.io/dru
 Profile: [https://metalforge.io/drummers/nick-barker](https://metalforge.io/drummers/nick-barker) · All licks: [https://metalforge.io/drummers/nick-barker/licks](https://metalforge.io/drummers/nick-barker/licks)
 
 ### Blessings Upon the Throne of Tyranny — Symphonic Blast & Groove — "Blessings Upon the Throne of Tyranny", Puritanical Euphoric Misanthropia (2001)
-- **BPM:** ~106 BPM (double-time feel) | **Time:** 4/4 | **Difficulty:** Advanced (4/5)
+- **BPM:** ~106 BPM (double-time feel) | **Time:** 4/4 | **Technique:** blast section | **Difficulty:** Advanced (4/5)
 - **Techniques:** blast-beat, groove-drumming, dynamic-control
 
 **How to play it:**
@@ -4711,7 +4709,7 @@ Profile: [https://metalforge.io/drummers/nick-barker](https://metalforge.io/drum
 Profile: [https://metalforge.io/drummers/nick-menza](https://metalforge.io/drummers/nick-menza) · All licks: [https://metalforge.io/drummers/nick-menza/licks](https://metalforge.io/drummers/nick-menza/licks)
 
 ### Tornado of Souls Melodic Groove — "Tornado of Souls", Rust in Peace (1990)
-- **BPM:** ~210 BPM | **Time:** 4/4 | **Difficulty:** Advanced (4/5)
+- **BPM:** ~210 BPM | **Time:** 4/4 | **Technique:** main groove | **Difficulty:** Advanced (4/5)
 - **Techniques:** thrash-groove, precise-fills, high-velocity-control
 
 **How to play it:**
@@ -4731,7 +4729,7 @@ Profile: [https://metalforge.io/drummers/nick-menza](https://metalforge.io/drumm
 **Page:** https://metalforge.io/drummers/nick-menza/licks/nick-menza-tornado-of-souls-melodic-groove
 
 ### Holy Wars Intro Blast Pattern — "Holy Wars...The Punishment Due", Rust in Peace (1990)
-- **BPM:** ~200 BPM | **Time:** 4/4 | **Difficulty:** Advanced (4/5)
+- **BPM:** ~200 BPM | **Time:** 4/4 | **Technique:** signature pattern | **Difficulty:** Advanced (4/5)
 - **Techniques:** blast-beat, thrash-groove, syncopated-fill
 
 **How to play it:**
@@ -4751,7 +4749,7 @@ Profile: [https://metalforge.io/drummers/nick-menza](https://metalforge.io/drumm
 **Page:** https://metalforge.io/drummers/nick-menza/licks/nick-menza-holy-wars-intro-blast-pattern
 
 ### Hangar 18 Technical Fill Sequence — "Hangar 18", Rust in Peace (1990)
-- **BPM:** ~225 BPM | **Time:** 4/4 | **Difficulty:** Expert (5/5)
+- **BPM:** ~225 BPM | **Time:** 4/4 | **Technique:** fill sequence | **Difficulty:** Expert (5/5)
 - **Techniques:** rapid-fill-sequences, polyrhythmic-independence, tempo-control
 
 **How to play it:**
@@ -4771,7 +4769,7 @@ Profile: [https://metalforge.io/drummers/nick-menza](https://metalforge.io/drumm
 **Page:** https://metalforge.io/drummers/nick-menza/licks/nick-menza-hangar-18-technical-fill-sequence
 
 ### Tornado of Souls Double-Bass Roll — "Tornado of Souls", Rust in Peace (1990)
-- **BPM:** ~210 BPM | **Time:** 4/4 | **Difficulty:** Expert (5/5)
+- **BPM:** ~210 BPM | **Time:** 4/4 | **Technique:** double bass | **Difficulty:** Expert (5/5)
 - **Techniques:** double-bass, dynamic-shaping, riff-lock
 
 **How to play it:**
@@ -4789,7 +4787,7 @@ Profile: [https://metalforge.io/drummers/nick-menza](https://metalforge.io/drumm
 **Page:** https://metalforge.io/drummers/nick-menza/licks/nick-menza-tornado-of-souls-lick
 
 ### Holy Wars Gallop Groove — "Holy Wars...The Punishment Due", Rust in Peace (1990)
-- **BPM:** ~200 BPM | **Time:** 4/4 | **Difficulty:** Advanced (4/5)
+- **BPM:** ~200 BPM | **Time:** 4/4 | **Technique:** gallop groove | **Difficulty:** Advanced (4/5)
 - **Techniques:** gallop-groove, riff-lock, thrash-groove
 
 **How to play it:**
@@ -4807,7 +4805,7 @@ Profile: [https://metalforge.io/drummers/nick-menza](https://metalforge.io/drumm
 **Page:** https://metalforge.io/drummers/nick-menza/licks/nick-menza-holy-wars-lick
 
 ### Sweating Bullets Tick-Tock Swing — "Sweating Bullets", Countdown to Extinction (1992)
-- **BPM:** 112 BPM | **Time:** 4/4 | **Difficulty:** Intermediate (3/5)
+- **BPM:** 112 BPM | **Time:** 4/4 | **Technique:** swing groove | **Difficulty:** Intermediate (3/5)
 - **Techniques:** swing-groove, hi-hat-control, groove-drumming
 
 **How to play it:**
@@ -4829,7 +4827,7 @@ Profile: [https://metalforge.io/drummers/nick-menza](https://metalforge.io/drumm
 Profile: [https://metalforge.io/drummers/nicko-mcbrain](https://metalforge.io/drummers/nicko-mcbrain) · All licks: [https://metalforge.io/drummers/nicko-mcbrain/licks](https://metalforge.io/drummers/nicko-mcbrain/licks)
 
 ### The Trooper Galloping Groove — "The Trooper", Piece of Mind (1983)
-- **BPM:** ~160 BPM | **Time:** 4/4 (galloping) | **Difficulty:** Advanced (4/5)
+- **BPM:** ~160 BPM | **Time:** 4/4 (galloping) | **Technique:** signature pattern | **Difficulty:** Advanced (4/5)
 - **Techniques:** groove-drumming, fill-techniques, linear-drumming
 
 **How to play it:**
@@ -4849,7 +4847,7 @@ Profile: [https://metalforge.io/drummers/nicko-mcbrain](https://metalforge.io/dr
 **Page:** https://metalforge.io/drummers/nicko-mcbrain/licks/nicko-mcbrain-the-trooper
 
 ### Aces High Full-Throttle Drive — "Aces High", Powerslave (1984)
-- **BPM:** ~175 BPM | **Time:** 4/4 | **Difficulty:** Advanced (4/5)
+- **BPM:** ~175 BPM | **Time:** 4/4 | **Technique:** signature pattern | **Difficulty:** Advanced (4/5)
 - **Techniques:** groove-drumming, fill-techniques, linear-drumming
 
 **How to play it:**
@@ -4869,7 +4867,7 @@ Profile: [https://metalforge.io/drummers/nicko-mcbrain](https://metalforge.io/dr
 **Page:** https://metalforge.io/drummers/nicko-mcbrain/licks/nicko-mcbrain-aces-high
 
 ### The Number of the Beast Live Groove — "The Number of the Beast", The Number of the Beast (1982)
-- **BPM:** ~185 BPM | **Time:** 4/4 | **Difficulty:** Advanced (4/5)
+- **BPM:** ~185 BPM | **Time:** 4/4 | **Technique:** signature pattern | **Difficulty:** Advanced (4/5)
 - **Techniques:** groove-drumming, fill-techniques, linear-drumming
 
 **How to play it:**
@@ -4893,7 +4891,7 @@ Profile: [https://metalforge.io/drummers/nicko-mcbrain](https://metalforge.io/dr
 Profile: [https://metalforge.io/drummers/paul-bostaph](https://metalforge.io/drummers/paul-bostaph) · All licks: [https://metalforge.io/drummers/paul-bostaph/licks](https://metalforge.io/drummers/paul-bostaph/licks)
 
 ### Raining Blood Intro Double Bass Assault — "Raining Blood", Reign in Blood (1986) — live staple of Bostaph's tenure
-- **BPM:** ~220 BPM | **Time:** 4/4 | **Difficulty:** Expert (5/5)
+- **BPM:** ~220 BPM | **Time:** 4/4 | **Technique:** double bass | **Difficulty:** Expert (5/5)
 - **Techniques:** double-bass, blast-beat, groove-drumming
 
 **How to play it:**
@@ -4913,7 +4911,7 @@ Profile: [https://metalforge.io/drummers/paul-bostaph](https://metalforge.io/dru
 **Page:** https://metalforge.io/drummers/paul-bostaph/licks/paul-bostaph-raining-blood-double-bass
 
 ### Disciple Thrash Speed Groove — "Disciple", God Hates Us All (2001)
-- **BPM:** ~190 BPM | **Time:** 4/4 | **Difficulty:** Advanced (4/5)
+- **BPM:** ~190 BPM | **Time:** 4/4 | **Technique:** main groove | **Difficulty:** Advanced (4/5)
 - **Techniques:** groove-drumming, double-bass, fill-techniques
 
 **How to play it:**
@@ -4933,7 +4931,7 @@ Profile: [https://metalforge.io/drummers/paul-bostaph](https://metalforge.io/dru
 **Page:** https://metalforge.io/drummers/paul-bostaph/licks/paul-bostaph-disciple-speed-groove
 
 ### War Ensemble Thrash Blast Pattern — "War Ensemble", Seasons in the Abyss (1990) — live staple of Bostaph's tenure
-- **BPM:** ~210 BPM | **Time:** 4/4 | **Difficulty:** Expert (5/5)
+- **BPM:** ~210 BPM | **Time:** 4/4 | **Technique:** blast beat | **Difficulty:** Expert (5/5)
 - **Techniques:** blast-beat, double-bass, groove-drumming
 
 **How to play it:**
@@ -4957,7 +4955,7 @@ Profile: [https://metalforge.io/drummers/paul-bostaph](https://metalforge.io/dru
 Profile: [https://metalforge.io/drummers/paul-mazurkiewicz](https://metalforge.io/drummers/paul-mazurkiewicz) · All licks: [https://metalforge.io/drummers/paul-mazurkiewicz/licks](https://metalforge.io/drummers/paul-mazurkiewicz/licks)
 
 ### Hammer Smashed Face Blast & Groove Blueprint — "Hammer Smashed Face", Tomb of the Mutilated (1992)
-- **BPM:** ~145 BPM | **Time:** 4/4 | **Difficulty:** Expert (5/5)
+- **BPM:** ~145 BPM | **Time:** 4/4 | **Technique:** signature pattern | **Difficulty:** Expert (5/5)
 - **Techniques:** blast-beat, double-bass, groove
 
 **How to play it:**
@@ -4977,7 +4975,7 @@ Profile: [https://metalforge.io/drummers/paul-mazurkiewicz](https://metalforge.i
 **Page:** https://metalforge.io/drummers/paul-mazurkiewicz/licks/paul-mazurkiewicz-hammer-smashed-face
 
 ### Tomb of the Mutilated Double-Bass Assault — "Tomb of the Mutilated", Tomb of the Mutilated (1992)
-- **BPM:** ~150 BPM | **Time:** 4/4 (shifting tempos) | **Difficulty:** Expert (5/5)
+- **BPM:** ~150 BPM | **Time:** 4/4 (shifting tempos) | **Technique:** signature pattern | **Difficulty:** Expert (5/5)
 - **Techniques:** double-bass, blast-beat, groove
 
 **How to play it:**
@@ -4997,7 +4995,7 @@ Profile: [https://metalforge.io/drummers/paul-mazurkiewicz](https://metalforge.i
 **Page:** https://metalforge.io/drummers/paul-mazurkiewicz/licks/paul-mazurkiewicz-tomb-of-the-mutilated
 
 ### Evisceration Plague Death-Metal Pocket Groove — "Evisceration Plague", Evisceration Plague (2009)
-- **BPM:** ~140 BPM | **Time:** 4/4 | **Difficulty:** Advanced (4/5)
+- **BPM:** ~140 BPM | **Time:** 4/4 | **Technique:** signature pattern | **Difficulty:** Advanced (4/5)
 - **Techniques:** groove, double-bass, fill-techniques
 
 **How to play it:**
@@ -5021,7 +5019,7 @@ Profile: [https://metalforge.io/drummers/paul-mazurkiewicz](https://metalforge.i
 Profile: [https://metalforge.io/drummers/pete-sandoval](https://metalforge.io/drummers/pete-sandoval) · All licks: [https://metalforge.io/drummers/pete-sandoval/licks](https://metalforge.io/drummers/pete-sandoval/licks)
 
 ### Chapel of Ghouls Blast-Beat Blueprint — "Chapel of Ghouls", Altars of Madness (1989)
-- **BPM:** ~230 BPM | **Time:** 4/4 (extreme tempo) | **Difficulty:** Expert (5/5)
+- **BPM:** ~230 BPM | **Time:** 4/4 (extreme tempo) | **Technique:** signature pattern | **Difficulty:** Expert (5/5)
 - **Techniques:** blast-beat, double-bass, gravity-blast
 
 **How to play it:**
@@ -5041,7 +5039,7 @@ Profile: [https://metalforge.io/drummers/pete-sandoval](https://metalforge.io/dr
 **Page:** https://metalforge.io/drummers/pete-sandoval/licks/pete-sandoval-chapel-of-ghouls
 
 ### Immortal Rites Death-Metal Speed Study — "Immortal Rites", Altars of Madness (1989)
-- **BPM:** ~240 BPM | **Time:** 4/4 (extreme tempo) | **Difficulty:** Expert (5/5)
+- **BPM:** ~240 BPM | **Time:** 4/4 (extreme tempo) | **Technique:** signature pattern | **Difficulty:** Expert (5/5)
 - **Techniques:** blast-beat, double-bass, one-handed-roll
 
 **How to play it:**
@@ -5061,7 +5059,7 @@ Profile: [https://metalforge.io/drummers/pete-sandoval](https://metalforge.io/dr
 **Page:** https://metalforge.io/drummers/pete-sandoval/licks/pete-sandoval-immortal-rites
 
 ### Dominate Blast & Double-Bass Onslaught — "Dominate", Domination (1995)
-- **BPM:** ~220 BPM | **Time:** 4/4 (shifting tempos) | **Difficulty:** Expert (5/5)
+- **BPM:** ~220 BPM | **Time:** 4/4 (shifting tempos) | **Technique:** signature pattern | **Difficulty:** Expert (5/5)
 - **Techniques:** blast-beat, double-bass, gravity-blast
 
 **How to play it:**
@@ -5085,7 +5083,7 @@ Profile: [https://metalforge.io/drummers/pete-sandoval](https://metalforge.io/dr
 Profile: [https://metalforge.io/drummers/ray-luzier](https://metalforge.io/drummers/ray-luzier) · All licks: [https://metalforge.io/drummers/ray-luzier/licks](https://metalforge.io/drummers/ray-luzier/licks)
 
 ### Freak on a Leash Nu-Metal Groove — "Freak on a Leash", Follow the Leader (1998)
-- **BPM:** ~122 BPM | **Time:** 4/4 (syncopated half-time feel) | **Difficulty:** Advanced (4/5)
+- **BPM:** ~122 BPM | **Time:** 4/4 (syncopated half-time feel) | **Technique:** signature pattern | **Difficulty:** Advanced (4/5)
 - **Techniques:** groove-drumming, double-bass, fill-techniques
 
 **How to play it:**
@@ -5105,7 +5103,7 @@ Profile: [https://metalforge.io/drummers/ray-luzier](https://metalforge.io/drumm
 **Page:** https://metalforge.io/drummers/ray-luzier/licks/ray-luzier-freak-on-a-leash-groove
 
 ### Got the Life Rock Groove — "Got the Life", Follow the Leader (1998)
-- **BPM:** ~136 BPM | **Time:** 4/4 | **Difficulty:** Intermediate (3/5)
+- **BPM:** ~136 BPM | **Time:** 4/4 | **Technique:** main groove | **Difficulty:** Intermediate (3/5)
 - **Techniques:** groove-drumming, double-bass, fill-techniques
 
 **How to play it:**
@@ -5125,7 +5123,7 @@ Profile: [https://metalforge.io/drummers/ray-luzier](https://metalforge.io/drumm
 **Page:** https://metalforge.io/drummers/ray-luzier/licks/ray-luzier-got-the-life-groove
 
 ### Blind Open Hi-Hat Groove — "Blind", Korn (1994)
-- **BPM:** ~128 BPM | **Time:** 4/4 | **Difficulty:** Intermediate (3/5)
+- **BPM:** ~128 BPM | **Time:** 4/4 | **Technique:** main groove | **Difficulty:** Intermediate (3/5)
 - **Techniques:** groove-drumming, fill-techniques, double-bass
 
 **How to play it:**
@@ -5149,7 +5147,7 @@ Profile: [https://metalforge.io/drummers/ray-luzier](https://metalforge.io/drumm
 Profile: [https://metalforge.io/drummers/raymond-herrera](https://metalforge.io/drummers/raymond-herrera) · All licks: [https://metalforge.io/drummers/raymond-herrera/licks](https://metalforge.io/drummers/raymond-herrera/licks)
 
 ### Replica Machine-Gun Double Bass — "Replica", Demanufacture (1995)
-- **BPM:** ~200 BPM | **Time:** 4/4 | **Difficulty:** Expert (5/5)
+- **BPM:** ~200 BPM | **Time:** 4/4 | **Technique:** double bass | **Difficulty:** Expert (5/5)
 - **Techniques:** double-bass, blast-technique, industrial-metal
 
 **How to play it:**
@@ -5169,7 +5167,7 @@ Profile: [https://metalforge.io/drummers/raymond-herrera](https://metalforge.io/
 **Page:** https://metalforge.io/drummers/raymond-herrera/licks/raymond-herrera-replica-double-bass
 
 ### Edgecrusher Industrial Groove Pattern — "Edgecrusher", Obsolete (1998)
-- **BPM:** ~160 BPM | **Time:** 4/4 | **Difficulty:** Advanced (4/5)
+- **BPM:** ~160 BPM | **Time:** 4/4 | **Technique:** signature pattern | **Difficulty:** Advanced (4/5)
 - **Techniques:** groove-drumming, double-bass, industrial-metal
 
 **How to play it:**
@@ -5189,7 +5187,7 @@ Profile: [https://metalforge.io/drummers/raymond-herrera](https://metalforge.io/
 **Page:** https://metalforge.io/drummers/raymond-herrera/licks/raymond-herrera-edgecrusher-groove
 
 ### Linchpin Snare & Bass Interplay — "Linchpin", Digimortal (2001)
-- **BPM:** ~175 BPM | **Time:** 4/4 | **Difficulty:** Advanced (4/5)
+- **BPM:** ~175 BPM | **Time:** 4/4 | **Technique:** fills | **Difficulty:** Advanced (4/5)
 - **Techniques:** fills, double-bass, groove-drumming
 
 **How to play it:**
@@ -5213,7 +5211,7 @@ Profile: [https://metalforge.io/drummers/raymond-herrera](https://metalforge.io/
 Profile: [https://metalforge.io/drummers/richard-christy](https://metalforge.io/drummers/richard-christy) · All licks: [https://metalforge.io/drummers/richard-christy/licks](https://metalforge.io/drummers/richard-christy/licks)
 
 ### Scavenger of Human Sorrow Blast Sequence — "Scavenger of Human Sorrow", The Sound of Perseverance (1998)
-- **BPM:** ~230 BPM | **Time:** 4/4 | **Difficulty:** Expert (5/5)
+- **BPM:** ~230 BPM | **Time:** 4/4 | **Technique:** blast technique | **Difficulty:** Expert (5/5)
 - **Techniques:** blast-beat, double-bass, technical-death-metal
 
 **How to play it:**
@@ -5233,7 +5231,7 @@ Profile: [https://metalforge.io/drummers/richard-christy](https://metalforge.io/
 **Page:** https://metalforge.io/drummers/richard-christy/licks/richard-christy-scavenger-blast
 
 ### Flesh and the Power It Holds Progressive Fill — "Flesh and the Power It Holds", The Sound of Perseverance (1998)
-- **BPM:** ~160 BPM | **Time:** 4/4 | **Difficulty:** Expert (5/5)
+- **BPM:** ~160 BPM | **Time:** 4/4 | **Technique:** fills | **Difficulty:** Expert (5/5)
 - **Techniques:** fills, polyrhythms, technical-death-metal
 
 **How to play it:**
@@ -5253,7 +5251,7 @@ Profile: [https://metalforge.io/drummers/richard-christy](https://metalforge.io/
 **Page:** https://metalforge.io/drummers/richard-christy/licks/richard-christy-flesh-power-fill
 
 ### Voice of the Soul Linear Pattern — "Voice of the Soul", The Sound of Perseverance (1998)
-- **BPM:** ~120 BPM | **Time:** 4/4 | **Difficulty:** Advanced (4/5)
+- **BPM:** ~120 BPM | **Time:** 4/4 | **Technique:** linear drumming | **Difficulty:** Advanced (4/5)
 - **Techniques:** linear-drumming, groove-drumming, fills
 
 **How to play it:**
@@ -5277,7 +5275,7 @@ Profile: [https://metalforge.io/drummers/richard-christy](https://metalforge.io/
 Profile: [https://metalforge.io/drummers/ryan-van-poederooyen](https://metalforge.io/drummers/ryan-van-poederooyen) · All licks: [https://metalforge.io/drummers/ryan-van-poederooyen/licks](https://metalforge.io/drummers/ryan-van-poederooyen/licks)
 
 ### Higher Progressive Groove — "Higher", Transcendence (2016)
-- **BPM:** 140 BPM | **Time:** 4/4 | **Difficulty:** Advanced (4/5)
+- **BPM:** 140 BPM | **Time:** 4/4 | **Technique:** main groove | **Difficulty:** Advanced (4/5)
 - **Techniques:** progressive-groove, dynamics, tom-patterns
 
 **How to play it:**
@@ -5293,7 +5291,7 @@ Profile: [https://metalforge.io/drummers/ryan-van-poederooyen](https://metalforg
 **Page:** https://metalforge.io/drummers/ryan-van-poederooyen/licks/ryan-van-poederooyen-higher-groove
 
 ### Ziltoid Goes Home Odd-Meter Polyrhythm — "Ziltoid Goes Home", Z² (2014)
-- **BPM:** 128 BPM | **Time:** 7/8 | **Difficulty:** Expert (5/5)
+- **BPM:** 128 BPM | **Time:** 7/8 | **Technique:** odd meter | **Difficulty:** Expert (5/5)
 - **Techniques:** odd-meter, polyrhythm, progressive-groove
 
 **How to play it:**
@@ -5309,7 +5307,7 @@ Profile: [https://metalforge.io/drummers/ryan-van-poederooyen](https://metalforg
 **Page:** https://metalforge.io/drummers/ryan-van-poederooyen/licks/ryan-van-poederooyen-ziltoid-odd-meter
 
 ### Transcendence Studio Prog Fill — "Transcendence", Transcendence (2016)
-- **BPM:** 132 BPM | **Time:** 4/4 | **Difficulty:** Advanced (4/5)
+- **BPM:** 132 BPM | **Time:** 4/4 | **Technique:** fill pattern | **Difficulty:** Advanced (4/5)
 - **Techniques:** studio-precision, progressive-fills, dynamics
 
 **How to play it:**
@@ -5329,7 +5327,7 @@ Profile: [https://metalforge.io/drummers/ryan-van-poederooyen](https://metalforg
 Profile: [https://metalforge.io/drummers/scott-travis](https://metalforge.io/drummers/scott-travis) · All licks: [https://metalforge.io/drummers/scott-travis/licks](https://metalforge.io/drummers/scott-travis/licks)
 
 ### Painkiller Double-Bass Intro & Assault — "Painkiller", Painkiller (1990)
-- **BPM:** ~200 BPM | **Time:** 4/4 (extreme tempo) | **Difficulty:** Expert (5/5)
+- **BPM:** ~200 BPM | **Time:** 4/4 (extreme tempo) | **Technique:** signature pattern | **Difficulty:** Expert (5/5)
 - **Techniques:** double-bass, blast-beat, fill-techniques
 
 **How to play it:**
@@ -5349,7 +5347,7 @@ Profile: [https://metalforge.io/drummers/scott-travis](https://metalforge.io/dru
 **Page:** https://metalforge.io/drummers/scott-travis/licks/scott-travis-painkiller
 
 ### Breaking the Law Live Drive — "Breaking the Law", British Steel (1980)
-- **BPM:** ~160 BPM | **Time:** 4/4 | **Difficulty:** Intermediate (3/5)
+- **BPM:** ~160 BPM | **Time:** 4/4 | **Technique:** signature pattern | **Difficulty:** Intermediate (3/5)
 - **Techniques:** groove-drumming, fill-techniques, double-bass
 
 **How to play it:**
@@ -5369,7 +5367,7 @@ Profile: [https://metalforge.io/drummers/scott-travis](https://metalforge.io/dru
 **Page:** https://metalforge.io/drummers/scott-travis/licks/scott-travis-breaking-the-law
 
 ### Living After Midnight Backbeat Power — "Living After Midnight", British Steel (1980)
-- **BPM:** ~150 BPM | **Time:** 4/4 | **Difficulty:** Intermediate (3/5)
+- **BPM:** ~150 BPM | **Time:** 4/4 | **Technique:** signature pattern | **Difficulty:** Intermediate (3/5)
 - **Techniques:** groove-drumming, fill-techniques, double-bass
 
 **How to play it:**
@@ -5393,7 +5391,7 @@ Profile: [https://metalforge.io/drummers/scott-travis](https://metalforge.io/dru
 Profile: [https://metalforge.io/drummers/sean-reinert](https://metalforge.io/drummers/sean-reinert) · All licks: [https://metalforge.io/drummers/sean-reinert/licks](https://metalforge.io/drummers/sean-reinert/licks)
 
 ### Lack of Comprehension Polyrhythm — "Lack of Comprehension", Human (1991)
-- **BPM:** ~175 BPM | **Time:** 6/4 over 4/4 | **Difficulty:** Expert (5/5)
+- **BPM:** ~175 BPM | **Time:** 6/4 over 4/4 | **Technique:** signature pattern | **Difficulty:** Expert (5/5)
 - **Techniques:** polyrhythm, metric-modulation, jazz-inflection
 
 **How to play it:**
@@ -5413,7 +5411,7 @@ Profile: [https://metalforge.io/drummers/sean-reinert](https://metalforge.io/dru
 **Page:** https://metalforge.io/drummers/sean-reinert/licks/sean-reinert-lack-of-comprehension-polyrhythm
 
 ### Suicide Machine Groove Pattern — "Suicide Machine", Human (1991)
-- **BPM:** ~165 BPM | **Time:** 4/4 | **Difficulty:** Advanced (4/5)
+- **BPM:** ~165 BPM | **Time:** 4/4 | **Technique:** main groove | **Difficulty:** Advanced (4/5)
 - **Techniques:** ghost-notes, odd-time-feel, jazz-death-hybrid
 
 **How to play it:**
@@ -5433,7 +5431,7 @@ Profile: [https://metalforge.io/drummers/sean-reinert](https://metalforge.io/dru
 **Page:** https://metalforge.io/drummers/sean-reinert/licks/sean-reinert-suicide-machine-groove-pattern
 
 ### Flattening of Emotions Main Beat — "Flattening of Emotions", Human (1991)
-- **BPM:** ~145 BPM | **Time:** 4/4 | **Difficulty:** Intermediate (3/5)
+- **BPM:** ~145 BPM | **Time:** 4/4 | **Technique:** main groove | **Difficulty:** Intermediate (3/5)
 - **Techniques:** mid-paced-groove, dynamic-control, musical-fills
 
 **How to play it:**
@@ -5457,7 +5455,7 @@ Profile: [https://metalforge.io/drummers/sean-reinert](https://metalforge.io/dru
 Profile: [https://metalforge.io/drummers/shannon-larkin](https://metalforge.io/drummers/shannon-larkin) · All licks: [https://metalforge.io/drummers/shannon-larkin/licks](https://metalforge.io/drummers/shannon-larkin/licks)
 
 ### I Stand Alone Power Groove — "I Stand Alone", Faceless (2003)
-- **BPM:** ~107 BPM | **Time:** 4/4 | **Difficulty:** Intermediate (3/5)
+- **BPM:** ~107 BPM | **Time:** 4/4 | **Technique:** signature pattern | **Difficulty:** Intermediate (3/5)
 - **Techniques:** groove-drumming, fill-techniques, double-bass
 
 **How to play it:**
@@ -5477,7 +5475,7 @@ Profile: [https://metalforge.io/drummers/shannon-larkin](https://metalforge.io/d
 **Page:** https://metalforge.io/drummers/shannon-larkin/licks/shannon-larkin-i-stand-alone-groove
 
 ### Keep Away Groove Lock & Fill Cascade — "Keep Away", Godsmack (1998)
-- **BPM:** ~120 BPM | **Time:** 4/4 | **Difficulty:** Intermediate (3/5)
+- **BPM:** ~120 BPM | **Time:** 4/4 | **Technique:** main groove | **Difficulty:** Intermediate (3/5)
 - **Techniques:** groove-drumming, fill-techniques, linear-drumming
 
 **How to play it:**
@@ -5497,7 +5495,7 @@ Profile: [https://metalforge.io/drummers/shannon-larkin](https://metalforge.io/d
 **Page:** https://metalforge.io/drummers/shannon-larkin/licks/shannon-larkin-keep-away-groove
 
 ### Voodoo Thunderous Fill — "Voodoo", Godsmack (1998)
-- **BPM:** ~68 BPM | **Time:** 4/4 | **Difficulty:** Intermediate (3/5)
+- **BPM:** ~68 BPM | **Time:** 4/4 | **Technique:** signature pattern | **Difficulty:** Intermediate (3/5)
 - **Techniques:** fill-techniques, groove-drumming, dynamic-control
 
 **How to play it:**
@@ -5515,7 +5513,7 @@ Profile: [https://metalforge.io/drummers/shannon-larkin](https://metalforge.io/d
 **Page:** https://metalforge.io/drummers/shannon-larkin/licks/shannon-larkin-voodoo-fill
 
 ### 1000hp Double-Bass Gallop — "1000hp", 1000hp (2014)
-- **BPM:** ~135 BPM | **Time:** 4/4 | **Difficulty:** Advanced (4/5)
+- **BPM:** ~135 BPM | **Time:** 4/4 | **Technique:** main groove | **Difficulty:** Advanced (4/5)
 - **Techniques:** double-bass, groove-drumming, riff-lock
 
 **How to play it:**
@@ -5533,7 +5531,7 @@ Profile: [https://metalforge.io/drummers/shannon-larkin](https://metalforge.io/d
 **Page:** https://metalforge.io/drummers/shannon-larkin/licks/shannon-larkin-1000hp-double-bass
 
 ### Awake Tribal Tom Pattern — "Awake", Awake (2000)
-- **BPM:** ~126 BPM | **Time:** 4/4 | **Difficulty:** Intermediate (3/5)
+- **BPM:** ~126 BPM | **Time:** 4/4 | **Technique:** signature pattern | **Difficulty:** Intermediate (3/5)
 - **Techniques:** groove-drumming, fill-techniques, polyrhythms
 
 **How to play it:**
@@ -5557,7 +5555,7 @@ Profile: [https://metalforge.io/drummers/shannon-larkin](https://metalforge.io/d
 Profile: [https://metalforge.io/drummers/tim-yeung](https://metalforge.io/drummers/tim-yeung) · All licks: [https://metalforge.io/drummers/tim-yeung/licks](https://metalforge.io/drummers/tim-yeung/licks)
 
 ### Bleed the Fifth Blast Beat Pattern — "Bleed the Fifth", Bleed the Fifth (2007)
-- **BPM:** ~200 BPM | **Time:** 4/4 (extreme tempo) | **Difficulty:** Expert (5/5)
+- **BPM:** ~200 BPM | **Time:** 4/4 (extreme tempo) | **Technique:** signature pattern | **Difficulty:** Expert (5/5)
 - **Techniques:** blast-beat, double-bass, one-handed-roll
 
 **How to play it:**
@@ -5577,7 +5575,7 @@ Profile: [https://metalforge.io/drummers/tim-yeung](https://metalforge.io/drumme
 **Page:** https://metalforge.io/drummers/tim-yeung/licks/tim-yeung-bleed-the-fifth-blast
 
 ### Inferno of Violence Double Bass Drive — "Inferno of Violence", Bleed the Fifth (2007)
-- **BPM:** ~195 BPM | **Time:** 4/4 | **Difficulty:** Expert (5/5)
+- **BPM:** ~195 BPM | **Time:** 4/4 | **Technique:** double bass | **Difficulty:** Expert (5/5)
 - **Techniques:** double-bass, blast-beat, linear-drumming
 
 **How to play it:**
@@ -5597,7 +5595,7 @@ Profile: [https://metalforge.io/drummers/tim-yeung](https://metalforge.io/drumme
 **Page:** https://metalforge.io/drummers/tim-yeung/licks/tim-yeung-inferno-of-violence-double-bass
 
 ### Anarchists of the Underground Speed Groove — "Anarchists of the Underground", Bleed the Fifth (2007)
-- **BPM:** ~185 BPM | **Time:** 4/4 | **Difficulty:** Expert (5/5)
+- **BPM:** ~185 BPM | **Time:** 4/4 | **Technique:** signature pattern | **Difficulty:** Expert (5/5)
 - **Techniques:** blast-beat, groove-drumming, double-bass
 
 **How to play it:**
@@ -5621,7 +5619,7 @@ Profile: [https://metalforge.io/drummers/tim-yeung](https://metalforge.io/drumme
 Profile: [https://metalforge.io/drummers/tomas-haake](https://metalforge.io/drummers/tomas-haake) · All licks: [https://metalforge.io/drummers/tomas-haake/licks](https://metalforge.io/drummers/tomas-haake/licks)
 
 ### obZen Polyrhythm Ostinato — "Bleed", obZen (2008)
-- **BPM:** 116 BPM | **Time:** 4/4 | **Difficulty:** Expert (5/5)
+- **BPM:** 116 BPM | **Time:** 4/4 | **Technique:** polyrhythm | **Difficulty:** Expert (5/5)
 - **Techniques:** polyrhythms, ostinato, limb-independence
 
 **How to play it:**
@@ -5639,7 +5637,7 @@ Profile: [https://metalforge.io/drummers/tomas-haake](https://metalforge.io/drum
 **Page:** https://metalforge.io/drummers/tomas-haake/licks/tomas-haake-obzen-polyrhythm-groove
 
 ### Koloss I Am Colossus Groove — "I Am Colossus", Koloss (2012)
-- **BPM:** ~100 BPM | **Time:** 4/4 | **Difficulty:** Advanced (4/5)
+- **BPM:** ~100 BPM | **Time:** 4/4 | **Technique:** polyrhythm | **Difficulty:** Advanced (4/5)
 - **Techniques:** polyrhythms, groove-drumming, odd-time-signatures
 
 **How to play it:**
@@ -5657,7 +5655,7 @@ Profile: [https://metalforge.io/drummers/tomas-haake](https://metalforge.io/drum
 **Page:** https://metalforge.io/drummers/tomas-haake/licks/tomas-haake-koloss-groove-ostinato
 
 ### Bleed Double Bass Groove — "Bleed", obZen (2008)
-- **BPM:** 116 BPM | **Time:** 4/4 | **Difficulty:** Expert (5/5)
+- **BPM:** 116 BPM | **Time:** 4/4 | **Technique:** main groove | **Difficulty:** Expert (5/5)
 - **Techniques:** double-bass, odd-time-signatures, polyrhythms
 
 **How to play it:**
@@ -5677,7 +5675,7 @@ Profile: [https://metalforge.io/drummers/tomas-haake](https://metalforge.io/drum
 **Page:** https://metalforge.io/drummers/tomas-haake/licks/tomas-haake-bleed-groove
 
 ### Clockworks Polymetric Groove — "Clockworks", The Violent Sleep of Reason (2016)
-- **BPM:** 130 BPM | **Time:** 4/4 | **Difficulty:** Expert (5/5)
+- **BPM:** 130 BPM | **Time:** 4/4 | **Technique:** main groove | **Difficulty:** Expert (5/5)
 - **Techniques:** polyrhythms, odd-time-signatures, double-bass
 
 **How to play it:**
@@ -5697,7 +5695,7 @@ Profile: [https://metalforge.io/drummers/tomas-haake](https://metalforge.io/drum
 **Page:** https://metalforge.io/drummers/tomas-haake/licks/tomas-haake-clockworks-groove
 
 ### New Millennium Cyanide Christ Groove — "New Millennium Cyanide Christ", Chaosphere (1998)
-- **BPM:** 120 BPM | **Time:** 4/4 | **Difficulty:** Expert (5/5)
+- **BPM:** 120 BPM | **Time:** 4/4 | **Technique:** main groove | **Difficulty:** Expert (5/5)
 - **Techniques:** polyrhythms, odd-time-signatures, groove-drumming
 
 **How to play it:**
@@ -5721,7 +5719,7 @@ Profile: [https://metalforge.io/drummers/tomas-haake](https://metalforge.io/drum
 Profile: [https://metalforge.io/drummers/travis-orbin](https://metalforge.io/drummers/travis-orbin) · All licks: [https://metalforge.io/drummers/travis-orbin/licks](https://metalforge.io/drummers/travis-orbin/licks)
 
 ### Zyglrox Polyrhythm Engine — "Zyglrox", Periphery (2010)
-- **BPM:** ~148 BPM | **Time:** 4/4 (polymetric groupings) | **Difficulty:** Advanced (4/5)
+- **BPM:** ~148 BPM | **Time:** 4/4 (polymetric groupings) | **Technique:** polyrhythm | **Difficulty:** Advanced (4/5)
 - **Techniques:** polyrhythm, double-bass, groove-drumming
 
 **How to play it:**
@@ -5741,7 +5739,7 @@ Profile: [https://metalforge.io/drummers/travis-orbin](https://metalforge.io/dru
 **Page:** https://metalforge.io/drummers/travis-orbin/licks/travis-orbin-zyglrox-polyrhythm
 
 ### Insomnia Odd-Time Djent Groove — "Insomnia", Periphery (2010)
-- **BPM:** ~160 BPM | **Time:** 4/4 (metric modulations, irregular phrasing) | **Difficulty:** Expert (5/5)
+- **BPM:** ~160 BPM | **Time:** 4/4 (metric modulations, irregular phrasing) | **Technique:** odd time | **Difficulty:** Expert (5/5)
 - **Techniques:** odd-time, groove-drumming, double-bass
 
 **How to play it:**
@@ -5761,7 +5759,7 @@ Profile: [https://metalforge.io/drummers/travis-orbin](https://metalforge.io/dru
 **Page:** https://metalforge.io/drummers/travis-orbin/licks/travis-orbin-insomnia-odd-time
 
 ### Racecar Metric Modulation Engine — "Racecar", Periphery (2010)
-- **BPM:** ~148 BPM | **Time:** 4/4, 7/8, 9/8 (metric modulation) | **Difficulty:** Expert (5/5)
+- **BPM:** ~148 BPM | **Time:** 4/4, 7/8, 9/8 (metric modulation) | **Technique:** polyrhythm | **Difficulty:** Expert (5/5)
 - **Techniques:** polyrhythm, odd-time-signatures, groove-drumming
 
 **How to play it:**
@@ -5779,7 +5777,7 @@ Profile: [https://metalforge.io/drummers/travis-orbin](https://metalforge.io/dru
 **Page:** https://metalforge.io/drummers/travis-orbin/licks/orbin-periphery-polyrhythm-groove
 
 ### Follow the Signs Controlled Blast Beat — "Follow the Signs", The Discovery (2011)
-- **BPM:** ~190 BPM | **Time:** 4/4 (with blast sections) | **Difficulty:** Expert (5/5)
+- **BPM:** ~190 BPM | **Time:** 4/4 (with blast sections) | **Technique:** blast beat | **Difficulty:** Expert (5/5)
 - **Techniques:** blast-beat, double-bass, dynamic-control
 
 **How to play it:**
@@ -5797,7 +5795,7 @@ Profile: [https://metalforge.io/drummers/travis-orbin](https://metalforge.io/dru
 **Page:** https://metalforge.io/drummers/travis-orbin/licks/orbin-born-of-osiris-blast-beat
 
 ### Singles and Doubles Hybrid Rudiment — "Jetpacks Was Yes!", Periphery (2010)
-- **BPM:** ~155 BPM | **Time:** 4/4 (syncopated) | **Difficulty:** Advanced (4/5)
+- **BPM:** ~155 BPM | **Time:** 4/4 (syncopated) | **Technique:** rudiments | **Difficulty:** Advanced (4/5)
 - **Techniques:** rudiments, fill-techniques, groove-drumming
 
 **How to play it:**
@@ -5815,7 +5813,7 @@ Profile: [https://metalforge.io/drummers/travis-orbin](https://metalforge.io/dru
 **Page:** https://metalforge.io/drummers/travis-orbin/licks/orbin-singles-doubles-hybrid
 
 ### The Walk Fill Cascade — "The Walk", Periphery (2010)
-- **BPM:** ~176 BPM | **Time:** 4/4 (syncopated) | **Difficulty:** Advanced (4/5)
+- **BPM:** ~176 BPM | **Time:** 4/4 (syncopated) | **Technique:** fills | **Difficulty:** Advanced (4/5)
 - **Techniques:** fills, groove-drumming, double-bass
 
 **How to play it:**
@@ -5839,7 +5837,7 @@ Profile: [https://metalforge.io/drummers/travis-orbin](https://metalforge.io/dru
 Profile: [https://metalforge.io/drummers/vinnie-paul](https://metalforge.io/drummers/vinnie-paul) · All licks: [https://metalforge.io/drummers/vinnie-paul/licks](https://metalforge.io/drummers/vinnie-paul/licks)
 
 ### Walk Half-Time Groove — "Walk", Vulgar Display of Power (1992)
-- **BPM:** ~115 BPM | **Time:** 4/4 (swung half-time feel) | **Difficulty:** Intermediate (3/5)
+- **BPM:** ~115 BPM | **Time:** 4/4 (swung half-time feel) | **Technique:** main groove | **Difficulty:** Intermediate (3/5)
 - **Techniques:** groove-drumming, fill-techniques
 
 **How to play it:**
@@ -5859,7 +5857,7 @@ Profile: [https://metalforge.io/drummers/vinnie-paul](https://metalforge.io/drum
 **Page:** https://metalforge.io/drummers/vinnie-paul/licks/vinnie-paul-walk-groove
 
 ### Cowboys from Hell Driving Groove — "Cowboys from Hell", Cowboys from Hell (1990)
-- **BPM:** ~135 BPM | **Time:** 4/4 | **Difficulty:** Advanced (4/5)
+- **BPM:** ~135 BPM | **Time:** 4/4 | **Technique:** main groove | **Difficulty:** Advanced (4/5)
 - **Techniques:** groove-drumming, double-bass, fill-techniques
 
 **How to play it:**
@@ -5879,7 +5877,7 @@ Profile: [https://metalforge.io/drummers/vinnie-paul](https://metalforge.io/drum
 **Page:** https://metalforge.io/drummers/vinnie-paul/licks/vinnie-paul-cowboys-from-hell-groove
 
 ### Domination Double-Bass Breakdown — "Domination", Cowboys from Hell (1990)
-- **BPM:** ~180 BPM | **Time:** 4/4 (fast verses into half-time breakdown) | **Difficulty:** Expert (5/5)
+- **BPM:** ~180 BPM | **Time:** 4/4 (fast verses into half-time breakdown) | **Technique:** signature pattern | **Difficulty:** Expert (5/5)
 - **Techniques:** double-bass, groove-drumming, fill-techniques
 
 **How to play it:**
@@ -5899,7 +5897,7 @@ Profile: [https://metalforge.io/drummers/vinnie-paul](https://metalforge.io/drum
 **Page:** https://metalforge.io/drummers/vinnie-paul/licks/vinnie-paul-domination-double-bass
 
 ### VDoP Syncopated Groove Pocket — "Mouth for War", Vulgar Display of Power (1992)
-- **BPM:** ~140 BPM | **Time:** 4/4 | **Difficulty:** Advanced (4/5)
+- **BPM:** ~140 BPM | **Time:** 4/4 | **Technique:** signature pattern | **Difficulty:** Advanced (4/5)
 - **Techniques:** syncopation, groove-drumming
 
 **How to play it:**
@@ -5917,7 +5915,7 @@ Profile: [https://metalforge.io/drummers/vinnie-paul](https://metalforge.io/drum
 **Page:** https://metalforge.io/drummers/vinnie-paul/licks/vinnie-paul-pantera-groove-pocket
 
 ### Far Beyond Driven 16th-Note Double Bass — "5 Minutes Alone", Far Beyond Driven (1994)
-- **BPM:** ~162 BPM | **Time:** 4/4 | **Difficulty:** Expert (5/5)
+- **BPM:** ~162 BPM | **Time:** 4/4 | **Technique:** double bass | **Difficulty:** Expert (5/5)
 - **Techniques:** double-bass, groove-drumming
 
 **How to play it:**
@@ -5935,7 +5933,7 @@ Profile: [https://metalforge.io/drummers/vinnie-paul](https://metalforge.io/drum
 **Page:** https://metalforge.io/drummers/vinnie-paul/licks/vinnie-paul-far-beyond-driven-double-bass
 
 ### Walk Signature Drum Groove — "Walk", Vulgar Display of Power (1992)
-- **BPM:** ~115 BPM | **Time:** 4/4 (half-time feel) | **Difficulty:** Intermediate (3/5)
+- **BPM:** ~115 BPM | **Time:** 4/4 (half-time feel) | **Technique:** main groove | **Difficulty:** Intermediate (3/5)
 - **Techniques:** groove-drumming, fill-techniques
 
 **How to play it:**
@@ -5957,7 +5955,7 @@ Profile: [https://metalforge.io/drummers/vinnie-paul](https://metalforge.io/drum
 Profile: [https://metalforge.io/drummers/waltteri-vayrynen](https://metalforge.io/drummers/waltteri-vayrynen) · All licks: [https://metalforge.io/drummers/waltteri-vayrynen/licks](https://metalforge.io/drummers/waltteri-vayrynen/licks)
 
 ### §6 — Progressive Drum Showcase — "§6", The Last Will and Testament (2024)
-- **BPM:** ~120 BPM (tempo shifts throughout) | **Time:** mixed meter | **Difficulty:** Advanced (4/5)
+- **BPM:** ~120 BPM (tempo shifts throughout) | **Time:** mixed meter | **Technique:** groove technique | **Difficulty:** Advanced (4/5)
 - **Techniques:** dynamic-control, syncopation, groove-drumming
 
 **How to play it:**

@@ -10,7 +10,7 @@ John Longstreth is one of Technical Death Metal / Brutal Death Metal's most infl
 
 ## Expulsion of Fury — High-Speed Double-Stroke Blast
 
-**Song:** Expulsion of Fury | **Album:** Entity (2011) | **BPM:** ~220+ BPM | **Technique:** blast technique | **Difficulty:** expert
+**Song:** Expulsion of Fury | **Album:** Entity (2011) | **BPM:** ~220+ BPM | **Time:** 4/4 | **Technique:** blast technique | **Difficulty:** expert
 
 "Expulsion of Fury" opens Origin's Entity (2011), an album widely regarded as one of the high points of the band's catalogue and a showcase for John Longstreth's reputation as one of extreme metal's fastest and most technically accomplished drummers. Longstreth grew up around jazz drumming — his father was a Kansas City jazz musician for fifty years, exposing him early to Buddy Rich, Miles Davis, and John Coltrane — before thrash bands like Slayer pulled him toward extreme metal, and he is credited with pioneering double-stroke bass drum technique and the one-handed drum roll within the genre. "Expulsion of Fury" puts both innovations on full display: the track opens at a punishing tempo with a sustained blast beat built on Longstreth's signature double-stroke kick technique, which lets him generate extreme speed and endurance without the single-stroke limitations that cap many other blast-beat drummers. His hands stay locked in tight, mechanically even patterns above the blast, and the one-handed roll technique he helped pioneer appears in the track's transitional fills, letting him maintain roll-like density even during rapid pattern changes. What makes this track instructive is not just raw velocity but control at that velocity — Longstreth's jazz-schooled sense of dynamics keeps every stroke articulate even as the tempo pushes past 220 BPM, a discipline that separates his playing from blast beats that blur into an undifferentiated wall of noise. For drummers, "Expulsion of Fury" is a foundational text in extreme death metal drumming specifically because of the double-stroke kick technique at its core: building that skill requires isolating the foot pattern at slow tempos before integrating it with the hands, and developing the ankle and leg endurance needed to sustain it across a full song. Learning this track develops extreme-tempo blast-beat stamina, the specific double-stroke bass drum coordination Longstreth pioneered, and the one-handed roll vocabulary that appears throughout his catalogue with Origin and Angelcorpse. It remains one of the clearest demonstrations of why Longstreth is considered a benchmark drummer within technical and brutal death metal.
 
@@ -44,4 +44,4 @@ John Longstreth's style is defined by precision, timing, and genre-defining groo
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

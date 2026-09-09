@@ -93,6 +93,7 @@ for (const key of order) {
     const facts = [];
     if (lick.bpmDisplay || lick.bpm) facts.push(`**BPM:** ${lick.bpmDisplay || lick.bpm}`);
     if (lick.timeSignature) facts.push(`**Time:** ${lick.timeSignature}`);
+    if (lick.category) facts.push(`**Technique:** ${lick.category.replace(/-/g, ' ')}`);
     if (lick.difficulty) {
       facts.push(`**Difficulty:** ${cap(lick.difficulty)}${lick.difficultyRating ? ` (${lick.difficultyRating}/5)` : ''}`);
     }

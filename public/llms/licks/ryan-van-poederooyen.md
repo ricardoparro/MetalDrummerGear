@@ -10,7 +10,7 @@ Ryan Van Poederooyen is one of Progressive Metal / Extreme Metal's most influent
 
 ## Higher Progressive Groove
 
-**Song:** Higher | **Album:** Transcendence (2016) | **BPM:** 140 BPM | **Technique:** main groove | **Difficulty:** advanced
+**Song:** Higher | **Album:** Transcendence (2016) | **BPM:** 140 BPM | **Time:** 4/4 | **Technique:** main groove | **Difficulty:** advanced
 
 Ryan Van Poederooyen's groove on 'Higher' from the Devin Townsend Project's 2016 album Transcendence is a study in how progressive metal drumming can serve a song's emotional arc rather than display raw technique for its own sake. Van Poederooyen moves between powerful, tom-heavy fills and restrained ride cymbal grooves with a musicality that perfectly complements Townsend's layered guitar-and-choir arrangements. The pattern demonstrates how dynamic range — knowing when to hit hard and when to hold back — is the defining skill of elite progressive metal drumming.
 
@@ -31,7 +31,7 @@ Ryan Van Poederooyen's groove on 'Higher' from the Devin Townsend Project's 2016
 
 ## Ziltoid Goes Home Odd-Meter Polyrhythm
 
-**Song:** Ziltoid Goes Home | **Album:** Z² (2014) | **BPM:** 128 BPM | **Technique:** odd meter | **Difficulty:** expert
+**Song:** Ziltoid Goes Home | **Album:** Z² (2014) | **BPM:** 128 BPM | **Time:** 7/8 | **Technique:** odd meter | **Difficulty:** expert
 
 The compound-meter groove that anchors 'Ziltoid Goes Home' from the Devin Townsend Project's Z² (2014) is one of Ryan Van Poederooyen's most cited examples of odd-time mastery. Navigating a 7/8 pulse without losing the listener requires Van Poederooyen to simultaneously convey rhythmic complexity and emotional warmth — a balance few drummers in any genre can achieve. The pattern is a staple reference among progressive drummers because it proves that asymmetric time signatures can feel as natural and inevitable as a standard 4/4 groove when played with full conviction.
 
@@ -52,7 +52,7 @@ The compound-meter groove that anchors 'Ziltoid Goes Home' from the Devin Townse
 
 ## Transcendence Studio Prog Fill
 
-**Song:** Transcendence | **Album:** Transcendence (2016) | **BPM:** 132 BPM | **Technique:** fill pattern | **Difficulty:** advanced
+**Song:** Transcendence | **Album:** Transcendence (2016) | **BPM:** 132 BPM | **Time:** 4/4 | **Technique:** fill pattern | **Difficulty:** advanced
 
 Captured during the studio recording sessions for the Devin Townsend Project's 2016 album Transcendence, Ryan Van Poederooyen's approach to the title track illustrates how he builds a large-scale prog fill from small, interlocking rhythmic cells. The drumcam footage shows his relaxed physical approach even as the musical demands escalate — loose wrists, deliberate stick heights, and a body position that communicates efficiency over effort. This kind of visible ease under pressure is the hallmark of a seasoned progressive metal drummer working at the top of his craft inside a studio environment built for close scrutiny.
 
@@ -84,4 +84,4 @@ Ryan Van Poederooyen's style is defined by precision, timing, and genre-defining
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

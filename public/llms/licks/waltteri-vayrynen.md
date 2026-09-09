@@ -10,7 +10,7 @@ Waltteri Väyrynen is one of Progressive Metal / Gothic Doom Metal's most influe
 
 ## §6 — Progressive Drum Showcase
 
-**Song:** §6 | **Album:** The Last Will and Testament (2024) | **BPM:** ~120 BPM (tempo shifts throughout) | **Technique:** groove technique | **Difficulty:** advanced
+**Song:** §6 | **Album:** The Last Will and Testament (2024) | **BPM:** ~120 BPM (tempo shifts throughout) | **Time:** mixed meter | **Technique:** groove technique | **Difficulty:** advanced
 
 "§6" is the sixth chapter of Opeth's concept album The Last Will and Testament (2024), a post-World War I story told across tracks titled numerically after a section sign, as if read paragraph by paragraph. It was Waltteri Väyrynen's second album with the band after replacing longtime drummer Martin Axenrot in September 2022, following a 2015-2022 tenure in British gothic doom metal band Paradise Lost where he recorded Medusa (2017) and Obsidian (2020). "§6" opens with Väyrynen taking center stage as Joakim Svalberg's organ grinds underneath him, and critics singled the track out specifically for its drumming — reviewers described it as featuring an astonishing drum performance that overshadows the rest of the song before the track settles into one of Fredrik Åkerfeldt's more expressive guitar leads. What makes this passage instructive is how it reframes Väyrynen's role within Opeth's progressive metal vocabulary: rather than simply grooving under the riff, he is given space to lead, and his playing across the section moves fluidly between technical, syncopated patterns and more open, dynamically-shaded playing that supports the song's shifting tempo and mood without ever losing its sense of composed structure. This mirrors the range Väyrynen has cited in his own influences — Dirk Verbeuren, Kai Hahto, and Daniel Erlandsson, all drummers known for combining technical precision with heavy, riff-driven material — applied here to Opeth's more progressive, dynamically varied songwriting rather than straightforward metal aggression. For drummers, "§6" is a valuable study in playing a genuinely featured, quasi-solo passage within a full-band arrangement: it requires internal tempo control as the underlying feel shifts, the confidence to fill space actively without derailing the song's build, and the touch to pull back convincingly when the arrangement hands the spotlight to another instrument. Learning this passage develops syncopated coordination across shifting tempos, the dynamic range needed to move between a busy, featured drum passage and a supportive backing role within the same song, and the compositional listening skill of knowing when a part is meant to lead versus when it should recede.
 
@@ -44,4 +44,4 @@ Waltteri Väyrynen's style is defined by precision, timing, and genre-defining g
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

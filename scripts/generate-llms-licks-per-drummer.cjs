@@ -152,6 +152,7 @@ function buildMarkdown(drummer, licks) {
     if (lick.song)       meta.push(`**Song:** ${lick.song}`);
     if (lick.album)      meta.push(`**Album:** ${lick.album}`);
     if (lick.bpmDisplay) meta.push(`**BPM:** ${lick.bpmDisplay}`);
+    if (lick.timeSignature) meta.push(`**Time:** ${lick.timeSignature}`);
     if (lick.category)   meta.push(`**Technique:** ${lick.category.replace(/-/g, ' ')}`);
     if (lick.difficulty) meta.push(`**Difficulty:** ${lick.difficulty}`);
     if (meta.length) {

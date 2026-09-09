@@ -183,6 +183,40 @@ function renderGearComparison(c) {
   }
   lines.push('');
 
+  // Pros / cons
+  if ((Array.isArray(item1.pros) && item1.pros.length) || (Array.isArray(item1.cons) && item1.cons.length)) {
+    lines.push(`## ${brand1} ${model1} Pros / Cons`);
+    lines.push('');
+    if (Array.isArray(item1.pros) && item1.pros.length) {
+      lines.push('**Pros:**');
+      lines.push('');
+      for (const pro of item1.pros) lines.push(`- ${pro}`);
+      lines.push('');
+    }
+    if (Array.isArray(item1.cons) && item1.cons.length) {
+      lines.push('**Cons:**');
+      lines.push('');
+      for (const con of item1.cons) lines.push(`- ${con}`);
+      lines.push('');
+    }
+  }
+  if ((Array.isArray(item2.pros) && item2.pros.length) || (Array.isArray(item2.cons) && item2.cons.length)) {
+    lines.push(`## ${brand2} ${model2} Pros / Cons`);
+    lines.push('');
+    if (Array.isArray(item2.pros) && item2.pros.length) {
+      lines.push('**Pros:**');
+      lines.push('');
+      for (const pro of item2.pros) lines.push(`- ${pro}`);
+      lines.push('');
+    }
+    if (Array.isArray(item2.cons) && item2.cons.length) {
+      lines.push('**Cons:**');
+      lines.push('');
+      for (const con of item2.cons) lines.push(`- ${con}`);
+      lines.push('');
+    }
+  }
+
   // Head-to-head section
   lines.push('## Head-to-Head: Tone, Build, Price');
   lines.push('');

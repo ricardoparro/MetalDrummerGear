@@ -1,7 +1,7 @@
 # Ludwig vs DW Drums for Metal — Side-by-Side Gear Comparison
 
 > MetalForge's side-by-side comparison of Ludwig and DW drums used by pro metal drummers.
-> Last updated: 2026-07-25
+> Last updated: 2026-09-09
 
 Compare Ludwig Classic Maple and DW Collector's Series drums for metal. Vintage American heritage vs modern premium engineering, pricing, specs, and pro endorsements.
 
@@ -13,7 +13,7 @@ Ludwig is used by professional metal drummers across multiple sub-genres.
 
 ## Which Metal Drummers Use DW?
 
-Pro metal drummers who endorse DW include: **Brann Dailor, Derek Roddy, Scott Travis, Hannes Grossmann**.
+Pro metal drummers who endorse DW include: **Hannes Grossmann**.
 
 DW is particularly well-suited for: Modern metal, progressive death metal, studio work.
 
@@ -27,6 +27,38 @@ DW is particularly well-suited for: Modern metal, progressive death metal, studi
 | **Plies** | 3-ply w/ Reinforcement Rings | HVX Technology |
 | **Hoops** | Triple-Flanged Steel | True Hoop |
 | **Mounting** | Rail Consolette | STM Suspension |
+
+## Ludwig Classic Maple Pros / Cons
+
+**Pros:**
+
+- Classic 3-ply maple shells with reinforcement rings deliver a warm, vintage tone
+- Rail Consolette mounting is simple, rugged, and easy to service on the road
+- The oldest American drum company, with a legacy stretching back to the birth of rock and early metal
+- Significantly lower cost of entry than DW's Collector's Series
+- Vintage-inspired wraps and finishes give it a distinct look next to modern premium kits
+
+**Cons:**
+
+- No Timbre-Matched or HVX-style shell-blending technology
+- Traditional hardware is heavier than DW's STM suspension mounts
+- No current MetalForge roster drummer documented playing Ludwig on tour
+
+## DW Collector's Series Maple Pros / Cons
+
+**Pros:**
+
+- Timbre-Matched shell selection for consistent tone across the kit
+- HVX shell technology allows adjustable attack and resonance
+- True-Pitch tuning rods hold tuning through marathon sets without slipping
+- STM suspension mounts free up shell resonance for a bigger low end
+- Trusted by progressive and modern metal drummers who need studio-grade consistency
+
+**Cons:**
+
+- Premium price point, nearly double Ludwig's comparable maple tier
+- Long lead times on fully custom Collector's Series orders
+- Maple shells can lack the aggressive bite some extreme metal styles need
 
 ## Head-to-Head: Tone, Build, Price
 
@@ -49,7 +81,7 @@ A: DW is the proven, current choice for modern and progressive death metal drumm
 A: Ludwig is endorsed by numerous metal drummers worldwide.
 
 **Q: Which metal drummers endorse DW?**
-A: DW is endorsed by notable metal drummers including Brann Dailor, Derek Roddy, Scott Travis, Hannes Grossmann. The brand is especially popular for Modern metal, progressive death metal, studio work.
+A: DW is endorsed by notable metal drummers including Hannes Grossmann. The brand is especially popular for Modern metal, progressive death metal, studio work.
 
 **Q: How do Ludwig and DW price points compare?**
 A: Ludwig (Classic Maple) is priced at €2,600 - €3,600. DW (Collector's Series Maple) runs €4,500 - €6,500. Ludwig Classic Maple is significantly more affordable, opening the door to premium American drum craftsmanship without DW's Collector's Series price tag - which trades that savings for shell-matching precision and finish customization.

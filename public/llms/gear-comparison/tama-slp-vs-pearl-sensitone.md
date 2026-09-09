@@ -1,7 +1,7 @@
 # Tama vs Pearl Snare Drums for Metal — Side-by-Side Gear Comparison
 
 > MetalForge's side-by-side comparison of Tama and Pearl snare drums used by pro metal drummers.
-> Last updated: 2026-07-25
+> Last updated: 2026-09-09
 
 Compare Tama SLP and Pearl Sensitone snare drums for metal. Steel vs bronze, crack vs warmth. Find your perfect metal snare sound.
 
@@ -9,13 +9,13 @@ Compare Tama SLP and Pearl Sensitone snare drums for metal. Steel vs bronze, cra
 
 ## Which Metal Drummers Use Tama?
 
-Pro metal drummers who endorse Tama include: **Lars Ulrich, Gene Hoglan**.
+Pro metal drummers who endorse Tama include: **Lars Ulrich**.
 
 Tama is particularly well-suited for: Thrash metal, aggressive snare.
 
 ## Which Metal Drummers Use Pearl?
 
-Pro metal drummers who endorse Pearl include: **Dave Lombardo, Matt Halpern**.
+Pro metal drummers who endorse Pearl include: **Matt Halpern**.
 
 Pearl is particularly well-suited for: Death metal, progressive metal.
 
@@ -29,6 +29,34 @@ Pearl is particularly well-suited for: Death metal, progressive metal.
 | **Size** | 14x6.5" | 14x6.5" |
 | **Hoops** | Die-Cast | Triple-flange |
 | **Snare Wires** | 42-strand | 20-strand |
+
+## Tama SLP Steel Pros / Cons
+
+**Pros:**
+
+- Cutting steel attack
+- Super Sensitive Snare System
+- Fat, ringy tone
+- Classic metal sound
+
+**Cons:**
+
+- Can be too bright for some
+- Heavy
+
+## Pearl Sensitone Elite Bronze Pros / Cons
+
+**Pros:**
+
+- Warm, complex bronze tone
+- Sensitive response
+- Great for ghost notes
+- Versatile across genres
+
+**Cons:**
+
+- Less cutting than steel
+- Requires tuning finesse
 
 ## Head-to-Head: Tone, Build, Price
 
@@ -48,16 +76,16 @@ Pearl is particularly well-suited for: Death metal, progressive metal.
 A: SLP for thrash and classic metal. Sensitone for modern and progressive.
 
 **Q: Which metal drummers endorse Tama?**
-A: Tama is endorsed by notable metal drummers including Lars Ulrich, Gene Hoglan. The brand is especially popular for Thrash metal, aggressive snare.
+A: Tama is endorsed by notable metal drummers including Lars Ulrich. The brand is especially popular for Thrash metal, aggressive snare.
 
 **Q: Which metal drummers endorse Pearl?**
-A: Pearl is endorsed by notable metal drummers including Dave Lombardo, Matt Halpern. The brand is especially popular for Death metal, progressive metal.
+A: Pearl is endorsed by notable metal drummers including Matt Halpern. The brand is especially popular for Death metal, progressive metal.
 
 **Q: How do Tama and Pearl price points compare?**
 A: Tama (SLP Steel) is priced at €350 - €450. Pearl (Sensitone Elite Bronze) runs €300 - €400. Sensitone offers more tonal options per dollar. SLP is the classic metal choice.
 
 **Q: Which snare drums brand is more popular among metal drummers?**
-A: Based on MetalForge's tracking data, Tama is used by 2 documented metal drummers and Pearl by 2 in this comparison dataset. Tama leads in tracked endorsements, though real-world adoption is broad for both brands. See the full picture at [metalforge.io/compare/tama-slp-vs-pearl-sensitone](https://metalforge.io/compare/tama-slp-vs-pearl-sensitone).
+A: Based on MetalForge's tracking data, Tama is used by 1 documented metal drummers and Pearl by 1 in this comparison dataset. Tama leads in tracked endorsements, though real-world adoption is broad for both brands. See the full picture at [metalforge.io/compare/tama-slp-vs-pearl-sensitone](https://metalforge.io/compare/tama-slp-vs-pearl-sensitone).
 
 ---
 

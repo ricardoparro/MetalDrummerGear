@@ -1,7 +1,7 @@
 # DW vs Tama Drums for Metal — Side-by-Side Gear Comparison
 
 > MetalForge's side-by-side comparison of DW and Tama drums used by pro metal drummers.
-> Last updated: 2026-07-25
+> Last updated: 2026-09-09
 
 Compare DW Collector's Series and Tama Starclassic drums for metal. See specs, pricing, pro endorsements, and which premium kit suits your playing style.
 
@@ -29,6 +29,38 @@ Tama is particularly well-suited for: Thrash metal, groove metal, progressive me
 | **Plies** | HVX Technology | 6-ply (7.5mm) |
 | **Hoops** | True Hoop | Die-Cast |
 | **Mounting** | STM Suspension | Star-Cast |
+
+## DW Collector's Series Maple Pros / Cons
+
+**Pros:**
+
+- Timbre-Matched shell selection for consistent tone across the kit
+- HVX shell technology allows adjustable attack and resonance
+- True-Pitch tuning rods hold tuning through marathon sets without slipping
+- Extensive custom finish and hardware options for a fully personalized rig
+- STM suspension mounts free up shell resonance for a bigger low end
+
+**Cons:**
+
+- Premium price point compared to most mid-tier kits
+- Maple shells can lack the aggressive bite some extreme metal styles need
+- Long lead times on fully custom Collector's Series orders
+
+## Tama Starclassic Maple Pros / Cons
+
+**Pros:**
+
+- Warm, resonant maple shells with excellent sustain
+- Star-Cast mounting system isolates shells for maximum resonance
+- Proven durability across four decades of touring metal drummers
+- Wide range of finishes and shell configurations
+- Lower cost of entry than most other premium-tier kits
+
+**Cons:**
+
+- Standard hardware is heavier than boutique competitors
+- Less shell-blending customization than DW's Timbre-Matched system
+- Stock finish options sell out quickly on limited production runs
 
 ## Head-to-Head: Tone, Build, Price
 

@@ -1,7 +1,7 @@
 # Zildjian vs Sabian Cymbals for Metal — Side-by-Side Gear Comparison
 
 > MetalForge's side-by-side comparison of Zildjian and Sabian cymbals used by pro metal drummers.
-> Last updated: 2026-07-25
+> Last updated: 2026-09-09
 
 The ultimate Zildjian vs Sabian comparison for metal drummers. A/K series vs AAX/HHX, sound profiles, durability, pricing, and which cymbals top metal drummers actually use.
 
@@ -9,7 +9,7 @@ The ultimate Zildjian vs Sabian comparison for metal drummers. A/K series vs AAX
 
 ## Which Metal Drummers Use Zildjian?
 
-Pro metal drummers who endorse Zildjian include: **Lars Ulrich (Metallica), Danny Carey (Tool), Mario Duplantier (Gojira), Jay Weinberg (Slipknot), Hellhammer (Mayhem/Dimmu Borgir), Abe Cunningham (Deftones), Ben Koller (Converge), Art Cruz (Lamb of God), Frost (1349)**.
+Pro metal drummers who endorse Zildjian include: **Lars Ulrich (Metallica), Mario Duplantier (Gojira), Jay Weinberg (Slipknot), Hellhammer (Mayhem/Dimmu Borgir), Abe Cunningham (Deftones), Ben Koller (Converge), Art Cruz (Lamb of God), Frost (1349)**.
 
 Zildjian is particularly well-suited for: Thrash metal, black metal, nu-metal, drummers who need bright cut.
 
@@ -30,6 +30,40 @@ Sabian is particularly well-suited for: Progressive metal, djent, groove metal, 
 | **Manufacturing** | Machine + hand finishing | Hand-hammered (HHX) / Machine (AAX) |
 | **Origin** | USA | Canada |
 
+## Zildjian A Custom Pros / Cons
+
+**Pros:**
+
+- Oldest cymbal company — 400+ years of craftsmanship
+- A Custom: Bright, cutting attack that slices through guitar walls
+- K Series: Dark, complex tones for progressive metal
+- Consistent quality across production
+- Wide range from thrash-bright to jazz-dark
+- Excellent projection for large venues
+
+**Cons:**
+
+- A Custom can be harsh in small rooms
+- Premium pricing reflects brand heritage
+- K series may be too dark for some metal styles
+
+## Sabian AAX Pros / Cons
+
+**Pros:**
+
+- HHX: Hand-hammered warmth with metal power
+- AAX: Bright, cutting, modern attack
+- Better price-to-performance ratio
+- More innovative in recent years
+- Compression hi-hats for extreme metal
+- Wide tonal range from dark to bright
+
+**Cons:**
+
+- Younger company — less legacy cachet
+- HHX may lack ultimate cut in extreme situations
+- AA/AAX can lack complexity of hand-hammered
+
 ## Head-to-Head: Tone, Build, Price
 
 **Tone & Sound:** Zildjian: Zildjian's signature B20 alloy produces cymbals with immediate attack and projection. The A Custom series is the thrash metal standard — bright, cutting, aggressive. The K series offers darker, more complex tones that suit progressive metal. Overall character: brilliant, focused, cutting. Sabian: Sabian's hand-hammered HHX series delivers warmth with power — complex overtones that still cut through. The AAX series is bright and aggressive, comparable to A Custom. Signature innovations like Compression Hi-Hats (designed with Tomas Haake) push boundaries. Overall character: versatile, warm-to-bright, musical. Zildjian for cutting brightness (thrash, black metal). Sabian for complex warmth (prog, djent, groove).
@@ -46,13 +80,13 @@ Choose Zildjian if:
 - You play thrash, black metal, or nu-metal and need cutting brightness
 - You want the 400-year heritage and proven quality
 - You need ultimate ride definition and bell projection
-- Danny Carey, Lars Ulrich, or Mario Duplantier are your sonic heroes
+- Lars Ulrich or Mario Duplantier are your sonic heroes
 
 Choose Sabian if:
 - You play progressive metal, djent, or groove metal
 - You want hand-hammered complexity at a competitive price
 - Compression Hi-Hats for extreme metal appeal to you
-- Tomas Haake, Gene Hogla
+- Tomas Haake, Gene Hoglan, or Mike Por
 
 ## FAQ
 
@@ -60,7 +94,7 @@ Choose Sabian if:
 A: Zildjian for cutting brightness (thrash, black metal). Sabian for complex warmth (prog, djent, groove).
 
 **Q: Which metal drummers endorse Zildjian?**
-A: Zildjian is endorsed by notable metal drummers including Lars Ulrich (Metallica), Danny Carey (Tool), Mario Duplantier (Gojira), Jay Weinberg (Slipknot), Hellhammer (Mayhem/Dimmu Borgir), Abe Cunningham (Deftones), Ben Koller (Converge), Art Cruz (Lamb of God), Frost (1349). The brand is especially popular for Thrash metal, black metal, nu-metal, drummers who need bright cut.
+A: Zildjian is endorsed by notable metal drummers including Lars Ulrich (Metallica), Mario Duplantier (Gojira), Jay Weinberg (Slipknot), Hellhammer (Mayhem/Dimmu Borgir), Abe Cunningham (Deftones), Ben Koller (Converge), Art Cruz (Lamb of God), Frost (1349). The brand is especially popular for Thrash metal, black metal, nu-metal, drummers who need bright cut.
 
 **Q: Which metal drummers endorse Sabian?**
 A: Sabian is endorsed by notable metal drummers including Tomas Haake (Meshuggah), Gene Hoglan (Death/Testament), Vinnie Paul (Pantera), Mike Portnoy (Dream Theater), Ray Luzier (Korn), Scott Travis (Judas Priest), Richard Christy (Death/Charred Walls). The brand is especially popular for Progressive metal, djent, groove metal, death metal.
@@ -69,7 +103,7 @@ A: Sabian is endorsed by notable metal drummers including Tomas Haake (Meshuggah
 A: Zildjian (A Custom) is priced at €1,500 - €2,500 (full setup). Sabian (AAX) runs €1,400 - €2,300 (full setup). Sabian offers marginally better value, especially at mid-tier. Both are investments that last decades.
 
 **Q: Which cymbals brand is more popular among metal drummers?**
-A: Based on MetalForge's tracking data, Zildjian is used by 9 documented metal drummers and Sabian by 7 in this comparison dataset. Zildjian leads in tracked endorsements, though real-world adoption is broad for both brands. See the full picture at [metalforge.io/compare/zildjian-vs-sabian](https://metalforge.io/compare/zildjian-vs-sabian).
+A: Based on MetalForge's tracking data, Zildjian is used by 8 documented metal drummers and Sabian by 7 in this comparison dataset. Zildjian leads in tracked endorsements, though real-world adoption is broad for both brands. See the full picture at [metalforge.io/compare/zildjian-vs-sabian](https://metalforge.io/compare/zildjian-vs-sabian).
 
 ---
 

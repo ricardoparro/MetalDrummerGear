@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-09-09 12:02 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-09-09 12:49 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,11 +8,11 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 313 |
-| Sessions | 346 |
-| Page views | 491 |
-| Engagement rate | 54.62% |
-| Avg session (s) | 122 |
+| Active users | 314 |
+| Sessions | 347 |
+| Page views | 492 |
+| Engagement rate | 54.47% |
+| Avg session (s) | 126 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
@@ -20,8 +20,8 @@
 | /drummer/mario-duplantier | 23 | 22 |
 | / | 20 | 13 |
 | /drummers | 15 | 6 |
+| /drummer/john-otto | 13 | 12 |
 | /drummer/joey-jordison | 12 | 9 |
-| /drummer/john-otto | 12 | 11 |
 | /drummer/bill-ward | 11 | 7 |
 | /drummer/matt-greiner | 11 | 8 |
 | /drummer/jaska-raatikainen | 8 | 5 |
@@ -31,7 +31,7 @@
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 269 | 237 |
+| Organic Search | 270 | 238 |
 | Unassigned | 61 | 57 |
 | Direct | 51 | 50 |
 | Cross-network | 11 | 11 |

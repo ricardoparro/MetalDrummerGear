@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/paul-bostaph"
 source: "https://metalforge.io"
-last_updated: "2026-09-08"
+last_updated: "2026-09-09"
 ---
 
 # Paul Bostaph — Drum Kit & Gear Setup
@@ -43,6 +43,52 @@ Paul Bostaph (born March 4, 1964, in San Francisco, California) is an American d
 
 Before Slayer, Bostaph established his reputation in the Bay Area thrash scene with Forbidden and Testament. His powerful, precise drumming style built upon the foundation Dave Lombardo established while adding his own technical flair.
 
+## Career Highlights
+
+- **1985** — Began drumming career in San Francisco Bay Area thrash scene
+- **1986** — Joined Forbidden (then Forbidden Evil), recorded debut album
+- **1992** — Joined Slayer following Dave Lombardo's departure
+- **1994** — First Slayer studio album "Divine Intervention" released
+- **1999** — Joined Testament while on hiatus from Slayer
+- **2001** — Left Slayer when Lombardo rejoined
+- **2005** — Joined Exodus for "Shovel Headed Kill Machine"
+- **2013** — Rejoined Slayer following Lombardo's second departure
+- **2015** — Recorded "Repentless," first Slayer album without Jeff Hanneman
+- **2019** — Performed Slayer's final show at the Forum in Los Angeles
+
+## Style & Influences
+
+Paul Bostaph's drumming style combines technical precision with relentless power. While he honors the legacy Dave Lombardo established, Bostaph brings his own flavor—tighter, more metronomic, and incredibly consistent night after night.
+
+**Key Influences:**
+- **Dave Lombardo (Slayer)**: The template for thrash metal drumming
+- **Gene Hoglan (Death)**: Technical precision and speed
+- **Bay Area Thrash Scene**: Fast, aggressive drumming culture
+
+**Signature Techniques:**
+- Machine-like double bass consistency at high tempos
+- Tight, controlled fills that serve the song
+- Powerful snare attack with precise placement
+- Ability to replicate complex Lombardo parts while adding personal touches
+
+## Notable Recordings
+
+**Albums:**
+
+- **Forbidden - Twisted Into Form** (1990, Combat) — Bay Area thrash classic
+- **Slayer - Divine Intervention** (1994, American) — First Slayer album
+- **Slayer - Undisputed Attitude** (1996, American) — Punk covers album
+- **Slayer - Diabolus in Musica** (1998, American) — Groove metal era
+- **Testament - First Strike Still Deadly** (2001, Spitfire) — Re-recorded classics
+- **Exodus - Shovel Headed Kill Machine** (2005, Nuclear Blast) — Thrash revival
+- **Slayer - Repentless** (2015, Nuclear Blast) — Final Slayer album
+
+**Tours:**
+
+- **Divine Intervention Tour** (1994-1995) — First major Slayer touring cycle
+- **Ozzfest** (1996, 1998) — Multiple appearances with Slayer
+- **Final World Tour** (2018-2019) — Slayer's farewell tour
+
 ## Band History
 
 - **Slayer** — 1992–2001, 2013–2019
@@ -58,20 +104,6 @@ Before Slayer, Bostaph established his reputation in the Bay Area thrash scene w
 - **Hardware:** Pearl Eliminator Double Pedal
 - **Sticks:** Vater Power 5B
 - **Heads:** Remo Powerstroke 3 / Emperor Coated / Ambassador
-
-## Endorsements
-
-- [Pearl Drums](https://pearldrum.com)
-- [Sabian Cymbals](https://www.sabian.com)
-- [Vater Drumsticks](https://www.vater.com)
-- [Remo Drumheads](https://remo.com)
-
-## Endorsements
-
-- [Pearl Drums](https://pearldrum.com)
-- [Sabian Cymbals](https://www.sabian.com)
-- [Vater Drumsticks](https://www.vater.com)
-- [Remo Drumheads](https://remo.com)
 
 ## Endorsements
 
@@ -123,6 +155,15 @@ A: Paul Bostaph is Slayer's longest-serving drummer, playing with the band from 
 
 A: Paul Bostaph is Slayer's longest-serving drummer, spanning 12 total years across two separate tenures — 1992-2001 and 2013-2019 — and appearing on four studio albums, including Repentless (2015) and the band's final show at the Forum in Los Angeles on November 30, 2019.
 
+## Trivia
+
+- Slayer's longest-serving drummer by total years (12 years across two tenures)
+- Played Slayer's final show on November 30, 2019, at the Forum in Los Angeles
+- Only drummer other than Lombardo to record multiple Slayer studio albums
+- Grew up in the San Francisco Bay Area thrash scene
+- Left Slayer both times when Lombardo rejoined, showing professional respect
+- Has been called one of the most underrated drummers in thrash metal
+
 ## Signature Licks on MetalForge
 
 MetalForge has 3 signature lick tutorial(s) for Paul Bostaph:
@@ -173,10 +214,16 @@ Historical gear pricing and value: [Paul Bostaph's gear price history](https://m
 
 Dated brand-endorsement timeline: [Paul Bostaph's endorsement history](https://metalforge.io/llms/endorsements/paul-bostaph.md).
 
+## Sources
+
+- [Pearl Drums](https://pearldrum.com)
+- [Slayer Official](https://www.slayer.net)
+- [Wikipedia: Paul Bostaph](https://en.wikipedia.org/wiki/Paul_Bostaph)
+
 ---
 
 **Full interactive profile:** [Paul Bostaph on MetalForge](https://metalforge.io/drummer/paul-bostaph)
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

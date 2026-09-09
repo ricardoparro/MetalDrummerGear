@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Sonor"
 profile_url: "https://metalforge.io/drummer/danny-carey"
 source: "https://metalforge.io"
-last_updated: "2026-09-08"
+last_updated: "2026-09-09"
 ---
 
 # Danny Carey — Drum Kit & Gear Setup
@@ -43,6 +43,53 @@ Danny Carey (born May 10, 1961, in Lawrence, Kansas) is an American musician bes
 
 Standing at 6'5" (196 cm), Carey is an imposing presence behind his massive Sonor drum kit. His drumming draws from diverse influences including jazz, world music, and his interest in sacred geometry and metaphysical concepts. Beyond Tool, he has collaborated with Pigface, Volto!, Zaum, and various other projects.
 
+## Career Highlights
+
+- **1990** — Formed Tool in Los Angeles with Maynard James Keenan, Adam Jones, and Paul D'Amour
+- **1993** — Released debut album "Undertow," establishing Tool's unique sound
+- **1996** — Released "Ænima," winning Grammy for "Ænima" (Best Metal Performance)
+- **2001** — Released "Lateralus," considered a progressive metal masterpiece
+- **2002** — Won Grammy for "Schism" (Best Metal Performance)
+- **2006** — Released "10,000 Days," debuting at #1 on Billboard
+- **2007** — Won Grammy for "Vicarious" (Best Recording Package)
+- **2016** — Inducted into Modern Drummer Hall of Fame
+- **2019** — Released "Fear Inoculum" after 13-year wait, debuting at #1
+- **2020** — Won Grammy for "Fear Inoculum" (Best Metal Performance)
+
+## Style & Influences
+
+Danny Carey's drumming is distinguished by complex polyrhythmic patterns, unusual time signatures, and a remarkably musical approach. He treats the drum kit as a melodic instrument, incorporating concepts from sacred geometry and metaphysics into his compositions.
+
+**Key Influences:**
+- **Bill Bruford (Yes/King Crimson)**: Progressive approach
+- **Tony Williams**: Jazz fusion technique
+- **Elvin Jones**: Polyrhythmic concepts
+- **Michael Shrieve (Santana)**: World music integration
+
+**Signature Techniques:**
+- Complex polyrhythms layered over odd time signatures
+- Use of electronic pads (Mandala drums) for melodic elements
+- Tabla-influenced patterns integrated into metal
+- Dynamic playing with extreme attention to texture
+- Mathematical concepts (Fibonacci sequence) in compositions
+
+## Notable Recordings
+
+**Albums:**
+
+- **Tool - Undertow** (1993, Zoo) — Debut full-length
+- **Tool - Ænima** (1996, Zoo) — Grammy-winning breakthrough
+- **Tool - Lateralus** (2001, Volcano) — Progressive metal landmark
+- **Tool - 10,000 Days** (2006, Volcano) — #1 debut
+- **Tool - Fear Inoculum** (2019, RCA) — 13 years in the making
+- **Volto! - Incitare** (2013, Independent) — Jazz fusion side project
+
+**Tours:**
+
+- **Lateralus Tour** (2001-2002) — Extended world touring
+- **Fear Inoculum Tour** (2019-2022) — Post-pandemic return
+- **Tool 2023-2024 Tour** (2023-2024) — Continued world touring
+
 ## Band History
 
 - **Tool** — 1990–present (current)
@@ -56,22 +103,6 @@ Standing at 6'5" (196 cm), Carey is an imposing presence behind his massive Sono
 - **Cymbals:** Paiste Signature Series (14" Sound Edge Hi-Hats, 18" & 20" Power Crashes, 22" Dry Heavy Ride "Monad", 2002 & Signature China cymbals)
 - **Hardware:** Sonor Giant Step Twin Effect Double Pedal, Sonor Drummer Throne, Mandala Drum electronic pads
 - **Sticks:** Vic Firth Danny Carey Signature
-
-## Endorsements
-
-- [Sonor Drums](https://www.sonor.com)
-- [Paiste Cymbals](https://www.paiste.com)
-- [Vic Firth Sticks](https://vicfirth.zildjian.com)
-- [Remo Drumheads](https://www.remo.com)
-- [Mandala Drums](https://www.mandaladrum.com)
-
-## Endorsements
-
-- [Sonor Drums](https://www.sonor.com)
-- [Paiste Cymbals](https://www.paiste.com)
-- [Vic Firth Sticks](https://vicfirth.zildjian.com)
-- [Remo Drumheads](https://www.remo.com)
-- [Mandala Drums](https://www.mandaladrum.com)
 
 ## Endorsements
 
@@ -137,6 +168,19 @@ A: Danny Carey's drum setup is a Sonor SQ2 Heavy Beech configuration built aroun
 
 A: Danny Carey's drumkit is a Sonor SQ2 Heavy Beech configuration built around his signature Sonor Danny Carey 14"x8" bronze snare drum, fitted with Paiste Signature cymbals (Sound Edge hi-hats, Power crashes, Dry Heavy Ride, chinas), Mandala electronic pads, and a Sonor Giant Step Twin Effect double pedal.
 
+## Trivia
+
+- Stands 6'5" (196 cm) tall, one of the tallest drummers in rock
+- Incorporates sacred geometry concepts into his drumming patterns
+- Has stated the Fibonacci sequence influences Tool's music
+- Plays in Volto!, a jazz fusion quartet, to maintain diverse chops
+- His father was a musician who encouraged his early drumming
+- Known for his interest in metaphysics and the occult
+- The Mandala pads allow him to trigger samples and play melodic elements
+- Tool's 13-year gap between albums was partly due to legal battles
+- His drum solo on "Pneuma" went viral with millions of views
+- Practices daily, often on a practice pad while watching television
+
 ## Quotes
 
 > "I've always been fascinated by sacred geometry and how it relates to rhythm. The patterns in nature are the same patterns in music."
@@ -185,10 +229,17 @@ Historical gear pricing and value: [Danny Carey's gear price history](https://me
 
 Dated brand-endorsement timeline: [Danny Carey's endorsement history](https://metalforge.io/llms/endorsements/danny-carey.md).
 
+## Sources
+
+- [Sonor Drums Artist Profile](https://www.sonor.com)
+- [Paiste Artist Profile](https://www.paiste.com)
+- [Modern Drummer Hall of Fame](https://www.moderndrummer.com)
+- [Wikipedia: Danny Carey](https://en.wikipedia.org/wiki/Danny_Carey)
+
 ---
 
 **Full interactive profile:** [Danny Carey on MetalForge](https://metalforge.io/drummer/danny-carey)
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

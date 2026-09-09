@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/nick-augusto"
 source: "https://metalforge.io"
-last_updated: "2026-09-08"
+last_updated: "2026-09-09"
 ---
 
 # Nick Augusto — Drum Kit & Gear Setup
@@ -40,6 +40,47 @@ Nick Augusto (born April 16, 1988, in Orlando, Florida) is an American drummer b
 
 During his four years with Trivium, Augusto recorded two studio albums—"In Waves" (2011) and "Vengeance Falls" (2013)—and toured extensively, helping to expand the band's international fanbase. His drumming style combined thrash metal intensity with metalcore precision, perfectly complementing Trivium's evolving sound.
 
+## Career Highlights
+
+- **2010** — Joined Trivium as drummer, replacing Travis Smith
+- **2011** — Recorded "In Waves" with Trivium, reaching #13 on Billboard 200
+- **2011** — Performed at major festivals including Download, Rock am Ring, and Wacken
+- **2012** — Completed extensive world tour supporting "In Waves" album
+- **2013** — Recorded "Vengeance Falls" with producer David Draiman (Disturbed)
+- **2013** — Album reached #15 on Billboard 200
+- **2014** — Parted ways with Trivium; replaced by Mat Madiro
+
+## Style & Influences
+
+Nick Augusto's drumming style is characterized by high energy, powerful double bass work, and aggressive attack. He brought a thrash metal sensibility to Trivium's sound, with crisp execution and driving rhythms that propelled the band's heavier direction.
+
+**Key Influences:**
+- **Lars Ulrich (Metallica)**: Thrash metal foundation
+- **Dave Lombardo (Slayer)**: Speed and intensity
+- **Joey Jordison (Slipknot)**: Modern metal aggression
+- **Chris Adler (Lamb of God)**: Groove metal precision
+
+**Signature Techniques:**
+- Powerful double bass patterns with groove emphasis
+- Aggressive snare attack on backbeats
+- Tight coordination with guitar riffs
+- Dynamic transitions between sections
+- China cymbal accents for metalcore punch
+
+## Notable Recordings
+
+**Albums:**
+
+- **Trivium - In Waves** (2011, Roadrunner) — First album with band; #13 Billboard 200
+- **Trivium - Vengeance Falls** (2013, Roadrunner) — Produced by David Draiman; #15 Billboard
+
+**Tours:**
+
+- **In Waves World Tour** (2011-2012) — Extensive worldwide touring
+- **Vengeance Falls Tour** (2013-2014) — Supporting album release
+- **Download Festival** (2011, 2012) — Major UK festival appearances
+- **Mayhem Festival** (2011) — Premier US metal tour
+
 ## Band History
 
 - **Trivium** — 2010–2014
@@ -52,20 +93,6 @@ During his four years with Trivium, Augusto recorded two studio albums—"In Wav
 - **Hardware:** Pearl Demon Drive Double Pedal, Pearl D-2000 Throne
 - **Sticks:** Vic Firth American Classic 5B
 - **Heads:** Evans
-
-## Endorsements
-
-- [Pearl Drums](https://pearldrum.com)
-- [Sabian Cymbals](https://www.sabian.com)
-- [Vic Firth Sticks](https://vicfirth.zildjian.com)
-- [Evans Drumheads](https://www.daddario.com/evans)
-
-## Endorsements
-
-- [Pearl Drums](https://pearldrum.com)
-- [Sabian Cymbals](https://www.sabian.com)
-- [Vic Firth Sticks](https://vicfirth.zildjian.com)
-- [Evans Drumheads](https://www.daddario.com/evans)
 
 ## Endorsements
 
@@ -118,6 +145,17 @@ A: Nick Augusto plays Vic Firth American Classic 5B sticks, paired with Evans dr
 
 A: Nick parted ways with Trivium in 2014, citing creative differences. He was replaced by Mat Madiro.
 
+## Trivia
+
+- Born and raised in Orlando, Florida
+- Was relatively unknown before joining Trivium at age 22
+- "In Waves" marked Trivium's return to a heavier sound after "Shogun"
+- David Draiman of Disturbed produced "Vengeance Falls" and influenced the drum sound
+- Left Trivium in 2014 citing "creative differences"
+- Known for his energetic stage presence and crowd interaction
+- Contributed to two of Trivium's commercially successful albums
+- The "In Waves" tour included over 200 shows worldwide
+
 ## Signature Licks on MetalForge
 
 MetalForge has 3 signature lick tutorial(s) for Nick Augusto:
@@ -145,10 +183,16 @@ Historical gear pricing and value: [Nick Augusto's gear price history](https://m
 
 Dated brand-endorsement timeline: [Nick Augusto's endorsement history](https://metalforge.io/llms/endorsements/nick-augusto.md).
 
+## Sources
+
+- [Trivium Official](https://www.trivium.org)
+- [Blabbermouth](https://www.blabbermouth.net)
+- [Wikipedia: Nick Augusto](https://en.wikipedia.org/wiki/Nick_Augusto)
+
 ---
 
 **Full interactive profile:** [Nick Augusto on MetalForge](https://metalforge.io/drummer/nick-augusto)
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

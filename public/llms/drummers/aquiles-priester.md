@@ -6,7 +6,7 @@ country: "Brazil"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/aquiles-priester"
 source: "https://metalforge.io"
-last_updated: "2026-09-08"
+last_updated: "2026-09-09"
 ---
 
 # Aquiles Priester — Drum Kit & Gear Setup
@@ -43,6 +43,57 @@ Aquiles Priester (born June 19, 1971, in São Paulo, Brazil) is a Brazilian drum
 
 Priester is considered one of the greatest power metal drummers in the world. His double bass abilities, complex fills, and capacity to maintain blazing speeds for extended periods have earned him numerous awards from Brazilian and international music publications. His energetic live performances and precise studio work have influenced a generation of metal drummers.
 
+## Career Highlights
+
+- **1996** — Founded Hangar, Brazilian power metal band
+- **2000** — Joined Angra, replacing Ricardo Confessori
+- **2001** — Recorded "Rebirth" with Angra, a power metal landmark
+- **2004** — Released "Temple of Shadows" with Angra, critically acclaimed
+- **2006** — Joined W.A.S.P. as touring and studio drummer
+- **2007** — Released "Aurora Consurgens" with Angra
+- **2009** — Released "Babylon" with W.A.S.P.
+- **2010** — Released "Aqua" with Angra
+- **2012** — Left Angra; continued with W.A.S.P. and Hangar
+- **2015** — Released "Golgotha" with W.A.S.P.
+- **2023** — Returned to Angra for their latest album cycle
+
+## Style & Influences
+
+Aquiles Priester's drumming style combines extreme speed with musicality and showmanship. His double bass technique is among the most impressive in metal, capable of sustained patterns at 220+ BPM while maintaining clarity and groove.
+
+**Key Influences:**
+- **Nicko McBrain (Iron Maiden)**: Galloping rhythms and power metal foundation
+- **Lars Ulrich (Metallica)**: Thrash metal energy
+- **Neil Peart (Rush)**: Progressive complexity and precision
+- **Mike Portnoy (Dream Theater)**: Progressive metal drumming concepts
+
+**Signature Techniques:**
+- Blazing double bass patterns at extreme speeds
+- Complex fills that navigate progressive song structures
+- Powerful snare accents and dynamic control
+- Showmanship during live performances
+- Clean execution of technically demanding passages
+
+## Notable Recordings
+
+**Albums:**
+
+- **Angra - Rebirth** (2001, Steamhammer) — Power metal renaissance
+- **Angra - Temple of Shadows** (2004, Steamhammer) — Concept album masterpiece
+- **Angra - Aurora Consurgens** (2006, Steamhammer) — Continued excellence
+- **Angra - Aqua** (2010, Steamhammer) — Final album before departure
+- **W.A.S.P. - Dominator** (2007, Demolition) — First W.A.S.P. album
+- **W.A.S.P. - Babylon** (2009, Demolition) — Concept album
+- **W.A.S.P. - Golgotha** (2015, Napalm) — Critical acclaim
+- **Hangar - Various albums** (1996-Present, Various) — Founding band
+
+**Tours:**
+
+- **Angra World Tours** (2000-2012) — Global touring with Angra
+- **W.A.S.P. Tours** (2006-Present) — Ongoing with Blackie Lawless
+- **South American Festival Circuit** (Ongoing) — Regular festival appearances
+- **European Metal Festivals** (Multiple years) — Wacken, Masters of Rock, etc.
+
 ## Band History
 
 - **Angra** — 2000–2012
@@ -56,20 +107,6 @@ Priester is considered one of the greatest power metal drummers in the world. Hi
 - **Hardware:** Pearl Demon Drive Double Pedal, Pearl Icon Rack System
 - **Sticks:** Promark TX419W Aquiles Priester Autograph
 - **Heads:** Evans
-
-## Endorsements
-
-- [Pearl Drums](https://pearldrum.com)
-- [Sabian Cymbals](https://www.sabian.com)
-- [Vic Firth Sticks](https://vicfirth.zildjian.com)
-- [Evans Drumheads](https://www.daddario.com/evans)
-
-## Endorsements
-
-- [Pearl Drums](https://pearldrum.com)
-- [Sabian Cymbals](https://www.sabian.com)
-- [Vic Firth Sticks](https://vicfirth.zildjian.com)
-- [Evans Drumheads](https://www.daddario.com/evans)
 
 ## Endorsements
 
@@ -125,6 +162,18 @@ A: Aquiles Priester uses Evans drumheads across his Mapex Saturn Evolution All M
 **Q: What hardware does Aquiles Priester use?**
 
 A: Aquiles Priester mounts his DW 9000 Series double pedal and DW 9000 Series hi-hat stand on Gibraltar racks, supporting his Mapex Saturn Evolution kit on world tours.
+
+## Trivia
+
+- Has won numerous "Best Drummer" awards in Brazil and internationally
+- "Temple of Shadows" is considered one of the greatest power metal albums ever
+- Known for his warm personality and fan interaction
+- Has released instructional DVDs and online lessons
+- Balances work with multiple bands simultaneously (W.A.S.P., Hangar, Angra)
+- His return to Angra in 2023 was celebrated by the power metal community
+- Often cited as the greatest Brazilian metal drummer
+- Has been praised by Blackie Lawless (W.A.S.P.) for his professionalism
+- Maintains an extensive practice regimen to keep up with demanding schedules
 
 ## Quotes
 
@@ -182,10 +231,18 @@ Historical gear pricing and value: [Aquiles Priester's gear price history](https
 
 Dated brand-endorsement timeline: [Aquiles Priester's endorsement history](https://metalforge.io/llms/endorsements/aquiles-priester.md).
 
+## Sources
+
+- [Aquiles Priester Official — Setup 2022](https://aquilespriester.com/site/setup-2022/)
+- [ProMark](https://www.daddario.com/pages/artists/aquiles-priester)
+- [Wikipedia: Aquiles Priester](https://en.wikipedia.org/wiki/Aquiles_Priester)
+- [Angra Official](https://www.angra.net/)
+- [Complete Drum Setup Guide](https://metalforge.io/articles/aquiles-priester-drum-setup)
+
 ---
 
 **Full interactive profile:** [Aquiles Priester on MetalForge](https://metalforge.io/drummer/aquiles-priester)
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

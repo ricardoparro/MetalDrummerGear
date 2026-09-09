@@ -6,7 +6,7 @@ country: "Finland"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/waltteri-vayrynen"
 source: "https://metalforge.io"
-last_updated: "2026-09-08"
+last_updated: "2026-09-09"
 ---
 
 # Waltteri Väyrynen — Drum Kit & Gear Setup
@@ -40,6 +40,44 @@ Waltteri Väyrynen is a Finnish drummer born July 5, 1994, in Puolanka, Finland,
 
 In 2020, while still in Paradise Lost, he joined Bodom After Midnight — the project former Children of Bodom frontman Alexi Laiho formed after that band's 2019 split — tracking material later released posthumously as the Paint the Sky with Blood EP (2021) following Laiho's death in December 2020. Väyrynen has also drummed for Finnish death metal band Abhorrence since 2016 and performed live with Bloodbath. In September 2022 he joined Swedish progressive metal band Opeth, replacing longtime drummer Martin Axenrot behind the drum kit, and recorded his first album with the band, The Last Will and Testament (2024), bringing his own drum set vocabulary to Opeth's progressive metal catalogue. His stated influences include Dirk Verbeuren, Kai Hahto, and Daniel Erlandsson.
 
+## Career Highlights
+
+- **2015** — Began as a session drummer for Paradise Lost
+- **2016** — Became an official member of Paradise Lost; joined Finnish death metal band Abhorrence
+- **2017** — Recorded Medusa, his first Paradise Lost studio album
+- **2020** — Recorded Obsidian with Paradise Lost; joined Bodom After Midnight
+- **2021** — Bodom After Midnight released the posthumous Paint the Sky with Blood EP
+- **2022** — Departed Paradise Lost in September; joined Opeth, replacing Martin Axenrot
+- **2024** — Recorded The Last Will and Testament, his first studio album with Opeth
+
+## Style & Influences
+
+Waltteri Väyrynen's drumming bridges gothic doom metal's atmospheric weight and progressive metal's technical demands, a range built across his tenures in Paradise Lost and Opeth. He has cited Dirk Verbeuren (Megadeth, ex-Soilwork), Kai Hahto (Nightwish, ex-Wintersun), and Daniel Erlandsson (Arch Enemy) as influences, all drummers known for combining technical precision with heavy, riff-driven metal.
+
+**Key Influences:**
+- **Dirk Verbeuren**: Cited influence known for precision drumming in Megadeth and Soilwork
+- **Kai Hahto**: Cited influence from Nightwish and Wintersun
+- **Daniel Erlandsson**: Cited influence from Arch Enemy
+
+**Signature Techniques:**
+- Atmospheric, dynamically controlled playing suited to Paradise Lost's gothic doom material
+- Technical adaptation to Opeth's progressive metal songwriting following the 2022 lineup change
+- Session versatility demonstrated across Bodom After Midnight and Abhorrence
+
+## Notable Recordings
+
+**Albums:**
+
+- **Paradise Lost - Medusa** (2017, Nuclear Blast) — Väyrynen's first studio album with Paradise Lost
+- **Paradise Lost - Obsidian** (2020, Nuclear Blast) — Final Paradise Lost album with Väyrynen
+- **Bodom After Midnight - Paint the Sky with Blood** (2021, Napalm Records) — Posthumous EP following Alexi Laiho's death
+- **Opeth - The Last Will and Testament** (2024, Moderbolaget/Reigning Phoenix Music) — Väyrynen's Opeth studio debut
+
+**Tours:**
+
+- **Paradise Lost World Touring** (2015-2022) — Touring the Medusa and Obsidian cycles
+- **Opeth World Touring** (2022-present) — Touring since replacing Martin Axenrot
+
 ## Band History
 
 - **Paradise Lost** — 2015–2022 (session 2015–2016, official from 2016)
@@ -52,18 +90,6 @@ In 2020, while still in Paradise Lost, he joined Bodom After Midnight — the pr
 - **Drums:** Pearl (endorsement confirmed via Pearl's own artist roster and corroborated by Antelope Audio's 2020 studio-session writeup; specific kit model/shell sizes not independently documented — omitted rather than guessed)
 - **Cymbals:** Sabian (endorsed artist; confirmed favourite piece per Sabian's own artist page: 22" HH Power Bell Ride — full setup not itemized there, so omitted rather than guessed)
 - **Sticks:** Wincent W-5BXL
-
-## Endorsements
-
-- [Pearl Drums](https://pearldrum.com)
-- [Sabian Cymbals](https://sabian.com)
-- [Wincent Drumsticks](https://www.wincentdrumsticks.com)
-
-## Endorsements
-
-- [Pearl Drums](https://pearldrum.com)
-- [Sabian Cymbals](https://sabian.com)
-- [Wincent Drumsticks](https://www.wincentdrumsticks.com)
 
 ## Endorsements
 
@@ -119,6 +145,15 @@ A: Waltteri Väyrynen has cited Dirk Verbeuren (Megadeth, ex-Soilwork), Kai Haht
 
 A: Yes, Waltteri Väyrynen has been Opeth's drummer since September 2022, when he replaced Martin Axenrot.
 
+## Trivia
+
+- Joined Paradise Lost as a session drummer in 2015 before becoming an official member in 2016
+- Also drums for Finnish death metal band Abhorrence since 2016 and has performed live with Bloodbath
+- Recorded posthumously-released material with Bodom After Midnight, the project Alexi Laiho formed shortly before his December 2020 death
+- Replaced Martin Axenrot as Opeth's drummer in September 2022
+- Has his own Wincent W-5BXL signature drumstick model
+- Cites Dirk Verbeuren, Kai Hahto, and Daniel Erlandsson as influences
+
 ## Quotes
 
 > "I realized I never posted publicly this video that eventually got me the gig in Opeth."
@@ -149,10 +184,17 @@ Historical gear pricing and value: [Waltteri Väyrynen's gear price history](htt
 
 Dated brand-endorsement timeline: [Waltteri Väyrynen's endorsement history](https://metalforge.io/llms/endorsements/waltteri-vayrynen.md).
 
+## Sources
+
+- [Wikipedia: Waltteri Väyrynen](https://en.wikipedia.org/wiki/Waltteri_V%C3%A4yrynen)
+- [Sabian Artist Page — Waltteri Väyrynen](https://sabian.com/artist/waltteri-vayrynen/)
+- [Antelope Audio — Recording Drums with Waltteri Väyrynen](https://en.antelopeaudio.com/2020/05/recording-drums-with-waltteri-vayrynen/)
+- [Drumming News Network](https://www.drummingnewsnetwork.com/?p=11605)
+
 ---
 
 **Full interactive profile:** [Waltteri Väyrynen on MetalForge](https://metalforge.io/drummer/waltteri-vayrynen)
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

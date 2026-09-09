@@ -6,7 +6,7 @@ country: "Sweden"
 primary_brand: "Tama"
 profile_url: "https://metalforge.io/drummer/adrian-erlandsson"
 source: "https://metalforge.io"
-last_updated: "2026-09-08"
+last_updated: "2026-09-09"
 ---
 
 # Adrian Erlandsson — Drum Kit & Gear Setup
@@ -43,6 +43,48 @@ Adrian Erlandsson is a Swedish drummer who co-founded At the Gates in Gothenburg
 
 Erlandsson is the brother of Arch Enemy's Daniel Erlandsson; both are prominent Gothenburg-scene drummers who developed their rhythmic vocabularies independently, Adrian's groove-oriented D-beat foundation contrasting with Daniel's more polished blast-beat precision. Beyond At the Gates, Erlandsson founded The Haunted in 1996, joined British extreme/gothic act Cradle of Filth from 1999-2006, and drummed for Paradise Lost from 2009-2016 — at times juggling multiple active bands simultaneously — all while returning to At the Gates for its full-time 2008 reformation and rejoining The Haunted in 2013.
 
+## Career Highlights
+
+- **1990** — Co-founded At the Gates in Gothenburg, Sweden
+- **1995** — Recorded Slaughter of the Soul, one of the most influential albums in extreme metal history
+- **1996** — Founded The Haunted following At the Gates' initial breakup
+- **1999** — Joined Cradle of Filth, pivoting into symphonic extreme metal
+- **2006** — Left Cradle of Filth after recording four albums including Midian and Nymphetamine
+- **2008** — Rejoined At the Gates for its full-time reformation
+- **2009** — Joined Paradise Lost, recording Draconian Times MMXI-era material
+- **2013** — Rejoined The Haunted, recording Exit Wounds (2014) and Strength in Numbers (2017)
+- **2014** — Released At War with Reality with At the Gates, the band's first album in 19 years
+
+## Style & Influences
+
+Adrian Erlandsson's drumming is built on rhythmic discipline rather than technical complexity. His identity centers on the D-beat — a rock-steady rhythmic foundation borrowed from hardcore and crust punk, adapted to extreme metal tempo and intensity — deployed with a consistency that always serves the song's melodic momentum rather than competing with it. Where more technical death metal drummers pursue maximum complexity, Erlandsson's Slaughter of the Soul performance proved that melodic death metal drumming requires the right groove more than raw velocity.
+
+**Key Influences:**
+- **Hardcore and crust punk drumming**: The direct source of Erlandsson's core D-beat vocabulary
+- **Gothenburg scene contemporaries**: Shared development of the melodic death metal template alongside brother Daniel Erlandsson at Arch Enemy
+
+**Signature Techniques:**
+- Disciplined D-beat foundation (snare on 2 and 4, kick on downbeats, driving 8th-note hi-hats) underneath tremolo-picked guitar melody
+- Full-intensity blast-beat entrances with no build-up, most iconically on "Blinded by Fear"
+- China cymbal accents at riff transitions
+- Consistent, economical matched-grip technique built to sustain long blast-beat passages without tempo drift
+
+## Notable Recordings
+
+**Albums:**
+
+- **At the Gates - Slaughter of the Soul** (1995, Earache Records) — Genre-defining Gothenburg melodic death metal album
+- **Cradle of Filth - Midian** (2000, Music for Nations) — Erlandsson's Cradle of Filth studio debut
+- **Cradle of Filth - Nymphetamine** (2004, Roadrunner Records) — Symphonic extreme metal
+- **At the Gates - At War with Reality** (2014, Century Media) — First At the Gates album in 19 years
+- **The Haunted - Exit Wounds** (2014, Century Media) — Erlandsson's return to The Haunted
+
+**Tours:**
+
+- **Slaughter of the Soul Tour** (1995-1996) — Supporting At the Gates' genre-defining album
+- **At the Gates World Touring** (2014-present) — Global touring following the band's full-time reformation
+- **Paradise Lost Touring** (2009-2016) — Touring across the Draconian Times MMXI and Tragic Idol cycles
+
 ## Band History
 
 - **At the Gates** — 1990–present (current)
@@ -58,20 +100,6 @@ Erlandsson is the brother of Arch Enemy's Daniel Erlandsson; both are prominent 
 - **Hardware:** Monolit Czarcie Kopyto Double Pedal
 - **Sticks:** Vic Firth American Classic Rock Nylon Tip (ROCKN)
 - **Heads:** Evans EMAD Onyx / EC Reverse Dot
-
-## Endorsements
-
-- [Tama Drums](https://www.tama.com)
-- [Sabian Cymbals](https://www.sabian.com)
-- [Vic Firth Sticks](https://vicfirth.zildjian.com)
-- [Evans Drumheads](https://www.evansdrumheads.com)
-
-## Endorsements
-
-- [Tama Drums](https://www.tama.com)
-- [Sabian Cymbals](https://www.sabian.com)
-- [Vic Firth Sticks](https://vicfirth.zildjian.com)
-- [Evans Drumheads](https://www.evansdrumheads.com)
 
 ## Endorsements
 
@@ -122,6 +150,16 @@ A: Adrian Erlandsson plays a Tama Starclassic Bubinga 14"x6.5" snare drum.
 
 A: Adrian Erlandsson drives his double bass drums with a Monolit Czarcie Kopyto double pedal, a boutique Polish pedal he adopted during his Paradise Lost years (2009-2016).
 
+## Trivia
+
+- Co-founded At the Gates in Gothenburg in 1990
+- Brother of Arch Enemy drummer Daniel Erlandsson — the two independently shaped Gothenburg melodic death metal's drumming vocabulary from different angles
+- Founded The Haunted in 1996 after At the Gates' initial breakup, and rejoined the band in 2013
+- Drummed for Cradle of Filth from 1999-2006, recording Midian, Damnation and a Day, Nymphetamine, and Thornography
+- Drummed for Paradise Lost from 2009-2016 while remaining active in At the Gates and The Haunted
+- His opening blast beat on "Blinded by Fear" is considered one of melodic death metal's most iconic entrances
+- Receives custom-printed At the Gates-branded Vic Firth sticks as an artist endorsement (not a retail signature model)
+
 ## Signature Licks on MetalForge
 
 MetalForge has 3 signature lick tutorial(s) for Adrian Erlandsson:
@@ -171,10 +209,17 @@ Historical gear pricing and value: [Adrian Erlandsson's gear price history](http
 
 Dated brand-endorsement timeline: [Adrian Erlandsson's endorsement history](https://metalforge.io/llms/endorsements/adrian-erlandsson.md).
 
+## Sources
+
+- [Metal-Rules.com — Adrian Erlandsson Interview](https://metal-rules.com)
+- [Blunt Magazine Interview](https://bluntmag.com.au/)
+- [Wikipedia: Adrian Erlandsson](https://en.wikipedia.org/wiki/Adrian_Erlandsson)
+- [Discogs: Adrian Erlandsson](https://www.discogs.com/artist/44265-Adrian-Erlandsson)
+
 ---
 
 **Full interactive profile:** [Adrian Erlandsson on MetalForge](https://metalforge.io/drummer/adrian-erlandsson)
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

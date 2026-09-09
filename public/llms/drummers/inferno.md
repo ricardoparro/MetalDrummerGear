@@ -6,7 +6,7 @@ country: "Poland"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/inferno"
 source: "https://metalforge.io"
-last_updated: "2026-09-08"
+last_updated: "2026-09-09"
 ---
 
 # Inferno — Drum Kit & Gear Setup
@@ -41,6 +41,55 @@ Inferno (born Zbigniew Robert Promiński on December 30, 1978, in Tczew, Poland)
 
 Inferno's drumming combines blistering speed with surgical precision, delivering relentless blast beats and complex patterns that define Behemoth's apocalyptic sound. His theatrical stage presence, featuring elaborate costumes and imposing drum risers, matches the band's grandiose visual aesthetic. He is widely regarded as one of the fastest and most consistent extreme metal drummers in the world.
 
+## Career Highlights
+
+- **1997** — Joined Behemoth, replacing Baal Ravenlock
+- **1999** — Recorded "Satanica," transitioning Behemoth to death metal
+- **2004** — Released "Demigod," Behemoth's international breakthrough
+- **2007** — Released "The Apostasy," reaching new commercial heights
+- **2009** — Released "Evangelion," charting in multiple countries
+- **2014** — Released "The Satanist," widely considered Behemoth's masterpiece
+- **2018** — Released "I Loved You at Your Darkest," continuing success
+- **2022** — Released "Opvs Contra Natvram," latest studio album
+- **2024** — Continues as extreme metal's elite drummer
+
+## Style & Influences
+
+Inferno's drumming is characterized by relentless intensity, metronomic precision, and the ability to sustain extreme tempos for extended periods. His playing combines black metal ferocity with death metal technicality.
+
+**Key Influences:**
+- **Pete Sandoval (Morbid Angel)**: Death metal blast beat foundation
+- **Hellhammer (Mayhem)**: Black metal intensity
+- **Gene Hoglan (Death)**: Technical precision
+- **Dave Lombardo (Slayer)**: Thrash metal aggression
+
+**Signature Techniques:**
+- Sustained blast beats at extreme tempos (230+ BPM)
+- Precise double bass patterns with clarity
+- Seamless transitions between blast beats and groove sections
+- Creative use of fills within relentless passages
+- Consistent live performances matching studio precision
+
+## Notable Recordings
+
+**Albums:**
+
+- **Behemoth - Satanica** (1999, Avantgarde) — Death metal transition
+- **Behemoth - Thelema.6** (2000, Avantgarde) — Sound refinement
+- **Behemoth - Zos Kia Cultus** (2002, Avantgarde) — Technical evolution
+- **Behemoth - Demigod** (2004, Regain) — International breakthrough
+- **Behemoth - The Apostasy** (2007, Regain) — Commercial peak
+- **Behemoth - Evangelion** (2009, Nuclear Blast) — Chart success
+- **Behemoth - The Satanist** (2014, Nuclear Blast) — Masterpiece
+- **Behemoth - I Loved You at Your Darkest** (2018, Nuclear Blast) — Continued evolution
+- **Behemoth - Opvs Contra Natvram** (2022, Nuclear Blast) — Latest album
+
+**Tours:**
+
+- **Ozzfest** (2007) — US mainstream exposure
+- **Download Festival** (2014, 2019) — UK festival headlining
+- **Behemoth Headline Tours** (2004-Present) — Worldwide touring
+
 ## Band History
 
 - **Behemoth** — 1997–present (current)
@@ -53,20 +102,6 @@ Inferno's drumming combines blistering speed with surgical precision, delivering
 - **Cymbals:** Paiste RUDE Series (14" Hi-Hats, 14" Blast China, 18" & 19" Crashes, 24" Mega Power Ride, 18" China)
 - **Hardware:** Czarcie Kopyto (Devil's Hoof) Double Pedal, Pearl D-2000 Throne
 - **Sticks:** Vic Firth 5B
-
-## Endorsements
-
-- [Pearl Drums](https://pearldrum.com)
-- [Paiste Cymbals](https://www.paiste.com)
-- [Vic Firth Sticks](https://vicfirth.zildjian.com)
-- [Evans Drumheads](https://www.daddario.com/evans)
-
-## Endorsements
-
-- [Pearl Drums](https://pearldrum.com)
-- [Paiste Cymbals](https://www.paiste.com)
-- [Vic Firth Sticks](https://vicfirth.zildjian.com)
-- [Evans Drumheads](https://www.daddario.com/evans)
 
 ## Endorsements
 
@@ -118,6 +153,18 @@ A: Inferno has been the drummer for Polish extreme metal band Behemoth since 199
 **Q: What hi-hats does Inferno use?**
 
 A: Inferno plays 14" Paiste RUDE Hi-Hats, part of the durable RUDE cymbal setup engineered to withstand his relentless blast beats behind Behemoth.
+
+## Trivia
+
+- Born Zbigniew Robert Promiński; "Inferno" is his stage name
+- Has been Behemoth's drummer for over 25 years
+- His stamina allows consistent blast beat performances for entire concerts
+- Behemoth's theatrical stage shows feature elaborate costumes and imagery
+- The band faced legal troubles in Poland over alleged religious offense
+- "The Satanist" was recorded after Nergal's recovery from leukemia
+- Known for his professional, almost machine-like consistency live
+- Uses long board pedals for maximum speed and power
+- Considered one of the most reliable drummers in extreme metal touring
 
 ## Album Drum Setup Breakdowns
 
@@ -181,10 +228,18 @@ Historical gear pricing and value: [Inferno's gear price history](https://metalf
 
 Dated brand-endorsement timeline: [Inferno's endorsement history](https://metalforge.io/llms/endorsements/inferno.md).
 
+## Sources
+
+- [Pearl Drums](https://pearldrum.com)
+- [Paiste Cymbals](https://www.paiste.com)
+- [Behemoth Official](https://behemoth.pl)
+- [Wikipedia: Inferno (musician)](https://en.wikipedia.org/wiki/Inferno_(musician))
+- [Demigod Drum Setup (2004)](https://metalforge.io/articles/demigod-drum-setup)
+
 ---
 
 **Full interactive profile:** [Inferno on MetalForge](https://metalforge.io/drummer/inferno)
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

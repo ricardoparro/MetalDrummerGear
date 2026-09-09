@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "DW"
 profile_url: "https://metalforge.io/drummer/navene-koperweis"
 source: "https://metalforge.io"
-last_updated: "2026-09-08"
+last_updated: "2026-09-09"
 ---
 
 # Navene Koperweis — Drum Kit & Gear Setup
@@ -43,6 +43,61 @@ Navene Koperweis (born May 31, 1985, in San Jose, California) is an American dru
 
 Beyond his drumming career, Koperweis is a prolific producer and electronic artist who releases music under the name "Navene K." He runs his own technical death metal project Fleshwrought, where he plays all instruments, demonstrating his versatility as a complete musician. Recently, he has served as session drummer for Machine Head and tour drummer for Job for a Cowboy.
 
+## Career Highlights
+
+- **1996** — Started playing drums at age 11
+- **2003** — Joined hardcore band Hoods
+- **2003** — Joined grindcore/death metal band Animosity
+- **2006** — Contributed to The Faceless' "Akeldama" album (track #4)
+- **2007** — Released "Animal" with Animosity
+- **2010** — Joined Animals as Leaders; released "Weightless" demo/recordings
+- **2011** — Recorded and released "Weightless" with Animals as Leaders
+- **2012** — Left Animals as Leaders; released electronic EP "Human Design" as Navene K
+- **2014** — Co-produced Animals as Leaders' "The Joy of Motion" (production credit)
+- **2015** — Founded Entheos; released debut EP "Primal"
+- **2016** — Released "The Infinite Nothing" with Entheos
+- **2021** — Enlisted as session drummer for Machine Head's new album
+- **2023** — Released "Time Will Take Us All" with Entheos
+
+## Style & Influences
+
+Navene Koperweis's drumming style bridges extreme metal precision with electronic music sensibilities. His technical proficiency allows him to navigate complex djent rhythms, death metal blast beats, and intricate polyrhythmic patterns, while his production background informs his approach to tone and dynamics.
+
+**Key Influences:**
+- **Tim Alexander (Primus)**: Creative, unconventional approach
+- **Joey Jordison (Slipknot)**: Extreme metal intensity
+- **Kevin Talley**: Technical death metal precision
+- **John Longstreth (Origin)**: Brutal technicality
+- **Terry Bozzio**: Progressive complexity
+- **Electronic Artists**: Skrillex, Noisia, Deadmau5 influence his production work
+
+**Signature Techniques:**
+- Complex polyrhythmic patterns incorporating djent elements
+- Blast beats with clarity and musicality
+- Integration of electronic elements in metal context
+- Dynamic control within extreme metal
+- Multi-instrumentalist approach to composition
+
+## Notable Recordings
+
+**Albums:**
+
+- **Animosity - Empires** (2005, Metal Blade) — Technical death metal/grindcore
+- **Animosity - Animal** (2007, Metal Blade) — Deathcore evolution
+- **Fleshwrought - Dementia/Dyslexia** (2010, Unique Leader) — Solo project, all instruments
+- **Animals as Leaders - Weightless** (2011, Prosthetic) — Djent landmark
+- **Entheos - Primal EP** (2015, Independent) — Progressive death metal debut
+- **Entheos - The Infinite Nothing** (2016, Spinefarm) — Full-length debut
+- **Entheos - Dark Future** (2017, Spinefarm) — Continued evolution
+- **Whitechapel - The Valley** (2019, Metal Blade) — Session drums
+- **Entheos - Time Will Take Us All** (2023, Metal Blade) — Most ambitious album
+
+**Tours:**
+
+- **Animals as Leaders Tours** (2010-2012) — Progressive metal circuit
+- **Entheos Touring** (2015-present) — Technical death metal scene
+- **Job for a Cowboy** (Various) — Session/touring drummer
+
 ## Band History
 
 - **Entheos** — 2015–present (current)
@@ -56,20 +111,6 @@ Beyond his drumming career, Koperweis is a prolific producer and electronic arti
 - **Hardware:** DW 9000 Series Double Pedal, DW Throne
 - **Sticks:** Vic Firth American Classic 5B
 - **Heads:** Evans
-
-## Endorsements
-
-- [DW Drums](https://www.dwdrums.com)
-- [Meinl Cymbals](https://meinlcymbals.com)
-- [Vic Firth Sticks](https://vicfirth.zildjian.com)
-- [Evans Drumheads](https://www.daddario.com/evans)
-
-## Endorsements
-
-- [DW Drums](https://www.dwdrums.com)
-- [Meinl Cymbals](https://meinlcymbals.com)
-- [Vic Firth Sticks](https://vicfirth.zildjian.com)
-- [Evans Drumheads](https://www.daddario.com/evans)
 
 ## Endorsements
 
@@ -121,6 +162,19 @@ A: Navene Koperweis founded Entheos in 2015 and previously drummed for Animals a
 **Q: What other projects has Navene Koperweis worked on?**
 
 A: Beyond Entheos and Animals as Leaders, Navene Koperweis runs his own technical death metal project Fleshwrought, playing every instrument himself, produces electronic music under the name "Navene K," and has served as a session drummer for Machine Head since 2021.
+
+## Trivia
+
+- Started playing drums at age 11 in San Jose, California
+- Runs his own project Fleshwrought where he plays ALL instruments
+- Left Animals as Leaders in 2012 citing desire to pursue other musical interests
+- Produces electronic/dubstep music under the name "Navene K"
+- Has released multiple electronic EPs including "Human Design" and "Mind"
+- Co-produced Animals as Leaders' "The Joy of Motion" after leaving the band
+- Entheos features his wife Chaney Crabb on vocals
+- Has served as session drummer for Machine Head and Whitechapel
+- Named one of the Top 20 Technical Metal Drummers by MetalSucks
+- His influences span from metal to electronic dance music (Skrillex, Deadmau5)
 
 ## Signature Licks on MetalForge
 
@@ -174,10 +228,17 @@ Historical gear pricing and value: [Navene Koperweis's gear price history](https
 
 Dated brand-endorsement timeline: [Navene Koperweis's endorsement history](https://metalforge.io/llms/endorsements/navene-koperweis.md).
 
+## Sources
+
+- [Meinl Cymbals Artist Profile](https://meinlcymbals.com/en/artists/navene-koperweis-a12226.html)
+- [MetalSucks](https://www.metalsucks.net)
+- [Modern Drummer](https://www.moderndrummer.com)
+- [Wikipedia: Navene Koperweis](https://en.wikipedia.org/wiki/Navene_Koperweis)
+
 ---
 
 **Full interactive profile:** [Navene Koperweis on MetalForge](https://metalforge.io/drummer/navene-koperweis)
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

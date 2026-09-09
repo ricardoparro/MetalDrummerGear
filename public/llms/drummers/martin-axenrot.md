@@ -6,7 +6,7 @@ country: "Sweden"
 primary_brand: "DW"
 profile_url: "https://metalforge.io/drummer/martin-axenrot"
 source: "https://metalforge.io"
-last_updated: "2026-09-08"
+last_updated: "2026-09-09"
 ---
 
 # Martin Axenrot — Drum Kit & Gear Setup
@@ -41,6 +41,47 @@ Martin Axenrot (born March 17, 1979, in Stockholm, Sweden) is a Swedish drummer 
 
 Beyond Opeth, Axenrot has been a core member of death metal supergroup Bloodbath since 2008, performing alongside members of Opeth, Katatonia, and Paradise Lost. His dual role in a technically demanding progressive band and an unapologetically brutal death metal outfit reflects the versatility that has made him one of the most respected extreme metal drummers of his generation. Axenrot made his Opeth studio debut on Watershed (2008) and has recorded every studio album since, anchoring the band's evolution from progressive death metal into the more retro-progressive-rock-influenced territory of Heritage (2011) and beyond.
 
+## Career Highlights
+
+- **1997** — Joined Swedish death metal band Witchery, beginning his professional drumming career
+- **2006** — Replaced Martin Lopez as Opeth's drummer mid-tour on the Ghost Reveries cycle
+- **2008** — Joined death metal supergroup Bloodbath and made his Opeth studio debut on Watershed
+- **2010** — Left Witchery after 13 years to focus fully on Opeth and Bloodbath
+- **2011** — Released Heritage with Opeth, a dramatic stylistic pivot toward 1970s progressive rock
+- **2014** — Released Pale Communion with Opeth
+- **2016** — Released Sorceress with Opeth
+- **2019** — Released In Cauda Venenum, recorded in both Swedish and English versions
+
+## Style & Influences
+
+Martin Axenrot's drumming style combines the technical, dynamic vocabulary Opeth's progressive death metal demands with a heavier, more aggressive attack than his predecessor, forged across years in extreme metal bands like Witchery and Nifelheim. His playing shifts fluidly between blast beats and double-bass runs on Opeth's heaviest passages and restrained, jazz-tinged dynamics on the band's acoustic and progressive-rock-influenced material.
+
+**Key Influences:**
+- **Martin Lopez**: Established the progressive vocabulary Axenrot honors while pushing it further
+- **Extreme metal drummers**: Witchery and Nifelheim shaped his aggressive, precise attack
+- **Classic progressive rock drummers**: Informing his approach to Heritage-era material
+
+**Signature Techniques:**
+- Twin-bass-drum setup enabling extended double-bass passages
+- Fluid transitions between extreme metal intensity and progressive rock restraint
+- Dynamic control across Opeth's shifting acoustic and heavy sections
+
+## Notable Recordings
+
+**Albums:**
+
+- **Opeth - Watershed** (2008, Roadrunner) — Axenrot's Opeth studio debut
+- **Opeth - Heritage** (2011, Roadrunner) — Progressive rock pivot
+- **Opeth - Pale Communion** (2014, Nuclear Blast) — Continued progressive direction
+- **Opeth - Sorceress** (2016, Nuclear Blast) — Blends heavy and progressive elements
+- **Opeth - In Cauda Venenum** (2019, Nuclear Blast) — Swedish and English versions
+- **Bloodbath - The Fathomless Mastery** (2008, Peaceville) — Axenrot's debut with Bloodbath
+
+**Tours:**
+
+- **Opeth World Tours** (2006-Present) — Extensive global touring since joining
+- **Bloodbath Festival Circuit** (2008-Present) — Death metal festival appearances
+
 ## Band History
 
 - **Opeth** — 2006–present (current)
@@ -55,20 +96,6 @@ Beyond Opeth, Axenrot has been a core member of death metal supergroup Bloodbath
 - **Hardware:** Unverified
 - **Sticks:** Pro-Mark
 - **Heads:** Evans
-
-## Endorsements
-
-- [DW Drums](https://www.dwdrums.com)
-- [SABIAN Cymbals](https://sabian.com)
-- [Pro-Mark Sticks](https://www.promark.com)
-- [Evans Drumheads](https://www.evansdrumheads.com)
-
-## Endorsements
-
-- [DW Drums](https://www.dwdrums.com)
-- [SABIAN Cymbals](https://sabian.com)
-- [Pro-Mark Sticks](https://www.promark.com)
-- [Evans Drumheads](https://www.evansdrumheads.com)
 
 ## Endorsements
 
@@ -114,6 +141,15 @@ A: Martin Axenrot's hardware and pedal setup has not been independently verified
 **Q: What sticks does Martin Axenrot use?**
 
 A: Martin Axenrot plays Pro-Mark drumsticks, per Wikipedia's sourced equipment listing.
+
+## Trivia
+
+- Replaced Martin Lopez mid-tour on the Ghost Reveries cycle in 2006
+- Also drums for death metal supergroup Bloodbath alongside members of Katatonia and Paradise Lost
+- Spent 13 years in Swedish death metal band Witchery before joining Opeth
+- Also played in black/thrash band Nifelheim earlier in his career
+- Plays a custom hand-made DW kit with maple/gum shells, per his own account in a 2016 MusicRadar interview
+- In Cauda Venenum (2019) was recorded in both Swedish and English versions
 
 ## Album Drum Setup Articles
 
@@ -175,10 +211,18 @@ Historical gear pricing and value: [Martin Axenrot's gear price history](https:/
 
 Dated brand-endorsement timeline: [Martin Axenrot's endorsement history](https://metalforge.io/llms/endorsements/martin-axenrot.md).
 
+## Sources
+
+- [Opeth Official](https://www.opeth.com)
+- [Wikipedia: Martin Axenrot](https://en.wikipedia.org/wiki/Martin_Axenrot)
+- [SABIAN Artist Page: Martin Axenrot](https://sabian.com/artist/martin-axenrot/)
+- [MusicRadar: Opeth's Martin Axenrot Talks New Album Sorceress](https://www.musicradar.com/news/drums/opeths-martin-axe-axenrot-talks-new-album-sorceress-644191)
+- [Discogs: Martin Axenrot](https://www.discogs.com/artist/475040-Martin-Axenrot)
+
 ---
 
 **Full interactive profile:** [Martin Axenrot on MetalForge](https://metalforge.io/drummer/martin-axenrot)
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

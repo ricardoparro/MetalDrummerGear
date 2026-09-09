@@ -6,7 +6,7 @@ country: "France"
 primary_brand: "Tama"
 profile_url: "https://metalforge.io/drummer/mario-duplantier"
 source: "https://metalforge.io"
-last_updated: "2026-09-08"
+last_updated: "2026-09-09"
 ---
 
 # Mario Duplantier — Drum Kit & Gear Setup
@@ -40,6 +40,52 @@ Mario Duplantier (born June 19, 1981, in Ondres, France) is a French drummer and
 
 Mario's drumming combines crushing power with technical precision, featuring complex double bass patterns and an almost tribal quality that defines Gojira's unique sound. Beyond his drumming, he is a talented visual artist who creates artwork for Gojira's albums, merchandise, and stage productions.
 
+## Career Highlights
+
+- **1996** — Formed Godzilla (later Gojira) with brother Joe in Bayonne, France
+- **2001** — Released debut album "Terra Incognita" (as Gojira)
+- **2005** — Released "From Mars to Sirius," international breakthrough
+- **2008** — Released "The Way of All Flesh," critical acclaim worldwide
+- **2012** — Released "L'Enfant Sauvage," Gojira's first Grammy nomination
+- **2016** — Released "Magma," reaching #1 on Billboard Hard Rock chart
+- **2021** — Released "Fortitude," achieving mainstream success
+- **2022** — Won "Best Metal Performance" Grammy nomination for "Amazonia"
+
+## Style & Influences
+
+Mario Duplantier's drumming style is characterized by incredible power, tribal rhythmic elements, and seamless integration with Gojira's intricate guitar work. His playing emphasizes dynamics and groove within an extreme metal framework.
+
+**Key Influences:**
+- **Dave Lombardo (Slayer)**: Thrash metal foundation
+- **Igor Cavalera (Sepultura)**: Brazilian tribal metal approach
+- **Meshuggah**: Polyrhythmic complexity
+- **World percussion**: Tribal and ethnic rhythms
+
+**Signature Techniques:**
+- Powerful, syncopated double bass patterns
+- Tribal-influenced rhythms and polyrhythms
+- Pick scrape and tom-based grooves
+- Dynamic control within extreme metal context
+- "Wall of sound" approach with precise articulation
+
+## Notable Recordings
+
+**Albums:**
+
+- **Gojira - Terra Incognita** (2001, Boycott) — Debut album
+- **Gojira - The Link** (2003, Listenable) — Sound evolution
+- **Gojira - From Mars to Sirius** (2005, Listenable) — International breakthrough
+- **Gojira - The Way of All Flesh** (2008, Prosthetic) — Critical acclaim
+- **Gojira - L'Enfant Sauvage** (2012, Roadrunner) — First Grammy nod
+- **Gojira - Magma** (2016, Roadrunner) — Mainstream breakthrough
+- **Gojira - Fortitude** (2021, Roadrunner) — Environmental themes
+
+**Tours:**
+
+- **Metallica Support Tours** (2017, 2023) — Opening for Metallica worldwide
+- **Download Festival Headline** (2022) — Main stage headliner
+- **Fortitude World Tour** (2021-2022) — Post-pandemic touring
+
 ## Band History
 
 - **Gojira** — 1996–present (current)
@@ -52,18 +98,6 @@ Mario's drumming combines crushing power with technical precision, featuring com
 - **Hardware:** Tama Iron Cobra 900 Power Glide Double Pedal, Tama 1st Chair Ergo-Rider Throne
 - **Sticks:** Tama Mario Duplantier Signature
 - **Heads:** Remo Emperor (toms), Remo Powerstroke 3 (bass drums)
-
-## Endorsements
-
-- [Tama Drums](https://www.tama.com)
-- [Zildjian Cymbals](https://zildjian.com)
-- [Remo Drumheads](https://remo.com)
-
-## Endorsements
-
-- [Tama Drums](https://www.tama.com)
-- [Zildjian Cymbals](https://zildjian.com)
-- [Remo Drumheads](https://remo.com)
 
 ## Endorsements
 
@@ -118,6 +152,18 @@ A: Mario Duplantier plays a Tama S.L.P. 14"x6.5" G-Maple snare drum.
 **Q: What pedals does Mario Duplantier use?**
 
 A: Mario Duplantier drives his dual-bass-drum setup with a Tama Iron Cobra 900 Power Glide double pedal.
+
+## Trivia
+
+- Creates all artwork for Gojira's albums and merchandise
+- Gojira was originally named "Godzilla" but changed for legal reasons
+- The brothers grew up in the Basque region of France
+- Known for his environmental activism alongside Gojira's music
+- Uses dual bass drums for both sonic and visual impact
+- His artwork has become as iconic as Gojira's music
+- The song "Flying Whales" features some of his most recognized drum work
+- Maintains a humble, grounded personality despite massive success
+- Often incorporates visual projections of his art during live shows
 
 ## Quotes
 
@@ -189,10 +235,17 @@ Historical gear pricing and value: [Mario Duplantier's gear price history](https
 
 Dated brand-endorsement timeline: [Mario Duplantier's endorsement history](https://metalforge.io/llms/endorsements/mario-duplantier.md).
 
+## Sources
+
+- [Tama Drums Artist Profile](https://www.tama.com)
+- [Zildjian Artist Profile](https://zildjian.com)
+- [Gojira Official](https://gojira-music.com)
+- [Wikipedia: Mario Duplantier](https://en.wikipedia.org/wiki/Mario_Duplantier)
+
 ---
 
 **Full interactive profile:** [Mario Duplantier on MetalForge](https://metalforge.io/drummer/mario-duplantier)
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

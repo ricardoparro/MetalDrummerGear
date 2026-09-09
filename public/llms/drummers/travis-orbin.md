@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "SJC"
 profile_url: "https://metalforge.io/drummer/travis-orbin"
 source: "https://metalforge.io"
-last_updated: "2026-09-08"
+last_updated: "2026-09-09"
 ---
 
 # Travis Orbin — Drum Kit & Gear Setup
@@ -41,6 +41,48 @@ Travis Orbin (born July 5, 1985, in Baltimore, Maryland) is an American drummer 
 
 Orbin's technical prowess, creative use of polyrhythms, and ability to navigate complex time signatures have made him a widely studied figure in the progressive metal community independent of any Periphery studio credit. Since leaving Periphery in 2009, he has continued as a session musician, solo artist, and member of bands like Sky Harbor and Darkest Hour, while also producing acclaimed drum playthrough videos and educational content.
 
+## Career Highlights
+
+- **2006** — Joined Periphery during the band's early, pre-recording lineup
+- **2009** — Left Periphery in February, before the band recorded its debut; replaced by Matt Halpern
+- **2012** — Joined Sky Harbor
+- **2013** — Joined Darkest Hour for touring
+- **2014** — Released "Guiding Lights" with Sky Harbor
+- **2016** — Released solo drum interpretations and playthroughs gaining viral attention
+- **2018** — Continued session work and educational content
+- **2020s** — Active as session drummer, educator, and solo artist
+
+## Style & Influences
+
+Travis Orbin's drumming style combines extreme technical proficiency with musicality and creativity. His approach to polyrhythmic playing and odd time signatures influenced the entire djent and progressive metal scene. He emphasizes groove within complexity.
+
+**Key Influences:**
+- **Tomas Haake (Meshuggah)**: Polyrhythmic foundation
+- **Thomas Lang**: Technical independence and facility
+- **Marco Minnemann**: Creative complexity
+- **Gospel and Fusion drummers**: Chops and groove
+
+**Signature Techniques:**
+- Complex polyrhythmic patterns with musical phrasing
+- Seamless navigation of odd time signatures
+- Creative ghost notes and linear patterns
+- Technical double bass work integrated with hand patterns
+- Musical interpretation of djent guitar rhythms
+
+## Notable Recordings
+
+**Albums:**
+
+- **Sky Harbor - Guiding Lights** (2014, eOne) — International progressive metal
+- **Darkest Hour - Various Tours** (2013-2015, undefined) — Touring drummer
+- **Solo Playthroughs** (Ongoing, undefined) — YouTube drum interpretations
+
+**Tours:**
+
+- **Periphery Tours** (2006-2009) — Pre-recording lineup, regional touring
+- **Darkest Hour Tours** (2013-2015) — Support touring
+- **Clinics and Masterclasses** (Ongoing) — Educational events
+
 ## Band History
 
 - **Darkest Hour** — 2017–present (current)
@@ -54,24 +96,6 @@ Orbin's technical prowess, creative use of polyrhythms, and ability to navigate 
 - **Hardware:** DW 9000 Series Double Pedal, Roland SPD-SX Sampling Pad, DW 9100 Throne
 - **Sticks:** Vic Firth American Classic 5B
 - **Heads:** Evans
-
-## Endorsements
-
-- [SJC Custom Drums](https://www.sjcdrums.com)
-- [Zildjian Cymbals](https://zildjian.com)
-- [Vic Firth Sticks](https://vicfirth.zildjian.com)
-- [Evans Drumheads](https://www.daddario.com/evans)
-- [Roland Electronics](https://www.roland.com)
-- [DW Hardware](https://www.dwdrums.com)
-
-## Endorsements
-
-- [SJC Custom Drums](https://www.sjcdrums.com)
-- [Zildjian Cymbals](https://zildjian.com)
-- [Vic Firth Sticks](https://vicfirth.zildjian.com)
-- [Evans Drumheads](https://www.daddario.com/evans)
-- [Roland Electronics](https://www.roland.com)
-- [DW Hardware](https://www.dwdrums.com)
 
 ## Endorsements
 
@@ -124,6 +148,18 @@ A: Travis Orbin played drums in Periphery from 2006 to 2009, before the band's r
 **Q: What hi-hats does Travis Orbin use?**
 
 A: Travis Orbin plays 14" Zildjian K Custom Dark Hi-Hats, part of his K Custom cymbal setup.
+
+## Trivia
+
+- Left Periphery in February 2009, before the band wrote or recorded any of its releases
+- Drum playthrough videos have garnered millions of views on YouTube
+- Replaced by Matt Halpern, who has recorded every Periphery album since 2010
+- Known for incredibly detailed, educational playthrough videos
+- Has transcribed and performed drum covers of extremely complex music
+- Active on social media sharing educational content
+- Balances session work with solo artistic projects
+- His interpretation of songs often reveals layers not obvious in original recordings
+- Based in Baltimore, maintains active presence in local music scene
 
 ## Signature Licks on MetalForge
 
@@ -179,10 +215,16 @@ Historical gear pricing and value: [Travis Orbin's gear price history](https://m
 
 Dated brand-endorsement timeline: [Travis Orbin's endorsement history](https://metalforge.io/llms/endorsements/travis-orbin.md).
 
+## Sources
+
+- [Travis Orbin YouTube](https://www.youtube.com/@TravisOrbin)
+- [Zildjian Artist Profile](https://zildjian.com/blogs/artist/travis-orbin)
+- [Modern Drummer Magazine](https://www.moderndrummer.com)
+
 ---
 
 **Full interactive profile:** [Travis Orbin on MetalForge](https://metalforge.io/drummer/travis-orbin)
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

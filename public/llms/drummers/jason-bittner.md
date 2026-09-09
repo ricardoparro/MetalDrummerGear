@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Mapex"
 profile_url: "https://metalforge.io/drummer/jason-bittner"
 source: "https://metalforge.io"
-last_updated: "2026-09-08"
+last_updated: "2026-09-09"
 ---
 
 # Jason Bittner — Drum Kit & Gear Setup
@@ -41,6 +41,55 @@ Jason Bittner (born August 19, 1970, in Waterbury, Connecticut) is an American d
 
 Bittner rose to prominence with Shadows Fall during the early 2000s metalcore explosion, contributing to Grammy-nominated albums. Following Shadows Fall's hiatus, he joined Flotsam and Jetsam before becoming Overkill's drummer in 2017, continuing the legacy of one of thrash metal's most enduring bands.
 
+## Career Highlights
+
+- **1999** — Joined Shadows Fall, New England metalcore band
+- **2002** — Released "The Art of Balance" with Shadows Fall, commercial breakthrough
+- **2004** — Released "The War Within," Grammy-nominated album
+- **2005** — Headlined Ozzfest with Shadows Fall
+- **2007** — Released "Threads of Life," continued success
+- **2009** — Released "Retribution" with Shadows Fall
+- **2012** — Released "Fire from the Sky," final Shadows Fall album
+- **2013** — Joined Flotsam and Jetsam
+- **2017** — Joined Overkill, replacing Ron Lipnicki
+- **2019** — Released "The Wings of War" with Overkill
+- **2023** — Released "Scorched" with Overkill, first album fully written with Bittner
+
+## Style & Influences
+
+Jason Bittner's drumming combines thrash metal power with the groove and heaviness of modern metal. His playing is characterized by powerful double bass, tight snare work, and the ability to adapt to different subgenres while maintaining his distinctive sound.
+
+**Key Influences:**
+- **Dave Lombardo (Slayer)**: Thrash metal foundation
+- **Nicko McBrain (Iron Maiden)**: Galloping rhythms
+- **Vinnie Paul (Pantera)**: Groove-based power drumming
+- **Charlie Benante (Anthrax)**: Thrash versatility
+
+**Signature Techniques:**
+- Powerful, driving double bass patterns
+- Tight, punchy snare work
+- Ability to blend thrash and modern metal elements
+- Consistent, reliable live performances
+- Dynamic control across metal subgenres
+
+## Notable Recordings
+
+**Albums:**
+
+- **Shadows Fall - The Art of Balance** (2002, Century Media) — Commercial breakthrough
+- **Shadows Fall - The War Within** (2004, Century Media) — Grammy-nominated
+- **Shadows Fall - Threads of Life** (2007, Atlantic) — Major label debut
+- **Shadows Fall - Fire from the Sky** (2012, Razor & Tie) — Final SF album
+- **Flotsam and Jetsam - Flotsam and Jetsam** (2016, AFM) — Self-titled album
+- **Overkill - The Wings of War** (2019, Nuclear Blast) — First Overkill album
+- **Overkill - Scorched** (2023, Nuclear Blast) — Fully collaborative album
+
+**Tours:**
+
+- **Ozzfest** (2005) — Headlining with Shadows Fall
+- **New England Metal Fest** (Multiple years) — Home region shows
+- **Overkill World Tours** (2017-Present) — Thrash metal touring
+
 ## Band History
 
 - **Overkill** — 2017–present (current)
@@ -55,20 +104,6 @@ Bittner rose to prominence with Shadows Fall during the early 2000s metalcore ex
 - **Hardware:** Mapex Falcon Double Pedal, Mapex T865 Throne
 - **Sticks:** Promark Jason Bittner Signature 5BX
 - **Heads:** Evans
-
-## Endorsements
-
-- [Mapex Drums](https://www.mapexdrums.com)
-- [Zildjian Cymbals](https://zildjian.com)
-- [Promark Sticks](https://www.daddario.com/promark)
-- [Evans Drumheads](https://www.daddario.com/evans)
-
-## Endorsements
-
-- [Mapex Drums](https://www.mapexdrums.com)
-- [Zildjian Cymbals](https://zildjian.com)
-- [Promark Sticks](https://www.daddario.com/promark)
-- [Evans Drumheads](https://www.daddario.com/evans)
 
 ## Endorsements
 
@@ -120,6 +155,18 @@ A: Jason Bittner has drummed for Overkill since 2017, and previously drummed for
 **Q: What hi-hats does Jason Bittner use?**
 
 A: Jason Bittner plays 14" Zildjian K Hi-Hats, part of the K and A Custom cymbal setup he has used across Shadows Fall's The War Within and his ongoing tenure with Overkill.
+
+## Trivia
+
+- Shadows Fall's "The War Within" was nominated for a Grammy Award
+- Was part of the early 2000s metalcore movement that brought heavy music to mainstream attention
+- Known for his enthusiastic, energetic personality
+- Has been a drum educator and clinician throughout his career
+- Seamlessly transitioned from metalcore to classic thrash with Overkill
+- Overkill has cited his work ethic and professionalism as reasons for hiring him
+- Connecticut native who has represented New England metal for decades
+- Continues to be active with educational content and clinics
+- His powerful style has adapted well to Overkill's classic thrash sound
 
 ## Quotes
 
@@ -181,10 +228,16 @@ Historical gear pricing and value: [Jason Bittner's gear price history](https://
 
 Dated brand-endorsement timeline: [Jason Bittner's endorsement history](https://metalforge.io/llms/endorsements/jason-bittner.md).
 
+## Sources
+
+- [Mapex Drums](https://www.mapexdrums.com)
+- [Zildjian](https://zildjian.com)
+- [Wikipedia: Jason Bittner](https://en.wikipedia.org/wiki/Jason_Bittner)
+
 ---
 
 **Full interactive profile:** [Jason Bittner on MetalForge](https://metalforge.io/drummer/jason-bittner)
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "SJC"
 profile_url: "https://metalforge.io/drummer/jay-weinberg"
 source: "https://metalforge.io"
-last_updated: "2026-09-08"
+last_updated: "2026-09-09"
 ---
 
 # Jay Weinberg — Drum Kit & Gear Setup
@@ -41,6 +41,55 @@ Jay Weinberg (born Jay Bradley Weinberg; September 8, 1990, in Middletown Townsh
 
 Weinberg's career spans diverse genres: from substituting for his father with Bruce Springsteen, to playing hardcore punk with Against Me! and Madball, to becoming the masked drummer #1 in one of metal's most extreme bands. His ability to honor Joey Jordison's legacy while bringing his own explosive energy made him a fan favorite during his nine years with Slipknot.
 
+## Career Highlights
+
+- **2005** — First performances at age 15 with The Used and Bouncing Souls
+- **2008** — First appearance with E Street Band, playing "Born to Run" at Giants Stadium
+- **2009** — Toured with Bruce Springsteen, filling in for father Max during Conan Tonight Show conflict
+- **2010** — Joined Madball; recorded "Empire" album
+- **2011** — Joined Against Me! for touring and recording
+- **2014** — Joined Slipknot, replacing Joey Jordison; identity kept secret initially
+- **2014** — Recorded ".5: The Gray Chapter" with Slipknot; graduated Stevens Institute of Technology
+- **2019** — Released "We Are Not Your Kind" with Slipknot; received widespread acclaim
+- **2022** — Released "The End, So Far" with Slipknot
+- **2023** — Parted ways with Slipknot in November; expressed being "blindsided"
+- **2024** — Joined Infectious Grooves and Suicidal Tendencies
+- **2024** — Surprise appearance with E Street Band at Barcelona show
+
+## Style & Influences
+
+Jay Weinberg's drumming style combines the technical precision inherited from his father's professional discipline with the raw aggression demanded by Slipknot's extreme metal. His playing honors Joey Jordison's legacy while incorporating his own hardcore punk energy and dynamic sensitivity.
+
+**Key Influences:**
+- **Joey Jordison (Slipknot)**: Speed, precision, and showmanship
+- **Max Weinberg (E Street Band)**: Professional discipline and dynamics
+- **Hardcore punk scene**: Raw energy and intensity
+- **Dave Grohl**: Energetic, long-hair-flying style
+
+**Signature Techniques:**
+- Sustained blast beats with clarity
+- Powerful double bass patterns
+- Dynamic control from arena rock to extreme metal
+- Hardcore punk-influenced intensity
+- Ability to replicate complex Jordison parts authentically
+
+## Notable Recordings
+
+**Albums:**
+
+- **Madball - Empire** (2010, Nuclear Blast) — Hardcore with Madball
+- **Slipknot - .5: The Gray Chapter** (2014, Roadrunner) — First Slipknot album
+- **Hesitation Wounds - Awake For Everything** (2016, Deathwish) — Hardcore side project
+- **Slipknot - We Are Not Your Kind** (2019, Roadrunner) — Critical acclaim
+- **Slipknot - The End, So Far** (2022, Roadrunner) — Final album with Slipknot
+
+**Tours:**
+
+- **Bruce Springsteen Working on a Dream Tour** (2009) — Fill-in for father Max
+- **Slipknot World Tours** (2014-2023) — Nine years of touring
+- **Knotfest** (2014-2023) — Slipknot's own festival
+- **Suicidal Tendencies Tours** (2024-2026) — Post-Slipknot era
+
 ## Band History
 
 - **Suicidal Tendencies** — 2023–present (current)
@@ -55,24 +104,6 @@ Weinberg's career spans diverse genres: from substituting for his father with Br
 - **Hardware:** DW 9000 Series Double Pedal, DW 9100 Throne
 - **Sticks:** Vater Jay Weinberg 908 Signature
 - **Heads:** Evans Black Chrome
-
-## Endorsements
-
-- [SJC Custom Drums](https://www.sjcdrums.com)
-- [Zildjian Cymbals](https://zildjian.com)
-- [Vater Drumsticks](https://www.vater.com)
-- [Evans Drumheads](https://www.daddario.com/evans)
-- [DW Hardware](https://www.dwdrums.com)
-- [Roland Electronics](https://www.roland.com)
-
-## Endorsements
-
-- [SJC Custom Drums](https://www.sjcdrums.com)
-- [Zildjian Cymbals](https://zildjian.com)
-- [Vater Drumsticks](https://www.vater.com)
-- [Evans Drumheads](https://www.daddario.com/evans)
-- [DW Hardware](https://www.dwdrums.com)
-- [Roland Electronics](https://www.roland.com)
 
 ## Endorsements
 
@@ -127,6 +158,18 @@ A: Jay Weinberg uses Evans Black Chrome drumheads across his SJC Custom Drums ki
 
 A: Jay Weinberg integrates Roland electronic triggers and samples into his SJC Custom Drums drum kit, giving his drum set a hybrid acoustic/electronic sound built for Slipknot's live show.
 
+## Trivia
+
+- Son of Max Weinberg, Bruce Springsteen's E Street Band drummer
+- Father took him to Ozzfest to see Slipknot as a child, sparking his metal passion
+- Started playing drums at age 14, mostly self-taught using father's gear
+- Played ice hockey as a goaltender before focusing on drums
+- Graduated from Stevens Institute of Technology in 2014 (same year he joined Slipknot)
+- His identity as Slipknot's drummer was leaked by a former drum tech
+- Comparisons to Dave Grohl for his energetic, hair-flying style
+- Left Against Me! via Twitter without notifying bandmates first
+- Described being "blindsided" and "heartbroken" over Slipknot firing in 2023
+
 ## Signature Licks on MetalForge
 
 MetalForge has 3 signature lick tutorial(s) for Jay Weinberg:
@@ -178,10 +221,17 @@ Historical gear pricing and value: [Jay Weinberg's gear price history](https://m
 
 Dated brand-endorsement timeline: [Jay Weinberg's endorsement history](https://metalforge.io/llms/endorsements/jay-weinberg.md).
 
+## Sources
+
+- [SJC Custom Drums](https://sjcdrums.com)
+- [Zildjian Artist Profile](https://zildjian.com/blogs/artist/jay-weinberg)
+- [Modern Drummer Magazine](https://www.moderndrummer.com)
+- [Wikipedia: Jay Weinberg](https://en.wikipedia.org/wiki/Jay_Weinberg)
+
 ---
 
 **Full interactive profile:** [Jay Weinberg on MetalForge](https://metalforge.io/drummer/jay-weinberg)
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

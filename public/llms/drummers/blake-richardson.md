@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Tama"
 profile_url: "https://metalforge.io/drummer/blake-richardson"
 source: "https://metalforge.io"
-last_updated: "2026-09-08"
+last_updated: "2026-09-09"
 ---
 
 # Blake Richardson — Drum Kit & Gear Setup
@@ -40,6 +40,55 @@ Blake Richardson (born February 25, 1984, in Winston-Salem, North Carolina) is a
 
 Richardson's work on landmark albums like "Colors," "The Great Misdirect," and "The Parallax" series has earned him critical acclaim and a devoted following among drummers. His ability to navigate complex compositions while maintaining musicality and groove has made him an influential figure in modern progressive metal.
 
+## Career Highlights
+
+- **2005** — Joined Between the Buried and Me, replacing original drummer Will Goodyear
+- **2006** — Recorded "Alaska," first album with BTBAM
+- **2007** — Released "Colors," considered one of the greatest progressive metal albums
+- **2009** — Released "The Great Misdirect," featuring "Swim to the Moon"
+- **2012** — Released "The Parallax II: Future Sequence," completing the ambitious two-part concept
+- **2015** — Released "Coma Ecliptic," a theatrical prog concept album
+- **2018** — Released "Automata" parts I and II
+- **2021** — Released "Colors II," sequel to landmark 2007 album
+- **2024** — Continued touring and creating new material with BTBAM
+
+## Style & Influences
+
+Blake Richardson's drumming style defies categorization, seamlessly blending death metal blast beats, jazz fusion sophistication, progressive rock complexity, and experimental textures. His approach prioritizes serving each composition's unique demands while pushing technical boundaries.
+
+**Key Influences:**
+- **Danny Carey (Tool)**: Progressive metal approach and polyrhythms
+- **Sean Reinert (Cynic)**: Jazz fusion in extreme metal
+- **Brann Dailor (Mastodon)**: Progressive metal creativity
+- **Bill Bruford (Yes/King Crimson)**: Prog rock complexity
+- **Jazz Drummers**: Tony Williams, Buddy Rich influence his phrasing
+
+**Signature Techniques:**
+- Seamless genre transitions within single songs
+- Jazz-influenced ghost notes and hi-hat work
+- Blast beats with musicality and dynamics
+- Complex odd time signatures executed naturally
+- Use of space and restraint within extreme contexts
+
+## Notable Recordings
+
+**Albums:**
+
+- **Between the Buried and Me - Alaska** (2006, Victory) — First album with band
+- **Between the Buried and Me - Colors** (2007, Victory) — Landmark prog metal album
+- **Between the Buried and Me - The Great Misdirect** (2009, Victory) — Contains "Swim to the Moon"
+- **Between the Buried and Me - The Parallax: Hypersleep Dialogues EP** (2011, Metal Blade) — Concept EP
+- **Between the Buried and Me - The Parallax II: Future Sequence** (2012, Metal Blade) — Epic concept album
+- **Between the Buried and Me - Coma Ecliptic** (2015, Metal Blade) — Theatrical prog concept
+- **Between the Buried and Me - Automata I & II** (2018, Sumerian) — Two-part release
+- **Between the Buried and Me - Colors II** (2021, Sumerian) — Sequel to 2007 classic
+
+**Tours:**
+
+- **Colors Anniversary Tour** (2017) — Performed Colors in full
+- **An Evening With BTBAM** (Multiple years) — No opening acts, extended sets
+- **Summer Slaughter** (Multiple years) — Premier US extreme metal tour
+
 ## Band History
 
 - **Between the Buried and Me** — 2005–present (current)
@@ -52,20 +101,6 @@ Richardson's work on landmark albums like "Colors," "The Great Misdirect," and "
 - **Hardware:** Tama Iron Cobra Power Glide Single Pedals (x2), Tama Hardware
 - **Sticks:** Vic Firth American Classic 3A
 - **Heads:** Evans (Hybrid on snare, EMAD on kicks, EC2 SST on toms)
-
-## Endorsements
-
-- [Tama Drums](https://www.tama.com)
-- [Sabian Cymbals](https://www.sabian.com)
-- [Vic Firth Sticks](https://vicfirth.zildjian.com)
-- [Evans Drumheads](https://www.daddario.com/evans)
-
-## Endorsements
-
-- [Tama Drums](https://www.tama.com)
-- [Sabian Cymbals](https://www.sabian.com)
-- [Vic Firth Sticks](https://vicfirth.zildjian.com)
-- [Evans Drumheads](https://www.daddario.com/evans)
 
 ## Endorsements
 
@@ -117,6 +152,17 @@ A: Blake Richardson plays Vic Firth American Classic 3A sticks, paired with Evan
 **Q: What bass drum pedal does Blake Richardson use?**
 
 A: Richardson powers his independent double-kick patterns with twin Tama Iron Cobra Power Glide single pedals rather than a linked double pedal.
+
+## Trivia
+
+- Grew up in Winston-Salem, North Carolina
+- "Colors" is consistently ranked among the greatest progressive metal albums ever
+- "Swim to the Moon" (19+ minutes) showcases his stamina and musicality
+- BTBAM songs frequently change genres multiple times within single tracks
+- Known for exceptional sight-reading and learning ability
+- The band performed "Colors" in its entirety for 10th anniversary
+- His jazz background influences his approach to extreme metal
+- BTBAM releases are known for their ambition and conceptual depth
 
 ## Quotes
 
@@ -181,10 +227,17 @@ Historical gear pricing and value: [Blake Richardson's gear price history](https
 
 Dated brand-endorsement timeline: [Blake Richardson's endorsement history](https://metalforge.io/llms/endorsements/blake-richardson.md).
 
+## Sources
+
+- [BTBAM Official](https://www.betweentheburiedandme.com)
+- [Sabian Artist Profile](https://www.sabian.com/artist/blake-richardson/)
+- [Modern Drummer Magazine](https://www.moderndrummer.com)
+- [Wikipedia: Between the Buried and Me](https://en.wikipedia.org/wiki/Between_the_Buried_and_Me)
+
 ---
 
 **Full interactive profile:** [Blake Richardson on MetalForge](https://metalforge.io/drummer/blake-richardson)
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

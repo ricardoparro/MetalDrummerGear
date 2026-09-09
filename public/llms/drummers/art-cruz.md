@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Ludwig"
 profile_url: "https://metalforge.io/drummer/art-cruz"
 source: "https://metalforge.io"
-last_updated: "2026-09-08"
+last_updated: "2026-09-09"
 ---
 
 # Art Cruz — Drum Kit & Gear Setup
@@ -41,6 +41,55 @@ Arthur Robert T Peyton Cruz (born May 27, 1988, in Downey, California) is an Ame
 
 Before Lamb of God, Cruz built his reputation through extensive work with Winds of Plague and Prong, developing a reputation as a reliable, hard-hitting drummer capable of handling diverse metal styles. His work with Lamb of God on their 2020 self-titled album and 2022's "Omens" has proven him a worthy successor to Adler's legacy.
 
+## Career Highlights
+
+- **2004-2006** — Played in South El Monte High School marching band percussion section
+- **2008** — Joined Winds of Plague; recorded "The Great Stone War"
+- **2011** — Released "Against the World" with Winds of Plague (Billboard #60)
+- **2012** — Left Winds of Plague; joined Prong
+- **2015** — Recorded "Songs from the Black Hole" and subsequent albums with Prong
+- **2015** — Returned to Winds of Plague
+- **2017** — Released "Blood of My Enemy" with Winds of Plague
+- **2018** — Filled in for Chris Adler on Lamb of God's North American tour
+- **2019** — Officially became Lamb of God's drummer following Adler's departure
+- **2020** — Released self-titled Lamb of God album, first studio album with band
+- **2022** — Released "Omens" with Lamb of God
+
+## Style & Influences
+
+Art Cruz's drumming style combines powerful groove metal precision with the intensity developed in deathcore and thrash metal. His playing emphasizes power, consistency, and the ability to drive songs with relentless energy while maintaining the groove-oriented approach Lamb of God is known for.
+
+**Key Influences:**
+- **Chris Adler (Lamb of God)**: The foundation of Lamb of God's drum sound
+- **Dave Lombardo (Slayer)**: Thrash metal power and intensity
+- **Groove Metal Drumming**: Syncopated, powerful rhythms
+
+**Signature Techniques:**
+- Powerful, driving double bass patterns
+- Precise, groove-oriented playing that complements Randy Blythe's vocals
+- Consistency and reliability in live performance
+- Ability to replicate Chris Adler's complex parts while adding personal flair
+- Dynamic control across Lamb of God's diverse catalog
+
+## Notable Recordings
+
+**Albums:**
+
+- **Winds of Plague - The Great Stone War** (2009, Century Media) — Billboard #72
+- **Winds of Plague - Against the World** (2011, Century Media) — Billboard #60
+- **Prong - Songs from the Black Hole** (2015, Steamhammer) — Industrial/groove metal
+- **Prong - X – No Absolutes** (2016, Steamhammer) — Continued evolution
+- **Prong - Zero Days** (2017, Steamhammer) — Final album with Prong
+- **Winds of Plague - Blood of My Enemy** (2017, eOne) — Return album
+- **Lamb of God - Lamb of God** (2020, Nuclear Blast) — First studio album with LOG
+- **Lamb of God - Omens** (2022, Nuclear Blast) — Second album with band
+
+**Tours:**
+
+- **Slayer Farewell Tour Support** (2018) — First Lamb of God performances filling in for Adler
+- **Lamb of God World Tours** (2019-present) — Extensive touring as official member
+- **European Festivals** (2022-2023) — Major festival appearances with Lamb of God
+
 ## Band History
 
 - **Lamb of God** — 2019–present (current)
@@ -55,24 +104,6 @@ Before Lamb of God, Cruz built his reputation through extensive work with Winds 
 - **Hardware:** Trick Pro 1-V Double Pedal, Gibraltar Hardware, Ludwig Atlas Throne
 - **Sticks:** Vic Firth American Classic 5B
 - **Heads:** Evans
-
-## Endorsements
-
-- [Ludwig Drums](https://www.ludwig-drums.com)
-- [Zildjian Cymbals](https://zildjian.com)
-- [Vic Firth Sticks](https://vicfirth.zildjian.com)
-- [Evans Drumheads](https://www.daddario.com/evans)
-- [Trick Pedals](https://www.trickdrums.com)
-- [Gibraltar Hardware](https://www.gibraltarhardware.com)
-
-## Endorsements
-
-- [Ludwig Drums](https://www.ludwig-drums.com)
-- [Zildjian Cymbals](https://zildjian.com)
-- [Vic Firth Sticks](https://vicfirth.zildjian.com)
-- [Evans Drumheads](https://www.daddario.com/evans)
-- [Trick Pedals](https://www.trickdrums.com)
-- [Gibraltar Hardware](https://www.gibraltarhardware.com)
 
 ## Endorsements
 
@@ -126,6 +157,18 @@ A: Art Cruz has been the drummer for Lamb of God since 2019, replacing Chris Adl
 **Q: How did Art Cruz join Lamb of God?**
 
 A: Art Cruz filled in for Chris Adler on Lamb of God's 2018 North American tour supporting Slayer's farewell run, a stint that led the band to make him their official drummer in 2019 after he learned Adler's notoriously complex catalog.
+
+## Trivia
+
+- Attended South El Monte High School in Southern California
+- His first major band was Winds of Plague, which he joined in 2008
+- Collaborated with Italian alternative metal project Klogr and The Rasmus in 2017
+- Was filling in for Chris Adler when Lamb of God realized he should join permanently
+- Had to learn Lamb of God's entire catalog, including Chris Adler's notoriously complex parts
+- His first Lamb of God show was supporting Slayer on their farewell tour
+- Left Winds of Plague in 2021 to focus exclusively on Lamb of God
+- Brings his own energy to Lamb of God while respecting the established sound
+- Has proven himself as a worthy successor to Chris Adler's legacy
 
 ## Signature Licks on MetalForge
 
@@ -185,10 +228,17 @@ Historical gear pricing and value: [Art Cruz's gear price history](https://metal
 
 Dated brand-endorsement timeline: [Art Cruz's endorsement history](https://metalforge.io/llms/endorsements/art-cruz.md).
 
+## Sources
+
+- [Zildjian Artist Profile](https://zildjian.com/blogs/artist/art-cruz)
+- [Blabbermouth](https://www.blabbermouth.net)
+- [Metal Injection](https://metalinjection.net)
+- [Wikipedia: Art Cruz](https://en.wikipedia.org/wiki/Art_Cruz)
+
 ---
 
 **Full interactive profile:** [Art Cruz on MetalForge](https://metalforge.io/drummer/art-cruz)
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

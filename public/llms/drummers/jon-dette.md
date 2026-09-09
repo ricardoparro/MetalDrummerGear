@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Ludwig"
 profile_url: "https://metalforge.io/drummer/jon-dette"
 source: "https://metalforge.io"
-last_updated: "2026-09-08"
+last_updated: "2026-09-09"
 ---
 
 # Jon Dette — Drum Kit & Gear Setup
@@ -43,6 +43,41 @@ Jon Dette (born August 25, 1967, in Milwaukee, Wisconsin) is an American drummer
 
 Dette served as Slayer's touring drummer during 1996-1997, filling in when Paul Bostaph was temporarily unavailable. He later became Testament's touring drummer across two stints (1997-1999, 2001-2012), a tenure captured on the live album Live at the Fillmore. His versatility and professionalism have earned him respect throughout the metal community.
 
+## Career Highlights
+
+- **1996** — Joined Slayer as touring drummer, filling in for Paul Bostaph
+- **1997** — Left Slayer when Bostaph returned; joined Testament
+- **1999** — Touring drummer for Testament's "The Gathering" era (studio album recorded by Dave Lombardo)
+- **2008** — Testament's touring drummer during "The Formation of Damnation" era (studio album recorded by Paul Bostaph)
+- **2010** — Filled in for Charlie Benante on Anthrax tour dates
+- **2012** — Testament's touring drummer during "Dark Roots of Earth" era (studio album recorded by Gene Hoglan)
+
+## Style & Influences
+
+Jon Dette's drumming style is characterized by technical precision, adaptability, and the ability to faithfully replicate complex drum parts from multiple bands.
+
+**Key Influences:**
+- **Dave Lombardo (Slayer)**: Thrash metal foundation
+- **Gene Hoglan (Death)**: Technical proficiency
+- **Paul Bostaph**: Precision and consistency
+
+**Signature Techniques:**
+- Rapid adaptation to different band's playing styles
+- Powerful, consistent double bass playing
+- Professional approach to maintaining original song integrity
+
+## Notable Recordings
+
+**Albums:**
+
+- **Testament - Live at the Fillmore** (2005, Nuclear Blast) — Live album capturing Dette's touring tenure
+
+**Tours:**
+
+- **Slayer World Tour** (1996-1997) — Fill-in drummer period
+- **Testament Tours** (1997-2012) — Multiple touring cycles
+- **Anthrax Tour** (2010) — Fill-in for Charlie Benante
+
 ## Band History
 
 - **Slayer** — 1996–1997
@@ -57,20 +92,6 @@ Dette served as Slayer's touring drummer during 1996-1997, filling in when Paul 
 - **Hardware:** DW 9000 or Tama Iron Cobra Double Pedal
 - **Sticks:** Promark / Vater 5B
 - **Heads:** Remo Powerstroke 3 (Kick) / Emperor Coated (Toms) / Coated Ambassador (Snare)
-
-## Endorsements
-
-- [Ludwig Drums](https://www.ludwig-drums.com)
-- [Sabian Cymbals](https://www.sabian.com)
-- [Zildjian Cymbals](https://zildjian.com)
-- [Remo Drumheads](https://remo.com)
-
-## Endorsements
-
-- [Ludwig Drums](https://www.ludwig-drums.com)
-- [Sabian Cymbals](https://www.sabian.com)
-- [Zildjian Cymbals](https://zildjian.com)
-- [Remo Drumheads](https://remo.com)
 
 ## Endorsements
 
@@ -120,6 +141,14 @@ A: Jon Dette was Slayer's touring drummer in 1996-1997, then Testament's touring
 **Q: How did Jon Dette join Slayer?**
 
 A: Jon Dette joined Slayer in 1996 as touring drummer, filling in when Paul Bostaph was temporarily unavailable, and left in 1997 when Bostaph returned to the band. He went on to become a longer-term member of Testament.
+
+## Trivia
+
+- Known as thrash metal's most reliable fill-in drummer
+- Learned entire Slayer setlists quickly when called to tour
+- One of few drummers to have played with three of the Big Four (Slayer, Anthrax)
+- The Gathering, released during his first Testament touring stint, is considered one of Testament's best albums — though its drums were recorded by Dave Lombardo
+- Praised for professionalism and quick learning ability
 
 ## Signature Licks on MetalForge
 
@@ -171,10 +200,14 @@ Historical gear pricing and value: [Jon Dette's gear price history](https://meta
 
 Dated brand-endorsement timeline: [Jon Dette's endorsement history](https://metalforge.io/llms/endorsements/jon-dette.md).
 
+## Sources
+
+- [Wikipedia: Jon Dette](https://en.wikipedia.org/wiki/Jon_Dette)
+
 ---
 
 **Full interactive profile:** [Jon Dette on MetalForge](https://metalforge.io/drummer/jon-dette)
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

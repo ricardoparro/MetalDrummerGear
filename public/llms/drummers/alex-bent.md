@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/alex-bent"
 source: "https://metalforge.io"
-last_updated: "2026-09-08"
+last_updated: "2026-09-09"
 ---
 
 # Alex Bent — Drum Kit & Gear Setup
@@ -41,6 +41,57 @@ Alex Bent (born January 31, 1993, in Oakland, California) is an American drummer
 
 Bent's background in technical death metal—with bands like Brain Drill, Arkaik, and Battlecross—prepared him for Trivium's demanding catalog. His ability to blend extreme metal technicality with melodic metal accessibility made him an ideal fit for the band's evolved sound. After 9 years with Trivium, Bent departed in October 2025.
 
+## Career Highlights
+
+- **2004** — Started playing drums at age 11 after assembling father's old drum kit
+- **2005** — Began competing in drum competitions and auditioning for bands
+- **2008** — Participated in Guitar Center Drum Off, reaching Regional Finals
+- **2011** — Joined technical death metal band Arkaik
+- **2012** — Toured with Decrepit Birth and Hatriot
+- **2015** — Joined Brain Drill and Dragonlord (Testament guitarist's band)
+- **2015** — Joined Battlecross; filled in for Gene Hoglan on Testament dates
+- **2017** — Joined Trivium at producer Mark Lewis's recommendation
+- **2017** — Released "The Sin and the Sentence" with Trivium to critical acclaim
+- **2020** — Released "What the Dead Men Say" with Trivium
+- **2021** — Released "In the Court of the Dragon" with Trivium
+- **2025** — Released "Struck Dead" with Trivium; departed from band in October
+
+## Style & Influences
+
+Alex Bent's drumming style combines the extreme technicality of death metal with the musicality and accessibility required for modern metal. His ability to perform complex blast beats, intricate fills, and driving grooves with equal proficiency made him ideal for Trivium's diverse songwriting.
+
+**Key Influences:**
+- **Gene Hoglan (Death/Testament)**: Technical precision, filled in for him on Testament dates
+- **Technical Death Metal Drumming**: Blast beats, complex patterns
+- **Classic Metal Drumming**: Power and groove for accessible metal
+- **Jazz Training**: Studied with jazz band, concert band backgrounds
+
+**Signature Techniques:**
+- Technical death metal blast beats with clarity
+- Complex fills that serve the song structure
+- Powerful double bass patterns
+- Dynamic control across extreme and melodic passages
+- Ability to blend technicality with arena-ready groove
+
+## Notable Recordings
+
+**Albums:**
+
+- **Arkaik - Metamorphignition** (2012, Unique Leader) — Technical death metal
+- **Battlecross - Rise to Power** (2015, Metal Blade) — Thrash metal
+- **Dragonlord - Dominion** (2018, Spinefarm) — Black metal project
+- **Trivium - The Sin and the Sentence** (2017, Roadrunner) — Critical comeback
+- **Trivium - What the Dead Men Say** (2020, Roadrunner) — Pandemic-era release
+- **Trivium - In the Court of the Dragon** (2021, Roadrunner) — Progressive evolution
+- **Trivium - Struck Dead** (2025, Roadrunner) — Final album with Trivium
+
+**Tours:**
+
+- **Testament Fill-In Dates** (2015) — Filling in for Gene Hoglan
+- **Trivium European Tour** (2017) — First shows with Trivium
+- **Trivium World Tours** (2017-2025) — Extensive international touring
+- **Summer Festival Circuit** (2017-2024) — Major festival appearances
+
 ## Band History
 
 - **Trivium** — 2016–2024
@@ -54,22 +105,6 @@ Bent's background in technical death metal—with bands like Brain Drill, Arkaik
 - **Hardware:** Axis A Longboard Double Pedal, Pearl D-3000 Throne
 - **Sticks:** Vic Firth American Classic 5B
 - **Heads:** Remo
-
-## Endorsements
-
-- [Pearl Drums](https://pearldrum.com)
-- [Zildjian Cymbals](https://zildjian.com)
-- [Vic Firth Sticks](https://vicfirth.zildjian.com)
-- [Remo Drumheads](https://remo.com)
-- [Axis Percussion](https://www.axispercussion.com)
-
-## Endorsements
-
-- [Pearl Drums](https://pearldrum.com)
-- [Zildjian Cymbals](https://zildjian.com)
-- [Vic Firth Sticks](https://vicfirth.zildjian.com)
-- [Remo Drumheads](https://remo.com)
-- [Axis Percussion](https://www.axispercussion.com)
 
 ## Endorsements
 
@@ -122,6 +157,19 @@ A: Alex Bent drummed for Trivium from 2017 to 2025, and also drums for Eric Pete
 **Q: Did Alex Bent ever fill in for another drummer?**
 
 A: Alex Bent filled in for Gene Hoglan, one of his key influences, on Testament tour dates in 2015 before joining Trivium in 2017 at producer Mark Lewis's recommendation, going on to record three albums with the band through his departure in October 2025.
+
+## Trivia
+
+- Born in Oakland, California; began drumming at age 11
+- Taught himself drums for over a year before competing in drum competitions
+- Played in marching band, concert band, jazz band, and Modesto Junior College Jazz Band
+- Reached Regional Finals in Guitar Center Drum Off
+- Producer Mark Lewis recommended Bent to Trivium after seeing his work
+- Was 24 years old when he joined Trivium in 2017
+- Filled in for the legendary Gene Hoglan on Testament tour dates before joining Trivium
+- His technical death metal background elevated Trivium's rhythmic complexity
+- Performed first show with Trivium in February 2017 on European tour
+- Left Trivium in October 2025 after 9 years with the band
 
 ## Signature Licks on MetalForge
 
@@ -177,10 +225,19 @@ Historical gear pricing and value: [Alex Bent's gear price history](https://meta
 
 Dated brand-endorsement timeline: [Alex Bent's endorsement history](https://metalforge.io/llms/endorsements/alex-bent.md).
 
+## Sources
+
+- [Axis Percussion Artist Profile](https://www.axispercussion.com/artists-a-f/#Alex_Bent)
+- [TAMA Drums Artist Profile](https://www.tama.com/usa/artists/detail/1446.html)
+- [Zildjian: TRIVIUM LIVE Drum Cam with Alex Bent](https://www.youtube.com/watch?v=ZwBJRRMFokU)
+- [Sick Drummer Magazine](https://sickdrummermagazine.com/the-drummers/future-sicko/alex-bent/)
+- [MetalSucks](https://www.metalsucks.net)
+- [Wikipedia: Alex Bent](https://en.wikipedia.org/wiki/Alex_Bent)
+
 ---
 
 **Full interactive profile:** [Alex Bent on MetalForge](https://metalforge.io/drummer/alex-bent)
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

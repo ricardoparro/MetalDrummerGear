@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Tama"
 profile_url: "https://metalforge.io/drummer/tim-yeung"
 source: "https://metalforge.io"
-last_updated: "2026-09-08"
+last_updated: "2026-09-09"
 ---
 
 # Tim Yeung — Drum Kit & Gear Setup
@@ -41,6 +41,54 @@ Tim Yeung (born November 27, 1978, in Pennsylvania, USA) is an American extreme 
 
 Yeung's drumming combines machine-like consistency with the brutal intensity demanded by the most extreme forms of death metal. His ability to maintain clarity and power at sustained high tempos has earned him a reputation as one of the elite drummers in the genre.
 
+## Career Highlights
+
+- **1990s** — Began drumming career in the underground death metal scene
+- **2001** — Joined Erik Rutan's Hate Eternal
+- **2002** — Recorded "King of All Kings" with Hate Eternal
+- **2003** — Joined Vital Remains, recorded "Dechristianize"
+- **2004** — Joined Morbid Angel following Pete Sandoval's health issues
+- **2006** — Co-founded Divine Heresy with Dino Cazares
+- **2011** — Recorded "Illud Divinum Insanus" with Morbid Angel
+- **2012** — Filled in for George Kollias on Nile European dates
+- **2015** — Left Morbid Angel
+- **2023** — Continues session and touring work in extreme metal
+
+## Style & Influences
+
+Tim Yeung's drumming style is defined by extreme speed, unwavering consistency, and brutal power. His approach prioritizes technical precision while maintaining the relentless intensity that death metal demands.
+
+**Key Influences:**
+- **Pete Sandoval (Morbid Angel)**: Gravity blast pioneer, the template for Morbid Angel drumming
+- **Dave Lombardo (Slayer)**: Thrash metal foundation
+- **Gene Hoglan (Death)**: Technical precision in death metal
+- **Derek Roddy**: Extreme speed technique
+
+**Signature Techniques:**
+- Sustained blast beats at extreme tempos with clarity
+- Powerful, consistent double bass patterns
+- Gravity blast technique execution
+- Machine-like consistency throughout long sets
+- Ability to adapt to various death metal subgenre requirements
+
+## Notable Recordings
+
+**Albums:**
+
+- **Hate Eternal - King of All Kings** (2002, Earache) — Brutal technical death metal
+- **Vital Remains - Dechristianize** (2003, Olympic) — Death metal classic with Glen Benton
+- **Vital Remains - Icons of Evil** (2007, Century Media) — Continued brutality
+- **Divine Heresy - Bleed the Fifth** (2007, Roadrunner) — Fear Factory-influenced
+- **Morbid Angel - Illud Divinum Insanus** (2011, Season of Mist) — Controversial return album
+- **Divine Heresy - Bringer of Plagues** (2009, Century Media) — Second Divine Heresy album
+
+**Tours:**
+
+- **Morbid Angel World Tours** (2004-2015) — Extensive touring with death metal legends
+- **Vital Remains Tours** (2003-2007) — Supporting Dechristianize and Icons of Evil
+- **Nile Fill-In Dates** (2012) — European dates for George Kollias
+- **Summer Slaughter** (Multiple years) — US extreme metal festival tour
+
 ## Band History
 
 - **Hate Eternal** — 2004–2007, 2015–present (current)
@@ -55,18 +103,6 @@ Yeung's drumming combines machine-like consistency with the brutal intensity dem
 - **Hardware:** Tama Speed Cobra 910 Double Pedal
 - **Sticks:** Vic Firth American Classic 5A
 - **Heads:** Evans
-
-## Endorsements
-
-- [Tama Drums](https://www.tama.com)
-- [Sabian Cymbals](https://www.sabian.com)
-- [Vic Firth Sticks](https://vicfirth.zildjian.com)
-
-## Endorsements
-
-- [Tama Drums](https://www.tama.com)
-- [Sabian Cymbals](https://www.sabian.com)
-- [Vic Firth Sticks](https://vicfirth.zildjian.com)
 
 ## Endorsements
 
@@ -118,6 +154,18 @@ A: Tim Yeung has drummed for Morbid Angel, Vital Remains, Hate Eternal, and Divi
 
 A: Tim Yeung uses trigger-assisted bass drums for clarity at the extreme tempos his death metal work demands, part of a setup philosophy that prioritizes durability and consistency across sustained blast-beat passages.
 
+## Trivia
+
+- Has been a member of more major death metal bands than almost any other drummer
+- Replaced legendary Pete Sandoval in Morbid Angel due to Sandoval's back surgery
+- Vital Remains' "Dechristianize" is considered one of the heaviest albums ever recorded
+- Divine Heresy featured former Fear Factory guitarist Dino Cazares
+- Filled in for George Kollias when Kollias had scheduling conflicts
+- Known for his reliability and ability to learn complex material quickly
+- One of the few drummers to have played with multiple Florida death metal legends
+- "Illud Divinum Insanus" was Morbid Angel's controversial industrial-influenced album
+- His endurance allows for consistent performance throughout grueling tour schedules
+
 ## Signature Licks on MetalForge
 
 MetalForge has 3 signature lick tutorial(s) for Tim Yeung:
@@ -168,10 +216,17 @@ Historical gear pricing and value: [Tim Yeung's gear price history](https://meta
 
 Dated brand-endorsement timeline: [Tim Yeung's endorsement history](https://metalforge.io/llms/endorsements/tim-yeung.md).
 
+## Sources
+
+- [Morbid Angel Official](https://www.facebook.com/MorbidAngelBand/)
+- [Blabbermouth](https://www.blabbermouth.net)
+- [Season of Mist](https://www.season-of-mist.com)
+- [Wikipedia: Tim Yeung](https://en.wikipedia.org/wiki/Tim_Yeung)
+
 ---
 
 **Full interactive profile:** [Tim Yeung on MetalForge](https://metalforge.io/drummer/tim-yeung)
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

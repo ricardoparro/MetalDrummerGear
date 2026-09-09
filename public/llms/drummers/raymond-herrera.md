@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Tama"
 profile_url: "https://metalforge.io/drummer/raymond-herrera"
 source: "https://metalforge.io"
-last_updated: "2026-09-08"
+last_updated: "2026-09-09"
 ---
 
 # Raymond Herrera — Drum Kit & Gear Setup
@@ -41,6 +41,54 @@ Raymond Herrera (born December 18, 1972, in Los Angeles, California) is an Ameri
 
 His drumming on classic Fear Factory albums like "Demanufacture" (1995) and "Obsolete" (1998) combined relentless double bass patterns with mechanical precision, creating the template for countless industrial and groove metal bands. Though he departed Fear Factory in 2009, his influence on modern metal drumming remains significant.
 
+## Career Highlights
+
+- **1989** — Joined Brujeria as one of founding members
+- **1990** — Co-founded Fear Factory in Los Angeles
+- **1992** — Released Fear Factory debut "Soul of a New Machine"
+- **1995** — Released "Demanufacture," landmark industrial metal album
+- **1998** — Released "Obsolete," Fear Factory's commercial peak
+- **2001** — Released "Digimortal," featuring hit "Linchpin"
+- **2004** — Released "Archetype" after Fear Factory reunion
+- **2005** — Released "Transgression" with Fear Factory
+- **2008** — Formed Arkaea with Christian Olde Wolbers after Fear Factory split
+- **2009** — Officially departed Fear Factory
+
+## Style & Influences
+
+Raymond Herrera's drumming style revolutionized industrial metal with its combination of mechanical precision and brutal power. His use of drum triggers to achieve a processed, machine-like sound became a hallmark of Fear Factory's production.
+
+**Key Influences:**
+- **Dave Lombardo (Slayer)**: Thrash metal foundation
+- **Industrial Music**: Electronic precision applied to metal
+- **Discharge/Hardcore Punk**: Relentless rhythmic attack
+- **Godflesh**: Early industrial metal template
+
+**Signature Techniques:**
+- Machine-gun double bass patterns at extreme tempos
+- Precise use of drum triggers for mechanical sound
+- Syncopated groove patterns between blast sections
+- Integration of electronic elements with acoustic drums
+- "Stop-start" rhythmic patterns that defined Fear Factory
+
+## Notable Recordings
+
+**Albums:**
+
+- **Fear Factory - Soul of a New Machine** (1992, Roadrunner) — Genre-defining debut
+- **Fear Factory - Demanufacture** (1995, Roadrunner) — Industrial metal landmark
+- **Fear Factory - Obsolete** (1998, Roadrunner) — Commercial peak
+- **Fear Factory - Digimortal** (2001, Roadrunner) — Hit "Linchpin"
+- **Fear Factory - Archetype** (2004, Liquid 8) — Return to form
+- **Brujeria - Raza Odiada** (1995, Roadrunner) — Cult classic
+- **Arkaea - Years in the Darkness** (2009, E1 Music) — Post-Fear Factory project
+
+**Tours:**
+
+- **Ozzfest** (1997, 1999, 2001, 2006) — Multiple appearances
+- **Fear Factory World Tours** (1992-2009) — Extensive worldwide touring
+- **Demanufacture Anniversary Tour** (2005) — Classic album tour
+
 ## Band History
 
 - **Fear Factory** — 1990–2009
@@ -55,20 +103,6 @@ His drumming on classic Fear Factory albums like "Demanufacture" (1995) and "Obs
 - **Hardware:** DW 5000 Series Double Pedal, Tama Power Tower Custom Rack, Tama Wide Rider Throne
 - **Sticks:** Pro-Mark 5A Oak Nylon Tip
 - **Heads:** Attack Drumheads
-
-## Endorsements
-
-- [Tama Drums](https://www.tama.com)
-- [Zildjian Cymbals](https://zildjian.com)
-- [Pro-Mark Sticks](https://www.daddario.com/promark)
-- [Attack Drumheads](https://www.universalpercussion.com)
-
-## Endorsements
-
-- [Tama Drums](https://www.tama.com)
-- [Zildjian Cymbals](https://zildjian.com)
-- [Pro-Mark Sticks](https://www.daddario.com/promark)
-- [Attack Drumheads](https://www.universalpercussion.com)
 
 ## Endorsements
 
@@ -121,6 +155,18 @@ A: Raymond Herrera co-founded and drummed for Fear Factory from 1990 to 2009. He
 
 A: Raymond Herrera uses ddrum and Roland electronic triggers throughout his kit, a technical setup central to the mechanically precise, processed drum sound he pioneered on Fear Factory albums like Demanufacture (1995) and Obsolete (1998).
 
+## Trivia
+
+- Co-founded Fear Factory in LA's early 90s death/grind scene
+- "Demanufacture" is considered one of the most influential industrial metal albums
+- His triggered drum sound became a template for countless bands
+- Also a founding member of Brujeria, the controversial Spanish-language extreme metal band
+- Was capable of sustained double bass speeds exceeding 200 BPM
+- Left Fear Factory due to ongoing legal disputes with Burton C. Bell and Dino Cazares
+- His drumming on "Replica" is considered a benchmark for industrial metal drumming
+- Arkaea continued the Fear Factory sound but never achieved the same success
+- Despite departure, his influence is heard in countless modern metal bands
+
 ## Signature Licks on MetalForge
 
 MetalForge has 3 signature lick tutorial(s) for Raymond Herrera:
@@ -171,10 +217,17 @@ Historical gear pricing and value: [Raymond Herrera's gear price history](https:
 
 Dated brand-endorsement timeline: [Raymond Herrera's endorsement history](https://metalforge.io/llms/endorsements/raymond-herrera.md).
 
+## Sources
+
+- [Tama Drums](https://www.tama.com/usa/artists/)
+- [Zildjian](https://zildjian.com)
+- [Fear Factory Official](https://www.fearfactory.com)
+- [Wikipedia: Raymond Herrera](https://en.wikipedia.org/wiki/Raymond_Herrera)
+
 ---
 
 **Full interactive profile:** [Raymond Herrera on MetalForge](https://metalforge.io/drummer/raymond-herrera)
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

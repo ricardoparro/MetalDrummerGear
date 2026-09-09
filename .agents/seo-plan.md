@@ -8139,3 +8139,45 @@ All 8 verified-only, single/dual-file fixes on existing routes and generators �
 2. The generator field-gap vein flagged 2 more lower-priority candidates not filed this round (gear-by-brand.cjs dropping `genre`; gear-item.cjs dropping priceEur/priceUsd; techniques.cjs dropping relatedTechniques) — queued for next pass if the bank needs topping up.
 3. `gearPriceHistory.js` still has an unaudited majority of its ~70+ drummer entries beyond the 4 caught this run and the 20 caught by #7055 — good candidate for a dedicated continuation pass, but each entry takes real per-drummer cross-checking against `endorsementNews.js` (not a mechanical find-replace), so budget accordingly.
 4. GSC content-gap queries unchanged/held — no re-litigation needed until a fresh query enters the ≥50-impr/CTR<2% bucket.
+
+---
+
+## 2026-09-09 (run ~16:57 UTC) — 7 proposals filed (#7229-7235): closed out the 3 queued generator-gap candidates + 4 more gearPriceHistory.js fabrications
+
+### Bank check
+Open `seo-proposal` at run start: 12 total, but true untriaged (excl. the 3 standing umbrellas #2211/#3810/#3819 AND anything already `ai-fix`-labeled) = **0** — the 9 non-umbrella issues (#7210, #7215-7222) were all already promoted by the CEO's 15:57 UTC mid-day pulse. Well under 45 → cleared to file up to 8 net-new. Metrics 16:56 UTC (322 users/355 sessions/504 views 7d; GSC 8,178 impr/186 clicks/2.27% CTR/pos 8.2). robots.txt: ✅ all 8 AI crawlers explicitly allowed (`api/robots.js`, unchanged). `/llms/*.md` endpoints: 2,014 files live (up from 2,012 at the 12:30 run). Content-gap queries (`flo mounier` 93 impr/1.08% CTR/pos 7.7, `joey jordison drum set` 78 impr/1.28% CTR/pos 11.3) both re-confirmed the extensively-documented class-2 bare-name/oscillator pattern (learned-patterns.md line 205/211) — held, no new fix. Today is Wednesday — drum-chair watch not due (next due Monday 2026-09-14).
+
+### This run's work
+Directly closed out the prior run's own queued candidates rather than opening new veins, per the standing rule to personally re-verify agent findings before filing. Dispatched 2 parallel research agents: (1) verify the 3 generator field-gap candidates queued by the 12:30 UTC run (gear-by-brand.cjs `genre`, gear-item.cjs `priceEur`/`priceUsd`, techniques.cjs `relatedTechniques`), (2) continue the `gearPriceHistory.js` per-drummer audit into entries not covered by #7055/#7216/#7217/#7218. Personally re-verified every finding from both agents via direct grep/sed against both the fabricated/gap text and `endorsementNews.js`'s verified block before filing, and ran `gh issue list --state all --search` per drummer/file to rule out duplicates (found none — Shannon Larkin/Dirk Verbeuren both have many closed issues fixing *other* files for the same drummer, but never `gearPriceHistory.js`; Navene Koperweis's closest prior fix, #5992, covers `albumArticles.js`'s Tama claim, not this file's opposite-direction DW claim).
+
+**Generator gaps (3 filed, all confirmed REAL via direct grep):**
+- **#7233** — `generate-llms-gear-by-brand.cjs` extracts `genre: d.genre || ''` (line 73) and its own JSDoc (line 55) documents the field, but it's never read again in the markdown-building code — 72/72 drummers have genre populated and it's rendered live on profile/compare/search views.
+- **#7234** — `generate-llms-gear-item.cjs` has zero `price` references anywhere in the file; `priceEur`/`priceUsd` are populated 10/10 and rendered live with Product/Offer JSON-LD schema.
+- **#7235** — `generate-llms-techniques.cjs` renders `masters`/`variations`/`gearRecommendations`/etc. but never `relatedTechniques`, populated 29/29 and cross-linked live; the generator already has the exact list-of-links pattern needed (via `masters`), just never applied to this field.
+
+**gearPriceHistory.js fabrications (4 filed, all confirmed via side-by-side grep against endorsementNews.js):**
+- **#7229** — Shannon Larkin's entire 2002 "Godsmack arrival" rig (Tama Starclassic Performer MX / Sabian HHX / Tama Iron Cobra / Vater signature) is fabricated; verified record has ddrum/Sabian AAX/DW/Vic Firth continuous since 2002 (`from: null` on all 4 timeline entries) — the file's own closing sentence about his "current" setup already states the correct brands, contradicting its own setup block one paragraph earlier.
+- **#7230** — Tomas Haake's summary claims he "moved to Tama Starclassic Maple with Meinl Byzance" by the 2008 ÖBZen era; verified record has him on Sonor SQ2 since 2005 with no subsequent switch. Distinct file/fabrication from today's #7207 (albumArticles.js, 2002 era) — scoped narrowly to avoid conflation.
+- **#7231** — Navene Koperweis's 2011-2012 Animals as Leaders rig is stated as DW Performance Series; verified record has him on Tama Birch Silverstar until the DW switch in 2015 (after he'd already left AAL and formed Entheos) — runs the *opposite* direction from #5992's already-fixed albumArticles.js claim (which had wrongly asserted Tama for a Primal-EP-era that should've been DW; this file wrongly asserts DW for an earlier era that should be Tama).
+- **#7232** — Dirk Verbeuren's sticks field states Vater 5B/Power 5B for 2022; verified record has him on his own Tama O-DVM2 signature stick since a 2016 switch — 9th file for this drummer's fabrication class, but the first to catch the sticks field in `gearPriceHistory.js` specifically (8 prior closed issues fixed 8 other files).
+
+Filed all 7 candidates surfaced by both agents this run — no padding needed, no low-confidence findings dropped (the gearPriceHistory agent's 4 additional "worth filing later" leads — Charlie Benante, Mikkey Dee, Hannes Grossmann, Raymond Herrera — were held back for a future pass rather than filed without the same direct side-by-side verification given to this run's 4).
+
+### Proposals filed this run (7)
+1. #7229 — SEO: Shannon Larkin gearPriceHistory.js fabricates 2002 Tama/Sabian-HHX/Vater rig — verified brand is ddrum/Sabian-AAX/Vic-Firth since 2002
+2. #7230 — SEO: Tomas Haake gearPriceHistory.js fabricates 2008 'moved to Tama' claim — verified 2005 Sonor signing has no Tama switch
+3. #7231 — SEO: Navene Koperweis gearPriceHistory.js fabricates a 2011-2012 DW rig — verified Tama Birch Silverstar until 2015
+4. #7232 — SEO: Dirk Verbeuren gearPriceHistory.js fabricates Vater sticks for 2022 — verified Tama O-DVM2 signature since 2016
+5. #7233 — SEO: generate-llms-gear-by-brand.cjs extracts drummer.genre but never renders it — 72/72 drummers, field already documented in JSDoc
+6. #7234 — SEO: generate-llms-gear-item.cjs never renders priceEur/priceUsd — populated on 10/10 gear items, shown live with Product/Offer schema
+7. #7235 — SEO: generate-llms-techniques.cjs never renders relatedTechniques — 29/29 techniques populated, cross-linked live
+
+### Open proposals waiting on CEO triage
+- #7229-7235 (this run, 7 fresh)
+- #3810/#3819/#2211 (standing umbrellas)
+
+### Next run
+1. Watch #7229-7235 through CEO triage.
+2. `gearPriceHistory.js` per-drummer audit vein remains productive — 4 more lower-confidence leads flagged but not yet independently verified: Charlie Benante (Sabian vs. verified Paiste), Mikkey Dee (Pearl/Vic Firth vs. verified Sonor/Wincent), Hannes Grossmann (DW vs. verified Tama pre-2014), Raymond Herrera (Pearl vs. verified Tama Starclassic for 1995 Demanufacture). Candidates for next pass if the bank needs topping up.
+3. Generator field-gap vein (the productive class since #3651) may finally be exhausted after this run closes #7233-7235 — if the next pass's research agent can't find a 4th fresh generator/field combo, treat that as a signal to pivot fully back to content-fabrication sweeps.
+4. GSC content-gap queries unchanged/held — no re-litigation needed until a fresh query enters the ≥50-impr/CTR<2% bucket.

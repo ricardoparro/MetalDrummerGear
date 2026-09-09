@@ -152,8 +152,9 @@ for (const cat of CATEGORIES) {
     // Drummer list with band attribution
     const drummerList = users
       .map((u) => {
-        const bandSuffix = u.band ? ` (${u.band})` : '';
-        return `[${u.name}${bandSuffix}](/llms/drummers/${drummerSlug(u.name)}.md)`;
+        const details = [u.band, u.genre].filter(Boolean).join(', ');
+        const suffix = details ? ` (${details})` : '';
+        return `[${u.name}${suffix}](/llms/drummers/${drummerSlug(u.name)}.md)`;
       })
       .join(', ');
 

@@ -4966,18 +4966,18 @@ export const GEAR_PRICE_HISTORY = {
         },
       },
       sticks: {
-        item: 'Vic Firth Mike Mangini Signature',
+        item: 'Vater Mike Mangini Wicked Piston (VHMMWP)',
         model: 'Signature model',
         specs: 'Hickory, wood tip',
         originalPrice: 11,
         year: 2011,
-        source: 'Vic Firth signature stick retail pricing 2011',
+        source: 'Vater signature stick retail pricing 2011',
         notes: "Mangini's signature stick balances the weight needed for extended double-bass work with the control required for his intricate hand technique.",
         vintageValue2026: null,
         modernEquivalent: {
-          item: 'Vic Firth Mike Mangini Signature (current)',
+          item: 'Vater Mike Mangini Wicked Piston (VHMMWP) (current)',
           price: 16,
-          link: 'vic-firth-mike-mangini-signature',
+          link: 'vater-wicked-piston',
         },
       },
       heads: {

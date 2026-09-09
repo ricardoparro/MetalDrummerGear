@@ -1353,7 +1353,7 @@ const drummers = [
       snare: 'Pearl Reference 14x5" & 14x6.5" Brass',
       cymbals: 'Sabian HHX & AAX Series (14" HHX Evolution Hi-Hats, 17", 18", 19" HHX Evolution Crashes, 21" HHX Raw Bell Dry Ride)',
       hardware: 'Pearl Demon Drive Double Pedal, Roland SPD-SX Sampling Pad',
-      sticks: 'Vic Firth Mike Mangini Signature'
+      sticks: 'Vater Mike Mangini Wicked Piston (VHMMWP)'
     },
     photos: [
       'https://upload.wikimedia.org/wikipedia/commons/b/bf/Mike_Mangini_at_Moscow_12_Jul_2011_%28cropped%29.jpg'
@@ -1361,7 +1361,7 @@ const drummers = [
     endorsements: [
       { name: 'Pearl Drums', url: 'https://pearldrum.com' },
       { name: 'Sabian Cymbals', url: 'https://www.sabian.com' },
-      { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' }
+      { name: 'Vater Sticks', url: 'https://vater.com' }
     ],
     videos: [
     ]

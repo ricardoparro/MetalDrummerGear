@@ -2188,7 +2188,7 @@ export const ENDORSEMENT_TIMELINE = {
         category: ENDORSEMENT_CATEGORIES.STICKS,
         from: null,
         to: 'Vic Firth',
-        notes: 'Began playing what became his Vic Firth Mike Mangini Signature model, designed around his biomechanical analysis of stick motion',
+        notes: 'Began playing what became his Vater Mike Mangini Wicked Piston (VHMMWP) model, designed around his biomechanical analysis of stick motion',
       },
       {
         year: 2019,

@@ -91695,42 +91695,42 @@ This guide breaks down what actually makes a stick work for progressive metal's 
       pedals: [
         {
           rank: 1,
-          name: "Vic Firth Mike Mangini Signature",
-          brand: "Vic Firth",
-          model: "Signature Series Mike Mangini",
+          name: "Vater Mike Mangini Wicked Piston (VHMMWP)",
+          brand: "Vater",
+          model: "Mike Mangini Wicked Piston (VHMMWP)",
           image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Drumsticks.jpg/640px-Drumsticks.jpg",
           priceRange: "€14-19 (pair)",
           tier: "pro",
           material: "American Hickory",
 
-          description: `Mike Mangini's own Vic Firth signature stick is built around the precision needed to execute Dream Theater's famously complex, constantly-shifting arrangements without losing control at speed. Mangini, who joined Dream Theater in 2010 after a career built on technical drumming clinics and instructional work, plays a stick tuned for the exact control odd-meter passages demand.
+          description: `Mike Mangini's own Vater signature stick, the Wicked Piston (VHMMWP), is built around the precision needed to execute Dream Theater's famously complex, constantly-shifting arrangements without losing control at speed. Mangini, who joined Dream Theater in 2010 after a career built on technical drumming clinics and instructional work, plays a stick tuned for the exact control odd-meter passages demand.
 
-The balanced diameter and oval tip keep rebound fast and predictable, whether Mangini is executing a rapid single-stroke fill or landing a full-band unison accent alongside the rest of Dream Theater.`,
+The front-weighted taper and acorn tip keep rebound fast and predictable, whether Mangini is executing a rapid single-stroke fill or landing a full-band unison accent alongside the rest of Dream Theater.`,
 
           pros: [
             "Mike Mangini's own signature — built for Dream Theater's constantly-shifting technical arrangements",
             "American hickory for durability under demanding technical playing",
-            "Balanced diameter handles both odd-meter fills and unison accents",
-            "Consistent Vic Firth manufacturing quality",
+            "Front-weighted taper handles both odd-meter fills and unison accents",
+            "Consistent Vater USA manufacturing quality",
             "Proven across Mangini's decades of technical drumming instruction and performance"
           ],
           cons: [
-            "Signature pricing above generic American Classic models",
-            "Less widely stocked than standard Vic Firth sizes"
+            "Signature pricing above generic Vater models",
+            "Less widely stocked than standard Vater sizes"
           ],
           specs: {
             material: "American Hickory",
-            diameter: "0.590\"",
-            length: "16\"",
-            tip: "Oval (wood)",
+            diameter: "0.58\"",
+            length: "16.75\"",
+            tip: "Acorn (wood)",
             grip: "Lacquered"
           },
           usedBy: [
-            { name: "Mike Mangini", band: "Dream Theater", note: "Vic Firth signature — precision for constantly-shifting technical arrangements" }
+            { name: "Mike Mangini", band: "Dream Theater", note: "Vater signature — precision for constantly-shifting technical arrangements" }
           ],
           verdict: "The progressive metal precision standard. Mike Mangini's signature stick handles Dream Theater's most technically demanding material without losing control.",
           rating: 4.8,
-          affiliateLink: "https://www.thomann.de/intl/vic_firth_mike_mangini_signature.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/vater_mike_mangini_wicked_piston.htm?partner_id=metalforge"
         },
         {
           rank: 2,
@@ -91893,7 +91893,7 @@ For progressive metal drummers who want more leverage without committing to a he
       title: "Signature Sticks vs Standard Sizes for Progressive Metal",
       content: `Progressive metal's most recognizable drummers overwhelmingly play their own signature sticks — a pattern that reflects how personal stick feel becomes once you're building a career around a specific technical vocabulary. Here's the honest breakdown:
 
-**Signature Models (Vic Firth Mangini/Carey, Promark Portnoy):**
+**Signature Models (Vater Mangini, Vic Firth Carey, Promark Portnoy):**
 - Engineered around one drummer's specific technical demands
 - Often feature distinctive tapers, tips, or weight distribution not found in standard sizes
 - Premium pricing reflects the R&D behind a true signature partnership
@@ -91922,7 +91922,7 @@ For progressive metal drummers who want more leverage without committing to a he
       picks: [
         {
           category: "Best Overall",
-          pedal: "Vic Firth Mike Mangini Signature",
+          pedal: "Vater Mike Mangini Wicked Piston (VHMMWP)",
           reason: "Built for Dream Theater's constantly-shifting technical arrangements. The progressive metal precision standard."
         },
         {

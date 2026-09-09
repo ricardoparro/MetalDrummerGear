@@ -171,8 +171,8 @@ export const articles = {
         },
         {
           "type": "Sticks",
-          "brand": "Vic Firth",
-          "model": "Vic Firth Mike Mangini Signature",
+          "brand": "Vater",
+          "model": "Vater Mike Mangini Wicked Piston (VHMMWP)",
           "notes": "Custom design optimized for Mangini's technique",
           "description": "Mangini's signature sticks are designed around his scientific analysis of stick motion. The weight, balance, and tip shape all reflect specific goals: optimal rebound, consistent feel across the dynamic range, and durability for demanding playing. Every element is intentional."
         },
@@ -265,7 +265,7 @@ export const articles = {
         {
           "category": "Sticks",
           "then": "Various",
-          "now": "Vic Firth Mike Mangini Signature"
+          "now": "Vater Mike Mangini Wicked Piston (VHMMWP)"
         },
         {
           "category": "Electronics",
@@ -321,7 +321,7 @@ export const articles = {
     ],
     "conclusion": {
       "title": "The Academic Approach to Greatness",
-      "content": "Mike Mangini represents something unique in the drumming world: proof that scientific analysis and academic rigor can achieve results on par with raw natural talent. His Guinness World Records, his Berklee professorship, and his Dream Theater tenure all demonstrate that there's more than one path to the top.\n\nThe gear Mangini uses — Pearl Reference Series drums, Sabian cymbals, his signature Vic Firth sticks — is excellent equipment, but it's not what makes him exceptional. What makes him exceptional is the decades of study that allow him to extract maximum performance from any setup. The same biomechanical analysis that enabled his world records informs every aspect of his playing.\n\n**Lessons from Mike Mangini:**\n- **Science serves art**: Analysis and optimization can enhance, not replace, musical expression\n- **Multiple paths exist**: Raw talent and deliberate study can both achieve greatness\n- **Preparation matters**: World records and successful auditions come from disciplined practice\n- **Serve the music**: Even virtuoso technique should prioritize the song over personal showcase\n- **Never stop learning**: A computer science degree, a Berklee professorship, world records — Mangini never settled\n\nMangini's Dream Theater era will be debated alongside Portnoy's contributions. Some fans prefer the instinctive swagger of the original; others appreciate the calculated precision of the replacement. Both perspectives have merit. The beauty of Dream Theater's history is that fans can choose which era resonates with them.\n\nWhat's undeniable is that Mike Mangini belongs in conversations about the greatest drummers in progressive metal. His approach may be different from his peers — more academic, more analyzed, more intentional — but the results speak for themselves. Five Dream Theater albums, world tours, and a legacy as the drummer who proved that science and art can coexist at the highest level.\n\nWhen you watch Mangini navigate Dream Theater's impossible time signatures with mechanical precision and musical expression, you're seeing the culmination of a lifetime dedicated to understanding drumming at its deepest level. That's not just talent. That's science.\n\n🤘 *The Berklee approach to metal domination.* 🤘"
+      "content": "Mike Mangini represents something unique in the drumming world: proof that scientific analysis and academic rigor can achieve results on par with raw natural talent. His Guinness World Records, his Berklee professorship, and his Dream Theater tenure all demonstrate that there's more than one path to the top.\n\nThe gear Mangini uses — Pearl Reference Series drums, Sabian cymbals, his signature Vater Wicked Piston sticks — is excellent equipment, but it's not what makes him exceptional. What makes him exceptional is the decades of study that allow him to extract maximum performance from any setup. The same biomechanical analysis that enabled his world records informs every aspect of his playing.\n\n**Lessons from Mike Mangini:**\n- **Science serves art**: Analysis and optimization can enhance, not replace, musical expression\n- **Multiple paths exist**: Raw talent and deliberate study can both achieve greatness\n- **Preparation matters**: World records and successful auditions come from disciplined practice\n- **Serve the music**: Even virtuoso technique should prioritize the song over personal showcase\n- **Never stop learning**: A computer science degree, a Berklee professorship, world records — Mangini never settled\n\nMangini's Dream Theater era will be debated alongside Portnoy's contributions. Some fans prefer the instinctive swagger of the original; others appreciate the calculated precision of the replacement. Both perspectives have merit. The beauty of Dream Theater's history is that fans can choose which era resonates with them.\n\nWhat's undeniable is that Mike Mangini belongs in conversations about the greatest drummers in progressive metal. His approach may be different from his peers — more academic, more analyzed, more intentional — but the results speak for themselves. Five Dream Theater albums, world tours, and a legacy as the drummer who proved that science and art can coexist at the highest level.\n\nWhen you watch Mangini navigate Dream Theater's impossible time signatures with mechanical precision and musical expression, you're seeing the culmination of a lifetime dedicated to understanding drumming at its deepest level. That's not just talent. That's science.\n\n🤘 *The Berklee approach to metal domination.* 🤘"
     }
   },
   "distance-over-time-drum-setup": {
@@ -494,8 +494,8 @@ export const articles = {
         },
         {
           "type": "Sticks",
-          "brand": "Vic Firth",
-          "model": "Vic Firth Mike Mangini Signature",
+          "brand": "Vater",
+          "model": "Vater Mike Mangini Wicked Piston (VHMMWP)",
           "notes": "Slightly lighter than 5B for speed-focused technique"
         }
       ],
@@ -540,7 +540,7 @@ export const articles = {
           "Sustained performance without vocal guide — pure drum and instrument interplay",
           "Multiple time signature transitions executed without rhythmic disruption"
         ],
-        "gearNotes": "Full Pearl Reference Pure tom spread utilized throughout instrumental passages. Sabian HHX Evolution crashes mark major dynamic transitions. Vic Firth Mangini signature sticks handle delicate and aggressive passages across the piece."
+        "gearNotes": "Full Pearl Reference Pure tom spread utilized throughout instrumental passages. Sabian HHX Evolution crashes mark major dynamic transitions. Vater Mangini Wicked Piston signature sticks handle delicate and aggressive passages across the piece."
       },
       {
         "track": "At Wit's End",
@@ -812,8 +812,8 @@ export const articles = {
         },
         {
           "type": "Sticks",
-          "brand": "Vic Firth",
-          "model": "Vic Firth Mike Mangini Signature",
+          "brand": "Vater",
+          "model": "Vater Mike Mangini Wicked Piston (VHMMWP)",
           "notes": "Custom balance and tip design optimized for Mangini's technique"
         }
       ],
@@ -871,7 +871,7 @@ export const articles = {
           "Sustained energy management across the composition's arc is the defining challenge",
           "Time signature transitions executed across the full album-closing runtime"
         ],
-        "gearNotes": "Full Sabian HHX/AAX cymbal palette utilized across the composition's dynamic range. Pearl Reference Pure six-tom spread provides melodic vocabulary for extended instrumental sections. Vic Firth Mangini signature sticks maintain consistent feel from quiet passages through full-intensity sequences."
+        "gearNotes": "Full Sabian HHX/AAX cymbal palette utilized across the composition's dynamic range. Pearl Reference Pure six-tom spread provides melodic vocabulary for extended instrumental sections. Vater Mangini Wicked Piston signature sticks maintain consistent feel from quiet passages through full-intensity sequences."
       }
     ],
     "faq": [
@@ -1459,8 +1459,8 @@ export const articles = {
         },
         {
           "type": "Sticks",
-          "brand": "Vic Firth",
-          "model": "Vic Firth MM (Mike Mangini) Signature Sticks",
+          "brand": "Vater",
+          "model": "Vater Mike Mangini Wicked Piston (VHMMWP)",
           "notes": "Consistent feel across the album's wide range of dynamic demands"
         }
       ],
@@ -1797,8 +1797,8 @@ export const articles = {
         },
         {
           "type": "Sticks",
-          "brand": "Vic Firth",
-          "model": "Vic Firth MM (Mike Mangini) Signature Sticks",
+          "brand": "Vater",
+          "model": "Vater Mike Mangini Wicked Piston (VHMMWP)",
           "notes": "Mangini's signature model: slightly lighter than a 5B for speed without sacrificing power"
         }
       ],

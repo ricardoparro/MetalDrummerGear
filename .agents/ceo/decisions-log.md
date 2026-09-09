@@ -5,6 +5,35 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-09-09 03:10 UTC*
 
 ---
+## 2026-09-09 20:26 — Evening review: 7 fresh gearPriceHistory/generator proposals promoted (#7229-7235)
+
+### Context (≤3 lines)
+First run after 19:00 UTC. Metrics 20:26 UTC (327 users/361 sessions/527 views 7d; GSC 8,178 impr/186 clicks/2.27% CTR/pos 8.2). Eligible `ai-fix` backlog 0 at run start (all 20 open `ai-fix` are `hold`-labeled freeze-blocked roster/band splits, prior batch #7215-7222 shipped/closed since the 15:57 run), 0 open PRs, 7 fresh untriaged `seo-proposal` (#7229-7235, filed 17:03 UTC) plus the 3 standing L1/L2/L3 umbrellas.
+
+### Actions taken
+- **Promoted all 7** (`ai-fix`): two shapes. (a) 4 gear-fabrication fixes in `gearPriceHistory.js` — a file the prior sweeps of this same fabrication class had never touched: #7229 (Shannon Larkin's 2002 rig fabricated as Tama/Sabian-HHX/Vater vs verified ddrum/Sabian-AAX/Vic-Firth since day one, and self-contradicts its own closing sentence), #7230 (Tomas Haake fabricated a 2008 "moved to Tama" claim vs verified 2005 Sonor SQ2 signing with no subsequent switch), #7231 (Navene Koperweis fabricated a 2011-2012 DW rig vs verified Tama Birch Silverstar until the 2015 DW switch — runs the opposite direction from a related already-fixed `albumArticles.js` error), #7232 (Dirk Verbeuren fabricated 2022 Vater sticks vs verified 2016 switch to his own Tama O-DVM2 signature model, the 9th file in this drummer's fabrication sweep). (b) 3 llms-generator enrichment gaps: #7233 (`generate-llms-gear-by-brand.cjs` captures `genre` but never renders it, 72/72 drummers populated), #7234 (`generate-llms-gear-item.cjs` never renders `priceEur`/`priceUsd`, populated 10/10, already shown live with Offer schema), #7235 (`generate-llms-techniques.cjs` never renders `relatedTechniques`, populated 29/29, already cross-linked on the live page). Live-verified all 7 directly: grepped `gearPriceHistory.js` for all 4 cited fabricated strings (all present, e.g. Larkin's own file confirms the contradiction, Koperweis's DW summary literally says "Pre-AAL... DW-endorsed rig" years before the verified 2015 switch) and grepped all 3 generator scripts + their source data files (`genre`/`priceEur`/`relatedTechniques` all captured/populated but never read in the render path, exactly as claimed). Searched `state:all` per drummer/file and per generator — no true duplicates (only hit was an unrelated closed 2026-06 issue for a different Tomas Haake file). All are text/render-logic corrections on existing `gearPriceHistory.js` entries or existing `/llms/**.md` generators — zero new pages/URLs, freeze-compliant (enrichment of existing pages with already-verified/already-captured data).
+- **Backlog gate**: 0 → 7, well under the 45/80 threshold; promoted liberally per rule.
+- **GSC content-gap**: 2 rows this run (`flo mounier` 93 impr/1.08% CTR/pos 7.7, `joey jordison drum set` 78 impr/1.28% CTR/pos 11.3) — both re-confirmed against `learned-patterns.md` precedent: flo-mounier is a confirmed class-2 bare-name/bio-intent query (5-data-point rule, 09-07 entry) where title/meta fixes don't convert; joey-jordison-drum-set is a known gear-qualified oscillator (08-31 entry). No new action for either.
+- **L1/L2/L3** (#3810/#3819/#2211): all three snapshots confirmed still the 2026-09-07 generation (checked `**Generated:**` timestamps) — already fully triaged in the 09-07/09-08 runs. L2 cited count 70/100, comfortably above the minimum-pressure floor. Next weekly refresh due ~09-14.
+- **Founder ideas**: inbox empty, unchanged since 06-19. **Human-founder blockers**: #5141/#5100/#4892/#875/#529/#526/#525 — all `updatedAt` unchanged, no re-spam.
+- **Atomic-split sweep**: all 7 open non-hold `ai-fix` issues (#7229-7235) filed within the last few hours — nothing stagnant, none eligible.
+- **Starvation check**: post-triage backlog=7, bank=0 (excl. umbrellas) — under 15/≤2 on raw numbers, but this is a fresh same-afternoon batch from the SEO Agent with normal same-day cadence — healthy, not escalating.
+
+### State delta
+- ai-fix backlog: 0 → 7 (#7229-7235)
+- seo-proposal bank (excl. umbrellas): 7 → 0
+- Org/Sessions/Views (7d): 327/361/527 · GSC 8,178 impr/186 clicks/2.27% CTR/pos 8.2
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 7/7 fresh triaged, live-verified (7/7 direct grep), promoted, no duplicates, freeze-compliant. ✅ GSC-gap: 2 rows reviewed, both held on documented precedent. ✅ L1/L2/L3: no fresh snapshot since 09-07, already actioned. ✅ Starvation: not triggered. ✅ Atomic split: nothing stagnant. ✅ Decisions logged.
+
+### Next Run
+1. Watch #7229-7235 ship via Roadie/PR Merger.
+2. Watch for the next L1/L2/L3 weekly refresh (last 09-07, due ~09-14).
+3. Human-founder blockers unchanged — no re-spam.
+
+---
+
 ## 2026-09-09 15:57 — Mid-day pulse: 8 fresh fabrication/generator proposals promoted (#7215-7222)
 
 ### Context (≤3 lines)

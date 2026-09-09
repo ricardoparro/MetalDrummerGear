@@ -106,8 +106,20 @@ A: "Redemption" pairs sustained, metronomically even double-bass — built on th
 
 A: Threads of Life debuted at No. 46 on the Billboard 200, selling approximately 24,000 copies in its first week — Shadows Fall's first album released through Atlantic Records following the band's major-label signing. While it did not match The War Within's No. 43 debut, the Grammy nomination for "Redemption" made it one of the most critically recognized records of Bittner's Shadows Fall tenure.
 
+## Related Articles
+
+- [How to Play Double Bass Drums for Metal](https://metalforge.io/articles/double-bass-drumming-for-metal)
+- [Jason Bittner's Drum Kit & Gear Setup — Shadows Fall / Overkill](https://metalforge.io/articles/jason-bittner-drum-setup)
+- [Jason Bittner's Drum Setup on Shadows Fall's The War Within (2004)](https://metalforge.io/articles/the-war-within-drum-setup)
+- [Jason Bittner's Drum Setup on Shadows Fall's The Art of Balance (2002)](https://metalforge.io/articles/art-of-balance-drum-setup)
+
+## Related Drummers
+
+- [Jason Bittner](https://metalforge.io/drummer/jason-bittner)
+- [Charlie Benante](https://metalforge.io/drummer/charlie-benante)
+
 **Source:** https://metalforge.io/articles/threads-of-life-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

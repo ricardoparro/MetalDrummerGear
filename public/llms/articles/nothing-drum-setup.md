@@ -107,8 +107,21 @@ A: The drum setup on Nothing (2002) and obZen (2008) is built on the same founda
 
 A: Yes, Nothing (2002) was the first Meshuggah album recorded with 8-string guitars — Fredrik Thordendal and Mårten Hagström used custom 8-string instruments tuned to F# standard, which at the time was an almost unprecedented choice in metal production. The extreme downtuning created a sonic density that demanded a corresponding recalibration of the drum approach. Tomas Haake's polyrhythmic patterns on Nothing function partly as a response to the guitar sonic mass — the drums needed to cut through, anchor, and interact with frequencies far lower than conventional metal had previously explored. This sonic territory set the stage for the djent movement's subsequent use of extended-range guitars.
 
+## Related Articles
+
+- [What's In Tomas Haake's Polyrhythmic Arsenal: Complete Gear Breakdown](https://metalforge.io/articles/whats-in-tomas-haakes-kit)
+- [Catch Thirtythree Drum Setup: Tomas Haake's 47-Minute Concept Album (Meshuggah, 2005)](https://metalforge.io/articles/catch-thirtythree-drum-setup)
+- [obZen Drum Setup: Tomas Haake's Legendary "Bleed" Gear Breakdown](https://metalforge.io/articles/obzen-drum-setup)
+- [The Violent Sleep of Reason Drum Setup: Tomas Haake's Live-to-Tape Kit (2016)](https://metalforge.io/articles/violent-sleep-of-reason-drum-setup)
+
+## Related Drummers
+
+- [Danny Carey](https://metalforge.io/drummer/danny-carey)
+- [John Otto](https://metalforge.io/drummer/john-otto)
+- [Brann Dailor](https://metalforge.io/drummer/brann-dailor)
+
 **Source:** https://metalforge.io/articles/nothing-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

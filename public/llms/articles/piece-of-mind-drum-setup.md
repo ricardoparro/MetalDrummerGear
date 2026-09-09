@@ -105,8 +105,22 @@ A: Yes — Piece of Mind (1983) is Nicko McBrain's recording debut with Iron Mai
 
 A: On Piece of Mind, Nicko McBrain used a full Paiste 2002 series cymbal setup: 14" Medium Hi-Hats, 16" and 18" Medium Crashes, a 20" Medium Ride, and an 18" China Type. The Paiste 2002 was the premier professional cymbal of the early 1980s, known for its bright, articulate character and consistent quality. The 2002s suited Iron Maiden's production style perfectly — clear stick definition on the hi-hats for fast galloping patterns, quick-response crashes for musical accents, and a defined ride bell for extended ride sections. Nicko continued using Paiste 2002 cymbals on the subsequent Powerslave album (1984) before eventually transitioning to the Paiste Signature series later in his career.
 
+## Related Articles
+
+- [Top 10 Thrash Metal Drummers](https://metalforge.io/lists/thrash-metal-drummers)
+- [Top 10 Most Innovative Metal Drummers](https://metalforge.io/lists/most-innovative-drummers)
+- [Number of the Beast Drum Setup: The Gear Behind Clive Burr's Performance (& Nicko's Legacy)](https://metalforge.io/articles/number-of-the-beast-drum-setup)
+- [Powerslave Drum Setup: Nicko McBrain's Gear on Iron Maiden's 1984 Live-Era Masterpiece](https://metalforge.io/articles/powerslave-drum-setup)
+- [Seventh Son of a Seventh Son Drum Setup: Nicko McBrain's Most Dynamic Pre-90s Performance (1988)](https://metalforge.io/articles/seventh-son-drum-setup)
+
+## Related Drummers
+
+- [Lars Ulrich](https://metalforge.io/drummer/lars-ulrich)
+- [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo)
+- [Charlie Benante](https://metalforge.io/drummer/charlie-benante)
+
 **Source:** https://metalforge.io/articles/piece-of-mind-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

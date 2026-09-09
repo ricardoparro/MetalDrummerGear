@@ -108,8 +108,22 @@ A: Limp Bizkit's cover of The Who's "Behind Blue Eyes" on "Results May Vary" (20
 
 A: John Otto used Zildjian A Series and A Custom Series cymbals on "Results May Vary" (2003) — 14" hi-hats, 16" A Custom and 18" A Series crashes, a 20" A Series ride, and an 18" A Series China, used more sparingly than on earlier, more purely aggressive Limp Bizkit records. The A Custom crash's faster response suited the album's more melodic, alternative-rock-leaning material. See: [John Otto at MetalForge](/drummer/john-otto). Context: [nu-metal drummers top 10](/top10/nu-metal-drummers).
 
+## Related Articles
+
+- [Top 10 Nu-Metal Drummers](https://metalforge.io/lists/nu-metal-drummers)
+- [John Otto Drum Setup: Limp Bizkit's 'Chocolate Starfish' (2000) Gear Breakdown](https://metalforge.io/articles/chocolate-starfish-drum-setup)
+- [John Otto Drum Setup: Limp Bizkit's 'Gold Cobra' (2011) Gear Breakdown](https://metalforge.io/articles/gold-cobra-drum-setup)
+- [John Otto Drum Setup: Limp Bizkit's 'Three Dollar Bill, Y'all$' (1997) Gear Breakdown](https://metalforge.io/articles/three-dollar-bill-yall-drum-setup)
+- [John Otto's Drum Setup — Limp Bizkit's Complete Drum Kit Guide](https://metalforge.io/articles/john-otto-drum-setup)
+
+## Related Drummers
+
+- [Joey Jordison](https://metalforge.io/drummer/joey-jordison)
+- [Ray Luzier](https://metalforge.io/drummer/ray-luzier)
+- [Hellhammer](https://metalforge.io/drummer/hellhammer)
+
 **Source:** https://metalforge.io/articles/results-may-vary-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

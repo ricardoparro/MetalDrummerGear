@@ -108,8 +108,21 @@ A: Navene Koperweis has played with Animosity (2003–2008), Animals as Leaders 
 
 A: Navene Koperweis recorded Weightless (2011) with Animals as Leaders — the band's second album and considered a landmark of the djent genre. His riff-locked double bass approach, where the kick drum pattern mirrors the guitar riff's specific rhythmic subdivision rather than a generic template, helped define how djent drumming would be played. He also received a production credit on The Joy of Motion (2014) after leaving the band.
 
+## Related Articles
+
+- [Top 10 Progressive Metal Drummers](https://metalforge.io/lists/progressive-metal-drummers)
+- [Top 10 Fastest Double Bass Drummers in Metal History](https://metalforge.io/lists/fastest-double-bass-drummers)
+- [What's In Gene Hoglan's Atomic Arsenal: Complete Gear Breakdown](https://metalforge.io/articles/whats-in-gene-hoglans-kit)
+- [obZen Drum Setup: Tomas Haake's Legendary "Bleed" Gear Breakdown](https://metalforge.io/articles/obzen-drum-setup)
+
+## Related Drummers
+
+- [Gene Hoglan](https://metalforge.io/drummer/gene-hoglan)
+- [Tomas Haake](https://metalforge.io/drummer/tomas-haake)
+- [Matt Halpern](https://metalforge.io/drummer/matt-halpern)
+
 **Source:** https://metalforge.io/articles/whats-in-navene-koperweiss-kit
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

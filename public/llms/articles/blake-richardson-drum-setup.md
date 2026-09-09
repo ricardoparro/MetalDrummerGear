@@ -121,8 +121,19 @@ A: Blake Richardson uses the Tama Iron Cobra Power Glide double pedal. The Tama 
 
 A: For drummers studying Blake Richardson's technique, three albums are essential. Colors (2007) is the foundational document — 'Prequel to the Sequel' demonstrates his 7/8 odd-time integration at its most musical, and the full album covers the complete BTBAM genre-shifting template. The Parallax II: Future Sequence (2012) contains his most compositionally developed performances — 'Telos' for fill architecture and 'Lay Your Ghosts to Rest' for compositional double-bass approach. Automata I & II (2018) represents the mature version of his technique in a more produced context. All three albums reward deep repeated listening: BTBAM's arrangements are dense enough that multiple listens reveal rhythmic details that aren't immediately obvious.
 
+## Related Articles
+
+- [Blackwater Park Drum Setup: Martin Lopez's Opeth Masterpiece](https://metalforge.io/articles/blackwater-park-drum-setup)
+- [Martin Lopez Drum Setup — Opeth & Soen Gear Guide](https://metalforge.io/articles/martin-lopez-drum-setup)
+
+## Related Drummers
+
+- [Travis Orbin](https://metalforge.io/drummer/travis-orbin)
+- [Igor Cavalera](https://metalforge.io/drummer/igor-cavalera)
+- [Danny Carey](https://metalforge.io/drummer/danny-carey)
+
 **Source:** https://metalforge.io/articles/blake-richardson-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

@@ -114,8 +114,20 @@ A: Derek Roddy uses Meinl Byzance and Mb20 Heavy Series cymbals. His setup inclu
 
 A: Derek Roddy's Tama Starclassic Bubinga shell pack is estimated at $3,000 to $5,000 new. His Tama SLP Black Brass snare adds approximately $300 to $600. The Meinl Byzance and Mb20 Heavy cymbal setup runs roughly $1,400 to $2,200 complete. A full comparable setup including hardware and pedals can total between $6,000 and $10,000.
 
+## Related Articles
+
+- [Altars of Madness Drum Setup: Pete Sandoval's Death Metal Genesis](https://metalforge.io/articles/altars-of-madness-drum-setup)
+- [Symbolic Drum Setup: Gene Hoglan's Death Masterpiece](https://metalforge.io/articles/symbolic-drum-setup)
+- [None So Vile Drum Setup: Flo Mounier's Technical Death Metal Landmark](https://metalforge.io/articles/none-so-vile-drum-setup)
+
+## Related Drummers
+
+- [George Kollias](https://metalforge.io/drummer/george-kollias)
+- [Gene Hoglan](https://metalforge.io/drummer/gene-hoglan)
+- [Ray Luzier](https://metalforge.io/drummer/ray-luzier)
+
 **Source:** https://metalforge.io/articles/whats-in-derek-roddys-kit
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

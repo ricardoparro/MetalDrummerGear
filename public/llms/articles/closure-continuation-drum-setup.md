@@ -92,8 +92,13 @@ A: Closure/Continuation debuted at #2 on the UK Albums Chart — Porcupine Tree'
 
 A: Yes. Gavin Harrison has been Porcupine Tree's sole drummer since joining in 2002 for In Absentia, and he remained behind the kit for the band's full discography through Closure/Continuation. Any question about Porcupine Tree's drum gear, across any era of the band, routes back to Harrison's Sonor and Zildjian setup.
 
+## Related Articles
+
+- [Gavin Harrison's Drum Setup on Porcupine Tree's The Incident (2009)](https://metalforge.io/articles/the-incident-drum-setup)
+- [Porcupine Tree Fear of a Blank Planet Drum Setup: Gavin Harrison's 2007 Gear](https://metalforge.io/articles/fear-of-a-blank-planet-drum-setup)
+
 **Source:** https://metalforge.io/articles/closure-continuation-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

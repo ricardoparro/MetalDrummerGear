@@ -98,8 +98,20 @@ A: On *I Worship Chaos* (2015), Jaska Raatikainen used the Zildjian A Custom and
 
 A: *I Worship Chaos* (2015) is the first CoB album produced by Mikko Karmila rather than Anssi Kippo, but the instrument itself did not change — Raatikainen continued playing the same Pearl Masters Premium Maple kit, Zildjian A Custom/K Custom cymbals, and Pearl Eliminator pedal used since *Are You Dead Yet?* (2005). Karmila's fresh approach to Sonic Pump Studios gives the album a different production character from the Kippo-era records, even with identical gear. For the full arc, see the [Follow the Reaper drum setup](/articles/follow-the-reaper-drum-setup) and the [Hate Crew Deathroll drum setup](/articles/hate-crew-deathroll-drum-setup).
 
+## Related Articles
+
+- [Jaska Raatikainen Drum Setup — Children of Bodom Gear Guide](https://metalforge.io/articles/jaska-raatikainen-drum-setup)
+- [Relentless Reckless Forever Drum Setup: Jaska Raatikainen's Gear on Children of Bodom's 2011 Album](https://metalforge.io/articles/relentless-reckless-forever-drum-setup)
+- [Blooddrunk Drum Setup: Jaska Raatikainen's Gear on Children of Bodom's 2008 Album](https://metalforge.io/articles/blooddrunk-drum-setup)
+- [Follow the Reaper Drum Setup: Jaska Raatikainen's Gear on Children of Bodom's 2000 Album](https://metalforge.io/articles/follow-the-reaper-drum-setup)
+- [Hate Crew Deathroll Drum Setup: Jaska Raatikainen's Gear on Children of Bodom's 2003 Album](https://metalforge.io/articles/hate-crew-deathroll-drum-setup)
+
+## Related Drummers
+
+- [Jaska Raatikainen](https://metalforge.io/drummer/jaska-raatikainen)
+
 **Source:** https://metalforge.io/articles/i-worship-chaos-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

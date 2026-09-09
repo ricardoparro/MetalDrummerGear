@@ -100,8 +100,20 @@ A: "Scourge of Iron" is one of the most frequently cited tracks on Torture, buil
 
 A: Torture marked the first time Cannibal Corpse tracked drums, bass, and rhythm guitars at Sonic Ranch Studios in Tornillo, Texas, after two consecutive albums — Kill (2006) and Evisceration Plague (2009) — recorded entirely at Erik Rutan's own Mana Recording Studios. Guitar solos, additional guitar, vocals, and the final mix were still completed at Mana, keeping Rutan's production identity consistent across the change in tracking room.
 
+## Related Articles
+
+- [Top 10 Death Metal Drummers](https://metalforge.io/lists/death-metal-drummers)
+- [Paul Mazurkiewicz's Drum Setup on Cannibal Corpse's Evisceration Plague (2009)](https://metalforge.io/articles/evisceration-plague-drum-setup)
+- [Paul Mazurkiewicz's Drum Setup on Cannibal Corpse's Kill (2006)](https://metalforge.io/articles/kill-drum-setup)
+- [Paul Mazurkiewicz's Drum Setup on Cannibal Corpse's 'A Skeletal Domain' (2014)](https://metalforge.io/articles/skeletal-domain-drum-setup)
+- [Paul Mazurkiewicz Drum Setup — Cannibal Corpse Gear Guide](https://metalforge.io/articles/paul-mazurkiewicz-drum-setup)
+
+## Related Drummers
+
+- [Paul Mazurkiewicz](https://metalforge.io/drummer/paul-mazurkiewicz)
+
 **Source:** https://metalforge.io/articles/torture-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

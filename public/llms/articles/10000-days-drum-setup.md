@@ -25,7 +25,7 @@ Danny's drumming on this album represents the zenith of his Lateralus-era setup,
 - **Drums:** Sonor Sonor SQ2 Custom (Custom High Gloss Natural with Reinforcement Rings finish)
 - **Snare:** Sonor Sonor Danny Carey Signature Bronze Snare, 14" x 8"
 - **Cymbals:** Paiste — Paiste 2002 / Paiste Signature
-- **Hardware / Pedals:** Roland SPD-S Sampling Pad; DW 9000 Series Single Pedal; DW 9000 Series Hi-Hat Stand; Roc-N-Soc Nitro Throne (extended height); Vic Firth Danny Carey Signature
+- **Hardware / Pedals:** Roland SPD-S Sampling Pad; Unconfirmed; Unconfirmed; Roc-N-Soc Nitro Throne (extended height); Vic Firth Danny Carey Signature
 - **Heads:** Remo Coated Ambassador (batter), Remo Ambassador Snare Side (resonant)
 - **Snare tuning:** Medium-high tension for crack and projection, moderate snare wire tension for ghost note sensitivity
 
@@ -106,8 +106,21 @@ A: Danny Carey used a combination of Paiste Signature and Paiste 2002 series cym
 
 A: 10,000 Days marked Danny Carey's first substantive use of electronic percussion in Tool's studio recordings, integrating a Roland SPD-S sampling pad alongside his acoustic Sonor SQ2 kit. The SPD-S allowed him to trigger ambient samples and textural elements — most notably on the title suite "10,000 Days (Wings Pt. 1 & 2)." This was an early step toward the deeper Mandala pad integration that would define the Fear Inoculum sessions thirteen years later.
 
+## Related Articles
+
+- [Top 10 Progressive Metal Drummers](https://metalforge.io/lists/progressive-metal-drummers)
+- [Lateralus Drum Setup: Danny Carey's Progressive Masterpiece](https://metalforge.io/articles/lateralus-drum-setup)
+- [Fear Inoculum Drum Setup: Danny Carey's Grammy-Winning Sound](https://metalforge.io/articles/fear-inoculum-drum-setup)
+- [What's In Danny Carey's Mind-Bending Kit: Complete Gear Breakdown](https://metalforge.io/articles/whats-in-danny-careys-kit)
+
+## Related Drummers
+
+- [Tomas Haake](https://metalforge.io/drummer/tomas-haake)
+- [Mario Duplantier](https://metalforge.io/drummer/mario-duplantier)
+- [Chris Adler](https://metalforge.io/drummer/chris-adler)
+
 **Source:** https://metalforge.io/articles/10000-days-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

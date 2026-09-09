@@ -1,6 +1,6 @@
 # The Gray Chapter — Slipknot Drum Setup (Jay Weinberg, 2014)
 
-> Jay Weinberg's Slipknot debut: Pearl Reference Pure kit in natural finish, Evans heads, Zildjian A series cymbals, DW 9000 double pedal. Complete gear breakdown for .5: The Gray Chapter (2014).
+> Jay Weinberg's Slipknot debut: SJC Custom Drums kit, Evans heads, Zildjian A series cymbals, DW 9000 double pedal. Complete gear breakdown for .5: The Gray Chapter (2014).
 
 **Type:** Album Drum Setup
 **Drummer(s):** [Jay Weinberg](/llms/drummers/jay-weinberg.md)
@@ -18,32 +18,32 @@ The result was *.5: The Gray Chapter*, released October 17, 2014 on Roadrunner R
 
 Weinberg's debut on record is assured, precise, and relentlessly physical. Tracks like "The Devil in I," "Custer," and "Killpop" demonstrate his ability to serve Slipknot's arrangements — groove-locked verses, explosive choruses, and the kind of full-kit dynamics the band demands — while establishing his own muscular voice behind the kit.
 
-This article breaks down the drum gear Jay Weinberg used on *.5: The Gray Chapter*: his Pearl Reference Pure kit in natural finish, Zildjian A series cymbals, DW 9000 double bass pedal, Evans heads, and Vic Firth sticks — the setup that introduced him to Slipknot's global audience and defined the first chapter of his nine-year tenure with the band. For his full career gear overview, see the [Jay Weinberg complete drum setup guide](/articles/jay-weinberg-complete-drum-setup).
+This article breaks down the drum gear Jay Weinberg used on *.5: The Gray Chapter*: his SJC Custom Drums kit — an endorsement he'd held since 2009, five years before joining Slipknot — Zildjian A series cymbals, DW 9000 double bass pedal, Evans heads, and Vater sticks — the setup that introduced him to Slipknot's global audience and defined the first chapter of his nine-year tenure with the band. For his full career gear overview, see the [Jay Weinberg complete drum setup guide](/articles/jay-weinberg-complete-drum-setup).
 
 ## Gear Breakdown
 
-- **Drums:** Pearl Pearl Reference Pure (Natural finish finish)
-- **Snare:** Pearl Pearl Reference Pure 14" Snare, 14" x 6.5"
+- **Drums:** SJC Custom Drums SJC Custom Series (Two rigs: an all-mirrored maple "A-rig" and a stained bubinga "B-rig" finish)
+- **Snare:** SJC Custom Drums SJC Custom Drums 14" Snare, 14" x 6.5"
 - **Cymbals:** Zildjian — Zildjian A Series
-- **Hardware / Pedals:** DW 9000 Series Double Bass Pedal; Pearl Hardware Series; Vic Firth Jay Weinberg Signature; Evans EC2 and EMAD series
+- **Hardware / Pedals:** DW 9000 Series Double Bass Pedal; SJC Hardware; Vater 5B; Evans EC2 and EMAD series
 - **Heads:** Evans EC2 Coated (batter), Evans 300 Snare Side (resonant)
 - **Snare tuning:** Medium tension for balanced crack and sustain through Fidelman production
 
-### Pearl Reference Pure: Jay's Debut Slipknot Kit
+### SJC Custom Drums: Jay's Debut Slipknot Kit
 
-Jay Weinberg's choice of the Pearl Reference Pure for his Slipknot debut reflected both his professional preparation and the practical demands of the Gray Chapter sessions. The Reference Pure is Pearl's flagship acoustic drum line — a multi-species shell kit (maple and birch hybrid) that delivers the focused attack, controlled sustain, and tonal clarity required in a dense production environment like a Slipknot studio record.
+Jay Weinberg's choice of SJC Custom Drums for his Slipknot debut wasn't a new relationship — he'd already been an SJC artist since 2009, five years before joining the band. SJC (Scott Johnson Customs), a hand-built boutique drum maker based in Marlborough, Massachusetts, built Weinberg two rigs for the Gray Chapter era: an all-mirrored maple "A-rig" and a stained bubinga "B-rig," giving him two distinct tonal and visual options for the touring and recording demands of a new Slipknot chapter.
 
-The natural finish Reference Pure presented a visual departure from the heavily customized, masked aesthetic of earlier Slipknot drum kits. It signalled something about Weinberg's approach to the role: he came in as a professional craftsman, focused on the music, letting the performance speak rather than competing with the production's theatrical elements.
+The maple A-rig delivers warmth and punch with a bright, mirrored finish; the bubinga B-rig, built from a denser tonewood, produces a darker, more focused attack with a stained natural look — a visual departure from the heavily customized, masked aesthetic of earlier Slipknot drum kits. It signalled something about Weinberg's approach to the role: he came in as a professional craftsman, focused on the music, letting the performance speak rather than competing with the production's theatrical elements.
 
-Maple shells in the Reference Pure provide warmth and punch, while the birch content tightens the attack and adds brightness — particularly useful in the high-volume, heavily compressed context of a Fidelman production. The result is a kit that sits well in the mix without needing excessive EQ manipulation, allowing Weinberg's dynamic range to translate faithfully from the live room to the final record.
+SJC's hand-built shells give each kit a musical character suited to the high-volume, heavily compressed context of a Fidelman production. The result is a kit that sits well in the mix without needing excessive EQ manipulation, allowing Weinberg's dynamic range to translate faithfully from the live room to the final record.
 
-The double 22" bass drum configuration continued the Slipknot tradition established by Jordison across the band's earlier records. Weinberg's double-kick technique was developed extensively in his hardcore touring years, but the Gray Chapter sessions pushed that technique into sustained 4/4 double-bass patterns at the extreme tempos Slipknot's fastest material demands. The Reference Pure kick shells provided the resonant low end to handle these patterns with authority.
+The double 22" bass drum configuration continued the Slipknot tradition established by Jordison across the band's earlier records. Weinberg's double-kick technique was developed extensively in his hardcore touring years, but the Gray Chapter sessions pushed that technique into sustained 4/4 double-bass patterns at the extreme tempos Slipknot's fastest material demands. The SJC kick shells provided the resonant low end to handle these patterns with authority.
 
 Tom placement across four rack toms (8", 10", 12", 14") and one floor tom gave Weinberg the orchestral fill range that Slipknot arrangements require — particularly on sprawling tracks like "Killpop" and "The Devil in I," where the kit becomes a melodic voice alongside the band's layered guitars and percussion.
 
 ### The Gray Chapter Crack: Jay's 14" Snare
 
-The snare sound on *.5: The Gray Chapter* is one of the defining sonic signatures of Weinberg's debut — a sharp, focused crack that cuts through Greg Fidelman's dense wall of guitars without triggering fatigue across a full listen. Weinberg used a Pearl Reference Pure 14" snare, matching the shell material of his main kit for consistent tonal character.
+The snare sound on *.5: The Gray Chapter* is one of the defining sonic signatures of Weinberg's debut — a sharp, focused crack that cuts through Greg Fidelman's dense wall of guitars without triggering fatigue across a full listen. Weinberg used an SJC Custom Drums 14" snare, matching the shell material of his main kit for consistent tonal character.
 
 The 14" diameter is the standard professional choice for metal drumming — wide enough to produce a full fundamental note but focused enough to cut through a heavy mix. At 6.5" depth, the snare delivers substantial body with controlled sustain, avoiding the boominess of deeper shells without losing the musicality of a wooden instrument.
 
@@ -65,7 +65,7 @@ The A series 18" China cymbal continued the nu-metal tradition established by Jo
 
 *.5: The Gray Chapter* stands as one of the more remarkable debut recordings in recent metal history. Jay Weinberg entered Slipknot at 22, replaced a founding member under intense scrutiny, and delivered an album that debuted at #1 in the UK and established his credibility with one of the world's most demanding metal audiences.
 
-The Pearl Reference Pure kit, DW 9000 double pedal, Zildjian A series cymbals, and Evans heads were not exotic or experimental choices — they were the right professional tools for a drummer who needed reliability and consistency in high-pressure sessions. Weinberg's gear selection for the Gray Chapter reflects a musician focused on the performance, not the spectacle.
+The SJC Custom Drums kit, DW 9000 double pedal, Zildjian A series cymbals, and Evans heads were not exotic or experimental choices — they were the right professional tools for a drummer who needed reliability and consistency in high-pressure sessions. Weinberg's SJC endorsement predated Slipknot itself by five years, and his gear selection for the Gray Chapter reflects a musician focused on the performance, not the spectacle.
 
 What the Gray Chapter drum performances demonstrate is the foundation that would carry Weinberg through nine years with Slipknot: technical precision in service of the song, dynamic intelligence that goes beyond pure aggression, and the physical endurance to sustain extreme tempos across a full-album session.
 
@@ -78,22 +78,22 @@ See [We Are Not Your Kind drum setup](/articles/we-are-not-your-kind-drum-setup)
 - Jay Weinberg joined Slipknot in 2013, replacing Joey Jordison at age 22
 - Recorded at Shangri-La Studios, Malibu with producer Greg Fidelman
 - Album debuted #1 UK, #5 US — Slipknot's highest US chart position at the time
-- Pearl Reference Pure kit in natural finish — boutique-grade shells for the debut
+- SJC Custom Drums kit — an endorsement Weinberg had held since 2009, five years before joining Slipknot
 - DW 9000 double pedal for Slipknot's extreme double-kick demands
 - Evans heads and Zildjian A series cymbals across the recording
-- Pearl Reference Pure — flagship multi-species maple/birch hybrid shells
-- Natural finish — understated visual identity for the debut record
+- SJC Custom Drums — endorsement held since 2009, five years before joining Slipknot
+- Two rigs built for the Gray Chapter era: mirrored maple A-rig and stained bubinga B-rig
 - Double 22" kick configuration continues Slipknot double-bass tradition
 - Four rack toms plus floor tom for full melodic fill range
-- Shell construction optimised for dense, compressed metal production
-- Estimated kit value: $3,500–5,000 (Pearl Reference Pure shell pack, 2014)
-- Estimated snare value: $400–550 (Pearl Reference Pure snare, 2014)
+- Hand-built shell construction optimised for dense, compressed metal production
+- Estimated kit value: $4,000–8,000 (SJC Custom shell pack, 2014)
+- Estimated snare value: $400–550 (SJC Custom snare, 2014)
 
 ## Frequently Asked Questions
 
 **Q: What drums does Jay Weinberg use on The Gray Chapter?**
 
-A: Jay Weinberg used a Pearl Reference Pure kit in natural finish on .5: The Gray Chapter (2014). The setup featured double 22" bass drums, four rack toms (8", 10", 12", 14"), and a 16" floor tom with a 14" x 6.5" Pearl Reference Pure snare. The Reference Pure's maple/birch hybrid shells provided focused attack and controlled sustain suited to Greg Fidelman's production approach at Shangri-La Studios.
+A: Jay Weinberg used an SJC Custom Drums kit on .5: The Gray Chapter (2014) — two rigs, an all-mirrored maple "A-rig" and a stained bubinga "B-rig" — an endorsement he'd held since 2009, five years before joining Slipknot. The setup featured double 22" bass drums, four rack toms (8", 10", 12", 14"), and a 16" floor tom with a 14" x 6.5" SJC Custom Drums snare. The hand-built shells provided focused attack and controlled sustain suited to Greg Fidelman's production approach at Shangri-La Studios.
 
 **Q: When did Jay Weinberg join Slipknot?**
 
@@ -107,8 +107,20 @@ A: Jay Weinberg used Zildjian A series cymbals on The Gray Chapter, including 14
 
 A: Jay Weinberg uses the DW 9000 Series double bass pedal for Slipknot, including on The Gray Chapter. The DW 9000's dual-chain drive mechanism and adjustable cam profile give Weinberg the consistent, high-speed response needed for Slipknot's extreme double-kick demands. The 9000 was also used by Joey Jordison during his Slipknot tenure, making it a natural continuation for a drummer stepping into the band's established double-bass tradition.
 
+## Related Articles
+
+- [Jay Weinberg Drum Setup — Slipknot's Complete Gear Guide](https://metalforge.io/articles/jay-weinberg-complete-drum-setup)
+- [We Are Not Your Kind — Slipknot Drum Setup (Jay Weinberg, 2019)](https://metalforge.io/articles/we-are-not-your-kind-drum-setup)
+- [Iowa Drum Setup: Joey Jordison's Gear Breakdown](https://metalforge.io/articles/iowa-drum-setup)
+
+## Related Drummers
+
+- [Joey Jordison](https://metalforge.io/drummer/joey-jordison)
+- [Jay Weinberg](https://metalforge.io/drummer/jay-weinberg)
+- [George Kollias](https://metalforge.io/drummer/george-kollias)
+
 **Source:** https://metalforge.io/articles/the-gray-chapter-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

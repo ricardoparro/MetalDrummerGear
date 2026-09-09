@@ -122,8 +122,21 @@ A: Mike Portnoy used Sabian AA series cymbals on Images and Words, continuing th
 
 A: At the time of the 1992 recording, the Tama Artstar II Custom kit was valued at around $3,500 to $5,000. Today, vintage Artstar II kits in playable condition can be found on the used market for $700 to $2,500. Vintage Sabian AA cymbals from that era add another $400 to $1,200 used. Reproducing the full Images and Words setup with vintage gear typically costs between $1,100 and $3,700 today.
 
+## Related Articles
+
+- [Top 10 Progressive Metal Drummers](https://metalforge.io/lists/progressive-metal-drummers)
+- [Lateralus Drum Setup: Danny Carey's Progressive Masterpiece](https://metalforge.io/articles/lateralus-drum-setup)
+- [obZen Drum Setup: Tomas Haake's Legendary "Bleed" Gear Breakdown](https://metalforge.io/articles/obzen-drum-setup)
+- [Master of Puppets Drum Setup: Lars Ulrich's Gear Breakdown](https://metalforge.io/articles/master-of-puppets-drum-setup)
+
+## Related Drummers
+
+- [Danny Carey](https://metalforge.io/drummer/danny-carey)
+- [Tomas Haake](https://metalforge.io/drummer/tomas-haake)
+- [Lars Ulrich](https://metalforge.io/drummer/lars-ulrich)
+
 **Source:** https://metalforge.io/articles/images-and-words-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

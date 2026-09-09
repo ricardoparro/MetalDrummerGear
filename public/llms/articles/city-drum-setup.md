@@ -112,8 +112,22 @@ A: The drum sound on Strapping Young Lad's City was created by Devin Townsend at
 
 A: City (1997) is widely considered a direct precursor to the djent movement. Devin Townsend and Gene Hoglan established on City the same core aesthetic that Meshuggah would formalize in the early 2000s and that Periphery, Animals as Leaders, and other djent bands would popularize after 2008: human drumming executed with machine-grade precision, integrated with industrial production values, creating a rhythmic character that sounds simultaneously human and mechanical. The blast beat architecture, the electronic pad integration, and Hoglan's absolute metronomic precision on City demonstrated that extreme metal drumming could serve as the foundation for this industrial-mechanical aesthetic.
 
+## Related Articles
+
+- [Gene Hoglan Drum Setup: The Atomic Clock Complete Gear Guide](https://metalforge.io/articles/gene-hoglan-drum-setup)
+- [What's In Gene Hoglan's Atomic Arsenal: Complete Gear Breakdown](https://metalforge.io/articles/whats-in-gene-hoglans-kit)
+- [Top 10 Extreme Metal Drummers](https://metalforge.io/lists/extreme-metal-drummers)
+- [Individual Thought Patterns Drum Setup: Gene Hoglan's First Death Album](https://metalforge.io/articles/individual-thought-patterns-drum-setup)
+- [Symbolic Drum Setup: Gene Hoglan's Death Masterpiece](https://metalforge.io/articles/symbolic-drum-setup)
+
+## Related Drummers
+
+- [Gene Hoglan](https://metalforge.io/drummer/gene-hoglan)
+- [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo)
+- [George Kollias](https://metalforge.io/drummer/george-kollias)
+
 **Source:** https://metalforge.io/articles/city-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

@@ -107,8 +107,22 @@ A: Hell Awaits is the bridge album in Lombardo's most important developmental ar
 
 A: "Crypts of Eternity" is among the fastest thrash metal recordings of 1985, with sustained double bass patterns at approximately 240 BPM. The title track "Hell Awaits" spans the full dynamic range from a slow doom intro at around 80 BPM to full thrash velocity above 200 BPM, with the tempo acceleration navigated without a click track. These speeds anticipated the blast beat vocabulary that Reign in Blood would make famous and that early death metal bands would adopt as their own.
 
+## Related Articles
+
+- [Top 10 Thrash Metal Drummers](https://metalforge.io/lists/thrash-metal-drummers)
+- [Top 10 Fastest Double Bass Drummers in Metal History](https://metalforge.io/lists/fastest-double-bass-drummers)
+- [Dave Lombardo's Drum Setup on Slayer's Show No Mercy (1983)](https://metalforge.io/articles/show-no-mercy-drum-setup)
+- [Reign in Blood Drum Setup: Dave Lombardo's Gear Breakdown](https://metalforge.io/articles/reign-in-blood-drum-setup)
+- [What's In Dave Lombardo's Kit in 2026: The Godfather of Double Bass](https://metalforge.io/articles/whats-in-dave-lombardos-kit)
+
+## Related Drummers
+
+- [Lars Ulrich](https://metalforge.io/drummer/lars-ulrich)
+- [Charlie Benante](https://metalforge.io/drummer/charlie-benante)
+- [Pete Sandoval](https://metalforge.io/drummer/pete-sandoval)
+
 **Source:** https://metalforge.io/articles/hell-awaits-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

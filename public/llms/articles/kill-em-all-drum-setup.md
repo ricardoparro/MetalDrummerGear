@@ -110,8 +110,20 @@ A: Kill 'Em All was recorded at Music America Studios in Rochester, New York in 
 
 A: Lars Ulrich used a Ludwig standard bass drum pedal on Kill 'Em All, despite the rest of the kit being Tama. This cross-brand hardware arrangement was typical of drummers who had not yet secured endorsements — each piece was chosen or available independently. The Ludwig pedal's direct chain-drive mechanism delivered the tight, punchy kick attack heard throughout the album on tracks like 'Whiplash' and 'Hit the Lights.' Lars would later standardize on Tama hardware as his partnership with the brand developed.
 
+## Related Articles
+
+- [Top 10 Thrash Metal Drummers](https://metalforge.io/lists/thrash-metal-drummers)
+- [Top 10 Fastest Metal Drummers](https://metalforge.io/lists/fastest-metal-drummers)
+- [Master of Puppets Drum Setup: Lars Ulrich's Gear Breakdown](https://metalforge.io/articles/master-of-puppets-drum-setup)
+- [...And Justice for All Drum Setup: Lars Ulrich's Technical Peak](https://metalforge.io/articles/and-justice-for-all-drum-setup)
+
+## Related Drummers
+
+- [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo)
+- [Charlie Benante](https://metalforge.io/drummer/charlie-benante)
+
 **Source:** https://metalforge.io/articles/kill-em-all-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

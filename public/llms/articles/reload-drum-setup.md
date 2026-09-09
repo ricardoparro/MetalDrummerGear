@@ -119,8 +119,22 @@ A: "Fuel" is the most technically demanding Reload drum track — double bass pe
 
 A: Reload (1997) sits between Load (1996) and St. Anger (2003) in the Lars Ulrich studio discography. It completes the Load/Reload double-album era — a sustained period of blues and hard rock influence that followed the Black Album's groove revolution. The Tama Star Classic Maple and Zildjian A Custom configuration of the Load/Reload era is distinct from the Black Album's Artist Maple setup, and carried through essentially unchanged into St. Anger's Tama Starclassic Maple kit — St. Anger's real departure was the snare, a borrowed Ludwig Vistalite, not the drum brand. Reload is the final recording of Lars's naturalistic LU1465 snare sound before the St. Anger snare experiment, and the second of what has become a continuous Zildjian A Custom relationship stretching to the present.
 
+## Related Articles
+
+- [What's In Lars Ulrich's Kit in 2026: The Most Famous Metal Drummer's Complete Setup](https://metalforge.io/articles/whats-in-lars-ulrichs-kit)
+- [Top 10 Thrash Metal Drummers](https://metalforge.io/lists/thrash-metal-drummers)
+- [Metallica 'Load' Drum Setup: Lars Ulrich's 1996 Tama Star Classic Maple Kit](https://metalforge.io/articles/load-drum-setup)
+- [Lars Ulrich's Drum Setup on Metallica's St. Anger (2003)](https://metalforge.io/articles/st-anger-drum-setup)
+- [Lars Ulrich's Drum Setup on Metallica's Death Magnetic (2008)](https://metalforge.io/articles/death-magnetic-drum-setup)
+
+## Related Drummers
+
+- [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo)
+- [Gene Hoglan](https://metalforge.io/drummer/gene-hoglan)
+- [Joey Jordison](https://metalforge.io/drummer/joey-jordison)
+
 **Source:** https://metalforge.io/articles/reload-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

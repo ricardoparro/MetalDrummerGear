@@ -93,8 +93,20 @@ A: No fixed pedal brand is documented for Chris Turner's 'Hikari' era — his Ta
 
 A: 'Hikari' (2017) established the core techniques — polyrhythmic kick superimposition and velocity-even double bass — that Turner would push further on 'Disparity' (2022), particularly on the track 'Metamorph,' which layers blast beats into shifting 7/8, 5/4, and 4/4 passages. The gear stayed essentially consistent between the two records: the same Tama Starclassic Maple/Birch kit and Meinl Byzance Extra Dry cymbal philosophy carried through both albums. See the [Chris Turner drum setup overview](/articles/chris-turner-drum-setup) for the full gear arc.
 
+## Related Articles
+
+- [Top 10 Progressive Metal Drummers](https://metalforge.io/lists/progressive-metal-drummers)
+- [Chris Turner's Drum Kit & Gear Setup — Oceans Ate Alaska](https://metalforge.io/articles/chris-turner-drum-setup)
+- [What's In Matt Halpern's Periphery Kit: Complete Gear Breakdown](https://metalforge.io/articles/whats-in-matt-halperns-kit)
+
+## Related Drummers
+
+- [Chris Turner](https://metalforge.io/drummer/chris-turner)
+- [Matt Halpern](https://metalforge.io/drummer/matt-halpern)
+- [Matt Garstka](https://metalforge.io/drummer/matt-garstka)
+
 **Source:** https://metalforge.io/articles/chris-turner-hikari-2017
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

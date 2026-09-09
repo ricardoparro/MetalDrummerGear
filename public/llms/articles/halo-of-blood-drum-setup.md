@@ -93,8 +93,20 @@ A: On Halo of Blood (2013), Jaska Raatikainen used Zildjian A Custom and K Custo
 
 A: Halo of Blood (2013) carries the Pearl Masters MCX kit and the exact gear configuration from Relentless Reckless Forever (2011) unchanged, continuing the Pearl endorsement era that began on Are You Dead Yet? (2005). Raatikainen kept playing Pearl Masters drums through I Worship Chaos (2015) and Hexed (2019), the band's final album. See the [Jaska Raatikainen drummer profile](/drummer/jaska-raatikainen) and the [I Worship Chaos drum setup](/articles/i-worship-chaos-drum-setup) for what came next.
 
+## Related Articles
+
+- [Jaska Raatikainen Drum Setup — Children of Bodom Gear Guide](https://metalforge.io/articles/jaska-raatikainen-drum-setup)
+- [Relentless Reckless Forever Drum Setup: Jaska Raatikainen's Gear on Children of Bodom's 2011 Album](https://metalforge.io/articles/relentless-reckless-forever-drum-setup)
+- [I Worship Chaos Drum Setup: Jaska Raatikainen's Gear on Children of Bodom's 2015 Album](https://metalforge.io/articles/i-worship-chaos-drum-setup)
+- [Blooddrunk Drum Setup: Jaska Raatikainen's Gear on Children of Bodom's 2008 Album](https://metalforge.io/articles/blooddrunk-drum-setup)
+- [Follow the Reaper Drum Setup: Jaska Raatikainen's Gear on Children of Bodom's 2000 Album](https://metalforge.io/articles/follow-the-reaper-drum-setup)
+
+## Related Drummers
+
+- [Jaska Raatikainen](https://metalforge.io/drummer/jaska-raatikainen)
+
 **Source:** https://metalforge.io/articles/halo-of-blood-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

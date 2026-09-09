@@ -103,8 +103,22 @@ A: Dirk Verbeuren has recorded one studio album with Megadeth to date: "The Sick
 
 A: The album was produced by Dave Mustaine and longtime Megadeth collaborator Chris Rakestraw, who had previously co-produced "Super Collider" (2013) and "Dystopia" (2016). It was mixed by Josh Wilbur (Lamb of God, Gojira, Trivium) and mastered by Ted Jensen at Sterling Sound. Recording took place primarily at Dave Mustaine's home studio in Nashville, Tennessee, following pre-production sessions in Franklin, Tennessee that began in May 2019.
 
+## Related Articles
+
+- [What's In Dirk Verbeuren's Megadeth Arsenal: Complete Gear Breakdown](https://metalforge.io/articles/whats-in-dirk-verbeurens-kit)
+- [Top 10 Thrash Metal Drummers](https://metalforge.io/lists/thrash-metal-drummers)
+- [Chris Adler's Drum Setup on Megadeth's 'Dystopia' (2016)](https://metalforge.io/articles/dystopia-drum-setup)
+- [Rust in Peace Drum Setup: Nick Menza's Gear Breakdown](https://metalforge.io/articles/rust-in-peace-drum-setup)
+- [Nick Menza's Drum Setup on Megadeth's Countdown to Extinction (1992)](https://metalforge.io/articles/countdown-to-extinction-drum-setup)
+
+## Related Drummers
+
+- [Art Cruz](https://metalforge.io/drummer/art-cruz)
+- [Lars Ulrich](https://metalforge.io/drummer/lars-ulrich)
+- [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo)
+
 **Source:** https://metalforge.io/articles/the-sick-the-dying-and-the-dead-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

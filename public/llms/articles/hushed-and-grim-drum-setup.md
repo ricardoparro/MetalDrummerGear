@@ -113,8 +113,20 @@ A: Brann Dailor's switch from a 22 inch to a 20 inch bass drum for Hushed and Gr
 
 A: Mastodon's Hushed and Grim (2021) is a 15-track double album: 1. Pain with an Anchor, 2. The Crux, 3. Sickle and Peace, 4. More Than I Could Chew, 5. The Beast, 6. Pushing the Tides, 7. Skeleton of Splendor, 8. Teardrinker, 9. Had It All, 10. Savage Lands, 11. Gobblers of Dregs, 12. Eyes of Serpents, 13. Dagger, 14. Tide Shifter, 15. Not That At All. The album was released on October 29, 2021, on Reprise Records and peaked at number 11 on the US Billboard 200.
 
+## Related Articles
+
+- [Top 10 Progressive Metal Drummers](https://metalforge.io/lists/progressive-metal-drummers)
+- [Emperor of Sand Drum Setup: Brann Dailor's Grammy-Winning Kit on Mastodon's 2017 Masterpiece](https://metalforge.io/articles/emperor-of-sand-drum-setup)
+- [Crack the Skye Drum Setup: Brann Dailor's Gear on Mastodon's Masterpiece](https://metalforge.io/articles/crack-the-skye-drum-setup)
+
+## Related Drummers
+
+- [Tomas Haake](https://metalforge.io/drummer/tomas-haake)
+- [Danny Carey](https://metalforge.io/drummer/danny-carey)
+- [Morgan Ågren](https://metalforge.io/drummer/morgan-agren)
+
 **Source:** https://metalforge.io/articles/hushed-and-grim-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

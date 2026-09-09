@@ -94,8 +94,20 @@ A: Paul Bostaph joined Slayer in early 1992, shortly after Dave Lombardo departe
 
 A: Divine Intervention debuted at #8 on the Billboard 200 — Slayer's highest US chart position at the time of release, a significant jump from Seasons in the Abyss's #40 peak in 1990. The album was certified Gold by the RIAA. The strong debut demonstrated that Slayer's audience accepted the drummer change commercially, even as debate about Bostaph's style versus Lombardo's continued among fans for years afterward.
 
+## Related Articles
+
+- [What's In Paul Bostaph's Slayer Arsenal](https://metalforge.io/articles/whats-in-paul-bostaphs-kit)
+- [Top 10 Thrash Metal Drummers](https://metalforge.io/lists/thrash-metal-drummers)
+- [Dave Lombardo's Drum Setup on Slayer's Seasons in the Abyss (1990)](https://metalforge.io/articles/seasons-in-the-abyss-drum-setup)
+- [Diabolus in Musica Drum Setup: Slayer's 1998 Drop-Tuned Album Gear Breakdown](https://metalforge.io/articles/diabolus-in-musica-drum-setup)
+
+## Related Drummers
+
+- [Raymond Herrera](https://metalforge.io/drummer/raymond-herrera)
+- [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo)
+
 **Source:** https://metalforge.io/articles/divine-intervention-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

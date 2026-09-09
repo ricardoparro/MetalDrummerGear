@@ -114,8 +114,21 @@ A: Gene Hoglan uses Sabian AAX series cymbals throughout his current setup. Key 
 
 A: A Pearl Reference Pure kit comparable to Gene Hoglan's setup runs approximately $4,500 to $7,000 new, depending on configuration and finish. His Pearl Reference brass snare adds another $500 to $700. Completing the rig with a full Sabian AAX cymbal setup similar to his will add roughly $1,500 to $2,500. Total estimated cost to replicate his current setup is around $6,500 to $10,000.
 
+## Related Articles
+
+- [Top 10 Death Metal Drummers](https://metalforge.io/lists/death-metal-drummers)
+- [Top 10 Fastest Double Bass Drummers in Metal History](https://metalforge.io/lists/fastest-double-bass-drummers)
+- [Reign in Blood Drum Setup: Dave Lombardo's Gear Breakdown](https://metalforge.io/articles/reign-in-blood-drum-setup)
+- [obZen Drum Setup: Tomas Haake's Legendary "Bleed" Gear Breakdown](https://metalforge.io/articles/obzen-drum-setup)
+
+## Related Drummers
+
+- [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo)
+- [Tomas Haake](https://metalforge.io/drummer/tomas-haake)
+- [George Kollias](https://metalforge.io/drummer/george-kollias)
+
 **Source:** https://metalforge.io/articles/whats-in-gene-hoglans-kit
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

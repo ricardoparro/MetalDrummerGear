@@ -100,8 +100,19 @@ A: Daray plays Paiste cymbals, combining the RUDE and 2002 series. His setup inc
 
 A: Daray joined Dimmu Borgir in 2008, replacing legendary Norwegian drummer Hellhammer. He has been the band's drummer for over 15 years as of 2024, recording studio albums Abrahadabra (2010) and Eonian (2018) and the live orchestral release Forces of the Northern Night (2017). During his tenure he simultaneously served as Vader's drummer (2006–2016), recording Welcome to the Morbid Reich (2011) and Tibi et Igni (2014) with the Polish death metal band, and has maintained his long-running role in Vesania throughout.
 
+## Related Articles
+
+- [How to Play Double Bass Drums for Metal](https://metalforge.io/articles/double-bass-drumming-for-metal)
+- [Hellhammer Drum Kit & Gear Setup — Mayhem Black Metal Legend](https://metalforge.io/articles/hellhammer-drum-setup)
+- [Raymond Herrera's Drum Setup — Fear Factory's Industrial Metal Hybrid Kit](https://metalforge.io/articles/raymond-herrera-drum-setup)
+
+## Related Drummers
+
+- [Daray](https://metalforge.io/drummer/daray)
+- [Hellhammer](https://metalforge.io/drummer/hellhammer)
+
 **Source:** https://metalforge.io/articles/daray-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

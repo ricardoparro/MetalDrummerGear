@@ -104,8 +104,22 @@ A: Yes. 'Empire of the Clouds,' the closing track on The Book of Souls, runs 18 
 
 A: The Book of Souls (2015) is Iron Maiden's first studio double album, running 92 minutes across 11 tracks. It debuted at number one in the UK — the band's fifth UK chart-topping album — and number four on the US Billboard 200, their strongest first-week US sales figure since Nielsen Music began tracking data in 1991. It followed The Final Frontier (2010) and preceded Senjutsu (2021) in Iron Maiden's run of ambitious, progressive 21st-century studio albums. See the [Final Frontier drum setup article](/articles/final-frontier-drum-setup) for the preceding chapter in Nicko McBrain's progressive arc.
 
+## Related Articles
+
+- [Top 10 Thrash Metal Drummers](https://metalforge.io/lists/thrash-metal-drummers)
+- [Top 10 Most Innovative Metal Drummers](https://metalforge.io/lists/most-innovative-drummers)
+- [The Final Frontier Drum Setup: Nicko McBrain's Gear on Iron Maiden's Grammy-Nominated 2010 Epic](https://metalforge.io/articles/final-frontier-drum-setup)
+- [Senjutsu Drum Setup: Nicko McBrain's Gear on Iron Maiden's UK #1 Grammy-Nominated 2021 Album](https://metalforge.io/articles/senjutsu-drum-setup)
+- [Brave New World Drum Setup: Nicko McBrain's Gear on Iron Maiden's 2000 Reunion Masterpiece](https://metalforge.io/articles/brave-new-world-drum-setup)
+
+## Related Drummers
+
+- [Lars Ulrich](https://metalforge.io/drummer/lars-ulrich)
+- [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo)
+- [Charlie Benante](https://metalforge.io/drummer/charlie-benante)
+
 **Source:** https://metalforge.io/articles/book-of-souls-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

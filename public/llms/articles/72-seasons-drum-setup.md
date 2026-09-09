@@ -103,8 +103,20 @@ A: Both albums represent a deliberate return to thrash-influenced tempos and son
 
 A: Lars Ulrich used Zildjian A Custom cymbals throughout 72 Seasons — the same series he has used since Death Magnetic in 2008. His setup includes 14 inch A Custom hi-hats, 16 and 18 inch A Custom crashes, a 20 inch A Custom ride, and an 18 inch A Custom China. This long-running cymbal setup gives 72 Seasons the same bright, cutting cymbal character heard on Hardwired... to Self-Destruct and Death Magnetic.
 
+## Related Articles
+
+- [What's In Lars Ulrich's Kit in 2026: The Most Famous Metal Drummer's Complete Setup](https://metalforge.io/articles/whats-in-lars-ulrichs-kit)
+- [Top 10 Thrash Metal Drummers](https://metalforge.io/lists/thrash-metal-drummers)
+- [Lars Ulrich's Drum Setup on Metallica's Death Magnetic (2008)](https://metalforge.io/articles/death-magnetic-drum-setup)
+- [The Black Album Drum Setup: Lars Ulrich's 1991 Tama Artist Maple Kit](https://metalforge.io/articles/black-album-drum-setup)
+
+## Related Drummers
+
+- [Lars Ulrich](https://metalforge.io/drummer/lars-ulrich)
+- [Eloy Casagrande](https://metalforge.io/drummer/eloy-casagrande)
+
 **Source:** https://metalforge.io/articles/72-seasons-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

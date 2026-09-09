@@ -106,8 +106,19 @@ A: "Idle Hands" opens The Art of Balance with a double-kick pattern built on Bit
 
 A: The Art of Balance was the first Century Media Records release to surpass 100,000 copies in domestic sales, eventually exceeding 250,000 copies sold — making it one of the best-selling albums in the label's catalog. It debuted at No. 15 on the Billboard Top Independent Albums chart, selling over 4,500 copies in its first week, and established Shadows Fall and the broader NWOAHM movement as a commercially viable force in American metal.
 
+## Related Articles
+
+- [How to Play Double Bass Drums for Metal](https://metalforge.io/articles/double-bass-drumming-for-metal)
+- [Jason Bittner's Drum Kit & Gear Setup — Shadows Fall / Overkill](https://metalforge.io/articles/jason-bittner-drum-setup)
+- [Jason Bittner's Drum Setup on Shadows Fall's The War Within (2004)](https://metalforge.io/articles/the-war-within-drum-setup)
+
+## Related Drummers
+
+- [Jason Bittner](https://metalforge.io/drummer/jason-bittner)
+- [Charlie Benante](https://metalforge.io/drummer/charlie-benante)
+
 **Source:** https://metalforge.io/articles/art-of-balance-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

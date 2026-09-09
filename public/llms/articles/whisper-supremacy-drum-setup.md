@@ -116,8 +116,21 @@ A: Whisper Supremacy (1998) was recorded at Studio Victor in Montreal, Quebec, p
 
 A: Whisper Supremacy (1998) occupies the critical transitional position between None So Vile (1996) — the landmark extreme death metal performance — and And Then You'll Beg (2000) — Flo Mounier's compositional peak. The album introduced the Pearl Masters BRX and Paiste Alpha cymbal pairing that would carry through to And Then You'll Beg, establishing the gear foundation for Cryptopsy's most technically ambitious era. Musically, it represents the refinement of None So Vile's raw intensity toward the deliberate compositional complexity of the 2000 album. It is also Lord Worm's last Cryptopsy album until his return on Once Was Not (2005).
 
+## Related Articles
+
+- [What's In Flo Mounier's Extreme Arsenal: Complete Gear Breakdown](https://metalforge.io/articles/whats-in-flo-mouniers-kit)
+- [Top 10 Fastest Metal Drummers](https://metalforge.io/lists/fastest-metal-drummers)
+- [None So Vile Drum Setup: Flo Mounier's Technical Death Metal Landmark](https://metalforge.io/articles/none-so-vile-drum-setup)
+- [And Then You'll Beg Drum Setup: Flo Mounier's Most Complex Work](https://metalforge.io/articles/and-then-youll-beg-drum-setup)
+
+## Related Drummers
+
+- [Gene Hoglan](https://metalforge.io/drummer/gene-hoglan)
+- [George Kollias](https://metalforge.io/drummer/george-kollias)
+- [Chris Adler](https://metalforge.io/drummer/chris-adler)
+
 **Source:** https://metalforge.io/articles/whisper-supremacy-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

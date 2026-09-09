@@ -103,8 +103,23 @@ A: The opening title track of Dark Angel's Darkness Descends (1986) runs at appr
 
 A: Gene Hoglan served as Dark Angel's drummer from the band's formation in the early 1980s through their dissolution in 1992. He recorded all of their studio albums including We Have Arrived (1984), Darkness Descends (1986), Leave Scars (1989), and Time Does Not Heal (1991). Dark Angel was his primary band before his work with Death, Strapping Young Lad, and later Testament. Darkness Descends is widely considered his breakthrough performance — the recording that established his reputation in extreme metal and led directly to Chuck Schuldiner recruiting him for Individual Thought Patterns (1993).
 
+## Related Articles
+
+- [Gene Hoglan Drum Setup: The Atomic Clock Complete Gear Guide](https://metalforge.io/articles/gene-hoglan-drum-setup)
+- [What's In Gene Hoglan's Atomic Arsenal: Complete Gear Breakdown](https://metalforge.io/articles/whats-in-gene-hoglans-kit)
+- [Top 10 Thrash Metal Drummers](https://metalforge.io/lists/thrash-metal-drummers)
+- [Leave Scars Drum Setup: Gene Hoglan's Groove-Within-Speed Mastery (Dark Angel, 1989)](https://metalforge.io/articles/leave-scars-drum-setup)
+- [Brotherhood of the Snake Drum Setup: Gene Hoglan Returns to Testament (2016)](https://metalforge.io/articles/brotherhood-of-the-snake-drum-setup)
+- [Individual Thought Patterns Drum Setup: Gene Hoglan's First Death Album](https://metalforge.io/articles/individual-thought-patterns-drum-setup)
+
+## Related Drummers
+
+- [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo)
+- [George Kollias](https://metalforge.io/drummer/george-kollias)
+- [Pete Sandoval](https://metalforge.io/drummer/pete-sandoval)
+
 **Source:** https://metalforge.io/articles/darkness-descends-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

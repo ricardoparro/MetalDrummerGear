@@ -107,8 +107,22 @@ A: South of Heaven requires a different kind of difficulty than Reign in Blood. 
 
 A: South of Heaven (1988) sits between Reign in Blood (1986) and Seasons in the Abyss (1990) in the Lombardo-era Slayer arc. It represents the midpoint of a deliberate tempo evolution: Show No Mercy (1983) was raw and fast; Reign in Blood (1986) was the extreme speed peak; South of Heaven (1988) introduced groove and mid-pace dynamics; Seasons in the Abyss (1990) consolidated that range. After South of Heaven, Lombardo left Slayer for the first time, not returning until Diabolus in Musica (1998) and then the Grammy-winning Christ Illusion (2006). Understanding South of Heaven's place in the arc explains why Lombardo's playing on that album represents a pivot point in his documented development.
 
+## Related Articles
+
+- [Top 10 Thrash Metal Drummers](https://metalforge.io/lists/thrash-metal-drummers)
+- [Top 10 Fastest Double Bass Drummers in Metal History](https://metalforge.io/lists/fastest-double-bass-drummers)
+- [Reign in Blood Drum Setup: Dave Lombardo's Gear Breakdown](https://metalforge.io/articles/reign-in-blood-drum-setup)
+- [Dave Lombardo's Drum Setup on Slayer's Show No Mercy (1983)](https://metalforge.io/articles/show-no-mercy-drum-setup)
+- [Dave Lombardo's Drum Setup on Slayer's Seasons in the Abyss (1990)](https://metalforge.io/articles/seasons-in-the-abyss-drum-setup)
+
+## Related Drummers
+
+- [Lars Ulrich](https://metalforge.io/drummer/lars-ulrich)
+- [Charlie Benante](https://metalforge.io/drummer/charlie-benante)
+- [Pete Sandoval](https://metalforge.io/drummer/pete-sandoval)
+
 **Source:** https://metalforge.io/articles/south-of-heaven-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

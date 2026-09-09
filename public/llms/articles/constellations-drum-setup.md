@@ -112,8 +112,18 @@ A: *Constellations* (2009) and *Leveler* (2011) represent two distinct chapters 
 
 A: Matt Greiner's snare on *Constellations* came from Mapex's Black Panther series — the company's flagship snare line. The 14" x 6.5" depth delivered the body and projection the Audiohammer production demanded, with either all-maple or all-birch shell construction depending on the session. Paired with an Evans Genera HD batter head and tuned to a medium-high tension, the Black Panther provided the cutting backbeat and sensitive ghost note response that Greiner's playing required. The signature snare moment is the verse pattern on "Marianas Trench," where the snare sits forward in the mix with unusual presence — partly mix decisions, partly the Black Panther's natural projection.
 
+## Related Articles
+
+- [Leveler Drum Setup: Matt Greiner's Gear on August Burns Red's 2011 Album](https://metalforge.io/articles/leveler-drum-setup)
+- [Messengers Drum Setup: Matt Greiner's Gear on August Burns Red's 2007 Breakthrough Album](https://metalforge.io/articles/messengers-drum-setup)
+- [Matt Greiner Complete Drum Setup — August Burns Red Gear Guide](https://metalforge.io/articles/matt-greiner-complete-drum-setup)
+
+## Related Drummers
+
+- [Matt Greiner](https://metalforge.io/drummer/matt-greiner)
+
 **Source:** https://metalforge.io/articles/constellations-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

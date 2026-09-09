@@ -114,8 +114,22 @@ A: Each Metallica album used a distinct setup even where the kit carried over. M
 
 A: Yes, but sparingly compared to the Justice era. Lars used a Tama Iron Cobra double pedal on a single 22" bass drum. The double pedal is most prominent on "Wherever I May Roam" and sections of "Enter Sandman" and "The God That Failed." However, Bob Rock steered Lars toward single bass drum patterns on most tracks — the groove-first philosophy favored simplicity and feel. The absence of constant double bass on songs like "Sad But True" and "Nothing Else Matters" was a deliberate production choice, not a technical limitation.
 
+## Related Articles
+
+- [What's In Lars Ulrich's Kit in 2026: The Most Famous Metal Drummer's Complete Setup](https://metalforge.io/articles/whats-in-lars-ulrichs-kit)
+- [Top 10 Thrash Metal Drummers](https://metalforge.io/lists/thrash-metal-drummers)
+- [Master of Puppets Drum Setup: Lars Ulrich's Gear Breakdown](https://metalforge.io/articles/master-of-puppets-drum-setup)
+- [...And Justice for All Drum Setup: Lars Ulrich's Technical Peak](https://metalforge.io/articles/and-justice-for-all-drum-setup)
+- [Kill 'Em All Drum Setup: Lars Ulrich's 1983 Kit That Launched Thrash Metal](https://metalforge.io/articles/kill-em-all-drum-setup)
+
+## Related Drummers
+
+- [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo)
+- [Gene Hoglan](https://metalforge.io/drummer/gene-hoglan)
+- [Joey Jordison](https://metalforge.io/drummer/joey-jordison)
+
 **Source:** https://metalforge.io/articles/black-album-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

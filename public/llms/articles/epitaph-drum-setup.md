@@ -121,8 +121,22 @@ A: Onset of Putrefaction (1999), Necrophagist's debut, used programmed drumming 
 
 A: Stabwound is widely considered one of the most important tech death drum tracks because it concentrates an unusually high density of technical vocabulary into a single song while remaining musically composed and emotionally direct. Grossmann's performance includes sustained 16th-note double-bass under neoclassical guitar leads, blast beat sections aligned to Suiçmez's phrasing, polyrhythmic fill vocabulary moving between snare, toms, and bass drums at high velocity, and dynamic transitions between full-intensity and more atmospheric passages — all within roughly four-and-a-half minutes. The track became required listening for serious tech death drummers, and many subsequent extreme metal drummers cite it as a foundational reference. For broader tech-death drumming context: [death metal drummers at MetalForge](/articles/death-metal-drummers).
 
+## Related Articles
+
+- [Top 10 Death Metal Drummers](https://metalforge.io/lists/death-metal-drummers)
+- [Top 10 Progressive Death Metal Drummers](https://metalforge.io/lists/progressive-death-metal-drummers)
+- [Obscura Cosmogenesis Drum Setup: Hannes Grossmann's 2009 Tech Death Gear](https://metalforge.io/articles/cosmogenesis-drum-setup)
+- [Hannes Grossmann Drum Setup — Obscura and Alkaloid's Prog-Death Architect](https://metalforge.io/articles/hannes-grossmann-drum-setup)
+- [Individual Thought Patterns Drum Setup: Gene Hoglan's First Death Album](https://metalforge.io/articles/individual-thought-patterns-drum-setup)
+
+## Related Drummers
+
+- [Hannes Grossmann](https://metalforge.io/drummer/hannes-grossmann)
+- [George Kollias](https://metalforge.io/drummer/george-kollias)
+- [Gene Hoglan](https://metalforge.io/drummer/gene-hoglan)
+
 **Source:** https://metalforge.io/articles/epitaph-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

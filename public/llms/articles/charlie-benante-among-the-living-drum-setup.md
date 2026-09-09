@@ -104,8 +104,21 @@ A: Anthrax drummer Charlie Benante used Tama Artstar II drums, Paiste 2002 cymba
 
 A: The drum setup on Among the Living features Charlie Benante's Tama Artstar II kit with dual 22" bass drums, multiple rack and floor toms, Paiste 2002 cymbals, and a Tama steel snare. Produced by Eddie Kramer, the recording gave the drums more room and ambience than typical thrash albums of the era, resulting in a sound that feels live and powerful rather than purely dead and close-miked.
 
+## Related Articles
+
+- [Top 10 Thrash Metal Drummers](https://metalforge.io/lists/thrash-metal-drummers)
+- [Reign in Blood Drum Setup: Dave Lombardo's Gear Breakdown](https://metalforge.io/articles/reign-in-blood-drum-setup)
+- [Rust in Peace Drum Setup: Nick Menza's Gear Breakdown](https://metalforge.io/articles/rust-in-peace-drum-setup)
+- [Master of Puppets Drum Setup: Lars Ulrich's Gear Breakdown](https://metalforge.io/articles/master-of-puppets-drum-setup)
+
+## Related Drummers
+
+- [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo)
+- [Lars Ulrich](https://metalforge.io/drummer/lars-ulrich)
+- [Gene Hoglan](https://metalforge.io/drummer/gene-hoglan)
+
 **Source:** https://metalforge.io/articles/charlie-benante-among-the-living-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

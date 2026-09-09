@@ -109,8 +109,21 @@ A: Mario Duplantier used Zildjian K Custom and K series cymbals on From Mars to 
 
 A: At the time of recording in 2005, the Tama Starclassic Performer kit was estimated at $3,000 to $4,500, with the Tama S.L.P. G-Maple snare adding $300 to $400. The Zildjian K Custom cymbal setup would have run approximately $1,500 to $2,500. Today, used Starclassic Performer kits from that era can be found for $1,500 to $2,500 on the vintage market, making this a more accessible setup to replicate.
 
+## Related Articles
+
+- [Top 10 Progressive Metal Drummers](https://metalforge.io/lists/progressive-metal-drummers)
+- [obZen Drum Setup: Tomas Haake's Legendary "Bleed" Gear Breakdown](https://metalforge.io/articles/obzen-drum-setup)
+- [Lateralus Drum Setup: Danny Carey's Progressive Masterpiece](https://metalforge.io/articles/lateralus-drum-setup)
+- [The Way of All Flesh Drum Setup: Mario Duplantier's Death Metal Odyssey](https://metalforge.io/articles/the-way-of-all-flesh-drum-setup)
+
+## Related Drummers
+
+- [Tomas Haake](https://metalforge.io/drummer/tomas-haake)
+- [Danny Carey](https://metalforge.io/drummer/danny-carey)
+- [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo)
+
 **Source:** https://metalforge.io/articles/from-mars-to-sirius-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

@@ -113,8 +113,20 @@ A: The Shogun title track uses multiple time signatures across its 11:39 runtime
 
 A: Yes, Nick Augusto performed all drums on Trivium's Shogun (2008), recorded at Morrisound Recording in Tampa, Florida with producer Nick Raskulinecz. Augusto had joined Trivium in 2007, replacing Travis Smith, and Shogun was his first studio album with the band. The album captures him at the technical height of his Trivium tenure — the subsequent "In Waves" (2011) and "Vengeance Falls" (2013) records featured strong performances but in a more straightforward metalcore context. For the In Waves/Vengeance Falls era gear breakdown, see [In Waves drum setup at MetalForge](/articles/in-waves-drum-setup).
 
+## Related Articles
+
+- [How to Play Double Bass Drums for Metal](https://metalforge.io/articles/double-bass-drumming-for-metal)
+- [How to Play Metal Breakdown Beats](https://metalforge.io/articles/breakdown-beat-guide)
+- [In Waves Drum Setup: Nick Augusto's Breakthrough Kit (Trivium, 2011)](https://metalforge.io/articles/in-waves-drum-setup)
+- [Ashes of the Wake Drum Setup: Chris Adler's Groove Metal Masterpiece](https://metalforge.io/articles/ashes-of-the-wake-drum-setup)
+- [...And Justice for All Drum Setup: Lars Ulrich's Technical Peak](https://metalforge.io/articles/and-justice-for-all-drum-setup)
+
+## Related Drummers
+
+- [Nick Augusto](https://metalforge.io/drummer/nick-augusto)
+
 **Source:** https://metalforge.io/articles/shogun-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

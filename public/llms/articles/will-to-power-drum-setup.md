@@ -100,8 +100,19 @@ A: Will to Power was recorded at Fascination Street Studio in Örebro, Sweden, p
 
 A: Will to Power (September 8, 2017) is the second album of Arch Enemy's Alissa White-Gluz era and the band's highest-charting release in that period — #3 in Germany and Sweden, #4 in Austria. It follows War Eternal (2014, the arc-opening White-Gluz debut) and precedes Deceivers (2022, the most recent Arch Enemy studio album). In terms of the band's overall discography, Will to Power sits at the commercial peak: Khaos Legions (2011) charted at #4 in Sweden as the Gossow-era high point, and Will to Power surpassed or matched that performance across multiple markets simultaneously. Drummer Daniel Erlandsson's tenth studio album with Arch Enemy is the band's most globally successful single-release chart performance. Full discography context: [War Eternal (2014)](/articles/war-eternal-drum-setup) · [Deceivers (2022)](/articles/deceivers-drum-setup) · [Daniel Erlandsson drummer profile](/drummer/daniel-erlandsson).
 
+## Related Articles
+
+- [Top 10 Melodic Death Metal Drummers](https://metalforge.io/lists/melodic-death-metal-drummers)
+- [Daniel Erlandsson's Drum Setup on Arch Enemy's War Eternal (2014)](https://metalforge.io/articles/war-eternal-drum-setup)
+- [Daniel Erlandsson's Drum Setup on Arch Enemy's Deceivers (2022)](https://metalforge.io/articles/deceivers-drum-setup)
+- [Daniel Erlandsson's Drum Setup — At The Gates & Arch Enemy Kit Guide](https://metalforge.io/articles/daniel-erlandsson-drum-setup)
+
+## Related Drummers
+
+- [Daniel Erlandsson](https://metalforge.io/drummer/daniel-erlandsson)
+
 **Source:** https://metalforge.io/articles/will-to-power-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

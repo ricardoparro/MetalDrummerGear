@@ -109,8 +109,16 @@ A: Yes — Martin Lopez used drum brushes extensively on Damnation, marking the 
 
 A: Opeth's Damnation was produced by Steven Wilson (Porcupine Tree), recorded simultaneously with Deliverance at Studio Fredman in Gothenburg during 2002. The drum sound on Damnation differs dramatically from Deliverance despite using the same kit: Wilson incorporated Studio Fredman's natural room ambience as a primary element, placed overhead microphones higher and further from the kit, and applied minimal compression — allowing Martin Lopez's full dynamic range from brush whispers to firm rim shots to survive the mix. Deliverance's drums were close-miked and tightly engineered for maximum attack; Damnation's drums breathe within the room acoustics.
 
+## Related Articles
+
+- [Top 10 Progressive Metal Drummers](https://metalforge.io/lists/progressive-metal-drummers)
+- [Martin Lopez Drum Setup — Opeth & Soen Gear Guide](https://metalforge.io/articles/martin-lopez-drum-setup)
+- [Blackwater Park Drum Setup: Martin Lopez's Opeth Masterpiece](https://metalforge.io/articles/blackwater-park-drum-setup)
+- [Deliverance Drum Setup: Martin Lopez's Most Extreme Opeth Performance](https://metalforge.io/articles/deliverance-drum-setup)
+- [Still Life Drum Setup: Martin Lopez Establishes His Opeth Voice](https://metalforge.io/articles/still-life-drum-setup)
+
 **Source:** https://metalforge.io/articles/damnation-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

@@ -25,7 +25,7 @@ Released March 22, 2019 on InsideOut Music, Distance Over Time debuted at number
 - **Drums:** Pearl Pearl Reference Pure (Custom lacquer finish)
 - **Snare:** Pearl Pearl Reference Snare, 14" x 6.5"
 - **Cymbals:** Sabian — Sabian HHX Evolution / AAX combination
-- **Hardware / Pedals:** Pearl Eliminator Redline Double Pedal; Pearl H-2050 Eliminator Hi-Hat Stand; Pearl BC-830 Boom Stands; Pearl Roadster D-790; Vic Firth Mike Mangini Signature
+- **Hardware / Pedals:** Pearl Eliminator Redline Double Pedal; Pearl H-2050 Eliminator Hi-Hat Stand; Pearl BC-830 Boom Stands; Pearl Roadster D-790; Vater Mike Mangini Wicked Piston (VHMMWP)
 - **Heads:** Remo Coated Ambassador (batter), Remo Ambassador Snare Side (resonant)
 - **Snare tuning:** Medium batter tension for dynamic range; moderate snare wire for ghost note clarity
 
@@ -98,8 +98,18 @@ A: Distance Over Time was recorded at Yonderbarn Studios, John Petrucci's person
 
 A: Pale Blue Dot is an extended instrumental track from Distance Over Time and Mangini's primary showcase on the album. The piece navigates multiple dynamic levels and time signatures, requiring the full Pearl Reference Pure tom spread for its melodic fill passages and Sabian HHX Evolution crashes for major dynamic transitions. Mangini's performance on Pale Blue Dot demonstrates the full range of his technical approach — from delicate, ghost-note-heavy passages to full-intensity progressive metal sequences — using the same consistent Pearl and Sabian setup employed throughout the album.
 
+## Related Articles
+
+- [Mike Mangini's Kit on 'A Dramatic Turn of Events' (Dream Theater, 2011)](https://metalforge.io/articles/a-dramatic-turn-of-events-drum-setup)
+- [Mike Mangini's Kit on 'A View from the Top of the World' (Dream Theater, 2021)](https://metalforge.io/articles/a-view-from-the-top-of-the-world-drum-setup)
+- [What's In Mike Mangini's Dream Theater Arsenal](https://metalforge.io/articles/whats-in-mike-manginis-kit)
+
+## Related Drummers
+
+- [Mike Mangini](https://metalforge.io/drummer/mike-mangini)
+
 **Source:** https://metalforge.io/articles/distance-over-time-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

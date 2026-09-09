@@ -113,8 +113,20 @@ A: Mario Duplantier uses Zildjian K Custom and A Custom series cymbals. His setu
 
 A: A Tama Starclassic Bubinga kit matching Duplantier's configuration currently runs between $8,000 and $12,000. His Tama S.L.P. G-Maple snare adds approximately $500 to $650. A comparable Zildjian K Custom and Z Custom cymbal setup similar to his will add roughly $2,500 to $4,000. Total estimated cost to replicate his full setup is approximately $11,000 to $17,000.
 
+## Related Articles
+
+- [Top 10 Progressive Metal Drummers](https://metalforge.io/lists/progressive-metal-drummers)
+- [From Mars to Sirius Drum Setup: Mario Duplantier's Breakthrough Gear](https://metalforge.io/articles/from-mars-to-sirius-drum-setup)
+- [Magma Drum Setup: Mario Duplantier's Tama Bubinga Breakthrough](https://metalforge.io/articles/magma-drum-setup)
+
+## Related Drummers
+
+- [Tomas Haake](https://metalforge.io/drummer/tomas-haake)
+- [Danny Carey](https://metalforge.io/drummer/danny-carey)
+- [Eloy Casagrande](https://metalforge.io/drummer/eloy-casagrande)
+
 **Source:** https://metalforge.io/articles/whats-in-mario-duplantiers-kit
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

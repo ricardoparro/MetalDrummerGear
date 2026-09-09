@@ -109,8 +109,22 @@ A: 'At the Gate of Sethu' (2012) largely continues the Pearl Reference Maple and
 
 A: 'At the Gate of Sethu' (Nile, 2012) marks the point where George Kollias's Pearl Reference Maple kit, Free-Floating snare, and Demon Drive pedals — introduced on 'Those Whom the Gods Detest' (2009) — reached full maturity after three years of touring. It also closes out the Demon Drive era, shortly before Kollias's Demon XR co-design debuted on 'What Should Not Be Unearthed' (2015), though his Meinl Byzance cymbal voice carried into that album before the later Zildjian transition. For his full drumming profile, see: [George Kollias at MetalForge](/drummer/george-kollias).
 
+## Related Articles
+
+- [Top 10 Fastest Metal Drummers](https://metalforge.io/lists/fastest-metal-drummers)
+- [George Kollias Drum Setup: Nile's Annihilation of the Wicked Gear Breakdown](https://metalforge.io/articles/george-kollias-nile-annihilation-drum-setup)
+- [George Kollias Drum Setup: Nile's 'Those Whom the Gods Detest' (2009) Gear Breakdown](https://metalforge.io/articles/those-whom-the-gods-detest-drum-setup)
+- [George Kollias Drum Setup: Nile's 'What Should Not Be Unearthed' (2015) Gear Breakdown](https://metalforge.io/articles/what-should-not-be-unearthed-drum-setup)
+- [What's In George Kollias' Speed Arsenal](https://metalforge.io/articles/whats-in-george-kollias-kit)
+
+## Related Drummers
+
+- [Gene Hoglan](https://metalforge.io/drummer/gene-hoglan)
+- [Arin Ilejay](https://metalforge.io/drummer/arin-ilejay)
+- [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo)
+
 **Source:** https://metalforge.io/articles/at-the-gate-of-sethu-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

@@ -105,8 +105,19 @@ A: No. Ben Koller is one of the rare modern heavy drummers who plays single kick
 
 A: Jane Doe was recorded at GodCity Studio in Salem, Massachusetts, with Converge guitarist Kurt Ballou producing and engineering. The album was released on September 4, 2001 on Equal Vision Records. Ballou tracked the band live in the room for feel, and the dry, immediate drum sound is the result of his close-mic philosophy and the natural ambience of the GodCity room.
 
+## Related Articles
+
+- [Ben Koller's Complete Drum Setup — Converge Gear Guide](https://metalforge.io/articles/ben-koller-drum-setup)
+- [Ben Koller's Drum Setup on Converge's Axe to Fall (2009)](https://metalforge.io/articles/axe-to-fall-drum-setup)
+
+## Related Drummers
+
+- [Joey Jordison](https://metalforge.io/drummer/joey-jordison)
+- [Charlie Benante](https://metalforge.io/drummer/charlie-benante)
+- [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo)
+
 **Source:** https://metalforge.io/articles/jane-doe-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

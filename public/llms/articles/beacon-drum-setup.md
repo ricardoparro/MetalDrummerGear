@@ -106,8 +106,18 @@ A: *Beacon* (2019) and *Phantom Anthem* (2017) share the same production team (C
 
 A: *Beacon* (2019) is August Burns Red's eighth studio album, released on September 6, 2019 through Fearless Records. It follows *Phantom Anthem* (2017) — which earned ABR their highest Grammy recognition with "King of Sorrow" — and precedes *Death Below* (2023), the most recent ABR studio album. *Beacon* won the Dove Award for Rock Contemporary Inspirational Album at the 51st GMA Dove Awards (2020), distinguishing it from every other ABR album in the discography with a Christian music industry honor. For the full ABR drum arc, see: [Leveler (2011)](/articles/leveler-drum-setup) → [Found in Far Away Places (2015)](/articles/found-in-far-away-places-drum-setup) → [Phantom Anthem (2017)](/articles/abr-phantom-anthem-drum-setup) → Beacon (2019) → [Death Below (2023)](/articles/death-below-drum-setup).
 
+## Related Articles
+
+- [Matt Greiner Complete Drum Setup — August Burns Red Gear Guide](https://metalforge.io/articles/matt-greiner-complete-drum-setup)
+- [August Burns Red 'Phantom Anthem' Drum Setup (Matt Greiner, 2017)](https://metalforge.io/articles/abr-phantom-anthem-drum-setup)
+- [August Burns Red 'Death Below' Drum Setup (Matt Greiner, 2023)](https://metalforge.io/articles/death-below-drum-setup)
+
+## Related Drummers
+
+- [Matt Greiner](https://metalforge.io/drummer/matt-greiner)
+
 **Source:** https://metalforge.io/articles/beacon-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

@@ -109,8 +109,22 @@ A: The Hunter (2011) marks a significant transition in Brann Dailor's drumming c
 
 A: The Hunter (2011) was produced by Mike Elizondo, a departure from Brendan O'Brien who had produced Crack the Skye (2009). Elizondo is primarily known for his hip-hop production work with Dr. Dre and Eminem, bringing a different sonic sensibility to Mastodon — punchier, more defined drum sounds, tighter commercial arrangements, and a production polish that suited the album's more accessible direction. The collaboration resulted in Mastodon's most commercially successful album to that point, and the Grammy-winning 'Black Tongue.'
 
+## Related Articles
+
+- [Top 10 Progressive Metal Drummers](https://metalforge.io/lists/progressive-metal-drummers)
+- [What Drums Did Brann Dailor Use on Once More 'Round the Sun?](https://metalforge.io/articles/once-more-round-the-sun-drum-setup)
+- [Crack the Skye Drum Setup: Brann Dailor's Gear on Mastodon's Masterpiece](https://metalforge.io/articles/crack-the-skye-drum-setup)
+- [Emperor of Sand Drum Setup: Brann Dailor's Grammy-Winning Kit on Mastodon's 2017 Masterpiece](https://metalforge.io/articles/emperor-of-sand-drum-setup)
+- [Blood Mountain Drum Setup: Brann Dailor's Gear on Mastodon's Breakthrough](https://metalforge.io/articles/blood-mountain-drum-setup)
+
+## Related Drummers
+
+- [Tomas Haake](https://metalforge.io/drummer/tomas-haake)
+- [Danny Carey](https://metalforge.io/drummer/danny-carey)
+- [Morgan Ågren](https://metalforge.io/drummer/morgan-agren)
+
 **Source:** https://metalforge.io/articles/the-hunter-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

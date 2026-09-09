@@ -118,8 +118,19 @@ A: Aquiles Priester plays sustained double-bass patterns at 180–220+ BPM with 
 
 A: Priester tunes his kit for outdoor festival projection — the dominant live context on the South American touring circuit. Toms are tuned for clear pitch differentiation and volume; kick drums use moderate muffling to emphasize attack without over-damping the fundamental tone. For studio work he adjusts tuning and head selection to match the room and the arrangement, working closely with engineers to capture the warmth and attack balance that characterizes Angra's recorded sound.
 
+## Related Articles
+
+- [What's In Mike Portnoy's Reunion Kit: Dream Theater 2025 Complete Breakdown](https://metalforge.io/articles/whats-in-mike-portnoys-kit)
+- [Top 10 Progressive Metal Drummers](https://metalforge.io/lists/progressive-metal-drummers)
+
+## Related Drummers
+
+- [Mike Portnoy](https://metalforge.io/drummer/mike-portnoy)
+- [Danny Carey](https://metalforge.io/drummer/danny-carey)
+- [Gene Hoglan](https://metalforge.io/drummer/gene-hoglan)
+
 **Source:** https://metalforge.io/articles/aquiles-priester-drum-kit-guide
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

@@ -98,8 +98,22 @@ A: 'Stabbing the Drama' was produced by Jens Bogren and Daniel Bergstrand. It wa
 
 A: On 'Stabbing the Drama,' Verbeuren played a Tama Starclassic Performer kit with a single bass drum, double pedal, and Meinl Byzance cymbals — the same brand relationships he maintains today. His actual Megadeth studio debut, detailed on the [The Sick, the Dying... and the Dead! Drum Setup article](/articles/the-sick-the-dying-and-the-dead-drum-setup), uses a related single-kick-plus-double-pedal touring philosophy (expanded to twin kicks for that studio session) but with a heavier, more modern production sound reflecting nearly two decades of gear evolution and higher-budget studio sessions.
 
+## Related Articles
+
+- [What's In Dirk Verbeuren's Megadeth Arsenal: Complete Gear Breakdown](https://metalforge.io/articles/whats-in-dirk-verbeurens-kit)
+- [Top 10 Thrash Metal Drummers](https://metalforge.io/lists/thrash-metal-drummers)
+- [Dirk Verbeuren's Drum Setup on Soilwork's 'Figure Number Five' (2003)](https://metalforge.io/articles/figure-number-five-drum-setup)
+- [Dirk Verbeuren's Drum Setup on Soilwork's 'Natural Born Chaos' (2002)](https://metalforge.io/articles/natural-born-chaos-drum-setup)
+- [Dirk Verbeuren's Drum Setup on Megadeth's 'The Sick, the Dying... and the Dead!' (2022)](https://metalforge.io/articles/the-sick-the-dying-and-the-dead-drum-setup)
+
+## Related Drummers
+
+- [Art Cruz](https://metalforge.io/drummer/art-cruz)
+- [Lars Ulrich](https://metalforge.io/drummer/lars-ulrich)
+- [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo)
+
 **Source:** https://metalforge.io/articles/stabbing-the-drama-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

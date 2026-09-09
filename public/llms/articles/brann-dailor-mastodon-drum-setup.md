@@ -121,8 +121,21 @@ A: The five albums that most comprehensively showcase Brann Dailor's drumming ar
 
 A: No — Brann Dailor plays a single bass drum with a single pedal, one of his most distinctive choices in a metal genre saturated with double-bass players. His single-kick approach focuses on precise groove placement and feel rather than double-kick velocity, giving his bass drum work a musical quality that double-kick speed often sacrifices. Mastodon's rhythmic foundation is built on Dailor's creative single-pedal patterns rather than double-bass saturation. This choice reflects his jazz-influenced philosophy: the foot is a groove instrument, not a speed demonstration. For double-bass drumming technique context, see the [double-bass technique overview at MetalForge](/technique/double-bass).
 
+## Related Articles
+
+- [Top 10 Most Innovative Metal Drummers](https://metalforge.io/lists/most-innovative-drummers)
+- [What's In Brann Dailor's Kit: Mastodon's Melodic Thunder Complete Breakdown](https://metalforge.io/articles/whats-in-brann-dailors-kit)
+- [Fear Inoculum Drum Setup: Danny Carey's Grammy-Winning Sound](https://metalforge.io/articles/fear-inoculum-drum-setup)
+- [obZen Drum Setup: Tomas Haake's Legendary "Bleed" Gear Breakdown](https://metalforge.io/articles/obzen-drum-setup)
+
+## Related Drummers
+
+- [Brann Dailor](https://metalforge.io/drummer/brann-dailor)
+- [Danny Carey](https://metalforge.io/drummer/danny-carey)
+- [Mario Duplantier](https://metalforge.io/drummer/mario-duplantier)
+
 **Source:** https://metalforge.io/articles/brann-dailor-mastodon-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

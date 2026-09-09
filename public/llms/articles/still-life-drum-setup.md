@@ -120,8 +120,19 @@ A: Still Life's drum production reflects standard Swedish death metal practice c
 
 A: Still Life was the first Opeth album Martin Lopez tracked from inception to completion — My Arms, Your Hearse (1998) had him joining partway through production. This made Still Life his first opportunity to think about the drums compositionally across an entire album's arc. The concept album structure — a continuous narrative spanning 67 minutes — required Lopez to sustain emotional phrasing in ways track-by-track metal albums rarely demand. The disciplines he developed on Still Life (dynamic storytelling, ghost note architecture, brush sensitivity, jazz ride vocabulary) were the exact tools Steven Wilson recognized and captured on Blackwater Park. Without Still Life, there is no Blackwater Park as we know it. For the [Blackwater Park drum setup breakdown](/articles/blackwater-park-drum-setup) and how Lopez evolved his approach, see the full article. For his later work, the [Deliverance drum setup](/articles/deliverance-drum-setup) shows his most extreme Opeth performance.
 
+## Related Articles
+
+- [Blackwater Park Drum Setup: Martin Lopez's Opeth Masterpiece](https://metalforge.io/articles/blackwater-park-drum-setup)
+- [Deliverance Drum Setup: Martin Lopez's Most Extreme Opeth Performance](https://metalforge.io/articles/deliverance-drum-setup)
+
+## Related Drummers
+
+- [Danny Carey](https://metalforge.io/drummer/danny-carey)
+- [Tomas Haake](https://metalforge.io/drummer/tomas-haake)
+- [Mike Portnoy](https://metalforge.io/drummer/mike-portnoy)
+
 **Source:** https://metalforge.io/articles/still-life-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

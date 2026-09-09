@@ -113,8 +113,22 @@ A: Spreading the Disease was produced by Carl Canedy — drummer of The Rods —
 
 A: Spreading the Disease is the opening chapter of Charlie Benante's classic-era gear arc. It documents his first full album on Tama Artstar drums and HP35 Camco pedals, his early Paiste 2002/RUDE cymbal setup, and the nascent form of the double-bass and blast-beat techniques that would be fully refined on Among the Living (1987) and Persistence of Time (1990). For the next chapter in his gear evolution, see the Among the Living drum setup breakdown.
 
+## Related Articles
+
+- [What's In Charlie Benante's Anthrax Kit: The Big Four's Technical Pioneer](https://metalforge.io/articles/whats-in-charlie-benantes-kit)
+- [Top 10 Thrash Metal Drummers](https://metalforge.io/lists/thrash-metal-drummers)
+- [Among the Living Drum Setup: Charlie Benante's Anthrax Gear Breakdown](https://metalforge.io/articles/charlie-benante-among-the-living-drum-setup)
+- [Charlie Benante's Drum Setup on Anthrax's State of Euphoria (1988)](https://metalforge.io/articles/state-of-euphoria-drum-setup)
+- [Persistence of Time Drum Setup: Charlie Benante's 1990 Anthrax Gear Breakdown](https://metalforge.io/articles/persistence-of-time-drum-setup)
+
+## Related Drummers
+
+- [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo)
+- [Lars Ulrich](https://metalforge.io/drummer/lars-ulrich)
+- [Gene Hoglan](https://metalforge.io/drummer/gene-hoglan)
+
 **Source:** https://metalforge.io/articles/spreading-the-disease-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

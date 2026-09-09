@@ -101,8 +101,21 @@ A: *Hammered* includes the track "The Game," written by WWE composer Jim Johnsto
 
 A: *Hammered* was produced by Thom Panunzio, known for his work with Bruce Springsteen and U2, and recorded at Henson Recording Studios in Hollywood as well as at Chuck Reed's private house in the Hollywood Hills. It was mixed at Interscope Studios and mastered at Capitol Mastering, and marked Motörhead's first North American distribution through Sanctuary Records and its Metal-Is imprint.
 
+## Related Articles
+
+- [We Are Motörhead Drum Setup: Mikkey Dee's Gear on Motörhead's 2000 Album](https://metalforge.io/articles/we-are-motorhead-drum-setup)
+- [Inferno Drum Setup: Mikkey Dee's Gear on Motörhead's 2004 Album](https://metalforge.io/articles/inferno-drum-setup)
+- [What's In Mikkey Dee's Motörhead/Scorpions Arsenal: 23 Years Behind Rock's Loudest Band](https://metalforge.io/articles/whats-in-mikkey-dees-kit)
+- [Snake Bite Love Drum Setup: Mikkey Dee's Gear on Motörhead's 1998 Album](https://metalforge.io/articles/snake-bite-love-drum-setup)
+
+## Related Drummers
+
+- [Hellhammer](https://metalforge.io/drummer/hellhammer)
+- [Lars Ulrich](https://metalforge.io/drummer/lars-ulrich)
+- [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo)
+
 **Source:** https://metalforge.io/articles/hammered-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

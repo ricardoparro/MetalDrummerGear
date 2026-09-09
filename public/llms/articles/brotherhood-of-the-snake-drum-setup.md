@@ -113,8 +113,22 @@ A: Yes — 'The Pale King,' a track from Brotherhood of the Snake, was nominated
 
 A: Brotherhood of the Snake (2016) represents a more refined and sonically polished Hoglan than the albums he made with Testament in the 1990s. Low (1994) and The Gathering (1999) captured him in a more aggressive, raw approach that reflected the gear and production standards of that era. On Brotherhood of the Snake, his Pearl Reference Series setup, Sabian AAX cymbals, and Pearl Demon Drive pedals combine with Juan Urteaga's modern production to produce a drum sound that is simultaneously heavier and more detailed — the same ferocity with 22 additional years of refinement.
 
+## Related Articles
+
+- [Gene Hoglan Drum Setup: The Atomic Clock Complete Gear Guide](https://metalforge.io/articles/gene-hoglan-drum-setup)
+- [What's In Gene Hoglan's Atomic Arsenal: Complete Gear Breakdown](https://metalforge.io/articles/whats-in-gene-hoglans-kit)
+- [Top 10 Thrash Metal Drummers](https://metalforge.io/lists/thrash-metal-drummers)
+- [Darkness Descends Drum Setup: Gene Hoglan's Breakthrough (Dark Angel, 1986)](https://metalforge.io/articles/darkness-descends-drum-setup)
+- [Testament 'The Formation of Damnation' Drum Setup (Paul Bostaph, 2008)](https://metalforge.io/articles/formation-of-damnation-drum-setup)
+
+## Related Drummers
+
+- [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo)
+- [George Kollias](https://metalforge.io/drummer/george-kollias)
+- [Pete Sandoval](https://metalforge.io/drummer/pete-sandoval)
+
 **Source:** https://metalforge.io/articles/brotherhood-of-the-snake-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

@@ -102,8 +102,21 @@ A: God Hates Us All was produced by Matt Hyde, known for his work with Porno for
 
 A: God Hates Us All debuted and peaked at #28 on the Billboard 200 — Slayer's highest US chart position at the time of release, beating Diabolus in Musica's #31 from 1998. The album was certified Gold by the RIAA in subsequent years. Despite the release-date overlap with September 11, 2001, the album's commercial performance was strong, and it remains one of the most successful Slayer studio records of the post-Reign in Blood era.
 
+## Related Articles
+
+- [Top 10 Thrash Metal Drummers](https://metalforge.io/lists/thrash-metal-drummers)
+- [Top 10 Fastest Double Bass Drummers in Metal History](https://metalforge.io/lists/fastest-double-bass-drummers)
+- [Dave Lombardo's Drum Setup on Slayer's Christ Illusion (2006)](https://metalforge.io/articles/christ-illusion-drum-setup)
+- [Dave Lombardo's Drum Setup on Slayer's World Painted Blood (2009)](https://metalforge.io/articles/world-painted-blood-drum-setup)
+
+## Related Drummers
+
+- [Lars Ulrich](https://metalforge.io/drummer/lars-ulrich)
+- [Charlie Benante](https://metalforge.io/drummer/charlie-benante)
+- [Pete Sandoval](https://metalforge.io/drummer/pete-sandoval)
+
 **Source:** https://metalforge.io/articles/god-hates-us-all-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

@@ -109,8 +109,19 @@ A: Tomas Haake used Sabian AAX and AA Series cymbals on obZen. His setup include
 
 A: Tomas Haake's Sonor Designer Series setup for obZen would have cost approximately $5,000 to $7,000 new in 2008. The Sonor Designer Series Steel snare added another $400 to $500. The Sonor Designer Series has since been discontinued, making well-maintained examples increasingly desirable among collectors. Sabian AAX and AA cymbals remain in active production and are priced competitively, with a setup comparable to Haake's obZen configuration running between $1,500 and $2,500 at current retail prices.
 
+## Related Articles
+
+- [Nothing Drum Setup: Tomas Haake's Polyrhythmic Blueprint (Meshuggah, 2002)](https://metalforge.io/articles/nothing-drum-setup)
+- [Koloss Drum Setup: Tomas Haake's Most Groove-Focused Meshuggah Performance (2012)](https://metalforge.io/articles/koloss-drum-setup)
+
+## Related Drummers
+
+- [Danny Carey](https://metalforge.io/drummer/danny-carey)
+- [John Otto](https://metalforge.io/drummer/john-otto)
+- [Brann Dailor](https://metalforge.io/drummer/brann-dailor)
+
 **Source:** https://metalforge.io/articles/obzen-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

@@ -93,8 +93,13 @@ A: The Incident received a Grammy nomination for Best Surround Sound Album at th
 
 A: The Incident was the final Porcupine Tree studio album before the band's thirteen-year hiatus, which ended with 2022's Closure/Continuation. It closes out the run that began with In Absentia (2002) and Deadwing (2005) and peaked commercially with Fear of a Blank Planet (2007) — all recorded with the same core Sonor SQ2 and Zildjian K Custom Special Dry setup Harrison had developed across that decade.
 
+## Related Articles
+
+- [Porcupine Tree Fear of a Blank Planet Drum Setup: Gavin Harrison's 2007 Gear](https://metalforge.io/articles/fear-of-a-blank-planet-drum-setup)
+- [Gavin Harrison's Drum Setup on Porcupine Tree's Closure/Continuation (2022)](https://metalforge.io/articles/closure-continuation-drum-setup)
+
 **Source:** https://metalforge.io/articles/the-incident-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

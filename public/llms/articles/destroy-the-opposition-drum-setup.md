@@ -87,8 +87,18 @@ A: Kevin Talley played a Pearl Masters kit on Destroy the Opposition — maple/m
 
 A: The groove sections on "Destroy the Opposition" run at approximately 155 BPM and hit with a physical weight that can feel heavier than many faster passages, because Talley places the snare and kick with surgical precision rather than filling space with density. This "chug" or breakdown-style pattern requires the drummer to let notes breathe — a different discipline than blasting, where the challenge is resisting the temptation to fill every gap. The kick locks in tightly with the bass guitar, giving the song its signature tight, low-end weight.
 
+## Related Articles
+
+- [What's In George Kollias' Speed Arsenal](https://metalforge.io/articles/whats-in-george-kollias-kit)
+- [Tim Yeung Drum Kit & Gear Setup — Morbid Angel Death Metal](https://metalforge.io/articles/tim-yeung-drum-setup)
+
+## Related Drummers
+
+- [George Kollias](https://metalforge.io/drummer/george-kollias)
+- [Tim Yeung](https://metalforge.io/drummer/tim-yeung)
+
 **Source:** https://metalforge.io/articles/destroy-the-opposition-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

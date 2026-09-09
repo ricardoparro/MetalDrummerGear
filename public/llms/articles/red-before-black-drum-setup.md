@@ -101,8 +101,20 @@ A: The album opens with "Only One Will Die" and features the singles "Code of th
 
 A: Red Before Black was the last Cannibal Corpse album Erik Rutan produced purely as an outside producer. Within roughly two years of its release he was filling in for guitarist Pat O'Brien on tour, and by 2020 he had officially joined Cannibal Corpse as their full-time lead guitarist — making Violence Unimagined (2021) both his next production credit and his recording debut as a band member.
 
+## Related Articles
+
+- [Top 10 Death Metal Drummers](https://metalforge.io/lists/death-metal-drummers)
+- [Paul Mazurkiewicz's Drum Setup on Cannibal Corpse's 'A Skeletal Domain' (2014)](https://metalforge.io/articles/skeletal-domain-drum-setup)
+- [Paul Mazurkiewicz's Drum Setup on Cannibal Corpse's 'Torture' (2012)](https://metalforge.io/articles/torture-drum-setup)
+- [Paul Mazurkiewicz's Drum Setup on Cannibal Corpse's 'Violence Unimagined' (2021)](https://metalforge.io/articles/violence-unimagined-drum-setup)
+- [Paul Mazurkiewicz Drum Setup — Cannibal Corpse Gear Guide](https://metalforge.io/articles/paul-mazurkiewicz-drum-setup)
+
+## Related Drummers
+
+- [Paul Mazurkiewicz](https://metalforge.io/drummer/paul-mazurkiewicz)
+
 **Source:** https://metalforge.io/articles/red-before-black-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

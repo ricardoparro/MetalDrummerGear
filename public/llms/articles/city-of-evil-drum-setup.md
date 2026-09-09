@@ -108,8 +108,14 @@ A: The Rev played Zildjian A Custom cymbals on City of Evil (2005). His setup in
 
 A: The Rev (Jimmy Sullivan) recorded four studio albums as the drummer for Avenged Sevenfold: Sounding the Seventh Trumpet (2001), Waking the Fallen (2003), City of Evil (2005), and Avenged Sevenfold (2007). He also composed the drum parts for Nightmare (2010) before his death on December 28, 2009; those parts were performed by Mike Portnoy as a tribute on the posthumously completed album. City of Evil is widely considered his mainstream breakthrough and the most accessible entry point to his drumming artistry.
 
+## Related Articles
+
+- [What Drums Did The Rev Use on Avenged Sevenfold (2007)?](https://metalforge.io/articles/avenged-sevenfold-self-titled-drum-setup)
+- [Nightmare Drum Setup — Mike Portnoy's Tribute Performance for Avenged Sevenfold (2010)](https://metalforge.io/articles/nightmare-drum-setup)
+- [Arin Ilejay's Drum Setup on Avenged Sevenfold's Hail to the King (2013)](https://metalforge.io/articles/hail-to-the-king-drum-setup)
+
 **Source:** https://metalforge.io/articles/city-of-evil-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

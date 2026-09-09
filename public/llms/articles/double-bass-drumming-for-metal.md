@@ -50,8 +50,19 @@ A: Most drummers develop basic double bass coordination (playing 8th notes at 10
 
 A: Begin with the "alternating 8ths" exercise: right-left-right-left at 60 BPM, aiming for perfectly even strokes from both feet. Then move to 8th note triplets, then 16ths. Once you can play even 16th notes at 80 BPM with both feet, add your hands. The heel-toe technique (described in Step 2 above) will help you reach higher tempos more quickly than pure ankle drive.
 
+## Related Articles
+
+- [Joey Jordison Drum Setup: Slipknot Drummer Kit & Gear Breakdown](https://metalforge.io/articles/joey-jordison-drum-setup)
+- [Gene Hoglan Drum Setup: The Atomic Clock Complete Gear Guide](https://metalforge.io/articles/gene-hoglan-drum-setup)
+
+## Related Drummers
+
+- [Joey Jordison](https://metalforge.io/drummer/joey-jordison)
+- [George Kollias](https://metalforge.io/drummer/george-kollias)
+- [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo)
+
 **Source:** https://metalforge.io/articles/double-bass-drumming-for-metal
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

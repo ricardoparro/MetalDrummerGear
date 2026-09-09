@@ -101,8 +101,20 @@ A: Mikkey Dee used Paiste 2002 series cymbals on *Inferno* — the same alloy fa
 
 A: Yes — *Inferno* (2004) features a guest lead guitar appearance from Steve Vai, one of several notable guest musicians to appear on Motörhead records during the Mikkey Dee era. The collaboration reflected Motörhead's growing reputation and reach across the rock world by the mid-2000s, twelve years into Dee's tenure behind the kit.
 
+## Related Articles
+
+- [Bastards Drum Setup: Mikkey Dee's Gear on Motörhead's 1993 Album](https://metalforge.io/articles/bastards-drum-setup)
+- [What's In Mikkey Dee's Motörhead/Scorpions Arsenal: 23 Years Behind Rock's Loudest Band](https://metalforge.io/articles/whats-in-mikkey-dees-kit)
+- [Kiss of Death Drum Setup: Mikkey Dee's Gear on Motörhead's 2006 Album](https://metalforge.io/articles/kiss-of-death-drum-setup)
+
+## Related Drummers
+
+- [Hellhammer](https://metalforge.io/drummer/hellhammer)
+- [Lars Ulrich](https://metalforge.io/drummer/lars-ulrich)
+- [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo)
+
 **Source:** https://metalforge.io/articles/inferno-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

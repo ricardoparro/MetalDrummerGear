@@ -111,8 +111,19 @@ A: Pete Sandoval is closely associated with Paiste RUDE cymbals, one of the most
 
 A: Pete's specific ddrum series and snare model haven't been publicly confirmed, so an exact price for his personal rig isn't available. A full Paiste RUDE cymbal setup matching his configuration runs approximately $1,500 to $2,500.
 
+## Related Articles
+
+- [Reign in Blood Drum Setup: Dave Lombardo's Gear Breakdown](https://metalforge.io/articles/reign-in-blood-drum-setup)
+- [Symbolic Drum Setup: Gene Hoglan's Death Masterpiece](https://metalforge.io/articles/symbolic-drum-setup)
+
+## Related Drummers
+
+- [Gene Hoglan](https://metalforge.io/drummer/gene-hoglan)
+- [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo)
+- [George Kollias](https://metalforge.io/drummer/george-kollias)
+
 **Source:** https://metalforge.io/articles/whats-in-pete-sandovals-kit
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

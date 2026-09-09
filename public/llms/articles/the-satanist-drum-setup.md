@@ -108,8 +108,20 @@ A: The blast beats on The Satanist operate primarily in the 180–220 BPM range,
 
 A: Inferno used Paiste Signature Dark Energy cymbals as his primary cymbal selection for The Satanist, supplemented by Paiste Signature Dark Energy series pieces. The Classics Custom Dark series is specifically engineered for darker tonal characteristics — reduced brightness, increased complexity — which suited The Satanist's sonic identity perfectly. The setup included 14" Dark hi-hats, 16" and 18" Dark crashes, a 22" Dark ride, an 18" Dark China, and a Byzance 19" Extra Dry Thin Crash for additional accent options. The darker cymbal character allowed Inferno's playing to blend cohesively with Behemoth's down-tuned guitar layers rather than cutting against them.
 
+## Related Articles
+
+- [What's In Inferno's Behemoth Arsenal: Complete Gear Breakdown](https://metalforge.io/articles/whats-in-infernos-kit)
+- [Altars of Madness Drum Setup: Pete Sandoval's Death Metal Genesis](https://metalforge.io/articles/altars-of-madness-drum-setup)
+- [None So Vile Drum Setup: Flo Mounier's Technical Death Metal Landmark](https://metalforge.io/articles/none-so-vile-drum-setup)
+
+## Related Drummers
+
+- [George Kollias](https://metalforge.io/drummer/george-kollias)
+- [Pete Sandoval](https://metalforge.io/drummer/pete-sandoval)
+- [Gene Hoglan](https://metalforge.io/drummer/gene-hoglan)
+
 **Source:** https://metalforge.io/articles/the-satanist-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

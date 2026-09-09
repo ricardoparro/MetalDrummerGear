@@ -104,8 +104,20 @@ A: Thirteen years separate Periphery's 2010 debut from Periphery V: Aliens (2023
 
 A: Periphery V: Aliens was released on 3DOT Recordings, Periphery's own independent label. Periphery founded 3DOT Recordings to maintain full creative and commercial control of their recordings, and the label has released Periphery IV: Hail Stan (2019) and Periphery V: Aliens (2023). The 2023 album was produced by guitarist Misha Mansoor — the same producer-guitarist who has helmed every Periphery studio recording since the self-titled debut in 2010.
 
+## Related Articles
+
+- [Matt Halpern's Drum Setup on Periphery IV: Hail Stan (2019)](https://metalforge.io/articles/periphery-iv-drum-setup)
+- [Periphery Drum Setup: Matt Halpern's Gear on the 2010 Debut](https://metalforge.io/articles/periphery-drum-setup)
+- [What's In Matt Halpern's Periphery Kit: Complete Gear Breakdown](https://metalforge.io/articles/whats-in-matt-halperns-kit)
+
+## Related Drummers
+
+- [Matt Garstka](https://metalforge.io/drummer/matt-garstka)
+- [Tomas Haake](https://metalforge.io/drummer/tomas-haake)
+- [Gavin Harrison](https://metalforge.io/drummer/gavin-harrison)
+
 **Source:** https://metalforge.io/articles/periphery-v-aliens-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

@@ -102,8 +102,20 @@ A: Cannibal Corpse opened the 2020s with Violence Unimagined (2021), their fifte
 
 A: Violence Unimagined's singles were "Inhumane Harvest," "Murderous Rampage," and "Necrogenic Resurrection" — all of which showcase Paul Mazurkiewicz's sustained double-bass drive against Erik Rutan's densest guitar mix on any Cannibal Corpse album to that point.
 
+## Related Articles
+
+- [Top 10 Death Metal Drummers](https://metalforge.io/lists/death-metal-drummers)
+- [Paul Mazurkiewicz's Drum Setup on Cannibal Corpse's 'Red Before Black' (2017)](https://metalforge.io/articles/red-before-black-drum-setup)
+- [Paul Mazurkiewicz's Drum Setup on Cannibal Corpse's 'A Skeletal Domain' (2014)](https://metalforge.io/articles/skeletal-domain-drum-setup)
+- [Paul Mazurkiewicz's Drum Setup on Cannibal Corpse's 'Chaos Horrific' (2023)](https://metalforge.io/articles/chaos-horrific-drum-setup)
+- [Paul Mazurkiewicz Drum Setup — Cannibal Corpse Gear Guide](https://metalforge.io/articles/paul-mazurkiewicz-drum-setup)
+
+## Related Drummers
+
+- [Paul Mazurkiewicz](https://metalforge.io/drummer/paul-mazurkiewicz)
+
 **Source:** https://metalforge.io/articles/violence-unimagined-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

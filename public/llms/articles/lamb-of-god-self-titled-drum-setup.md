@@ -90,8 +90,22 @@ A: Art Cruz's recording setup on the 2020 self-titled album centered on a Ludwig
 
 A: Yes. While Cruz had toured with Lamb of God as a live fill-in for Chris Adler as early as 2018, the band's 2020 self-titled album — featuring tracks like "Memento Mori," "Resurrection Man," and "Gomorrah" — was his first full studio album as an official member, recorded after he formally joined in 2019.
 
+## Related Articles
+
+- [What's In Art Cruz' Lamb of God Arsenal: Complete Gear Breakdown](https://metalforge.io/articles/whats-in-art-cruzs-kit)
+- [Ashes of the Wake Drum Setup: Chris Adler's Groove Metal Masterpiece](https://metalforge.io/articles/ashes-of-the-wake-drum-setup)
+- [What's In Chris Adler's Lamb of God Arsenal: Complete Gear Breakdown](https://metalforge.io/articles/whats-in-chris-adlers-kit)
+- [Lamb of God "Omens" Drum Setup: Art Cruz's 2022 Album](https://metalforge.io/articles/omens-drum-setup)
+
+## Related Drummers
+
+- [Ray Luzier](https://metalforge.io/drummer/ray-luzier)
+- [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo)
+- [Gene Hoglan](https://metalforge.io/drummer/gene-hoglan)
+- [Chris Adler](https://metalforge.io/drummer/chris-adler)
+
 **Source:** https://metalforge.io/articles/lamb-of-god-self-titled-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

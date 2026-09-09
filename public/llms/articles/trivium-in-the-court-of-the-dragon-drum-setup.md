@@ -88,8 +88,22 @@ A: In the Court of the Dragon (2021) pushes further into progressive songwriting
 
 A: In the Court of the Dragon was produced by Josh Wilbur, who also produced The Sin and the Sentence (2017) and What the Dead Men Say (2020) — all three of Alex Bent's studio albums with Trivium to that point. It was recorded at Full Sail University in Orlando, Florida, in the fall of 2020.
 
+## Related Articles
+
+- [Top 10 Technical Death Metal Drummers](https://metalforge.io/lists/technical-death-metal-drummers)
+- [What the Dead Men Say Drum Setup: Alex Bent's Pandemic-Era Trivium Album (2020)](https://metalforge.io/articles/trivium-what-the-dead-men-say-drum-setup)
+- [The Sin and the Sentence Drum Setup: Alex Bent's Trivium Debut (2017)](https://metalforge.io/articles/trivium-sin-and-the-sentence-drum-setup)
+- [What's In Alex Bent's Trivium Arsenal: Complete Gear Breakdown](https://metalforge.io/articles/whats-in-alex-bents-kit)
+- [Shogun Drum Setup: Nick Augusto's Progressive Thrash Masterpiece (Trivium, 2008)](https://metalforge.io/articles/shogun-drum-setup)
+
+## Related Drummers
+
+- [Gene Hoglan](https://metalforge.io/drummer/gene-hoglan)
+- [George Kollias](https://metalforge.io/drummer/george-kollias)
+- [Mike Portnoy](https://metalforge.io/drummer/mike-portnoy)
+
 **Source:** https://metalforge.io/articles/trivium-in-the-court-of-the-dragon-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

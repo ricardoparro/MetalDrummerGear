@@ -131,8 +131,21 @@ A: Vinnie Paul was a Sabian endorser, working primarily with the AAX and HHX ser
 
 A: The ddrum Vinnie Paul Signature Series kit is estimated at $5,000 to $8,000 for the shell pack. His ddrum Vinnie Paul Signature snare, a deep 14x8 inch model, adds roughly $400 to $600. A matching Sabian AAX and HHX cymbal setup runs approximately $2,000 to $3,500. To assemble a tribute rig close to his Pantera-era setup, expect a total investment in the range of $8,000 to $12,000.
 
+## Related Articles
+
+- [Top 10 Groove Metal Drummers](https://metalforge.io/lists/groove-metal-drummers)
+- [Vulgar Display of Power Drum Setup: Vinnie Paul's Gear Breakdown](https://metalforge.io/articles/vulgar-display-of-power-drum-setup)
+- [Reign in Blood Drum Setup: Dave Lombardo's Gear Breakdown](https://metalforge.io/articles/reign-in-blood-drum-setup)
+- [Master of Puppets Drum Setup: Lars Ulrich's Gear Breakdown](https://metalforge.io/articles/master-of-puppets-drum-setup)
+
+## Related Drummers
+
+- [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo)
+- [Art Cruz](https://metalforge.io/drummer/art-cruz)
+- [Eloy Casagrande](https://metalforge.io/drummer/eloy-casagrande)
+
 **Source:** https://metalforge.io/articles/whats-in-vinnie-pauls-kit
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

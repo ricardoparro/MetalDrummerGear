@@ -121,8 +121,22 @@ A: During the Cosmogenesis era, Hannes Grossmann used a high-speed Tama Iron Cob
 
 A: Cosmogenesis is widely regarded as a landmark in technical death metal because it demonstrated that the genre could be both compositionally sophisticated and viscerally extreme without sacrificing either dimension. The album combined fast, vocabulary-driven tech-death drumming (Grossmann's precision and velocity) with genuine progressive composition (Obscura's seven-string guitar work, Jeroen Paul Thesseling's fretless bass solos, and the dynamic structural arcs of songs like "Cosmogenesis" and "Choir of Spirits"). V. Santura's natural-voice production captured this combination with a clarity that became a reference point for the genre. The album opened a space in tech death for melodic, atmospheric, and musically composed approaches that subsequent acts (Beyond Creation, Fallujah, Wormed) would explore further. For broader tech-death context: [death metal drummers at MetalForge](/articles/death-metal-drummers).
 
+## Related Articles
+
+- [Top 10 Death Metal Drummers](https://metalforge.io/lists/death-metal-drummers)
+- [Top 10 Progressive Death Metal Drummers](https://metalforge.io/lists/progressive-death-metal-drummers)
+- [Hannes Grossmann Drum Setup — Obscura and Alkaloid's Prog-Death Architect](https://metalforge.io/articles/hannes-grossmann-drum-setup)
+- [Individual Thought Patterns Drum Setup: Gene Hoglan's First Death Album](https://metalforge.io/articles/individual-thought-patterns-drum-setup)
+- [Cynic Focus Drum Setup: Sean Reinert's 1993 Progressive Death Metal Gear](https://metalforge.io/articles/focus-drum-setup)
+
+## Related Drummers
+
+- [Hannes Grossmann](https://metalforge.io/drummer/hannes-grossmann)
+- [George Kollias](https://metalforge.io/drummer/george-kollias)
+- [Gene Hoglan](https://metalforge.io/drummer/gene-hoglan)
+
 **Source:** https://metalforge.io/articles/cosmogenesis-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

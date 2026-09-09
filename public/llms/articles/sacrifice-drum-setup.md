@@ -101,8 +101,20 @@ A: Yes. Guitarist Michael "Würzel" Burston left Motörhead shortly after *Sacri
 
 A: By *Sacrifice* (1995), Dee was two years into the role and playing with noticeably more confidence and speed than on his 1993 debut, [*Bastards*](/articles/bastards-drum-setup). *Sacrifice*'s eleven tracks run under 37 minutes total, making it one of the fastest, most compact records of his Motörhead tenure — tracks like "Sex & Death" barely clear two minutes. Where *Bastards* still carried some of the audition energy of a new drummer proving himself, *Sacrifice* shows a drummer fully in command of the band's tempo and dynamic demands.
 
+## Related Articles
+
+- [Bastards Drum Setup: Mikkey Dee's Gear on Motörhead's 1993 Album](https://metalforge.io/articles/bastards-drum-setup)
+- [What's In Mikkey Dee's Motörhead/Scorpions Arsenal: 23 Years Behind Rock's Loudest Band](https://metalforge.io/articles/whats-in-mikkey-dees-kit)
+- [March ör Die Drum Setup: The Session Where Mikkey Dee First Played for Motörhead](https://metalforge.io/articles/march-or-die-drum-setup)
+
+## Related Drummers
+
+- [Hellhammer](https://metalforge.io/drummer/hellhammer)
+- [Lars Ulrich](https://metalforge.io/drummer/lars-ulrich)
+- [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo)
+
 **Source:** https://metalforge.io/articles/sacrifice-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

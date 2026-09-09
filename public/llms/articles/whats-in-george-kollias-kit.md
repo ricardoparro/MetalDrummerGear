@@ -125,8 +125,20 @@ A: George Kollias plays Zildjian cymbals, mixing K Custom and A Custom series pi
 
 A: George Kollias' Pearl Masterworks Stadium Exotic kit is a custom-order instrument estimated at $8,000 to $12,000, placing it firmly in the professional custom tier. His Pearl signature snare adds $400 to $500. The Zildjian K Custom and A Custom cymbal combination runs approximately $2,000 to $3,500 for a complete matched setup. All in, replicating his full rig would likely cost $11,000 to $16,000.
 
+## Related Articles
+
+- [Altars of Madness Drum Setup: Pete Sandoval's Death Metal Genesis](https://metalforge.io/articles/altars-of-madness-drum-setup)
+- [Symbolic Drum Setup: Gene Hoglan's Death Masterpiece](https://metalforge.io/articles/symbolic-drum-setup)
+- [Reign in Blood Drum Setup: Dave Lombardo's Gear Breakdown](https://metalforge.io/articles/reign-in-blood-drum-setup)
+
+## Related Drummers
+
+- [Gene Hoglan](https://metalforge.io/drummer/gene-hoglan)
+- [Arin Ilejay](https://metalforge.io/drummer/arin-ilejay)
+- [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo)
+
 **Source:** https://metalforge.io/articles/whats-in-george-kollias-kit
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

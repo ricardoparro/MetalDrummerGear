@@ -104,8 +104,18 @@ A: Matt Greiner's cymbal setup has evolved across three distinct eras. On *Messe
 
 A: *Messengers* (2007) was the record that introduced Matt Greiner's blast-to-groove transition technique to the metal world — the ability to shift from a controlled blast beat directly into a locked, syncopated groove without losing the pocket or the connection to the riff. In a genre where blast beats were often treated as blunt instruments, Greiner demonstrated they could function as compositional tools: arriving at high points, then resolving into groove at the exact moment the riff changed. His ghost note integration — layering subtle dynamics beneath primary patterns — also distinguished his playing from simpler metalcore contemporaries. *Messengers* reached #13 on the US Christian Albums chart, and tracks like "Composure" and "Meddler" established ABR as a technical reference point for an entire generation of metalcore bands. See the [Matt Greiner drummer profile](/drummer/matt-greiner) for the full career context.
 
+## Related Articles
+
+- [Leveler Drum Setup: Matt Greiner's Gear on August Burns Red's 2011 Album](https://metalforge.io/articles/leveler-drum-setup)
+- [Matt Greiner Complete Drum Setup — August Burns Red Gear Guide](https://metalforge.io/articles/matt-greiner-complete-drum-setup)
+- [Matt Greiner's Drum Setup on August Burns Red's Constellations (2009)](https://metalforge.io/articles/constellations-drum-setup)
+
+## Related Drummers
+
+- [Matt Greiner](https://metalforge.io/drummer/matt-greiner)
+
 **Source:** https://metalforge.io/articles/messengers-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

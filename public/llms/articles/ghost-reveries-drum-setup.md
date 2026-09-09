@@ -106,8 +106,19 @@ A: Ghost Reveries returns to the full dynamic range that defined [Blackwater Par
 
 A: Martin Lopez used Sabian HH and AAX cymbals on Ghost Reveries — the same complement he'd used since Blackwater Park, including HH 14" Regular Hi-Hats, an AAX 16" Stage Crash, an HH 18" Medium Crash, an HH 20" Medium Ride, and an AAX 18" Chinese. He eased off the tighter, harder-struck approach he'd used on Deliverance, letting the cymbals' dark, harmonically complex voice suit the album's frequent moves between death metal aggression and acoustic, Mellotron-laden passages.
 
+## Related Articles
+
+- [Blackwater Park Drum Setup: Martin Lopez's Opeth Masterpiece](https://metalforge.io/articles/blackwater-park-drum-setup)
+- [Deliverance Drum Setup: Martin Lopez's Most Extreme Opeth Performance](https://metalforge.io/articles/deliverance-drum-setup)
+
+## Related Drummers
+
+- [Danny Carey](https://metalforge.io/drummer/danny-carey)
+- [Tomas Haake](https://metalforge.io/drummer/tomas-haake)
+- [Mike Portnoy](https://metalforge.io/drummer/mike-portnoy)
+
 **Source:** https://metalforge.io/articles/ghost-reveries-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

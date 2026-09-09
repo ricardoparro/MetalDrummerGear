@@ -99,8 +99,23 @@ A: "Catharsis," the second track on Volume 8: The Threat Is Real, is built aroun
 
 A: Volume 8: The Threat Is Real (1998) was Anthrax's last new studio album for three years — the band did not release another full album of new material until We've Come for You All in 2003. This makes Volume 8 the closing statement of Anthrax's mid-90s groove-metal phase and the final album to feature Charlie Benante's heaviest, lowest-tuned Tama configuration before the tuning approach shifted back toward brighter, thrash-driven playing. For the prior chapter, see the [Stomp 442 drum setup article](/articles/stomp-442-drum-setup); for the band's eventual return to a thrash-driven sound, see the [Worship Music drum setup](/articles/worship-music-drum-setup).
 
+## Related Articles
+
+- [What's In Charlie Benante's Anthrax Kit: The Big Four's Technical Pioneer](https://metalforge.io/articles/whats-in-charlie-benantes-kit)
+- [Top 10 Thrash Metal Drummers](https://metalforge.io/lists/thrash-metal-drummers)
+- [Charlie Benante's Drum Setup on Anthrax's Stomp 442 (1995)](https://metalforge.io/articles/stomp-442-drum-setup)
+- [Charlie Benante's Drum Setup on Anthrax's Sound of White Noise (1993)](https://metalforge.io/articles/sound-of-white-noise-drum-setup)
+- [Charlie Benante's Drum Setup on Anthrax's We've Come for You All (2003)](https://metalforge.io/articles/weve-come-for-you-all-drum-setup)
+- [Charlie Benante's Drum Setup on Anthrax's Worship Music (2011)](https://metalforge.io/articles/worship-music-drum-setup)
+
+## Related Drummers
+
+- [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo)
+- [Lars Ulrich](https://metalforge.io/drummer/lars-ulrich)
+- [Gene Hoglan](https://metalforge.io/drummer/gene-hoglan)
+
 **Source:** https://metalforge.io/articles/volume-8-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

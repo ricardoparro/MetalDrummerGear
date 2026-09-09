@@ -110,8 +110,22 @@ A: High Road from Once More 'Round the Sun (2014) is Mastodon's most-streamed so
 
 A: Once More 'Round the Sun (2014) is the transitional album between The Hunter's commercial groove approach (2011) and Emperor of Sand's emotionally sophisticated storytelling (2017). On this record, Dailor refined his half-time groove technique, became a more prominent vocalist than on any previous Mastodon album, and maintained the Tama Starclassic Maple and Meinl Byzance platform that carried unchanged into the Emperor of Sand era. The album fills the only gap in Dailor's Mastodon album arc between Koloss-adjacent records and the Grammy-winning Emperor of Sand.
 
+## Related Articles
+
+- [Top 10 Progressive Metal Drummers](https://metalforge.io/lists/progressive-metal-drummers)
+- [The Hunter Drum Setup: Brann Dailor's Grammy-Winning Kit on Mastodon's 2011 Album](https://metalforge.io/articles/the-hunter-drum-setup)
+- [Emperor of Sand Drum Setup: Brann Dailor's Grammy-Winning Kit on Mastodon's 2017 Masterpiece](https://metalforge.io/articles/emperor-of-sand-drum-setup)
+- [Hushed and Grim Drum Setup: Brann Dailor's Grammy-Nominated Kit on Mastodon's 2021 Double Album](https://metalforge.io/articles/hushed-and-grim-drum-setup)
+- [Crack the Skye Drum Setup: Brann Dailor's Gear on Mastodon's Masterpiece](https://metalforge.io/articles/crack-the-skye-drum-setup)
+
+## Related Drummers
+
+- [Tomas Haake](https://metalforge.io/drummer/tomas-haake)
+- [Danny Carey](https://metalforge.io/drummer/danny-carey)
+- [Morgan Ågren](https://metalforge.io/drummer/morgan-agren)
+
 **Source:** https://metalforge.io/articles/once-more-round-the-sun-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

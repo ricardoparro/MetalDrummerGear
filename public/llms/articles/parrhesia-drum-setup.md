@@ -86,8 +86,20 @@ A: Parrhesia was released March 25, 2022 on Sumerian Records, six years after Th
 
 A: Garstka's Parrhesia cymbal setup is built on Meinl Byzance, including 15 inch Dual Hi-Hats, 18 and 20 inch Dual and Extra Dry crashes, a 22 inch Sand Ride, an 18 inch Dual Crash / 16 inch Trash Crash effect stack, and an 18 inch Vintage Trash Hat China — the same full stack he'd used since The Madness of Many, with the 22 inch Sand Ride remaining his signature ride voice across all three studio albums.
 
+## Related Articles
+
+- [The Madness of Many Drum Setup: Matt Garstka's Signature Gear Era Begins](https://metalforge.io/articles/the-madness-of-many-drum-setup)
+- [The Joy of Motion Drum Setup: Matt Garstka's Debut With Animals as Leaders](https://metalforge.io/articles/the-joy-of-motion-drum-setup)
+- [What's In Matt Garstka's Kit: The Jazz-Fusion Meets Progressive Metal Arsenal](https://metalforge.io/articles/whats-in-matt-garstkas-kit)
+
+## Related Drummers
+
+- [Tomas Haake](https://metalforge.io/drummer/tomas-haake)
+- [Danny Carey](https://metalforge.io/drummer/danny-carey)
+- [Mike Portnoy](https://metalforge.io/drummer/mike-portnoy)
+
 **Source:** https://metalforge.io/articles/parrhesia-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

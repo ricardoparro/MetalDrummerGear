@@ -114,8 +114,20 @@ A: Godsmack's most recent and final studio album, Lighting Up the Sky, was relea
 
 A: Shannon Larkin uses the DW 9000 Series Double Bass Pedal on Lighting Up the Sky (2023) and throughout the post-2010 Godsmack period. The DW 9000's chain-drive mechanism and adjustable cam deliver the smooth, consistent feel his groove-forward hard rock double-kick patterns require. It is one of the most trusted flagship double bass pedals in professional rock and metal drumming.
 
+## Related Articles
+
+- [Shannon Larkin Drum Setup — Godsmack's Complete Gear Guide](https://metalforge.io/articles/shannon-larkin-drum-setup)
+- [When Legends Rise Drum Setup: Shannon Larkin's ddrum Dios Series Gear on Godsmack's #1 Rock Album (2018)](https://metalforge.io/articles/when-legends-rise-drum-setup)
+- [What Drums Did Shannon Larkin Use on 1000hp?](https://metalforge.io/articles/godsmack-1000hp-drum-setup)
+
+## Related Drummers
+
+- [Ray Luzier](https://metalforge.io/drummer/ray-luzier)
+- [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo)
+- [Lars Ulrich](https://metalforge.io/drummer/lars-ulrich)
+
 **Source:** https://metalforge.io/articles/lighting-up-the-sky-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

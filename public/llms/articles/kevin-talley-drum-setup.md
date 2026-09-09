@@ -99,8 +99,18 @@ A: Kevin Talley plays Sabian AAX Series cymbals, having switched to the brand du
 
 A: A Pearl Masters Custom or Reference Series shell pack in Kevin Talley's double bass configuration currently costs approximately $3,000 to $5,500. The Pearl Free-Floating or Sensitone Steel snare adds $300 to $600. A complete Sabian AAX Series cymbal setup runs an additional $2,000 to $3,500. The full rig totals roughly $6,000 to $10,000, representing a professional-grade investment capable of handling the demands of technical death metal.
 
+## Related Articles
+
+- [Tim Yeung Drum Kit & Gear Setup — Morbid Angel Death Metal](https://metalforge.io/articles/tim-yeung-drum-setup)
+- [What's In George Kollias' Speed Arsenal](https://metalforge.io/articles/whats-in-george-kollias-kit)
+- [Paul Mazurkiewicz Drum Setup — Cannibal Corpse Gear Guide](https://metalforge.io/articles/paul-mazurkiewicz-drum-setup)
+
+## Related Drummers
+
+- [Kevin Talley](https://metalforge.io/drummer/kevin-talley)
+
 **Source:** https://metalforge.io/articles/kevin-talley-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

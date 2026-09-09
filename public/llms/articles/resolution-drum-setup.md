@@ -123,8 +123,21 @@ A: "Desolation" from Resolution features Adler's most complex polyrhythmic appro
 
 A: Resolution was recorded at NRG Recording Services in North Hollywood, California, with producer Josh Wilbur. NRG is a major Los Angeles facility known for its acoustic versatility and its work with top-tier rock and metal acts. Wilbur's production on Resolution gave the drum sound more air and dynamic range than Machine's previous three Lamb of God productions — the Meinl Byzance cymbals breathe more openly in the mix, and the drum room ambience sits more prominently than on Wrath or Sacrament.
 
+## Related Articles
+
+- [Top 10 Groove Metal Drummers](https://metalforge.io/lists/groove-metal-drummers)
+- [What's In Chris Adler's Lamb of God Arsenal: Complete Gear Breakdown](https://metalforge.io/articles/whats-in-chris-adlers-kit)
+- [Lamb of God 'Wrath' Drum Setup — Chris Adler's Grammy-Nominated 2009 Kit](https://metalforge.io/articles/wrath-drum-setup)
+- [Lamb of God 'Sacrament' Drum Setup — Chris Adler's 2006 Grammy-Era Kit](https://metalforge.io/articles/sacrament-drum-setup)
+
+## Related Drummers
+
+- [Vinnie Paul](https://metalforge.io/drummer/vinnie-paul)
+- [Joey Jordison](https://metalforge.io/drummer/joey-jordison)
+- [Mario Duplantier](https://metalforge.io/drummer/mario-duplantier)
+
 **Source:** https://metalforge.io/articles/resolution-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

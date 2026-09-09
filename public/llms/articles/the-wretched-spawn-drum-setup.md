@@ -98,8 +98,20 @@ A: The Wretched Spawn was produced and mixed by Neil Kernon, with engineer Justi
 
 A: Yes. The Wretched Spawn (2004) was rhythm guitarist Jack Owen's final studio album with Cannibal Corpse — he departed after touring behind the record, and Rob Barrett, who had previously played on The Bleeding (1994) and Vile (1996), rejoined the band in time for Kill (2006).
 
+## Related Articles
+
+- [Top 10 Death Metal Drummers](https://metalforge.io/lists/death-metal-drummers)
+- [Paul Mazurkiewicz's Drum Setup on Cannibal Corpse's Gore Obsessed (2002)](https://metalforge.io/articles/gore-obsessed-drum-setup)
+- [Paul Mazurkiewicz's Drum Setup on Cannibal Corpse's Kill (2006)](https://metalforge.io/articles/kill-drum-setup)
+- [Paul Mazurkiewicz's Drum Setup on Cannibal Corpse's Tomb of the Mutilated (1992)](https://metalforge.io/articles/tomb-of-the-mutilated-drum-setup)
+- [Paul Mazurkiewicz Drum Setup — Cannibal Corpse Gear Guide](https://metalforge.io/articles/paul-mazurkiewicz-drum-setup)
+
+## Related Drummers
+
+- [Paul Mazurkiewicz](https://metalforge.io/drummer/paul-mazurkiewicz)
+
 **Source:** https://metalforge.io/articles/the-wretched-spawn-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

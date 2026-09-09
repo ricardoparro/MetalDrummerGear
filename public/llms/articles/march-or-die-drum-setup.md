@@ -98,8 +98,19 @@ A: Mikkey Dee joined Motörhead in 1992, after Lemmy Kilmister had unsuccessfull
 
 A: Mikkey Dee used a Tama Artstar II kit for the "Hellraiser" session — a 22" bass drum, 10"/12"/13" rack toms, and 16"/18" floor toms, paired with a 14" x 6.5" Tama Artstar II steel snare. His cymbal setup combined Paiste Giant Beat 15" hi-hats with Paiste 2002 ride, crash, and china cymbals. This is the same core Tama/Paiste setup he carried into the [*Bastards*](/articles/bastards-drum-setup) sessions the following year. See the [full kit breakdown](/articles/whats-in-mikkey-dees-kit) for his complete gear evolution.
 
+## Related Articles
+
+- [What's In Mikkey Dee's Motörhead/Scorpions Arsenal: 23 Years Behind Rock's Loudest Band](https://metalforge.io/articles/whats-in-mikkey-dees-kit)
+- [Bastards Drum Setup: Mikkey Dee's Gear on Motörhead's 1993 Album](https://metalforge.io/articles/bastards-drum-setup)
+
+## Related Drummers
+
+- [Hellhammer](https://metalforge.io/drummer/hellhammer)
+- [Lars Ulrich](https://metalforge.io/drummer/lars-ulrich)
+- [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo)
+
 **Source:** https://metalforge.io/articles/march-or-die-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

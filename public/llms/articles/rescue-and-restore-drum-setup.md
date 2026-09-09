@@ -106,8 +106,18 @@ A: On *Rescue & Restore* (2014), Matt Greiner used Meinl Byzance cymbals — his
 
 A: *Rescue & Restore* (2014) was August Burns Red's first studio album recorded entirely at Atrium Audio in Lancaster, Pennsylvania — just minutes from the band's hometown. The album was produced by longtime collaborators Carson Slovak and Grant McFarland, who replaced Jason Suecof (Audiohammer Studios, Florida) as the band's production team. The shift to hometown recording with familiar collaborators contributed to the album's distinctly cleaner, more dynamically controlled sound — particularly noticeable on Matt Greiner's drum performances, which Slovak and McFarland captured with less aggressive limiting and more preserved natural attack than ABR's previous albums. Atrium Audio would remain ABR's primary studio across multiple subsequent records.
 
+## Related Articles
+
+- [Leveler Drum Setup: Matt Greiner's Gear on August Burns Red's 2011 Album](https://metalforge.io/articles/leveler-drum-setup)
+- [Messengers Drum Setup: Matt Greiner's Gear on August Burns Red's 2007 Breakthrough Album](https://metalforge.io/articles/messengers-drum-setup)
+- [Matt Greiner Complete Drum Setup — August Burns Red Gear Guide](https://metalforge.io/articles/matt-greiner-complete-drum-setup)
+
+## Related Drummers
+
+- [Matt Greiner](https://metalforge.io/drummer/matt-greiner)
+
 **Source:** https://metalforge.io/articles/rescue-and-restore-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

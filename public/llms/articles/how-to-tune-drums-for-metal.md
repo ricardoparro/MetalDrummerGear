@@ -46,8 +46,19 @@ A: The bass drum "click" or "beater attack" comes from the beater striking the h
 
 A: For bass drum: Evans EMAD, Remo Powerstroke 3, or Aquarian Super-Kick are the industry standards. For snare batter: Remo Ambassador Coated (medium sustain), Evans Genera Dry (controlled sustain), or Aquarian Hi-Energy (maximum durability and dryness). For toms: Remo Ambassador Coated or Evans EC2 Coated for a warm, punchy sound. Vinnie Paul used DW Performance heads on his snare for the specific fat-crack sound he wanted on Pantera recordings.
 
+## Related Articles
+
+- [Joey Jordison Drum Setup: Slipknot Drummer Kit & Gear Breakdown](https://metalforge.io/articles/joey-jordison-drum-setup)
+- [What's In Vinnie Paul's Pantera Arsenal (Tribute)](https://metalforge.io/articles/whats-in-vinnie-pauls-kit)
+
+## Related Drummers
+
+- [Joey Jordison](https://metalforge.io/drummer/joey-jordison)
+- [Vinnie Paul](https://metalforge.io/drummer/vinnie-paul)
+- [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo)
+
 **Source:** https://metalforge.io/articles/how-to-tune-drums-for-metal
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

@@ -125,8 +125,21 @@ A: Three things distinguish George Kollias from every other claimant to 'fastest
 
 A: 'Annihilation of the Wicked' (2005, Relapse Records) is Nile's fourth studio album and George Kollias's debut with the band. It is widely considered a landmark in extreme metal drumming — the first album to demonstrate that 240–260 BPM blast beats could be sustained with complete clarity across a professional studio recording. Tracks like 'Cast Down the Heretic,' 'Lashed to the Wicked,' and 'User-Maat-Re' are still studied by extreme metal drummers as benchmarks for speed, endurance, and polyrhythmic complexity. Decibel Magazine inducted it into their Hall of Fame. For a comparison with Flo Mounier — another speed-focused extreme metal drummer — see: [George Kollias vs Flo Mounier](/vs/george-kollias-vs-flo-mounier).
 
+## Related Articles
+
+- [Top 10 Fastest Metal Drummers](https://metalforge.io/lists/fastest-metal-drummers)
+- [What's In George Kollias' Speed Arsenal](https://metalforge.io/articles/whats-in-george-kollias-kit)
+- [Altars of Madness Drum Setup: Pete Sandoval's Death Metal Genesis](https://metalforge.io/articles/altars-of-madness-drum-setup)
+- [Reign in Blood Drum Setup: Dave Lombardo's Gear Breakdown](https://metalforge.io/articles/reign-in-blood-drum-setup)
+
+## Related Drummers
+
+- [Gene Hoglan](https://metalforge.io/drummer/gene-hoglan)
+- [Arin Ilejay](https://metalforge.io/drummer/arin-ilejay)
+- [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo)
+
 **Source:** https://metalforge.io/articles/george-kollias-nile-annihilation-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

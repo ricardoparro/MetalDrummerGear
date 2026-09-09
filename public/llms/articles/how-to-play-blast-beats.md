@@ -50,8 +50,19 @@ A: The blast beat has contested origins — early punk and hardcore bands used p
 
 A: A blast beat is a specific pattern combining snare, hi-hat, and kick drum in rapid unison strokes, typically using a single bass drum. Double bass drumming uses two bass drums (or a double pedal) to play alternating kick patterns beneath any groove or beat. George Kollias and Pete Sandoval combine both techniques — their blast beats often include double bass subdivisions for additional density.
 
+## Related Articles
+
+- [Gene Hoglan Drum Setup: The Atomic Clock Complete Gear Guide](https://metalforge.io/articles/gene-hoglan-drum-setup)
+- [Joey Jordison Drum Setup: Slipknot Drummer Kit & Gear Breakdown](https://metalforge.io/articles/joey-jordison-drum-setup)
+
+## Related Drummers
+
+- [George Kollias](https://metalforge.io/drummer/george-kollias)
+- [Pete Sandoval](https://metalforge.io/drummer/pete-sandoval)
+- [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo)
+
 **Source:** https://metalforge.io/articles/how-to-play-blast-beats
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

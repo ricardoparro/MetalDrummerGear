@@ -106,8 +106,19 @@ A: Deceivers (2022) is the most compositionally mature and tonally sophisticated
 
 A: Deceivers (August 12, 2022) closes the Alissa White-Gluz era arc that began with War Eternal (2014) — an eight-year, three-album span during which Arch Enemy maintained its global headlining status and continued the trajectory of one of melodic death metal's most sustained commercial careers. For Daniel Erlandsson, Deceivers represents the current endpoint of a 27-year run as Arch Enemy's drummer: eleven studio albums, from the raw Gothenburg death metal of Black Earth (1996) through the polished modern production of Deceivers, across multiple vocalist configurations and multiple shifts in the band's global profile. The arc from Khaos Legions (2011) through Deceivers (2022) documents a full decade of the White-Gluz era: [Khaos Legions](/articles/khaos-legions-drum-setup) · [War Eternal (2014)](/articles/war-eternal-drum-setup) · [Will to Power (2017)](/articles/will-to-power-drum-setup) · [Daniel Erlandsson drummer profile](/drummer/daniel-erlandsson).
 
+## Related Articles
+
+- [Top 10 Melodic Death Metal Drummers](https://metalforge.io/lists/melodic-death-metal-drummers)
+- [Daniel Erlandsson's Drum Setup on Arch Enemy's Will to Power (2017)](https://metalforge.io/articles/will-to-power-drum-setup)
+- [Daniel Erlandsson's Drum Setup on Arch Enemy's War Eternal (2014)](https://metalforge.io/articles/war-eternal-drum-setup)
+- [Daniel Erlandsson's Drum Setup — At The Gates & Arch Enemy Kit Guide](https://metalforge.io/articles/daniel-erlandsson-drum-setup)
+
+## Related Drummers
+
+- [Daniel Erlandsson](https://metalforge.io/drummer/daniel-erlandsson)
+
 **Source:** https://metalforge.io/articles/deceivers-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

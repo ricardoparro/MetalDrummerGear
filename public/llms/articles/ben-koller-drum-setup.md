@@ -124,8 +124,20 @@ A: Ben Koller uses Evans drumheads on his Tama Starclassic Maple kit. He typical
 
 A: Ben Koller's current Converge drum setup is built around a Tama Starclassic Maple kit (all-maple shells), a Tama S.L.P. 14"x6" Brass snare, Zildjian K Dark Series cymbals, Tama Iron Cobra double pedal, and Evans drumheads. This configuration provides the attack, durability, and tonal range demanded by Converge's physically intense live show and exacting studio work with producer Kurt Ballou.
 
+## Related Articles
+
+- [What's In Brann Dailor's Kit: Mastodon's Melodic Thunder Complete Breakdown](https://metalforge.io/articles/whats-in-brann-dailors-kit)
+- [Ben Koller's Drum Setup on Converge's Jane Doe (2001)](https://metalforge.io/articles/jane-doe-drum-setup)
+- [Ben Koller's Drum Setup on Converge's Axe to Fall (2009)](https://metalforge.io/articles/axe-to-fall-drum-setup)
+
+## Related Drummers
+
+- [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo)
+- [Brann Dailor](https://metalforge.io/drummer/brann-dailor)
+- [Tomas Haake](https://metalforge.io/drummer/tomas-haake)
+
 **Source:** https://metalforge.io/articles/ben-koller-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

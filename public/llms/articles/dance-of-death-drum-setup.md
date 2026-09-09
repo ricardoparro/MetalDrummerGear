@@ -96,8 +96,21 @@ A: 'Paschendale,' an eight-minute epic about the WWI Battle of Passchendaele, is
 
 A: Yes — Dance of Death (2003) was the second studio album from the reunited classic Iron Maiden lineup of Bruce Dickinson, Adrian Smith, Dave Murray, Janick Gers, Steve Harris, and Nicko McBrain, following Brave New World (2000). The album confirmed the reunion's staying power and pushed the band toward longer, more ambitious song structures that would culminate in the concept album [A Matter of Life and Death (2006)](/articles/a-matter-of-life-and-death-drum-setup).
 
+## Related Articles
+
+- [Top 10 Thrash Metal Drummers](https://metalforge.io/lists/thrash-metal-drummers)
+- [Top 10 Most Innovative Metal Drummers](https://metalforge.io/lists/most-innovative-drummers)
+- [Brave New World Drum Setup: Nicko McBrain's Gear on Iron Maiden's 2000 Reunion Masterpiece](https://metalforge.io/articles/brave-new-world-drum-setup)
+- [A Matter of Life and Death Drum Setup: Nicko McBrain's Gear on Iron Maiden's 2006 Concept Album](https://metalforge.io/articles/a-matter-of-life-and-death-drum-setup)
+
+## Related Drummers
+
+- [Lars Ulrich](https://metalforge.io/drummer/lars-ulrich)
+- [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo)
+- [Charlie Benante](https://metalforge.io/drummer/charlie-benante)
+
 **Source:** https://metalforge.io/articles/dance-of-death-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

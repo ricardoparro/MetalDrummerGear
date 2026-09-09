@@ -104,8 +104,22 @@ A: Gore Obsessed (2002) charted at #11 on the US Independent Albums chart, #28 o
 
 A: The limited edition of Gore Obsessed (2002) included a cover of Metallica's 'No Remorse' as a bonus track, while the Japanese edition included a live recording of 'Compelled to Lacerate' as its bonus material. The standard album lineup remained the same five-piece configuration as Gallery of Suicide (1998) and Bloodthirst (1999): George 'Corpsegrinder' Fisher, Pat O'Brien, Jack Owen, Alex Webster, and Paul Mazurkiewicz.
 
+## Related Articles
+
+- [Top 10 Death Metal Drummers](https://metalforge.io/lists/death-metal-drummers)
+- [Paul Mazurkiewicz's Drum Setup on Cannibal Corpse's Bloodthirst (1999)](https://metalforge.io/articles/bloodthirst-drum-setup)
+- [Paul Mazurkiewicz's Drum Setup on Cannibal Corpse's Gallery of Suicide (1998)](https://metalforge.io/articles/gallery-of-suicide-drum-setup)
+- [Paul Mazurkiewicz's Drum Setup on Cannibal Corpse's The Wretched Spawn (2004)](https://metalforge.io/articles/the-wretched-spawn-drum-setup)
+- [Paul Mazurkiewicz Drum Setup — Cannibal Corpse Gear Guide](https://metalforge.io/articles/paul-mazurkiewicz-drum-setup)
+- [Paul Mazurkiewicz's Drum Setup on Cannibal Corpse's Tomb of the Mutilated (1992)](https://metalforge.io/articles/tomb-of-the-mutilated-drum-setup)
+- [None So Vile Drum Setup: Flo Mounier's Technical Death Metal Landmark](https://metalforge.io/articles/none-so-vile-drum-setup)
+
+## Related Drummers
+
+- [Paul Mazurkiewicz](https://metalforge.io/drummer/paul-mazurkiewicz)
+
 **Source:** https://metalforge.io/articles/gore-obsessed-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

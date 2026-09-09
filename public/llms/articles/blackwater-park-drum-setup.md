@@ -119,8 +119,20 @@ A: Martin Lopez used Sabian HH and AAX series cymbals on Blackwater Park. His se
 
 A: Martin Lopez's Sonor Designer Series kit retailed for approximately $3,500 to $5,000 when new around 2001. Vintage Sonor Designer Series kits in good condition now sell for $1,500 to $3,500 on the used market. His Sabian HH and AAX cymbals remain available new, with a comparable complete setup costing $1,500 to $2,500 today. Sourcing the original vintage Sonor Designer pieces can be competitive given the model's enduring reputation among collectors.
 
+## Related Articles
+
+- [Still Life Drum Setup: Martin Lopez Establishes His Opeth Voice](https://metalforge.io/articles/still-life-drum-setup)
+- [Ghost Reveries Drum Setup: Martin Lopez's Farewell Opeth Album (2005)](https://metalforge.io/articles/ghost-reveries-drum-setup)
+- [Opeth Damnation Drum Setup: Martin Lopez's 2003 Progressive Rock Gear](https://metalforge.io/articles/damnation-drum-setup)
+
+## Related Drummers
+
+- [Danny Carey](https://metalforge.io/drummer/danny-carey)
+- [Tomas Haake](https://metalforge.io/drummer/tomas-haake)
+- [Mike Portnoy](https://metalforge.io/drummer/mike-portnoy)
+
 **Source:** https://metalforge.io/articles/blackwater-park-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

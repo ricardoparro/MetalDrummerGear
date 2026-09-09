@@ -44,6 +44,44 @@ function drummerLink(name) {
   return drummerMdSlugs.has(slug) ? `[${name}](/llms/drummers/${slug}.md)` : name;
 }
 
+// Issue #7210: relatedArticles/relatedAlbums/relatedDrummers cross-links, resolved
+// against real slug sets so we never emit a fabricated/broken link.
+//
+// relatedDrummers -> id -> slug (same regex+eval extraction generate-llms-drummers.cjs
+// uses for api/drummers/index.js), validated against drummerMdSlugs above. A handful
+// of entries already carry the slug directly instead of a numeric id — handle both.
+const drummersPath = path.join(__dirname, '../api/drummers/index.js');
+const drummersArrayMatch = fs.readFileSync(drummersPath, 'utf-8')
+  .match(/const drummers = (\[[\s\S]*?\]);[\s\S]*?export default function handler/);
+const drummers = drummersArrayMatch ? eval(drummersArrayMatch[1]) : [];
+const drummerIdToSlug = new Map();
+const drummerSlugToName = new Map();
+for (const d of drummers) {
+  const slug = generateSlug(d.name);
+  drummerIdToSlug.set(d.id, slug);
+  drummerSlugToName.set(slug, d.name);
+}
+
+function resolveDrummerRef(ref) {
+  const slug = typeof ref === 'number' ? drummerIdToSlug.get(ref) : generateSlug(ref);
+  if (!slug || !drummerMdSlugs.has(slug)) return null;
+  return { href: `/drummer/${slug}`, label: drummerSlugToName.get(slug) || slug };
+}
+
+// relatedArticles/relatedAlbums slugs point into one of two content families:
+// packages/frontend/data/albumArticles (route /articles/<slug>) or
+// packages/frontend/data/top10Lists (route /lists/<slug> — confirmed against
+// App.js's TopListPage + api/sitemap.js, not /top10/ or /guides/). These maps are
+// populated in main() once both ESM data modules are loaded.
+let albumArticleTitles = new Map();
+let top10ListTitles = new Map();
+
+function resolveArticleRef(slug) {
+  if (albumArticleTitles.has(slug)) return { href: `/articles/${slug}`, label: albumArticleTitles.get(slug) };
+  if (top10ListTitles.has(slug)) return { href: `/lists/${slug}`, label: top10ListTitles.get(slug) };
+  return null;
+}
+
 // Join a gear sub-object's `setup`/`items` array into a single readable line.
 function listModels(arr) {
   if (!Array.isArray(arr)) return null;
@@ -161,6 +199,36 @@ function buildMarkdown(article) {
     }
   }
 
+  // --- Related (relatedArticles/relatedAlbums/relatedDrummers, Issue #7210) -----
+  // relatedArticles + relatedAlbums both point at "articles" in the site's sense
+  // (album-setup pieces or top10 lists) so they're deduped into one list; unresolved
+  // slugs are logged and skipped rather than emitted as broken links.
+  const relatedArticleLinks = [];
+  const seenArticleSlugs = new Set();
+  for (const relSlug of [...(article.relatedArticles || []), ...(article.relatedAlbums || [])]) {
+    if (seenArticleSlugs.has(relSlug)) continue;
+    seenArticleSlugs.add(relSlug);
+    const resolved = resolveArticleRef(relSlug);
+    if (resolved) relatedArticleLinks.push(resolved);
+    else console.warn(`  ↳ "${slug}": related slug "${relSlug}" resolves to neither albumArticles nor top10Lists — skipped`);
+  }
+  const relatedDrummerLinks = [];
+  for (const ref of article.relatedDrummers || []) {
+    const resolved = resolveDrummerRef(ref);
+    if (resolved) relatedDrummerLinks.push(resolved);
+    else console.warn(`  ↳ "${slug}": related drummer ref "${ref}" has no matching /llms/drummers md — skipped`);
+  }
+  if (relatedArticleLinks.length) {
+    md += `## Related Articles\n\n`;
+    for (const link of relatedArticleLinks) md += `- [${link.label}](${BASE}${link.href})\n`;
+    md += `\n`;
+  }
+  if (relatedDrummerLinks.length) {
+    md += `## Related Drummers\n\n`;
+    for (const link of relatedDrummerLinks) md += `- [${link.label}](${BASE}${link.href})\n`;
+    md += `\n`;
+  }
+
   // --- Footer / cross-links (always >=3 internal links) -------------------------
   md += `**Source:** ${sourceUrl}\n\n`;
   md += `**More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)\n\n`;
@@ -174,6 +242,14 @@ async function main() {
   // ALBUM_ARTICLES is composed from ESM per-drummer modules under albumArticles/ —
   // dynamic import() loads it directly instead of regexing the (now barrel) .js file.
   const { ALBUM_ARTICLES: articles } = await import('../packages/frontend/data/albumArticles/index.js');
+  const { TOP_10_LISTS } = await import('../packages/frontend/data/top10Lists.js');
+
+  for (const a of Object.values(articles)) {
+    if (a && a.slug) albumArticleTitles.set(a.slug, a.title || a.slug);
+  }
+  for (const l of Object.values(TOP_10_LISTS)) {
+    if (l && l.slug) top10ListTitles.set(l.slug, l.title || l.slug);
+  }
 
   const outDir = path.join(__dirname, '../public/llms/articles');
   fs.mkdirSync(outDir, { recursive: true });

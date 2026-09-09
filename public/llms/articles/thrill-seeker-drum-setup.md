@@ -91,8 +91,18 @@ A: *Thrill Seeker* (2005) was produced by Adam Dutkiewicz — best known as the 
 
 A: *Thrill Seeker* (2005) shows a rawer, less technically developed version of the blast-beat-to-groove vocabulary that would become Matt Greiner's signature. The single-bass-drum, double-pedal setup and entry-level Sabian B8 cymbals stand in sharp contrast to the true double-bass-drum rigs, professional DW and Pearl kits, and Meinl Byzance cymbals documented on every subsequent August Burns Red album. The compositional instincts are already present in embryonic form, but the gear and execution reflect a teenage drummer two years before his professional breakthrough on [Messengers (2007)](/articles/messengers-drum-setup). For his full career arc, see the [Matt Greiner drummer profile](/drummer/matt-greiner).
 
+## Related Articles
+
+- [Messengers Drum Setup: Matt Greiner's Gear on August Burns Red's 2007 Breakthrough Album](https://metalforge.io/articles/messengers-drum-setup)
+- [Matt Greiner Complete Drum Setup — August Burns Red Gear Guide](https://metalforge.io/articles/matt-greiner-complete-drum-setup)
+- [Matt Greiner's Drum Setup on August Burns Red's Constellations (2009)](https://metalforge.io/articles/constellations-drum-setup)
+
+## Related Drummers
+
+- [Matt Greiner](https://metalforge.io/drummer/matt-greiner)
+
 **Source:** https://metalforge.io/articles/thrill-seeker-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

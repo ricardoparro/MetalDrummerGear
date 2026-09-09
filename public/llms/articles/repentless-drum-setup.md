@@ -94,8 +94,20 @@ A: No. Dave Lombardo did not play on Repentless. He departed Slayer for the seco
 
 A: Repentless debuted at #4 on the Billboard 200 — the highest chart position any Slayer studio album reached in the United States, surpassing God Hates Us All's #28 debut in 2001. It sold roughly 49,000 copies in its first week.
 
+## Related Articles
+
+- [What's In Paul Bostaph's Slayer Arsenal](https://metalforge.io/articles/whats-in-paul-bostaphs-kit)
+- [Top 10 Thrash Metal Drummers](https://metalforge.io/lists/thrash-metal-drummers)
+- [God Hates Us All Drum Setup: Slayer's 9/11 Album Gear Breakdown (2001)](https://metalforge.io/articles/god-hates-us-all-drum-setup)
+- [Dave Lombardo's Drum Setup on Slayer's Christ Illusion (2006)](https://metalforge.io/articles/christ-illusion-drum-setup)
+
+## Related Drummers
+
+- [Brann Dailor](https://metalforge.io/drummer/brann-dailor)
+- [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo)
+
 **Source:** https://metalforge.io/articles/repentless-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

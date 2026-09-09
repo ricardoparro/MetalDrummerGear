@@ -103,8 +103,19 @@ A: Sound of White Noise was produced by Dave Jerden — best known for Alice in 
 
 A: Sound of White Noise represents a fundamental change in Charlie Benante's drum approach compared to Among the Living, but not in his equipment. Both albums feature the same Tama birch kit and Paiste 2002/RUDE cymbals; where Among the Living (1987) ran a thrash-optimized configuration of dual 22" x 16" bass drums, three rack toms, and two floor toms tuned bright and punchy, Sound of White Noise (1993) runs a streamlined single-floor-tom setup tuned lower and damped heavier for groove weight. Stylistically, Charlie pulled back from sustained thrash double bass in favor of groove-anchored playing with weight, restraint, and dynamic sensitivity — a complete rethinking of technique that supported John Bush's arrival as Anthrax's new vocalist and the band's broader genre pivot. For the thrash-era counterpart, see the [Among the Living drum setup article](/articles/charlie-benante-among-the-living-drum-setup).
 
+## Related Articles
+
+- [Top 10 Thrash Metal Drummers](https://metalforge.io/lists/thrash-metal-drummers)
+- [Among the Living Drum Setup: Charlie Benante's Anthrax Gear Breakdown](https://metalforge.io/articles/charlie-benante-among-the-living-drum-setup)
+
+## Related Drummers
+
+- [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo)
+- [Lars Ulrich](https://metalforge.io/drummer/lars-ulrich)
+- [Gene Hoglan](https://metalforge.io/drummer/gene-hoglan)
+
 **Source:** https://metalforge.io/articles/sound-of-white-noise-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

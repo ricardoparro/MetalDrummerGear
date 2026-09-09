@@ -98,8 +98,22 @@ A: Nicko McBrain used Paiste 2002 Series cymbals throughout The Number of the Be
 
 A: Nicko McBrain's Ludwig Classic Maple setup would have cost approximately $2,500 to $3,500 new in 1982. Vintage Ludwig Classic Maple kits in good condition are now sought after by collectors and typically sell for considerably more depending on finish and provenance. The Ludwig Supraphonic LM400 snare originally ran $300 to $400 and vintage examples today sell for $400 to $600. Paiste 2002 cymbals remain in production and are priced between $200 and $500 per piece.
 
+## Related Articles
+
+- [Top 10 Thrash Metal Drummers](https://metalforge.io/lists/thrash-metal-drummers)
+- [Top 10 Most Innovative Metal Drummers](https://metalforge.io/lists/most-innovative-drummers)
+- [Powerslave Drum Setup: Nicko McBrain's Gear on Iron Maiden's 1984 Live-Era Masterpiece](https://metalforge.io/articles/powerslave-drum-setup)
+- [Piece of Mind Drum Setup: Nicko McBrain's Debut Gear on Iron Maiden's 1983 Breakthrough](https://metalforge.io/articles/piece-of-mind-drum-setup)
+- [Seventh Son of a Seventh Son Drum Setup: Nicko McBrain's Most Dynamic Pre-90s Performance (1988)](https://metalforge.io/articles/seventh-son-drum-setup)
+
+## Related Drummers
+
+- [Lars Ulrich](https://metalforge.io/drummer/lars-ulrich)
+- [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo)
+- [Charlie Benante](https://metalforge.io/drummer/charlie-benante)
+
 **Source:** https://metalforge.io/articles/number-of-the-beast-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

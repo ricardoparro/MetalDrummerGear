@@ -123,8 +123,23 @@ A: On Chaos A.D. in 1993, Igor Cavalera used a combination of Paiste RUDE and 20
 
 A: At the time of recording in 1993, a Pearl Masters Custom kit was priced at approximately $2,500 to $3,500. Today, mid-1990s Pearl Masters Custom kits sell used for $800 to $2,000. The Pearl Free Floating Steel snare from that era adds roughly $200 to $400 on the vintage market. A matching set of vintage Paiste RUDE and 2002 cymbals runs $1,000 to $2,000. Putting together a complete Chaos A.D.-era replica would cost approximately $2,000 to $4,500.
 
+## Related Articles
+
+- [What's In Igor Cavalera's Tribal Arsenal: Complete Gear Breakdown](https://metalforge.io/articles/whats-in-igor-cavaleras-kit)
+- [Top 10 Groove Metal Drummers](https://metalforge.io/lists/groove-metal-drummers)
+- [Roots Drum Setup: Igor Cavalera's Brazilian Tribal Metal Revolution](https://metalforge.io/articles/roots-drum-setup)
+- [Beneath the Remains Drum Setup: Igor Cavalera's Brazilian Thrash Breakthrough](https://metalforge.io/articles/beneath-the-remains-drum-setup)
+- [Sepultura Arise Drum Setup: Igor Cavalera's 1991 Gear Breakdown](https://metalforge.io/articles/arise-drum-setup)
+
+## Related Drummers
+
+- [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo)
+- [Lars Ulrich](https://metalforge.io/drummer/lars-ulrich)
+- [Gene Hoglan](https://metalforge.io/drummer/gene-hoglan)
+- [Vinnie Paul](https://metalforge.io/drummer/vinnie-paul)
+
 **Source:** https://metalforge.io/articles/chaos-ad-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

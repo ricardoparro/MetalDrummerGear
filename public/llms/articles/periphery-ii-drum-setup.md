@@ -102,8 +102,20 @@ A: Periphery II: This Time It's Personal is widely regarded as the album that el
 
 A: Periphery II: This Time It's Personal was produced by Misha Mansoor, the band's guitarist and primary songwriter, working out of his personal studio setup. This continued the home-studio approach that had defined the 2010 self-titled debut, allowing the band maximum control over the production process and maintaining the directness that had made the first album's drum sound so effective. The production represented a refinement of the debut's approach — denser guitar arrangements, more complex low-end, and drum sounds that sat with greater authority in the mix.
 
+## Related Articles
+
+- [Periphery Drum Setup: Matt Halpern's Gear on the 2010 Debut](https://metalforge.io/articles/periphery-drum-setup)
+- [Matt Halpern's Drum Setup on Periphery III: Select Difficulty (2016)](https://metalforge.io/articles/periphery-iii-drum-setup)
+- [What's In Matt Halpern's Periphery Kit: Complete Gear Breakdown](https://metalforge.io/articles/whats-in-matt-halperns-kit)
+
+## Related Drummers
+
+- [Matt Garstka](https://metalforge.io/drummer/matt-garstka)
+- [Tomas Haake](https://metalforge.io/drummer/tomas-haake)
+- [Gavin Harrison](https://metalforge.io/drummer/gavin-harrison)
+
 **Source:** https://metalforge.io/articles/periphery-ii-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

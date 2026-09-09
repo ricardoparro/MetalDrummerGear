@@ -100,8 +100,21 @@ A: Nostradamus (2008) sits between Angel of Retribution (2005) and Redeemer of S
 
 A: Scott Travis used Sabian HH and AA series cymbals on Nostradamus — the same setup he had adopted on Angel of Retribution (2005) after switching from his earlier Paiste endorsement. The configuration included 14 inch Sabian HH Hi-Hats, AA and HH crashes from 16 to 20 inches for dynamic range, a 22 inch HH Power Ride for articulate groove passages, and an 18 inch AA China for trashy accents during the heaviest moments. That HH/AA hybrid combination gave Travis two distinct tonal characters without a full equipment change — important for an album that shifts between darkness and aggression across 23 tracks.
 
+## Related Articles
+
+- [Top 10 Fastest Double Bass Drummers in Metal History](https://metalforge.io/lists/fastest-double-bass-drummers)
+- [Top 10 Thrash Metal Drummers](https://metalforge.io/lists/thrash-metal-drummers)
+- [Scott Travis's Drum Setup on Judas Priest's Angel of Retribution (2005)](https://metalforge.io/articles/angel-of-retribution-drum-setup)
+- [Scott Travis's Drum Setup on Judas Priest's Redeemer of Souls (2014)](https://metalforge.io/articles/redeemer-of-souls-drum-setup)
+- [Scott Travis's Drum Setup on Judas Priest's Firepower (2018)](https://metalforge.io/articles/firepower-drum-setup)
+- [Painkiller Drum Setup: Scott Travis's Speed Metal Revolution](https://metalforge.io/articles/painkiller-drum-setup)
+
+## Related Drummers
+
+- [Shannon Larkin](https://metalforge.io/drummer/shannon-larkin)
+
 **Source:** https://metalforge.io/articles/nostradamus-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

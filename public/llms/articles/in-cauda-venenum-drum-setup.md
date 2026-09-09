@@ -96,8 +96,20 @@ A: Yes. In Cauda Venenum (2019) is Martin Axenrot's final studio album with Opet
 
 A: No — as of 2026, Opeth's most recent studio album is Last Will and Testament (2024), recorded with new drummer Waltteri Väyrynen. In Cauda Venenum (2019) was Opeth's newest release for several years and remains significant as Martin Axenrot's final studio album with the band, closing out the drumming era that began with Watershed (2008) and ran through the Heritage/Pale Communion/Sorceress prog trilogy. For Axenrot's complete arc, see [Sorceress drum setup](/articles/sorceress-drum-setup), [Watershed drum setup](/articles/watershed-drum-setup), and [Martin Axenrot's drummer profile](/drummer/martin-axenrot).
 
+## Related Articles
+
+- [Martin Axenrot's Drum Setup on Opeth's Sorceress (2016)](https://metalforge.io/articles/sorceress-drum-setup)
+- [Martin Axenrot's Drum Setup on Opeth's Pale Communion (2014)](https://metalforge.io/articles/pale-communion-drum-setup)
+- [Martin Axenrot's Drum Setup on Opeth's Watershed (2008)](https://metalforge.io/articles/watershed-drum-setup)
+
+## Related Drummers
+
+- [Danny Carey](https://metalforge.io/drummer/danny-carey)
+- [Tomas Haake](https://metalforge.io/drummer/tomas-haake)
+- [Mike Portnoy](https://metalforge.io/drummer/mike-portnoy)
+
 **Source:** https://metalforge.io/articles/in-cauda-venenum-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

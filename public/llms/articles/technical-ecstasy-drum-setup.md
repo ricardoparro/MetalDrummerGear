@@ -88,8 +88,19 @@ A: "Dirty Women" is the closing track on *Technical Ecstasy* (1976), Black Sabba
 
 A: Bill Ward's Ludwig Standard Maple kit on *Technical Ecstasy* — a 22" bass drum, two rack toms, and a floor tom — would have cost roughly $1,100 to $1,900 new in 1976, with the Zildjian cymbal setup adding another $500 to $850. Comparable vintage Ludwig kits from this era sell for $6,500 to $16,000 today in good original condition. See the [Sabotage drum setup](/articles/sabotage-drum-setup) for the album where this same gear configuration debuted.
 
+## Related Articles
+
+- [Bill Ward's Drum Setup on Black Sabbath's Sabotage (1975)](https://metalforge.io/articles/sabotage-drum-setup)
+- [Bill Ward's Drum Setup on Black Sabbath's 'Never Say Die!' (1978)](https://metalforge.io/articles/never-say-die-drum-setup)
+
+## Related Drummers
+
+- [Lars Ulrich](https://metalforge.io/drummer/lars-ulrich)
+- [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo)
+- [Charlie Benante](https://metalforge.io/drummer/charlie-benante)
+
 **Source:** https://metalforge.io/articles/technical-ecstasy-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

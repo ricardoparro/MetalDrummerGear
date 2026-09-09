@@ -103,8 +103,21 @@ A: Koloss (2012) is an excellent starting point for studying Tomas Haake, partic
 
 A: Koloss (2012) is Meshuggah's seventh studio album, sitting between obZen (2008) and The Violent Sleep of Reason (2016). It followed the experimental arc of the obZen/Catch 33 period with a deliberate return to riff-based, groove-heavy structures — a recalibration that made Meshuggah's polyrhythmic approach more immediately crushing. The album received a Grammy nomination for Best Metal Performance, confirming the band's continued relevance more than a decade after Nothing established the djent blueprint. For Tomas Haake, Koloss represents the groove-focused midpoint between obZen's technical peak and VSÖR's live-in-studio challenge.
 
+## Related Articles
+
+- [What's In Tomas Haake's Polyrhythmic Arsenal: Complete Gear Breakdown](https://metalforge.io/articles/whats-in-tomas-haakes-kit)
+- [Catch Thirtythree Drum Setup: Tomas Haake's 47-Minute Concept Album (Meshuggah, 2005)](https://metalforge.io/articles/catch-thirtythree-drum-setup)
+- [obZen Drum Setup: Tomas Haake's Legendary "Bleed" Gear Breakdown](https://metalforge.io/articles/obzen-drum-setup)
+- [The Violent Sleep of Reason Drum Setup: Tomas Haake's Live-to-Tape Kit (2016)](https://metalforge.io/articles/violent-sleep-of-reason-drum-setup)
+
+## Related Drummers
+
+- [Danny Carey](https://metalforge.io/drummer/danny-carey)
+- [John Otto](https://metalforge.io/drummer/john-otto)
+- [Brann Dailor](https://metalforge.io/drummer/brann-dailor)
+
 **Source:** https://metalforge.io/articles/koloss-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

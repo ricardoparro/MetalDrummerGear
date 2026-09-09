@@ -122,8 +122,22 @@ A: Hellhammer plays barefoot to maximize tactile feedback through his bass drum 
 
 A: Hellhammer drives his extreme-tempo double bass playing with an Axis double pedal, seated on a Sonor drummer's throne. For blast beat drumming where each kick stroke must occupy an exact rhythmic position at extreme tempos, this pedal is the engineering foundation of Hellhammer's double-kick precision.
 
+## Related Articles
+
+- [Top 10 Black Metal Drummers](https://metalforge.io/lists/black-metal-drummers)
+- [De Mysteriis Dom Sathanas Drum Setup: Hellhammer's 1994 Black Metal Blueprint](https://metalforge.io/articles/de-mysteriis-dom-sathanas-drum-setup)
+- [Hellhammer's Drum Setup on Dimmu Borgir's In Sorte Diaboli (2007)](https://metalforge.io/articles/in-sorte-diaboli-drum-setup)
+- [Gene Hoglan Drum Setup: The Atomic Clock Complete Gear Guide](https://metalforge.io/articles/gene-hoglan-drum-setup)
+- [Joey Jordison Drum Setup: Slipknot Drummer Kit & Gear Breakdown](https://metalforge.io/articles/joey-jordison-drum-setup)
+
+## Related Drummers
+
+- [Art Cruz](https://metalforge.io/drummer/art-cruz)
+- [Frost](https://metalforge.io/drummer/frost)
+- [Inferno](https://metalforge.io/drummer/inferno)
+
 **Source:** https://metalforge.io/articles/hellhammer-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

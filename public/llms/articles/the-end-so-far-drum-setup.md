@@ -18,14 +18,14 @@ Produced by Joe Barresi — known for his work with Tool and Queens of the Stone
 
 On the gear side, TESF finds Weinberg's setup fully mature rather than changing again: the SJC Custom Drums shell pack and Tama SLP snare he introduced on *We Are Not Your Kind* carried through into his final Slipknot album, refined in tuning to suit Barresi's rawer production but unchanged in platform.
 
-This article covers Jay Weinberg's drum gear on *The End, So Far*: the mature SJC Custom Drums shell pack, the Tama SLP snare, his Zildjian cymbal configuration, DW double pedal, Evans heads, and Vic Firth signature sticks. For his WANYK setup, see [We Are Not Your Kind drum setup](/articles/we-are-not-your-kind-drum-setup). For the full career overview, see the [Jay Weinberg complete drum setup guide](/articles/jay-weinberg-complete-drum-setup).
+This article covers Jay Weinberg's drum gear on *The End, So Far*: the mature SJC Custom Drums shell pack, the Tama SLP snare, his Zildjian cymbal configuration, DW double pedal, Evans heads, and Vater sticks. For his WANYK setup, see [We Are Not Your Kind drum setup](/articles/we-are-not-your-kind-drum-setup). For the full career overview, see the [Jay Weinberg complete drum setup guide](/articles/jay-weinberg-complete-drum-setup).
 
 ## Gear Breakdown
 
 - **Drums:** SJC Custom Drums SJC Custom Series (Custom Slipknot-themed finishes (black, custom wraps) finish)
 - **Snare:** Tama Tama SLP (Sound Lab Project), 14" x 6.5"
 - **Cymbals:** Zildjian — Zildjian A Series + K Custom Hybrid (refined from WANYK)
-- **Hardware / Pedals:** DW 9000 Series Double Bass Pedal; Vic Firth Jay Weinberg Signature; Evans EC2 and EMAD2 series
+- **Hardware / Pedals:** DW 9000 Series Double Bass Pedal; Vater 5B; Evans EC2 and EMAD2 series
 - **Heads:** Evans EC2 Coated (batter), Evans 300 Snare Side (resonant)
 - **Snare tuning:** Medium tension — focused crack suited to TESF's rawer production approach
 
@@ -104,8 +104,19 @@ A: Yes — Slipknot received a Grammy nomination for Best Metal Performance for 
 
 A: Jay Weinberg's core kit and snare did not change between WANYK (2019) and TESF (2022) — he used the same SJC Custom Drums shell pack and Tama SLP snare on both albums. The main difference was production approach rather than equipment: producer Joe Barresi's rawer, more immediate mixing on TESF let the SJC kit's natural punch register more directly than Greg Fidelman's denser, more atmospheric WANYK production. The Zildjian hybrid cymbal setup and DW 9000 double pedal were also retained unchanged from WANYK.
 
+## Related Articles
+
+- [The Gray Chapter — Slipknot Drum Setup (Jay Weinberg, 2014)](https://metalforge.io/articles/the-gray-chapter-drum-setup)
+- [We Are Not Your Kind — Slipknot Drum Setup (Jay Weinberg, 2019)](https://metalforge.io/articles/we-are-not-your-kind-drum-setup)
+
+## Related Drummers
+
+- [Hellhammer](https://metalforge.io/drummer/hellhammer)
+- [Jay Weinberg](https://metalforge.io/drummer/jay-weinberg)
+- [George Kollias](https://metalforge.io/drummer/george-kollias)
+
 **Source:** https://metalforge.io/articles/the-end-so-far-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

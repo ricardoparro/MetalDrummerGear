@@ -103,8 +103,23 @@ A: No. Dirk Verbeuren did not play on Megadeth's "Dystopia" — the album's drum
 
 A: The two performances reflect very different circumstances as well as three decades of drum technology evolution. Nick Menza used a Tama Artstar II birch kit with twin 22" bass drums and two independent single pedals as Megadeth's full-time drummer on Rust in Peace (1990). Chris Adler used his own Mapex Black Panther Velvetone kit as a guest musician on Dystopia (2016), completing the entire album in under two weeks around his main band's schedule. Both leaned on dual bass drums rather than a single kick with a double pedal — a rare point of technical overlap between two drummers from very different eras and circumstances. For the complete Rust in Peace breakdown, see the [Rust in Peace Drum Setup article](/articles/rust-in-peace-drum-setup).
 
+## Related Articles
+
+- [What's In Chris Adler's Lamb of God Arsenal: Complete Gear Breakdown](https://metalforge.io/articles/whats-in-chris-adlers-kit)
+- [What's In Dirk Verbeuren's Megadeth Arsenal: Complete Gear Breakdown](https://metalforge.io/articles/whats-in-dirk-verbeurens-kit)
+- [Top 10 Thrash Metal Drummers](https://metalforge.io/lists/thrash-metal-drummers)
+- [Lamb of God 'VII: Sturm und Drang' Drum Setup — Chris Adler's Grammy-Nominated Farewell Studio Album](https://metalforge.io/articles/vii-sturm-und-drang-drum-setup)
+- [Lamb of God 'Resolution' Drum Setup — Chris Adler's Grammy-Nominated 2012 Kit](https://metalforge.io/articles/resolution-drum-setup)
+- [Rust in Peace Drum Setup: Nick Menza's Gear Breakdown](https://metalforge.io/articles/rust-in-peace-drum-setup)
+
+## Related Drummers
+
+- [Chris Adler](https://metalforge.io/drummer/chris-adler)
+- [Art Cruz](https://metalforge.io/drummer/art-cruz)
+- [Lars Ulrich](https://metalforge.io/drummer/lars-ulrich)
+
 **Source:** https://metalforge.io/articles/dystopia-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

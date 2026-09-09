@@ -124,8 +124,19 @@ A: No. Travis Orbin was Periphery's drummer from around August/September 2006 to
 
 A: Travis Orbin integrates electronics through two primary systems: bass drum triggers and the Roland SPD-SX sampling pad. Bass drum triggers — mounted on the acoustic kick drum batter heads — convert each physical stroke into a consistent electronic signal that can be processed or sample-layered, eliminating the attack variability inherent in acoustic-only recording at djent tempos. The Roland SPD-SX extends the kit's sonic vocabulary beyond acoustics: electronic textures, sample layers, and processed sounds are triggered from the pad as compositional elements of the drum arrangement rather than as supplemental effects. This hybrid philosophy means Orbin's kit operates simultaneously as an acoustic instrument and an electronic one, with each element designed to serve the overall sound rather than occupy separate roles.
 
+## Related Articles
+
+- [What's In Matt Halpern's Periphery Kit: Complete Gear Breakdown](https://metalforge.io/articles/whats-in-matt-halperns-kit)
+- [obZen Drum Setup: Tomas Haake's Legendary "Bleed" Gear Breakdown](https://metalforge.io/articles/obzen-drum-setup)
+
+## Related Drummers
+
+- [Matt Halpern](https://metalforge.io/drummer/matt-halpern)
+- [Tomas Haake](https://metalforge.io/drummer/tomas-haake)
+- [Gavin Harrison](https://metalforge.io/drummer/gavin-harrison)
+
 **Source:** https://metalforge.io/articles/travis-orbin-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

@@ -100,8 +100,18 @@ A: Greiner tunes his Mapex Black Panther maple snare at medium tension — warmt
 
 A: *Phantom Anthem* (2017) fills the gap between *Found in Far Away Places* (2015) — ABR's Gold-certified commercial peak — and *Beacon* (2023), their most recent studio record. It's the album that earned ABR's highest Grammy recognition with "King of Sorrow" (Best Metal Performance nomination, 2018). Greiner's switch from Pearl to Mapex Black Panther Design Lab and DW 9000 Series in 2016 was already settled by this point, while the cymbal shift to Zildjian A Custom / Sabian AAX marks the key sonic evolution for this album. See the full ABR arc: [Leveler (2011)](/articles/leveler-drum-setup) → [Found in Far Away Places (2015)](/articles/found-in-far-away-places-drum-setup) → Phantom Anthem (2017).
 
+## Related Articles
+
+- [Matt Greiner Complete Drum Setup — August Burns Red Gear Guide](https://metalforge.io/articles/matt-greiner-complete-drum-setup)
+- [Found in Far Away Places Drum Setup: Matt Greiner's Pearl Reference Pure Kit (2015)](https://metalforge.io/articles/found-in-far-away-places-drum-setup)
+- [Leveler Drum Setup: Matt Greiner's Gear on August Burns Red's 2011 Album](https://metalforge.io/articles/leveler-drum-setup)
+
+## Related Drummers
+
+- [Matt Greiner](https://metalforge.io/drummer/matt-greiner)
+
 **Source:** https://metalforge.io/articles/abr-phantom-anthem-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

@@ -119,8 +119,21 @@ A: On Blunt Force Trauma in 2011, Igor Cavalera continued with the Zildjian A Cu
 
 A: Max and Igor Cavalera formed Cavalera Conspiracy rather than returning to Sepultura because Sepultura — the legal entity, recording contract, and band name — continued without them after their respective departures. Max left in January 1997 following a dispute over management; Sepultura elected to continue with a new vocalist rather than dissolve. Igor left in 2006. By then, a different lineup had recorded four albums under the Sepultura name. Cavalera Conspiracy gave the founding brothers a fresh vehicle for their creative partnership without the legal or emotional complications of reclaiming the Sepultura name.
 
+## Related Articles
+
+- [What's In Igor Cavalera's Tribal Arsenal: Complete Gear Breakdown](https://metalforge.io/articles/whats-in-igor-cavaleras-kit)
+- [Inflikted Drum Setup: Igor Cavalera's Return to Thrash Aggression (2008)](https://metalforge.io/articles/inflikted-drum-setup)
+- [Chaos A.D. Drum Setup: Igor Cavalera's Groove Metal Revolution](https://metalforge.io/articles/chaos-ad-drum-setup)
+- [Roots Drum Setup: Igor Cavalera's Brazilian Tribal Metal Revolution](https://metalforge.io/articles/roots-drum-setup)
+
+## Related Drummers
+
+- [Pete Sandoval](https://metalforge.io/drummer/pete-sandoval)
+- [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo)
+- [Eloy Casagrande](https://metalforge.io/drummer/eloy-casagrande)
+
 **Source:** https://metalforge.io/articles/blunt-force-trauma-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

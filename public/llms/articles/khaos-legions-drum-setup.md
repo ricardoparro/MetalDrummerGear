@@ -112,8 +112,20 @@ A: Khaos Legions charted at #4 in Sweden — the band's home market — in May 2
 
 A: Khaos Legions (2011) closes the Angela Gossow era arc that began with Wages of Sin (2002) — a nine-year, five-album period that is the most commercially successful and critically recognised stretch of Arch Enemy's career. Across that arc, Daniel Erlandsson's setup evolved through Pearl Masters / Reference-era (Wages of Sin, 2002) → Pearl Masters MMX (Anthems of Rebellion, 2003) → Pearl Reference Pure (Doomsday Machine, 2005) → Pearl Masters Premium (Rise of the Tyrant, 2007) → Pearl Masterworks Custom (Khaos Legions, 2011), from Sabian AA/HH cymbals through Sabian AAX/HHX Traditional to the full Dark/Vintage/Traditional multi-series palette, and from the Pearl Eliminator to the Pearl Eliminator. Each album documents a chapter in Erlandsson's professional development as well as Arch Enemy's commercial arc. Khaos Legions' fully bespoke Masterworks Custom kit and multi-series AAX / HHX setup represent the apex of that evolution within the Gossow era. For the full discography chain: [Wages of Sin (2002)](/articles/wages-of-sin-drum-setup) · [Anthems of Rebellion (2003)](/articles/anthems-of-rebellion-drum-setup) · [Doomsday Machine (2005)](/articles/doomsday-machine-drum-setup) · [Rise of the Tyrant (2007)](/articles/rise-of-the-tyrant-drum-setup).
 
+## Related Articles
+
+- [Top 10 Melodic Death Metal Drummers](https://metalforge.io/lists/melodic-death-metal-drummers)
+- [Daniel Erlandsson's Drum Setup on Arch Enemy's Rise of the Tyrant (2007)](https://metalforge.io/articles/rise-of-the-tyrant-drum-setup)
+- [Arch Enemy Doomsday Machine Drum Setup: Daniel Erlandsson's 2005 Melodic Death Gear](https://metalforge.io/articles/doomsday-machine-drum-setup)
+- [Daniel Erlandsson's Drum Setup on Arch Enemy's Anthems of Rebellion (2003)](https://metalforge.io/articles/anthems-of-rebellion-drum-setup)
+- [Daniel Erlandsson's Drum Setup — At The Gates & Arch Enemy Kit Guide](https://metalforge.io/articles/daniel-erlandsson-drum-setup)
+
+## Related Drummers
+
+- [Daniel Erlandsson](https://metalforge.io/drummer/daniel-erlandsson)
+
 **Source:** https://metalforge.io/articles/khaos-legions-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

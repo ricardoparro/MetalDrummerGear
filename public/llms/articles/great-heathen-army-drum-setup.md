@@ -101,8 +101,17 @@ A: Wallgren stayed with his established Zildjian A Custom & K Custom series for 
 
 A: Where Berserker's title track pushed into extended blast-beat extremity, The Great Heathen Army pulls back toward a tighter, more surgical double-bass-and-groove hybrid — Kerrang! described the album as a step back toward Amon Amarth's melodic death metal origins, and that shift shows directly in Wallgren's playing. Double-kick bursts are more precisely locked to the guitar riff rather than sustained as independent blast passages, and the gallop feel on singles like "Get in the Ring" is tighter and more controlled than on the prior record.
 
+## Related Articles
+
+- [Amon Amarth "Berserker" Drum Setup (Jocke Wallgren, 2019)](https://metalforge.io/articles/berserker-drum-setup)
+- [Jocke Wallgren's Drum Setup — Amon Amarth's Viking Metal Kit](https://metalforge.io/articles/jocke-wallgren-drum-setup)
+
+## Related Drummers
+
+- [Jocke Wallgren](https://metalforge.io/drummer/jocke-wallgren)
+
 **Source:** https://metalforge.io/articles/great-heathen-army-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

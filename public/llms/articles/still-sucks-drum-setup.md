@@ -106,8 +106,23 @@ A: John Otto used Zildjian A Series and A Custom Series cymbals on "Still Sucks"
 
 A: John Otto's core approach on "Still Sucks" (2021) — groove-first, single-kick on record, jazz-informed ghost notes — is unchanged from his 1997 debut and from "Gold Cobra" (2011), despite the decade-long gap between those two records. His playing gave the album's sessions, recorded in pieces over roughly nine years, a consistent rhythmic identity. Full technique breakdown: [John Otto at MetalForge](/drummer/john-otto). Compare: [John Otto's complete drum setup](/articles/john-otto-drum-setup).
 
+## Related Articles
+
+- [Top 10 Nu-Metal Drummers](https://metalforge.io/lists/nu-metal-drummers)
+- [John Otto Drum Setup: Limp Bizkit's 'Gold Cobra' (2011) Gear Breakdown](https://metalforge.io/articles/gold-cobra-drum-setup)
+- [John Otto Drum Setup: Limp Bizkit's 'Results May Vary' (2003) Gear Breakdown](https://metalforge.io/articles/results-may-vary-drum-setup)
+- [John Otto Drum Setup: Limp Bizkit's 'Chocolate Starfish' (2000) Gear Breakdown](https://metalforge.io/articles/chocolate-starfish-drum-setup)
+- [John Otto Drum Setup: Limp Bizkit's 'Significant Other' (1999) Gear Breakdown](https://metalforge.io/articles/significant-other-drum-setup)
+- [John Otto's Drum Setup — Limp Bizkit's Complete Drum Kit Guide](https://metalforge.io/articles/john-otto-drum-setup)
+
+## Related Drummers
+
+- [Joey Jordison](https://metalforge.io/drummer/joey-jordison)
+- [Ray Luzier](https://metalforge.io/drummer/ray-luzier)
+- [Hellhammer](https://metalforge.io/drummer/hellhammer)
+
 **Source:** https://metalforge.io/articles/still-sucks-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

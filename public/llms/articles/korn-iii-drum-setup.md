@@ -105,8 +105,20 @@ A: Ray Luzier used the DW 9002 double bass pedal on Korn III: Remember Who You A
 
 A: Korn III: Remember Who You Are (2010) was produced by Ross Robinson — the same producer who helmed Korn's influential 1994 self-titled debut. Robinson was brought back explicitly to help Korn return to their raw, aggressive roots after a period of more polished productions. His approach on Korn III emphasized live performance capture, minimal processing, and the same emotional intensity he brought to the band's earliest recordings.
 
+## Related Articles
+
+- [The Path of Totality Drum Setup: Ray Luzier's 2011 Korn Gear Breakdown](https://metalforge.io/articles/path-of-totality-drum-setup)
+- [Iowa Drum Setup: Joey Jordison's Gear Breakdown](https://metalforge.io/articles/iowa-drum-setup)
+- [Ray Luzier Drum Setup: Korn's Groove Machine Complete Gear Guide](https://metalforge.io/articles/whats-in-ray-luziers-kit)
+
+## Related Drummers
+
+- [Joey Jordison](https://metalforge.io/drummer/joey-jordison)
+- [Eloy Casagrande](https://metalforge.io/drummer/eloy-casagrande)
+- [Lars Ulrich](https://metalforge.io/drummer/lars-ulrich)
+
 **Source:** https://metalforge.io/articles/korn-iii-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

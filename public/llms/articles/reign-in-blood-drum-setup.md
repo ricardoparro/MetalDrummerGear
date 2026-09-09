@@ -96,8 +96,22 @@ A: Dave Lombardo used a combination of Paiste RUDE and 2002 Series cymbals on Re
 
 A: Dave Lombardo's Tama Artstar II double bass setup would have cost approximately $2,500 to $3,500 new in 1986. The Tama Superstar Steel snare added another $250 to $350 at the time. Vintage Artstar II kits in good condition now command a premium among collectors. Paiste RUDE cymbals remain in production, so that portion of the setup is more affordable to replicate today, with individual pieces ranging from $150 to $400 depending on size.
 
+## Related Articles
+
+- [Top 10 Thrash Metal Drummers](https://metalforge.io/lists/thrash-metal-drummers)
+- [Top 10 Fastest Double Bass Drummers in Metal History](https://metalforge.io/lists/fastest-double-bass-drummers)
+- [Dave Lombardo's Drum Setup on Slayer's Hell Awaits (1985)](https://metalforge.io/articles/hell-awaits-drum-setup)
+- [Dave Lombardo's Drum Setup on Slayer's Show No Mercy (1983)](https://metalforge.io/articles/show-no-mercy-drum-setup)
+- [Dave Lombardo's Drum Setup on Slayer's South of Heaven (1988)](https://metalforge.io/articles/south-of-heaven-drum-setup)
+
+## Related Drummers
+
+- [Lars Ulrich](https://metalforge.io/drummer/lars-ulrich)
+- [Charlie Benante](https://metalforge.io/drummer/charlie-benante)
+- [Pete Sandoval](https://metalforge.io/drummer/pete-sandoval)
+
 **Source:** https://metalforge.io/articles/reign-in-blood-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

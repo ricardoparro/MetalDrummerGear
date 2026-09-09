@@ -116,8 +116,20 @@ A: Yes. Bill Ward was inducted as part of Black Sabbath in 2006. All four origin
 
 A: Virtually every metal drummer owes a debt to Bill Ward, whether direct or indirect. Drummers who've specifically cited his influence include Lars Ulrich (Metallica), Dave Lombardo (Slayer), Danny Carey (Tool), and Vinnie Paul (Pantera). The jazz-influenced, groove-heavy approach he pioneered became the template for heavy rock drumming.
 
+## Related Articles
+
+- [Reign in Blood Drum Setup: Dave Lombardo's Gear Breakdown](https://metalforge.io/articles/reign-in-blood-drum-setup)
+- [Master of Puppets Drum Setup: Lars Ulrich's Gear Breakdown](https://metalforge.io/articles/master-of-puppets-drum-setup)
+- [Painkiller Drum Setup: Scott Travis's Speed Metal Revolution](https://metalforge.io/articles/painkiller-drum-setup)
+
+## Related Drummers
+
+- [Lars Ulrich](https://metalforge.io/drummer/lars-ulrich)
+- [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo)
+- [Danny Carey](https://metalforge.io/drummer/danny-carey)
+
 **Source:** https://metalforge.io/articles/whats-in-bill-wards-kit
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

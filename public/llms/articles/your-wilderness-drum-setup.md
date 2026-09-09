@@ -99,8 +99,14 @@ A: Your Wilderness features Bruce Soord (vocals, guitars, all songwriting), Stev
 
 A: Your Wilderness (2016) marked Gavin Harrison's first recording with The Pineapple Thief, a band he had never previously played with, tracked entirely through a remote process rather than a shared studio session. The album's critical and commercial success led directly to Harrison staying on with the band for subsequent releases, including 2018's Dissolution, making Your Wilderness the starting point of an ongoing creative partnership alongside his continuing work in Porcupine Tree and King Crimson.
 
+## Related Articles
+
+- [What's In Gavin Harrison's Prog Metal Arsenal: Complete Gear Breakdown](https://metalforge.io/articles/whats-in-gavin-harrisons-kit)
+- [Porcupine Tree Fear of a Blank Planet Drum Setup: Gavin Harrison's 2007 Gear](https://metalforge.io/articles/fear-of-a-blank-planet-drum-setup)
+- [Gavin Harrison's Drum Setup on Porcupine Tree's The Incident (2009)](https://metalforge.io/articles/the-incident-drum-setup)
+
 **Source:** https://metalforge.io/articles/your-wilderness-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

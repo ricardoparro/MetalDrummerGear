@@ -117,8 +117,22 @@ A: George Kollias played the Pearl Demon XR double bass drum pedal on 'Vile Nilo
 
 A: 'Vile Nilotic Rites' (Nile, 2019) marks George Kollias's transition to the Pearl Masterworks Stadium Exotic kit that remains his current flagship setup, and documents the first Zildjian cymbals entering his rig alongside his long-standing Meinl Byzance pieces. Produced by guitarist Karl Sanders with drums tracked in Kollias's native Athens, Greece, it is Nile's most recent studio album and completes a 6-album Nile drum-setup arc spanning 'Annihilation of the Wicked' (2005) through 2019. See the complete arc: [Ithyphallic drum setup (2007)](/articles/ithyphallic-drum-setup), [At the Gate of Sethu drum setup (2012)](/articles/at-the-gate-of-sethu-drum-setup), and [What Should Not Be Unearthed drum setup (2015)](/articles/what-should-not-be-unearthed-drum-setup).
 
+## Related Articles
+
+- [Top 10 Fastest Metal Drummers](https://metalforge.io/lists/fastest-metal-drummers)
+- [George Kollias Drum Setup: Nile's 'At the Gate of Sethu' (2012) Gear Breakdown](https://metalforge.io/articles/at-the-gate-of-sethu-drum-setup)
+- [George Kollias Drum Setup: Nile's 'What Should Not Be Unearthed' (2015) Gear Breakdown](https://metalforge.io/articles/what-should-not-be-unearthed-drum-setup)
+- [George Kollias Drum Setup: Nile's 'Those Whom the Gods Detest' (2009) Gear Breakdown](https://metalforge.io/articles/those-whom-the-gods-detest-drum-setup)
+- [What's In George Kollias' Speed Arsenal](https://metalforge.io/articles/whats-in-george-kollias-kit)
+
+## Related Drummers
+
+- [Gene Hoglan](https://metalforge.io/drummer/gene-hoglan)
+- [Arin Ilejay](https://metalforge.io/drummer/arin-ilejay)
+- [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo)
+
 **Source:** https://metalforge.io/articles/vile-nilotic-rites-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

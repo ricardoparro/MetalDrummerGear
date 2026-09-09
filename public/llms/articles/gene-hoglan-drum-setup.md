@@ -121,8 +121,20 @@ A: Gene Hoglan uses the Pearl Demon Drive double pedal. The Demon Drive is Pearl
 
 A: Gene Hoglan has played with Dark Angel (Darkness Descends, Leave Scars, Time Does Not Heal), Death (Human, Individual Thought Patterns), Testament (Low), Strapping Young Lad (City, Alien, The New Black), Dethklok (Dethalbum II, III), and Fear Factory, among many others. His work with Death in the early 1990s is considered the high point of death metal drumming and the recordings most responsible for the 'Atomic Clock' reputation.
 
+## Related Articles
+
+- [Top 10 Death Metal Drummers](https://metalforge.io/lists/death-metal-drummers)
+- [Joey Jordison Drum Setup: Slipknot Drummer Kit & Gear Breakdown](https://metalforge.io/articles/joey-jordison-drum-setup)
+- [Matt Greiner Complete Drum Setup — August Burns Red Gear Guide](https://metalforge.io/articles/matt-greiner-complete-drum-setup)
+
+## Related Drummers
+
+- [Gene Hoglan](https://metalforge.io/drummer/gene-hoglan)
+- [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo)
+- [Richard Christy](https://metalforge.io/drummer/richard-christy)
+
 **Source:** https://metalforge.io/articles/gene-hoglan-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

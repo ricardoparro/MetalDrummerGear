@@ -107,8 +107,24 @@ A: The three albums form a progression in complexity and dynamic range. Piece of
 
 A: No. Nicko McBrain has used a single bass drum pedal throughout his entire Iron Maiden career, and Seventh Son of a Seventh Son is no exception. The galloping patterns that define Iron Maiden's rhythmic identity are achieved entirely with one foot — a philosophy Nicko has maintained across every album and every tour for over four decades. His single-pedal technique at the service of complex concept album arrangements on Seventh Son is one of the more remarkable aspects of the performance.
 
+## Related Articles
+
+- [Top 10 Thrash Metal Drummers](https://metalforge.io/lists/thrash-metal-drummers)
+- [Top 10 Most Innovative Metal Drummers](https://metalforge.io/lists/most-innovative-drummers)
+- [Number of the Beast Drum Setup: The Gear Behind Clive Burr's Performance (& Nicko's Legacy)](https://metalforge.io/articles/number-of-the-beast-drum-setup)
+- [Powerslave Drum Setup: Nicko McBrain's Gear on Iron Maiden's 1984 Live-Era Masterpiece](https://metalforge.io/articles/powerslave-drum-setup)
+- [Somewhere in Time Drum Setup: Nicko McBrain's Electronics-Augmented Kit on Iron Maiden's 1986 Synth-Era Masterpiece](https://metalforge.io/articles/somewhere-in-time-drum-setup)
+- [Piece of Mind Drum Setup: Nicko McBrain's Debut Gear on Iron Maiden's 1983 Breakthrough](https://metalforge.io/articles/piece-of-mind-drum-setup)
+- [No Prayer for the Dying Drum Setup: Nicko McBrain's Gear on Iron Maiden's Only UK #1 Single (1990)](https://metalforge.io/articles/no-prayer-for-the-dying-drum-setup)
+
+## Related Drummers
+
+- [Lars Ulrich](https://metalforge.io/drummer/lars-ulrich)
+- [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo)
+- [Charlie Benante](https://metalforge.io/drummer/charlie-benante)
+
 **Source:** https://metalforge.io/articles/seventh-son-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

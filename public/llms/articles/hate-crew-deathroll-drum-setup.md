@@ -105,8 +105,20 @@ A: Jaska Raatikainen's drumming on *Hate Crew Deathroll* (2003) represents the d
 
 A: On *Hate Crew Deathroll* (2003), Jaska Raatikainen used Paiste cymbals throughout — specifically Paiste Sound Edge 14" hi-hats paired with Paiste 2002 crashes (16" and 18"), a Paiste 2002 20" ride, and a Paiste 2002 18" China cymbal. The Paiste 2002's CuSn8 bronze alloy produces a bright, cutting sound with enough warmth in the sustain to avoid harshness — qualities that allowed the cymbals to cut through *Hate Crew Deathroll*'s keyboard-dense arrangements naturally without aggressive post-processing. The Sound Edge hi-hats' rippled bottom cymbal design provided clean articulation at the extreme tempos the album demanded. See [Paiste cymbals](/gear/paiste) for more on the 2002 series specifications.
 
+## Related Articles
+
+- [Jaska Raatikainen Drum Setup — Children of Bodom Gear Guide](https://metalforge.io/articles/jaska-raatikainen-drum-setup)
+- [Follow the Reaper Drum Setup: Jaska Raatikainen's Gear on Children of Bodom's 2000 Album](https://metalforge.io/articles/follow-the-reaper-drum-setup)
+- [Are You Dead Yet? Drum Setup: Jaska Raatikainen's Gear on Children of Bodom's 2005 Album](https://metalforge.io/articles/are-you-dead-yet-drum-setup)
+- [Daniel Erlandsson's Drum Setup — At The Gates & Arch Enemy Kit Guide](https://metalforge.io/articles/daniel-erlandsson-drum-setup)
+- [Hatebreeder Drum Setup: Jaska Raatikainen's Gear on Children of Bodom's 1999 Debut](https://metalforge.io/articles/hatebreeder-drum-setup)
+
+## Related Drummers
+
+- [Jaska Raatikainen](https://metalforge.io/drummer/jaska-raatikainen)
+
 **Source:** https://metalforge.io/articles/hate-crew-deathroll-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

@@ -125,8 +125,19 @@ A: Gavin Harrison is closely associated with the Zildjian K Custom Special Dry l
 
 A: The Sonor SQ2 Series is a fully custom-order kit with pricing that typically falls between $6,000 and $9,000 for the shell pack, depending on wood choice, finish, and configuration. His Sonor Gavin Harrison signature snares add $600 to $900 each. A complete Zildjian K Custom Special Dry cymbal setup costs an additional $2,500 to $4,000, bringing the total rig to roughly $10,000 to $14,000.
 
+## Related Articles
+
+- [What's In Danny Carey's Mind-Bending Kit: Complete Gear Breakdown](https://metalforge.io/articles/whats-in-danny-careys-kit)
+- [Porcupine Tree Fear of a Blank Planet Drum Setup: Gavin Harrison's 2007 Gear](https://metalforge.io/articles/fear-of-a-blank-planet-drum-setup)
+
+## Related Drummers
+
+- [Danny Carey](https://metalforge.io/drummer/danny-carey)
+- [Tomas Haake](https://metalforge.io/drummer/tomas-haake)
+- [Mike Portnoy](https://metalforge.io/drummer/mike-portnoy)
+
 **Source:** https://metalforge.io/articles/whats-in-gavin-harrisons-kit
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

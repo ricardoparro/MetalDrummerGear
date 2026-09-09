@@ -106,8 +106,25 @@ A: Yes. Iron Maiden's 'The Writing on the Wall' — a track from Senjutsu — wa
 
 A: On Senjutsu, Nicko McBrain used Paiste Signature series cymbals: 15" Sound Edge Hi-Hats, 16" Full Crash, 18" Full Crash, 19" Full Crash, 22" Power Ride, 18" Thin China, and 10" Splash. The Paiste Signature series had been his primary cymbal choice since the late 1990s, offering a warmer, darker character than the Paiste 2002s of his 1980s recordings. The 22" Power Ride was essential for Senjutsu's extended progressive passages — particularly on 'The Parchment' (12:40) and 'Hell on Earth' (11:20), where Nicko used ride patterns to drive long mid-sections. See the [how to sound like Nicko McBrain guide](/guides/how-to-sound-like-nicko-mcbrain) for technique and gear details.
 
+## Related Articles
+
+- [Top 10 Thrash Metal Drummers](https://metalforge.io/lists/thrash-metal-drummers)
+- [Top 10 Most Innovative Metal Drummers](https://metalforge.io/lists/most-innovative-drummers)
+- [The Book of Souls Drum Setup: Nicko McBrain's Gear on Iron Maiden's UK #1 Double Album](https://metalforge.io/articles/book-of-souls-drum-setup)
+- [The Final Frontier Drum Setup: Nicko McBrain's Gear on Iron Maiden's Grammy-Nominated 2010 Epic](https://metalforge.io/articles/final-frontier-drum-setup)
+- [Brave New World Drum Setup: Nicko McBrain's Gear on Iron Maiden's 2000 Reunion Masterpiece](https://metalforge.io/articles/brave-new-world-drum-setup)
+- [Seventh Son of a Seventh Son Drum Setup: Nicko McBrain's Most Dynamic Pre-90s Performance (1988)](https://metalforge.io/articles/seventh-son-drum-setup)
+- [Virtual XI Drum Setup: Nicko McBrain's Gear on Iron Maiden's Blaze Bailey-Era Final Album (1998)](https://metalforge.io/articles/virtual-xi-drum-setup)
+- [Powerslave Drum Setup: Nicko McBrain's Gear on Iron Maiden's 1984 Live-Era Masterpiece](https://metalforge.io/articles/powerslave-drum-setup)
+
+## Related Drummers
+
+- [Lars Ulrich](https://metalforge.io/drummer/lars-ulrich)
+- [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo)
+- [Charlie Benante](https://metalforge.io/drummer/charlie-benante)
+
 **Source:** https://metalforge.io/articles/senjutsu-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

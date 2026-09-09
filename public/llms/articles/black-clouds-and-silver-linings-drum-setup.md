@@ -111,8 +111,21 @@ A: Yes. Dream Theater received a Grammy nomination for Best Metal Performance at
 
 A: The two setups are closely related — Black Clouds & Silver Linings continued the Tama Starclassic Bubinga / Sabian HHX Evolution / DW 9000 platform that Portnoy had established on Systematic Chaos (2007). The primary differences were contextual rather than gear-based: the Black Clouds kit arrived at the sessions with two years of touring experience behind it, and the recording environment shifted from Avatar Studios (Systematic Chaos) to Cove City Sound Studios in Glen Cove, NY. Musically, the same gear served a far wider emotional range on Black Clouds — from the Grammy-nominated aggression of 'A Rite of Passage' to the intimate restraint of 'The Best of Times' and 'Wither.' See the [Systematic Chaos drum setup article](/articles/systematic-chaos-drum-setup) for the full 2007 comparison.
 
+## Related Articles
+
+- [Top 10 Progressive Metal Drummers](https://metalforge.io/lists/progressive-metal-drummers)
+- [What's In Mike Portnoy's Reunion Kit: Dream Theater 2025 Complete Breakdown](https://metalforge.io/articles/whats-in-mike-portnoys-kit)
+- [Systematic Chaos Drum Setup — Mike Portnoy's Grammy-Nominated 2007 Dream Theater Kit](https://metalforge.io/articles/systematic-chaos-drum-setup)
+- [Mike Mangini's Kit on 'A Dramatic Turn of Events' (Dream Theater, 2011)](https://metalforge.io/articles/a-dramatic-turn-of-events-drum-setup)
+
+## Related Drummers
+
+- [Danny Carey](https://metalforge.io/drummer/danny-carey)
+- [Tomas Haake](https://metalforge.io/drummer/tomas-haake)
+- [Lars Ulrich](https://metalforge.io/drummer/lars-ulrich)
+
 **Source:** https://metalforge.io/articles/black-clouds-and-silver-linings-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

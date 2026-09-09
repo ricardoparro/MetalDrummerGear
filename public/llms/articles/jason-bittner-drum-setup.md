@@ -108,8 +108,19 @@ A: Jason Bittner uses the Mapex Falcon double bass pedal. The Falcon's adjustabl
 
 A: Jason Bittner is best known as the drummer for Shadows Fall, the New Wave of American Heavy Metal band he joined in 1997, and Overkill, the New Jersey thrash metal institution he has been the full-time drummer for since 2017, replacing Ron Lipnicki. With Shadows Fall, he recorded six studio albums including The Art of Balance (2002) and The War Within (2004) — the two records most commonly cited as NWOAHM's technical benchmark. With Overkill, he has recorded two studio albums, The Wings of War (2019) and Scorched (2023), establishing himself as a leading figure in modern thrash metal as well as the NWOAHM context he originally rose from. He runs both engagements simultaneously — Overkill's primary touring and studio drummer while maintaining activity with Shadows Fall for reunion and select touring work. Full career context: [Jason Bittner at MetalForge](/drummer/jason-bittner).
 
+## Related Articles
+
+- [How to Play Double Bass Drums for Metal](https://metalforge.io/articles/double-bass-drumming-for-metal)
+- [What's In Charlie Benante's Anthrax Kit: The Big Four's Technical Pioneer](https://metalforge.io/articles/whats-in-charlie-benantes-kit)
+- [Shannon Larkin Drum Setup — Godsmack's Complete Gear Guide](https://metalforge.io/articles/shannon-larkin-drum-setup)
+
+## Related Drummers
+
+- [Jason Bittner](https://metalforge.io/drummer/jason-bittner)
+- [Charlie Benante](https://metalforge.io/drummer/charlie-benante)
+
 **Source:** https://metalforge.io/articles/jason-bittner-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

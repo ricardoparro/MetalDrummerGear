@@ -144,8 +144,20 @@ A: Sean Reinert was closely associated with Zildjian cymbals throughout his care
 
 A: Because Sean Reinert's gear evolved across his career, assembling a representative setup requires flexibility. A quality maple or birch shell pack from Tama or DW in a similar configuration runs $3,000 to $5,000. Adding a full Zildjian A, K, and K Custom cymbal setup brings the total to roughly $1,800 to $2,500. Individual snares in his preferred 14 inch depths range from $300 to $700 each.
 
+## Related Articles
+
+- [Human Drum Setup: Sean Reinert's Jazz-Death Masterpiece](https://metalforge.io/articles/human-drum-setup)
+- [Top 10 Progressive Metal Drummers](https://metalforge.io/lists/progressive-metal-drummers)
+- [Symbolic Drum Setup: Gene Hoglan's Death Masterpiece](https://metalforge.io/articles/symbolic-drum-setup)
+
+## Related Drummers
+
+- [Gene Hoglan](https://metalforge.io/drummer/gene-hoglan)
+- [Frost](https://metalforge.io/drummer/frost)
+- [Mike Portnoy](https://metalforge.io/drummer/mike-portnoy)
+
 **Source:** https://metalforge.io/articles/whats-in-sean-reinerts-kit
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

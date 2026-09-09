@@ -113,8 +113,18 @@ A: Jocke Wallgren joined Amon Amarth in 2013, replacing Fredrik Andersson who ha
 
 A: Amon Amarth's drum style is built on the double-bass gallop — a three-note kick pattern that generates the forward-rolling momentum driving the band's anthemic riff writing — combined with a dynamic range that separates them from more relentlessly intense death metal drumming. The gallop pattern creates physical drive and rhythmic momentum that audiences can feel across large live environments; the dynamic contrast between restrained verses and powerful choruses gives the music an epic, narrative quality that pure intensity cannot. Jocke Wallgren's approach embodies both: the controlled power of the gallop sustained across full sets, and the dynamic sensitivity to serve the melodic architecture of Amon Amarth's compositions. For band context: [Amon Amarth at MetalForge](/bands/amon-amarth). For technique: [double-bass drumming at MetalForge](/technique/double-bass-drumming).
 
+## Related Articles
+
+- [Tim Yeung Drum Kit & Gear Setup — Morbid Angel Death Metal](https://metalforge.io/articles/tim-yeung-drum-setup)
+- [Hellhammer Drum Kit & Gear Setup — Mayhem Black Metal Legend](https://metalforge.io/articles/hellhammer-drum-setup)
+
+## Related Drummers
+
+- [Jocke Wallgren](https://metalforge.io/drummer/jocke-wallgren)
+- [Tim Yeung](https://metalforge.io/drummer/tim-yeung)
+
 **Source:** https://metalforge.io/articles/jocke-wallgren-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

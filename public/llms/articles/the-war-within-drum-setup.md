@@ -112,8 +112,19 @@ A: Yes — Shadows Fall's *The War Within* earned a Grammy nomination for Best M
 
 A: *The War Within* was produced by Peter Wichers — the Soilwork guitarist and producer — at Zing Studios in Methuen, Massachusetts. Wichers brought a Scandinavian melodic death metal production approach to the record: articulate guitar layering, melodic clarity above heavy rhythm, and modern drum sounds that prioritize attack definition and rhythmic clarity. The production is notably more polished and layered than Shadows Fall's previous album *The Art of Balance* (2002), which had been produced by Zeuss. Wichers's production gave *The War Within* the commercial accessibility that contributed to its Gold certification and Billboard 200 placement.
 
+## Related Articles
+
+- [How to Play Double Bass Drums for Metal](https://metalforge.io/articles/double-bass-drumming-for-metal)
+- [Jason Bittner's Drum Kit & Gear Setup — Shadows Fall / Overkill](https://metalforge.io/articles/jason-bittner-drum-setup)
+- [What's In Charlie Benante's Anthrax Kit: The Big Four's Technical Pioneer](https://metalforge.io/articles/whats-in-charlie-benantes-kit)
+
+## Related Drummers
+
+- [Jason Bittner](https://metalforge.io/drummer/jason-bittner)
+- [Charlie Benante](https://metalforge.io/drummer/charlie-benante)
+
 **Source:** https://metalforge.io/articles/the-war-within-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

@@ -114,8 +114,20 @@ A: Falling into Infinity was recorded under direct pressure from Elektra Records
 
 A: Mike Portnoy used Tama Iron Cobra double pedals on Falling into Infinity — the rolling-glide cam model that he favored through the mid-to-late 1990s. The Iron Cobra's smooth, long-throw action was well-suited to the album's varied material: restrained enough for melodic tracks like "Hollow Years" and powerful enough for the double-bass runs on "Trial of Tears" and "Lines in the Sand." He later switched to DW 5000 pedals for the Metropolis Pt. 2 sessions in 1999.
 
+## Related Articles
+
+- [Top 10 Progressive Metal Drummers](https://metalforge.io/lists/progressive-metal-drummers)
+- [What's In Mike Portnoy's Reunion Kit: Dream Theater 2025 Complete Breakdown](https://metalforge.io/articles/whats-in-mike-portnoys-kit)
+- [Mike Portnoy's Drum Setup on Dream Theater's Awake (1994)](https://metalforge.io/articles/awake-drum-setup)
+- [Metropolis Pt. 2: Scenes from a Memory Drum Setup — Mike Portnoy's Magnum Opus](https://metalforge.io/articles/scenes-from-a-memory-drum-setup)
+
+## Related Drummers
+
+- [Danny Carey](https://metalforge.io/drummer/danny-carey)
+- [Tomas Haake](https://metalforge.io/drummer/tomas-haake)
+
 **Source:** https://metalforge.io/articles/falling-into-infinity-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

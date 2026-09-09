@@ -102,8 +102,19 @@ A: On Blood Mountain (2006), Brann Dailor used a Tama Iron Cobra Power Glide dou
 
 A: Blood Mountain was recorded at Doppler Studios in Atlanta, Georgia, and produced by Matt Bayles, who also produced Mastodon's previous album Leviathan (2004). The album was released on October 3, 2006 on Atlantic Records in the United States, debuting at number 28 on the US Billboard 200 — Mastodon's mainstream commercial breakthrough.
 
+## Related Articles
+
+- [Top 10 Progressive Metal Drummers](https://metalforge.io/lists/progressive-metal-drummers)
+- [Crack the Skye Drum Setup: Brann Dailor's Gear on Mastodon's Masterpiece](https://metalforge.io/articles/crack-the-skye-drum-setup)
+- [Brann Dailor Drum Setup — Mastodon Gear Guide](https://metalforge.io/articles/brann-dailor-mastodon-drum-setup)
+- [What's In Brann Dailor's Kit: Mastodon's Melodic Thunder Complete Breakdown](https://metalforge.io/articles/whats-in-brann-dailors-kit)
+
+## Related Drummers
+
+- [Brann Dailor](https://metalforge.io/drummer/brann-dailor)
+
 **Source:** https://metalforge.io/articles/blood-mountain-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

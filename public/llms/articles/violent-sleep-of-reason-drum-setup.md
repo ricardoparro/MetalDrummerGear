@@ -107,8 +107,21 @@ A: Tomas Haake used his established Sabian HHX and AAX cymbal setup on The Viole
 
 A: Tomas Haake used two separate Tama Speed Cobra single pedals on The Violent Sleep of Reason — never a connected double pedal, consistent with his entire career approach. Each foot operates with complete mechanical independence, essential for the polyrhythmic patterns where his feet play different subdivisions simultaneously. The Speed Cobra's smooth, fast action held up under the sustained demands of a live-room recording session.
 
+## Related Articles
+
+- [What's In Tomas Haake's Polyrhythmic Arsenal: Complete Gear Breakdown](https://metalforge.io/articles/whats-in-tomas-haakes-kit)
+- [obZen Drum Setup: Tomas Haake's Legendary "Bleed" Gear Breakdown](https://metalforge.io/articles/obzen-drum-setup)
+- [Catch Thirtythree Drum Setup: Tomas Haake's 47-Minute Concept Album (Meshuggah, 2005)](https://metalforge.io/articles/catch-thirtythree-drum-setup)
+- [Immutable Drum Setup: Tomas Haake's 2022 Sonor SQ2 Kit Breakdown](https://metalforge.io/articles/immutable-drum-setup)
+
+## Related Drummers
+
+- [Danny Carey](https://metalforge.io/drummer/danny-carey)
+- [John Otto](https://metalforge.io/drummer/john-otto)
+- [Brann Dailor](https://metalforge.io/drummer/brann-dailor)
+
 **Source:** https://metalforge.io/articles/violent-sleep-of-reason-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

@@ -118,8 +118,20 @@ A: Hardwired...to Self-Destruct was recorded at HQ — Metallica's own studio fa
 
 A: Hardwired sits in a clear lineage with Death Magnetic but represents an evolution rather than a repeat. Where Death Magnetic used a Tama Starclassic Birch kit with a single bass drum + double pedal and a steel Tama LU1465 snare under Rick Rubin's production, Hardwired moved to a Tama Starclassic Maple kit with dual 22 inch bass drums and a Tama steel plate snare under Greg Fidelman's co-production. The Hardwired drum tone has more low-end weight and slightly fuller body than Death Magnetic, but maintains the same attack-forward, thrash-aligned character. Both albums avoid the over-compressed mastering issues that plagued Death Magnetic's release.
 
+## Related Articles
+
+- [Top 10 Thrash Metal Drummers](https://metalforge.io/lists/thrash-metal-drummers)
+- [The Black Album Drum Setup: Lars Ulrich's 1991 Tama Artist Maple Kit](https://metalforge.io/articles/black-album-drum-setup)
+- [Lars Ulrich's Drum Setup on Metallica's Death Magnetic (2008)](https://metalforge.io/articles/death-magnetic-drum-setup)
+
+## Related Drummers
+
+- [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo)
+- [Charlie Benante](https://metalforge.io/drummer/charlie-benante)
+- [Gene Hoglan](https://metalforge.io/drummer/gene-hoglan)
+
 **Source:** https://metalforge.io/articles/hardwired-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

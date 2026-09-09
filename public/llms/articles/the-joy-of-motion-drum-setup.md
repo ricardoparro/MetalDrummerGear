@@ -93,8 +93,20 @@ A: Garstka used an early configuration of Meinl Byzance cymbals on The Joy of Mo
 
 A: Yes. Garstka joined Animals as Leaders in 2012, replacing founding drummer Navene Koperweis, and The Joy of Motion (released March 25, 2014 on Sumerian Records) was his first full studio album with the band. It established the jazz-fusion-influenced, traditional-grip playing style that would define his career.
 
+## Related Articles
+
+- [What's In Matt Garstka's Kit: The Jazz-Fusion Meets Progressive Metal Arsenal](https://metalforge.io/articles/whats-in-matt-garstkas-kit)
+- [The Madness of Many Drum Setup: Matt Garstka's Signature Gear Era Begins](https://metalforge.io/articles/the-madness-of-many-drum-setup)
+- [Parrhesia Drum Setup: Matt Garstka's New DW Custom Shop Rig](https://metalforge.io/articles/parrhesia-drum-setup)
+
+## Related Drummers
+
+- [Tomas Haake](https://metalforge.io/drummer/tomas-haake)
+- [Danny Carey](https://metalforge.io/drummer/danny-carey)
+- [Mike Portnoy](https://metalforge.io/drummer/mike-portnoy)
+
 **Source:** https://metalforge.io/articles/the-joy-of-motion-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

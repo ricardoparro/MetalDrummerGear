@@ -92,8 +92,20 @@ A: For Jugulator (1997), Scott Travis played the same Tama Artstar II birch kit 
 
 A: Painkiller (1990) showcased sustained, blast-furnace double-bass speed as the centerpiece of Travis's playing. Jugulator (1997) is a deliberate pivot: with the guitars downtuned to C# and C for a heavier, thrash-and-groove-oriented sound, Travis shifted to a more controlled, groove-locked attack built to serve the riffs rather than outrun them. The double-kick fury is still present on heavier tracks like "Burn in Hell," but the album as a whole favors restraint and pocket over pure velocity. His gear stayed consistent — the same Tama Artstar II birch kit and Paiste Signature/2002 cymbal voice as Painkiller.
 
+## Related Articles
+
+- [Top 10 Fastest Double Bass Drummers in Metal History](https://metalforge.io/lists/fastest-double-bass-drummers)
+- [Top 10 Thrash Metal Drummers](https://metalforge.io/lists/thrash-metal-drummers)
+- [Painkiller Drum Setup: Scott Travis's Speed Metal Revolution](https://metalforge.io/articles/painkiller-drum-setup)
+- [Scott Travis's Drum Setup on Judas Priest's Demolition (2001)](https://metalforge.io/articles/demolition-drum-setup)
+- [Scott Travis's Drum Setup on Judas Priest's Angel of Retribution (2005)](https://metalforge.io/articles/angel-of-retribution-drum-setup)
+
+## Related Drummers
+
+- [Shannon Larkin](https://metalforge.io/drummer/shannon-larkin)
+
 **Source:** https://metalforge.io/articles/jugulator-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

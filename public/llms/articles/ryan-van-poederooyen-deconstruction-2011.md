@@ -95,8 +95,21 @@ A: Van Poederooyen played a Sabian AAX/HHX combination on 'Deconstruction': 14" 
 
 A: 'Deconstruction' and 'Ghost' were released on the same day — June 20, 2011 — as deliberately opposite statements: one a maximalist, double-kick-driven extreme metal record, the other a near-acoustic, ambient companion piece. Ryan Van Poederooyen recorded both on the same fundamental Pearl Reference kit, and the ability to deliver full-intensity double bass on one album and near-silent restraint on the other, on the same release day, is frequently cited as the clearest demonstration of his versatility as a drummer.
 
+## Related Articles
+
+- [How to Play Double Bass Drums for Metal](https://metalforge.io/articles/double-bass-drumming-for-metal)
+- [Top 10 Progressive Metal Drummers](https://metalforge.io/lists/progressive-metal-drummers)
+- [Top 10 Fastest Double Bass Drummers in Metal History](https://metalforge.io/lists/fastest-double-bass-drummers)
+- [Ryan Van Poederooyen Drum Setup — Devin Townsend Project's Rhythmic Powerhouse](https://metalforge.io/articles/ryan-van-poederooyen-drum-setup)
+- [Dirk Verbeuren's Drum Setup on Soilwork's 'Stabbing the Drama' (2005)](https://metalforge.io/articles/stabbing-the-drama-drum-setup)
+
+## Related Drummers
+
+- [Ryan Van Poederooyen](https://metalforge.io/drummer/ryan-van-poederooyen)
+- [Dirk Verbeuren](https://metalforge.io/drummer/dirk-verbeuren)
+
 **Source:** https://metalforge.io/articles/ryan-van-poederooyen-deconstruction-2011
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

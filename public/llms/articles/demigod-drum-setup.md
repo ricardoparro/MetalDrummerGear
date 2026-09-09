@@ -102,8 +102,22 @@ A: Demigod (2004) is Behemoth's commercial breakthrough — their first album to
 
 A: Demigod was recorded at Hertz Studio in Białystok, Poland — the studio that became Behemoth's long-time recording home. The Hertz Studio environment shaped the Pearl Masters BRX drum sound significantly: the studio's capture approach produced a dense, authoritative kick attack and a snare presence that cut clearly through the album's down-tuned guitar density. The production on Demigod represented a refinement over earlier Behemoth recordings, with the drum sound embedded precisely within the arrangement rather than sitting separately above it. This production approach contributed directly to the album's impact and its influence on subsequent extreme metal production.
 
+## Related Articles
+
+- [Zos Kia Cultus — Behemoth Drum Setup (Inferno, 2002)](https://metalforge.io/articles/zos-kia-cultus-drum-setup)
+- [Thelema.6 Drum Setup: Inferno's Pearl Masters Kit — Behemoth's 2002 Death Metal Pivot](https://metalforge.io/articles/thelema-6-drum-setup)
+- [What Drums Did Inferno Use on The Apostasy?](https://metalforge.io/articles/the-apostasy-drum-setup)
+- [Evangelion — Behemoth Drum Setup (Inferno, 2009)](https://metalforge.io/articles/evangelion-drum-setup)
+- [What's In Inferno's Behemoth Arsenal: Complete Gear Breakdown](https://metalforge.io/articles/whats-in-infernos-kit)
+
+## Related Drummers
+
+- [George Kollias](https://metalforge.io/drummer/george-kollias)
+- [Pete Sandoval](https://metalforge.io/drummer/pete-sandoval)
+- [Gene Hoglan](https://metalforge.io/drummer/gene-hoglan)
+
 **Source:** https://metalforge.io/articles/demigod-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

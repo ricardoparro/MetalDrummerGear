@@ -107,8 +107,18 @@ A: Tomas Haake plays a combination of Sabian HHX and AAX Series cymbals. His set
 
 A: Tomas Haake's Sonor SQ2 Heavy Beech setup is a high-end custom instrument, with a configuration similar to his typically costing between $8,000 and $15,000 depending on finish and options. The Sonor Tomas Haake Signature snare adds approximately $500 to $700. His Sabian HHX and AAX cymbal collection, including the Raw Bell Dry Ride and multiple crashes and chinas, would cost an additional $2,500 to $4,500. The full setup realistically lands between $11,000 and $20,000 to replicate.
 
+## Related Articles
+
+- [obZen Drum Setup: Tomas Haake's Legendary "Bleed" Gear Breakdown](https://metalforge.io/articles/obzen-drum-setup)
+
+## Related Drummers
+
+- [Danny Carey](https://metalforge.io/drummer/danny-carey)
+- [Mario Duplantier](https://metalforge.io/drummer/mario-duplantier)
+- [Eloy Casagrande](https://metalforge.io/drummer/eloy-casagrande)
+
 **Source:** https://metalforge.io/articles/whats-in-tomas-haakes-kit
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

@@ -88,8 +88,20 @@ A: Power Metal is the direct predecessor to Cowboys from Hell, both musically an
 
 A: Yes. Power Metal, released June 24, 1988, was the fourth and final Pantera album released through the band's own Metal Magic Records. It closed out the band's independent era before they signed to Atco Records and released Cowboys from Hell in 1990, which introduced the groove metal sound to a national audience.
 
+## Related Articles
+
+- [What's In Vinnie Paul's Pantera Arsenal (Tribute)](https://metalforge.io/articles/whats-in-vinnie-pauls-kit)
+- [Cowboys from Hell Drum Setup: Vinnie Paul's Breakthrough Gear](https://metalforge.io/articles/cowboys-from-hell-drum-setup)
+- [I Am the Night Drum Setup: Vinnie Paul's Pre-Fame Gear (1985)](https://metalforge.io/articles/i-am-the-night-drum-setup)
+
+## Related Drummers
+
+- [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo)
+- [Lars Ulrich](https://metalforge.io/drummer/lars-ulrich)
+- [Art Cruz](https://metalforge.io/drummer/art-cruz)
+
 **Source:** https://metalforge.io/articles/power-metal-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

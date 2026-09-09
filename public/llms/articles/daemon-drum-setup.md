@@ -99,8 +99,22 @@ A: Hellhammer used Paiste RUDE cymbals on Daemon — 14" RUDE Hi-Hats, 17" and 1
 
 A: As of this writing, Daemon (2019) is Hellhammer's most recent full-length Mayhem studio statement — described in his own documented career record as representing his most recent major Mayhem album, balancing raw black metal aggression with surprising melodic and textural range across the record.
 
+## Related Articles
+
+- [Top 10 Black Metal Drummers](https://metalforge.io/lists/black-metal-drummers)
+- [Esoteric Warfare Drum Setup: Hellhammer's First Mayhem Session Without Blasphemer](https://metalforge.io/articles/esoteric-warfare-drum-setup)
+- [Hellhammer Drum Kit & Gear Setup — Mayhem Black Metal Legend](https://metalforge.io/articles/hellhammer-drum-setup)
+- [De Mysteriis Dom Sathanas Drum Setup: Hellhammer's 1994 Black Metal Blueprint](https://metalforge.io/articles/de-mysteriis-dom-sathanas-drum-setup)
+- [Ordo Ad Chao Drum Setup: Hellhammer's Most Demanding Mayhem Session](https://metalforge.io/articles/ordo-ad-chao-drum-setup)
+
+## Related Drummers
+
+- [Art Cruz](https://metalforge.io/drummer/art-cruz)
+- [Frost](https://metalforge.io/drummer/frost)
+- [Inferno](https://metalforge.io/drummer/inferno)
+
 **Source:** https://metalforge.io/articles/daemon-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

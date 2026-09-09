@@ -116,8 +116,20 @@ A: John Otto used Zildjian A and A Custom series cymbals on 'Significant Other' 
 
 A: 'Significant Other' (1999) arrived at the peak of nu-metal's mainstream breakthrough — but Limp Bizkit's approach was rhythmically distinct from contemporaries like Korn or Deftones. John Otto's jazz-hip-hop groove foundation gave the band a commercial radio-readiness that extreme-leaning nu-metal bands lacked. The album debuted at #1 Billboard 200 with 645,000 first-week copies and went 15× Platinum US — numbers that validated hip-hop/metal fusion to the major label world. Its success directly enabled the even bigger 'Chocolate Starfish' campaign in 2000. See: [nu-metal drummers top 10](/top10/nu-metal-drummers).
 
+## Related Articles
+
+- [Top 10 Nu-Metal Drummers](https://metalforge.io/lists/nu-metal-drummers)
+- [John Otto Drum Setup: Limp Bizkit's 'Chocolate Starfish' (2000) Gear Breakdown](https://metalforge.io/articles/chocolate-starfish-drum-setup)
+- [John Otto's Drum Setup — Limp Bizkit's Complete Drum Kit Guide](https://metalforge.io/articles/john-otto-drum-setup)
+
+## Related Drummers
+
+- [Joey Jordison](https://metalforge.io/drummer/joey-jordison)
+- [Ray Luzier](https://metalforge.io/drummer/ray-luzier)
+- [Hellhammer](https://metalforge.io/drummer/hellhammer)
+
 **Source:** https://metalforge.io/articles/significant-other-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

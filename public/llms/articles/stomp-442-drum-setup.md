@@ -99,8 +99,21 @@ A: "Random Acts of Senseless Violence" opens Stomp 442 and is widely regarded as
 
 A: Stomp 442 (1995) refines rather than reinvents the setup Charlie Benante used on Sound of White Noise (1993) — the same Tama Artstar Custom kit, Tama brass snare, and Paiste 2002/RUDE cymbal foundation, with a 19" RUDE Crash/Ride added for extra weight. The tuning shifted noticeably: lower, more heavily damped bass drums and a fatter, lower-tuned snare reflect the album's heavier, more down-tuned guitar work, recorded without Dan Spitz and produced by the Butcher Bros. rather than Dave Jerden. For the prior chapter, see the [Sound of White Noise drum setup article](/articles/sound-of-white-noise-drum-setup); for the next chapter in the John Bush era, see [Volume 8: The Threat Is Real drum setup](/articles/volume-8-drum-setup).
 
+## Related Articles
+
+- [What's In Charlie Benante's Anthrax Kit: The Big Four's Technical Pioneer](https://metalforge.io/articles/whats-in-charlie-benantes-kit)
+- [Top 10 Thrash Metal Drummers](https://metalforge.io/lists/thrash-metal-drummers)
+- [Charlie Benante's Drum Setup on Anthrax's Sound of White Noise (1993)](https://metalforge.io/articles/sound-of-white-noise-drum-setup)
+- [Charlie Benante's Drum Setup on Anthrax's Volume 8: The Threat Is Real (1998)](https://metalforge.io/articles/volume-8-drum-setup)
+
+## Related Drummers
+
+- [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo)
+- [Lars Ulrich](https://metalforge.io/drummer/lars-ulrich)
+- [Gene Hoglan](https://metalforge.io/drummer/gene-hoglan)
+
 **Source:** https://metalforge.io/articles/stomp-442-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

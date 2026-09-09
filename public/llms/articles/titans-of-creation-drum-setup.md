@@ -107,8 +107,23 @@ A: Yes — Testament recorded Titans of Creation at Sharkbite Studios in Oakland
 
 A: Gene Hoglan used Pearl Eliminator single pedals on Titans of Creation (2020) — one pedal per bass drum, maintaining his independent double-kick philosophy rather than using a double pedal configuration. This represented a change from the Pearl Demon Drive single pedals he used on Brotherhood of the Snake (2016). As a Pearl endorser, the switch to Pearl Eliminators aligned his pedal platform with his drum brand. The Pearl Eliminator's interchangeable cam system allowed Hoglan to fine-tune the pedal's feel and power stroke to match the specific requirements of the 2020 material.
 
+## Related Articles
+
+- [Gene Hoglan Drum Setup: The Atomic Clock Complete Gear Guide](https://metalforge.io/articles/gene-hoglan-drum-setup)
+- [What's In Gene Hoglan's Atomic Arsenal: Complete Gear Breakdown](https://metalforge.io/articles/whats-in-gene-hoglans-kit)
+- [Top 10 Thrash Metal Drummers](https://metalforge.io/lists/thrash-metal-drummers)
+- [Brotherhood of the Snake Drum Setup: Gene Hoglan Returns to Testament (2016)](https://metalforge.io/articles/brotherhood-of-the-snake-drum-setup)
+- [Individual Thought Patterns Drum Setup: Gene Hoglan's First Death Album](https://metalforge.io/articles/individual-thought-patterns-drum-setup)
+- [Symbolic Drum Setup: Gene Hoglan's Death Masterpiece](https://metalforge.io/articles/symbolic-drum-setup)
+
+## Related Drummers
+
+- [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo)
+- [George Kollias](https://metalforge.io/drummer/george-kollias)
+- [Pete Sandoval](https://metalforge.io/drummer/pete-sandoval)
+
 **Source:** https://metalforge.io/articles/titans-of-creation-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

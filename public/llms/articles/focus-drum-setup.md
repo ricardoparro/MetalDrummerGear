@@ -105,8 +105,21 @@ A: On Death's Human (1991), Reinert introduced jazz vocabulary into death metal 
 
 A: Cynic's Focus (1993) was recorded at Morrisound Recording in Tampa, Florida, with producer Scott Burns — the same studio and producer who had captured Death's Human in 1991. Scott Burns was the defining engineer of Florida death metal, having recorded Deicide, Obituary, Cannibal Corpse, and numerous other Morrisound classics. For Focus, Burns extended his approach to accommodate Reinert's electronic trigger integration and the album's jazz-fusion hybrid character, producing a drum sound unlike anything else in his catalog.
 
+## Related Articles
+
+- [Top 10 Progressive Death Metal Drummers](https://metalforge.io/lists/progressive-death-metal-drummers)
+- [What's In Sean Reinert's Progressive Arsenal: A Tribute to Jazz-Death Metal's Pioneer](https://metalforge.io/articles/whats-in-sean-reinerts-kit)
+- [Human Drum Setup: Sean Reinert's Jazz-Death Masterpiece](https://metalforge.io/articles/human-drum-setup)
+- [The Sound of Perseverance Drum Setup: Richard Christy's Death Swan Song](https://metalforge.io/articles/sound-of-perseverance-drum-setup)
+- [Traced in Air Drum Setup: Sean Reinert's Cynic Reunion (2008)](https://metalforge.io/articles/traced-in-air-drum-setup)
+
+## Related Drummers
+
+- [Gene Hoglan](https://metalforge.io/drummer/gene-hoglan)
+- [George Kollias](https://metalforge.io/drummer/george-kollias)
+
 **Source:** https://metalforge.io/articles/focus-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

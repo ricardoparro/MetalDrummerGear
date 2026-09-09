@@ -96,8 +96,13 @@ A: In Absentia was recorded primarily at Avatar Studios in New York, with additi
 
 A: "The Sound of Muzak" is the most studied Gavin Harrison performance on In Absentia — its shifting, polyrhythmic foundation showcases the ghost-note vocabulary and odd-meter grooves that would become his signature. "Blackest Eyes" and "Trains" are also frequently cited for the way Harrison's drumming tracks the songs' dynamic contrasts between delicate and heavy sections.
 
+## Related Articles
+
+- [Gavin Harrison's Drum Setup on Porcupine Tree's Deadwing (2005)](https://metalforge.io/articles/deadwing-drum-setup)
+- [Porcupine Tree Fear of a Blank Planet Drum Setup: Gavin Harrison's 2007 Gear](https://metalforge.io/articles/fear-of-a-blank-planet-drum-setup)
+
 **Source:** https://metalforge.io/articles/in-absentia-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

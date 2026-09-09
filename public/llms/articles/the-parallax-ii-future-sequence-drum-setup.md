@@ -104,8 +104,14 @@ A: The Parallax II: Future Sequence (2012) is widely considered Richardson's pea
 
 A: Blake Richardson played an expanded Meinl Byzance Extra Dry setup on The Parallax II (2012), a wider array of pieces than his earlier, more compact Alaska-era setup. Configuration: Meinl Byzance Extra Dry 14" Hi-Hats, Extra Dry 17" Thin Crash (fast accent), Extra Dry 18" Thin Crash (fuller sustain), Extra Dry 20" Ride (controlled odd-time articulation), 10" Extra Dry Splash (rapid transition punctuation), and 18" Extra Dry China (death metal accents). The expanded Extra Dry setup reflects the 74-minute concept album's greater tonal range requirements.
 
+## Related Articles
+
+- [Blake Richardson's Drum Setup on Between the Buried and Me's Alaska (2005)](https://metalforge.io/articles/alaska-drum-setup)
+- [Blake Richardson's Drum Setup on Between the Buried and Me's Coma Ecliptic (2015)](https://metalforge.io/articles/coma-ecliptic-drum-setup)
+- [Blake Richardson Drum Kit & Gear Setup — BTBAM Tech Metal](https://metalforge.io/articles/blake-richardson-drum-setup)
+
 **Source:** https://metalforge.io/articles/the-parallax-ii-future-sequence-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

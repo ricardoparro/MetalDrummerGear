@@ -110,8 +110,20 @@ A: On Cryptic Writings, Nick Menza moved from the Paiste 2002 and Signature cymb
 
 A: Dave Mustaine brought in Nashville-based producer Dann Huff because the band wanted a different sonic direction after working with Max Norman on Countdown to Extinction and Youthanasia. Huff was known for polished, hook-driven rock production, and relocating to Nashville's The Tracking Room — with overdubs at The Castle in Franklin, Tennessee — gave Cryptic Writings a noticeably more contemporary, radio-ready sound than any previous Megadeth record.
 
+## Related Articles
+
+- [Top 10 Thrash Metal Drummers](https://metalforge.io/lists/thrash-metal-drummers)
+- [Nick Menza's Drum Setup on Megadeth's Youthanasia (1994)](https://metalforge.io/articles/youthanasia-drum-setup)
+- [Nick Menza's Drum Setup on Megadeth's Countdown to Extinction (1992)](https://metalforge.io/articles/countdown-to-extinction-drum-setup)
+
+## Related Drummers
+
+- [Lars Ulrich](https://metalforge.io/drummer/lars-ulrich)
+- [Gene Hoglan](https://metalforge.io/drummer/gene-hoglan)
+- [Mario Duplantier](https://metalforge.io/drummer/mario-duplantier)
+
 **Source:** https://metalforge.io/articles/cryptic-writings-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

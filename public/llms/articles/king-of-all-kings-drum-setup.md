@@ -80,8 +80,20 @@ A: King of All Kings (2002) is regarded as a landmark because of the sustained d
 
 A: Roddy's studio approach on King of All Kings favored minimal triggering. His freehand technique produced consistent enough attack and volume on the acoustic kit that producer Erik Rutan could capture the performance largely untriggered, giving the record's blast sections a rawer, more human character than many contemporaneous extreme metal productions that leaned heavily on sample replacement.
 
+## Related Articles
+
+- [What's In Derek Roddy's Kit: The Extreme Metal Educator's Speed Arsenal](https://metalforge.io/articles/whats-in-derek-roddys-kit)
+- [Symbolic Drum Setup: Gene Hoglan's Death Masterpiece](https://metalforge.io/articles/symbolic-drum-setup)
+- [Altars of Madness Drum Setup: Pete Sandoval's Death Metal Genesis](https://metalforge.io/articles/altars-of-madness-drum-setup)
+
+## Related Drummers
+
+- [Gene Hoglan](https://metalforge.io/drummer/gene-hoglan)
+- [Pete Sandoval](https://metalforge.io/drummer/pete-sandoval)
+- [Ray Luzier](https://metalforge.io/drummer/ray-luzier)
+
 **Source:** https://metalforge.io/articles/king-of-all-kings-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

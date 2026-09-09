@@ -95,8 +95,20 @@ A: On Reinventing the Steel, Vinnie Paul used a blend of Sabian's established HH
 
 A: Reinventing the Steel was produced by Vinnie Paul and Dimebag Darrell alongside engineer Sterling Winfield. It was the first Pantera studio album since 1988's Power Metal not produced by longtime collaborator Terry Date, reflecting the band's push for a more direct, self-directed sound on their final record.
 
+## Related Articles
+
+- [What's In Vinnie Paul's Pantera Arsenal (Tribute)](https://metalforge.io/articles/whats-in-vinnie-pauls-kit)
+- [Vinnie Paul's Drum Setup on Pantera's The Great Southern Trendkill (1996)](https://metalforge.io/articles/great-southern-trendkill-drum-setup)
+- [Far Beyond Driven Drum Setup: Vinnie Paul's Heaviest Era Gear Breakdown](https://metalforge.io/articles/far-beyond-driven-drum-setup)
+
+## Related Drummers
+
+- [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo)
+- [Lars Ulrich](https://metalforge.io/drummer/lars-ulrich)
+- [Art Cruz](https://metalforge.io/drummer/art-cruz)
+
 **Source:** https://metalforge.io/articles/reinventing-the-steel-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

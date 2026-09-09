@@ -102,8 +102,21 @@ A: The Final Frontier represents the most progressive drumming demands of Nicko 
 
 A: The Final Frontier (2010) and The Book of Souls (2015) form consecutive chapters in Iron Maiden's progressive 21st-century catalog. Both albums feature extended, ambitious progressive structures and represent Nicko McBrain at his most technically and endurance-demanding. The Final Frontier established the template: UK #1 and US #1 debut, average song lengths of nine-plus minutes, Grammy nomination for 'El Dorado.' The Book of Souls extended this ambition further with a double album and tracks running up to eighteen minutes. Together they bookend a decade of Iron Maiden at their most progressive. See the [Book of Souls drum setup article](/articles/book-of-souls-drum-setup) for the follow-up.
 
+## Related Articles
+
+- [Top 10 Thrash Metal Drummers](https://metalforge.io/lists/thrash-metal-drummers)
+- [Top 10 Most Innovative Metal Drummers](https://metalforge.io/lists/most-innovative-drummers)
+- [Brave New World Drum Setup: Nicko McBrain's Gear on Iron Maiden's 2000 Reunion Masterpiece](https://metalforge.io/articles/brave-new-world-drum-setup)
+- [The Book of Souls Drum Setup: Nicko McBrain's Gear on Iron Maiden's UK #1 Double Album](https://metalforge.io/articles/book-of-souls-drum-setup)
+
+## Related Drummers
+
+- [Lars Ulrich](https://metalforge.io/drummer/lars-ulrich)
+- [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo)
+- [Charlie Benante](https://metalforge.io/drummer/charlie-benante)
+
 **Source:** https://metalforge.io/articles/final-frontier-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

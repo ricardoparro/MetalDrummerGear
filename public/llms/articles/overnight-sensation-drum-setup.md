@@ -99,8 +99,20 @@ A: Yes. Lemmy Kilmister said that Dee, "as usual," finished his drum tracks well
 
 A: *Overnight Sensation* reached #22 on the UK Rock & Metal Albums chart on its original October 1996 release, along with chart placements in Finland, Germany, and Sweden. A 2021 reissue campaign brought renewed attention to the album, pushing it to #8 on the UK Rock & Metal Albums chart and into the UK Independent Albums top 20 — a stronger chart showing 25 years after its initial release.
 
+## Related Articles
+
+- [Sacrifice Drum Setup: Mikkey Dee's Gear on Motörhead's 1995 Album](https://metalforge.io/articles/sacrifice-drum-setup)
+- [Bastards Drum Setup: Mikkey Dee's Gear on Motörhead's 1993 Album](https://metalforge.io/articles/bastards-drum-setup)
+- [What's In Mikkey Dee's Motörhead/Scorpions Arsenal: 23 Years Behind Rock's Loudest Band](https://metalforge.io/articles/whats-in-mikkey-dees-kit)
+
+## Related Drummers
+
+- [Hellhammer](https://metalforge.io/drummer/hellhammer)
+- [Lars Ulrich](https://metalforge.io/drummer/lars-ulrich)
+- [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo)
+
 **Source:** https://metalforge.io/articles/overnight-sensation-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

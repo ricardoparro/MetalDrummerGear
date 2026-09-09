@@ -107,8 +107,22 @@ A: Fear of the Dark was released on May 11, 1992, on EMI in the UK and Epic in t
 
 A: The two albums sit close together chronologically but differ sharply in approach. No Prayer for the Dying (1990) was recorded with deliberate rawness in a barn using the Rolling Stones Mobile Studio, with Nicko McBrain tuning his Yamaha kit punchier and tighter while keeping his usual Paiste 2002 cymbals. Fear of the Dark (1992) returned to a fuller, more produced sound at Barnyard Studios, with Nicko opening the tuning back up on the same Yamaha kit and stepping up to Paiste Signature cymbals that better suited the album's bigger, more melodic arrangements. Commercially, Fear of the Dark was the clear winner — a number-one, 2x-platinum album against No Prayer's number-two showing. See the [No Prayer for the Dying drum setup article](/articles/no-prayer-for-the-dying-drum-setup) for that preceding chapter.
 
+## Related Articles
+
+- [Top 10 Thrash Metal Drummers](https://metalforge.io/lists/thrash-metal-drummers)
+- [Top 10 Most Innovative Metal Drummers](https://metalforge.io/lists/most-innovative-drummers)
+- [Seventh Son of a Seventh Son Drum Setup: Nicko McBrain's Most Dynamic Pre-90s Performance (1988)](https://metalforge.io/articles/seventh-son-drum-setup)
+- [Number of the Beast Drum Setup: The Gear Behind Clive Burr's Performance (& Nicko's Legacy)](https://metalforge.io/articles/number-of-the-beast-drum-setup)
+- [What's In Nicko McBrain's Iron Maiden Arsenal](https://metalforge.io/articles/whats-in-nicko-mcbrains-kit)
+
+## Related Drummers
+
+- [Lars Ulrich](https://metalforge.io/drummer/lars-ulrich)
+- [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo)
+- [Charlie Benante](https://metalforge.io/drummer/charlie-benante)
+
 **Source:** https://metalforge.io/articles/fear-of-the-dark-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

@@ -128,8 +128,19 @@ A: No. Tomb of the Mutilated was recorded with pure acoustic drums — no trigge
 
 A: In 1992, Mazurkiewicz had no cymbal endorsement deal — the Meinl partnership that defines his modern setup was years in the future. On Tomb of the Mutilated he played an era-typical working-band cymbal arsenal: a mix of Paiste 2002, Paiste 502, Zildjian A, or Zildjian ZBT cymbals, including 14-inch hi-hats, 16-inch and 18-inch medium crashes, a 20-inch medium ride used sparingly, and an 18-inch China cymbal for trashy riff accents. His sticks were standard Vic Firth 5B wood-tip — the signature Vic Firth Paul Mazurkiewicz model he plays today did not exist yet. Heads were Remo Powerstroke 3 Clear on the kicks, Remo Emperor Clear on the toms, and Remo Ambassador or Emperor Coated on the snare batter.
 
+## Related Articles
+
+- [Paul Mazurkiewicz Drum Setup — Cannibal Corpse Gear Guide](https://metalforge.io/articles/paul-mazurkiewicz-drum-setup)
+- [Altars of Madness Drum Setup: Pete Sandoval's Death Metal Genesis](https://metalforge.io/articles/altars-of-madness-drum-setup)
+- [Blessed Are the Sick Drum Setup: Pete Sandoval's Egyptian Death Metal Evolution](https://metalforge.io/articles/blessed-are-the-sick-drum-setup)
+
+## Related Drummers
+
+- [Pete Sandoval](https://metalforge.io/drummer/pete-sandoval)
+- [Paul Mazurkiewicz](https://metalforge.io/drummer/paul-mazurkiewicz)
+
 **Source:** https://metalforge.io/articles/tomb-of-the-mutilated-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

@@ -120,8 +120,23 @@ A: Richard Christy used Sabian AA and AAX series cymbals on The Sound of Perseve
 
 A: Richard Christy's Pearl Custom Z kit retailed for approximately $3,000 to $4,500 when new in 1998. Today, used Custom Z shells in good condition sell for around $1,200 to $2,800. His Sabian AA and AAX cymbals remain in current production, and a comparable complete setup costs $1,500 to $2,200 new. Building a full replica of Christy's 1998 setup with hardware and pedals today costs approximately $5,000 to $8,000.
 
+## Related Articles
+
+- [What's In Richard Christy's Death Metal Arsenal](https://metalforge.io/articles/whats-in-richard-christys-kit)
+- [Symbolic Drum Setup: Gene Hoglan's Death Masterpiece](https://metalforge.io/articles/symbolic-drum-setup)
+- [Human Drum Setup: Sean Reinert's Jazz-Death Masterpiece](https://metalforge.io/articles/human-drum-setup)
+- [What's In Gene Hoglan's Atomic Arsenal: Complete Gear Breakdown](https://metalforge.io/articles/whats-in-gene-hoglans-kit)
+- [Painkiller Drum Setup: Scott Travis's Speed Metal Revolution](https://metalforge.io/articles/painkiller-drum-setup)
+
+## Related Drummers
+
+- [Gene Hoglan](https://metalforge.io/drummer/gene-hoglan)
+- [George Kollias](https://metalforge.io/drummer/george-kollias)
+- [Matt Halpern](https://metalforge.io/drummer/matt-halpern)
+- [Inferno](https://metalforge.io/drummer/inferno)
+
 **Source:** https://metalforge.io/articles/sound-of-perseverance-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

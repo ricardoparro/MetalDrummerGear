@@ -120,8 +120,19 @@ A: Eloy Casagrande uses a mix of Paiste RUDE, PST X, and 2002 series cymbals. Hi
 
 A: A Tama Starclassic Bubinga kit matching Casagrande's configuration currently costs between $6,000 and $9,000. His Tama S.L.P. Sonic Steel snare adds approximately $400 to $550. A comparable Paiste RUDE and 2002 cymbal setup will run an additional $2,000 to $3,500. Total investment to approximate his full setup is in the range of $8,400 to $13,000.
 
+## Related Articles
+
+- [Iowa Drum Setup: Joey Jordison's Gear Breakdown](https://metalforge.io/articles/iowa-drum-setup)
+- [Roots Drum Setup: Igor Cavalera's Brazilian Tribal Metal Revolution](https://metalforge.io/articles/roots-drum-setup)
+
+## Related Drummers
+
+- [Joey Jordison](https://metalforge.io/drummer/joey-jordison)
+- [Pete Sandoval](https://metalforge.io/drummer/pete-sandoval)
+- [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo)
+
 **Source:** https://metalforge.io/articles/whats-in-eloy-casagrandes-kit
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

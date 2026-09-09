@@ -77,8 +77,19 @@ For the complete Shannon Larkin gear arc: begin at [Faceless (2003)](/articles/f
 - Estimated kit value: $1,500–3,000 (ddrum Dios Series shell pack, 2018 era)
 - Estimated snare value: $300–500 (ddrum Dios maple snare)
 
+## Related Articles
+
+- [Shannon Larkin Drum Setup — Godsmack's Complete Gear Guide](https://metalforge.io/articles/shannon-larkin-drum-setup)
+- [What Drums Did Shannon Larkin Use on 1000hp?](https://metalforge.io/articles/godsmack-1000hp-drum-setup)
+- [Godsmack IV Drum Setup: Shannon Larkin's ddrum Dios Series Gear on the #2 Billboard Album (2006)](https://metalforge.io/articles/godsmack-iv-drum-setup)
+- [Faceless Drum Setup: Shannon Larkin's Gear on Godsmack's #1 Billboard Album (2003)](https://metalforge.io/articles/faceless-drum-setup)
+
+## Related Drummers
+
+- [Matt Halpern](https://metalforge.io/drummer/matt-halpern)
+
 **Source:** https://metalforge.io/articles/when-legends-rise-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

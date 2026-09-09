@@ -65,8 +65,19 @@ A: In 2016, Jordison disclosed that he had been diagnosed with acute transverse 
 
 A: Jordison built his sound around a Pearl kit, his own Pearl Joey Jordison Signature snare (13" × 6.5"), Paiste RUDE and 2002 series cymbals, and Promark TX515W signature sticks. Full breakdowns of each piece are linked in the gear legacy section above.
 
+## Related Articles
+
+- [Iowa Drum Setup: Joey Jordison's Gear Breakdown](https://metalforge.io/articles/iowa-drum-setup)
+- [What's In Joey Jordison's Legendary Kit: Complete Gear Breakdown](https://metalforge.io/articles/whats-in-joey-jordisons-kit)
+- [Joey Jordison Drum Setup: Slipknot Drummer Kit & Gear Breakdown](https://metalforge.io/articles/joey-jordison-drum-setup)
+
+## Related Drummers
+
+- [Hellhammer](https://metalforge.io/drummer/hellhammer)
+- [Eloy Casagrande](https://metalforge.io/drummer/eloy-casagrande)
+
 **Source:** https://metalforge.io/articles/joey-jordison-legacy
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

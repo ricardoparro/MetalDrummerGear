@@ -102,8 +102,21 @@ A: Yes. Kill debuted at #170 on the Billboard 200 in the week following its Marc
 
 A: "A Skull Full of Maggots" closes Kill (2006) as a re-recording of a song originally released on Cannibal Corpse's 1990 debut, Eaten Back to Life. It gives listeners a direct point of comparison between Paul Mazurkiewicz's earliest recorded drumming and his fully mature, sixteen-years-later playing on far more developed Pearl Reference and Sabian gear.
 
+## Related Articles
+
+- [Top 10 Death Metal Drummers](https://metalforge.io/lists/death-metal-drummers)
+- [Paul Mazurkiewicz's Drum Setup on Cannibal Corpse's Gore Obsessed (2002)](https://metalforge.io/articles/gore-obsessed-drum-setup)
+- [Paul Mazurkiewicz's Drum Setup on Cannibal Corpse's The Wretched Spawn (2004)](https://metalforge.io/articles/the-wretched-spawn-drum-setup)
+- [Paul Mazurkiewicz's Drum Setup on Cannibal Corpse's Evisceration Plague (2009)](https://metalforge.io/articles/evisceration-plague-drum-setup)
+- [Paul Mazurkiewicz's Drum Setup on Cannibal Corpse's Tomb of the Mutilated (1992)](https://metalforge.io/articles/tomb-of-the-mutilated-drum-setup)
+- [Paul Mazurkiewicz Drum Setup — Cannibal Corpse Gear Guide](https://metalforge.io/articles/paul-mazurkiewicz-drum-setup)
+
+## Related Drummers
+
+- [Paul Mazurkiewicz](https://metalforge.io/drummer/paul-mazurkiewicz)
+
 **Source:** https://metalforge.io/articles/kill-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

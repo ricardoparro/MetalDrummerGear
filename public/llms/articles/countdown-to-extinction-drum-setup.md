@@ -123,8 +123,19 @@ A: Countdown to Extinction is the commercial high-water mark of Megadeth's caree
 
 A: Nick Menza used a Pearl Masters snare at 14 inches by 6.5 inches deep on Countdown to Extinction, matching his new Pearl kit — a switch from the Tama Steel snare he used on Rust in Peace. For Countdown he tuned the drum slightly lower with looser snare-wire tension, emphasizing body and weight over the brighter, more cracking sound he used on the previous album. That tuning choice served the album's mid-tempo grooves on tracks like "Symphony of Destruction," where the snare needed authority and presence in an open pocket rather than the rapid-fire articulation thrash blast sections require.
 
+## Related Articles
+
+- [Top 10 Thrash Metal Drummers](https://metalforge.io/lists/thrash-metal-drummers)
+- [Rust in Peace Drum Setup: Nick Menza's Gear Breakdown](https://metalforge.io/articles/rust-in-peace-drum-setup)
+- [Nick Menza Drum Kit & Gear Setup — Megadeth Complete Guide](https://metalforge.io/articles/nick-menza-drum-setup)
+
+## Related Drummers
+
+- [Lars Ulrich](https://metalforge.io/drummer/lars-ulrich)
+- [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo)
+
 **Source:** https://metalforge.io/articles/countdown-to-extinction-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

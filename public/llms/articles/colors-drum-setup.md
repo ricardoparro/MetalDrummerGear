@@ -100,8 +100,14 @@ A: *Colors* (2007) is Between the Buried and Me's fourth studio album and widely
 
 A: 'Selkies: The Endless Obsession' is from BTBAM's *Alaska* (2005), not *Colors* — but it is one of the most-studied drum performances in Richardson's catalog, and the bass drum technique it showcases carries directly into the *Colors* era. Richardson's kick approach is compositional rather than constant: he varies double-bass density to follow the arrangement's emotional arc, deploying dense kick patterns during intense passages and pulling back to sparse or single-foot patterns during restrained sections. The DW 9002 chain-drive double bass pedal, used on both *Alaska* and *Colors*, provides the consistent feel this density-variable approach requires. On *Colors*, the same compositional double-bass philosophy drives 'Prequel to the Sequel' and 'White Walls' — the kick following the music's arc rather than running beneath it as a constant. Full technique breakdown at [Blake Richardson at MetalForge](/drummer/blake-richardson).
 
+## Related Articles
+
+- [Blake Richardson's Drum Setup on Between the Buried and Me's The Great Misdirect (2009)](https://metalforge.io/articles/great-misdirect-drum-setup)
+- [Blake Richardson's Drum Setup on Between the Buried and Me's Alaska (2005)](https://metalforge.io/articles/alaska-drum-setup)
+- [Blake Richardson Drum Kit & Gear Setup — BTBAM Tech Metal](https://metalforge.io/articles/blake-richardson-drum-setup)
+
 **Source:** https://metalforge.io/articles/colors-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

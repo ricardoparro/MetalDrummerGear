@@ -112,8 +112,12 @@ A: A full Gavin Harrison Fear of a Blank Planet-era setup — Sonor SQ2 custom s
 
 A: Gavin Harrison's primary snare on Fear of a Blank Planet is the Sonor Gavin Harrison Signature 14" x 5.25" brass-shell snare drum, developed in collaboration with Sonor. The brass shell provides warmth and body on soft ghost notes and ghost note passages, while still projecting powerfully on rimshots. He also uses a 12" Sonor Protean signature snare as a studio textural instrument for tighter, more focused snare sounds in close-mic contexts. Both are tuned medium to medium-high for maximum dynamic range.
 
+## Related Articles
+
+- [What's In Gavin Harrison's Prog Metal Arsenal: Complete Gear Breakdown](https://metalforge.io/articles/whats-in-gavin-harrisons-kit)
+
 **Source:** https://metalforge.io/articles/fear-of-a-blank-planet-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

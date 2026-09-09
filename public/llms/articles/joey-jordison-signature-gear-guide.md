@@ -65,8 +65,21 @@ A: Pearl and Promark have continued producing their respective Joey Jordison sig
 
 A: Joey Jordison's Iowa-era Pearl Masterworks Custom kits (2000–2004 vintage) appear occasionally on Reverb.com — search 'Pearl Masterworks joey jordison' or 'Pearl Masterworks custom purple black'. eBay is a secondary source with wider inventory but less buyer protection for high-value purchases. Vintage drum specialists like Vintage Drum Center and Classic Drum Shop occasionally source authenticated Iowa-era Pearl pieces. For a more budget-friendly option, a used Pearl Reference Series kit (2008–present) delivers similar maple/mahogany shell character at $2,000–4,000 depending on configuration. The Pearl Masterworks is a fully custom build, so no two configurations are identical — verify shell sizes and hardware match before purchasing.
 
+## Related Articles
+
+- [Top 10 Fastest Double Bass Drummers in Metal History](https://metalforge.io/lists/fastest-double-bass-drummers)
+- [Iowa Drum Setup: Joey Jordison's Gear Breakdown](https://metalforge.io/articles/iowa-drum-setup)
+- [What's In Joey Jordison's Legendary Kit: Complete Gear Breakdown](https://metalforge.io/articles/whats-in-joey-jordisons-kit)
+- [Joey Jordison Drum Setup: Slipknot Drummer Kit & Gear Breakdown](https://metalforge.io/articles/joey-jordison-drum-setup)
+
+## Related Drummers
+
+- [Joey Jordison](https://metalforge.io/drummer/joey-jordison)
+- [Jay Weinberg](https://metalforge.io/drummer/jay-weinberg)
+- [Vinnie Paul](https://metalforge.io/drummer/vinnie-paul)
+
 **Source:** https://metalforge.io/articles/joey-jordison-signature-gear-guide
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

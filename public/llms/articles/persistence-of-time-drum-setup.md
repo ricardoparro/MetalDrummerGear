@@ -113,8 +113,22 @@ A: Persistence of Time was produced by Mark Dodson with Anthrax, the same team t
 
 A: Persistence of Time is the direct predecessor to Sound of White Noise (1993) in Charlie Benante's gear arc, and the gear itself carried straight through — the same Tama Artstar Custom birch drums, Paiste cymbals, and Tama HP35 Camco pedals appear on both records. What changed was the production and the tuning: Mark Dodson's tight, forward production on Persistence of Time gave way to Dave Jerden's organic, room-rich approach on Sound of White Noise, with the kit tuned lower and damped more heavily to match. For the complete comparison, see the Sound of White Noise drum setup article.
 
+## Related Articles
+
+- [What's In Charlie Benante's Anthrax Kit: The Big Four's Technical Pioneer](https://metalforge.io/articles/whats-in-charlie-benantes-kit)
+- [Top 10 Thrash Metal Drummers](https://metalforge.io/lists/thrash-metal-drummers)
+- [Charlie Benante's Drum Setup on Anthrax's State of Euphoria (1988)](https://metalforge.io/articles/state-of-euphoria-drum-setup)
+- [Among the Living Drum Setup: Charlie Benante's Anthrax Gear Breakdown](https://metalforge.io/articles/charlie-benante-among-the-living-drum-setup)
+- [Charlie Benante's Drum Setup on Anthrax's Sound of White Noise (1993)](https://metalforge.io/articles/sound-of-white-noise-drum-setup)
+
+## Related Drummers
+
+- [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo)
+- [Lars Ulrich](https://metalforge.io/drummer/lars-ulrich)
+- [Gene Hoglan](https://metalforge.io/drummer/gene-hoglan)
+
 **Source:** https://metalforge.io/articles/persistence-of-time-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

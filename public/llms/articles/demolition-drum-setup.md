@@ -94,8 +94,20 @@ A: Demolition is the only Judas Priest studio album to carry a Parental Advisory
 
 A: Demolition (2001) continues the same Tama Artstar II / Paiste RUDE/2002 setup Travis has used since Painkiller (1990), with Yamaha hardware added alongside his existing DW/Gibraltar rig, a refinement rather than an overhaul. Travis was a Tama endorser from Painkiller through the mid-2000s, before later switching to Pearl and then ddrum — the stylistic evolution from Painkiller's speed-metal blitz through Jugulator and Demolition's groove-and-industrial-leaning material happened within one consistent Tama-era rig, not across gear changes.
 
+## Related Articles
+
+- [Top 10 Fastest Double Bass Drummers in Metal History](https://metalforge.io/lists/fastest-double-bass-drummers)
+- [Top 10 Thrash Metal Drummers](https://metalforge.io/lists/thrash-metal-drummers)
+- [Painkiller Drum Setup: Scott Travis's Speed Metal Revolution](https://metalforge.io/articles/painkiller-drum-setup)
+- [Scott Travis's Drum Setup on Judas Priest's Jugulator (1997)](https://metalforge.io/articles/jugulator-drum-setup)
+- [Scott Travis's Drum Setup on Judas Priest's Angel of Retribution (2005)](https://metalforge.io/articles/angel-of-retribution-drum-setup)
+
+## Related Drummers
+
+- [Shannon Larkin](https://metalforge.io/drummer/shannon-larkin)
+
 **Source:** https://metalforge.io/articles/demolition-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

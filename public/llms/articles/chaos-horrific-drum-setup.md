@@ -102,8 +102,20 @@ A: Cannibal Corpse released two studio albums in the 2020s so far: Violence Unim
 
 A: Chaos Horrific is a ten-track album: "Overlords of Violence," "Frenzied Feeding," "Summoned for Sacrifice," "Blood Blind," "Vengeful Invasion," the title track "Chaos Horrific," "Fracture and Refracture," "Pitchfork Impalement," "Pestilential Rictus," and "Drain You Empty."
 
+## Related Articles
+
+- [Top 10 Death Metal Drummers](https://metalforge.io/lists/death-metal-drummers)
+- [Paul Mazurkiewicz's Drum Setup on Cannibal Corpse's 'Violence Unimagined' (2021)](https://metalforge.io/articles/violence-unimagined-drum-setup)
+- [Paul Mazurkiewicz's Drum Setup on Cannibal Corpse's 'Red Before Black' (2017)](https://metalforge.io/articles/red-before-black-drum-setup)
+- [Paul Mazurkiewicz Drum Setup — Cannibal Corpse Gear Guide](https://metalforge.io/articles/paul-mazurkiewicz-drum-setup)
+- [Paul Mazurkiewicz's Drum Setup on Cannibal Corpse's 'A Skeletal Domain' (2014)](https://metalforge.io/articles/skeletal-domain-drum-setup)
+
+## Related Drummers
+
+- [Paul Mazurkiewicz](https://metalforge.io/drummer/paul-mazurkiewicz)
+
 **Source:** https://metalforge.io/articles/chaos-horrific-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

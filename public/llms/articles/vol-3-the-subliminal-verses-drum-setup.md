@@ -102,8 +102,22 @@ A: 'Before I Forget' from Vol. 3: (The Subliminal Verses) won the Grammy Award f
 
 A: Joey Jordison used a Pearl Free-Floating brass snare drum in 14 x 6.5 inches on Vol. 3: (The Subliminal Verses). This was a different instrument from the Pearl Joey Jordison Signature 13 x 6.5 inch steel snare used on Iowa. The Free-Floating design suspends the brass shell between the hoops without contact, allowing freer resonance and a more open, warmer crack. Rick Rubin's production made this broader snare character clearly audible in the mix — particularly on 'Duality' and 'Before I Forget.'
 
+## Related Articles
+
+- [Top 10 Fastest Double Bass Drummers in Metal History](https://metalforge.io/lists/fastest-double-bass-drummers)
+- [Top 10 Most Brutal Drum Solos in Metal History](https://metalforge.io/lists/most-brutal-drum-solos)
+- [Iowa Drum Setup: Joey Jordison's Gear Breakdown](https://metalforge.io/articles/iowa-drum-setup)
+- [Joey Jordison's Drum Setup on Slipknot's All Hope Is Gone (2008)](https://metalforge.io/articles/all-hope-is-gone-drum-setup)
+- [Slipknot Self-Titled Drum Setup: Joey Jordison's 1999 Debut Gear Breakdown](https://metalforge.io/articles/slipknot-self-titled-drum-setup)
+
+## Related Drummers
+
+- [Jay Weinberg](https://metalforge.io/drummer/jay-weinberg)
+- [George Kollias](https://metalforge.io/drummer/george-kollias)
+- [Flo Mounier](https://metalforge.io/drummer/flo-mounier)
+
 **Source:** https://metalforge.io/articles/vol-3-the-subliminal-verses-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

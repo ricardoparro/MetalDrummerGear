@@ -103,8 +103,18 @@ A: Arin Ilejay did not play on the Avenged Sevenfold Nightmare album (2010). The
 
 A: Arin Ilejay uses the Mapex Falcon double bass pedal. The Falcon is Mapex's touring-grade double kick pedal, known for its smooth cam action and durability across extended world tour schedules. For A7X's touring demands — 200+ shows per year across arenas and major festivals — hardware consistency is a practical requirement. The Falcon's fluid response suited Ilejay's classic metal double-kick approach: galloping rhythms, four-on-the-floor sections, and the occasional rapid double bass passage that Hail to the King's arrangements required. See [Arin Ilejay's full profile at MetalForge](/drummer/arin-ilejay) for complete gear specs.
 
+## Related Articles
+
+- [Matt Greiner Complete Drum Setup — August Burns Red Gear Guide](https://metalforge.io/articles/matt-greiner-complete-drum-setup)
+- [Shannon Larkin Drum Setup — Godsmack's Complete Gear Guide](https://metalforge.io/articles/shannon-larkin-drum-setup)
+
+## Related Drummers
+
+- [Arin Ilejay](https://metalforge.io/drummer/arin-ilejay)
+- [Matt Greiner](https://metalforge.io/drummer/matt-greiner)
+
 **Source:** https://metalforge.io/articles/arin-ilejay-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

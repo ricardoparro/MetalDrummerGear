@@ -99,8 +99,22 @@ A: Hellhammer used Paiste RUDE cymbals on Esoteric Warfare — 14" RUDE Hi-Hats,
 
 A: Esoteric Warfare (2014) is generally regarded as a leaner, more traditionally structured black metal record compared to Ordo Ad Chao (2007), which was built around a deliberately raw, harmonically exposed mix recorded without an independent bass part. Esoteric Warfare's compact, verse-chorus song structures gave Hellhammer's drum patterns clearer structural roles, reflecting the compositional shift under new guitarist Teloch.
 
+## Related Articles
+
+- [Top 10 Black Metal Drummers](https://metalforge.io/lists/black-metal-drummers)
+- [Ordo Ad Chao Drum Setup: Hellhammer's Most Demanding Mayhem Session](https://metalforge.io/articles/ordo-ad-chao-drum-setup)
+- [Hellhammer Drum Kit & Gear Setup — Mayhem Black Metal Legend](https://metalforge.io/articles/hellhammer-drum-setup)
+- [Daemon Drum Setup: Hellhammer's Most Recent Mayhem Statement](https://metalforge.io/articles/daemon-drum-setup)
+- [Chimera Drum Setup: Hellhammer's 2004 Return-to-Form Mayhem Session](https://metalforge.io/articles/chimera-drum-setup)
+
+## Related Drummers
+
+- [Art Cruz](https://metalforge.io/drummer/art-cruz)
+- [Frost](https://metalforge.io/drummer/frost)
+- [Inferno](https://metalforge.io/drummer/inferno)
+
 **Source:** https://metalforge.io/articles/esoteric-warfare-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

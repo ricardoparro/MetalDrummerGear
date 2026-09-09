@@ -106,8 +106,21 @@ A: Alien is widely regarded as Strapping Young Lad's artistic peak because of it
 
 A: Yes, but for a different reason. City (1997) is cited as a djent precursor for its machine-precision, electronically-augmented drumming. Alien (2005) extends that lineage by adding djent's other defining trait: complex, non-standard time signatures (5/4, 7/8) deployed as compositional groove rather than technical showmanship. Together, the two Strapping Young Lad records give Gene Hoglan and Devin Townsend a legitimate claim as a direct bridge between 1990s extreme metal and 2000s technical progressive metal.
 
+## Related Articles
+
+- [Gene Hoglan Drum Setup: The Atomic Clock Complete Gear Guide](https://metalforge.io/articles/gene-hoglan-drum-setup)
+- [What's In Gene Hoglan's Atomic Arsenal: Complete Gear Breakdown](https://metalforge.io/articles/whats-in-gene-hoglans-kit)
+- [Top 10 Extreme Metal Drummers](https://metalforge.io/lists/extreme-metal-drummers)
+- [City Drum Setup: Gene Hoglan's Industrial Precision with Strapping Young Lad](https://metalforge.io/articles/city-drum-setup)
+- [Darkness Descends Drum Setup: Gene Hoglan's Breakthrough (Dark Angel, 1986)](https://metalforge.io/articles/darkness-descends-drum-setup)
+- [Individual Thought Patterns Drum Setup: Gene Hoglan's First Death Album](https://metalforge.io/articles/individual-thought-patterns-drum-setup)
+
+## Related Drummers
+
+- [Gene Hoglan](https://metalforge.io/drummer/gene-hoglan)
+
 **Source:** https://metalforge.io/articles/alien-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

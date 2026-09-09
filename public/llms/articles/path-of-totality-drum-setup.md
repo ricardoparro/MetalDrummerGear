@@ -105,8 +105,20 @@ A: The Path of Totality (2011) featured seven electronic producers: Skrillex (tw
 
 A: Ray Luzier used the DW 9002 double bass pedal on The Path of Totality (2011), continuing his DW hardware setup from the Korn III era. The 9002's Accelerator cam design and consistent chain-drive action provided the mechanical consistency needed for recording in electronic production contexts — each bass drum stroke producing the same attack transient that could sit predictably alongside programmed production elements.
 
+## Related Articles
+
+- [Korn III Drum Setup: Ray Luzier's 2010 Debut with Korn Gear Breakdown](https://metalforge.io/articles/korn-iii-drum-setup)
+- [Iowa Drum Setup: Joey Jordison's Gear Breakdown](https://metalforge.io/articles/iowa-drum-setup)
+- [Ray Luzier Drum Setup: Korn's Groove Machine Complete Gear Guide](https://metalforge.io/articles/whats-in-ray-luziers-kit)
+
+## Related Drummers
+
+- [Joey Jordison](https://metalforge.io/drummer/joey-jordison)
+- [Eloy Casagrande](https://metalforge.io/drummer/eloy-casagrande)
+- [Lars Ulrich](https://metalforge.io/drummer/lars-ulrich)
+
 **Source:** https://metalforge.io/articles/path-of-totality-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

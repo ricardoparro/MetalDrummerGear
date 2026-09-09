@@ -90,8 +90,19 @@ A: No. Despite the album's significantly heavier material, Bill Ward played sing
 
 A: Bill Ward's Ludwig kit on *Master of Reality* — a 22" bass drum, two rack toms, and a floor tom in vintage maple — would have cost roughly $900 to $1,600 new in 1971. Comparable vintage Ludwig kits from that era sell for $6,000 to $15,000 today in good original condition. The Ludwig Acrolite snare he used is far more affordable, with period examples typically selling for $150 to $350. See the [Bill Ward licks and technique breakdowns](/drummer/bill-ward/licks) for more on his playing style during this period.
 
+## Related Articles
+
+- [Paranoid Drum Setup: Bill Ward's Gear on Black Sabbath's Defining Album](https://metalforge.io/articles/paranoid-drum-setup)
+- [Black Sabbath Debut Drum Setup: Bill Ward's Kit on the Album That Invented Metal (1970)](https://metalforge.io/articles/black-sabbath-drum-setup)
+
+## Related Drummers
+
+- [Lars Ulrich](https://metalforge.io/drummer/lars-ulrich)
+- [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo)
+- [Charlie Benante](https://metalforge.io/drummer/charlie-benante)
+
 **Source:** https://metalforge.io/articles/master-of-reality-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

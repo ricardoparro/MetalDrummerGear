@@ -106,8 +106,20 @@ A: Lars Ulrich used Zildjian A Custom cymbals on Death Magnetic. His setup inclu
 
 A: Death Magnetic is a deliberate sonic callback to the Master of Puppets era, but with 2008-era gear and production. Both albums feature a punchy, attack-forward drum sound with clear snare crack and aggressive double-bass work. Master of Puppets used a Tama Artstar II kit and a Ludwig Supraphonic snare captured at Sweet Silence Studios in Copenhagen; Death Magnetic used Tama Starclassic Birch shells and the LU1465 signature snare recorded with Rick Rubin. The Death Magnetic sound is cleaner and more modern, but the playing approach — technical, stamina-demanding thrash drumming — consciously mirrors the 1986 performances.
 
+## Related Articles
+
+- [Top 10 Thrash Metal Drummers](https://metalforge.io/lists/thrash-metal-drummers)
+- [Master of Puppets Drum Setup: Lars Ulrich's Gear Breakdown](https://metalforge.io/articles/master-of-puppets-drum-setup)
+- [...And Justice for All Drum Setup: Lars Ulrich's Technical Peak](https://metalforge.io/articles/and-justice-for-all-drum-setup)
+
+## Related Drummers
+
+- [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo)
+- [Charlie Benante](https://metalforge.io/drummer/charlie-benante)
+- [Gene Hoglan](https://metalforge.io/drummer/gene-hoglan)
+
 **Source:** https://metalforge.io/articles/death-magnetic-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

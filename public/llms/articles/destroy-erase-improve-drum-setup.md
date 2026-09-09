@@ -104,8 +104,20 @@ A: Destroy Erase Improve (1995) and Chaosphere (1998) represent two phases of th
 
 A: Future Breed Machine is the primary reference track for studying Haake's polyrhythmic technique on Destroy Erase Improve — the patterns are complex enough to demonstrate the concept fully while the tempo (around 220 BPM) is comprehensible without being blast-beat extreme. Beneath is the better entry point for drummers new to the analysis: a slower tempo reveals the relationship between the hi-hat pulse, displaced snare, and cycling kick pattern with more clarity. Soul Burn demonstrates the technical death metal intensity that bridges DEI to the Chaosphere (1998) era. Together, these three tracks cover the full range of what Haake was developing in 1995.
 
+## Related Articles
+
+- [What's In Tomas Haake's Polyrhythmic Arsenal: Complete Gear Breakdown](https://metalforge.io/articles/whats-in-tomas-haakes-kit)
+- [Contradictions Collapse Drum Setup: Tomas Haake's Meshuggah Debut (1991)](https://metalforge.io/articles/contradictions-collapse-drum-setup)
+- [Chaosphere Drum Setup: Tomas Haake's Polymetric Breakthrough (Meshuggah, 1998)](https://metalforge.io/articles/chaosphere-drum-setup)
+
+## Related Drummers
+
+- [Danny Carey](https://metalforge.io/drummer/danny-carey)
+- [John Otto](https://metalforge.io/drummer/john-otto)
+- [Brann Dailor](https://metalforge.io/drummer/brann-dailor)
+
 **Source:** https://metalforge.io/articles/destroy-erase-improve-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

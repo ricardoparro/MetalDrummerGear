@@ -100,8 +100,18 @@ A: On *Blooddrunk* (2008), Jaska Raatikainen used the established Zildjian A Cus
 
 A: *Blooddrunk* (2008) represents a deliberate return to the aggressive, high-velocity approach of *Follow the Reaper* (2000) and *Hate Crew Deathroll* (2003) after the more commercially accessible, groove-oriented *Are You Dead Yet?* (2005). Double-kick patterns are more sustained and at higher tempos on *Blooddrunk*; blast beats are more prominent; China cymbal deployment is more frequent. The Pearl Masters Premium Maple / Pearl Eliminator setup is identical across both albums — the difference is entirely in how Raatikainen deployed it. For the full arc, see the [Are You Dead Yet? drum setup article](/articles/are-you-dead-yet-drum-setup) and the [Jaska Raatikainen drummer profile](/drummer/jaska-raatikainen).
 
+## Related Articles
+
+- [Jaska Raatikainen Drum Setup — Children of Bodom Gear Guide](https://metalforge.io/articles/jaska-raatikainen-drum-setup)
+- [Are You Dead Yet? Drum Setup: Jaska Raatikainen's Gear on Children of Bodom's 2005 Album](https://metalforge.io/articles/are-you-dead-yet-drum-setup)
+- [Hate Crew Deathroll Drum Setup: Jaska Raatikainen's Gear on Children of Bodom's 2003 Album](https://metalforge.io/articles/hate-crew-deathroll-drum-setup)
+
+## Related Drummers
+
+- [Jaska Raatikainen](https://metalforge.io/drummer/jaska-raatikainen)
+
 **Source:** https://metalforge.io/articles/blooddrunk-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

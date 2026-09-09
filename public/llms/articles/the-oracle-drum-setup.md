@@ -117,8 +117,20 @@ A: By *The Oracle* (2010), Shannon Larkin's stick choice remained the Vic Firth 
 
 A: Shannon Larkin is a long-time Sabian artist. On *The Oracle* (2010), he used a Sabian HH / HHX dual-series configuration — continuing the cymbal voice he had developed across the *IV* (2006) sessions and the touring that followed. His setup included Sabian HH 14" Medium Hi-Hats, HHX 17" and 19" Evolution Crashes, an HHX 21" Raw Bell Dry Ride, an HH 18" Chinese cymbal, and an AAX 10" Splash. The HHX Raw Bell Dry Ride in particular is the cymbal most associated with Larkin's settled Godsmack sound — its dry, contained body wash and sharply defined bell deliver the time-keeping complexity his playing requires.
 
+## Related Articles
+
+- [Shannon Larkin Drum Setup — Godsmack's Complete Gear Guide](https://metalforge.io/articles/shannon-larkin-drum-setup)
+- [Faceless Drum Setup: Shannon Larkin's Gear on Godsmack's #1 Billboard Album (2003)](https://metalforge.io/articles/faceless-drum-setup)
+- [Godsmack IV Drum Setup: Shannon Larkin's ddrum Dios Series Gear on the #2 Billboard Album (2006)](https://metalforge.io/articles/godsmack-iv-drum-setup)
+
+## Related Drummers
+
+- [Ray Luzier](https://metalforge.io/drummer/ray-luzier)
+- [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo)
+- [Lars Ulrich](https://metalforge.io/drummer/lars-ulrich)
+
 **Source:** https://metalforge.io/articles/the-oracle-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

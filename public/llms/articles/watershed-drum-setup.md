@@ -115,8 +115,20 @@ A: Ghost Reveries (2005) was Opeth's last album with Steven Wilson as producer �
 
 A: Watershed sits at the literal watershed of Opeth's career — the album closes the Martin Lopez drum era and opens the path to the Heritage prog-rock turn. It was Martin Axenrot's studio debut after replacing Lopez in mid-2006, the band's first record with Jens Bogren producing instead of Steven Wilson, the first Opeth album on Roadrunner Records (after years with Music for Nations and Peaceville), and the band's highest US chart performance to that point — debuting at #23 on the Billboard 200. Musically, Watershed still contained death metal vocals and aggressive passages, but was already leaning toward the prog-rock textures that would define Heritage (2011), Pale Communion (2014), Sorceress (2016), and the subsequent records. Without Watershed's transitional positioning — both in production approach and in drum vocabulary — Heritage's prog-rock shift would have felt jarring rather than evolutionary. For Lopez's development arc that preceded Watershed, see the [Still Life drum setup](/articles/still-life-drum-setup) and [Deliverance drum setup](/articles/deliverance-drum-setup).
 
+## Related Articles
+
+- [Still Life Drum Setup: Martin Lopez Establishes His Opeth Voice](https://metalforge.io/articles/still-life-drum-setup)
+- [Deliverance Drum Setup: Martin Lopez's Most Extreme Opeth Performance](https://metalforge.io/articles/deliverance-drum-setup)
+- [Martin Axenrot's Drum Setup on Opeth's Heritage (2011)](https://metalforge.io/articles/heritage-drum-setup)
+
+## Related Drummers
+
+- [Danny Carey](https://metalforge.io/drummer/danny-carey)
+- [Tomas Haake](https://metalforge.io/drummer/tomas-haake)
+- [Mike Portnoy](https://metalforge.io/drummer/mike-portnoy)
+
 **Source:** https://metalforge.io/articles/watershed-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

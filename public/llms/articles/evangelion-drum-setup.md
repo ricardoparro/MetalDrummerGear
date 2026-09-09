@@ -102,8 +102,20 @@ A: Inferno used Paiste Signature Dark Energy cymbals on Evangelion — including
 
 A: Inferno used a double pedal setup during the Evangelion era; the specific brand and model are not confirmed by a verified source for this period, so no brand claim is made here. What is clear from the recording is that the setup delivered the mechanical precision and consistent power transfer that extreme blast beat performance at 200–240 BPM requires. For a full breakdown of Inferno's double pedal evolution, see the [Inferno drum setup overview](/articles/whats-in-infernos-kit).
 
+## Related Articles
+
+- [What Drums Did Inferno Use on The Apostasy?](https://metalforge.io/articles/the-apostasy-drum-setup)
+- [What's In Inferno's Behemoth Arsenal: Complete Gear Breakdown](https://metalforge.io/articles/whats-in-infernos-kit)
+- [The Satanist Drum Setup: Inferno's Studio Arsenal for Behemoth's AOTY 2014](https://metalforge.io/articles/the-satanist-drum-setup)
+
+## Related Drummers
+
+- [George Kollias](https://metalforge.io/drummer/george-kollias)
+- [Pete Sandoval](https://metalforge.io/drummer/pete-sandoval)
+- [Gene Hoglan](https://metalforge.io/drummer/gene-hoglan)
+
 **Source:** https://metalforge.io/articles/evangelion-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

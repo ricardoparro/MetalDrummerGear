@@ -105,8 +105,12 @@ A: Matt Garstka joined Animals as Leaders for the Weightless sessions in 2012 an
 
 A: The Animals as Leaders debut began as Tosin Abasi's solo project — he had recently returned from studying jazz at Atlanta Institute of Music and had no full band assembled. Programming drums was the practical choice given the minimal production budget and the absence of a permanent rhythm section. Tosin had also developed sufficient programming skill through working with Misha Mansoor on early Periphery material to handle the drum production himself. The approach was editorially valid for a solo-project debut and produced excellent results, but it is honest framing to note that this is a sequenced-drums album, not a live-drums album.
 
+## Related Articles
+
+- [Top 10 Progressive Metal Drummers](https://metalforge.io/lists/progressive-metal-drummers)
+
 **Source:** https://metalforge.io/articles/animals-as-leaders-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

@@ -96,8 +96,19 @@ A: Pale Communion was submitted for Grammy nomination consideration in 2015 in t
 
 A: Pale Communion (2014) sits at the center of Opeth's prog trilogy: following Heritage (2011) and preceding Sorceress (2016). Heritage was the genre pivot — the bold statement of intent. Pale Communion was the artistic peak — Heritage's direction fully realized. Sorceress was the consolidation — the prog identity settled as Opeth's new default mode, with slightly heavier passages reintroduced within the prog framework. For gear, all three albums use the same custom hand-made DW kit and SABIAN HHX/AAX cymbals, with subtle differences in how Axenrot deployed each element to serve each album's specific direction. See [Heritage drum setup](/articles/heritage-drum-setup), [Sorceress drum setup](/articles/sorceress-drum-setup), and [Martin Axenrot's drummer profile](/drummer/martin-axenrot).
 
+## Related Articles
+
+- [Martin Axenrot's Drum Setup on Opeth's Heritage (2011)](https://metalforge.io/articles/heritage-drum-setup)
+- [Martin Axenrot's Drum Setup on Opeth's Sorceress (2016)](https://metalforge.io/articles/sorceress-drum-setup)
+
+## Related Drummers
+
+- [Danny Carey](https://metalforge.io/drummer/danny-carey)
+- [Tomas Haake](https://metalforge.io/drummer/tomas-haake)
+- [Mike Portnoy](https://metalforge.io/drummer/mike-portnoy)
+
 **Source:** https://metalforge.io/articles/pale-communion-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

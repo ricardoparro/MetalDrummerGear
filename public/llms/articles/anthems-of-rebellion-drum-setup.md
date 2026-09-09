@@ -113,8 +113,20 @@ A: Anthems of Rebellion (2003) is the second album in Arch Enemy's defining Ange
 
 A: The Pearl Masters MMX was Pearl's flagship mixed-shell configuration of the early 2000s — shells constructed from a combination of maple and mahogany that produces a warmer, fuller tonal character with more low-mid body than pure-maple designs. The MMX designation stands for Masters Maple/Mixed, indicating the hybrid shell construction. The Pearl Reference Pure (which Erlandsson used on Doomsday Machine in 2005 and subsequent albums) shifted back to all-maple construction for maximum tonal clarity, definition, and projection — a brighter, more articulate character than the MMX's warmer, rounder voice. The progression from MMX (2003) to Reference Pure (2005 onward) reflects both the evolution of Pearl's product lines and the development of Erlandsson's tonal preferences toward the cleaner, more defined character that Andy Sneap's production approach prioritised.
 
+## Related Articles
+
+- [Top 10 Melodic Death Metal Drummers](https://metalforge.io/lists/melodic-death-metal-drummers)
+- [Daniel Erlandsson's Drum Setup on Arch Enemy's Wages of Sin (2002)](https://metalforge.io/articles/wages-of-sin-drum-setup)
+- [Arch Enemy Doomsday Machine Drum Setup: Daniel Erlandsson's 2005 Melodic Death Gear](https://metalforge.io/articles/doomsday-machine-drum-setup)
+- [Daniel Erlandsson's Drum Setup on Arch Enemy's Rise of the Tyrant (2007)](https://metalforge.io/articles/rise-of-the-tyrant-drum-setup)
+- [Daniel Erlandsson's Drum Setup — At The Gates & Arch Enemy Kit Guide](https://metalforge.io/articles/daniel-erlandsson-drum-setup)
+
+## Related Drummers
+
+- [Daniel Erlandsson](https://metalforge.io/drummer/daniel-erlandsson)
+
 **Source:** https://metalforge.io/articles/anthems-of-rebellion-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

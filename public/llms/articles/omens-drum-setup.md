@@ -95,8 +95,19 @@ A: Art Cruz replaced Chris Adler as Lamb of God's drummer. Adler, who had record
 
 A: Omens was released October 7, 2022, through Epic Records and Nuclear Blast — Lamb of God's ninth studio album. It debuted at number 15 on the Billboard 200, number 1 on the Top Hard Rock Albums chart, and number 3 on the Top Rock Albums chart. The album was produced by longtime Lamb of God collaborator Josh Wilbur and tracked at Henson Recording Studios in Los Angeles, with much of it recorded live with the full band playing together in the room.
 
+## Related Articles
+
+- [What's In Art Cruz' Lamb of God Arsenal: Complete Gear Breakdown](https://metalforge.io/articles/whats-in-art-cruzs-kit)
+- [Lamb of God 'Wrath' Drum Setup — Chris Adler's Grammy-Nominated 2009 Kit](https://metalforge.io/articles/wrath-drum-setup)
+- [Lamb of God 'Sacrament' Drum Setup — Chris Adler's 2006 Grammy-Era Kit](https://metalforge.io/articles/sacrament-drum-setup)
+- [What's In Chris Adler's Lamb of God Arsenal: Complete Gear Breakdown](https://metalforge.io/articles/whats-in-chris-adlers-kit)
+
+## Related Drummers
+
+- [Chris Adler](https://metalforge.io/drummer/chris-adler)
+
 **Source:** https://metalforge.io/articles/omens-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

@@ -96,8 +96,21 @@ A: Lars Ulrich used Zildjian A Series cymbals on Master of Puppets. His setup in
 
 A: When Lars Ulrich recorded Master of Puppets in 1986, the Tama Artstar II kit would have cost approximately $1,500 to $2,000 new. Today, original vintage Artstar II kits from that era are collectible and typically fetch between $2,500 and $5,000 depending on condition. The Ludwig Supraphonic LM402 snare adds another $600 to $800 for a vintage example. It is a historically significant setup that remains achievable to replicate today.
 
+## Related Articles
+
+- [Top 10 Thrash Metal Drummers](https://metalforge.io/lists/thrash-metal-drummers)
+- [Top 10 Fastest Metal Drummers](https://metalforge.io/lists/fastest-metal-drummers)
+- [Reign in Blood Drum Setup: Dave Lombardo's Gear Breakdown](https://metalforge.io/articles/reign-in-blood-drum-setup)
+- [Ride the Lightning Drum Setup: Lars Ulrich's 1984 Tama Kit Breakdown](https://metalforge.io/articles/ride-the-lightning-drum-setup)
+
+## Related Drummers
+
+- [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo)
+- [Charlie Benante](https://metalforge.io/drummer/charlie-benante)
+- [Gene Hoglan](https://metalforge.io/drummer/gene-hoglan)
+
 **Source:** https://metalforge.io/articles/master-of-puppets-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

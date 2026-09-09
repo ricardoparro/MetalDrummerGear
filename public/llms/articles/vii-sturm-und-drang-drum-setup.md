@@ -111,8 +111,21 @@ A: VII: Sturm und Drang was the first Lamb of God album written and recorded aft
 
 A: VII: Sturm und Drang was recorded at NRG Recording Studios in North Hollywood, California, and Suburban Soul Studios in Torrance, California, with producer Josh Wilbur — his second consecutive Lamb of God album after Resolution (2012). It was released July 24, 2015 through Epic Records in North America and Nuclear Blast internationally.
 
+## Related Articles
+
+- [Top 10 Groove Metal Drummers](https://metalforge.io/lists/groove-metal-drummers)
+- [What's In Chris Adler's Lamb of God Arsenal: Complete Gear Breakdown](https://metalforge.io/articles/whats-in-chris-adlers-kit)
+- [Lamb of God 'Wrath' Drum Setup — Chris Adler's Grammy-Nominated 2009 Kit](https://metalforge.io/articles/wrath-drum-setup)
+- [Lamb of God 'Resolution' Drum Setup — Chris Adler's Grammy-Nominated 2012 Kit](https://metalforge.io/articles/resolution-drum-setup)
+
+## Related Drummers
+
+- [Vinnie Paul](https://metalforge.io/drummer/vinnie-paul)
+- [Joey Jordison](https://metalforge.io/drummer/joey-jordison)
+- [Mario Duplantier](https://metalforge.io/drummer/mario-duplantier)
+
 **Source:** https://metalforge.io/articles/vii-sturm-und-drang-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

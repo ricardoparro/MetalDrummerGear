@@ -114,8 +114,22 @@ A: Sean Reinert used a mix of Zildjian A and K series cymbals on Human. His setu
 
 A: Sean Reinert's Tama Artstar II kit retailed for approximately $2,500 to $3,500 when new in 1991. Today, vintage Artstar II shells in good condition sell for $1,500 to $3,000 on the used market depending on configuration and condition. His Zildjian A and K series cymbals are still in production, with a comparable new cymbal setup running $1,200 to $2,000. Collectors seeking the exact vintage pieces can expect a premium for well-preserved examples.
 
+## Related Articles
+
+- [Top 10 Progressive Death Metal Drummers](https://metalforge.io/lists/progressive-death-metal-drummers)
+- [Spiritual Healing Drum Setup: Correcting the Record — It Was Bill Andrews, Not Sean Reinert (1990)](https://metalforge.io/articles/spiritual-healing-drum-setup)
+- [Symbolic Drum Setup: Gene Hoglan's Death Masterpiece](https://metalforge.io/articles/symbolic-drum-setup)
+- [The Sound of Perseverance Drum Setup: Richard Christy's Death Swan Song](https://metalforge.io/articles/sound-of-perseverance-drum-setup)
+- [Cynic Focus Drum Setup: Sean Reinert's 1993 Progressive Death Metal Gear](https://metalforge.io/articles/focus-drum-setup)
+
+## Related Drummers
+
+- [Gene Hoglan](https://metalforge.io/drummer/gene-hoglan)
+- [George Kollias](https://metalforge.io/drummer/george-kollias)
+- [Pete Sandoval](https://metalforge.io/drummer/pete-sandoval)
+
 **Source:** https://metalforge.io/articles/human-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

@@ -107,8 +107,19 @@ A: None. Jon Dette was Testament's touring drummer only, across two stints (1997
 
 A: Yes. In 2010, Jon Dette filled in for Charlie Benante on Anthrax tour dates. This made him one of the very few drummers in thrash metal history to have performed with three of the genre's major acts: Slayer, Testament, and Anthrax (three of the Big Four). His ability to learn complex setlists quickly — established during his Slayer fill-in work in 1996 — made him the reliable choice for these short-notice touring situations. Charlie Benante returned to Anthrax's kit following the touring period.
 
+## Related Articles
+
+- [What's In Dave Lombardo's Kit in 2026: The Godfather of Double Bass](https://metalforge.io/articles/whats-in-dave-lombardos-kit)
+- [What's In Paul Bostaph's Slayer Arsenal](https://metalforge.io/articles/whats-in-paul-bostaphs-kit)
+
+## Related Drummers
+
+- [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo)
+- [Paul Bostaph](https://metalforge.io/drummer/paul-bostaph)
+- [Jon Dette](https://metalforge.io/drummer/jon-dette)
+
 **Source:** https://metalforge.io/articles/jon-dette-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

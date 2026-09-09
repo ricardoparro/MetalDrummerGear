@@ -112,8 +112,21 @@ A: Paul Bostaph plays Sabian AAX cymbals, a bright, controlled series that repla
 
 A: Paul Bostaph's Pearl Masters Maple Complete shell pack is estimated at $3,000 to $4,500 depending on finish and configuration. His Pearl Masters steel snare adds $350 to $550. A full Sabian AAX cymbal setup matching his configuration runs approximately $1,400 to $2,000. A complete replica of his rig would cost between $4,750 and $7,050, reflecting Pearl and Sabian's mid-to-premium positioning in the drum market.
 
+## Related Articles
+
+- [What's In Dave Lombardo's Kit in 2026: The Godfather of Double Bass](https://metalforge.io/articles/whats-in-dave-lombardos-kit)
+- [Reign in Blood Drum Setup: Dave Lombardo's Gear Breakdown](https://metalforge.io/articles/reign-in-blood-drum-setup)
+- [Master of Puppets Drum Setup: Lars Ulrich's Gear Breakdown](https://metalforge.io/articles/master-of-puppets-drum-setup)
+- [Vulgar Display of Power Drum Setup: Vinnie Paul's Gear Breakdown](https://metalforge.io/articles/vulgar-display-of-power-drum-setup)
+
+## Related Drummers
+
+- [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo)
+- [Lars Ulrich](https://metalforge.io/drummer/lars-ulrich)
+- [Gene Hoglan](https://metalforge.io/drummer/gene-hoglan)
+
 **Source:** https://metalforge.io/articles/whats-in-paul-bostaphs-kit
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

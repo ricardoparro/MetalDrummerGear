@@ -114,8 +114,20 @@ A: Daniel Erlandsson plays Sabian AAX and HHX Series cymbals. His setup pairs th
 
 A: Daniel Erlandsson uses the Pearl Eliminator double bass pedal. The Eliminator's defining feature is its interchangeable cam system, which lets him adjust the acceleration curve to match his personal technique. For Arch Enemy's material, which demands sustained double-kick work across long live sets and extensive world touring, the Eliminator's mechanical consistency is essential: each stroke produces the same response on the final song of a tour as on the first. The Pearl Eliminator is Erlandsson's primary foot tool for Arch Enemy, providing the reliability that multi-year international touring schedules require. For double bass pedal technique context: [double-bass drumming at MetalForge](/technique/double-bass-drumming).
 
+## Related Articles
+
+- [Top 10 Death Metal Drummers](https://metalforge.io/lists/death-metal-drummers)
+- [Jaska Raatikainen Drum Setup — Children of Bodom Gear Guide](https://metalforge.io/articles/jaska-raatikainen-drum-setup)
+- [Martin Lopez Drum Setup — Opeth & Soen Gear Guide](https://metalforge.io/articles/martin-lopez-drum-setup)
+- [Gene Hoglan Drum Setup: The Atomic Clock Complete Gear Guide](https://metalforge.io/articles/gene-hoglan-drum-setup)
+
+## Related Drummers
+
+- [Daniel Erlandsson](https://metalforge.io/drummer/daniel-erlandsson)
+- [Jaska Raatikainen](https://metalforge.io/drummer/jaska-raatikainen)
+
 **Source:** https://metalforge.io/articles/daniel-erlandsson-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

@@ -96,8 +96,20 @@ A: For Invincible Shield, Scott Travis uses the same Paiste RUDE and 2002 series
 
 A: Invincible Shield was recorded with the band members in different locations rather than together in one studio — Scott Travis and guitarist Richie Faulkner tracked in Nashville, Tennessee; Rob Halford recorded vocals in Phoenix, Arizona; and bassist Ian Hill contributed his parts while on tour in Europe. Producer Andy Sneap assembled the pieces and re-amped guitars at his own Backstage Studios in England. Because Travis's drum tracks were recorded early in this process, they functioned as the timing and arrangement reference for the performances layered on afterward — his session consistency was essential to making the distributed recording approach sound cohesive on the finished album.
 
+## Related Articles
+
+- [Top 10 Fastest Double Bass Drummers in Metal History](https://metalforge.io/lists/fastest-double-bass-drummers)
+- [Top 10 Thrash Metal Drummers](https://metalforge.io/lists/thrash-metal-drummers)
+- [Scott Travis's Drum Setup on Judas Priest's Firepower (2018)](https://metalforge.io/articles/firepower-drum-setup)
+- [Painkiller Drum Setup: Scott Travis's Speed Metal Revolution](https://metalforge.io/articles/painkiller-drum-setup)
+- [Scott Travis's Drum Setup on Judas Priest's Angel of Retribution (2005)](https://metalforge.io/articles/angel-of-retribution-drum-setup)
+
+## Related Drummers
+
+- [Shannon Larkin](https://metalforge.io/drummer/shannon-larkin)
+
 **Source:** https://metalforge.io/articles/invincible-shield-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

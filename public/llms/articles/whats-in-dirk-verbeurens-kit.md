@@ -110,8 +110,21 @@ A: Dirk Verbeuren uses a mix of Meinl Byzance Brilliant and Classics Custom Dark
 
 A: Dirk Verbeuren's Tama Starclassic Walnut/Birch shell pack is estimated at $4,500 to $6,500 new. His Tama S.L.P. Big Black Steel snare adds approximately $350 to $450. The Meinl Byzance cymbal setup runs roughly $1,500 to $2,500. With Tama hardware, Iron Cobra pedals, and accessories, a fully comparable Verbeuren setup can total between $9,000 and $13,000.
 
+## Related Articles
+
+- [Chris Adler's Drum Setup on Megadeth's 'Dystopia' (2016)](https://metalforge.io/articles/dystopia-drum-setup)
+- [Dirk Verbeuren's Drum Setup on Megadeth's 'The Sick, the Dying... and the Dead!' (2022)](https://metalforge.io/articles/the-sick-the-dying-and-the-dead-drum-setup)
+- [Rust in Peace Drum Setup: Nick Menza's Gear Breakdown](https://metalforge.io/articles/rust-in-peace-drum-setup)
+
+## Related Drummers
+
+- [Lars Ulrich](https://metalforge.io/drummer/lars-ulrich)
+- [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo)
+- [Gene Hoglan](https://metalforge.io/drummer/gene-hoglan)
+- [Brann Dailor](https://metalforge.io/drummer/brann-dailor)
+
 **Source:** https://metalforge.io/articles/whats-in-dirk-verbeurens-kit
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

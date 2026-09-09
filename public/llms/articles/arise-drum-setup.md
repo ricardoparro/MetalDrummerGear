@@ -125,8 +125,22 @@ A: Igor's drumming on Arise is noticeably more advanced and powerful than on Ben
 
 A: At the time of recording in 1990 to 1991, a Tama Artstar II kit was priced at approximately $2,000 to $3,000 depending on configuration. Today, vintage Tama Artstar II kits sell on the used market for $1,500 to $4,000 depending on condition and configuration. Period-correct Zildjian A Series cymbals matching the Arise setup run $600 to $1,200 on the vintage market. A Tama steel snare of the era adds $200 to $400 used. A complete replica of the Arise-era setup can be assembled for approximately $2,500 to $5,500.
 
+## Related Articles
+
+- [What's In Igor Cavalera's Tribal Arsenal: Complete Gear Breakdown](https://metalforge.io/articles/whats-in-igor-cavaleras-kit)
+- [Top 10 Thrash Metal Drummers](https://metalforge.io/lists/thrash-metal-drummers)
+- [Beneath the Remains Drum Setup: Igor Cavalera's Brazilian Thrash Breakthrough](https://metalforge.io/articles/beneath-the-remains-drum-setup)
+- [Chaos A.D. Drum Setup: Igor Cavalera's Groove Metal Revolution](https://metalforge.io/articles/chaos-ad-drum-setup)
+- [Roots Drum Setup: Igor Cavalera's Brazilian Tribal Metal Revolution](https://metalforge.io/articles/roots-drum-setup)
+
+## Related Drummers
+
+- [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo)
+- [Lars Ulrich](https://metalforge.io/drummer/lars-ulrich)
+- [Gene Hoglan](https://metalforge.io/drummer/gene-hoglan)
+
 **Source:** https://metalforge.io/articles/arise-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

@@ -100,8 +100,14 @@ A: Blake Richardson played a DW Collector's Series kit on *The Great Misdirect* 
 
 A: *The Great Misdirect* was released on October 6, 2009, on Metal Blade Records — Between the Buried and Me's first album on that label, following *Colors* (2007) on Victory Records. The album was produced by Jamie King at The Basement Studio in Winston-Salem, North Carolina, maintaining the same production context the band had used across *Alaska* and *Colors*. It sold out venues on the progressive metal circuit and is considered the closing chapter of the band's foundational Colors era before the Parallax concept began in 2011. See the [Colors drum setup](/articles/colors-drum-setup) for the preceding record.
 
+## Related Articles
+
+- [Blake Richardson's Drum Setup on Between the Buried and Me's Colors (2007)](https://metalforge.io/articles/colors-drum-setup)
+- [Blake Richardson's Drum Setup on Between the Buried and Me's Alaska (2005)](https://metalforge.io/articles/alaska-drum-setup)
+- [Blake Richardson Drum Kit & Gear Setup — BTBAM Tech Metal](https://metalforge.io/articles/blake-richardson-drum-setup)
+
 **Source:** https://metalforge.io/articles/great-misdirect-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

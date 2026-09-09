@@ -110,8 +110,22 @@ A: Nick Menza used Zildjian A Custom and A Series cymbals on Rust in Peace. His 
 
 A: At the time of recording in 1990, the Tama Swingstar kit was valued at approximately $800 to $1,200 new — a mid-range, working drummer's kit rather than a prestige endorsement instrument. Today, a vintage Tama Swingstar in good condition typically fetches a modest $600 to $1,000 depending on configuration and condition. The Tama Steel snare he used, originally around $150 to $250, now commands $200 to $350 or so on the vintage market.
 
+## Related Articles
+
+- [What's In Dirk Verbeuren's Megadeth Arsenal: Complete Gear Breakdown](https://metalforge.io/articles/whats-in-dirk-verbeurens-kit)
+- [Top 10 Thrash Metal Drummers](https://metalforge.io/lists/thrash-metal-drummers)
+- [Master of Puppets Drum Setup: Lars Ulrich's Gear Breakdown](https://metalforge.io/articles/master-of-puppets-drum-setup)
+- [Reign in Blood Drum Setup: Dave Lombardo's Gear Breakdown](https://metalforge.io/articles/reign-in-blood-drum-setup)
+- [Painkiller Drum Setup: Scott Travis's Speed Metal Revolution](https://metalforge.io/articles/painkiller-drum-setup)
+
+## Related Drummers
+
+- [Lars Ulrich](https://metalforge.io/drummer/lars-ulrich)
+- [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo)
+- [Inferno](https://metalforge.io/drummer/inferno)
+
 **Source:** https://metalforge.io/articles/rust-in-peace-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

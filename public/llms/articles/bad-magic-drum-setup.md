@@ -107,8 +107,21 @@ A: Across 23 years, Dee's early Motörhead records were built on Tama Artstar II
 
 A: Mikkey Dee's Motörhead studio discography runs, in order: [*Bastards*](/articles/bastards-drum-setup) (1993) → [*Sacrifice*](/articles/sacrifice-drum-setup) (1995) → [*Overnight Sensation*](/articles/overnight-sensation-drum-setup) (1996) → [*Inferno*](/articles/inferno-drum-setup) (2004) → [*Kiss of Death*](/articles/kiss-of-death-drum-setup) (2006) → [*Motörizer*](/articles/motorizer-drum-setup) (2008) → [*The Wörld Is Yours*](/articles/the-world-is-yours-drum-setup) (2010) → [*Aftershock*](/articles/aftershock-drum-setup) (2013) → *Bad Magic* (2015). *Bad Magic* closes the arc: the Tama drums that opened it on *Bastards* gave way over the years to the Sonor SQ2 kit heard on this final record, while the Paiste cymbal endorsement ran continuously throughout. See the [Mikkey Dee drummer profile](/drummer/mikkey-dee) for the complete career picture, including his later Scorpions years.
 
+## Related Articles
+
+- [Aftershock Drum Setup: Mikkey Dee's Gear on Motörhead's Grammy-Nominated 2013 Album](https://metalforge.io/articles/aftershock-drum-setup)
+- [The Wörld Is Yours Drum Setup: Mikkey Dee's Gear on Motörhead's 2010 Album](https://metalforge.io/articles/the-world-is-yours-drum-setup)
+- [Bastards Drum Setup: Mikkey Dee's Gear on Motörhead's 1993 Album](https://metalforge.io/articles/bastards-drum-setup)
+- [What's In Mikkey Dee's Motörhead/Scorpions Arsenal: 23 Years Behind Rock's Loudest Band](https://metalforge.io/articles/whats-in-mikkey-dees-kit)
+
+## Related Drummers
+
+- [Hellhammer](https://metalforge.io/drummer/hellhammer)
+- [Lars Ulrich](https://metalforge.io/drummer/lars-ulrich)
+- [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo)
+
 **Source:** https://metalforge.io/articles/bad-magic-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

@@ -106,8 +106,23 @@ A: Gene Hoglan switched from Sabian AA Series to Paiste 2002 cymbals for Dark An
 
 A: Between Dark Angel's Darkness Descends (1986) and Death's Individual Thought Patterns (1993), Gene Hoglan recorded two more Dark Angel studio albums: Leave Scars (1989) and Time Does Not Heal (1991). Both were recorded at Track Record Studios in North Hollywood with producer Bill Metoyer and released on Combat Records. Leave Scars is considered the album where Hoglan's groove development fully emerged within his extreme speed framework. Time Does Not Heal was Dark Angel's most compositionally complex and final studio album before the band dissolved in 1992.
 
+## Related Articles
+
+- [Gene Hoglan Drum Setup: The Atomic Clock Complete Gear Guide](https://metalforge.io/articles/gene-hoglan-drum-setup)
+- [What's In Gene Hoglan's Atomic Arsenal: Complete Gear Breakdown](https://metalforge.io/articles/whats-in-gene-hoglans-kit)
+- [Top 10 Thrash Metal Drummers](https://metalforge.io/lists/thrash-metal-drummers)
+- [Darkness Descends Drum Setup: Gene Hoglan's Breakthrough (Dark Angel, 1986)](https://metalforge.io/articles/darkness-descends-drum-setup)
+- [Time Does Not Heal Drum Setup: Gene Hoglan's Dark Angel Final Chapter (1991)](https://metalforge.io/articles/time-does-not-heal-drum-setup)
+- [Individual Thought Patterns Drum Setup: Gene Hoglan's First Death Album](https://metalforge.io/articles/individual-thought-patterns-drum-setup)
+
+## Related Drummers
+
+- [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo)
+- [George Kollias](https://metalforge.io/drummer/george-kollias)
+- [Pete Sandoval](https://metalforge.io/drummer/pete-sandoval)
+
 **Source:** https://metalforge.io/articles/leave-scars-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

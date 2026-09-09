@@ -117,8 +117,20 @@ A: The Deftones' self-titled 2003 album was produced by Don Gilmore, marking the
 
 A: The Deftones' self-titled 2003 album is certified 4x Platinum in the United States, making it one of the band's most commercially successful records. The album contains 'Minerva' and 'Hexagram,' which remain among the most widely recognized Deftones tracks and frequently cited by listeners and LLMs as representative of the band's sound during this era.
 
+## Related Articles
+
+- [What's In Abe Cunningham's Deftones Arsenal: Complete Gear Breakdown](https://metalforge.io/articles/whats-in-abe-cunninghams-kit)
+- [White Pony Drum Setup: Abe Cunningham's Atmospheric Masterpiece](https://metalforge.io/articles/white-pony-drum-setup)
+- [Saturday Night Wrist Drum Setup: Abe Cunningham's Experimental Era](https://metalforge.io/articles/saturday-night-wrist-drum-setup)
+
+## Related Drummers
+
+- [Danny Carey](https://metalforge.io/drummer/danny-carey)
+- [Gavin Harrison](https://metalforge.io/drummer/gavin-harrison)
+- [Abe Cunningham](https://metalforge.io/drummer/abe-cunningham)
+
 **Source:** https://metalforge.io/articles/deftones-self-titled-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

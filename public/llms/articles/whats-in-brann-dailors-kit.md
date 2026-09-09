@@ -117,8 +117,21 @@ A: Brann Dailor uses Meinl Byzance series cymbals across his entire setup. Key p
 
 A: A Tama Starclassic Performer B/B kit configured to Dailor's specifications with birch/bubinga shells runs between $6,000 and $9,000. His Tama S.L.P. G-Maple snare drum adds approximately $600 to $900. A matching Meinl Byzance cymbal setup comparable to his will add another $1,500 to $2,500. Total estimated cost to replicate his full Mastodon setup is in the range of $8,100 to $12,400.
 
+## Related Articles
+
+- [Top 10 Progressive Metal Drummers](https://metalforge.io/lists/progressive-metal-drummers)
+- [Crack the Skye Drum Setup: Brann Dailor's Gear on Mastodon's Masterpiece](https://metalforge.io/articles/crack-the-skye-drum-setup)
+- [Blood Mountain Drum Setup: Brann Dailor's Gear on Mastodon's Breakthrough](https://metalforge.io/articles/blood-mountain-drum-setup)
+- [Brann Dailor's Drum Setup on Mastodon's Leviathan (2004)](https://metalforge.io/articles/leviathan-drum-setup)
+
+## Related Drummers
+
+- [Danny Carey](https://metalforge.io/drummer/danny-carey)
+- [Tomas Haake](https://metalforge.io/drummer/tomas-haake)
+- [Mario Duplantier](https://metalforge.io/drummer/mario-duplantier)
+
 **Source:** https://metalforge.io/articles/whats-in-brann-dailors-kit
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

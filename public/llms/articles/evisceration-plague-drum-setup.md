@@ -103,8 +103,20 @@ A: Contemporary reviews widely singled out Mazurkiewicz's playing on Evisceratio
 
 A: The title track "Evisceration Plague" is the fifth Cannibal Corpse song to share its title with its parent album, and it received an official music video — a comparatively rare marketing push for the band at that point in its career. At over eight minutes long, it is one of the longest and most dynamically varied songs the band had released, and is frequently cited as the album's centerpiece.
 
+## Related Articles
+
+- [Top 10 Death Metal Drummers](https://metalforge.io/lists/death-metal-drummers)
+- [Paul Mazurkiewicz's Drum Setup on Cannibal Corpse's Kill (2006)](https://metalforge.io/articles/kill-drum-setup)
+- [Paul Mazurkiewicz's Drum Setup on Cannibal Corpse's Gore Obsessed (2002)](https://metalforge.io/articles/gore-obsessed-drum-setup)
+- [Paul Mazurkiewicz's Drum Setup on Cannibal Corpse's Tomb of the Mutilated (1992)](https://metalforge.io/articles/tomb-of-the-mutilated-drum-setup)
+- [Paul Mazurkiewicz Drum Setup — Cannibal Corpse Gear Guide](https://metalforge.io/articles/paul-mazurkiewicz-drum-setup)
+
+## Related Drummers
+
+- [Paul Mazurkiewicz](https://metalforge.io/drummer/paul-mazurkiewicz)
+
 **Source:** https://metalforge.io/articles/evisceration-plague-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

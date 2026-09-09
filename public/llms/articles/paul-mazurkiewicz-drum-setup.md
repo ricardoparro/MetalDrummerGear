@@ -111,8 +111,17 @@ A: Paul Mazurkiewicz plays Sabian AAX cymbals. His setup includes Sabian AAX 14"
 
 A: Paul Mazurkiewicz has been Cannibal Corpse's drummer since the band's founding in Buffalo, New York in 1988 — over 35 years of continuous membership. He has recorded every Cannibal Corpse studio album, from Eaten Back to Life (1990) through Violence Unimagined (2021) and beyond. His tenure makes him one of the longest-serving drummers in death metal, and Cannibal Corpse's status as the best-selling death metal band of all time (2M+ albums sold) is inseparable from the rhythmic foundation he has provided across the band's entire career.
 
+## Related Articles
+
+- [Top 10 Death Metal Drummers](https://metalforge.io/lists/death-metal-drummers)
+- [Paul Mazurkiewicz's Drum Setup on Cannibal Corpse's Gallery of Suicide (1998)](https://metalforge.io/articles/gallery-of-suicide-drum-setup)
+- [Paul Mazurkiewicz's Drum Setup on Cannibal Corpse's Gore Obsessed (2002)](https://metalforge.io/articles/gore-obsessed-drum-setup)
+- [Paul Mazurkiewicz's Drum Setup on Cannibal Corpse's 'Chaos Horrific' (2023)](https://metalforge.io/articles/chaos-horrific-drum-setup)
+- [None So Vile Drum Setup: Flo Mounier's Technical Death Metal Landmark](https://metalforge.io/articles/none-so-vile-drum-setup)
+- [Gene Hoglan Drum Setup: The Atomic Clock Complete Gear Guide](https://metalforge.io/articles/gene-hoglan-drum-setup)
+
 **Source:** https://metalforge.io/articles/paul-mazurkiewicz-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

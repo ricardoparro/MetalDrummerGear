@@ -118,8 +118,22 @@ A: The two setups share the Tama Starclassic Maple shell platform but differ in 
 
 A: The 42-minute Six Degrees of Inner Turbulence suite presents several distinct challenges. First, stamina: sustaining peak focus and physical consistency across 42 minutes of compositionally dense music is a different demand than any single-track performance. Second, range: the eight movements span multiple emotional contexts, each requiring a different drumming approach within a single continuous performance. Third, character-driven technique: each movement follows a different character dealing with mental illness, and Portnoy's playing adapts to each character's emotional state — requiring him to think as much as a film composer as a drummer. The hi-hat work alone demonstrates five or six distinct approaches across the suite's movements. See the [Train of Thought drum setup article](/articles/train-of-thought-drum-setup) for how the heavy pivot of 2003 contrasted with this approach.
 
+## Related Articles
+
+- [Top 10 Progressive Metal Drummers](https://metalforge.io/lists/progressive-metal-drummers)
+- [What's In Mike Portnoy's Reunion Kit: Dream Theater 2025 Complete Breakdown](https://metalforge.io/articles/whats-in-mike-portnoys-kit)
+- [Metropolis Pt. 2: Scenes from a Memory Drum Setup — Mike Portnoy's Magnum Opus](https://metalforge.io/articles/scenes-from-a-memory-drum-setup)
+- [Train of Thought Drum Setup — Mike Portnoy's Heaviest Dream Theater Kit (2003)](https://metalforge.io/articles/train-of-thought-drum-setup)
+- [Images and Words Drum Setup: Mike Portnoy's Progressive Metal Breakthrough](https://metalforge.io/articles/images-and-words-drum-setup)
+
+## Related Drummers
+
+- [Danny Carey](https://metalforge.io/drummer/danny-carey)
+- [Tomas Haake](https://metalforge.io/drummer/tomas-haake)
+- [Lars Ulrich](https://metalforge.io/drummer/lars-ulrich)
+
 **Source:** https://metalforge.io/articles/six-degrees-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

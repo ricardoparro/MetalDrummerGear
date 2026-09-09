@@ -87,8 +87,17 @@ A: Metric modulation is a technique where the felt tempo changes as the time sig
 
 A: Empath's drum and bass tracks were recorded at Monnow Valley Studios in Wales, starting in September 2018. Guitars and vocals were tracked at several studios in Vancouver, British Columbia, with additional elements captured at The Grid in Montreal, Quebec. Devin Townsend produced the album himself and released it independently on his own label, HevyDevy Records, on March 29, 2019.
 
+## Related Articles
+
+- [Tim Yeung Drum Kit & Gear Setup — Morbid Angel Death Metal](https://metalforge.io/articles/tim-yeung-drum-setup)
+
+## Related Drummers
+
+- [Danny Carey](https://metalforge.io/drummer/danny-carey)
+- [Mike Portnoy](https://metalforge.io/drummer/mike-portnoy)
+
 **Source:** https://metalforge.io/articles/empath-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

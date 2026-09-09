@@ -104,8 +104,22 @@ A: The drum sound on Somewhere in Time (1986) is notably drier, tighter, and mor
 
 A: On Somewhere in Time, Nicko McBrain used the Paiste 2002 series — the same professional cymbal choice he used on Piece of Mind, Powerslave, and would continue through Seventh Son of a Seventh Son. His setup included 14" Medium Hi-Hats, 16" and 18" Medium Crashes, a 20" Medium Ride, and an 18" China Type. The Paiste 2002's bright, articulate character remained well suited to Iron Maiden's production even as the arrangements grew more complex. On "Wasted Years," the 20" ride bell's clear, singing tone cuts above the guitar synthesizer layers with notable definition. See the [Seventh Son of a Seventh Son drum setup article](/articles/seventh-son-drum-setup) for how this cymbal setup evolved into the next album cycle.
 
+## Related Articles
+
+- [Top 10 Thrash Metal Drummers](https://metalforge.io/lists/thrash-metal-drummers)
+- [Top 10 Most Innovative Metal Drummers](https://metalforge.io/lists/most-innovative-drummers)
+- [Powerslave Drum Setup: Nicko McBrain's Gear on Iron Maiden's 1984 Live-Era Masterpiece](https://metalforge.io/articles/powerslave-drum-setup)
+- [Number of the Beast Drum Setup: The Gear Behind Clive Burr's Performance (& Nicko's Legacy)](https://metalforge.io/articles/number-of-the-beast-drum-setup)
+- [Piece of Mind Drum Setup: Nicko McBrain's Debut Gear on Iron Maiden's 1983 Breakthrough](https://metalforge.io/articles/piece-of-mind-drum-setup)
+
+## Related Drummers
+
+- [Lars Ulrich](https://metalforge.io/drummer/lars-ulrich)
+- [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo)
+- [Charlie Benante](https://metalforge.io/drummer/charlie-benante)
+
 **Source:** https://metalforge.io/articles/somewhere-in-time-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

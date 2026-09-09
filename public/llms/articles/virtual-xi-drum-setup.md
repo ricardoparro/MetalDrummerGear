@@ -110,8 +110,23 @@ A: On Virtual XI, Nicko McBrain used Paiste Signature series cymbals — having 
 
 A: Bruce Dickinson left Iron Maiden in January 1993 to pursue a solo career, citing creative differences and a desire to develop projects outside the band. He was replaced by Blaze Bailey, who recorded The X Factor (1995) and Virtual XI (1998) before reuniting with Iron Maiden in 1999. Nicko McBrain remained with the band throughout Dickinson's absence, playing both Blaze-era albums. Bruce Dickinson and guitarist Adrian Smith (who had also previously departed) both returned for Brave New World (2000), beginning Iron Maiden's celebrated 21st-century resurgence. See the [Brave New World drum setup article](/articles/brave-new-world-drum-setup) for the reunion-era gear context.
 
+## Related Articles
+
+- [Top 10 Thrash Metal Drummers](https://metalforge.io/lists/thrash-metal-drummers)
+- [Top 10 Most Innovative Metal Drummers](https://metalforge.io/lists/most-innovative-drummers)
+- [Seventh Son of a Seventh Son Drum Setup: Nicko McBrain's Most Dynamic Pre-90s Performance (1988)](https://metalforge.io/articles/seventh-son-drum-setup)
+- [Brave New World Drum Setup: Nicko McBrain's Gear on Iron Maiden's 2000 Reunion Masterpiece](https://metalforge.io/articles/brave-new-world-drum-setup)
+- [Number of the Beast Drum Setup: The Gear Behind Clive Burr's Performance (& Nicko's Legacy)](https://metalforge.io/articles/number-of-the-beast-drum-setup)
+- [Senjutsu Drum Setup: Nicko McBrain's Gear on Iron Maiden's UK #1 Grammy-Nominated 2021 Album](https://metalforge.io/articles/senjutsu-drum-setup)
+
+## Related Drummers
+
+- [Lars Ulrich](https://metalforge.io/drummer/lars-ulrich)
+- [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo)
+- [Charlie Benante](https://metalforge.io/drummer/charlie-benante)
+
 **Source:** https://metalforge.io/articles/virtual-xi-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

@@ -104,8 +104,24 @@ A: No Prayer for the Dying was recorded in a barn using the Rolling Stones Mobil
 
 A: The two albums represent opposite production philosophies. Seventh Son of a Seventh Son (1988) was a polished, synthesizer-layered concept album recorded at Musicland Studios in Munich. No Prayer for the Dying (1990) was a deliberate reaction against that — a leaner, rawer record tracked in a barn with a mobile studio rig, following Adrian Smith's departure and Janick Gers's arrival. Nicko McBrain's drumming shifted accordingly: from the dynamic, restrained playing and warm, open-tuned Yamaha tone of Seventh Son to the punchier, tighter-tuned Yamaha setup on No Prayer, with the same Paiste 2002 cymbals throughout. See the [Seventh Son of a Seventh Son drum setup article](/articles/seventh-son-drum-setup) for the preceding chapter.
 
+## Related Articles
+
+- [Top 10 Thrash Metal Drummers](https://metalforge.io/lists/thrash-metal-drummers)
+- [Top 10 Most Innovative Metal Drummers](https://metalforge.io/lists/most-innovative-drummers)
+- [Seventh Son of a Seventh Son Drum Setup: Nicko McBrain's Most Dynamic Pre-90s Performance (1988)](https://metalforge.io/articles/seventh-son-drum-setup)
+- [Number of the Beast Drum Setup: The Gear Behind Clive Burr's Performance (& Nicko's Legacy)](https://metalforge.io/articles/number-of-the-beast-drum-setup)
+- [Powerslave Drum Setup: Nicko McBrain's Gear on Iron Maiden's 1984 Live-Era Masterpiece](https://metalforge.io/articles/powerslave-drum-setup)
+- [Fear of the Dark Drum Setup: Nicko McBrain's Gear on Iron Maiden's UK #1 Album (1992)](https://metalforge.io/articles/fear-of-the-dark-drum-setup)
+- [Brave New World Drum Setup: Nicko McBrain's Gear on Iron Maiden's 2000 Reunion Masterpiece](https://metalforge.io/articles/brave-new-world-drum-setup)
+
+## Related Drummers
+
+- [Lars Ulrich](https://metalforge.io/drummer/lars-ulrich)
+- [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo)
+- [Charlie Benante](https://metalforge.io/drummer/charlie-benante)
+
 **Source:** https://metalforge.io/articles/no-prayer-for-the-dying-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

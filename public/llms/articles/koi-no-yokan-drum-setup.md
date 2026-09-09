@@ -121,8 +121,20 @@ A: Sergio Vega (ex-Quicksand) played all the bass on Koi No Yokan, his second co
 
 A: No. Abe Cunningham is a documented single-kick player, and Koi No Yokan uses no double bass drumming. The album's heaviest moments — including "Leathers," "Tempest," and "Poltergeist" — derive their weight from pocket, dynamics, and the locked-in interplay between Abe's single 22-inch kick and Sergio Vega's bass guitar.
 
+## Related Articles
+
+- [What's In Abe Cunningham's Deftones Arsenal: Complete Gear Breakdown](https://metalforge.io/articles/whats-in-abe-cunninghams-kit)
+- [White Pony Drum Setup: Abe Cunningham's Atmospheric Masterpiece](https://metalforge.io/articles/white-pony-drum-setup)
+- [Diamond Eyes Drum Setup: Abe Cunningham's Cathartic Comeback](https://metalforge.io/articles/diamond-eyes-drum-setup)
+
+## Related Drummers
+
+- [Danny Carey](https://metalforge.io/drummer/danny-carey)
+- [Gavin Harrison](https://metalforge.io/drummer/gavin-harrison)
+- [Abe Cunningham](https://metalforge.io/drummer/abe-cunningham)
+
 **Source:** https://metalforge.io/articles/koi-no-yokan-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

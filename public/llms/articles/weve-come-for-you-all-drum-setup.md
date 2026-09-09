@@ -102,8 +102,24 @@ A: "What Doesn't Die" is We've Come for You All's signature track, using zombie-
 
 A: Yes. We've Come for You All (2003) was the final Anthrax studio album to feature John Bush on lead vocals before the band's eventual reunion with original singer Joey Belladonna, whose return is documented on the Worship Music drum setup. For Charlie Benante, it also closes the five-year gap between Volume 8 (1998) and Worship Music (2011) and marks the upgrade to the Tama Starclassic Maple kit that defined his sound for the following two decades. For the prior chapter, see the [Volume 8 drum setup article](/articles/volume-8-drum-setup); for the band's eventual return with Joey Belladonna, see [Worship Music drum setup](/articles/worship-music-drum-setup).
 
+## Related Articles
+
+- [What's In Charlie Benante's Anthrax Kit: The Big Four's Technical Pioneer](https://metalforge.io/articles/whats-in-charlie-benantes-kit)
+- [Top 10 Thrash Metal Drummers](https://metalforge.io/lists/thrash-metal-drummers)
+- [Charlie Benante's Drum Setup on Anthrax's Volume 8: The Threat Is Real (1998)](https://metalforge.io/articles/volume-8-drum-setup)
+- [Charlie Benante's Drum Setup on Anthrax's Sound of White Noise (1993)](https://metalforge.io/articles/sound-of-white-noise-drum-setup)
+- [Charlie Benante's Drum Setup on Anthrax's Stomp 442 (1995)](https://metalforge.io/articles/stomp-442-drum-setup)
+- [Among the Living Drum Setup: Charlie Benante's Anthrax Gear Breakdown](https://metalforge.io/articles/charlie-benante-among-the-living-drum-setup)
+- [Charlie Benante's Drum Setup on Anthrax's Worship Music (2011)](https://metalforge.io/articles/worship-music-drum-setup)
+
+## Related Drummers
+
+- [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo)
+- [Lars Ulrich](https://metalforge.io/drummer/lars-ulrich)
+- [Gene Hoglan](https://metalforge.io/drummer/gene-hoglan)
+
 **Source:** https://metalforge.io/articles/weve-come-for-you-all-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

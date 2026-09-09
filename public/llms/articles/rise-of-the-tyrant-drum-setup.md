@@ -113,8 +113,20 @@ A: Rise of the Tyrant (2007) sits between Doomsday Machine (2005) and Khaos Legi
 
 A: Rise of the Tyrant (2007) was produced by Andy Sneap at his Backstage Studio in Derbyshire, England — continuing the production partnership between Sneap and Arch Enemy that had begun with Wages of Sin (2002) and continued through Doomsday Machine (2005). Sneap's approach on Rise of the Tyrant is his most refined Arch Enemy production: close-mic discipline capturing the Pearl Masters Premium all-maple shells with maximum component definition, sample augmentation of kick and snare for the commercial weight that mainstream metal audiences required, and mixing choices that give each drum element clear sonic territory within the album's dense guitar arrangement. The result is the tightest, most polished drum sound Arch Enemy had produced to that point — a production that contributed directly to the album's commercial success and the band's growing mainstream profile.
 
+## Related Articles
+
+- [Top 10 Melodic Death Metal Drummers](https://metalforge.io/lists/melodic-death-metal-drummers)
+- [Arch Enemy Doomsday Machine Drum Setup: Daniel Erlandsson's 2005 Melodic Death Gear](https://metalforge.io/articles/doomsday-machine-drum-setup)
+- [Daniel Erlandsson's Drum Setup on Arch Enemy's Anthems of Rebellion (2003)](https://metalforge.io/articles/anthems-of-rebellion-drum-setup)
+- [Daniel Erlandsson's Drum Setup on Arch Enemy's Khaos Legions (2011)](https://metalforge.io/articles/khaos-legions-drum-setup)
+- [Daniel Erlandsson's Drum Setup — At The Gates & Arch Enemy Kit Guide](https://metalforge.io/articles/daniel-erlandsson-drum-setup)
+
+## Related Drummers
+
+- [Daniel Erlandsson](https://metalforge.io/drummer/daniel-erlandsson)
+
 **Source:** https://metalforge.io/articles/rise-of-the-tyrant-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

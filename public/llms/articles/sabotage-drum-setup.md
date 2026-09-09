@@ -88,8 +88,19 @@ A: Bill Ward played the same Ludwig Standard Maple kit and Zildjian cymbal setup
 
 A: Bill Ward's Ludwig kit on *Sabotage* — a 22" bass drum, three toms, and a floor tom in natural maple — would have cost roughly $1,100 to $1,900 new in 1975, with the expanded Zildjian cymbal setup adding another $500 to $850. Comparable vintage Ludwig kits from this era sell for $6,500 to $16,000 today in good original condition. See the [Bill Ward licks and technique breakdowns](/drummer/bill-ward/licks) for more on his playing during this period.
 
+## Related Articles
+
+- [Bill Ward's Drum Setup on Black Sabbath's Vol. 4 (1972)](https://metalforge.io/articles/vol-4-drum-setup)
+- [Bill Ward's Drum Setup on Black Sabbath's Sabbath Bloody Sabbath (1973)](https://metalforge.io/articles/sabbath-bloody-sabbath-drum-setup)
+
+## Related Drummers
+
+- [Lars Ulrich](https://metalforge.io/drummer/lars-ulrich)
+- [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo)
+- [Charlie Benante](https://metalforge.io/drummer/charlie-benante)
+
 **Source:** https://metalforge.io/articles/sabotage-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

@@ -90,8 +90,20 @@ A: I Am the Night represents Vinnie Paul's gear and playing five years before Pa
 
 A: By independent-label standards, yes. I Am the Night reportedly sold more than 25,000 copies without major-label distribution or promotion, a strong result for a regional Texas metal band self-releasing through Metal Magic Records in the mid-1980s. It wouldn't be until Cowboys from Hell in 1990 that Pantera reached a national audience.
 
+## Related Articles
+
+- [What's In Vinnie Paul's Pantera Arsenal (Tribute)](https://metalforge.io/articles/whats-in-vinnie-pauls-kit)
+- [Cowboys from Hell Drum Setup: Vinnie Paul's Breakthrough Gear](https://metalforge.io/articles/cowboys-from-hell-drum-setup)
+- [Power Metal Drum Setup: Vinnie Paul's Last Gear Before Cowboys from Hell (1988)](https://metalforge.io/articles/power-metal-drum-setup)
+
+## Related Drummers
+
+- [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo)
+- [Lars Ulrich](https://metalforge.io/drummer/lars-ulrich)
+- [Art Cruz](https://metalforge.io/drummer/art-cruz)
+
 **Source:** https://metalforge.io/articles/i-am-the-night-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

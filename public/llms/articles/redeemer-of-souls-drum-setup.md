@@ -96,8 +96,21 @@ A: Richie Faulkner replaced founding guitarist K.K. Downing on Redeemer of Souls
 
 A: Redeemer of Souls (2014) and Firepower (2018) are both Andy Sneap-produced Judas Priest albums, but Travis's gear changed between them: Redeemer of Souls was recorded on the Pearl Reference Series kit, the Pearl Reference Brass 14"x6.5" snare, the Pearl Demon Drive double pedal, and the Sabian HH/AA-to-HHX cymbal setup that had carried his sound since Angel of Retribution (2005), while Firepower marked a switch to an entirely different kit and cymbal brand. Redeemer of Souls is in many ways the proof-of-concept for Andy Sneap's production approach, with Sneap refining his engineering on the last album of Travis's Pearl era before the gear changed again.
 
+## Related Articles
+
+- [Top 10 Fastest Double Bass Drummers in Metal History](https://metalforge.io/lists/fastest-double-bass-drummers)
+- [Top 10 Thrash Metal Drummers](https://metalforge.io/lists/thrash-metal-drummers)
+- [Scott Travis's Drum Setup on Judas Priest's Angel of Retribution (2005)](https://metalforge.io/articles/angel-of-retribution-drum-setup)
+- [Scott Travis's Drum Setup on Judas Priest's Nostradamus (2008)](https://metalforge.io/articles/nostradamus-drum-setup)
+- [Scott Travis's Drum Setup on Judas Priest's Firepower (2018)](https://metalforge.io/articles/firepower-drum-setup)
+- [Painkiller Drum Setup: Scott Travis's Speed Metal Revolution](https://metalforge.io/articles/painkiller-drum-setup)
+
+## Related Drummers
+
+- [Shannon Larkin](https://metalforge.io/drummer/shannon-larkin)
+
 **Source:** https://metalforge.io/articles/redeemer-of-souls-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

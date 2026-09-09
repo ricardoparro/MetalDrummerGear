@@ -8490,7 +8490,7 @@ export const GEAR_PRICE_HISTORY = {
 
   // ==========================================
   // JOCKE WALLGREN - 2016 Jomsviking Era
-  // Tama Starclassic Performer B/B / Meinl Byzance Setup
+  // Pearl Reference Pure / Zildjian A Custom & K Custom Setup
   // ==========================================
   'jocke-wallgren': {
     slug: 'jocke-wallgren',
@@ -8501,67 +8501,67 @@ export const GEAR_PRICE_HISTORY = {
     albumReference: 'Jomsviking (2016)',
     profileImage: '/images/drummers/jocke-wallgren.webp',
 
-    summary: "Jocke Wallgren's 2016 setup behind Amon Amarth's Jomsviking — his first album after joining the Swedish melodic death metal institution, replacing longtime drummer Fredrik Andersson — captures the gear behind one of Viking metal's most consistently powerful touring drummers. Coming from a background with European power and progressive metal bands Rage and Evergrey, Wallgren built his Amon Amarth rig around a Tama Starclassic Performer B/B kit in a birch/bubinga hybrid configuration, a Tama Bell Brass 14\"x6.5\" snare, and a Meinl Byzance Traditional cymbal setup, driven by the DW 9002 double bass pedal. The complete rig cost approximately $6,149 in 2016 dollars, equivalent to roughly $8,393 today after inflation.\n\nEach choice served the specific demands of stepping into Amon Amarth's drum chair. The Starclassic Performer's birch shells gave his galloping double-bass figures the sharp attack transient needed to articulate clearly against two guitarists and Johan Hegg's powerful baritone, while the bubinga inner ply added the warmth that kept the kit from sounding sterile at arena amplification. The Meinl Byzance line's dark, hand-hammered B20 bronze tonality reinforced Amon Amarth's melodic, epic identity rather than pushing toward harsh aggression, and the DW 9002's smooth cam action gave his relaxed, groove-focused foot technique the consistency to sustain the band's signature gallop across full headline sets.\n\nThat Tama / Meinl / DW core proved foundational: it carried Wallgren through Berserker (2019) — where he shifted to the drier-voiced Byzance Vintage line for the title track's extended blast-beat sections — and reached its fully evolved touring form on The Great Heathen Army (2022), a Grammis-nominated record that Kerrang! described as a step back toward the band's melodic death metal origins. His current setup, built around the same Starclassic Performer B/B / Meinl Byzance foundation established on Jomsviking, is valued at approximately $9,395 at current retail — the rig behind four studio albums of Amon Amarth's rhythmic backbone.",
+    summary: "Jocke Wallgren's 2016 setup behind Amon Amarth's Jomsviking — his first album after joining the Swedish melodic death metal institution, replacing longtime drummer Fredrik Andersson — captures the gear behind one of Viking metal's most consistently powerful touring drummers. Coming from a background with European power and progressive metal bands Rage and Evergrey, Wallgren had already built the core of his rig years earlier: he signed with Zildjian cymbals and adopted a Pearl double bass pedal setup in 2005, then completed the picture by joining Pearl's drum roster in 2013 on entering Amon Amarth's chair, settling on the Reference Pure single-species maple kit and the Demon Drive double pedal that became his standard. By the time Jomsviking recorded in 2016, that Pearl Reference Pure / Zildjian A Custom & K Custom setup was already three years established. The complete rig cost approximately $5,949 in 2016 dollars, equivalent to roughly $8,120 today after inflation.\n\nEach choice served the specific demands of stepping into Amon Amarth's drum chair. The Reference Pure's multi-core maple/birch shells gave his galloping double-bass figures the sharp attack transient needed to articulate clearly against two guitarists and Johan Hegg's powerful baritone, while the shell's resonance kept the kit from sounding sterile at arena amplification. Zildjian's A Custom and K Custom blend paired the A Custom's bright, cutting projection with the K Custom line's darker, more complex wash, reinforcing Amon Amarth's melodic, epic identity rather than pushing toward harsh aggression — the same cymbal voice Wallgren had built over a decade earlier with Rage and Evergrey. The Demon Drive's smooth chain-drive action gave his relaxed, groove-focused foot technique the consistency to sustain the band's signature gallop across full headline sets.\n\nThat Pearl / Zildjian core proved foundational well beyond Jomsviking: it carried Wallgren through Berserker (2019), where the Demon Drive pedal continued to anchor both the album's extended blast-beat passages and the band's signature gallop, and reached its fully evolved touring form on The Great Heathen Army (2022), a Grammis-nominated record that Kerrang! described as a step back toward the band's melodic death metal origins. His current setup, built around the same Pearl Reference Pure / Zildjian A Custom & K Custom foundation established years before Jomsviking, is valued at approximately $9,095 at current retail — the rig behind four studio albums of Amon Amarth's rhythmic backbone.",
 
     setup: {
       drums: {
-        item: 'Tama Starclassic Performer B/B',
-        model: 'Birch/bubinga hybrid shell pack',
+        item: 'Pearl Reference Pure',
+        model: 'Maple/birch multi-core shell pack',
         specs: '22"x18" bass drums (x2), 10"/12" rack toms, 16"/18" floor toms',
         originalPrice: 3200,
         year: 2016,
-        source: 'Tama Starclassic Performer B/B catalog pricing 2016',
-        notes: "Birch/bubinga hybrid chosen for sharp attack clarity over Amon Amarth's dense two-guitar arrangements while retaining warmth under heavy amplification.",
+        source: 'Pearl Reference Pure catalog pricing 2016',
+        notes: "Multi-core maple/birch construction chosen for the attack clarity Wallgren's galloping double-bass figures needed against two guitarists and Johan Hegg's baritone — the same Reference Pure platform he'd played since joining Pearl in 2013.",
         vintageValue2026: 2800,
         modernEquivalent: {
-          item: 'Tama Starclassic Performer B/B (Current Line)',
-          price: 5200,
-          link: 'tama-starclassic-performer-bb-jocke-wallgren',
+          item: 'Pearl Reference Pure (Current Line)',
+          price: 5300,
+          link: 'pearl-reference-pure-jocke-wallgren',
         },
       },
       snare: {
-        item: 'Tama Bell Brass',
-        model: '14"x6.5" bell brass shell',
-        specs: '14" x 6.5" bell brass shell',
-        originalPrice: 500,
+        item: 'Pearl Reference Pure 14"x6.5"',
+        model: 'Maple/birch multi-core shell',
+        specs: '14" x 6.5" maple/birch multi-core shell',
+        originalPrice: 400,
         year: 2016,
-        source: 'Tama Bell Brass Series catalog pricing 2016',
-        notes: "Bell brass shell selected for bright, cutting projection over the mid-low frequency mass Amon Amarth's two guitarists and Johan Hegg's baritone create.",
-        vintageValue2026: 400,
+        source: 'Pearl Reference Pure snare catalog pricing 2016',
+        notes: "Matched the main kit's shell material for tonal consistency, carried over from the Reference Pure platform Wallgren adopted joining Pearl in 2013.",
+        vintageValue2026: 350,
         modernEquivalent: {
-          item: 'Tama Bell Brass 14"x6.5" (Current)',
-          price: 700,
-          link: 'tama-bell-brass-snare-jocke-wallgren',
+          item: 'Pearl Reference Pure 14"x6.5" (Current)',
+          price: 550,
+          link: 'pearl-reference-pure-snare-jocke-wallgren',
         },
       },
       cymbals: {
-        item: 'Meinl Byzance Traditional Series',
-        model: 'Traditional hi-hats, crashes, ride, China',
-        specs: '14" Traditional hi-hats, 16"/18" Medium/Medium Thin crashes, 20" Traditional ride, 18" China',
-        originalPrice: 1900,
+        item: 'Zildjian A Custom & K Custom Series',
+        model: 'Mixed A Custom / K Custom configuration',
+        specs: '14" A Custom hi-hats, 16"/18" A Custom crashes, 20" K Custom Dark ride, 18" A Custom China',
+        originalPrice: 1850,
         year: 2016,
-        source: 'Meinl Byzance Traditional catalog pricing 2016',
-        notes: "Dark, hand-hammered B20 bronze tonality chosen to reinforce Amon Amarth's epic melodic identity rather than push toward harsh aggression.",
-        vintageValue2026: 1700,
+        source: 'Zildjian A Custom & K Custom catalog pricing 2016',
+        notes: "Bright A Custom projection blended with K Custom's darker, more complex wash to reinforce Amon Amarth's epic melodic identity rather than push toward harsh aggression — the same cymbal voice Wallgren built signing with Zildjian in 2005.",
+        vintageValue2026: 1600,
         modernEquivalent: {
-          item: 'Meinl Byzance Traditional Series (Current Configuration)',
-          price: 2700,
-          link: 'meinl-byzance-traditional-jocke-wallgren',
+          item: 'Zildjian A Custom & K Custom Series (Current Configuration)',
+          price: 2500,
+          link: 'zildjian-a-custom-k-custom-jocke-wallgren',
         },
       },
       hardware: {
-        item: 'DW 9002 Double Bass Pedal',
-        model: 'Dual-chain drive double pedal',
-        specs: 'DW 9002 double pedal, hi-hat stand, boom stands, snare stand',
-        originalPrice: 450,
+        item: 'Pearl Demon Drive Double Pedal',
+        model: 'Continuous chain-drive double bass pedal',
+        specs: 'Pearl Demon Drive double pedal, hi-hat stand, boom stands, snare stand',
+        originalPrice: 400,
         year: 2016,
-        source: 'DW hardware catalog pricing 2016',
-        notes: "Smooth cam action rewarding relaxed foot technique — chosen for the sustained, groove-focused double-kick gallop central to Amon Amarth's rhythmic identity.",
+        source: 'Pearl hardware catalog pricing 2016',
+        notes: "Chain-drive action rewarding relaxed foot technique — the same Demon Drive platform Wallgren adopted alongside his Zildjian cymbals in 2005, and carried into the Pearl endorsement he signed joining Amon Amarth in 2013.",
         vintageValue2026: 350,
         modernEquivalent: {
-          item: 'DW 9002 Double Bass Pedal (Current)',
-          price: 650,
-          link: 'dw-9002-double-pedal-jocke-wallgren',
+          item: 'Pearl Demon Drive Double Pedal (Current)',
+          price: 600,
+          link: 'pearl-demon-drive-jocke-wallgren',
         },
       },
       sticks: {
@@ -8597,31 +8597,31 @@ export const GEAR_PRICE_HISTORY = {
     },
 
     totals: {
-      originalTotal: 6149,
+      originalTotal: 5949,
       inflationAdjusted2026: null, // Calculated dynamically
-      vintageTotal2026: 5250,
-      modernEquivalentTotal: 9395,
+      vintageTotal2026: 5100,
+      modernEquivalentTotal: 9095,
     },
 
     priceEvolution: [
-      { year: 2009, price: 2000, label: 'Evergrey / Rage Era', event: 'Building European touring experience in power and progressive metal on a developing Tama / Meinl setup' },
-      { year: 2016, price: 6149, label: 'Original Purchase', event: 'Jomsviking recorded — joined Amon Amarth, definitive Tama Starclassic Performer B/B / Meinl Byzance setup established' },
-      { year: 2019, price: 7000, label: 'Berserker Era', event: "Same core setup carried into Berserker, shifted to Meinl Byzance Vintage cymbal voicing for the title track's blast-beat sections" },
+      { year: 2009, price: 2000, label: 'Evergrey / Rage Era', event: 'Building European touring experience in power and progressive metal on an early Zildjian cymbals / Pearl double pedal setup (signed 2005)' },
+      { year: 2016, price: 5949, label: 'Original Purchase', event: 'Jomsviking recorded — joined Amon Amarth on the Pearl Reference Pure / Zildjian A Custom & K Custom setup established since 2013/2005' },
+      { year: 2019, price: 7000, label: 'Berserker Era', event: "Same Pearl / Zildjian core carried into Berserker, Demon Drive pedal anchoring the title track's extended blast-beat sections" },
       { year: 2022, price: 7600, label: 'The Great Heathen Army Era', event: "Fully evolved touring configuration for Amon Amarth's Grammis-nominated studio album" },
-      { year: 2026, price: 8393, label: 'Current adjusted', event: 'Inflation-adjusted value of the 2016 Jomsviking-era Tama Starclassic Performer B/B setup' },
+      { year: 2026, price: 8120, label: 'Current adjusted', event: 'Inflation-adjusted value of the 2016 Jomsviking-era Pearl Reference Pure / Zildjian A Custom & K Custom setup' },
     ],
 
     sources: [
-      { title: 'Tama Starclassic Performer B/B Catalog', year: 2016, type: 'catalog' },
-      { title: 'Meinl Byzance Traditional Series Catalog', year: 2016, type: 'catalog' },
+      { title: 'Pearl Reference Pure Catalog', year: 2016, type: 'catalog' },
+      { title: 'Zildjian A Custom & K Custom Series Catalog', year: 2016, type: 'catalog' },
       { title: 'Blabbermouth — Jocke Wallgren Interview', year: 2017, type: 'interview' },
-      { title: 'Reverb Marketplace Analysis — Tama Starclassic Performer', year: 2025, type: 'market' },
+      { title: 'Reverb Marketplace Analysis — Pearl Reference Pure', year: 2025, type: 'market' },
     ],
 
     meta: {
       title: "Jocke Wallgren Drum Setup Cost | Amon Amarth Gear Price History",
-      description: "How much was Jocke Wallgren's Jomsviking-era Tama Starclassic Performer B/B drum kit worth? Original ~$6,149 in 2016, inflation-adjusted to ~$8,393 today. Complete gear breakdown from Amon Amarth's touring drummer.",
-      keywords: ['jocke wallgren drum setup cost', 'amon amarth drum kit price', 'tama starclassic performer bb price', 'jocke wallgren gear cost today', 'jomsviking drum kit price', 'jocke wallgren drummer gear cost'],
+      description: "How much was Jocke Wallgren's Jomsviking-era Pearl Reference Pure drum kit worth? Original ~$5,949 in 2016, inflation-adjusted to ~$8,120 today. Complete gear breakdown from Amon Amarth's touring drummer.",
+      keywords: ['jocke wallgren drum setup cost', 'amon amarth drum kit price', 'pearl reference pure price', 'jocke wallgren gear cost today', 'jomsviking drum kit price', 'jocke wallgren drummer gear cost'],
     },
   },
 

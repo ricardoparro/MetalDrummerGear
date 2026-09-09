@@ -14471,23 +14471,23 @@ export const DRUMMER_EVOLUTION = {
         years: '2013–2017',
         startYear: 2013,
         endYear: 2017,
-        description: 'Weinberg\'s identity as Slipknot\'s new drummer was kept secret for months while he learned two decades of Joey Jordison\'s catalog and recorded .5: The Gray Chapter (2014) at Shangri-La Studios in Malibu with producer Greg Fidelman. His debut kit was a natural-finish Pearl Reference Pure — a maple/birch hybrid shell pack chosen for the focused attack and tonal clarity the dense Fidelman production demanded — paired with Zildjian A series cymbals and a DW 9000 double pedal continuing the double-bass tradition Jordison established. The album debuted at #5 on the Billboard 200, Slipknot\'s highest US chart position at the time, and Vic Firth built Weinberg his first signature stick model during this stretch.',
+        description: 'Weinberg\'s identity as Slipknot\'s new drummer was kept secret for months while he learned two decades of Joey Jordison\'s catalog and recorded .5: The Gray Chapter (2014) at Shangri-La Studios in Malibu with producer Greg Fidelman. He had already been an SJC Custom Drums artist since 2009, five years before joining Slipknot, and his Gray Chapter touring/recording kit was built by SJC as two rigs — an all-mirrored maple "A-rig" and a stained bubinga "B-rig" — paired with Zildjian A series cymbals and a DW 9000 double pedal continuing the double-bass tradition Jordison established. The album debuted at #5 on the Billboard 200, Slipknot\'s highest US chart position at the time, with Weinberg endorsing Vater sticks throughout.',
         albums: ['.5: The Gray Chapter (2014)'],
         tours: ['Prepare for Hell Tour 2014–2015', 'Summer\'s Last Stand Tour 2016'],
         image: null,
 
         gear: {
           drums: {
-            item: 'Pearl Reference Pure',
-            details: 'Natural finish, maple/birch hybrid shells; double 22" bass drums, 8"/10"/12"/14" rack toms, 16" floor tom',
-            notes: 'Pearl\'s flagship multi-species shell kit gave Weinberg the focused attack and tonal clarity needed to sit cleanly in Fidelman\'s dense, compressed production.',
-            change: CHANGE_TYPES.SWITCH,
+            item: 'SJC Custom Drums',
+            details: 'Two rigs: an all-mirrored maple "A-rig" and a stained bubinga "B-rig"; double 22" bass drums, 8"/10"/12"/14" rack toms, 16" floor tom',
+            notes: 'Weinberg had been an SJC artist since 2009, pre-dating Slipknot by five years; SJC built the Gray Chapter touring/recording kit.',
+            change: CHANGE_TYPES.NEW,
           },
           snare: {
-            item: 'Pearl Reference Pure 14"x6.5"',
-            details: 'Maple/birch hybrid shell',
+            item: 'SJC Custom Drums 14"x6.5"',
+            details: 'Matched shell material to the main kit',
             notes: 'Matched the main kit\'s shell material for tonal consistency on Gray Chapter.',
-            change: CHANGE_TYPES.SWITCH,
+            change: CHANGE_TYPES.NEW,
           },
           cymbals: {
             item: 'Zildjian A Series',
@@ -14502,10 +14502,10 @@ export const DRUMMER_EVOLUTION = {
             change: CHANGE_TYPES.NEW,
           },
           sticks: {
-            item: 'Vic Firth Jay Weinberg Signature',
-            details: 'Signature model debut',
-            notes: 'Vic Firth\'s first Weinberg signature stick, built for Slipknot\'s sustained high-velocity demands.',
-            change: CHANGE_TYPES.SIGNATURE,
+            item: 'Vater 5B',
+            details: 'Standard 5B model',
+            notes: 'Vater endorsement carried through Weinberg\'s Slipknot tenure and beyond.',
+            change: CHANGE_TYPES.NEW,
           },
           heads: {
             item: 'Evans EC2 / EMAD',
@@ -14524,8 +14524,8 @@ export const DRUMMER_EVOLUTION = {
         keyChanges: [
           'Joined Slipknot in 2013, replacing founding drummer Joey Jordison at age 22',
           '.5: The Gray Chapter (2014) debuted at #1 UK, #5 US — Slipknot\'s highest US chart position at the time',
-          'Debut kit: Pearl Reference Pure, a departure from the heavily customized kits of earlier Slipknot eras',
-          'First Vic Firth Jay Weinberg signature stick model released',
+          'Gray Chapter kit: SJC Custom Drums, an endorsement Weinberg had held since 2009 — five years before joining Slipknot',
+          'Two SJC builds used: an all-mirrored maple "A-rig" and a stained bubinga "B-rig"',
         ],
 
         quote: {

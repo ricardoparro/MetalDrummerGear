@@ -47,6 +47,14 @@ function masterBullet(m) {
   return `- ${m.name} (${m.band}) — ${m.note} — /drummer/${m.slug}`;
 }
 
+function relatedBullet(slug) {
+  const rel = techniques[slug];
+  const title = rel ? rel.title : slug;
+  // Real per-slug files live at public/llms/technique/<slug>.md (singular —
+  // see generate-llms-techniques-per-slug.cjs); the plural path doesn't exist.
+  return `- [${title}](https://metalforge.io/llms/technique/${slug}.md)`;
+}
+
 function gearRecBullets(recs) {
   if (!recs || typeof recs !== 'object') return '';
   const lines = [];
@@ -98,6 +106,13 @@ function renderTechnique(t) {
     parts.push('### Masters');
     parts.push('');
     parts.push(t.masters.map(masterBullet).join('\n'));
+    parts.push('');
+  }
+
+  if (Array.isArray(t.relatedTechniques) && t.relatedTechniques.length > 0) {
+    parts.push('### Related Techniques');
+    parts.push('');
+    parts.push(t.relatedTechniques.map(relatedBullet).join('\n'));
     parts.push('');
   }
 

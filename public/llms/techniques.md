@@ -3,14 +3,14 @@
 > Educational reference for metal drumming techniques: how to play them, their history,
 > the drummers who define them, and recommended gear.
 >
-> Last updated: 2026-07-25 · 29 techniques
+> Last updated: 2026-09-09 · 29 techniques
 
 ---
 ## Blast Beat
 
 **Difficulty:** advanced | **BPM range:** 180-280+ BPM | **Category:** extreme
 
-The blast beat is the definitive extreme metal drumming technique, characterized by rapid alternating strokes between the snare drum and bass drum, typically played in unison with the hi-hat or ride cymbal. Originally emerging from hardcore punk and grindcore, blast beats became the backbone of death metal, black metal, and grindcore drumming.
+A blast beat is metal's extreme technique: rapid alternating snare and bass drum strokes with the hi-hat or ride cymbal. Originally emerging from hardcore punk and grindcore, blast beats became the backbone of death metal, black metal, and grindcore drumming.
 
 ### History
 
@@ -43,6 +43,12 @@ The blast beat evolved in the mid-1980s from hardcore punk and thrash metal. Ban
 - Hellhammer (Mayhem) — Black metal blast beat icon — /drummer/hellhammer
 - Gene Hoglan (Death/Testament) — Technical precision in blast patterns — /drummer/gene-hoglan
 - Tomas Haake (Meshuggah) — Polyrhythmic blast variations — /drummer/tomas-haake
+
+### Related Techniques
+
+- [Gravity Blast](https://metalforge.io/llms/technique/gravity-blast.md)
+- [Double Bass Drumming](https://metalforge.io/llms/technique/double-bass.md)
+- [Triggered Drums](https://metalforge.io/llms/technique/triggered-drums.md)
 
 ### Recommended Gear
 
@@ -93,6 +99,11 @@ The buzz roll's technical foundation goes back to military and concert snare dru
 - Mike Mangini (Dream Theater) — Drum corps background gives him the multiple-bounce roll control that underlies his rudiment-centric playing — /drummer/mike-mangini
 - Gavin Harrison (Porcupine Tree / King Crimson) — Applies rudimental roll discipline to the dynamic control that defines his playing — /drummer/gavin-harrison
 
+### Related Techniques
+
+- [One-Handed Roll](https://metalforge.io/llms/technique/one-handed-roll.md)
+- [Rudiments & Stick Control](https://metalforge.io/llms/technique/rudiments.md)
+
 ### Recommended Gear
 
 - **Sticks:** Vic Firth American Classic 5A — Balanced weight and rebound make press-roll control easier to feel
@@ -139,6 +150,12 @@ Discharge's UK anarcho-punk recordings of the early 1980s codified the pattern t
 - Dave Lombardo (Slayer) — Punk-rooted session catalog across Fantômas, Dead Cross, and Suicidal Tendencies keeps D-beat energy alive alongside his foundational thrash work — /drummer/dave-lombardo
 - Charlie Benante (Anthrax) — Stormtroopers of Death recordings fused D-beat-adjacent hardcore urgency with thrash-metal precision — /drummer/charlie-benante
 - Igor Cavalera (Sepultura) — Raw, politically-charged early Sepultura and Soulfly work parallels D-beat-driven crust's DIY intensity — /drummer/igor-cavalera
+
+### Related Techniques
+
+- [Blast Beat](https://metalforge.io/llms/technique/blast-beat.md)
+- [Groove Metal Drumming](https://metalforge.io/llms/technique/groove-drumming.md)
+- [Double Bass Drumming](https://metalforge.io/llms/technique/double-bass.md)
 
 ### Recommended Gear
 
@@ -193,6 +210,13 @@ While double bass drums existed in jazz (Louie Bellson pioneered them in the 194
 - Mario Duplantier (Gojira) — Groove-focused double bass — /drummer/mario-duplantier
 - Tomas Haake (Meshuggah) — Polyrhythmic double bass patterns — /drummer/tomas-haake
 
+### Related Techniques
+
+- [Gallop Rhythm](https://metalforge.io/llms/technique/gallop.md)
+- [Blast Beat](https://metalforge.io/llms/technique/blast-beat.md)
+- [Triggered Drums](https://metalforge.io/llms/technique/triggered-drums.md)
+- [Odd Time Signatures](https://metalforge.io/llms/technique/odd-time-signatures.md)
+
 ### Recommended Gear
 
 - **Pedals:** Pearl Demon Drive — Direct drive feel with interchangeable cams
@@ -244,6 +268,13 @@ The double paradiddle is one of the 26 American Standard Rudiments codified by t
 - Matt Garstka (Animals as Leaders) — Splits the double paradiddle's six notes between hands and feet for jazz-influenced progressive metal fills — /drummer/matt-garstka
 - Danny Carey (Tool) — Builds hypnotic polyrhythmic vocabulary from six-note rudimental cells like the double paradiddle — /drummer/danny-carey
 
+### Related Techniques
+
+- [Paradiddle](https://metalforge.io/llms/technique/paradiddle.md)
+- [Paradiddle-Diddle](https://metalforge.io/llms/technique/paradiddle-diddle.md)
+- [Single Stroke Roll](https://metalforge.io/llms/technique/single-stroke-roll.md)
+- [Polyrhythms](https://metalforge.io/llms/technique/polyrhythms.md)
+
 ### Recommended Gear
 
 - **Sticks:** Vic Firth American Classic 5A — Balanced weight helps keep the extra pair of single strokes even with the rest of the pattern
@@ -291,6 +322,11 @@ The double stroke roll is one of the two rudiments (alongside the single stroke 
 - Mike Mangini (Dream Theater) — Drum-corps-rooted rebound control from double-stroke and roll rudiments drives his fast, dense sticking — /drummer/mike-mangini
 - Gavin Harrison (Porcupine Tree / King Crimson) — Applies rudimental roll discipline underlying the double stroke roll to dynamic, ghost-note-dense phrasing — /drummer/gavin-harrison
 
+### Related Techniques
+
+- [Buzz Roll](https://metalforge.io/llms/technique/buzz-roll.md)
+- [Rudiments & Stick Control](https://metalforge.io/llms/technique/rudiments.md)
+
 ### Recommended Gear
 
 - **Sticks:** Vic Firth American Classic 5A — Balanced weight and rebound make the bounced second stroke easier to control
@@ -337,6 +373,12 @@ The drag is one of the original rudiments in the 26 American Standard Rudiments 
 - Mike Mangini (Dream Theater) — Applies drag-based figures within intricate, rudiment-derived fills to add texture without full roll density — /drummer/mike-mangini
 - Gavin Harrison (Porcupine Tree / King Crimson) — Uses drag-style ornamentation to add subtle texture around dynamic, ghost-note-dense phrasing — /drummer/gavin-harrison
 - Matt Garstka (Animals as Leaders) — Draws on drag and rudiment-derived ornaments when constructing linear, jazz-influenced fills — /drummer/matt-garstka
+
+### Related Techniques
+
+- [Double Stroke Roll](https://metalforge.io/llms/technique/double-stroke-roll.md)
+- [Paradiddle](https://metalforge.io/llms/technique/paradiddle.md)
+- [Rudiments & Stick Control](https://metalforge.io/llms/technique/rudiments.md)
 
 ### Recommended Gear
 
@@ -386,6 +428,12 @@ The five stroke roll is one of the original rudiments codified in the 26 America
 - Gavin Harrison (Porcupine Tree / King Crimson) — Applies measured-roll discipline to phrasing that resolves against displaced, polymetric grooves — /drummer/gavin-harrison
 - Thomas Lang (Various) — Treats the five stroke roll as a foundational block for extended, high-speed roll combinations
 
+### Related Techniques
+
+- [Double Stroke Roll](https://metalforge.io/llms/technique/double-stroke-roll.md)
+- [Seven Stroke Roll](https://metalforge.io/llms/technique/seven-stroke-roll.md)
+- [Rudiments & Stick Control](https://metalforge.io/llms/technique/rudiments.md)
+
 ### Recommended Gear
 
 - **Sticks:** Vic Firth American Classic 5A — Balanced rebound makes the double-stroke portion of the roll easier to control at speed
@@ -434,6 +482,12 @@ The flam tap is one of the 26 American Standard Rudiments codified by the Nation
 - Matt Garstka (Animals as Leaders) — Draws on flam tap and flam-family rudiments when constructing linear, jazz-influenced fills — /drummer/matt-garstka
 - Charlie Benante (Anthrax) — Carries rudimental flam-based accents from a snare drumming background into powerful thrash fills — /drummer/charlie-benante
 
+### Related Techniques
+
+- [Flams](https://metalforge.io/llms/technique/flams.md)
+- [Paradiddle](https://metalforge.io/llms/technique/paradiddle.md)
+- [Rudiments & Stick Control](https://metalforge.io/llms/technique/rudiments.md)
+
 ### Recommended Gear
 
 - **Sticks:** Vic Firth American Classic 5A — Balanced weight makes it easier to feel the volume contrast between the flam and the following tap
@@ -479,6 +533,11 @@ Flams originated in military and rudimental drumming, where the technique's abil
 
 - Martin Lopez (Opeth / Soen) — Weaves flam accents through his ghost-note-dense, jazz-influenced progressive metal grooves — /drummer/martin-lopez
 - Mike Mangini (Dream Theater) — Drum-corps-rooted, rudiment-centric precision carries directly into his flam-based accents — /drummer/mike-mangini
+
+### Related Techniques
+
+- [Rudiments & Stick Control](https://metalforge.io/llms/technique/rudiments.md)
+- [Ghost Notes](https://metalforge.io/llms/technique/ghost-notes.md)
 
 ### Recommended Gear
 
@@ -526,6 +585,11 @@ The gallop rhythm became metal's signature triplet-adjacent groove through the N
 - Nicko McBrain (Iron Maiden) — Built Iron Maiden's signature galloping rhythms entirely with a single bass drum pedal, powering songs like "The Trooper" and "Run to the Hills" — /drummer/nicko-mcbrain
 - Dave Lombardo (Slayer) — Drives galloping bass drum patterns under thrash metal's rapid palm-muted riffing — /drummer/dave-lombardo
 - Charlie Benante (Anthrax) — Built thrash-gallop bass drum figures into some of the genre's most recognizable rhythm-section moments — /drummer/charlie-benante
+
+### Related Techniques
+
+- [Double Bass Drumming](https://metalforge.io/llms/technique/double-bass.md)
+- [Groove Metal Drumming](https://metalforge.io/llms/technique/groove-drumming.md)
 
 ### Recommended Gear
 
@@ -575,6 +639,12 @@ Ghost notes trace their origin to funk and R&B drumming of the 1960s and 70s, wh
 - John Otto (Limp Bizkit) — Brings funk-informed ghost note vocabulary to nu-metal grooves — /drummer/john-otto
 - Matt Halpern (Periphery) — Uses ghost notes to add texture to djent-style patterns — /drummer/matt-halpern
 
+### Related Techniques
+
+- [Groove Metal Drumming](https://metalforge.io/llms/technique/groove-drumming.md)
+- [Metal Drum Fills](https://metalforge.io/llms/technique/fill-techniques.md)
+- [Linear Drumming](https://metalforge.io/llms/technique/linear-drumming.md)
+
 ### Recommended Gear
 
 - **Snares:** Shallow maple snares (5"-5.5") — Fast response captures low-velocity ghost strokes clearly
@@ -622,6 +692,11 @@ The underlying one-handed roll has been traced to earlier jazz and marching-perc
 - Derek Roddy (Hate Eternal) — Death metal gravity blast pioneer — /drummer/derek-roddy
 - George Kollias (Nile) — Combines gravity blasts with traditional techniques — /drummer/george-kollias
 - Inferno (Behemoth) — Uses gravity blasts in black/death metal context — /drummer/inferno
+
+### Related Techniques
+
+- [Blast Beat](https://metalforge.io/llms/technique/blast-beat.md)
+- [One-Handed Roll](https://metalforge.io/llms/technique/one-handed-roll.md)
 
 ### Recommended Gear
 
@@ -674,6 +749,11 @@ Groove metal emerged in the early 1990s as bands like Pantera, Sepultura, and la
 - Eloy Casagrande (Sepultura) — Modern groove metal excellence — /drummer/eloy-casagrande
 - Matt Halpern (Periphery) — Djent-style progressive groove — /drummer/matt-halpern
 
+### Related Techniques
+
+- [Double Bass Drumming](https://metalforge.io/llms/technique/double-bass.md)
+- [Odd Time Signatures](https://metalforge.io/llms/technique/odd-time-signatures.md)
+
 ### Recommended Gear
 
 - **Drums:** Tama Starclassic — Punchy attack for groove playing
@@ -725,6 +805,12 @@ Independence training has roots in jazz drumming, where Elvin Jones and Tony Wil
 - Danny Carey (Tool) — Layers Eastern-influenced independent patterns across all four limbs — /drummer/danny-carey
 - Mike Portnoy (Dream Theater) — Built independence through Gary Chester-derived coordination systems — /drummer/mike-portnoy
 
+### Related Techniques
+
+- [Linear Drumming](https://metalforge.io/llms/technique/linear-drumming.md)
+- [Polyrhythms](https://metalforge.io/llms/technique/polyrhythms.md)
+- [Double Bass Drumming](https://metalforge.io/llms/technique/double-bass.md)
+
 ### Recommended Gear
 
 - **Electronics:** Metronome with subdivisions — Essential for keeping time while limbs diverge rhythmically
@@ -771,6 +857,11 @@ Heel-toe pedal technique grew out of the same drum-corps and rudimental-percussi
 - George Kollias (Nile) — Co-designed the Pearl Demon XR pedal around his heel-toe technique and sustains blast beats past 240 BPM with it — /drummer/george-kollias
 - Derek Roddy (Hate Eternal) — Layers heel-toe strokes into a heel-up foundation for short bursts of extra double bass speed — /drummer/derek-roddy
 - Gene Hoglan (Death/Testament) — Builds his double bass approach around heel-toe motion and consistent stroke weight — /drummer/gene-hoglan
+
+### Related Techniques
+
+- [Double Bass Drumming](https://metalforge.io/llms/technique/double-bass.md)
+- [Hand-Foot Independence](https://metalforge.io/llms/technique/hand-foot-independence.md)
 
 ### Recommended Gear
 
@@ -819,6 +910,11 @@ Linear drumming became prominent through funk and fusion drummers like Gary Chaf
 - Brann Dailor (Mastodon) — Linear fills and progressive patterns — /drummer/brann-dailor
 - Matt Halpern (Periphery) — Djent-style linear grooves — /drummer/matt-halpern
 - Mario Duplantier (Gojira) — Linear elements in groove metal context — /drummer/mario-duplantier
+
+### Related Techniques
+
+- [Polyrhythms](https://metalforge.io/llms/technique/polyrhythms.md)
+- [Groove Metal Drumming](https://metalforge.io/llms/technique/groove-drumming.md)
 
 ### Recommended Gear
 
@@ -872,6 +968,11 @@ Metal drum fills evolved from hard rock patterns of the 1970s. John Bonham's thu
 - Gene Hoglan (Death) — Creative musical fills — /drummer/gene-hoglan
 - Joey Jordison (Slipknot) — Aggressive power fills — /drummer/joey-jordison
 
+### Related Techniques
+
+- [Linear Drumming](https://metalforge.io/llms/technique/linear-drumming.md)
+- [Blast Beat](https://metalforge.io/llms/technique/blast-beat.md)
+
 ### Recommended Gear
 
 - **Toms:** Well-tuned toms — Clear pitch relationships for melodic fills
@@ -919,6 +1020,12 @@ The technique takes its name from Sanford "Gus" Moeller, who documented a whip-l
 - Mike Mangini (Dream Theater) — Refined traditional Moeller principles into a biomechanical system for sustained speed without injury — /drummer/mike-mangini
 - Inferno (Behemoth) — Moeller-influenced single-stroke blast beats built for endurance across full live sets — /drummer/inferno
 - Frost (Satyricon/1349) — Ankle-driven, Moeller-adjacent double-kick technique sustains blast velocity without leg fatigue — /drummer/frost
+
+### Related Techniques
+
+- [Blast Beat](https://metalforge.io/llms/technique/blast-beat.md)
+- [One-Handed Roll](https://metalforge.io/llms/technique/one-handed-roll.md)
+- [Hand-Foot Independence](https://metalforge.io/llms/technique/hand-foot-independence.md)
 
 ### Recommended Gear
 
@@ -973,6 +1080,11 @@ Odd meters entered rock through progressive bands like King Crimson, Yes, and Ru
 - Tomas Haake (Meshuggah) — Odd groupings over 4/4 foundation — /drummer/tomas-haake
 - Chris Adler (Lamb of God) — Groove metal in complex meters — /drummer/chris-adler
 
+### Related Techniques
+
+- [Polyrhythms](https://metalforge.io/llms/technique/polyrhythms.md)
+- [Double Bass Drumming](https://metalforge.io/llms/technique/double-bass.md)
+
 ### Recommended Gear
 
 - **Electronics:** Programmable metronome — Set up odd time clicks with accents
@@ -1022,6 +1134,11 @@ The one-handed roll evolved from traditional rudimental techniques like the push
 - Jojo Mayer (Nerve) — Technical master of hand techniques
 - Thomas Lang (Various) — Technical virtuoso
 
+### Related Techniques
+
+- [Gravity Blast](https://metalforge.io/llms/technique/gravity-blast.md)
+- [Blast Beat](https://metalforge.io/llms/technique/blast-beat.md)
+
 ### Recommended Gear
 
 - **Sticks:** Balanced sticks — Proper balance point for push-pull motion
@@ -1068,6 +1185,12 @@ The paradiddle is one of the oldest documented rudiments, appearing in 19th-cent
 - Mike Mangini (Dream Theater) — Uses paradiddle-based sticking as a building block for intricate fills and odd-time patterns — /drummer/mike-mangini
 - Matt Garstka (Animals as Leaders) — Builds rudiment-derived linear patterns from paradiddle-family stickings split across hands and feet — /drummer/matt-garstka
 - Gavin Harrison (Porcupine Tree / King Crimson) — Applies paradiddle-based accent groupings to displaced and polymetric grooves — /drummer/gavin-harrison
+
+### Related Techniques
+
+- [Paradiddle-Diddle](https://metalforge.io/llms/technique/paradiddle-diddle.md)
+- [Rudiments & Stick Control](https://metalforge.io/llms/technique/rudiments.md)
+- [Hand-Foot Independence](https://metalforge.io/llms/technique/hand-foot-independence.md)
 
 ### Recommended Gear
 
@@ -1116,6 +1239,12 @@ The paradiddle-diddle is one of the 40 International Drum Rudiments recognized b
 - Mike Mangini (Dream Theater) — Applies paradiddle-family stickings, including diddle-heavy variations, as building blocks for dense progressive-metal fills — /drummer/mike-mangini
 - Gavin Harrison (Porcupine Tree / King Crimson) — Uses the paradiddle-diddle's rolling doubles to add legato movement inside displaced, polymetric grooves — /drummer/gavin-harrison
 - Matt Garstka (Animals as Leaders) — Splits the paradiddle-diddle's six notes between hands and feet for jazz-influenced progressive metal fills — /drummer/matt-garstka
+
+### Related Techniques
+
+- [Paradiddle](https://metalforge.io/llms/technique/paradiddle.md)
+- [Double Paradiddle](https://metalforge.io/llms/technique/double-paradiddle.md)
+- [Rudiments & Stick Control](https://metalforge.io/llms/technique/rudiments.md)
 
 ### Recommended Gear
 
@@ -1169,6 +1298,11 @@ While polyrhythms have roots in African and Indian classical music, they entered
 - Brann Dailor (Mastodon) — Progressive metal polyrhythm pioneer — /drummer/brann-dailor
 - Mike Portnoy (Dream Theater) — Technical prog-metal complexity — /drummer/mike-portnoy
 
+### Related Techniques
+
+- [Odd Time Signatures](https://metalforge.io/llms/technique/odd-time-signatures.md)
+- [Double Bass Drumming](https://metalforge.io/llms/technique/double-bass.md)
+
 ### Recommended Gear
 
 - **Electronics:** Metronome with subdivisions — Essential for practicing polyrhythms accurately
@@ -1218,6 +1352,18 @@ Rudiments date back centuries to military drumming, where standardized patterns 
 - Gavin Harrison (Porcupine Tree / King Crimson) — Applies rudimental sticking to displaced and polymetric grooves — /drummer/gavin-harrison
 - Matt Garstka (Animals as Leaders) — Builds linear fills and independence exercises from rudiment vocabulary — /drummer/matt-garstka
 
+### Related Techniques
+
+- [Single Stroke Roll](https://metalforge.io/llms/technique/single-stroke-roll.md)
+- [Double Stroke Roll](https://metalforge.io/llms/technique/double-stroke-roll.md)
+- [Paradiddle](https://metalforge.io/llms/technique/paradiddle.md)
+- [Five Stroke Roll](https://metalforge.io/llms/technique/five-stroke-roll.md)
+- [Seven Stroke Roll](https://metalforge.io/llms/technique/seven-stroke-roll.md)
+- [Drag (Ruff)](https://metalforge.io/llms/technique/drag.md)
+- [Metal Drum Fills](https://metalforge.io/llms/technique/fill-techniques.md)
+- [One-Handed Roll](https://metalforge.io/llms/technique/one-handed-roll.md)
+- [Linear Drumming](https://metalforge.io/llms/technique/linear-drumming.md)
+
 ### Recommended Gear
 
 - **Sticks:** Vic Firth American Classic 5A — Balanced weight ideal for rudiment practice and stick control drills
@@ -1265,6 +1411,12 @@ The seven stroke roll is one of the 26 American Standard Rudiments codified by t
 - Mike Mangini (Dream Theater) — Extends double-stroke and five-stroke vocabulary into seven-stroke figures to bridge larger rhythmic gaps — /drummer/mike-mangini
 - Thomas Lang (Various) — Builds the seven stroke roll into extended, high-speed roll combinations as a longer counterpart to the five stroke roll
 - Gavin Harrison (Porcupine Tree / King Crimson) — Draws on seven-stroke measured-roll phrasing inside displaced and polymetric grooves — /drummer/gavin-harrison
+
+### Related Techniques
+
+- [Five Stroke Roll](https://metalforge.io/llms/technique/five-stroke-roll.md)
+- [Double Stroke Roll](https://metalforge.io/llms/technique/double-stroke-roll.md)
+- [Rudiments & Stick Control](https://metalforge.io/llms/technique/rudiments.md)
 
 ### Recommended Gear
 
@@ -1314,6 +1466,12 @@ Along with the double stroke roll, the single stroke roll anchors the Percussive
 - George Kollias (Nile) — Sustains single-stroke-based blast patterns past 280 BPM through rudimental evenness and endurance — /drummer/george-kollias
 - Mike Mangini (Dream Theater) — Holds multiple recognized speed records built on refining single-stroke technique through biomechanical analysis — /drummer/mike-mangini
 
+### Related Techniques
+
+- [Blast Beat](https://metalforge.io/llms/technique/blast-beat.md)
+- [Gravity Blast](https://metalforge.io/llms/technique/gravity-blast.md)
+- [One-Handed Roll](https://metalforge.io/llms/technique/one-handed-roll.md)
+
 ### Recommended Gear
 
 - **Sticks:** Vic Firth American Classic 5A — Balanced weight makes it easier to keep single strokes even between hands
@@ -1361,6 +1519,12 @@ The six stroke roll is one of the 26 American Standard Rudiments codified by the
 - George Kollias (Nile) — Builds fill and transition vocabulary on mixed single/double roll technique to move seamlessly between blasts and fills — /drummer/george-kollias
 - Pete Sandoval (Morbid Angel) — Drew on rudimental single-and-double-stroke roll technique in developing the pioneering hyper-blast — /drummer/pete-sandoval
 - Gene Hoglan (Death/Testament) — Applies the six stroke roll's blend of singles and doubles within technically precise, groove-driven fills — /drummer/gene-hoglan
+
+### Related Techniques
+
+- [Five Stroke Roll](https://metalforge.io/llms/technique/five-stroke-roll.md)
+- [Seven Stroke Roll](https://metalforge.io/llms/technique/seven-stroke-roll.md)
+- [Blast Beat](https://metalforge.io/llms/technique/blast-beat.md)
 
 ### Recommended Gear
 
@@ -1411,6 +1575,11 @@ Electronic triggers emerged in the 1980s with pioneers like Bill Bruford and Nei
 - Joey Jordison (Slipknot) — Balanced triggered and acoustic — /drummer/joey-jordison
 - George Kollias (Nile) — Triggers essential for extreme speed clarity — /drummer/george-kollias
 - Mario Duplantier (Gojira) — Triggers with groove sensibility — /drummer/mario-duplantier
+
+### Related Techniques
+
+- [Blast Beat](https://metalforge.io/llms/technique/blast-beat.md)
+- [Double Bass Drumming](https://metalforge.io/llms/technique/double-bass.md)
 
 ### Recommended Gear
 

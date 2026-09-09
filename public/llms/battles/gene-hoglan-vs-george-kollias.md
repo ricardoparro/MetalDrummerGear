@@ -10,19 +10,37 @@ Gene Hoglan and George Kollias face off in the MetalForge community drum kit bat
 
 ## Gene Hoglan Drum Kit Setup
 
+Gene Hoglan, nicknamed "The Atomic Clock" for his precise timing, is one of the most respected drummers in extreme metal. Born in 1967, he has played with Death, Dark Angel, Testament, Strapping Young Lad, Fear Factory, and Dethklok. His combination of speed, power, and musicality has influenced countless metal drummers.
+
 **Band:** Death / Testament / Dethklok  
+**Career:** Dark Angel, Death, Testament, Dethklok, Fear Factory, Strapping Young Lad  
 **Genre:** Death Metal / Thrash Metal  
 **Current Kit:** Pearl Reference Pure  
 **Cymbals:** Sabian AAX Series (15" Hi-Hats, 18" & 20" Crashes, 22" Ride, 20" China)  
 **Key Gear:** Pearl Reference 14x6.5" Brass, Pearl Demon Drive Double Pedal, Promark Classic Forward 2B  
 
+**Watch:**
+
+- The Philosopher (Death) - Official Playthrough (2016)
+- Skeksis (Strapping Young Lad) - Official Playthrough (2015)
+- True American Hate - Drum Cam (Tuska 2013) (2013)
+
 ## George Kollias Drum Kit Setup
 
+George Kollias, born in 1977, is a Greek drummer known for his extreme speed and technical proficiency. As the drummer for Nile since 2004, he has pushed the boundaries of death metal drumming with his incredible blast beats and double bass technique. He is also an educator and has released instructional materials.
+
 **Band:** Nile  
+**Career:** Nile, Nightfall  
 **Genre:** Technical Death Metal  
 **Current Kit:** Pearl Masterworks Stadium Exotic (Piano Black with Gold Hardware)  
 **Cymbals:** Zildjian (14" K Mastersound Hi-Hats, 17" & 18" K Custom Dark Crashes, 21" A Custom Mega Bell Ride, 18" China)  
-**Key Gear:** Pearl George Kollias Signature 14x6.5", Pearl Demon XR Double Pedal, Vic Firth George Kollias Signature SGK  
+**Key Gear:** Pearl George Kollias Signature 14x6.5", Pearl Demon XR Double Pedal, Vic Firth  
+
+**Watch:**
+
+- Shall Rise Shall Be Dead (5M views) (2012)
+- US Tour 2013 DrumCam (Official) (2013)
+- Black Seeds Of Vengeance - Pearl Drum Cam (2012)
 
 ## Gear Comparison
 
@@ -58,4 +76,4 @@ A: Gene Hoglan uses Sabian AAX Series (15" Hi-Hats, 18" & 20" Crashes, 22" Ride,
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

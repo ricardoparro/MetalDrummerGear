@@ -10,7 +10,7 @@ Joey Jordison is one of Nu Metal / Death Metal's most influential drummers, best
 
 ## The Heretic Anthem Intro
 
-**Song:** The Heretic Anthem | **Album:** Iowa (2001) | **BPM:** 155 BPM | **Technique:** intro fill | **Difficulty:** advanced
+**Song:** The Heretic Anthem | **Album:** Iowa (2001) | **BPM:** 155 BPM | **Time:** 4/4 | **Technique:** intro fill | **Difficulty:** advanced
 
 The iconic opening drum fill that kicks off one of metal's most intense songs. Joey's explosive snare rolls combined with double bass create the perfect foundation for the album's heaviest track.
 
@@ -32,7 +32,7 @@ The iconic opening drum fill that kicks off one of metal's most intense songs. J
 
 ## Eyeless Blast Section
 
-**Song:** Eyeless | **Album:** Slipknot (1999) | **BPM:** 200 BPM | **Technique:** blast section | **Difficulty:** expert
+**Song:** Eyeless | **Album:** Slipknot (1999) | **BPM:** 200 BPM | **Time:** 4/4 | **Technique:** blast section | **Difficulty:** expert
 
 Joey's devastating blast beat section that showcases his extreme metal roots. This pattern requires incredible stamina and precision at high speeds.
 
@@ -54,7 +54,7 @@ Joey's devastating blast beat section that showcases his extreme metal roots. Th
 
 ## Disasterpiece Chaos Fill
 
-**Song:** Disasterpiece | **Album:** Iowa (2001) | **BPM:** 140 BPM | **Technique:** fill | **Difficulty:** advanced
+**Song:** Disasterpiece | **Album:** Iowa (2001) | **BPM:** 140 BPM | **Time:** 4/4 | **Technique:** fill | **Difficulty:** advanced
 
 The frantic fill that connects verses and choruses in one of Slipknot's most aggressive songs. Joey combines toms, snare, and double bass in a whirlwind of controlled chaos.
 
@@ -76,9 +76,9 @@ The frantic fill that connects verses and choruses in one of Slipknot's most agg
 
 ## Iowa Title-Track Double-Bass Pedal Work
 
-**Song:** Iowa | **Album:** Iowa (2001) | **BPM:** ~130 BPM | **Technique:** signature pattern | **Difficulty:** expert
+**Song:** Iowa | **Album:** Iowa (2001) | **BPM:** ~130 BPM | **Time:** 4/4 | **Technique:** signature pattern | **Difficulty:** expert
 
-The title track of Slipknot's Iowa (2001) is one of the most extreme drumming performances in the history of heavy music — a nearly fifteen-minute maelstrom of sustained intensity that tested the physical and psychological limits of what a drummer could execute in a recording context. Joey Jordison's pedal work through the Iowa track is built on dense, relentless double-bass patterns that drive the song's crushing, doom-paced riff with precision and ferocity that few drummers could sustain over such a duration. Unlike the high-velocity blast-beat passages that define other parts of the Iowa album, the title track's double-bass patterns operate at a mid-tempo that prioritises weight over speed: the kick strokes are heavy, deliberate, and precisely timed to lock with the guitars' down-tuned heaviness. Jordison's technique here is less about raw foot speed and more about power, even alternation, and the ability to maintain absolute consistency in dynamics across a very long and demanding performance. The Pearl Demon Drive pedals he used on the album enabled the mechanical directness and rebound efficiency that his playing demanded: a pedal that fights the player at extreme tension would be unplayable over fifteen minutes at this level of intensity. For drummers, the Iowa double-bass patterns are a study in controlled power at mid-tempo: developing the ability to strike both bass drums with equal force, maintain that force across an extended duration, and lock the kick precisely to a slow, heavy riff without rushing or dragging. This kind of stamina and control is in many ways more difficult to develop than raw speed, because there is nowhere to hide unevenness or fatigue at this tempo — every kick stroke is heard and felt in the mix. Jordison's performance across the Iowa title track remains one of the definitive statements of what double-bass drumming in service of heavy music actually sounds like when executed at the highest level of physical and musical commitment.
+The title track of Slipknot's Iowa (2001) is one of the most extreme drumming performances in the history of heavy music — a nearly fifteen-minute maelstrom of sustained intensity that tested the physical and psychological limits of what a drummer could execute in a recording context. Joey Jordison's pedal work through the Iowa track is built on dense, relentless double-bass patterns that drive the song's crushing, doom-paced riff with precision and ferocity that few drummers could sustain over such a duration. Unlike the high-velocity blast-beat passages that define other parts of the Iowa album, the title track's double-bass patterns operate at a mid-tempo that prioritises weight over speed: the kick strokes are heavy, deliberate, and precisely timed to lock with the guitars' down-tuned heaviness. Jordison's technique here is less about raw foot speed and more about power, even alternation, and the ability to maintain absolute consistency in dynamics across a very long and demanding performance. His Pearl hardware setup at the time enabled the mechanical directness and rebound efficiency that his playing demanded: a pedal that fights the player at extreme tension would be unplayable over fifteen minutes at this level of intensity. For drummers, the Iowa double-bass patterns are a study in controlled power at mid-tempo: developing the ability to strike both bass drums with equal force, maintain that force across an extended duration, and lock the kick precisely to a slow, heavy riff without rushing or dragging. This kind of stamina and control is in many ways more difficult to develop than raw speed, because there is nowhere to hide unevenness or fatigue at this tempo — every kick stroke is heard and felt in the mix. Jordison's performance across the Iowa title track remains one of the definitive statements of what double-bass drumming in service of heavy music actually sounds like when executed at the highest level of physical and musical commitment.
 
 ### How to Play
 
@@ -99,7 +99,7 @@ The title track of Slipknot's Iowa (2001) is one of the most extreme drumming pe
 
 ## (sic) Displaced Snare Pattern
 
-**Song:** (sic) | **Album:** Slipknot (1999) | **BPM:** ~135 BPM | **Technique:** main groove | **Difficulty:** advanced
+**Song:** (sic) | **Album:** Slipknot (1999) | **BPM:** ~135 BPM | **Time:** 4/4 | **Technique:** main groove | **Difficulty:** advanced
 
 "(sic)" opens Slipknot's self-titled 1999 debut album with one of the most aggressive drum parts in nu-metal history, and Joey Jordison's snare displacement through the verse sections is the defining technical feature of the track. Snare displacement — placing the backbeat or accents in unexpected rhythmic positions relative to where the listener expects them — is a technique borrowed from jazz and funk, but in Jordison's hands it becomes a weapon of aggression and destabilisation. The groove of "(sic)" has a relentless forward drive powered by Jordison's double bass, but the snare accents arrive fractionally off the expected beat in a way that creates an off-kilter, unsettling feel entirely appropriate to the song's emotional content. This is not accidental looseness or poor time-keeping — it is deliberate placement, and getting it right requires internalising the rhythmic displacement so deeply that it feels natural at tempo. The difficulty is that the surrounding kit playing remains metrically grounded: the hi-hat and kick lock to the pulse, giving the listener a rhythmic anchor, while the snare displacements create tension against that anchor. For drummers, learning to place a displaced accent while keeping everything else locked is a sophisticated exercise in independence and rhythmic awareness. Jordison's approach on the debut album was forged in the band's early years of intense live performance, and his ability to hold a groove while introducing rhythmic tension through displaced snare strokes reflects a drummer with deep internalised control over his own time-feel. "(sic)" is one of the foundational Slipknot tracks for understanding how Jordison combined technical precision with raw, aggressive energy — a combination that defined the nu-metal drum sound of the late 1990s and influenced a generation of heavy music drummers in the years that followed.
 
@@ -122,7 +122,7 @@ The title track of Slipknot's Iowa (2001) is one of the most extreme drumming pe
 
 ## The Heretic Anthem Blast-Beat Run
 
-**Song:** The Heretic Anthem | **Album:** Iowa (2001) | **BPM:** 165 BPM | **Technique:** blast section | **Difficulty:** expert
+**Song:** The Heretic Anthem | **Album:** Iowa (2001) | **BPM:** 165 BPM | **Time:** 4/4 | **Technique:** blast section | **Difficulty:** expert
 
 "The Heretic Anthem" from Slipknot's Iowa (2001) is one of the most technically and physically demanding drum performances in the band's catalog, and the sustained blast-beat run that drives the song's most intense sections represents Joey Jordison at his most ferocious. While the song's opening fill is a celebrated piece in its own right, it is the body of the track — the sustained passages of blast-beat drumming that power through the verse and breakdown sections — where Jordison's stamina, precision, and aggression reach their combined peak. The Heretic Anthem blast pattern differs from a conventional two-hand blast in its ferocity and the way the double bass interacts with the snare: Jordison pushes both the kick and snare strokes harder as the song progresses, building a sense of relentless acceleration even when the underlying tempo remains consistent. The snare strokes are attacked with maximum force, and the kick patterns add a second rhythmic pulse below the blast that amplifies the song's overwhelming physical impact. Unlike the tight, controlled blast of technical death metal specialists, Jordison's blasts have an aggressive, slightly raw quality that is inseparable from the emotional content of the music — they feel driven, like a physical assault in rhythmic form, rather than metronomic. For drummers, learning this blast is fundamentally about stamina and consistency: being able to execute maximum-intensity strokes without letting the quality of each individual hit degrade as fatigue accumulates. At the tempo of "The Heretic Anthem's" most intense passages, small drops in power or consistency become immediately audible, and maintaining the uniformity of both hands across a sustained blast is one of the hardest physical challenges in heavy music drumming. Jordison's recordings on Iowa demonstrate a rare combination of technical control and physical endurance that few drummers at the time could match, and his blast passages on this track remain a benchmark for extreme drumming intensity.
 
@@ -156,4 +156,4 @@ Joey Jordison's style is defined by precision, timing, and genre-defining groove
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

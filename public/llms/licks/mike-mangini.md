@@ -1,6 +1,6 @@
 # Mike Mangini — Signature Drum Licks & Patterns
 
-**Band:** Dream Theater | **Genre:** Progressive Metal | **Lick Count:** 6
+**Band:** Godsmack (2026-present); Dream Theater (2010-2023) | **Genre:** Progressive Metal | **Lick Count:** 6
 
 ---
 
@@ -10,7 +10,7 @@ Mike Mangini is one of Progressive Metal's most influential drummers, best known
 
 ## On the Backs of Angels Speed & Independence
 
-**Song:** On the Backs of Angels | **Album:** A Dramatic Turn of Events (2011) | **BPM:** ~200 BPM | **Technique:** signature pattern | **Difficulty:** expert
+**Song:** On the Backs of Angels | **Album:** A Dramatic Turn of Events (2011) | **BPM:** ~200 BPM | **Time:** shifting (4/4 and odd groupings) | **Technique:** signature pattern | **Difficulty:** expert
 
 When Mike Mangini joined Dream Theater for 2011's A Dramatic Turn of Events, he brought one of the most analytically refined techniques in all of drumming — a five-time World's Fastest Drummer record holder whose hallmark is total ambidexterity and surgical limb independence. "On the Backs of Angels," the album's lead single, is a perfect showcase: driving double bass under shifting progressive arrangements, fills that flow seamlessly across his famously large, symmetrical kit, and an unerring sense of where the downbeat is even as the meter moves. Mangini's signature is that he plays his setup as a mirrored instrument, able to lead with either hand or foot, which lets him orchestrate fills and ostinatos that most drummers simply can't reach. He is also a teacher to his core, and his approach is deeply systematic — he breaks complex coordination down into trainable components, which is exactly what you can see in his demonstrations of speed and independence. For drummers, treating Mangini's playing as a study is a master class in coordination: it develops fast, even double bass, four-limb independence, and the ability to navigate odd-time progressive arrangements while keeping the pulse rock-solid. The right approach is the one Mangini himself preaches — isolate each limb's job, build coordination slowly and symmetrically (practising weak-side leads as well as strong), and only combine and accelerate once each component is clean. "On the Backs of Angels" is an accessible entry point into the precise, athletic, deeply musical progressive drumming that has defined Mangini's tenure in Dream Theater, and a reminder that his jaw-dropping speed is always built on disciplined technique.
 
@@ -33,7 +33,7 @@ When Mike Mangini joined Dream Theater for 2011's A Dramatic Turn of Events, he 
 
 ## The Looking Glass Linear Fills & Coordination
 
-**Song:** The Looking Glass | **Album:** A Dramatic Turn of Events (2011) | **BPM:** ~170 BPM | **Technique:** signature pattern | **Difficulty:** expert
+**Song:** The Looking Glass | **Album:** A Dramatic Turn of Events (2011) | **BPM:** ~170 BPM | **Time:** 4/4 with fills in odd groupings | **Technique:** signature pattern | **Difficulty:** expert
 
 "The Looking Glass" is one of the most immediately catchy songs on A Dramatic Turn of Events, and it shows a different side of Mike Mangini's artistry: not just blinding speed, but taste, groove, and the ability to drop intricate fills into a tight rock arrangement without ever overplaying. Mangini's drumming here drives a memorable, almost classic-rock-flavoured Dream Theater track, anchoring the song with a solid backbeat while peppering the transitions with the flowing linear fills and rapid hand-foot combinations that are his trademark. His improvised solos — like his celebrated live drum solos — reveal the engine behind this: a vocabulary of linear phrases, paradiddle-based stickings, and superhuman independence that he can deploy musically inside any context. The lesson of "The Looking Glass" is that all that technique exists to serve the song; the fills land exactly where the arrangement wants them and never bury the groove. For drummers, this is a study in musical application of advanced technique: it develops linear-fill vocabulary, hand-foot coordination, and — crucially — the judgement to use them tastefully. The approach is to learn the linear phrases slowly as isolated exercises, internalise the stickings, and then practise dropping them into a simple groove so they become musical tools rather than chops for their own sake. "The Looking Glass" proves that Mangini is not just one of the fastest drummers alive but one of the most musical, and it's an ideal track for drummers wanting to bridge raw technique and real songcraft.
 
@@ -56,7 +56,7 @@ When Mike Mangini joined Dream Theater for 2011's A Dramatic Turn of Events, he 
 
 ## Breaking All Illusions Odd-Time Mastery
 
-**Song:** Breaking All Illusions | **Album:** A Dramatic Turn of Events (2011) | **BPM:** ~160 BPM (shifting) | **Technique:** signature pattern | **Difficulty:** expert
+**Song:** Breaking All Illusions | **Album:** A Dramatic Turn of Events (2011) | **BPM:** ~160 BPM (shifting) | **Time:** mixed meter | **Technique:** signature pattern | **Difficulty:** expert
 
 The twelve-minute epic "Breaking All Illusions" is the most ambitious track on A Dramatic Turn of Events, and it asks everything of a drummer: long-form endurance, dynamic control, and the ability to navigate constant metric shifts while keeping a progressive arrangement feeling cohesive. Mike Mangini handles it with the meticulous, mathematical approach that defines his playing. One of his best-known traits is how methodically he counts and subdivides — he has built whole systems around tracking complex meters and odd subdivisions, and in his drum-cam and clinic footage he openly breaks down how he keeps his place through passages that would derail most players. That counting discipline is exactly what "Breaking All Illusions" demands: the meter moves, the dynamics swell and recede, and the drumming has to support a sprawling composition without ever losing the thread. For drummers, this is a deep study in long-form progressive playing: it develops the ability to feel and subdivide odd time signatures, to manage dynamics and endurance across an extended piece, and to use double bass and fills as structural tools rather than constant filler. The way in is Mangini's own method — count the groupings deliberately, mark the section transitions, practise each odd-time passage slowly until it's internalised, and build stamina by playing longer stretches at a comfortable tempo. "Breaking All Illusions" is a benchmark for ambitious progressive-metal drumming and a showcase of the disciplined, systematic musicianship that makes Mangini such an influential modern master.
 
@@ -79,7 +79,7 @@ The twelve-minute epic "Breaking All Illusions" is the most ambitious track on A
 
 ## Constant Motion 7/8 Paradiddle Engine
 
-**Song:** Constant Motion | **Album:** Systematic Chaos (2007) | **BPM:** ~175 BPM | **Technique:** signature pattern | **Difficulty:** expert
+**Song:** Constant Motion | **Album:** Systematic Chaos (2007) | **BPM:** ~175 BPM | **Time:** 7/8 (mixed meter) | **Technique:** signature pattern | **Difficulty:** expert
 
 "Constant Motion" from Dream Theater's Systematic Chaos (2007) is one of the most demanding paradiddle showcases in progressive metal, and since Mike Mangini joined Dream Theater in 2010 he has made the song his own in the band's live sets — bringing his uniquely systematic, ambidextrous approach to material that perfectly showcases his pedagogical philosophy. The track is built around a relentless, high-speed paradiddle engine that operates in shifting metric groupings, with sections that move between 4/4 and 7/8 while maintaining a ferocious forward drive. When Mangini approaches this material, his ambidextrous technique takes on new dimensions — his ability to execute paradiddles with equal facility from either hand means that the 7/8 groupings never feel awkward or truncated. Instead they flow with the same inevitability as the 4/4 sections, unified by a mechanical precision that reflects years of deliberate symmetrical training.
 
@@ -106,7 +106,7 @@ What makes this a defining Mangini study is his insistence on mechanical evennes
 
 ## Bridges in the Sky 5-over-4 Polyrhythm
 
-**Song:** Bridges in the Sky | **Album:** A Dramatic Turn of Events (2011) | **BPM:** ~146 BPM | **Technique:** polyrhythm | **Difficulty:** expert
+**Song:** Bridges in the Sky | **Album:** A Dramatic Turn of Events (2011) | **BPM:** ~146 BPM | **Time:** 4/4 with 5-over-4 polyrhythmic groupings | **Technique:** polyrhythm | **Difficulty:** expert
 
 "Bridges in the Sky" is one of the spiritual centrepieces of A Dramatic Turn of Events, Dream Theater's first album with Mike Mangini, and its instrumental passages contain some of the most clearly articulated 5-over-4 polyrhythmic phrasing in the progressive metal canon. The song's structural sections are built around five-note rhythmic groupings that play against the underlying 4/4 pulse, creating a characteristic metric tension where the natural beat appears to shift position every five strokes before resolving back to the downbeat. This 5-over-4 hemiola — a technique embedded in progressive metal since the genre's earliest days — takes on a particular character in Mangini's hands because of his mathematical approach to subdivision. He does not approximate the feel of five against four but constructs it precisely, placing each stroke at its geometrically correct position within the combined twenty-beat cycle before resolution arrives.
 
@@ -133,7 +133,7 @@ Mangini's clinic materials address this kind of polyrhythmic construction with c
 
 ## Paralyzed 32nd-Note Fill Cascade
 
-**Song:** Paralyzed | **Album:** Distance Over Time (2019) | **BPM:** ~136 BPM | **Technique:** fills | **Difficulty:** expert
+**Song:** Paralyzed | **Album:** Distance Over Time (2019) | **BPM:** ~136 BPM | **Time:** 4/4 | **Technique:** fills | **Difficulty:** expert
 
 "Paralyzed" from Dream Theater's Distance Over Time (2019) is one of the most compact showcases of Mike Mangini's fill vocabulary in his studio catalogue — a mid-tempo progressive metal track where the instrumental sections open up space for his most controlled, dense passages of 32nd-note activity. Distance Over Time marked a deliberate return to a leaner, more direct sound for Dream Theater after the sprawling double album The Astonishing, and Mangini's drumming on the record reflects that directness: the fills are purposeful, deployed for maximum impact rather than maximum length. Nowhere is this more apparent than in "Paralyzed," where a key instrumental passage features a cascade of 32nd notes that is one of the densest fill moments in his studio work — and one that demonstrates how his world-record speed technique translates into a musical context without sacrificing shape.
 
@@ -171,4 +171,4 @@ Mike Mangini's style is defined by precision, timing, and genre-defining grooves
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

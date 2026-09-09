@@ -10,7 +10,7 @@ Navene Koperweis is one of Progressive Metal / Djent / Technical Death Metal's m
 
 ## Chemical Flashback Djent Assault
 
-**Song:** Chemical Flashback | **Album:** Primal (EP, 2015) | **BPM:** ~155 BPM | **Technique:** signature pattern | **Difficulty:** expert
+**Song:** Chemical Flashback | **Album:** Primal (EP, 2015) | **BPM:** ~155 BPM | **Time:** 4/4 (syncopated djent groupings) | **Technique:** signature pattern | **Difficulty:** expert
 
 Navene Koperweis introduced himself to the wider metal world through Entheos's debut EP Primal (2015), and "Chemical Flashback" was the first clear statement of what set him apart from the technical death metal field: an extreme, mathematically precise djent approach applied to the template of technical death metal, driven by a level of double-bass stamina and polyrhythmic execution that immediately placed him among the genre's most formidable players. The MEINL Cymbals playthrough, posted to their official channel, offers an unobstructed view of exactly what he does on the kit — and it is considerably more intricate than it sounds even on close listening. Fast, interlocking double-bass figures that ghost-lock to the guitar's djent rhythms, explosive snare accents placed with surgical precision at the ends of polyrhythmic phrases, and cymbal work that adds colour and definition without cluttering the dense rhythmic texture.
 
@@ -39,7 +39,7 @@ For students, "Chemical Flashback" is an advanced study in djent-influenced tech
 
 ## An End to Everything Technical Groove
 
-**Song:** An End to Everything | **Album:** An End to Everything (EP, 2024) | **BPM:** ~148 BPM | **Technique:** main groove | **Difficulty:** expert
+**Song:** An End to Everything | **Album:** An End to Everything (EP, 2024) | **BPM:** ~148 BPM | **Time:** 4/4 (shifting, melodic sections) | **Technique:** main groove | **Difficulty:** expert
 
 Entheos's "An End to Everything" from the 2024 EP of the same name marks a darker, more introspective turn for Navene Koperweis as a drummer — still technically demanding, but now married to a more melodic and atmospherically weighted direction that draws out a different dimension of his playing. The one-take drum performance posted to the ENTHEOS Official YouTube channel strips away the production and places the drumming under direct scrutiny, and what it reveals is a player who has continued to evolve well beyond the early djent template of the Primal EP. The groove is denser, the dynamic range is wider, and the interaction between the drum part and the rest of the arrangement is more compositionally sophisticated than anything in his earlier catalogue.
 
@@ -68,7 +68,7 @@ For students, "An End to Everything" is an instructive study in how technical me
 
 ## The Interior Wilderness Math-Metal Pattern
 
-**Song:** The Interior Wilderness | **Album:** Time Will Take Us All (2023) | **BPM:** ~145 BPM | **Technique:** signature pattern | **Difficulty:** expert
+**Song:** The Interior Wilderness | **Album:** Time Will Take Us All (2023) | **BPM:** ~145 BPM | **Time:** mixed meter (polyrhythmic) | **Technique:** signature pattern | **Difficulty:** expert
 
 "The Interior Wilderness" from Entheos's Time Will Take Us All (2023) is perhaps Navene Koperweis's most complete statement as a progressive-technical drummer — a track that draws on the full depth of his experience as a djent pioneer, a technical death metal specialist, and a musical producer, and channels it into one of the most intricate and musically satisfying drum performances of his career. The drum playthrough he posted to his own YouTube channel shows every aspect of his approach in unambiguous detail: the math-metal polyrhythmic foundation, the extreme precision of the double-bass work, the way the cymbal choices colour different sections, and the physical composure that allows him to sustain a demanding performance for an extended period without any perceptible fatigue.
 
@@ -108,4 +108,4 @@ Navene Koperweis's style is defined by precision, timing, and genre-defining gro
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

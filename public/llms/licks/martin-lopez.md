@@ -10,7 +10,7 @@ Martin Lopez is one of Progressive Metal / Progressive Death Metal's most influe
 
 ## Bleak Ghost Note Groove
 
-**Song:** Bleak | **Album:** Blackwater Park (2001) | **BPM:** ~96 BPM | **Technique:** main groove | **Difficulty:** advanced
+**Song:** Bleak | **Album:** Blackwater Park (2001) | **BPM:** ~96 BPM | **Time:** 4/4 (dynamic, atmospheric) | **Technique:** main groove | **Difficulty:** advanced
 
 Martin Lopez's drumming on Opeth's "Bleak" from Blackwater Park (2001) is one of the finest examples of jazz-influenced progressive metal drumming in the genre's history. Where most metal drummers would drive the song with power and aggression, Lopez approaches the track with a featherlight touch: his ghost notes are barely audible but omnipresent, filling the spaces between heavier accents with the kind of tasteful decoration you would expect from a jazz drummer rather than a metal player. The entire performance is built on dynamic contrast — verses breathe with delicate hi-hat work and whispering ghost notes, while heavier passages open into driving grooves with powerful snare hits and surging bass drum patterns that push the song forward without ever losing the underlying melodic sensitivity.
 
@@ -39,7 +39,7 @@ For drummers looking to expand their vocabulary beyond raw power and speed, "Ble
 
 ## The Drapery Falls Dynamic Architecture
 
-**Song:** The Drapery Falls | **Album:** Blackwater Park (2001) | **BPM:** ~90 BPM | **Technique:** signature pattern | **Difficulty:** advanced
+**Song:** The Drapery Falls | **Album:** Blackwater Park (2001) | **BPM:** ~90 BPM | **Time:** 4/4 (dynamic shifts, mixed passages) | **Technique:** signature pattern | **Difficulty:** advanced
 
 "The Drapery Falls" from Opeth's Blackwater Park (2001) is often cited as Martin Lopez's most comprehensive showcase on the album — a nine-minute journey that takes the listener from hushed acoustic folk through brooding atmospheric passages and into crushing metal, all without ever losing the sense of a single, sustained musical idea. What Lopez does on this track — and what makes it such an important study — is demonstrate that a metal drummer does not have to choose between the extremes of loud and quiet. He operates in the entire dynamic range simultaneously, adjusting his weight and touch measure by measure as the arrangement demands, from nearly inaudible acoustic playing to full-power metal drumming and back again, all within the same performance.
 
@@ -68,7 +68,7 @@ For students, "The Drapery Falls" is an advanced study in dynamic control, acous
 
 ## Antagonist Progressive Groove
 
-**Song:** Antagonist | **Album:** Imperial (2021) | **BPM:** ~112 BPM | **Technique:** main groove | **Difficulty:** advanced
+**Song:** Antagonist | **Album:** Imperial (2021) | **BPM:** ~112 BPM | **Time:** 4/4 (progressive, dynamic) | **Technique:** main groove | **Difficulty:** advanced
 
 "Antagonist" from Soen's Imperial (2021) represents Martin Lopez at his most refined — a performance that synthesises everything he has learned since leaving Opeth and distils it into a precisely crafted progressive metal groove that serves the song absolutely. Where his Opeth recordings are celebrated for their dynamic extremes, his work with Soen tends toward a kind of sustained, focused intensity: complex enough to reward attention, but always locked to the band's cinematic and emotionally direct sound. "Antagonist" is one of the finest examples of this approach, a track where the drumming is both highly musical and unmistakably Martin Lopez at every turn.
 
@@ -97,7 +97,7 @@ For drummers, "Antagonist" is a study in modern progressive metal groove playing
 
 ## Demon of the Fall Acoustic-to-Electric Opening
 
-**Song:** Demon of the Fall | **Album:** My Arms, Your Hearse (1998) | **BPM:** variable (~95 BPM, explosive fill into full tempo) | **Technique:** intro fill | **Difficulty:** advanced
+**Song:** Demon of the Fall | **Album:** My Arms, Your Hearse (1998) | **BPM:** variable (~95 BPM, explosive fill into full tempo) | **Time:** 4/4 (dynamic shift at fill point) | **Technique:** intro fill | **Difficulty:** advanced
 
 The opening of "Demon of the Fall" from Opeth's 1998 album My Arms, Your Hearse is one of the most dramatically effective drum performance moments in the entire Opeth catalogue — a controlled acoustic passage that explodes into a full-tempo metal groove through a single, perfectly timed fill that functions as the trigger for the band's transformation. Martin Lopez had only recently joined Opeth when this album was recorded, and the opening of "Demon of the Fall" demonstrates immediately the quality and instincts he brought to the group: the controlled atmospheric build, the sense of restrained power before release, and the ability to use a fill as a compositional event rather than a technical display.
 
@@ -124,7 +124,7 @@ For drummers, the acoustic-to-electric transition in "Demon of the Fall" is a st
 
 ## Blackwater Park Jazz Shuffle Groove
 
-**Song:** Blackwater Park | **Album:** Blackwater Park (2001) | **BPM:** ~92 BPM | **Technique:** main groove | **Difficulty:** advanced
+**Song:** Blackwater Park | **Album:** Blackwater Park (2001) | **BPM:** ~92 BPM | **Time:** 4/4 (jazz shuffle feel, triplet subdivision) | **Technique:** main groove | **Difficulty:** advanced
 
 The title track of Opeth's landmark 2001 album Blackwater Park features one of the most unusual and technically sophisticated groove choices in metal drumming: a jazz-influenced shuffle feel, applied to a progressive metal context in a way that creates a rhythmic character unique in the genre. Martin Lopez's jazz training — which he undertook seriously as a young drummer in Sweden — is nowhere more audible than in this groove, where the triplet subdivision of the ride cymbal and the swung 8th-note feel of the snare placement belong entirely to the jazz idiom, while the surrounding arrangement is unmistakably heavy metal.
 
@@ -151,7 +151,7 @@ For drummers, learning the Blackwater Park shuffle is a lesson in applying jazz 
 
 ## Deliverance Blast-Beat Section
 
-**Song:** Deliverance | **Album:** Deliverance (2002) | **BPM:** ~200 BPM (blast passages) | **Technique:** blast section | **Difficulty:** expert
+**Song:** Deliverance | **Album:** Deliverance (2002) | **BPM:** ~200 BPM (blast passages) | **Time:** 4/4 (with full blast passages) | **Technique:** blast section | **Difficulty:** expert
 
 The title track of Opeth's 2002 album Deliverance contains the most aggressive and technically demanding drumming Martin Lopez recorded with the band — an extended blast-beat section at around 200 BPM that exists in stark and deliberate contrast to the album's quieter twin release, Damnation. Opeth's dual-mode compositional approach, which the two albums embody most explicitly, gave Lopez the context to demonstrate the full range of his technique: the subtle, jazz-influenced dynamic playing of Damnation and the raw explosive power of Deliverance's title track blast section. That both sides of this duality are executed at the highest level by the same drummer on simultaneous releases is one of the most remarkable achievements in extreme metal drumming.
 
@@ -189,4 +189,4 @@ Martin Lopez's style is defined by precision, timing, and genre-defining grooves
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

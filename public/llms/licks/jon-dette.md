@@ -10,9 +10,9 @@ Jon Dette is one of Thrash Metal's most influential drummers, best known for the
 
 ## Killing Fields Thrash Engine
 
-**Song:** Killing Fields | **Album:** Divine Intervention (1994) | **BPM:** 182 BPM | **Technique:** main groove | **Difficulty:** advanced
+**Song:** Killing Fields | **Album:** Divine Intervention (1994 studio; performed live 1996-1997 tour) | **BPM:** 182 BPM | **Time:** 4/4 | **Technique:** main groove | **Difficulty:** advanced
 
-Jon Dette's machine-precise thrash engine on 'Killing Fields' from Slayer's 1994 album Divine Intervention defines his contribution to the band. As the first studio drummer to replace Dave Lombardo on a Slayer recording, Dette delivered a locked-in double bass and snare pattern that drove the mid-tempo groove without sacrificing aggression. His even 16th-note kick placement and ghost-note snare work reveal a thrash drummer whose technical discipline rivals his raw power, making this groove a masterclass in controlled thrash-metal authority.
+Jon Dette's machine-precise thrash engine on 'Killing Fields' came alive during his 1996-1997 stint filling in for Paul Bostaph on Slayer's touring lineup, bringing the Divine Intervention cut to life night after night. Dette delivered a locked-in double bass and snare pattern that drove the mid-tempo groove without sacrificing aggression. His even 16th-note kick placement and ghost-note snare work reveal a thrash drummer whose technical discipline rivals his raw power, making this groove a masterclass in controlled thrash-metal authority.
 
 ### How to Play
 
@@ -31,7 +31,7 @@ Jon Dette's machine-precise thrash engine on 'Killing Fields' from Slayer's 1994
 
 ## Serenity in Fire Thrash Groove
 
-**Song:** Serenity in Fire | **Album:** Divine Intervention (1994) | **BPM:** 175 BPM | **Technique:** main groove | **Difficulty:** advanced
+**Song:** Serenity in Fire | **Album:** Divine Intervention (1994) | **BPM:** 175 BPM | **Time:** 4/4 | **Technique:** main groove | **Difficulty:** advanced
 
 The thrash groove on 'Serenity in Fire' demonstrates Jon Dette's signature approach to Slayer's rhythmic vocabulary — punishing consistency across repeated 16th-note bass drum runs layered beneath a precise snare crack. Captured live on Slayer's 1996 tour, Dette's interpretation of this Divine Intervention track reveals how his academic thrash background meshes with Slayer's confrontational aggression. The controlled velocity of each stroke shows a drummer thinking as much about endurance as impact, a prerequisite for any musician playing full Slayer sets night after night.
 
@@ -52,7 +52,7 @@ The thrash groove on 'Serenity in Fire' demonstrates Jon Dette's signature appro
 
 ## Postmortem Precision Attack
 
-**Song:** Postmortem | **Album:** Reign in Blood (1986) | **BPM:** 190 BPM | **Technique:** main groove | **Difficulty:** expert
+**Song:** Postmortem | **Album:** Reign in Blood (1986) | **BPM:** 190 BPM | **Time:** 4/4 | **Technique:** main groove | **Difficulty:** expert
 
 Jon Dette's take on 'Postmortem' from Reign in Blood—originally played by Dave Lombardo—strips the pattern to its essential thrash mechanism and rebuilds it with Det te's characteristic precision and even attack. In his Big 4 tribute performance, the groove reveals how Dette approaches classic Slayer material: every kick stroke metered, every snare crack placed without hesitation. Learning this lick teaches the difference between raw aggression and controlled thrash — the ability to play fast while maintaining total accuracy at near 200 BPM.
 
@@ -84,4 +84,4 @@ Jon Dette's style is defined by precision, timing, and genre-defining grooves. K
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

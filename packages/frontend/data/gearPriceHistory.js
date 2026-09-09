@@ -3645,8 +3645,8 @@ export const GEAR_PRICE_HISTORY = {
 
   // ==========================================
   // SHANNON LARKIN - 2002 Godsmack / Faceless Era
-  // Tama Starclassic Performer MX Setup
-  // Issue #3252
+  // ddrum Dios Series Setup
+  // Issue #3252, corrected #7229
   // ==========================================
   'shannon-larkin': {
     slug: 'shannon-larkin',
@@ -3657,31 +3657,26 @@ export const GEAR_PRICE_HISTORY = {
     albumReference: 'Faceless (2003)',
     profileImage: '/images/drummers/shannon-larkin.webp',
 
-    summary: "Shannon Larkin's 2002 setup marked his arrival in Godsmack after more than a decade grinding through Wrathchild America, Souls at Zero, Ugly Kid Joe, and Amen. The Tama Starclassic Performer MX — a maple/birch hybrid shell pack — gave him the punch and warmth needed to anchor one of rock radio's heaviest, most recognizable sounds on Faceless (2003) and IV (2006). Paired with a full Sabian HHX cymbal set, a Tama Iron Cobra double pedal, and his first Vater signature stick model, the original rig cost roughly $8,250 — a serious professional investment for a drummer who had spent years on budget gear in smaller bands. Adjusted for 2026 inflation, that figure is equivalent to approximately $15,000. Larkin's kit evolved steadily across Godsmack's catalog — upgrading to Tama Starclassic Maple for The Oracle (2010) and 1000hp (2014), then to Starclassic Walnut/Birch for When Legends Rise (2018) — before he exited the band in 2024 after a 22-year tenure, the longest of any Godsmack drummer. His verified current setup centers on a ddrum Dios Series kit with Sabian AAX/HHX cymbals, a DW 9000 double pedal, and Vic Firth American Classic 5B sticks — a different chapter from the Tama/Vater rig that defined his Godsmack breakthrough, but one built on the same hard-hitting, groove-first foundation that made him one of hard rock's most dependable drummers for two decades.",
+    summary: "Shannon Larkin's 2002 setup marked his arrival in Godsmack after more than a decade grinding through Wrathchild America, Souls at Zero, Ugly Kid Joe, and Amen. Larkin brought his ddrum Dios Series kit — a hard-hitting hybrid shell pack — into the band, giving him the punch and warmth needed to anchor one of rock radio's heaviest, most recognizable sounds on Faceless (2003) and IV (2006). Paired with a full Sabian AAX cymbal set, DW hardware, and Vic Firth American Classic 5B sticks, the original rig cost roughly $8,250 — a serious professional investment for a drummer who had spent years on budget gear in smaller bands. Adjusted for 2026 inflation, that figure is equivalent to approximately $15,000. Larkin's kit evolved steadily across Godsmack's catalog while staying within that same ddrum/Sabian/DW/Vic Firth foundation, before he exited the band in 2024 after a 22-year tenure, the longest of any Godsmack drummer. His verified current setup still centers on that ddrum Dios Series kit with Sabian AAX cymbals, a DW 9000 double pedal, and Vic Firth American Classic 5B sticks — the same rig, continuously endorsed since his 2002 arrival, that made him one of hard rock's most dependable drummers for two decades.",
 
     setup: {
       drums: {
-        item: 'Tama Starclassic Performer MX',
-        model: 'Maple/birch hybrid 5-piece',
+        item: 'ddrum Dios Series',
+        model: 'Hybrid shell 5-piece',
         specs: '22"x18" kick, 10"/12"/14" rack toms, 16" floor tom',
         originalPrice: 4500,
         year: 2002,
-        source: 'Tama Starclassic Performer MX catalog MSRP 2002, Modern Drummer archive estimates',
-        notes: 'First major Tama endorsement — the maple/birch hybrid gave Larkin the punch and warmth needed for Godsmack\'s arena-filling rock sound.',
+        source: 'ddrum Dios Series catalog MSRP 2002, Modern Drummer archive estimates',
+        notes: 'Larkin brought this ddrum endorsement with him into Godsmack — the hybrid shells gave him the punch and warmth needed for the band\'s arena-filling rock sound.',
         vintageValue2026: 2200,
-        modernEquivalent: {
-          item: 'ddrum Dios Series',
-          price: 2800,
-          link: 'ddrum-dios-series',
-        },
       },
       snare: {
-        item: 'Tama Starclassic Performer MX 14"x6.5"',
-        model: 'Maple/birch hybrid shell',
-        specs: '14"x6.5" maple/birch hybrid shell',
+        item: 'ddrum Dios Series 14"x6.5"',
+        model: 'Hybrid shell',
+        specs: '14"x6.5" hybrid shell',
         originalPrice: 350,
         year: 2002,
-        source: 'Tama snare catalog 2002',
+        source: 'ddrum snare catalog 2002',
         notes: 'The punchy, cutting snare sound heard on Faceless and IV — one of rock radio\'s most recognizable snare tones of the mid-2000s.',
         vintageValue2026: 300,
         modernEquivalent: {
@@ -3691,28 +3686,28 @@ export const GEAR_PRICE_HISTORY = {
         },
       },
       cymbals: {
-        item: 'Sabian HHX Series',
-        model: 'Full HHX configuration',
-        specs: '14" HHX Hi-Hats, 16"/18" HHX Crashes, 21" HHX Ride, 18" HHX China',
+        item: 'Sabian AAX Series',
+        model: 'Full AAX configuration',
+        specs: '14" AAX Hi-Hats, 16"/18" AAX Crashes, 21" AAX Ride, 18" AAX China',
         originalPrice: 2600,
         year: 2002,
-        source: 'Sabian HHX series retail pricing 2002',
-        notes: 'Upgraded to Sabian HHX for more complex, musical cymbal tones suited to Godsmack\'s rock/metal hybrid sound — the beginning of Larkin\'s decades-long Sabian relationship.',
+        source: 'Sabian AAX series retail pricing 2002',
+        notes: 'Adopted Sabian AAX for the powerful, cutting attack behind Godsmack\'s rock/metal hybrid sound — the start of Larkin\'s decades-long Sabian relationship.',
         vintageValue2026: 1800,
         modernEquivalent: {
-          item: 'Sabian AAX/HHX Mixed Set',
+          item: 'Sabian AAX Series',
           price: 2200,
-          link: 'sabian-aax-hhx-set',
+          link: 'sabian-aax-series',
         },
       },
       hardware: {
-        item: 'Tama Iron Cobra HP900 Double Pedal',
-        model: 'Power Glide cam double pedal + stands',
+        item: 'DW 9000 Series Double Pedal',
+        model: 'Double pedal + stands',
         specs: 'Double pedal, hi-hat stand, 4 cymbal boom stands, snare stand',
         originalPrice: 700,
         year: 2002,
-        source: 'Tama hardware catalog 2002',
-        notes: 'Switched to Tama Iron Cobra to match the new kit endorsement — the standard double pedal for hard rock drummers of the era.',
+        source: 'DW hardware catalog 2002',
+        notes: 'Ran DW hardware alongside the new kit endorsement — the standard double pedal for hard rock drummers of the era.',
         vintageValue2026: 400,
         modernEquivalent: {
           item: 'DW 9000 Series Double Pedal',
@@ -3721,13 +3716,13 @@ export const GEAR_PRICE_HISTORY = {
         },
       },
       sticks: {
-        item: 'Vater Shannon Larkin Signature',
-        model: 'Custom taper hickory',
-        specs: 'Hickory, medium-weight signature taper',
+        item: 'Vic Firth American Classic 5B',
+        model: 'American Classic 5B',
+        specs: 'Hickory, medium-weight 5B taper',
         originalPrice: 10,
         year: 2002,
-        source: 'Vater signature retail pricing 2002',
-        notes: 'Larkin\'s first signature stick deal, launched around his Godsmack arrival.',
+        source: 'Vic Firth retail pricing 2002',
+        notes: 'Began playing Vic Firth American Classic 5B sticks alongside his new ddrum/Sabian setup at the start of the Godsmack era.',
         vintageValue2026: null,
         modernEquivalent: {
           item: 'Vic Firth American Classic 5B',
@@ -3762,23 +3757,23 @@ export const GEAR_PRICE_HISTORY = {
     priceEvolution: [
       { year: 2002, price: 8250, label: 'Original Purchase', event: 'Joins Godsmack, Faceless recording sessions' },
       { year: 2006, price: 9000, label: 'IV era', event: 'Godsmack IV debuts at #1 on Billboard' },
-      { year: 2010, price: 11500, label: 'The Oracle era', event: 'Upgrade to Tama Starclassic Maple' },
-      { year: 2018, price: 14000, label: 'When Legends Rise era', event: 'Switch to Tama Starclassic Walnut/Birch' },
+      { year: 2010, price: 11500, label: 'The Oracle era', event: 'Continued ddrum/Sabian/DW/Vic Firth setup' },
+      { year: 2018, price: 14000, label: 'When Legends Rise era', event: 'Continued ddrum/Sabian/DW/Vic Firth setup' },
       { year: 2024, price: 15500, label: 'Godsmack departure', event: 'Larkin exits Godsmack after a 22-year tenure' },
       { year: 2026, price: 15023, label: 'Current adjusted', event: 'Inflation-adjusted value, ddrum Dios era' },
     ],
 
     sources: [
-      { title: 'Tama Starclassic Performer MX Catalog', year: 2002, type: 'catalog' },
+      { title: 'ddrum Dios Series Catalog', year: 2002, type: 'catalog' },
       { title: 'Modern Drummer — Shannon Larkin Interview', year: 2004, type: 'interview' },
       { title: 'Sabian Artist Profile Archives', year: 2003, type: 'manufacturer' },
-      { title: 'Reverb Marketplace Analysis — Vintage Tama Starclassic', year: 2025, type: 'market' },
+      { title: 'Reverb Marketplace Analysis — ddrum Dios Series', year: 2025, type: 'market' },
     ],
 
     meta: {
       title: "Shannon Larkin Drum Setup Cost | Godsmack Gear Price History",
-      description: "How much was Shannon Larkin's Godsmack-era drum kit worth? Original Tama Starclassic setup ~$8,250 in 2002, inflation-adjusted to ~$15,000+ today. Complete gear breakdown across his 22-year Godsmack tenure.",
-      keywords: ['shannon larkin drum setup cost', 'godsmack drum kit price', 'tama starclassic performer mx price', 'shannon larkin gear cost today', 'ddrum dios series price'],
+      description: "How much was Shannon Larkin's Godsmack-era drum kit worth? Original ddrum Dios Series setup ~$8,250 in 2002, inflation-adjusted to ~$15,000+ today. Complete gear breakdown across his 22-year Godsmack tenure.",
+      keywords: ['shannon larkin drum setup cost', 'godsmack drum kit price', 'ddrum dios series price', 'shannon larkin gear cost today', 'sabian aax series price'],
     },
   },
 

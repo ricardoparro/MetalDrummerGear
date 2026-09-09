@@ -1,6 +1,7 @@
 # Sabian HHX Series Cymbals
 
 **Category:** cymbals | **Brand:** Sabian
+**Price:** €2,200 / $2,376
 
 ---
 
@@ -38,4 +39,4 @@ A: Tomas Haake, Mike Portnoy use the Sabian HHX Series Cymbals.
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

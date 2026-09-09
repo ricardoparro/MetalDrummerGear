@@ -1,6 +1,7 @@
 # Paiste RUDE Series Cymbals
 
 **Category:** cymbals | **Brand:** Paiste
+**Price:** €2,000 / $2,160
 
 ---
 
@@ -40,4 +41,4 @@ A: Joey Jordison, Dave Lombardo, Charlie Benante, Inferno use the Paiste RUDE Se
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

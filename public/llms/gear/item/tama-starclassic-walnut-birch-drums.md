@@ -1,6 +1,7 @@
 # Tama Starclassic Walnut/Birch Drums
 
 **Category:** drums | **Brand:** Tama
+**Price:** €3,800 / $4,104
 
 ---
 
@@ -39,4 +40,4 @@ A: Gene Hoglan, Mario Duplantier, Brann Dailor use the Tama Starclassic Walnut/B
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

@@ -197,6 +197,17 @@ function renderList(list) {
     parts.push('');
   }
 
+  // FAQ (Issue #7222): render the list's own curated faq array verbatim.
+  if (Array.isArray(list.faq) && list.faq.length > 0) {
+    parts.push('### Frequently Asked Questions');
+    parts.push('');
+    list.faq.forEach(({ question, answer }) => {
+      parts.push(`**Q: ${question}**`);
+      parts.push(`A: ${answer}`);
+      parts.push('');
+    });
+  }
+
   // Related lists cross-links
   if (Array.isArray(list.relatedLists) && list.relatedLists.length > 0) {
     parts.push('### Related Lists');

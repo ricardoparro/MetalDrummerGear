@@ -51,7 +51,7 @@ const beginnerContent = fs.readFileSync(beginnerPath, 'utf-8');
 // Strip the AFFILIATE_LINKS const and its references so eval works cleanly
 const beginnerStripped = beginnerContent
   .replace(/^const AFFILIATE_LINKS[\s\S]*?^};\n/m, '')
-  .replace(/AFFILIATE_LINKS\.[a-zA-Z.[\]']+/g, '"#"');
+  .replace(/AFFILIATE_LINKS\.[a-zA-Z0-9.[\]']+/g, '"#"');
 
 const beginnerMatch = beginnerStripped.match(/export const BEGINNER_GUIDES\s*=\s*(\{[\s\S]*?\n\});\s*\n/);
 if (!beginnerMatch) {
@@ -193,6 +193,17 @@ function renderSoundLikeGuide(g) {
     }
   }
 
+  // FAQ (Issue #7222): render the guide's own curated faq array verbatim.
+  if (Array.isArray(g.faq) && g.faq.length > 0) {
+    parts.push('### Frequently Asked Questions');
+    parts.push('');
+    g.faq.forEach(({ question, answer }) => {
+      parts.push(`**Q: ${question}**`);
+      parts.push(`A: ${answer}`);
+      parts.push('');
+    });
+  }
+
   return parts.join('\n');
 }
 
@@ -204,6 +215,18 @@ function renderBeginnerGuide(g) {
   parts.push('');
   parts.push(g.description || '');
   parts.push('');
+
+  // FAQ (Issue #7222): render the guide's own curated faq array verbatim.
+  if (Array.isArray(g.faq) && g.faq.length > 0) {
+    parts.push('### Frequently Asked Questions');
+    parts.push('');
+    g.faq.forEach(({ question, answer }) => {
+      parts.push(`**Q: ${question}**`);
+      parts.push(`A: ${answer}`);
+      parts.push('');
+    });
+  }
+
   return parts.join('\n');
 }
 

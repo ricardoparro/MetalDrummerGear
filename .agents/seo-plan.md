@@ -8181,3 +8181,45 @@ Filed all 7 candidates surfaced by both agents this run — no padding needed, n
 2. `gearPriceHistory.js` per-drummer audit vein remains productive — 4 more lower-confidence leads flagged but not yet independently verified: Charlie Benante (Sabian vs. verified Paiste), Mikkey Dee (Pearl/Vic Firth vs. verified Sonor/Wincent), Hannes Grossmann (DW vs. verified Tama pre-2014), Raymond Herrera (Pearl vs. verified Tama Starclassic for 1995 Demanufacture). Candidates for next pass if the bank needs topping up.
 3. Generator field-gap vein (the productive class since #3651) may finally be exhausted after this run closes #7233-7235 — if the next pass's research agent can't find a 4th fresh generator/field combo, treat that as a signal to pivot fully back to content-fabrication sweeps.
 4. GSC content-gap queries unchanged/held — no re-litigation needed until a fresh query enters the ≥50-impr/CTR<2% bucket.
+
+---
+
+## 2026-09-09 (run ~21:30 UTC) — 8 proposals filed (#7244-7251): pivoted to a fresh generator-audit vein (bands/gear-series/drumsticks/genre-guides/endorsement-news/seoKeywords)
+
+### Bank check
+Open `seo-proposal` at run start: 10, but true untriaged (excl. the 3 standing umbrellas #2211/#3810/#3819 AND anything already `ai-fix`-labeled) = **0** — the 7 non-umbrella issues (#7229-7235) were already promoted per the 20:26 UTC CEO evening review. Well under 45 → cleared to file up to 8 net-new. Metrics 21:21 UTC (330 users/365 sessions/528 views 7d; GSC 8,178 impr/186 clicks/2.27% CTR/pos 8.2 — same GSC window all week). robots.txt: ✅ all 8 AI crawlers explicitly allowed. Content-gap queries (`flo mounier` 93 impr/1.08% CTR, `joey jordison drum set` 78 impr/1.28% CTR) both re-confirmed the extensively-documented class-2 bare-name/oscillator pattern (learned-patterns.md line 205/211) — held, no new fix. Today is Wednesday — drum-chair watch not due (next due Monday 2026-09-14).
+
+### Research approach
+Per the prior run's own note ("generator field-gap vein may finally be exhausted... if the next pass can't find a 4th fresh combo, pivot"), dispatched 3 parallel research agents across 19 generators nobody had audited this week (`generate-llms-bands-per-slug`, `-cymbals-brands`, `-cymbals-setups`, `-drumsticks*` ×3, `-endorsement-news`, `-endorsements`, `-gear-guide`, `-gear-history`, `-gear-insights`, `-gear-news`, `-gear-series`, `-genre-gear-guides`, `-lists-per-slug`, `-pedals`, `-snares-brands`, `-snares-signature`, `-techniques-per-slug`) rather than continuing to mine the already-heavily-picked `gearPriceHistory.js`/`albumArticles.js` fabrication vein. Found gaps in 8 of 19 — the vein is not exhausted, it just needed a wider net (most-recently-added/least-central generators hadn't been swept yet). Personally re-verified every candidate via direct grep/node before filing (all 8 confirmed real; ruled out 11 false positives the agents also flagged, e.g. internal-id fields, already-rendered-under-different-name fields, and fields absent from both the generator AND the live page with no sibling precedent to justify filing). Cross-checked #5020 (closed, claimed to cover `gearPriceHistory.js`'s `priceEvolution`+`sources`) against live code — only `sources` actually shipped; `priceEvolution` is a genuine surviving gap, not a re-file, and #7245's body explains the distinction so the CEO doesn't reject it as duplicate-of-closed.
+
+**Filed (8):**
+- **#7244** — `generate-llms-gear-series.cjs` never imports `GEAR_INDEX_BRAND_LEVEL` (added in #3714 for Evans/Remo) — 2 brands/55 drummers have live sitemapped `/gear/<brand>/drummers-using` pages with zero `/llms` mirror. Structural gap, highest-priority of the batch.
+- **#7245** — `generate-llms-gear-history.cjs` never renders `priceEvolution` (71/71 drummers) — live-rendered as chart+timeline on `GearPriceHistoryPage.js`; distinguishes itself from #5020's already-shipped `sources` fix.
+- **#7246** — `generate-llms-gear-guide.cjs` + `generate-llms-gear-insights.cjs` both skip the top-level `endorsements` field (72/72) plus `gear.snare`/`gear.heads` sub-categories (69/72, 57/72) — filed as one batch (shared root cause across 2 generators).
+- **#7247** — `generate-llms-bands-per-slug.cjs` never renders `relatedBands` (40/47 bands, live-rendered on band detail page).
+- **#7248** — `generate-llms-drumsticks-signature.cjs` + `generate-llms-drumsticks.cjs` both skip `priceBand` (30/32) and `relatedArticles` (2/32) — filed as one batch.
+- **#7249** — `generate-llms-genre-gear-guides.cjs` ignores `featuredDrummers` (212/278) and `relatedComparisons` (121/278), both structurally identical to sibling fields (`relatedDrummers`/`relatedArticles`) the same generator already renders.
+- **#7250** — `generate-llms-endorsement-news.cjs` never renders `impact` (5/5 entries) — noted this is dead site-wide (live page also skips it), filed anyway as a low-cost additive fix.
+- **#7251** — `generate-llms-lists-per-slug.cjs` + `generate-llms-techniques-per-slug.cjs` both skip `seoKeywords` (18/97, 29/29) despite the live site using the same field for `<meta name="keywords">`/JSON-LD — filed as one batch.
+
+All 8 verified-only, additive generator fixes on existing `/llms/**` output files — zero new pages/URLs, freeze-compliant (Rule 3, LLM-citation priority).
+
+### Proposals filed this run (8)
+1. #7244 — SEO: generate-llms-gear-series.cjs never reads GEAR_INDEX_BRAND_LEVEL — Evans/Remo drummer-using pages have zero /llms mirror
+2. #7245 — SEO: generate-llms-gear-history.cjs never renders priceEvolution — 71/71 drummers have the narrative data, only 'sources' got fixed in #5020
+3. #7246 — SEO batch: generate-llms-gear-guide.cjs + generate-llms-gear-insights.cjs never render endorsements (72/72 drummers, shown live in 3 components)
+4. #7247 — SEO: generate-llms-bands-per-slug.cjs never renders relatedBands (40/47 bands, live-rendered on band detail page)
+5. #7248 — SEO batch: generate-llms-drumsticks-signature.cjs + generate-llms-drumsticks.cjs never render priceBand or relatedArticles (30/32 sticks, live-rendered on signature stick page)
+6. #7249 — SEO batch: generate-llms-genre-gear-guides.cjs ignores populated featuredDrummers (212/278) and relatedComparisons (121/278) arrays
+7. #7250 — SEO: generate-llms-endorsement-news.cjs never renders the impact field (5/5 entries populated)
+8. #7251 — SEO batch: generate-llms-lists-per-slug.cjs + generate-llms-techniques-per-slug.cjs never render seoKeywords, already used for live meta/JSON-LD keywords
+
+### Open proposals waiting on CEO triage
+- #7244-7251 (this run, 8 fresh)
+- #3810/#3819/#2211 (standing umbrellas)
+
+### Next run
+1. Watch #7244-7251 through CEO triage.
+2. This run confirmed the generator-gap vein isn't exhausted, just needed a wider net — remaining unaudited generators for a future pass: `generate-llms-full.cjs`, `-gear-comparisons.cjs` (already has an open fix, #7209), `-index.cjs`, `-drum-chair-changes.cjs`, `-songs-per-slug.cjs`, `-stats.cjs`, `-studies.cjs`, `-vs.cjs` (has open fix), `-comparisons.cjs`, `-licks*` (has open fixes). Worth a dedicated pass once #7244-7251 clear triage.
+3. `gearPriceHistory.js`/`albumArticles.js` fabrication vein still has 4 unverified leads queued from the 16:57 UTC run (Charlie Benante, Mikkey Dee, Hannes Grossmann, Raymond Herrera) — available if the bank needs topping up and the generator vein runs dry first.
+4. GSC content-gap queries unchanged/held — no re-litigation needed until a fresh query enters the ≥50-impr/CTR<2% bucket.

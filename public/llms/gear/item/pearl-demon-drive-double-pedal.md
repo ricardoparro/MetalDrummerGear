@@ -1,6 +1,7 @@
 # Pearl Demon Drive Double Pedal
 
 **Category:** hardware | **Brand:** Pearl
+**Price:** €550 / $594
 
 ---
 
@@ -40,4 +41,4 @@ A: Joey Jordison, Dave Lombardo, Matt Halpern, Inferno use the Pearl Demon Drive
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

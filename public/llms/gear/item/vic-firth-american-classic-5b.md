@@ -1,6 +1,7 @@
 # Vic Firth American Classic 5B Drumsticks
 
 **Category:** sticks | **Brand:** Vic Firth
+**Price:** €12 / $13
 
 ---
 
@@ -40,4 +41,4 @@ A: Gene Hoglan, Dave Lombardo, Vinnie Paul, Hellhammer use the Vic Firth America
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

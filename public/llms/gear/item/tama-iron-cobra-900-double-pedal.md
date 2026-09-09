@@ -1,6 +1,7 @@
 # Tama Iron Cobra 900 Power Glide Double Pedal
 
 **Category:** hardware | **Brand:** Tama
+**Price:** €450 / $486
 
 ---
 
@@ -42,4 +43,4 @@ A: Lars Ulrich, Gene Hoglan, Eloy Casagrande, Mario Duplantier, Brann Dailor, Mi
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

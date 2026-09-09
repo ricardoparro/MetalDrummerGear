@@ -70,6 +70,11 @@ function buildMarkdown(item) {
   parts.push(`# ${item.name}`);
   parts.push('');
   parts.push(`**Category:** ${item.category} | **Brand:** ${item.brand}`);
+  if (item.priceEur || item.priceUsd) {
+    const eur = item.priceEur ? `€${item.priceEur.toLocaleString()}` : '';
+    const usd = item.priceUsd ? `$${item.priceUsd.toLocaleString()}` : '';
+    parts.push(`**Price:** ${[eur, usd].filter(Boolean).join(' / ')}`);
+  }
   parts.push('');
   parts.push('---');
   parts.push('');

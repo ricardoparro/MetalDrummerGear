@@ -1,6 +1,7 @@
 # Meinl Byzance Series Cymbals
 
 **Category:** cymbals | **Brand:** Meinl
+**Price:** €2,400 / $2,592
 
 ---
 
@@ -41,4 +42,4 @@ A: Mario Duplantier, Brann Dailor, Chris Adler, Matt Halpern, Hellhammer use the
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

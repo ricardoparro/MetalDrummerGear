@@ -1,6 +1,7 @@
 # Sonor SQ2 Heavy Beech Drums
 
 **Category:** drums | **Brand:** Sonor
+**Price:** €5,500 / $5,940
 
 ---
 
@@ -39,4 +40,4 @@ A: Tomas Haake, Danny Carey, Hellhammer use the Sonor SQ2 Heavy Beech Drums.
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

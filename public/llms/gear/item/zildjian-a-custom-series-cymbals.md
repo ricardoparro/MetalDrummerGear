@@ -1,6 +1,7 @@
 # Zildjian A Custom Series Cymbals
 
 **Category:** cymbals | **Brand:** Zildjian
+**Price:** €2,200 / $2,376
 
 ---
 
@@ -40,4 +41,4 @@ A: Lars Ulrich, Gene Hoglan, George Kollias, Jay Weinberg use the Zildjian A Cus
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

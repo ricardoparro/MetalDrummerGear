@@ -1,6 +1,7 @@
 # Pearl Reference Series Drums
 
 **Category:** drums | **Brand:** Pearl
+**Price:** €3,500 / $3,780
 
 ---
 
@@ -39,4 +40,4 @@ A: Dave Lombardo, Ray Luzier, Matt Halpern use the Pearl Reference Series Drums.
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

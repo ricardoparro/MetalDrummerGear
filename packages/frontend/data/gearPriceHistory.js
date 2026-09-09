@@ -7539,17 +7539,17 @@ export const GEAR_PRICE_HISTORY = {
     albumReference: 'Weightless (2011)',
     profileImage: '/images/drummers/navene-koperweis.webp',
 
-    summary: "Navene Koperweis's 2012 setup behind Animals as Leaders' Weightless touring cycle documents the rig that carried one of progressive metal's most technically adventurous drummers through his highest-profile tenure to date. Joining the instrumental djent pioneers as they toured behind Weightless — an album whose polyrhythmic, palm-muted riffing demanded surgical precision from whoever sat behind the kit — Koperweis built his rig around a DW Performance Series maple shell pack paired with a DW Performance steel snare and a five-piece Meinl Byzance Extra Dry cymbal spread. The complete rig cost approximately $6,028 in 2012 dollars, equivalent to roughly $8,601 today after inflation. Koperweis left Animals as Leaders in 2014, replaced by Matt Garstka, and went on to found the progressive metal outfit Entheos while continuing his prolific work as a producer and multi-instrumentalist. What made his Animals as Leaders-era rig distinctive was its restraint: rather than the sprawling double-kick configurations common among his technical-metal peers, Koperweis favored a compact, articulate five-piece kit built for clarity in dense, layered mixes — a philosophy that carried directly into the DW/Meinl setup he still favors with Entheos today.",
+    summary: "Navene Koperweis's 2012 setup behind Animals as Leaders' Weightless touring cycle documents the rig that carried one of progressive metal's most technically adventurous drummers through his highest-profile tenure to date. Joining the instrumental djent pioneers as they toured behind Weightless — an album whose polyrhythmic, palm-muted riffing demanded surgical precision from whoever sat behind the kit — Koperweis built his rig around a Tama Birch Silverstar shell pack paired with a five-piece Meinl Byzance Extra Dry cymbal spread; the DW Performance Series kit he's known for today didn't arrive until 2015, when he signed with DW after leaving Animals as Leaders and founding Entheos. The complete rig cost approximately $6,028 in 2012 dollars, equivalent to roughly $8,601 today after inflation. Koperweis left Animals as Leaders in 2014, replaced by Matt Garstka, and went on to found the progressive metal outfit Entheos while continuing his prolific work as a producer and multi-instrumentalist. What made his Animals as Leaders-era rig distinctive was its restraint: rather than the sprawling double-kick configurations common among his technical-metal peers, Koperweis favored a compact, articulate five-piece kit built for clarity in dense, layered mixes — a philosophy that carried directly into the DW/Meinl setup he still favors with Entheos today.",
 
     setup: {
       drums: {
-        item: 'DW Performance Series',
-        model: 'Maple 5-piece shell pack',
-        specs: '22"x18" bass drum, 10"x8" rack, 12"x9" rack, 14"x12" rack, 16"x14" floor — all-maple shells',
+        item: 'Tama Birch Silverstar',
+        model: 'Birch 5-piece shell pack',
+        specs: '22"x18" bass drum, 10"x8" rack, 12"x9" rack, 14"x12" rack, 16"x14" floor — all-birch shells',
         originalPrice: 3200,
         year: 2012,
-        source: 'DW Performance Series catalog MSRP 2012',
-        notes: "Koperweis favored the compact, articulate DW Performance configuration for the clarity it gave his intricate, palm-muted fills against Animals as Leaders' dense guitar layering.",
+        source: 'Tama Birch Silverstar catalog MSRP 2012',
+        notes: "Koperweis favored the compact, articulate Tama Birch Silverstar configuration for the clarity it gave his intricate, palm-muted fills against Animals as Leaders' dense guitar layering. He didn't sign with DW until 2015, after leaving the band and forming Entheos.",
         vintageValue2026: 2400,
         modernEquivalent: {
           item: 'DW Performance Series (Current Configuration)',
@@ -7642,15 +7642,14 @@ export const GEAR_PRICE_HISTORY = {
     },
 
     priceEvolution: [
-      { year: 2011, price: 5200, label: 'Pre-AAL', event: 'Playing a DW-endorsed rig prior to joining Animals as Leaders' },
-      { year: 2012, price: 6028, label: 'Original Purchase', event: 'Weightless touring cycle — full DW Performance / Meinl Byzance rig documented' },
+      { year: 2012, price: 6028, label: 'Original Purchase', event: 'Weightless touring cycle — full Tama Birch Silverstar / Meinl Byzance rig documented' },
       { year: 2014, price: 6400, label: 'Departs Animals as Leaders', event: 'Left the band; replaced by Matt Garstka' },
-      { year: 2015, price: 6600, label: 'Forms Entheos', event: 'Carried the DW / Meinl configuration into his new progressive metal project' },
+      { year: 2015, price: 6600, label: 'Forms Entheos', event: 'Formed Entheos and signed with DW Performance Series, moving on from the Tama Birch Silverstar kit he played throughout his Animals as Leaders tenure' },
       { year: 2026, price: 8601, label: 'Current adjusted', event: 'Inflation-adjusted value of the 2012 Weightless-era setup' },
     ],
 
     sources: [
-      { title: 'DW Drums Artist Page — Navene Koperweis', year: 2012, type: 'manufacturer' },
+      { title: 'Tama Drums Artist Page — Navene Koperweis', year: 2012, type: 'manufacturer' },
       { title: 'Meinl Byzance Cymbals Artist Roster', year: 2012, type: 'manufacturer' },
       { title: 'Drumeo — Navene Koperweis Progressive Metal Drumming Feature', year: 2013, type: 'interview' },
       { title: 'Reverb Price Guide — DW Performance Series', year: 2025, type: 'market' },
@@ -7658,8 +7657,8 @@ export const GEAR_PRICE_HISTORY = {
 
     meta: {
       title: "Navene Koperweis Drum Setup Cost | Animals as Leaders Weightless Gear Price History",
-      description: "How much did Navene Koperweis's 2012 Animals as Leaders drum kit cost? Original ~$6,028, inflation-adjusted to ~$8,601 today. Complete DW Performance Series breakdown from the Weightless era.",
-      keywords: ['navene koperweis drum setup cost', 'animals as leaders drummer gear history', 'navene koperweis dw performance series', 'weightless drum kit price', 'navene koperweis gear cost today', 'navene koperweis drummer gear'],
+      description: "How much did Navene Koperweis's 2012 Animals as Leaders drum kit cost? Original ~$6,028, inflation-adjusted to ~$8,601 today. Complete Tama Birch Silverstar breakdown from the Weightless era.",
+      keywords: ['navene koperweis drum setup cost', 'animals as leaders drummer gear history', 'navene koperweis tama birch silverstar', 'weightless drum kit price', 'navene koperweis gear cost today', 'navene koperweis drummer gear'],
     },
   },
 

@@ -1013,7 +1013,7 @@ export const GEAR_PRICE_HISTORY = {
     albumReference: 'Chaosphere (1998)',
     profileImage: '/images/drummers/tomas-haake.webp',
 
-    summary: "Tomas Haake's 1998 Chaosphere-era setup — the kit behind one of extreme metal's most disorienting and technically demanding albums. Running an intermediate Tama shell pack with Sabian B8 Pro cymbals and a DW 5002 double pedal, Haake executed the polymetric, offset-grid drumming patterns that would define Meshuggah's 'djent' blueprint for a generation. The stripped-down, budget-conscious configuration contrasts sharply with the extreme complexity of what he played on it. The setup cost approximately $2,315 in 1998 dollars — equivalent to around $4,650 in 2026. By the ÖBZen era (2008), Haake had moved to Tama Starclassic Maple with Meinl Byzance cymbals, and the cost of replicating the full rig had grown by over 150%. Few drummers demonstrate so stark a contrast between the modesty of the instrument and the extremity of the music produced on it.",
+    summary: "Tomas Haake's 1998 Chaosphere-era setup — the kit behind one of extreme metal's most disorienting and technically demanding albums. Running an intermediate Tama shell pack with Sabian B8 Pro cymbals and a DW 5002 double pedal, Haake executed the polymetric, offset-grid drumming patterns that would define Meshuggah's 'djent' blueprint for a generation. The stripped-down, budget-conscious configuration contrasts sharply with the extreme complexity of what he played on it. The setup cost approximately $2,315 in 1998 dollars — equivalent to around $4,650 in 2026. By the ÖBZen era (2008), Haake had been on Sonor SQ2 Series drums with Sabian HHX/AAX cymbals since his 2005 signing, and the cost of replicating the full rig had grown by over 150%. Few drummers demonstrate so stark a contrast between the modesty of the instrument and the extremity of the music produced on it.",
 
     setup: {
       drums: {
@@ -1053,12 +1053,12 @@ export const GEAR_PRICE_HISTORY = {
         originalPrice: 450,
         year: 1998,
         source: 'Sabian B8 Pro retail pricing 1998',
-        notes: 'Entry-to-mid-range B8 Pro cymbals — a common choice for European extreme metal drummers in the late 1990s before full endorsement deals. Haake later transitioned to Meinl Byzance, which commands 3× the price.',
+        notes: 'Entry-to-mid-range B8 Pro cymbals — a common choice for European extreme metal drummers in the late 1990s before full endorsement deals. Haake later transitioned to Sabian HHX & AAX, which command a significant premium over the B8 Pro line.',
         vintageValue2026: 500,
         modernEquivalent: {
-          item: 'Meinl Byzance Dark Box Set',
+          item: 'Sabian HHX/AAX Mixed Set',
           price: 1800,
-          link: 'meinl-byzance-dark-set',
+          link: 'sabian-hhx-aax-mixed-set',
         },
       },
       hardware: {
@@ -1118,7 +1118,7 @@ export const GEAR_PRICE_HISTORY = {
     priceEvolution: [
       { year: 1998, price: 2315, label: 'Original Purchase', event: 'Chaosphere recording' },
       { year: 2002, price: 2500, label: 'Nothing era', event: 'Meshuggah releases Nothing' },
-      { year: 2008, price: 3200, label: 'ÖBZen era', event: 'Haake upgrades to Tama Starclassic + Meinl Byzance' },
+      { year: 2008, price: 3200, label: 'ÖBZen era', event: 'Haake signs with Sonor SQ2, upgrades to Sabian HHX/AAX cymbals' },
       { year: 2012, price: 3800, label: 'Koloss era', event: 'Meshuggah reaches global audiences' },
       { year: 2016, price: 4200, label: 'The Violent Sleep of Reason', event: 'Full-album live performances' },
       { year: 2022, price: 5100, label: 'Immutable', event: 'Career peak commercial success' },

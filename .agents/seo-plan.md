@@ -8103,3 +8103,39 @@ Filed 6 of the 8-cap — stopped once this run's 4 research agents' fresh, perso
 2. Given #7205/#7206 both found "fixed the summary field, missed a narrative/timeline-note field carrying the same fact" — worth a dedicated pass re-checking other `endorsementNews.js` `timeline[].notes` strings against their own `currentEndorsements` for the same class of internal self-contradiction, across drummers not yet checked this way.
 3. Gene Hoglan / George Kollias were flagged with lower-confidence findings by this run's albumArticles agent but not independently verified — candidates for a future pass if the bank needs topping up.
 4. `genreGearGuides.js`'s `proRecommendations.pedals` array containing stick items (noted in #7206, not fixed there) is a minor field-naming bug worth a follow-up look, low priority.
+
+---
+
+## 2026-09-09 (run ~12:30 UTC) — 8 proposals filed (#7215-7222): 4 more gearPriceHistory/top10Lists fabrications + 4 generator field-gaps
+
+### Bank check
+Open `seo-proposal` at run start: 10 (3 standing umbrellas #2211/#3810/#3819 + 7 fresh CEO-untriaged: #7200, #7205-7210 — all already promoted to `ai-fix` per the 10:47 UTC CEO deep-run log, true untriaged bank was 0). Well under 45 → cleared to file up to 8 net-new. Metrics 12:02 UTC (313 users/346 sessions/491 views 7d; GSC 8,178 impr/186 clicks/2.27% CTR/pos 8.2 — same GSC window as yesterday evening, GA4 ticked up). robots.txt: ✅ all 8 AI crawlers explicitly allowed (`api/robots.js`, unchanged). `/llms/*.md` endpoints: 2,012 files live across 25+ route-family subdirectories. Content-gap queries (`flo mounier` 93 impr/1.08% CTR, `joey jordison drum set` 78 impr/1.28% CTR) both re-confirmed the extensively-documented class-2 bare-name/oscillator pattern (learned-patterns.md line 205/211) — held, no new fix filed. Today is Wednesday — drum-chair watch not due (next due Monday 2026-09-14).
+
+### Research approach
+Dispatched 2 parallel research agents into the two currently-productive veins: (1) unexploited `generate-llms-*.cjs` field-render gaps, explicitly scoped to skip every generator/field combo already covered by #7118/#7183/#7184/#7188/#7189/#7201/#7202/#7203 and the currently-open #7208/#7209/#7210 (checked ~200 closed issue titles in this class via `gh issue list --search "generate-llms"` first to map the exhausted surface); (2) fresh gear-brand fabrications in any content file vs `endorsementNews.js`'s verified per-drummer timeline, targeting drummers with a documented brand-switch year (highest risk for stale references elsewhere). Personally re-verified every candidate from both agents via direct grep + line numbers before filing — did not trust either report at face value.
+
+**Gear-fabrication vein (4 filed):** `top10Lists.js` fabricates a nonexistent drum brand "Greiner & Kilmer" for Matt Greiner in 2 FAQ blocks (verified: Mapex/Paiste since 2016) — filed **#7215**. `gearPriceHistory.js` has 3 more still-unfixed fabrications in a file that a prior sweep (#7055, "correct 20+ wrong-brand entries") didn't fully cover: Frost's entire "Sonor SQ2" narrative (verified: Tama/Zildjian since 2013, Sonor never appears in his real history at all — not an era-boundary case, a pure invention) — **#7216**; Jocke Wallgren's 2016 "Tama/Meinl/DW" rig (verified: he was already on Zildjian since 2005 and Pearl since 2013, three years before the article's own 2016 date) — **#7217**; Morgan Ågren's "DW/Zildjian" rig, the same DW/Zildjian-vs-Sonor/Paiste fabrication class already fixed in 6 other files for this drummer (#6942/#6507/#6575/#6195/#5785/#5326/#5568) but never in `gearPriceHistory.js` — **#7218**. All 4 confirmed via direct `sed`/`grep` against both the fabricated text and the `endorsementNews.js` verified block before filing, not just agent-reported.
+
+**Generator field-gap vein (4 filed):** `generate-llms-faq.cjs` reads and `eval()`s the full `extendedBios.js` module (line 44) but never references the resulting variable again anywhere in the file — a genuine dead-code bug silently dropping 72 drummers' curated FAQ content from the master FAQ page — **#7219**. `generate-llms-battles.cjs` only ever reads `.name`/`.band` from `api/drummers/index.js`, never the richer `.bio`/`.bands`/`.videos` fields (72/72 populated) — battle pages currently have zero narrative content — **#7220**. `generate-llms-snares.cjs` and `generate-llms-cymbals.cjs` both skip loading `PILLAR_PAGE` from their respective reference-page data modules, even though sibling `generate-llms-pedals.cjs` already has the exact working render pattern (lines 412-465) for the identical content shape — filed as one batch, **#7221**. `generate-llms-lists.cjs` and `generate-llms-guides.cjs` both ignore populated `.faq` arrays (86/97 lists, 72+4 guides) that their per-slug sibling generators already render correctly — filed as one batch, **#7222**.
+
+All 8 verified-only, single/dual-file fixes on existing routes and generators — zero new pages/URLs, freeze-compliant. The gearPriceHistory.js fixes are Rule 2 (broken/rot data) + Rule 4 exceptions; the generator fixes are Rule 3 (LLM-citation priority).
+
+### Proposals filed this run (8)
+1. #7215 — SEO: Matt Greiner fabricated drum brand 'Greiner & Kilmer' in top10Lists.js FAQ (2 entries)
+2. #7216 — SEO: Frost gearPriceHistory.js fabricates entire 'Sonor SQ2' rig — verified brand is Tama/Zildjian since 2013
+3. #7217 — SEO: Jocke Wallgren gearPriceHistory.js fabricates wrong 2016 rig — verified brand is Pearl/Zildjian since 2005/2013
+4. #7218 — SEO: Morgan Ågren gearPriceHistory.js fabricates DW/Zildjian rig — verified brand is Sonor/Paiste
+5. #7219 — SEO: generate-llms-faq.cjs loads extendedBios.js but never renders it — 62 drummers' FAQ/career-highlight content silently dropped
+6. #7220 — SEO: generate-llms-battles.cjs never renders bio/bands/videos — drummer battle pages missing richest narrative fields
+7. #7221 — SEO batch: generate-llms-snares.cjs + generate-llms-cymbals.cjs never render PILLAR_PAGE — sibling generate-llms-pedals.cjs already has the pattern
+8. #7222 — SEO batch: generate-llms-lists.cjs + generate-llms-guides.cjs ignore populated .faq arrays — sibling generate-llms-lists-per-slug.cjs already has the pattern
+
+### Open proposals waiting on CEO triage
+- #7215-7222 (this run, 8 fresh)
+- #3810/#3819/#2211 (standing umbrellas)
+
+### Next run
+1. Watch #7215-7222 through CEO triage.
+2. The generator field-gap vein flagged 2 more lower-priority candidates not filed this round (gear-by-brand.cjs dropping `genre`; gear-item.cjs dropping priceEur/priceUsd; techniques.cjs dropping relatedTechniques) — queued for next pass if the bank needs topping up.
+3. `gearPriceHistory.js` still has an unaudited majority of its ~70+ drummer entries beyond the 4 caught this run and the 20 caught by #7055 — good candidate for a dedicated continuation pass, but each entry takes real per-drummer cross-checking against `endorsementNews.js` (not a mechanical find-replace), so budget accordingly.
+4. GSC content-gap queries unchanged/held — no re-litigation needed until a fresh query enters the ≥50-impr/CTR<2% bucket.

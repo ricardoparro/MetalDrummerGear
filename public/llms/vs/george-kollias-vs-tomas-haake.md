@@ -14,7 +14,7 @@ Nile's George Kollias (280 BPM blast beats) vs Meshuggah's Tomas Haake (polyrhyt
 - **Cymbals:** Zildjian (14" K Mastersound Hi-Hats, 17" & 18" K Custom Dark Crashes, 21" A Custom Mega Bell Ride, 18" China)
 - **Snare:** Pearl George Kollias Signature 14x6.5"
 - **Pedals/Hardware:** Pearl Demon XR Double Pedal (Co-designed), Pearl D-3000 Throne
-- **Sticks:** Vic Firth George Kollias Signature SGK
+- **Sticks:** Vic Firth
 
 ## Tomas Haake Setup
 
@@ -67,4 +67,4 @@ A: George Kollias uses Zildjian (14" K Mastersound Hi-Hats, 17" & 18" K Custom D
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

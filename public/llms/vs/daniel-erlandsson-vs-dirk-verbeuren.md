@@ -19,7 +19,7 @@ Arch Enemy's Daniel Erlandsson vs Soilwork/Megadeth's Dirk Verbeuren. Two Gothen
 ## Dirk Verbeuren Setup
 
 - **Drums:** Tama Starclassic Walnut/Birch
-- **Cymbals:** Zildjian A Custom & K Custom Series (14" A Custom Hi-Hats, 17", 18", 19" A Custom Crashes, 21" K Custom Hybrid Ride, 18" K China)
+- **Cymbals:** Meinl Byzance Brilliant & Classics Custom Dark Series (14" Byzance Brilliant Hi-Hat, 18"-21" Classics Custom Dark Crashes, 22" Byzance Brilliant Ride, 18" Byzance Brilliant China)
 - **Snare:** Tama S.L.P. Big Black Steel 14x6.5"
 - **Pedals/Hardware:** Tama Speed Cobra 910 Double Pedal, Tama Iron Cobra Hi-Hat Stand
 - **Sticks:** Tama O-DVM2 Dirk Verbeuren Signature
@@ -34,7 +34,7 @@ Erlandsson brings a clean, high-precision approach to melodic death metal — hi
 
 ## Key Differences
 
-Daniel Erlandsson endorses Pearl drums, playing Pearl Reference Series or Masters Maple kits with Zildjian cymbals — a clean, articulate setup built for Arch Enemy's high-production recording and global touring demands. Dirk Verbeuren plays a Tama Starclassic Walnut/Birch kit with a Tama S.L.P. Big Black Steel 14x6.5" snare and Zildjian A Custom & K Custom Series cymbals (14" A Custom Hi-Hats, 17", 18", 19" A Custom Crashes, 21" K Custom Hybrid Ride, 18" K China), powered by a Tama Speed Cobra 910 double pedal and Promark Shira Kashi Oak 5B sticks. Erlandsson brings a clean, high-precision approach to melodic death metal — his blast beats are controlled and even, his double bass patterns are tight and consistent with Arch Enemy's production-forward sound, and his fills are designed to punctuate rather than overwhelm the band's anthemic, guitar-centric compositions. Verbeuren bridges melodic death metal technicality with thrash metal power: extreme double bass speed, technical fills, and seamless transitions between blast-beat intensity and groove-based riffing, a vocabulary built across 18 years with Soilwork and now applied to Megadeth's classic thrash framework.
+Daniel Erlandsson endorses Pearl drums, playing Pearl Reference Series or Masters Maple kits with Sabian cymbals — a clean, articulate setup built for Arch Enemy's high-production recording and global touring demands. Dirk Verbeuren plays a Tama Starclassic Walnut/Birch kit with a Tama S.L.P. Big Black Steel 14x6.5" snare and Meinl Byzance Brilliant & Classics Custom Dark cymbals (14" Byzance Brilliant Hi-Hats, 18", 19", 20", 21" Classics Custom Dark Crashes, 22" Byzance Brilliant Ride, 18" Byzance Brilliant China), powered by a Tama Speed Cobra 910 double pedal and Promark Shira Kashi Oak 5B sticks. Erlandsson brings a clean, high-precision approach to melodic death metal — his blast beats are controlled and even, his double bass patterns are tight and consistent with Arch Enemy's production-forward sound, and his fills are designed to punctuate rather than overwhelm the band's anthemic, guitar-centric compositions. Verbeuren bridges melodic death metal technicality with thrash metal power: extreme double bass speed, technical fills, and seamless transitions between blast-beat intensity and groove-based riffing, a vocabulary built across 18 years with Soilwork and now applied to Megadeth's classic thrash framework.
 
 ## Influence & Legacy
 
@@ -46,17 +46,17 @@ Daniel Erlandsson and Dirk Verbeuren both emerged from Sweden's melodic death me
 
 ## FAQ
 
-**Q: What are the main differences between Daniel Erlandsson's and Dirk Verbeuren's drum kits?**
-A: Daniel Erlandsson plays Pearl Reference Pure with Paiste cymbals, while Dirk Verbeuren uses Tama Starclassic Walnut/Birch with Zildjian cymbals. Daniel Erlandsson endorses Pearl drums, playing Pearl Reference Series or Masters Maple kits with Zildjian cymbals — a clean, articulate setup built for Arch Enemy's high-production recording and global touring demands. Dirk Verbeuren plays a Tama Starclassic Walnut/Birch kit with a Tama S.L.P. Big Black Steel 14x6.5" snare and Zildjian A Custom & K Custom Series cymbals (14" A Custom Hi-Hats, 17", 18", 19" A Custom Crashes, 21" K Custom Hybrid Ride, 18" K China), powered by a Tama Speed Cobra 910 double pedal and Promark Shira Kashi Oak 5B sticks.
+**Q: How do Daniel Erlandsson and Dirk Verbeuren compare as drummers?**
+A: Daniel Erlandsson (Arch Enemy, since 2005) plays with clean, production-forward precision built around anthemic, guitar-centric songwriting. Dirk Verbeuren (Soilwork 1998-2016, Megadeth since 2016) bridges melodic death metal technicality with thrash power, applying 18 years of Soilwork's technical vocabulary to Megadeth's classic thrash framework.
 
-**Q: What drums does Daniel Erlandsson play vs Dirk Verbeuren?**
-A: Daniel Erlandsson plays Pearl Reference Pure. Dirk Verbeuren plays Tama Starclassic Walnut/Birch.
+**Q: What gear do Daniel Erlandsson and Dirk Verbeuren use?**
+A: Daniel Erlandsson plays Pearl Reference Series or Masters Maple kits with Sabian cymbals. Dirk Verbeuren plays a Tama Starclassic Walnut/Birch kit with a Tama S.L.P. Big Black Steel snare and Meinl Byzance Brilliant & Classics Custom Dark cymbals, powered by a Tama Speed Cobra 910 double pedal.
 
-**Q: Who is the better extreme / death / black metal drummer, Daniel Erlandsson or Dirk Verbeuren?**
-A: Both are legends in their own right. Daniel Erlandsson and Dirk Verbeuren both emerged from Sweden's melodic death metal scene but built very different careers from that foundation. See the full analysis at [metalforge.io/vs/daniel-erlandsson-vs-dirk-verbeuren](https://metalforge.io/vs/daniel-erlandsson-vs-dirk-verbeuren).
+**Q: What bands are Daniel Erlandsson and Dirk Verbeuren known for?**
+A: Daniel Erlandsson has drummed for Arch Enemy since 2005. Dirk Verbeuren drummed for Swedish melodic death metal band Soilwork from 1998 to 2016 before joining Megadeth in 2016, where he recorded the Grammy-nominated "The Sick, the Dying... and the Dead!" (2022).
 
-**Q: What cymbals do Daniel Erlandsson and Dirk Verbeuren use?**
-A: Daniel Erlandsson uses Paiste RUDE & 2002 Series (14" RUDE Hi-Hats, 18" & 19" RUDE Crashes, 22" RUDE Power Ride). Dirk Verbeuren uses Zildjian A Custom & K Custom Series (14" A Custom Hi-Hats, 17", 18", 19" A Custom Crashes, 21" K Custom Hybrid Ride, 18" K China).
+**Q: Is Soilwork part of the Gothenburg melodic death metal scene?**
+A: Soilwork formed in Helsingborg, Sweden, and is closely associated with the broader Swedish "Gothenburg sound" that Arch Enemy also represents, even though the two bands are based in different Swedish cities. Both blend melodic guitar riffing with death metal aggression, the hallmark of that scene.
 
 ---
 
@@ -67,4 +67,4 @@ A: Daniel Erlandsson uses Paiste RUDE & 2002 Series (14" RUDE Hi-Hats, 18" & 19"
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

@@ -10,11 +10,11 @@ Martin Axenrot vs Martin Lopez: Opeth's two defining drummers compared. Who repl
 
 ## Martin Axenrot Setup
 
-- **Drums:** Sonor SQ2 Series
-- **Cymbals:** Meinl Byzance Series (14" Traditional Medium Hi-Hats, 16" & 18" & 19" Crashes, 22" Traditional Ride, 18" China)
-- **Snare:** Sonor SQ2 14x5.75" Maple
-- **Pedals/Hardware:** Tama Iron Cobra Double Pedal, Sonor Hardware
-- **Sticks:** Vic Firth American Classic 5B
+- **Drums:** DW (Drum Workshop) — custom, maple/gum shells
+- **Cymbals:** SABIAN HHX / AAX Series (HHX Groove Hats, HHX Evolution O-Zone Crash, HHX Legacy Ride, HHX Chinese, AAX Splash)
+- **Snare:** DW custom (specific model unverified)
+- **Pedals/Hardware:** Unverified
+- **Sticks:** Pro-Mark
 
 ## Martin Lopez Setup
 
@@ -30,11 +30,11 @@ Martin Lopez was Opeth's drummer from 1997 to 2006, joining after leaving Amon A
 
 ## Technique
 
-Lopez's technique emphasized feel and musicality over pure technicality — creative ghost notes, complex hi-hat patterns, and melodic tom work that let Opeth's acoustic passages breathe before its death metal sections detonated. His playing is widely considered one of progressive death metal's most tasteful performances. Axenrot brought a heavier, more aggressive attack to the drum chair, informed by his parallel work in death metal supergroup Bloodbath (since 2008) and black/thrash band Witchery (1997–2010). His twin-bass-drum Sonor setup gave Opeth's post-2006 material a more forceful low end while still honoring the progressive vocabulary Lopez had established, particularly as the band's songwriting shifted toward longer, more rock-oriented compositions.
+Lopez's technique emphasized feel and musicality over pure technicality — creative ghost notes, complex hi-hat patterns, and melodic tom work that let Opeth's acoustic passages breathe before its death metal sections detonated. His playing is widely considered one of progressive death metal's most tasteful performances. Axenrot brought a heavier, more aggressive attack to the drum chair, informed by his parallel work in death metal supergroup Bloodbath (since 2008) and black/thrash band Witchery (1997–2010). His custom DW kit gave Opeth's post-2006 material a more forceful low end while still honoring the progressive vocabulary Lopez had established, particularly as the band's songwriting shifted toward longer, more rock-oriented compositions.
 
 ## Key Differences
 
-Martin Lopez plays Noble & Cooley Walnut drums with a Noble & Cooley Solid Shell 14"×6" Maple snare, Zildjian K Dark Series cymbals (14" K Dark Thin Hi-Hats, 18" & 20" K Dark Medium Thin Crashes, 22" K Dark Light Ride, 18" K China), Axis Percussion double pedal, and Vic Firth American Classic 5A sticks. Martin Axenrot plays a Sonor SQ2 Series kit built around twin 22"×18" bass drums and a Sonor SQ2 14"×5.75" Maple snare, with Meinl Byzance cymbals (14" Traditional Medium Hi-Hats, 16"/18"/19" Crashes, 22" Traditional Ride, 18" China), Tama Iron Cobra double pedal, and Vic Firth American Classic 5B sticks. Lopez's technique emphasized feel and musicality over pure technicality — creative ghost notes, complex hi-hat patterns, and melodic tom work that let Opeth's acoustic passages breathe before its death metal sections detonated. His playing is widely considered one of progressive death metal's most tasteful performances. Axenrot brought a heavier, more aggressive attack to the drum chair, informed by his parallel work in death metal supergroup Bloodbath (since 2008) and black/thrash band Witchery (1997–2010). His twin-bass-drum Sonor setup gave Opeth's post-2006 material a more forceful low end while still honoring the progressive vocabulary Lopez had established, particularly as the band's songwriting shifted toward longer, more rock-oriented compositions.
+Martin Lopez plays Noble & Cooley Walnut drums with a Noble & Cooley Solid Shell 14"×6" Maple snare, Zildjian K Dark Series cymbals (14" K Dark Thin Hi-Hats, 18" & 20" K Dark Medium Thin Crashes, 22" K Dark Light Ride, 18" K China), Axis Percussion double pedal, and Vic Firth American Classic 5A sticks. Martin Axenrot plays a custom hand-made DW kit with maple/gum shells, per his own account in a 2016 MusicRadar interview, with SABIAN HHX/AAX cymbals (HHX Groove Hats, HHX Evolution O-Zone Crash, HHX Legacy Ride, AAX Splash) per SABIAN's own artist page, and Pro-Mark sticks. His hardware setup has not been independently verified. Lopez's technique emphasized feel and musicality over pure technicality — creative ghost notes, complex hi-hat patterns, and melodic tom work that let Opeth's acoustic passages breathe before its death metal sections detonated. His playing is widely considered one of progressive death metal's most tasteful performances. Axenrot brought a heavier, more aggressive attack to the drum chair, informed by his parallel work in death metal supergroup Bloodbath (since 2008) and black/thrash band Witchery (1997–2010). His custom DW kit gave Opeth's post-2006 material a more forceful low end while still honoring the progressive vocabulary Lopez had established, particularly as the band's songwriting shifted toward longer, more rock-oriented compositions.
 
 ## Influence & Legacy
 
@@ -46,17 +46,17 @@ Martin Lopez and Martin Axenrot represent Opeth's two defining drumming eras, se
 
 ## FAQ
 
-**Q: What are the main differences between Martin Axenrot's and Martin Lopez's drum kits?**
-A: Martin Axenrot plays Sonor SQ2 Series with Meinl cymbals, while Martin Lopez uses Noble & Cooley Walnut with Zildjian cymbals. Martin Lopez plays Noble & Cooley Walnut drums with a Noble & Cooley Solid Shell 14"×6" Maple snare, Zildjian K Dark Series cymbals (14" K Dark Thin Hi-Hats, 18" & 20" K Dark Medium Thin Crashes, 22" K Dark Light Ride, 18" K China), Axis Percussion double pedal, and Vic Firth American Classic 5A sticks. Martin Axenrot plays a Sonor SQ2 Series kit built around twin 22"×18" bass drums and a Sonor SQ2 14"×5.75" Maple snare, with Meinl Byzance cymbals (14" Traditional Medium Hi-Hats, 16"/18"/19" Crashes, 22" Traditional Ride, 18" China), Tama Iron Cobra double pedal, and Vic Firth American Classic 5B sticks.
+**Q: Who replaced Martin Lopez in Opeth?**
+A: Martin Axenrot replaced Martin Lopez as Opeth's drummer in 2006, stepping in mid-tour during the "Ghost Reveries" cycle after Lopez departed due to health issues. Axenrot made his studio debut with the band on "Watershed" (2008) and has remained Opeth's drummer ever since.
 
-**Q: What drums does Martin Axenrot play vs Martin Lopez?**
-A: Martin Axenrot plays Sonor SQ2 Series. Martin Lopez plays Noble & Cooley Walnut.
+**Q: Why did Martin Lopez leave Opeth?**
+A: Martin Lopez left Opeth in 2006 due to health issues that forced him to step away mid-tour during the "Ghost Reveries" cycle. He later returned to music in 2010 by co-founding the progressive metal band Soen with bassist Steve Di Giorgio.
 
-**Q: Who is the better progressive metal drummer, Martin Axenrot or Martin Lopez?**
-A: Both are legends in their own right. Martin Lopez and Martin Axenrot represent Opeth's two defining drumming eras, separated by a 2006 mid-tour health crisis that could have derailed the band entirely. See the full analysis at [metalforge.io/vs/martin-axenrot-vs-martin-lopez](https://metalforge.io/vs/martin-axenrot-vs-martin-lopez).
+**Q: What albums did Martin Lopez record with Opeth?**
+A: Martin Lopez recorded "My Arms, Your Hearse" (1998), "Still Life" (1999), "Blackwater Park" (2001), "Deliverance" (2002), "Damnation" (2003), and "Ghost Reveries" (2005) with Opeth — widely regarded as the band's classic, most celebrated era.
 
-**Q: What cymbals do Martin Axenrot and Martin Lopez use?**
-A: Martin Axenrot uses Meinl Byzance Series (14" Traditional Medium Hi-Hats, 16" & 18" & 19" Crashes, 22" Traditional Ride, 18" China). Martin Lopez uses Zildjian K Dark Series (14" K Dark Thin Hi-Hats, 18" & 20" K Dark Medium Thin Crashes, 22" K Dark Light Ride, 18" K China).
+**Q: What gear does Martin Axenrot use vs Martin Lopez?**
+A: Martin Axenrot plays a custom hand-made DW kit with maple/gum shells and SABIAN HHX/AAX cymbals, per SABIAN's own artist page and his 2016 MusicRadar interview. Martin Lopez plays Noble & Cooley Walnut drums with a Noble & Cooley 14"×6" Maple snare and Zildjian K Dark Series cymbals.
 
 ---
 
@@ -67,4 +67,4 @@ A: Martin Axenrot uses Meinl Byzance Series (14" Traditional Medium Hi-Hats, 16"
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

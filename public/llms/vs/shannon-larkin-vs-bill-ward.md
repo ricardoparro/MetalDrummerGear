@@ -34,7 +34,7 @@ Larkin favors hard-hitting, straightforward power over technical flash, prioriti
 
 ## Key Differences
 
-Larkin plays a ddrum Dios Series kit with a ddrum Dios 14x6.5" Maple snare and Sabian AAX & HHX Series cymbals, powered by a DW 9000 Series double pedal. Ward played a Ludwig Classic Maple kit with a Ludwig Supraphonic 14x6.5" LM402 snare and Paiste 2002 & Giant Beat Series cymbals, including a massive 24" 2002 Ride, driven by a single pedal. Larkin favors hard-hitting, straightforward power over technical flash, prioritizing feel and impact — the same approach that let him briefly fill in for Black Sabbath's touring lineup for one show in 1997. Ward's loose grip and behind-the-beat phrasing gave early Sabbath riffs a rolling, jazz-informed swing that no other rock drummer of the era was playing, relying entirely on single-pedal technique with no double bass.
+Larkin plays a ddrum Dios Series kit with a ddrum Dios 14x6.5" Maple snare and Sabian AAX & HHX Series cymbals, powered by a DW 9000 Series double pedal. Ward played a Ludwig Classic Maple kit with a Ludwig Supraphonic 14x6.5" LM402 snare and Zildjian Avedis Series cymbals, including a 20" ride, driven by a single pedal. Larkin favors hard-hitting, straightforward power over technical flash, prioritizing feel and impact — the same approach that let him briefly fill in for Black Sabbath's touring lineup for one show in 1997. Ward's loose grip and behind-the-beat phrasing gave early Sabbath riffs a rolling, jazz-informed swing that no other rock drummer of the era was playing, relying entirely on single-pedal technique with no double bass.
 
 ## Influence & Legacy
 
@@ -47,7 +47,7 @@ Shannon Larkin and Bill Ward represent two eras of the same hard-hitting, groove
 ## FAQ
 
 **Q: What are the main differences between Shannon Larkin's and Bill Ward's drum kits?**
-A: Shannon Larkin plays ddrum Dios Series with Sabian cymbals, while Bill Ward uses Ludwig Classic Maple with Paiste cymbals. Larkin plays a ddrum Dios Series kit with a ddrum Dios 14x6.5" Maple snare and Sabian AAX & HHX Series cymbals, powered by a DW 9000 Series double pedal. Ward played a Ludwig Classic Maple kit with a Ludwig Supraphonic 14x6.5" LM402 snare and Paiste 2002 & Giant Beat Series cymbals, including a massive 24" 2002 Ride, driven by a single pedal.
+A: Shannon Larkin plays ddrum Dios Series with Sabian cymbals, while Bill Ward uses Ludwig Classic Maple with Paiste cymbals. Larkin plays a ddrum Dios Series kit with a ddrum Dios 14x6.5" Maple snare and Sabian AAX & HHX Series cymbals, powered by a DW 9000 Series double pedal. Ward played a Ludwig Classic Maple kit with a Ludwig Supraphonic 14x6.5" LM402 snare and Zildjian Avedis Series cymbals, including a 20" ride, driven by a single pedal.
 
 **Q: What drums does Shannon Larkin play vs Bill Ward?**
 A: Shannon Larkin plays ddrum Dios Series. Bill Ward plays Ludwig Classic Maple.
@@ -67,4 +67,4 @@ A: Shannon Larkin uses Sabian AAX & HHX Series (14" AAX Stage Hi-Hats, 18" & 19"
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

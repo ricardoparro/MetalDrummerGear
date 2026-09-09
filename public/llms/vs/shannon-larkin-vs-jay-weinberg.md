@@ -34,7 +34,7 @@ Larkin brings deep rock roots and heavy groove instincts to Godsmack, locking in
 
 ## Key Differences
 
-Shannon Larkin plays ddrum Dios Series drums with Sabian AAX & HHX Series cymbals and a ddrum Dios 14×6.5" Maple snare — a groove-oriented setup delivering the hard-hitting pocket Godsmack's arena rock demands. Jay Weinberg played Tama Starclassic Maple/Birch drums with Meinl Byzance cymbals and Tama Iron Cobra pedals during his Slipknot tenure — a setup built for the theatrical demands of Slipknot's live production. Larkin brings deep rock roots and heavy groove instincts to Godsmack, locking in with Tony Rombola's guitars with muscular, hook-driven rhythms and dynamic control that made Godsmack's sound commercially unstoppable across the 2000s. Weinberg's technique is precision-meets-chaos — navigating Slipknot's multi-drummer live setup required exceptional timing, independence, and endurance night after night while delivering the chaotic energy the band demands.
+Shannon Larkin plays ddrum Dios Series drums with Sabian AAX & HHX Series cymbals and a ddrum Dios 14×6.5" Maple snare — a groove-oriented setup delivering the hard-hitting pocket Godsmack's arena rock demands. Jay Weinberg played SJC Custom Drums with Zildjian cymbals and DW hardware during his Slipknot tenure — a setup built for the theatrical demands of Slipknot's live production. Larkin brings deep rock roots and heavy groove instincts to Godsmack, locking in with Tony Rombola's guitars with muscular, hook-driven rhythms and dynamic control that made Godsmack's sound commercially unstoppable across the 2000s. Weinberg's technique is precision-meets-chaos — navigating Slipknot's multi-drummer live setup required exceptional timing, independence, and endurance night after night while delivering the chaotic energy the band demands.
 
 ## Influence & Legacy
 
@@ -46,17 +46,17 @@ Shannon Larkin and Jay Weinberg are two of modern arena metal's most prominent f
 
 ## FAQ
 
-**Q: What are the main differences between Shannon Larkin's and Jay Weinberg's drum kits?**
-A: Shannon Larkin plays ddrum Dios Series with Sabian cymbals, while Jay Weinberg uses SJC Custom Drums (OBEY x ST Collaboration Kit) with Zildjian cymbals. Shannon Larkin plays ddrum Dios Series drums with Sabian AAX & HHX Series cymbals and a ddrum Dios 14×6.5" Maple snare — a groove-oriented setup delivering the hard-hitting pocket Godsmack's arena rock demands. Jay Weinberg played Tama Starclassic Maple/Birch drums with Meinl Byzance cymbals and Tama Iron Cobra pedals during his Slipknot tenure — a setup built for the theatrical demands of Slipknot's live production.
+**Q: Who drums for Slipknot vs Godsmack now?**
+A: Shannon Larkin has been Godsmack's drummer since 2002. Jay Weinberg was Slipknot's drummer from 2014 until November 2023; Slipknot has since continued with a different drummer.
 
-**Q: What drums does Shannon Larkin play vs Jay Weinberg?**
-A: Shannon Larkin plays ddrum Dios Series. Jay Weinberg plays SJC Custom Drums (OBEY x ST Collaboration Kit).
+**Q: What gear does Shannon Larkin use?**
+A: Shannon Larkin plays ddrum Dios Series drums with Sabian AAX & HHX Series cymbals (14" AAX Stage Hi-Hats, 18" & 19" AAX X-Plosion Crashes, 21" HHX Raw Bell Dry Ride) and a ddrum Dios 14×6.5" Maple snare.
 
-**Q: Who is the better alternative / nu-metal drummer, Shannon Larkin or Jay Weinberg?**
-A: Both are legends in their own right. Shannon Larkin and Jay Weinberg are two of modern arena metal's most prominent faces — both the visible, unmasked heartbeat of their respective bands' live shows. See the full analysis at [metalforge.io/vs/shannon-larkin-vs-jay-weinberg](https://metalforge.io/vs/shannon-larkin-vs-jay-weinberg).
+**Q: What gear did Jay Weinberg use with Slipknot?**
+A: Jay Weinberg played SJC Custom Drums with Zildjian cymbals and DW hardware during his Slipknot tenure.
 
-**Q: What cymbals do Shannon Larkin and Jay Weinberg use?**
-A: Shannon Larkin uses Sabian AAX & HHX Series (14" AAX Stage Hi-Hats, 18" & 19" AAX X-Plosion Crashes, 21" HHX Raw Bell Dry Ride, 10" AAX Splash, 18" AAX Chinese). Jay Weinberg uses Zildjian (14" A New Beat Hi-Hats, 18" & 19" A Custom Crashes, 21" K Custom Ride, 19" K China, 7" FX Break Bell).
+**Q: What is Shannon Larkin's background before Godsmack?**
+A: Shannon Larkin played with Wrathchild America (1989–1991), Ugly Kid Joe (1991–1997, including the hit "Everything About You"), and Amen before joining Godsmack in 2002.
 
 ---
 
@@ -67,4 +67,4 @@ A: Shannon Larkin uses Sabian AAX & HHX Series (14" AAX Stage Hi-Hats, 18" & 19"
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

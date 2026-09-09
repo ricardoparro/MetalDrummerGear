@@ -18,7 +18,7 @@ Children of Bodom's Jaska Raatikainen vs Iron Maiden's Nicko McBrain. Finnish me
 
 ## Nicko McBrain Setup
 
-- **Drums:** Sonor SQ2 Series
+- **Drums:** British Drum Co.
 - **Cymbals:** Paiste 2002 & Signature Series (14" Sound Edge Hi-Hats, 16" & 18" Power Crashes, 22" Power Ride, 20" China)
 - **Snare:** Sonor Nicko McBrain Signature 14x6.5"
 - **Pedals/Hardware:** Sonor 600 Series Hardware, Single Bass Drum Pedal
@@ -34,7 +34,7 @@ Raatikainen's technique balances death metal velocity with melodic awareness —
 
 ## Key Differences
 
-Jaska Raatikainen plays a Pearl Masters Premium Maple kit with a Pearl Masters 14x5.5" Maple snare, Zildjian A Custom & K Custom Series cymbals (14" A Custom Hi-Hats, 17" & 18" A Custom Crashes, 20" K Custom Ride), a Pearl Eliminator double pedal, and Vic Firth American Classic 5A sticks. Nicko McBrain plays a Sonor SQ2 Series kit with his Sonor Nicko McBrain Signature 14x6.5" snare, Paiste 2002 & Signature Series cymbals (14" Sound Edge Hi-Hats, 16" & 18" Power Crashes, 22" Power Ride, 20" China), Sonor 600 Series hardware with a single bass drum pedal, Vic Firth Nicko McBrain Signature sticks, and Remo Emperor drumheads. Raatikainen's technique balances death metal velocity with melodic awareness — rapid double bass volleys and blast beats that lock tightly with Children of Bodom's neoclassical riffing, while his fills are composed to support rather than overwhelm the melodic material. McBrain is best known for a feat that runs counter to most modern metal drumming: he has never used a double bass pedal, instead achieving Iron Maiden's signature galloping power entirely through single-pedal technique, combined with crisp, propulsive hi-hat patterns that drive the band's twin-guitar harmonies forward across marathon arena sets.
+Jaska Raatikainen plays a Pearl Masters Premium Maple kit with a Pearl Masters 14x5.5" Maple snare, Zildjian A Custom & K Custom Series cymbals (14" A Custom Hi-Hats, 17" & 18" A Custom Crashes, 20" K Custom Ride), a Pearl Eliminator double pedal, and Vic Firth American Classic 5A sticks. Nicko McBrain plays a British Drum Co. kit with his Sonor Nicko McBrain Signature 14x6.5" snare, Paiste 2002 & Signature Series cymbals (14" Sound Edge Hi-Hats, 16" & 18" Power Crashes, 22" Power Ride, 20" China), a single bass drum pedal, Vic Firth Nicko McBrain Signature sticks, and Remo Emperor drumheads. Raatikainen's technique balances death metal velocity with melodic awareness — rapid double bass volleys and blast beats that lock tightly with Children of Bodom's neoclassical riffing, while his fills are composed to support rather than overwhelm the melodic material. McBrain is best known for a feat that runs counter to most modern metal drumming: he has never used a double bass pedal, instead achieving Iron Maiden's signature galloping power entirely through single-pedal technique, combined with crisp, propulsive hi-hat patterns that drive the band's twin-guitar harmonies forward across marathon arena sets.
 
 ## Influence & Legacy
 
@@ -46,17 +46,17 @@ Jaska Raatikainen and Nicko McBrain represent two foundational pillars of Europe
 
 ## FAQ
 
-**Q: What are the main differences between Jaska Raatikainen's and Nicko McBrain's drum kits?**
-A: Jaska Raatikainen plays Pearl Masters Premium Maple with Zildjian cymbals, while Nicko McBrain uses Sonor SQ2 Series with Paiste cymbals. Jaska Raatikainen plays a Pearl Masters Premium Maple kit with a Pearl Masters 14x5.5" Maple snare, Zildjian A Custom & K Custom Series cymbals (14" A Custom Hi-Hats, 17" & 18" A Custom Crashes, 20" K Custom Ride), a Pearl Eliminator double pedal, and Vic Firth American Classic 5A sticks. Nicko McBrain plays a Sonor SQ2 Series kit with his Sonor Nicko McBrain Signature 14x6.5" snare, Paiste 2002 & Signature Series cymbals (14" Sound Edge Hi-Hats, 16" & 18" Power Crashes, 22" Power Ride, 20" China), Sonor 600 Series hardware with a single bass drum pedal, Vic Firth Nicko McBrain Signature sticks, and Remo Emperor drumheads.
+**Q: Who is the better drummer, Jaska Raatikainen or Nicko McBrain?**
+A: Both are foundational drummers in their respective styles. Jaska Raatikainen anchored Children of Bodom's neoclassical melodic death metal for 26 years with blast beats and double bass precision. Nicko McBrain has powered Iron Maiden's galloping heavy metal sound since 1982 using only a single bass drum pedal — a technical feat almost unheard of in modern metal. The comparison comes down to Finnish melodic death metal extremity vs British heavy metal foundational power.
 
-**Q: What drums does Jaska Raatikainen play vs Nicko McBrain?**
-A: Jaska Raatikainen plays Pearl Masters Premium Maple. Nicko McBrain plays Sonor SQ2 Series.
+**Q: What gear do Jaska Raatikainen and Nicko McBrain use?**
+A: Jaska Raatikainen plays a Pearl Masters Premium Maple kit with Zildjian A Custom & K Custom cymbals and a Pearl Eliminator double pedal. Nicko McBrain plays a British Drum Co. kit with Paiste 2002 & Signature Series cymbals and, notably, only a single bass drum pedal.
 
-**Q: Who is the better alternative / nu-metal drummer, Jaska Raatikainen or Nicko McBrain?**
-A: Both are legends in their own right. Jaska Raatikainen and Nicko McBrain represent two foundational pillars of European metal drumming from opposite ends of the genre. See the full analysis at [metalforge.io/vs/jaska-raatikainen-vs-nicko-mcbrain](https://metalforge.io/vs/jaska-raatikainen-vs-nicko-mcbrain).
+**Q: Why does Nicko McBrain use a single bass drum pedal instead of a double pedal?**
+A: Nicko McBrain has built his entire career on single-pedal technique, achieving Iron Maiden's signature galloping speed through foot precision and stamina rather than a second kick drum or double pedal. It remains one of the most distinctive technical traits among professional metal drummers, proven across landmark albums like "Piece of Mind" (1983), "Powerslave" (1984), and "Somewhere in Time" (1986).
 
-**Q: What cymbals do Jaska Raatikainen and Nicko McBrain use?**
-A: Jaska Raatikainen uses Zildjian A Custom & K Custom Series (14" A Custom Hi-Hats, 17" & 18" A Custom Crashes, 20" K Custom Ride). Nicko McBrain uses Paiste 2002 & Signature Series (14" Sound Edge Hi-Hats, 16" & 18" Power Crashes, 22" Power Ride, 20" China).
+**Q: What albums did Jaska Raatikainen record with Children of Bodom?**
+A: Jaska Raatikainen recorded every Children of Bodom studio album as the band's sole drummer, including "Something Wild" (1997), "Hatebreeder" (1999), "Follow the Reaper" (2000), "Hate Crew Deathroll" (2003), "Are You Dead Yet?" (2005), "Blooddrunk" (2008), "Relentless Reckless Forever" (2011), "Halo of Blood" (2013), "I Worship Chaos" (2014), and the band's 2019 farewell album "Hexed."
 
 ---
 
@@ -67,4 +67,4 @@ A: Jaska Raatikainen uses Zildjian A Custom & K Custom Series (14" A Custom Hi-H
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

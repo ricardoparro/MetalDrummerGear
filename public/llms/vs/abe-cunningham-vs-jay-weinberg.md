@@ -10,11 +10,11 @@ Deftones' Abe Cunningham vs ex-Slipknot's Jay Weinberg. Atmospheric alt-metal fe
 
 ## Abe Cunningham Setup
 
-- **Drums:** SJC Custom Drums
+- **Drums:** Tama Starclassic Bubinga (Egyptian Night Mist)
 - **Cymbals:** Zildjian K Custom & A Custom Series (14" K Custom Hi-Hats, 18" & 20" K Custom Crashes, 22" K Custom Ride, 19" A Custom China)
-- **Snare:** SJC Custom 14x6.5" Brass
-- **Pedals/Hardware:** DW 9000 Series Double Pedal, DW Hardware
-- **Sticks:** Vic Firth American Classic 2B
+- **Snare:** Tama Starclassic matching snare (no separate model documented)
+- **Pedals/Hardware:** Tama Iron Cobra Power Glide Twin Pedal (HP900PTW), Iron Cobra Lever Glide Hi-Hat (HH905)
+- **Sticks:** Pro-Mark
 
 ## Jay Weinberg Setup
 
@@ -34,7 +34,7 @@ Cunningham's technique is defined by unconventional patterns and creative use of
 
 ## Key Differences
 
-Abe Cunningham has been a longtime Tama endorser, playing a Tama Starclassic Maple/Bubinga kit with a Tama S.L.P. Big Black Steel 14x8" snare and Zildjian cymbals (14" A New Beat Hi-Hats, A Custom crashes, K Custom Ride), driven by a Tama Iron Cobra double pedal and Zildjian Abe Cunningham Artist Series sticks. Jay Weinberg played an SJC Custom Drums kit with a Tama S.L.P. 14x6.5" snare and Zildjian K Custom Series cymbals (14" Hi-Hats, 17" & 19" Dark Crashes, 20" Ride, 18" China), driven by a DW 9000 double bass pedal, Vater sticks, and Roland electronics for Slipknot's sample-triggered live show. Cunningham's technique is defined by unconventional patterns and creative use of space rather than technical showmanship — his unconventional snare placements and dynamic control let him move seamlessly between crushing heaviness and ethereal delicacy, mirroring Deftones' emotional arc rather than following typical metal drumming conventions. Weinberg's technique blends the professional discipline he absorbed from his father, E Street Band drummer Max Weinberg, with hardcore-punk-honed intensity — he had to authentically replicate Joey Jordison's complex, iconic parts while injecting his own explosive energy, including sustained blast beats and powerful double bass, into Slipknot's chaotic nine-member live show.
+Abe Cunningham has been a longtime Tama endorser, playing a Tama Starclassic Maple/Bubinga kit with a Tama S.L.P. Big Black Steel 14x8" snare and Zildjian cymbals (14" A New Beat Hi-Hats, A Custom crashes, K Custom Ride), driven by a Tama Iron Cobra double pedal and Zildjian Abe Cunningham Artist Series sticks. Jay Weinberg played an SJC Custom Drums kit with a SJC "The Crucible" 14x6.5" brass snare and Zildjian K Custom Series cymbals (14" Hi-Hats, 17" & 19" Dark Crashes, 20" Ride, 18" China), driven by a DW 9000 double bass pedal, Vater sticks, and Roland electronics for Slipknot's sample-triggered live show. Cunningham's technique is defined by unconventional patterns and creative use of space rather than technical showmanship — his unconventional snare placements and dynamic control let him move seamlessly between crushing heaviness and ethereal delicacy, mirroring Deftones' emotional arc rather than following typical metal drumming conventions. Weinberg's technique blends the professional discipline he absorbed from his father, E Street Band drummer Max Weinberg, with hardcore-punk-honed intensity — he had to authentically replicate Joey Jordison's complex, iconic parts while injecting his own explosive energy, including sustained blast beats and powerful double bass, into Slipknot's chaotic nine-member live show.
 
 ## Influence & Legacy
 
@@ -46,17 +46,17 @@ Abe Cunningham and Jay Weinberg represent two opposite philosophies of modern me
 
 ## FAQ
 
-**Q: What are the main differences between Abe Cunningham's and Jay Weinberg's drum kits?**
-A: Abe Cunningham plays SJC Custom Drums with Zildjian cymbals, while Jay Weinberg uses SJC Custom Drums (OBEY x ST Collaboration Kit) with Zildjian cymbals. Abe Cunningham has been a longtime Tama endorser, playing a Tama Starclassic Maple/Bubinga kit with a Tama S.L.P. Big Black Steel 14x8" snare and Zildjian cymbals (14" A New Beat Hi-Hats, A Custom crashes, K Custom Ride), driven by a Tama Iron Cobra double pedal and Zildjian Abe Cunningham Artist Series sticks. Jay Weinberg played an SJC Custom Drums kit with a Tama S.L.P. 14x6.5" snare and Zildjian K Custom Series cymbals (14" Hi-Hats, 17" & 19" Dark Crashes, 20" Ride, 18" China), driven by a DW 9000 double bass pedal, Vater sticks, and Roland electronics for Slipknot's sample-triggered live show.
+**Q: What makes Deftones vs Slipknot drumming different?**
+A: Abe Cunningham (Deftones) plays with unconventional, atmosphere-first patterns that prioritize feel, space, and emotional dynamics over technical complexity, reflecting Deftones' shoegaze-influenced alt-metal sound. Jay Weinberg (ex-Slipknot) plays with explosive, hardcore-punk-fueled intensity — sustained blast beats and powerful double bass built for Slipknot's maximalist, nine-member extreme metal live show. Cunningham is restraint and texture; Weinberg is raw aggression and power.
 
-**Q: What drums does Abe Cunningham play vs Jay Weinberg?**
-A: Abe Cunningham plays SJC Custom Drums. Jay Weinberg plays SJC Custom Drums (OBEY x ST Collaboration Kit).
+**Q: Who hits harder, Abe Cunningham or Jay Weinberg?**
+A: Jay Weinberg's Slipknot drumming is built around raw power and sustained extreme-metal intensity — blast beats and heavy double bass patterns designed for arena-scale aggression. Abe Cunningham's Deftones drumming prioritizes dynamic control and groove over sheer force, though he can hit with real weight during Deftones' heaviest passages like "Diamond Eyes" or "Rocket Skates." In terms of pure power and velocity, Weinberg is the harder hitter.
 
-**Q: Who is the better alternative / nu-metal drummer, Abe Cunningham or Jay Weinberg?**
-A: Both are legends in their own right. Abe Cunningham and Jay Weinberg represent two opposite philosophies of modern metal drumming. See the full analysis at [metalforge.io/vs/abe-cunningham-vs-jay-weinberg](https://metalforge.io/vs/abe-cunningham-vs-jay-weinberg).
+**Q: What gear do Abe Cunningham and Jay Weinberg use?**
+A: Abe Cunningham plays a Tama Starclassic Maple/Bubinga kit with a Tama S.L.P. Big Black Steel snare and Zildjian cymbals, driven by a Tama Iron Cobra double pedal. Jay Weinberg played an SJC Custom Drums kit with a SJC "The Crucible" brass snare and Zildjian K Custom cymbals, driven by a DW 9000 double bass pedal and Roland electronics.
 
-**Q: What cymbals do Abe Cunningham and Jay Weinberg use?**
-A: Abe Cunningham uses Zildjian K Custom & A Custom Series (14" K Custom Hi-Hats, 18" & 20" K Custom Crashes, 22" K Custom Ride, 19" A Custom China). Jay Weinberg uses Zildjian (14" A New Beat Hi-Hats, 18" & 19" A Custom Crashes, 21" K Custom Ride, 19" K China, 7" FX Break Bell).
+**Q: What bands did each play for?**
+A: Abe Cunningham has been the founding and only drummer for Deftones since 1988, spanning nine studio albums including "White Pony" (2000) and "Ohms" (2020). Jay Weinberg drummed for Slipknot from 2014 to 2023, recorded three studio albums, and later joined Suicidal Tendencies in 2024.
 
 ---
 
@@ -67,4 +67,4 @@ A: Abe Cunningham uses Zildjian K Custom & A Custom Series (14" K Custom Hi-Hats
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

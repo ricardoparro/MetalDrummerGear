@@ -34,7 +34,7 @@ Bostaph brings relentless power and consistency — his double bass at thrash te
 
 ## Key Differences
 
-Paul Bostaph's final Slayer setup used DW Collector's Series Maple/Mahogany drums with Paiste RUDE cymbals, DW 9000 Series double pedal, and Vater Power 5B sticks — a powerful, punchy configuration designed for arena-scale thrash. Jon Dette used various setups across his career including Pearl, Tama, and DW drums, with Sabian or Zildjian cymbals and DW 9000 or Tama Iron Cobra double pedals — versatile rigs suited to rapid deployment across multiple bands' requirements. Bostaph brings relentless power and consistency — his double bass at thrash tempos is metronomic, his snare attack is authoritative, and his ability to replicate and extend Lombardo's complex parts night after night across years of global touring made him the definitive long-term replacement. He was praised for maintaining Slayer's intensity through four studio records and the band's entire final touring cycle. Dette is defined by rapid adaptability — the ability to learn complete setlists from multiple major thrash bands quickly, deliver professional touring performances on short notice, and maintain the integrity of each band's established drum parts. His work on Testament's "The Formation of Damnation" (2008) and "Dark Roots of Earth" (2012) showcased genuine compositional contribution beyond fill-in status.
+Paul Bostaph's final Slayer setup used Pearl Masters Maple Complete (MCX) drums with Sabian AAX Series cymbals, Pearl Eliminator double pedal, and Vater Power 5B sticks — a powerful, punchy configuration designed for arena-scale thrash. Jon Dette has played Ludwig Classic Maple drums since 1996, with Sabian or Zildjian cymbals and DW 9000 or Tama Iron Cobra double pedals — a versatile rig suited to rapid deployment across multiple bands' requirements. Bostaph brings relentless power and consistency — his double bass at thrash tempos is metronomic, his snare attack is authoritative, and his ability to replicate and extend Lombardo's complex parts night after night across years of global touring made him the definitive long-term replacement. He was praised for maintaining Slayer's intensity through four studio records and the band's entire final touring cycle. Dette is defined by rapid adaptability — the ability to learn complete setlists from multiple major thrash bands quickly, deliver professional touring performances on short notice, and maintain the integrity of each band's established drum parts. His work on Testament's "The Formation of Damnation" (2008) and "Dark Roots of Earth" (2012) showcased genuine compositional contribution beyond fill-in status.
 
 ## Influence & Legacy
 
@@ -46,17 +46,17 @@ Paul Bostaph and Jon Dette are united by their shared role in one of metal's gre
 
 ## FAQ
 
-**Q: What are the main differences between Paul Bostaph's and Jon Dette's drum kits?**
-A: Paul Bostaph plays Pearl Masters Maple Complete (MCX) with Sabian cymbals, while Jon Dette uses Ludwig Classic Maple with Sabian cymbals. Paul Bostaph's final Slayer setup used DW Collector's Series Maple/Mahogany drums with Paiste RUDE cymbals, DW 9000 Series double pedal, and Vater Power 5B sticks — a powerful, punchy configuration designed for arena-scale thrash. Jon Dette used various setups across his career including Pearl, Tama, and DW drums, with Sabian or Zildjian cymbals and DW 9000 or Tama Iron Cobra double pedals — versatile rigs suited to rapid deployment across multiple bands' requirements.
+**Q: Who played drums for Slayer besides Dave Lombardo?**
+A: Two drummers replaced Dave Lombardo in Slayer: Paul Bostaph (1992–2001 and 2013–2019), who recorded four studio albums including "Divine Intervention" and "Repentless," and Jon Dette (1996–97), who served as a touring fill-in while Bostaph recovered from injury. Bostaph is Slayer's longest-serving drummer by total years.
 
-**Q: What drums does Paul Bostaph play vs Jon Dette?**
-A: Paul Bostaph plays Pearl Masters Maple Complete (MCX). Jon Dette plays Ludwig Classic Maple.
+**Q: What albums did Paul Bostaph record with Slayer?**
+A: Paul Bostaph recorded four studio albums with Slayer: "Divine Intervention" (1994), "Undisputed Attitude" (1996, punk covers), "Diabolus in Musica" (1998), and "Repentless" (2015). He also performed on Slayer's Final World Tour (2018–2019) and their last show ever at the Forum in Los Angeles on November 30, 2019.
 
-**Q: Who is the better thrash metal drummer, Paul Bostaph or Jon Dette?**
-A: Both are legends in their own right. Paul Bostaph and Jon Dette are united by their shared role in one of metal's greatest succession stories — both filled the massive void left by Dave Lombardo in Slayer while carving out respected careers in their own right. See the full analysis at [metalforge.io/vs/paul-bostaph-vs-jon-dette](https://metalforge.io/vs/paul-bostaph-vs-jon-dette).
+**Q: What is Jon Dette best known for besides Slayer?**
+A: Jon Dette is best known for his long-term membership in Testament (1997–1999, 2001–2012), where he recorded "The Gathering" (1999) — considered one of Testament's finest albums — as well as "The Formation of Damnation" (2008) and "Dark Roots of Earth" (2012). He also filled in for Charlie Benante on Anthrax tour dates in 2010.
 
-**Q: What cymbals do Paul Bostaph and Jon Dette use?**
-A: Paul Bostaph uses Sabian AAX Series (14" AAX Stage Hi-Hats, 17" & 19" AAX X-Plosion Crashes, 21" AAX Stage Ride, 18" AAXtreme China). Jon Dette uses Sabian AAX / Zildjian A Series (14" Hi-Hats, 16" & 18" Crash, 20" Ride, 18" China).
+**Q: What gear does Paul Bostaph use vs Jon Dette?**
+A: Paul Bostaph's final Slayer setup used Pearl Masters Maple Complete (MCX) drums, Sabian AAX Series cymbals, and Pearl Eliminator double pedal with Vater Power 5B sticks. Jon Dette has played Ludwig Classic Maple drums since 1996 with Sabian or Zildjian cymbals and DW 9000 or Tama Iron Cobra double pedals.
 
 ---
 
@@ -67,4 +67,4 @@ A: Paul Bostaph uses Sabian AAX Series (14" AAX Stage Hi-Hats, 17" & 19" AAX X-P
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

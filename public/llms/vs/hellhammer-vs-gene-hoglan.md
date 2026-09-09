@@ -34,7 +34,7 @@ Hellhammer's technique is built around cold, relentless blast beats delivered wi
 
 ## Key Differences
 
-Hellhammer's classic "De Mysteriis Dom Sathanas" rig was a developing-endorsement Pearl 5-piece shell pack (22"x16" kick, 10"x9" and 12"x10" racks, 16"x16" floor tom) with a Pearl 14"x5.5" steel snare tuned bright for maximum crack, paired with Zildjian A Series cymbals — a stripped-down, unpolished setup that suited early Norwegian black metal's raw production values. His modern rig has expanded to Pearl Reference and Pearl Masters Premium series kits for his Dimmu Borgir symphonic work. Gene Hoglan plays a Pearl Reference Pure kit (a maple/mahogany hybrid shell chosen for tonal clarity at extreme tempos) with a Pearl Reference 14"x6.5" Brass snare, Sabian AAX Series cymbals (15" Hi-Hats, 18" & 20" Crashes, 22" Ride, 20" China), a Pearl Demon Drive double pedal, and Promark 5B sticks. Hellhammer's technique is built around cold, relentless blast beats delivered with an icy one-foot precision that became the template for second-wave black metal drumming — speed in service of atmosphere and aggression rather than technical display. Gene pioneered the "gravity blast," a blast-beat variation that harnesses the stick's own rebound momentum instead of pure muscular force, letting him sustain extreme tempos across full albums and tours with far less fatigue. Where Hellhammer's blasts feel like a blizzard, Gene's feel like a machine calibrated for endurance — both approaches reshaped how extreme metal drummers think about sustainable speed.
+Hellhammer's classic "De Mysteriis Dom Sathanas" rig was a developing-endorsement Sonor 5-piece shell pack (22"x16" kick, 10"x9" and 12"x10" racks, 16"x16" floor tom) with a Sonor 14"x5.5" steel snare tuned bright for maximum crack — a stripped-down, unpolished setup that suited early Norwegian black metal's raw production values. His modern rig has been a Sonor SQ2 Heavy Beech kit since 1999 for his Dimmu Borgir symphonic work. Gene Hoglan plays a Pearl Reference Pure kit (a maple/mahogany hybrid shell chosen for tonal clarity at extreme tempos) with a Pearl Reference 14"x6.5" Brass snare, Sabian AAX Series cymbals (15" Hi-Hats, 18" & 20" Crashes, 22" Ride, 20" China), a Pearl Demon Drive double pedal, and Promark 5B sticks. Hellhammer's technique is built around cold, relentless blast beats delivered with an icy one-foot precision that became the template for second-wave black metal drumming — speed in service of atmosphere and aggression rather than technical display. Gene pioneered the "gravity blast," a blast-beat variation that harnesses the stick's own rebound momentum instead of pure muscular force, letting him sustain extreme tempos across full albums and tours with far less fatigue. Where Hellhammer's blasts feel like a blizzard, Gene's feel like a machine calibrated for endurance — both approaches reshaped how extreme metal drummers think about sustainable speed.
 
 ## Influence & Legacy
 
@@ -46,17 +46,17 @@ Hellhammer and Gene Hoglan represent two different engines built for the same jo
 
 ## FAQ
 
-**Q: What are the main differences between Hellhammer's and Gene Hoglan's drum kits?**
-A: Hellhammer plays Sonor SQ2 Heavy Beech with Paiste cymbals, while Gene Hoglan uses Pearl Reference Pure with Sabian cymbals. Hellhammer's classic "De Mysteriis Dom Sathanas" rig was a developing-endorsement Pearl 5-piece shell pack (22"x16" kick, 10"x9" and 12"x10" racks, 16"x16" floor tom) with a Pearl 14"x5.5" steel snare tuned bright for maximum crack, paired with Zildjian A Series cymbals — a stripped-down, unpolished setup that suited early Norwegian black metal's raw production values. His modern rig has expanded to Pearl Reference and Pearl Masters Premium series kits for his Dimmu Borgir symphonic work. Gene Hoglan plays a Pearl Reference Pure kit (a maple/mahogany hybrid shell chosen for tonal clarity at extreme tempos) with a Pearl Reference 14"x6.5" Brass snare, Sabian AAX Series cymbals (15" Hi-Hats, 18" & 20" Crashes, 22" Ride, 20" China), a Pearl Demon Drive double pedal, and Promark 5B sticks.
+**Q: Who is faster, Hellhammer or Gene Hoglan?**
+A: Both are considered among metal's fastest drummers, but in different disciplines. Hellhammer's speed is rooted in raw black metal blast beats, showcased on Mayhem's "De Mysteriis Dom Sathanas" (1994). Gene Hoglan's speed is rooted in his self-invented gravity blast technique, which lets him sustain extreme tempos with less fatigue across full albums with Death, Dark Angel, and Testament.
 
-**Q: What drums does Hellhammer play vs Gene Hoglan?**
-A: Hellhammer plays Sonor SQ2 Heavy Beech. Gene Hoglan plays Pearl Reference Pure.
+**Q: What bands have Hellhammer and Gene Hoglan played in?**
+A: Hellhammer has drummed for Mayhem since 1988 and Dimmu Borgir since 1999, alongside stints in Arcturus and Shining. Gene Hoglan has drummed in over 20 bands across four decades, including Dark Angel, Death, Testament, Strapping Young Lad, and Fear Factory.
 
-**Q: Who is the better extreme / death / black metal drummer, Hellhammer or Gene Hoglan?**
-A: Both are legends in their own right. Hellhammer and Gene Hoglan represent two different engines built for the same job: playing faster and longer than seems humanly possible. See the full analysis at [metalforge.io/vs/hellhammer-vs-gene-hoglan](https://metalforge.io/vs/hellhammer-vs-gene-hoglan).
+**Q: What drums do Hellhammer and Gene Hoglan play?**
+A: Hellhammer played a Sonor 5-piece shell pack with a Sonor 14"x5.5" steel snare on "De Mysteriis Dom Sathanas," later moving to the Sonor SQ2 Heavy Beech kit in 1999. Gene Hoglan plays a Pearl Reference Pure kit with a Pearl Reference 14"x6.5" Brass snare and Sabian AAX cymbals.
 
-**Q: What cymbals do Hellhammer and Gene Hoglan use?**
-A: Hellhammer uses Paiste (14" RUDE Hi-Hats, 18" & 19" RUDE Crashes, 20" RUDE Ride, 18" RUDE China). Gene Hoglan uses Sabian AAX Series (15" Hi-Hats, 18" & 20" Crashes, 22" Ride, 20" China).
+**Q: What is Gene Hoglan's "gravity blast" technique?**
+A: The gravity blast is a blast-beat variation Gene Hoglan pioneered that uses the stick's own gravitational momentum rather than pure muscular force, allowing sustained extreme speeds with less fatigue. It became a foundational technique studied by extreme metal drummers, including many who followed Hellhammer's black metal blast-beat tradition.
 
 ---
 
@@ -67,4 +67,4 @@ A: Hellhammer uses Paiste (14" RUDE Hi-Hats, 18" & 19" RUDE Crashes, 20" RUDE Ri
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

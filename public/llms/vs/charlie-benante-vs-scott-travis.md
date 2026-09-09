@@ -34,7 +34,7 @@ Benante is celebrated for his skank beat innovation — the thrash metal rhythmi
 
 ## Key Differences
 
-Charlie Benante plays Pearl drums — Reference or Masters Series — with Sabian cymbals (AAX and HHX Series), endorsing a powerful, warm setup that serves Anthrax's multi-decade catalog live. He uses Vater drumsticks and Pearl Eliminator Demon double pedals for the band's most demanding passages. Scott Travis endorses ddrum Dominion Series drums with Paiste RUDE & 2002 Series cymbals (14" RUDE Hi-Hats, 18" & 19" RUDE Crashes, 22" RUDE Power Ride, 18" RUDE China) and DW 9000 Series double pedal with Vic Firth American Classic 5B sticks — a bright, cutting setup built for Judas Priest's arena-scale heavy metal presentation. Benante is celebrated for his skank beat innovation — the thrash metal rhythmic pattern that became a genre signature — and his ability to combine hardcore-influenced aggression with tight, pocket-forward drumming that gives Anthrax's riffs room to breathe. His double bass work is purposeful rather than relentless, serving the song first. He also brings creative fill vocabulary drawn from his punk and new wave influences, giving Anthrax a rhythmic personality distinct from other Big Four bands. Travis is defined by power and precision — his double bass footwork on "Painkiller"'s title track is one of heavy metal's most celebrated drumming performances, a machine-like display of speed and consistency that established him as one of the genre's elite. His performance with Priest navigates the full spectrum of the band's catalog: classic Halford-era anthems requiring feel and finesse alongside the maximum-power modern metal of "Firepower."
+Charlie Benante plays Tama Starclassic drums with Paiste RUDE & 2002 Series cymbals, endorsing a powerful, warm setup that serves Anthrax's multi-decade catalog live. He uses Vic Firth drumsticks and a Tama Speed Cobra double pedal for the band's most demanding passages. Scott Travis endorses ddrum Dominion Series drums with Paiste RUDE & 2002 Series cymbals (14" RUDE Hi-Hats, 18" & 19" RUDE Crashes, 22" RUDE Power Ride, 18" RUDE China) and DW 9000 Series double pedal with Vic Firth American Classic 5B sticks — a bright, cutting setup built for Judas Priest's arena-scale heavy metal presentation. Benante is celebrated for his skank beat innovation — the thrash metal rhythmic pattern that became a genre signature — and his ability to combine hardcore-influenced aggression with tight, pocket-forward drumming that gives Anthrax's riffs room to breathe. His double bass work is purposeful rather than relentless, serving the song first. He also brings creative fill vocabulary drawn from his punk and new wave influences, giving Anthrax a rhythmic personality distinct from other Big Four bands. Travis is defined by power and precision — his double bass footwork on "Painkiller"'s title track is one of heavy metal's most celebrated drumming performances, a machine-like display of speed and consistency that established him as one of the genre's elite. His performance with Priest navigates the full spectrum of the band's catalog: classic Halford-era anthems requiring feel and finesse alongside the maximum-power modern metal of "Firepower."
 
 ## Influence & Legacy
 
@@ -46,17 +46,17 @@ Charlie Benante and Scott Travis are two of their generation's most important me
 
 ## FAQ
 
-**Q: What are the main differences between Charlie Benante's and Scott Travis's drum kits?**
-A: Charlie Benante plays Tama Starclassic with Paiste cymbals, while Scott Travis uses ddrum Dominion Series with Paiste cymbals. Charlie Benante plays Pearl drums — Reference or Masters Series — with Sabian cymbals (AAX and HHX Series), endorsing a powerful, warm setup that serves Anthrax's multi-decade catalog live. He uses Vater drumsticks and Pearl Eliminator Demon double pedals for the band's most demanding passages. Scott Travis endorses ddrum Dominion Series drums with Paiste RUDE & 2002 Series cymbals (14" RUDE Hi-Hats, 18" & 19" RUDE Crashes, 22" RUDE Power Ride, 18" RUDE China) and DW 9000 Series double pedal with Vic Firth American Classic 5B sticks — a bright, cutting setup built for Judas Priest's arena-scale heavy metal presentation.
+**Q: Who is a better drummer, Charlie Benante or Scott Travis?**
+A: Both are elite drummers of the same generation with equally legendary credentials. Charlie Benante (Anthrax) pioneered the thrash metal skank beat and defined the Big Four's most rhythmically creative drumming voice. Scott Travis (Judas Priest) delivered the "Painkiller" performance — one of heavy metal's most technically demanding and celebrated drumming feats. The answer depends on whether you value thrash groove creativity or raw heavy metal power.
 
-**Q: What drums does Charlie Benante play vs Scott Travis?**
-A: Charlie Benante plays Tama Starclassic. Scott Travis plays ddrum Dominion Series.
+**Q: What albums did Charlie Benante record with Anthrax?**
+A: Charlie Benante has recorded all of Anthrax's studio albums as a founding member, including "Among the Living" (1987), "Persistence of Time" (1990), "Sound of White Noise" (1993), "We've Come for You All" (2003), "Worship Music" (2011), and "For All Kings" (2016). His most celebrated drumming is on "Among the Living" and "Persistence of Time."
 
-**Q: Who is the better thrash metal drummer, Charlie Benante or Scott Travis?**
-A: Both are legends in their own right. Charlie Benante and Scott Travis are two of their generation's most important metal drummers, each defining the sound of a legendary band during their greatest commercial and artistic periods. See the full analysis at [metalforge.io/vs/charlie-benante-vs-scott-travis](https://metalforge.io/vs/charlie-benante-vs-scott-travis).
+**Q: What albums did Scott Travis record with Judas Priest?**
+A: Scott Travis has recorded with Judas Priest since 1990, appearing on "Painkiller" (1990), "Jugulator" (1997), "Demolition" (2001), "Angel of Retribution" (2005), "Nostradamus" (2008), "Redeemer of Souls" (2014), and "Firepower" (2018) — spanning four decades as the band's drummer.
 
-**Q: What cymbals do Charlie Benante and Scott Travis use?**
-A: Charlie Benante uses Paiste RUDE & 2002 Series (14" Hi-Hats, 18" & 19" Crashes, 20" Power Ride, 18" China). Scott Travis uses Paiste RUDE & 2002 Series (14" RUDE Hi-Hats, 18" & 19" RUDE Crashes, 22" RUDE Power Ride, 18" RUDE China).
+**Q: Does Charlie Benante have arthritis and still play?**
+A: Yes — Charlie Benante has been open about his struggles with rheumatoid arthritis, which has affected his hands and drumming ability. Despite the condition, he has continued to tour and record with Anthrax, adapting his technique and practice routine to manage the disease. His commitment to the band despite this challenge is widely respected in the metal community.
 
 ---
 
@@ -67,4 +67,4 @@ A: Charlie Benante uses Paiste RUDE & 2002 Series (14" Hi-Hats, 18" & 19" Crashe
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

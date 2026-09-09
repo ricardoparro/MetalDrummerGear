@@ -34,7 +34,7 @@ Raatikainen's technique centers on precise, fluid double bass volleys and drivin
 
 ## Key Differences
 
-Jaska Raatikainen plays a Pearl Masters Premium Maple kit with a Pearl Masters 14x5.5" Maple snare and Zildjian A Custom & K Custom Series cymbals (14" A Custom Hi-Hats, 17" & 18" A Custom Crashes, 20" K Custom Ride), driven by a Pearl Eliminator double pedal and Vic Firth American Classic 5A sticks. Mario Duplantier plays a Tama Starclassic Walnut/Birch kit with a Tama S.L.P. 14x6" G-Maple snare and Meinl Byzance Series cymbals (14" Dark Hi-Hats, 18" & 20" Brilliant Heavy Hammered Crashes, 21" Transition Ride, 18" Extra Dry China), powered by a Tama Iron Cobra 900 Power Glide double pedal and Vic Firth X5A sticks. Raatikainen's technique centers on precise, fluid double bass volleys and driving blast beats that lock tightly beneath Alexi Laiho's dense guitar and keyboard arrangements, a foundational element of melodic death metal's rhythmic template. Duplantier's technique blends raw power with polyrhythmic complexity and an unmistakable tribal, ceremonial quality, often locking into Gojira's tuned, resonant guitar tones with explosive fills and odd-meter grooves.
+Jaska Raatikainen plays a Pearl Masters Premium Maple kit with a Pearl Masters 14x5.5" Maple snare and Zildjian A Custom & K Custom Series cymbals (14" A Custom Hi-Hats, 17" & 18" A Custom Crashes, 20" K Custom Ride), driven by a Pearl Eliminator double pedal and Vic Firth American Classic 5A sticks. Mario Duplantier plays a Tama Starclassic Walnut/Birch kit with a Tama S.L.P. 14x6" G-Maple snare and a Zildjian A Custom/K Custom cymbal array, powered by a Tama Iron Cobra 900 Power Glide double pedal and Tama Mario Duplantier Signature sticks. Raatikainen's technique centers on precise, fluid double bass volleys and driving blast beats that lock tightly beneath Alexi Laiho's dense guitar and keyboard arrangements, a foundational element of melodic death metal's rhythmic template. Duplantier's technique blends raw power with polyrhythmic complexity and an unmistakable tribal, ceremonial quality, often locking into Gojira's tuned, resonant guitar tones with explosive fills and odd-meter grooves.
 
 ## Influence & Legacy
 
@@ -46,17 +46,17 @@ Jaska Raatikainen and Mario Duplantier both built their reputations inside progr
 
 ## FAQ
 
-**Q: What are the main differences between Jaska Raatikainen's and Mario Duplantier's drum kits?**
-A: Jaska Raatikainen plays Pearl Masters Premium Maple with Zildjian cymbals, while Mario Duplantier uses Tama Starclassic Bubinga (22"x18" Bass Drums x2, 12"x9" & 13"x10" Toms, 16"x16" Floor Tom) with Zildjian cymbals. Jaska Raatikainen plays a Pearl Masters Premium Maple kit with a Pearl Masters 14x5.5" Maple snare and Zildjian A Custom & K Custom Series cymbals (14" A Custom Hi-Hats, 17" & 18" A Custom Crashes, 20" K Custom Ride), driven by a Pearl Eliminator double pedal and Vic Firth American Classic 5A sticks. Mario Duplantier plays a Tama Starclassic Walnut/Birch kit with a Tama S.L.P. 14x6" G-Maple snare and Meinl Byzance Series cymbals (14" Dark Hi-Hats, 18" & 20" Brilliant Heavy Hammered Crashes, 21" Transition Ride, 18" Extra Dry China), powered by a Tama Iron Cobra 900 Power Glide double pedal and Vic Firth X5A sticks.
+**Q: How do Jaska Raatikainen and Mario Duplantier compare as drummers?**
+A: Jaska Raatikainen anchored Children of Bodom's melodic death metal with precise blast-beat technique for 26 years, from 1993 to 2019. Mario Duplantier co-founded Gojira in 1996 and drives the band's polyrhythmic, tribal groove with crushing double bass patterns.
 
-**Q: What drums does Jaska Raatikainen play vs Mario Duplantier?**
-A: Jaska Raatikainen plays Pearl Masters Premium Maple. Mario Duplantier plays Tama Starclassic Bubinga (22"x18" Bass Drums x2, 12"x9" & 13"x10" Toms, 16"x16" Floor Tom).
+**Q: What gear do Jaska Raatikainen and Mario Duplantier use?**
+A: Jaska Raatikainen plays a Pearl Masters Premium Maple kit with a Pearl Masters 14x5.5" Maple snare and Zildjian A Custom & K Custom Series cymbals, driven by a Pearl Eliminator double pedal. Mario Duplantier plays a Tama Starclassic Walnut/Birch kit with a Tama S.L.P. 14x6" G-Maple snare and a Zildjian A Custom/K Custom cymbal array, powered by a Tama Iron Cobra 900 Power Glide double pedal.
 
-**Q: Who is the better progressive metal drummer, Jaska Raatikainen or Mario Duplantier?**
-A: Both are legends in their own right. Jaska Raatikainen and Mario Duplantier both built their reputations inside progressive-leaning extreme metal, but through different rhythmic vocabularies. See the full analysis at [metalforge.io/vs/jaska-raatikainen-vs-mario-duplantier](https://metalforge.io/vs/jaska-raatikainen-vs-mario-duplantier).
+**Q: What bands are Jaska Raatikainen and Mario Duplantier known for?**
+A: Jaska Raatikainen co-founded Children of Bodom in 1993 and remained the band's sole drummer until their 2019 farewell. Mario Duplantier co-founded Gojira with his brother Joe Duplantier in 1996 and remains the band's drummer.
 
-**Q: What cymbals do Jaska Raatikainen and Mario Duplantier use?**
-A: Jaska Raatikainen uses Zildjian A Custom & K Custom Series (14" A Custom Hi-Hats, 17" & 18" A Custom Crashes, 20" K Custom Ride). Mario Duplantier uses Zildjian (14" K Sweet Hi-Hats, 14" A Custom Hi-Hats, 18" K Custom Hybrid Crash, 19" A Custom Crash, 20" K Sweet Crash, 21" Z Custom Mega Bell Ride, 18" & 20" Chinas).
+**Q: How long did Jaska Raatikainen drum for Children of Bodom?**
+A: Jaska Raatikainen drummed for Children of Bodom for 26 years, from the band's 1993 formation through their 2019 farewell album "Hexed."
 
 ---
 
@@ -67,4 +67,4 @@ A: Jaska Raatikainen uses Zildjian A Custom & K Custom Series (14" A Custom Hi-H
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

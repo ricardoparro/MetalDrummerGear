@@ -18,11 +18,11 @@ Korn's Ray Luzier vs Deftones' Abe Cunningham. Alternative metal drumming, groov
 
 ## Abe Cunningham Setup
 
-- **Drums:** SJC Custom Drums
+- **Drums:** Tama Starclassic Bubinga (Egyptian Night Mist)
 - **Cymbals:** Zildjian K Custom & A Custom Series (14" K Custom Hi-Hats, 18" & 20" K Custom Crashes, 22" K Custom Ride, 19" A Custom China)
-- **Snare:** SJC Custom 14x6.5" Brass
-- **Pedals/Hardware:** DW 9000 Series Double Pedal, DW Hardware
-- **Sticks:** Vic Firth American Classic 2B
+- **Snare:** Tama Starclassic matching snare (no separate model documented)
+- **Pedals/Hardware:** Tama Iron Cobra Power Glide Twin Pedal (HP900PTW), Iron Cobra Lever Glide Hi-Hat (HH905)
+- **Sticks:** Pro-Mark
 
 ## Playing Style
 
@@ -34,7 +34,7 @@ Ray excels at tight, syncopated patterns with David Silveria's legacy. Abe maste
 
 ## Key Differences
 
-Ray endorses Pearl drums with Zildjian cymbals. Abe plays DW drums with Zildjian for warm tones. Ray excels at tight, syncopated patterns with David Silveria's legacy. Abe masters dynamics and textural playing.
+Ray endorses Pearl drums with Sabian cymbals. Abe plays Tama drums with Zildjian for warm tones. Ray excels at tight, syncopated patterns with David Silveria's legacy. Abe masters dynamics and textural playing.
 
 ## Influence & Legacy
 
@@ -47,10 +47,10 @@ Ray Luzier honors and evolves Korn's signature sound. Abe Cunningham pioneered a
 ## FAQ
 
 **Q: What are the main differences between Ray Luzier's and Abe Cunningham's drum kits?**
-A: Ray Luzier plays Pearl Reference Series with Sabian cymbals, while Abe Cunningham uses SJC Custom Drums with Zildjian cymbals. Ray endorses Pearl drums with Zildjian cymbals. Abe plays DW drums with Zildjian for warm tones.
+A: Ray Luzier plays Pearl Reference Series with Sabian cymbals, while Abe Cunningham uses Tama Starclassic Bubinga (Egyptian Night Mist) with Zildjian cymbals. Ray endorses Pearl drums with Sabian cymbals. Abe plays Tama drums with Zildjian for warm tones.
 
 **Q: What drums does Ray Luzier play vs Abe Cunningham?**
-A: Ray Luzier plays Pearl Reference Series. Abe Cunningham plays SJC Custom Drums.
+A: Ray Luzier plays Pearl Reference Series. Abe Cunningham plays Tama Starclassic Bubinga (Egyptian Night Mist).
 
 **Q: Who is the better alternative / nu-metal drummer, Ray Luzier or Abe Cunningham?**
 A: Both are legends in their own right. Ray Luzier honors and evolves Korn's signature sound. See the full analysis at [metalforge.io/vs/ray-luzier-vs-abe-cunningham](https://metalforge.io/vs/ray-luzier-vs-abe-cunningham).
@@ -67,4 +67,4 @@ A: Ray Luzier uses Sabian AAX Series (14" Stage Hi-Hats, 18" & 19" X-Plosion Cra
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

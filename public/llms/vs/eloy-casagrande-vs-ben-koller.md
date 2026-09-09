@@ -46,17 +46,17 @@ Eloy Casagrande and Ben Koller both build extreme technical reputations, but fro
 
 ## FAQ
 
-**Q: What are the main differences between Eloy Casagrande's and Ben Koller's drum kits?**
-A: Eloy Casagrande plays Tama Starclassic Bubinga (22"x16" & 24"x14" Bass Drums, 10", 12", 13" Toms, 16" & 18" Floor Toms) with Paiste cymbals, while Ben Koller uses Tama Starclassic Maple with Zildjian cymbals. Casagrande plays a Tama Starclassic Bubinga kit with dual 22"x18" bass drums, a Tama S.L.P. Sonic Steel 14"x6" snare, and Paiste RUDE/2002/PST X cymbals, driven by twin Tama Speed Cobra 910 pedals and Promark signature sticks. Koller plays a Tama Starclassic Maple kit with a Tama S.L.P. 14x6" Brass snare and Zildjian K Dark Series cymbals (14" K Dark Thin Hi-Hats, 18" & 19" K Dark Medium Thin Crashes, 21" K Custom Ride, 18" K China), driven by a Tama Iron Cobra 900 double pedal and Vic Firth American Classic 5B sticks.
+**Q: Who is more technical: Eloy Casagrande or Ben Koller?**
+A: Both are considered among modern heavy music's most demanding drummers, but in different ways. Eloy Casagrande (Slipknot, ex-Sepultura) is demanding through dual-bass-drum power and controlled, Modern Drummer-crowned precision. Ben Koller (Converge) is demanding through a loose, unpredictable attack built to make Converge's mathcore feel dangerous. Casagrande's difficulty is mechanical; Koller's is visceral.
 
-**Q: What drums does Eloy Casagrande play vs Ben Koller?**
-A: Eloy Casagrande plays Tama Starclassic Bubinga (22"x16" & 24"x14" Bass Drums, 10", 12", 13" Toms, 16" & 18" Floor Toms). Ben Koller plays Tama Starclassic Maple.
+**Q: What gear do Eloy Casagrande and Ben Koller use?**
+A: Eloy Casagrande plays a Tama Starclassic Bubinga kit with dual 22"x18" bass drums, a Tama S.L.P. Sonic Steel snare, and Paiste RUDE/2002/PST X cymbals, driven by twin Tama Speed Cobra 910 pedals. Ben Koller plays a Tama Starclassic Maple kit with a Tama S.L.P. 14x6" Brass snare and Zildjian K Dark Series cymbals, driven by a Tama Iron Cobra 900 double pedal.
 
-**Q: Who is the better extreme / death / black metal drummer, Eloy Casagrande or Ben Koller?**
-A: Both are legends in their own right. Eloy Casagrande and Ben Koller both build extreme technical reputations, but from opposite instincts. See the full analysis at [metalforge.io/vs/eloy-casagrande-vs-ben-koller](https://metalforge.io/vs/eloy-casagrande-vs-ben-koller).
+**Q: What bands are Eloy Casagrande and Ben Koller known for?**
+A: Eloy Casagrande drummed for Sepultura from 2011 to 2024 before joining Slipknot. Ben Koller has drummed for Converge since 1999, and also plays in Mutoid Man and Killer Be Killed.
 
-**Q: What cymbals do Eloy Casagrande and Ben Koller use?**
-A: Eloy Casagrande uses Paiste (15" Masters Dark Hi-Hats, 20" Masters Dark Ride, 20" & 20" 602 Crashes, 10" Rude Splash, 20" Masters Dark Crash, 20" 2002 Heavy Ride, 20" 2002 Novo China, 10" 2002 Mega Bell, Symphonic Gong). Ben Koller uses Zildjian (14" K Dark Thin Hi-Hats, 18" & 19" K Dark Medium Thin Crashes, 21" K Custom Ride, 18" K China).
+**Q: Did Eloy Casagrande win any major drumming awards?**
+A: Yes — Eloy Casagrande was voted the #1 metal drummer in Modern Drummer's 2024 Readers' Poll, recognition that came after 13 years with Sepultura and coincided with his move to Slipknot.
 
 ---
 
@@ -67,4 +67,4 @@ A: Eloy Casagrande uses Paiste (15" Masters Dark Hi-Hats, 20" Masters Dark Ride,
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

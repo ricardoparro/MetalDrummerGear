@@ -22,7 +22,7 @@ August Burns Red's Matt Greiner vs Nile's George Kollias — jazz-informed metal
 - **Cymbals:** Zildjian (14" K Mastersound Hi-Hats, 17" & 18" K Custom Dark Crashes, 21" A Custom Mega Bell Ride, 18" China)
 - **Snare:** Pearl George Kollias Signature 14x6.5"
 - **Pedals/Hardware:** Pearl Demon XR Double Pedal (Co-designed), Pearl D-3000 Throne
-- **Sticks:** Vic Firth George Kollias Signature SGK
+- **Sticks:** Vic Firth
 
 ## Playing Style
 
@@ -34,7 +34,7 @@ Greiner incorporates jazz-influenced dynamics, creative cymbal work, and rapid-f
 
 ## Key Differences
 
-Matt Greiner plays a Pearl Reference Pure kit with his own Pearl Matt Greiner Signature 14x6" Steel snare and Meinl Byzance Series cymbals (15" Dual Hi-Hats, 18" & 19" Extra Dry Medium Crashes, 21" Transition Ride, 18" Extra Dry China), driven by a Pearl Demon Drive double pedal and his own Vic Firth Matt Greiner Signature sticks. George Kollias plays a Pearl Masterworks Stadium Exotic kit finished in Piano Black with Gold Hardware, anchored by his 14x6.5" Pearl George Kollias Signature snare and Zildjian cymbals (14" K Mastersound Hi-Hats, 17" & 18" K Custom Dark Crashes, 21" A Custom Mega Bell Ride, 18" China), powered by the Pearl Demon XR double pedal he co-designed and his own Vic Firth George Kollias Signature SGK sticks. Greiner incorporates jazz-influenced dynamics, creative cymbal work, and rapid-fire double bass into metalcore's heavy foundation, weaving purposeful transitions between blast beats, breakdowns, and melodic sections into August Burns Red's song structures. Kollias co-designed his own pedal around a heel-toe technique that lets him sustain blast beats past 240 BPM with surgical clarity, and he also employs the gravity blast for extra speed on Nile's most extreme passages, earning him the nickname "The Human Blast Beat Machine."
+Matt Greiner plays a Mapex Black Panther Design Lab kit with his own Pearl Matt Greiner Signature 14x6" Steel snare and Paiste Formula 602 Series cymbals, driven by a DW 9000 Series double pedal and his own Vic Firth Matt Greiner Signature sticks. George Kollias plays a Pearl Masterworks Stadium Exotic kit finished in Piano Black with Gold Hardware, anchored by his 14x6.5" Pearl George Kollias Signature snare and Zildjian cymbals (14" K Mastersound Hi-Hats, 17" & 18" K Custom Dark Crashes, 21" A Custom Mega Bell Ride, 18" China), powered by the Pearl Demon XR double pedal he co-designed and his own Vic Firth sticks. Greiner incorporates jazz-influenced dynamics, creative cymbal work, and rapid-fire double bass into metalcore's heavy foundation, weaving purposeful transitions between blast beats, breakdowns, and melodic sections into August Burns Red's song structures. Kollias co-designed his own pedal around a heel-toe technique that lets him sustain blast beats past 240 BPM with surgical clarity, and he also employs the gravity blast for extra speed on Nile's most extreme passages, earning him the nickname "The Human Blast Beat Machine."
 
 ## Influence & Legacy
 
@@ -46,17 +46,17 @@ Matt Greiner and George Kollias push different extremes of technical drumming. G
 
 ## FAQ
 
-**Q: What are the main differences between Matt Greiner's and George Kollias's drum kits?**
-A: Matt Greiner plays Mapex Black Panther Design Lab with Paiste cymbals, while George Kollias uses Pearl Masterworks Stadium Exotic (Piano Black with Gold Hardware) with Zildjian cymbals. Matt Greiner plays a Pearl Reference Pure kit with his own Pearl Matt Greiner Signature 14x6" Steel snare and Meinl Byzance Series cymbals (15" Dual Hi-Hats, 18" & 19" Extra Dry Medium Crashes, 21" Transition Ride, 18" Extra Dry China), driven by a Pearl Demon Drive double pedal and his own Vic Firth Matt Greiner Signature sticks. George Kollias plays a Pearl Masterworks Stadium Exotic kit finished in Piano Black with Gold Hardware, anchored by his 14x6.5" Pearl George Kollias Signature snare and Zildjian cymbals (14" K Mastersound Hi-Hats, 17" & 18" K Custom Dark Crashes, 21" A Custom Mega Bell Ride, 18" China), powered by the Pearl Demon XR double pedal he co-designed and his own Vic Firth George Kollias Signature SGK sticks.
+**Q: How do Matt Greiner and George Kollias compare as drummers?**
+A: Matt Greiner brings jazz-influenced dynamics and technical precision to August Burns Red's metalcore, which he has co-founded and drummed for since 2003. George Kollias pushes blast-beat endurance to its physical limits for Nile's technical death metal, sustaining speeds past 240 BPM since joining the band in 2004.
 
-**Q: What drums does Matt Greiner play vs George Kollias?**
-A: Matt Greiner plays Mapex Black Panther Design Lab. George Kollias plays Pearl Masterworks Stadium Exotic (Piano Black with Gold Hardware).
+**Q: What gear do Matt Greiner and George Kollias use?**
+A: Matt Greiner plays a Mapex Black Panther Design Lab kit with his own signature Pearl 14x6" Steel snare and Paiste Formula 602 Series cymbals, driven by a DW 9000 Series double pedal. George Kollias plays a Pearl Masterworks Stadium Exotic kit with his own signature 14x6.5" Pearl snare and Zildjian cymbals, powered by the Pearl Demon XR double pedal he co-designed.
 
-**Q: Who is the better extreme / death / black metal drummer, Matt Greiner or George Kollias?**
-A: Both are legends in their own right. Matt Greiner and George Kollias push different extremes of technical drumming. See the full analysis at [metalforge.io/vs/matt-greiner-vs-george-kollias](https://metalforge.io/vs/matt-greiner-vs-george-kollias).
+**Q: What bands are Matt Greiner and George Kollias known for?**
+A: Matt Greiner co-founded metalcore band August Burns Red in 2003 and remains the band's drummer. George Kollias has drummed for technical death metal band Nile since 2004, replacing Tony Laureano.
 
-**Q: What cymbals do Matt Greiner and George Kollias use?**
-A: Matt Greiner uses Paiste Formula 602 (14" Hi-Hats, 16"/17"/18" Crashes, 22" Ride, 18" China, 10" Splash). George Kollias uses Zildjian (14" K Mastersound Hi-Hats, 17" & 18" K Custom Dark Crashes, 21" A Custom Mega Bell Ride, 18" China).
+**Q: What technique is George Kollias known for?**
+A: George Kollias co-designed the Pearl Demon XR pedal around his heel-toe technique, letting him sustain blast beats past 240 BPM. He also employs the gravity blast, earning him the nickname "The Human Blast Beat Machine."
 
 ---
 
@@ -67,4 +67,4 @@ A: Matt Greiner uses Paiste Formula 602 (14" Hi-Hats, 16"/17"/18" Crashes, 22" R
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

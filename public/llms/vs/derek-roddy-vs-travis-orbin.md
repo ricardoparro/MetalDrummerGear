@@ -26,7 +26,7 @@ Derek Roddy (Hate Eternal) vs Travis Orbin (ex-Periphery): brutal death metal bl
 
 ## Playing Style
 
-Derek Roddy built his reputation across Hate Eternal, Nile, and Malevolent Creation as one of brutal death metal's pioneering speed-and-endurance specialists, renowned for blast beats and one-footed bass drum techniques delivered with relentless extremity. His playing helped define what modern technical death metal drumming sounds like at its most physically demanding. Travis Orbin rose to prominence as the original studio drummer on Periphery's self-titled 2010 debut album, a record that helped define the djent movement — his complex polyrhythmic patterns and precise double bass work at extreme tempos established a new template for technical progressive metal drumming before he moved on to thrash band Darkest Hour.
+Derek Roddy built his reputation across Hate Eternal, Nile, and Malevolent Creation as one of brutal death metal's pioneering speed-and-endurance specialists, renowned for blast beats and one-footed bass drum techniques delivered with relentless extremity. His playing helped define what modern technical death metal drumming sounds like at its most physically demanding. Travis Orbin played drums in Periphery from 2006 to 2009, in the band's pre-recording years, before leaving ahead of the group writing or recording its self-titled 2010 debut — a record that went on to help define the djent movement, recorded by his replacement Matt Halpern. Orbin's own reputation rests on the complex polyrhythmic patterns and precise double bass work documented in his solo and session playthroughs, before he moved on to thrash band Darkest Hour.
 
 ## Technique
 
@@ -38,7 +38,7 @@ Derek Roddy plays a Tama Starclassic Bubinga kit with a Tama SLP Black Brass 14x
 
 ## Influence & Legacy
 
-Roddy is widely regarded as one of extreme metal's pioneering speed specialists, with his instructional content shaping how a generation of death metal drummers approach blast beats and bass drum technique. Orbin's performance on Periphery's 2010 debut is frequently cited as a foundational djent drumming statement, and his "Travis Orbin Drum" YouTube channel — where he posts studio playthroughs — has made his hyper-precise, polyrhythmic approach influential among modern progressive metal and djent drummers, with influences from Gene Hoglan, Tomas Haake, and Matt Garstka feeding back into his own widely studied style.
+Roddy is widely regarded as one of extreme metal's pioneering speed specialists, with his instructional content shaping how a generation of death metal drummers approach blast beats and bass drum technique. Orbin's polyrhythmic playthrough and session work is widely cited among technical drummers despite predating Periphery's recorded discography, and his "Travis Orbin Drum" YouTube channel — where he posts studio playthroughs — has made his hyper-precise, polyrhythmic approach influential among modern progressive metal and djent drummers, with influences from Gene Hoglan, Tomas Haake, and Matt Garstka feeding back into his own widely studied style.
 
 ## Verdict
 
@@ -46,17 +46,17 @@ Derek Roddy and Travis Orbin represent extreme speed from two different corners 
 
 ## FAQ
 
-**Q: What are the main differences between Derek Roddy's and Travis Orbin's drum kits?**
-A: Derek Roddy plays Tama Starclassic Bubinga with Meinl cymbals, while Travis Orbin uses SJC Custom Drums with Zildjian cymbals. Derek Roddy plays a Tama Starclassic Bubinga kit with a Tama SLP Black Brass 14x6.5" snare and Meinl Byzance & Mb20 Series cymbals, powered by a Tama Speed Cobra 910 double pedal built for sustained blast-beat endurance. Travis Orbin plays SJC Custom Drums with an SJC Custom 14x6.5" Maple snare and Zildjian K Custom Series cymbals, paired with a DW 9000 Series double pedal and a Roland SPD-SX sampling pad for the electronic triggers central to his sound.
+**Q: Who is faster: Derek Roddy or Travis Orbin?**
+A: Both push extreme metal drumming to its limits in different ways. Derek Roddy (Hate Eternal) is renowned for blast-beat velocity and one-footed bass drum endurance across brutal death metal albums. Travis Orbin (Periphery drummer 2006–2009) combines extreme double bass speed with polyrhythmic precision, documented extensively in his own solo and session playthroughs. Roddy by raw blast-beat brutality; Orbin by technical speed under polymetric complexity.
 
-**Q: What drums does Derek Roddy play vs Travis Orbin?**
-A: Derek Roddy plays Tama Starclassic Bubinga. Travis Orbin plays SJC Custom Drums.
+**Q: What is Travis Orbin known for?**
+A: Travis Orbin played drums in Periphery from 2006 to 2009, before the band wrote or recorded its self-titled 2010 debut album — he does not perform on that record. He is known for his complex polyrhythmic patterns, creative use of electronic triggers, and his "Travis Orbin Drum" YouTube channel.
 
-**Q: Who is the better extreme / death / black metal drummer, Derek Roddy or Travis Orbin?**
-A: Both are legends in their own right. Derek Roddy and Travis Orbin represent extreme speed from two different corners of metal drumming. See the full analysis at [metalforge.io/vs/derek-roddy-vs-travis-orbin](https://metalforge.io/vs/derek-roddy-vs-travis-orbin).
+**Q: What gear do Derek Roddy and Travis Orbin use?**
+A: Derek Roddy plays a Tama Starclassic Bubinga kit with Meinl Byzance & Mb20 Series cymbals. Travis Orbin plays SJC Custom Drums with Zildjian K Custom Series cymbals and a Roland SPD-SX sampling pad for electronic triggers.
 
-**Q: What cymbals do Derek Roddy and Travis Orbin use?**
-A: Derek Roddy uses Meinl Byzance & Mb20 Series (14" Byzance Heavy Hi-Hats, 18" & 19" Mb20 Heavy Crashes, 21" Mb20 Heavy Ride, 18" Byzance China). Travis Orbin uses Zildjian K Custom Series (14" K Custom Dark Hi-Hats, 18" & 19" K Custom Dark Crashes, 21" K Custom Ride, 18" K Custom China).
+**Q: Is Derek Roddy a death metal or technical death metal drummer?**
+A: Derek Roddy is best known for brutal and technical death metal, performing with Hate Eternal, Nile, and Malevolent Creation. He is considered one of the pioneers of modern extreme metal drumming, particularly for his blast beat speed and endurance.
 
 ---
 
@@ -67,4 +67,4 @@ A: Derek Roddy uses Meinl Byzance & Mb20 Series (14" Byzance Heavy Hi-Hats, 18" 
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

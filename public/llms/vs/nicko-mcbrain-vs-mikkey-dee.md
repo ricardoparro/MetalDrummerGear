@@ -10,7 +10,7 @@ Iron Maiden's Nicko McBrain vs Motörhead's Mikkey Dee. Two titans of British he
 
 ## Nicko McBrain Setup
 
-- **Drums:** Sonor SQ2 Series
+- **Drums:** British Drum Co.
 - **Cymbals:** Paiste 2002 & Signature Series (14" Sound Edge Hi-Hats, 16" & 18" Power Crashes, 22" Power Ride, 20" China)
 - **Snare:** Sonor Nicko McBrain Signature 14x6.5"
 - **Pedals/Hardware:** Sonor 600 Series Hardware, Single Bass Drum Pedal
@@ -18,10 +18,10 @@ Iron Maiden's Nicko McBrain vs Motörhead's Mikkey Dee. Two titans of British he
 
 ## Mikkey Dee Setup
 
-- **Drums:** Yamaha Recording Custom
-- **Cymbals:** Zildjian A Custom & K Series (14" A Custom Hi-Hats, 18" & 19" A Custom Crashes, 22" K Custom Ride, 20" Oriental China)
-- **Snare:** Yamaha Mikkey Dee Signature 14x8"
-- **Pedals/Hardware:** Yamaha FP9 Double Pedal, Yamaha Hardware
+- **Drums:** Sonor SQ2
+- **Cymbals:** Paiste Signature Series (14" Sound Edge Hi-Hats, 19" & 20" Power Crashes, 22" Power Ride, 18" Heavy China)
+- **Snare:** Sonor Mikkey Dee Signature 14x7.25" Birch
+- **Pedals/Hardware:** DW 5000 Series Pedal, Sonor Hardware
 - **Sticks:** Wincent Mikkey Dee Signature (W-MDS)
 
 ## Playing Style
@@ -34,7 +34,7 @@ Nicko is a single-bass master known for intricate galloping patterns and dynamic
 
 ## Key Differences
 
-Nicko plays Sonor SQ2 drums with Paiste 2002 cymbals for a bright, cutting tone. Mikkey endorses Sonor drums with Zildjian A Custom and K Series cymbals for aggressive projection. Nicko is a single-bass master known for intricate galloping patterns and dynamic control across long songs. Mikkey employs double bass for thunderous speed, hard-hitting snare, and a no-frills aggressive attack.
+Nicko plays a British Drum Co. kit with Paiste 2002 cymbals for a bright, cutting tone. Mikkey endorses Sonor drums with Paiste Signature Series cymbals for aggressive projection. Nicko is a single-bass master known for intricate galloping patterns and dynamic control across long songs. Mikkey employs double bass for thunderous speed, hard-hitting snare, and a no-frills aggressive attack.
 
 ## Influence & Legacy
 
@@ -47,16 +47,16 @@ Nicko McBrain is the technical architect of Iron Maiden's galloping sound — co
 ## FAQ
 
 **Q: What are the main differences between Nicko McBrain's and Mikkey Dee's drum kits?**
-A: Nicko McBrain plays Sonor SQ2 Series with Paiste cymbals, while Mikkey Dee uses Yamaha Recording Custom with Zildjian cymbals. Nicko plays Sonor SQ2 drums with Paiste 2002 cymbals for a bright, cutting tone. Mikkey endorses Sonor drums with Zildjian A Custom and K Series cymbals for aggressive projection.
+A: Nicko McBrain plays British Drum Co. with Paiste cymbals, while Mikkey Dee uses Sonor SQ2 with Paiste cymbals. Nicko plays a British Drum Co. kit with Paiste 2002 cymbals for a bright, cutting tone. Mikkey endorses Sonor drums with Paiste Signature Series cymbals for aggressive projection.
 
 **Q: What drums does Nicko McBrain play vs Mikkey Dee?**
-A: Nicko McBrain plays Sonor SQ2 Series. Mikkey Dee plays Yamaha Recording Custom.
+A: Nicko McBrain plays British Drum Co.. Mikkey Dee plays Sonor SQ2.
 
 **Q: Who is the better thrash metal drummer, Nicko McBrain or Mikkey Dee?**
 A: Both are legends in their own right. Nicko McBrain is the technical architect of Iron Maiden's galloping sound — complex, melodic, and precise. See the full analysis at [metalforge.io/vs/nicko-mcbrain-vs-mikkey-dee](https://metalforge.io/vs/nicko-mcbrain-vs-mikkey-dee).
 
 **Q: What cymbals do Nicko McBrain and Mikkey Dee use?**
-A: Nicko McBrain uses Paiste 2002 & Signature Series (14" Sound Edge Hi-Hats, 16" & 18" Power Crashes, 22" Power Ride, 20" China). Mikkey Dee uses Zildjian A Custom & K Series (14" A Custom Hi-Hats, 18" & 19" A Custom Crashes, 22" K Custom Ride, 20" Oriental China).
+A: Nicko McBrain uses Paiste 2002 & Signature Series (14" Sound Edge Hi-Hats, 16" & 18" Power Crashes, 22" Power Ride, 20" China). Mikkey Dee uses Paiste Signature Series (14" Sound Edge Hi-Hats, 19" & 20" Power Crashes, 22" Power Ride, 18" Heavy China).
 
 ---
 
@@ -67,4 +67,4 @@ A: Nicko McBrain uses Paiste 2002 & Signature Series (14" Sound Edge Hi-Hats, 16
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

@@ -10,11 +10,11 @@ Pantera's Vinnie Paul vs Metallica's Lars Ulrich. Big 4 era rivalry — groove m
 
 ## Vinnie Paul Setup
 
-- **Drums:** ddrum Vinnie Paul Signature Series
-- **Cymbals:** Sabian AA & AAX Series (14" Hi-Hats, 18" & 19" Crashes, 21" Ride, 18" China)
-- **Snare:** ddrum Vinnie Paul Signature 14x8"
-- **Pedals/Hardware:** ddrum Double Pedal, ddrum Throne
-- **Sticks:** Vic Firth American Classic 5B
+- **Drums:** ddrum (brand confirmed; specific kit series unverified)
+- **Cymbals:** Sabian (brand per secondary sources; specific models unverified)
+- **Snare:** ddrum Vinnie Paul Signature 14x8" (8-ply maple, 10 lugs, die-cast hoops)
+- **Pedals/Hardware:** ddrum hardware (brand confirmed via 2009 interview; specific pedal/throne models unverified)
+- **Sticks:** Vic Firth (specific in-career model unverified)
 
 ## Lars Ulrich Setup
 
@@ -47,16 +47,16 @@ Vinnie Paul and Lars Ulrich represent two pillars of American heavy metal. Vinni
 ## FAQ
 
 **Q: What are the main differences between Vinnie Paul's and Lars Ulrich's drum kits?**
-A: Vinnie Paul plays ddrum Vinnie Paul Signature Series with Sabian cymbals, while Lars Ulrich uses Tama Starclassic Maple with Zildjian cymbals. Vinnie played ddrum Vinnie Paul Signature Series drums with Sabian AA & AAX cymbals and ddrum double pedals. His 14x8" signature snare produced the thunderous crack defining Pantera's groove. Lars plays Tama Starclassic Maple and Birch drums with Zildjian A Custom cymbals and Tama Iron Cobra double pedals.
+A: Vinnie Paul plays ddrum (brand confirmed; specific kit series unverified) with Sabian cymbals, while Lars Ulrich uses Tama Starclassic Maple with Zildjian cymbals. Vinnie played ddrum Vinnie Paul Signature Series drums with Sabian AA & AAX cymbals and ddrum double pedals. His 14x8" signature snare produced the thunderous crack defining Pantera's groove. Lars plays Tama Starclassic Maple and Birch drums with Zildjian A Custom cymbals and Tama Iron Cobra double pedals.
 
 **Q: What drums does Vinnie Paul play vs Lars Ulrich?**
-A: Vinnie Paul plays ddrum Vinnie Paul Signature Series. Lars Ulrich plays Tama Starclassic Maple.
+A: Vinnie Paul plays ddrum (brand confirmed; specific kit series unverified). Lars Ulrich plays Tama Starclassic Maple.
 
 **Q: Who is the better thrash metal drummer, Vinnie Paul or Lars Ulrich?**
 A: Both are legends in their own right. Vinnie Paul and Lars Ulrich represent two pillars of American heavy metal. See the full analysis at [metalforge.io/vs/vinnie-paul-vs-lars-ulrich](https://metalforge.io/vs/vinnie-paul-vs-lars-ulrich).
 
 **Q: What cymbals do Vinnie Paul and Lars Ulrich use?**
-A: Vinnie Paul uses Sabian AA & AAX Series (14" Hi-Hats, 18" & 19" Crashes, 21" Ride, 18" China). Lars Ulrich uses Zildjian A Custom Series (14" Dyno Beat Hi-Hats, 16", 17" & 18" Rock Crashes, 20" Z Custom China, 22" Ride).
+A: Vinnie Paul uses Sabian (brand per secondary sources; specific models unverified). Lars Ulrich uses Zildjian A Custom Series (14" Dyno Beat Hi-Hats, 16", 17" & 18" Rock Crashes, 20" Z Custom China, 22" Ride).
 
 ---
 
@@ -67,4 +67,4 @@ A: Vinnie Paul uses Sabian AA & AAX Series (14" Hi-Hats, 18" & 19" Crashes, 21" 
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

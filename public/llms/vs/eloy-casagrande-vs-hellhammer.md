@@ -34,7 +34,7 @@ Casagrande's São Paulo upbringing brought samba and bossa nova influences into 
 
 ## Key Differences
 
-Casagrande plays a Tama Starclassic Bubinga kit with dual 22"x18" bass drums, a Tama S.L.P. Sonic Steel 14"x6" snare, and Paiste RUDE/2002/PST X cymbals, driven by twin Tama Speed Cobra 910 pedals and Promark signature sticks. Hellhammer plays a Pearl Reference Series kit with a Pearl Reference snare and Zildjian A Custom cymbals (14" A Custom Hi-Hats, 17" & 19" A Custom Crashes, 20" Z Custom Dark Ride, 18" A China Boy), driven by a Pearl Demon Drive double pedal and Vic Firth American Classic 5B sticks. Casagrande's São Paulo upbringing brought samba and bossa nova influences into his playing — even at blast-beat velocity his double kick, driven by two independent bass drum pedals, breathes with a natural swing rather than mechanically alternating. Hellhammer's blast beats are built on cold, relentless one-foot precision, and he famously plays barefoot for the direct tactile feedback he says is essential to holding tempo accuracy at extreme speeds, prioritizing atmosphere and aggression over technical display.
+Casagrande plays a Tama Starclassic Bubinga kit with dual 22"x18" bass drums, a Tama S.L.P. Sonic Steel 14"x6" snare, and Paiste RUDE/2002/PST X cymbals, driven by twin Tama Speed Cobra 910 pedals and Promark signature sticks. Hellhammer plays a Sonor SQ2 Heavy Beech kit with a Sonor SQ2 Heavy Beech snare and Paiste RUDE Series cymbals, driven by an Axis Double Pedal and Vic Firth American Classic 5B sticks. Casagrande's São Paulo upbringing brought samba and bossa nova influences into his playing — even at blast-beat velocity his double kick, driven by two independent bass drum pedals, breathes with a natural swing rather than mechanically alternating. Hellhammer's blast beats are built on cold, relentless one-foot precision, and he famously plays barefoot for the direct tactile feedback he says is essential to holding tempo accuracy at extreme speeds, prioritizing atmosphere and aggression over technical display.
 
 ## Influence & Legacy
 
@@ -46,17 +46,17 @@ Eloy Casagrande and Hellhammer both operate at extreme metal's technical ceiling
 
 ## FAQ
 
-**Q: What are the main differences between Eloy Casagrande's and Hellhammer's drum kits?**
-A: Eloy Casagrande plays Tama Starclassic Bubinga (22"x16" & 24"x14" Bass Drums, 10", 12", 13" Toms, 16" & 18" Floor Toms) with Paiste cymbals, while Hellhammer uses Sonor SQ2 Heavy Beech with Paiste cymbals. Casagrande plays a Tama Starclassic Bubinga kit with dual 22"x18" bass drums, a Tama S.L.P. Sonic Steel 14"x6" snare, and Paiste RUDE/2002/PST X cymbals, driven by twin Tama Speed Cobra 910 pedals and Promark signature sticks. Hellhammer plays a Pearl Reference Series kit with a Pearl Reference snare and Zildjian A Custom cymbals (14" A Custom Hi-Hats, 17" & 19" A Custom Crashes, 20" Z Custom Dark Ride, 18" A China Boy), driven by a Pearl Demon Drive double pedal and Vic Firth American Classic 5B sticks.
+**Q: How do Eloy Casagrande and Hellhammer compare as drummers?**
+A: Eloy Casagrande (Slipknot, ex-Sepultura) is known for dual-bass-drum power with a Brazilian samba-informed swing, earning Modern Drummer's 2024 #1 metal drummer ranking. Hellhammer (Mayhem, Dimmu Borgir) is known for cold, relentless one-foot blast beats that defined second-wave black metal's speed vocabulary starting with "De Mysteriis Dom Sathanas" (1994).
 
-**Q: What drums does Eloy Casagrande play vs Hellhammer?**
-A: Eloy Casagrande plays Tama Starclassic Bubinga (22"x16" & 24"x14" Bass Drums, 10", 12", 13" Toms, 16" & 18" Floor Toms). Hellhammer plays Sonor SQ2 Heavy Beech.
+**Q: What gear do Eloy Casagrande and Hellhammer use?**
+A: Eloy Casagrande plays a Tama Starclassic Bubinga kit with dual 22"x18" bass drums and Paiste RUDE/2002/PST X cymbals, driven by twin Tama Speed Cobra 910 pedals. Hellhammer plays a Sonor SQ2 Heavy Beech kit with a Sonor SQ2 Heavy Beech snare and Paiste RUDE Series cymbals, driven by an Axis Double Pedal.
 
-**Q: Who is the better extreme / death / black metal drummer, Eloy Casagrande or Hellhammer?**
-A: Both are legends in their own right. Eloy Casagrande and Hellhammer both operate at extreme metal's technical ceiling, but from opposite traditions. See the full analysis at [metalforge.io/vs/eloy-casagrande-vs-hellhammer](https://metalforge.io/vs/eloy-casagrande-vs-hellhammer).
+**Q: Does Hellhammer play barefoot?**
+A: Yes — Hellhammer famously plays barefoot, saying the direct tactile feedback is essential to holding his icy, relentless blast-beat tempo accuracy at extreme speeds. Eloy Casagrande plays in standard footwear.
 
-**Q: What cymbals do Eloy Casagrande and Hellhammer use?**
-A: Eloy Casagrande uses Paiste (15" Masters Dark Hi-Hats, 20" Masters Dark Ride, 20" & 20" 602 Crashes, 10" Rude Splash, 20" Masters Dark Crash, 20" 2002 Heavy Ride, 20" 2002 Novo China, 10" 2002 Mega Bell, Symphonic Gong). Hellhammer uses Paiste (14" RUDE Hi-Hats, 18" & 19" RUDE Crashes, 20" RUDE Ride, 18" RUDE China).
+**Q: What bands are Eloy Casagrande and Hellhammer known for?**
+A: Eloy Casagrande drummed for Sepultura from 2011 to 2024 before joining Slipknot. Hellhammer has drummed for Mayhem since 1988 and Dimmu Borgir since 1999, alongside stints in Arcturus and Shining.
 
 ---
 
@@ -67,4 +67,4 @@ A: Eloy Casagrande uses Paiste (15" Masters Dark Hi-Hats, 20" Masters Dark Ride,
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

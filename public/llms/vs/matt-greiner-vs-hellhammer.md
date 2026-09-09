@@ -34,7 +34,7 @@ Greiner's technique draws on jazz-informed dynamics and meticulous compositional
 
 ## Key Differences
 
-Matt Greiner plays a Pearl Reference Pure kit in Piano Black with his own Pearl Matt Greiner Signature 14x6" Steel snare and Meinl Byzance cymbals (15" Dual Hi-Hats, 18" & 19" Extra Dry Medium Crashes, 21" Transition Ride, 18" Extra Dry China), driven by a Pearl Demon Drive double pedal and his own Vic Firth Matt Greiner Signature sticks. Hellhammer plays a Pearl Reference Series kit with a Pearl Reference snare and Zildjian A Custom cymbals (14" A Custom Hi-Hats, 17" & 19" A Custom Crashes, 20" Z Custom Dark Ride, 18" A China Boy), driven by a Pearl Demon Drive double pedal and Vic Firth American Classic 5B sticks. Greiner's technique draws on jazz-informed dynamics and meticulous compositional control, favoring purposeful transitions between blast beats, breakdowns, and melodic sections that showcase August Burns Red's progressive songwriting rather than raw speed for its own sake. Hellhammer's blast beats are built on cold, relentless one-foot precision that became the template for second-wave black metal drumming, and he famously plays barefoot for the direct tactile feedback he says is essential to holding tempo accuracy at extreme speeds — speed in service of atmosphere and aggression rather than technical showcase.
+Matt Greiner plays a Mapex Black Panther Design Lab kit with his own Pearl Matt Greiner Signature 14x6" Steel snare and Paiste Formula 602 cymbals, driven by a DW 9000 Series double pedal and his own Vic Firth Matt Greiner Signature sticks. Hellhammer plays a Sonor SQ2 Heavy Beech kit with a Sonor SQ2 Heavy Beech snare and Paiste RUDE Series cymbals, driven by an Axis Double Pedal and Vic Firth American Classic 5B sticks. Greiner's technique draws on jazz-informed dynamics and meticulous compositional control, favoring purposeful transitions between blast beats, breakdowns, and melodic sections that showcase August Burns Red's progressive songwriting rather than raw speed for its own sake. Hellhammer's blast beats are built on cold, relentless one-foot precision that became the template for second-wave black metal drumming, and he famously plays barefoot for the direct tactile feedback he says is essential to holding tempo accuracy at extreme speeds — speed in service of atmosphere and aggression rather than technical showcase.
 
 ## Influence & Legacy
 
@@ -42,21 +42,21 @@ Greiner earned two Grammy nominations for Best Metal Performance with August Bur
 
 ## Verdict
 
-Matt Greiner and Hellhammer both push extreme heavy music's technical ceiling from opposite directions. Greiner channels jazz-informed dynamics into Grammy-nominated metalcore, treating blast beats as one compositional tool among many within August Burns Red's genre-blending songs. Hellhammer built second-wave black metal's entire speed vocabulary on cold, barefoot, one-foot blast-beat precision, turning relentless velocity into atmosphere itself. Both share a Pearl Reference/Demon Drive foundation, yet arrive at extremity from entirely different philosophies — composed technicality versus genre-defining raw aggression.
+Matt Greiner and Hellhammer both push extreme heavy music's technical ceiling from opposite directions. Greiner channels jazz-informed dynamics into Grammy-nominated metalcore, treating blast beats as one compositional tool among many within August Burns Red's genre-blending songs. Hellhammer built second-wave black metal's entire speed vocabulary on cold, barefoot, one-foot blast-beat precision, turning relentless velocity into atmosphere itself. Hellhammer's Sonor SQ2/Axis foundation contrasts with Greiner's Mapex/DW setup, yet both arrive at extremity from entirely different philosophies — composed technicality versus genre-defining raw aggression.
 
 ## FAQ
 
-**Q: What are the main differences between Matt Greiner's and Hellhammer's drum kits?**
-A: Matt Greiner plays Mapex Black Panther Design Lab with Paiste cymbals, while Hellhammer uses Sonor SQ2 Heavy Beech with Paiste cymbals. Matt Greiner plays a Pearl Reference Pure kit in Piano Black with his own Pearl Matt Greiner Signature 14x6" Steel snare and Meinl Byzance cymbals (15" Dual Hi-Hats, 18" & 19" Extra Dry Medium Crashes, 21" Transition Ride, 18" Extra Dry China), driven by a Pearl Demon Drive double pedal and his own Vic Firth Matt Greiner Signature sticks. Hellhammer plays a Pearl Reference Series kit with a Pearl Reference snare and Zildjian A Custom cymbals (14" A Custom Hi-Hats, 17" & 19" A Custom Crashes, 20" Z Custom Dark Ride, 18" A China Boy), driven by a Pearl Demon Drive double pedal and Vic Firth American Classic 5B sticks.
+**Q: How do Matt Greiner and Hellhammer compare as drummers?**
+A: Matt Greiner (August Burns Red) blends jazz-informed dynamics and compositional control into Grammy-nominated metalcore. Hellhammer (Mayhem, Dimmu Borgir) built second-wave black metal's blast-beat speed vocabulary on cold, relentless one-foot precision, starting with "De Mysteriis Dom Sathanas" (1994). Greiner treats extremity as one compositional tool; Hellhammer treats it as the genre's defining atmosphere.
 
-**Q: What drums does Matt Greiner play vs Hellhammer?**
-A: Matt Greiner plays Mapex Black Panther Design Lab. Hellhammer plays Sonor SQ2 Heavy Beech.
+**Q: What gear do Matt Greiner and Hellhammer use?**
+A: Matt Greiner plays a Mapex Black Panther Design Lab kit with his own signature Pearl 14x6" Steel snare and Paiste Formula 602 cymbals, driven by a DW 9000 Series double pedal. Hellhammer plays a Sonor SQ2 Heavy Beech kit with a Sonor SQ2 Heavy Beech snare and Paiste RUDE Series cymbals, also driven by an Axis Double Pedal.
 
-**Q: Who is the better extreme / death / black metal drummer, Matt Greiner or Hellhammer?**
-A: Both are legends in their own right. Matt Greiner and Hellhammer both push extreme heavy music's technical ceiling from opposite directions. See the full analysis at [metalforge.io/vs/matt-greiner-vs-hellhammer](https://metalforge.io/vs/matt-greiner-vs-hellhammer).
+**Q: Does Hellhammer play barefoot?**
+A: Yes — Hellhammer famously plays barefoot, saying the direct tactile feedback is essential to holding his icy, relentless blast-beat tempo accuracy at extreme speeds.
 
-**Q: What cymbals do Matt Greiner and Hellhammer use?**
-A: Matt Greiner uses Paiste Formula 602 (14" Hi-Hats, 16"/17"/18" Crashes, 22" Ride, 18" China, 10" Splash). Hellhammer uses Paiste (14" RUDE Hi-Hats, 18" & 19" RUDE Crashes, 20" RUDE Ride, 18" RUDE China).
+**Q: What bands are Matt Greiner and Hellhammer known for?**
+A: Matt Greiner co-founded metalcore band August Burns Red in 2003 and remains the band's drummer. Hellhammer has drummed for Mayhem since 1988 and Dimmu Borgir since 1999, alongside stints in Arcturus and Shining.
 
 ---
 
@@ -67,4 +67,4 @@ A: Matt Greiner uses Paiste Formula 602 (14" Hi-Hats, 16"/17"/18" Crashes, 22" R
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

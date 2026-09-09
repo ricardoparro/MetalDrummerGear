@@ -10,16 +10,16 @@ Deftones' Abe Cunningham vs Megadeth's Dirk Verbeuren. Alt-metal atmosphere vs t
 
 ## Abe Cunningham Setup
 
-- **Drums:** SJC Custom Drums
+- **Drums:** Tama Starclassic Bubinga (Egyptian Night Mist)
 - **Cymbals:** Zildjian K Custom & A Custom Series (14" K Custom Hi-Hats, 18" & 20" K Custom Crashes, 22" K Custom Ride, 19" A Custom China)
-- **Snare:** SJC Custom 14x6.5" Brass
-- **Pedals/Hardware:** DW 9000 Series Double Pedal, DW Hardware
-- **Sticks:** Vic Firth American Classic 2B
+- **Snare:** Tama Starclassic matching snare (no separate model documented)
+- **Pedals/Hardware:** Tama Iron Cobra Power Glide Twin Pedal (HP900PTW), Iron Cobra Lever Glide Hi-Hat (HH905)
+- **Sticks:** Pro-Mark
 
 ## Dirk Verbeuren Setup
 
 - **Drums:** Tama Starclassic Walnut/Birch
-- **Cymbals:** Zildjian A Custom & K Custom Series (14" A Custom Hi-Hats, 17", 18", 19" A Custom Crashes, 21" K Custom Hybrid Ride, 18" K China)
+- **Cymbals:** Meinl Byzance Brilliant & Classics Custom Dark Series (14" Byzance Brilliant Hi-Hat, 18"-21" Classics Custom Dark Crashes, 22" Byzance Brilliant Ride, 18" Byzance Brilliant China)
 - **Snare:** Tama S.L.P. Big Black Steel 14x6.5"
 - **Pedals/Hardware:** Tama Speed Cobra 910 Double Pedal, Tama Iron Cobra Hi-Hat Stand
 - **Sticks:** Tama O-DVM2 Dirk Verbeuren Signature
@@ -46,17 +46,17 @@ Abe Cunningham and Dirk Verbeuren represent two entirely different philosophies 
 
 ## FAQ
 
-**Q: What are the main differences between Abe Cunningham's and Dirk Verbeuren's drum kits?**
-A: Abe Cunningham plays SJC Custom Drums with Zildjian cymbals, while Dirk Verbeuren uses Tama Starclassic Walnut/Birch with Zildjian cymbals. Abe Cunningham plays Tama Starclassic Maple/Bubinga drums with Zildjian cymbals (14" A New Beat Hi-Hats, A Custom crashes, K Custom Ride) and Tama Iron Cobra double pedal — a compact, feel-focused setup with his signature Zildjian sticks. Dirk Verbeuren endorses Tama Starclassic Maple with Meinl Byzance cymbals (14" Dark Hi-Hats, Byzance crashes, Mb20 ride) and Tama Speed Cobra 910 double pedal — a darker, more projection-focused rig built for thrash metal's aggressive attack.
+**Q: What is the main difference between Abe Cunningham and Dirk Verbeuren's drumming styles?**
+A: Abe Cunningham (Deftones) prioritizes atmospheric dynamics, emotional feel, and unconventional groove patterns — his playing breathes and shifts with the song's mood. Dirk Verbeuren (Megadeth) focuses on technical precision, powerful double bass, and thrash-forward aggression that honors classic Megadeth's explosive energy.
 
-**Q: What drums does Abe Cunningham play vs Dirk Verbeuren?**
-A: Abe Cunningham plays SJC Custom Drums. Dirk Verbeuren plays Tama Starclassic Walnut/Birch.
+**Q: What drums does Abe Cunningham use vs Dirk Verbeuren?**
+A: Both endorse Tama drums. Abe Cunningham plays Tama Starclassic Maple/Bubinga with Zildjian cymbals and Tama Iron Cobra pedals. Dirk Verbeuren plays Tama Starclassic Maple with Meinl Byzance cymbals and Tama Speed Cobra 910 pedals.
 
-**Q: Who is the better alternative / nu-metal drummer, Abe Cunningham or Dirk Verbeuren?**
-A: Both are legends in their own right. Abe Cunningham and Dirk Verbeuren represent two entirely different philosophies of modern metal drumming. See the full analysis at [metalforge.io/vs/abe-cunningham-vs-dirk-verbeuren](https://metalforge.io/vs/abe-cunningham-vs-dirk-verbeuren).
+**Q: How long has Abe Cunningham been with Deftones?**
+A: Abe Cunningham is a founding member of Deftones, having been with the band since 1988 when they formed in Sacramento, California — over 35 years as the band's sole drummer. His Grammy came with "Elite" (White Pony, 2000, Best Metal Performance).
 
-**Q: What cymbals do Abe Cunningham and Dirk Verbeuren use?**
-A: Abe Cunningham uses Zildjian K Custom & A Custom Series (14" K Custom Hi-Hats, 18" & 20" K Custom Crashes, 22" K Custom Ride, 19" A Custom China). Dirk Verbeuren uses Zildjian A Custom & K Custom Series (14" A Custom Hi-Hats, 17", 18", 19" A Custom Crashes, 21" K Custom Hybrid Ride, 18" K China).
+**Q: What bands did Dirk Verbeuren play in before Megadeth?**
+A: Dirk Verbeuren was the drummer for Swedish melodic death metal band Soilwork for 18 years (1998–2016) and the French metal band Scarve (1995–2008) before joining Megadeth in 2016, where he has recorded "The Sick, the Dying... and the Dead!" (2022).
 
 ---
 
@@ -67,4 +67,4 @@ A: Abe Cunningham uses Zildjian K Custom & A Custom Series (14" K Custom Hi-Hats
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

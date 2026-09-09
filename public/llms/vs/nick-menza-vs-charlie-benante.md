@@ -46,17 +46,20 @@ Nick Menza and Charlie Benante are peer drummers from the Big Four thrash era wh
 
 ## FAQ
 
-**Q: What are the main differences between Nick Menza's and Charlie Benante's drum kits?**
-A: Nick Menza plays Tama Swingstar with Zildjian cymbals, while Charlie Benante uses Tama Starclassic with Paiste cymbals.
+**Q: Who is better, Nick Menza or Charlie Benante?**
+A: Both are foundational Big Four thrash drummers with different strengths. Nick Menza's surgical, riff-serving double bass work on "Rust in Peace" and "Countdown to Extinction" is a benchmark for technical thrash precision. Charlie Benante's skank-beat punk aggression and blast beat pioneering across all 11 Anthrax albums gives him unmatched longevity and genre-shaping influence. It comes down to Megadeth's technical peak vs Anthrax's four-decade consistency.
 
-**Q: What drums does Nick Menza play vs Charlie Benante?**
-A: Nick Menza plays Tama Swingstar. Charlie Benante plays Tama Starclassic.
+**Q: What gear did Nick Menza use vs Charlie Benante?**
+A: Nick Menza played a Pearl Reference Custom kit with Sabian AA / Signature Series cymbals in his final Megadeth era, driven by a Tama Iron Cobra Double Pedal. Charlie Benante plays a Tama Starclassic kit with a Tama Charlie Benante Signature snare and Paiste RUDE & 2002 Series cymbals, driven by a Tama Speed Cobra double pedal.
 
-**Q: Who is the better thrash metal drummer, Nick Menza or Charlie Benante?**
-A: Both are legends in their own right. Nick Menza and Charlie Benante are peer drummers from the Big Four thrash era who built their legacies through very different techniques. See the full analysis at [metalforge.io/vs/nick-menza-vs-charlie-benante](https://metalforge.io/vs/nick-menza-vs-charlie-benante).
+**Q: How many Anthrax albums did Charlie Benante play on?**
+A: Charlie Benante has appeared on all 11 of Anthrax's studio albums since joining in 1983, from "Fistful of Metal" (1984) through "For All Kings" (2016), making him one of thrash metal's most consistent drummers across more than four decades.
 
-**Q: What cymbals do Nick Menza and Charlie Benante use?**
-A: Nick Menza uses Zildjian A Series (14" A Hi-Hats, 16" & 18" A Crash, 20" A Ride). Charlie Benante uses Paiste RUDE & 2002 Series (14" Hi-Hats, 18" & 19" Crashes, 20" Power Ride, 18" China).
+**Q: What albums did Nick Menza record with Megadeth?**
+A: Nick Menza recorded four studio albums with Megadeth: "Rust in Peace" (1990), "Countdown to Extinction" (1992), "Youthanasia" (1994), and "Cryptic Writings" (1997), before departing the band in 1998. He passed away in 2016 while performing on stage with his post-Megadeth band Ohm.
+
+**Q: Is Charlie Benante credited with inventing the blast beat?**
+A: Charlie Benante is widely credited as one of the earliest popularizers of the blast beat technique in thrash and extreme metal, using it on early Anthrax material in the mid-1980s — years before it became a defining technique in death and black metal.
 
 ---
 
@@ -67,4 +70,4 @@ A: Nick Menza uses Zildjian A Series (14" A Hi-Hats, 16" & 18" A Crash, 20" A Ri
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

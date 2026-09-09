@@ -34,7 +34,7 @@ Mounier is widely regarded as one of the most technically proficient drummers in
 
 ## Key Differences
 
-Flo Mounier plays a Tama Starclassic Maple kit in Dark Mocha Fade with a Tama S.L.P. Classic Dry Aluminum 14x5.5" snare and Sabian AAX & HHX Series cymbals (14" AAX X-Celerator Hi-Hats, 16" & 18" AAX X-Plosion Crashes, 19" HHX X-Plosion Crash, 20" AAX Metal Ride, 18" AAX X-Treme Chinese), driven by a Tama Speed Cobra 910 Twin Pedal. Matt Greiner plays a Pearl Reference Pure kit in Piano Black with dual 22"x18" bass drums, a Pearl Matt Greiner Signature 14"x6" steel snare, and Meinl Byzance Series cymbals (15" Dual Hi-Hats, 18" & 19" Extra Dry Medium Crashes, 21" Transition Ride, 18" Extra Dry China, 10" & 12" Splash), driven by a Pearl Demon Drive double pedal and Vic Firth Matt Greiner signature sticks. Mounier is widely regarded as one of the most technically proficient drummers in death metal, bringing jazz influences from Buddy Rich and Dave Weckl into extreme metal — his gravity-blast technique produces sustained speed with musical dynamics and ghost notes rather than pure brute force. Greiner brings a similar jazz-informed musicality to metalcore, weaving odd time signatures seamlessly into song structures and locking tightly with guitarist JB Brubaker's intricate riffs so that difficult patterns land as grooves rather than pure technical displays.
+Flo Mounier plays a Tama Starclassic Maple kit in Dark Mocha Fade with a Tama S.L.P. Classic Dry Aluminum 14x5.5" snare and Sabian AAX & HHX Series cymbals (14" AAX X-Celerator Hi-Hats, 16" & 18" AAX X-Plosion Crashes, 19" HHX X-Plosion Crash, 20" AAX Metal Ride, 18" AAX X-Treme Chinese), driven by a Tama Speed Cobra 910 Twin Pedal. Matt Greiner plays a Mapex Black Panther Design Lab kit with dual 22"x18" bass drums, a Pearl Matt Greiner Signature 14"x6" steel snare, and Paiste Formula 602 Series cymbals, driven by a DW 9000 Series double pedal and Vic Firth Matt Greiner signature sticks. Mounier is widely regarded as one of the most technically proficient drummers in death metal, bringing jazz influences from Buddy Rich and Dave Weckl into extreme metal — his gravity-blast technique produces sustained speed with musical dynamics and ghost notes rather than pure brute force. Greiner brings a similar jazz-informed musicality to metalcore, weaving odd time signatures seamlessly into song structures and locking tightly with guitarist JB Brubaker's intricate riffs so that difficult patterns land as grooves rather than pure technical displays.
 
 ## Influence & Legacy
 
@@ -46,17 +46,14 @@ Flo Mounier and Matt Greiner both prove that extreme technical drumming doesn't 
 
 ## FAQ
 
-**Q: What are the main differences between Flo Mounier's and Matt Greiner's drum kits?**
-A: Flo Mounier plays Pearl Masters Maple Complete with Sabian cymbals, while Matt Greiner uses Mapex Black Panther Design Lab with Paiste cymbals. Flo Mounier plays a Tama Starclassic Maple kit in Dark Mocha Fade with a Tama S.L.P. Classic Dry Aluminum 14x5.5" snare and Sabian AAX & HHX Series cymbals (14" AAX X-Celerator Hi-Hats, 16" & 18" AAX X-Plosion Crashes, 19" HHX X-Plosion Crash, 20" AAX Metal Ride, 18" AAX X-Treme Chinese), driven by a Tama Speed Cobra 910 Twin Pedal. Matt Greiner plays a Pearl Reference Pure kit in Piano Black with dual 22"x18" bass drums, a Pearl Matt Greiner Signature 14"x6" steel snare, and Meinl Byzance Series cymbals (15" Dual Hi-Hats, 18" & 19" Extra Dry Medium Crashes, 21" Transition Ride, 18" Extra Dry China, 10" & 12" Splash), driven by a Pearl Demon Drive double pedal and Vic Firth Matt Greiner signature sticks.
+**Q: How do Flo Mounier and Matt Greiner compare as drummers?**
+A: Flo Mounier has been Cryptopsy's drummer since 1992, pushing technical death metal to its physical limits on landmark records like "None So Vile" (1996). Matt Greiner co-founded August Burns Red in 2003 and has anchored the band's Grammy-nominated metalcore catalog with jazz-informed musicality. Both bring rare technical precision to their respective extreme metal subgenres.
 
-**Q: What drums does Flo Mounier play vs Matt Greiner?**
-A: Flo Mounier plays Pearl Masters Maple Complete. Matt Greiner plays Mapex Black Panther Design Lab.
+**Q: What gear do Flo Mounier and Matt Greiner use?**
+A: Flo Mounier plays a Tama Starclassic Maple kit with a Tama S.L.P. Dry Aluminum snare and Sabian AAX & HHX Series cymbals, driven by a Tama Speed Cobra 910 double pedal. Matt Greiner plays a Mapex Black Panther Design Lab kit with a Pearl Matt Greiner Signature 14x6" steel snare and Paiste Formula 602 Series cymbals, driven by a DW 9000 Series double pedal.
 
-**Q: Who is the better extreme / death / black metal drummer, Flo Mounier or Matt Greiner?**
-A: Both are legends in their own right. Flo Mounier and Matt Greiner both prove that extreme technical drumming doesn't have to sacrifice musicality — they just arrived at that balance from different subgenres and generations. See the full analysis at [metalforge.io/vs/flo-mounier-vs-matt-greiner](https://metalforge.io/vs/flo-mounier-vs-matt-greiner).
-
-**Q: What cymbals do Flo Mounier and Matt Greiner use?**
-A: Flo Mounier uses Sabian AAX & HHX Series (14" HHX Stage Hi-Hats, 17" & 18" AAX X-Plosion Crashes, 21" HHX Raw Bell Dry Ride, 18" AAXtreme China). Matt Greiner uses Paiste Formula 602 (14" Hi-Hats, 16"/17"/18" Crashes, 22" Ride, 18" China, 10" Splash).
+**Q: What bands are Flo Mounier and Matt Greiner known for?**
+A: Flo Mounier has been the drummer for Canadian technical death metal band Cryptopsy since 1992. Matt Greiner co-founded metalcore band August Burns Red in Lancaster, Pennsylvania, in 2003 and remains the band's drummer.
 
 ---
 
@@ -67,4 +64,4 @@ A: Flo Mounier uses Sabian AAX & HHX Series (14" HHX Stage Hi-Hats, 17" & 18" AA
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

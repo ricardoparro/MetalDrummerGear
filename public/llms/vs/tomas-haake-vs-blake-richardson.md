@@ -34,7 +34,7 @@ Haake uniquely runs two Tama Speed Cobra single pedals rather than a double peda
 
 ## Key Differences
 
-Tomas Haake plays Sonor SQ2 Heavy Beech drums with Sabian HHX & AAX cymbals and two Tama Speed Cobra single pedals for polyrhythmic independence. Blake Richardson plays Tama Starclassic Bubinga drums with Meinl Byzance cymbals and a Pearl Demon Drive double pedal — a musical setup suited to BTBAM's diverse sonic demands. Haake uniquely runs two Tama Speed Cobra single pedals rather than a double pedal, locking his kicks into polyrhythmic grids that run independent of the guitar riff cycles. Richardson navigates BTBAM's rapid genre changes with jazz-influenced ghost notes, seamless blast beat transitions, and complex odd time signatures that feel natural rather than forced.
+Tomas Haake plays Sonor SQ2 Heavy Beech drums with Sabian HHX & AAX cymbals and two Tama Speed Cobra single pedals for polyrhythmic independence. Blake Richardson plays Tama Starclassic Bubinga drums with Sabian HHX Evolution / AAX cymbals and Tama Twin Iron Cobra Power Glide pedals — a musical setup suited to BTBAM's diverse sonic demands. Haake uniquely runs two Tama Speed Cobra single pedals rather than a double pedal, locking his kicks into polyrhythmic grids that run independent of the guitar riff cycles. Richardson navigates BTBAM's rapid genre changes with jazz-influenced ghost notes, seamless blast beat transitions, and complex odd time signatures that feel natural rather than forced.
 
 ## Influence & Legacy
 
@@ -46,17 +46,17 @@ Tomas Haake and Blake Richardson are the two great rhythm architects of technica
 
 ## FAQ
 
-**Q: What are the main differences between Tomas Haake's and Blake Richardson's drum kits?**
-A: Tomas Haake plays Sonor SQ2 Heavy Beech (24"x18" Bass, 10"x8", 12"x9", 13"x10", 16"x14", 18"x16" Toms) with Sabian cymbals, while Blake Richardson uses Tama Starclassic Bubinga (Custom Finish) with Sabian cymbals. Tomas Haake plays Sonor SQ2 Heavy Beech drums with Sabian HHX & AAX cymbals and two Tama Speed Cobra single pedals for polyrhythmic independence. Blake Richardson plays Tama Starclassic Bubinga drums with Meinl Byzance cymbals and a Pearl Demon Drive double pedal — a musical setup suited to BTBAM's diverse sonic demands.
+**Q: Who is more complex: Tomas Haake or Blake Richardson?**
+A: Both represent the outer limits of rhythmic complexity in different ways. Haake's complexity lies in sustained polyrhythmic precision across Meshuggah's extended time signatures. Richardson's complexity lies in navigating BTBAM's rapid genre changes and intricate compositions. They are complex in entirely different dimensions.
 
-**Q: What drums does Tomas Haake play vs Blake Richardson?**
-A: Tomas Haake plays Sonor SQ2 Heavy Beech (24"x18" Bass, 10"x8", 12"x9", 13"x10", 16"x14", 18"x16" Toms). Blake Richardson plays Tama Starclassic Bubinga (Custom Finish).
+**Q: What drums do Tomas Haake and Blake Richardson play?**
+A: Tomas Haake plays Sonor SQ2 Heavy Beech drums with Sabian HHX & AAX cymbals. Blake Richardson plays Tama Starclassic Bubinga drums with Sabian HHX Evolution / AAX cymbals.
 
-**Q: Who is the better progressive metal drummer, Tomas Haake or Blake Richardson?**
-A: Both are legends in their own right. Tomas Haake and Blake Richardson are the two great rhythm architects of technical modern metal. See the full analysis at [metalforge.io/vs/tomas-haake-vs-blake-richardson](https://metalforge.io/vs/tomas-haake-vs-blake-richardson).
+**Q: Why does Tomas Haake use two single pedals instead of a double pedal?**
+A: Tomas Haake prefers the independent mechanical response of two separate Tama Speed Cobra single pedals over a shared beam, giving each foot distinct feel and allowing him to achieve the polyrhythmic independence that defines Meshuggah's drumming.
 
-**Q: What cymbals do Tomas Haake and Blake Richardson use?**
-A: Tomas Haake uses Sabian HHX & AAX Series (14" HHX Compression Hi-Hats, 15" Artisan Hi-Hats, 19" & 20" & 21" HHX Stage Crashes, 22" Legacy Ride, 19" AAXtreme China). Blake Richardson uses Sabian (14" HHX Evolution Hi-Hats, 18" HHX Evolution Crash, 17" & 21" AAX Holy Chinas, 21" HH Raw Bell Dry Ride, 10" HH Duo Splash, 9" Radia Cup Chime).
+**Q: What bands are Tomas Haake and Blake Richardson known for?**
+A: Tomas Haake is the drummer for Meshuggah, widely credited as the architect of djent drumming. Blake Richardson is the drummer for Between the Buried and Me (BTBAM), known for progressive metal albums like Colors and The Great Misdirect.
 
 ---
 
@@ -67,4 +67,4 @@ A: Tomas Haake uses Sabian HHX & AAX Series (14" HHX Compression Hi-Hats, 15" Ar
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

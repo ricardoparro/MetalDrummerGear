@@ -34,7 +34,7 @@ Igor invented the tribal-metal fusion with signature grooves. Eloy combines deat
 
 ## Key Differences
 
-Igor played various brands throughout his career. Eloy endorses Tama drums with Meinl cymbals. Igor invented the tribal-metal fusion with signature grooves. Eloy combines death metal speed with groove mastery.
+Igor played various brands throughout his career. Eloy endorses Tama drums with Paiste cymbals. Igor invented the tribal-metal fusion with signature grooves. Eloy combines death metal speed with groove mastery.
 
 ## Influence & Legacy
 
@@ -47,7 +47,7 @@ Igor Cavalera created Sepultura's iconic sound. Eloy Casagrande honors it while 
 ## FAQ
 
 **Q: What are the main differences between Igor Cavalera's and Eloy Casagrande's drum kits?**
-A: Igor Cavalera plays Tama Starclassic Maple with Paiste cymbals, while Eloy Casagrande uses Tama Starclassic Bubinga (22"x16" & 24"x14" Bass Drums, 10", 12", 13" Toms, 16" & 18" Floor Toms) with Paiste cymbals. Igor played various brands throughout his career. Eloy endorses Tama drums with Meinl cymbals.
+A: Igor Cavalera plays Tama Starclassic Maple with Paiste cymbals, while Eloy Casagrande uses Tama Starclassic Bubinga (22"x16" & 24"x14" Bass Drums, 10", 12", 13" Toms, 16" & 18" Floor Toms) with Paiste cymbals. Igor played various brands throughout his career. Eloy endorses Tama drums with Paiste cymbals.
 
 **Q: What drums does Igor Cavalera play vs Eloy Casagrande?**
 A: Igor Cavalera plays Tama Starclassic Maple. Eloy Casagrande plays Tama Starclassic Bubinga (22"x16" & 24"x14" Bass Drums, 10", 12", 13" Toms, 16" & 18" Floor Toms).
@@ -67,4 +67,4 @@ A: Igor Cavalera uses Paiste RUDE & 2002 Series (14" RUDE Hi-Hats, 18" & 19" RUD
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

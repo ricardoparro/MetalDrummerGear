@@ -46,17 +46,17 @@ Ben Koller and Blake Richardson sit at opposite ends of technical extreme music'
 
 ## FAQ
 
-**Q: What are the main differences between Ben Koller's and Blake Richardson's drum kits?**
-A: Ben Koller plays Tama Starclassic Maple with Zildjian cymbals, while Blake Richardson uses Tama Starclassic Bubinga (Custom Finish) with Sabian cymbals. Ben Koller plays a Tama Starclassic Maple kit with a Tama S.L.P. 14x6" Brass snare and Zildjian K Dark Series cymbals (14" K Dark Thin Hi-Hats, 18" & 19" K Dark Medium Thin Crashes, 21" K Custom Ride, 18" K China), driven by a Tama Iron Cobra 900 double pedal and Vic Firth American Classic 5B sticks. Blake Richardson plays a Tama Starclassic Bubinga kit in a custom finish with a Tama STARPHONIC 14x6" Brass snare and Sabian cymbals (14" HHX Evolution Hi-Hats, 18" HHX Evolution Crash, 17" & 21" AAX Holy Chinas, 21" HH Raw Bell Dry Ride), powered by twin Tama Iron Cobra Power Glide single pedals and Vic Firth American Classic 3A sticks.
+**Q: Who is more technically demanding — Ben Koller or Blake Richardson?**
+A: Both are considered among the most demanding drummers in modern heavy music, but in different ways. Ben Koller (Converge) is demanding because of his loose, explosive, unpredictable attack — he thrives on sudden tempo shifts and dynamic swings that make Converge's mathcore feel dangerous. Blake Richardson (Between the Buried and Me) is demanding because of composed complexity — metric modulation and odd time signatures that must be executed with exacting consistency. Koller's difficulty is visceral; Richardson's is architectural.
 
-**Q: What drums does Ben Koller play vs Blake Richardson?**
-A: Ben Koller plays Tama Starclassic Maple. Blake Richardson plays Tama Starclassic Bubinga (Custom Finish).
+**Q: What gear do Ben Koller and Blake Richardson use?**
+A: Ben Koller plays a Tama Starclassic Maple kit with a Tama S.L.P. 14x6" Brass snare and Zildjian K Dark Series cymbals, driven by a Tama Iron Cobra 900 double pedal. Blake Richardson plays a Tama Starclassic Bubinga kit with a Tama STARPHONIC 14x6" Brass snare and Sabian cymbals, powered by twin Tama Iron Cobra Power Glide single pedals.
 
-**Q: Who is the better progressive metal drummer, Ben Koller or Blake Richardson?**
-A: Both are legends in their own right. Ben Koller and Blake Richardson sit at opposite ends of technical extreme music's spectrum. See the full analysis at [metalforge.io/vs/ben-koller-vs-blake-richardson](https://metalforge.io/vs/ben-koller-vs-blake-richardson).
+**Q: What bands are Ben Koller and Blake Richardson known for?**
+A: Ben Koller has drummed for Converge since 1999, and also plays in Mutoid Man and Killer Be Killed. Blake Richardson has been the drummer for Between the Buried and Me since 2005.
 
-**Q: What cymbals do Ben Koller and Blake Richardson use?**
-A: Ben Koller uses Zildjian (14" K Dark Thin Hi-Hats, 18" & 19" K Dark Medium Thin Crashes, 21" K Custom Ride, 18" K China). Blake Richardson uses Sabian (14" HHX Evolution Hi-Hats, 18" HHX Evolution Crash, 17" & 21" AAX Holy Chinas, 21" HH Raw Bell Dry Ride, 10" HH Duo Splash, 9" Radia Cup Chime).
+**Q: What albums showcase Ben Koller's and Blake Richardson's best work?**
+A: Ben Koller's most acclaimed work is Converge's "Jane Doe" (2001), widely regarded as a genre-defining mathcore record, along with "Axe to Fall" (2009) and "The Dusk in Us" (2017). Blake Richardson's landmark records with Between the Buried and Me include "Colors" (2007), "The Great Misdirect" (2009), and "Colors II" (2021).
 
 ---
 
@@ -67,4 +67,4 @@ A: Ben Koller uses Zildjian (14" K Dark Thin Hi-Hats, 18" & 19" K Dark Medium Th
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

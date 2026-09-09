@@ -14,7 +14,7 @@ Nile's George Kollias vs Cannibal Corpse's Paul Mazurkiewicz. Technical blast-be
 - **Cymbals:** Zildjian (14" K Mastersound Hi-Hats, 17" & 18" K Custom Dark Crashes, 21" A Custom Mega Bell Ride, 18" China)
 - **Snare:** Pearl George Kollias Signature 14x6.5"
 - **Pedals/Hardware:** Pearl Demon XR Double Pedal (Co-designed), Pearl D-3000 Throne
-- **Sticks:** Vic Firth George Kollias Signature SGK
+- **Sticks:** Vic Firth
 
 ## Paul Mazurkiewicz Setup
 
@@ -46,17 +46,20 @@ George Kollias and Paul Mazurkiewicz represent death metal drumming's two defini
 
 ## FAQ
 
-**Q: What are the main differences between George Kollias's and Paul Mazurkiewicz's drum kits?**
-A: George Kollias plays Pearl Masterworks Stadium Exotic (Piano Black with Gold Hardware) with Zildjian cymbals, while Paul Mazurkiewicz uses Pearl Masters Maple Complete with Sabian cymbals.
+**Q: Who is faster, George Kollias or Paul Mazurkiewicz?**
+A: George Kollias is widely regarded as the faster drummer, sustaining blast beats past 280 BPM across full Nile sets using heel-toe double bass technique. Paul Mazurkiewicz favors punishing mid-tempo grooves and shorter blast passages over maximum velocity, prioritizing consistency and riff-serving impact — Cannibal Corpse's brutality is crushing rather than blistering.
 
-**Q: What drums does George Kollias play vs Paul Mazurkiewicz?**
-A: George Kollias plays Pearl Masterworks Stadium Exotic (Piano Black with Gold Hardware). Paul Mazurkiewicz plays Pearl Masters Maple Complete.
+**Q: What gear do George Kollias and Paul Mazurkiewicz use?**
+A: George Kollias plays a Pearl Masterworks Stadium Exotic kit with a Pearl George Kollias Signature snare and Zildjian cymbals, driven by the Pearl Demon Drive double pedal he co-designed. Paul Mazurkiewicz plays a Pearl Masters Maple Complete kit with a Pearl Masters Maple snare and Sabian AAX Series cymbals, also using a Pearl Demon Drive double pedal. Both drummers endorse Pearl.
 
-**Q: Who is the better extreme / death / black metal drummer, George Kollias or Paul Mazurkiewicz?**
-A: Both are legends in their own right. George Kollias and Paul Mazurkiewicz represent death metal drumming's two defining philosophies. See the full analysis at [metalforge.io/vs/george-kollias-vs-paul-mazurkiewicz](https://metalforge.io/vs/george-kollias-vs-paul-mazurkiewicz).
+**Q: How long has Paul Mazurkiewicz been Cannibal Corpse's drummer?**
+A: Paul Mazurkiewicz co-founded Cannibal Corpse in Buffalo, New York in 1988 and has performed on every studio album the band has released since their 1990 debut "Eaten Back to Life" — a run of over 35 years and 16 studio albums, making him one of the most consistent drummers in death metal history.
 
-**Q: What cymbals do George Kollias and Paul Mazurkiewicz use?**
-A: George Kollias uses Zildjian (14" K Mastersound Hi-Hats, 17" & 18" K Custom Dark Crashes, 21" A Custom Mega Bell Ride, 18" China). Paul Mazurkiewicz uses Sabian AAX Series (14" Stage Hi-Hats, 18" & 19" X-Plosion Crashes, 21" Raw Bell Dry Ride, 18" AAXtreme China).
+**Q: What technique does George Kollias use for his blast beats?**
+A: George Kollias uses heel-toe double bass technique, which lets him double the number of pedal strokes per foot motion to sustain blast beats at extreme tempos. He co-designed the Pearl Demon XR double pedal specifically for the speed and endurance Nile's technical death metal compositions require, and has taught the technique through instructional books and clinics.
+
+**Q: Is Nile or Cannibal Corpse more technical?**
+A: Nile is generally considered more technically complex, built around Egyptian-themed multi-part compositions with constant tempo and time signature shifts that showcase George Kollias's blast beat speed. Cannibal Corpse is more riff-focused and mid-tempo-driven, prioritizing crushing groove and consistency over technical complexity — a difference that defines the two bands' distinct places in death metal.
 
 ---
 
@@ -67,4 +70,4 @@ A: George Kollias uses Zildjian (14" K Mastersound Hi-Hats, 17" & 18" K Custom D
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

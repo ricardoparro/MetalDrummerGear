@@ -10,10 +10,10 @@ Dream Theater's Mike Portnoy vs Porcupine Tree's Gavin Harrison. The ultimate pr
 
 ## Mike Portnoy Setup
 
-- **Drums:** Tama Starclassic Maple/Birch
-- **Cymbals:** Sabian HHX Series (14" Evolution Hi-Hats, 18" & 19" Evolution Crashes, 21" Raw Bell Dry Ride, 10" & 12" Evolution Splashes, 19" O-Zone Crash)
+- **Drums:** Tama Starclassic Maple + Starclassic Bubinga ("Dream Monster" dual kit)
+- **Cymbals:** Sabian HHX MAX / AAX MAXX Series (22" HHX MAX Ride, 18" AAX X-Plosion Crash, 19" HHX X-Plosion Crash, 18" AAX O-Zone Crash, 18" HHX Chinese, 19" Paragon Chinese, 7"/9"/11" AAX MAXX Splashes, 6"/6.5"/7" AA MAX Chimes)
 - **Snare:** Tama Mike Portnoy Signature Melody Master 14x5.5"
-- **Pedals/Hardware:** Tama Iron Cobra Power Glide Double Pedal, Tama 1st Chair Ergo-Rider Throne
+- **Pedals/Hardware:** Tama Iron Cobra Power Glide Twin Pedal (HP900PSW)
 - **Sticks:** Promark Mike Portnoy Signature TX420N
 
 ## Gavin Harrison Setup
@@ -47,16 +47,16 @@ Mike Portnoy is the definitive progressive metal powerhouse — explosive, theat
 ## FAQ
 
 **Q: What are the main differences between Mike Portnoy's and Gavin Harrison's drum kits?**
-A: Mike Portnoy plays Tama Starclassic Maple/Birch with Sabian cymbals, while Gavin Harrison uses Sonor SQ2 Series with Zildjian cymbals. Mike plays Tama Starclassic Maple/Birch drums with Sabian cymbals on his iconic multi-bass signature setup. Gavin uses Sonor SQ2 drums, known for their craftsmanship and tonal depth, paired with a streamlined kit philosophy.
+A: Mike Portnoy plays Tama Starclassic Maple + Starclassic Bubinga ("Dream Monster" dual kit) with Sabian cymbals, while Gavin Harrison uses Sonor SQ2 Series with Zildjian cymbals. Mike plays Tama Starclassic Maple/Birch drums with Sabian cymbals on his iconic multi-bass signature setup. Gavin uses Sonor SQ2 drums, known for their craftsmanship and tonal depth, paired with a streamlined kit philosophy.
 
 **Q: What drums does Mike Portnoy play vs Gavin Harrison?**
-A: Mike Portnoy plays Tama Starclassic Maple/Birch. Gavin Harrison plays Sonor SQ2 Series.
+A: Mike Portnoy plays Tama Starclassic Maple + Starclassic Bubinga ("Dream Monster" dual kit). Gavin Harrison plays Sonor SQ2 Series.
 
 **Q: Who is the better progressive metal drummer, Mike Portnoy or Gavin Harrison?**
 A: Both are legends in their own right. Mike Portnoy is the definitive progressive metal powerhouse — explosive, theatrical, and relentless. See the full analysis at [metalforge.io/vs/mike-portnoy-vs-gavin-harrison](https://metalforge.io/vs/mike-portnoy-vs-gavin-harrison).
 
 **Q: What cymbals do Mike Portnoy and Gavin Harrison use?**
-A: Mike Portnoy uses Sabian HHX Series (14" Evolution Hi-Hats, 18" & 19" Evolution Crashes, 21" Raw Bell Dry Ride, 10" & 12" Evolution Splashes, 19" O-Zone Crash). Gavin Harrison uses Zildjian K Custom Special Dry Series (14" Hi-Hats, 16" & 18" Crashes, 21" Special Dry Ride, 18" Trash China).
+A: Mike Portnoy uses Sabian HHX MAX / AAX MAXX Series (22" HHX MAX Ride, 18" AAX X-Plosion Crash, 19" HHX X-Plosion Crash, 18" AAX O-Zone Crash, 18" HHX Chinese, 19" Paragon Chinese, 7"/9"/11" AAX MAXX Splashes, 6"/6.5"/7" AA MAX Chimes). Gavin Harrison uses Zildjian K Custom Special Dry Series (14" Hi-Hats, 16" & 18" Crashes, 21" Special Dry Ride, 18" Trash China).
 
 ---
 
@@ -67,4 +67,4 @@ A: Mike Portnoy uses Sabian HHX Series (14" Evolution Hi-Hats, 18" & 19" Evoluti
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

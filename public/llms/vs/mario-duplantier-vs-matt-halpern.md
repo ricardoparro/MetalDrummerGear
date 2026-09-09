@@ -46,17 +46,17 @@ Mario Duplantier and Matt Halpern represent two faces of modern heavy drumming �
 
 ## FAQ
 
-**Q: What are the main differences between Mario Duplantier's and Matt Halpern's drum kits?**
-A: Mario Duplantier plays Tama Starclassic Bubinga (22"x18" Bass Drums x2, 12"x9" & 13"x10" Toms, 16"x16" Floor Tom) with Zildjian cymbals, while Matt Halpern uses Pearl Reference Series with Meinl cymbals. Mario endorses Tama Starclassic Bubinga drums with Zildjian A Custom and K Sweet cymbals and Tama signature sticks — a warm, powerful setup built for Gojira's atmospheric heaviness. Matt plays Pearl Reference Series drums with Meinl Byzance cymbals and a Pearl Demon Drive double pedal — a precision-tuned setup suited to Periphery's studio-quality live performance standards.
+**Q: What drums does Mario Duplantier play?**
+A: Mario Duplantier plays Tama Starclassic Bubinga drums with Zildjian A Custom and K Sweet cymbals and Tama signature sticks.
 
-**Q: What drums does Mario Duplantier play vs Matt Halpern?**
-A: Mario Duplantier plays Tama Starclassic Bubinga (22"x18" Bass Drums x2, 12"x9" & 13"x10" Toms, 16"x16" Floor Tom). Matt Halpern plays Pearl Reference Series.
+**Q: What drums does Matt Halpern play?**
+A: Matt Halpern plays Pearl Reference Series drums with Meinl Byzance cymbals (Traditional Medium hi-hats, Traditional Extra Thin Hammered crashes, Sand Crash-Ride) plus his signature Artist Concept Double Down Stack and a Pearl Demon Drive double pedal.
 
-**Q: Who is the better progressive metal drummer, Mario Duplantier or Matt Halpern?**
-A: Both are legends in their own right. Mario Duplantier and Matt Halpern represent two faces of modern heavy drumming — tribal power vs polyrhythmic precision, eco-metal ferocity vs djent groove. See the full analysis at [metalforge.io/vs/mario-duplantier-vs-matt-halpern](https://metalforge.io/vs/mario-duplantier-vs-matt-halpern).
+**Q: Who is more technical: Mario Duplantier or Matt Halpern?**
+A: Both are highly technical in different ways. Halpern's polyrhythmic ghost-note complexity and djent subdivision are a different kind of technical demand than Mario's tribal power and explosive accent placement. Neither is "more technical" — they're technically elite in different dimensions.
 
-**Q: What cymbals do Mario Duplantier and Matt Halpern use?**
-A: Mario Duplantier uses Zildjian (14" K Sweet Hi-Hats, 14" A Custom Hi-Hats, 18" K Custom Hybrid Crash, 19" A Custom Crash, 20" K Sweet Crash, 21" Z Custom Mega Bell Ride, 18" & 20" Chinas). Matt Halpern uses Meinl Byzance Series (15" Dark Hi-Hats, 18" & 20" Extra Dry Medium Crashes, 22" Transition Ride, 18" Extra Dry China).
+**Q: What band is Mario Duplantier in?**
+A: Mario Duplantier is the drummer and co-founder of Gojira, the French progressive death metal band known for their environmental advocacy and albums like The Way of All Flesh, Magma, and Fortitude.
 
 ---
 
@@ -67,4 +67,4 @@ A: Mario Duplantier uses Zildjian (14" K Sweet Hi-Hats, 14" A Custom Hi-Hats, 18
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

@@ -46,17 +46,17 @@ Gene Hoglan is "The Atomic Clock" — legendary precision earned across 40+ year
 
 ## FAQ
 
-**Q: What are the main differences between Gene Hoglan's and Tomas Haake's drum kits?**
-A: Gene Hoglan plays Pearl Reference Pure with Sabian cymbals, while Tomas Haake uses Sonor SQ2 Heavy Beech (24"x18" Bass, 10"x8", 12"x9", 13"x10", 16"x14", 18"x16" Toms) with Sabian cymbals. Gene Hoglan plays a Pearl Reference Pure kit (a maple/mahogany hybrid shell chosen for tonal clarity at extreme tempos) with a Pearl Reference 14"x6.5" Brass snare, Sabian AAX Series cymbals (15" Hi-Hats, 18" & 20" Crashes, 22" Ride, 20" China), a Pearl Demon Drive double pedal, Promark 5B sticks, and Evans heads. Tomas Haake plays a Sonor SQ2 Heavy Beech kit with a massive 24"x18" bass drum and an extended tom range (10", 12", 13", 16", 18") built for Meshuggah's low-end density, paired with Sonor Tomas Haake Signature snares, Sabian HHX & AAX cymbals, dual Tama Speed Cobra single pedals, and Wincent Tomas Haake Signature sticks.
+**Q: Who is more technical, Gene Hoglan or Tomas Haake?**
+A: Both are widely regarded as among metal's most technical drummers, but in different ways. Gene Hoglan's technicality is rooted in sustained extreme-tempo precision — his gravity blast technique lets him hold metronomic speed across full albums. Tomas Haake's technicality is rooted in polyrhythmic layering — playing two independent rhythmic cycles simultaneously using separate single pedals for each foot, a feat very few drummers attempt, let alone master.
 
 **Q: What drums does Gene Hoglan play vs Tomas Haake?**
-A: Gene Hoglan plays Pearl Reference Pure. Tomas Haake plays Sonor SQ2 Heavy Beech (24"x18" Bass, 10"x8", 12"x9", 13"x10", 16"x14", 18"x16" Toms).
+A: Gene Hoglan plays a Pearl Reference Pure kit with a Pearl Reference 14"x6.5" Brass snare and Sabian AAX cymbals. Tomas Haake plays a Sonor SQ2 Heavy Beech kit with a 24"x18" bass drum, Sonor Tomas Haake Signature snares, and Sabian HHX & AAX cymbals.
 
-**Q: Who is the better extreme / death / black metal drummer, Gene Hoglan or Tomas Haake?**
-A: Both are legends in their own right. Gene Hoglan is "The Atomic Clock" — legendary precision earned across 40+ years and 20+ bands of extreme metal. See the full analysis at [metalforge.io/vs/gene-hoglan-vs-tomas-haake](https://metalforge.io/vs/gene-hoglan-vs-tomas-haake).
+**Q: Why does Tomas Haake use two single pedals instead of a double pedal?**
+A: Tomas Haake prefers the independent mechanical response of two separate single pedals over a shared double-pedal beam, giving each foot distinct feel and control. This unconventional setup is essential to Meshuggah's polyrhythmic style, letting him hold separate rhythmic cycles with each foot.
 
-**Q: What cymbals do Gene Hoglan and Tomas Haake use?**
-A: Gene Hoglan uses Sabian AAX Series (15" Hi-Hats, 18" & 20" Crashes, 22" Ride, 20" China). Tomas Haake uses Sabian HHX & AAX Series (14" HHX Compression Hi-Hats, 15" Artisan Hi-Hats, 19" & 20" & 21" HHX Stage Crashes, 22" Legacy Ride, 19" AAXtreme China).
+**Q: What is Gene Hoglan's "gravity blast" technique?**
+A: The gravity blast is a blast beat variation Gene Hoglan pioneered that uses the stick's own gravitational momentum rather than pure muscular force, allowing sustained extreme speeds with less fatigue. It became a foundational technique studied by extreme metal drummers worldwide.
 
 ---
 
@@ -67,4 +67,4 @@ A: Gene Hoglan uses Sabian AAX Series (15" Hi-Hats, 18" & 20" Crashes, 22" Ride,
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

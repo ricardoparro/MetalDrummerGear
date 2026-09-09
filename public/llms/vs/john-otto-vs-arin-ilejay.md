@@ -46,17 +46,17 @@ John Otto and Arin Ilejay both drove Billboard No. 1 albums for genre-defining b
 
 ## FAQ
 
-**Q: What are the main differences between John Otto's and Arin Ilejay's drum kits?**
-A: John Otto plays Orange County Drum & Percussion (OCDP) Custom Type 5 Acrylic with Zildjian cymbals, while Arin Ilejay uses Mapex Saturn Series with Zildjian cymbals. John Otto plays an Orange County Drum & Percussion (OCDP) Custom Type 5 Acrylic kit with dual OCDP snares — a 14x6.5" 40-ply vented shell and a 10x6" 20-ply piccolo — and Zildjian cymbals (13" A Custom Mastersound Hi-Hats, 16" & 17" A Custom Projection Crashes, 20" A Custom EFX, 20" FX Oriental Crash of Doom), driven by Gibraltar G Class bass drum pedals. Arin Ilejay played a Mapex Saturn Series kit with a Mapex Black Panther 14x6.5" snare and Zildjian A Custom cymbals (14" A Custom Mastersound Hi-Hats, 18" & 19" A Custom Crashes, 21" A Sweet Ride, 18" A Custom China), powered by a Mapex Falcon double pedal — the documented setup from his 2011-2015 A7X tenure.
+**Q: How do John Otto and Arin Ilejay compare as drummers?**
+A: John Otto has been Limp Bizkit's only drummer since co-founding the band in 1994, known for jazz-schooled, hip-hop-influenced groove and pocket. Arin Ilejay drummed for Avenged Sevenfold from 2011 to 2015, bringing a straightforward, classic-metal-influenced power style to the band's "Hail to the King" album.
 
-**Q: What drums does John Otto play vs Arin Ilejay?**
-A: John Otto plays Orange County Drum & Percussion (OCDP) Custom Type 5 Acrylic. Arin Ilejay plays Mapex Saturn Series.
+**Q: What gear do John Otto and Arin Ilejay use?**
+A: John Otto plays an OCDP Custom Type 5 Acrylic kit with dual OCDP snares and Zildjian A Custom cymbals, driven by Gibraltar G Class bass drum pedals. Arin Ilejay played a Mapex Saturn Series kit with a Mapex Black Panther snare and Zildjian A Custom cymbals, powered by a Mapex Falcon double pedal, during his 2011-2015 Avenged Sevenfold tenure.
 
-**Q: Who is the better alternative / nu-metal drummer, John Otto or Arin Ilejay?**
-A: Both are legends in their own right. John Otto and Arin Ilejay both drove Billboard No. See the full analysis at [metalforge.io/vs/john-otto-vs-arin-ilejay](https://metalforge.io/vs/john-otto-vs-arin-ilejay).
+**Q: What bands are John Otto and Arin Ilejay known for?**
+A: John Otto co-founded and still drums for Limp Bizkit, formed in Jacksonville, Florida, in 1994. Arin Ilejay drummed for Avenged Sevenfold from 2011 to 2015, recording "Hail to the King," and previously played with Confide.
 
-**Q: What cymbals do John Otto and Arin Ilejay use?**
-A: John Otto uses Zildjian (13" A Custom Mastersound Hi-Hats, 16" & 17" A Custom Projection Crashes, 20" A Custom EFX, 20" FX Oriental Crash of Doom). Arin Ilejay uses Zildjian (14" A Custom Mastersound Hi-Hats, 18" & 19" A Custom Crashes, 21" A Sweet Ride, 18" A Custom China).
+**Q: Why did Arin Ilejay join Avenged Sevenfold?**
+A: Arin Ilejay joined Avenged Sevenfold in 2011 following the death of founding drummer Jimmy "The Rev" Sullivan. He recorded one studio album with the band, "Hail to the King" (2013), which debuted at No. 1 on the Billboard 200, before departing in 2015.
 
 ---
 
@@ -67,4 +67,4 @@ A: John Otto uses Zildjian (13" A Custom Mastersound Hi-Hats, 16" & 17" A Custom
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

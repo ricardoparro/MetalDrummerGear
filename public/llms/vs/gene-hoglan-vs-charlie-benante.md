@@ -34,7 +34,7 @@ Gene is known for inhuman timing and signature gravity blast technique. Charlie 
 
 ## Key Differences
 
-Gene endorses Pearl drums for power and projection. Charlie plays Pearl with emphasis on attack and cut. Gene is known for inhuman timing and signature gravity blast technique. Charlie pioneered skank beats and aggressive double bass.
+Gene endorses Pearl drums for power and projection. Charlie plays Tama with emphasis on attack and cut. Gene is known for inhuman timing and signature gravity blast technique. Charlie pioneered skank beats and aggressive double bass.
 
 ## Influence & Legacy
 
@@ -47,7 +47,7 @@ Gene Hoglan earned "Atomic Clock" for unmatched precision. Charlie Benante broug
 ## FAQ
 
 **Q: What are the main differences between Gene Hoglan's and Charlie Benante's drum kits?**
-A: Gene Hoglan plays Pearl Reference Pure with Sabian cymbals, while Charlie Benante uses Tama Starclassic with Paiste cymbals. Gene endorses Pearl drums for power and projection. Charlie plays Pearl with emphasis on attack and cut.
+A: Gene Hoglan plays Pearl Reference Pure with Sabian cymbals, while Charlie Benante uses Tama Starclassic with Paiste cymbals. Gene endorses Pearl drums for power and projection. Charlie plays Tama with emphasis on attack and cut.
 
 **Q: What drums does Gene Hoglan play vs Charlie Benante?**
 A: Gene Hoglan plays Pearl Reference Pure. Charlie Benante plays Tama Starclassic.
@@ -67,4 +67,4 @@ A: Gene Hoglan uses Sabian AAX Series (15" Hi-Hats, 18" & 20" Crashes, 22" Ride,
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

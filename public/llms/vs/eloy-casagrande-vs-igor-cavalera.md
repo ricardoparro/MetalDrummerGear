@@ -46,17 +46,17 @@ Igor Cavalera is the primal architect — his tribal-thrash drumming gave Sepult
 
 ## FAQ
 
-**Q: What are the main differences between Eloy Casagrande's and Igor Cavalera's drum kits?**
-A: Eloy Casagrande plays Tama Starclassic Bubinga (22"x16" & 24"x14" Bass Drums, 10", 12", 13" Toms, 16" & 18" Floor Toms) with Paiste cymbals, while Igor Cavalera uses Tama Starclassic Maple with Paiste cymbals. Eloy Casagrande plays Tama Starclassic Bubinga drums with Paiste cymbals, a Tama Bell Brass snare, and Tama Iron Cobra double pedals with Promark Eloy Casagrande Signature sticks. Igor Cavalera currently plays a Yamaha Absolute Hybrid Maple kit with Zildjian cymbals (since 2018) and a Tama Iron Cobra pedal; from 2007-2018 he played Tama Starclassic Maple drums with Paiste RUDE and 2002 cymbals (he played Pearl Masters Custom drums during Sepultura's 1993-1996 Chaos A.D./Roots era).
+**Q: How different is Sepultura's drumming now versus the 1990s?**
+A: Igor Cavalera's 1990s Sepultura drumming was tribal and primal — fusing Brazilian folk percussion with thrash aggression on Chaos A.D. and Roots. Eloy Casagrande's modern Sepultura drumming is more technically precise and death metal-influenced. The groove DNA is shared, but Igor's sound is raw and earthy; Eloy's is clean and technically demanding.
 
-**Q: What drums does Eloy Casagrande play vs Igor Cavalera?**
-A: Eloy Casagrande plays Tama Starclassic Bubinga (22"x16" & 24"x14" Bass Drums, 10", 12", 13" Toms, 16" & 18" Floor Toms). Igor Cavalera plays Tama Starclassic Maple.
+**Q: What gear does Eloy Casagrande use vs Igor Cavalera?**
+A: Eloy Casagrande plays Tama Starclassic Bubinga drums with Paiste cymbals, a Tama Bell Brass snare, and Tama Iron Cobra double pedals. Igor Cavalera currently plays a Yamaha Absolute Hybrid Maple kit with Zildjian cymbals (since 2018); from 2007-2018 he played Tama Starclassic Maple drums with Paiste RUDE and 2002 cymbals and Tama Iron Cobra pedals, and during Sepultura's 1993-1996 Chaos A.D./Roots era he played Pearl Masters Custom drums.
 
-**Q: Who is the better thrash metal drummer, Eloy Casagrande or Igor Cavalera?**
-A: Both are legends in their own right. Igor Cavalera is the primal architect — his tribal-thrash drumming gave Sepultura their global identity and introduced Brazilian rhythmic traditions to heavy metal's worldwide audience. See the full analysis at [metalforge.io/vs/eloy-casagrande-vs-igor-cavalera](https://metalforge.io/vs/eloy-casagrande-vs-igor-cavalera).
+**Q: Why did Eloy Casagrande join Slipknot?**
+A: Eloy Casagrande joined Slipknot in 2024 after departing Sepultura. His thrash metal roots, technical precision, and ability to handle a demanding percussive catalog made him the ideal candidate for one of metal's most scrutinized drum chairs.
 
-**Q: What cymbals do Eloy Casagrande and Igor Cavalera use?**
-A: Eloy Casagrande uses Paiste (15" Masters Dark Hi-Hats, 20" Masters Dark Ride, 20" & 20" 602 Crashes, 10" Rude Splash, 20" Masters Dark Crash, 20" 2002 Heavy Ride, 20" 2002 Novo China, 10" 2002 Mega Bell, Symphonic Gong). Igor Cavalera uses Paiste RUDE & 2002 Series (14" RUDE Hi-Hats, 18" & 19" RUDE Crashes, 22" RUDE Power Ride, 18" 2002 China).
+**Q: Who is the better Sepultura drummer: Igor Cavalera or Eloy Casagrande?**
+A: Igor Cavalera co-created Sepultura's iconic sound — his tribal-thrash identity is irreplaceable in the band's classic era. Eloy Casagrande honored that legacy while adding modern technical depth. Both are essential to understanding Sepultura's complete story.
 
 ---
 
@@ -67,4 +67,4 @@ A: Eloy Casagrande uses Paiste (15" Masters Dark Hi-Hats, 20" Masters Dark Ride,
 
 ---
 
-*Last updated: 2026-08-22 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

@@ -34,7 +34,7 @@ Erlandsson's identity centers on rhythmic discipline over complexity — a rock-
 
 ## Key Differences
 
-Adrian Erlandsson recorded "Slaughter of the Soul" on a budget Pearl Export kit with Zildjian A Series cymbals, later building a career-long relationship with Tama — his current rig is a Tama Starclassic Bubinga kit with a matching 14"x6.5" snare, Sabian AAX/HHX cymbals, a Monolit Czarcie Kopyto double pedal, and his own Vic Firth signature sticks. Sean Reinert played a DW Collector's Series maple kit throughout his tenure in Death and Cynic, with a DW Collector's 14"x5.5" maple snare, Zildjian A Series cymbals (switching to darker K Series for "Focus"), a DW 5000 single-chain double pedal, and Vic Firth American Classic 5A sticks — both drummers, notably, started their genre-defining recordings on comparatively modest gear before building lasting brand relationships. Erlandsson's identity centers on rhythmic discipline over complexity — a rock-steady D-beat borrowed from hardcore and crust punk, deployed with full-intensity blast-beat entrances (most iconically on "Blinded by Fear") that serve the song's melodic momentum rather than competing with it. Reinert brought the opposite instinct: jazz-trained ghost notes, dynamic extremes, and polymetric phrasing that treated technicality as musical expression rather than a display of speed, sustaining jazz-fusion ride patterns inside blast-beat-tempo death metal on "Human" and "Focus" alike.
+Adrian Erlandsson recorded "Slaughter of the Soul" on a budget Pearl Export kit with Zildjian A Series cymbals, later building a career-long relationship with Tama — his current rig is a Tama Starclassic Bubinga kit with a matching 14"x6.5" snare, Sabian AAX/HHX cymbals, a Monolit Czarcie Kopyto double pedal, and his own Vic Firth signature sticks. Sean Reinert played a DW Collector's Series maple kit throughout his later tenure in Death and Cynic, with a DW Collector's 14"x5.5" maple snare, Zildjian K Custom cymbals, a DW 9000 Double Pedal, and Vic Firth American Classic 5A sticks — both drummers, notably, started their genre-defining recordings on comparatively modest gear before building lasting brand relationships. Erlandsson's identity centers on rhythmic discipline over complexity — a rock-steady D-beat borrowed from hardcore and crust punk, deployed with full-intensity blast-beat entrances (most iconically on "Blinded by Fear") that serve the song's melodic momentum rather than competing with it. Reinert brought the opposite instinct: jazz-trained ghost notes, dynamic extremes, and polymetric phrasing that treated technicality as musical expression rather than a display of speed, sustaining jazz-fusion ride patterns inside blast-beat-tempo death metal on "Human" and "Focus" alike.
 
 ## Influence & Legacy
 
@@ -46,17 +46,17 @@ Adrian Erlandsson and Sean Reinert each wrote a founding chapter of death metal'
 
 ## FAQ
 
-**Q: What are the main differences between Adrian Erlandsson's and Sean Reinert's drum kits?**
-A: Adrian Erlandsson plays Tama Starclassic Bubinga with Sabian cymbals, while Sean Reinert uses Tama Artstar II with Zildjian cymbals. Adrian Erlandsson recorded "Slaughter of the Soul" on a budget Pearl Export kit with Zildjian A Series cymbals, later building a career-long relationship with Tama — his current rig is a Tama Starclassic Bubinga kit with a matching 14"x6.5" snare, Sabian AAX/HHX cymbals, a Monolit Czarcie Kopyto double pedal, and his own Vic Firth signature sticks. Sean Reinert played a DW Collector's Series maple kit throughout his tenure in Death and Cynic, with a DW Collector's 14"x5.5" maple snare, Zildjian A Series cymbals (switching to darker K Series for "Focus"), a DW 5000 single-chain double pedal, and Vic Firth American Classic 5A sticks — both drummers, notably, started their genre-defining recordings on comparatively modest gear before building lasting brand relationships.
+**Q: How do Adrian Erlandsson and Sean Reinert compare as drummers?**
+A: Adrian Erlandsson co-founded At the Gates and drummed on "Slaughter of the Soul" (1995), the founding blueprint of Gothenburg melodic death metal, built on disciplined D-beat rhythm. Sean Reinert recorded Death's "Human" (1991) and Cynic's "Focus" (1993), bringing jazz-trained ghost notes and polymetric phrasing that helped birth progressive death metal. Erlandsson prioritizes rhythmic discipline; Reinert prioritized musical complexity.
 
-**Q: What drums does Adrian Erlandsson play vs Sean Reinert?**
-A: Adrian Erlandsson plays Tama Starclassic Bubinga. Sean Reinert plays Tama Artstar II.
+**Q: What gear did Adrian Erlandsson and Sean Reinert use?**
+A: Adrian Erlandsson recorded "Slaughter of the Soul" on a budget Pearl Export kit and now plays a Tama Starclassic Bubinga kit with Sabian AAX/HHX cymbals. Sean Reinert played a DW Collector's Series maple kit with Zildjian K Custom cymbals and a DW 9000 Double Pedal throughout his later career.
 
-**Q: Who is the better extreme / death / black metal drummer, Adrian Erlandsson or Sean Reinert?**
-A: Both are legends in their own right. Adrian Erlandsson and Sean Reinert each wrote a founding chapter of death metal's expansion beyond raw velocity, on landmark albums recorded in their early twenties on modest gear. See the full analysis at [metalforge.io/vs/adrian-erlandsson-vs-sean-reinert](https://metalforge.io/vs/adrian-erlandsson-vs-sean-reinert).
+**Q: What albums are Adrian Erlandsson and Sean Reinert best known for?**
+A: Adrian Erlandsson is best known for At the Gates' "Slaughter of the Soul" (1995). Sean Reinert is best known for Death's "Human" (1991) and Cynic's "Focus" (1993), both recorded before he turned 23.
 
-**Q: What cymbals do Adrian Erlandsson and Sean Reinert use?**
-A: Adrian Erlandsson uses Sabian AAX/HHX Series (15" HHX Xcelerator Hi-Hats, 20" AAX Iso Crash, 19" AAX Paragon China). Sean Reinert uses Zildjian A/K Series (14" A Quick Beat Hi-Hats, 16" & 18" A Crashes, 20" K Custom Dry Ride, 16" China, 10" A Splash).
+**Q: Did Sean Reinert and Adrian Erlandsson ever play in the same band?**
+A: No. Sean Reinert's core bands were Death and Cynic; Adrian Erlandsson's core bands were At the Gates, The Haunted, Cradle of Filth, and Paradise Lost. Their careers never overlapped in a shared lineup, but both are credited with founding a distinct death metal subgenre in the early-to-mid 1990s.
 
 ---
 
@@ -67,4 +67,4 @@ A: Adrian Erlandsson uses Sabian AAX/HHX Series (15" HHX Xcelerator Hi-Hats, 20"
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

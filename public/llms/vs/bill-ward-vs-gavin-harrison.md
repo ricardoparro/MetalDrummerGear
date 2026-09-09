@@ -34,7 +34,7 @@ Ward's technique is rooted in open, swinging jazz feel rather than technical pre
 
 ## Key Differences
 
-Bill Ward played a Ludwig Classic Maple kit with a Ludwig Supraphonic 14x6.5" LM402 snare and Paiste 2002 & Giant Beat Series cymbals (15" Giant Beat Hi-Hats, 18" & 20" 2002 Crashes, a 24" 2002 Ride, 18" 2002 China), driven by a single Ludwig Speed King pedal — no double bass. Gavin Harrison plays Pearl Reference drums with Paiste Signature Series cymbals and his own Vic Firth Gavin Harrison Signature stick — a refined setup built for clarity and articulation rather than raw power. Ward's technique is rooted in open, swinging jazz feel rather than technical precision — his loose grip and behind-the-beat phrasing gave early Sabbath riffs like "Iron Man" and "War Pigs" a heavy, rolling groove that no other rock drummer of the era was playing, emphasizing feel over speed. Harrison specializes in linear drumming, polyrhythmic layering, and ghost-note weaving through odd time signatures, with a defining gift for making technically impossible grooves feel natural and conversational within Porcupine Tree's and King Crimson's progressive song structures.
+Bill Ward played a Ludwig Classic Maple kit with a Ludwig Supraphonic 14x6.5" LM402 snare and Zildjian Avedis Series cymbals (14" Hi-Hats, 16" & 18" Crashes, 20" Ride, 18" China), driven by a single Ludwig Speed King pedal — no double bass. Gavin Harrison plays Sonor SQ2 drums with Zildjian K Custom Special Dry cymbals and his own Vic Firth Gavin Harrison Signature stick — a refined setup built for clarity and articulation rather than raw power. Ward's technique is rooted in open, swinging jazz feel rather than technical precision — his loose grip and behind-the-beat phrasing gave early Sabbath riffs like "Iron Man" and "War Pigs" a heavy, rolling groove that no other rock drummer of the era was playing, emphasizing feel over speed. Harrison specializes in linear drumming, polyrhythmic layering, and ghost-note weaving through odd time signatures, with a defining gift for making technically impossible grooves feel natural and conversational within Porcupine Tree's and King Crimson's progressive song structures.
 
 ## Influence & Legacy
 
@@ -46,17 +46,17 @@ Bill Ward and Gavin Harrison represent two very different paths built on a share
 
 ## FAQ
 
-**Q: What are the main differences between Bill Ward's and Gavin Harrison's drum kits?**
-A: Bill Ward plays Ludwig Classic Maple with Paiste cymbals, while Gavin Harrison uses Sonor SQ2 Series with Zildjian cymbals. Bill Ward played a Ludwig Classic Maple kit with a Ludwig Supraphonic 14x6.5" LM402 snare and Paiste 2002 & Giant Beat Series cymbals (15" Giant Beat Hi-Hats, 18" & 20" 2002 Crashes, a 24" 2002 Ride, 18" 2002 China), driven by a single Ludwig Speed King pedal — no double bass. Gavin Harrison plays Pearl Reference drums with Paiste Signature Series cymbals and his own Vic Firth Gavin Harrison Signature stick — a refined setup built for clarity and articulation rather than raw power.
+**Q: How do Bill Ward and Gavin Harrison compare as drummers?**
+A: Bill Ward co-founded Black Sabbath in 1968 and helped invent heavy metal drumming's jazz-influenced, swinging groove on foundational records like "Paranoid" (1970). Gavin Harrison built his reputation across Porcupine Tree, King Crimson, and The Pineapple Thief on polyrhythmic layering and ghost-note weaving that makes complex time signatures feel natural. Ward founded metal's rhythmic vocabulary; Harrison represents progressive rock's polyrhythmic technical ceiling.
 
-**Q: What drums does Bill Ward play vs Gavin Harrison?**
-A: Bill Ward plays Ludwig Classic Maple. Gavin Harrison plays Sonor SQ2 Series.
+**Q: What gear do Bill Ward and Gavin Harrison use?**
+A: Bill Ward played a Ludwig Classic Maple kit with a Ludwig Supraphonic 14x6.5" LM402 snare and Zildjian Avedis Series cymbals, driven by a single Ludwig Speed King pedal — no double bass. Gavin Harrison plays Sonor SQ2 drums with Zildjian K Custom Special Dry cymbals and his own Vic Firth Gavin Harrison Signature stick.
 
-**Q: Who is the better alternative / nu-metal drummer, Bill Ward or Gavin Harrison?**
-A: Both are legends in their own right. Bill Ward and Gavin Harrison represent two very different paths built on a shared instinct for feel over flash. See the full analysis at [metalforge.io/vs/bill-ward-vs-gavin-harrison](https://metalforge.io/vs/bill-ward-vs-gavin-harrison).
+**Q: What bands are Bill Ward and Gavin Harrison known for?**
+A: Bill Ward co-founded and drummed for Black Sabbath from 1968 to 1983, and again from 1997 to 2006. Gavin Harrison has drummed for Porcupine Tree, King Crimson, and The Pineapple Thief.
 
-**Q: What cymbals do Bill Ward and Gavin Harrison use?**
-A: Bill Ward uses Paiste 2002 & Giant Beat Series (15" Giant Beat Hi-Hats, 18" & 20" 2002 Crashes, 24" 2002 Ride, 18" 2002 China). Gavin Harrison uses Zildjian K Custom Special Dry Series (14" Hi-Hats, 16" & 18" Crashes, 21" Special Dry Ride, 18" Trash China).
+**Q: Has Gavin Harrison won any drumming awards?**
+A: Yes — Gavin Harrison has won multiple Modern Drummer Reader Poll awards and is widely regarded within progressive rock as the "prog drummer's drummer" for his polyrhythmic precision and restraint.
 
 ---
 
@@ -67,4 +67,4 @@ A: Bill Ward uses Paiste 2002 & Giant Beat Series (15" Giant Beat Hi-Hats, 18" &
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

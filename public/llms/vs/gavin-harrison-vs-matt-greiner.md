@@ -34,7 +34,7 @@ Harrison's technique centers on ghost notes, ambidextrous independence, and odd-
 
 ## Key Differences
 
-Harrison plays a Sonor SQ2 kit with thin maple shells (22"x17" bass drum, 10"/12" rack toms, 14"/16" floor toms), Sonor Gavin Harrison Signature snares (14"x5.25" brass primary, 12"x5" Protean), and Zildjian K Custom Special Dry cymbals developed in direct collaboration with him, anchored by a 21" Special Dry Ride, plus Vic Firth signature sticks. Greiner plays a Pearl Reference Pure kit with dual 22"x18" bass drums, a Pearl Matt Greiner Signature snare, and Meinl Byzance cymbals (18"/19" Extra Dry Medium crashes, 21" Transition Ride), driven by a Pearl Demon Drive double pedal and Vic Firth Matt Greiner signature sticks. Harrison's technique centers on ghost notes, ambidextrous independence, and odd-time polyrhythms delivered with controlled, almost scientific precision — he can make 7/8 groove harder than straight 4/4. Greiner brings similar musical intelligence to metalcore's breakneck tempos, locking tightly with guitarist JB Brubaker's angular riffs while layering creative cymbal orchestration and dynamic shifts that most metalcore drumming skips in favor of pure aggression.
+Harrison plays a Sonor SQ2 kit with thin maple shells (22"x17" bass drum, 10"/12" rack toms, 14"/16" floor toms), Sonor Gavin Harrison Signature snares (14"x5.25" brass primary, 12"x5" Protean), and Zildjian K Custom Special Dry cymbals developed in direct collaboration with him, anchored by a 21" Special Dry Ride, plus Vic Firth signature sticks. Greiner plays a Mapex Black Panther Design Lab kit with dual 22"x18" bass drums, a Pearl Matt Greiner Signature snare, and Paiste Formula 602 cymbals, driven by a DW 9000 Series double pedal and Vic Firth Matt Greiner signature sticks. Harrison's technique centers on ghost notes, ambidextrous independence, and odd-time polyrhythms delivered with controlled, almost scientific precision — he can make 7/8 groove harder than straight 4/4. Greiner brings similar musical intelligence to metalcore's breakneck tempos, locking tightly with guitarist JB Brubaker's angular riffs while layering creative cymbal orchestration and dynamic shifts that most metalcore drumming skips in favor of pure aggression.
 
 ## Influence & Legacy
 
@@ -47,7 +47,7 @@ Gavin Harrison and Matt Greiner occupy different corners of progressive-leaning 
 ## FAQ
 
 **Q: What are the main differences between Gavin Harrison's and Matt Greiner's drum kits?**
-A: Gavin Harrison plays Sonor SQ2 Series with Zildjian cymbals, while Matt Greiner uses Mapex Black Panther Design Lab with Paiste cymbals. Harrison plays a Sonor SQ2 kit with thin maple shells (22"x17" bass drum, 10"/12" rack toms, 14"/16" floor toms), Sonor Gavin Harrison Signature snares (14"x5.25" brass primary, 12"x5" Protean), and Zildjian K Custom Special Dry cymbals developed in direct collaboration with him, anchored by a 21" Special Dry Ride, plus Vic Firth signature sticks. Greiner plays a Pearl Reference Pure kit with dual 22"x18" bass drums, a Pearl Matt Greiner Signature snare, and Meinl Byzance cymbals (18"/19" Extra Dry Medium crashes, 21" Transition Ride), driven by a Pearl Demon Drive double pedal and Vic Firth Matt Greiner signature sticks.
+A: Gavin Harrison plays Sonor SQ2 Series with Zildjian cymbals, while Matt Greiner uses Mapex Black Panther Design Lab with Paiste cymbals. Harrison plays a Sonor SQ2 kit with thin maple shells (22"x17" bass drum, 10"/12" rack toms, 14"/16" floor toms), Sonor Gavin Harrison Signature snares (14"x5.25" brass primary, 12"x5" Protean), and Zildjian K Custom Special Dry cymbals developed in direct collaboration with him, anchored by a 21" Special Dry Ride, plus Vic Firth signature sticks. Greiner plays a Mapex Black Panther Design Lab kit with dual 22"x18" bass drums, a Pearl Matt Greiner Signature snare, and Paiste Formula 602 cymbals, driven by a DW 9000 Series double pedal and Vic Firth Matt Greiner signature sticks.
 
 **Q: What drums does Gavin Harrison play vs Matt Greiner?**
 A: Gavin Harrison plays Sonor SQ2 Series. Matt Greiner plays Mapex Black Panther Design Lab.
@@ -67,4 +67,4 @@ A: Gavin Harrison uses Zildjian K Custom Special Dry Series (14" Hi-Hats, 16" & 
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

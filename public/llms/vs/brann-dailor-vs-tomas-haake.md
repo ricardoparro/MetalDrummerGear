@@ -34,7 +34,7 @@ Brann treats the entire kit as a melodic instrument, using his snare and toms to
 
 ## Key Differences
 
-Brann plays DW Collector's Series drums with Sabian HHX cymbals for a warm, musical tone that suits his melodic approach. Tomas uses Sonor SQ2 drums with Sabian Vault and HH Series cymbals, chosen for focused attack and projection that cut through Meshuggah's dense tuning. Brann treats the entire kit as a melodic instrument, using his snare and toms to carry melody lines and signature fills that are as recognizable as guitar riffs. Tomas dissects rhythm into pure mathematics — his kick and snare patterns cycle across groupings that create hypnotic polyrhythms independent of the guitar riff, inventing the djent rhythmic vocabulary.
+Brann plays Tama Starclassic Performer B/B drums with Meinl Mb20 & Mb8 Series cymbals for a warm, musical tone that suits his melodic approach. Tomas uses Sonor SQ2 drums with Sabian HHX & AAX Series cymbals, chosen for focused attack and projection that cut through Meshuggah's dense tuning. Brann treats the entire kit as a melodic instrument, using his snare and toms to carry melody lines and signature fills that are as recognizable as guitar riffs. Tomas dissects rhythm into pure mathematics — his kick and snare patterns cycle across groupings that create hypnotic polyrhythms independent of the guitar riff, inventing the djent rhythmic vocabulary.
 
 ## Influence & Legacy
 
@@ -47,7 +47,7 @@ Brann Dailor is jazz chaos incarnate — a drummer who makes fills feel like mel
 ## FAQ
 
 **Q: What are the main differences between Brann Dailor's and Tomas Haake's drum kits?**
-A: Brann Dailor plays Tama Starclassic Performer B/B with Meinl cymbals, while Tomas Haake uses Sonor SQ2 Heavy Beech (24"x18" Bass, 10"x8", 12"x9", 13"x10", 16"x14", 18"x16" Toms) with Sabian cymbals. Brann plays DW Collector's Series drums with Sabian HHX cymbals for a warm, musical tone that suits his melodic approach. Tomas uses Sonor SQ2 drums with Sabian Vault and HH Series cymbals, chosen for focused attack and projection that cut through Meshuggah's dense tuning.
+A: Brann Dailor plays Tama Starclassic Performer B/B with Meinl cymbals, while Tomas Haake uses Sonor SQ2 Heavy Beech (24"x18" Bass, 10"x8", 12"x9", 13"x10", 16"x14", 18"x16" Toms) with Sabian cymbals. Brann plays Tama Starclassic Performer B/B drums with Meinl Mb20 & Mb8 Series cymbals for a warm, musical tone that suits his melodic approach. Tomas uses Sonor SQ2 drums with Sabian HHX & AAX Series cymbals, chosen for focused attack and projection that cut through Meshuggah's dense tuning.
 
 **Q: What drums does Brann Dailor play vs Tomas Haake?**
 A: Brann Dailor plays Tama Starclassic Performer B/B. Tomas Haake plays Sonor SQ2 Heavy Beech (24"x18" Bass, 10"x8", 12"x9", 13"x10", 16"x14", 18"x16" Toms).
@@ -67,4 +67,4 @@ A: Brann Dailor uses Meinl Byzance Series (14" Dark Hi-Hats, 18" & 19" Brilliant
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

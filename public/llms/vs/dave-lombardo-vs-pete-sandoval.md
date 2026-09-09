@@ -18,10 +18,10 @@ Slayer's Dave Lombardo vs Morbid Angel's Pete Sandoval. Groove-based double kick
 
 ## Pete Sandoval Setup
 
-- **Drums:** ddrum Dios Series
-- **Cymbals:** Sabian AAX Series (14" Stage Hi-Hats, 18" & 19" X-Plosion Crashes, 20" Stage Ride, 18" Chinese)
-- **Snare:** ddrum Dios 14x6.5" Maple
-- **Pedals/Hardware:** ddrum Mercury Double Pedal, ddrum Throne
+- **Drums:** ddrum (specific series unconfirmed)
+- **Cymbals:** Cymbal brand/model not publicly documented
+- **Snare:** ddrum (specific model unconfirmed)
+- **Pedals/Hardware:** ddrum (specific pedal/hardware model unconfirmed)
 - **Sticks:** Pro-Mark (historical endorsement — current sticks unverified)
 
 ## Playing Style
@@ -34,7 +34,7 @@ Lombardo's double bass approach is groove-based: he locks in with the guitar rif
 
 ## Key Differences
 
-Lombardo plays Tama Starclassic Maple drums with Paiste RUDE cymbals and Tama Iron Cobra double pedals. Sandoval used Tama Artstar II drums with Zildjian A Series cymbals and Tama Iron Cobra pedals during his classic Morbid Angel years. Lombardo's double bass approach is groove-based: he locks in with the guitar riffs and drives the band with powerful alternating kicks and authoritative snare work. Sandoval invented the gravity blast — using gravity and rebound to generate blast beat speeds physically impossible with conventional technique.
+Lombardo plays Tama Starclassic Maple drums with Paiste RUDE cymbals and Tama Iron Cobra double pedals. Sandoval played a ddrum kit (exact model undocumented) with hardware to match during his classic Morbid Angel years; his cymbal brand was never publicly confirmed. Lombardo's double bass approach is groove-based: he locks in with the guitar riffs and drives the band with powerful alternating kicks and authoritative snare work. Sandoval invented the gravity blast — using gravity and rebound to generate blast beat speeds physically impossible with conventional technique.
 
 ## Influence & Legacy
 
@@ -47,16 +47,16 @@ Dave Lombardo is the godfather of thrash metal drumming — his groove-powered d
 ## FAQ
 
 **Q: What are the main differences between Dave Lombardo's and Pete Sandoval's drum kits?**
-A: Dave Lombardo plays Tama Starclassic Maple with Paiste cymbals, while Pete Sandoval uses ddrum Dios Series with Sabian cymbals. Lombardo plays Tama Starclassic Maple drums with Paiste RUDE cymbals and Tama Iron Cobra double pedals. Sandoval used Tama Artstar II drums with Zildjian A Series cymbals and Tama Iron Cobra pedals during his classic Morbid Angel years.
+A: Dave Lombardo plays Tama Starclassic Maple with Paiste cymbals, while Pete Sandoval uses ddrum (specific series unconfirmed) with Cymbal cymbals. Lombardo plays Tama Starclassic Maple drums with Paiste RUDE cymbals and Tama Iron Cobra double pedals. Sandoval played a ddrum kit (exact model undocumented) with hardware to match during his classic Morbid Angel years; his cymbal brand was never publicly confirmed.
 
 **Q: What drums does Dave Lombardo play vs Pete Sandoval?**
-A: Dave Lombardo plays Tama Starclassic Maple. Pete Sandoval plays ddrum Dios Series.
+A: Dave Lombardo plays Tama Starclassic Maple. Pete Sandoval plays ddrum (specific series unconfirmed).
 
 **Q: Who is the better extreme / death / black metal drummer, Dave Lombardo or Pete Sandoval?**
 A: Both are legends in their own right. Dave Lombardo is the godfather of thrash metal drumming — his groove-powered double kick defined Slayer's sonic identity and inspired every extreme metal band that followed. See the full analysis at [metalforge.io/vs/dave-lombardo-vs-pete-sandoval](https://metalforge.io/vs/dave-lombardo-vs-pete-sandoval).
 
 **Q: What cymbals do Dave Lombardo and Pete Sandoval use?**
-A: Dave Lombardo uses Paiste RUDE & 2002 Series (15" Sound Edge Hi-Hats, 18" & 19" Crashes, 22" Reign Power Ride, 18" China). Pete Sandoval uses Sabian AAX Series (14" Stage Hi-Hats, 18" & 19" X-Plosion Crashes, 20" Stage Ride, 18" Chinese).
+A: Dave Lombardo uses Paiste RUDE & 2002 Series (15" Sound Edge Hi-Hats, 18" & 19" Crashes, 22" Reign Power Ride, 18" China). Pete Sandoval uses Cymbal brand/model not publicly documented.
 
 ---
 
@@ -67,4 +67,4 @@ A: Dave Lombardo uses Paiste RUDE & 2002 Series (15" Sound Edge Hi-Hats, 18" & 1
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

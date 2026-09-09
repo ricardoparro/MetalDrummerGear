@@ -18,11 +18,11 @@ Godsmack's Shannon Larkin vs Deftones' Abe Cunningham. Hard rock groove power vs
 
 ## Abe Cunningham Setup
 
-- **Drums:** SJC Custom Drums
+- **Drums:** Tama Starclassic Bubinga (Egyptian Night Mist)
 - **Cymbals:** Zildjian K Custom & A Custom Series (14" K Custom Hi-Hats, 18" & 20" K Custom Crashes, 22" K Custom Ride, 19" A Custom China)
-- **Snare:** SJC Custom 14x6.5" Brass
-- **Pedals/Hardware:** DW 9000 Series Double Pedal, DW Hardware
-- **Sticks:** Vic Firth American Classic 2B
+- **Snare:** Tama Starclassic matching snare (no separate model documented)
+- **Pedals/Hardware:** Tama Iron Cobra Power Glide Twin Pedal (HP900PTW), Iron Cobra Lever Glide Hi-Hat (HH905)
+- **Sticks:** Pro-Mark
 
 ## Playing Style
 
@@ -46,17 +46,20 @@ Shannon Larkin and Abe Cunningham represent two paths through legacy-era alterna
 
 ## FAQ
 
-**Q: What are the main differences between Shannon Larkin's and Abe Cunningham's drum kits?**
-A: Shannon Larkin plays ddrum Dios Series with Sabian cymbals, while Abe Cunningham uses SJC Custom Drums with Zildjian cymbals.
+**Q: Who is the better drummer, Shannon Larkin or Abe Cunningham?**
+A: Both are groove-first drummers rather than technical showmen, so the comparison comes down to context. Shannon Larkin brought muscular, hook-driven power to Godsmack's arena hard rock for over two decades. Abe Cunningham brought unconventional, dynamics-first texture to Deftones' atmospheric alternative metal for over 35 years as a founding member. Larkin serves groove; Cunningham serves mood.
 
-**Q: What drums does Shannon Larkin play vs Abe Cunningham?**
-A: Shannon Larkin plays ddrum Dios Series. Abe Cunningham plays SJC Custom Drums.
+**Q: What gear do Shannon Larkin and Abe Cunningham use?**
+A: Shannon Larkin plays a ddrum Dios Series kit with a ddrum Dios 14x6.5" Maple snare and Sabian AAX Series cymbals, driven by a DW 9000 Series double pedal and Vic Firth American Classic 5B sticks. Abe Cunningham plays a Tama Starclassic Maple/Bubinga kit with a Tama S.L.P. Big Black Steel snare and Zildjian cymbals, driven by a Tama Iron Cobra double pedal.
 
-**Q: Who is the better alternative / nu-metal drummer, Shannon Larkin or Abe Cunningham?**
-A: Both are legends in their own right. Shannon Larkin and Abe Cunningham represent two paths through legacy-era alternative and hard rock drumming. See the full analysis at [metalforge.io/vs/shannon-larkin-vs-abe-cunningham](https://metalforge.io/vs/shannon-larkin-vs-abe-cunningham).
+**Q: How long has Abe Cunningham been in Deftones?**
+A: Abe Cunningham has been Deftones' drummer since co-founding the band in Sacramento, California in 1988, when he was still a teenager. He is one of only two original members still in the band, making him one of alternative metal's longest-serving drummers.
 
-**Q: What cymbals do Shannon Larkin and Abe Cunningham use?**
-A: Shannon Larkin uses Sabian AAX & HHX Series (14" AAX Stage Hi-Hats, 18" & 19" AAX X-Plosion Crashes, 21" HHX Raw Bell Dry Ride, 10" AAX Splash, 18" AAX Chinese). Abe Cunningham uses Zildjian K Custom & A Custom Series (14" K Custom Hi-Hats, 18" & 20" K Custom Crashes, 22" K Custom Ride, 19" A Custom China).
+**Q: What bands did Shannon Larkin play in before Godsmack?**
+A: Shannon Larkin played with Wrathchild America (1989–1991, later Souls at Zero), Ugly Kid Joe (1991–1997, including the hit "Everything About You"), Amen, and Candlebox before joining Godsmack in 2002.
+
+**Q: What is Abe Cunningham's drumming style known for?**
+A: Abe Cunningham is known for unconventional, feel-first drumming that prioritizes space, dynamics, and emotional arc over technical complexity. His influences include John Bonham, Stewart Copeland, and Chad Sexton, and his playing on tracks like "Digital Bath" and "Elite" (which won a Grammy for Best Metal Performance) showcases his dynamic range.
 
 ---
 
@@ -67,4 +70,4 @@ A: Shannon Larkin uses Sabian AAX & HHX Series (14" AAX Stage Hi-Hats, 18" & 19"
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

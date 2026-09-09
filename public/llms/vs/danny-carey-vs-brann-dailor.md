@@ -11,7 +11,7 @@ Tool's Danny Carey vs Mastodon's Brann Dailor. Two progressive metal drumming vi
 ## Danny Carey Setup
 
 - **Drums:** Sonor SQ2 Heavy Beech
-- **Cymbals:** Paiste Signature Series (15" Sound Edge Hi-Hats, 18" & 19" Power Crashes, 22" Dry Heavy Ride, 20" & 22" Chinas, various Rude crashes)
+- **Cymbals:** Paiste Signature Series (14" Sound Edge Hi-Hats, 18" & 20" Power Crashes, 22" Dry Heavy Ride "Monad", 2002 & Signature China cymbals)
 - **Snare:** Sonor Danny Carey Signature 14x8" Bronze
 - **Pedals/Hardware:** Sonor Giant Step Twin Effect Double Pedal, Sonor Drummer Throne, Mandala Drum electronic pads
 - **Sticks:** Vic Firth Danny Carey Signature
@@ -34,7 +34,7 @@ Danny masters polyrhythmic patterns with electronic integration and Fibonacci-ba
 
 ## Key Differences
 
-Danny plays Sonor drums with Paiste cymbals and custom Mandala pads. Brann uses DW drums with Sabian cymbals. Danny masters polyrhythmic patterns with electronic integration and Fibonacci-based compositions. Brann uses constant flowing fills with signature tom work.
+Danny plays Sonor drums with Paiste cymbals and custom Mandala pads. Brann uses Tama Starclassic Performer B/B drums with Meinl Mb20 & Mb8 Series cymbals. Danny masters polyrhythmic patterns with electronic integration and Fibonacci-based compositions. Brann uses constant flowing fills with signature tom work.
 
 ## Influence & Legacy
 
@@ -47,7 +47,7 @@ Two artists who transcend drumming. Danny Carey is the philosopher-mathematician
 ## FAQ
 
 **Q: What are the main differences between Danny Carey's and Brann Dailor's drum kits?**
-A: Danny Carey plays Sonor SQ2 Heavy Beech with Paiste cymbals, while Brann Dailor uses Tama Starclassic Performer B/B with Meinl cymbals. Danny plays Sonor drums with Paiste cymbals and custom Mandala pads. Brann uses DW drums with Sabian cymbals.
+A: Danny Carey plays Sonor SQ2 Heavy Beech with Paiste cymbals, while Brann Dailor uses Tama Starclassic Performer B/B with Meinl cymbals. Danny plays Sonor drums with Paiste cymbals and custom Mandala pads. Brann uses Tama Starclassic Performer B/B drums with Meinl Mb20 & Mb8 Series cymbals.
 
 **Q: What drums does Danny Carey play vs Brann Dailor?**
 A: Danny Carey plays Sonor SQ2 Heavy Beech. Brann Dailor plays Tama Starclassic Performer B/B.
@@ -56,7 +56,7 @@ A: Danny Carey plays Sonor SQ2 Heavy Beech. Brann Dailor plays Tama Starclassic 
 A: Both are legends in their own right. Two artists who transcend drumming. See the full analysis at [metalforge.io/vs/danny-carey-vs-brann-dailor](https://metalforge.io/vs/danny-carey-vs-brann-dailor).
 
 **Q: What cymbals do Danny Carey and Brann Dailor use?**
-A: Danny Carey uses Paiste Signature Series (15" Sound Edge Hi-Hats, 18" & 19" Power Crashes, 22" Dry Heavy Ride, 20" & 22" Chinas, various Rude crashes). Brann Dailor uses Meinl Byzance Series (14" Dark Hi-Hats, 18" & 19" Brilliant Heavy Hammered Crashes, 21" Ghost Ride, 18" Extra Dry China).
+A: Danny Carey uses Paiste Signature Series (14" Sound Edge Hi-Hats, 18" & 20" Power Crashes, 22" Dry Heavy Ride "Monad", 2002 & Signature China cymbals). Brann Dailor uses Meinl Byzance Series (14" Dark Hi-Hats, 18" & 19" Brilliant Heavy Hammered Crashes, 21" Ghost Ride, 18" Extra Dry China).
 
 ---
 
@@ -67,4 +67,4 @@ A: Danny Carey uses Paiste Signature Series (15" Sound Edge Hi-Hats, 18" & 19" P
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

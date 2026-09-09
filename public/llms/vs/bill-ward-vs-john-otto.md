@@ -34,7 +34,7 @@ Ward's loose grip and behind-the-beat phrasing gave early Sabbath riffs a rollin
 
 ## Key Differences
 
-Ward played a Ludwig Classic Maple kit with a Ludwig Supraphonic 14x6.5" LM402 snare and Paiste 2002 & Giant Beat Series cymbals, including a massive 24" 2002 Ride, driven by a single pedal. Otto plays an Orange County Drum & Percussion (OCDP) Custom Type 5 Acrylic kit with dual signature OCDP snares and Zildjian A Custom cymbals, driven by Gibraltar G Class pedals. Ward's loose grip and behind-the-beat phrasing gave early Sabbath riffs a rolling, jazz-informed swing that no other rock drummer of the era was playing, relying entirely on single-pedal technique with no double bass at all. Otto studied jazz at the Douglas Anderson School of the Arts, using syncopated patterns and funky ghost notes over a single-pedal setup to give Limp Bizkit's grooves their distinctive pocket.
+Ward played a Ludwig Classic Maple kit with a Ludwig Supraphonic 14x6.5" LM402 snare and Zildjian Avedis Series cymbals, including a 20" ride, driven by a single pedal. Otto plays an Orange County Drum & Percussion (OCDP) Custom Type 5 Acrylic kit with dual signature OCDP snares and Zildjian A Custom cymbals, driven by Gibraltar G Class pedals. Ward's loose grip and behind-the-beat phrasing gave early Sabbath riffs a rolling, jazz-informed swing that no other rock drummer of the era was playing, relying entirely on single-pedal technique with no double bass at all. Otto studied jazz at the Douglas Anderson School of the Arts, using syncopated patterns and funky ghost notes over a single-pedal setup to give Limp Bizkit's grooves their distinctive pocket.
 
 ## Influence & Legacy
 
@@ -46,17 +46,17 @@ Bill Ward and John Otto both prove that jazz training, not raw speed, can define
 
 ## FAQ
 
-**Q: What are the main differences between Bill Ward's and John Otto's drum kits?**
-A: Bill Ward plays Ludwig Classic Maple with Paiste cymbals, while John Otto uses Orange County Drum & Percussion (OCDP) Custom Type 5 Acrylic with Zildjian cymbals. Ward played a Ludwig Classic Maple kit with a Ludwig Supraphonic 14x6.5" LM402 snare and Paiste 2002 & Giant Beat Series cymbals, including a massive 24" 2002 Ride, driven by a single pedal. Otto plays an Orange County Drum & Percussion (OCDP) Custom Type 5 Acrylic kit with dual signature OCDP snares and Zildjian A Custom cymbals, driven by Gibraltar G Class pedals.
+**Q: What is Bill Ward known for in Black Sabbath?**
+A: Bill Ward co-founded Black Sabbath in 1968 and is credited as one of the true originators of heavy metal drumming. His jazz-influenced, behind-the-beat swing on albums like "Black Sabbath" (1970) and "Paranoid" (1970) created the rhythmic template that heavy metal drumming was built on.
 
-**Q: What drums does Bill Ward play vs John Otto?**
-A: Bill Ward plays Ludwig Classic Maple. John Otto plays Orange County Drum & Percussion (OCDP) Custom Type 5 Acrylic.
+**Q: Does John Otto use a double bass pedal?**
+A: No — John Otto plays with a single-pedal setup, relying on jazz-schooled syncopation and funky ghost notes rather than double bass speed to give Limp Bizkit's grooves their distinctive hip-hop-infused pocket.
 
-**Q: Who is the better alternative / nu-metal drummer, Bill Ward or John Otto?**
-A: Both are legends in their own right. Bill Ward and John Otto both prove that jazz training, not raw speed, can define a genre's groove. See the full analysis at [metalforge.io/vs/bill-ward-vs-john-otto](https://metalforge.io/vs/bill-ward-vs-john-otto).
+**Q: What gear does Bill Ward use vs John Otto?**
+A: Bill Ward played a Ludwig Classic Maple kit with a Ludwig Supraphonic 14x6.5" LM402 snare and Zildjian Avedis Series cymbals. John Otto plays an OCDP Custom Type 5 Acrylic kit with dual signature OCDP snares and Zildjian A Custom cymbals, driven by Gibraltar G Class pedals.
 
-**Q: What cymbals do Bill Ward and John Otto use?**
-A: Bill Ward uses Paiste 2002 & Giant Beat Series (15" Giant Beat Hi-Hats, 18" & 20" 2002 Crashes, 24" 2002 Ride, 18" 2002 China). John Otto uses Zildjian (13" A Custom Mastersound Hi-Hats, 16" & 17" A Custom Projection Crashes, 20" A Custom EFX, 20" FX Oriental Crash of Doom).
+**Q: How long has John Otto been Limp Bizkit's drummer?**
+A: John Otto has been Limp Bizkit's drummer since the band's founding in 1994, making him a founding member and one of the group's longest-tenured lineup fixtures.
 
 ---
 
@@ -67,4 +67,4 @@ A: Bill Ward uses Paiste 2002 & Giant Beat Series (15" Giant Beat Hi-Hats, 18" &
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

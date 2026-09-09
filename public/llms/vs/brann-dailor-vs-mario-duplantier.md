@@ -34,7 +34,7 @@ Brann uses constant motion with signature flowing fills. Mario delivers raw powe
 
 ## Key Differences
 
-Brann plays DW drums with Sabian cymbals. Mario uses Tama drums with Meinl cymbals for dark tones. Brann uses constant motion with signature flowing fills. Mario delivers raw power with explosive accents.
+Brann plays Tama Starclassic Performer B/B drums with Meinl Mb20 & Mb8 Series cymbals. Mario uses Tama drums with Meinl cymbals for dark tones. Brann uses constant motion with signature flowing fills. Mario delivers raw power with explosive accents.
 
 ## Influence & Legacy
 
@@ -47,7 +47,7 @@ Brann Dailor and Mario Duplantier represent two paths of modern progressive meta
 ## FAQ
 
 **Q: What are the main differences between Brann Dailor's and Mario Duplantier's drum kits?**
-A: Brann Dailor plays Tama Starclassic Performer B/B with Meinl cymbals, while Mario Duplantier uses Tama Starclassic Bubinga (22"x18" Bass Drums x2, 12"x9" & 13"x10" Toms, 16"x16" Floor Tom) with Zildjian cymbals. Brann plays DW drums with Sabian cymbals. Mario uses Tama drums with Meinl cymbals for dark tones.
+A: Brann Dailor plays Tama Starclassic Performer B/B with Meinl cymbals, while Mario Duplantier uses Tama Starclassic Bubinga (22"x18" Bass Drums x2, 12"x9" & 13"x10" Toms, 16"x16" Floor Tom) with Zildjian cymbals. Brann plays Tama Starclassic Performer B/B drums with Meinl Mb20 & Mb8 Series cymbals. Mario uses Tama drums with Meinl cymbals for dark tones.
 
 **Q: What drums does Brann Dailor play vs Mario Duplantier?**
 A: Brann Dailor plays Tama Starclassic Performer B/B. Mario Duplantier plays Tama Starclassic Bubinga (22"x18" Bass Drums x2, 12"x9" & 13"x10" Toms, 16"x16" Floor Tom).
@@ -67,4 +67,4 @@ A: Brann Dailor uses Meinl Byzance Series (14" Dark Hi-Hats, 18" & 19" Brilliant
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

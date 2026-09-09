@@ -46,17 +46,17 @@ Jocke Wallgren and Charlie Benante embody two distinct heavy metal drumming trad
 
 ## FAQ
 
-**Q: What are the main differences between Jocke Wallgren's and Charlie Benante's drum kits?**
-A: Jocke Wallgren plays Pearl Reference Pure with Zildjian cymbals, while Charlie Benante uses Tama Starclassic with Paiste cymbals. Charlie Benante plays a Tama Starclassic kit with a Tama Charlie Benante Signature 14x6.5" snare and Paiste RUDE & 2002 Series cymbals (14" Hi-Hats, 18" & 19" Crashes, 20" Power Ride, 18" China), driven by a Tama Speed Cobra double pedal with Roland electronics and Vic Firth Charlie Benante Signature sticks. Jocke Wallgren plays a Pearl Reference Pure kit with a Pearl Reference 14x6.5" Brass snare and Zildjian A Custom & K Custom Series cymbals (14" A Custom Hi-Hats, 18" & 19" A Custom Crashes, 21" K Custom Ride), driven by a Pearl Demon Drive double pedal and Vic Firth American Classic 5B sticks.
+**Q: How does Jocke Wallgren compare to Charlie Benante?**
+A: They represent two different heavy metal drumming traditions. Charlie Benante is a founding thrash metal architect who helped popularize blast beats with Anthrax starting in 1983. Jocke Wallgren is a modern melodic death metal drummer who has anchored Amon Amarth's Viking metal groove since 2016. Benante's style is syncopated and aggressive; Wallgren's is anthemic and groove-driven.
 
-**Q: What drums does Jocke Wallgren play vs Charlie Benante?**
-A: Jocke Wallgren plays Pearl Reference Pure. Charlie Benante plays Tama Starclassic.
+**Q: What gear does Charlie Benante use vs Jocke Wallgren?**
+A: Charlie Benante plays a Tama Starclassic kit with a Tama Charlie Benante Signature snare and Paiste RUDE & 2002 Series cymbals. Jocke Wallgren plays a Pearl Reference Pure kit with a Pearl Reference Brass snare and Zildjian A Custom & K Custom Series cymbals.
 
-**Q: Who is the better alternative / nu-metal drummer, Jocke Wallgren or Charlie Benante?**
-A: Both are legends in their own right. Jocke Wallgren and Charlie Benante embody two distinct heavy metal drumming traditions rather than a direct rivalry. See the full analysis at [metalforge.io/vs/jocke-wallgren-vs-charlie-benante](https://metalforge.io/vs/jocke-wallgren-vs-charlie-benante).
+**Q: Did Amon Amarth's Jomsviking chart well on the Billboard 200?**
+A: Yes — "Jomsviking" (2016), Jocke Wallgren's first album as Amon Amarth's drummer, debuted at No. 19 on the Billboard 200, cracking the U.S. Top 20 and marking one of the band's strongest chart performances.
 
-**Q: What cymbals do Jocke Wallgren and Charlie Benante use?**
-A: Jocke Wallgren uses Zildjian A Custom & K Custom Series (14" A Custom Hi-Hats, 18" & 19" A Custom Crashes, 21" K Custom Ride). Charlie Benante uses Paiste RUDE & 2002 Series (14" Hi-Hats, 18" & 19" Crashes, 20" Power Ride, 18" China).
+**Q: What is Charlie Benante known for besides drumming?**
+A: Beyond his drum work on all 11 Anthrax studio albums, Charlie Benante is Anthrax's main composer, a graphic artist who designed many of the band's album covers and merchandise, and a guitarist who contributed lead guitar to S.O.D.'s "Speak English or Die." In 2022, he filled in on drums for the reunited Pantera.
 
 ---
 
@@ -67,4 +67,4 @@ A: Jocke Wallgren uses Zildjian A Custom & K Custom Series (14" A Custom Hi-Hats
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

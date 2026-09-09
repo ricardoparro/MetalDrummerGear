@@ -46,17 +46,14 @@ Martin Lopez and Gavin Harrison approach progressive drumming from opposite dire
 
 ## FAQ
 
-**Q: What are the main differences between Martin Lopez's and Gavin Harrison's drum kits?**
-A: Martin Lopez plays Noble & Cooley Walnut with Zildjian cymbals, while Gavin Harrison uses Sonor SQ2 Series with Zildjian cymbals. Lopez plays a Noble & Cooley Walnut kit with a Noble & Cooley Solid Shell 14x6" Maple snare, Zildjian K Dark Series cymbals, and an Axis Percussion double pedal. Harrison plays a Sonor SQ2 Series kit with his signature Sonor 12x5" & 14x5.25" snares, Zildjian K Custom Special Dry cymbals, and a Sonor Perfect Balance pedal.
+**Q: Who is more technical: Martin Lopez or Gavin Harrison?**
+A: Gavin Harrison is generally considered the more technically complex player, renowned for polyrhythmic layering and odd-time mastery. Martin Lopez prioritizes feel and musicality, though his jazz-influenced ghost-note work during Opeth's Blackwater Park era is equally respected.
 
-**Q: What drums does Martin Lopez play vs Gavin Harrison?**
-A: Martin Lopez plays Noble & Cooley Walnut. Gavin Harrison plays Sonor SQ2 Series.
+**Q: What kits do Martin Lopez and Gavin Harrison play?**
+A: Lopez plays a Noble & Cooley Walnut kit with Zildjian K Dark Series cymbals. Harrison plays a Sonor SQ2 Series kit with Zildjian K Custom Special Dry cymbals.
 
-**Q: Who is the better progressive metal drummer, Martin Lopez or Gavin Harrison?**
-A: Both are legends in their own right. Martin Lopez and Gavin Harrison approach progressive drumming from opposite directions. See the full analysis at [metalforge.io/vs/martin-lopez-vs-gavin-harrison](https://metalforge.io/vs/martin-lopez-vs-gavin-harrison).
-
-**Q: What cymbals do Martin Lopez and Gavin Harrison use?**
-A: Martin Lopez uses Zildjian K Dark Series (14" K Dark Thin Hi-Hats, 18" & 20" K Dark Medium Thin Crashes, 22" K Dark Light Ride, 18" K China). Gavin Harrison uses Zildjian K Custom Special Dry Series (14" Hi-Hats, 16" & 18" Crashes, 21" Special Dry Ride, 18" Trash China).
+**Q: Which drummer is more associated with jazz influence?**
+A: Both incorporate jazz into heavy contexts, but differently — Lopez brings jazz feel and dynamic restraint to progressive death metal with Opeth, while Harrison brings jazz-informed polyrhythmic precision to progressive rock with Porcupine Tree and King Crimson.
 
 ---
 
@@ -67,4 +64,4 @@ A: Martin Lopez uses Zildjian K Dark Series (14" K Dark Thin Hi-Hats, 18" & 20" 
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

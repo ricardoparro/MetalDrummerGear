@@ -46,17 +46,17 @@ Ben Koller and Brann Dailor both emerged from the late-1990s/2000s underground t
 
 ## FAQ
 
-**Q: What are the main differences between Ben Koller's and Brann Dailor's drum kits?**
-A: Ben Koller plays Tama Starclassic Maple with Zildjian cymbals, while Brann Dailor uses Tama Starclassic Performer B/B with Meinl cymbals. Ben Koller plays a Tama Starclassic Maple kit with a Tama S.L.P. 14x6" Brass snare and Zildjian K Dark Series cymbals (14" K Dark Thin Hi-Hats, 18" & 19" K Dark Medium Thin Crashes, 21" K Custom Ride, 18" K China), driven by a Tama Iron Cobra 900 double pedal and Vic Firth American Classic 5B sticks. Brann Dailor plays a Tama Starclassic Performer B/B kit with a Tama S.L.P. G-Maple snare and Meinl Byzance cymbals, driven by a Tama Speed Cobra double pedal and Vater 5B sticks — both drummers favor Tama shells, but Koller's Zildjian K Dark array is built for raw cut while Dailor's Meinl Byzance setup is chosen for warmth and melodic sustain.
+**Q: Who is more technically demanding — Ben Koller or Brann Dailor?**
+A: Both are considered among the most demanding drummers in modern heavy music, but in different ways. Ben Koller (Converge) is demanding because of his loose, explosive, unpredictable attack — he thrives on sudden tempo shifts and dynamic swings that make Converge's mathcore feel dangerous. Brann Dailor (Mastodon) is demanding because he weaves flowing, syncopated fills through complex song structures while simultaneously singing lead or co-lead vocals. Koller's difficulty is visceral; Dailor's is compositional and multitasking-heavy.
 
-**Q: What drums does Ben Koller play vs Brann Dailor?**
-A: Ben Koller plays Tama Starclassic Maple. Brann Dailor plays Tama Starclassic Performer B/B.
+**Q: What gear do Ben Koller and Brann Dailor use?**
+A: Ben Koller plays a Tama Starclassic Maple kit with a Tama S.L.P. 14x6" Brass snare and Zildjian K Dark Series cymbals, driven by a Tama Iron Cobra 900 double pedal. Brann Dailor plays a Tama Starclassic Performer B/B kit with a Tama S.L.P. G-Maple snare and Meinl Byzance cymbals, driven by a Tama Speed Cobra double pedal.
 
-**Q: Who is the better progressive metal drummer, Ben Koller or Brann Dailor?**
-A: Both are legends in their own right. Ben Koller and Brann Dailor both emerged from the late-1990s/2000s underground to become genre-defining voices, but their paths diverge sharply. See the full analysis at [metalforge.io/vs/ben-koller-vs-brann-dailor](https://metalforge.io/vs/ben-koller-vs-brann-dailor).
+**Q: What bands are Ben Koller and Brann Dailor known for?**
+A: Ben Koller has drummed for Converge since 1999, and also plays in Mutoid Man and Killer Be Killed. Brann Dailor co-founded Mastodon in 2000 and remains the band's drummer and co-vocalist.
 
-**Q: What cymbals do Ben Koller and Brann Dailor use?**
-A: Ben Koller uses Zildjian (14" K Dark Thin Hi-Hats, 18" & 19" K Dark Medium Thin Crashes, 21" K Custom Ride, 18" K China). Brann Dailor uses Meinl Byzance Series (14" Dark Hi-Hats, 18" & 19" Brilliant Heavy Hammered Crashes, 21" Ghost Ride, 18" Extra Dry China).
+**Q: Does Brann Dailor sing while drumming for Mastodon?**
+A: Yes — Brann Dailor serves as Mastodon's co-vocalist on many tracks, singing lead or co-lead vocals while simultaneously executing Mastodon's complex, flowing drum patterns, a rare combination among metal drummers. Ben Koller does not sing while drumming for Converge.
 
 ---
 
@@ -67,4 +67,4 @@ A: Ben Koller uses Zildjian (14" K Dark Thin Hi-Hats, 18" & 19" K Dark Medium Th
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

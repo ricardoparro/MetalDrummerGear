@@ -18,10 +18,10 @@ Meshuggah's Tomas Haake vs Dream Theater's Mike Portnoy. Djent polymetric groove
 
 ## Mike Portnoy Setup
 
-- **Drums:** Tama Starclassic Maple/Birch
-- **Cymbals:** Sabian HHX Series (14" Evolution Hi-Hats, 18" & 19" Evolution Crashes, 21" Raw Bell Dry Ride, 10" & 12" Evolution Splashes, 19" O-Zone Crash)
+- **Drums:** Tama Starclassic Maple + Starclassic Bubinga ("Dream Monster" dual kit)
+- **Cymbals:** Sabian HHX MAX / AAX MAXX Series (22" HHX MAX Ride, 18" AAX X-Plosion Crash, 19" HHX X-Plosion Crash, 18" AAX O-Zone Crash, 18" HHX Chinese, 19" Paragon Chinese, 7"/9"/11" AAX MAXX Splashes, 6"/6.5"/7" AA MAX Chimes)
 - **Snare:** Tama Mike Portnoy Signature Melody Master 14x5.5"
-- **Pedals/Hardware:** Tama Iron Cobra Power Glide Double Pedal, Tama 1st Chair Ergo-Rider Throne
+- **Pedals/Hardware:** Tama Iron Cobra Power Glide Twin Pedal (HP900PSW)
 - **Sticks:** Promark Mike Portnoy Signature TX420N
 
 ## Playing Style
@@ -46,17 +46,17 @@ Tomas Haake and Mike Portnoy represent two generations and philosophies of progr
 
 ## FAQ
 
-**Q: What are the main differences between Tomas Haake's and Mike Portnoy's drum kits?**
-A: Tomas Haake plays Sonor SQ2 Heavy Beech (24"x18" Bass, 10"x8", 12"x9", 13"x10", 16"x14", 18"x16" Toms) with Sabian cymbals, while Mike Portnoy uses Tama Starclassic Maple/Birch with Sabian cymbals. Haake plays a Sonor SQ2 Heavy Beech kit with a Sonor Tomas Haake Signature 14x6.5" snare and Sabian HHX & AAX Series cymbals, driven by dual Tama Speed Cobra single pedals. Portnoy plays a Tama Starclassic Maple/Birch kit with a Tama Mike Portnoy Signature Melody Master 14x5.5" snare and Sabian HHX Series cymbals, powered by a Tama Iron Cobra Power Glide double pedal.
+**Q: What is the difference between Tomas Haake's and Mike Portnoy's drumming styles?**
+A: Tomas Haake favors metronomic precision and an innovative polymetric approach that built the rhythmic template for djent with Meshuggah. Mike Portnoy favors virtuosic, theatrical technique with intricate double bass patterns and rapid-fire transitions within Dream Theater's progressive metal compositions.
 
-**Q: What drums does Tomas Haake play vs Mike Portnoy?**
-A: Tomas Haake plays Sonor SQ2 Heavy Beech (24"x18" Bass, 10"x8", 12"x9", 13"x10", 16"x14", 18"x16" Toms). Mike Portnoy plays Tama Starclassic Maple/Birch.
+**Q: What gear does Tomas Haake use vs Mike Portnoy?**
+A: Tomas Haake plays a Sonor SQ2 Heavy Beech kit with a Sonor Tomas Haake Signature 14x6.5" snare and Sabian HHX & AAX Series cymbals, driven by dual Tama Speed Cobra single pedals. Mike Portnoy plays a Tama Starclassic Maple/Birch kit with a Tama Mike Portnoy Signature Melody Master 14x5.5" snare and Sabian HHX Series cymbals.
 
-**Q: Who is the better progressive metal drummer, Tomas Haake or Mike Portnoy?**
-A: Both are legends in their own right. Tomas Haake and Mike Portnoy represent two generations and philosophies of progressive metal drumming. See the full analysis at [metalforge.io/vs/tomas-haake-vs-mike-portnoy](https://metalforge.io/vs/tomas-haake-vs-mike-portnoy).
+**Q: What is Tomas Haake known for pioneering?**
+A: Tomas Haake is known for pioneering the polyrhythmic, polymetric drumming style with Meshuggah that became hugely influential in the development of djent and modern progressive metal.
 
-**Q: What cymbals do Tomas Haake and Mike Portnoy use?**
-A: Tomas Haake uses Sabian HHX & AAX Series (14" HHX Compression Hi-Hats, 15" Artisan Hi-Hats, 19" & 20" & 21" HHX Stage Crashes, 22" Legacy Ride, 19" AAXtreme China). Mike Portnoy uses Sabian HHX Series (14" Evolution Hi-Hats, 18" & 19" Evolution Crashes, 21" Raw Bell Dry Ride, 10" & 12" Evolution Splashes, 19" O-Zone Crash).
+**Q: How long was Mike Portnoy in Dream Theater?**
+A: Mike Portnoy co-founded Dream Theater in 1985 and served as the band's drummer and lyricist for 25 years until 2010, before rejoining the band in 2023 for its reunion tour.
 
 ---
 
@@ -67,4 +67,4 @@ A: Tomas Haake uses Sabian HHX & AAX Series (14" HHX Compression Hi-Hats, 15" Ar
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

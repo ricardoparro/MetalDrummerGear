@@ -11,7 +11,7 @@ Tool's Danny Carey vs Porcupine Tree's Gavin Harrison. Math rock meets progressi
 ## Danny Carey Setup
 
 - **Drums:** Sonor SQ2 Heavy Beech
-- **Cymbals:** Paiste Signature Series (15" Sound Edge Hi-Hats, 18" & 19" Power Crashes, 22" Dry Heavy Ride, 20" & 22" Chinas, various Rude crashes)
+- **Cymbals:** Paiste Signature Series (14" Sound Edge Hi-Hats, 18" & 20" Power Crashes, 22" Dry Heavy Ride "Monad", 2002 & Signature China cymbals)
 - **Snare:** Sonor Danny Carey Signature 14x8" Bronze
 - **Pedals/Hardware:** Sonor Giant Step Twin Effect Double Pedal, Sonor Drummer Throne, Mandala Drum electronic pads
 - **Sticks:** Vic Firth Danny Carey Signature
@@ -56,7 +56,7 @@ A: Danny Carey plays Sonor SQ2 Heavy Beech. Gavin Harrison plays Sonor SQ2 Serie
 A: Both are legends in their own right. Danny Carey is the shaman-mathematician who turned Tool's albums into percussive spiritual experiences. See the full analysis at [metalforge.io/vs/danny-carey-vs-gavin-harrison](https://metalforge.io/vs/danny-carey-vs-gavin-harrison).
 
 **Q: What cymbals do Danny Carey and Gavin Harrison use?**
-A: Danny Carey uses Paiste Signature Series (15" Sound Edge Hi-Hats, 18" & 19" Power Crashes, 22" Dry Heavy Ride, 20" & 22" Chinas, various Rude crashes). Gavin Harrison uses Zildjian K Custom Special Dry Series (14" Hi-Hats, 16" & 18" Crashes, 21" Special Dry Ride, 18" Trash China).
+A: Danny Carey uses Paiste Signature Series (14" Sound Edge Hi-Hats, 18" & 20" Power Crashes, 22" Dry Heavy Ride "Monad", 2002 & Signature China cymbals). Gavin Harrison uses Zildjian K Custom Special Dry Series (14" Hi-Hats, 16" & 18" Crashes, 21" Special Dry Ride, 18" Trash China).
 
 ---
 
@@ -67,4 +67,4 @@ A: Danny Carey uses Paiste Signature Series (15" Sound Edge Hi-Hats, 18" & 19" P
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

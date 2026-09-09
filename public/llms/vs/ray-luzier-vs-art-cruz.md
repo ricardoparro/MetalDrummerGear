@@ -34,7 +34,7 @@ Luzier's strength is feel and adaptability — his jazz education at Musicians I
 
 ## Key Differences
 
-Ray Luzier plays a Pearl Masters Maple Complete kit with a Pearl Reference 14x6.5" Brass snare and Sabian AAX Series cymbals (14" Stage Hi-Hats, 18" & 19" X-Plosion Crashes, 21" Stage Ride, 18" AAXtreme China), driven by a Pearl Demon Drive double pedal and Promark Ray Luzier Signature TX420X sticks. Art Cruz plays Ludwig drums with a Ludwig 14x6.5" snare and Zildjian cymbals (A Custom and K series), driven by a Trick Pro 1-V Bigfoot double pedal and Vic Firth sticks with Evans heads. Luzier's strength is feel and adaptability — his jazz education at Musicians Institute in Los Angeles gives him a vocabulary that goes beyond most nu-metal drummers, letting him serve Korn's groove-heavy context while executing technically demanding passages at full intensity. Cruz combines powerful groove metal precision with the intensity he developed in deathcore and thrash (Winds of Plague, Prong), and had to learn and faithfully replicate Chris Adler's notoriously complex catalog live while adding his own relentless energy to Lamb of God's sound.
+Ray Luzier plays a Pearl Reference Maple kit with a Pearl Reference 14x6.5" Brass snare and Sabian AAX Series cymbals (14" Stage Hi-Hats, 18" & 19" X-Plosion Crashes, 21" Stage Ride, 18" AAXtreme China), driven by a DW 9000 Series Double Pedal and Vic Firth Ray Luzier Signature sticks. Art Cruz plays Ludwig drums with a Ludwig 14x6.5" snare and Zildjian cymbals (A Custom and K series), driven by a Trick Pro 1-V Bigfoot double pedal and Vic Firth sticks with Evans heads. Luzier's strength is feel and adaptability — his jazz education at Musicians Institute in Los Angeles gives him a vocabulary that goes beyond most nu-metal drummers, letting him serve Korn's groove-heavy context while executing technically demanding passages at full intensity. Cruz combines powerful groove metal precision with the intensity he developed in deathcore and thrash (Winds of Plague, Prong), and had to learn and faithfully replicate Chris Adler's notoriously complex catalog live while adding his own relentless energy to Lamb of God's sound.
 
 ## Influence & Legacy
 
@@ -46,17 +46,17 @@ Ray Luzier and Art Cruz represent two different stories in modern American heavy
 
 ## FAQ
 
-**Q: What are the main differences between Ray Luzier's and Art Cruz's drum kits?**
-A: Ray Luzier plays Pearl Reference Series with Sabian cymbals, while Art Cruz uses Ludwig Drums with Zildjian cymbals. Ray Luzier plays a Pearl Masters Maple Complete kit with a Pearl Reference 14x6.5" Brass snare and Sabian AAX Series cymbals (14" Stage Hi-Hats, 18" & 19" X-Plosion Crashes, 21" Stage Ride, 18" AAXtreme China), driven by a Pearl Demon Drive double pedal and Promark Ray Luzier Signature TX420X sticks. Art Cruz plays Ludwig drums with a Ludwig 14x6.5" snare and Zildjian cymbals (A Custom and K series), driven by a Trick Pro 1-V Bigfoot double pedal and Vic Firth sticks with Evans heads.
+**Q: How does Art Cruz compare to Chris Adler in Lamb of God?**
+A: Art Cruz replaced Chris Adler as Lamb of God's drummer in 2019, after filling in for him on tour in 2018. Adler had defined Lamb of God's groove metal drumming template from 2000 onward across records like "Ashes of the Wake" and "Sacrament." Cruz had to learn and replicate Adler's complex, precise parts live while adding his own energy, debuting on the band's 2020 self-titled album and continuing on "Omens" (2022).
 
-**Q: What drums does Ray Luzier play vs Art Cruz?**
-A: Ray Luzier plays Pearl Reference Series. Art Cruz plays Ludwig Drums.
+**Q: When did Ray Luzier join Korn?**
+A: Ray Luzier joined Korn in 2007 after working as a sought-after session and touring musician with artists including David Lee Roth and Army of Anyone. His first Korn studio album was "Korn III: Remember Who You Are" (2010).
 
-**Q: Who is the better alternative / nu-metal drummer, Ray Luzier or Art Cruz?**
-A: Both are legends in their own right. Ray Luzier and Art Cruz represent two different stories in modern American heavy metal drumming. See the full analysis at [metalforge.io/vs/ray-luzier-vs-art-cruz](https://metalforge.io/vs/ray-luzier-vs-art-cruz).
+**Q: When did Art Cruz join Lamb of God, and who did he replace?**
+A: Art Cruz officially became Lamb of God's drummer in 2019, replacing founding drummer Chris Adler. Cruz had previously filled in for Adler during Lamb of God's 2018 tour supporting Slayer's farewell run before being asked to join permanently.
 
-**Q: What cymbals do Ray Luzier and Art Cruz use?**
-A: Ray Luzier uses Sabian AAX Series (14" Stage Hi-Hats, 18" & 19" X-Plosion Crashes, 21" Stage Ride, 18" AAXtreme China). Art Cruz uses Zildjian (14" A Custom Mastersound Hi-Hats, 18" A Custom EFX, 18" A Custom Medium Crash, 19" A Custom Projection Crash, 20" A Custom Crash, 21" A Zildjian Mega Bell Ride, 19" A Ultra Hammered Chinas, 17" K China w/ EFX Holes, 9" FX Trash Splashes, FX Blast Bell).
+**Q: What gear do Ray Luzier and Art Cruz use?**
+A: Ray Luzier plays a Pearl Reference Maple kit with a Pearl Reference Brass snare and Sabian AAX Series cymbals. Art Cruz plays Ludwig drums with a Ludwig snare and Zildjian cymbals, driven by a Trick Pro 1-V Bigfoot double pedal.
 
 ---
 
@@ -67,4 +67,4 @@ A: Ray Luzier uses Sabian AAX Series (14" Stage Hi-Hats, 18" & 19" X-Plosion Cra
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

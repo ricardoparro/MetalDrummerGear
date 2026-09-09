@@ -34,7 +34,7 @@ Dailor's technique favors flowing, syncopated fills that weave in and out of Mas
 
 ## Key Differences
 
-Brann Dailor plays a Tama Starclassic Performer B/B kit with a Tama S.L.P. G-Maple snare and Meinl Byzance cymbals, driven by a Tama Speed Cobra double pedal and Vater 5B sticks. Hellhammer plays a Pearl Reference Series kit with a Pearl Reference snare and Zildjian A Custom cymbals (14" A Custom Hi-Hats, 17" & 19" A Custom Crashes, 20" Z Custom Dark Ride, 18" A China Boy), driven by a Pearl Demon Drive double pedal and Vic Firth American Classic 5B sticks — Dailor's Meinl Byzance array is chosen for warmth and melodic sustain, while Hellhammer's Zildjian A Custom setup is built for cutting, high-speed articulation. Dailor's technique favors flowing, syncopated fills that weave in and out of Mastodon's riffs, treating the kit as a singing voice rather than a metronome, and he executes complex, constantly moving patterns while simultaneously handling lead and co-lead vocal duties on many songs. Hellhammer's blast beats are built on cold, relentless one-foot precision, and he famously plays barefoot for the direct tactile feedback he says is essential to holding tempo accuracy at extreme speeds — a machine-like consistency that prioritizes icy atmosphere over melodic expression.
+Brann Dailor plays a Tama Starclassic Performer B/B kit with a Tama S.L.P. G-Maple snare and Meinl Byzance cymbals, driven by a Tama Speed Cobra double pedal and Vater 5B sticks. Hellhammer plays a Sonor SQ2 Heavy Beech kit with a Sonor SQ2 Heavy Beech snare and Paiste RUDE Series cymbals, driven by an Axis Double Pedal and Vic Firth American Classic 5B sticks — Dailor's Meinl Byzance array is chosen for warmth and melodic sustain, while Hellhammer's Paiste RUDE setup is built for cutting, high-speed articulation. Dailor's technique favors flowing, syncopated fills that weave in and out of Mastodon's riffs, treating the kit as a singing voice rather than a metronome, and he executes complex, constantly moving patterns while simultaneously handling lead and co-lead vocal duties on many songs. Hellhammer's blast beats are built on cold, relentless one-foot precision, and he famously plays barefoot for the direct tactile feedback he says is essential to holding tempo accuracy at extreme speeds — a machine-like consistency that prioritizes icy atmosphere over melodic expression.
 
 ## Influence & Legacy
 
@@ -46,17 +46,17 @@ Brann Dailor and Hellhammer represent two entirely different philosophies of ext
 
 ## FAQ
 
-**Q: What are the main differences between Brann Dailor's and Hellhammer's drum kits?**
-A: Brann Dailor plays Tama Starclassic Performer B/B with Meinl cymbals, while Hellhammer uses Sonor SQ2 Heavy Beech with Paiste cymbals. Brann Dailor plays a Tama Starclassic Performer B/B kit with a Tama S.L.P. G-Maple snare and Meinl Byzance cymbals, driven by a Tama Speed Cobra double pedal and Vater 5B sticks. Hellhammer plays a Pearl Reference Series kit with a Pearl Reference snare and Zildjian A Custom cymbals (14" A Custom Hi-Hats, 17" & 19" A Custom Crashes, 20" Z Custom Dark Ride, 18" A China Boy), driven by a Pearl Demon Drive double pedal and Vic Firth American Classic 5B sticks — Dailor's Meinl Byzance array is chosen for warmth and melodic sustain, while Hellhammer's Zildjian A Custom setup is built for cutting, high-speed articulation.
+**Q: What is the difference between Brann Dailor's and Hellhammer's drumming styles?**
+A: Brann Dailor drives Mastodon's progressive sludge with flowing, syncopated fills that treat the kit as a lead voice, while also handling co-lead vocal duties on many songs. Hellhammer built his reputation on cold, relentless blast beats delivered with one-foot precision, defining Mayhem's second-wave black metal sound.
 
-**Q: What drums does Brann Dailor play vs Hellhammer?**
-A: Brann Dailor plays Tama Starclassic Performer B/B. Hellhammer plays Sonor SQ2 Heavy Beech.
+**Q: What gear do Brann Dailor and Hellhammer use?**
+A: Brann Dailor plays a Tama Starclassic Performer B/B kit with a Tama S.L.P. G-Maple snare, Meinl Byzance cymbals, and a Tama Speed Cobra double pedal. Hellhammer plays a Sonor SQ2 Heavy Beech kit with a Sonor SQ2 Heavy Beech snare, Paiste RUDE Series cymbals, and an Axis Double Pedal.
 
-**Q: Who is the better extreme / death / black metal drummer, Brann Dailor or Hellhammer?**
-A: Both are legends in their own right. Brann Dailor and Hellhammer represent two entirely different philosophies of extreme-leaning metal drumming. See the full analysis at [metalforge.io/vs/brann-dailor-vs-hellhammer](https://metalforge.io/vs/brann-dailor-vs-hellhammer).
+**Q: Does Brann Dailor sing while drumming for Mastodon?**
+A: Yes — Brann Dailor serves as Mastodon's co-vocalist on many tracks, singing lead or co-lead vocals while simultaneously executing Mastodon's complex, flowing drum patterns, a rare combination among metal drummers. Hellhammer does not sing while drumming for Mayhem.
 
-**Q: What cymbals do Brann Dailor and Hellhammer use?**
-A: Brann Dailor uses Meinl Byzance Series (14" Dark Hi-Hats, 18" & 19" Brilliant Heavy Hammered Crashes, 21" Ghost Ride, 18" Extra Dry China). Hellhammer uses Paiste (14" RUDE Hi-Hats, 18" & 19" RUDE Crashes, 20" RUDE Ride, 18" RUDE China).
+**Q: How long has Hellhammer been Mayhem's drummer?**
+A: Hellhammer joined Mayhem in 1988 as a teenager, replacing founding drummer Manheim, and has remained the band's drummer for over three decades, appearing on every Mayhem studio album including the genre-defining "De Mysteriis Dom Sathanas" (1994).
 
 ---
 
@@ -67,4 +67,4 @@ A: Brann Dailor uses Meinl Byzance Series (14" Dark Hi-Hats, 18" & 19" Brilliant
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

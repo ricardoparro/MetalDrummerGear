@@ -34,7 +34,7 @@ Hellhammer pioneered black metal blast beats with signature one-foot technique. 
 
 ## Key Differences
 
-Hellhammer plays Pearl drums with focus on power. Inferno uses Pearl with emphasis on speed and projection. Hellhammer pioneered black metal blast beats with signature one-foot technique. Inferno combines blast beats with death metal complexity.
+Hellhammer plays Sonor drums with focus on power. Inferno uses Pearl with emphasis on speed and projection. Hellhammer pioneered black metal blast beats with signature one-foot technique. Inferno combines blast beats with death metal complexity.
 
 ## Influence & Legacy
 
@@ -47,7 +47,7 @@ Hellhammer is the blueprint for black metal drumming. Inferno evolved it with de
 ## FAQ
 
 **Q: What are the main differences between Hellhammer's and Inferno's drum kits?**
-A: Hellhammer plays Sonor SQ2 Heavy Beech with Paiste cymbals, while Inferno uses Pearl Masterworks with Paiste cymbals. Hellhammer plays Pearl drums with focus on power. Inferno uses Pearl with emphasis on speed and projection.
+A: Hellhammer plays Sonor SQ2 Heavy Beech with Paiste cymbals, while Inferno uses Pearl Masterworks with Paiste cymbals. Hellhammer plays Sonor drums with focus on power. Inferno uses Pearl with emphasis on speed and projection.
 
 **Q: What drums does Hellhammer play vs Inferno?**
 A: Hellhammer plays Sonor SQ2 Heavy Beech. Inferno plays Pearl Masterworks.
@@ -67,4 +67,4 @@ A: Hellhammer uses Paiste (14" RUDE Hi-Hats, 18" & 19" RUDE Crashes, 20" RUDE Ri
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

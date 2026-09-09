@@ -11,7 +11,7 @@ Megadeth's Dirk Verbeuren vs Lamb of God's Chris Adler. Modern thrash drumming p
 ## Dirk Verbeuren Setup
 
 - **Drums:** Tama Starclassic Walnut/Birch
-- **Cymbals:** Zildjian A Custom & K Custom Series (14" A Custom Hi-Hats, 17", 18", 19" A Custom Crashes, 21" K Custom Hybrid Ride, 18" K China)
+- **Cymbals:** Meinl Byzance Brilliant & Classics Custom Dark Series (14" Byzance Brilliant Hi-Hat, 18"-21" Classics Custom Dark Crashes, 22" Byzance Brilliant Ride, 18" Byzance Brilliant China)
 - **Snare:** Tama S.L.P. Big Black Steel 14x6.5"
 - **Pedals/Hardware:** Tama Speed Cobra 910 Double Pedal, Tama Iron Cobra Hi-Hat Stand
 - **Sticks:** Tama O-DVM2 Dirk Verbeuren Signature
@@ -34,7 +34,7 @@ Dirk is known for extreme double bass speed, technical fills, and seamless trans
 
 ## Key Differences
 
-Dirk endorses Tama Starclassic Walnut/Birch drums with Zildjian A Custom and K Custom cymbals for versatile attack. Chris played DW drums with Meinl Byzance cymbals for a dark, aggressive tone. Dirk is known for extreme double bass speed, technical fills, and seamless transitions between blast beats and groove. Chris pioneered precise triplet-based groove drumming with signature kick patterns and explosive snare accents.
+Dirk endorses Tama Starclassic Walnut/Birch drums with Meinl Byzance Brilliant & Classics Custom Dark cymbals for versatile attack. Chris played Mapex Black Panther Design Lab drums with Meinl Byzance cymbals for a dark, aggressive tone. Dirk is known for extreme double bass speed, technical fills, and seamless transitions between blast beats and groove. Chris pioneered precise triplet-based groove drumming with signature kick patterns and explosive snare accents.
 
 ## Influence & Legacy
 
@@ -47,7 +47,7 @@ Dirk Verbeuren is the technical perfectionist who elevated Megadeth's modern sou
 ## FAQ
 
 **Q: What are the main differences between Dirk Verbeuren's and Chris Adler's drum kits?**
-A: Dirk Verbeuren plays Tama Starclassic Walnut/Birch with Zildjian cymbals, while Chris Adler uses Mapex Black Panther Design Lab with Meinl cymbals. Dirk endorses Tama Starclassic Walnut/Birch drums with Zildjian A Custom and K Custom cymbals for versatile attack. Chris played DW drums with Meinl Byzance cymbals for a dark, aggressive tone.
+A: Dirk Verbeuren plays Tama Starclassic Walnut/Birch with Meinl cymbals, while Chris Adler uses Mapex Black Panther Design Lab with Meinl cymbals. Dirk endorses Tama Starclassic Walnut/Birch drums with Meinl Byzance Brilliant & Classics Custom Dark cymbals for versatile attack. Chris played Mapex Black Panther Design Lab drums with Meinl Byzance cymbals for a dark, aggressive tone.
 
 **Q: What drums does Dirk Verbeuren play vs Chris Adler?**
 A: Dirk Verbeuren plays Tama Starclassic Walnut/Birch. Chris Adler plays Mapex Black Panther Design Lab.
@@ -56,7 +56,7 @@ A: Dirk Verbeuren plays Tama Starclassic Walnut/Birch. Chris Adler plays Mapex B
 A: Both are legends in their own right. Dirk Verbeuren is the technical perfectionist who elevated Megadeth's modern sound to new extremes. See the full analysis at [metalforge.io/vs/dirk-verbeuren-vs-chris-adler](https://metalforge.io/vs/dirk-verbeuren-vs-chris-adler).
 
 **Q: What cymbals do Dirk Verbeuren and Chris Adler use?**
-A: Dirk Verbeuren uses Zildjian A Custom & K Custom Series (14" A Custom Hi-Hats, 17", 18", 19" A Custom Crashes, 21" K Custom Hybrid Ride, 18" K China). Chris Adler uses Meinl Byzance Series (14" Dark Hi-Hats, 18" & 19" Dark Crashes, 21" Transition Ride, 18" Extra Dry China).
+A: Dirk Verbeuren uses Meinl Byzance Brilliant & Classics Custom Dark Series (14" Byzance Brilliant Hi-Hat, 18"-21" Classics Custom Dark Crashes, 22" Byzance Brilliant Ride, 18" Byzance Brilliant China). Chris Adler uses Meinl Byzance Series (14" Dark Hi-Hats, 18" & 19" Dark Crashes, 21" Transition Ride, 18" Extra Dry China).
 
 ---
 
@@ -67,4 +67,4 @@ A: Dirk Verbeuren uses Zildjian A Custom & K Custom Series (14" A Custom Hi-Hats
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

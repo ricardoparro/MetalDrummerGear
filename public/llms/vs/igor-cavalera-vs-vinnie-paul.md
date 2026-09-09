@@ -18,11 +18,11 @@ Sepultura's Igor Cavalera vs Pantera's Vinnie Paul. Thrash-vs-thrash: Brazilian 
 
 ## Vinnie Paul Setup
 
-- **Drums:** ddrum Vinnie Paul Signature Series
-- **Cymbals:** Sabian AA & AAX Series (14" Hi-Hats, 18" & 19" Crashes, 21" Ride, 18" China)
-- **Snare:** ddrum Vinnie Paul Signature 14x8"
-- **Pedals/Hardware:** ddrum Double Pedal, ddrum Throne
-- **Sticks:** Vic Firth American Classic 5B
+- **Drums:** ddrum (brand confirmed; specific kit series unverified)
+- **Cymbals:** Sabian (brand per secondary sources; specific models unverified)
+- **Snare:** ddrum Vinnie Paul Signature 14x8" (8-ply maple, 10 lugs, die-cast hoops)
+- **Pedals/Hardware:** ddrum hardware (brand confirmed via 2009 interview; specific pedal/throne models unverified)
+- **Sticks:** Vic Firth (specific in-career model unverified)
 
 ## Playing Style
 
@@ -47,16 +47,16 @@ Igor Cavalera and Vinnie Paul are two of thrash and groove metal's most defining
 ## FAQ
 
 **Q: What are the main differences between Igor Cavalera's and Vinnie Paul's drum kits?**
-A: Igor Cavalera plays Tama Starclassic Maple with Paiste cymbals, while Vinnie Paul uses ddrum Vinnie Paul Signature Series with Sabian cymbals. Igor played Tama Starclassic Maple with Paiste RUDE & 2002 cymbals. Vinnie endorsed ddrum Signature Series with Sabian AA & AAX cymbals.
+A: Igor Cavalera plays Tama Starclassic Maple with Paiste cymbals, while Vinnie Paul uses ddrum (brand confirmed; specific kit series unverified) with Sabian cymbals. Igor played Tama Starclassic Maple with Paiste RUDE & 2002 cymbals. Vinnie endorsed ddrum Signature Series with Sabian AA & AAX cymbals.
 
 **Q: What drums does Igor Cavalera play vs Vinnie Paul?**
-A: Igor Cavalera plays Tama Starclassic Maple. Vinnie Paul plays ddrum Vinnie Paul Signature Series.
+A: Igor Cavalera plays Tama Starclassic Maple. Vinnie Paul plays ddrum (brand confirmed; specific kit series unverified).
 
 **Q: Who is the better thrash metal drummer, Igor Cavalera or Vinnie Paul?**
 A: Both are legends in their own right. Igor Cavalera and Vinnie Paul are two of thrash and groove metal's most defining forces. See the full analysis at [metalforge.io/vs/igor-cavalera-vs-vinnie-paul](https://metalforge.io/vs/igor-cavalera-vs-vinnie-paul).
 
 **Q: What cymbals do Igor Cavalera and Vinnie Paul use?**
-A: Igor Cavalera uses Paiste RUDE & 2002 Series (14" RUDE Hi-Hats, 18" & 19" RUDE Crashes, 22" RUDE Power Ride, 18" 2002 China). Vinnie Paul uses Sabian AA & AAX Series (14" Hi-Hats, 18" & 19" Crashes, 21" Ride, 18" China).
+A: Igor Cavalera uses Paiste RUDE & 2002 Series (14" RUDE Hi-Hats, 18" & 19" RUDE Crashes, 22" RUDE Power Ride, 18" 2002 China). Vinnie Paul uses Sabian (brand per secondary sources; specific models unverified).
 
 ---
 
@@ -67,4 +67,4 @@ A: Igor Cavalera uses Paiste RUDE & 2002 Series (14" RUDE Hi-Hats, 18" & 19" RUD
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

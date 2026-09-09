@@ -34,7 +34,7 @@ Chris mastered precision groove drumming with signature triplet patterns. Joey c
 
 ## Key Differences
 
-Chris played DW drums with Meinl cymbals for dark attack. Joey endorsed Pearl drums with Paiste cymbals for aggressive tone. Chris mastered precision groove drumming with signature triplet patterns. Joey combined death metal speed with theatrical showmanship.
+Chris played Mapex drums with Meinl cymbals for dark attack. Joey endorsed Pearl drums with Paiste cymbals for aggressive tone. Chris mastered precision groove drumming with signature triplet patterns. Joey combined death metal speed with theatrical showmanship.
 
 ## Influence & Legacy
 
@@ -47,7 +47,7 @@ Two drummers who defined 2000s heavy metal. Chris Adler brought technical precis
 ## FAQ
 
 **Q: What are the main differences between Chris Adler's and Joey Jordison's drum kits?**
-A: Chris Adler plays Mapex Black Panther Design Lab with Meinl cymbals, while Joey Jordison uses Pearl Reference Series with Paiste cymbals. Chris played DW drums with Meinl cymbals for dark attack. Joey endorsed Pearl drums with Paiste cymbals for aggressive tone.
+A: Chris Adler plays Mapex Black Panther Design Lab with Meinl cymbals, while Joey Jordison uses Pearl Reference Series with Paiste cymbals. Chris played Mapex drums with Meinl cymbals for dark attack. Joey endorsed Pearl drums with Paiste cymbals for aggressive tone.
 
 **Q: What drums does Chris Adler play vs Joey Jordison?**
 A: Chris Adler plays Mapex Black Panther Design Lab. Joey Jordison plays Pearl Reference Series.
@@ -67,4 +67,4 @@ A: Chris Adler uses Meinl Byzance Series (14" Dark Hi-Hats, 18" & 19" Dark Crash
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

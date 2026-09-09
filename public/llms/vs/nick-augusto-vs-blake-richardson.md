@@ -46,17 +46,17 @@ Nick Augusto and Blake Richardson represent two different technical demands with
 
 ## FAQ
 
-**Q: What are the main differences between Nick Augusto's and Blake Richardson's drum kits?**
-A: Nick Augusto plays Pearl Reference Pure with Sabian cymbals, while Blake Richardson uses Tama Starclassic Bubinga (Custom Finish) with Sabian cymbals. Nick Augusto played a Pearl Reference Pure kit with a Pearl Reference 14x6.5" brass snare and Sabian AAX Series cymbals (14" Stage Hi-Hats, 18" & 19" X-Plosion Crashes, 21" Stage Ride, 18" AAXtreme China), powered by a Pearl Demon Drive double pedal and Vic Firth American Classic 5B sticks. Blake Richardson plays a Tama Starclassic Bubinga kit with a Tama STARPHONIC 14x6" brass snare and Sabian cymbals (14" HHX Evolution Hi-Hats, 18" HHX Evolution Crash, 17" & 21" AAX Holy Chinas, 21" HH Raw Bell Dry Ride, 10" HH Duo Splash, 9" Radia Cup Chime), driven by twin Tama Iron Cobra Power Glide single pedals and Vic Firth American Classic 3A sticks.
+**Q: How do Nick Augusto and Blake Richardson compare as drummers?**
+A: Nick Augusto (Trivium, 2009-2014) plays powerful, speed-driven metalcore drumming built for aggressive thrash-influenced songwriting. Blake Richardson (Between the Buried and Me, since 2005) fuses death metal precision with jazz influences, building complex blast beats and constantly shifting odd time signatures. Augusto prioritizes speed and power; Richardson prioritizes technical and compositional complexity.
 
-**Q: What drums does Nick Augusto play vs Blake Richardson?**
-A: Nick Augusto plays Pearl Reference Pure. Blake Richardson plays Tama Starclassic Bubinga (Custom Finish).
+**Q: What gear do Nick Augusto and Blake Richardson use?**
+A: Nick Augusto played a Pearl Reference Pure kit with a Pearl Reference brass snare and Sabian AAX Series cymbals, powered by a Pearl Demon Drive double pedal. Blake Richardson plays a Tama Starclassic Bubinga kit with a Tama STARPHONIC brass snare and Sabian cymbals, driven by twin Tama Iron Cobra Power Glide single pedals.
 
-**Q: Who is the better progressive metal drummer, Nick Augusto or Blake Richardson?**
-A: Both are legends in their own right. Nick Augusto and Blake Richardson represent two different technical demands within modern heavy music. See the full analysis at [metalforge.io/vs/nick-augusto-vs-blake-richardson](https://metalforge.io/vs/nick-augusto-vs-blake-richardson).
+**Q: What bands are Nick Augusto and Blake Richardson known for?**
+A: Nick Augusto drummed for Trivium from 2009 to 2014, recording "In Waves" (2011) and "Vengeance Falls" (2013). Blake Richardson has drummed for Between the Buried and Me since 2005, also playing in Glass Casket.
 
-**Q: What cymbals do Nick Augusto and Blake Richardson use?**
-A: Nick Augusto uses Sabian AAX Series (14" Stage Hi-Hats, 18" & 19" X-Plosion Crashes, 21" Stage Ride, 18" AAXtreme China). Blake Richardson uses Sabian (14" HHX Evolution Hi-Hats, 18" HHX Evolution Crash, 17" & 21" AAX Holy Chinas, 21" HH Raw Bell Dry Ride, 10" HH Duo Splash, 9" Radia Cup Chime).
+**Q: Who influenced Blake Richardson's drumming style?**
+A: Blake Richardson has cited Terry Bozzio, Dennis Chambers, and Meshuggah's Tomas Haake as influences, drawing on their jazz-informed technicality and polyrhythmic vocabulary to build Between the Buried and Me's genre-blending progressive death metal sound.
 
 ---
 
@@ -67,4 +67,4 @@ A: Nick Augusto uses Sabian AAX Series (14" Stage Hi-Hats, 18" & 19" X-Plosion C
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

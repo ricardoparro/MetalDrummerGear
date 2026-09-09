@@ -1,6 +1,6 @@
 # Mike Mangini vs Matt Garstka — Drum Kit Comparison
 
-> Side-by-side gear comparison between Mike Mangini (Dream Theater) and Matt Garstka (Animals as Leaders).
+> Side-by-side gear comparison between Mike Mangini (Godsmack (2026-present); Dream Theater (2010-2023)) and Matt Garstka (Animals as Leaders).
 
 **Category:** Progressive Metal · **URL:** https://metalforge.io/vs/mike-mangini-vs-matt-garstka
 
@@ -18,9 +18,9 @@ Dream Theater's Mike Mangini vs Animals as Leaders' Matt Garstka — the two mos
 
 ## Matt Garstka Setup
 
-- **Drums:** Tama Starclassic Walnut/Birch
+- **Drums:** DW Collector's Series
 - **Cymbals:** Meinl Byzance Series (15" Dual Hi-Hats, 18" & 20" Extra Dry Medium Crashes, 22" Dual Ride)
-- **Snare:** Tama S.L.P. 14x6" G-Maple
+- **Snare:** DW Collector's Series Purpleheart
 - **Pedals/Hardware:** Tama Speed Cobra 910 Double Pedal
 - **Sticks:** Vic Firth Matt Garstka Signature
 
@@ -34,7 +34,7 @@ Mangini specializes in speed records and complex metric modulation within a band
 
 ## Key Differences
 
-Mangini plays Pearl Masters MCX drums with Zildjian cymbal series — a powerful, projection-focused setup suited to Dream Theater's arena-scale progressive metal. Garstka plays Pearl Reference drums with Sabian cymbals and electronic pads, a combination that balances acoustic power with the electronic integration Animals as Leaders' modern sound requires. Mangini specializes in speed records and complex metric modulation within a band context, developing proprietary techniques for speed development that he teaches through his Speed and Dexterity instructional series. Garstka focuses on extended hand technique, ghost-note density, and creative integration of electronics and effects within Animals as Leaders' intricate compositional framework.
+Mangini plays Pearl Masters MCX drums with Sabian HHX / AAX cymbals — a powerful, projection-focused setup suited to Dream Theater's arena-scale progressive metal. Garstka plays DW Collector's Series drums with Meinl Byzance cymbals and electronic pads, a combination that balances acoustic power with the electronic integration Animals as Leaders' modern sound requires. Mangini specializes in speed records and complex metric modulation within a band context, developing proprietary techniques for speed development that he teaches through his Speed and Dexterity instructional series. Garstka focuses on extended hand technique, ghost-note density, and creative integration of electronics and effects within Animals as Leaders' intricate compositional framework.
 
 ## Influence & Legacy
 
@@ -46,17 +46,14 @@ Mike Mangini and Matt Garstka define two different expressions of modern progres
 
 ## FAQ
 
-**Q: What are the main differences between Mike Mangini's and Matt Garstka's drum kits?**
-A: Mike Mangini plays Pearl Reference Series with Sabian cymbals, while Matt Garstka uses Tama Starclassic Walnut/Birch with Meinl cymbals. Mangini plays Pearl Masters MCX drums with Zildjian cymbal series — a powerful, projection-focused setup suited to Dream Theater's arena-scale progressive metal. Garstka plays Pearl Reference drums with Sabian cymbals and electronic pads, a combination that balances acoustic power with the electronic integration Animals as Leaders' modern sound requires.
+**Q: What is the difference between Mike Mangini and Matt Garstka's styles?**
+A: Mangini specializes in speed records and complex metric modulation within a band context; Garstka focuses on extended technique and ghost-note density in a groove-centric framework.
 
-**Q: What drums does Mike Mangini play vs Matt Garstka?**
-A: Mike Mangini plays Pearl Reference Series. Matt Garstka plays Tama Starclassic Walnut/Birch.
+**Q: What drum kits do Mangini and Garstka use?**
+A: Mangini uses a Pearl Masters MCX kit with Sabian HHX / AAX cymbals; Garstka plays a DW Collector's Series kit with Meinl Byzance cymbals and electronic pads.
 
-**Q: Who is the better progressive metal drummer, Mike Mangini or Matt Garstka?**
-A: Both are legends in their own right. Mike Mangini and Matt Garstka define two different expressions of modern progressive metal drumming excellence. See the full analysis at [metalforge.io/vs/mike-mangini-vs-matt-garstka](https://metalforge.io/vs/mike-mangini-vs-matt-garstka).
-
-**Q: What cymbals do Mike Mangini and Matt Garstka use?**
-A: Mike Mangini uses Sabian HHX & AAX Series (14" HHX Evolution Hi-Hats, 17", 18", 19" HHX Evolution Crashes, 21" HHX Raw Bell Dry Ride). Matt Garstka uses Meinl Byzance Series (15" Dual Hi-Hats, 18" & 20" Extra Dry Medium Crashes, 22" Dual Ride).
+**Q: Who has won more speed drumming records?**
+A: Mike Mangini holds several Guinness World Records for drumming speed; Garstka's records are in the creative application of technique rather than raw speed.
 
 ---
 
@@ -67,4 +64,4 @@ A: Mike Mangini uses Sabian HHX & AAX Series (14" HHX Evolution Hi-Hats, 17", 18
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

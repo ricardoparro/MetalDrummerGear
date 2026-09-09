@@ -46,17 +46,17 @@ Ben Koller and Flo Mounier represent two benchmarks of technical extreme drummin
 
 ## FAQ
 
-**Q: What are the main differences between Ben Koller's and Flo Mounier's drum kits?**
-A: Ben Koller plays Tama Starclassic Maple with Zildjian cymbals, while Flo Mounier uses Pearl Masters Maple Complete with Sabian cymbals. Ben Koller plays a Tama Starclassic Maple kit with a Tama S.L.P. 14x6" Brass snare and Zildjian K Dark Series cymbals (14" K Dark Thin Hi-Hats, 18" & 19" K Dark Medium Thin Crashes, 21" K Custom Ride, 18" K China), driven by a Tama Iron Cobra 900 double pedal and Vic Firth American Classic 5B sticks. Flo Mounier plays a Pearl Masters Maple Complete kit with a Pearl Masters 14x5.5" Maple snare and Sabian AAX & HHX Series cymbals (14" HHX Stage Hi-Hats, 17" & 18" AAX X-Plosion Crashes, 21" HHX Raw Bell Dry Ride, 18" AAXtreme China), powered by a Pearl Demon Drive double pedal and Vic Firth American Classic 5A sticks.
+**Q: Who is more technically demanding — Ben Koller or Flo Mounier?**
+A: Both are considered among the most demanding drummers in extreme music, but in different ways. Ben Koller (Converge) is demanding because of his loose, explosive, unpredictable attack that thrives on sudden tempo shifts. Flo Mounier (Cryptopsy) is demanding because of the gravity blast — a technique he helped pioneer to push blast beat speed and complexity beyond traditional limits. Koller's difficulty is visceral; Mounier's is a measurable speed and precision benchmark.
 
-**Q: What drums does Ben Koller play vs Flo Mounier?**
-A: Ben Koller plays Tama Starclassic Maple. Flo Mounier plays Pearl Masters Maple Complete.
+**Q: What gear do Ben Koller and Flo Mounier use?**
+A: Ben Koller plays a Tama Starclassic Maple kit with a Tama S.L.P. 14x6" Brass snare and Zildjian K Dark Series cymbals, driven by a Tama Iron Cobra 900 double pedal. Flo Mounier plays a Pearl Masters Maple Complete kit with a Pearl Masters 14x5.5" Maple snare and Sabian AAX & HHX Series cymbals, powered by a Pearl Demon Drive double pedal.
 
-**Q: Who is the better extreme / death / black metal drummer, Ben Koller or Flo Mounier?**
-A: Both are legends in their own right. Ben Koller and Flo Mounier represent two benchmarks of technical extreme drumming built on opposite philosophies. See the full analysis at [metalforge.io/vs/ben-koller-vs-flo-mounier](https://metalforge.io/vs/ben-koller-vs-flo-mounier).
+**Q: What bands are Ben Koller and Flo Mounier known for?**
+A: Ben Koller has drummed for Converge since 1999, and also plays in Mutoid Man and Killer Be Killed. Flo Mounier has been Cryptopsy's only constant member since 1992.
 
-**Q: What cymbals do Ben Koller and Flo Mounier use?**
-A: Ben Koller uses Zildjian (14" K Dark Thin Hi-Hats, 18" & 19" K Dark Medium Thin Crashes, 21" K Custom Ride, 18" K China). Flo Mounier uses Sabian AAX & HHX Series (14" HHX Stage Hi-Hats, 17" & 18" AAX X-Plosion Crashes, 21" HHX Raw Bell Dry Ride, 18" AAXtreme China).
+**Q: What is the gravity blast and who invented it?**
+A: The gravity blast is a blast beat technique that uses the rebound of a partially propped stick against the rim to generate extra speed on the snare or hi-hat side of the pattern. Flo Mounier is widely credited as one of its pioneers, using it to set benchmark blast beat tempos on Cryptopsy's "None So Vile" (1996).
 
 ---
 
@@ -67,4 +67,4 @@ A: Ben Koller uses Zildjian (14" K Dark Thin Hi-Hats, 18" & 19" K Dark Medium Th
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

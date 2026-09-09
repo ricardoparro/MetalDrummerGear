@@ -10,11 +10,11 @@ Pantera's Vinnie Paul vs Lamb of God's Art Cruz. Groove metal drumming legacy co
 
 ## Vinnie Paul Setup
 
-- **Drums:** ddrum Vinnie Paul Signature Series
-- **Cymbals:** Sabian AA & AAX Series (14" Hi-Hats, 18" & 19" Crashes, 21" Ride, 18" China)
-- **Snare:** ddrum Vinnie Paul Signature 14x8"
-- **Pedals/Hardware:** ddrum Double Pedal, ddrum Throne
-- **Sticks:** Vic Firth American Classic 5B
+- **Drums:** ddrum (brand confirmed; specific kit series unverified)
+- **Cymbals:** Sabian (brand per secondary sources; specific models unverified)
+- **Snare:** ddrum Vinnie Paul Signature 14x8" (8-ply maple, 10 lugs, die-cast hoops)
+- **Pedals/Hardware:** ddrum hardware (brand confirmed via 2009 interview; specific pedal/throne models unverified)
+- **Sticks:** Vic Firth (specific in-career model unverified)
 
 ## Art Cruz Setup
 
@@ -34,7 +34,7 @@ Vinnie pioneered the "power groove" with massive snare hits. Art combines groove
 
 ## Key Differences
 
-Vinnie endorsed ddrum with Sabian cymbals. Art plays Pearl drums for modern attack. Vinnie pioneered the "power groove" with massive snare hits. Art combines groove with technical death metal precision.
+Vinnie endorsed ddrum with Sabian cymbals. Art plays Ludwig drums for modern attack. Vinnie pioneered the "power groove" with massive snare hits. Art combines groove with technical death metal precision.
 
 ## Influence & Legacy
 
@@ -47,16 +47,16 @@ Vinnie Paul is the godfather of groove metal drumming. Art Cruz proves the genre
 ## FAQ
 
 **Q: What are the main differences between Vinnie Paul's and Art Cruz's drum kits?**
-A: Vinnie Paul plays ddrum Vinnie Paul Signature Series with Sabian cymbals, while Art Cruz uses Ludwig Drums with Zildjian cymbals. Vinnie endorsed ddrum with Sabian cymbals. Art plays Pearl drums for modern attack.
+A: Vinnie Paul plays ddrum (brand confirmed; specific kit series unverified) with Sabian cymbals, while Art Cruz uses Ludwig Drums with Zildjian cymbals. Vinnie endorsed ddrum with Sabian cymbals. Art plays Ludwig drums for modern attack.
 
 **Q: What drums does Vinnie Paul play vs Art Cruz?**
-A: Vinnie Paul plays ddrum Vinnie Paul Signature Series. Art Cruz plays Ludwig Drums.
+A: Vinnie Paul plays ddrum (brand confirmed; specific kit series unverified). Art Cruz plays Ludwig Drums.
 
 **Q: Who is the better thrash metal drummer, Vinnie Paul or Art Cruz?**
 A: Both are legends in their own right. Vinnie Paul is the godfather of groove metal drumming. See the full analysis at [metalforge.io/vs/vinnie-paul-vs-art-cruz](https://metalforge.io/vs/vinnie-paul-vs-art-cruz).
 
 **Q: What cymbals do Vinnie Paul and Art Cruz use?**
-A: Vinnie Paul uses Sabian AA & AAX Series (14" Hi-Hats, 18" & 19" Crashes, 21" Ride, 18" China). Art Cruz uses Zildjian (14" A Custom Mastersound Hi-Hats, 18" A Custom EFX, 18" A Custom Medium Crash, 19" A Custom Projection Crash, 20" A Custom Crash, 21" A Zildjian Mega Bell Ride, 19" A Ultra Hammered Chinas, 17" K China w/ EFX Holes, 9" FX Trash Splashes, FX Blast Bell).
+A: Vinnie Paul uses Sabian (brand per secondary sources; specific models unverified). Art Cruz uses Zildjian (14" A Custom Mastersound Hi-Hats, 18" A Custom EFX, 18" A Custom Medium Crash, 19" A Custom Projection Crash, 20" A Custom Crash, 21" A Zildjian Mega Bell Ride, 19" A Ultra Hammered Chinas, 17" K China w/ EFX Holes, 9" FX Trash Splashes, FX Blast Bell).
 
 ---
 
@@ -67,4 +67,4 @@ A: Vinnie Paul uses Sabian AA & AAX Series (14" Hi-Hats, 18" & 19" Crashes, 21" 
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

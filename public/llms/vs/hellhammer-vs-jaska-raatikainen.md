@@ -34,7 +34,7 @@ Hellhammer's technique is built around cold, relentless blast beats delivered wi
 
 ## Key Differences
 
-Hellhammer plays a Pearl Reference Series kit with a Pearl Reference snare and Zildjian A Custom cymbals (14" A Custom Hi-Hats, 17" & 19" A Custom Crashes, 20" Z Custom Dark Ride, 18" A China Boy), driven by a Pearl Demon Drive double pedal and Vic Firth American Classic 5B sticks. Jaska Raatikainen plays a Pearl Masters Premium Maple kit with a Pearl Masters 14x5.5" Maple snare and Zildjian A Custom & K Custom Series cymbals (14" A Custom Hi-Hats, 17" & 18" A Custom Crashes, 20" K Custom Ride, 18" China), powered by a Pearl Eliminator double pedal and Vic Firth American Classic 5A sticks. Hellhammer's technique is built around cold, relentless blast beats delivered with icy one-foot precision that became the template for second-wave black metal drumming — speed in service of atmosphere and aggression rather than technical display; he also plays barefoot for direct tactile feedback. Raatikainen balances death metal velocity with melodic awareness — rapid double bass volleys and blast beats that lock tightly with Children of Bodom's neoclassical riffing, with fills composed to support rather than overwhelm Laiho's guitar and Janne Wirman's keyboard interplay.
+Hellhammer plays a Sonor SQ2 Heavy Beech kit with a Sonor SQ2 Heavy Beech snare and Paiste RUDE Series cymbals, driven by an Axis Double Pedal and Vic Firth American Classic 5B sticks. Jaska Raatikainen plays a Pearl Masters Premium Maple kit with a Pearl Masters 14x5.5" Maple snare and Zildjian A Custom & K Custom Series cymbals (14" A Custom Hi-Hats, 17" & 18" A Custom Crashes, 20" K Custom Ride, 18" China), powered by a Pearl Eliminator double pedal and Vic Firth American Classic 5A sticks. Hellhammer's technique is built around cold, relentless blast beats delivered with icy one-foot precision that became the template for second-wave black metal drumming — speed in service of atmosphere and aggression rather than technical display; he also plays barefoot for direct tactile feedback. Raatikainen balances death metal velocity with melodic awareness — rapid double bass volleys and blast beats that lock tightly with Children of Bodom's neoclassical riffing, with fills composed to support rather than overwhelm Laiho's guitar and Janne Wirman's keyboard interplay.
 
 ## Influence & Legacy
 
@@ -46,17 +46,14 @@ Hellhammer and Jaska Raatikainen are two of Nordic extreme metal's most conseque
 
 ## FAQ
 
-**Q: What are the main differences between Hellhammer's and Jaska Raatikainen's drum kits?**
-A: Hellhammer plays Sonor SQ2 Heavy Beech with Paiste cymbals, while Jaska Raatikainen uses Pearl Masters Premium Maple with Zildjian cymbals. Hellhammer plays a Pearl Reference Series kit with a Pearl Reference snare and Zildjian A Custom cymbals (14" A Custom Hi-Hats, 17" & 19" A Custom Crashes, 20" Z Custom Dark Ride, 18" A China Boy), driven by a Pearl Demon Drive double pedal and Vic Firth American Classic 5B sticks. Jaska Raatikainen plays a Pearl Masters Premium Maple kit with a Pearl Masters 14x5.5" Maple snare and Zildjian A Custom & K Custom Series cymbals (14" A Custom Hi-Hats, 17" & 18" A Custom Crashes, 20" K Custom Ride, 18" China), powered by a Pearl Eliminator double pedal and Vic Firth American Classic 5A sticks.
+**Q: How do Hellhammer and Jaska Raatikainen compare as drummers?**
+A: Hellhammer has anchored Mayhem's black metal since 1988, delivering genre-defining blast beats on "De Mysteriis Dom Sathanas" (1994). Jaska Raatikainen co-founded Children of Bodom in 1993 and remained its sole drummer for 26 years, blending death metal velocity with melodic precision. Both are foundational Nordic extreme metal drummers from different subgenres and countries.
 
-**Q: What drums does Hellhammer play vs Jaska Raatikainen?**
-A: Hellhammer plays Sonor SQ2 Heavy Beech. Jaska Raatikainen plays Pearl Masters Premium Maple.
+**Q: What bands have Hellhammer and Jaska Raatikainen played in?**
+A: Hellhammer has drummed for Mayhem since 1988 and Dimmu Borgir since 1999, alongside Arcturus and Shining. Jaska Raatikainen was the sole drummer of Finnish melodic death metal band Children of Bodom from 1993 until the band's dissolution in 2019.
 
-**Q: Who is the better extreme / death / black metal drummer, Hellhammer or Jaska Raatikainen?**
-A: Both are legends in their own right. Hellhammer and Jaska Raatikainen are two of Nordic extreme metal's most consequential drummers, built on very different rhythmic philosophies. See the full analysis at [metalforge.io/vs/hellhammer-vs-jaska-raatikainen](https://metalforge.io/vs/hellhammer-vs-jaska-raatikainen).
-
-**Q: What cymbals do Hellhammer and Jaska Raatikainen use?**
-A: Hellhammer uses Paiste (14" RUDE Hi-Hats, 18" & 19" RUDE Crashes, 20" RUDE Ride, 18" RUDE China). Jaska Raatikainen uses Zildjian A Custom & K Custom Series (14" A Custom Hi-Hats, 17" & 18" A Custom Crashes, 20" K Custom Ride).
+**Q: What gear do Hellhammer and Jaska Raatikainen use?**
+A: Hellhammer plays a Sonor SQ2 Heavy Beech kit with a Sonor SQ2 Heavy Beech snare and Paiste RUDE Series cymbals, driven by an Axis Double Pedal. Jaska Raatikainen plays a Pearl Masters Premium Maple kit with a Pearl Masters 14x5.5" Maple snare and Zildjian A Custom & K Custom cymbals, powered by a Pearl Eliminator double pedal.
 
 ---
 
@@ -67,4 +64,4 @@ A: Hellhammer uses Paiste (14" RUDE Hi-Hats, 18" & 19" RUDE Crashes, 20" RUDE Ri
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

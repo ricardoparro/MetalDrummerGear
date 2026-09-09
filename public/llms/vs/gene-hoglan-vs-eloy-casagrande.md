@@ -46,17 +46,17 @@ Gene Hoglan and Eloy Casagrande represent 40 years of thrash and death metal dru
 
 ## FAQ
 
-**Q: What are the main differences between Gene Hoglan's and Eloy Casagrande's drum kits?**
-A: Gene Hoglan plays Pearl Reference Pure with Sabian cymbals, while Eloy Casagrande uses Tama Starclassic Bubinga (22"x16" & 24"x14" Bass Drums, 10", 12", 13" Toms, 16" & 18" Floor Toms) with Paiste cymbals. Gene Hoglan plays Pearl Reference Pure drums with Sabian AAX Series cymbals and Pearl Demon Drive double pedals — a powerful, projection-focused setup built for extreme metal clarity. Eloy Casagrande plays Tama Starclassic Maple drums with Paiste cymbals and Tama Iron Cobra double pedals — a powerhouse setup suited to Slipknot's aggressive, percussion-heavy sound.
+**Q: Who is the better technical drummer: Gene Hoglan or Eloy Casagrande?**
+A: Gene Hoglan earned "The Atomic Clock" nickname for metronomic precision at extreme metal speeds — he pioneered the gravity blast and set death metal drumming benchmarks across Dark Angel, Death, and Testament. Eloy Casagrande is the elite next-generation drummer now playing Slipknot's demanding catalog. Both are technically exceptional by different generational standards.
 
-**Q: What drums does Gene Hoglan play vs Eloy Casagrande?**
-A: Gene Hoglan plays Pearl Reference Pure. Eloy Casagrande plays Tama Starclassic Bubinga (22"x16" & 24"x14" Bass Drums, 10", 12", 13" Toms, 16" & 18" Floor Toms).
+**Q: What gear does Gene Hoglan use vs Eloy Casagrande?**
+A: Gene Hoglan plays Pearl Reference Pure drums with Sabian AAX cymbals and Pearl Demon Drive double pedals. Eloy Casagrande plays Tama Starclassic Maple drums with Paiste cymbals and Tama Iron Cobra double pedals.
 
-**Q: Who is the better thrash metal drummer, Gene Hoglan or Eloy Casagrande?**
-A: Both are legends in their own right. Gene Hoglan and Eloy Casagrande represent 40 years of thrash and death metal drumming separated by a generation. See the full analysis at [metalforge.io/vs/gene-hoglan-vs-eloy-casagrande](https://metalforge.io/vs/gene-hoglan-vs-eloy-casagrande).
+**Q: What is Gene Hoglan's legacy in metal drumming?**
+A: Gene Hoglan is credited with pioneering the gravity blast technique and played on landmark records with Dark Angel, Death, Testament, Strapping Young Lad, and Dethklok. His metronomic precision earned him "The Atomic Clock" nickname and shaped the technical vocabulary of death and thrash metal drumming for decades.
 
-**Q: What cymbals do Gene Hoglan and Eloy Casagrande use?**
-A: Gene Hoglan uses Sabian AAX Series (15" Hi-Hats, 18" & 20" Crashes, 22" Ride, 20" China). Eloy Casagrande uses Paiste (15" Masters Dark Hi-Hats, 20" Masters Dark Ride, 20" & 20" 602 Crashes, 10" Rude Splash, 20" Masters Dark Crash, 20" 2002 Heavy Ride, 20" 2002 Novo China, 10" 2002 Mega Bell, Symphonic Gong).
+**Q: Why did Eloy Casagrande join Slipknot?**
+A: Eloy Casagrande joined Slipknot in 2024 after departing Sepultura. His combination of technical precision, thrash metal roots, and ability to handle Slipknot's demanding catalog made him the ideal choice for the drum chair.
 
 ---
 
@@ -67,4 +67,4 @@ A: Gene Hoglan uses Sabian AAX Series (15" Hi-Hats, 18" & 20" Crashes, 22" Ride,
 
 ---
 
-*Last updated: 2026-08-22 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

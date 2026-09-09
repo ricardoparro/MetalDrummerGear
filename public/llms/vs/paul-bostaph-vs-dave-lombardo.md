@@ -34,7 +34,7 @@ Lombardo's technique effectively invented extreme thrash double bass — his rel
 
 ## Key Differences
 
-Dave Lombardo plays a Pearl Masters Maple Complete kit with a Pearl Dave Lombardo Signature 14x5.5" snare and Paiste RUDE & 2002 Series cymbals (14" Hi-Hats, 18" & 19" Crashes, 20" Power Ride, 18" China), driven by a Pearl Demon Drive double pedal and Vic Firth American Classic 5B sticks. Paul Bostaph plays a ddrum Paladin Series kit with a ddrum Paladin 14x6.5" Maple snare and Zildjian A Custom Series cymbals (14" Hi-Hats, 18" & 19" Crashes, 21" Ride, 18" China), driven by a ddrum Mercury double pedal and the same Vic Firth American Classic 5B sticks. Lombardo's technique effectively invented extreme thrash double bass — his relentless, high-speed kick patterns on "Reign in Blood" set a benchmark that death and thrash drummers spent decades trying to match, combining raw power with surprising groove and swing for a self-taught player. Bostaph brings machine-like consistency and controlled precision — his double bass at thrash tempos is metronomic and his fills are tight and deliberate, honoring Lombardo's template while adding his own disciplined, workmanlike attack that let Slayer tour and record for years without missing a beat.
+Dave Lombardo plays a Tama Starclassic Walnut/Birch kit with a Tama Dave Lombardo Signature 14x6.5" snare and Paiste RUDE & 2002 Series cymbals (14" Hi-Hats, 18" & 19" Crashes, 20" Power Ride, 18" China), using Promark Dave Lombardo Signature 2Bx sticks. Paul Bostaph played a Pearl Masters Maple Complete (MCX) kit with a Pearl Masters Steel 14x6.5" snare and Sabian AAX Series cymbals (14" Stage Hi-Hats, 17" & 19" X-Plosion Crashes, 21" Stage Ride, 18" AAXtreme China) on Repentless (2015), driven by a Pearl Eliminator double pedal and Vater Power 5B sticks. Lombardo's technique effectively invented extreme thrash double bass — his relentless, high-speed kick patterns on "Reign in Blood" set a benchmark that death and thrash drummers spent decades trying to match, combining raw power with surprising groove and swing for a self-taught player. Bostaph brings machine-like consistency and controlled precision — his double bass at thrash tempos is metronomic and his fills are tight and deliberate, honoring Lombardo's template while adding his own disciplined, workmanlike attack that let Slayer tour and record for years without missing a beat.
 
 ## Influence & Legacy
 
@@ -46,17 +46,17 @@ Paul Bostaph and Dave Lombardo are inseparable from the "who is the better Slaye
 
 ## FAQ
 
-**Q: What are the main differences between Paul Bostaph's and Dave Lombardo's drum kits?**
-A: Paul Bostaph plays Pearl Masters Maple Complete (MCX) with Sabian cymbals, while Dave Lombardo uses Tama Starclassic Maple with Paiste cymbals. Dave Lombardo plays a Pearl Masters Maple Complete kit with a Pearl Dave Lombardo Signature 14x5.5" snare and Paiste RUDE & 2002 Series cymbals (14" Hi-Hats, 18" & 19" Crashes, 20" Power Ride, 18" China), driven by a Pearl Demon Drive double pedal and Vic Firth American Classic 5B sticks. Paul Bostaph plays a ddrum Paladin Series kit with a ddrum Paladin 14x6.5" Maple snare and Zildjian A Custom Series cymbals (14" Hi-Hats, 18" & 19" Crashes, 21" Ride, 18" China), driven by a ddrum Mercury double pedal and the same Vic Firth American Classic 5B sticks.
+**Q: Who is the better Slayer drummer, Paul Bostaph or Dave Lombardo?**
+A: It depends on the criteria. Dave Lombardo is Slayer's founding drummer and is credited with inventing thrash metal's double bass vocabulary on classics like "Reign in Blood" (1986), making him the more historically influential figure. Paul Bostaph is Slayer's longest-serving drummer by total years (1992–2001, 2013–2019) and anchored the band through "Divine Intervention," "Diabolus in Musica," and "Repentless." Most fans credit Lombardo as the legend and Bostaph as the drummer who kept Slayer alive between Lombardo's tenures.
 
-**Q: What drums does Paul Bostaph play vs Dave Lombardo?**
-A: Paul Bostaph plays Pearl Masters Maple Complete (MCX). Dave Lombardo plays Tama Starclassic Maple.
+**Q: What albums did Dave Lombardo record with Slayer?**
+A: Dave Lombardo recorded "Show No Mercy" (1983), "Hell Awaits" (1985), "Reign in Blood" (1986), "South of Heaven" (1988), "Seasons in the Abyss" (1990), "Christ Illusion" (2006), and "World Painted Blood" (2009) across his two tenures as Slayer's founding drummer.
 
-**Q: Who is the better thrash metal drummer, Paul Bostaph or Dave Lombardo?**
-A: Both are legends in their own right. Paul Bostaph and Dave Lombardo are inseparable from the "who is the better Slayer drummer?" debate that has followed the band for three decades. See the full analysis at [metalforge.io/vs/paul-bostaph-vs-dave-lombardo](https://metalforge.io/vs/paul-bostaph-vs-dave-lombardo).
+**Q: What albums did Paul Bostaph record with Slayer?**
+A: Paul Bostaph recorded four studio albums with Slayer: "Divine Intervention" (1994), "Undisputed Attitude" (1996, a punk covers album), "Diabolus in Musica" (1998), and "Repentless" (2015). He also played Slayer's final-ever show in Los Angeles in November 2019.
 
-**Q: What cymbals do Paul Bostaph and Dave Lombardo use?**
-A: Paul Bostaph uses Sabian AAX Series (14" AAX Stage Hi-Hats, 17" & 19" AAX X-Plosion Crashes, 21" AAX Stage Ride, 18" AAXtreme China). Dave Lombardo uses Paiste RUDE & 2002 Series (15" Sound Edge Hi-Hats, 18" & 19" Crashes, 22" Reign Power Ride, 18" China).
+**Q: What gear do Paul Bostaph and Dave Lombardo use?**
+A: Dave Lombardo plays a Tama Starclassic Walnut/Birch kit with a Tama Dave Lombardo Signature snare and Paiste RUDE & 2002 Series cymbals, using Promark Dave Lombardo Signature 2Bx sticks. Paul Bostaph played a Pearl Masters Maple Complete (MCX) kit with a Pearl Masters Steel snare and Sabian AAX Series cymbals on Repentless (2015), using Vater Power 5B sticks.
 
 ---
 
@@ -67,4 +67,4 @@ A: Paul Bostaph uses Sabian AAX Series (14" AAX Stage Hi-Hats, 17" & 19" AAX X-P
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

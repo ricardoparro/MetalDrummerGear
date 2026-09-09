@@ -46,17 +46,17 @@ Nick Augusto and Jason Bittner both built their reputations powering thrash-adja
 
 ## FAQ
 
-**Q: What are the main differences between Nick Augusto's and Jason Bittner's drum kits?**
-A: Nick Augusto plays Pearl Reference Pure with Sabian cymbals, while Jason Bittner uses Mapex Saturn V with Zildjian cymbals. Nick Augusto played a Pearl Reference Pure kit with a Pearl Reference 14x6.5" brass snare and Sabian AAX Series cymbals (14" Stage Hi-Hats, 18" & 19" X-Plosion Crashes, 21" Stage Ride, 18" AAXtreme China), powered by a Pearl Demon Drive double pedal and Vic Firth American Classic 5B sticks. Jason Bittner's current Overkill-era rig centers on Mapex Saturn V all-maple shells and Zildjian K & A Custom cymbals, driven by a Mapex Falcon double pedal and his own Promark Jason Bittner Signature 5BX sticks — a wholesale Mapex/Zildjian switch he made in 2017 after nearly two decades on Tama and Sabian gear during his Shadows Fall years.
+**Q: How do Nick Augusto and Jason Bittner compare as drummers?**
+A: Nick Augusto drummed for Trivium from 2009 to 2014, bringing fast, aggressive metalcore fundamentals shaped by his grindcore background. Jason Bittner has spent over two decades powering thrash-adjacent metalcore, first with Shadows Fall (1999-2015) and now with Overkill (2017-present), combining thrash power with modern metal groove.
 
-**Q: What drums does Nick Augusto play vs Jason Bittner?**
-A: Nick Augusto plays Pearl Reference Pure. Jason Bittner plays Mapex Saturn V.
+**Q: What gear do Nick Augusto and Jason Bittner use?**
+A: Nick Augusto played a Pearl Reference Pure kit with a Pearl Reference brass snare and Sabian AAX Series cymbals, powered by a Pearl Demon Drive double pedal. Jason Bittner's current Overkill rig uses Mapex Saturn V all-maple shells and Zildjian K & A Custom cymbals, powered by a Mapex Falcon double pedal and his own Promark signature sticks.
 
-**Q: Who is the better thrash metal drummer, Nick Augusto or Jason Bittner?**
-A: Both are legends in their own right. Nick Augusto and Jason Bittner both built their reputations powering thrash-adjacent metalcore, but on very different timelines. See the full analysis at [metalforge.io/vs/nick-augusto-vs-jason-bittner](https://metalforge.io/vs/nick-augusto-vs-jason-bittner).
+**Q: What bands are Nick Augusto and Jason Bittner known for?**
+A: Nick Augusto drummed for Trivium from 2009 to 2014, recording "In Waves" (2011) and "Vengeance Falls" (2013). Jason Bittner drummed for Shadows Fall from 1999 to 2015, played briefly in Flotsam and Jetsam, and has been Overkill's drummer since 2017.
 
-**Q: What cymbals do Nick Augusto and Jason Bittner use?**
-A: Nick Augusto uses Sabian AAX Series (14" Stage Hi-Hats, 18" & 19" X-Plosion Crashes, 21" Stage Ride, 18" AAXtreme China). Jason Bittner uses Zildjian K & A Custom Series (14" K Hi-Hats, 18" & 19" A Custom Crashes, 21" K Custom Ride, 18" K China).
+**Q: When did Jason Bittner join Overkill?**
+A: Jason Bittner joined Overkill in 2017, replacing longtime drummer Ron Lipnicki. He recorded "The Wings of War" (2019) with the band and "Scorched" (2023), the first Overkill album written entirely with him as the drummer.
 
 ---
 
@@ -67,4 +67,4 @@ A: Nick Augusto uses Sabian AAX Series (14" Stage Hi-Hats, 18" & 19" X-Plosion C
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

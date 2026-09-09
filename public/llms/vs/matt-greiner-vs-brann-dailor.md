@@ -34,11 +34,11 @@ Greiner weaves odd time signatures seamlessly into song structures rather than s
 
 ## Key Differences
 
-Greiner plays a Greiner & Kilmer Custom kit, co-designed with his own drum company, with a matching 14x6.5" Maple snare and Meinl Byzance Series cymbals, driven by a DW 9000 Series double pedal. Dailor plays a Tama Starclassic Performer B/B kit with a Tama S.L.P. G-Maple snare and Meinl Byzance cymbals, driven by a Tama Speed Cobra double pedal for fluid double bass under Mastodon's polyrhythmic riffing. Greiner weaves odd time signatures seamlessly into song structures rather than showcasing them as a display, incorporating creative stacked-cymbal work and rapid-fire double bass into metalcore's heavy foundation. Dailor's technique favors flowing, syncopated fills that weave in and out of Mastodon's riffs, treating the kit as a singing voice rather than a metronome, and he pulls off complex patterns while simultaneously handling lead and co-lead vocal duties on many songs.
+Greiner plays a Mapex Black Panther Design Lab kit with his own Pearl Matt Greiner Signature 14x6" Steel snare and Paiste Formula 602 Series cymbals, driven by a DW 9000 Series double pedal. Dailor plays a Tama Starclassic Performer B/B kit with a Tama S.L.P. G-Maple snare and Meinl Byzance cymbals, driven by a Tama Speed Cobra double pedal for fluid double bass under Mastodon's polyrhythmic riffing. Greiner weaves odd time signatures seamlessly into song structures rather than showcasing them as a display, incorporating creative stacked-cymbal work and rapid-fire double bass into metalcore's heavy foundation. Dailor's technique favors flowing, syncopated fills that weave in and out of Mastodon's riffs, treating the kit as a singing voice rather than a metronome, and he pulls off complex patterns while simultaneously handling lead and co-lead vocal duties on many songs.
 
 ## Influence & Legacy
 
-Greiner earned two Grammy nominations for Best Metal Performance with August Burns Red and co-founded the Greiner & Kilmer drum company, influencing a generation of metalcore drummers through signature gear and worldwide clinics. Dailor helped define the progressive sludge sound and proved a metal drummer could also front a band as co-vocalist, influencing a generation of prog-sludge acts and earning Mastodon a Grammy Award for Best Metal Performance in 2018.
+Greiner earned two Grammy nominations for Best Metal Performance with August Burns Red and has influenced a generation of metalcore drummers through his signature Pearl snare, Vic Firth stick line, and worldwide clinics. Dailor helped define the progressive sludge sound and proved a metal drummer could also front a band as co-vocalist, influencing a generation of prog-sludge acts and earning Mastodon a Grammy Award for Best Metal Performance in 2018.
 
 ## Verdict
 
@@ -46,17 +46,17 @@ Matt Greiner and Brann Dailor both push progressive songwriting into heavy music
 
 ## FAQ
 
-**Q: What are the main differences between Matt Greiner's and Brann Dailor's drum kits?**
-A: Matt Greiner plays Mapex Black Panther Design Lab with Paiste cymbals, while Brann Dailor uses Tama Starclassic Performer B/B with Meinl cymbals. Greiner plays a Greiner & Kilmer Custom kit, co-designed with his own drum company, with a matching 14x6.5" Maple snare and Meinl Byzance Series cymbals, driven by a DW 9000 Series double pedal. Dailor plays a Tama Starclassic Performer B/B kit with a Tama S.L.P. G-Maple snare and Meinl Byzance cymbals, driven by a Tama Speed Cobra double pedal for fluid double bass under Mastodon's polyrhythmic riffing.
+**Q: What is the difference between Matt Greiner's and Brann Dailor's drumming styles?**
+A: Matt Greiner weaves odd time signatures seamlessly into August Burns Red's metalcore song structures, favoring integrated complexity over overt technical display. Brann Dailor drives Mastodon's progressive sludge with flowing, syncopated fills that treat the kit as a lead voice, while also handling co-lead vocal duties on many songs.
 
-**Q: What drums does Matt Greiner play vs Brann Dailor?**
-A: Matt Greiner plays Mapex Black Panther Design Lab. Brann Dailor plays Tama Starclassic Performer B/B.
+**Q: What gear do Matt Greiner and Brann Dailor use?**
+A: Matt Greiner plays a Mapex Black Panther Design Lab kit with his own Pearl Matt Greiner Signature 14x6" Steel snare, Paiste Formula 602 Series cymbals, and a DW 9000 Series double pedal. Brann Dailor plays a Tama Starclassic Performer B/B kit with a Tama S.L.P. G-Maple snare, Meinl Byzance cymbals, and a Tama Speed Cobra double pedal.
 
-**Q: Who is the better progressive metal drummer, Matt Greiner or Brann Dailor?**
-A: Both are legends in their own right. Matt Greiner and Brann Dailor both push progressive songwriting into heavy music, but from very different angles. See the full analysis at [metalforge.io/vs/matt-greiner-vs-brann-dailor](https://metalforge.io/vs/matt-greiner-vs-brann-dailor).
+**Q: Does Brann Dailor sing while drumming for Mastodon?**
+A: Yes — Brann Dailor serves as Mastodon's co-vocalist on many tracks, singing lead or co-lead vocals while simultaneously executing Mastodon's complex, flowing drum patterns, a rare combination among metal drummers.
 
-**Q: What cymbals do Matt Greiner and Brann Dailor use?**
-A: Matt Greiner uses Paiste Formula 602 (14" Hi-Hats, 16"/17"/18" Crashes, 22" Ride, 18" China, 10" Splash). Brann Dailor uses Meinl Byzance Series (14" Dark Hi-Hats, 18" & 19" Brilliant Heavy Hammered Crashes, 21" Ghost Ride, 18" Extra Dry China).
+**Q: Has Matt Greiner won any awards with August Burns Red?**
+A: Matt Greiner has earned two Grammy nominations for Best Metal Performance with August Burns Red, and he has his own signature Pearl snare and Vic Firth stick line.
 
 ---
 
@@ -67,4 +67,4 @@ A: Matt Greiner uses Paiste Formula 602 (14" Hi-Hats, 16"/17"/18" Crashes, 22" R
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

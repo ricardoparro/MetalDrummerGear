@@ -34,7 +34,7 @@ Daniel brings a clean, high-precision approach to melodic death metal — his bl
 
 ## Key Differences
 
-Daniel Erlandsson endorses Pearl drums, playing Pearl Reference Series or Masters Maple with Zildjian cymbals — a clean, articulate setup that serves Arch Enemy's high-production recording and global touring demands. His double pedal setup emphasizes consistency and power across extended live sets. Adrian Erlandsson has endorsed various setups throughout his career, including Tama drums with Zildjian cymbals during his At the Gates and Haunted years — a setup that prioritized raw attack and aggressive projection suited to the more punk-inflected energy of Gothenburg's earliest wave. Daniel brings a clean, high-precision approach to melodic death metal — his blast beats are controlled and even, his double bass patterns are tight and consistent with Arch Enemy's production-forward sound, and his fills are designed to punctuate rather than overwhelm the melodic guitar-centric compositions. He excels at maintaining momentum across long set passages while letting the band's hooks remain the focal point. Adrian approaches the drum kit with rawer intensity — his "Slaughter of the Soul" recordings remain benchmark examples of how to play aggressive death metal with energy that feels violent yet musical. His patterns are more rooted in hardcore punk bluntness than technical precision, giving At the Gates a ferocious immediacy that's distinct from Gothenburg's more polished melodic acts. Both brothers demonstrate the Swedish melodic death metal tradition from different angles: Daniel from the melodic, anthem-first side; Adrian from the aggressive, hardcore-influenced side.
+Daniel Erlandsson endorses Pearl drums, playing Pearl Reference Series or Masters Maple with Sabian cymbals — a clean, articulate setup that serves Arch Enemy's high-production recording and global touring demands. His double pedal setup emphasizes consistency and power across extended live sets. Adrian Erlandsson has endorsed various setups throughout his career, including Tama drums with Zildjian cymbals during his At the Gates and Haunted years — a setup that prioritized raw attack and aggressive projection suited to the more punk-inflected energy of Gothenburg's earliest wave. Daniel brings a clean, high-precision approach to melodic death metal — his blast beats are controlled and even, his double bass patterns are tight and consistent with Arch Enemy's production-forward sound, and his fills are designed to punctuate rather than overwhelm the melodic guitar-centric compositions. He excels at maintaining momentum across long set passages while letting the band's hooks remain the focal point. Adrian approaches the drum kit with rawer intensity — his "Slaughter of the Soul" recordings remain benchmark examples of how to play aggressive death metal with energy that feels violent yet musical. His patterns are more rooted in hardcore punk bluntness than technical precision, giving At the Gates a ferocious immediacy that's distinct from Gothenburg's more polished melodic acts. Both brothers demonstrate the Swedish melodic death metal tradition from different angles: Daniel from the melodic, anthem-first side; Adrian from the aggressive, hardcore-influenced side.
 
 ## Influence & Legacy
 
@@ -46,17 +46,17 @@ The Erlandsson brothers represent Swedish melodic death metal from two distinct 
 
 ## FAQ
 
-**Q: What are the main differences between Daniel Erlandsson's and Adrian Erlandsson's drum kits?**
-A: Daniel Erlandsson plays Pearl Reference Pure with Paiste cymbals, while Adrian Erlandsson uses Tama Starclassic Bubinga with Sabian cymbals. Daniel Erlandsson endorses Pearl drums, playing Pearl Reference Series or Masters Maple with Zildjian cymbals — a clean, articulate setup that serves Arch Enemy's high-production recording and global touring demands. His double pedal setup emphasizes consistency and power across extended live sets. Adrian Erlandsson has endorsed various setups throughout his career, including Tama drums with Zildjian cymbals during his At the Gates and Haunted years — a setup that prioritized raw attack and aggressive projection suited to the more punk-inflected energy of Gothenburg's earliest wave.
+**Q: What is the difference between the Erlandsson brothers' drumming styles?**
+A: Daniel Erlandsson (Arch Enemy) plays with high production-forward precision — clean blast beats, tight double bass, and melodic fill placement that serves Arch Enemy's anthemic compositions. Adrian Erlandsson (At the Gates, The Haunted) plays with rawer, more punk-influenced aggression — his approach on "Slaughter of the Soul" defined the ferocious energy of Gothenburg's earliest melodic death wave. Daniel is more polished; Adrian is more viscerally intense.
 
-**Q: What drums does Daniel Erlandsson play vs Adrian Erlandsson?**
-A: Daniel Erlandsson plays Pearl Reference Pure. Adrian Erlandsson plays Tama Starclassic Bubinga.
+**Q: Are Daniel and Adrian Erlandsson brothers?**
+A: Yes — Daniel and Adrian Erlandsson are brothers, both from Sweden, and both are defining drummers in the melodic death metal genre. Daniel has been Arch Enemy's drummer since 2005. Adrian was a founding member of At the Gates and played in The Haunted. Their shared heritage and parallel careers make them one of metal's most notable drumming sibling pairs.
 
-**Q: Who is the better extreme / death / black metal drummer, Daniel Erlandsson or Adrian Erlandsson?**
-A: Both are legends in their own right. The Erlandsson brothers represent Swedish melodic death metal from two distinct but complementary perspectives. See the full analysis at [metalforge.io/vs/daniel-erlandsson-vs-adrian-erlandsson](https://metalforge.io/vs/daniel-erlandsson-vs-adrian-erlandsson).
+**Q: What albums did Daniel Erlandsson record with Arch Enemy?**
+A: Daniel Erlandsson recorded "Doomsday Machine" (2005), "Rise of the Tyrant" (2007), "Khaos Legions" (2011), "War Eternal" (2014), "Will to Power" (2017), and "Deceivers" (2022) with Arch Enemy — spanning the band's most successful and globally active period, including the transition to vocalist Alissa White-Gluz in 2014.
 
-**Q: What cymbals do Daniel Erlandsson and Adrian Erlandsson use?**
-A: Daniel Erlandsson uses Paiste RUDE & 2002 Series (14" RUDE Hi-Hats, 18" & 19" RUDE Crashes, 22" RUDE Power Ride). Adrian Erlandsson uses Sabian AAX/HHX Series (15" HHX Xcelerator Hi-Hats, 20" AAX Iso Crash, 19" AAX Paragon China).
+**Q: What is At the Gates' most influential album and what role did Adrian Erlandsson play?**
+A: At the Gates' "Slaughter of the Soul" (1995) is widely considered one of the most influential extreme metal albums ever recorded — its combination of melodic guitar riffs, hardcore aggression, and driving rhythmic momentum created the template that metalcore and melodic death metal bands worldwide spent the 2000s emulating. Adrian Erlandsson's drumming is central to the album's energy, providing the raw, punchy rhythmic foundation that made its riffs hit so hard.
 
 ---
 
@@ -67,4 +67,4 @@ A: Daniel Erlandsson uses Paiste RUDE & 2002 Series (14" RUDE Hi-Hats, 18" & 19"
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

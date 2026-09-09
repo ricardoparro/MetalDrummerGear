@@ -18,10 +18,10 @@ Converge/Mutoid Man's Ben Koller vs Death/Iced Earth's Richard Christy — blist
 
 ## Richard Christy Setup
 
-- **Drums:** Tama Starclassic Maple
+- **Drums:** Pearl Custom Z
 - **Cymbals:** Sabian AAX & HHX Series (14" AAX Stage Hi-Hats, 18" & 19" AAX X-Plosion Crashes, 21" HHX Raw Bell Dry Ride, 18" AAX Chinese)
-- **Snare:** Tama Starclassic 14x6.5" Maple
-- **Pedals/Hardware:** Tama Iron Cobra 900 Double Pedal
+- **Snare:** Pearl Custom Z 14x6.5" Maple
+- **Pedals/Hardware:** Axis A Longboard Double Pedal
 - **Sticks:** Vic Firth American Classic 5A
 
 ## Playing Style
@@ -34,7 +34,7 @@ Koller's drumming draws on hardcore punk, grindcore, and experimental rock in eq
 
 ## Key Differences
 
-Ben Koller plays a Tama Starclassic Maple kit with a Tama S.L.P. 14x6" Brass snare and Zildjian K Dark cymbals (14" K Dark Thin Hi-Hats, 18" & 19" K Dark Medium Thin Crashes, 21" K Custom Ride, 18" K China), driven by a Tama Iron Cobra 900 double pedal and Vic Firth American Classic 5B sticks. Richard Christy plays a Tama Starclassic Maple kit with a matching Tama Starclassic 14x6.5" Maple snare and Sabian AAX & HHX Series cymbals (14" AAX Stage Hi-Hats, 18" & 19" AAX X-Plosion Crashes, 21" HHX Raw Bell Dry Ride, 18" AAX Chinese), powered by a Tama Iron Cobra 900 double pedal and Vic Firth American Classic 5A sticks. Koller's drumming draws on hardcore punk, grindcore, and experimental rock in equal measure, combining blistering speed with unpredictable dynamic shifts — stopping, starting, and lurching through Converge's dissonant arrangements with a raw, physical intensity that prioritizes chaos and impact over metronomic cleanliness. Christy plays with disciplined technical precision, executing rapid-fire blast beats and complex, shifting time signatures with the surgical accuracy that "The Sound of Perseverance" demanded, carrying that same speed and control into Iced Earth's power/thrash framework and his own progressive death metal project.
+Ben Koller plays a Tama Starclassic Maple kit with a Tama S.L.P. 14x6" Brass snare and Zildjian K Dark cymbals (14" K Dark Thin Hi-Hats, 18" & 19" K Dark Medium Thin Crashes, 21" K Custom Ride, 18" K China), driven by a Tama Iron Cobra 900 double pedal and Vic Firth American Classic 5B sticks. Richard Christy plays a Pearl Masters Custom kit with a matching Pearl Masters Maple 14x6.5" snare and Sabian AAX & HHX Series cymbals (14" AAX Stage Hi-Hats, 18" & 19" AAX X-Plosion Crashes, 21" HHX Raw Bell Dry Ride, 18" AAX Chinese), powered by an Axis A Longboard double pedal and Vic Firth American Classic 5A sticks. Koller's drumming draws on hardcore punk, grindcore, and experimental rock in equal measure, combining blistering speed with unpredictable dynamic shifts — stopping, starting, and lurching through Converge's dissonant arrangements with a raw, physical intensity that prioritizes chaos and impact over metronomic cleanliness. Christy plays with disciplined technical precision, executing rapid-fire blast beats and complex, shifting time signatures with the surgical accuracy that "The Sound of Perseverance" demanded, carrying that same speed and control into Iced Earth's power/thrash framework and his own progressive death metal project.
 
 ## Influence & Legacy
 
@@ -46,17 +46,17 @@ Ben Koller and Richard Christy represent two disciplined extremes of technical d
 
 ## FAQ
 
-**Q: What are the main differences between Ben Koller's and Richard Christy's drum kits?**
-A: Ben Koller plays Tama Starclassic Maple with Zildjian cymbals, while Richard Christy uses Tama Starclassic Maple with Sabian cymbals. Ben Koller plays a Tama Starclassic Maple kit with a Tama S.L.P. 14x6" Brass snare and Zildjian K Dark cymbals (14" K Dark Thin Hi-Hats, 18" & 19" K Dark Medium Thin Crashes, 21" K Custom Ride, 18" K China), driven by a Tama Iron Cobra 900 double pedal and Vic Firth American Classic 5B sticks. Richard Christy plays a Tama Starclassic Maple kit with a matching Tama Starclassic 14x6.5" Maple snare and Sabian AAX & HHX Series cymbals (14" AAX Stage Hi-Hats, 18" & 19" AAX X-Plosion Crashes, 21" HHX Raw Bell Dry Ride, 18" AAX Chinese), powered by a Tama Iron Cobra 900 double pedal and Vic Firth American Classic 5A sticks.
+**Q: How do Ben Koller and Richard Christy compare as drummers?**
+A: Ben Koller has drummed for Converge since late 1999, bringing hardcore- and grindcore-informed chaos and dynamic extremes to mathcore, alongside Mutoid Man and Killer Be Killed. Richard Christy played on Death's final album "The Sound of Perseverance" in the late 1990s and later drummed for Iced Earth and his own band, Charred Walls of the Damned, known for disciplined technical death metal precision.
 
-**Q: What drums does Ben Koller play vs Richard Christy?**
-A: Ben Koller plays Tama Starclassic Maple. Richard Christy plays Tama Starclassic Maple.
+**Q: What gear do Ben Koller and Richard Christy use?**
+A: Ben Koller plays a Tama Starclassic Maple kit with a Tama S.L.P. 14x6" Brass snare and Zildjian K Dark cymbals, driven by a Tama Iron Cobra 900 double pedal. Richard Christy plays a Pearl Masters Custom kit with a matching 14x6.5" Pearl Masters Maple snare and Sabian AAX & HHX Series cymbals, powered by an Axis A Longboard double pedal.
 
-**Q: Who is the better extreme / death / black metal drummer, Ben Koller or Richard Christy?**
-A: Both are legends in their own right. Ben Koller and Richard Christy represent two disciplined extremes of technical drumming born from different underground scenes. See the full analysis at [metalforge.io/vs/ben-koller-vs-richard-christy](https://metalforge.io/vs/ben-koller-vs-richard-christy).
+**Q: What bands are Ben Koller and Richard Christy known for?**
+A: Ben Koller drums for Converge, Mutoid Man, and Killer Be Killed. Richard Christy drummed for Death in the late 1990s and Iced Earth from 2003 to 2004, and later founded Charred Walls of the Damned.
 
-**Q: What cymbals do Ben Koller and Richard Christy use?**
-A: Ben Koller uses Zildjian (14" K Dark Thin Hi-Hats, 18" & 19" K Dark Medium Thin Crashes, 21" K Custom Ride, 18" K China). Richard Christy uses Sabian AAX & HHX Series (14" AAX Stage Hi-Hats, 18" & 19" AAX X-Plosion Crashes, 21" HHX Raw Bell Dry Ride, 18" AAX Chinese).
+**Q: What is Richard Christy known for outside of drumming?**
+A: Beyond his technical death metal career, Richard Christy has worked on The Howard Stern Show as a staff member and performer since 2004, becoming known to a mainstream audience well beyond the metal underground.
 
 ---
 
@@ -67,4 +67,4 @@ A: Ben Koller uses Zildjian (14" K Dark Thin Hi-Hats, 18" & 19" K Dark Medium Th
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

@@ -46,17 +46,17 @@ Ben Koller and Gavin Harrison sit at opposite ends of technical extreme and prog
 
 ## FAQ
 
-**Q: What are the main differences between Ben Koller's and Gavin Harrison's drum kits?**
-A: Ben Koller plays Tama Starclassic Maple with Zildjian cymbals, while Gavin Harrison uses Sonor SQ2 Series with Zildjian cymbals. Ben Koller plays a Tama Starclassic Maple kit with a Tama S.L.P. 14x6" Brass snare and Zildjian K Dark Series cymbals (14" K Dark Thin Hi-Hats, 18" & 19" K Dark Medium Thin Crashes, 21" K Custom Ride, 18" K China), driven by a Tama Iron Cobra 900 double pedal and Vic Firth American Classic 5B sticks. Gavin Harrison plays a Sonor SQ2 Series kit with his signature Sonor 14x5.25" snare and Zildjian K Custom Special Dry cymbals, paired with his own Vic Firth Gavin Harrison Signature stick — a refined setup built for clarity and articulation rather than raw power.
+**Q: Who is more technically demanding — Ben Koller or Gavin Harrison?**
+A: Both are considered elite technicians, but in very different styles. Ben Koller (Converge) is demanding because of his loose, explosive, unpredictable attack that thrives on sudden tempo and dynamic shifts. Gavin Harrison (Porcupine Tree, King Crimson) is demanding because of meticulous polyrhythmic layering and ghost-note precision across odd time signatures. Koller's difficulty is visceral and improvisational; Harrison's is composed and mathematical.
 
-**Q: What drums does Ben Koller play vs Gavin Harrison?**
-A: Ben Koller plays Tama Starclassic Maple. Gavin Harrison plays Sonor SQ2 Series.
+**Q: What gear do Ben Koller and Gavin Harrison use?**
+A: Ben Koller plays a Tama Starclassic Maple kit with a Tama S.L.P. 14x6" Brass snare and Zildjian K Dark Series cymbals, driven by a Tama Iron Cobra 900 double pedal. Gavin Harrison plays a Sonor SQ2 Series kit with his signature Sonor 14x5.25" snare, Zildjian K Custom Special Dry cymbals, and his own Vic Firth signature stick.
 
-**Q: Who is the better progressive metal drummer, Ben Koller or Gavin Harrison?**
-A: Both are legends in their own right. Ben Koller and Gavin Harrison sit at opposite ends of technical extreme and progressive music. See the full analysis at [metalforge.io/vs/ben-koller-vs-gavin-harrison](https://metalforge.io/vs/ben-koller-vs-gavin-harrison).
+**Q: What bands are Ben Koller and Gavin Harrison known for?**
+A: Ben Koller has drummed for Converge since 1999, and also plays in Mutoid Man and Killer Be Killed. Gavin Harrison is best known for Porcupine Tree (since 2002) and King Crimson (since 2008), and also drums for The Pineapple Thief.
 
-**Q: What cymbals do Ben Koller and Gavin Harrison use?**
-A: Ben Koller uses Zildjian (14" K Dark Thin Hi-Hats, 18" & 19" K Dark Medium Thin Crashes, 21" K Custom Ride, 18" K China). Gavin Harrison uses Zildjian K Custom Special Dry Series (14" Hi-Hats, 16" & 18" Crashes, 21" Special Dry Ride, 18" Trash China).
+**Q: How did Gavin Harrison and Ben Koller build their reputations?**
+A: Gavin Harrison built his reputation first as an in-demand session and touring drummer before joining Porcupine Tree in 2002, later adding King Crimson and multiple Modern Drummer Reader Poll wins. Ben Koller built his reputation entirely within the hardcore and mathcore underground, becoming one of the genre's most respected drummers through Converge's "Jane Doe" (2001) and beyond.
 
 ---
 
@@ -67,4 +67,4 @@ A: Ben Koller uses Zildjian (14" K Dark Thin Hi-Hats, 18" & 19" K Dark Medium Th
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

@@ -1,6 +1,6 @@
 # Gavin Harrison vs Mike Mangini — Drum Kit Comparison
 
-> Side-by-side gear comparison between Gavin Harrison (Porcupine Tree / King Crimson) and Mike Mangini (Dream Theater).
+> Side-by-side gear comparison between Gavin Harrison (Porcupine Tree / King Crimson) and Mike Mangini (Godsmack (2026-present); Dream Theater (2010-2023)).
 
 **Category:** Progressive Metal · **URL:** https://metalforge.io/vs/gavin-harrison-vs-mike-mangini
 
@@ -46,17 +46,17 @@ Gavin Harrison and Mike Mangini are two of the finest technical drummers alive, 
 
 ## FAQ
 
-**Q: What are the main differences between Gavin Harrison's and Mike Mangini's drum kits?**
-A: Gavin Harrison plays Sonor SQ2 Series with Zildjian cymbals, while Mike Mangini uses Pearl Reference Series with Sabian cymbals. Gavin Harrison plays Sonor SQ2 Series drums with Zildjian K Custom Special Dry cymbals (14" Hi-Hats, 16" & 18" Crashes, 21" Special Dry Ride, 18" Trash China) — a dry, controlled sound ideal for his nuanced polyrhythmic work. He uses Sonor Gavin Harrison Signature snares (12"x5" and 14"x5.25") and Vic Firth Gavin Harrison Signature sticks. Mike Mangini plays Pearl Masterworks Maple with Sabian HHX Evolution and AAX X-Plosion cymbals, Pearl Eliminator Redline double pedal, and an extensive Roland TD-50 electronic integration — a massive, ergonomically optimized setup built for Dream Theater's complex sonic demands.
+**Q: Who is more technical, Gavin Harrison or Mike Mangini?**
+A: Both are extraordinarily technical, but in different ways. Mike Mangini holds Guinness World Records for drumming speed and brings a scientific, mathematical approach to technique. Gavin Harrison's technical mastery lies in polyrhythmic complexity and compositional depth — navigating odd time signatures with musical grace that sounds effortless. Both are consistently cited among the world's best drummers.
 
 **Q: What drums does Gavin Harrison play vs Mike Mangini?**
-A: Gavin Harrison plays Sonor SQ2 Series. Mike Mangini plays Pearl Reference Series.
+A: Gavin Harrison plays Sonor SQ2 Series drums with Zildjian K Custom Special Dry cymbals and Vic Firth signature sticks. Mike Mangini plays Pearl Masterworks Maple with Sabian HHX/AAX cymbals, Pearl Eliminator Redline double pedals, and Roland TD-50 electronic integration.
 
-**Q: Who is the better progressive metal drummer, Gavin Harrison or Mike Mangini?**
-A: Both are legends in their own right. Gavin Harrison and Mike Mangini are two of the finest technical drummers alive, arriving at mastery from different directions. See the full analysis at [metalforge.io/vs/gavin-harrison-vs-mike-mangini](https://metalforge.io/vs/gavin-harrison-vs-mike-mangini).
+**Q: What Guinness World Records does Mike Mangini hold?**
+A: Mike Mangini holds multiple Guinness World Records for drumming speed, including 1,203 single strokes in 60 seconds. He set his first world record in 1986 and was a professor at Berklee College of Music before joining Dream Theater in 2010 after their publicized international audition.
 
-**Q: What cymbals do Gavin Harrison and Mike Mangini use?**
-A: Gavin Harrison uses Zildjian K Custom Special Dry Series (14" Hi-Hats, 16" & 18" Crashes, 21" Special Dry Ride, 18" Trash China). Mike Mangini uses Sabian HHX & AAX Series (14" HHX Evolution Hi-Hats, 17", 18", 19" HHX Evolution Crashes, 21" HHX Raw Bell Dry Ride).
+**Q: What bands has Gavin Harrison played with?**
+A: Gavin Harrison is best known as the drummer for Porcupine Tree (2002–2010, reunited 2021-present), King Crimson (2008-present), and The Pineapple Thief (2016-present). He has also released instructional materials and is part of the 05Ric three-drummer collaborative project.
 
 ---
 
@@ -67,4 +67,4 @@ A: Gavin Harrison uses Zildjian K Custom Special Dry Series (14" Hi-Hats, 16" & 
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

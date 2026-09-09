@@ -46,17 +46,14 @@ Gene Hoglan and Dave Lombardo represent two poles of extreme metal drumming exce
 
 ## FAQ
 
-**Q: What are the main differences between Gene Hoglan's and Dave Lombardo's drum kits?**
-A: Gene Hoglan plays Pearl Reference Pure with Sabian cymbals, while Dave Lombardo uses Tama Starclassic Maple with Paiste cymbals. Hoglan plays a Pearl Reference Pure kit with a Pearl Reference 14x6.5" Brass snare, Sabian AAX cymbals, and Pearl Demon Drive double pedals engineered for his relentless double-bass runs. Lombardo plays Tama Starclassic Maple drums with a Tama S.L.P. 14x6.5" G-Maple snare, Paiste RUDE and 2002 Series cymbals, and a Tama Iron Cobra 900 double pedal.
+**Q: Who is more technical: Gene Hoglan or Dave Lombardo?**
+A: Gene Hoglan is widely considered the more technically complex player, known for polyrhythmic mastery and odd-time signatures that earned him the nickname "The Atomic Clock." Dave Lombardo is renowned for raw speed, groove, and feel rather than technical complexity.
 
-**Q: What drums does Gene Hoglan play vs Dave Lombardo?**
-A: Gene Hoglan plays Pearl Reference Pure. Dave Lombardo plays Tama Starclassic Maple.
+**Q: What kits do Gene Hoglan and Dave Lombardo play?**
+A: Hoglan plays a Pearl Reference Pure kit with Sabian AAX cymbals. Lombardo plays a Tama Starclassic Maple kit with Paiste RUDE and 2002 Series cymbals.
 
-**Q: Who is the better thrash metal drummer, Gene Hoglan or Dave Lombardo?**
-A: Both are legends in their own right. Gene Hoglan and Dave Lombardo represent two poles of extreme metal drumming excellence. See the full analysis at [metalforge.io/vs/gene-hoglan-vs-dave-lombardo](https://metalforge.io/vs/gene-hoglan-vs-dave-lombardo).
-
-**Q: What cymbals do Gene Hoglan and Dave Lombardo use?**
-A: Gene Hoglan uses Sabian AAX Series (15" Hi-Hats, 18" & 20" Crashes, 22" Ride, 20" China). Dave Lombardo uses Paiste RUDE & 2002 Series (15" Sound Edge Hi-Hats, 18" & 19" Crashes, 22" Reign Power Ride, 18" China).
+**Q: Who is faster: Gene Hoglan or Dave Lombardo?**
+A: Both are elite for their eras. Hoglan's blast beats and double bass runs are metronomically precise at extreme tempos, while Lombardo pioneered the speed and aggression that defined thrash metal's Reign in Blood era.
 
 ---
 
@@ -67,4 +64,4 @@ A: Gene Hoglan uses Sabian AAX Series (15" Hi-Hats, 18" & 20" Crashes, 22" Ride,
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

@@ -34,7 +34,7 @@ Matt masters groove-focused polyrhythms and ghost notes. Alex combines blast bea
 
 ## Key Differences
 
-Matt plays Pearl drums with Meinl cymbals for dark tones. Alex uses Pearl with precision-focused cymbal selection. Matt masters groove-focused polyrhythms and ghost notes. Alex combines blast beats with melodic thrash patterns.
+Matt plays Pearl drums with Meinl cymbals for dark tones. Alex uses TAMA with precision-focused cymbal selection. Matt masters groove-focused polyrhythms and ghost notes. Alex combines blast beats with melodic thrash patterns.
 
 ## Influence & Legacy
 
@@ -47,7 +47,7 @@ Matt Halpern shaped djent drumming for a generation. Alex Bent proves technical 
 ## FAQ
 
 **Q: What are the main differences between Matt Halpern's and Alex Bent's drum kits?**
-A: Matt Halpern plays Pearl Reference Series with Meinl cymbals, while Alex Bent uses Pearl Reference Pure Series with Zildjian cymbals. Matt plays Pearl drums with Meinl cymbals for dark tones. Alex uses Pearl with precision-focused cymbal selection.
+A: Matt Halpern plays Pearl Reference Series with Meinl cymbals, while Alex Bent uses Pearl Reference Pure Series with Zildjian cymbals. Matt plays Pearl drums with Meinl cymbals for dark tones. Alex uses TAMA with precision-focused cymbal selection.
 
 **Q: What drums does Matt Halpern play vs Alex Bent?**
 A: Matt Halpern plays Pearl Reference Series. Alex Bent plays Pearl Reference Pure Series.
@@ -67,4 +67,4 @@ A: Matt Halpern uses Meinl Byzance Series (15" Dark Hi-Hats, 18" & 20" Extra Dry
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

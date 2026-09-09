@@ -82,6 +82,15 @@ function renderComparison(c) {
     parts.push('');
   }
 
+  // Curated FAQ (issue #7203): render hand-written Q&A pairs when present.
+  if (Array.isArray(c.faqs) && c.faqs.length) {
+    for (const { q, a } of c.faqs) {
+      parts.push(`**Q: ${q}**`);
+      parts.push(`A: ${a}`);
+      parts.push('');
+    }
+  }
+
   // Canonical link
   const drummer1Slug = Array.isArray(c.drummers) ? c.drummers[0] : '';
   const drummer2Slug = Array.isArray(c.drummers) ? c.drummers[1] : '';

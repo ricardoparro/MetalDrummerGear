@@ -34,7 +34,7 @@ Ward's technique is rooted in jazz — a swinging, open-handed feel inherited fr
 
 ## Key Differences
 
-Bill Ward played a Ludwig Classic Maple kit with a Ludwig Supraphonic 14x6.5" LM402 snare and Paiste 2002 & Giant Beat Series cymbals (15" Giant Beat Hi-Hats, 18" & 20" 2002 Crashes, 24" 2002 Ride, 18" 2002 China), driven by a Ludwig Atlas Pro double pedal and Vic Firth American Classic 2B sticks. Eloy Casagrande plays a Tama Starclassic Bubinga kit with a Tama Bell Brass 14x5.5" snare and Paiste cymbals (15" Masters Dark Hi-Hats, 20" Masters Dark Ride, 20" & 20" 602 Crashes, 20" 2002 Novo China), powered by a Tama Iron Cobra double pedal and Promark Eloy Casagrande Signature sticks. Ward's technique is rooted in jazz — a swinging, open-handed feel inherited from heroes Gene Krupa and Buddy Rich that prioritized groove and dynamics over speed, giving early Black Sabbath riffs like "Iron Man" and "War Pigs" their loose, hard-swinging heaviness rather than mechanical precision. Casagrande's technique is built for modern extreme dynamics — explosive double bass speed, technical fill construction, and the stamina to move between Sepultura's thrash-groove foundation and Slipknot's maximalist nine-member live show without losing precision.
+Bill Ward played a Ludwig Classic Maple kit with a Ludwig Supraphonic 14x6.5" LM402 snare and Zildjian Avedis Series cymbals (14" Hi-Hats, 16" & 18" Crashes, 20" Ride, 18" China), driven by a single Ludwig Speed King pedal — no double bass. Eloy Casagrande plays a Tama Starclassic Bubinga kit with a Tama Bell Brass 14x5.5" snare and Paiste cymbals (15" Masters Dark Hi-Hats, 20" Masters Dark Ride, 20" & 20" 602 Crashes, 20" 2002 Novo China), powered by a Tama Iron Cobra double pedal and Promark Eloy Casagrande Signature sticks. Ward's technique is rooted in jazz — a swinging, open-handed feel inherited from heroes Gene Krupa and Buddy Rich that prioritized groove and dynamics over speed, giving early Black Sabbath riffs like "Iron Man" and "War Pigs" their loose, hard-swinging heaviness rather than mechanical precision. Casagrande's technique is built for modern extreme dynamics — explosive double bass speed, technical fill construction, and the stamina to move between Sepultura's thrash-groove foundation and Slipknot's maximalist nine-member live show without losing precision.
 
 ## Influence & Legacy
 
@@ -46,17 +46,17 @@ Bill Ward and Eloy Casagrande stand at opposite ends of heavy metal drumming's g
 
 ## FAQ
 
-**Q: What are the main differences between Bill Ward's and Eloy Casagrande's drum kits?**
-A: Bill Ward plays Ludwig Classic Maple with Paiste cymbals, while Eloy Casagrande uses Tama Starclassic Bubinga (22"x16" & 24"x14" Bass Drums, 10", 12", 13" Toms, 16" & 18" Floor Toms) with Paiste cymbals. Bill Ward played a Ludwig Classic Maple kit with a Ludwig Supraphonic 14x6.5" LM402 snare and Paiste 2002 & Giant Beat Series cymbals (15" Giant Beat Hi-Hats, 18" & 20" 2002 Crashes, 24" 2002 Ride, 18" 2002 China), driven by a Ludwig Atlas Pro double pedal and Vic Firth American Classic 2B sticks. Eloy Casagrande plays a Tama Starclassic Bubinga kit with a Tama Bell Brass 14x5.5" snare and Paiste cymbals (15" Masters Dark Hi-Hats, 20" Masters Dark Ride, 20" & 20" 602 Crashes, 20" 2002 Novo China), powered by a Tama Iron Cobra double pedal and Promark Eloy Casagrande Signature sticks.
+**Q: How do Bill Ward and Eloy Casagrande compare as drummers?**
+A: Bill Ward co-founded Black Sabbath in 1968 and helped invent heavy metal drumming's jazz-influenced, swinging groove on foundational records like "Paranoid" (1970). Eloy Casagrande represents metal drumming's modern era — explosive speed and technical precision built across 13 years with Sepultura and, since 2024, Slipknot, earning Modern Drummer's No. 1 metal drummer honor in 2024. Ward founded the genre's vocabulary; Casagrande represents its contemporary technical peak.
 
-**Q: What drums does Bill Ward play vs Eloy Casagrande?**
-A: Bill Ward plays Ludwig Classic Maple. Eloy Casagrande plays Tama Starclassic Bubinga (22"x16" & 24"x14" Bass Drums, 10", 12", 13" Toms, 16" & 18" Floor Toms).
+**Q: What gear did Bill Ward and Eloy Casagrande use?**
+A: Bill Ward played a Ludwig Classic Maple kit with a Ludwig Supraphonic 14x6.5" LM402 snare and Zildjian Avedis Series cymbals. Eloy Casagrande plays a Tama Starclassic Bubinga kit with a Tama Bell Brass 14x5.5" snare and Paiste cymbals, powered by a Tama Iron Cobra double pedal.
 
-**Q: Who is the better alternative / nu-metal drummer, Bill Ward or Eloy Casagrande?**
-A: Both are legends in their own right. Bill Ward and Eloy Casagrande stand at opposite ends of heavy metal drumming's generational arc. See the full analysis at [metalforge.io/vs/bill-ward-vs-eloy-casagrande](https://metalforge.io/vs/bill-ward-vs-eloy-casagrande).
+**Q: What bands are Bill Ward and Eloy Casagrande known for?**
+A: Bill Ward co-founded and drummed for Black Sabbath from 1968 to 1983, and again from 1997 to 2006. Eloy Casagrande drummed for Sepultura from 2011 to 2024 before joining Slipknot in 2024.
 
-**Q: What cymbals do Bill Ward and Eloy Casagrande use?**
-A: Bill Ward uses Paiste 2002 & Giant Beat Series (15" Giant Beat Hi-Hats, 18" & 20" 2002 Crashes, 24" 2002 Ride, 18" 2002 China). Eloy Casagrande uses Paiste (15" Masters Dark Hi-Hats, 20" Masters Dark Ride, 20" & 20" 602 Crashes, 10" Rude Splash, 20" Masters Dark Crash, 20" 2002 Heavy Ride, 20" 2002 Novo China, 10" 2002 Mega Bell, Symphonic Gong).
+**Q: Has Eloy Casagrande won any drumming awards?**
+A: Yes — Eloy Casagrande was named the No. 1 metal drummer in Modern Drummer magazine's 2024 Readers' Poll, recognition that arrived the same year he joined Slipknot after 13 years with Sepultura.
 
 ---
 
@@ -67,4 +67,4 @@ A: Bill Ward uses Paiste 2002 & Giant Beat Series (15" Giant Beat Hi-Hats, 18" &
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

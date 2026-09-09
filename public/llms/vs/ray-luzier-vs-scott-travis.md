@@ -46,17 +46,20 @@ Ray Luzier and Scott Travis are metal's definitive examples of replacement drumm
 
 ## FAQ
 
-**Q: What are the main differences between Ray Luzier's and Scott Travis's drum kits?**
-A: Ray Luzier plays Pearl Reference Series with Sabian cymbals, while Scott Travis uses ddrum Dominion Series with Paiste cymbals. Ray Luzier plays a Pearl Reference Series kit with a Pearl Reference 14"x6.5" Brass snare and Sabian AAX Series cymbals (14" Stage Hi-Hats, 18"/19" X-Plosion Crashes, 21" Stage Ride, 18" AAXtreme China), powered by a DW 9002 double pedal and his signature Vic Firth Ray Luzier sticks. Scott Travis endorses a ddrum Dominion Series kit with a ddrum Scott Travis Signature 14"x6.5" snare and Paiste RUDE & 2002 Series cymbals (14" RUDE Hi-Hats, 18"/19" RUDE Crashes, 22" RUDE Power Ride, 18" RUDE China), driven by a DW 9000 Series double pedal mounted in a Gibraltar Rack System, with Vic Firth American Classic 5B sticks and Remo heads.
+**Q: Who is the current drummer for Korn?**
+A: Ray Luzier has been Korn's drummer since 2007, replacing founding member David Silveria. He made his live debut with the band in January 2008 and was officially announced as a full member in 2009.
 
-**Q: What drums does Ray Luzier play vs Scott Travis?**
-A: Ray Luzier plays Pearl Reference Series. Scott Travis plays ddrum Dominion Series.
+**Q: Who is the current drummer for Judas Priest?**
+A: Scott Travis has been Judas Priest's drummer since 1989, replacing Dave Holland. He is the only American member in the band's history and has recorded every Judas Priest album since "Painkiller" (1990), including 2024's "Invincible Shield."
 
-**Q: Who is the better alternative / nu-metal drummer, Ray Luzier or Scott Travis?**
-A: Both are legends in their own right. Ray Luzier and Scott Travis are metal's definitive examples of replacement drummers who equaled or outlasted the legacy era they joined. See the full analysis at [metalforge.io/vs/ray-luzier-vs-scott-travis](https://metalforge.io/vs/ray-luzier-vs-scott-travis).
+**Q: What gear do Ray Luzier and Scott Travis use?**
+A: Ray Luzier plays a Pearl Reference Series kit with Sabian AAX Series cymbals and a DW 9002 double pedal. Scott Travis plays a ddrum Dominion Series kit with Paiste RUDE & 2002 Series cymbals and a DW 9000 Series double pedal.
 
-**Q: What cymbals do Ray Luzier and Scott Travis use?**
-A: Ray Luzier uses Sabian AAX Series (14" Stage Hi-Hats, 18" & 19" X-Plosion Crashes, 21" Stage Ride, 18" AAXtreme China). Scott Travis uses Paiste RUDE & 2002 Series (14" RUDE Hi-Hats, 18" & 19" RUDE Crashes, 22" RUDE Power Ride, 18" RUDE China).
+**Q: What band did Scott Travis play in before Judas Priest?**
+A: Scott Travis was a founding member of neoclassical shred metal band Racer X, alongside guitarist Paul Gilbert, recording "Street Lethal" (1986) and "Second Heat" (1987) before joining Judas Priest in 1989.
+
+**Q: How long has Ray Luzier been Korn's drummer compared to Scott Travis in Judas Priest?**
+A: Ray Luzier has been Korn's drummer since 2007 (nearly two decades as of 2026). Scott Travis has been Judas Priest's drummer since 1989 (over 35 years) — the longest tenure of any drummer in the band's history.
 
 ---
 
@@ -67,4 +70,4 @@ A: Ray Luzier uses Sabian AAX Series (14" Stage Hi-Hats, 18" & 19" X-Plosion Cra
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

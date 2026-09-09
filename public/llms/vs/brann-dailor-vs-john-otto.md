@@ -46,17 +46,17 @@ Brann Dailor and John Otto show just how differently compositional density and d
 
 ## FAQ
 
-**Q: What are the main differences between Brann Dailor's and John Otto's drum kits?**
-A: Brann Dailor plays Tama Starclassic Performer B/B with Meinl cymbals, while John Otto uses Orange County Drum & Percussion (OCDP) Custom Type 5 Acrylic with Zildjian cymbals. Brann Dailor plays a Tama Starclassic Performer B/B kit with a Tama S.L.P. G-Maple snare and Meinl Byzance cymbals, driven by a Tama Speed Cobra double pedal and Vater 5B sticks. John Otto plays an Orange County Drum & Percussion (OCDP) Custom Type 5 Acrylic kit with dual signature OCDP snares and Zildjian A Custom cymbals, driven by Gibraltar G Class pedals — Otto has never needed a double pedal, relying instead on jazz-honed foot control for Limp Bizkit's groove-driven single-kick patterns.
+**Q: What is the difference between Brann Dailor's and John Otto's drumming styles?**
+A: Brann Dailor drives Mastodon's progressive sludge with flowing, constantly moving fills that treat the kit as a lead voice, while also handling co-lead vocal duties on many songs. John Otto anchors Limp Bizkit with disciplined, jazz-and-funk-informed grooves built around syncopated ghost notes and a tight single-pedal pocket, prioritizing restraint over Dailor's compositional density.
 
-**Q: What drums does Brann Dailor play vs John Otto?**
-A: Brann Dailor plays Tama Starclassic Performer B/B. John Otto plays Orange County Drum & Percussion (OCDP) Custom Type 5 Acrylic.
+**Q: What gear do Brann Dailor and John Otto use?**
+A: Brann Dailor plays a Tama Starclassic Performer B/B kit with a Tama S.L.P. G-Maple snare, Meinl Byzance cymbals, and a Tama Speed Cobra double pedal. John Otto plays an Orange County Drum & Percussion (OCDP) Custom Type 5 Acrylic kit with dual signature OCDP snares, Zildjian A Custom cymbals, and Gibraltar G Class pedals.
 
-**Q: Who is the better alternative / nu-metal drummer, Brann Dailor or John Otto?**
-A: Both are legends in their own right. Brann Dailor and John Otto show just how differently compositional density and disciplined groove can define heavy music drumming. See the full analysis at [metalforge.io/vs/brann-dailor-vs-john-otto](https://metalforge.io/vs/brann-dailor-vs-john-otto).
+**Q: What bands are Brann Dailor and John Otto known for?**
+A: Brann Dailor co-founded Mastodon in 2000 and remains the band's drummer and co-vocalist. John Otto has been Limp Bizkit's drummer and founding member since 1994.
 
-**Q: What cymbals do Brann Dailor and John Otto use?**
-A: Brann Dailor uses Meinl Byzance Series (14" Dark Hi-Hats, 18" & 19" Brilliant Heavy Hammered Crashes, 21" Ghost Ride, 18" Extra Dry China). John Otto uses Zildjian (13" A Custom Mastersound Hi-Hats, 16" & 17" A Custom Projection Crashes, 20" A Custom EFX, 20" FX Oriental Crash of Doom).
+**Q: Does Brann Dailor sing while drumming for Mastodon?**
+A: Yes — Brann Dailor serves as Mastodon's co-vocalist on many tracks, singing lead or co-lead vocals while simultaneously executing Mastodon's complex, flowing drum patterns, a rare combination among metal drummers. John Otto does not sing while drumming for Limp Bizkit.
 
 ---
 
@@ -67,4 +67,4 @@ A: Brann Dailor uses Meinl Byzance Series (14" Dark Hi-Hats, 18" & 19" Brilliant
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

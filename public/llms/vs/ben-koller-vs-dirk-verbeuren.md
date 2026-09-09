@@ -19,7 +19,7 @@ Converge's Ben Koller vs Megadeth's Dirk Verbeuren. Unpredictable mathcore inten
 ## Dirk Verbeuren Setup
 
 - **Drums:** Tama Starclassic Walnut/Birch
-- **Cymbals:** Zildjian A Custom & K Custom Series (14" A Custom Hi-Hats, 17", 18", 19" A Custom Crashes, 21" K Custom Hybrid Ride, 18" K China)
+- **Cymbals:** Meinl Byzance Brilliant & Classics Custom Dark Series (14" Byzance Brilliant Hi-Hat, 18"-21" Classics Custom Dark Crashes, 22" Byzance Brilliant Ride, 18" Byzance Brilliant China)
 - **Snare:** Tama S.L.P. Big Black Steel 14x6.5"
 - **Pedals/Hardware:** Tama Speed Cobra 910 Double Pedal, Tama Iron Cobra Hi-Hat Stand
 - **Sticks:** Tama O-DVM2 Dirk Verbeuren Signature
@@ -34,7 +34,7 @@ Koller's technique is built for maximum unpredictability — a loose, explosive 
 
 ## Key Differences
 
-Koller plays a Tama Starclassic Maple kit with a Tama S.L.P. 14x6" Brass snare and Zildjian K Dark Series cymbals, driven by a Tama Iron Cobra 900 double pedal. Verbeuren plays a Tama Starclassic Walnut/Birch kit with a Tama S.L.P. Big Black Steel 14x6.5" snare and Zildjian A Custom & K Custom cymbals, powered by Tama Speed Cobra 910 double pedals. Koller's technique is built for maximum unpredictability — a loose, explosive attack that thrives on Converge's constantly shifting time signatures, favoring gut-level feel over rehearsed precision. Verbeuren is known for extreme double bass speed, technical fills, and seamless transitions between blast beats and groove, a mathematical accuracy honed across Soilwork's melodic death metal catalog before he joined Megadeth.
+Koller plays a Tama Starclassic Maple kit with a Tama S.L.P. 14x6" Brass snare and Zildjian K Dark Series cymbals, driven by a Tama Iron Cobra 900 double pedal. Verbeuren plays a Tama Starclassic Walnut/Birch kit with a Tama S.L.P. Big Black Steel 14x6.5" snare and Meinl Byzance Brilliant & Classics Custom Dark cymbals, powered by Tama Speed Cobra 910 double pedals. Koller's technique is built for maximum unpredictability — a loose, explosive attack that thrives on Converge's constantly shifting time signatures, favoring gut-level feel over rehearsed precision. Verbeuren is known for extreme double bass speed, technical fills, and seamless transitions between blast beats and groove, a mathematical accuracy honed across Soilwork's melodic death metal catalog before he joined Megadeth.
 
 ## Influence & Legacy
 
@@ -47,7 +47,7 @@ Ben Koller and Dirk Verbeuren represent two entirely different approaches to tec
 ## FAQ
 
 **Q: What are the main differences between Ben Koller's and Dirk Verbeuren's drum kits?**
-A: Ben Koller plays Tama Starclassic Maple with Zildjian cymbals, while Dirk Verbeuren uses Tama Starclassic Walnut/Birch with Zildjian cymbals. Koller plays a Tama Starclassic Maple kit with a Tama S.L.P. 14x6" Brass snare and Zildjian K Dark Series cymbals, driven by a Tama Iron Cobra 900 double pedal. Verbeuren plays a Tama Starclassic Walnut/Birch kit with a Tama S.L.P. Big Black Steel 14x6.5" snare and Zildjian A Custom & K Custom cymbals, powered by Tama Speed Cobra 910 double pedals.
+A: Ben Koller plays Tama Starclassic Maple with Zildjian cymbals, while Dirk Verbeuren uses Tama Starclassic Walnut/Birch with Meinl cymbals. Koller plays a Tama Starclassic Maple kit with a Tama S.L.P. 14x6" Brass snare and Zildjian K Dark Series cymbals, driven by a Tama Iron Cobra 900 double pedal. Verbeuren plays a Tama Starclassic Walnut/Birch kit with a Tama S.L.P. Big Black Steel 14x6.5" snare and Meinl Byzance Brilliant & Classics Custom Dark cymbals, powered by Tama Speed Cobra 910 double pedals.
 
 **Q: What drums does Ben Koller play vs Dirk Verbeuren?**
 A: Ben Koller plays Tama Starclassic Maple. Dirk Verbeuren plays Tama Starclassic Walnut/Birch.
@@ -56,7 +56,7 @@ A: Ben Koller plays Tama Starclassic Maple. Dirk Verbeuren plays Tama Starclassi
 A: Both are legends in their own right. Ben Koller and Dirk Verbeuren represent two entirely different approaches to technical extreme drumming. See the full analysis at [metalforge.io/vs/ben-koller-vs-dirk-verbeuren](https://metalforge.io/vs/ben-koller-vs-dirk-verbeuren).
 
 **Q: What cymbals do Ben Koller and Dirk Verbeuren use?**
-A: Ben Koller uses Zildjian (14" K Dark Thin Hi-Hats, 18" & 19" K Dark Medium Thin Crashes, 21" K Custom Ride, 18" K China). Dirk Verbeuren uses Zildjian A Custom & K Custom Series (14" A Custom Hi-Hats, 17", 18", 19" A Custom Crashes, 21" K Custom Hybrid Ride, 18" K China).
+A: Ben Koller uses Zildjian (14" K Dark Thin Hi-Hats, 18" & 19" K Dark Medium Thin Crashes, 21" K Custom Ride, 18" K China). Dirk Verbeuren uses Meinl Byzance Brilliant & Classics Custom Dark Series (14" Byzance Brilliant Hi-Hat, 18"-21" Classics Custom Dark Crashes, 22" Byzance Brilliant Ride, 18" Byzance Brilliant China).
 
 ---
 
@@ -67,4 +67,4 @@ A: Ben Koller uses Zildjian (14" K Dark Thin Hi-Hats, 18" & 19" K Dark Medium Th
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

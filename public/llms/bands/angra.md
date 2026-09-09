@@ -86,4 +86,4 @@ A: Guitarist Rafael Bittencourt is the band's only continuously-present original
 
 **More resources:** [All bands](https://metalforge.io/llms/bands.md) · [Site index](https://metalforge.io/llms.txt)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

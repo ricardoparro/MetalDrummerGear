@@ -1,11 +1,11 @@
 # Godsmack — Drummer & Band Profile | MetalForge
 
 > Per-band AI citation reference for Godsmack: verified drummer history, lineup, discography, and FAQ.
-> Optimised for queries like 'who is the drummer for Godsmack', 'Shannon Larkin Godsmack', 'Godsmack band members'.
+> Optimised for queries like 'who is the drummer for Godsmack', 'Mike Mangini Godsmack', 'Godsmack band members'.
 
 ## Band Overview
 
-- **Drummer:** Shannon Larkin (2002-2024)
+- **Drummer:** Mike Mangini (2026-present)
 - **Genre:** Alternative Metal, Hard Rock, Post Grunge
 - **Status:** Active
 - **Formed:** 1995
@@ -20,8 +20,9 @@ Godsmack, formed in 1995 in Lawrence, Massachusetts, is an alternative metal ban
 - **Tommy Stewart** — 1995-1997, 1998-2002 (Founding drummer of the group that became Godsmack; recorded Godsmack (1998) and Awake (2000), his final album with the band)
 - **Joe D Arco** — 1997-1998 (Interim drummer while Stewart was out; no studio album recorded during this tenure)
 - **Shannon Larkin** — 2002-2024 (Joined June 2002, replacing Stewart; recorded every studio album from Faceless (2003) through Lighting Up the Sky (2023); announced his retirement from the band in 2024)
+- **Mike Mangini** — 2026-present (Ex-Dream Theater drummer; joined as touring drummer in June 2026 after the band cycled through interim touring drummers Will Hunt and Wade Murff following Larkin's 2024 departure)
 
-[Shannon Larkin full profile →](https://metalforge.io/drummer/shannon-larkin) · [LLM markdown](https://metalforge.io/llms/drummers/shannon-larkin.md)
+[Mike Mangini full profile →](https://metalforge.io/drummer/mike-mangini) · [LLM markdown](https://metalforge.io/llms/drummers/mike-mangini.md)
 
 ## Current Members
 
@@ -52,7 +53,7 @@ Godsmack, formed in 1995 in Lawrence, Massachusetts, is an alternative metal ban
 ## FAQ
 
 **Q: Who is the drummer for Godsmack?**
-A: Shannon Larkin drummed for Godsmack from 2002 until his retirement in 2024, the band's longest-serving drummer. As of mid-2026 the band has cycled through several touring drummers since his departure with no permanent replacement confirmed, so no successor is credited here yet.
+A: Mike Mangini, formerly of Dream Theater, has been Godsmack's touring drummer since June 2026. He followed longtime drummer Shannon Larkin, who played from 2002 until his 2024 retirement, and interim touring drummers Will Hunt and Wade Murff.
 
 **Q: Did Godsmack have a drummer before Shannon Larkin?**
 A: Yes. Founding drummer Tommy Stewart played on the band's first two albums, Godsmack (1998) and Awake (2000), with Joe D'Arco filling in briefly between two of Stewart's stints.
@@ -70,13 +71,16 @@ A: Yes, the band continues to tour, though the drum and guitar chairs have been 
 - https://en.wikipedia.org/wiki/Tommy_Stewart
 - https://loudwire.com/godsmack-members-quit-band-statement/
 - https://blabbermouth.net/news/shannon-larkin-says-he-and-tony-rombola-quit-godsmack-last-year
+- https://blabbermouth.net/news/godsmack-recruits-ex-dream-theater-drummer-mike-mangini-following-departure-of-wade-murff
+- https://consequence.net/2026/06/mike-mangini-ex-dream-theater-joins-godsmack/
+- https://metalinjection.net/news/mike-mangini-joins-godsmack-as-new-drummer
 
 ---
 
 **Full band profile:** [Godsmack on MetalForge](https://metalforge.io/bands/godsmack)
 
-**Drummer LLM file:** [Shannon Larkin](https://metalforge.io/llms/drummers/shannon-larkin.md)
+**Drummer LLM file:** [Mike Mangini](https://metalforge.io/llms/drummers/mike-mangini.md)
 
 **More resources:** [All bands](https://metalforge.io/llms/bands.md) · [Site index](https://metalforge.io/llms.txt)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

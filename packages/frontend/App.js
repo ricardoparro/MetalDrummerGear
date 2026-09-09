@@ -14467,12 +14467,38 @@ function BandDetailPage({ bandSlug, drummers, onBack, onSelectDrummer, theme }) 
         </View>
 
         {/* Drummer History Section - The main feature for Issue #349 */}
-        <DrummerHistorySection 
-          band={band} 
-          drummers={drummers} 
-          onSelectDrummer={onSelectDrummer} 
-          theme={theme} 
+        <DrummerHistorySection
+          band={band}
+          drummers={drummers}
+          onSelectDrummer={onSelectDrummer}
+          theme={theme}
         />
+
+        {/* Band Story / Metal Legacy - Issue #7208: render the editorial
+            prose added for #7138 that was never wired into the page. */}
+        {band.history && (
+          <View style={[styles.bandSummarySection, { backgroundColor: theme.card, borderColor: theme.border }]}>
+            {band.history.story && band.history.story.map((paragraph, index) => (
+              <Text key={index} style={[styles.bandSummaryText, { color: theme.secondaryText, marginBottom: spacing[3] }]}>
+                {paragraph}
+              </Text>
+            ))}
+            {band.history.metalEra && (
+              <>
+                <Text
+                  style={[styles.relatedBandsSectionTitle, { color: theme.text, marginBottom: spacing[3] }]}
+                  accessibilityRole="heading"
+                  aria-level="2"
+                >
+                  METAL LEGACY
+                </Text>
+                <Text style={[styles.bandSummaryText, { color: theme.secondaryText }]}>
+                  {band.history.metalEra}
+                </Text>
+              </>
+            )}
+          </View>
+        )}
 
         {/* Related Bands */}
         {band.relatedBands && band.relatedBands.length > 0 && (

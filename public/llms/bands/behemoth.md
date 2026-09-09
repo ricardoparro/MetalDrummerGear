@@ -22,6 +22,18 @@ Behemoth, formed in 1991, evolved from black metal to become a leading blackened
 
 [Inferno full profile →](https://metalforge.io/drummer/inferno) · [LLM markdown](https://metalforge.io/llms/drummers/inferno.md)
 
+## Band Story
+
+Behemoth formed in Gdańsk, Poland in 1991, founded by guitarist/vocalist Adam "Nergal" Darski during the country's early black metal scene. The band's first two albums, Sventevith (Storming Near the Baltic) (1995) and Grom (1996), were recorded with original drummer Adam "Baal Ravenlock" Muraszko in a raw, traditional black metal style typical of the era.
+
+Zbigniew "Inferno" Promiński joined in 1997 and, apart from a brief gap around the 1999 release of Satanica, has remained Behemoth's drummer ever since, recording every album from Pandemonic Incantations (1998) through the band's 30th-anniversary release Opvs Contra Natvram (2022). Under Inferno, Behemoth progressively folded death metal's density and technicality into its black metal foundation, arriving at the "blackened death metal" style that defines albums like Demigod (2004) and The Apostasy (2007).
+
+Nergal's 2010 leukemia diagnosis and subsequent bone marrow transplant threatened to end the band, but his recovery led directly to The Satanist (2014), widely regarded as Behemoth's creative peak and one of the most acclaimed extreme metal albums of the 2010s. Behemoth's elaborate stage productions and Nergal's outspoken public persona have made the band one of the most visible extreme metal acts to emerge from Eastern Europe.
+
+## Metal Legacy
+
+Inferno's drumming — precise blast beats combined with tightly controlled double-bass runs, played entirely live — became a benchmark for blackened death metal, a subgenre that demands both black metal's relentless tempo and death metal's rhythmic complexity simultaneously. His two-and-a-half-decade tenure, one of the longest of any drummer in extreme metal, has made him a reference point for drummers looking to bridge the raw intensity of black metal with the technical control of modern death metal.
+
 ## Current Members
 
 - **Adam "Nergal" Darski** — guitar, lead vocals — 1991-present (Founder; also played bass and rhythm guitar during various periods; recovered from leukemia diagnosed August 2010)
@@ -88,4 +100,4 @@ A: The band's name derives from the biblical creature referenced in the Book of 
 
 **More resources:** [All bands](https://metalforge.io/llms/bands.md) · [Site index](https://metalforge.io/llms.txt)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

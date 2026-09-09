@@ -25,6 +25,18 @@ Korn, formed in 1993 in Bakersfield, California, is credited with pioneering the
 
 [Ray Luzier full profile →](https://metalforge.io/drummer/ray-luzier) · [LLM markdown](https://metalforge.io/llms/drummers/ray-luzier.md)
 
+## Band Story
+
+Korn formed in Bakersfield, California in 1993, built around vocalist Jonathan Davis, guitarists James "Munky" Shaffer and Brian "Head" Welch, bassist Reginald "Fieldy" Arvizu, and founding drummer David Silveria. Their self-titled 1994 debut fused down-tuned, groove-heavy riffs with hip-hop-influenced rhythm and raw, confessional lyrics, a combination widely credited with kickstarting the nu-metal genre.
+
+Silveria's syncopated, hip-hop-inflected drumming anchored Korn through its most commercially dominant run, including the chart-topping Follow the Leader (1998) and Issues (1999). He departed in 2006 following the touring cycle for See You on the Other Side (2005), and after a 2007 self-titled album recorded with session drummers Terry Bozzio and Brooks Wackerman, Ray Luzier became Korn's full-time drummer in 2009, recording every album since Korn III: Remember Who You Are (2010).
+
+Korn's blend of alternative metal aggression with radio-friendly hooks opened the door for the nu-metal explosion of the late 1990s and early 2000s, directly influencing bands like Limp Bizkit, Slipknot, and Linkin Park. More than three decades after forming, the band remains active and continues to headline major festivals worldwide.
+
+## Metal Legacy
+
+David Silveria's drumming style — built on tight hi-hat work, syncopated grooves borrowed from funk and hip-hop, and a comparatively restrained approach to double bass — was a deliberate departure from the thrash and death metal drumming that dominated heavy music in the early 1990s, and it became a blueprint for the groove-first approach that defined nu-metal drumming. Ray Luzier brought greater technical range to the kit from 2010 onward while preserving the groove pocket that made Korn's rhythm section distinctive.
+
 ## Current Members
 
 - **Jonathan Davis** — vocals — 1993-present (Founding member)
@@ -85,4 +97,4 @@ A: Reginald 'Fieldy' Arvizu has been on hiatus from Korn since 2021 and stated i
 
 **More resources:** [All bands](https://metalforge.io/llms/bands.md) · [Site index](https://metalforge.io/llms.txt)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

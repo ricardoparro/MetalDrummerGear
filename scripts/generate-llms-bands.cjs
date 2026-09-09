@@ -78,6 +78,20 @@ function renderBand(band) {
     parts.push('');
   }
 
+  // History / metal legacy prose (if present) — Issue #7208: this editorial
+  // narrative was added for #7138 but never rendered anywhere.
+  if (band.history) {
+    if (Array.isArray(band.history.story) && band.history.story.length > 0) {
+      parts.push(band.history.story.join('\n\n'));
+      parts.push('');
+    }
+    if (band.history.metalEra) {
+      parts.push('**Metal legacy:**');
+      parts.push(band.history.metalEra);
+      parts.push('');
+    }
+  }
+
   // Discography (if present)
   if (Array.isArray(band.discography) && band.discography.length > 0) {
     const releases = band.discography

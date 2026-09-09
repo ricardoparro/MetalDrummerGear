@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Mapex"
 profile_url: "https://metalforge.io/drummer/matt-greiner"
 source: "https://metalforge.io"
-last_updated: "2026-09-08"
+last_updated: "2026-09-09"
 ---
 
 # Matt Greiner — Drum Kit & Gear Setup
@@ -40,6 +40,56 @@ Matt Greiner (born May 2, 1985, in Lancaster, Pennsylvania) is an American drumm
 
 His work with August Burns Red has earned a Grammy nomination and widespread critical acclaim. Greiner is also known for his Pearl signature snare drum and his contributions to drum education through clinics and social media content. His approach combines technical proficiency with musicality, influencing countless drummers in the heavy music scene.
 
+## Career Highlights
+
+- **2003** — Co-founded August Burns Red in Lancaster, Pennsylvania
+- **2005** — Released debut album "Thrill Seeker" on Solid State Records
+- **2007** — Released "Messengers," establishing ABR as metalcore leaders
+- **2009** — Released "Constellations," reaching #24 on Billboard 200
+- **2011** — Released "Leveler," reaching #11 on Billboard 200
+- **2015** — Released "Found in Far Away Places," Grammy-nominated
+- **2017** — Received Pearl Drums Matt Greiner Signature Snare
+- **2019** — Released "Guardians," reaching #9 on Billboard 200
+- **2020** — Grammy nomination for Best Metal Performance ("Defender")
+- **2023** — Released "Death Below" to critical acclaim
+
+## Style & Influences
+
+Matt Greiner's drumming style is characterized by powerful, precise playing with a unique approach to metalcore rhythms. He incorporates jazz-influenced dynamics, creative cymbal work, and intricate kick patterns while maintaining the heavy foundation that metalcore demands.
+
+**Key Influences:**
+- **Chris Adler (Lamb of God)**: Groove metal precision and kick patterns
+- **Danny Carey (Tool)**: Progressive approach and musicality
+- **Tony Royster Jr.**: Jazz fusion technique
+- **Brann Dailor (Mastodon)**: Progressive metal creativity
+
+**Signature Techniques:**
+- Rapid-fire double bass with distinctive patterns
+- Creative use of stack cymbals and effects
+- Dynamic range from delicate to crushing
+- Complex hi-hat and ride patterns
+- Seamless odd time signature integration
+
+## Notable Recordings
+
+**Albums:**
+
+- **August Burns Red - Thrill Seeker** (2005, Solid State) — Debut album
+- **August Burns Red - Messengers** (2007, Solid State) — Breakthrough album
+- **August Burns Red - Constellations** (2009, Solid State) — #24 Billboard 200
+- **August Burns Red - Leveler** (2011, Solid State) — #11 Billboard 200
+- **August Burns Red - Rescue & Restore** (2013, Solid State) — #9 Billboard 200
+- **August Burns Red - Found in Far Away Places** (2015, Fearless) — Grammy nominated
+- **August Burns Red - Phantom Anthem** (2017, Fearless) — #10 Billboard 200
+- **August Burns Red - Guardians** (2020, Fearless) — Grammy nominated
+- **August Burns Red - Death Below** (2023, SharpTone) — Most recent release
+
+**Tours:**
+
+- **Warped Tour** (Multiple years) — Staple Warped Tour band
+- **Headline Tours** (Ongoing) — Extensive worldwide touring
+- **Christmas Burns Red** (Annual) — Popular annual Christmas shows
+
 ## Band History
 
 - **August Burns Red** — 2006–present (current)
@@ -52,22 +102,6 @@ His work with August Burns Red has earned a Grammy nomination and widespread cri
 - **Hardware:** DW 9000 Series Double Pedal, DW 9100 Throne
 - **Sticks:** Vic Firth Matt Greiner Signature
 - **Heads:** Evans G2 / EMAD2
-
-## Endorsements
-
-- [Mapex Drums](https://mapexdrums.com)
-- [Paiste Cymbals](https://www.paiste.com)
-- [Vic Firth Sticks](https://vicfirth.zildjian.com)
-- [Evans Drumheads](https://www.daddario.com/evans)
-- [DW Hardware](https://www.dwdrums.com)
-
-## Endorsements
-
-- [Mapex Drums](https://mapexdrums.com)
-- [Paiste Cymbals](https://www.paiste.com)
-- [Vic Firth Sticks](https://vicfirth.zildjian.com)
-- [Evans Drumheads](https://www.daddario.com/evans)
-- [DW Hardware](https://www.dwdrums.com)
 
 ## Endorsements
 
@@ -124,6 +158,17 @@ A: August Burns Red has received multiple Grammy nominations but has not yet won
 **Q: How long has Matt Greiner been in August Burns Red?**
 
 A: Matt Greiner co-founded August Burns Red in 2003 and has been their drummer for over 20 years.
+
+## Trivia
+
+- Born and raised in Lancaster, Pennsylvania (Amish Country)
+- August Burns Red is known for their elaborate Christmas albums and shows
+- Grammy nomination for Best Metal Performance for "Defender" (2020)
+- The band has released multiple critically acclaimed Christmas albums
+- Known for his Christian faith, which influences the band's lyrics
+- Before his 2016 switch to Mapex, his Pearl signature snare was designed for cutting through dense guitar mixes
+- Conducts drum clinics worldwide, known for educational approach
+- August Burns Red celebrated 20 years as a band in 2023
 
 ## Quotes
 
@@ -194,10 +239,17 @@ Historical gear pricing and value: [Matt Greiner's gear price history](https://m
 
 Dated brand-endorsement timeline: [Matt Greiner's endorsement history](https://metalforge.io/llms/endorsements/matt-greiner.md).
 
+## Sources
+
+- [August Burns Red Official](https://www.augustburnsred.com)
+- [Mapex Drums Artist Profile](https://mapexdrums.com)
+- [Paiste Cymbals Artist Profile](https://www.paiste.com)
+- [Wikipedia: August Burns Red](https://en.wikipedia.org/wiki/August_Burns_Red)
+
 ---
 
 **Full interactive profile:** [Matt Greiner on MetalForge](https://metalforge.io/drummer/matt-greiner)
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

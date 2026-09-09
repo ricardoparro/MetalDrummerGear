@@ -6,7 +6,7 @@ country: "Poland"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/daray"
 source: "https://metalforge.io"
-last_updated: "2026-09-08"
+last_updated: "2026-09-09"
 ---
 
 # Daray — Drum Kit & Gear Setup
@@ -41,6 +41,53 @@ Dariusz "Daray" Brzozowski (born August 23, 1984, in Warsaw, Poland) is a Polish
 
 Daray's drumming combines extreme speed and technical precision with theatrical flair, making him ideally suited for Dimmu Borgir's grandiose symphonic productions. His ability to perform complex, blistering patterns while maintaining the dynamics required for orchestral metal has established him as one of the premier drummers in extreme metal.
 
+## Career Highlights
+
+- **2003** — Joined Polish black metal band Vesania
+- **2006** — Joined Vader, Poland's most internationally recognized death metal band
+- **2008** — Joined Dimmu Borgir, replacing Hellhammer
+- **2010** — Recorded "Abrahadabra" with Dimmu Borgir and full orchestra
+- **2011** — Released "Welcome to the Morbid Reich" with Vader
+- **2014** — Recorded "Forces of the Northern Night" live album with Dimmu Borgir
+- **2016** — Left Vader to focus exclusively on Dimmu Borgir
+- **2018** — Released "Eonian" with Dimmu Borgir
+- **2023** — Performed at major European festivals with Dimmu Borgir
+
+## Style & Influences
+
+Daray's drumming style combines the extreme speed and brutality of death metal with the dynamic range required for symphonic black metal. His ability to balance blistering blast beats with theatrical, orchestral sections makes him uniquely suited for Dimmu Borgir's cinematic sound.
+
+**Key Influences:**
+- **Doc (Vader)**: Polish death metal precision
+- **Hellhammer (Mayhem)**: Black metal foundation
+- **Inferno (Behemoth)**: Polish extreme metal intensity
+- **George Kollias (Nile)**: Technical death metal speed
+
+**Signature Techniques:**
+- Sustained blast beats at extreme tempos with clarity
+- Dynamic control for symphonic/orchestral passages
+- Powerful double bass patterns that complement orchestral arrangements
+- Theatrical stage presence befitting black metal aesthetics
+- Seamless transitions between extreme and ambient sections
+
+## Notable Recordings
+
+**Albums:**
+
+- **Vesania - Distractive Killusions** (2007, Napalm) — Polish black metal
+- **Vader - XXV** (2008, Nuclear Blast) — Anniversary album
+- **Dimmu Borgir - Abrahadabra** (2010, Nuclear Blast) — Full orchestra production
+- **Vader - Welcome to the Morbid Reich** (2011, Nuclear Blast) — Thrash-influenced death metal
+- **Vader - Tibi et Igni** (2014, Nuclear Blast) — Final album with Daray
+- **Dimmu Borgir - Forces of the Northern Night** (2017, Nuclear Blast) — Live with orchestra
+- **Dimmu Borgir - Eonian** (2018, Nuclear Blast) — Most recent studio album
+
+**Tours:**
+
+- **Wacken Open Air** (Multiple years) — Major European festival appearances
+- **Dimmu Borgir Forces Tour** (2018-2019) — Eonian world tour
+- **European Summer Festivals** (2022-2023) — Festival circuit with Dimmu Borgir
+
 ## Band History
 
 - **Dimmu Borgir** — 2007–present (current)
@@ -54,18 +101,6 @@ Daray's drumming combines extreme speed and technical precision with theatrical 
 - **Hardware:** Pearl Demon XR Double Pedal
 - **Sticks:** Vic Firth American Classic Extreme 5B
 - **Heads:** Evans
-
-## Endorsements
-
-- [Pearl Drums](https://pearldrum.com)
-- [Paiste Cymbals](https://www.paiste.com)
-- [Vic Firth Sticks](https://vicfirth.zildjian.com)
-
-## Endorsements
-
-- [Pearl Drums](https://pearldrum.com)
-- [Paiste Cymbals](https://www.paiste.com)
-- [Vic Firth Sticks](https://vicfirth.zildjian.com)
 
 ## Endorsements
 
@@ -114,6 +149,17 @@ A: Daray (Dariusz Brzozowski) has drummed for Dimmu Borgir since 2008 and previo
 **Q: Does Daray use trigger-assisted drums?**
 
 A: Daray uses trigger-assisted drums live to maintain consistency at the extreme tempos Dimmu Borgir's symphonic productions demand, and relies on in-ear monitoring to stay synchronized with orchestral arrangements during performances.
+
+## Trivia
+
+- Real name is Dariusz Brzozowski; "Daray" is his stage name
+- Was simultaneously a member of both Vader and Dimmu Borgir from 2008-2016
+- Replaced legendary drummer Hellhammer in Dimmu Borgir
+- Performed with full symphony orchestra on Dimmu Borgir productions
+- Is one of the most prominent Polish drummers in international metal
+- His work with Vader showcased pure death metal speed and precision
+- Dimmu Borgir's elaborate live shows require meticulous timing for pyrotechnics
+- Has appeared in multiple Dimmu Borgir music videos with full corpse paint
 
 ## Gear Evolution Timeline
 
@@ -169,10 +215,17 @@ Historical gear pricing and value: [Daray's gear price history](https://metalfor
 
 Dated brand-endorsement timeline: [Daray's endorsement history](https://metalforge.io/llms/endorsements/daray.md).
 
+## Sources
+
+- [Pearl Drums](https://pearldrum.com)
+- [Dimmu Borgir Official](https://www.dimmu-borgir.com)
+- [Paiste Cymbals](https://www.paiste.com)
+- [Wikipedia: Daray](https://en.wikipedia.org/wiki/Dariusz_Brzozowski)
+
 ---
 
 **Full interactive profile:** [Daray on MetalForge](https://metalforge.io/drummer/daray)
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/jimmy-degrasso"
 source: "https://metalforge.io"
-last_updated: "2026-09-08"
+last_updated: "2026-09-09"
 ---
 
 # Jimmy DeGrasso — Drum Kit & Gear Setup
@@ -41,6 +41,43 @@ Jimmy DeGrasso (born March 16, 1963, in Bethlehem, Pennsylvania) is an American 
 
 DeGrasso relocated to Los Angeles in the 1980s and played on pre-production demos for Ozzy Osbourne's The Ultimate Sin, though he was replaced by Randy Castillo before the album was recorded. He went on to hold touring and recording drum kit chairs in Y&T (1987-1991, 1995-1997), Suicidal Tendencies (1992-1995), and Alice Cooper (1994-1998, 2008-2010), later also drumming for Dokken, Black Star Riders, and Ratt. Across every band, DeGrasso's drum set work is defined by a hard-hitting, pocket-focused approach built to serve arena-scale hard rock and thrash arrangements rather than technical showmanship for its own sake.
 
+## Career Highlights
+
+- **1987** — Joined Y&T as drummer for the first of two tenures (1987-1991)
+- **1992** — Joined Suicidal Tendencies, drumming through 1995
+- **1994** — Joined Alice Cooper's touring/recording band for the first of two stints (1994-1998)
+- **1998** — Joined Megadeth as drummer, learning the band's full catalogue on short notice
+- **1999** — Recorded Risk, his first studio album with Megadeth
+- **2001** — Recorded The World Needs a Hero with Megadeth
+- **2002** — Appeared on Rude Awakening, Megadeth's first live album, before departing the band
+- **2008** — Rejoined Alice Cooper's band for a second stint (2008-2010)
+
+## Style & Influences
+
+Jimmy DeGrasso's drumming prioritizes pocket, power, and reliability over technical flash — the qualities that made him a first-call drummer for major hard rock and thrash acts across four decades. His playing adapts to each band's demands, from Y&T's melodic hard rock to Suicidal Tendencies' crossover thrash-funk to Megadeth's precision-driven Big Four thrash metal.
+
+**Key Influences:**
+- **Arena hard rock drumming**: Shaped his pocket-first, song-serving approach across Y&T and Alice Cooper
+- **Thrash metal contemporaries**: Informed his tighter, more aggressive attack during his Megadeth tenure
+
+**Signature Techniques:**
+- Hard-hitting, high-energy backbeat built for large-venue hard rock and thrash
+- Fast adaptation to a new band's existing catalogue, demonstrated when he joined Megadeth on short notice
+- Consistent, powerful double-bass work across Risk and The World Needs a Hero
+
+## Notable Recordings
+
+**Albums:**
+
+- **Megadeth - Risk** (1999, Capitol Records) — DeGrasso's first studio album with Megadeth
+- **Megadeth - The World Needs a Hero** (2001, Sanctuary Records) — Return to a heavier Megadeth sound
+- **Megadeth - Rude Awakening** (2002, Sanctuary Records) — Megadeth's first live album
+
+**Tours:**
+
+- **Megadeth World Tours** (1998-2002) — Touring cycles for Risk and The World Needs a Hero
+- **Alice Cooper Touring** (1994-1998, 2008-2010) — Two separate touring/recording stints
+
 ## Band History
 
 - **Megadeth** — 1998–2002
@@ -57,20 +94,6 @@ DeGrasso relocated to Los Angeles in the 1980s and played on pre-production demo
 - **Heads:** Evans
 
 Hardware/pedal brand not independently confirmed — omitted rather than guessed.
-
-## Endorsements
-
-- [Pearl Drums](https://pearldrum.com)
-- [Sabian Cymbals](https://sabian.com)
-- [Promark Sticks](https://www.daddario.com/promark)
-- [Evans Drumheads](https://www.daddario.com/evans)
-
-## Endorsements
-
-- [Pearl Drums](https://pearldrum.com)
-- [Sabian Cymbals](https://sabian.com)
-- [Promark Sticks](https://www.daddario.com/promark)
-- [Evans Drumheads](https://www.daddario.com/evans)
 
 ## Endorsements
 
@@ -125,6 +148,14 @@ A: Jimmy DeGrasso played on pre-production demos for Ozzy Osbourne's The Ultimat
 
 A: Jimmy DeGrasso joined Megadeth in 1998 with only days of notice, learning the band's full back catalogue quickly to begin touring.
 
+## Trivia
+
+- Joined Megadeth in 1998 with only days of notice to learn the band's full back catalogue for touring
+- Played on pre-production demos for Ozzy Osbourne's The Ultimate Sin before being replaced by Randy Castillo
+- Has his own Pearl signature snare drum, the JD1455, unveiled at the 2008 NAMM Show
+- Held two separate tenures each in Y&T and Alice Cooper's band
+- Also drummed for Dokken, Black Star Riders, and Ratt later in his career
+
 ## Signature Licks on MetalForge
 
 MetalForge has 1 signature lick tutorial(s) for Jimmy DeGrasso:
@@ -149,10 +180,17 @@ Historical gear pricing and value: [Jimmy DeGrasso's gear price history](https:/
 
 Dated brand-endorsement timeline: [Jimmy DeGrasso's endorsement history](https://metalforge.io/llms/endorsements/jimmy-degrasso.md).
 
+## Sources
+
+- [Wikipedia: Jimmy DeGrasso](https://en.wikipedia.org/wiki/Jimmy_DeGrasso)
+- [Sabian Artist Page — Jimmy DeGrasso](https://sabian.com/artist/jimmy-degrasso/)
+- [MusicRadar — Megadeth Drummer Reveals Pearl Signature Snare](https://www.musicradar.com/news/drums/namm-2008-megadeth-drummer-reveals-pearl-signature-snare-126963)
+- [Sweetwater — Pearl JD1455 Jimmy DeGrasso Signature Snare](https://www.sweetwater.com/store/detail/JD1455--pearl-jimmy-degrasso-signature-snare)
+
 ---
 
 **Full interactive profile:** [Jimmy DeGrasso on MetalForge](https://metalforge.io/drummer/jimmy-degrasso)
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

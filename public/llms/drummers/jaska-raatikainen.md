@@ -6,7 +6,7 @@ country: "Finland"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/jaska-raatikainen"
 source: "https://metalforge.io"
-last_updated: "2026-09-08"
+last_updated: "2026-09-09"
 ---
 
 # Jaska Raatikainen — Drum Kit & Gear Setup
@@ -40,6 +40,59 @@ Jaska Raatikainen (born July 18, 1979, in Espoo, Finland) was the drummer and co
 
 Children of Bodom became one of Finland's most successful metal exports, selling over 2 million albums worldwide. Raatikainen's drumming combined blast beats, complex double bass patterns, and progressive elements that complemented Laiho's virtuosic guitar work. The band announced their dissolution in 2019 after 26 years together. Following Alexi Laiho's tragic death in December 2020, Children of Bodom's legacy became permanently sealed in metal history.
 
+## Career Highlights
+
+- **1993** — Co-founded Inearthed (later Children of Bodom) with Alexi Laiho in Espoo, Finland
+- **1997** — Band renamed to Children of Bodom; released debut "Something Wild"
+- **1999** — Released "Hatebreeder," establishing international recognition
+- **2000** — Released "Follow the Reaper," breakthrough album
+- **2003** — Released "Hate Crew Deathroll," commercial peak
+- **2005** — Released "Are You Dead Yet?," mainstream success
+- **2008** — Released "Blooddrunk," continued evolution
+- **2013** — Released "Halo of Blood," return to melodic roots
+- **2015** — Released "I Worship Chaos," continued evolution
+- **2019** — Released "Hexed," final Children of Bodom album; band dissolution announced
+- **2020** — December 29: Alexi Laiho passes away; Children of Bodom legacy sealed
+
+## Style & Influences
+
+Jaska Raatikainen's drumming style perfectly complemented Children of Bodom's unique blend of neoclassical melodic death metal. His playing featured intricate double bass patterns, precise blast beats, and a musical sensibility that supported Alexi Laiho's guitar virtuosity.
+
+**Key Influences:**
+- **Dave Lombardo (Slayer)**: Thrash metal foundation
+- **Pete Sandoval (Morbid Angel)**: Death metal intensity
+- **Vinnie Paul (Pantera)**: Groove and power
+- **Nicko McBrain (Iron Maiden)**: Galloping patterns
+- **Finnish metal scene**: Power metal influences
+
+**Signature Techniques:**
+- **Melodic death metal precision**: Clean execution at high speeds
+- **Neoclassical-complementary patterns**: Drums that enhance keyboard and guitar melodies
+- **Double bass musicality**: Kick patterns that follow melodic contours
+- **Dynamic control**: Ability to shift between intense and atmospheric moments
+- **Consistent live performance**: Reliability across extensive touring
+
+## Notable Recordings
+
+**Albums:**
+
+- **Something Wild** (1997, Spinefarm) — Debut album
+- **Hatebreeder** (1999, Spinefarm) — International breakthrough
+- **Follow the Reaper** (2000, Spinefarm) — Defining album
+- **Hate Crew Deathroll** (2003, Spinefarm) — Commercial peak
+- **Are You Dead Yet?** (2005, Spinefarm) — Mainstream success
+- **Blooddrunk** (2008, Spinefarm) — Continued evolution
+- **Relentless Reckless Forever** (2011, Spinefarm) — Heavy direction
+- **Halo of Blood** (2013, Nuclear Blast) — Return to melodic roots
+- **I Worship Chaos** (2015, Nuclear Blast) — Modern era
+- **Hexed** (2019, Nuclear Blast) — Final album
+
+**Tours:**
+
+- **Ozzfest** (2006) — Major US exposure
+- **Mayhem Festival** (2009) — US summer touring
+- **A Chapter Called Children of Bodom Tour** (2019) — Final tour; Finland only
+
 ## Band History
 
 - **Children of Bodom** — 1993–2019
@@ -52,18 +105,6 @@ Children of Bodom became one of Finland's most successful metal exports, selling
 - **Hardware:** Pearl Eliminator Double Pedal
 - **Sticks:** Vic Firth American Classic 5A
 - **Heads:** Remo
-
-## Endorsements
-
-- [Pearl Drums](https://pearldrum.com)
-- [Zildjian Cymbals](https://zildjian.com)
-- [Vic Firth Sticks](https://vicfirth.zildjian.com)
-
-## Endorsements
-
-- [Pearl Drums](https://pearldrum.com)
-- [Zildjian Cymbals](https://zildjian.com)
-- [Vic Firth Sticks](https://vicfirth.zildjian.com)
 
 ## Endorsements
 
@@ -119,6 +160,19 @@ A: Jaska Raatikainen uses Remo drumheads across his Pearl Masters Premium Maple 
 
 A: Jaska Raatikainen uses 14" Zildjian A Custom Hi-Hats for a bright, cutting chick, mounted on his Pearl Masters Premium Maple drum kit and drum set.
 
+## Trivia
+
+- Co-founded Children of Bodom at age 14 with Alexi Laiho
+- The band was originally called "Inearthed" before adopting the Children of Bodom name
+- Children of Bodom is named after the unsolved Lake Bodom murders in Finland
+- Performed on every Children of Bodom album from 1997 to 2019
+- The band sold over 2 million albums worldwide
+- Was known for his professional, no-drama approach in a genre known for excess
+- Children of Bodom's final show was on December 15, 2019, in Helsinki
+- Following Alexi Laiho's death in 2020, the remaining members have honored his legacy
+- Contributed to Warmen, the keyboard-focused project of CoB keyboardist Janne Wirman
+- The band influenced countless melodic death metal and power metal acts
+
 ## Signature Licks on MetalForge
 
 MetalForge has 6 signature lick tutorial(s) for Jaska Raatikainen:
@@ -172,10 +226,16 @@ Historical gear pricing and value: [Jaska Raatikainen's gear price history](http
 
 Dated brand-endorsement timeline: [Jaska Raatikainen's endorsement history](https://metalforge.io/llms/endorsements/jaska-raatikainen.md).
 
+## Sources
+
+- [Nuclear Blast Records](https://www.nuclearblast.com)
+- [Pearl Drums](https://pearldrum.com)
+- [Wikipedia: Jaska Raatikainen](https://en.wikipedia.org/wiki/Jaska_Raatikainen)
+
 ---
 
 **Full interactive profile:** [Jaska Raatikainen on MetalForge](https://metalforge.io/drummer/jaska-raatikainen)
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

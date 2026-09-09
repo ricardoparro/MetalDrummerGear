@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Tama"
 profile_url: "https://metalforge.io/drummer/brann-dailor"
 source: "https://metalforge.io"
-last_updated: "2026-09-08"
+last_updated: "2026-09-09"
 ---
 
 # Brann Dailor — Drum Kit & Gear Setup
@@ -41,6 +41,59 @@ Brann Dailor (born March 19, 1975, in Rochester, New York) is an American musici
 
 Dailor's drumming is characterized by constant motion—intricate fills that weave around the riffs rather than simply keeping time. His "lead drums" approach treats the drums as a melodic instrument, and his increasingly prominent vocal contributions have added another dimension to Mastodon's sound. He co-founded Mastodon in 2000 with guitarist Bill Kelliher, his longtime collaborator from their days in Lethargy and Today Is the Day.
 
+## Career Highlights
+
+- **1992** — Founded avant-garde metal band Lethargy in Rochester, NY; Bill Kelliher joined on guitar in 1994
+- **1996** — Joined Today Is the Day, recording "Temple of the Morning Star"
+- **2000** — Co-founded Mastodon in Atlanta, Georgia
+- **2002** — Released "Remission," Mastodon's debut album
+- **2004** — Released "Leviathan," a concept album inspired by Moby Dick
+- **2006** — Released "Blood Mountain," featuring guest vocals from Josh Homme
+- **2009** — Released "Crack the Skye," widely considered Mastodon's masterpiece
+- **2011** — Released "The Hunter," featuring more accessible songwriting
+- **2014** — Released "Once More 'Round the Sun"
+- **2017** — Won Grammy for Best Metal Performance for "Sultan's Curse"
+- **2021** — Released "Hushed and Grim," a double album honoring manager Nick John
+- **2024** — Continues touring as one of metal's premier live acts
+
+## Style & Influences
+
+Brann Dailor's drumming defies conventional metal norms. Rather than locking into static patterns, his style features constantly evolving fills and rhythmic variations that flow through songs like a melodic instrument. He has described his approach as "lead drums."
+
+**Key Influences:**
+- **Neil Peart (Rush)**: Progressive complexity and composition
+- **Bill Bruford (Yes/King Crimson)**: Jazz-influenced progressive rock
+- **Stewart Copeland (The Police)**: Rhythmic creativity and dynamics
+- **Gene Hoglan (Death)**: Technical death metal foundation
+
+**Signature Techniques:**
+- "Lead drums" approach with constant fills and variations
+- Jazz-influenced linear patterns and ghost notes
+- Melodic tom work creating almost riff-like patterns
+- Seamless integration of complex rhythms within heavy contexts
+- Use of China cymbals for accents and transitions
+- Increasingly prominent vocal contributions (clean and harsh)
+
+## Notable Recordings
+
+**Albums:**
+
+- **Mastodon - Remission** (2002, Relapse) — Blistering debut
+- **Mastodon - Leviathan** (2004, Relapse) — Moby Dick concept album
+- **Mastodon - Blood Mountain** (2006, Reprise) — Major label debut
+- **Mastodon - Crack the Skye** (2009, Reprise) — Prog masterpiece
+- **Mastodon - The Hunter** (2011, Reprise) — Accessible evolution
+- **Mastodon - Once More 'Round the Sun** (2014, Reprise) — Continued success
+- **Mastodon - Emperor of Sand** (2017, Reprise) — Grammy-winning album
+- **Mastodon - Hushed and Grim** (2021, Reprise) — Epic double album
+- **Today Is the Day - Temple of the Morning Star** (1997, Relapse) — Pre-Mastodon
+
+**Tours:**
+
+- **Unholy Alliance Tour** (2006) — With Slayer and Lamb of God
+- **Download Festival** (2007, 2012) — Multiple headlining appearances
+- **An Evening with Mastodon** (2022-2023) — Co-headlining with Gojira
+
 ## Band History
 
 - **Mastodon** — 2000–present (current)
@@ -53,20 +106,6 @@ Dailor's drumming is characterized by constant motion—intricate fills that wea
 - **Cymbals:** Meinl Byzance Series (14" Dark Hi-Hats, 18" & 19" Brilliant Heavy Hammered Crashes, 21" Ghost Ride, 18" Extra Dry China)
 - **Hardware:** Tama Speed Cobra Double Pedal, Tama Iron Cobra Lever Glide Hi-Hat Stand, Tama 1st Chair Ergo-Rider Throne
 - **Sticks:** Vater 5B
-
-## Endorsements
-
-- [Tama Drums](https://www.tama.com)
-- [Meinl Cymbals](https://meinlcymbals.com)
-- [Vater Drumsticks](https://www.vater.com)
-- [Evans Drumheads](https://www.daddario.com/evans)
-
-## Endorsements
-
-- [Tama Drums](https://www.tama.com)
-- [Meinl Cymbals](https://meinlcymbals.com)
-- [Vater Drumsticks](https://www.vater.com)
-- [Evans Drumheads](https://www.daddario.com/evans)
 
 ## Endorsements
 
@@ -119,6 +158,18 @@ A: Brann Dailor is the drummer and co-vocalist for progressive sludge metal band
 
 A: Brann Dailor's hardware includes a Tama Iron Cobra Lever Glide hi-hat stand and Tama 1st Chair Ergo-Rider throne, supporting the fluid movement across his Starclassic Performer B/B drum kit and drum set.
 
+## Trivia
+
+- His drumming on "Colony of Birchmen" is considered one of the most complex in mainstream metal
+- The album "Crack the Skye" is partially dedicated to his late sister Skye
+- Has become one of Mastodon's primary vocalists, singing lead on several tracks
+- Attended the same high school as Bill Kelliher in Rochester, NY
+- Known for his trademark flowing hair and energetic live performances
+- "Leviathan" was inspired by Herman Melville's novel Moby Dick
+- His drumming style has been studied in academic music theory contexts
+- Won Grammy for "Sultan's Curse" in 2017, one of metal's highest honors
+- Has cited jazz drummers as major influences despite playing extreme metal
+
 ## Signature Licks on MetalForge
 
 MetalForge has 6 signature lick tutorial(s) for Brann Dailor:
@@ -148,10 +199,16 @@ Historical gear pricing and value: [Brann Dailor's gear price history](https://m
 
 Dated brand-endorsement timeline: [Brann Dailor's endorsement history](https://metalforge.io/llms/endorsements/brann-dailor.md).
 
+## Sources
+
+- [Meinl Cymbals Artist Profile](https://meinlcymbals.com/en/artists/brann-dailor-a1107.html)
+- [Modern Drummer Magazine](https://www.moderndrummer.com)
+- [Wikipedia: Brann Dailor](https://en.wikipedia.org/wiki/Brann_Dailor)
+
 ---
 
 **Full interactive profile:** [Brann Dailor on MetalForge](https://metalforge.io/drummer/brann-dailor)
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

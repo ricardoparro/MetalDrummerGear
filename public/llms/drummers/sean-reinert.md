@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Tama"
 profile_url: "https://metalforge.io/drummer/sean-reinert"
 source: "https://metalforge.io"
-last_updated: "2026-09-08"
+last_updated: "2026-09-09"
 ---
 
 # Sean Reinert — Drum Kit & Gear Setup
@@ -43,6 +43,47 @@ Sean Reinert (January 23, 1971 – January 24, 2020) was an American drummer wid
 
 Reinert brought a jazz-trained musical vocabulary into death metal at a moment when the genre was defined almost entirely by blast-beat velocity. His ghost notes, dynamic control, and polymetric phrasing on Human are widely credited as the birth of progressive death metal — proof that extreme metal drumming could be both punishing and genuinely musical. Reinert passed away on January 24, 2020, one day after his 49th birthday, leaving behind a body of work that remains a touchstone for technical and progressive death metal drummers.
 
+## Career Highlights
+
+- **1987** — Co-founded Cynic in Miami, Florida, with guitarist/vocalist Paul Masvidal
+- **1990** — Joined Death, Chuck Schuldiner's pioneering death metal band
+- **1991** — Recorded Human at Morrisound Recording, widely considered the birth of progressive death metal
+- **1993** — Released Focus with Cynic, fusing death metal intensity with jazz-fusion complexity
+- **1999** — Contributed to Gordian Knot's Emergent alongside Sean Malone
+- **2006** — Reunited with Cynic after a 12-year hiatus
+- **2008** — Released Traced in Air with Cynic on a DW Collector's Series maple kit
+- **2020** — Passed away on January 24, 2020, one day after his 49th birthday
+
+## Style & Influences
+
+Sean Reinert's drumming style fused jazz-informed technique with death metal power. His approach centered on dynamic extremes, polymetric phrasing, and a ghost-note vocabulary borrowed directly from jazz drumming — elements almost unheard of in death metal before Human. Rather than treating technicality as a display of speed, Reinert used it to serve the compositions he shared with Chuck Schuldiner and Paul Masvidal.
+
+**Key Influences:**
+- **Jazz drumming tradition**: Classical and jazz training shaped his ghost notes, ride-cymbal phrasing, and dynamic sensitivity
+- **Weather Report-style fusion**: A direct influence on Cynic's Focus and its complex, layered arrangements
+- **Chuck Schuldiner (Death)**: Collaborative songwriting that pushed Reinert's musicality within a death metal framework
+
+**Signature Techniques:**
+- Sustained jazz-fusion ride patterns deployed inside blast-beat-tempo death metal, most notably on the K Custom Dry Ride
+- Polyrhythmic and polymetric phrasing that broke from standard death metal time-keeping
+- Ghost-note-driven dynamic range across songs, rather than constant maximum intensity
+- Compositional double bass used as musical phrasing rather than pure speed
+
+## Notable Recordings
+
+**Albums:**
+
+- **Death - Human** (1991, Relativity Records) — Widely considered the birth of progressive death metal
+- **Cynic - Focus** (1993, Roadrunner Records) — Landmark jazz-fusion death metal album
+- **Gordian Knot - Emergent** (1999, Sensory Records) — Progressive metal side project with Sean Malone
+- **Cynic - Traced in Air** (2008, Season of Mist) — Cynic reunion album on a DW Collector's Series kit
+
+**Tours:**
+
+- **Human Tour** (1991) — Limited touring dates supporting Death's Human
+- **Focus Tour** (1993) — Supporting Death on select dates
+- **Cynic Reunion Touring** (2006-2017) — Global touring following Cynic's reformation
+
 ## Band History
 
 - **Cynic** — 1987–1994, 2006–2015
@@ -56,20 +97,6 @@ Reinert brought a jazz-trained musical vocabulary into death metal at a moment w
 - **Hardware:** DW 5000 Double Pedal
 - **Sticks:** Vic Firth American Classic 5A
 - **Heads:** Remo Powerstroke 3 / Ambassador
-
-## Endorsements
-
-- [Tama Drums](https://www.tama.com)
-- [Zildjian Cymbals](https://zildjian.com)
-- [Vic Firth Sticks](https://vicfirth.zildjian.com)
-- [Remo Drumheads](https://remo.com)
-
-## Endorsements
-
-- [Tama Drums](https://www.tama.com)
-- [Zildjian Cymbals](https://zildjian.com)
-- [Vic Firth Sticks](https://vicfirth.zildjian.com)
-- [Remo Drumheads](https://remo.com)
 
 ## Endorsements
 
@@ -119,6 +146,16 @@ A: Sean Reinert played a Tama Artstar II 14"x5.5" birch snare, tuned higher and 
 **Q: What bass drum pedal did Sean Reinert use?**
 
 A: Sean Reinert used a DW 5000 single-chain double pedal, applying a fluid, fusion-informed double-bass technique rather than the brute-force approach common among his death metal peers.
+
+## Trivia
+
+- Co-founded Cynic in 1987 with Paul Masvidal, years before joining Death
+- Recorded Human with Death at just 20 years old
+- Used traditional grip on his left hand, a direct carryover from his jazz training, paired with matched grip on his right
+- His ride cymbal work on Human was influenced by jazz "spang-a-lang" phrasing rather than standard death metal 16th-note patterns
+- Contributed to Gordian Knot's Emergent (1999) during Cynic's 12-year hiatus
+- Cynic reunited in 2006 and released Traced in Air in 2008, their first album in 15 years
+- Passed away on January 24, 2020, one day after turning 49
 
 ## Signature Licks on MetalForge
 
@@ -172,10 +209,17 @@ Historical gear pricing and value: [Sean Reinert's gear price history](https://m
 
 Dated brand-endorsement timeline: [Sean Reinert's endorsement history](https://metalforge.io/llms/endorsements/sean-reinert.md).
 
+## Sources
+
+- [Decibel Magazine — Human 20th Anniversary Feature](https://decibelmagazine.com)
+- [Modern Drummer Magazine](https://www.moderndrummer.com)
+- [Wikipedia: Sean Reinert](https://en.wikipedia.org/wiki/Sean_Reinert)
+- [Discogs: Sean Reinert](https://www.discogs.com/artist/258561-Sean-Reinert)
+
 ---
 
 **Full interactive profile:** [Sean Reinert on MetalForge](https://metalforge.io/drummer/sean-reinert)
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

@@ -6,7 +6,7 @@ country: "Sweden"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/jocke-wallgren"
 source: "https://metalforge.io"
-last_updated: "2026-09-08"
+last_updated: "2026-09-09"
 ---
 
 # Jocke Wallgren — Drum Kit & Gear Setup
@@ -40,6 +40,48 @@ Jocke Wallgren (born April 1, 1986, in Karlstad, Sweden) is a Swedish drummer wh
 
 Before Amon Amarth, Wallgren was known for his work with Swedish bands including Valkyria. His transition to one of Sweden's most internationally successful metal bands marked a significant career milestone, and he has since become an integral part of Amon Amarth's live and studio work.
 
+## Career Highlights
+
+- **2000s** — Began drumming career in Swedish underground metal scene
+- **2009** — Joined Swedish Viking/folk metal band Valkyria
+- **2016** — Joined Amon Amarth, replacing Fredrik Andersson
+- **2016** — Released "Jomsviking" with Amon Amarth, his first album with the band
+- **2017** — Extensive world touring with Amon Amarth
+- **2019** — Released "Berserker" with Amon Amarth
+- **2022** — Released "The Great Heathen Army" with Amon Amarth
+- **2023** — Continued international touring with Amon Amarth
+
+## Style & Influences
+
+Jocke Wallgren's drumming style emphasizes power, groove, and consistency. His approach to Amon Amarth's material combines double bass intensity with melodic death metal groove, perfectly complementing the band's anthemic songwriting.
+
+**Key Influences:**
+- **Fredrik Andersson (former Amon Amarth)**: Foundation for the band's drum sound
+- **Dave Lombardo (Slayer)**: Thrash metal power and groove
+- **Scandinavian Melodic Death Metal**: The Gothenburg school approach
+
+**Signature Techniques:**
+- Powerful, driving double bass patterns
+- Groove-focused approach within melodic death metal
+- Consistent, reliable live performances
+- Dynamic accents that complement Viking themes
+- Anthemic drum patterns that support crowd participation
+
+## Notable Recordings
+
+**Albums:**
+
+- **Amon Amarth - Jomsviking** (2016, Metal Blade) — First album with Amon Amarth
+- **Amon Amarth - Berserker** (2019, Metal Blade) — Second album with band
+- **Amon Amarth - The Great Heathen Army** (2022, Metal Blade) — Most recent studio album
+
+**Tours:**
+
+- **Jomsviking World Tour** (2016-2017) — First major touring cycle with Amon Amarth
+- **Berserker World Tour** (2019-2020) — Extensive international touring
+- **The Great Heathen Army Tour** (2022-2023) — Current touring cycle
+- **Major Festivals** (2016-present) — Wacken, Download, Hellfest appearances
+
 ## Band History
 
 - **Amon Amarth** — 2016–present (current)
@@ -52,18 +94,6 @@ Before Amon Amarth, Wallgren was known for his work with Swedish bands including
 - **Hardware:** Pearl Demon Drive Double Pedal
 - **Sticks:** Vic Firth American Classic 5B
 - **Heads:** Evans
-
-## Endorsements
-
-- [Pearl Drums](https://pearldrum.com)
-- [Zildjian Cymbals](https://zildjian.com)
-- [Vic Firth Sticks](https://vicfirth.zildjian.com)
-
-## Endorsements
-
-- [Pearl Drums](https://pearldrum.com)
-- [Zildjian Cymbals](https://zildjian.com)
-- [Vic Firth Sticks](https://vicfirth.zildjian.com)
 
 ## Endorsements
 
@@ -114,6 +144,17 @@ A: Jocke Wallgren uses Evans drumheads across his Pearl Reference Pure kit.
 **Q: Who did Jocke Wallgren replace in Amon Amarth?**
 
 A: Jocke Wallgren joined Amon Amarth in 2016, replacing longtime drummer Fredrik Andersson, and made his studio debut on Jomsviking (2016) before recording Berserker (2019) and The Great Heathen Army (2022).
+
+## Trivia
+
+- Was relatively unknown internationally before joining Amon Amarth
+- Had to learn Amon Amarth's extensive back catalog quickly after joining
+- Amon Amarth's live shows feature elaborate Viking-themed stage production
+- The band's songs often require sustained double bass endurance
+- Has brought fresh energy to the band's live performances
+- Performed at some of the world's largest metal festivals with Amon Amarth
+- The Great Heathen Army tour featured some of the band's most elaborate staging
+- His steady, powerful style perfectly suits Amon Amarth's anthemic songwriting
 
 ## Gear Evolution Timeline
 
@@ -169,10 +210,16 @@ Historical gear pricing and value: [Jocke Wallgren's gear price history](https:/
 
 Dated brand-endorsement timeline: [Jocke Wallgren's endorsement history](https://metalforge.io/llms/endorsements/jocke-wallgren.md).
 
+## Sources
+
+- [Amon Amarth Official](https://www.amonamarth.com)
+- [Metal Blade Records](https://www.metalblade.com)
+- [Blabbermouth](https://www.blabbermouth.net)
+
 ---
 
 **Full interactive profile:** [Jocke Wallgren on MetalForge](https://metalforge.io/drummer/jocke-wallgren)
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

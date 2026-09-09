@@ -177,10 +177,15 @@ const KNOWN_HEADERS = new Set([
   'Quick Facts',
   'Kit Overview',
   'Biography',
+  'Career Highlights',
+  'Style & Influences',
+  'Notable Recordings',
   'Band History',
   'Gear',
+  'Endorsements',
   'Notable Performances',
   'Frequently Asked Questions',
+  'Trivia',
   'Quotes',
   'Signature Licks on MetalForge',
   'Snare',
@@ -190,6 +195,7 @@ const KNOWN_HEADERS = new Set([
   'Gear Evolution',
   'Gear Price History',
   'Endorsement History',
+  'Sources',
 ]);
 const FOOTER_MARKER = /\n---\n\n\*\*Full interactive profile:\*\*[\s\S]*$/;
 
@@ -384,6 +390,41 @@ function buildMarkdown(drummer) {
   }
   sections.push({ header: 'Biography', body: bio });
 
+  // --- Career Highlights (Issue #7201) ------------------------------------------
+  if (extBio.sections && extBio.sections.careerHighlights && extBio.sections.careerHighlights.items) {
+    let careerHighlights = '';
+    for (const item of extBio.sections.careerHighlights.items) {
+      careerHighlights += `- **${item.year}** — ${item.event}\n`;
+    }
+    sections.push({ header: 'Career Highlights', body: careerHighlights });
+  }
+
+  // --- Style & Influences (Issue #7201) -------------------------------------------
+  if (extBio.sections && extBio.sections.styleAndInfluences && extBio.sections.styleAndInfluences.content) {
+    sections.push({ header: 'Style & Influences', body: extBio.sections.styleAndInfluences.content });
+  }
+
+  // --- Notable Recordings & Tours (Issue #7201) -----------------------------------
+  if (extBio.sections && extBio.sections.notableRecordings) {
+    const nr = extBio.sections.notableRecordings;
+    let notableRecordings = '';
+    if (nr.albums && nr.albums.length > 0) {
+      notableRecordings += `**Albums:**\n\n`;
+      for (const album of nr.albums) {
+        notableRecordings += `- **${album.name}** (${album.year}, ${album.label})${album.note ? ` — ${album.note}` : ''}\n`;
+      }
+    }
+    if (nr.tours && nr.tours.length > 0) {
+      notableRecordings += `\n**Tours:**\n\n`;
+      for (const tour of nr.tours) {
+        notableRecordings += `- **${tour.name}** (${tour.year})${tour.note ? ` — ${tour.note}` : ''}\n`;
+      }
+    }
+    if (notableRecordings) {
+      sections.push({ header: 'Notable Recordings', body: notableRecordings });
+    }
+  }
+
   // --- Band history ------------------------------------------------------------
   if (drummer.bands && drummer.bands.length > 0) {
     let bandHistory = '';
@@ -455,6 +496,15 @@ function buildMarkdown(drummer) {
     }
   }
   sections.push({ header: 'Frequently Asked Questions', body: faq.replace(/\n+$/, '') });
+
+  // --- Trivia (Issue #7201) -----------------------------------------------------
+  if (extBio.sections && extBio.sections.trivia && extBio.sections.trivia.items) {
+    let trivia = '';
+    for (const item of extBio.sections.trivia.items) {
+      trivia += `- ${item}\n`;
+    }
+    sections.push({ header: 'Trivia', body: trivia });
+  }
 
   // --- Quotes ------------------------------------------------------------------
   if (drummer.quotes && drummer.quotes.length > 0) {
@@ -568,6 +618,15 @@ function buildMarkdown(drummer) {
       header: 'Endorsement History',
       body: `Dated brand-endorsement timeline: [${drummer.name}'s endorsement history](${BASE}/llms/endorsements/${slug}.md).\n`,
     });
+  }
+
+  // --- Sources (Issue #7201) -----------------------------------------------------
+  if (extBio.sections && extBio.sections.sources && extBio.sections.sources.items) {
+    let sources = '';
+    for (const item of extBio.sections.sources.items) {
+      sources += `- [${item.name}](${item.url})\n`;
+    }
+    sections.push({ header: 'Sources', body: sources });
   }
 
   // --- Preserve hand-added sections (Kit Overview, per-album Q&A, ...) not

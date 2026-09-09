@@ -6,7 +6,7 @@ country: "Sweden"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/daniel-erlandsson"
 source: "https://metalforge.io"
-last_updated: "2026-09-08"
+last_updated: "2026-09-09"
 ---
 
 # Daniel Erlandsson — Drum Kit & Gear Setup
@@ -43,6 +43,60 @@ Daniel Erlandsson (born May 22, 1976, in Malmö, Sweden) is a Swedish drummer an
 
 Before Arch Enemy, Erlandsson played with Eucharist, one of the pioneers of the Gothenburg melodic death metal sound. His career spans over three decades, during which he has performed on every Arch Enemy album and established himself as one of the most consistent drummers in extreme metal. His ability to blend blast beats with groove and dynamics has made Arch Enemy accessible while maintaining their metal credibility.
 
+## Career Highlights
+
+- **1989** — Joined Eucharist, pioneering Gothenburg melodic death metal
+- **1995** — Helped found Arch Enemy with brother Michael and guitarist Michael Amott
+- **1996** — Released Arch Enemy debut "Black Earth"
+- **1998** — Released "Stigmata," establishing Arch Enemy's signature sound
+- **2001** — Angela Gossow joined as vocalist; band gained international attention
+- **2003** — Released "Anthems of Rebellion," commercial breakthrough
+- **2005** — Released "Doomsday Machine," continued success
+- **2007** — Toured with Carcass as live drummer
+- **2014** — Alissa White-Gluz joined as vocalist; new era began
+- **2017** — Released "Will to Power," commercial peak
+- **2022** — Released "Deceivers," continuing Arch Enemy's evolution
+
+## Style & Influences
+
+Daniel Erlandsson's drumming embodies the Swedish melodic death metal approach—combining extreme metal intensity with musical sensibility and technical precision. His style has evolved from raw aggression to refined power over three decades.
+
+**Key Influences:**
+- **Dave Lombardo (Slayer)**: Thrash metal foundation
+- **Pete Sandoval (Morbid Angel)**: Death metal blast beat technique
+- **Nicko McBrain (Iron Maiden)**: Galloping patterns and groove
+- **Bill Ward (Black Sabbath)**: Heavy metal roots
+- **Scandinavian scene**: Gothenburg melodic death metal peers
+
+**Signature Techniques:**
+- **Melodic blast beats**: Blast beats that complement melodic riffs rather than overwhelm
+- **Dynamic transitions**: Seamless moves between intense and atmospheric sections
+- **Groove integration**: Headbang-worthy patterns within death metal framework
+- **Double bass precision**: Clean, articulate kick drum work
+- **Compositional drumming**: Parts that enhance the song structure
+
+## Notable Recordings
+
+**Albums:**
+
+- **Eucharist - A Velvet Creation** (1993, Wrong Again) — Early melodic death metal
+- **Arch Enemy - Black Earth** (1996, Wrong Again) — Debut album
+- **Arch Enemy - Stigmata** (1998, Century Media) — Sound established
+- **Arch Enemy - Wages of Sin** (2001, Century Media) — First with Angela Gossow
+- **Arch Enemy - Anthems of Rebellion** (2003, Century Media) — Commercial breakthrough
+- **Arch Enemy - Doomsday Machine** (2005, Century Media) — Continued success
+- **Arch Enemy - Rise of the Tyrant** (2007, Century Media) — Critical acclaim
+- **Arch Enemy - War Eternal** (2014, Century Media) — First with Alissa White-Gluz
+- **Arch Enemy - Will to Power** (2017, Century Media) — Commercial peak
+- **Arch Enemy - Deceivers** (2022, Century Media) — Most recent
+
+**Tours:**
+
+- **Ozzfest** (2005) — Major US festival exposure
+- **War Eternal World Tour** (2014-2015) — New vocalist introduction
+- **Will to Power World Tour** (2017-2018) — Extensive global touring
+- **Deceivers World Tour** (2022-2023) — Post-pandemic return
+
 ## Band History
 
 - **Arch Enemy** — 1998–present (current)
@@ -56,18 +110,6 @@ Before Arch Enemy, Erlandsson played with Eucharist, one of the pioneers of the 
 - **Hardware:** Pearl Demon Drive Double Pedal
 - **Sticks:** Vic Firth American Classic 5B
 - **Heads:** Evans
-
-## Endorsements
-
-- [Pearl Drums](https://pearldrum.com)
-- [Paiste Cymbals](https://www.paiste.com)
-- [Vic Firth Sticks](https://vicfirth.zildjian.com)
-
-## Endorsements
-
-- [Pearl Drums](https://pearldrum.com)
-- [Paiste Cymbals](https://www.paiste.com)
-- [Vic Firth Sticks](https://vicfirth.zildjian.com)
 
 ## Endorsements
 
@@ -121,6 +163,18 @@ A: Daniel Erlandsson uses Evans drumheads across his Pearl Reference Pure kit.
 
 A: Daniel Erlandsson uses 14" Paiste RUDE Hi-Hats for aggressive, cutting chick sounds, mounted on his Pearl Reference Pure drum kit and drum set.
 
+## Trivia
+
+- Co-founded Arch Enemy with his brother Michael (original rhythm guitarist)
+- Has performed on every Arch Enemy studio album since 1996
+- Was part of Eucharist, one of the earliest Gothenburg melodic death metal bands
+- Toured with Carcass as live drummer during their reunion period
+- Known for his professional, workmanlike approach to touring
+- Has navigated Arch Enemy through multiple vocalist changes successfully
+- The band's consistency is largely attributed to his and Michael Amott's partnership
+- Developed a signature snare drum with Pearl
+- Despite decades of extreme metal, has maintained his hearing through careful protection
+
 ## Signature Licks on MetalForge
 
 MetalForge has 3 signature lick tutorial(s) for Daniel Erlandsson:
@@ -171,10 +225,17 @@ Historical gear pricing and value: [Daniel Erlandsson's gear price history](http
 
 Dated brand-endorsement timeline: [Daniel Erlandsson's endorsement history](https://metalforge.io/llms/endorsements/daniel-erlandsson.md).
 
+## Sources
+
+- [Pearl Drums Artist Profile](https://pearldrum.com)
+- [Arch Enemy Official](https://www.arch-enemy.net)
+- [Century Media Records](https://www.centurymedia.com)
+- [Wikipedia: Daniel Erlandsson](https://en.wikipedia.org/wiki/Daniel_Erlandsson)
+
 ---
 
 **Full interactive profile:** [Daniel Erlandsson on MetalForge](https://metalforge.io/drummer/daniel-erlandsson)
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

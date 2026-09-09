@@ -6,7 +6,7 @@ country: "Sweden"
 primary_brand: "Sonor"
 profile_url: "https://metalforge.io/drummer/mikkey-dee"
 source: "https://metalforge.io"
-last_updated: "2026-09-08"
+last_updated: "2026-09-09"
 ---
 
 # Mikkey Dee — Drum Kit & Gear Setup
@@ -43,6 +43,54 @@ Dee's powerful, hard-hitting style perfectly complemented Lemmy's raw, loud appr
 
 **October 31, 2026** marks Mikkey Dee's 63rd birthday. Fans continue to celebrate the anniversary by revisiting his Grammy-winning run with Motörhead and his ongoing tenure behind the kit for Scorpions.
 
+## Career Highlights
+
+- **1985** — Joined King Diamond's band; recorded "Fatal Portrait"
+- **1987** — Recorded "Abigail" with King Diamond, a classic of metal
+- **1992** — Joined Motörhead, replacing Phil "Philthy Animal" Taylor
+- **1994** — First Motörhead album: "Bastards"
+- **1996** — Released "Overnight Sensation," commercial success
+- **2004** — Won Grammy for "Whiplash" (Best Metal Performance)
+- **2008** — Released "Motörizer," continuing Motörhead's consistency
+- **2015** — Released "Bad Magic," Motörhead's final album; Lemmy passed away
+- **2016** — Joined Scorpions, replacing James Kottak
+- **2022** — Released "Rock Believer" with Scorpions
+
+## Style & Influences
+
+Mikkey Dee's drumming style is characterized by raw power, incredible stamina, and a no-holds-barred approach. His playing in Motörhead was the perfect match for Lemmy's aggressive bass and vocals, while his work with King Diamond showcased technical versatility.
+
+**Key Influences:**
+- **Cozy Powell**: Rock drumming power
+- **John Bonham (Led Zeppelin)**: Heavy groove and feel
+- **Ian Paice (Deep Purple)**: Hard rock foundation
+- **Phil "Philthy Animal" Taylor**: Motörhead legacy
+
+**Signature Techniques:**
+- Powerful, driving backbeat
+- Hard-hitting single bass drum style
+- Aggressive cymbal work with distinctive crashes
+- Solid time keeping at high tempos
+- Dynamic fills that complement rather than dominate
+
+## Notable Recordings
+
+**Albums:**
+
+- **King Diamond - Fatal Portrait** (1986, Roadrunner) — First major album
+- **King Diamond - Abigail** (1987, Roadrunner) — Classic horror metal
+- **Motörhead - Bastards** (1993, CMC) — First Motörhead album
+- **Motörhead - Overnight Sensation** (1996, CMC) — Commercial resurgence
+- **Motörhead - Inferno** (2004, Steamhammer) — Grammy-winning album
+- **Motörhead - Bad Magic** (2015, UDR) — Final Motörhead album
+- **Scorpions - Rock Believer** (2022, Spinefarm) — First Scorpions album
+
+**Tours:**
+
+- **Motörhead World Tours** (1992-2015) — 23 years of relentless touring
+- **Wacken Open Air** (Multiple) — Headlined numerous times
+- **Scorpions World Tours** (2016-Present) — Continuing rock legacy
+
 ## Band History
 
 - **Scorpions** — 2016–present (current)
@@ -57,20 +105,6 @@ Dee's powerful, hard-hitting style perfectly complemented Lemmy's raw, loud appr
 - **Hardware:** DW 5000 Series Pedal, Sonor Hardware
 - **Sticks:** Wincent Mikkey Dee Signature (W-MDS)
 - **Heads:** Evans
-
-## Endorsements
-
-- [Sonor Drums](https://www.sonor.com)
-- [Paiste Cymbals](https://www.paiste.com)
-- [Wincent Drumsticks](https://wincentdrumsticks.com)
-- [Evans Drumheads](https://www.daddario.com/evans)
-
-## Endorsements
-
-- [Sonor Drums](https://www.sonor.com)
-- [Paiste Cymbals](https://www.paiste.com)
-- [Wincent Drumsticks](https://wincentdrumsticks.com)
-- [Evans Drumheads](https://www.daddario.com/evans)
 
 ## Endorsements
 
@@ -126,6 +160,19 @@ A: Mikkey Dee plays his own signature Wincent Mikkey Dee Signature (W-MDS) drums
 **Q: What drumheads does Mikkey Dee use?**
 
 A: Mikkey Dee uses Evans drumheads across his Sonor SQ2 drum kit and drum set.
+
+## Trivia
+
+- Was with Motörhead for 23 years—longer than any other drummer
+- Won a Grammy with Motörhead for "Whiplash" (2004)
+- Born in Sweden to a Greek immigrant father
+- Lemmy specifically requested Mikkey Dee after hearing his King Diamond work
+- Known for his blistering drum solos during Motörhead shows
+- Joined Scorpions just months after Lemmy's death
+- His real surname "Delaoglou" is of Greek origin
+- King Diamond's "Abigail" is considered one of the best metal drum performances of the 1980s
+- Has stated Lemmy was like a brother to him
+- Born October 31, 1963 — October 31, 2026 marks his 63rd birthday
 
 ## Quotes
 
@@ -190,10 +237,18 @@ Historical gear pricing and value: [Mikkey Dee's gear price history](https://met
 
 Dated brand-endorsement timeline: [Mikkey Dee's endorsement history](https://metalforge.io/llms/endorsements/mikkey-dee.md).
 
+## Sources
+
+- [Sonor Artist Profile](https://www.sonor.com/drums/artists/artists-detail/mikkey-dee)
+- [Paiste Artist Profile](https://www.paiste.com/en/musicians/mikkey-dee)
+- [Modern Drummer: Mikkey Dee's Scorpions Kit](https://www.moderndrummer.com/article/mikkey-dees-scorpions-2022-vegas-residency-kit/)
+- [Scorpions Official](https://www.the-scorpions.com)
+- [Wikipedia: Mikkey Dee](https://en.wikipedia.org/wiki/Mikkey_Dee)
+
 ---
 
 **Full interactive profile:** [Mikkey Dee on MetalForge](https://metalforge.io/drummer/mikkey-dee)
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

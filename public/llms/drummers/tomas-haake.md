@@ -6,7 +6,7 @@ country: "Sweden"
 primary_brand: "Sonor"
 profile_url: "https://metalforge.io/drummer/tomas-haake"
 source: "https://metalforge.io"
-last_updated: "2026-09-08"
+last_updated: "2026-09-09"
 ---
 
 # Tomas Haake — Drum Kit & Gear Setup
@@ -38,6 +38,55 @@ Tomas Haake (born July 13, 1971, in Örebro, Sweden) is the drummer and primary 
 
 Haake's approach to drumming involves complex polyrhythmic patterns that create the illusion of multiple time signatures occurring simultaneously. His metronomic precision and ability to navigate bewildering rhythmic landscapes while maintaining groove has influenced countless drummers and bands in the progressive and extreme metal communities.
 
+## Career Highlights
+
+- **1990** — Joined Meshuggah as drummer, replacing Niclas Lundgren
+- **1995** — Released "Destroy Erase Improve," introducing polyrhythmic concepts to metal
+- **1998** — Released "Chaosphere," further developing the Meshuggah sound
+- **2002** — Released "Nothing," influencing the nascent djent movement
+- **2005** — Released "Catch Thirtythree," an experimental single-track album
+- **2008** — Released "obZen" featuring "Bleed," one of the most challenging drum tracks ever recorded
+- **2012** — Released "Koloss," topping metal charts worldwide
+- **2016** — Released "The Violent Sleep of Reason," recorded live in studio
+- **2022** — Released "Immutable," continuing Meshuggah's evolution
+- **2023** — Received Grammy nomination for "Immutable"
+
+## Style & Influences
+
+Tomas Haake's drumming style is defined by complex polyrhythmic patterns layered over steady 4/4 time signatures. While his hands often follow unconventional subdivisions and time signatures, his feet typically maintain a consistent pulse, creating the distinctive Meshuggah groove.
+
+**Key Influences:**
+- **Tony Williams**: Jazz fusion polyrhythms
+- **Vinnie Colaiuta**: Technical precision and versatility
+- **Terry Bozzio**: Progressive approach to metal drumming
+- **Jazz and Fusion Music**: Complex rhythmic concepts
+
+**Signature Techniques:**
+- Polyrhythmic patterns over 4/4 foundation
+- Two single bass drum pedals instead of a double pedal (for independence)
+- The "Bleed" foot pattern: six months to develop the 32nd note kick pattern
+- Syncopated snare patterns that create rhythmic tension
+- Use of ghost notes and dynamics within extreme metal context
+
+## Notable Recordings
+
+**Albums:**
+
+- **Destroy Erase Improve** (1995, Nuclear Blast) — Breakthrough polyrhythmic album
+- **Chaosphere** (1998, Nuclear Blast) — Refined the formula
+- **Nothing** (2002, Nuclear Blast) — Spawned djent movement
+- **Catch Thirtythree** (2005, Nuclear Blast) — Experimental single track
+- **obZen** (2008, Nuclear Blast) — Contains legendary "Bleed"
+- **Koloss** (2012, Nuclear Blast) — Groove-focused evolution
+- **The Violent Sleep of Reason** (2016, Nuclear Blast) — Live-recorded intensity
+- **Immutable** (2022, Atomic Fire) — Grammy-nominated
+
+**Tours:**
+
+- **obZen World Tour** (2008-2009) — Supporting the acclaimed album
+- **Download Festival Headline** (2012) — Major festival recognition
+- **Immutable World Tour** (2022-2023) — Most extensive touring cycle
+
 ## Band History
 
 - **Meshuggah** — 1990–present (current)
@@ -52,20 +101,6 @@ Haake's approach to drumming involves complex polyrhythmic patterns that create 
 - **Heads:** Remo
 
 See the [Tomas Haake vs Gene Hoglan](/vs/gene-hoglan-vs-tomas-haake) comparison for a full breakdown of how Meshuggah's djent architect stacks up against death/thrash's "Atomic Clock."
-
-## Endorsements
-
-- [Sonor Drums](https://www.sonor.com)
-- [Sabian Cymbals](https://www.sabian.com)
-- [Wincent Drumsticks](https://www.wincent.se)
-- [Remo Drumheads](https://remo.com)
-
-## Endorsements
-
-- [Sonor Drums](https://www.sonor.com)
-- [Sabian Cymbals](https://www.sabian.com)
-- [Wincent Drumsticks](https://www.wincent.se)
-- [Remo Drumheads](https://remo.com)
 
 ## Endorsements
 
@@ -121,6 +156,18 @@ A: Tomas Haake uses two separate Tama Speed Cobra single bass drum pedals instea
 **Q: What snare drum does Tomas Haake use?**
 
 A: Tomas Haake plays a Sonor Tomas Haake Signature 14"x6.5" snare drum, along with a Sonor Artist Series Bronze snare for added tonal variety.
+
+## Trivia
+
+- "Bleed" took six months of daily practice to play consistently live
+- Uses two single bass drum pedals instead of a double pedal for independence
+- Also serves as Meshuggah's primary lyricist
+- The term "djent" comes from the guitar tone, but Haake's drumming defined the rhythmic template
+- Describes his approach as "playing 4/4 time, just subdivided in unusual ways"
+- Has stated he practices exercises from jazz drumming books
+- The Porter & Davies throne vibrates in sync with the kick drum for monitoring
+- Meshuggah's music has been studied academically for its rhythmic complexity
+- Despite the complexity, maintains that Meshuggah is a "groove band"
 
 ## Quotes
 
@@ -190,10 +237,17 @@ Historical gear pricing and value: [Tomas Haake's gear price history](https://me
 
 Dated brand-endorsement timeline: [Tomas Haake's endorsement history](https://metalforge.io/llms/endorsements/tomas-haake.md).
 
+## Sources
+
+- [Sonor Drums Artist Profile](https://www.sonor.com/drums/artists/artists-detail/tomas-haake)
+- [Sabian Artist Profile](https://sabian.com/artist/tomas-haake/)
+- [Drumeo Interview](https://www.drumeo.com)
+- [Wikipedia: Tomas Haake](https://en.wikipedia.org/wiki/Tomas_Haake)
+
 ---
 
 **Full interactive profile:** [Tomas Haake on MetalForge](https://metalforge.io/drummer/tomas-haake)
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

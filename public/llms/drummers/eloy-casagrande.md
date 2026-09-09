@@ -6,7 +6,7 @@ country: "Brazil"
 primary_brand: "Tama"
 profile_url: "https://metalforge.io/drummer/eloy-casagrande"
 source: "https://metalforge.io"
-last_updated: "2026-09-08"
+last_updated: "2026-09-09"
 ---
 
 # Eloy Casagrande — Drum Kit & Gear Setup
@@ -41,6 +41,50 @@ Eloy Casagrande (born August 25, 1991, in São Paulo, Brazil) is a Brazilian dru
 
 Starting drums at age 7 and joining Sepultura at just 19, Casagrande represented the new generation of metal drumming. His combination of traditional thrash metal power with modern technical elements has made him one of the most exciting and influential drummers in contemporary metal.
 
+## Career Highlights
+
+- **1998** — Began playing drums at age 7 in São Paulo, Brazil
+- **2011** — Joined Sepultura at age 19, replacing Jean Dolabella
+- **2013** — Recorded first Sepultura album: "The Mediator Between Head and Hands Must Be the Heart"
+- **2017** — Released "Machine Messiah" with Sepultura to critical acclaim
+- **2020** — Released "Quadra" with Sepultura; gained international recognition
+- **2022** — Performed at Rock in Rio with Sepultura
+- **2023** — Sepultura announced farewell tour; Casagrande's future uncertain
+- **2024** — Named #1 metal drummer in Modern Drummer Reader's Poll
+- **2024** — Joined Slipknot as their new drummer, replacing Jay Weinberg
+
+## Style & Influences
+
+Eloy Casagrande's drumming style blends traditional thrash metal power with modern technical precision. His playing combines the aggressive, groove-heavy style Sepultura is known for with his own technical flourishes and explosive energy.
+
+**Key Influences:**
+- **Igor Cavalera (Sepultura)**: Brazilian thrash metal foundation
+- **Dave Lombardo (Slayer)**: Thrash metal speed and precision
+- **Joey Jordison (Slipknot)**: Extreme metal intensity
+- **Brazilian percussion**: Tribal rhythms and polyrhythmic elements
+
+**Signature Techniques:**
+- Powerful, aggressive double bass patterns
+- Explosive dynamics with precise control
+- Integration of Brazilian/tribal rhythmic elements
+- Modern technical flourishes within thrash framework
+- High-energy live performances with showmanship
+
+## Notable Recordings
+
+**Albums:**
+
+- **Sepultura - The Mediator...** (2013, Nuclear Blast) — First studio album with band
+- **Sepultura - Machine Messiah** (2017, Nuclear Blast) — Critical acclaim
+- **Sepultura - Quadra** (2020, Nuclear Blast) — Concept album success
+- **Slipknot - (TBA)** (2024+, Roadrunner) — New chapter begins
+
+**Tours:**
+
+- **Rock in Rio** (2022) — Massive Brazilian festival performance
+- **Sepultura Farewell Tour** (2023-2024) — Final Sepultura touring cycle
+- **Slipknot World Tours** (2024+) — New era with Slipknot
+
 ## Band History
 
 - **Slipknot** — 2023–present (current)
@@ -54,20 +98,6 @@ Starting drums at age 7 and joining Sepultura at just 19, Casagrande represented
 - **Hardware:** Tama Iron Cobra Double Pedal, Yamaha DTX Electronic Pads
 - **Sticks:** Promark Eloy Casagrande Signature
 - **Heads:** Evans
-
-## Endorsements
-
-- [Tama Drums](https://www.tama.com)
-- [Paiste Cymbals](https://www.paiste.com)
-- [Promark Sticks](https://www.daddario.com/promark)
-- [Evans Drumheads](https://www.daddario.com/evans)
-
-## Endorsements
-
-- [Tama Drums](https://www.tama.com)
-- [Paiste Cymbals](https://www.paiste.com)
-- [Promark Sticks](https://www.daddario.com/promark)
-- [Evans Drumheads](https://www.daddario.com/evans)
 
 ## Endorsements
 
@@ -124,6 +154,18 @@ A: Eloy Casagrande plays a Tama Bell Brass 14"x5.5" snare (model BB146), chosen 
 
 A: Eloy Casagrande drives his dual-bass-drum setup with a Tama Iron Cobra double pedal.
 
+## Trivia
+
+- Started playing drums at age 7 in São Paulo, Brazil
+- Joined Sepultura at just 19 years old, one of the youngest members ever
+- Named #1 metal drummer in Modern Drummer 2024 Readers' Poll
+- Is the first Brazilian drummer to join Slipknot
+- Had to learn Slipknot's extensive catalog for his new role
+- Known for his warm personality and interaction with fans
+- Maintained Sepultura's legacy while bringing his own energy
+- His transition to Slipknot was one of the biggest metal news stories of 2024
+- Speaks Portuguese and English fluently
+
 ## Signature Licks on MetalForge
 
 MetalForge has 3 signature lick tutorial(s) for Eloy Casagrande:
@@ -178,10 +220,17 @@ Historical gear pricing and value: [Eloy Casagrande's gear price history](https:
 
 Dated brand-endorsement timeline: [Eloy Casagrande's endorsement history](https://metalforge.io/llms/endorsements/eloy-casagrande.md).
 
+## Sources
+
+- [Tama Drums](https://www.tama.com/usa/artists/)
+- [Paiste](https://www.paiste.com/en/musicians)
+- [Modern Drummer Magazine](https://www.moderndrummer.com)
+- [Wikipedia: Eloy Casagrande](https://en.wikipedia.org/wiki/Eloy_Casagrande)
+
 ---
 
 **Full interactive profile:** [Eloy Casagrande on MetalForge](https://metalforge.io/drummer/eloy-casagrande)
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

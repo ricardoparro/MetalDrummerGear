@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/john-longstreth"
 source: "https://metalforge.io"
-last_updated: "2026-09-08"
+last_updated: "2026-09-09"
 ---
 
 # John Longstreth — Drum Kit & Gear Setup
@@ -40,6 +40,49 @@ John Longstreth is an American drummer widely regarded as one of extreme metal's
 
 He co-founded Angelcorpse in 1995, recording Hammer of Gods (1996) and Exterminate (1998) before departing; he rejoined for the band's 2006-2007 reunion. Since 1999 he has been the driving force behind technical death metal band Origin (with a 2003-2006 hiatus), recording Informis Infinitas Inhumanitas (2002), Antithesis (2008), Entity (2011), Omnipresent (2014), Unparalleled Universe (2017), and Chaosmos (2022) on his Pearl drum kit. He also drummed for Skinless in 2003, and has done extensive session and touring work for Dying Fetus, Dim Mak, Gorguts, Unmerciful, Codex Ritual, Exhumed, and The Red Chord — including filling in for regular drummer Hannes Grossmann on Hate Eternal's November 2018 US tour behind the drum set. Longstreth is credited with pioneering double-stroke bass drum technique and the one-handed drum roll within extreme metal, and released his own instructional DVD, Drumming of a Madman.
 
+## Career Highlights
+
+- **1995** — Co-founded Angelcorpse
+- **1996** — Recorded Hammer of Gods, Angelcorpse's debut album
+- **1998** — Recorded Exterminate with Angelcorpse before departing the band
+- **1999** — Joined technical death metal band Origin
+- **2002** — Recorded Informis Infinitas Inhumanitas, his first studio album with Origin
+- **2003** — Drummed for Skinless; began a hiatus from Origin lasting until 2006
+- **2006** — Rejoined Origin and Angelcorpse for its 2006-2007 reunion
+- **2011** — Recorded Entity with Origin
+- **2017** — Recorded Unparalleled Universe with Origin
+- **2018** — Filled in for Hannes Grossmann on Hate Eternal's November 2018 US tour
+- **2022** — Recorded Chaosmos with Origin
+
+## Style & Influences
+
+John Longstreth's drumming is built around raw speed and technical endurance, credited with pioneering double-stroke bass drum technique and the one-handed drum roll within extreme metal. His jazz-influenced upbringing — his father was a professional Kansas City jazz musician — gave him an early foundation in Buddy Rich, Miles Davis, and John Coltrane before thrash bands like Slayer redirected him toward extreme metal.
+
+**Key Influences:**
+- **Buddy Rich, Miles Davis, John Coltrane**: Jazz drumming foundation from his father's fifty-year career as a Kansas City jazz musician
+- **Slayer and early thrash metal**: Pulled Longstreth from jazz toward extreme metal
+
+**Signature Techniques:**
+- Pioneered double-stroke bass drum technique in extreme metal
+- Credited with pioneering the one-handed drum roll within the genre
+- Sustained high-speed blast beats and double-bass patterns built for endurance across full-length technical death metal sets
+- Released an instructional DVD, Drumming of a Madman, documenting his technique
+
+## Notable Recordings
+
+**Albums:**
+
+- **Angelcorpse - Hammer of Gods** (1996, Osmose Productions) — Angelcorpse's debut album
+- **Origin - Informis Infinitas Inhumanitas** (2002, Relapse Records) — Longstreth's Origin studio debut
+- **Origin - Entity** (2011, Nuclear Blast) — Widely acclaimed technical death metal album
+- **Origin - Unparalleled Universe** (2017, Agonia Records) — Featured guest vocals from Trevor Strnad
+- **Origin - Chaosmos** (2022, Agonia Records) — Most recent Origin studio album
+
+**Tours:**
+
+- **Origin World Touring** (1999-present) — Touring across the band's full discography
+- **Hate Eternal US Tour** (2018) — Filled in for regular drummer Hannes Grossmann
+
 ## Band History
 
 - **Angelcorpse** — 1995–1998, 2006–2007
@@ -55,22 +98,6 @@ He co-founded Angelcorpse in 1995, recording Hammer of Gods (1996) and Extermina
 - **Sticks:** Scorpion Percussion "Wee Heavy" Signature Drumsticks
 
 Pearl endorsement confirmed via his own Scorpion Percussion artist bio; specific kit model and shell sizes are not independently documented — omitted rather than guessed.
-
-## Endorsements
-
-- [Pearl Drums](https://pearldrum.com)
-- [Meinl Cymbals](https://meinlcymbals.com)
-- [Scorpion Percussion](https://scorpionpercussion.com)
-- [ACD Unlimited](https://www.acd-unlimited.at)
-- [FootBlaster](https://footblaster.com)
-
-## Endorsements
-
-- [Pearl Drums](https://pearldrum.com)
-- [Meinl Cymbals](https://meinlcymbals.com)
-- [Scorpion Percussion](https://scorpionpercussion.com)
-- [ACD Unlimited](https://www.acd-unlimited.at)
-- [FootBlaster](https://footblaster.com)
 
 ## Endorsements
 
@@ -128,6 +155,15 @@ A: Yes — John Longstreth filled in for regular drummer Hannes Grossmann on Hat
 
 A: Yes, John Longstreth has been Origin's drummer since 1999, aside from a 2003-2006 hiatus, and remains the band's drummer as of this writing.
 
+## Trivia
+
+- Grew up around jazz drumming; his father was a Kansas City jazz musician for fifty years
+- Credited with pioneering double-stroke bass drum technique and the one-handed drum roll within extreme metal
+- Filled in for regular drummer Hannes Grossmann on Hate Eternal's November 2018 US tour
+- Released his own instructional DVD, Drumming of a Madman
+- Co-founded Angelcorpse in 1995 and later rejoined for its 2006-2007 reunion
+- Has an English Wikipedia article; identifiable via Wikidata (Q11727929) rather than a dedicated English Wikipedia page as of this writing
+
 ## Quotes
 
 > "Embrace the art! Whether it's two-foot blasting, double strokes, one-handed rolls, triggers, etc., if it makes you feel good as a player, USE IT!"
@@ -162,10 +198,18 @@ Historical gear pricing and value: [John Longstreth's gear price history](https:
 
 Dated brand-endorsement timeline: [John Longstreth's endorsement history](https://metalforge.io/llms/endorsements/john-longstreth.md).
 
+## Sources
+
+- [Wikidata: John Longstreth](https://www.wikidata.org/wiki/Q11727929)
+- [Scorpion Percussion Artist Page — John Longstreth](https://scorpionpercussion.com/pages/john-longstreth-signature-artist)
+- [Meinl Cymbals Artist Page — John Longstreth](https://meinlcymbals.com/en/artists/john-longstreth-a12223.html)
+- [AllMusic: John Longstreth](https://www.allmusic.com/artist/john-longstreth-mn0001899210)
+- [Discogs: John Longstreth](https://www.discogs.com/artist/474966-John-Longstreth)
+
 ---
 
 **Full interactive profile:** [John Longstreth on MetalForge](https://metalforge.io/drummer/john-longstreth)
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

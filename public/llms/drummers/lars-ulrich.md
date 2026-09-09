@@ -6,7 +6,7 @@ country: "Denmark"
 primary_brand: "Tama"
 profile_url: "https://metalforge.io/drummer/lars-ulrich"
 source: "https://metalforge.io"
-last_updated: "2026-09-08"
+last_updated: "2026-09-09"
 ---
 
 # Lars Ulrich — Drum Kit & Gear Setup
@@ -56,6 +56,57 @@ Lars Ulrich (born December 26, 1963, in Gentofte, Denmark) is a Danish-American 
 
 Ulrich was the first Danish-born musician inducted into the Rock and Roll Hall of Fame when Metallica received the honor in 2009. He is widely recognized for his aggressive drumming style, distinctive fills, and his role in pioneering the thrash metal genre alongside bands like Slayer, Megadeth, and Anthrax—collectively known as the "Big Four" of thrash metal.
 
+## Career Highlights
+
+- **1981** — Co-founded Metallica in Los Angeles with James Hetfield after placing a newspaper ad seeking musicians
+- **1983** — Released "Kill 'Em All," Metallica's debut album, establishing the thrash metal template
+- **1986** — Recorded "Master of Puppets," widely considered one of the greatest metal albums ever made
+- **1991** — Released "The Black Album" (Metallica), which sold over 16 million copies in the US alone
+- **1996** — Headlined Lollapalooza festival, breaking metal's alternative boundaries
+- **2000** — Testified before the US Senate Judiciary Committee regarding Napster and digital piracy
+- **2004** — Subject of the documentary "Some Kind of Monster," revealing band dynamics and personal struggles
+- **2009** — Inducted into the Rock and Roll Hall of Fame with Metallica
+- **2016** — Released "Hardwired...to Self-Destruct," Metallica's first album in 8 years, debuting at #1
+- **2023** — Released "72 Seasons," Metallica's eleventh studio album
+
+## Style & Influences
+
+Lars Ulrich's drumming style is characterized by aggressive, driving rhythms and distinctive snare fills that have become synonymous with Metallica's sound. His approach prioritizes serving the song over technical showmanship, creating memorable patterns that complement the guitar riffs.
+
+**Key Influences:**
+- **Buddy Rich**: Jazz legend whose precision influenced Ulrich's ambition
+- **Ian Paice (Deep Purple)**: Hard rock drumming foundational to Ulrich's style
+- **Phil "Philthy Animal" Taylor (Motörhead)**: Raw energy and speed
+- **New Wave of British Heavy Metal**: Bands like Diamond Head, Iron Maiden, and Saxon
+
+**Signature Techniques:**
+- Aggressive double bass patterns on songs like "One" and "Battery"
+- Trademark snare fills leading into choruses
+- Syncopated rhythms on complex arrangements like "...And Justice for All"
+- Minimalist, groove-focused approach on later albums
+
+## Notable Recordings
+
+**Albums:**
+
+- **Kill 'Em All** (1983, Megaforce Records) — Thrash metal blueprint
+- **Ride the Lightning** (1984, Megaforce/Elektra) — Expanded musical complexity
+- **Master of Puppets** (1986, Elektra) — Widely considered a masterpiece
+- **...And Justice for All** (1988, Elektra) — Most technically demanding
+- **Metallica (The Black Album)** (1991, Elektra) — 16x Platinum in US
+- **Load** (1996, Elektra) — Musical experimentation era
+- **St. Anger** (2003, Elektra) — Raw, controversial production
+- **Death Magnetic** (2008, Warner Bros.) — Return to thrash roots
+- **Hardwired...to Self-Destruct** (2016, Blackened) — #1 in 57 countries
+- **72 Seasons** (2023, Blackened) — Most recent studio album
+
+**Tours:**
+
+- **Damage, Inc. Tour** (1986-1987) — Supporting Master of Puppets
+- **Nowhere Else to Roam Tour** (1991-1993) — 300+ shows for Black Album
+- **WorldWired Tour** (2016-2019) — Grossed over $600 million
+- **M72 World Tour** (2023-2025) — Two unique setlists per city
+
 ## Band History
 
 - **Metallica** — 1981–present (current)
@@ -68,20 +119,6 @@ Ulrich was the first Danish-born musician inducted into the Rock and Roll Hall o
 - **Hardware:** Tama Iron Cobra 900 Power Glide Double Pedal, Tama 1st Chair Throne
 - **Sticks:** Ahead Lars Ulrich Signature Drumsticks
 - **Heads:** Remo
-
-## Endorsements
-
-- [Tama Drums](https://www.tama.com)
-- [Zildjian Cymbals](https://zildjian.com)
-- [Ahead Drumsticks](https://www.aheaddrumsticks.com)
-- [Remo Drumheads](https://remo.com)
-
-## Endorsements
-
-- [Tama Drums](https://www.tama.com)
-- [Zildjian Cymbals](https://zildjian.com)
-- [Ahead Drumsticks](https://www.aheaddrumsticks.com)
-- [Remo Drumheads](https://remo.com)
 
 ## Endorsements
 
@@ -133,6 +170,17 @@ A: Lars Ulrich uses Zildjian A Custom series cymbals, including 14" Dyno Beat hi
 **Q: What snare drum does Lars Ulrich use?**
 
 A: Lars Ulrich's primary snare is the Tama LU1465, his signature 14"x6.5" steel-shell snare drum built for maximum cut and volume on stage. It has been his main snare since he moved from Camco drums to Tama in the mid-1980s.
+
+## Trivia
+
+- Originally moved to Los Angeles to pursue professional tennis, following his father's footsteps
+- His father, Torben Ulrich, was a professional tennis player and jazz musician
+- Played a crucial role in the lawsuit against Napster in 2000, becoming a controversial figure in the digital music debate
+- Collects fine art, including works by Jean-Michel Basquiat
+- Named his children Myles (born 1998) and Layne (born 2001) after musicians Miles Davis and Layne Staley
+- The "St. Anger" snare sound, achieved by loosening snare wires, remains one of the most debated production choices in metal history
+- Has stated "I'm not the best drummer in the world, but I'm the best drummer for Metallica"
+- Became a US citizen in 2007
 
 ## Quotes
 
@@ -201,10 +249,17 @@ Historical gear pricing and value: [Lars Ulrich's gear price history](https://me
 
 Dated brand-endorsement timeline: [Lars Ulrich's endorsement history](https://metalforge.io/llms/endorsements/lars-ulrich.md).
 
+## Sources
+
+- [Rock and Roll Hall of Fame](https://www.rockhall.com/inductees/metallica)
+- [Tama Drums Artist Profile](https://www.tama.com/usa/artists/detail/98.html)
+- [Modern Drummer Magazine](https://www.moderndrummer.com)
+- [Wikipedia: Lars Ulrich](https://en.wikipedia.org/wiki/Lars_Ulrich)
+
 ---
 
 **Full interactive profile:** [Lars Ulrich on MetalForge](https://metalforge.io/drummer/lars-ulrich)
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

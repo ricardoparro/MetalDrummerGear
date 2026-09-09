@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/joey-jordison"
 source: "https://metalforge.io"
-last_updated: "2026-09-08"
+last_updated: "2026-09-09"
 ---
 
 # Joey Jordison — Drum Kit & Gear Setup
@@ -39,6 +39,55 @@ Joey Jordison (born Nathan Jonas Jordison; April 26, 1975 – July 26, 2021) was
 
 His blistering speed, technical precision, and theatrical stage presence—including performing on a rotating, inverted drum platform—made him an icon in the metal community. Beyond Slipknot, Jordison founded the horror punk band Murderdolls, played guitar for Rob Zombie's touring band, and drummed for numerous projects including Sinsaenum, Vimic, and a brief stint with Metallica in 2004.
 
+## Career Highlights
+
+- **1995** — Joined Slipknot (then known as The Pale Ones), becoming member #1
+- **1999** — Released Slipknot's self-titled debut album, achieving platinum status
+- **2001** — Released "Iowa," considered one of the heaviest albums ever recorded
+- **2001** — Formed Murderdolls with Wednesday 13, playing guitar
+- **2002** — Performed legendary drum solo on "Disasterpieces" live DVD
+- **2004** — Briefly filled in for Lars Ulrich on Metallica tour dates
+- **2006** — Voted #1 in Revolver Magazine's "Greatest Metal Drummers of All Time"
+- **2008** — Released "All Hope Is Gone," Slipknot's first #1 Billboard album
+- **2010** — Won Revolver Golden Gods Award for Best Drummer
+- **2013** — Parted ways with Slipknot; later revealed he had been battling transverse myelitis
+- **2016** — Formed Sinsaenum and Vimic; continued performing despite health challenges
+- **2021** — Passed away on July 26, 2021, leaving an immeasurable legacy
+
+## Style & Influences
+
+Joey Jordison's drumming style combined extreme speed with surgical precision. He was capable of sustained blast beats at over 200 BPM while maintaining clarity and groove. His approach blended death metal technicality with nu-metal groove and punk energy.
+
+**Key Influences:**
+- **Dave Lombardo (Slayer)**: Thrash metal double bass technique
+- **Gene Hoglan (Death)**: Technical death metal precision
+- **Tommy Lee (Mötley Crüe)**: Theatrical stage presence
+- **Buddy Rich**: Jazz technique applied to metal
+
+**Signature Techniques:**
+- Sustained blast beats at extreme tempos
+- Complex syncopated patterns on songs like "People = Shit"
+- One-handed rolls and rapid-fire fills
+- Performing while rotating upside down on his drum riser
+- Seamless integration of electronic triggers with acoustic drums
+
+## Notable Recordings
+
+**Albums:**
+
+- **Slipknot** (1999, Roadrunner) — 2x Platinum, explosive debut
+- **Iowa** (2001, Roadrunner) — Recorded drums in 10 days; extreme intensity
+- **Vol. 3: (The Subliminal Verses)** (2004, Roadrunner) — Grammy for "Before I Forget"
+- **All Hope Is Gone** (2008, Roadrunner) — First #1 album on Billboard
+- **Murderdolls - Beyond the Valley of the Murderdolls** (2002, Roadrunner) — Joey on guitar
+- **Sinsaenum - Echoes of the Tortured** (2016, earMUSIC) — Death metal supergroup
+
+**Tours:**
+
+- **Ozzfest** (1999, 2001, 2004, 2005) — Multiple legendary performances
+- **Download Festival** (2009) — Headlined with Slipknot
+- **Mayhem Festival** (2008, 2012) — US summer touring
+
 ## Band History
 
 - **Slipknot** — 1995–2013
@@ -54,20 +103,6 @@ His blistering speed, technical precision, and theatrical stage presence—inclu
 - **Hardware:** Pearl Demon Drive Double Pedal, Pearl DR-501C Icon Rack, Pearl D-2000BR Throne
 - **Sticks:** Promark Joey Jordison Signature TX515W
 - **Heads:** Evans
-
-## Endorsements
-
-- [Pearl Drums](https://pearldrum.com)
-- [Paiste Cymbals](https://www.paiste.com)
-- [Promark Sticks](https://www.daddario.com/promark)
-- [Evans Drumheads](https://www.daddario.com/evans)
-
-## Endorsements
-
-- [Pearl Drums](https://pearldrum.com)
-- [Paiste Cymbals](https://www.paiste.com)
-- [Promark Sticks](https://www.daddario.com/promark)
-- [Evans Drumheads](https://www.daddario.com/evans)
 
 ## Endorsements
 
@@ -119,6 +154,18 @@ A: Joey Jordison used Paiste RUDE and 2002 series cymbals — 14" hi-hats, 18" &
 **Q: What bass drum pedals did Joey Jordison use?**
 
 A: Joey Jordison used a Pearl Demon Drive double bass drum pedal, giving him the speed and durability required for his extreme double kick patterns and the blast beats he performed live on Slipknot's rotating drum riser.
+
+## Trivia
+
+- Recorded all drums for Slipknot's "Iowa" album in just 10 days
+- His Slipknot member number was #1, designating him as a founding member
+- The famous rotating drum riser could flip completely upside down while Joey continued playing
+- Briefly considered for the Metallica drummer position after Jason Newsted's departure
+- Was battling transverse myelitis, an inflammatory condition affecting the spinal cord, for years before his death
+- At age 21, co-wrote Slipknot's debut album which went double platinum
+- Was known to practice 6-8 hours daily at the height of his career
+- His drum solo on "Disasterpieces" is considered one of the greatest in metal history
+- Wore mask #1 in Slipknot (Kabuki-style Japanese mask)
 
 ## Quotes
 
@@ -190,10 +237,17 @@ Historical gear pricing and value: [Joey Jordison's gear price history](https://
 
 Dated brand-endorsement timeline: [Joey Jordison's endorsement history](https://metalforge.io/llms/endorsements/joey-jordison.md).
 
+## Sources
+
+- [Pearl Drums Legacy](https://pearldrum.com)
+- [Revolver Magazine](https://www.revolvermag.com)
+- [Modern Drummer Magazine](https://www.moderndrummer.com)
+- [Wikipedia: Joey Jordison](https://en.wikipedia.org/wiki/Joey_Jordison)
+
 ---
 
 **Full interactive profile:** [Joey Jordison on MetalForge](https://metalforge.io/drummer/joey-jordison)
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

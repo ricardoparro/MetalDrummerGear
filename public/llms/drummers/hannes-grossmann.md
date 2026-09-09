@@ -6,7 +6,7 @@ country: "Germany"
 primary_brand: "DW"
 profile_url: "https://metalforge.io/drummer/hannes-grossmann"
 source: "https://metalforge.io"
-last_updated: "2026-09-08"
+last_updated: "2026-09-09"
 ---
 
 # Hannes Grossmann — Drum Kit & Gear Setup
@@ -41,6 +41,56 @@ Hannes Grossmann (born September 8, 1982, in Freising, Germany) is a German drum
 
 Grossmann first gained international recognition as the drummer for Necrophagist (2004-2010), one of the most influential technical death metal bands. He subsequently co-founded Obscura, where he helped define the progressive technical death metal sound. Beyond performing, he is an accomplished composer and producer who has worked on numerous metal productions from his studio in Germany.
 
+## Career Highlights
+
+- **1999** — Began serious drum studies, combining metal with classical percussion training
+- **2004** — Joined Necrophagist, replacing Steve Rowe
+- **2004** — Recorded drum tracks for Necrophagist's "Epitaph," a technical death metal landmark
+- **2007** — Co-founded Obscura with Steffen Kummerer
+- **2007** — Joined Ron Jarzombek's Blotted Science project
+- **2009** — Released "Cosmogenesis" with Obscura, critical acclaim worldwide
+- **2011** — Released "Omnivium" with Obscura, solidifying the band's reputation
+- **2014** — Co-founded progressive death metal supergroup Alkaloid
+- **2014** — Left Obscura to focus on Alkaloid and production work
+- **2020** — Rejoined Obscura as drummer
+- **2021** — Released "A Dying Wish" with Obscura
+
+## Style & Influences
+
+Hannes Grossmann's drumming style is characterized by extraordinary precision, jazz-influenced sophistication, and classical music sensibilities. His approach to extreme metal drumming emphasizes musicality over pure speed, though he is capable of blistering tempos when required.
+
+**Key Influences:**
+- **Steve Gadd**: Jazz precision and groove
+- **Virgil Donati**: Technical fusion drumming
+- **Gene Hoglan (Death)**: Technical death metal foundation
+- **Classical Percussion**: Orchestral training and compositional thinking
+
+**Signature Techniques:**
+- Jazz-influenced ghost notes and dynamic control within death metal
+- Complex polyrhythmic patterns with classical music precision
+- Clean, articulate blast beats at extreme tempos
+- Tasteful use of odd time signatures that feel natural
+- Integration of electronic elements in live and studio settings
+
+## Notable Recordings
+
+**Albums:**
+
+- **Necrophagist - Epitaph** (2004, Relapse) — Technical death metal essential
+- **Blotted Science - The Machinations of Dementia** (2007, Eclectic Electric) — Instrumental tech metal
+- **Obscura - Cosmogenesis** (2009, Relapse) — Progressive tech death breakthrough
+- **Obscura - Omnivium** (2011, Relapse) — Critical acclaim
+- **Alkaloid - The Malkuth Grimoire** (2015, Independent) — Supergroup debut
+- **Alkaloid - Liquid Anatomy** (2018, Season of Mist) — Progressive death metal evolution
+- **Obscura - A Dying Wish** (2021, Nuclear Blast) — Return to Obscura
+- **Alkaloid - Numen** (2023, Season of Mist) — Most ambitious work
+
+**Tours:**
+
+- **Summer Slaughter** (Multiple years) — Premier US extreme metal festival
+- **European Tech Death Tours** (2007-present) — Regular European touring
+- **Obscura World Tours** (2020-present) — Current touring cycle
+
 ## Band History
 
 - **Alkaloid** — 2013–present (current)
@@ -55,18 +105,6 @@ Grossmann first gained international recognition as the drummer for Necrophagist
 - **Hardware:** DW 9000 Series Double Pedal
 - **Sticks:** Vic Firth American Classic 5B
 - **Heads:** Evans
-
-## Endorsements
-
-- [DW Drums](https://www.dwdrums.com)
-- [Meinl Cymbals](https://meinlcymbals.com)
-- [Vic Firth Sticks](https://vicfirth.zildjian.com)
-
-## Endorsements
-
-- [DW Drums](https://www.dwdrums.com)
-- [Meinl Cymbals](https://meinlcymbals.com)
-- [Vic Firth Sticks](https://vicfirth.zildjian.com)
 
 ## Endorsements
 
@@ -118,6 +156,18 @@ A: Hannes Grossmann drums for Obscura (2007-2014, 2020-present) and Alkaloid (20
 
 A: Hannes Grossmann holds a degree in classical percussion and music theory, training that informs the jazz-influenced ghost notes and polyrhythmic precision he brings to technical death metal with Necrophagist, Obscura, and Alkaloid.
 
+## Trivia
+
+- Holds a degree in classical percussion and music theory
+- One of the few drummers to have played on both Necrophagist albums
+- His production credits include work for bands across multiple subgenres
+- Alkaloid was formed as a creative outlet separate from Obscura's style
+- Known for his warm, educational approach at drum clinics
+- Has released instructional content on technical death metal drumming
+- Composes music that incorporates classical and jazz elements
+- Necrophagist's "Epitaph" remains one of the most influential tech death albums
+- Returned to Obscura in 2020 after a 6-year hiatus from the band
+
 ## Signature Licks on MetalForge
 
 MetalForge has 3 signature lick tutorial(s) for Hannes Grossmann:
@@ -168,10 +218,16 @@ Historical gear pricing and value: [Hannes Grossmann's gear price history](https
 
 Dated brand-endorsement timeline: [Hannes Grossmann's endorsement history](https://metalforge.io/llms/endorsements/hannes-grossmann.md).
 
+## Sources
+
+- [Meinl Cymbals](https://meinlcymbals.com)
+- [Obscura Official](https://www.facebook.com/obscaboreal/)
+- [Wikipedia: Hannes Grossmann](https://en.wikipedia.org/wiki/Hannes_Grossmann)
+
 ---
 
 **Full interactive profile:** [Hannes Grossmann on MetalForge](https://metalforge.io/drummer/hannes-grossmann)
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

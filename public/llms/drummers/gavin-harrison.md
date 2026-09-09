@@ -6,7 +6,7 @@ country: "UK"
 primary_brand: "Sonor"
 profile_url: "https://metalforge.io/drummer/gavin-harrison"
 source: "https://metalforge.io"
-last_updated: "2026-09-08"
+last_updated: "2026-09-09"
 ---
 
 # Gavin Harrison — Drum Kit & Gear Setup
@@ -41,6 +41,58 @@ Gavin Harrison (born May 28, 1963, in Harrow, London, England) is an English dru
 
 Harrison's playing is characterized by intricate polyrhythmic patterns, masterful use of ghost notes, and an extraordinary ability to navigate complex odd-time signatures with musicality and groove. His technical prowess combined with tasteful restraint has earned him numerous awards from Modern Drummer magazine and the respect of drummers across all genres.
 
+## Career Highlights
+
+- **1980s** — Session drummer in London, working with various pop and rock artists
+- **1996** — Released instructional video "Rhythmic Visions"
+- **2002** — Joined Porcupine Tree, recording "In Absentia"
+- **2005** — Released "Deadwing" with Porcupine Tree to critical acclaim
+- **2007** — Released "Fear of a Blank Planet" with Porcupine Tree; won Modern Drummer awards
+- **2008** — Joined King Crimson; started "05Ric" collaboration with 05Ric drummer trio
+- **2009** — Released "The Incident" with Porcupine Tree
+- **2010** — Porcupine Tree went on hiatus; continued with King Crimson
+- **2016** — Joined The Pineapple Thief, revitalizing the band's sound
+- **2021** — Porcupine Tree reunited; released "Closure/Continuation" in 2022
+- **2022** — Toured with Porcupine Tree for first time in over a decade
+
+## Style & Influences
+
+Gavin Harrison's drumming style is defined by sophisticated polyrhythmic concepts, impeccable dynamics, and a deep understanding of how drums interact with other instruments. His approach emphasizes serving the music while adding subtle complexities that reward repeated listening.
+
+**Key Influences:**
+- **Vinnie Colaiuta**: Technical versatility and musicality
+- **Steve Gadd**: Groove and pocket playing
+- **Bill Bruford**: Progressive rock drumming concepts
+- **Tony Williams**: Jazz fusion polyrhythms
+- **African and World Music**: Polyrhythmic foundations
+
+**Signature Techniques:**
+- Complex polyrhythms layered over simple grooves
+- Masterful ghost notes that add texture and depth
+- Fluid navigation of odd time signatures (7/8, 11/8, 13/8)
+- Linear drumming patterns with musical phrasing
+- Extreme dynamic control from whisper-quiet to thunderous
+
+## Notable Recordings
+
+**Albums:**
+
+- **Porcupine Tree - In Absentia** (2002, Lava) — First album with PT
+- **Porcupine Tree - Deadwing** (2005, Lava) — Progressive metal excellence
+- **Porcupine Tree - Fear of a Blank Planet** (2007, Roadrunner) — Career-defining album
+- **Porcupine Tree - The Incident** (2009, Roadrunner) — Final pre-hiatus album
+- **King Crimson - Live recordings** (2008-Present, DGM) — Multiple live releases
+- **The Pineapple Thief - Your Wilderness** (2016, Kscope) — First album with TPT
+- **The Pineapple Thief - Dissolution** (2018, Kscope) — Band's commercial peak
+- **Porcupine Tree - Closure/Continuation** (2022, Music for Nations) — Reunion album
+
+**Tours:**
+
+- **Porcupine Tree World Tours** (2002-2010) — Extensive touring
+- **King Crimson Tours** (2014-2021) — Part of three-drummer lineup
+- **The Pineapple Thief Tours** (2016-Present) — Ongoing touring
+- **Porcupine Tree Reunion Tour** (2022-2023) — Highly anticipated return
+
 ## Band History
 
 - **Porcupine Tree** — 2002–2010, 2021–present (current)
@@ -57,20 +109,6 @@ Harrison's playing is characterized by intricate polyrhythmic patterns, masterfu
 - **Heads:** Remo Ambassador
 
 See the [Gavin Harrison vs Mike Mangini](/vs/gavin-harrison-vs-mike-mangini) comparison for a full breakdown of Porcupine Tree/King Crimson's polyrhythmic feel vs Dream Theater's technical science.
-
-## Endorsements
-
-- [Sonor Drums](https://www.sonor.com)
-- [Zildjian Cymbals](https://zildjian.com)
-- [Vic Firth Sticks](https://vicfirth.zildjian.com)
-- [Remo Drumheads](https://remo.com)
-
-## Endorsements
-
-- [Sonor Drums](https://www.sonor.com)
-- [Zildjian Cymbals](https://zildjian.com)
-- [Vic Firth Sticks](https://vicfirth.zildjian.com)
-- [Remo Drumheads](https://remo.com)
 
 ## Endorsements
 
@@ -121,6 +159,18 @@ A: Gavin Harrison plays his own signature Vic Firth Gavin Harrison Signature dru
 **Q: What drumheads does Gavin Harrison use?**
 
 A: Gavin Harrison uses Remo Ambassador drumheads across his Sonor SQ2 Series drum kit, giving him the sensitivity and articulation his ghost-note-heavy, polyrhythmic playing requires.
+
+## Trivia
+
+- Has won the Modern Drummer Readers' Poll multiple times in the Progressive Rock category
+- Published the book "Rhythmic Perspectives" on polyrhythmic drumming
+- His instructional materials are studied by drummers worldwide
+- Part of King Crimson's revolutionary three-drummer lineup
+- Known for his humble, analytical approach to discussing drumming
+- Has stated that dynamics are more important than speed
+- Practices with a metronome extensively to maintain timing precision
+- His work on "Fear of a Blank Planet" is considered a progressive drumming benchmark
+- Collaborated with 05Ric—a trio of three drummers creating interlocking patterns
 
 ## Quotes
 
@@ -183,10 +233,17 @@ Historical gear pricing and value: [Gavin Harrison's gear price history](https:/
 
 Dated brand-endorsement timeline: [Gavin Harrison's endorsement history](https://metalforge.io/llms/endorsements/gavin-harrison.md).
 
+## Sources
+
+- [Sonor Drums Artist Profile](https://www.sonor.com/drums/artists)
+- [Zildjian Artist Profile](https://zildjian.com/blogs/artist/gavin-harrison)
+- [Wikipedia: Gavin Harrison](https://en.wikipedia.org/wiki/Gavin_Harrison)
+- [Drumeo](https://www.drumeo.com)
+
 ---
 
 **Full interactive profile:** [Gavin Harrison on MetalForge](https://metalforge.io/drummer/gavin-harrison)
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

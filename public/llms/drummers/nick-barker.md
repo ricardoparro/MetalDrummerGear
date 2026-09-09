@@ -6,7 +6,7 @@ country: "UK"
 primary_brand: "Sonor"
 profile_url: "https://metalforge.io/drummer/nick-barker"
 source: "https://metalforge.io"
-last_updated: "2026-09-08"
+last_updated: "2026-09-09"
 ---
 
 # Nick Barker — Drum Kit & Gear Setup
@@ -39,6 +39,46 @@ Nicholas Howard Barker (born April 25, 1973, in Chesterfield, Derbyshire, Englan
 
 Barker then joined Norwegian symphonic black metal band Dimmu Borgir, recording Puritanical Euphoric Misanthropia (2001) and Death Cult Armageddon (2003) during his 1999-2004 tenure — two albums that helped push Dimmu Borgir's symphonic black metal drum set work to a wider international audience. In 1998 he co-founded the grindcore supergroup Lock Up with Napalm Death's Shane Embury, recording Pleasures Pave Sewers (1999), Hate Breeds Suffering (2002), and Demonization (2017) before leaving the band in 2020. He has also done session and touring work for Testament, Old Man's Child, Exodus, Brujeria, Gorgoroth/God Seed, Anaal Nathrakh, and Benediction.
 
+## Career Highlights
+
+- **1993** — Joined Cradle of Filth as drummer
+- **1994** — Recorded The Principle of Evil Made Flesh, Cradle of Filth's debut album
+- **1998** — Recorded Cruelty and the Beast with Cradle of Filth; co-founded grindcore supergroup Lock Up with Shane Embury
+- **1999** — Recorded From the Cradle to Enslave EP, his final Cradle of Filth release, before departing; joined Dimmu Borgir; released Lock Up's debut Pleasures Pave Sewers
+- **2001** — Recorded Puritanical Euphoric Misanthropia with Dimmu Borgir
+- **2003** — Recorded Death Cult Armageddon with Dimmu Borgir
+- **2004** — Departed Dimmu Borgir
+- **2017** — Recorded Demonization with Lock Up
+- **2020** — Left Lock Up after more than two decades with the band
+
+## Style & Influences
+
+Nick Barker's drumming spans the symphonic, blast-beat-driven vocabulary of black metal and the raw, high-velocity attack of grindcore, a range built over tenures in Cradle of Filth, Dimmu Borgir, and Lock Up. His playing serves each band's distinct demands — sustaining relentless blast beats beneath Cradle of Filth's and Dimmu Borgir's orchestral arrangements, and delivering the stripped-down speed grindcore requires in Lock Up.
+
+**Key Influences:**
+- **Extreme metal blast-beat drumming**: The foundation of his work across Cradle of Filth and Dimmu Borgir
+- **Grindcore drumming**: Shaped his high-velocity, stripped-down playing in Lock Up
+
+**Signature Techniques:**
+- Sustained blast beats supporting symphonic black metal orchestration
+- High-speed grindcore drumming distinct from his black metal work
+- Session versatility across extreme metal subgenres, from thrash (Testament, Exodus) to black metal (Gorgoroth/God Seed) to grindcore (Anaal Nathrakh, Benediction)
+
+## Notable Recordings
+
+**Albums:**
+
+- **Cradle of Filth - The Principle of Evil Made Flesh** (1994, Cacophonous Records) — Cradle of Filth's debut album
+- **Cradle of Filth - Cruelty and the Beast** (1998, Music for Nations) — Concept album on Elizabeth Báthory
+- **Dimmu Borgir - Puritanical Euphoric Misanthropia** (2001, Nuclear Blast) — Barker's Dimmu Borgir studio debut
+- **Dimmu Borgir - Death Cult Armageddon** (2003, Nuclear Blast) — Recorded with the Prague Philharmonic Orchestra
+- **Lock Up - Demonization** (2017, Nuclear Blast) — Grindcore supergroup with Napalm Death's Shane Embury
+
+**Tours:**
+
+- **Cradle of Filth World Touring** (1993-1999) — Touring across five studio releases
+- **Dimmu Borgir World Touring** (1999-2004) — Touring the Puritanical Euphoric Misanthropia and Death Cult Armageddon cycles
+
 ## Band History
 
 - **Cradle of Filth** — 1993–1999
@@ -50,14 +90,6 @@ Barker then joined Norwegian symphonic black metal band Dimmu Borgir, recording 
 - **Drums:** Sonor
 
 Official Sonor artist endorsement confirmed; specific kit model, snare, cymbals, sticks, and heads are not publicly documented — omitted rather than guessed.
-
-## Endorsements
-
-- [Sonor Drums](https://www.sonor.com)
-
-## Endorsements
-
-- [Sonor Drums](https://www.sonor.com)
 
 ## Endorsements
 
@@ -106,6 +138,14 @@ A: Nick Barker is an official Sonor artist, a relationship confirmed on Sonor's 
 
 A: Lock Up is a grindcore supergroup Nick Barker co-founded in 1998 with Napalm Death bassist Shane Embury, releasing Pleasures Pave Sewers (1999), Hate Breeds Suffering (2002), and Demonization (2017) before Barker left the band in 2020.
 
+## Trivia
+
+- Recorded five Cradle of Filth releases between 1994 and 1999, including the band's debut The Principle of Evil Made Flesh
+- Recorded Dimmu Borgir's Death Cult Armageddon (2003) with the Prague Philharmonic Orchestra
+- Co-founded grindcore supergroup Lock Up in 1998 with Napalm Death bassist Shane Embury, staying with the band until 2020
+- Has done extensive session/touring work across thrash (Testament, Exodus), black metal (Old Man's Child, Gorgoroth/God Seed), and grindcore (Anaal Nathrakh, Benediction)
+- "Nick Barker" is a common name — his Wikipedia entry is disambiguated as "Nick Barker (drummer)"
+
 ## Signature Licks on MetalForge
 
 MetalForge has 1 signature lick tutorial(s) for Nick Barker:
@@ -126,10 +166,15 @@ Historical gear pricing and value: [Nick Barker's gear price history](https://me
 
 Dated brand-endorsement timeline: [Nick Barker's endorsement history](https://metalforge.io/llms/endorsements/nick-barker.md).
 
+## Sources
+
+- [Wikipedia: Nick Barker (drummer)](https://en.wikipedia.org/wiki/Nick_Barker_(drummer))
+- [Sonor Artist Page — Nick Barker](https://www.sonor.com/drums/artists/artists-detail/nick-barker)
+
 ---
 
 **Full interactive profile:** [Nick Barker on MetalForge](https://metalforge.io/drummer/nick-barker)
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

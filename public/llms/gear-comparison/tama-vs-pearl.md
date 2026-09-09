@@ -1,7 +1,7 @@
 # Tama vs Pearl Drums for Metal — Side-by-Side Gear Comparison
 
 > MetalForge's side-by-side comparison of Tama and Pearl drums used by pro metal drummers.
-> Last updated: 2026-07-25
+> Last updated: 2026-09-09
 
 Compare Tama and Pearl drums for metal drumming. See specs, pricing, pro endorsements, and which kit suits your playing style. Expert analysis from MetalForge.
 
@@ -9,13 +9,13 @@ Compare Tama and Pearl drums for metal drumming. See specs, pricing, pro endorse
 
 ## Which Metal Drummers Use Tama?
 
-Pro metal drummers who endorse Tama include: **Lars Ulrich, Gene Hoglan, Charlie Benante, Eloy Casagrande**.
+Pro metal drummers who endorse Tama include: **Lars Ulrich, Charlie Benante, Eloy Casagrande**.
 
 Tama is particularly well-suited for: Thrash and progressive metal.
 
 ## Which Metal Drummers Use Pearl?
 
-Pro metal drummers who endorse Pearl include: **Joey Jordison, Dave Lombardo, George Kollias, Matt Halpern**.
+Pro metal drummers who endorse Pearl include: **Joey Jordison, George Kollias, Matt Halpern**.
 
 Pearl is particularly well-suited for: Death metal and extreme metal.
 
@@ -29,6 +29,34 @@ Pearl is particularly well-suited for: Death metal and extreme metal.
 | **Plies** | 6mm (5-ply) | Size-specific |
 | **Hoops** | Die-Cast | MasterCast |
 | **Mounting** | Star-Cast | OptiMount |
+
+## Tama Starclassic Walnut/Birch Pros / Cons
+
+**Pros:**
+
+- Hybrid shell delivers warmth and attack
+- Star-Cast mounting system isolates shells
+- Die-cast hoops for crisp rimshots
+- Wide range of finish options
+
+**Cons:**
+
+- Higher price point
+- Heavy hardware
+
+## Pearl Reference Series Pros / Cons
+
+**Pros:**
+
+- Reference Shell construction - optimized wood per drum size
+- MasterCast hoops for durability
+- Excellent studio tone
+- OptiMount suspension system
+
+**Cons:**
+
+- Complex shell formula may not suit all styles
+- Premium pricing
 
 ## Head-to-Head: Tone, Build, Price
 
@@ -48,16 +76,16 @@ Pearl is particularly well-suited for: Death metal and extreme metal.
 A: Both excel in metal. Tama suits progressive and thrash; Pearl dominates death metal and extreme genres.
 
 **Q: Which metal drummers endorse Tama?**
-A: Tama is endorsed by notable metal drummers including Lars Ulrich, Gene Hoglan, Charlie Benante, Eloy Casagrande. The brand is especially popular for Thrash and progressive metal.
+A: Tama is endorsed by notable metal drummers including Lars Ulrich, Charlie Benante, Eloy Casagrande. The brand is especially popular for Thrash and progressive metal.
 
 **Q: Which metal drummers endorse Pearl?**
-A: Pearl is endorsed by notable metal drummers including Joey Jordison, Dave Lombardo, George Kollias, Matt Halpern. The brand is especially popular for Death metal and extreme metal.
+A: Pearl is endorsed by notable metal drummers including Joey Jordison, George Kollias, Matt Halpern. The brand is especially popular for Death metal and extreme metal.
 
 **Q: How do Tama and Pearl price points compare?**
 A: Tama (Starclassic Walnut/Birch) is priced at €3,500 - €4,500. Pearl (Reference Series) runs €3,200 - €4,200. Pearl offers marginally better value with comparable quality. Tama commands premium for signature aesthetics.
 
 **Q: Which drums brand is more popular among metal drummers?**
-A: Based on MetalForge's tracking data, Tama is used by 4 documented metal drummers and Pearl by 4 in this comparison dataset. Tama leads in tracked endorsements, though real-world adoption is broad for both brands. See the full picture at [metalforge.io/compare/tama-vs-pearl](https://metalforge.io/compare/tama-vs-pearl).
+A: Based on MetalForge's tracking data, Tama is used by 3 documented metal drummers and Pearl by 3 in this comparison dataset. Tama leads in tracked endorsements, though real-world adoption is broad for both brands. See the full picture at [metalforge.io/compare/tama-vs-pearl](https://metalforge.io/compare/tama-vs-pearl).
 
 ---
 

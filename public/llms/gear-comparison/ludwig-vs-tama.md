@@ -1,7 +1,7 @@
 # Ludwig vs Tama Drums for Metal — Side-by-Side Gear Comparison
 
 > MetalForge's side-by-side comparison of Ludwig and Tama drums used by pro metal drummers.
-> Last updated: 2026-07-25
+> Last updated: 2026-09-09
 
 Compare Ludwig Classic Maple and Tama Starclassic drums for metal. Vintage American craftsmanship vs modern metal-tuned attack, pricing, specs, and pro endorsements.
 
@@ -13,7 +13,7 @@ Ludwig is used by professional metal drummers across multiple sub-genres.
 
 ## Which Metal Drummers Use Tama?
 
-Pro metal drummers who endorse Tama include: **Lars Ulrich, Charlie Benante, Mario Duplantier, Gene Hoglan**.
+Pro metal drummers who endorse Tama include: **Lars Ulrich, Charlie Benante, Mario Duplantier**.
 
 Tama is particularly well-suited for: Thrash metal, groove metal, progressive metal.
 
@@ -27,6 +27,38 @@ Tama is particularly well-suited for: Thrash metal, groove metal, progressive me
 | **Plies** | 3-ply w/ Reinforcement Rings | 6-ply (7.5mm) |
 | **Hoops** | Triple-Flanged Steel | Die-Cast |
 | **Mounting** | Rail Consolette | Star-Cast |
+
+## Ludwig Classic Maple Pros / Cons
+
+**Pros:**
+
+- Classic 3-ply maple shells with reinforcement rings deliver a warm, vintage tone
+- Rail Consolette mounting is simple, rugged, and easy to service on the road
+- Historic pedigree - the oldest American drum company, present at the birth of rock and early metal
+- Lower cost of entry than most other premium-tier legacy kit brands
+- Wide range of vintage-inspired wraps and finishes for a distinctive look
+
+**Cons:**
+
+- Fewer modern shell-hybrid options than Tama's Starclassic lineup
+- Traditional lug and hoop hardware is heavier than isolation-mounted competitors
+- Far fewer current touring metal drummers on the roster than Tama, so less metal-specific artist support
+
+## Tama Starclassic Maple Pros / Cons
+
+**Pros:**
+
+- Warm, resonant maple shells with excellent sustain and cut for downtuned riffing
+- Star-Cast mounting system isolates shells for maximum resonance
+- Proven durability across four decades of touring metal drummers
+- Wide range of finishes and shell configurations built with metal players in mind
+- Deep roster of thrash, groove, and progressive metal endorsees
+
+**Cons:**
+
+- Higher price point than Ludwig's comparable maple tier
+- Standard hardware is heavier than boutique competitors
+- Less vintage character than Ludwig's classic 3-ply shell voicing
 
 ## Head-to-Head: Tone, Build, Price
 
@@ -49,7 +81,7 @@ A: Tama is the battle-tested, proven choice across thrash, groove, and progressi
 A: Ludwig is endorsed by numerous metal drummers worldwide.
 
 **Q: Which metal drummers endorse Tama?**
-A: Tama is endorsed by notable metal drummers including Lars Ulrich, Charlie Benante, Mario Duplantier, Gene Hoglan. The brand is especially popular for Thrash metal, groove metal, progressive metal.
+A: Tama is endorsed by notable metal drummers including Lars Ulrich, Charlie Benante, Mario Duplantier. The brand is especially popular for Thrash metal, groove metal, progressive metal.
 
 **Q: How do Ludwig and Tama price points compare?**
 A: Ludwig (Classic Maple) is priced at €2,600 - €3,600. Tama (Starclassic Maple) runs €3,200 - €4,300. Ludwig Classic Maple undercuts Tama Starclassic by several hundred euros for comparable shell craftsmanship, making it the more affordable route into a historic, boutique-grade drum brand.

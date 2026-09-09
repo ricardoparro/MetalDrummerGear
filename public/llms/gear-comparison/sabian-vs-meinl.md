@@ -1,7 +1,7 @@
 # Sabian vs Meinl Cymbals for Metal — Side-by-Side Gear Comparison
 
 > MetalForge's side-by-side comparison of Sabian and Meinl cymbals used by pro metal drummers.
-> Last updated: 2026-07-25
+> Last updated: 2026-09-09
 
 Sabian HHX/AAX vs Meinl Byzance for metal drumming. Compare bright vs dark tones, pricing, and which cymbals top progressive and groove metal drummers prefer.
 
@@ -29,6 +29,38 @@ Meinl is particularly well-suited for: Progressive metal, djent, modern metal.
 | **Finish** | Natural/Brilliant | Traditional/Brilliant/Extra Dry |
 | **Manufacturing** | Hand-hammered (HHX) / Machine (AAX) | Hand-hammered |
 | **Origin** | Canada | Germany/Turkey |
+
+## Sabian HHX Series Pros / Cons
+
+**Pros:**
+
+- Hand-hammered warmth with enough cut for heavy riffing
+- Wide series range (bright AAX, dark HHX) covers every metal subgenre
+- Compression Hi-Hats, designed with Tomas Haake, built for blast-beat control
+- Excellent value relative to legacy-priced competitors
+- Consistent Canadian manufacturing keeps quality high across price tiers
+
+**Cons:**
+
+- Less brand heritage and cachet than Zildjian
+- Hand-hammered HHX line has more piece-to-piece variance
+- AAX can feel one-dimensional next to Meinl's tonal complexity
+
+## Meinl Byzance Series Pros / Cons
+
+**Pros:**
+
+- Hand-hammered Turkish craftsmanship with deep, complex overtones
+- Extra Dry finish cuts through without excessive ring for tight metal mixes
+- Trusted by a wide range of modern and progressive metal drummers
+- Excellent studio recording character
+- Traditional, Brilliant, and Extra Dry finishes give drummers three distinct voicings in one series
+
+**Cons:**
+
+- Darker voicing can lack the bright cut some thrash and black metal needs
+- Premium pricing on par with top-tier Zildjian and Sabian
+- Extra Dry finish is more fragile and prone to visible wear over time
 
 ## Head-to-Head: Tone, Build, Price
 

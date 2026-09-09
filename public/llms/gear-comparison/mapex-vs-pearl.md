@@ -1,7 +1,7 @@
 # Mapex vs Pearl Drums for Metal — Side-by-Side Gear Comparison
 
 > MetalForge's side-by-side comparison of Mapex and Pearl drums used by pro metal drummers.
-> Last updated: 2026-07-25
+> Last updated: 2026-09-09
 
 Compare Mapex Saturn V and Pearl Masters Maple Complete drums for metal. See specs, pricing, pro endorsements, and which mid-tier kit suits your playing style.
 
@@ -15,7 +15,7 @@ Mapex is particularly well-suited for: Groove metal, thrash, technical death met
 
 ## Which Metal Drummers Use Pearl?
 
-Pro metal drummers who endorse Pearl include: **Gene Hoglan, Flo Mounier, Mike Mangini**.
+Pro metal drummers who endorse Pearl include: **Gene Hoglan, Mike Mangini**.
 
 Pearl is particularly well-suited for: Death metal, technical death metal, progressive metal.
 
@@ -29,6 +29,38 @@ Pearl is particularly well-suited for: Death metal, technical death metal, progr
 | **Plies** | 7-ply (6mm) | SST (Superior Shell Technology) |
 | **Hoops** | SONIClear | MasterCast |
 | **Mounting** | Sonic Portal | OptiMount |
+
+## Mapex Saturn V Pros / Cons
+
+**Pros:**
+
+- SONIClear Edge bearing edges for maximum resonance and easy tuning
+- Sonic Portal tom mounting reduces air-tight resonance loss
+- Duo-Tone Bass Drum finish adds visual flair with structural reinforcement
+- Falcon double pedal pairing is a favorite among fast-footed metal drummers
+- Aggressively priced against Pearl and Tama for the same pro-tier shell quality
+
+**Cons:**
+
+- Smaller cymbal and hardware ecosystem than Pearl or Tama
+- Fewer signature snare options tuned specifically for metal
+- Resale value trails behind the bigger legacy drum brands
+
+## Pearl Masters Maple Complete Pros / Cons
+
+**Pros:**
+
+- Superior Shell Technology (SST) air vents for consistent resonance
+- OptiMount suspension isolates shells for longer sustain
+- Proven under extreme-metal touring schedules for decades
+- Broad finish and shell-depth customization options
+- Massive artist roster and secondhand market make parts easy to find
+
+**Cons:**
+
+- Heavier hardware than Mapex's Falcon-based rack system
+- Premium pricing versus Mapex's mid-tier positioning
+- Entry-level SST tiers dilute the "pro" branding somewhat
 
 ## Head-to-Head: Tone, Build, Price
 
@@ -51,13 +83,13 @@ A: Mapex suits groove and thrash drummers who want punch on a budget. Pearl rema
 A: Mapex is endorsed by notable metal drummers including Chris Adler, Jason Bittner. The brand is especially popular for Groove metal, thrash, technical death metal.
 
 **Q: Which metal drummers endorse Pearl?**
-A: Pearl is endorsed by notable metal drummers including Gene Hoglan, Flo Mounier, Mike Mangini. The brand is especially popular for Death metal, technical death metal, progressive metal.
+A: Pearl is endorsed by notable metal drummers including Gene Hoglan, Mike Mangini. The brand is especially popular for Death metal, technical death metal, progressive metal.
 
 **Q: How do Mapex and Pearl price points compare?**
 A: Mapex (Saturn V) is priced at €2,200 - €3,000. Pearl (Masters Maple Complete) runs €2,600 - €3,400. Mapex undercuts Pearl by several hundred euros for comparable shell craftsmanship, making Saturn V the better entry point into pro-tier metal drums. Pearl's wider dealer network and parts availability partly offsets its higher sticker price over the life of the kit.
 
 **Q: Which drums brand is more popular among metal drummers?**
-A: Based on MetalForge's tracking data, Mapex is used by 2 documented metal drummers and Pearl by 3 in this comparison dataset. Pearl leads in tracked endorsements, though real-world adoption is broad for both brands. See the full picture at [metalforge.io/compare/mapex-vs-pearl](https://metalforge.io/compare/mapex-vs-pearl).
+A: Based on MetalForge's tracking data, Mapex is used by 2 documented metal drummers and Pearl by 2 in this comparison dataset. Mapex leads in tracked endorsements, though real-world adoption is broad for both brands. See the full picture at [metalforge.io/compare/mapex-vs-pearl](https://metalforge.io/compare/mapex-vs-pearl).
 
 ---
 

@@ -1,7 +1,7 @@
 # Paiste vs Sabian Cymbals for Metal — Side-by-Side Gear Comparison
 
 > MetalForge's side-by-side comparison of Paiste and Sabian cymbals used by pro metal drummers.
-> Last updated: 2026-07-25
+> Last updated: 2026-09-09
 
 Compare Paiste RUDE and Sabian HHX cymbals for metal. Swiss precision vs Canadian craftsmanship. See which cymbals cut through heavy guitars.
 
@@ -9,13 +9,13 @@ Compare Paiste RUDE and Sabian HHX cymbals for metal. Swiss precision vs Canadia
 
 ## Which Metal Drummers Use Paiste?
 
-Pro metal drummers who endorse Paiste include: **Dave Lombardo, Joey Jordison, Pete Sandoval**.
+Pro metal drummers who endorse Paiste include: **Dave Lombardo, Joey Jordison**.
 
 Paiste is particularly well-suited for: Thrash metal, live performance.
 
 ## Which Metal Drummers Use Sabian?
 
-Pro metal drummers who endorse Sabian include: **Tomas Haake, Danny Carey, Mike Portnoy**.
+Pro metal drummers who endorse Sabian include: **Tomas Haake, Mike Portnoy**.
 
 Sabian is particularly well-suited for: Progressive metal, studio recording.
 
@@ -29,6 +29,34 @@ Sabian is particularly well-suited for: Progressive metal, studio recording.
 | **Finish** | Colored | Natural/Brilliant |
 | **Manufacturing** | Machine-made | Hand-hammered |
 | **Origin** | Switzerland | Canada |
+
+## Paiste RUDE Series Pros / Cons
+
+**Pros:**
+
+- Designed for heavy hitting
+- Cutting, aggressive tone
+- Incredibly durable
+- Iconic thrash metal sound
+
+**Cons:**
+
+- Limited tonal range
+- Too harsh for studio work
+
+## Sabian HHX Series Pros / Cons
+
+**Pros:**
+
+- Hand-hammered warmth
+- Excellent dynamic range
+- Works live and in studio
+- Dark, musical overtones
+
+**Cons:**
+
+- May lack cut in extreme situations
+- Softer alloy than RUDE
 
 ## Head-to-Head: Tone, Build, Price
 
@@ -48,16 +76,16 @@ Sabian is particularly well-suited for: Progressive metal, studio recording.
 A: RUDE for thrash aggression. HHX for progressive complexity.
 
 **Q: Which metal drummers endorse Paiste?**
-A: Paiste is endorsed by notable metal drummers including Dave Lombardo, Joey Jordison, Pete Sandoval. The brand is especially popular for Thrash metal, live performance.
+A: Paiste is endorsed by notable metal drummers including Dave Lombardo, Joey Jordison. The brand is especially popular for Thrash metal, live performance.
 
 **Q: Which metal drummers endorse Sabian?**
-A: Sabian is endorsed by notable metal drummers including Tomas Haake, Danny Carey, Mike Portnoy. The brand is especially popular for Progressive metal, studio recording.
+A: Sabian is endorsed by notable metal drummers including Tomas Haake, Mike Portnoy. The brand is especially popular for Progressive metal, studio recording.
 
 **Q: How do Paiste and Sabian price points compare?**
 A: Paiste (RUDE Series) is priced at €1,800 - €2,400. Sabian (HHX Series) runs €1,900 - €2,500. RUDE offers better value for live metal. HHX is worth the premium for versatility.
 
 **Q: Which cymbals brand is more popular among metal drummers?**
-A: Based on MetalForge's tracking data, Paiste is used by 3 documented metal drummers and Sabian by 3 in this comparison dataset. Paiste leads in tracked endorsements, though real-world adoption is broad for both brands. See the full picture at [metalforge.io/compare/paiste-vs-sabian](https://metalforge.io/compare/paiste-vs-sabian).
+A: Based on MetalForge's tracking data, Paiste is used by 2 documented metal drummers and Sabian by 2 in this comparison dataset. Paiste leads in tracked endorsements, though real-world adoption is broad for both brands. See the full picture at [metalforge.io/compare/paiste-vs-sabian](https://metalforge.io/compare/paiste-vs-sabian).
 
 ---
 

@@ -154,24 +154,54 @@ function buildMarkdown(matchup) {
   // Drummer 1 setup
   parts.push(`## ${d1.name} Drum Kit Setup`);
   parts.push('');
+  if (d1.bio) {
+    parts.push(d1.bio);
+    parts.push('');
+  }
   parts.push(`**Band:** ${d1.band}  `);
+  if (d1.bands && d1.bands.length > 1) {
+    parts.push(`**Career:** ${d1.bands.map((b) => b.name).join(', ')}  `);
+  }
   parts.push(`**Genre:** ${d1.genre}  `);
   parts.push(`**Current Kit:** ${(d1.gear && d1.gear.drums) || 'Custom setup'}  `);
   parts.push(`**Cymbals:** ${(d1.gear && d1.gear.cymbals) || 'Custom selection'}  `);
   const kg1 = d1.gear ? keyGearList(d1) : [];
   if (kg1.length) parts.push(`**Key Gear:** ${kg1.join(', ')}  `);
   parts.push('');
+  if (d1.videos && d1.videos.length > 0) {
+    parts.push(`**Watch:**`);
+    parts.push('');
+    for (const v of d1.videos) {
+      parts.push(`- ${v.title}${v.year ? ` (${v.year})` : ''}`);
+    }
+    parts.push('');
+  }
 
   // Drummer 2 setup
   parts.push(`## ${d2.name} Drum Kit Setup`);
   parts.push('');
+  if (d2.bio) {
+    parts.push(d2.bio);
+    parts.push('');
+  }
   parts.push(`**Band:** ${d2.band}  `);
+  if (d2.bands && d2.bands.length > 1) {
+    parts.push(`**Career:** ${d2.bands.map((b) => b.name).join(', ')}  `);
+  }
   parts.push(`**Genre:** ${d2.genre}  `);
   parts.push(`**Current Kit:** ${(d2.gear && d2.gear.drums) || 'Custom setup'}  `);
   parts.push(`**Cymbals:** ${(d2.gear && d2.gear.cymbals) || 'Custom selection'}  `);
   const kg2 = d2.gear ? keyGearList(d2) : [];
   if (kg2.length) parts.push(`**Key Gear:** ${kg2.join(', ')}  `);
   parts.push('');
+  if (d2.videos && d2.videos.length > 0) {
+    parts.push(`**Watch:**`);
+    parts.push('');
+    for (const v of d2.videos) {
+      parts.push(`- ${v.title}${v.year ? ` (${v.year})` : ''}`);
+    }
+    parts.push('');
+  }
 
   // Gear comparison table
   parts.push('## Gear Comparison');

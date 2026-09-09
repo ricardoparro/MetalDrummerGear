@@ -10,19 +10,35 @@ Tomas Haake and Mario Duplantier face off in the MetalForge community drum kit b
 
 ## Tomas Haake Drum Kit Setup
 
+Tomas Haake, born in 1971, is the drummer and primary lyricist for Swedish extreme metal band Meshuggah. His polyrhythmic drumming style, characterized by complex time signatures and intricate patterns, has been hugely influential in the development of djent and progressive metal. He is known for his metronomic precision and innovative approach.
+
 **Band:** Meshuggah  
 **Genre:** Progressive Metal / Djent  
 **Current Kit:** Sonor SQ2 Heavy Beech (24"x18" Bass, 10"x8", 12"x9", 13"x10", 16"x14", 18"x16" Toms)  
 **Cymbals:** Sabian HHX & AAX Series (14" HHX Compression Hi-Hats, 15" Artisan Hi-Hats, 19" & 20" & 21" HHX Stage Crashes, 22" Legacy Ride, 19" AAXtreme China)  
 **Key Gear:** Sonor Tomas Haake Signature 14x6.5" & Artist Series Bronze, Tama Speed Cobra Single Pedals (x2), Wincent Tomas Haake Signature  
 
+**Watch:**
+
+- Bleed - Wincent Drumsticks (8.1M views) (2013)
+- Clockworks - Official Drum Playthrough (2016)
+- Drumming Footage - New England Metal Fest (Official) (2008)
+
 ## Mario Duplantier Drum Kit Setup
+
+Mario Duplantier, born in 1981 in Bayonne, France, is the drummer and co-founder of the critically acclaimed progressive death metal band Gojira, which he formed with his brother Joe Duplantier in 1996. Known for his powerful, precise, and incredibly intense drumming style, Mario combines crushing double bass patterns with complex rhythmic structures that complement Gojira's unique blend of death metal and progressive elements. His drumming on albums like "From Mars to Sirius," "The Way of All Flesh," and "Magma" has been praised for its technical excellence and raw energy. Beyond his drumming prowess, Mario is also a talented visual artist who has created artwork for Gojira's albums and merchandise. His approach to drumming emphasizes dynamics, groove, and an almost tribal quality that has helped define Gojira's distinctive sound.
 
 **Band:** Gojira  
 **Genre:** Progressive Death Metal  
 **Current Kit:** Tama Starclassic Bubinga (22"x18" Bass Drums x2, 12"x9" & 13"x10" Toms, 16"x16" Floor Tom)  
 **Cymbals:** Zildjian (14" K Sweet Hi-Hats, 14" A Custom Hi-Hats, 18" K Custom Hybrid Crash, 19" A Custom Crash, 20" K Sweet Crash, 21" Z Custom Mega Bell Ride, 18" & 20" Chinas)  
 **Key Gear:** Tama S.L.P. 14x6.5" G-Maple, Power Glide Double Pedal, Tama Mario Duplantier Signature  
+
+**Watch:**
+
+- Gojira - Silvera (Live Drum Cam) (2017)
+- Gojira - Stranded (Live Drum Cam) (2017)
+- Gojira - Flying Whales (Live Drum Cam) (2019)
 
 ## Gear Comparison
 
@@ -58,4 +74,4 @@ A: Tomas Haake uses Sabian HHX & AAX Series (14" HHX Compression Hi-Hats, 15" Ar
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

@@ -10,19 +10,37 @@ Brann Dailor and Chris Adler face off in the MetalForge community drum kit battl
 
 ## Brann Dailor Drum Kit Setup
 
+Brann Dailor, born in 1975 in Rochester, New York, is the drummer and vocalist for progressive sludge metal band Mastodon. His drumming style is characterized by complex fills, jazz-influenced patterns, and an almost melodic approach to the drums that sets him apart from traditional metal drummers. Dailor's work on albums like "Leviathan," "Blood Mountain," and "Crack the Skye" has earned him widespread acclaim. He began singing lead vocals on Mastodon's later albums, adding another dimension to the band's sound. His technical proficiency combined with his musical creativity has made him one of the most influential drummers in modern metal.
+
 **Band:** Mastodon  
+**Career:** Mastodon, Arcadea  
 **Genre:** Progressive/Sludge Metal  
 **Current Kit:** Tama Starclassic Performer B/B  
 **Cymbals:** Meinl Byzance Series (14" Dark Hi-Hats, 18" & 19" Brilliant Heavy Hammered Crashes, 21" Ghost Ride, 18" Extra Dry China)  
 **Key Gear:** Tama S.L.P. 14x6.5" G-Maple, Tama Speed Cobra Double Pedal, Vater 5B  
 
+**Watch:**
+
+- Mastodon - Blood and Thunder (Meinl Cymbals) (2012)
+- Mastodon - Steambreather (Drumeo Breakdown) (2024)
+- Mastodon - Ghost of Karelia (Meinl Cymbals) (2020)
+
 ## Chris Adler Drum Kit Setup
 
+Chris Adler, born in 1972 in Richmond, Virginia, is best known as the co-founder and former drummer of Lamb of God. His precision double bass drumming and innovative groove patterns helped define the New Wave of American Heavy Metal. Adler's work on albums like "Ashes of the Wake" and "Sacrament" showcased his ability to combine technical proficiency with raw power. He briefly played with Megadeth on their 2016 album "Dystopia." His drumming style emphasizes groove, power, and precision, influencing a generation of metal drummers.
+
 **Band:** Lamb of God  
+**Career:** Lamb of God, Megadeth, Firstborne  
 **Genre:** Groove Metal  
 **Current Kit:** Mapex Black Panther Design Lab  
 **Cymbals:** Meinl Byzance Series (14" Dark Hi-Hats, 18" & 19" Dark Crashes, 21" Transition Ride, 18" Extra Dry China)  
 **Key Gear:** Mapex Chris Adler Signature 14x5.5" Walnut/Maple, Mapex Falcon Double Pedal, Promark TX5AXW Chris Adler Signature  
+
+**Watch:**
+
+- Lamb of God - Laid to Rest (Live Drum Cam) (2018)
+- Lamb of God - Redneck (Live Drum Cam) (2016)
+- Lamb of God - Blood of the Scribe (Modern Drummer) (2005)
 
 ## Gear Comparison
 
@@ -58,4 +76,4 @@ A: Brann Dailor uses Meinl Byzance Series (14" Dark Hi-Hats, 18" & 19" Brilliant
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

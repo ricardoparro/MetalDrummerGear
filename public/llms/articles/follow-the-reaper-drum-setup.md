@@ -98,8 +98,18 @@ A: On *Follow the Reaper* (2000), Jaska Raatikainen used Paiste cymbals — spec
 
 A: *Follow the Reaper* (2000) is widely regarded as Jaska Raatikainen's most technically demanding Children of Bodom studio performance. "Kissing the Shadows" in particular demands sustained blast and double-bass patterns at tempos exceeding 210 BPM across extended song sections — a physical and technical feat that remains one of melodic death metal's most demanding recorded drum performances. The album arrived just one year after *Hatebreeder* and documented a dramatic increase in technical ambition, setting up the refined and commercially successful approach of *Hate Crew Deathroll* (2003). See the [Hatebreeder drum setup](/articles/hatebreeder-drum-setup) and [Hate Crew Deathroll drum setup](/articles/hate-crew-deathroll-drum-setup) for comparison.
 
+## Related Articles
+
+- [Jaska Raatikainen Drum Setup — Children of Bodom Gear Guide](https://metalforge.io/articles/jaska-raatikainen-drum-setup)
+- [Hatebreeder Drum Setup: Jaska Raatikainen's Gear on Children of Bodom's 1999 Debut](https://metalforge.io/articles/hatebreeder-drum-setup)
+- [Hate Crew Deathroll Drum Setup: Jaska Raatikainen's Gear on Children of Bodom's 2003 Album](https://metalforge.io/articles/hate-crew-deathroll-drum-setup)
+
+## Related Drummers
+
+- [Jaska Raatikainen](https://metalforge.io/drummer/jaska-raatikainen)
+
 **Source:** https://metalforge.io/articles/follow-the-reaper-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

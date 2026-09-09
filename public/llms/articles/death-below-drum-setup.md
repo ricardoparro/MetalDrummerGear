@@ -108,8 +108,18 @@ A: *Death Below* (2023) is August Burns Red's ninth studio album and most recent
 
 A: Both *Death Below* (2023) and *Beacon* (2019) use the same foundational setup — Mapex Black Panther Design Lab, Meinl Byzance Extra Dry / Dual cymbals, DW 9000 Series pedal, Mapex Black Panther maple snare, Vic Firth signature sticks — making them the two most gear-consistent studio records in the ABR catalog. The difference is compositional depth: *Death Below* benefited from a four-year development period from *Beacon*, producing drum parts that are more compositionally integrated, with higher ghost note density and more complex polyrhythmic layering than any previous ABR album. Same gear, deepest application. See also: [Beacon drum setup (2019)](/articles/beacon-drum-setup).
 
+## Related Articles
+
+- [Matt Greiner Complete Drum Setup — August Burns Red Gear Guide](https://metalforge.io/articles/matt-greiner-complete-drum-setup)
+- [August Burns Red 'Beacon' Drum Setup (Matt Greiner, 2019)](https://metalforge.io/articles/beacon-drum-setup)
+- [August Burns Red 'Phantom Anthem' Drum Setup (Matt Greiner, 2017)](https://metalforge.io/articles/abr-phantom-anthem-drum-setup)
+
+## Related Drummers
+
+- [Matt Greiner](https://metalforge.io/drummer/matt-greiner)
+
 **Source:** https://metalforge.io/articles/death-below-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

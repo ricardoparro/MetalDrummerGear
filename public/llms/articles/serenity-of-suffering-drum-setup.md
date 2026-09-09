@@ -111,8 +111,21 @@ A: The Serenity of Suffering (2016) was produced by Nick Raskulinecz, a producer
 
 A: Ray Luzier recorded The Serenity of Suffering with Korn in 2016 — the band's twelfth studio album, produced by Nick Raskulinecz and released October 21, 2016 on Roadrunner Records. The album included 'Rotting in Vain' (lead single), 'Take Me' featuring Corey Taylor (Grammy-nominated for Best Rock Song), and 'Black Is the Soul.' Luzier's gear for the sessions included Pearl Reference Maple drums, Pearl Reference Brass snare, Sabian AAX cymbals, and Pearl Demon Drive double pedal.
 
+## Related Articles
+
+- [The Paradigm Shift Drum Setup: Ray Luzier's 2013 Korn Gear Breakdown](https://metalforge.io/articles/the-paradigm-shift-drum-setup)
+- [The Nothing Drum Setup: Ray Luzier's 2019 Korn Gear Breakdown](https://metalforge.io/articles/the-nothing-drum-setup)
+- [Korn III Drum Setup: Ray Luzier's 2010 Debut with Korn Gear Breakdown](https://metalforge.io/articles/korn-iii-drum-setup)
+- [Ray Luzier Drum Setup: Korn's Groove Machine Complete Gear Guide](https://metalforge.io/articles/whats-in-ray-luziers-kit)
+
+## Related Drummers
+
+- [Joey Jordison](https://metalforge.io/drummer/joey-jordison)
+- [Eloy Casagrande](https://metalforge.io/drummer/eloy-casagrande)
+- [Lars Ulrich](https://metalforge.io/drummer/lars-ulrich)
+
 **Source:** https://metalforge.io/articles/serenity-of-suffering-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

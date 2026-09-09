@@ -81,8 +81,19 @@ A: Eonian was recorded at Fascination Street Studios in Örebro, Sweden between 
 
 A: Daray's Eonian cymbal setup is the same Paiste RUDE and 2002 combination he has used throughout his Dimmu Borgir tenure: 14" Sound Edge Hi-Hats, 16" RUDE and 18" 2002 crashes, a 22" RUDE Power Ride, and a 2002 China — road-tested across nearly a decade of touring between Abrahadabra and Eonian.
 
+## Related Articles
+
+- [Daray's Drum Setup — Dimmu Borgir's Drummer Complete Kit Guide](https://metalforge.io/articles/daray-drum-setup)
+- [Hellhammer Drum Kit & Gear Setup — Mayhem Black Metal Legend](https://metalforge.io/articles/hellhammer-drum-setup)
+- [Hellhammer's Drum Setup on Dimmu Borgir's In Sorte Diaboli (2007)](https://metalforge.io/articles/in-sorte-diaboli-drum-setup)
+
+## Related Drummers
+
+- [Daray](https://metalforge.io/drummer/daray)
+- [Art Cruz](https://metalforge.io/drummer/art-cruz)
+
 **Source:** https://metalforge.io/articles/eonian-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

@@ -104,8 +104,16 @@ A: *Leveler*'s drumming stands apart from metalcore contemporaries for its compo
 
 A: During the *Leveler* (2011) sessions, Matt Greiner used Paiste 2002 cymbals — one of the most respected series in metal history. His setup included Paiste 2002 14" Sound Edge hi-hats, 16" and 18" crashes, a 20" Heavy Ride, and an 18" China cymbal. Paiste's CuSn8 bronze alloy gives the 2002 series a combination of cutting attack and warm sustain well-suited to metalcore's dense guitar textures. Greiner later moved toward Meinl Byzance cymbals as his endorsement relationships evolved, but the Paiste era defined *Leveler*'s cymbal character. For his complete current cymbal setup, see the [Matt Greiner complete drum setup](/articles/matt-greiner-complete-drum-setup).
 
+## Related Articles
+
+- [Matt Greiner Complete Drum Setup — August Burns Red Gear Guide](https://metalforge.io/articles/matt-greiner-complete-drum-setup)
+
+## Related Drummers
+
+- [Matt Greiner](https://metalforge.io/drummer/matt-greiner)
+
 **Source:** https://metalforge.io/articles/leveler-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

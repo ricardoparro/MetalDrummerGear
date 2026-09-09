@@ -111,8 +111,24 @@ A: George Kollias sustains blast beats between 200–260 BPM across 'What Should
 
 A: 'What Should Not Be Unearthed' (Nile, 2015) is the debut album for George Kollias's co-designed Pearl Demon XR pedal, while every other piece of his rig — Pearl Reference Maple kit, Pearl Free-Floating snare, Meinl Byzance cymbals, and Vic Firth sticks — carried forward unchanged from 'At the Gate of Sethu' (2012). It closes out the classic Byzance-and-Reference-Maple chapter of his career before 'Vile Nilotic Rites' (2019) introduced Zildjian cymbals and the Pearl Masterworks Stadium Exotic. See the complete arc: [At the Gate of Sethu drum setup (2012)](/articles/at-the-gate-of-sethu-drum-setup) and [Vile Nilotic Rites drum setup (2019)](/articles/vile-nilotic-rites-drum-setup).
 
+## Related Articles
+
+- [Top 10 Fastest Metal Drummers](https://metalforge.io/lists/fastest-metal-drummers)
+- [George Kollias Drum Setup: Nile's 'At the Gate of Sethu' (2012) Gear Breakdown](https://metalforge.io/articles/at-the-gate-of-sethu-drum-setup)
+- [George Kollias Drum Setup: Nile's 'Vile Nilotic Rites' (2019) Gear Breakdown](https://metalforge.io/articles/vile-nilotic-rites-drum-setup)
+- [George Kollias Drum Setup: Nile's 'Those Whom the Gods Detest' (2009) Gear Breakdown](https://metalforge.io/articles/those-whom-the-gods-detest-drum-setup)
+- [George Kollias Drum Setup: Nile's 'Ithyphallic' (2007) Gear Breakdown](https://metalforge.io/articles/ithyphallic-drum-setup)
+- [George Kollias Drum Setup: Nile's Annihilation of the Wicked Gear Breakdown](https://metalforge.io/articles/george-kollias-nile-annihilation-drum-setup)
+- [What's In George Kollias' Speed Arsenal](https://metalforge.io/articles/whats-in-george-kollias-kit)
+
+## Related Drummers
+
+- [Gene Hoglan](https://metalforge.io/drummer/gene-hoglan)
+- [Arin Ilejay](https://metalforge.io/drummer/arin-ilejay)
+- [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo)
+
 **Source:** https://metalforge.io/articles/what-should-not-be-unearthed-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

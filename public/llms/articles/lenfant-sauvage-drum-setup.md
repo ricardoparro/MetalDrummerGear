@@ -116,8 +116,22 @@ A: Mario Duplantier continued playing Zildjian K Custom and A Custom cymbals for
 
 A: Yes. Gojira received a Grammy nomination for Best Hard Rock/Metal Performance at the 2013 Grammy Awards for the title track 'L'Enfant Sauvage.' This was a landmark achievement for a French progressive death metal band and confirmed the album's crossover appeal. The band also appeared on the cover of Guitar World magazine during this album cycle — extraordinary mainstream recognition for an uncompromising heavy metal act.
 
+## Related Articles
+
+- [What's In Mario Duplantier's Environmental Kit: Complete Gear Breakdown](https://metalforge.io/articles/whats-in-mario-duplantiers-kit)
+- [Top 10 Progressive Metal Drummers](https://metalforge.io/lists/progressive-metal-drummers)
+- [From Mars to Sirius Drum Setup: Mario Duplantier's Breakthrough Gear](https://metalforge.io/articles/from-mars-to-sirius-drum-setup)
+- [The Way of All Flesh Drum Setup: Mario Duplantier's Death Metal Odyssey](https://metalforge.io/articles/the-way-of-all-flesh-drum-setup)
+- [Magma Drum Setup: Mario Duplantier's Tama Bubinga Breakthrough](https://metalforge.io/articles/magma-drum-setup)
+
+## Related Drummers
+
+- [Tomas Haake](https://metalforge.io/drummer/tomas-haake)
+- [Danny Carey](https://metalforge.io/drummer/danny-carey)
+- [Eloy Casagrande](https://metalforge.io/drummer/eloy-casagrande)
+
 **Source:** https://metalforge.io/articles/lenfant-sauvage-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

@@ -100,8 +100,19 @@ A: War Eternal was recorded at Fascination Street Studio in Örebro, Sweden and 
 
 A: War Eternal (June 9, 2014) is significant as the arc-opening record of Arch Enemy's White-Gluz era — the album that introduced Alissa White-Gluz as the band's new vocalist and demonstrated that Arch Enemy's musical identity could sustain through the major vocalist transition. It is Arch Enemy's most-streamed album on Spotify, anchored by the title track 'War Eternal' which remains the band's most-played song on the platform. The album's commercial success — charting in multiple European territories — confirmed the White-Gluz era as a continuation and evolution of the band's trajectory rather than a rupture. Drummer Daniel Erlandsson's consistent, precise performance was one of the elements of musical continuity that made the transition credible. For the White-Gluz era continuation: [Will to Power drum setup (2017)](/articles/will-to-power-drum-setup) and [Deceivers drum setup (2022)](/articles/deceivers-drum-setup).
 
+## Related Articles
+
+- [Top 10 Melodic Death Metal Drummers](https://metalforge.io/lists/melodic-death-metal-drummers)
+- [Daniel Erlandsson's Drum Setup on Arch Enemy's Khaos Legions (2011)](https://metalforge.io/articles/khaos-legions-drum-setup)
+- [Daniel Erlandsson's Drum Setup on Arch Enemy's Will to Power (2017)](https://metalforge.io/articles/will-to-power-drum-setup)
+- [Daniel Erlandsson's Drum Setup — At The Gates & Arch Enemy Kit Guide](https://metalforge.io/articles/daniel-erlandsson-drum-setup)
+
+## Related Drummers
+
+- [Daniel Erlandsson](https://metalforge.io/drummer/daniel-erlandsson)
+
 **Source:** https://metalforge.io/articles/war-eternal-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

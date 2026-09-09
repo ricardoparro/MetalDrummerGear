@@ -101,8 +101,18 @@ A: On *Hatebreeder* (1999), Jaska Raatikainen used Zildjian A Series cymbals thr
 
 A: *Hatebreeder* (1999) documents the first fully-realized expression of Jaska Raatikainen's neo-classical death metal drumming language: sustained double-bass velocity at extreme tempos combined with melodically aware fill work that tracks Janne Wirman's keyboard lines and Alexi Laiho's guitar runs. At 19 years old, Raatikainen was already deploying the compositional intelligence that distinguishes CoB's drumming from purely aggressive death metal: tom fills that follow melodic contours, blast beats deployed as structural intensity peaks rather than constant texture, ghost notes in verse sections for dynamic range. The album established the template that *Follow the Reaper* and *Hate Crew Deathroll* would develop — with a rawer, more immediate character that reflects both the youth of the players and the energy of a band defining its sound for the first time.
 
+## Related Articles
+
+- [Jaska Raatikainen Drum Setup — Children of Bodom Gear Guide](https://metalforge.io/articles/jaska-raatikainen-drum-setup)
+- [Follow the Reaper Drum Setup: Jaska Raatikainen's Gear on Children of Bodom's 2000 Album](https://metalforge.io/articles/follow-the-reaper-drum-setup)
+- [Hate Crew Deathroll Drum Setup: Jaska Raatikainen's Gear on Children of Bodom's 2003 Album](https://metalforge.io/articles/hate-crew-deathroll-drum-setup)
+
+## Related Drummers
+
+- [Jaska Raatikainen](https://metalforge.io/drummer/jaska-raatikainen)
+
 **Source:** https://metalforge.io/articles/hatebreeder-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

@@ -116,8 +116,19 @@ A: Chris Turner is the founding drummer of Oceans Ate Alaska, the Birmingham, UK
 
 A: Chris Turner's defining characteristic is his compositional approach to progressive metalcore — complex technique in service of the song rather than technique as an end in itself. His three signature elements are: polyrhythmic kick superimposition (layering three-against-four or five-against-four kick patterns over a stable metalcore backbeat, documented in the Hansha lick breakdown), velocity-even double bass (both feet produce identical note weight at song tempo, documented in the Escapist breakdown), and compositional blast beat deployment (blast beats enter and exit at specific phrase boundaries as deliberate musical punctuation, including within odd time signatures on Disparity's "Metamorph"). His Tama Starclassic Maple/Birch, Meinl Byzance Extra Dry cymbals, and Speed Cobra 910 are all chosen to support these specific technique demands. For the full lick breakdowns: [Chris Turner at MetalForge](/drummer/chris-turner).
 
+## Related Articles
+
+- [Blake Richardson Drum Kit & Gear Setup — BTBAM Tech Metal](https://metalforge.io/articles/blake-richardson-drum-setup)
+- [What's In Matt Halpern's Periphery Kit: Complete Gear Breakdown](https://metalforge.io/articles/whats-in-matt-halperns-kit)
+
+## Related Drummers
+
+- [Chris Turner](https://metalforge.io/drummer/chris-turner)
+- [Matt Halpern](https://metalforge.io/drummer/matt-halpern)
+- [Matt Garstka](https://metalforge.io/drummer/matt-garstka)
+
 **Source:** https://metalforge.io/articles/chris-turner-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

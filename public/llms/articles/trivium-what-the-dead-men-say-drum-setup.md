@@ -86,8 +86,21 @@ A: What the Dead Men Say was released April 24, 2020, just as the first wave of 
 
 A: What the Dead Men Say (2020) leans further into progressive song structures than The Sin and the Sentence (2017), opening with the instrumental "IX" and featuring more dynamically varied tracks like "Amongst the Shadows and the Stones" alongside direct, aggressive cuts like "Catastrophist." Alex Bent's gear stayed essentially identical between the two albums — the same Tama Starclassic Maple kit and Zildjian K Custom Hybrid cymbals — but his playing on the second record shows more dynamic range and restraint alongside the same double-bass intensity. See the [The Sin and the Sentence drum setup article](/articles/trivium-sin-and-the-sentence-drum-setup) for the preceding chapter.
 
+## Related Articles
+
+- [Top 10 Technical Death Metal Drummers](https://metalforge.io/lists/technical-death-metal-drummers)
+- [The Sin and the Sentence Drum Setup: Alex Bent's Trivium Debut (2017)](https://metalforge.io/articles/trivium-sin-and-the-sentence-drum-setup)
+- [In the Court of the Dragon Drum Setup: Alex Bent's UK Top-5 Trivium Album (2021)](https://metalforge.io/articles/trivium-in-the-court-of-the-dragon-drum-setup)
+- [What's In Alex Bent's Trivium Arsenal: Complete Gear Breakdown](https://metalforge.io/articles/whats-in-alex-bents-kit)
+
+## Related Drummers
+
+- [Gene Hoglan](https://metalforge.io/drummer/gene-hoglan)
+- [George Kollias](https://metalforge.io/drummer/george-kollias)
+- [Mike Portnoy](https://metalforge.io/drummer/mike-portnoy)
+
 **Source:** https://metalforge.io/articles/trivium-what-the-dead-men-say-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

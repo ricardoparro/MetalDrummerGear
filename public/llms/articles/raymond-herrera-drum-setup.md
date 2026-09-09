@@ -109,8 +109,19 @@ A: Raymond Herrera uses the DW 5000 Series Double Pedal. The 5000 Series' interc
 
 A: Raymond Herrera plays Zildjian Z Custom cymbals. His setup includes Z Custom 14" hi-hats, 16" and 18" crash cymbals, a 20" ride, and a china cymbal. The Z Custom series was designed for maximum projection and durability — machine-hammered B20 bronze construction with bright, cutting upper-frequency character. In Fear Factory's sonic environment, where down-tuned guitars and industrial processing fill the low and mid frequency range, the Z Custom's brightness places cymbal frequencies above the guitar mass where they can articulate Herrera's rhythmic patterns clearly. The series' physical durability also suits Fear Factory's demanding touring schedule, resisting the edge cracking that thinner cymbals develop under sustained high-impact playing.
 
+## Related Articles
+
+- [Obsolete Drum Setup: Raymond Herrera's 1998 Fear Factory Kit Breakdown](https://metalforge.io/articles/obsolete-drum-setup)
+- [Digimortal Drum Setup: Raymond Herrera's 2001 Fear Factory Kit Breakdown](https://metalforge.io/articles/digimortal-drum-setup)
+- [Master of Puppets Drum Setup: Lars Ulrich's Gear Breakdown](https://metalforge.io/articles/master-of-puppets-drum-setup)
+
+## Related Drummers
+
+- [Raymond Herrera](https://metalforge.io/drummer/raymond-herrera)
+- [Lars Ulrich](https://metalforge.io/drummer/lars-ulrich)
+
 **Source:** https://metalforge.io/articles/raymond-herrera-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

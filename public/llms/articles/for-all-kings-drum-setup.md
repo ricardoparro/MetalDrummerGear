@@ -103,8 +103,22 @@ A: For All Kings (2016) and Worship Music (2011) share the same fundamental Char
 
 A: Charlie Benante switched to Tama Speed Cobra pedals in 2010, replacing the legendary HP35 Camco chain-drive pedals he had used since 1984. Both modern Anthrax studio albums — Worship Music (2011) and For All Kings (2016) — were recorded with Speed Cobra pedals. Worship Music was the first Anthrax album with Speed Cobras (approximately one year of familiarity at the time of recording); For All Kings was the second (six years of experience). All subsequent Anthrax touring and session work, including his role in Pantera's reunion tour from 2022, used the Speed Cobra configuration. For the full modern kit overview, see [What's In Charlie Benante's Kit](/articles/whats-in-charlie-benantes-kit).
 
+## Related Articles
+
+- [What's In Charlie Benante's Anthrax Kit: The Big Four's Technical Pioneer](https://metalforge.io/articles/whats-in-charlie-benantes-kit)
+- [Top 10 Thrash Metal Drummers](https://metalforge.io/lists/thrash-metal-drummers)
+- [Charlie Benante's Drum Setup on Anthrax's Worship Music (2011)](https://metalforge.io/articles/worship-music-drum-setup)
+- [Charlie Benante's Drum Setup on Anthrax's Sound of White Noise (1993)](https://metalforge.io/articles/sound-of-white-noise-drum-setup)
+- [Among the Living Drum Setup: Charlie Benante's Anthrax Gear Breakdown](https://metalforge.io/articles/charlie-benante-among-the-living-drum-setup)
+
+## Related Drummers
+
+- [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo)
+- [Lars Ulrich](https://metalforge.io/drummer/lars-ulrich)
+- [Gene Hoglan](https://metalforge.io/drummer/gene-hoglan)
+
 **Source:** https://metalforge.io/articles/for-all-kings-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

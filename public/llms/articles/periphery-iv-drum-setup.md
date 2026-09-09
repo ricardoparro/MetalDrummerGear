@@ -110,8 +110,20 @@ A: Yes. Periphery IV: Hail Stan debuted at number 1 on the US Top Progressive Al
 
 A: Hail Stan debuted at number one on the US Top Progressive Albums chart and reached the top 20 of the US Hard Rock Albums chart following its April 5, 2019 release on Periphery's own 3DOT Recordings label. Critical and fan reaction has been more divided than commercial reception: some listeners consider it Periphery's most ambitious and rewarding record, largely on the strength of "Reptile," while others find its scope less focused than the tighter Periphery III: Select Difficulty. Matt Halpern's drumming performance, however, is consistently cited as a highlight regardless of where a given listener lands on the album overall.
 
+## Related Articles
+
+- [Matt Halpern's Drum Setup on Periphery III: Select Difficulty (2016)](https://metalforge.io/articles/periphery-iii-drum-setup)
+- [Periphery Drum Setup: Matt Halpern's Gear on the 2010 Debut](https://metalforge.io/articles/periphery-drum-setup)
+- [What's In Matt Halpern's Periphery Kit: Complete Gear Breakdown](https://metalforge.io/articles/whats-in-matt-halperns-kit)
+
+## Related Drummers
+
+- [Matt Garstka](https://metalforge.io/drummer/matt-garstka)
+- [Tomas Haake](https://metalforge.io/drummer/tomas-haake)
+- [Gavin Harrison](https://metalforge.io/drummer/gavin-harrison)
+
 **Source:** https://metalforge.io/articles/periphery-iv-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

@@ -96,8 +96,20 @@ A: Far Beyond Driven (1994) was a transitional era for Vinnie Paul's pedal setup
 
 A: Vinnie Paul used the same Sabian AA and AAX Series cymbals on Far Beyond Driven in 1994 that he'd used on Vulgar Display of Power. His setup included Sabian AA 14 inch hi-hats, AA 16 and 18 inch crashes, an AAX 19 inch Metal Crash, an AA 22 inch Heavy Ride, and an AA 20 inch Chinese cymbal — the same combination that had defined Pantera's cymbal sound since Cowboys from Hell, now pushed to match the increased heaviness of Far Beyond Driven's production.
 
+## Related Articles
+
+- [What's In Vinnie Paul's Pantera Arsenal (Tribute)](https://metalforge.io/articles/whats-in-vinnie-pauls-kit)
+- [Vulgar Display of Power Drum Setup: Vinnie Paul's Gear Breakdown](https://metalforge.io/articles/vulgar-display-of-power-drum-setup)
+- [Cowboys from Hell Drum Setup: Vinnie Paul's Breakthrough Gear](https://metalforge.io/articles/cowboys-from-hell-drum-setup)
+
+## Related Drummers
+
+- [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo)
+- [Lars Ulrich](https://metalforge.io/drummer/lars-ulrich)
+- [Art Cruz](https://metalforge.io/drummer/art-cruz)
+
 **Source:** https://metalforge.io/articles/far-beyond-driven-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

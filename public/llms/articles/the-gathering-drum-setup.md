@@ -113,8 +113,21 @@ A: The Gathering (1999) captures Lombardo in a fundamentally different sonic con
 
 A: Testament chose Dave Lombardo for The Gathering (1999) because the album's increasingly technical, death-metal-influenced direction required a drummer who could match that intensity while bringing credibility to the crossover moment. Lombardo was between Slayer obligations and had demonstrated his technical range with Grip Inc. (with Gus G.) during his 1990s Slayer hiatus. Producer James Murphy — himself a former Testament guitarist with deep technical death metal roots — understood that Lombardo's velocity, precision, and reputation would elevate what Testament was attempting. The combination worked: The Gathering became the band's most critically acclaimed album.
 
+## Related Articles
+
+- [What's In Dave Lombardo's Kit in 2026: The Godfather of Double Bass](https://metalforge.io/articles/whats-in-dave-lombardos-kit)
+- [Top 10 Thrash Metal Drummers](https://metalforge.io/lists/thrash-metal-drummers)
+- [Brotherhood of the Snake Drum Setup: Gene Hoglan Returns to Testament (2016)](https://metalforge.io/articles/brotherhood-of-the-snake-drum-setup)
+- [Testament "Titans of Creation" Drum Setup (Gene Hoglan, 2020)](https://metalforge.io/articles/titans-of-creation-drum-setup)
+- [Dave Lombardo's Drum Setup on Slayer's Seasons in the Abyss (1990)](https://metalforge.io/articles/seasons-in-the-abyss-drum-setup)
+
+## Related Drummers
+
+- [Gene Hoglan](https://metalforge.io/drummer/gene-hoglan)
+- [Pete Sandoval](https://metalforge.io/drummer/pete-sandoval)
+
 **Source:** https://metalforge.io/articles/the-gathering-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

@@ -112,8 +112,20 @@ A: Inferno used a combination of Paiste Signature Dark Energy and Paiste RUDE cy
 
 A: I Loved You at Your Darkest debuted at number one on the Polish OLiS chart — Behemoth's home country — and reached number 65 on the US Billboard 200, the band's highest US chart position at that point. It was released on October 5, 2018 through Metal Blade Records in North America, Nuclear Blast in mainland Europe, and Mystic Production in Poland. The album supported a multi-year touring cycle including major festival appearances and headline runs across Europe, North America, and beyond. While it did not quite match the universal critical acclaim of The Satanist (2014), it confirmed Behemoth's commercial position at the front rank of contemporary extreme metal.
 
+## Related Articles
+
+- [The Satanist Drum Setup: Inferno's Studio Arsenal for Behemoth's AOTY 2014](https://metalforge.io/articles/the-satanist-drum-setup)
+- [Satanica Drum Setup: Inferno's Pearl Reference Pure Kit — Behemoth's 1999 Blackened Death Metal Origin](https://metalforge.io/articles/satanica-drum-setup)
+- [What's In Inferno's Behemoth Arsenal: Complete Gear Breakdown](https://metalforge.io/articles/whats-in-infernos-kit)
+
+## Related Drummers
+
+- [George Kollias](https://metalforge.io/drummer/george-kollias)
+- [Pete Sandoval](https://metalforge.io/drummer/pete-sandoval)
+- [Gene Hoglan](https://metalforge.io/drummer/gene-hoglan)
+
 **Source:** https://metalforge.io/articles/i-loved-you-at-your-darkest-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

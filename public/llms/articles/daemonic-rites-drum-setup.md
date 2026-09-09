@@ -106,8 +106,21 @@ A: Daemonic Rites contains 17 tracks spanning Mayhem's full studio catalogue: an
 
 A: As of this writing, "Daemonic Rites" (2023) is Hellhammer's most recent major recorded release with Mayhem — a live album documenting the band's Daemon World Tour rather than new studio material. It captures his touring rig (Sonor SQ2 Heavy Beech kit, Paiste RUDE cymbals, Axis Double Pedal pedal) across seven cities and four years, offering the most extensive live document of his playing available on a single release.
 
+## Related Articles
+
+- [Top 10 Black Metal Drummers](https://metalforge.io/lists/black-metal-drummers)
+- [Daemon Drum Setup: Hellhammer's Most Recent Mayhem Statement](https://metalforge.io/articles/daemon-drum-setup)
+- [Hellhammer Drum Kit & Gear Setup — Mayhem Black Metal Legend](https://metalforge.io/articles/hellhammer-drum-setup)
+- [De Mysteriis Dom Sathanas Drum Setup: Hellhammer's 1994 Black Metal Blueprint](https://metalforge.io/articles/de-mysteriis-dom-sathanas-drum-setup)
+
+## Related Drummers
+
+- [Art Cruz](https://metalforge.io/drummer/art-cruz)
+- [Frost](https://metalforge.io/drummer/frost)
+- [Inferno](https://metalforge.io/drummer/inferno)
+
 **Source:** https://metalforge.io/articles/daemonic-rites-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

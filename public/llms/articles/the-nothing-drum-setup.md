@@ -101,8 +101,20 @@ A: Korn's The Nothing (2019) is about grief. Frontman Jonathan Davis wrote and r
 
 A: The Nothing (2019) was produced by Nick Raskulinecz, returning after producing The Serenity of Suffering (2016). Sessions took place at Rock Falcon Studio in Nashville, Tennessee, and Buck Owens Studio in Bakersfield, California — the same Bakersfield room Korn would use again for Requiem (2022). The album was released September 13, 2019, through Roadrunner Records and Elektra, debuting at #8 on the Billboard 200.
 
+## Related Articles
+
+- [Serenity of Suffering Drum Setup: Ray Luzier's 2016 Korn Gear Breakdown](https://metalforge.io/articles/serenity-of-suffering-drum-setup)
+- [Requiem Drum Setup: Ray Luzier's 2022 Korn Gear Breakdown](https://metalforge.io/articles/requiem-drum-setup)
+- [Ray Luzier Drum Setup: Korn's Groove Machine Complete Gear Guide](https://metalforge.io/articles/whats-in-ray-luziers-kit)
+
+## Related Drummers
+
+- [Joey Jordison](https://metalforge.io/drummer/joey-jordison)
+- [Eloy Casagrande](https://metalforge.io/drummer/eloy-casagrande)
+- [Lars Ulrich](https://metalforge.io/drummer/lars-ulrich)
+
 **Source:** https://metalforge.io/articles/the-nothing-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

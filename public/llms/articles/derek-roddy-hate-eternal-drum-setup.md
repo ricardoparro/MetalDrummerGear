@@ -108,8 +108,22 @@ A: Derek Roddy plays Meinl cymbals, primarily from the Byzance and Mb20 Heavy Se
 
 A: Derek Roddy has toured with Morbid Angel as a live drummer, filling the drum chair associated with Pete Sandoval — one of death metal's most foundational blast beat drummers and the drummer on Altars of Madness (1989), Blessed Are the Sick (1991), and Covenant (1993). The connection creates a direct lineage in death metal's blast beat tradition: Sandoval developed the blast beat as a compositional foundation for Morbid Angel's extreme approach in the late 1980s; Roddy extended that tradition through the gravity blast technique with Hate Eternal while also performing Sandoval's original parts live with Morbid Angel. Both are among the most technically studied drummers in death metal history. See [Altars of Madness drum setup](/articles/altars-of-madness-drum-setup) for the full Pete Sandoval breakdown and comparison.
 
+## Related Articles
+
+- [Top 10 Death Metal Drummers](https://metalforge.io/lists/death-metal-drummers)
+- [Top 10 Fastest Metal Drummers](https://metalforge.io/lists/fastest-metal-drummers)
+- [Altars of Madness Drum Setup: Pete Sandoval's Death Metal Genesis](https://metalforge.io/articles/altars-of-madness-drum-setup)
+- [None So Vile Drum Setup: Flo Mounier's Technical Death Metal Landmark](https://metalforge.io/articles/none-so-vile-drum-setup)
+- [Tim Yeung Drum Kit & Gear Setup — Morbid Angel Death Metal](https://metalforge.io/articles/tim-yeung-drum-setup)
+
+## Related Drummers
+
+- [Derek Roddy](https://metalforge.io/drummer/derek-roddy)
+- [Pete Sandoval](https://metalforge.io/drummer/pete-sandoval)
+- [Flo Mounier](https://metalforge.io/drummer/flo-mounier)
+
 **Source:** https://metalforge.io/articles/derek-roddy-hate-eternal-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

@@ -100,8 +100,19 @@ A: Martin Axenrot used SABIAN HHX and AAX series cymbals on Heritage — the sam
 
 A: Heritage (2011) sits between Watershed (2008) and Pale Communion (2014) as the middle chapter of Opeth's prog transition. Watershed was the bridge record — still containing death metal vocals and aggressive passages while leaning toward prog-rock textures. Heritage was the full commitment: no distorted guitars, no metal vocals, complete prog-rock statement. Pale Communion extended Heritage's vocabulary with a more refined 70s prog aesthetic, bringing Steven Wilson back to mix and delivering the most compositionally coherent of the three prog-era albums. The gear thread running through all three is the same custom hand-made DW kit and SABIAN HHX/AAX cymbals — consistent tools that Axenrot adapted to each album's specific requirements. For the full arc, see the [Watershed drum setup](/articles/watershed-drum-setup) and [Pale Communion drum setup](/articles/pale-communion-drum-setup).
 
+## Related Articles
+
+- [Martin Axenrot's Drum Setup on Opeth's Watershed (2008)](https://metalforge.io/articles/watershed-drum-setup)
+- [Martin Axenrot's Drum Setup on Opeth's Pale Communion (2014)](https://metalforge.io/articles/pale-communion-drum-setup)
+
+## Related Drummers
+
+- [Danny Carey](https://metalforge.io/drummer/danny-carey)
+- [Tomas Haake](https://metalforge.io/drummer/tomas-haake)
+- [Mike Portnoy](https://metalforge.io/drummer/mike-portnoy)
+
 **Source:** https://metalforge.io/articles/heritage-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

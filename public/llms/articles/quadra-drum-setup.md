@@ -112,8 +112,21 @@ A: Quadra (2020) is considered Eloy Casagrande's finest recorded Sepultura perfo
 
 A: The core endorsements carried straight through: Eloy's Quadra setup (Tama Starclassic Walnut/Birch, Tama S.L.P. Sonic Steel snare, mixed Paiste Masters/602/RUDE/PSTX cymbals) was refreshed rather than replaced when he joined Slipknot in 2024. His Slipknot kit is Tama Starclassic Bubinga shells; the snare is still a Tama S.L.P. Sonic Steel; the cymbals consolidated to Paiste RUDE/PST X/2002; and the pedals are a Tama Speed Cobra double pedal. The gear refresh mirrored the career transformation — from Sepultura's recording studio to Slipknot's stage — while keeping Eloy's Tama and Paiste endorsements intact. See the full breakdown at the [What's In Eloy Casagrande's Kit](/articles/whats-in-eloy-casagrandes-kit) article.
 
+## Related Articles
+
+- [What's In Eloy Casagrande's Kit in 2026: From Sepultura to Slipknot](https://metalforge.io/articles/whats-in-eloy-casagrandes-kit)
+- [Sepultura "The Mediator Between Head and Hands Must Be the Heart" Drum Setup: Eloy Casagrande's 2013 Debut](https://metalforge.io/articles/the-mediator-between-head-and-hands-drum-setup)
+- [Sepultura Arise Drum Setup: Igor Cavalera's 1991 Gear Breakdown](https://metalforge.io/articles/arise-drum-setup)
+- [Beneath the Remains Drum Setup: Igor Cavalera's Brazilian Thrash Breakthrough](https://metalforge.io/articles/beneath-the-remains-drum-setup)
+
+## Related Drummers
+
+- [Eloy Casagrande](https://metalforge.io/drummer/eloy-casagrande)
+- [Pete Sandoval](https://metalforge.io/drummer/pete-sandoval)
+- [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo)
+
 **Source:** https://metalforge.io/articles/quadra-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

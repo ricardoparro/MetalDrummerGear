@@ -109,8 +109,14 @@ A: Adrian Erlandsson recorded Slaughter of the Soul (1995) at Studio Fredman in 
 
 A: Slaughter of the Soul was recorded at Studio Fredman in Gothenburg, Sweden in 1994 and produced by Fredrik Nordström. Nordström's recording approach was direct and dry — close-miking all drums without room mics, using aggressive gating to eliminate bleed and ambience, and applying minimal processing to keep the drum sound honest and aggressive. The snare was captured with a single Shure SM57, producing the dry crack that became one of the album's sonic signatures. At the Gates' budget constraints reinforced this minimal approach: efficiency was necessary, and the directness that resulted became a creative asset. Studio Fredman subsequently applied the same approach for In Flames, Dark Tranquillity, and Hammerfall, cementing the Fredman drum sound as the defining production aesthetic of Gothenburg melodic death metal throughout the 1990s.
 
+## Related Articles
+
+- [Top 10 Melodic Death Metal Drummers](https://metalforge.io/lists/melodic-death-metal-drummers)
+- [Daniel Erlandsson's Drum Setup — At The Gates & Arch Enemy Kit Guide](https://metalforge.io/articles/daniel-erlandsson-drum-setup)
+- [Reign in Blood Drum Setup: Dave Lombardo's Gear Breakdown](https://metalforge.io/articles/reign-in-blood-drum-setup)
+
 **Source:** https://metalforge.io/articles/slaughter-of-the-soul-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

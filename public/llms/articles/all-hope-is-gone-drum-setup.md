@@ -118,8 +118,22 @@ A: "Psychosocial" is the second single from Slipknot's All Hope Is Gone (2008), 
 
 A: All Hope Is Gone was recorded at Sound Farm Studios in Jamaica, Iowa, just over an hour from Slipknot's hometown of Des Moines. This made it the first Slipknot studio album recorded in the band's home state. The producer was Dave Fortman, known for his work with Mudvayne, Evanescence, and Otep. Sound Farm Studios is a residential recording facility on a working farm, designed by producer/engineer Tom Tatman, with a large live tracking room well suited to capturing Joey Jordison's full kit with natural room ambience. The choice to record in Iowa was symbolically significant: after recording the previous three studio albums in California, the band brought their fourth — and Joey's last — back to their home state.
 
+## Related Articles
+
+- [Top 10 Fastest Double Bass Drummers in Metal History](https://metalforge.io/lists/fastest-double-bass-drummers)
+- [Top 10 Most Brutal Drum Solos in Metal History](https://metalforge.io/lists/most-brutal-drum-solos)
+- [Vol. 3: The Subliminal Verses Drum Setup — Joey Jordison](https://metalforge.io/articles/vol-3-the-subliminal-verses-drum-setup)
+- [The Gray Chapter — Slipknot Drum Setup (Jay Weinberg, 2014)](https://metalforge.io/articles/the-gray-chapter-drum-setup)
+- [Iowa Drum Setup: Joey Jordison's Gear Breakdown](https://metalforge.io/articles/iowa-drum-setup)
+
+## Related Drummers
+
+- [Jay Weinberg](https://metalforge.io/drummer/jay-weinberg)
+- [George Kollias](https://metalforge.io/drummer/george-kollias)
+- [Flo Mounier](https://metalforge.io/drummer/flo-mounier)
+
 **Source:** https://metalforge.io/articles/all-hope-is-gone-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

@@ -89,8 +89,18 @@ A: Bleed the Fifth was produced by Logan Mader, formerly the guitarist of Machin
 
 A: Tim Yeung played a Pearl Reference Masters kit on Bleed the Fifth — maple/mahogany hybrid shells in a double 22" x 18" bass drum configuration, with 10" and 12" rack toms and 16" and 18" floor toms. His setup included Sabian AAX and HHX cymbals, a DW 9002 double bass pedal, and Vic Firth 5B sticks — the same rig documented on his [complete drum setup breakdown](/articles/tim-yeung-drum-setup).
 
+## Related Articles
+
+- [What's In George Kollias' Speed Arsenal](https://metalforge.io/articles/whats-in-george-kollias-kit)
+- [Paul Mazurkiewicz Drum Setup — Cannibal Corpse Gear Guide](https://metalforge.io/articles/paul-mazurkiewicz-drum-setup)
+
+## Related Drummers
+
+- [Paul Mazurkiewicz](https://metalforge.io/drummer/paul-mazurkiewicz)
+- [George Kollias](https://metalforge.io/drummer/george-kollias)
+
 **Source:** https://metalforge.io/articles/bleed-the-fifth-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

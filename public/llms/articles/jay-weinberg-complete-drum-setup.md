@@ -11,7 +11,7 @@
 
 Jay Weinberg (born September 8, 1990, in Middletown Township, New Jersey) served as Slipknot's drummer from 2014 to 2023, donning the iconic mask #1 and manning the drum throne behind one of the heaviest live productions in metal. As the son of Max Weinberg — legendary drummer for Bruce Springsteen's E Street Band — Jay brought an unusual combination of hardcore punk intensity, classical technique discipline, and an encyclopedic knowledge of Joey Jordison's parts to the most demanding drum seat in nu-metal.
 
-Weinberg uses an SJC Custom Drums kit paired with Zildjian cymbals as Slipknot's drummer — a setup he switched to for We Are Not Your Kind (2019) after debuting on a Pearl Reference Pure kit for .5: The Gray Chapter (2014), and then carried through The End, So Far (2022) and years of relentless world touring with the band. His rig is a hybrid acoustic and electronic system built to deliver Slipknot's dense sample-triggered live show while maintaining the explosive, muscular live drumming feel the band demands.
+Weinberg has played an SJC Custom Drums kit paired with Zildjian cymbals throughout his Slipknot tenure — an endorsement he'd held since 2009, five years before joining the band, carried from his .5: The Gray Chapter debut (2014) through We Are Not Your Kind (2019) and The End, So Far (2022) and years of relentless world touring. His rig is a hybrid acoustic and electronic system built to deliver Slipknot's dense sample-triggered live show while maintaining the explosive, muscular live drumming feel the band demands.
 
 Before Slipknot, Weinberg built his chops in the hardcore and punk scenes — touring with Against Me!, Madball, and filling in for his father on the Springsteen Working on a Dream World Tour in 2009. That background in raw, immediate playing gave him the physical toughness that nine years with Slipknot required.
 
@@ -124,8 +124,20 @@ A: Jay Weinberg plays Vater drumsticks during his Slipknot tenure. Vater manufac
 
 A: Jay Weinberg plays DW 9000 series double bass drum pedals — the same pedal used by Joey Jordison in Slipknot's earlier eras. The DW 9000 is a dual-chain drive system with adjustable cam geometry, precision ball-bearing action, and heavy-duty construction built for professional touring demands. Its consistent feel across different stage surfaces and climate conditions makes it reliable for the varied venues of a global Slipknot tour.
 
+## Related Articles
+
+- [What's In Eloy Casagrande's Kit in 2026: From Sepultura to Slipknot](https://metalforge.io/articles/whats-in-eloy-casagrandes-kit)
+- [Cowboys from Hell Drum Setup: Vinnie Paul's Breakthrough Gear](https://metalforge.io/articles/cowboys-from-hell-drum-setup)
+- [Joey Jordison Drum Setup: Slipknot Drummer Kit & Gear Breakdown](https://metalforge.io/articles/joey-jordison-drum-setup)
+
+## Related Drummers
+
+- [Joey Jordison](https://metalforge.io/drummer/joey-jordison)
+- [Eloy Casagrande](https://metalforge.io/drummer/eloy-casagrande)
+- [Matt Greiner](https://metalforge.io/drummer/matt-greiner)
+
 **Source:** https://metalforge.io/articles/jay-weinberg-complete-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

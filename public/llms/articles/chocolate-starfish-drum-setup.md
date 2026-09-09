@@ -120,8 +120,20 @@ A: John Otto used Zildjian A and A Custom series cymbals on 'Chocolate Starfish 
 
 A: John Otto's jazz and hip-hop background led him to prioritize groove over density — and a single kick drum forces rhythmic intentionality rather than allowing double-bass runs to substitute for musical placement. On 'Chocolate Starfish,' this philosophy produced 'Rollin'' — one of nu-metal's most iconic drum tracks, built entirely on a minimal, hip-hop-groove single-kick pattern. Otto's choice of single kick while contemporaries used double bass demonstrates his compositional confidence: the groove serves the song first. Full technique overview: [John Otto at MetalForge](/drummer/john-otto). Context: [nu-metal drummers top 10](/top10/nu-metal-drummers).
 
+## Related Articles
+
+- [Top 10 Nu-Metal Drummers](https://metalforge.io/lists/nu-metal-drummers)
+- [John Otto Drum Setup: Limp Bizkit's 'Significant Other' (1999) Gear Breakdown](https://metalforge.io/articles/significant-other-drum-setup)
+- [John Otto's Drum Setup — Limp Bizkit's Complete Drum Kit Guide](https://metalforge.io/articles/john-otto-drum-setup)
+
+## Related Drummers
+
+- [Joey Jordison](https://metalforge.io/drummer/joey-jordison)
+- [Ray Luzier](https://metalforge.io/drummer/ray-luzier)
+- [Hellhammer](https://metalforge.io/drummer/hellhammer)
+
 **Source:** https://metalforge.io/articles/chocolate-starfish-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

@@ -100,8 +100,17 @@ A: Angel of Retribution closes a 15-year arc gap on the Judas Priest timeline: P
 
 A: Eulogy/Lochness is a 13-minute closing epic that gives Travis more long-form space than almost any other Priest track. Eulogy opens as a slow, brooding ballad with minimal kit work, then Lochness detonates into a doom-paced epic that builds through tom pulses, china accents, and a climactic double-kick section. It's drumming as long-form arrangement, and it foreshadows the orchestral ambitions Priest would pursue on 2008's Nostradamus. For a 2005 reunion record that needed to prove the band still had reach, it's the showcase track.
 
+## Related Articles
+
+- [Top 10 Fastest Double Bass Drummers in Metal History](https://metalforge.io/lists/fastest-double-bass-drummers)
+- [Painkiller Drum Setup: Scott Travis's Speed Metal Revolution](https://metalforge.io/articles/painkiller-drum-setup)
+
+## Related Drummers
+
+- [Shannon Larkin](https://metalforge.io/drummer/shannon-larkin)
+
 **Source:** https://metalforge.io/articles/angel-of-retribution-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

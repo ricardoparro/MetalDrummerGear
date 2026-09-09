@@ -120,8 +120,19 @@ A: Ray Luzier plays Vic Firth Ray Luzier Signature drumsticks. The signature mod
 
 A: Ray Luzier began touring with Korn in 2007 following the departure of founding drummer David Silveria. He initially joined as a touring drummer and was later confirmed as an official band member. His first full studio album with Korn was Korn III: Remember Who You Are (2010), produced by Ross Robinson — the same producer who helmed Korn's influential debut. Luzier has recorded four studio albums with the band and has toured extensively worldwide.
 
+## Related Articles
+
+- [Iowa Drum Setup: Joey Jordison's Gear Breakdown](https://metalforge.io/articles/iowa-drum-setup)
+- [What's In Joey Jordison's Legendary Kit: Complete Gear Breakdown](https://metalforge.io/articles/whats-in-joey-jordisons-kit)
+
+## Related Drummers
+
+- [Matt Greiner](https://metalforge.io/drummer/matt-greiner)
+- [Eloy Casagrande](https://metalforge.io/drummer/eloy-casagrande)
+- [Lars Ulrich](https://metalforge.io/drummer/lars-ulrich)
+
 **Source:** https://metalforge.io/articles/whats-in-ray-luziers-kit
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

@@ -102,8 +102,19 @@ A: Diabolus in Musica was produced by Toby Wright, known for his engineering wor
 
 A: Diabolus in Musica debuted and peaked at #31 on the Billboard 200 — Slayer's highest US chart position at the time of release, surpassing all previous Slayer albums. The album was certified Gold by the RIAA. Despite the mixed critical and fan reception at release, the commercial performance demonstrated that the controversial D-flat tuning and groove metal direction did not alienate Slayer's core audience. God Hates Us All (2001) would later improve on this, reaching #28 on the Billboard 200.
 
+## Related Articles
+
+- [What's In Paul Bostaph's Slayer Arsenal](https://metalforge.io/articles/whats-in-paul-bostaphs-kit)
+- [Top 10 Thrash Metal Drummers](https://metalforge.io/lists/thrash-metal-drummers)
+- [God Hates Us All Drum Setup: Slayer's 9/11 Album Gear Breakdown (2001)](https://metalforge.io/articles/god-hates-us-all-drum-setup)
+
+## Related Drummers
+
+- [Brann Dailor](https://metalforge.io/drummer/brann-dailor)
+- [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo)
+
 **Source:** https://metalforge.io/articles/diabolus-in-musica-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

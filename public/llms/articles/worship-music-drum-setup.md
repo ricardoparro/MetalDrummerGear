@@ -105,8 +105,23 @@ A: "In the End" from Worship Music (2011) features Charlie Benante on his Tama S
 
 A: Worship Music (2011) and Among the Living (1987) share the same fundamental configuration — Charlie Benante on dual 22" bass drums, Tama kit, forward thrash production — but represent 24 years of gear and technique refinement. Among the Living used the Tama Artstar II birch kit and Paiste 2002 cymbals with HP35 Camco pedals and a Vic Firth 2B stick; Worship Music used the Tama Starclassic Maple, the same Paiste 2002/Signature cymbals, and the new Speed Cobra pedals. Sonically, the biggest differences are the modern production context (Jay Ruston vs. Eddie Kramer), the fuller maple shell warmth versus birch's snappier upper-midrange, and the Speed Cobra's different pedal action from the original Camco mechanism. For the full Among the Living breakdown, see the [Among the Living drum setup article](/articles/charlie-benante-among-the-living-drum-setup). For the next album in the arc, see [For All Kings drum setup](/articles/for-all-kings-drum-setup).
 
+## Related Articles
+
+- [What's In Charlie Benante's Anthrax Kit: The Big Four's Technical Pioneer](https://metalforge.io/articles/whats-in-charlie-benantes-kit)
+- [Top 10 Thrash Metal Drummers](https://metalforge.io/lists/thrash-metal-drummers)
+- [Charlie Benante's Drum Setup on Anthrax's We've Come for You All (2003)](https://metalforge.io/articles/weve-come-for-you-all-drum-setup)
+- [Charlie Benante's Drum Setup on Anthrax's Sound of White Noise (1993)](https://metalforge.io/articles/sound-of-white-noise-drum-setup)
+- [Among the Living Drum Setup: Charlie Benante's Anthrax Gear Breakdown](https://metalforge.io/articles/charlie-benante-among-the-living-drum-setup)
+- [Charlie Benante's Drum Setup on Anthrax's For All Kings (2016)](https://metalforge.io/articles/for-all-kings-drum-setup)
+
+## Related Drummers
+
+- [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo)
+- [Lars Ulrich](https://metalforge.io/drummer/lars-ulrich)
+- [Gene Hoglan](https://metalforge.io/drummer/gene-hoglan)
+
 **Source:** https://metalforge.io/articles/worship-music-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

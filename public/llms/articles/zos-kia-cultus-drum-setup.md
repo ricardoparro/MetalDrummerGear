@@ -100,8 +100,20 @@ A: Zos Kia Cultus was recorded at Hertz Studios in Poland — the same studio wh
 
 A: Zos Kia Cultus (2002) is significant in Inferno's gear history primarily because it documents the first notable integration of Paiste Signature Dark Energy cymbals into his Behemoth studio setup — the beginning of a long relationship with Paiste that would define his sound through Demigod (2004), Evangelion (2009), The Satanist (2014), and beyond. The album also marks the last Behemoth record before the Demigod breakthrough, placing it at a pivotal point: after this, Inferno's equipment and technique would develop under the scrutiny of growing international attention. See the full gear evolution at [What's In Inferno's Kit](/articles/whats-in-infernos-kit) and the later [Evangelion drum setup](/articles/evangelion-drum-setup).
 
+## Related Articles
+
+- [Thelema.6 Drum Setup: Inferno's Pearl Masters Kit — Behemoth's 2002 Death Metal Pivot](https://metalforge.io/articles/thelema-6-drum-setup)
+- [Demigod Drum Setup: Inferno's Pearl Masters BRX — Behemoth's International Breakthrough (2004)](https://metalforge.io/articles/demigod-drum-setup)
+- [What's In Inferno's Behemoth Arsenal: Complete Gear Breakdown](https://metalforge.io/articles/whats-in-infernos-kit)
+
+## Related Drummers
+
+- [George Kollias](https://metalforge.io/drummer/george-kollias)
+- [Pete Sandoval](https://metalforge.io/drummer/pete-sandoval)
+- [Gene Hoglan](https://metalforge.io/drummer/gene-hoglan)
+
 **Source:** https://metalforge.io/articles/zos-kia-cultus-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

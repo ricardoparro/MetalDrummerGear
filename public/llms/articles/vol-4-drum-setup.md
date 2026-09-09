@@ -88,8 +88,19 @@ A: By *Vol. 4*, Bill Ward's playing had grown more deliberate and riff-locked th
 
 A: "Changes" appears on *Vol. 4* (1972), Black Sabbath's fourth studio album. It's a piano-and-mellotron ballad composed by Tony Iommi, with no drum part — one of the only Black Sabbath album tracks where Bill Ward doesn't play. Despite his absence from the track, it remains one of the band's most covered and referenced songs. See the [Bill Ward drummer profile](/drummer/bill-ward) for the rest of his work across the album.
 
+## Related Articles
+
+- [Bill Ward's Drum Setup on Black Sabbath's Master of Reality (1971)](https://metalforge.io/articles/master-of-reality-drum-setup)
+- [Bill Ward's Drum Setup on Black Sabbath's Sabbath Bloody Sabbath (1973)](https://metalforge.io/articles/sabbath-bloody-sabbath-drum-setup)
+
+## Related Drummers
+
+- [Lars Ulrich](https://metalforge.io/drummer/lars-ulrich)
+- [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo)
+- [Charlie Benante](https://metalforge.io/drummer/charlie-benante)
+
 **Source:** https://metalforge.io/articles/vol-4-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

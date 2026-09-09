@@ -121,8 +121,20 @@ A: In the late 1990s during the Around the Fur era, Abe Cunningham used a Tama S
 
 A: Around the Fur was produced by Terry Date, who also produced Deftones' debut Adrenaline and their Grammy-winning White Pony. Date was one of the most respected heavy music producers of the 1990s, having helmed landmark records for Pantera, Soundgarden, and Queensrÿche. His natural, dynamics-conscious approach to drum recording set Deftones apart from the heavily processed nu-metal production that dominated the era.
 
+## Related Articles
+
+- [What's In Abe Cunningham's Deftones Arsenal: Complete Gear Breakdown](https://metalforge.io/articles/whats-in-abe-cunninghams-kit)
+- [White Pony Drum Setup: Abe Cunningham's Atmospheric Masterpiece](https://metalforge.io/articles/white-pony-drum-setup)
+- [Saturday Night Wrist Drum Setup: Abe Cunningham's Experimental Era](https://metalforge.io/articles/saturday-night-wrist-drum-setup)
+
+## Related Drummers
+
+- [Danny Carey](https://metalforge.io/drummer/danny-carey)
+- [Gavin Harrison](https://metalforge.io/drummer/gavin-harrison)
+- [Abe Cunningham](https://metalforge.io/drummer/abe-cunningham)
+
 **Source:** https://metalforge.io/articles/around-the-fur-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

@@ -114,8 +114,17 @@ A: "Edgecrusher" is the defining Herrera performance on *Obsolete* — the track
 
 A: Raymond Herrera used Zildjian Z Custom cymbals on *Obsolete*, the same series he had employed on *Demanufacture*. His setup included Z Custom 14" hi-hats for the hi-hat pulse, 16" and 18" crash cymbals for structural accents, a 20" ride for mid-tempo groove passages, and a china cymbal for aggressive trash accents. The Z Custom's bright, machine-hammered B20 bronze construction placed cymbal frequencies above Fear Factory's dense guitar frequencies — essential for cymbal definition in Rhys Fulber's mix. The china cymbal receives particular prominence on *Obsolete*, its aggressive character well-suited to the album's most intense passages on "Edgecrusher" and "Shock." For the full Raymond Herrera cymbal setup context: [Raymond Herrera at MetalForge](/drummer/raymond-herrera).
 
+## Related Articles
+
+- [Raymond Herrera's Drum Setup — Fear Factory's Industrial Metal Hybrid Kit](https://metalforge.io/articles/raymond-herrera-drum-setup)
+- [Digimortal Drum Setup: Raymond Herrera's 2001 Fear Factory Kit Breakdown](https://metalforge.io/articles/digimortal-drum-setup)
+
+## Related Drummers
+
+- [Raymond Herrera](https://metalforge.io/drummer/raymond-herrera)
+
 **Source:** https://metalforge.io/articles/obsolete-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

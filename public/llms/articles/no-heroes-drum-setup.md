@@ -95,8 +95,21 @@ A: "Grim Heart/Black Rose," the 9:34 centerpiece of No Heroes, features guest le
 
 A: Gear-wise, almost nothing changed across all three records — Ben Koller used the same Tama Starclassic bubinga kit, brass snare, Sabian HHX/AAX cymbals, and Tama Iron Cobra single pedal on Jane Doe, You Fail Me, and No Heroes. What changed was the production: No Heroes was the first Converge album that Kurt Ballou recorded and mixed entirely by himself at GodCity Studio, without the split-studio approach used on You Fail Me. That full creative control gave the album a more cohesive, confident sound, and Koller's performance on the extended "Grim Heart/Black Rose" shows him handling a far wider dynamic and structural range than either prior record demanded.
 
+## Related Articles
+
+- [Ben Koller's Complete Drum Setup — Converge Gear Guide](https://metalforge.io/articles/ben-koller-drum-setup)
+- [Ben Koller's Drum Setup on Converge's You Fail Me (2004)](https://metalforge.io/articles/you-fail-me-drum-setup)
+- [Ben Koller's Drum Setup on Converge's Jane Doe (2001)](https://metalforge.io/articles/jane-doe-drum-setup)
+- [Ben Koller's Drum Setup on Converge's Axe to Fall (2009)](https://metalforge.io/articles/axe-to-fall-drum-setup)
+
+## Related Drummers
+
+- [Joey Jordison](https://metalforge.io/drummer/joey-jordison)
+- [Charlie Benante](https://metalforge.io/drummer/charlie-benante)
+- [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo)
+
 **Source:** https://metalforge.io/articles/no-heroes-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

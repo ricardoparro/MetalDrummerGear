@@ -104,8 +104,21 @@ A: Joey Jordison's first major endorsements came through the commercial success 
 
 A: Joey Jordison used Zildjian A Custom cymbals on Slipknot's 1999 debut — the pre-Paiste era of his career. The A Custom setup included 14-inch hi-hats, crashes in 16 and 18 inches, a 20-inch ride, an 18-inch China, and a 10-inch splash. The Zildjian A Custom series delivered a bright, articulate sound with fast response — notably different from the raw, unlathed aggression of the Paiste RUDE series Joey would adopt for Iowa in 2001. The transition from Zildjian to Paiste coincided with his broader gear transition from Tama to Pearl hardware, reshaping the Slipknot drum palette for the Iowa era.
 
+## Related Articles
+
+- [Top 10 Fastest Double Bass Drummers in Metal History](https://metalforge.io/lists/fastest-double-bass-drummers)
+- [Top 10 Most Brutal Drum Solos in Metal History](https://metalforge.io/lists/most-brutal-drum-solos)
+- [Iowa Drum Setup: Joey Jordison's Gear Breakdown](https://metalforge.io/articles/iowa-drum-setup)
+- [We Are Not Your Kind — Slipknot Drum Setup (Jay Weinberg, 2019)](https://metalforge.io/articles/we-are-not-your-kind-drum-setup)
+
+## Related Drummers
+
+- [Jay Weinberg](https://metalforge.io/drummer/jay-weinberg)
+- [George Kollias](https://metalforge.io/drummer/george-kollias)
+- [Flo Mounier](https://metalforge.io/drummer/flo-mounier)
+
 **Source:** https://metalforge.io/articles/slipknot-self-titled-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

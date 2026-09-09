@@ -115,8 +115,23 @@ A: Chris Adler used Meinl Byzance cymbals throughout Ashes of the Wake. His setu
 
 A: At the time of recording in 2004, the Mapex Pro M Series kit was priced at approximately $2,500 to $3,500, with the Mapex Black Panther snare adding $350 to $450. The Meinl Byzance cymbal setup would have cost $1,500 to $2,500. Today, used Mapex Pro M kits sell for $800 to $1,800, making this one of the more affordable setups to replicate among high-profile metal drummers from that era.
 
+## Related Articles
+
+- [Top 10 Groove Metal Drummers](https://metalforge.io/lists/groove-metal-drummers)
+- [What's In Chris Adler's Lamb of God Arsenal: Complete Gear Breakdown](https://metalforge.io/articles/whats-in-chris-adlers-kit)
+- [As the Palaces Burn Drum Setup: Chris Adler's 2003 Breakout Kit](https://metalforge.io/articles/as-the-palaces-burn-drum-setup)
+- [Vulgar Display of Power Drum Setup: Vinnie Paul's Gear Breakdown](https://metalforge.io/articles/vulgar-display-of-power-drum-setup)
+- [From Mars to Sirius Drum Setup: Mario Duplantier's Breakthrough Gear](https://metalforge.io/articles/from-mars-to-sirius-drum-setup)
+- [Iowa Drum Setup: Joey Jordison's Gear Breakdown](https://metalforge.io/articles/iowa-drum-setup)
+
+## Related Drummers
+
+- [Vinnie Paul](https://metalforge.io/drummer/vinnie-paul)
+- [Joey Jordison](https://metalforge.io/drummer/joey-jordison)
+- [Mario Duplantier](https://metalforge.io/drummer/mario-duplantier)
+
 **Source:** https://metalforge.io/articles/ashes-of-the-wake-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

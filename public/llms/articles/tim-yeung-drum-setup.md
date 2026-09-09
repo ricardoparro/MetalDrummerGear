@@ -106,8 +106,18 @@ A: Tim Yeung plays Sabian cymbals, primarily from the AAX and HHX series. His se
 
 A: Tim Yeung's core gear setup — Pearl Reference Masters drums, Sabian cymbals, DW 9002 double bass pedal — remained consistent across his Hate Eternal and earlier Morbid Angel periods, before a full 2021 switch to Tama Starclassic Bubinga drums and a Tama Speed Cobra 910 pedal for his current touring and session work. The primary difference between the Hate Eternal and Morbid Angel eras was in musical application rather than equipment. Hate Eternal's arrangements (particularly Fury & Flames and I, Monarch) demand faster, more technically dense blast beat patterns in Erik Rutan's extreme technical death metal context. Morbid Angel's catalogue — especially the Kingdoms Disdained return-to-form — balances extreme speed sections with more groove-oriented death metal passages. Yeung's technique spans both contexts. For the full Morbid Angel connection and comparison with Paul Mazurkiewicz's Cannibal Corpse setup: [Paul Mazurkiewicz drum setup](/articles/paul-mazurkiewicz-drum-setup).
 
+## Related Articles
+
+- [Paul Mazurkiewicz Drum Setup — Cannibal Corpse Gear Guide](https://metalforge.io/articles/paul-mazurkiewicz-drum-setup)
+- [Hellhammer Drum Kit & Gear Setup — Mayhem Black Metal Legend](https://metalforge.io/articles/hellhammer-drum-setup)
+
+## Related Drummers
+
+- [Paul Mazurkiewicz](https://metalforge.io/drummer/paul-mazurkiewicz)
+- [Tim Yeung](https://metalforge.io/drummer/tim-yeung)
+
 **Source:** https://metalforge.io/articles/tim-yeung-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

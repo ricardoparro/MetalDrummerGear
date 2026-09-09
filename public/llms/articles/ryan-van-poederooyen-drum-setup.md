@@ -106,8 +106,18 @@ A: Ryan Van Poederooyen has been Devin Townsend's drummer since 1999 — over 25
 
 A: Ryan Van Poederooyen has recorded across Devin Townsend's complete catalogue since 1999: Physicist (2000), Terria (2001), Accelerated Evolution (2003), Ziltoid the Omniscient (2007), and the complete Devin Townsend Project discography — Ki, Addicted, Deconstruction, Ghost (all 2009–2011), Epicloud (2012), Z² (2014), Transcendence (2016) — as well as the Empath (2019) and Lightwork (2022) solo albums. Deconstruction (2011) is widely cited among prog-metal drummers as one of the most demanding drum performances in the genre.
 
+## Related Articles
+
+- [How to Play Double Bass Drums for Metal](https://metalforge.io/articles/double-bass-drumming-for-metal)
+- [Blake Richardson Drum Kit & Gear Setup — BTBAM Tech Metal](https://metalforge.io/articles/blake-richardson-drum-setup)
+- [Martin Lopez Drum Setup — Opeth & Soen Gear Guide](https://metalforge.io/articles/martin-lopez-drum-setup)
+
+## Related Drummers
+
+- [Ryan Van Poederooyen](https://metalforge.io/drummer/ryan-van-poederooyen)
+
 **Source:** https://metalforge.io/articles/ryan-van-poederooyen-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

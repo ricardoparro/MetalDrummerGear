@@ -107,8 +107,20 @@ A: No — Immutable continues Haake's long-standing pedal philosophy. For his en
 
 A: Immutable is Meshuggah's tenth studio album, released on April 1, 2022 on Atomic Fire Records — their first album on the label after decades with Nuclear Blast. The album was originally planned for release around 2020 but was delayed by the COVID-19 pandemic, which inadvertently gave Tomas Haake additional time to refine his drum setup and integrate new hardware. The album earned a Grammy nomination for Best Metal Performance for the track "The Abysmal Eye" at the 2023 Grammy Awards.
 
+## Related Articles
+
+- [What's In Tomas Haake's Polyrhythmic Arsenal: Complete Gear Breakdown](https://metalforge.io/articles/whats-in-tomas-haakes-kit)
+- [obZen Drum Setup: Tomas Haake's Legendary "Bleed" Gear Breakdown](https://metalforge.io/articles/obzen-drum-setup)
+- [The Violent Sleep of Reason Drum Setup: Tomas Haake's Live-to-Tape Kit (2016)](https://metalforge.io/articles/violent-sleep-of-reason-drum-setup)
+
+## Related Drummers
+
+- [Danny Carey](https://metalforge.io/drummer/danny-carey)
+- [John Otto](https://metalforge.io/drummer/john-otto)
+- [Brann Dailor](https://metalforge.io/drummer/brann-dailor)
+
 **Source:** https://metalforge.io/articles/immutable-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

@@ -117,8 +117,19 @@ A: Super Zyn was Bill Ward's first cymbal setup — a modest, budget-conscious c
 
 A: Black Sabbath released their self-titled debut album on February 13, 1970 on Vertigo Records. The album was recorded in October 1969 at Regent Sound Studios, London, in approximately 12 hours on a budget of £500. It is widely recognized as the first heavy metal album, featuring Bill Ward on drums with his Ludwig Super Classic kit and Super Zyn cymbals.
 
+## Related Articles
+
+- [What's In Bill Ward's Kit: The Godfather of Metal Drumming's Legendary Setup](https://metalforge.io/articles/whats-in-bill-wards-kit)
+- [Paranoid Drum Setup: Bill Ward's Gear on Black Sabbath's Defining Album](https://metalforge.io/articles/paranoid-drum-setup)
+
+## Related Drummers
+
+- [Lars Ulrich](https://metalforge.io/drummer/lars-ulrich)
+- [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo)
+- [Charlie Benante](https://metalforge.io/drummer/charlie-benante)
+
 **Source:** https://metalforge.io/articles/black-sabbath-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

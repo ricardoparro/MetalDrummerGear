@@ -106,8 +106,22 @@ A: Gallery of Suicide (1998) was the first Cannibal Corpse album to feature lead
 
 A: 'From Skin to Liquid' is Cannibal Corpse's first instrumental track and, at the time of its release, the slowest song the band had recorded. It appears on Gallery of Suicide (1998) and gave Paul Mazurkiewicz space to use dynamics and tom-based texture rather than sustained blast-beat density — a notable departure from the rest of the record and from the band's catalog up to that point. The track is frequently cited as one of the more experimental moments in Cannibal Corpse's discography.
 
+## Related Articles
+
+- [Top 10 Death Metal Drummers](https://metalforge.io/lists/death-metal-drummers)
+- [Paul Mazurkiewicz's Drum Setup on Cannibal Corpse's The Bleeding (1994)](https://metalforge.io/articles/the-bleeding-drum-setup)
+- [Paul Mazurkiewicz's Drum Setup on Cannibal Corpse's Vile (1996)](https://metalforge.io/articles/vile-drum-setup)
+- [Paul Mazurkiewicz's Drum Setup on Cannibal Corpse's Bloodthirst (1999)](https://metalforge.io/articles/bloodthirst-drum-setup)
+- [Paul Mazurkiewicz's Drum Setup on Cannibal Corpse's Tomb of the Mutilated (1992)](https://metalforge.io/articles/tomb-of-the-mutilated-drum-setup)
+- [Paul Mazurkiewicz Drum Setup — Cannibal Corpse Gear Guide](https://metalforge.io/articles/paul-mazurkiewicz-drum-setup)
+- [None So Vile Drum Setup: Flo Mounier's Technical Death Metal Landmark](https://metalforge.io/articles/none-so-vile-drum-setup)
+
+## Related Drummers
+
+- [Paul Mazurkiewicz](https://metalforge.io/drummer/paul-mazurkiewicz)
+
 **Source:** https://metalforge.io/articles/gallery-of-suicide-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

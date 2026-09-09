@@ -95,8 +95,17 @@ A: Morgan Ågren's technique is unique for two primary reasons: four-limb indepe
 
 A: Morgan Ågren plays Paiste Signature and 2002 Series cymbals. His setup centres on the 14" Signature Heavy Hi-Hats — a tight, controlled cymbal that articulates clearly during dense polyrhythmic passages — alongside 18"/20" Signature Fast Crashes and the 22" Signature Dry Heavy Ride. The Signature line is a precision alloy built for bright, focused projection: rather than a wash of overtones, these cymbals produce a clear, defined voice that cuts through dense arrangements. The 22" Signature Dry Heavy Ride is Ågren's centrepiece — its dry, defined stick sound and clear bell function across both jazz-fusion ride playing and progressive metal arrangements. An 18" 2002 China adds a cutting accent voice. The Signature series' bright, articulate character reflects Ågren's jazz-derived approach to the instrument, prioritising clarity over wash.
 
+## Related Articles
+
+- [Tim Yeung Drum Kit & Gear Setup — Morbid Angel Death Metal](https://metalforge.io/articles/tim-yeung-drum-setup)
+- [Ben Koller's Complete Drum Setup — Converge Gear Guide](https://metalforge.io/articles/ben-koller-drum-setup)
+
+## Related Drummers
+
+- [Morgan Ågren](https://metalforge.io/drummer/morgan-agren)
+
 **Source:** https://metalforge.io/articles/morgan-agren-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

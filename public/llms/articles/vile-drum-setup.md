@@ -98,8 +98,20 @@ A: Vile was produced by Scott Burns at Morrisound Recording in Tampa, Florida �
 
 A: Vile (1996) sits directly between The Bleeding (1994) and Gallery of Suicide (1998) in both Cannibal Corpse's lineup history and Paul Mazurkiewicz's gear timeline. The Bleeding was the last album with original vocalist Chris Barnes; Vile introduced George 'Corpsegrinder' Fisher mid-session after Barnes's dismissal; and Gallery of Suicide was Fisher's second album, recorded as Mazurkiewicz's Pearl setup began its gradual transition toward the Reference-era rig. Mazurkiewicz's kit and technique on Vile are essentially unchanged from The Bleeding, making it the technical bridge between the two documented eras. See the [The Bleeding drum setup](/articles/the-bleeding-drum-setup) and [Gallery of Suicide drum setup](/articles/gallery-of-suicide-drum-setup) articles for direct comparison.
 
+## Related Articles
+
+- [Top 10 Death Metal Drummers](https://metalforge.io/lists/death-metal-drummers)
+- [Paul Mazurkiewicz's Drum Setup on Cannibal Corpse's The Bleeding (1994)](https://metalforge.io/articles/the-bleeding-drum-setup)
+- [Paul Mazurkiewicz's Drum Setup on Cannibal Corpse's Gallery of Suicide (1998)](https://metalforge.io/articles/gallery-of-suicide-drum-setup)
+- [Paul Mazurkiewicz's Drum Setup on Cannibal Corpse's Bloodthirst (1999)](https://metalforge.io/articles/bloodthirst-drum-setup)
+- [Paul Mazurkiewicz Drum Setup — Cannibal Corpse Gear Guide](https://metalforge.io/articles/paul-mazurkiewicz-drum-setup)
+
+## Related Drummers
+
+- [Paul Mazurkiewicz](https://metalforge.io/drummer/paul-mazurkiewicz)
+
 **Source:** https://metalforge.io/articles/vile-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

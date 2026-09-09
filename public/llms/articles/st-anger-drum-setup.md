@@ -105,8 +105,22 @@ A: Lars Ulrich used his longstanding Tama Starclassic Maple kit on St. Anger, fi
 
 A: Yes. The St. Anger snare sound was an entirely intentional production decision made by Lars Ulrich and producer Bob Rock. The brief for the album was a raw, industrial, garage-band drum sound that rejected the polished, room-mic-heavy approach of the Black Album, Load, and ReLoad. Disengaging the snare wires and tuning the batter head ultra-tight was the most direct way to deliver that aesthetic. The decision is documented extensively in the Some Kind of Monster film, has been defended in numerous interviews by both Lars and Bob Rock, and was committed to across the entire record — there is no "corrected" version of any track. Listener reception has been deeply polarised since release, but the band has never described the sound as a mistake; it was the sound they meant to make.
 
+## Related Articles
+
+- [What's In Lars Ulrich's Kit in 2026: The Most Famous Metal Drummer's Complete Setup](https://metalforge.io/articles/whats-in-lars-ulrichs-kit)
+- [Top 10 Thrash Metal Drummers](https://metalforge.io/lists/thrash-metal-drummers)
+- [Metallica 'Reload' Drum Setup: Lars Ulrich's 1997 Tama Star Classic Maple Kit](https://metalforge.io/articles/reload-drum-setup)
+- [The Black Album Drum Setup: Lars Ulrich's 1991 Tama Artist Maple Kit](https://metalforge.io/articles/black-album-drum-setup)
+- [Lars Ulrich's Drum Setup on Metallica's Death Magnetic (2008)](https://metalforge.io/articles/death-magnetic-drum-setup)
+
+## Related Drummers
+
+- [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo)
+- [Gene Hoglan](https://metalforge.io/drummer/gene-hoglan)
+- [Joey Jordison](https://metalforge.io/drummer/joey-jordison)
+
 **Source:** https://metalforge.io/articles/st-anger-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

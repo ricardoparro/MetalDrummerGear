@@ -101,8 +101,21 @@ A: *Kiss of Death* (2006) features several notable guest contributions: Poison g
 
 A: *Kiss of Death* charted at #4 in Germany — Motörhead's highest German chart position up to that point in the band's career — alongside a UK entry at #45, a Switzerland entry at #26, and a Billboard 200 appearance at #82 in the United States. It was Motörhead's ninth album released through Steamhammer/SPV and the fifteenth studio album of the band's career overall.
 
+## Related Articles
+
+- [Inferno Drum Setup: Mikkey Dee's Gear on Motörhead's 2004 Album](https://metalforge.io/articles/inferno-drum-setup)
+- [What's In Mikkey Dee's Motörhead/Scorpions Arsenal: 23 Years Behind Rock's Loudest Band](https://metalforge.io/articles/whats-in-mikkey-dees-kit)
+- [Motörizer Drum Setup: Mikkey Dee's Gear on Motörhead's 2008 Album](https://metalforge.io/articles/motorizer-drum-setup)
+- [Bad Magic Drum Setup: Mikkey Dee's Gear on Motörhead's Final Album](https://metalforge.io/articles/bad-magic-drum-setup)
+
+## Related Drummers
+
+- [Hellhammer](https://metalforge.io/drummer/hellhammer)
+- [Lars Ulrich](https://metalforge.io/drummer/lars-ulrich)
+- [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo)
+
 **Source:** https://metalforge.io/articles/kiss-of-death-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

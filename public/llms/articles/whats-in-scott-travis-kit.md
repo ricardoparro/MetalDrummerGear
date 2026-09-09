@@ -117,8 +117,21 @@ A: Scott Travis uses Paiste RUDE and 2002 series cymbals. His setup includes Pai
 
 A: Scott Travis's ddrum Dominion Series shell pack is estimated at $6,000 to $8,000 new. His ddrum Scott Travis Signature snare adds approximately $600 to $900. The Paiste RUDE and 2002 cymbal setup including the full array of crashes, ride, hi-hats, and china runs $2,500 to $4,000. Combined with professional hardware, pedals, and accessories, a complete comparable Travis setup can total between $12,000 and $18,000.
 
+## Related Articles
+
+- [Painkiller Drum Setup: Scott Travis's Speed Metal Revolution](https://metalforge.io/articles/painkiller-drum-setup)
+- [What's In Nicko McBrain's Iron Maiden Arsenal](https://metalforge.io/articles/whats-in-nicko-mcbrains-kit)
+- [Top 10 Thrash Metal Drummers](https://metalforge.io/lists/thrash-metal-drummers)
+- [Master of Puppets Drum Setup: Lars Ulrich's Gear Breakdown](https://metalforge.io/articles/master-of-puppets-drum-setup)
+
+## Related Drummers
+
+- [Lars Ulrich](https://metalforge.io/drummer/lars-ulrich)
+- [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo)
+- [Nicko McBrain](https://metalforge.io/drummer/nicko-mcbrain)
+
 **Source:** https://metalforge.io/articles/whats-in-scott-travis-kit
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

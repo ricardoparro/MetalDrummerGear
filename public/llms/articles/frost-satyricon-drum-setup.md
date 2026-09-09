@@ -120,8 +120,20 @@ A: Yes. Frost uses Roland acoustic drum triggers (RT series) on his bass drum(s)
 
 A: Frost is also the drummer for 1349, one of Norway's most extreme and relentless black metal acts — arguably more technically demanding than Satyricon in its sustained extremity. 1349's approach (albums like Hellfire, Revelations of the Black Flame, and Demonoir) requires blast beats at maximum velocity with minimal dynamic concession, which represents a different demand on Frost than Satyricon's more evolved, dynamically varied material. He has appeared on all of 1349's major releases alongside Satyricon, demonstrating his ability to shift between the two bands' very different rhythmic philosophies. He has also appeared in various studio and session contexts within the Norwegian metal scene.
 
+## Related Articles
+
+- [Top 10 Black Metal Drummers](https://metalforge.io/lists/black-metal-drummers)
+- [Gene Hoglan Drum Setup: The Atomic Clock Complete Gear Guide](https://metalforge.io/articles/gene-hoglan-drum-setup)
+- [Joey Jordison Drum Setup: Slipknot Drummer Kit & Gear Breakdown](https://metalforge.io/articles/joey-jordison-drum-setup)
+
+## Related Drummers
+
+- [Frost](https://metalforge.io/drummer/frost)
+- [Matt Garstka](https://metalforge.io/drummer/matt-garstka)
+- [Charlie Benante](https://metalforge.io/drummer/charlie-benante)
+
 **Source:** https://metalforge.io/articles/frost-satyricon-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

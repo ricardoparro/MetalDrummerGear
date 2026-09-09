@@ -107,8 +107,19 @@ A: Remission was produced by Fredrik Nordström at Studio Fredman in Gothenburg,
 
 A: On Remission (2002), Brann Dailor used Zildjian A Series cymbals — his early-career choice before developing the Meinl endorsement relationship that defined later Mastodon records. The Zildjian A Series provides bright, cutting attack well suited to the dense sludge metal arrangements. His setup included 14-inch hi-hats, 16 and 18-inch crash cymbals, a 20-inch ride, and an 18-inch China. This Zildjian setup contrasts notably with the darker, more atmospheric Meinl Byzance cymbals Dailor would use on Crack the Skye (2009).
 
+## Related Articles
+
+- [Brann Dailor Drum Setup — Mastodon Gear Guide](https://metalforge.io/articles/brann-dailor-mastodon-drum-setup)
+- [What's In Brann Dailor's Kit: Mastodon's Melodic Thunder Complete Breakdown](https://metalforge.io/articles/whats-in-brann-dailors-kit)
+- [Crack the Skye Drum Setup: Brann Dailor's Gear on Mastodon's Masterpiece](https://metalforge.io/articles/crack-the-skye-drum-setup)
+- [Blood Mountain Drum Setup: Brann Dailor's Gear on Mastodon's Breakthrough](https://metalforge.io/articles/blood-mountain-drum-setup)
+
+## Related Drummers
+
+- [Brann Dailor](https://metalforge.io/drummer/brann-dailor)
+
 **Source:** https://metalforge.io/articles/remission-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

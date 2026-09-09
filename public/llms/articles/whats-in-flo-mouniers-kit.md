@@ -113,8 +113,21 @@ A: Flo Mounier plays Sabian cymbals, primarily from the AAX and HHX series. His 
 
 A: Flo Mounier's Tama Starclassic Maple kit is estimated at $3,500 to $5,000 for the shell pack, with his Tama Starclassic Maple snare adding $300 to $400. The Sabian AAX and HHX cymbal setup typically runs $1,500 to $2,500 for a full configuration. A complete replica of his rig would cost approximately $5,300 to $7,900, placing it in the professional mid-tier range for serious extreme metal drummers.
 
+## Related Articles
+
+- [Top 10 Fastest Metal Drummers](https://metalforge.io/lists/fastest-metal-drummers)
+- [Symbolic Drum Setup: Gene Hoglan's Death Masterpiece](https://metalforge.io/articles/symbolic-drum-setup)
+- [Reign in Blood Drum Setup: Dave Lombardo's Gear Breakdown](https://metalforge.io/articles/reign-in-blood-drum-setup)
+- [Iowa Drum Setup: Joey Jordison's Gear Breakdown](https://metalforge.io/articles/iowa-drum-setup)
+
+## Related Drummers
+
+- [Gene Hoglan](https://metalforge.io/drummer/gene-hoglan)
+- [George Kollias](https://metalforge.io/drummer/george-kollias)
+- [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo)
+
 **Source:** https://metalforge.io/articles/whats-in-flo-mouniers-kit
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

@@ -100,8 +100,18 @@ A: On *Are You Dead Yet?* (2005), Jaska Raatikainen used Zildjian A Custom and K
 
 A: *Are You Dead Yet?* (2005) represented a deliberate shift in Children of Bodom's approach toward more accessible, groove-centred arrangements — shorter song structures, more mid-paced tempos, and a streamlined production that brought their sound to a wider audience. The album's #56 Finnish chart debut was their commercial peak at the time. For Jaska Raatikainen, this meant adapting his drumming style to serve groove-oriented tracks alongside the high-velocity passages that defined *Follow the Reaper* (2000) and *Hate Crew Deathroll* (2003). The Pearl Masters and Pearl Eliminator setup suited this more varied approach — different tonal character and adjustable cam response compared to the Tama era. See the [Hate Crew Deathroll drum setup article](/articles/hate-crew-deathroll-drum-setup) for comparison.
 
+## Related Articles
+
+- [Jaska Raatikainen Drum Setup — Children of Bodom Gear Guide](https://metalforge.io/articles/jaska-raatikainen-drum-setup)
+- [Hate Crew Deathroll Drum Setup: Jaska Raatikainen's Gear on Children of Bodom's 2003 Album](https://metalforge.io/articles/hate-crew-deathroll-drum-setup)
+- [Blooddrunk Drum Setup: Jaska Raatikainen's Gear on Children of Bodom's 2008 Album](https://metalforge.io/articles/blooddrunk-drum-setup)
+
+## Related Drummers
+
+- [Jaska Raatikainen](https://metalforge.io/drummer/jaska-raatikainen)
+
 **Source:** https://metalforge.io/articles/are-you-dead-yet-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

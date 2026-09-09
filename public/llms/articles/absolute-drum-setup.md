@@ -79,8 +79,17 @@ A: Isaac Lamb's specific drum kit, cymbal, and hardware brands on Absolute are n
 
 A: "Boomslang" retains the same core groove architecture Lamb established on Nomad's "B.C." — a locked kick-snare relationship that gives guitars and vocals rhythmic priority — but applies it with greater compositional precision. The pattern is more economical, the breakdown carries more physical weight, and the space before the tempo displacement is preserved more deliberately. It represents the maturation of a technique rather than a departure from it.
 
+## Related Articles
+
+- [Travis Orbin Drum Kit & Gear Setup — Periphery Djent Pioneer](https://metalforge.io/articles/travis-orbin-drum-setup)
+
+## Related Drummers
+
+- [Martin Axenrot](https://metalforge.io/drummer/martin-axenrot)
+- [Joey Jordison](https://metalforge.io/drummer/joey-jordison)
+
 **Source:** https://metalforge.io/articles/absolute-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

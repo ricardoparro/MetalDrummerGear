@@ -103,8 +103,22 @@ A: Dave Lombardo used Tama Iron Cobra 900 Power Glide pedals for World Painted B
 
 A: "Psychopathy Red" from World Painted Blood is about Soviet serial killer Andrei Chikatilo, who murdered at least 52 people in the Soviet Union between 1978 and 1990. The track was one of the album's most discussed songs and contributed to its controversy narrative. It became associated with significant search traffic around the World Painted Blood album and was banned or restricted in several markets due to its subject matter.
 
+## Related Articles
+
+- [Top 10 Thrash Metal Drummers](https://metalforge.io/lists/thrash-metal-drummers)
+- [Top 10 Fastest Double Bass Drummers in Metal History](https://metalforge.io/lists/fastest-double-bass-drummers)
+- [Dave Lombardo's Drum Setup on Slayer's Christ Illusion (2006)](https://metalforge.io/articles/christ-illusion-drum-setup)
+- [Reign in Blood Drum Setup: Dave Lombardo's Gear Breakdown](https://metalforge.io/articles/reign-in-blood-drum-setup)
+- [What's In Dave Lombardo's Kit in 2026: The Godfather of Double Bass](https://metalforge.io/articles/whats-in-dave-lombardos-kit)
+
+## Related Drummers
+
+- [Lars Ulrich](https://metalforge.io/drummer/lars-ulrich)
+- [Charlie Benante](https://metalforge.io/drummer/charlie-benante)
+- [Pete Sandoval](https://metalforge.io/drummer/pete-sandoval)
+
 **Source:** https://metalforge.io/articles/world-painted-blood-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

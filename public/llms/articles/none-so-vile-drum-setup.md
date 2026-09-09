@@ -120,8 +120,22 @@ A: On None So Vile in 1996, Flo Mounier used the Sabian AA series throughout his
 
 A: At the time of recording in 1996, a Pearl MX Series kit was valued at approximately $2,000 to $3,000. Today, vintage Pearl MX kits can be found on the used market for $700 to $1,800. The Pearl Steel snare adds another $100 to $250 used. A full set of vintage Sabian AA cymbals matching his setup runs $800 to $1,500. To assemble a complete period-accurate replica of his None So Vile rig, expect to spend roughly $1,600 to $3,500 total.
 
+## Related Articles
+
+- [What's In Flo Mounier's Extreme Arsenal: Complete Gear Breakdown](https://metalforge.io/articles/whats-in-flo-mouniers-kit)
+- [Top 10 Fastest Metal Drummers](https://metalforge.io/lists/fastest-metal-drummers)
+- [Symbolic Drum Setup: Gene Hoglan's Death Masterpiece](https://metalforge.io/articles/symbolic-drum-setup)
+- [Altars of Madness Drum Setup: Pete Sandoval's Death Metal Genesis](https://metalforge.io/articles/altars-of-madness-drum-setup)
+- [Reign in Blood Drum Setup: Dave Lombardo's Gear Breakdown](https://metalforge.io/articles/reign-in-blood-drum-setup)
+
+## Related Drummers
+
+- [Gene Hoglan](https://metalforge.io/drummer/gene-hoglan)
+- [George Kollias](https://metalforge.io/drummer/george-kollias)
+- [Chris Adler](https://metalforge.io/drummer/chris-adler)
+
 **Source:** https://metalforge.io/articles/none-so-vile-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

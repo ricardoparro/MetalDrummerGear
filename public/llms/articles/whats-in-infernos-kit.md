@@ -106,8 +106,19 @@ A: Inferno uses Paiste RUDE series cymbals. His setup includes a Paiste RUDE Sou
 
 A: Inferno's Pearl Reference Pure Series shell pack is estimated at $5,000 to $8,000 for the double bass configuration. His Pearl Reference brass or steel snare adds $500 to $700. The Paiste RUDE cymbal setup typically runs $1,800 to $2,800. Combined with hardware, pedals, and accessories, a full comparable Inferno-spec setup can total between $10,000 and $15,000 at current market prices.
 
+## Related Articles
+
+- [Altars of Madness Drum Setup: Pete Sandoval's Death Metal Genesis](https://metalforge.io/articles/altars-of-madness-drum-setup)
+- [Symbolic Drum Setup: Gene Hoglan's Death Masterpiece](https://metalforge.io/articles/symbolic-drum-setup)
+
+## Related Drummers
+
+- [George Kollias](https://metalforge.io/drummer/george-kollias)
+- [Pete Sandoval](https://metalforge.io/drummer/pete-sandoval)
+- [Gene Hoglan](https://metalforge.io/drummer/gene-hoglan)
+
 **Source:** https://metalforge.io/articles/whats-in-infernos-kit
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

@@ -119,8 +119,20 @@ A: Martin Lopez used the same Sabian HH (Hand Hammered) and AAX cymbals througho
 
 A: Martin Lopez has described his approach as treating drums like architecture — building a structure the music inhabits, rather than merely accompanying what other instruments play. On Deliverance, this philosophy is most clearly demonstrated across the album's longest tracks. "Deliverance" (the title track) runs 13 minutes, and "A Fair Judgement" exceeds 14 minutes — Lopez's pattern choices and fills serve as structural markers, orienting the listener through each section change and creating anticipation for each new riff. This architectural thinking is what separates Lopez from drummers who just keep time, and it's why Deliverance works as a 13-minute epic rather than an exhausting endurance test. For comparison with his work on other Opeth albums, see the [Blackwater Park drum setup breakdown](/articles/blackwater-park-drum-setup).
 
+## Related Articles
+
+- [Blackwater Park Drum Setup: Martin Lopez's Opeth Masterpiece](https://metalforge.io/articles/blackwater-park-drum-setup)
+- [Martin Lopez Drum Setup — Opeth & Soen Gear Guide](https://metalforge.io/articles/martin-lopez-drum-setup)
+- [Ghost Reveries Drum Setup: Martin Lopez's Farewell Opeth Album (2005)](https://metalforge.io/articles/ghost-reveries-drum-setup)
+
+## Related Drummers
+
+- [Danny Carey](https://metalforge.io/drummer/danny-carey)
+- [Tomas Haake](https://metalforge.io/drummer/tomas-haake)
+- [Mike Portnoy](https://metalforge.io/drummer/mike-portnoy)
+
 **Source:** https://metalforge.io/articles/deliverance-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

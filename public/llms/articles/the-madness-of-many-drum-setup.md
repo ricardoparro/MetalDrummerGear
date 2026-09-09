@@ -92,8 +92,20 @@ A: The Madness of Many was released November 11, 2016 on Sumerian Records, Matt 
 
 A: "Arithmophobia" from The Madness of Many is widely cited as one of Matt Garstka's clearest metric modulation showcases — the track shifts between implied tempos and rhythmic feels while maintaining a natural, unforced flow, demonstrating the jazz-fusion-informed rhythmic vocabulary that distinguishes his playing from more straightforward djent drumming.
 
+## Related Articles
+
+- [The Joy of Motion Drum Setup: Matt Garstka's Debut With Animals as Leaders](https://metalforge.io/articles/the-joy-of-motion-drum-setup)
+- [Parrhesia Drum Setup: Matt Garstka's New DW Custom Shop Rig](https://metalforge.io/articles/parrhesia-drum-setup)
+- [What's In Matt Garstka's Kit: The Jazz-Fusion Meets Progressive Metal Arsenal](https://metalforge.io/articles/whats-in-matt-garstkas-kit)
+
+## Related Drummers
+
+- [Tomas Haake](https://metalforge.io/drummer/tomas-haake)
+- [Danny Carey](https://metalforge.io/drummer/danny-carey)
+- [Mike Portnoy](https://metalforge.io/drummer/mike-portnoy)
+
 **Source:** https://metalforge.io/articles/the-madness-of-many-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

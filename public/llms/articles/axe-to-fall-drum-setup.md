@@ -107,8 +107,19 @@ A: Axe to Fall was tracked by Converge guitarist Kurt Ballou at his GodCity Stud
 
 A: Axe to Fall features guest contributions from members of Mastodon (Brann Dailor), Cave In (Stephen Brodsky), Genghis Tron, Neurosis (Steve Von Till), Disfear (Tomas Lindberg), and more. The collaborative spirit of the album is one of its defining qualities — Koller's drumming has to support a much wider range of textures than a typical Converge record.
 
+## Related Articles
+
+- [Ben Koller's Complete Drum Setup — Converge Gear Guide](https://metalforge.io/articles/ben-koller-drum-setup)
+- [Ben Koller's Drum Setup on Converge's Jane Doe (2001)](https://metalforge.io/articles/jane-doe-drum-setup)
+
+## Related Drummers
+
+- [Joey Jordison](https://metalforge.io/drummer/joey-jordison)
+- [Charlie Benante](https://metalforge.io/drummer/charlie-benante)
+- [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo)
+
 **Source:** https://metalforge.io/articles/axe-to-fall-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

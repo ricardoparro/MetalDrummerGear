@@ -101,8 +101,21 @@ A: *The Wörld Is Yours*, released as an exclusive edition on December 14, 2010 
 
 A: *The Wörld Is Yours* reached #45 on the UK Albums Chart and #94 on the Billboard 200 in the US — softer mainstream chart numbers than *Motörizer*'s #32 UK peak — but it topped the UK's dedicated Rock & Metal Albums chart at #1, confirming the band's committed fanbase remained fully engaged even as broader chart position declined slightly.
 
+## Related Articles
+
+- [Motörizer Drum Setup: Mikkey Dee's Gear on Motörhead's 2008 Album](https://metalforge.io/articles/motorizer-drum-setup)
+- [Aftershock Drum Setup: Mikkey Dee's Gear on Motörhead's Grammy-Nominated 2013 Album](https://metalforge.io/articles/aftershock-drum-setup)
+- [Bad Magic Drum Setup: Mikkey Dee's Gear on Motörhead's Final Album](https://metalforge.io/articles/bad-magic-drum-setup)
+- [What's In Mikkey Dee's Motörhead/Scorpions Arsenal: 23 Years Behind Rock's Loudest Band](https://metalforge.io/articles/whats-in-mikkey-dees-kit)
+
+## Related Drummers
+
+- [Hellhammer](https://metalforge.io/drummer/hellhammer)
+- [Lars Ulrich](https://metalforge.io/drummer/lars-ulrich)
+- [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo)
+
 **Source:** https://metalforge.io/articles/the-world-is-yours-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

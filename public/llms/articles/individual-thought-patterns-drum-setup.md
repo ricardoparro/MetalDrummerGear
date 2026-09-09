@@ -116,8 +116,22 @@ A: Both albums feature Gene Hoglan, but the drum performances differ in characte
 
 A: Death's Individual Thought Patterns lineup included Chuck Schuldiner on guitar and vocals, Andy LaRocque — the guitarist from King Diamond's band — on lead guitar, Steve DiGiorgio on bass, and Gene Hoglan on drums. Andy LaRocque's guest appearance was a notable element of the album, adding a distinctive melodic lead guitar character to its technical framework.
 
+## Related Articles
+
+- [Gene Hoglan Drum Setup: The Atomic Clock Complete Gear Guide](https://metalforge.io/articles/gene-hoglan-drum-setup)
+- [Top 10 Progressive Death Metal Drummers](https://metalforge.io/lists/progressive-death-metal-drummers)
+- [What's In Gene Hoglan's Atomic Arsenal: Complete Gear Breakdown](https://metalforge.io/articles/whats-in-gene-hoglans-kit)
+- [Human Drum Setup: Sean Reinert's Jazz-Death Masterpiece](https://metalforge.io/articles/human-drum-setup)
+- [Symbolic Drum Setup: Gene Hoglan's Death Masterpiece](https://metalforge.io/articles/symbolic-drum-setup)
+
+## Related Drummers
+
+- [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo)
+- [George Kollias](https://metalforge.io/drummer/george-kollias)
+- [Pete Sandoval](https://metalforge.io/drummer/pete-sandoval)
+
 **Source:** https://metalforge.io/articles/individual-thought-patterns-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

@@ -116,8 +116,19 @@ A: Wages of Sin (February 14, 2002) is the arc-opening album of Arch Enemy's def
 
 A: Daniel Erlandsson played Sabian cymbals on Wages of Sin, combining the AA and HH professional workhorse series. The setup typically included 14" AA Rock Hi-Hats for cutting articulation, 16" AA Medium Crash and 18" AA Rock Crash for accent and section-marker work, 18" AA Mini China for aggressive trashy accents in the Gothenburg style, 10" AA Splash for shorter syncopated accents, and a 20" HH Heavy Ride providing darker tonal contrast for groove-oriented passages and ride patterns. The AA series delivered the bright B20 bronze attack that cut through Andy Sneap's dense mix; the HH ride added the hand-hammered tonal complexity that gave Erlandsson musical range across the album's compositional variety. Erlandsson has been a long-standing Sabian artist throughout his Arch Enemy career.
 
+## Related Articles
+
+- [Top 10 Melodic Death Metal Drummers](https://metalforge.io/lists/melodic-death-metal-drummers)
+- [Daniel Erlandsson's Drum Setup on Arch Enemy's Anthems of Rebellion (2003)](https://metalforge.io/articles/anthems-of-rebellion-drum-setup)
+- [Daniel Erlandsson's Drum Setup — At The Gates & Arch Enemy Kit Guide](https://metalforge.io/articles/daniel-erlandsson-drum-setup)
+- [At the Gates 'Slaughter of the Soul' Drum Setup — Adrian Erlandsson's 1995 Gear](https://metalforge.io/articles/slaughter-of-the-soul-drum-setup)
+
+## Related Drummers
+
+- [Daniel Erlandsson](https://metalforge.io/drummer/daniel-erlandsson)
+
 **Source:** https://metalforge.io/articles/wages-of-sin-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

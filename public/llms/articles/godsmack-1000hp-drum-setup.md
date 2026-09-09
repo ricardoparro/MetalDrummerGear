@@ -119,8 +119,21 @@ A: Shannon Larkin uses the DW 9000 Series double bass pedal — present in his d
 
 A: Shannon Larkin's *1000hp* (2014) setup — ddrum Dios Series kit, Sabian HH/HHX cymbals, DW 9000 double pedal — sits between *The Oracle* (2010) and *When Legends Rise* (2018), and the kit itself never changed across any of these albums. *1000hp* marked the heaviest point in his Godsmack discography: where *When Legends Rise* moved toward polished radio-ready production, *1000hp* went harder and more aggressive, with the same ddrum Dios shells suiting both directions. See [The Oracle drum setup](/articles/the-oracle-drum-setup) for context on what preceded it, and [When Legends Rise drum setup](/articles/when-legends-rise-drum-setup) for the arc's next chapter.
 
+## Related Articles
+
+- [Shannon Larkin Drum Setup — Godsmack's Complete Gear Guide](https://metalforge.io/articles/shannon-larkin-drum-setup)
+- [Shannon Larkin's Drum Setup on Godsmack's The Oracle (2010)](https://metalforge.io/articles/the-oracle-drum-setup)
+- [When Legends Rise Drum Setup: Shannon Larkin's ddrum Dios Series Gear on Godsmack's #1 Rock Album (2018)](https://metalforge.io/articles/when-legends-rise-drum-setup)
+- [Godsmack IV Drum Setup: Shannon Larkin's ddrum Dios Series Gear on the #2 Billboard Album (2006)](https://metalforge.io/articles/godsmack-iv-drum-setup)
+
+## Related Drummers
+
+- [Matt Halpern](https://metalforge.io/drummer/matt-halpern)
+- [Ray Luzier](https://metalforge.io/drummer/ray-luzier)
+- [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo)
+
 **Source:** https://metalforge.io/articles/godsmack-1000hp-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

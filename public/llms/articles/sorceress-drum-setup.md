@@ -98,8 +98,19 @@ A: Across Heritage (2011), Pale Communion (2014), and Sorceress (2016), Axenrot'
 
 A: Sorceress (2016) follows Pale Communion (2014) as the third and final chapter of Opeth's mid-2010s prog trilogy, all sharing the same custom hand-made DW kit, SABIAN HHX/AAX cymbals, and Fascination Street Studios production. Where Pale Communion was the artistic peak — most compositionally refined, Steven Wilson mixing — Sorceress is the expanded-vocabulary consolidation: the prog identity settled as Opeth's default mode, with heavier passages reintroduced to broaden the range. Together the three albums trace Axenrot's complete development as a progressive drummer. For the full arc, see [Heritage drum setup](/articles/heritage-drum-setup), [Pale Communion drum setup](/articles/pale-communion-drum-setup), and [Martin Axenrot's drummer profile](/drummer/martin-axenrot).
 
+## Related Articles
+
+- [Martin Axenrot's Drum Setup on Opeth's Pale Communion (2014)](https://metalforge.io/articles/pale-communion-drum-setup)
+- [Martin Axenrot's Drum Setup on Opeth's In Cauda Venenum (2019)](https://metalforge.io/articles/in-cauda-venenum-drum-setup)
+
+## Related Drummers
+
+- [Danny Carey](https://metalforge.io/drummer/danny-carey)
+- [Tomas Haake](https://metalforge.io/drummer/tomas-haake)
+- [Mike Portnoy](https://metalforge.io/drummer/mike-portnoy)
+
 **Source:** https://metalforge.io/articles/sorceress-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

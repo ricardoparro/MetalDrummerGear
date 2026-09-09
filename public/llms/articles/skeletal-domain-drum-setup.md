@@ -100,8 +100,21 @@ A: After Evisceration Plague (2009), Cannibal Corpse released Torture (2012), th
 
 A: Reviewers widely noted that A Skeletal Domain sounded noticeably cleaner and more modern than the three Erik Rutan-produced albums that preceded it. Sputnikmusic praised a mix that let "all the instruments space to breathe" and made the bass "100% audible," while Metal Injection specifically described Paul Mazurkiewicz's drums as "crispier than saltines" under Mark Lewis's Audiohammer Studios engineering.
 
+## Related Articles
+
+- [Top 10 Death Metal Drummers](https://metalforge.io/lists/death-metal-drummers)
+- [Paul Mazurkiewicz's Drum Setup on Cannibal Corpse's 'Red Before Black' (2017)](https://metalforge.io/articles/red-before-black-drum-setup)
+- [Paul Mazurkiewicz's Drum Setup on Cannibal Corpse's 'Torture' (2012)](https://metalforge.io/articles/torture-drum-setup)
+- [Paul Mazurkiewicz's Drum Setup on Cannibal Corpse's Evisceration Plague (2009)](https://metalforge.io/articles/evisceration-plague-drum-setup)
+- [Paul Mazurkiewicz's Drum Setup on Cannibal Corpse's Kill (2006)](https://metalforge.io/articles/kill-drum-setup)
+- [Paul Mazurkiewicz Drum Setup — Cannibal Corpse Gear Guide](https://metalforge.io/articles/paul-mazurkiewicz-drum-setup)
+
+## Related Drummers
+
+- [Paul Mazurkiewicz](https://metalforge.io/drummer/paul-mazurkiewicz)
+
 **Source:** https://metalforge.io/articles/skeletal-domain-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

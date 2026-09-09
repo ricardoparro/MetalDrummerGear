@@ -108,8 +108,14 @@ A: Automata I (2018) represents Richardson's drumming at its most mature and ful
 
 A: Automata I (2018) was released on Sumerian Records — a significant label change from Metal Blade Records, which had released BTBAM's catalog from The Great Misdirect (2009) through Coma Ecliptic (2015). Sumerian Records brought a more contemporary progressive and djent-adjacent production infrastructure and a larger promotional platform than Metal Blade's more traditional metal focus. The production on Automata I — still by Jamie King at The Basement Studio — reflects this shift: more sonic layering and polish than earlier records while preserving the compositional identity BTBAM had built since Alaska. The label transition also signaled BTBAM's expanded audience ambitions in the Automata era.
 
+## Related Articles
+
+- [Blake Richardson's Drum Setup on Between the Buried and Me's Coma Ecliptic (2015)](https://metalforge.io/articles/coma-ecliptic-drum-setup)
+- [Blake Richardson's Drum Setup on Between the Buried and Me's Automata II (2018)](https://metalforge.io/articles/automata-ii-drum-setup)
+- [Blake Richardson Drum Kit & Gear Setup — BTBAM Tech Metal](https://metalforge.io/articles/blake-richardson-drum-setup)
+
 **Source:** https://metalforge.io/articles/automata-i-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

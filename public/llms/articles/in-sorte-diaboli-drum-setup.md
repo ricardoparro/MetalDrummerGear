@@ -109,8 +109,19 @@ A: In Sorte Diaboli was recorded at Studio Fredman in Gothenburg, Sweden — the
 
 A: In Sorte Diaboli debuted at #43 on the Billboard 200 — the highest US chart position any Norwegian black metal record had ever achieved at the time of its release. It confirmed Dimmu Borgir's position as the most commercially successful act the genre had ever produced, following the success of Death Cult Armageddon (2003) and extending the band's mainstream reach further into the US market. The album also charted strongly across Europe, particularly in Germany and the Nordic countries.
 
+## Related Articles
+
+- [Hellhammer Drum Kit & Gear Setup — Mayhem Black Metal Legend](https://metalforge.io/articles/hellhammer-drum-setup)
+- [Abrahadabra — Dimmu Borgir Drum Setup (Daray, 2010)](https://metalforge.io/articles/abrahadabra-drum-setup)
+- [Daray's Drum Setup — Dimmu Borgir's Drummer Complete Kit Guide](https://metalforge.io/articles/daray-drum-setup)
+
+## Related Drummers
+
+- [Art Cruz](https://metalforge.io/drummer/art-cruz)
+- [Daray](https://metalforge.io/drummer/daray)
+
 **Source:** https://metalforge.io/articles/in-sorte-diaboli-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

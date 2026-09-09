@@ -116,8 +116,21 @@ A: "Blessed Are the Sick" (1991) is the pivotal transition record in Pete Sandov
 
 A: Like "Altars of Madness," "Blessed Are the Sick" was recorded with pure acoustic drums — no triggers. Engineer Scott Burns at Morrisound Recording used the same close-miking philosophy developed for the debut, with AKG D112s on the kick drums, Shure SM57 on the snare, and Sennheiser MD421s on the toms. For 1991, Burns refined the approach slightly: more low-mid body in the kick and toms to accommodate the album's slower, heavier passages, and reduced compression on atmospheric sections to allow natural dynamics. The result sounds heavier than "Altars of Madness" while maintaining the dry, direct character that defined Morrisound's contribution to death metal.
 
+## Related Articles
+
+- [Top 10 Fastest Double Bass Drummers in Metal History](https://metalforge.io/lists/fastest-double-bass-drummers)
+- [Altars of Madness Drum Setup: Pete Sandoval's Death Metal Genesis](https://metalforge.io/articles/altars-of-madness-drum-setup)
+- [What's In Pete Sandoval's Morbid Angel Arsenal](https://metalforge.io/articles/whats-in-pete-sandovals-kit)
+- [Symbolic Drum Setup: Gene Hoglan's Death Masterpiece](https://metalforge.io/articles/symbolic-drum-setup)
+
+## Related Drummers
+
+- [Gene Hoglan](https://metalforge.io/drummer/gene-hoglan)
+- [George Kollias](https://metalforge.io/drummer/george-kollias)
+- [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo)
+
 **Source:** https://metalforge.io/articles/blessed-are-the-sick-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

@@ -125,8 +125,22 @@ A: On The Way of All Flesh in 2008, Mario Duplantier used Zildjian K Custom and 
 
 A: At the time of recording in 2008, a Tama Starclassic Bubinga kit was valued at approximately $4,500 to $6,500. Today, used Starclassic Bubinga kits from that era sell for $2,000 to $4,000 depending on condition. The Tama SLP G-Maple snare adds $300 to $500 on the used market. A comparable Zildjian K Custom and A Custom cymbal setup runs $2,500 to $4,000 new. A full replica of his 2008 rig costs approximately $5,000 to $9,000.
 
+## Related Articles
+
+- [What's In Mario Duplantier's Environmental Kit: Complete Gear Breakdown](https://metalforge.io/articles/whats-in-mario-duplantiers-kit)
+- [Top 10 Progressive Death Metal Drummers](https://metalforge.io/lists/progressive-death-metal-drummers)
+- [From Mars to Sirius Drum Setup: Mario Duplantier's Breakthrough Gear](https://metalforge.io/articles/from-mars-to-sirius-drum-setup)
+- [obZen Drum Setup: Tomas Haake's Legendary "Bleed" Gear Breakdown](https://metalforge.io/articles/obzen-drum-setup)
+- [Ashes of the Wake Drum Setup: Chris Adler's Groove Metal Masterpiece](https://metalforge.io/articles/ashes-of-the-wake-drum-setup)
+
+## Related Drummers
+
+- [Tomas Haake](https://metalforge.io/drummer/tomas-haake)
+- [Danny Carey](https://metalforge.io/drummer/danny-carey)
+- [Eloy Casagrande](https://metalforge.io/drummer/eloy-casagrande)
+
 **Source:** https://metalforge.io/articles/the-way-of-all-flesh-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

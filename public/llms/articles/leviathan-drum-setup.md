@@ -117,8 +117,21 @@ A: 'Blood and Thunder' is the opening track of Mastodon's Leviathan (2004) and t
 
 A: Leviathan was recorded at Studio Litho in Seattle, Washington — Stone Gossard's studio, the room where Soundgarden and Pearl Jam shaped a generation of Pacific Northwest rock. The album was produced by Matt Bayles, the engineer-producer who had previously worked with Isis on Oceanic (2002), Botch on We Are the Romans (1999), and engineered for Pearl Jam. Note that Leviathan was NOT recorded at Doppler Studios in Atlanta — that was Crack the Skye (2009) five years later, with producer Brendan O'Brien. The Studio Litho sessions and Bayles' post-metal recording sensibility gave Leviathan its dimensional, physically present drum sound that differs significantly from the dryer, denser Mastodon records that came before and the more atmospheric records that came after.
 
+## Related Articles
+
+- [Top 10 Progressive Metal Drummers](https://metalforge.io/lists/progressive-metal-drummers)
+- [Blood Mountain Drum Setup: Brann Dailor's Gear on Mastodon's Breakthrough](https://metalforge.io/articles/blood-mountain-drum-setup)
+- [Crack the Skye Drum Setup: Brann Dailor's Gear on Mastodon's Masterpiece](https://metalforge.io/articles/crack-the-skye-drum-setup)
+- [Emperor of Sand Drum Setup: Brann Dailor's Grammy-Winning Kit on Mastodon's 2017 Masterpiece](https://metalforge.io/articles/emperor-of-sand-drum-setup)
+
+## Related Drummers
+
+- [Danny Carey](https://metalforge.io/drummer/danny-carey)
+- [Tomas Haake](https://metalforge.io/drummer/tomas-haake)
+- [Mario Duplantier](https://metalforge.io/drummer/mario-duplantier)
+
 **Source:** https://metalforge.io/articles/leviathan-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

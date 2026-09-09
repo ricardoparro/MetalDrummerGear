@@ -112,8 +112,14 @@ A: Avenged Sevenfold's self-titled 2007 album debuted at #4 on the Billboard 200
 
 A: The Rev (Jimmy Sullivan) recorded four studio albums as Avenged Sevenfold's drummer: Sounding the Seventh Trumpet (2001), Waking the Fallen (2003), City of Evil (2005), and Avenged Sevenfold (2007). He also composed drum parts for Nightmare (2010) before his death on December 28, 2009 — those parts were performed by Mike Portnoy as a posthumous tribute. The self-titled 2007 album was his final complete studio recording.
 
+## Related Articles
+
+- [City of Evil Drum Setup — The Rev's Pearl Masters MCX on A7X's Breakthrough Album (2005)](https://metalforge.io/articles/city-of-evil-drum-setup)
+- [Nightmare Drum Setup — Mike Portnoy's Tribute Performance for Avenged Sevenfold (2010)](https://metalforge.io/articles/nightmare-drum-setup)
+- [Arin Ilejay's Drum Setup on Avenged Sevenfold's Hail to the King (2013)](https://metalforge.io/articles/hail-to-the-king-drum-setup)
+
 **Source:** https://metalforge.io/articles/avenged-sevenfold-self-titled-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

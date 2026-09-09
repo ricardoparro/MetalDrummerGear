@@ -115,8 +115,21 @@ A: Octavarium (2005) sits at the exact midpoint between two of the most signific
 
 A: Octavarium is conceptually structured around the musical octave — the five tracks before the title track each begin on successive notes of the scale, while the 24-minute title track incorporates orchestral elements that form a compositional arch across the full album. For the drumming specifically, this architectural framework means Portnoy's playing on any given track is informed by the album's larger purpose. "The Root of All Evil" continues his multi-album AA narrative suite (begun on Six Degrees with "The Glass Prison," continued on Train of Thought with "This Dying Soul"). The title track requires the kind of sustained, film-score thinking that the concept framework demands. The drumming on Octavarium is less about individual moments than about contributing to a 24-minute architectural structure — a different discipline than any previous Dream Theater album. For the full career context, visit the [Mike Portnoy drummer profile](/drummer/mike-portnoy).
 
+## Related Articles
+
+- [Top 10 Progressive Metal Drummers](https://metalforge.io/lists/progressive-metal-drummers)
+- [What's In Mike Portnoy's Reunion Kit: Dream Theater 2025 Complete Breakdown](https://metalforge.io/articles/whats-in-mike-portnoys-kit)
+- [Train of Thought Drum Setup — Mike Portnoy's Heaviest Dream Theater Kit (2003)](https://metalforge.io/articles/train-of-thought-drum-setup)
+- [Systematic Chaos Drum Setup — Mike Portnoy's Grammy-Nominated 2007 Dream Theater Kit](https://metalforge.io/articles/systematic-chaos-drum-setup)
+
+## Related Drummers
+
+- [Danny Carey](https://metalforge.io/drummer/danny-carey)
+- [Tomas Haake](https://metalforge.io/drummer/tomas-haake)
+- [Lars Ulrich](https://metalforge.io/drummer/lars-ulrich)
+
 **Source:** https://metalforge.io/articles/octavarium-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

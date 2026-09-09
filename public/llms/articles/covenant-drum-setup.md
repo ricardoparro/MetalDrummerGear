@@ -119,8 +119,20 @@ A: Pete Sandoval switched from Paiste (used on *Altars of Madness* and *Blessed 
 
 A: *Covenant* (1993) was the first death metal album to chart in 10 countries simultaneously, selling over 200,000 copies — unprecedented commercial numbers for the genre. Released on Giant Records in the US (in addition to Earache in Europe), the album had mainstream distribution that bypassed the underground-only channels of its predecessors. The songwriting balanced extreme brutality with more accessible song structures, and producer Tom Morris's *Covenant* drum sound — built around Pete Sandoval's deeper 22x18" bass drums and new Sabian cymbal setup — had a weight and authority that connected with mainstream metal audiences without compromising the extremity that death metal fans expected.
 
+## Related Articles
+
+- [Top 10 Fastest Double Bass Drummers in Metal History](https://metalforge.io/lists/fastest-double-bass-drummers)
+- [Altars of Madness Drum Setup: Pete Sandoval's Death Metal Genesis](https://metalforge.io/articles/altars-of-madness-drum-setup)
+- [Blessed Are the Sick Drum Setup: Pete Sandoval's Egyptian Death Metal Evolution](https://metalforge.io/articles/blessed-are-the-sick-drum-setup)
+
+## Related Drummers
+
+- [Gene Hoglan](https://metalforge.io/drummer/gene-hoglan)
+- [George Kollias](https://metalforge.io/drummer/george-kollias)
+- [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo)
+
 **Source:** https://metalforge.io/articles/covenant-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

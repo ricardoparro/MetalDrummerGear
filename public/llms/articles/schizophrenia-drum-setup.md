@@ -121,8 +121,22 @@ A: Before Igor Cavalera's Pearl drum and Sabian cymbal endorsements, he played w
 
 A: Schizophrenia was recorded at JG Recording Studio in Belo Horizonte, Brazil, in 1987. The studio was a working Brazilian facility serving regional clients, not a purpose-built extreme metal recording environment. Engineer Belmiro Rangel handled the mix, and Sepultura themselves shared production credit. The recording was modest by any standard — no specialized drum booth, limited microphone selection, no major-label engineering budget. The result is the dry, close, immediate drum sound that defines the album. This is the opposite of the Morrisound Recording experience that Igor would have two years later for Beneath the Remains under producer Scott Burns. The contrast between the two recording environments maps the entire arc of Sepultura's emergence from Brazilian regional act to international extreme metal force.
 
+## Related Articles
+
+- [What's In Igor Cavalera's Tribal Arsenal: Complete Gear Breakdown](https://metalforge.io/articles/whats-in-igor-cavaleras-kit)
+- [Top 10 Thrash Metal Drummers](https://metalforge.io/lists/thrash-metal-drummers)
+- [Beneath the Remains Drum Setup: Igor Cavalera's Brazilian Thrash Breakthrough](https://metalforge.io/articles/beneath-the-remains-drum-setup)
+- [Sepultura Arise Drum Setup: Igor Cavalera's 1991 Gear Breakdown](https://metalforge.io/articles/arise-drum-setup)
+- [Roots Drum Setup: Igor Cavalera's Brazilian Tribal Metal Revolution](https://metalforge.io/articles/roots-drum-setup)
+
+## Related Drummers
+
+- [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo)
+- [Lars Ulrich](https://metalforge.io/drummer/lars-ulrich)
+- [Gene Hoglan](https://metalforge.io/drummer/gene-hoglan)
+
 **Source:** https://metalforge.io/articles/schizophrenia-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

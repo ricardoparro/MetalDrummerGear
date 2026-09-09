@@ -99,8 +99,22 @@ A: With no independently recorded bass part providing harmonic cover, Hellhammer
 
 A: Attila Csihar sang on Ordo Ad Chao (2007), marking his return to Mayhem as vocalist thirteen years after his defining performance on De Mysteriis Dom Sathanas (1994). He replaced Maniac, who had departed the band in November 2004 following the release of Chimera.
 
+## Related Articles
+
+- [Top 10 Black Metal Drummers](https://metalforge.io/lists/black-metal-drummers)
+- [Chimera Drum Setup: Hellhammer's 2004 Return-to-Form Mayhem Session](https://metalforge.io/articles/chimera-drum-setup)
+- [Hellhammer Drum Kit & Gear Setup — Mayhem Black Metal Legend](https://metalforge.io/articles/hellhammer-drum-setup)
+- [De Mysteriis Dom Sathanas Drum Setup: Hellhammer's 1994 Black Metal Blueprint](https://metalforge.io/articles/de-mysteriis-dom-sathanas-drum-setup)
+- [Esoteric Warfare Drum Setup: Hellhammer's First Mayhem Session Without Blasphemer](https://metalforge.io/articles/esoteric-warfare-drum-setup)
+
+## Related Drummers
+
+- [Art Cruz](https://metalforge.io/drummer/art-cruz)
+- [Frost](https://metalforge.io/drummer/frost)
+- [Inferno](https://metalforge.io/drummer/inferno)
+
 **Source:** https://metalforge.io/articles/ordo-ad-chao-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

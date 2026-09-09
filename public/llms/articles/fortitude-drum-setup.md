@@ -116,8 +116,22 @@ A: The Fortitude drum setup represents a refinement of the same setup used on Ma
 
 A: Fortitude was self-produced by Joe Duplantier at Silver Cord Studio in New York — continuing Gojira's tradition of complete creative control. The key difference from previous albums was the addition of Andy Wallace as mixing engineer. Wallace, whose credits include Nirvana's Nevermind, Rage Against the Machine's debut album, System of a Down's Toxicity, and Jeff Buckley's Grace, brought world-class mixing expertise that gave Mario's Tama Starclassic Bubinga kit its maximum sonic potential. The combination of Joe's intimate production knowledge and Wallace's mix engineering produced the most polished and powerful drum sound in Gojira's catalog.
 
+## Related Articles
+
+- [What's In Mario Duplantier's Environmental Kit: Complete Gear Breakdown](https://metalforge.io/articles/whats-in-mario-duplantiers-kit)
+- [Top 10 Progressive Metal Drummers](https://metalforge.io/lists/progressive-metal-drummers)
+- [Magma Drum Setup: Mario Duplantier's Tama Bubinga Breakthrough](https://metalforge.io/articles/magma-drum-setup)
+- [L'Enfant Sauvage Drum Setup: Mario Duplantier's Tama Bubinga Breakthrough](https://metalforge.io/articles/lenfant-sauvage-drum-setup)
+- [From Mars to Sirius Drum Setup: Mario Duplantier's Breakthrough Gear](https://metalforge.io/articles/from-mars-to-sirius-drum-setup)
+
+## Related Drummers
+
+- [Tomas Haake](https://metalforge.io/drummer/tomas-haake)
+- [Danny Carey](https://metalforge.io/drummer/danny-carey)
+- [Eloy Casagrande](https://metalforge.io/drummer/eloy-casagrande)
+
 **Source:** https://metalforge.io/articles/fortitude-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

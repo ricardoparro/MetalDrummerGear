@@ -105,8 +105,22 @@ A: Nicko McBrain has used a single bass drum pedal throughout his entire Iron Ma
 
 A: Powerslave is considered one of the most demanding drum performances in classic heavy metal. "Aces High" opens at approximately 170 BPM and requires sustained single-pedal gallop and 16th-note hi-hat patterns across the entire track — a significant endurance challenge. "Rime of the Ancient Mariner" demands the opposite: 13 minutes of dynamic navigation from near-silence to crushing metal without losing feel or concentration. The album's range — from sprinting tempos to measured epic passages — showcases every dimension of Nicko's playing. The [Number of the Beast drum setup article](/articles/number-of-the-beast-drum-setup) covers the predecessor album where Nicko first brought these skills to Iron Maiden's catalog.
 
+## Related Articles
+
+- [Top 10 Thrash Metal Drummers](https://metalforge.io/lists/thrash-metal-drummers)
+- [Top 10 Most Innovative Metal Drummers](https://metalforge.io/lists/most-innovative-drummers)
+- [Number of the Beast Drum Setup: The Gear Behind Clive Burr's Performance (& Nicko's Legacy)](https://metalforge.io/articles/number-of-the-beast-drum-setup)
+- [Piece of Mind Drum Setup: Nicko McBrain's Debut Gear on Iron Maiden's 1983 Breakthrough](https://metalforge.io/articles/piece-of-mind-drum-setup)
+- [Somewhere in Time Drum Setup: Nicko McBrain's Electronics-Augmented Kit on Iron Maiden's 1986 Synth-Era Masterpiece](https://metalforge.io/articles/somewhere-in-time-drum-setup)
+
+## Related Drummers
+
+- [Lars Ulrich](https://metalforge.io/drummer/lars-ulrich)
+- [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo)
+- [Charlie Benante](https://metalforge.io/drummer/charlie-benante)
+
 **Source:** https://metalforge.io/articles/powerslave-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

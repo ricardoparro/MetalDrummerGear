@@ -103,8 +103,21 @@ A: Dave Lombardo used a Pearl Free-Floating 14x6.5 brass snare for Christ Illusi
 
 A: Dave Lombardo used Zildjian A Custom series cymbals on Christ Illusion — a complete departure from the Paiste 2002 and RUDE series he had used on Reign in Blood. The A Custom's bright, cutting character suited Josh Abraham's modern production aesthetic. His setup included A Custom 14" Hi-Hats, 16" and 18" Crashes, a 20" Ride, and an 18" China. The China cymbal maintained the position above the floor tom that it had occupied across every Lombardo-era Slayer album.
 
+## Related Articles
+
+- [Top 10 Thrash Metal Drummers](https://metalforge.io/lists/thrash-metal-drummers)
+- [Top 10 Fastest Double Bass Drummers in Metal History](https://metalforge.io/lists/fastest-double-bass-drummers)
+- [Reign in Blood Drum Setup: Dave Lombardo's Gear Breakdown](https://metalforge.io/articles/reign-in-blood-drum-setup)
+- [Dave Lombardo's Drum Setup on Slayer's Show No Mercy (1983)](https://metalforge.io/articles/show-no-mercy-drum-setup)
+
+## Related Drummers
+
+- [Lars Ulrich](https://metalforge.io/drummer/lars-ulrich)
+- [Charlie Benante](https://metalforge.io/drummer/charlie-benante)
+- [Pete Sandoval](https://metalforge.io/drummer/pete-sandoval)
+
 **Source:** https://metalforge.io/articles/christ-illusion-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

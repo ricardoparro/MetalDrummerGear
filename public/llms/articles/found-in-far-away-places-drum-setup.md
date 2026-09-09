@@ -104,8 +104,19 @@ A: "Ghosts" is widely cited as Greiner's most impressive drumming moment on *Fou
 
 A: The comparison between *Found in Far Away Places* (2015) and *Leveler* (2011) traces Matt Greiner's complete Pearl transition. On *Leveler*, he played Ludwig Classic Maple drums (6-ply maple, warm/complex), Paiste 2002 cymbals (CuSn8 bronze, sustained warmth), and DW 9000 pedals (cam-driven mechanism). By *Found in Far Away Places*, he had moved to Pearl Reference Pure drums (maple/mahogany hybrid, tighter/articulate), Meinl Byzance cymbals (B20 bronze, controlled decay), and Pearl Demon Drive pedals (shaft-driven mechanism). The trajectory is consistent: greater precision, tighter articulation, more modern production character — while the underlying playing philosophy of jazz-informed musicality within metalcore aggression remained constant. See the full [Leveler drum setup breakdown](/articles/leveler-drum-setup) for a direct comparison.
 
+## Related Articles
+
+- [Matt Greiner Complete Drum Setup — August Burns Red Gear Guide](https://metalforge.io/articles/matt-greiner-complete-drum-setup)
+- [Leveler Drum Setup: Matt Greiner's Gear on August Burns Red's 2011 Album](https://metalforge.io/articles/leveler-drum-setup)
+- [Messengers Drum Setup: Matt Greiner's Gear on August Burns Red's 2007 Breakthrough Album](https://metalforge.io/articles/messengers-drum-setup)
+- [Matt Greiner's Drum Setup on August Burns Red's Constellations (2009)](https://metalforge.io/articles/constellations-drum-setup)
+
+## Related Drummers
+
+- [Matt Greiner](https://metalforge.io/drummer/matt-greiner)
+
 **Source:** https://metalforge.io/articles/found-in-far-away-places-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

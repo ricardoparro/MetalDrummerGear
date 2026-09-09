@@ -98,8 +98,22 @@ A: Recording was split across three Swedish facilities: guitars and keyboards we
 
 A: Both albums feature Dirk Verbeuren on an identical core setup — a Tama Starclassic Performer kit, Meinl Byzance cymbals, and a Tama Iron Cobra double pedal. 'Natural Born Chaos' (2002) was Soilwork's commercial breakthrough, while 'Figure Number Five' (2003), covered here, pushed the band's songwriting even further toward melodic, keyboard-driven hooks, with keyboardist Sven Karlsson taking a lead songwriting role for the first time. Verbeuren's playing stayed consistent across both — rapid fills, dark Byzance cymbal voicing, and steady double bass work. See the [Stabbing the Drama Drum Setup article](/articles/stabbing-the-drama-drum-setup) for the album that followed two years later.
 
+## Related Articles
+
+- [What's In Dirk Verbeuren's Megadeth Arsenal: Complete Gear Breakdown](https://metalforge.io/articles/whats-in-dirk-verbeurens-kit)
+- [Dirk Verbeuren's Drum Setup on Soilwork's 'Natural Born Chaos' (2002)](https://metalforge.io/articles/natural-born-chaos-drum-setup)
+- [Top 10 Thrash Metal Drummers](https://metalforge.io/lists/thrash-metal-drummers)
+- [Dirk Verbeuren's Drum Setup on Soilwork's 'Stabbing the Drama' (2005)](https://metalforge.io/articles/stabbing-the-drama-drum-setup)
+- [Dirk Verbeuren's Drum Setup on Megadeth's 'The Sick, the Dying... and the Dead!' (2022)](https://metalforge.io/articles/the-sick-the-dying-and-the-dead-drum-setup)
+
+## Related Drummers
+
+- [Art Cruz](https://metalforge.io/drummer/art-cruz)
+- [Lars Ulrich](https://metalforge.io/drummer/lars-ulrich)
+- [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo)
+
 **Source:** https://metalforge.io/articles/figure-number-five-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

@@ -118,8 +118,21 @@ A: Mike Portnoy used the then-new Tama Iron Cobra Power Glide double pedal on th
 
 A: Awake is heavier, denser, and darker than Images and Words. Three factors drove the shift. (1) The snare changed from a Tama Artstar II brass snare to a Tama Bell Brass — a fatter, more sustained voice. (2) The studio changed from BearTracks (Suffern, NY) to Devonshire (North Hollywood, CA), which has a denser room signature. (3) The production team changed from David Prater to John Purdell and Duane Baron, whose work on Ozzy Osbourne and Alice Cooper records brought heavier compression, fatter low end, and a more aggressive overall presentation. The toms are also tuned slightly lower on Awake, and the Iron Cobra pedal gave the bass drums more weight than the earlier pedal Portnoy used.
 
+## Related Articles
+
+- [Top 10 Progressive Metal Drummers](https://metalforge.io/lists/progressive-metal-drummers)
+- [What's In Mike Portnoy's Reunion Kit: Dream Theater 2025 Complete Breakdown](https://metalforge.io/articles/whats-in-mike-portnoys-kit)
+- [Images and Words Drum Setup: Mike Portnoy's Progressive Metal Breakthrough](https://metalforge.io/articles/images-and-words-drum-setup)
+- [Metropolis Pt. 2: Scenes from a Memory Drum Setup — Mike Portnoy's Magnum Opus](https://metalforge.io/articles/scenes-from-a-memory-drum-setup)
+
+## Related Drummers
+
+- [Danny Carey](https://metalforge.io/drummer/danny-carey)
+- [Tomas Haake](https://metalforge.io/drummer/tomas-haake)
+- [Lars Ulrich](https://metalforge.io/drummer/lars-ulrich)
+
 **Source:** https://metalforge.io/articles/awake-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

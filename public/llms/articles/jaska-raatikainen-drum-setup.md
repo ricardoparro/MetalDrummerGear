@@ -111,8 +111,21 @@ A: Jaska Raatikainen uses the Pearl Eliminator double bass pedal. The Eliminator
 
 A: Jaska Raatikainen plays Vic Firth American Classic 5A sticks. The 5A's weight and length balance serve the dual demands of Children of Bodom's music: enough mass for forceful impact in blast beat and high-intensity sections, but light enough for the faster articulation that neoclassical-influenced fill work requires. The 5A is lighter than the 5B favored by heavier death metal drummers, reflecting Raatikainen's need for speed and precision alongside power.
 
+## Related Articles
+
+- [Top 10 Death Metal Drummers](https://metalforge.io/lists/death-metal-drummers)
+- [Gene Hoglan Drum Setup: The Atomic Clock Complete Gear Guide](https://metalforge.io/articles/gene-hoglan-drum-setup)
+- [Reign in Blood Drum Setup: Dave Lombardo's Gear Breakdown](https://metalforge.io/articles/reign-in-blood-drum-setup)
+- [Master of Puppets Drum Setup: Lars Ulrich's Gear Breakdown](https://metalforge.io/articles/master-of-puppets-drum-setup)
+
+## Related Drummers
+
+- [Gene Hoglan](https://metalforge.io/drummer/gene-hoglan)
+- [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo)
+- [Flo Mounier](https://metalforge.io/drummer/flo-mounier)
+
 **Source:** https://metalforge.io/articles/jaska-raatikainen-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

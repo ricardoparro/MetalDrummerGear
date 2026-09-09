@@ -113,8 +113,18 @@ A: Abe Cunningham uses a Zildjian A Custom and K Custom hybrid setup. His cymbal
 
 A: A Tama Starclassic Maple/Bubinga shell pack comparable to Abe Cunningham's setup costs approximately $2,500 to $4,500. The matching Tama Starclassic 14"x6.5" snare adds $300 to $450. Completing the rig with a full Zildjian A Custom and K Custom cymbal package brings the total to roughly $7,000 to $10,000.
 
+## Related Articles
+
+- [What's In Joey Jordison's Legendary Kit: Complete Gear Breakdown](https://metalforge.io/articles/whats-in-joey-jordisons-kit)
+
+## Related Drummers
+
+- [Joey Jordison](https://metalforge.io/drummer/joey-jordison)
+- [Mario Duplantier](https://metalforge.io/drummer/mario-duplantier)
+- [Danny Carey](https://metalforge.io/drummer/danny-carey)
+
 **Source:** https://metalforge.io/articles/whats-in-abe-cunninghams-kit
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

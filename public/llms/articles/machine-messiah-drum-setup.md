@@ -99,8 +99,18 @@ A: Between Machine Messiah (2017) and Quadra (2020), Eloy's Tama and Paiste endo
 
 A: "Phantom Self" (the lead single) is the primary showcase of Eloy's blast-beat precision and sustained double-bass speed at high tempos. "Iceberg Dances" demonstrates his polyrhythmic intelligence — overlapping metric layers that go beyond typical thrash execution. Both tracks appear on Machine Messiah (Nuclear Blast, January 2017) and represent the earliest major recorded evidence of the technical vocabulary Eloy would develop further on Quadra (2020) and bring to Slipknot in 2024.
 
+## Related Articles
+
+- [What's In Eloy Casagrande's Kit in 2026: From Sepultura to Slipknot](https://metalforge.io/articles/whats-in-eloy-casagrandes-kit)
+- [Sepultura "The Mediator Between Head and Hands Must Be the Heart" Drum Setup: Eloy Casagrande's 2013 Debut](https://metalforge.io/articles/the-mediator-between-head-and-hands-drum-setup)
+- [Sepultura "Quadra" Drum Setup: Eloy Casagrande's 2020 Peak](https://metalforge.io/articles/quadra-drum-setup)
+
+## Related Drummers
+
+- [Eloy Casagrande](https://metalforge.io/drummer/eloy-casagrande)
+
 **Source:** https://metalforge.io/articles/machine-messiah-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

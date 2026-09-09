@@ -101,8 +101,21 @@ A: Yes. *We Are Motörhead* is the album where Dee retired the Paiste Giant Beat
 
 A: *We Are Motörhead* includes a cover of the Sex Pistols' "God Save the Queen," for which the band filmed a promo video atop an open-top double-decker bus in London. Mikkey Dee's newly adopted Paiste 2002 Sound Edge hi-hats gave the track's driving pattern a tighter, more controlled edge than his earlier Giant Beat setup.
 
+## Related Articles
+
+- [Snake Bite Love Drum Setup: Mikkey Dee's Gear on Motörhead's 1998 Album](https://metalforge.io/articles/snake-bite-love-drum-setup)
+- [Hammered Drum Setup: Mikkey Dee's Gear on Motörhead's 2002 Album](https://metalforge.io/articles/hammered-drum-setup)
+- [What's In Mikkey Dee's Motörhead/Scorpions Arsenal: 23 Years Behind Rock's Loudest Band](https://metalforge.io/articles/whats-in-mikkey-dees-kit)
+- [Overnight Sensation Drum Setup: Mikkey Dee's Gear on Motörhead's 1996 Album](https://metalforge.io/articles/overnight-sensation-drum-setup)
+
+## Related Drummers
+
+- [Hellhammer](https://metalforge.io/drummer/hellhammer)
+- [Lars Ulrich](https://metalforge.io/drummer/lars-ulrich)
+- [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo)
+
 **Source:** https://metalforge.io/articles/we-are-motorhead-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

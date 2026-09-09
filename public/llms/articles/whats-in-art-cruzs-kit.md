@@ -112,8 +112,21 @@ A: Art Cruz plays a Zildjian A Custom and K Series hybrid setup. His cymbal rig 
 
 A: A current Ludwig Classic Maple kit configured to Art Cruz's specifications runs approximately $4,000 to $6,000 for the shell pack alone. Adding hardware, a Ludwig snare at $400 to $700, and a full Zildjian A Custom and K cymbal setup can bring the total to $8,000 to $12,000 or more. Ludwig Classic Maple is a professional-tier investment but is widely available through authorized dealers.
 
+## Related Articles
+
+- [What's In Chris Adler's Lamb of God Arsenal: Complete Gear Breakdown](https://metalforge.io/articles/whats-in-chris-adlers-kit)
+- [Ashes of the Wake Drum Setup: Chris Adler's Groove Metal Masterpiece](https://metalforge.io/articles/ashes-of-the-wake-drum-setup)
+- [Lamb of God "Omens" Drum Setup: Art Cruz's 2022 Album](https://metalforge.io/articles/omens-drum-setup)
+- [Top 10 Groove Metal Drummers](https://metalforge.io/lists/groove-metal-drummers)
+
+## Related Drummers
+
+- [Ray Luzier](https://metalforge.io/drummer/ray-luzier)
+- [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo)
+- [Gene Hoglan](https://metalforge.io/drummer/gene-hoglan)
+
 **Source:** https://metalforge.io/articles/whats-in-art-cruzs-kit
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

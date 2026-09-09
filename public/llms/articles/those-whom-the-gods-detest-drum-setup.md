@@ -116,8 +116,20 @@ A: By the 'Those Whom the Gods Detest' (2009) sessions, George Kollias was perfo
 
 A: 'Those Whom the Gods Detest' (Nile, 2009) is Nile's best-selling and best-charting album worldwide — a commercial and critical breakthrough for uncompromising technical death metal. For drumming specifically, it captures George Kollias four years into his Nile tenure with mature technique, optimized Pearl Reference Maple gear, and Demon Drive pedal precision. The album demonstrates that extreme-speed drumming can coexist with dynamic awareness, polyrhythmic complexity, and compositional intelligence — not merely raw BPM achievement. Allmusic: 4/5; Metal Music Archives: 9/10. It anchors the Nile discography between the debut 'Annihilation of the Wicked' (2005) and later records, making it the natural starting point for studying Kollias's middle-career peak. See: [Annihilation of the Wicked drum setup](/articles/george-kollias-nile-annihilation-drum-setup).
 
+## Related Articles
+
+- [Top 10 Fastest Metal Drummers](https://metalforge.io/lists/fastest-metal-drummers)
+- [George Kollias Drum Setup: Nile's Annihilation of the Wicked Gear Breakdown](https://metalforge.io/articles/george-kollias-nile-annihilation-drum-setup)
+- [What's In George Kollias' Speed Arsenal](https://metalforge.io/articles/whats-in-george-kollias-kit)
+
+## Related Drummers
+
+- [Gene Hoglan](https://metalforge.io/drummer/gene-hoglan)
+- [Arin Ilejay](https://metalforge.io/drummer/arin-ilejay)
+- [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo)
+
 **Source:** https://metalforge.io/articles/those-whom-the-gods-detest-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

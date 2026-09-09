@@ -96,8 +96,21 @@ A: Converge's next full-length after Jane Doe (2001) was You Fail Me, released S
 
 A: Gear-wise, almost nothing changed — Ben Koller used the same Tama Starclassic bubinga kit, brass snare, Sabian HHX/AAX cymbals, and Tama Iron Cobra single pedal on both records. The difference is in production and intent: You Fail Me was tracked across three studios with producers Alan Douches and Kurt Ballou, resulting in a rawer, less controlled drum sound, and Koller's playing leans into that abrasiveness with heavier rimshots and more committed dynamics than Jane Doe's tightly controlled mathcore precision.
 
+## Related Articles
+
+- [Ben Koller's Complete Drum Setup — Converge Gear Guide](https://metalforge.io/articles/ben-koller-drum-setup)
+- [Ben Koller's Drum Setup on Converge's Jane Doe (2001)](https://metalforge.io/articles/jane-doe-drum-setup)
+- [Ben Koller's Drum Setup on Converge's No Heroes (2006)](https://metalforge.io/articles/no-heroes-drum-setup)
+- [Ben Koller's Drum Setup on Converge's Axe to Fall (2009)](https://metalforge.io/articles/axe-to-fall-drum-setup)
+
+## Related Drummers
+
+- [Joey Jordison](https://metalforge.io/drummer/joey-jordison)
+- [Charlie Benante](https://metalforge.io/drummer/charlie-benante)
+- [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo)
+
 **Source:** https://metalforge.io/articles/you-fail-me-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

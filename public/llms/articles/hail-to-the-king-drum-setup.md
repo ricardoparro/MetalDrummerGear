@@ -96,8 +96,20 @@ A: The drum setup on Avenged Sevenfold's Hail to the King (2013) centers on a Ma
 
 A: The Rev (Jimmy Sullivan) played a Pearl kit with Zildjian cymbals during Avenged Sevenfold's earlier era — notably on City of Evil (2005) and Avenged Sevenfold (2007). His approach was technically extravagant, with jazz-influenced fills and unconventional patterns that set him apart from most mainstream metal drummers. Arin Ilejay's Mapex Saturn Series setup on Hail to the King (2013) reflects a completely different philosophy: power and authority in service of the album's classic metal aesthetic, rather than technical showmanship. The gear choices — Mapex over Pearl, Zildjian A Custom throughout — are broadly comparable in quality tier, but the playing approach and production context are distinctly different. Ilejay deliberately did not try to replicate The Rev's style.
 
+## Related Articles
+
+- [Arin Ilejay's Drum Setup — Avenged Sevenfold's Hail to the King Era](https://metalforge.io/articles/arin-ilejay-drum-setup)
+- [Iowa Drum Setup: Joey Jordison's Gear Breakdown](https://metalforge.io/articles/iowa-drum-setup)
+- [Lars Ulrich's Drum Setup on Metallica's Death Magnetic (2008)](https://metalforge.io/articles/death-magnetic-drum-setup)
+
+## Related Drummers
+
+- [Lars Ulrich](https://metalforge.io/drummer/lars-ulrich)
+- [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo)
+- [Charlie Benante](https://metalforge.io/drummer/charlie-benante)
+
 **Source:** https://metalforge.io/articles/hail-to-the-king-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

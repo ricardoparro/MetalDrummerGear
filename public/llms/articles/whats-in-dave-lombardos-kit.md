@@ -110,8 +110,21 @@ A: Dave Lombardo continues to use Paiste RUDE and 2002 Series cymbals in his cur
 
 A: Dave Lombardo's Tama Starclassic Walnut and Birch double bass setup currently retails between $5,000 and $8,000 depending on configuration and finish. The Tama S.L.P. G-Maple snare adds approximately $400 to $600. His Paiste RUDE and 2002 cymbal collection, including the large 24 inch Power Ride and multiple crashes and chinas, represents another $2,500 to $4,500 in current retail value. A full recreation of Lombardo's 2026 rig would run approximately $8,000 to $13,000 in total.
 
+## Related Articles
+
+- [Top 10 Thrash Metal Drummers](https://metalforge.io/lists/thrash-metal-drummers)
+- [Top 10 Fastest Double Bass Drummers in Metal History](https://metalforge.io/lists/fastest-double-bass-drummers)
+- [Reign in Blood Drum Setup: Dave Lombardo's Gear Breakdown](https://metalforge.io/articles/reign-in-blood-drum-setup)
+- [Vulgar Display of Power Drum Setup: Vinnie Paul's Gear Breakdown](https://metalforge.io/articles/vulgar-display-of-power-drum-setup)
+
+## Related Drummers
+
+- [Lars Ulrich](https://metalforge.io/drummer/lars-ulrich)
+- [Gene Hoglan](https://metalforge.io/drummer/gene-hoglan)
+- [Vinnie Paul](https://metalforge.io/drummer/vinnie-paul)
+
 **Source:** https://metalforge.io/articles/whats-in-dave-lombardos-kit
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

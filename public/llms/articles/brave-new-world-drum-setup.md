@@ -102,8 +102,21 @@ A: Yes — Brave New World (2000) was the first Iron Maiden album featuring Bruc
 
 A: Nicko McBrain's Yamaha Recording Custom kit in the Brave New World era would have cost approximately $2,500 to $3,500 new in 2000. The Yamaha Recording Custom snare added $400 to $600, and a full Paiste Signature cymbal setup ranged from $2,000 to $3,000 depending on the exact cymbals selected. Vic Firth Nicko McBrain Signature sticks retailed at approximately $15 to $20 per pair. Total estimated cost for a comparable setup: $5,000 to $7,000.
 
+## Related Articles
+
+- [Top 10 Thrash Metal Drummers](https://metalforge.io/lists/thrash-metal-drummers)
+- [Top 10 Most Innovative Metal Drummers](https://metalforge.io/lists/most-innovative-drummers)
+- [The Final Frontier Drum Setup: Nicko McBrain's Gear on Iron Maiden's Grammy-Nominated 2010 Epic](https://metalforge.io/articles/final-frontier-drum-setup)
+- [Dance of Death Drum Setup: Nicko McBrain's Gear on Iron Maiden's 2003 Gothic Epic](https://metalforge.io/articles/dance-of-death-drum-setup)
+
+## Related Drummers
+
+- [Lars Ulrich](https://metalforge.io/drummer/lars-ulrich)
+- [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo)
+- [Charlie Benante](https://metalforge.io/drummer/charlie-benante)
+
 **Source:** https://metalforge.io/articles/brave-new-world-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

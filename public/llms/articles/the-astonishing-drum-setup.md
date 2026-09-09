@@ -27,7 +27,7 @@ The Astonishing closes a chapter that began with A Dramatic Turn of Events (2011
 - **Drums:** Pearl Pearl Masterworks Maple (Custom lacquer finish)
 - **Snare:** Pearl Pearl Free-Floating Brass Snare, 14" x 6.5"
 - **Cymbals:** Sabian — Sabian HHX / AAX combination
-- **Hardware / Pedals:** DW 9000 Double Pedal; DW 9000 Series Hi-Hat Stand; DW 9000 Series Straight & Boom Stands; DW 9120M Drum Throne; Vic Firth MM (Mike Mangini) Signature Sticks
+- **Hardware / Pedals:** DW 9000 Double Pedal; DW 9000 Series Hi-Hat Stand; DW 9000 Series Straight & Boom Stands; DW 9120M Drum Throne; Vater Mike Mangini Wicked Piston (VHMMWP)
 - **Heads:** Remo Coated Ambassador (batter), Remo Ambassador Snare Side (resonant)
 - **Snare tuning:** Medium tension for balanced crack and ghost-note sensitivity across wide dynamic shifts
 
@@ -96,8 +96,19 @@ A: The Astonishing (2016) is widely regarded as Dream Theater's most ambitious c
 
 A: Mike Mangini recorded five studio albums as Dream Theater's drummer: A Dramatic Turn of Events (2011), the self-titled Dream Theater (2013), The Astonishing (2016), Distance Over Time (2019), and A View from the Top of the World (2021). Each album reflects a different stage of his integration into the band, from technical debut through full co-writer to the narrative-driven restraint required by The Astonishing. Full breakdowns of each album are available: [A Dramatic Turn of Events](/articles/a-dramatic-turn-of-events-drum-setup), [Dream Theater self-titled](/articles/dream-theater-self-titled-drum-setup), [Distance Over Time](/articles/distance-over-time-drum-setup), and [A View from the Top of the World](/articles/a-view-from-the-top-of-the-world-drum-setup).
 
+## Related Articles
+
+- [Mike Mangini's Kit on 'Dream Theater' (Dream Theater, 2013)](https://metalforge.io/articles/dream-theater-self-titled-drum-setup)
+- [Mike Mangini's Kit on 'Distance Over Time' (Dream Theater, 2019)](https://metalforge.io/articles/distance-over-time-drum-setup)
+- [What's In Mike Mangini's Dream Theater Arsenal](https://metalforge.io/articles/whats-in-mike-manginis-kit)
+- [Black Clouds & Silver Linings Drum Setup — Mike Portnoy's Final Dream Theater Album (2009)](https://metalforge.io/articles/black-clouds-and-silver-linings-drum-setup)
+
+## Related Drummers
+
+- [Mike Mangini](https://metalforge.io/drummer/mike-mangini)
+
 **Source:** https://metalforge.io/articles/the-astonishing-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

@@ -88,8 +88,19 @@ A: Black Sabbath first used synthesizers on *Sabbath Bloody Sabbath* (1973), spe
 
 A: Bill Ward's expanded Ludwig kit on *Sabbath Bloody Sabbath* — a 24" bass drum, two rack toms, and two floor toms in vintage maple — would have cost roughly $1,000 to $1,800 new in 1973. Comparable vintage Ludwig kits from that era sell for $6,000 to $15,000 today in good original condition. The Ludwig Supraphonic snare he switched to for this album is a sought-after vintage piece, typically selling for $200 to $450. See the [Bill Ward licks and technique breakdowns](/drummer/bill-ward/licks) for more on his evolving technique during this period.
 
+## Related Articles
+
+- [Bill Ward's Drum Setup on Black Sabbath's Master of Reality (1971)](https://metalforge.io/articles/master-of-reality-drum-setup)
+- [Paranoid Drum Setup: Bill Ward's Gear on Black Sabbath's Defining Album](https://metalforge.io/articles/paranoid-drum-setup)
+
+## Related Drummers
+
+- [Lars Ulrich](https://metalforge.io/drummer/lars-ulrich)
+- [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo)
+- [Charlie Benante](https://metalforge.io/drummer/charlie-benante)
+
 **Source:** https://metalforge.io/articles/sabbath-bloody-sabbath-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

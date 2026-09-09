@@ -126,8 +126,22 @@ A: On Beneath the Remains in 1989, Igor Cavalera used Paiste 2002 series cymbals
 
 A: At the time of recording in 1989, a Pearl Export kit was valued at roughly $600 to $900. Today, vintage Pearl Export kits from the late 1980s sell on the used market for $200 to $600 depending on condition. The Pearl Steel Sensitone snare adds $100 to $200 vintage. Vintage Paiste 2002 cymbals matching the album setup run $800 to $1,500 used. A full period-correct replica of the Beneath the Remains rig can be assembled for approximately $1,200 to $2,300.
 
+## Related Articles
+
+- [What's In Igor Cavalera's Tribal Arsenal: Complete Gear Breakdown](https://metalforge.io/articles/whats-in-igor-cavaleras-kit)
+- [Top 10 Thrash Metal Drummers](https://metalforge.io/lists/thrash-metal-drummers)
+- [Roots Drum Setup: Igor Cavalera's Brazilian Tribal Metal Revolution](https://metalforge.io/articles/roots-drum-setup)
+- [Reign in Blood Drum Setup: Dave Lombardo's Gear Breakdown](https://metalforge.io/articles/reign-in-blood-drum-setup)
+- [Master of Puppets Drum Setup: Lars Ulrich's Gear Breakdown](https://metalforge.io/articles/master-of-puppets-drum-setup)
+
+## Related Drummers
+
+- [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo)
+- [Lars Ulrich](https://metalforge.io/drummer/lars-ulrich)
+- [Gene Hoglan](https://metalforge.io/drummer/gene-hoglan)
+
 **Source:** https://metalforge.io/articles/beneath-the-remains-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

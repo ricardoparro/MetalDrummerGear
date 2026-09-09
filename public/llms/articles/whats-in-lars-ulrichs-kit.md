@@ -117,8 +117,19 @@ A: Lars Ulrich plays Zildjian A Custom cymbals, a series known for its bright, c
 
 A: Lars Ulrich's Tama Starclassic Maple kit is estimated at $4,000 to $7,000 depending on shell pack configuration and finish. His Tama signature snare adds roughly $350 to $450. The Zildjian A Custom cymbal setup typically runs $1,500 to $2,500 for a full matched configuration. A close replica of his complete rig would cost approximately $6,000 to $10,000, making it achievable for serious gigging drummers.
 
+## Related Articles
+
+- [Master of Puppets Drum Setup: Lars Ulrich's Gear Breakdown](https://metalforge.io/articles/master-of-puppets-drum-setup)
+- [Ride the Lightning Drum Setup: Lars Ulrich's 1984 Tama Kit Breakdown](https://metalforge.io/articles/ride-the-lightning-drum-setup)
+
+## Related Drummers
+
+- [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo)
+- [Joey Jordison](https://metalforge.io/drummer/joey-jordison)
+- [Gene Hoglan](https://metalforge.io/drummer/gene-hoglan)
+
 **Source:** https://metalforge.io/articles/whats-in-lars-ulrichs-kit
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

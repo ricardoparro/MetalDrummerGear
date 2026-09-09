@@ -106,8 +106,22 @@ A: Matt Garstka uses Meinl Byzance cymbals across multiple lines. His setup incl
 
 A: Pricing for Matt Garstka's current DW Collector's Series custom shop kit and DW Collector's Series Purpleheart snare has not been independently verified — custom shop builds are quoted per configuration. His earlier Pearl Masterworks Maple shell pack (played through 2021) ran approximately $4,000 to $6,000 new, with his Pearl Matt Garstka Signature Snare adding around $400 to $500. His Meinl Byzance cymbal setup, unchanged through the DW switch, can easily exceed $2,500 to $4,000 when factoring in multiple specialty pieces.
 
+## Related Articles
+
+- [The Joy of Motion Drum Setup: Matt Garstka's Debut With Animals as Leaders](https://metalforge.io/articles/the-joy-of-motion-drum-setup)
+- [The Madness of Many Drum Setup: Matt Garstka's Signature Gear Era Begins](https://metalforge.io/articles/the-madness-of-many-drum-setup)
+- [Parrhesia Drum Setup: Matt Garstka's New DW Custom Shop Rig](https://metalforge.io/articles/parrhesia-drum-setup)
+- [obZen Drum Setup: Tomas Haake's Legendary "Bleed" Gear Breakdown](https://metalforge.io/articles/obzen-drum-setup)
+- [Fear Inoculum Drum Setup: Danny Carey's Grammy-Winning Sound](https://metalforge.io/articles/fear-inoculum-drum-setup)
+
+## Related Drummers
+
+- [Tomas Haake](https://metalforge.io/drummer/tomas-haake)
+- [Danny Carey](https://metalforge.io/drummer/danny-carey)
+- [Mike Portnoy](https://metalforge.io/drummer/mike-portnoy)
+
 **Source:** https://metalforge.io/articles/whats-in-matt-garstkas-kit
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

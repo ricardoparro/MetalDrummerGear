@@ -114,8 +114,17 @@ A: "Linchpin" is the standout Herrera performance on *Digimortal* — a driving 
 
 A: Raymond Herrera left Fear Factory in 2002, along with guitarist Christian Olde Wolbers. The departure effectively ended the classic Fear Factory lineup that had recorded *Demanufacture*, *Obsolete*, and *Digimortal*. Herrera and Olde Wolbers subsequently formed Arkaea, releasing one album (*Years in the Darkness*, 2009). Herrera continued drumming in various projects, applying his hybrid industrial metal technique — Pearl Reference Series drums, trigger integration, DW 5000 Series double pedal — in contexts outside Fear Factory's thematic framework. Fear Factory continued and eventually reformed with different lineups, but the three-album Herrera era from 1995 to 2001 remains the definitive period of the band's drum sound. For Herrera's complete career profile: [Raymond Herrera at MetalForge](/drummer/raymond-herrera).
 
+## Related Articles
+
+- [Raymond Herrera's Drum Setup — Fear Factory's Industrial Metal Hybrid Kit](https://metalforge.io/articles/raymond-herrera-drum-setup)
+- [Obsolete Drum Setup: Raymond Herrera's 1998 Fear Factory Kit Breakdown](https://metalforge.io/articles/obsolete-drum-setup)
+
+## Related Drummers
+
+- [Raymond Herrera](https://metalforge.io/drummer/raymond-herrera)
+
 **Source:** https://metalforge.io/articles/digimortal-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

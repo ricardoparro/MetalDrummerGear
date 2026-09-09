@@ -88,8 +88,16 @@ A: Spiritual Healing (1990) and Human (1991) were recorded by two different drum
 
 A: Bill Andrews' specific drum kit, snare, cymbals, and hardware for the Spiritual Healing sessions have not been publicly documented in interviews, endorsement listings, or photographs. The album was recorded at Morrisound Recording in Tampa with producer Scott Burns, but no verified source specifies the exact equipment Andrews used. This page won't guess at brand or model details that aren't sourced.
 
+## Related Articles
+
+- [Human Drum Setup: Sean Reinert's Jazz-Death Masterpiece](https://metalforge.io/articles/human-drum-setup)
+- [What's In Sean Reinert's Progressive Arsenal: A Tribute to Jazz-Death Metal's Pioneer](https://metalforge.io/articles/whats-in-sean-reinerts-kit)
+- [How to Play Blast Beats Like a Pro Metal Drummer](https://metalforge.io/articles/how-to-play-blast-beats)
+- [The Sound of Perseverance Drum Setup: Richard Christy's Death Swan Song](https://metalforge.io/articles/sound-of-perseverance-drum-setup)
+- [Symbolic Drum Setup: Gene Hoglan's Death Masterpiece](https://metalforge.io/articles/symbolic-drum-setup)
+
 **Source:** https://metalforge.io/articles/spiritual-healing-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

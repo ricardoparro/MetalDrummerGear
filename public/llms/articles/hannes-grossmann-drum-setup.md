@@ -113,8 +113,17 @@ A: Hannes Grossmann's technique is distinguished by three characteristics that o
 
 A: Hannes Grossmann plays Meinl Byzance cymbals. His setup includes Meinl Byzance 14" Traditional Hi-Hats — warm, complex, and articulate for his open-handed hi-hat technique at high pattern densities — Meinl Byzance 18" and 19" Brilliant Crash cymbals for accent work, and a Meinl Byzance 21" Traditional Ride for the dark, controlled wash that Obscura's and Alkaloid's progressive arrangements require. The Byzance series' hand-hammered B20 bronze construction produces harmonically rich, warm voicing that integrates naturally in dense progressive metal mixes rather than fighting for attention against the harmonic complexity of guitar and bass parts. For more on his complete gear setup: [Hannes Grossmann at MetalForge](/drummer/hannes-grossmann).
 
+## Related Articles
+
+- [What's In Alex Bent's Trivium Arsenal: Complete Gear Breakdown](https://metalforge.io/articles/whats-in-alex-bents-kit)
+- [Travis Orbin Drum Kit & Gear Setup — Periphery Djent Pioneer](https://metalforge.io/articles/travis-orbin-drum-setup)
+
+## Related Drummers
+
+- [Hannes Grossmann](https://metalforge.io/drummer/hannes-grossmann)
+
 **Source:** https://metalforge.io/articles/hannes-grossmann-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

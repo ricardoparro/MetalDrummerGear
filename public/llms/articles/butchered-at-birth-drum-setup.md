@@ -102,8 +102,19 @@ A: Butchered at Birth is Cannibal Corpse's second album (1991), bridging the deb
 
 A: Paul Mazurkiewicz's drumming on Butchered at Birth is notable for demonstrating how his debut-era approach scaled under increased tempo demands. A year of touring behind Eaten Back to Life had sharpened his foot technique, and the escalated blast beats and double-kick patterns on tracks like 'Meat Hook Sodomy' and 'Innards Decay' reflect that development. Crucially, the locomotive philosophy — consistent stroke weight, metronomic double-bass, serve-the-riff phrasing — survived the tempo escalation intact. The most technically difficult thing on the record is what Mazurkiewicz didn't change: he maintained the architectural, consistent approach to blast beats even as the speeds increased, which is harder than simply playing faster.
 
+## Related Articles
+
+- [Top 10 Death Metal Drummers](https://metalforge.io/lists/death-metal-drummers)
+- [Paul Mazurkiewicz's Drum Setup on Cannibal Corpse's Eaten Back to Life (1990)](https://metalforge.io/articles/eaten-back-to-life-drum-setup)
+- [Paul Mazurkiewicz's Drum Setup on Cannibal Corpse's Tomb of the Mutilated (1992)](https://metalforge.io/articles/tomb-of-the-mutilated-drum-setup)
+- [Paul Mazurkiewicz Drum Setup — Cannibal Corpse Gear Guide](https://metalforge.io/articles/paul-mazurkiewicz-drum-setup)
+
+## Related Drummers
+
+- [Paul Mazurkiewicz](https://metalforge.io/drummer/paul-mazurkiewicz)
+
 **Source:** https://metalforge.io/articles/butchered-at-birth-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

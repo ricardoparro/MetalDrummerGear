@@ -48,8 +48,19 @@ A: Odd time signatures (7/8, 5/4, 9/8) place an unusual number of beats in each 
 
 A: "Schism" by Tool is the classic entry point for odd time signatures in metal — it alternates between 5/4 and 7/8 in a way that feels completely natural and musical. "Lateralus" is more complex, built on Fibonacci sequence time signature groups. Danny Carey's drumming on both tracks demonstrates how odd meters can groove just as hard as 4/4 when internalized fully.
 
+## Related Articles
+
+- [Mario Duplantier's Drum Kit & Gear Setup — Gojira's Sound Explained](https://metalforge.io/articles/mario-duplantier-gear)
+- [What's In Mike Mangini's Dream Theater Arsenal](https://metalforge.io/articles/whats-in-mike-manginis-kit)
+
+## Related Drummers
+
+- [Brann Dailor](https://metalforge.io/drummer/brann-dailor)
+- [Danny Carey](https://metalforge.io/drummer/danny-carey)
+- [Tomas Haake](https://metalforge.io/drummer/tomas-haake)
+
 **Source:** https://metalforge.io/articles/how-to-play-polyrhythm-drums
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

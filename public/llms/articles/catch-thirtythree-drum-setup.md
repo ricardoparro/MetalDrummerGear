@@ -103,8 +103,20 @@ A: For live performances of Catch Thirtythree material in 2005, Tomas Haake used
 
 A: Catch Thirtythree (2005) is important for djent because it is the fullest early expression of Fredrik Thordendal's extended-range tuning concept before the genre had a name or community. While Nothing (2002) established the 8-string guitar in F# standard as Meshuggah's primary instrument, Catch Thirtythree built an entire 47-minute concept album around the sonic possibilities that tuning enabled — without the physical constraints of live drum performance limiting the rhythmic complexity. The programmed drums allowed Haake to write patterns that matched the extreme low-frequency density of Thordendal's djent tuning at theoretical extremes. When djent emerged as an identifiable genre in the late 2000s, Catch Thirtythree's combination of extreme rhythmic programming and extended-range guitar density was retroactively recognized as a foundational document — the album where djent's tonal and rhythmic ambitions were first fully unified.
 
+## Related Articles
+
+- [What's In Tomas Haake's Polyrhythmic Arsenal: Complete Gear Breakdown](https://metalforge.io/articles/whats-in-tomas-haakes-kit)
+- [Nothing Drum Setup: Tomas Haake's Polyrhythmic Blueprint (Meshuggah, 2002)](https://metalforge.io/articles/nothing-drum-setup)
+- [obZen Drum Setup: Tomas Haake's Legendary "Bleed" Gear Breakdown](https://metalforge.io/articles/obzen-drum-setup)
+
+## Related Drummers
+
+- [Danny Carey](https://metalforge.io/drummer/danny-carey)
+- [John Otto](https://metalforge.io/drummer/john-otto)
+- [Brann Dailor](https://metalforge.io/drummer/brann-dailor)
+
 **Source:** https://metalforge.io/articles/catch-thirtythree-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

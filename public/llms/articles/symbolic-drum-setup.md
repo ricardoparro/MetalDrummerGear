@@ -115,8 +115,20 @@ A: Gene Hoglan used a combination of Paiste 2002 and RUDE cymbals on Symbolic. T
 
 A: In 1995, the Tama Artstar II shell pack was priced at approximately $2,500 to $3,500, with the Tama Mastercraft Steel snare adding $350 to $450. The Paiste 2002 and RUDE cymbal setup would have cost roughly $1,200 to $2,000 new. Today, vintage Tama Artstar II kits in good condition sell for $1,500 to $3,000 on the used market, making this era setup a compelling and affordable choice for death metal drummers.
 
+## Related Articles
+
+- [Individual Thought Patterns Drum Setup: Gene Hoglan's First Death Album](https://metalforge.io/articles/individual-thought-patterns-drum-setup)
+- [Reign in Blood Drum Setup: Dave Lombardo's Gear Breakdown](https://metalforge.io/articles/reign-in-blood-drum-setup)
+- [Painkiller Drum Setup: Scott Travis's Speed Metal Revolution](https://metalforge.io/articles/painkiller-drum-setup)
+
+## Related Drummers
+
+- [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo)
+- [Joey Jordison](https://metalforge.io/drummer/joey-jordison)
+- [George Kollias](https://metalforge.io/drummer/george-kollias)
+
 **Source:** https://metalforge.io/articles/symbolic-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

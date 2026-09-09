@@ -107,8 +107,20 @@ A: Neither — the two albums pursue different goals. Shogun (2008) is Trivium's
 
 A: Vengeance Falls debuted at #15 on the US Billboard 200 and reached #23 on the UK Albums Chart, also charting in the top 10 in Australia, Germany, and Canada. The album was led by the singles "Brave This Storm" and "Strife," with "Through Blood and Dirt and Bone" and "Villainy Thrives" released as later singles in 2014. It was Nick Augusto's final studio album with Trivium before his departure in May 2014.
 
+## Related Articles
+
+- [How to Play Double Bass Drums for Metal](https://metalforge.io/articles/double-bass-drumming-for-metal)
+- [How to Play Metal Breakdown Beats](https://metalforge.io/articles/breakdown-beat-guide)
+- [Shogun Drum Setup: Nick Augusto's Progressive Thrash Masterpiece (Trivium, 2008)](https://metalforge.io/articles/shogun-drum-setup)
+- [In Waves Drum Setup: Nick Augusto's Breakthrough Kit (Trivium, 2011)](https://metalforge.io/articles/in-waves-drum-setup)
+- [The Sin and the Sentence Drum Setup: Alex Bent's Trivium Debut (2017)](https://metalforge.io/articles/trivium-sin-and-the-sentence-drum-setup)
+
+## Related Drummers
+
+- [Nick Augusto](https://metalforge.io/drummer/nick-augusto)
+
 **Source:** https://metalforge.io/articles/vengeance-falls-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

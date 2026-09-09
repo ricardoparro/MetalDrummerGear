@@ -123,8 +123,20 @@ A: Abe Cunningham used a Zildjian A and K Series cymbal setup on White Pony. His
 
 A: The Tama Starclassic Maple kit Abe Cunningham used on White Pony was valued at approximately $3,000 to $5,000 new in 2000. A comparable used or new Tama Starclassic Maple setup today costs $3,500 to $5,500 for the shell pack. Adding a period-correct deep steel snare at $300 to $500 and a full Zildjian A and K cymbal setup brings the total to approximately $7,000 to $10,000.
 
+## Related Articles
+
+- [What's In Abe Cunningham's Deftones Arsenal: Complete Gear Breakdown](https://metalforge.io/articles/whats-in-abe-cunninghams-kit)
+- [Koi No Yokan Drum Setup: Abe Cunningham's Dream-State Masterwork](https://metalforge.io/articles/koi-no-yokan-drum-setup)
+- [Diamond Eyes Drum Setup: Abe Cunningham's Cathartic Comeback](https://metalforge.io/articles/diamond-eyes-drum-setup)
+
+## Related Drummers
+
+- [Danny Carey](https://metalforge.io/drummer/danny-carey)
+- [Gavin Harrison](https://metalforge.io/drummer/gavin-harrison)
+- [Abe Cunningham](https://metalforge.io/drummer/abe-cunningham)
+
 **Source:** https://metalforge.io/articles/white-pony-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

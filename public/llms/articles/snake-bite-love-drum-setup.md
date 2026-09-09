@@ -101,8 +101,21 @@ A: Yes. Howard Benson produced four consecutive Motörhead albums featuring Mikk
 
 A: Mikkey Dee used Paiste Giant Beat 15" hi-hats alongside Paiste 2002 crashes (18" and 20"), a 22" ride, and an 18" China cymbal on *Snake Bite Love*. This was the last Motörhead album to feature this exact Giant Beat/2002 pairing before his cymbal setup began to shift on [*We Are Motörhead*](/articles/we-are-motorhead-drum-setup) (2000).
 
+## Related Articles
+
+- [Overnight Sensation Drum Setup: Mikkey Dee's Gear on Motörhead's 1996 Album](https://metalforge.io/articles/overnight-sensation-drum-setup)
+- [We Are Motörhead Drum Setup: Mikkey Dee's Gear on Motörhead's 2000 Album](https://metalforge.io/articles/we-are-motorhead-drum-setup)
+- [What's In Mikkey Dee's Motörhead/Scorpions Arsenal: 23 Years Behind Rock's Loudest Band](https://metalforge.io/articles/whats-in-mikkey-dees-kit)
+- [Bastards Drum Setup: Mikkey Dee's Gear on Motörhead's 1993 Album](https://metalforge.io/articles/bastards-drum-setup)
+
+## Related Drummers
+
+- [Hellhammer](https://metalforge.io/drummer/hellhammer)
+- [Lars Ulrich](https://metalforge.io/drummer/lars-ulrich)
+- [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo)
+
 **Source:** https://metalforge.io/articles/snake-bite-love-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

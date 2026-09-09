@@ -107,8 +107,21 @@ A: The Great Southern Trendkill was tracked primarily at Chasin' Jason Studios �
 
 A: No — The Great Southern Trendkill debuted at #4 on the Billboard 200 in May 1996, not #1. The #1 debut belongs to Far Beyond Driven (1994). The myth that all post-Cowboys Pantera records went to #1 is one of the most persistent pieces of misinformation in metal history. A top-five debut in 1996 was still an extraordinary commercial achievement for an album with no radio singles and no concessions to mainstream taste.
 
+## Related Articles
+
+- [What's In Vinnie Paul's Pantera Arsenal (Tribute)](https://metalforge.io/articles/whats-in-vinnie-pauls-kit)
+- [Cowboys from Hell Drum Setup: Vinnie Paul's Breakthrough Gear](https://metalforge.io/articles/cowboys-from-hell-drum-setup)
+- [Vulgar Display of Power Drum Setup: Vinnie Paul's Gear Breakdown](https://metalforge.io/articles/vulgar-display-of-power-drum-setup)
+- [Far Beyond Driven Drum Setup: Vinnie Paul's Heaviest Era Gear Breakdown](https://metalforge.io/articles/far-beyond-driven-drum-setup)
+
+## Related Drummers
+
+- [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo)
+- [Lars Ulrich](https://metalforge.io/drummer/lars-ulrich)
+- [Art Cruz](https://metalforge.io/drummer/art-cruz)
+
 **Source:** https://metalforge.io/articles/great-southern-trendkill-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

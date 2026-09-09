@@ -122,8 +122,19 @@ A: Joey Jordison played the Promark Joey Jordison Signature TX515W drumstick, a 
 
 A: Joey Jordison favored Pearl Free-Floating snare drums throughout his Slipknot career. The Free-Floating design decouples the shell from the snare wire hardware, allowing the shell to resonate freely and producing the open, explosive crack heard on records like Iowa and Vol. 3: The Subliminal Verses. He typically used a 14" diameter model with steel or brass shell construction for maximum cut and projection through Slipknot's dense production.
 
+## Related Articles
+
+- [Iowa Drum Setup: Joey Jordison's Gear Breakdown](https://metalforge.io/articles/iowa-drum-setup)
+- [What's In Joey Jordison's Legendary Kit: Complete Gear Breakdown](https://metalforge.io/articles/whats-in-joey-jordisons-kit)
+
+## Related Drummers
+
+- [Lars Ulrich](https://metalforge.io/drummer/lars-ulrich)
+- [Matt Greiner](https://metalforge.io/drummer/matt-greiner)
+- [Jay Weinberg](https://metalforge.io/drummer/jay-weinberg)
+
 **Source:** https://metalforge.io/articles/joey-jordison-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

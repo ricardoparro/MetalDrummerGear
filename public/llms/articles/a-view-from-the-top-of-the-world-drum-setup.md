@@ -25,7 +25,7 @@ The album's centerpiece is its closing title track — a 20-minute progressive e
 - **Drums:** Pearl Pearl Reference Pure (Custom lacquer finish)
 - **Snare:** Pearl Pearl Reference Snare, 14" x 6.5"
 - **Cymbals:** Sabian — Sabian HHX Evolution / AAX combination
-- **Hardware / Pedals:** Pearl Eliminator Redline Double Pedal; Pearl H-2050 Eliminator Hi-Hat Stand; Pearl BC-830 Boom Stands; Pearl Roadster D-790; Vic Firth Mike Mangini Signature
+- **Hardware / Pedals:** Pearl Eliminator Redline Double Pedal; Pearl H-2050 Eliminator Hi-Hat Stand; Pearl BC-830 Boom Stands; Pearl Roadster D-790; Vater Mike Mangini Wicked Piston (VHMMWP)
 - **Heads:** Remo Coated Ambassador (batter), Remo Ambassador Snare Side (resonant)
 - **Snare tuning:** Medium batter tension for balanced dynamic range; consistent with Distance Over Time tuning approach
 
@@ -102,8 +102,18 @@ A: The closing title track is a 20-minute progressive epic that deploys Mangini'
 
 A: Both albums were recorded at Yonderbarn Studios with Pearl Reference Pure drums and Sabian HHX/AAX cymbals, but A View from the Top of the World introduced one key structural change: it was the first Dream Theater album produced entirely by the band themselves, without an outside producer. Where Distance Over Time was produced by John Petrucci in his role as producer/guitarist, AVFTTOTW gave the full band — including Mangini — direct control over all production decisions. The album is also compositionally more ambitious in scope, anchored by its 20-minute title track. Both Distance Over Time and AVFTTOTW are cross-linked in the [Distance Over Time drum setup article](/articles/distance-over-time-drum-setup). For Mangini's debut with Dream Theater, see [A Dramatic Turn of Events (2011)](/articles/a-dramatic-turn-of-events-drum-setup).
 
+## Related Articles
+
+- [Mike Mangini's Kit on 'Distance Over Time' (Dream Theater, 2019)](https://metalforge.io/articles/distance-over-time-drum-setup)
+- [Mike Mangini's Kit on 'A Dramatic Turn of Events' (Dream Theater, 2011)](https://metalforge.io/articles/a-dramatic-turn-of-events-drum-setup)
+- [What's In Mike Mangini's Dream Theater Arsenal](https://metalforge.io/articles/whats-in-mike-manginis-kit)
+
+## Related Drummers
+
+- [Mike Mangini](https://metalforge.io/drummer/mike-mangini)
+
 **Source:** https://metalforge.io/articles/a-view-from-the-top-of-the-world-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

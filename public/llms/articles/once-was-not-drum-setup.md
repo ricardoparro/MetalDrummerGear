@@ -116,8 +116,22 @@ A: Once Was Not (2005) was produced by Chris Donaldson — Cryptopsy's guitarist
 
 A: Once Was Not (2005) and And Then You'll Beg (2000) represent different peaks of Flo Mounier's technical death metal drumming. And Then You'll Beg pursued compositional sophistication — blast beats in odd time signatures (11/8 and 13/8), extended progressive passages, and metrics complexity that required cognitive load management at high velocities. Once Was Not pursued pure velocity within more direct song structures — higher sustained BPM, more relentless blast sequences, and less compositional relief. The gear changes reflect this difference: the 26-inch Pearl bass drum of And Then You'll Beg provided low-frequency authority for progressive passages; the 22-inch Yamaha of Once Was Not provided fast attack response for sustained high-velocity work. Both are considered career peaks — the 2000 album for complexity, the 2005 album for speed.
 
+## Related Articles
+
+- [What's In Flo Mounier's Extreme Arsenal: Complete Gear Breakdown](https://metalforge.io/articles/whats-in-flo-mouniers-kit)
+- [Top 10 Fastest Metal Drummers](https://metalforge.io/lists/fastest-metal-drummers)
+- [And Then You'll Beg Drum Setup: Flo Mounier's Most Complex Work](https://metalforge.io/articles/and-then-youll-beg-drum-setup)
+- [None So Vile Drum Setup: Flo Mounier's Technical Death Metal Landmark](https://metalforge.io/articles/none-so-vile-drum-setup)
+- [The Unspoken King Drum Setup: Flo Mounier's 2008 Cryptopsy Gear](https://metalforge.io/articles/unspoken-king-drum-setup)
+
+## Related Drummers
+
+- [Gene Hoglan](https://metalforge.io/drummer/gene-hoglan)
+- [George Kollias](https://metalforge.io/drummer/george-kollias)
+- [Chris Adler](https://metalforge.io/drummer/chris-adler)
+
 **Source:** https://metalforge.io/articles/once-was-not-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

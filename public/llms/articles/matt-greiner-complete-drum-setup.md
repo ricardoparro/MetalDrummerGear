@@ -111,8 +111,19 @@ A: Matt Greiner's main snare is a Mapex Black Panther 14" x 5.5" Maple, deliveri
 
 A: Matt Greiner drives August Burns Red's double-bass lines with a DW 9000 Series double pedal, providing the responsive, consistent feel essential for the band's precise double-kick metalcore patterns.
 
+## Related Articles
+
+- [What's In Matt Halpern's Periphery Kit: Complete Gear Breakdown](https://metalforge.io/articles/whats-in-matt-halperns-kit)
+- [obZen Drum Setup: Tomas Haake's Legendary "Bleed" Gear Breakdown](https://metalforge.io/articles/obzen-drum-setup)
+
+## Related Drummers
+
+- [Matt Halpern](https://metalforge.io/drummer/matt-halpern)
+- [Tomas Haake](https://metalforge.io/drummer/tomas-haake)
+- [Danny Carey](https://metalforge.io/drummer/danny-carey)
+
 **Source:** https://metalforge.io/articles/matt-greiner-complete-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

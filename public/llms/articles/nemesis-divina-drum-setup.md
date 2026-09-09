@@ -99,8 +99,19 @@ A: Frost used Paiste 2002 series cymbals on Nemesis Divina — 14" hi-hats, 16" 
 
 A: Both albums are foundational, Bergen-area-recorded documents of Norwegian black metal's second wave, released two years apart — Mayhem's De Mysteriis Dom Sathanas (1994, Grieghallen Studio) and Satyricon's Nemesis Divina (1996, Waterfall Studios). Hellhammer's atmospheric, texture-first blast beats on De Mysteriis and Frost's hyperspeed, single-pedal blast beats on Nemesis Divina represent two of the genre's most studied drumming templates. For the full breakdown of Hellhammer's session, see the [De Mysteriis Dom Sathanas Drum Setup article](/articles/de-mysteriis-dom-sathanas-drum-setup) and [Hellhammer's drummer profile](/drummer/hellhammer).
 
+## Related Articles
+
+- [Top 10 Black Metal Drummers](https://metalforge.io/lists/black-metal-drummers)
+- [Frost (Satyricon) Drum Setup — Complete Gear Guide](https://metalforge.io/articles/frost-satyricon-drum-setup)
+- [De Mysteriis Dom Sathanas Drum Setup: Hellhammer's 1994 Black Metal Blueprint](https://metalforge.io/articles/de-mysteriis-dom-sathanas-drum-setup)
+
+## Related Drummers
+
+- [Frost](https://metalforge.io/drummer/frost)
+- [Art Cruz](https://metalforge.io/drummer/art-cruz)
+
 **Source:** https://metalforge.io/articles/nemesis-divina-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

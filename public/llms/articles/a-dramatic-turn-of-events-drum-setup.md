@@ -29,7 +29,7 @@ The album debuted at number eight on the Billboard 200 and earned Grammy nominat
 - **Drums:** Pearl Pearl Masterworks Custom (Custom lacquer finish)
 - **Snare:** Pearl Pearl Free-Floating Brass Snare, 14" x 6.5"
 - **Cymbals:** Sabian — Sabian HHX / AAX combination
-- **Hardware / Pedals:** DW 9002 Double Pedal; DW 9000 Series Hi-Hat Stand; DW 9000 Series Straight & Boom Stands; DW 9120M Drum Throne; Vic Firth MM (Mike Mangini) Signature Sticks
+- **Hardware / Pedals:** DW 9002 Double Pedal; DW 9000 Series Hi-Hat Stand; DW 9000 Series Straight & Boom Stands; DW 9120M Drum Throne; Vater Mike Mangini Wicked Piston (VHMMWP)
 - **Heads:** Remo Coated Ambassador (batter), Remo Ambassador Snare Side (resonant)
 - **Snare tuning:** Medium-high batter tension for crack; moderate snare wire tension for ghost note response
 
@@ -109,8 +109,19 @@ A: Mike Mangini joined Dream Theater in April 2011, following a globally watched
 
 A: The two Mikes represent distinctly different but equally valid approaches to progressive metal drumming. Portnoy — co-founder, lyricist, and visual architect of Dream Theater for 25 years — brought a rock-based power and compositional authority built on Ludwig and then Tama kits with Zildjian cymbals. Mangini brought scientific precision, world-record-level speed, and a Berklee-trained theoretical foundation built on Pearl Masterworks and Sabian HHX/AAX. Portnoy's performances on Images and Words and Metropolis Pt. 2 are more emotionally raw; Mangini's work on A Dramatic Turn of Events and The Astonishing is metronomically precise. For the Portnoy-era gear breakdown, see the [Images and Words Drum Setup article](/articles/images-and-words-drum-setup) and the [Mike Portnoy drummer profile](/drummer/mike-portnoy).
 
+## Related Articles
+
+- [What's In Mike Mangini's Dream Theater Arsenal](https://metalforge.io/articles/whats-in-mike-manginis-kit)
+- [Images and Words Drum Setup: Mike Portnoy's Progressive Metal Breakthrough](https://metalforge.io/articles/images-and-words-drum-setup)
+- [Top 10 Progressive Metal Drummers](https://metalforge.io/lists/progressive-metal-drummers)
+- [What's In Mike Portnoy's Reunion Kit: Dream Theater 2025 Complete Breakdown](https://metalforge.io/articles/whats-in-mike-portnoys-kit)
+
+## Related Drummers
+
+- [Mike Mangini](https://metalforge.io/drummer/mike-mangini)
+
 **Source:** https://metalforge.io/articles/a-dramatic-turn-of-events-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

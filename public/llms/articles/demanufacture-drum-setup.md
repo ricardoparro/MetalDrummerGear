@@ -1,6 +1,6 @@
 # Demanufacture Drum Setup: Raymond Herrera's 1995 Fear Factory Kit Breakdown
 
-> Complete breakdown of Raymond Herrera's drum gear on Fear Factory's Demanufacture (1995) — the album that defined industrial metal drumming. Pearl Reference Series triggered kit, Zildjian Z Custom cymbals, DW 5000 Series pedals, and the machine-gun double bass behind 'Replica' and the title track.
+> Complete breakdown of Raymond Herrera's drum gear on Fear Factory's Demanufacture (1995) — the album that defined industrial metal drumming. Tama Starclassic triggered kit, Zildjian Z Custom cymbals, DW 5000 Series pedals, and the machine-gun double bass behind 'Replica' and the title track.
 
 **Type:** Album Drum Setup
 **Drummer(s):** [Raymond Herrera](/llms/drummers/raymond-herrera.md)
@@ -16,22 +16,22 @@ Released on June 13, 1995, Fear Factory's *Demanufacture* is the record that gav
 
 *Demanufacture* was recorded at Indigo Ranch Studios in Malibu, California, and produced by Colin Richardson, with additional production and programming from Rhys Fulber of Front Line Assembly. The album's sessions initially began with Ross Robinson, but that material was ultimately scrapped and re-recorded under Richardson's production — a decision that shaped the tighter, more mechanically precise drum sound the finished album is known for. Fulber's electronic programming background gave the record's triggered drum signals an industrial sheen that had no real precedent in metal production up to that point.
 
-Herrera's setup for *Demanufacture* was built around Pearl Reference Series drums, fully triggered with ddrum and Roland sensors across the kick drums, snare, and toms, driven by a DW 5000 Series double pedal and cut through by Zildjian Z Custom cymbals. What made the record a landmark wasn't just the gear — it was how Herrera used it. The title track and "Replica" feature machine-gun double-kick patterns at a level of sixteenth-note consistency that redefined what double bass drumming could sound like in a metal context, directly influencing the generation of industrial and groove metal drummers that followed, from Robb Flynn's Machine Head collaborators to countless nu-metal and industrial acts of the late 1990s.
+Herrera's setup for *Demanufacture* was built around Tama Starclassic drums, fully triggered with ddrum and Roland sensors across the kick drums, snare, and toms, driven by a DW 5000 Series double pedal and cut through by Zildjian Z Custom cymbals. What made the record a landmark wasn't just the gear — it was how Herrera used it. The title track and "Replica" feature machine-gun double-kick patterns at a level of sixteenth-note consistency that redefined what double bass drumming could sound like in a metal context, directly influencing the generation of industrial and groove metal drummers that followed, from Robb Flynn's Machine Head collaborators to countless nu-metal and industrial acts of the late 1990s.
 
 This article breaks down every component of Herrera's *Demanufacture* kit and explains why the album remains the reference point for industrial metal drumming three decades later.
 
 ## Gear Breakdown
 
-- **Drums:** Pearl Pearl Reference Series (Various finishes — Demanufacture recording and touring period finish)
+- **Drums:** Tama Tama Starclassic (Various finishes — Demanufacture recording and touring period finish)
 - **Snare:** Tama Tama 14" x 6.5" Brass, 14" x 6.5"
 - **Cymbals:** Zildjian — Zildjian Z Custom Series
 - **Hardware / Pedals:** DW 5000 Series Double Pedal; ddrum triggers and Roland drum module; Pro-Mark 5A Oak Nylon Tip; Remo Pinstripe; Remo Ambassador
 - **Heads:** Remo Pinstripe (batter) with ddrum trigger sensor — controlled attack for consistent electronic layering
 - **Snare tuning:** Medium-high tension for fast mechanical response and cut through dense industrial guitar frequencies
 
-### Pearl Reference Series: Building the Industrial Metal Template
+### Tama Starclassic: Building the Industrial Metal Template
 
-Raymond Herrera's Pearl Reference Series kit on *Demanufacture* established the hybrid acoustic/electronic architecture that would define Fear Factory's sound for the rest of the decade. Maple Reference Series shells gave the kit a resonant acoustic body, while a full complement of ddrum and Roland triggers on every drum layered an electronically processed sample beneath each stroke — the combination that producer Colin Richardson and co-producer Rhys Fulber used to sculpt the album's mechanical, industrial character at Indigo Ranch Studios.
+Raymond Herrera's Tama Starclassic kit on *Demanufacture* established the hybrid acoustic/electronic architecture that would define Fear Factory's sound for the rest of the decade. Maple Starclassic shells gave the kit a resonant acoustic body, while a full complement of ddrum and Roland triggers on every drum layered an electronically processed sample beneath each stroke — the combination that producer Colin Richardson and co-producer Rhys Fulber used to sculpt the album's mechanical, industrial character at Indigo Ranch Studios.
 
 The double 22" kick drum configuration was the engine of the record. On the title track and "Replica," Herrera's kick patterns run in sustained sixteenth-note grids at tempos that made the drums function almost like a sequencer — a rhythmic constant underpinning the guitar riffs rather than simply accenting them. Each stroke fired its ddrum trigger with the same velocity and timing as the last, giving the kick drum sound a machine-like consistency that mirrored the album's lyrical themes of industrial dehumanization.
 
@@ -51,11 +51,11 @@ The china cymbal gets particular emphasis on *Demanufacture* — its aggressive,
 
 ## Demanufacture: The Blueprint for Industrial Metal Drumming
 
-Fear Factory's *Demanufacture* is the record where industrial metal drumming was invented in practice rather than theory. Raymond Herrera's Pearl Reference Series kit — fully triggered with ddrum and Roland sensors, driven by a DW 5000 Series double pedal, cut through by Zildjian Z Custom cymbals — gave producers Colin Richardson and Rhys Fulber the raw material to sculpt a drum sound that matched the album's mechanical, dehumanized concept at Indigo Ranch Studios. Thirty years on, it remains the first reference point for any drummer building a triggered hybrid kit for heavy music.
+Fear Factory's *Demanufacture* is the record where industrial metal drumming was invented in practice rather than theory. Raymond Herrera's Tama Starclassic kit — fully triggered with ddrum and Roland sensors, driven by a DW 5000 Series double pedal, cut through by Zildjian Z Custom cymbals — gave producers Colin Richardson and Rhys Fulber the raw material to sculpt a drum sound that matched the album's mechanical, dehumanized concept at Indigo Ranch Studios. Thirty years on, it remains the first reference point for any drummer building a triggered hybrid kit for heavy music.
 
 The gear that made it possible:
 
-- **Pearl Reference Series**: Maple shells providing the acoustic body and consistent trigger response beneath every stroke
+- **Tama Starclassic**: Maple shells providing the acoustic body and consistent trigger response beneath every stroke
 - **ddrum/Roland triggers**: Full-kit triggering — the electronic layer that turned acoustic performance into industrial metal's mechanical signature sound
 - **DW 5000 Series Double Pedal**: The engine behind the sustained machine-gun double-kick grids on "Replica" and the title track
 - **Zildjian Z Custom cymbals**: Upper-frequency projection cutting through *Demanufacture*'s dense industrial guitar wall
@@ -74,22 +74,22 @@ For deeper exploration:
 
 - Released June 13, 1995 — Gold-certified (RIAA) US, the album that defined industrial metal drumming
 - Recorded at Indigo Ranch Studios, Malibu, CA; produced by Colin Richardson & Rhys Fulber after scrapped initial Ross Robinson sessions
-- Pearl Reference Series with full ddrum/Roland trigger integration across kick, snare, and toms
+- Tama Starclassic with full ddrum/Roland trigger integration across kick, snare, and toms
 - DW 5000 Series Double Pedal driving the machine-gun double-kick patterns on "Replica" and the title track
 - Zildjian Z Custom cymbals for upper-frequency cut through industrial metal's dense guitar wall
 - Herrera's precision double bass technique on this album became the industrial metal drumming template — first-generation influence still cited today
-- Pearl Reference Series — maple shells for consistent trigger response, first deployed at this scale on Demanufacture
+- Tama Starclassic — maple shells for consistent trigger response, first deployed at this scale on Demanufacture
 - Double 22" bass drums with individual ddrum triggers — the machine-gun double-kick engine behind "Replica" and the title track
 - All toms triggered — acoustic resonance layered with electronic samples for the album's mechanical character
 - Recorded at Indigo Ranch Studios, Malibu, CA under producer Colin Richardson
-- Estimated kit value: $3,000–5,500 (Pearl Reference Series shell pack)
+- Estimated kit value: $3,000–5,500 (Tama Starclassic shell pack)
 - Estimated snare value: $400–800
 
 ## Frequently Asked Questions
 
 **Q: What drums did Raymond Herrera use on Fear Factory's Demanufacture?**
 
-A: Raymond Herrera used a Pearl Reference Series drum kit on Fear Factory's *Demanufacture* (1995): two 22" x 18" bass drums in a double kick configuration, rack toms at 10" and 12", and floor toms at 16" and 18". Every drum — kick, snare, and toms — was fitted with a ddrum or Roland trigger, the electronic layer that defines Fear Factory's hybrid drum sound. His snare was a Tama 14" x 6.5" Brass model, also triggered. He drove the kit with a DW 5000 Series double bass pedal and cut through the mix with Zildjian Z Custom cymbals. Pro-Mark 5A Oak Nylon Tip sticks completed the setup. For the full gear breakdown across Herrera's career: [Raymond Herrera at MetalForge](/drummer/raymond-herrera).
+A: Raymond Herrera used a Tama Starclassic drum kit on Fear Factory's *Demanufacture* (1995): two 22" x 18" bass drums in a double kick configuration, rack toms at 10" and 12", and floor toms at 16" and 18". Every drum — kick, snare, and toms — was fitted with a ddrum or Roland trigger, the electronic layer that defines Fear Factory's hybrid drum sound. His snare was a Tama 14" x 6.5" Brass model, also triggered. He drove the kit with a DW 5000 Series double bass pedal and cut through the mix with Zildjian Z Custom cymbals. Pro-Mark 5A Oak Nylon Tip sticks completed the setup. For the full gear breakdown across Herrera's career: [Raymond Herrera at MetalForge](/drummer/raymond-herrera).
 
 **Q: How fast is Raymond Herrera's double bass drumming on Demanufacture?**
 
@@ -97,7 +97,7 @@ A: Herrera's double-kick patterns on *Demanufacture* — most notably on "Replic
 
 **Q: What defined Fear Factory's sound on Demanufacture?**
 
-A: Two elements defined *Demanufacture*'s sound: the collision of death metal aggression with groove metal riffing on guitar, and Raymond Herrera's hybrid acoustic/electronic drum kit underneath it. Herrera's Pearl Reference Series drums, triggered throughout with ddrum and Roland sensors, produced a mechanical, processed drum sound that matched the album's lyrical themes of industrial dehumanization — a sonic idea that had no direct precedent in metal production up to that point. Producer Colin Richardson, working with co-producer Rhys Fulber at Indigo Ranch Studios after scrapping an earlier attempt with Ross Robinson, sculpted that hybrid drum signal into the tight, robotic sound that became industrial metal's production template. Robb Flynn has cited *Demanufacture* as a key influence on the industrial/groove metal crossover, and the album remains the reference point cited by drummers building hybrid triggered kits three decades later.
+A: Two elements defined *Demanufacture*'s sound: the collision of death metal aggression with groove metal riffing on guitar, and Raymond Herrera's hybrid acoustic/electronic drum kit underneath it. Herrera's Tama Starclassic drums, triggered throughout with ddrum and Roland sensors, produced a mechanical, processed drum sound that matched the album's lyrical themes of industrial dehumanization — a sonic idea that had no direct precedent in metal production up to that point. Producer Colin Richardson, working with co-producer Rhys Fulber at Indigo Ranch Studios after scrapping an earlier attempt with Ross Robinson, sculpted that hybrid drum signal into the tight, robotic sound that became industrial metal's production template. Robb Flynn has cited *Demanufacture* as a key influence on the industrial/groove metal crossover, and the album remains the reference point cited by drummers building hybrid triggered kits three decades later.
 
 **Q: Who produced Demanufacture and where was it recorded?**
 
@@ -107,8 +107,17 @@ A: *Demanufacture* was recorded at Indigo Ranch Studios in Malibu, California, a
 
 A: The title track "Demanufacture" and "Replica" are the essential Herrera performances on the album — both built around sustained machine-gun double-kick grids that became the industrial metal drumming reference point. "Zero Signal" and "Self Bias Resistor" showcase the triggered snare's mechanical crack against tight, structured verse-chorus arrangements. "H-K (Hunter-Killer)" features prominent china cymbal work driving its most aggressive sections. "A Therapy for Pain" and closer "Dog Day Sunrise" demonstrate the hybrid kit's range at slower, more atmospheric tempos, proving the triggered setup wasn't built for speed alone. For the next chapter in Herrera's Fear Factory arc: [Obsolete drum setup](/articles/obsolete-drum-setup).
 
+## Related Articles
+
+- [Raymond Herrera's Drum Setup — Fear Factory's Industrial Metal Hybrid Kit](https://metalforge.io/articles/raymond-herrera-drum-setup)
+- [Obsolete Drum Setup: Raymond Herrera's 1998 Fear Factory Kit Breakdown](https://metalforge.io/articles/obsolete-drum-setup)
+
+## Related Drummers
+
+- [Raymond Herrera](https://metalforge.io/drummer/raymond-herrera)
+
 **Source:** https://metalforge.io/articles/demanufacture-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

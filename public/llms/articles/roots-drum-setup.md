@@ -122,8 +122,21 @@ A: On Roots in 1996, Igor Cavalera used the Paiste RUDE series exclusively. His 
 
 A: At the time of recording in 1996, a Pearl Masters Custom kit was priced at approximately $2,500 to $3,500. Today, used Pearl Masters Custom kits from the mid-1990s can be found for $800 to $2,000 depending on condition. The Pearl Sensitone Steel snare adds roughly $150 to $300 on the used market. A matching set of vintage Paiste RUDE cymbals would cost $1,000 to $2,000, putting a complete replica in the $2,000 to $4,500 range.
 
+## Related Articles
+
+- [What's In Igor Cavalera's Tribal Arsenal: Complete Gear Breakdown](https://metalforge.io/articles/whats-in-igor-cavaleras-kit)
+- [Chaos A.D. Drum Setup: Igor Cavalera's Groove Metal Revolution](https://metalforge.io/articles/chaos-ad-drum-setup)
+- [From Mars to Sirius Drum Setup: Mario Duplantier's Breakthrough Gear](https://metalforge.io/articles/from-mars-to-sirius-drum-setup)
+- [Iowa Drum Setup: Joey Jordison's Gear Breakdown](https://metalforge.io/articles/iowa-drum-setup)
+
+## Related Drummers
+
+- [Eloy Casagrande](https://metalforge.io/drummer/eloy-casagrande)
+- [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo)
+- [Joey Jordison](https://metalforge.io/drummer/joey-jordison)
+
 **Source:** https://metalforge.io/articles/roots-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

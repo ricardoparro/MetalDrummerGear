@@ -111,8 +111,19 @@ A: Traced in Air (2008) is more accurately described as progressive metal or jaz
 
 A: Cynic dissolved in 1994 after Focus (1993) failed to find commercial traction despite its critical reputation. Sean Reinert and Paul Masvidal pursued other projects — including Reinert's work with Gordian Knot and Æon Spoke — before reconnecting around 2006 with renewed creative energy and a new musical direction. Traced in Air (2008) reflected both musicians' development in the intervening years: more ambient, more melodic, and more confident in the jazz-progressive identity that had always underpinned Cynic's work. The reunion was partly enabled by the growing critical recognition of Focus as a landmark album, which gave the band a renewed audience who appreciated what they had accomplished in 1993.
 
+## Related Articles
+
+- [Cynic Focus Drum Setup: Sean Reinert's 1993 Progressive Death Metal Gear](https://metalforge.io/articles/focus-drum-setup)
+- [Human Drum Setup: Sean Reinert's Jazz-Death Masterpiece](https://metalforge.io/articles/human-drum-setup)
+- [What's In Sean Reinert's Progressive Arsenal: A Tribute to Jazz-Death Metal's Pioneer](https://metalforge.io/articles/whats-in-sean-reinerts-kit)
+
+## Related Drummers
+
+- [Gene Hoglan](https://metalforge.io/drummer/gene-hoglan)
+- [George Kollias](https://metalforge.io/drummer/george-kollias)
+
 **Source:** https://metalforge.io/articles/traced-in-air-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

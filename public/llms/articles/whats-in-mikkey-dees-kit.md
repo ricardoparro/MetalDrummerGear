@@ -149,8 +149,20 @@ A: Mikkey Dee plays Paiste Signature Series cymbals — he's been a Paiste artis
 
 A: A Sonor SQ2 custom-build shell pack in Mikkey Dee's configuration currently retails between $4,000 and $7,000 depending on finish and configuration. His Sonor Mikkey Dee Signature snare adds $500 to $800. A matching Paiste Signature Series cymbal package can bring the total investment to $10,000 to $14,000, making it a serious professional setup appropriate for touring and studio work.
 
+## Related Articles
+
+- [What's In Nicko McBrain's Iron Maiden Arsenal](https://metalforge.io/articles/whats-in-nicko-mcbrains-kit)
+- [Painkiller Drum Setup: Scott Travis's Speed Metal Revolution](https://metalforge.io/articles/painkiller-drum-setup)
+- [Master of Puppets Drum Setup: Lars Ulrich's Gear Breakdown](https://metalforge.io/articles/master-of-puppets-drum-setup)
+
+## Related Drummers
+
+- [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo)
+- [Lars Ulrich](https://metalforge.io/drummer/lars-ulrich)
+- [Nicko McBrain](https://metalforge.io/drummer/nicko-mcbrain)
+
 **Source:** https://metalforge.io/articles/whats-in-mikkey-dees-kit
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

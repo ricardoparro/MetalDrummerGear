@@ -25,7 +25,7 @@ This article explores the massive setup that supports Mangini's scientific appro
 - **Drums:** Pearl Pearl Reference Series (custom configuration) (Custom configurations varying by tour finish)
 - **Snare:** Pearl Pearl Reference Series Snares (Multiple), 14" x 5" and 14" x 6.5"
 - **Cymbals:** Sabian — Sabian HHX / AAX combination
-- **Hardware / Pedals:** Pearl Demon Drive Double Pedal; Pearl H-2050 Eliminator Hi-Hat Stand; Pearl Roadster; Vic Firth Mike Mangini Signature; Roland TD-50 Module
+- **Hardware / Pedals:** Pearl Demon Drive Double Pedal; Pearl H-2050 Eliminator Hi-Hat Stand; Pearl Roadster; Vater Mike Mangini Wicked Piston (VHMMWP); Roland TD-50 Module
 - **Heads:** Remo Emperor Coated (batter), Remo Ambassador Snare Side (resonant)
 - **Snare tuning:** Medium tension for sensitivity; adjusted per song requirements
 
@@ -71,7 +71,7 @@ Mangini's cymbal positioning, like his drum layout, follows ergonomic principles
 
 Mike Mangini represents something unique in the drumming world: proof that scientific analysis and academic rigor can achieve results on par with raw natural talent. His Guinness World Records, his Berklee professorship, and his Dream Theater tenure all demonstrate that there's more than one path to the top.
 
-The gear Mangini uses — Pearl Reference Series drums, Sabian cymbals, his signature Vic Firth sticks — is excellent equipment, but it's not what makes him exceptional. What makes him exceptional is the decades of study that allow him to extract maximum performance from any setup. The same biomechanical analysis that enabled his world records informs every aspect of his playing.
+The gear Mangini uses — Pearl Reference Series drums, Sabian cymbals, his signature Vater Wicked Piston sticks — is excellent equipment, but it's not what makes him exceptional. What makes him exceptional is the decades of study that allow him to extract maximum performance from any setup. The same biomechanical analysis that enabled his world records informs every aspect of his playing.
 
 **Lessons from Mike Mangini:**
 - **Science serves art**: Analysis and optimization can enhance, not replace, musical expression
@@ -117,8 +117,23 @@ A: Mike Mangini relies on Sabian's HHX and AAX lines for his extensive cymbal se
 
 A: A Pearl Reference Series shell pack comparable to Mangini's configuration ranges from $8,000 to $15,000, with custom finishes and extra toms pushing costs higher. Multiple Pearl Reference Series snares add $600 to $900 each. His expansive Sabian HHX and AAX cymbal rig, featuring two rides and multiple crashes, would cost $4,000 to $6,000 to replicate. A full recreation of his Dream Theater setup is realistically priced between $14,000 and $23,000.
 
+## Related Articles
+
+- [What's In Mike Portnoy's Reunion Kit: Dream Theater 2025 Complete Breakdown](https://metalforge.io/articles/whats-in-mike-portnoys-kit)
+- [What's In Tomas Haake's Polyrhythmic Arsenal: Complete Gear Breakdown](https://metalforge.io/articles/whats-in-tomas-haakes-kit)
+- [Top 10 Progressive Metal Drummers](https://metalforge.io/lists/progressive-metal-drummers)
+- [Images and Words Drum Setup: Mike Portnoy's Progressive Metal Breakthrough](https://metalforge.io/articles/images-and-words-drum-setup)
+- [Lateralus Drum Setup: Danny Carey's Progressive Masterpiece](https://metalforge.io/articles/lateralus-drum-setup)
+- [Master of Puppets Drum Setup: Lars Ulrich's Gear Breakdown](https://metalforge.io/articles/master-of-puppets-drum-setup)
+
+## Related Drummers
+
+- [Mike Portnoy](https://metalforge.io/drummer/mike-portnoy)
+- [Tomas Haake](https://metalforge.io/drummer/tomas-haake)
+- [Danny Carey](https://metalforge.io/drummer/danny-carey)
+
 **Source:** https://metalforge.io/articles/whats-in-mike-manginis-kit
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

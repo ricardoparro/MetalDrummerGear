@@ -101,8 +101,20 @@ A: *Aftershock* debuted at #22 on the Billboard 200 in the United States — Mot
 
 A: Dee's Paiste artist relationship — dating back to April 1987, more than 26 years before *Aftershock* — continued uninterrupted, but the cymbal configuration itself expanded on this record: a wider 21" Signature Series ride joined the familiar Sound Edge hi-hats, Full Crashes, and China. The change arrived alongside a new Pearl Free-Floating steel snare and a new Pearl Demon Drive pedal, making *Aftershock* the site of the most concentrated hardware turnover in Dee's Motörhead career. The resulting expanded Paiste Signature Series setup carried forward unchanged through [*Bad Magic*](/articles/bad-magic-drum-setup) (2015).
 
+## Related Articles
+
+- [The Wörld Is Yours Drum Setup: Mikkey Dee's Gear on Motörhead's 2010 Album](https://metalforge.io/articles/the-world-is-yours-drum-setup)
+- [Bad Magic Drum Setup: Mikkey Dee's Gear on Motörhead's Final Album](https://metalforge.io/articles/bad-magic-drum-setup)
+- [What's In Mikkey Dee's Motörhead/Scorpions Arsenal: 23 Years Behind Rock's Loudest Band](https://metalforge.io/articles/whats-in-mikkey-dees-kit)
+
+## Related Drummers
+
+- [Hellhammer](https://metalforge.io/drummer/hellhammer)
+- [Lars Ulrich](https://metalforge.io/drummer/lars-ulrich)
+- [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo)
+
 **Source:** https://metalforge.io/articles/aftershock-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

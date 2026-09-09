@@ -103,8 +103,20 @@ A: The band that recorded Terra Incognita had existed since 1996 under the name 
 
 A: Terra Incognita is the 2001 origin point of Mario's recorded discography. From here, his gear evolved through The Link (2003), then dramatically upgraded to the Tama Starclassic Performer / Zildjian K Custom rig on From Mars to Sirius (2005), refined further on The Way of All Flesh (2008), and eventually settled into the Tama Starclassic Bubinga / Zildjian K Custom / A Custom / Z Custom signature setup he uses today. What stays constant across this entire arc — and what is already audible on Terra Incognita — is the tribal four-tom phrasing, the grooving (not blasting) double bass approach, and the dynamic restraint that distinguish Mario's playing from most of his death metal peers.
 
+## Related Articles
+
+- [Top 10 Progressive Metal Drummers](https://metalforge.io/lists/progressive-metal-drummers)
+- [From Mars to Sirius Drum Setup: Mario Duplantier's Breakthrough Gear](https://metalforge.io/articles/from-mars-to-sirius-drum-setup)
+- [Magma Drum Setup: Mario Duplantier's Tama Bubinga Breakthrough](https://metalforge.io/articles/magma-drum-setup)
+
+## Related Drummers
+
+- [Tomas Haake](https://metalforge.io/drummer/tomas-haake)
+- [Danny Carey](https://metalforge.io/drummer/danny-carey)
+- [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo)
+
 **Source:** https://metalforge.io/articles/terra-incognita-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

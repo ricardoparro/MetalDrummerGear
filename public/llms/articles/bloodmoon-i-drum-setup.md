@@ -104,8 +104,20 @@ A: Bloodmoon: I (2021) is the most atmospheric and dynamically restrained record
 
 A: Bloodmoon: I (2021) was written, recorded, and mixed by Kurt Ballou at GodCity Studio in Salem, Massachusetts — the same studio and engineer behind every Converge album since Jane Doe (2001). Ballou's mix on this record uses considerably more room ambience than a typical Converge production, giving Ben Koller's drums space to coexist with Chelsea Wolfe's vocal layers rather than dominate them.
 
+## Related Articles
+
+- [Ben Koller's Complete Drum Setup — Converge Gear Guide](https://metalforge.io/articles/ben-koller-drum-setup)
+- [Ben Koller's Drum Setup on Converge's The Dusk in Us (2017)](https://metalforge.io/articles/the-dusk-in-us-drum-setup)
+- [Ben Koller's Drum Setup on Converge's Axe to Fall (2009)](https://metalforge.io/articles/axe-to-fall-drum-setup)
+
+## Related Drummers
+
+- [Joey Jordison](https://metalforge.io/drummer/joey-jordison)
+- [Charlie Benante](https://metalforge.io/drummer/charlie-benante)
+- [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo)
+
 **Source:** https://metalforge.io/articles/bloodmoon-i-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

@@ -109,8 +109,22 @@ A: New American Gospel was produced by Steve Austin, best known as the frontman 
 
 A: New American Gospel represents Chris Adler's pre-endorsement era: a budget Pearl Export kit, mixed Zildjian/Sabian cymbals, and a single bass drum with a chain-drive double pedal. By As the Palaces Burn (2003), he had upgraded to a professional Mapex Pro M kit and Zildjian A Custom cymbals, and by Ashes of the Wake (2004) he had settled into the Mapex/Meinl Byzance combination and dual bass drum configuration that defined his mature sound through Sacrament (2006), Wrath (2009), and Resolution (2012). The groove-first philosophy and China cymbal accents, however, are already present in embryonic form on New American Gospel.
 
+## Related Articles
+
+- [Top 10 Groove Metal Drummers](https://metalforge.io/lists/groove-metal-drummers)
+- [What's In Chris Adler's Lamb of God Arsenal: Complete Gear Breakdown](https://metalforge.io/articles/whats-in-chris-adlers-kit)
+- [As the Palaces Burn Drum Setup: Chris Adler's 2003 Breakout Kit](https://metalforge.io/articles/as-the-palaces-burn-drum-setup)
+- [Lamb of God 'Sacrament' Drum Setup — Chris Adler's 2006 Grammy-Era Kit](https://metalforge.io/articles/sacrament-drum-setup)
+- [Lamb of God 'Wrath' Drum Setup — Chris Adler's Grammy-Nominated 2009 Kit](https://metalforge.io/articles/wrath-drum-setup)
+
+## Related Drummers
+
+- [Vinnie Paul](https://metalforge.io/drummer/vinnie-paul)
+- [Joey Jordison](https://metalforge.io/drummer/joey-jordison)
+- [Mario Duplantier](https://metalforge.io/drummer/mario-duplantier)
+
 **Source:** https://metalforge.io/articles/new-american-gospel-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

@@ -106,8 +106,23 @@ A: Dark Angel's last album before breaking up was Time Does Not Heal, released M
 
 A: Gene Hoglan recorded Dark Angel's Time Does Not Heal (1991) using a Tama Rockstar kit — the same setup he had used on Leave Scars (1989). His configuration retained the twin 22" x 16" bass drums for independent double-kick, with 10" and 12" rack toms and 14" and 16" floor toms. His snare remained the Ludwig Acrolite aluminum model at 14" x 5" — consistent throughout all Dark Angel studio albums. Cymbals were Paiste 2002 series, expanded with an added 19" Wild Crash over the Leave Scars configuration. Pedals were Tama Iron Cobra singles, one per bass drum.
 
+## Related Articles
+
+- [Gene Hoglan Drum Setup: The Atomic Clock Complete Gear Guide](https://metalforge.io/articles/gene-hoglan-drum-setup)
+- [What's In Gene Hoglan's Atomic Arsenal: Complete Gear Breakdown](https://metalforge.io/articles/whats-in-gene-hoglans-kit)
+- [Top 10 Thrash Metal Drummers](https://metalforge.io/lists/thrash-metal-drummers)
+- [Leave Scars Drum Setup: Gene Hoglan's Groove-Within-Speed Mastery (Dark Angel, 1989)](https://metalforge.io/articles/leave-scars-drum-setup)
+- [Darkness Descends Drum Setup: Gene Hoglan's Breakthrough (Dark Angel, 1986)](https://metalforge.io/articles/darkness-descends-drum-setup)
+- [Individual Thought Patterns Drum Setup: Gene Hoglan's First Death Album](https://metalforge.io/articles/individual-thought-patterns-drum-setup)
+
+## Related Drummers
+
+- [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo)
+- [George Kollias](https://metalforge.io/drummer/george-kollias)
+- [Pete Sandoval](https://metalforge.io/drummer/pete-sandoval)
+
 **Source:** https://metalforge.io/articles/time-does-not-heal-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

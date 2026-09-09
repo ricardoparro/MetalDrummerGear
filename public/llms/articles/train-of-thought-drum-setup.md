@@ -117,8 +117,21 @@ A: For Train of Thought, Mike Portnoy used Pearl Eliminator double pedals — hi
 
 A: The two setups reflect fundamentally different albums. Key differences: (1) Kit size — Train of Thought expanded to ~13 drums vs. Scenes from a Memory's 8-drum configuration; (2) Cymbals — Sabian AAX (bright, aggressive) vs. Sabian Artisan (dark, hand-hammered, warm); (3) Pedals — Pearl Eliminator (multi-cam, power-focused) vs. DW 5000 (chain-drive, smooth); (4) Playing philosophy — Metallica/Pantera-influenced maximum heaviness vs. narrative-serving concept-album dynamics. The Starclassic Maple shell platform was shared between both eras, but everything built on top of it shifted dramatically. See the [Scenes from a Memory drum setup article](/articles/scenes-from-a-memory-drum-setup) for the full SFaM breakdown.
 
+## Related Articles
+
+- [Top 10 Progressive Metal Drummers](https://metalforge.io/lists/progressive-metal-drummers)
+- [What's In Mike Portnoy's Reunion Kit: Dream Theater 2025 Complete Breakdown](https://metalforge.io/articles/whats-in-mike-portnoys-kit)
+- [Metropolis Pt. 2: Scenes from a Memory Drum Setup — Mike Portnoy's Magnum Opus](https://metalforge.io/articles/scenes-from-a-memory-drum-setup)
+- [Images and Words Drum Setup: Mike Portnoy's Progressive Metal Breakthrough](https://metalforge.io/articles/images-and-words-drum-setup)
+
+## Related Drummers
+
+- [Danny Carey](https://metalforge.io/drummer/danny-carey)
+- [Tomas Haake](https://metalforge.io/drummer/tomas-haake)
+- [Lars Ulrich](https://metalforge.io/drummer/lars-ulrich)
+
 **Source:** https://metalforge.io/articles/train-of-thought-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

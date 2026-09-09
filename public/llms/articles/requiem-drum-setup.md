@@ -101,8 +101,21 @@ A: Requiem (2022) was produced by Chris Collier alongside Korn themselves. Recor
 
 A: "Start the Healing" was the lead single from Korn's Requiem, released November 11, 2021, ahead of the album's February 4, 2022 release. The track reached #1 on the Mediabase Active Rock radio chart in February 2022, making it one of Korn's biggest rock-radio successes of the era and setting the tone for Requiem's blend of accessibility and atmospheric restraint.
 
+## Related Articles
+
+- [The Nothing Drum Setup: Ray Luzier's 2019 Korn Gear Breakdown](https://metalforge.io/articles/the-nothing-drum-setup)
+- [Serenity of Suffering Drum Setup: Ray Luzier's 2016 Korn Gear Breakdown](https://metalforge.io/articles/serenity-of-suffering-drum-setup)
+- [Korn III Drum Setup: Ray Luzier's 2010 Debut with Korn Gear Breakdown](https://metalforge.io/articles/korn-iii-drum-setup)
+- [Ray Luzier Drum Setup: Korn's Groove Machine Complete Gear Guide](https://metalforge.io/articles/whats-in-ray-luziers-kit)
+
+## Related Drummers
+
+- [Joey Jordison](https://metalforge.io/drummer/joey-jordison)
+- [Eloy Casagrande](https://metalforge.io/drummer/eloy-casagrande)
+- [Lars Ulrich](https://metalforge.io/drummer/lars-ulrich)
+
 **Source:** https://metalforge.io/articles/requiem-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

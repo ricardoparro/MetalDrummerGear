@@ -104,8 +104,20 @@ A: By Periphery III: Select Difficulty (2016), Matt Halpern's Meinl Byzance cymb
 
 A: Matt Halpern used DW 9000 double pedals on Periphery III: Select Difficulty. The DW 9000's chain drive and Floating Rotor system provide the smooth, adjustable response that Halpern prefers for his groove-focused approach — a slight organic swing that distinguishes his feel from the more linear, direct-drive setups common in extreme metal. The 9000's extensive customization options let Halpern dial in spring tension and beater angle for the aggressive passages of 'The Price Is Wrong' and 'Motormouth' while maintaining the feel he needs for the ghost note work on 'Lune' and 'Catch Fire.'
 
+## Related Articles
+
+- [Matt Halpern's Drum Setup on Periphery II: This Time It's Personal (2012)](https://metalforge.io/articles/periphery-ii-drum-setup)
+- [Matt Halpern's Drum Setup on Periphery IV: Hail Stan (2019)](https://metalforge.io/articles/periphery-iv-drum-setup)
+- [What's In Matt Halpern's Periphery Kit: Complete Gear Breakdown](https://metalforge.io/articles/whats-in-matt-halperns-kit)
+
+## Related Drummers
+
+- [Matt Garstka](https://metalforge.io/drummer/matt-garstka)
+- [Tomas Haake](https://metalforge.io/drummer/tomas-haake)
+- [Gavin Harrison](https://metalforge.io/drummer/gavin-harrison)
+
 **Source:** https://metalforge.io/articles/periphery-iii-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

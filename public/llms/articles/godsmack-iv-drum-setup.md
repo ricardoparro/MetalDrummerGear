@@ -113,8 +113,19 @@ A: On *IV* (2006), Shannon Larkin transitioned from the DW 9000 double bass peda
 
 A: Godsmack's *IV* (released April 25, 2006, on Republic Records) debuted at #2 on the Billboard 200 — one position below the #1 peak of its predecessor *Faceless* (2003). The album was certified Platinum in the United States, demonstrating that Godsmack maintained their large commercial following even with a heavier, less accessible direction. The #2 debut made *IV* one of the strongest-charting hard rock releases of 2006, a year when the format was facing commercial contraction. Shannon Larkin's drumming on *IV* — driving the album's harder-hitting arrangements with the ddrum Dios Series kit and Sabian HH/HHX cymbals — was central to the album's ability to satisfy both the band's existing audience and the harder rock direction they pursued.
 
+## Related Articles
+
+- [Shannon Larkin Drum Setup — Godsmack's Complete Gear Guide](https://metalforge.io/articles/shannon-larkin-drum-setup)
+- [Faceless Drum Setup: Shannon Larkin's Gear on Godsmack's #1 Billboard Album (2003)](https://metalforge.io/articles/faceless-drum-setup)
+
+## Related Drummers
+
+- [Ray Luzier](https://metalforge.io/drummer/ray-luzier)
+- [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo)
+- [Lars Ulrich](https://metalforge.io/drummer/lars-ulrich)
+
 **Source:** https://metalforge.io/articles/godsmack-iv-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

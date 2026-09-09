@@ -108,8 +108,21 @@ A: Mike Portnoy used a Tama Starclassic Maple kit for the Nightmare (2010) sessi
 
 A: "So Far Away" — the Grammy-nominated tribute ballad from Nightmare — received Academy recognition for its emotional power and craft. The album debuted at #1 on the Billboard 200, went Multi-Platinum in the United States, and reached the UK Top 3. Nightmare is Avenged Sevenfold's highest-charting album and one of the most commercially successful heavy metal records of 2010.
 
+## Related Articles
+
+- [Top 10 Progressive Metal Drummers](https://metalforge.io/lists/progressive-metal-drummers)
+- [What's In Mike Portnoy's Reunion Kit: Dream Theater 2025 Complete Breakdown](https://metalforge.io/articles/whats-in-mike-portnoys-kit)
+- [Arin Ilejay's Drum Setup on Avenged Sevenfold's Hail to the King (2013)](https://metalforge.io/articles/hail-to-the-king-drum-setup)
+- [Arin Ilejay's Drum Setup — Avenged Sevenfold's Hail to the King Era](https://metalforge.io/articles/arin-ilejay-drum-setup)
+- [Systematic Chaos Drum Setup — Mike Portnoy's Grammy-Nominated 2007 Dream Theater Kit](https://metalforge.io/articles/systematic-chaos-drum-setup)
+
+## Related Drummers
+
+- [Mike Portnoy](https://metalforge.io/drummer/mike-portnoy)
+- [Arin Ilejay](https://metalforge.io/drummer/arin-ilejay)
+
 **Source:** https://metalforge.io/articles/nightmare-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

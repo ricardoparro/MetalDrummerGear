@@ -124,8 +124,19 @@ A: Matt Halpern plays Meinl Byzance cymbals, drawing from the Traditional, Extra
 
 A: The Pearl Reference Series shell pack retails for approximately $4,500 to $6,000. Adding a Pearl Reference series snare brings in an additional $450 to $800. A full Meinl Byzance cymbal setup across multiple series typically costs $3,000 to $5,000. In total, a complete Matt Halpern-inspired rig runs roughly $9,000 to $12,000.
 
+## Related Articles
+
+- [What's In Matt Garstka's Kit: The Jazz-Fusion Meets Progressive Metal Arsenal](https://metalforge.io/articles/whats-in-matt-garstkas-kit)
+- [obZen Drum Setup: Tomas Haake's Legendary "Bleed" Gear Breakdown](https://metalforge.io/articles/obzen-drum-setup)
+
+## Related Drummers
+
+- [Matt Garstka](https://metalforge.io/drummer/matt-garstka)
+- [Tomas Haake](https://metalforge.io/drummer/tomas-haake)
+- [Gavin Harrison](https://metalforge.io/drummer/gavin-harrison)
+
 **Source:** https://metalforge.io/articles/whats-in-matt-halperns-kit
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

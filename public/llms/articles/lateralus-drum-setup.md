@@ -25,7 +25,7 @@ What emerged was an album that challenged listeners while remaining emotionally 
 - **Drums:** Sonor Sonor Designer Series / Proto-SQ2 (Custom Vintage Natural High Gloss finish)
 - **Snare:** Sonor Sonor Danny Carey Signature Bronze (prototype), 14" x 8"
 - **Cymbals:** Paiste — Paiste Signature Series / Traditional
-- **Hardware / Pedals:** DW 5000 Series Single Pedal; DW 5000 Series Hi-Hat Stand; Roc-N-Soc Nitro Throne with Extended Height; Vic Firth Danny Carey Signature
+- **Hardware / Pedals:** Unconfirmed; Unconfirmed; Roc-N-Soc Nitro Throne with Extended Height; Vic Firth Danny Carey Signature
 - **Heads:** Remo Coated Ambassador (batter), Remo Ambassador Snare Side (resonant)
 - **Snare tuning:** Medium-high tension, moderate snare wire tension for dynamic range
 
@@ -116,8 +116,21 @@ A: Danny Carey used Paiste Signature and Traditional series cymbals on Lateralus
 
 A: At the time of the 2001 recording, the Sonor Designer Series kit was valued at approximately $5,000 to $7,000. Today, comparable vintage Sonor Designer kits sell on the used market for $1,500 to $4,000. The prototype bronze snare Carey used is not commercially available, but a production Sonor Danny Carey Signature Bronze Snare runs $1,800 to $2,000. A matching Paiste cymbal setup adds another $2,000 to $4,000.
 
+## Related Articles
+
+- [Top 10 Progressive Metal Drummers](https://metalforge.io/lists/progressive-metal-drummers)
+- [Ænima Drum Setup: Danny Carey's 1996 Tool Kit Breakdown](https://metalforge.io/articles/aenima-drum-setup)
+- [Fear Inoculum Drum Setup: Danny Carey's Grammy-Winning Sound](https://metalforge.io/articles/fear-inoculum-drum-setup)
+- [obZen Drum Setup: Tomas Haake's Legendary "Bleed" Gear Breakdown](https://metalforge.io/articles/obzen-drum-setup)
+
+## Related Drummers
+
+- [Tomas Haake](https://metalforge.io/drummer/tomas-haake)
+- [Mario Duplantier](https://metalforge.io/drummer/mario-duplantier)
+- [Chris Adler](https://metalforge.io/drummer/chris-adler)
+
 **Source:** https://metalforge.io/articles/lateralus-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

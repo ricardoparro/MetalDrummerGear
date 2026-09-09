@@ -109,8 +109,20 @@ A: Between The Link (2003) and From Mars to Sirius (2005), Mario Duplantier made
 
 A: Mario Duplantier used Zildjian A and ZBT series cymbals on Gojira's The Link (2003). His setup included 14" A New Beat hi-hats, 17" and 19" A crashes, a 20" A ride, and an 18" ZBT China. These early Zildjian lines are known for a bright, assertive, forward-projecting character — distinct from the darker, more complex Zildjian K Custom Darks Mario would later use on From Mars to Sirius. On The Link's rawer, more direct production, that brightness was an advantage, cutting through the dense guitar arrangements without requiring mix assistance.
 
+## Related Articles
+
+- [What's In Mario Duplantier's Environmental Kit: Complete Gear Breakdown](https://metalforge.io/articles/whats-in-mario-duplantiers-kit)
+- [Top 10 Progressive Death Metal Drummers](https://metalforge.io/lists/progressive-death-metal-drummers)
+- [From Mars to Sirius Drum Setup: Mario Duplantier's Breakthrough Gear](https://metalforge.io/articles/from-mars-to-sirius-drum-setup)
+- [The Way of All Flesh Drum Setup: Mario Duplantier's Death Metal Odyssey](https://metalforge.io/articles/the-way-of-all-flesh-drum-setup)
+
+## Related Drummers
+
+- [Aquiles Priester](https://metalforge.io/drummer/aquiles-priester)
+- [Tomas Haake](https://metalforge.io/drummer/tomas-haake)
+
 **Source:** https://metalforge.io/articles/the-link-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

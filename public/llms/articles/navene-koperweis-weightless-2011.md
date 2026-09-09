@@ -93,8 +93,21 @@ A: Yes. Koperweis joined Animals as Leaders as the band expanded from Tosin Abas
 
 A: No fixed pedal brand is documented for Koperweis's Animals as Leaders tenure — he used undocumented touring-grade chain-drive gear during the Weightless era, with pedal consistency between the primary and secondary beater mattering more than the specific model for his riff-locked kick technique. He later established a fixed pedal endorsement, the DW 9000 Series double pedal, after founding Entheos in 2012.
 
+## Related Articles
+
+- [Top 10 Progressive Metal Drummers](https://metalforge.io/lists/progressive-metal-drummers)
+- [Top 10 Fastest Double Bass Drummers in Metal History](https://metalforge.io/lists/fastest-double-bass-drummers)
+- [What's In Navene Koperweis's Kit: Entheos Drummer Gear Breakdown](https://metalforge.io/articles/whats-in-navene-koperweiss-kit)
+- [obZen Drum Setup: Tomas Haake's Legendary "Bleed" Gear Breakdown](https://metalforge.io/articles/obzen-drum-setup)
+
+## Related Drummers
+
+- [Navene Koperweis](https://metalforge.io/drummer/navene-koperweis)
+- [Matt Garstka](https://metalforge.io/drummer/matt-garstka)
+- [Gene Hoglan](https://metalforge.io/drummer/gene-hoglan)
+
 **Source:** https://metalforge.io/articles/navene-koperweis-weightless-2011
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

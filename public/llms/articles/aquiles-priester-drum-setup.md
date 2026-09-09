@@ -105,8 +105,20 @@ A: Aquiles Priester used a Mapex Saturn Series kit for his early Angra recording
 
 A: Aquiles Priester used Sabian HHX cymbals throughout his Angra classic era (2000–2012). He later moved to Meinl Byzance cymbals during his W.A.S.P./Hangar focus years (2012–2022), and currently endorses Paiste cymbals for his Angra return. The Sabian HHX era is most associated with his most celebrated recordings on Temple of Shadows and Aurora Consurgens.
 
+## Related Articles
+
+- [Top 10 Progressive Metal Drummers](https://metalforge.io/lists/progressive-metal-drummers)
+- [Top 10 Power Metal Drummers](https://metalforge.io/lists/power-metal-drummers)
+- [Aquiles Priester Drum Kit — Complete Angra Gear Guide](https://metalforge.io/articles/aquiles-priester-drum-kit-guide)
+
+## Related Drummers
+
+- [Mike Portnoy](https://metalforge.io/drummer/mike-portnoy)
+- [Tomas Haake](https://metalforge.io/drummer/tomas-haake)
+- [Aquiles Priester](https://metalforge.io/drummer/aquiles-priester)
+
 **Source:** https://metalforge.io/articles/aquiles-priester-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

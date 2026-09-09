@@ -107,8 +107,22 @@ A: Show No Mercy was self-produced by Slayer at Track Recording Studio in Torran
 
 A: The contrast between the two setups traces Lombardo's entire developmental arc. On Show No Mercy (1983), he played a budget Ludwig kit with Zildjian A cymbals, recorded for $8,000 with no professional producer. On Reign in Blood (1986), he used a Tama Artstar II with Paiste 2002 and RUDE cymbals, recorded by Rick Rubin at a professional Hollywood studio. The playing evolved too: Show No Mercy has human tempo surges and raw energy; Reign in Blood delivers the same speeds with machine-like precision. Together they document one of metal's most dramatic three-year developments.
 
+## Related Articles
+
+- [Top 10 Thrash Metal Drummers](https://metalforge.io/lists/thrash-metal-drummers)
+- [Top 10 Fastest Double Bass Drummers in Metal History](https://metalforge.io/lists/fastest-double-bass-drummers)
+- [Dave Lombardo's Drum Setup on Slayer's Hell Awaits (1985)](https://metalforge.io/articles/hell-awaits-drum-setup)
+- [Reign in Blood Drum Setup: Dave Lombardo's Gear Breakdown](https://metalforge.io/articles/reign-in-blood-drum-setup)
+- [Dave Lombardo's Drum Setup on Slayer's South of Heaven (1988)](https://metalforge.io/articles/south-of-heaven-drum-setup)
+
+## Related Drummers
+
+- [Lars Ulrich](https://metalforge.io/drummer/lars-ulrich)
+- [Charlie Benante](https://metalforge.io/drummer/charlie-benante)
+- [Pete Sandoval](https://metalforge.io/drummer/pete-sandoval)
+
 **Source:** https://metalforge.io/articles/show-no-mercy-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

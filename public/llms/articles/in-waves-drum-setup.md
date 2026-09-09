@@ -98,8 +98,20 @@ A: Nick Augusto's core setup across his Trivium tenure (2007–2014) centered on
 
 A: In Waves debuted at #13 on the Billboard 200 upon its August 2011 release — Trivium's best chart placement at the time — and gave the band their first entry into the UK Albums Chart top 20. It served as the commercial bridge between the more progressive, critically acclaimed Shogun (2008) and the even bigger chart success of Vengeance Falls (2013), which reached #15 on the Billboard 200 and cracked the top 10 in Germany and Finland.
 
+## Related Articles
+
+- [How to Play Double Bass Drums for Metal](https://metalforge.io/articles/double-bass-drumming-for-metal)
+- [How to Play Metal Breakdown Beats](https://metalforge.io/articles/breakdown-beat-guide)
+- [Shogun Drum Setup: Nick Augusto's Progressive Thrash Masterpiece (Trivium, 2008)](https://metalforge.io/articles/shogun-drum-setup)
+- [Vengeance Falls Drum Setup: Nick Augusto's David Draiman-Produced Trivium Album (2013)](https://metalforge.io/articles/vengeance-falls-drum-setup)
+- [Ashes of the Wake Drum Setup: Chris Adler's Groove Metal Masterpiece](https://metalforge.io/articles/ashes-of-the-wake-drum-setup)
+
+## Related Drummers
+
+- [Nick Augusto](https://metalforge.io/drummer/nick-augusto)
+
 **Source:** https://metalforge.io/articles/in-waves-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

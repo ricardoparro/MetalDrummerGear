@@ -93,8 +93,18 @@ A: *Guardians* (2020) debuted at #53 on the Billboard 200 and topped the Billboa
 
 A: *Guardians* (2020) sits between *Phantom Anthem* (2017) and *Death Below* (2023) in Matt Greiner's documented gear history. It marks the point where his cymbal setup shifted back to Meinl Byzance Extra Dry and Dual series after the Zildjian A Custom / Sabian AAX pairing used on *Phantom Anthem*, while the Mapex Black Panther Design Lab kit and DW 9000 Series pedal continued unchanged from the 2016 switch away from Pearl. That full configuration — kit, cymbals, and pedal alike — is the same one documented on [Death Below (2023)](/articles/death-below-drum-setup). See the [Matt Greiner drummer profile](/drummer/matt-greiner) for the complete career arc.
 
+## Related Articles
+
+- [Matt Greiner Complete Drum Setup — August Burns Red Gear Guide](https://metalforge.io/articles/matt-greiner-complete-drum-setup)
+- [August Burns Red 'Phantom Anthem' Drum Setup (Matt Greiner, 2017)](https://metalforge.io/articles/abr-phantom-anthem-drum-setup)
+- [August Burns Red 'Death Below' Drum Setup (Matt Greiner, 2023)](https://metalforge.io/articles/death-below-drum-setup)
+
+## Related Drummers
+
+- [Matt Greiner](https://metalforge.io/drummer/matt-greiner)
+
 **Source:** https://metalforge.io/articles/guardians-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

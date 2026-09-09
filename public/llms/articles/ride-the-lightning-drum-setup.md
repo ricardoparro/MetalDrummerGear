@@ -111,8 +111,20 @@ A: Ride the Lightning was recorded at Sweet Silence Studios in Copenhagen, Denma
 
 A: Lars Ulrich used an all-Zildjian A series cymbal setup on Ride the Lightning — a consolidation from the mixed Paiste/Zildjian approach on Kill 'Em All. The setup included Zildjian A 14" New Beat hi-hats, a 16" medium thin crash, an 18" medium crash, a 20" medium ride, and an 18" China Boy. There was no formal Zildjian endorsement at this stage — Lars was using the A series based on preference. This all-Zildjian configuration carried directly into the Master of Puppets sessions.
 
+## Related Articles
+
+- [What's In Lars Ulrich's Kit in 2026: The Most Famous Metal Drummer's Complete Setup](https://metalforge.io/articles/whats-in-lars-ulrichs-kit)
+- [Top 10 Thrash Metal Drummers](https://metalforge.io/lists/thrash-metal-drummers)
+- [Kill 'Em All Drum Setup: Lars Ulrich's 1983 Kit That Launched Thrash Metal](https://metalforge.io/articles/kill-em-all-drum-setup)
+- [Master of Puppets Drum Setup: Lars Ulrich's Gear Breakdown](https://metalforge.io/articles/master-of-puppets-drum-setup)
+
+## Related Drummers
+
+- [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo)
+- [Gene Hoglan](https://metalforge.io/drummer/gene-hoglan)
+
 **Source:** https://metalforge.io/articles/ride-the-lightning-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

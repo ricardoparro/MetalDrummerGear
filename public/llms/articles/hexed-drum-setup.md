@@ -93,8 +93,20 @@ A: On Hexed (2019), Jaska Raatikainen used Zildjian A Custom and K Custom cymbal
 
 A: Yes. Hexed (2019) is Children of Bodom's tenth and final studio album, and it was Jaska Raatikainen's last studio recording with the band before he departed Children of Bodom in November 2019. The album continues the Pearl Masters Premium Maple and Pearl Eliminator setup carried since Are You Dead Yet? (2005). See the [Jaska Raatikainen drummer profile](/drummer/jaska-raatikainen) and the [I Worship Chaos drum setup](/articles/i-worship-chaos-drum-setup) for the Pearl era that Hexed closes out.
 
+## Related Articles
+
+- [Jaska Raatikainen Drum Setup — Children of Bodom Gear Guide](https://metalforge.io/articles/jaska-raatikainen-drum-setup)
+- [I Worship Chaos Drum Setup: Jaska Raatikainen's Gear on Children of Bodom's 2015 Album](https://metalforge.io/articles/i-worship-chaos-drum-setup)
+- [Relentless Reckless Forever Drum Setup: Jaska Raatikainen's Gear on Children of Bodom's 2011 Album](https://metalforge.io/articles/relentless-reckless-forever-drum-setup)
+- [Blooddrunk Drum Setup: Jaska Raatikainen's Gear on Children of Bodom's 2008 Album](https://metalforge.io/articles/blooddrunk-drum-setup)
+- [Follow the Reaper Drum Setup: Jaska Raatikainen's Gear on Children of Bodom's 2000 Album](https://metalforge.io/articles/follow-the-reaper-drum-setup)
+
+## Related Drummers
+
+- [Jaska Raatikainen](https://metalforge.io/drummer/jaska-raatikainen)
+
 **Source:** https://metalforge.io/articles/hexed-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

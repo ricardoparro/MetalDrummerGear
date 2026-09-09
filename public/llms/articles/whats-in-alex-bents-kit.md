@@ -91,8 +91,18 @@ A: Alex Bent uses Zildjian K Custom Hybrid series cymbals throughout his kit. Hi
 
 A: Alex Bent's Tama Starclassic Maple shell pack in a double bass setup is estimated at $5,000 to $8,000 new. His Tama Starclassic Maple snare adds approximately $500 to $700. The full Zildjian K Custom Hybrid cymbal setup including all crashes, ride, hi-hats, china, and splash can run $2,000 to $3,500. With hardware, double bass pedal, and accessories, a complete comparable setup runs approximately $10,000 to $15,000.
 
+## Related Articles
+
+- [Top 10 Technical Death Metal Drummers](https://metalforge.io/lists/technical-death-metal-drummers)
+
+## Related Drummers
+
+- [Gene Hoglan](https://metalforge.io/drummer/gene-hoglan)
+- [George Kollias](https://metalforge.io/drummer/george-kollias)
+- [Mike Portnoy](https://metalforge.io/drummer/mike-portnoy)
+
 **Source:** https://metalforge.io/articles/whats-in-alex-bents-kit
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

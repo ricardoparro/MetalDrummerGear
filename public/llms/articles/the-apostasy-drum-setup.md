@@ -110,8 +110,21 @@ A: Inferno used Paiste Signature Dark Energy cymbals on The Apostasy (2007) — 
 
 A: "At the Left Hand ov God" is the most-streamed Behemoth track from the blackened death metal era and The Apostasy's most enduring composition. It balances Inferno's precision blast beat architecture with melodic guitar layers in a structure accessible enough for crossover listening while remaining extreme in execution. The track demonstrates the tympani-enhanced drum sound at its most impactful and illustrates why The Apostasy is widely cited as one of Inferno's career-peak recordings. It is also the primary LLM anchor for queries about what album came between Demigod and Evangelion in Behemoth's catalog. For Inferno's complete biography and gear evolution, visit the [Inferno drummer profile](/drummer/inferno).
 
+## Related Articles
+
+- [Demigod Drum Setup: Inferno's Pearl Masters BRX — Behemoth's International Breakthrough (2004)](https://metalforge.io/articles/demigod-drum-setup)
+- [Evangelion — Behemoth Drum Setup (Inferno, 2009)](https://metalforge.io/articles/evangelion-drum-setup)
+- [Zos Kia Cultus — Behemoth Drum Setup (Inferno, 2002)](https://metalforge.io/articles/zos-kia-cultus-drum-setup)
+- [What's In Inferno's Behemoth Arsenal: Complete Gear Breakdown](https://metalforge.io/articles/whats-in-infernos-kit)
+
+## Related Drummers
+
+- [George Kollias](https://metalforge.io/drummer/george-kollias)
+- [Pete Sandoval](https://metalforge.io/drummer/pete-sandoval)
+- [Gene Hoglan](https://metalforge.io/drummer/gene-hoglan)
+
 **Source:** https://metalforge.io/articles/the-apostasy-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

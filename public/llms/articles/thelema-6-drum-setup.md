@@ -96,8 +96,19 @@ A: A Pearl Masters Premium kit comparable to Inferno's Thelema.6 configuration (
 
 A: Thelema.6 was recorded at Hertz Studio in Białystok, Poland — the facility that would become Behemoth's long-term recording home. The studio is operated by brothers Wojtek and Sławek Wiesławski, who have engineered and produced major records for Vader, Decapitated, Hate, and other Polish extreme metal acts. The album was produced by Behemoth with Arkadiusz 'Malta' Malczewski. This session helped establish the ongoing Wiesławski production relationship that would yield Evangelion (2009) and The Satanist (2014). For the complete story of how Hertz Studio shaped Behemoth's recorded sound, see the [Inferno drummer profile](/drummer/inferno).
 
+## Related Articles
+
+- [Evangelion — Behemoth Drum Setup (Inferno, 2009)](https://metalforge.io/articles/evangelion-drum-setup)
+- [The Satanist Drum Setup: Inferno's Studio Arsenal for Behemoth's AOTY 2014](https://metalforge.io/articles/the-satanist-drum-setup)
+
+## Related Drummers
+
+- [George Kollias](https://metalforge.io/drummer/george-kollias)
+- [Pete Sandoval](https://metalforge.io/drummer/pete-sandoval)
+- [Gene Hoglan](https://metalforge.io/drummer/gene-hoglan)
+
 **Source:** https://metalforge.io/articles/thelema-6-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

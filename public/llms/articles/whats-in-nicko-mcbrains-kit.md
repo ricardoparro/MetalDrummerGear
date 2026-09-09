@@ -115,8 +115,20 @@ A: Nicko McBrain is a longtime Paiste endorser, drawing from the Signature, 2002
 
 A: A British Drum Co. kit in this configuration runs approximately $8,000 to $15,000 depending on finish and configuration options. Add a Sonor Artist or SQ2 custom snare at $600 to $1,000, and a full Paiste Signature cymbal setup can easily add another $3,000 to $5,000. All in, replicating his complete rig would cost between $12,000 and $21,000 or more.
 
+## Related Articles
+
+- [Number of the Beast Drum Setup: The Gear Behind Clive Burr's Performance (& Nicko's Legacy)](https://metalforge.io/articles/number-of-the-beast-drum-setup)
+- [Master of Puppets Drum Setup: Lars Ulrich's Gear Breakdown](https://metalforge.io/articles/master-of-puppets-drum-setup)
+- [Painkiller Drum Setup: Scott Travis's Speed Metal Revolution](https://metalforge.io/articles/painkiller-drum-setup)
+
+## Related Drummers
+
+- [Lars Ulrich](https://metalforge.io/drummer/lars-ulrich)
+- [Inferno](https://metalforge.io/drummer/inferno)
+- [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo)
+
 **Source:** https://metalforge.io/articles/whats-in-nicko-mcbrains-kit
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

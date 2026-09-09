@@ -100,8 +100,21 @@ A: Joey Jordison used a combination of Paiste RUDE and 2002 Series cymbals on Io
 
 A: Joey Jordison's Pearl Masterworks Custom setup for Iowa would have cost approximately $6,000 to $8,000 in 2001. The Pearl Joey Jordison Signature snare added another $450 to $550 at the time. Pearl Masterworks custom kits today start around $6,000 and can exceed $12,000 depending on configuration and finish. The Paiste RUDE cymbal lineup Jordison used, including multiple crashes and chinas, would cost between $2,000 and $3,500 to replicate new today.
 
+## Related Articles
+
+- [Top 10 Fastest Double Bass Drummers in Metal History](https://metalforge.io/lists/fastest-double-bass-drummers)
+- [Top 10 Most Brutal Drum Solos in Metal History](https://metalforge.io/lists/most-brutal-drum-solos)
+- [Slipknot Self-Titled Drum Setup: Joey Jordison's 1999 Debut Gear Breakdown](https://metalforge.io/articles/slipknot-self-titled-drum-setup)
+- [Vol. 3: The Subliminal Verses Drum Setup — Joey Jordison](https://metalforge.io/articles/vol-3-the-subliminal-verses-drum-setup)
+
+## Related Drummers
+
+- [Jay Weinberg](https://metalforge.io/drummer/jay-weinberg)
+- [George Kollias](https://metalforge.io/drummer/george-kollias)
+- [Flo Mounier](https://metalforge.io/drummer/flo-mounier)
+
 **Source:** https://metalforge.io/articles/iowa-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

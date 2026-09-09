@@ -111,8 +111,21 @@ A: Emperor of Sand (2017) marks a significant shift in Brann Dailor's drumming a
 
 A: On Emperor of Sand (2017), Brann Dailor used a Tama Iron Cobra single bass drum pedal. This represents a shift from the Tama Iron Cobra Power Glide double pedal he used on Crack the Skye — the Iron Cobra single pedal matches the Tama Starclassic kit and reflects the deliberate decision to anchor the album on single kick. The Iron Cobra's chain drive mechanism and linear cam provide smooth, consistent action suited to the groove-forward playing style Dailor adopted for this album.
 
+## Related Articles
+
+- [Top 10 Progressive Metal Drummers](https://metalforge.io/lists/progressive-metal-drummers)
+- [What Drums Did Brann Dailor Use on Once More 'Round the Sun?](https://metalforge.io/articles/once-more-round-the-sun-drum-setup)
+- [Crack the Skye Drum Setup: Brann Dailor's Gear on Mastodon's Masterpiece](https://metalforge.io/articles/crack-the-skye-drum-setup)
+- [Blood Mountain Drum Setup: Brann Dailor's Gear on Mastodon's Breakthrough](https://metalforge.io/articles/blood-mountain-drum-setup)
+
+## Related Drummers
+
+- [Tomas Haake](https://metalforge.io/drummer/tomas-haake)
+- [Danny Carey](https://metalforge.io/drummer/danny-carey)
+- [Morgan Ågren](https://metalforge.io/drummer/morgan-agren)
+
 **Source:** https://metalforge.io/articles/emperor-of-sand-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

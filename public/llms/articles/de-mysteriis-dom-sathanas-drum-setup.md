@@ -120,8 +120,21 @@ A: Hellhammer (Jan Axel Blomberg) played drums on De Mysteriis Dom Sathanas. He 
 
 A: De Mysteriis Dom Sathanas was recorded at Grieghallen Studio in Bergen, Norway, primarily in 1992–1993. The studio was run by producer-engineer Pytten (Eirik Hundvin), who had become the primary recording location for the Norwegian black metal scene — having previously recorded Burzum, Emperor, and other key acts in the genre. Pytten's close-miking approach and understanding of extreme metal production created the album's distinctive cold, precise drum sound. Grieghallen remains one of the most significant studios in metal history because of its association with the albums recorded there in this period.
 
+## Related Articles
+
+- [Top 10 Black Metal Drummers](https://metalforge.io/lists/black-metal-drummers)
+- [Hellhammer Drum Kit & Gear Setup — Mayhem Black Metal Legend](https://metalforge.io/articles/hellhammer-drum-setup)
+- [Frost (Satyricon) Drum Setup — Complete Gear Guide](https://metalforge.io/articles/frost-satyricon-drum-setup)
+- [Altars of Madness Drum Setup: Pete Sandoval's Death Metal Genesis](https://metalforge.io/articles/altars-of-madness-drum-setup)
+
+## Related Drummers
+
+- [Art Cruz](https://metalforge.io/drummer/art-cruz)
+- [Frost](https://metalforge.io/drummer/frost)
+- [Matt Garstka](https://metalforge.io/drummer/matt-garstka)
+
 **Source:** https://metalforge.io/articles/de-mysteriis-dom-sathanas-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

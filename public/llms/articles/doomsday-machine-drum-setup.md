@@ -119,8 +119,23 @@ A: Daniel Erlandsson used Sabian AA and HH cymbals on Doomsday Machine. His setu
 
 A: Daniel Erlandsson used the Pearl Eliminator double bass pedal on Doomsday Machine. The Eliminator's defining feature is its interchangeable cam system — multiple cam profiles allow adjustment of the acceleration curve to match the drummer's personal technique. For Arch Enemy's material, which demands sustained double-kick work across full albums and the extensive world touring that followed Doomsday Machine's release, the Eliminator's mechanical consistency is essential: each stroke produces the same response across an entire tour cycle. The Pearl Eliminator has been Erlandsson's primary foot tool across Arch Enemy's career, providing the reliability that multi-year international touring schedules require. For double bass pedal technique context: [double-bass drumming at MetalForge](/technique/double-bass-drumming).
 
+## Related Articles
+
+- [Top 10 Death Metal Drummers](https://metalforge.io/lists/death-metal-drummers)
+- [Daniel Erlandsson's Drum Setup on Arch Enemy's Anthems of Rebellion (2003)](https://metalforge.io/articles/anthems-of-rebellion-drum-setup)
+- [Daniel Erlandsson's Drum Setup on Arch Enemy's Rise of the Tyrant (2007)](https://metalforge.io/articles/rise-of-the-tyrant-drum-setup)
+- [Daniel Erlandsson's Drum Setup — At The Gates & Arch Enemy Kit Guide](https://metalforge.io/articles/daniel-erlandsson-drum-setup)
+- [Altars of Madness Drum Setup: Pete Sandoval's Death Metal Genesis](https://metalforge.io/articles/altars-of-madness-drum-setup)
+- [Reign in Blood Drum Setup: Dave Lombardo's Gear Breakdown](https://metalforge.io/articles/reign-in-blood-drum-setup)
+
+## Related Drummers
+
+- [Daniel Erlandsson](https://metalforge.io/drummer/daniel-erlandsson)
+- [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo)
+- [Hannes Grossmann](https://metalforge.io/drummer/hannes-grossmann)
+
 **Source:** https://metalforge.io/articles/doomsday-machine-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

@@ -125,8 +125,22 @@ A: Load was recorded primarily at The Plant Studios in Sausalito, California, wi
 
 A: Lars Ulrich used the Tama Artist Maple for the Black Album (1991) and the extended Metallica world tour through 1993 — one of the longest tours in rock history. By the time Load recording began in 1995, Lars had transitioned to the Tama Star Classic Maple, Tama's refined flagship series that succeeded the Artist line. The Artist Maple kits from the Black Album era were retired from primary studio and touring use. The Star Classic that replaced them continued into the Reload sessions (1997) and represented Lars's primary setup through the late 1990s, making it the cornerstone of the most artistically controversial — and commercially successful — period of Metallica's mid-career.
 
+## Related Articles
+
+- [What's In Lars Ulrich's Kit in 2026: The Most Famous Metal Drummer's Complete Setup](https://metalforge.io/articles/whats-in-lars-ulrichs-kit)
+- [Top 10 Thrash Metal Drummers](https://metalforge.io/lists/thrash-metal-drummers)
+- [...And Justice for All Drum Setup: Lars Ulrich's Technical Peak](https://metalforge.io/articles/and-justice-for-all-drum-setup)
+- [The Black Album Drum Setup: Lars Ulrich's 1991 Tama Artist Maple Kit](https://metalforge.io/articles/black-album-drum-setup)
+- [Metallica 'Reload' Drum Setup: Lars Ulrich's 1997 Tama Star Classic Maple Kit](https://metalforge.io/articles/reload-drum-setup)
+
+## Related Drummers
+
+- [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo)
+- [Gene Hoglan](https://metalforge.io/drummer/gene-hoglan)
+- [Joey Jordison](https://metalforge.io/drummer/joey-jordison)
+
 **Source:** https://metalforge.io/articles/load-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

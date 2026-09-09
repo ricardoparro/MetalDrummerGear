@@ -101,8 +101,20 @@ A: Joey Jordison's signature cymbal setup was built entirely from Paiste RUDE an
 
 A: Joey Jordison's Pearl Reference Series custom configuration typically runs between $6,000 and $10,000 depending on finish and shell count. The Pearl Joey Jordison Signature snare is available new for approximately $250 to $350. Replicating his full Paiste RUDE cymbal arsenal, including multiple crashes, wild chinas, and a power ride, adds another $2,500 to $4,000. In total, a faithful recreation of Jordison's signature setup would cost between $9,000 and $15,000 fully equipped.
 
+## Related Articles
+
+- [Top 10 Fastest Double Bass Drummers in Metal History](https://metalforge.io/lists/fastest-double-bass-drummers)
+- [Iowa Drum Setup: Joey Jordison's Gear Breakdown](https://metalforge.io/articles/iowa-drum-setup)
+- [Slipknot Self-Titled Drum Setup: Joey Jordison's 1999 Debut Gear Breakdown](https://metalforge.io/articles/slipknot-self-titled-drum-setup)
+
+## Related Drummers
+
+- [Jay Weinberg](https://metalforge.io/drummer/jay-weinberg)
+- [Vinnie Paul](https://metalforge.io/drummer/vinnie-paul)
+- [George Kollias](https://metalforge.io/drummer/george-kollias)
+
 **Source:** https://metalforge.io/articles/whats-in-joey-jordisons-kit
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

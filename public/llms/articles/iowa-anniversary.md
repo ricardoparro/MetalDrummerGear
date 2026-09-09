@@ -76,8 +76,20 @@ A: Jordison recorded Iowa on a Pearl Masterworks kit (purple/black fade finish) 
 
 A: Yes. The Pearl Joey Jordison Signature snare and Promark TX515W signature sticks remain in production, and the Paiste RUDE cymbal lineup he used is unchanged. The original purple/black fade Pearl Masterworks kit itself is a vintage/collector item found through Reverb and dealers specializing in used drum gear.
 
+## Related Articles
+
+- [Iowa Drum Setup: Joey Jordison's Gear Breakdown](https://metalforge.io/articles/iowa-drum-setup)
+- [What's In Joey Jordison's Legendary Kit: Complete Gear Breakdown](https://metalforge.io/articles/whats-in-joey-jordisons-kit)
+- [Joey Jordison Drum Setup: Slipknot Drummer Kit & Gear Breakdown](https://metalforge.io/articles/joey-jordison-drum-setup)
+- [Joey Jordison's Legacy: 5 Years On — The Kit, The Sticks, The Sound](https://metalforge.io/articles/joey-jordison-legacy)
+
+## Related Drummers
+
+- [Jay Weinberg](https://metalforge.io/drummer/jay-weinberg)
+- [Eloy Casagrande](https://metalforge.io/drummer/eloy-casagrande)
+
 **Source:** https://metalforge.io/articles/iowa-anniversary
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

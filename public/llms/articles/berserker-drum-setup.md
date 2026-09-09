@@ -100,8 +100,17 @@ A: The title track "Berserker" alternates extended blast-beat sections with Amon
 
 A: Berserker was produced by Jay Ruston (Anthrax, Stone Sour) and tracked at Sphere Studios in North Hollywood, California, with mixing at TRS West in Sherman Oaks. Ruston recorded songs largely in complete takes rather than isolating instruments, an approach that let Wallgren's dynamic performance drive the record. Released May 3, 2019 on Metal Blade Records, Berserker debuted at #1 in Germany and reached #47 on the US Billboard 200.
 
+## Related Articles
+
+- [Amon Amarth "The Great Heathen Army" Drum Setup (Jocke Wallgren, 2022)](https://metalforge.io/articles/great-heathen-army-drum-setup)
+- [Jocke Wallgren's Drum Setup — Amon Amarth's Viking Metal Kit](https://metalforge.io/articles/jocke-wallgren-drum-setup)
+
+## Related Drummers
+
+- [Jocke Wallgren](https://metalforge.io/drummer/jocke-wallgren)
+
 **Source:** https://metalforge.io/articles/berserker-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

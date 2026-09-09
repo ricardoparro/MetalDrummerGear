@@ -119,8 +119,21 @@ A: Godsmack's *Faceless* (2003) debuted at #1 on the Billboard 200 on the streng
 
 A: Shannon Larkin joined Godsmack in 2002, replacing founding drummer Tommy Stewart. *Faceless* (2003) was his first full studio album with the band and proved immediately that the transition had strengthened Godsmack's musical foundation. Larkin came to the band with extensive professional experience: Wrathchild America (thrash metal, late 1980s–early 1990s) and Ugly Kid Joe (whose "Everything About You" reached worldwide commercial success in 1992). He has remained Godsmack's drummer through all subsequent releases, including *IV* (2006), *The Oracle* (2010), *1000hp* (2014), *When Legends Rise* (2018), and *Lighting Up the Sky* (2023). See the [Shannon Larkin drummer profile](/drummer/shannon-larkin) for his complete career history.
 
+## Related Articles
+
+- [Shannon Larkin Drum Setup — Godsmack's Complete Gear Guide](https://metalforge.io/articles/shannon-larkin-drum-setup)
+- [What's In Vinnie Paul's Pantera Arsenal (Tribute)](https://metalforge.io/articles/whats-in-vinnie-pauls-kit)
+- [Cowboys from Hell Drum Setup: Vinnie Paul's Breakthrough Gear](https://metalforge.io/articles/cowboys-from-hell-drum-setup)
+- [Godsmack IV Drum Setup: Shannon Larkin's ddrum Dios Series Gear on the #2 Billboard Album (2006)](https://metalforge.io/articles/godsmack-iv-drum-setup)
+
+## Related Drummers
+
+- [Ray Luzier](https://metalforge.io/drummer/ray-luzier)
+- [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo)
+- [Lars Ulrich](https://metalforge.io/drummer/lars-ulrich)
+
 **Source:** https://metalforge.io/articles/faceless-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

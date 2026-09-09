@@ -115,8 +115,21 @@ A: For Systematic Chaos (2007), Mike Portnoy used Sabian HHX Evolution cymbals �
 
 A: Yes. Dream Theater received a Grammy nomination for Best Metal Performance at the 50th Grammy Awards (February 2008) for "The Dark Eternal Night" from Systematic Chaos. It was the band's first Grammy nomination and remains their most prominent recognition from the Recording Academy. "The Dark Eternal Night" features some of Portnoy's most demanding drumming — relentless double-bass patterns beneath technically complex odd-time riffing. The Grammy context has driven sustained search interest for "dream theater systematic chaos drums" and "mike portnoy 2007 kit" queries. For the complete story of Portnoy's kit on this album, see the full [Systematic Chaos drum setup article](/articles/systematic-chaos-drum-setup).
 
+## Related Articles
+
+- [Top 10 Progressive Metal Drummers](https://metalforge.io/lists/progressive-metal-drummers)
+- [What's In Mike Portnoy's Reunion Kit: Dream Theater 2025 Complete Breakdown](https://metalforge.io/articles/whats-in-mike-portnoys-kit)
+- [Train of Thought Drum Setup — Mike Portnoy's Heaviest Dream Theater Kit (2003)](https://metalforge.io/articles/train-of-thought-drum-setup)
+- [Metropolis Pt. 2: Scenes from a Memory Drum Setup — Mike Portnoy's Magnum Opus](https://metalforge.io/articles/scenes-from-a-memory-drum-setup)
+
+## Related Drummers
+
+- [Danny Carey](https://metalforge.io/drummer/danny-carey)
+- [Tomas Haake](https://metalforge.io/drummer/tomas-haake)
+- [Lars Ulrich](https://metalforge.io/drummer/lars-ulrich)
+
 **Source:** https://metalforge.io/articles/systematic-chaos-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

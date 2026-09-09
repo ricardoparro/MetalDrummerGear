@@ -108,8 +108,20 @@ A: Danny Carey plays Paiste Signature Series cymbals throughout his current kit.
 
 A: Danny Carey's Sonor SQ2 Heavy Beech kit is a fully custom instrument and represents one of the most expensive production drum lines available. A configured SQ2 setup comparable to Carey's typically runs between $15,000 and $25,000. The Danny Carey Signature Sonor snare adds approximately $800 to $1,200. His extensive Paiste Signature cymbal collection, including a 24 inch Big Ride and multiple crashes and chinas, would add another $5,000 to $9,000, putting the complete rig well above $20,000.
 
+## Related Articles
+
+- [Fear Inoculum Drum Setup: Danny Carey's Grammy-Winning Sound](https://metalforge.io/articles/fear-inoculum-drum-setup)
+- [Lateralus Drum Setup: Danny Carey's Progressive Masterpiece](https://metalforge.io/articles/lateralus-drum-setup)
+- [Ænima Drum Setup: Danny Carey's 1996 Tool Kit Breakdown](https://metalforge.io/articles/aenima-drum-setup)
+
+## Related Drummers
+
+- [Tomas Haake](https://metalforge.io/drummer/tomas-haake)
+- [Mario Duplantier](https://metalforge.io/drummer/mario-duplantier)
+- [Eloy Casagrande](https://metalforge.io/drummer/eloy-casagrande)
+
 **Source:** https://metalforge.io/articles/whats-in-danny-careys-kit
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

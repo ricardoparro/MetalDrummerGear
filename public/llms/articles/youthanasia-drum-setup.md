@@ -131,8 +131,18 @@ A: Because they essentially are. Dave Mustaine and producer Max Norman deliberat
 
 A: The 1994 sessions caught Menza in a transition between the Tama Camco pedals and the early Iron Cobra, which Tama had launched in 1993. Footage from the era shows both in his rig at different times. Both pedals offered the consistent, reliable double-kick response Megadeth's material demanded; the Iron Cobra would later become the canonical thrash double pedal across the rest of the 1990s.
 
+## Related Articles
+
+- [Nick Menza Drum Kit & Gear Setup — Megadeth Complete Guide](https://metalforge.io/articles/nick-menza-drum-setup)
+
+## Related Drummers
+
+- [Lars Ulrich](https://metalforge.io/drummer/lars-ulrich)
+- [Gene Hoglan](https://metalforge.io/drummer/gene-hoglan)
+- [Mario Duplantier](https://metalforge.io/drummer/mario-duplantier)
+
 **Source:** https://metalforge.io/articles/youthanasia-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

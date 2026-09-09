@@ -94,8 +94,18 @@ A: *Something Wild* (1997) and *Hatebreeder* (1999) represent the two ends of Co
 
 A: On *Something Wild* (1997), Jaska Raatikainen used Zildjian A Series cymbals — a pre-endorsement selection that preceded the Paiste configurations documented on later CoB albums and the eventual Zildjian A Custom / K Custom pairing of his Pearl endorsement era. The A Series setup included 14" A hi-hats, A crashes (16" and 18"), a 20" A ride, and an 18" A China. The Zildjian A's B20 bronze alloy and traditional lathing delivered the natural brightness and cut that melodic death metal requires in keyboard-heavy arrangements.
 
+## Related Articles
+
+- [Jaska Raatikainen Drum Setup — Children of Bodom Gear Guide](https://metalforge.io/articles/jaska-raatikainen-drum-setup)
+- [Hatebreeder Drum Setup: Jaska Raatikainen's Gear on Children of Bodom's 1999 Debut](https://metalforge.io/articles/hatebreeder-drum-setup)
+- [Follow the Reaper Drum Setup: Jaska Raatikainen's Gear on Children of Bodom's 2000 Album](https://metalforge.io/articles/follow-the-reaper-drum-setup)
+
+## Related Drummers
+
+- [Jaska Raatikainen](https://metalforge.io/drummer/jaska-raatikainen)
+
 **Source:** https://metalforge.io/articles/something-wild-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

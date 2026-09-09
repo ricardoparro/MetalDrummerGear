@@ -96,8 +96,20 @@ A: The blast beat sections on Satanica (1999) range from approximately 180–220
 
 A: For Satanica (1999), Inferno used Paiste Signature Dark Energy cymbals in early configuration — 14" hi-hats, 16" and 18" crash cymbals, a 20" ride, and an 18" China. The Byzance series' hand-hammered B20 bronze construction provided the dark, complex tonal character suited to Behemoth's blackened death metal approach. This early Byzance configuration predates the Paiste Signature Dark Energy setup Inferno would use for The Satanist (2014). See the [What's In Inferno's Kit breakdown](/articles/whats-in-infernos-kit) for his current gear.
 
+## Related Articles
+
+- [Thelema.6 Drum Setup: Inferno's Pearl Masters Kit — Behemoth's 2002 Death Metal Pivot](https://metalforge.io/articles/thelema-6-drum-setup)
+- [Demigod Drum Setup: Inferno's Pearl Masters BRX — Behemoth's International Breakthrough (2004)](https://metalforge.io/articles/demigod-drum-setup)
+- [What's In Inferno's Behemoth Arsenal: Complete Gear Breakdown](https://metalforge.io/articles/whats-in-infernos-kit)
+
+## Related Drummers
+
+- [George Kollias](https://metalforge.io/drummer/george-kollias)
+- [Pete Sandoval](https://metalforge.io/drummer/pete-sandoval)
+- [Gene Hoglan](https://metalforge.io/drummer/gene-hoglan)
+
 **Source:** https://metalforge.io/articles/satanica-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

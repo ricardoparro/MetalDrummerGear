@@ -120,8 +120,20 @@ A: Mario Duplantier uses Remo drumheads on his Tama kit — specifically Remo Em
 
 A: Mario Duplantier plays his own signature model with Tama sticks. The Mario Duplantier Signature Sticks are custom-designed for the balance of mass and control required by Gojira's demanding live show — heavier than a standard 5A for powerful accents, with a taper and tip suited to the ghost note articulation Mario uses in atmospheric passages.
 
+## Related Articles
+
+- [What's In Mario Duplantier's Environmental Kit: Complete Gear Breakdown](https://metalforge.io/articles/whats-in-mario-duplantiers-kit)
+- [What's In Tomas Haake's Polyrhythmic Arsenal: Complete Gear Breakdown](https://metalforge.io/articles/whats-in-tomas-haakes-kit)
+- [Top 10 Progressive Death Metal Drummers](https://metalforge.io/lists/progressive-death-metal-drummers)
+
+## Related Drummers
+
+- [Tomas Haake](https://metalforge.io/drummer/tomas-haake)
+- [Brann Dailor](https://metalforge.io/drummer/brann-dailor)
+- [Danny Carey](https://metalforge.io/drummer/danny-carey)
+
 **Source:** https://metalforge.io/articles/mario-duplantier-gear
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

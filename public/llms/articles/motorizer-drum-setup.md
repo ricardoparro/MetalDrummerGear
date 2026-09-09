@@ -101,8 +101,20 @@ A: *Motörizer* reached #32 on the UK Albums Chart — Motörhead's highest UK c
 
 A: By *Motörizer*, Mikkey Dee's cymbal setup had shifted almost entirely to the Paiste Signature line — 15" Sound Edge hi-hats, an 18" Fast Crash, a 20" Power Crash, and a 22" Full Ride — with only an 18" China cymbal retained from the brighter Paiste 2002 series used on [*Inferno*](/articles/inferno-drum-setup). Dee has been a Paiste artist since April 1987, and this setup represents the maturation of that decades-long relationship.
 
+## Related Articles
+
+- [Kiss of Death Drum Setup: Mikkey Dee's Gear on Motörhead's 2006 Album](https://metalforge.io/articles/kiss-of-death-drum-setup)
+- [Bad Magic Drum Setup: Mikkey Dee's Gear on Motörhead's Final Album](https://metalforge.io/articles/bad-magic-drum-setup)
+- [What's In Mikkey Dee's Motörhead/Scorpions Arsenal: 23 Years Behind Rock's Loudest Band](https://metalforge.io/articles/whats-in-mikkey-dees-kit)
+
+## Related Drummers
+
+- [Hellhammer](https://metalforge.io/drummer/hellhammer)
+- [Lars Ulrich](https://metalforge.io/drummer/lars-ulrich)
+- [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo)
+
 **Source:** https://metalforge.io/articles/motorizer-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

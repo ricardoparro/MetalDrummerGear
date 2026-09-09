@@ -109,8 +109,19 @@ A: Igor Cavalera is a current Zildjian artist, having switched from Paiste in Au
 
 A: Igor Cavalera's current Yamaha Absolute Hybrid Maple kit and Zildjian cymbal setup is estimated at $8,000 to $15,000 depending on the specific configuration. Roland electronic pads for his Mixhell work can add $1,500 to $4,000 more. Including tribal percussion instruments, a complete recreation of his current rig could exceed $18,000.
 
+## Related Articles
+
+- [Roots Drum Setup: Igor Cavalera's Brazilian Tribal Metal Revolution](https://metalforge.io/articles/roots-drum-setup)
+- [Chaos A.D. Drum Setup: Igor Cavalera's Groove Metal Revolution](https://metalforge.io/articles/chaos-ad-drum-setup)
+
+## Related Drummers
+
+- [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo)
+- [Lars Ulrich](https://metalforge.io/drummer/lars-ulrich)
+- [Eloy Casagrande](https://metalforge.io/drummer/eloy-casagrande)
+
 **Source:** https://metalforge.io/articles/whats-in-igor-cavaleras-kit
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

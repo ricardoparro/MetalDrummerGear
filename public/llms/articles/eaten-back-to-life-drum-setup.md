@@ -108,8 +108,19 @@ A: The three most essential tracks on Eaten Back to Life for studying Paul Mazur
 
 A: The full Paul Mazurkiewicz drum setup article at MetalForge covers his modern Pearl Reference / Meinl / Pearl Eliminator rig and traces the gear evolution from Eaten Back to Life (1990) through Violence Unimagined (2021). See also the Butchered at Birth drum setup article for the follow-up 1991 recording, and the Tomb of the Mutilated drum setup article for the 1992 recording that cemented the band's death metal landmark status. All three early-era articles document the pre-endorsement period before Mazurkiewicz's current gear relationships were established. Full profile: [Paul Mazurkiewicz at MetalForge](/drummer/paul-mazurkiewicz).
 
+## Related Articles
+
+- [Top 10 Death Metal Drummers](https://metalforge.io/lists/death-metal-drummers)
+- [Paul Mazurkiewicz's Drum Setup on Cannibal Corpse's Butchered at Birth (1991)](https://metalforge.io/articles/butchered-at-birth-drum-setup)
+- [Paul Mazurkiewicz's Drum Setup on Cannibal Corpse's Tomb of the Mutilated (1992)](https://metalforge.io/articles/tomb-of-the-mutilated-drum-setup)
+- [Paul Mazurkiewicz Drum Setup — Cannibal Corpse Gear Guide](https://metalforge.io/articles/paul-mazurkiewicz-drum-setup)
+
+## Related Drummers
+
+- [Paul Mazurkiewicz](https://metalforge.io/drummer/paul-mazurkiewicz)
+
 **Source:** https://metalforge.io/articles/eaten-back-to-life-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

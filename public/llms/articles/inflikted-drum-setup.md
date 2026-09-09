@@ -119,8 +119,21 @@ A: Igor Cavalera's drumming on Inflikted is a deliberate return to the aggressiv
 
 A: The Cavalera brothers — Max and Igor — reunited musically in 2007, recording Inflikted together for release in 2008. Max had departed Sepultura in January 1997 following a management dispute involving his wife Gloria, who had been acting as the band's manager. Igor remained in Sepultura for nearly a decade before leaving in 2006. The brothers eventually reconciled privately before deciding to record together again. Cavalera Conspiracy was named after the two brothers rather than any particular geographic or genre allegiance, signaling that the band's identity was rooted in their shared creative bond.
 
+## Related Articles
+
+- [What's In Igor Cavalera's Tribal Arsenal: Complete Gear Breakdown](https://metalforge.io/articles/whats-in-igor-cavaleras-kit)
+- [Blunt Force Trauma Drum Setup: Igor Cavalera's Cavalera Conspiracy Second Strike (2011)](https://metalforge.io/articles/blunt-force-trauma-drum-setup)
+- [Chaos A.D. Drum Setup: Igor Cavalera's Groove Metal Revolution](https://metalforge.io/articles/chaos-ad-drum-setup)
+- [Roots Drum Setup: Igor Cavalera's Brazilian Tribal Metal Revolution](https://metalforge.io/articles/roots-drum-setup)
+
+## Related Drummers
+
+- [Pete Sandoval](https://metalforge.io/drummer/pete-sandoval)
+- [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo)
+- [Eloy Casagrande](https://metalforge.io/drummer/eloy-casagrande)
+
 **Source:** https://metalforge.io/articles/inflikted-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

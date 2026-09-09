@@ -108,8 +108,18 @@ A: Phil Taylor's drumming was characterized by barely-controlled fury — enormo
 
 A: During the *Bastards* (1993) sessions, Mikkey Dee used a Paiste setup combining Giant Beat and Paiste 2002 series cymbals. The Giant Beat 15" hi-hats provided more body and projection than standard 14" hi-hats — essential when playing next to Lemmy's legendary bass volume. Paiste 2002 crashes (18" and 20") and a 22" ride handled accent and time-keeping duties, with an 18" China cymbal for trashy accents on Motörhead's heaviest moments. Paiste's CuSn8 bronze alloy — shared by both the Giant Beat and 2002 series — delivers a warm, complex sound that cuts through dense mixes naturally. Dee's Paiste relationship continued for the rest of his career, later shifting toward the Signature Series he plays today with Scorpions.
 
+## Related Articles
+
+- [What's In Mikkey Dee's Motörhead/Scorpions Arsenal: 23 Years Behind Rock's Loudest Band](https://metalforge.io/articles/whats-in-mikkey-dees-kit)
+
+## Related Drummers
+
+- [Hellhammer](https://metalforge.io/drummer/hellhammer)
+- [Lars Ulrich](https://metalforge.io/drummer/lars-ulrich)
+- [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo)
+
 **Source:** https://metalforge.io/articles/bastards-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

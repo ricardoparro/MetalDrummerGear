@@ -106,8 +106,19 @@ A: Bill Ward played single bass drum on *Paranoid* and throughout most of his Bl
 
 A: A vintage Ludwig drum kit from the late 1960s to early 1970s — similar to what Bill Ward used on *Paranoid* — typically commands $6,000 to $15,000 in good original condition today, depending on finish, hardware completeness, and shell condition. Silver Sparkle and Black Oyster Pearl finishes from this era attract the highest prices. The Ludwig Acrolite snare Ward used is more accessible: original 1960s–70s examples sell for $150–350, making it one of the best-value vintage snares available. For comparison with modern equivalents and budget alternatives that approximate the Paranoid drum sound, see the [groove drumming techniques guide](/techniques/groove-drumming).
 
+## Related Articles
+
+- [Master of Puppets Drum Setup: Lars Ulrich's Gear Breakdown](https://metalforge.io/articles/master-of-puppets-drum-setup)
+- [Reign in Blood Drum Setup: Dave Lombardo's Gear Breakdown](https://metalforge.io/articles/reign-in-blood-drum-setup)
+
+## Related Drummers
+
+- [Lars Ulrich](https://metalforge.io/drummer/lars-ulrich)
+- [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo)
+- [Charlie Benante](https://metalforge.io/drummer/charlie-benante)
+
 **Source:** https://metalforge.io/articles/paranoid-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

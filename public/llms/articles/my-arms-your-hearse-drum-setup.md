@@ -116,8 +116,19 @@ A: Martin Lopez used Sabian B8 Pro entry-level cymbals on My Arms, Your Hearse �
 
 A: My Arms, Your Hearse is the entry point for the five-album Lopez/Opeth cluster that defined progressive death metal from 1998 to 2005. It established his technical foundation — the four-tom layout, the architectural fills, the kick precision, the cymbal restraint — within the tightest compositional constraints he would face in the band. [Still Life (1999)](/articles/still-life-drum-setup) immediately unlocked his jazz vocabulary. [Blackwater Park (2001)](/articles/blackwater-park-drum-setup) brought Steven Wilson and the Sonor Designer Series, capturing his full dynamic range. [Deliverance (2002)](/articles/deliverance-drum-setup) pushed his most extreme performance. Damnation (2003) opened the brush and texture work. Ghost Reveries (2005) closed the arc. Every album that followed built on the foundation Lopez documented in 1998. To understand the Opeth drum sound, you start here.
 
+## Related Articles
+
+- [Still Life Drum Setup: Martin Lopez Establishes His Opeth Voice](https://metalforge.io/articles/still-life-drum-setup)
+- [Blackwater Park Drum Setup: Martin Lopez's Opeth Masterpiece](https://metalforge.io/articles/blackwater-park-drum-setup)
+
+## Related Drummers
+
+- [Danny Carey](https://metalforge.io/drummer/danny-carey)
+- [Tomas Haake](https://metalforge.io/drummer/tomas-haake)
+- [Mike Portnoy](https://metalforge.io/drummer/mike-portnoy)
+
 **Source:** https://metalforge.io/articles/my-arms-your-hearse-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

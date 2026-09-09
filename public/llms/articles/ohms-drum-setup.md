@@ -119,8 +119,20 @@ A: Ohms was produced by Terry Date, marking his first collaboration with Deftone
 
 A: Abe Cunningham used a Tama S.L.P. Big Black Steel 14x8-inch snare on Ohms. The deep steel shell provides a wide dynamic range — from sensitive ghost-note response to thunderous authority in the album's heaviest passages. This snare became central to Abe's modern sound and is clearly audible on 'Ceremony' and 'Headless.'
 
+## Related Articles
+
+- [What's In Abe Cunningham's Deftones Arsenal: Complete Gear Breakdown](https://metalforge.io/articles/whats-in-abe-cunninghams-kit)
+- [Koi No Yokan Drum Setup: Abe Cunningham's Dream-State Masterwork](https://metalforge.io/articles/koi-no-yokan-drum-setup)
+- [Deftones Self-Titled Drum Setup: Abe Cunningham's Grammy-Nominated Gear (2003)](https://metalforge.io/articles/deftones-self-titled-drum-setup)
+
+## Related Drummers
+
+- [Danny Carey](https://metalforge.io/drummer/danny-carey)
+- [Gavin Harrison](https://metalforge.io/drummer/gavin-harrison)
+- [Abe Cunningham](https://metalforge.io/drummer/abe-cunningham)
+
 **Source:** https://metalforge.io/articles/ohms-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

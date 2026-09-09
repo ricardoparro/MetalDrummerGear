@@ -107,8 +107,18 @@ A: Martin Lopez uses Vic Firth 5A sticks with nylon tips. The 5A is a versatile,
 
 A: "Opponent" (Lykaia, 2017) showcases his odd-meter mastery in 7/8 with jazz-inflected groove. "Sectarian" (Cognitive, 2012) demonstrates his dynamic control from restrained verses to full-band choruses. "Lykaia" (Lykaia, 2017) is perhaps his most compositionally complete performance — complex rhythmically but always serving the song. For Opeth, "The Leper Affinity" and "Bleak" from Blackwater Park remain essential studies in progressive metal drumming.
 
+## Related Articles
+
+- [Blackwater Park Drum Setup: Martin Lopez's Opeth Masterpiece](https://metalforge.io/articles/blackwater-park-drum-setup)
+
+## Related Drummers
+
+- [Danny Carey](https://metalforge.io/drummer/danny-carey)
+- [Tomas Haake](https://metalforge.io/drummer/tomas-haake)
+- [Hellhammer](https://metalforge.io/drummer/hellhammer)
+
 **Source:** https://metalforge.io/articles/martin-lopez-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

@@ -108,8 +108,21 @@ A: The Bleeding (1994) is the most accessible death metal album Cannibal Corpse 
 
 A: The Bleeding (1994) and Bloodthirst (1999) represent the two poles of the Morrisound and post-Morrisound Cannibal Corpse eras. The Bleeding used Paul Mazurkiewicz's pre-endorsement Pearl kit at Morrisound with Scott Burns — the final iteration of the Tampa death metal production approach. Bloodthirst, recorded in 1999 with producer Colin Richardson at Skyclad Recording in the UK, marked a complete break from the Morrisound template. Richardson's British metal production aesthetic brought a different drum character: denser, more saturated, with greater low-end weight. By Bloodthirst, Mazurkiewicz was developing toward the Pearl Reference and Meinl endorsements that define his modern setup. See the [Bloodthirst drum setup article](/articles/bloodthirst-drum-setup) for a direct comparison.
 
+## Related Articles
+
+- [Top 10 Death Metal Drummers](https://metalforge.io/lists/death-metal-drummers)
+- [Paul Mazurkiewicz's Drum Setup on Cannibal Corpse's Tomb of the Mutilated (1992)](https://metalforge.io/articles/tomb-of-the-mutilated-drum-setup)
+- [Paul Mazurkiewicz's Drum Setup on Cannibal Corpse's Vile (1996)](https://metalforge.io/articles/vile-drum-setup)
+- [Paul Mazurkiewicz's Drum Setup on Cannibal Corpse's Gallery of Suicide (1998)](https://metalforge.io/articles/gallery-of-suicide-drum-setup)
+- [Paul Mazurkiewicz's Drum Setup on Cannibal Corpse's Bloodthirst (1999)](https://metalforge.io/articles/bloodthirst-drum-setup)
+- [Paul Mazurkiewicz Drum Setup — Cannibal Corpse Gear Guide](https://metalforge.io/articles/paul-mazurkiewicz-drum-setup)
+
+## Related Drummers
+
+- [Paul Mazurkiewicz](https://metalforge.io/drummer/paul-mazurkiewicz)
+
 **Source:** https://metalforge.io/articles/the-bleeding-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

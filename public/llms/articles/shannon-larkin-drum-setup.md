@@ -121,8 +121,21 @@ A: Shannon Larkin plays Vic Firth American Classic 5B drumsticks. The 5B's hicko
 
 A: Shannon Larkin uses the DW 9000 Series double bass pedal. The DW 9000 is one of the most respected professional chain-drive double pedals available — featuring adjustable cam, dual-chain drive, and precision hardware that delivers consistent feel across extended touring use. For Godsmack's groove-driven double-kick patterns, the DW 9000's feel-consistent chain mechanism provides the reliable platform Larkin's foot technique requires. The pedal's robust construction handles the physical demands of 100+ show touring cycles without degradation in feel or performance.
 
+## Related Articles
+
+- [Cowboys from Hell Drum Setup: Vinnie Paul's Breakthrough Gear](https://metalforge.io/articles/cowboys-from-hell-drum-setup)
+- [Joey Jordison Drum Setup: Slipknot Drummer Kit & Gear Breakdown](https://metalforge.io/articles/joey-jordison-drum-setup)
+- [Faceless Drum Setup: Shannon Larkin's Gear on Godsmack's #1 Billboard Album (2003)](https://metalforge.io/articles/faceless-drum-setup)
+- [Godsmack IV Drum Setup: Shannon Larkin's ddrum Dios Series Gear on the #2 Billboard Album (2006)](https://metalforge.io/articles/godsmack-iv-drum-setup)
+
+## Related Drummers
+
+- [Ray Luzier](https://metalforge.io/drummer/ray-luzier)
+- [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo)
+- [Lars Ulrich](https://metalforge.io/drummer/lars-ulrich)
+
 **Source:** https://metalforge.io/articles/shannon-larkin-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

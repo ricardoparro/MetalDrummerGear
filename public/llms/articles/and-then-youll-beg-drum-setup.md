@@ -112,8 +112,21 @@ A: On And Then You'll Beg, Flo Mounier used the DW 9000 double pedal — a trans
 
 A: And Then You'll Beg is considered Flo Mounier's most technically demanding recording because it introduces sustained blast beats in odd time signatures — specifically 11/8 and 13/8 — that require the drummer to maintain blast beat vocabulary across bar boundaries that fall at non-standard positions in the blast pattern. In standard 4/4 blast beats, bar boundaries occur predictably every eight eighth notes. In 11/8 or 13/8, the bar boundary falls at a different point in the pattern on each repetition, requiring simultaneous management of the physical blast and the metric position. By 2000, few drummers globally could execute this at the tempos Flo sustained throughout the album.
 
+## Related Articles
+
+- [What's In Flo Mounier's Extreme Arsenal: Complete Gear Breakdown](https://metalforge.io/articles/whats-in-flo-mouniers-kit)
+- [Top 10 Fastest Metal Drummers](https://metalforge.io/lists/fastest-metal-drummers)
+- [None So Vile Drum Setup: Flo Mounier's Technical Death Metal Landmark](https://metalforge.io/articles/none-so-vile-drum-setup)
+- [Whisper Supremacy Drum Setup: Flo Mounier's Pearl Masters BRX and Paiste Alpha Gear (1998)](https://metalforge.io/articles/whisper-supremacy-drum-setup)
+
+## Related Drummers
+
+- [Gene Hoglan](https://metalforge.io/drummer/gene-hoglan)
+- [George Kollias](https://metalforge.io/drummer/george-kollias)
+- [Chris Adler](https://metalforge.io/drummer/chris-adler)
+
 **Source:** https://metalforge.io/articles/and-then-youll-beg-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

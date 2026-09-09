@@ -88,8 +88,19 @@ A: Yes — Bill Ward sang lead vocals on "Swinging the Chain," the closing track
 
 A: Black Sabbath's original lineup of Ozzy Osbourne, Tony Iommi, Geezer Butler, and Bill Ward recorded eight studio albums together in the 1970s: *Black Sabbath* (1970), *Paranoid* (1970), *Master of Reality* (1971), *Vol. 4* (1972), *Sabbath Bloody Sabbath* (1973), *Sabotage* (1975), *Technical Ecstasy* (1976), and *Never Say Die!* (1978). Ward left after the *Never Say Die!* tour, and Vinnie Appice replaced him for 1980's *Heaven and Hell*, the first Sabbath album with vocalist Ronnie James Dio. See the [Bill Ward drummer profile](/drummer/bill-ward) for the complete gear breakdown across all eight albums.
 
+## Related Articles
+
+- [Bill Ward's Drum Setup on Black Sabbath's 'Technical Ecstasy' (1976)](https://metalforge.io/articles/technical-ecstasy-drum-setup)
+- [Bill Ward's Drum Setup on Black Sabbath's Sabotage (1975)](https://metalforge.io/articles/sabotage-drum-setup)
+
+## Related Drummers
+
+- [Lars Ulrich](https://metalforge.io/drummer/lars-ulrich)
+- [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo)
+- [Charlie Benante](https://metalforge.io/drummer/charlie-benante)
+
 **Source:** https://metalforge.io/articles/never-say-die-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

@@ -100,8 +100,15 @@ A: Coma Ecliptic (2015) charted in the UK and reached #1 on the iTunes Rock char
 
 A: Coma Ecliptic (2015) contains the same odd-time signatures and metric modulation approaches that define all of BTBAM's catalog — 7/8, 5/4, 6/8, and various hybrid and compound signatures — but deployed more transparently in service of the rock opera narrative. Where The Parallax II embedded time signature changes deep in the compositional structure so they feel natural rather than mathematical, Coma Ecliptic uses signature changes as explicit narrative devices: a shift from 4/4 to 7/8 accompanying a protagonist's disorientation, a metric modulation lifting the tempo during a triumphant moment. Richardson's technical execution of these passages is at the same level as his Parallax II work; the difference is that Coma Ecliptic makes the emotional intent of each signature change more transparent. See the [odd-time signatures in metal technique guide](/technique/odd-time-signatures) for a deeper breakdown of these concepts.
 
+## Related Articles
+
+- [Blake Richardson's Drum Setup on Between the Buried and Me's Alaska (2005)](https://metalforge.io/articles/alaska-drum-setup)
+- [Blake Richardson's Drum Setup on The Parallax II: Future Sequence (2012)](https://metalforge.io/articles/the-parallax-ii-future-sequence-drum-setup)
+- [Blake Richardson's Drum Setup on Between the Buried and Me's Automata I (2018)](https://metalforge.io/articles/automata-i-drum-setup)
+- [Blake Richardson Drum Kit & Gear Setup — BTBAM Tech Metal](https://metalforge.io/articles/blake-richardson-drum-setup)
+
 **Source:** https://metalforge.io/articles/coma-ecliptic-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

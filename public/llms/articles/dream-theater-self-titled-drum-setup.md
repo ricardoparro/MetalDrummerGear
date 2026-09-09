@@ -105,8 +105,18 @@ A: Mike Mangini used a Sabian HHX/AAX cymbal setup throughout the 2013 Dream The
 
 A: For the 2013 self-titled, Mangini tracked on his established Pearl Reference Series kit, Sabian HHX/AAX cymbals, and Pearl Demon Drive double pedal. What sets the record apart from A Dramatic Turn of Events isn't the equipment — it's the compositional approach: the self-titled was Mangini's first album where he contributed to the songwriting from the ground up, which shaped the rhythmic architecture of tracks like 'Enigma Machine' in ways the 2011 record, written before his arrival, could not. See the [A Dramatic Turn of Events drum setup article](/articles/a-dramatic-turn-of-events-drum-setup) for the full 2011 comparison.
 
+## Related Articles
+
+- [Mike Mangini's Kit on 'A Dramatic Turn of Events' (Dream Theater, 2011)](https://metalforge.io/articles/a-dramatic-turn-of-events-drum-setup)
+- [What's In Mike Mangini's Dream Theater Arsenal](https://metalforge.io/articles/whats-in-mike-manginis-kit)
+- [Mike Mangini's Kit on 'Distance Over Time' (Dream Theater, 2019)](https://metalforge.io/articles/distance-over-time-drum-setup)
+
+## Related Drummers
+
+- [Mike Mangini](https://metalforge.io/drummer/mike-mangini)
+
 **Source:** https://metalforge.io/articles/dream-theater-self-titled-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

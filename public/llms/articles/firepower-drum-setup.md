@@ -108,8 +108,21 @@ A: Firepower was co-produced by Andy Sneap and Tom Allom — a deliberate, histo
 
 A: Scott Travis has been a long-time endorser of ddrum, Paiste Cymbals, DW Pedals, and Vic Firth Drumsticks across his entire Priest career, and the 28 years between Painkiller (1990) and Firepower (2018) show refinement within that same lineup rather than a brand change. Kit: the ddrum Dominion Series shell pack carried through both albums, with bass drums going from 22"x16" to 22"x18" — two inches deeper for added low-end weight. Snare: the ddrum Scott Travis Signature 14"x6.5" is unchanged. Cymbals: the Paiste RUDE/2002 combination is unchanged. Pedals: the DW 9000 Series double pedal is unchanged. Travis still runs two independent bass drums rather than a connected double pedal — that philosophy has not changed since 1990.
 
+## Related Articles
+
+- [Top 10 Fastest Double Bass Drummers in Metal History](https://metalforge.io/lists/fastest-double-bass-drummers)
+- [Top 10 Thrash Metal Drummers](https://metalforge.io/lists/thrash-metal-drummers)
+- [Painkiller Drum Setup: Scott Travis's Speed Metal Revolution](https://metalforge.io/articles/painkiller-drum-setup)
+
+## Related Drummers
+
+- [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo)
+- [Lars Ulrich](https://metalforge.io/drummer/lars-ulrich)
+- [Gene Hoglan](https://metalforge.io/drummer/gene-hoglan)
+- [Joey Jordison](https://metalforge.io/drummer/joey-jordison)
+
 **Source:** https://metalforge.io/articles/firepower-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

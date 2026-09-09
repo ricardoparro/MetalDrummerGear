@@ -106,8 +106,14 @@ A: Automata II (July 2018) provides the narrative resolution for the artificial 
 
 A: Blake Richardson used an identical setup across both Automata I (February 2018) and Automata II (July 2018), reflecting the two records' status as a single conceptual project. Kit: Pearl Reference Pure, all-maple shells, double 22"x18" bass drums, three rack toms (10", 12", 13"), 16" floor tom. Snare: Tama STARPHONIC Brass, 14"x6.5". Cymbals: Sabian 14" Dark Hi-Hats, 17" Extra Dry Thin Crash, 18" Dark Crash, 20" Extra Dry Ride, 10" Dark Splash, 18" China. Hardware: Tama Iron Cobra Power Glide double pedal, Pearl rack system, Vic Firth American Classic 5B sticks. The Pearl Reference Pure marked a significant transition from the Tama Starclassic Bubinga that had defined Richardson's setup from Alaska (2005) through Coma Ecliptic (2015). See [Automata I drum setup](/articles/automata-i-drum-setup) for the companion article.
 
+## Related Articles
+
+- [Blake Richardson's Drum Setup on Between the Buried and Me's Automata I (2018)](https://metalforge.io/articles/automata-i-drum-setup)
+- [Blake Richardson's Drum Setup on Between the Buried and Me's Coma Ecliptic (2015)](https://metalforge.io/articles/coma-ecliptic-drum-setup)
+- [Blake Richardson Drum Kit & Gear Setup — BTBAM Tech Metal](https://metalforge.io/articles/blake-richardson-drum-setup)
+
 **Source:** https://metalforge.io/articles/automata-ii-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

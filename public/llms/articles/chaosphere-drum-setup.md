@@ -105,8 +105,20 @@ A: Chaosphere (1998) is the critical arc link in Tomas Haake's career — the al
 
 A: No — Tomas Haake has consistently used two independent single bass drum pedals throughout his career, not a connected double pedal, and Chaosphere is no exception. On Chaosphere, he used two Tama Iron Cobra single pedals, one per bass drum, with no mechanical linkage between them. This approach — two separate pedals, two separate bass drums, complete foot independence — is fundamental to Haake's polymetric technique. A double pedal's connecting linkage means the two feet share cam geometry, which compromises the complete independence that Meshuggah's kick patterns require. Two independent singles allow each foot to operate exactly as needed without any mechanical constraint from the other foot.
 
+## Related Articles
+
+- [What's In Tomas Haake's Polyrhythmic Arsenal: Complete Gear Breakdown](https://metalforge.io/articles/whats-in-tomas-haakes-kit)
+- [Nothing Drum Setup: Tomas Haake's Polyrhythmic Blueprint (Meshuggah, 2002)](https://metalforge.io/articles/nothing-drum-setup)
+- [obZen Drum Setup: Tomas Haake's Legendary "Bleed" Gear Breakdown](https://metalforge.io/articles/obzen-drum-setup)
+
+## Related Drummers
+
+- [Danny Carey](https://metalforge.io/drummer/danny-carey)
+- [John Otto](https://metalforge.io/drummer/john-otto)
+- [Brann Dailor](https://metalforge.io/drummer/brann-dailor)
+
 **Source:** https://metalforge.io/articles/chaosphere-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

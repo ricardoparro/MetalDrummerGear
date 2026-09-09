@@ -94,8 +94,13 @@ A: Deadwing features guest guitar solos from Mikael Åkerfeldt of Opeth and Adri
 
 A: Deadwing sits between In Absentia (2002) and Fear of a Blank Planet (2007) in Harrison's Porcupine Tree gear timeline. It carries forward the Sonor custom maple kit and Zildjian K Custom Special Dry cymbals established on In Absentia, refined further toward the fully bespoke Sonor SQ2 setup he would use two years later. See the full lineage at [Fear of a Blank Planet Drum Setup](/articles/fear-of-a-blank-planet-drum-setup).
 
+## Related Articles
+
+- [Gavin Harrison's Drum Setup on Porcupine Tree's In Absentia (2002)](https://metalforge.io/articles/in-absentia-drum-setup)
+- [Porcupine Tree Fear of a Blank Planet Drum Setup: Gavin Harrison's 2007 Gear](https://metalforge.io/articles/fear-of-a-blank-planet-drum-setup)
+
 **Source:** https://metalforge.io/articles/deadwing-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

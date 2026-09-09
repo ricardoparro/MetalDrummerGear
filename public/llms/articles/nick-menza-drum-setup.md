@@ -121,8 +121,19 @@ A: Nick Menza used the Tama Iron Cobra double bass drum pedal through much of hi
 
 A: Nick Menza's jazz education — he was the son of jazz saxophonist Don Menza — gave him a rhythmic vocabulary that set him apart from thrash contemporaries. He brought ghost notes, dynamic shading, and melodic fill construction into a genre that rarely made space for those elements. His kick patterns locked with Megadeth's riff shapes rather than running independently, and his fills functioned as musical arguments rather than pure technical displays. This jazz-meets-thrash approach is most audible on Rust in Peace and Countdown to Extinction.
 
+## Related Articles
+
+- [Rust in Peace Drum Setup: Nick Menza's Gear Breakdown](https://metalforge.io/articles/rust-in-peace-drum-setup)
+- [Matt Greiner Complete Drum Setup — August Burns Red Gear Guide](https://metalforge.io/articles/matt-greiner-complete-drum-setup)
+
+## Related Drummers
+
+- [Lars Ulrich](https://metalforge.io/drummer/lars-ulrich)
+- [Gene Hoglan](https://metalforge.io/drummer/gene-hoglan)
+- [Mario Duplantier](https://metalforge.io/drummer/mario-duplantier)
+
 **Source:** https://metalforge.io/articles/nick-menza-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

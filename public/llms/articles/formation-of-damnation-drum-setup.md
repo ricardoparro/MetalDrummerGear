@@ -97,8 +97,21 @@ A: Testament had planned to record The Formation of Damnation with drummer Nick 
 
 A: It was Testament's first studio album in nine years, since 1999's The Gathering, and the first to reunite guitarist Alex Skolnick (who hadn't recorded with the band since 1992's The Ritual) and bassist Greg Christian (who hadn't recorded with the band since 1994's Low) alongside Chuck Billy and Eric Peterson. That reunion of the band's most recognized lineup, combined with Paul Bostaph stepping into the drum chair, made The Formation of Damnation feel like a full restart rather than just another studio release.
 
+## Related Articles
+
+- [What's In Paul Bostaph's Slayer Arsenal](https://metalforge.io/articles/whats-in-paul-bostaphs-kit)
+- [Top 10 Thrash Metal Drummers](https://metalforge.io/lists/thrash-metal-drummers)
+- [Diabolus in Musica Drum Setup: Slayer's 1998 Drop-Tuned Album Gear Breakdown](https://metalforge.io/articles/diabolus-in-musica-drum-setup)
+- [Lamb of God 'Sacrament' Drum Setup — Chris Adler's 2006 Grammy-Era Kit](https://metalforge.io/articles/sacrament-drum-setup)
+- [Lamb of God 'Wrath' Drum Setup — Chris Adler's Grammy-Nominated 2009 Kit](https://metalforge.io/articles/wrath-drum-setup)
+
+## Related Drummers
+
+- [Raymond Herrera](https://metalforge.io/drummer/raymond-herrera)
+- [Chris Adler](https://metalforge.io/drummer/chris-adler)
+
 **Source:** https://metalforge.io/articles/formation-of-damnation-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

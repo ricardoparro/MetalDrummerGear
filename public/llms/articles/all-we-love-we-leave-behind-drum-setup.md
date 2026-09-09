@@ -109,8 +109,21 @@ A: Ben Koller's complete drum setup on All We Love We Leave Behind (2012) center
 
 A: All We Love We Leave Behind (2012) is considered Converge's most melodically accessible album because it strips back the sprawling guest-heavy ambition of Axe to Fall and focuses on tighter, more direct songwriting. Tracks like "Glacial Pace" and the title track show the band incorporating more dynamic restraint, melodic guitar work, and accessible song structures without abandoning their hardcore intensity. AP Magazine named it Album of the Year for 2012. Ben Koller's drumming on the record reflects this shift — he plays with more musical nuance and dynamic control than on earlier Converge records while maintaining his signature blast-and-breakdown vocabulary.
 
+## Related Articles
+
+- [Ben Koller's Complete Drum Setup — Converge Gear Guide](https://metalforge.io/articles/ben-koller-drum-setup)
+- [Ben Koller's Drum Setup on Converge's Jane Doe (2001)](https://metalforge.io/articles/jane-doe-drum-setup)
+- [Ben Koller's Drum Setup on Converge's Axe to Fall (2009)](https://metalforge.io/articles/axe-to-fall-drum-setup)
+- [Ben Koller's Drum Setup on Converge's The Dusk in Us (2017)](https://metalforge.io/articles/the-dusk-in-us-drum-setup)
+
+## Related Drummers
+
+- [Joey Jordison](https://metalforge.io/drummer/joey-jordison)
+- [Charlie Benante](https://metalforge.io/drummer/charlie-benante)
+- [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo)
+
 **Source:** https://metalforge.io/articles/all-we-love-we-leave-behind-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

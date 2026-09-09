@@ -98,8 +98,19 @@ A: Inferno tunes his Pork Pie brass snare to medium-high tension with a controll
 
 A: Inferno uses the Paiste 2002 Black series on Opvs Contra Natvram — 14" hi-hats, 16" and 18" crashes, a 20" ride, and an 18" China, all in the series' all-black finish. This is the first Behemoth album in Inferno's studio catalog to move away from Paiste cymbals since Zos Kia Cultus (2002), trading the darker, blended Paiste Signature Dark Energy and Classics Custom Dark tone of The Satanist and I Loved You at Your Darkest for a brighter, more cutting cymbal voice that matches Joe Barresi's harder-edged mix.
 
+## Related Articles
+
+- [The Satanist Drum Setup: Inferno's Studio Arsenal for Behemoth's AOTY 2014](https://metalforge.io/articles/the-satanist-drum-setup)
+- [Evangelion — Behemoth Drum Setup (Inferno, 2009)](https://metalforge.io/articles/evangelion-drum-setup)
+
+## Related Drummers
+
+- [George Kollias](https://metalforge.io/drummer/george-kollias)
+- [Pete Sandoval](https://metalforge.io/drummer/pete-sandoval)
+- [Gene Hoglan](https://metalforge.io/drummer/gene-hoglan)
+
 **Source:** https://metalforge.io/articles/opvs-contra-natvram-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

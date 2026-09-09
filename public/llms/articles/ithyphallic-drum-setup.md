@@ -113,8 +113,21 @@ A: 'Ithyphallic' (2007) is the final Nile studio album performed in full on Geor
 
 A: 'Ithyphallic' (2007) is Nile's fifth studio album and the band's first release for Nuclear Blast Records, produced by Neil Kernon at The Sound Lab in Columbia, South Carolina. For drumming specifically, it represents George Kollias consolidating the technical vocabulary he introduced on 'Annihilation of the Wicked' — tighter execution, deeper endurance, and the same gear, one final time. Compare it to Kollias's later peak-era work: [Those Whom the Gods Detest drum setup](/articles/those-whom-the-gods-detest-drum-setup).
 
+## Related Articles
+
+- [Top 10 Fastest Metal Drummers](https://metalforge.io/lists/fastest-metal-drummers)
+- [George Kollias Drum Setup: Nile's Annihilation of the Wicked Gear Breakdown](https://metalforge.io/articles/george-kollias-nile-annihilation-drum-setup)
+- [George Kollias Drum Setup: Nile's 'Those Whom the Gods Detest' (2009) Gear Breakdown](https://metalforge.io/articles/those-whom-the-gods-detest-drum-setup)
+- [What's In George Kollias' Speed Arsenal](https://metalforge.io/articles/whats-in-george-kollias-kit)
+
+## Related Drummers
+
+- [Gene Hoglan](https://metalforge.io/drummer/gene-hoglan)
+- [Arin Ilejay](https://metalforge.io/drummer/arin-ilejay)
+- [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo)
+
 **Source:** https://metalforge.io/articles/ithyphallic-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

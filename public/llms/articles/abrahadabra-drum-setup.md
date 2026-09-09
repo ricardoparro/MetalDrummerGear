@@ -89,8 +89,19 @@ A: The Kringkastingsorkestret (Norwegian Radio Orchestra) and Schola Cantorum ch
 
 A: Daray's Abrahadabra cymbal setup is the same Paiste RUDE and 2002 combination documented across his Dimmu Borgir career: 14" Sound Edge Hi-Hats, 16" RUDE and 18" 2002 crashes, a 22" RUDE Power Ride, and a 2002 China. The RUDE series' durability and bell definition suit the album's heaviest passages, while the Sound Edge Hi-Hats' open character integrates with the orchestral and choir arrangements on tracks like "Gateways."
 
+## Related Articles
+
+- [Daray's Drum Setup — Dimmu Borgir's Drummer Complete Kit Guide](https://metalforge.io/articles/daray-drum-setup)
+- [Hellhammer's Drum Setup on Dimmu Borgir's In Sorte Diaboli (2007)](https://metalforge.io/articles/in-sorte-diaboli-drum-setup)
+- [Hellhammer Drum Kit & Gear Setup — Mayhem Black Metal Legend](https://metalforge.io/articles/hellhammer-drum-setup)
+
+## Related Drummers
+
+- [Daray](https://metalforge.io/drummer/daray)
+- [Art Cruz](https://metalforge.io/drummer/art-cruz)
+
 **Source:** https://metalforge.io/articles/abrahadabra-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

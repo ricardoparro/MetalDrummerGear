@@ -120,8 +120,22 @@ A: For Scenes from a Memory, Mike Portnoy continued to use the Tama Iron Cobra d
 
 A: The two setups represent distinct eras separated by seven years of development. Key differences: (1) Kit — SFaM uses Tama Starclassic Maple (cherry finish) vs. Images and Words's Tama Artstar II birch. Maple is warmer and more resonant; birch is punchier with more attack. (2) Cymbals — SFaM uses Sabian Artisan (dark, warm) vs. Sabian AA (bright, cutting) on Images and Words — Portnoy has been a Sabian endorser since 1985 throughout. (3) Pedals — Tama Iron Cobra double pedal on both SFaM and Images and Words, no change. (4) Bass drum depth — SFaM's 22"x18" vs. 22"x16" provides more low-end mass. See the [Images and Words drum setup article](/articles/images-and-words-drum-setup) for the full comparison.
 
+## Related Articles
+
+- [Top 10 Progressive Metal Drummers](https://metalforge.io/lists/progressive-metal-drummers)
+- [What's In Mike Portnoy's Reunion Kit: Dream Theater 2025 Complete Breakdown](https://metalforge.io/articles/whats-in-mike-portnoys-kit)
+- [Images and Words Drum Setup: Mike Portnoy's Progressive Metal Breakthrough](https://metalforge.io/articles/images-and-words-drum-setup)
+- [Mike Mangini's Kit on 'A Dramatic Turn of Events' (Dream Theater, 2011)](https://metalforge.io/articles/a-dramatic-turn-of-events-drum-setup)
+- [Lateralus Drum Setup: Danny Carey's Progressive Masterpiece](https://metalforge.io/articles/lateralus-drum-setup)
+
+## Related Drummers
+
+- [Danny Carey](https://metalforge.io/drummer/danny-carey)
+- [Tomas Haake](https://metalforge.io/drummer/tomas-haake)
+- [Lars Ulrich](https://metalforge.io/drummer/lars-ulrich)
+
 **Source:** https://metalforge.io/articles/scenes-from-a-memory-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

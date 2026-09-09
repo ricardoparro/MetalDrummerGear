@@ -98,8 +98,21 @@ A: Ahead of A Matter of Life and Death's release, Iron Maiden built a mysterious
 
 A: Yes — Iron Maiden performed A Matter of Life and Death in its entirety, in album sequence, during the supporting world tour in 2006 and 2007, a rare move for a band touring a newly released album. The decision reflected the band's confidence in the album's cohesion as a complete concept piece. The tour and album cemented A Matter of Life and Death's place as a critical favorite, and its progressive ambitions carried directly into [The Final Frontier (2010)](/articles/final-frontier-drum-setup).
 
+## Related Articles
+
+- [Top 10 Thrash Metal Drummers](https://metalforge.io/lists/thrash-metal-drummers)
+- [Top 10 Most Innovative Metal Drummers](https://metalforge.io/lists/most-innovative-drummers)
+- [Dance of Death Drum Setup: Nicko McBrain's Gear on Iron Maiden's 2003 Gothic Epic](https://metalforge.io/articles/dance-of-death-drum-setup)
+- [The Final Frontier Drum Setup: Nicko McBrain's Gear on Iron Maiden's Grammy-Nominated 2010 Epic](https://metalforge.io/articles/final-frontier-drum-setup)
+
+## Related Drummers
+
+- [Lars Ulrich](https://metalforge.io/drummer/lars-ulrich)
+- [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo)
+- [Charlie Benante](https://metalforge.io/drummer/charlie-benante)
+
 **Source:** https://metalforge.io/articles/a-matter-of-life-and-death-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

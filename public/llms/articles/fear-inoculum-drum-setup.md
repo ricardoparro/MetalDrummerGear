@@ -110,8 +110,20 @@ A: Danny Carey used Paiste Signature series cymbals on Fear Inoculum. His setup 
 
 A: A Sonor SQ2 Heavy Beech kit configured to Carey's Fear Inoculum specifications runs between $15,000 and $20,000, as the SQ2 is a fully custom-order instrument. His Sonor Danny Carey Signature Bronze Snare adds approximately $1,800 to $2,000. Paiste Signature cymbals to match his setup add another $3,000 to $5,000. The complete rig is a serious investment, totaling roughly $20,000 to $27,000.
 
+## Related Articles
+
+- [Top 10 Progressive Metal Drummers](https://metalforge.io/lists/progressive-metal-drummers)
+- [Lateralus Drum Setup: Danny Carey's Progressive Masterpiece](https://metalforge.io/articles/lateralus-drum-setup)
+- [obZen Drum Setup: Tomas Haake's Legendary "Bleed" Gear Breakdown](https://metalforge.io/articles/obzen-drum-setup)
+
+## Related Drummers
+
+- [Tomas Haake](https://metalforge.io/drummer/tomas-haake)
+- [Mario Duplantier](https://metalforge.io/drummer/mario-duplantier)
+- [Chris Adler](https://metalforge.io/drummer/chris-adler)
+
 **Source:** https://metalforge.io/articles/fear-inoculum-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

@@ -99,8 +99,20 @@ A: No. Periphery's 2010 self-titled debut features Matt Halpern playing with a s
 
 A: Matt Halpern's cymbal choice has changed across Periphery's career. On the 2010 debut he used Sabian HHX cymbals — the HHX Groove hi-hats, HHX Evolution crashes in 17, 18, and 19 inches, the 21-inch HHX Evolution ride, and an 18-inch HHX Chinese. From approximately Periphery II (2012) onward, Halpern transitioned to Meinl Byzance cymbals, which have remained his primary setup through Periphery III, IV, and V. The Meinl Byzance series — handcrafted B20 bronze made in Turkey — provides the dark, complex character that has become his sonic signature in the Mapex era.
 
+## Related Articles
+
+- [Matt Halpern's Drum Setup on Periphery II: This Time It's Personal (2012)](https://metalforge.io/articles/periphery-ii-drum-setup)
+- [Matt Halpern's Drum Setup on Periphery V: Aliens (2023)](https://metalforge.io/articles/periphery-v-aliens-drum-setup)
+- [What's In Matt Halpern's Periphery Kit: Complete Gear Breakdown](https://metalforge.io/articles/whats-in-matt-halperns-kit)
+
+## Related Drummers
+
+- [Matt Garstka](https://metalforge.io/drummer/matt-garstka)
+- [Tomas Haake](https://metalforge.io/drummer/tomas-haake)
+- [Gavin Harrison](https://metalforge.io/drummer/gavin-harrison)
+
 **Source:** https://metalforge.io/articles/periphery-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

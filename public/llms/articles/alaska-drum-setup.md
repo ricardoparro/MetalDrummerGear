@@ -107,8 +107,14 @@ A: Alaska (2005) was produced by Jamie King at The Basement Studio in Winston-Sa
 
 A: Alaska (2005) is the first full document of Blake Richardson's progressive metal voice at scale. It established his approach to odd-time integration (embedding 7/8, 5/4, and other non-4/4 signatures so naturally they don't feel mathematical), his compositional use of double-bass (varying kick density rather than running constant eighth-note rolls), and his jazz-influenced ghost note vocabulary. The 73-minute, genre-spanning format of Alaska required a drummer who could move between death metal, jazz, and ambient textures without losing compositional coherence — a set of demands that Richardson met and that laid the technical and musical foundation for Colors (2007), The Parallax II (2012), and the rest of the BTBAM catalog. See [The Parallax II drum setup](/articles/the-parallax-ii-future-sequence-drum-setup) for how this approach evolved.
 
+## Related Articles
+
+- [Blake Richardson's Drum Setup on The Parallax II: Future Sequence (2012)](https://metalforge.io/articles/the-parallax-ii-future-sequence-drum-setup)
+- [Blake Richardson's Drum Setup on Between the Buried and Me's Coma Ecliptic (2015)](https://metalforge.io/articles/coma-ecliptic-drum-setup)
+- [Blake Richardson Drum Kit & Gear Setup — BTBAM Tech Metal](https://metalforge.io/articles/blake-richardson-drum-setup)
+
 **Source:** https://metalforge.io/articles/alaska-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

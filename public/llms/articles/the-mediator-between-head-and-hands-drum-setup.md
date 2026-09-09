@@ -95,8 +95,18 @@ A: The Mediator (2013) was produced by Ross Robinson, who also produced Sepultur
 
 A: Between The Mediator (2013) and Machine Messiah (2017), Eloy's setup evolved moderately. Shells: Tama Starclassic Bubinga → Tama Starclassic Walnut/Birch. Cymbals stayed with Paiste RUDE/2002. Pedals: Tama Iron Cobra Power Glide → Tama Iron Cobra 900. The production context changed the most: Ross Robinson's raw, live-take Venice sessions gave way to Jens Bogren's polished Fascination Street Studios approach. See the full Machine Messiah breakdown at [/articles/machine-messiah-drum-setup](/articles/machine-messiah-drum-setup).
 
+## Related Articles
+
+- [What's In Eloy Casagrande's Kit in 2026: From Sepultura to Slipknot](https://metalforge.io/articles/whats-in-eloy-casagrandes-kit)
+- [Sepultura "Machine Messiah" Drum Setup: Eloy Casagrande's 2017 Debut with Sepultura](https://metalforge.io/articles/machine-messiah-drum-setup)
+- [Sepultura "Quadra" Drum Setup: Eloy Casagrande's 2020 Peak](https://metalforge.io/articles/quadra-drum-setup)
+
+## Related Drummers
+
+- [Eloy Casagrande](https://metalforge.io/drummer/eloy-casagrande)
+
 **Source:** https://metalforge.io/articles/the-mediator-between-head-and-hands-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

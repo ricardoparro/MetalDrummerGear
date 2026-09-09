@@ -107,8 +107,21 @@ A: On Crack the Skye (2009), Brann Dailor used a Tama Iron Cobra Power Glide dou
 
 A: Crack the Skye was recorded at Doppler Studios in Atlanta, Georgia — Mastodon's home city. The album was produced by Brendan O'Brien, whose credits include Pearl Jam, Soundgarden, and AC/DC. O'Brien's large-room production philosophy and emphasis on natural ambience gave the drum sound a wide, dimensional quality that differed significantly from the denser, more compressed drum sounds on Mastodon's earlier albums. The Atlanta sessions took place in 2008 ahead of the March 2009 release.
 
+## Related Articles
+
+- [Top 10 Progressive Metal Drummers](https://metalforge.io/lists/progressive-metal-drummers)
+- [Blood Mountain Drum Setup: Brann Dailor's Gear on Mastodon's Breakthrough](https://metalforge.io/articles/blood-mountain-drum-setup)
+- [Images and Words Drum Setup: Mike Portnoy's Progressive Metal Breakthrough](https://metalforge.io/articles/images-and-words-drum-setup)
+- [obZen Drum Setup: Tomas Haake's Legendary "Bleed" Gear Breakdown](https://metalforge.io/articles/obzen-drum-setup)
+
+## Related Drummers
+
+- [Tomas Haake](https://metalforge.io/drummer/tomas-haake)
+- [Danny Carey](https://metalforge.io/drummer/danny-carey)
+- [Morgan Ågren](https://metalforge.io/drummer/morgan-agren)
+
 **Source:** https://metalforge.io/articles/crack-the-skye-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

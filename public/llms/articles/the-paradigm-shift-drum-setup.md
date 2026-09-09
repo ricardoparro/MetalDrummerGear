@@ -108,8 +108,20 @@ A: Ray Luzier used the Pearl Demon Drive double bass pedal on The Paradigm Shift
 
 A: The Paradigm Shift (2013) was produced by Don Gilmore, best known for producing Linkin Park's debut album Hybrid Theory (2000) and its follow-up Meteora (2003). Gilmore brought a polished, commercially accessible production approach to Korn — a notable contrast to the raw, aggressive energy of Ross Robinson's Korn III (2010) production. The album's cleaner, more defined sound suited the reunion-record narrative and helped 'Never Never' reach beyond Korn's core fanbase into pop-rock radio territory.
 
+## Related Articles
+
+- [The Path of Totality Drum Setup: Ray Luzier's 2011 Korn Gear Breakdown](https://metalforge.io/articles/path-of-totality-drum-setup)
+- [Serenity of Suffering Drum Setup: Ray Luzier's 2016 Korn Gear Breakdown](https://metalforge.io/articles/serenity-of-suffering-drum-setup)
+- [Ray Luzier Drum Setup: Korn's Groove Machine Complete Gear Guide](https://metalforge.io/articles/whats-in-ray-luziers-kit)
+
+## Related Drummers
+
+- [Joey Jordison](https://metalforge.io/drummer/joey-jordison)
+- [Eloy Casagrande](https://metalforge.io/drummer/eloy-casagrande)
+- [Lars Ulrich](https://metalforge.io/drummer/lars-ulrich)
+
 **Source:** https://metalforge.io/articles/the-paradigm-shift-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

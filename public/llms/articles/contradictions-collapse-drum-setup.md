@@ -98,8 +98,20 @@ A: Contradictions Collapse (1991) and Destroy Erase Improve (1995) represent the
 
 A: Yes — on Contradictions Collapse (1991), Haake used a conventional connected double bass pedal, not the two-independent-single-pedal setup that defines his mature technique. His signature approach — two completely separate single pedals with no mechanical linkage between them — provides absolute foot independence essential for playing different rhythmic subdivisions with each foot. On Contradictions Collapse, the double pedal was entirely adequate: the album's thrash-influenced patterns didn't yet demand the absolute foot independence that Chaosphere (1998) and later albums would require. The transition to two single pedals is one of the key technical milestones in Haake's career development.
 
+## Related Articles
+
+- [What's In Tomas Haake's Polyrhythmic Arsenal: Complete Gear Breakdown](https://metalforge.io/articles/whats-in-tomas-haakes-kit)
+- [Destroy Erase Improve Drum Setup: Tomas Haake's Polyrhythmic Breakthrough (Meshuggah, 1995)](https://metalforge.io/articles/destroy-erase-improve-drum-setup)
+- [Chaosphere Drum Setup: Tomas Haake's Polymetric Breakthrough (Meshuggah, 1998)](https://metalforge.io/articles/chaosphere-drum-setup)
+
+## Related Drummers
+
+- [Danny Carey](https://metalforge.io/drummer/danny-carey)
+- [John Otto](https://metalforge.io/drummer/john-otto)
+- [Brann Dailor](https://metalforge.io/drummer/brann-dailor)
+
 **Source:** https://metalforge.io/articles/contradictions-collapse-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

@@ -116,8 +116,22 @@ A: Magma is significantly leaner and more direct than L'Enfant Sauvage. Where L'
 
 A: For Magma, Mario Duplantier played a full Zildjian K Custom/A Custom hybrid cymbal setup. His setup included 14" K Sweet hi-hats, crashes at 17", 19", and 20", a 21" Z Custom Mega Bell Ride, and an 18" K Custom China. The K Custom and A Custom lines are hand-hammered from B20 bronze and deliver a full, musical tone with controlled warmth. Compared to the brighter voicing used on L'Enfant Sauvage, this Magma-era hybrid setup sits warmer in the mix — a tonal complement to the Tama Starclassic Bubinga drums' bubinga/birch character.
 
+## Related Articles
+
+- [What's In Mario Duplantier's Environmental Kit: Complete Gear Breakdown](https://metalforge.io/articles/whats-in-mario-duplantiers-kit)
+- [Top 10 Progressive Metal Drummers](https://metalforge.io/lists/progressive-metal-drummers)
+- [L'Enfant Sauvage Drum Setup: Mario Duplantier's Tama Bubinga Breakthrough](https://metalforge.io/articles/lenfant-sauvage-drum-setup)
+- [Mario Duplantier's Drum Setup on Gojira's The Link (2003)](https://metalforge.io/articles/the-link-drum-setup)
+- [Fortitude Drum Setup: Mario Duplantier's Tama Starclassic Bubinga (Gojira, 2021)](https://metalforge.io/articles/fortitude-drum-setup)
+
+## Related Drummers
+
+- [Tomas Haake](https://metalforge.io/drummer/tomas-haake)
+- [Danny Carey](https://metalforge.io/drummer/danny-carey)
+- [Eloy Casagrande](https://metalforge.io/drummer/eloy-casagrande)
+
 **Source:** https://metalforge.io/articles/magma-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

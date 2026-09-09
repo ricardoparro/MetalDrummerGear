@@ -75,8 +75,20 @@ A: Lombardo recorded Reign in Blood on a Tama Artstar II kit (Piano Black finish
 
 A: The Paiste RUDE and 2002 series cymbals he used remain in production largely unchanged. The Tama Artstar II itself is a discontinued vintage model found through Reverb and used-gear dealers; Lombardo's current signature ProMark TX2BXN sticks are a separate, present-day product.
 
+## Related Articles
+
+- [Reign in Blood Drum Setup: Dave Lombardo's Gear Breakdown](https://metalforge.io/articles/reign-in-blood-drum-setup)
+- [Dave Lombardo's Drum Setup on Slayer's Show No Mercy (1983)](https://metalforge.io/articles/show-no-mercy-drum-setup)
+- [Dave Lombardo's Drum Setup on Slayer's South of Heaven (1988)](https://metalforge.io/articles/south-of-heaven-drum-setup)
+
+## Related Drummers
+
+- [Lars Ulrich](https://metalforge.io/drummer/lars-ulrich)
+- [Charlie Benante](https://metalforge.io/drummer/charlie-benante)
+- [Pete Sandoval](https://metalforge.io/drummer/pete-sandoval)
+
 **Source:** https://metalforge.io/articles/reign-in-blood-anniversary
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-09-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*

@@ -227,12 +227,12 @@ export const articles = {
         ],
         "description": "Refinement of the djent template. Two single pedals philosophy emerges.",
         "gear": {
-          "drums": "Sonor Designer Series",
+          "drums": "Not publicly documented pre-2005 (Chaosphere, Nothing) — verified Sonor endorsement began in 2005, partway through this era",
           "snare": "Sonor Signature prototype development",
           "cymbals": "Sabian (beginning of relationship)",
           "hardware": "Two single pedals fully adopted"
         },
-        "notes": "The definitive Meshuggah sound crystallizes. \"Nothing\" influences the nascent djent movement."
+        "notes": "The definitive Meshuggah sound crystallizes. \"Nothing\" influences the nascent djent movement. Haake's specific drum brand for Chaosphere (1998) and Nothing (2002) isn't publicly documented; the verified Sonor endorsement began in 2005."
       },
       {
         "era": "obZen / Koloss",

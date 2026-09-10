@@ -95,6 +95,7 @@ const cymbalBrands = rankBrands(['Zildjian', 'Sabian', 'Paiste', 'Meinl'], ['cym
 const hardwareBrands = rankBrands(['Tama', 'DW', 'Pearl', 'Axis', 'Gibraltar', 'Trick'], ['hardware']);
 const stickBrands = rankBrands(['Vic Firth', 'Promark', 'Vater', 'Ahead', 'Zildjian', 'Regal Tip'], ['sticks']);
 const snareBrands = rankBrands(['Pearl', 'Tama', 'Ludwig', 'DW', 'Mapex', 'Sonor', 'Canopus', 'SJC', 'ddrum'], ['snare']);
+const headBrands = rankBrands(['Remo', 'Evans', 'Aquarian', 'Attack'], ['heads']);
 
 const meinlGenreMatch = countBrandUsersByGenre('Meinl', ['prog', 'djent', 'death']);
 
@@ -187,6 +188,19 @@ for (const r of stickBrands) {
 md += `\n**Key insight:** Vic Firth dominates at ${topStickBrand.pct}% — no other stick brand comes close. `;
 md += `Promark is the clear second choice at ${stickBrands[1] ? stickBrands[1].pct + '%' : 'N/A'}.\n\n`;
 
+// --- Section 5b: Drumhead Brands ----------------------------------------------
+md += `## Drumhead Brands\n\n`;
+if (headBrands.length > 0) {
+  const withHeadsCount = countWithField('heads');
+  md += `Based on ${withHeadsCount} drummers with verified drumhead data (${Math.round(withHeadsCount / total * 100)}% of roster).\n\n`;
+  md += `**Most popular drumhead brand:** ${headBrands[0].brand} (${headBrands[0].count}/${total} drummers, ${headBrands[0].pct}%)\n\n`;
+  for (const r of headBrands) {
+    const bar = '█'.repeat(Math.max(1, Math.round(r.pct / 5)));
+    md += `- **${r.brand}:** ${r.pct}% (${r.count}/${total} drummers) ${bar}\n`;
+  }
+  md += `\n`;
+}
+
 // --- Section 6: Key Facts ----------------------------------------------------
 md += `## Key Facts\n\n`;
 md += `- **Total drummers in database:** ${total}\n`;
@@ -223,7 +237,7 @@ const outPath = path.join(outDir, 'stats.md');
 fs.writeFileSync(outPath, md);
 
 const words = md.split(/\s+/).filter(Boolean).length;
-const sections = [drumBrands, cymbalBrands, hardwareBrands, snareBrands, stickBrands].filter(s => s.length > 0).length;
+const sections = [drumBrands, cymbalBrands, hardwareBrands, snareBrands, stickBrands, headBrands].filter(s => s.length > 0).length;
 console.log(`✅ Generated public/llms/stats.md — ${sections + 2} sections (${words} words)`);
 console.log(`   Double bass: ${doubleBassCount}/${total} (${doubleBassPct}%)`);
 console.log(`   Top drum brand: ${topDrumBrand.brand} (${topDrumBrand.pct}%)`);

@@ -3367,7 +3367,7 @@ export const GEAR_PRICE_HISTORY = {
   // ==========================================
   // MATT HALPERN - 2016 Periphery / Select Difficulty Era
   // Issue #3187: Gear Price History Batch 27
-  // Mapex Saturn + Mapex Black Panther Signature Snare Setup
+  // Pearl Reference Series + Pearl Signature Snare Setup
   // ==========================================
   'matt-halpern': {
     slug: 'matt-halpern',
@@ -3378,35 +3378,35 @@ export const GEAR_PRICE_HISTORY = {
     albumReference: 'Periphery III: Select Difficulty (2016)',
     profileImage: '/images/drummers/matt-halpern.webp',
 
-    summary: "Matt Halpern's 2016 setup behind Periphery III: Select Difficulty captures the moment djent drumming earned formal recognition from the mainstream music industry — the album's \"The Price Is Wrong\" brought Periphery a Grammy nomination for Best Metal Performance, the first for any djent-identified act. By 2016, Halpern's gear story had completed a full arc: the DW Collector's Series and Sabian HHX cymbals that recorded Periphery's 2010 self-titled debut had given way, via the transitional Periphery II (2012) sessions, to a full Mapex Saturn endorsement and a comprehensive Meinl Byzance cymbal setup. The Mapex Saturn's maple/walnut hybrid shells and SONIClear bearing edges delivered the focused attack that producer Jens Bogren's mix demanded, while a Mapex Black Panther Design Lab snare — offered in cherry, brass, maple, and steel shell options — gave Halpern a signature-tier drum that could shift from explosive backbeat authority to whisper-quiet ghost notes within a single measure. DW 9000 double pedals, chosen for their organic chain-drive feel over the more clinical direct-drive alternatives common in extreme metal, anchored hardware that also included Mapex's flagship Falcon hi-hat stand and Saddle throne. The complete 2016 rig cost approximately $10,398, equivalent to roughly $14,200 in 2026 after CPI adjustment. Halpern's gear has since evolved again — he left Mapex for a Pearl Reference Series endorsement, the setup that powers Hail Stan (2019) and Aliens (2023) — but Select Difficulty remains the high-water mark where the Mapex/Meinl combination first proved capable of Grammy-caliber recognition, cementing Halpern's status as one of progressive metal's most influential drum-gear tastemakers.",
+    summary: "Matt Halpern's 2016 setup behind Periphery III: Select Difficulty captures the moment djent drumming earned formal recognition from the mainstream music industry — the album's \"The Price Is Wrong\" brought Periphery a Grammy nomination for Best Metal Performance, the first for any djent-identified act. By 2016, Halpern's gear story had already turned a corner: after starting on Mapex, he moved to Yamaha in 2010 during Periphery's early years, then signed with Pearl in 2015 alongside a signature snare drum deal — a year before Select Difficulty was tracked. The Pearl Reference Series shell pack and a comprehensive Meinl Byzance cymbal setup that recorded the album reflect that freshly inked Pearl partnership. Halpern's Pearl Reference signature-tier snare gave him a drum that could shift from explosive backbeat authority to whisper-quiet ghost notes within a single measure. DW 9000 double pedals, chosen for their organic chain-drive feel over the more clinical direct-drive alternatives common in extreme metal, anchored hardware built around the new Pearl kit. The complete 2016 rig cost approximately $10,398, equivalent to roughly $14,200 in 2026 after CPI adjustment. Halpern has remained with Pearl ever since — the same partnership powers Hail Stan (2019) and Aliens (2023) — making Select Difficulty the moment the Pearl/Meinl combination first proved capable of Grammy-caliber recognition, cementing Halpern's status as one of progressive metal's most influential drum-gear tastemakers.",
 
     setup: {
       drums: {
-        item: 'Mapex Saturn Series',
-        model: 'Maple/Walnut Hybrid shell pack',
-        specs: '22"x18" kick, 10"x7" rack, 12"x8" rack, 14"x14" floor, 16"x16" floor — SONIClear bearing edges',
+        item: 'Pearl Reference Series',
+        model: 'Reference Series maple shell pack',
+        specs: '22"x18" kick, 10"x7" rack, 12"x8" rack, 14"x14" floor, 16"x16" floor',
         originalPrice: 5750,
         year: 2016,
-        source: 'Mapex Saturn Series MSRP 2016; MetalForge album-article gear breakdown ($4,500–$7,000 estimated value)',
-        notes: "The Saturn's maple-and-walnut hybrid shells gave Halpern punchy low end and focused attack — the tonal palette Jens Bogren's mix needed for Select Difficulty's most direct, compressed Periphery record to that point.",
+        source: 'Pearl Reference Series MSRP 2016; MetalForge album-article gear breakdown ($4,500–$7,000 estimated value)',
+        notes: "Halpern signed with Pearl in 2015, a year before Select Difficulty — the Reference Series shells gave him the punchy low end and focused attack that producer Jens Bogren's mix needed for the album's most direct, compressed Periphery record to that point.",
         vintageValue2026: 6000,
         modernEquivalent: {
-          item: 'Pearl Reference Series (current spec)',
+          item: 'Pearl Reference Series (2026 configuration)',
           price: 7000,
           link: 'pearl-reference-series-drums-halpern',
         },
       },
       snare: {
-        item: 'Mapex Black Panther Design Lab',
-        model: '14"x6" Design Lab (cherry/brass/maple options)',
-        specs: '14"x6" Design Lab shell, variable wood/metal shell options',
+        item: 'Pearl Reference',
+        model: '14"x6.5" Brass',
+        specs: '14"x6.5" Brass shell',
         originalPrice: 625,
         year: 2016,
-        source: 'Mapex Black Panther Design Lab catalog 2016',
-        notes: "The Design Lab's variety of shell materials let Halpern match snare character to musical context across Select Difficulty's nine tracks — explosive backbeat authority on \"The Price Is Wrong,\" subtle dynamic shading elsewhere.",
+        source: 'Pearl Reference Series signature snare deal, 2015; Pearl catalog pricing',
+        notes: "Part of the signature snare drum deal that came with Halpern's 2015 Pearl endorsement, the Reference brass shell let him match snare character to musical context across Select Difficulty's nine tracks — explosive backbeat authority on \"The Price Is Wrong,\" subtle dynamic shading elsewhere.",
         vintageValue2026: 700,
         modernEquivalent: {
-          item: 'Pearl Reference 14"x6.5" Brass (current spec)',
+          item: 'Pearl Reference 14"x6.5" Brass (2026 configuration)',
           price: 750,
           link: 'pearl-reference-brass-snare-halpern',
         },
@@ -3427,18 +3427,18 @@ export const GEAR_PRICE_HISTORY = {
         },
       },
       hardware: {
-        item: 'DW 9000 Double Pedal + Mapex Hardware',
-        model: 'DW 9000 chain drive + Mapex Falcon/Saddle',
-        specs: 'DW 9000 double pedal, Mapex Falcon hi-hat stand, Mapex Saddle throne',
+        item: 'DW 9000 Double Pedal + Pearl Hardware',
+        model: 'DW 9000 chain drive + Pearl hi-hat stand/throne',
+        specs: 'DW 9000 double pedal, Pearl hi-hat stand, Pearl throne',
         originalPrice: 900,
         year: 2016,
-        source: 'DW hardware retail 2016, Mapex hardware catalog',
+        source: 'DW hardware retail 2016, Pearl hardware catalog',
         notes: "Halpern valued the DW 9000's organic chain-drive feel over the more clinical direct-drive setups common in extreme metal — a quality that contributes to the groove distinguishing his playing even on the album's most aggressive tracks.",
         vintageValue2026: 800,
         modernEquivalent: {
-          item: 'DW 9000 + Mapex Falcon hardware pack',
+          item: 'DW 9000 + Pearl hardware pack',
           price: 1100,
-          link: 'dw-9000-mapex-falcon-hardware',
+          link: 'dw-9000-pearl-hardware',
         },
       },
       sticks: {
@@ -3483,14 +3483,14 @@ export const GEAR_PRICE_HISTORY = {
     priceEvolution: [
       { year: 2016, price: 10398, label: 'Original Purchase', event: 'Periphery III: Select Difficulty recording' },
       { year: 2017, price: 10700, label: 'Grammy nomination', event: "'The Price Is Wrong' earns a Best Metal Performance nomination at the 59th Grammy Awards" },
-      { year: 2019, price: 11800, label: 'Hail Stan era', event: 'Halpern switches from Mapex to Pearl Reference Series' },
+      { year: 2019, price: 11800, label: 'Hail Stan era', event: 'Continued Pearl Reference Series and Meinl Byzance setup for Periphery IV: Hail Stan' },
       { year: 2023, price: 13200, label: 'Aliens era', event: 'Mature Pearl Reference Series configuration on Periphery V' },
       { year: 2025, price: 13800, label: 'Continued Pearl/Meinl endorsement', event: "Halpern remains one of djent's most influential gear tastemakers" },
       { year: 2026, price: 14200, label: 'Current adjusted', event: 'Inflation-adjusted value' },
     ],
 
     sources: [
-      { title: 'Mapex Saturn Series Professional Catalog', year: 2016, type: 'catalog' },
+      { title: 'Pearl Reference Series Professional Catalog', year: 2016, type: 'catalog' },
       { title: 'Modern Drummer — Matt Halpern Interview', year: 2017, type: 'interview' },
       { title: 'Meinl Byzance Artist Profile Archives', year: 2016, type: 'manufacturer' },
       { title: 'MetalForge Album Article — Periphery III: Select Difficulty Drum Setup', year: 2026, type: 'fan-compiled' },
@@ -3498,8 +3498,8 @@ export const GEAR_PRICE_HISTORY = {
 
     meta: {
       title: "Matt Halpern 2016 Periphery Drum Setup Cost | Select Difficulty Gear Prices",
-      description: "How much did Matt Halpern's 2016 Periphery III: Select Difficulty drum kit cost? Original ~$10,398, inflation-adjusted to ~$14,200 today. Complete Mapex Saturn breakdown from the Grammy-nominated era.",
-      keywords: ['matt halpern drum kit cost', 'periphery drummer gear history', 'matt halpern mapex saturn setup', 'select difficulty drums', 'matt halpern signature snare'],
+      description: "How much did Matt Halpern's 2016 Periphery III: Select Difficulty drum kit cost? Original ~$10,398, inflation-adjusted to ~$14,200 today. Complete Pearl Reference Series breakdown from the Grammy-nominated era.",
+      keywords: ['matt halpern drum kit cost', 'periphery drummer gear history', 'matt halpern pearl reference setup', 'select difficulty drums', 'matt halpern signature snare'],
     },
   },
 

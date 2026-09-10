@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-09-10 11:57 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-09-10 12:48 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -9,19 +9,19 @@
 | Metric | Last 7d |
 | --- | --- |
 | Active users | 315 |
-| Sessions | 348 |
-| Page views | 588 |
-| Engagement rate | 66.09% |
-| Avg session (s) | 140 |
+| Sessions | 349 |
+| Page views | 594 |
+| Engagement rate | 65.90% |
+| Avg session (s) | 146 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
 | /drummer/mario-duplantier | 27 | 24 |
 | / | 25 | 15 |
-| /drummers | 20 | 8 |
+| /drummers | 21 | 8 |
+| /drummer/joey-jordison | 15 | 8 |
 | /drummer/bill-ward | 14 | 7 |
-| /drummer/joey-jordison | 14 | 8 |
 | /drummer/john-otto | 11 | 10 |
 | /drummer/matt-greiner | 9 | 6 |
 | /articles/mario-duplantier-gear | 7 | 6 |
@@ -33,7 +33,7 @@
 | --- | --- | --- |
 | Organic Search | 277 | 244 |
 | Direct | 55 | 55 |
-| Unassigned | 19 | 18 |
+| Unassigned | 20 | 18 |
 | Cross-network | 5 | 5 |
 | AI Assistant | 2 | 2 |
 | Referral | 1 | 1 |

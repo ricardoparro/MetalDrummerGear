@@ -1,7 +1,7 @@
 # Zildjian vs Sabian Cymbals for Metal — Side-by-Side Gear Comparison
 
 > MetalForge's side-by-side comparison of Zildjian and Sabian cymbals used by pro metal drummers.
-> Last updated: 2026-09-09
+> Last updated: 2026-09-10
 
 The ultimate Zildjian vs Sabian comparison for metal drummers. A/K series vs AAX/HHX, sound profiles, durability, pricing, and which cymbals top metal drummers actually use.
 
@@ -25,6 +25,7 @@ Sabian is particularly well-suited for: Progressive metal, djent, groove metal, 
 |---|---|---|
 | **Model** | A Custom | AAX |
 | **Price Range** | €1,500 - €2,500 (full setup) | €1,400 - €2,300 (full setup) |
+| **Rating** | 4.7/5 | 4.6/5 |
 | **Material** | B20 Bronze (proprietary alloy) | B20 Bronze |
 | **Finish** | Brilliant (A Custom), Traditional (K) | Brilliant (AAX), Natural (HHX/HH) |
 | **Manufacturing** | Machine + hand finishing | Hand-hammered (HHX) / Machine (AAX) |

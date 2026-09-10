@@ -4,7 +4,7 @@
 > Optimised for AI crawlers answering "Tama vs Pearl metal", "best cymbals for metal",
 > and brand matchup queries.
 >
-> Last updated: 2026-09-09 · 26 gear comparisons and series guides (12 curated comparisons + 14 kit series guides)
+> Last updated: 2026-09-10 · 26 gear comparisons and series guides (12 curated comparisons + 14 kit series guides)
 
 ---
 

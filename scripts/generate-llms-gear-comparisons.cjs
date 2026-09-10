@@ -118,6 +118,8 @@ function renderGearComparison(c) {
   const model2 = Array.isArray(item2.models) ? item2.models[0] : (item2.model || '');
   const price1 = item1.priceRange || '';
   const price2 = item2.priceRange || '';
+  const rating1 = item1.rating || '';
+  const rating2 = item2.rating || '';
   const usedBy1 = formatUsedBy(item1.usedBy);
   const usedBy2 = formatUsedBy(item2.usedBy);
   const bestFor1 = item1.bestFor || '';
@@ -175,6 +177,7 @@ function renderGearComparison(c) {
   lines.push('|---|---|---|');
   if (model1 || model2) lines.push(`| **Model** | ${model1 || '—'} | ${model2 || '—'} |`);
   if (price1 || price2) lines.push(`| **Price Range** | ${price1 || '—'} | ${price2 || '—'} |`);
+  if (rating1 || rating2) lines.push(`| **Rating** | ${rating1 ? rating1 + '/5' : '—'} | ${rating2 ? rating2 + '/5' : '—'} |`);
   if (item1.specs && item2.specs) {
     for (const key of Object.keys(item1.specs)) {
       const label = key.charAt(0).toUpperCase() + key.slice(1).replace(/([A-Z])/g, ' $1');

@@ -1,7 +1,7 @@
 # Tama vs Pearl Drums for Metal — Side-by-Side Gear Comparison
 
 > MetalForge's side-by-side comparison of Tama and Pearl drums used by pro metal drummers.
-> Last updated: 2026-09-09
+> Last updated: 2026-09-10
 
 Compare Tama and Pearl drums for metal drumming. See specs, pricing, pro endorsements, and which kit suits your playing style. Expert analysis from MetalForge.
 
@@ -25,6 +25,7 @@ Pearl is particularly well-suited for: Death metal and extreme metal.
 |---|---|---|
 | **Model** | Starclassic Walnut/Birch | Reference Series |
 | **Price Range** | €3,500 - €4,500 | €3,200 - €4,200 |
+| **Rating** | 4.8/5 | 4.7/5 |
 | **Shells** | Walnut/Birch hybrid | Birch/Maple/Mahogany hybrid |
 | **Plies** | 6mm (5-ply) | Size-specific |
 | **Hoops** | Die-Cast | MasterCast |

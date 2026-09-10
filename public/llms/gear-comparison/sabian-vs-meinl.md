@@ -1,7 +1,7 @@
 # Sabian vs Meinl Cymbals for Metal — Side-by-Side Gear Comparison
 
 > MetalForge's side-by-side comparison of Sabian and Meinl cymbals used by pro metal drummers.
-> Last updated: 2026-09-09
+> Last updated: 2026-09-10
 
 Sabian HHX/AAX vs Meinl Byzance for metal drumming. Compare bright vs dark tones, pricing, and which cymbals top progressive and groove metal drummers prefer.
 
@@ -25,6 +25,7 @@ Meinl is particularly well-suited for: Progressive metal, djent, modern metal.
 |---|---|---|
 | **Model** | HHX Series | Byzance Series |
 | **Price Range** | €1,900 - €2,500 | €2,000 - €3,000 |
+| **Rating** | 4.7/5 | 4.8/5 |
 | **Material** | B20 Bronze | B20 Bronze |
 | **Finish** | Natural/Brilliant | Traditional/Brilliant/Extra Dry |
 | **Manufacturing** | Hand-hammered (HHX) / Machine (AAX) | Hand-hammered |

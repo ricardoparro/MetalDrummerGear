@@ -263,6 +263,11 @@ function buildMarkdown(list) {
   parts.push(list.description.trim());
   parts.push('');
 
+  if (Array.isArray(list.seoKeywords) && list.seoKeywords.length) {
+    parts.push(`**Keywords:** ${list.seoKeywords.join(', ')}`);
+    parts.push('');
+  }
+
   // Optional intro article section
   if (list.intro && list.intro.content) {
     parts.push('### Background');

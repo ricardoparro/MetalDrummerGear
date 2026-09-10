@@ -1,6 +1,6 @@
 # Top 10 Melodic Death Metal Drummers — Complete Ranked Guide
 
-> **Last updated:** 2026-07-25 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/melodic-death-metal-drummers)
+> **Last updated:** 2026-09-10 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/melodic-death-metal-drummers)
 
 ---
 
@@ -19,10 +19,10 @@ Ranked by documented performance records, genre-defining influence, and technica
 ### 1. Daniel Erlandsson
 
 **Band:** Arch Enemy
-**Highlight:** Arch Enemy's founding rhythmic architect since 1995
-**Why ranked here:** Daniel Erlandsson co-founded Arch Enemy in 1995 and has anchored every album since, combining Scandinavian death metal intensity with the technical precision and musicality that gives Michael Amott's melodic lead lines their rhythmic foundation. His prior work with Eucharist and In Flames places him at the genre's Gothenburg source
+**Highlight:** Arch Enemy's rhythmic architect since 1996
+**Why ranked here:** Daniel Erlandsson joined Arch Enemy in 1996 and has anchored every album since, combining Scandinavian death metal intensity with the technical precision and musicality that gives Michael Amott's melodic lead lines their rhythmic foundation. His prior work with Eucharist and In Flames places him at the genre's Gothenburg source
 
-Daniel Erlandsson (Arch Enemy) earns rank #1 for: arch enemy's founding rhythmic architect since 1995. Daniel Erlandsson co-founded Arch Enemy in 1995 and has anchored every album since, combining Scandinavian death metal intensity with the technical precision and musicality that gives Michael Amott's melodic lead lines their rhythmic foundation. His prior work with Eucharist and In Flames places him at the genre's Gothenburg source.
+Daniel Erlandsson (Arch Enemy) earns rank #1 for: arch enemy's rhythmic architect since 1996. Daniel Erlandsson joined Arch Enemy in 1996 and has anchored every album since, combining Scandinavian death metal intensity with the technical precision and musicality that gives Michael Amott's melodic lead lines their rhythmic foundation. His prior work with Eucharist and In Flames places him at the genre's Gothenburg source.
 
 Full drummer profile: [Daniel Erlandsson on MetalForge](https://metalforge.io/drummer/daniel-erlandsson)
 
@@ -121,7 +121,7 @@ Full drummer profile: [Flo Mounier on MetalForge](https://metalforge.io/drummer/
 ## Frequently Asked Questions
 
 **Q: Who is the best melodic death metal drummer?**
-A: Daniel Erlandsson of Arch Enemy is the most widely cited best melodic death metal drummer — a founding member since 1995 whose technically precise, Scandinavian-schooled drumming has anchored every Arch Enemy album and given Michael Amott's melodic lead guitar work its rhythmic backbone. Jaska Raatikainen of Children of Bodom is the alternative choice, having spent 26 years co-driving one of the genre's most commercially successful bands. Dirk Verbeuren earns the argument for genre-defining longevity — 18 years with Soilwork, one of melodic death metal's most influential Swedish acts, before his move to Megadeth.
+A: Daniel Erlandsson of Arch Enemy is the most widely cited best melodic death metal drummer — drumming since 1996 with technically precise, Scandinavian-schooled playing that has anchored every Arch Enemy album and given Michael Amott's melodic lead guitar work its rhythmic backbone. Jaska Raatikainen of Children of Bodom is the alternative choice, having spent 26 years co-driving one of the genre's most commercially successful bands. Dirk Verbeuren earns the argument for genre-defining longevity — 18 years with Soilwork, one of melodic death metal's most influential Swedish acts, before his move to Megadeth.
 
 **Q: Who is the fastest melodic death metal drummer?**
 A: George Kollias, though best known for technical death metal band Nile rather than melodic death metal specifically, holds documented blast beat speeds exceeding 280 BPM and represents the extreme-speed ceiling melodic death metal drummers draw on. Within melodic death metal proper, Jaska Raatikainen's sustained double bass work across Children of Bodom's catalog and Daniel Erlandsson's blast beat execution on Arch Enemy's heavier material set the genre's practical speed standard, balancing extreme tempo with the riff-tracking precision melodic guitar lines require.
@@ -150,4 +150,4 @@ A: Melodic death metal drummers favor gear built for both riff-locked precision 
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

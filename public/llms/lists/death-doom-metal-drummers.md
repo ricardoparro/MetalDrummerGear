@@ -1,6 +1,6 @@
 # Top 10 Death-Doom Metal Drummers — Complete Ranked Guide
 
-> **Last updated:** 2026-07-25 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/death-doom-metal-drummers)
+> **Last updated:** 2026-09-10 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/death-doom-metal-drummers)
 
 ---
 
@@ -76,15 +76,15 @@ George Kollias (Nile) earns rank #6 for: nile's dense, crushing compositional ar
 
 Full drummer profile: [George Kollias on MetalForge](https://metalforge.io/drummer/george-kollias)
 
-### 7. Bill Ward
+### 7. Derek Roddy
 
-**Band:** Black Sabbath
+**Band:** Hate Eternal / Nile
 **Highlight:** Hate Eternal's disciplined tempo control
 **Why ranked here:** Derek Roddy's reputation for recording entire death metal albums in single takes reflects a tempo discipline that translates directly into death-doom's demanding structural shifts — his 260+ BPM swivel technique, documented in "The Evolution of Blast Beats," is matched by an equally rigorous command of the crushing, deliberate passages that punctuate Hate Eternal's most intense material. Derek Roddy earns rank #7 for bringing the same systematic precision to doom-tempo sections that he brings to extreme speed.
 
-Bill Ward (Black Sabbath) earns rank #7 for: hate eternal's disciplined tempo control. Derek Roddy's reputation for recording entire death metal albums in single takes reflects a tempo discipline that translates directly into death-doom's demanding structural shifts — his 260+ BPM swivel technique, documented in "The Evolution of Blast Beats," is matched by an equally rigorous command of the crushing, deliberate passages that punctuate Hate Eternal's most intense material. Derek Roddy earns rank #7 for bringing the same systematic precision to doom-tempo sections that he brings to extreme speed..
+Derek Roddy (Hate Eternal / Nile) earns rank #7 for: hate eternal's disciplined tempo control. Derek Roddy's reputation for recording entire death metal albums in single takes reflects a tempo discipline that translates directly into death-doom's demanding structural shifts — his 260+ BPM swivel technique, documented in "The Evolution of Blast Beats," is matched by an equally rigorous command of the crushing, deliberate passages that punctuate Hate Eternal's most intense material. Derek Roddy earns rank #7 for bringing the same systematic precision to doom-tempo sections that he brings to extreme speed..
 
-Full drummer profile: [Bill Ward on MetalForge](https://metalforge.io/drummer/bill-ward)
+Full drummer profile: [Derek Roddy on MetalForge](https://metalforge.io/drummer/derek-roddy)
 
 ### 8. Hannes Grossmann
 
@@ -150,4 +150,4 @@ A: Paradise Lost's "Gothic" (1991) and My Dying Bride's "Turn Loose the Swans" (
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

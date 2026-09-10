@@ -1,12 +1,14 @@
 # Top 10 Most Expensive Metal Drum Setups — Complete Ranked Guide
 
-> **Last updated:** 2026-07-25 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/most-expensive-drum-setups)
+> **Last updated:** 2026-09-10 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/most-expensive-drum-setups)
 
 ---
 
 ## Overview
 
 The ultimate in drum gear luxury. These metal drummers play setups worth more than most cars, featuring custom shells, signature snares, premium cymbals, and cutting-edge electronics. From Sonor SQ2 to Pearl Masterworks, these are the most expensive kits in metal.
+
+**Keywords:** expensive drum kit, luxury drum setup, metal drummer gear, sonor sq2, pearl masterworks, premium cymbals, danny carey kit, tomas haake drums
 
 Discover the most expensive metal drum setups in the world. Premium shells, signature gear, and luxury kits from Danny Carey, Tomas Haake, George Kollias and more.
 
@@ -56,7 +58,7 @@ Full drummer profile: [Mario Duplantier on MetalForge](https://metalforge.io/dru
 
 **Band:** Mastodon
 **Highlight:** Est. €8,500+ setup
-**Why ranked here:** DW Collector's Series Maple + full Meinl Byzance cymbal arsenal
+**Why ranked here:** Tama Starclassic Performer B/B + full Meinl cymbal arsenal
 **Estimated kit value:** €8,500+
 
 Full drummer profile: [Brann Dailor on MetalForge](https://metalforge.io/drummer/brann-dailor)
@@ -133,4 +135,4 @@ A: At that price point, you're paying for custom shell specifications, exotic wo
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

@@ -1,6 +1,6 @@
 # Top 10 Goregrind Drummers — Complete Ranked Guide
 
-> **Last updated:** 2026-07-25 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/goregrind-drummers)
+> **Last updated:** 2026-09-10 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/goregrind-drummers)
 
 ---
 
@@ -20,9 +20,9 @@ Ranked by documented performance records, genre-defining influence, and technica
 
 **Band:** Arch Enemy
 **Highlight:** Carcass live connection — goregrind's founding band, direct roster link
-**Why ranked here:** Daniel Erlandsson is the only MetalForge roster drummer with a documented direct connection to Carcass, the Liverpool band whose "Reek of Putrefaction" (1988) and "Symphonies of Sickness" (1989) invented goregrind's gore-obsessed lyrical template and pitch-shifted vocal pairing. Erlandsson has performed live drums for Carcass alongside his main work co-founding melodic death metal band Arch Enemy in 1995 and his session and live history with Eucharist and In Flames. That direct lineage — performing the actual material goregrind's founders wrote — makes Erlandsson the most literal goregrind connection on MetalForge, even though his primary studio catalog sits in melodic death metal rather than goregrind itself.
+**Why ranked here:** Daniel Erlandsson is the only MetalForge roster drummer with a documented direct connection to Carcass, the Liverpool band whose "Reek of Putrefaction" (1988) and "Symphonies of Sickness" (1989) invented goregrind's gore-obsessed lyrical template and pitch-shifted vocal pairing. Erlandsson has performed live drums for Carcass alongside his main work drumming for melodic death metal band Arch Enemy since 1996 and his session and live history with Eucharist and In Flames. That direct lineage — performing the actual material goregrind's founders wrote — makes Erlandsson the most literal goregrind connection on MetalForge, even though his primary studio catalog sits in melodic death metal rather than goregrind itself.
 
-Daniel Erlandsson (Arch Enemy) earns rank #1 for: carcass live connection — goregrind's founding band, direct roster link. Daniel Erlandsson is the only MetalForge roster drummer with a documented direct connection to Carcass, the Liverpool band whose "Reek of Putrefaction" (1988) and "Symphonies of Sickness" (1989) invented goregrind's gore-obsessed lyrical template and pitch-shifted vocal pairing. Erlandsson has performed live drums for Carcass alongside his main work co-founding melodic death metal band Arch Enemy in 1995 and his session and live history with Eucharist and In Flames. That direct lineage — performing the actual material goregrind's founders wrote — makes Erlandsson the most literal goregrind connection on MetalForge, even though his primary studio catalog sits in melodic death metal rather than goregrind itself..
+Daniel Erlandsson (Arch Enemy) earns rank #1 for: carcass live connection — goregrind's founding band, direct roster link. Daniel Erlandsson is the only MetalForge roster drummer with a documented direct connection to Carcass, the Liverpool band whose "Reek of Putrefaction" (1988) and "Symphonies of Sickness" (1989) invented goregrind's gore-obsessed lyrical template and pitch-shifted vocal pairing. Erlandsson has performed live drums for Carcass alongside his main work drumming for melodic death metal band Arch Enemy since 1996 and his session and live history with Eucharist and In Flames. That direct lineage — performing the actual material goregrind's founders wrote — makes Erlandsson the most literal goregrind connection on MetalForge, even though his primary studio catalog sits in melodic death metal rather than goregrind itself..
 
 Full drummer profile: [Daniel Erlandsson on MetalForge](https://metalforge.io/drummer/daniel-erlandsson)
 
@@ -110,4 +110,4 @@ A: Carcass founded goregrind with "Reek of Putrefaction" (1988) and "Symphonies 
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

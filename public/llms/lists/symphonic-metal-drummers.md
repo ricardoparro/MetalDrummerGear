@@ -1,6 +1,6 @@
 # Top 10 Symphonic Metal Drummers — Complete Ranked Guide
 
-> **Last updated:** 2026-07-25 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/symphonic-metal-drummers)
+> **Last updated:** 2026-09-10 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/symphonic-metal-drummers)
 
 ---
 
@@ -127,7 +127,7 @@ A: Hellhammer is the most influential symphonic metal drummer, having contribute
 A: Symphonic metal drumming must serve two masters simultaneously: the extreme metal aggression of blast beats and double bass at high tempos, and the orchestral grandeur of full symphony arrangements that require dynamic sensitivity and precise timing relative to conducted ensembles. Where death or black metal drumming can operate with raw intensity, symphonic metal drumming requires awareness of the full orchestral texture — knowing when to pull back, when to add dynamics, and how to create space for choir and string arrangements while still delivering extreme metal's physical impact. This combination of extremity and orchestral sensitivity is what makes the best symphonic metal drummers unique.
 
 **Q: What drum gear do symphonic metal drummers use?**
-A: Symphonic metal drummers favor large kits capable of delivering the power and complexity their music demands. Hellhammer uses Sonor SQ2 Heavy Beech with Paiste RUDE cymbals and Axis double pedals, known for their projection in orchestral contexts. Daray plays Pearl kits. Frost uses Sonor SQ2 with Zildjian cymbals and Sonor Perfect Balance pedals. The common thread is equipment that produces clear, powerful sound that can cut through full orchestral arrangements without electronic augmentation — projection and attack consistency are paramount in symphonic metal contexts.
+A: Symphonic metal drummers favor large kits capable of delivering the power and complexity their music demands. Hellhammer uses Sonor SQ2 Heavy Beech with Paiste RUDE cymbals and Axis double pedals, known for their projection in orchestral contexts. Daray plays Pearl kits. Frost uses a Tama Starclassic Bubinga kit with Zildjian cymbals and a Tama Iron Cobra Power Glide pedal. The common thread is equipment that produces clear, powerful sound that can cut through full orchestral arrangements without electronic augmentation — projection and attack consistency are paramount in symphonic metal contexts.
 
 
 ---
@@ -141,4 +141,4 @@ A: Symphonic metal drummers favor large kits capable of delivering the power and
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

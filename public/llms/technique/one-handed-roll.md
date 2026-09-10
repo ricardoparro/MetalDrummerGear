@@ -10,6 +10,8 @@
 
 The one-handed roll allows drummers to play rapid consecutive strokes with a single hand, achieving speeds impossible with standard alternating technique. Using a push-pull or finger control motion, the stick produces two notes per hand motion, effectively doubling your speed potential.
 
+**Keywords:** one-handed roll, push-pull technique, fast drumming, drum roll technique, single hand roll
+
 The one-handed roll evolved from traditional rudimental techniques like the push-pull and finger technique. Buddy Rich and other jazz drummers used variations of this technique for rapid single-hand passages. In extreme metal, drummers adapted these concepts for blast beats and rapid fills. Johnny Rabb systematized the "gravity blast" version, while many metal drummers developed their own variations.
 
 ## How to Play One-Handed Roll
@@ -88,4 +90,4 @@ A: Closely related techniques include Gravity Blast, Blast Beat. Mastering these
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

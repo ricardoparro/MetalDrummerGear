@@ -1,12 +1,14 @@
 # 10 Best Classic Heavy Metal Drummers of All Time — Complete Ranked Guide
 
-> **Last updated:** 2026-07-25 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/best-classic-heavy-metal-drummers)
+> **Last updated:** 2026-09-10 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/best-classic-heavy-metal-drummers)
 
 ---
 
 ## Overview
 
 The definitive ranking of the greatest classic heavy metal drummers ever. From Bill Ward's doom-laden Black Sabbath foundation to Nicko McBrain's galloping Iron Maiden precision, these ten drummers built heavy metal's rhythmic DNA across the genre's foundational 1970s and 1980s era.
+
+**Keywords:** best classic heavy metal drummer, best classic heavy metal drummers, greatest 70s 80s metal drummers, classic heavy metal drumming, bill ward, nicko mcbrain, scott travis, vinnie paul, mikkey dee
 
 ### Background
 
@@ -170,4 +172,4 @@ A: Classic heavy metal drummers favor durable, road-proven kits built for decade
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

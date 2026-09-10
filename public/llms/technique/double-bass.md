@@ -10,6 +10,8 @@
 
 Double bass drumming uses two bass drums or a double pedal to create rapid, sustained bass drum patterns that form the rhythmic foundation of heavy metal. From the galloping rhythms of Iron Maiden to the machine-gun fire of death metal, double bass technique is essential for any metal drummer.
 
+**Keywords:** double bass drumming, double kick technique, heel toe technique, metal bass drum, double pedal tutorial
+
 While double bass drums existed in jazz (Louie Bellson pioneered them in the 1940s), metal drummers transformed the technique into an art form. Cozy Powell, Carmine Appice, and Tommy Aldridge brought double bass to hard rock. In the 1980s, Dave Lombardo (Slayer), Lars Ulrich (Metallica), and Gene Hoglan elevated speed and precision. The 1990s saw Pete Sandoval and George Kollias push boundaries beyond 250 BPM.
 
 ## How to Play Double Bass Drumming
@@ -98,4 +100,4 @@ A: Closely related techniques include Gallop, Blast Beat, Triggered Drums. Maste
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

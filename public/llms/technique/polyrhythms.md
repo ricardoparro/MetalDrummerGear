@@ -10,6 +10,8 @@
 
 Polyrhythms involve playing two or more conflicting rhythmic patterns simultaneously. In metal drumming, polyrhythms create tension, complexity, and that distinctive "off-kilter" feeling heard in bands like Meshuggah, Tool, and Gojira. Mastering polyrhythms opens up a world of creative possibilities and distinguishes great drummers from good ones.
 
+**Keywords:** polyrhythms, polyrhythmic drumming, meshuggah drums, complex rhythms, prog metal drums
+
 While polyrhythms have roots in African and Indian classical music, they entered metal through progressive rock. Bill Bruford (King Crimson, Yes) and Neil Peart (Rush) pioneered complex rhythms in rock. In metal, Danny Carey (Tool), Tomas Haake (Meshuggah), and Mario Duplantier (Gojira) have made polyrhythms central to their sound. Meshuggah's trademark sound is built on overlaying 4/4 patterns over odd meter phrases.
 
 ## How to Play Polyrhythms
@@ -92,4 +94,4 @@ A: Closely related techniques include Odd Time Signatures, Double Bass. Masterin
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

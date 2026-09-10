@@ -1,6 +1,6 @@
 # Top 10 Extreme Metal Drummers with the Best Groove — Complete Ranked Guide
 
-> **Last updated:** 2026-07-25 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/best-extreme-metal-drummers-with-groove)
+> **Last updated:** 2026-09-10 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/best-extreme-metal-drummers-with-groove)
 
 ---
 
@@ -80,9 +80,9 @@ Full drummer profile: [Art Cruz on MetalForge](https://metalforge.io/drummer/art
 
 **Band:** Arch Enemy
 **Highlight:** Melodic death metal's musicality-driven groove
-**Why ranked here:** Daniel Erlandsson co-founded Arch Enemy in 1995 and built a drumming style that combines Scandinavian death metal intensity with technical precision and a strong sense of musicality — a combination that gives Arch Enemy's riffs a rhythmic pocket most straightforward death metal doesn't prioritize. That musicality-first approach to extreme metal drumming has helped make Arch Enemy one of melodic death metal's most consistently accessible extreme acts. Erlandsson earns rank #7 for blending death metal intensity with genuine rhythmic musicality.
+**Why ranked here:** Daniel Erlandsson joined Arch Enemy in 1996 and built a drumming style that combines Scandinavian death metal intensity with technical precision and a strong sense of musicality — a combination that gives Arch Enemy's riffs a rhythmic pocket most straightforward death metal doesn't prioritize. That musicality-first approach to extreme metal drumming has helped make Arch Enemy one of melodic death metal's most consistently accessible extreme acts. Erlandsson earns rank #7 for blending death metal intensity with genuine rhythmic musicality.
 
-Daniel Erlandsson (Arch Enemy) earns rank #7 for: melodic death metal's musicality-driven groove. Daniel Erlandsson co-founded Arch Enemy in 1995 and built a drumming style that combines Scandinavian death metal intensity with technical precision and a strong sense of musicality — a combination that gives Arch Enemy's riffs a rhythmic pocket most straightforward death metal doesn't prioritize. That musicality-first approach to extreme metal drumming has helped make Arch Enemy one of melodic death metal's most consistently accessible extreme acts. Erlandsson earns rank #7 for blending death metal intensity with genuine rhythmic musicality..
+Daniel Erlandsson (Arch Enemy) earns rank #7 for: melodic death metal's musicality-driven groove. Daniel Erlandsson joined Arch Enemy in 1996 and built a drumming style that combines Scandinavian death metal intensity with technical precision and a strong sense of musicality — a combination that gives Arch Enemy's riffs a rhythmic pocket most straightforward death metal doesn't prioritize. That musicality-first approach to extreme metal drumming has helped make Arch Enemy one of melodic death metal's most consistently accessible extreme acts. Erlandsson earns rank #7 for blending death metal intensity with genuine rhythmic musicality..
 
 Full drummer profile: [Daniel Erlandsson on MetalForge](https://metalforge.io/drummer/daniel-erlandsson)
 
@@ -148,4 +148,4 @@ A: Gojira is the clearest modern example, fusing progressive death metal technic
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

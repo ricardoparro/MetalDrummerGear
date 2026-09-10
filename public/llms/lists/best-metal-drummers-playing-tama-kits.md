@@ -1,12 +1,12 @@
 # Top 10 Metal Drummers Playing Tama Kits — Complete Ranked Guide
 
-> **Last updated:** 2026-07-25 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/best-metal-drummers-playing-tama-kits)
+> **Last updated:** 2026-09-10 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/best-metal-drummers-playing-tama-kits)
 
 ---
 
 ## Overview
 
-MetalForge's gear-angle lists have already ranked cymbal brands and signature snares — this one turns to the drum kit itself, starting with Tama, the manufacturer with the deepest documented roster across MetalForge's gear guides, price-history features, and biographies. Lars Ulrich anchors the list: a Tama endorser since the mid-1980s, his Tama Starclassic Maple kit and signature Tama LU1465 snare have defined Metallica's cymbal-cutting attack for over three decades. Dave Lombardo has run Tama Starclassic shells for most of his post-Slayer career, currently a Starclassic Walnut/Birch kit paired with a Tama S.L.P. G-Maple snare, while Mike Portnoy's Tama relationship bookends a 1994-2010 stretch on DW Collector's Maple — he started on a Tama Artstar II in Dream Theater's earliest years and returned to Tama Starclassic Maple/Birch for his current setup. Charlie Benante and Mario Duplantier both run Tama Starclassic kits with matching Tama Iron Cobra double pedals, Eloy Casagrande brings Tama's Starclassic Bubinga into Slipknot's drum chair, and Gene Hoglan's formative decade on a Tama Superstar Classic kit with Dark Angel and Death predates the long Pearl chapter that made him "The Atomic Clock." Hannes Grossmann's Starclassic Maple setup closes out Obscura's technical death metal sound, while Jay Weinberg and Vinnie Paul round out the list with fully documented but time-bounded Tama chapters — Weinberg's decade on a Tama STAR Classic Maple kit during his 2014-2023 Slipknot tenure before a move to SJC Custom Drums, and Vinnie Paul's brief but real Tama stint during Pantera's breakthrough "Cowboys from Hell" era before he moved on to Remo, Pearl, and finally ddrum. Ranked by how extensively and currently each drummer's Tama relationship is documented in MetalForge's own gear data.
+MetalForge's gear-angle lists have already ranked cymbal brands and signature snares — this one turns to the drum kit itself, starting with Tama, the manufacturer with the deepest documented roster across MetalForge's gear guides, price-history features, and biographies. Lars Ulrich anchors the list: a Tama endorser since the mid-1980s, his Tama Starclassic Maple kit and signature Tama LU1465 snare have defined Metallica's cymbal-cutting attack for over three decades. Dave Lombardo has run Tama Starclassic shells for most of his post-Slayer career, currently a Starclassic Walnut/Birch kit paired with a Tama S.L.P. G-Maple snare, while Mike Portnoy has run Tama kits continuously since Dream Theater's earliest years in 1985 — one of the longest-running Tama endorsements in metal — starting on a Tama Artstar II and carrying the same Tama Starclassic Maple/Birch setup through his 2023 return to the band after thirteen years away. Charlie Benante and Mario Duplantier both run Tama Starclassic kits with matching Tama Iron Cobra double pedals, Eloy Casagrande brings Tama's Starclassic Bubinga into Slipknot's drum chair, and Gene Hoglan's formative decade on a Tama Superstar Classic kit with Dark Angel and Death predates the long Pearl chapter that made him "The Atomic Clock." Hannes Grossmann's Tama Starclassic Maple kit covered his own formative decade, including Obscura's 2009 breakthrough "Cosmogenesis," before he moved to DW for his current work, while Jay Weinberg and Vinnie Paul round out the list with fully documented but time-bounded Tama chapters — Weinberg's decade on a Tama STAR Classic Maple kit during his 2014-2023 Slipknot tenure before a move to SJC Custom Drums, and Vinnie Paul's brief but real Tama stint during Pantera's breakthrough "Cowboys from Hell" era before he moved on to Remo, Pearl, and finally ddrum. Ranked by how extensively and currently each drummer's Tama relationship is documented in MetalForge's own gear data.
 
 The metal drummers with verified Tama drum kit setups, ranked. Lars Ulrich's Starclassic Maple, Dave Lombardo, Mike Portnoy, Charlie Benante, Mario Duplantier, Eloy Casagrande, Gene Hoglan, Hannes Grossmann, Jay Weinberg, and Vinnie Paul — sourced from MetalForge's own gear guides, not guesswork.
 
@@ -39,10 +39,10 @@ Full drummer profile: [Dave Lombardo on MetalForge](https://metalforge.io/drumme
 ### 3. Mike Portnoy
 
 **Band:** Dream Theater / The Winery Dogs
-**Highlight:** Tama Starclassic Maple/Birch — bookending a career that also spent 16 years on DW
-**Why ranked here:** Mike Portnoy has been a Tama endorser since Dream Theater's earliest years, starting on a Tama Artstar II 8-piece custom kit for 1992's "Images and Words" before a 1994-2010 stretch on DW Collector's Maple and a return to Tama Starclassic Maple/Birch — paired with his signature Tama Mike Portnoy Melody Master 14"x5.5" snare and Tama Iron Cobra Power Glide double pedal — for his current work. Portnoy earns rank #3 for the most extensively documented Tama relationship of any drummer whose career has also touched a rival brand.
+**Highlight:** Tama Starclassic Maple/Birch — one of metal's longest-running Tama endorsements
+**Why ranked here:** Mike Portnoy has been a Tama endorser continuously since Dream Theater's earliest years in 1985 — one of the longest-running Tama endorsements in metal — starting on a Tama Artstar II 8-piece custom kit for 1992's "Images and Words" and carrying the same Tama Starclassic Maple/Birch kit, paired with his signature Tama Mike Portnoy Melody Master 14"x5.5" snare and Tama Iron Cobra Power Glide double pedal, through his 2023 return to Dream Theater after thirteen years away. Portnoy earns rank #3 for the longest continuously documented Tama relationship on this list.
 
-Mike Portnoy (Dream Theater / The Winery Dogs) earns rank #3 for: tama starclassic maple/birch — bookending a career that also spent 16 years on dw. Mike Portnoy has been a Tama endorser since Dream Theater's earliest years, starting on a Tama Artstar II 8-piece custom kit for 1992's "Images and Words" before a 1994-2010 stretch on DW Collector's Maple and a return to Tama Starclassic Maple/Birch — paired with his signature Tama Mike Portnoy Melody Master 14"x5.5" snare and Tama Iron Cobra Power Glide double pedal — for his current work. Portnoy earns rank #3 for the most extensively documented Tama relationship of any drummer whose career has also touched a rival brand..
+Mike Portnoy (Dream Theater / The Winery Dogs) earns rank #3 for: tama starclassic maple/birch — one of metal's longest-running tama endorsements. Mike Portnoy has been a Tama endorser continuously since Dream Theater's earliest years in 1985 — one of the longest-running Tama endorsements in metal — starting on a Tama Artstar II 8-piece custom kit for 1992's "Images and Words" and carrying the same Tama Starclassic Maple/Birch kit, paired with his signature Tama Mike Portnoy Melody Master 14"x5.5" snare and Tama Iron Cobra Power Glide double pedal, through his 2023 return to Dream Theater after thirteen years away. Portnoy earns rank #3 for the longest continuously documented Tama relationship on this list..
 
 Full drummer profile: [Mike Portnoy on MetalForge](https://metalforge.io/drummer/mike-portnoy)
 
@@ -89,10 +89,10 @@ Full drummer profile: [Gene Hoglan on MetalForge](https://metalforge.io/drummer/
 ### 8. Hannes Grossmann
 
 **Band:** Obscura / Necrophagist
-**Highlight:** Tama Starclassic Maple — Obscura's technical death metal clarity
-**Why ranked here:** Hannes Grossmann is a Tama Drums endorser, running a Tama Starclassic Maple kit with a Tama S.L.P. 14"x6" G-Maple snare and Tama Iron Cobra 900 Power Glide double pedal, a setup that replaced the DW Collector's Series kit he played on Obscura's 2009 breakthrough "Cosmogenesis." Grossmann earns rank #8 for a documented brand transition from DW to Tama that mirrors Mike Portnoy's in reverse.
+**Highlight:** Tama Starclassic Maple — a 13-year chapter through Obscura's "Cosmogenesis" before DW
+**Why ranked here:** Hannes Grossmann built a Tama Starclassic Maple kit with a Tama S.L.P. 14"x6" G-Maple snare and Tama Iron Cobra 900 Power Glide double pedal from 2001, the setup he played on Obscura's 2009 breakthrough "Cosmogenesis," before moving to a DW Collector's Series kit in 2014 for his current work with Alkaloid. Grossmann earns rank #8 for a documented thirteen-year Tama chapter behind one of technical death metal's most acclaimed albums.
 
-Hannes Grossmann (Obscura / Necrophagist) earns rank #8 for: tama starclassic maple — obscura's technical death metal clarity. Hannes Grossmann is a Tama Drums endorser, running a Tama Starclassic Maple kit with a Tama S.L.P. 14"x6" G-Maple snare and Tama Iron Cobra 900 Power Glide double pedal, a setup that replaced the DW Collector's Series kit he played on Obscura's 2009 breakthrough "Cosmogenesis." Grossmann earns rank #8 for a documented brand transition from DW to Tama that mirrors Mike Portnoy's in reverse..
+Hannes Grossmann (Obscura / Necrophagist) earns rank #8 for: tama starclassic maple — a 13-year chapter through obscura's "cosmogenesis" before dw. Hannes Grossmann built a Tama Starclassic Maple kit with a Tama S.L.P. 14"x6" G-Maple snare and Tama Iron Cobra 900 Power Glide double pedal from 2001, the setup he played on Obscura's 2009 breakthrough "Cosmogenesis," before moving to a DW Collector's Series kit in 2014 for his current work with Alkaloid. Grossmann earns rank #8 for a documented thirteen-year Tama chapter behind one of technical death metal's most acclaimed albums..
 
 Full drummer profile: [Hannes Grossmann on MetalForge](https://metalforge.io/drummer/hannes-grossmann)
 
@@ -121,13 +121,13 @@ Full drummer profile: [Vinnie Paul on MetalForge](https://metalforge.io/drummer/
 ## Frequently Asked Questions
 
 **Q: Which metal drummers play Tama drum kits?**
-A: Lars Ulrich (Metallica) has run Tama Starclassic kits since the mid-1980s, Dave Lombardo (Slayer) plays a Tama Starclassic Walnut/Birch kit, and Mike Portnoy (Dream Theater) returned to Tama Starclassic Maple/Birch after a 16-year run on DW. Charlie Benante (Anthrax), Mario Duplantier (Gojira), Eloy Casagrande (Slipknot), Gene Hoglan (a formative Tama chapter with Dark Angel and Death before Pearl), Hannes Grossmann (Obscura), Jay Weinberg (former Slipknot), and Vinnie Paul (Pantera) round out MetalForge's most extensively documented Tama artists.
+A: Lars Ulrich (Metallica) has run Tama Starclassic kits since the mid-1980s, Dave Lombardo (Slayer) plays a Tama Starclassic Walnut/Birch kit, and Mike Portnoy (Dream Theater) has run Tama continuously since 1985, one of the longest-running Tama endorsements in metal. Charlie Benante (Anthrax), Mario Duplantier (Gojira), Eloy Casagrande (Slipknot), Gene Hoglan (a formative Tama chapter with Dark Angel and Death before Pearl), Hannes Grossmann (a Tama chapter through Obscura before his current DW kit), Jay Weinberg (former Slipknot), and Vinnie Paul (Pantera) round out MetalForge's most extensively documented Tama artists.
 
 **Q: What is the Tama Starclassic Series?**
 A: Starclassic is Tama's flagship professional drum line, produced in finishes like Maple, Bubinga, and Walnut/Birch that change the kit's tonal character. Lars Ulrich and Charlie Benante run Maple shells for a balanced, articulate attack, while Mario Duplantier and Eloy Casagrande run Bubinga for a darker, more focused low end suited to Gojira's and Slipknot's down-tuned material.
 
 **Q: Do any drummers on this list play both Tama and DW?**
-A: Yes. Mike Portnoy played a Tama Artstar II early in Dream Theater's career, spent 1994-2010 on a DW Collector's Maple kit, then returned to Tama Starclassic Maple/Birch — the exact reverse of Hannes Grossmann's path from a DW Collector's Series kit on Obscura's "Cosmogenesis" (2009) to his current Tama Starclassic Maple setup.
+A: Hannes Grossmann is the clearest example: he built a Tama Starclassic Maple kit in 2001 that carried through Obscura's 2009 breakthrough "Cosmogenesis," then moved to a DW Collector's Series kit in 2014 for his current work with Alkaloid. Mike Portnoy, by contrast, has no DW chapter at all — he's been a continuous Tama endorser since 1985, one of the longest-running endorsements in metal.
 
 
 ---
@@ -135,7 +135,6 @@ A: Yes. Mike Portnoy played a Tama Artstar II early in Dream Theater's career, s
 ## Related Lists
 
 - [Top 10 Metal Drummers Playing Pearl Kits](https://metalforge.io/lists/best-metal-drummers-playing-pearl-kits) — [LLM Reference](https://metalforge.io/llms/lists/best-metal-drummers-playing-pearl-kits.md)
-- [Top 7 Metal Drummers Playing DW Kits](https://metalforge.io/lists/best-metal-drummers-playing-dw-kits) — [LLM Reference](https://metalforge.io/llms/lists/best-metal-drummers-playing-dw-kits.md)
 - [Top 7 Metal Drummers Playing Zildjian Cymbals](https://metalforge.io/lists/best-metal-drummers-playing-zildjian-cymbals) — [LLM Reference](https://metalforge.io/llms/lists/best-metal-drummers-playing-zildjian-cymbals.md)
 - [Top 10 Metal Drummers' Signature Snare Drums](https://metalforge.io/lists/metal-drummers-signature-snare-drums) — [LLM Reference](https://metalforge.io/llms/lists/metal-drummers-signature-snare-drums.md)
 
@@ -148,4 +147,4 @@ A: Yes. Mike Portnoy played a Tama Artstar II early in Dream Theater's career, s
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

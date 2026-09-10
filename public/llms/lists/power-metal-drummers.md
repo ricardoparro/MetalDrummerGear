@@ -1,6 +1,6 @@
 # Top 10 Power Metal Drummers — Complete Ranked Guide
 
-> **Last updated:** 2026-07-25 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/power-metal-drummers)
+> **Last updated:** 2026-09-10 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/power-metal-drummers)
 
 ---
 
@@ -69,10 +69,10 @@ Full drummer profile: [Mike Portnoy on MetalForge](https://metalforge.io/drummer
 ### 6. Mike Mangini
 
 **Band:** Dream Theater
-**Highlight:** Dream Theater's continuing technical precision
-**Why ranked here:** Mike Mangini has sustained Dream Theater's technically demanding, dynamically theatrical progressive metal since 2010, a level of sustained virtuosic precision and dramatic compositional scale that mirrors power metal's own demand for technical mastery in service of grand, fantasy-scale musical storytelling. Mike Mangini earns rank #6 for technical precision at the level power metal's most demanding arrangements require.
+**Highlight:** Dream Theater's technical precision, 2010-2023
+**Why ranked here:** Mike Mangini sustained Dream Theater's technically demanding, dynamically theatrical progressive metal from 2010 to 2023, a level of sustained virtuosic precision and dramatic compositional scale that mirrors power metal's own demand for technical mastery in service of grand, fantasy-scale musical storytelling. Mike Mangini earns rank #6 for technical precision at the level power metal's most demanding arrangements require.
 
-Mike Mangini (Dream Theater) earns rank #6 for: dream theater's continuing technical precision. Mike Mangini has sustained Dream Theater's technically demanding, dynamically theatrical progressive metal since 2010, a level of sustained virtuosic precision and dramatic compositional scale that mirrors power metal's own demand for technical mastery in service of grand, fantasy-scale musical storytelling. Mike Mangini earns rank #6 for technical precision at the level power metal's most demanding arrangements require..
+Mike Mangini (Dream Theater) earns rank #6 for: dream theater's technical precision, 2010-2023. Mike Mangini sustained Dream Theater's technically demanding, dynamically theatrical progressive metal from 2010 to 2023, a level of sustained virtuosic precision and dramatic compositional scale that mirrors power metal's own demand for technical mastery in service of grand, fantasy-scale musical storytelling. Mike Mangini earns rank #6 for technical precision at the level power metal's most demanding arrangements require..
 
 Full drummer profile: [Mike Mangini on MetalForge](https://metalforge.io/drummer/mike-mangini)
 
@@ -150,4 +150,4 @@ A: Scott Travis plays a ddrum Dominion Series kit with Paiste RUDE cymbals and a
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

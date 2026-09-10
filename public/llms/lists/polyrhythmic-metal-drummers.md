@@ -1,6 +1,6 @@
 # Top 10 Polyrhythmic Metal Drummers — Complete Ranked Guide
 
-> **Last updated:** 2026-07-25 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/polyrhythmic-metal-drummers)
+> **Last updated:** 2026-09-10 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/polyrhythmic-metal-drummers)
 
 ---
 
@@ -110,7 +110,7 @@ A: Tomas Haake of Meshuggah is the most influential answer — his polymetric, m
 A: Djent is a specific genre built on Meshuggah's palm-muted, polymetric guitar tone and rhythmic vocabulary. Polyrhythmic metal is broader — it describes the underlying rhythmic technique (simultaneous conflicting subdivisions) wherever it appears, including in bands that predate or sit outside djent entirely, like Tool and Gojira. Every djent drummer on this list (Matt Garstka, Matt Halpern, Travis Orbin) is polyrhythmic, but not every polyrhythmic drummer plays djent.
 
 **Q: What gear do polyrhythmic metal drummers use?**
-A: Tomas Haake and Danny Carey both play Sonor SQ2 kits, prized for the warm, controlled resonance that supports complex, layered rhythmic patterns without losing definition between simultaneous subdivisions. Matt Garstka plays a Tama Starclassic Walnut/Birch kit, and Matt Halpern plays Pearl Reference — both chosen for dynamic range and articulate response across polyrhythmic arrangements. Electronic triggers, used by Travis Orbin and Danny Carey's Mandala pads, are common additions for layering melodic or textural elements on top of acoustic polyrhythms.
+A: Tomas Haake and Danny Carey both play Sonor SQ2 kits, prized for the warm, controlled resonance that supports complex, layered rhythmic patterns without losing definition between simultaneous subdivisions. Matt Garstka plays a DW Collector's Series custom shop kit, and Matt Halpern plays Pearl Reference — both chosen for dynamic range and articulate response across polyrhythmic arrangements. Electronic triggers, used by Travis Orbin and Danny Carey's Mandala pads, are common additions for layering melodic or textural elements on top of acoustic polyrhythms.
 
 
 ---
@@ -130,4 +130,4 @@ A: Tomas Haake and Danny Carey both play Sonor SQ2 kits, prized for the warm, co
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

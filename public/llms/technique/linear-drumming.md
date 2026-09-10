@@ -10,6 +10,8 @@
 
 Linear drumming is a technique where no two limbs strike simultaneously - each note is separated, creating a continuous stream of single attacks. This approach creates unique textures and rhythmic possibilities, popular in progressive and technical metal. The separation allows each voice of the kit to speak clearly.
 
+**Keywords:** linear drumming, linear drum patterns, progressive metal drums, no overlapping drumming, drum independence
+
 Linear drumming became prominent through funk and fusion drummers like Gary Chaffee, Steve Gadd, and David Garibaldi. In metal, progressive drummers adopted linear concepts to add complexity. Matt Garstka (Animals as Leaders) has become synonymous with linear metal drumming, while Brann Dailor (Mastodon) incorporates linear fills throughout his playing.
 
 ## How to Play Linear Drumming
@@ -89,4 +91,4 @@ A: Closely related techniques include Polyrhythms, Groove Drumming. Mastering th
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

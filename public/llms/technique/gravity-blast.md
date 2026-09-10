@@ -10,6 +10,8 @@
 
 The gravity blast (also called one-handed roll or push-pull technique) uses gravity and surface bounce to achieve impossibly fast single-hand snare rolls. By letting the stick fall onto the snare and bounce off the hi-hat or rim, drummers can double their effective stroke rate, achieving speeds that would be impossible with traditional alternating strokes.
 
+**Keywords:** gravity blast, one-handed roll, push-pull technique, extreme drumming, fast snare technique
+
 The underlying one-handed roll has been traced to earlier jazz and marching-percussion players; Johnny Rabb helped bring it to wider attention in the 1990s under the name "Freehand Technique." The technical death metal band Origin is widely credited with introducing the gravity-blast application of that roll to extreme metal in the early 2000s. Derek Roddy (Hate Eternal, ex-Nile) brought the technique to broader death metal prominence, and it has since been adopted by drummers like Flo Mounier (Cryptopsy) and many modern extreme metal drummers.
 
 ## How to Play Gravity Blast
@@ -89,4 +91,4 @@ A: Closely related techniques include Blast Beat, One Handed Roll. Mastering the
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

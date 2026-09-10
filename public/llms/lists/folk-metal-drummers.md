@@ -1,6 +1,6 @@
 # Top 10 Folk Metal Drummers — Complete Ranked Guide
 
-> **Last updated:** 2026-07-25 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/folk-metal-drummers)
+> **Last updated:** 2026-09-10 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/folk-metal-drummers)
 
 ---
 
@@ -70,9 +70,9 @@ Full drummer profile: [Navene Koperweis on MetalForge](https://metalforge.io/dru
 
 **Band:** Arch Enemy
 **Highlight:** Arch Enemy and the Gothenburg scene folk metal shares
-**Why ranked here:** Daniel Erlandsson co-founded Arch Enemy in 1995 within the same Swedish Gothenburg melodic death metal scene that produced Amon Amarth, his technically precise drumming reflecting the same Scandinavian melodic tradition folk metal draws its anthemic, folk-inflected songwriting from
+**Why ranked here:** Daniel Erlandsson joined Arch Enemy in 1996 within the same Swedish Gothenburg melodic death metal scene that produced Amon Amarth, his technically precise drumming reflecting the same Scandinavian melodic tradition folk metal draws its anthemic, folk-inflected songwriting from
 
-Daniel Erlandsson (Arch Enemy) earns rank #6 for: arch enemy and the gothenburg scene folk metal shares. Daniel Erlandsson co-founded Arch Enemy in 1995 within the same Swedish Gothenburg melodic death metal scene that produced Amon Amarth, his technically precise drumming reflecting the same Scandinavian melodic tradition folk metal draws its anthemic, folk-inflected songwriting from.
+Daniel Erlandsson (Arch Enemy) earns rank #6 for: arch enemy and the gothenburg scene folk metal shares. Daniel Erlandsson joined Arch Enemy in 1996 within the same Swedish Gothenburg melodic death metal scene that produced Amon Amarth, his technically precise drumming reflecting the same Scandinavian melodic tradition folk metal draws its anthemic, folk-inflected songwriting from.
 
 Full drummer profile: [Daniel Erlandsson on MetalForge](https://metalforge.io/drummer/daniel-erlandsson)
 
@@ -150,4 +150,4 @@ A: Skyclad is widely credited as folk metal's British originator, fusing thrash 
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

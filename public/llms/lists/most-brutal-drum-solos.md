@@ -1,12 +1,14 @@
 # Top 10 Most Brutal Drum Solos in Metal History — Complete Ranked Guide
 
-> **Last updated:** 2026-07-25 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/most-brutal-drum-solos)
+> **Last updated:** 2026-09-10 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/most-brutal-drum-solos)
 
 ---
 
 ## Overview
 
 The most iconic, bone-crushing, face-melting drum solos in heavy metal history. From Joey Jordison's rotating platform mayhem to Danny Carey's polyrhythmic masterpieces, these performances define what it means to solo in metal.
+
+**Keywords:** best metal drum solo, brutal drum solo, metal drumming, drum solo metal, joey jordison drum solo, danny carey drum solo, best metal drummer solo, heavy metal drum solo
 
 ### Background
 
@@ -89,7 +91,7 @@ Full drummer profile: [Mike Portnoy on MetalForge](https://metalforge.io/drummer
 **Highlight:** Reign in Blood Era Fury
 **Why ranked here:** Dave Lombardo's drum solos during Slayer's Reign in Blood era defined thrash metal aggression. His combination of Latin-influenced grooves with relentless double bass created a template that every thrash drummer has followed since. The controlled chaos of his live solos — particularly the War Ensemble breakdown — represents pure metal fury.
 **Technique:** Latin/Cuban influenced patterns fused with thrash speed
-**Key gear:** Tama Artstar II, Paiste RUDE cymbals, Tama Iron Cobra pedals
+**Key gear:** Pearl kits, Paiste RUDE cymbals, Tama Iron Cobra pedals
 **Solo duration:** 3-5 minutes
 
 **Notable facts:**
@@ -253,4 +255,4 @@ A: Metal drum solos range from 3–4 minute stand-alone pieces (Joey Jordison's 
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

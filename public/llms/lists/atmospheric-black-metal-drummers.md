@@ -1,6 +1,6 @@
 # Top 10 Atmospheric Black Metal Drummers — Complete Ranked Guide
 
-> **Last updated:** 2026-07-25 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/atmospheric-black-metal-drummers)
+> **Last updated:** 2026-09-10 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/atmospheric-black-metal-drummers)
 
 ---
 
@@ -130,7 +130,7 @@ A: Atmospheric black metal drumming uses the same tools as standard black metal 
 A: The core atmospheric black metal bands include Mayhem (whose "De Mysteriis Dom Sathanas" established foundational atmospheric black metal), Satyricon (early period through "Nemesis Divina"), Wolves in the Throne Room, Deafheaven, Alcest, Agalloch, Batushka, Primordial, and Drudkh. The genre has expanded to include post-black metal (Deafheaven, Alcest) incorporating shoegaze and post-rock atmospheric elements alongside black metal's extremity. Behemoth's atmospheric blackened death phase and Dimmu Borgir's symphonic approach represent related adjacent styles sharing the genre's atmospheric ambitions.
 
 **Q: What gear do atmospheric black metal drummers use?**
-A: Atmospheric black metal drummers tend toward equipment that emphasizes projection and raw character. Hellhammer uses Sonor SQ2 Heavy Beech with Axis double pedals and Paiste RUDE cymbals, known for aggressive projection in raw recording contexts. Frost uses Sonor SQ2 with Zildjian cymbals and Sonor Perfect Balance pedals. Inferno's Pearl Masterworks kit with custom Polish-made Czarcie Kopyto (Devil's Hoof) pedals is engineered for precision at extreme speeds. The atmospheric end of the genre often favors less clinical production — equipment that captures natural room sound and raw cymbal wash contributes to the textural depth that defines the genre's sonic character.
+A: Atmospheric black metal drummers tend toward equipment that emphasizes projection and raw character. Hellhammer uses Sonor SQ2 Heavy Beech with Axis double pedals and Paiste RUDE cymbals, known for aggressive projection in raw recording contexts. Frost uses a Tama Starclassic Bubinga kit with Zildjian cymbals and a Tama Iron Cobra Power Glide pedal. Inferno's Pearl Masterworks kit with custom Polish-made Czarcie Kopyto (Devil's Hoof) pedals is engineered for precision at extreme speeds. The atmospheric end of the genre often favors less clinical production — equipment that captures natural room sound and raw cymbal wash contributes to the textural depth that defines the genre's sonic character.
 
 
 ---
@@ -150,4 +150,4 @@ A: Atmospheric black metal drummers tend toward equipment that emphasizes projec
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

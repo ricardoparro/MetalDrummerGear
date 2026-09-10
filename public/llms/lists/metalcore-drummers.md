@@ -1,6 +1,6 @@
 # Top 10 Metalcore Drummers — Complete Ranked Guide
 
-> **Last updated:** 2026-07-25 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/metalcore-drummers)
+> **Last updated:** 2026-09-10 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/metalcore-drummers)
 
 ---
 
@@ -125,7 +125,7 @@ A: Matt Greiner of August Burns Red is the most commonly cited answer for techni
 A: Metalcore drumming differs from traditional heavy metal in several key ways: it inherits hardcore punk's straight-ahead aggression and emotional directness; it emphasizes the breakdown — a half-time feel that drives live crowd response, a specifically hardcore technique absent from most metal subgenres; it requires dynamic versatility to shift between crushing heaviness and melodic passages; it operates typically between 120–180 BPM (slower than death metal's 180–280 BPM range); and it places the snare in a more central, aggressive role reflecting hardcore's roots.
 
 **Q: What equipment do metalcore drummers use?**
-A: Metalcore drummers typically favor mid-to-high-end kits optimized for projection and punch. Matt Greiner plays Greiner & Kilmer custom drums with Meinl Byzance cymbals. Isaac Lamb uses SJC Custom Drums — the brand of choice for modern metalcore due to its American manufacturing and tonal warmth. Ben Koller plays Tama drums for their durability under long touring schedules. The common thread is equipment that delivers consistent sound under the physical demands of intense metalcore performance — reliability matters as much as tonal quality.
+A: Metalcore drummers typically favor mid-to-high-end kits optimized for projection and punch. Matt Greiner plays Mapex Black Panther Design Lab drums with Paiste Formula 602 cymbals. Isaac Lamb uses SJC Custom Drums — the brand of choice for modern metalcore due to its American manufacturing and tonal warmth. Ben Koller plays Tama drums for their durability under long touring schedules. The common thread is equipment that delivers consistent sound under the physical demands of intense metalcore performance — reliability matters as much as tonal quality.
 
 **Q: Is metalcore still popular today?**
 A: Metalcore remains one of heavy music's most commercially successful genres. August Burns Red, Parkway Drive, Bring Me the Horizon, and Architects headline major festivals with audiences in the tens of thousands. The genre continues to evolve — absorbing post-hardcore, djent, and electronic influences. Newer bands like Spiritbox, Bad Omens, and Knocked Loose represent metalcore's current creative frontier, and the genre's streaming numbers rival those of traditional heavy metal acts.
@@ -142,4 +142,4 @@ A: Metalcore remains one of heavy music's most commercially successful genres. A
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

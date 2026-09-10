@@ -1,6 +1,6 @@
 # Top 10 Deathgrind Drummers — Complete Ranked Guide
 
-> **Last updated:** 2026-07-25 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/deathgrind-drummers)
+> **Last updated:** 2026-09-10 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/deathgrind-drummers)
 
 ---
 
@@ -100,15 +100,15 @@ George Kollias (Nile) earns rank #9 for: nile — technical death metal's deathg
 
 Full drummer profile: [George Kollias on MetalForge](https://metalforge.io/drummer/george-kollias)
 
-### 10. Bill Ward
+### 10. Derek Roddy
 
-**Band:** Black Sabbath
+**Band:** Hate Eternal / Nile
 **Highlight:** Hate Eternal — "One Take" deathgrind discipline and 260+ BPM swivel technique
 **Why ranked here:** Derek Roddy's reputation for recording entire extreme metal albums in single takes without punch-ins represents deathgrind's most extreme discipline standard — not just speed but flawless sustained performance of brutal material. His swivel technique, documented in "The Evolution of Blast Beats" instructional DVD, pioneered a biomechanically distinct 260+ BPM pathway through heel-up bass drum mechanics that influenced a generation of deathgrind and extreme drummers. His Hate Eternal and Nile work demonstrates deathgrind's technical ceiling sustained across professional touring and recording standards
 
-Bill Ward (Black Sabbath) earns rank #10 for: hate eternal — "one take" deathgrind discipline and 260+ bpm swivel technique. Derek Roddy's reputation for recording entire extreme metal albums in single takes without punch-ins represents deathgrind's most extreme discipline standard — not just speed but flawless sustained performance of brutal material. His swivel technique, documented in "The Evolution of Blast Beats" instructional DVD, pioneered a biomechanically distinct 260+ BPM pathway through heel-up bass drum mechanics that influenced a generation of deathgrind and extreme drummers. His Hate Eternal and Nile work demonstrates deathgrind's technical ceiling sustained across professional touring and recording standards.
+Derek Roddy (Hate Eternal / Nile) earns rank #10 for: hate eternal — "one take" deathgrind discipline and 260+ bpm swivel technique. Derek Roddy's reputation for recording entire extreme metal albums in single takes without punch-ins represents deathgrind's most extreme discipline standard — not just speed but flawless sustained performance of brutal material. His swivel technique, documented in "The Evolution of Blast Beats" instructional DVD, pioneered a biomechanically distinct 260+ BPM pathway through heel-up bass drum mechanics that influenced a generation of deathgrind and extreme drummers. His Hate Eternal and Nile work demonstrates deathgrind's technical ceiling sustained across professional touring and recording standards.
 
-Full drummer profile: [Bill Ward on MetalForge](https://metalforge.io/drummer/bill-ward)
+Full drummer profile: [Derek Roddy on MetalForge](https://metalforge.io/drummer/derek-roddy)
 
 ---
 
@@ -124,7 +124,7 @@ A: Deathgrind drumming combines death metal's technical precision, chromatic hea
 A: The foundational deathgrind bands include Terrorizer (whose "World Downfall" is the genre's founding document), Napalm Death (post-1991 material), Brutal Truth, Dying Fetus, Pig Destroyer, Exhumed, Cattle Decapitation, Lock Up, Discordance Axis, and Misery Index. Early Carcass ("Reek of Putrefaction," "Symphonies of Sickness") influenced the genre's gore-death direction. The distinction between brutal death metal and deathgrind is one of emphasis: brutal death metal prioritizes riff complexity and production weight; deathgrind emphasizes velocity, brevity, and raw delivery. Wormrot, Maruta, and Nails represent contemporary deathgrind's active global development.
 
 **Q: What gear do deathgrind drummers use?**
-A: Deathgrind drumming's gear requirements prioritize extreme speed and endurance. Pete Sandoval used Pearl and DW kits through his Terrorizer and Morbid Angel recordings. Kevin Talley uses Pearl Masters Premium Legend with Pearl Eliminator double pedals for the responsiveness deathgrind's extreme tempos demand. Flo Mounier uses Pearl Demon Drive pedals without electronic triggers, maintaining acoustic sound at brutal speeds as a point of principle. Iron Cobra, Axis, Pearl Demon, and DW 9000 double pedals dominate the genre. Smaller 12" and 13" toms with tight dampening optimize for speed and note definition at extreme tempos. Electronic triggers are controversial — most serious deathgrind practitioners prefer acoustic sound as a statement of authenticity.
+A: Deathgrind drumming's gear requirements prioritize extreme speed and endurance. Pete Sandoval used Pearl and DW kits through his Terrorizer and Morbid Angel recordings. Kevin Talley uses Pearl Masters Premium Legend with Pearl Eliminator double pedals for the responsiveness deathgrind's extreme tempos demand. Flo Mounier uses a Tama Speed Cobra 910 Twin Pedal without electronic triggers, maintaining acoustic sound at brutal speeds as a point of principle. Iron Cobra, Axis, Pearl Demon, and DW 9000 double pedals dominate the genre. Smaller 12" and 13" toms with tight dampening optimize for speed and note definition at extreme tempos. Electronic triggers are controversial — most serious deathgrind practitioners prefer acoustic sound as a statement of authenticity.
 
 
 ---
@@ -144,4 +144,4 @@ A: Deathgrind drumming's gear requirements prioritize extreme speed and enduranc
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

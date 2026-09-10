@@ -88,6 +88,11 @@ function buildMarkdown(t) {
   parts.push(t.description.trim());
   parts.push('');
 
+  if (Array.isArray(t.seoKeywords) && t.seoKeywords.length) {
+    parts.push(`**Keywords:** ${t.seoKeywords.join(', ')}`);
+    parts.push('');
+  }
+
   if (t.history) {
     parts.push(t.history.trim());
     parts.push('');

@@ -10,6 +10,8 @@
 
 Heel-toe technique is a bass drum pedal method that produces two beater strokes from a single downward leg motion, using the ball of the foot for an initial toe stroke and a quick heel-drop rebound for a second stroke immediately after. Rather than driving every note with a fresh leg lift, the foot rocks forward-to-back across the footboard, doubling the strokes available per motion and unlocking bursts of double bass speed well beyond what pure ankle-driven playing can sustain on its own. It is most often layered on top of a primary footwork style rather than used for an entire performance - many extreme metal drummers rely on heel-up ankle technique as their endurance baseline and drop into heel-toe only for short, demanding passages that call for an extra gear of speed. Because the technique depends on the heel having room to rock without losing contact with the board, it is closely tied to pedal choice: a short, standard-length footboard limits it, while a longer plate makes the second stroke far easier to control.
 
+**Keywords:** heel-toe technique, heel toe drumming, double bass pedal technique, how to play heel toe, bass drum footwork technique
+
 Heel-toe pedal technique grew out of the same drum-corps and rudimental-percussion lineage that produced hand techniques like the Moeller stroke, adapted to the bass drum pedal as drummers chased faster single- and double-pedal speeds through the 1990s and 2000s. George Kollias (Nile) is the technique's most visible modern practitioner, sustaining blast beats past 240-280 BPM with a heel-toe approach refined well enough that he co-designed the Pearl Demon XR double pedal specifically around its footboard demands, then documented the technique in instructional books and clinics that spread it to a global audience of extreme metal drummers. Derek Roddy (Hate Eternal, ex-Nile) built his career on heel-up ankle technique for sustained blast-beat endurance, layering heel-toe strokes in only for short bursts of extra double bass speed - a deliberate two-technique approach that helped him record entire albums in single takes without punch-ins or editing. Gene Hoglan has likewise built his double bass approach around heel-toe motion and consistent stroke weight, prioritizing pedal feel and response time over any single brand or model.
 
 ## How to Play Heel-Toe Technique
@@ -87,4 +89,4 @@ A: Closely related techniques include Double Bass, Hand Foot Independence. Maste
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

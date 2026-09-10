@@ -10,6 +10,8 @@
 
 The single stroke roll is the simplest and most fundamental of all drumming rudiments: a continuous alternation between the right and left hand (RLRL...), with each stroke struck individually rather than bounced or combined with the opposite hand. It carries no trick of leverage or rebound to hide behind - every note is a fresh, deliberate stroke - which is exactly why it is the first rudiment every drummer learns and the last one many spend a lifetime refining for speed and evenness. In metal drumming, the single stroke roll is not merely a beginner exercise; it is the literal technical foundation underneath blast beats, one-handed rolls, and gravity blasts, all of which are built from single-stroke motion applied at higher tempos, split across limbs, or assisted by rebound tricks that let one hand fake the density of two.
 
+**Keywords:** single stroke roll, single stroke roll rudiment, how to play single strokes, RLRL drumming, basic drum rudiment
+
 Along with the double stroke roll, the single stroke roll anchors the Percussive Arts Society's 40 International Drum Rudiments and traces back to military field drumming, where clean, evenly spaced single strokes were essential for cadences and signaling to carry clearly over distance. Drum corps and marching percussion programs turned raw single-stroke speed and evenness into a measurable discipline, producing generations of players for whom hand speed was a competitive metric long before extreme metal existed. That lineage feeds directly into metal's fastest drummers: Pete Sandoval (Morbid Angel, ex-Terrorizer) built the pioneering "hyper blast" on relentless single-stroke alternation between hands and feet, pushing tempos that redefined what death metal could sound like. George Kollias (Nile) sustains single-stroke-based blast patterns past 280 BPM for entire songs, a feat of endurance built on the same evenness and relaxation that rudimental single-stroke training targets. Mike Mangini (Dream Theater) brought a drum-corps-trained, biomechanically analyzed approach to single-stroke speed, holding multiple recognized drumming-speed records built on refining this one foundational rudiment far beyond what raw muscle alone could achieve.
 
 ## How to Play Single Stroke Roll
@@ -89,4 +91,4 @@ A: Closely related techniques include Blast Beat, Gravity Blast, One Handed Roll
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

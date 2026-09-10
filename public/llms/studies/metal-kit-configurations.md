@@ -1,12 +1,12 @@
 # Metal Drum Kit Configurations: Double Bass vs. Double Pedal
 
-> **Last updated:** 2026-07-25 · **Source:** [MetalForge.io](https://metalforge.io) · [View full study →](https://metalforge.io/studies/metal-kit-configurations)
+> **Last updated:** 2026-09-10 · **Source:** [MetalForge.io](https://metalforge.io) · [View full study →](https://metalforge.io/studies/metal-kit-configurations)
 
 ---
 
 ## Overview
 
-How MetalForge’s 67 documented metal drummers set up double-kick sound — physical double bass, double pedal, or twin single pedals — plus cymbal-setup size by genre.
+How MetalForge’s 72 documented metal drummers set up double-kick sound — physical double bass, double pedal, or twin single pedals — plus cymbal-setup size by genre.
 
 ---
 
@@ -26,6 +26,23 @@ Double pedal is by far the most common bass-drum configuration among metal drumm
 | Single Pedal | 1 | 1.4% |
 | Unspecified | 8 | 11.1% |
 
+### Pedal Configuration by Genre
+
+| Genre | Drummers | Double Pedal | Double Bass | Twin Single Pedals | Single Pedal | Unspecified |
+| --- | --- | --- | --- | --- | --- | --- |
+| Progressive Metal | 12 | 8 | 0 | 2 | 0 | 2 |
+| Thrash Metal | 11 | 10 | 0 | 0 | 0 | 1 |
+| Death Metal | 6 | 6 | 0 | 0 | 0 | 0 |
+| Heavy Metal | 6 | 5 | 0 | 0 | 1 | 0 |
+| Technical Death Metal | 5 | 3 | 0 | 0 | 0 | 2 |
+| Black Metal | 4 | 2 | 0 | 0 | 0 | 2 |
+| Melodic Death Metal | 4 | 4 | 0 | 0 | 0 | 0 |
+| Metalcore | 4 | 4 | 0 | 0 | 0 | 0 |
+| Nu Metal | 4 | 2 | 1 | 0 | 0 | 1 |
+| Groove Metal | 3 | 3 | 0 | 0 | 0 | 0 |
+| Progressive | 2 | 2 | 0 | 0 | 0 | 0 |
+| Progressive Death Metal | 2 | 1 | 1 | 0 | 0 | 0 |
+
 ### Cymbal Setup Size by Genre
 
 | Genre | Drummers (verified) | Avg Pieces | Median Pieces |
@@ -41,6 +58,19 @@ Double pedal is by far the most common bass-drum configuration among metal drumm
 | Groove Metal | 2 | 7 | 7 |
 | Metalcore | 2 | 6 | 6 |
 | Progressive Death Metal | 2 | 7 | 7 |
+
+Roster-wide cymbal setup size ranges from 3 to 9 pieces across the 56-drummer verified subset.
+
+### Cymbal Piece Types, Roster-Wide
+
+| Cymbal Type | Count Across Roster |
+| --- | --- |
+| Hi-Hats | 58 |
+| Crashes | 122 |
+| Rides | 55 |
+| Chinas | 50 |
+| Splashes | 8 |
+| Other | 5 |
 
 ### Full Shell Configurations (Documented Subset)
 
@@ -65,4 +95,4 @@ Dataset: 72 documented drummers, snapshot dated 2026-07-25. Pedal-configuration 
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

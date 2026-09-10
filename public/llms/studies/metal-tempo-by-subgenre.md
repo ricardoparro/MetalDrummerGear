@@ -1,12 +1,12 @@
 # Metal Tempo by Subgenre: How Fast Is Death Metal, Really?
 
-> **Last updated:** 2026-07-25 · **Source:** [MetalForge.io](https://metalforge.io) · [View full study →](https://metalforge.io/studies/metal-tempo-by-subgenre)
+> **Last updated:** 2026-09-10 · **Source:** [MetalForge.io](https://metalforge.io) · [View full study →](https://metalforge.io/studies/metal-tempo-by-subgenre)
 
 ---
 
 ## Overview
 
-Average, median, and max BPM for thrash, death, black, and 12 other metal subgenres, computed across the 150 songs in MetalForge’s tempo database, plus the 200+ BPM "hall of speed."
+Average, median, and max BPM for thrash, death, black, and 12 other metal subgenres, computed across the 254 songs in MetalForge’s tempo database, plus the 200+ BPM "hall of speed."
 
 ---
 
@@ -86,4 +86,4 @@ Dataset: 254 songs in MetalForge's tempo database, snapshot dated 2026-07-25. Ov
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

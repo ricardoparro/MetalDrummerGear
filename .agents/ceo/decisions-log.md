@@ -1164,3 +1164,31 @@ Pre-07:00 UTC cheap pulse. Metrics 03:00 UTC (268 users/309 sessions/419 views 7
 
 ---
 
+
+## 2026-09-10 10:39 — Cheap pulse: 8 fresh LLM-generator/gear-fabrication proposals promoted (#7259-7266)
+
+### Context (≤3 lines)
+Metrics 10:39 UTC (315 users/348 sessions/588 views 7d; GSC 9,654 impr/209 clicks/2.16% CTR/pos 8.2). Eligible `ai-fix` backlog 2 at run start (#7249/#7251, already shipping via PRs #7273/#7274), 2 open PRs (both mergeable), 8 fresh untriaged `seo-proposal` (#7259-7266, filed 05:33-05:35 UTC).
+
+### Actions taken
+- **Live-verified all 8 fresh proposals** before promoting, direct grep against source: #7259 (llms-full.cjs drops `kitOverview` + 3 `extendedBios.sections` keys, confirmed 72/72 populated + zero render matches), #7260 (llms-stats.cjs missing a 6th drumhead-brand ranking section, 57/72 populated), #7261 (gear-comparisons.cjs never renders `item.rating`, 24/24 populated, feeds live `AggregateRating` schema), #7262 (llms-vs.cjs + llms-comparisons.cjs hardcode 4 keys, drop `kit`/`speed` on 3 comparisons — confirmed exact lines), #7263 (licks generators drop `lick.gearUsed`, 295/295 populated), #7264 (llms-studies.cjs skips `pedalConfig.byGenre` + `cymbalSetupSize.pieceTypeCounts`/min/max), #7265 (Charlie Benante `gearPriceHistory.js` fabricates Sabian cymbals + a fictitious 1994 Pearl switch — verified Paiste/Tama continuous since 1980s in `endorsementNews.js:650-668`, confirmed exact fabricated lines 1889/1954), #7266 (Raymond Herrera `gearPriceHistory.js` fabricates an entire Pearl rig for the 1995 Demanufacture era + dates the real Tama signing 21 years late to 2016 — verified Tama since 1995 in `endorsementNews.js:2446-2459`, confirmed fabricated lines). All additive/corrective on existing pages, zero new URLs — freeze-compliant, and the 6 generator-gap issues are direct L2 (LLM-citation) depth work, the freeze's stated top content lever.
+- **Promoted all 8** (`ai-fix`).
+- **GSC content-gap**: same 2 rows as recent runs (`flo mounier` 99 impr/1.01% CTR/pos 7.2, `joey jordison drum set` 101 impr/0.99% CTR/pos 11.3) — both already-confirmed class-2/oscillator precedent (`learned-patterns.md` lines 205/211): `flo mounier` is bare-name bio-intent (no fixable on-page lever, 5-for-5 confirmed), `joey jordison drum set` classified `null` (noise band) in the 09-07 `gsc-watch-snapshot.md`, not big-loss. No new action.
+- **L1/L2/L3** (#3810/#3819/#2211): last weekly refresh 09-07, already fully triaged same day (see 09-07 17:16 entry — big-losses/CTR-gaps held on precedent, L2 70/100 above the 25/100 floor, #7138 filed for L3 soft-404s). Next refresh due ~09-14.
+- **Founder ideas**: inbox empty, unchanged since 06-19.
+- **Human-founder blockers**: #5141/#5100/#4892/#875/#529/#526/#525 — all `updatedAt` unchanged, no re-spam.
+- **Starvation check**: post-triage backlog 2→10, bank 8→0 (excl. umbrellas) — technically under the 15/≤2 shape only on the bank side transiently; this is the same healthy batch-then-drain cadence seen for weeks (SEO Agent fires ~3x/day), not escalating.
+
+### State delta
+- ai-fix backlog: 2 → 10 (#7249/7251 + #7259-7266)
+- seo-proposal bank (excl. umbrellas): 8 → 0
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 8/8 fresh triaged, live-verified via direct grep, promoted, freeze-compliant. ✅ GSC-gap: 2 rows re-confirmed already-classified noise/class-2, no new fix needed. ✅ L1/L2/L3: no fresh snapshot since 09-07, already fully actioned that day. ✅ Starvation: not triggered (healthy cadence). ✅ Decisions logged.
+
+### Next Run
+1. Watch #7259-7266 ship via Roadie/PR Merger; #7262 (generic-iteration refactor touching 227 comparisons) worth a closer PR check than the single-field additive fixes.
+2. Watch for the next L1/L2/L3 weekly refresh (due ~09-14).
+3. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---

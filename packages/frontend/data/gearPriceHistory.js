@@ -3100,22 +3100,22 @@ export const GEAR_PRICE_HISTORY = {
     albumReference: 'The Sin and the Sentence (2017)',
     profileImage: '/images/drummers/alex-bent.webp',
 
-    summary: "Alex Bent's 2017 arrival behind Trivium's kit on The Sin and the Sentence marked a pivot point for the band — and for technical death metal drummers seeking mainstream relevance. Bent spent nearly a decade in the underground with Arkaik, Brain Drill, and Battlecross, building the extreme speed and precision that made him an Axis Percussion endorser years before signing with a recognizable band name. When producer Mark Lewis recommended him to Trivium following Paul Wandtke's departure, Bent inherited a kit built for arena scale rather than club-circuit death metal: a Pearl Reference Series double-bass configuration in custom matte black, paired with Meinl Byzance Brilliant cymbals and his long-standing Axis A21 Longboard double pedal. The double 22\"x18\" kick drums gave him the acoustic power and trigger-consistency needed for festival-sized PA systems, while a deliberately minimalist tom array — just 10\" and 12\" racks plus 14\" and 16\" floors — kept his blistering fills efficient rather than cluttered. The setup cost approximately $11,310 in 2017 dollars, equivalent to roughly $15,100 in 2026 terms after CPI adjustment. Over four albums — The Sin and the Sentence, What the Dead Men Say, In the Court of the Dragon, and Struck Dead — Bent's rig barely changed in brand, but his profile within it grew enormously: a tech-death journeyman became one of modern metal's most studied double-bass technicians. His October 2025 departure from Trivium closed an eight-year chapter, but the Pearl Reference/Meinl Byzance/Axis combination he established remains the reference setup for drummers chasing his blend of extreme-metal speed and arena-ready power.",
+    summary: "Alex Bent's 2017 arrival behind Trivium's kit on The Sin and the Sentence marked a pivot point for the band — and for technical death metal drummers seeking mainstream relevance. Bent spent nearly a decade in the underground with Arkaik, Brain Drill, and Battlecross, building the extreme speed and precision that made him an Axis Percussion endorser years before signing with a recognizable band name. When producer Mark Lewis recommended him to Trivium following Paul Wandtke's departure, Bent inherited a kit built for arena scale rather than club-circuit death metal: a Tama Starclassic Maple double-bass configuration in custom matte black, paired with Zildjian K Custom Hybrid cymbals and his long-standing Axis A21 Longboard double pedal. The double 22\"x18\" kick drums gave him the acoustic power and trigger-consistency needed for festival-sized PA systems, while a deliberately minimalist tom array — just 10\" and 12\" racks plus 14\" and 16\" floors — kept his blistering fills efficient rather than cluttered. The setup cost approximately $11,310 in 2017 dollars, equivalent to roughly $15,100 in 2026 terms after CPI adjustment. Over four albums — The Sin and the Sentence, What the Dead Men Say, In the Court of the Dragon, and Struck Dead — Bent's rig barely changed in brand, but his profile within it grew enormously: a tech-death journeyman became one of modern metal's most studied double-bass technicians. His October 2025 departure from Trivium closed an eight-year chapter, but the Tama Starclassic Maple/Zildjian K Custom/Axis combination he established remains the reference setup for drummers chasing his blend of extreme-metal speed and arena-ready power.",
 
     setup: {
       drums: {
-        item: 'Pearl Reference Series',
+        item: 'Tama Starclassic Maple',
         model: 'Double-bass 6-piece configuration (Custom Matte Black)',
-        specs: '22"x18" kick (×2), 10"x8" rack, 12"x9" rack, 14"x14" floor, 16"x16" floor — maple/birch hybrid shells',
+        specs: '22"x18" kick (×2), 10"x8" rack, 12"x9" rack, 14"x14" floor, 16"x16" floor — 100% maple shells',
         originalPrice: 6500,
         year: 2017,
-        source: 'Pearl Reference Series MSRP 2017; MetalForge album-article gear breakdown ($5,000–$8,000 estimated value)',
-        notes: "Bent's double-kick Reference Series configuration was built for translating technical death metal precision to arena-scale power. The maple/birch hybrid shells delivered warmth and sustain for Trivium's melodic passages alongside the cut needed for its heavier sections.",
+        source: 'Tama Starclassic Maple series MSRP 2017; MetalForge album-article gear breakdown ($5,000–$8,000 estimated value)',
+        notes: "Bent's double-kick Starclassic Maple configuration was built for translating technical death metal precision to arena-scale power. The all-maple shells delivered warmth and sustain for Trivium's melodic passages alongside the cut needed for its heavier sections.",
         vintageValue2026: 6800,
         modernEquivalent: {
-          item: 'Pearl Reference Series (current spec)',
+          item: 'Tama Starclassic Maple (current spec)',
           price: 6800,
-          link: 'pearl-reference-series-drums',
+          link: 'tama-starclassic-maple-bent',
         },
       },
       snare: {
@@ -3134,18 +3134,18 @@ export const GEAR_PRICE_HISTORY = {
         },
       },
       cymbals: {
-        item: 'Meinl Byzance Brilliant Series',
-        model: 'Full Brilliant configuration',
-        specs: '14" Brilliant Medium Hi-Hats, 16"/18"/19" Brilliant Medium Thin Crashes, 21" Brilliant Medium Ride, 18" Brilliant China, 10" Brilliant Splash',
+        item: 'Zildjian K Custom Hybrid',
+        model: 'Full K Custom Hybrid configuration',
+        specs: '14" K Custom Hybrid Hi-Hats, 16"/18"/19" K Custom Hybrid Crashes, 21" K Custom Hybrid Ride, 18" K Custom Hybrid China, 10" K Custom Hybrid Splash',
         originalPrice: 3000,
         year: 2017,
-        source: 'Meinl Byzance Brilliant series retail pricing 2017',
-        notes: "The Byzance Brilliant finish gave Bent's setup extra shimmer and projection, complementing Trivium's polished production while maintaining stick articulation at high tempos inherited from his tech-death background.",
+        source: 'Zildjian K Custom Hybrid series retail pricing 2017',
+        notes: "The K Custom Hybrid line gave Bent's setup extra shimmer and projection, complementing Trivium's polished production while maintaining stick articulation at high tempos inherited from his tech-death background.",
         vintageValue2026: 2800,
         modernEquivalent: {
-          item: 'Meinl Byzance Brilliant Box Set',
+          item: 'Zildjian K Custom Hybrid Box Set',
           price: 3200,
-          link: 'meinl-byzance-brilliant-set',
+          link: 'zildjian-k-custom-hybrid-bent',
         },
       },
       hardware: {
@@ -3212,16 +3212,16 @@ export const GEAR_PRICE_HISTORY = {
     ],
 
     sources: [
-      { title: 'Pearl Reference Series Professional Catalog', year: 2017, type: 'catalog' },
+      { title: 'Tama Starclassic Maple Series Professional Catalog', year: 2017, type: 'catalog' },
       { title: 'Modern Drummer Magazine — Alex Bent Interview', year: 2019, type: 'interview' },
-      { title: 'Meinl Byzance Artist Profile Archives', year: 2018, type: 'manufacturer' },
+      { title: 'Zildjian K Custom Artist Profile Archives', year: 2018, type: 'manufacturer' },
       { title: 'MetalForge Album Article — Alex Bent Trivium Gear Breakdown', year: 2026, type: 'fan-compiled' },
     ],
 
     meta: {
       title: "Alex Bent 2017 Trivium Drum Setup Cost | The Sin and the Sentence Gear Prices",
-      description: "How much did Alex Bent's 2017 Trivium drum kit cost? Original ~$11,310, inflation-adjusted to ~$15,100 today. Complete Pearl Reference Series breakdown from The Sin and the Sentence era.",
-      keywords: ['alex bent drum kit cost', 'trivium drummer gear history', 'alex bent pearl reference setup', 'the sin and the sentence drums', 'alex bent gear today'],
+      description: "How much did Alex Bent's 2017 Trivium drum kit cost? Original ~$11,310, inflation-adjusted to ~$15,100 today. Complete Tama Starclassic Maple breakdown from The Sin and the Sentence era.",
+      keywords: ['alex bent drum kit cost', 'trivium drummer gear history', 'alex bent tama starclassic setup', 'the sin and the sentence drums', 'alex bent gear today'],
     },
   },
 

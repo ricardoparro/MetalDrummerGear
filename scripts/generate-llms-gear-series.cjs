@@ -33,6 +33,21 @@ try {
   process.exit(1);
 }
 
+// Issue #7244: GEAR_INDEX_BRAND_LEVEL (brand → drummers, no series/model —
+// added in #3714 for drumhead brands like Evans/Remo) was never read here,
+// so their live /gear/<brand>/all-drumheads/drummers-using pages (see
+// packages/frontend/data/gearSeriesPages.js) had no /llms mirror.
+const gearIndexBrandLevelMatch = gearIndexContent.match(/export const GEAR_INDEX_BRAND_LEVEL\s*=\s*(\{[\s\S]*?\n\});\s*\n/);
+let GEAR_INDEX_BRAND_LEVEL = {};
+if (gearIndexBrandLevelMatch) {
+  try {
+    GEAR_INDEX_BRAND_LEVEL = eval('(' + gearIndexBrandLevelMatch[1] + ')');
+  } catch (e) {
+    console.error('Error parsing GEAR_INDEX_BRAND_LEVEL:', e.message);
+    process.exit(1);
+  }
+}
+
 // ── Extract id → band mapping from api/drummers/index.js ───────────────────
 
 const drummersPath = path.join(__dirname, '../api/drummers/index.js');
@@ -210,6 +225,13 @@ function buildNote(configString, category) {
 const BASE_URL = 'https://metalforge.io';
 const today = new Date().toISOString().split('T')[0];
 
+// Reserved series slug for brand-level "drummers using" pages (Evans/Remo drumheads
+// — no series/model breakdown). Must match BRAND_LEVEL_SERIES_SLUG in
+// packages/frontend/data/gearSeriesPages.js and api/sitemap.js so the mirror
+// references the same live URL, not a new one.
+const BRAND_LEVEL_SERIES_SLUG = 'all-drumheads';
+const BRAND_LEVEL_PRICE_RANGE = '$8–$25 per head';
+
 function buildMarkdown(brand, series, drummers) {
   const category = inferCategory(brand, series);
   const priceRange = PRICE_RANGES[category];
@@ -330,6 +352,84 @@ function buildWhySection(brand, series, category, drummers) {
   return `The ${brand} ${series} is one of the most respected drum kit series in professional metal drumming. Players including ${names.join(', ')} choose this kit for its ${/bubinga/.test(combined) ? 'punchy bubinga shells and focused attack' : /walnut/.test(combined) ? 'warm walnut resonance combined with birch clarity' : /beech/.test(combined) ? 'heavy beech shells for dense, focused tone' : 'reliable maple construction and consistent tone across all dynamics'}. The ${series} stands up to the physical demands of metal touring — heavy hitting, extreme tempos, and constant travel.`;
 }
 
+// Brand-level markdown (Evans/Remo drumheads — no series/model breakdown).
+// Mirrors the isBrandLevel render shape in gearSeriesPages.js: same URL
+// (/gear/<brand>/all-drumheads/drummers-using), same "Drumheads" framing,
+// plural verb agreement in the FAQ.
+function buildBrandLevelMarkdown(brand, drummers) {
+  const brandSlug = slugify(brand);
+  const pageUrl = `${BASE_URL}/gear/${brandSlug}/${BRAND_LEVEL_SERIES_SLUG}/drummers-using`;
+
+  const enriched = drummers.map(d => ({
+    ...d,
+    band: (idToBand[d.id] || {}).band || '',
+  }));
+
+  const names = enriched.map(d => d.name);
+  const nameSample = names.slice(0, 8);
+  const proList = nameSample.length > 2
+    ? `${nameSample.slice(0, -1).join(', ')}, and ${nameSample[nameSample.length - 1]}`
+    : nameSample.join(' and ');
+  const proListSuffix = names.length > nameSample.length
+    ? ` (and ${names.length - nameSample.length} more)`
+    : '';
+
+  const parts = [];
+
+  parts.push(`# ${brand} Drumheads — Drumheads | MetalForge`);
+  parts.push('');
+  parts.push(`> ${brand} drumheads are a pro-grade choice used by ${enriched.length} metal drummers in the MetalForge database.`);
+  parts.push('');
+  parts.push(`**Brand:** ${brand}  `);
+  parts.push(`**Category:** Drumheads  `);
+  parts.push(`**Estimated Price:** ${BRAND_LEVEL_PRICE_RANGE}  `);
+  parts.push(`**Drummers Using It:** ${enriched.length}  `);
+  parts.push('');
+  parts.push('---');
+  parts.push('');
+
+  parts.push(`## Metal Drummers Who Use ${brand} Drumheads`);
+  parts.push('');
+  for (const d of enriched) {
+    const bandStr = d.band ? ` (${d.band})` : '';
+    const link = `[${d.name}](${BASE_URL}/drummer/${d.slug})`;
+    parts.push(`- **${link}**${bandStr}`);
+  }
+  parts.push('');
+  parts.push(`See all ${enriched.length} drummers on the [${brand} drumheads gear page](${pageUrl}).`);
+  parts.push('');
+
+  parts.push(`## Why Metal Drummers Choose ${brand} Drumheads`);
+  parts.push('');
+  parts.push(`${brand} drumheads are a trusted choice among metal drummers for their durability and consistent tone under heavy hitting. Players like ${nameSample.slice(0, 3).join(', ')} rely on ${brand} heads to hold up through blast beats, double bass runs, and touring wear while keeping a focused, controlled attack on stage and in the studio.`);
+  parts.push('');
+
+  parts.push('## Frequently Asked Questions');
+  parts.push('');
+
+  parts.push(`**Q: Which metal drummers use ${brand} drumheads?**`);
+  parts.push(`A: ${enriched.length} metal drummers in the MetalForge database use ${brand} drumheads: ${proList}${proListSuffix}. Each profile includes their exact setup and full kit configuration.`);
+  parts.push('');
+
+  parts.push(`**Q: Are ${brand} drumheads good for metal drumming?**`);
+  parts.push(`A: Yes — ${brand} drumheads are a proven choice in the metal scene, used by ${enriched.length} professional drummers across death, thrash, progressive, and groove metal. ${enriched[0].name}${enriched[0].band ? ` of ${enriched[0].band}` : ''} is among the signature players relying on ${brand} heads for high-intensity performance.`);
+  parts.push('');
+
+  parts.push(`**Q: How much do ${brand} drumheads cost?**`);
+  parts.push(`A: ${brand} drumheads are estimated at ${BRAND_LEVEL_PRICE_RANGE} street price. Actual pricing varies by retailer, size, and model. Check Thomann (EU) or Sweetwater (US) for current deals.`);
+  parts.push('');
+
+  parts.push(`**Q: Where can I find more ${brand} gear used by pro metal drummers?**`);
+  parts.push(`A: MetalForge tracks all ${brand} drumheads used by professional metal drummers. Visit [${pageUrl}](${pageUrl}) for the full drummer list with exact configurations, or search MetalForge for more ${brand} gear data.`);
+  parts.push('');
+
+  parts.push('---');
+  parts.push('');
+  parts.push(`*Source: [metalforge.io/gear/${brandSlug}/${BRAND_LEVEL_SERIES_SLUG}/drummers-using](${pageUrl}) · Last updated: ${today}*`);
+
+  return parts.join('\n');
+}
+
 // ── Main: iterate and write ───────────────────────────────────────────────────
 
 const outDir = path.join(__dirname, '../public/llms/gear-series');
@@ -361,6 +461,26 @@ for (const [brand, seriesObj] of Object.entries(GEAR_INDEX)) {
     generated.push({ filename, brand, series, drummers: drummers.length, words });
     written++;
   }
+}
+
+for (const [brand, drummerList] of Object.entries(GEAR_INDEX_BRAND_LEVEL)) {
+  if (!Array.isArray(drummerList) || drummerList.length < 2) {
+    skipped++;
+    continue;
+  }
+  const brandSlug = slugify(brand);
+  const filename = `${brandSlug}-${BRAND_LEVEL_SERIES_SLUG}.md`;
+  const md = buildBrandLevelMarkdown(brand, drummerList);
+  const words = md.split(/\s+/).filter(Boolean).length;
+
+  if (words < 150) {
+    console.warn(`⚠️  ${filename}: only ${words} words — below 150 minimum`);
+  }
+
+  fs.writeFileSync(path.join(outDir, filename), md, 'utf-8');
+  if (words < minWords) minWords = words;
+  generated.push({ filename, brand, series: 'Drumheads', drummers: drummerList.length, words });
+  written++;
 }
 
 console.log(`\n✅ Generated public/llms/gear-series/*.md`);

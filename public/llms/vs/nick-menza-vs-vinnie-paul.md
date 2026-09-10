@@ -67,4 +67,4 @@ A: Nick Menza collapsed and died on stage in 2016 at age 51 while performing wit
 
 ---
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

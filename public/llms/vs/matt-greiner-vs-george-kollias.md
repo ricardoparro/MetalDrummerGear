@@ -67,4 +67,4 @@ A: George Kollias co-designed the Pearl Demon XR pedal around his heel-toe techn
 
 ---
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

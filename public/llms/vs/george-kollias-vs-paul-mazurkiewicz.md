@@ -32,6 +32,14 @@ George Kollias joined Nile in 2004 and has anchored every album since "Annihilat
 
 Kollias uses heel-toe bass drum technique to sustain extreme tempos with mechanical precision, co-designing the Pearl Demon XR double pedal specifically for the endurance Nile's marathon compositions demand. Mazurkiewicz uses a traditional alternating-leg double kick approach, keeping his parts locked to Cannibal Corpse's riffs rather than showcasing individual virtuosity — a song-serving philosophy that has kept the band's rhythmic foundation rock-solid across 16 studio albums.
 
+## Speed
+
+Kollias is routinely cited among the fastest drummers in death metal, sustaining blast beats past 280 BPM across full Nile sets using a heel-toe double bass technique refined through years of instructional teaching. Mazurkiewicz prioritizes a different kind of speed — punishing but controlled mid-tempo grooves punctuated by shorter blast passages — favoring consistency and riff-serving impact over maximum velocity, which is why Cannibal Corpse's brutality reads as crushing rather than blistering.
+
+## Kit
+
+George Kollias plays a Pearl Masterworks Stadium Exotic kit with a Pearl George Kollias Signature 14x6.5" snare and Zildjian cymbals (14" K Mastersound Hi-Hats, 17" & 18" K Custom Dark Crashes, 21" A Custom Mega Bell Ride, 18" China), driven by the Pearl Demon Drive double pedal he co-designed and his own Vic Firth George Kollias Signature sticks. Paul Mazurkiewicz plays a Pearl Masters Maple Complete kit with a Pearl Masters 14x6.5" Maple snare and Sabian AAX Series cymbals (14" Stage Hi-Hats, 18" & 19" X-Plosion Crashes, 21" Raw Bell Dry Ride, 18" AAXtreme China), powered by a Pearl Demon Drive double pedal and Vic Firth American Classic 5B sticks.
+
 ## Key Differences
 
 Kollias uses heel-toe bass drum technique to sustain extreme tempos with mechanical precision, co-designing the Pearl Demon XR double pedal specifically for the endurance Nile's marathon compositions demand. Mazurkiewicz uses a traditional alternating-leg double kick approach, keeping his parts locked to Cannibal Corpse's riffs rather than showcasing individual virtuosity — a song-serving philosophy that has kept the band's rhythmic foundation rock-solid across 16 studio albums.
@@ -70,4 +78,4 @@ A: Nile is generally considered more technically complex, built around Egyptian-
 
 ---
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

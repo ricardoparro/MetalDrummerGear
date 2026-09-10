@@ -67,4 +67,4 @@ A: Adrian Erlandsson recorded "Slaughter of the Soul" (1995) on a budget Pearl E
 
 ---
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

@@ -67,4 +67,4 @@ A: Gene Hoglan plays a Pearl Reference Pure kit with a Pearl Reference 14x6.5" B
 
 ---
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

@@ -67,4 +67,4 @@ A: Matt Halpern is more directly tied to djent, having helped architect the genr
 
 ---
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

@@ -32,6 +32,10 @@ Nick Menza joined Megadeth in 1989 and powered the band's commercial and critica
 
 Menza combined powerful single and double bass work with aggressive, precisely placed fills, keeping his parts locked to Megadeth's complex riff structures rather than showcasing technical excess — his machine-gun double-kick on "Holy Wars...The Punishment Due" and "Tornado of Souls" remains a thrash benchmark. Benante built his reputation on fast, syncopated skank beats fused with hardcore punk energy and aggressive double bass, helping define East Coast thrash and crossover thrash alongside bands like S.O.D., where he also contributed lead guitar.
 
+## Kit
+
+Nick Menza played a Pearl Reference Custom kit with Sabian AA / Signature Series cymbals and Vater Nick Menza Signature sticks in his final "Cryptic Writings" (1997) Megadeth era, driven by a Tama Iron Cobra Double Pedal. Charlie Benante plays a Tama Starclassic kit with a Tama Charlie Benante Signature 14x6.5" snare and Paiste RUDE & 2002 Series cymbals (14" Hi-Hats, 18" & 19" Crashes, 20" Power Ride, 18" China), driven by a Tama Speed Cobra double pedal with Roland electronics and Vic Firth Charlie Benante Signature sticks.
+
 ## Key Differences
 
 Menza combined powerful single and double bass work with aggressive, precisely placed fills, keeping his parts locked to Megadeth's complex riff structures rather than showcasing technical excess — his machine-gun double-kick on "Holy Wars...The Punishment Due" and "Tornado of Souls" remains a thrash benchmark. Benante built his reputation on fast, syncopated skank beats fused with hardcore punk energy and aggressive double bass, helping define East Coast thrash and crossover thrash alongside bands like S.O.D., where he also contributed lead guitar.
@@ -70,4 +74,4 @@ A: Charlie Benante is widely credited as one of the earliest popularizers of the
 
 ---
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

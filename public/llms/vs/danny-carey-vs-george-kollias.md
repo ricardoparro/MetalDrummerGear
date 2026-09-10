@@ -67,4 +67,4 @@ A: Danny Carey plays a Sonor SQ2 Heavy Beech kit with a 14x8" Bronze signature s
 
 ---
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

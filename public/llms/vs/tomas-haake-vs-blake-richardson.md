@@ -67,4 +67,4 @@ A: Tomas Haake is the drummer for Meshuggah, widely credited as the architect of
 
 ---
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

@@ -67,4 +67,4 @@ A: Paul Bostaph recorded four studio albums with Slayer: "Divine Intervention" (
 
 ---
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

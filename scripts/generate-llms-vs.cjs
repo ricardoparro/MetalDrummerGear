@@ -133,6 +133,17 @@ function buildVerdict(c) {
   return c.verdict ? c.verdict.trim() : '';
 }
 
+// Fields already rendered under their own named section (or folded into Key
+// Differences/FAQ) below. Any other curated `comparison.comparison` key — e.g.
+// `kit`/`speed` (issue #7262) — renders generically so new fields never need a
+// matching update here, mirroring the live /vs/<slug> page's own generic
+// Object.entries(comparison.comparison) iteration (App.js).
+const KNOWN_COMPARISON_KEYS = new Set(['style', 'technique', 'gear', 'influence']);
+
+function capitalize(key) {
+  return key.charAt(0).toUpperCase() + key.slice(1);
+}
+
 function buildMarkdown(c) {
   const slug1 = Array.isArray(c.drummers) ? c.drummers[0] : '';
   const slug2 = Array.isArray(c.drummers) ? c.drummers[1] : '';
@@ -197,6 +208,17 @@ function buildMarkdown(c) {
     parts.push('');
     parts.push(c.comparison.technique.trim());
     parts.push('');
+  }
+
+  // Any other curated comparison fields beyond style/technique/gear/influence
+  if (c.comparison) {
+    for (const [key, value] of Object.entries(c.comparison)) {
+      if (KNOWN_COMPARISON_KEYS.has(key) || !value) continue;
+      parts.push(`## ${capitalize(key)}`);
+      parts.push('');
+      parts.push(value.trim());
+      parts.push('');
+    }
   }
 
   // Key Differences

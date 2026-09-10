@@ -67,4 +67,4 @@ A: Dave Lombardo's drumming on Slayer's "Reign in Blood" (1986) is widely consid
 
 ---
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

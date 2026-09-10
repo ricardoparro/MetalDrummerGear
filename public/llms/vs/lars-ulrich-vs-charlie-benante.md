@@ -64,4 +64,4 @@ A: Lars uses Zildjian A Custom Series for a bright, musical tone suited to Metal
 
 ---
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

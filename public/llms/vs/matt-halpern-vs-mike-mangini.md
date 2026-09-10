@@ -67,4 +67,4 @@ A: Both are highly regarded drum educators. Matt Halpern built one of the most e
 
 ---
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

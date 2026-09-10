@@ -67,4 +67,4 @@ A: Jon Dette is best known for his long-term membership in Testament (1997-1999,
 
 ---
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

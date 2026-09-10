@@ -43,6 +43,20 @@ function formatCategory(cat) {
   return CATEGORY_LABELS[cat] || cat.charAt(0).toUpperCase() + cat.slice(1);
 }
 
+// Human-friendly overrides for known comparison.comparison keys; any other key
+// (e.g. kit, speed — issue #7262) falls back to a capitalized version of itself
+// so new curated fields never need a matching generator update.
+const COMPARISON_FIELD_LABELS = {
+  style: 'Playing style',
+  technique: 'Technique',
+  gear: 'Gear',
+  influence: 'Influence',
+};
+
+function comparisonFieldLabel(key) {
+  return COMPARISON_FIELD_LABELS[key] || (key.charAt(0).toUpperCase() + key.slice(1));
+}
+
 function renderComparison(c) {
   const parts = [];
   parts.push(`## ${c.title}`);
@@ -59,20 +73,9 @@ function renderComparison(c) {
   }
 
   if (c.comparison) {
-    if (c.comparison.style) {
-      parts.push(`**Playing style:** ${c.comparison.style}`);
-      parts.push('');
-    }
-    if (c.comparison.technique) {
-      parts.push(`**Technique:** ${c.comparison.technique}`);
-      parts.push('');
-    }
-    if (c.comparison.gear) {
-      parts.push(`**Gear:** ${c.comparison.gear}`);
-      parts.push('');
-    }
-    if (c.comparison.influence) {
-      parts.push(`**Influence:** ${c.comparison.influence}`);
+    for (const [key, value] of Object.entries(c.comparison)) {
+      if (!value) continue;
+      parts.push(`**${comparisonFieldLabel(key)}:** ${value}`);
       parts.push('');
     }
   }

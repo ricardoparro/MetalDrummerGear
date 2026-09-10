@@ -67,4 +67,4 @@ A: Derek Roddy is best known for brutal and technical death metal, performing wi
 
 ---
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

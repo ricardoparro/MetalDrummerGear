@@ -67,4 +67,4 @@ A: "The Sick, the Dying... and the Dead!" (2022) is Dirk Verbeuren's actual stud
 
 ---
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

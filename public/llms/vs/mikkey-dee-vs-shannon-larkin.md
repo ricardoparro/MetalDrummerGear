@@ -67,4 +67,4 @@ A: No — Shannon Larkin was Godsmack's drummer from 2002 to 2024, making him th
 
 ---
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

@@ -67,4 +67,4 @@ A: After his 1996-97 Slayer touring stint, Jon Dette joined Testament in 1997, r
 
 ---
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

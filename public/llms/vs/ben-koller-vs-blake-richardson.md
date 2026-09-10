@@ -67,4 +67,4 @@ A: Ben Koller's most acclaimed work is Converge's "Jane Doe" (2001), widely rega
 
 ---
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

@@ -67,4 +67,4 @@ A: Both are elite double-bass drummers, but their speed serves different goals. 
 
 ---
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

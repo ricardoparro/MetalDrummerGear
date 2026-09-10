@@ -67,4 +67,4 @@ A: Jason Bittner joined Overkill in 2017, replacing longtime drummer Ron Lipnick
 
 ---
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

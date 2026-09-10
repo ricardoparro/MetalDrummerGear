@@ -67,4 +67,4 @@ A: Yes — Eloy Casagrande was named the No. 1 metal drummer in Modern Drummer m
 
 ---
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

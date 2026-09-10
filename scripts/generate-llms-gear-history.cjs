@@ -186,6 +186,15 @@ function renderDrummer(entry) {
     parts.push('');
   });
 
+  if (Array.isArray(entry.priceEvolution) && entry.priceEvolution.length) {
+    parts.push('**Price Evolution:**');
+    entry.priceEvolution.forEach(p => {
+      const eventSuffix = p.event ? ` — ${p.event}` : '';
+      parts.push(`- ${p.year}: $${p.price.toLocaleString()}${p.label ? ` (${p.label})` : ''}${eventSuffix}`);
+    });
+    parts.push('');
+  }
+
   if (Array.isArray(entry.sources) && entry.sources.length) {
     parts.push('**Sources:**');
     entry.sources.forEach(s => {

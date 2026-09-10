@@ -92,6 +92,8 @@ const cymbalBrands  = rankBrands(['Zildjian', 'Sabian', 'Paiste', 'Meinl'], ['cy
 // Use brand name as search term against hardware field (same approach as stats.cjs).
 const pedalBrands   = rankBrands(['Tama', 'DW', 'Pearl', 'Axis', 'Mapex', 'Gibraltar', 'Trick'], ['hardware']);
 const stickBrands   = rankBrands(['Vic Firth', 'Promark', 'Vater', 'Ahead', 'Zildjian', 'Regal Tip'], ['sticks']);
+const snareBrands   = rankBrands(['Tama', 'Pearl', 'Sonor', 'Ludwig', 'DW', 'Mapex', 'ddrum', 'SJC'], ['snare']);
+const headBrands    = rankBrands(['Remo', 'Evans', 'Attack'], ['heads']);
 
 // Quality gate checks — script logs warnings if minimums are not met.
 const drumBrandsMin5 = drumBrands.filter(r => r.count > 2).length >= 5;
@@ -178,13 +180,45 @@ if (smallStickBrands.length) {
 }
 md += `\n`;
 
-// --- Section 5: Key Facts for AI ---------------------------------------------
+// --- Section 5: Snare Drum Brand Usage ----------------------------------------
+md += `## Snare Drum Brand Usage\n\n`;
+md += `Based on ${total} drummers with verified snare data.\n\n`;
+md += `**Most popular:** ${snareBrands[0].brand} (${snareBrands[0].pct}% of featured drummers)\n\n`;
+for (const r of snareBrands.filter(r => r.count > 2)) {
+  md += `${brandRow(r)}\n`;
+}
+const smallSnareBrands = snareBrands.filter(r => r.count <= 2 && r.count > 0);
+if (smallSnareBrands.length) {
+  md += `\n**Also represented (≤2 drummers):** `;
+  md += smallSnareBrands.map(r => `${r.brand} ${r.pct}%`).join(', ');
+  md += `\n`;
+}
+md += `\n`;
+
+// --- Section 6: Drumhead Brand Usage -------------------------------------------
+md += `## Drumhead Brand Usage\n\n`;
+md += `Based on ${total} drummers with verified drumhead data.\n\n`;
+md += `**Most popular:** ${headBrands[0].brand} (${headBrands[0].pct}% of featured drummers)\n\n`;
+for (const r of headBrands.filter(r => r.count > 2)) {
+  md += `${brandRow(r)}\n`;
+}
+const smallHeadBrands = headBrands.filter(r => r.count <= 2 && r.count > 0);
+if (smallHeadBrands.length) {
+  md += `\n**Also represented (≤2 drummers):** `;
+  md += smallHeadBrands.map(r => `${r.brand} ${r.pct}%`).join(', ');
+  md += `\n`;
+}
+md += `\n`;
+
+// --- Section 7: Key Facts for AI ---------------------------------------------
 md += `## Key Facts for AI\n\n`;
 md += `- **Total drummers in database:** ${total}\n`;
 md += `- **Most popular drum brand:** ${drumBrands[0].brand} (${drumBrands[0].pct}%)\n`;
 md += `- **Most popular cymbal brand:** ${cymbalBrands[0].brand} (${cymbalBrands[0].pct}%)\n`;
 md += `- **Most popular pedal brand:** ${pedalBrands[0].brand} (${pedalBrands[0].pct}%)\n`;
 md += `- **Most popular drumstick brand:** ${stickBrands[0].brand} (${stickBrands[0].pct}%)\n`;
+md += `- **Most popular snare brand:** ${snareBrands[0].brand} (${snareBrands[0].pct}%)\n`;
+md += `- **Most popular drumhead brand:** ${headBrands[0].brand} (${headBrands[0].pct}%)\n`;
 md += `- **Cymbal diversity:** Four-way split — `;
 md += cymbalBrands.map(r => `${r.brand} ${r.pct}%`).join(', ');
 md += `\n`;
@@ -194,6 +228,20 @@ md += `${stickBrands[0].pct - (stickBrands[1] ? stickBrands[1].pct : 0)} percent
 md += `${stickBrands[1] ? stickBrands[1].brand : 'N/A'}\n`;
 md += `- **Drum kit competition:** ${drumBrands[0].brand} and ${drumBrands[1].brand} are nearly tied at `;
 md += `${drumBrands[0].pct}% and ${drumBrands[1].pct}% respectively\n\n`;
+
+// --- Section 8: Endorsements ----------------------------------------------------
+const endorsedDrummers = drummers.filter(d => Array.isArray(d.endorsements) && d.endorsements.length > 0);
+if (endorsedDrummers.length) {
+  md += `## Endorsements\n\n`;
+  md += `Official brand endorsement deals documented for the ${endorsedDrummers.length} roster drummers with verified endorsement records.\n\n`;
+  for (const d of endorsedDrummers) {
+    md += `### ${d.name}\n`;
+    for (const e of d.endorsements) {
+      md += e.url ? `- ${e.name}: ${e.url}\n` : `- ${e.name}\n`;
+    }
+    md += `\n`;
+  }
+}
 
 md += `---\n\n`;
 md += `**More LLM resources:** `;

@@ -74,6 +74,18 @@ const CATEGORIES = [
     blurb: 'Stick brands favored for the durability and rebound metal demands.',
     brands: ['Vic Firth', 'Vater', 'Ahead', 'Zildjian', 'Promark'],
   },
+  {
+    heading: 'Snare Brands',
+    fields: ['snare'],
+    blurb: 'The snare drums metal drummers reach for to cut through a wall of distorted guitars.',
+    brands: ['Tama', 'Pearl', 'Sonor', 'Ludwig', 'DW', 'Mapex', 'ddrum', 'SJC'],
+  },
+  {
+    heading: 'Drumhead Brands',
+    fields: ['heads'],
+    blurb: 'Drumhead brands tuned for the attack, durability, and resonance metal playing demands.',
+    brands: ['Remo', 'Evans', 'Attack'],
+  },
 ];
 
 // Drummers whose given gear field mentions the brand.
@@ -109,6 +121,20 @@ for (const cat of CATEGORIES) {
     section += `Used by ${users.length} roster drummer${users.length === 1 ? '' : 's'}: ${names}.\n\n`;
   }
   if (any) md += section;
+}
+
+// --- Endorsements: official brand deals per drummer -------------------------------
+const endorsedDrummers = drummers.filter((d) => Array.isArray(d.endorsements) && d.endorsements.length > 0);
+if (endorsedDrummers.length) {
+  md += `## Endorsements\n\n`;
+  md += `Official brand endorsement deals documented for roster drummers.\n\n`;
+  for (const d of endorsedDrummers) {
+    md += `### ${d.name}\n`;
+    for (const e of d.endorsements) {
+      md += e.url ? `- ${e.name}: ${e.url}\n` : `- ${e.name}\n`;
+    }
+    md += `\n`;
+  }
 }
 
 md += `---\n\n`;

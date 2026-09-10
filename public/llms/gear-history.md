@@ -2617,37 +2617,36 @@ Ray Luzier's 2010 DW Collector's Series setup from Korn III: Remember Who You Ar
 
 **Active:** 1990–2009, 2009-present (reunions) | **Iconic era:** Demanufacture (1995)
 
-Raymond Herrera's 1995 setup behind Fear Factory's Demanufacture pioneered a template that industrial and groove metal drummers still study today: a fully acoustic Pearl Reference Series kit fitted end-to-end with ddrum and Roland electronic triggers.
+Raymond Herrera's 1995 setup behind Fear Factory's Demanufacture pioneered a template that industrial and groove metal drummers still study today: a fully acoustic Tama Starclassic kit fitted end-to-end with ddrum and Roland electronic triggers.
 
 ### Demanufacture Era (1994–1997, Fear Factory)
 
-- **Kit:** Pearl Reference Series — maple shell pack; 22"x18" bass drum (x2, double kick, each fitted with a ddrum trigger), 10"/12" rack toms (triggered), 14"x14"/16"x16" floor toms
-- **Snare:** Pearl Custom 14"x6.5" Steel, fitted with a ddrum trigger sensor
+- **Kit:** Tama Starclassic — maple shell pack; 22"x18" bass drum (x2, double kick, each fitted with a ddrum trigger), 10"/12" rack toms (triggered), 16"/18" floor toms (triggered)
+- **Snare:** Tama 14"x6.5" Brass, fitted with a ddrum trigger sensor
 - **Cymbals:** Zildjian Z Custom Series — 14" hi-hats, 16"/18" crashes, 20" ride, Z Custom china
 - **Original setup cost (1995):** ~$5,202
 - **Inflation-adjusted to 2026:** ~$11,182
 
-### Current Setup (Tama era)
+### Current Setup (Tama era, unchanged since 1995)
 
 - **Kit:** Tama Starclassic — shell pack
 - **Snare:** Tama 14"x6.5" Brass
 - **Cymbals:** Zildjian A Custom & Z Custom Series — 14" A Custom hi-hats, 18"/19" A Custom crashes, 21" Z Custom Mega Bell ride, 18" A Custom china
-- **Notable:** Herrera's rig has consolidated onto Tama and dropped the dedicated trigger rack in favor of a more conventional acoustic setup — even as compact modern trigger modules like the Roland TM-2 have made hybrid triggering far cheaper and easier to integrate than the rack-mounted brains he ran in 1995.
+- **Notable:** Herrera's rig has remained on Tama since signing in 1995 and dropped the dedicated trigger rack in favor of a more conventional acoustic setup — even as compact modern trigger modules like the Roland TM-2 have made hybrid triggering far cheaper and easier to integrate than the rack-mounted brains he ran in 1995.
 
 **Price Evolution:**
-- 1992: $4,300 (Soul of a New Machine era) — Early Pearl/ddrum hybrid trigger rig established on Fear Factory's debut
+- 1992: $4,300 (Soul of a New Machine era) — Early Tama/ddrum hybrid trigger rig established on Fear Factory's debut
 - 1995: $5,202 (Original Purchase) — Demanufacture recorded — the founding template of industrial metal's hybrid triggered drum sound
 - 1998: $5,900 (Obsolete era) — Rhys Fulber-produced hybrid kit refined further; commercial peak for Fear Factory
-- 2001: $6,400 (Digimortal era) — Same Pearl/Zildjian/ddrum rig carries through
-- 2009: $7,800 (Arkaea era) — Post-Fear Factory project; gear consolidates toward a more conventional acoustic setup
-- 2016: $9,500 (Current Tama era) — Tama Starclassic + Zildjian A/Z Custom becomes Herrera's standard rig
-- 2026: $11,182 (Current adjusted) — Inflation-adjusted value of original 1995 setup
+- 2001: $6,400 (Digimortal era) — Same Tama/Zildjian/ddrum rig carries through
+- 2009: $7,800 (Arkaea era) — Post-Fear Factory project; same Tama/Zildjian/DW rig, trigger rack scaled back toward a more conventional acoustic setup
+- 2026: $11,182 (Current adjusted) — Inflation-adjusted value of original 1995 setup — same Tama Starclassic rig, unchanged since 1995
 
 **Sources:**
-- Pearl Reference Series Catalog (1995)
+- Tama Starclassic Catalog (1995)
 - Rhythm Magazine — Raymond Herrera Interview (1996)
 - ddrum Trigger Systems Archive (1995)
-- Reverb Price Guide — Vintage Pearl Reference Series (2025)
+- Reverb Price Guide — Vintage Tama Starclassic (2025)
 
 [Full gear profile](https://metalforge.io/drummers/raymond-herrera/gear-history)
 

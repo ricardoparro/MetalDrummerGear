@@ -2926,9 +2926,8 @@ export const GEAR_PRICE_HISTORY = {
     priceEvolution: [
       { year: 1996, price: 2984, label: 'Original Purchase', event: 'None So Vile recording' },
       { year: 2000, price: 3400, label: 'And Then You\'ll Beg era', event: 'Cryptopsy lineup changes; Mounier remains constant' },
-      { year: 2005, price: 4100, label: 'Sonor SQ2 upgrade', event: 'Mounier transitions to high-end Sonor SQ2 custom kit' },
-      { year: 2008, price: 4800, label: 'The Unspoken King era', event: 'Tama Starclassic Bubinga added to arsenal' },
-      { year: 2012, price: 5500, label: 'Cryptopsy (self-titled) era', event: 'Return to brutal technical death metal sound' },
+      { year: 2005, price: 4100, label: 'Once Was Not era', event: 'Switches to Yamaha Recording Custom kit with Zildjian ZXT cymbals' },
+      { year: 2012, price: 5500, label: 'Cryptopsy (self-titled) era', event: 'Moves to Tama Starclassic Maple kit with Sabian cymbals' },
       { year: 2020, price: 6000, label: 'Vintage appeal grows', event: 'None So Vile legacy drives Pearl Session Elite collector interest' },
       { year: 2026, price: 6230, label: 'Current adjusted', event: 'Inflation-adjusted value' },
     ],

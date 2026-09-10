@@ -100,6 +100,14 @@ ${drummer.bio}
 
 `;
 
+  // Kit Overview prose (mirrors profile page "Complete Drum Kit Overview" section, Issue #2212)
+  if (drummer.kitOverview) {
+    output += `### Complete Drum Kit Overview
+${drummer.kitOverview}
+
+`;
+  }
+
   // Extended bio overview if available
   if (extBio.sections && extBio.sections.overview) {
     output += `### Detailed Overview
@@ -175,6 +183,33 @@ ${extBio.sections.styleAndInfluences.content}
 `;
   }
 
+  // Notable Recordings & Tours from extended bio
+  if (extBio.sections && extBio.sections.notableRecordings) {
+    const nr = extBio.sections.notableRecordings;
+    output += `### ${nr.title || 'Notable Recordings & Tours'}\n`;
+    if (nr.albums && nr.albums.length > 0) {
+      output += `\n**Key Albums**\n`;
+      for (const album of nr.albums) {
+        output += `- ${album.name} (${album.year}, ${album.label})${album.note ? `: ${album.note}` : ''}\n`;
+      }
+    }
+    if (nr.tours && nr.tours.length > 0) {
+      output += `\n**Notable Tours**\n`;
+      for (const tour of nr.tours) {
+        output += `- ${tour.name} (${tour.year})${tour.note ? `: ${tour.note}` : ''}\n`;
+      }
+    }
+    output += '\n';
+  }
+
+  // Gear Highlights from extended bio
+  if (extBio.sections && extBio.sections.gearHighlights) {
+    output += `### ${extBio.sections.gearHighlights.title || 'Gear Highlights'}
+${extBio.sections.gearHighlights.content}
+
+`;
+  }
+
   // Trivia from extended bio
   if (extBio.sections && extBio.sections.trivia && extBio.sections.trivia.items) {
     output += `### Trivia & Fun Facts\n`;
@@ -191,6 +226,15 @@ ${extBio.sections.styleAndInfluences.content}
       output += `**Q: ${faq.q}**\n`;
       output += `A: ${faq.a}\n\n`;
     }
+  }
+
+  // Sources from extended bio (citation trail backing the verified-only-facts rule)
+  if (extBio.sections && extBio.sections.sources && extBio.sections.sources.items) {
+    output += `### ${extBio.sections.sources.title || 'Sources'}\n`;
+    for (const source of extBio.sections.sources.items) {
+      output += `- [${source.name}](${source.url})\n`;
+    }
+    output += '\n';
   }
 
   // Videos

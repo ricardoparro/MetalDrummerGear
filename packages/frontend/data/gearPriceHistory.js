@@ -7812,37 +7812,37 @@ export const GEAR_PRICE_HISTORY = {
     albumReference: 'Cosmogenesis (2009)',
     profileImage: '/images/drummers/hannes-grossmann.webp',
 
-    summary: "Hannes Grossmann's 2009 setup behind Obscura's Cosmogenesis documents the rig that helped redefine technical death metal for a new generation — the album that established Obscura as heir apparent to Death's progressive legacy after Grossmann's earlier tenure in Necrophagist. His DW Collector's Series all-maple kit, paired with a DW Collector's maple snare and a Meinl Byzance cymbal setup built around traditional and brilliant finishes, gave him the warmth and articulation needed for Cosmogenesis's sweeping, multi-tempo compositions. The complete rig cost approximately $8,992 in 2009 dollars — equivalent to roughly $13,733 in 2026 after inflation. Grossmann carried a version of this DW/Meinl configuration through Omnivium (2011) before departing Obscura in 2014, having already co-founded the progressive death metal supergroup Alkaloid in 2013. What distinguished Grossmann's playing on Cosmogenesis was his classically-influenced precision — a drummer equally comfortable with blast-beat velocity and the kind of compositional restraint that let Obscura's cosmic, multi-part arrangements breathe. The DW Collector's Series kit documented here remained his foundation through one of technical death metal's most celebrated album runs.",
+    summary: "Hannes Grossmann's 2009 setup behind Obscura's Cosmogenesis documents the rig that helped redefine technical death metal for a new generation — the album that established Obscura as heir apparent to Death's progressive legacy after Grossmann's earlier tenure in Necrophagist. His Tama Starclassic Maple kit, paired with a Tama S.L.P. G-Maple snare and a Meinl Byzance cymbal setup built around traditional and brilliant finishes, gave him the warmth and articulation needed for Cosmogenesis's sweeping, multi-tempo compositions. The complete rig cost approximately $8,992 in 2009 dollars — equivalent to roughly $13,733 in 2026 after inflation. Grossmann carried a version of this Tama/Meinl configuration through Omnivium (2011) before departing Obscura in 2014, having already co-founded the progressive death metal supergroup Alkaloid in 2013. What distinguished Grossmann's playing on Cosmogenesis was his classically-influenced precision — a drummer equally comfortable with blast-beat velocity and the kind of compositional restraint that let Obscura's cosmic, multi-part arrangements breathe. The Tama Starclassic Maple kit documented here remained his foundation through one of technical death metal's most celebrated album runs.",
 
     setup: {
       drums: {
-        item: "DW Collector's Series",
+        item: 'Tama Starclassic Maple',
         model: 'All-maple 5-piece shell pack',
         specs: '22"x18" bass drum, 10"x8" rack, 12"x9" rack, 14"x14" floor, 16"x16" floor — all-maple shells',
         originalPrice: 6200,
         year: 2009,
-        source: "DW Collector's Series catalog MSRP 2009",
-        notes: "The all-maple Collector's shells gave Grossmann the warm fundamental and clear attack needed for Cosmogenesis's sweeping, multi-tempo compositions.",
+        source: 'Tama Starclassic Maple catalog MSRP 2009',
+        notes: "The all-maple Starclassic shells gave Grossmann the warm fundamental and clear attack needed for Cosmogenesis's sweeping, multi-tempo compositions.",
         vintageValue2026: 4000,
         modernEquivalent: {
-          item: "DW Collector's Series Maple (Current Configuration)",
+          item: 'Tama Starclassic Maple (Current Line)',
           price: 7200,
-          link: 'dw-collectors-series-grossmann',
+          link: 'tama-starclassic-maple-grossmann',
         },
       },
       snare: {
-        item: "DW Collector's 14\"x5.5\" Maple",
-        model: 'Maple shell',
-        specs: '14"x5.5" maple shell, Collector\'s series hardware',
+        item: 'Tama S.L.P. G-Maple 14"x6"',
+        model: 'G-Maple shell',
+        specs: '14"x6" maple shell, S.L.P. series hardware',
         originalPrice: 500,
         year: 2009,
-        source: "DW Collector's maple snare catalog pricing 2009",
-        notes: "The maple shell's focused, controlled crack cut cleanly through Obscura's dense, multi-layered guitar arrangements.",
+        source: 'Tama S.L.P. G-Maple snare catalog pricing 2009',
+        notes: "The G-Maple shell's focused, controlled crack cut cleanly through Obscura's dense, multi-layered guitar arrangements.",
         vintageValue2026: 380,
         modernEquivalent: {
-          item: "DW Collector's 14\"x5.5\" Maple Snare (Current)",
+          item: 'Tama S.L.P. G-Maple 14"x6" Snare (Current)',
           price: 550,
-          link: 'dw-collectors-maple-snare-grossmann',
+          link: 'tama-slp-g-maple-snare-grossmann',
         },
       },
       cymbals: {
@@ -7861,18 +7861,18 @@ export const GEAR_PRICE_HISTORY = {
         },
       },
       hardware: {
-        item: 'DW 9000 Series Double Pedal + Hardware',
-        model: 'DW 9000 double pedal + stands',
-        specs: 'DW 9000 Series double pedal, hi-hat stand, boom stands, DW throne',
+        item: 'Tama Iron Cobra Double Pedal + Hardware',
+        model: 'Tama Iron Cobra double pedal + stands',
+        specs: 'Tama Iron Cobra double pedal, hi-hat stand, boom stands, Tama throne',
         originalPrice: 700,
         year: 2009,
-        source: 'DW 9000 Series hardware catalog pricing 2009',
-        notes: "The 9000 Series pedal's smooth, consistent chain-drive response gave Grossmann the precision needed for Cosmogenesis's rapid tempo shifts.",
+        source: 'Tama Iron Cobra hardware catalog pricing 2009',
+        notes: "The Iron Cobra pedal's smooth, consistent chain-drive response gave Grossmann the precision needed for Cosmogenesis's rapid tempo shifts.",
         vintageValue2026: 500,
         modernEquivalent: {
-          item: 'DW 9000 Series Double Pedal + Hardware Pack (Current)',
+          item: 'Tama Iron Cobra Double Pedal + Hardware Pack (Current)',
           price: 900,
-          link: 'dw-9000-double-pedal-grossmann',
+          link: 'tama-iron-cobra-double-pedal-grossmann',
         },
       },
       sticks: {
@@ -7915,24 +7915,24 @@ export const GEAR_PRICE_HISTORY = {
     },
 
     priceEvolution: [
-      { year: 2008, price: 7800, label: 'Co-founds Obscura', event: 'Departs Necrophagist; establishes DW Collector\'s / Meinl Byzance rig with new band' },
-      { year: 2009, price: 8992, label: 'Original Purchase', event: 'Cosmogenesis recorded — full DW Collector\'s / Meinl Byzance rig documented' },
-      { year: 2011, price: 9400, label: 'Omnivium era', event: 'Same DW / Meinl configuration carried into Obscura\'s second album' },
+      { year: 2008, price: 7800, label: 'Co-founds Obscura', event: 'Departs Necrophagist; establishes Tama Starclassic / Meinl Byzance rig with new band' },
+      { year: 2009, price: 8992, label: 'Original Purchase', event: 'Cosmogenesis recorded — full Tama Starclassic / Meinl Byzance rig documented' },
+      { year: 2011, price: 9400, label: 'Omnivium era', event: 'Same Tama / Meinl configuration carried into Obscura\'s second album' },
       { year: 2014, price: 9400, label: 'Departs Obscura', event: 'Left the band; continues with Alkaloid, co-founded in 2013' },
       { year: 2026, price: 13733, label: 'Current adjusted', event: 'Inflation-adjusted value of the 2009 Cosmogenesis-era setup' },
     ],
 
     sources: [
-      { title: "DW Drums Artist Page — Hannes Grossmann", year: 2009, type: 'manufacturer' },
+      { title: "Tama Drums Artist Page — Hannes Grossmann", year: 2009, type: 'manufacturer' },
       { title: 'Meinl Byzance Cymbals Artist Roster', year: 2009, type: 'manufacturer' },
       { title: 'Blabbermouth — Obscura Cosmogenesis Album Feature', year: 2009, type: 'interview' },
-      { title: "Reverb Price Guide — DW Collector's Series", year: 2025, type: 'market' },
+      { title: 'Reverb Price Guide — Tama Starclassic Maple', year: 2025, type: 'market' },
     ],
 
     meta: {
       title: "Hannes Grossmann Drum Setup Cost | Obscura Cosmogenesis Gear Price History",
-      description: "How much did Hannes Grossmann's 2009 Obscura drum kit cost? Original ~$8,992, inflation-adjusted to ~$13,733 today. Complete DW Collector's Series breakdown from the Cosmogenesis era.",
-      keywords: ['hannes grossmann drum setup cost', 'obscura drummer gear history', 'hannes grossmann dw collectors series', 'cosmogenesis drum kit price', 'hannes grossmann gear cost today', 'hannes grossmann drummer gear'],
+      description: "How much did Hannes Grossmann's 2009 Obscura drum kit cost? Original ~$8,992, inflation-adjusted to ~$13,733 today. Complete Tama Starclassic Maple breakdown from the Cosmogenesis era.",
+      keywords: ['hannes grossmann drum setup cost', 'obscura drummer gear history', 'hannes grossmann tama starclassic maple', 'cosmogenesis drum kit price', 'hannes grossmann gear cost today', 'hannes grossmann drummer gear'],
     },
   },
 

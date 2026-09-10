@@ -2,7 +2,7 @@
 
 Brand endorsement changes for professional metal drummers. See https://metalforge.io/endorsement-news
 
-> Last updated: 2026-07-25 · 72 drummers tracked · 37 brands
+> Last updated: 2026-09-10 · 71 drummers tracked · 40 brands
 
 ---
 
@@ -18,32 +18,33 @@ Brand endorsement changes for professional metal drummers. See https://metalforg
 
 ### Axis
 
-- Derek Roddy (Nile (ex-Hate Eternal)) — Hardware/Pedals — since 2000 — /drummer/derek-roddy
+- Hellhammer (Mayhem / Dimmu Borgir) — Hardware/Pedals — since 1999 — /drummer/hellhammer
+- Richard Christy (Death) — Hardware/Pedals — since 1998 — /drummer/richard-christy
+- Martin Lopez (Soen) — Hardware/Pedals — since 2010 — /drummer/martin-lopez
 - Alex Bent (ex-Trivium / Arkaik / Dragonlord) — Hardware/Pedals — since 2017 — /drummer/alex-bent
+
+### British Drum Co.
+
+- Nicko McBrain (Iron Maiden) — Drums — since 2019 — /drummer/nicko-mcbrain
 
 ### DW
 
 - Jay Weinberg (Suicidal Tendencies) — Hardware/Pedals — since 2014 — /drummer/jay-weinberg
-- Nicko McBrain (Iron Maiden) — Hardware/Pedals — since 1984 — /drummer/nicko-mcbrain
-- Igor Cavalera (Sepultura / Cavalera Conspiracy) — Hardware/Pedals — since 2006 — /drummer/igor-cavalera
-- Travis Orbin (Periphery (ex) / Sky Harbor / Darkest Hour) — Drums — since 2009 — /drummer/travis-orbin
+- Matt Greiner (August Burns Red) — Hardware/Pedals — since 2016 — /drummer/matt-greiner
+- Mikkey Dee (Scorpions / Motörhead) — Hardware/Pedals — /drummer/mikkey-dee
+- Scott Travis (Judas Priest) — Hardware/Pedals — since 2018 — /drummer/scott-travis
+- Shannon Larkin (Godsmack) — Hardware/Pedals — since 2002 — /drummer/shannon-larkin
 - Travis Orbin (Periphery (ex) / Sky Harbor / Darkest Hour) — Hardware/Pedals — since 2010 — /drummer/travis-orbin
 - Aquiles Priester (Angra / W.A.S.P.) — Hardware/Pedals — since 2023 — /drummer/aquiles-priester
-- Arin Ilejay (Avenged Sevenfold (ex) / Confide) — Drums — since 2011 — /drummer/arin-ilejay
-- Arin Ilejay (Avenged Sevenfold (ex) / Confide) — Hardware/Pedals — since 2011 — /drummer/arin-ilejay
-- Blake Richardson (Between the Buried and Me) — Hardware/Pedals — since 2006 — /drummer/blake-richardson
-- Derek Roddy (Nile (ex-Hate Eternal)) — Drums — since 2001 — /drummer/derek-roddy
 - Hannes Grossmann (Alkaloid (ex-Obscura)) — Drums — since 2014 — /drummer/hannes-grossmann
 - Hannes Grossmann (Alkaloid (ex-Obscura)) — Hardware/Pedals — since 2014 — /drummer/hannes-grossmann
-- Isaac Lamb (Kublai Khan TX) — Hardware/Pedals — since 2009 — /drummer/isaac-lamb
-- Jason Bittner (Shadows Fall / Overkill) — Hardware/Pedals — since 2002 — /drummer/jason-bittner
-- Jocke Wallgren (Amon Amarth) — Hardware/Pedals — since 2005 — /drummer/jocke-wallgren
-- Morgan Ågren (Mats/Morgan Band / Devin Townsend Project) — Hardware/Pedals — since 2012 — /drummer/morgan-agren
 - Navene Koperweis (Entheos / ex-Animals as Leaders) — Drums — since 2015 — /drummer/navene-koperweis
 - Navene Koperweis (Entheos / ex-Animals as Leaders) — Hardware/Pedals — since 2015 — /drummer/navene-koperweis
-- Tim Yeung (Morbid Angel) — Hardware/Pedals — since 2005 — /drummer/tim-yeung
-- Kevin Talley (Dying Fetus) — Hardware/Pedals — since 2000 — /drummer/kevin-talley
-- Martin Lopez (Soen) — Hardware/Pedals — since 2010 — /drummer/martin-lopez
+- Ray Luzier (Korn) — Hardware/Pedals — since 2010 — /drummer/ray-luzier
+- Raymond Herrera (Fear Factory) — Hardware/Pedals — since 1995 — /drummer/raymond-herrera
+- Martin Axenrot (Opeth) — Drums — since 2006 — /drummer/martin-axenrot
+- Martin Axenrot (Opeth) — Hardware/Pedals — since 2006 — /drummer/martin-axenrot
+- Matt Garstka (Animals as Leaders) — Drums — since 2021 — /drummer/matt-garstka
 - Sean Reinert (Death / Cynic) — Drums — since 2008 — /drummer/sean-reinert
 - Sean Reinert (Death / Cynic) — Hardware/Pedals — since 2008 — /drummer/sean-reinert
 
@@ -57,28 +58,30 @@ Brand endorsement changes for professional metal drummers. See https://metalforg
 - George Kollias (Nile) — Drumheads — since 2000s — /drummer/george-kollias
 - Eloy Casagrande (Slipknot) — Drumheads — since 2010s — /drummer/eloy-casagrande
 - Jay Weinberg (Suicidal Tendencies) — Drumheads — since 2014 — /drummer/jay-weinberg
-- Danny Carey (Tool) — Drumheads — since 2000s — /drummer/danny-carey
 - Brann Dailor (Mastodon) — Drumheads — since 2000s — /drummer/brann-dailor
 - Chris Adler (ex-Lamb of God / Firstborne) — Drumheads — since 2000s — /drummer/chris-adler
 - Matt Halpern (Periphery) — Drumheads — since 2010s — /drummer/matt-halpern
-- Inferno (Behemoth) — Drumheads — since 2000s — /drummer/inferno
 - Charlie Benante (Anthrax / Pantera (touring)) — Drumheads — since 2000s — /drummer/charlie-benante
-- Ben Koller (Converge) — Drumheads — since 1999 — /drummer/ben-koller
+- Matt Greiner (August Burns Red) — Drumheads — since 2016 — /drummer/matt-greiner
+- Mikkey Dee (Scorpions / Motörhead) — Drumheads — /drummer/mikkey-dee
 - Flo Mounier (Cryptopsy) — Drumheads — since 2012 — /drummer/flo-mounier
 - Vinnie Paul (Pantera / Damageplan / Hellyeah) — Drumheads — since 2008 — /drummer/vinnie-paul
 - Gene Hoglan (Death / Testament / Dethklok) — Drumheads — since 1980s — /drummer/gene-hoglan
 - Shannon Larkin (Godsmack) — Drumheads — since 2002 — /drummer/shannon-larkin
 - Dirk Verbeuren (Megadeth) — Drumheads — since 2016 — /drummer/dirk-verbeuren
-- Abe Cunningham (Deftones) — Drumheads — since 1997 — /drummer/abe-cunningham
 - Travis Orbin (Periphery (ex) / Sky Harbor / Darkest Hour) — Drumheads — since 2010 — /drummer/travis-orbin
+- Arin Ilejay (Avenged Sevenfold (ex) / Confide) — Drumheads — since 2011 — /drummer/arin-ilejay
 - Blake Richardson (Between the Buried and Me) — Drumheads — since 2018 — /drummer/blake-richardson
 - Chris Turner (Oceans Ate Alaska) — Drumheads — since 2017 — /drummer/chris-turner
 - Derek Roddy (Nile (ex-Hate Eternal)) — Drumheads — since 2001 — /drummer/derek-roddy
 - Hannes Grossmann (Alkaloid (ex-Obscura)) — Drumheads — since 2014 — /drummer/hannes-grossmann
-- Isaac Lamb (Kublai Khan TX) — Drumheads — since 2009 — /drummer/isaac-lamb
+- Jason Bittner (Shadows Fall / Overkill) — Drumheads — since 1997 — /drummer/jason-bittner
+- Jocke Wallgren (Amon Amarth) — Drumheads — since 2013 — /drummer/jocke-wallgren
 - Navene Koperweis (Entheos / ex-Animals as Leaders) — Drumheads — since 2015 — /drummer/navene-koperweis
 - Nick Augusto (ex-Trivium) — Drumheads — since 2011 — /drummer/nick-augusto
 - Ray Luzier (Korn) — Drumheads — since 2010 — /drummer/ray-luzier
+- Daray (Dimmu Borgir) — Drumheads — since 2008 — /drummer/daray
+- Martin Axenrot (Opeth) — Drumheads — since 2006 — /drummer/martin-axenrot
 - Art Cruz (Lamb of God) — Drumheads — since 2019 — /drummer/art-cruz
 - Adrian Erlandsson (At the Gates) — Drumheads — since 2014 — /drummer/adrian-erlandsson
 - Jimmy DeGrasso (Megadeth) — Drumheads — since 1998 — /drummer/jimmy-degrasso
@@ -106,33 +109,36 @@ Brand endorsement changes for professional metal drummers. See https://metalforg
 ### Mapex
 
 - Chris Adler (ex-Lamb of God / Firstborne) — Drums — since 2010s (signature model) — /drummer/chris-adler
+- Matt Greiner (August Burns Red) — Drums — since 2016 — /drummer/matt-greiner
+- Aquiles Priester (Angra / W.A.S.P.) — Drums — since 2023 — /drummer/aquiles-priester
+- Arin Ilejay (Avenged Sevenfold (ex) / Confide) — Drums — since 2011 — /drummer/arin-ilejay
+- Arin Ilejay (Avenged Sevenfold (ex) / Confide) — Hardware/Pedals — since 2011 — /drummer/arin-ilejay
+- Jason Bittner (Shadows Fall / Overkill) — Drums — since 1997 — /drummer/jason-bittner
+- Jason Bittner (Shadows Fall / Overkill) — Hardware/Pedals — since 2002 — /drummer/jason-bittner
 
 ### Meinl
 
-- Mario Duplantier (Gojira) — Cymbals — since 2010s — /drummer/mario-duplantier
 - Brann Dailor (Mastodon) — Cymbals — since 2000s — /drummer/brann-dailor
 - Chris Adler (ex-Lamb of God / Firstborne) — Cymbals — since 2000s — /drummer/chris-adler
 - Matt Halpern (Periphery) — Cymbals — since 2010s (signature model) — /drummer/matt-halpern
-- Matt Greiner (August Burns Red) — Cymbals — since 2011 — /drummer/matt-greiner
 - Dirk Verbeuren (Megadeth) — Cymbals — since 2022 — /drummer/dirk-verbeuren
-- Blake Richardson (Between the Buried and Me) — Cymbals — since 2018 — /drummer/blake-richardson
 - Chris Turner (Oceans Ate Alaska) — Cymbals — since 2017 — /drummer/chris-turner
+- Derek Roddy (Nile (ex-Hate Eternal)) — Cymbals — since 1994 — /drummer/derek-roddy
 - Hannes Grossmann (Alkaloid (ex-Obscura)) — Cymbals — since 2001 — /drummer/hannes-grossmann
-- Isaac Lamb (Kublai Khan TX) — Cymbals — since 2009 — /drummer/isaac-lamb
-- Jocke Wallgren (Amon Amarth) — Cymbals — since 2005 — /drummer/jocke-wallgren
-- Morgan Ågren (Mats/Morgan Band / Devin Townsend Project) — Cymbals — since 1988 — /drummer/morgan-agren
 - Navene Koperweis (Entheos / ex-Animals as Leaders) — Cymbals — since 2010 — /drummer/navene-koperweis
-- Nick Augusto (ex-Trivium) — Cymbals — since 2011 — /drummer/nick-augusto
 - Paul Mazurkiewicz (Cannibal Corpse) — Cymbals — since 1990s — /drummer/paul-mazurkiewicz
-- Martin Axenrot (Opeth) — Cymbals — since 2008 — /drummer/martin-axenrot
 - Matt Garstka (Animals as Leaders) — Cymbals — since 2012 — /drummer/matt-garstka
-- Alex Rüdinger (The Faceless) — Cymbals — since 2010s — /drummer/alex-rudinger
+- Alex Rüdinger (The Faceless) — Cymbals — since 2015 — /drummer/alex-rudinger
 - John Longstreth (Origin) — Cymbals — since 2000s — /drummer/john-longstreth
 
 ### Monolit
 
 - Inferno (Behemoth) — Hardware/Pedals — since 2010s — /drummer/inferno
 - Adrian Erlandsson (At the Gates) — Hardware/Pedals — since 2014 — /drummer/adrian-erlandsson
+
+### Noble & Cooley
+
+- Martin Lopez (Soen) — Drums — since 2010 — /drummer/martin-lopez
 
 ### Orange County Drum & Percussion
 
@@ -146,54 +152,48 @@ Brand endorsement changes for professional metal drummers. See https://metalforg
 - Danny Carey (Tool) — Cymbals — since 1990s (signature model) — /drummer/danny-carey
 - Inferno (Behemoth) — Cymbals — since 2000s — /drummer/inferno
 - Charlie Benante (Anthrax / Pantera (touring)) — Cymbals — since 1980s — /drummer/charlie-benante
+- Matt Greiner (August Burns Red) — Cymbals — since 2016 — /drummer/matt-greiner
+- Mikkey Dee (Scorpions / Motörhead) — Cymbals — since 1987 — /drummer/mikkey-dee
+- Hellhammer (Mayhem / Dimmu Borgir) — Cymbals — since 1988 — /drummer/hellhammer
 - Scott Travis (Judas Priest) — Cymbals — since 1987 — /drummer/scott-travis
 - Nicko McBrain (Iron Maiden) — Cymbals — since 1980s — /drummer/nicko-mcbrain
+- Aquiles Priester (Angra / W.A.S.P.) — Cymbals — since 2023 — /drummer/aquiles-priester
+- Morgan Ågren (Mats/Morgan Band / Devin Townsend Project) — Cymbals — since 1988 — /drummer/morgan-agren
 - Daray (Dimmu Borgir) — Cymbals — since 2008 — /drummer/daray
 
 ### Pearl
 
 - Joey Jordison (Slipknot) — Drums — since 2010 — /drummer/joey-jordison
 - Joey Jordison (Slipknot) — Hardware/Pedals — since 2010 — /drummer/joey-jordison
-- Dave Lombardo (Slayer / Dead Cross) — Drums — since 2000s — /drummer/dave-lombardo
 - George Kollias (Nile) — Drums — since 2000s — /drummer/george-kollias
 - George Kollias (Nile) — Hardware/Pedals — since 2010s (signature model) — /drummer/george-kollias
 - Matt Halpern (Periphery) — Drums — since 2015 (signature model) — /drummer/matt-halpern
 - Inferno (Behemoth) — Drums — since 2000s — /drummer/inferno
 - Jaska Raatikainen (Children of Bodom) — Drums — since 2004 — /drummer/jaska-raatikainen
 - Jaska Raatikainen (Children of Bodom) — Hardware/Pedals — since 2000s — /drummer/jaska-raatikainen
-- Matt Greiner (August Burns Red) — Drums — since 2011 — /drummer/matt-greiner
-- Matt Greiner (August Burns Red) — Hardware/Pedals — since 2011 — /drummer/matt-greiner
-- Hellhammer (Mayhem / Dimmu Borgir) — Drums — since 1999 — /drummer/hellhammer
-- Hellhammer (Mayhem / Dimmu Borgir) — Hardware/Pedals — since 1999 — /drummer/hellhammer
 - Paul Bostaph (Slayer / Testament / Exodus) — Drums — since 2015 — /drummer/paul-bostaph
 - Paul Bostaph (Slayer / Testament / Exodus) — Hardware/Pedals — since 2015 — /drummer/paul-bostaph
-- Shannon Larkin (Godsmack) — Drums — since 2002 — /drummer/shannon-larkin
-- Shannon Larkin (Godsmack) — Hardware/Pedals — since 2002 — /drummer/shannon-larkin
-- Frost (Satyricon) — Drums — since 1996 — /drummer/frost
-- Frost (Satyricon) — Hardware/Pedals — since 2013 — /drummer/frost
-- Blake Richardson (Between the Buried and Me) — Drums — since 2018 — /drummer/blake-richardson
+- Gene Hoglan (Death / Testament / Dethklok) — Drums — since 2018 — /drummer/gene-hoglan
+- Gene Hoglan (Death / Testament / Dethklok) — Hardware/Pedals — since 2008 — /drummer/gene-hoglan
 - Daniel Erlandsson (Arch Enemy) — Drums — since 2001 — /drummer/daniel-erlandsson
 - Daniel Erlandsson (Arch Enemy) — Hardware/Pedals — since 2001 — /drummer/daniel-erlandsson
+- Jocke Wallgren (Amon Amarth) — Drums — since 2013 — /drummer/jocke-wallgren
+- Jocke Wallgren (Amon Amarth) — Hardware/Pedals — since 2005 — /drummer/jocke-wallgren
 - Mike Mangini (Dream Theater) — Drums — since 2011 — /drummer/mike-mangini
 - Mike Mangini (Dream Theater) — Hardware/Pedals — since 2011 — /drummer/mike-mangini
+- Nick Augusto (ex-Trivium) — Drums — since 2011 — /drummer/nick-augusto
+- Nick Augusto (ex-Trivium) — Hardware/Pedals — since 2011 — /drummer/nick-augusto
 - Paul Mazurkiewicz (Cannibal Corpse) — Drums — since 1990s — /drummer/paul-mazurkiewicz
 - Paul Mazurkiewicz (Cannibal Corpse) — Hardware/Pedals — since 1990s — /drummer/paul-mazurkiewicz
-- Pete Sandoval (Morbid Angel) — Drums — since 1993 — /drummer/pete-sandoval
-- Pete Sandoval (Morbid Angel) — Hardware/Pedals — since 1993 — /drummer/pete-sandoval
 - Ray Luzier (Korn) — Drums — since 2013 — /drummer/ray-luzier
-- Ray Luzier (Korn) — Hardware/Pedals — since 2013 — /drummer/ray-luzier
-- Raymond Herrera (Fear Factory) — Drums — since 1995 — /drummer/raymond-herrera
-- Raymond Herrera (Fear Factory) — Hardware/Pedals — since 1995 — /drummer/raymond-herrera
 - Richard Christy (Death) — Drums — since 1998 — /drummer/richard-christy
-- Richard Christy (Death) — Hardware/Pedals — since 1998 — /drummer/richard-christy
 - Ryan Van Poederooyen (Devin Townsend Project) — Drums — since 2000 — /drummer/ryan-van-poederooyen
-- Tim Yeung (Morbid Angel) — Drums — since 2005 — /drummer/tim-yeung
+- Ryan Van Poederooyen (Devin Townsend Project) — Hardware/Pedals — since 2000 — /drummer/ryan-van-poederooyen
 - Daray (Dimmu Borgir) — Drums — since 2008 — /drummer/daray
 - Daray (Dimmu Borgir) — Hardware/Pedals — since 2010 — /drummer/daray
 - Kevin Talley (Dying Fetus) — Drums — since 2000 — /drummer/kevin-talley
-- Matt Garstka (Animals as Leaders) — Drums — since 2012 — /drummer/matt-garstka
-- Matt Garstka (Animals as Leaders) — Hardware/Pedals — since 2012 — /drummer/matt-garstka
-- Alex Bent (ex-Trivium / Arkaik / Dragonlord) — Drums — since 2016 — /drummer/alex-bent
+- Kevin Talley (Dying Fetus) — Hardware/Pedals — since 2000 — /drummer/kevin-talley
+- Nick Menza (Megadeth) — Drums — since 1997 — /drummer/nick-menza
 - Jimmy DeGrasso (Megadeth) — Drums — since 2008 — /drummer/jimmy-degrasso
 - John Longstreth (Origin) — Drums — since 1990s — /drummer/john-longstreth
 - Waltteri Väyrynen (Opeth) — Drums — since 2010s — /drummer/waltteri-vayrynen
@@ -201,26 +201,33 @@ Brand endorsement changes for professional metal drummers. See https://metalforg
 ### Pro-Mark
 
 - Bill Ward (Black Sabbath) — Drumsticks — since 1970 — /drummer/bill-ward
+- Abe Cunningham (Deftones) — Drumsticks — since 1997 — /drummer/abe-cunningham
+- Raymond Herrera (Fear Factory) — Drumsticks — since 1995 — /drummer/raymond-herrera
+- Martin Axenrot (Opeth) — Drumsticks — since 2006 — /drummer/martin-axenrot
 
 ### ProMark
 
+- Gene Hoglan (Death / Testament / Dethklok) — Drumsticks — since 2018 — /drummer/gene-hoglan
+- Aquiles Priester (Angra / W.A.S.P.) — Drumsticks — since 2023 (signature model) — /drummer/aquiles-priester
 - Daniel Erlandsson (Arch Enemy) — Drumsticks — since 2001 — /drummer/daniel-erlandsson
+- Jason Bittner (Shadows Fall / Overkill) — Drumsticks — since 1997 (signature model) — /drummer/jason-bittner
 
 ### Promark
 
 - Joey Jordison (Slipknot) — Drumsticks — since 2008 (signature model) — /drummer/joey-jordison
+- Dave Lombardo (Slayer / Dead Cross) — Drumsticks (signature model) — /drummer/dave-lombardo
 - Mike Portnoy (Dream Theater) — Drumsticks — since 2000s — /drummer/mike-portnoy
 - Chris Adler (ex-Lamb of God / Firstborne) — Drumsticks — since 2000s (signature model) — /drummer/chris-adler
 - Matt Halpern (Periphery) — Drumsticks — since 2015 (signature model) — /drummer/matt-halpern
-- Shannon Larkin (Godsmack) — Drumsticks — since 2012 (signature model) — /drummer/shannon-larkin
-- Nick Augusto (ex-Trivium) — Drumsticks — since 2011 — /drummer/nick-augusto
-- Ray Luzier (Korn) — Drumsticks — since 2013 — /drummer/ray-luzier
-- Daray (Dimmu Borgir) — Drumsticks — since 2008 — /drummer/daray
 - Jimmy DeGrasso (Megadeth) — Drumsticks — since 1998 — /drummer/jimmy-degrasso
 
 ### Promark / Vater
 
 - Jon Dette (Slayer) — Drumsticks — since 1996 — /drummer/jon-dette
+
+### Promark or Vic Firth
+
+- Pete Sandoval (Morbid Angel) — Drumsticks — since 1989 — /drummer/pete-sandoval
 
 ### Remo
 
@@ -228,12 +235,13 @@ Brand endorsement changes for professional metal drummers. See https://metalforg
 - Tomas Haake (Meshuggah) — Drumheads — since 2000s — /drummer/tomas-haake
 - Dave Lombardo (Slayer / Dead Cross) — Drumheads — since 1980s — /drummer/dave-lombardo
 - Mike Portnoy (Dream Theater) — Drumheads — since 1980s — /drummer/mike-portnoy
+- Danny Carey (Tool) — Drumheads — since 2000s — /drummer/danny-carey
 - Mario Duplantier (Gojira) — Drumheads — since 2010s — /drummer/mario-duplantier
+- Inferno (Behemoth) — Drumheads — since 2000s — /drummer/inferno
 - Jaska Raatikainen (Children of Bodom) — Drumheads — since 1997 — /drummer/jaska-raatikainen
 - Bill Ward (Black Sabbath) — Drumheads — since 1970 — /drummer/bill-ward
 - John Otto (Limp Bizkit) — Drumheads — since 1994 — /drummer/john-otto
-- Matt Greiner (August Burns Red) — Drumheads — since 2003 — /drummer/matt-greiner
-- Mikkey Dee (Scorpions / Motörhead) — Drumheads — since 1992 — /drummer/mikkey-dee
+- Ben Koller (Converge) — Drumheads — since 1999 — /drummer/ben-koller
 - Gavin Harrison (Porcupine Tree / King Crimson) — Drumheads — since 2002 — /drummer/gavin-harrison
 - Hellhammer (Mayhem / Dimmu Borgir) — Drumheads — since 1988 — /drummer/hellhammer
 - Scott Travis (Judas Priest) — Drumheads — since 1990 — /drummer/scott-travis
@@ -241,20 +249,16 @@ Brand endorsement changes for professional metal drummers. See https://metalforg
 - Paul Bostaph (Slayer / Testament / Exodus) — Drumheads — since 2015 — /drummer/paul-bostaph
 - Igor Cavalera (Sepultura / Cavalera Conspiracy) — Drumheads — since 2006 — /drummer/igor-cavalera
 - Frost (Satyricon) — Drumheads — since 1996 — /drummer/frost
+- Abe Cunningham (Deftones) — Drumheads — since 1997 — /drummer/abe-cunningham
 - Aquiles Priester (Angra / W.A.S.P.) — Drumheads — since 1996 — /drummer/aquiles-priester
-- Arin Ilejay (Avenged Sevenfold (ex) / Confide) — Drumheads — since 2011 — /drummer/arin-ilejay
 - Daniel Erlandsson (Arch Enemy) — Drumheads — since 2001 — /drummer/daniel-erlandsson
-- Jason Bittner (Shadows Fall / Overkill) — Drumheads — since 1997 — /drummer/jason-bittner
-- Jocke Wallgren (Amon Amarth) — Drumheads — since 2013 — /drummer/jocke-wallgren
 - Mike Mangini (Dream Theater) — Drumheads — since 2011 — /drummer/mike-mangini
 - Morgan Ågren (Mats/Morgan Band / Devin Townsend Project) — Drumheads — since 1988 — /drummer/morgan-agren
 - Paul Mazurkiewicz (Cannibal Corpse) — Drumheads — since 1990s — /drummer/paul-mazurkiewicz
 - Pete Sandoval (Morbid Angel) — Drumheads — since 1989 — /drummer/pete-sandoval
 - Raymond Herrera (Fear Factory) — Drumheads — since 1995 — /drummer/raymond-herrera
 - Tim Yeung (Morbid Angel) — Drumheads — since 2005 — /drummer/tim-yeung
-- Daray (Dimmu Borgir) — Drumheads — since 2008 — /drummer/daray
 - Kevin Talley (Dying Fetus) — Drumheads — since 2000 — /drummer/kevin-talley
-- Martin Axenrot (Opeth) — Drumheads — since 2008 — /drummer/martin-axenrot
 - Martin Lopez (Soen) — Drumheads — since 1997 — /drummer/martin-lopez
 - Matt Garstka (Animals as Leaders) — Drumheads — since 2012 — /drummer/matt-garstka
 - Sean Reinert (Death / Cynic) — Drumheads — since 1990 — /drummer/sean-reinert
@@ -266,10 +270,13 @@ Brand endorsement changes for professional metal drummers. See https://metalforg
 
 - Richard Christy (Death) — Drumheads — since 1998 — /drummer/richard-christy
 
+### SJC
+
+- Travis Orbin (Periphery (ex) / Sky Harbor / Darkest Hour) — Drums — since 2009 — /drummer/travis-orbin
+
 ### SJC Custom Drums
 
 - Jay Weinberg (Suicidal Tendencies) — Drums — since 2014 — /drummer/jay-weinberg
-- Isaac Lamb (Kublai Khan TX) — Drums — since 2009 — /drummer/isaac-lamb
 
 ### Sabian
 
@@ -278,16 +285,18 @@ Brand endorsement changes for professional metal drummers. See https://metalforg
 - Flo Mounier (Cryptopsy) — Cymbals — since 2012 — /drummer/flo-mounier
 - Vinnie Paul (Pantera / Damageplan / Hellyeah) — Cymbals — since 1990s — /drummer/vinnie-paul
 - Paul Bostaph (Slayer / Testament / Exodus) — Cymbals — since 2015 — /drummer/paul-bostaph
+- Gene Hoglan (Death / Testament / Dethklok) — Cymbals — since 1991 — /drummer/gene-hoglan
 - Shannon Larkin (Godsmack) — Cymbals — since 2002 — /drummer/shannon-larkin
+- Blake Richardson (Between the Buried and Me) — Cymbals — since 2018 — /drummer/blake-richardson
 - Daniel Erlandsson (Arch Enemy) — Cymbals — since 2014 — /drummer/daniel-erlandsson
-- Derek Roddy (Nile (ex-Hate Eternal)) — Cymbals — since 1994 — /drummer/derek-roddy
-- Jason Bittner (Shadows Fall / Overkill) — Cymbals — since 1997 — /drummer/jason-bittner
 - Mike Mangini (Dream Theater) — Cymbals — since 2011 — /drummer/mike-mangini
-- Pete Sandoval (Morbid Angel) — Cymbals — since 1993 — /drummer/pete-sandoval
+- Nick Augusto (ex-Trivium) — Cymbals — since 2011 — /drummer/nick-augusto
 - Ray Luzier (Korn) — Cymbals — since 2013 — /drummer/ray-luzier
 - Richard Christy (Death) — Cymbals — since 1998 — /drummer/richard-christy
 - Ryan Van Poederooyen (Devin Townsend Project) — Cymbals — since 2000 — /drummer/ryan-van-poederooyen
 - Tim Yeung (Morbid Angel) — Cymbals — since 2005 — /drummer/tim-yeung
+- Kevin Talley (Dying Fetus) — Cymbals — since 2000 — /drummer/kevin-talley
+- Martin Axenrot (Opeth) — Cymbals — since 2006 — /drummer/martin-axenrot
 - Nick Menza (Megadeth) — Cymbals — since 1997 — /drummer/nick-menza
 - Adrian Erlandsson (At the Gates) — Cymbals — since 2014 — /drummer/adrian-erlandsson
 - Jimmy DeGrasso (Megadeth) — Cymbals — since 1998 — /drummer/jimmy-degrasso
@@ -305,13 +314,12 @@ Brand endorsement changes for professional metal drummers. See https://metalforg
 
 - Tomas Haake (Meshuggah) — Drums — since 2005 — /drummer/tomas-haake
 - Danny Carey (Tool) — Drums — since 2000s — /drummer/danny-carey
+- Mikkey Dee (Scorpions / Motörhead) — Drums (signature model) — /drummer/mikkey-dee
 - Gavin Harrison (Porcupine Tree / King Crimson) — Drums — since 2002 — /drummer/gavin-harrison
 - Gavin Harrison (Porcupine Tree / King Crimson) — Hardware/Pedals — since 2002 — /drummer/gavin-harrison
-- Nicko McBrain (Iron Maiden) — Drums — since 2010s — /drummer/nicko-mcbrain
+- Hellhammer (Mayhem / Dimmu Borgir) — Drums — since 1999 — /drummer/hellhammer
 - Morgan Ågren (Mats/Morgan Band / Devin Townsend Project) — Drums — since 2012 — /drummer/morgan-agren
-- Martin Axenrot (Opeth) — Drums — since 2008 — /drummer/martin-axenrot
-- Martin Axenrot (Opeth) — Hardware/Pedals — since 2008 — /drummer/martin-axenrot
-- Martin Lopez (Soen) — Drums — since 2010 — /drummer/martin-lopez
+- Morgan Ågren (Mats/Morgan Band / Devin Townsend Project) — Hardware/Pedals — since 2012 — /drummer/morgan-agren
 - Nick Barker (Dimmu Borgir) — Drums — since 1990s — /drummer/nick-barker
 
 ### Tama
@@ -319,8 +327,11 @@ Brand endorsement changes for professional metal drummers. See https://metalforg
 - Lars Ulrich (Metallica) — Drums — since 1986 (signature model) — /drummer/lars-ulrich
 - Lars Ulrich (Metallica) — Hardware/Pedals — since 1990s — /drummer/lars-ulrich
 - Tomas Haake (Meshuggah) — Hardware/Pedals — since 2010s — /drummer/tomas-haake
+- Dave Lombardo (Slayer / Dead Cross) — Drums — /drummer/dave-lombardo
+- Eloy Casagrande (Slipknot) — Drums — since 2010s — /drummer/eloy-casagrande
 - Mike Portnoy (Dream Theater) — Drums — since 1980s — /drummer/mike-portnoy
 - Mario Duplantier (Gojira) — Drums — since 2010s — /drummer/mario-duplantier
+- Mario Duplantier (Gojira) — Drumsticks (signature model) — /drummer/mario-duplantier
 - Brann Dailor (Mastodon) — Drums — since 2000s — /drummer/brann-dailor
 - Brann Dailor (Mastodon) — Hardware/Pedals — since 2010s — /drummer/brann-dailor
 - Charlie Benante (Anthrax / Pantera (touring)) — Drums — since 1980s — /drummer/charlie-benante
@@ -329,23 +340,26 @@ Brand endorsement changes for professional metal drummers. See https://metalforg
 - Ben Koller (Converge) — Hardware/Pedals — since 2004 — /drummer/ben-koller
 - Flo Mounier (Cryptopsy) — Drums — since 2012 — /drummer/flo-mounier
 - Flo Mounier (Cryptopsy) — Hardware/Pedals — since 2012 — /drummer/flo-mounier
-- Scott Travis (Judas Priest) — Drums — since 2018 — /drummer/scott-travis
-- Scott Travis (Judas Priest) — Hardware/Pedals — since 1990 — /drummer/scott-travis
-- Gene Hoglan (Death / Testament / Dethklok) — Drums — since 2018 — /drummer/gene-hoglan
-- Gene Hoglan (Death / Testament / Dethklok) — Hardware/Pedals — since 2008 — /drummer/gene-hoglan
+- Igor Cavalera (Sepultura / Cavalera Conspiracy) — Hardware/Pedals — since 2018 — /drummer/igor-cavalera
 - Dirk Verbeuren (Megadeth) — Drums — since 2016 (signature model) — /drummer/dirk-verbeuren
+- Dirk Verbeuren (Megadeth) — Drumsticks — since 2016 (signature model) — /drummer/dirk-verbeuren
 - Dirk Verbeuren (Megadeth) — Hardware/Pedals — since 2016 — /drummer/dirk-verbeuren
+- Frost (Satyricon) — Drums — since 2013 — /drummer/frost
+- Frost (Satyricon) — Hardware/Pedals — since 2013 — /drummer/frost
 - Abe Cunningham (Deftones) — Drums — since 1997 — /drummer/abe-cunningham
 - Abe Cunningham (Deftones) — Hardware/Pedals — since 1997 — /drummer/abe-cunningham
+- Blake Richardson (Between the Buried and Me) — Drums — since 2018 — /drummer/blake-richardson
+- Blake Richardson (Between the Buried and Me) — Hardware/Pedals — since 2018 — /drummer/blake-richardson
 - Chris Turner (Oceans Ate Alaska) — Drums — since 2017 — /drummer/chris-turner
 - Chris Turner (Oceans Ate Alaska) — Hardware/Pedals — since 2017 — /drummer/chris-turner
-- Jason Bittner (Shadows Fall / Overkill) — Drums — since 1997 — /drummer/jason-bittner
-- Jocke Wallgren (Amon Amarth) — Drums — since 2013 — /drummer/jocke-wallgren
-- Nick Augusto (ex-Trivium) — Drums — since 2011 — /drummer/nick-augusto
-- Nick Augusto (ex-Trivium) — Hardware/Pedals — since 2011 — /drummer/nick-augusto
-- Ryan Van Poederooyen (Devin Townsend Project) — Hardware/Pedals — since 2000 — /drummer/ryan-van-poederooyen
-- Nick Menza (Megadeth) — Drums — since 1990 — /drummer/nick-menza
+- Derek Roddy (Nile (ex-Hate Eternal)) — Drums — since 2001 — /drummer/derek-roddy
+- Derek Roddy (Nile (ex-Hate Eternal)) — Hardware/Pedals — since 2000 — /drummer/derek-roddy
+- Raymond Herrera (Fear Factory) — Drums — since 1995 — /drummer/raymond-herrera
+- Tim Yeung (Morbid Angel) — Drums — since 2005 — /drummer/tim-yeung
+- Tim Yeung (Morbid Angel) — Hardware/Pedals — since 2005 — /drummer/tim-yeung
+- Matt Garstka (Animals as Leaders) — Hardware/Pedals — since 2021 — /drummer/matt-garstka
 - Nick Menza (Megadeth) — Hardware/Pedals — since 1997 — /drummer/nick-menza
+- Alex Bent (ex-Trivium / Arkaik / Dragonlord) — Drums — since 2016 — /drummer/alex-bent
 - Adrian Erlandsson (At the Gates) — Drums — since 2014 — /drummer/adrian-erlandsson
 - Alex Rüdinger (The Faceless) — Drums — since 2010s — /drummer/alex-rudinger
 
@@ -354,45 +368,32 @@ Brand endorsement changes for professional metal drummers. See https://metalforg
 - Chris Adler (ex-Lamb of God / Firstborne) — Hardware/Pedals — since 2010s — /drummer/chris-adler
 - Art Cruz (Lamb of God) — Hardware/Pedals — since 2019 — /drummer/art-cruz
 
-### Trick Drums
-
-- Aquiles Priester (Angra / W.A.S.P.) — Drums — since 2023 — /drummer/aquiles-priester
-
-### Ufip
-
-- Aquiles Priester (Angra / W.A.S.P.) — Cymbals — since 2023 — /drummer/aquiles-priester
-
 ### Vater
 
 - Jay Weinberg (Suicidal Tendencies) — Drumsticks — since 2014 — /drummer/jay-weinberg
 - Brann Dailor (Mastodon) — Drumsticks — since 2000s — /drummer/brann-dailor
-- Scott Travis (Judas Priest) — Drumsticks — since 2000s — /drummer/scott-travis
 - Paul Bostaph (Slayer / Testament / Exodus) — Drumsticks — since 2015 — /drummer/paul-bostaph
-- Gene Hoglan (Death / Testament / Dethklok) — Drumsticks — since 2018 — /drummer/gene-hoglan
-- Dirk Verbeuren (Megadeth) — Drumsticks — since 2002 — /drummer/dirk-verbeuren
-- Aquiles Priester (Angra / W.A.S.P.) — Drumsticks — since 2023 — /drummer/aquiles-priester
 - Derek Roddy (Nile (ex-Hate Eternal)) — Drumsticks — since 2001 — /drummer/derek-roddy
-- Raymond Herrera (Fear Factory) — Drumsticks — since 1995 — /drummer/raymond-herrera
+- Mike Mangini (Dream Theater) — Drumsticks — since 2011 — /drummer/mike-mangini
 - Nick Menza (Megadeth) — Drumsticks — since 1997 (signature model) — /drummer/nick-menza
 
 ### Vic Firth
 
-- Dave Lombardo (Slayer / Dead Cross) — Drumsticks — since 1990s — /drummer/dave-lombardo
 - George Kollias (Nile) — Drumsticks — since 2000s — /drummer/george-kollias
 - Eloy Casagrande (Slipknot) — Drumsticks — since 2010s — /drummer/eloy-casagrande
 - Danny Carey (Tool) — Drumsticks — since 2000s (signature model) — /drummer/danny-carey
-- Mario Duplantier (Gojira) — Drumsticks — since 2010s — /drummer/mario-duplantier
 - Inferno (Behemoth) — Drumsticks — since 2000s — /drummer/inferno
 - Charlie Benante (Anthrax / Pantera (touring)) — Drumsticks — since 1990s — /drummer/charlie-benante
 - Jaska Raatikainen (Children of Bodom) — Drumsticks — since 1990s — /drummer/jaska-raatikainen
 - Ben Koller (Converge) — Drumsticks — since 1999 — /drummer/ben-koller
 - Matt Greiner (August Burns Red) — Drumsticks — since 2017 (signature model) — /drummer/matt-greiner
-- Mikkey Dee (Scorpions / Motörhead) — Drumsticks — since 1985 — /drummer/mikkey-dee
 - Gavin Harrison (Porcupine Tree / King Crimson) — Drumsticks — since 2007 (signature model) — /drummer/gavin-harrison
 - Hellhammer (Mayhem / Dimmu Borgir) — Drumsticks — since 1999 — /drummer/hellhammer
 - Flo Mounier (Cryptopsy) — Drumsticks — since 1992 — /drummer/flo-mounier
+- Scott Travis (Judas Priest) — Drumsticks — since 2000s — /drummer/scott-travis
 - Nicko McBrain (Iron Maiden) — Drumsticks — since 2000s — /drummer/nicko-mcbrain
 - Vinnie Paul (Pantera / Damageplan / Hellyeah) — Drumsticks — since 1990s — /drummer/vinnie-paul
+- Shannon Larkin (Godsmack) — Drumsticks — since 2002 — /drummer/shannon-larkin
 - Igor Cavalera (Sepultura / Cavalera Conspiracy) — Drumsticks — since 1993 — /drummer/igor-cavalera
 - Frost (Satyricon) — Drumsticks — since 1996 — /drummer/frost
 - Travis Orbin (Periphery (ex) / Sky Harbor / Darkest Hour) — Drumsticks — since 2010 — /drummer/travis-orbin
@@ -400,19 +401,17 @@ Brand endorsement changes for professional metal drummers. See https://metalforg
 - Blake Richardson (Between the Buried and Me) — Drumsticks — since 2006 — /drummer/blake-richardson
 - Chris Turner (Oceans Ate Alaska) — Drumsticks — since 2017 — /drummer/chris-turner
 - Hannes Grossmann (Alkaloid (ex-Obscura)) — Drumsticks — since 2014 — /drummer/hannes-grossmann
-- Isaac Lamb (Kublai Khan TX) — Drumsticks — since 2009 — /drummer/isaac-lamb
-- Jason Bittner (Shadows Fall / Overkill) — Drumsticks — since 1997 — /drummer/jason-bittner
 - Jocke Wallgren (Amon Amarth) — Drumsticks — since 2013 — /drummer/jocke-wallgren
-- Mike Mangini (Dream Theater) — Drumsticks — since 2011 — /drummer/mike-mangini
 - Morgan Ågren (Mats/Morgan Band / Devin Townsend Project) — Drumsticks — since 1988 — /drummer/morgan-agren
 - Navene Koperweis (Entheos / ex-Animals as Leaders) — Drumsticks — since 2015 — /drummer/navene-koperweis
+- Nick Augusto (ex-Trivium) — Drumsticks — since 2011 — /drummer/nick-augusto
 - Paul Mazurkiewicz (Cannibal Corpse) — Drumsticks — since 2000s — /drummer/paul-mazurkiewicz
-- Pete Sandoval (Morbid Angel) — Drumsticks — since 1990s — /drummer/pete-sandoval
+- Ray Luzier (Korn) — Drumsticks — since 2013 — /drummer/ray-luzier
 - Richard Christy (Death) — Drumsticks — since 1998 — /drummer/richard-christy
 - Ryan Van Poederooyen (Devin Townsend Project) — Drumsticks — since 2000 — /drummer/ryan-van-poederooyen
 - Tim Yeung (Morbid Angel) — Drumsticks — since 2005 — /drummer/tim-yeung
+- Daray (Dimmu Borgir) — Drumsticks — since 2008 — /drummer/daray
 - Kevin Talley (Dying Fetus) — Drumsticks — since 2000 — /drummer/kevin-talley
-- Martin Axenrot (Opeth) — Drumsticks — since 2008 — /drummer/martin-axenrot
 - Martin Lopez (Soen) — Drumsticks — since 1997 — /drummer/martin-lopez
 - Matt Garstka (Animals as Leaders) — Drumsticks — since 2014 (signature model) — /drummer/matt-garstka
 - Sean Reinert (Death / Cynic) — Drumsticks — since 1991 — /drummer/sean-reinert
@@ -423,36 +422,33 @@ Brand endorsement changes for professional metal drummers. See https://metalforg
 ### Wincent
 
 - Tomas Haake (Meshuggah) — Drumsticks — since 2010 (signature model) — /drummer/tomas-haake
+- Mikkey Dee (Scorpions / Motörhead) — Drumsticks (signature model) — /drummer/mikkey-dee
 - Waltteri Väyrynen (Opeth) — Drumsticks — since 2022 — /drummer/waltteri-vayrynen
 
 ### Yamaha
 
-- Eloy Casagrande (Slipknot) — Drums — since 2010s — /drummer/eloy-casagrande
-- Mikkey Dee (Scorpions / Motörhead) — Drums — since 1990s — /drummer/mikkey-dee
-- Mikkey Dee (Scorpions / Motörhead) — Hardware/Pedals — since 1990s — /drummer/mikkey-dee
+- Igor Cavalera (Sepultura / Cavalera Conspiracy) — Drums — since 2018 — /drummer/igor-cavalera
 
 ### Zildjian
 
 - Lars Ulrich (Metallica) — Cymbals — since 1981 — /drummer/lars-ulrich
 - George Kollias (Nile) — Cymbals — since 2000s — /drummer/george-kollias
 - Jay Weinberg (Suicidal Tendencies) — Cymbals — since 2014 — /drummer/jay-weinberg
+- Mario Duplantier (Gojira) — Cymbals — since 2010s — /drummer/mario-duplantier
 - Jaska Raatikainen (Children of Bodom) — Cymbals — since 2000s — /drummer/jaska-raatikainen
-- Bill Ward (Black Sabbath) — Cymbals — since 1968 — /drummer/bill-ward
+- Bill Ward (Black Sabbath) — Cymbals — since 1971 — /drummer/bill-ward
 - John Otto (Limp Bizkit) — Cymbals — since 1994 — /drummer/john-otto
 - John Otto (Limp Bizkit) — Drumsticks — since 1994 — /drummer/john-otto
 - Ben Koller (Converge) — Cymbals — since 2004 — /drummer/ben-koller
-- Mikkey Dee (Scorpions / Motörhead) — Cymbals — since 1990s — /drummer/mikkey-dee
 - Gavin Harrison (Porcupine Tree / King Crimson) — Cymbals — since 2007 — /drummer/gavin-harrison
-- Hellhammer (Mayhem / Dimmu Borgir) — Cymbals — since 1988 — /drummer/hellhammer
-- Gene Hoglan (Death / Testament / Dethklok) — Cymbals — since 1991 — /drummer/gene-hoglan
 - Igor Cavalera (Sepultura / Cavalera Conspiracy) — Cymbals — since 2006 — /drummer/igor-cavalera
 - Frost (Satyricon) — Cymbals — since 2013 — /drummer/frost
 - Abe Cunningham (Deftones) — Cymbals — since 2022 — /drummer/abe-cunningham
-- Abe Cunningham (Deftones) — Drumsticks — since 2022 (signature model) — /drummer/abe-cunningham
 - Travis Orbin (Periphery (ex) / Sky Harbor / Darkest Hour) — Cymbals — since 2010 — /drummer/travis-orbin
 - Arin Ilejay (Avenged Sevenfold (ex) / Confide) — Cymbals — since 2011 — /drummer/arin-ilejay
+- Jason Bittner (Shadows Fall / Overkill) — Cymbals — since 1997 — /drummer/jason-bittner
+- Jocke Wallgren (Amon Amarth) — Cymbals — since 2005 — /drummer/jocke-wallgren
 - Raymond Herrera (Fear Factory) — Cymbals — since 1995 — /drummer/raymond-herrera
-- Kevin Talley (Dying Fetus) — Cymbals — since 2000 — /drummer/kevin-talley
 - Martin Lopez (Soen) — Cymbals — since 2010 — /drummer/martin-lopez
 - Sean Reinert (Death / Cynic) — Cymbals — since 2008 — /drummer/sean-reinert
 - Art Cruz (Lamb of God) — Cymbals — since 2019 — /drummer/art-cruz
@@ -460,23 +456,30 @@ Brand endorsement changes for professional metal drummers. See https://metalforg
 
 ### ddrum
 
+- Scott Travis (Judas Priest) — Drums — since 2018 — /drummer/scott-travis
 - Vinnie Paul (Pantera / Damageplan / Hellyeah) — Drums — since 2008 — /drummer/vinnie-paul
 - Vinnie Paul (Pantera / Damageplan / Hellyeah) — Hardware/Pedals — since 2008 — /drummer/vinnie-paul
-- Igor Cavalera (Sepultura / Cavalera Conspiracy) — Drums — since 2006 — /drummer/igor-cavalera
+- Shannon Larkin (Godsmack) — Drums — since 2002 — /drummer/shannon-larkin
+- Pete Sandoval (Morbid Angel) — Drums — since 1989 — /drummer/pete-sandoval
+- Pete Sandoval (Morbid Angel) — Hardware/Pedals — since 1989 — /drummer/pete-sandoval
+
+### unconfirmed
+
+- Nicko McBrain (Iron Maiden) — Hardware/Pedals — since 1984 — /drummer/nicko-mcbrain
 
 ---
 
 ## Recent Endorsement News
 
-### Eloy Casagrande Joins Slipknot — 2024-04-01
+### Eloy Casagrande Joins Slipknot — 2024-04-01 [high impact]
 
-Former Sepultura drummer Eloy Casagrande replaces Jay Weinberg as Slipknot's new drummer. He maintains his existing endorsements with Yamaha drums, Paiste cymbals, and Evans heads.
+Former Sepultura drummer Eloy Casagrande replaces Jay Weinberg as Slipknot's new drummer. He maintains his existing endorsements with Tama drums, Paiste cymbals, and Evans heads.
 
-**Brands retained:** Yamaha, Paiste, Evans
+**Brands retained:** Tama, Paiste, Evans
 **Source:** Official Slipknot announcement
 **Profile:** https://metalforge.io/drummer/eloy-casagrande
 
-### Jay Weinberg Joins Suicidal Tendencies — 2024-01-15
+### Jay Weinberg Joins Suicidal Tendencies — 2024-01-15 [high impact]
 
 Following his departure from Slipknot in November 2023, Jay Weinberg joins Suicidal Tendencies and Infectious Grooves. He continues with SJC drums, Zildjian cymbals, and Vater sticks.
 
@@ -484,7 +487,7 @@ Following his departure from Slipknot in November 2023, Jay Weinberg joins Suici
 **Source:** Suicidal Tendencies announcement
 **Profile:** https://metalforge.io/drummer/jay-weinberg
 
-### Mike Portnoy Returns to Dream Theater — 2023-10-26
+### Mike Portnoy Returns to Dream Theater — 2023-10-26 [high impact]
 
 Legendary drummer Mike Portnoy rejoins Dream Theater after 13 years, continuing his longtime partnerships with Tama drums and Sabian cymbals. This marks one of metal's most anticipated reunions.
 
@@ -492,7 +495,7 @@ Legendary drummer Mike Portnoy rejoins Dream Theater after 13 years, continuing 
 **Source:** Dream Theater official
 **Profile:** https://metalforge.io/drummer/mike-portnoy
 
-### Charlie Benante Drums for Pantera Reunion — 2022-12-01
+### Charlie Benante Drums for Pantera Reunion — 2022-12-01 [high impact]
 
 Charlie Benante steps in to fill the legendary drum throne left by the late Vinnie Paul for Pantera's reunion tours. He continues using his Tama kit setup with Paiste cymbals.
 
@@ -500,19 +503,11 @@ Charlie Benante steps in to fill the legendary drum throne left by the late Vinn
 **Source:** Pantera reunion announcement
 **Profile:** https://metalforge.io/drummer/charlie-benante
 
-### Art Cruz Replaces Chris Adler in Lamb of God — 2019-07-19
+### Alex Bent Joins Trivium — 2016-07-15 [medium impact]
 
-Following Chris Adler's departure, Art Cruz becomes Lamb of God's permanent drummer. He uses Pearl drums, Meinl cymbals, and Promark sticks.
+After several drummer changes, Trivium finds stability with Alex Bent. He brings his Tama Starclassic Maple setup and Zildjian cymbals to the band.
 
-**Brands signed:** Pearl, Meinl, Promark, Evans
-**Source:** Lamb of God announcement
-**Profile:** https://metalforge.io/drummer/art-cruz
-
-### Alex Bent Joins Trivium — 2016-07-15
-
-After several drummer changes, Trivium finds stability with Alex Bent. He brings his Pearl Masters setup and Zildjian cymbals to the band.
-
-**Brands signed:** Pearl, Zildjian, Vic Firth, Evans
+**Brands signed:** Tama, Zildjian, Vic Firth, Evans
 **Source:** Trivium official
 **Profile:** https://metalforge.io/drummer/alex-bent
 
@@ -544,8 +539,8 @@ After several drummer changes, Trivium finds stability with Alex Bent. He brings
 
 ### Dave Lombardo (Slayer / Dead Cross)
 
-- **1981** (Drums): Signed with Pearl — First kit was Pearl Maxwin, started long relationship with Pearl
-- **1986** (Drums): Renewed Pearl deal — Continued with Pearl through Reign in Blood era
+- **1981** (Drums): Signed with Pearl — First kit was Pearl Maxwin, at the start of his time with Slayer, before his later long-running switch to Tama
+- **1986** (Drums): Renewed Pearl deal — Still on Pearl through the Reign in Blood era
 - Profile: https://metalforge.io/drummer/dave-lombardo
 
 ### George Kollias (Nile)
@@ -556,7 +551,7 @@ After several drummer changes, Trivium finds stability with Alex Bent. He brings
 ### Eloy Casagrande (Slipknot)
 
 - **2005** (Cymbals): Signed with Paiste — Became Paiste artist at age 17, youngest to sign with the brand at the time
-- **2024** (Drums): Signed (Yamaha) — Maintained Yamaha endorsement after joining Slipknot
+- **2024** (Drums): Signed (Tama) — Maintained Tama Starclassic Bubinga endorsement after joining Slipknot
 - Profile: https://metalforge.io/drummer/eloy-casagrande
 
 ### Jay Weinberg (Suicidal Tendencies)
@@ -626,7 +621,8 @@ After several drummer changes, Trivium finds stability with Alex Bent. He brings
 ### Bill Ward (Black Sabbath)
 
 - **1968** (Drums): Signed with Ludwig — Played a Ludwig kit from Black Sabbath's formation in Birmingham through the "Paranoid" and "Master of Reality" sessions
-- **1970** (Cymbals): Signed with Zildjian — Avedis Zildjian hi-hats, ride, and crash set the cymbal template heard on "Black Sabbath" and "Paranoid"
+- **1968** (Cymbals): Signed with Super Zyn — Used Super Zyn cymbals from Black Sabbath's 1968 formation through the debut album and "Paranoid" (1970)
+- **1971** (Cymbals): Signed with Zildjian — Switched to Avedis Zildjian hi-hats, ride, and crash starting with "Master of Reality", continuing through "Never Say Die!" (1978)
 - **1971** (Drums): Renewed Ludwig deal — Upgraded to a 22" Ludwig bass drum (from the 20" used on "Paranoid") to match Tony Iommi's down-tuned riffs on "Master of Reality"
 - Profile: https://metalforge.io/drummer/bill-ward
 
@@ -649,6 +645,7 @@ After several drummer changes, Trivium finds stability with Alex Bent. He brings
 
 - **2003** (Drums): Signed with Pearl — Co-founded August Burns Red playing Pearl Export/Vision kits, with a developing Meinl cymbal endorsement
 - **2011** (Drums): Renewed Pearl deal — Upgraded to Pearl Reference kits and solidified the Meinl Byzance cymbal setup around "Leveler" and "Found in Far Away Places"
+- **2016** (Drums): Switched from Pearl to Mapex — Switched to Mapex Black Panther Design Lab and Paiste Formula 602 cymbals for August Burns Red's technically demanding metalcore sets
 - **2017** (Drumsticks): Signature product: Vic Firth Matt Greiner Signature Drumsticks — Received a Vic Firth signature stick model with a custom taper and bead
 - **2017** (Drums): Signature product: Pearl Matt Greiner Signature Snare — Pearl released a Matt Greiner signature snare drum, part of the Reference Pure era setup
 - Profile: https://metalforge.io/drummer/matt-greiner
@@ -656,9 +653,8 @@ After several drummer changes, Trivium finds stability with Alex Bent. He brings
 ### Mikkey Dee (Scorpions / Motörhead)
 
 - **1992** (Drums): Signed with Tama — Joined Motörhead playing a Tama Artstar II/Swingstar kit with Paiste cymbals, first heard on "March ör Die" and "Bastards"
-- **1999** (Drums): Switched from Tama to Yamaha — Gradually transitioned to Yamaha Recording Custom drums, audible from "We Are Motörhead" (2000) and "Inferno" (2004) onward
-- **1999** (Cymbals): Switched from Paiste to Zildjian — Cymbal setup moved from Paiste to Zildjian alongside the Yamaha drum transition
-- **2016** (Drums): Renewed Yamaha deal — Carried the Yamaha/Zildjian setup into Scorpions after joining the band in 2016 following Lemmy Kilmister's death
+- **2012** (Drums): Signature product: Sonor  — Released his Sonor Mikkey Dee Signature 14"x7.25" birch snare, built on his longtime Sonor SQ2 endorsement dating back to his King Diamond days
+- **2016** (Drums): Renewed Sonor deal — Carried his longtime Sonor SQ2 and Paiste Signature setup into Scorpions after joining the band in 2016 following Lemmy Kilmister's death
 - Profile: https://metalforge.io/drummer/mikkey-dee
 
 ### Gavin Harrison (Porcupine Tree / King Crimson)
@@ -670,9 +666,9 @@ After several drummer changes, Trivium finds stability with Alex Bent. He brings
 
 ### Hellhammer (Mayhem / Dimmu Borgir)
 
-- **1988** (Drums): Signed with Pearl — Developing Pearl endorsement during his early Mayhem years, in use on "De Mysteriis Dom Sathanas" (1994)
-- **1999** (Drums): Renewed Pearl deal — Moved to the Pearl Reference series while drumming simultaneously for Dimmu Borgir and Mayhem
-- **1999** (Cymbals): Renewed Zildjian deal — Cymbal setup expanded to a full Zildjian A Custom configuration used consistently across both bands
+- **1988** (Drums): Signed with Sonor — Developing Sonor endorsement during his early Mayhem years, in use on "De Mysteriis Dom Sathanas" (1994)
+- **1999** (Drums): Renewed Sonor deal — Moved to the Sonor SQ2 Heavy Beech kit while drumming simultaneously for Dimmu Borgir and Mayhem
+- **1999** (Cymbals): Renewed Paiste deal — Cymbal setup expanded to a full Paiste RUDE series configuration used consistently across both bands
 - Profile: https://metalforge.io/drummer/hellhammer
 
 ### Flo Mounier (Cryptopsy)
@@ -688,7 +684,7 @@ After several drummer changes, Trivium finds stability with Alex Bent. He brings
 - **1987** (Cymbals): Signed with Paiste — Established his Paiste endorsement during his Racer X years, before joining Judas Priest
 - **1990** (Drums): Signed with Tama — Debuted on Tama Artstar II kit for "Painkiller," one of metal's most influential drumming performances
 - **2005** (Drums): Switched from Tama to Pearl — Gradual migration to Pearl's Reference Series through the 2000s
-- **2018** (Drums): Switched from Pearl to Tama — Returned to Tama's maple-shelled Starclassic line for "Firepower" and 2024's "Invincible Shield"
+- **2018** (Drums): Switched from Pearl to ddrum — Switched to a ddrum Dominion Series shell pack and DW 9000 Series Double Pedal for "Firepower," carrying through 2024's "Invincible Shield"
 - Profile: https://metalforge.io/drummer/scott-travis
 
 ### Nicko McBrain (Iron Maiden)
@@ -696,7 +692,8 @@ After several drummer changes, Trivium finds stability with Alex Bent. He brings
 - **1984** (Drums): Signed with Pearl — Pearl DLX kit used for the "Powerslave" world tour and "Live After Death"
 - **1984** (Hardware/Pedals): Signed with DW — Adopted a DW 5000 single pedal, kept exclusively (no double bass) throughout his career
 - **1985** (Drums): Switched from Pearl to Yamaha — Moved to a Yamaha Recording Custom kit, used through 2010
-- **2010** (Drums): Switched from Yamaha to Sonor — Switched to the Sonor SQ2 signature kit that remains his current setup
+- **2010** (Drums): Switched from Yamaha to Sonor — Switched to the Sonor SQ2 signature kit, used until his 2019 British Drum Co. move
+- **2019** (Drums): Switched from Sonor to British Drum Co. — Became a British Drum Co. artist; continues to use his Sonor Nicko McBrain Signature 14"x6.5" snare within the BDC kit
 - Profile: https://metalforge.io/drummer/nicko-mcbrain
 
 ### Vinnie Paul (Pantera / Damageplan / Hellyeah)
@@ -720,23 +717,25 @@ After several drummer changes, Trivium finds stability with Alex Bent. He brings
 - **1983** (Cymbals): Signed with Zildjian — Paired his Tama kit with Zildjian A Series cymbals from his earliest thrash recordings with Dark Angel
 - **1991** (Cymbals): Renewed Zildjian deal — Upgraded to Zildjian's A Custom Series for the technical precision demanded by Death's "Individual Thought Patterns" and "Symbolic"
 - **2008** (Drums): Signature product: Tama Gene Hoglan Signature Snare 14x8" — First signature snare drum, an exceptionally deep 14x8" model built for thunderous power during his Testament and Dethklok era
-- **2018** (Drumsticks): Signed with Vater — Settled on Vater 5B Wood Tip sticks for his current Tama Starclassic Walnut/Birch setup, favoring their balance across marathon touring and clinic schedules
+- **2018** (Drumsticks): Signed with ProMark — Settled on ProMark Classic Forward 2B sticks for his Pearl Reference Pure setup of that era, favoring their balance across marathon touring and clinic schedules
 - Profile: https://metalforge.io/drummer/gene-hoglan
 
 ### Shannon Larkin (Godsmack)
 
-- **2002** (Drums): Signed with Pearl — Joined Godsmack in 2002, replacing Tommy Stewart, and brought his Pearl Reference kit into the band's platinum-selling run
+- **2002** (Drums): Signed with ddrum — Joined Godsmack in 2002, replacing Tommy Stewart, and brought his ddrum Dios Series kit into the band's platinum-selling run
 - **2002** (Cymbals): Signed with Sabian — Adopted Sabian AAX Series cymbals for the powerful, cutting attack behind Godsmack's "Faceless" (2003) breakthrough
-- **2002** (Drumsticks): Signed with Promark — Began playing Promark sticks alongside his new Pearl/Sabian setup at the start of the Godsmack era
-- **2012** (Drumsticks): Signature product: Promark Shannon Larkin Signature — Promark released a Shannon Larkin signature stick model, reflecting his long-running tenure as Godsmack's drummer
+- **2002** (Drumsticks): Signed with Vic Firth — Began playing Vic Firth American Classic 5B sticks alongside his new ddrum/Sabian setup at the start of the Godsmack era
 - Profile: https://metalforge.io/drummer/shannon-larkin
 
 ### Igor Cavalera (Sepultura / Cavalera Conspiracy)
 
-- **1993** (Drums): Signed with Tama — Played a Tama Starclassic Maple kit through Sepultura's genre-defining "Chaos A.D." (1993), fusing tribal Brazilian percussion with thrash metal
+- **1993** (Drums): Signed with Pearl — Pearl Masters Custom maple shells for the Chaos A.D./Roots era
 - **1993** (Cymbals): Signed with Paiste — Cut through Sepultura's groove-metal aggression with Paiste RUDE & 2002 Series cymbals, a setup kept through "Roots" (1996)
+- **1996** (Drums): Switched from Pearl to Tama — Returned to a Tama Starclassic Maple kit after the Pearl Masters Custom sub-era of "Chaos A.D."/"Roots" (1993-1996) ended, ahead of the 2006 move to ddrum
 - **2006** (Drums): Switched from Tama to ddrum — Left Sepultura in 2006 and reunited with brother Max in Cavalera Conspiracy, moving to a ddrum Hybrid Kit
 - **2006** (Cymbals): Switched from Paiste to Zildjian — Switched to Zildjian A Custom Series cymbals for the Cavalera Conspiracy era, starting with "Inflikted"
+- **2018** (Drums): Switched from ddrum to Yamaha — Announced a new Yamaha Absolute Hybrid Maple endorsement in August 2018, moving off his prior kit
+- **2018** (Hardware/Pedals): Switched from DW to Tama — Adopted Tama Iron Cobra double pedal alongside the 2018 Yamaha kit switch
 - Profile: https://metalforge.io/drummer/igor-cavalera
 
 ### Dirk Verbeuren (Megadeth)
@@ -745,6 +744,7 @@ After several drummer changes, Trivium finds stability with Alex Bent. He brings
 - **2002** (Cymbals): Signed with Meinl — Adopted Meinl Byzance Dark cymbals for Soilwork's melodic death metal sound, a dark-voiced setup he carried for two decades into his Megadeth years
 - **2016** (Drums): Switched from Tama Starclassic Performer to Tama Starclassic Maple — Joining Megadeth's touring lineup after Chris Adler recorded "Dystopia," upgraded to an all-maple Tama Starclassic Maple kit for a deeper, punchier low end
 - **2016** (Drumheads): Switched from Remo Ambassador to Evans G2 / EMAD2 — Moved to Evans heads for the Megadeth era, pairing EMAD2 kick heads with Tama's Speed Cobra pedals for consistent attack
+- **2016** (Drumsticks): Switched from Vater 5B / Power 5B to Tama O-DVM2 — Switched to his own Tama O-DVM2 signature stick model for the Megadeth era, moving off Vater's Power 5B
 - **2022** (Drums): Signature product: Tama Signature Series Dirk Verbeuren Snare 14x5.5" — Debuted his first signature snare on "The Sick, the Dying... and the Dead!" — a shallower steel model built to his specs after six years with the band
 - **2022** (Cymbals): Switched from Meinl Byzance Dark to Meinl Byzance Brilliant Heavy Hammered / Classics Custom Dark — Expanded to a dual-line Meinl setup pairing brighter Byzance Brilliant Heavy Hammered with darker Classics Custom Dark for wider tonal range on his Megadeth studio debut
 - Profile: https://metalforge.io/drummer/dirk-verbeuren
@@ -755,7 +755,8 @@ After several drummer changes, Trivium finds stability with Alex Bent. He brings
 - **1996** (Cymbals): Signed with Paiste — Paired his Pearl kit with Paiste 2002 series cymbals, the icy, aggressive voice of the early-1990s Norwegian black metal scene
 - **1996** (Drumsticks): Signed with Vic Firth — Settled on Vic Firth 5B sticks for the single-pedal blast-beat work that built his reputation on "Nemesis Divina"
 - **2013** (Cymbals): Switched from Paiste 2002 to Zildjian A Series — Moved to a Zildjian A series setup (A New Beat hi-hats, A Medium crashes/ride, China) as Satyricon's self-titled album pushed toward more dynamically refined production
-- **2013** (Hardware/Pedals): Switched from entry-level basic hardware to Pearl/DW double pedals with Roland RT triggers — Upgraded from the "Nemesis Divina"-era basic single pedal to Pearl/DW double bass pedals and Roland kick triggers for Satyricon's more produced modern era
+- **2013** (Drums): Switched from Pearl to Tama Starclassic Bubinga — Switched to a Tama Starclassic Bubinga kit as Satyricon's self-titled album pushed toward a more refined, modern production sound
+- **2013** (Hardware/Pedals): Switched from entry-level basic hardware to Tama Iron Cobra Power Glide pedal with Iron Cobra Lever Glide hi-hat stand — Upgraded from the "Nemesis Divina"-era basic single pedal to a Tama Iron Cobra Power Glide double pedal and Lever Glide hi-hat stand for Satyricon's more produced modern era
 - Profile: https://metalforge.io/drummer/frost
 
 ### Abe Cunningham (Deftones)
@@ -769,11 +770,11 @@ After several drummer changes, Trivium finds stability with Alex Bent. He brings
 
 ### Travis Orbin (Periphery (ex) / Sky Harbor / Darkest Hour)
 
-- **2009** (Drums): Signed with DW — Built his Collector's Series double-bass kit while assembling Periphery's self-titled debut, the record that gave djent its technical vocabulary
+- **2009** (Drums): Signed with SJC — Built his SJC Custom double-bass kit while assembling Periphery's self-titled debut, the record that gave djent its technical vocabulary
 - **2010** (Cymbals): Signed with Zildjian — Paired his DW kit with Zildjian K Custom Dark and A Custom cymbals on Periphery's 2010 debut, a dark-under/bright-over setup built to cut through djent's mid-scooped guitar tone
 - **2010** (Drumsticks): Signed with Vic Firth — Settled on Vic Firth American Classic 5B sticks for the balance of accent power and ghost-note control his linear patterns require
 - **2011** (Electronics): Signed with Roland — Integrated a Roland SPD-SX sampling pad and bass drum trigger system on the "Icarus" EP, building the hybrid acoustic/electronic rig that defined his sound
-- **2016** (Drums): Renewed DW deal — Remained a DW/Zildjian endorsee after departing Periphery in 2012, carrying the same Collector's Series and Roland trigger rig through his Sky Harbor and Darkest Hour session work and viral educational content
+- **2016** (Drums): Renewed SJC deal — Remained an SJC/Zildjian endorsee after departing Periphery in 2012, carrying the same Custom kit and Roland trigger rig through his Sky Harbor and Darkest Hour session work and viral educational content
 - Profile: https://metalforge.io/drummer/travis-orbin
 
 ### Aquiles Priester (Angra / W.A.S.P.)
@@ -782,8 +783,8 @@ After several drummer changes, Trivium finds stability with Alex Bent. He brings
 - **1996** (Cymbals): Signed with Sabian — Paired his Mapex kit with Sabian HH/HHX cymbals and an Axis A double pedal prized for its light, fast action
 - **2004** (Drumsticks): Signature product: Vic Firth Aquiles Priester Signature — Developed a Vic Firth signature stick during the Angra classic era (Rebirth, Temple of Shadows), balancing power and ghost-note control at high tempos
 - **2012** (Drums): Switched from Mapex Saturn Series to Pearl Reference Series — Moved to a Pearl Reference Series kit and Meinl Byzance cymbals during his post-Angra W.A.S.P./Hangar-focused years
-- **2023** (Drums): Switched from Pearl Reference Series to Trick Drums — Built a new Trick Drums custom maple configuration upon returning to Angra for their 2023 album cycle
-- **2023** (Cymbals): Switched from Meinl Byzance to Ufip — Adopted the Italian Ufip cymbal line and DW 9000 hardware for the Angra reunion touring and recording setup
+- **2023** (Drums): Switched from Pearl Reference Series to Mapex — Adopted the Mapex Saturn Evolution All Maple signature kit upon returning to Angra for their 2023 album cycle
+- **2023** (Cymbals): Switched from Meinl Byzance to Paiste — Adopted a custom red-coated Paiste cymbal set and DW 9000 hardware for the Angra reunion touring and recording setup
 - Profile: https://metalforge.io/drummer/aquiles-priester
 
 ### Arin Ilejay (Avenged Sevenfold (ex) / Confide)
@@ -798,11 +799,13 @@ After several drummer changes, Trivium finds stability with Alex Bent. He brings
 ### Blake Richardson (Between the Buried and Me)
 
 - **2006** (Drums): Signed with DW — Built his foundational DW Collector's Series all-maple kit for Alaska (2005), the album that announced BTBAM's progressive metal sound
-- **2006** (Cymbals): Signed with Meinl — Paired his DW kit with Meinl Byzance Extra Dry cymbals on Alaska, establishing the dark, hand-hammered voice that carried through two decades of BTBAM records
-- **2006** (Drumsticks): Signed with Vic Firth — Settled on Vic Firth American Classic 5B sticks for the mass and control needed across BTBAM's blast-beat-to-ghost-note dynamic range
-- **2006** (Hardware/Pedals): Signed with DW — Adopted the DW 9002 chain-drive double bass pedal on Alaska, his kick foundation through the Colors, Parallax, and Automata eras
-- **2018** (Drums): Switched from DW to Pearl — Moved to an all-maple Pearl Reference Pure kit for Automata I & II, favoring its warmer resonance for BTBAM's Sumerian Records-era production
+- **2006** (Cymbals): Signed with Meinl — Paired his DW kit with Meinl Byzance Extra Dry cymbals on Alaska, establishing the dark, hand-hammered voice through the Colors and Parallax eras
+- **2006** (Drumsticks): Signed with Vic Firth — Settled on Vic Firth American Classic 3A sticks for the mass and control needed across BTBAM's blast-beat-to-ghost-note dynamic range
+- **2006** (Hardware/Pedals): Signed with DW — Adopted the DW 9002 chain-drive double bass pedal on Alaska, his kick foundation through the Colors and Parallax eras
+- **2018** (Drums): Switched from DW to Tama — Moved to a Tama Starclassic Bubinga kit in a custom finish for Automata I & II, favoring its resonance for BTBAM's Sumerian Records-era production
+- **2018** (Cymbals): Switched from Meinl to Sabian — Switched to Sabian — HHX Evolution hi-hats and crash, AAX Holy Chinas, and HH Raw Bell Dry Ride — for the Automata era
 - **2018** (Drumheads): Switched from Remo to Evans — Moved his snare batter/reso heads to Evans G2 Coated and Hazy 300 by the Automata era
+- **2018** (Hardware/Pedals): Switched from DW to Tama — Switched to twin Tama Iron Cobra Power Glide single pedals rather than a linked double, for independent control across BTBAM's shifting time signatures
 - Profile: https://metalforge.io/drummer/blake-richardson
 
 ### Chris Turner (Oceans Ate Alaska)
@@ -825,11 +828,11 @@ After several drummer changes, Trivium finds stability with Alex Bent. He brings
 
 ### Derek Roddy (Nile (ex-Hate Eternal))
 
-- **1994** (Cymbals): Signed with Sabian — Started with Sabian cymbals during his formative underground death metal years with Aurora Borealis
-- **2000** (Hardware/Pedals): Signed with Axis — Adopted Axis double pedals while touring as Nile's live drummer, drawn to the direct-drive speed extreme tempos demanded
-- **2001** (Drums): Switched from Various early-career kits to DW Collector's Series Maple — Moved to a DW Collector's Series Maple kit at the start of the Hate Eternal peak era, prizing DW's True Pitch tuning stability for blast-beat-heavy sets
+- **1994** (Cymbals): Signed with Meinl — Started with Meinl cymbals during his formative underground death metal years with Aurora Borealis
+- **2000** (Hardware/Pedals): Signed with Tama — Adopted Tama Speed Cobra double pedals while touring as Nile's live drummer, drawn to the speed and stability the extreme tempos demanded
+- **2001** (Drums): Switched from Various early-career kits to Tama Starclassic Bubinga — Moved to a Tama Starclassic Bubinga kit at the start of the Hate Eternal peak era, prizing the dense, bass-heavy shells for blast-beat-heavy sets
 - **2001** (Drumsticks): Signed with Vater — Signed with Vater during Hate Eternal's King of All Kings sessions, settling on the 5B for its balance of power and control
-- **2007** (Hardware/Pedals): Renewed Axis deal — Continued with Axis Longboard pedals into his clinic and educational career, including The Evolution of Blast Beats DVD
+- **2007** (Hardware/Pedals): Renewed Tama deal — Continued with Tama Speed Cobra pedals into his clinic and educational career, including The Evolution of Blast Beats DVD
 - Profile: https://metalforge.io/drummer/derek-roddy
 
 ### Hannes Grossmann (Alkaloid (ex-Obscura))
@@ -841,46 +844,37 @@ After several drummer changes, Trivium finds stability with Alex Bent. He brings
 - **2014** (Hardware/Pedals): Switched from Tama Iron Cobra to DW 9000 Series Double Pedal — Upgraded to DW's 9000 Series double pedal alongside the kit switch for the adjustable cam action his two-footed patterns require
 - Profile: https://metalforge.io/drummer/hannes-grossmann
 
-### Isaac Lamb (Kublai Khan TX)
-
-- **2009** (Drums): Signed with SJC Custom Drums — Signed with the Massachusetts boutique builder when founding Kublai Khan TX in Sherman, Texas, choosing hand-built maple shells for beatdown hardcore's physical demands
-- **2009** (Cymbals): Signed with Meinl — Adopted Meinl Classics Custom Dark cymbals from the band's formation, valuing their darker fundamental for sitting cleanly against high-gain guitars
-- **2009** (Hardware/Pedals): Signed with DW — Settled on a DW 9000 Series double pedal for the chain-drive consistency his groove-to-blast-beat transitions require
-- **2017** (Drums): Renewed SJC Custom Drums deal — Became SJC's primary endorser with custom configurations following the band's Rise Records signing and Nomad (2017)
-- **2019** (Cymbals): Renewed Meinl deal — Maintained the complete Meinl Classics Custom Dark setup through Absolute (2019), the album that defined his power-through-restraint groove approach
-- Profile: https://metalforge.io/drummer/isaac-lamb
-
 ### Jason Bittner (Shadows Fall / Overkill)
 
-- **1997** (Drums): Signed with Tama — Signed with Tama in Shadows Fall's formative years, settling on the Starclassic Performer B/B birch/bubinga hybrid
-- **1997** (Cymbals): Signed with Sabian — Began his Sabian relationship alongside the Tama deal, building the HHX/HH setup that still defines his sound
-- **2002** (Hardware/Pedals): Signed with DW — Adopted the DW 9002 double bass pedal for The Art of Balance sessions, the record that broke Shadows Fall into NWOAHM's front rank
-- **2012** (Drums): Renewed Tama deal — Carried the same Starclassic Performer B/B kit into his new chair with Overkill on The Electric Age, confirming his thrash credentials without changing gear
-- **2012** (Cymbals): Renewed Sabian deal — Kept his Sabian HHX/HH setup across both Shadows Fall and Overkill duties after joining Overkill full-time in 2012
+- **1997** (Drums): Signed with Mapex — Signed with Mapex in Shadows Fall's formative years, settling on the Saturn V shell pack
+- **1997** (Cymbals): Signed with Zildjian — Began his Zildjian relationship alongside the Mapex deal, building the K and A Custom Series setup that still defines his sound
+- **2002** (Hardware/Pedals): Signed with Mapex — Adopted the Mapex Falcon double bass pedal for The Art of Balance sessions, the record that broke Shadows Fall into NWOAHM's front rank
+- **2012** (Drums): Renewed Mapex deal — Carried the same Mapex Saturn V kit into his new chair with Overkill on The Electric Age, confirming his thrash credentials without changing gear
+- **2012** (Cymbals): Renewed Zildjian deal — Kept his Zildjian K and A Custom setup across both Shadows Fall and Overkill duties after joining Overkill full-time in 2012
 - Profile: https://metalforge.io/drummer/jason-bittner
 
 ### Jocke Wallgren (Amon Amarth)
 
-- **2005** (Cymbals): Signed with Meinl — Began playing Meinl Byzance cymbals during his time with Rage and Evergrey in the European power/prog metal scene
-- **2005** (Hardware/Pedals): Signed with DW — Adopted a DW double bass pedal configuration during his Rage and Evergrey years, ahead of the 9002 model becoming his standard
-- **2013** (Drums): Signed with Tama — Signed with Tama on joining Amon Amarth for Deceiver of the Gods (2013), settling on the Starclassic Performer B/B birch/bubinga kit
-- **2013** (Cymbals): Renewed Meinl deal — Carried his Meinl Byzance cymbals into the Amon Amarth chair, valuing their dark, warm voicing for the band's melodic death metal identity
-- **2019** (Hardware/Pedals): Renewed DW deal — Continued with the DW 9002 double bass pedal through Berserker (2019), which demanded both extended blast-beat passages and the band's signature gallop
+- **2005** (Cymbals): Signed with Zildjian — Began playing Zildjian A Custom & K Custom cymbals during his time with Rage and Evergrey in the European power/prog metal scene
+- **2005** (Hardware/Pedals): Signed with Pearl — Adopted a Pearl double bass pedal configuration during his Rage and Evergrey years, ahead of the Demon Drive model becoming his standard
+- **2013** (Drums): Signed with Pearl — Signed with Pearl on joining Amon Amarth for Deceiver of the Gods (2013), settling on the Reference Pure single-species maple kit
+- **2013** (Cymbals): Renewed Zildjian deal — Carried his Zildjian A Custom & K Custom cymbals into the Amon Amarth chair, valuing their bright yet warm voicing for the band's melodic death metal identity
+- **2019** (Hardware/Pedals): Renewed Pearl deal — Continued with the Pearl Demon Drive double pedal through Berserker (2019), which demanded both extended blast-beat passages and the band's signature gallop
 - Profile: https://metalforge.io/drummer/jocke-wallgren
 
 ### Mike Mangini (Dream Theater)
 
 - **2010** (Drums): Signed with Pearl — Signed with Pearl after winning the Dream Theater audition documented in "The Spirit Carries On," bringing his Masterworks Maple configuration to "A Dramatic Turn of Events" (2011)
 - **2011** (Cymbals): Signed with Sabian — Adopted the Sabian HHX/AAX combination for his Dream Theater debut, pairing HHX Evolution hi-hats with AAX X-Plosion crashes
-- **2011** (Drumsticks): Signed with Vic Firth — Began playing what became his Vic Firth Mike Mangini Signature model, designed around his biomechanical analysis of stick motion
+- **2011** (Drumsticks): Signed with Vic Firth — Began playing what became his Vater Mike Mangini Wicked Piston (VHMMWP) model, designed around his biomechanical analysis of stick motion
 - **2019** (Drums): Switched from Pearl Masterworks Maple to Pearl Reference Pure — Moved to Pearl's single-species maple Reference Pure shells for "Distance Over Time" (2019), suited to the album's live-in-the-studio approach at Yonderbarn Studios
 - Profile: https://metalforge.io/drummer/mike-mangini
 
 ### Morgan Ågren (Mats/Morgan Band / Devin Townsend Project)
 
-- **1988** (Cymbals): Signed with Meinl — Developing Meinl Byzance relationship in place around the time Frank Zappa personally selected the then-20-year-old Ågren for his touring band
+- **1988** (Cymbals): Signed with Paiste — Developing Paiste relationship in place around the time Frank Zappa personally selected the then-20-year-old Ågren for his touring band
 - **2012** (Drums): Signed with Sonor — Settled into the Sonor SQ2 Beech custom shell configuration around the time Devin Townsend recruited him for the Devin Townsend Project's "Epicloud" (2012)
-- **2014** (Cymbals): Renewed Meinl deal — Carried the Meinl Byzance Sand hi-hats and Traditional ride into "Z²" (2014), where the odd-time metric modulations demanded the line's layered overtone complexity
+- **2014** (Cymbals): Renewed Paiste deal — Carried the Paiste Signature and 2002 series cymbals into "Z²" (2014), where the odd-time metric modulations demanded the line's layered overtone complexity
 - Profile: https://metalforge.io/drummer/morgan-agren
 
 ### Navene Koperweis (Entheos / ex-Animals as Leaders)
@@ -909,24 +903,23 @@ After several drummer changes, Trivium finds stability with Alex Bent. He brings
 
 ### Pete Sandoval (Morbid Angel)
 
-- **1989** (Drums): Signed with Tama — Played a Tama Superstar/Artstar II kit with individual chain-drive pedals on Morbid Angel's debut "Altars of Madness" (1989), the album that helped invent death metal drumming
-- **1993** (Drums): Switched from Tama to Pearl — Switched to a Pearl Reference Series maple/poplar hybrid kit for "Covenant" (1993), adding shell mass for his 230+ BPM double-bass work; later carried the endorsement into the Pearl Masterworks line
-- **1993** (Cymbals): Switched from Paiste RUDE/2002 to Sabian — Moved from Paiste RUDE/2002 to Sabian AA cymbals (14" Medium Hi-Hats, 16"/18" Medium Crashes, 20" Metal Ride, 18" China) for "Covenant," trading Paiste's longer sustain for Sabian's faster-decaying attack at extreme tempos
+- **1989** (Drums): Signed with ddrum — ddrum endorser for much of his Morbid Angel career, including the double-bass work that helped invent death metal drumming on "Altars of Madness" (1989); specific kit series unconfirmed
 - Profile: https://metalforge.io/drummer/pete-sandoval
 
 ### Ray Luzier (Korn)
 
 - **2010** (Drums): Signed with DW — Ran a DW Collector's Series kit with a DW 9002 double bass pedal for "Korn III: Remember Who You Are" (2010), his debut studio album with Korn
-- **2013** (Drums): Switched from DW to Pearl — Transitioned from DW to a Pearl Reference Maple kit with Pearl Demon Drive double pedals for "The Paradigm Shift" (2013), beginning his current Pearl endorsement
+- **2013** (Drums): Switched from DW to Pearl — Transitioned from a DW kit to a Pearl Reference Maple kit for "The Paradigm Shift" (2013), beginning his current Pearl endorsement, while remaining on his DW 9000 Series double pedal
 - **2013** (Cymbals): Switched from Paiste 2002 / Meinl Byzance to Sabian AAX — Switched from his Paiste 2002/Meinl Byzance mix to Sabian AAX cymbals alongside the Pearl move for "The Paradigm Shift" (2013), a setup he has kept through "Requiem" (2022)
-- **2013** (Drumsticks): Signature product: Promark Ray Luzier Signature TX420X — Moved from stock Promark Hickory 5B to his own Promark Ray Luzier Signature TX420X model starting with "The Paradigm Shift" (2013)
+- **2013** (Drumsticks): Signature product: Vic Firth Ray Luzier Signature — Moved to his own Vic Firth Ray Luzier Signature model starting with "The Paradigm Shift" (2013)
 - Profile: https://metalforge.io/drummer/ray-luzier
 
 ### Raymond Herrera (Fear Factory)
 
-- **1995** (Drums): Signed with Pearl — Built his hybrid acoustic/electronic setup around a Pearl Reference Series kit for "Demanufacture" (1995), the album that defined industrial metal drumming; kept unchanged through "Obsolete" (1998) and "Digimortal" (2001)
+- **1995** (Drums): Signed with Tama — Built his hybrid acoustic/electronic setup around a Tama Starclassic kit with extensive triggering for "Demanufacture" (1995), the album that defined industrial metal drumming; kept unchanged through "Obsolete" (1998) and "Digimortal" (2001)
 - **1995** (Cymbals): Signed with Zildjian — Chose Zildjian Z Custom cymbals for their durability and bright, cutting projection above Fear Factory's down-tuned guitars, starting on "Demanufacture" (1995)
-- **1995** (Electronics): Signed with ddrum / Roland — Wired his Pearl kit with ddrum triggers into a Roland drum module for "Demanufacture," creating the mechanical, processed drum sound at the core of Fear Factory's identity
+- **1995** (Electronics): Signed with ddrum / Roland — Wired his Tama kit with ddrum triggers into a Roland drum module for "Demanufacture," creating the mechanical, processed drum sound at the core of Fear Factory's identity
+- **1995** (Drumsticks): Signed with Pro-Mark — Plays Pro-Mark 5A Oak Nylon Tip sticks, per MusicRadar's "How to sound like Fear Factory's Raymond Herrera" breakdown of his "Demanufacture"-era (1995) setup
 - Profile: https://metalforge.io/drummer/raymond-herrera
 
 ### Richard Christy (Death)
@@ -939,7 +932,7 @@ After several drummer changes, Trivium finds stability with Alex Bent. He brings
 
 - **2000** (Drums): Signed with Pearl — Anchored Devin Townsend's "Physicist" (2000) — his recording debut with Townsend — on a Pearl Reference Series maple/mahogany hybrid kit with dual 22" x 18" kicks, a setup he has kept across the entire Devin Townsend Project catalogue
 - **2000** (Cymbals): Signed with Sabian — Built his cymbal setup around Sabian AAX and HHX pieces (14" AAX Hi-Hats, 16" AAX Crash, 18" HHX Crash, 20" HHX Ride, 18" AAX China) starting with "Physicist" (2000), unchanged through "Deconstruction" (2011) and "Empath" (2019)
-- **2011** (Hardware/Pedals): Renewed Tama / DW deal — Alternated between Tama Iron Cobra and DW 9000 double bass pedals across "Deconstruction" and "Ghost" (both 2011), released the same day and recorded on the same physical kit
+- **2011** (Hardware/Pedals): Renewed Pearl deal — Carried the Pearl Demon Drive double bass pedal across "Deconstruction" and "Ghost" (both 2011), released the same day and recorded on the same physical kit
 - Profile: https://metalforge.io/drummer/ryan-van-poederooyen
 
 ### Tim Yeung (Morbid Angel)
@@ -960,17 +953,15 @@ After several drummer changes, Trivium finds stability with Alex Bent. He brings
 ### Kevin Talley (Dying Fetus)
 
 - **2000** (Drums): Signed with Pearl — Played a Pearl Masters kit (maple/mahogany hybrid, double 22"x18" bass drums) on Dying Fetus's "Destroy the Opposition" (2000), widely cited as his most influential recorded performance
-- **2000** (Cymbals): Signed with Zildjian — Paired the Pearl kit with Zildjian A and A Custom cymbals (14" A Custom Hi-Hats, 18" A China) on "Destroy the Opposition", built for fast attack and projection over down-tuned guitars
-- **2007** (Drums): Renewed Pearl deal — Documented in his "full touring configuration" (Pearl Masters Custom/Reference, 14"x6.5" steel snare, full Zildjian A Custom setup) on Dying Fetus's "War of Attrition" (2007), his most technically complete recorded performance
-- **2015** (Drums): Renewed Pearl deal — Carried the same Pearl Reference Masters / Zildjian A series / DW double pedal setup into Jungle Rot's "Order Shall Prevail" (2015), adapting it to a more groove-oriented death metal context
+- **2007** (Drums): Renewed Pearl deal — Documented in his "full touring configuration" (Pearl Masters Custom/Reference, 14"x6.5" steel snare) on Dying Fetus's "War of Attrition" (2007), his most technically complete recorded performance
+- **2015** (Drums): Renewed Pearl deal — Carried the same Pearl Reference Masters setup into Jungle Rot's "Order Shall Prevail" (2015), adapting it to a more groove-oriented death metal context
 - Profile: https://metalforge.io/drummer/kevin-talley
 
 ### Martin Axenrot (Opeth)
 
-- **2008** (Drums): Signed with Sonor — Introduced twin 22"x18" Sonor Designer/SQ2 bass drums on studio debut "Watershed" (2008), replacing predecessor Martin Lopez's single-kick rig with a heavier setup informed by his Bloodbath and Witchery background
-- **2008** (Cymbals): Signed with Meinl — Brought his own longtime Meinl Byzance cymbal setup (hand-hammered Traditional/Dark series) into Opeth on "Watershed", continuing Lopez's dark/complex cymbal vocabulary under a different brand than Lopez's Sabian HH
-- **2008** (Hardware/Pedals): Signed with Sonor — Used Sonor Giant Step direct-drive twin pedals on "Watershed", tracked at Fascination Street Studios with Jens Bogren producing
-- **2014** (Drums): Renewed Sonor deal — Carried the same twin-kick Sonor / Meinl Byzance rig through Opeth's prog-rock turn on "Pale Communion" (2014), following "Heritage" (2011) dropping death metal vocals entirely
+- **2006** (Drums): Signed with DW — Joined Opeth mid-tour on the Ghost Reveries cycle in 2006, playing a custom hand-made DW kit with maple/gum shells — the same setup he described in a 2016 MusicRadar interview around the Sorceress cycle
+- **2006** (Cymbals): Signed with Sabian — SABIAN artist endorsing HHX / AAX Series cymbals since joining Opeth in 2006, per SABIAN's own artist page
+- **2006** (Hardware/Pedals): Signed with DW — DW hardware paired with his custom DW kit since joining Opeth in 2006
 - Profile: https://metalforge.io/drummer/martin-axenrot
 
 ### Martin Lopez (Soen)
@@ -978,7 +969,7 @@ After several drummer changes, Trivium finds stability with Alex Bent. He brings
 - **1997** (Drums): Signed with Sonor — Joined Opeth and played a Sonor Designer Series maple kit through "Blackwater Park" (2001), "Deliverance" (2002), and "Ghost Reveries" (2005) — a setup that became a reference standard for progressive metal drum sound
 - **1997** (Cymbals): Signed with Sabian — Used Sabian HH and AAX cymbals throughout his Opeth tenure, prioritizing warmth and dynamic complexity over volume
 - **2010** (Cymbals): Switched from Sabian to Zildjian — Switched to Zildjian A and K series cymbals after co-founding Soen in 2010 — a brighter tonal palette suited to the band's modern production, documented across "Cognitive" (2012) through "Memorial" (2023)
-- **2010** (Drums): Switched from Sonor Designer Series to Sonor SQ2 — Upgraded from the Designer Series to Sonor's bespoke SQ2 custom line for Soen — reflecting his professional standing, in the same select-maple configuration
+- **2010** (Drums): Switched from Sonor Designer Series to Noble & Cooley — Switched to a Noble & Cooley Walnut shell pack after co-founding Soen in 2010, prioritizing tone and dynamics over the power-focused Sonor kit used in Opeth
 - Profile: https://metalforge.io/drummer/martin-lopez
 
 ### Matt Garstka (Animals as Leaders)
@@ -987,6 +978,8 @@ After several drummer changes, Trivium finds stability with Alex Bent. He brings
 - **2012** (Cymbals): Signed with Meinl — Built his cymbal setup around Meinl Byzance (15" Dual Hi-Hats, 22" Sand Ride, 18" Extra Dry Thin Crash) for the dark, musical character heard on his debut "The Joy of Motion" (2014)
 - **2014** (Drums): Signature product: Pearl Matt Garstka Signature Snare — Released his Pearl signature snare (14"x5" maple with a unique bearing edge for ghost-note sensitivity), recorded on "The Joy of Motion" (2014) with producer Misha Mansoor
 - **2014** (Drumsticks): Signature product: Vic Firth Matt Garstka Signature Stick — Released his Vic Firth signature stick — an elongated taper for dynamic control, designed for his traditional-grip technique
+- **2021** (Drums): Switched from Pearl to DW — Switched from Pearl/Tama to a DW Collector's Series custom shop kit (mixed wood species and shell configurations, plus a DW Collector's Series Purpleheart snare) in September 2021, driven by a Tama Speed Cobra 910 double pedal
+- **2021** (Hardware/Pedals): Switched from Pearl Demon Drive Double Pedal to Tama Speed Cobra 910 Double Pedal — Moved his double bass pedal to a Tama Speed Cobra 910 alongside the September 2021 DW drum kit switch
 - Profile: https://metalforge.io/drummer/matt-garstka
 
 ### Sean Reinert (Death / Cynic)
@@ -1005,7 +998,10 @@ After several drummer changes, Trivium finds stability with Alex Bent. He brings
 - **1990** (Drums): Signed with Tama — Debuted on Megadeth's "Rust in Peace" (1990) with a Tama Artstar II kit in Midnight Blue finish — birch shells chosen for the focused attack needed to cut through Dave Mustaine and Marty Friedman's dense guitar arrangements
 - **1990** (Cymbals): Signed with Zildjian — Ran a Zildjian A / A Custom setup (14" New Beat hi-hats, 16"/18" crashes, 20" ride, 18" China Boy High) on "Rust in Peace" (1990) — the bright, cutting tone that became a signature of the album's thrash attack
 - **1992** (Cymbals): Switched from Zildjian A / A Custom to Paiste 2002 / Signature — Switched to Paiste 2002 and Signature cymbals for "Countdown to Extinction" (1992), matching the album's more melodic, arena-rock-oriented production without losing thrash-level cut
+- **1992** (Drums): Switched from Tama to Pearl Masters — Upgraded to Pearl Masters for "Countdown to Extinction" (1992), seeking a more resonant, powerful sound than the Rust in Peace-era Tama kit
+- **1994** (Drums): Switched from Pearl Masters to Pearl Masterworks — Moved to Pearl Masterworks for "Youthanasia" (1994), the most premium kit of his career
 - **1997** (Cymbals): Switched from Paiste 2002 / Signature to Sabian AA / Signature — Moved to a Sabian AA and Signature cymbal setup for "Cryptic Writings" (1997) — a brighter, more focused voice paired with Dann Huff's contemporary Nashville production on the band's final Menza-era record
+- **1997** (Drums): Switched from Pearl Masterworks to Pearl Reference Custom — Settled on a Pearl Reference Custom setup — his flagship professional tier — for "Cryptic Writings" (1997), his final full studio album with Megadeth
 - **1997** (Drumsticks): Signature product: Vater Vater Nick Menza Signature — His Vater signature stick model was in regular use by the "Cryptic Writings" (1997) sessions — the closing chapter of his nine-year run behind Megadeth's kit
 - **1997** (Hardware/Pedals): Switched from Tama Camco to Tama Iron Cobra Double Pedal — The Tama Iron Cobra had fully replaced his older Camco-style pedals by "Cryptic Writings" (1997), after a transitional Camco/early-Iron-Cobra period on "Youthanasia" (1994)
 - Profile: https://metalforge.io/drummer/nick-menza
@@ -1020,9 +1016,9 @@ After several drummer changes, Trivium finds stability with Alex Bent. He brings
 
 ### Alex Bent (ex-Trivium / Arkaik / Dragonlord)
 
-- **2016** (Drums): Signed with Pearl — Signed with Pearl drums upon joining Trivium in 2016 (recording debut 2017), replacing Paul Wandtke, after his 2008-2017 run in technical death metal outfit Arkaik
-- **2017** (Cymbals): Signed with Zildjian — Paired Zildjian K Custom Hybrid cymbals with the Pearl kit for his Trivium studio debut, "The Sin and the Sentence" (2017)
-- **2020** (Drums): Renewed Pearl deal — Carried the Pearl Reference Pure Series setup, centered on the 14x5" Brass snare, through "What the Dead Men Say" (2020)
+- **2016** (Drums): Signed with Tama — Signed with Tama drums upon joining Trivium in 2016 (recording debut 2017), replacing Paul Wandtke, after his 2008-2017 run in technical death metal outfit Arkaik
+- **2017** (Cymbals): Signed with Zildjian — Paired Zildjian K Custom Hybrid cymbals with the Tama kit for his Trivium studio debut, "The Sin and the Sentence" (2017)
+- **2020** (Drums): Renewed Tama deal — Carried the Tama Starclassic Maple setup, centered on the 14x5" snare, through "What the Dead Men Say" (2020)
 - **2021** (Hardware/Pedals): Signed with Axis — Added Axis A Longboard double pedals to drive the rapid double-bass patterns on "In the Court of the Dragon" (2021)
 - Profile: https://metalforge.io/drummer/alex-bent
 
@@ -1087,4 +1083,4 @@ After several drummer changes, Trivium finds stability with Alex Bent. He brings
 - [Gear News](https://metalforge.io/llms/gear-news.md)
 - [All LLM Resources](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

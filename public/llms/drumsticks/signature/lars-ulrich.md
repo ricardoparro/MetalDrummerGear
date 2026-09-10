@@ -21,6 +21,7 @@ Lars Ulrich plays the Ahead Lars Ulrich Signature (LT) — Aluminum core with re
 | Tip | Teardrop (nylon) |
 | Taper | Long |
 | Endorsement | Signature model |
+| Price Tier | premium |
 
 Verified roster hardware entry. Source: thomannmusic.com.
 
@@ -42,4 +43,4 @@ A: It's a named signature model — the Ahead Lars Ulrich Signature (LT) is desi
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

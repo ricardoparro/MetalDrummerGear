@@ -21,6 +21,7 @@ Danny Carey plays the Vic Firth SDC — Hickory, Signature Series (0.63" diamete
 | Tip | Teardrop (wood) |
 | Taper | Short |
 | Endorsement | Signature model |
+| Price Tier | budget |
 
 Verified roster hardware entry. Source: vicfirth.com.
 
@@ -42,4 +43,4 @@ A: It's a named signature model — the Vic Firth SDC is designed and marketed s
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

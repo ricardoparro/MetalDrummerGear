@@ -21,8 +21,13 @@ Dave Lombardo plays the ProMark TX2BXN — American Hickory, Signature 2Bx (0.63
 | Tip | Oval (nylon) |
 | Taper | Short |
 | Endorsement | Signature model |
+| Price Tier | budget |
 
 Verified roster hardware entry. Source: daddario.com.
+
+## Related Articles
+
+- [40 Years of Reign in Blood](https://metalforge.io/articles/reign-in-blood-anniversary)
 
 ## FAQ
 
@@ -42,4 +47,4 @@ A: It's a named signature model — the ProMark TX2BXN is designed and marketed 
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

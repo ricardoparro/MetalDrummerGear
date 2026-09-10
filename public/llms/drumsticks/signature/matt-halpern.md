@@ -21,6 +21,7 @@ Matt Halpern plays the ProMark TXMHW — Hickory, Signature (2B weight, plays li
 | Tip | Large round (wood) |
 | Taper | Short |
 | Endorsement | Signature model |
+| Price Tier | budget |
 
 Verified roster hardware entry. Source: daddario.com.
 
@@ -42,4 +43,4 @@ A: It's a named signature model — the ProMark TXMHW is designed and marketed s
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

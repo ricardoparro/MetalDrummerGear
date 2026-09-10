@@ -21,6 +21,7 @@ Alex Bent plays the Vic Firth American Classic 5B — Hickory, 5B (0.595" diamet
 | Tip | Teardrop (wood) |
 | Taper | Medium |
 | Endorsement | Artist endorsement (stock model) |
+| Price Tier | budget |
 
 Verified roster hardware entry. Source: vicfirth.com.
 
@@ -46,4 +47,4 @@ A: It's an artist endorsement of a stock Vic Firth model, not a custom signature
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

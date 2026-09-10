@@ -1,36 +1,41 @@
-# What Drumsticks Does Vinnie Paul Use? Vic Firth SVP
+# What Drumsticks Does Vinnie Paul Use? Vic Firth American Classic 5B
 
-**Band:** Pantera / Damageplan / Hellyeah | **Brand:** Vic Firth | **Model:** SVP
+**Band:** Pantera / Damageplan / Hellyeah | **Brand:** Vic Firth | **Model:** American Classic 5B
 
 ---
 
 ## Direct Answer
 
-Vinnie Paul plays the Vic Firth SVP — Hickory, Signature Vinnie Paul (0.63" diameter x 16.875" long), teardrop (wood) tip, full-sized, no formal taper class taper.
+Vinnie Paul plays the Vic Firth American Classic 5B — Hickory, 5B (0.595" diameter x 16" long), teardrop (wood) tip, medium taper.
 
 ## Stick Specs
 
 | Field | Value |
 |-------|-------|
 | Brand | Vic Firth |
-| Model | SVP |
-| Size | Signature Vinnie Paul |
-| Diameter | 0.63" |
-| Length | 16.875" |
+| Model | American Classic 5B |
+| Size | 5B |
+| Diameter | 0.595" |
+| Length | 16" |
 | Material | Hickory |
 | Tip | Teardrop (wood) |
-| Taper | Full-sized, no formal taper class |
-| Endorsement | Signature model |
+| Taper | Medium |
+| Endorsement | Artist endorsement (stock model) |
+| Price Tier | budget |
 
 Verified roster hardware entry. Source: vicfirth.com.
+
+## Notes
+
+Endorsed stock model played since the 1990s — no custom signature model. The "Vic Firth SVP Signature Vinnie Paul" stick is a separate, posthumous 2020 tribute product (he died in 2018) and is not gear he played.
 
 ## FAQ
 
 **Q: What drumsticks does Vinnie Paul use?**
-A: Vinnie Paul plays the Vic Firth SVP, a hickory stick sized Signature Vinnie Paul (0.63" x 16.875") with a teardrop (wood) tip and full-sized, no formal taper class taper.
+A: Vinnie Paul plays the Vic Firth American Classic 5B, a hickory stick sized 5B (0.595" x 16") with a teardrop (wood) tip and medium taper.
 
 **Q: Is this a true signature model or just an endorsement?**
-A: It's a named signature model — the Vic Firth SVP is designed and marketed specifically for Vinnie Paul.
+A: It's an artist endorsement of a stock Vic Firth model, not a custom signature stick designed for Vinnie Paul.
 
 ## More Resources
 
@@ -42,4 +47,4 @@ A: It's a named signature model — the Vic Firth SVP is designed and marketed s
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

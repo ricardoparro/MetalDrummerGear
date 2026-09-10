@@ -21,6 +21,7 @@ Matt Greiner plays the Vic Firth SGRE — Hickory (dry-tumbled, unlacquered), Si
 | Tip | Taj Mahal (wood) |
 | Taper | Long |
 | Endorsement | Signature model |
+| Price Tier | budget |
 
 Verified roster hardware entry. Source: vicfirth.com.
 
@@ -42,4 +43,4 @@ A: It's a named signature model — the Vic Firth SGRE is designed and marketed 
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

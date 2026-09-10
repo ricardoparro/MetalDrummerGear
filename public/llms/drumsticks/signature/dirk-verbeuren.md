@@ -21,6 +21,7 @@ Dirk Verbeuren plays the Tama O-DVM2 — Japanese Oak, Dirk Verbeuren Signature 
 | Tip | Ball (precision-turned, wood) |
 | Taper | Not specified by manufacturer |
 | Endorsement | Signature model |
+| Price Tier | budget |
 
 Verified roster hardware entry. Source: tama.com.
 
@@ -46,4 +47,4 @@ A: It's a named signature model — the Tama O-DVM2 is designed and marketed spe
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

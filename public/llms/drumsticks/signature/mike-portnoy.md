@@ -21,6 +21,7 @@ Mike Portnoy plays the ProMark TXMP420XW-AG — Hickory with heat-activated Acti
 | Tip | Oval (wood) |
 | Taper | Not specified by manufacturer |
 | Endorsement | Signature model |
+| Price Tier | budget |
 
 Verified roster hardware entry. Source: thomannmusic.com.
 
@@ -42,4 +43,4 @@ A: It's a named signature model — the ProMark TXMP420XW-AG is designed and mar
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

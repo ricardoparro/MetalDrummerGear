@@ -21,6 +21,7 @@ Gene Hoglan plays the ProMark Classic Forward 2B (TX2B family) — American Hick
 | Tip | Oval (wood/nylon variant unconfirmed) |
 | Taper | Short (forward-weighted) |
 | Endorsement | Artist endorsement (stock model) |
+| Price Tier | budget |
 
 Verified roster hardware entry. Source: daddario.com.
 
@@ -46,4 +47,4 @@ A: It's an artist endorsement of a stock ProMark model, not a custom signature s
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

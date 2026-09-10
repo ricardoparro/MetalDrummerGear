@@ -226,7 +226,8 @@ for (const stick of DRUMSTICKS) {
     ? `${BASE}/drumsticks/signature/${stick.drummerSlug}`
     : null;
   const who = name ? `${name} — ` : '';
-  const summary = `${stick.brand} ${stick.model} (${stick.material}, ${stick.size})`;
+  const priceBandSuffix = stick.priceBand ? `, ${stick.priceBand}` : '';
+  const summary = `${stick.brand} ${stick.model} (${stick.material}, ${stick.size}${priceBandSuffix})`;
   if (link) {
     lines.push(`- ${who}[${summary}](${link})`);
   } else {

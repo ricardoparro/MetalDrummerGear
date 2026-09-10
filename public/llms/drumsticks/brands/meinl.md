@@ -19,6 +19,10 @@ We haven't verified a Meinl Stick & Brush drumstick played by one of our mapped 
 
 Source: [Meinl Stick & Brush — SB108 Heavy 5A](https://meinlstickandbrush.com/en/products/sb108-m5959.html).
 
+## Full Brand History
+
+See the complete history for Meinl Stick & Brush: [/brands/meinl](https://metalforge.io/brands/meinl)
+
 ## FAQ
 
 **Q: What drumsticks does Meinl Stick & Brush make for metal drummers?**
@@ -58,4 +62,4 @@ MetalForge tracks 10 drumstick brands relevant to metal drummers. Besides Meinl 
 
 ---
 
-*Last updated: 2026-08-01 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

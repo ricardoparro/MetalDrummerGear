@@ -31,6 +31,10 @@ These 9 entries are pulled directly from MetalForge's verified drumsticks databa
 
 Source: [D'Addario / Pro-Mark — Find Your Drumstick](https://www.daddario.com/pages/promark-find-your-drumstick).
 
+## Full Brand History
+
+See the complete history for Pro-Mark: [/brands/pro-mark](https://metalforge.io/brands/pro-mark)
+
 ## FAQ
 
 **Q: What drumsticks does Pro-Mark make for metal drummers?**
@@ -70,4 +74,4 @@ MetalForge tracks 10 drumstick brands relevant to metal drummers. Besides Pro-Ma
 
 ---
 
-*Last updated: 2026-08-01 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

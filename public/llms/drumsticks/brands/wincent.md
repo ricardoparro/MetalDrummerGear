@@ -17,7 +17,11 @@
 
 We haven't verified a Wincent drumstick played by one of our mapped metal drummers yet. That's a gap in our research, not a claim that no metal drummer plays Wincent — endorsements are only added here once a brand, retailer, or artist page confirms the pairing.
 
-Source: [Wincent — Rock/Metal Series](https://www.wincentdrumsticks.com/drumsticks/rock-metal-series/).
+Source: [Wincent — Rock/Metal Series](https://www.wincentdrumsticks.com/collections/rock-metal-series).
+
+## Full Brand History
+
+See the complete history for Wincent: [/brands/wincent](https://metalforge.io/brands/wincent)
 
 ## FAQ
 
@@ -58,4 +62,4 @@ MetalForge tracks 10 drumstick brands relevant to metal drummers. Besides Wincen
 
 ---
 
-*Last updated: 2026-08-01 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

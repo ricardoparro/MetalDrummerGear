@@ -19,6 +19,10 @@ We haven't verified a Vater Percussion drumstick played by one of our mapped met
 
 Source: [Vater Percussion — company background (Wikipedia)](https://en.wikipedia.org/wiki/Vater_Percussion).
 
+## Full Brand History
+
+See the complete history for Vater Percussion: [/brands/vater](https://metalforge.io/brands/vater)
+
 ## FAQ
 
 **Q: What drumsticks does Vater Percussion make for metal drummers?**
@@ -58,4 +62,4 @@ MetalForge tracks 10 drumstick brands relevant to metal drummers. Besides Vater 
 
 ---
 
-*Last updated: 2026-08-01 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

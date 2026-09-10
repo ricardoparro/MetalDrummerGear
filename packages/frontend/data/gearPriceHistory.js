@@ -2949,7 +2949,7 @@ export const GEAR_PRICE_HISTORY = {
 
   // ==========================================
   // ELOY CASAGRANDE - 2017 Machine Messiah Era
-  // Mapex Meridian Maple Setup (Sepultura)
+  // Tama Starclassic Bubinga Setup (Sepultura)
   // ==========================================
   'eloy-casagrande': {
     slug: 'eloy-casagrande',
@@ -2960,37 +2960,37 @@ export const GEAR_PRICE_HISTORY = {
     albumReference: 'Machine Messiah (2017)',
     profileImage: '/images/drummers/eloy-casagrande.webp',
 
-    summary: "Eloy Casagrande's 2017 Sepultura setup from Machine Messiah — the album that cemented his reputation as one of the most complete heavy metal drummers of his generation. His Mapex Meridian Maple configuration delivered the power, precision, and versatility needed to handle Sepultura's hybrid of thrash, groove metal, and progressive complexity. Casagrande later joined Slipknot in 2023–24, switching to a Tama Starclassic Bubinga touring rig with Paiste cymbals for stadium-scale performances.",
+    summary: "Eloy Casagrande's 2017 Sepultura setup from Machine Messiah — the album that cemented his reputation as one of the most complete heavy metal drummers of his generation. His Tama Starclassic Bubinga configuration delivered the power, precision, and versatility needed to handle Sepultura's hybrid of thrash, groove metal, and progressive complexity. Casagrande carried that same Tama endorsement — running since the 2010s — into Slipknot when he joined in 2023–24, maintaining his Tama Starclassic Bubinga touring rig alongside his long-standing Paiste cymbals for stadium-scale performances.",
 
     setup: {
       drums: {
-        item: 'Mapex Meridian Maple',
+        item: 'Tama Starclassic Bubinga',
         model: '6-piece shell pack with double kick',
         specs: '22"x18" kick (×2), 10"x8" rack, 12"x9" rack, 14"x14" floor, 16"x16" floor — custom finish',
         originalPrice: 1600,
         year: 2017,
-        source: 'Mapex Meridian Maple MSRP 2017, catalog pricing',
-        notes: "Casagrande's Mapex Meridian Maple delivered the warm, focused tone needed for Sepultura's studio production on Machine Messiah. The maple shell construction gave him a versatile fundamental — wide enough for the album's progressive passages, punchy enough for the thrash-influenced sections.",
+        source: 'Tama Starclassic Bubinga MSRP 2017, catalog pricing',
+        notes: "Casagrande's Tama Starclassic Bubinga delivered the dense, bass-heavy tone needed for Sepultura's studio production on Machine Messiah. The bubinga shell construction gave him a versatile fundamental — wide enough for the album's progressive passages, punchy enough for the thrash-influenced sections.",
         vintageValue2026: 1400,
         modernEquivalent: {
-          item: 'Mapex Storm 6-piece',
+          item: 'Tama Starclassic Bubinga (Current Line)',
           price: 1800,
-          link: 'mapex-storm-kit',
+          link: 'tama-starclassic-bubinga-casagrande',
         },
       },
       snare: {
-        item: 'Mapex Black Panther 14"x6.5"',
-        model: 'Black Panther steel snare',
-        specs: '14"x6.5" steel shell, Black Panther series',
+        item: 'Tama Starclassic Steel 14"x6.5"',
+        model: 'Steel snare',
+        specs: '14"x6.5" steel shell, Starclassic series',
         originalPrice: 380,
         year: 2017,
-        source: 'Mapex Black Panther MSRP 2017',
-        notes: "The Mapex Black Panther steel snare gave Casagrande a fat, cutting crack that cut through Sepultura's dense guitar mix. The 6.5\" depth delivered the extra body and volume needed for Machine Messiah's heavier sections without over-dampening.",
+        source: 'Tama Starclassic snare MSRP 2017',
+        notes: "The Tama Starclassic steel snare gave Casagrande a fat, cutting crack that cut through Sepultura's dense guitar mix. The 6.5\" depth delivered the extra body and volume needed for Machine Messiah's heavier sections without over-dampening.",
         vintageValue2026: 350,
         modernEquivalent: {
-          item: 'Mapex Black Panther Design Lab Snare',
+          item: 'Tama Starclassic Steel 14"x6.5" (Current)',
           price: 500,
-          link: 'mapex-black-panther-snare',
+          link: 'tama-starclassic-steel-snare-casagrande',
         },
       },
       cymbals: {
@@ -3009,12 +3009,12 @@ export const GEAR_PRICE_HISTORY = {
         },
       },
       hardware: {
-        item: 'Pearl Eliminator Double Pedal + Mapex Hardware',
-        model: 'Pearl P-2002B Eliminator + Mapex TH800 stands',
-        specs: 'Pearl P-2002B Eliminator double pedal, Mapex hi-hat stand, 3 boom stands, snare stand',
+        item: 'Pearl Eliminator Double Pedal + Tama Hardware',
+        model: 'Pearl P-2002B Eliminator + Tama TH800 stands',
+        specs: 'Pearl P-2002B Eliminator double pedal, Tama hi-hat stand, 3 boom stands, snare stand',
         originalPrice: 800,
         year: 2017,
-        source: 'Pearl Eliminator P-2002B MSRP 2017, Mapex hardware estimates',
+        source: 'Pearl Eliminator P-2002B MSRP 2017, Tama hardware estimates',
         notes: "The Pearl Eliminator double pedal's cam system gave Casagrande the speed and control for Sepultura's rhythmically demanding passages. Its lightweight design minimised fatigue across extended live and studio sessions, while the interchangeable cam options allowed tuning to his personal technique preferences.",
         vintageValue2026: 700,
         modernEquivalent: {
@@ -3067,22 +3067,22 @@ export const GEAR_PRICE_HISTORY = {
       { year: 2019, price: 4500, label: 'Quadra era', event: 'Casagrande continues Sepultura evolution' },
       { year: 2021, price: 5100, label: 'SepulQuarta era', event: 'Sepultura releases live acoustic album' },
       { year: 2023, price: 5400, label: 'Slipknot announcement', event: 'Casagrande named as new Slipknot drummer' },
-      { year: 2024, price: 5600, label: 'Slipknot Tama era', event: 'Casagrande switches to Tama Starclassic Bubinga with Paiste cymbals for Slipknot touring rig' },
+      { year: 2024, price: 5600, label: 'Slipknot Tama era', event: 'Casagrande carries his Tama Starclassic Bubinga and Paiste cymbal setup into Slipknot touring rig' },
       { year: 2025, price: 5750, label: 'Slipknot touring', event: 'Casagrande on international Slipknot tour circuit' },
       { year: 2026, price: 5510, label: 'Current adjusted', event: 'Inflation-adjusted value' },
     ],
 
     sources: [
-      { title: 'Mapex Meridian Maple Professional Catalog', year: 2017, type: 'catalog' },
+      { title: 'Tama Starclassic Bubinga Professional Catalog', year: 2017, type: 'catalog' },
       { title: 'Modern Drummer — Eloy Casagrande Sepultura Feature', year: 2017, type: 'interview' },
       { title: 'Drum! Magazine — Eloy Casagrande Gear Rundown', year: 2019, type: 'interview' },
-      { title: 'Reverb Price Guide — Mapex Meridian Maple 2017', year: 2025, type: 'market' },
+      { title: 'Reverb Price Guide — Tama Starclassic Bubinga 2017', year: 2025, type: 'market' },
     ],
 
     meta: {
       title: "Eloy Casagrande 2017 Drum Setup Cost | Machine Messiah Era Gear Prices",
-      description: "How much did Eloy Casagrande's 2017 Sepultura drum kit cost? Original ~$4,124, inflation-adjusted to ~$5,510 today. Complete Mapex Meridian Maple breakdown from the Machine Messiah era, plus his Slipknot-era Tama Starclassic switch.",
-      keywords: ['eloy casagrande drum kit', 'sepultura drummer gear', 'machine messiah drums', 'eloy casagrande mapex setup', 'slipknot new drummer gear cost'],
+      description: "How much did Eloy Casagrande's 2017 Sepultura drum kit cost? Original ~$4,124, inflation-adjusted to ~$5,510 today. Complete Tama Starclassic Bubinga breakdown from the Machine Messiah era, carried through his Slipknot-era touring rig.",
+      keywords: ['eloy casagrande drum kit', 'sepultura drummer gear', 'machine messiah drums', 'eloy casagrande tama setup', 'slipknot new drummer gear cost'],
     },
   },
 

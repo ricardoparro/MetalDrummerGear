@@ -45,6 +45,10 @@ Cavalera Conspiracy, formed in 2007, reunited brothers Max and Igor Cavalera aft
 | Pandemonium | 2014 | Igor Cavalera |  |
 | Psychosis | 2017 | Igor Cavalera |  |
 
+## Related Bands
+
+- [Sepultura](https://metalforge.io/bands/sepultura)
+
 ## FAQ
 
 **Q: Who is the drummer for Cavalera Conspiracy?**
@@ -68,4 +72,4 @@ A: Yes. Founders Max and Igor Cavalera are the brothers who co-founded Sepultura
 
 **More resources:** [All bands](https://metalforge.io/llms/bands.md) · [Site index](https://metalforge.io/llms.txt)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

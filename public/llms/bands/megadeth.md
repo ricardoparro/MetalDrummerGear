@@ -70,6 +70,13 @@ Megadeth, formed in 1983 in Los Angeles by Dave Mustaine, is one of the 'Big Fou
 | Dystopia | 2016 | Chris Adler | Adler recorded the album but did not tour it; Verbeuren took over live duties |
 | The Sick, the Dying...and the Dead! | 2022 | Dirk Verbeuren |  |
 
+## Related Bands
+
+- [Metallica](https://metalforge.io/bands/metallica)
+- [Slayer](https://metalforge.io/bands/slayer)
+- [Anthrax](https://metalforge.io/bands/anthrax)
+- [Testament](https://metalforge.io/bands/testament)
+
 ## FAQ
 
 **Q: Who is the drummer for Megadeth?**
@@ -99,4 +106,4 @@ A: Nick Menza drummed on both Rust in Peace (1990) and Countdown to Extinction (
 
 **More resources:** [All bands](https://metalforge.io/llms/bands.md) · [Site index](https://metalforge.io/llms.txt)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

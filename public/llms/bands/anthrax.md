@@ -57,6 +57,13 @@ Anthrax, formed in 1981, is one of the Big Four of thrash metal.
 | Worship Music | 2011 | Charlie Benante | First album with Joey Belladonna since 1990's Persistence of Time |
 | For All Kings | 2016 | Charlie Benante |  |
 
+## Related Bands
+
+- [Metallica](https://metalforge.io/bands/metallica)
+- [Slayer](https://metalforge.io/bands/slayer)
+- [Megadeth](https://metalforge.io/bands/megadeth)
+- [Pantera](https://metalforge.io/bands/pantera)
+
 ## FAQ
 
 **Q: Who is the drummer for Anthrax?**
@@ -86,4 +93,4 @@ A: Yes. Anthrax's twelfth studio album, Cursum Perficio, is scheduled for releas
 
 **More resources:** [All bands](https://metalforge.io/llms/bands.md) · [Site index](https://metalforge.io/llms.txt)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

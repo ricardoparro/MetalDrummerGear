@@ -56,6 +56,10 @@ Angra, formed in 1991 in São Paulo, is Brazil's leading power/progressive metal
 | Ømni | 2018 | Bruno Valverde |  |
 | Cycles of Pain | 2023 | Bruno Valverde |  |
 
+## Related Bands
+
+- [Megadeth](https://metalforge.io/bands/megadeth)
+
 ## FAQ
 
 **Q: Who is the drummer for Angra?**
@@ -86,4 +90,4 @@ A: Guitarist Rafael Bittencourt is the band's only continuously-present original
 
 **More resources:** [All bands](https://metalforge.io/llms/bands.md) · [Site index](https://metalforge.io/llms.txt)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

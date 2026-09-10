@@ -69,6 +69,12 @@ Inferno's drumming — precise blast beats combined with tightly controlled doub
 | I Loved You at Your Darkest | 2018 | Inferno |  |
 | Opvs Contra Natvram | 2022 | Inferno | Released for the band's 30th anniversary |
 
+## Related Bands
+
+- [Nile](https://metalforge.io/bands/nile)
+- [Morbid Angel](https://metalforge.io/bands/morbid-angel)
+- [Vader](https://metalforge.io/bands/vader)
+
 ## FAQ
 
 **Q: Who is the drummer for Behemoth?**
@@ -100,4 +106,4 @@ A: The band's name derives from the biblical creature referenced in the Book of 
 
 **More resources:** [All bands](https://metalforge.io/llms/bands.md) · [Site index](https://metalforge.io/llms.txt)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

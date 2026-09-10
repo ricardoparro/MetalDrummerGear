@@ -61,6 +61,12 @@ Opeth, formed in 1990 in Stockholm, Sweden, pioneered a fusion of death metal an
 | In Cauda Venenum | 2019 | Martin Axenrot |  |
 | The Last Will and Testament | 2024 | Waltteri Vayrynen | First album with Väyrynen on drums |
 
+## Related Bands
+
+- [Gojira](https://metalforge.io/bands/gojira)
+- [Meshuggah](https://metalforge.io/bands/meshuggah)
+- [Tool](https://metalforge.io/bands/tool)
+
 ## FAQ
 
 **Q: Who is the drummer for Opeth?**
@@ -89,4 +95,4 @@ A: Lopez stopped performing with Opeth in August 2005 after suffering stress-rel
 
 **More resources:** [All bands](https://metalforge.io/llms/bands.md) · [Site index](https://metalforge.io/llms.txt)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

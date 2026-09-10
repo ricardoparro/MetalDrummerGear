@@ -160,6 +160,16 @@ function buildMarkdown(band) {
     parts.push('');
   }
 
+  if (Array.isArray(band.relatedBands) && band.relatedBands.length) {
+    parts.push('## Related Bands');
+    parts.push('');
+    band.relatedBands.forEach(slug => {
+      const related = bands[slug];
+      if (related) parts.push(`- [${related.name}](${BASE}/bands/${slug})`);
+    });
+    parts.push('');
+  }
+
   if (Array.isArray(band.faq) && band.faq.length > 0) {
     parts.push('## FAQ');
     parts.push('');

@@ -47,6 +47,12 @@ Pantera, formed in 1981, defined groove metal with Vinnie Paul's powerful drummi
 | The Great Southern Trendkill | 1996 | Vinnie Paul |  |
 | Reinventing the Steel | 2000 | Vinnie Paul | Final Pantera studio album |
 
+## Related Bands
+
+- [Damageplan](https://metalforge.io/bands/damageplan)
+- [Hellyeah](https://metalforge.io/bands/hellyeah)
+- [Anthrax](https://metalforge.io/bands/anthrax)
+
 ## FAQ
 
 **Q: Who is the drummer for Pantera?**
@@ -75,4 +81,4 @@ A: No. Pantera's first four albums (Metal Magic, Projects in the Jungle, I Am th
 
 **More resources:** [All bands](https://metalforge.io/llms/bands.md) · [Site index](https://metalforge.io/llms.txt)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

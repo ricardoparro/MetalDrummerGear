@@ -51,6 +51,11 @@ Hate Eternal, formed in 1997 in St. Petersburg, Florida, by guitarist/vocalist E
 | Infernus | 2015 | Chason Westmoreland |  |
 | Upon Desolate Sands | 2018 | Hannes Grossmann | Most recent studio album as of mid-2026 |
 
+## Related Bands
+
+- [Morbid Angel](https://metalforge.io/bands/morbid-angel)
+- [Nile](https://metalforge.io/bands/nile)
+
 ## FAQ
 
 **Q: Who is the drummer for Hate Eternal?**
@@ -81,4 +86,4 @@ A: The band has not released a new studio album since Upon Desolate Sands (2018)
 
 **More resources:** [All bands](https://metalforge.io/llms/bands.md) · [Site index](https://metalforge.io/llms.txt)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

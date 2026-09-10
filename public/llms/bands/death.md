@@ -70,6 +70,11 @@ Each drummer who passed through Death left a distinct mark on extreme metal drum
 | Symbolic | 1995 | Gene Hoglan |  |
 | The Sound of Perseverance | 1998 | Richard Christy | Final Death studio album |
 
+## Related Bands
+
+- [Morbid Angel](https://metalforge.io/bands/morbid-angel)
+- [Cynic](https://metalforge.io/bands/cynic)
+
 ## FAQ
 
 **Q: Who is the drummer for Death?**
@@ -97,4 +102,4 @@ A: Chuck Schuldiner was diagnosed with brain cancer (glioma) while working on hi
 
 **More resources:** [All bands](https://metalforge.io/llms/bands.md) · [Site index](https://metalforge.io/llms.txt)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

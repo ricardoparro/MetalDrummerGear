@@ -48,6 +48,12 @@ Mastodon, formed in 2000 in Atlanta, Georgia, blends sludge metal heaviness with
 | Hushed and Grim | 2021 | Brann Dailor |  |
 | Marrow Deep | 2026 | Brann Dailor | First album following the departure and death of founding guitarist Brent Hinds; features new guitarist Nick Johnston |
 
+## Related Bands
+
+- [Gojira](https://metalforge.io/bands/gojira)
+- [Lamb of God](https://metalforge.io/bands/lamb-of-god)
+- [Tool](https://metalforge.io/bands/tool)
+
 ## FAQ
 
 **Q: Who is the drummer for Mastodon?**
@@ -76,4 +82,4 @@ A: Mastodon blends progressive metal, sludge metal, and heavy metal, evolving fr
 
 **More resources:** [All bands](https://metalforge.io/llms/bands.md) · [Site index](https://metalforge.io/llms.txt)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

@@ -43,6 +43,10 @@ Tool, formed in 1990 in Los Angeles, is one of the most influential progressive 
 | 10,000 Days | 2006 | Danny Carey | Grammy: Best Recording Package |
 | Fear Inoculum | 2019 | Danny Carey | Grammy: Best Metal Performance |
 
+## Related Bands
+
+- [Volto!](https://metalforge.io/bands/volto)
+
 ## FAQ
 
 **Q: Who is the drummer for Tool?**
@@ -81,4 +85,4 @@ A: Five: Undertow (1993), AEnima (1996), Lateralus (2001), 10,000 Days (2006), a
 
 **More resources:** [All bands](https://metalforge.io/llms/bands.md) · [Site index](https://metalforge.io/llms.txt)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

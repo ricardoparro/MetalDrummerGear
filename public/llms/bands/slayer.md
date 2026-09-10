@@ -62,6 +62,13 @@ Dave Lombardo is widely credited with popularizing the modern double-bass "blast
 | World Painted Blood | 2009 | Dave Lombardo |  |
 | Repentless | 2015 | Paul Bostaph | Bostaph's return stint; Lombardo was fired in Feb 2013 before this album |
 
+## Related Bands
+
+- [Metallica](https://metalforge.io/bands/metallica)
+- [Megadeth](https://metalforge.io/bands/megadeth)
+- [Anthrax](https://metalforge.io/bands/anthrax)
+- [Testament](https://metalforge.io/bands/testament)
+
 ## FAQ
 
 **Q: Who is the drummer for Slayer?**
@@ -91,4 +98,4 @@ A: Paul Bostaph, formerly of Forbidden, replaced Lombardo directly in 1992, with
 
 **More resources:** [All bands](https://metalforge.io/llms/bands.md) · [Site index](https://metalforge.io/llms.txt)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

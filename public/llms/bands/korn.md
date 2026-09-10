@@ -68,6 +68,12 @@ David Silveria's drumming style — built on tight hi-hat work, syncopated groov
 | The Nothing | 2019 | Ray Luzier |  |
 | Requiem | 2022 | Ray Luzier |  |
 
+## Related Bands
+
+- [Limp Bizkit](https://metalforge.io/bands/limp-bizkit)
+- [Deftones](https://metalforge.io/bands/deftones)
+- [Slipknot](https://metalforge.io/bands/slipknot)
+
 ## FAQ
 
 **Q: Who is the drummer for Korn?**
@@ -97,4 +103,4 @@ A: Reginald 'Fieldy' Arvizu has been on hiatus from Korn since 2021 and stated i
 
 **More resources:** [All bands](https://metalforge.io/llms/bands.md) · [Site index](https://metalforge.io/llms.txt)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

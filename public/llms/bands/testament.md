@@ -67,6 +67,13 @@ Testament, formed in 1983 in Berkeley, California, is one of the most enduring b
 | Titans of Creation | 2020 | Gene Hoglan | Hoglan's last studio album with the band before his 2022 departure |
 | Para Bellum | 2025 | Chris Dovas | Dovas's first studio album with the band |
 
+## Related Bands
+
+- [Slayer](https://metalforge.io/bands/slayer)
+- [Megadeth](https://metalforge.io/bands/megadeth)
+- [Metallica](https://metalforge.io/bands/metallica)
+- [Anthrax](https://metalforge.io/bands/anthrax)
+
 ## FAQ
 
 **Q: Who is the drummer for Testament?**
@@ -96,4 +103,4 @@ A: Louie Clemente, the band's original drummer, played on The Legacy (1987), The
 
 **More resources:** [All bands](https://metalforge.io/llms/bands.md) · [Site index](https://metalforge.io/llms.txt)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

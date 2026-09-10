@@ -57,6 +57,11 @@ John Otto's jazz training set him apart from most of his nu-metal drumming peers
 | Gold Cobra | 2011 | John Otto |  |
 | Still Sucks | 2021 | John Otto |  |
 
+## Related Bands
+
+- [Korn](https://metalforge.io/bands/korn)
+- [Slipknot](https://metalforge.io/bands/slipknot)
+
 ## FAQ
 
 **Q: Who is the drummer for Limp Bizkit?**
@@ -84,4 +89,4 @@ A: Limp Bizkit formed in 1994 in Jacksonville, Florida, blending nu-metal and ra
 
 **More resources:** [All bands](https://metalforge.io/llms/bands.md) · [Site index](https://metalforge.io/llms.txt)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

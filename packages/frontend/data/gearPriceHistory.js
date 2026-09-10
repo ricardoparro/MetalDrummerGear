@@ -2270,7 +2270,7 @@ export const GEAR_PRICE_HISTORY = {
     albumReference: 'Wages of Sin (2001)',
     profileImage: '/images/drummers/daniel-erlandsson.webp',
 
-    summary: "Daniel Erlandsson's 2001 Pearl Masters Premium setup from Arch Enemy's Wages of Sin — the album that introduced Angela Gossow as vocalist and elevated Arch Enemy to international melodic death metal prominence. Erlandsson combined Pearl's professional-grade maple shells with Meinl cymbals to produce the precise, powerful foundation beneath Michael Amott's harmony guitar leads. His approach favoured clean attack and dynamic control over sheer brutality, making the Pearl Masters Premium's articulate tone an ideal match for melodic death metal's balance of aggression and melody. The setup established the sonic signature that Erlandsson would develop through Anthems of Rebellion, Doomsday Machine, and beyond.",
+    summary: "Daniel Erlandsson's 2001 Pearl Masters Premium setup from Arch Enemy's Wages of Sin — the album that introduced Angela Gossow as vocalist and elevated Arch Enemy to international melodic death metal prominence. Erlandsson combined Pearl's professional-grade maple shells with his longtime Sabian cymbal setup to produce the precise, powerful foundation beneath Michael Amott's harmony guitar leads. His approach favoured clean attack and dynamic control over sheer brutality, making the Pearl Masters Premium's articulate tone an ideal match for melodic death metal's balance of aggression and melody. The setup established the sonic signature that Erlandsson would develop through Anthems of Rebellion, Doomsday Machine, and beyond.",
 
     setup: {
       drums: {
@@ -2304,18 +2304,18 @@ export const GEAR_PRICE_HISTORY = {
         },
       },
       cymbals: {
-        item: 'Meinl Byzance Series',
-        model: 'Byzance Traditional mixed setup',
-        specs: '14" Byzance Traditional Hi-Hats, 16" Byzance Crash, 18" Byzance Crash, 20" Byzance Ride, 18" Byzance China',
+        item: 'Sabian AA/HH Series',
+        model: 'AA/HH mixed setup',
+        specs: '14" HH Hi-Hats, 16" AA Crash, 18" AA Crash, 20" HH Ride, 18" AA China',
         originalPrice: 1100,
         year: 2001,
-        source: 'Meinl Byzance MSRP 2001, estimated from catalog pricing',
-        notes: "Meinl Byzance cymbals were a defining element of Erlandsson's tone — their complex, dark B20 bronze character added richness without the clinical brightness of some American alternatives. The traditional hammering gave nuanced overtones that matched Arch Enemy's melodic sensibility.",
+        source: 'Sabian AA/HH MSRP 2001, estimated from catalog pricing',
+        notes: "Sabian AA/HH cymbals were a defining element of Erlandsson's tone — a setup he carried from his Eucharist years into Arch Enemy's breakthrough albums, later refined to AAX/HHX in 2014. The B20 bronze character added richness without the clinical brightness of some alternatives, matching Arch Enemy's melodic sensibility.",
         vintageValue2026: 700,
         modernEquivalent: {
-          item: 'Meinl Byzance Traditional Cymbal Set',
+          item: 'Sabian AA/HH Cymbal Set',
           price: 1800,
-          link: 'meinl-byzance-traditional',
+          link: 'sabian-aa-hh',
         },
       },
       hardware: {
@@ -2334,8 +2334,8 @@ export const GEAR_PRICE_HISTORY = {
         },
       },
       sticks: {
-        item: 'Vic Firth 5B Hickory',
-        model: 'American Classic 5B',
+        item: 'ProMark 5B Hickory',
+        model: 'ProMark 5B',
         specs: 'Hickory, wood tip',
         originalPrice: 8,
         year: 2001,
@@ -2343,9 +2343,9 @@ export const GEAR_PRICE_HISTORY = {
         notes: "The 5B weight gave Erlandsson the balance between mass for projection and control for fast single-stroke passages. A standard choice for melodic death metal drummers seeking volume without compromising speed.",
         vintageValue2026: null,
         modernEquivalent: {
-          item: 'Vic Firth 5B American Classic',
+          item: 'ProMark 5B',
           price: 14,
-          link: 'vic-firth-5b',
+          link: 'promark-5b',
         },
       },
       heads: {
@@ -2377,7 +2377,6 @@ export const GEAR_PRICE_HISTORY = {
       { year: 2003, price: 5400, label: 'Anthems era', event: 'Arch Enemy expands international touring' },
       { year: 2005, price: 5700, label: 'Doomsday Machine era', event: 'Arch Enemy enters mainstream metal' },
       { year: 2007, price: 6000, label: 'Rise of the Tyrant era', event: 'Arch Enemy reaches commercial peak' },
-      { year: 2011, price: 6800, label: 'Reference Pure switch', event: 'Erlandsson transitions to Pearl Reference Pure' },
       { year: 2020, price: 8200, label: 'Pandemic premium', event: 'Vintage Pearl Masters values rise' },
       { year: 2026, price: 9597, label: 'Current adjusted', event: 'Inflation-adjusted value' },
     ],

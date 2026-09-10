@@ -1,7 +1,7 @@
 # Paiste vs Sabian Cymbals for Metal — Side-by-Side Gear Comparison
 
 > MetalForge's side-by-side comparison of Paiste and Sabian cymbals used by pro metal drummers.
-> Last updated: 2026-09-09
+> Last updated: 2026-09-10
 
 Compare Paiste RUDE and Sabian HHX cymbals for metal. Swiss precision vs Canadian craftsmanship. See which cymbals cut through heavy guitars.
 
@@ -25,6 +25,7 @@ Sabian is particularly well-suited for: Progressive metal, studio recording.
 |---|---|---|
 | **Model** | RUDE Series | HHX Series |
 | **Price Range** | €1,800 - €2,400 | €1,900 - €2,500 |
+| **Rating** | 4.5/5 | 4.7/5 |
 | **Material** | CuSn8 Bronze | B20 Bronze |
 | **Finish** | Colored | Natural/Brilliant |
 | **Manufacturing** | Machine-made | Hand-hammered |

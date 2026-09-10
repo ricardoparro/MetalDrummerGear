@@ -1,7 +1,7 @@
 # Sonor vs DW Drums for Metal — Side-by-Side Gear Comparison
 
 > MetalForge's side-by-side comparison of Sonor and DW drums used by pro metal drummers.
-> Last updated: 2026-09-09
+> Last updated: 2026-09-10
 
 Compare Sonor SQ2 and DW Collector's drums for metal. German engineering vs American craftsmanship. The ultimate premium drum kit battle.
 
@@ -25,6 +25,7 @@ DW is particularly well-suited for: Modern metal, fusion, djent.
 |---|---|---|
 | **Model** | SQ2 Heavy Beech | Collector's Series Maple |
 | **Price Range** | €5,000 - €7,000 | €4,500 - €6,500 |
+| **Rating** | 4.9/5 | 4.8/5 |
 | **Shells** | Heavy Beech | North American Maple |
 | **Plies** | 9mm (7-ply) | HVX Technology |
 | **Hoops** | Die-Cast | True Hoop |

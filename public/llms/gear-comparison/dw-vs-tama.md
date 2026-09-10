@@ -1,7 +1,7 @@
 # DW vs Tama Drums for Metal — Side-by-Side Gear Comparison
 
 > MetalForge's side-by-side comparison of DW and Tama drums used by pro metal drummers.
-> Last updated: 2026-09-09
+> Last updated: 2026-09-10
 
 Compare DW Collector's Series and Tama Starclassic drums for metal. See specs, pricing, pro endorsements, and which premium kit suits your playing style.
 
@@ -25,6 +25,7 @@ Tama is particularly well-suited for: Thrash metal, groove metal, progressive me
 |---|---|---|
 | **Model** | Collector's Series Maple | Starclassic Maple |
 | **Price Range** | €4,500 - €6,500 | €3,200 - €4,300 |
+| **Rating** | 4.8/5 | 4.8/5 |
 | **Shells** | North American Maple | North American Maple |
 | **Plies** | HVX Technology | 6-ply (7.5mm) |
 | **Hoops** | True Hoop | Die-Cast |

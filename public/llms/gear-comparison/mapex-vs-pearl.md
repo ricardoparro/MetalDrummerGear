@@ -1,7 +1,7 @@
 # Mapex vs Pearl Drums for Metal — Side-by-Side Gear Comparison
 
 > MetalForge's side-by-side comparison of Mapex and Pearl drums used by pro metal drummers.
-> Last updated: 2026-09-09
+> Last updated: 2026-09-10
 
 Compare Mapex Saturn V and Pearl Masters Maple Complete drums for metal. See specs, pricing, pro endorsements, and which mid-tier kit suits your playing style.
 
@@ -25,6 +25,7 @@ Pearl is particularly well-suited for: Death metal, technical death metal, progr
 |---|---|---|
 | **Model** | Saturn V | Masters Maple Complete |
 | **Price Range** | €2,200 - €3,000 | €2,600 - €3,400 |
+| **Rating** | 4.5/5 | 4.7/5 |
 | **Shells** | SONIClear Maple/Walnut hybrid | Maple |
 | **Plies** | 7-ply (6mm) | SST (Superior Shell Technology) |
 | **Hoops** | SONIClear | MasterCast |

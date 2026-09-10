@@ -1,7 +1,7 @@
 # Tama vs Pearl Bass Drum Pedals for Metal — Side-by-Side Gear Comparison
 
 > MetalForge's side-by-side comparison of Tama and Pearl bass drum pedals used by pro metal drummers.
-> Last updated: 2026-09-09
+> Last updated: 2026-09-10
 
 Compare Tama Iron Cobra 900 and Pearl Demon Drive double bass pedals. Speed, feel, durability, and which pedal top metal drummers choose.
 
@@ -25,6 +25,7 @@ Pearl is particularly well-suited for: Death metal, extreme speed, technical pla
 |---|---|---|
 | **Model** | Iron Cobra 900 Power Glide | Demon Drive |
 | **Price Range** | €400 - €500 | €500 - €600 |
+| **Rating** | 4.7/5 | 4.8/5 |
 | **Cam Type** | Power Glide | Interchangeable |
 | **Beater Type** | Dual-surface (felt/plastic) | Demon Beater (switchable) |
 | **Footboard** | Speed Cobra-style | PowerShifter Long Board |

@@ -1,7 +1,7 @@
 # Ludwig vs Tama Drums for Metal — Side-by-Side Gear Comparison
 
 > MetalForge's side-by-side comparison of Ludwig and Tama drums used by pro metal drummers.
-> Last updated: 2026-09-09
+> Last updated: 2026-09-10
 
 Compare Ludwig Classic Maple and Tama Starclassic drums for metal. Vintage American craftsmanship vs modern metal-tuned attack, pricing, specs, and pro endorsements.
 
@@ -23,6 +23,7 @@ Tama is particularly well-suited for: Thrash metal, groove metal, progressive me
 |---|---|---|
 | **Model** | Classic Maple | Starclassic Maple |
 | **Price Range** | €2,600 - €3,600 | €3,200 - €4,300 |
+| **Rating** | 4.3/5 | 4.8/5 |
 | **Shells** | 3-Ply Maple (Classic Maple) | North American Maple |
 | **Plies** | 3-ply w/ Reinforcement Rings | 6-ply (7.5mm) |
 | **Hoops** | Triple-Flanged Steel | Die-Cast |

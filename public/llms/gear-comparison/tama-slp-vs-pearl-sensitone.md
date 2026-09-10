@@ -1,7 +1,7 @@
 # Tama vs Pearl Snare Drums for Metal — Side-by-Side Gear Comparison
 
 > MetalForge's side-by-side comparison of Tama and Pearl snare drums used by pro metal drummers.
-> Last updated: 2026-09-09
+> Last updated: 2026-09-10
 
 Compare Tama SLP and Pearl Sensitone snare drums for metal. Steel vs bronze, crack vs warmth. Find your perfect metal snare sound.
 
@@ -25,6 +25,7 @@ Pearl is particularly well-suited for: Death metal, progressive metal.
 |---|---|---|
 | **Model** | SLP Steel | Sensitone Elite Bronze |
 | **Price Range** | €350 - €450 | €300 - €400 |
+| **Rating** | 4.6/5 | 4.5/5 |
 | **Material** | 1.2mm Steel | 1.5mm Bronze |
 | **Size** | 14x6.5" | 14x6.5" |
 | **Hoops** | Die-Cast | Triple-flange |

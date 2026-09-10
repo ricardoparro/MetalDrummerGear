@@ -1,7 +1,7 @@
 # Meinl vs Zildjian Cymbals for Metal — Side-by-Side Gear Comparison
 
 > MetalForge's side-by-side comparison of Meinl and Zildjian cymbals used by pro metal drummers.
-> Last updated: 2026-09-09
+> Last updated: 2026-09-10
 
 Meinl Byzance vs Zildjian A Custom for metal drumming. Compare dark vs bright tones, pricing, and which cymbals pro metal drummers prefer.
 
@@ -25,6 +25,7 @@ Zildjian is particularly well-suited for: Thrash metal, classic metal, nu-metal.
 |---|---|---|
 | **Model** | Byzance Series | A Custom Series |
 | **Price Range** | €2,000 - €3,000 | €1,800 - €2,600 |
+| **Rating** | 4.9/5 | 4.6/5 |
 | **Material** | B20 Bronze | B20 Bronze |
 | **Finish** | Traditional/Brilliant/Extra Dry | Brilliant |
 | **Manufacturing** | Hand-hammered | Machine-hammered |

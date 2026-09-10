@@ -175,6 +175,7 @@ function renderGearComparison(c) {
   lines.push('|---|---|---|');
   if (model1 || model2) lines.push(`| **Model** | ${model1 || '—'} | ${model2 || '—'} |`);
   if (price1 || price2) lines.push(`| **Price Range** | ${price1 || '—'} | ${price2 || '—'} |`);
+  if (item1.rating || item2.rating) lines.push(`| **Rating** | ${item1.rating ? item1.rating + '/5' : '—'} | ${item2.rating ? item2.rating + '/5' : '—'} |`);
   if (item1.specs && item2.specs) {
     for (const key of Object.keys(item1.specs)) {
       const label = key.charAt(0).toUpperCase() + key.slice(1).replace(/([A-Z])/g, ' $1');

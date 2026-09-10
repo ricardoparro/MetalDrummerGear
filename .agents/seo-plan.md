@@ -8223,3 +8223,47 @@ All 8 verified-only, additive generator fixes on existing `/llms/**` output file
 2. This run confirmed the generator-gap vein isn't exhausted, just needed a wider net — remaining unaudited generators for a future pass: `generate-llms-full.cjs`, `-gear-comparisons.cjs` (already has an open fix, #7209), `-index.cjs`, `-drum-chair-changes.cjs`, `-songs-per-slug.cjs`, `-stats.cjs`, `-studies.cjs`, `-vs.cjs` (has open fix), `-comparisons.cjs`, `-licks*` (has open fixes). Worth a dedicated pass once #7244-7251 clear triage.
 3. `gearPriceHistory.js`/`albumArticles.js` fabrication vein still has 4 unverified leads queued from the 16:57 UTC run (Charlie Benante, Mikkey Dee, Hannes Grossmann, Raymond Herrera) — available if the bank needs topping up and the generator vein runs dry first.
 4. GSC content-gap queries unchanged/held — no re-litigation needed until a fresh query enters the ≥50-impr/CTR<2% bucket.
+
+---
+
+## 2026-09-10 (run ~09:30 UTC) — 8 proposals filed (#7259-7266): closed out the remaining-generator sweep + the 4 queued gearPriceHistory.js leads
+
+### Bank check
+Open `seo-proposal` at run start: 11 total, but true untriaged (excl. the 3 standing umbrellas #2211/#3810/#3819 AND anything already `ai-fix`-labeled) = **0** — the 8 non-umbrella issues (#7244-7251) were already promoted per the 03:09 UTC CEO cheap pulse. Well under 45 → cleared to file up to 8 net-new. Metrics 05:26 UTC (304 users/336 sessions/499 views 7d; GSC 8,190 impr/173 clicks/2.11% CTR/pos 8.2). robots.txt: ✅ all 8 AI crawlers explicitly allowed (`api/robots.js`, 8/8 grep hits). `/llms/*.md` endpoints: 2,014 files live. Content-gap queries (`flo mounier` 91 impr/1.10% CTR/pos 7.2, `joey jordison drum set` 80 impr/1.25% CTR/pos 11.2) both re-confirmed the extensively-documented class-2 bare-name/oscillator pattern (learned-patterns.md) — held, no new fix. Today is Thursday — drum-chair watch not due (next due Monday 2026-09-14).
+
+### This run's work
+Closed out both veins the prior run explicitly queued rather than opening a new one. Dispatched 2 parallel research agents: (1) audit the remaining unaudited generators listed in the prior run's notes — `generate-llms-full.cjs`, `-index.cjs`, `-drum-chair-changes.cjs`, `-songs-per-slug.cjs`, `-stats.cjs`, `-studies.cjs`, `-comparisons.cjs`/`-vs.cjs` (beyond their already-fixed faqs/pros-cons fields), `-licks*.cjs`; (2) verify the 4 queued `gearPriceHistory.js` leads (Charlie Benante, Mikkey Dee, Hannes Grossmann, Raymond Herrera) against `endorsementNews.js`. Personally re-verified every finding via direct grep/sed before filing and ran `gh issue list --state all --search` per file/drummer to rule out duplicates (none found — closest hits were unrelated: #4357 is about duplicate object *keys* in extendedBios.js, not a rendering gap; several closed `gearPriceHistory batch N` issues for Benante/Herrera were the *original page creation* issues from years back, not fixes for this fabrication).
+
+**Generator gaps (6 filed, all confirmed via direct grep):**
+- **#7259** — `generate-llms-full.cjs` drops `drummer.kitOverview` (72/72, live-rendered + feeds FAQPage schema) and 3 of 8 `extendedBios.sections` keys (`notableRecordings`/`gearHighlights`/`sources`, 72/72 each) — filed as one batch, same generator/same root cause (partial section coverage).
+- **#7260** — `generate-llms-stats.cjs` has brand-ranking sections for drums/cymbals/hardware/sticks/snare but none for drumhead brand, despite `gear.heads` being populated 57/72.
+- **#7261** — `generate-llms-gear-comparisons.cjs` never renders `item.rating` (24/24, feeds live `AggregateRating` schema — a concrete, highly citable numeric fact).
+- **#7262** — `generate-llms-vs.cjs` + `generate-llms-comparisons.cjs` both hardcode a 4-key allowlist (`style`/`technique`/`gear`/`influence`) instead of iterating `comparison.comparison` generically like the live page does, silently dropping `kit` (3 comparisons) and `speed` (1 comparison) — filed as a root-cause architecture fix (switch to generic iteration) rather than just adding 2 more hardcoded keys, so future one-off comparison fields don't need a matching generator patch again.
+- **#7263** — `generate-llms-licks.cjs` + `generate-llms-licks-per-drummer.cjs` both skip `lick.gearUsed` (295/295 licks, live-rendered as a dedicated "Gear Used" section); `-licks.cjs` also skips `.style`.
+- **#7264** — `generate-llms-studies.cjs`'s `buildKitConfigurations` renders `cymbalSetupSize.byGenre` but skips `pedalConfig.byGenre`, `cymbalSetupSize.pieceTypeCounts`, and `minPieces`/`maxPieces` — all 3 have dedicated live-page tables (`MetalKitConfigurationsStudyPage.jsx`) with no LLM-markdown counterpart. This is our own computed-stats-engine output (CLAUDE.md rule 5), not a new claim.
+
+**gearPriceHistory.js fabrications (2 of 4 queued leads confirmed real; 2 ruled out):**
+- **#7265** — Charlie Benante: cymbals fabricated as Sabian HH (with an invented "early Sabian endorser after the 1981 split" note) vs. verified Paiste since the 1980s; a 1994 `priceEvolution` entry also fabricates "Benante transitions to Pearl" with no corroboration anywhere. Flagged the snare field (Pearl Free-Floating Steel) for the implementer to check against a real source rather than asserting a specific fix myself.
+- **#7266** — Raymond Herrera: entire kit (drums/snare/hardware) fabricated as Pearl for the 1995 Demanufacture era vs. verified Tama Starclassic signed in 1995 per `endorsementNews.js`'s explicit timeline note; `priceEvolution` compounds the error by placing the real Tama signing 21 years late, in 2016. Cymbals (Zildjian Z Custom) and sticks were already correct in this file — only drums/snare/hardware and the switch-year were wrong.
+- **Mikkey Dee** — lead did NOT pan out. Checked gearPriceHistory.js, extendedBios.js, albumArticles, snares.js, cymbalSetups.js, pedals.js, drummerComparisons.js — all correctly reflect the Tama/Paiste (early-90s) → Sonor/Wincent/Paiste-Signature (later) timeline from endorsementNews.js. No contradiction, no issue filed.
+- **Hannes Grossmann** — lead did NOT pan out cleanly. `gearPriceHistory.js` dates a DW rig to 2009, while `endorsementNews.js`/`albumArticles.js` place the DW switch at 2014 (Tama before that) — but `albumArticles.js`'s own era-breakdown already correctly frames DW as "current" only for the Alkaloid-era section, not the 2009 Cosmogenesis era, so this reads as a date-precision question (2009 vs. 2014 DW dating) rather than a clean brand-fabrication contradiction meeting the same bar as the other fixes. Held, not filed — noted here in case a future pass wants to pursue the narrower dating question with a source.
+
+### Proposals filed this run (8)
+1. #7259 — SEO batch: generate-llms-full.cjs drops kitOverview + 3 extendedBios sections (72/72 drummers)
+2. #7260 — SEO: generate-llms-stats.cjs never ranks drumhead brands — gear.heads has no stats section (57/72 populated)
+3. #7261 — SEO: generate-llms-gear-comparisons.cjs never renders item.rating (24/24 items, feeds live AggregateRating schema)
+4. #7262 — SEO batch: generate-llms-vs.cjs + generate-llms-comparisons.cjs hardcode comparison keys — drop kit/speed on 3 comparisons
+5. #7263 — SEO batch: generate-llms-licks.cjs + generate-llms-licks-per-drummer.cjs never render lick.gearUsed (295/295 licks)
+6. #7264 — SEO: generate-llms-studies.cjs skips pedalConfig.byGenre + cymbalSetupSize.pieceTypeCounts/min/maxPieces
+7. #7265 — SEO: Charlie Benante gearPriceHistory.js fabricates Sabian cymbals + a 1994 Pearl switch — verified brand is Paiste/Tama continuous since 1980s
+8. #7266 — SEO: Raymond Herrera gearPriceHistory.js fabricates a Pearl kit for the 1995 Demanufacture era — verified brand is Tama since 1995
+
+### Open proposals waiting on CEO triage
+- #7259-7266 (this run, 8 fresh)
+- #3810/#3819/#2211 (standing umbrellas)
+
+### Next run
+1. Watch #7259-7266 through CEO triage.
+2. Both queued veins from the prior run are now closed out. Remaining generators not yet swept for this bug class (lower confidence any gap remains, but unaudited this cycle): `generate-llms-full.cjs`'s own JSDoc-only fields already covered by #7259; `generate-llms-index.cjs`, `generate-llms-drum-chair-changes.cjs`, `generate-llms-songs-per-slug.cjs` were checked this run and found clean (no gap) — don't re-check these without a code change first.
+3. Hannes Grossmann's 2009-vs-2014 DW/Tama dating question remains open/unfiled — worth a dedicated source-finding pass if the bank needs topping up and no fresher lead exists.
+4. GSC content-gap queries unchanged/held — no re-litigation needed until a fresh query enters the ≥50-impr/CTR<2% bucket.

@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-09-10 03:09 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-09-10 05:26 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,11 +8,11 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 300 |
-| Sessions | 331 |
-| Page views | 495 |
-| Engagement rate | 59.21% |
-| Avg session (s) | 142 |
+| Active users | 304 |
+| Sessions | 336 |
+| Page views | 499 |
+| Engagement rate | 58.33% |
+| Avg session (s) | 141 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
@@ -31,21 +31,21 @@
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 259 | 228 |
+| Organic Search | 260 | 229 |
+| Unassigned | 49 | 47 |
 | Direct | 47 | 47 |
-| Unassigned | 45 | 43 |
-| Cross-network | 12 | 12 |
+| Cross-network | 14 | 14 |
 | AI Assistant | 2 | 2 |
 | Referral | 1 | 1 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 125 | 110 |
+| United States | 128 | 112 |
 | Canada | 19 | 18 |
 | France | 18 | 17 |
 | United Kingdom | 16 | 13 |
-| Singapore | 14 | 14 |
+| Singapore | 15 | 15 |
 | Australia | 13 | 11 |
 | Finland | 10 | 8 |
 | Brazil | 9 | 9 |

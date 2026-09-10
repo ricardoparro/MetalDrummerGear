@@ -2130,7 +2130,7 @@ export const GEAR_PRICE_HISTORY = {
     albumReference: 'Ashes of the Wake (2004)',
     profileImage: '/images/drummers/chris-adler.webp',
 
-    summary: "Chris Adler's 2004 Mapex Deep Forest setup from Lamb of God's Ashes of the Wake — the album that cemented LoG as leaders of the New Wave of American Heavy Metal. Adler debuted his new Mapex endorsement on this record, pairing an all-walnut Deep Forest shell pack with Zildjian A Custom cymbals and a Mapex Falcon double pedal to produce the precise, powerful groove that defined modern American groove metal drumming. The Deep Forest's walnut shells delivered a focused mid-range punch with fast attack, ideal for the tight polyrhythmic patterns and explosive double-kick runs throughout the album. This setup's blend of premium hardware and pro-grade consistency helped Adler earn a reputation as one of the most technically precise groove metal drummers of his generation.",
+    summary: "Chris Adler's 2004 Mapex Deep Forest setup from Lamb of God's Ashes of the Wake — the album that cemented LoG as leaders of the New Wave of American Heavy Metal. Adler debuted his new Mapex endorsement on this record, pairing an all-walnut Deep Forest shell pack with Meinl Byzance cymbals and a Mapex Falcon double pedal to produce the precise, powerful groove that defined modern American groove metal drumming. The Deep Forest's walnut shells delivered a focused mid-range punch with fast attack, ideal for the tight polyrhythmic patterns and explosive double-kick runs throughout the album. This setup's blend of premium hardware and pro-grade consistency helped Adler earn a reputation as one of the most technically precise groove metal drummers of his generation.",
 
     setup: {
       drums: {
@@ -2164,18 +2164,18 @@ export const GEAR_PRICE_HISTORY = {
         },
       },
       cymbals: {
-        item: 'Zildjian A Custom Series',
-        model: 'Mixed A Custom setup',
-        specs: '14" A Custom Hi-Hats, 16" A Custom Crash, 18" A Custom Crash, 20" A Custom Ride',
+        item: 'Meinl Byzance Series',
+        model: 'Mixed Byzance & Pure Alloy setup',
+        specs: '14" Byzance Hi-Hats, 16" Byzance Crash, 18" Byzance Crash, 20" Byzance Ride',
         originalPrice: 1100,
         year: 2004,
-        source: 'Zildjian A Custom MSRP 2004 catalog pricing',
-        notes: "Zildjian A Custom cymbals balanced brightness and complexity — their thin, responsive feel suited Adler's fast hi-hat work and explosive crash accents throughout Ashes of the Wake's dynamic range.",
+        source: 'Meinl Byzance MSRP 2004, estimated from catalog pricing',
+        notes: "Meinl Byzance cymbals gave Adler a dark, complex B20 bronze tonality that cut through Lamb of God's dense guitar layers without piercing brightness — a hallmark of his Meinl endorsement throughout the Ashes of the Wake era.",
         vintageValue2026: 750,
         modernEquivalent: {
-          item: 'Zildjian A Custom Box Set',
+          item: 'Meinl Byzance Dark Cymbal Set',
           price: 1600,
-          link: 'zildjian-a-custom-box',
+          link: 'meinl-byzance-dark',
         },
       },
       hardware: {
@@ -2236,7 +2236,7 @@ export const GEAR_PRICE_HISTORY = {
       { year: 2004, price: 6798, label: 'Original Purchase', event: 'Ashes of the Wake recording' },
       { year: 2006, price: 7200, label: 'Sacrament era', event: 'Lamb of God wins Grammy nomination' },
       { year: 2009, price: 7800, label: 'Wrath era', event: 'LoG headlining arena tours' },
-      { year: 2012, price: 8400, label: 'Pearl endorsement', event: 'Adler transitions to Pearl Reference Pure' },
+      { year: 2012, price: 8400, label: 'Mapex Saturn era', event: 'Adler continues Mapex endorsement into the Saturn signature series' },
       { year: 2015, price: 9000, label: 'VII era', event: 'LoG reaches commercial peak' },
       { year: 2020, price: 10500, label: 'Pandemic premium', event: 'Vintage Mapex Deep Forest values rise' },
       { year: 2026, price: 11788, label: 'Current adjusted', event: 'Inflation-adjusted value' },

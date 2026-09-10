@@ -1706,7 +1706,7 @@ export const GEAR_PRICE_HISTORY = {
     albumReference: 'Cowboys from Hell (1990)',
     profileImage: '/images/drummers/vinnie-paul.webp',
 
-    summary: "Vinnie Paul Abbott's 1990 Cowboys from Hell setup — the kit that launched Pantera into the mainstream metal consciousness and defined the groove metal drum sound for the decade. Paul played a Tama drum kit — signed specifically for the Cowboys from Hell album cycle — with Sabian cymbals and a DW double pedal, delivering the thunderous, pocket-locked groove that underpinned Dimebag Darrell's guitar work. The setup cost approximately $2,728 in 1990 dollars — equivalent to about $6,840 in 2026. By Far Beyond Driven (1994), Paul had transitioned to a Pearl Custom Series configuration with expanded hardware, remaining on Pearl through the Damage Plan era. By 2008, forming Hellyeah, he had signed with ddrum, which developed his Vinnie Paul Signature Series kit. Each phase of this gear evolution represents both Paul's growing commercial success and clear inflationary trends in professional drum equipment across the decade. Vinnie Paul's playing has been cited by drummers including Dave Grohl and Chad Smith as a defining influence on power groove drumming — his combination of tight backbeats and explosive fills remains one of the most studied approaches in heavy metal.",
+    summary: "Vinnie Paul Abbott's 1990 Cowboys from Hell setup — the kit that launched Pantera into the mainstream metal consciousness and defined the groove metal drum sound for the decade. Paul played a Tama drum kit — signed specifically for the Cowboys from Hell album cycle — with Sabian cymbals and a DW double pedal, delivering the thunderous, pocket-locked groove that underpinned Dimebag Darrell's guitar work. The setup cost approximately $2,728 in 1990 dollars — equivalent to about $6,840 in 2026. Paul remained on Tama through Far Beyond Driven (1994), then transitioned to a Pearl Custom Series configuration with expanded hardware in 1996, spanning The Great Southern Trendkill and Reinventing the Steel, and remaining on Pearl through the Damage Plan era. By 2008, forming Hellyeah, he had signed with ddrum, which developed his Vinnie Paul Signature Series kit. Each phase of this gear evolution represents both Paul's growing commercial success and clear inflationary trends in professional drum equipment across the decade. Vinnie Paul's playing has been cited by drummers including Dave Grohl and Chad Smith as a defining influence on power groove drumming — his combination of tight backbeats and explosive fills remains one of the most studied approaches in heavy metal.",
 
     setup: {
       drums: {
@@ -1811,7 +1811,8 @@ export const GEAR_PRICE_HISTORY = {
     priceEvolution: [
       { year: 1990, price: 2728, label: 'Original Purchase', event: 'Cowboys from Hell recording' },
       { year: 1992, price: 2900, label: 'Vulgar Display era', event: 'Pantera reaches mainstream peak' },
-      { year: 1994, price: 3800, label: 'Far Beyond Driven', event: 'Paul upgrades to Pearl Custom' },
+      { year: 1994, price: 3200, label: 'Far Beyond Driven', event: 'Paul continues on Tama' },
+      { year: 1996, price: 3800, label: 'The Great Southern Trendkill', event: 'Paul switches to Pearl Custom' },
       { year: 2000, price: 5200, label: 'Reinventing the Steel', event: 'Pantera final studio album' },
       { year: 2004, price: 5800, label: 'Damage Plan era', event: 'Paul remains on Pearl' },
       { year: 2018, price: 8500, label: 'Legacy premium', event: 'Vinnie Paul passes away; collector interest spikes' },

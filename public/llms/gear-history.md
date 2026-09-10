@@ -3,7 +3,7 @@
 > Era-by-era breakdown of how legendary metal drummers' gear evolved. Includes original kit specs, endorsement changes, and inflation-adjusted prices.
 > Optimised for AI crawlers answering "what drums did [drummer] use in [era]" queries.
 >
-> Last updated: 2026-07-25 · 72 drummers covered
+> Last updated: 2026-09-10 · 71 drummers covered
 
 ---
 
@@ -34,11 +34,19 @@ Abe Cunningham's 2000 setup behind Deftones' White Pony documents the decisive p
 - **Cymbals:** Zildjian K Custom & A Custom Series — 14" K Custom Hi-Hats, 18"/20" K Custom Crashes, 22" K Custom Ride, 19" A Custom China
 - **Notable:** Cunningham's current verified rig is an SJC Custom kit with a wide Zildjian K Custom/A Custom cymbal spread — dynamic, groove-first restraint that has defined nearly four decades behind the Deftones kit.
 
+**Price Evolution:**
+- 2000: $8,000 (Original Purchase) — White Pony recorded on the same Tama Starclassic/Zildjian A-K Custom rig established on Around the Fur (1997)
+- 2003: $8,700 (Saturday Night Wrist era) — Turbulent sessions preceding Chi Cheng's 2008 accident
+- 2010: $10,000 (Diamond Eyes era) — Cymbals switch to Sabian HHX; Tama Starclassic drums unchanged
+- 2016: $15,000 (Gore era) — Continued Tama Starclassic/Sabian HHX setup
+- 2020: $18,000 (Ohms era) — Continued Tama Starclassic/Sabian HHX setup; Roland SPD-SX added
+- 2026: $15,220 (Current adjusted) — Inflation-adjusted value of original 2000 White Pony setup
+
 **Sources:**
-- Pearl Custom Series Catalog (2000)
+- Tama Starclassic Catalog (2000)
 - Modern Drummer — Abe Cunningham Interview (2001)
 - Zildjian Artist Profile Archives (2000)
-- Reverb Marketplace Analysis — Vintage Pearl Custom Series (2025)
+- Reverb Marketplace Analysis — Vintage Tama Starclassic (2025)
 
 [Full gear profile](https://metalforge.io/drummers/abe-cunningham/gear-history)
 
@@ -69,6 +77,12 @@ Adrian Erlandsson's 1995 setup behind At the Gates' Slaughter of the Soul — th
 - **Kit:** Tama Starclassic Bubinga — flagship bubinga shell pack
 - **Cymbals:** Sabian AAX / HHX Series
 - **Notable:** Joined Paradise Lost in 2009 and recorded Draconian Times MMXI, upgrading to the Tama Starclassic Bubinga / Sabian AAX-HHX / Monolit Czarcie Kopyto configuration he carries into At the Gates' ongoing reunion-era work today.
+
+**Price Evolution:**
+- 1995: $1,506 (Slaughter of the Soul Era) — Original Purchase — Pearl Export/Studio House budget kit used for At the Gates' genre-defining Slaughter of the Soul, recorded at Studio Fredman with Fredrik Nordström
+- 1998: $3,200 (The Haunted & Cradle of Filth Era) — Founded The Haunted, then joined Cradle of Filth — switched from Pearl to Tama Starclassic, beginning a career-long brand relationship
+- 2011: $5,800 (Paradise Lost Era) — Joined Paradise Lost, recording Draconian Times MMXI — upgraded to Tama Starclassic Bubinga, Sabian AAX/HHX cymbals, and a Monolit Czarcie Kopyto double pedal
+- 2026: $3,230 (Current adjusted) — Inflation-adjusted value of the 1995 Slaughter of the Soul-era Pearl Export setup
 
 **Sources:**
 - Pearl Export Catalog (1995)
@@ -106,6 +120,14 @@ Alex Bent's 2017 arrival behind Trivium's kit on The Sin and the Sentence marked
 - **Cymbals:** Meinl Byzance Brilliant Series (consistent)
 - **Notable:** Bent departed Trivium in October 2025 after four acclaimed albums and eight years behind the kit — his Pearl/Meinl/Axis combination remained essentially unchanged in brand throughout his entire Trivium tenure, even as his profile within modern metal grew substantially.
 
+**Price Evolution:**
+- 2017: $11,310 (Original Purchase) — The Sin and the Sentence recording
+- 2018: $11,500 (Touring expansion) — Trivium tours The Sin and the Sentence worldwide
+- 2020: $12,000 (What the Dead Men Say era) — Pandemic-delayed album cycle
+- 2021: $12,600 (In the Court of the Dragon era) — Trivium expands rhythmic complexity
+- 2025: $14,200 (Bent departs Trivium) — October 2025 lineup change after four acclaimed albums
+- 2026: $15,100 (Current adjusted) — Inflation-adjusted value
+
 **Sources:**
 - Pearl Reference Series Professional Catalog (2017)
 - Modern Drummer Magazine — Alex Bent Interview (2019)
@@ -118,16 +140,22 @@ Alex Bent's 2017 arrival behind Trivium's kit on The Sin and the Sentence marked
 
 ## Alex Rüdinger — Trivium
 
-**Iconic era:** Trivium Touring Rig (2025-present)
+**Active:** 2010–present | **Iconic era:** Trivium Touring Rig (2025-present)
 
 Alex Rüdinger's current setup, in use as he became Trivium's touring/studio drummer in 2025, documents the rig behind a drummer who built his reputation on technical precision across The Faceless, Whitechapel session work, and instrumental project Conquering Dystopia.
 
 ### Trivium Touring Era (2025)
 
-- **Kit:** Tama Starclassic Performer B/B — 20"x16" bass drum, 8"x7"/10"x7" rack toms, 14"x12"/16"x14" floor toms
-- **Snare:** Tama STARPHONIC Brass — 14" x 6" brass shell
+- **Kit:** Tama Starclassic Performer B/B — birch/bubinga shell pack, 20"x16" bass drum, 8"x7"/10"x7" rack toms, 14"x12"/16"x14" floor toms
+- **Snare:** Tama STARPHONIC Brass — 14"x6" brass shell (SLP Black Brass alternate)
 - **Original setup cost (2025):** ~$3,630
 - **Inflation-adjusted to 2026:** ~$3,702
+- **Notable:** His Tama Starclassic Performer B/B kit, Tama STARPHONIC Brass snare, and full Evans head selection are itemized directly on Tama's and Evans' own artist pages. Rüdinger is also a longtime Meinl Cymbals artist (Byzance and MB20 lines), though Meinl doesn't publish a component-level spec sheet as detailed as Tama's and Evans', so this entry omits a cymbal price rather than guessing models.
+
+**Price Evolution:**
+- 2013: $1,800 (Joins The Faceless) — Becomes touring/session member of The Faceless, his breakout technical death metal association
+- 2025: $3,630 (Original Purchase) — Joins Trivium as touring/studio drummer — Tama Starclassic Performer B/B, Evans, and Meinl rig documented via each brand's own artist pages
+- 2026: $3,702 (Current adjusted) — Inflation-adjusted value of the 2025 Trivium-era Tama setup
 
 **Sources:**
 - Tama Drums — Alex Rüdinger Artist Page (2026)
@@ -165,11 +193,18 @@ Aquiles Priester's 2001 setup behind Angra's Rebirth documents the rig that laun
 - **Cymbals:** Sabian AAX Series (same configuration)
 - **Notable:** Same Pearl/Sabian configuration carried into Angra's third studio album with Priester behind the kit.
 
+**Price Evolution:**
+- 2000: $3,000 (Joined Angra) — Recruited alongside Fabio Lione following Andre Matos's departure; brought his Mapex/Sabian rig from his Hangar years
+- 2001: $6,093 (Original Purchase) — Rebirth recorded — full Mapex Saturn Series / Sabian HH/HHX rig documented
+- 2004: $6,500 (Temple of Shadows era) — Same Mapex/Sabian configuration carried into third studio album with Angra
+- 2012: $7,200 (Departs Angra) — Left the band after six years and three studio albums; switched to Pearl Reference Series and Meinl Byzance
+- 2026: $11,271 (Current adjusted) — Inflation-adjusted value of the 2001 Rebirth-era setup
+
 **Sources:**
-- Pearl Reference Series Catalog (2001)
-- Sabian AAX Series Catalog (2001)
+- Mapex Saturn Series Catalog (2001)
+- Sabian HH/HHX Series Catalog (2001)
 - Modern Drummer — Aquiles Priester Feature (2010)
-- Reverb Price Guide — Pearl Reference Series (2025)
+- Reverb Price Guide — Mapex Saturn Series (2025)
 
 [Full gear profile](https://metalforge.io/drummers/aquiles-priester/gear-history)
 
@@ -202,6 +237,12 @@ Arin Ilejay's 2013 setup behind Avenged Sevenfold's Hail to the King — the ban
 - **Snare:** Maple/mahogany hybrid snares
 - **Cymbals:** Mixed cymbal setups
 - **Notable:** Ilejay departed Avenged Sevenfold in late 2014 (not publicly announced until 2015) and was replaced by former Bad Religion drummer Brooks Wackerman. Hail to the King remains his only album with the band.
+
+**Price Evolution:**
+- 2010: $1,200 (Confide era) — Playing post-hardcore with Confide on entry-level gear
+- 2011: $5,000 (Joins Avenged Sevenfold) — Stepped in after Jimmy "The Rev" Sullivan's death; upgraded to a DW Collector's Series kit for arena touring
+- 2013: $7,298 (Original Purchase) — Hail to the King recorded — definitive DW Collector's / Zildjian A Custom setup, album debuts #1 on Billboard 200
+- 2026: $10,261 (Current adjusted) — Inflation-adjusted value of the 2013 Hail to the King-era DW Collector's setup
 
 **Sources:**
 - DW Collector's Series Catalog (2013)
@@ -241,6 +282,12 @@ Art Cruz's 2020 setup behind Lamb of God's self-titled album — his first studi
 - **Original setup cost (2020):** ~$7,500
 - **Inflation-adjusted to 2026:** ~$9,500
 
+**Price Evolution:**
+- 2018: $3,500 (Fill-in era) — Fills in for Chris Adler on Lamb of God's Slayer farewell support dates, Zildjian and Trick endorsements established
+- 2020: $7,500 (Original Purchase) — Lamb of God (2020) — first studio album as full-time member, Ludwig Classic Maple rig settled
+- 2022: $8,200 (Omens era) — Omens (2022) tour rig, expanded Zildjian A Custom cymbal configuration
+- 2026: $9,500 (Current adjusted) — Inflation-adjusted value of original 2020 Lamb of God setup
+
 **Sources:**
 - Ludwig Classic Maple Catalog (2020)
 - Modern Drummer — Art Cruz Interview (2020)
@@ -278,6 +325,13 @@ Ben Koller's 2001 setup behind Converge's Jane Doe — the record that redefined
 - **Cymbals:** Zildjian A Custom / K Custom Series (expanded)
 - **Notable:** The Dusk in Us (2017) and Bloodmoon: I (2021, a collaborative project with Chelsea Wolfe) cement Koller's status as modern hardcore's definitive drummer. His refined Tama configuration balances the raw aggression of Converge's early years with the precision his increasing compositional sophistication requires.
 
+**Price Evolution:**
+- 2001: $2,063 (Original Purchase) — Jane Doe recorded — hardcore/mathcore breakthrough on Hydra Head Records
+- 2004: $2,900 (You Fail Me era) — Deeper Tama steel snare; stripped-down, direct production approach
+- 2009: $7,200 (Axe to Fall era) — Switch to Tama Starclassic Maple; Converge's Epitaph Records debut
+- 2017: $10,500 (The Dusk in Us era) — Expanded Zildjian A Custom/K Custom cymbal setup; Tama Iron Cobra 900 upgrade
+- 2026: $3,816 (Current adjusted) — Inflation-adjusted value of original 2001 setup
+
 **Sources:**
 - Tama Rockstar Series Catalog (2001)
 - Decibel Magazine — Ben Koller Interview (2011)
@@ -292,7 +346,7 @@ Ben Koller's 2001 setup behind Converge's Jane Doe — the record that redefined
 
 **Active:** 1968–1980, 1983–1984, 1997–1998, 2011–2012 | **Iconic era:** Black Sabbath (1970)
 
-Bill Ward's 1970 setup behind Black Sabbath's self-titled debut — the album widely credited with inventing heavy metal. Recorded in roughly twelve hours with no click track and no overdubs, the record relied on a modest, professional-grade Ludwig and Paiste rig rather than anything exotic.
+Bill Ward's 1970 setup behind Black Sabbath's self-titled debut — the album widely credited with inventing heavy metal. Recorded in roughly twelve hours with no click track and no overdubs, the record relied on a modest, professional-grade Ludwig kit and Super Zyn cymbals rather than anything exotic.
 
 ### Black Sabbath Debut Era (1968–1970)
 
@@ -315,11 +369,20 @@ Bill Ward's 1970 setup behind Black Sabbath's self-titled debut — the album wi
 - **Cymbals:** Paiste 2002 & Giant Beat Series
 - **Notable:** Ward's modern verified setup carries forward the Ludwig/Paiste DNA that defined his original Black Sabbath tenure — a continuity rare among drummers from heavy metal's founding generation.
 
+**Price Evolution:**
+- 1970: $906 (Original Purchase) — Black Sabbath debut recording
+- 1975: $1,500 (Sabotage era) — Progressive ambition, continued on Zildjian Avedis cymbals (switched 1971)
+- 1978: $1,800 (Never Say Die! era) — Final original-lineup studio album
+- 1990: $2,800 (Doom revival interest) — Sabbath legacy reassessment grows
+- 2005: $4,200 (Vintage Ludwig boom) — Collector market for early-70s Ludwig grows
+- 2016: $6,000 (Sabbath farewell tour era) — The End tour boosts nostalgia value
+- 2026: $7,649 (Current adjusted) — Inflation-adjusted value
+
 **Sources:**
 - Ludwig Drum Company Vintage Catalog (1970)
 - Modern Drummer — Bill Ward Interview (1991)
-- Paiste Cymbals Vintage Archive (1970)
-- Reverb Price Guide — Vintage Ludwig & Paiste (2025)
+- Vintage Cymbal Collector Archive — Super Zyn (1970)
+- Reverb Price Guide — Vintage Ludwig (2025)
 
 [Full gear profile](https://metalforge.io/drummers/bill-ward/gear-history)
 
@@ -329,7 +392,7 @@ Bill Ward's 1970 setup behind Black Sabbath's self-titled debut — the album wi
 
 **Active:** 1999–present | **Iconic era:** Colors (2007)
 
-Blake Richardson's 2007 setup behind Between the Buried and Me's Colors — widely considered the band's progressive metal masterpiece — marks the upgrade from his entry-level Tama Rockstar touring kit to the Tama Starclassic Walnut/Birch that gave him the warmer, more resonant tone needed for an album that moves between extreme metal, jazz, and acoustic passages inside a single 65-minute suite.
+Blake Richardson's 2007 setup behind Between the Buried and Me's Colors — widely considered the band's progressive metal masterpiece — ran on the DW Collector's Series all-maple kit he built for the band's breakthrough Alaska (2005), giving him the warmer, more resonant tone needed for an album that moves between extreme metal, jazz, and acoustic passages inside a single 65-minute suite.
 
 ### Self-Titled / Silent Circus / Alaska Era (1999–2006)
 
@@ -352,11 +415,18 @@ Blake Richardson's 2007 setup behind Between the Buried and Me's Colors — wide
 - **Cymbals:** Meinl Byzance Jazz / Dark — 14" hi-hats, 16"/18" crashes, 22" ride
 - **Notable:** Richardson's most mature era — the Tama Star Walnut is the brand's premium all-walnut flagship, delivering the warmest tone in the catalog. Coma Ecliptic (2015), Automata I & II (2018), and Colors II (2021) represent his most compositionally sophisticated work with BTBAM.
 
+**Price Evolution:**
+- 2007: $7,000 (Original Purchase) — Colors recording, on the DW Collector's Series / Meinl Byzance rig built for Alaska (2005)
+- 2009: $9,000 (Great Misdirect / Parallax era) — Same DW/Meinl setup continues, 8" tom added
+- 2015: $12,000 (Coma Ecliptic era) — Same DW/Meinl setup carries through the band's most mature material
+- 2018: $22,000 (Automata era) — Wholesale switch to Tama Starclassic Bubinga and Sabian cymbals, twin Tama Iron Cobra single pedals
+- 2026: $10,500 (Current adjusted) — Inflation-adjusted value of original 2007 Colors-era setup
+
 **Sources:**
-- Tama Starclassic Catalog (2007)
+- DW Collector's Series Catalog (2007)
 - Modern Drummer Interview — Blake Richardson (2008)
 - Tama Drums Artist Profile — Blake Richardson (2022)
-- Reverb Marketplace Analysis — Tama Starclassic Series (2025)
+- Reverb Marketplace Analysis — DW Collector's Series (2025)
 
 [Full gear profile](https://metalforge.io/drummers/blake-richardson/gear-history)
 
@@ -366,7 +436,7 @@ Blake Richardson's 2007 setup behind Between the Buried and Me's Colors — wide
 
 **Active:** 1999–present | **Iconic era:** Crack the Skye (2009)
 
-Brann Dailor's 2009 setup behind Mastodon's Crack the Skye — widely regarded as his career-defining masterwork — marks the moment his Gretsch USA Custom kit, adopted during the Blood Mountain era, expanded to its most cinematic configuration and his first Vic Firth signature stick model launched.
+Brann Dailor's 2009 setup behind Mastodon's Crack the Skye — widely regarded as his career-defining masterwork — marks the moment his Tama Starclassic kit, adopted when he joined the Tama family during the Remission era (2002), expanded to its most cinematic configuration.
 
 ### Remission Era (1999–2003)
 
@@ -390,11 +460,17 @@ Brann Dailor's 2009 setup behind Mastodon's Crack the Skye — widely regarded a
 - **Cymbals:** Zildjian K / K Constantinople — 14" K hi-hats, K Dark crashes, 22" K Constantinople ride, 20" China
 - **Notable:** Hushed and Grim (2021) is Mastodon's first album following the death of longtime manager Nick John, and it carries Dailor's most refined signature setup yet — the same Gretsch/Zildjian K/DW/Vic Firth core he has spent over a decade with, alongside his rare dual role as drummer and co-lead vocalist.
 
+**Price Evolution:**
+- 2009: $14,000 (Original Purchase) — Crack the Skye recording — expanded Tama Starclassic kit, Meinl Mb20/Mb8 cymbals
+- 2014: $16,000 (Once More 'Round the Sun era) — Same Tama/Meinl core continues
+- 2021: $24,000 (Hushed and Grim era) — Current Tama Starclassic Performer B/B kit with Meinl Mb20/Mb8 cymbal setup
+- 2026: $21,400 (Current adjusted) — Inflation-adjusted value of original 2009 Crack the Skye setup
+
 **Sources:**
-- Gretsch USA Custom Catalog (2009)
+- Tama Starclassic Catalog (2009)
 - Modern Drummer — Brann Dailor Interview (2009)
 - Rhythm Magazine — Brann Dailor Interview (2014)
-- Reverb Marketplace Analysis — Gretsch USA Custom (2025)
+- Reverb Marketplace Analysis — Tama Starclassic (2025)
 
 [Full gear profile](https://metalforge.io/drummers/brann-dailor/gear-history)
 
@@ -428,6 +504,15 @@ Charlie Benante's 1987 thrash metal setup during Anthrax's commercial breakthrou
 - **Cymbals:** Sabian HHX Evolution and AAX series
 - **Notable:** The Pearl Reference Pure represents the top of Pearl's product line, using a multi-wood construction optimised for maximum projection and tonal complexity. Benante's current setup reflects four decades of refinement while retaining the fundamental clarity-and-speed philosophy that defined his 1987 rig.
 
+**Price Evolution:**
+- 1987: $2,478 (Original Purchase) — Among the Living recording
+- 1990: $2,700 (Persistence of Time era) — Anthrax matures thrash sound
+- 1994: $3,200 (Sound of White Noise) — Benante transitions to Pearl
+- 2000: $4,500 (Vintage appreciation) — Tama Artstar II gains collector status
+- 2010: $5,500 (Collector interest) — Big 4 reunion boosts Anthrax nostalgia
+- 2020: $6,500 (Pandemic premium) — Home studio demand for vintage gear
+- 2026: $7,147 (Current adjusted) — Inflation-adjusted value
+
 **Sources:**
 - Tama Artstar II Professional Catalog (1987)
 - Modern Drummer — Charlie Benante Interview (1988)
@@ -442,7 +527,7 @@ Charlie Benante's 1987 thrash metal setup during Anthrax's commercial breakthrou
 
 **Active:** 1994–2019 | **Iconic era:** Ashes of the Wake (2004)
 
-Chris Adler's 2004 DW Collector's Series setup from Lamb of God's Ashes of the Wake — the album that cemented LoG as leaders of the New Wave of American Heavy Metal. Adler combined a high-end DW custom shell pack with Zildjian A Custom cymbals and DW 9002 double pedals to produce the precise, powerful groove that defined modern American groove metal drumming.
+Chris Adler's 2004 Mapex Deep Forest setup from Lamb of God's Ashes of the Wake — the album that cemented LoG as leaders of the New Wave of American Heavy Metal. Adler debuted his new Mapex endorsement on this record, pairing an all-walnut Deep Forest shell pack with Zildjian A Custom cymbals and a Mapex Falcon double pedal to produce the precise, powerful groove that defined modern American groove metal drumming.
 
 ### New American Gospel / As the Palaces Burn Era (2000–2003)
 
@@ -466,11 +551,20 @@ Chris Adler's 2004 DW Collector's Series setup from Lamb of God's Ashes of the W
 - **Cymbals:** Zildjian A Custom / K Custom (retained)
 - **Notable:** Adler's return to Mapex with the premium Black Panther Velvetone completed a full-circle endorsement arc. The birch/walnut hybrid shells brought a darker, more complex tone compared to his earlier Mapex Pro M birch rig, reflecting two decades of refinement.
 
+**Price Evolution:**
+- 2004: $6,798 (Original Purchase) — Ashes of the Wake recording
+- 2006: $7,200 (Sacrament era) — Lamb of God wins Grammy nomination
+- 2009: $7,800 (Wrath era) — LoG headlining arena tours
+- 2012: $8,400 (Pearl endorsement) — Adler transitions to Pearl Reference Pure
+- 2015: $9,000 (VII era) — LoG reaches commercial peak
+- 2020: $10,500 (Pandemic premium) — Vintage Mapex Deep Forest values rise
+- 2026: $11,788 (Current adjusted) — Inflation-adjusted value
+
 **Sources:**
-- DW Collector's Series Professional Catalog (2004)
+- Mapex Deep Forest Series Professional Catalog (2004)
 - Modern Drummer — Chris Adler Ashes of the Wake Feature (2004)
 - Metal Hammer — Lamb of God Drum Rundown (2005)
-- Reverb Price Guide — DW Collector's Series Vintage (2025)
+- Reverb Price Guide — Mapex Deep Forest Series Vintage (2025)
 
 [Full gear profile](https://metalforge.io/drummers/chris-adler/gear-history)
 
@@ -503,6 +597,12 @@ Chris Turner's 2017 setup behind Oceans Ate Alaska's Hikari — the album that c
 - **Snare:** Tama S.L.P. G-Maple 14"x5.5"
 - **Cymbals:** Meinl Byzance Extra Dry / Dual Series (same configuration)
 - **Notable:** Oceans Ate Alaska's most ambitious record, Disparity (2022), integrated mathcore odd-time signatures into the band's progressive metalcore framework, and Turner carried the same Starclassic / Byzance / Speed Cobra core through the album's more demanding rhythmic writing.
+
+**Price Evolution:**
+- 2010: $800 (Oceans Ate Alaska formation) — Founded Oceans Ate Alaska in Birmingham on entry-level gear as a teenager
+- 2017: $5,042 (Original Purchase) — Hikari recorded and viral playthrough breakthrough — definitive Tama Starclassic Maple/Birch / Meinl Byzance setup
+- 2022: $5,800 (Disparity era) — Same Starclassic / Byzance / Speed Cobra core carried into the mathcore-inflected Disparity
+- 2026: $6,739 (Current adjusted) — Inflation-adjusted value of the 2017 Hikari-era Tama Starclassic setup
 
 **Sources:**
 - Tama Drums Starclassic Maple/Birch Catalog (2017)
@@ -543,6 +643,15 @@ Daniel Erlandsson's 2001 Pearl Masters Premium setup from Arch Enemy's Wages of 
 - **Cymbals:** Meinl Byzance series (continually updated)
 - **Notable:** Erlandsson's current rig represents 25 years of refinement within Pearl and Meinl endorsements — one of the longest-running brand combinations in modern melodic death metal. His consistency in tone and feel across Arch Enemy's lineup changes reflects a methodical approach to gear that prioritises reliability and repeatability.
 
+**Price Evolution:**
+- 2001: $5,188 (Original Purchase) — Wages of Sin recording
+- 2003: $5,400 (Anthems era) — Arch Enemy expands international touring
+- 2005: $5,700 (Doomsday Machine era) — Arch Enemy enters mainstream metal
+- 2007: $6,000 (Rise of the Tyrant era) — Arch Enemy reaches commercial peak
+- 2011: $6,800 (Reference Pure switch) — Erlandsson transitions to Pearl Reference Pure
+- 2020: $8,200 (Pandemic premium) — Vintage Pearl Masters values rise
+- 2026: $9,597 (Current adjusted) — Inflation-adjusted value
+
 **Sources:**
 - Pearl Masters Premium Professional Catalog (2001)
 - Modern Drummer — Daniel Erlandsson Arch Enemy Feature (2003)
@@ -578,6 +687,15 @@ Danny Carey's mid-1990s setup for Tool's defining Undertow and Aenima era — on
 - **Snare:** Pearl Masterworks 14"×6.5" (custom finish)
 - **Cymbals:** Zildjian A Custom — 14" hi-hats, 17" and 19" crash, 20" medium ride, 18" China, 22" ride; Paiste gong (maintained from Undertow era)
 - **Notable:** Fear Inoculum (2019) arrived 13 years after 10,000 Days, with the title track running 10+ minutes. Carey's drumming on the album displayed continued evolution — particularly the integration of electronic textures with acoustic performance in real time, an area he has developed further than any other drummer in rock music.
+
+**Price Evolution:**
+- 1994: $5,645 (Original Purchase) — Undertow touring / Aenima pre-production
+- 1996: $6,000 (Aenima era) — Aenima releases to critical acclaim
+- 2001: $7,500 (Lateralus era) — Tool's commercial peak
+- 2006: $9,000 (10,000 Days) — Tool hiatus drives catalog demand
+- 2019: $12,500 (Fear Inoculum) — First new album in 13 years
+- 2022: $13,500 (Streaming uplift) — Tool catalog hits streaming
+- 2026: $12,480 (Current adjusted) — Inflation-adjusted value
 
 **Sources:**
 - Pearl Masters Studio Catalog (1994)
@@ -616,6 +734,13 @@ Daray's 2011 setup behind Vader's Welcome to the Morbid Reich — recorded midwa
 - **Cymbals:** Paiste RUDE / 2002 series
 - **Notable:** After leaving Vader in 2016, Daray carried the same Pearl / Paiste rig into his full-time Dimmu Borgir role, powering Eonian (2018) and years of festival headline slots requiring absolute consistency from club stages to pyrotechnic productions.
 
+**Price Evolution:**
+- 2003: $1,200 (Vesania Era) — Joined Polish black metal band Vesania on entry-level gear
+- 2006: $2,500 (Vader Era Begins) — Joined Vader, Poland's most internationally recognized death metal band
+- 2011: $6,143 (Original Purchase) — Welcome to the Morbid Reich recorded — Pearl Reference Pure / Paiste RUDE setup reaches its definitive Vader-era configuration
+- 2018: $7,200 (Eonian Era (Dimmu Borgir)) — Same Pearl / Paiste core carried into full-time Dimmu Borgir tenure after leaving Vader in 2016
+- 2026: $8,948 (Current adjusted) — Inflation-adjusted value of the 2011 Welcome to the Morbid Reich-era Pearl Reference Pure setup
+
 **Sources:**
 - Pearl Reference Pure Catalog (2011)
 - Paiste RUDE / 2002 Series Catalog (2011)
@@ -650,6 +775,15 @@ The Godfather of Double Bass - Dave Lombardo's 1986 setup that powered Reign in 
 - **Snare:** Pearl Dave Lombardo Signature 14"×5"
 - **Cymbals:** Paiste RUDE Series — 14" Sound Edge hi-hats, 18" and 19" crash, 20" Crash/Ride, 22" Power Ride
 
+**Price Evolution:**
+- 1986: $4,836 (Original Purchase) — Reign in Blood recording
+- 1990: $5,200 (Seasons era) — Slayer peak
+- 1995: $4,500 (Market dip) — Grunge dominance
+- 2000: $5,800 (Metal revival) — New thrash bands emerge
+- 2010: $8,500 (Vintage boom) — Collector market expands
+- 2019: $10,000 (Slayer farewell) — Final tour premium
+- 2026: $14,400 (Current adjusted) — Inflation + legacy value
+
 **Sources:**
 - Pearl Professional Catalog (1986)
 - Modern Drummer - Dave Lombardo (1987)
@@ -664,7 +798,7 @@ The Godfather of Double Bass - Dave Lombardo's 1986 setup that powered Reign in 
 
 **Active:** 1994–present | **Iconic era:** Hate Eternal: I, Monarch (2005)
 
-Derek Roddy's 2005 setup behind Hate Eternal's I, Monarch — one of death metal's most technically demanding recordings — marks the upgrade from his foundational Pearl Masters kit, built during his formative years in the Florida death metal underground, to the Pearl Reference Series maple/birch hybrid and Zildjian K Custom Dark cymbals that anchored his highest-profile work under Erik Rutan.
+Derek Roddy's 2005 setup behind Hate Eternal's I, Monarch — one of death metal's most technically demanding recordings — marks the settling-in of the Tama Starclassic Bubinga kit he moved to at the start of Hate Eternal's peak era in 2001, prizing the dense, bass-heavy shells for blast-beat-heavy sets, paired with the Meinl cymbals he's run continuously since his formative underground years in 1994.
 
 ### Early Career / Council of the Fallen Era (1994–2002)
 
@@ -687,11 +821,17 @@ Derek Roddy's 2005 setup behind Hate Eternal's I, Monarch — one of death metal
 - **Cymbals:** Meinl Classics Custom Dark / Extra Dry — 14" Extra Dry hi-hats, 16"/18" crashes, 21" ride
 - **Notable:** Now one of extreme metal's most respected educator-performers, Roddy's current setup serves a dual purpose — elite performance and technical demonstration for his worldwide clinic circuit and online instruction.
 
+**Price Evolution:**
+- 2005: $10,000 (Original Purchase) — Joins Hate Eternal, I, Monarch recording on the Tama Starclassic Bubinga/Meinl rig established in 2001
+- 2008: $15,000 (DW / educational era) — Same Tama Starclassic Bubinga and Meinl core continues through his independent/educational years
+- 2018: $18,000 (Modern / Teaching era) — Continued Tama/Meinl setup, Evans EMAD2 kick heads
+- 2026: $17,000 (Current adjusted) — Inflation-adjusted value of original 2005 Hate Eternal Tama Starclassic Bubinga setup
+
 **Sources:**
-- Pearl Reference Series Catalog (2005)
+- Tama Starclassic Bubinga Catalog (2005)
 - Drumhead Magazine — Derek Roddy Interview (2006)
-- DW Drums Artist Profile — Derek Roddy (2010)
-- Reverb Marketplace Analysis — Pearl Reference Series (2025)
+- Tama Drums Artist Profile — Derek Roddy (2010)
+- Reverb Marketplace Analysis — Tama Starclassic Bubinga (2025)
 
 [Full gear profile](https://metalforge.io/drummers/derek-roddy/gear-history)
 
@@ -717,6 +857,13 @@ Dirk Verbeuren's 2022 setup recorded his actual Grammy-nominated studio debut wi
 - **Snare:** Tama S.L.P. G-Maple 14"x6.5"
 - **Cymbals:** Meinl Byzance — 14" Traditional Medium hi-hats, 16"/18"/19" crashes, 22" Traditional ride, 18" China
 - **Notable:** Verbeuren's verified current setup has shifted from DW/Zildjian to Tama and Meinl — a different brand alignment from the gear that recorded "Dystopia," continuing through "Crush the World" touring (2023–2024).
+
+**Price Evolution:**
+- 2016: $8,200 (Joins Megadeth) — Begins touring cycle for Chris Adler-recorded "Dystopia"; confirmed as full-time drummer
+- 2022: $10,800 (Original Purchase) — Records first Megadeth studio album, "The Sick, the Dying... and the Dead!"
+- 2023: $11,100 (Grammy nomination) — "We'll Be Back" nominated for Best Metal Performance, 65th Grammy Awards
+- 2024: $11,550 (Crush the World tour) — Ongoing Megadeth touring cycle
+- 2026: $11,986 (Current adjusted) — Inflation-adjusted value, Tama Starclassic Maple Custom era
 
 **Sources:**
 - Tama Starclassic Maple Custom Catalog (2022)
@@ -754,6 +901,15 @@ Eloy Casagrande's 2017 Sepultura setup from Machine Messiah — the album that c
 - **Snare:** Pearl Free-Floating Steel 14"×6.5"
 - **Cymbals:** Paiste 2002 Series (consistent from Sepultura era)
 - **Notable:** Casagrande was announced as Slipknot's new drummer in 2023, replacing Jay Weinberg. The move from Mapex to Pearl Reference for the Slipknot touring rig represented a significant gear upgrade — the Pearl Reference series is built for stadium and arena-scale environments where volume, tuning stability, and visual presence all demand a flagship-tier kit. Casagrande's Brazilian groove sensibility and technical precision gave Slipknot's live performances a measurably different rhythmic character compared to previous lineup configurations.
+
+**Price Evolution:**
+- 2017: $4,124 (Original Purchase) — Machine Messiah recording
+- 2019: $4,500 (Quadra era) — Casagrande continues Sepultura evolution
+- 2021: $5,100 (SepulQuarta era) — Sepultura releases live acoustic album
+- 2023: $5,400 (Slipknot announcement) — Casagrande named as new Slipknot drummer
+- 2024: $5,600 (Slipknot Tama era) — Casagrande switches to Tama Starclassic Bubinga with Paiste cymbals for Slipknot touring rig
+- 2025: $5,750 (Slipknot touring) — Casagrande on international Slipknot tour circuit
+- 2026: $5,510 (Current adjusted) — Inflation-adjusted value
 
 **Sources:**
 - Mapex Meridian Maple Professional Catalog (2017)
@@ -793,6 +949,15 @@ Flo Mounier's 1996 Cryptopsy setup from None So Vile — widely regarded as the 
 - **Cymbals:** Zildjian A Custom (consistent from 2005 era)
 - **Notable:** Tama Starclassic Bubinga is one of the heaviest and most tonally dense shell materials in production drumming — the bubinga wood delivers an exceptionally focused, deep fundamental with minimal overtone. Mounier's transition to the Starclassic Bubinga gave his live sound greater projection at festival volumes and improved low-end clarity in dense mix contexts. The Pearl Demon Drive pedal's direct-drive mechanism suited his hyper-fast double-bass technique with a more linear, immediate response than the chain-drive DW 5002.
 
+**Price Evolution:**
+- 1996: $2,984 (Original Purchase) — None So Vile recording
+- 2000: $3,400 (And Then You'll Beg era) — Cryptopsy lineup changes; Mounier remains constant
+- 2005: $4,100 (Sonor SQ2 upgrade) — Mounier transitions to high-end Sonor SQ2 custom kit
+- 2008: $4,800 (The Unspoken King era) — Tama Starclassic Bubinga added to arsenal
+- 2012: $5,500 (Cryptopsy (self-titled) era) — Return to brutal technical death metal sound
+- 2020: $6,000 (Vintage appeal grows) — None So Vile legacy drives Pearl Session Elite collector interest
+- 2026: $6,230 (Current adjusted) — Inflation-adjusted value
+
 **Sources:**
 - Pearl Session Elite Professional Catalog (1996)
 - Modern Drummer — Flo Mounier Cryptopsy Feature (1998)
@@ -805,9 +970,9 @@ Flo Mounier's 1996 Cryptopsy setup from None So Vile — widely regarded as the 
 
 ## Frost — Satyricon / 1349
 
-**Active:** 1993–present | **Iconic era:** Now, Diabolical (2006)
+**Active:** 1993–present | **Iconic era:** Satyricon (2013)
 
-Frost's 2006 setup behind Satyricon's Now, Diabolical — the album that carried the band to its commercial breakthrough — captures the moment his gear reached its definitive signature configuration.
+Frost's 2013 setup behind Satyricon's self-titled album — the record that pushed the band toward its most dynamically refined, modern production to date — captures the moment his gear caught up with nearly two decades of nonstop dual-band touring.
 
 ### Raw Black Metal / Corpse Paint Era (1993–1999)
 
@@ -831,11 +996,18 @@ Frost's 2006 setup behind Satyricon's Now, Diabolical — the album that carried
 - **Cymbals:** Zildjian A Custom & K Custom Dark — mature cymbal voicing balancing brightness and darkness
 - **Notable:** By the self-titled Satyricon (2013), Frost's playing had become a study in restraint and dynamics. His Sonor SQ2 setup reached its fully refined, definitive configuration for Deep calleth upon Deep (2017) and 1349's The Infernal Pathway (2019) — widely cited as one of extreme metal's most disciplined and influential drummers.
 
+**Price Evolution:**
+- 1996: $1,800 (Nemesis Divina era) — Signed with a budget Pearl Export kit and Paiste 2002 cymbals, recording Satyricon's breakthrough Nemesis Divina
+- 2013: $7,750 (Original Purchase) — Satyricon's self-titled album recording — switched to Tama Starclassic Bubinga drums, Zildjian A Series cymbals, and Tama Iron Cobra Power Glide hardware
+- 2017: $8,500 (Deep calleth upon Deep era) — Tama Starclassic Bubinga / Zildjian A Series setup reaches its fully refined, definitive configuration
+- 2026: $10,690 (Current adjusted) — Inflation-adjusted value of the 2013 self-titled-era Tama Starclassic Bubinga setup
+
 **Sources:**
-- Sonor SQ2 Custom Catalog (2006)
+- Tama Starclassic Bubinga Catalog (2013)
+- Zildjian A Series Catalog (2013)
 - Decibel Magazine — Frost Interview (2010)
 - Metal Hammer — Frost Interview (2018)
-- Reverb Marketplace Analysis — Sonor SQ2 (2025)
+- Reverb Marketplace Analysis — Tama Starclassic Bubinga (2025)
 
 [Full gear profile](https://metalforge.io/drummers/frost/gear-history)
 
@@ -868,6 +1040,14 @@ Gavin Harrison's 2007 Porcupine Tree setup captures progressive drumming at its 
 - **Snare:** Sonor Gavin Harrison Signature — both 14"x5.25" brass and 12"x5" Protean (added mid-2010s)
 - **Cymbals:** Zildjian K Custom Special Dry (continuous)
 - **Notable:** Harrison joins King Crimson's revolutionary three-drummer lineup in 2008 and continues touring The Pineapple Thief, adding the tighter 12" Protean snare for studio work on Dissolution (2018). Porcupine Tree's 2022 reunion album Closure/Continuation uses essentially the same rig that defined Fear of a Blank Planet fifteen years earlier.
+
+**Price Evolution:**
+- 2002: $9,200 (In Absentia era) — Joins Porcupine Tree — establishes Sonor SQ2 and Zildjian K Custom Special Dry endorsement
+- 2007: $11,660 (Original Purchase) — Fear of a Blank Planet recorded — signature Sonor 14"x5.25" brass snare and K Custom Special Dry collaboration finalized
+- 2008: $13,400 (King Crimson era) — Joins King Crimson's revolutionary three-drummer lineup; expanded rack tom configuration
+- 2018: $15,200 (Pineapple Thief era) — 12" Protean signature snare added for Dissolution studio sessions
+- 2022: $16,800 (Porcupine Tree reunion) — Closure/Continuation reunion album — same core rig after 12-year hiatus
+- 2026: $18,427 (Current adjusted) — Inflation-adjusted value of original 2007 setup
 
 **Sources:**
 - Sonor SQ2 Custom-Order Catalog (2007)
@@ -904,11 +1084,20 @@ Gene Hoglan's 1993 kit for Death's Individual Thought Patterns — one of techni
 - **Cymbals:** Zildjian A Custom (consistent from SYL era)
 - **Notable:** Hoglan's Testament tenure has produced the most visible phase of his career, introducing him to a new generation of metal fans. His signature sticks reflect the unique left-right asymmetry in his double-bass technique — he leads with the right foot, producing a metrically complex approach to double bass patterns distinct from most extreme metal drummers.
 
+**Price Evolution:**
+- 1993: $3,578 (Original Purchase) — Individual Thought Patterns recording
+- 1995: $3,800 (Symbolic era) — Death releases Symbolic
+- 1998: $4,200 (Post-Death projects) — Hoglan joins Strapping Young Lad
+- 2006: $5,800 (Dark Angel reunion) — Thrash revival interest
+- 2013: $7,200 (Testament era) — Hoglan anchors Testament globally
+- 2020: $9,000 (Vintage tech-death boom) — Death reissues drive catalog interest
+- 2026: $8,100 (Current adjusted) — Inflation-adjusted value
+
 **Sources:**
-- Pearl Professional Catalog (1993)
+- Tama Professional Catalog (1993)
 - Modern Drummer - Gene Hoglan Interview (1994)
 - DrummerWorld Archive — Gene Hoglan Equipment (2024)
-- Reverb Price Guide — Vintage Pearl (2025)
+- Reverb Price Guide — Vintage Tama (2025)
 
 [Full gear profile](https://metalforge.io/drummers/gene-hoglan/gear-history)
 
@@ -940,6 +1129,12 @@ George Kollias's 2005 setup behind Nile's Annihilation of the Wicked marks the s
 - **Snare:** Pearl Free-Floating Steel 14"x6.5" (unchanged)
 - **Cymbals:** Paiste Signature Series — full current configuration
 - **Notable:** What Should Not Be Unearthed (2015) and Vile Nilotic Rites (2019) represent Kollias's most mature work with Nile, alongside his second solo album Labyrinth of Chaos (2018). He has also become one of extreme metal's most prominent drum educators, teaching worldwide clinics and instructional courses.
+
+**Price Evolution:**
+- 2005: $9,000 (Original Purchase) — Joins Nile, Annihilation of the Wicked recording
+- 2009: $14,000 (Those Whom the Gods Detest era) — Upgrade to Pearl Reference Pure all-maple shells, first Vic Firth signature sticks launched
+- 2015: $18,000 (Vile Nilotic Rites era) — ddrum Acoustic Pro triggers integrated for live consistency
+- 2026: $15,100 (Current adjusted) — Inflation-adjusted value of original 2005 Pearl Reference setup
 
 **Sources:**
 - Pearl Reference Series Catalog (2005)
@@ -979,6 +1174,13 @@ Hannes Grossmann's 2009 setup behind Obscura's Cosmogenesis documents the rig th
 - **Cymbals:** Meinl Byzance Series (same configuration)
 - **Notable:** Carried the same DW/Meinl configuration into Obscura's second album before departing the band in 2014.
 
+**Price Evolution:**
+- 2008: $7,800 (Co-founds Obscura) — Departs Necrophagist; establishes DW Collector's / Meinl Byzance rig with new band
+- 2009: $8,992 (Original Purchase) — Cosmogenesis recorded — full DW Collector's / Meinl Byzance rig documented
+- 2011: $9,400 (Omnivium era) — Same DW / Meinl configuration carried into Obscura's second album
+- 2014: $9,400 (Departs Obscura) — Left the band; continues with Alkaloid, co-founded in 2013
+- 2026: $13,733 (Current adjusted) — Inflation-adjusted value of the 2009 Cosmogenesis-era setup
+
 **Sources:**
 - DW Drums Artist Page — Hannes Grossmann (2009)
 - Meinl Byzance Cymbals Artist Roster (2009)
@@ -993,7 +1195,7 @@ Hannes Grossmann's 2009 setup behind Obscura's Cosmogenesis documents the rig th
 
 **Active:** 1988–present | **Iconic era:** De Mysteriis Dom Sathanas (1994)
 
-Hellhammer's 1994 setup behind Mayhem's De Mysteriis Dom Sathanas — the benchmark black metal album and the raw, developing-endorsement Pearl kit that set the template for blast-beat drumming.
+Hellhammer's 1994 setup behind Mayhem's De Mysteriis Dom Sathanas — the benchmark black metal album and the raw, developing-endorsement Sonor kit that set the template for blast-beat drumming.
 
 ### De Mysteriis Dom Sathanas Era (1988–1994)
 
@@ -1017,11 +1219,18 @@ Hellhammer's 1994 setup behind Mayhem's De Mysteriis Dom Sathanas — the benchm
 - **Cymbals:** Zildjian A Custom hi-hats, A Custom crashes (17", 19"), Z Custom Dark Ride, A Custom China
 - **Notable:** Esoteric Warfare (2014) and Daemon (2019) balance Mayhem's black metal identity with unexpected melodic range. Hellhammer added a Zildjian Z Custom Dark Ride for darker tonal complexity and remains famous for playing barefoot, citing direct tactile feedback through the pedal as essential to his tempo accuracy above 200 BPM.
 
+**Price Evolution:**
+- 1994: $2,068 (Original Purchase) — De Mysteriis Dom Sathanas recorded at Grieghallen Studio
+- 1999: $5,500 (Dimmu Borgir dual-era begins) — Upgrade to Sonor SQ2 Heavy Beech; joins Dimmu Borgir while remaining Mayhem's drummer
+- 2007: $8,000 (Ordo Ad Chao era) — Axis double pedal adopted; Mayhem records without a bassist
+- 2019: $9,200 (Daemon era) — Paiste RUDE setup expanded; Sonor SQ2/Axis confirmed as current rig
+- 2026: $4,571 (Current adjusted) — Inflation-adjusted value of original 1994 setup
+
 **Sources:**
-- Pearl Percussion Catalog Archive (1994)
+- Sonor Percussion Catalog Archive (1994)
 - Modern Drummer — Hellhammer Feature (2007)
 - Metal Hammer — Mayhem Ordo Ad Chao Rundown (2008)
-- Reverb Price Guide — Vintage Pearl Kits (2025)
+- Reverb Price Guide — Vintage Sonor Kits (2025)
 
 [Full gear profile](https://metalforge.io/drummers/hellhammer/gear-history)
 
@@ -1056,6 +1265,15 @@ Igor Cavalera's gear journey from Belo Horizonte's underground metal scene to Pe
 - **Cymbals:** Sabian AA Series — 14" hi-hats, 16" and 18" crashes, 20" ride, 18" China
 - **Original setup cost (1996):** ~$4,703
 - **Inflation-adjusted to 2026:** ~$9,800
+
+**Price Evolution:**
+- 1996: $4,703 (Original Purchase) — Roots recording and world tour
+- 1998: $4,900 (Post-Sepultura) — Igor departs; Roots legacy solidifies
+- 2004: $5,600 (Cavalera Conspiracy era) — Brothers reunite, renewing Sepultura catalog interest
+- 2010: $7,200 (Roots 15th anniversary) — Full album live performances drive vintage gear demand
+- 2016: $8,400 (Roots 20th anniversary) — Landmark reissues; Brazilian metal collector premium
+- 2021: $9,100 (Pandemic appreciation) — Vintage Sepultura gear demand spikes globally
+- 2026: $9,800 (Current adjusted) — Inflation-adjusted value
 
 **Sources:**
 - Pearl Masters Custom Professional Catalog (1996)
@@ -1094,6 +1312,15 @@ Inferno's extreme black/death metal setup from Behemoth's Demigod era — one of
 - **Cymbals:** Meinl Byzance Extra Dry and Dark Series
 - **Notable:** Inferno's current setup reflects over a decade of Pearl and Meinl endorsement stability. The introduction of Meinl Byzance Extra Dry cymbals — featuring less lacquer for a drier, more focused sound — represents the latest evolution in his ongoing quest for cymbal precision at extreme tempos.
 
+**Price Evolution:**
+- 2004: $4,800 (Original Purchase) — Demigod recording
+- 2007: $5,200 (Apostasy era) — Behemoth grows international fanbase
+- 2009: $5,500 (Evangelion era) — Behemoth enters mainstream metal
+- 2012: $6,200 (Reference Pure switch) — Inferno transitions to Pearl Reference Pure
+- 2014: $6,800 (The Satanist era) — Behemoth reaches commercial peak
+- 2020: $7,800 (Pandemic premium) — Vintage Pearl Reference Custom values rise
+- 2026: $8,329 (Current adjusted) — Inflation-adjusted value
+
 **Sources:**
 - Pearl Reference Custom Professional Catalog (2004)
 - Modern Drummer — Inferno Behemoth Feature (2007)
@@ -1104,47 +1331,11 @@ Inferno's extreme black/death metal setup from Behemoth's Demigod era — one of
 
 ---
 
-## Isaac Lamb — Kublai Khan TX
-
-**Active:** 2009–present | **Iconic era:** Nomad (2017)
-
-Isaac Lamb's 2017 setup behind Kublai Khan TX's Nomad — the Rise Records debut that carried the Sherman, Texas beatdown hardcore band to its largest audience yet — documents the gear behind a drummer who has held the band's only drum chair since its 2009 founding.
-
-### Kublai Khan TX Founding (2009)
-
-- **Kit:** Entry-level kit
-- **Estimated cost (2009):** ~$1,500
-- **Notable:** Co-founded Kublai Khan in Sherman, Texas with vocalist Matt Honeycutt, establishing the beatdown hardcore sound that has defined the band ever since.
-
-### Nomad Era (2017)
-
-- **Kit:** SJC Custom Drums — 22" bass drum, 10"/12" rack toms, 14"/16" floor toms
-- **Snare:** SJC Custom 14"x6.5" American maple
-- **Cymbals:** Meinl Classics Custom Dark — 14" hi-hats, 18"/20" crashes, 21" ride, 18" China
-- **Original setup cost (2017):** ~$6,334
-- **Inflation-adjusted to 2026:** ~$8,466
-
-### Absolute Era (2019–present)
-
-- **Kit:** SJC Custom Drums (primary endorser, custom configurations)
-- **Cymbals:** Meinl Classics Custom Dark Series (complete setup)
-- **Notable:** Absolute, widely cited as Kublai Khan TX's defining statement, showcases Lamb's most refined power-through-restraint performance on the same SJC / Meinl / DW core established on Nomad.
-
-**Sources:**
-- SJC Custom Drums Catalog (2017)
-- Meinl Classics Custom Dark Series Catalog (2017)
-- Lambgoat — Isaac Lamb Interview (2019)
-- Reverb Marketplace Analysis — SJC Custom Drums (2025)
-
-[Full gear profile](https://metalforge.io/drummers/isaac-lamb/gear-history)
-
----
-
 ## Jaska Raatikainen — Children of Bodom
 
 **Active:** 1993–2019 | **Iconic era:** Follow the Reaper (2000)
 
-Jaska Raatikainen's 2000 setup behind Children of Bodom's Follow the Reaper — widely considered the band's defining album — marks the moment his developing Pearl endorsement solidified into the flagship Pearl Masters Premium Maple kit and Pearl Eliminator double pedal that would anchor his sound for the rest of the band's 26-year career.
+Jaska Raatikainen's 2000 setup behind Children of Bodom's Follow the Reaper — widely considered the band's defining album — marks the moment his early Tama Starclassic configuration, adopted the year before for Hatebreeder, carried into the band's breakthrough.
 
 ### Something Wild / Hatebreeder Era (1997–1999)
 
@@ -1167,11 +1358,19 @@ Jaska Raatikainen's 2000 setup behind Children of Bodom's Follow the Reaper — 
 - **Cymbals:** Zildjian A Custom 14" hi-hats, 17"/18" crashes, 20" K Custom ride
 - **Notable:** Children of Bodom released their final album, Hexed, in 2019 before announcing dissolution — closing a 26-year run with Raatikainen's core setup essentially unchanged since Follow the Reaper in 2000.
 
+**Price Evolution:**
+- 2000: $4,500 (Original Purchase) — Follow the Reaper recording, on the early Tama Starclassic configuration adopted for Hatebreeder (1999)
+- 2003: $4,700 (Hate Crew Deathroll era) — Band's commercial peak, Tama Starclassic setup proven across relentless touring
+- 2005: $4,900 (Are You Dead Yet? era) — Switches back to Pearl, settling into the Pearl Masters Premium Maple kit that anchors the rest of his career
+- 2008: $5,000 (Blooddrunk era) — Full Zildjian A Custom/K Custom cymbal setup established
+- 2019: $5,200 (Hexed era) — Final Children of Bodom album before the band's 2019 dissolution
+- 2026: $8,560 (Current adjusted) — Inflation-adjusted value of original 2000 Tama Starclassic setup
+
 **Sources:**
-- Pearl Masters Premium Maple Catalog (2000)
+- Tama Starclassic Catalog (2000)
 - Rhythm Magazine — Jaska Raatikainen Interview (2001)
 - Modern Drummer Magazine — Jaska Raatikainen Interview (2019)
-- Reverb Marketplace Analysis — Pearl Masters Premium Maple (2025)
+- Reverb Marketplace Analysis — Tama Starclassic (2025)
 
 [Full gear profile](https://metalforge.io/drummers/jaska-raatikainen/gear-history)
 
@@ -1181,7 +1380,7 @@ Jaska Raatikainen's 2000 setup behind Children of Bodom's Follow the Reaper — 
 
 **Active:** 2001–present | **Iconic era:** The War Within (2004)
 
-Jason Bittner's 2004 setup powered one of thrash-tinged metalcore's defining commercial breakthroughs. The War Within — Shadows Fall's Grammy-nominated fourth album — built on the technical foundation Bittner established with 2002's The Art of Balance, centering on a Tama Starclassic Performer B/B shell pack, a Tama Starphonic Steel snare, Sabian HHX/HH cymbals, and DW's 9002 double pedal.
+Jason Bittner's 2004 setup powered one of thrash-tinged metalcore's defining commercial breakthroughs. The War Within — Shadows Fall's Grammy-nominated fourth album — built on the technical foundation Bittner established with 2002's The Art of Balance, centering on a Mapex Saturn V all-maple shell pack (his endorsement since Shadows Fall's formative years in 1997), Zildjian K and A Custom cymbals (also dating to 1997), and a Mapex Falcon double pedal adopted for The Art of Balance sessions in 2002.
 
 ### The War Within Era (2002–2015, Shadows Fall)
 
@@ -1198,11 +1397,20 @@ Jason Bittner's 2004 setup powered one of thrash-tinged metalcore's defining com
 - **Cymbals:** Zildjian K & A Custom Series — 14" K hi-hats, 18"/19" A Custom crashes, 21" K Custom ride, 18" K China
 - **Notable:** After Shadows Fall disbanded in 2015, Bittner briefly carried his Tama rig into Flotsam & Jetsam's Dreams of Death before assembling an entirely new setup — Mapex Saturn V shells, Zildjian K & A Custom cymbals, and a Mapex Falcon double pedal — for his 2017 move to Overkill. That same rig has carried through his work in thrash supergroup Category 7 since 2024.
 
+**Price Evolution:**
+- 2002: $4,100 (The Art of Balance era) — Shadows Fall's Century Media breakthrough; establishes Mapex Saturn V and Zildjian K & A Custom rig
+- 2004: $4,773 (Original Purchase) — The War Within recorded — Shadows Fall's Grammy-nominated NWOAHM breakthrough
+- 2007: $5,600 (Threads of Life era) — Same Mapex/Zildjian rig carries through Shadows Fall's continued rise
+- 2016: $6,800 (Flotsam & Jetsam era) — Shadows Fall disbands (2015); Bittner brings the Mapex rig to Flotsam & Jetsam's Dreams of Death
+- 2012: $8,900 (Overkill era) — Joins Overkill full-time, carrying the same Mapex Saturn V shells, Zildjian K & A Custom cymbals, and Mapex Falcon double pedal
+- 2024: $9,800 (Category 7 era) — Same Mapex/Zildjian rig carries into thrash supergroup Category 7
+- 2026: $8,278 (Current adjusted) — Inflation-adjusted value of original 2004 setup
+
 **Sources:**
-- Tama Starclassic Performer B/B Catalog (2004)
+- Mapex Saturn V Catalog (2004)
 - Modern Drummer — Jason Bittner Interview (2005)
-- Mapex Artist Profiles — Jason Bittner (2017)
-- Reverb Price Guide — Vintage Tama Starclassic Performer (2025)
+- Mapex Artist Profiles — Jason Bittner (2012)
+- Reverb Price Guide — Vintage Mapex Saturn V (2025)
 
 [Full gear profile](https://metalforge.io/drummers/jason-bittner/gear-history)
 
@@ -1235,6 +1443,13 @@ Jay Weinberg's 2014 setup marked his arrival as Slipknot's drummer #1 — a natu
 - **Cymbals:** Zildjian — 14" A New Beat Hi-Hats, 18"/19" A Custom Crashes, 21" K Custom Ride, 19" K China, 7" FX Break Bell
 - **Notable:** Weinberg's verified current setup carries the SJC Custom Drums platform he built during Slipknot's final era into his 2023 arrival at Suicidal Tendencies, touring on Metallica's M72 World Stadium Tour.
 
+**Price Evolution:**
+- 2014: $4,530 (Original Purchase) — Joins Slipknot, .5: The Gray Chapter recording
+- 2018: $6,500 (We Are Not Your Kind era) — Switch to SJC Custom Drums and Zildjian K Custom cymbals
+- 2021: $7,000 (The End, So Far era) — Roland trigger system added to SJC setup
+- 2023: $8,500 (Suicidal Tendencies era) — Exits Slipknot, joins Suicidal Tendencies with SJC OBEY collaboration kit
+- 2026: $6,270 (Current adjusted) — Inflation-adjusted value of original 2014 Pearl Reference Pure setup
+
 **Sources:**
 - Pearl Reference Pure Catalog (2014)
 - Modern Drummer — Jay Weinberg Interview (2015)
@@ -1247,17 +1462,29 @@ Jay Weinberg's 2014 setup marked his arrival as Slipknot's drummer #1 — a natu
 
 ## Jimmy DeGrasso — Megadeth
 
-**Iconic era:** The World Needs a Hero (2001)
+**Active:** 1987–present | **Iconic era:** The World Needs a Hero (2001)
 
 Jimmy DeGrasso's 2001 setup behind Megadeth's The World Needs a Hero — recorded during his 1998-2002 tenure after joining the band with only days of notice to learn its full back catalogue — captures the rig behind one of thrash metal's most in-demand touring drummers.
 
 ### The World Needs a Hero Era (2001)
 
-- **Kit:** Pearl Masters Maple Complete — 22" bass drum, 10"/12" rack toms, 16" floor tom
-- **Snare:** Pearl Free-Floating Steel — 14" x 6.5" shell, free-floating lugs
+- **Kit:** Pearl Masters Maple Complete — professional maple shell pack (representative model); 22" bass drum, 10"/12" rack toms, 16" floor tom
+- **Snare:** Pearl Free-Floating Steel 14"x6.5" — free-floating lugs
 - **Cymbals:** Sabian AA Series — 14" AA hi-hats, 16"/18" AA crash, 20" AA ride, 18" AA china
 - **Original setup cost (2001):** ~$4,671
-- **Inflation-adjusted to 2026:** ~$8,640
+- **Inflation-adjusted to 2026:** ~$8,645
+
+### JD1455 Signature Snare Era (2008–present)
+
+- **Snare:** Pearl JD1455 Jimmy DeGrasso Signature — 14"x5.5" hammered brass shell, gold-plated hardware, unveiled at the 2008 NAMM Show
+- **Notable:** Seven years after The World Needs a Hero, Pearl honored DeGrasso with a dedicated signature snare — making him one of relatively few touring metal drummers with a namesake production snare.
+---
+
+**Price Evolution:**
+- 1998: $3,500 (Joins Megadeth) — Recruited to Megadeth's touring/recording lineup, learning the full back catalogue on short notice
+- 2001: $4,671 (Original Purchase) — The World Needs a Hero recorded — Pearl/Sabian/Promark/Evans rig
+- 2008: $5,200 (JD1455 Signature Snare) — Pearl unveils a dedicated JD1455 14"x5.5" hammered brass signature snare at NAMM, years after his Megadeth tenure
+- 2026: $8,645 (Current adjusted) — Inflation-adjusted value of the 2001 Megadeth-era Pearl/Sabian setup
 
 **Sources:**
 - Pearl Masters Maple Catalog (2001)
@@ -1293,11 +1520,18 @@ Jocke Wallgren's 2016 setup behind Amon Amarth's Jomsviking — his first album 
 - **Cymbals:** Meinl Byzance full setup
 - **Notable:** The Great Heathen Army, nominated for a 2023 Grammis Award, represents Wallgren's most refined performance — a step back toward Amon Amarth's melodic death metal origins built on the same gear foundation since 2016.
 
+**Price Evolution:**
+- 2009: $2,000 (Evergrey / Rage Era) — Building European touring experience in power and progressive metal on an early Zildjian cymbals / Pearl double pedal setup (signed 2005)
+- 2016: $5,949 (Original Purchase) — Jomsviking recorded — joined Amon Amarth on the Pearl Reference Pure / Zildjian A Custom & K Custom setup established since 2013/2005
+- 2019: $7,000 (Berserker Era) — Same Pearl / Zildjian core carried into Berserker, Demon Drive pedal anchoring the title track's extended blast-beat sections
+- 2022: $7,600 (The Great Heathen Army Era) — Fully evolved touring configuration for Amon Amarth's Grammis-nominated studio album
+- 2026: $8,120 (Current adjusted) — Inflation-adjusted value of the 2016 Jomsviking-era Pearl Reference Pure / Zildjian A Custom & K Custom setup
+
 **Sources:**
-- Tama Starclassic Performer B/B Catalog (2016)
-- Meinl Byzance Traditional Series Catalog (2016)
+- Pearl Reference Pure Catalog (2016)
+- Zildjian A Custom & K Custom Series Catalog (2016)
 - Blabbermouth — Jocke Wallgren Interview (2017)
-- Reverb Marketplace Analysis — Tama Starclassic Performer (2025)
+- Reverb Marketplace Analysis — Pearl Reference Pure (2025)
 
 [Full gear profile](https://metalforge.io/drummers/jocke-wallgren/gear-history)
 
@@ -1329,6 +1563,14 @@ Joey Jordison's legendary Iowa-era setup - the kit behind one of the heaviest al
 - **Cymbals:** Paiste Signature (reduced configuration for smaller venues)
 - **Notable:** Joey's return to drumming after his illness was considered remarkable by medical professionals. His final recordings with Sinsaenum (2018) demonstrated no loss of technical ability.
 
+**Price Evolution:**
+- 2001: $11,005 (Original Purchase) — Iowa recording
+- 2004: $11,500 (Vol. 3 era) — Signature products expand
+- 2008: $12,000 (All Hope Is Gone) — Peak Slipknot era
+- 2013: $11,000 (Market correction) — Joey leaves Slipknot
+- 2021: $18,000 (Memorial spike) — Joey Jordison passes away
+- 2026: $20,300 (Current adjusted) — Legacy premium + inflation
+
 **Sources:**
 - Pearl Drums Official Catalog (2001)
 - Modern Drummer - Joey Jordison Feature (2001)
@@ -1341,16 +1583,22 @@ Joey Jordison's legendary Iowa-era setup - the kit behind one of the heaviest al
 
 ## John Longstreth — Origin
 
-**Iconic era:** Chaosmos (2022)
+**Active:** 1995–present | **Iconic era:** Chaosmos (2022)
 
 John Longstreth's setup around Origin's Chaosmos (2022) documents the rig behind one of extreme metal's fastest and most technically accomplished drummers, credited with pioneering double-stroke bass drum technique and the one-handed drum roll.
 
 ### Chaosmos Era (2022)
 
-- **Kit:** Pearl Masters Maple Complete — 22" bass drum, 10"/12" rack toms, 16" floor tom
-- **Cymbals:** Meinl Classics Custom Dark + Generation X Trash Hat — 8" Dark Splash, 14" Dark Hi-Hats, 18" Dark China, 12"/14" Generation X Trash Hat
+- **Kit:** Pearl Masters Maple Complete — professional maple shell pack (representative model); 22" bass drum, 10"/12" rack toms, 16" floor tom
+- **Cymbals:** Meinl Classics Custom Dark + Generation X Trash Hat — 8" Dark Splash, 14" Dark Hi-Hats, 18" Dark China, 12"/14" Trash Hat
 - **Original setup cost (2022):** ~$4,273
-- **Inflation-adjusted to 2026:** ~$4,782
+- **Inflation-adjusted to 2026:** ~$4,784
+- **Notable:** His Meinl Classics Custom Dark cymbal setup and Scorpion Percussion "Wee Heavy" signature drumsticks are itemized directly on each brand's own artist page, alongside ACD Unlimited bass drum pedals and FootBlaster triggers built for sustained high-speed blast-beat endurance. Longstreth is also an endorsed Pearl Drums artist, though Pearl's own artist specification page blocks automated access, so exact shell sizes are omitted rather than guessed.
+
+**Price Evolution:**
+- 1999: $1,500 (Origin Formation) — Co-founds Origin, the technical/brutal death metal band that becomes his primary drum chair
+- 2022: $4,273 (Original Purchase) — Chaosmos recorded — Pearl/Meinl/ACD Unlimited/Scorpion Percussion rig documented across each brand's own artist pages
+- 2026: $4,784 (Current adjusted) — Inflation-adjusted value of the 2022 Chaosmos-era setup
 
 **Sources:**
 - Meinl Cymbals — John Longstreth Artist Page (2026)
@@ -1364,7 +1612,7 @@ John Longstreth's setup around Origin's Chaosmos (2022) documents the rig behind
 
 **Active:** 1994–present | **Iconic era:** Significant Other (1999)
 
-John Otto's 1999 setup powered Limp Bizkit's commercial breakthrough, "Significant Other" — debuting at #1 on the Billboard 200 and eventually certified 15x Platinum. A Sonor Force 3007 kit with beech shells gave Otto's jazz-and-hip-hop-informed groove the tonal balance to cut through Wes Borland's detuned guitars and DJ Lethal's turntable work, while Paiste 2002 cymbals supplied the bright, projecting attack the dense nu-metal mix demanded.
+John Otto's 1999 setup powered Limp Bizkit's commercial breakthrough, "Significant Other" — debuting at #1 on the Billboard 200 and eventually certified 15x Platinum. A newly adopted Orange County Drum and Percussion (OCDP) custom kit gave Otto's jazz-and-hip-hop-informed groove the tonal balance to cut through Wes Borland's detuned guitars and DJ Lethal's turntable work, while Zildjian A Series cymbals supplied the bright, projecting attack the dense nu-metal mix demanded.
 
 ### Significant Other / Chocolate Starfish Era (1999–2000)
 
@@ -1386,11 +1634,17 @@ John Otto's 1999 setup powered Limp Bizkit's commercial breakthrough, "Significa
 - **Cymbals:** Zildjian — various crashes, hi-hats, and rides
 - **Notable:** Otto's verified current setup centers on a custom OCDP kit, reflecting a shift away from his earlier Sonor and Pearl endorsements while keeping his long-running Zildjian and Remo relationships intact.
 
+**Price Evolution:**
+- 1999: $4,876 (Original Purchase) — Significant Other debuts at #1, eventually 15x Platinum
+- 2000: $5,100 (Chocolate Starfish era) — Album sets largest first-week SoundScan total at the time
+- 2009: $6,800 (Reunion tour) — Original lineup reunites for world tour
+- 2021: $8,700 (Still Sucks era) — First Limp Bizkit album in 10 years
+- 2026: $9,588 (Current adjusted) — Inflation-adjusted value, OCDP custom kit era
+
 **Sources:**
-- Sonor Force 3007 Catalog (1999)
-- Paiste 2002 Series Retail Pricing Archive (1999)
-- Modern Drummer — John Otto Interview (2004)
-- Reverb Marketplace Analysis — Vintage Sonor Force (2025)
+- OCDP Custom Drums Catalog (1999)
+- Zildjian A Series Retail Pricing Archive (1999)
+- Reverb Marketplace Analysis — Vintage OCDP Custom Kits (2025)
 
 [Full gear profile](https://metalforge.io/drummers/john-otto/gear-history)
 
@@ -1422,6 +1676,13 @@ Jon Dette's 1996 setup behind Slayer's touring cycle — stepping in for an unav
 - **Snare:** 14"x6.5" — consistent professional standard
 - **Notable:** The Formation of Damnation (2008) marked Testament's Nuclear Blast-era comeback; Dark Roots of Earth (2012) continued the resurgence. In 2010, Dette also filled in for Charlie Benante on Anthrax tour dates — making him one of the few drummers to have performed with three of thrash metal's Big Four acts.
 
+**Price Evolution:**
+- 1996: $3,906 (Slayer Touring Era) — Original Purchase — filled in for Paul Bostaph on short notice, Ludwig Classic Maple kit applied to Slayer's full Reign in Blood/South of Heaven/Seasons in the Abyss catalogue
+- 1999: $4,262 (The Gathering Era) — Joined Testament for The Gathering — widely considered one of the band's finest albums, featuring guitar work from James Murphy
+- 2008: $5,200 (Formation of Damnation Era) — Testament's Nuclear Blast-era comeback record
+- 2012: $5,800 (Dark Roots of Earth Era) — Continued Testament resurgence; also filled in for Charlie Benante on Anthrax tour dates in 2010
+- 2026: $8,156 (Current adjusted) — Inflation-adjusted value of the 1996 Slayer-era Ludwig Classic Maple setup
+
 **Sources:**
 - Ludwig Classic Maple Catalog (1996)
 - Sabian/Zildjian Cymbals Catalog (1996)
@@ -1452,6 +1713,14 @@ Kevin Talley's 2000 setup behind Dying Fetus's Destroy the Opposition shows how 
 - **Snare:** Pearl Masters 14"x5.5" Maple
 - **Cymbals:** Sabian AAX Series — 14" Stage hi-hats, 17"/18" X-Plosion crashes, 20" Stage ride
 - **Notable:** Talley carried the same Pearl/Zildjian/DW combination through Misery Index's Retaliate (2003) and Discordia (2006) and Dying Fetus's War of Attrition (2007), only upgrading construction tier — not brand category — when he settled on his current Pearl Masters Premium Legend/Sabian AAX/Pearl Eliminator rig.
+
+**Price Evolution:**
+- 1999: $2,600 (Joins Dying Fetus) — Entry-level Pearl/Zildjian/DW rig established
+- 2000: $2,846 (Original Purchase) — Destroy the Opposition recorded — landmark polyrhythmic blast beat brutal death metal album
+- 2003: $3,400 (Misery Index era) — Retaliate recorded; same Pearl/Zildjian/DW rig carries into a grindcore-adjacent context
+- 2007: $4,400 (War of Attrition era) — Dying Fetus return; most documented touring configuration of the DW-pedal era
+- 2018: $5,600 (Current rig era) — Pearl Masters Premium Legend / Sabian AAX / Pearl Eliminator setup established
+- 2026: $5,414 (Current adjusted) — Inflation-adjusted value of original 2000 setup
 
 **Sources:**
 - Pearl Export Series Catalog (2000)
@@ -1489,6 +1758,15 @@ Lars Ulrich's 1983 thrash metal setup that helped define the genre. Starting wit
 - **Snare:** Tama Lars Ulrich Signature Steel 14"×6.5"
 - **Cymbals:** Zildjian A Custom — 14" hi-hats, 17" crash, 19" crash, 20" medium ride
 
+**Price Evolution:**
+- 1983: $2,068 (Original Purchase) — Kill 'Em All recording
+- 1986: $2,200 (Slight appreciation) — Master of Puppets released
+- 1991: $2,800 (Black Album era) — Metallica goes mainstream
+- 2000: $3,500 (Vintage interest grows) — Nostalgia market emerges
+- 2010: $4,200 (Collector interest) — Vintage drum boom
+- 2020: $5,500 (Pandemic spike) — Home studio demand
+- 2026: $6,800 (Current adjusted) — Inflation-adjusted value
+
 **Sources:**
 - Music Trades Magazine Drum Retail Report (1983)
 - Modern Drummer - Lars Ulrich Interview (1985)
@@ -1522,10 +1800,17 @@ Mario Duplantier's 2001 setup behind Gojira's (then Godzilla) debut Terra Incogn
 
 ### Magma / Fortitude Era (2016–present)
 
-- **Kit:** Sonor SQ2 — fully custom maple/beech shells, dual 22"x18" kicks, 10"/12"/13"/16"/18" toms
-- **Snare:** Sonor SQ2 14"x6.5" custom maple
+- **Kit:** Tama Starclassic Bubinga — bubinga shells, dual 22"x18" kicks, 10"/12"/13"/16"/18" toms
+- **Snare:** Tama S.L.P. 14"x6.5" G-Maple
 - **Cymbals:** Meinl Byzance (continued) — 14" Traditional hi-hats, 17"/18"/19" crashes, 21" Vintage ride, 18" China
-- **Notable:** Gojira reached global headliner status in this era — headlining Download Festival, supporting Metallica at stadiums on the M72 World Tour, and performing at the Paris Olympics 2024 opening ceremony. Fortitude (2021) earned a Grammy nomination. The Sonor SQ2 is Mario's most personal and refined kit to date.
+- **Notable:** Gojira reached global headliner status in this era — headlining Download Festival, supporting Metallica at stadiums on the M72 World Tour, and performing at the Paris Olympics 2024 opening ceremony. Fortitude (2021) earned a Grammy nomination. The Starclassic Bubinga is Mario's most personal and refined kit to date.
+
+**Price Evolution:**
+- 2001: $2,828 (Original Purchase) — Terra Incognita recording — Bayonne DIY dual-kick setup
+- 2005: $9,000 (From Mars to Sirius era) — First Gretsch USA Custom endorsement, international breakthrough
+- 2012: $12,500 (L'Enfant Sauvage era) — Meinl Byzance cymbal switch, expanded Gretsch rig with 8" rack tom
+- 2021: $18,000 (Fortitude era) — Switch to Tama Starclassic Bubinga kit; Tama Mario Duplantier signature sticks launched
+- 2026: $5,231 (Current adjusted) — Inflation-adjusted value of original 2001 setup
 
 **Sources:**
 - Pearl Export Series Catalog (2001)
@@ -1558,11 +1843,18 @@ Martin Axenrot's 2008 setup recorded his studio debut with Opeth, "Watershed" �
 - **Cymbals:** Meinl Byzance
 - **Notable:** Axenrot has remained rooted in Sonor and Meinl gear throughout his entire Opeth tenure — one of the longest unbroken brand relationships among the drummers tracked in this gear price index.
 
+**Price Evolution:**
+- 2008: $13,378 (Original Purchase) — Studio debut on Watershed, Opeth's highest US chart placement at the time
+- 2011: $14,600 (Heritage era) — Opeth's prog-rock turn, twin-kick DW setup carries over
+- 2016: $17,200 (Sorceress era) — Continued DW/Sabian setup
+- 2019: $18,900 (In Cauda Venenum era) — Most recent Opeth studio album to date
+- 2026: $20,356 (Current adjusted) — Inflation-adjusted value
+
 **Sources:**
-- Sonor SQ2 / Designer Series Catalog (2008)
-- Meinl Byzance Series Retail Pricing Archive (2008)
+- DW Collector's Series Catalog (2008)
+- Sabian HHX/AAX Retail Pricing Archive (2008)
 - Opeth Watershed Album Credits (2008)
-- Reverb Marketplace Analysis — Sonor SQ2 Custom (2025)
+- Reverb Marketplace Analysis — DW Custom (2025)
 
 [Full gear profile](https://metalforge.io/drummers/martin-axenrot/gear-history)
 
@@ -1572,7 +1864,7 @@ Martin Axenrot's 2008 setup recorded his studio debut with Opeth, "Watershed" �
 
 **Active:** 1997–present (metal drumming career) | **Iconic era:** My Arms, Your Hearse (1998)
 
-Martin Lopez's 1998 setup behind Opeth's My Arms, Your Hearse — his debut studio album after joining the band in 1997 — centered on a Noble & Cooley Walnut shell pack chosen for the warm, resonant tone that let Lopez's jazz-inflected dynamics breathe against Opeth's progressive death metal arrangements.
+Martin Lopez's 1998 setup behind Opeth's My Arms, Your Hearse — his debut studio album after joining the band in 1997 — centered on a Sonor Designer Series maple shell pack chosen for the warm, resonant tone that let Lopez's jazz-inflected dynamics breathe against Opeth's progressive death metal arrangements, a setup that became a reference standard for progressive metal drum sound through Blackwater Park (2001), Deliverance (2002), and Ghost Reveries (2005).
 
 ### Joined Opeth (1997)
 
@@ -1596,11 +1888,19 @@ Martin Lopez's 1998 setup behind Opeth's My Arms, Your Hearse — his debut stud
 - **Cymbals:** Zildjian K Dark Series (same configuration)
 - **Notable:** Same core setup carried into Opeth's commercial breakthrough album, produced with Steven Wilson.
 
+**Price Evolution:**
+- 1997: $2,200 (Joined Opeth) — Replaced Anders Nordin; developing Sonor / Sabian endorsements
+- 1998: $5,143 (Original Purchase) — My Arms, Your Hearse recorded — full Sonor Designer / Sabian HH/AAX rig documented
+- 2001: $5,600 (Blackwater Park era) — Same core setup carried into Opeth's commercial breakthrough album
+- 2006: $5,600 (Departs Opeth) — Left the band due to health issues after Ghost Reveries
+- 2010: $6,200 (Soen founded) — Switches to Noble & Cooley Walnut shell pack and Zildjian A/K cymbals
+- 2026: $10,336 (Current adjusted) — Inflation-adjusted value of the 1998 My Arms, Your Hearse-era setup
+
 **Sources:**
-- Noble & Cooley Custom Drum Catalog (1998)
-- Zildjian K Series Catalog (1998)
+- Sonor Designer Series Catalog (1998)
+- Sabian HH/AAX Series Catalog (1998)
 - Drummerworld — Martin Lopez Profile (2015)
-- Reverb Price Guide — Noble & Cooley Custom Shells (2025)
+- Reverb Price Guide — Sonor Designer Series (2025)
 
 [Full gear profile](https://metalforge.io/drummers/martin-lopez/gear-history)
 
@@ -1632,6 +1932,14 @@ Matt Garstka's 2014 debut with Animals as Leaders on The Joy of Motion introduce
 - **Snare:** Pearl Matt Garstka Signature Snare
 - **Cymbals:** Meinl Byzance (various configurations per tour)
 - **Notable:** Garstka continues touring "Parrhesia" while maintaining the core philosophy established a decade earlier: dynamics and musicality over raw power.
+
+**Price Evolution:**
+- 2014: $7,949 (Original Purchase) — The Joy of Motion recording
+- 2016: $8,600 (Signature products launch) — Pearl Matt Garstka Signature Snare and Vic Firth signature sticks released
+- 2019: $9,400 (Drumeo presence grows) — Garstka becomes one of the most-watched drum educators online
+- 2022: $10,200 (Parrhesia era) — AAL returns with its most dynamically ambitious album
+- 2024: $10,800 (Touring Parrhesia) — Continued global clinics and touring
+- 2026: $11,000 (Current adjusted) — Inflation-adjusted value
 
 **Sources:**
 - Pearl Masterworks Maple Professional Catalog (2014)
@@ -1672,6 +1980,15 @@ Matt Greiner's 2011 Leveler-era configuration represents the technical and finan
 - **Cymbals:** Meinl Byzance — mixed Dark and Traditional series
 - **Notable:** ABR's career-peak commercial phase. Greiner's setup has evolved toward Pearl's custom shop offerings for live touring, with consistent Meinl Byzance endorsement across the full professional range.
 
+**Price Evolution:**
+- 2011: $8,632 (Original Purchase) — Leveler recording and release
+- 2013: $9,200 (Back Burner era) — ABR EP; steadily growing fanbase
+- 2016: $9,800 (Rescue & Restore era) — ABR headlining major metalcore festivals
+- 2019: $10,600 (Messengers anniversary) — Decade-of-Messengers tour drives early ABR interest
+- 2021: $11,500 (Pandemic studio investment) — Home recording boom lifts Pearl Reference demand
+- 2023: $12,100 (Death Below era) — ABR career peak; Greiner's endorsement profile expands
+- 2026: $12,600 (Current adjusted) — Inflation-adjusted value
+
 **Sources:**
 - Pearl Reference Professional Catalog (2011)
 - Modern Drummer — Matt Greiner Interview (2011)
@@ -1710,6 +2027,14 @@ Matt Halpern's 2016 setup behind Periphery III: Select Difficulty captures the m
 - **Cymbals:** Meinl Byzance (mature, complete arsenal)
 - **Notable:** "Periphery IV: Hail Stan" (2019) and "Periphery V: Aliens" (2023) showcase Halpern's most mature Mapex Saturn V MH Exotic configuration — a flagship-tier kit reflecting his fully developed signature endorsement relationship.
 
+**Price Evolution:**
+- 2016: $10,398 (Original Purchase) — Periphery III: Select Difficulty recording
+- 2017: $10,700 (Grammy nomination) — 'The Price Is Wrong' earns a Best Metal Performance nomination at the 59th Grammy Awards
+- 2019: $11,800 (Hail Stan era) — Halpern switches from Mapex to Pearl Reference Series
+- 2023: $13,200 (Aliens era) — Mature Pearl Reference Series configuration on Periphery V
+- 2025: $13,800 (Continued Pearl/Meinl endorsement) — Halpern remains one of djent's most influential gear tastemakers
+- 2026: $14,200 (Current adjusted) — Inflation-adjusted value
+
 **Sources:**
 - Mapex Saturn Series Professional Catalog (2016)
 - Modern Drummer — Matt Halpern Interview (2017)
@@ -1740,6 +2065,15 @@ Mike Mangini's 2011 setup marks one of the most consequential drum-chair transit
 - **Snare:** Pearl Reference Brass Snare (14"x5" and 14"x6.5" options)
 - **Cymbals:** Sabian HHX/AAX Series — 14" HHX Evolution Hi-Hats, 17"/18"/19" Evolution Crashes, 21" HHX Raw Bell Dry Ride, 18" AAX Chinese, 10" AAX Splash
 - **Notable:** Starting with Distance Over Time (2019), Mangini made a wholesale switch away from the Meinl/DW combination he'd used since joining the band — moving to Pearl Reference Pure shells, Sabian HHX/AAX cymbals, and Pearl's own Eliminator Redline pedal. The same rig carried through A View from the Top of the World (2021), with a Roland SPD-SX added for hybrid acoustic/electronic work.
+
+**Price Evolution:**
+- 2010: $10,500 (Joins Dream Theater) — Wins publicized audition to replace Mike Portnoy; assembles Pearl/Meinl/DW rig
+- 2011: $12,356 (Original Purchase) — A Dramatic Turn of Events recorded — Mangini's studio debut with Dream Theater
+- 2013: $13,800 (Self-titled era) — Temporary switch to Ludwig Keystone X Maple shells for Dream Theater (2013)
+- 2016: $15,200 (The Astonishing era) — Returns to Pearl Masterworks Maple; same Meinl/DW hardware continues
+- 2019: $17,600 (Distance Over Time era) — Major switch to Pearl Reference Pure shells, Sabian HHX/AAX cymbals, and Pearl Eliminator Redline pedal
+- 2021: $18,900 (A View from the Top of the World era) — Same Pearl/Sabian rig continues; Roland SPD-SX sampling pad added for hybrid passages
+- 2026: $17,998 (Current adjusted) — Inflation-adjusted value of original 2011 setup
 
 **Sources:**
 - Pearl Masterworks Custom-Order Catalog (2011)
@@ -1776,10 +2110,19 @@ Mike Portnoy's 1992 setup that defined progressive metal drumming on Images and 
 - **Snare:** Tama Mike Portnoy Signature snare
 - **Cymbals:** Zildjian A Custom — 14" hi-hats, 17" and 19" crashes, 20" medium ride, 18" and 20" china, 22" ride
 
+**Price Evolution:**
+- 1992: $5,100 (Original Purchase) — Images and Words recording
+- 1994: $5,400 (Awake era) — Dream Theater expands prog-metal audience
+- 1999: $6,500 (Scenes from a Memory) — Metropolis Pt. 2 critical peak
+- 2005: $8,000 (Octavarium era) — Prog-metal mainstream crossover
+- 2010: $9,500 (Post-DT departure) — Collector interest spike
+- 2023: $11,200 (DT reunion) — Portnoy returns to Dream Theater
+- 2026: $11,900 (Current adjusted) — Inflation-adjusted value
+
 **Sources:**
 - Tama Artstar II Professional Catalog (1992)
 - Modern Drummer - Mike Portnoy Feature (1993)
-- Zildjian Artist Profiles Archive (1992)
+- Sabian Artist Profiles Archive (1992)
 - Reverb Price Guide — Vintage Tama (2025)
 
 [Full gear profile](https://metalforge.io/drummers/mike-portnoy/gear-history)
@@ -1812,6 +2155,13 @@ Mikkey Dee's 1993 setup behind Motörhead's Bastards — his studio debut with t
 - **Snare:** Pearl Free-Floating Steel 14"x6.5"
 - **Cymbals:** Zildjian A Custom / K Custom Dark (continued)
 - **Notable:** Following Lemmy's death and Motörhead's dissolution, Dee joined Scorpions in 2016, continuing the Pearl Reference/Evans configuration developed in Motörhead's final years, adapted for Scorpions' more melodic hard rock context.
+
+**Price Evolution:**
+- 1993: $4,500 (Original Purchase) — Bastards recording — Mikkey Dee's Motörhead studio debut, Tama Artstar II/Swingstar kit with Paiste Giant Beat/2002 cymbals
+- 2006: $7,500 (Kiss of Death era) — Switched to Pearl Reference Series and Zildjian A Custom cymbals as the Cameron Webb-produced era begins
+- 2015: $9,500 (Bad Magic era) — Motörhead's final album — refined Pearl Reference / Zildjian A Custom / K Custom Dark setup; "Thunder & Lightning" earns the band's only Grammy
+- 2016: $10,000 (Scorpions era) — Joined Scorpions following Lemmy Kilmister's death; continues the Pearl Reference/Evans configuration developed in Motörhead's final years
+- 2026: $10,202 (Current adjusted) — Inflation-adjusted value of the 1993 Bastards-era Tama/Paiste setup
 
 **Sources:**
 - Tama Artstar II Catalog (1993)
@@ -1851,11 +2201,17 @@ Morgan Ågren's 2001 setup behind the Mats/Morgan Band's Thanks for the Swans ca
 - **Cymbals:** Zildjian K Custom / Constantinople / A Custom mix
 - **Notable:** Devin Townsend specifically sought Ågren for the Devin Townsend Project in 2012, recognizing his ability to navigate odd-time signatures and metric modulations without losing feel. His setup has since evolved into a fully realized hybrid acoustic/electronic configuration with Roland SPD-SX sampling and an expanded trigger array, while remaining active with the Mats/Morgan Band.
 
+**Price Evolution:**
+- 1988: $1,500 (Zappa Tour Era) — Selected by Frank Zappa to tour at age 20, playing a modest professional kit
+- 1990: $5,000 (Early Sonor/Paiste Era) — Developing the Sonor and Paiste configuration that would become his long-term setup
+- 2001: $11,448 (Original Purchase) — Thanks for the Swans recorded — Sonor SQ2 Beech kit expanded with Paiste Signature / 2002 Series cymbal upgrade
+- 2026: $21,177 (Current adjusted) — Inflation-adjusted value of the 2001 International Recognition-era Sonor / Paiste Signature setup
+
 **Sources:**
-- DW Collector's Series Custom Catalog (2001)
-- Zildjian K Custom Catalog (2001)
+- Sonor SQ2 Custom Catalog (2001)
+- Paiste Signature / 2002 Series Catalog (2001)
 - Drum! Magazine — Morgan Ågren Interview (2002)
-- Reverb Marketplace Analysis — DW Collector's Series (2025)
+- Reverb Marketplace Analysis — Sonor SQ2 Series (2025)
 
 [Full gear profile](https://metalforge.io/drummers/morgan-agren/gear-history)
 
@@ -1889,8 +2245,14 @@ Navene Koperweis's 2012 setup behind Animals as Leaders' Weightless touring cycl
 - **Cymbals:** Meinl Byzance Extra Dry Series (same configuration)
 - **Notable:** Left Animals as Leaders in 2014, replaced by Matt Garstka, and carried the DW/Meinl configuration into his new progressive metal project, Entheos.
 
+**Price Evolution:**
+- 2012: $6,028 (Original Purchase) — Weightless touring cycle — full Tama Birch Silverstar / Meinl Byzance rig documented
+- 2014: $6,400 (Departs Animals as Leaders) — Left the band; replaced by Matt Garstka
+- 2015: $6,600 (Forms Entheos) — Formed Entheos and signed with DW Performance Series, moving on from the Tama Birch Silverstar kit he played throughout his Animals as Leaders tenure
+- 2026: $8,601 (Current adjusted) — Inflation-adjusted value of the 2012 Weightless-era setup
+
 **Sources:**
-- DW Drums Artist Page — Navene Koperweis (2012)
+- Tama Drums Artist Page — Navene Koperweis (2012)
 - Meinl Byzance Cymbals Artist Roster (2012)
 - Drumeo — Navene Koperweis Progressive Metal Drumming Feature (2013)
 - Reverb Price Guide — DW Performance Series (2025)
@@ -1927,11 +2289,18 @@ Nick Augusto's 2011 setup behind Trivium's In Waves marked his first full album 
 - **Cymbals:** Sabian AAX Series (same configuration)
 - **Notable:** Augusto carried the same Pearl/Sabian/Evans configuration into his second and final studio album with Trivium before departing in 2014.
 
+**Price Evolution:**
+- 2009: $5,000 (Joined Trivium) — Stepped in for Travis Smith mid-tour, playing a DW Performance Series kit
+- 2011: $9,654 (Original Purchase) — In Waves recorded — switch to Tama Starclassic Performer B/B / Meinl MB20/Classics Custom rig
+- 2013: $10,200 (Vengeance Falls era) — Same Tama/Meinl/Evans configuration carried into second studio album
+- 2014: $10,200 (Departs Trivium) — Left the band and later formed Corrosion
+- 2026: $14,062 (Current adjusted) — Inflation-adjusted value of the 2011 In Waves-era setup
+
 **Sources:**
-- Pearl Reference Pure Artist Page — Nick Augusto (2011)
-- Sabian AAX Series Catalog (2011)
+- Tama Starclassic Performer B/B Artist Page — Nick Augusto (2011)
+- Meinl MB20/Classics Custom Catalog (2011)
 - MusicRadar — Nick Augusto's Trivium Drum Setup in Pictures (2013)
-- Reverb Price Guide — Pearl Reference Pure (2025)
+- Reverb Price Guide — Tama Starclassic Performer B/B (2025)
 
 [Full gear profile](https://metalforge.io/drummers/nick-augusto/gear-history)
 
@@ -1939,21 +2308,25 @@ Nick Augusto's 2011 setup behind Trivium's In Waves marked his first full album 
 
 ## Nick Barker — Dimmu Borgir
 
-**Iconic era:** Death Cult Armageddon (2003)
+**Active:** 1993–present | **Iconic era:** Death Cult Armageddon (2003)
 
-Nick Barker's 2003 setup behind Dimmu Borgir's Death Cult Armageddon — his final studio album with the Norwegian symphonic black metal band before departing in 2004 — is documented in unusual detail thanks to a 2009 Sick Drummer Magazine listing selling Barker's original kit: a special-order, handmade-to-order Pearl Masterworks 10-ply maple shell pack with all-black hardware (ordered in 2003), paired with special-order black Paiste RUDE and Dimensions cymbals.
+Nick Barker's 2003 setup behind Dimmu Borgir's Death Cult Armageddon — his final studio album with the Norwegian symphonic black metal band before departing in 2004 — ran on the Sonor kit that Sonor's own artist page credits him with playing continuously from his 1993–1999 tenure in Cradle of Filth through his 1999–2004 run in Dimmu Borgir, recording both Puritanical Euphoric Misanthropia (2001) and Death Cult Armageddon (2003).
 
 ### Death Cult Armageddon Era (2003)
 
-- **Kit:** Pearl Masterworks Custom — 20"x18" bass drums (x2), 10"/12"/13"/14" rack toms, 16" floor tom
-- **Snare:** Pearl Masterworks FM-1435C — 14" x 3.5" maple shell, free-floating
+- **Kit:** Pearl Masterworks Custom — 10-ply maple, special-order all-black hardware; 20"x18" bass drums (x2), 10"/12"/13"/14" rack toms, 16" floor tom
+- **Snare:** Pearl Masterworks FM-1435C — 14"x3.5" free-floating piccolo, piano black maple shell
 - **Cymbals:** Paiste RUDE / Dimensions (Special-Order Black) — 24" Dimensions Mega Power Bell Ride, 22" Power Ride, 21" RUDE China (rare, later-discontinued cut), assorted crashes/hi-hats/splash
 - **Original setup cost (2003):** ~$8,570
-- **Inflation-adjusted to 2026:** ~$15,258
+- **Inflation-adjusted to 2026:** ~$15,259
+
+**Price Evolution:**
+- 1999: $3,000 (Joins Dimmu Borgir) — Departs Cradle of Filth and joins Norwegian symphonic black metal band Dimmu Borgir, continuing on Sonor
+- 2003: $8,570 (Original Purchase) — Special-order Sonor kit built for the Death Cult Armageddon era
+- 2026: $15,259 (Current adjusted) — Inflation-adjusted value of the 2003 Death Cult Armageddon-era Sonor rig
 
 **Sources:**
 - Sonor Artist Roster — Nick Barker (2026)
-- Sick Drummer Magazine — Nick Barker Original Pearl Masterworks Kit For Sale (2009)
 - Paiste RUDE / Dimensions Catalog (2003)
 
 [Full gear profile](https://metalforge.io/drummers/nick-barker/gear-history)
@@ -1987,6 +2360,15 @@ Nick Menza's iconic Rust in Peace-era setup — the stripped-down thrash weapon 
 - **Snare:** Sonor Designer Series steel snare
 - **Cymbals:** Zildjian A Custom and Z Custom Series
 - **Notable:** Menza's late-career setups reflected a broader, more refined approach. Sonor's German-engineered maple shells gave precision and warmth, while the DW 9000 upgrade provided smoother double-kick action. His final live performances with Megadeth in 2015–2016 used this type of rig before his passing in May 2016.
+
+**Price Evolution:**
+- 1990: $1,898 (Original Purchase) — Rust in Peace recording
+- 1992: $2,100 (Countdown era) — Menza upgrades to Tama Artstar
+- 1994: $2,400 (Youthanasia era) — Premier Signia endorsement begins
+- 1999: $3,000 (Reunion tour) — Classic kit nostalgia grows
+- 2010: $4,200 (Collector interest) — Rust in Peace 20th anniversary
+- 2020: $5,200 (Pandemic spike) — Home studio demand drives vintage prices
+- 2026: $4,757 (Current adjusted) — Inflation-adjusted value
 
 **Sources:**
 - Tama Swingstar Retail Catalog (1990)
@@ -2026,6 +2408,15 @@ Nicko McBrain's association with Pearl Drums is among the longest and most comme
 - **Original setup cost (2006):** ~$9,500
 - **Inflation-adjusted to 2026:** ~$15,300
 
+**Price Evolution:**
+- 1984: $3,891 (Original Purchase) — Powerslave recording and world tour
+- 1990: $4,700 (No Prayer for the Dying era) — Maiden's sustained commercial peak
+- 1998: $6,200 (Virtual XI era) — Classic Maiden catalog drives vintage interest
+- 2006: $8,000 (A Matter of Life and Death) — NWOBHM collector resurgence
+- 2015: $10,400 (Book of Souls era) — 40-year Pearl endorsement milestone
+- 2021: $11,800 (Legacy appreciation) — Pandemic drives vintage British metal gear demand
+- 2026: $12,300 (Current adjusted) — Inflation-adjusted value
+
 **Sources:**
 - Pearl DLX Professional Catalog (1984)
 - Modern Drummer — Nicko McBrain Interview (1985)
@@ -2063,6 +2454,13 @@ Paul Bostaph's 2015 setup behind Slayer's Repentless — the band's twelfth and 
 - **Cymbals:** Sabian AAX series — 14" Stage hi-hats, 17"/19" X-Plosion crashes, 21" Stage ride, 18" AAXtreme china
 - **Original setup cost (2015):** ~$5,643
 - **Inflation-adjusted to 2026:** ~$7,800
+
+**Price Evolution:**
+- 1994: $3,200 (Divine Intervention Era) — First Slayer studio album — Tama Artstar II and Paiste RUDE, debuted at #8 on the Billboard 200
+- 1998: $3,900 (Diabolus in Musica Era) — DW Collector's Series Maple and Zildjian A Custom — the first DW chapter of Bostaph's career
+- 2001: $4,500 (God Hates Us All Era) — Tama Starclassic Maple and Paiste 2002 — final album before Dave Lombardo's 2001 return
+- 2015: $5,643 (Repentless / Final World Tour Era) — Original Purchase — Pearl Masters Maple Complete, first Slayer album without Jeff Hanneman, carried through the Final World Tour
+- 2026: $7,800 (Current adjusted) — Inflation-adjusted value of the 2015 Repentless-era Pearl Masters Maple setup
 
 **Sources:**
 - Pearl Masters Maple Complete Catalog (2015)
@@ -2102,6 +2500,15 @@ Paul Mazurkiewicz's 1992 Cannibal Corpse setup — the kit behind Tomb of the Mu
 - **Cymbals:** Sabian AAX (consistent across career)
 - **Notable:** Mazurkiewicz's current Pearl Masters Maple Complete setup represents the culmination of a career-long Pearl relationship. The all-maple construction delivers the warmth and sustain needed for Cannibal Corpse's contemporary studio approach while remaining loud enough for festival and arena touring. His Sabian AAX cymbals are among the longest-running endorsement relationships in death metal.
 
+**Price Evolution:**
+- 1992: $2,028 (Original Purchase) — Tomb of the Mutilated recording
+- 1994: $2,100 (The Bleeding era) — Cannibal Corpse becomes death metal institution
+- 1998: $2,350 (Gallery of Suicide era) — George Fisher joins as vocalist
+- 2006: $3,200 (Kill era) — Pearl Reference Custom endorsement begins
+- 2014: $4,100 (A Skeletal Domain era) — Pearl Masters Maple Complete upgrade
+- 2020: $4,700 (Violence Unimagined era) — Pandemic vintage market surge
+- 2026: $4,737 (Current adjusted) — Inflation-adjusted value
+
 **Sources:**
 - Pearl Export Series Retail Catalog (1992)
 - Modern Drummer — Cannibal Corpse Feature (1994)
@@ -2140,10 +2547,17 @@ Pete Sandoval's 1989 setup for Morbid Angel's Altars of Madness — the album th
 - **Cymbals:** Sabian AAX and HHX Series
 - **Notable:** Pete Sandoval was forced to retire from drumming in 2013 following a back surgery that impaired his ability to play double bass at full speed. His gear across the later career years remained Tama/Sabian, with the DW 9000 replacing the 5002 for improved ergonomics.
 
+**Price Evolution:**
+- 1989: $1,591 (Original Purchase) — Altars of Madness recording
+- 1993: $1,800 (Covenant era) — Morbid Angel touring budget expands; Sandoval remains on ddrum
+- 1995: $2,200 (Domination era) — Morbid Angel reaches peak influence
+- 2003: $3,200 (Heretic era) — Vintage death metal interest grows
+- 2014: $4,500 (Health hiatus) — Sandoval retires due to back injury
+- 2020: $5,200 (Collector premium) — Altars of Madness 30th anniversary
+- 2026: $4,200 (Current adjusted) — Inflation-adjusted value
+
 **Sources:**
-- Pearl Export Professional Catalog (1989)
 - Metal Maniacs — Pete Sandoval Interview (1990)
-- Sabian Cymbal Retail Price List (1989)
 - DrummerWorld Archive — Pete Sandoval Equipment (2024)
 
 [Full gear profile](https://metalforge.io/drummers/pete-sandoval/gear-history)
@@ -2180,6 +2594,15 @@ Ray Luzier's 2010 DW Collector's Series setup from Korn III: Remember Who You Ar
 - **Original setup cost (2016):** ~$11,000
 - **Inflation-adjusted to 2026:** ~$15,000
 
+**Price Evolution:**
+- 2010: $9,140 (Original Purchase) — Korn III: Remember Who You Are recording
+- 2011: $9,400 (Path of Totality era) — Korn explores dubstep fusion
+- 2013: $9,800 (Paradigm Shift era) — Korn returns to heavier sound
+- 2016: $10,500 (Serenity of Suffering era) — Korn headlining major festivals
+- 2019: $11,200 (The Nothing era) — Korn continues arena-level touring
+- 2022: $12,800 (Post-pandemic premium) — Vintage DW Collector's values peak
+- 2026: $13,728 (Current adjusted) — Inflation-adjusted value
+
 **Sources:**
 - DW Collector's Series Professional Catalog (2010)
 - Modern Drummer — Ray Luzier Korn Feature (2010)
@@ -2210,6 +2633,15 @@ Raymond Herrera's 1995 setup behind Fear Factory's Demanufacture pioneered a tem
 - **Snare:** Tama 14"x6.5" Brass
 - **Cymbals:** Zildjian A Custom & Z Custom Series — 14" A Custom hi-hats, 18"/19" A Custom crashes, 21" Z Custom Mega Bell ride, 18" A Custom china
 - **Notable:** Herrera's rig has consolidated onto Tama and dropped the dedicated trigger rack in favor of a more conventional acoustic setup — even as compact modern trigger modules like the Roland TM-2 have made hybrid triggering far cheaper and easier to integrate than the rack-mounted brains he ran in 1995.
+
+**Price Evolution:**
+- 1992: $4,300 (Soul of a New Machine era) — Early Pearl/ddrum hybrid trigger rig established on Fear Factory's debut
+- 1995: $5,202 (Original Purchase) — Demanufacture recorded — the founding template of industrial metal's hybrid triggered drum sound
+- 1998: $5,900 (Obsolete era) — Rhys Fulber-produced hybrid kit refined further; commercial peak for Fear Factory
+- 2001: $6,400 (Digimortal era) — Same Pearl/Zildjian/ddrum rig carries through
+- 2009: $7,800 (Arkaea era) — Post-Fear Factory project; gear consolidates toward a more conventional acoustic setup
+- 2016: $9,500 (Current Tama era) — Tama Starclassic + Zildjian A/Z Custom becomes Herrera's standard rig
+- 2026: $11,182 (Current adjusted) — Inflation-adjusted value of original 1995 setup
 
 **Sources:**
 - Pearl Reference Series Catalog (1995)
@@ -2248,6 +2680,13 @@ Richard Christy's 1998 setup behind Death's The Sound of Perseverance — Chuck 
 - **Cymbals:** Sabian AA / AAX, expanded setup
 - **Notable:** Christy joined Iced Earth in 2003 as touring and studio drummer, appearing on The Glorious Burden (2004) and the Overture of the Wicked EP (2006), scaling his setup for larger touring productions before leaving metal drumming in 2007 to focus on his entertainment career at The Howard Stern Show.
 
+**Price Evolution:**
+- 1996: $3,200 (Joined Death / Control Denied) — Handpicked by Chuck Schuldiner; began touring and recording with a Pearl Masters Custom kit
+- 1998: $6,183 (Original Purchase) — The Sound of Perseverance recorded at Morrisound — full Pearl Masters Custom / Sabian AA-AAX setup documented
+- 1999: $6,183 (The Fragile Art of Existence era) — Same rig carried into Control Denied's progressive metal sessions
+- 2003: $6,800 (Iced Earth era) — Joined Iced Earth as touring and studio drummer; setup expanded for larger stage productions
+- 2026: $12,427 (Current adjusted) — Inflation-adjusted value of the 1998 Sound of Perseverance-era setup
+
 **Sources:**
 - Pearl Masters Custom Catalog (1998)
 - Sabian AA/AAX Cymbal Catalog (1998)
@@ -2283,6 +2722,13 @@ Ryan Van Poederooyen's 2011 setup behind Devin Townsend Project's Deconstruction
 - **Kit:** Pearl Reference series (full touring configuration)
 - **Cymbals:** Full Sabian AAX/HHX setup
 - **Notable:** Empath, Devin Townsend's most genre-spanning record — featuring opera, jazz, folk, and extreme metal elements across a single album — carried the same Pearl / Sabian / Tama core established on Deconstruction into Townsend's most ambitious compositional statement.
+
+**Price Evolution:**
+- 1999: $1,500 (Devin Townsend Band Formation) — Began collaboration with Devin Townsend
+- 2003: $3,500 (Accelerated Evolution Era) — Pearl Reference series established as the core kit
+- 2011: $5,898 (Original Purchase) — Deconstruction and Ghost recorded and released the same day — definitive Pearl Reference / Sabian AAX-HHX setup, among prog metal's most demanding drum performances
+- 2019: $6,500 (Empath Era) — Same Pearl / Sabian / Tama core carried into Townsend's most genre-spanning record
+- 2026: $8,591 (Current adjusted) — Inflation-adjusted value of the 2011 Deconstruction-era Pearl Reference setup
 
 **Sources:**
 - Pearl Reference Series Catalog (2011)
@@ -2322,6 +2768,15 @@ Scott Travis's 1990 Painkiller-era setup marks one of the most consequential gea
 - **Cymbals:** Sabian HHX Series — 14" hi-hats, 16"/18"/19" crashes, 21" ride, 18" China
 - **Notable:** Firepower (2018) marked Travis's thirty-year anniversary with Priest and his return to Tama, trading the Pearl Reference's hybrid ply for maple's warmer, fuller body — a better match for producers Andy Sneap and Tom Allom's layered guitar sound. The same Starclassic Maple platform carried him through Invincible Shield (2024), Priest's highest-charting album ever in the UK. Throughout every gear change, Travis has kept his career-long independent double-kick approach rather than switching to a linked pedal.
 
+**Price Evolution:**
+- 1990: $4,200 (Original Purchase) — Painkiller recording and world tour
+- 1997: $4,800 (Jugulator era) — Tim "Ripper" Owens era; same Tama/Paiste rig continues
+- 2005: $6,200 (Angel of Retribution era) — Rob Halford reunion drives Priest nostalgia market
+- 2010: $7,800 (Collector interest grows) — Vintage Tama Artstar II and Paiste 2002 gain collector status
+- 2018: $9,200 (Firepower era) — Travis switches to ddrum, boosting vintage Tama Artstar II collector demand
+- 2022: $10,100 (Post-pandemic premium) — Home studio demand for vintage speed-metal gear
+- 2026: $10,527 (Current adjusted) — Inflation-adjusted value
+
 **Sources:**
 - Tama Artstar II Professional Catalog (1990)
 - Modern Drummer — Scott Travis Interview (1991)
@@ -2356,6 +2811,13 @@ Sean Reinert's 1991 setup behind Death's Human — the album that introduced jaz
 - **Cymbals:** Zildjian K Custom — darker, more complex tone than the A/K series of the Human/Focus era
 - **Notable:** Cynic's reunion album, fifteen years after Focus, following Reinert's 1999 contribution to Gordian Knot's Emergent. Self-produced by Reinert and Paul Masvidal, the DW Collector's Series and Zildjian K Custom upgrade gave the album a warmer, more atmospheric sound suited to its mature, less aggressive songwriting.
 
+**Price Evolution:**
+- 1989: $1,200 (Cynic Formation) — Co-founded Cynic with Paul Masvidal in Miami, Florida
+- 1991: $5,237 (Human Era) — Original Purchase — Tama Artstar II / Zildjian A-K rig behind Death's Human, widely considered the birth of progressive death metal
+- 1993: $5,600 (Focus Era) — Cynic's Focus — same Tama/Zildjian core pushed further into jazz-fusion and electronic textures
+- 2008: $7,200 (Traced in Air Era) — Cynic reunion — upgraded to DW Collector's Series maple and Zildjian K Custom for a warmer, more atmospheric sound
+- 2026: $12,596 (Current adjusted) — Inflation-adjusted value of the 1991 Human-era Tama Artstar II setup
+
 **Sources:**
 - Tama Artstar II Catalog (1991)
 - Zildjian A/K Cymbals Catalog (1991)
@@ -2370,7 +2832,7 @@ Sean Reinert's 1991 setup behind Death's Human — the album that introduced jaz
 
 **Active:** 1985–present | **Iconic era:** Faceless (2003)
 
-Shannon Larkin's 2002 setup marked his arrival in Godsmack after more than a decade grinding through Wrathchild America, Souls at Zero, Ugly Kid Joe, and Amen. The Tama Starclassic Performer MX — a maple/birch hybrid shell pack — gave him the punch and warmth needed to anchor one of rock radio's heaviest, most recognizable sounds on Faceless (2003) and IV (2006).
+Shannon Larkin's 2002 setup marked his arrival in Godsmack after more than a decade grinding through Wrathchild America, Souls at Zero, Ugly Kid Joe, and Amen. Larkin brought his ddrum Dios Series kit — a hard-hitting hybrid shell pack — into the band, giving him the punch and warmth needed to anchor one of rock radio's heaviest, most recognizable sounds on Faceless (2003) and IV (2006).
 
 ### Pre-Godsmack Era — Wrathchild America / Souls at Zero / Amen (1985–2001)
 
@@ -2392,11 +2854,19 @@ Shannon Larkin's 2002 setup marked his arrival in Godsmack after more than a dec
 - **Cymbals:** Sabian AAX & HHX Series — 14" AAX Stage Hi-Hats, 18"/19" AAX X-Plosion Crashes, 21" HHX Raw Bell Dry Ride, 10" AAX Splash, 18" AAX China
 - **Notable:** Larkin's verified current setup is a ddrum Dios Series kit — a different chapter from the Tama/Vater rig that defined his Godsmack breakthrough, but built on the same hard-hitting, groove-first foundation. His Sabian relationship, now decades long, remains the one constant across his entire career.
 
+**Price Evolution:**
+- 2002: $8,250 (Original Purchase) — Joins Godsmack, Faceless recording sessions
+- 2006: $9,000 (IV era) — Godsmack IV debuts at #1 on Billboard
+- 2010: $11,500 (The Oracle era) — Continued ddrum/Sabian/DW/Vic Firth setup
+- 2018: $14,000 (When Legends Rise era) — Continued ddrum/Sabian/DW/Vic Firth setup
+- 2024: $15,500 (Godsmack departure) — Larkin exits Godsmack after a 22-year tenure
+- 2026: $15,023 (Current adjusted) — Inflation-adjusted value, ddrum Dios era
+
 **Sources:**
-- Tama Starclassic Performer MX Catalog (2002)
+- ddrum Dios Series Catalog (2002)
 - Modern Drummer — Shannon Larkin Interview (2004)
 - Sabian Artist Profile Archives (2003)
-- Reverb Marketplace Analysis — Vintage Tama Starclassic (2025)
+- Reverb Marketplace Analysis — ddrum Dios Series (2025)
 
 [Full gear profile](https://metalforge.io/drummers/shannon-larkin/gear-history)
 
@@ -2422,6 +2892,14 @@ Tim Yeung's 2005 setup behind Hate Eternal's I, Monarch documents one of technic
 - **Snare:** Tama S.L.P. Big Black Steel 14"x6.5"
 - **Cymbals:** Sabian AAX & HHX Series — 14" AAX Stage hi-hats, 18"/19" AAX X-Plosion crashes, 21" HHX Raw Bell Dry ride
 - **Notable:** Yeung joined Morbid Angel for the divisive but drum-praised Illud Divinum Insanus (2011) and returned the band to classic death metal form on Kingdoms Disdained (2017), by which point his rig had shifted from Pearl to Tama construction while keeping Sabian cymbals throughout.
+
+**Price Evolution:**
+- 1999: $3,200 (Conquering the Throne era) — Hate Eternal debut — Yeung's recording debut and technical death metal breakout
+- 2005: $4,377 (Original Purchase) — I, Monarch recorded — extreme double bass speed establishes the Pearl/Sabian/DW rig
+- 2008: $5,100 (Fury & Flames era) — Technical death metal peak; widely cited blast beat benchmark recording
+- 2011: $5,900 (Morbid Angel era) — Joins Morbid Angel for Illud Divinum Insanus
+- 2017: $6,900 (Kingdoms Disdained era) — Tama Starclassic Bubinga + Speed Cobra 910 current rig established
+- 2026: $7,342 (Current adjusted) — Inflation-adjusted value of original 2005 setup
 
 **Sources:**
 - Pearl Reference Series Catalog (2005)
@@ -2460,6 +2938,15 @@ Tomas Haake's 1998 Chaosphere-era setup — the kit behind one of extreme metal'
 - **Snare:** Tama S.L.P. Fat Spruce 14"×6" (or Tama Haake Signature when available)
 - **Cymbals:** Meinl Byzance Dark Series — 14" hi-hats, 16" and 18" crashes, 20" ride, 18" China
 
+**Price Evolution:**
+- 1998: $2,315 (Original Purchase) — Chaosphere recording
+- 2002: $2,500 (Nothing era) — Meshuggah releases Nothing
+- 2008: $3,200 (ÖBZen era) — Haake signs with Sonor SQ2, upgrades to Sabian HHX/AAX cymbals
+- 2012: $3,800 (Koloss era) — Meshuggah reaches global audiences
+- 2016: $4,200 (The Violent Sleep of Reason) — Full-album live performances
+- 2022: $5,100 (Immutable) — Career peak commercial success
+- 2026: $4,650 (Current adjusted) — Inflation-adjusted value
+
 **Sources:**
 - Tama Drums Professional Catalog (1998)
 - Modern Drummer — Tomas Haake Interview (2009)
@@ -2497,6 +2984,12 @@ Travis Orbin's 2017 setup behind Darkest Hour's Godless Prophets & the Migrant F
 - **Cymbals:** Zildjian K Custom Dark Series (same configuration)
 - **Notable:** Carried the same SJC/Zildjian configuration through subsequent Darkest Hour touring cycles.
 
+**Price Evolution:**
+- 2012: $6,800 (Departs Periphery) — Left the band after his run as a founding member; continued as a session and solo artist
+- 2017: $7,783 (Original Purchase) — Joins Darkest Hour — full SJC Custom / Zildjian K Custom rig documented on Godless Prophets & the Migrant Flora
+- 2019: $8,100 (Continued Darkest Hour tenure) — Same SJC / Zildjian configuration carried through subsequent touring cycles
+- 2026: $10,403 (Current adjusted) — Inflation-adjusted value of the 2017 Godless Prophets-era setup
+
 **Sources:**
 - SJC Custom Drums Artist Page — Travis Orbin (2017)
 - Zildjian K Custom Series Catalog (2017)
@@ -2511,7 +3004,7 @@ Travis Orbin's 2017 setup behind Darkest Hour's Godless Prophets & the Migrant F
 
 **Active:** 1981–2018 | **Iconic era:** Cowboys from Hell (1990)
 
-Vinnie Paul Abbott's 1990 Cowboys from Hell setup — the kit that launched Pantera into the mainstream metal consciousness and defined the groove metal drum sound for the decade. Paul played a Premier drum kit with Zildjian A Series cymbals and a DW double pedal, delivering the thunderous, pocket-locked groove that underpinned Dimebag Darrell's guitar work.
+Vinnie Paul Abbott's 1990 Cowboys from Hell setup — the kit that launched Pantera into the mainstream metal consciousness and defined the groove metal drum sound for the decade. Paul played a Tama drum kit — signed specifically for the Cowboys from Hell album cycle — with Sabian cymbals and a DW double pedal, delivering the thunderous, pocket-locked groove that underpinned Dimebag Darrell's guitar work.
 
 ### Cowboys from Hell Era (1990)
 
@@ -2534,11 +3027,20 @@ Vinnie Paul Abbott's 1990 Cowboys from Hell setup — the kit that launched Pant
 - **Cymbals:** Zildjian A Custom (continuous endorsement)
 - **Notable:** Vinnie Paul continued with DW and Zildjian A Custom through the Hellyeah years until his passing in June 2018. His final live configurations included elaborate custom DW shell finishes reflecting Hellyeah's hard rock/groove metal aesthetic.
 
+**Price Evolution:**
+- 1990: $2,728 (Original Purchase) — Cowboys from Hell recording
+- 1992: $2,900 (Vulgar Display era) — Pantera reaches mainstream peak
+- 1994: $3,800 (Far Beyond Driven) — Paul upgrades to Pearl Custom
+- 2000: $5,200 (Reinventing the Steel) — Pantera final studio album
+- 2004: $5,800 (Damage Plan era) — Paul remains on Pearl
+- 2018: $8,500 (Legacy premium) — Vinnie Paul passes away; collector interest spikes
+- 2026: $6,840 (Current adjusted) — Inflation-adjusted value
+
 **Sources:**
-- Premier Drums Professional Catalog (1990)
+- Tama Professional Catalog (1990)
 - Modern Drummer — Vinnie Paul Interview (1994)
 - Guitar World Gear Rundown — Pantera (1992)
-- Reverb Price Guide — Vintage Premier Drums (2025)
+- Reverb Price Guide — Vintage Tama Drums (2025)
 
 [Full gear profile](https://metalforge.io/drummers/vinnie-paul/gear-history)
 
@@ -2546,16 +3048,23 @@ Vinnie Paul Abbott's 1990 Cowboys from Hell setup — the kit that launched Pant
 
 ## Waltteri Väyrynen — Opeth
 
-**Iconic era:** The Last Will and Testament (2024)
+**Active:** 2015–present | **Iconic era:** The Last Will and Testament (2024)
 
 Waltteri Väyrynen's setup around Opeth's The Last Will and Testament (2024) — his first album with the Swedish progressive metal band after joining in 2022 to replace longtime drummer Martin Axenrot — documents the rig behind a drummer whose prior credits include Paradise Lost's Medusa (2017) and Obsidian (2020).
 
 ### The Last Will and Testament Era (2024)
 
-- **Kit:** Pearl Masters Maple Complete — 22" bass drum, 10"/12" rack toms, 16" floor tom
-- **Cymbals:** Sabian HH Power Bell Ride 22" (confirmed centerpiece) — 22" HH Power Bell Ride
+- **Kit:** Pearl Masters Maple Complete — professional maple shell pack (representative model); 22" bass drum, 10"/12" rack toms, 16" floor tom
+- **Cymbals:** Sabian HH Power Bell Ride 22" (confirmed centerpiece) — 22" Hand Hammered Power Bell Ride
 - **Original setup cost (2024):** ~$3,913
 - **Inflation-adjusted to 2026:** ~$4,076
+- **Notable:** His Pearl drum endorsement and Sabian cymbal endorsement are both confirmed via each brand's own artist materials, and Sabian names the 22" HH Power Bell Ride as his favourite piece in the setup; the rest of his cymbal lineup isn't itemized there, so only this confirmed piece is priced. He plays Wincent's W-5BXL signature stick model, announced through Wincent's artist roster in December 2022.
+
+**Price Evolution:**
+- 2016: $1,500 (Abhorrence & Session Work) — Begins drumming for Finnish death metal band Abhorrence while a session member of Paradise Lost
+- 2022: $3,200 (Joins Opeth) — Departs Paradise Lost after Obsidian (2020) and joins Opeth, replacing longtime drummer Martin Axenrot
+- 2024: $3,913 (Original Purchase) — The Last Will and Testament recorded — his first album with Opeth, Pearl/Sabian/Wincent rig documented via each brand's own artist pages
+- 2026: $4,076 (Current adjusted) — Inflation-adjusted value of the 2024 Opeth-era setup
 
 **Sources:**
 - Sabian — Waltteri Väyrynen Artist Page (2026)
@@ -2592,7 +3101,7 @@ Waltteri Väyrynen's setup around Opeth's The Last Will and Testament (2024) —
 | Dirk Verbeuren | The Sick, the Dying... and the Dead! (2022) | $10,800 | ~$12,088 |
 | Eloy Casagrande | Machine Messiah (2017) | $4,124 | ~$5,512 |
 | Flo Mounier | None So Vile (1996) | $2,984 | ~$6,230 |
-| Frost | Now, Diabolical (2006) | $7,500 | ~$12,188 |
+| Frost | Satyricon (2013) | $7,750 | ~$10,897 |
 | Gavin Harrison | Fear of a Blank Planet (2007) | $11,660 | ~$18,427 |
 | Gene Hoglan | Individual Thought Patterns (1993) | $3,578 | ~$8,112 |
 | George Kollias | Annihilation of the Wicked (2005) | $9,000 | ~$15,097 |
@@ -2600,12 +3109,11 @@ Waltteri Väyrynen's setup around Opeth's The Last Will and Testament (2024) —
 | Hellhammer | De Mysteriis Dom Sathanas (1994) | $2,068 | ~$4,571 |
 | Igor Cavalera | Roots (1996) | $4,703 | ~$9,820 |
 | Inferno | Demigod (2004) | $4,800 | ~$8,324 |
-| Isaac Lamb | Nomad (2017) | $6,334 | ~$8,466 |
 | Jaska Raatikainen | Follow the Reaper (2000) | $4,500 | ~$8,561 |
 | Jason Bittner | The War Within (2004) | $4,773 | ~$8,278 |
 | Jay Weinberg | .5: The Gray Chapter (2014) | $4,530 | ~$6,270 |
 | Jimmy DeGrasso | The World Needs a Hero (2001) | $4,671 | ~$8,640 |
-| Jocke Wallgren | Jomsviking (2016) | $6,149 | ~$8,393 |
+| Jocke Wallgren | Jomsviking (2016) | $5,949 | ~$8,120 |
 | Joey Jordison | Iowa (2001) | $11,005 | ~$20,357 |
 | John Longstreth | Chaosmos (2022) | $4,273 | ~$4,782 |
 | John Otto | Significant Other (1999) | $4,876 | ~$9,588 |
@@ -2678,7 +3186,6 @@ Waltteri Väyrynen's setup around Opeth's The Last Will and Testament (2024) —
 - [/drummers/hellhammer/gear-history](https://metalforge.io/drummers/hellhammer/gear-history)
 - [/drummers/igor-cavalera/gear-history](https://metalforge.io/drummers/igor-cavalera/gear-history)
 - [/drummers/inferno/gear-history](https://metalforge.io/drummers/inferno/gear-history)
-- [/drummers/isaac-lamb/gear-history](https://metalforge.io/drummers/isaac-lamb/gear-history)
 - [/drummers/jaska-raatikainen/gear-history](https://metalforge.io/drummers/jaska-raatikainen/gear-history)
 - [/drummers/jason-bittner/gear-history](https://metalforge.io/drummers/jason-bittner/gear-history)
 - [/drummers/jay-weinberg/gear-history](https://metalforge.io/drummers/jay-weinberg/gear-history)

@@ -28,6 +28,12 @@ The haunting, militaristic snare pattern that opens Metallica's anti-war masterp
 - Work on smooth transitions between dynamic levels
 - Listen closely to how Lars builds tension
 
+### Gear Used
+
+- Tama Artstar ES Kit (drums)
+- Ahead Lars Ulrich Sticks (sticks)
+- Zildjian A Custom Cymbals (cymbals)
+
 **Core Techniques:** [Dynamics](https://metalforge.io/techniques/dynamics), [Ghost Notes](https://metalforge.io/techniques/ghost-notes), [Military Snare](https://metalforge.io/techniques/military-snare)
 
 ## Enter Sandman Main Groove
@@ -50,6 +56,12 @@ The groove that launched a billion drummers. This straightforward but powerful p
 - Pay attention to the open hi-hat accents
 - Play along with the record to lock in with James's riff
 
+### Gear Used
+
+- Tama Starclassic Kit (drums)
+- Zildjian A Custom Cymbals (cymbals)
+- Tama Iron Cobra 900 Pedals (pedals)
+
 **Core Techniques:** [Groove](https://metalforge.io/techniques/groove), [Hi Hat Control](https://metalforge.io/techniques/hi-hat-control), [Dynamics](https://metalforge.io/techniques/dynamics)
 
 ## Master of Puppets Gallop
@@ -71,6 +83,11 @@ The relentless thrash gallop that drives metal's greatest song. Lars's double ba
 - Practice at half speed for clean execution
 - Build stamina gradually - this song is a workout
 - Focus on keeping the ride cymbal consistent
+
+### Gear Used
+
+- Tama Artstar II Kit (drums)
+- Zildjian A Series Cymbals (cymbals)
 
 **Core Techniques:** [Double Bass](https://metalforge.io/techniques/double-bass), [Gallop](https://metalforge.io/techniques/gallop), [Stamina](https://metalforge.io/techniques/stamina)
 
@@ -95,6 +112,12 @@ The mid-to-late section of Metallica's "One" represents one of the most dramatic
 - Work on double bass stamina separately before adding it to the full song context
 - Study how Lars uses cymbal choice (closed hi-hat vs open crash) to signal intensity changes
 
+### Gear Used
+
+- Tama Artstar ES Kit (drums)
+- Ahead Lars Ulrich Sticks (sticks)
+- Zildjian A Custom Cymbals (cymbals)
+
 **Core Techniques:** [Double Bass](https://metalforge.io/techniques/double-bass), [Dynamics](https://metalforge.io/techniques/dynamics), [Stamina](https://metalforge.io/techniques/stamina)
 
 ## Blackened Open Hi-Hat Groove
@@ -118,6 +141,11 @@ The mid-to-late section of Metallica's "One" represents one of the most dramatic
 - Focus on the sizzling open hi-hat tone rather than tight, closed articulation
 - Listen to the record closely to internalise how the open hi-hat creates tension under the riff
 
+### Gear Used
+
+- Tama Artstar ES Kit (drums)
+- Zildjian A Series Hi-Hats (cymbals)
+
 **Core Techniques:** [Hi Hat Control](https://metalforge.io/techniques/hi-hat-control), [Groove](https://metalforge.io/techniques/groove), [Stamina](https://metalforge.io/techniques/stamina)
 
 ## Teaching Points
@@ -133,4 +161,4 @@ Lars Ulrich's style is defined by precision, timing, and genre-defining grooves.
 
 ---
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

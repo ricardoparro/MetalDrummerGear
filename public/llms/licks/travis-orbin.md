@@ -29,6 +29,14 @@ Travis Orbin is one of Thrash Metal / Progressive Metal / Djent's most influenti
 - Use a metronome locked to the underlying pulse and treat the polymetric accents as ornaments rather than the primary beat
 - Record yourself and compare with the playthrough video — misplaced accents are immediately audible in playback
 
+### Gear Used
+
+- SJC Custom Drums (drums)
+- SJC Custom Snare (snare)
+- Zildjian K Custom Dark / A Custom Cymbals (cymbals)
+- DW 9000 Series Double Pedal (hardware)
+- Vic Firth American Classic 5B (sticks)
+
 **Core Techniques:** [Polyrhythm](https://metalforge.io/techniques/polyrhythm), [Double Bass](https://metalforge.io/techniques/double-bass), [Groove Drumming](https://metalforge.io/techniques/groove-drumming)
 
 ## Insomnia Odd-Time Djent Groove
@@ -51,6 +59,14 @@ Travis Orbin is one of Thrash Metal / Progressive Metal / Djent's most influenti
 - Practise the riff-locked kick patterns slowly with a recording of the guitar part before adding upper-body elements
 - Count aloud through the metric shifts during slow practice to build an automatic sense of the phrase shapes
 - Once patterns feel natural at slow tempo, build speed gradually — rushing the internalisation phase produces imprecise playing at full speed
+
+### Gear Used
+
+- SJC Custom Drums (drums)
+- SJC Custom Snare (snare)
+- Zildjian K Custom Dark / A Custom Cymbals (cymbals)
+- DW 9000 Series Double Pedal (hardware)
+- Vic Firth American Classic 5B (sticks)
 
 **Core Techniques:** [Odd Time](https://metalforge.io/techniques/odd-time), [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Double Bass](https://metalforge.io/techniques/double-bass)
 
@@ -79,6 +95,14 @@ The djent context gives the modulation its particular sonic character: the guita
 - Record the metric shift and listen back for whether the groove carries across or resets — the ear catches what the hands miss
 - Approach the full song in sections rather than as a single thirteen-minute run until each section is independently solid
 
+### Gear Used
+
+- SJC Custom Drums (drums)
+- SJC Custom Snare (snare)
+- Zildjian K Custom Dark / A Custom Cymbals (cymbals)
+- DW 9000 Series Double Pedal (hardware)
+- Vic Firth American Classic 5B (sticks)
+
 **Core Techniques:** [Polyrhythm](https://metalforge.io/techniques/polyrhythm), [Odd Time Signatures](https://metalforge.io/techniques/odd-time-signatures), [Groove Drumming](https://metalforge.io/techniques/groove-drumming)
 
 ## Follow the Signs Controlled Blast Beat
@@ -105,6 +129,14 @@ The technical demands of this approach are significant. Maintaining double kick 
 - Practise at 130 BPM with maximum dynamic contrast, then increase tempo while preserving the accent-to-subdivision ratio
 - Record the blast and listen for flam-like inconsistencies — any timing drift is immediately audible in playback
 - Build wrist stamina with five-minute single-stroke roll sessions at moderate tempo before attempting extended blast passages
+
+### Gear Used
+
+- SJC Custom Drums (drums)
+- SJC Custom Snare (snare)
+- Zildjian K Custom Dark / A Custom Cymbals (cymbals)
+- DW 9000 Series Double Pedal (hardware)
+- Vic Firth American Classic 5B (sticks)
 
 **Core Techniques:** [Blast Beat](https://metalforge.io/techniques/blast-beat), [Double Bass](https://metalforge.io/techniques/double-bass), [Dynamic Control](https://metalforge.io/techniques/dynamic-control)
 
@@ -133,6 +165,14 @@ The practical application of this pattern in a musical context requires developi
 - Once the pattern is clean at slow tempo, increase by 5 BPM increments and repeat the recording check at each level
 - Apply the pattern inside a groove before using it as a fill — the musical context reveals timing issues that isolated practice misses
 
+### Gear Used
+
+- SJC Custom Drums (drums)
+- SJC Custom Snare (snare)
+- Zildjian K Custom Dark / A Custom Cymbals (cymbals)
+- DW 9000 Series Double Pedal (hardware)
+- Vic Firth American Classic 5B (sticks)
+
 **Core Techniques:** [Rudiments](https://metalforge.io/techniques/rudiments), [Fill Techniques](https://metalforge.io/techniques/fill-techniques), [Groove Drumming](https://metalforge.io/techniques/groove-drumming)
 
 ## The Walk Fill Cascade
@@ -156,6 +196,14 @@ The practical application of this pattern in a musical context requires developi
 - Practise the groove sections with a metronome and focus on ghost-note consistency before introducing fill passages
 - Record the full track and listen for where fills feel premature or hesitant — those are the transition points that need more slow-tempo drilling
 
+### Gear Used
+
+- SJC Custom Drums (drums)
+- SJC Custom Snare (snare)
+- Zildjian K Custom Dark / A Custom Cymbals (cymbals)
+- DW 9000 Series Double Pedal (hardware)
+- Vic Firth American Classic 5B (sticks)
+
 **Core Techniques:** [Fills](https://metalforge.io/techniques/fills), [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Double Bass](https://metalforge.io/techniques/double-bass)
 
 ## Teaching Points
@@ -171,4 +219,4 @@ Travis Orbin's style is defined by precision, timing, and genre-defining grooves
 
 ---
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

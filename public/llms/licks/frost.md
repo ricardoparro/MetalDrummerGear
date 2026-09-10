@@ -29,6 +29,12 @@ Frost is one of Black Metal's most influential drummers, best known for their wo
 - Record yourself and listen back — evenness that sounds present while playing often disappears on recording
 - Drill the groove sections independently before connecting them to the blast passages
 
+### Gear Used
+
+- Pearl Export Kit (drums)
+- Paiste 2002 Cymbals (cymbals)
+- Vic Firth 5B (sticks)
+
 **Core Techniques:** [Blast Beat](https://metalforge.io/techniques/blast-beat), [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Black Metal](https://metalforge.io/techniques/black-metal)
 
 ## K.I.N.G. — Signature Mid-Tempo Black Metal Groove
@@ -51,6 +57,12 @@ Frost is one of Black Metal's most influential drummers, best known for their wo
 - Establish the kick and snare relationship before adding the ride cymbal layer
 - Count out the kick syncopation relative to the snare until it is automatic before playing to the track
 - Record yourself and compare the kick placement to the recording — fractions of a beat of displacement will be audible
+
+### Gear Used
+
+- Pearl Export Kit (drums)
+- Paiste 2002 Cymbals (cymbals)
+- Vic Firth 5B (sticks)
 
 **Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Mid Tempo](https://metalforge.io/techniques/mid-tempo), [Rhythmic Precision](https://metalforge.io/techniques/rhythmic-precision)
 
@@ -75,6 +87,12 @@ Frost is one of Black Metal's most influential drummers, best known for their wo
 - Practice the sparse intro sections separately to build the restraint needed before the full groove enters
 - Record at tempo and compare snare placement to the original recording — hear where the compositional tension lives
 
+### Gear Used
+
+- Pearl Export Kit (drums)
+- Paiste 2002 Cymbals (cymbals)
+- Vic Firth 5B (sticks)
+
 **Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Compositional Drumming](https://metalforge.io/techniques/compositional-drumming), [Black Metal](https://metalforge.io/techniques/black-metal)
 
 ## Teaching Points
@@ -90,4 +108,4 @@ Frost's style is defined by precision, timing, and genre-defining grooves. Key p
 
 ---
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

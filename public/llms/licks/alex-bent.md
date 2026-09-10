@@ -29,6 +29,12 @@ Alex Bent is one of Heavy Metal / Thrash Metal / Technical Death Metal's most in
 - Map the song structure before learning the drums — knowing where each section starts and ends makes the transitions easier
 - Build the half-time chorus groove independently so it is comfortable and powerful before adding the surrounding material
 
+### Gear Used
+
+- Tama Starclassic Maple Kit (drums)
+- Zildjian K Custom Hybrid Cymbals (cymbals)
+- Vic Firth American Classic 5B Sticks (sticks)
+
 **Core Techniques:** [Blast Beat](https://metalforge.io/techniques/blast-beat), [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Double Bass](https://metalforge.io/techniques/double-bass), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
 ## Betrayer Modern Thrash Fill Sequence
@@ -51,6 +57,12 @@ Alex Bent is one of Heavy Metal / Thrash Metal / Technical Death Metal's most in
 - Learn the linear fills as isolated hand-foot sequences before combining them with the surrounding groove
 - Focus on the resolution of each fill back to beat one — the landing defines whether the fill works
 - Watch the playthrough multiple times before playing along to map the fills' positions within the arrangement
+
+### Gear Used
+
+- Tama Starclassic Maple Kit (drums)
+- Zildjian K Custom Hybrid Cymbals (cymbals)
+- Vic Firth American Classic 5B Sticks (sticks)
 
 **Core Techniques:** [Double Bass](https://metalforge.io/techniques/double-bass), [Fill Techniques](https://metalforge.io/techniques/fill-techniques), [Linear Drumming](https://metalforge.io/techniques/linear-drumming), [Groove Drumming](https://metalforge.io/techniques/groove-drumming)
 
@@ -75,6 +87,11 @@ Alex Bent is one of Heavy Metal / Thrash Metal / Technical Death Metal's most in
 - Map the song structure on paper before learning the drums — knowing where sections change makes the fills obvious
 - Compare your recording to the playthrough and listen specifically to how soft the clean sections are in the original
 
+### Gear Used
+
+- Zildjian K Custom Hybrid Cymbals (cymbals)
+- Vic Firth American Classic 5B Sticks (sticks)
+
 **Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Fill Techniques](https://metalforge.io/techniques/fill-techniques), [Double Bass](https://metalforge.io/techniques/double-bass)
 
 ## Beyond Oblivion — Melodic Metal Drum Setup
@@ -97,6 +114,11 @@ Alex Bent is one of Heavy Metal / Thrash Metal / Technical Death Metal's most in
 - Reduce your double pedal spring tension from your blast-beat setting and feel the difference in touch responsiveness at moderate tempo
 - Listen to the arrangement with headphones to hear the dynamic relationship between the drums and the melodic guitars before playing
 - Practise the verse groove at a dynamic level that feels uncomfortably soft — the contrast makes the heavier sections hit harder
+
+### Gear Used
+
+- Zildjian K Custom Hybrid Cymbals (cymbals)
+- Vic Firth American Classic 5B Sticks (sticks)
 
 **Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Fill Techniques](https://metalforge.io/techniques/fill-techniques), [Double Bass](https://metalforge.io/techniques/double-bass)
 
@@ -121,6 +143,13 @@ Alex Bent is one of Heavy Metal / Thrash Metal / Technical Death Metal's most in
 - Keep a bar-level count in your head while playing — the polyrhythmic tension resolves at the bar line and losing count of that reference causes drift
 - Record and zoom in on the transition points between sections to verify that the polyrhythmic pattern resolves cleanly before moving to the next bar
 
+### Gear Used
+
+- Tama Starclassic Maple Kit (drums)
+- Zildjian K Custom Hybrid Cymbals (cymbals)
+- Axis A Longboard Double Pedal (pedals)
+- Vic Firth American Classic 5B Sticks (sticks)
+
 **Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Double Bass](https://metalforge.io/techniques/double-bass), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
 ## A Crisis of Revelation — Vic Firth Drum Setup
@@ -144,6 +173,13 @@ Alex Bent is one of Heavy Metal / Thrash Metal / Technical Death Metal's most in
 - Practise each blast-to-groove transition as an isolated exercise until it fires automatically — the transition must be instantaneous and fully committed
 - Build the half-time breakdown independently at full power before connecting it to the preceding material — authority in that section depends on comfort at full energy
 
+### Gear Used
+
+- Tama Starclassic Maple Kit (drums)
+- Zildjian K Custom Hybrid Cymbals (cymbals)
+- Axis A Longboard Double Pedal (pedals)
+- Vic Firth American Classic 5B Sticks (sticks)
+
 **Core Techniques:** [Blast Beat](https://metalforge.io/techniques/blast-beat), [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Double Bass](https://metalforge.io/techniques/double-bass), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
 ## Teaching Points
@@ -159,4 +195,4 @@ Alex Bent's style is defined by precision, timing, and genre-defining grooves. K
 
 ---
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

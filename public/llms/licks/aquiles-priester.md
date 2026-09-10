@@ -29,6 +29,13 @@ Aquiles Priester joined Angra for the Rebirth album in 2001 and immediately anno
 - Practise long endurance reps before raising the tempo
 - Let the double bass serve the melody — lock to the chord changes
 
+### Gear Used
+
+- Mapex Saturn Series Kit (drums)
+- Sabian HH & HHX Cymbals (cymbals)
+- Axis A Double Pedal (hardware)
+- Vic Firth Aquiles Priester Signature (sticks)
+
 **Core Techniques:** [Double Bass](https://metalforge.io/techniques/double-bass), [Blast Beat](https://metalforge.io/techniques/blast-beat), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
 ## Heroes of Sand Progressive Prog Feel
@@ -51,6 +58,13 @@ Temple of Shadows (2004) is widely regarded as Angra's masterpiece and one of th
 - Practise each feel — blasting, double bass, lyrical groove — separately
 - Focus on the transitions: that is where the musical work happens
 - Develop limb independence so the hands and feet can operate with some freedom
+
+### Gear Used
+
+- Mapex Saturn Series Kit (drums)
+- Sabian HH & HHX Cymbals (cymbals)
+- Axis A Double Pedal (hardware)
+- Vic Firth Aquiles Priester Signature (sticks)
 
 **Core Techniques:** [Double Bass](https://metalforge.io/techniques/double-bass), [Fill Techniques](https://metalforge.io/techniques/fill-techniques), [Polyrhythms](https://metalforge.io/techniques/polyrhythms)
 
@@ -75,6 +89,13 @@ Temple of Shadows (2004) is widely regarded as Angra's masterpiece and one of th
 - Phrase the hi-hat and ride so the groove breathes rather than just churning
 - Aim to make the speed feel like a groove, not a sprint
 
+### Gear Used
+
+- Mapex Saturn Series Kit (drums)
+- Sabian HH & HHX Cymbals (cymbals)
+- Axis A Double Pedal (hardware)
+- Vic Firth Aquiles Priester Signature (sticks)
+
 **Core Techniques:** [Double Bass](https://metalforge.io/techniques/double-bass), [Blast Beat](https://metalforge.io/techniques/blast-beat), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
 ## Teaching Points
@@ -90,4 +111,4 @@ Aquiles Priester's style is defined by precision, timing, and genre-defining gro
 
 ---
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

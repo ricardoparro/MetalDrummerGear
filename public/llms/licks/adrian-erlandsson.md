@@ -29,6 +29,14 @@ Adrian Erlandsson is one of Melodic Death Metal's most influential drummers, bes
 - Build stamina deliberately — the pattern's difficulty comes from sustaining velocity across the full song, not from any single technical element
 - Tune the snare high and tight, and check that every stroke still speaks individually once you reach performance tempo
 
+### Gear Used
+
+- Pearl Export / Studio House Kit (twin 22" bass drums) (drums)
+- 14" x 6" Steel/Birch Studio Snare (snare)
+- Zildjian A-Series Cymbals (18" China) (cymbals)
+- Tama / Pearl Standard Double Bass Pedal Setup (hardware)
+- Vic Firth / Pro-Mark 5B (sticks)
+
 **Core Techniques:** [Blast Beat](https://metalforge.io/techniques/blast-beat), [D Beat](https://metalforge.io/techniques/d-beat), [Double Bass](https://metalforge.io/techniques/double-bass)
 
 ## Death and the Labyrinth — The Comeback Blast
@@ -51,6 +59,14 @@ Adrian Erlandsson is one of Melodic Death Metal's most influential drummers, bes
 - Focus on kick weight rather than raw speed; the Bubinga shells reward a heavier stroke than a budget birch kit would
 - Practice the China cymbal accents in isolation until they land precisely on the riff transition, not just near it
 - Record yourself through a full blast-to-D-beat cycle and check the snare stays articulate even as the mix gets denser
+
+### Gear Used
+
+- Tama Starclassic Bubinga (twin 22" x 18" bass drums) (drums)
+- Tama Starclassic Bubinga 14" x 6.5" Snare (snare)
+- Sabian AAX/HHX Series (AAX Paragon 19" China) (cymbals)
+- Monolit Czarcie Kopyto Double Pedal (hardware)
+- Vic Firth Signature Model (sticks)
 
 **Core Techniques:** [Blast Beat](https://metalforge.io/techniques/blast-beat), [D Beat](https://metalforge.io/techniques/d-beat), [Double Bass](https://metalforge.io/techniques/double-bass)
 
@@ -75,6 +91,14 @@ The title track of At the Gates' 2018 album To Drink from the Night Itself is a 
 - Listen for how the snare tuning sits forward in Russ Russell's tighter mix and match that attack in your own tuning
 - Practice the verse-to-chorus build repeatedly until the dynamic shift feels automatic rather than a conscious volume change
 
+### Gear Used
+
+- Tama Starclassic Bubinga (twin 22" x 18" bass drums) (drums)
+- Tama Starclassic Bubinga 14" x 6.5" Snare (snare)
+- Sabian AAX/HHX Series (cymbals)
+- Monolit Czarcie Kopyto Double Pedal (hardware)
+- Vic Firth Signature Model (sticks)
+
 **Core Techniques:** [D Beat](https://metalforge.io/techniques/d-beat), [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Double Bass](https://metalforge.io/techniques/double-bass)
 
 ## Teaching Points
@@ -90,4 +114,4 @@ Adrian Erlandsson's style is defined by precision, timing, and genre-defining gr
 
 ---
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

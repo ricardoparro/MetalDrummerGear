@@ -97,6 +97,7 @@ for (const key of order) {
     if (lick.difficulty) {
       facts.push(`**Difficulty:** ${cap(lick.difficulty)}${lick.difficultyRating ? ` (${lick.difficultyRating}/5)` : ''}`);
     }
+    if (lick.style) facts.push(`**Style:** ${lick.style}`);
     if (facts.length) md += `- ${facts.join(' | ')}\n`;
     if (Array.isArray(lick.techniques) && lick.techniques.length) {
       md += `- **Techniques:** ${lick.techniques.join(', ')}\n`;
@@ -112,6 +113,11 @@ for (const key of order) {
     if (tips.length) {
       md += `\n**Practice tips:**\n`;
       tips.forEach((tip) => { md += `- ${tip}\n`; });
+    }
+
+    if (Array.isArray(lick.gearUsed) && lick.gearUsed.length) {
+      md += `\n**Gear Used:**\n`;
+      lick.gearUsed.forEach((g) => { md += `- ${g.name} (${g.type})\n`; });
     }
 
     const url = tutorialUrl(lick.tutorial);

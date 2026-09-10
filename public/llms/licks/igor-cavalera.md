@@ -29,6 +29,12 @@ Igor Cavalera is one of Thrash Metal / Groove Metal / Death Metal's most influen
 - Listen to Brazilian rhythmic music to understand the cultural inflection in the groove
 - Keep fills minimal and transitional — the groove is the statement
 
+### Gear Used
+
+- Pearl Masters Custom (maple shells) (drums)
+- Paiste RUDE & 2002 Series Cymbals (cymbals)
+- Unconfirmed (no documented pedal endorsement for this era) (hardware)
+
 **Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Dynamic Control](https://metalforge.io/techniques/dynamic-control), [Tribal Influence](https://metalforge.io/techniques/tribal-influence)
 
 ## Refuse/Resist Double-Bass Drive
@@ -51,6 +57,12 @@ Igor Cavalera is one of Thrash Metal / Groove Metal / Death Metal's most influen
 - Lock the kick to the riff accents, not just a generic pattern
 - Work with a bass guitarist or recording to feel the full groove impact
 - Focus on consistency across the whole song, not just isolated sections
+
+### Gear Used
+
+- Pearl Masters Custom (maple shells) (drums)
+- Paiste RUDE & 2002 Series Cymbals (cymbals)
+- Unconfirmed (no documented pedal endorsement for this era) (hardware)
 
 **Core Techniques:** [Double Bass](https://metalforge.io/techniques/double-bass), [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Riff Lock](https://metalforge.io/techniques/riff-lock)
 
@@ -75,6 +87,12 @@ Igor Cavalera is one of Thrash Metal / Groove Metal / Death Metal's most influen
 - Work on dynamic contrast — practise going from full intensity to a controlled groove
 - Map the song's riff sections and practise fills at each transition point
 
+### Gear Used
+
+- Unconfirmed (predates 1993 Pearl endorsement, no documented gear) (drums)
+- Unconfirmed (predates 1993 Paiste endorsement, no documented gear) (cymbals)
+- Unconfirmed (no documented pedal endorsement for this era) (hardware)
+
 **Core Techniques:** [Blast Beat](https://metalforge.io/techniques/blast-beat), [Double Bass](https://metalforge.io/techniques/double-bass), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
 ## Beneath the Remains Stampede Double Bass
@@ -97,6 +115,12 @@ Beneath the Remains (1989) is Sepultura's breakthrough into the international ex
 - Slow the song to 60-70% and lock the kick to the riff accents one section at a time
 - Use ankle technique and pedal rebound — driving from the thigh alone will cause early fatigue
 - Record 30-second bursts and check for evenness — any unevenness between feet is immediately audible
+
+### Gear Used
+
+- Unconfirmed (predates 1993 Pearl endorsement, no documented gear) (drums)
+- Unconfirmed (predates 1993 Paiste endorsement, no documented gear) (cymbals)
+- Unconfirmed (no documented pedal endorsement for this era) (hardware)
 
 **Core Techniques:** [Double Bass](https://metalforge.io/techniques/double-bass), [Riff Lock](https://metalforge.io/techniques/riff-lock), [Groove Drumming](https://metalforge.io/techniques/groove-drumming)
 
@@ -121,6 +145,12 @@ Beneath the Remains (1989) is Sepultura's breakthrough into the international ex
 - Isolate the kick pattern and feel how it phrases against the snare before combining the two
 - Record yourself playing along with the track and listen for any rushing in the syncopated figures
 
+### Gear Used
+
+- Pearl Masters Custom (maple shells) (drums)
+- Paiste RUDE & 2002 Series Cymbals (cymbals)
+- Unconfirmed (no documented pedal endorsement for this era) (hardware)
+
 **Core Techniques:** [Tribal Influence](https://metalforge.io/techniques/tribal-influence), [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Dynamic Control](https://metalforge.io/techniques/dynamic-control)
 
 ## Schizophrenia Raw Blast Groove
@@ -144,6 +174,12 @@ Schizophrenia (1987) was Sepultura's third album and the recording where Igor Ca
 - Record yourself and check that urgency is present — a bland, measured blast misses the point
 - Study the Schizophrenia album to understand the musical context that informs how the blast serves the song
 
+### Gear Used
+
+- Unconfirmed (predates 1993 Pearl endorsement, no documented gear) (drums)
+- Unconfirmed (predates 1993 Paiste endorsement, no documented gear) (cymbals)
+- Unconfirmed (no documented pedal endorsement for this era) (hardware)
+
 **Core Techniques:** [Blast Beat](https://metalforge.io/techniques/blast-beat), [Double Bass](https://metalforge.io/techniques/double-bass), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
 ## Teaching Points
@@ -159,4 +195,4 @@ Igor Cavalera's style is defined by precision, timing, and genre-defining groove
 
 ---
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

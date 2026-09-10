@@ -35,6 +35,13 @@ For students, "Chemical Flashback" is an advanced study in djent-influenced tech
 - Build foot evenness at 80 BPM before gradually raising to performance tempo
 - Use the MEINL playthrough in slow motion to map the exact relationship between kick and guitar
 
+### Gear Used
+
+- Tama Birch Silverstar Kit (drums)
+- Meinl Byzance Cymbals (cymbals)
+- Tama Speed Cobra Double Pedal (hardware)
+- Standard 5A Sticks (sticks)
+
 **Core Techniques:** [Double Bass](https://metalforge.io/techniques/double-bass), [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Polyrhythms](https://metalforge.io/techniques/polyrhythms)
 
 ## An End to Everything Technical Groove
@@ -63,6 +70,13 @@ For students, "An End to Everything" is an instructive study in how technical me
 - Practise the minimal-density sections in isolation until each hit feels intentional, not cautious
 - Work toward full one-take runs of the entire song before considering the piece learned
 - Listen to the one-take playthrough repeatedly before playing along to internalise the arrangement fully
+
+### Gear Used
+
+- High-End Custom Kit (drums)
+- Meinl Byzance Series Cymbals (cymbals)
+- Double Pedal (hardware)
+- Standard 5A Sticks (sticks)
 
 **Core Techniques:** [Double Bass](https://metalforge.io/techniques/double-bass), [Fill Techniques](https://metalforge.io/techniques/fill-techniques), [Groove Drumming](https://metalforge.io/techniques/groove-drumming)
 
@@ -93,6 +107,13 @@ For drummers, "The Interior Wilderness" is an expert-level study in math-metal p
 - Use the playthrough in slow motion to map where each polyrhythmic phrase begins and ends
 - Build tempo gradually with a metronome; polyrhythmic accuracy collapses under speed pressure until internalised
 
+### Gear Used
+
+- High-End Custom Kit (drums)
+- Meinl Byzance Series Cymbals (cymbals)
+- Double Pedal (hardware)
+- Standard 5A Sticks (sticks)
+
 **Core Techniques:** [Polyrhythms](https://metalforge.io/techniques/polyrhythms), [Double Bass](https://metalforge.io/techniques/double-bass), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
 ## Teaching Points
@@ -108,4 +129,4 @@ Navene Koperweis's style is defined by precision, timing, and genre-defining gro
 
 ---
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

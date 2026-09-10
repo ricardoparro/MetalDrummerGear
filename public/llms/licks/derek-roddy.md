@@ -29,6 +29,12 @@ Hate Eternal's 2002 album King of All Kings is one of the defining records of mo
 - Practise the kick and snare hand together slowly to lock their alignment
 - Use a metronome and add 5 BPM at a time to build endurance without breaking down
 
+### Gear Used
+
+- Tama Starclassic Bubinga Kit (drums)
+- Meinl Byzance & Mb20 Cymbals (cymbals)
+- Vater 5B (sticks)
+
 **Core Techniques:** [Blast Beat](https://metalforge.io/techniques/blast-beat), [Double Bass](https://metalforge.io/techniques/double-bass), [One Handed Roll](https://metalforge.io/techniques/one-handed-roll)
 
 ## I, Monarch Double-Bass Control
@@ -51,6 +57,12 @@ Derek Roddy is as celebrated for his feet as for his hands, and Hate Eternal's I
 - Keep the ankles loose — clamping down kills both speed and stamina
 - Loop short double-bass bursts under a steady snare before stringing them together
 - Add tempo in small increments so evenness never breaks down
+
+### Gear Used
+
+- Tama Starclassic Bubinga Kit (drums)
+- Meinl Byzance & Mb20 Cymbals (cymbals)
+- Vater 5B (sticks)
 
 **Core Techniques:** [Double Bass](https://metalforge.io/techniques/double-bass), [Blast Beat](https://metalforge.io/techniques/blast-beat), [Linear Drumming](https://metalforge.io/techniques/linear-drumming)
 
@@ -75,6 +87,12 @@ More than almost any drummer of his era, Derek Roddy is associated with the idea
 - Treat speed as a side effect of clean motion, not a goal in itself
 - Build stamina with longer reps at a comfortable tempo before pushing the ceiling
 
+### Gear Used
+
+- Tama Starclassic Bubinga Kit (drums)
+- Meinl Byzance & Mb20 Cymbals (cymbals)
+- Vater 5B (sticks)
+
 **Core Techniques:** [Blast Beat](https://metalforge.io/techniques/blast-beat), [Double Bass](https://metalforge.io/techniques/double-bass), [Gravity Blast](https://metalforge.io/techniques/gravity-blast)
 
 ## Gravity Blast Technique
@@ -97,6 +115,12 @@ The gravity blast is one of the most specialised and widely studied techniques i
 - Film yourself from the side to check that the shoulder stays still and the forearm is relaxed
 - Add the kick only once the gravity blast runs effortlessly for 30+ seconds alone
 - Build tempo in very small increments — the technique must be automatic before adding speed
+
+### Gear Used
+
+- Tama Starclassic Bubinga Kit (drums)
+- Meinl Byzance & Mb20 Cymbals (cymbals)
+- Vater 5B (sticks)
 
 **Core Techniques:** [Blast Beat](https://metalforge.io/techniques/blast-beat), [Gravity Blast](https://metalforge.io/techniques/gravity-blast), [Double Bass](https://metalforge.io/techniques/double-bass)
 
@@ -121,6 +145,11 @@ Before joining Hate Eternal, Derek Roddy was the drummer on Monstrosity's semina
 - Record yourself to hear if the accents land cleanly and the fill resolves at the bar line
 - Practise transitions into and out of the fill with the blast beat around it
 
+### Gear Used
+
+- Meinl Byzance & Mb20 Cymbals (cymbals)
+- Vater 5B (sticks)
+
 **Core Techniques:** [Polyrhythms](https://metalforge.io/techniques/polyrhythms), [Blast Beat](https://metalforge.io/techniques/blast-beat), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
 ## Hate Eternal Descending Tom Fill
@@ -144,6 +173,12 @@ Hate Eternal's compositions are constructed around relentless rhythmic density, 
 - Record yourself to check that each tom hit has the same volume through the descent
 - Raise tempo only once the fill sounds musical and even, not just technically completed
 
+### Gear Used
+
+- Tama Starclassic Bubinga Kit (drums)
+- Meinl Byzance & Mb20 Cymbals (cymbals)
+- Vater 5B (sticks)
+
 **Core Techniques:** [Fill Techniques](https://metalforge.io/techniques/fill-techniques), [Blast Beat](https://metalforge.io/techniques/blast-beat), [Double Bass](https://metalforge.io/techniques/double-bass)
 
 ## Teaching Points
@@ -159,4 +194,4 @@ Derek Roddy's style is defined by precision, timing, and genre-defining grooves.
 
 ---
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

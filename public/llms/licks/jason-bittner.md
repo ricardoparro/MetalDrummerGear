@@ -29,6 +29,13 @@ Jason Bittner is one of Thrash Metal / Heavy Metal's most influential drummers, 
 - Focus on the verse's slightly-behind feel by practising to a metronome and consciously placing strokes just after the click
 - Slow the breakdown riff-unison section to 70% tempo and count the accent positions carefully before bringing it back to speed
 
+### Gear Used
+
+- Mapex Saturn Series (drums)
+- Zildjian K and A Custom Series Cymbals (cymbals)
+- Mapex Falcon Double Pedal (pedals)
+- ProMark Jason Bittner Signature 5BX (sticks)
+
 **Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Double Bass](https://metalforge.io/techniques/double-bass), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
 ## What Drives the Weak Metalcore Fill Sequence
@@ -51,6 +58,13 @@ Jason Bittner is one of Thrash Metal / Heavy Metal's most influential drummers, 
 - Map the fill landing points against the song's guitar accents so you understand the rhythmic conversation before playing it
 - Practise the ghost-note verse build leading into each fill as a single continuous phrase — the fill quality depends on what precedes it
 - Record yourself and count whether your fills are landing on the right beat; small timing errors at 170 BPM are hard to hear in real-time but obvious in playback
+
+### Gear Used
+
+- Mapex Saturn Series (drums)
+- Zildjian K and A Custom Series Cymbals (cymbals)
+- Mapex Falcon Double Pedal (pedals)
+- ProMark Jason Bittner Signature 5BX (sticks)
 
 **Core Techniques:** [Fill Techniques](https://metalforge.io/techniques/fill-techniques), [Double Bass](https://metalforge.io/techniques/double-bass), [Groove Drumming](https://metalforge.io/techniques/groove-drumming)
 
@@ -75,6 +89,13 @@ Jason Bittner joined Overkill in 2017, taking the drum seat for one of thrash me
 - Build double bass runs gradually by starting at 130 BPM and increasing 5 BPM per session — evenness first, speed second
 - Record the full groove including ride and check whether your hi-hat accent pattern is audible above the double bass; if it disappears, the double bass is too loud dynamically
 
+### Gear Used
+
+- Mapex Saturn Series (drums)
+- Zildjian K and A Custom Series Cymbals (cymbals)
+- Mapex Falcon Double Pedal (pedals)
+- ProMark Jason Bittner Signature 5BX (sticks)
+
 **Core Techniques:** [Double Bass](https://metalforge.io/techniques/double-bass), [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Blast Beat](https://metalforge.io/techniques/blast-beat)
 
 ## Teaching Points
@@ -90,4 +111,4 @@ Jason Bittner's style is defined by precision, timing, and genre-defining groove
 
 ---
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

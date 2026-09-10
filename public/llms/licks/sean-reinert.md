@@ -29,6 +29,12 @@ Lack of Comprehension from Death's Human (1991) is one of the most technically a
 - Listen to jazz drumming — Bill Stewart, Jack DeJohnette — to internalise the ghost note voicing approach
 - Record slow runs and verify both rhythmic layers remain distinct under tempo pressure
 
+### Gear Used
+
+- Tama Artstar II Kit (drums)
+- Zildjian A Custom Cymbals (cymbals)
+- DW 5000 Double Pedal (hardware)
+
 **Core Techniques:** [Polyrhythm](https://metalforge.io/techniques/polyrhythm), [Metric Modulation](https://metalforge.io/techniques/metric-modulation), [Jazz Inflection](https://metalforge.io/techniques/jazz-inflection)
 
 ## Suicide Machine Groove Pattern
@@ -51,6 +57,12 @@ Suicide Machine opens Death's Human (1991) with one of the most deceptively comp
 - Listen to funk and jazz drumming to internalise ghost note voicing before applying it to this context
 - Play the groove with a bass guitarist or against the bass track to feel the full rhythmic interaction
 - Focus on the feel — the displaced quality should be internalised, not consciously calculated each bar
+
+### Gear Used
+
+- Tama Artstar II Kit (drums)
+- Zildjian A Custom Cymbals (cymbals)
+- DW 5000 Double Pedal (hardware)
 
 **Core Techniques:** [Ghost Notes](https://metalforge.io/techniques/ghost-notes), [Odd Time Feel](https://metalforge.io/techniques/odd-time-feel), [Jazz Death Hybrid](https://metalforge.io/techniques/jazz-death-hybrid)
 
@@ -75,6 +87,12 @@ Flattening of Emotions is the closing track of Death's Human (1991), and in many
 - Practice fills at the exact song positions before attempting full-song runs
 - Listen to the original recording repeatedly for the ghost note placement and dynamic nuance before playing
 
+### Gear Used
+
+- Tama Artstar II Kit (drums)
+- Zildjian A Custom Cymbals (cymbals)
+- DW 5000 Double Pedal (hardware)
+
 **Core Techniques:** [Mid Paced Groove](https://metalforge.io/techniques/mid-paced-groove), [Dynamic Control](https://metalforge.io/techniques/dynamic-control), [Musical Fills](https://metalforge.io/techniques/musical-fills)
 
 ## Teaching Points
@@ -90,4 +108,4 @@ Sean Reinert's style is defined by precision, timing, and genre-defining grooves
 
 ---
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

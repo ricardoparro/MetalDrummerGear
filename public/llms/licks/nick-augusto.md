@@ -29,6 +29,13 @@ Trivium's 2011 album *In Waves* marked a major turning point for the band — a 
 - Introduce the kick last, mapping which beats correspond to burst vs continuous double bass in the song
 - Slow the full groove to 130 BPM with a metronome and listen for the four limbs locking together before raising tempo
 
+### Gear Used
+
+- Tama Starclassic Performer B/B (drums)
+- Meinl MB20 Cymbals (cymbals)
+- Pearl Demon Drive Double Bass Pedal (pedals)
+- Vic Firth American Classic 5B Sticks (sticks)
+
 **Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Double Bass](https://metalforge.io/techniques/double-bass), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
 ## Built to Fall Metalcore Fill Sequence
@@ -51,6 +58,13 @@ Trivium's 2011 album *In Waves* marked a major turning point for the band — a 
 - Practise the two-beat fill as a complete phrase at 100 BPM: four bars of groove, fill, crash landing, four bars of groove
 - Slow each fill to 80 BPM and count the kick displacement positions explicitly before raising tempo
 - Record your fills and check whether the crash landing arrives on the correct downbeat — small rushing errors at 170 BPM are easy to miss in real time
+
+### Gear Used
+
+- Tama Starclassic Performer B/B (drums)
+- Meinl MB20 Cymbals (cymbals)
+- Pearl Demon Drive Double Bass Pedal (pedals)
+- Meinl Classics Custom China Cymbal (cymbals)
 
 **Core Techniques:** [Fill Techniques](https://metalforge.io/techniques/fill-techniques), [Double Bass](https://metalforge.io/techniques/double-bass), [Groove Drumming](https://metalforge.io/techniques/groove-drumming)
 
@@ -75,6 +89,13 @@ Trivium's *Vengeance Falls* (2013) was produced by David Draiman of Disturbed, a
 - Use a metronome and check that the first snare hit after the blast arrives exactly on the two — rushing out of blasts is the most common mistake
 - Record the full groove-blast-groove sequence and review whether both transitions are clean and metrically exact
 
+### Gear Used
+
+- Tama Starclassic Performer B/B (drums)
+- Meinl MB20 Heavy Metal Cymbals (cymbals)
+- Meinl Classics Custom China Cymbal (cymbals)
+- Pearl Demon Drive Double Bass Pedal (pedals)
+
 **Core Techniques:** [Blast Beat](https://metalforge.io/techniques/blast-beat), [Double Bass](https://metalforge.io/techniques/double-bass), [Groove Drumming](https://metalforge.io/techniques/groove-drumming)
 
 ## Teaching Points
@@ -90,4 +111,4 @@ Nick Augusto's style is defined by precision, timing, and genre-defining grooves
 
 ---
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

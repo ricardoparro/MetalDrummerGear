@@ -185,6 +185,16 @@ function buildMarkdown(drummer, licks) {
       parts.push('');
     }
 
+    // Gear Used
+    if (Array.isArray(lick.gearUsed) && lick.gearUsed.length > 0) {
+      parts.push('### Gear Used');
+      parts.push('');
+      for (const gear of lick.gearUsed) {
+        parts.push(`- ${gear.name} (${gear.type})`);
+      }
+      parts.push('');
+    }
+
     // Techniques used
     if (Array.isArray(lick.techniques) && lick.techniques.length > 0) {
       const techLinks = lick.techniques.map(t => {

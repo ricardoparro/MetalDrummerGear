@@ -29,6 +29,13 @@ Flo Mounier is widely regarded as one of the fastest and most technically comple
 - Keep the grip relaxed so blasts stay even across the whole track
 - Map the song's section changes before playing it top to bottom
 
+### Gear Used
+
+- Yamaha Recording Custom Kit (drums)
+- Zildjian ZXT Cymbals (cymbals)
+- Pearl Demon Drive Double Pedal (hardware)
+- Vic Firth American Classic 5A (sticks)
+
 **Core Techniques:** [Blast Beat](https://metalforge.io/techniques/blast-beat), [Gravity Blast](https://metalforge.io/techniques/gravity-blast), [Double Bass](https://metalforge.io/techniques/double-bass)
 
 ## Phobophile Gravity Blast Masterclass
@@ -51,6 +58,12 @@ Cryptopsy's None So Vile (1996) is one of the most influential technical death m
 - Check that both strokes are equal in volume before adding speed
 - Keep the wrist loose — a tense hand kills the rebound
 - Alternate short gravity-blast bursts with rest to build the motion without strain
+
+### Gear Used
+
+- Pearl Masters Maple Kit (drums)
+- Pearl Demon Drive Double Pedal (hardware)
+- Vic Firth American Classic 5A (sticks)
 
 **Core Techniques:** [Gravity Blast](https://metalforge.io/techniques/gravity-blast), [Blast Beat](https://metalforge.io/techniques/blast-beat), [One Handed Roll](https://metalforge.io/techniques/one-handed-roll)
 
@@ -75,6 +88,12 @@ Cryptopsy's None So Vile (1996) is one of the most influential technical death m
 - Record yourself and listen for volume discrepancy between the two strokes
 - Keep practice bursts short at first to avoid wrist tension building up
 
+### Gear Used
+
+- Pearl Masters Maple Kit (drums)
+- Pearl Demon Drive Double Pedal (hardware)
+- Vic Firth American Classic 5A (sticks)
+
 **Core Techniques:** [Gravity Blast](https://metalforge.io/techniques/gravity-blast), [Blast Beat](https://metalforge.io/techniques/blast-beat), [Double Bass](https://metalforge.io/techniques/double-bass)
 
 ## Blasphemy Made Flesh Double Kick — Open Face Surgery
@@ -97,6 +116,12 @@ Cryptopsy's debut album Blasphemy Made Flesh (1994) introduced Flo Mounier to th
 - Loop the main double-bass pattern for two minutes without stopping to build endurance
 - Add the hand blast only once the feet are perfectly even and can sustain tempo
 - Raise the metronome by 5 BPM increments and consolidate at each step
+
+### Gear Used
+
+- Pearl Masters Maple Kit (drums)
+- Pearl Demon Drive Double Pedal (hardware)
+- Vic Firth American Classic 5A (sticks)
 
 **Core Techniques:** [Double Bass](https://metalforge.io/techniques/double-bass), [Blast Beat](https://metalforge.io/techniques/blast-beat), [Foot Endurance](https://metalforge.io/techniques/foot-endurance)
 
@@ -121,6 +146,12 @@ Whisper Supremacy (1998) is often cited as the most jazz-influenced of Cryptopsy
 - Record yourself and listen for whether the fill builds dynamically toward its end
 - Study Mounier's jazz influences alongside his extreme metal work to understand the phrasing
 
+### Gear Used
+
+- Pearl Masters Maple Kit (drums)
+- Pearl Demon Drive Double Pedal (hardware)
+- Vic Firth American Classic 5A (sticks)
+
 **Core Techniques:** [Fill Techniques](https://metalforge.io/techniques/fill-techniques), [Jazz Phrasing](https://metalforge.io/techniques/jazz-phrasing), [Blast Beat](https://metalforge.io/techniques/blast-beat)
 
 ## Slit Your Guts Blast & Double-Bass Barrage
@@ -144,6 +175,12 @@ Whisper Supremacy (1998) is often cited as the most jazz-influenced of Cryptopsy
 - Practise the transitions between blast, double bass and groove in isolation
 - Stay relaxed at speed — Mounier's power comes from control, not force
 
+### Gear Used
+
+- Pearl Masters Maple Kit (drums)
+- Pearl Demon Drive Double Pedal (hardware)
+- Vic Firth American Classic 5A (sticks)
+
 **Core Techniques:** [Blast Beat](https://metalforge.io/techniques/blast-beat), [Double Bass](https://metalforge.io/techniques/double-bass), [Polyrhythms](https://metalforge.io/techniques/polyrhythms)
 
 ## Teaching Points
@@ -159,4 +196,4 @@ Flo Mounier's style is defined by precision, timing, and genre-defining grooves.
 
 ---
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

@@ -29,6 +29,13 @@ John Otto is one of Nu Metal / Rap Metal's most influential drummers, best known
 - Practice the snare alone at full dynamic level, letting it ring — controlling the ring (not dampening it) is part of the nu-metal snare sound
 - Learn the breakdown section first since its simplicity reveals whether you genuinely feel the groove or are just executing patterns mechanically
 
+### Gear Used
+
+- Orange County Drum and Percussion Custom Kit (drums)
+- Zildjian Cymbals (cymbals)
+- Gibraltar Hardware (hardware)
+- Zildjian Artist Series Sticks (sticks)
+
 **Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
 ## Rollin' Hip-Hop Metal Groove
@@ -51,6 +58,13 @@ John Otto is one of Nu Metal / Rap Metal's most influential drummers, best known
 - Loop just the kick pattern and count the subdivisions carefully; the anticipatory placement feels wrong at first if you approach it with a rock drumming mindset
 - Practice the verse-to-chorus feel shift in isolation — play 8 bars of the angular groove, then drop immediately into the direct chorus drive and listen for whether the transition is clean
 - Record with a click and check whether your angular kick placement is genuinely landing on the subdivisions you intend; hip-hop-influenced patterns are easy to unconsciously round toward simpler rock placements
+
+### Gear Used
+
+- Orange County Drum and Percussion Custom Kit (drums)
+- Zildjian Cymbals (cymbals)
+- Gibraltar Hardware (hardware)
+- Zildjian Artist Series Sticks (sticks)
 
 **Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
@@ -75,6 +89,13 @@ John Otto is one of Nu Metal / Rap Metal's most influential drummers, best known
 - Build the pre-chorus escalation by starting at just hi-hat density increase, then add ghost notes in a subsequent run, then combine both — layer the elements rather than learning the full build at once
 - Record the verse groove and listen for whether you are adding unnecessary fills or accents; if the verse feels plain, you are playing it correctly
 
+### Gear Used
+
+- Orange County Drum and Percussion Custom Kit (drums)
+- Zildjian Cymbals (cymbals)
+- Gibraltar Hardware (hardware)
+- Zildjian Artist Series Sticks (sticks)
+
 **Core Techniques:** [Fill Techniques](https://metalforge.io/techniques/fill-techniques), [Groove Drumming](https://metalforge.io/techniques/groove-drumming)
 
 ## Teaching Points
@@ -90,4 +111,4 @@ John Otto's style is defined by precision, timing, and genre-defining grooves. K
 
 ---
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

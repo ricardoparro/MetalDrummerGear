@@ -29,6 +29,13 @@ Dirk Verbeuren brought a new level of extreme-metal precision to Megadeth when h
 - Practise the blast-to-groove transitions in isolation
 - Keep the playing relaxed so speed stays articulate
 
+### Gear Used
+
+- Tama Starclassic Maple Kit (drums)
+- Meinl Byzance Brilliant Heavy Hammered / Classics Custom Dark (cymbals)
+- Tama Speed Cobra 910 Double Pedal (hardware)
+- Tama O-DVM2 Signature Sticks (sticks)
+
 **Core Techniques:** [Double Bass](https://metalforge.io/techniques/double-bass), [Blast Beat](https://metalforge.io/techniques/blast-beat), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
 ## Mechanix Thrash Speed Workout
@@ -51,6 +58,13 @@ Dirk Verbeuren brought a new level of extreme-metal precision to Megadeth when h
 - Keep hands and feet relaxed so they stay even at speed
 - Focus on consistency over a full song, not short bursts
 - Lock the double bass to the riff for a tight feel
+
+### Gear Used
+
+- Tama Starclassic Maple Kit (drums)
+- Meinl Byzance Brilliant Heavy Hammered / Classics Custom Dark (cymbals)
+- Tama Speed Cobra 910 Double Pedal (hardware)
+- Tama O-DVM2 Signature Sticks (sticks)
 
 **Core Techniques:** [Double Bass](https://metalforge.io/techniques/double-bass), [Blast Beat](https://metalforge.io/techniques/blast-beat), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
@@ -75,6 +89,13 @@ Before Megadeth, Dirk Verbeuren spent years as the drummer for Swedish melodic d
 - Lock the blasts and double bass to the riffs
 - Keep the blasting clean — aim for musical, not noisy
 
+### Gear Used
+
+- Tama Starclassic Performer Kit (drums)
+- Meinl Byzance Dark Cymbals (cymbals)
+- Tama Speed Cobra 910 Double Pedal (hardware)
+- Vater Power 5B (sticks)
+
 **Core Techniques:** [Blast Beat](https://metalforge.io/techniques/blast-beat), [Double Bass](https://metalforge.io/techniques/double-bass), [Gravity Blast](https://metalforge.io/techniques/gravity-blast)
 
 ## Teaching Points
@@ -90,4 +111,4 @@ Dirk Verbeuren's style is defined by precision, timing, and genre-defining groov
 
 ---
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

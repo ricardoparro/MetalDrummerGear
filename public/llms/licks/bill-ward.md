@@ -29,6 +29,12 @@ Bill Ward is one of Heavy Metal / Hard Rock / Blues Rock's most influential drum
 - Listen to the original recording and match the weight and looseness of the kick
 - Lock the kick and snare to Iommi's riff rather than the click alone
 
+### Gear Used
+
+- Ludwig Standard Kit (drums)
+- Super Zyn Cymbals (cymbals)
+- Ludwig Speed King Single Pedal (hardware)
+
 **Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Ghost Notes](https://metalforge.io/techniques/ghost-notes), [Jazz Feel](https://metalforge.io/techniques/jazz-feel)
 
 ## Iron Man Intro & Verse Groove
@@ -51,6 +57,12 @@ Bill Ward is one of Heavy Metal / Hard Rock / Blues Rock's most influential drum
 - Keep the hihat loose — avoid locking it too tightly in time
 - Lock the kick to the guitar riff, not just the click
 - Practise the simple groove until it feels authoritative before adding complexity
+
+### Gear Used
+
+- Ludwig Standard Kit (drums)
+- Super Zyn Cymbals (cymbals)
+- Ludwig Speed King Single Pedal (hardware)
 
 **Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Dynamic Control](https://metalforge.io/techniques/dynamic-control), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
@@ -75,6 +87,12 @@ Bill Ward is one of Heavy Metal / Hard Rock / Blues Rock's most influential drum
 - Keep ghost notes very soft so they swing without cluttering
 - Let the kick follow the bass riff naturally rather than staying on a fixed pattern
 
+### Gear Used
+
+- Ludwig Standard Kit (drums)
+- Super Zyn Cymbals (cymbals)
+- Ludwig Speed King Single Pedal (hardware)
+
 **Core Techniques:** [Shuffle Feel](https://metalforge.io/techniques/shuffle-feel), [Ghost Notes](https://metalforge.io/techniques/ghost-notes), [Groove Drumming](https://metalforge.io/techniques/groove-drumming)
 
 ## Teaching Points
@@ -90,4 +108,4 @@ Bill Ward's style is defined by precision, timing, and genre-defining grooves. K
 
 ---
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

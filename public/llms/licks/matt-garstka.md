@@ -29,6 +29,12 @@ Matt Garstka is one of Progressive Metal / Djent's most influential drummers, be
 - Work the ghost notes on a practice pad first to get them even and quiet
 - Start at 90 BPM and only push tempo once the feel is relaxed, not rushed
 
+### Gear Used
+
+- Pearl Masterworks Maple Kit (drums)
+- Meinl Byzance Cymbals (cymbals)
+- Pearl Demon Drive Double Pedal (pedals)
+
 **Core Techniques:** [Polyrhythms](https://metalforge.io/techniques/polyrhythms), [Linear Drumming](https://metalforge.io/techniques/linear-drumming), [Odd Time Signatures](https://metalforge.io/techniques/odd-time-signatures)
 
 ## The Woven Web Linear Groove
@@ -51,6 +57,12 @@ Matt Garstka is one of Progressive Metal / Djent's most influential drummers, be
 - Loop a single beat until the sticking is automatic, then add the next beat
 - Practice with a metronome to keep the sixteenth notes perfectly even
 - Record yourself and listen back to make sure the backbeat still feels present
+
+### Gear Used
+
+- Pearl Masterworks Maple Kit (drums)
+- Meinl Byzance Cymbals (cymbals)
+- Pearl Demon Drive Double Pedal (pedals)
 
 **Core Techniques:** [Linear Drumming](https://metalforge.io/techniques/linear-drumming), [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Polyrhythms](https://metalforge.io/techniques/polyrhythms)
 
@@ -75,6 +87,12 @@ Matt Garstka is one of Progressive Metal / Djent's most influential drummers, be
 - Work the hi-hat foot and snare independently on the seven-beat figure at very slow tempo
 - Do not rush to full song tempo — conceptual accuracy matters more than speed early on
 
+### Gear Used
+
+- Pearl Masterworks Maple Kit (drums)
+- Meinl Byzance Cymbals (cymbals)
+- Pearl Demon Drive Double Pedal (pedals)
+
 **Core Techniques:** [Polyrhythms](https://metalforge.io/techniques/polyrhythms), [Odd Time Signatures](https://metalforge.io/techniques/odd-time-signatures), [Linear Drumming](https://metalforge.io/techniques/linear-drumming)
 
 ## Physical Education Snare Density Exercise
@@ -97,6 +115,12 @@ Matt Garstka is one of Progressive Metal / Djent's most influential drummers, be
 - Record the fills and listen back for dynamic consistency — uneven strokes will be clearly audible
 - Work on wrist endurance exercises such as paradiddles and rolls before the extended dense passages
 - Slow the snare density pattern to 60 BPM and work up gradually — never sacrifice even dynamics for tempo
+
+### Gear Used
+
+- Pearl Masterworks Maple Kit (drums)
+- Meinl Byzance Cymbals (cymbals)
+- Pearl Demon Drive Double Pedal (pedals)
 
 **Core Techniques:** [Fill Techniques](https://metalforge.io/techniques/fill-techniques), [Linear Drumming](https://metalforge.io/techniques/linear-drumming), [Dynamic Control](https://metalforge.io/techniques/dynamic-control)
 
@@ -121,6 +145,12 @@ Matt Garstka is one of Progressive Metal / Djent's most influential drummers, be
 - Tap the guitar rhythm with your hands away from the kit to internalise the accents
 - Use a metronome that can subdivide so you never lose beat one in the odd bars
 
+### Gear Used
+
+- Pearl Masterworks Maple Kit (drums)
+- Meinl Byzance Cymbals (cymbals)
+- Pearl Demon Drive Double Pedal (pedals)
+
 **Core Techniques:** [Odd Time Signatures](https://metalforge.io/techniques/odd-time-signatures), [Double Bass](https://metalforge.io/techniques/double-bass), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
 ## Teaching Points
@@ -136,4 +166,4 @@ Matt Garstka's style is defined by precision, timing, and genre-defining grooves
 
 ---
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

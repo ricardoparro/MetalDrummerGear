@@ -29,6 +29,13 @@ Hannes Grossmann built his reputation as one of technical death metal's most pre
 - Isolate each rhythmic cell, then connect them one transition at a time
 - Keep the playing relaxed so complexity stays controlled at tempo
 
+### Gear Used
+
+- DW Collectors Series Kit (drums)
+- Meinl Byzance Cymbals (cymbals)
+- DW 9000 Series Double Pedal (hardware)
+- Vic Firth American Classic 5B (sticks)
+
 **Core Techniques:** [Double Bass](https://metalforge.io/techniques/double-bass), [Blast Beat](https://metalforge.io/techniques/blast-beat), [Odd Time Signatures](https://metalforge.io/techniques/odd-time-signatures)
 
 ## In Turmoil's Swirling Reaches Polyrhythm Study
@@ -51,6 +58,13 @@ With Alkaloid, Hannes Grossmann pushes his playing into progressive, composition
 - Practise each rhythmic layer on its own, then overlay them slowly
 - Count the cross-rhythms out loud to internalise where they resolve
 - Keep the anchor limb steady so the groove survives the complexity
+
+### Gear Used
+
+- DW Collectors Series Kit (drums)
+- Meinl Byzance Cymbals (cymbals)
+- DW 9000 Series Double Pedal (hardware)
+- Vic Firth American Classic 5B (sticks)
 
 **Core Techniques:** [Polyrhythms](https://metalforge.io/techniques/polyrhythms), [Odd Time Signatures](https://metalforge.io/techniques/odd-time-signatures), [Double Bass](https://metalforge.io/techniques/double-bass)
 
@@ -75,6 +89,13 @@ Grossmann's tenure in Obscura produced some of the most acclaimed technical deat
 - Practise the accent pattern by clapping before playing it on the kit
 - Add the double bass only once the odd-time feel is solid
 
+### Gear Used
+
+- Tama Starclassic Maple Kit (drums)
+- Meinl Byzance Cymbals (cymbals)
+- Tama Iron Cobra (hardware)
+- Vic Firth American Classic 5B (sticks)
+
 **Core Techniques:** [Odd Time Signatures](https://metalforge.io/techniques/odd-time-signatures), [Double Bass](https://metalforge.io/techniques/double-bass), [Blast Beat](https://metalforge.io/techniques/blast-beat)
 
 ## Teaching Points
@@ -90,4 +111,4 @@ Hannes Grossmann's style is defined by precision, timing, and genre-defining gro
 
 ---
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

@@ -29,6 +29,12 @@ Ben Koller is one of Metalcore / Hardcore Punk / Grindcore's most influential dr
 - Tap the riff to internalise its stops and restarts before playing along
 - Focus on aggressive feel and energy, not robotic precision
 
+### Gear Used
+
+- Tama Drums (drums)
+- Sabian HHX & AAX Cymbals (cymbals)
+- Tama Iron Cobra Pedals (pedals)
+
 **Core Techniques:** [Blast Beat](https://metalforge.io/techniques/blast-beat), [Fill Techniques](https://metalforge.io/techniques/fill-techniques), [Double Bass](https://metalforge.io/techniques/double-bass)
 
 ## Dark Horse Driving Fills
@@ -51,6 +57,12 @@ Ben Koller is one of Metalcore / Hardcore Punk / Grindcore's most influential dr
 - Make sure the groove stays present and urgent underneath the fills
 - Use a metronome to land every fill precisely back on the beat
 - Focus on momentum and feel, not just executing the notes
+
+### Gear Used
+
+- Tama Drums (drums)
+- Zildjian Cymbals (cymbals)
+- Tama Iron Cobra Pedals (pedals)
 
 **Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Fill Techniques](https://metalforge.io/techniques/fill-techniques), [Double Bass](https://metalforge.io/techniques/double-bass)
 
@@ -75,6 +87,12 @@ Ben Koller is one of Metalcore / Hardcore Punk / Grindcore's most influential dr
 - Use dynamics deliberately — restraint makes the fast parts hit harder
 - Watch the drum-cam footage to see how much motion drives the intensity
 
+### Gear Used
+
+- Tama Drums (drums)
+- Sabian HHX & AAX Cymbals (cymbals)
+- Tama Iron Cobra Pedals (pedals)
+
 **Core Techniques:** [Blast Beat](https://metalforge.io/techniques/blast-beat), [Fill Techniques](https://metalforge.io/techniques/fill-techniques), [Groove Drumming](https://metalforge.io/techniques/groove-drumming)
 
 ## Teaching Points
@@ -90,4 +108,4 @@ Ben Koller's style is defined by precision, timing, and genre-defining grooves. 
 
 ---
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

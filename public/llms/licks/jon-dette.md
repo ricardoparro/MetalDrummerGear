@@ -27,6 +27,12 @@ Jon Dette's machine-precise thrash engine on 'Killing Fields' came alive during 
 - Ghost notes are subtle — keep them at least 6 dB below the backbeat
 - Record yourself and listen for any rushing on the kick; 182 BPM demands even spacing
 
+### Gear Used
+
+- Ludwig Classic Maple Kit (drums)
+- Zildjian A Series Cymbals (cymbals)
+- DW 9000 Double Pedal (pedals)
+
 **Core Techniques:** [Double Bass](https://metalforge.io/techniques/double-bass), [Thrash Groove](https://metalforge.io/techniques/thrash-groove), [Ghost Notes](https://metalforge.io/techniques/ghost-notes)
 
 ## Serenity in Fire Thrash Groove
@@ -47,6 +53,12 @@ The thrash groove on 'Serenity in Fire' demonstrates Jon Dette's signature appro
 - Build stamina first — practice the 16th-note bass pattern for five-minute blocks at 140 BPM
 - Keep the snare stroke height low and consistent to avoid fatigue during longer sets
 - This groove is about groove, not flash — resist adding extra fills that aren't in the original
+
+### Gear Used
+
+- Ludwig Classic Maple Kit (drums)
+- Zildjian A Series Cymbals (cymbals)
+- DW 9000 Double Pedal (pedals)
 
 **Core Techniques:** [Thrash Groove](https://metalforge.io/techniques/thrash-groove), [Double Bass](https://metalforge.io/techniques/double-bass), [Stamina Playing](https://metalforge.io/techniques/stamina-playing)
 
@@ -69,6 +81,12 @@ Jon Dette's take on 'Postmortem' from Reign in Blood—originally played by Dave
 - Use a metronome and start at 150 BPM; add 5 BPM per session until 190 feels relaxed
 - Record and compare your version to Jon Dette's — listen for kick-snare alignment on the grid
 
+### Gear Used
+
+- Ludwig Classic Maple Kit (drums)
+- Zildjian A Series Cymbals (cymbals)
+- DW 9000 Double Pedal (pedals)
+
 **Core Techniques:** [Thrash Groove](https://metalforge.io/techniques/thrash-groove), [Double Bass](https://metalforge.io/techniques/double-bass), [High Speed Precision](https://metalforge.io/techniques/high-speed-precision)
 
 ## Teaching Points
@@ -84,4 +102,4 @@ Jon Dette's style is defined by precision, timing, and genre-defining grooves. K
 
 ---
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

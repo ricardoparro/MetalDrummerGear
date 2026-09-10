@@ -29,6 +29,14 @@ Blake Richardson is one of Progressive Metal / Technical Death Metal's most infl
 - Practise the transition points between different time signatures in isolation, treating each transition as its own short exercise
 - Record yourself and compare against the original — in 7/8, timing errors are more audible than in 4/4 because the asymmetry makes displacement easy to hear
 
+### Gear Used
+
+- DW Collector's Series Kit (drums)
+- DW 14"x6.5" Collector's Snare (snare)
+- Meinl Byzance Extra Dry Series Cymbals (cymbals)
+- DW 9002 Double Pedal (hardware)
+- Vic Firth American Classic 3A (sticks)
+
 **Core Techniques:** [Odd Time](https://metalforge.io/techniques/odd-time), [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
 ## Lay Your Ghosts to Rest — Double Bass Ostinato
@@ -51,6 +59,14 @@ Blake Richardson is one of Progressive Metal / Technical Death Metal's most infl
 - Practise the double-bass patterns with a recording of the guitar part to feel how the kick syncopations align with the riff accents
 - Build endurance by practising the densest patterns in short bursts — two minutes at full tempo, rest, repeat — before attempting a full run
 - Use a mirror or camera to check that upper-body independence is genuine; hands and feet should look like separate conversations
+
+### Gear Used
+
+- DW Collector's Series Kit (drums)
+- DW 14"x6.5" Collector's Snare (snare)
+- Meinl Byzance Extra Dry Series Cymbals (cymbals)
+- DW 9002 Double Pedal (hardware)
+- Vic Firth American Classic 3A (sticks)
 
 **Core Techniques:** [Double Bass](https://metalforge.io/techniques/double-bass), [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Odd Time](https://metalforge.io/techniques/odd-time)
 
@@ -75,6 +91,14 @@ Blake Richardson is one of Progressive Metal / Technical Death Metal's most infl
 - Experiment with building each fill from a rhythmic seed in the preceding bar — the fill should feel like a natural extension of the groove
 - Watch the playthrough video for each section transition and note not just the fill pattern but the dynamics and the entry/exit points
 
+### Gear Used
+
+- DW Collector's Series Kit (drums)
+- DW 14"x6.5" Collector's Snare (snare)
+- Meinl Byzance Extra Dry Series Cymbals (cymbals)
+- DW 9002 Double Pedal (hardware)
+- Vic Firth American Classic 3A (sticks)
+
 **Core Techniques:** [Fills](https://metalforge.io/techniques/fills), [Odd Time](https://metalforge.io/techniques/odd-time), [Groove Drumming](https://metalforge.io/techniques/groove-drumming)
 
 ## Teaching Points
@@ -90,4 +114,4 @@ Blake Richardson's style is defined by precision, timing, and genre-defining gro
 
 ---
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

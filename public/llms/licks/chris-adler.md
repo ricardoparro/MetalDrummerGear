@@ -29,6 +29,12 @@ Chris Adler is one of Groove Metal's most influential drummers, best known for t
 - Keep the ride bell steady and even while the kick syncopates underneath
 - Practise the linear fills slowly, then place them back into the groove
 
+### Gear Used
+
+- Mapex Black Panther Kit (drums)
+- Meinl Cymbals (cymbals)
+- Trick Pro1-V Bigfoot Double Pedal (pedals)
+
 **Core Techniques:** [Double Bass](https://metalforge.io/techniques/double-bass), [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
 ## Walk with Me in Hell Half-Time Groove
@@ -51,6 +57,12 @@ Chris Adler is one of Groove Metal's most influential drummers, best known for t
 - Keep the half-time backbeat wide and authoritative without rushing
 - Use the ride bell to keep forward momentum under the slow pocket
 - Practise the fills separately, then place them back to mark the transitions
+
+### Gear Used
+
+- Mapex Black Panther Kit (drums)
+- Meinl Cymbals (cymbals)
+- Trick Pro1-V Bigfoot Double Pedal (pedals)
 
 **Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Double Bass](https://metalforge.io/techniques/double-bass), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
@@ -75,6 +87,12 @@ Chris Adler is one of Groove Metal's most influential drummers, best known for t
 - Map the song's dynamic shifts and rehearse pulling back then re-engaging
 - Build the linear fills slowly, then drop them back into the groove
 
+### Gear Used
+
+- Mapex Black Panther Kit (drums)
+- Meinl Cymbals (cymbals)
+- Trick Pro1-V Bigfoot Double Pedal (pedals)
+
 **Core Techniques:** [Double Bass](https://metalforge.io/techniques/double-bass), [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
 ## Walk with Me in Hell — Drum Setup & Pattern
@@ -97,6 +115,12 @@ Chris Adler is one of Groove Metal's most influential drummers, best known for t
 - Set the ride bell at a comfortable height that keeps your shoulder relaxed so the pulse stays even across long passages
 - Record yourself at the song's tempo and listen for kick unevenness — any wobble in the feet destroys the groove's authority
 - Add the China cymbal last after the main pattern is solid — placement timing is everything for those section accents
+
+### Gear Used
+
+- Mapex Black Panther Kit (drums)
+- Meinl Cymbals (cymbals)
+- Trick Pro1-V Bigfoot Double Pedal (pedals)
 
 **Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Double Bass](https://metalforge.io/techniques/double-bass), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
@@ -121,6 +145,12 @@ Chris Adler is one of Groove Metal's most influential drummers, best known for t
 - Work the breakdown in isolation at first — the half-time feel must be fully confident before attaching it to the preceding fast section
 - Record the full song and listen back specifically to the kick-riff lock in the verses to identify any loose spots
 
+### Gear Used
+
+- Mapex Black Panther Kit (drums)
+- Meinl Cymbals (China prominent) (cymbals)
+- Trick Pro1-V Bigfoot Double Pedal (pedals)
+
 **Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Double Bass](https://metalforge.io/techniques/double-bass), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
 ## The Contractor — Polyrhythmic Setup
@@ -144,6 +174,12 @@ Chris Adler is one of Groove Metal's most influential drummers, best known for t
 - Keep a mental count of the bar divisions while playing — the cross-accent pattern resolves at the bar line and knowing where that is prevents drift
 - Record yourself and compare the snare accent weights — any unevenness between straight backbeats and cross-accent placements will reveal where the technique needs work
 
+### Gear Used
+
+- Mapex Black Panther Kit (drums)
+- Meinl Cymbals (cymbals)
+- Trick Pro1-V Bigfoot Double Pedal (pedals)
+
 **Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Double Bass](https://metalforge.io/techniques/double-bass), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
 ## Teaching Points
@@ -159,4 +195,4 @@ Chris Adler's style is defined by precision, timing, and genre-defining grooves.
 
 ---
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

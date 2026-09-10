@@ -29,6 +29,11 @@ Scott Travis's debut with Judas Priest on 1990's Painkiller produced one of the 
 - Keep the backbeat heavy and in time under the fast feet
 - Stay relaxed — Travis's speed is built on control
 
+### Gear Used
+
+- Tama Artstar II Kit (drums)
+- Paiste RUDE & 2002 Cymbals (cymbals)
+
 **Core Techniques:** [Double Bass](https://metalforge.io/techniques/double-bass), [Blast Beat](https://metalforge.io/techniques/blast-beat), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
 ## Breaking the Law Live Drive
@@ -51,6 +56,13 @@ Scott Travis's debut with Judas Priest on 1990's Painkiller produced one of the 
 - Focus on making the backbeat hit hard and consistent
 - Keep fills simple and well-placed
 - Serve the song — power and feel beat flash here
+
+### Gear Used
+
+- ddrum Dominion Series Kit (drums)
+- Paiste RUDE & 2002 Cymbals (cymbals)
+- DW 9000 Series Double Pedal (hardware)
+- Vic Firth American Classic 5B (sticks)
 
 **Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Fill Techniques](https://metalforge.io/techniques/fill-techniques), [Double Bass](https://metalforge.io/techniques/double-bass)
 
@@ -75,6 +87,13 @@ Scott Travis's debut with Judas Priest on 1990's Painkiller produced one of the 
 - Add only the fills and accents that lift the choruses
 - Leave space and let the groove breathe
 
+### Gear Used
+
+- ddrum Dominion Series Kit (drums)
+- Paiste RUDE & 2002 Cymbals (cymbals)
+- DW 9000 Series Double Pedal (hardware)
+- Vic Firth American Classic 5B (sticks)
+
 **Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Fill Techniques](https://metalforge.io/techniques/fill-techniques), [Double Bass](https://metalforge.io/techniques/double-bass)
 
 ## Teaching Points
@@ -90,4 +109,4 @@ Scott Travis's style is defined by precision, timing, and genre-defining grooves
 
 ---
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

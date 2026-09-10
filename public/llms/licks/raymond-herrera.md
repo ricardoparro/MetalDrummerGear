@@ -29,6 +29,14 @@ Raymond Herrera is one of Industrial Metal / Death Metal's most influential drum
 - Add the snare accents only after the double bass pattern is stable at target tempo — layering too early builds bad habits
 - Record the kick through a trigger to objectively hear velocity consistency before attempting live performance
 
+### Gear Used
+
+- Tama Starclassic Kit (drums)
+- Pearl 14"x6.5" Free-Floating Snare (snare)
+- Zildjian Z Custom Cymbals (cymbals)
+- DW 5000 Series Double Pedal (hardware)
+- Drum triggers (DDrum/Roland) (hardware)
+
 **Core Techniques:** [Double Bass](https://metalforge.io/techniques/double-bass), [Blast Technique](https://metalforge.io/techniques/blast-technique), [Industrial Metal](https://metalforge.io/techniques/industrial-metal)
 
 ## Edgecrusher Industrial Groove Pattern
@@ -51,6 +59,14 @@ Raymond Herrera is one of Industrial Metal / Death Metal's most influential drum
 - Practise the kick pattern alone against a metronome, then add guitar backing to check the groove locks
 - Hold the pattern for two full minutes without fills before attempting section transitions
 - Compare recordings at half and full tempo to check that the syncopated placements stay clean as speed increases
+
+### Gear Used
+
+- Tama Starclassic Kit (drums)
+- Pearl 14"x6.5" Free-Floating Snare (snare)
+- Zildjian Z Custom Cymbals (cymbals)
+- DW 5000 Series Double Pedal (hardware)
+- Drum triggers (DDrum/Roland) (hardware)
 
 **Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Double Bass](https://metalforge.io/techniques/double-bass), [Industrial Metal](https://metalforge.io/techniques/industrial-metal)
 
@@ -75,6 +91,14 @@ Raymond Herrera is one of Industrial Metal / Death Metal's most influential drum
 - Work the verse-to-chorus density shift in isolation: practise the transition back and forth until it is instant
 - Record both groove and fill sections and check that the machine-precise quality is audible at full speed
 
+### Gear Used
+
+- Tama Starclassic Kit (drums)
+- Pearl 14"x6.5" Free-Floating Snare (snare)
+- Zildjian Z Custom Cymbals (cymbals)
+- DW 5000 Series Double Pedal (hardware)
+- Drum triggers (DDrum/Roland) (hardware)
+
 **Core Techniques:** [Fills](https://metalforge.io/techniques/fills), [Double Bass](https://metalforge.io/techniques/double-bass), [Groove Drumming](https://metalforge.io/techniques/groove-drumming)
 
 ## Teaching Points
@@ -90,4 +114,4 @@ Raymond Herrera's style is defined by precision, timing, and genre-defining groo
 
 ---
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

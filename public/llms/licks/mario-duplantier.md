@@ -28,6 +28,12 @@ Mario's signature approach to polyrhythms - groovy, musical, and organic. Unlike
 - Feel the "resolution point" every 12 beats
 - Mario's patterns are musical, not just mathematical
 
+### Gear Used
+
+- Tama Kit (drums)
+- Zildjian K Custom / A Custom / Z Custom Cymbals (cymbals)
+- DW 9000 Pedals (pedals)
+
 **Core Techniques:** [Polyrhythms](https://metalforge.io/techniques/polyrhythms), [Groove](https://metalforge.io/techniques/groove), [Dynamics](https://metalforge.io/techniques/dynamics)
 
 ## Gojira Blast Variation
@@ -49,6 +55,12 @@ Mario's blast beats are distinctive - they serve the song's groove while maintai
 - Practice the accent patterns separately
 - Blend power with finesse
 - Study how Mario transitions in and out of blasts
+
+### Gear Used
+
+- Tama Kit (drums)
+- Zildjian K Custom / A Custom / Z Custom Cymbals (cymbals)
+- Evans Heavyweight Heads (heads)
 
 **Core Techniques:** [Blast Beat](https://metalforge.io/techniques/blast-beat), [Dynamics](https://metalforge.io/techniques/dynamics), [Accents](https://metalforge.io/techniques/accents)
 
@@ -73,6 +85,12 @@ Mario's blast beats are distinctive - they serve the song's groove while maintai
 - Listen to Gojira's tribal grooves across their catalogue (Backbone, Clone) to hear the lineage
 - Study how the kick relates to the bass guitar line — they often move as one rhythmic voice
 
+### Gear Used
+
+- Tama Kit (drums)
+- Zildjian K Custom / A Custom / Z Custom Cymbals (cymbals)
+- DW 9000 Pedals (pedals)
+
 **Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Polyrhythms](https://metalforge.io/techniques/polyrhythms), [Tribal Influence](https://metalforge.io/techniques/tribal-influence)
 
 ## Stranded Intro Blast Pattern
@@ -95,6 +113,12 @@ Mario's blast beats are distinctive - they serve the song's groove while maintai
 - Practise the build-up section in isolation, focusing on the dynamic escalation from quiet to full intensity
 - Work the landing point carefully — the transition from fill to groove is the critical moment
 - Sing the guitar riff while playing the fill to keep the harmonic context clear in your mind
+
+### Gear Used
+
+- Tama Kit (drums)
+- Zildjian K Custom / A Custom / Z Custom Cymbals (cymbals)
+- DW 9000 Pedals (pedals)
 
 **Core Techniques:** [Blast Beat](https://metalforge.io/techniques/blast-beat), [Fill Techniques](https://metalforge.io/techniques/fill-techniques), [Dynamic Control](https://metalforge.io/techniques/dynamic-control)
 
@@ -119,6 +143,10 @@ Mario's blast beats are distinctive - they serve the song's groove while maintai
 - Work on the snare position — a slightly behind-the-beat feel adds physical weight to the groove
 - Practise the fill-to-groove transition until the return to the pocket feels completely natural
 
+### Gear Used
+
+- DW 9000 Pedals (pedals)
+
 **Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Riff Lock](https://metalforge.io/techniques/riff-lock), [Dynamic Control](https://metalforge.io/techniques/dynamic-control)
 
 ## Backbone Main Groove
@@ -141,6 +169,10 @@ One of Gojira's grooviest tracks showcases Mario's pocket and feel. The slow, he
 - Focus on the bass drum relationship with guitar
 - Great song for developing feel and timing
 
+### Gear Used
+
+- DW 9000 Pedals (pedals)
+
 **Core Techniques:** [Groove](https://metalforge.io/techniques/groove), [Pocket](https://metalforge.io/techniques/pocket), [Dynamics](https://metalforge.io/techniques/dynamics)
 
 ## Teaching Points
@@ -156,4 +188,4 @@ Mario Duplantier's style is defined by precision, timing, and genre-defining gro
 
 ---
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

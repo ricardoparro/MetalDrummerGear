@@ -29,6 +29,12 @@ Pete "Commando" Sandoval is one of the founding fathers of death metal drumming,
 - Practise the blast-to-groove transitions on their own
 - Stay relaxed — Sandoval's speed comes from control, not force
 
+### Gear Used
+
+- ddrum Drum Kit (drums)
+- ddrum Hardware (hardware)
+- Promark or Vic Firth Sticks (5B/2B) (sticks)
+
 **Core Techniques:** [Blast Beat](https://metalforge.io/techniques/blast-beat), [Double Bass](https://metalforge.io/techniques/double-bass), [Gravity Blast](https://metalforge.io/techniques/gravity-blast)
 
 ## Immortal Rites Death-Metal Speed Study
@@ -51,6 +57,12 @@ Pete "Commando" Sandoval is one of the founding fathers of death metal drumming,
 - Build stamina with progressively longer reps at a steady tempo
 - Keep motion efficient and repeatable to avoid breaking down
 - Treat speed as a product of relaxation, not force
+
+### Gear Used
+
+- ddrum Drum Kit (drums)
+- ddrum Hardware (hardware)
+- Promark or Vic Firth Sticks (5B/2B) (sticks)
 
 **Core Techniques:** [Blast Beat](https://metalforge.io/techniques/blast-beat), [Double Bass](https://metalforge.io/techniques/double-bass), [One Handed Roll](https://metalforge.io/techniques/one-handed-roll)
 
@@ -75,6 +87,12 @@ By the time of 1995's Domination, Pete Sandoval had refined his extreme techniqu
 - Keep the limbs balanced and the motion economical to stay controlled
 - Anchor everything to the riff so the part stays tight at speed
 
+### Gear Used
+
+- ddrum Drum Kit (drums)
+- ddrum Hardware (hardware)
+- Promark or Vic Firth Sticks (5B/2B) (sticks)
+
 **Core Techniques:** [Blast Beat](https://metalforge.io/techniques/blast-beat), [Double Bass](https://metalforge.io/techniques/double-bass), [Gravity Blast](https://metalforge.io/techniques/gravity-blast)
 
 ## Teaching Points
@@ -90,4 +108,4 @@ Pete Sandoval's style is defined by precision, timing, and genre-defining groove
 
 ---
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

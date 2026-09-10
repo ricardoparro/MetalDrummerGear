@@ -29,6 +29,12 @@ Waltteri Väyrynen is one of Progressive Metal / Gothic Doom Metal's most influe
 - Study the featured drum passage separately from the surrounding groove to build confidence leading the arrangement
 - Watch the official playthrough video closely for touch and dynamics, not just note placement
 
+### Gear Used
+
+- Pearl Drums (drums)
+- Sabian Cymbals (22" HH Power Bell Ride) (cymbals)
+- Wincent W-5BXL Signature Sticks (sticks)
+
 **Core Techniques:** [Dynamic Control](https://metalforge.io/techniques/dynamic-control), [Syncopation](https://metalforge.io/techniques/syncopation), [Groove Drumming](https://metalforge.io/techniques/groove-drumming)
 
 ## Teaching Points
@@ -44,4 +50,4 @@ Waltteri Väyrynen's style is defined by precision, timing, and genre-defining g
 
 ---
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

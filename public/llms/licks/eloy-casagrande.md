@@ -29,6 +29,12 @@ Eloy Casagrande is one of Nu Metal / Thrash Metal's most influential drummers, b
 - Work double-bass bursts slowly for evenness before using them as accents
 - Record yourself to confirm the pocket stays tight under the busier figures
 
+### Gear Used
+
+- Tama Starclassic Kit (drums)
+- Paiste Cymbals (cymbals)
+- Tama Speed Cobra Pedals (pedals)
+
 **Core Techniques:** [Double Bass](https://metalforge.io/techniques/double-bass), [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
 ## Isolation Blast & Double Bass
@@ -51,6 +57,12 @@ Eloy Casagrande is one of Nu Metal / Thrash Metal's most influential drummers, b
 - Build double-bass stamina with long even runs before pushing the tempo
 - Practise the feel transitions in isolation so they stay tight in the full song
 - Keep every limb relaxed at speed — tension kills both speed and articulation
+
+### Gear Used
+
+- Tama Starclassic Kit (drums)
+- Paiste Cymbals (cymbals)
+- Tama Speed Cobra Pedals (pedals)
 
 **Core Techniques:** [Blast Beat](https://metalforge.io/techniques/blast-beat), [Double Bass](https://metalforge.io/techniques/double-bass), [Groove Drumming](https://metalforge.io/techniques/groove-drumming)
 
@@ -75,6 +87,12 @@ Eloy Casagrande is one of Nu Metal / Thrash Metal's most influential drummers, b
 - Drill the feel changes between half-time and double-time sections
 - Play along with both the original and the playthrough to compare feel and execution
 
+### Gear Used
+
+- Tama Starclassic Kit (drums)
+- Paiste Cymbals (cymbals)
+- Tama Speed Cobra Pedals (pedals)
+
 **Core Techniques:** [Double Bass](https://metalforge.io/techniques/double-bass), [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
 ## Teaching Points
@@ -90,4 +108,4 @@ Eloy Casagrande's style is defined by precision, timing, and genre-defining groo
 
 ---
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

@@ -1,6 +1,6 @@
 # Top 10 Post-Metal Drummers — Complete Ranked Guide
 
-> **Last updated:** 2026-07-25 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/post-metal-drummers)
+> **Last updated:** 2026-09-10 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/post-metal-drummers)
 
 ---
 
@@ -128,7 +128,7 @@ A: Post-metal's foundational bands include Neurosis (whose 1990s albums establis
 A: Post-metal drumming prioritizes dynamic architecture over constant intensity — long, patient build-ups from quiet, textural passages into crushing sludge-weight climaxes, often across compositions stretching past ten minutes. Where extreme metal drumming sustains blast beat aggression throughout, post-metal drumming is defined by restraint: tribal or minimalist patterns during quiet sections, and controlled, weighty crescendos that make the eventual heaviness feel earned rather than constant. Jazz and progressive rock influences on timing and dynamics are common throughout the genre.
 
 **Q: What gear do post-metal drummers use?**
-A: Post-metal drummers need gear that performs across an unusually wide dynamic range — from near-silent, textural passages to crushing sludge-metal weight. Brann Dailor's DW kit and Sabian cymbals support Mastodon's jazz-informed dynamic shifts. Danny Carey's Sonor kit and Paiste cymbals handle Tool's long-form atmospheric builds. Martin Axenrot's Sonor SQ2 kit with Meinl Byzance cymbals gives Opeth the tonal range to move between whisper-quiet acoustic sections and full extremity. Across the genre, larger, deep-shelled toms and cymbals with long, resonant decay help sustain atmosphere during the quiet passages that make post-metal's climaxes land.
+A: Post-metal drummers need gear that performs across an unusually wide dynamic range — from near-silent, textural passages to crushing sludge-metal weight. Brann Dailor's Tama Starclassic Performer B/B kit and Meinl cymbals support Mastodon's jazz-informed dynamic shifts. Danny Carey's Sonor kit and Paiste cymbals handle Tool's long-form atmospheric builds. Martin Axenrot's Sonor SQ2 kit with Meinl Byzance cymbals gives Opeth the tonal range to move between whisper-quiet acoustic sections and full extremity. Across the genre, larger, deep-shelled toms and cymbals with long, resonant decay help sustain atmosphere during the quiet passages that make post-metal's climaxes land.
 
 
 ---
@@ -148,4 +148,4 @@ A: Post-metal drummers need gear that performs across an unusually wide dynamic 
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

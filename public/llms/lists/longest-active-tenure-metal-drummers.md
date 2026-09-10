@@ -1,12 +1,14 @@
 # Top 10 Metal Drummers with the Longest Active Tenure — Complete Ranked Guide
 
-> **Last updated:** 2026-07-25 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/longest-active-tenure-metal-drummers)
+> **Last updated:** 2026-09-10 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/longest-active-tenure-metal-drummers)
 
 ---
 
 ## Overview
 
 Awards and Grammy wins measure recognition; this list measures something different — sheer, uninterrupted years behind the same band's kit. These ten drummers have held their drum chair continuously, without leaving and returning, for longer than any other active metal drummer, ranked by unbroken years of service to a single band as of 2026.
+
+**Keywords:** longest tenured metal drummer, metal drummer years in band, longest serving metal drummer, lars ulrich years with metallica, nicko mcbrain years with iron maiden, oldest metal band lineup drummer
 
 ### Background
 
@@ -170,4 +172,4 @@ A: Several bands on this list have never changed drummers since forming: Meshugg
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

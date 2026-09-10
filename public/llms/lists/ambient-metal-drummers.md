@@ -1,6 +1,6 @@
 # Top 10 Ambient Metal Drummers — Complete Ranked Guide
 
-> **Last updated:** 2026-07-25 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/ambient-metal-drummers)
+> **Last updated:** 2026-09-10 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/ambient-metal-drummers)
 
 ---
 
@@ -89,10 +89,10 @@ Full drummer profile: [Mike Portnoy on MetalForge](https://metalforge.io/drummer
 ### 8. Mike Mangini
 
 **Band:** Dream Theater
-**Highlight:** Dream Theater's continued atmospheric precision
-**Why ranked here:** Mike Mangini has driven Dream Theater's technically ambitious, dynamically dramatic progressive metal since 2010, sustaining the same wide-dynamic-range, atmosphere-conscious playing that makes the band's catalog a close analogue to ambient metal's textural sensibility
+**Highlight:** Dream Theater's atmospheric precision, 2010-2023
+**Why ranked here:** Mike Mangini drove Dream Theater's technically ambitious, dynamically dramatic progressive metal from 2010 to 2023, sustaining the same wide-dynamic-range, atmosphere-conscious playing that makes the band's catalog a close analogue to ambient metal's textural sensibility
 
-Mike Mangini (Dream Theater) earns rank #8 for: dream theater's continued atmospheric precision. Mike Mangini has driven Dream Theater's technically ambitious, dynamically dramatic progressive metal since 2010, sustaining the same wide-dynamic-range, atmosphere-conscious playing that makes the band's catalog a close analogue to ambient metal's textural sensibility.
+Mike Mangini (Dream Theater) earns rank #8 for: dream theater's atmospheric precision, 2010-2023. Mike Mangini drove Dream Theater's technically ambitious, dynamically dramatic progressive metal from 2010 to 2023, sustaining the same wide-dynamic-range, atmosphere-conscious playing that makes the band's catalog a close analogue to ambient metal's textural sensibility.
 
 Full drummer profile: [Mike Mangini on MetalForge](https://metalforge.io/drummer/mike-mangini)
 
@@ -133,7 +133,7 @@ A: Ambient metal drumming treats the kit as a textural instrument as much as a r
 A: Neurosis is widely credited as ambient metal's foundational influence, its 1990s albums pairing sludge weight with tribal, atmospheric patience. Isis (drummer Aaron Turner era) refined that dynamic architecture into a more overtly ambient, textural direction on "Oceanic" and "Panopticon." Pelican brought a fully instrumental approach to the genre's soundscape-building ambition, while Jesu and Nadja pushed further into drone and shoegaze-adjacent territory. The genre shares deep DNA with post-metal and atmospheric black metal.
 
 **Q: What gear do ambient metal drummers use?**
-A: Ambient metal's closest analogues favor gear that performs across a wide dynamic range, from near-silent textural passages to crushing weight. Danny Carey's Sonor SQ2 kit, Paiste cymbals, and Mandala electronic pads give Tool's long-form soundscapes their hypnotic depth. Brann Dailor's DW kit and Sabian AAX cymbals bring a melodic, atmospheric dimension to Mastodon's heavier passages. Across the genre, larger, deep-shelled toms and cymbals with long, resonant decay help sustain atmosphere through extended, slowly-evolving compositions.
+A: Ambient metal's closest analogues favor gear that performs across a wide dynamic range, from near-silent textural passages to crushing weight. Danny Carey's Sonor SQ2 kit, Paiste cymbals, and Mandala electronic pads give Tool's long-form soundscapes their hypnotic depth. Brann Dailor's Tama Starclassic Performer B/B kit and Meinl cymbals bring a melodic, atmospheric dimension to Mastodon's heavier passages. Across the genre, larger, deep-shelled toms and cymbals with long, resonant decay help sustain atmosphere through extended, slowly-evolving compositions.
 
 
 ---
@@ -153,4 +153,4 @@ A: Ambient metal's closest analogues favor gear that performs across a wide dyna
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

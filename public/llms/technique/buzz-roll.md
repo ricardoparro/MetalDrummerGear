@@ -10,6 +10,8 @@
 
 The buzz roll - also called the multiple-bounce roll or press roll - is produced by pressing the stick into the head just enough that it bounces several times per stroke instead of once, creating a sustained, blurred "buzz" of sound rather than distinct individual hits. It is one of the Percussive Arts Society's 40 essential rudiments and the foundation of concert snare and drum corps roll vocabulary, used to sustain volume and tension across a held note the same way a bowed string instrument sustains a note. In metal drumming, buzz rolls show up less as a groove element and more as a texture and dynamics tool - a crescendo into a fill, a sustained wash under a cymbal swell, or a dramatic build leading into a breakdown or blast section.
 
+**Keywords:** buzz roll, multiple bounce roll, press roll drumming, buzz roll rudiment, how to play a buzz roll
+
 The buzz roll's technical foundation goes back to military and concert snare drumming, where a controlled multiple-bounce stroke let a single drummer sustain volume across long passages without the stamina cost of playing every note as a discrete single stroke. It was formally codified as one of the Percussive Arts Society's 40 essential rudiments, alongside the closely related closed (concert) roll and open double-stroke roll, and remains core vocabulary in drum corps and orchestral percussion training today. Metal drummers with rudimental or drum corps backgrounds carry the buzz roll's control and touch into their extreme-metal playing even when the roll itself rarely appears note-for-note in a groove - Mike Mangini (Dream Theater) built his drum-corps-rooted approach to stick control around exactly this kind of multiple-bounce roll vocabulary, while Gavin Harrison (Porcupine Tree, King Crimson) applies the same rudimental roll discipline to the dynamic control that defines his playing.
 
 ## How to Play Buzz Roll
@@ -85,4 +87,4 @@ A: Closely related techniques include One Handed Roll, Rudiments. Mastering thes
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

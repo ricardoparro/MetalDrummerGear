@@ -1,6 +1,6 @@
 # Top 10 Traditional Heavy Metal Drummers — Complete Ranked Guide
 
-> **Last updated:** 2026-07-25 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/traditional-heavy-metal-drummers)
+> **Last updated:** 2026-09-10 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/traditional-heavy-metal-drummers)
 
 ---
 
@@ -133,7 +133,7 @@ A: Traditional heavy metal drumming emphasizes feel and power over technical ext
 A: Black Sabbath is universally credited as heavy metal's founding band, with Bill Ward's drumming helping invent the genre's doom-laden template in 1970. Deep Purple, Rainbow, and Judas Priest built out the genre's harder-rocking, more anthemic wing through the 1970s. The New Wave of British Heavy Metal — led by Iron Maiden, Motörhead, and Saxon — codified the genre's galloping, riff-driven sound in the late 1970s and early 1980s, directly inspiring the thrash metal movement that followed.
 
 **Q: What gear do traditional heavy metal drummers use?**
-A: MetalForge's traditional heavy metal analogues favor kits built for power and durability over speed. Scott Travis's DW Collector's Series kit and Paiste RUDE and 2002 Series cymbals deliver the driving power behind Judas Priest's "Painkiller"-era sound. Lars Ulrich's Tama Star Classic kit and Vinnie Paul's ddrum Signature Series setup both favor large, punchy shells built for arena-scale heaviness — the same durable, high-output philosophy traditional heavy metal's founding drummers established decades earlier.
+A: MetalForge's traditional heavy metal analogues favor kits built for power and durability over speed. Scott Travis's ddrum Dominion Series kit and Paiste RUDE and 2002 Series cymbals deliver the driving power behind Judas Priest's "Painkiller"-era sound. Lars Ulrich's Tama Star Classic kit and Vinnie Paul's ddrum Signature Series setup both favor large, punchy shells built for arena-scale heaviness — the same durable, high-output philosophy traditional heavy metal's founding drummers established decades earlier.
 
 
 ---
@@ -153,4 +153,4 @@ A: MetalForge's traditional heavy metal analogues favor kits built for power and
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

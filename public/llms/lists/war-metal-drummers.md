@@ -1,6 +1,6 @@
 # Top 10 War Metal Drummers — Complete Ranked Guide
 
-> **Last updated:** 2026-07-25 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/war-metal-drummers)
+> **Last updated:** 2026-09-10 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/war-metal-drummers)
 
 ---
 
@@ -86,15 +86,15 @@ Kevin Talley (Dying Fetus / Misery Index) earns rank #7 for: dying fetus and mis
 
 Full drummer profile: [Kevin Talley on MetalForge](https://metalforge.io/drummer/kevin-talley)
 
-### 8. Bill Ward
+### 8. Derek Roddy
 
-**Band:** Black Sabbath
+**Band:** Hate Eternal / Nile
 **Highlight:** Hate Eternal's "King of All Kings" bestial assault
 **Why ranked here:** Derek Roddy's blast beat work with Hate Eternal, particularly on the punishingly extreme "King of All Kings," delivers the kind of unrelenting, chaotic bestial velocity that sits closest to war metal's founding aesthetic outside the subgenre itself
 
-Bill Ward (Black Sabbath) earns rank #8 for: hate eternal's "king of all kings" bestial assault. Derek Roddy's blast beat work with Hate Eternal, particularly on the punishingly extreme "King of All Kings," delivers the kind of unrelenting, chaotic bestial velocity that sits closest to war metal's founding aesthetic outside the subgenre itself.
+Derek Roddy (Hate Eternal / Nile) earns rank #8 for: hate eternal's "king of all kings" bestial assault. Derek Roddy's blast beat work with Hate Eternal, particularly on the punishingly extreme "King of All Kings," delivers the kind of unrelenting, chaotic bestial velocity that sits closest to war metal's founding aesthetic outside the subgenre itself.
 
-Full drummer profile: [Bill Ward on MetalForge](https://metalforge.io/drummer/bill-ward)
+Full drummer profile: [Derek Roddy on MetalForge](https://metalforge.io/drummer/derek-roddy)
 
 ### 9. Hannes Grossmann
 
@@ -150,4 +150,4 @@ A: War metal's closest analogues favor gear built for raw, punishing extremity. 
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

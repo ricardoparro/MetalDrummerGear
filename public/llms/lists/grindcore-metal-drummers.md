@@ -1,6 +1,6 @@
 # Top 10 Grindcore Metal Drummers — Complete Ranked Guide
 
-> **Last updated:** 2026-07-25 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/grindcore-metal-drummers)
+> **Last updated:** 2026-09-10 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/grindcore-metal-drummers)
 
 ---
 
@@ -14,7 +14,7 @@ The fastest grindcore drummers of all time. Pete Sandoval, Flo Mounier, Kevin Ta
 
 ## Rankings
 
-Ranked by documented performance records, genre-defining influence, and technical contribution. Top entries: Pete Sandoval, Morgan Ågren, Kevin Talley, Bill Ward, George Kollias, and more.
+Ranked by documented performance records, genre-defining influence, and technical contribution. Top entries: Pete Sandoval, Morgan Ågren, Kevin Talley, Derek Roddy, George Kollias, and more.
 
 ### 1. Pete Sandoval
 
@@ -46,15 +46,15 @@ Kevin Talley (Dying Fetus / Misery Index) earns rank #3 for: dying fetus and mis
 
 Full drummer profile: [Kevin Talley on MetalForge](https://metalforge.io/drummer/kevin-talley)
 
-### 4. Bill Ward
+### 4. Derek Roddy
 
-**Band:** Black Sabbath
+**Band:** Hate Eternal / Nile
 **Highlight:** "One Take" speed and blast beat education
 **Why ranked here:** Derek Roddy's ability to record entire drum tracks in one or two takes earned him the nickname "One Take," and his work with Hate Eternal and Nile alongside his career as a drum educator has made his extreme-speed blast beat technique required study for aspiring grindcore and death metal drummers alike
 
-Bill Ward (Black Sabbath) earns rank #4 for: "one take" speed and blast beat education. Derek Roddy's ability to record entire drum tracks in one or two takes earned him the nickname "One Take," and his work with Hate Eternal and Nile alongside his career as a drum educator has made his extreme-speed blast beat technique required study for aspiring grindcore and death metal drummers alike.
+Derek Roddy (Hate Eternal / Nile) earns rank #4 for: "one take" speed and blast beat education. Derek Roddy's ability to record entire drum tracks in one or two takes earned him the nickname "One Take," and his work with Hate Eternal and Nile alongside his career as a drum educator has made his extreme-speed blast beat technique required study for aspiring grindcore and death metal drummers alike.
 
-Full drummer profile: [Bill Ward on MetalForge](https://metalforge.io/drummer/bill-ward)
+Full drummer profile: [Derek Roddy on MetalForge](https://metalforge.io/drummer/derek-roddy)
 
 ### 5. George Kollias
 
@@ -130,7 +130,7 @@ A: George Kollias holds documented blast beat speeds exceeding 280 BPM with Nile
 A: Grindcore drumming fuses death metal's blast beats with hardcore punk's raw speed, aggression, and brevity — songs frequently run under two minutes and are built almost entirely around sustained, blur-inducing blast beat velocity rather than groove or dynamics. Where death metal drumming balances speed with technical composition, grindcore drumming strips the format down to its most extreme, high-BPM essentials, favoring relentless intensity over structural complexity. The genre emerged in the mid-1980s from bands like Napalm Death and Terrorizer fusing crust punk and death metal influences into the fastest extreme metal subgenre.
 
 **Q: What gear do grindcore drummers use?**
-A: Grindcore's extreme tempos demand lightweight, direct-drive double pedals and tightly tuned kits built for speed over resonance. Pete Sandoval's ddrum Dios kit and ddrum Mercury double pedal deliver the fast, direct response his blast beats require. Flo Mounier's Pearl Reference kit and Pearl Demon Drive double pedal, and Kevin Talley's Pearl Eliminator double pedal, follow the same pattern — responsive, low-mass hardware that lets the feet keep pace with 250+ BPM blast beats without sacrificing control.
+A: Grindcore's extreme tempos demand lightweight, direct-drive double pedals and tightly tuned kits built for speed over resonance. Pete Sandoval's ddrum Dios kit and ddrum Mercury double pedal deliver the fast, direct response his blast beats require. Flo Mounier's Tama Starclassic Maple kit and Tama Speed Cobra 910 double pedal, and Kevin Talley's Pearl Eliminator double pedal, follow the same pattern — responsive, low-mass hardware that lets the feet keep pace with 250+ BPM blast beats without sacrificing control.
 
 
 ---
@@ -150,4 +150,4 @@ A: Grindcore's extreme tempos demand lightweight, direct-drive double pedals and
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

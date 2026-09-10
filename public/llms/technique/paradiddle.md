@@ -10,6 +10,8 @@
 
 The paradiddle is a four-note sticking pattern - right, left, right, right, then left, right, left, left (RLRR LRLL) - that combines two single strokes with a double stroke on each hand. Because the pattern's accent naturally shifts to a different hand each time it repeats, it is one of the most musically useful rudiments in all of drumming: it moves fluidly around the kit, sets up natural accents, and bridges the gap between pure single-stroke and pure double-stroke vocabulary. In metal, paradiddles are the connective tissue behind countless fills, hand-to-hand tom patterns, and the linear grooves where hands and feet trade a continuous stream of notes without doubling up - the pattern's built-in accent shift is exactly what makes those linear lines sound musical instead of mechanical.
 
+**Keywords:** paradiddle, paradiddle rudiment, how to play a paradiddle, RLRR LRLL sticking, paradiddle tutorial
+
 The paradiddle is one of the oldest documented rudiments, appearing in 19th-century military drumming manuals and carried forward into the modern 40 International Drum Rudiments recognized by the Percussive Arts Society, where it sits alongside its many derivatives - the paradiddle-diddle, flam paradiddle, and inverted or "reverse" paradiddles. Drum corps and rudimental drumming programs made the paradiddle a cornerstone of stick-control training through the 20th century, valued for teaching both hands to lead comfortably and for its natural application around a full drum set rather than just a single practice pad surface. In metal, Mike Mangini (Dream Theater) uses paradiddle-based sticking as a building block for the intricate fills and odd-time patterns that define his progressive-metal vocabulary, applying the rudiment's shifting accents to phrases that would otherwise be difficult to sticking cleanly. Matt Garstka (Animals as Leaders) builds rudiment-derived linear patterns extensively into his jazz-influenced progressive metal playing, frequently splitting paradiddle-family stickings between hands and feet so no limb repeats a note in succession. Gavin Harrison (Porcupine Tree, King Crimson) applies the same rudimental sticking logic, including paradiddle-based groupings, to the displaced and polymetric grooves that define his playing.
 
 ## How to Play Paradiddle
@@ -89,4 +91,4 @@ A: Closely related techniques include Paradiddle Diddle, Rudiments, Hand Foot In
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

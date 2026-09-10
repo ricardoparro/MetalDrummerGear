@@ -1,12 +1,14 @@
 # 10 Best Post-Hardcore Metal Drummers of All Time — Complete Ranked Guide
 
-> **Last updated:** 2026-07-25 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/best-post-hardcore-metal-drummers)
+> **Last updated:** 2026-09-10 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/best-post-hardcore-metal-drummers)
 
 ---
 
 ## Overview
 
 The definitive ranking of the greatest post-hardcore metal drummers ever. From Ben Koller's chaotic mathcore fury with Converge to Blake Richardson's progressive complexity with Between the Buried and Me, these ten drummers fused hardcore punk's raw urgency with metal's technical power and compositional ambition.
+
+**Keywords:** best post-hardcore drummer, best post-hardcore metal drummers, greatest post-hardcore drummers, post-hardcore drumming, converge drummer, ben koller, blake richardson, jay weinberg, mathcore drummers
 
 ### Background
 
@@ -148,7 +150,7 @@ A: Metalcore drumming (covered in its own dedicated ranking) tends toward machin
 A: The foundational post-hardcore metal bands include Converge (whose "Jane Doe" is the genre's most influential document), Between the Buried and Me, Deftones, Glassjaw, Norma Jean, The Chariot, Every Time I Die, and Coheed and Cambria. The genre traces its roots to hardcore punk acts like Fugazi and Quicksand who began incorporating metal's technical weight in the early-to-mid 1990s. Modern post-hardcore metal continues evolving through bands like Kublai Khan TX, which fuse the genre's hardcore-punk foundations with contemporary beatdown and metalcore influences.
 
 **Q: What gear do post-hardcore metal drummers use?**
-A: Post-hardcore metal drummers favor durable, road-tested kits built to withstand the genre's chaotic, physically demanding playing style. Ben Koller plays Tama drums for their reliability under Converge's relentless touring schedule. Matt Greiner of August Burns Red uses Greiner & Kilmer custom drums paired with Meinl Byzance cymbals for technical precision and projection. Isaac Lamb favors SJC Custom Drums, a brand of choice across the modern post-hardcore and metalcore underground for its American manufacturing and tonal warmth. Across the genre, reliability under physically demanding live performance matters as much as tonal quality.
+A: Post-hardcore metal drummers favor durable, road-tested kits built to withstand the genre's chaotic, physically demanding playing style. Ben Koller plays Tama drums for their reliability under Converge's relentless touring schedule. Matt Greiner of August Burns Red uses Mapex Black Panther Design Lab drums paired with Paiste Formula 602 cymbals for technical precision and projection. Isaac Lamb favors SJC Custom Drums, a brand of choice across the modern post-hardcore and metalcore underground for its American manufacturing and tonal warmth. Across the genre, reliability under physically demanding live performance matters as much as tonal quality.
 
 
 ---
@@ -168,4 +170,4 @@ A: Post-hardcore metal drummers favor durable, road-tested kits built to withsta
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

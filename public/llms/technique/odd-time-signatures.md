@@ -10,6 +10,8 @@
 
 Odd time signatures move beyond the standard 4/4 meter that dominates rock and pop music. Playing in 7/8, 5/4, 11/8, or even more complex meters requires a different mindset and creates the distinctive "progressive" sound. From Tool's hypnotic 7/8 grooves to Dream Theater's complex meter changes, odd times are essential for progressive metal.
 
+**Keywords:** odd time signatures, prog metal drums, 7/8 time, 5/4 drumming, complex meters
+
 Odd meters entered rock through progressive bands like King Crimson, Yes, and Rush in the 1970s. Neil Peart's work with Rush brought complex meters to mainstream rock. In metal, Dream Theater (with Mike Portnoy) pushed technical boundaries in the late 1980s. Tool's Danny Carey made odd meters feel natural and groovy. Today, bands like Meshuggah, Animals as Leaders, and Periphery continue to expand rhythmic possibilities.
 
 ## How to Play Odd Time Signatures
@@ -93,4 +95,4 @@ A: Closely related techniques include Polyrhythms, Double Bass. Mastering these 
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

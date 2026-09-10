@@ -1,6 +1,6 @@
 # Top 10 Neo-Classical Metal Drummers — Complete Ranked Guide
 
-> **Last updated:** 2026-07-25 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/neo-classical-metal-drummers)
+> **Last updated:** 2026-09-10 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/neo-classical-metal-drummers)
 
 ---
 
@@ -40,9 +40,9 @@ Full drummer profile: [Jaska Raatikainen on MetalForge](https://metalforge.io/dr
 
 **Band:** Arch Enemy
 **Highlight:** Arch Enemy's neo-classical-informed melodic death metal engine
-**Why ranked here:** Daniel Erlandsson co-founded Arch Enemy in 1995 alongside guitarist Michael Amott, whose Malmsteen-influenced neo-classical lead lines define the band's sound — Erlandsson's technically precise, Scandinavian-schooled drumming gives that neo-classical guitar vocabulary its rhythmic backbone
+**Why ranked here:** Daniel Erlandsson joined Arch Enemy in 1996 alongside guitarist Michael Amott, whose Malmsteen-influenced neo-classical lead lines define the band's sound — Erlandsson's technically precise, Scandinavian-schooled drumming gives that neo-classical guitar vocabulary its rhythmic backbone
 
-Daniel Erlandsson (Arch Enemy) earns rank #3 for: arch enemy's neo-classical-informed melodic death metal engine. Daniel Erlandsson co-founded Arch Enemy in 1995 alongside guitarist Michael Amott, whose Malmsteen-influenced neo-classical lead lines define the band's sound — Erlandsson's technically precise, Scandinavian-schooled drumming gives that neo-classical guitar vocabulary its rhythmic backbone.
+Daniel Erlandsson (Arch Enemy) earns rank #3 for: arch enemy's neo-classical-informed melodic death metal engine. Daniel Erlandsson joined Arch Enemy in 1996 alongside guitarist Michael Amott, whose Malmsteen-influenced neo-classical lead lines define the band's sound — Erlandsson's technically precise, Scandinavian-schooled drumming gives that neo-classical guitar vocabulary its rhythmic backbone.
 
 Full drummer profile: [Daniel Erlandsson on MetalForge](https://metalforge.io/drummer/daniel-erlandsson)
 
@@ -128,7 +128,7 @@ A: Neo-classical metal drumming supports guitar and keyboard playing built on Ba
 A: Neo-classical metal and power metal overlap heavily but aren't identical. Power metal emphasizes anthemic melody, soaring vocals, and triumphant themes within traditional song structures. Neo-classical metal specifically foregrounds classical music theory — harmonic minor and diminished scales, Baroque-style arpeggios, symphonic orchestration — as its defining melodic and harmonic language. Angra and Children of Bodom sit at the intersection of both: power metal's anthemic scale combined with neo-classical metal's Malmsteen-derived technical vocabulary. Arch Enemy leans more purely melodic death metal but inherits neo-classical metal's guitar tradition directly through Michael Amott's playing.
 
 **Q: What gear do neo-classical metal drummers use?**
-A: Neo-classical metal drummers favor gear built for both technical precision and symphonic dynamic range. Aquiles Priester plays a Pearl Reference kit with Sabian HHX and AAX cymbals, chosen for articulate attack across rapid double bass patterns. Jaska Raatikainen used a Pearl Masters Premium Maple kit with Zildjian A Custom and K Custom cymbals throughout Children of Bodom's catalog, favoring a Pearl Eliminator double pedal for the direct-drive response demanding neo-classical double bass volleys require. Martin Axenrot's Sonor SQ2 kit with Meinl Byzance cymbals supports Opeth's wide dynamic range, from whisper-quiet acoustic passages to crushing extremity — a dynamic spread neo-classical metal's classical influences also demand.
+A: Neo-classical metal drummers favor gear built for both technical precision and symphonic dynamic range. Aquiles Priester plays a Mapex Saturn Evolution signature kit with a custom red-coated Paiste cymbal set, chosen for articulate attack across rapid double bass patterns. Jaska Raatikainen used a Pearl Masters Premium Maple kit with Zildjian A Custom and K Custom cymbals throughout Children of Bodom's catalog, favoring a Pearl Eliminator double pedal for the direct-drive response demanding neo-classical double bass volleys require. Martin Axenrot's Sonor SQ2 kit with Meinl Byzance cymbals supports Opeth's wide dynamic range, from whisper-quiet acoustic passages to crushing extremity — a dynamic spread neo-classical metal's classical influences also demand.
 
 
 ---
@@ -148,4 +148,4 @@ A: Neo-classical metal drummers favor gear built for both technical precision an
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

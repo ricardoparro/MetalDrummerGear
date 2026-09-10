@@ -10,6 +10,8 @@
 
 The double stroke roll - also called the "long roll" - alternates two controlled strokes per hand (RRLL RRLL...), with the second stroke of each pair generated from a bounce or rebound rather than a fresh muscular hit. It sits directly between the single stroke roll and the buzz roll in rudimental vocabulary: more controlled and articulate than a buzz roll's multiple uncounted bounces, but denser and faster than pure single strokes allow at a given arm speed. Because each hand only needs to initiate one motion per two notes, the double stroke roll is a foundational speed-building tool - drummers who master the bounced second stroke can sustain far higher note density with far less physical effort than those relying on individually struck notes.
 
+**Keywords:** double stroke roll, long roll drumming, double stroke rudiment, how to play a double stroke roll, RRLL sticking
+
 The double stroke roll is one of the two rudiments (alongside the single stroke roll) considered the essential root of the entire rudimental system, and it anchors the Percussive Arts Society's 40 International Drum Rudiments as the foundation for the closed roll, the buzz roll, and nearly every extended roll pattern built from it. Military and drum corps drumming refined the controlled bounce technique for sustained volume and endurance over long passages, a discipline that carried directly into concert and marching percussion training throughout the 20th century. The buzz roll itself is often described as the double stroke roll's multiple-bounce cousin - where a double stroke uses one controlled rebound per stroke, a buzz roll presses for several uncounted bounces - which is exactly why rudimental players study the double stroke first, using it to develop the rebound control the buzz roll later builds on. Mike Mangini (Dream Theater) brings his drum-corps-rooted rebound control, developed through double-stroke and related roll rudiments, directly into the fast, dense sticking of his progressive-metal fills. Gavin Harrison (Porcupine Tree, King Crimson) applies the same rudimental roll discipline underlying the double stroke roll to the dynamic control and ghost-note-dense phrasing that define his playing.
 
 ## How to Play Double Stroke Roll
@@ -86,4 +88,4 @@ A: Closely related techniques include Buzz Roll, Rudiments. Mastering these comp
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

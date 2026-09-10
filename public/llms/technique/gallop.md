@@ -10,6 +10,8 @@
 
 The gallop is a rhythmic bass drum figure built from a repeating long-short-short grouping - most often voiced as an eighth note followed by two sixteenth notes - that mimics the cadence of a galloping horse. Rather than sustaining even note values like a straight double bass pattern, the gallop's uneven subdivision creates forward-driving momentum that locks in with palm-muted guitar riffs built on the same rhythmic cell, which is why it became the signature rhythmic identity of the New Wave of British Heavy Metal. The pattern can be played entirely on a single bass drum pedal, alternated between two feet on a double pedal, or split between a foot and a hand for variety, but its defining trait is always the uneven long-short-short pulse rather than the pedal configuration used to produce it. In thrash metal, the same rhythmic cell sped up and made denser becomes the engine behind galloping palm-mute riffs and the bass drum patterns that drive them, making the gallop one of the most immediately recognizable rhythmic fingerprints in metal drumming - identifiable even without the guitars underneath it.
 
+**Keywords:** gallop rhythm, gallop drum pattern, iron maiden gallop beat, how to play a gallop, galloping bass drum technique
+
 The gallop rhythm became metal's signature triplet-adjacent groove through the New Wave of British Heavy Metal in the late 1970s and early 1980s, with Iron Maiden driving the pattern on early albums before Nicko McBrain took over the drum stool in 1982 and made the single-bass-drum gallop the band's defining rhythmic signature, powering songs like "The Trooper" and "Run to the Hills" entirely with one foot rather than a double pedal. McBrain's insistence on producing the gallop's full speed and stamina from a single bass drum, rather than splitting the workload across two feet, became a hallmark of his technique and proof that the pattern's identity lives in its uneven rhythmic cell rather than any particular footwork setup. As thrash metal emerged later in the 1980s, drummers absorbed the same long-short-short rhythmic DNA and accelerated it: Dave Lombardo (Slayer) drove galloping bass drum patterns under the genre's rapid palm-muted riffing, and Charlie Benante (Anthrax) built thrash-gallop figures into some of the style's most instantly recognizable rhythm-section moments. The pattern's reach beyond NWOBHM and thrash into nearly every subsequent metal subgenre shows how effectively its uneven subdivision locks bass drum and guitar into a single rhythmic identity.
 
 ## How to Play Gallop Rhythm
@@ -88,4 +90,4 @@ A: Closely related techniques include Double Bass, Groove Drumming. Mastering th
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

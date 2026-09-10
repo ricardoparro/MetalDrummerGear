@@ -1,12 +1,14 @@
 # Top 10 Best 90s Death Metal Drummers — Complete Ranked Guide
 
-> **Last updated:** 2026-07-25 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/best-90s-death-metal-drummers)
+> **Last updated:** 2026-09-10 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/best-90s-death-metal-drummers)
 
 ---
 
 ## Overview
 
-MetalForge's existing "90s Metal Drummers" list spans the entire genre's stylistic explosion that decade — this list narrows the lens to the single subgenre that pushed extremity furthest during it: death metal. Pete Sandoval anchors the ranking with Morbid Angel's "Covenant" (1993) and "Domination" (1995), two albums that defined death metal's peak speed and sustained brutality for the decade, while Paul Mazurkiewicz co-founded Cannibal Corpse in 1988 and drummed on every album from their 1990 debut "Eaten Back to Life" through the decade's "Tomb of the Mutilated" (1992) and "The Bleeding" (1994). Gene Hoglan's work on Death's "Human" (1991) and "Individual Thought Patterns" (1993) helped push technical death metal's musicality forward, and Richard Christy closed out the decade's most important death metal catalog on Death's final album, "The Sound of Perseverance" (1998). Flo Mounier built Cryptopsy's entire technical death metal identity on "None So Vile" (1996) and "Whisper Supremacy" (1998), while Derek Roddy cut his teeth in Malevolent Creation's 90s lineup before the technical death metal career that followed. Inferno joined Behemoth in 1997 and helped drive the band's transformation from raw black metal into sophisticated blackened death metal, Raymond Herrera's "stop-go" double bass technique defined Fear Factory's industrial death metal sound across "Soul of a New Machine" (1992) and "Demanufacture" (1995), Daniel Erlandsson co-founded melodic death metal band Arch Enemy in 1995, and Jaska Raatikainen co-founded Children of Bodom in 1993, releasing their melodic death metal debut "Something Wild" in 1997. Ranked by how central each drummer's 90s output was to death metal's development that decade.
+MetalForge's existing "90s Metal Drummers" list spans the entire genre's stylistic explosion that decade — this list narrows the lens to the single subgenre that pushed extremity furthest during it: death metal. Pete Sandoval anchors the ranking with Morbid Angel's "Covenant" (1993) and "Domination" (1995), two albums that defined death metal's peak speed and sustained brutality for the decade, while Paul Mazurkiewicz co-founded Cannibal Corpse in 1988 and drummed on every album from their 1990 debut "Eaten Back to Life" through the decade's "Tomb of the Mutilated" (1992) and "The Bleeding" (1994). Gene Hoglan's work on Death's "Human" (1991) and "Individual Thought Patterns" (1993) helped push technical death metal's musicality forward, and Richard Christy closed out the decade's most important death metal catalog on Death's final album, "The Sound of Perseverance" (1998). Flo Mounier built Cryptopsy's entire technical death metal identity on "None So Vile" (1996) and "Whisper Supremacy" (1998), while Derek Roddy cut his teeth in Malevolent Creation's 90s lineup before the technical death metal career that followed. Inferno joined Behemoth in 1997 and helped drive the band's transformation from raw black metal into sophisticated blackened death metal, Raymond Herrera's "stop-go" double bass technique defined Fear Factory's industrial death metal sound across "Soul of a New Machine" (1992) and "Demanufacture" (1995), Daniel Erlandsson joined melodic death metal band Arch Enemy in 1996, and Jaska Raatikainen co-founded Children of Bodom in 1993, releasing their melodic death metal debut "Something Wild" in 1997. Ranked by how central each drummer's 90s output was to death metal's development that decade.
+
+**Keywords:** 90s death metal drummers, best death metal drummers 1990s, classic death metal drummers, 1990s extreme metal drummers, death metal drummers ranked
 
 The best death metal drummers of the 1990s, ranked. Pete Sandoval's Morbid Angel peak, Paul Mazurkiewicz's Cannibal Corpse founding era, Gene Hoglan and Richard Christy with Death, Flo Mounier, Derek Roddy, Inferno, Raymond Herrera, Daniel Erlandsson, and Jaska Raatikainen — the drummers who defined 90s death metal.
 
@@ -99,10 +101,10 @@ Full drummer profile: [Raymond Herrera on MetalForge](https://metalforge.io/drum
 ### 9. Daniel Erlandsson
 
 **Band:** Arch Enemy
-**Highlight:** Co-founding melodic death metal with Arch Enemy in 1995
-**Why ranked here:** Daniel Erlandsson co-founded Swedish melodic death metal band Arch Enemy in 1995, combining Scandinavian death metal intensity with technical precision and musicality on the band's earliest recordings, part of the wave of Gothenburg-style melodic death metal that expanded the genre's reach during the decade. Erlandsson earns rank #9 for a founding role in one of the 90s' most enduring melodic death metal bands.
+**Highlight:** Joining melodic death metal band Arch Enemy in 1996
+**Why ranked here:** Daniel Erlandsson joined Swedish melodic death metal band Arch Enemy in 1996, combining Scandinavian death metal intensity with technical precision and musicality on the band's earliest recordings, part of the wave of Gothenburg-style melodic death metal that expanded the genre's reach during the decade. Erlandsson earns rank #9 for drumming on one of the 90s' most enduring melodic death metal bands.
 
-Daniel Erlandsson (Arch Enemy) earns rank #9 for: co-founding melodic death metal with arch enemy in 1995. Daniel Erlandsson co-founded Swedish melodic death metal band Arch Enemy in 1995, combining Scandinavian death metal intensity with technical precision and musicality on the band's earliest recordings, part of the wave of Gothenburg-style melodic death metal that expanded the genre's reach during the decade. Erlandsson earns rank #9 for a founding role in one of the 90s' most enduring melodic death metal bands..
+Daniel Erlandsson (Arch Enemy) earns rank #9 for: joining melodic death metal band arch enemy in 1996. Daniel Erlandsson joined Swedish melodic death metal band Arch Enemy in 1996, combining Scandinavian death metal intensity with technical precision and musicality on the band's earliest recordings, part of the wave of Gothenburg-style melodic death metal that expanded the genre's reach during the decade. Erlandsson earns rank #9 for drumming on one of the 90s' most enduring melodic death metal bands..
 
 Full drummer profile: [Daniel Erlandsson on MetalForge](https://metalforge.io/drummer/daniel-erlandsson)
 
@@ -150,4 +152,4 @@ A: Derek Roddy carried the technical vocabulary he built during his 90s Malevole
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

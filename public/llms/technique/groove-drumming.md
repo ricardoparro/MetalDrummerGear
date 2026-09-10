@@ -10,6 +10,8 @@
 
 Groove metal drumming prioritizes feel, pocket, and heaviness over speed or technicality. Emerging from thrash metal in the early 1990s, groove metal drumming emphasizes syncopated kick patterns, half-time feels, and the space between notes. It's about making people move, not impressing with chops.
 
+**Keywords:** groove metal drumming, pantera drums, heavy drumming, metal groove, pocket drumming
+
 Groove metal emerged in the early 1990s as bands like Pantera, Sepultura, and later Lamb of God shifted focus from thrash speed to heavy, syncopated grooves. Vinnie Paul (Pantera) is considered the godfather of groove metal drumming, with his distinctive half-time feels and powerful kick patterns. Chris Adler (Lamb of God) and Mario Duplantier (Gojira) continued to evolve the style, adding technical elements while maintaining pocket.
 
 ## How to Play Groove Metal Drumming
@@ -93,4 +95,4 @@ A: Closely related techniques include Double Bass, Odd Time Signatures. Masterin
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

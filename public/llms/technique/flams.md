@@ -10,6 +10,8 @@
 
 A flam is one of the Percussive Arts Society's 40 essential rudiments, built from a quiet grace note struck almost simultaneously with a louder main note on the opposite hand, producing a single fat, textured accent instead of two separate sounds. The grace note lands just a fraction of a second before the main stroke, wide enough to be heard as a distinct "fla-m" rather than a clean unison hit, but tight enough that the two strokes read as one event. In metal drumming, flams are the go-to tool for adding weight and emphasis to accents in fills and grooves - a flammed snare hit lands noticeably heavier than a plain single stroke, which is why the rudiment shows up constantly in tom fills, crash accents, and groove-metal snare work.
 
+**Keywords:** flams, flam rudiment, flam drumming technique, how to play a flam, drum accent technique
+
 Flams originated in military and rudimental drumming, where the technique's ability to add emphasis and texture to a single stroke made it essential vocabulary for signaling and cadence work centuries before it entered popular music. It was carried into the modern 40 International Drum Rudiments recognized by the Percussive Arts Society, alongside closely related figures like the flam tap, flamacue, and flam paradiddle, and remains one of the first accent-based rudiments taught to beginning drummers after the single and double stroke rolls. In metal, flams appear throughout groove and progressive playing as a way to add weight without extra volume - Martin Lopez (ex-Opeth, Soen) weaves flam accents through his ghost-note-dense grooves, a texture that comes directly from his jazz training, giving his playing a living, breathing quality even at driving tempos. Mike Mangini (Dream Theater) brings the same rudiment-centric, drum-corps-rooted precision to his flam-based accents that defines his broader approach to sticking.
 
 ## How to Play Flams
@@ -85,4 +87,4 @@ A: Closely related techniques include Rudiments, Ghost Notes. Mastering these co
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

@@ -10,6 +10,8 @@
 
 Rudiments are the standardized sticking patterns and combinations - single strokes, double strokes, paradiddles, flams, drags, and rolls - that form the alphabet of drumming technique. Originally codified for military and marching percussion, the 40 essential rudiments (as defined by the Percussive Arts Society) provide the vocabulary from which virtually all drum fills, patterns, and independence exercises are built. In metal drumming, rudimental control translates directly into cleaner fills, faster single-hand technique, and the stick control necessary for extreme tempos.
 
+**Keywords:** drum rudiments, stick control, rudiments for metal drummers, paradiddle tutorial, drum rudiments for beginners
+
 Rudiments date back centuries to military drumming, where standardized patterns allowed drum corps to communicate battlefield commands with precision. The rudiments were formalized in the United States by the National Association of Rudimental Drummers in the 1930s, later expanded to the 40 International Drum Rudiments recognized by the Percussive Arts Society. Drum corps and marching percussion programs became the training ground for generations of technically elite drummers. In metal, Mike Mangini (Dream Theater) brought his drum corps and rudimental background directly into progressive metal, using paradiddle-based sticking to construct intricate fills and odd-time patterns. Gavin Harrison (Porcupine Tree, King Crimson) is renowned for applying rudimental sticking concepts to displaced and polymetric grooves, while Matt Garstka (Animals as Leaders) uses rudiment-derived linear patterns extensively in his progressive, jazz-influenced metal playing. Though rudiments originated far from metal's aesthetic, their systematic approach to sticking control underlies nearly every fast, clean technical passage in modern metal drumming.
 
 ## How to Play Rudiments & Stick Control
@@ -96,4 +98,4 @@ A: Closely related techniques include Single Stroke Roll, Double Stroke Roll, Pa
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

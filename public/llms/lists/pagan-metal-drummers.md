@@ -1,6 +1,6 @@
 # Top 10 Pagan Metal Drummers — Complete Ranked Guide
 
-> **Last updated:** 2026-07-25 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/pagan-metal-drummers)
+> **Last updated:** 2026-09-10 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/pagan-metal-drummers)
 
 ---
 
@@ -60,9 +60,9 @@ Full drummer profile: [Daray on MetalForge](https://metalforge.io/drummer/daray)
 
 **Band:** Arch Enemy
 **Highlight:** Arch Enemy's Swedish melodic death metal foundation
-**Why ranked here:** Daniel Erlandsson co-founded Arch Enemy in 1995 within the same Swedish extreme metal scene that produced Amon Amarth, his technically precise melodic death metal drumming reflecting the same Scandinavian rhythmic tradition pagan metal draws its melodic backbone from
+**Why ranked here:** Daniel Erlandsson joined Arch Enemy in 1996 within the same Swedish extreme metal scene that produced Amon Amarth, his technically precise melodic death metal drumming reflecting the same Scandinavian rhythmic tradition pagan metal draws its melodic backbone from
 
-Daniel Erlandsson (Arch Enemy) earns rank #5 for: arch enemy's swedish melodic death metal foundation. Daniel Erlandsson co-founded Arch Enemy in 1995 within the same Swedish extreme metal scene that produced Amon Amarth, his technically precise melodic death metal drumming reflecting the same Scandinavian rhythmic tradition pagan metal draws its melodic backbone from.
+Daniel Erlandsson (Arch Enemy) earns rank #5 for: arch enemy's swedish melodic death metal foundation. Daniel Erlandsson joined Arch Enemy in 1996 within the same Swedish extreme metal scene that produced Amon Amarth, his technically precise melodic death metal drumming reflecting the same Scandinavian rhythmic tradition pagan metal draws its melodic backbone from.
 
 Full drummer profile: [Daniel Erlandsson on MetalForge](https://metalforge.io/drummer/daniel-erlandsson)
 
@@ -150,4 +150,4 @@ A: Enslaved is widely credited as pagan metal's Norwegian pioneer, blending Viki
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

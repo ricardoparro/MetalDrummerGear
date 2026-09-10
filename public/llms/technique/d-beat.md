@@ -10,6 +10,8 @@
 
 The D-beat is the driving, syncopated punk drumbeat named after the pioneering UK hardcore band Discharge, built around a galloping bass-and-snare pulse under a steady, often washy hi-hat or crash-ride pattern. Rhythmically it is deceptively simple compared to a blast beat or gravity blast, but its relentless forward momentum and stamina demands make it a foundational extreme-metal pattern in its own right. Since the early 1980s, the D-beat has migrated far beyond hardcore punk into crust punk, blackened crust, and D-beat-adjacent extreme metal, where it provides a driving counterpoint to blast beats and downtuned, sludge-weighted breakdowns.
 
+**Keywords:** d-beat, d-beat drumming, how to play d-beat, discharge beat, crust punk drums, d-beat tutorial
+
 Discharge's UK anarcho-punk recordings of the early 1980s codified the pattern that would carry the band's own name, and it quickly became the rhythmic backbone of the wider UK anarcho-punk scene alongside Amebix and Antisect. Sweden's Wolfpack and Skitsystem carried a faster, more distorted D-beat lineage through the 1990s, while America's Tragedy and His Hero Is Gone fused the pattern with metal-scale weight to define modern crust's template. The D-beat also crossed directly into metal through crossover thrash: Charlie Benante's Stormtroopers of Death recordings paired D-beat-adjacent hardcore urgency with thrash precision, and Dave Lombardo's punk-rooted session catalog across Fantômas, Dead Cross, and Suicidal Tendencies kept that hardcore pulse alive alongside his foundational Slayer thrash work. Igor Cavalera's raw, politically charged early Sepultura and Soulfly recordings carried a similar hardcore-informed intensity, paralleling crust's anarcho-political, DIY ethos. Today the D-beat remains one of metal's most recognizable patterns, powering everything from straightforward crust punk to blackened crust bands that alternate it with full blast-beat extremity.
 
 ## How to Play D-Beat
@@ -89,4 +91,4 @@ A: Closely related techniques include Blast Beat, Groove Drumming, Double Bass. 
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

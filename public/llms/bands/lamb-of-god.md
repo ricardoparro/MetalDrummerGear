@@ -51,6 +51,12 @@ Lamb of God, formed in 1994 in Richmond, Virginia, is one of the most influentia
 | Lamb of God | 2020 | Art Cruz | First album with Art Cruz on drums |
 | Omens | 2022 | Art Cruz |  |
 
+## Related Bands
+
+- [Gojira](https://metalforge.io/bands/gojira)
+- [Mastodon](https://metalforge.io/bands/mastodon)
+- [Pantera](https://metalforge.io/bands/pantera)
+
 ## FAQ
 
 **Q: Who is the drummer for Lamb of God?**
@@ -78,4 +84,4 @@ A: Yes — the band formed in Richmond, Virginia in 1994 as Burn the Priest, rel
 
 **More resources:** [All bands](https://metalforge.io/llms/bands.md) · [Site index](https://metalforge.io/llms.txt)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

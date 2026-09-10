@@ -58,6 +58,11 @@ Sepultura formed 1984, Brazilian thrash pioneers, disbanded 2024.
 | Machine Messiah | 2017 | Eloy Casagrande |  |
 | Quadra | 2020 | Eloy Casagrande |  |
 
+## Related Bands
+
+- [Cavalera Conspiracy](https://metalforge.io/bands/cavalera-conspiracy)
+- [Slipknot](https://metalforge.io/bands/slipknot)
+
 ## FAQ
 
 **Q: Who is the drummer for Sepultura?**
@@ -93,4 +98,4 @@ A: Jean Dolabella replaced founding drummer Igor Cavalera in 2006. Dolabella rec
 
 **More resources:** [All bands](https://metalforge.io/llms/bands.md) · [Site index](https://metalforge.io/llms.txt)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

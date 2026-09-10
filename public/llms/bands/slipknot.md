@@ -68,6 +68,11 @@ Joey Jordison is widely regarded as one of the most influential metal drummers o
 | We Are Not Your Kind | 2019 | Jay Weinberg |  |
 | The End, So Far | 2022 | Jay Weinberg | Weinberg's final studio album with the band before his November 2023 departure. Most recent Slipknot studio album as of this writing; Eloy Casagrande has not yet recorded on a studio album. |
 
+## Related Bands
+
+- [Murderdolls](https://metalforge.io/bands/murderdolls)
+- [Sepultura](https://metalforge.io/bands/sepultura)
+
 ## FAQ
 
 **Q: Who is the drummer for Slipknot?**
@@ -97,4 +102,4 @@ A: Founding bassist Paul Gray died on May 24, 2010; his cause of death was confi
 
 **More resources:** [All bands](https://metalforge.io/llms/bands.md) · [Site index](https://metalforge.io/llms.txt)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

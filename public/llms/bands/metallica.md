@@ -51,6 +51,12 @@ Metallica, formed in 1981 in Los Angeles, is one of the most influential thrash 
 | Hardwired... to Self-Destruct | 2016 | Lars Ulrich |  |
 | 72 Seasons | 2023 | Lars Ulrich |  |
 
+## Related Bands
+
+- [Slayer](https://metalforge.io/bands/slayer)
+- [Megadeth](https://metalforge.io/bands/megadeth)
+- [Anthrax](https://metalforge.io/bands/anthrax)
+
 ## FAQ
 
 **Q: Who is the drummer for Metallica?**
@@ -80,4 +86,4 @@ A: James Hetfield and Lars Ulrich founded Metallica in Los Angeles in 1981; the 
 
 **More resources:** [All bands](https://metalforge.io/llms/bands.md) · [Site index](https://metalforge.io/llms.txt)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

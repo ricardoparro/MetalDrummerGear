@@ -55,6 +55,11 @@ Matt Garstka's drumming is frequently held up as a model for modern progressive 
 | The Madness of Many | 2016 | Matt Garstka |  |
 | Parrhesia | 2022 | Matt Garstka |  |
 
+## Related Bands
+
+- [Periphery](https://metalforge.io/bands/periphery)
+- [Meshuggah](https://metalforge.io/bands/meshuggah)
+
 ## FAQ
 
 **Q: Who is the drummer for Animals as Leaders?**
@@ -78,4 +83,4 @@ A: No, Animals as Leaders is an instrumental progressive metal / djent band with
 
 **More resources:** [All bands](https://metalforge.io/llms/bands.md) · [Site index](https://metalforge.io/llms.txt)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

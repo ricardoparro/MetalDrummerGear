@@ -48,6 +48,11 @@ Hellyeah, formed in 2006, was a groove metal supergroup featuring Pantera's Vinn
 | Unden!able | 2016 | Vinnie Paul |  |
 | Welcome Home | 2019 | Vinnie Paul | Vinnie Paul recorded drum tracks for 9 of 10 songs before his June 2018 death; the tenth track, 'Skyy and Water,' is drumless. Roy Mayorga later toured behind this album but did not record on it. |
 
+## Related Bands
+
+- [Pantera](https://metalforge.io/bands/pantera)
+- [Damageplan](https://metalforge.io/bands/damageplan)
+
 ## FAQ
 
 **Q: Who is the drummer for Hellyeah?**
@@ -77,4 +82,4 @@ A: Hellyeah was founded in 2006 by drummer Vinnie Paul (Pantera, Damageplan), vo
 
 **More resources:** [All bands](https://metalforge.io/llms/bands.md) · [Site index](https://metalforge.io/llms.txt)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

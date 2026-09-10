@@ -34,6 +34,10 @@ Volto!, formed in Los Angeles in the early 2000s, is an instrumental progressive
 |---|---|---|---|
 | Incitare | 2013 | Danny Carey | Volto!'s only studio album to date; recorded live in Carey's home studio |
 
+## Related Bands
+
+- [Tool](https://metalforge.io/bands/tool)
+
 ## FAQ
 
 **Q: Who is the drummer for Volto!?**
@@ -61,4 +65,4 @@ A: Volto! is classified as a rock jam band spanning rock, jazz fusion, jam band,
 
 **More resources:** [All bands](https://metalforge.io/llms/bands.md) · [Site index](https://metalforge.io/llms.txt)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

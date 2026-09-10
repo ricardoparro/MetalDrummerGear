@@ -58,6 +58,10 @@ Amon Amarth, formed in 1992 in Tumba, Sweden, is one of the most successful melo
 | Berserker | 2019 | Jocke Wallgren |  |
 | The Great Heathen Army | 2022 | Jocke Wallgren |  |
 
+## Related Bands
+
+- [Opeth](https://metalforge.io/bands/opeth)
+
 ## FAQ
 
 **Q: Who is the drummer for Amon Amarth?**
@@ -87,4 +91,4 @@ A: Melodic death metal, popularly labeled Viking metal for the band's Norse-myth
 
 **More resources:** [All bands](https://metalforge.io/llms/bands.md) · [Site index](https://metalforge.io/llms.txt)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

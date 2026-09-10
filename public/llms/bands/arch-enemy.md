@@ -55,6 +55,11 @@ Arch Enemy, formed in 1995 in Halmstad, Sweden, is a leading melodic death metal
 | Deceivers | 2022 | Daniel Erlandsson |  |
 | Blood Dynasty | 2025 | Daniel Erlandsson |  |
 
+## Related Bands
+
+- [Opeth](https://metalforge.io/bands/opeth)
+- [At the Gates](https://metalforge.io/bands/at-the-gates)
+
 ## FAQ
 
 **Q: Who is the drummer for Arch Enemy?**
@@ -84,4 +89,4 @@ A: Guitarist Michael Amott (ex-Carcass) and vocalist Johan Liiva founded the ban
 
 **More resources:** [All bands](https://metalforge.io/llms/bands.md) · [Site index](https://metalforge.io/llms.txt)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

@@ -39,6 +39,10 @@ Murderdolls, formed in 2002 in Hollywood, California, is a horror punk project c
 | Beyond the Valley of the Murderdolls | 2002 | Joey Jordison | Jordison played drums (plus guitar, bass, keyboards) in the studio; touring drummer Ben Graves appeared on the album artwork/lineup but did not perform on the recording |
 | Women and Children Last | 2010 | Joey Jordison | Jordison recorded the studio drum tracks; touring drummer Racci Shay handled live performances for this album cycle but did not record on it |
 
+## Related Bands
+
+- [Slipknot](https://metalforge.io/bands/slipknot)
+
 ## FAQ
 
 **Q: Who is the drummer for Murderdolls?**
@@ -68,4 +72,4 @@ A: Two studio albums: Beyond the Valley of the Murderdolls (2002) and Women and 
 
 **More resources:** [All bands](https://metalforge.io/llms/bands.md) · [Site index](https://metalforge.io/llms.txt)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

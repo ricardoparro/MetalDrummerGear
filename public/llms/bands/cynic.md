@@ -44,6 +44,11 @@ Cynic, formed in 1987 in Miami, Florida, fused technical death metal with jazz f
 | Kindly Bent to Free Us | 2014 | Sean Reinert |  |
 | Ascension Codes | 2021 | Matt Lynch |  |
 
+## Related Bands
+
+- [Death](https://metalforge.io/bands/death)
+- [Morbid Angel](https://metalforge.io/bands/morbid-angel)
+
 ## FAQ
 
 **Q: Who is the drummer for Cynic?**
@@ -72,4 +77,4 @@ A: Matt Lynch, formerly of Trioscapes, first filled in for Cynic in October 2015
 
 **More resources:** [All bands](https://metalforge.io/llms/bands.md) · [Site index](https://metalforge.io/llms.txt)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

@@ -53,6 +53,12 @@ Nile, formed in 1993, combines technical death metal with ancient Egyptian theme
 | Vile Nilotic Rites | 2019 | George Kollias |  |
 | The Underworld Awaits Us All | 2024 | George Kollias |  |
 
+## Related Bands
+
+- [Behemoth](https://metalforge.io/bands/behemoth)
+- [Cannibal Corpse](https://metalforge.io/bands/cannibal-corpse)
+- [Morbid Angel](https://metalforge.io/bands/morbid-angel)
+
 ## FAQ
 
 **Q: Who is the drummer for Nile?**
@@ -80,4 +86,4 @@ A: Nile is known for technical and brutal death metal steeped in ancient Egyptia
 
 **More resources:** [All bands](https://metalforge.io/llms/bands.md) · [Site index](https://metalforge.io/llms.txt)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

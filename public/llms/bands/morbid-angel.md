@@ -55,6 +55,13 @@ Morbid Angel, formed in 1983 in Tampa, Florida, is one of the founding bands of 
 | Illud Divinum Insanus | 2011 | Tim Yeung | Sandoval was recovering from back surgery; Yeung recorded all drums |
 | Kingdoms Disdained | 2017 | Scott Fuller | Return to traditional death metal sound |
 
+## Related Bands
+
+- [Death](https://metalforge.io/bands/death)
+- [Nile](https://metalforge.io/bands/nile)
+- [Cannibal Corpse](https://metalforge.io/bands/cannibal-corpse)
+- [Vader](https://metalforge.io/bands/vader)
+
 ## FAQ
 
 **Q: Who is the drummer for Morbid Angel?**
@@ -84,4 +91,4 @@ A: Mike Browning, who co-founded the band with guitarist Trey Azagthoth in 1983,
 
 **More resources:** [All bands](https://metalforge.io/llms/bands.md) · [Site index](https://metalforge.io/llms.txt)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

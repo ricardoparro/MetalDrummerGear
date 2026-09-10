@@ -57,6 +57,10 @@ Cannibal Corpse, formed in 1988, is one of the best-selling and most influential
 | Violence Unimagined | 2021 | Paul Mazurkiewicz |  |
 | Chaos Horrific | 2023 | Paul Mazurkiewicz |  |
 
+## Related Bands
+
+- [Morbid Angel](https://metalforge.io/bands/morbid-angel)
+
 ## FAQ
 
 **Q: Who is the drummer for Cannibal Corpse?**
@@ -83,4 +87,4 @@ A: Cannibal Corpse formed in Buffalo, New York in December 1988 when members of 
 
 **More resources:** [All bands](https://metalforge.io/llms/bands.md) · [Site index](https://metalforge.io/llms.txt)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

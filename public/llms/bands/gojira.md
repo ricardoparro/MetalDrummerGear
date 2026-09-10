@@ -44,6 +44,14 @@ Gojira is a French progressive/technical death metal band formed in 1996 in Bayo
 | Magma | 2016 | Mario Duplantier |  |
 | Fortitude | 2021 | Mario Duplantier |  |
 
+## Related Bands
+
+- [Mastodon](https://metalforge.io/bands/mastodon)
+- [Opeth](https://metalforge.io/bands/opeth)
+- [Meshuggah](https://metalforge.io/bands/meshuggah)
+- [Lamb of God](https://metalforge.io/bands/lamb-of-god)
+- [Periphery](https://metalforge.io/bands/periphery)
+
 ## FAQ
 
 **Q: Who is the drummer for Gojira?**
@@ -83,4 +91,4 @@ A: The current four-piece lineup (Joe Duplantier, Mario Duplantier, Christian An
 
 **More resources:** [All bands](https://metalforge.io/llms/bands.md) · [Site index](https://metalforge.io/llms.txt)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

@@ -60,6 +60,10 @@ Dream Theater, formed in 1985, defined progressive metal with virtuosic musician
 | A View from the Top of the World | 2021 | Mike Mangini | Mangini's final album before Portnoy's return |
 | Parasomnia | 2025 | Mike Portnoy | First album with Portnoy since his 2023 return |
 
+## Related Bands
+
+- [Sons of Apollo](https://metalforge.io/bands/sons-of-apollo)
+
 ## FAQ
 
 **Q: Who is the drummer for Dream Theater?**
@@ -88,4 +92,4 @@ A: The band formed in 1985 at Berklee College of Music under the name Majesty, c
 
 **More resources:** [All bands](https://metalforge.io/llms/bands.md) · [Site index](https://metalforge.io/llms.txt)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

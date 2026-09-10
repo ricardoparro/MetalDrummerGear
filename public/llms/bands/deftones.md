@@ -53,6 +53,10 @@ Deftones, formed in 1988 in Sacramento, blend heavy music with atmospheric, shoe
 | Ohms | 2020 | Abe Cunningham |  |
 | Private Music | 2025 | Abe Cunningham | First album featuring Fred Sablan on bass |
 
+## Related Bands
+
+- [Korn](https://metalforge.io/bands/korn)
+
 ## FAQ
 
 **Q: Who is the drummer for Deftones?**
@@ -80,4 +84,4 @@ A: Fred Sablan has served as Deftones' touring bassist since 2022, following Ser
 
 **More resources:** [All bands](https://metalforge.io/llms/bands.md) · [Site index](https://metalforge.io/llms.txt)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

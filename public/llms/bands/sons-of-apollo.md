@@ -36,6 +36,10 @@ Sons of Apollo, formed in 2017, is a progressive metal supergroup featuring Drea
 | Psychotic Symphony | 2017 | Mike Portnoy | Debut album |
 | MMXX | 2020 | Mike Portnoy | Later confirmed by Derek Sherinian as the band's final album |
 
+## Related Bands
+
+- [Dream Theater](https://metalforge.io/bands/dream-theater)
+
 ## FAQ
 
 **Q: Who is the drummer for Sons of Apollo?**
@@ -64,4 +68,4 @@ A: Two studio albums: Psychotic Symphony (2017) and MMXX (2020).
 
 **More resources:** [All bands](https://metalforge.io/llms/bands.md) · [Site index](https://metalforge.io/llms.txt)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

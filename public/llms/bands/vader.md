@@ -65,6 +65,11 @@ Vader, formed in 1983 in Olsztyn, Poland, is one of the longest-running and most
 | The Empire | 2016 | James Stewart |  |
 | Solitude in Madness | 2020 | James Stewart |  |
 
+## Related Bands
+
+- [Behemoth](https://metalforge.io/bands/behemoth)
+- [Morbid Angel](https://metalforge.io/bands/morbid-angel)
+
 ## FAQ
 
 **Q: Who is the drummer for Vader?**
@@ -94,4 +99,4 @@ A: No — founder Piotr 'Peter' Wiwczarek is the band's only constant member sin
 
 **More resources:** [All bands](https://metalforge.io/llms/bands.md) · [Site index](https://metalforge.io/llms.txt)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

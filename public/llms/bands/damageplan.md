@@ -35,6 +35,11 @@ Damageplan, formed in 2003 by brothers Vinnie Paul and Dimebag Darrell Abbott af
 |---|---|---|---|
 | New Found Power | 2004 | Vinnie Paul | Damageplan's only studio album, released Feb 10, 2004; features guest appearances from Corey Taylor, Jerry Cantrell, and Zakk Wylde |
 
+## Related Bands
+
+- [Pantera](https://metalforge.io/bands/pantera)
+- [Hellyeah](https://metalforge.io/bands/hellyeah)
+
 ## FAQ
 
 **Q: Who is the drummer for Damageplan?**
@@ -62,4 +67,4 @@ A: Not officially — Damageplan was formed by brothers Vinnie Paul and Dimebag 
 
 **More resources:** [All bands](https://metalforge.io/llms/bands.md) · [Site index](https://metalforge.io/llms.txt)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

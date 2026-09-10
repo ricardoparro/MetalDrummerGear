@@ -94,6 +94,10 @@ The revolving cast of respected metal and hardcore drummers who have passed thro
 | 13 | 2013 | Eric Moore |  |
 | World Gone Mad | 2016 | Dave Lombardo |  |
 
+## Related Bands
+
+- [Slayer](https://metalforge.io/bands/slayer)
+
 ## FAQ
 
 **Q: Who is the drummer for Suicidal Tendencies?**
@@ -123,4 +127,4 @@ A: R.J. Herrera drummed on Join the Army (1987), How Will I Laugh Tomorrow When 
 
 **More resources:** [All bands](https://metalforge.io/llms/bands.md) · [Site index](https://metalforge.io/llms.txt)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

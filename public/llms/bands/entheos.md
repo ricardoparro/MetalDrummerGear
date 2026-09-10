@@ -43,6 +43,10 @@ Entheos, formed in 2015 in Santa Cruz, California, is an American progressive/te
 | Dark Future | 2017 | Navene Koperweis |  |
 | Time Will Take Us All | 2023 | Navene Koperweis | First release on Metal Blade Records |
 
+## Related Bands
+
+- [Animals as Leaders](https://metalforge.io/bands/animals-as-leaders)
+
 ## FAQ
 
 **Q: Who is the drummer for Entheos?**
@@ -73,4 +77,4 @@ A: Before Entheos, he drummed for Animals as Leaders (2012-2014) and Animosity, 
 
 **More resources:** [All bands](https://metalforge.io/llms/bands.md) · [Site index](https://metalforge.io/llms.txt)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

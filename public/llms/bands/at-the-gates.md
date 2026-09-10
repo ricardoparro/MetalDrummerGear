@@ -47,6 +47,10 @@ At the Gates, formed in 1990 in Gothenburg, Sweden, pioneered the melodic death 
 | The Nightmare of Being | 2021 | Adrian Erlandsson |  |
 | The Ghost of a Future Dead | 2026 | Adrian Erlandsson | Built around vocals Tomas Lindberg recorded shortly before his September 2025 death; widely regarded by press as the band's final album |
 
+## Related Bands
+
+- [Arch Enemy](https://metalforge.io/bands/arch-enemy)
+
 ## FAQ
 
 **Q: Who is the drummer for At the Gates?**
@@ -76,4 +80,4 @@ A: No. Erlandsson is the only drummer credited on any At the Gates studio album,
 
 **More resources:** [All bands](https://metalforge.io/llms/bands.md) · [Site index](https://metalforge.io/llms.txt)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

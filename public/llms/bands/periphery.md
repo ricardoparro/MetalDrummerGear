@@ -51,6 +51,11 @@ Periphery, formed in 2005 in the Washington D.C. area, helped pioneer the djent 
 | Periphery IV: Hail Stan | 2019 | Matt Halpern |  |
 | Periphery V: Djent Is Not a Genre | 2023 | Matt Halpern |  |
 
+## Related Bands
+
+- [Meshuggah](https://metalforge.io/bands/meshuggah)
+- [Animals as Leaders](https://metalforge.io/bands/animals-as-leaders)
+
 ## FAQ
 
 **Q: Who is the drummer for Periphery?**
@@ -78,4 +83,4 @@ A: Djent is an onomatopoeic term for the palm-muted, distorted guitar sound popu
 
 **More resources:** [All bands](https://metalforge.io/llms/bands.md) · [Site index](https://metalforge.io/llms.txt)
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

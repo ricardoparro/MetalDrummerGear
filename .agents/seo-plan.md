@@ -8310,3 +8310,35 @@ Also checked Mikkey Dee (re-confirmed clean, no new issue) and Gene Hoglan (ambi
 3. `gearPriceHistory.js` per-drummer audit remains productive — roughly 17 of ~70+ drummers checked across all runs to date. Good candidate for continued incremental passes; each entry needs real per-drummer cross-checking against `endorsementNews.js`, not a mechanical find-replace.
 4. Gene Hoglan's 1993 setup (Pearl snare, DW pedal, "Zildjian A Series" vs. verified 1991 A Custom upgrade) flagged but not filed — too ambiguous against the available granular timeline entries; worth revisiting only if a stronger source surfaces.
 5. GSC content-gap queries unchanged/held — no re-litigation needed until a fresh query enters the ≥50-impr/CTR<2% bucket.
+
+---
+
+## 2026-09-10 (run ~16:44 UTC) — 8 proposals filed (#7290-7297): gearPriceHistory.js audit continuation, prioritized by traffic
+
+### Bank check
+Open `seo-proposal` at run start: 10 total, true untriaged (excl. 3 standing umbrellas #2211/#3810/#3819) = **0** — all 6 non-umbrella issues (#7266, #7275-7280) already carry the `ai-fix` label. Well under 45 → cleared to file up to 8 net-new. Metrics 16:44 UTC (320 users/354 sessions/612 views 7d; GSC 9,654 impr/209 clicks/2.16% CTR/pos 8.2). robots.txt: ✅ 8/8 AI crawlers explicitly allowed (`api/robots.js`). Content-gap queries (`flo mounier` 99 impr/1.01% CTR/pos 7.2, `joey jordison drum set` 101 impr/0.99% CTR/pos 11.3) both re-confirmed the extensively-documented class-2 bare-name/oscillator pattern — held, no new CTR fix. Today is Thursday — drum-chair watch not due (next due Monday 2026-09-14). Generator-gap vein confirmed still exhausted per the 12:00 UTC run (all 41 `generate-llms-*.cjs` files audited) — not re-swept.
+
+### This run's work
+Dispatched 2 parallel research agents to continue the `gearPriceHistory.js` per-drummer fabrication audit into 27 previously-unchecked drummers (13 + 14, split across two batches), cross-checking each against `endorsementNews.js` (and `albumArticles/*.js` where relevant) for brand/model/year contradictions. Surfaced 14 confirmed candidates across 12 drummers (7 clean in batch A: lars-ulrich, joey-jordison, mike-portnoy, pete-sandoval, nicko-mcbrain, matt-greiner, ray-luzier; 8 clean in batch B: matt-garstka, bill-ward, john-otto, scott-travis, mike-mangini, jason-bittner, kevin-talley, tim-yeung — plus 1 low-confidence gavin-harrison lead not independently confirmed, held for a future pass). Personally re-verified all 8 filed candidates via direct `sed`/grep against both `gearPriceHistory.js` and `endorsementNews.js` before filing — picked the 8 strongest/highest-confidence of the 12 flagged drummers, prioritizing traffic (mario-duplantier is this week's #1 GA4 page; jay-weinberg is top-10) and combining same-drummer multi-field errors into one issue each (paul-mazurkiewicz, flo-mounier).
+
+**Held back for a future pass** (confirmed by the research agent but not personally re-verified/filed this run, to stay within the 8-cap): dave-lombardo (Paiste RUDE dated 1986 vs. verified 2000s), danny-carey (1994 Pearl/Zildjian vs. verified Sonor/Paiste per `albumArticles/danny-carey.js`), igor-cavalera (Sepultura departure dated 1996 vs. verified 2006), ben-koller (Starclassic switch dated 2009 vs. verified 2004; cymbal "expansion" dated 2017 vs. verified 2004). Also gavin-harrison's flagged Protean snare date — needs independent verification first.
+
+### Proposals filed this run (8)
+1. #7290 — SEO: Mario Duplantier gearPriceHistory.js fabricates a 2005 Gretsch + 2012 Meinl era — verified brand is Tama since 2010, Zildjian cymbals throughout (site's #1 GA4 page this week)
+2. #7291 — SEO: Jay Weinberg gearPriceHistory.js fabricates a 2014 Pearl Reference Pure kit — verified brand is SJC Custom Drums since day one (sibling file to already-fixed #7205)
+3. #7292 — SEO: Eloy Casagrande gearPriceHistory.js fabricates a 2017 Mapex kit — verified brand is Tama continuously since the 2010s
+4. #7293 — SEO: Alex Bent gearPriceHistory.js fabricates a Pearl/Meinl rig for Trivium — verified brand is Tama Starclassic Maple/Zildjian since 2016
+5. #7294 — SEO: Martin Axenrot gearPriceHistory.js fabricates 2008 Vic Firth/Remo — verified brand is Pro-Mark/Evans since 2006
+6. #7295 — SEO: Matt Halpern gearPriceHistory.js fabricates a Mapex Saturn era + wrong 2019 Pearl switch year — verified brand is Pearl since 2015
+7. #7296 — SEO: Paul Mazurkiewicz gearPriceHistory.js fabricates Sabian cymbals (1992) + wrong 2006 Pearl Reference date — verified Meinl (1990) and Pearl Reference (1996)
+8. #7297 — SEO: Flo Mounier gearPriceHistory.js fabricates a 2005 Sonor + 2008 Tama Bubinga era — verified is 2005 Yamaha, 2012 Tama Starclassic Maple
+
+### Open proposals waiting on CEO triage
+- #7290-7297 (this run, 8 fresh)
+- #3810/#3819/#2211 (standing umbrellas)
+
+### Next run
+1. Watch #7290-7297 through CEO triage.
+2. `gearPriceHistory.js` per-drummer audit remains productive — roughly 27 of 71 drummers now checked across all runs to date (up from ~17). 4 queued candidates ready for next pass without re-research: dave-lombardo, danny-carey, igor-cavalera, ben-koller (all pre-verified by this run's research agents, just need my own direct-grep re-confirmation before filing).
+3. gavin-harrison's Protean snare date lead remains unconfirmed — worth a dedicated check if the queued-4 vein runs dry first.
+4. GSC content-gap queries unchanged/held — no re-litigation needed until a fresh query enters the ≥50-impr/CTR<2% bucket.

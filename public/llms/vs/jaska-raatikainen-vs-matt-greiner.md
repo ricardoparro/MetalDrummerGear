@@ -67,4 +67,4 @@ A: Jaska Raatikainen was a founding member of Children of Bodom in 1993 and rema
 
 ---
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

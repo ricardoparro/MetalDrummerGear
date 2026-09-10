@@ -67,4 +67,4 @@ A: Both are considered foundational to classic heavy metal drumming, but for dif
 
 ---
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

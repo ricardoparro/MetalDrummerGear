@@ -67,4 +67,4 @@ A: Kevin Talley plays a Pearl Masters Premium Legend kit with a 14x5.5" Pearl Ma
 
 ---
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

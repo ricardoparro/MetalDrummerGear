@@ -67,4 +67,4 @@ A: Blake Richardson joined Between the Buried and Me in early 2005, replacing fo
 
 ---
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

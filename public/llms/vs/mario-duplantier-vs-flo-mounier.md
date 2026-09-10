@@ -67,4 +67,4 @@ A: Flo Mounier is widely credited as one of the drummers most responsible for po
 
 ---
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

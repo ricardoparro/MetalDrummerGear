@@ -67,4 +67,4 @@ A: Abe Cunningham has been the founding and only drummer for Deftones since 1988
 
 ---
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

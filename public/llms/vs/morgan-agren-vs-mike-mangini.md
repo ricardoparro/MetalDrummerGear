@@ -34,7 +34,7 @@ Morgan Ågren co-founded the Mats/Morgan Band with keyboardist Mats Öberg in 19
 
 ## Key Differences
 
-Morgan Ågren plays a Sonor SQ2 Designer Series kit with a Sonor Designer 14x5.5" maple snare and Paiste Signature & 2002 Series cymbals (14" Signature Heavy Hi-Hats, 18" & 20" Signature Fast Crashes, 22" Signature Dry Heavy Ride, 18" 2002 China), powered by a Sonor Giant Step double pedal and Vic Firth American Classic 5A sticks. Mike Mangini plays a Pearl Reference Series kit with 14x5" and 14x6.5" Pearl Reference brass snares and Sabian HHX & AAX Series cymbals (14" HHX Evolution Hi-Hats, 17", 18", and 19" HHX Evolution Crashes, 21" HHX Raw Bell Dry Ride), integrating a Roland SPD-SX sampling pad and Pearl Demon Drive double pedals, with his own Vic Firth Mike Mangini Signature sticks. Ågren's technique centers on extreme four-limb independence, most famously his four-over-three polyrhythm — four evenly spaced strokes in the hands against three in the feet — layered with a jazz-fusion foundation that prioritizes dynamic range and odd-time-signature fluency over sheer velocity. Mangini's technique is built around documented speed, holding multiple world records for drumming velocity, and applying that speed to Dream Theater's dense odd time signatures, complex polyrhythms, and hybrid acoustic-electronic setups incorporating sampling and triggered percussion.
+Morgan Ågren plays a Sonor SQ2 Designer Series kit with a Sonor Designer 14x5.5" maple snare and Paiste Signature & 2002 Series cymbals (14" Signature Heavy Hi-Hats, 18" & 20" Signature Fast Crashes, 22" Signature Dry Heavy Ride, 18" 2002 China), powered by a Sonor Giant Step double pedal and Vic Firth American Classic 5A sticks. Mike Mangini plays a Pearl Reference Series kit with 14x5" and 14x6.5" Pearl Reference brass snares and Sabian HHX & AAX Series cymbals (14" HHX Evolution Hi-Hats, 17", 18", and 19" HHX Evolution Crashes, 21" HHX Raw Bell Dry Ride), integrating a Roland SPD-SX sampling pad and Pearl Demon Drive double pedals, with his own Vater Mike Mangini Wicked Piston (VHMMWP) sticks. Ågren's technique centers on extreme four-limb independence, most famously his four-over-three polyrhythm — four evenly spaced strokes in the hands against three in the feet — layered with a jazz-fusion foundation that prioritizes dynamic range and odd-time-signature fluency over sheer velocity. Mangini's technique is built around documented speed, holding multiple world records for drumming velocity, and applying that speed to Dream Theater's dense odd time signatures, complex polyrhythms, and hybrid acoustic-electronic setups incorporating sampling and triggered percussion.
 
 ## Influence & Legacy
 
@@ -67,4 +67,4 @@ A: No — Mike Mangini drummed for Dream Theater from 2010 to 2023, when the ban
 
 ---
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

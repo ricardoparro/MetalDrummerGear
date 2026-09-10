@@ -67,4 +67,4 @@ A: Ray Luzier plays a Pearl Reference Maple kit with a Pearl Reference Brass sna
 
 ---
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

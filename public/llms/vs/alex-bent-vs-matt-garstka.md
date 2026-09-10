@@ -67,4 +67,4 @@ A: Alex Bent plays a TAMA Starclassic Maple kit with a TAMA Starclassic Maple 14
 
 ---
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

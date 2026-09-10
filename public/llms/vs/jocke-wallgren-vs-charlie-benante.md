@@ -67,4 +67,4 @@ A: Beyond his drum work on all 11 Anthrax studio albums, Charlie Benante is Anth
 
 ---
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

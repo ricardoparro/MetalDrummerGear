@@ -67,4 +67,4 @@ A: Arin Ilejay held Avenged Sevenfold's drum chair for about four years (2011-20
 
 ---
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

@@ -67,4 +67,4 @@ A: Jaska Raatikainen was the co-founding drummer of Finnish melodic death metal 
 
 ---
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

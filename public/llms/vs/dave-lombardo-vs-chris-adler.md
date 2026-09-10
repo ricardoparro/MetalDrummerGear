@@ -67,4 +67,4 @@ A: No direct collaboration exists between the two, though both drummers moved in
 
 ---
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

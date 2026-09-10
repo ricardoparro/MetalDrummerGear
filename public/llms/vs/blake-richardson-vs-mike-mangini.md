@@ -67,4 +67,4 @@ A: Blake Richardson's most celebrated work is on Between the Buried and Me's "Co
 
 ---
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

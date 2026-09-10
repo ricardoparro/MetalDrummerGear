@@ -67,4 +67,4 @@ A: Yes — Martin Lopez appeared on Morbid Angel's "Heretic" (2003) as a session
 
 ---
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

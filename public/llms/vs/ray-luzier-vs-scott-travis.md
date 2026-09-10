@@ -70,4 +70,4 @@ A: Ray Luzier has been Korn's drummer since 2007 (nearly two decades as of 2026)
 
 ---
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

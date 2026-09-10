@@ -67,4 +67,4 @@ A: Jaska Raatikainen recorded every Children of Bodom studio album as the band's
 
 ---
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

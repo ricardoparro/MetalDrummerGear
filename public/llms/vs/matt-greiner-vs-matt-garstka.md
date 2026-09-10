@@ -67,4 +67,4 @@ A: Matt Greiner co-founded and has drummed for metalcore band August Burns Red s
 
 ---
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

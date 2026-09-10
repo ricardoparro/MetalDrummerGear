@@ -67,4 +67,4 @@ A: Both are melodic death metal, but from different national scenes — Arch Ene
 
 ---
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

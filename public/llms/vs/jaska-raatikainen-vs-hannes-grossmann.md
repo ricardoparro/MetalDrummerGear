@@ -67,4 +67,4 @@ A: Hannes Grossmann plays with an open-handed setup and is known for clean, arti
 
 ---
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

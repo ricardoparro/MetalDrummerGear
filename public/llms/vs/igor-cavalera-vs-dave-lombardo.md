@@ -67,4 +67,4 @@ A: The two converged on remarkably similar rigs from 2007-2018: Igor Cavalera us
 
 ---
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

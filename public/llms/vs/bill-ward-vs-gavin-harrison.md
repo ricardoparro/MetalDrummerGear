@@ -67,4 +67,4 @@ A: Yes — Gavin Harrison has won multiple Modern Drummer Reader Poll awards and
 
 ---
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

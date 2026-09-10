@@ -67,4 +67,4 @@ A: Gavin Harrison built his reputation first as an in-demand session and touring
 
 ---
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

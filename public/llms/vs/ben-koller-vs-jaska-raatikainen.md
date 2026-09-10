@@ -67,4 +67,4 @@ A: "Something Wild" (1997) was Children of Bodom's debut album and Jaska Raatika
 
 ---
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

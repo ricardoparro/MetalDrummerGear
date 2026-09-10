@@ -67,4 +67,4 @@ A: Isaac Lamb uses Not publicly documented. John Otto uses Zildjian (13" A Custo
 
 ---
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

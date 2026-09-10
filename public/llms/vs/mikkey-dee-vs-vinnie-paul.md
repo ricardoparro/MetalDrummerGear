@@ -67,4 +67,4 @@ A: Mikkey Dee played with King Diamond (1985–1989) and Motörhead (1992–2015
 
 ---
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

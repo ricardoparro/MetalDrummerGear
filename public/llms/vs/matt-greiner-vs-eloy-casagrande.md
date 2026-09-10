@@ -67,4 +67,4 @@ A: Yes — Matt Greiner has his own signature Pearl 14x6" Steel snare drum desig
 
 ---
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

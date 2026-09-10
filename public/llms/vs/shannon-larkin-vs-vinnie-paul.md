@@ -67,4 +67,4 @@ A: Vinnie Paul was known for gripping his drumsticks by the tapered end rather t
 
 ---
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

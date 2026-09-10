@@ -67,4 +67,4 @@ A: Both are exceptional. Eloy's groove-driven thrash power suits Slipknot's cata
 
 ---
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

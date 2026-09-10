@@ -67,4 +67,4 @@ A: Isaac Lamb endorses SJC Custom Drums and Meinl Cymbals, but his specific kit 
 
 ---
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

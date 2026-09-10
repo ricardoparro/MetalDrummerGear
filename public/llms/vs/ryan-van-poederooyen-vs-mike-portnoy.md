@@ -67,4 +67,4 @@ A: Ryan Van Poederooyen plays a Pearl Reference Series kit with a 14x6.5" brass 
 
 ---
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

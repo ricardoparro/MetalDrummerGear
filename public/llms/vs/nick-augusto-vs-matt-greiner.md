@@ -67,4 +67,4 @@ A: Yes — Pearl released the Matt Greiner Signature Snare, a 14"x6" steel-shell
 
 ---
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

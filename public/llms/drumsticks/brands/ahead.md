@@ -23,6 +23,10 @@ These 1 entry is pulled directly from MetalForge's verified drumsticks database 
 
 Source: [Ahead Drumsticks — About](http://www.aheaddrumsticks.com/about.html).
 
+## Full Brand History
+
+See the complete history for Ahead: [/brands/ahead](https://metalforge.io/brands/ahead)
+
 ## FAQ
 
 **Q: What drumsticks does Ahead make for metal drummers?**
@@ -62,4 +66,4 @@ MetalForge tracks 10 drumstick brands relevant to metal drummers. Besides Ahead,
 
 ---
 
-*Last updated: 2026-08-01 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

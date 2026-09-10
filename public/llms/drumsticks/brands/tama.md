@@ -24,6 +24,10 @@ These 2 entries are pulled directly from MetalForge's verified drumsticks databa
 
 Source: [Tama — Drumsticks](https://www.tama.com/usa/products/sticks/).
 
+## Full Brand History
+
+See the complete history for Tama: [/brands/tama](https://metalforge.io/brands/tama)
+
 ## FAQ
 
 **Q: What drumsticks does Tama make for metal drummers?**
@@ -63,4 +67,4 @@ MetalForge tracks 10 drumstick brands relevant to metal drummers. Besides Tama, 
 
 ---
 
-*Last updated: 2026-08-01 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

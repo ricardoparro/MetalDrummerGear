@@ -52,6 +52,11 @@ const { DRUMSTICK_BRANDS } = loadModuleConsts(
   ['DRUMSTICK_BRANDS']
 );
 
+const { hasBrand } = loadModuleConsts(
+  path.join(__dirname, '../packages/frontend/data/brands.js'),
+  ['hasBrand']
+);
+
 const dataPath = path.join(__dirname, '../packages/frontend/data/drumsticks.js');
 const dataContent = fs.readFileSync(dataPath, 'utf-8');
 const arrayMatch = dataContent.match(/export const DRUMSTICKS = (\[[\s\S]*?\n\]);/);
@@ -149,6 +154,13 @@ function buildBrandMarkdown(brand, allBrands, studyLinks) {
 
   parts.push(`Source: [${brand.source.label}](${brand.source.url}).`);
   parts.push('');
+
+  if (hasBrand(brand.slug)) {
+    parts.push('## Full Brand History');
+    parts.push('');
+    parts.push(`See the complete history for ${brand.name}: [/brands/${brand.slug}](${BASE}/brands/${brand.slug})`);
+    parts.push('');
+  }
 
   parts.push('## FAQ');
   parts.push('');

@@ -20,6 +20,10 @@ We haven't verified a Zildjian drumstick played by one of our mapped metal drumm
 
 Source: [Avedis Zildjian Company — history (Wikipedia)](https://en.wikipedia.org/wiki/Avedis_Zildjian_Company).
 
+## Full Brand History
+
+See the complete history for Zildjian: [/brands/zildjian](https://metalforge.io/brands/zildjian)
+
 ## FAQ
 
 **Q: What drumsticks does Zildjian make for metal drummers?**
@@ -59,4 +63,4 @@ MetalForge tracks 10 drumstick brands relevant to metal drummers. Besides Zildji
 
 ---
 
-*Last updated: 2026-08-01 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

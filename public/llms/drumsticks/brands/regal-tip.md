@@ -53,4 +53,4 @@ MetalForge tracks 10 drumstick brands relevant to metal drummers. Besides Regal 
 
 ---
 
-*Last updated: 2026-08-01 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

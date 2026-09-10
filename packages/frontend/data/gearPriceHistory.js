@@ -1975,7 +1975,7 @@ export const GEAR_PRICE_HISTORY = {
   // ==========================================
   // NICK MENZA - 1990 Rust in Peace Era
   // Issue #2238: Gear Price History Batch 11
-  // Tama Swingstar Stripped Thrash Setup
+  // Tama Artstar II Rust in Peace Setup
   // ==========================================
   'nick-menza': {
     slug: 'nick-menza',
@@ -1986,17 +1986,17 @@ export const GEAR_PRICE_HISTORY = {
     albumReference: 'Rust in Peace (1990)',
     profileImage: '/images/drummers/nick-menza.webp',
 
-    summary: "Nick Menza's iconic Rust in Peace-era setup — the stripped-down thrash weapon behind Megadeth's technical masterpiece. Built around a Tama Swingstar with Zildjian A cymbals, Menza's minimalist approach proved that raw speed and precision mattered more than gear prestige. The tight, dry drum sound on Rust in Peace is widely cited as a benchmark for thrash drum production. Menza's machine-gun double-kick on 'Holy Wars' and 'Tornado of Souls' showcased what a working drummer's kit could achieve with good engineering.",
+    summary: "Nick Menza's iconic Rust in Peace-era setup — the pro-tier thrash weapon behind Megadeth's technical masterpiece. Built around a Tama Artstar II in Midnight Blue finish with Zildjian A cymbals, Menza's kit matched the precision of his playing. The tight, dry drum sound on Rust in Peace is widely cited as a benchmark for thrash drum production. Menza's machine-gun double-kick on 'Holy Wars' and 'Tornado of Souls' showcased what a well-engineered pro kit could achieve in the right hands.",
 
     setup: {
       drums: {
-        item: 'Tama Swingstar',
-        model: '5-piece shell pack',
+        item: 'Tama Artstar II',
+        model: '5-piece shell pack, Midnight Blue finish',
         specs: '22"x16" kick, 12"x10" rack, 13"x11" rack, 16"x16" floor',
         originalPrice: 900,
         year: 1990,
-        source: 'Tama Swingstar retail pricing 1990, Music Trades Magazine archive',
-        notes: "The Tama Swingstar was a mid-range kit — not the budget bottom of the line, but a working drummer's practical choice. Its poplar shells gave a tight, punchy tone well-suited to thrash. Menza's choice of an affordable kit over a prestige endorsement reflected the practical sensibility that defined his playing.",
+        source: 'Tama Artstar II retail pricing 1990, Music Trades Magazine archive',
+        notes: "The Tama Artstar II was Tama's pro-tier kit in 1990. Its birch shells gave a focused, punchy attack well-suited to cutting through Dave Mustaine and Marty Friedman's dense guitar arrangements on thrash tracks. Menza's choice of a pro-tier kit reflected the technical precision that defined his playing.",
         vintageValue2026: 1200,
         modernEquivalent: {
           item: 'Tama Imperialstar 5-piece',
@@ -2090,8 +2090,8 @@ export const GEAR_PRICE_HISTORY = {
 
     priceEvolution: [
       { year: 1990, price: 1898, label: 'Original Purchase', event: 'Rust in Peace recording' },
-      { year: 1992, price: 2100, label: 'Countdown era', event: 'Menza upgrades to Tama Artstar' },
-      { year: 1994, price: 2400, label: 'Youthanasia era', event: 'Premier Signia endorsement begins' },
+      { year: 1992, price: 2100, label: 'Countdown era', event: 'Switches from Tama to Pearl Masters' },
+      { year: 1994, price: 2400, label: 'Youthanasia era', event: 'Upgrades to Pearl Masterworks' },
       { year: 1999, price: 3000, label: 'Reunion tour', event: 'Classic kit nostalgia grows' },
       { year: 2010, price: 4200, label: 'Collector interest', event: 'Rust in Peace 20th anniversary' },
       { year: 2020, price: 5200, label: 'Pandemic spike', event: 'Home studio demand drives vintage prices' },
@@ -2099,15 +2099,15 @@ export const GEAR_PRICE_HISTORY = {
     ],
 
     sources: [
-      { title: 'Tama Swingstar Retail Catalog', year: 1990, type: 'catalog' },
+      { title: 'Tama Artstar II Retail Catalog', year: 1990, type: 'catalog' },
       { title: 'Modern Drummer — Nick Menza Feature', year: 1991, type: 'interview' },
       { title: 'Metal Hammer — Megadeth Rust in Peace Gear Profile', year: 1990, type: 'interview' },
-      { title: 'Reverb Price Guide — Vintage Tama Swingstar', year: 2025, type: 'market' },
+      { title: 'Reverb Price Guide — Vintage Tama Artstar II', year: 2025, type: 'market' },
     ],
 
     meta: {
       title: "Nick Menza 1990 Megadeth Drum Setup Cost | Rust in Peace Era Gear Prices",
-      description: "How much did Nick Menza's 1990 Megadeth drum kit cost? Original ~$1,898, inflation-adjusted to ~$4,757 today. Complete Tama Swingstar breakdown from the Rust in Peace era.",
+      description: "How much did Nick Menza's 1990 Megadeth drum kit cost? Original ~$1,898, inflation-adjusted to ~$4,757 today. Complete Tama Artstar II breakdown from the Rust in Peace era.",
       keywords: ['nick menza drum kit', 'megadeth rust in peace drums', 'nick menza 1990 setup', 'rust in peace drummer gear', 'megadeth drummer drum cost'],
     },
   },

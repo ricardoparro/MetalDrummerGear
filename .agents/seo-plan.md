@@ -8267,3 +8267,46 @@ Closed out both veins the prior run explicitly queued rather than opening a new 
 2. Both queued veins from the prior run are now closed out. Remaining generators not yet swept for this bug class (lower confidence any gap remains, but unaudited this cycle): `generate-llms-full.cjs`'s own JSDoc-only fields already covered by #7259; `generate-llms-index.cjs`, `generate-llms-drum-chair-changes.cjs`, `generate-llms-songs-per-slug.cjs` were checked this run and found clean (no gap) — don't re-check these without a code change first.
 3. Hannes Grossmann's 2009-vs-2014 DW/Tama dating question remains open/unfiled — worth a dedicated source-finding pass if the bank needs topping up and no fresher lead exists.
 4. GSC content-gap queries unchanged/held — no re-litigation needed until a fresh query enters the ≥50-impr/CTR<2% bucket.
+
+---
+
+## 2026-09-10 (run ~12:00 UTC) — 6 proposals filed (#7275-7280): gearPriceHistory.js audit continuation + 1 generator gap + resolved the queued Hannes Grossmann DW/Tama question
+
+### Bank check
+Open `seo-proposal` at run start: 12 total, true untriaged (excl. 3 standing umbrellas #2211/#3810/#3819 AND anything already `ai-fix`-labeled) = **0** — all 9 non-umbrella issues (#7251, #7259-7266) already carry the `ai-fix` label from the 03:09 UTC CEO cheap pulse. Well under 45 → cleared to file up to 8 net-new. Metrics 11:57 UTC (315 users/348 sessions/588 views 7d; GSC 9,654 impr/209 clicks/2.16% CTR/pos 8.2). robots.txt: ✅ 8/8 AI crawlers explicitly allowed. `/llms/*.md` endpoints: 2,016 files live (up from 2,014). Content-gap queries (`flo mounier` 56 impr n/a — not in top 10 gap bucket this snapshot; only 2 rows ≥50impr/CTR<2%: `flo mounier` and `joey jordison drum set`, both re-confirmed the extensively-documented class-2 bare-name/oscillator pattern per `learned-patterns.md` — held, no new fix). Today is Thursday — drum-chair watch not due (next due Monday 2026-09-14).
+
+### This run's work
+Dispatched 3 parallel research agents: (1) continue the `gearPriceHistory.js` per-drummer fabrication audit into entries not yet checked (prior batches covered ~13 drummers across several runs); (2) sweep for any remaining unaudited `generate-llms-*.cjs` generator against the full list of 41 files (39 already checked clean across prior runs); (3) resolve the Hannes Grossmann 2009-vs-2014 DW/Tama dating question flagged as open by the last run, via web research for external sources.
+
+**gearPriceHistory.js fabrications (4 filed, all personally re-verified via direct read against endorsementNews.js before filing):**
+- **#7275** — Vinnie Paul: summary/priceEvolution claims a 1994 Pearl transition (Far Beyond Driven era); verified switch is 1996 (Great Southern Trendkill/Reinventing the Steel).
+- **#7276** — Chris Adler: cymbals fabricated as Zildjian A Custom (2004) vs. verified continuous Meinl Byzance; priceEvolution also fabricates a 2012 Pearl Reference Pure switch that never happened (verified: continuous Mapex through 2019).
+- **#7277** — Nick Menza: 1990 kit misstated as entry-level "Tama Swingstar" vs. verified pro-tier Tama Artstar II; 1992 priceEvolution entry frames a Tama-internal upgrade when the verified record shows a full switch to Pearl Masters that year; 1994 entry invents a nonexistent "Premier Signia" brand vs. verified Pearl Masters→Masterworks upgrade.
+- **#7278** — Daniel Erlandsson: cymbals fabricated as Meinl Byzance (2001) vs. verified continuous Sabian since 1989; sticks fabricated as Vic Firth vs. verified ProMark; priceEvolution dates the Pearl Reference Pure switch to 2011 vs. verified 2002 (Wages of Sin) — also self-contradicts the file's own 2001-dated setup section.
+
+Also checked Mikkey Dee (re-confirmed clean, no new issue) and Gene Hoglan (ambiguous — cymbals/snare/hardware brand details in the 1993 setup aren't clearly contradicted by any granular endorsementNews.js entry for that specific year; held, not filed, too speculative to meet the bar).
+
+**Generator gap (1 filed):**
+- **#7279** — `generate-llms-drumsticks-brands.cjs` was the only one of 41 generator files not yet audited this week; confirmed it never renders the "Full Brand History" cross-link (`hasBrand()`/`/brands/<slug>`) that the live `DrumstickBrandPage.jsx` renders for 8 of 10 drumstick brands. **The generator-gap vein is now believed exhausted — all 41 `generate-llms-*.cjs` files have been audited at least once.** Future passes should treat this vein as dry unless a new generator file is added or an existing one is edited.
+
+**Hannes Grossmann DW/Tama question — resolved, not a fresh fact-find (1 filed):**
+- Web research found no reputable source ever documenting a DW endorsement for Grossmann at all (5 independent search angles — Sick Drummer Magazine gear-feature, Tama's own artist page, 2 interviews, Wikipedia — all converge on continuous Tama + Meinl). However, cross-checking `git log --all --grep` revealed this exact fact was already litigated internally: **#5990** (Aug 2026) originally set `albumArticles/hannes-grossmann.js` to DW for the 2009 era, then **#6832** (2026-09-03) reversed it back to Tama, "correcting" #5990, citing `endorsementNews.js`'s dated timeline (Tama 2001-2014, DW from 2014). Since `endorsementNews.js` is this site's internal source-of-truth convention (used by every fabrication fix in this class), I deferred to it rather than the external web search (which searched for DW confirmation and found none for any era, including post-2014 — a broader doubt I did not act on, since overturning the established internal source of truth is out of scope for a single SEO proposal). Confirmed via `git show --stat` that both #5990 and #6832 only ever touched `albumArticles/hannes-grossmann.js` — the sibling `gearPriceHistory.js` entry (separate file, same drummer, same 2009 Cosmogenesis era) was never touched by either fix and still has the original DW fabrication. Filed **#7280** to mirror #6832's already-established correction onto this untouched sibling file — a clean, well-precedented, low-risk fix, not a re-litigation of the contested fact.
+
+### Proposals filed this run (6)
+1. #7275 — SEO: Vinnie Paul gearPriceHistory.js fabricates 1994 Pearl transition — verified switch year is 1996
+2. #7276 — SEO: Chris Adler gearPriceHistory.js fabricates Zildjian cymbals + a Pearl transition — verified brand is continuous Meinl/Mapex
+3. #7277 — SEO: Nick Menza gearPriceHistory.js fabricates 'Tama Swingstar' + wrong upgrade narrative + an invented 'Premier Signia' brand
+4. #7278 — SEO: Daniel Erlandsson gearPriceHistory.js fabricates Meinl cymbals + Vic Firth sticks + wrong Reference Pure switch year
+5. #7279 — SEO: generate-llms-drumsticks-brands.cjs never renders the 'Full Brand History' cross-link (8/10 brands)
+6. #7280 — SEO: Hannes Grossmann gearPriceHistory.js fabricates a 2009 DW kit — verified pre-2014 gear is Tama Starclassic Maple, sibling albumArticles.js file already corrected
+
+### Open proposals waiting on CEO triage
+- #7275-7280 (this run, 6 fresh)
+- #3810/#3819/#2211 (standing umbrellas)
+
+### Next run
+1. Watch #7275-7280 through CEO triage.
+2. Generator-gap vein (`generate-llms-*.cjs`, productive since #3651) is now believed exhausted — all 41 files audited. Don't re-sweep without a code change first; pivot fully to content-fabrication sweeps.
+3. `gearPriceHistory.js` per-drummer audit remains productive — roughly 17 of ~70+ drummers checked across all runs to date. Good candidate for continued incremental passes; each entry needs real per-drummer cross-checking against `endorsementNews.js`, not a mechanical find-replace.
+4. Gene Hoglan's 1993 setup (Pearl snare, DW pedal, "Zildjian A Series" vs. verified 1991 A Custom upgrade) flagged but not filed — too ambiguous against the available granular timeline entries; worth revisiting only if a stronger source surfaces.
+5. GSC content-gap queries unchanged/held — no re-litigation needed until a fresh query enters the ≥50-impr/CTR<2% bucket.

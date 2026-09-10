@@ -364,6 +364,12 @@ Budget shouldn't stop you — Remo Coated Pinstripe and Evans G1 Coated both off
 - [Igor Cavalera](https://metalforge.io/drummer/igor-cavalera) — Remo-family heads — Sepultura tribal, down-tuned resonance
 - [Shannon Larkin](https://metalforge.io/drummer/shannon-larkin) — Evans-family resonant heads — Godsmack sludge-influenced weight
 
+## Featured Drummers
+
+- [Mario Duplantier](https://metalforge.io/drummer/mario-duplantier): Remo Emperor + Powerstroke 3 — maximum crushing low-end weight
+- [Brann Dailor](https://metalforge.io/drummer/brann-dailor): Evans G2 Clear — Mastodon's most direct sludge analogue
+- [Igor Cavalera](https://metalforge.io/drummer/igor-cavalera): Remo-family heads — proof resonance can carry sludge weight
+
 ---
 
 **More LLM resources:** 

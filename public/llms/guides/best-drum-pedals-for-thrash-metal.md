@@ -289,6 +289,13 @@ Technique matters as much as gear in thrash metal. The genre's most influential 
 - [Gene Hoglan](https://metalforge.io/drummer/gene-hoglan) — Tama Speed Cobra 910 — The Atomic Clock's metronomic precision
 - [Lars Ulrich](https://metalforge.io/drummer/lars-ulrich) — Tama Iron Cobra 900 — driving Metallica's thrash foundation
 
+## Featured Drummers
+
+- [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo): Pearl Demon Drive — pioneering thrash double bass on Reign in Blood
+- [Charlie Benante](https://metalforge.io/drummer/charlie-benante): Tama Speed Cobra — Anthrax's extremely fast double kick technique
+- [Gene Hoglan](https://metalforge.io/drummer/gene-hoglan): Pearl Demon Drive — The Atomic Clock's metronomic precision since 2008
+- [Lars Ulrich](https://metalforge.io/drummer/lars-ulrich): Tama Iron Cobra 900 — driving Metallica's thrash foundation
+
 ---
 
 **More LLM resources:** 

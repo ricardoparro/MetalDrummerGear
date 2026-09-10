@@ -303,6 +303,13 @@ Whatever you choose, prioritize warm voicing and controlled chick response over 
 - [Shannon Larkin](https://metalforge.io/drummer/shannon-larkin) — Sabian AAX Stage Hi-Hats — Godsmack riff-locked weight
 - [Mario Duplantier](https://metalforge.io/drummer/mario-duplantier) — Zildjian K Sweet & A Custom Hi-Hats — Gojira down-tuned, tectonic weight
 
+## Featured Drummers
+
+- [Brann Dailor](https://metalforge.io/drummer/brann-dailor): Meinl Byzance Dark Hi-Hats — Mastodon crushing sludge weight
+- [Igor Cavalera](https://metalforge.io/drummer/igor-cavalera): Paiste RUDE Hi-Hats — Sepultura's tribal groove metal aggression
+- [Shannon Larkin](https://metalforge.io/drummer/shannon-larkin): Sabian AAX Stage Hi-Hats — Godsmack riff-locked weight
+- [Mario Duplantier](https://metalforge.io/drummer/mario-duplantier): Zildjian K Sweet & A Custom Hi-Hats — Gojira down-tuned weight
+
 ---
 
 **More LLM resources:** 

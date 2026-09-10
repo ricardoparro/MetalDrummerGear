@@ -309,6 +309,12 @@ Start with one dark, heavy crash in the 18"-19" range, and add a second voicing 
 - [Danny Carey](https://metalforge.io/drummer/danny-carey) — Paiste RUDE/Power Crash — Tool's climactic, doom-adjacent contrast
 - [Mario Duplantier](https://metalforge.io/drummer/mario-duplantier) — Paiste 602 Crash — Gojira's tectonic, crushing low-end tonnage
 
+## Featured Drummers
+
+- [Brann Dailor](https://metalforge.io/drummer/brann-dailor): Meinl Byzance Brilliant Heavy Hammered Crash — Mastodon's progressive sludge-doom atmosphere
+- [Danny Carey](https://metalforge.io/drummer/danny-carey): Paiste RUDE/Power Crash — Tool's climactic, doom-adjacent contrast
+- [Mario Duplantier](https://metalforge.io/drummer/mario-duplantier): Paiste 602 Crash — Gojira's tectonic, crushing low-end tonnage
+
 ---
 
 **More LLM resources:** 

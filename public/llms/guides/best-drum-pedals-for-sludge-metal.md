@@ -315,6 +315,13 @@ Budget shouldn't stop you either. A DW 3000 Series or Pearl Demonator pedal will
 - [Brann Dailor](https://metalforge.io/drummer/brann-dailor) — DW 5000 Series — Mastodon crushing early-catalog weight
 - [Shannon Larkin](https://metalforge.io/drummer/shannon-larkin) — Tama Iron Cobra 600 — Godsmack sludge-influenced groove weight
 
+## Featured Drummers
+
+- [Igor Cavalera](https://metalforge.io/drummer/igor-cavalera): Pearl Eliminator double pedal — Sepultura tribal, down-tuned heaviness
+- [Mario Duplantier](https://metalforge.io/drummer/mario-duplantier): Dual Tama Iron Cobra 900 Power Glide — Gojira crushing, tectonic control
+- [Brann Dailor](https://metalforge.io/drummer/brann-dailor): Tama Speed Cobra — Mastodon crushing early-catalog weight
+- [Shannon Larkin](https://metalforge.io/drummer/shannon-larkin): DW 9000 Series Double Pedal — Godsmack sludge-influenced groove weight
+
 ---
 
 **More LLM resources:** 

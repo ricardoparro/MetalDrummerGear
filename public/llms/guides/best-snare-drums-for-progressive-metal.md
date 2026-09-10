@@ -316,6 +316,13 @@ Budget shouldn't stop you either. A Pearl Export or Tama Imperialstar snare will
 - [Danny Carey](https://metalforge.io/drummer/danny-carey) — Sonor Signature Bronze — Tool atmospheric low-end weight
 - [Mike Portnoy](https://metalforge.io/drummer/mike-portnoy) — Tama Starclassic Maple — Dream Theater warm, musical tone
 
+## Featured Drummers
+
+- [Mike Mangini](https://metalforge.io/drummer/mike-mangini): Pearl Reference Brass — Dream Theater per-passage rotation
+- [Gavin Harrison](https://metalforge.io/drummer/gavin-harrison): Sonor Signature — Porcupine Tree/King Crimson dual-snare precision
+- [Danny Carey](https://metalforge.io/drummer/danny-carey): Sonor Signature Bronze — Tool atmospheric low-end weight
+- [Mike Portnoy](https://metalforge.io/drummer/mike-portnoy): Tama Starclassic Maple — Dream Theater warm, musical tone
+
 ---
 
 **More LLM resources:** 

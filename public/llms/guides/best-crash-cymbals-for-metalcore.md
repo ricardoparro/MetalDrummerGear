@@ -327,6 +327,12 @@ Start with one medium-weight crash in the 18" range that matches your band's gen
 - [Jay Weinberg](https://metalforge.io/drummer/jay-weinberg) — Zildjian A Custom Crashes — Slipknot's explosive attack
 - [Chris Adler](https://metalforge.io/drummer/chris-adler) — Meinl Byzance Dark Crashes — Lamb of God's breakdown precision
 
+## Featured Drummers
+
+- [Matt Greiner](https://metalforge.io/drummer/matt-greiner): Meinl Byzance Extra Dry Medium Crashes — August Burns Red's technical precision
+- [Chris Adler](https://metalforge.io/drummer/chris-adler): Meinl Byzance Dark Crashes — Lamb of God's breakdown precision
+- [Jay Weinberg](https://metalforge.io/drummer/jay-weinberg): Zildjian A Custom Crashes — Slipknot's explosive attack
+
 ---
 
 **More LLM resources:** 

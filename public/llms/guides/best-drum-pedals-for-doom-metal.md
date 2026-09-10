@@ -315,6 +315,13 @@ Budget shouldn't stop you either. A Tama Iron Cobra 600 or DW 3000 Series pedal 
 - [Danny Carey](https://metalforge.io/drummer/danny-carey) — Tama Iron Cobra pedals — Tool massive touring rig consistency
 - [Brann Dailor](https://metalforge.io/drummer/brann-dailor) — DW 5000 Series — Mastodon straightforward riff-locked weight
 
+## Featured Drummers
+
+- [Mario Duplantier](https://metalforge.io/drummer/mario-duplantier): Dual Tama Iron Cobra 900 Power Glide — Gojira crushing, tectonic control
+- [Igor Cavalera](https://metalforge.io/drummer/igor-cavalera): Pearl Eliminator double pedal — Sepultura tribal, down-tuned heaviness
+- [Danny Carey](https://metalforge.io/drummer/danny-carey): Sonor Giant Step Twin Effect — Tool massive touring rig consistency
+- [Brann Dailor](https://metalforge.io/drummer/brann-dailor): Tama Speed Cobra — Mastodon straightforward riff-locked weight
+
 ---
 
 **More LLM resources:** 

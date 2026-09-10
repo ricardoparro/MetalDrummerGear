@@ -300,6 +300,12 @@ Don't overlook the budget tier — Zildjian ZBT and Sabian AAX both provide genu
 - [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo) — Paiste RUDE — Slayer's explosive hi-hat attack
 - [Charlie Benante](https://metalforge.io/drummer/charlie-benante) — Paiste RUDE & 2002 — Anthrax's powerful thrash projection
 
+## Featured Drummers
+
+- [Lars Ulrich](https://metalforge.io/drummer/lars-ulrich): Zildjian A Custom Dyno Beat — the definitive thrash metal hi-hat sound
+- [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo): Paiste RUDE — Slayer's violent, explosive hi-hat attack
+- [Charlie Benante](https://metalforge.io/drummer/charlie-benante): Paiste RUDE & 2002 — Anthrax's powerful thrash riffing projection
+
 ---
 
 **More LLM resources:** 

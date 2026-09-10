@@ -327,6 +327,12 @@ Whatever you choose, prioritize structural load capacity and precise memory lock
 - [Danny Carey](https://metalforge.io/drummer/danny-carey) — Sonor hardware supporting a hybrid acoustic-electronic rig
 - [Mario Duplantier](https://metalforge.io/drummer/mario-duplantier) — Tama hardware for technical precision and crushing weight
 
+## Featured Drummers
+
+- [Mike Portnoy](https://metalforge.io/drummer/mike-portnoy): Tama hardware built for marathon multi-part performances
+- [Mike Mangini](https://metalforge.io/drummer/mike-mangini): Pearl hardware for a hybrid acoustic-electronic rig
+- [Danny Carey](https://metalforge.io/drummer/danny-carey): Sonor hardware anchoring Tool's structurally complex kit
+
 ---
 
 **More LLM resources:** 

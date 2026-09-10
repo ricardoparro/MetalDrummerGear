@@ -326,6 +326,12 @@ Whatever you choose, don't overlook the bass drum — a purpose-built head like 
 - [Gene Hoglan](https://metalforge.io/drummer/gene-hoglan) — The Atomic Clock's articulate, precise Evans head of choice
 - [Paul Mazurkiewicz](https://metalforge.io/drummer/paul-mazurkiewicz) — Reinforced, punchy heads for Cannibal Corpse's brutal downtuned attack
 
+## Featured Drummers
+
+- [George Kollias](https://metalforge.io/drummer/george-kollias): Nile's extreme-speed technical death metal drum head standard
+- [Gene Hoglan](https://metalforge.io/drummer/gene-hoglan): Decades of precision death and thrash metal drumming
+- [Paul Mazurkiewicz](https://metalforge.io/drummer/paul-mazurkiewicz): Cannibal Corpse's brutal death metal foundation since 1988
+
 ---
 
 **More LLM resources:** 

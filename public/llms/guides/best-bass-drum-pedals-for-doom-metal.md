@@ -294,6 +294,11 @@ Start with whichever setup matches your kick configuration, and don't be afraid 
 - [Danny Carey](https://metalforge.io/drummer/danny-carey) — Tama Iron Cobra pedals — Tool massive touring rig consistency
 - [Brann Dailor](https://metalforge.io/drummer/brann-dailor) — DW 5000 Series single pedal — Mastodon straightforward riff-locked weight
 
+## Featured Drummers
+
+- [Mario Duplantier](https://metalforge.io/drummer/mario-duplantier): Dual independent Tama Iron Cobra 900 Power Glide for Gojira's crushing weight
+- [Brann Dailor](https://metalforge.io/drummer/brann-dailor): Proof a single Tama Speed Cobra pedal can carry an entire doom-sludge catalog
+
 ---
 
 **More LLM resources:** 

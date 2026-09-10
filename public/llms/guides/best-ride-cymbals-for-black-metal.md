@@ -327,6 +327,12 @@ Start with a 20"-22" raw-toned pro ride, and step up to an oversized Mega Power 
 - [Daray](https://metalforge.io/drummer/daray) — 22" Paiste RUDE Power Ride for Dimmu Borgir symphonic black metal
 - [Frost](https://metalforge.io/drummer/frost) — 22" Zildjian K Custom Dark Ride for Satyricon technical precision
 
+## Featured Drummers
+
+- [Hellhammer](https://metalforge.io/drummer/hellhammer): Paiste RUDE Ride for Mayhem
+- [Inferno](https://metalforge.io/drummer/inferno): Paiste Mega Power Ride for Behemoth
+- [Frost](https://metalforge.io/drummer/frost): Zildjian K Custom Dark Ride for Satyricon
+
 ---
 
 **More LLM resources:** 

@@ -309,6 +309,12 @@ Whichever you choose, remember that symphonic metal's most acclaimed recordings 
 - [Hellhammer](https://metalforge.io/drummer/hellhammer) — Zildjian A Custom Crash — Mayhem and Dimmu Borgir symphonic versatility
 - [Frost](https://metalforge.io/drummer/frost) — Zildjian A Custom / K Custom Dark Crash — Satyricon dynamic control
 
+## Featured Drummers
+
+- [Daray](https://metalforge.io/drummer/daray): Paiste RUDE Crash for full-orchestra symphonic black metal projection
+- [Hellhammer](https://metalforge.io/drummer/hellhammer): Zildjian A Custom Crash for symphonic versatility
+- [Frost](https://metalforge.io/drummer/frost): Zildjian A Custom / K Custom Dark Crash for dynamic control
+
 ---
 
 **More LLM resources:** 

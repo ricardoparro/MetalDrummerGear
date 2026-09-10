@@ -326,6 +326,12 @@ Start with one versatile 21" pro ride, master its full dynamic range, and only s
 - [Mario Duplantier](https://metalforge.io/drummer/mario-duplantier) — 21" Zildjian Z Custom Mega Bell Ride for Gojira
 - [Mike Portnoy](https://metalforge.io/drummer/mike-portnoy) — 21" Sabian Raw Bell Dry Ride for progressive metal
 
+## Featured Drummers
+
+- [Danny Carey](https://metalforge.io/drummer/danny-carey): Paiste Signature Dry Ride for Tool
+- [Mario Duplantier](https://metalforge.io/drummer/mario-duplantier): Zildjian Z Custom Mega Bell Ride for Gojira
+- [Mike Portnoy](https://metalforge.io/drummer/mike-portnoy): Sabian Raw Bell Dry Ride for Dream Theater
+
 ---
 
 **More LLM resources:** 

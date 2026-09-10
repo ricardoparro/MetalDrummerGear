@@ -309,6 +309,12 @@ Start with a 22"x18" maple shell tuned for control rather than raw brightness �
 - [Frost](https://metalforge.io/drummer/frost) — Sonor SQ2 Custom Series — Satyricon dynamic precision
 - [Jaska Raatikainen](https://metalforge.io/drummer/jaska-raatikainen) — Pearl Masters Premium Maple — Children of Bodom keyboard-orchestrated precision
 
+## Featured Drummers
+
+- [Daray](https://metalforge.io/drummer/daray): Pearl Masterworks Stadium Exotic — full-orchestra symphonic standard
+- [Hellhammer](https://metalforge.io/drummer/hellhammer): Sonor SQ2 Heavy Beech — extreme speed and symphonic versatility
+- [Frost](https://metalforge.io/drummer/frost): Tama Starclassic Bubinga — dynamic control for orchestral restraint
+
 ---
 
 **More LLM resources:** 

@@ -299,6 +299,13 @@ Whatever you choose, prioritize a defined, purposeful chick over flashy features
 - [Shannon Larkin](https://metalforge.io/drummer/shannon-larkin) — Sabian AAX Stage — Godsmack's explosive, radio-ready punch
 - [Igor Cavalera](https://metalforge.io/drummer/igor-cavalera) — Paiste RUDE — Sepultura's tribal groove metal aggression
 
+## Featured Drummers
+
+- [Vinnie Paul](https://metalforge.io/drummer/vinnie-paul): Sabian AA/AAX Hi-Hats — groove metal's founding, cutting voice
+- [Chris Adler](https://metalforge.io/drummer/chris-adler): Meinl Byzance Dark Hi-Hats — Lamb of God's dry, controlled precision
+- [Shannon Larkin](https://metalforge.io/drummer/shannon-larkin): Sabian AAX Stage Hi-Hats — Godsmack's explosive, radio-ready punch
+- [Igor Cavalera](https://metalforge.io/drummer/igor-cavalera): Paiste RUDE Hi-Hats — Sepultura's tribal groove metal aggression
+
 ---
 
 **More LLM resources:** 

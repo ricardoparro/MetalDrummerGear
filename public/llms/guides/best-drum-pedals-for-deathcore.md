@@ -289,6 +289,11 @@ Whatever you choose, prioritize a pedal that can switch feel as fast as the song
 - [Ben Koller](https://metalforge.io/drummer/ben-koller) — Tama Iron Cobra 900 — Converge's sustained, blistering tempo reliability
 - [Isaac Lamb](https://metalforge.io/drummer/isaac-lamb) — DW 9000 Series — Kublai Khan TX's slam-first precision
 
+## Featured Drummers
+
+- [George Kollias](https://metalforge.io/drummer/george-kollias): Pearl Demon XR — Nile's 240+ BPM blast-beat benchmark
+- [Chris Turner](https://metalforge.io/drummer/chris-turner): Tama Speed Cobra 910 — Oceans Ate Alaska's blast-driven precision
+
 ---
 
 **More LLM resources:** 

@@ -309,6 +309,12 @@ Start with heavy internal muffling on a dense, well-built shell — it's the pro
 - [Igor Cavalera](https://metalforge.io/drummer/igor-cavalera) — Pearl Reference Pure — tribal, down-tuned sludge-adjacent weight
 - [Shannon Larkin](https://metalforge.io/drummer/shannon-larkin) — ddrum Dios Series — sludge-influenced low end in platinum-selling hard rock
 
+## Featured Drummers
+
+- [Mario Duplantier](https://metalforge.io/drummer/mario-duplantier): Dual-kick Tama Starclassic Bubinga — maximum tectonic weight
+- [Brann Dailor](https://metalforge.io/drummer/brann-dailor): Tama Starclassic Performer B/B — warmest sludge-metal analogue
+- [Igor Cavalera](https://metalforge.io/drummer/igor-cavalera): ddrum Hybrid Kit — tribal, down-tuned low end
+
 ---
 
 **More LLM resources:** 

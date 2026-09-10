@@ -315,6 +315,13 @@ Budget shouldn't stop you either. A Pearl Export or Tama Stagestar steel snare w
 - [Matt Halpern](https://metalforge.io/drummer/matt-halpern) — Pearl Reference Brass — Periphery's djent-metalcore articulation
 - [Alex Bent](https://metalforge.io/drummer/alex-bent) — Pearl Reference Brass — Trivium's fast, technical metalcore attack
 
+## Featured Drummers
+
+- [Matt Greiner](https://metalforge.io/drummer/matt-greiner): Pearl Signature Steel — August Burns Red's cutting, technical metalcore standard
+- [Eloy Casagrande](https://metalforge.io/drummer/eloy-casagrande): Tama Bell Brass — Slipknot/Sepultura's bright, modern metalcore-adjacent attack
+- [Matt Halpern](https://metalforge.io/drummer/matt-halpern): Pearl Reference Brass — Periphery's djent-metalcore articulation
+- [Alex Bent](https://metalforge.io/drummer/alex-bent): Tama Starclassic Maple — Trivium's fast, technical metalcore attack
+
 ---
 
 **More LLM resources:** 

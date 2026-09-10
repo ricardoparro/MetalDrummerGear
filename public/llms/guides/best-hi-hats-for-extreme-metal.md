@@ -303,6 +303,12 @@ Start with whichever character matches your playing style, and don't overlook th
 - [Derek Roddy](https://metalforge.io/drummer/derek-roddy) — Meinl Byzance Brilliant Heavy Hammered Hi-Hats — one-footed blast durability
 - [Gene Hoglan](https://metalforge.io/drummer/gene-hoglan) — Sabian AAX X-Plosion Hi-Hats — The Atomic Clock's precision punch
 
+## Featured Drummers
+
+- [George Kollias](https://metalforge.io/drummer/george-kollias): Zildjian K Custom Dark Hi-Hats — Nile's 240+ BPM blast beat precision
+- [Pete Sandoval](https://metalforge.io/drummer/pete-sandoval): Sabian AAX Stage Hi-Hats — pioneer of the gravity blast technique
+- [Derek Roddy](https://metalforge.io/drummer/derek-roddy): Meinl Byzance Brilliant Heavy Hammered Hi-Hats — one-footed blast durability
+
 ---
 
 **More LLM resources:** 

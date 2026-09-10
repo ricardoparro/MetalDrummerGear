@@ -283,6 +283,12 @@ Start with a 22"x18" maple/birch hybrid shell tuned for dynamic range rather tha
 - [Gavin Harrison](https://metalforge.io/drummer/gavin-harrison) — Sonor SQ2 built for touch and dynamic restraint
 - [Danny Carey](https://metalforge.io/drummer/danny-carey) — Sonor SQ2 Heavy Beech — Tool's dark, polyrhythmic low end
 
+## Featured Drummers
+
+- [Mike Portnoy](https://metalforge.io/drummer/mike-portnoy): Tama Starclassic Maple/Birch — the foundational prog metal blueprint
+- [Mike Mangini](https://metalforge.io/drummer/mike-mangini): Pearl Reference Series — sensitive hybrid electronics integration
+- [Danny Carey](https://metalforge.io/drummer/danny-carey): Sonor SQ2 Heavy Beech — dark, dense polyrhythmic tone
+
 ---
 
 **More LLM resources:** 

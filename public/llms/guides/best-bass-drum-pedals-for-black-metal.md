@@ -272,6 +272,10 @@ Whatever you choose: back off the tension, trust the simplicity, and let the spe
 - [Frost](https://metalforge.io/drummer/frost) — Technical precision within black metal's raw, foundational footwork tradition
 - [Inferno](https://metalforge.io/drummer/inferno) — Durable, consistent pedal action across relentless blast beat compositions
 
+## Featured Drummers
+
+- [Hellhammer](https://metalforge.io/drummer/hellhammer): Raw, minimal-tension speed on black metal's most foundational recordings with Mayhem
+
 ---
 
 **More LLM resources:** 

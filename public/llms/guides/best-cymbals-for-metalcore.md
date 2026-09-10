@@ -316,6 +316,13 @@ Budget shouldn't stop you either. A Meinl HCS or Zildjian ZBT setup will teach r
 - [Alex Bent](https://metalforge.io/drummer/alex-bent) — Meinl Byzance Brilliant — Trivium melodic modern metal
 - [Jay Weinberg](https://metalforge.io/drummer/jay-weinberg) — Zildjian A Custom & K Custom — Slipknot aggressive metalcore
 
+## Featured Drummers
+
+- [Matt Halpern](https://metalforge.io/drummer/matt-halpern): Meinl Byzance Extra Dry — Periphery djent-metalcore precision
+- [Matt Greiner](https://metalforge.io/drummer/matt-greiner): Meinl Byzance Extra Dry — August Burns Red technical metalcore
+- [Alex Bent](https://metalforge.io/drummer/alex-bent): Zildjian K Custom Hybrid — Trivium melodic modern metal
+- [Jay Weinberg](https://metalforge.io/drummer/jay-weinberg): Zildjian A Custom & K Custom — Slipknot aggressive metalcore
+
 ---
 
 **More LLM resources:** 

@@ -327,6 +327,12 @@ Whatever you choose, prioritize precise memory locks and double-braced construct
 - [Matt Halpern](https://metalforge.io/drummer/matt-halpern) — Mapex hardware anchoring an extended, electronically-augmented rig
 - [Matt Garstka](https://metalforge.io/drummer/matt-garstka) — Tama hardware for deeply polyrhythmic technical precision
 
+## Featured Drummers
+
+- [Tomas Haake](https://metalforge.io/drummer/tomas-haake): Sonor hardware — the blueprint for djent stability
+- [Matt Halpern](https://metalforge.io/drummer/matt-halpern): Pearl-based hardware for extended, hybrid kits
+- [Matt Garstka](https://metalforge.io/drummer/matt-garstka): Tama precision hardware for polyrhythmic technical playing
+
 ---
 
 **More LLM resources:** 

@@ -330,6 +330,12 @@ Start with a 21"-22" dark or warm-toned ride, and step up to a Mega Bell design 
 - [Shannon Larkin](https://metalforge.io/drummer/shannon-larkin) — 21" Sabian HHX Raw Bell Dry Ride — Godsmack patient heaviness
 - [Mario Duplantier](https://metalforge.io/drummer/mario-duplantier) — 21" Zildjian Z Custom Mega Bell Ride — Gojira tectonic body
 
+## Featured Drummers
+
+- [Brann Dailor](https://metalforge.io/drummer/brann-dailor): Meinl Byzance Ghost Ride for Mastodon
+- [Igor Cavalera](https://metalforge.io/drummer/igor-cavalera): Paiste RUDE Power Ride for Sepultura
+- [Mario Duplantier](https://metalforge.io/drummer/mario-duplantier): Zildjian Z Custom Mega Bell Ride for Gojira
+
 ---
 
 **More LLM resources:** 

@@ -309,6 +309,13 @@ For most progressive metal drummers, start with a standard Vic Firth American Cl
 - [Danny Carey](https://metalforge.io/drummer/danny-carey) — Vic Firth signature — polyrhythmic control for Tool's unconventional time signatures
 - [Mario Duplantier](https://metalforge.io/drummer/mario-duplantier) — Vic Firth X5A — extended reach for Gojira's technical, tectonic riffing
 
+## Featured Drummers
+
+- [Mike Mangini](https://metalforge.io/drummer/mike-mangini): Vic Firth signature — Dream Theater's technically demanding, constantly-shifting arrangements
+- [Mike Portnoy](https://metalforge.io/drummer/mike-portnoy): Promark TX420N signature — decades of progressive metal's most ambitious writing
+- [Danny Carey](https://metalforge.io/drummer/danny-carey): Vic Firth signature — Tool's polyrhythmic, odd-meter mastery
+- [Mario Duplantier](https://metalforge.io/drummer/mario-duplantier): Vic Firth X5A — Gojira's technical precision and tectonic weight
+
 ---
 
 **More LLM resources:** 

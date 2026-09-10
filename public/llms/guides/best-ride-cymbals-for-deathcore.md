@@ -331,6 +331,11 @@ Start with a 21"-22" pro ride, and specialize toward a Mega Bell or Dark-voiced 
 - [Ben Koller](https://metalforge.io/drummer/ben-koller) — 21" Zildjian K Custom Ride — Converge organic power
 - [George Kollias](https://metalforge.io/drummer/george-kollias) — 21" Zildjian A Custom Mega Bell Ride — Nile 240+ BPM benchmark
 
+## Featured Drummers
+
+- [Chris Turner](https://metalforge.io/drummer/chris-turner): Meinl Byzance Dual Ride for Oceans Ate Alaska
+- [George Kollias](https://metalforge.io/drummer/george-kollias): Zildjian A Custom Mega Bell Ride for Nile
+
 ---
 
 **More LLM resources:** 

@@ -312,6 +312,12 @@ Start with a 22"x18" maple or birch/bubinga shell and a reinforced head like the
 - [Gene Hoglan](https://metalforge.io/drummer/gene-hoglan) — Tama Starclassic Birch/Bubinga — deep low end across four decades
 - [Pete Sandoval](https://metalforge.io/drummer/pete-sandoval) — Tama bass drums driving Morbid Angel's extreme low end
 
+## Featured Drummers
+
+- [George Kollias](https://metalforge.io/drummer/george-kollias): Pearl Reference Pure — the death metal speed standard
+- [Flo Mounier](https://metalforge.io/drummer/flo-mounier): DW Collector's Series — Cryptopsy's technical precision
+- [Gene Hoglan](https://metalforge.io/drummer/gene-hoglan): Tama Starclassic Birch/Bubinga — deep, punchy low end
+
 ---
 
 **More LLM resources:** 

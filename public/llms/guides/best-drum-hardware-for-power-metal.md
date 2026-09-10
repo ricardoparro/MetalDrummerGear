@@ -333,6 +333,13 @@ Whatever you choose, prioritize double-braced construction and precise memory lo
 - [Nicko McBrain](https://metalforge.io/drummer/nicko-mcbrain) — Four decades of dependable Sonor hardware reliability
 - [Mikkey Dee](https://metalforge.io/drummer/mikkey-dee) — Pearl D-3000 throne built for long festival-set touring stamina
 
+## Featured Drummers
+
+- [Scott Travis](https://metalforge.io/drummer/scott-travis): Tama hardware syncing twin-kick Painkiller blueprint
+- [Aquiles Priester](https://metalforge.io/drummer/aquiles-priester): DW-grade stability for sustained neoclassical runs
+- [Nicko McBrain](https://metalforge.io/drummer/nicko-mcbrain): Four decades of dependable Sonor hardware
+- [Mikkey Dee](https://metalforge.io/drummer/mikkey-dee): Pearl throne for long festival-set stamina
+
 ---
 
 **More LLM resources:** 

@@ -312,6 +312,13 @@ Budget shouldn't stop you either. A Tama Iron Cobra 600 or a simple single pedal
 - [Nicko McBrain](https://metalforge.io/drummer/nicko-mcbrain) — Single Sonor pedal — Iron Maiden galloping foundation
 - [Mikkey Dee](https://metalforge.io/drummer/mikkey-dee) — Pearl Demon Drive — Motörhead/Scorpions touring stamina
 
+## Featured Drummers
+
+- [Scott Travis](https://metalforge.io/drummer/scott-travis): DW 9000 Series Double Pedal — Judas Priest sustained double-bass speed
+- [Aquiles Priester](https://metalforge.io/drummer/aquiles-priester): DW 9000 Series Double Pedal — Angra neoclassical double-bass precision
+- [Nicko McBrain](https://metalforge.io/drummer/nicko-mcbrain): Single Sonor pedal — Iron Maiden galloping foundation
+- [Mikkey Dee](https://metalforge.io/drummer/mikkey-dee): DW 5000 Series Double Pedal — Motörhead/Scorpions touring stamina
+
 ---
 
 **More LLM resources:** 

@@ -324,6 +324,12 @@ Black metal has never needed the biggest rig. It needs one that shows up, holds 
 - [Inferno](https://metalforge.io/drummer/inferno) — Efficient hardware setup suited to relentless blast-beat drumming
 - [Frost](https://metalforge.io/drummer/frost) — Hyperspeed blast beat precision on a compact, minimal kit
 
+## Featured Drummers
+
+- [Hellhammer](https://metalforge.io/drummer/hellhammer): Minimal, reliable hardware footprint that defined the genre
+- [Inferno](https://metalforge.io/drummer/inferno): Compact, efficient hardware for relentless blast beats
+- [Frost](https://metalforge.io/drummer/frost): Precise memory-lock hardware for hyperspeed technique
+
 ---
 
 **More LLM resources:** 

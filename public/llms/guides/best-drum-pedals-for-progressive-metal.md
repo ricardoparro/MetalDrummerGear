@@ -286,6 +286,12 @@ Whichever you choose, remember that progressive metal rewards precision and dyna
 - [Gavin Harrison](https://metalforge.io/drummer/gavin-harrison) — Sonor Perfect Balance — touch and dynamic restraint
 - [Mike Portnoy](https://metalforge.io/drummer/mike-portnoy) — Tama Iron Cobra — three decades of prog metal reliability
 
+## Featured Drummers
+
+- [Mike Mangini](https://metalforge.io/drummer/mike-mangini): Pearl Demon Drive for independent limb technique precision
+- [Gavin Harrison](https://metalforge.io/drummer/gavin-harrison): Sonor Perfect Balance for touch and dynamic restraint
+- [Mike Portnoy](https://metalforge.io/drummer/mike-portnoy): Tama Iron Cobra proven across three decades of prog metal
+
 ---
 
 **More LLM resources:** 

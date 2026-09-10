@@ -310,6 +310,13 @@ One overlooked factor: mathcore's unpredictability means the "right" stick often
 - [Blake Richardson](https://metalforge.io/drummer/blake-richardson) — Vic Firth 5A/5B — BTBAM's genre-hopping technicality
 - [Danny Carey](https://metalforge.io/drummer/danny-carey) — Vic Firth signature — Tool's polyrhythmic lineage behind math metal
 
+## Featured Drummers
+
+- [Ben Koller](https://metalforge.io/drummer/ben-koller): Vic Firth American Classic 5B — Converge's hardcore-rooted mathcore intensity
+- [Matt Greiner](https://metalforge.io/drummer/matt-greiner): Vic Firth Signature Series — August Burns Red's odd-time compositional precision
+- [Blake Richardson](https://metalforge.io/drummer/blake-richardson): Vic Firth 5A/5B — Between the Buried and Me's technical versatility
+- [Danny Carey](https://metalforge.io/drummer/danny-carey): Vic Firth Signature — Tool's polyrhythmic mathematical rigor
+
 ---
 
 **More LLM resources:** 

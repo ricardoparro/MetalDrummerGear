@@ -323,6 +323,12 @@ Whatever you choose, prioritize reinforced tension bolts and oversized, tip-resi
 - [Alex Bent](https://metalforge.io/drummer/alex-bent) — Axis Percussion hardware for technical, high-impact reliability
 - [Jay Weinberg](https://metalforge.io/drummer/jay-weinberg) — Pearl hardware proven under one of metal's most physically demanding shows
 
+## Featured Drummers
+
+- [Matt Greiner](https://metalforge.io/drummer/matt-greiner): DW hardware built to survive ABR's touring schedule
+- [Alex Bent](https://metalforge.io/drummer/alex-bent): Axis Percussion hardware for high-impact reliability
+- [Jay Weinberg](https://metalforge.io/drummer/jay-weinberg): DW hardware surviving one of metal's toughest live shows
+
 ---
 
 **More LLM resources:** 

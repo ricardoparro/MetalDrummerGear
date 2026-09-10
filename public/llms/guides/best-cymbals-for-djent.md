@@ -316,6 +316,12 @@ Budget shouldn't stop you either. A Sabian SBR or Meinl HCS set will teach real 
 - [Matt Halpern](https://metalforge.io/drummer/matt-halpern) — Meinl Pure Alloy / Byzance Dark — Periphery prog-djent precision
 - [Travis Orbin](https://metalforge.io/drummer/travis-orbin) — Meinl Byzance Extra Dry — Periphery's genre-shaping debut setup
 
+## Featured Drummers
+
+- [Tomas Haake](https://metalforge.io/drummer/tomas-haake): Sabian HHX/AAX with signature Compression Hi-Hats — djent's founding precision voice
+- [Matt Halpern](https://metalforge.io/drummer/matt-halpern): Meinl Pure Alloy / Byzance Dark — Periphery prog-djent precision
+- [Travis Orbin](https://metalforge.io/drummer/travis-orbin): Meinl Byzance Extra Dry — Periphery's genre-shaping debut setup
+
 ---
 
 **More LLM resources:** 

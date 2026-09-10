@@ -316,6 +316,13 @@ Start with an accessible maple-leaning kit like the Pearl Export or Tama Imperia
 - [Flo Mounier](https://metalforge.io/drummer/flo-mounier) — Pearl Masters Maple — three decades of gravity-blast technique
 - [Derek Roddy](https://metalforge.io/drummer/derek-roddy) — Tama Starclassic Bubinga — speed and one-footed blast technique
 
+## Featured Drummers
+
+- [George Kollias](https://metalforge.io/drummer/george-kollias): Pearl Masterworks — surgical clarity at 240+ BPM
+- [Hannes Grossmann](https://metalforge.io/drummer/hannes-grossmann): DW Collector's Series — classically-informed precision
+- [Flo Mounier](https://metalforge.io/drummer/flo-mounier): Pearl Masters Maple — three decades of gravity-blast technique
+- [Derek Roddy](https://metalforge.io/drummer/derek-roddy): Tama Starclassic Bubinga — speed and one-footed blast technique
+
 ---
 
 **More LLM resources:** 

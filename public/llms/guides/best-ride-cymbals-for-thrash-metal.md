@@ -329,6 +329,12 @@ Start with a 21"-22" pro ride built for durability and projection, and choose yo
 - [Lars Ulrich](https://metalforge.io/drummer/lars-ulrich) — Zildjian A Custom Ride — decades-long, genre-defining Metallica tone
 - [Charlie Benante](https://metalforge.io/drummer/charlie-benante) — Paiste RUDE Ride for Anthrax's aggressive rhythm section
 
+## Featured Drummers
+
+- [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo): Paiste Reign Power Ride for Slayer
+- [Lars Ulrich](https://metalforge.io/drummer/lars-ulrich): Zildjian A Custom Ride for Metallica
+- [Charlie Benante](https://metalforge.io/drummer/charlie-benante): Paiste RUDE Ride for Anthrax
+
 ---
 
 **More LLM resources:** 

@@ -294,6 +294,11 @@ Start with a linked double pedal unless you have a specific reason to separate y
 - [Blake Richardson](https://metalforge.io/drummer/blake-richardson) — Twin Tama Iron Cobra Power Glide singles — BTBAM foot independence
 - [Danny Carey](https://metalforge.io/drummer/danny-carey) — Sonor Giant Step Twin Effect — Tool's Fibonacci-structured rigor
 
+## Featured Drummers
+
+- [Ben Koller](https://metalforge.io/drummer/ben-koller): Tama Iron Cobra 900 — Converge mathcore's founding pedal
+- [Danny Carey](https://metalforge.io/drummer/danny-carey): Sonor Giant Step Twin Effect — Fibonacci-structured rigor that informed mathcore
+
 ---
 
 **More LLM resources:** 

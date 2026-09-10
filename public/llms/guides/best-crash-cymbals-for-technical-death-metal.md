@@ -312,6 +312,13 @@ Start with a budget ZBT or SBR crash to build your technique, and invest in a fu
 - [Flo Mounier](https://metalforge.io/drummer/flo-mounier) — Sabian AAX X-Plosion Crash — fast response for gravity-blast technique
 - [Derek Roddy](https://metalforge.io/drummer/derek-roddy) — Meinl Mb20 Heavy Crash — one-footed blast technique
 
+## Featured Drummers
+
+- [George Kollias](https://metalforge.io/drummer/george-kollias): Zildjian K Custom Dark Crash — dry articulation at 240+ BPM
+- [Hannes Grossmann](https://metalforge.io/drummer/hannes-grossmann): Meinl Byzance Brilliant Crash — classically-informed precision
+- [Flo Mounier](https://metalforge.io/drummer/flo-mounier): Sabian AAX X-Plosion Crash — fast response for gravity-blast technique
+- [Derek Roddy](https://metalforge.io/drummer/derek-roddy): Meinl Mb20 Heavy Crash — one-footed blast technique
+
 ---
 
 **More LLM resources:** 

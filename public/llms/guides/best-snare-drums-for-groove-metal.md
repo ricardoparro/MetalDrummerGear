@@ -316,6 +316,13 @@ Budget shouldn't stop you either. A Pearl Export or Mapex Storm Series snare wil
 - [Shannon Larkin](https://metalforge.io/drummer/shannon-larkin) — Pearl Reference Brass — Godsmack groove-driven power
 - [Igor Cavalera](https://metalforge.io/drummer/igor-cavalera) — Tama S.L.P. G-Maple — Sepultura tribal groove metal
 
+## Featured Drummers
+
+- [Vinnie Paul](https://metalforge.io/drummer/vinnie-paul): ddrum Signature steel snare — foundational groove metal crack
+- [Chris Adler](https://metalforge.io/drummer/chris-adler): Mapex Signature Walnut/Maple — Lamb of God syncopated precision
+- [Shannon Larkin](https://metalforge.io/drummer/shannon-larkin): Pearl Reference Brass — Godsmack groove-driven power
+- [Igor Cavalera](https://metalforge.io/drummer/igor-cavalera): Tama S.L.P. G-Maple — Sepultura tribal groove metal
+
 ---
 
 **More LLM resources:** 

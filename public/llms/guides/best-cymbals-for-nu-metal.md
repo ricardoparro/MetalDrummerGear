@@ -306,6 +306,12 @@ Budget shouldn't stop you either. A Zildjian ZBT or Meinl HCS setup will teach r
 - [Joey Jordison](https://metalforge.io/drummer/joey-jordison) — Paiste RUDE Series — Slipknot aggressive nu-metal chaos
 - [Ray Luzier](https://metalforge.io/drummer/ray-luzier) — Paiste 2002 Series — Korn bright cutting attack
 
+## Featured Drummers
+
+- [John Otto](https://metalforge.io/drummer/john-otto): Zildjian A & A Custom Series — Limp Bizkit groove-focused nu-metal
+- [Joey Jordison](https://metalforge.io/drummer/joey-jordison): Paiste RUDE Series — Slipknot aggressive nu-metal chaos
+- [Ray Luzier](https://metalforge.io/drummer/ray-luzier): Sabian AAX Series — Korn bright cutting attack
+
 ---
 
 **More LLM resources:** 

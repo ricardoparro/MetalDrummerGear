@@ -331,6 +331,12 @@ Start with a single pedal or the ddrum Vinnie Paul Signature if you're building 
 - [Art Cruz](https://metalforge.io/drummer/art-cruz) — Trick Pro 1-V — current Lamb of God riff-locking precision
 - [Igor Cavalera](https://metalforge.io/drummer/igor-cavalera) — Tama Iron Cobra — Sepultura tribal groove metal precision
 
+## Featured Drummers
+
+- [Vinnie Paul](https://metalforge.io/drummer/vinnie-paul): ddrum double pedal — Pantera's founding, pocket-first groove metal template
+- [Chris Adler](https://metalforge.io/drummer/chris-adler): Mapex Falcon — Lamb of God's syncopated riff-locking precision
+- [Art Cruz](https://metalforge.io/drummer/art-cruz): Trick Pro 1-V — modern groove metal's riff-locking standard
+
 ---
 
 **More LLM resources:** 

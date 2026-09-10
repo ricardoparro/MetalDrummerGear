@@ -326,6 +326,11 @@ Whatever you choose, prioritize double-braced construction and reinforced clamps
 - [Ben Koller](https://metalforge.io/drummer/ben-koller) — Hardcore-level hitting force demands maximum tip-over resistance
 - [Tim Yeung](https://metalforge.io/drummer/tim-yeung) — Technical precision hardware for blast beats and connecting fills
 
+## Featured Drummers
+
+- [Ben Koller](https://metalforge.io/drummer/ben-koller): Hardcore-rooted hitting force meets tip-over-resistant bases
+- [Tim Yeung](https://metalforge.io/drummer/tim-yeung): Technical precision across blast beats and breakdown fills
+
 ---
 
 **More LLM resources:** 

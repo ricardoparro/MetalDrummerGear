@@ -329,6 +329,12 @@ Start with one dry, controlled ride in the 20"-22" range, and only reach for a s
 - [Matt Halpern](https://metalforge.io/drummer/matt-halpern) — Meinl Byzance Extra Dry Ride — Periphery prog-djent precision
 - [Travis Orbin](https://metalforge.io/drummer/travis-orbin) — Dry, controlled ride throughout Periphery's genre-shaping debut setup
 
+## Featured Drummers
+
+- [Tomas Haake](https://metalforge.io/drummer/tomas-haake): Sabian HHX Evolution Ride — djent's founding precision voice
+- [Matt Halpern](https://metalforge.io/drummer/matt-halpern): Meinl Byzance Extra Dry Ride — Periphery prog-djent precision
+- [Travis Orbin](https://metalforge.io/drummer/travis-orbin): Dry, controlled ride for Periphery's genre-shaping debut setup
+
 ---
 
 **More LLM resources:** 

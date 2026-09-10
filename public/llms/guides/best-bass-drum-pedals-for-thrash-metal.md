@@ -335,6 +335,12 @@ Budget shouldn't stop you either. A Tama Iron Cobra 600 or Pearl P-930 Demonator
 - [Charlie Benante](https://metalforge.io/drummer/charlie-benante) — Tama Speed Cobra — Anthrax's extremely fast double kick technique
 - [Gene Hoglan](https://metalforge.io/drummer/gene-hoglan) — Tama Speed Cobra 910 — The Atomic Clock's metronomic precision
 
+## Featured Drummers
+
+- [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo): Pearl Demon Drive — pioneering thrash metal's double bass drumming style
+- [Gene Hoglan](https://metalforge.io/drummer/gene-hoglan): Pearl Demon Drive — The Atomic Clock's precision across Testament and Dark Angel since 2008
+- [Charlie Benante](https://metalforge.io/drummer/charlie-benante): Tama Speed Cobra — Anthrax's extremely fast double kick technique
+
 ---
 
 **More LLM resources:** 

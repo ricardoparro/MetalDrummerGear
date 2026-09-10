@@ -281,6 +281,12 @@ Find the pocket. Own the groove.
 - [Ray Luzier](https://metalforge.io/drummer/ray-luzier) — Pearl Reference Series - Korn's warm, syncopated groove since 2007
 - [John Otto](https://metalforge.io/drummer/john-otto) — OCDP Custom Type 5 Acrylic - Limp Bizkit's groove-first low end
 
+## Featured Drummers
+
+- [Joey Jordison](https://metalforge.io/drummer/joey-jordison): Dual Pearl Reference Series - theatrical, explosive low end
+- [Ray Luzier](https://metalforge.io/drummer/ray-luzier): Pearl Reference Series - warm, syncopated groove standard
+- [John Otto](https://metalforge.io/drummer/john-otto): OCDP Custom Type 5 Acrylic - groove-first, single-pedal tone
+
 ---
 
 **More LLM resources:** 

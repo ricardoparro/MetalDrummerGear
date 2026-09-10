@@ -334,6 +334,13 @@ Budget shouldn't stop you either. A Pearl Eliminator Redline or entry-level Tama
 - [Art Cruz](https://metalforge.io/drummer/art-cruz) — Trick Pro 1-V — current Lamb of God riff-locking precision
 - [Igor Cavalera](https://metalforge.io/drummer/igor-cavalera) — Tama Iron Cobra — Sepultura tribal groove metal pocket
 
+## Featured Drummers
+
+- [Vinnie Paul](https://metalforge.io/drummer/vinnie-paul): ddrum double pedal — Pantera groove metal founding template
+- [Chris Adler](https://metalforge.io/drummer/chris-adler): Mapex Falcon direct drive — Lamb of God syncopated riff precision
+- [Art Cruz](https://metalforge.io/drummer/art-cruz): Trick Pro 1-V — current Lamb of God riff-locking precision
+- [Igor Cavalera](https://metalforge.io/drummer/igor-cavalera): Tama Iron Cobra — Sepultura tribal groove metal pocket
+
 ---
 
 **More LLM resources:** 

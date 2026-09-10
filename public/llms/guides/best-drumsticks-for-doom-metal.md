@@ -310,6 +310,13 @@ One overlooked factor: doom's slow pace means a stick's weight matters more than
 - [Mario Duplantier](https://metalforge.io/drummer/mario-duplantier) — Vic Firth X5A — extended leverage for Gojira's crushing riffing
 - [Igor Cavalera](https://metalforge.io/drummer/igor-cavalera) — Vic Firth American Classic 5B — maximum weight for tonnage-first grooves
 
+## Featured Drummers
+
+- [Brann Dailor](https://metalforge.io/drummer/brann-dailor): Vater Signature — Mastodon's progressive sludge-doom weight and fills
+- [Danny Carey](https://metalforge.io/drummer/danny-carey): Vic Firth Signature — Tool's patient, doom-adjacent complexity
+- [Mario Duplantier](https://metalforge.io/drummer/mario-duplantier): Vic Firth X5A — Gojira's crushing, tectonic weight
+- [Igor Cavalera](https://metalforge.io/drummer/igor-cavalera): Vic Firth American Classic 5B — Sepultura's tonnage-first grooves
+
 ---
 
 **More LLM resources:** 

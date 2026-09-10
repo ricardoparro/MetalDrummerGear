@@ -313,6 +313,13 @@ Start with an accessible, warm-toned kit like the Pearl Export to build your sen
 - [Mario Duplantier](https://metalforge.io/drummer/mario-duplantier) — Tama Starclassic Bubinga — atmospheric, environmentally-themed weight
 - [Abe Cunningham](https://metalforge.io/drummer/abe-cunningham) — SJC Custom — Deftones' explicitly "heavy and ambient" sound
 
+## Featured Drummers
+
+- [Brann Dailor](https://metalforge.io/drummer/brann-dailor): Tama Starclassic Performer B/B — warm, jazz-influenced dynamic range
+- [Danny Carey](https://metalforge.io/drummer/danny-carey): Sonor SQ2 Heavy Beech — cinematic ambient-to-crushing range
+- [Mario Duplantier](https://metalforge.io/drummer/mario-duplantier): Tama Starclassic Bubinga — atmospheric, environmentally-themed weight
+- [Abe Cunningham](https://metalforge.io/drummer/abe-cunningham): Tama Starclassic Maple/Bubinga — Deftones' explicitly "heavy and ambient" sound
+
 ---
 
 **More LLM resources:** 

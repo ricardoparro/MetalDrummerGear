@@ -314,6 +314,13 @@ Start where your budget allows — even a Tama Imperialstar or Sonor AQ2 will ge
 - [Nicko McBrain](https://metalforge.io/drummer/nicko-mcbrain) — Sonor SQ1/SQ2 — Iron Maiden galloping foundation
 - [Mikkey Dee](https://metalforge.io/drummer/mikkey-dee) — Pearl Reference Series — Motörhead/Scorpions touring stamina
 
+## Featured Drummers
+
+- [Scott Travis](https://metalforge.io/drummer/scott-travis): ddrum Dominion Series — Judas Priest power metal blueprint
+- [Aquiles Priester](https://metalforge.io/drummer/aquiles-priester): Mapex Saturn Evolution All Maple — Angra neoclassical double-bass precision
+- [Nicko McBrain](https://metalforge.io/drummer/nicko-mcbrain): British Drum Co. — Iron Maiden galloping foundation
+- [Mikkey Dee](https://metalforge.io/drummer/mikkey-dee): Sonor SQ2 — Motörhead/Scorpions touring stamina
+
 ---
 
 **More LLM resources:** 

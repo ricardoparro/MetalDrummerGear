@@ -345,6 +345,12 @@ Whichever path you choose, tune lower than other metal subgenres would suggest, 
 - [Igor Cavalera](https://metalforge.io/drummer/igor-cavalera) — Pearl Reference Pure — Sepultura tribal, down-tuned free-resonance weight
 - [Shannon Larkin](https://metalforge.io/drummer/shannon-larkin) — ddrum Dios Series — Godsmack sludge-influenced hard rock weight
 
+## Featured Drummers
+
+- [Mario Duplantier](https://metalforge.io/drummer/mario-duplantier): Dual-kick Tama Starclassic Bubinga — maximum sludge-adjacent low-end resonance
+- [Brann Dailor](https://metalforge.io/drummer/brann-dailor): Tama Starclassic Performer B/B — Mastodon sludge metal's most direct working analogue
+- [Igor Cavalera](https://metalforge.io/drummer/igor-cavalera): ddrum Hybrid Kit — Cavalera Conspiracy tribal, down-tuned focused-punch weight
+
 ---
 
 **More LLM resources:** 

@@ -316,6 +316,12 @@ Budget shouldn't stop you either. A Pearl Export or Tama Imperialstar snare will
 - [John Otto](https://metalforge.io/drummer/john-otto) — OCDP custom maple/ash snare — Limp Bizkit groove-first sound
 - [Ray Luzier](https://metalforge.io/drummer/ray-luzier) — Pearl Reference brass — Korn syncopated grooves
 
+## Featured Drummers
+
+- [Joey Jordison](https://metalforge.io/drummer/joey-jordison): Pearl Free-Floating Steel — Slipknot's aggressive nu-metal attack
+- [John Otto](https://metalforge.io/drummer/john-otto): OCDP custom maple/ash snare — Limp Bizkit groove-first sound
+- [Ray Luzier](https://metalforge.io/drummer/ray-luzier): Pearl Reference brass — Korn syncopated grooves
+
 ---
 
 **More LLM resources:** 

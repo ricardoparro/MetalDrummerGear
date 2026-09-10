@@ -286,6 +286,12 @@ Whichever you choose, remember that symphonic metal's most acclaimed recordings 
 - [Hellhammer](https://metalforge.io/drummer/hellhammer) — Zildjian A Custom / Z Custom Dark Ride — Mayhem and Dimmu Borgir symphonic versatility
 - [Frost](https://metalforge.io/drummer/frost) — Zildjian A Custom / K Custom Dark — Satyricon dynamic control
 
+## Featured Drummers
+
+- [Daray](https://metalforge.io/drummer/daray): Paiste RUDE & 2002 Series for full-orchestra symphonic black metal projection
+- [Hellhammer](https://metalforge.io/drummer/hellhammer): Zildjian A Custom / Z Custom Dark Ride for symphonic versatility
+- [Frost](https://metalforge.io/drummer/frost): Zildjian A Custom / K Custom Dark for dynamic control
+
 ---
 
 **More LLM resources:** 

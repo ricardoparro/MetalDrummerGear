@@ -312,6 +312,11 @@ Start with one dry, controlled crash in the 18"-20" range, and add a second, bri
 - [Ben Koller](https://metalforge.io/drummer/ben-koller) — Zildjian K Dark Medium Thin Crash — Converge's hardcore/mathcore intensity
 - [George Kollias](https://metalforge.io/drummer/george-kollias) — Zildjian K Custom Dark Crash — Nile's 240+ BPM blast-beat benchmark
 
+## Featured Drummers
+
+- [Chris Turner](https://metalforge.io/drummer/chris-turner): Meinl Byzance Extra Dry Medium Crash — Oceans Ate Alaska's blast-beat-driven precision
+- [George Kollias](https://metalforge.io/drummer/george-kollias): Zildjian K Custom Dark Crash — Nile's 240+ BPM blast-beat benchmark
+
 ---
 
 **More LLM resources:** 

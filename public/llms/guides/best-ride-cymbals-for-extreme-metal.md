@@ -310,6 +310,12 @@ Start with one durable, fast-attack ride in the 21"-22" range, and prioritize co
 - [Derek Roddy](https://metalforge.io/drummer/derek-roddy) — Meinl Byzance Raw Bell Dark Ride — one-footed blast durability
 - [Gene Hoglan](https://metalforge.io/drummer/gene-hoglan) — Sabian AAX Ride — The Atomic Clock's precision punch
 
+## Featured Drummers
+
+- [George Kollias](https://metalforge.io/drummer/george-kollias): Zildjian A Custom Mega Bell Ride — Nile's 240+ BPM blast beat endurance
+- [Pete Sandoval](https://metalforge.io/drummer/pete-sandoval): Sabian AAX Raw Bell Dry Ride — pioneer of the gravity blast technique
+- [Derek Roddy](https://metalforge.io/drummer/derek-roddy): Meinl Byzance Raw Bell Dark Ride — one-footed blast durability
+
 ---
 
 **More LLM resources:** 

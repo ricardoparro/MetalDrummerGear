@@ -287,6 +287,11 @@ Whatever you choose: dial in your tension for the buried stroke first, then buil
 - [Pete Sandoval](https://metalforge.io/drummer/pete-sandoval) — Pioneering blast beat pedal technique with Morbid Angel
 - [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo) — Pearl Demon Drive for the speed and precision behind "Reign in Blood"
 
+## Featured Drummers
+
+- [George Kollias](https://metalforge.io/drummer/george-kollias): Sustaining 240+ BPM buried-beater blast beats with Nile
+- [Gene Hoglan](https://metalforge.io/drummer/gene-hoglan): The Atomic Clock's technically precise kick technique across Death and Testament
+
 ---
 
 **More LLM resources:** 

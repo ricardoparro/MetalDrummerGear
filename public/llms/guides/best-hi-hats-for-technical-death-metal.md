@@ -305,6 +305,13 @@ Whatever you choose, prioritize dry voicing and fast open/close response over fl
 - [Flo Mounier](https://metalforge.io/drummer/flo-mounier) — Sabian HHX Stage Hi-Hats — Cryptopsy gravity-blast technique
 - [Derek Roddy](https://metalforge.io/drummer/derek-roddy) — Meinl Byzance Heavy Hi-Hats — Hate Eternal one-footed blast technique
 
+## Featured Drummers
+
+- [George Kollias](https://metalforge.io/drummer/george-kollias): 14" Zildjian K Mastersound Hi-Hats — Nile dry articulation at extreme speed
+- [Hannes Grossmann](https://metalforge.io/drummer/hannes-grossmann): Meinl Byzance Traditional Hi-Hats — Obscura odd-meter precision
+- [Flo Mounier](https://metalforge.io/drummer/flo-mounier): Sabian HHX Stage Hi-Hats — Cryptopsy gravity-blast technique
+- [Derek Roddy](https://metalforge.io/drummer/derek-roddy): Meinl Byzance Heavy Hi-Hats — Hate Eternal one-footed blast technique
+
 ---
 
 **More LLM resources:** 

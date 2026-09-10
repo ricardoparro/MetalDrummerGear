@@ -334,6 +334,12 @@ Start with a 16" crash and an 18" crash. Then practice until your blast beats so
 - [Flo Mounier](https://metalforge.io/drummer/flo-mounier) — Paiste 2002 Crash — controlled chaos at 270 BPM
 - [Pete Sandoval](https://metalforge.io/drummer/pete-sandoval) — Zildjian A Custom Crash — hyper-blast articulation pioneer
 
+## Featured Drummers
+
+- [George Kollias](https://metalforge.io/drummer/george-kollias): Zildjian K Custom Dark Crash for extreme cutting power at 280 BPM
+- [Flo Mounier](https://metalforge.io/drummer/flo-mounier): Sabian AAX/HHX Crash — controlled chaos at 270 BPM
+- [Pete Sandoval](https://metalforge.io/drummer/pete-sandoval): Zildjian A Custom Crash for hyper-blast articulation
+
 ---
 
 **More LLM resources:** 

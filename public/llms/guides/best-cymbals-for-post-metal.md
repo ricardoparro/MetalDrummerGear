@@ -314,6 +314,13 @@ Start with a budget HCS Dark or Planet Z set to build your sense of dynamics, an
 - [Mario Duplantier](https://metalforge.io/drummer/mario-duplantier) — Zildjian sprawling setup — atmospheric compositional depth
 - [Abe Cunningham](https://metalforge.io/drummer/abe-cunningham) — Zildjian K Custom & A Custom — Deftones' "heavy and ambient" identity
 
+## Featured Drummers
+
+- [Brann Dailor](https://metalforge.io/drummer/brann-dailor): Meinl Byzance — warm resonance across restraint and crushing weight
+- [Danny Carey](https://metalforge.io/drummer/danny-carey): Paiste Signature — cinematic range from whisper to full volume
+- [Mario Duplantier](https://metalforge.io/drummer/mario-duplantier): Zildjian sprawling setup — atmospheric compositional depth
+- [Abe Cunningham](https://metalforge.io/drummer/abe-cunningham): Zildjian K Custom & A Custom — Deftones' "heavy and ambient" identity
+
 ---
 
 **More LLM resources:** 

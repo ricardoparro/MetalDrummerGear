@@ -281,6 +281,12 @@ Start with a 22"x17"-18" maple shell and a quality single or double pedal — it
 - [Nicko McBrain](https://metalforge.io/drummer/nicko-mcbrain) — Sonor SQ1 — Iron Maiden galloping foundation on a single pedal
 - [Mikkey Dee](https://metalforge.io/drummer/mikkey-dee) — Pearl Reference Series — Motörhead/Scorpions touring stamina
 
+## Featured Drummers
+
+- [Scott Travis](https://metalforge.io/drummer/scott-travis): ddrum Dominion Series — Judas Priest power metal blueprint
+- [Aquiles Priester](https://metalforge.io/drummer/aquiles-priester): Mapex Saturn Evolution All Maple — Angra neoclassical double-bass precision
+- [Nicko McBrain](https://metalforge.io/drummer/nicko-mcbrain): British Drum Co. — Iron Maiden galloping foundation on a single pedal
+
 ---
 
 **More LLM resources:** 

@@ -315,6 +315,13 @@ Budget shouldn't stop you either. A Pearl Export or Tama Imperialstar snare will
 - [Matt Garstka](https://metalforge.io/drummer/matt-garstka) — Pearl Reference — Animals as Leaders instrumental djent clarity
 - [Blake Richardson](https://metalforge.io/drummer/blake-richardson) — BTBAM kit snare — prog-djent dynamic range and crisp cut
 
+## Featured Drummers
+
+- [Tomas Haake](https://metalforge.io/drummer/tomas-haake): Sonor Tomas Haake Signature 14x6.5" — Meshuggah djent founding polyrhythmic crack
+- [Matt Halpern](https://metalforge.io/drummer/matt-halpern): Pearl Reference Pure — Periphery prog-djent crisp precision
+- [Matt Garstka](https://metalforge.io/drummer/matt-garstka): Pearl Reference — Animals as Leaders instrumental djent clarity
+- [Blake Richardson](https://metalforge.io/drummer/blake-richardson): BTBAM kit snare — prog-djent dynamic range and crisp cut
+
 ---
 
 **More LLM resources:** 

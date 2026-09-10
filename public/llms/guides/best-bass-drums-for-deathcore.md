@@ -314,6 +314,13 @@ Budget shouldn't stop you either. A Pearl Export bass drum with a Tama Iron Cobr
 - [Derek Roddy](https://metalforge.io/drummer/derek-roddy) — DW Collector's + Axis Longboard — swivel-technique 260+ BPM platform
 - [Tim Yeung](https://metalforge.io/drummer/tim-yeung) — Pearl/Tama + Demon Drive — Divine Heresy's deathcore-leaning speed
 
+## Featured Drummers
+
+- [George Kollias](https://metalforge.io/drummer/george-kollias): Pearl Masterworks + Demon XR — Nile's 240+ BPM blast-to-breakdown standard
+- [Flo Mounier](https://metalforge.io/drummer/flo-mounier): Tama Starclassic + Speed Cobra — Cryptopsy's direct deathcore lineage
+- [Derek Roddy](https://metalforge.io/drummer/derek-roddy): Tama Starclassic Bubinga + Speed Cobra 910 — swivel-technique 260+ BPM platform
+- [Tim Yeung](https://metalforge.io/drummer/tim-yeung): Pearl/Tama + Demon Drive — Divine Heresy's deathcore-leaning speed
+
 ---
 
 **More LLM resources:** 

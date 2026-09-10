@@ -306,6 +306,13 @@ Whatever you choose, prioritize dynamic range over raw speed — the hi-hat has 
 - [Mario Duplantier](https://metalforge.io/drummer/mario-duplantier) — Zildjian K Sweet & A Custom Hi-Hats — Gojira atmospheric, tectonic weight
 - [Abe Cunningham](https://metalforge.io/drummer/abe-cunningham) — Zildjian K Custom Hi-Hats — Deftones "heavy and ambient" identity
 
+## Featured Drummers
+
+- [Brann Dailor](https://metalforge.io/drummer/brann-dailor): Meinl Byzance Dark Hi-Hats — Mastodon restraint-to-weight dynamic range
+- [Danny Carey](https://metalforge.io/drummer/danny-carey): Paiste Signature Sound Edge Hi-Hats — Tool whisper-to-crescendo range
+- [Mario Duplantier](https://metalforge.io/drummer/mario-duplantier): Zildjian K Sweet & A Custom Hi-Hats — Gojira atmospheric weight
+- [Abe Cunningham](https://metalforge.io/drummer/abe-cunningham): Zildjian K Custom Hi-Hats — Deftones' "heavy and ambient" identity
+
 ---
 
 **More LLM resources:** 

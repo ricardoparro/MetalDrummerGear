@@ -315,6 +315,12 @@ Budget shouldn't stop you either. A Tama Imperialstar or Pearl Export kit will t
 - [Isaac Lamb](https://metalforge.io/drummer/isaac-lamb) — SJC Custom Drums — Kublai Khan TX's crushing breakdown weight
 - [Ben Koller](https://metalforge.io/drummer/ben-koller) — Tama Starclassic Performer B/B — Converge's hardcore/mathcore intensity
 
+## Featured Drummers
+
+- [Chris Turner](https://metalforge.io/drummer/chris-turner): Tama Starclassic Maple/Birch — Oceans Ate Alaska's blast-beat-driven precision
+- [George Kollias](https://metalforge.io/drummer/george-kollias): Pearl Masterworks Stadium Exotic — Nile's 240+ BPM blast-beat benchmark
+- [Ben Koller](https://metalforge.io/drummer/ben-koller): Tama Starclassic Performer B/B — Converge's hardcore/mathcore intensity
+
 ---
 
 **More LLM resources:** 

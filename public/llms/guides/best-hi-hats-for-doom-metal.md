@@ -303,6 +303,13 @@ Whatever you choose, prioritize dark voicing and closed chick control over flash
 - [Mario Duplantier](https://metalforge.io/drummer/mario-duplantier) — Zildjian K Sweet & A Custom Hi-Hats — Gojira down-tuned, tectonic weight
 - [Igor Cavalera](https://metalforge.io/drummer/igor-cavalera) — Paiste RUDE Hi-Hats — Sepultura tribal groove metal aggression
 
+## Featured Drummers
+
+- [Brann Dailor](https://metalforge.io/drummer/brann-dailor): Meinl Byzance Dark Hi-Hats — Mastodon progressive sludge-doom atmosphere
+- [Danny Carey](https://metalforge.io/drummer/danny-carey): Paiste Signature Hi-Hats — Tool slow-building, doom-adjacent dynamics
+- [Mario Duplantier](https://metalforge.io/drummer/mario-duplantier): Zildjian K Sweet & A Custom Hi-Hats — Gojira down-tuned weight
+- [Igor Cavalera](https://metalforge.io/drummer/igor-cavalera): Paiste RUDE Hi-Hats — Sepultura's tribal groove metal aggression
+
 ---
 
 **More LLM resources:** 

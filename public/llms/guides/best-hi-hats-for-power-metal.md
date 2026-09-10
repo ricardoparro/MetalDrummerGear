@@ -305,6 +305,12 @@ Whatever you choose, prioritize clean articulation and dynamic range over flashy
 - [Nicko McBrain](https://metalforge.io/drummer/nicko-mcbrain) — Paiste Signature Hi-Hats — Iron Maiden's galloping triplet foundation
 - [Mikkey Dee](https://metalforge.io/drummer/mikkey-dee) — Paiste 2002 Hi-Hats — Motörhead/Scorpions touring endurance
 
+## Featured Drummers
+
+- [Scott Travis](https://metalforge.io/drummer/scott-travis): Paiste RUDE Hi-Hats — Judas Priest, Paiste endorsement since 1987
+- [Aquiles Priester](https://metalforge.io/drummer/aquiles-priester): Custom Red-Coated Paiste Hi-Hats — Angra's neoclassical double-bass consistency
+- [Nicko McBrain](https://metalforge.io/drummer/nicko-mcbrain): Paiste Signature Hi-Hats — Iron Maiden's galloping triplet foundation
+
 ---
 
 **More LLM resources:** 

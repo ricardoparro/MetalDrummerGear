@@ -315,6 +315,13 @@ Budget shouldn't stop you either. A Zildjian S Family Dark or Sabian XSR Monarch
 - [Mario Duplantier](https://metalforge.io/drummer/mario-duplantier) — Paiste 2002/602 — Gojira crushing, tectonic weight
 - [Igor Cavalera](https://metalforge.io/drummer/igor-cavalera) — Paiste RUDE Series — Sepultura tribal, down-tuned heaviness
 
+## Featured Drummers
+
+- [Brann Dailor](https://metalforge.io/drummer/brann-dailor): Meinl Mb20 & Mb8 Series — Mastodon progressive sludge-doom darkness
+- [Danny Carey](https://metalforge.io/drummer/danny-carey): Paiste Signature Dry Heavy Ride — Tool atmospheric weight
+- [Mario Duplantier](https://metalforge.io/drummer/mario-duplantier): Zildjian K/A/Z Custom — Gojira crushing, tectonic weight
+- [Igor Cavalera](https://metalforge.io/drummer/igor-cavalera): Paiste RUDE Series — Sepultura tribal, down-tuned heaviness
+
 ---
 
 **More LLM resources:** 

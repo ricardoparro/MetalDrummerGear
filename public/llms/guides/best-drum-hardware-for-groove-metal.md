@@ -322,6 +322,12 @@ Simplicity and stability win over size in groove metal, every single time.
 - [Chris Adler](https://metalforge.io/drummer/chris-adler) — Flagship-grade stands for a lean, road-hardened Lamb of God rig
 - [Shannon Larkin](https://metalforge.io/drummer/shannon-larkin) — Decades of Godsmack touring on dependable, standard hardware
 
+## Featured Drummers
+
+- [Vinnie Paul](https://metalforge.io/drummer/vinnie-paul): Pantera-style minimalist, stable pocket-kit hardware
+- [Chris Adler](https://metalforge.io/drummer/chris-adler): Flagship durability for a lean, hard-touring groove rig
+- [Shannon Larkin](https://metalforge.io/drummer/shannon-larkin): Standard hardware pack proven across decades of touring
+
 ---
 
 **More LLM resources:** 

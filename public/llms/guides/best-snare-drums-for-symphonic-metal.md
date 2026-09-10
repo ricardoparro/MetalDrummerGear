@@ -317,6 +317,13 @@ Budget shouldn't stop you either. A Pearl Export or Sonor AQ2 snare will teach r
 - [Jaska Raatikainen](https://metalforge.io/drummer/jaska-raatikainen) — Pearl Masters 14x5.5" Maple — Children of Bodom keyboard-orchestrated precision
 - [Hellhammer](https://metalforge.io/drummer/hellhammer) — Pearl Reference 14x6.5" Steel — Mayhem and Dimmu Borgir symphonic versatility
 
+## Featured Drummers
+
+- [Daray](https://metalforge.io/drummer/daray): Pearl Reference 14x5.5" Brass — Dimmu Borgir full-orchestra brightness
+- [Frost](https://metalforge.io/drummer/frost): Tama Starclassic Bubinga 14x5.5" — Satyricon dynamic precision
+- [Jaska Raatikainen](https://metalforge.io/drummer/jaska-raatikainen): Pearl Masters 14x5.5" Maple — Children of Bodom keyboard-orchestrated precision
+- [Hellhammer](https://metalforge.io/drummer/hellhammer): Sonor SQ2 14x5.5" Maple — Mayhem and Dimmu Borgir symphonic versatility
+
 ---
 
 **More LLM resources:** 

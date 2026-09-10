@@ -310,6 +310,12 @@ Budget shouldn't stop you either. A Tama Imperialstar or Pearl Export steel snar
 - [Isaac Lamb](https://metalforge.io/drummer/isaac-lamb) — SJC Custom Snare — Kublai Khan TX's crushing breakdown weight
 - [Ben Koller](https://metalforge.io/drummer/ben-koller) — Tama S.L.P. — Converge's hardcore/mathcore intensity
 
+## Featured Drummers
+
+- [Chris Turner](https://metalforge.io/drummer/chris-turner): Tama S.L.P. Vintage Hammered Steel — Oceans Ate Alaska's blast-beat-driven crack
+- [George Kollias](https://metalforge.io/drummer/george-kollias): Pearl George Kollias Signature — Nile's 240+ BPM blast-beat benchmark
+- [Ben Koller](https://metalforge.io/drummer/ben-koller): Tama S.L.P. — Converge's hardcore/mathcore intensity
+
 ---
 
 **More LLM resources:** 

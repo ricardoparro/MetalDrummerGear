@@ -290,6 +290,11 @@ Start with whichever approach matches your material's demands — groove and dur
 - [John Otto](https://metalforge.io/drummer/john-otto) — Single-pedal setup — Limp Bizkit groove-first approach
 - [Ray Luzier](https://metalforge.io/drummer/ray-luzier) — DW 9002 double pedal — Korn syncopated groove
 
+## Featured Drummers
+
+- [John Otto](https://metalforge.io/drummer/john-otto): Proof groove and feel can matter more than raw double-bass speed
+- [Ray Luzier](https://metalforge.io/drummer/ray-luzier): DW 9002 double pedal — Korn's dense, syncopated grooves
+
 ---
 
 **More LLM resources:** 

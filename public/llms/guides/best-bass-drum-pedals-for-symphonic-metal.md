@@ -252,6 +252,11 @@ Whatever you choose: prioritize consistency first, then build speed and dynamics
 - [Frost](https://metalforge.io/drummer/frost) — Sonor Perfect Balance — dynamic control between blast-beat storms and theatrical restraint
 - [Jaska Raatikainen](https://metalforge.io/drummer/jaska-raatikainen) — Pearl Eliminator — over two decades of reliable Children of Bodom double bass
 
+## Featured Drummers
+
+- [Daray](https://metalforge.io/drummer/daray): Sustained reliability beneath Dimmu Borgir's full-orchestra symphonic black metal
+- [Hellhammer](https://metalforge.io/drummer/hellhammer): Precision engineering across both Mayhem and Dimmu Borgir
+
 ---
 
 **More LLM resources:** 

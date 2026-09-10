@@ -310,6 +310,13 @@ Start with a budget HCS Dark or Planet Z crash to build your sense of dynamics, 
 - [Mario Duplantier](https://metalforge.io/drummer/mario-duplantier) — Zildjian three-crash array — atmospheric compositional depth
 - [Abe Cunningham](https://metalforge.io/drummer/abe-cunningham) — Zildjian K Custom Crash — Deftones' "heavy and ambient" identity
 
+## Featured Drummers
+
+- [Brann Dailor](https://metalforge.io/drummer/brann-dailor): Meinl Byzance Brilliant Heavy Hammered Crash — warm resonance across restraint and crushing weight
+- [Danny Carey](https://metalforge.io/drummer/danny-carey): Paiste Signature Power Crash — cinematic range from whisper to full volume
+- [Mario Duplantier](https://metalforge.io/drummer/mario-duplantier): Zildjian three-crash array — atmospheric compositional depth
+- [Abe Cunningham](https://metalforge.io/drummer/abe-cunningham): Zildjian K Custom Crash — Deftones' "heavy and ambient" identity
+
 ---
 
 **More LLM resources:** 

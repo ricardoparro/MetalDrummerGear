@@ -272,6 +272,12 @@ Whatever you choose, prioritize choked decay and chick precision over natural wa
 - [Matt Halpern](https://metalforge.io/drummer/matt-halpern) — Meinl Pure Alloy Medium 15" Hi-Hats — Periphery dense, palm-muted precision
 - [Travis Orbin](https://metalforge.io/drummer/travis-orbin) — Meinl Byzance Extra Dry Hi-Hats — Periphery's genre-shaping 2010 template
 
+## Featured Drummers
+
+- [Tomas Haake](https://metalforge.io/drummer/tomas-haake): Sabian Signature Compression Hi-Hats — Meshuggah's founding polyrhythmic precision
+- [Matt Halpern](https://metalforge.io/drummer/matt-halpern): Meinl Pure Alloy Medium Hi-Hats — Periphery dense, palm-muted precision
+- [Travis Orbin](https://metalforge.io/drummer/travis-orbin): Meinl Byzance Extra Dry Hi-Hats — Periphery's genre-shaping 2010 template
+
 ---
 
 **More LLM resources:** 

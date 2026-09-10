@@ -315,6 +315,13 @@ Budget shouldn't stop you either. A Pearl Export or Ludwig Acrolite will teach r
 - [Shannon Larkin](https://metalforge.io/drummer/shannon-larkin) — Ddrum Signature — Godsmack sludge-influenced hard rock weight
 - [Mario Duplantier](https://metalforge.io/drummer/mario-duplantier) — Sonor SQ2 custom — Gojira tectonic, sludge-adjacent precision
 
+## Featured Drummers
+
+- [Brann Dailor](https://metalforge.io/drummer/brann-dailor): Tama Starclassic Performer B/B — Mastodon sludge metal's most direct working analogue
+- [Igor Cavalera](https://metalforge.io/drummer/igor-cavalera): Tama S.L.P. G-Maple — Sepultura tribal, down-tuned sludge-adjacent weight
+- [Shannon Larkin](https://metalforge.io/drummer/shannon-larkin): Ddrum Signature — Godsmack sludge-influenced hard rock weight
+- [Mario Duplantier](https://metalforge.io/drummer/mario-duplantier): Tama S.L.P. G-Maple — Gojira technical death metal, down-tuned weight
+
 ---
 
 **More LLM resources:** 

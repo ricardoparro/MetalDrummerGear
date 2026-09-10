@@ -328,6 +328,12 @@ Don't overlook the budget tier — Zildjian ZBT and Sabian AAX both provide genu
 - [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo) — Paiste RUDE Crash — Slayer's explosive crash attack
 - [Charlie Benante](https://metalforge.io/drummer/charlie-benante) — Paiste 2002 Crash — Anthrax's powerful thrash projection
 
+## Featured Drummers
+
+- [Lars Ulrich](https://metalforge.io/drummer/lars-ulrich): Zildjian A Custom Crash — the definitive thrash metal crash sound
+- [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo): Paiste RUDE Crash — Slayer's violent, explosive attack
+- [Charlie Benante](https://metalforge.io/drummer/charlie-benante): Paiste 2002 Crash — Anthrax's powerful thrash riffing projection
+
 ---
 
 **More LLM resources:** 

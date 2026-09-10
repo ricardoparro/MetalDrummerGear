@@ -293,6 +293,12 @@ The Tama Iron Cobra 600 remains the smartest first serious pedal for any metal d
 - [Gene Hoglan](https://metalforge.io/drummer/gene-hoglan) — DW 9000 — The Atomic Clock's precision platform across Death and Testament
 - [Joey Jordison](https://metalforge.io/drummer/joey-jordison) — DW hardware for Slipknot's explosive groove/extreme metal kick
 
+## Featured Drummers
+
+- [Tomas Haake](https://metalforge.io/drummer/tomas-haake): Tama Iron Cobra — the world's most precise polyrhythmic kick technique
+- [George Kollias](https://metalforge.io/drummer/george-kollias): Pearl Demon XR — sustaining 270-280 BPM single-stroke patterns
+- [Gene Hoglan](https://metalforge.io/drummer/gene-hoglan): Pearl Demon Drive — The Atomic Clock's precision platform since 2008
+
 ---
 
 **More LLM resources:** 

@@ -289,6 +289,12 @@ Start with the Tama Iron Cobra 600 if you're building technique on a budget, and
 - [Pete Sandoval](https://metalforge.io/drummer/pete-sandoval) — Tama hardware — pioneered the gravity blast technique
 - [Gene Hoglan](https://metalforge.io/drummer/gene-hoglan) — DW 9000 — The Atomic Clock's precision instrument
 
+## Featured Drummers
+
+- [George Kollias](https://metalforge.io/drummer/george-kollias): Pearl Demon XR — 270-280 BPM single-stroke benchmark
+- [Derek Roddy](https://metalforge.io/drummer/derek-roddy): Tama Speed Cobra 910 — purest chain-drive response available
+- [Pete Sandoval](https://metalforge.io/drummer/pete-sandoval): ddrum hardware — pioneered the gravity blast technique
+
 ---
 
 **More LLM resources:** 

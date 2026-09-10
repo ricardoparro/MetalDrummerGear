@@ -320,6 +320,13 @@ Budget shouldn't stop you either. A Pearl Export bass drum with a Tama Iron Cobr
 - [Charlie Benante](https://metalforge.io/drummer/charlie-benante) — Tama Starclassic + Speed Cobra — Anthrax/Pantera groove metal legacy
 - [John Otto](https://metalforge.io/drummer/john-otto) — OCDP Custom + DW 9000 — Limp Bizkit's hip-hop-influenced groove pocket
 
+## Featured Drummers
+
+- [Vinnie Paul](https://metalforge.io/drummer/vinnie-paul): ddrum Vinnie Paul Signature + chain-drive pedal — Pantera groove metal founding tone
+- [Chris Adler](https://metalforge.io/drummer/chris-adler): Mapex Black Panther + Falcon — Lamb of God syncopated riff precision
+- [Charlie Benante](https://metalforge.io/drummer/charlie-benante): Tama Starclassic + Speed Cobra — Anthrax/Pantera groove metal legacy
+- [John Otto](https://metalforge.io/drummer/john-otto): OCDP Custom + DW 9000 — Limp Bizkit's hip-hop-influenced groove pocket
+
 ---
 
 **More LLM resources:** 

@@ -325,6 +325,12 @@ Whichever direction you go, remember that metalcore's controlled, low-end-focuse
 - [Ben Koller](https://metalforge.io/drummer/ben-koller) — Converge's raw hardcore-metal fury since 1999
 - [Art Cruz](https://metalforge.io/drummer/art-cruz) — Metalcore-honed groove that carried into Lamb of God's modern era
 
+## Featured Drummers
+
+- [Matt Greiner](https://metalforge.io/drummer/matt-greiner): Technical metalcore's precision and dynamic range benchmark
+- [Ben Koller](https://metalforge.io/drummer/ben-koller): Hardcore punk fury fused with metal technicality since 1999
+- [Art Cruz](https://metalforge.io/drummer/art-cruz): Metalcore underground roots powering Lamb of God's groove metal today
+
 ---
 
 **More LLM resources:** 

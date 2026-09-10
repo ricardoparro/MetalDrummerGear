@@ -310,6 +310,12 @@ Start with a budget crash from the family that matches your target sound, and up
 - [Joey Jordison](https://metalforge.io/drummer/joey-jordison) — Paiste RUDE Crash — Slipknot aggressive nu-metal chaos
 - [Ray Luzier](https://metalforge.io/drummer/ray-luzier) — Paiste 2002 Power Crash — Korn bright cutting attack
 
+## Featured Drummers
+
+- [John Otto](https://metalforge.io/drummer/john-otto): Zildjian A Custom Crash — Limp Bizkit groove-focused nu-metal
+- [Joey Jordison](https://metalforge.io/drummer/joey-jordison): Paiste RUDE Crash — Slipknot aggressive nu-metal chaos
+- [Ray Luzier](https://metalforge.io/drummer/ray-luzier): Sabian AAX Series Crash — Korn bright cutting attack
+
 ---
 
 **More LLM resources:** 

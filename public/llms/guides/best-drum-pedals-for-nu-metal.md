@@ -313,6 +313,12 @@ Start with whichever approach matches your material's demands — groove and fee
 - [John Otto](https://metalforge.io/drummer/john-otto) — Single-pedal setup — Limp Bizkit groove-first approach
 - [Ray Luzier](https://metalforge.io/drummer/ray-luzier) — DW 9002 double pedal — Korn syncopated groove
 
+## Featured Drummers
+
+- [Joey Jordison](https://metalforge.io/drummer/joey-jordison): Pearl Demon Drive — Slipknot extreme double-kick and blast-beat work
+- [John Otto](https://metalforge.io/drummer/john-otto): Single-pedal setup — Limp Bizkit groove-first approach
+- [Ray Luzier](https://metalforge.io/drummer/ray-luzier): DW 9002 double pedal — Korn syncopated groove
+
 ---
 
 **More LLM resources:** 

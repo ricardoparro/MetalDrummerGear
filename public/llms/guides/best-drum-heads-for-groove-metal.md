@@ -289,6 +289,12 @@ Start with a coated single-ply head like the Remo Ambassador if you're still bui
 - [Art Cruz](https://metalforge.io/drummer/art-cruz) — Current Lamb of God groove and pocket punch
 - [Igor Cavalera](https://metalforge.io/drummer/igor-cavalera) — Sepultura's tribal-influenced, floor-tom-heavy groove weight
 
+## Featured Drummers
+
+- [Vinnie Paul](https://metalforge.io/drummer/vinnie-paul): The founding, deliberate-placement template for groove metal drum tone
+- [Chris Adler](https://metalforge.io/drummer/chris-adler): Lamb of God's syncopated riff-locking precision standard
+- [Igor Cavalera](https://metalforge.io/drummer/igor-cavalera): Sepultura's tribal groove metal foundation
+
 ---
 
 **More LLM resources:** 

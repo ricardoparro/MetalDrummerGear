@@ -316,6 +316,13 @@ Budget shouldn't stop you either. A Sabian SBR or Meinl HCS set will teach real 
 - [Shannon Larkin](https://metalforge.io/drummer/shannon-larkin) — Sabian AAX X-Plosion — Godsmack explosive, radio-ready punch
 - [Igor Cavalera](https://metalforge.io/drummer/igor-cavalera) — Paiste RUDE/2002 — Sepultura tribal groove metal aggression
 
+## Featured Drummers
+
+- [Vinnie Paul](https://metalforge.io/drummer/vinnie-paul): Sabian AA/AAX with 18" China — groove metal's founding, cutting cymbal voice
+- [Chris Adler](https://metalforge.io/drummer/chris-adler): Meinl Byzance Dark — Lamb of God syncopated riff-locking precision
+- [Shannon Larkin](https://metalforge.io/drummer/shannon-larkin): Sabian AAX X-Plosion — Godsmack explosive, radio-ready punch
+- [Igor Cavalera](https://metalforge.io/drummer/igor-cavalera): Paiste RUDE/2002 — Sepultura tribal groove metal aggression
+
 ---
 
 **More LLM resources:** 

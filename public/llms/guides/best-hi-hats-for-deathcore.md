@@ -301,6 +301,12 @@ Whatever you choose, prioritize durability above almost everything else — deat
 - [Ben Koller](https://metalforge.io/drummer/ben-koller) — Zildjian K Dark Hi-Hats — Converge hardcore and mathcore dynamic range
 - [George Kollias](https://metalforge.io/drummer/george-kollias) — Zildjian K Mastersound 14" Hi-Hats — Nile extreme-speed blast-beat benchmark
 
+## Featured Drummers
+
+- [Chris Turner](https://metalforge.io/drummer/chris-turner): Meinl Byzance Dual Hi-Hats — Oceans Ate Alaska technical blast-beat precision
+- [Ben Koller](https://metalforge.io/drummer/ben-koller): Zildjian K Dark Hi-Hats — Converge hardcore and mathcore dynamic range
+- [George Kollias](https://metalforge.io/drummer/george-kollias): Zildjian K Mastersound Hi-Hats — Nile's extreme-speed blast-beat benchmark
+
 ---
 
 **More LLM resources:** 

@@ -273,6 +273,11 @@ Whatever you choose: build the soft touch first, then let the crescendo take car
 - [Mario Duplantier](https://metalforge.io/drummer/mario-duplantier) — Dual independent Tama Iron Cobra 900 pedals for Gojira's tectonic low end
 - [Abe Cunningham](https://metalforge.io/drummer/abe-cunningham) — DW 9000 dual-chain power and stability for Deftones
 
+## Featured Drummers
+
+- [Brann Dailor](https://metalforge.io/drummer/brann-dailor): Fluid double bass patterns beneath Mastodon's polyrhythmic guitar layers
+- [Danny Carey](https://metalforge.io/drummer/danny-carey): Tool's shifts between delicate restraint and crushing weight
+
 ---
 
 **More LLM resources:** 

@@ -4206,7 +4206,7 @@ export const GEAR_PRICE_HISTORY = {
     albumReference: 'Terra Incognita (2001)',
     profileImage: '/images/drummers/mario-duplantier.webp',
 
-    summary: "Mario Duplantier's 2001 setup behind Gojira's (then Godzilla) debut Terra Incognita — a budget Pearl Export dual-kick rig assembled in Bayonne, France with whatever the fledgling band could afford. The dual 22\" kick configuration Mario established here became the defining foundation of his playing, carrying the tribal tom patterns and jazz-inflected extreme metal vocabulary that would eventually take Gojira from French underground clubs to Gretsch and Tama Starclassic Bubinga endorsements on stadium stages worldwide.",
+    summary: "Mario Duplantier's 2001 setup behind Gojira's (then Godzilla) debut Terra Incognita — a budget Pearl Export dual-kick rig assembled in Bayonne, France with whatever the fledgling band could afford. The dual 22\" kick configuration Mario established here became the defining foundation of his playing, carrying the tribal tom patterns and jazz-inflected extreme metal vocabulary that would eventually take Gojira from French underground clubs to a Tama Starclassic Bubinga endorsement on stadium stages worldwide.",
 
     setup: {
       drums: {
@@ -4310,8 +4310,7 @@ export const GEAR_PRICE_HISTORY = {
 
     priceEvolution: [
       { year: 2001, price: 2828, label: 'Original Purchase', event: 'Terra Incognita recording — Bayonne DIY dual-kick setup' },
-      { year: 2005, price: 9000, label: 'From Mars to Sirius era', event: 'First Gretsch USA Custom endorsement, international breakthrough' },
-      { year: 2012, price: 12500, label: "L'Enfant Sauvage era", event: 'Meinl Byzance cymbal switch, expanded Gretsch rig with 8" rack tom' },
+      { year: 2010, price: 9000, label: 'The Way of All Flesh era', event: 'Signed with Tama drums and switched to Zildjian cymbals during The Way of All Flesh touring cycle' },
       { year: 2021, price: 18000, label: 'Fortitude era', event: 'Switch to Tama Starclassic Bubinga kit; Tama Mario Duplantier signature sticks launched' },
       { year: 2026, price: 5231, label: 'Current adjusted', event: 'Inflation-adjusted value of original 2001 setup' },
     ],
@@ -4319,7 +4318,6 @@ export const GEAR_PRICE_HISTORY = {
     sources: [
       { title: 'Pearl Export Series Catalog', year: 2001, type: 'catalog' },
       { title: 'Modern Drummer — Gojira Feature', year: 2006, type: 'interview' },
-      { title: 'Metal Hammer — Mario Duplantier Interview', year: 2005, type: 'interview' },
       { title: 'Reverb Price Guide — Pearl Export Vintage', year: 2025, type: 'market' },
     ],
 

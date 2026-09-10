@@ -1846,7 +1846,7 @@ export const GEAR_PRICE_HISTORY = {
     albumReference: 'Among the Living (1987)',
     profileImage: '/images/drummers/charlie-benante.webp',
 
-    summary: "Charlie Benante's 1987 thrash metal setup during Anthrax's commercial breakthrough. Built around a Tama Artstar II shell pack with Sabian HH cymbals, this rig defined the tightly controlled yet explosive thrash sound that placed Anthrax at the forefront of the Big 4. Benante was already noted for his clean technique and speed — skills that translated into a setup prizing clarity and projection over sheer volume. The Artstar II's birch shells delivered the bright, punchy attack that made tracks like 'Indians' and 'I Am the Law' instantly recognisable.",
+    summary: "Charlie Benante's 1987 thrash metal setup during Anthrax's commercial breakthrough. Built around a Tama Artstar II shell pack with Paiste 2002 cymbals, this rig defined the tightly controlled yet explosive thrash sound that placed Anthrax at the forefront of the Big 4. Benante was already noted for his clean technique and speed — skills that translated into a setup prizing clarity and projection over sheer volume. The Artstar II's birch shells delivered the bright, punchy attack that made tracks like 'Indians' and 'I Am the Law' instantly recognisable.",
 
     setup: {
       drums: {
@@ -1865,33 +1865,33 @@ export const GEAR_PRICE_HISTORY = {
         },
       },
       snare: {
-        item: 'Pearl Free-Floating Steel 14"x5"',
-        model: 'Free-Floating steel snare',
-        specs: '14"x5" steel shell, free-floating strainer',
+        item: 'Tama Artstar II Steel 14"x6.5"',
+        model: 'Artstar II matching steel snare',
+        specs: '14"x6.5" steel shell, matched to the Artstar II shell pack',
         originalPrice: 200,
         year: 1987,
-        source: 'Pearl catalog pricing 1987, estimated from free-floating series retail',
-        notes: 'The free-floating design eliminated snare-basket contact with the shell for a more open, resonant crack — perfect for the crisp backbeat Benante needed in thrash settings.',
+        source: 'Tama Artstar II professional catalog MSRP 1987, matched-snare pricing estimate',
+        notes: "Benante's Tama endorsement covered the full Artstar II shell pack including a matching steel snare, delivering the crisp, cutting backbeat thrash demanded.",
         vintageValue2026: 400,
         modernEquivalent: {
-          item: 'Pearl Free-Floating Brass 14"x5"',
+          item: 'Tama Charlie Benante Signature 14"x6.5" Stainless Steel',
           price: 550,
-          link: 'pearl-free-floating-brass',
+          link: 'tama-charlie-benante-signature-snare',
         },
       },
       cymbals: {
-        item: 'Sabian HH Series',
-        model: 'Hand Hammered mixed setup',
-        specs: '14" HH Hi-Hats, 16" HH Crash, 18" HH Crash, 20" HH Ride',
+        item: 'Paiste 2002 Series',
+        model: 'CuSn8 bronze mixed setup',
+        specs: '14" 2002 Sound Edge Hi-Hats, 16" 2002 Crash, 18" 2002 Crash, 20" 2002 Ride',
         originalPrice: 450,
         year: 1987,
-        source: 'Sabian HH series 1987 catalog pricing',
-        notes: 'Benante was an early Sabian endorser after the Sabian/Zildjian split in 1981. The hand-hammered B20 bronze delivered complex, trashy overtones suited to the chaotic energy of thrash.',
+        source: 'Paiste 2002 series 1987 catalog pricing',
+        notes: 'Benante has been a Paiste endorser since the 1980s, carrying the partnership through every Anthrax era. The bright, cutting CuSn8 bronze of the 2002 line suited the chaotic energy of thrash.',
         vintageValue2026: 700,
         modernEquivalent: {
-          item: 'Sabian HHX Evolution Set',
+          item: 'Paiste RUDE & 2002 Series Set',
           price: 1100,
-          link: 'sabian-hhx-evolution',
+          link: 'paiste-rude-2002',
         },
       },
       hardware: {
@@ -1951,7 +1951,7 @@ export const GEAR_PRICE_HISTORY = {
     priceEvolution: [
       { year: 1987, price: 2478, label: 'Original Purchase', event: 'Among the Living recording' },
       { year: 1990, price: 2700, label: 'Persistence of Time era', event: 'Anthrax matures thrash sound' },
-      { year: 1994, price: 3200, label: 'Sound of White Noise', event: 'Benante transitions to Pearl' },
+      { year: 1994, price: 3200, label: 'Sound of White Noise', event: 'Benante continues with Tama and Paiste' },
       { year: 2000, price: 4500, label: 'Vintage appreciation', event: 'Tama Artstar II gains collector status' },
       { year: 2010, price: 5500, label: 'Collector interest', event: 'Big 4 reunion boosts Anthrax nostalgia' },
       { year: 2020, price: 6500, label: 'Pandemic premium', event: 'Home studio demand for vintage gear' },
@@ -1961,7 +1961,7 @@ export const GEAR_PRICE_HISTORY = {
     sources: [
       { title: 'Tama Artstar II Professional Catalog', year: 1987, type: 'catalog' },
       { title: 'Modern Drummer — Charlie Benante Interview', year: 1988, type: 'interview' },
-      { title: 'Sabian Artist Profiles — Benante Era', year: 1987, type: 'manufacturer' },
+      { title: 'Paiste Artist Profiles — Benante Era', year: 1987, type: 'manufacturer' },
       { title: 'Reverb Price Guide — Vintage Tama Artstar II', year: 2025, type: 'market' },
     ],
 

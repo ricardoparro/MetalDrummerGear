@@ -480,7 +480,7 @@ Brann Dailor's 2009 setup behind Mastodon's Crack the Skye — widely regarded a
 
 **Active:** 1983–present | **Iconic era:** Among the Living (1987)
 
-Charlie Benante's 1987 thrash metal setup during Anthrax's commercial breakthrough. Built around a Tama Artstar II shell pack with Sabian HH cymbals, this rig defined the tightly controlled yet explosive thrash sound that placed Anthrax at the forefront of the Big 4.
+Charlie Benante's 1987 thrash metal setup during Anthrax's commercial breakthrough. Built around a Tama Artstar II shell pack with Paiste 2002 cymbals, this rig defined the tightly controlled yet explosive thrash sound that placed Anthrax at the forefront of the Big 4.
 
 ### Among the Living Era (1987)
 
@@ -507,7 +507,7 @@ Charlie Benante's 1987 thrash metal setup during Anthrax's commercial breakthrou
 **Price Evolution:**
 - 1987: $2,478 (Original Purchase) — Among the Living recording
 - 1990: $2,700 (Persistence of Time era) — Anthrax matures thrash sound
-- 1994: $3,200 (Sound of White Noise) — Benante transitions to Pearl
+- 1994: $3,200 (Sound of White Noise) — Benante continues with Tama and Paiste
 - 2000: $4,500 (Vintage appreciation) — Tama Artstar II gains collector status
 - 2010: $5,500 (Collector interest) — Big 4 reunion boosts Anthrax nostalgia
 - 2020: $6,500 (Pandemic premium) — Home studio demand for vintage gear
@@ -516,7 +516,7 @@ Charlie Benante's 1987 thrash metal setup during Anthrax's commercial breakthrou
 **Sources:**
 - Tama Artstar II Professional Catalog (1987)
 - Modern Drummer — Charlie Benante Interview (1988)
-- Sabian Artist Profiles — Benante Era (1987)
+- Paiste Artist Profiles — Benante Era (1987)
 - Reverb Price Guide — Vintage Tama Artstar II (2025)
 
 [Full gear profile](https://metalforge.io/drummers/charlie-benante/gear-history)

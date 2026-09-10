@@ -1,12 +1,12 @@
 # Most-Used Drum & Cymbal Brands in Metal
 
-> **Last updated:** 2026-07-25 · **Source:** [MetalForge.io](https://metalforge.io) · [View full study →](https://metalforge.io/studies/most-used-gear-brands-metal)
+> **Last updated:** 2026-09-10 · **Source:** [MetalForge.io](https://metalforge.io) · [View full study →](https://metalforge.io/studies/most-used-gear-brands-metal)
 
 ---
 
 ## Overview
 
-A data-driven breakdown of which drum, cymbal, snare, stick, and pedal brands metal’s professional drummers actually play, counted across the 67 drummers documented on MetalForge.
+A data-driven breakdown of which drum, cymbal, snare, stick, and pedal brands metal’s professional drummers actually play, counted across the 72 drummers documented on MetalForge.
 
 ---
 
@@ -80,4 +80,4 @@ Dataset: 72 verified drummer profiles documented on MetalForge, snapshot dated 2
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

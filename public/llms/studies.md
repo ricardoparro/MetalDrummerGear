@@ -1,6 +1,6 @@
 # MetalForge Studies — Data-Driven Metal Drumming Analysis
 
-> **Last updated:** 2026-07-25 · **Source:** [MetalForge.io](https://metalforge.io) · [View hub →](https://metalforge.io/studies)
+> **Last updated:** 2026-09-10 · **Source:** [MetalForge.io](https://metalforge.io) · [View hub →](https://metalforge.io/studies)
 
 ---
 
@@ -12,7 +12,7 @@ Data-driven studies analyzing gear, technique, and tempo trends across MetalForg
 
 ### [Most-Used Drum & Cymbal Brands in Metal](https://metalforge.io/studies/most-used-gear-brands-metal)
 
-A data-driven breakdown of which drum, cymbal, snare, stick, and pedal brands metal’s professional drummers actually play, counted across the 67 drummers documented on MetalForge.
+A data-driven breakdown of which drum, cymbal, snare, stick, and pedal brands metal’s professional drummers actually play, counted across the 72 drummers documented on MetalForge.
 
 **Headline finding:** Pearl is the most-used drum kit brand in metal, played by 22 of the 72 drummers documented on MetalForge (30.6%).
 
@@ -21,7 +21,7 @@ A data-driven breakdown of which drum, cymbal, snare, stick, and pedal brands me
 
 ### [Metal Tempo by Subgenre: How Fast Is Death Metal, Really?](https://metalforge.io/studies/metal-tempo-by-subgenre)
 
-Average, median, and max BPM for thrash, death, black, and 12 other metal subgenres, computed across the 150 songs in MetalForge’s tempo database, plus the 200+ BPM "hall of speed."
+Average, median, and max BPM for thrash, death, black, and 12 other metal subgenres, computed across the 254 songs in MetalForge’s tempo database, plus the 200+ BPM "hall of speed."
 
 **Headline finding:** Across the 254 songs in MetalForge's tempo database, death metal averages 176.9 BPM, well above the all-genre average of 141.1 BPM.
 
@@ -30,7 +30,7 @@ Average, median, and max BPM for thrash, death, black, and 12 other metal subgen
 
 ### [The Drum Endorsement Landscape in Metal](https://metalforge.io/studies/drum-endorsement-landscape)
 
-Which drum, cymbal, snare, stick, and pedal brands reach the most drummers across MetalForge’s 67-drummer roster, signature-model counts by brand, and kit-brand patterns by genre.
+Which drum, cymbal, snare, stick, and pedal brands reach the most drummers across MetalForge’s 72-drummer roster, signature-model counts by brand, and kit-brand patterns by genre.
 
 **Headline finding:** Vic Firth reaches more metal drummers than any other brand tracked by MetalForge, endorsed by 44 of the 72 documented drummers (61.1%).
 
@@ -39,7 +39,7 @@ Which drum, cymbal, snare, stick, and pedal brands reach the most drummers acros
 
 ### [Metal Drum Kit Configurations: Double Bass vs. Double Pedal](https://metalforge.io/studies/metal-kit-configurations)
 
-How MetalForge’s 67 documented metal drummers set up double-kick sound — physical double bass, double pedal, or twin single pedals — plus cymbal-setup size by genre.
+How MetalForge’s 72 documented metal drummers set up double-kick sound — physical double bass, double pedal, or twin single pedals — plus cymbal-setup size by genre.
 
 **Headline finding:** Double pedal is by far the most common bass-drum configuration among metal drummers, used by 59 of the 72 documented drummers on MetalForge (81.9%).
 
@@ -48,4 +48,4 @@ How MetalForge’s 67 documented metal drummers set up double-kick sound — phy
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

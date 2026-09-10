@@ -1,12 +1,12 @@
 # The Drum Endorsement Landscape in Metal
 
-> **Last updated:** 2026-07-25 · **Source:** [MetalForge.io](https://metalforge.io) · [View full study →](https://metalforge.io/studies/drum-endorsement-landscape)
+> **Last updated:** 2026-09-10 · **Source:** [MetalForge.io](https://metalforge.io) · [View full study →](https://metalforge.io/studies/drum-endorsement-landscape)
 
 ---
 
 ## Overview
 
-Which drum, cymbal, snare, stick, and pedal brands reach the most drummers across MetalForge’s 67-drummer roster, signature-model counts by brand, and kit-brand patterns by genre.
+Which drum, cymbal, snare, stick, and pedal brands reach the most drummers across MetalForge’s 72-drummer roster, signature-model counts by brand, and kit-brand patterns by genre.
 
 ---
 
@@ -33,8 +33,8 @@ Vic Firth reaches more metal drummers than any other brand tracked by MetalForge
 
 | Brand | Signature Models | Example Drummer |
 | --- | --- | --- |
-| Vic Firth | 9 | George Kollias |
 | ProMark | 8 | Dave Lombardo |
+| Vic Firth | 8 | Charlie Benante |
 | Vater | 3 | Jay Weinberg |
 | Tama | 2 | Mario Duplantier |
 | Wincent | 2 | Tomas Haake |
@@ -83,4 +83,4 @@ Dataset: 72 documented drummers, snapshot dated 2026-07-25. Brand reach counts a
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

@@ -181,6 +181,15 @@ function buildKitConfigurations(study, data) {
     unspecified: 'Unspecified',
   };
   const pedalOrder = ['doublePedal', 'doubleBass', 'twinSinglePedals', 'singlePedal', 'unspecified'];
+  const pieceTypeLabels = {
+    'hi-hat': 'Hi-Hats',
+    crash: 'Crashes',
+    ride: 'Rides',
+    china: 'Chinas',
+    splash: 'Splashes',
+    stack: 'Stacks',
+    other: 'Other',
+  };
   const parts = [];
 
   parts.push('## Headline Finding');
@@ -199,11 +208,29 @@ function buildKitConfigurations(study, data) {
       .map((key) => [pedalLabels[key], String(pedalConfig.overall[key]), `${Math.round((pedalConfig.overall[key] / totalDrummers) * 1000) / 10}%`])
   ));
   parts.push('');
+  parts.push('### Pedal Configuration by Genre');
+  parts.push('');
+  parts.push(mdTable(
+    ['Genre', 'Drummers', 'Double Pedal', 'Double Bass', 'Twin Single Pedals', 'Single Pedal', 'Unspecified'],
+    pedalConfig.byGenre.map((g) => [g.genre, String(g.totalDrummers), String(g.doublePedal), String(g.doubleBass), String(g.twinSinglePedals), String(g.singlePedal), String(g.unspecified)])
+  ));
+  parts.push('');
   parts.push('### Cymbal Setup Size by Genre');
   parts.push('');
   parts.push(mdTable(
     ['Genre', 'Drummers (verified)', 'Avg Pieces', 'Median Pieces'],
     cymbalSetupSize.byGenre.map((g) => [g.genre, String(g.datasetSize), String(g.avgPieces), String(g.medianPieces)])
+  ));
+  parts.push('');
+  parts.push(`Roster-wide cymbal setup size ranges from ${cymbalSetupSize.minPieces} to ${cymbalSetupSize.maxPieces} pieces across the ${cymbalSetupSize.datasetSize}-drummer verified subset.`);
+  parts.push('');
+  parts.push('### Cymbal Piece Types, Roster-Wide');
+  parts.push('');
+  parts.push(mdTable(
+    ['Cymbal Type', 'Count Across Roster'],
+    Object.entries(cymbalSetupSize.pieceTypeCounts)
+      .filter(([, count]) => count > 0)
+      .map(([type, count]) => [pieceTypeLabels[type] || type, String(count)])
   ));
   parts.push('');
   parts.push('### Full Shell Configurations (Documented Subset)');

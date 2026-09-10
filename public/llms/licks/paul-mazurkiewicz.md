@@ -29,6 +29,13 @@ Paul Mazurkiewicz is the co-founding drummer of Cannibal Corpse and one of the m
 - Isolate each gear-change and smooth it before combining the full song
 - Keep all technique compact — Mazurkiewicz's power comes from efficiency
 
+### Gear Used
+
+- Pearl Reference Kit (drums)
+- Paiste 2002 Cymbals (cymbals)
+- DW 9002 Double Pedal (hardware)
+- Vic Firth Paul Mazurkiewicz Signature (sticks)
+
 **Core Techniques:** [Blast Beat](https://metalforge.io/techniques/blast-beat), [Double Bass](https://metalforge.io/techniques/double-bass), [Groove](https://metalforge.io/techniques/groove)
 
 ## Tomb of the Mutilated Double-Bass Assault
@@ -51,6 +58,13 @@ The title track of Cannibal Corpse's 1992 record is one of Paul Mazurkiewicz's m
 - Add snare accents only once the kick is completely locked
 - Practise riff stops and tempo changes with a metronome until they are instant
 - Focus on grinding consistency rather than dynamic variety
+
+### Gear Used
+
+- Pearl Reference Kit (drums)
+- Paiste 2002 Cymbals (cymbals)
+- DW 9002 Double Pedal (hardware)
+- Vic Firth Paul Mazurkiewicz Signature (sticks)
 
 **Core Techniques:** [Double Bass](https://metalforge.io/techniques/double-bass), [Blast Beat](https://metalforge.io/techniques/blast-beat), [Groove](https://metalforge.io/techniques/groove)
 
@@ -75,6 +89,13 @@ By 2009 Paul Mazurkiewicz had been Cannibal Corpse's drummer for over two decade
 - Treat every fill as a structural decision — land it and stop cleanly
 - Stay relaxed: Mazurkiewicz's heaviness comes from precision, not force
 
+### Gear Used
+
+- Pearl Reference Kit (drums)
+- Paiste 2002 Cymbals (cymbals)
+- DW 9002 Double Pedal (hardware)
+- Vic Firth Paul Mazurkiewicz Signature (sticks)
+
 **Core Techniques:** [Groove](https://metalforge.io/techniques/groove), [Double Bass](https://metalforge.io/techniques/double-bass), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
 ## Teaching Points
@@ -90,4 +111,4 @@ Paul Mazurkiewicz's style is defined by precision, timing, and genre-defining gr
 
 ---
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

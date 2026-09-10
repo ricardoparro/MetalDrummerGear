@@ -29,6 +29,13 @@ When Mike Mangini joined Dream Theater for 2011's A Dramatic Turn of Events, he 
 - Use a metronome and build double bass evenly, not just quickly
 - Count the odd-time sections out loud until the pulse feels natural
 
+### Gear Used
+
+- Pearl Reference Series Kit (drums)
+- Sabian HHX & AAX Cymbals (cymbals)
+- Pearl Demon Drive Double Pedal (hardware)
+- Vater Mike Mangini Wicked Piston (sticks)
+
 **Core Techniques:** [Double Bass](https://metalforge.io/techniques/double-bass), [Odd Time Signatures](https://metalforge.io/techniques/odd-time-signatures), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
 ## The Looking Glass Linear Fills & Coordination
@@ -52,6 +59,13 @@ When Mike Mangini joined Dream Theater for 2011's A Dramatic Turn of Events, he 
 - Practise dropping fills into a simple groove to keep them musical
 - Prioritise taste — let the song decide where the fills go
 
+### Gear Used
+
+- Pearl Reference Series Kit (drums)
+- Sabian HHX & AAX Cymbals (cymbals)
+- Pearl Demon Drive Double Pedal (hardware)
+- Vater Mike Mangini Wicked Piston (sticks)
+
 **Core Techniques:** [Double Bass](https://metalforge.io/techniques/double-bass), [Polyrhythms](https://metalforge.io/techniques/polyrhythms), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
 ## Breaking All Illusions Odd-Time Mastery
@@ -74,6 +88,13 @@ The twelve-minute epic "Breaking All Illusions" is the most ambitious track on A
 - Break shifting meters into smaller cells to keep your place
 - Practise each odd-time passage slowly until it's internalised
 - Build stamina with longer reps before chasing the full arrangement
+
+### Gear Used
+
+- Pearl Reference Series Kit (drums)
+- Sabian HHX & AAX Cymbals (cymbals)
+- Pearl Demon Drive Double Pedal (hardware)
+- Vater Mike Mangini Wicked Piston (sticks)
 
 **Core Techniques:** [Odd Time Signatures](https://metalforge.io/techniques/odd-time-signatures), [Double Bass](https://metalforge.io/techniques/double-bass), [Polyrhythms](https://metalforge.io/techniques/polyrhythms)
 
@@ -102,6 +123,13 @@ What makes this a defining Mangini study is his insistence on mechanical evennes
 - Use a mirror to watch both wrists — any asymmetry between hands at slow tempo will amplify at speed
 - Increase tempo in 5 BPM increments and return to the previous tempo if evenness breaks down
 
+### Gear Used
+
+- Pearl Reference Series Kit (drums)
+- Sabian HHX & AAX Cymbals (cymbals)
+- Pearl Demon Drive Double Pedal (hardware)
+- Vater Mike Mangini Wicked Piston (sticks)
+
 **Core Techniques:** [Paradiddles](https://metalforge.io/techniques/paradiddles), [Odd Time Signatures](https://metalforge.io/techniques/odd-time-signatures), [Double Bass](https://metalforge.io/techniques/double-bass)
 
 ## Bridges in the Sky 5-over-4 Polyrhythm
@@ -128,6 +156,13 @@ Mangini's clinic materials address this kind of polyrhythmic construction with c
 - Tap each hand independently — right hand on five-note groups, left foot on the underlying four — before combining all limbs
 - Record yourself and listen for whether the accent on beat one of each five-note group is consistently audible
 - Practise the pattern in a musical context at half tempo before approaching the song's BPM
+
+### Gear Used
+
+- Pearl Reference Series Kit (drums)
+- Sabian HHX & AAX Cymbals (cymbals)
+- Pearl Demon Drive Double Pedal (hardware)
+- Vater Mike Mangini Wicked Piston (sticks)
 
 **Core Techniques:** [Polyrhythms](https://metalforge.io/techniques/polyrhythms), [Odd Time Signatures](https://metalforge.io/techniques/odd-time-signatures), [Double Bass](https://metalforge.io/techniques/double-bass)
 
@@ -156,6 +191,13 @@ The approach Mangini prescribes for this kind of material is his standard system
 - Practise single-stroke rolls daily at various tempos to build the wrist endurance this fill demands
 - Learn the fill as a musical phrase, not a technique exercise — feel where it comes from and where it resolves
 
+### Gear Used
+
+- Pearl Reference Series Kit (drums)
+- Sabian HHX & AAX Cymbals (cymbals)
+- Pearl Demon Drive Double Pedal (hardware)
+- Vater Mike Mangini Wicked Piston (sticks)
+
 **Core Techniques:** [Fill Techniques](https://metalforge.io/techniques/fill-techniques), [Double Bass](https://metalforge.io/techniques/double-bass), [Speed Technique](https://metalforge.io/techniques/speed-technique)
 
 ## Teaching Points
@@ -171,4 +213,4 @@ Mike Mangini's style is defined by precision, timing, and genre-defining grooves
 
 ---
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

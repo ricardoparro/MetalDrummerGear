@@ -29,6 +29,11 @@ Vinnie Paul is one of Groove Metal / Heavy Metal's most influential drummers, be
 - Resist adding fills; practise leaving space deliberately
 - Play along with the track to internalise the swagger and weight
 
+### Gear Used
+
+- Tama Kit (drums)
+- Sabian AA & AAX Cymbals (cymbals)
+
 **Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
 ## Cowboys from Hell Driving Groove
@@ -51,6 +56,11 @@ Vinnie Paul is one of Groove Metal / Heavy Metal's most influential drummers, be
 - Use a metronome to keep the fast beat from rushing
 - Practise the fills in isolation so they land tight at speed
 - Play along with the live drum cam to copy the feel and energy
+
+### Gear Used
+
+- Tama Kit (drums)
+- Sabian AA & AAX Cymbals (cymbals)
 
 **Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Double Bass](https://metalforge.io/techniques/double-bass), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
@@ -75,6 +85,11 @@ Vinnie Paul is one of Groove Metal / Heavy Metal's most influential drummers, be
 - Use a metronome to keep the double-bass even and free of rushing
 - Study a charted version to map the foot patterns through the breakdown
 
+### Gear Used
+
+- Tama Kit (drums)
+- Sabian AA & AAX Cymbals (cymbals)
+
 **Core Techniques:** [Double Bass](https://metalforge.io/techniques/double-bass), [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
 ## VDoP Syncopated Groove Pocket
@@ -97,6 +112,11 @@ Vinnie Paul is one of Groove Metal / Heavy Metal's most influential drummers, be
 - Add the backbeat only once the kick pattern feels completely natural
 - Use a metronome and work up slowly — the groove has to swing, not just be technically correct
 - Listen to the isolated drum track to hear how the syncopation resolves into the pocket
+
+### Gear Used
+
+- Tama Kit (drums)
+- Sabian AA & AAX Cymbals (cymbals)
 
 **Core Techniques:** [Syncopation](https://metalforge.io/techniques/syncopation), [Groove Drumming](https://metalforge.io/techniques/groove-drumming)
 
@@ -121,6 +141,11 @@ Far Beyond Driven (1994) is the heaviest, most aggressive album Pantera ever mad
 - Use a metronome and build in 5 BPM increments from a comfortable starting point
 - Add the backbeat only once the kick pattern is clean and sustainable at tempo
 
+### Gear Used
+
+- Tama Kit (drums)
+- Sabian AA & AAX Cymbals (cymbals)
+
 **Core Techniques:** [Double Bass](https://metalforge.io/techniques/double-bass), [Groove Drumming](https://metalforge.io/techniques/groove-drumming)
 
 ## Walk Signature Drum Groove
@@ -144,6 +169,11 @@ By the time Pantera mounted the arena runs behind Vulgar Display of Power, Vinni
 - Swing the hi-hat feel very subtly — too straight loses the swagger, too much loses the power
 - Play along with the track and match the weight and attitude before worrying about precision
 
+### Gear Used
+
+- Tama Kit (drums)
+- Sabian AA & AAX Cymbals (cymbals)
+
 **Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
 ## Teaching Points
@@ -159,4 +189,4 @@ Vinnie Paul's style is defined by precision, timing, and genre-defining grooves.
 
 ---
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

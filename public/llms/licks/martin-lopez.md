@@ -35,6 +35,13 @@ For drummers looking to expand their vocabulary beyond raw power and speed, "Ble
 - Map the dynamic arc of the song before attempting it: know which sections breathe and which drive
 - Count the ghost notes with your left hand while the right keeps a steady hi-hat before adding the kick
 
+### Gear Used
+
+- Sonor Designer Series Kit (drums)
+- Sabian HH/AAX Cymbals (cymbals)
+- DW 5000 Double Pedal (hardware)
+- Vic Firth Signature Sticks (sticks)
+
 **Core Techniques:** [Ghost Notes](https://metalforge.io/techniques/ghost-notes), [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
 ## The Drapery Falls Dynamic Architecture
@@ -63,6 +70,13 @@ For students, "The Drapery Falls" is an advanced study in dynamic control, acous
 - Record each transition and compare it to the reference recording to check seamlessness
 - Practise the fill placements in context, always hearing where the next section begins
 - Work on hi-hat touch exercises to develop the full spectrum from featherlight to driving
+
+### Gear Used
+
+- Sonor Designer Series Kit (drums)
+- Sabian HH/AAX Cymbals (cymbals)
+- DW 5000 Double Pedal (hardware)
+- Vic Firth Signature Sticks (sticks)
 
 **Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Fill Techniques](https://metalforge.io/techniques/fill-techniques), [Polyrhythms](https://metalforge.io/techniques/polyrhythms)
 
@@ -93,6 +107,13 @@ For drummers, "Antagonist" is a study in modern progressive metal groove playing
 - Focus on how Lopez voices the hi-hat differently in quieter vs heavier passages
 - Record yourself and compare: the ghost notes should be felt more than heard, supporting but not dominating
 
+### Gear Used
+
+- Noble & Cooley Kit (drums)
+- Zildjian K Constantinople Cymbals (cymbals)
+- Axis Percussion Double Pedal (hardware)
+- Vic Firth Sticks (sticks)
+
 **Core Techniques:** [Ghost Notes](https://metalforge.io/techniques/ghost-notes), [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Odd Time Signatures](https://metalforge.io/techniques/odd-time-signatures)
 
 ## Demon of the Fall Acoustic-to-Electric Opening
@@ -119,6 +140,13 @@ For drummers, the acoustic-to-electric transition in "Demon of the Fall" is a st
 - Practise the acoustic groove separately to build the controlled, restrained feel before combining with the transition
 - Film yourself playing the transition and watch the fill without audio — the body language should show the build clearly
 - Practise the fill's dynamic arc in isolation, just building from pianissimo to fortissimo across eight strokes
+
+### Gear Used
+
+- Sonor Designer Series Kit (drums)
+- Sabian HH/AAX Cymbals (cymbals)
+- DW 5000 Double Pedal (hardware)
+- Vic Firth Signature Sticks (sticks)
 
 **Core Techniques:** [Fill Techniques](https://metalforge.io/techniques/fill-techniques), [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Dynamic Control](https://metalforge.io/techniques/dynamic-control)
 
@@ -147,6 +175,13 @@ For drummers, learning the Blackwater Park shuffle is a lesson in applying jazz 
 - Add the snare, then the bass drum, incrementally — check the shuffle feel survives each addition
 - Record yourself and compare to the album track: if your groove sounds straight, the triplet feel has slipped
 
+### Gear Used
+
+- Sonor Designer Series Kit (drums)
+- Sabian HH/AAX Cymbals (cymbals)
+- DW 5000 Double Pedal (hardware)
+- Vic Firth Signature Sticks (sticks)
+
 **Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Ghost Notes](https://metalforge.io/techniques/ghost-notes), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
 ## Deliverance Blast-Beat Section
@@ -174,6 +209,13 @@ For drummers, the Deliverance blast section is an advanced study in physically d
 - Practise the quiet-to-blast and blast-to-quiet transitions as standalone exercises
 - Listen to isolated drum tracks if available to study the hi-hat texture variation during the blast passages
 
+### Gear Used
+
+- Sonor Designer Series Kit (drums)
+- Sabian HH/AAX Cymbals (cymbals)
+- DW 5000 Double Pedal (hardware)
+- Vic Firth Signature Sticks (sticks)
+
 **Core Techniques:** [Blast Beat](https://metalforge.io/techniques/blast-beat), [Double Bass](https://metalforge.io/techniques/double-bass), [Groove Drumming](https://metalforge.io/techniques/groove-drumming)
 
 ## Teaching Points
@@ -189,4 +231,4 @@ Martin Lopez's style is defined by precision, timing, and genre-defining grooves
 
 ---
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

@@ -27,6 +27,12 @@ Ryan Van Poederooyen's groove on 'Higher' from the Devin Townsend Project's 2016
 - Practice the ride cymbal groove in isolation before adding kick patterns that follow guitar accents
 - The fills should feel unhurried even at tempo — tension comes from restraint, not speed
 
+### Gear Used
+
+- Pearl Reference Series Kit (drums)
+- Sabian AAX/HHX Cymbals (cymbals)
+- Pearl Demon Drive Double Pedal (pedals)
+
 **Core Techniques:** [Progressive Groove](https://metalforge.io/techniques/progressive-groove), [Dynamics](https://metalforge.io/techniques/dynamics), [Tom Patterns](https://metalforge.io/techniques/tom-patterns)
 
 ## Ziltoid Goes Home Odd-Meter Polyrhythm
@@ -47,6 +53,12 @@ The compound-meter groove that anchors 'Ziltoid Goes Home' from the Devin Townse
 - Count out loud: '1-2-3, 1-2, 1-2' to feel the 3+2+2 grouping before picking up sticks
 - Practice the hi-hat accent pattern alone until it feels automatic, then layer the bass drum
 - Record yourself and loop it — an uneven 7/8 groove becomes obvious against itself
+
+### Gear Used
+
+- Pearl Reference Series Kit (drums)
+- Sabian AAX/HHX Cymbals (cymbals)
+- Pearl Demon Drive Double Pedal (pedals)
 
 **Core Techniques:** [Odd Meter](https://metalforge.io/techniques/odd-meter), [Polyrhythm](https://metalforge.io/techniques/polyrhythm), [Progressive Groove](https://metalforge.io/techniques/progressive-groove)
 
@@ -69,6 +81,12 @@ Captured during the studio recording sessions for the Devin Townsend Project's 2
 - Isolate the 2-note rhythmic cell from each fill and practice it at 80 BPM before combining
 - Watch the studio footage for stick height cues — his technique translates directly to tone control
 
+### Gear Used
+
+- Pearl Reference Series Kit (drums)
+- Sabian AAX/HHX Cymbals (cymbals)
+- Pearl Demon Drive Double Pedal (pedals)
+
 **Core Techniques:** [Studio Precision](https://metalforge.io/techniques/studio-precision), [Progressive Fills](https://metalforge.io/techniques/progressive-fills), [Dynamics](https://metalforge.io/techniques/dynamics)
 
 ## Teaching Points
@@ -84,4 +102,4 @@ Ryan Van Poederooyen's style is defined by precision, timing, and genre-defining
 
 ---
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

@@ -29,6 +29,13 @@ John Longstreth is one of Technical Death Metal / Brutal Death Metal's most infl
 - Practice the one-handed roll separately before integrating it into transitional fills
 - Focus on endurance training for the feet — this pattern must hold up across a full song length
 
+### Gear Used
+
+- Pearl Drums (drums)
+- Meinl Classics Custom Dark Cymbals (cymbals)
+- ACD Unlimited Pedals with FootBlaster Triggers (hardware)
+- Scorpion Percussion "Wee Heavy" Signature Sticks (sticks)
+
 **Core Techniques:** [Blast Beat](https://metalforge.io/techniques/blast-beat), [Double Bass](https://metalforge.io/techniques/double-bass), [One Handed Roll](https://metalforge.io/techniques/one-handed-roll)
 
 ## Teaching Points
@@ -44,4 +51,4 @@ John Longstreth's style is defined by precision, timing, and genre-defining groo
 
 ---
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

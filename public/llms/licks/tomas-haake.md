@@ -29,6 +29,12 @@ The polyrhythmic grid underlying Bleed from Meshuggah's 2008 album obZen is one 
 - Keep the feet completely relaxed and even while focusing mental attention on the hand pattern
 - Study this polyrhythmic aspect alongside the endurance aspect — they are complementary, not the same skill
 
+### Gear Used
+
+- Sonor SQ2 Drum Kit (drums)
+- Sabian Cymbals (cymbals)
+- Tama Speed Cobra Pedals (pedals)
+
 **Core Techniques:** [Polyrhythms](https://metalforge.io/techniques/polyrhythms), [Ostinato](https://metalforge.io/techniques/ostinato), [Limb Independence](https://metalforge.io/techniques/limb-independence)
 
 ## Koloss I Am Colossus Groove
@@ -51,6 +57,12 @@ I Am Colossus, the opening track from Meshuggah's 2012 album Koloss, presents wh
 - Count the riff cycle length until you can predict the resolution without consciously tracking it
 - Learn I Am Colossus before New Millennium Cyanide Christ and before Bleed — build the vocabulary in order
 - Play along with the album recording to feel how the groove locks against the guitars in full context
+
+### Gear Used
+
+- Sonor SQ2 Drum Kit (drums)
+- Sabian Cymbals (cymbals)
+- Tama Speed Cobra Pedals (pedals)
 
 **Core Techniques:** [Polyrhythms](https://metalforge.io/techniques/polyrhythms), [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Odd Time Signatures](https://metalforge.io/techniques/odd-time-signatures)
 
@@ -75,6 +87,12 @@ Bleed is widely regarded as one of the most physically demanding drum parts in m
 - Lock the hand accents to the feet at slow tempo first
 - Treat it as an endurance marathon, not a speed sprint
 
+### Gear Used
+
+- Sonor SQ2 Drum Kit (drums)
+- Sabian Cymbals (cymbals)
+- Tama Speed Cobra Pedals (pedals)
+
 **Core Techniques:** [Double Bass](https://metalforge.io/techniques/double-bass), [Odd Time Signatures](https://metalforge.io/techniques/odd-time-signatures), [Polyrhythms](https://metalforge.io/techniques/polyrhythms)
 
 ## Clockworks Polymetric Groove
@@ -97,6 +115,12 @@ Clockworks, the opening track of The Violent Sleep of Reason, is a showcase of e
 - Count the riff grouping length until you feel where it resolves
 - Drill the polymetric independence at very slow tempo first
 - Build double-bass evenness to match the guitar phrasing
+
+### Gear Used
+
+- Sonor SQ2 Drum Kit (drums)
+- Sabian Cymbals (cymbals)
+- Tama Speed Cobra Pedals (pedals)
 
 **Core Techniques:** [Polyrhythms](https://metalforge.io/techniques/polyrhythms), [Odd Time Signatures](https://metalforge.io/techniques/odd-time-signatures), [Double Bass](https://metalforge.io/techniques/double-bass)
 
@@ -121,6 +145,12 @@ New Millennium Cyanide Christ, from Meshuggah's ferocious Chaosphere album, is o
 - Practice slowly to internalise the polymetric independence
 - Use this track as your entry point into Meshuggah-style phrasing
 
+### Gear Used
+
+- Sonor Drum Kit (drums)
+- Sabian Cymbals (cymbals)
+- Tama Speed Cobra Pedals (pedals)
+
 **Core Techniques:** [Polyrhythms](https://metalforge.io/techniques/polyrhythms), [Odd Time Signatures](https://metalforge.io/techniques/odd-time-signatures), [Groove Drumming](https://metalforge.io/techniques/groove-drumming)
 
 ## Teaching Points
@@ -136,4 +166,4 @@ Tomas Haake's style is defined by precision, timing, and genre-defining grooves.
 
 ---
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

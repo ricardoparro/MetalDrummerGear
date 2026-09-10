@@ -29,6 +29,10 @@ Nick Barker is one of Black Metal / Death Metal's most influential drummers, bes
 - Drill the blast-to-groove transitions as a standalone exercise before playing the full section
 - Build blast-beat stamina gradually — this track requires sustaining intensity across long sections
 
+### Gear Used
+
+- Sonor Drums (drums)
+
 **Core Techniques:** [Blast Beat](https://metalforge.io/techniques/blast-beat), [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Dynamic Control](https://metalforge.io/techniques/dynamic-control)
 
 ## Teaching Points
@@ -44,4 +48,4 @@ Nick Barker's style is defined by precision, timing, and genre-defining grooves.
 
 ---
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

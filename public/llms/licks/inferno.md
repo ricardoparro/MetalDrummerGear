@@ -29,6 +29,13 @@ Inferno is one of Black/Death Metal's most influential drummers, best known for 
 - Practice double bass runs with a click before adding blast strokes above
 - Record yourself to check that snare accents are landing on the correct beats
 
+### Gear Used
+
+- Pearl Reference Pure Series Kit (drums)
+- Pearl Reference 14"x5" Snare (snare)
+- Paiste RUDE Cymbals (cymbals)
+- Vic Firth American Classic 5B (sticks)
+
 **Core Techniques:** [Blast Beat](https://metalforge.io/techniques/blast-beat), [Double Bass](https://metalforge.io/techniques/double-bass), [Blackened Death Metal](https://metalforge.io/techniques/blackened-death-metal)
 
 ## Blow Your Trumpets Gabriel — Dynamic Blast Architecture
@@ -51,6 +58,14 @@ Inferno is one of Black/Death Metal's most influential drummers, best known for 
 - Practise the pre-blast build-up section with deliberate restraint before adding the blast
 - Focus on the transition from the slow section into the blast; that moment is the emotional centre
 - Record at a slower tempo and listen back to check that the dynamic contrast is audible
+
+### Gear Used
+
+- Pearl Reference Pure Series Kit (drums)
+- Pearl Reference 14"x5" Snare (snare)
+- Paiste RUDE Cymbals (cymbals)
+- Monolit Czarcie Kopyto Double Pedal (hardware)
+- Vic Firth American Classic 5B (sticks)
 
 **Core Techniques:** [Blast Beat](https://metalforge.io/techniques/blast-beat), [Dynamic Contrast](https://metalforge.io/techniques/dynamic-contrast), [Atmospheric Drumming](https://metalforge.io/techniques/atmospheric-drumming)
 
@@ -75,6 +90,13 @@ Behemoth's Evangelion (2009) arrived as the follow-up to the already monumental 
 - Drill the blast-to-groove transitions until each one snaps into place without hesitation
 - Listen at half-speed to hear the subtle dynamic variations Inferno uses between sequences
 
+### Gear Used
+
+- Pearl Reference Pure Series Kit (drums)
+- Pearl Reference 14"x5" Snare (snare)
+- Paiste RUDE Cymbals (cymbals)
+- Vic Firth American Classic 5B (sticks)
+
 **Core Techniques:** [Blast Beat](https://metalforge.io/techniques/blast-beat), [Double Bass](https://metalforge.io/techniques/double-bass), [Dynamic Contrast](https://metalforge.io/techniques/dynamic-contrast)
 
 ## The Satanist Groove-Blast Hybrid — Ora Pro Nobis Lucifer
@@ -97,6 +119,14 @@ Behemoth's Evangelion (2009) arrived as the follow-up to the already monumental 
 - Identify the exact bar where each groove transitions into blast and mark it clearly
 - Practise just the four bars surrounding each transition until it is seamless
 - Listen for how the hi-hat serves the groove riff and try to replicate that relationship
+
+### Gear Used
+
+- Pearl Reference Pure Series Kit (drums)
+- Pearl Reference 14"x5" Snare (snare)
+- Paiste RUDE Cymbals (cymbals)
+- Monolit Czarcie Kopyto Double Pedal (hardware)
+- Vic Firth American Classic 5B (sticks)
 
 **Core Techniques:** [Blast Beat](https://metalforge.io/techniques/blast-beat), [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Dynamic Contrast](https://metalforge.io/techniques/dynamic-contrast)
 
@@ -121,6 +151,13 @@ Demigod (2004) is the album on which Behemoth completed their transformation fro
 - Drill the transition between gallop and blast-section kick patterns in isolation
 - Use a recording app to check that every double-bass stroke is audible and equally timed
 
+### Gear Used
+
+- Pearl Reference Pure Series Kit (drums)
+- Pearl Reference 14"x5" Snare (snare)
+- Paiste RUDE Cymbals (cymbals)
+- Vic Firth American Classic 5B (sticks)
+
 **Core Techniques:** [Double Bass](https://metalforge.io/techniques/double-bass), [Blast Beat](https://metalforge.io/techniques/blast-beat), [Foot Independence](https://metalforge.io/techniques/foot-independence)
 
 ## The Satanist — Compositional Double Bass & Blast
@@ -144,6 +181,14 @@ The title track of Behemoth's most celebrated album The Satanist (2014) is a sev
 - Build the full-speed blast sections separately before connecting them to the slower passages
 - Listen for how the drum part changes as the song moves through its sections
 
+### Gear Used
+
+- Pearl Reference Pure Series Kit (drums)
+- Pearl Reference 14"x5" Snare (snare)
+- Paiste RUDE Cymbals (cymbals)
+- Monolit Czarcie Kopyto Double Pedal (hardware)
+- Vic Firth American Classic 5B (sticks)
+
 **Core Techniques:** [Double Bass](https://metalforge.io/techniques/double-bass), [Blast Beat](https://metalforge.io/techniques/blast-beat), [Compositional Drumming](https://metalforge.io/techniques/compositional-drumming)
 
 ## Teaching Points
@@ -159,4 +204,4 @@ Inferno's style is defined by precision, timing, and genre-defining grooves. Key
 
 ---
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

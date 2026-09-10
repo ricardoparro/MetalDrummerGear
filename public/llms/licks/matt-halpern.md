@@ -29,6 +29,12 @@ Matt Halpern is one of Progressive/Djent's most influential drummers, best known
 - Practise the polymetric sections in isolation, counting out loud
 - Keep the backbeat strong so the groove never loses its centre
 
+### Gear Used
+
+- Pearl Reference Series Kit (drums)
+- Istanbul Agop Cymbals (cymbals)
+- Pearl Demon Drive Double Pedal (pedals)
+
 **Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Double Bass](https://metalforge.io/techniques/double-bass), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
 ## Marigold Melodic Groove
@@ -52,6 +58,12 @@ Matt Halpern is one of Progressive/Djent's most influential drummers, best known
 - Keep double-bass figures smooth and even rather than aggressive
 - Follow the official playthrough to copy the dynamic phrasing
 
+### Gear Used
+
+- Pearl Reference Series Kit (drums)
+- Meinl Byzance Brilliant / Dark Cymbals (cymbals)
+- Pearl Demon Drive Double Pedal (pedals)
+
 **Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Double Bass](https://metalforge.io/techniques/double-bass), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
 ## The Bad Thing Double-Bass Assault
@@ -74,6 +86,12 @@ Matt Halpern is one of Progressive/Djent's most influential drummers, best known
 - Build double-bass stamina gradually with a metronome, well below tempo first
 - Tap the riff to internalise the stop-start phrasing before playing along
 - Use the playthrough to map the foot patterns and section transitions
+
+### Gear Used
+
+- Pearl Reference Series Kit (drums)
+- Meinl Byzance Brilliant / Dark Cymbals (cymbals)
+- Pearl Demon Drive Double Pedal (pedals)
 
 **Core Techniques:** [Double Bass](https://metalforge.io/techniques/double-bass), [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
@@ -102,6 +120,12 @@ For drummers, the value of learning this groove is the development of ghost-note
 - Tap the guitar riff on your thigh while playing to internalise the riff-locking logic
 - Build the hi-hat reactive pattern in isolation before combining it with the full groove
 
+### Gear Used
+
+- Pearl Reference Series Kit (drums)
+- Meinl Byzance Series Cymbals (cymbals)
+- Pearl Demon Drive Double Pedal (pedals)
+
 **Core Techniques:** [Ghost Notes](https://metalforge.io/techniques/ghost-notes), [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Double Bass](https://metalforge.io/techniques/double-bass)
 
 ## Ragnarok Hybrid Blast Groove
@@ -128,6 +152,12 @@ The transitions between the blast passages and the song's groove sections are eq
 - Practise the blast-to-groove transition point in isolation — just the last two bars of blast into the first two bars of groove
 - Use a drum-only track or isolation headphones to study Halpern's kick placement during the blast
 - Develop foot speed with short bursts at tempo rather than long sustained blasts to preserve technique
+
+### Gear Used
+
+- Pearl Reference Series Kit (drums)
+- Meinl Byzance Series Cymbals (cymbals)
+- Pearl Demon Drive Double Pedal (pedals)
 
 **Core Techniques:** [Blast Beat](https://metalforge.io/techniques/blast-beat), [Double Bass](https://metalforge.io/techniques/double-bass), [Groove Drumming](https://metalforge.io/techniques/groove-drumming)
 
@@ -156,6 +186,12 @@ The interaction between the ghost-note layer and Halpern's kick pattern is parti
 - Practise the ghost pattern with a metronome at 80 BPM to establish control before raising tempo
 - Separate right-hand hi-hat and left-hand ghost notes into a coordination exercise before adding kick
 
+### Gear Used
+
+- Pearl Reference Series Kit (drums)
+- Meinl Byzance Brilliant / Dark Cymbals (cymbals)
+- Pearl Demon Drive Double Pedal (pedals)
+
 **Core Techniques:** [Ghost Notes](https://metalforge.io/techniques/ghost-notes), [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
 ## Teaching Points
@@ -171,4 +207,4 @@ Matt Halpern's style is defined by precision, timing, and genre-defining grooves
 
 ---
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

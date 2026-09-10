@@ -29,6 +29,12 @@ Mayhem's De Mysteriis Dom Sathanas (1994) is the foundational text of Norwegian 
 - When playing the blast, resist the urge to push — let the tempo stay exactly where it is
 - Focus on cymbal selection and stick weight to get the cold, dark tone of the recording
 
+### Gear Used
+
+- Sonor Kit (drums)
+- Sonor Snare (snare)
+- Paiste RUDE Cymbals (cymbals)
+
 **Core Techniques:** [Blast Beat](https://metalforge.io/techniques/blast-beat), [Atmospheric Drumming](https://metalforge.io/techniques/atmospheric-drumming), [Black Metal](https://metalforge.io/techniques/black-metal)
 
 ## Deathcrush — Speed Metal Battery
@@ -51,6 +57,10 @@ Mayhem's Deathcrush EP (1987) is one of the earliest and most influential docume
 - Move the blast pattern to the ride cymbal and notice how the character changes
 - Focus on groove and forward momentum rather than maximum velocity
 - Study the original EP recording alongside the live video to hear how the pattern translates across decades
+
+### Gear Used
+
+- Paiste RUDE Cymbals (cymbals)
 
 **Core Techniques:** [Blast Beat](https://metalforge.io/techniques/blast-beat), [Speed Metal](https://metalforge.io/techniques/speed-metal), [Ride Cymbal Blast](https://metalforge.io/techniques/ride-cymbal-blast)
 
@@ -75,6 +85,12 @@ The title track of Mayhem's De Mysteriis Dom Sathanas (1994) is nine minutes of 
 - Drill the blast-entry transitions in isolation so they happen without preparation
 - Record a full-speed run-through and listen for places where focus or energy drops
 
+### Gear Used
+
+- Sonor Kit (drums)
+- Sonor Snare (snare)
+- Paiste RUDE Cymbals (cymbals)
+
 **Core Techniques:** [Blast Beat](https://metalforge.io/techniques/blast-beat), [Long Form Composition](https://metalforge.io/techniques/long-form-composition), [Atmospheric Drumming](https://metalforge.io/techniques/atmospheric-drumming)
 
 ## Teaching Points
@@ -90,4 +106,4 @@ Hellhammer's style is defined by precision, timing, and genre-defining grooves. 
 
 ---
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

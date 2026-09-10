@@ -29,6 +29,13 @@ Gavin Harrison is one of the most revered progressive drummers alive, celebrated
 - Practise ghost-note dynamics to get the conversational feel
 - Treat fills as compositions — learn them note-for-note first
 
+### Gear Used
+
+- Sonor SQ2 Series Kit (drums)
+- Zildjian K Custom Special Dry Cymbals (cymbals)
+- Sonor Perfect Balance Pedal (hardware)
+- Vic Firth Gavin Harrison Signature (sticks)
+
 **Core Techniques:** [Odd Time Signatures](https://metalforge.io/techniques/odd-time-signatures), [Polyrhythms](https://metalforge.io/techniques/polyrhythms), [Groove Drumming](https://metalforge.io/techniques/groove-drumming)
 
 ## The Sound of Muzak 7/8 Groove
@@ -51,6 +58,11 @@ Gavin Harrison is one of the most revered progressive drummers alive, celebrated
 - Count the seven until the accent placement is automatic
 - Once it's solid, stop counting and let the groove flow
 - Keep the hi-hat relaxed so the odd meter feels natural
+
+### Gear Used
+
+- Sonor SQ2 Series Kit (drums)
+- Sonor Perfect Balance Pedal (hardware)
 
 **Core Techniques:** [Odd Time Signatures](https://metalforge.io/techniques/odd-time-signatures), [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Polyrhythms](https://metalforge.io/techniques/polyrhythms)
 
@@ -75,6 +87,13 @@ Gavin Harrison is one of the most revered progressive drummers alive, celebrated
 - Practise resolving the phrase back onto the beat cleanly
 - Keep the verse groove steady so the displacement stands out
 
+### Gear Used
+
+- Sonor SQ2 Series Kit (drums)
+- Zildjian K Custom Special Dry Cymbals (cymbals)
+- Sonor Perfect Balance Pedal (hardware)
+- Vic Firth Gavin Harrison Signature (sticks)
+
 **Core Techniques:** [Odd Time Signatures](https://metalforge.io/techniques/odd-time-signatures), [Polyrhythms](https://metalforge.io/techniques/polyrhythms), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
 ## Teaching Points
@@ -90,4 +109,4 @@ Gavin Harrison's style is defined by precision, timing, and genre-defining groov
 
 ---
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

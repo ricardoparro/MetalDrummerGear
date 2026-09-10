@@ -29,6 +29,13 @@ Art Cruz is one of Groove Metal / Thrash Metal's most influential drummers, best
 - Record yourself and count the bar divisions out loud to verify the cross-accents are landing where intended
 - Listen to the guitar riff and drum pattern simultaneously to hear how the polyrhythmic tension resolves at the bar line
 
+### Gear Used
+
+- Ludwig Classic Oak Kit (drums)
+- Zildjian A Custom & K Series Cymbals (cymbals)
+- Trick Drums Dominator Double Pedal (pedals)
+- Vic Firth American Classic 5B (sticks)
+
 **Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Double Bass](https://metalforge.io/techniques/double-bass), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
 ## New Colossal Hate Snare-Bass Interplay
@@ -51,6 +58,13 @@ Art Cruz is one of Groove Metal / Thrash Metal's most influential drummers, best
 - Add ghost notes only after the main kick-snare interplay is clean — they are seasoning, not structure
 - Lock to a guitar recording rather than a metronome alone to feel the riff-lock dimension of the groove
 - Record yourself and listen for whether the snare backbeats are consistently weighted — any thinness breaks the authority of the groove
+
+### Gear Used
+
+- Ludwig Classic Oak Kit (drums)
+- Zildjian A Custom & K Series Cymbals (cymbals)
+- Trick Drums Dominator Double Pedal (pedals)
+- Vic Firth American Classic 5B (sticks)
 
 **Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Double Bass](https://metalforge.io/techniques/double-bass), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
@@ -75,6 +89,13 @@ Art Cruz is one of Groove Metal / Thrash Metal's most influential drummers, best
 - Use a metronome at full tempo and mark the transition beat so you can feel it approaching without watching a score
 - Record the full-speed run and zoom in on the transition point to check for any tempo fluctuation or hesitation
 
+### Gear Used
+
+- Ludwig Classic Oak Kit (drums)
+- Zildjian A Custom & K Series Cymbals (cymbals)
+- Trick Drums Dominator Double Pedal (pedals)
+- Vic Firth American Classic 5B (sticks)
+
 **Core Techniques:** [Blast Technique](https://metalforge.io/techniques/blast-technique), [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Double Bass](https://metalforge.io/techniques/double-bass)
 
 ## Ghost Walking — Live Groove Setup
@@ -97,6 +118,13 @@ Art Cruz is one of Groove Metal / Thrash Metal's most influential drummers, best
 - Practise the groove at 70% tempo until the kick-snare interlock feels automatic, then build to full speed
 - Listen to both Adler's studio version and Cruz's live performances to hear how the same arrangement sounds with different kit setups
 - Record yourself and compare the backbeat consistency — any variation in snare weight across repetitions erodes the groove's authority
+
+### Gear Used
+
+- Ludwig Classic Oak Kit (drums)
+- Zildjian A Custom & K Series Cymbals (cymbals)
+- Trick Drums Dominator Double Pedal (pedals)
+- Vic Firth American Classic 5B (sticks)
 
 **Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Double Bass](https://metalforge.io/techniques/double-bass), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
@@ -121,6 +149,13 @@ Art Cruz is one of Groove Metal / Thrash Metal's most influential drummers, best
 - Work the double-bass pattern against just the click before integrating the guitar riff reference — internal stability first, external lock second
 - Practise the full song at performance tempo regularly to build the endurance Cruz needs to deliver it night after night on tour
 
+### Gear Used
+
+- Ludwig Classic Oak Kit (drums)
+- Zildjian A Custom & K Series Cymbals (cymbals)
+- Trick Drums Dominator Double Pedal (pedals)
+- Vic Firth American Classic 5B (sticks)
+
 **Core Techniques:** [Double Bass](https://metalforge.io/techniques/double-bass), [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
 ## New Colossal Hate — Studio Debut Setup
@@ -144,6 +179,13 @@ Art Cruz is one of Groove Metal / Thrash Metal's most influential drummers, best
 - Tune your snare before the session and compare it to the recording — the dry, punchy attack is part of the groove's character
 - Record your playing and focus on the kick-riff lock point specifically — any looseness in that relationship is immediately audible
 
+### Gear Used
+
+- Ludwig Classic Oak Kit (drums)
+- Zildjian A Custom & K Series Cymbals (cymbals)
+- Trick Drums Dominator Double Pedal (pedals)
+- Vic Firth American Classic 5B (sticks)
+
 **Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Double Bass](https://metalforge.io/techniques/double-bass), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
 ## Teaching Points
@@ -159,4 +201,4 @@ Art Cruz's style is defined by precision, timing, and genre-defining grooves. Ke
 
 ---
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

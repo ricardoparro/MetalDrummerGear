@@ -29,6 +29,12 @@ The Philosopher is a cornerstone of technical death metal drumming and one of Ge
 - Keep the hands relaxed in the half-time pocket
 - Take breaks - sustained fast double bass is physically demanding
 
+### Gear Used
+
+- Tama Drum Kit (drums)
+- Sabian Cymbals (cymbals)
+- Double Bass Pedals (pedals)
+
 **Core Techniques:** [Double Bass](https://metalforge.io/techniques/double-bass), [Fill Techniques](https://metalforge.io/techniques/fill-techniques), [Groove Drumming](https://metalforge.io/techniques/groove-drumming)
 
 ## Crystal Mountain Groove
@@ -51,6 +57,12 @@ Crystal Mountain, from Death's landmark Symbolic album, contains some of Gene Ho
 - Develop double-bass stamina for the propulsive verse sections
 - Transcribe and isolate the famous climax fill
 - Listen closely to the recording to capture the feel between sections
+
+### Gear Used
+
+- Tama Drum Kit (drums)
+- Dual Ride Cymbal Setup (cymbals)
+- Double Bass Pedals (pedals)
 
 **Core Techniques:** [Double Bass](https://metalforge.io/techniques/double-bass), [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
@@ -75,6 +87,12 @@ Gene Hoglan's work on Dark Angel's Darkness Descends, released in 1986, is one o
 - Use a single kick pedal to develop this specific technique before switching to double bass
 - Record yourself to monitor stroke evenness — the right and left hands should be identical in volume
 
+### Gear Used
+
+- Tama Drum Kit (drums)
+- Zildjian Cymbals (cymbals)
+- Single Bass Drum Pedal (pedals)
+
 **Core Techniques:** [Blast Beat](https://metalforge.io/techniques/blast-beat), [Wrist Technique](https://metalforge.io/techniques/wrist-technique), [Single Bass](https://metalforge.io/techniques/single-bass)
 
 ## Symbolic Groove-to-Blast Switch
@@ -97,6 +115,12 @@ The Symbolic album (1995) represents the apex of Gene Hoglan's collaboration wit
 - Work on the fill bridging each transition in isolation at half speed first
 - Record the full passage to check that each section feels genuinely different in density and feel
 - Keep fills short and decisive — the transition should happen in two to four strokes maximum
+
+### Gear Used
+
+- Tama Drum Kit (drums)
+- Sabian Cymbals (cymbals)
+- Double Bass Pedals (pedals)
 
 **Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Blast Beat](https://metalforge.io/techniques/blast-beat), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
@@ -121,6 +145,12 @@ Zero Tolerance, the opening track of Death's Symbolic, is a showcase for Gene Ho
 - Focus on feel - the bridge should pocket and groove, not feel stiff
 - Use fills to clearly mark the transitions between sections
 
+### Gear Used
+
+- Tama Drum Kit (drums)
+- Sabian Cymbals (cymbals)
+- Double Bass Pedals (pedals)
+
 **Core Techniques:** [Double Bass](https://metalforge.io/techniques/double-bass), [Blast Beat](https://metalforge.io/techniques/blast-beat), [Groove Drumming](https://metalforge.io/techniques/groove-drumming)
 
 ## Darkness Descends Hyper-Blast
@@ -143,6 +173,12 @@ The hyper-blast sections of Dark Angel's Darkness Descends (1986) represent a si
 - Build speed in small increments with a click track — at extreme tempos, ten BPM of unearned speed causes immediate quality collapse
 - Record every practice session and listen back for hand asymmetry — both hands must be indistinguishable in volume and attack
 - Study the Darkness Descends recording to understand the structural placement of the blasts — context reveals why they are so effective
+
+### Gear Used
+
+- Tama Drum Kit (drums)
+- Zildjian Cymbals (cymbals)
+- Single Bass Drum Pedal (pedals)
 
 **Core Techniques:** [Blast Beat](https://metalforge.io/techniques/blast-beat), [Wrist Technique](https://metalforge.io/techniques/wrist-technique), [Single Bass](https://metalforge.io/techniques/single-bass)
 
@@ -167,6 +203,12 @@ Pull the Plug from Death's Leprosy album (1988) is one of the foundational death
 - Study both the Leprosy original and Hoglan's Death-era recordings to understand how this vocabulary was developed and refined
 - Focus on the arrivals and departures of fills — cleanness at these transition points separates the professional from the learner
 
+### Gear Used
+
+- Pearl Drum Kit (drums)
+- Sabian Cymbals (cymbals)
+- Double Bass Pedals (pedals)
+
 **Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Fill Techniques](https://metalforge.io/techniques/fill-techniques), [Riff Lock](https://metalforge.io/techniques/riff-lock)
 
 ## Zero the Hero Clock Polyrhythm
@@ -190,6 +232,12 @@ Gene Hoglan's reputation as the Atomic Clock rests not only on the extreme speed
 - Use a metronome locked to the primary pulse so you always know where beat one is within the polyrhythmic complexity
 - Study The Gathering recording with a transcription to map exactly where each limb falls within the polyrhythmic framework
 
+### Gear Used
+
+- Tama Drum Kit (drums)
+- Sabian Cymbals (cymbals)
+- Double Bass Pedals (pedals)
+
 **Core Techniques:** [Polyrhythm](https://metalforge.io/techniques/polyrhythm), [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Limb Independence](https://metalforge.io/techniques/limb-independence)
 
 ## Teaching Points
@@ -205,4 +253,4 @@ Gene Hoglan's style is defined by precision, timing, and genre-defining grooves.
 
 ---
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

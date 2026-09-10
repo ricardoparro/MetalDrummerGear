@@ -29,6 +29,12 @@ Pneuma is one of the defining drum performances of Tool's comeback record Fear I
 - Add the kick pattern slowly with a metronome at half tempo
 - Prioritise space and dynamics over speed - this groove is about feel
 
+### Gear Used
+
+- Sonor SQ2 Drum Kit (drums)
+- Paiste Signature Cymbals (cymbals)
+- Sonor Giant Step Twin Effect Double Pedal (pedals)
+
 **Core Techniques:** [Odd Time Signatures](https://metalforge.io/techniques/odd-time-signatures), [Polyrhythms](https://metalforge.io/techniques/polyrhythms), [Groove Drumming](https://metalforge.io/techniques/groove-drumming)
 
 ## Schism Intro Pattern
@@ -51,6 +57,12 @@ Schism is famous for containing dozens of time-signature changes, and the drum p
 - Practice with the bassline so the meter changes feel anchored
 - Slow the tempo to 60-70% until the transitions are seamless
 - Treat the changes as one flowing groove, not separate events
+
+### Gear Used
+
+- Sonor Designer Series Kit (drums)
+- Paiste Signature Cymbals (cymbals)
+- Sonor Giant Step Twin Effect Double Pedal (pedals)
 
 **Core Techniques:** [Odd Time Signatures](https://metalforge.io/techniques/odd-time-signatures), [Polyrhythms](https://metalforge.io/techniques/polyrhythms), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
@@ -75,6 +87,12 @@ The climax of Forty Six & 2 is one of the most celebrated drum moments in progre
 - Keep the underlying pulse steady so the polyrhythms land cleanly
 - Focus on smooth hand-foot linear runs rather than maximum speed
 
+### Gear Used
+
+- Sonor SQ2 Drum Kit (drums)
+- Paiste Signature Cymbals (cymbals)
+- Sonor Giant Step Twin Effect Double Pedal (pedals)
+
 **Core Techniques:** [Fill Techniques](https://metalforge.io/techniques/fill-techniques), [Polyrhythms](https://metalforge.io/techniques/polyrhythms), [Groove Drumming](https://metalforge.io/techniques/groove-drumming)
 
 ## Schism Odd Meter Groove
@@ -97,6 +115,12 @@ The main body groove of Tool's Schism is one of the most searched drum patterns 
 - Practice with the bassline recording — Chancellor's riff locks to the groove perfectly
 - Slow to 60 BPM and count aloud before gradually building to 134 BPM
 - Treat the combined nine-beat cycle as one phrase, not two separate time signatures
+
+### Gear Used
+
+- Sonor Designer Series Kit (drums)
+- Paiste Signature Ride Cymbal (cymbals)
+- Sonor Giant Step Twin Effect Double Pedal (pedals)
 
 **Core Techniques:** [Odd Time Signatures](https://metalforge.io/techniques/odd-time-signatures), [Polyrhythms](https://metalforge.io/techniques/polyrhythms), [Groove Drumming](https://metalforge.io/techniques/groove-drumming)
 
@@ -121,6 +145,12 @@ Lateralus represents the pinnacle of Tool's compositional ambition and Danny Car
 - Start at 50 BPM with just hi-hat, then add snare, then kick over several practice sessions
 - Record yourself and compare to the track — trust your ears over your count
 
+### Gear Used
+
+- Sonor Designer Series Kit (drums)
+- Paiste Signature Cymbals (cymbals)
+- Sonor Giant Step Twin Effect Double Pedal (pedals)
+
 **Core Techniques:** [Odd Time Signatures](https://metalforge.io/techniques/odd-time-signatures), [Polyrhythms](https://metalforge.io/techniques/polyrhythms), [Groove Drumming](https://metalforge.io/techniques/groove-drumming)
 
 ## Forty Six & 2 Steady Groove
@@ -144,6 +174,12 @@ While Forty Six & 2's drum solo outro is the moment that attracts most attention
 - Record yourself to verify the kick lands at the same point each 13-beat cycle
 - Trust the groove's internal logic — stop thinking in 4/4 entirely while playing it
 
+### Gear Used
+
+- Sonor SQ2 Drum Kit (drums)
+- Paiste Signature Cymbals (cymbals)
+- Sonor Giant Step Twin Effect Double Pedal (pedals)
+
 **Core Techniques:** [Odd Time Signatures](https://metalforge.io/techniques/odd-time-signatures), [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Polyrhythms](https://metalforge.io/techniques/polyrhythms)
 
 ## Teaching Points
@@ -159,4 +195,4 @@ Danny Carey's style is defined by precision, timing, and genre-defining grooves.
 
 ---
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

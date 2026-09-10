@@ -29,6 +29,12 @@ Shannon Larkin is one of Hard Rock / Heavy Metal / Nu Metal's most influential d
 - Practise the ghost note pre-chorus build-up in isolation before putting the full section together
 - Work the tribal tom mid-section slowly so every stroke rings out with equal tone
 
+### Gear Used
+
+- ddrum Dios Series (drums)
+- Sabian AAX Series Cymbals (cymbals)
+- DW 9000 Series Double Pedal (pedals)
+
 **Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Fill Techniques](https://metalforge.io/techniques/fill-techniques), [Double Bass](https://metalforge.io/techniques/double-bass)
 
 ## Keep Away Groove Lock & Fill Cascade
@@ -51,6 +57,12 @@ Shannon Larkin is one of Hard Rock / Heavy Metal / Nu Metal's most influential d
 - Add ghost notes only after the main groove pattern is rock-solid
 - Slow the fill cascade down to isolate each stroke, then build back to full tempo
 - Record yourself and listen for whether the groove sits behind, on, or ahead of the beat
+
+### Gear Used
+
+- ddrum Dios Series (drums)
+- Sabian AAX Series Cymbals (cymbals)
+- DW 9000 Series Double Pedal (pedals)
 
 **Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Fill Techniques](https://metalforge.io/techniques/fill-techniques), [Linear Drumming](https://metalforge.io/techniques/linear-drumming)
 
@@ -75,6 +87,12 @@ Shannon Larkin is one of Hard Rock / Heavy Metal / Nu Metal's most influential d
 - Work on the transition from fill back into groove so the return feels inevitable, not abrupt
 - Use a metronome at 68 BPM and practise sitting in the pocket until the slow tempo feels comfortable
 
+### Gear Used
+
+- ddrum Dios Series (drums)
+- Sabian AAX Series Cymbals (cymbals)
+- DW 9000 Series Double Pedal (pedals)
+
 **Core Techniques:** [Fill Techniques](https://metalforge.io/techniques/fill-techniques), [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Dynamic Control](https://metalforge.io/techniques/dynamic-control)
 
 ## 1000hp Double-Bass Gallop
@@ -97,6 +115,12 @@ Shannon Larkin is one of Hard Rock / Heavy Metal / Nu Metal's most influential d
 - Start at 90 BPM and increase in 5 BPM increments until the gallop feels controlled at 135
 - Record both feet and listen back to identify any unevenness between them
 - Work the transition from the gallop into fills and back — the re-entry is where most players stumble
+
+### Gear Used
+
+- ddrum Dios Series (drums)
+- Sabian AAX Series Cymbals (cymbals)
+- DW 9000 Series Double Pedal (pedals)
 
 **Core Techniques:** [Double Bass](https://metalforge.io/techniques/double-bass), [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Riff Lock](https://metalforge.io/techniques/riff-lock)
 
@@ -121,6 +145,12 @@ Shannon Larkin is one of Hard Rock / Heavy Metal / Nu Metal's most influential d
 - Use even stroke weight across all toms so the descending pattern flows smoothly
 - Practise the verse-to-chorus fill slowly, then gradually close the gap to full tempo
 
+### Gear Used
+
+- ddrum Dios Series (drums)
+- Sabian AAX Series Cymbals (cymbals)
+- DW 9000 Series Double Pedal (pedals)
+
 **Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Fill Techniques](https://metalforge.io/techniques/fill-techniques), [Polyrhythms](https://metalforge.io/techniques/polyrhythms)
 
 ## Teaching Points
@@ -136,4 +166,4 @@ Shannon Larkin's style is defined by precision, timing, and genre-defining groov
 
 ---
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

@@ -29,6 +29,11 @@ Postmortem from Slayer's 1986 landmark Reign in Blood is the great underacknowle
 - Use the riff recording to develop lock — your kick should amplify the guitar's accent structure
 - Build stamina with short focused sets rather than long exhausted sessions
 
+### Gear Used
+
+- Pearl Maxwin Kit (drums)
+- Paiste RUDE Cymbals (cymbals)
+
 **Core Techniques:** [Double Bass](https://metalforge.io/techniques/double-bass), [Riff Lock](https://metalforge.io/techniques/riff-lock), [Groove Drumming](https://metalforge.io/techniques/groove-drumming)
 
 ## Show No Mercy Speed Tom Cascade
@@ -52,6 +57,12 @@ Slayer's debut album Show No Mercy, released in 1983, caught Dave Lombardo at hi
 - Focus on the crash landing — the fill has no value if it misses the structural downbeat
 - Listen to the Show No Mercy album and Reign in Blood back to back to hear the evolution in control
 
+### Gear Used
+
+- Pearl Maxwin Kit (drums)
+- Paiste Cymbals (cymbals)
+- Single Bass Drum Pedal (pedals)
+
 **Core Techniques:** [Fill Techniques](https://metalforge.io/techniques/fill-techniques), [Tom Work](https://metalforge.io/techniques/tom-work), [Groove Drumming](https://metalforge.io/techniques/groove-drumming)
 
 ## Angel of Death Opening
@@ -73,6 +84,11 @@ The opening that changed thrash metal forever. Dave's explosive entrance after T
 - Practice the blast beat pattern at 150 BPM first
 - Focus on the transition from opening into groove
 - Watch Dave's live performances for technique insights
+
+### Gear Used
+
+- Pearl Maxwin Kit (drums)
+- Paiste RUDE Cymbals (cymbals)
 
 **Core Techniques:** [Blast Beat](https://metalforge.io/techniques/blast-beat), [Double Bass](https://metalforge.io/techniques/double-bass), [Fills](https://metalforge.io/techniques/fills)
 
@@ -96,6 +112,12 @@ After the thunderstorm intro comes one of metal's most recognizable double bass 
 - Work on stamina - this pattern is relentless
 - Use a practice pad for bass drum technique
 
+### Gear Used
+
+- Pearl Maxwin Kit (drums)
+- Paiste RUDE Cymbals (cymbals)
+- DW 5000 Pedals (pedals)
+
 **Core Techniques:** [Double Bass](https://metalforge.io/techniques/double-bass), [Groove](https://metalforge.io/techniques/groove), [Dynamics](https://metalforge.io/techniques/dynamics)
 
 ## Seasons in the Abyss Groove
@@ -117,6 +139,11 @@ A more groove-oriented approach from Dave, showing his versatility beyond pure s
 - Lock in with the guitar riff
 - Use dynamics to build tension
 - Great song for developing pocket and feel
+
+### Gear Used
+
+- Pearl Maxwin Kit (drums)
+- Paiste RUDE Cymbals (cymbals)
 
 **Core Techniques:** [Groove](https://metalforge.io/techniques/groove), [Dynamics](https://metalforge.io/techniques/dynamics), [Hi Hat Control](https://metalforge.io/techniques/hi-hat-control)
 
@@ -141,6 +168,11 @@ The intro blast of Raining Blood is among the most recognizable moments in the h
 - Study Lombardo's stick grip and shoulder mechanics from available video to understand the physical approach behind the clarity
 - Practice the transition from the thunderstorm atmospheric section into the blast entry — the arrival must feel like an explosion, not a start
 
+### Gear Used
+
+- Pearl Maxwin Kit (drums)
+- Paiste RUDE Cymbals (cymbals)
+
 **Core Techniques:** [Blast Beat](https://metalforge.io/techniques/blast-beat), [Straight Sixteenths](https://metalforge.io/techniques/straight-sixteenths), [Wrist Technique](https://metalforge.io/techniques/wrist-technique)
 
 ## Angel of Death Double-Bass Tornado
@@ -163,6 +195,11 @@ The opening of Angel of Death is one of the most studied and most debated moment
 - Practice the full four-limb coordination pattern at 130 BPM for an extended period before raising tempo
 - Understand the entry cue — the moment after the scream — and practice landing the first stroke exactly there
 - Study footage of Lombardo performing Angel of Death live to observe his physical approach to the four-limb synchronisation
+
+### Gear Used
+
+- Pearl Maxwin Kit (drums)
+- Paiste RUDE Cymbals (cymbals)
 
 **Core Techniques:** [Double Bass](https://metalforge.io/techniques/double-bass), [Blast Beat](https://metalforge.io/techniques/blast-beat), [Limb Synchronisation](https://metalforge.io/techniques/limb-synchronisation)
 
@@ -187,6 +224,11 @@ South of Heaven, the title track and opening song of Slayer's 1988 album, is the
 - Record yourself at the target tempo and compare to the original — any tendency to rush the slow groove is immediately audible
 - Listen to South of Heaven directly after Reign in Blood to understand the dynamic contrast Lombardo creates — context is essential
 
+### Gear Used
+
+- Pearl Maxwin Kit (drums)
+- Paiste RUDE Cymbals (cymbals)
+
 **Core Techniques:** [Half Time Groove](https://metalforge.io/techniques/half-time-groove), [Riff Lock](https://metalforge.io/techniques/riff-lock), [Groove Drumming](https://metalforge.io/techniques/groove-drumming)
 
 ## Teaching Points
@@ -202,4 +244,4 @@ Dave Lombardo's style is defined by precision, timing, and genre-defining groove
 
 ---
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

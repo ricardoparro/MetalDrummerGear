@@ -29,6 +29,14 @@ Daray is one of Black Metal / Death Metal's most influential drummers, best know
 - Record your blast alongside the track and compare stroke weight consistency — unevenness is immediately audible against the orchestra
 - Study the orchestral parts alongside the drums to understand the ensemble context of each blast section
 
+### Gear Used
+
+- Pearl Reference Pure (drums)
+- Pearl Reference 14"x6.5" Snare (snare)
+- Paiste RUDE / 2002 Series (cymbals)
+- Pearl Demon Drive Double Pedal (hardware)
+- Vic Firth 5B (sticks)
+
 **Core Techniques:** [Blast Beat](https://metalforge.io/techniques/blast-beat), [Orchestral Metal](https://metalforge.io/techniques/orchestral-metal), [Tempo Precision](https://metalforge.io/techniques/tempo-precision)
 
 ## Progenies of the Great Apocalypse — Live Double Bass Command
@@ -51,6 +59,14 @@ Daray is one of Black Metal / Death Metal's most influential drummers, best know
 - Practice re-entry into double bass runs after rests at exact tempo without a count-in
 - Study the Forces of the Northern Night recording closely to hear how the double bass matches the orchestral texture in climactic sections
 - Build endurance by practising the double bass pattern continuously for extended periods, not just in isolated short bursts
+
+### Gear Used
+
+- Pearl Reference Pure (drums)
+- Pearl Reference 14"x6.5" Snare (snare)
+- Paiste RUDE / 2002 Series (cymbals)
+- Pearl Demon Drive Double Pedal (hardware)
+- Vic Firth 5B (sticks)
 
 **Core Techniques:** [Double Bass](https://metalforge.io/techniques/double-bass), [Live Performance](https://metalforge.io/techniques/live-performance), [Orchestral Metal](https://metalforge.io/techniques/orchestral-metal)
 
@@ -75,6 +91,14 @@ Daray is one of Black Metal / Death Metal's most influential drummers, best know
 - Practice the snare accent placements against a recording of just the orchestral parts before adding the full band texture
 - Record yourself with the track and compare your groove placement to Daray's — orchestral interlocking requires precision most groove practice doesn't demand
 
+### Gear Used
+
+- Pearl Reference Pure (drums)
+- Pearl Reference 14"x6.5" Snare (snare)
+- Paiste RUDE / 2002 Series (cymbals)
+- Pearl Demon Drive Double Pedal (hardware)
+- Vic Firth 5B (sticks)
+
 **Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Orchestral Metal](https://metalforge.io/techniques/orchestral-metal), [Syncopation](https://metalforge.io/techniques/syncopation)
 
 ## Teaching Points
@@ -90,4 +114,4 @@ Daray's style is defined by precision, timing, and genre-defining grooves. Key p
 
 ---
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

@@ -29,6 +29,12 @@ Jaska Raatikainen is one of Melodic Death Metal / Power Metal's most influential
 - Keep your ankles relaxed — tension is what makes fast double bass fall apart
 - Learn the song in sections and join them once each part is comfortable
 
+### Gear Used
+
+- Tama Starclassic Kit (drums)
+- Zildjian A Series Cymbals (cymbals)
+- Tama Iron Cobra Pedals (pedals)
+
 **Core Techniques:** [Double Bass](https://metalforge.io/techniques/double-bass), [Blast Beat](https://metalforge.io/techniques/blast-beat), [Groove Drumming](https://metalforge.io/techniques/groove-drumming)
 
 ## Lake Bodom Driving Fills
@@ -51,6 +57,12 @@ Jaska Raatikainen is one of Melodic Death Metal / Power Metal's most influential
 - Use a metronome and make sure every fill resolves precisely on beat one
 - Keep the double-bass pulse steady underneath so the energy never drops
 - Watch the live drumcam to see how the fills are orchestrated across the kit
+
+### Gear Used
+
+- Pearl Kit (drums)
+- Zildjian A Series Cymbals (cymbals)
+- Tama Iron Cobra Pedals (pedals)
 
 **Core Techniques:** [Fill Techniques](https://metalforge.io/techniques/fill-techniques), [Double Bass](https://metalforge.io/techniques/double-bass), [Groove Drumming](https://metalforge.io/techniques/groove-drumming)
 
@@ -75,6 +87,12 @@ Jaska Raatikainen is one of Melodic Death Metal / Power Metal's most influential
 - Record the fills and listen back — accents that feel strong often sound weak on playback
 - Practise landing the fill's final stroke exactly on beat one with a metronome
 
+### Gear Used
+
+- Tama Starclassic Kit (drums)
+- Zildjian A Series Cymbals (cymbals)
+- Tama Iron Cobra Pedals (pedals)
+
 **Core Techniques:** [Fill Techniques](https://metalforge.io/techniques/fill-techniques), [Double Bass](https://metalforge.io/techniques/double-bass), [Groove Drumming](https://metalforge.io/techniques/groove-drumming)
 
 ## Follow the Reaper Main Groove
@@ -97,6 +115,12 @@ The title track of Children of Bodom's third album Follow the Reaper (2000) is o
 - Loop the main groove for five minutes without stopping to build real endurance
 - Keep the hi-hat as even and mechanical as possible — it is the clock of the groove
 - Listen to the guitar and keyboard melody while playing — your groove should support it, not fight it
+
+### Gear Used
+
+- Tama Starclassic Kit (drums)
+- Zildjian A Series Cymbals (cymbals)
+- Tama Iron Cobra Pedals (pedals)
 
 **Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Double Bass](https://metalforge.io/techniques/double-bass), [Hi Hat Control](https://metalforge.io/techniques/hi-hat-control)
 
@@ -121,6 +145,12 @@ The title track of Children of Bodom's third album Follow the Reaper (2000) is o
 - Add the snare back-beat before adding cymbal work — layer the complexity gradually
 - Record your kick pattern and zoom in on the waveform to check for timing irregularities
 
+### Gear Used
+
+- Tama Starclassic Kit (drums)
+- Zildjian A Series Cymbals (cymbals)
+- Tama Iron Cobra Pedals (pedals)
+
 **Core Techniques:** [Double Bass](https://metalforge.io/techniques/double-bass), [Foot Independence](https://metalforge.io/techniques/foot-independence), [Groove Drumming](https://metalforge.io/techniques/groove-drumming)
 
 ## Hate Crew Deathroll Double-Bass Assault
@@ -144,6 +174,12 @@ The title track of Children of Bodom's 2003 album Hate Crew Deathroll is one of 
 - Practise the hand-and-foot coordination away from full tempo until it is automatic
 - Increase the metronome a few BPM at a time rather than jumping to full speed
 
+### Gear Used
+
+- Tama Starclassic Kit (drums)
+- Zildjian A Series Cymbals (cymbals)
+- Tama Iron Cobra Pedals (pedals)
+
 **Core Techniques:** [Double Bass](https://metalforge.io/techniques/double-bass), [Blast Beat](https://metalforge.io/techniques/blast-beat), [Odd Time Signatures](https://metalforge.io/techniques/odd-time-signatures)
 
 ## Teaching Points
@@ -159,4 +195,4 @@ Jaska Raatikainen's style is defined by precision, timing, and genre-defining gr
 
 ---
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

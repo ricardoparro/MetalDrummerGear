@@ -29,6 +29,12 @@ Mike Portnoy is one of Progressive Metal's most influential drummers, best known
 - Practise the double-bass sections hands-and-feet separately first
 - Be patient — this piece is learned over weeks, not in a single session
 
+### Gear Used
+
+- Tama Starclassic Kit (drums)
+- Sabian Cymbals (cymbals)
+- Tama Iron Cobra Pedals (pedals)
+
 **Core Techniques:** [Odd Time Signatures](https://metalforge.io/techniques/odd-time-signatures), [Fill Techniques](https://metalforge.io/techniques/fill-techniques), [Double Bass](https://metalforge.io/techniques/double-bass)
 
 ## Pull Me Under Groove & Fills
@@ -52,6 +58,12 @@ Mike Portnoy is one of Progressive Metal's most influential drummers, best known
 - Practise the odd-meter break slowly until the subdivisions feel natural
 - Play along with the record to internalise the song-serving phrasing
 
+### Gear Used
+
+- Tama Starclassic Kit (drums)
+- Sabian Cymbals (cymbals)
+- Tama Iron Cobra Pedals (pedals)
+
 **Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Fill Techniques](https://metalforge.io/techniques/fill-techniques), [Odd Time Signatures](https://metalforge.io/techniques/odd-time-signatures)
 
 ## Panic Attack Double Bass Assault
@@ -74,6 +86,12 @@ Mike Portnoy is one of Progressive Metal's most influential drummers, best known
 - Practise the hands and feet separately, then combine them slowly
 - Use a metronome and only push the tempo when every kick note is even
 - Take breaks — sustained fast double bass is physically demanding on the legs
+
+### Gear Used
+
+- Tama Starclassic Kit (drums)
+- Sabian Cymbals (cymbals)
+- Tama Iron Cobra Pedals (pedals)
 
 **Core Techniques:** [Double Bass](https://metalforge.io/techniques/double-bass), [Odd Time Signatures](https://metalforge.io/techniques/odd-time-signatures), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
@@ -102,6 +120,12 @@ For drummers learning the fill, the key challenge is separating the 3-against-4 
 - Record yourself and compare to the original — the crash should feel slightly 'early' but sit confidently
 - Once the fill is solid, practise the transition into the main groove without stopping
 
+### Gear Used
+
+- Tama Starclassic Kit (drums)
+- Sabian Cymbals (cymbals)
+- Tama Iron Cobra Pedals (pedals)
+
 **Core Techniques:** [Fill Techniques](https://metalforge.io/techniques/fill-techniques), [Odd Time Signatures](https://metalforge.io/techniques/odd-time-signatures), [Groove Drumming](https://metalforge.io/techniques/groove-drumming)
 
 ## In the Presence of Enemies Blast & Polyrhythm
@@ -128,6 +152,12 @@ For drummers approaching this material, the practical priority is to separate th
 - Mark the blast entry and exit points on a notation chart before touching the kit
 - Build blast endurance at 150 BPM before pushing toward the 175 BPM target
 - Practise the modulation transitions in slow motion to feel the subdivision shift without losing momentum
+
+### Gear Used
+
+- Tama Starclassic Kit (drums)
+- Sabian Cymbals (cymbals)
+- Tama Iron Cobra Pedals (pedals)
 
 **Core Techniques:** [Blast Beat](https://metalforge.io/techniques/blast-beat), [Odd Time Signatures](https://metalforge.io/techniques/odd-time-signatures), [Double Bass](https://metalforge.io/techniques/double-bass)
 
@@ -156,6 +186,12 @@ The notation of the piece has been published and verified through multiple sourc
 - Accept that this piece is learned over months, not sessions — celebrate small section victories
 - Count out loud during every practice run until the phrase-feels replace the numbers automatically
 
+### Gear Used
+
+- Tama Starclassic Kit (drums)
+- Sabian Cymbals (cymbals)
+- Tama Iron Cobra Pedals (pedals)
+
 **Core Techniques:** [Odd Time Signatures](https://metalforge.io/techniques/odd-time-signatures), [Polyrhythms](https://metalforge.io/techniques/polyrhythms), [Double Bass](https://metalforge.io/techniques/double-bass)
 
 ## Teaching Points
@@ -171,4 +207,4 @@ Mike Portnoy's style is defined by precision, timing, and genre-defining grooves
 
 ---
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

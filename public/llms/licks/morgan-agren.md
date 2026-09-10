@@ -29,6 +29,13 @@ Devin Townsend's 2019 album Empath is one of the most ambitious progressive meta
 - Tap the melodic line while practising the drum part to understand where the modulation points align with the composition
 - Work through time signatures one relationship at a time (4/4 → 7/8, then 7/8 → 5/4) rather than the full sequence at once
 
+### Gear Used
+
+- Sonor SQ2 Kit (drums)
+- Paiste Signature / 2002 Series (cymbals)
+- Sonor Giant Step Double Pedal (hardware)
+- Vic Firth American Classic 5A (sticks)
+
 **Core Techniques:** [Metric Modulation](https://metalforge.io/techniques/metric-modulation), [Odd Time Signatures](https://metalforge.io/techniques/odd-time-signatures), [Polyrhythm](https://metalforge.io/techniques/polyrhythm)
 
 ## Odd-Meter Improvisation Study
@@ -51,6 +58,13 @@ Morgan Ågren's approach to odd-meter improvisation is one of the most instructi
 - Set a metronome to the eighth-note subdivision and practise switching meters over it so the pulse never breaks
 - Compose short one- or two-bar odd-meter ostinatos and improvise fills over them rather than free-improvising from scratch
 - Listen extensively to the Mats/Morgan Band catalogue — passive listening in odd meters accelerates internalisation
+
+### Gear Used
+
+- Sonor SQ2 Kit (drums)
+- Paiste Signature / 2002 Series (cymbals)
+- Sonor Giant Step Double Pedal (hardware)
+- Vic Firth American Classic 5A (sticks)
 
 **Core Techniques:** [Odd Time Signatures](https://metalforge.io/techniques/odd-time-signatures), [Polyrhythm](https://metalforge.io/techniques/polyrhythm), [Metric Modulation](https://metalforge.io/techniques/metric-modulation)
 
@@ -75,6 +89,13 @@ The ArtOfDrumming Neyveli performance feature captures Morgan Ågren applying hi
 - Record and listen critically: if the pulse feels unstable when phrases displace, strengthen the pulse foundation before adding complexity
 - Transcribe Ågren's phrase start-points in the Neyveli performance and work them into your own groove practice as a vocabulary exercise
 
+### Gear Used
+
+- Sonor SQ2 Kit (drums)
+- Paiste Signature / 2002 Series (cymbals)
+- Sonor Giant Step Double Pedal (hardware)
+- Vic Firth American Classic 5A (sticks)
+
 **Core Techniques:** [Groove](https://metalforge.io/techniques/groove), [Metric Modulation](https://metalforge.io/techniques/metric-modulation), [Polyrhythm](https://metalforge.io/techniques/polyrhythm)
 
 ## Teaching Points
@@ -90,4 +111,4 @@ Morgan Ågren's style is defined by precision, timing, and genre-defining groove
 
 ---
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

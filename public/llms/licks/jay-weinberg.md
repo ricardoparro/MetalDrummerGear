@@ -29,6 +29,13 @@ When Jay Weinberg stepped into Slipknot, he brought a furious, physical, hardcor
 - Add ghost notes and accents last to capture his aggression
 - Stay relaxed enough to keep the intensity up for the whole song
 
+### Gear Used
+
+- SJC Custom Drums Kit (drums)
+- Zildjian A & K Custom Cymbals (cymbals)
+- DW 9000 Series Double Pedal (hardware)
+- Vater Jay Weinberg 908 Signature (sticks)
+
 **Core Techniques:** [Double Bass](https://metalforge.io/techniques/double-bass), [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
 ## The Devil in I Groove & Dynamics
@@ -51,6 +58,13 @@ When Jay Weinberg stepped into Slipknot, he brought a furious, physical, hardcor
 - Practise the transition from quiet verse to explosive chorus
 - Keep the chorus backbeat heavy but in time, not rushed
 - Place fills to signal section changes, not to fill every gap
+
+### Gear Used
+
+- SJC Custom Drums Kit (drums)
+- Zildjian A Series Cymbals (cymbals)
+- DW 9000 Series Double Pedal (hardware)
+- Vater 5B (sticks)
 
 **Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Double Bass](https://metalforge.io/techniques/double-bass), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
@@ -75,6 +89,13 @@ When Jay Weinberg stepped into Slipknot, he brought a furious, physical, hardcor
 - Keep the tempo steady; the energy comes from feel, not rushing
 - Save the biggest fills for the chorus lifts
 
+### Gear Used
+
+- SJC Custom Drums Kit (drums)
+- Zildjian A & K Custom Cymbals (cymbals)
+- DW 9000 Series Double Pedal (hardware)
+- Vater Jay Weinberg 908 Signature (sticks)
+
 **Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Double Bass](https://metalforge.io/techniques/double-bass), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
 ## Teaching Points
@@ -90,4 +111,4 @@ Jay Weinberg's style is defined by precision, timing, and genre-defining grooves
 
 ---
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

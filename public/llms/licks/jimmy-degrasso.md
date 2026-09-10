@@ -29,6 +29,12 @@ Jimmy DeGrasso is one of Thrash Metal's most influential drummers, best known fo
 - Focus on weight and consistency in the backbeat rather than adding extra fills
 - Listen for how the groove intensity shifts between verse and chorus and match it
 
+### Gear Used
+
+- Pearl Drums (drums)
+- Sabian Cymbals (cymbals)
+- Promark Drumsticks (sticks)
+
 **Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Dynamic Control](https://metalforge.io/techniques/dynamic-control), [Double Bass](https://metalforge.io/techniques/double-bass)
 
 ## Teaching Points
@@ -44,4 +50,4 @@ Jimmy DeGrasso's style is defined by precision, timing, and genre-defining groov
 
 ---
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

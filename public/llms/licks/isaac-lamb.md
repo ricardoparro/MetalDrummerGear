@@ -29,6 +29,12 @@ Isaac Lamb is one of Metalcore / Beatdown Hardcore's most influential drummers, 
 - Work the transition into the breakdown as a specific drill, practising the tempo drop until it feels intentional rather than hesitant
 - Compare your snare placement to the recording — it should land identically on two and four throughout, with no drift
 
+### Gear Used
+
+- SJC Custom Drums (drums)
+- Meinl Cymbals (cymbals)
+- Vic Firth Sticks (sticks)
+
 **Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Breakdown Drumming](https://metalforge.io/techniques/breakdown-drumming), [Rhythmic Precision](https://metalforge.io/techniques/rhythmic-precision)
 
 ## True Fear — Hardcore Intensity and Groove
@@ -51,6 +57,12 @@ Isaac Lamb is one of Metalcore / Beatdown Hardcore's most influential drummers, 
 - Drill the groove-to-blast transition as a specific exercise: play four bars of groove, execute a precise single-stroke transition, then play four bars of blast
 - Practise the phrase-end stroke before each section change until it is automatic — this is the technical hinge that makes the transition sharp
 - Compare your breakdown entry to the recording — it should be immediate and heavy, not cautious or hesitant
+
+### Gear Used
+
+- SJC Custom Drums (drums)
+- Meinl Cymbals (cymbals)
+- Vic Firth Sticks (sticks)
 
 **Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Blast Beat](https://metalforge.io/techniques/blast-beat), [Breakdown Drumming](https://metalforge.io/techniques/breakdown-drumming)
 
@@ -75,6 +87,12 @@ Isaac Lamb is one of Metalcore / Beatdown Hardcore's most influential drummers, 
 - Work the pre-breakdown closing figure as a separate drill until it consistently sets up the tempo displacement rather than stumbling into it
 - Compare your kick placement to the recording beat-by-beat — each kick should align with the guitar's rhythmic accents exactly
 
+### Gear Used
+
+- SJC Custom Drums (drums)
+- Meinl Cymbals (cymbals)
+- Vic Firth Sticks (sticks)
+
 **Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Breakdown Drumming](https://metalforge.io/techniques/breakdown-drumming), [Power Technique](https://metalforge.io/techniques/power-technique)
 
 ## Teaching Points
@@ -90,4 +108,4 @@ Isaac Lamb's style is defined by precision, timing, and genre-defining grooves. 
 
 ---
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

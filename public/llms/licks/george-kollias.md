@@ -29,6 +29,12 @@ George Kollias is widely regarded as one of the fastest and most technically sop
 - Watch slow-motion video of Kollias performing to study the wrist angle and forearm position before attempting at speed
 - Treat the gravity blast as a long-term project: it may take months to internalise the mechanics, but once it clicks it becomes reliable
 
+### Gear Used
+
+- Pearl Reference Series Kit (drums)
+- Tama Iron Cobra HP900 Double Pedal (pedals)
+- Paiste Signature Series (cymbals)
+
 **Core Techniques:** [Gravity Blast](https://metalforge.io/techniques/gravity-blast), [One Handed Roll](https://metalforge.io/techniques/one-handed-roll), [Extreme Speed](https://metalforge.io/techniques/extreme-speed)
 
 ## Polyrhythmic Death Metal Pattern
@@ -51,6 +57,12 @@ George Kollias is widely regarded as one of the fastest and most technically sop
 - Practise 5-over-4 with hands alone at 60-70 BPM until the groupings feel automatic and you stop counting
 - Add the foot pattern only once the hands are comfortable — isolate the combination of one hand plus one foot before adding the full kit
 - Use a polyrhythmic metronome app to hear both pulses simultaneously while you practise
+
+### Gear Used
+
+- Pearl Reference Series Kit (drums)
+- Tama Iron Cobra HP900 Double Pedal (pedals)
+- Paiste Signature Series (cymbals)
 
 **Core Techniques:** [Polyrhythms](https://metalforge.io/techniques/polyrhythms), [Independence](https://metalforge.io/techniques/independence), [Odd Groupings](https://metalforge.io/techniques/odd-groupings)
 
@@ -75,6 +87,12 @@ George Kollias is widely regarded as one of the fastest and most technically sop
 - Take regular breaks during practice sessions and stop immediately if you feel tension or pain — injury at these tempos is a long-term setback
 - Focus every session on relaxation rather than effort: if something feels hard it usually means tension, not weakness, and relaxing through it will produce better results than pushing through
 
+### Gear Used
+
+- Pearl Reference Pure (drums)
+- Tama Iron Cobra HP900 Double Pedal (pedals)
+- Evans Hybrid Heads (heads)
+
 **Core Techniques:** [Blast Beat](https://metalforge.io/techniques/blast-beat), [Stamina](https://metalforge.io/techniques/stamina), [Double Bass](https://metalforge.io/techniques/double-bass)
 
 ## Teaching Points
@@ -90,4 +108,4 @@ George Kollias's style is defined by precision, timing, and genre-defining groov
 
 ---
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

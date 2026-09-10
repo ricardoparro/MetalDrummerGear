@@ -29,6 +29,13 @@ Nicko McBrain is one of Heavy Metal / NWOBHM's most influential drummers, best k
 - Build hand stamina — the song's drive comes from the hands
 - Practise the tom fills as controlled bursts that resolve cleanly
 
+### Gear Used
+
+- Pearl DLX Kit (drums)
+- Paiste 2002 & Signature Cymbals (cymbals)
+- DW 5000 Single Pedal (hardware)
+- Vic Firth Nicko McBrain Signature (sticks)
+
 **Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Fill Techniques](https://metalforge.io/techniques/fill-techniques), [Linear Drumming](https://metalforge.io/techniques/linear-drumming)
 
 ## Aces High Full-Throttle Drive
@@ -51,6 +58,13 @@ Nicko McBrain is one of Heavy Metal / NWOBHM's most influential drummers, best k
 - Stay relaxed so the high tempo is sustainable for the whole song
 - Practise the fills until they snap back into the pocket every time
 - Focus on consistency — the drive comes from holding the pattern
+
+### Gear Used
+
+- Pearl DLX Kit (drums)
+- Paiste 2002 & Signature Cymbals (cymbals)
+- DW 5000 Single Pedal (hardware)
+- Vic Firth Nicko McBrain Signature (sticks)
 
 **Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Fill Techniques](https://metalforge.io/techniques/fill-techniques), [Linear Drumming](https://metalforge.io/techniques/linear-drumming)
 
@@ -75,6 +89,13 @@ Nicko McBrain is one of Heavy Metal / NWOBHM's most influential drummers, best k
 - Keep the tempo steady — energy comes from drive, not rushing
 - Play with confidence; the anthem demands showmanship
 
+### Gear Used
+
+- Sonor SQ2 Series Kit (drums)
+- Paiste 2002 & Signature Cymbals (cymbals)
+- DW 5000 Single Pedal (hardware)
+- Vic Firth Nicko McBrain Signature (sticks)
+
 **Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Fill Techniques](https://metalforge.io/techniques/fill-techniques), [Linear Drumming](https://metalforge.io/techniques/linear-drumming)
 
 ## Teaching Points
@@ -90,4 +111,4 @@ Nicko McBrain's style is defined by precision, timing, and genre-defining groove
 
 ---
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

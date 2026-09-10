@@ -29,6 +29,13 @@ Kevin Talley's work on Dying Fetus's 1998 debut full-length Killing on Adrenalin
 - Start at a tempo where every stroke rebounds cleanly, not the fastest you can manage
 - Film from the side to check stick angle: the stick should fall nearly parallel to the head surface, not perpendicular
 
+### Gear Used
+
+- Pearl Masters Kit (drums)
+- Sabian AAX Series (cymbals)
+- Pearl Eliminator Double Pedal (hardware)
+- Vic Firth American Classic Sticks (sticks)
+
 **Core Techniques:** [Gravity Blast](https://metalforge.io/techniques/gravity-blast), [Blast Beat](https://metalforge.io/techniques/blast-beat), [Double Bass](https://metalforge.io/techniques/double-bass)
 
 ## Killing on Adrenaline Two-Handed Blast
@@ -51,6 +58,13 @@ The title track of Dying Fetus's 1998 debut is a relentless showcase of Kevin Ta
 - Add the double bass only after both hands are even — the feet amplify any existing imbalance
 - Use a timer to build blast endurance in sets: 30 seconds on, 30 seconds rest, gradually extending the work intervals
 - Record audio as well as video to hear whether both hands are producing the same volume and articulation
+
+### Gear Used
+
+- Pearl Masters Kit (drums)
+- Sabian AAX Series (cymbals)
+- Pearl Eliminator Double Pedal (hardware)
+- Vic Firth American Classic Sticks (sticks)
 
 **Core Techniques:** [Blast Beat](https://metalforge.io/techniques/blast-beat), [Double Bass](https://metalforge.io/techniques/double-bass), [Hand Speed](https://metalforge.io/techniques/hand-speed)
 
@@ -75,6 +89,13 @@ One of Kevin Talley's most underappreciated qualities is his ability to shift ge
 - Resist filling every gap — the discipline of leaving space is the point of this style
 - Focus on dynamics: if the snare volume varies hit-to-hit, the pocket will feel unsteady to the rest of the band
 
+### Gear Used
+
+- Pearl Masters Kit (drums)
+- Sabian AAX Series (cymbals)
+- Pearl Eliminator Double Pedal (hardware)
+- Vic Firth American Classic Sticks (sticks)
+
 **Core Techniques:** [Groove](https://metalforge.io/techniques/groove), [Double Bass](https://metalforge.io/techniques/double-bass), [Linear Drumming](https://metalforge.io/techniques/linear-drumming)
 
 ## Teaching Points
@@ -90,4 +111,4 @@ Kevin Talley's style is defined by precision, timing, and genre-defining grooves
 
 ---
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

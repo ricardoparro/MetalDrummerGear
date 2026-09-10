@@ -29,6 +29,13 @@ Jocke Wallgren is one of Melodic Death Metal / Viking Metal's most influential d
 - Practice the ride cymbal and double bass independently first, then layer them together — the hands often lose their pattern quality when the feet first come in at full tempo
 - Learn the verse-to-chorus double bass entry point as a specific drill: play 4 bars of the lighter verse groove, then drop into the full double bass on bar 5, and repeat until the entry is automatic and immediate
 
+### Gear Used
+
+- Pearl Reference Pure (drums)
+- Zildjian A Custom & K Custom Series (cymbals)
+- Pearl Demon Drive Double Pedal (pedals)
+- Vic Firth 5B Sticks (sticks)
+
 **Core Techniques:** [Double Bass](https://metalforge.io/techniques/double-bass), [Groove Drumming](https://metalforge.io/techniques/groove-drumming)
 
 ## Runes to My Memory Melodic Death Groove
@@ -51,6 +58,13 @@ Jocke Wallgren is one of Melodic Death Metal / Viking Metal's most influential d
 - Map the double bass placement points by listening to the guitar riff and identifying the specific accent notes where kick density would reinforce (not obscure) the melody
 - Practice the pre-chorus build as a standalone four-to-eight bar phrase: start at the verse kick density, gradually increase double bass over the build bars, land the chorus with maximum authority
 - Record the full groove and listen back to whether your verse feel has the restraint the section requires — many drummers overfill verse sections in melodic death metal out of habit from heavier material
+
+### Gear Used
+
+- Pearl Reference Pure (drums)
+- Zildjian A Custom & K Custom Series (cymbals)
+- Pearl Demon Drive Double Pedal (pedals)
+- Vic Firth 5B Sticks (sticks)
 
 **Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Double Bass](https://metalforge.io/techniques/double-bass)
 
@@ -75,6 +89,13 @@ Jocke Wallgren is one of Melodic Death Metal / Viking Metal's most influential d
 - Work on blast exit independently: run 8 bars of blast, then land a groove downbeat on bar 9 — the re-entry must feel immediate and in-pocket
 - Record blast passages and count the stroke evenness: each kick should be the same volume and each snare the same volume — dynamic drift across the blast passage is the first sign of technique breakdown under fatigue
 
+### Gear Used
+
+- Pearl Reference Pure (drums)
+- Zildjian A Custom & K Custom Series (cymbals)
+- Pearl Demon Drive Double Pedal (pedals)
+- Vic Firth 5B Sticks (sticks)
+
 **Core Techniques:** [Blast Beat](https://metalforge.io/techniques/blast-beat), [Double Bass](https://metalforge.io/techniques/double-bass), [Groove Drumming](https://metalforge.io/techniques/groove-drumming)
 
 ## Teaching Points
@@ -90,4 +111,4 @@ Jocke Wallgren's style is defined by precision, timing, and genre-defining groov
 
 ---
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

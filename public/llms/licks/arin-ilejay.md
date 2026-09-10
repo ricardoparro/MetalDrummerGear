@@ -29,6 +29,13 @@ The title track of Avenged Sevenfold's sixth studio album "Hail to the King" (20
 - Record yourself and listen for snare weight consistency across the whole take; it should never go thin
 - Resist adding fills in verse sections — the power of the groove comes from what you don't play as much as what you do
 
+### Gear Used
+
+- DW Collector's Series (drums)
+- Zildjian A Custom Series (cymbals)
+- DW 9000 Series Double Pedal (pedals)
+- Vic Firth American Classic 5A (sticks)
+
 **Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Half Time Feel](https://metalforge.io/techniques/half-time-feel), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
 ## Shepherd of Fire Double Bass Drive
@@ -51,6 +58,13 @@ The title track of Avenged Sevenfold's sixth studio album "Hail to the King" (20
 - Record both feet separately using heel-up technique and listen for volume and timing differences between left and right
 - Build stamina by practising the double bass pattern in 90-second blocks before attempting full-song runs
 - Focus on riff-lock: listen to the guitar recording and ensure your kick accents land exactly with the lowest guitar notes
+
+### Gear Used
+
+- DW Collector's Series (drums)
+- Zildjian A Custom Series (cymbals)
+- DW 9000 Series Double Pedal (pedals)
+- Vic Firth American Classic 5A (sticks)
 
 **Core Techniques:** [Double Bass](https://metalforge.io/techniques/double-bass), [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
@@ -75,6 +89,13 @@ The title track of Avenged Sevenfold's sixth studio album "Hail to the King" (20
 - Record yourself at full song tempo and listen for places where the groove tempo shifts during the fills
 - Build hi-hat endurance by playing the verse pattern for two minutes straight before adding fills
 
+### Gear Used
+
+- DW Collector's Series (drums)
+- Zildjian A Custom Series (cymbals)
+- DW 9000 Series Double Pedal (pedals)
+- Vic Firth American Classic 5A (sticks)
+
 **Core Techniques:** [Fill Techniques](https://metalforge.io/techniques/fill-techniques), [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Double Bass](https://metalforge.io/techniques/double-bass)
 
 ## Teaching Points
@@ -90,4 +111,4 @@ Arin Ilejay's style is defined by precision, timing, and genre-defining grooves.
 
 ---
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

@@ -29,6 +29,12 @@ Brann Dailor is one of Progressive/Sludge Metal's most influential drummers, bes
 - Lock the kick to a metronome first, then layer the ornamentation on top
 - Count to beat one out loud so every fill resolves back in time
 
+### Gear Used
+
+- Tama Starclassic Kit (drums)
+- Meinl Cymbals (cymbals)
+- Tama Speed Cobra Pedals (pedals)
+
 **Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Fill Techniques](https://metalforge.io/techniques/fill-techniques), [Linear Drumming](https://metalforge.io/techniques/linear-drumming)
 
 ## Hearts Alive Melodic Fills
@@ -51,6 +57,12 @@ Brann Dailor is one of Progressive/Sludge Metal's most influential drummers, bes
 - Record yourself to check the pulse stays steady underneath the busy hands
 - Practise the melodic tom phrases slowly so each note speaks clearly
 - Work on dynamics — play the quiet sections genuinely quietly for contrast
+
+### Gear Used
+
+- Tama Starclassic Kit (drums)
+- Meinl Cymbals (cymbals)
+- Tama Speed Cobra Pedals (pedals)
 
 **Core Techniques:** [Fill Techniques](https://metalforge.io/techniques/fill-techniques), [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Polyrhythms](https://metalforge.io/techniques/polyrhythms)
 
@@ -75,6 +87,12 @@ Brann Dailor is one of Progressive/Sludge Metal's most influential drummers, bes
 - Keep the ride/tom pattern relaxed and circular rather than stiff
 - Listen to the full song repeatedly so you internalise where the lifts belong
 
+### Gear Used
+
+- Tama Starclassic Kit (drums)
+- Meinl Cymbals (cymbals)
+- Tama Speed Cobra Pedals (pedals)
+
 **Core Techniques:** [Odd Time Signatures](https://metalforge.io/techniques/odd-time-signatures), [Fill Techniques](https://metalforge.io/techniques/fill-techniques), [Groove Drumming](https://metalforge.io/techniques/groove-drumming)
 
 ## Blood and Thunder Swung Quasi-Blast
@@ -97,6 +115,12 @@ Within Blood and Thunder's runtime, Brann Dailor deploys a swung quasi-blast gro
 - Keep shoulders and wrists completely loose so the swing flows rather than being forced
 - Work on the kick gallop separately with a metronome before adding the swung hi-hat
 - Record yourself and compare to the track to gauge how much swing is correct
+
+### Gear Used
+
+- Tama Starclassic Kit (drums)
+- Meinl Cymbals (cymbals)
+- Tama Speed Cobra Pedals (pedals)
 
 **Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Linear Drumming](https://metalforge.io/techniques/linear-drumming), [Stamina](https://metalforge.io/techniques/stamina)
 
@@ -121,6 +145,12 @@ The title track of Mastodon's 2009 psychedelic prog opus Crack the Skye contains
 - Work on hi-hat foot independence so the hands can roam freely over a steady foot pulse
 - Listen to the full album repeatedly to internalise the psychedelic atmosphere and phrasing
 
+### Gear Used
+
+- Tama Starclassic Kit (drums)
+- Meinl Cymbals (cymbals)
+- Tama Speed Cobra Pedals (pedals)
+
 **Core Techniques:** [Fill Techniques](https://metalforge.io/techniques/fill-techniques), [Odd Time Signatures](https://metalforge.io/techniques/odd-time-signatures), [Groove Drumming](https://metalforge.io/techniques/groove-drumming)
 
 ## Colony of Birchmen Funky Groove
@@ -144,6 +174,12 @@ Colony of Birchmen from Mastodon's Blood Mountain (2006) reveals a side of Brann
 - Work on hi-hat nuance with open and closed strokes to build the textured hi-hat surface
 - Record yourself and listen back — the groove should feel relaxed and elastic, not stiff
 
+### Gear Used
+
+- Tama Starclassic Kit (drums)
+- Meinl Cymbals (cymbals)
+- Tama Speed Cobra Pedals (pedals)
+
 **Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Ghost Notes](https://metalforge.io/techniques/ghost-notes), [Hi Hat Control](https://metalforge.io/techniques/hi-hat-control)
 
 ## Teaching Points
@@ -159,4 +195,4 @@ Brann Dailor's style is defined by precision, timing, and genre-defining grooves
 
 ---
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

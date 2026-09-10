@@ -29,6 +29,12 @@ Abe Cunningham is one of Alternative Metal / Nu Metal's most influential drummer
 - Learn the cymbal swell by practising crescendo rolls from pianissimo to fortissimo in isolation
 - Map the song's dynamic arc on paper before playing — know exactly where each volume change lands
 
+### Gear Used
+
+- Tama Starclassic Maple/Bubinga Kit (drums)
+- Zildjian K Custom & A Custom Series Cymbals (cymbals)
+- Tama Iron Cobra 900 Rolling Glide Pedal (pedals)
+
 **Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Linear Drumming](https://metalforge.io/techniques/linear-drumming), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
 ## My Own Summer Power Groove
@@ -51,6 +57,12 @@ Abe Cunningham is one of Alternative Metal / Nu Metal's most influential drummer
 - Focus on snare weight before speed — a heavy, authoritative backbeat gives more power than a fast, thin one
 - Practise the kick-riff lock in isolation with a guitar recording to ensure they mesh cleanly
 - Record yourself at full song length and listen for where the groove starts to drift or lose punch
+
+### Gear Used
+
+- Tama Starclassic Maple/Bubinga Kit (drums)
+- Zildjian K Custom & A Custom Series Cymbals (cymbals)
+- Tama Iron Cobra 900 Rolling Glide Pedal (pedals)
 
 **Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Fill Techniques](https://metalforge.io/techniques/fill-techniques), [Double Bass](https://metalforge.io/techniques/double-bass)
 
@@ -79,6 +91,12 @@ The build through "Passenger" mirrors the dynamic architecture of White Pony as 
 - Map every kick placement to a vocal or guitar event in the song — each one should have a reason, not a pattern
 - Sit with the song as a listener before playing it — understand the emotional arc so you know when the single heavy hit needs to land
 
+### Gear Used
+
+- Tama Starclassic Maple/Bubinga Kit (drums)
+- Zildjian K Custom & A Custom Series Cymbals (cymbals)
+- Tama Iron Cobra 900 Rolling Glide Pedal (pedals)
+
 **Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Dynamic Control](https://metalforge.io/techniques/dynamic-control), [Ghost Notes](https://metalforge.io/techniques/ghost-notes)
 
 ## Diamond Eyes Rolling Tom Fill
@@ -105,6 +123,12 @@ What makes the "Diamond Eyes" fill passages such a rewarding study is their phys
 - Map the fill entry points to the song structure — know exactly which bar the fill begins in before playing
 - Practise the transition from closed verse hi-hat to open chorus hi-hat in isolation until it is automatic
 - Record the full song and listen for whether fills feel premature or hesitant — that is where the slow-tempo drilling needs to happen
+
+### Gear Used
+
+- Tama Starclassic Maple/Bubinga Kit (drums)
+- Sabian HHX Cymbals (cymbals)
+- Tama Iron Cobra 900 Rolling Glide Pedal (pedals)
 
 **Core Techniques:** [Fill Techniques](https://metalforge.io/techniques/fill-techniques), [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Dynamic Control](https://metalforge.io/techniques/dynamic-control)
 
@@ -133,6 +157,12 @@ The wrist mechanics that enable this kind of syncopated hi-hat work involve diff
 - Compare your recording with the original to check accent placement — the syncopation is subtle, and small differences change the feel significantly
 - Once the hi-hat pattern is solid, practise transitions to open hi-hat for chorus sections to integrate the full groove into a song performance
 
+### Gear Used
+
+- Tama Starclassic Maple/Bubinga Kit (drums)
+- Zildjian K Custom & A Custom Series Cymbals (cymbals)
+- Tama Iron Cobra 900 Rolling Glide Pedal (pedals)
+
 **Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Syncopation](https://metalforge.io/techniques/syncopation), [Dynamic Control](https://metalforge.io/techniques/dynamic-control)
 
 ## Change Minimalist Alt-Metal Groove
@@ -156,6 +186,12 @@ The wrist mechanics that enable this kind of syncopated hi-hat work involve diff
 - Record yourself and listen back at full volume to check that quiet sections are truly quiet
 - Resist the urge to add fills in the quiet sections — silence is the point
 
+### Gear Used
+
+- Tama Starclassic Maple/Bubinga Kit (drums)
+- Zildjian K Custom & A Custom Series Cymbals (cymbals)
+- Tama Iron Cobra 900 Rolling Glide Pedal (pedals)
+
 **Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Linear Drumming](https://metalforge.io/techniques/linear-drumming), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
 ## Teaching Points
@@ -171,4 +207,4 @@ Abe Cunningham's style is defined by precision, timing, and genre-defining groov
 
 ---
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

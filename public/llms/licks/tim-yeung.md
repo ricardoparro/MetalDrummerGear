@@ -29,6 +29,13 @@ Divine Heresy's 2007 debut album *Bleed the Fifth* introduced Tim Yeung to a wid
 - Practise the kick separately at blast tempo to verify both feet are producing identical tone
 - Add five BPM per session once you can sustain the current tempo cleanly for a full minute
 
+### Gear Used
+
+- Pearl Reference Series Kit (drums)
+- Sabian AAX Cymbals (cymbals)
+- Pearl Demon Drive Double Pedal (pedals)
+- Vic Firth 5B Sticks (sticks)
+
 **Core Techniques:** [Blast Beat](https://metalforge.io/techniques/blast-beat), [Double Bass](https://metalforge.io/techniques/double-bass), [One Handed Roll](https://metalforge.io/techniques/one-handed-roll)
 
 ## Inferno of Violence Double Bass Drive
@@ -51,6 +58,13 @@ Tim Yeung built his reputation across multiple extreme metal bands before Divine
 - Record the feet with a kick mic and compare left and right foot tone; match them before adding speed
 - Loop eight-bar double bass passages rather than one-bar bursts to build the endurance the song demands
 - Raise tempo in three-BPM increments and only advance once the current tempo sustains for a full minute cleanly
+
+### Gear Used
+
+- Pearl Reference Series Kit (drums)
+- Sabian AAX Cymbals (cymbals)
+- Pearl Demon Drive Double Pedal (pedals)
+- Evans EMAD Bass Drum Heads (drums)
 
 **Core Techniques:** [Double Bass](https://metalforge.io/techniques/double-bass), [Blast Beat](https://metalforge.io/techniques/blast-beat), [Linear Drumming](https://metalforge.io/techniques/linear-drumming)
 
@@ -75,6 +89,13 @@ While Tim Yeung is primarily celebrated for blast beat endurance and double bass
 - Slow the full groove to 120 BPM and listen for ghost note audibility — only raise tempo once ghost notes remain present
 - Use a metronome and aim for effortlessness at 160 BPM before pushing toward the target 185 BPM
 
+### Gear Used
+
+- Pearl Reference Series Kit (drums)
+- Sabian AAX Cymbals (cymbals)
+- Pearl Demon Drive Double Pedal (pedals)
+- Vic Firth 5B Sticks (sticks)
+
 **Core Techniques:** [Blast Beat](https://metalforge.io/techniques/blast-beat), [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Double Bass](https://metalforge.io/techniques/double-bass)
 
 ## Teaching Points
@@ -90,4 +111,4 @@ Tim Yeung's style is defined by precision, timing, and genre-defining grooves. K
 
 ---
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

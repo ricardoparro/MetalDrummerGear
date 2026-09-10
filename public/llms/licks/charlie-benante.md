@@ -29,6 +29,12 @@ Charlie Benante is one of Thrash Metal's most influential drummers, best known f
 - Loop the verse and chorus separately before stringing them together
 - Record yourself and check the kick lines up exactly with the riff
 
+### Gear Used
+
+- Tama Starclassic Kit (drums)
+- Paiste Cymbals (cymbals)
+- Tama Iron Cobra Double Pedal (pedals)
+
 **Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Double Bass](https://metalforge.io/techniques/double-bass), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
 ## Madhouse Thrash Groove
@@ -51,6 +57,12 @@ Charlie Benante is one of Thrash Metal's most influential drummers, best known f
 - Keep the hi-hat tight and consistent so the groove stays danceable
 - Practise the tom fills separately, then place them back into the groove
 - Use a metronome to keep the syncopated accents from rushing
+
+### Gear Used
+
+- Tama Starclassic Kit (drums)
+- Paiste Cymbals (cymbals)
+- Tama Iron Cobra Double Pedal (pedals)
 
 **Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Double Bass](https://metalforge.io/techniques/double-bass), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
@@ -75,6 +87,12 @@ Charlie Benante is one of Thrash Metal's most influential drummers, best known f
 - Keep the half-time backbeat authoritative without rushing into the next bar
 - Loop the transition between the thrash sections and the breakdown
 
+### Gear Used
+
+- Tama Starclassic Kit (drums)
+- Paiste Cymbals (cymbals)
+- Tama Iron Cobra Double Pedal (pedals)
+
 **Core Techniques:** [Double Bass](https://metalforge.io/techniques/double-bass), [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
 ## Among the Living Thrash Groove
@@ -97,6 +115,12 @@ Charlie Benante is one of Thrash Metal's most influential drummers, best known f
 - Practise the main groove at 70% tempo and lock the kick to the riff before adding any fills
 - Work on sustaining the groove across multiple minutes without losing the pocket or the power
 - Practise the fills in isolation, then re-insert them at the exact section changes where they belong
+
+### Gear Used
+
+- Tama Starclassic Kit (drums)
+- Paiste Cymbals (cymbals)
+- Tama Iron Cobra Double Pedal (pedals)
 
 **Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Double Bass](https://metalforge.io/techniques/double-bass), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
@@ -121,6 +145,12 @@ Persistence of Time (1990) marks the point where Charlie Benante pushed Anthrax'
 - Record and listen critically — Benante's blast is even and controlled, not ragged at the edges
 - Study the song's arrangement to know exactly when the blast arrives and what it should accomplish each time
 
+### Gear Used
+
+- Tama Starclassic Kit (drums)
+- Paiste Cymbals (cymbals)
+- Tama Iron Cobra Double Pedal (pedals)
+
 **Core Techniques:** [Blast Beat](https://metalforge.io/techniques/blast-beat), [Double Bass](https://metalforge.io/techniques/double-bass), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
 ## State of Euphoria Mid-Tempo Groove
@@ -144,6 +174,12 @@ Persistence of Time (1990) marks the point where Charlie Benante pushed Anthrax'
 - Keep the hi-hat consistent: any rushing in the hi-hat will undermine the groove's swagger
 - Practise the tom fills separately and listen to how Benante places them — they land and resolve cleanly every time
 
+### Gear Used
+
+- Tama Starclassic Kit (drums)
+- Paiste Cymbals (cymbals)
+- Tama Iron Cobra Double Pedal (pedals)
+
 **Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Double Bass](https://metalforge.io/techniques/double-bass), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
 ## Teaching Points
@@ -159,4 +195,4 @@ Charlie Benante's style is defined by precision, timing, and genre-defining groo
 
 ---
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

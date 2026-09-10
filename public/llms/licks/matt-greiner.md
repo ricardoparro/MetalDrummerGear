@@ -29,6 +29,12 @@ Matt Greiner is one of Metalcore / Christian Metal's most influential drummers, 
 - Loop one section with a metronome before stringing the parts together
 - Record yourself and check that the kick lines up exactly with the riff
 
+### Gear Used
+
+- Pearl Reference Series Kit (drums)
+- Meinl Byzance Cymbals (cymbals)
+- Double Bass Pedals (pedals)
+
 **Core Techniques:** [Odd Time Signatures](https://metalforge.io/techniques/odd-time-signatures), [Double Bass](https://metalforge.io/techniques/double-bass), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
 ## Meridian Double-Bass Groove
@@ -51,6 +57,12 @@ Matt Greiner is one of Metalcore / Christian Metal's most influential drummers, 
 - Keep your ankles relaxed so the pedals rebound on their own
 - Use cymbal changes deliberately to mark the sections as Greiner does
 - Practise the fills separately, then place them back into the groove
+
+### Gear Used
+
+- Pearl Reference Series Kit (drums)
+- Meinl Byzance Cymbals (cymbals)
+- Double Bass Pedals (pedals)
 
 **Core Techniques:** [Double Bass](https://metalforge.io/techniques/double-bass), [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Blast Beat](https://metalforge.io/techniques/blast-beat)
 
@@ -75,6 +87,12 @@ Matt Greiner is one of Metalcore / Christian Metal's most influential drummers, 
 - Build double-bass endurance so the part holds up across the full song
 - Follow the official playthrough to learn the orchestration and sticking
 
+### Gear Used
+
+- Pearl Reference Series Kit (drums)
+- Meinl Byzance Cymbals (cymbals)
+- Double Bass Pedals (pedals)
+
 **Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Double Bass](https://metalforge.io/techniques/double-bass), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
 ## Messengers Blast-to-Groove Transition
@@ -97,6 +115,12 @@ The Messengers (2007) was August Burns Red's breakthrough second album, and the 
 - Slow the full passage to 60% tempo so you can hear and feel exactly where the transition lands
 - Record the riff on a loop and practise transitioning on every repeat to build pattern recognition
 - Focus the transition on the feet first — the hands can follow once the kick pattern change is automatic
+
+### Gear Used
+
+- Pearl Reference Series Kit (drums)
+- Meinl Byzance Cymbals (cymbals)
+- Double Bass Pedals (pedals)
 
 **Core Techniques:** [Blast Beat](https://metalforge.io/techniques/blast-beat), [Double Bass](https://metalforge.io/techniques/double-bass), [Groove Drumming](https://metalforge.io/techniques/groove-drumming)
 
@@ -121,6 +145,12 @@ By 2009's Constellations, Matt Greiner had developed a remarkable facility for p
 - Build up from one bar of the polyrhythm at a time — two bars, then four — until the full passage is secure
 - Practise the return to the main pulse at the end of each polyrhythmic phrase until re-entry feels automatic
 
+### Gear Used
+
+- Pearl Reference Series Kit (drums)
+- Meinl Byzance Cymbals (cymbals)
+- Double Bass Pedals (pedals)
+
 **Core Techniques:** [Odd Time Signatures](https://metalforge.io/techniques/odd-time-signatures), [Double Bass](https://metalforge.io/techniques/double-bass), [Groove Drumming](https://metalforge.io/techniques/groove-drumming)
 
 ## Leveler Double-Bass Run
@@ -143,6 +173,12 @@ Released in 2011, August Burns Red's Leveler is widely regarded as the band's cr
 - Practise single-foot 16th notes at the full song tempo before combining both feet
 - Use a click track and record your playing — the waveform will reveal unevenness between feet
 - Build endurance in 30-second blocks, then 60-second blocks, working toward the full song duration
+
+### Gear Used
+
+- Pearl Reference Series Kit (drums)
+- Meinl Byzance Cymbals (cymbals)
+- Double Bass Pedals (pedals)
 
 **Core Techniques:** [Double Bass](https://metalforge.io/techniques/double-bass), [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
@@ -167,6 +203,12 @@ Constellations (2009) is August Burns Red's most acclaimed album, and while trac
 - Use a loop of the guitar riff as your click so the blast stays locked to the band
 - Focus on consistency of each stroke rather than raw speed — evenness at 90% tempo beats ragged playing at full speed
 
+### Gear Used
+
+- Pearl Reference Series Kit (drums)
+- Meinl Byzance Cymbals (cymbals)
+- Double Bass Pedals (pedals)
+
 **Core Techniques:** [Blast Beat](https://metalforge.io/techniques/blast-beat), [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Double Bass](https://metalforge.io/techniques/double-bass)
 
 ## Leveler 5-Over-4 Polyrhythm
@@ -189,6 +231,12 @@ August Burns Red's 2011 album Leveler pushed Matt Greiner's rhythmic vocabulary 
 - Use two metronomes or a polyrhythm app to hear both rhythmic layers simultaneously
 - Build from one bar of the polyrhythm at a time — two bars, then four — before attempting the full passage
 - Practise returning to the main pulse at the end of each cycle until re-entry feels completely automatic
+
+### Gear Used
+
+- Pearl Reference Series Kit (drums)
+- Meinl Byzance Cymbals (cymbals)
+- Double Bass Pedals (pedals)
 
 **Core Techniques:** [Odd Time Signatures](https://metalforge.io/techniques/odd-time-signatures), [Double Bass](https://metalforge.io/techniques/double-bass), [Groove Drumming](https://metalforge.io/techniques/groove-drumming)
 
@@ -213,6 +261,12 @@ August Burns Red's 2011 album Leveler pushed Matt Greiner's rhythmic vocabulary 
 - Practise the fills in isolation, then place them back into the groove at tempo
 - Record yourself and check that the kick consistently lines up with the guitar riff throughout
 
+### Gear Used
+
+- Pearl Reference Series Kit (drums)
+- Meinl Byzance Cymbals (cymbals)
+- Double Bass Pedals (pedals)
+
 **Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Double Bass](https://metalforge.io/techniques/double-bass), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
 ## Teaching Points
@@ -228,4 +282,4 @@ Matt Greiner's style is defined by precision, timing, and genre-defining grooves
 
 ---
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

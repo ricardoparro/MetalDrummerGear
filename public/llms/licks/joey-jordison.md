@@ -28,6 +28,11 @@ The iconic opening drum fill that kicks off one of metal's most intense songs. J
 - Add the bass drum pattern once the hands are solid
 - Use a practice pad to build hand speed before moving to kit
 
+### Gear Used
+
+- Pearl Export Series Kit (drums)
+- Paiste 2002 Cymbals (cymbals)
+
 **Core Techniques:** [Blast Beat](https://metalforge.io/techniques/blast-beat), [Double Bass](https://metalforge.io/techniques/double-bass), [Snare Rolls](https://metalforge.io/techniques/snare-rolls)
 
 ## Eyeless Blast Section
@@ -50,6 +55,11 @@ Joey's devastating blast beat section that showcases his extreme metal roots. Th
 - Use a metronome religiously
 - Take breaks to avoid injury - blast beats are physically demanding
 
+### Gear Used
+
+- Pearl Export Series Kit (drums)
+- Paiste 2002 14" Hi-Hats (cymbals)
+
 **Core Techniques:** [Blast Beat](https://metalforge.io/techniques/blast-beat), [Single Stroke Roll](https://metalforge.io/techniques/single-stroke-roll)
 
 ## Disasterpiece Chaos Fill
@@ -71,6 +81,11 @@ The frantic fill that connects verses and choruses in one of Slipknot's most agg
 - Practice each section of the fill separately
 - Focus on the transitions between tom groups
 - Work on dynamics - Joey uses contrast for impact
+
+### Gear Used
+
+- Pearl Export Series Kit (drums)
+- Evans EC2 Heads (heads)
 
 **Core Techniques:** [Tom Fill](https://metalforge.io/techniques/tom-fill), [Double Bass](https://metalforge.io/techniques/double-bass), [Dynamics](https://metalforge.io/techniques/dynamics)
 
@@ -95,6 +110,11 @@ The title track of Slipknot's Iowa (2001) is one of the most extreme drumming pe
 - Practise the double-bass pattern for gradually increasing durations — 2 minutes, then 5, building toward the full track
 - Monitor your dynamics as fatigue sets in — if the kick softens, stop, rest, and restart at full intensity
 
+### Gear Used
+
+- Pearl Masterworks Custom Kit (drums)
+- Paiste RUDE & 2002 Cymbals (cymbals)
+
 **Core Techniques:** [Double Bass](https://metalforge.io/techniques/double-bass), [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Dynamics](https://metalforge.io/techniques/dynamics)
 
 ## (sic) Displaced Snare Pattern
@@ -117,6 +137,11 @@ The title track of Slipknot's Iowa (2001) is one of the most extreme drumming pe
 - Play the groove with just kick and hi-hat first, then add the displaced snare accent last
 - Slow the passage to 80 BPM and count the snare displacement explicitly before building back up
 - Record and listen to confirm the displaced accent lands consistently in the intended rhythmic position
+
+### Gear Used
+
+- Pearl Export Series Kit (drums)
+- Paiste 2002 Cymbals (cymbals)
 
 **Core Techniques:** [Snare Displacement](https://metalforge.io/techniques/snare-displacement), [Double Bass](https://metalforge.io/techniques/double-bass), [Groove Drumming](https://metalforge.io/techniques/groove-drumming)
 
@@ -141,6 +166,11 @@ The title track of Slipknot's Iowa (2001) is one of the most extreme drumming pe
 - Keep the wrists relaxed even under maximum intensity — tension is the enemy of blast-beat stamina
 - Take regular rest breaks to prevent injury — this blast is among the most physically demanding in metal
 
+### Gear Used
+
+- Pearl Masterworks Custom Kit (drums)
+- Paiste RUDE Cymbals (cymbals)
+
 **Core Techniques:** [Blast Beat](https://metalforge.io/techniques/blast-beat), [Double Bass](https://metalforge.io/techniques/double-bass), [Single Stroke Roll](https://metalforge.io/techniques/single-stroke-roll)
 
 ## Teaching Points
@@ -156,4 +186,4 @@ Joey Jordison's style is defined by precision, timing, and genre-defining groove
 
 ---
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

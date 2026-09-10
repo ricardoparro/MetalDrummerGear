@@ -29,6 +29,13 @@ Mikkey Dee is one of Heavy Metal / Hard Rock's most influential drummers, best k
 - Stay relaxed so the high tempo stays sustainable
 - Play fills as controlled bursts that drive the song
 
+### Gear Used
+
+- Tama Artstar II/Swingstar Kit (drums)
+- Paiste Cymbals (cymbals)
+- Yamaha FP9 Double Pedal (hardware)
+- Vic Firth Mikkey Dee Signature (sticks)
+
 **Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Double Bass](https://metalforge.io/techniques/double-bass), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
 ## Overkill Double-Bass Freight Train
@@ -51,6 +58,13 @@ Mikkey Dee is one of Heavy Metal / Hard Rock's most influential drummers, best k
 - Develop stamina to sustain the double bass through the song
 - Practise the false-ending hits so they land tight
 - Keep the backbeat huge over the rumbling feet
+
+### Gear Used
+
+- Tama Artstar II/Swingstar Kit (drums)
+- Paiste Cymbals (cymbals)
+- Yamaha FP9 Double Pedal (hardware)
+- Vic Firth Mikkey Dee Signature (sticks)
 
 **Core Techniques:** [Double Bass](https://metalforge.io/techniques/double-bass), [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
@@ -75,6 +89,13 @@ Mikkey Dee is one of Heavy Metal / Hard Rock's most influential drummers, best k
 - Place fills where the song lifts, not everywhere
 - Build stamina to hold the driving groove for the whole song
 
+### Gear Used
+
+- Tama Artstar II/Swingstar Kit (drums)
+- Paiste Cymbals (cymbals)
+- Yamaha FP9 Double Pedal (hardware)
+- Vic Firth Mikkey Dee Signature (sticks)
+
 **Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Fill Techniques](https://metalforge.io/techniques/fill-techniques), [Double Bass](https://metalforge.io/techniques/double-bass)
 
 ## Bastards Motorik Drive
@@ -97,6 +118,13 @@ When Mikkey Dee joined Motörhead in 1992, he brought a technical pedigree that 
 - Add the backbeat next — keep it heavy and consistent before introducing the kick
 - Stay relaxed in the grip; tension at speed kills the locomotive feel
 - Listen to Bastards closely and copy the weight and attitude of each stroke
+
+### Gear Used
+
+- Tama Artstar II/Swingstar Kit (drums)
+- Paiste Cymbals (cymbals)
+- Sonor Double Pedal (hardware)
+- Vic Firth Mikkey Dee Signature (sticks)
 
 **Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Double Bass](https://metalforge.io/techniques/double-bass)
 
@@ -121,6 +149,13 @@ When Mikkey Dee joined Motörhead in 1992, he brought a technical pedigree that 
 - Apply the Motörhead intensity only once the subdivisions are completely natural
 - Listen to live recordings of Dee playing Bomber to absorb the weight and feel
 
+### Gear Used
+
+- Tama Artstar II/Swingstar Kit (drums)
+- Paiste Cymbals (cymbals)
+- Yamaha FP9 Double Pedal (hardware)
+- Vic Firth Mikkey Dee Signature (sticks)
+
 **Core Techniques:** [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Fill Techniques](https://metalforge.io/techniques/fill-techniques)
 
 ## Overkill 8th-Note Double Bass
@@ -144,6 +179,13 @@ The double-bass pattern on "Overkill" is one of the most influential drum parts 
 - Listen critically for the weaker foot and work to match it to the stronger
 - Build 5 BPM at a time — only advance when the current tempo holds for a full minute
 
+### Gear Used
+
+- Tama Artstar II/Swingstar Kit (drums)
+- Paiste Cymbals (cymbals)
+- Yamaha FP9 Double Pedal (hardware)
+- Vic Firth Mikkey Dee Signature (sticks)
+
 **Core Techniques:** [Double Bass](https://metalforge.io/techniques/double-bass), [Groove Drumming](https://metalforge.io/techniques/groove-drumming)
 
 ## Teaching Points
@@ -159,4 +201,4 @@ Mikkey Dee's style is defined by precision, timing, and genre-defining grooves. 
 
 ---
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

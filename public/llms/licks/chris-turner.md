@@ -29,6 +29,15 @@ Chris Turner is one of Progressive Metalcore's most influential drummers, best k
 - Record yourself and listen back: the superimposed rhythm should remain audible as a distinct layer, not collapse into irregular kick noise
 - Use a metronome set to the polyrhythm's grouping note value to internalise the independent layer before combining with the hand pattern
 
+### Gear Used
+
+- Tama Starclassic Maple/Birch Kit (drums)
+- Tama S.L.P. 14x5.5" G-Maple Snare (snare)
+- Meinl Byzance 15" Dual Hi-Hats (cymbals)
+- Meinl Byzance 22" Dual Ride (cymbals)
+- Tama Speed Cobra 910 Double Pedal (hardware)
+- Vic Firth American Classic 5A (sticks)
+
 **Core Techniques:** [Polyrhythm](https://metalforge.io/techniques/polyrhythm), [Double Bass](https://metalforge.io/techniques/double-bass), [Blast Beat](https://metalforge.io/techniques/blast-beat)
 
 ## Escapist — Technical Double-Bass Drive
@@ -51,6 +60,15 @@ Chris Turner is one of Progressive Metalcore's most influential drummers, best k
 - Use a practice pad under the hi-hat foot to develop the left foot's independent note production at this tempo
 - Record the double bass pattern isolated and compare both feet's volume and clarity — any disparity is immediately obvious
 - Build the hand pattern separately to automaticity before combining with the foot work at song tempo
+
+### Gear Used
+
+- Tama Starclassic Maple/Birch Kit (drums)
+- Tama S.L.P. 14x5.5" G-Maple Snare (snare)
+- Meinl Byzance Extra Dry 18" Medium Crash (cymbals)
+- Meinl Byzance Extra Dry 18" China (cymbals)
+- Tama Speed Cobra 910 Double Pedal (hardware)
+- Vic Firth American Classic 5A (sticks)
 
 **Core Techniques:** [Double Bass](https://metalforge.io/techniques/double-bass), [Groove Drumming](https://metalforge.io/techniques/groove-drumming), [Polyrhythm](https://metalforge.io/techniques/polyrhythm)
 
@@ -75,6 +93,15 @@ Chris Turner is one of Progressive Metalcore's most influential drummers, best k
 - Record the odd-time blast passages and verify that the blast phrasing resets correctly at the bar boundary — it should not overshoot into the next bar
 - Tap the vocal line on your knee while playing the drum part to develop the multi-tasking between melodic phrase and rhythmic grid
 
+### Gear Used
+
+- Tama Starclassic Maple/Birch Kit (drums)
+- Tama S.L.P. 14x5.5" G-Maple Snare (snare)
+- Meinl Byzance Extra Dry 20" Medium Crash (cymbals)
+- Meinl Byzance Extra Dry 18" China (cymbals)
+- Tama Speed Cobra 910 Double Pedal (hardware)
+- Vic Firth American Classic 5A (sticks)
+
 **Core Techniques:** [Odd Time Signatures](https://metalforge.io/techniques/odd-time-signatures), [Blast Beat](https://metalforge.io/techniques/blast-beat), [Groove Drumming](https://metalforge.io/techniques/groove-drumming)
 
 ## Teaching Points
@@ -90,4 +117,4 @@ Chris Turner's style is defined by precision, timing, and genre-defining grooves
 
 ---
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

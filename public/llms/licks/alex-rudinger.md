@@ -29,6 +29,12 @@ Alex Rüdinger is one of Technical Death Metal / Progressive Metal's most influe
 - Use a metronome with tempo markers to internalize exactly where each shift occurs
 - Record yourself against the original track to check that fills land precisely on the arrangement's cues
 
+### Gear Used
+
+- Tama Starclassic Performer B/B Kit (drums)
+- Tama STARPHONIC Brass 14x6 Snare (snare)
+- Tama Speed Cobra Pedals (hardware)
+
 **Core Techniques:** [Blast Beat](https://metalforge.io/techniques/blast-beat), [Double Bass](https://metalforge.io/techniques/double-bass), [Odd Meter](https://metalforge.io/techniques/odd-meter)
 
 ## Teaching Points
@@ -44,4 +50,4 @@ Alex Rüdinger's style is defined by precision, timing, and genre-defining groov
 
 ---
 
-*Last updated: 2026-09-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

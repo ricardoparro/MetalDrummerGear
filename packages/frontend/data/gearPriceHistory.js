@@ -5593,18 +5593,18 @@ export const GEAR_PRICE_HISTORY = {
     albumReference: '.5: The Gray Chapter (2014)',
     profileImage: '/images/drummers/jay-weinberg.webp',
 
-    summary: "Jay Weinberg's 2014 setup marked his arrival as Slipknot's drummer #1 — a natural-finish Pearl Reference Pure shell pack chosen for the focused attack and tonal clarity that producer Greg Fidelman's dense, compressed .5: The Gray Chapter production demanded. Paired with a Zildjian A Series cymbal spread and a DW 9000 double bass pedal continuing the double-kick tradition Joey Jordison established, the complete rig cost approximately $4,530 in 2014 dollars, equivalent to roughly $6,270 today after inflation. Weinberg's gear evolved steadily across his nine years in the band — switching to SJC Custom Drums and Zildjian K Custom cymbals for We Are Not Your Kind (2019) and adding a Roland trigger system for The End, So Far (2021) — before his abrupt December 2023 exit from Slipknot. His verified current setup with Suicidal Tendencies centers on an SJC Custom Drums OBEY x ST Collaboration Kit with his signature SJC \"The Crucible\" 48-ply brass snare, a wide Zildjian cymbal spread (A New Beat, A Custom, K Custom, and K China), DW 9000 hardware, and Vater signature sticks — the same SJC platform he built during Slipknot's final era, now carried into his post-Slipknot chapter.",
+    summary: "Jay Weinberg's 2014 setup marked his arrival as Slipknot's drummer #1 — an SJC Custom Drums shell pack, an endorsement he'd already held since 2009, five years before joining the band, chosen for the focused attack and tonal clarity that producer Greg Fidelman's dense, compressed .5: The Gray Chapter production demanded. Paired with a Zildjian A Series cymbal spread and a DW 9000 double bass pedal continuing the double-kick tradition Joey Jordison established, the complete rig cost approximately $6,260 in 2014 dollars, equivalent to roughly $8,664 today after inflation. Weinberg's gear evolved steadily across his nine years in the band — expanding to a Tama SLP snare and Zildjian K Custom cymbals for We Are Not Your Kind (2019) and adding a Roland trigger system for The End, So Far (2021) — before his abrupt December 2023 exit from Slipknot. His verified current setup with Suicidal Tendencies centers on an SJC Custom Drums OBEY x ST Collaboration Kit with his signature SJC \"The Crucible\" 48-ply brass snare, a wide Zildjian cymbal spread (A New Beat, A Custom, K Custom, and K China), DW 9000 hardware, and Vater signature sticks — the same SJC platform he's played since day one, now carried into his post-Slipknot chapter.",
 
     setup: {
       drums: {
-        item: 'Pearl Reference Pure',
-        model: 'Natural finish, maple/birch hybrid shell pack',
+        item: 'SJC Custom Drums',
+        model: 'Maple/bubinga custom shell pack (mirrored maple "A-rig" and stained bubinga "B-rig")',
         specs: 'Double 22" bass drums, 8"/10"/12"/14" rack toms, 16" floor tom',
-        originalPrice: 2600,
+        originalPrice: 4200,
         year: 2014,
-        source: 'Pearl Reference Pure catalog MSRP 2014',
-        notes: "Pearl's flagship multi-species shell kit gave Weinberg the focused attack and tonal clarity needed to sit cleanly in Greg Fidelman's dense, compressed production on .5: The Gray Chapter.",
-        vintageValue2026: 1800,
+        source: 'SJC Custom Drums build-your-own pricing 2014',
+        notes: "Weinberg's SJC endorsement predated Slipknot by five years (signed 2009) — the hand-built shells gave him the focused attack and tonal clarity needed to sit cleanly in Greg Fidelman's dense, compressed production on .5: The Gray Chapter.",
+        vintageValue2026: 3000,
         modernEquivalent: {
           item: 'SJC Custom Drums (OBEY x ST Collaboration Kit)',
           price: 4500,
@@ -5612,14 +5612,14 @@ export const GEAR_PRICE_HISTORY = {
         },
       },
       snare: {
-        item: 'Pearl Reference Pure 14"x6.5"',
-        model: 'Maple/birch hybrid shell',
-        specs: '14"x6.5" maple/birch hybrid shell',
-        originalPrice: 320,
+        item: 'SJC Custom Drums 14"x6.5"',
+        model: 'Maple/bubinga custom shell',
+        specs: '14"x6.5" custom shell, matched to A-rig/B-rig kit',
+        originalPrice: 450,
         year: 2014,
-        source: 'Pearl snare catalog pricing 2014',
+        source: 'SJC Custom Drums snare pricing 2014',
         notes: "Matched the main kit's shell material for tonal consistency during Weinberg's debut Slipknot recording.",
-        vintageValue2026: 280,
+        vintageValue2026: 380,
         modernEquivalent: {
           item: 'SJC "The Crucible" 14"x6.5" 48-ply Brass',
           price: 550,
@@ -5657,13 +5657,13 @@ export const GEAR_PRICE_HISTORY = {
         },
       },
       sticks: {
-        item: 'Vic Firth Jay Weinberg Signature',
+        item: 'Vater 5B',
         model: 'Signature hickory',
-        specs: 'Hickory, signature taper',
+        specs: 'Hickory, 5B taper',
         originalPrice: 10,
         year: 2014,
-        source: 'Vic Firth signature retail pricing 2014',
-        notes: "Weinberg's first signature stick model, launched around his Slipknot debut.",
+        source: 'Vater retail pricing 2014',
+        notes: "Weinberg's Vater endorsement predated Slipknot by five years (signed 2009), carried into his Gray Chapter debut.",
         vintageValue2026: null,
         modernEquivalent: {
           item: 'Vater Jay Weinberg 908 Signature',
@@ -5689,22 +5689,22 @@ export const GEAR_PRICE_HISTORY = {
     },
 
     totals: {
-      originalTotal: 4530,
+      originalTotal: 6260,
       inflationAdjusted2026: null, // Calculated dynamically
-      vintageTotal2026: 3130,
+      vintageTotal2026: 4430,
       modernEquivalentTotal: 8112,
     },
 
     priceEvolution: [
-      { year: 2014, price: 4530, label: 'Original Purchase', event: 'Joins Slipknot, .5: The Gray Chapter recording' },
-      { year: 2018, price: 6500, label: 'We Are Not Your Kind era', event: 'Switch to SJC Custom Drums and Zildjian K Custom cymbals' },
+      { year: 2014, price: 6260, label: 'Original Purchase', event: 'Joins Slipknot, .5: The Gray Chapter recording — SJC Custom Drums endorsement (held since 2009) carries into the Slipknot era' },
+      { year: 2018, price: 6500, label: 'We Are Not Your Kind era', event: 'Tama SLP snare added, cymbal setup expands to Zildjian K Custom' },
       { year: 2021, price: 7000, label: 'The End, So Far era', event: 'Roland trigger system added to SJC setup' },
       { year: 2023, price: 8500, label: 'Suicidal Tendencies era', event: 'Exits Slipknot, joins Suicidal Tendencies with SJC OBEY collaboration kit' },
-      { year: 2026, price: 6270, label: 'Current adjusted', event: 'Inflation-adjusted value of original 2014 Pearl Reference Pure setup' },
+      { year: 2026, price: 8664, label: 'Current adjusted', event: 'Inflation-adjusted value of original 2014 SJC Custom Drums setup' },
     ],
 
     sources: [
-      { title: 'Pearl Reference Pure Catalog', year: 2014, type: 'catalog' },
+      { title: 'SJC Custom Drums Artist Page — Jay Weinberg', year: 2014, type: 'manufacturer' },
       { title: 'Modern Drummer — Jay Weinberg Interview', year: 2015, type: 'interview' },
       { title: 'Zildjian Artist Profile Archives', year: 2014, type: 'manufacturer' },
       { title: 'Reverb Marketplace Analysis — SJC Custom Drums', year: 2025, type: 'market' },
@@ -5712,8 +5712,8 @@ export const GEAR_PRICE_HISTORY = {
 
     meta: {
       title: "Jay Weinberg Drum Setup Cost | Slipknot Gear Price History",
-      description: "How much was Jay Weinberg's Slipknot-era drum kit worth? Original Pearl Reference Pure setup ~$4,530 in 2014, inflation-adjusted to ~$6,270 today. Complete gear breakdown from .5: The Gray Chapter through his SJC Custom rig.",
-      keywords: ['jay weinberg drum setup cost', 'slipknot drum kit price', 'pearl reference pure price', 'jay weinberg gear cost today', 'sjc custom drums price'],
+      description: "How much was Jay Weinberg's Slipknot-era drum kit worth? Original SJC Custom Drums setup ~$6,260 in 2014, inflation-adjusted to ~$8,664 today. Complete gear breakdown from .5: The Gray Chapter through his SJC Custom rig.",
+      keywords: ['jay weinberg drum setup cost', 'slipknot drum kit price', 'sjc custom drums price', 'jay weinberg gear cost today'],
     },
   },
 

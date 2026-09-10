@@ -288,6 +288,11 @@ Start with a coated double-ply head like the Evans G2 for most nu-metal material
 - [Ray Luzier](https://metalforge.io/drummer/ray-luzier) — Korn's dense, syncopated groove foundation since 2010
 - [David Silveria](https://metalforge.io/drummer/david-silveria) — Korn's foundational, downtuned syncopated groove
 
+## Featured Drummers
+
+- [Ray Luzier](https://metalforge.io/drummer/ray-luzier): Korn's current dense, syncopated groove precision
+- [Joey Jordison](https://metalforge.io/drummer/joey-jordison): Slipknot's technical, extreme-metal-intensity attack
+
 ---
 
 **More LLM resources:** 

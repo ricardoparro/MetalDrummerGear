@@ -289,6 +289,12 @@ Start with a reinforced double-ply head like the Evans G2 or Remo Emperor X, and
 - [Blake Richardson](https://metalforge.io/drummer/blake-richardson) — BTBAM's genre-hopping, rhythmically unpredictable technicality
 - [Danny Carey](https://metalforge.io/drummer/danny-carey) — Tool's Fibonacci-structured polyrhythmic precision
 
+## Featured Drummers
+
+- [Ben Koller](https://metalforge.io/drummer/ben-koller): Converge's founding blast-to-breakdown rhythmic whiplash
+- [Matt Greiner](https://metalforge.io/drummer/matt-greiner): Technical precision benchmark for shifting mathcore accents
+- [Danny Carey](https://metalforge.io/drummer/danny-carey): Fibonacci-structured polyrhythms that informed mathcore's complexity
+
 ---
 
 **More LLM resources:** 

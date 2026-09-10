@@ -311,6 +311,12 @@ Start with a budget HCS Dark or Planet Z ride to build your sense of dynamics, a
 - [Mario Duplantier](https://metalforge.io/drummer/mario-duplantier) — 21" Zildjian Z Custom Mega Bell Ride — atmospheric compositional depth
 - [Abe Cunningham](https://metalforge.io/drummer/abe-cunningham) — 22" Zildjian K Custom Ride — Deftones' "heavy and ambient" identity
 
+## Featured Drummers
+
+- [Brann Dailor](https://metalforge.io/drummer/brann-dailor): Meinl Byzance Ghost Ride for Mastodon
+- [Danny Carey](https://metalforge.io/drummer/danny-carey): Paiste Signature Dry Heavy Ride for Tool
+- [Abe Cunningham](https://metalforge.io/drummer/abe-cunningham): Zildjian K Custom Ride for Deftones
+
 ---
 
 **More LLM resources:** 

@@ -360,6 +360,12 @@ Budget shouldn't stop you — Remo Coated Ambassador and Evans G1 Coated both of
 - [Frost](https://metalforge.io/drummer/frost) — Evans EC2 SST — Satyricon dynamic control between blast beats and orchestration
 - [Jaska Raatikainen](https://metalforge.io/drummer/jaska-raatikainen) — Evans G1 Clear — Children of Bodom keyboard-orchestrated precision
 
+## Featured Drummers
+
+- [Daray](https://metalforge.io/drummer/daray): Evans Emperor / Ambassador — defined symphonic metal's bright, cutting tom projection
+- [Hellhammer](https://metalforge.io/drummer/hellhammer): Remo Coated Ambassador — dual-band durability across two extreme metal legacies
+- [Frost](https://metalforge.io/drummer/frost): Remo Ambassador / Controlled Sound Coated — Satyricon's signature blast-beat-to-orchestral platform
+
 ---
 
 **More LLM resources:** 

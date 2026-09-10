@@ -289,6 +289,12 @@ Start with a coated single-ply head like the Remo Coated Ambassador for the genr
 - [Nicko McBrain](https://metalforge.io/drummer/nicko-mcbrain) — Iron Maiden's four-decade galloping rhythmic foundation
 - [Mikkey Dee](https://metalforge.io/drummer/mikkey-dee) — Motörhead and Scorpions touring stamina and consistency
 
+## Featured Drummers
+
+- [Nicko McBrain](https://metalforge.io/drummer/nicko-mcbrain): Iron Maiden's galloping rhythmic foundation across four-plus decades
+- [Scott Travis](https://metalforge.io/drummer/scott-travis): Judas Priest's foot-independent double-kick precision
+- [Aquiles Priester](https://metalforge.io/drummer/aquiles-priester): Angra's neoclassical, technically demanding double bass work
+
 ---
 
 **More LLM resources:** 

@@ -324,6 +324,12 @@ Whatever you choose, prioritize double-braced construction and a proven touring 
 - [Joey Jordison](https://metalforge.io/drummer/joey-jordison) — Touring-grade hardware built to survive maximum-energy Slipknot performances
 - [Ray Luzier](https://metalforge.io/drummer/ray-luzier) — Precise memory locks for groove-oriented, downtuned riff-driven playing
 
+## Featured Drummers
+
+- [John Otto](https://metalforge.io/drummer/john-otto): Gibraltar rack system for a wide nu-metal setup
+- [Joey Jordison](https://metalforge.io/drummer/joey-jordison): Touring-grade hardware for maximum-energy performance
+- [Ray Luzier](https://metalforge.io/drummer/ray-luzier): Precise memory locks for groove-oriented playing
+
 ---
 
 **More LLM resources:** 

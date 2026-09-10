@@ -325,6 +325,11 @@ Whatever you choose, remember that deathcore doesn't let you specialize in just 
 - [Ben Koller](https://metalforge.io/drummer/ben-koller) — Converge's hardcore-metal fury feeding deathcore's aggressive DNA
 - [Tim Yeung](https://metalforge.io/drummer/tim-yeung) — Bridging technical death metal and deathcore across Hate Eternal and Divine Heresy
 
+## Featured Drummers
+
+- [Ben Koller](https://metalforge.io/drummer/ben-koller): Hardcore punk fury fused with metal technicality since 1999
+- [Tim Yeung](https://metalforge.io/drummer/tim-yeung): Extreme speed and precision spanning death metal and deathcore
+
 ---
 
 **More LLM resources:** 

@@ -319,6 +319,13 @@ Budget shouldn't stop you either. A Zildjian A series or Meinl HCS set will teac
 - [Blake Richardson](https://metalforge.io/drummer/blake-richardson) — Meinl Byzance Dark — BTBAM genre-hopping technicality
 - [Danny Carey](https://metalforge.io/drummer/danny-carey) — Paiste Signature Dry Heavy Ride — Tool's Fibonacci-structured rigor
 
+## Featured Drummers
+
+- [Ben Koller](https://metalforge.io/drummer/ben-koller): Zildjian K and A Custom — Converge mathcore's founding cutting attack
+- [Matt Greiner](https://metalforge.io/drummer/matt-greiner): Meinl Byzance Dual — August Burns Red math metal complexity
+- [Blake Richardson](https://metalforge.io/drummer/blake-richardson): Meinl Byzance Dark — BTBAM genre-hopping technicality
+- [Danny Carey](https://metalforge.io/drummer/danny-carey): Paiste Signature Dry Heavy Ride — Tool's Fibonacci-structured rigor
+
 ---
 
 **More LLM resources:** 

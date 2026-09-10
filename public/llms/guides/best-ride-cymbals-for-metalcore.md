@@ -329,6 +329,12 @@ Start with a 21"-22" pro ride built for control, and choose your voicing based o
 - [Alex Bent](https://metalforge.io/drummer/alex-bent) — 21" Meinl Byzance Brilliant Medium Ride — Trivium melodic modern metal
 - [Jay Weinberg](https://metalforge.io/drummer/jay-weinberg) — 21" Zildjian K Custom Ride — Slipknot aggressive metalcore
 
+## Featured Drummers
+
+- [Matt Halpern](https://metalforge.io/drummer/matt-halpern): Meinl Byzance Extra Dry Transition Ride for Periphery
+- [Matt Greiner](https://metalforge.io/drummer/matt-greiner): Meinl Byzance Extra Dry Transition Ride for August Burns Red
+- [Jay Weinberg](https://metalforge.io/drummer/jay-weinberg): Zildjian K Custom Ride for Slipknot
+
 ---
 
 **More LLM resources:** 

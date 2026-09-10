@@ -307,6 +307,12 @@ Start with a 22"x18" shell, keep the muffling light, and let the drum breathe �
 - [Inferno](https://metalforge.io/drummer/inferno) — Pearl Reference Pure — resonant clarity for Behemoth and Gorgoroth
 - [Frost](https://metalforge.io/drummer/frost) — Custom Sonor SQ2 bass drum for hyperspeed blast beat precision
 
+## Featured Drummers
+
+- [Hellhammer](https://metalforge.io/drummer/hellhammer): Sonor SQ2 Heavy Beech — raw, foundational black metal tone
+- [Inferno](https://metalforge.io/drummer/inferno): Pearl Reference Pure — resonant articulation for Behemoth
+- [Frost](https://metalforge.io/drummer/frost): Tama Starclassic Bubinga — dense-shell precision for hyperspeed blast beats
+
 ---
 
 **More LLM resources:** 

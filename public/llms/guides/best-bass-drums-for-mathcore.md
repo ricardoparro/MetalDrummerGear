@@ -315,6 +315,13 @@ Budget shouldn't stop you either. A Pearl Export bass drum with a Tama Iron Cobr
 - [Blake Richardson](https://metalforge.io/drummer/blake-richardson) — Pearl Reference Pure/Masters Maple + Demon Drive — BTBAM genre-hopping technicality
 - [Danny Carey](https://metalforge.io/drummer/danny-carey) — Sonor SQ2 Heavy Beech + Giant Step Twin Effect — Tool's Fibonacci-structured rigor
 
+## Featured Drummers
+
+- [Ben Koller](https://metalforge.io/drummer/ben-koller): Tama Starclassic Performer B/B + Iron Cobra — Converge mathcore's founding tight attack
+- [Matt Greiner](https://metalforge.io/drummer/matt-greiner): Mapex Black Panther Design Lab + DW 9000 — August Burns Red math metal complexity
+- [Blake Richardson](https://metalforge.io/drummer/blake-richardson): Pearl Reference Pure/Masters Maple + Demon Drive — BTBAM genre-hopping technicality
+- [Danny Carey](https://metalforge.io/drummer/danny-carey): Sonor SQ2 Heavy Beech + Giant Step Twin Effect — Tool's Fibonacci-structured rigor
+
 ---
 
 **More LLM resources:** 

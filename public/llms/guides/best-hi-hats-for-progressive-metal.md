@@ -283,6 +283,11 @@ Whichever you choose, remember that in progressive metal, the hi-hat is rarely j
 - [Mike Mangini](https://metalforge.io/drummer/mike-mangini) — Meinl Byzance Traditional — Dream Theater polyrhythmic complexity
 - [Blake Richardson](https://metalforge.io/drummer/blake-richardson) — Meinl Byzance Dark — BTBAM dynamic extremes
 
+## Featured Drummers
+
+- [Mike Mangini](https://metalforge.io/drummer/mike-mangini): Meinl Byzance Traditional for progressive metal polyrhythmic complexity
+- [Blake Richardson](https://metalforge.io/drummer/blake-richardson): Meinl Byzance Dark for BTBAM dynamic extremes
+
 ---
 
 **More LLM resources:** 

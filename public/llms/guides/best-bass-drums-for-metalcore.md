@@ -281,6 +281,12 @@ Land the breakdown. Cut through the mix.
 - [Art Cruz](https://metalforge.io/drummer/art-cruz) — Ludwig Classic Oak - Lamb of God's breakdown-heavy punch
 - [Travis Orbin](https://metalforge.io/drummer/travis-orbin) — SJC Custom - Periphery's genre-defining trigger-augmented low end
 
+## Featured Drummers
+
+- [Nick Augusto](https://metalforge.io/drummer/nick-augusto): Pearl Reference Pure - technical metalcore standard
+- [Art Cruz](https://metalforge.io/drummer/art-cruz): Ludwig Classic Oak - breakdown-heavy weight and punch
+- [Travis Orbin](https://metalforge.io/drummer/travis-orbin): SJC Custom - trigger-augmented polyrhythmic low end
+
 ---
 
 **More LLM resources:** 

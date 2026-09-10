@@ -321,6 +321,13 @@ Budget shouldn't stop you either. A Pearl Export or DW Performance Series snare 
 - [Flo Mounier](https://metalforge.io/drummer/flo-mounier) — Pearl Reference 14x5" Steel — Cryptopsy's machine-gun blast beat speed
 - [Derek Roddy](https://metalforge.io/drummer/derek-roddy) — DW Collector's 14x6.5" Bronze — one-take recording consistency
 
+## Featured Drummers
+
+- [George Kollias](https://metalforge.io/drummer/george-kollias): Pearl George Kollias Signature 14x6.5" Brass — Nile's technical speed-and-precision standard
+- [Hannes Grossmann](https://metalforge.io/drummer/hannes-grossmann): DW Collectors 14x5.5" Maple — Obscura's classically-influenced odd-meter precision
+- [Flo Mounier](https://metalforge.io/drummer/flo-mounier): Pearl Reference 14x5" Steel — Cryptopsy's machine-gun blast beat speed
+- [Derek Roddy](https://metalforge.io/drummer/derek-roddy): Tama Starclassic Bubinga 14x6.5" — one-take recording consistency
+
 ---
 
 **More LLM resources:** 

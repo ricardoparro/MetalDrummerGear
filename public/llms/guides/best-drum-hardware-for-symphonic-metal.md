@@ -327,6 +327,13 @@ Whatever you choose, prioritize double-braced construction and genuine expandabi
 - [Frost](https://metalforge.io/drummer/frost) — Expandable Sonor hardware for dynamic blast beat and orchestral sections
 - [Jaska Raatikainen](https://metalforge.io/drummer/jaska-raatikainen) — DW precision for keyboard-orchestrated, multi-cymbal arrangements
 
+## Featured Drummers
+
+- [Daray](https://metalforge.io/drummer/daray): Expandable rack for orchestral-scale cymbal array
+- [Hellhammer](https://metalforge.io/drummer/hellhammer): Hardware bridging blast beats and orchestration
+- [Frost](https://metalforge.io/drummer/frost): Expandable Tama line for dynamic setups
+- [Jaska Raatikainen](https://metalforge.io/drummer/jaska-raatikainen): Precise hardware for multi-cymbal arrangements
+
 ---
 
 **More LLM resources:** 

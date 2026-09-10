@@ -333,6 +333,12 @@ Start with a 21"-22" bright, cutting pro ride, and consider Ufip's warmer altern
 - [Nicko McBrain](https://metalforge.io/drummer/nicko-mcbrain) — 22" Paiste Signature Precision Ride — Iron Maiden galloping DNA
 - [Mikkey Dee](https://metalforge.io/drummer/mikkey-dee) — 22" Paiste 2002 Ride — Motörhead/Scorpions touring stamina
 
+## Featured Drummers
+
+- [Scott Travis](https://metalforge.io/drummer/scott-travis): Paiste RUDE Power Ride for Judas Priest
+- [Aquiles Priester](https://metalforge.io/drummer/aquiles-priester): Custom red-coated Paiste Ride for Angra
+- [Nicko McBrain](https://metalforge.io/drummer/nicko-mcbrain): Paiste Signature Precision Ride for Iron Maiden
+
 ---
 
 **More LLM resources:** 

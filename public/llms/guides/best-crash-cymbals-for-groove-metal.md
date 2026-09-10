@@ -310,6 +310,12 @@ None of these approaches is more "correct" — all four represent groove metal's
 - [Shannon Larkin](https://metalforge.io/drummer/shannon-larkin) — Sabian AAX X-Plosion Crash — Godsmack explosive, radio-ready punch
 - [Igor Cavalera](https://metalforge.io/drummer/igor-cavalera) — Paiste RUDE Crash — Sepultura tribal groove metal aggression
 
+## Featured Drummers
+
+- [Vinnie Paul](https://metalforge.io/drummer/vinnie-paul): Sabian AA/AAX Crash — groove metal's founding, cutting crash voice
+- [Chris Adler](https://metalforge.io/drummer/chris-adler): Meinl Byzance Dark Crash — Lamb of God syncopated riff-locking precision
+- [Shannon Larkin](https://metalforge.io/drummer/shannon-larkin): Sabian AAX X-Plosion Crash — Godsmack explosive, radio-ready punch
+
 ---
 
 **More LLM resources:** 

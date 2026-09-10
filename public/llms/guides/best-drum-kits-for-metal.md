@@ -346,6 +346,12 @@ Start with a budget kit that teaches real cross-genre fundamentals, and don't ru
 - [George Kollias](https://metalforge.io/drummer/george-kollias) — Pearl Masterworks — custom-tuned for extreme-tempo technical metal
 - [Tomas Haake](https://metalforge.io/drummer/tomas-haake) — Sonor SQ2 Heavy Beech — dual 24" kicks for polyrhythmic low end
 
+## Featured Drummers
+
+- [Lars Ulrich](https://metalforge.io/drummer/lars-ulrich): Tama Starclassic Maple — the definitive cross-genre metal kit
+- [Gene Hoglan](https://metalforge.io/drummer/gene-hoglan): DW Collector's Series — precision across Death, Testament, and Dethklok
+- [George Kollias](https://metalforge.io/drummer/george-kollias): Pearl Masterworks — Nile's extreme-tempo touring precision
+
 ---
 
 **More LLM resources:** 

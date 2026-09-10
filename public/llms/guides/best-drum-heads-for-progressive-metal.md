@@ -355,6 +355,11 @@ Budget shouldn't stop you — Evans G1 Coated and Remo Coated Diplomat both offe
 - [Gavin Harrison](https://metalforge.io/drummer/gavin-harrison) — Remo Ambassador — touch and dynamic restraint for Porcupine Tree/King Crimson
 - [Danny Carey](https://metalforge.io/drummer/danny-carey) — Remo heads — Tool's polyrhythmic dynamic complexity
 
+## Featured Drummers
+
+- [Mike Mangini](https://metalforge.io/drummer/mike-mangini): Remo Emperor with hybrid electronics — maximum tonal control
+- [Gavin Harrison](https://metalforge.io/drummer/gavin-harrison): Remo Ambassador — compositional nuance and dynamic restraint
+
 ---
 
 **More LLM resources:** 

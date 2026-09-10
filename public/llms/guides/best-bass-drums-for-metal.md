@@ -282,6 +282,12 @@ Build the punch. Hold the low end.
 - [George Kollias](https://metalforge.io/drummer/george-kollias) — Custom Pearl Masterworks for extreme-tempo touring durability
 - [Tomas Haake](https://metalforge.io/drummer/tomas-haake) — Sonor SQ2 Heavy Beech dual 24"x18" - Meshuggah's resonant low end
 
+## Featured Drummers
+
+- [Lars Ulrich](https://metalforge.io/drummer/lars-ulrich): Tama Starclassic Maple - the genre's reference warm, resonant tone
+- [Gene Hoglan](https://metalforge.io/drummer/gene-hoglan): DW Collector's Series - warm, precise low end
+- [George Kollias](https://metalforge.io/drummer/george-kollias): Custom Pearl Masterworks - extreme-tempo durability
+
 ---
 
 **More LLM resources:** 

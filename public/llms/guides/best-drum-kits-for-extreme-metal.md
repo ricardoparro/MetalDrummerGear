@@ -349,6 +349,12 @@ Start with a durable budget kit like the Pearl Export while you build your blast
 - [Derek Roddy](https://metalforge.io/drummer/derek-roddy) — DW Collector's Series — the "One Take" extreme-speed kit
 - [Gene Hoglan](https://metalforge.io/drummer/gene-hoglan) — Sonor SQ2 Heavy Maple — The Atomic Clock's touring precision
 
+## Featured Drummers
+
+- [George Kollias](https://metalforge.io/drummer/george-kollias): Pearl Masterworks — the extreme metal blast-beat durability benchmark
+- [Derek Roddy](https://metalforge.io/drummer/derek-roddy): Tama Starclassic Bubinga — the dense, bass-heavy kit for extreme-speed recording
+- [Gene Hoglan](https://metalforge.io/drummer/gene-hoglan): Sonor SQ2 Heavy Maple — The Atomic Clock's deep, durable low end
+
 ---
 
 **More LLM resources:** 

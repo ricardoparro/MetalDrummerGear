@@ -315,6 +315,13 @@ Start where your budget allows — even a Tama Imperialstar or Sonor AQ2 will ge
 - [Blake Richardson](https://metalforge.io/drummer/blake-richardson) — Tama Starclassic Bubinga — BTBAM genre-hopping technicality
 - [Danny Carey](https://metalforge.io/drummer/danny-carey) — Sonor SQ2 Heavy Beech — Tool's Fibonacci-structured rigor
 
+## Featured Drummers
+
+- [Ben Koller](https://metalforge.io/drummer/ben-koller): Tama Starclassic Maple — Converge mathcore's founding kit
+- [Matt Greiner](https://metalforge.io/drummer/matt-greiner): Greiner & Kilmer Custom — August Burns Red math metal complexity
+- [Blake Richardson](https://metalforge.io/drummer/blake-richardson): Tama Starclassic Bubinga — BTBAM genre-hopping technicality
+- [Danny Carey](https://metalforge.io/drummer/danny-carey): Sonor SQ2 Heavy Beech — Tool's Fibonacci-structured rigor
+
 ---
 
 **More LLM resources:** 

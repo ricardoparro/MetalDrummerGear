@@ -277,6 +277,11 @@ Whichever depth you choose, pair it with a reinforced, trigger-compatible head l
 - [Tomas Haake](https://metalforge.io/drummer/tomas-haake) — 22"x16" TAMA Starclassic Walnut/Birch — djent's founding bass drum tone
 - [Matt Halpern](https://metalforge.io/drummer/matt-halpern) — Pearl Reference Pure — sensitive, dynamic djent-prog low end
 
+## Featured Drummers
+
+- [Tomas Haake](https://metalforge.io/drummer/tomas-haake): TAMA Starclassic Walnut/Birch — tight, controlled djent attack
+- [Matt Halpern](https://metalforge.io/drummer/matt-halpern): Pearl Reference Pure — dynamic sensitivity for Periphery
+
 ---
 
 **More LLM resources:** 

@@ -308,6 +308,11 @@ For most deathcore drummers, start with a standard Vic Firth or Vater 5B to find
 - [Isaac Lamb](https://metalforge.io/drummer/isaac-lamb) — Vater Power 5B — Kublai Khan TX slam-timed breakdown weight
 - [Chris Turner](https://metalforge.io/drummer/chris-turner) — Vater Fusion 5B — Oceans Ate Alaska blast-beat precision
 
+## Featured Drummers
+
+- [Ben Koller](https://metalforge.io/drummer/ben-koller): Vic Firth American Classic 5B — Converge/Mutoid Man breakdown control
+- [Chris Turner](https://metalforge.io/drummer/chris-turner): Vic Firth American Classic 5A — Oceans Ate Alaska blast-beat-driven precision
+
 ---
 
 **More LLM resources:** 

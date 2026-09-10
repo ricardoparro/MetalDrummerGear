@@ -325,6 +325,12 @@ Whatever you choose, prioritize a wide cymbal spread and stability across the fu
 - [Danny Carey](https://metalforge.io/drummer/danny-carey) — Tall boom stands and a wide cymbal spread for long-form atmospheric builds
 - [Mario Duplantier](https://metalforge.io/drummer/mario-duplantier) — Rack-based rigidity for a dual-kick, multi-tom, dynamically extreme setup
 
+## Featured Drummers
+
+- [Brann Dailor](https://metalforge.io/drummer/brann-dailor): Wide, tall-boomed cymbal array for dynamic playing
+- [Danny Carey](https://metalforge.io/drummer/danny-carey): Tall boom stands for long-form atmospheric builds
+- [Mario Duplantier](https://metalforge.io/drummer/mario-duplantier): Rack system for a dual-kick, multi-tom setup
+
 ---
 
 **More LLM resources:** 

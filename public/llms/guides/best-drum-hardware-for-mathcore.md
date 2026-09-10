@@ -324,6 +324,12 @@ Whatever you choose, prioritize tool-free memory locks and genuine double-bracin
 - [Matt Greiner](https://metalforge.io/drummer/matt-greiner) — Precise memory locks for odd-time metalcore integration
 - [Blake Richardson](https://metalforge.io/drummer/blake-richardson) — Rack-based precision for genre-hopping, multi-tom arrangements
 
+## Featured Drummers
+
+- [Ben Koller](https://metalforge.io/drummer/ben-koller): Compact, road-ready hardware for hardcore-rooted touring
+- [Matt Greiner](https://metalforge.io/drummer/matt-greiner): Precise clamps for odd-time reconfiguration
+- [Blake Richardson](https://metalforge.io/drummer/blake-richardson): Rack-based setup for genre-hopping, multi-tom arrangements
+
 ---
 
 **More LLM resources:** 

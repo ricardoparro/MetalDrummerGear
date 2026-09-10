@@ -327,6 +327,13 @@ Whatever you choose, prioritize double-braced construction and reinforced tensio
 - [Derek Roddy](https://metalforge.io/drummer/derek-roddy) — Reinforced pedal anchoring for relentless one-footed blast technique
 - [Gene Hoglan](https://metalforge.io/drummer/gene-hoglan) — Decades of proven, road-tested touring reliability
 
+## Featured Drummers
+
+- [George Kollias](https://metalforge.io/drummer/george-kollias): Vibration-resistant stability at 260+ BPM
+- [Pete Sandoval](https://metalforge.io/drummer/pete-sandoval): Pioneered the vibration-load demands of the gravity blast
+- [Derek Roddy](https://metalforge.io/drummer/derek-roddy): Reinforced pedal hardware for one-footed blast technique
+- [Gene Hoglan](https://metalforge.io/drummer/gene-hoglan): Decades of dependable, road-tested touring hardware
+
 ---
 
 **More LLM resources:** 

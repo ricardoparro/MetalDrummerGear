@@ -308,6 +308,13 @@ For most thrash metal drummers, start with a standard Vic Firth or Vater 5B to f
 - [Gene Hoglan](https://metalforge.io/drummer/gene-hoglan) — Vater 5B Wood Tip — The Atomic Clock's metronomic precision
 - [Charlie Benante](https://metalforge.io/drummer/charlie-benante) — Vic Firth signature — Anthrax's riff-locked thrash precision
 
+## Featured Drummers
+
+- [Lars Ulrich](https://metalforge.io/drummer/lars-ulrich): Ahead signature — pioneering synthetic stick durability in metal
+- [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo): Vic Firth American Classic 5B — Slayer's double-bass thrash foundation
+- [Gene Hoglan](https://metalforge.io/drummer/gene-hoglan): ProMark Classic Forward 2B — Death/Testament metronomic precision
+- [Charlie Benante](https://metalforge.io/drummer/charlie-benante): Vic Firth signature — Anthrax's "Big Four" thrash catalog
+
 ---
 
 **More LLM resources:** 

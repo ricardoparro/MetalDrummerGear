@@ -335,6 +335,12 @@ Budget shouldn't stop you either. A Tama Iron Cobra 600 or Pearl P-930 Demonator
 - [Travis Orbin](https://metalforge.io/drummer/travis-orbin) — Tama Speed Cobra 910 — Periphery's genre-defining debut precision
 - [Matt Halpern](https://metalforge.io/drummer/matt-halpern) — Pearl Eliminator — Periphery's crisp, controlled dense arrangements
 
+## Featured Drummers
+
+- [Nick Augusto](https://metalforge.io/drummer/nick-augusto): Pearl Demon Drive — Trivium's instant, linear technical speed
+- [Travis Orbin](https://metalforge.io/drummer/travis-orbin): Tama Speed Cobra 910 — Periphery's genre-defining, trigger-augmented debut
+- [Matt Halpern](https://metalforge.io/drummer/matt-halpern): Pearl Eliminator — Periphery's dense, palm-muted precision
+
 ---
 
 **More LLM resources:** 

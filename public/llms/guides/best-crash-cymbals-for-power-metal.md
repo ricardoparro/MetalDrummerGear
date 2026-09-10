@@ -312,6 +312,12 @@ Start with one bright crash in the 16"-18" range, and layer a second voicing —
 - [Nicko McBrain](https://metalforge.io/drummer/nicko-mcbrain) — Paiste Signature Crash — Iron Maiden galloping foundation
 - [Mikkey Dee](https://metalforge.io/drummer/mikkey-dee) — Paiste 2002 Crash — Motörhead/Scorpions touring stamina
 
+## Featured Drummers
+
+- [Scott Travis](https://metalforge.io/drummer/scott-travis): Paiste RUDE Crash — Judas Priest power metal blueprint
+- [Aquiles Priester](https://metalforge.io/drummer/aquiles-priester): Custom red-coated Paiste Crash — Angra neoclassical double-bass precision
+- [Nicko McBrain](https://metalforge.io/drummer/nicko-mcbrain): Paiste Signature Crash — Iron Maiden galloping foundation
+
 ---
 
 **More LLM resources:** 

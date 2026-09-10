@@ -317,6 +317,13 @@ Budget shouldn't stop you either. A Sabian SBr or Paiste PST 5 setup will teach 
 - [Nicko McBrain](https://metalforge.io/drummer/nicko-mcbrain) — Paiste Signature Series — Iron Maiden galloping foundation
 - [Mikkey Dee](https://metalforge.io/drummer/mikkey-dee) — Paiste 2002 Series — Motörhead/Scorpions touring stamina
 
+## Featured Drummers
+
+- [Scott Travis](https://metalforge.io/drummer/scott-travis): Paiste RUDE & 2002 Series — Judas Priest power metal blueprint
+- [Aquiles Priester](https://metalforge.io/drummer/aquiles-priester): Custom Red-Coated Paiste Setup — Angra neoclassical double-bass precision
+- [Nicko McBrain](https://metalforge.io/drummer/nicko-mcbrain): Paiste Signature Series — Iron Maiden galloping foundation
+- [Mikkey Dee](https://metalforge.io/drummer/mikkey-dee): Paiste 2002 Series — Motörhead/Scorpions touring stamina
+
 ---
 
 **More LLM resources:** 

@@ -267,6 +267,12 @@ Whichever you choose, remember that symphonic metal's most acclaimed recordings 
 - [Hellhammer](https://metalforge.io/drummer/hellhammer) — Zildjian A Custom Hi-Hats — Mayhem raw black metal and symphonic grandeur
 - [Frost](https://metalforge.io/drummer/frost) — Zildjian A Custom & K Custom Dark Hi-Hats — Satyricon dynamic control
 
+## Featured Drummers
+
+- [Daray](https://metalforge.io/drummer/daray): Paiste RUDE Hi-Hats — Dimmu Borgir full-orchestra projection
+- [Hellhammer](https://metalforge.io/drummer/hellhammer): Zildjian A Custom Hi-Hats — Mayhem raw black metal and symphonic grandeur
+- [Frost](https://metalforge.io/drummer/frost): Zildjian A Custom & K Custom Dark Hi-Hats — Satyricon's dynamic control
+
 ---
 
 **More LLM resources:** 

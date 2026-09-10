@@ -280,6 +280,12 @@ Start with a 22"x16"-18" birch or maple shell and a reinforced head like the Rem
 - [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo) — Yamaha/DW — relentless double-bass thrash precision
 - [Gene Hoglan](https://metalforge.io/drummer/gene-hoglan) — DW Collector's Series — The Atomic Clock's precision machine
 
+## Featured Drummers
+
+- [Lars Ulrich](https://metalforge.io/drummer/lars-ulrich): Tama Starclassic Maple — the definitive thrash metal bass drum
+- [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo): Yamaha birch — driving Slayer's relentless double-bass speed
+- [Gene Hoglan](https://metalforge.io/drummer/gene-hoglan): DW Collector's Series — The Atomic Clock's metronomic precision
+
 ---
 
 **More LLM resources:** 

@@ -308,6 +308,12 @@ Start with one dark, heavy ride in the 22" range, and add a second voicing — w
 - [Danny Carey](https://metalforge.io/drummer/danny-carey) — Paiste Signature Dry Heavy Ride — Tool's patient, doom-adjacent build-ups
 - [Mario Duplantier](https://metalforge.io/drummer/mario-duplantier) — Paiste Twenty Custom Full Ride — Gojira's tectonic, crushing low-end tonnage
 
+## Featured Drummers
+
+- [Brann Dailor](https://metalforge.io/drummer/brann-dailor): Meinl Byzance Vintage Pure Ride — Mastodon's progressive sludge-doom atmosphere
+- [Danny Carey](https://metalforge.io/drummer/danny-carey): Paiste Signature Dry Heavy Ride — Tool's patient, doom-adjacent build-ups
+- [Mario Duplantier](https://metalforge.io/drummer/mario-duplantier): Paiste Twenty Custom Full Ride — Gojira's tectonic, crushing low-end tonnage
+
 ---
 
 **More LLM resources:** 

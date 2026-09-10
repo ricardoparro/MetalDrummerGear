@@ -294,6 +294,11 @@ Start with whichever setup matches your material's balance of gallop-first tripl
 - [Nicko McBrain](https://metalforge.io/drummer/nicko-mcbrain) — Single Sonor pedal — Iron Maiden galloping foundation
 - [Mikkey Dee](https://metalforge.io/drummer/mikkey-dee) — Pearl Demon Drive — Motörhead/Scorpions touring stamina
 
+## Featured Drummers
+
+- [Nicko McBrain](https://metalforge.io/drummer/nicko-mcbrain): Single Sonor pedal anchoring Iron Maiden's galloping foundation for four-plus decades
+- [Mikkey Dee](https://metalforge.io/drummer/mikkey-dee): Pearl Demon Drive — 23+ years of touring stamina across Motörhead and Scorpions
+
 ---
 
 **More LLM resources:** 

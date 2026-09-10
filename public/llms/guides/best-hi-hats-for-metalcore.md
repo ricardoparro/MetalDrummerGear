@@ -302,6 +302,13 @@ Whatever you choose, prioritize consistent chick response and dynamic range over
 - [Alex Bent](https://metalforge.io/drummer/alex-bent) — Meinl Byzance Brilliant 14" Hi-Hats — Trivium melodic modern metal
 - [Jay Weinberg](https://metalforge.io/drummer/jay-weinberg) — Zildjian A Custom 14" Hi-Hats — Slipknot explosive hybrid sound
 
+## Featured Drummers
+
+- [Matt Halpern](https://metalforge.io/drummer/matt-halpern): Meinl Byzance Extra Dry Hi-Hats — Periphery djent-metalcore precision
+- [Matt Greiner](https://metalforge.io/drummer/matt-greiner): Meinl Byzance Extra Dry Hi-Hats — August Burns Red technical precision
+- [Alex Bent](https://metalforge.io/drummer/alex-bent): Zildjian K Custom Hybrid Hi-Hats — Trivium melodic modern metal
+- [Jay Weinberg](https://metalforge.io/drummer/jay-weinberg): Zildjian A Custom Hi-Hats — Slipknot's explosive hybrid attack
+
 ---
 
 **More LLM resources:** 

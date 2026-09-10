@@ -310,6 +310,12 @@ Start with a 22"x18" maple shell and a reinforced head like the Evans EMAD or Re
 - [Flo Mounier](https://metalforge.io/drummer/flo-mounier) — Pearl Masters Maple driving three decades of gravity-blast technique
 - [Derek Roddy](https://metalforge.io/drummer/derek-roddy) — Tama Starclassic Bubinga proven at 260+ BPM sustained blast beats
 
+## Featured Drummers
+
+- [George Kollias](https://metalforge.io/drummer/george-kollias): Pearl Masterworks — 240+ BPM blast beat platform
+- [Hannes Grossmann](https://metalforge.io/drummer/hannes-grossmann): DW Collector's Series — precision for odd-meter writing
+- [Derek Roddy](https://metalforge.io/drummer/derek-roddy): Tama Starclassic Bubinga — dense low end at extreme speed
+
 ---
 
 **More LLM resources:** 

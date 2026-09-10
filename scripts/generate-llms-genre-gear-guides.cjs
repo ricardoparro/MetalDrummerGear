@@ -45,6 +45,35 @@ try {
   process.exit(1);
 }
 
+// --- Load gearComparisons keys (packages/frontend/data/gearComparisons.js) to
+// validate relatedComparisons slugs before linking to /compare/<slug> — issue
+// #7249 (never fabricate links, per CLAUDE.md rule #3). ---
+const comparisonsPath = path.join(__dirname, '../packages/frontend/data/gearComparisons.js');
+const comparisonsContent = fs.readFileSync(comparisonsPath, 'utf-8');
+const comparisonsMatch = comparisonsContent.match(/export const gearComparisons\s*=\s*(\{[\s\S]*?\n\});\s*\n+\/\*\*/);
+let gearComparisonSlugs = new Set();
+if (comparisonsMatch) {
+  try {
+    // eslint-disable-next-line no-eval
+    gearComparisonSlugs = new Set(Object.keys(eval('(' + comparisonsMatch[1] + ')')));
+  } catch (e) {
+    console.error('Error parsing gearComparisons:', e);
+    process.exit(1);
+  }
+} else {
+  console.error('Could not extract gearComparisons from gearComparisons.js');
+  process.exit(1);
+}
+
+// --- Existing public/llms/drummers/<slug>.md files as ground truth for which
+// drummer slugs resolve to a real page — validates featuredDrummers links. ---
+const drummersMirrorDir = path.join(__dirname, '../public/llms/drummers');
+const validDrummerSlugs = new Set(
+  fs.readdirSync(drummersMirrorDir)
+    .filter((f) => f.endsWith('.md'))
+    .map((f) => f.replace(/\.md$/, ''))
+);
+
 function humanize(slug) {
   return slug
     .split('-')
@@ -264,6 +293,30 @@ function buildMarkdown(g) {
       parts.push(`- [${d.name}](${BASE}/drummer/${d.slug})${reason}`);
     }
     parts.push('');
+  }
+
+  if (Array.isArray(g.relatedComparisons) && g.relatedComparisons.length) {
+    const validComparisons = g.relatedComparisons.filter((slug) => gearComparisonSlugs.has(slug));
+    if (validComparisons.length) {
+      parts.push('## Related Comparisons');
+      parts.push('');
+      for (const slug of validComparisons) {
+        parts.push(`- [${humanize(slug)}](${BASE}/compare/${slug})`);
+      }
+      parts.push('');
+    }
+  }
+
+  if (Array.isArray(g.featuredDrummers) && g.featuredDrummers.length) {
+    const validFeatured = g.featuredDrummers.filter((d) => validDrummerSlugs.has(d.slug));
+    if (validFeatured.length) {
+      parts.push('## Featured Drummers');
+      parts.push('');
+      for (const d of validFeatured) {
+        parts.push(`- [${d.name}](${BASE}/drummer/${d.slug})${d.reason ? `: ${d.reason}` : ''}`);
+      }
+      parts.push('');
+    }
   }
 
   parts.push('---');

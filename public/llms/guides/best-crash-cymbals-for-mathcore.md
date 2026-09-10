@@ -312,6 +312,12 @@ Don't overlook the budget tier either — Zildjian A Series and Meinl HCS both p
 - [Blake Richardson](https://metalforge.io/drummer/blake-richardson) — Meinl Byzance Extra Dry Crash — BTBAM genre-hopping technicality
 - [Danny Carey](https://metalforge.io/drummer/danny-carey) — Paiste Signature Power Crash — Tool's Fibonacci-structured rigor
 
+## Featured Drummers
+
+- [Ben Koller](https://metalforge.io/drummer/ben-koller): Zildjian K and A Custom Crash — Converge mathcore's founding cutting attack
+- [Matt Greiner](https://metalforge.io/drummer/matt-greiner): Meinl Byzance Dual Crash — August Burns Red math metal complexity
+- [Blake Richardson](https://metalforge.io/drummer/blake-richardson): Meinl Byzance Extra Dry Crash — BTBAM genre-hopping technicality
+
 ---
 
 **More LLM resources:** 

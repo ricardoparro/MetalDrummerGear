@@ -328,6 +328,12 @@ Start with one excellent dark, medium-weight crash in the 18" range, master its 
 - [Blake Richardson](https://metalforge.io/drummer/blake-richardson) — Meinl Byzance Dark — BTBAM's dynamic extremity
 - [Brann Dailor](https://metalforge.io/drummer/brann-dailor) — Zildjian K Dark — Mastodon's GRAMMY-winning prog metal sound
 
+## Featured Drummers
+
+- [Mario Duplantier](https://metalforge.io/drummer/mario-duplantier): Three-crash graduated Zildjian setup for Gojira
+- [Danny Carey](https://metalforge.io/drummer/danny-carey): Paiste Signature Full Crash for Tool
+- [Blake Richardson](https://metalforge.io/drummer/blake-richardson): Meinl Byzance Dark for BTBAM
+
 ---
 
 **More LLM resources:** 

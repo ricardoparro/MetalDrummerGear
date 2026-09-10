@@ -315,6 +315,13 @@ Budget shouldn't stop you either. A Meinl HCS or Sabian SBR set will teach real 
 - [Shannon Larkin](https://metalforge.io/drummer/shannon-larkin) — Sabian AAX & HHX — Godsmack sludge-influenced hard rock weight
 - [Mario Duplantier](https://metalforge.io/drummer/mario-duplantier) — Zildjian K/A Custom — Gojira tectonic, sludge-adjacent precision
 
+## Featured Drummers
+
+- [Brann Dailor](https://metalforge.io/drummer/brann-dailor): Meinl Byzance — Mastodon sludge metal's most direct working analogue
+- [Igor Cavalera](https://metalforge.io/drummer/igor-cavalera): Paiste RUDE & 2002 — Sepultura tribal, down-tuned sludge-adjacent weight
+- [Shannon Larkin](https://metalforge.io/drummer/shannon-larkin): Sabian AAX & HHX — Godsmack sludge-influenced hard rock weight
+- [Mario Duplantier](https://metalforge.io/drummer/mario-duplantier): Zildjian K/A Custom — Gojira tectonic, sludge-adjacent precision
+
 ---
 
 **More LLM resources:** 

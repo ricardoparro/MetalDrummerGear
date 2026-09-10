@@ -336,6 +336,13 @@ Budget shouldn't stop you either. A Pearl Export, Ludwig Acrolite, or Mapex Stor
 - [Mario Duplantier](https://metalforge.io/drummer/mario-duplantier) — Sonor SQ2 custom — Gojira's crushing, tectonic doom-adjacent weight
 - [Danny Carey](https://metalforge.io/drummer/danny-carey) — DW Collector's Series dual snare — Tool's patient, atmospheric doom-adjacent weight
 
+## Featured Drummers
+
+- [Bill Ward](https://metalforge.io/drummer/bill-ward): Ludwig Supraphonic LM402 — Black Sabbath doom metal's genre-founding crack
+- [Brann Dailor](https://metalforge.io/drummer/brann-dailor): Tama Starclassic Performer B/B — Mastodon's warmest modern progressive doom lineage
+- [Mario Duplantier](https://metalforge.io/drummer/mario-duplantier): Tama S.L.P. G-Maple — Gojira's crushing, tectonic doom-adjacent weight
+- [Danny Carey](https://metalforge.io/drummer/danny-carey): Sonor Custom dual snare — Tool's patient, atmospheric doom-adjacent weight
+
 ---
 
 **More LLM resources:** 

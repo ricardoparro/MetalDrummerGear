@@ -316,6 +316,13 @@ Budget shouldn't stop you either. A Tama Metalworks or Pearl Modern Utility snar
 - [Blake Richardson](https://metalforge.io/drummer/blake-richardson) — Tama Starphonic 14x6" Brass — BTBAM genre-hopping technicality
 - [Danny Carey](https://metalforge.io/drummer/danny-carey) — Sonor Signature 14x8" Bronze — Tool's Fibonacci-structured rigor
 
+## Featured Drummers
+
+- [Ben Koller](https://metalforge.io/drummer/ben-koller): Tama S.L.P. 14x6" Brass — Converge mathcore's founding snare
+- [Matt Greiner](https://metalforge.io/drummer/matt-greiner): Greiner & Kilmer Custom 14x6.5" Maple — August Burns Red math metal complexity
+- [Blake Richardson](https://metalforge.io/drummer/blake-richardson): Tama Starphonic 14x6" Brass — BTBAM genre-hopping technicality
+- [Danny Carey](https://metalforge.io/drummer/danny-carey): Sonor Signature 14x8" Bronze — Tool's Fibonacci-structured rigor
+
 ---
 
 **More LLM resources:** 

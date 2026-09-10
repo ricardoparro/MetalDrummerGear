@@ -331,6 +331,12 @@ Start with one raw, trashy crash in the 17"-19" range, and layer a second voicin
 - [Inferno](https://metalforge.io/drummer/inferno) — Paiste RUDE Thin Crash — Behemoth's modern black/death precision
 - [Daray](https://metalforge.io/drummer/daray) — Paiste 2002 & RUDE Crashes — Dimmu Borgir's symphonic black metal sound
 
+## Featured Drummers
+
+- [Hellhammer](https://metalforge.io/drummer/hellhammer): Paiste RUDE Crash — black metal's foundational raw crash tone
+- [Inferno](https://metalforge.io/drummer/inferno): Paiste RUDE Thin Crash — Behemoth's modern black/death precision
+- [Daray](https://metalforge.io/drummer/daray): Paiste 2002 & RUDE Crashes — Dimmu Borgir's symphonic black metal sound
+
 ---
 
 **More LLM resources:** 

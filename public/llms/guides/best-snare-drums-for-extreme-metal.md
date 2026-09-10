@@ -321,6 +321,13 @@ Budget shouldn't stop you either. A Tama Metalworks or Pearl Sensitone snare wil
 - [Derek Roddy](https://metalforge.io/drummer/derek-roddy) — DW Collector's 14x6.5" Bronze — one-take recording durability
 - [Gene Hoglan](https://metalforge.io/drummer/gene-hoglan) — Tama Gene Hoglan Signature 14x8" Steel — The Atomic Clock's thunderous power
 
+## Featured Drummers
+
+- [George Kollias](https://metalforge.io/drummer/george-kollias): Pearl George Kollias Signature 14x6.5" Brass — Nile's 240+ BPM blast beat endurance
+- [Pete Sandoval](https://metalforge.io/drummer/pete-sandoval): ddrum Dios 14x6.5" Maple — pioneer of the gravity blast technique
+- [Derek Roddy](https://metalforge.io/drummer/derek-roddy): Tama Starclassic Bubinga 14x6.5" — one-take recording durability
+- [Gene Hoglan](https://metalforge.io/drummer/gene-hoglan): Tama Gene Hoglan Signature 14x8" Steel — The Atomic Clock's thunderous power
+
 ---
 
 **More LLM resources:** 

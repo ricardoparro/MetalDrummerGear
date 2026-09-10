@@ -309,6 +309,12 @@ Budget shouldn't stop you either. A Tama Iron Cobra 600 or DW 3000 Series pedal 
 - [Matt Halpern](https://metalforge.io/drummer/matt-halpern) — Pearl Eliminator Redline — Periphery prog-djent crisp precision
 - [Travis Orbin](https://metalforge.io/drummer/travis-orbin) — Tama Speed Cobra 910 — Periphery's genre-shaping debut setup
 
+## Featured Drummers
+
+- [Tomas Haake](https://metalforge.io/drummer/tomas-haake): Two independent single Tama Speed Cobra pedals — djent's founding foot independence
+- [Matt Halpern](https://metalforge.io/drummer/matt-halpern): Pearl Eliminator Redline — Periphery prog-djent crisp precision
+- [Travis Orbin](https://metalforge.io/drummer/travis-orbin): Tama Speed Cobra 910 — Periphery's genre-shaping debut setup
+
 ---
 
 **More LLM resources:** 

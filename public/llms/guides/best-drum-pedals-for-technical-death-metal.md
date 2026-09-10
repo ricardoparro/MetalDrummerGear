@@ -311,6 +311,13 @@ Start with a proven budget option like the Tama Iron Cobra 600 to build techniqu
 - [Flo Mounier](https://metalforge.io/drummer/flo-mounier) — Pearl Demon Drive — decades of gravity-blast technique
 - [Derek Roddy](https://metalforge.io/drummer/derek-roddy) — Tama Speed Cobra 910 — pioneered one-footed blast technique
 
+## Featured Drummers
+
+- [George Kollias](https://metalforge.io/drummer/george-kollias): Pearl Demon XR — co-designed for 240+ BPM technical death metal
+- [Hannes Grossmann](https://metalforge.io/drummer/hannes-grossmann): DW 9000 Series — demanding odd-subdivision bass drum patterns
+- [Flo Mounier](https://metalforge.io/drummer/flo-mounier): Pearl Demon Drive — decades of gravity-blast technique
+- [Derek Roddy](https://metalforge.io/drummer/derek-roddy): Tama Speed Cobra 910 — pioneered one-footed blast technique
+
 ---
 
 **More LLM resources:** 

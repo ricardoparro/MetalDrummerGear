@@ -365,6 +365,12 @@ Budget shouldn't stop you — Remo Renaissance Ambassador and Evans G1 Coated bo
 - [Mario Duplantier](https://metalforge.io/drummer/mario-duplantier) — Remo Emperor + EMAD-family heads — Gojira's crushing dual-kick weight
 - [Abe Cunningham](https://metalforge.io/drummer/abe-cunningham) — Evans-family heads — Deftones' ambient-to-crushing range
 
+## Featured Drummers
+
+- [Brann Dailor](https://metalforge.io/drummer/brann-dailor): Evans G2 Clear — dynamic range from ambient builds to sludge weight
+- [Mario Duplantier](https://metalforge.io/drummer/mario-duplantier): Remo Emperor + EMAD-family heads — crushing, low-tuned climax weight
+- [Abe Cunningham](https://metalforge.io/drummer/abe-cunningham): Evans-family heads — a kit voiced for both restraint and heaviness
+
 ---
 
 **More LLM resources:** 

@@ -314,6 +314,13 @@ Start where your budget allows — even a Pearl Export or Sonor AQ2 will get you
 - [Frost](https://metalforge.io/drummer/frost) — Sonor SQ2 Custom Series — Satyricon dynamic precision
 - [Jaska Raatikainen](https://metalforge.io/drummer/jaska-raatikainen) — Pearl Masters Premium Maple — Children of Bodom keyboard-orchestrated precision
 
+## Featured Drummers
+
+- [Daray](https://metalforge.io/drummer/daray): Pearl Masterworks Stadium Exotic — Dimmu Borgir full-orchestra symphonic black metal
+- [Hellhammer](https://metalforge.io/drummer/hellhammer): Sonor SQ2 Heavy Beech — Mayhem and Dimmu Borgir symphonic versatility
+- [Frost](https://metalforge.io/drummer/frost): Tama Starclassic Bubinga — Satyricon dynamic precision
+- [Jaska Raatikainen](https://metalforge.io/drummer/jaska-raatikainen): Pearl Masters Premium Maple — Children of Bodom keyboard-orchestrated precision
+
 ---
 
 **More LLM resources:** 

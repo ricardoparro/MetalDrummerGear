@@ -309,6 +309,13 @@ For most sludge metal drummers, start with a standard Vic Firth 5B to find your 
 - [Shannon Larkin](https://metalforge.io/drummer/shannon-larkin) — Promark signature — Godsmack sludge-influenced hard rock weight
 - [Mario Duplantier](https://metalforge.io/drummer/mario-duplantier) — Vic Firth X5A — Gojira tectonic, sludge-adjacent weight
 
+## Featured Drummers
+
+- [Brann Dailor](https://metalforge.io/drummer/brann-dailor): Vater signature — Mastodon's progressive sludge metal fills
+- [Igor Cavalera](https://metalforge.io/drummer/igor-cavalera): Vic Firth American Classic 5B — Sepultura's tribal, down-tuned weight
+- [Shannon Larkin](https://metalforge.io/drummer/shannon-larkin): Promark signature — Godsmack's sludge-influenced hard rock punch
+- [Mario Duplantier](https://metalforge.io/drummer/mario-duplantier): Vic Firth X5A — Gojira's tectonic, down-tuned riffing
+
 ---
 
 **More LLM resources:** 

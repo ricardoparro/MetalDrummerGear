@@ -308,6 +308,13 @@ For most nu-metal drummers, start with a standard Vic Firth or Zildjian 5A/5B to
 - [Shannon Larkin](https://metalforge.io/drummer/shannon-larkin) — Promark signature — Godsmack radio-ready punch
 - [John Otto](https://metalforge.io/drummer/john-otto) — Vic Firth American Classic 5B — Limp Bizkit groove-first weight
 
+## Featured Drummers
+
+- [Joey Jordison](https://metalforge.io/drummer/joey-jordison): Promark TX515W signature — Slipknot's explosive, technically demanding catalog
+- [Ray Luzier](https://metalforge.io/drummer/ray-luzier): Vic Firth signature — Korn's groove-locked, down-tuned power
+- [Shannon Larkin](https://metalforge.io/drummer/shannon-larkin): Promark signature — Godsmack's multi-platinum radio-ready catalog
+- [John Otto](https://metalforge.io/drummer/john-otto): Vic Firth American Classic 5B — Limp Bizkit's iconic nu-metal groove
+
 ---
 
 **More LLM resources:** 

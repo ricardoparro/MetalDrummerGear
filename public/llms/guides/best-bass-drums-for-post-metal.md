@@ -308,6 +308,12 @@ Start with a warm, moderately-tuned shell that responds cleanly to both light an
 - [Mario Duplantier](https://metalforge.io/drummer/mario-duplantier) — Dual-kick Tama Starclassic Bubinga — atmospheric dynamic build
 - [Abe Cunningham](https://metalforge.io/drummer/abe-cunningham) — SJC Custom — explicitly voiced for crushing and ambient extremes
 
+## Featured Drummers
+
+- [Brann Dailor](https://metalforge.io/drummer/brann-dailor): Tama Starclassic Performer B/B — versatile dynamic range
+- [Danny Carey](https://metalforge.io/drummer/danny-carey): Sonor SQ2 Heavy Beech — ambient-to-crushing cinematic range
+- [Mario Duplantier](https://metalforge.io/drummer/mario-duplantier): Dual-kick Tama Starclassic Bubinga — crescendo reserve weight
+
 ---
 
 **More LLM resources:** 

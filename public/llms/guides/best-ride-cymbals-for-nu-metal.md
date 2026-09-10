@@ -329,6 +329,12 @@ Budget shouldn't stop you either. A Zildjian ZBT or Paiste PST 8 ride will teach
 - [Joey Jordison](https://metalforge.io/drummer/joey-jordison) — 20" Paiste RUDE Ride — Slipknot aggressive nu-metal chaos
 - [Ray Luzier](https://metalforge.io/drummer/ray-luzier) — 20" Paiste 2002 Ride — Korn bright cutting attack
 
+## Featured Drummers
+
+- [John Otto](https://metalforge.io/drummer/john-otto): Zildjian A Custom Ping Ride for Limp Bizkit
+- [Joey Jordison](https://metalforge.io/drummer/joey-jordison): Paiste RUDE Ride for Slipknot
+- [Ray Luzier](https://metalforge.io/drummer/ray-luzier): Sabian AAX Series Ride for Korn
+
 ---
 
 **More LLM resources:** 

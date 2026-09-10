@@ -324,6 +324,12 @@ Precision and reliability win over bulk in thrash metal, every single time.
 - [Charlie Benante](https://metalforge.io/drummer/charlie-benante) — Road-tested, reliable hardware across decades of touring and session work
 - [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo) — A lean, no-nonsense hardware footprint built to survive genre-defining speed
 
+## Featured Drummers
+
+- [Lars Ulrich](https://metalforge.io/drummer/lars-ulrich): Tama hardware — four decades of touring durability
+- [Charlie Benante](https://metalforge.io/drummer/charlie-benante): Road-tested reliability across Anthrax's touring career
+- [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo): Lean, functional hardware built for genre-defining speed
+
 ---
 
 **More LLM resources:** 

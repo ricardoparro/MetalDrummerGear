@@ -326,6 +326,12 @@ Start with a 21"-22" pro ride, and specialize toward a Mega Bell or Raw Bell Dry
 - [Pete Sandoval](https://metalforge.io/drummer/pete-sandoval) — Zildjian articulate ride response — Morbid Angel hyper-blast pioneer
 - [Gene Hoglan](https://metalforge.io/drummer/gene-hoglan) — 22" Sabian AAX Ride across 20+ bands
 
+## Featured Drummers
+
+- [George Kollias](https://metalforge.io/drummer/george-kollias): Zildjian A Custom Mega Bell Ride for Nile
+- [Flo Mounier](https://metalforge.io/drummer/flo-mounier): Sabian HHX Raw Bell Dry Ride for Cryptopsy
+- [Gene Hoglan](https://metalforge.io/drummer/gene-hoglan): Sabian AAX Ride across Death, Testament, and Dethklok
+
 ---
 
 **More LLM resources:** 

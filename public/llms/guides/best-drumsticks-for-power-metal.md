@@ -308,6 +308,13 @@ For most power metal drummers, start with a standard Vic Firth or Vater 5A to fi
 - [Nicko McBrain](https://metalforge.io/drummer/nicko-mcbrain) — Promark Classic Forward 5A — Iron Maiden galloping riff attack
 - [Mikkey Dee](https://metalforge.io/drummer/mikkey-dee) — Vic Firth American Classic 5B — Motörhead/Scorpions touring stamina
 
+## Featured Drummers
+
+- [Scott Travis](https://metalforge.io/drummer/scott-travis): Vic Firth American Classic 5A — Judas Priest's galloping double-bass foundation
+- [Aquiles Priester](https://metalforge.io/drummer/aquiles-priester): ProMark Aquiles Priester Signature — Angra's neoclassical double-bass precision
+- [Nicko McBrain](https://metalforge.io/drummer/nicko-mcbrain): Vic Firth Signature SNM — Iron Maiden's reinforced touring durability
+- [Mikkey Dee](https://metalforge.io/drummer/mikkey-dee): Vic Firth American Classic 5B — Motörhead/Scorpions touring stamina
+
 ---
 
 **More LLM resources:** 

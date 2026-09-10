@@ -317,6 +317,13 @@ Budget shouldn't stop you either. A Pearl Demonator or Tama Iron Cobra 600 will 
 - [Travis Orbin](https://metalforge.io/drummer/travis-orbin) — Tama Speed Cobra 910 — Periphery genre-defining technical speed
 - [Matt Halpern](https://metalforge.io/drummer/matt-halpern) — Pearl Eliminator Redline — Periphery dense prog-metalcore control
 
+## Featured Drummers
+
+- [Nick Augusto](https://metalforge.io/drummer/nick-augusto): Pearl Demon Drive — Trivium technical metalcore speed
+- [Art Cruz](https://metalforge.io/drummer/art-cruz): Trick Pro 1-V — Lamb of God breakdown-heavy punch
+- [Travis Orbin](https://metalforge.io/drummer/travis-orbin): Tama Speed Cobra 910 — Periphery genre-defining technical speed
+- [Matt Halpern](https://metalforge.io/drummer/matt-halpern): Pearl Eliminator Redline — Periphery dense prog-metalcore control
+
 ---
 
 **More LLM resources:** 

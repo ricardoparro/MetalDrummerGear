@@ -304,6 +304,12 @@ Whatever you choose, prioritize consistent chick response and dynamic range over
 - [Joey Jordison](https://metalforge.io/drummer/joey-jordison) — Paiste RUDE Wild Hi-Hats — Slipknot Iowa-era breakdown chaos
 - [Ray Luzier](https://metalforge.io/drummer/ray-luzier) — Paiste 2002 Hi-Hats — Korn's dense, down-tuned cut-through
 
+## Featured Drummers
+
+- [John Otto](https://metalforge.io/drummer/john-otto): Zildjian A Custom Hi-Hats — Limp Bizkit syncopated groove precision
+- [Joey Jordison](https://metalforge.io/drummer/joey-jordison): Paiste RUDE Wild Hi-Hats — Slipknot Iowa-era breakdown chaos
+- [Ray Luzier](https://metalforge.io/drummer/ray-luzier): Sabian AAX Series Hi-Hats — Korn's dense, down-tuned cut-through
+
 ---
 
 **More LLM resources:** 

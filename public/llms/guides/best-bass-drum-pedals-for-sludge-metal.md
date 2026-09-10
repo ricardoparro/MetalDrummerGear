@@ -272,6 +272,11 @@ Whatever you choose: dial in heavier tension for the down-tuned groove first, th
 - [Brann Dailor](https://metalforge.io/drummer/brann-dailor) — DW 5000 Series pedal for Mastodon's crushing early catalog
 - [Shannon Larkin](https://metalforge.io/drummer/shannon-larkin) — Tama Iron Cobra 600 for Godsmack's groove-heavy sludge influence
 
+## Featured Drummers
+
+- [Igor Cavalera](https://metalforge.io/drummer/igor-cavalera): Reliable, controlled tonnage for Sepultura's tribal, down-tuned heaviness
+- [Mario Duplantier](https://metalforge.io/drummer/mario-duplantier): Crushing, tectonic low end powering Gojira
+
 ---
 
 **More LLM resources:** 

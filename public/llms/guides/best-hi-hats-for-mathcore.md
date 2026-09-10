@@ -309,6 +309,12 @@ Start with whichever character matches your playing style, and don't overlook th
 - [Blake Richardson](https://metalforge.io/drummer/blake-richardson) — Meinl Byzance Extra Dry Hi-Hats — BTBAM genre-hopping technicality
 - [Danny Carey](https://metalforge.io/drummer/danny-carey) — Paiste Signature Hi-Hats — Tool's Fibonacci-structured rigor
 
+## Featured Drummers
+
+- [Ben Koller](https://metalforge.io/drummer/ben-koller): Zildjian K and A Custom Hi-Hats — Converge mathcore's founding cutting attack
+- [Matt Greiner](https://metalforge.io/drummer/matt-greiner): Meinl Byzance Extra Dry Dual Hi-Hats — August Burns Red math metal complexity
+- [Blake Richardson](https://metalforge.io/drummer/blake-richardson): Meinl Byzance Extra Dry Hi-Hats — BTBAM genre-hopping technicality
+
 ---
 
 **More LLM resources:** 

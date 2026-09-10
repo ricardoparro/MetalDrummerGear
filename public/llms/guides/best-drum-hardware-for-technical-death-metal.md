@@ -326,6 +326,12 @@ Whatever you choose, prioritize double-braced construction and precise memory lo
 - [Flo Mounier](https://metalforge.io/drummer/flo-mounier) — Pearl D-3000 Throne for decades of gravity-blast technique stability
 - [Derek Roddy](https://metalforge.io/drummer/derek-roddy) — DW 9100 Throne built for one-footed blast beat technique at speed
 
+## Featured Drummers
+
+- [Hannes Grossmann](https://metalforge.io/drummer/hannes-grossmann): DW hardware — exact response for dense technical writing
+- [Flo Mounier](https://metalforge.io/drummer/flo-mounier): Pearl throne stability across decades of gravity-blast technique
+- [Derek Roddy](https://metalforge.io/drummer/derek-roddy): Tama Speed Cobra 910 for one-footed blast beat consistency at speed
+
 ---
 
 **More LLM resources:** 

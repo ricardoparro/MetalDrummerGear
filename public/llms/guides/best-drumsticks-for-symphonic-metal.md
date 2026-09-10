@@ -280,6 +280,12 @@ For most symphonic metal drummers, start with a standard Vic Firth 5B to find yo
 - [Jaska Raatikainen](https://metalforge.io/drummer/jaska-raatikainen) — Vic Firth American Classic 5A — Children of Bodom keyboard-orchestrated precision
 - [Frost](https://metalforge.io/drummer/frost) — Satyricon dynamic precision — symphonic-adjacent black metal technique
 
+## Featured Drummers
+
+- [Daray](https://metalforge.io/drummer/daray): Vic Firth American Classic Extreme 5B — cutting through Dimmu Borgir's dense orchestration
+- [Hellhammer](https://metalforge.io/drummer/hellhammer): Vic Firth American Classic 5B — Mayhem and Dimmu Borgir versatility
+- [Jaska Raatikainen](https://metalforge.io/drummer/jaska-raatikainen): Vic Firth American Classic 5A — Children of Bodom melodic precision
+
 ---
 
 **More LLM resources:** 

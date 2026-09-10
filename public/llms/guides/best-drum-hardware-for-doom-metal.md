@@ -326,6 +326,13 @@ Whatever you choose, prioritize oversized bases and reinforced mounts over price
 - [Mario Duplantier](https://metalforge.io/drummer/mario-duplantier) — Reinforced tom mounting for crushing, down-tuned Gojira riffing
 - [Igor Cavalera](https://metalforge.io/drummer/igor-cavalera) — Tonnage-first hitting force met with maximum tip-over resistance
 
+## Featured Drummers
+
+- [Brann Dailor](https://metalforge.io/drummer/brann-dailor): Oversized tom mounts for expansive, deep-shell kits
+- [Danny Carey](https://metalforge.io/drummer/danny-carey): Rack-based support for an elaborate multi-piece rig
+- [Mario Duplantier](https://metalforge.io/drummer/mario-duplantier): Reinforced mounting for crushing, down-tuned riffing
+- [Igor Cavalera](https://metalforge.io/drummer/igor-cavalera): Tonnage-first, full-weight hitting stability
+
 ---
 
 **More LLM resources:** 

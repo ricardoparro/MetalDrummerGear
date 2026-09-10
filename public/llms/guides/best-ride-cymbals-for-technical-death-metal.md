@@ -311,6 +311,12 @@ Start with a 20"-21" pro ride built for dry control, and choose your voicing bas
 - [Flo Mounier](https://metalforge.io/drummer/flo-mounier) — 21" Sabian HHX Raw Bell Dry Ride — gravity-blast technique
 - [Derek Roddy](https://metalforge.io/drummer/derek-roddy) — 21" Meinl Mb20 Heavy Ride — one-footed blast technique
 
+## Featured Drummers
+
+- [George Kollias](https://metalforge.io/drummer/george-kollias): Zildjian A Custom Mega Bell Ride for Nile
+- [Hannes Grossmann](https://metalforge.io/drummer/hannes-grossmann): Meinl Byzance Traditional Ride for Obscura
+- [Flo Mounier](https://metalforge.io/drummer/flo-mounier): Sabian HHX Raw Bell Dry Ride for Cryptopsy
+
 ---
 
 **More LLM resources:** 

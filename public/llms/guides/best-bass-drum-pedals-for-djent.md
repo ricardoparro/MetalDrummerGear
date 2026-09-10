@@ -279,6 +279,10 @@ Whatever you choose: dial in a moderate tension, practice against a click until 
 - [Travis Orbin](https://metalforge.io/drummer/travis-orbin) — Tama Speed Cobra 910 on djent's genre-defining trigger-augmented template
 - [Matt Garstka](https://metalforge.io/drummer/matt-garstka) — Precision-focused technique for Animals as Leaders' polyrhythmic material
 
+## Featured Drummers
+
+- [Tomas Haake](https://metalforge.io/drummer/tomas-haake): Two independent single Tama Speed Cobra pedals defining djent's polyrhythmic kick technique
+
 ---
 
 **More LLM resources:** 

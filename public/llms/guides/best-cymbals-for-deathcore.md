@@ -315,6 +315,12 @@ Budget shouldn't stop you either. A Meinl HCS or Zildjian ZBT set will teach rea
 - [Ben Koller](https://metalforge.io/drummer/ben-koller) — Zildjian K Dark — Converge's hardcore/mathcore intensity
 - [George Kollias](https://metalforge.io/drummer/george-kollias) — Zildjian K/A Custom — Nile's 240+ BPM blast-beat benchmark
 
+## Featured Drummers
+
+- [Chris Turner](https://metalforge.io/drummer/chris-turner): Meinl Byzance — Oceans Ate Alaska's blast-beat-driven deathcore-adjacent precision
+- [Ben Koller](https://metalforge.io/drummer/ben-koller): Zildjian K Dark — Converge's hardcore/mathcore intensity
+- [George Kollias](https://metalforge.io/drummer/george-kollias): Zildjian K/A Custom — Nile's 240+ BPM blast-beat benchmark
+
 ---
 
 **More LLM resources:** 

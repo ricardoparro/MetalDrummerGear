@@ -359,6 +359,12 @@ Budget shouldn't stop you — Remo Coated Diplomat and Evans G1 Coated both offe
 - [Flo Mounier](https://metalforge.io/drummer/flo-mounier) — Remo Ambassador — three decades of gravity-blast technique
 - [Derek Roddy](https://metalforge.io/drummer/derek-roddy) — Evans G2 Coated — blistering speed without sacrificing weight
 
+## Featured Drummers
+
+- [George Kollias](https://metalforge.io/drummer/george-kollias): Remo Emperor — the genre's defining blast-beat-durable tone since 2004
+- [Hannes Grossmann](https://metalforge.io/drummer/hannes-grossmann): Evans EC2 SST — controlled precision for odd-meter composition
+- [Flo Mounier](https://metalforge.io/drummer/flo-mounier): Evans EC Reverse Dot — the rebound sensitivity gravity-blast technique depends on
+
 ---
 
 **More LLM resources:** 

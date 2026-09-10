@@ -329,6 +329,12 @@ Start with one dry, controlled crash in the 16"-18" range, and layer a second si
 - [Matt Halpern](https://metalforge.io/drummer/matt-halpern) — Meinl Byzance Dark — Periphery prog-djent precision
 - [Travis Orbin](https://metalforge.io/drummer/travis-orbin) — Meinl Byzance Extra Dry — Periphery's genre-shaping debut setup
 
+## Featured Drummers
+
+- [Tomas Haake](https://metalforge.io/drummer/tomas-haake): Sabian AAX — djent's founding precision voice
+- [Matt Halpern](https://metalforge.io/drummer/matt-halpern): Meinl Byzance Dark — Periphery prog-djent precision
+- [Travis Orbin](https://metalforge.io/drummer/travis-orbin): Meinl Byzance Extra Dry — Periphery's genre-shaping debut setup
+
 ---
 
 **More LLM resources:** 

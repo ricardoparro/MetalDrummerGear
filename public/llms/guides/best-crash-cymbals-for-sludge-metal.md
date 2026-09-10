@@ -314,6 +314,12 @@ Start with one dark, heavy crash in the 18"-19" range, and add a second voicing 
 - [Mario Duplantier](https://metalforge.io/drummer/mario-duplantier) — Zildjian K/A Custom Crash — Gojira tectonic, sludge-adjacent precision
 - [Brann Dailor](https://metalforge.io/drummer/brann-dailor) — Meinl Byzance Brilliant Heavy Hammered Crash — Mastodon sludge metal's most direct working analogue
 
+## Featured Drummers
+
+- [Igor Cavalera](https://metalforge.io/drummer/igor-cavalera): Paiste RUDE Crash — Sepultura tribal, down-tuned sludge-adjacent weight
+- [Shannon Larkin](https://metalforge.io/drummer/shannon-larkin): Sabian AAX X-Plosion Crash — Godsmack sludge-influenced hard rock weight
+- [Brann Dailor](https://metalforge.io/drummer/brann-dailor): Meinl Byzance Brilliant Heavy Hammered Crash — Mastodon sludge metal's most direct working analogue
+
 ---
 
 **More LLM resources:** 

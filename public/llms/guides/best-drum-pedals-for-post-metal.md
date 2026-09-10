@@ -311,6 +311,13 @@ Start with a proven, affordable option like the Tama Iron Cobra 600 to build you
 - [Mario Duplantier](https://metalforge.io/drummer/mario-duplantier) — Twin Tama Iron Cobra 900 — organic, tectonic dual-kick weight
 - [Abe Cunningham](https://metalforge.io/drummer/abe-cunningham) — DW 9000 Series — adjustable response for the crushing/ambient shift
 
+## Featured Drummers
+
+- [Brann Dailor](https://metalforge.io/drummer/brann-dailor): Tama Speed Cobra — fluid double bass beneath polyrhythmic guitar layers
+- [Danny Carey](https://metalforge.io/drummer/danny-carey): Sonor Giant Step Twin Effect — consistency across dynamic extremes
+- [Mario Duplantier](https://metalforge.io/drummer/mario-duplantier): Twin Tama Iron Cobra 900 — organic, tectonic dual-kick weight
+- [Abe Cunningham](https://metalforge.io/drummer/abe-cunningham): DW 9000 Series — adjustable response for the crushing/ambient shift
+
 ---
 
 **More LLM resources:** 

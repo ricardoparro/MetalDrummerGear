@@ -314,6 +314,12 @@ Don't overlook the budget tier — Zildjian A Series and Sabian AAX Stage both p
 - [Derek Roddy](https://metalforge.io/drummer/derek-roddy) — Meinl Byzance Brilliant Heavy Hammered — Hate Eternal/Nile's touring longevity
 - [Gene Hoglan](https://metalforge.io/drummer/gene-hoglan) — Sabian AAX X-Plosion — Death/Testament's Atomic Clock precision
 
+## Featured Drummers
+
+- [George Kollias](https://metalforge.io/drummer/george-kollias): Zildjian K Custom Dark + A Custom Mega Bell Ride — Nile's technical death metal precision
+- [Pete Sandoval](https://metalforge.io/drummer/pete-sandoval): Sabian AAX Stage + Raw Bell Dry Ride — Morbid Angel's gravity-blast durability
+- [Derek Roddy](https://metalforge.io/drummer/derek-roddy): Meinl Byzance Brilliant Heavy Hammered — Hate Eternal/Nile's blast-beat longevity
+
 ---
 
 **More LLM resources:** 

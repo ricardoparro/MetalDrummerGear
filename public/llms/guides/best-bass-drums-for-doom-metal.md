@@ -312,6 +312,12 @@ Start with a 24" shell and open, moderate tuning — it's the proven foundation 
 - [Mario Duplantier](https://metalforge.io/drummer/mario-duplantier) — 24"x20" Sonor SQ2 custom shell — crushing, tectonic weight
 - [Igor Cavalera](https://metalforge.io/drummer/igor-cavalera) — 24"x18" Pearl Reference — tribal, down-tuned doom-adjacent weight
 
+## Featured Drummers
+
+- [Danny Carey](https://metalforge.io/drummer/danny-carey): Dual-kick Sonor Custom — the oversized doom-adjacent standard
+- [Brann Dailor](https://metalforge.io/drummer/brann-dailor): Tama Starclassic Performer B/B — closest analogue to doom's founding template
+- [Mario Duplantier](https://metalforge.io/drummer/mario-duplantier): Dual 22"x18" Tama Starclassic Bubinga — maximum low-end mass
+
 ---
 
 **More LLM resources:** 

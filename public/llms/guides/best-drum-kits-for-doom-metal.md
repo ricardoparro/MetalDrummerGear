@@ -315,6 +315,13 @@ Budget shouldn't stop you either. A Pearl Export or Sonor AQ2 shell pack will te
 - [Danny Carey](https://metalforge.io/drummer/danny-carey) — DW Collector's Series Custom — Tool atmospheric patience
 - [Igor Cavalera](https://metalforge.io/drummer/igor-cavalera) — Pearl Reference — Sepultura tribal, down-tuned heaviness
 
+## Featured Drummers
+
+- [Brann Dailor](https://metalforge.io/drummer/brann-dailor): Tama Starclassic Performer B/B — Mastodon progressive sludge-doom warmth
+- [Mario Duplantier](https://metalforge.io/drummer/mario-duplantier): Dual 22"x18" Tama Starclassic Bubinga — Gojira crushing, tectonic weight
+- [Danny Carey](https://metalforge.io/drummer/danny-carey): Sonor Custom — Tool atmospheric patience
+- [Igor Cavalera](https://metalforge.io/drummer/igor-cavalera): Yamaha Absolute Hybrid Maple — Sepultura tribal, down-tuned heaviness
+
 ---
 
 **More LLM resources:** 

@@ -299,6 +299,12 @@ Whatever you choose, prioritize consistency under sustained blast beat use over 
 - [Flo Mounier](https://metalforge.io/drummer/flo-mounier) — Paiste 2002 — controlled chaos at 270 BPM
 - [Pete Sandoval](https://metalforge.io/drummer/pete-sandoval) — Zildjian — hyper-blast articulation pioneer
 
+## Featured Drummers
+
+- [George Kollias](https://metalforge.io/drummer/george-kollias): Zildjian K Custom Dark for extreme cutting power at 280 BPM
+- [Flo Mounier](https://metalforge.io/drummer/flo-mounier): Sabian AAX/HHX — controlled chaos at 270 BPM
+- [Pete Sandoval](https://metalforge.io/drummer/pete-sandoval): Zildjian for hyper-blast articulation
+
 ---
 
 **More LLM resources:** 

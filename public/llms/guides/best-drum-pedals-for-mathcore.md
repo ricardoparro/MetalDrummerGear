@@ -313,6 +313,13 @@ Budget shouldn't stop you either. A Tama Iron Cobra 600 or Pearl Eliminator Redl
 - [Blake Richardson](https://metalforge.io/drummer/blake-richardson) — Twin Tama Iron Cobra Power Glide singles — BTBAM foot independence
 - [Danny Carey](https://metalforge.io/drummer/danny-carey) — Sonor Giant Step Twin Effect — Tool's Fibonacci-structured rigor
 
+## Featured Drummers
+
+- [Ben Koller](https://metalforge.io/drummer/ben-koller): Tama Iron Cobra 900 Double Pedal — Converge mathcore's founding pedal
+- [Matt Greiner](https://metalforge.io/drummer/matt-greiner): DW 9000 Series Double Pedal — August Burns Red math metal complexity
+- [Blake Richardson](https://metalforge.io/drummer/blake-richardson): Twin Tama Iron Cobra Power Glide singles — BTBAM foot independence
+- [Danny Carey](https://metalforge.io/drummer/danny-carey): Sonor Giant Step Twin Effect — Tool's Fibonacci-structured rigor
+
 ---
 
 **More LLM resources:** 

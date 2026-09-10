@@ -316,6 +316,13 @@ Budget shouldn't stop you either. A Tama Imperialstar or Pearl Export steel snar
 - [Nicko McBrain](https://metalforge.io/drummer/nicko-mcbrain) — Sonor Signature — Iron Maiden galloping anthem projection
 - [Mikkey Dee](https://metalforge.io/drummer/mikkey-dee) — Pearl Free-Floating — Motörhead/Scorpions versatile touring pedigree
 
+## Featured Drummers
+
+- [Scott Travis](https://metalforge.io/drummer/scott-travis): ddrum Scott Travis Signature — Judas Priest bright, cutting projection
+- [Aquiles Priester](https://metalforge.io/drummer/aquiles-priester): Mapex Saturn Evolution — Angra neoclassical high-tempo attack
+- [Nicko McBrain](https://metalforge.io/drummer/nicko-mcbrain): Sonor Signature — Iron Maiden galloping anthem projection
+- [Mikkey Dee](https://metalforge.io/drummer/mikkey-dee): Sonor SQ2 Signature — Motörhead/Scorpions touring reliability
+
 ---
 
 **More LLM resources:** 

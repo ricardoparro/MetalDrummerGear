@@ -310,6 +310,13 @@ One overlooked factor: groove metal's deliberate pacing means a stick's per-hit 
 - [Shannon Larkin](https://metalforge.io/drummer/shannon-larkin) — Promark signature — Godsmack's explosive, radio-ready punch
 - [Igor Cavalera](https://metalforge.io/drummer/igor-cavalera) — Vic Firth American Classic 5B — Sepultura's tribal, down-tuned groove weight
 
+## Featured Drummers
+
+- [Vinnie Paul](https://metalforge.io/drummer/vinnie-paul): Vic Firth American Classic 5B — Pantera's founding groove metal template
+- [Chris Adler](https://metalforge.io/drummer/chris-adler): Promark TX5AXW Signature — Lamb of God's syncopated precision
+- [Shannon Larkin](https://metalforge.io/drummer/shannon-larkin): Promark Signature — Godsmack's multi-platinum groove punch
+- [Igor Cavalera](https://metalforge.io/drummer/igor-cavalera): Vic Firth American Classic 5B — Sepultura's tribal groove weight
+
 ---
 
 **More LLM resources:** 

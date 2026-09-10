@@ -308,6 +308,13 @@ For most post-metal drummers, start with a standard Vic Firth 5A to find your ba
 - [Danny Carey](https://metalforge.io/drummer/danny-carey) — Vic Firth signature — full, dark tone for Tool's dynamic compositions
 - [Abe Cunningham](https://metalforge.io/drummer/abe-cunningham) — Vic Firth American Classic 5A — Deftones' restraint-to-heaviness range
 
+## Featured Drummers
+
+- [Brann Dailor](https://metalforge.io/drummer/brann-dailor): Vater signature — Mastodon's dynamically shifting weight and fills
+- [Mario Duplantier](https://metalforge.io/drummer/mario-duplantier): Vic Firth X5A — Gojira's crushing, tectonic weight
+- [Danny Carey](https://metalforge.io/drummer/danny-carey): Vic Firth Signature — Tool's patient, dynamically shifting complexity
+- [Abe Cunningham](https://metalforge.io/drummer/abe-cunningham): Vic Firth American Classic 5A — Deftones' quiet-to-heavy sensitivity
+
 ---
 
 **More LLM resources:** 

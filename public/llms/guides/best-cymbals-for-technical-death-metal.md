@@ -315,6 +315,13 @@ Start with a budget ZBT or SBR set to build your technique, and invest in a full
 - [Flo Mounier](https://metalforge.io/drummer/flo-mounier) — Sabian AAX & HHX — dry control for gravity-blast technique
 - [Derek Roddy](https://metalforge.io/drummer/derek-roddy) — Meinl Byzance Heavy & Mb20 Heavy — one-footed blast technique
 
+## Featured Drummers
+
+- [George Kollias](https://metalforge.io/drummer/george-kollias): Zildjian K & A Custom — dry articulation at 240+ BPM
+- [Hannes Grossmann](https://metalforge.io/drummer/hannes-grossmann): Meinl Byzance Traditional & Brilliant — classically-informed precision
+- [Flo Mounier](https://metalforge.io/drummer/flo-mounier): Sabian AAX & HHX — dry control for gravity-blast technique
+- [Derek Roddy](https://metalforge.io/drummer/derek-roddy): Meinl Byzance Heavy & Mb20 Heavy — one-footed blast technique
+
 ---
 
 **More LLM resources:** 

@@ -310,6 +310,12 @@ Start with one durable, fast-attack crash in the 16"-19" range, and prioritize c
 - [Derek Roddy](https://metalforge.io/drummer/derek-roddy) — Meinl Byzance Brilliant Heavy Hammered Crash — one-footed blast durability
 - [Gene Hoglan](https://metalforge.io/drummer/gene-hoglan) — Sabian AAX X-Plosion Crash — The Atomic Clock's precision punch
 
+## Featured Drummers
+
+- [George Kollias](https://metalforge.io/drummer/george-kollias): Zildjian K Custom Dark Crash — Nile's 240+ BPM blast beat endurance
+- [Pete Sandoval](https://metalforge.io/drummer/pete-sandoval): Sabian AAX Stage/Studio Crash — pioneer of the gravity blast technique
+- [Derek Roddy](https://metalforge.io/drummer/derek-roddy): Meinl Byzance Brilliant Heavy Hammered Crash — one-footed blast durability
+
 ---
 
 **More LLM resources:** 

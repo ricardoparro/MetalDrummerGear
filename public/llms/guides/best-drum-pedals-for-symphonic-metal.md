@@ -290,6 +290,13 @@ Whichever you choose, remember that symphonic metal's most acclaimed recordings 
 - [Frost](https://metalforge.io/drummer/frost) — Sonor Perfect Balance — Satyricon dynamic precision
 - [Jaska Raatikainen](https://metalforge.io/drummer/jaska-raatikainen) — Pearl Eliminator — Children of Bodom keyboard-orchestrated precision
 
+## Featured Drummers
+
+- [Daray](https://metalforge.io/drummer/daray): Pearl Demon XR for Dimmu Borgir full-orchestra symphonic black metal
+- [Hellhammer](https://metalforge.io/drummer/hellhammer): Axis Double Pedal for Mayhem and Dimmu Borgir symphonic versatility
+- [Frost](https://metalforge.io/drummer/frost): Tama Iron Cobra Power Glide for Satyricon dynamic precision
+- [Jaska Raatikainen](https://metalforge.io/drummer/jaska-raatikainen): Pearl Eliminator for Children of Bodom keyboard-orchestrated precision
+
 ---
 
 **More LLM resources:** 

@@ -256,6 +256,12 @@ Start with a 20"-22" pro ride built for either maximum cut or dynamic control, a
 - [Hellhammer](https://metalforge.io/drummer/hellhammer) — 20" Zildjian Z Custom Dark Ride for Mayhem and Dimmu Borgir
 - [Frost](https://metalforge.io/drummer/frost) — 22" Zildjian K Custom Dark Ride for Satyricon dynamic control
 
+## Featured Drummers
+
+- [Daray](https://metalforge.io/drummer/daray): Paiste RUDE Power Ride for Dimmu Borgir
+- [Hellhammer](https://metalforge.io/drummer/hellhammer): Zildjian Z Custom Dark Ride for Mayhem/Dimmu Borgir
+- [Frost](https://metalforge.io/drummer/frost): Zildjian K Custom Dark Ride for Satyricon
+
 ---
 
 **More LLM resources:** 

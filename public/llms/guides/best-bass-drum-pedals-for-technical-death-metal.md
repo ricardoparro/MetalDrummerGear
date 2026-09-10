@@ -282,6 +282,11 @@ Whatever you choose: build heel-toe technique gradually, invest in a longboard f
 - [Flo Mounier](https://metalforge.io/drummer/flo-mounier) — Direct drive precision powering Cryptopsy's legendary gravity-blast technique
 - [Hannes Grossmann](https://metalforge.io/drummer/hannes-grossmann) — DW 9000 XF for extreme speed across Obscura and Alkaloid's odd-subdivision patterns
 
+## Featured Drummers
+
+- [George Kollias](https://metalforge.io/drummer/george-kollias): Co-designed Pearl Demon XR — sustaining 240+ BPM double bass work with Nile
+- [Derek Roddy](https://metalforge.io/drummer/derek-roddy): Pioneering one-footed blast beat technique on a longboard-equipped Speed Cobra 910
+
 ---
 
 **More LLM resources:** 

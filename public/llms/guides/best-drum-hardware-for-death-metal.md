@@ -326,6 +326,12 @@ Whatever you choose, prioritize double-braced construction and precise memory lo
 - [Paul Mazurkiewicz](https://metalforge.io/drummer/paul-mazurkiewicz) — Decades of touring-proven, road-tested hardware reliability
 - [Pete Sandoval](https://metalforge.io/drummer/pete-sandoval) — Pushed hardware to its limits pioneering the modern blast beat
 
+## Featured Drummers
+
+- [George Kollias](https://metalforge.io/drummer/george-kollias): Pearl D-3000 Throne — stability at 260+ BPM
+- [Paul Mazurkiewicz](https://metalforge.io/drummer/paul-mazurkiewicz): Decades of road-tested touring hardware reliability
+- [Pete Sandoval](https://metalforge.io/drummer/pete-sandoval): Pioneered the blast beat demands modern hardware is built for
+
 ---
 
 **More LLM resources:** 

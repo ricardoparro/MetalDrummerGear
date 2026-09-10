@@ -308,6 +308,13 @@ For most technical death metal drummers, start with a standard Vic Firth 5A or 5
 - [Flo Mounier](https://metalforge.io/drummer/flo-mounier) — Vater Power 5B — three decades of gravity-blast technique
 - [Derek Roddy](https://metalforge.io/drummer/derek-roddy) — Vater signature — speed and one-footed blast technique
 
+## Featured Drummers
+
+- [Hannes Grossmann](https://metalforge.io/drummer/hannes-grossmann): Vic Firth American Classic 5B — Obscura/Alkaloid classically-informed technicality
+- [Flo Mounier](https://metalforge.io/drummer/flo-mounier): Vater Power 5B — Cryptopsy's gravity-blast technique
+- [Derek Roddy](https://metalforge.io/drummer/derek-roddy): Vater signature — Hate Eternal/Nile one-footed blast speed
+- [George Kollias](https://metalforge.io/drummer/george-kollias): Vic Firth sticks — Nile's extreme blast-beat precision
+
 ---
 
 **More LLM resources:** 

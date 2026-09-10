@@ -328,6 +328,13 @@ Whatever you choose, prioritize heavy-gauge tubing and reinforced tension bolts 
 - [Igor Cavalera](https://metalforge.io/drummer/igor-cavalera) — Road-tested hardware surviving decades of touring abuse
 - [Shannon Larkin](https://metalforge.io/drummer/shannon-larkin) — Genuinely heavy-duty hardware built for hard, deliberate hits
 
+## Featured Drummers
+
+- [Mario Duplantier](https://metalforge.io/drummer/mario-duplantier): Tama hardware for dual-kick, down-tuned Gojira impact
+- [Brann Dailor](https://metalforge.io/drummer/brann-dailor): Rack system holding heavy, low-tuned cymbal arrays
+- [Igor Cavalera](https://metalforge.io/drummer/igor-cavalera): Road-tested hardware across decades of touring
+- [Shannon Larkin](https://metalforge.io/drummer/shannon-larkin): Heavy-duty hardware for hard, deliberate hits
+
 ---
 
 **More LLM resources:** 

@@ -325,6 +325,12 @@ Whichever you choose, remember that thrash metal doesn't need heavy muffling sys
 - [Gene Hoglan](https://metalforge.io/drummer/gene-hoglan) — Durable, articulate double-ply tone across decades of Testament
 - [Charlie Benante](https://metalforge.io/drummer/charlie-benante) — Anthrax's explosive, genre-founding thrash metal energy
 
+## Featured Drummers
+
+- [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo): Slayer's galloping bass drum pioneer and thrash metal foundation
+- [Charlie Benante](https://metalforge.io/drummer/charlie-benante): Anthrax's driving energy across the genre's founding years
+- [Lars Ulrich](https://metalforge.io/drummer/lars-ulrich): Metallica's tight, aggressive backbeat and one of metal's most recognizable rhythms
+
 ---
 
 **More LLM resources:** 

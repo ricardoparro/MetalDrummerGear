@@ -310,6 +310,13 @@ One overlooked factor: extreme metal's sustained abuse means a stick's long-term
 - [Derek Roddy](https://metalforge.io/drummer/derek-roddy) — Vater signature — lightweight speed for one-footed blast technique
 - [Gene Hoglan](https://metalforge.io/drummer/gene-hoglan) — Vater 5B Wood Tip — dependable balance for metronomic precision
 
+## Featured Drummers
+
+- [Pete Sandoval](https://metalforge.io/drummer/pete-sandoval): Ahead Lars Ulrich Signature — gravity-blast pioneer's durability pick
+- [Derek Roddy](https://metalforge.io/drummer/derek-roddy): Vater Signature — one-footed blast-beat speed
+- [Gene Hoglan](https://metalforge.io/drummer/gene-hoglan): ProMark Classic Forward 2B — "The Atomic Clock" precision
+- [George Kollias](https://metalforge.io/drummer/george-kollias): Vic Firth sticks — Nile's extreme blast-beat precision
+
 ---
 
 **More LLM resources:** 

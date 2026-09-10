@@ -321,6 +321,13 @@ Budget shouldn't stop you either. A Pearl Export or Tama Superstar snare will te
 - [Mario Duplantier](https://metalforge.io/drummer/mario-duplantier) — Tama S.L.P. 14x6" G-Maple — Gojira's atmosphere-driven progressive death metal
 - [Abe Cunningham](https://metalforge.io/drummer/abe-cunningham) — Bespoke SJC Custom — Deftones' explicitly "heavy and ambient" sonic identity
 
+## Featured Drummers
+
+- [Brann Dailor](https://metalforge.io/drummer/brann-dailor): DW Collector's Series 14x6.5" Brass — Mastodon's progressive-sludge dynamic range
+- [Danny Carey](https://metalforge.io/drummer/danny-carey): Sonor Signature 14x8" Bronze — Tool's cinematic atmosphere-to-crescendo range
+- [Mario Duplantier](https://metalforge.io/drummer/mario-duplantier): Tama S.L.P. 14x6" G-Maple — Gojira's atmosphere-driven progressive death metal
+- [Abe Cunningham](https://metalforge.io/drummer/abe-cunningham): Tama Starclassic matching snare — Deftones' explicitly "heavy and ambient" sonic identity
+
 ---
 
 **More LLM resources:** 

@@ -291,6 +291,11 @@ Derek Roddy's Axis pedals and Dave Lombardo's Pearl Demon Drive show the direct 
 - [Derek Roddy](https://metalforge.io/drummer/derek-roddy) — Axis pedals — the 'One Take' zero-slack consistency behind Hate Eternal
 - [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo) — Pearl Demon Drive — the speed and precision behind "Reign in Blood"
 
+## Featured Drummers
+
+- [George Kollias](https://metalforge.io/drummer/george-kollias): Sustaining 240+ BPM blast beats with Nile
+- [Dave Lombardo](https://metalforge.io/drummer/dave-lombardo): The thrash-to-extreme-metal bridge behind "Reign in Blood"
+
 ---
 
 **More LLM resources:** 

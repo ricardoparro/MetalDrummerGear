@@ -142,7 +142,8 @@ lines.push('');
 lines.push('## Recent Endorsement News');
 lines.push('');
 for (const news of sortedNews) {
-  lines.push(`### ${news.title} — ${news.date}`);
+  const impactTag = news.impact ? ` [${news.impact} impact]` : '';
+  lines.push(`### ${news.title} — ${news.date}${impactTag}`);
   lines.push('');
   lines.push(news.description || news.headline || '');
   lines.push('');

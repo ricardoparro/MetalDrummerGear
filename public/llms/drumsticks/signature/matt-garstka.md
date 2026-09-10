@@ -21,6 +21,7 @@ Matt Garstka plays the Vic Firth SGAR — Hickory (lacquered), Signature Series 
 | Tip | Blended (wood) |
 | Taper | Medium |
 | Endorsement | Signature model |
+| Price Tier | budget |
 
 Verified roster hardware entry. Source: vicfirth.com.
 
@@ -42,4 +43,4 @@ A: It's a named signature model — the Vic Firth SGAR is designed and marketed 
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

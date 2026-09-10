@@ -21,6 +21,7 @@ Aquiles Priester plays the ProMark TX419W — American Hickory, Autograph 419 (2
 | Tip | Wood |
 | Taper | Medium |
 | Endorsement | Signature model |
+| Price Tier | budget |
 
 Verified roster hardware entry. Source: daddario.com.
 
@@ -42,4 +43,4 @@ A: It's a named signature model — the ProMark TX419W is designed and marketed 
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

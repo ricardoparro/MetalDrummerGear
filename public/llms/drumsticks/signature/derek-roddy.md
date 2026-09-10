@@ -1,36 +1,37 @@
-# What Drumsticks Does Derek Roddy Use? Vater Player's Design Derek Roddy Model (VHDRW)
+# What Drumsticks Does Derek Roddy Use? Vater 5B
 
-**Band:** Hate Eternal / Nile | **Brand:** Vater | **Model:** Player's Design Derek Roddy Model (VHDRW)
+**Band:** Hate Eternal / Nile | **Brand:** Vater | **Model:** 5B
 
 ---
 
 ## Direct Answer
 
-Derek Roddy plays the Vater Player's Design Derek Roddy Model (VHDRW) — Hickory, Between 5A and 5B (0.59" diameter x 16.25" long), small acorn (wood) tip, quick/short taper.
+Derek Roddy plays the Vater 5B — Hickory, 5B (0.605" diameter x 16" long), acorn (wood) tip, medium taper.
 
 ## Stick Specs
 
 | Field | Value |
 |-------|-------|
 | Brand | Vater |
-| Model | Player's Design Derek Roddy Model (VHDRW) |
-| Size | Between 5A and 5B |
-| Diameter | 0.59" |
-| Length | 16.25" |
+| Model | 5B |
+| Size | 5B |
+| Diameter | 0.605" |
+| Length | 16" |
 | Material | Hickory |
-| Tip | Small acorn (wood) |
-| Taper | Quick/short |
-| Endorsement | Signature model |
+| Tip | Acorn (wood) |
+| Taper | Medium |
+| Endorsement | Artist endorsement (stock model) |
+| Price Tier | budget |
 
 Verified roster hardware entry. Source: vater.com.
 
 ## FAQ
 
 **Q: What drumsticks does Derek Roddy use?**
-A: Derek Roddy plays the Vater Player's Design Derek Roddy Model (VHDRW), a hickory stick sized Between 5A and 5B (0.59" x 16.25") with a small acorn (wood) tip and quick/short taper.
+A: Derek Roddy plays the Vater 5B, a hickory stick sized 5B (0.605" x 16") with a acorn (wood) tip and medium taper.
 
 **Q: Is this a true signature model or just an endorsement?**
-A: It's a named signature model — the Vater Player's Design Derek Roddy Model (VHDRW) is designed and marketed specifically for Derek Roddy.
+A: It's an artist endorsement of a stock Vater model, not a custom signature stick designed for Derek Roddy.
 
 ## More Resources
 
@@ -41,4 +42,4 @@ A: It's a named signature model — the Vater Player's Design Derek Roddy Model 
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

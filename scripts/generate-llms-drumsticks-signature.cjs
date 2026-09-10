@@ -143,6 +143,9 @@ function buildMarkdown({ slug, name, band, stick }) {
   parts.push(`| Tip | ${stick.tip} |`);
   parts.push(`| Taper | ${stick.taper} |`);
   parts.push(`| Endorsement | ${stick.endorsementType === 'signature-model' ? 'Signature model' : 'Artist endorsement (stock model)'} |`);
+  if (stick.priceBand) {
+    parts.push(`| Price Tier | ${stick.priceBand} |`);
+  }
   parts.push('');
   parts.push(`Verified roster hardware entry. Source: ${stick.source}.`);
   parts.push('');
@@ -151,6 +154,15 @@ function buildMarkdown({ slug, name, band, stick }) {
     parts.push('## Notes');
     parts.push('');
     parts.push(stick.notes);
+    parts.push('');
+  }
+
+  if (Array.isArray(stick.relatedArticles) && stick.relatedArticles.length) {
+    parts.push('## Related Articles');
+    parts.push('');
+    for (const relatedArticle of stick.relatedArticles) {
+      parts.push(`- [${relatedArticle.label}](${BASE}/articles/${relatedArticle.slug})`);
+    }
     parts.push('');
   }
 

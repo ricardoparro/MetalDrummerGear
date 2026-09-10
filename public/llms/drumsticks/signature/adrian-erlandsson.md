@@ -21,6 +21,7 @@ Adrian Erlandsson plays the Vic Firth American Classic Rock Nylon Tip (ROCKN) �
 | Tip | Oval (nylon) |
 | Taper | Short |
 | Endorsement | Artist endorsement (stock model) |
+| Price Tier | budget |
 
 Verified roster hardware entry. Source: vicfirth.com.
 
@@ -46,4 +47,4 @@ A: It's an artist endorsement of a stock Vic Firth model, not a custom signature
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

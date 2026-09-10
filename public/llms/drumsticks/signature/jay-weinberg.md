@@ -21,6 +21,7 @@ Jay Weinberg plays the Vater 908 — Hickory, Signature (blends 5A/5B) (0.585" d
 | Tip | Barrel (wood, medium) |
 | Taper | Quick |
 | Endorsement | Signature model |
+| Price Tier | budget |
 
 Verified roster hardware entry. Source: vater.com.
 
@@ -41,4 +42,4 @@ A: It's a named signature model — the Vater 908 is designed and marketed speci
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

@@ -21,6 +21,7 @@ Mikkey Dee plays the Wincent Mikkey Dee Signature (W-MDS) — Kentucky hickory, 
 | Tip | Fat acorn (wood) |
 | Taper | Medium |
 | Endorsement | Signature model |
+| Price Tier | budget |
 
 Verified roster hardware entry. Source: wincentdrumsticks.com.
 
@@ -45,4 +46,4 @@ A: It's a named signature model — the Wincent Mikkey Dee Signature (W-MDS) is 
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

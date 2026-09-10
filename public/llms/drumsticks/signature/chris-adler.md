@@ -21,6 +21,7 @@ Chris Adler plays the ProMark TX5AXW — American Hickory, Chris Adler Signature
 | Tip | Oval (wood) |
 | Taper | Not specified by manufacturer |
 | Endorsement | Signature model |
+| Price Tier | budget |
 
 Verified roster hardware entry. Source: mannsmusic.co.uk.
 
@@ -42,4 +43,4 @@ A: It's a named signature model — the ProMark TX5AXW is designed and marketed 
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

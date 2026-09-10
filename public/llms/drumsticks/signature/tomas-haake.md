@@ -21,6 +21,7 @@ Tomas Haake plays the Wincent WTHS — Hickory (stone-ground, wax-treated), Toma
 | Tip | Bead (wood, enlarged) |
 | Taper | Long (extended shoulder) |
 | Endorsement | Signature model |
+| Price Tier | mid |
 
 Verified roster hardware entry. Source: sweetwater.com.
 
@@ -45,4 +46,4 @@ A: It's a named signature model — the Wincent WTHS is designed and marketed sp
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

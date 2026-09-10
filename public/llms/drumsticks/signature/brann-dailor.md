@@ -21,6 +21,7 @@ Brann Dailor plays the Vater 5B Wood Tip — Hickory, 5B (0.605" diameter x 16" 
 | Tip | Acorn (wood) |
 | Taper | Medium |
 | Endorsement | Artist endorsement (stock model) |
+| Price Tier | budget |
 
 Verified roster hardware entry. Source: vater.com.
 
@@ -45,4 +46,4 @@ A: It's an artist endorsement of a stock Vater model, not a custom signature sti
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

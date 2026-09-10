@@ -21,12 +21,18 @@ Joey Jordison plays the ProMark TX515W — Hickory, Signature 515 (5A-class) (0.
 | Tip | Round (wood) |
 | Taper | Long |
 | Endorsement | Signature model |
+| Price Tier | budget |
 
 Verified roster hardware entry. Source: sweetwater.com.
 
 ## Notes
 
 Limited availability since 2021 — verify stock before wiring affiliate links.
+
+## Related Articles
+
+- [5 Years of Legacy](https://metalforge.io/articles/joey-jordison-legacy)
+- [25 Years of Iowa](https://metalforge.io/articles/iowa-anniversary)
 
 ## FAQ
 
@@ -46,4 +52,4 @@ A: It's a named signature model — the ProMark TX515W is designed and marketed 
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

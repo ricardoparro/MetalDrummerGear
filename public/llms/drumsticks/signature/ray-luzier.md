@@ -21,6 +21,7 @@ Ray Luzier plays the Vic Firth SRL — Hickory, Signature (5B shaft, ROCK tip/ta
 | Tip | Oval (wood) |
 | Taper | Short, thick neck |
 | Endorsement | Signature model |
+| Price Tier | budget |
 
 Verified roster hardware entry. Source: vicfirth.com.
 
@@ -42,4 +43,4 @@ A: It's a named signature model — the Vic Firth SRL is designed and marketed s
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

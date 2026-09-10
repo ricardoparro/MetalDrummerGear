@@ -1,6 +1,6 @@
 # What Drumsticks Does Mike Mangini Use? Vater Mike Mangini's Wicked Piston (VHMMWP)
 
-**Band:** Dream Theater | **Brand:** Vater | **Model:** Mike Mangini's Wicked Piston (VHMMWP)
+**Band:** Godsmack (2026-present); Dream Theater (2010-2023) | **Brand:** Vater | **Model:** Mike Mangini's Wicked Piston (VHMMWP)
 
 ---
 
@@ -21,6 +21,7 @@ Mike Mangini plays the Vater Mike Mangini's Wicked Piston (VHMMWP) — Hickory, 
 | Tip | Wood |
 | Taper | Long |
 | Endorsement | Signature model |
+| Price Tier | budget |
 
 Verified roster hardware entry. Source: vater.com.
 
@@ -45,4 +46,4 @@ A: It's a named signature model — the Vater Mike Mangini's Wicked Piston (VHMM
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

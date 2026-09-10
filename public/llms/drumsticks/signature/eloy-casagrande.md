@@ -21,6 +21,7 @@ Eloy Casagrande plays the ProMark TXECW — Hickory (raw, unlacquered), Eloy Cas
 | Tip | Teardrop (wood) |
 | Taper | Short, fortified shoulder flaring to 2B sizing |
 | Endorsement | Signature model |
+| Price Tier | budget |
 
 Verified roster hardware entry. Source: daddario.com.
 
@@ -42,4 +43,4 @@ A: It's a named signature model — the ProMark TXECW is designed and marketed s
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

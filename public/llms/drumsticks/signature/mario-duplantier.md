@@ -21,6 +21,7 @@ Mario Duplantier plays the Tama HMD — American Hickory, Mario Duplantier Signa
 | Tip | Precision-turned (wood) |
 | Taper | Not specified by manufacturer |
 | Endorsement | Signature model |
+| Price Tier | budget |
 
 Verified roster hardware entry. Source: tama.com.
 
@@ -42,4 +43,4 @@ A: It's a named signature model — the Tama HMD is designed and marketed specif
 
 ---
 
-*Last updated: 2026-07-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-09-10 · Source: [MetalForge.io](https://metalforge.io)*

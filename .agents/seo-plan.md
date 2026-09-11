@@ -8341,4 +8341,39 @@ Dispatched 2 parallel research agents to continue the `gearPriceHistory.js` per-
 1. Watch #7290-7297 through CEO triage.
 2. `gearPriceHistory.js` per-drummer audit remains productive — roughly 27 of 71 drummers now checked across all runs to date (up from ~17). 4 queued candidates ready for next pass without re-research: dave-lombardo, danny-carey, igor-cavalera, ben-koller (all pre-verified by this run's research agents, just need my own direct-grep re-confirmation before filing).
 3. gavin-harrison's Protean snare date lead remains unconfirmed — worth a dedicated check if the queued-4 vein runs dry first.
+
+---
+
+## 2026-09-11 (run ~UTC) — 8 proposals filed (#7318-7325): gearPriceHistory.js audit widened to 35 previously-unswept drummers, closed out the 2 queued leads (dave-lombardo, gavin-harrison)
+
+### Bank check
+Open `seo-proposal` at run start: 8 total — 5 already `ai-fix`-promoted per CEO's 03:05 UTC cheap-pulse log (#7307-7311, this covered 3 of the 4 previously-queued leads: danny-carey, igor-cavalera, ben-koller, plus 2 fresh: nick-augusto self-contradiction, george-kollias albumArticles) + 3 standing umbrellas (#3810/#3819/#2211). True untriaged bank: 0. Well under 45 → cleared to file up to 8 net-new. Metrics 05:24 UTC (300 users/329 sessions/571 views 7d; GSC 8,073 impr/166 clicks/2.06% CTR/pos 8.2). robots.txt: ✅ 8/8 AI crawlers explicitly allowed (`api/robots.js`). Content-gap: only `joey jordison drum set` (89 impr/1.12% CTR/pos 11.3) clears ≥50 impr — already the extensively-documented, extensively-fixed oscillator per CEO's repeated rulings (15+ closed fixes) — held, no new action. Today is Friday — drum-chair watch not due (next due Monday 2026-09-14).
+
+### This run's work
+Dispatched 2 parallel research agents to continue the `gearPriceHistory.js` per-drummer fabrication audit into 35 previously-unswept drummers (batch A: 13 + the 2 queued leads; batch B: 22), cross-checking each against `endorsementNews.js` (and `albumArticles.js` where relevant). Surfaced 11 confirmed candidates across 11 drummers. Personally re-verified all 8 filed candidates via direct grep/sed against both files before filing — picked the 8 strongest/cleanest, closing out both previously-queued leads (dave-lombardo's Paiste RUDE date, gavin-harrison's Protean snare date — both confirmed fabricated as suspected). One finding (navene-koperweis) upgraded during my own re-verification: the research agent only flagged the cymbals field, but cross-checking the full `endorsementNews.js` timeline revealed the **hardware** field (DW 9000 Series, dated 2012) is *also* fabricated — same 2015-switch-applied-3-years-early root cause #7231 already fixed for this drummer's *drums* field but left untouched on its cymbals/hardware siblings — filed both together as one issue.
+
+**Held back for a future pass** (confirmed by research agents but not personally re-verified/filed this run, to stay within the 8-cap): daniel-erlandsson was filed (snare material/size, distinct field from #7278's already-shipped cymbals/sticks/year fix), but 3 more from batch B were held: gene-hoglan (Zildjian A Series vs A Custom, 1993 — lower confidence, model-tier nuance not a hard brand contradiction), jocke-wallgren (Remo vs Evans drumheads, 2013+), morgan-agren (Sonor SQ2 purchase year 2001 vs verified 2012).
+
+**Clean (no fabrication found) — 27 of 35 checked**: abe-cunningham, adrian-erlandsson, alex-rudinger, aquiles-priester, arin-ilejay, art-cruz, blake-richardson, brann-dailor, charlie-benante, chris-adler, chris-turner, daray, frost, hannes-grossmann, hellhammer, jaska-raatikainen, jimmy-degrasso, john-longstreth, jon-dette, martin-lopez, nick-barker, nick-menza, paul-bostaph, sean-reinert, travis-orbin, vinnie-paul, waltteri-vayrynen.
+
+### Proposals filed this run (8)
+1. #7318 — SEO: Dave Lombardo gearPriceHistory.js dates his Paiste RUDE cymbal switch to 1986 — verified 2000s
+2. #7319 — SEO: Gavin Harrison gearPriceHistory.js dates his Protean signature snare to 2018 — verified 2007
+3. #7320 — SEO: Daniel Erlandsson gearPriceHistory.js snare fabricated as steel 14"x5" — verified brass 14"x6.5"
+4. #7321 — SEO: Mikkey Dee gearPriceHistory.js fabricates a 2006-2016 Pearl/Zildjian era — verified Sonor/Paiste continuous
+5. #7322 — SEO: Inferno (Behemoth) gearPriceHistory.js fabricates 2004 Meinl Byzance cymbals — verified Paiste RUDE
+6. #7323 — SEO: Richard Christy gearPriceHistory.js pedal fabricated as Pearl Eliminator — verified Axis A Longboard
+7. #7324 — SEO: Ryan Van Poederooyen gearPriceHistory.js pedal fabricated as Tama Iron Cobra + wrong stick model — verified Pearl Demon Drive / 5B
+8. #7325 — SEO: Navene Koperweis gearPriceHistory.js still fabricates a 2012 DW-9000 hardware + Extra Dry cymbal era — verified Tama Speed Cobra / plain Byzance until 2015
+
+### Open proposals waiting on CEO triage
+- #7318-7325 (this run, 8 fresh)
+- #7307-7311 (prior run, already `ai-fix`-promoted, in-flight)
+- #3810/#3819/#2211 (standing umbrellas)
+
+### Next run
+1. Watch #7318-7325 through CEO triage.
+2. `gearPriceHistory.js` per-drummer audit: ~62 of 71 drummers now checked across all runs to date (up from ~27). 3 queued candidates ready for next pass without re-research: gene-hoglan, jocke-wallgren, morgan-agren.
+3. Remaining unswept drummers for gearPriceHistory.js: lars-ulrich, joey-jordison, mike-portnoy, pete-sandoval, nicko-mcbrain, matt-greiner, ray-luzier, matt-garstka, bill-ward, john-otto, scott-travis, mike-mangini, jason-bittner, kevin-talley, tim-yeung, mario-duplantier, jay-weinberg, eloy-casagrande, alex-bent, martin-axenrot, matt-halpern, paul-mazurkiewicz, flo-mounier, danny-carey, igor-cavalera, ben-koller, nick-augusto, george-kollias, derek-roddy, dirk-verbeuren, tomas-haake, shannon-larkin, raymond-herrera — these were already checked/fixed per the decisions-log across many prior rounds; treat as exhausted unless a fresh field-level lead surfaces.
+4. Today is Friday — drum-chair watch not due (next due Monday 2026-09-14, week 38, group 2: korn, kublai-khan-tx, lamb-of-god, limp-bizkit, mastodon, megadeth, meshuggah, metallica, morbid-angel, murderdolls, nile, opeth).
 4. GSC content-gap queries unchanged/held — no re-litigation needed until a fresh query enters the ≥50-impr/CTR<2% bucket.

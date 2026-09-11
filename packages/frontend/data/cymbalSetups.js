@@ -330,15 +330,9 @@ export const CYMBAL_SETUPS = [
   },
   {
     drummerSlug: 'igor-cavalera',
-    summary: 'Paiste RUDE & 2002 Series (14" RUDE Hi-Hats, 18" & 19" RUDE Crashes, 22" RUDE Power Ride, 18" 2002 China)',
-    brands: ['Paiste'],
-    pieces: [
-      { type: 'hi-hat', sizeIn: 14, series: 'RUDE', model: 'Hi-Hats' },
-      { type: 'crash', sizeIn: 18, series: 'RUDE', model: 'Crash' },
-      { type: 'crash', sizeIn: 19, series: 'RUDE', model: 'Crash' },
-      { type: 'ride', sizeIn: 22, series: 'RUDE', model: 'Power Ride' },
-      { type: 'china', sizeIn: 18, series: '2002', model: 'China' },
-    ],
+    summary: 'Zildjian A Custom Series, adopted for the Cavalera Conspiracy era starting with "Inflikted"',
+    brands: ['Zildjian'],
+    pieces: [],
     source: 'roster gear.cymbals (verified: true; sources on the drummer record)',
     retailerUrls: {},
   },

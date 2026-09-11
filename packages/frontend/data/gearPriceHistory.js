@@ -481,9 +481,9 @@ export const GEAR_PRICE_HISTORY = {
         model: 'Heavy/Power configuration',
         specs: '14" Sound Edge Hi-Hats, 18" Crash, 19" Crash, 20" Crash/Ride, 22" Power Ride, 18" China',
         originalPrice: 1400,
-        year: 1986,
-        source: 'Paiste RUDE series retail 1986',
-        notes: 'RUDE series - bright, loud, cutting. Built to be heard over wall of guitars.',
+        year: 2000,
+        source: 'Paiste RUDE series retail 2000s',
+        notes: 'RUDE series - bright, loud, cutting. Paiste RUDE endorsement began in the 2000s; his 1986 Reign in Blood-era cymbal brand is not independently verified.',
         vintageValue2026: 2200,
         modernEquivalent: {
           item: 'Paiste RUDE Set + China',

@@ -5824,7 +5824,7 @@ Adler's drumming is characterized by powerful groove-based patterns, creative us
 - **Drums**: Mapex Black Panther Design Lab
 - **Snare**: Mapex Chris Adler Signature 14"x5.5" Walnut/Maple
 - **Cymbals**: Meinl Byzance series (14" Dark Hi-Hats, 18" & 19" Dark Crashes, 21" Transition Ride, 18" Extra Dry China)
-- **Hardware**: Mapex Falcon Double Pedal
+- **Hardware**: Trick Pro 1-V Double Pedal
 - **Sticks**: Promark Chris Adler Signature TX5AXW
 - **Throne**: Mapex T865
 - **Heads**: Evans
@@ -5852,11 +5852,11 @@ Adler's drumming is characterized by powerful groove-based patterns, creative us
         title: 'Frequently Asked Questions',
         items: [
           { q: 'What drum kit does Chris Adler use?', a: 'Chris Adler plays a Mapex Black Panther Design Lab drum kit — the precision-engineered configuration that powered Lamb of God\'s rise to one of the most successful American metal bands of the 21st century. Its dry, focused tone anchors his groove-driven patterns on Ashes of the Wake, Sacrament, and Wrath.' },
-          { q: 'What drum set does Chris Adler use?', a: 'Chris Adler\'s drum set is built around his Mapex Chris Adler Signature 14"x5.5" Walnut/Maple snare — a shallow, articulate shell that punches through dense guitar walls — driven by a Mapex Falcon double pedal and Mapex T865 throne.' },
+          { q: 'What drum set does Chris Adler use?', a: 'Chris Adler\'s drum set is built around his Mapex Chris Adler Signature 14"x5.5" Walnut/Maple snare — a shallow, articulate shell that punches through dense guitar walls — driven by a Trick Pro 1-V double pedal and Mapex T865 throne.' },
           { q: 'What cymbals does Chris Adler play?', a: 'Chris Adler plays Meinl Byzance Series cymbals: 14" Dark Hi-Hats, 18" and 19" Dark Crashes, a 21" Transition Ride, and an 18" Extra Dry China.' },
           { q: 'What snare does Chris Adler use?', a: 'Chris Adler\'s snare is his Mapex Chris Adler Signature 14"x5.5" Walnut/Maple, a shallow shell built for the precise crack essential to Lamb of God\'s syncopated riff-locking grooves.' },
           { q: 'What sticks does Chris Adler use?', a: 'Chris Adler uses Promark TX5AXW Chris Adler Signature drumsticks.' },
-          { q: 'What bass drum pedal does Chris Adler use?', a: 'Chris Adler uses a Mapex Falcon double pedal.' },
+          { q: 'What bass drum pedal does Chris Adler use?', a: 'Chris Adler uses a Trick Pro 1-V double pedal.' },
           { q: 'What drumheads does Chris Adler use?', a: 'Chris Adler uses Evans drumheads.' },
           { q: 'What band is Chris Adler in?', a: 'Chris Adler was co-founder and drummer of Lamb of God from 1994-2019, briefly played with Megadeth (2015-2016), and now drums for Firstborne, formed in 2020.' },
           { q: 'What hi-hats does Chris Adler use?', a: 'Chris Adler plays 14" Meinl Byzance Dark Hi-Hats, part of the Byzance cymbal setup he used throughout Lamb of God\'s Ashes of the Wake, Sacrament, and Wrath era.' }

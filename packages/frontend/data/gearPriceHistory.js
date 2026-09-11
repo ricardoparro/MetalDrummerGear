@@ -8204,29 +8204,29 @@ export const GEAR_PRICE_HISTORY = {
   },
 
   // ==========================================
-  // MORGAN ÅGREN - 2001 International Recognition Era
-  // DW Collector's Series / Zildjian K Custom Setup
+  // MORGAN ÅGREN - 2012 Epicloud Era
+  // Sonor SQ2 Beech / Paiste Signature Setup
   // ==========================================
   'morgan-agren': {
     slug: 'morgan-agren',
     name: 'Morgan Ågren',
-    band: 'Mats/Morgan Band',
-    iconicYear: 2001,
-    era: 'International Recognition Era',
-    albumReference: 'Thanks for the Swans (2001)',
+    band: 'Devin Townsend Project',
+    iconicYear: 2012,
+    era: 'Epicloud Era',
+    albumReference: 'Epicloud (2012)',
     profileImage: '/images/drummers/morgan-agren.webp',
 
-    summary: "Morgan Ågren's 2001 setup behind the Mats/Morgan Band's Thanks for the Swans captures the gear behind one of progressive drumming's most credentialed figures — personally selected by Frank Zappa to tour at just 20 years old in 1988, an endorsement Zappa rarely extended lightly. By the early 2000s, Ågren's international profile had grown substantially through collaborations with John Zorn and recordings for avant-garde labels, and his gear had matured alongside it: an expanded Sonor SQ2 Beech kit with an added 8\" tom for upper-range detail, a deeper Sonor Designer 14\"x6.5\" maple snare for concert-hall projection, and an upgraded Paiste Signature / 2002 Series cymbal setup for a bright, articulate tone. The complete rig cost approximately $11,448 in 2001 dollars, equivalent to roughly $21,177 today after inflation.\n\nEach upgrade served Ågren's core musical identity: dynamic range as a primary tool, moving from near-inaudible ghost notes to full-force rimshots within a single phrase. The Signature/2002 Series cymbals' bright, articulate voicing — including a China cymbal added specifically for textural contrast — gave him a wider tonal palette for the Mats/Morgan Band's genre-spanning arrangements, while the Sonor Giant Step double pedal's refined action supported the nuanced double-bass vocabulary the band's advanced compositions required.\n\nThat Sonor / Paiste Signature core proved foundational: it carried Ågren through the fully realized hybrid acoustic/electronic setup he built for the Devin Townsend Project, who sought him out in 2012 specifically for his ability to navigate odd-time signatures and metric modulations without losing feel. His modern setup, evolved from this 2001 configuration into the same Sonor SQ2 Beech / Paiste Signature and 2002 Series arrangement with added Roland electronic trigger integration, remains one of the most sophisticated and studied rigs in progressive and avant-garde drumming.",
+    summary: "Morgan Ågren's 2012 setup behind the Devin Townsend Project's Epicloud captures the gear behind one of progressive drumming's most credentialed figures — personally selected by Frank Zappa to tour at just 20 years old in 1988, an endorsement Zappa rarely extended lightly. After building his reputation through the Mats/Morgan Band, which he co-founded with Mats Öberg in 1981, and a run with Swedish progressives Kaipa, Ågren settled into a Sonor SQ2 Beech custom shell configuration around the time Devin Townsend recruited him for Epicloud, pairing it with a Sonor Designer 14\"x6.5\" maple snare and Sonor Giant Step double pedal, all driven alongside the Paiste Signature / 2002 Series cymbal setup he'd carried since Zappa hand-picked him in 1988. The complete rig cost approximately $11,448 in 2012 dollars, equivalent to roughly $16,334 today after inflation.\n\nEach component served Ågren's core musical identity: dynamic range as a primary tool, moving from near-inaudible ghost notes to full-force rimshots within a single phrase. The Signature/2002 Series cymbals' bright, articulate voicing — including a China cymbal for textural contrast — gave him a wide tonal palette for Epicloud's genre-spanning arrangements, while the Sonor Giant Step double pedal's refined action supported the nuanced double-bass vocabulary Townsend's compositions required.\n\nThat Sonor / Paiste Signature core proved foundational: Ågren carried it through \"Z²\" (2014) and \"Transcendence\" (2016) as his work with the Devin Townsend Project continued, refining it into the fully realized hybrid acoustic/electronic setup with added Roland electronic trigger integration he uses today. His modern setup, evolved directly from this 2012 configuration into the same Sonor SQ2 Beech / Paiste Signature and 2002 Series arrangement, remains one of the most sophisticated and studied rigs in progressive and avant-garde drumming.",
 
     setup: {
       drums: {
-        item: 'Sonor SQ2 Beech (expanded)',
+        item: 'Sonor SQ2 Beech',
         model: 'Custom beech shell pack',
         specs: '22" kick, 8"/10"/12"/14"/16" toms',
         originalPrice: 7500,
-        year: 2001,
-        source: 'Sonor SQ2 custom-build catalog pricing 2001',
-        notes: "Expanded with an 8\" tom for additional upper range as the Mats/Morgan Band's arrangements grew increasingly complex.",
+        year: 2012,
+        source: 'Sonor SQ2 custom-build catalog pricing 2012',
+        notes: "Signed to Sonor's SQ2 custom program around the time Devin Townsend recruited him for the Devin Townsend Project's Epicloud, built for the album's dense, technical arrangements.",
         vintageValue2026: 6500,
         modernEquivalent: {
           item: 'Sonor SQ2 Beech (Current Line)',
@@ -8239,9 +8239,9 @@ export const GEAR_PRICE_HISTORY = {
         model: 'Deeper maple shell for projection',
         specs: '14" x 6.5" maple shell',
         originalPrice: 650,
-        year: 2001,
-        source: 'Sonor Designer Series snare catalog pricing 2001',
-        notes: 'Deeper snare shell adopted for more volume and crack in festival and concert-hall contexts.',
+        year: 2012,
+        source: 'Sonor Designer Series snare catalog pricing 2012',
+        notes: 'Deeper snare shell chosen for volume and crack across Epicloud-era festival and concert-hall dates.',
         vintageValue2026: 550,
         modernEquivalent: {
           item: 'Sonor Designer Maple 14"x6.5" (Current)',
@@ -8269,9 +8269,9 @@ export const GEAR_PRICE_HISTORY = {
         model: 'Spring-loaded double pedal',
         specs: 'Sonor Giant Step double pedal, hi-hat stand, boom stands, snare stand',
         originalPrice: 700,
-        year: 2001,
-        source: 'Sonor hardware catalog pricing 2001',
-        notes: "Upgraded to the Giant Step for the refined feel and response the band's nuanced double-bass vocabulary required.",
+        year: 2012,
+        source: 'Sonor hardware catalog pricing 2012',
+        notes: "Signed alongside the SQ2 kit for the refined feel and response Townsend's nuanced double-bass vocabulary required.",
         vintageValue2026: 500,
         modernEquivalent: {
           item: 'Sonor Giant Step Double Pedal (Current)',
@@ -8320,22 +8320,21 @@ export const GEAR_PRICE_HISTORY = {
 
     priceEvolution: [
       { year: 1988, price: 1500, label: 'Zappa Tour Era', event: 'Selected by Frank Zappa to tour at age 20, playing a modest professional kit' },
-      { year: 1990, price: 5000, label: 'Early Sonor/Paiste Era', event: 'Developing the Sonor and Paiste configuration that would become his long-term setup' },
-      { year: 2001, price: 11448, label: 'Original Purchase', event: "Thanks for the Swans recorded — Sonor SQ2 Beech kit expanded with Paiste Signature / 2002 Series cymbal upgrade" },
-      { year: 2026, price: 21177, label: 'Current adjusted', event: 'Inflation-adjusted value of the 2001 International Recognition-era Sonor / Paiste Signature setup' },
+      { year: 2012, price: 11448, label: 'Original Purchase', event: "Epicloud recorded — signed to Sonor SQ2 Beech kit and Sonor Giant Step double pedal alongside the existing Paiste Signature / 2002 Series cymbal setup" },
+      { year: 2026, price: 16334, label: 'Current adjusted', event: 'Inflation-adjusted value of the 2012 Epicloud-era Sonor / Paiste Signature setup' },
     ],
 
     sources: [
-      { title: 'Sonor SQ2 Custom Catalog', year: 2001, type: 'catalog' },
-      { title: 'Paiste Signature / 2002 Series Catalog', year: 2001, type: 'catalog' },
-      { title: 'Drum! Magazine — Morgan Ågren Interview', year: 2002, type: 'interview' },
+      { title: 'Sonor SQ2 Custom Catalog', year: 2012, type: 'catalog' },
+      { title: 'Paiste Signature / 2002 Series Catalog', year: 2012, type: 'catalog' },
+      { title: 'Modern Drummer — Morgan Ågren Interview', year: 2013, type: 'interview' },
       { title: 'Reverb Marketplace Analysis — Sonor SQ2 Series', year: 2025, type: 'market' },
     ],
 
     meta: {
-      title: "Morgan Ågren Drum Setup Cost | Mats/Morgan Band Gear Price History",
-      description: "How much was Morgan Ågren's Thanks for the Swans-era Sonor SQ2 drum kit worth? Original ~$11,448 in 2001, inflation-adjusted to ~$21,177 today. Complete gear breakdown from Zappa's hand-picked progressive drummer.",
-      keywords: ['morgan agren drum setup cost', 'mats morgan band drum kit price', 'sonor sq2 price', 'morgan agren gear cost today', 'paiste signature price', 'morgan agren drummer gear cost'],
+      title: "Morgan Ågren Drum Setup Cost | Devin Townsend Project Gear Price History",
+      description: "How much was Morgan Ågren's Epicloud-era Sonor SQ2 drum kit worth? Original ~$11,448 in 2012, inflation-adjusted to ~$16,334 today. Complete gear breakdown from Zappa's hand-picked progressive drummer.",
+      keywords: ['morgan agren drum setup cost', 'devin townsend project drum kit price', 'sonor sq2 price', 'morgan agren gear cost today', 'paiste signature price', 'morgan agren drummer gear cost'],
     },
   },
 

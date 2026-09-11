@@ -7533,7 +7533,7 @@ export const GEAR_PRICE_HISTORY = {
     albumReference: 'Weightless (2011)',
     profileImage: '/images/drummers/navene-koperweis.webp',
 
-    summary: "Navene Koperweis's 2012 setup behind Animals as Leaders' Weightless touring cycle documents the rig that carried one of progressive metal's most technically adventurous drummers through his highest-profile tenure to date. Joining the instrumental djent pioneers as they toured behind Weightless — an album whose polyrhythmic, palm-muted riffing demanded surgical precision from whoever sat behind the kit — Koperweis built his rig around a Tama Birch Silverstar shell pack paired with a five-piece Meinl Byzance Extra Dry cymbal spread; the DW Performance Series kit he's known for today didn't arrive until 2015, when he signed with DW after leaving Animals as Leaders and founding Entheos. The complete rig cost approximately $6,028 in 2012 dollars, equivalent to roughly $8,601 today after inflation. Koperweis left Animals as Leaders in 2014, replaced by Matt Garstka, and went on to found the progressive metal outfit Entheos while continuing his prolific work as a producer and multi-instrumentalist. What made his Animals as Leaders-era rig distinctive was its restraint: rather than the sprawling double-kick configurations common among his technical-metal peers, Koperweis favored a compact, articulate five-piece kit built for clarity in dense, layered mixes — a philosophy that carried directly into the DW/Meinl setup he still favors with Entheos today.",
+    summary: "Navene Koperweis's 2012 setup behind Animals as Leaders' Weightless touring cycle documents the rig that carried one of progressive metal's most technically adventurous drummers through his highest-profile tenure to date. Joining the instrumental djent pioneers as they toured behind Weightless — an album whose polyrhythmic, palm-muted riffing demanded surgical precision from whoever sat behind the kit — Koperweis built his rig around a Tama Birch Silverstar shell pack paired with a five-piece Meinl Byzance cymbal spread and a Tama Speed Cobra double pedal; the DW Performance Series kit and DW 9000 Series hardware he's known for today didn't arrive until 2015, when he signed with DW after leaving Animals as Leaders and founding Entheos — the same year his cymbals were refined to the Byzance Extra Dry sub-series. The complete rig cost approximately $5,828 in 2012 dollars, equivalent to roughly $8,316 today after inflation. Koperweis left Animals as Leaders in 2014, replaced by Matt Garstka, and went on to found the progressive metal outfit Entheos while continuing his prolific work as a producer and multi-instrumentalist. What made his Animals as Leaders-era rig distinctive was its restraint: rather than the sprawling double-kick configurations common among his technical-metal peers, Koperweis favored a compact, articulate five-piece kit built for clarity in dense, layered mixes — a philosophy that carried directly into the DW/Meinl setup he still favors with Entheos today.",
 
     setup: {
       drums: {
@@ -7567,14 +7567,14 @@ export const GEAR_PRICE_HISTORY = {
         },
       },
       cymbals: {
-        item: 'Meinl Byzance Extra Dry Series',
-        model: 'Full Extra Dry configuration',
-        specs: '15" Dual Hi-Hats, 18" & 19" Extra Dry Medium Crashes, 21" Transition Ride, 18" Extra Dry China, 10" Splash',
-        originalPrice: 1700,
+        item: 'Meinl Byzance Series',
+        model: 'Full Byzance configuration',
+        specs: '15" Dual Hi-Hats, 18" & 19" Medium Crashes, 21" Transition Ride, 18" China, 10" Splash',
+        originalPrice: 1600,
         year: 2012,
-        source: 'Meinl Byzance Extra Dry series retail pricing 2012',
-        notes: "The trashy, dry-toned Byzance Extra Dry line gave Koperweis's accents definition without piercing brightness against Animals as Leaders' djent-heavy mix.",
-        vintageValue2026: 1300,
+        source: 'Meinl Byzance series retail pricing 2012',
+        notes: "The traditional Byzance line gave Koperweis's accents definition without piercing brightness against Animals as Leaders' djent-heavy mix; he wouldn't refine to the Extra Dry sub-series until 2015 with Entheos.",
+        vintageValue2026: 1200,
         modernEquivalent: {
           item: 'Meinl Byzance Extra Dry Series (Current Configuration)',
           price: 2500,
@@ -7582,14 +7582,14 @@ export const GEAR_PRICE_HISTORY = {
         },
       },
       hardware: {
-        item: 'DW 9000 Series Double Pedal + DW Throne',
-        model: 'DW 9000 double pedal + DW throne',
-        specs: 'DW 9000 Series double pedal, hi-hat stand, boom stands, DW throne',
-        originalPrice: 650,
+        item: 'Tama Speed Cobra Double Pedal',
+        model: 'Speed Cobra double pedal + hardware pack',
+        specs: 'Tama Speed Cobra double pedal, hi-hat stand, boom stands, throne',
+        originalPrice: 550,
         year: 2012,
-        source: 'DW 9000 Series hardware catalog pricing 2012',
-        notes: "The 9000 Series pedal's smooth chain-drive response suited Koperweis's precise, evenly weighted double-kick patterns.",
-        vintageValue2026: 500,
+        source: 'Tama Speed Cobra hardware catalog pricing 2012',
+        notes: "The Speed Cobra's lightweight, direct-drive action suited Koperweis's precise, evenly weighted double-kick patterns; he didn't switch to the DW 9000 Series until 2015 after signing with DW.",
+        vintageValue2026: 420,
         modernEquivalent: {
           item: 'DW 9000 Series Double Pedal + Hardware Pack (Current)',
           price: 800,
@@ -7629,17 +7629,17 @@ export const GEAR_PRICE_HISTORY = {
     },
 
     totals: {
-      originalTotal: 6028,
+      originalTotal: 5828,
       inflationAdjusted2026: null, // Calculated dynamically
-      vintageTotal2026: 4520,
+      vintageTotal2026: 4340,
       modernEquivalentTotal: 7689,
     },
 
     priceEvolution: [
-      { year: 2012, price: 6028, label: 'Original Purchase', event: 'Weightless touring cycle — full Tama Birch Silverstar / Meinl Byzance rig documented' },
-      { year: 2014, price: 6400, label: 'Departs Animals as Leaders', event: 'Left the band; replaced by Matt Garstka' },
-      { year: 2015, price: 6600, label: 'Forms Entheos', event: 'Formed Entheos and signed with DW Performance Series, moving on from the Tama Birch Silverstar kit he played throughout his Animals as Leaders tenure' },
-      { year: 2026, price: 8601, label: 'Current adjusted', event: 'Inflation-adjusted value of the 2012 Weightless-era setup' },
+      { year: 2012, price: 5828, label: 'Original Purchase', event: 'Weightless touring cycle — full Tama Birch Silverstar / Meinl Byzance rig documented' },
+      { year: 2014, price: 6200, label: 'Departs Animals as Leaders', event: 'Left the band; replaced by Matt Garstka' },
+      { year: 2015, price: 6600, label: 'Forms Entheos', event: 'Formed Entheos and signed with DW Performance Series and the DW 9000 Series hardware, refining to Meinl Byzance Extra Dry cymbals and moving on from the Tama Birch Silverstar / Speed Cobra rig he played throughout his Animals as Leaders tenure' },
+      { year: 2026, price: 8316, label: 'Current adjusted', event: 'Inflation-adjusted value of the 2012 Weightless-era setup' },
     ],
 
     sources: [
@@ -7651,7 +7651,7 @@ export const GEAR_PRICE_HISTORY = {
 
     meta: {
       title: "Navene Koperweis Drum Setup Cost | Animals as Leaders Weightless Gear Price History",
-      description: "How much did Navene Koperweis's 2012 Animals as Leaders drum kit cost? Original ~$6,028, inflation-adjusted to ~$8,601 today. Complete Tama Birch Silverstar breakdown from the Weightless era.",
+      description: "How much did Navene Koperweis's 2012 Animals as Leaders drum kit cost? Original ~$5,828, inflation-adjusted to ~$8,316 today. Complete Tama Birch Silverstar breakdown from the Weightless era.",
       keywords: ['navene koperweis drum setup cost', 'animals as leaders drummer gear history', 'navene koperweis tama birch silverstar', 'weightless drum kit price', 'navene koperweis gear cost today', 'navene koperweis drummer gear'],
     },
   },

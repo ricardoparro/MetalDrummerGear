@@ -860,22 +860,22 @@ export const GEAR_PRICE_HISTORY = {
     albumReference: 'Undertow (1993) / Aenima (1996)',
     profileImage: '/images/drummers/danny-carey.webp',
 
-    summary: "Danny Carey's mid-1990s setup for Tool's defining Undertow and Aenima era — one of the most unusual and technically sophisticated configurations in alternative metal history. Carey blended a standard acoustic Pearl Masters Studio kit with electronic percussion, gongs, and unconventional tunings influenced by his background in jazz and his interest in sacred geometry and polyrhythmic composition. This hybrid approach, rare for heavy guitar-driven music in 1994, produced the foundation for tracks like 'Prison Sex,' 'Sober,' 'Eulogy,' and the Aenima title track. The setup represented roughly $5,645 in mid-1990s dollars — a substantial investment driven by the electronic components that distinguished Carey from contemporaries. Adjusted for 2026 inflation, that figure reaches approximately $12,480, not counting the appreciating collector value of the vintage electronics. No drummer in heavy music has since replicated Carey's specific intersection of groove, odd time, and ritual-inflected sonic texture. The Pearl Masters Studio maple shells provided the warm, open resonance that Tool's dynamic production demanded: Adam Jones and Justin Chancellor's instruments occupied the mid and low frequencies, leaving Carey's drums needing both presence and sustain to project through the dense sonic canvas. The Roland R-8 trigger integration was not a concession to commercial convenience but an artistic choice — Carey used the layered samples to extend the acoustic kit's timbral vocabulary into territory no acoustic instrument could reach, a philosophy that foreshadowed his later adoption of Moog synthesizers and MIDI-controlled gongs. The Zildjian A Custom cymbals, introduced to his setup around this era, offered a brighter, more focused sound than the darker A Series that defined earlier Tool performances, allowing individual cymbal voices to articulate clearly within the band's signature wall of sound.",
+    summary: "Danny Carey's mid-1990s setup for Tool's defining Undertow and Aenima era — one of the most unusual and technically sophisticated configurations in alternative metal history. Carey blended a Sonor Phonic Plus acoustic kit with electronic percussion, gongs, and unconventional tunings influenced by his background in jazz and his interest in sacred geometry and polyrhythmic composition. This hybrid approach, rare for heavy guitar-driven music in 1994, produced the foundation for tracks like 'Prison Sex,' 'Sober,' 'Eulogy,' and the Aenima title track. The setup represented roughly $5,645 in mid-1990s dollars — a substantial investment driven by the electronic components that distinguished Carey from contemporaries. Adjusted for 2026 inflation, that figure reaches approximately $12,480, not counting the appreciating collector value of the vintage electronics. No drummer in heavy music has since replicated Carey's specific intersection of groove, odd time, and ritual-inflected sonic texture. The Sonor Phonic Plus shells provided the warm, open resonance that Tool's dynamic production demanded: Adam Jones and Justin Chancellor's instruments occupied the mid and low frequencies, leaving Carey's drums needing both presence and sustain to project through the dense sonic canvas. The Roland R-8 trigger integration was not a concession to commercial convenience but an artistic choice — Carey used the layered samples to extend the acoustic kit's timbral vocabulary into territory no acoustic instrument could reach, a philosophy that foreshadowed his later adoption of Moog synthesizers and MIDI-controlled gongs. The Paiste Signature cymbals that anchored his setup from this earliest Tool era offered the dynamic range and clarity Carey needed, allowing individual cymbal voices to articulate clearly within the band's signature wall of sound.",
 
     setup: {
       drums: {
-        item: 'Pearl Masters Studio',
+        item: 'Sonor Phonic Plus',
         model: '7-piece shell pack',
         specs: '22"x18" kick, 10"x8" rack, 12"x9" rack, 14"x11" rack, 16"x16" floor, 18"x16" floor',
         originalPrice: 2400,
         year: 1994,
-        source: 'Pearl Masters Studio MSRP 1994, Modern Drummer archive estimates',
-        notes: 'Maple shells for warm, full-bodied tone. Pearl was Carey\'s primary drum endorsement through the early Tool albums.',
+        source: 'Sonor Phonic Plus era gear, per MetalForge Danny Carey gear timeline (1990-1996 Early Tool era)',
+        notes: 'Sonor was Carey\'s drum endorsement through the earliest Tool albums, ahead of the later Designer Series and SQ2 upgrades.',
         vintageValue2026: 3000,
         modernEquivalent: {
-          item: 'Pearl Reference Series',
+          item: 'Sonor SQ2 Heavy Beech',
           price: 4800,
-          link: 'pearl-reference-series-drums',
+          link: 'sonor-sq2-heavy-beech-drums',
         },
       },
       snare: {
@@ -894,18 +894,18 @@ export const GEAR_PRICE_HISTORY = {
         },
       },
       cymbals: {
-        item: 'Zildjian A and A Custom Series',
-        model: 'Mixed A/A Custom + gong',
-        specs: '14" A Custom Hi-Hats, 17" A Thin Crash, 19" A Medium Crash, 20" A Custom Ride, 18" A China, 22" Paiste gong',
+        item: 'Paiste Signature Series',
+        model: 'Signature series + gong',
+        specs: '14" Signature Sound Edge Hi-Hats, 17" Signature Crash, 19" Signature Crash, 20" Signature Dry Heavy Ride, 18" Signature Thin China, 22" Paiste gong',
         originalPrice: 1500,
         year: 1994,
-        source: 'Zildjian retail pricing 1994, Paiste gong catalog',
-        notes: 'Carey combined standard A Custom cymbals with a large gong for the ritualistic, ambient textures on Undertow. The gong appears prominently on extended outro passages.',
+        source: 'Paiste Signature Series retail pricing 1994, Paiste gong catalog',
+        notes: 'Carey combined Paiste Signature cymbals with a large gong for the ritualistic, ambient textures on Undertow. The gong appears prominently on extended outro passages.',
         vintageValue2026: 1800,
         modernEquivalent: {
-          item: 'Zildjian A Custom Box Set + China',
+          item: 'Paiste Signature Series Box Set + China',
           price: 1800,
-          link: 'zildjian-a-custom-series-cymbals',
+          link: 'paiste-signature-series-cymbals',
         },
       },
       hardware: {
@@ -988,7 +988,7 @@ export const GEAR_PRICE_HISTORY = {
     ],
 
     sources: [
-      { title: 'Pearl Masters Studio Catalog', year: 1994, type: 'catalog' },
+      { title: 'Sonor Phonic Plus Catalog', year: 1994, type: 'catalog' },
       { title: 'Modern Drummer - Danny Carey Interview', year: 1997, type: 'interview' },
       { title: 'Roland R-8 Product Archives', year: 1994, type: 'manufacturer' },
       { title: 'DrummerWorld Archive — Danny Carey Equipment', year: 2024, type: 'forum' },
@@ -996,7 +996,7 @@ export const GEAR_PRICE_HISTORY = {
 
     meta: {
       title: "Danny Carey 1994 Tool Drum Setup Cost | Undertow Era Gear Prices",
-      description: "How much did Danny Carey's 1994 Tool drum kit cost? Original ~$5,645, inflation-adjusted to ~$12,480 today. Complete Pearl Masters + electronics breakdown from the Undertow/Aenima era.",
+      description: "How much did Danny Carey's 1994 Tool drum kit cost? Original ~$5,645, inflation-adjusted to ~$12,480 today. Complete Sonor Phonic Plus + electronics breakdown from the Undertow/Aenima era.",
       keywords: ['danny carey 1994 setup', 'tool drum kit cost', 'danny carey 90s gear', 'undertow era drums', 'danny carey gear today'],
     },
   },

@@ -51,8 +51,8 @@ export const PILLAR_PAGE = {
     { name: 'Pearl', note: 'Demon Drive and Demon XR (direct drive) and Eliminator (chain) are the extreme-metal and technical-metal standard, from Gene Hoglan to George Kollias.' },
     { name: 'DW', note: '5000 and 9000 Series chain-drive pedals appear throughout the roster, prized for precision and touring reliability.' },
     { name: 'Axis', note: 'The direct-drive specialist brand — no chain or belt at all — used by drummers who prioritize instant, zero-slack response above everything else.' },
-    { name: 'Mapex', note: 'The Falcon double pedal shows up across several roster drummers, including Chris Adler.' },
-    { name: 'Trick', note: 'Boutique, CNC-machined direct-drive pedals (Pro1-V, Bigfoot) used by technically elite players who have outgrown production hardware.' },
+    { name: 'Mapex', note: 'The Falcon double pedal shows up across several roster drummers.' },
+    { name: 'Trick', note: 'Boutique, CNC-machined direct-drive pedals (Pro1-V, Bigfoot) used by technically elite players who have outgrown production hardware, including Chris Adler.' },
   ],
   bestForMetal:
     'There is no single "correct" metal pedal, but the verified roster shows a clear pattern: a double pedal (not single) for anything beyond doom or traditional heavy metal, chain drive (Iron Cobra, Speed Cobra, DW 9000) as the versatile all-rounder, and direct drive (Axis, Pearl Demon Drive) for drummers who specifically chase extreme, sustained speed. See the drive types and single-vs-double guides below for the full reasoning behind each part of that choice.',

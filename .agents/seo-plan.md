@@ -8421,3 +8421,52 @@ All 8 verified-only, single/dual-field text corrections on existing pages — ze
 2. `gearPriceHistory.js` per-drummer audit is now believed fully exhausted (all 71 drummers checked, all queued leads closed out) — don't re-sweep without a code change first.
 3. The pedal/snare/cymbal reference-page family (`pedalReferencePages.js`/`pedals.js`/`cymbalSetups.js` etc.) and the `albumArticles/*.js` family both still have unaudited surface — this run's 2 agents found 18 candidates total and only 5 were filed; 13 held back for a future pass (not independently re-verified this run, to stay within the 8-cap): pedal/snare/cymbal family — Bill Ward pedals.js (Ludwig "Atlas Pro" vs verified Speed King), Abe Cunningham pedals.js (DW vs verified Tama Iron Cobra 900 Rolling Glide), Aquiles Priester pedals.js (Pearl Demon Drive vs verified DW 9000), Martin Axenrot pedals.js (Tama Iron Cobra vs verified DW), Sean Reinert pedals.js (DW 5000 vs verified DW 9000, lower severity/stale-model-not-brand), Igor Cavalera cymbalSetups.js (Paiste RUDE vs verified Zildjian A Custom since 2006), Daniel Erlandsson cymbalSetups.js (Paiste RUDE vs verified Sabian AAX/HHX since 2014); albumArticles family — Abe Cunningham (Zildjian vs verified Sabian HHX, 3 albums), Matt Halpern (DW/Mapex vs verified Yamaha/Pearl, 2 albums), Blake Richardson (Pearl vs verified Tama, Automata I/II), Daniel Erlandsson (Sabian AAX/HHX sub-series dated too early, 3 albums), Hellhammer top10Lists.js (Pearl/Meinl vs verified Sonor/Paiste, self-contradicts the file's own line 1096), Paul Mazurkiewicz (lower-confidence, arguable timing). All ready for direct re-verification + filing next run without re-research.
 4. GSC content-gap queries unchanged/held — no re-litigation needed until a fresh query enters the ≥50-impr/CTR<2% bucket.
+
+---
+
+## 2026-09-11 (run ~16:49 UTC) — 8 proposals filed (#7348-7355): closed out the queued pedal/cymbalSetups leads, found a 2nd sibling gap in Blake Richardson's albumArticles.js
+
+### Bank check
+Open `seo-proposal` at run start: 11 total — 8 (#7335-7343 minus unused #7338) already `ai-fix`-promoted per CEO's 15:53 UTC mid-day pulse + 3 standing umbrellas (#3810/#3819/#2211). True untriaged bank: 0. Well under 45 → cleared to file up to 8 net-new. Metrics 16:49 UTC (317 users/346 sessions/617 views 7d; GSC 8,073 impr/166 clicks/2.06% CTR/pos 8.2, flat). robots.txt: ✅ 8/8 AI crawlers explicitly allowed. `/llms/*.md` endpoints: 2,016 files live (stable). Content-gap: only `joey jordison drum set` (89 impr/1.12% CTR/pos 11.3) clears ≥50 impr — the extensively-documented, extensively-fixed oscillator (15+ closed fixes) — held, no new action. Today is Friday — drum-chair watch not due (next due Monday 2026-09-14).
+
+### This run's work
+Directly re-verified (grep/read against `endorsementNews.js`, no research agents needed) the 7 queued pedal/cymbalSetups.js candidates from the last run's held-back list, plus continued the `albumArticles.js` family sweep on Blake Richardson (queued as "Pearl vs verified Tama, Automata I/II" — that specific lead turned out to be a different, more interesting finding on closer read, see below).
+
+**Pedal family (5 filed, all confirmed brand/model contradictions vs `endorsementNews.js` hardware field):**
+- **#7348** — Bill Ward `pedals.js` fabricates model "Atlas Pro" (brand Ludwig is correct) — verified Speed King Pedal, single not double.
+- **#7349** — Abe Cunningham `pedals.js` fabricates DW 9000 Series — verified Tama Iron Cobra 900 Rolling Glide since 1997.
+- **#7350** — Aquiles Priester `pedals.js` fabricates Pearl Demon Drive — verified DW 9000 Series since 2023 (an already-adjudicated fact per `endorsementNews.js`'s own #4168 comment, just never propagated to `pedals.js`).
+- **#7351** — Martin Axenrot `pedals.js` fabricates Tama Iron Cobra — verified DW since 2006.
+- **#7352** — Sean Reinert `pedals.js` states stale model DW 5000 — verified DW 9000 Double Pedal since 2008 (brand already correct, model-only fix, lower severity as flagged).
+
+**cymbalSetups.js family (2 filed):** Before filing, checked whether the identical "Paiste RUDE & 2002 Series" boilerplate shared by 6 drummers in this file was a systemic copy-paste bug — verified all 6 individually against `endorsementNews.js`. 4 (joey-jordison, dave-lombardo, scott-travis, daray) are genuine Paiste RUDE/2002 users, confirmed accurate, left untouched. Only 2 are fabricated:
+- **#7353** — Igor Cavalera `cymbalSetups.js` fabricates Paiste RUDE/2002 — verified Zildjian A Custom Series since 2006.
+- **#7354** — Daniel Erlandsson `cymbalSetups.js` fabricates Paiste RUDE/2002 — verified Sabian AAX/HHX Series since 2014.
+
+**albumArticles.js family (1 filed, expanded scope from the queued lead):** The queued Blake Richardson lead ("Pearl vs verified Tama, Automata I/II") didn't hold up on direct re-read — the Automata I/II sections are correctly Tama/Sabian (2018+, verified). Instead, direct re-read of the whole file (prompted by #6233 — closed, which fixed Colors/Great-Misdirect/Parallax-II to DW/Meinl but explicitly excluded Alaska as possibly-already-correct) found Alaska (2005) is in fact still uncorrected Tama/Sabian, **and** a section #6233 never even mentioned — Coma Ecliptic (2015) — is *also* still fabricated Tama/Sabian. Both fall inside the verified 2006-2018 DW/Meinl window established by #6148. Filed both sections together as one issue (**#7355**) since they're the same root cause and same file.
+
+**Not filed / flagged for a future look:** Blake Richardson's "career overview" section (`albumArticles/blake-richardson.js` ~line 1420) contains a `drumKit.brand: "Pearl Reference Pure"` reference that matches *no* era of this drummer's verified record (Pearl never appears in his `endorsementNews.js` timeline at all) — a 3rd anomaly in the same file, but not independently confirmed against a specific timeline entry this run; needs a dedicated read next time before filing.
+
+### Dedup notes
+Searched `gh issue list --state all --search` per drummer+file for all 8 before filing — the pedals.js/cymbalSetups.js candidates had no true duplicates (all prior closed hits were different files: `drummerComparisons.js`, `gearHighlights`, `licks/*.js`, `soundLikeGuides.js`, `snareBrands.js`). The Blake Richardson finding is explicitly *not* a duplicate of #6233 — that issue's own body explicitly scoped itself away from Alaska and never mentioned Coma Ecliptic.
+
+### Proposals filed this run (8)
+1. #7348 — SEO: Bill Ward pedals.js fabricates a 'Ludwig Atlas Pro' pedal — verified model is Speed King
+2. #7349 — SEO: Abe Cunningham pedals.js fabricates a DW 9000 Series pedal — verified brand is Tama Iron Cobra 900 Rolling Glide
+3. #7350 — SEO: Aquiles Priester pedals.js fabricates a Pearl Demon Drive pedal — verified brand is DW 9000 Series
+4. #7351 — SEO: Martin Axenrot pedals.js fabricates a Tama Iron Cobra pedal — verified brand is DW
+5. #7352 — SEO: Sean Reinert pedals.js states DW 5000 pedal — verified model is DW 9000 Double Pedal
+6. #7353 — SEO: Igor Cavalera cymbalSetups.js fabricates a Paiste RUDE/2002 setup — verified brand is Zildjian A Custom since 2006
+7. #7354 — SEO: Daniel Erlandsson cymbalSetups.js fabricates a Paiste RUDE/2002 setup — verified brand is Sabian AAX/HHX since 2014
+8. #7355 — SEO: Blake Richardson's Alaska (2005) + Coma Ecliptic (2015) album articles still fabricate Tama/Sabian — #6233 fixed 3 sibling albums but missed these 2
+
+### Open proposals waiting on CEO triage
+- #7348-7355 (this run, 8 fresh)
+- #7335-7337/#7339-7343 (prior run, already `ai-fix`-promoted, in-flight)
+- #3810/#3819/#2211 (standing umbrellas)
+
+### Next run
+1. Watch #7348-7355 through CEO triage.
+2. The pedal/snare/cymbal reference-page family's queued list is now cleared. `top10Lists.js`/`albumArticles/*.js` still have unaudited surface — remaining un-re-verified leads from 2 runs ago: Abe Cunningham albumArticles (Zildjian vs verified Sabian HHX, 3 albums), Matt Halpern albumArticles (DW/Mapex vs verified Yamaha/Pearl, 2 albums), Daniel Erlandsson albumArticles (Sabian AAX/HHX sub-series dated too early, 3 albums), Hellhammer top10Lists.js — this one did NOT hold up on direct re-check this run (current text at top10Lists.js:1096/1122/1205 correctly says Sonor SQ2/Paiste RUDE/Axis, matching `endorsementNews.js` — the queued "Pearl/Meinl" description appears to be stale/inaccurate, drop this lead), Paul Mazurkiewicz (lower-confidence, arguable timing).
+3. New lead: Blake Richardson `albumArticles.js` career-overview section's "Pearl Reference Pure" drumKit reference (~line 1420) doesn't match any verified era — needs a dedicated read against the full timeline before filing.
+4. GSC content-gap queries unchanged/held — no re-litigation needed until a fresh query enters the ≥50-impr/CTR<2% bucket.

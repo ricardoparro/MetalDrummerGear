@@ -1312,7 +1312,7 @@ export const articles = {
     "dateModified": "2026-06-30",
     "author": "MetalForge Editorial",
     "title": "Mike Mangini's Kit on 'The Astonishing' (Dream Theater, 2016)",
-    "description": "Dream Theater's sprawling two-act, 34-track rock opera demanded a different kind of drumming from Mike Mangini. Full breakdown of the Pearl Masterworks kit, Sabian HHX/AAX cymbals, and DW double pedals used across The Astonishing's dystopian sci-fi concept album.",
+    "description": "Dream Theater's sprawling two-act, 34-track rock opera demanded a different kind of drumming from Mike Mangini. Full breakdown of the Pearl Masterworks kit, Sabian HHX/AAX cymbals, and Pearl double pedals used across The Astonishing's dystopian sci-fi concept album.",
     "seoKeywords": [
       "mike mangini the astonishing drums",
       "dream theater the astonishing drum setup",
@@ -1430,31 +1430,31 @@ export const articles = {
       "estimatedValue": "$3,500-5,000 total (full Sabian setup)"
     },
     "hardware": {
-      "title": "DW 9000 Double Pedal: Consistency Across 34 Tracks",
+      "title": "Pearl Eliminator Redline: Consistency Across 34 Tracks",
       "items": [
         {
           "type": "Double Bass Drum Pedal",
-          "brand": "DW",
-          "model": "DW 9000 Double Pedal",
-          "notes": "Chain drive for direct, repeatable beater response across a long, multi-session recording schedule",
-          "description": "Tracking 34 songs across multiple recording locations and sessions demanded equipment Mangini could trust to feel identical from the first day of tracking to the last. The DW 9000's chain-drive consistency gave him that reliability — critical on an album where the same musical themes recur in different acts and needed to sound like the same drummer playing the same instrument each time they appeared."
+          "brand": "Pearl",
+          "model": "Pearl Eliminator Redline Double Pedal",
+          "notes": "Direct drive with interchangeable cam system for repeatable beater response across a long, multi-session recording schedule",
+          "description": "Tracking 34 songs across multiple recording locations and sessions demanded equipment Mangini could trust to feel identical from the first day of tracking to the last. The Eliminator Redline's direct-drive consistency gave him that reliability — critical on an album where the same musical themes recur in different acts and needed to sound like the same drummer playing the same instrument each time they appeared."
         },
         {
           "type": "Hi-Hat Stand",
-          "brand": "DW",
-          "model": "DW 9000 Series Hi-Hat Stand",
+          "brand": "Pearl",
+          "model": "Pearl H-2050 Eliminator Hi-Hat Stand",
           "notes": "Stable platform for nuanced hi-hat work in the album's quieter narrative passages"
         },
         {
           "type": "Cymbal Stands",
-          "brand": "DW",
-          "model": "DW 9000 Series Straight & Boom Stands",
-          "notes": "Full DW hardware complement carried over from A Dramatic Turn of Events"
+          "brand": "Pearl",
+          "model": "Pearl BC-830 Boom Stands",
+          "notes": "Full Pearl hardware complement carried over from A Dramatic Turn of Events"
         },
         {
           "type": "Throne",
-          "brand": "DW",
-          "model": "DW 9120M Drum Throne",
+          "brand": "Pearl",
+          "model": "Pearl Roadster",
           "notes": "Support across an extended, multi-location recording schedule"
         },
         {
@@ -1515,13 +1515,13 @@ export const articles = {
           "Demonstrates Mangini's full technical range still available within the concept album's structure",
           "Floor tom emphasis anchors the heaviest sections of the song's betrayal narrative"
         ],
-        "gearNotes": "DW 9000 double pedal drives the song's sustained double bass intensity. Sabian AAX 20\" X-Plosion crash and 18\" Chinese punctuate the heaviest accents."
+        "gearNotes": "Pearl Eliminator Redline double pedal drives the song's sustained double bass intensity. Sabian AAX 20\" X-Plosion crash and 18\" Chinese punctuate the heaviest accents."
       }
     ],
     "faq": [
       {
         "question": "What drums did Mike Mangini use on The Astonishing?",
-        "answer": "On The Astonishing (2016), Mike Mangini played a Pearl Masterworks Maple kit, continuing the same setup used since his 2011 Dream Theater debut on A Dramatic Turn of Events. The setup included a 22\" x 18\" bass drum, four rack toms (8\", 10\", 12\", 13\"), and two floor toms (14\" and 16\"), paired with a Pearl Free-Floating brass snare and DW 9000 double pedals. For Mangini's complete career gear history, see the [Mike Mangini drummer profile](/drummer/mike-mangini) and the [What's in Mike Mangini's Kit article](/articles/whats-in-mike-manginis-kit)."
+        "answer": "On The Astonishing (2016), Mike Mangini played a Pearl Masterworks Maple kit, continuing the same setup used since his 2011 Dream Theater debut on A Dramatic Turn of Events. The setup included a 22\" x 18\" bass drum, four rack toms (8\", 10\", 12\", 13\"), and two floor toms (14\" and 16\"), paired with a Pearl Free-Floating brass snare and Pearl Eliminator Redline double pedals. For Mangini's complete career gear history, see the [Mike Mangini drummer profile](/drummer/mike-mangini) and the [What's in Mike Mangini's Kit article](/articles/whats-in-mike-manginis-kit)."
       },
       {
         "question": "What cymbals did Mike Mangini use on The Astonishing?",
@@ -1582,7 +1582,7 @@ export const articles = {
         {
           "@type": "Article",
           "headline": "Mike Mangini's Kit on 'The Astonishing' (Dream Theater, 2016)",
-          "description": "Dream Theater's sprawling two-act, 34-track rock opera demanded a different kind of drumming from Mike Mangini. Full breakdown of the Pearl Masterworks kit, Sabian HHX/AAX cymbals, and DW double pedals used across The Astonishing.",
+          "description": "Dream Theater's sprawling two-act, 34-track rock opera demanded a different kind of drumming from Mike Mangini. Full breakdown of the Pearl Masterworks kit, Sabian HHX/AAX cymbals, and Pearl double pedals used across The Astonishing.",
           "author": { "@type": "Organization", "name": "MetalForge Editorial" },
           "datePublished": "2026-06-30",
           "dateModified": "2026-06-30"
@@ -1595,7 +1595,7 @@ export const articles = {
               "name": "What drums did Mike Mangini use on The Astonishing?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "On The Astonishing (2016), Mike Mangini played a Pearl Masterworks Maple kit with a 22\" x 18\" bass drum, four rack toms (8\", 10\", 12\", 13\"), and two floor toms (14\" and 16\"), paired with a Pearl Free-Floating brass snare and DW 9000 double pedals."
+                "text": "On The Astonishing (2016), Mike Mangini played a Pearl Masterworks Maple kit with a 22\" x 18\" bass drum, four rack toms (8\", 10\", 12\", 13\"), and two floor toms (14\" and 16\"), paired with a Pearl Free-Floating brass snare and Pearl Eliminator Redline double pedals."
               }
             },
             {
@@ -1630,7 +1630,7 @@ export const articles = {
     "band": "Dream Theater",
     "conclusion": {
       "title": "The Album That Asked Mangini to Disappear",
-      "content": "The Astonishing remains the outlier in Mike Mangini's Dream Theater discography — not because of any gear change, but because of what the music asked of him. Pearl Masterworks shells, Sabian HHX/AAX cymbals, and DW 9000 pedals were all familiar tools by 2016. What was new was the discipline the role required: serving a 34-track narrative meant knowing when to recede into the orchestration and when to step forward, a different kind of mastery than the technical showcases of A Dramatic Turn of Events or the collaborative groove-writing of the 2013 self-titled album.\n\nFor drummers studying restraint as a skill, The Astonishing is essential listening. 'Dystopian Overture' shows how tom work can function as orchestral color rather than rhythmic drive; 'Moment of Betrayal' proves the technical firepower never left, it was simply held in reserve until the story called for it.\n\n**Completing the Mangini-Era Dream Theater Arc:**\nThe Astonishing (2016) fills the gap between [Dream Theater's self-titled album (2013)](/articles/dream-theater-self-titled-drum-setup) and [Distance Over Time (2019)](/articles/distance-over-time-drum-setup), completing the sequential picture of all five Mangini-era studio albums: A Dramatic Turn of Events → Dream Theater (2013) → The Astonishing → Distance Over Time → A View from the Top of the World. For the full gear profile across all five albums, visit the [Mike Mangini drummer profile](/drummer/mike-mangini) and the [What's in Mike Mangini's Kit article](/articles/whats-in-mike-manginis-kit)."
+      "content": "The Astonishing remains the outlier in Mike Mangini's Dream Theater discography — not because of any gear change, but because of what the music asked of him. Pearl Masterworks shells, Sabian HHX/AAX cymbals, and Pearl Eliminator Redline pedals were all familiar tools by 2016. What was new was the discipline the role required: serving a 34-track narrative meant knowing when to recede into the orchestration and when to step forward, a different kind of mastery than the technical showcases of A Dramatic Turn of Events or the collaborative groove-writing of the 2013 self-titled album.\n\nFor drummers studying restraint as a skill, The Astonishing is essential listening. 'Dystopian Overture' shows how tom work can function as orchestral color rather than rhythmic drive; 'Moment of Betrayal' proves the technical firepower never left, it was simply held in reserve until the story called for it.\n\n**Completing the Mangini-Era Dream Theater Arc:**\nThe Astonishing (2016) fills the gap between [Dream Theater's self-titled album (2013)](/articles/dream-theater-self-titled-drum-setup) and [Distance Over Time (2019)](/articles/distance-over-time-drum-setup), completing the sequential picture of all five Mangini-era studio albums: A Dramatic Turn of Events → Dream Theater (2013) → The Astonishing → Distance Over Time → A View from the Top of the World. For the full gear profile across all five albums, visit the [Mike Mangini drummer profile](/drummer/mike-mangini) and the [What's in Mike Mangini's Kit article](/articles/whats-in-mike-manginis-kit)."
     }
   },
   "a-dramatic-turn-of-events-drum-setup": {
@@ -1650,7 +1650,7 @@ export const articles = {
     "dateModified": "2026-06-20",
     "author": "MetalForge Editorial",
     "title": "Mike Mangini's Kit on 'A Dramatic Turn of Events' (Dream Theater, 2011)",
-    "description": "World-record holder Mike Mangini replaced Mike Portnoy on Dream Theater's landmark 2011 album. Full breakdown of the Pearl Masterworks kit, Sabian HHX/AAX cymbals, and DW 9002 double pedals used to record A Dramatic Turn of Events.",
+    "description": "World-record holder Mike Mangini replaced Mike Portnoy on Dream Theater's landmark 2011 album. Full breakdown of the Pearl Masterworks kit, Sabian HHX/AAX cymbals, and Pearl Eliminator Redline double pedals used to record A Dramatic Turn of Events.",
     "seoKeywords": [
       "mike mangini drum setup",
       "a dramatic turn of events drums",
@@ -1700,7 +1700,7 @@ export const articles = {
         "Pearl Masterworks — Pearl's handcrafted flagship series, built to exact artist spec",
         "Maple/birch hybrid shells: warmth of maple with projection of birch",
         "Six-tom configuration covers nearly four octaves of drum voice",
-        "Single 22\" bass drum with DW 9002 double pedal",
+        "Single 22\" bass drum with Pearl Eliminator Redline double pedal",
         "Extended setup matches the orchestral complexity of Dream Theater compositions"
       ],
       "estimatedValue": "$7,000-12,000 (Pearl Masterworks configuration)"
@@ -1768,31 +1768,31 @@ export const articles = {
       "estimatedValue": "$3,500-5,000 total"
     },
     "hardware": {
-      "title": "DW 9002 Double Pedal: Speed and Consistency",
+      "title": "Pearl Eliminator Redline Double Pedal: Speed and Consistency",
       "items": [
         {
           "type": "Double Bass Drum Pedal",
-          "brand": "DW",
-          "model": "DW 9002 Double Pedal",
-          "notes": "Chain drive for direct, consistent response; Mangini's precision footwork demands repeatable feel",
-          "description": "The DW 9002 is Mike Mangini's central hardware piece on the album — the double pedal that converts his world-record-level footwork into the kick drum sound on 'A Dramatic Turn of Events.' The 9002 uses a chain drive mechanism that gives Dirk direct, consistent beater response without the delay sometimes associated with belt or strap drives. For Mangini's technique — which involves highly controlled velocity patterns across both feet rather than brute-force thrash patterns — the 9002's predictable feel is essential. On 'Lost Not Forgotten,' where kick patterns shift between straight 8th notes and syncopated 16th-note bursts, the pedal's consistency keeps every hit articulate in the recording."
+          "brand": "Pearl",
+          "model": "Pearl Eliminator Redline Double Pedal",
+          "notes": "Direct drive for consistent response; Mangini's precision footwork demands repeatable feel",
+          "description": "The Pearl Eliminator Redline is Mike Mangini's central hardware piece on the album — the double pedal that converts his world-record-level footwork into the kick drum sound on 'A Dramatic Turn of Events.' The Eliminator Redline's direct-drive mechanism and interchangeable cam system give Mangini direct, consistent beater response without the delay sometimes associated with belt or strap drives. For his technique — which involves highly controlled velocity patterns across both feet rather than brute-force thrash patterns — the pedal's predictable feel is essential. On 'Lost Not Forgotten,' where kick patterns shift between straight 8th notes and syncopated 16th-note bursts, the pedal's consistency keeps every hit articulate in the recording."
         },
         {
           "type": "Hi-Hat Stand",
-          "brand": "DW",
-          "model": "DW 9000 Series Hi-Hat Stand",
+          "brand": "Pearl",
+          "model": "Pearl H-2050 Eliminator Hi-Hat Stand",
           "notes": "Stability under varied foot pressure; used alongside left foot hi-hat patterns"
         },
         {
           "type": "Cymbal Stands",
-          "brand": "DW",
-          "model": "DW 9000 Series Straight & Boom Stands",
-          "notes": "Full DW hardware setup throughout the kit for consistent feel and stage-reliable stability"
+          "brand": "Pearl",
+          "model": "Pearl BC-830 Boom Stands",
+          "notes": "Full Pearl hardware setup throughout the kit for consistent feel and stage-reliable stability"
         },
         {
           "type": "Throne",
-          "brand": "DW",
-          "model": "DW 9120M Drum Throne",
+          "brand": "Pearl",
+          "model": "Pearl Roadster",
           "notes": "Matched hardware for extended recording and touring sessions"
         },
         {
@@ -1815,7 +1815,7 @@ export const articles = {
         "Mangini co-produced the album alongside John Petrucci — unusual for a debut session",
         "Six-tom configuration required comprehensive individual tom miking",
         "Sabian HHX/AAX complexity preserved in overhead capture",
-        "Single bass drum with DW 9002 double pedal for tonal consistency across both feet"
+        "Single bass drum with Pearl Eliminator Redline double pedal for tonal consistency across both feet"
       ]
     },
     "trackAnalysis": [
@@ -1830,7 +1830,7 @@ export const articles = {
           "Drum fill at the bridge section is one of the most transcribed moments on the album",
           "Grammy nominated: Best Hard Rock/Metal Performance (54th Grammy Awards, 2012)"
         ],
-        "gearNotes": "Sabian HHX 22\" Evolution ride bell prominent in verse pattern. Pearl Masterworks toms feature in the bridge fill. DW 9002 provides controlled kick-snare foundation throughout."
+        "gearNotes": "Sabian HHX 22\" Evolution ride bell prominent in verse pattern. Pearl Masterworks toms feature in the bridge fill. Pearl Eliminator Redline provides controlled kick-snare foundation throughout."
       },
       {
         "track": "Build Me Up Break Me Down",
@@ -1843,7 +1843,7 @@ export const articles = {
           "Hi-hat ostinato underpins one of the album's most driving grooves",
           "Showcases how Mangini integrates world-record-level speed into musical context"
         ],
-        "gearNotes": "DW 9002 double pedal drives the album's most sustained double bass passages. Sabian HHX 14\" Evolution hi-hats provide the fast, complex articulation the track demands."
+        "gearNotes": "Pearl Eliminator Redline double pedal drives the album's most sustained double bass passages. Sabian HHX 14\" Evolution hi-hats provide the fast, complex articulation the track demands."
       },
       {
         "track": "Lost Not Forgotten",
@@ -1862,7 +1862,7 @@ export const articles = {
     "faq": [
       {
         "question": "What drums did Mike Mangini use on A Dramatic Turn of Events?",
-        "answer": "On Dream Theater's A Dramatic Turn of Events (2011), Mike Mangini used a Pearl Masterworks Custom kit with a maple/birch hybrid shell formula. The configuration included a 22\" x 18\" bass drum, four rack toms (8\", 10\", 12\", 13\"), and two floor toms (14\", 16\"). He paired the kit with DW 9002 double pedals and a Pearl Free-Floating brass snare. For Mangini's complete current touring setup and gear history, see the [Mike Mangini drummer profile](/drummer/mike-mangini) and the [What's in Mike Mangini's Kit article](/articles/whats-in-mike-manginis-kit)."
+        "answer": "On Dream Theater's A Dramatic Turn of Events (2011), Mike Mangini used a Pearl Masterworks Custom kit with a maple/birch hybrid shell formula. The configuration included a 22\" x 18\" bass drum, four rack toms (8\", 10\", 12\", 13\"), and two floor toms (14\", 16\"). He paired the kit with Pearl Eliminator Redline double pedals and a Pearl Free-Floating brass snare. For Mangini's complete current touring setup and gear history, see the [Mike Mangini drummer profile](/drummer/mike-mangini) and the [What's in Mike Mangini's Kit article](/articles/whats-in-mike-manginis-kit)."
       },
       {
         "question": "What cymbals did Mike Mangini use on A Dramatic Turn of Events?",
@@ -1944,7 +1944,7 @@ export const articles = {
     "band": "Dream Theater",
     "conclusion": {
       "title": "A New Era Defined",
-      "content": "\"A Dramatic Turn of Events\" accomplished something that seemed impossible in the months after Mike Portnoy's departure: it demonstrated not only that Dream Theater could survive the loss of a founding member, but that the transition opened creative space for a new kind of precision. Mike Mangini brought to Dream Theater a technical vocabulary built on decades of study, world-record speed, and academic rigor — a foundation that produced one of the most impressive debut performances in progressive metal history.\n\nThe Pearl Masterworks kit, Sabian HHX/AAX cymbals, and DW 9002 double pedals are the instruments that made this possible. In a studio album co-produced by the drummer himself, every piece of gear was a deliberate choice. The complexity of the Sabian HHX/AAX cymbals suits the harmonic complexity of Dream Theater's keyboard-rich arrangements. The six-tom Pearl Masterworks configuration gives Mangini the melodic fill vocabulary to match Petrucci's guitar orchestrations. The DW 9002's consistency enabled the clean double-bass execution that tracks like \"Build Me Up Break Me Down\" demand.\n\n**The Dream Theater Drummer Timeline:**\nMike Portnoy's 25-year run defined Dream Theater's sound through Images and Words, Metropolis Pt. 2, and Train of Thought. Mangini's arrival — won in the most transparent audition process in rock history — carried the band into its next chapter. For the Portnoy-era breakdown, see the [Images and Words Drum Setup article](/articles/images-and-words-drum-setup) and the [Mike Portnoy drummer profile](/drummer/mike-portnoy).\n\n**For the Aspiring Drummer:**\nStart with \"On the Backs of Angels\" to hear Mangini's compound meter groove and Sabian HHX ride clarity. Move to \"Lost Not Forgotten\" for the album's most demanding metric modulation work. Then compare with Portnoy's approach on Images and Words — a different philosophy, equally influential. For Mangini's complete current setup, visit the [Mike Mangini drummer profile](/drummer/mike-mangini) and the [What's in Mike Mangini's Kit article](/articles/whats-in-mike-manginis-kit)."
+      "content": "\"A Dramatic Turn of Events\" accomplished something that seemed impossible in the months after Mike Portnoy's departure: it demonstrated not only that Dream Theater could survive the loss of a founding member, but that the transition opened creative space for a new kind of precision. Mike Mangini brought to Dream Theater a technical vocabulary built on decades of study, world-record speed, and academic rigor — a foundation that produced one of the most impressive debut performances in progressive metal history.\n\nThe Pearl Masterworks kit, Sabian HHX/AAX cymbals, and Pearl Eliminator Redline double pedals are the instruments that made this possible. In a studio album co-produced by the drummer himself, every piece of gear was a deliberate choice. The complexity of the Sabian HHX/AAX cymbals suits the harmonic complexity of Dream Theater's keyboard-rich arrangements. The six-tom Pearl Masterworks configuration gives Mangini the melodic fill vocabulary to match Petrucci's guitar orchestrations. The Eliminator Redline's consistency enabled the clean double-bass execution that tracks like \"Build Me Up Break Me Down\" demand.\n\n**The Dream Theater Drummer Timeline:**\nMike Portnoy's 25-year run defined Dream Theater's sound through Images and Words, Metropolis Pt. 2, and Train of Thought. Mangini's arrival — won in the most transparent audition process in rock history — carried the band into its next chapter. For the Portnoy-era breakdown, see the [Images and Words Drum Setup article](/articles/images-and-words-drum-setup) and the [Mike Portnoy drummer profile](/drummer/mike-portnoy).\n\n**For the Aspiring Drummer:**\nStart with \"On the Backs of Angels\" to hear Mangini's compound meter groove and Sabian HHX ride clarity. Move to \"Lost Not Forgotten\" for the album's most demanding metric modulation work. Then compare with Portnoy's approach on Images and Words — a different philosophy, equally influential. For Mangini's complete current setup, visit the [Mike Mangini drummer profile](/drummer/mike-mangini) and the [What's in Mike Mangini's Kit article](/articles/whats-in-mike-manginis-kit)."
     }
   }
 };

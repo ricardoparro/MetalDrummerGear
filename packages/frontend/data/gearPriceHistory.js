@@ -6980,7 +6980,7 @@ export const GEAR_PRICE_HISTORY = {
     albumReference: 'Death: The Sound of Perseverance (1998)',
     profileImage: '/images/drummers/richard-christy.webp',
 
-    summary: "Richard Christy's 1998 setup behind Death's The Sound of Perseverance — Chuck Schuldiner's final studio album and widely considered the most technically demanding death metal record ever made — centered on a Pearl Masters Custom maple kit chosen for exactly the clarity, attack, and projection the album's progressive complexity demanded. Christy, who moved to Florida specifically to break into the death metal scene, was handpicked by Schuldiner after auditions and inherited a drum chair previously held by Gene Hoglan. His complete rig — the Pearl Masters Custom shell pack, a Pearl Sensitone steel/Masters Maple snare, a seven-piece Sabian AA/AAX cymbal setup, a Pearl P-2002C PowerShifter Eliminator double pedal, and Vic Firth American Classic 5A/5B sticks — cost approximately $6,183 in 1998 dollars, equivalent to roughly $12,427 today after inflation.\n\nEvery piece of that gear maps directly onto what Perseverance required. The 22\"x18\" bass drum was notably deeper than typical death metal kicks of the era, giving Christy's sustained double-bass runs on \"Spirit Crusher\" low-end weight and presence rather than a muddy blur. The four-tom configuration gave him the melodic canvas Schuldiner wrote fills specifically around — audible in the singing tom passages of \"Flesh and the Power It Holds.\" The bright Sabian AA/AAX cymbals, anchored by 14\" AA hi-hats and a 20\" AA Medium ride, provided the stick definition necessary at 200+ BPM, while the alternating steel/maple snare choice let Christy shift between the cutting crack \"Scavenger of Human Sorrow\" demanded and the warmth \"Voice of the Soul\" — Death's only instrumental — required. Engineer Jim Morris recorded Christy's parts as largely uninterrupted full takes; Schuldiner reportedly found click tracks nearly redundant given how precise his internal clock already was.\n\nThat same rig carried into Control Denied's The Fragile Art of Existence (1999) before Christy moved to Iced Earth in 2003, where his setup scaled up for larger touring productions. He left metal drumming behind in 2007 to focus on his entertainment career at The Howard Stern Show, but the Pearl/Sabian configuration documented on Perseverance remains the gear most closely associated with one of technical death metal's most complete performances.",
+    summary: "Richard Christy's 1998 setup behind Death's The Sound of Perseverance — Chuck Schuldiner's final studio album and widely considered the most technically demanding death metal record ever made — centered on a Pearl Masters Custom maple kit chosen for exactly the clarity, attack, and projection the album's progressive complexity demanded. Christy, who moved to Florida specifically to break into the death metal scene, was handpicked by Schuldiner after auditions and inherited a drum chair previously held by Gene Hoglan. His complete rig — the Pearl Masters Custom shell pack, a Pearl Sensitone steel/Masters Maple snare, a seven-piece Sabian AA/AAX cymbal setup, an Axis A Longboard double pedal, and Vic Firth American Classic 5A/5B sticks — cost approximately $6,183 in 1998 dollars, equivalent to roughly $12,427 today after inflation.\n\nEvery piece of that gear maps directly onto what Perseverance required. The 22\"x18\" bass drum was notably deeper than typical death metal kicks of the era, giving Christy's sustained double-bass runs on \"Spirit Crusher\" low-end weight and presence rather than a muddy blur. The four-tom configuration gave him the melodic canvas Schuldiner wrote fills specifically around — audible in the singing tom passages of \"Flesh and the Power It Holds.\" The bright Sabian AA/AAX cymbals, anchored by 14\" AA hi-hats and a 20\" AA Medium ride, provided the stick definition necessary at 200+ BPM, while the alternating steel/maple snare choice let Christy shift between the cutting crack \"Scavenger of Human Sorrow\" demanded and the warmth \"Voice of the Soul\" — Death's only instrumental — required. Engineer Jim Morris recorded Christy's parts as largely uninterrupted full takes; Schuldiner reportedly found click tracks nearly redundant given how precise his internal clock already was.\n\nThat same rig carried into Control Denied's The Fragile Art of Existence (1999) before Christy moved to Iced Earth in 2003, where his setup scaled up for larger touring productions. He left metal drumming behind in 2007 to focus on his entertainment career at The Howard Stern Show, but the Pearl/Sabian configuration documented on Perseverance remains the gear most closely associated with one of technical death metal's most complete performances.",
 
     setup: {
       drums: {
@@ -7029,18 +7029,18 @@ export const GEAR_PRICE_HISTORY = {
         },
       },
       hardware: {
-        item: 'Pearl P-2002C PowerShifter Eliminator',
-        model: 'Chain-drive double pedal + hi-hat stand + throne',
-        specs: 'Pearl P-2002C Eliminator double pedal, Pearl H-2000 hi-hat stand, Pearl D-2000 Roadster throne',
+        item: 'Axis A Longboard Double Pedal',
+        model: 'Chain-drive double pedal + Pearl H-2000 hi-hat stand + Pearl D-2000 Roadster throne',
+        specs: 'Axis A Longboard double pedal, Pearl H-2000 hi-hat stand, Pearl D-2000 Roadster throne',
         originalPrice: 480,
         year: 1998,
-        source: 'Pearl hardware catalog pricing 1998',
-        notes: "The Eliminator's smooth chain-drive response handled Perseverance's sustained double bass passages, most notably the extended runs on \"Spirit Crusher.\"",
+        source: 'Axis Percussion catalog pricing 1998',
+        notes: "The Longboard's direct-drive feel and immediate response handled Perseverance's sustained double bass passages, most notably the extended runs on \"Spirit Crusher.\"",
         vintageValue2026: 320,
         modernEquivalent: {
-          item: 'Pearl Eliminator Redline Double Pedal (Current)',
+          item: 'Axis A Longboard Double Pedal (Current)',
           price: 750,
-          link: 'pearl-eliminator-redline-christy',
+          link: 'axis-a-longboard-christy',
         },
       },
       sticks: {

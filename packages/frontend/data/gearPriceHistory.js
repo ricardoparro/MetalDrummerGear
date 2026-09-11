@@ -2543,7 +2543,7 @@ export const GEAR_PRICE_HISTORY = {
     albumReference: 'Demigod (2004)',
     profileImage: '/images/drummers/inferno.webp',
 
-    summary: "Inferno's extreme black/death metal setup from Behemoth's Demigod era — one of the most technically demanding drum rigs in extreme metal. Built around a Pearl Reference Custom with Meinl Byzance cymbals, this setup supported Inferno's blistering blast-beat work at extreme tempos. The crystal clarity of the Pearl Reference Custom allowed each individual stroke to cut through Behemoth's dense, layered production. Inferno's combination of speed, power, and consistent accuracy across marathon live sets made this kit one of the most respected extreme metal rigs of the 2000s.",
+    summary: "Inferno's extreme black/death metal setup from Behemoth's Demigod era — one of the most technically demanding drum rigs in extreme metal. Built around a Pearl Reference Custom with Paiste RUDE cymbals, this setup supported Inferno's blistering blast-beat work at extreme tempos. The crystal clarity of the Pearl Reference Custom allowed each individual stroke to cut through Behemoth's dense, layered production. Inferno's combination of speed, power, and consistent accuracy across marathon live sets made this kit one of the most respected extreme metal rigs of the 2000s.",
 
     setup: {
       drums: {
@@ -2577,18 +2577,18 @@ export const GEAR_PRICE_HISTORY = {
         },
       },
       cymbals: {
-        item: 'Meinl Byzance Series',
-        model: 'Traditional and Dark mixed setup',
-        specs: '14" Byzance Traditional Hi-Hats, 16" Byzance Dark Crash, 18" Byzance Dark Crash, 20" Byzance Traditional Ride',
+        item: 'Paiste RUDE Series',
+        model: 'Heavy/Power configuration',
+        specs: '14" RUDE Sound Edge Hi-Hats, 16" RUDE Crash, 18" RUDE Crash, 20" RUDE Crash/Ride',
         originalPrice: 700,
         year: 2004,
-        source: 'Meinl Byzance series MSRP 2004, estimated from catalog pricing',
-        notes: 'Meinl Byzance cymbals were chosen for their complex, dark overtones that blend into extreme metal without piercing harshness. The Turkish-hammered B20 bronze gives sustained complexity at blast-beat tempos.',
+        source: 'Paiste RUDE series MSRP 2004, estimated from catalog pricing',
+        notes: 'Paiste RUDE cymbals were chosen for their bright, cutting attack that blends into extreme metal without losing definition. The CuSn8 bronze gives sustained power at blast-beat tempos.',
         vintageValue2026: 800,
         modernEquivalent: {
-          item: 'Meinl Byzance Dark Cymbal Set',
+          item: 'Paiste RUDE Set',
           price: 1400,
-          link: 'meinl-byzance-dark',
+          link: 'paiste-rude-pack',
         },
       },
       hardware: {

@@ -668,14 +668,9 @@ export const CYMBAL_SETUPS = [
   },
   {
     drummerSlug: 'daniel-erlandsson',
-    summary: 'Paiste RUDE & 2002 Series (14" RUDE Hi-Hats, 18" & 19" RUDE Crashes, 22" RUDE Power Ride)',
-    brands: ['Paiste'],
-    pieces: [
-      { type: 'hi-hat', sizeIn: 14, series: 'RUDE', model: 'Hi-Hats' },
-      { type: 'crash', sizeIn: 18, series: 'RUDE', model: 'Crash' },
-      { type: 'crash', sizeIn: 19, series: 'RUDE', model: 'Crash' },
-      { type: 'ride', sizeIn: 22, series: 'RUDE', model: 'Power Ride' },
-    ],
+    summary: 'Sabian AAX & HHX Series',
+    brands: ['Sabian'],
+    pieces: [],
     source: 'roster gear.cymbals (verified: true; sources on the drummer record)',
     retailerUrls: {},
   },

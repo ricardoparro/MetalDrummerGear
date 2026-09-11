@@ -17,7 +17,7 @@ export const articles = {
     "dateModified": "2026-06-27",
     "author": "MetalForge Editorial",
     "title": "Blake Richardson's Drum Setup on Between the Buried and Me's Alaska (2005)",
-    "description": "Blake Richardson's drum kit and gear on BTBAM's breakthrough album Alaska (2005): Tama Starclassic Bubinga drums, Sabian cymbals, Tama Iron Cobra Power Glide double pedal, and the metric modulation approach that defined a new progressive metal voice.",
+    "description": "Blake Richardson's drum kit and gear on BTBAM's breakthrough album Alaska (2005): DW Collector's Series drums, Meinl Byzance Extra Dry cymbals, DW 9002 chain-drive double bass pedal, and the metric modulation approach that defined a new progressive metal voice.",
     "seoKeywords": [
       "alaska drum setup",
       "between the buried and me alaska drums",
@@ -31,24 +31,24 @@ export const articles = {
     "ogImage": "/images/drummers/blake-richardson.webp",
     "intro": {
       "title": "Alaska: The Album That Announced Blake Richardson",
-      "content": "Released in 2005 on Victory Records, Alaska is the Between the Buried and Me album that announced what this band — and this drummer — were capable of. BTBAM had released their self-titled debut in 2002 and The Silent Circus in 2003, but Alaska was the record that fused their hardcore roots with progressive metal ambition at a scale that demanded the genre's attention. Seventy-three minutes of music spanning death metal blast beats, jazz interludes, acoustic passages, and extended compositional arcs — all held together by a drummer who had joined the band in 2004 and was, on this album, staking his claim as one of progressive metal's most important practitioners.\n\nBlake Richardson was 20 years old when Alaska was recorded. His performance across the album's nine tracks reveals a drummer who had already internalized the fundamental creative principle that would define his career: the drums are a compositional instrument, not a timekeeper. Alaska is the earliest document of Richardson's odd-time integration, his metric modulation thinking, and his ability to serve arrangements that move through radically different feels within a single extended track. The technical demands are real, but the musical intelligence behind the technique is what makes Alaska a drumming study rather than merely a technical exercise.\n\nGear-wise, Richardson was operating in what would become the foundational Tama configuration of his career. The Tama Starclassic Bubinga kit — Bubinga shells, precise tolerances, wide dynamic range — gave him the versatile foundation progressive metal requires. Sabian cymbals were already establishing the dark, hand-hammered tonal character that would remain central to his setup across two decades. The Tama Iron Cobra Power Glide double pedal provided the compositional kick framework that drives Alaska's most intense passages.\n\nJamie King — BTBAM's longtime producer, recording at The Basement Studio in Winston-Salem — captured the kit with the clarity and room ambience that suited a 73-minute record built on compositional dynamics. King's approach on Alaska was to serve the music's emotional range: close, tight drum sound for the intense metal passages, more ambient room character for the quiet interludes that precede BTBAM's most dramatic transitions. The result is a drum recording that breathes with the arrangement rather than sitting in a single compressed texture.\n\nThis article breaks down the complete drum setup Blake Richardson used on Alaska, the recording approach Jamie King brought to The Basement Studio, and how Richardson's foundational technique on this 2005 record established the progressive metal voice he would develop across Colors (2007), The Parallax II (2012), and beyond.",
+      "content": "Released in 2005 on Victory Records, Alaska is the Between the Buried and Me album that announced what this band — and this drummer — were capable of. BTBAM had released their self-titled debut in 2002 and The Silent Circus in 2003, but Alaska was the record that fused their hardcore roots with progressive metal ambition at a scale that demanded the genre's attention. Seventy-three minutes of music spanning death metal blast beats, jazz interludes, acoustic passages, and extended compositional arcs — all held together by a drummer who had joined the band in 2004 and was, on this album, staking his claim as one of progressive metal's most important practitioners.\n\nBlake Richardson was 20 years old when Alaska was recorded. His performance across the album's nine tracks reveals a drummer who had already internalized the fundamental creative principle that would define his career: the drums are a compositional instrument, not a timekeeper. Alaska is the earliest document of Richardson's odd-time integration, his metric modulation thinking, and his ability to serve arrangements that move through radically different feels within a single extended track. The technical demands are real, but the musical intelligence behind the technique is what makes Alaska a drumming study rather than merely a technical exercise.\n\nGear-wise, Richardson was operating in what would become the foundational DW configuration of his career. The DW Collector's Series kit — all-maple shells, precise tolerances, wide dynamic range — gave him the versatile foundation progressive metal requires. Meinl Byzance Extra Dry cymbals were already establishing the dark, hand-hammered tonal character that would anchor his setup through the Colors and Parallax eras. The DW 9002 chain-drive double bass pedal provided the compositional kick framework that drives Alaska's most intense passages.\n\nJamie King — BTBAM's longtime producer, recording at The Basement Studio in Winston-Salem — captured the kit with the clarity and room ambience that suited a 73-minute record built on compositional dynamics. King's approach on Alaska was to serve the music's emotional range: close, tight drum sound for the intense metal passages, more ambient room character for the quiet interludes that precede BTBAM's most dramatic transitions. The result is a drum recording that breathes with the arrangement rather than sitting in a single compressed texture.\n\nThis article breaks down the complete drum setup Blake Richardson used on Alaska, the recording approach Jamie King brought to The Basement Studio, and how Richardson's foundational technique on this 2005 record established the progressive metal voice he would develop across Colors (2007), The Parallax II (2012), and beyond.",
       "keyPoints": [
         "BTBAM's breakthrough album — 73 minutes of progressive metal spanning death metal, jazz, and ambient textures",
-        "Blake Richardson's foundational Tama Starclassic Bubinga configuration — the setup that became the Colors era foundation",
-        "Sabian Extra Dry cymbals — dark, hand-hammered character established as the BTBAM cymbal voice",
-        "Tama Iron Cobra Power Glide double pedal for compositional double-kick deployment across BTBAM's most intense passages",
-        "Produced by Jamie King at The Basement Studio, Winston-Salem — Richardson's home studio for two decades",
+        "Blake Richardson's foundational DW Collector's Series configuration — the setup that became the Colors era foundation",
+        "Meinl Byzance Extra Dry cymbals — dark, hand-hammered character established as the BTBAM cymbal voice",
+        "DW 9002 chain-drive double bass pedal for compositional double-kick deployment across BTBAM's most intense passages",
+        "Produced by Jamie King at The Basement Studio, Winston-Salem — Richardson's home studio across the DW/Meinl era",
         "Richardson's earliest documented metric modulation and odd-time integration at full progressive metal scale"
       ]
     },
     "drumKit": {
-      "title": "Tama Starclassic Bubinga: The Foundation of BTBAM's Progressive Metal Sound",
-      "brand": "Tama",
-      "model": "Tama Starclassic Bubinga",
+      "title": "DW Collector's Series: The Foundation of BTBAM's Progressive Metal Sound",
+      "brand": "DW",
+      "model": "DW Collector's Series",
       "finish": "Custom lacquer finish",
       "config": {
         "bassdrums": [
-          "22\" x 18\" Bass Drum (double bass configuration via Tama Iron Cobra pedal)"
+          "22\" x 18\" Bass Drum (double bass configuration via DW 9002 pedal)"
         ],
         "toms": [
           "10\" x 8\" Rack Tom",
@@ -58,77 +58,77 @@ export const articles = {
         "floorToms": [
           "16\" x 14\" Floor Tom"
         ],
-        "shells": "Bubinga shells — tight, punchy tone suited to progressive metal's full spectrum"
+        "shells": "All-maple shells — warm, resonant tone suited to progressive metal's full spectrum"
       },
-      "description": "Blake Richardson's Tama Starclassic Bubinga kit on Alaska was the foundational configuration that would anchor BTBAM's sound through the Colors era (2007) and beyond. Tama's Starclassic Bubinga uses African Bubinga shell construction — a material choice that delivers warmth, resonance, and a midrange character well-suited to progressive metal's dynamic requirements. Where harder shells (birch, maple with reinforcement rings) emphasize attack and cutting power, the Starclassic Bubinga produces a fuller fundamental tone that carries through both intimate acoustic passages and dense metal arrangements.\n\nThe single bass drum configuration — a 22\"x18\" kick driven by the Tama Iron Cobra Power Glide double pedal rather than two separate drums — was Richardson's approach on Alaska. This allows a single-kick fundamental while maintaining full double-bass capability: the Iron Cobra's two-pedal mechanism drives the same head with independent beaters, creating the double-kick patterns that underpin Alaska's most intense passages without the setup complexity of a true two-bass configuration. This approach was consistent with Richardson's compositional philosophy: double-bass as a tool deployed contextually rather than as a constant running eighth-note foundation.\n\nThree rack toms (10\", 12\", 13\") and one floor tom (16\") give Richardson the wide tonal range his fill architecture demands. On Alaska, tom fills function compositionally: they mark section boundaries, prepare genre transitions, and carry melodic intervals that echo the guitar arrangements. The Starclassic Bubinga's warm fundamental makes these melodic fill sequences sound musical rather than purely rhythmic. Jamie King's production at The Basement captured the toms with enough ambient room character to let the natural shell decay function as a compositional element during quieter passages.\n\nThe Bubinga Starclassic shells also provided durability for the intensive touring cycle that followed Alaska's release. BTBAM was an active touring band through 2005-2006, and the kit needed to perform consistently across club stages and festival venues at varied humidity levels. Tama's shell construction and hardware tolerances were built for exactly this kind of professional touring demand.",
+      "description": "Blake Richardson's DW Collector's Series kit on Alaska was the foundational configuration that would anchor BTBAM's sound through the Colors era (2007) and beyond. DW's Collector's Series uses all-maple shell construction — a material choice that delivers warmth, resonance, and a midrange character well-suited to progressive metal's dynamic requirements. Where harder shells (birch, maple with reinforcement rings) emphasize attack and cutting power, the Collector's Series all-maple build produces a fuller fundamental tone that carries through both intimate acoustic passages and dense metal arrangements.\n\nThe single bass drum configuration — a 22\"x18\" kick driven by the DW 9002 chain-drive double bass pedal rather than two separate drums — was Richardson's approach on Alaska. This allows a single-kick fundamental while maintaining full double-bass capability: the 9002's two-pedal mechanism drives the same head with independent beaters, creating the double-kick patterns that underpin Alaska's most intense passages without the setup complexity of a true two-bass configuration. This approach was consistent with Richardson's compositional philosophy: double-bass as a tool deployed contextually rather than as a constant running eighth-note foundation.\n\nThree rack toms (10\", 12\", 13\") and one floor tom (16\") give Richardson the wide tonal range his fill architecture demands. On Alaska, tom fills function compositionally: they mark section boundaries, prepare genre transitions, and carry melodic intervals that echo the guitar arrangements. The Collector's Series' warm fundamental makes these melodic fill sequences sound musical rather than purely rhythmic. Jamie King's production at The Basement captured the toms with enough ambient room character to let the natural shell decay function as a compositional element during quieter passages.\n\nThe all-maple Collector's Series shells also provided durability for the intensive touring cycle that followed Alaska's release. BTBAM was an active touring band through 2005-2006, and the kit needed to perform consistently across club stages and festival venues at varied humidity levels. DW's shell construction and hardware tolerances were built for exactly this kind of professional touring demand.",
       "notes": [
-        "Tama Starclassic Bubinga — Bubinga shells for tight, punchy progressive metal tone across Alaska's dynamic range",
-        "Single 22\"x18\" bass drum with Tama Iron Cobra Power Glide double pedal — compositional double-bass without two-drum complexity",
+        "DW Collector's Series — all-maple shells for warm, resonant progressive metal tone across Alaska's dynamic range",
+        "Single 22\"x18\" bass drum with DW 9002 chain-drive double bass pedal — compositional double-bass without two-drum complexity",
         "Three rack toms (10\", 12\", 13\") for melodic fill sequences marking BTBAM's genre transitions",
         "Jamie King's Basement Studio production captured natural shell decay as compositional element",
-        "Setup established the Tama foundation that continued through Colors (2007) and Parallax eras"
+        "Setup established the DW foundation that continued through Colors (2007) and Parallax eras"
       ],
-      "estimatedValue": "$3,500–6,000 (Tama Starclassic Bubinga shell pack, 2005 configuration)"
+      "estimatedValue": "$3,500–6,000 (DW Collector's Series shell pack, 2005 configuration)"
     },
     "snare": {
-      "title": "Tama STARPHONIC Brass: Versatility Across Alaska's Dynamic Range",
-      "brand": "Tama",
-      "model": "Tama STARPHONIC Brass Snare",
+      "title": "DW Collector's Series Maple: Versatility Across Alaska's Dynamic Range",
+      "brand": "DW",
+      "model": "DW Collector's Series Maple Snare",
       "size": "14\" x 6.5\"",
-      "shell": "Brass",
-      "description": "Richardson's primary snare on Alaska was a Tama STARPHONIC brass snare — the same model that would remain his studio and touring snare through the Colors and Parallax eras. The 14\"x6.5\" brass configuration delivers a bright, cutting crack that sits well in BTBAM's dense production: not as bright and cutting as a steel snare, not as focused and dry as a brass snare, but full and warm with enough presence to drive both blast beat passages and restrained groove sections without requiring different snares for different musical contexts.\n\nAlaska demands extraordinary snare versatility. The album moves within single tracks from extreme metal passages (where the snare needs to drive hard at full velocity) to jazz-inflected interludes (where ghost notes and cross-stick techniques require sensitivity and warmth at low velocities). The Tama STARPHONIC brass provides this versatility: tuned at medium tension, it delivers both the crack needed for intense sections and the tonal warmth required for quieter passages. The 6.5\" depth gives each stroke more body than a shallower shell, ensuring the snare maintains authority even during the album's most densely arranged moments.\n\nThe brass shell's ghost note definition is critical to Richardson's technique. His hi-hat and ghost note work — which appears throughout Alaska's more progressive passages — requires a snare that speaks clearly at low velocities without disappearing into the kit. The Tama STARPHONIC brass's warm midrange allows ghost notes to read as part of the rhythmic texture rather than as random noise beneath louder strokes.\n\nJamie King's snare capture at The Basement Studio typically combined a close SM57 with room character pulled from the overhead and room mics — giving the snare the natural body of the brass shell without artificial compression that would undermine Richardson's dynamic range.",
+      "shell": "Maple",
+      "description": "Richardson's primary snare on Alaska was a DW Collector's Series maple snare — the same model that would remain his studio and touring snare through the Colors and Parallax eras. The 14\"x6.5\" maple configuration delivers a warm, articulate crack that sits well in BTBAM's dense production: full-bodied with enough presence to drive both blast beat passages and restrained groove sections without requiring different snares for different musical contexts.\n\nAlaska demands extraordinary snare versatility. The album moves within single tracks from extreme metal passages (where the snare needs to drive hard at full velocity) to jazz-inflected interludes (where ghost notes and cross-stick techniques require sensitivity and warmth at low velocities). The DW Collector's Series maple snare provides this versatility: tuned at medium tension, it delivers both the crack needed for intense sections and the tonal warmth required for quieter passages. The 6.5\" depth gives each stroke more body than a shallower shell, ensuring the snare maintains authority even during the album's most densely arranged moments.\n\nThe maple shell's ghost note definition is critical to Richardson's technique. His hi-hat and ghost note work — which appears throughout Alaska's more progressive passages — requires a snare that speaks clearly at low velocities without disappearing into the kit. The DW Collector's Series maple snare's warm midrange allows ghost notes to read as part of the rhythmic texture rather than as random noise beneath louder strokes.\n\nJamie King's snare capture at The Basement Studio typically combined a close SM57 with room character pulled from the overhead and room mics — giving the snare the natural body of the maple shell without artificial compression that would undermine Richardson's dynamic range.",
       "tuningSetting": "Medium tension — full body for intense sections, warm responsiveness for ghost note work across Alaska's dynamic spectrum",
       "heads": "Remo Ambassador Coated (batter), Remo Hazy Snare Side (resonant)",
-      "estimatedValue": "$400–700 (Tama STARPHONIC brass snare, 2005 configuration)"
+      "estimatedValue": "$400–700 (DW Collector's Series maple snare, 2005 configuration)"
     },
     "cymbals": {
-      "title": "Sabian: Dark, Hand-Hammered, Progressive",
-      "brand": "Sabian",
-      "series": "Sabian AAX Series",
+      "title": "Meinl Byzance Extra Dry: Dark, Hand-Hammered, Progressive",
+      "brand": "Meinl",
+      "series": "Meinl Byzance Extra Dry Series",
       "setup": [
         {
           "type": "Hi-Hats",
-          "model": "Sabian 14\" Extra Dry Hi-Hats",
+          "model": "Meinl Byzance Extra Dry 14\" Hi-Hats",
           "position": "Left side",
           "notes": "Dry, controlled hi-hat voice for articulate sixteenth-note patterns in BTBAM's densest rhythmic passages"
         },
         {
           "type": "Crash",
-          "model": "Sabian Extra Dry 17\" Thin Crash",
+          "model": "Meinl Byzance Extra Dry 17\" Thin Crash",
           "position": "Left crash",
           "notes": "Fast, focused crash for accent punctuation in Alaska's intense progressive metal sections"
         },
         {
           "type": "Crash",
-          "model": "Sabian Extra Dry 18\" Thin Crash",
+          "model": "Meinl Byzance Extra Dry 18\" Thin Crash",
           "position": "Right crash",
           "notes": "Slightly fuller crash voice for larger section accents and explosive transition moments"
         },
         {
           "type": "Ride",
-          "model": "Sabian Extra Dry 20\" Ride",
+          "model": "Meinl Byzance Extra Dry 20\" Ride",
           "position": "Far right",
           "notes": "Dry, controlled ride — minimal wash for clean articulation in complex odd-time passages"
         },
         {
           "type": "China",
-          "model": "Sabian 18\" China",
+          "model": "Meinl Byzance Extra Dry 18\" China",
           "position": "Over rack toms",
           "notes": "Aggressive, upward-projecting accent for BTBAM's most extreme metal moments on Alaska"
         }
       ],
-      "description": "Blake Richardson's Sabian setup on Alaska established the dark, hand-hammered cymbal voice that would define BTBAM's sound across the band's progressive metal catalog. The Sabian line — Sabian's top-tier Turkish-style hand-hammered series — produces complex, warm overtones that machine-made cymbals cannot replicate. For a 73-minute album that moves through extreme metal, jazz, ambient passages, and progressive rock within single tracks, this tonal complexity is not decoration; it is functional.\n\nThe Extra Dry sub-series was Richardson's primary Sabian choice on Alaska. The Extra Dry process — additional lathing and hammering that removes excess wash and tightens the decay — produces cymbals that speak precisely under hard strokes and respond clearly at ghost-note velocities without sustaining into the next note. For BTBAM's rhythmically dense progressive metal passages, this controlled decay is critical: a washy cymbal obscures the metric modulations Richardson is executing, while an Extra Dry voice keeps each stroke's beginning and end clearly defined.\n\nThe 14\" Extra Dry Hi-Hats anchor Richardson's rhythmic vocabulary. His hi-hat work on Alaska is already demonstrating the jazz influence that would become central to his BTBAM identity: dense sixteenth-note ghost note patterns, frequent hi-hat foot independence as a melodic voice, and transitions between open and closed positions that create rhythmic texture beyond a simple timekeeping function. The Extra Dry character gives these demanding hi-hat patterns clarity without harshness.\n\nThe dual-crash configuration (17\" and 18\" Extra Dry Thin Crashes) gives Richardson two differentiated accent voices: a faster, more focused crash for quick accents in technical passages, and a slightly fuller voice for larger structural accents at section peaks. The Extra Dry Ride provides clean articulation through complex rhythmic passages where a washy ride would blur Richardson's odd-time patterns.\n\nThe Sabian China completes the setup as an aggressive accent tool for Alaska's most intense death metal passages. Used selectively — as punctuation rather than as a constant voice — the China delivers the upward-projecting attack that marks BTBAM's most extreme metal moments with appropriate aggression. The philosophy across the entire Sabian setup is the same: every cymbal exists to serve a specific musical function in BTBAM's range-spanning arrangements.",
-      "estimatedValue": "$2,000–3,500 (Sabian AAX setup, 2005 configuration)"
+      "description": "Blake Richardson's Meinl Byzance Extra Dry setup on Alaska established the dark, hand-hammered cymbal voice that would define BTBAM's sound across the band's progressive metal catalog. The Byzance line — Meinl's top-tier Turkish-style hand-hammered series — produces complex, warm overtones that machine-made cymbals cannot replicate. For a 73-minute album that moves through extreme metal, jazz, ambient passages, and progressive rock within single tracks, this tonal complexity is not decoration; it is functional.\n\nThe Extra Dry sub-series was Richardson's primary Meinl choice on Alaska. The Extra Dry process — additional lathing and hammering that removes excess wash and tightens the decay — produces cymbals that speak precisely under hard strokes and respond clearly at ghost-note velocities without sustaining into the next note. For BTBAM's rhythmically dense progressive metal passages, this controlled decay is critical: a washy cymbal obscures the metric modulations Richardson is executing, while an Extra Dry voice keeps each stroke's beginning and end clearly defined.\n\nThe 14\" Extra Dry Hi-Hats anchor Richardson's rhythmic vocabulary. His hi-hat work on Alaska is already demonstrating the jazz influence that would become central to his BTBAM identity: dense sixteenth-note ghost note patterns, frequent hi-hat foot independence as a melodic voice, and transitions between open and closed positions that create rhythmic texture beyond a simple timekeeping function. The Extra Dry character gives these demanding hi-hat patterns clarity without harshness.\n\nThe dual-crash configuration (17\" and 18\" Extra Dry Thin Crashes) gives Richardson two differentiated accent voices: a faster, more focused crash for quick accents in technical passages, and a slightly fuller voice for larger structural accents at section peaks. The Extra Dry Ride provides clean articulation through complex rhythmic passages where a washy ride would blur Richardson's odd-time patterns.\n\nThe Meinl Byzance Extra Dry China completes the setup as an aggressive accent tool for Alaska's most intense death metal passages. Used selectively — as punctuation rather than as a constant voice — the China delivers the upward-projecting attack that marks BTBAM's most extreme metal moments with appropriate aggression. The philosophy across the entire Meinl setup is the same: every cymbal exists to serve a specific musical function in BTBAM's range-spanning arrangements.",
+      "estimatedValue": "$2,000–3,500 (Meinl Byzance Extra Dry setup, 2005 configuration)"
     },
     "hardware": {
-      "title": "Tama Iron Cobra and Vic Firth 5B: The Foundation of Richardson's Technique",
+      "title": "DW 9002 and Vic Firth 5B: The Foundation of Richardson's Technique",
       "items": [
         {
           "type": "Bass Drum Pedals",
-          "brand": "Tama",
-          "model": "Tama Iron Cobra Power Glide Double Pedal",
+          "brand": "DW",
+          "model": "DW 9002 Chain-Drive Double Bass Pedal",
           "notes": "Chain-drive double pedal driving a single 22\" bass drum — Richardson's compositional double-kick tool",
-          "description": "The Tama Iron Cobra Power Glide double pedal drives Richardson's single-kick double-bass configuration on Alaska. The Iron Cobra's chain-drive mechanism and adjustable cam deliver precise control over the power curve and return speed that Richardson's compositional kick approach requires — the ability to vary density from sparse single-strokes through dense double-bass runs within the same track. On Alaska's most intense passages, the Iron Cobra provides the consistent mechanical response for fast, even double-bass patterns. On quieter sections, the same pedal's adjustability allows restrained single-foot techniques without switching hardware."
+          "description": "The DW 9002 chain-drive double bass pedal drives Richardson's single-kick double-bass configuration on Alaska. The 9002's chain-drive mechanism and adjustable cam deliver precise control over the power curve and return speed that Richardson's compositional kick approach requires — the ability to vary density from sparse single-strokes through dense double-bass runs within the same track. On Alaska's most intense passages, the 9002 provides the consistent mechanical response for fast, even double-bass patterns. On quieter sections, the same pedal's adjustability allows restrained single-foot techniques without switching hardware."
         },
         {
           "type": "Sticks",
@@ -159,11 +159,11 @@ export const articles = {
     "faq": [
       {
         "question": "What drums did Blake Richardson use on Between the Buried and Me's Alaska?",
-        "answer": "Blake Richardson played a Tama Starclassic Bubinga kit on Alaska (2005) — BTBAM's breakthrough record. The Tama Starclassic Bubinga uses African Bubinga shells, delivering the warm, resonant tone that suited BTBAM's 73-minute progressive metal record spanning death metal, jazz, and ambient textures. The configuration featured a single 22\"x18\" bass drum driven by a Tama Iron Cobra Power Glide double pedal, three rack toms (10\", 12\", 13\"), and a 16\" floor tom. Full drummer profile at [Blake Richardson at MetalForge](/drummer/blake-richardson)."
+        "answer": "Blake Richardson played a DW Collector's Series kit on Alaska (2005) — BTBAM's breakthrough record. The DW Collector's Series uses all-maple shells, delivering the warm, resonant tone that suited BTBAM's 73-minute progressive metal record spanning death metal, jazz, and ambient textures. The configuration featured a single 22\"x18\" bass drum driven by a DW 9002 chain-drive double bass pedal, three rack toms (10\", 12\", 13\"), and a 16\" floor tom. Full drummer profile at [Blake Richardson at MetalForge](/drummer/blake-richardson)."
       },
       {
         "question": "What cymbals does Blake Richardson use on Alaska?",
-        "answer": "Blake Richardson used Sabian Extra Dry cymbals on Alaska (2005). The Extra Dry series — with controlled decay, minimal wash, and dry, focused attack — suited BTBAM's compositionally dense progressive metal arrangements where clean articulation in complex rhythmic passages was essential. His Alaska setup included 14\" Extra Dry Hi-Hats, 17\" and 18\" Extra Dry Thin Crashes, 20\" Extra Dry Ride, and an 18\" Sabian China for aggressive accent accents."
+        "answer": "Blake Richardson used Meinl Byzance Extra Dry cymbals on Alaska (2005). The Extra Dry series — with controlled decay, minimal wash, and dry, focused attack — suited BTBAM's compositionally dense progressive metal arrangements where clean articulation in complex rhythmic passages was essential. His Alaska setup included 14\" Extra Dry Hi-Hats, 17\" and 18\" Extra Dry Thin Crashes, 20\" Extra Dry Ride, and an 18\" Meinl Byzance Extra Dry China for aggressive accents."
       },
       {
         "question": "Who produced Between the Buried and Me's Alaska, and where was it recorded?",
@@ -185,7 +185,7 @@ export const articles = {
     ],
     "conclusion": {
       "title": "Alaska: Where the BTBAM Voice Began",
-      "content": "Alaska (2005) is the document that announces what Between the Buried and Me would become. It is the earliest full-scale evidence of Blake Richardson's progressive metal voice: the metric modulation thinking, the compositional double-bass approach, the jazz-informed ghost note vocabulary, and the technical intelligence that serves the music rather than displaying technique.\n\nHis Tama Starclassic Bubinga setup, Sabian Extra Dry cymbals, and Tama Iron Cobra Power Glide double pedal established the gear foundation that would carry him through Colors (2007) and into the Parallax era — the most critically celebrated period in BTBAM's catalog. Alaska is where that foundation was first documented at full progressive metal scale.\n\n- **Full drummer profile**: [Blake Richardson at MetalForge](/drummer/blake-richardson)\n- **Next album**: [The Parallax II: Future Sequence drum setup](/articles/the-parallax-ii-future-sequence-drum-setup)\n- **Career overview**: [Coma Ecliptic drum setup](/articles/coma-ecliptic-drum-setup)"
+      "content": "Alaska (2005) is the document that announces what Between the Buried and Me would become. It is the earliest full-scale evidence of Blake Richardson's progressive metal voice: the metric modulation thinking, the compositional double-bass approach, the jazz-informed ghost note vocabulary, and the technical intelligence that serves the music rather than displaying technique.\n\nHis DW Collector's Series setup, Meinl Byzance Extra Dry cymbals, and DW 9002 chain-drive double bass pedal established the gear foundation that would carry him through Colors (2007) and into the Parallax era — the most critically celebrated period in BTBAM's catalog. Alaska is where that foundation was first documented at full progressive metal scale.\n\n- **Full drummer profile**: [Blake Richardson at MetalForge](/drummer/blake-richardson)\n- **Next album**: [The Parallax II: Future Sequence drum setup](/articles/the-parallax-ii-future-sequence-drum-setup)\n- **Career overview**: [Coma Ecliptic drum setup](/articles/coma-ecliptic-drum-setup)"
     }
   },
   "the-parallax-ii-future-sequence-drum-setup": {
@@ -404,7 +404,7 @@ export const articles = {
     "dateModified": "2026-06-27",
     "author": "MetalForge Editorial",
     "title": "Blake Richardson's Drum Setup on Between the Buried and Me's Coma Ecliptic (2015)",
-    "description": "Blake Richardson's drum kit and gear on BTBAM's Coma Ecliptic (2015): Tama Starclassic Bubinga drums, Sabian cymbals, and the narrative rock opera performance that charted in the UK and hit #1 on the iTunes Rock chart.",
+    "description": "Blake Richardson's drum kit and gear on BTBAM's Coma Ecliptic (2015): DW Collector's Series drums, Meinl Byzance Extra Dry cymbals, and the narrative rock opera performance that charted in the UK and hit #1 on the iTunes Rock chart.",
     "seoKeywords": [
       "coma ecliptic drum setup",
       "between the buried and me coma ecliptic drums",
@@ -418,24 +418,24 @@ export const articles = {
     "ogImage": "/images/drummers/blake-richardson.webp",
     "intro": {
       "title": "Coma Ecliptic: Richardson as Storytelling Drummer",
-      "content": "Released July 17, 2015 on Metal Blade Records, Coma Ecliptic is Between the Buried and Me's most commercially visible record — a rock opera concept album that charted in the UK, hit #1 on the iTunes Rock chart, and reached the Billboard 200. The album followed The Parallax II: Future Sequence (2012) with a different creative intention: where The Parallax II was BTBAM's most extreme and technically demanding record, Coma Ecliptic leaned further into progressive rock textures, narrative storytelling, and melodic accessibility. Narrated by James LaBrie of Dream Theater, the album traces a protagonist through a series of coma-dream visions, each track a different chapter in a linear concept.\n\nBlake Richardson's drumming on Coma Ecliptic is the performance of a player who has fully internalized the technical tools he had been building since Alaska (2005) and now deploys them in service of a more overtly narrative-driven musical context. The odd-time signatures and metric modulations are still present — this is still BTBAM — but they are used more transparently as storytelling devices: time signature changes that accompany emotional state changes in the narrative, dynamic swells that mark dramatic turning points in the story, and restraint that serves the song's emotional arc rather than demonstrating range. It is Richardson's most musically mature performance, even if it is not his most technically demanding.\n\nThe gear on Coma Ecliptic represents a continuation and refinement of the Tama Starclassic Bubinga configuration that Richardson had used on Alaska through The Parallax II. The core setup remained consistent — Tama drums, Sabian cymbals, Tama Iron Cobra Power Glide double pedal — with the tuning, head selection, and setup optimized for an album that sat more in a progressive rock production context than previous records. Jamie King's production at The Basement Studio gave the drums a warmer, more open character on Coma Ecliptic compared to The Parallax II's denser sound.\n\nThis article covers the complete drum setup Blake Richardson used on Coma Ecliptic, the storytelling role drums play in a narrative rock opera context, and how this 2015 record fits in BTBAM's arc between The Parallax II and Automata I & II (2018).",
+      "content": "Released July 17, 2015 on Metal Blade Records, Coma Ecliptic is Between the Buried and Me's most commercially visible record — a rock opera concept album that charted in the UK, hit #1 on the iTunes Rock chart, and reached the Billboard 200. The album followed The Parallax II: Future Sequence (2012) with a different creative intention: where The Parallax II was BTBAM's most extreme and technically demanding record, Coma Ecliptic leaned further into progressive rock textures, narrative storytelling, and melodic accessibility. Narrated by James LaBrie of Dream Theater, the album traces a protagonist through a series of coma-dream visions, each track a different chapter in a linear concept.\n\nBlake Richardson's drumming on Coma Ecliptic is the performance of a player who has fully internalized the technical tools he had been building since Alaska (2005) and now deploys them in service of a more overtly narrative-driven musical context. The odd-time signatures and metric modulations are still present — this is still BTBAM — but they are used more transparently as storytelling devices: time signature changes that accompany emotional state changes in the narrative, dynamic swells that mark dramatic turning points in the story, and restraint that serves the song's emotional arc rather than demonstrating range. It is Richardson's most musically mature performance, even if it is not his most technically demanding.\n\nThe gear on Coma Ecliptic represents a continuation and refinement of the DW Collector's Series configuration that Richardson had used on Alaska through The Parallax II. The core setup remained consistent — DW drums, Meinl Byzance Extra Dry cymbals, DW 9002 chain-drive double bass pedal — with the tuning, head selection, and setup optimized for an album that sat more in a progressive rock production context than previous records. Jamie King's production at The Basement Studio gave the drums a warmer, more open character on Coma Ecliptic compared to The Parallax II's denser sound.\n\nThis article covers the complete drum setup Blake Richardson used on Coma Ecliptic, the storytelling role drums play in a narrative rock opera context, and how this 2015 record fits in BTBAM's arc between The Parallax II and Automata I & II (2018) — the album cycle after which Richardson's gear would switch to Tama and Sabian.",
       "keyPoints": [
         "Charted in the UK and hit #1 iTunes Rock chart — BTBAM's most commercially visible album",
         "Rock opera narrated by James LaBrie (Dream Theater) — Richardson's most narrative-driven recorded performance",
-        "Tama Starclassic Bubinga continuing as the kit foundation — warm, versatile setup suited to progressive rock textures",
-        "Sabian Dark and Extra Dry — full dual-series setup from The Parallax II era maintained",
+        "DW Collector's Series continuing as the kit foundation — warm, versatile setup suited to progressive rock textures",
+        "Meinl Byzance Extra Dry — the dark, hand-hammered voice carried over from The Parallax II era",
         "Jamie King production at The Basement Studio — warmer, more open character than The Parallax II's density",
         "Rhythmic restraint as mature artistic choice — technique in service of storytelling over technical display"
       ]
     },
     "drumKit": {
-      "title": "Tama Starclassic Bubinga: Warmth for a Rock Opera",
-      "brand": "Tama",
-      "model": "Tama Starclassic Bubinga",
+      "title": "DW Collector's Series: Warmth for a Rock Opera",
+      "brand": "DW",
+      "model": "DW Collector's Series",
       "finish": "Custom lacquer finish, mature touring configuration",
       "config": {
         "bassdrums": [
-          "22\" x 18\" Bass Drum (double bass via Tama Iron Cobra pedal)"
+          "22\" x 18\" Bass Drum (double bass via DW 9002 pedal)"
         ],
         "toms": [
           "10\" x 8\" Rack Tom",
@@ -445,83 +445,83 @@ export const articles = {
         "floorToms": [
           "16\" x 14\" Floor Tom"
         ],
-        "shells": "African Bubinga — warm, resonant tone suited to Coma Ecliptic's progressive rock character"
+        "shells": "All-maple — warm, resonant tone suited to Coma Ecliptic's progressive rock character"
       },
-      "description": "The Tama Starclassic Bubinga kit that Richardson used on Coma Ecliptic was the most fully evolved version of the Tama configuration he had established on Alaska (2005). By 2015, after a decade of touring and recording on this kit, every head choice, tuning preference, and hardware setting was precisely calibrated to serve Richardson's technique and BTBAM's musical requirements. The Bubinga fundamental suited Coma Ecliptic's progressive rock-leaning production particularly well: the kit sounded full and resonant across the album's melodically rich arrangements without the aggressive attack character that would suit a more extreme metal record.\n\nJamie King's Basement Studio production on Coma Ecliptic gave the Tama Starclassic Bubinga more room to breathe than it had on The Parallax II — a production choice that reflected the album's more open, accessible musical direction. The bass drum sits with less density than on the Parallax record; the toms have more natural decay; the overall drum sound is warmer and more present rather than dense and driving. For a rock opera where the drums are telling a story rather than demonstrating extremes, this production approach was precisely correct.\n\nThe three-rack-tom layout (10\", 12\", 13\") continued to serve Richardson's melodic fill approach. On Coma Ecliptic, tom fills function as emotional punctuation in the narrative: a descending fill marking a story's low point, an ascending fill building toward a climax, a held cymbal note sustaining through a dramatic pause. The Starclassic Bubinga's warm fundamental makes these narrative fill patterns sing as musical statements rather than technical displays. See the [Blake Richardson drummer profile](/drummer/blake-richardson) for how this storytelling approach developed across his career.\n\nComa Ecliptic also marked a period where Richardson was exploring the balance between the Tama setup that had defined his sound and the Pearl Reference Pure that would become central to the Automata era (2018). The Tama foundation remained primary for this album, but the broader gear evolution was underway.",
+      "description": "The DW Collector's Series kit that Richardson used on Coma Ecliptic was the most fully evolved version of the DW configuration he had established on Alaska (2005). By 2015, after a decade of touring and recording on this kit, every head choice, tuning preference, and hardware setting was precisely calibrated to serve Richardson's technique and BTBAM's musical requirements. The all-maple fundamental suited Coma Ecliptic's progressive rock-leaning production particularly well: the kit sounded full and resonant across the album's melodically rich arrangements without the aggressive attack character that would suit a more extreme metal record.\n\nJamie King's Basement Studio production on Coma Ecliptic gave the DW Collector's Series more room to breathe than it had on The Parallax II — a production choice that reflected the album's more open, accessible musical direction. The bass drum sits with less density than on the Parallax record; the toms have more natural decay; the overall drum sound is warmer and more present rather than dense and driving. For a rock opera where the drums are telling a story rather than demonstrating extremes, this production approach was precisely correct.\n\nThe three-rack-tom layout (10\", 12\", 13\") continued to serve Richardson's melodic fill approach. On Coma Ecliptic, tom fills function as emotional punctuation in the narrative: a descending fill marking a story's low point, an ascending fill building toward a climax, a held cymbal note sustaining through a dramatic pause. The Collector's Series' warm fundamental makes these narrative fill patterns sing as musical statements rather than technical displays. See the [Blake Richardson drummer profile](/drummer/blake-richardson) for how this storytelling approach developed across his career.\n\nComa Ecliptic was the last studio album on this DW/Meinl foundation before Richardson's gear switched to Tama and Sabian for the Automata era (2018).",
       "notes": [
-        "Tama Starclassic Bubinga at its most mature — 10+ years of refinement from Alaska (2005)",
+        "DW Collector's Series at its most mature — 10+ years of refinement from Alaska (2005)",
         "Jamie King Basement Studio production is warmer, more open than The Parallax II — suits rock opera context",
         "Three rack toms (10\", 12\", 13\") for narrative fill patterns that punctuate Coma Ecliptic's storytelling arc",
-        "Bubinga fundamental suits Coma Ecliptic's progressive rock melodic character",
-        "Transitional period in Richardson's career — Tama era mature, Pearl Reference Pure era approaching"
+        "All-maple fundamental suits Coma Ecliptic's progressive rock melodic character",
+        "Last album on the DW/Meinl foundation before the 2018 switch to Tama/Sabian for the Automata era"
       ],
-      "estimatedValue": "$3,500–6,000 (Tama Starclassic Bubinga shell pack, 2015 configuration)"
+      "estimatedValue": "$3,500–6,000 (DW Collector's Series shell pack, 2015 configuration)"
     },
     "snare": {
-      "title": "Tama STARPHONIC Brass: Emotional Range for Narrative Drumming",
-      "brand": "Tama",
-      "model": "Tama STARPHONIC Brass Snare",
+      "title": "DW Collector's Series Maple: Emotional Range for Narrative Drumming",
+      "brand": "DW",
+      "model": "DW Collector's Series Maple Snare",
       "size": "14\" x 6.5\"",
-      "shell": "Brass",
-      "description": "Richardson's Tama STARPHONIC brass snare on Coma Ecliptic is the same model that drove The Parallax II and Colors — by 2015 a deeply known and trusted instrument. For a rock opera where the snare must serve narrative emotional arcs rather than simply mark backbeats, the 14\"x6.5\" brass's tonal range is an asset: tuned at medium tension it provides warm, full-bodied authority for the album's most intense moments, and the same tuning allows quiet ghost note work and dynamic restraint during the story's contemplative passages.\n\nComa Ecliptic places different snare demands on Richardson than The Parallax II did. Where The Parallax II required the snare to operate across extreme metal blast beat speeds and jazz-inflected ghost note passages within single tracks, Coma Ecliptic asks the snare to serve a more linear narrative arc — building tension, marking dramatic peaks, and providing restrained texture during quieter storytelling moments. The Tama STARPHONIC brass handles all of these contexts with the same fundamental, giving the album a consistent snare voice that anchors the progressive rock production without feeling either too extreme or too passive.\n\nJamie King's Basement Studio snare capture on Coma Ecliptic emphasizes the natural brass body more than on earlier records — less close-mic density, more room character from the overheads, producing a snare sound that fits the warmer, more open production approach of the rock opera context. The Evans G2 Coated batter continues to provide the two-ply control Richardson's ghost note technique demands.",
+      "shell": "Maple",
+      "description": "Richardson's DW Collector's Series maple snare on Coma Ecliptic is the same model that drove The Parallax II and Colors — by 2015 a deeply known and trusted instrument. For a rock opera where the snare must serve narrative emotional arcs rather than simply mark backbeats, the 14\"x6.5\" maple's tonal range is an asset: tuned at medium tension it provides warm, full-bodied authority for the album's most intense moments, and the same tuning allows quiet ghost note work and dynamic restraint during the story's contemplative passages.\n\nComa Ecliptic places different snare demands on Richardson than The Parallax II did. Where The Parallax II required the snare to operate across extreme metal blast beat speeds and jazz-inflected ghost note passages within single tracks, Coma Ecliptic asks the snare to serve a more linear narrative arc — building tension, marking dramatic peaks, and providing restrained texture during quieter storytelling moments. The DW Collector's Series maple snare handles all of these contexts with the same fundamental, giving the album a consistent snare voice that anchors the progressive rock production without feeling either too extreme or too passive.\n\nJamie King's Basement Studio snare capture on Coma Ecliptic emphasizes the natural maple body more than on earlier records — less close-mic density, more room character from the overheads, producing a snare sound that fits the warmer, more open production approach of the rock opera context. The Evans G2 Coated batter continues to provide the two-ply control Richardson's ghost note technique demands.",
       "tuningSetting": "Medium tension — warm and full-bodied, serving Coma Ecliptic's narrative emotional arc from restraint to intensity",
       "heads": "Evans G2 Coated (batter), Evans Hazy 300 (resonant)",
-      "estimatedValue": "$400–700 (Tama STARPHONIC brass snare)"
+      "estimatedValue": "$400–700 (DW Collector's Series maple snare)"
     },
     "cymbals": {
-      "title": "Sabian Dark and Extra Dry: Storytelling Tonal Vocabulary",
-      "brand": "Sabian",
-      "series": "Sabian Series (HHX Evolution and AAX)",
+      "title": "Meinl Byzance Extra Dry: Storytelling Tonal Vocabulary",
+      "brand": "Meinl",
+      "series": "Meinl Byzance Extra Dry Series",
       "setup": [
         {
           "type": "Hi-Hats",
-          "model": "Sabian 14\" Dark Hi-Hats",
+          "model": "Meinl Byzance Extra Dry 14\" Hi-Hats",
           "position": "Left side",
           "notes": "Dark, complex voice — jazz-inflected hi-hat vocabulary serving Coma Ecliptic's melodic passages"
         },
         {
           "type": "Crash",
-          "model": "Sabian Extra Dry 17\" Thin Crash",
+          "model": "Meinl Byzance Extra Dry 17\" Thin Crash",
           "position": "Left crash",
           "notes": "Fast, focused accent — narrative punctuation for dramatic moment marking in the rock opera structure"
         },
         {
           "type": "Crash",
-          "model": "Sabian 18\" Dark Crash",
+          "model": "Meinl Byzance Extra Dry 18\" Thin Crash",
           "position": "Right crash",
           "notes": "Fuller, warmer sustain — emotional weight for Coma Ecliptic's peak narrative moments"
         },
         {
           "type": "Ride",
-          "model": "Sabian Extra Dry 20\" Ride",
+          "model": "Meinl Byzance Extra Dry 20\" Ride",
           "position": "Far right",
           "notes": "Controlled, minimal wash — clean articulation across Coma Ecliptic's rhythmically sophisticated passages"
         },
         {
           "type": "Splash",
-          "model": "Sabian 10\" Dark Splash",
+          "model": "Meinl Byzance Extra Dry 10\" Splash",
           "position": "Effects position",
-          "notes": "Quick dark accent for rapid narrative transition moments between dream sequences"
+          "notes": "Quick, controlled accent for rapid narrative transition moments between dream sequences"
         },
         {
           "type": "China",
-          "model": "Sabian 18\" China",
+          "model": "Meinl Byzance Extra Dry 18\" China",
           "position": "Over rack toms",
           "notes": "Aggressive accent for Coma Ecliptic's heavier metal moments — used selectively as narrative punctuation"
         }
       ],
-      "description": "Richardson's Sabian cymbal setup on Coma Ecliptic maintained the dual Dark/Extra Dry approach he had used on The Parallax II, adapted to serve the rock opera's more varied narrative emotional register. The Sabian Dark cymbals — with their warm, earthy tones and complex overtone content — are particularly suited to Coma Ecliptic's melodic progressive rock passages, where cymbal character contributes to the album's emotional arc. The 14\" Dark Hi-Hats carry the album's most lyrical passages with the kind of warm shimmer that suits narrative-driven music rather than extreme technical demonstration.\n\nThe dual-series approach (Dark for warmth and complexity, Extra Dry for controlled articulation) gives Richardson two distinct cymbal voices for Coma Ecliptic's narrative structure: Dark cymbals color the album's contemplative and melodic passages, Extra Dry cymbals serve the more intense sections where rhythmic clarity is paramount. The 18\" Dark Crash provides emotional weight during the rock opera's most dramatic moments — a fuller, more sustained accent that carries story-level significance rather than just rhythmic marking.\n\nComa Ecliptic is BTBAM's most prog-rock-leaning full-length to this point in the catalog, and Richardson's Sabian setup serves that direction without modification: the dark, complex hand-hammered character of the Sabian line has always been closer to jazz and progressive rock tonally than to extreme metal, and on Coma Ecliptic that character is an advantage rather than a concession. The cymbals breathe with the arrangements, sustain appropriately during melodic passages, and respond with precision during the album's more intense sections.\n\nFor context on how this cymbal approach serves different musical demands, see [Blake Richardson's complete drummer profile](/drummer/blake-richardson), which covers the full Sabian setup evolution across the Colors, Parallax, Coma Ecliptic, and Automata eras.",
-      "estimatedValue": "$2,500–4,000 (Sabian HHX Evolution and AAX setup, 2015 configuration)"
+      "description": "Richardson's Meinl Byzance Extra Dry cymbal setup on Coma Ecliptic continued the dark, hand-hammered configuration he had used on The Parallax II, adapted to serve the rock opera's more varied narrative emotional register. The Byzance Extra Dry cymbals — with their controlled decay and complex overtone content — are particularly suited to Coma Ecliptic's melodic progressive rock passages, where cymbal character contributes to the album's emotional arc. The 14\" Extra Dry Hi-Hats carry the album's most lyrical passages with the kind of dark shimmer that suits narrative-driven music rather than extreme technical demonstration.\n\nThe Extra Dry series' additional lathing and hammering — which tightens decay and removes excess wash — gives Richardson a consistent cymbal voice for Coma Ecliptic's narrative structure: controlled enough for the album's contemplative and melodic passages, precise enough for the more intense sections where rhythmic clarity is paramount. The 18\" Extra Dry Thin Crash provides emotional weight during the rock opera's most dramatic moments — a fuller, more sustained accent that carries story-level significance rather than just rhythmic marking.\n\nComa Ecliptic is BTBAM's most prog-rock-leaning full-length to this point in the catalog, and Richardson's Meinl setup serves that direction without modification: the dark, complex hand-hammered character of the Byzance line has always been closer to jazz and progressive rock tonally than to extreme metal, and on Coma Ecliptic that character is an advantage rather than a concession. The cymbals breathe with the arrangements, sustain appropriately during melodic passages, and respond with precision during the album's more intense sections.\n\nFor context on how this cymbal approach serves different musical demands, see [Blake Richardson's complete drummer profile](/drummer/blake-richardson), which covers the Meinl Byzance Extra Dry setup carried across the Colors, Parallax, and Coma Ecliptic eras before the 2018 switch to Sabian.",
+      "estimatedValue": "$2,500–4,000 (Meinl Byzance Extra Dry setup, 2015 configuration)"
     },
     "hardware": {
-      "title": "Tama Iron Cobra and Rack System: Foundation for a Narrative Performance",
+      "title": "DW 9002 and Rack System: Foundation for a Narrative Performance",
       "items": [
         {
           "type": "Bass Drum Pedals",
-          "brand": "Tama",
-          "model": "Tama Iron Cobra Power Glide Double Pedal",
+          "brand": "DW",
+          "model": "DW 9002 Chain-Drive Double Bass Pedal",
           "notes": "Chain-drive double pedal — compositional kick control serving Coma Ecliptic's narrative arc",
-          "description": "The Tama Iron Cobra continues as Richardson's kick foundation on Coma Ecliptic — the same pedal used since the Alaska era, now deployed in service of a rock opera where kick density is a storytelling tool rather than a technical demonstration. Coma Ecliptic's production uses the kick drum more dynamically than The Parallax II: quieter passages feature sparse kick deployment that creates narrative tension, while the album's peak intensity sections deploy the Iron Cobra's full double-bass capability to drive dramatic climaxes."
+          "description": "The DW 9002 continues as Richardson's kick foundation on Coma Ecliptic — the same pedal used since the Alaska era, now deployed in service of a rock opera where kick density is a storytelling tool rather than a technical demonstration. Coma Ecliptic's production uses the kick drum more dynamically than The Parallax II: quieter passages feature sparse kick deployment that creates narrative tension, while the album's peak intensity sections deploy the 9002's full double-bass capability to drive dramatic climaxes."
         },
         {
           "type": "Sticks",
@@ -557,11 +557,11 @@ export const articles = {
     "faq": [
       {
         "question": "What drums did Blake Richardson use on Coma Ecliptic?",
-        "answer": "Blake Richardson played a refined Tama Starclassic Bubinga kit on Coma Ecliptic (2015) — the mature evolution of the Tama configuration he had used since Alaska (2005). The African Bubinga shells were well-suited to Coma Ecliptic's progressive rock production, providing warmth and resonance across the album's melodically rich arrangements. Kit configuration: 22\"x18\" bass drum driven by Tama Iron Cobra Power Glide double pedal, three rack toms (10\", 12\", 13\"), and a 16\" floor tom. Full drummer profile at [Blake Richardson at MetalForge](/drummer/blake-richardson)."
+        "answer": "Blake Richardson played a refined DW Collector's Series kit on Coma Ecliptic (2015) — the mature evolution of the DW configuration he had used since Alaska (2005). The all-maple shells were well-suited to Coma Ecliptic's progressive rock production, providing warmth and resonance across the album's melodically rich arrangements. Kit configuration: 22\"x18\" bass drum driven by DW 9002 chain-drive double bass pedal, three rack toms (10\", 12\", 13\"), and a 16\" floor tom. Full drummer profile at [Blake Richardson at MetalForge](/drummer/blake-richardson)."
       },
       {
         "question": "How does Coma Ecliptic differ from The Parallax II in terms of Blake Richardson's drumming?",
-        "answer": "Coma Ecliptic (2015) is Richardson's most narratively-driven performance, while The Parallax II (2012) is his most technically demanding. On Coma Ecliptic — a rock opera narrated by James LaBrie (Dream Theater) — Richardson deploys his technical vocabulary (odd-time signatures, metric modulation, compositional double-bass) in service of storytelling: time signature changes accompany emotional state changes in the narrative, dynamic swells mark dramatic turning points, and restrained passages create tension rather than demonstrate range. The gear is nearly identical (Tama Starclassic Bubinga, Sabian Dark and Extra Dry, Tama Iron Cobra), but Jamie King's Basement Studio production on Coma Ecliptic is warmer and more open, reflecting the album's progressive rock direction. For the full arc, see [The Parallax II drum setup](/articles/the-parallax-ii-future-sequence-drum-setup) and [Alaska drum setup](/articles/alaska-drum-setup)."
+        "answer": "Coma Ecliptic (2015) is Richardson's most narratively-driven performance, while The Parallax II (2012) is his most technically demanding. On Coma Ecliptic — a rock opera narrated by James LaBrie (Dream Theater) — Richardson deploys his technical vocabulary (odd-time signatures, metric modulation, compositional double-bass) in service of storytelling: time signature changes accompany emotional state changes in the narrative, dynamic swells mark dramatic turning points, and restrained passages create tension rather than demonstrate range. The gear is nearly identical (DW Collector's Series, Meinl Byzance Extra Dry, DW 9002), but Jamie King's Basement Studio production on Coma Ecliptic is warmer and more open, reflecting the album's progressive rock direction. For the full arc, see [The Parallax II drum setup](/articles/the-parallax-ii-future-sequence-drum-setup) and [Alaska drum setup](/articles/alaska-drum-setup)."
       },
       {
         "question": "Why did Coma Ecliptic chart commercially when earlier BTBAM albums didn't?",

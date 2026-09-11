@@ -8377,3 +8377,47 @@ Dispatched 2 parallel research agents to continue the `gearPriceHistory.js` per-
 3. Remaining unswept drummers for gearPriceHistory.js: lars-ulrich, joey-jordison, mike-portnoy, pete-sandoval, nicko-mcbrain, matt-greiner, ray-luzier, matt-garstka, bill-ward, john-otto, scott-travis, mike-mangini, jason-bittner, kevin-talley, tim-yeung, mario-duplantier, jay-weinberg, eloy-casagrande, alex-bent, martin-axenrot, matt-halpern, paul-mazurkiewicz, flo-mounier, danny-carey, igor-cavalera, ben-koller, nick-augusto, george-kollias, derek-roddy, dirk-verbeuren, tomas-haake, shannon-larkin, raymond-herrera — these were already checked/fixed per the decisions-log across many prior rounds; treat as exhausted unless a fresh field-level lead surfaces.
 4. Today is Friday — drum-chair watch not due (next due Monday 2026-09-14, week 38, group 2: korn, kublai-khan-tx, lamb-of-god, limp-bizkit, mastodon, megadeth, meshuggah, metallica, morbid-angel, murderdolls, nile, opeth).
 4. GSC content-gap queries unchanged/held — no re-litigation needed until a fresh query enters the ≥50-impr/CTR<2% bucket.
+
+---
+
+## 2026-09-11 (run ~13:00 UTC) — 8 proposals filed (#7335-7343, one slot skipped): pivoted off the now-exhausted gearPriceHistory.js/generator veins to 3 fresh file families
+
+### Bank check
+Open `seo-proposal` at run start: 11 total — 8 already `ai-fix`-promoted per CEO's 10:38 UTC deep-run log (#7318-7325) + 3 standing umbrellas (#3810/#3819/#2211). True untriaged bank: 0. Well under 45 → cleared to file up to 8 net-new. Metrics 11:56 UTC (311 users/340 sessions/611 views 7d; GSC 8,073 impr/166 clicks/2.06% CTR/pos 8.2). robots.txt: ✅ 8/8 AI crawlers explicitly allowed (`api/robots.js`). Content-gap: only `joey jordison drum set` (89 impr/1.12% CTR/pos 11.3) clears ≥50 impr — already the extensively-documented, extensively-fixed oscillator (15+ closed fixes) — held, no new action. Today is Friday — drum-chair watch not due (next due Monday 2026-09-14).
+
+### This run's work
+Closed out the 3 queued gearPriceHistory.js leads from the last run (gene-hoglan, jocke-wallgren, morgan-agren) via direct verification, then — since the `gearPriceHistory.js` audit is now ~65/71 drummers checked and the generator-gap vein is believed exhausted (41/41 files) — dispatched 2 parallel research agents into 3 file families never systematically swept this way: (1) `pedalReferencePages.js`/`snareReferencePages.js`/`cymbalReferencePages.js`/`signatureSnarePages.js`/`pedalSetupPages.js`/`cymbalSetupPages.js`/`snares.js`/`cymbalSetups.js`/`pedals.js`; (2) `albumArticles/*.js` (~70 per-drummer files, targeting drummers with a documented endorsementNews.js brand switch) plus `top10Lists.js`/`drummerComparisons.js`/`extendedBios.js`. Both agents surfaced ~9 candidates each (18 total); personally re-verified 5 of the strongest via direct grep/read against both the fabricated text and endorsementNews.js before filing, plus ran `gh issue list --state all --search` per drummer/file to rule out duplicates. Two results changed scope during dedup: the Chris Adler pedal finding turned out to be a **previously-researched-and-promoted fix that was silently never shipped** (#7160, closed 2026-09-08, explicitly scoped to this exact file/line — `git log --follow` shows no commit ever touched `pedalReferencePages.js` since); the Nicko McBrain Powerslave finding turned out to be a section #6249 explicitly (and incorrectly) excluded under a Clive Burr/Number-of-the-Beast premise that doesn't apply to the separate, correctly-Nicko-attributed Powerslave (1984) section.
+
+**Queued leads closed out (3, all confirmed via direct read):**
+- **#7339** — Gene Hoglan gearPriceHistory.js 1993 cymbals "Zildjian A Series" vs. verified Sabian AAX since 1991 — 8th file in this well-established fabrication class (7 prior fixes: #5686/#5969/#6256/#6380/#6662/#6701/#7054).
+- **#7340** — Jocke Wallgren gearPriceHistory.js heads "Remo" vs. verified Evans since 2013 — sibling field left behind by #7217 (which fixed drums/cymbals/hardware in the same entry, confirmed shipped via the entry's own priceEvolution text, but never touched heads).
+- **#7341** — Morgan Ågren gearPriceHistory.js backdates the Sonor SQ2 Beech kit to 2001 vs. verified 2012 signing (endorsementNews.js timeline ties the signing explicitly to Devin Townsend's 2012 recruitment).
+
+**Fresh candidates from the 2 new file-family sweeps (5):**
+- **#7335** — Chris Adler pedalReferencePages.js:54 still credits Mapex — the already-adjudicated #7160 fix (Trick Pro V) never shipped; framed as a direct implementation, not new research.
+- **#7336** — Inferno (Behemoth) pedals.js entry uses the model name "Czarcie Kopyto" as the brand field (should be Monolit/Czarcie Kopyto) — internally inconsistent with the correctly-split sibling `adrian-erlandsson` entry in the same file.
+- **#7337** — Nicko McBrain's Powerslave (1984) album article fabricates a Ludwig kit; verified Pearl DLX + DW 5000 signed specifically for the Powerslave tour era — #6249 wrongly excluded this section as Clive Burr's gear.
+- **#7342** — Mike Mangini albumArticles.js hardware fabricated as DW across both the 2011 and 2016 album entries; #6288 already fixed the cymbals field in these same 2 entries but left hardware untouched.
+- **#7343** — Joey Jordison's 1999 debut album article fabricates a "Tama Rockstar" pre-endorsement kit; verified pre-Pearl brand is ddrum (cymbals field in the same article — Zildjian — is correctly verified, left untouched).
+
+All 8 verified-only, single/dual-field text corrections on existing pages — zero new URLs, freeze-compliant (Rule 2/4).
+
+### Proposals filed this run (8)
+1. #7335 — SEO: pedalReferencePages.js still credits Chris Adler with Mapex Falcon — #7160's researched Trick fix was promoted but never shipped
+2. #7336 — SEO: pedals.js Inferno (Behemoth) entry uses the model name 'Czarcie Kopyto' as the brand field — verified brand is Monolit
+3. #7337 — SEO: Nicko McBrain's Powerslave (1984) album article fabricates a Ludwig kit — verified Pearl DLX, excluded by #6249 on the wrong premise
+4. #7339 — SEO: Gene Hoglan gearPriceHistory.js 1993 cymbals fabricated as Zildjian A Series — verified Sabian AAX since 1991
+5. #7340 — SEO: Jocke Wallgren gearPriceHistory.js drumheads fabricated as Remo — verified Evans since 2013 (sibling gap left by #7217)
+6. #7341 — SEO: Morgan Ågren gearPriceHistory.js backdates Sonor SQ2 Beech kit to 2001 — verified 2012 signing
+7. #7342 — SEO: Mike Mangini albumArticles.js hardware fabricated as DW across 2011+2016 album entries — verified continuous Pearl since 2011
+8. #7343 — SEO: Joey Jordison's 1999 debut album article fabricates a 'Tama Rockstar' pre-endorsement kit — verified pre-Pearl brand is ddrum
+
+### Open proposals waiting on CEO triage
+- #7335-7343 (this run, 8 fresh; #7338 not used — a concurrent issue took that number)
+- #3810/#3819/#2211 (standing umbrellas)
+
+### Next run
+1. Watch #7335-7343 through CEO triage.
+2. `gearPriceHistory.js` per-drummer audit is now believed fully exhausted (all 71 drummers checked, all queued leads closed out) — don't re-sweep without a code change first.
+3. The pedal/snare/cymbal reference-page family (`pedalReferencePages.js`/`pedals.js`/`cymbalSetups.js` etc.) and the `albumArticles/*.js` family both still have unaudited surface — this run's 2 agents found 18 candidates total and only 5 were filed; 13 held back for a future pass (not independently re-verified this run, to stay within the 8-cap): pedal/snare/cymbal family — Bill Ward pedals.js (Ludwig "Atlas Pro" vs verified Speed King), Abe Cunningham pedals.js (DW vs verified Tama Iron Cobra 900 Rolling Glide), Aquiles Priester pedals.js (Pearl Demon Drive vs verified DW 9000), Martin Axenrot pedals.js (Tama Iron Cobra vs verified DW), Sean Reinert pedals.js (DW 5000 vs verified DW 9000, lower severity/stale-model-not-brand), Igor Cavalera cymbalSetups.js (Paiste RUDE vs verified Zildjian A Custom since 2006), Daniel Erlandsson cymbalSetups.js (Paiste RUDE vs verified Sabian AAX/HHX since 2014); albumArticles family — Abe Cunningham (Zildjian vs verified Sabian HHX, 3 albums), Matt Halpern (DW/Mapex vs verified Yamaha/Pearl, 2 albums), Blake Richardson (Pearl vs verified Tama, Automata I/II), Daniel Erlandsson (Sabian AAX/HHX sub-series dated too early, 3 albums), Hellhammer top10Lists.js (Pearl/Meinl vs verified Sonor/Paiste, self-contradicts the file's own line 1096), Paul Mazurkiewicz (lower-confidence, arguable timing). All ready for direct re-verification + filing next run without re-research.
+4. GSC content-gap queries unchanged/held — no re-litigation needed until a fresh query enters the ≥50-impr/CTR<2% bucket.

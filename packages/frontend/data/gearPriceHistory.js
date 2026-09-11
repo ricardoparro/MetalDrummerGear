@@ -721,7 +721,7 @@ export const GEAR_PRICE_HISTORY = {
     albumReference: 'Individual Thought Patterns (1993)',
     profileImage: '/images/drummers/gene-hoglan.webp',
 
-    summary: "Gene Hoglan's 1993 kit for Death's Individual Thought Patterns — one of technical death metal's landmark albums. Coming off a Dark Angel career defined by a massive 22-piece setup, Hoglan deliberately stripped down for Death, demonstrating that precision and musicality could coexist with extreme speed. His Tama Superstar configuration provided the clean attack and tonal consistency needed for Scott Burns' clinical studio production. The kit cost roughly $3,578 in 1993 — a professional mid-range choice that reflected Hoglan's focus on function over spectacle. Adjusted for 2026 inflation, that investment is equivalent to approximately $8,100 today. His unique crossover from Dark Angel thrash to Chuck Schuldiner's progressive death metal vision produced a drumming style that influenced an entire generation of technical drummers — one that demands reexamination of what a relatively lean setup can accomplish in extreme metal. The Tama Superstar's shells offered a tonally balanced response across the full dynamic range Hoglan employed: from delicate ghost notes woven through Schuldiner's clean guitar passages to the explosive double bass volleys that close out tracks like 'Overactive Imagination' and 'Trapped in a Corner.' Scott Burns' production approach at Morrisound Recording benefited from the kit's articulate attack — a setup that didn't need corrective EQ to sound precise on tape, which translated directly to the crisp, defined drum sound that became Individual Thought Patterns' sonic signature. Hoglan later acknowledged that keeping the setup lean forced him to be more inventive with patterns, rather than filling space with additional drums.",
+    summary: "Gene Hoglan's 1993 kit for Death's Individual Thought Patterns — one of technical death metal's landmark albums. Coming off a Dark Angel career defined by a massive 22-piece setup, Hoglan deliberately stripped down for Death, demonstrating that precision and musicality could coexist with extreme speed. His Tama Superstar configuration provided the clean attack and tonal consistency needed for Scott Burns' clinical studio production. The kit cost roughly $3,628 in 1993 — a professional mid-range choice that reflected Hoglan's focus on function over spectacle. Adjusted for 2026 inflation, that investment is equivalent to approximately $8,225 today. His unique crossover from Dark Angel thrash to Chuck Schuldiner's progressive death metal vision produced a drumming style that influenced an entire generation of technical drummers — one that demands reexamination of what a relatively lean setup can accomplish in extreme metal. The Tama Superstar's shells offered a tonally balanced response across the full dynamic range Hoglan employed: from delicate ghost notes woven through Schuldiner's clean guitar passages to the explosive double bass volleys that close out tracks like 'Overactive Imagination' and 'Trapped in a Corner.' Scott Burns' production approach at Morrisound Recording benefited from the kit's articulate attack — a setup that didn't need corrective EQ to sound precise on tape, which translated directly to the crisp, defined drum sound that became Individual Thought Patterns' sonic signature. Hoglan later acknowledged that keeping the setup lean forced him to be more inventive with patterns, rather than filling space with additional drums.",
 
     setup: {
       drums: {
@@ -755,18 +755,18 @@ export const GEAR_PRICE_HISTORY = {
         },
       },
       cymbals: {
-        item: 'Zildjian A Series',
-        model: 'Mixed A Series configuration',
-        specs: '14" A Hi-Hats, 16" A Thin Crash, 18" A Thin Crash, 20" A Medium Ride, 18" A China',
-        originalPrice: 900,
+        item: 'Sabian AAX Series',
+        model: 'Mixed AAX configuration',
+        specs: '14" AAX Hi-Hats, 16" AAX Thin Crash, 18" AAX Thin Crash, 20" AAX Medium Ride, 18" AAX China',
+        originalPrice: 950,
         year: 1993,
-        source: 'Zildjian A Series retail pricing 1993',
-        notes: 'Standard Zildjian A — responsive and versatile. Hoglan used a relatively traditional cymbal spread compared to his later setups.',
-        vintageValue2026: 950,
+        source: 'Sabian AAX Series retail pricing 1993',
+        notes: 'Sabian AAX — Hoglan\'s endorsement since 1991, two years before Individual Thought Patterns. A traditional cymbal spread compared to his later setups.',
+        vintageValue2026: 1000,
         modernEquivalent: {
-          item: 'Zildjian A Custom Box Set',
-          price: 1200,
-          link: 'zildjian-a-custom-series-cymbals',
+          item: 'Sabian AAX Stage Set',
+          price: 1500,
+          link: 'sabian-aax-stage-set',
         },
       },
       hardware: {
@@ -817,20 +817,20 @@ export const GEAR_PRICE_HISTORY = {
     },
 
     totals: {
-      originalTotal: 3578,
+      originalTotal: 3628,
       inflationAdjusted2026: null, // Calculated dynamically
-      vintageTotal2026: 4150,
-      modernEquivalentTotal: 7224,
+      vintageTotal2026: 4200,
+      modernEquivalentTotal: 7524,
     },
 
     priceEvolution: [
-      { year: 1993, price: 3578, label: 'Original Purchase', event: 'Individual Thought Patterns recording' },
+      { year: 1993, price: 3628, label: 'Original Purchase', event: 'Individual Thought Patterns recording' },
       { year: 1995, price: 3800, label: 'Symbolic era', event: 'Death releases Symbolic' },
       { year: 1998, price: 4200, label: 'Post-Death projects', event: 'Hoglan joins Strapping Young Lad' },
       { year: 2006, price: 5800, label: 'Dark Angel reunion', event: 'Thrash revival interest' },
       { year: 2013, price: 7200, label: 'Testament era', event: 'Hoglan anchors Testament globally' },
       { year: 2020, price: 9000, label: 'Vintage tech-death boom', event: 'Death reissues drive catalog interest' },
-      { year: 2026, price: 8100, label: 'Current adjusted', event: 'Inflation-adjusted value' },
+      { year: 2026, price: 8225, label: 'Current adjusted', event: 'Inflation-adjusted value' },
     ],
 
     sources: [
@@ -842,7 +842,7 @@ export const GEAR_PRICE_HISTORY = {
 
     meta: {
       title: "Gene Hoglan 1993 Death Drum Setup Cost | Individual Thought Patterns Gear Prices",
-      description: "How much did Gene Hoglan's 1993 Death drum kit cost? Original ~$3,578, inflation-adjusted to ~$8,100 today. Complete Tama Superstar breakdown from the Individual Thought Patterns era.",
+      description: "How much did Gene Hoglan's 1993 Death drum kit cost? Original ~$3,628, inflation-adjusted to ~$8,225 today. Complete Tama Superstar breakdown from the Individual Thought Patterns era.",
       keywords: ['gene hoglan 1993 setup', 'death drum kit cost', 'gene hoglan early kit', 'individual thought patterns drums', 'gene hoglan gear today'],
     },
   },

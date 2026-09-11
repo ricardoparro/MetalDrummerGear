@@ -5,6 +5,35 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-09-11 03:05 UTC*
 
 ---
+## 2026-09-11 15:53 — Mid-day pulse: 8 fresh fabrication/data-integrity proposals promoted (#7335-7343, skips #7338/duplicate id)
+
+### Context (≤3 lines)
+First run after 13:00 UTC. Metrics 15:53 UTC (314 users/343 sessions/613 views 7d; GSC 8,073 impr/166 clicks/2.06% CTR/pos 8.2, flat vs 10:38). Eligible `ai-fix` backlog 0 at run start — the 10:38 batch (#7318-7325) already shipped and closed. 0 open PRs. 8 fresh untriaged `seo-proposal` (#7335-7343, filed 12:15-12:16 UTC) plus the 3 standing L1/L2/L3 umbrellas.
+
+### Actions taken
+- **Reviewed Roadie progress**: all 8 of the 10:38 deep-run issues (#7318-7325) shipped and closed within ~5h — same healthy same-day cadence as every prior batch this week.
+- **Live-verified all 8 fresh proposals** via direct grep against `gearPriceHistory.js`/`pedalReferencePages.js`/`pedals.js`/`albumArticles/*.js` and cross-checked each against `endorsementNews.js`: #7335 (Gene Hoglan gearPriceHistory.js:758/763 still fabricates Zildjian A Series for a 1993 kit vs verified Sabian AAX since 1991, last unfixed file in an 8-file class), #7336 (Jocke Wallgren heads field still Remo vs verified Evans since 2013 — sibling gap left by #7217's narrower scope), #7337 (Morgan Ågren gearPriceHistory.js backdates a Sonor SQ2 kit to 2001 vs verified 2012 signing, confirmed no pre-2012 Sonor entry in the timeline), #7339 (pedalReferencePages.js:54 + extendedBios.js:5827 both still credit Chris Adler with Mapex Falcon — confirmed #7160, closed 09-08, adjudicated Trick Pro V as correct but the promoted fix never shipped; git shows no subsequent commit touching either file), #7340 (pedals.js Inferno entry uses model name "Czarcie Kopyto" as the brand field, `model: null`, vs the sibling `adrian-erlandsson` entry in the same file correctly splitting brand:Monolit/model:Czarcie Kopyto — confirmed both), #7341 (Nicko McBrain's *Powerslave* (1984) section still states Ludwig kit/snare/pedal vs verified Pearl DLX + DW 5000 at endorsementNews.js:1119-1132; confirmed the Clive Burr/*Number of the Beast* section is correctly out of scope and untouched), #7342 (Mike Mangini albumArticles.js hardware fields — 8 refs across the 2011 and 2016 entries — still state DW vs verified continuous Pearl Eliminator Redline since 2011; confirmed #6288's fix only touched the sibling cymbals field), #7343 (Joey Jordison's 1999 debut article states "Tama Rockstar" pre-endorsement kit vs endorsementNews.js timeline's verified `from: 'ddrum', to: 'Pearl'` 1999 entry — confirmed the article's Zildjian cymbal claim is correctly verified and out of scope). All 8/8 accurate, all single/few-field text corrections on existing pages, zero new URLs — freeze-compliant. Promoted all 8 (`ai-fix`).
+- **GSC content-gap**: metrics.md's dedicated table shows 1 row (`joey jordison drum set`, 89 impr/1.12% CTR/pos 11.3) — same already-classified oscillator (`learned-patterns.md` line 205/211, 15+ closed fixes to date), not a fresh loss. No new action.
+- **L1/L2/L3** (#3810/#3819/#2211): all three snapshots still the 2026-09-07 generation, already fully triaged that day. Next weekly refresh due ~09-14.
+- **Founder ideas**: inbox empty, unchanged since 06-19. **Human-founder blockers**: #5141/#5100/#4892/#875/#529/#526/#525 — all `updatedAt` unchanged, no re-spam.
+- **Starvation check**: post-triage backlog 0→8 (excl. hold), bank 8→0 (excl. umbrellas) — healthy continuation of the daily multi-batch cadence, not escalating.
+
+### State delta
+- ai-fix backlog: 0 → 8 (#7335-7337, #7339-7343)
+- seo-proposal bank (excl. umbrellas): 8 → 0
+- Open PRs: 0 → 0
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 8/8 fresh triaged, live-verified against source + endorsementNews.js, promoted, freeze-compliant. ✅ GSC-gap: 1 already-classified row, no new fix needed. ✅ L1/L2/L3: no fresh snapshot since 09-07, already actioned. ✅ Starvation: not triggered. ✅ Decisions logged.
+
+### Next Run
+1. Watch #7335-7337/#7339-7343 ship via Roadie/PR Merger.
+2. Watch for the next L1/L2/L3 weekly refresh (due ~09-14).
+3. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---
+
+---
 ## 2026-09-11 10:38 — Deep run: 8 fresh gearPriceHistory.js fabrication proposals promoted (#7318-7325); closed stale duplicate PR #7331
 
 ### Context (≤3 lines)

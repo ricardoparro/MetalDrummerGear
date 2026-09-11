@@ -8627,7 +8627,7 @@ export const GEAR_PRICE_HISTORY = {
     albumReference: 'Deconstruction (2011)',
     profileImage: '/images/drummers/ryan-van-poederooyen.webp',
 
-    summary: "Ryan Van Poederooyen's 2011 setup behind Devin Townsend Project's Deconstruction — released the same day as the ambient near-acoustic Ghost, and widely cited among prog-metal drummers as one of the most demanding drum performances in the genre — captures the gear behind Devin Townsend's drummer since 1999. Twelve years into one of progressive metal's longest-running drummer-artist partnerships, Van Poederooyen's Deconstruction-era rig centered on a Pearl Reference Series kit in a maple/mahogany hybrid configuration with double 22\"x18\" bass drums, a 14\"x6.5\" Pearl snare, and a Sabian AAX/HHX cymbal setup, driven by the Tama Iron Cobra double pedal. The complete rig cost approximately $5,898 in 2011 dollars, equivalent to roughly $8,591 today after inflation.\n\nEvery choice served the extraordinary range Townsend's catalogue demanded of him. The Reference Series' hybrid shells delivered the immediate attack needed for Deconstruction's crushing, brutal double-kick assaults while responding just as sensitively to Ghost's near-inaudible ambient passages — the same physical kit, without reconfiguration, had to function at both dynamic extremes. The Sabian AAX line's bright, fast-decaying character projected clearly through Deconstruction's dense arrangements, while the HHX series' darker, more complex tone served the progressive and atmospheric dimensions elsewhere in Townsend's output. The Iron Cobra's smooth, consistent chain-drive action gave his powerful, groove-focused double-bass technique — driving rather than blast-beat-fast — the reliability to translate identically from studio to stage.\n\nThat Pearl / Sabian / Tama core has remained Van Poederooyen's defining platform for over a decade: it carried him through Devin Townsend Project's mature phase on Z² (2014) and Empath (2019), and into Townsend's more commercially accessible InsideOut Records era on Lightwork (2022). His current setup, evolved from this Deconstruction-era configuration, is valued at approximately $9,264 at current retail — the rig behind one of prog-metal's most consistent and demanding drumming partnerships, and the subject of MetalForge's dedicated Ryan Van Poederooyen drum-setup editorial article.",
+    summary: "Ryan Van Poederooyen's 2011 setup behind Devin Townsend Project's Deconstruction — released the same day as the ambient near-acoustic Ghost, and widely cited among prog-metal drummers as one of the most demanding drum performances in the genre — captures the gear behind Devin Townsend's drummer since 1999. Twelve years into one of progressive metal's longest-running drummer-artist partnerships, Van Poederooyen's Deconstruction-era rig centered on a Pearl Reference Series kit in a maple/mahogany hybrid configuration with double 22\"x18\" bass drums, a 14\"x6.5\" Pearl snare, and a Sabian AAX/HHX cymbal setup, driven by the Pearl Demon Drive double pedal. The complete rig cost approximately $5,898 in 2011 dollars, equivalent to roughly $8,591 today after inflation.\n\nEvery choice served the extraordinary range Townsend's catalogue demanded of him. The Reference Series' hybrid shells delivered the immediate attack needed for Deconstruction's crushing, brutal double-kick assaults while responding just as sensitively to Ghost's near-inaudible ambient passages — the same physical kit, without reconfiguration, had to function at both dynamic extremes. The Sabian AAX line's bright, fast-decaying character projected clearly through Deconstruction's dense arrangements, while the HHX series' darker, more complex tone served the progressive and atmospheric dimensions elsewhere in Townsend's output. The Demon Drive's smooth, consistent action gave his powerful, groove-focused double-bass technique — driving rather than blast-beat-fast — the reliability to translate identically from studio to stage.\n\nThat Pearl / Sabian core has remained Van Poederooyen's defining platform for over a decade: it carried him through Devin Townsend Project's mature phase on Z² (2014) and Empath (2019), and into Townsend's more commercially accessible InsideOut Records era on Lightwork (2022). His current setup, evolved from this Deconstruction-era configuration, is valued at approximately $9,264 at current retail — the rig behind one of prog-metal's most consistent and demanding drumming partnerships, and the subject of MetalForge's dedicated Ryan Van Poederooyen drum-setup editorial article.",
 
     setup: {
       drums: {
@@ -8676,22 +8676,22 @@ export const GEAR_PRICE_HISTORY = {
         },
       },
       hardware: {
-        item: 'Tama Iron Cobra Double Pedal',
-        model: 'Power cam double bass pedal',
-        specs: 'Tama Iron Cobra double pedal, hi-hat stand, boom stands, snare stand',
+        item: 'Pearl Demon Drive Double Pedal',
+        model: 'Demon Drive double bass pedal',
+        specs: 'Pearl Demon Drive double pedal, hi-hat stand, boom stands, snare stand',
         originalPrice: 300,
         year: 2011,
-        source: 'Tama hardware catalog pricing 2011',
-        notes: "Consistent, driving power cam stroke chosen for the forward-momentum double bass patterns Deconstruction's heaviest passages required.",
+        source: 'Pearl hardware catalog pricing 2011',
+        notes: "Consistent, driving action chosen for the forward-momentum double bass patterns Deconstruction's heaviest passages required.",
         vintageValue2026: 230,
         modernEquivalent: {
-          item: 'Tama Iron Cobra Double Pedal (Current)',
+          item: 'Pearl Demon Drive Double Pedal (Current)',
           price: 420,
-          link: 'tama-iron-cobra-ryan-van-poederooyen',
+          link: 'pearl-demon-drive-ryan-van-poederooyen',
         },
       },
       sticks: {
-        item: 'Vic Firth American Classic 5A',
+        item: 'Vic Firth American Classic 5B',
         model: 'Hickory',
         specs: 'Hickory, wood tip',
         originalPrice: 8,
@@ -8700,9 +8700,9 @@ export const GEAR_PRICE_HISTORY = {
         notes: "Standard weight selected for dynamic control across the full spectrum from Ghost's whisper-quiet passages to Deconstruction's full-intensity double-kick assaults.",
         vintageValue2026: null,
         modernEquivalent: {
-          item: 'Vic Firth American Classic 5A (Current)',
+          item: 'Vic Firth American Classic 5B (Current)',
           price: 14,
-          link: 'vic-firth-5a-ryan-van-poederooyen',
+          link: 'vic-firth-5b-ryan-van-poederooyen',
         },
       },
       heads: {

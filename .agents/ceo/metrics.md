@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-09-11 16:49 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-09-11 20:28 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,22 +8,22 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 317 |
-| Sessions | 346 |
-| Page views | 617 |
-| Engagement rate | 63.01% |
+| Active users | 326 |
+| Sessions | 356 |
+| Page views | 637 |
+| Engagement rate | 61.24% |
 | Avg session (s) | 135 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
-| /drummer/mario-duplantier | 32 | 27 |
+| /drummer/mario-duplantier | 33 | 28 |
 | / | 27 | 15 |
-| /drummers | 22 | 8 |
+| /drummers | 24 | 9 |
 | /drummer/joey-jordison | 18 | 10 |
-| /drummer/bill-ward | 14 | 7 |
+| /drummer/bill-ward | 15 | 8 |
 | /drummer/john-otto | 14 | 8 |
-| /drummer/matt-greiner | 10 | 8 |
+| /drummer/matt-greiner | 11 | 8 |
 | /drummer/jay-weinberg | 9 | 6 |
 | /drummer/jaska-raatikainen | 8 | 5 |
 | /gear | 8 | 4 |
@@ -31,67 +31,67 @@
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 274 | 245 |
-| Direct | 54 | 54 |
-| Unassigned | 30 | 29 |
-| Cross-network | 4 | 4 |
+| Organic Search | 278 | 249 |
+| Direct | 55 | 55 |
+| Unassigned | 36 | 34 |
+| Cross-network | 9 | 9 |
 | AI Assistant | 2 | 2 |
 | Referral | 1 | 1 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 133 | 121 |
+| United States | 137 | 124 |
 | Canada | 20 | 19 |
 | France | 19 | 18 |
 | Singapore | 14 | 14 |
 | United Kingdom | 14 | 12 |
 | Finland | 11 | 9 |
-| Germany | 10 | 10 |
+| Germany | 11 | 11 |
+| Brazil | 10 | 10 |
 | China | 9 | 9 |
 | Mexico | 9 | 8 |
-| Netherlands | 9 | 9 |
 
 ## Search Console — Search performance
 | Metric | Last 7d |
 | --- | --- |
-| Impressions | 8,073 |
-| Clicks | 166 |
+| Impressions | 9,714 |
+| Clicks | 200 |
 | CTR | 2.06% |
 | Avg position | 8.2 |
 
 ### Top queries
 | Query | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| mario duplantier drum kit | 42 | 4 | 9.52% | 5.5 |
-| mario duplantier cymbals | 11 | 2 | 18.18% | 3.8 |
+| mario duplantier drum kit | 47 | 4 | 8.51% | 5.5 |
+| mario duplantier cymbals | 14 | 3 | 21.43% | 3.6 |
+| mario duplantier kit | 10 | 2 | 20.00% | 4.1 |
+| best black metal drummers | 6 | 1 | 16.67% | 5.3 |
 | best metal cymbals | 1 | 1 | 100.00% | 7.0 |
 | bill ward cymbals | 1 | 1 | 100.00% | 11.0 |
-| cryptopsy drummer | 11 | 1 | 9.09% | 6.1 |
+| bill ward drum setup 1970 | 3 | 1 | 33.33% | 7.3 |
+| cryptopsy drummer | 12 | 1 | 8.33% | 6.1 |
 | death and black metal | 2 | 1 | 50.00% | 1.0 |
 | death metal drum kit | 2 | 1 | 50.00% | 4.0 |
-| eloy casagrande drum set | 4 | 1 | 25.00% | 7.0 |
-| eloy casagrande vs igor cavalera | 3 | 1 | 33.33% | 1.7 |
-| fastest double bass | 5 | 1 | 20.00% | 6.6 |
 
 ### Top countries (impressions, last 7d)
 | Country | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| usa | 3,021 | 53 | 1.75% | 9.0 |
-| can | 418 | 13 | 3.11% | 8.1 |
-| fra | 167 | 13 | 7.78% | 7.4 |
-| gbr | 480 | 9 | 1.88% | 8.9 |
-| aus | 353 | 5 | 1.42% | 9.3 |
-| deu | 261 | 5 | 1.92% | 9.6 |
-| fin | 130 | 5 | 3.85% | 6.7 |
-| nld | 140 | 5 | 3.57% | 7.5 |
-| ita | 144 | 4 | 2.78% | 7.5 |
-| swe | 127 | 4 | 3.15% | 9.2 |
+| usa | 3,699 | 67 | 1.81% | 8.9 |
+| fra | 202 | 14 | 6.93% | 7.4 |
+| can | 488 | 13 | 2.66% | 8.1 |
+| gbr | 577 | 9 | 1.56% | 9.0 |
+| nld | 175 | 9 | 5.14% | 7.3 |
+| deu | 314 | 7 | 2.23% | 9.1 |
+| aus | 439 | 6 | 1.37% | 10.0 |
+| mex | 126 | 6 | 4.76% | 6.5 |
+| fin | 149 | 5 | 3.36% | 6.8 |
+| ita | 179 | 5 | 2.79% | 7.2 |
 
 ### 🎯 Content-gap queries (impr ≥50, CTR <2%) — CEO MUST address
 | Query | Impr | CTR | Pos | Action |
 | --- | --- | --- | --- | --- |
-| joey jordison drum set | 89 | 1.12% | 11.3 | open issue to answer better |
+| joey jordison drum set | 105 | 0.95% | 11.2 | open issue to answer better |
 
 ---
 *Re-run manually: `node .agents/scripts/fetch-metrics.cjs`*

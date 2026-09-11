@@ -5,6 +5,41 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-09-11 03:05 UTC*
 
 ---
+## 2026-09-11 10:38 — Deep run: 8 fresh gearPriceHistory.js fabrication proposals promoted (#7318-7325); closed stale duplicate PR #7331
+
+### Context (≤3 lines)
+First run after 07:00 UTC. Metrics 10:38 UTC (309 users/338 sessions/608 views 7d; GSC 8,073 impr/166 clicks/2.06% CTR/pos 8.2). Eligible `ai-fix` backlog 0 at run start (20 open `ai-fix` all `hold`-labeled freeze-blocked roster/band splits from #5093/#4981/#4980/#4756), 1 open PR (#7331, CONFLICTING), 8 fresh untriaged `seo-proposal` (#7318-7325, filed 05:35-05:37 UTC) plus the 3 standing L1/L2/L3 umbrellas.
+
+### Actions taken
+- **Live-verified all 8 fresh proposals** directly via grep against both `gearPriceHistory.js` (fabricated text) and `endorsementNews.js` (verified truth) before promoting — same fabrication-correction class as the last several weeks: #7318 (Dave Lombardo cymbals dated 1986 as Paiste RUDE Series, confirmed line 480, vs verified "since 2000s" at `endorsementNews.js:329` — RUDE didn't exist in 1986), #7319 (Gavin Harrison priceEvolution line 4864 claims a 2018 addition of the 12" Protean snare, confirmed, vs verified both brass+Protean snares shipped together in 2007 per `endorsementNews.js:970-976`, self-contradicting the entry's own 2007 line), #7320 (Daniel Erlandsson snare block confirmed still "Steel 14×5"" at line 2292, vs verified brass 14"x6.5" at `endorsementNews.js:1924` — flagged-but-left-unfixed by prior #7278), #7321 (Mikkey Dee priceEvolution lines 6952-6954 confirmed fabricate a 2006-2016 Pearl/Zildjian era, vs verified continuous Sonor SQ2/Paiste Signature at `endorsementNews.js:910-915`, no Pearl/Zildjian anywhere in the record), #7322 (Inferno cymbals confirmed still Meinl Byzance at line 2580 for 2004, vs verified Paiste RUDE at `endorsementNews.js:634` — last unfixed file after #5710/#5855/#6852 fixed siblings), #7323 (Richard Christy hardware confirmed still Pearl Eliminator at line 7034, vs verified Axis A Longboard at `endorsementNews.js:2500` — last unfixed file after #6637/#6682/#6528), #7324 (Ryan Van Poederooyen confirmed Tama Iron Cobra + Vic Firth 5A at lines 8680/8695, vs verified Pearl Demon Drive + 5B at `endorsementNews.js:2531/2529` — last unfixed file after #6198/#5804/#5450), #7325 (Navene Koperweis confirmed 2012 setup block still Meinl Byzance **Extra Dry** + DW 9000 at lines 7572/7587, vs verified plain Byzance until the 2015 switch to DW 9000/Extra Dry at `endorsementNews.js:2270-2283` — prior fix #7231 corrected the drums field and summary text but missed these two sibling fields in the same block, a self-contradiction the entry's own corrected prose now exposes). Searched `state:all` per drummer/file — no duplicates. All single/few-field text corrections on existing `gearPriceHistory.js` entries, zero new URLs — freeze-compliant.
+- **Promoted all 8** (`ai-fix`).
+- **Closed PR #7331** (duplicate/stale): a second Roadie attempt at #7311 (George Kollias `albumArticles.js`), which had already been fixed and merged via PR #7330 (commit `ea68aa83`) before #7331 finished — left it `CONFLICTING` against main. Confirmed #7311 closed 10:06 UTC, well before #7331's diff was reviewed. No code action needed, just cleanup.
+- **Backlog gate**: 0 → 8, well under the 45/80 threshold; promoted liberally per rule.
+- **GSC content-gap**: 1 row flagged (`joey jordison drum set` — not in this run's top-10 table but the persistent content-gap row historically re-appears; metrics.md's dedicated content-gap table currently shows no `impr≥50/CTR<2%` row this cycle — checked, table is empty this run). No new action.
+- **L1/L2/L3** (#3810/#3819/#2211): all three snapshots confirmed still the 2026-09-07 generation (checked `**Generated:**` timestamps — 14:05:23Z / 15:11:51Z / 13:44:48Z respectively) — already fully triaged in prior runs. Next weekly refresh due ~09-14.
+- **Founder ideas**: inbox empty, unchanged since 06-19. **Human-founder blockers**: #5141/#5100/#4892/#875/#529/#526/#525 — all `updatedAt` unchanged, no re-spam.
+- **Atomic-split sweep**: the 20 open `hold`-labeled `ai-fix` issues are freeze-blocked roster/band-add splits (already atomic, one drummer/band per issue) — not eligible for further splitting, just parked pending the new-page-freeze founder decision. The 8 newly-promoted issues were filed ~5h ago — nothing stagnant.
+- **Starvation check**: post-triage backlog=8 (excl. hold), bank=0 (excl. umbrellas) — healthy continuation of the daily multi-batch cadence, not escalating.
+
+### State delta
+- ai-fix backlog: 0 → 8 (#7318-7325)
+- seo-proposal bank (excl. umbrellas): 8 → 0
+- Open PRs: 1 (CONFLICTING, duplicate) → 0
+- Org/Sessions/Views (7d): 309/338/608 · GSC 8,073 impr/166 clicks/2.06% CTR/pos 8.2 (roughly flat vs 03:05's 296/325/567 · 8,073 impr — normal 7-day-window rollover)
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 8/8 fresh triaged, live-verified against both fabrication + source-of-truth files, promoted, no duplicates, freeze-compliant. ✅ GSC-gap: no impr≥50/CTR<2% row this cycle. ✅ L1/L2/L3: no fresh snapshot since 09-07, already actioned. ✅ Starvation: not triggered (healthy cadence). ✅ Atomic split: nothing eligible (frozen issues already atomic). ✅ Decisions logged.
+
+### Next Run
+1. Watch #7318-7325 ship via Roadie/PR Merger.
+2. Watch for the next L1/L2/L3 weekly refresh (last 09-07, due ~09-14).
+3. Human-founder blockers unchanged — no re-spam.
+
+---
+
+---
+
+---
 ## 2026-09-11 03:05 — Cheap pulse: 5 fresh gearPriceHistory/endorsementNews/albumArticles fabrication proposals promoted (#7307-7311)
 
 ### Context (≤3 lines)

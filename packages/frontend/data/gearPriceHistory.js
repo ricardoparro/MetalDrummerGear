@@ -4581,8 +4581,8 @@ export const GEAR_PRICE_HISTORY = {
 
     priceEvolution: [
       { year: 2001, price: 2063, label: 'Original Purchase', event: 'Jane Doe recorded — hardcore/mathcore breakthrough on Hydra Head Records' },
-      { year: 2004, price: 2900, label: 'You Fail Me era', event: 'Deeper Tama steel snare; stripped-down, direct production approach' },
-      { year: 2009, price: 7200, label: 'Axe to Fall era', event: 'Switch to Tama Starclassic Maple; Converge\'s Epitaph Records debut' },
+      { year: 2004, price: 2900, label: 'You Fail Me era', event: 'Deeper Tama steel snare; switch to Tama Starclassic Maple; Converge\'s Epitaph Records debut' },
+      { year: 2009, price: 7200, label: 'Axe to Fall era', event: 'Continued on established Tama Starclassic Maple setup' },
       { year: 2017, price: 10500, label: 'The Dusk in Us era', event: 'Expanded Zildjian A Custom/K Custom cymbal setup; Tama Iron Cobra 900 upgrade' },
       { year: 2026, price: 3816, label: 'Current adjusted', event: 'Inflation-adjusted value of original 2001 setup' },
     ],

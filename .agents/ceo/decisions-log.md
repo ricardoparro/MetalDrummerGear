@@ -5,6 +5,33 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-09-12 03:12 UTC*
 
 ---
+## 2026-09-12 15:00 — Mid-day pulse: 8 fresh drummerComparisons/top10Lists/extendedBios fabrication proposals promoted (#7399-7406)
+
+### Context (≤3 lines)
+First run after 13:00 UTC. Metrics 15:00 UTC (313 users/347 sessions/606 views 7d; GSC 9,514 impr/188 clicks/1.98% CTR/pos 8.0). Eligible `ai-fix` backlog 0 at run start — the 10:08 deep-run batch (#7381-7387) already shipped and closed. 0 open PRs. 8 fresh untriaged `seo-proposal` (#7399-7406, filed 11:34-11:35 UTC) plus the 3 standing L1/L2/L3 umbrellas.
+
+### Actions taken
+- **Reviewed Roadie progress**: all 7 of the 10:08 batch (#7381-7387) shipped and closed same-day — same healthy cadence as every prior batch this week.
+- **Live-verified all 8 fresh proposals** via direct grep against `top10Lists.js`/`extendedBios.js`/`drummerComparisons.js`, cross-checked each against `endorsementNews.js`: #7399 (Charlie Benante — confirmed `currentEndorsements` has no `electronics` field and neither timeline entry mentions Roland/triggers, yet 6+ `top10Lists.js` locations fabricate a Roland-trigger narrative), #7400 (Hellhammer — confirmed verified drums is Sonor SQ2 Heavy Beech since 1999, Pearl never appears, yet `best-metal-drummers-playing-pearl-kits` lists him; same file correctly states Sonor elsewhere, a self-contradiction), #7401 (Flo Mounier — confirmed `top10Lists.js:3455` says "Pearl Masters Maple" for the 1996/1998 era vs verified Pearl MX Series for that era per `endorsementNews.js`, Masters BRX only from 2000), #7402 (Dave Lombardo — confirmed `top10Lists.js:2012` FAQ says current Pearl vs verified current brand Tama Starclassic Walnut/Birch; no hardware/pedal field populated at all, so dropping the specific pedal claim per the issue's proposed fix is correct), #7403 (Paul Mazurkiewicz — confirmed `extendedBios.js` gearHighlights + faq say Sabian AAX cymbals/Evans-only heads/Pearl Demon Drive pedal vs verified Meinl Classics Custom/Byzance cymbals, Remo Powerstroke 3/Emperor Coated heads, Pearl Eliminator Double Bass Pedal), #7404 (Richard Christy — confirmed `drummerComparisons.js:2308`'s `comparison.gear` field says Tama Starclassic + Tama Iron Cobra 900 while the SAME entry's own FAQ correctly says Pearl Masters Custom + implicitly Axis pedal — internal self-contradiction, verified Pearl Masters Custom + Axis A Longboard per `endorsementNews.js`), #7405 (Mike Mangini — confirmed `drummerComparisons.js` mike-mangini-vs-matt-garstka gear field + FAQ both say "Pearl Masters MCX" vs verified "Pearl Masterworks Maple," a model that doesn't exist anywhere in his record; #6357 fixed this entry's cymbal-brand swap but explicitly left the drum model unchecked), #7406 (Kevin Talley — confirmed `drummerComparisons.js:2624` kevin-talley-vs-daray gear field + FAQ both say "Pearl Masters Premium Legend" vs verified "Pearl Masters Custom / Reference Series"; #6746 already fixed the identical fabrication in the sibling `kevin-talley-vs-george-kollias` entry but never touched this one). All 8/8 accurate, all single/few-field text corrections on existing pages, zero new URLs — freeze-compliant. Promoted all 8 (`ai-fix`).
+- **GSC content-gap**: metrics.md's dedicated table shows 1 row (`joey jordison drum set`, 112 impr/0.89% CTR/pos 11.2) — re-confirmed against `learned-patterns.md` (lines 99/187/195/205/211) as an already-classified gear-qualified known oscillator, 15+ closed fixes to date. No new action.
+- **L1/L2/L3** (#3810/#3819/#2211): all three snapshots still the 2026-09-07 generation (confirmed via `updatedAt`), already fully triaged that day. Next weekly refresh due ~09-14.
+- **Founder ideas**: inbox empty, unchanged since 2026-06-19.
+- **Human-founder blockers**: #5141/#5100/#4892/#875/#529/#526/#525 — all `updatedAt` unchanged, no re-spam.
+- **Starvation check**: post-triage backlog 0→8, bank 8→0 (excl. umbrellas) — same healthy batch-then-drain cadence as every run this week, not escalating.
+
+### State delta
+- ai-fix backlog: 0 → 8 (#7399-7406)
+- seo-proposal bank (excl. umbrellas): 8 → 0
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 8/8 fresh triaged, live-verified via direct grep + cross-checked against `endorsementNews.js`, promoted, freeze-compliant. ✅ GSC-gap: 1 row re-confirmed already-classified oscillator, no new fix needed. ✅ L1/L2/L3: no fresh snapshot since 09-07, already fully actioned. ✅ Starvation: not triggered. ✅ Decisions logged.
+
+### Next Run
+1. Watch #7399-7406 ship via Roadie/PR Merger.
+2. Watch for the next L1/L2/L3 weekly refresh (due ~09-14).
+3. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---
 ## 2026-09-12 10:08 — Deep run: 7 fresh fabrication proposals promoted (#7381-7387); caught and corrected a stale-fact error in #7382 before promoting
 
 ### Context (≤3 lines)

@@ -2449,10 +2449,10 @@ His drumming style combines relentless blast beats, complex double bass patterns
 **Current Setup:**
 - **Drums**: Pearl Masters Maple Complete
 - **Snare**: Pearl Masters 14"x6.5" Maple
-- **Cymbals**: Sabian AAX Series (14" Stage Hi-Hats, 18" & 19" X-Plosion Crashes, 21" AAX Raw Bell Dry Ride, 18" AAXtreme China)
-- **Hardware**: Pearl Demon Drive double pedal
+- **Cymbals**: Meinl Classics Custom / Byzance Series
+- **Hardware**: Pearl Eliminator Double Bass Pedal
 - **Sticks**: Vic Firth American Classic 5B
-- **Heads**: Evans
+- **Heads**: Remo Powerstroke 3 / Emperor Coated
 
 **Setup Philosophy:**
 - Durability is paramount for 200+ shows per year
@@ -2478,12 +2478,12 @@ His drumming style combines relentless blast beats, complex double bass patterns
         title: 'Frequently Asked Questions',
         items: [
           { q: 'What drum kit does Paul Mazurkiewicz use?', a: 'Paul Mazurkiewicz plays a Pearl Masters Maple Complete drum kit — the blast-beat-optimized setup that has powered Cannibal Corpse\'s relentless death metal assault for over three decades. It\'s anchored by a Pearl Masters 14"x6.5" Maple snare tuned bright and tight to cut through down-tuned guitars.' },
-          { q: 'What drum set does Paul Mazurkiewicz use?', a: 'Paul Mazurkiewicz\'s drum set pairs his Pearl Masters Maple Complete shells and maple snare with a Pearl Demon Drive double pedal, the same configuration carried across Cannibal Corpse\'s entire discography from Tomb of the Mutilated through Violence Unimagined.' },
-          { q: 'What cymbals does Paul Mazurkiewicz play?', a: 'Paul Mazurkiewicz plays Sabian AAX Series cymbals: 14" AAX Stage Hi-Hats, 18" and 19" X-Plosion Crashes, a 21" AAX Raw Bell Dry Ride, and an 18" AAXtreme China.' },
+          { q: 'What drum set does Paul Mazurkiewicz use?', a: 'Paul Mazurkiewicz\'s drum set pairs his Pearl Masters Maple Complete shells and maple snare with a Pearl Eliminator Double Bass Pedal, the same configuration carried across Cannibal Corpse\'s entire discography from Tomb of the Mutilated through Violence Unimagined.' },
+          { q: 'What cymbals does Paul Mazurkiewicz play?', a: 'Paul Mazurkiewicz plays Meinl cymbals: Classics Custom / Byzance Series.' },
           { q: 'What snare does Paul Mazurkiewicz use?', a: 'Paul Mazurkiewicz\'s snare is a Pearl Masters 14"x6.5" Maple, tuned bright and tight to cut through Cannibal Corpse\'s down-tuned guitars.' },
           { q: 'What sticks does Paul Mazurkiewicz use?', a: 'Paul Mazurkiewicz uses Vic Firth American Classic 5B drumsticks.' },
-          { q: 'What bass drum pedal does Paul Mazurkiewicz use?', a: 'Paul Mazurkiewicz drives his locomotive double bass technique with a Pearl Demon Drive double pedal.' },
-          { q: 'What drumheads does Paul Mazurkiewicz use?', a: 'Paul Mazurkiewicz uses Evans drumheads across his Pearl Masters kit.' },
+          { q: 'What bass drum pedal does Paul Mazurkiewicz use?', a: 'Paul Mazurkiewicz drives his locomotive double bass technique with a Pearl Eliminator Double Bass Pedal.' },
+          { q: 'What drumheads does Paul Mazurkiewicz use?', a: 'Paul Mazurkiewicz uses Remo drumheads (Powerstroke 3 / Emperor Coated) across his Pearl Masters kit.' },
           { q: 'What band is Paul Mazurkiewicz in?', a: 'Paul Mazurkiewicz co-founded and has drummed for death metal band Cannibal Corpse since 1988, appearing on every album since their 1990 debut Eaten Back to Life.' },
           { q: 'How many Cannibal Corpse albums has Paul Mazurkiewicz played on?', a: 'Paul Mazurkiewicz has appeared on every Cannibal Corpse album since the band\'s 1990 debut Eaten Back to Life — the only member besides bassist Alex Webster with that distinction — across more than a dozen studio releases including Tomb of the Mutilated (1992) and Violence Unimagined (2021).' }
         ]

@@ -222,7 +222,7 @@ export const articles = {
         "gear": {
           "drums": "Tama Starclassic Maple/Bubinga",
           "snare": "Tama Starclassic 14\"x6.5\" Maple/Bubinga",
-          "cymbals": "Current A/K Custom setup",
+          "cymbals": "Sabian HHX",
           "hardware": "Current setup"
         },
         "notes": "Refined setup matching evolved band sound."
@@ -237,8 +237,8 @@ export const articles = {
         "gear": {
           "drums": "Tama Starclassic Maple/Bubinga",
           "snare": "Tama Starclassic 14\"x6.5\" Maple/Bubinga",
-          "cymbals": "Zildjian A/K Custom",
-          "hardware": "Zildjian signature sticks"
+          "cymbals": "Sabian HHX",
+          "hardware": "Tama Iron Cobra 900 Rolling Glide"
         },
         "notes": "Most refined version of his classic setup."
       }

@@ -222,7 +222,7 @@ export const articles = {
         "gear": {
           "drums": "Pearl Reference Pure (endorsement fully established)",
           "snare": "Pearl Daniel Erlandsson Signature 14\" x 5.5\" (developed in this period)",
-          "cymbals": "Sabian AAX and HHX series (full setup established)",
+          "cymbals": "Sabian AA/HH series (full setup established)",
           "pedals": "Pearl Eliminator Double Bass Pedal",
           "sticks": "ProMark 5B"
         },

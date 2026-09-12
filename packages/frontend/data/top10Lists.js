@@ -220,7 +220,7 @@ This ranking considers documented BPM records, sustained speed over full perform
         reason: 'Pete Sandoval\'s drumming on Morbid Angel\'s "Altars of Madness" and "Blessed Are the Sick" invented the extreme double bass template that every death metal drummer follows.', 
         bpm: '240+',
         showcaseVideo: { youtubeId: 'vOd-T58qHLA', title: 'Morbid Angel - Chapel of Ghouls Live' },
-        gearHighlight: 'Pearl PowerShifter Eliminator pedals, acoustic kit without triggers',
+        gearHighlight: 'ddrum kit and hardware since 1989, acoustic setup without triggers',
         technique: 'Pure power technique — alternating single strokes at extreme speeds',
         funFacts: [
           'Had never played double bass before joining Morbid Angel',

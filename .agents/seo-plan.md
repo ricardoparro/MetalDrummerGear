@@ -8513,3 +8513,46 @@ Dispatched 2 parallel research agents: (1) closed out the 2 queued leads from th
 3. Jason Bittner 2012-vs-2017 Overkill join-year conflict flagged above needs a source-of-truth call before any file touches it — surface to CEO/founder-decisions rather than auto-filing.
 4. `top10Lists.js`/`drummerComparisons.js`/`extendedBios.js` families still have unaudited surface beyond what 2 agents covered this run (~12 drummers checked, most clean) — productive vein for next run.
 5. GSC content-gap query unchanged/held — no re-litigation needed until a fresh query enters the ≥50-impr/CTR<2% bucket.
+
+
+---
+
+## 2026-09-12 (run ~11:30 UTC) — 8 proposals filed (#7399-7406): continued top10Lists.js/drummerComparisons.js/extendedBios.js fabrication sweep
+
+### Bank check
+Open `seo-proposal` at run start: 10 total — 7 (#7381-7387) already `ai-fix`-promoted per CEO's 10:08 UTC deep-run log + 3 standing umbrellas (#3810/#3819/#2211). True untriaged bank: 0. Well under 45 → cleared to file up to 8 net-new. Metrics 11:22 UTC (307 users/340 sessions/597 views 7d; GSC 7,932 impr/154 clicks/1.94% CTR/pos 8.2). robots.txt: ✅ 8/8 AI crawlers explicitly allowed (confirmed via `api/robots.js`). `/llms/*.md` endpoints: 2,016 files live (stable). Content-gap: only `joey jordison drum set` (91 impr/1.10% CTR/pos 11.3) clears ≥50 impr — the extensively-documented, extensively-fixed class-1 oscillator — held, no new action. Today is Saturday — drum-chair watch not due (next due Monday 2026-09-14).
+
+### This run's work
+Dispatched 2 parallel research agents into the vein flagged by the last run's notes: (A) `top10Lists.js` drummers A-H, (B) `drummerComparisons.js` + `extendedBios.js` drummers I-Z. Both were instructed to verify directly against `endorsementNews.js` and dedup via `gh issue list --state all` before reporting. Personally re-verified all 8 reported candidates via direct grep/read against both the fabricated text and `endorsementNews.js`, plus re-ran dedup searches myself (including reading 2 closed-issue bodies, #6528 and #6357, to confirm they targeted different comparison-pair entries than what was found) before filing.
+
+**8 confirmed and filed:**
+1. **#7399** — Charlie Benante fabricated with "Roland electronic triggers" across 6+ `top10Lists.js` locations, including full inclusion in the `metal-drummers-who-use-electronic-triggers` list — verified record (which does track an `electronics` field for other drummers, e.g. Raymond Herrera) has zero trace of triggers/Roland for Benante at all.
+2. **#7400** — Hellhammer fabricated as a Pearl artist in `top10Lists.js`'s `best-metal-drummers-playing-pearl-kits` list — verified Sonor SQ2 Heavy Beech since 1999; same fabrication class already fixed in `genreGearGuides.js`/`drummerComparisons.js` (#6777/#6805/#6547) but never in this specific list, which self-contradicts the same file's own (correct) Sonor claim in the `fastest-blast-beat-drummers` list.
+3. **#7401** — Flo Mounier `top10Lists.js:3455` fabricates "Pearl Masters Maple" for the None So Vile (1996)/Whisper Supremacy (1998) era — verified Pearl MX Series for that era (Masters BRX only from 2000); #7089 fixed 6 sibling lines in this file but missed this one.
+4. **#7402** — Dave Lombardo `top10Lists.js:2012` technical-thrash FAQ fabricates current "Pearl Masters Maple kit + Pearl Demon Drive pedal" — verified current brand is Tama Starclassic Walnut/Birch (Pearl only 1981-1986); no pedal field verified either way so the fix drops the unsourced pedal claim rather than replacing it with another guess.
+5. **#7403** — Paul Mazurkiewicz `extendedBios.js` gearHighlights + FAQ fabricate Sabian cymbals, Evans-only heads, and wrong pedal model — verified Meinl cymbals, Remo heads, Pearl Eliminator Double Bass Pedal; #6444/#6639 fixed the identical pattern but scoped only to `soundLikeGuides.js`, never touched `extendedBios.js`.
+6. **#7404** — Richard Christy `drummerComparisons.js:2308` (`richard-christy-vs-derek-roddy`) `comparison.gear` field fabricates Tama Starclassic Maple + Tama Iron Cobra 900, directly self-contradicting this same entry's own (correct) FAQ answer a few lines below — verified Pearl Masters Custom + Axis A Longboard; distinct entry from the 2 already-fixed pairings (#6405 george-kollias, #6528 ben-koller).
+7. **#7405** — Mike Mangini `drummerComparisons.js` (`mike-mangini-vs-matt-garstka`) fabricates drum model "Pearl Masters MCX" — verified "Pearl Masterworks Maple"; #6357 fixed this same entry's cymbal-brand swap but explicitly only checked the brand, not the model name, per that issue's own body text.
+8. **#7406** — Kevin Talley `drummerComparisons.js:2624` (`kevin-talley-vs-daray`) fabricates drum model "Pearl Masters Premium Legend" — verified "Pearl Masters Custom"; #6746 fixed the identical fabrication but only in the sibling `kevin-talley-vs-george-kollias` entry.
+
+### Dedup notes
+Ran `gh issue list --state all --search` per drummer+distinguishing term for all 8 before filing. Two required deeper verification beyond title-matching: read #6528's and #6357's full bodies directly to confirm they targeted different comparison-pair entries (ben-koller-vs-richard-christy / brand-only fix) than the two live fabrications found here (richard-christy-vs-derek-roddy / model-name-only gap). No true duplicates found.
+
+### Proposals filed this run (8)
+1. #7399 — SEO: Charlie Benante fabricated with 'Roland electronic triggers' across 6+ top10Lists.js locations
+2. #7400 — SEO: Hellhammer fabricated as a Pearl drummer in top10Lists.js 'best-metal-drummers-playing-pearl-kits'
+3. #7401 — SEO: Flo Mounier top10Lists.js fastest-blast-beat-drummers entry fabricates a 'Pearl Masters Maple' kit
+4. #7402 — SEO: Dave Lombardo fabricated as current Pearl user in top10Lists.js technical-thrash-metal-drummers FAQ
+5. #7403 — SEO: Paul Mazurkiewicz extendedBios.js gearHighlights + FAQ fabricate Sabian cymbals/Evans-only heads
+6. #7404 — SEO: Richard Christy pedal fabricated as Tama Iron Cobra 900 in drummerComparisons.js richard-christy-vs-derek-roddy
+7. #7405 — SEO: Mike Mangini drum model fabricated as 'Pearl Masters MCX' in drummerComparisons.js
+8. #7406 — SEO: Kevin Talley drum kit model fabricated as 'Pearl Masters Premium Legend' in drummerComparisons.js
+
+### Open proposals waiting on CEO triage
+- #7399-7406 (this run, 8 fresh)
+- #3810/#3819/#2211 (standing umbrellas)
+
+### Next run
+1. Watch #7399-7406 through CEO triage.
+2. `top10Lists.js` drummers A-H and `drummerComparisons.js`/`extendedBios.js` drummers I-Z each had only partial coverage this run (2 agents, time-boxed) — remaining alphabetical ranges (`top10Lists.js` I-Z, `drummerComparisons.js`/`extendedBios.js` A-H) are unaudited and a productive vein for next run.
+3. GSC content-gap query unchanged/held — no re-litigation needed until a fresh query enters the ≥50-impr/CTR<2% bucket.

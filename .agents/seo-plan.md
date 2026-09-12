@@ -8556,3 +8556,44 @@ Ran `gh issue list --state all --search` per drummer+distinguishing term for all
 1. Watch #7399-7406 through CEO triage.
 2. `top10Lists.js` drummers A-H and `drummerComparisons.js`/`extendedBios.js` drummers I-Z each had only partial coverage this run (2 agents, time-boxed) — remaining alphabetical ranges (`top10Lists.js` I-Z, `drummerComparisons.js`/`extendedBios.js` A-H) are unaudited and a productive vein for next run.
 3. GSC content-gap query unchanged/held — no re-litigation needed until a fresh query enters the ≥50-impr/CTR<2% bucket.
+
+---
+
+## 2026-09-12 (run ~15:56 UTC) — 6 proposals filed (#7415-7420): closed out `top10Lists.js` I-Z and `drummerComparisons.js`/`extendedBios.js` A-H ranges flagged by the last run
+
+### Bank check
+Open `seo-proposal` at run start: 11 total — 8 (#7399-7406) already `ai-fix`-promoted per CEO's 15:00 UTC mid-day-pulse log + 3 standing umbrellas (#3810/#3819/#2211). True untriaged bank: 0. Well under 45 → cleared to file up to 8 net-new. Metrics 15:55 UTC (314 users/348 sessions/607 views 7d; GSC 9,514 impr/188 clicks/1.98% CTR/pos 8.0). robots.txt: ✅ 8/8 AI crawlers explicitly allowed (13 `User-agent` blocks). `/llms/*.md` endpoints: 2,016 files live (stable). Content-gap: only `joey jordison drum set` (112 impr/0.89% CTR/pos 11.2) clears ≥50 impr — the extensively-documented, extensively-fixed class-1 oscillator (15+ closed fixes) — held, no new action. Today is Saturday — drum-chair watch not due (next due Monday 2026-09-14).
+
+### This run's work
+Dispatched 2 parallel research agents into exactly the ranges the last run flagged as unaudited: (A) `top10Lists.js` drummers I-Z, (B) `drummerComparisons.js`'s `comparison.gear`/`faqs` + `extendedBios.js`'s `metaDescription`/`keywords` fields for drummers A-H. Both instructed to read the full `endorsementNews.js` timeline per category (not just the first hit) and dedupe via `gh issue list --state all`. Personally re-verified every reported candidate via direct grep/read against both the fabricated text and `endorsementNews.js` before filing.
+
+**Found and filed 6** (2 from agent A, 4 from agent B — one agent-B candidate had 2 sub-locations each, McBrain/Sandoval bundled per-drummer since both locations are the same fabrication class in the same file):
+1. **#7415** — Nicko McBrain `top10Lists.js` fabricates a "Ludwig Speed King → Sonor" pedal history in 2 locations (classic-heavy-metal-drummers FAQ + signature-bass-drum-pedals rank 6) — the Ludwig Speed King is actually Bill Ward's pedal (confirmed via the same file's own correct rank-7 entry); verified McBrain pedal is DW since 1984, current drum brand BDC since 2019.
+2. **#7416** — Pete Sandoval `top10Lists.js` fabricates a full Pearl kit/pedal in 2 locations (blackened-death-metal FAQ + a whole rank-5 slot in the best-metal-drummers-playing-pearl-kits list) — verified ddrum only since 1989; distinct from the already-closed #7378 which fixed a 3rd, different location (gearHighlight field).
+3. **#7417** — Eloy Casagrande `drummerComparisons.js` fabricates "Tama Starclassic Maple" in 3 comparison entries (eloy-vs-jay-weinberg, gene-hoglan-vs-eloy, brann-dailor-vs-eloy) — verified Bubinga, confirmed by 10+ other entries in the same file already stating Bubinga correctly.
+4. **#7418** — Chris Adler `drummerComparisons.js` fabricates a "Mapex Falcon" pedal across 5 comparison entries — verified Trick Pro V since 2010s; #7160/#7339 already fixed this exact fact in `extendedBios.js`/`pedalReferencePages.js` but never touched `drummerComparisons.js`.
+5. **#7419** — Adrian Erlandsson `drummerComparisons.js` conflates his 2 gear eras into a nonexistent "Tama drums with Zildjian cymbals" setup (the drum brand from 2014+ paired with the cymbal brand from 1995-2003) — verified Pearl+Zildjian (1995-2003) then Tama+Sabian (2014+), never Tama+Zildjian together.
+6. **#7420** — Bill Ward `drummerComparisons.js` bill-ward-vs-brann-dailor entry still fabricates "Paiste Giant Beat/2002" cymbals — the 13th entry #6488's 12-entry sweep missed; verified Zildjian Avedis since 1971.
+
+**Held back, not filed — false positive caught before filing.** Agent B also flagged Ben Koller's `extendedBios.js` `metaDescription` ("Zildjian K Dark Series"/"Tama Starclassic Maple") as wrong vs. `endorsementNews.js` ("K Custom & A Custom Series"/"Starclassic Performer B/B"). Before filing, checked the bodies of 2 prior closed issues (#6504, #5970) that already touched this drummer's gear — both explicitly state `extendedBios.js`'s "Tama Starclassic Maple / Zildjian K Dark Series" is **more current than the stale `endorsementNews.js` record** for this specific drummer, and #5970 used that exact pairing as the 3-file-consensus correction target for `albumArticles.js`. Filing the agent's proposed "fix" would have reverted a previously-corrected file back to the stale fact. **Rule for next time: before treating an extendedBios.js-vs-endorsementNews.js disagreement as a standard fabrication, grep `gh issue list --state all --search "<drummer> zildjian"` (or similar) for prior source-of-truth rulings on that specific drummer — endorsementNews.js is usually authoritative but has at least one documented exception (Ben Koller) where it's the stale side.**
+
+### Dedup notes
+Ran `gh issue list --state all --search` per drummer+distinguishing term for all 6 before filing; read 3 issue bodies in full (#6488 for Bill Ward's exact 12-entry line list, #5970/#6504 for the Ben Koller source-of-truth check) rather than trusting title-match alone.
+
+### Proposals filed this run (6)
+1. #7415 — SEO: Nicko McBrain top10Lists.js fabricates 'Ludwig Speed King → Sonor' pedal history — verified DW 5000 single pedal since 1984
+2. #7416 — SEO: Pete Sandoval top10Lists.js fabricates a Pearl kit/pedal (2 locations) — verified brand is ddrum only, since 1989
+3. #7417 — SEO: Eloy Casagrande drummerComparisons.js fabricates 'Tama Starclassic Maple' drums (3 entries) — verified Bubinga
+4. #7418 — SEO: Chris Adler drummerComparisons.js fabricates a 'Mapex Falcon' pedal across 5 entries — verified Trick Pro V
+5. #7419 — SEO: Adrian Erlandsson drummerComparisons.js conflates two eras' gear into a nonexistent 'Tama drums with Zildjian cymbals' setup
+6. #7420 — SEO: Bill Ward drummerComparisons.js still fabricates 'Paiste Giant Beat/2002' cymbals in the brann-dailor entry — missed by #6488's 12-entry sweep
+
+### Open proposals waiting on CEO triage
+- #7415-7420 (this run, 6 fresh)
+- #3810/#3819/#2211 (standing umbrellas)
+
+### Next run
+1. Watch #7415-7420 through CEO triage.
+2. Both alphabetical ranges flagged by the prior run (`top10Lists.js` I-Z, `drummerComparisons.js`/`extendedBios.js` A-H) are now covered — pick a fresh unaudited slice next (e.g. `albumArticles/*.js` A-M, or `top10Lists.js`/`drummerComparisons.js` full re-sweep of the untouched middle-alphabet drummers) rather than re-running the same ranges.
+3. Ben Koller flagged as a source-of-truth exception (extendedBios.js correct, endorsementNews.js stale) — don't re-flag this drummer's Zildjian K Dark Series / Tama Starclassic Maple facts without new evidence.
+4. GSC content-gap query unchanged/held — no re-litigation needed until a fresh query enters the ≥50-impr/CTR<2% bucket.

@@ -1708,7 +1708,7 @@ Beyond Opeth, Axenrot has been a core member of death metal supergroup Bloodbath
       { slug: 'another-animal', period: '2007-2008', role: 'Drummer, vocalist' }
     ],
     metaTitle: 'Shannon Larkin Drum Kit & Gear Setup — Godsmack Drummer | MetalForge',
-    metaDescription: 'See what drum kit Shannon Larkin (Godsmack) plays — Pearl Reference Pure drum set, Pearl Reference brass snare, Sabian AAX cymbals, and Promark signature sticks. Complete gear guide.',
+    metaDescription: 'See what drum kit Shannon Larkin (Godsmack) plays — ddrum Dios Series drum set, ddrum Dios Maple snare, Sabian AAX cymbals, and Vic Firth American Classic 5B sticks. Complete gear guide.',
     ogImage: '/images/drummers/shannon-larkin.webp',
     sections: {
       overview: {

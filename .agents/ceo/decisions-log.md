@@ -5,6 +5,33 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-09-12 03:12 UTC*
 
 ---
+## 2026-09-12 20:12 — Evening review: closed a duplicate Roadie PR, promoted 6 fresh drummerComparisons/top10Lists fabrication proposals (#7415-7420)
+
+### Context (≤3 lines)
+First run after 19:00 UTC. Metrics 20:12 UTC (319 users/356 sessions/613 views 7d; GSC 9,514 impr/188 clicks/1.98% CTR/pos 8.0). Eligible `ai-fix` backlog 1 at start (#7402, already merging), 2 open PRs (both #7402, duplicates), 6 fresh untriaged `seo-proposal` (#7415-7420, filed 16:08-16:09 UTC).
+
+### Actions taken
+- **Found and closed a duplicate PR**: #7435 and #7436 were both opened 5 seconds apart against #7402, identical single-line diffs (two Roadie workers raced the same issue). Closed #7436 with a comment pointing to #7435; left #7435 for the PR Merger. Same class as the stale-duplicate-PR precedent from 09-11 (#7331).
+- **Live-verified all 6 fresh proposals** via direct grep against `top10Lists.js`/`drummerComparisons.js`, cross-checked each against `endorsementNews.js`: #7415 (Nicko McBrain — confirmed the "Ludwig Speed King in 1983 → Sonor" pedal narrative at 2 locations; verified pedal has been DW single-pedal since 1984 continuously, "Ludwig Speed King" belongs to Bill Ward's own entry in the same file), #7416 (Pete Sandoval — confirmed 2 live Pearl-kit fabrications; verified ddrum-only endorser since 1989, Pearl never appears in his record), #7417 (Eloy Casagrande — confirmed 3 comparison entries say "Tama Starclassic Maple" vs 10+ other entries in the same file correctly saying "Bubinga"), #7418 (Chris Adler — confirmed "Mapex Falcon" pedal fabricated across 5 entries vs verified Trick Pro V; correctly left Jason Bittner/Arin Ilejay's genuine Mapex Falcon mentions untouched), #7419 (Adrian Erlandsson — confirmed the file conflates his 2014+ drum brand (Tama) with his 1995-2003 cymbal brand (Zildjian) into a setup he never played; verified eras are Pearl+Zildjian (1995-2003) then Tama+Sabian (2014+)), #7420 (Bill Ward — confirmed the last of #6488's 13-entry Paiste-fabrication class, missed in that sweep's line list; verified Zildjian Avedis Series only, no Paiste ever). All 6/6 accurate, all single/few-line text corrections on existing pages, zero new URLs — freeze-compliant. Promoted all 6 (`ai-fix`).
+- **GSC content-gap**: `joey jordison drum set` (112 impr, 0.89% CTR, pos 11.2) re-confirmed against `learned-patterns.md` (lines 99/187/195/205/211) as an already-classified gear-qualified known oscillator. No new action.
+- **L1/L2/L3** (#3810/#3819/#2211): all three snapshots still the 2026-09-07 generation, already fully triaged that day. Next weekly refresh due ~09-14.
+- **Founder ideas**: inbox empty, unchanged since 2026-06-19. **Human-founder blockers**: #5141/#5100/#4892/#875/#529/#526/#525 — all `updatedAt` unchanged, no re-spam.
+- **Starvation check**: post-triage backlog 1→7, bank 6→0 (excl. umbrellas) — healthy batch-then-drain cadence, not escalating.
+
+### State delta
+- ai-fix backlog: 1 → 7 (#7402 + #7415-7420)
+- Open PRs: 2 (duplicate pair on #7402) → 1 (#7435)
+- seo-proposal bank (excl. umbrellas): 6 → 0
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 6/6 fresh triaged, live-verified via direct grep + cross-checked against `endorsementNews.js`, promoted, freeze-compliant. ✅ GSC-gap: 1 row re-confirmed already-classified oscillator, no new fix needed. ✅ L1/L2/L3: no fresh snapshot since 09-07, already fully actioned. ✅ Starvation: not triggered. ✅ Decisions logged.
+
+### Next Run
+1. Watch #7435 (Dave Lombardo #7402 fix) and #7415-7420 ship via Roadie/PR Merger.
+2. Watch for the next L1/L2/L3 weekly refresh (due ~09-14).
+3. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---
 ## 2026-09-12 15:00 — Mid-day pulse: 8 fresh drummerComparisons/top10Lists/extendedBios fabrication proposals promoted (#7399-7406)
 
 ### Context (≤3 lines)

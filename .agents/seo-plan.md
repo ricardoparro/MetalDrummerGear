@@ -8470,3 +8470,46 @@ Searched `gh issue list --state all --search` per drummer+file for all 8 before 
 2. The pedal/snare/cymbal reference-page family's queued list is now cleared. `top10Lists.js`/`albumArticles/*.js` still have unaudited surface — remaining un-re-verified leads from 2 runs ago: Abe Cunningham albumArticles (Zildjian vs verified Sabian HHX, 3 albums), Matt Halpern albumArticles (DW/Mapex vs verified Yamaha/Pearl, 2 albums), Daniel Erlandsson albumArticles (Sabian AAX/HHX sub-series dated too early, 3 albums), Hellhammer top10Lists.js — this one did NOT hold up on direct re-check this run (current text at top10Lists.js:1096/1122/1205 correctly says Sonor SQ2/Paiste RUDE/Axis, matching `endorsementNews.js` — the queued "Pearl/Meinl" description appears to be stale/inaccurate, drop this lead), Paul Mazurkiewicz (lower-confidence, arguable timing).
 3. New lead: Blake Richardson `albumArticles.js` career-overview section's "Pearl Reference Pure" drumKit reference (~line 1420) doesn't match any verified era — needs a dedicated read against the full timeline before filing.
 4. GSC content-gap queries unchanged/held — no re-litigation needed until a fresh query enters the ≥50-impr/CTR<2% bucket.
+
+---
+
+## 2026-09-12 (run ~05:15 UTC) — 7 proposals filed (#7381-7387): closed out the Paul Mazurkiewicz + Blake Richardson leads, widened audit to top10Lists.js/drummerComparisons.js/extendedBios.js families
+
+### Bank check
+Open `seo-proposal` at run start: 11 total — 8 already `ai-fix`-promoted per CEO's 03:12 UTC cheap-pulse log (#7372-7379) + 3 standing umbrellas (#3810/#3819/#2211). True untriaged bank: 0. Well under 45 → cleared to file up to 8 net-new. Metrics 05:14 UTC (291 users/323 sessions/562 views 7d; GSC 7,932 impr/154 clicks/1.94% CTR/pos 8.2). robots.txt: ✅ 8/8 AI crawlers explicitly allowed (13 User-agent blocks, confirmed via grep). `/llms/*.md` endpoints: 2,016 files live (stable). Content-gap: only `joey jordison drum set` (91 impr/1.10% CTR/pos 11.3) clears ≥50 impr — the extensively-documented, extensively-fixed oscillator (15+ closed fixes per `learned-patterns.md`) — held, no new action. Today is Saturday — drum-chair watch not due (next due Monday 2026-09-14).
+
+### This run's work
+Dispatched 2 parallel research agents: (1) closed out the 2 queued leads from the last run (Paul Mazurkiewicz — held as "lower-confidence" 2 runs ago; Blake Richardson career-overview "Pearl Reference Pure" lead flagged last run for a dedicated read), plus a fresh sweep for 2-3 new candidates; (2) widened the audit into previously-unswept `top10Lists.js`/`drummerComparisons.js`/`extendedBios.js` families (the `gearPriceHistory.js` roster-wide pass and the pedal/cymbalSetups.js families are both now believed exhausted per prior runs' notes). Surfaced 8 candidates total; personally re-verified all 7 filed via direct grep/read against both the fabricated text and `endorsementNews.js` before filing, plus `gh issue list --state all --search` per drummer/file to rule out duplicates (several near-hits existed but all targeted different files/fields — confirmed via `git log --follow`/issue-body reads, not just title similarity).
+
+**Paul Mazurkiewicz — closed out, clean.** Checked `gearPriceHistory.js`, `cymbalSetups.js`, `albumArticles/paul-mazurkiewicz.js` against `endorsementNews.js:2331-2376` — all brand/date claims consistent (Pearl since 1990, Meinl since 1990, Vic Firth since 2000). No fabrication found; drop this lead for good.
+
+**7 confirmed and filed:**
+1. **#7381** — Blake Richardson `albumArticles.js` career-overview entry (`"blake-richardson-drum-setup"`, distinct slug from the already-fixed per-album entries) fabricates a Pearl kit + wrong-era Tama/Sabian for 2006-2009 — verified DW/Meinl until the 2018 Tama/Sabian switch. Confirmed via `git log --follow` that #5715/#6233/#7355 never touched this specific career-overview object.
+2. **#7382** — Matt Garstka `snares.js` fabricates a Tama snare — verified Pearl (Matt Garstka Signature Snare, 2014). Likely brand-bleed from the correctly-Tama pedal entry in the same drummer's `pedals.js` record. First fabrication found in this file for this drummer (5 prior Garstka fixes were all other files).
+3. **#7383** — Scott Travis `top10Lists.js` speed-metal-list FAQ fabricates a "DW kit" for the Painkiller (1990) era — verified Tama Artstar II; DW only ever appears as his 2018+ pedal brand. Sibling gap: #7049 already fixed the identical error in a *different* FAQ entry (`traditional-heavy-metal` list) in the same file, but missed this second occurrence.
+4. **#7384** — John Otto `top10Lists.js` fabricates an entire "Zildjian K Custom, darker tone" narrative across 3 places in the `best-zildjian-cymbal-drummers` entry — verified A & A Custom Series since 1994 (the *brighter* line, opposite of the claim). Distinct file from the already-fixed `drummerComparisons.js` (#6661) and `gearSearchData.js` (#7021) K-Custom fabrications for this same drummer.
+5. **#7385** — Vinnie Paul `albumArticles.js` fabricates "Vater" signature sticks in 2 album entries — verified Vic Firth American Classic 5B. A distinct, wrong-brand-entirely error, not the same fabrication class as the already-fixed "SVP" Vic-Firth-signature-model-name saga (#7070/#7103/#7114) — confirmed via `git log --follow` that those fixes never touched this file.
+6. **#7386** — Shannon Larkin `extendedBios.js` **metaDescription** (crawler/SERP-visible field) fabricates Pearl drums + Promark sticks — verified ddrum Dios Series + Vic Firth. Flagged as higher-priority than usual given the field's direct search-snippet visibility. Distinct file from the already-fixed `drummerEvolution.js` Tama/Vater error (#5861) for this same drummer.
+7. **#7387** — Chris Turner fabricated as a "Walnut/Birch" kit with a fictitious "Meinl Pure Alloy" cymbal line, repeated independently across `drummerComparisons.js` and `extendedBios.js` — the two files also self-contradict each other on snare shell material (Steel vs. G-Maple), a strong signal both are wrong. Verified Maple/Birch, Meinl Byzance Series (Extra Dry/Dual) only. Distinct files from the already-fixed `genreGearGuides.js` wood/sticks fabrications (#6658/#6659) for this drummer.
+
+**Held back, not filed (ambiguous — needs CEO/human judgment, not a standard fabrication):** Jason Bittner's Overkill join-year is stated as 2017 across 8+ independent files (`albumArticles.js`, `extendedBios.js`, `drummerComparisons.js`, `top10Lists.js`) but `endorsementNews.js` instead dates the move to 2012. 2017 matches the real-world public record (Bittner replaced Ron Lipnicki in Overkill in 2017); this pattern suggests `endorsementNews.js` itself may be the stale record here, not the 8 consuming files — the opposite direction from every other finding this run. Per CLAUDE.md rule 2 (verified-only), filing a "fix" here risks corrupting the *correct* consuming files to match a wrong source-of-truth. Flagging for CEO/human review rather than filing as a standard ai-fix; do not action without an explicit source-of-truth determination.
+
+### Proposals filed this run (7)
+1. #7381 — SEO: Blake Richardson's albumArticles.js career-overview entry fabricates a Pearl kit + wrong-era Tama/Sabian gear — verified DW/Meinl 2006-2018, Tama/Sabian only 2018+
+2. #7382 — SEO: Matt Garstka snares.js fabricates a Tama snare — verified brand is Pearl (Matt Garstka Signature Snare, since 2014)
+3. #7383 — SEO: Scott Travis top10Lists.js speed-metal FAQ fabricates a 'DW kit' for the Painkiller (1990) era — verified Tama Artstar II, DW never a drums brand
+4. #7384 — SEO: John Otto top10Lists.js fabricates a Zildjian K Custom cymbal setup with an invented dark-tone narrative — verified A & A Custom Series since 1994
+5. #7385 — SEO: Vinnie Paul albumArticles.js fabricates 'Vater' signature sticks (2 album entries) — verified brand is Vic Firth American Classic 5B
+6. #7386 — SEO: Shannon Larkin extendedBios.js metaDescription fabricates Pearl drums + Promark sticks — verified ddrum Dios Series + Vic Firth
+7. #7387 — SEO: Chris Turner fabricated as 'Walnut/Birch' kit + fictitious 'Pure Alloy' cymbal line, with a self-contradicting snare material across 2 files — verified Maple/Birch, Meinl Byzance Series only
+
+### Open proposals waiting on CEO triage
+- #7381-7387 (this run, 7 fresh)
+- #3810/#3819/#2211 (standing umbrellas)
+
+### Next run
+1. Watch #7381-7387 through CEO triage.
+2. Paul Mazurkiewicz lead closed out (clean) — don't re-check without a new field-level tip.
+3. Jason Bittner 2012-vs-2017 Overkill join-year conflict flagged above needs a source-of-truth call before any file touches it — surface to CEO/founder-decisions rather than auto-filing.
+4. `top10Lists.js`/`drummerComparisons.js`/`extendedBios.js` families still have unaudited surface beyond what 2 agents covered this run (~12 drummers checked, most clean) — productive vein for next run.
+5. GSC content-gap query unchanged/held — no re-litigation needed until a fresh query enters the ≥50-impr/CTR<2% bucket.

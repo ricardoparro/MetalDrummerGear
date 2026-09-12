@@ -1397,9 +1397,9 @@ export const articles = {
       ]
     },
     "drumKit": {
-      "title": "Pearl Reference Pure: Warmth and Resonance for Progressive Metal",
-      "brand": "Pearl",
-      "model": "Pearl Reference Pure",
+      "title": "DW Collector's Series: The Foundation of BTBAM's Progressive Metal Sound",
+      "brand": "DW",
+      "model": "DW Collector's Series",
       "finish": "Custom finishes for touring and studio configurations",
       "config": {
         "bassdrums": [
@@ -1415,15 +1415,15 @@ export const articles = {
         ],
         "shells": "All-maple shells with 6-ply construction — warm, resonant, wide dynamic range"
       },
-      "description": "Blake Richardson's Pearl Reference Pure kit is the foundation of BTBAM's studio and live sound across the band's most ambitious catalog period. The Reference Pure line uses all-maple shell construction — a departure from Pearl's hybrid-shell Reference series — producing a warmer, more resonant tone that suits progressive metal's dynamic range requirements far better than the harder-edged sounds typical of extreme metal drums.\n\nThe double kick configuration (two 22\" bass drums) provides the low-end foundation for BTBAM's most intense passages while maintaining the flexibility to play with restraint during the band's jazz-inflected and ambient sections. Richardson doesn't use the double bass as a constant — he deploys it compositionally, varying density to follow the music's emotional arc rather than simply running an uninterrupted eighth-note roll beneath everything. The Tama Iron Cobra Power Glide double pedal handles single-bass passages and allows natural integration of single-foot and double-foot techniques within the same performance.\n\nThe three rack toms (10\", 12\", 13\") and single floor tom (16\") give Richardson's fills a wide tonal palette — essential for BTBAM's complex transition architecture. Tom fills in progressive metal function differently than in straightforward metal: they are often melodic statements as much as rhythmic ones, moving through specific pitch intervals to create melodic counterpoint with the guitars. The Reference Pure's warm maple resonance makes these melodic fill sequences more musical and less percussive in character.\n\nThe all-maple shell construction and Pearl's SST (Superior Shelf Technology) mounting system allow the shells to resonate freely, with full sustain that Richardson can control through head selection and tuning. This sustain is intentional: in BTBAM's more dynamic arrangements, the natural decay of the drums is a compositional element, not a problem to muffle.",
+      "description": "Blake Richardson's DW Collector's Series kit was the foundation of BTBAM's studio and live sound from Alaska (2005) through the Colors and Parallax eras. The Collector's Series uses all-maple shell construction, producing a warmer, more resonant tone that suits progressive metal's dynamic range requirements far better than the harder-edged sounds typical of extreme metal drums.\n\nThe double kick configuration (two 22\" bass drums) provides the low-end foundation for BTBAM's most intense passages while maintaining the flexibility to play with restraint during the band's jazz-inflected and ambient sections. Richardson doesn't use the double bass as a constant — he deploys it compositionally, varying density to follow the music's emotional arc rather than simply running an uninterrupted eighth-note roll beneath everything. The DW 9002 chain-drive double bass pedal handled single-bass passages and allowed natural integration of single-foot and double-foot techniques within the same performance.\n\nThe three rack toms (10\", 12\", 13\") and single floor tom (16\") gave Richardson's fills a wide tonal palette — essential for BTBAM's complex transition architecture. Tom fills in progressive metal function differently than in straightforward metal: they are often melodic statements as much as rhythmic ones, moving through specific pitch intervals to create melodic counterpoint with the guitars. The Collector's Series' warm maple resonance made these melodic fill sequences more musical and less percussive in character.\n\nThe all-maple shell construction allowed the shells to resonate freely, with full sustain that Richardson controlled through head selection and tuning. This sustain was intentional: in BTBAM's more dynamic arrangements, the natural decay of the drums is a compositional element, not a problem to muffle. Richardson moved to a Tama Starclassic Bubinga kit for the Automata era beginning in 2018.",
       "notes": [
-        "Pearl Reference Pure — all-maple construction for warm, resonant progressive metal tone",
+        "DW Collector's Series — all-maple construction for warm, resonant progressive metal tone",
         "Double 22\" bass drum configuration for compositional double-kick deployment",
         "Three rack toms (10\", 12\", 13\") for wide pitch range in melodic fill sequences",
-        "SST mounting system allows full shell resonance — sustain as a musical tool",
-        "Also associated with Pearl Masters Maple configuration in some touring setups"
+        "Foundational setup from Alaska (2005) through the Colors and Parallax eras",
+        "Switched to Tama Starclassic Bubinga for the Automata era (2018–present)"
       ],
-      "estimatedValue": "$3,000–6,000 (Pearl Reference Pure shell pack)"
+      "estimatedValue": "$3,500–6,000 (DW Collector's Series shell pack)"
     },
     "snare": {
       "title": "The Tama STARPHONIC Snare: Articulation in a Dense Mix",
@@ -1534,12 +1534,12 @@ export const articles = {
         ],
         "description": "The foundational period — establishing the BTBAM sound and Richardson's technique on landmark progressive metal records.",
         "gear": {
-          "drums": "Tama Starclassic Bubinga kit — early configuration",
-          "snare": "Tama STARPHONIC Brass 14\" x 6.5\"",
-          "cymbals": "Sabian Extra Dry series — foundational setup",
-          "hardware": "Tama Iron Cobra Power Glide double pedal, Vic Firth American Classic 5B sticks"
+          "drums": "DW Collector's Series kit — foundational configuration",
+          "snare": "DW Collector's Series Maple Snare 14\" x 6.5\"",
+          "cymbals": "Meinl Byzance Extra Dry series — foundational setup",
+          "hardware": "DW 9002 chain-drive double bass pedal, Vic Firth American Classic 5B sticks"
         },
-        "notes": "Colors (2007) is widely considered one of the greatest progressive metal albums ever recorded. Richardson's drumming on 'Prequel to the Sequel' — a 7/8 centerpiece that never sounds mathematical — established him as a peer of the genre's greatest practitioners. The Tama/Sabian setup that produced this record became his core configuration."
+        "notes": "Colors (2007) is widely considered one of the greatest progressive metal albums ever recorded. Richardson's drumming on 'Prequel to the Sequel' — a 7/8 centerpiece that never sounds mathematical — established him as a peer of the genre's greatest practitioners. The DW/Meinl setup that produced this record became his foundational configuration through 2018."
       },
       {
         "era": "Parallax Era",

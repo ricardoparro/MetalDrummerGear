@@ -37,10 +37,9 @@ export const articles = {
       ]
     },
     "drumKit": {
-      "title": "Lombardo's Weapon: The Tama Setup",
-      "brand": "Tama",
-      "model": "Tama Artstar II",
-      "finish": "Piano Black",
+      "title": "Lombardo's Weapon: The Pearl Setup",
+      "brand": "Pearl",
+      "model": "Pearl Maxwin",
       "config": {
         "bassdrums": [
           "22\" x 16\" Bass Drum (x2)"
@@ -55,12 +54,12 @@ export const articles = {
         ],
         "shells": "Birch shells with die-cast hoops"
       },
-      "description": "For Reign in Blood, Dave Lombardo used a Tama Artstar II kit in Piano Black finish. The Artstar II was Tama's professional series, featuring birch shells known for their punchy attack and focused low-end — perfect for the aggressive thrash sound Slayer was developing.\n\nThe double bass drum setup was essential to Lombardo's style. Unlike many drummers who use a double pedal on a single bass drum, Dave insisted on two separate 22\" drums for maximum impact and consistency. Each drum was independently miked, giving engineer Andy Wallace complete control in the mix.\n\nThe tom configuration was relatively standard for the era: two rack toms and two floor toms. However, Lombardo's playing was anything but standard — his lightning-fast fills moved around the kit with precision and power that few could match.\n\nThe birch shells of the Artstar II provided the attack and projection needed to cut through Slayer's wall of guitars. The die-cast hoops added sustain control and durability, essential for Lombardo's aggressive stick attacks.",
+      "description": "For Reign in Blood, Dave Lombardo played a Pearl kit — the same brand he'd been on since signing with Pearl in 1981, at the very start of his time with Slayer. His now-famous switch to Tama came later in his career, well after Reign in Blood was recorded.\n\nThe double bass drum setup was essential to Lombardo's style. Unlike many drummers who use a double pedal on a single bass drum, Dave insisted on two separate 22\" drums for maximum impact and consistency. Each drum was independently miked, giving engineer Andy Wallace complete control in the mix.\n\nThe tom configuration was relatively standard for the era: two rack toms and two floor toms. However, Lombardo's playing was anything but standard — his lightning-fast fills moved around the kit with precision and power that few could match.\n\nThe birch shells provided the attack and projection needed to cut through Slayer's wall of guitars. The die-cast hoops added sustain control and durability, essential for Lombardo's aggressive stick attacks.",
       "notes": [
         "Double bass drums for maximum attack, not a double pedal",
         "Birch shells provided attack and projection",
-        "Piano Black finish matched Slayer's stage aesthetic",
-        "This kit would remain Dave's preference through the 80s"
+        "Pearl kit Lombardo had played since signing with the brand in 1981",
+        "His later, long-running switch to Tama came after this era"
       ],
       "estimatedValue": "$2,500-3,500 (1986)"
     },
@@ -217,11 +216,11 @@ export const articles = {
     ],
     "evolution": {
       "title": "From Reign in Blood to Today: Lombardo's Journey",
-      "content": "Reign in Blood established Dave Lombardo as one of metal's greatest drummers, but his gear and style continued to evolve. His influence extended far beyond Slayer, shaping everything from death metal to hardcore.\n\n**Post-Reign in Blood Changes:**\nAfter Reign in Blood, Lombardo experimented with different setups while maintaining his core approach. He briefly switched to DW drums in the 90s before returning to Tama. His cymbal choices expanded to include more Paiste models.\n\n**Signature Developments:**\nLombardo developed signature products with multiple companies, including sticks and cymbals that reflected his aggressive playing style. His Pro-Mark signature sticks became popular with thrash drummers worldwide.\n\n**Modern Setup:**\nToday, Lombardo plays:\n- Tama Starclassic Performer B/B drums\n- Tama S.L.P. snare drums (various)\n- Paiste RUDE cymbals\n- Tama Iron Cobra 900 pedals\n- Promark Dave Lombardo Signature sticks\n\nThe fundamentals remain: power, speed, and the Cuban-influenced groove that made him unique.",
+      "content": "Reign in Blood established Dave Lombardo as one of metal's greatest drummers, but his gear and style continued to evolve. His influence extended far beyond Slayer, shaping everything from death metal to hardcore.\n\n**Post-Reign in Blood Changes:**\nAfter Reign in Blood, Lombardo moved on from his early Pearl kit and switched to Tama, a relationship that has defined his career ever since. His cymbal choices expanded to include more Paiste models.\n\n**Signature Developments:**\nLombardo developed signature products with multiple companies, including sticks and cymbals that reflected his aggressive playing style. His Pro-Mark signature sticks became popular with thrash drummers worldwide.\n\n**Modern Setup:**\nToday, Lombardo plays:\n- Tama Starclassic Performer B/B drums\n- Tama S.L.P. snare drums (various)\n- Paiste RUDE cymbals\n- Tama Iron Cobra 900 pedals\n- Promark Dave Lombardo Signature sticks\n\nThe fundamentals remain: power, speed, and the Cuban-influenced groove that made him unique.",
       "thenVsNow": [
         {
           "category": "Kit",
-          "then": "Tama Artstar II Birch",
+          "then": "Pearl Maxwin",
           "now": "Tama Starclassic Performer B/B"
         },
         {
@@ -292,7 +291,7 @@ export const articles = {
     "faq": [
       {
         "question": "What drum kit did Dave Lombardo use on Reign in Blood?",
-        "answer": "Dave Lombardo recorded Reign in Blood in 1986 on a Tama Artstar II kit featuring birch shells with die-cast hoops. He ran a double bass configuration with two 22x16 inch bass drums, 10x8 and 12x9 inch rack toms, and 14x14 and 16x16 inch floor toms. His snare was a Tama Superstar Steel at 14x6.5 inches. The birch shells gave the kit an aggressive, cutting attack perfectly suited to Slayer's relentless tempo."
+        "answer": "Dave Lombardo recorded Reign in Blood in 1986 on a Pearl kit — the same brand he'd played since signing with Pearl in 1981, well before his later switch to Tama — featuring birch shells with die-cast hoops. He ran a double bass configuration with two 22x16 inch bass drums, 10x8 and 12x9 inch rack toms, and 14x14 and 16x16 inch floor toms. His snare was a Tama Superstar Steel at 14x6.5 inches. The birch shells gave the kit an aggressive, cutting attack perfectly suited to Slayer's relentless tempo."
       },
       {
         "question": "What cymbals did Dave Lombardo use on Reign in Blood?",
@@ -300,12 +299,12 @@ export const articles = {
       },
       {
         "question": "How much does Dave Lombardo's Reign in Blood kit cost?",
-        "answer": "Dave Lombardo's Tama Artstar II double bass setup would have cost approximately $2,500 to $3,500 new in 1986. The Tama Superstar Steel snare added another $250 to $350 at the time. Vintage Artstar II kits in good condition now command a premium among collectors. Paiste RUDE cymbals remain in production, so that portion of the setup is more affordable to replicate today, with individual pieces ranging from $150 to $400 depending on size."
+        "answer": "Dave Lombardo's Pearl double bass setup would have cost approximately $2,500 to $3,500 new in 1986. The Tama Superstar Steel snare added another $250 to $350 at the time. Vintage Pearl kits from this era in good condition now command a premium among collectors. Paiste RUDE cymbals remain in production, so that portion of the setup is more affordable to replicate today, with individual pieces ranging from $150 to $400 depending on size."
       }
     ],
     "conclusion": {
       "title": "The Template for Extreme Metal",
-      "content": "Reign in Blood's drum sound became the template for extreme metal production. The combination of Lombardo's incredible performance and Rubin's stripped-down production created something that countless bands have tried to replicate.\n\nWhat makes the album's drum sound special isn't just the speed — it's the musicality. Lombardo's Cuban heritage shows in his fills and grooves. His ability to maintain precision at extreme tempos while still swinging and grooving separates him from mere speed merchants.\n\nFor drummers studying Reign in Blood, the lessons are clear: technique matters, but so does taste. Power is essential, but control is equally important. And sometimes the most effective production approach is the simplest one.\n\nThe gear Dave Lombardo used was professional but not exotic. The Tama kit and Paiste cymbals were solid, reliable instruments. What made the difference was the player behind them and the vision of how to capture that performance. That combination created 29 minutes that changed metal forever."
+      "content": "Reign in Blood's drum sound became the template for extreme metal production. The combination of Lombardo's incredible performance and Rubin's stripped-down production created something that countless bands have tried to replicate.\n\nWhat makes the album's drum sound special isn't just the speed — it's the musicality. Lombardo's Cuban heritage shows in his fills and grooves. His ability to maintain precision at extreme tempos while still swinging and grooving separates him from mere speed merchants.\n\nFor drummers studying Reign in Blood, the lessons are clear: technique matters, but so does taste. Power is essential, but control is equally important. And sometimes the most effective production approach is the simplest one.\n\nThe gear Dave Lombardo used was professional but not exotic. The Pearl kit and Paiste cymbals were solid, reliable instruments. What made the difference was the player behind them and the vision of how to capture that performance. That combination created 29 minutes that changed metal forever."
     }
   },
   "show-no-mercy-drum-setup": {

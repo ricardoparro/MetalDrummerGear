@@ -5,6 +5,34 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-09-12 03:12 UTC*
 
 ---
+## 2026-09-12 10:08 — Deep run: 7 fresh fabrication proposals promoted (#7381-7387); caught and corrected a stale-fact error in #7382 before promoting
+
+### Context (≤3 lines)
+First run after 07:00 UTC — today's deep run. Metrics 10:08 UTC (303 users/336 sessions/593 views 7d; GSC 7,932 impr/154 clicks/1.94% CTR/pos 8.2). Eligible `ai-fix` backlog 0 at start (all 20 open `ai-fix` are `hold`-labeled freeze-blocked roster/band splits), 0 open PRs, 7 fresh untriaged `seo-proposal` (#7381-7387, filed 05:19-05:21 UTC) plus the 3 standing L1/L2/L3 umbrellas (#3810/#3819/#2211).
+
+### Actions taken
+- **Live-verified all 7 directly via grep** against source + cross-checked `endorsementNews.js`: #7381 (Blake Richardson, `albumArticles.js` career-overview entry says Pearl kit/Tama-in-2006/Sabian-in-2006 — confirmed verified record is DW+Meinl 2006-2018, Tama/Sabian only from 2018), #7383 (Scott Travis, `top10Lists.js` speed-metal FAQ says "DW kit" for Painkiller/1990 — confirmed verified Tama Artstar II for that era, DW only ever his pedal brand since 2018), #7384 (John Otto, `top10Lists.js` fabricates a whole "Zildjian K Custom, darker tone" narrative — confirmed verified cymbal endorsement is A & A Custom Series since 1994, the opposite tonal family), #7385 (Vinnie Paul, `albumArticles.js` 2 album entries say "Vater" signature sticks — confirmed verified sticks are Vic Firth American Classic 5B, Vater never appears in his record), #7386 (Shannon Larkin, `extendedBios.js` `metaDescription` — a crawler-visible field — says Pearl drums + Promark sticks, confirmed verified ddrum Dios Series + Vic Firth), #7387 (Chris Turner, `drummerComparisons.js` + `extendedBios.js` disagree with each other on wood species and both invent a nonexistent Meinl "Pure Alloy" line — confirmed verified record is Maple/Birch + Byzance Series only, no Pure Alloy anywhere).
+- **#7382 (Matt Garstka snare) — caught a stale-fact error in the proposal itself before promoting.** The proposal correctly flagged `snares.js` fabricating Tama as the snare brand (Tama is only ever his pedal brand), but its proposed fix — "Pearl Matt Garstka Signature Snare" — cited only `endorsementNews.js`'s 2014 SIGNATURE timeline entry without reading the rest of the timeline. The same file's 2021 SWITCHED entry (lines 2806-2811) shows Garstka's whole kit, including snare, moved to a **DW Collector's Series Purpleheart** snare in September 2021 — independently confirmed current in `extendedBios.js:2723/2758` and `drummerEvolution.js:13148/13210`. Pearl was correct only for the 2016-2021 window. Promoting the original fix as written would have shipped a fresh fabrication (right brand, wrong drummer-era) under the guise of a correction. Edited the issue title/body to the corrected fix (DW Collector's Series Purpleheart, no fabricated size since none is verified anywhere in site data) and commented explaining the correction before adding `ai-fix`. **Process note for `learned-patterns.md`: when a proposal cites a single timeline entry as "the verified fact," check whether a later timeline entry for the same category supersedes it — this is the same class of miss as the recording-window/Kairos lesson, just applied to endorsement-switch dates instead of album-recording dates.**
+- **Promoted all 7** (`ai-fix`, #7382 in corrected form). All single/few-file, additive/corrective on existing pages, zero new URLs — freeze-compliant.
+- **GSC content-gap**: `joey jordison drum set` (91 impr, 1.10% CTR, pos 11.3) re-confirmed against `learned-patterns.md` (lines 99/187/195/211) as an already-classified gear-qualified known oscillator. No new action.
+- **L1/L2/L3** (#3810/#3819/#2211): all three snapshots still the 2026-09-07 generation (confirmed via file `Generated:` timestamps), already fully triaged that day (see 09-07 17:16/11:37 entries). Next weekly refresh due ~09-14.
+- **Founder ideas**: inbox empty, unchanged since 06-19.
+- **Human-founder blockers**: #5141/#5100/#4892/#875/#529/#526/#525 — all `updatedAt` unchanged, no re-spam.
+- **Starvation check**: post-triage backlog 0→7, bank 7→0 (excl. umbrellas) — technically under 15/≤2 only transiently; same healthy batch-then-drain cadence as every run this week, not escalating.
+
+### State delta
+- ai-fix backlog: 0 → 7 (#7381-7387)
+- seo-proposal bank (excl. umbrellas): 7 → 0
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 7/7 fresh triaged, live-verified via direct grep, 1 corrected before promotion, freeze-compliant. ✅ GSC-gap: 1 row re-confirmed already-classified oscillator, no new fix needed. ✅ L1/L2/L3: no fresh snapshot since 09-07, already fully actioned. ✅ Starvation: not triggered (healthy cadence). ✅ Decisions logged.
+
+### Next Run
+1. Watch #7381-7387 ship via Roadie/PR Merger; double-check #7382's PR doesn't reintroduce fabricated snare dimensions.
+2. Watch for the next L1/L2/L3 weekly refresh (due ~09-14).
+3. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---
 ## 2026-09-12 03:12 — Cheap pulse: 8 fresh albumArticles/top10Lists/snares/cymbalSetups fabrication proposals promoted (#7372-7379)
 
 ### Context (≤3 lines)

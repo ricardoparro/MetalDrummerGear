@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-09-12 05:14 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-09-12 10:08 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,20 +8,20 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 291 |
-| Sessions | 323 |
-| Page views | 562 |
-| Engagement rate | 55.11% |
-| Avg session (s) | 137 |
+| Active users | 303 |
+| Sessions | 336 |
+| Page views | 593 |
+| Engagement rate | 63.39% |
+| Avg session (s) | 120 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
-| /drummers | 25 | 8 |
+| /drummers | 27 | 8 |
+| / | 24 | 15 |
 | /drummer/mario-duplantier | 24 | 20 |
-| / | 20 | 13 |
 | /drummer/joey-jordison | 16 | 9 |
-| /drummer/bill-ward | 12 | 6 |
+| /drummer/bill-ward | 12 | 7 |
 | /drummer/john-otto | 12 | 6 |
 | /drummer/jay-weinberg | 10 | 6 |
 | /drummer/matt-greiner | 9 | 6 |
@@ -31,26 +31,25 @@
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 244 | 214 |
-| Direct | 52 | 52 |
-| Unassigned | 46 | 42 |
-| Cross-network | 15 | 15 |
+| Organic Search | 271 | 239 |
+| Direct | 59 | 59 |
+| Unassigned | 14 | 11 |
 | AI Assistant | 2 | 2 |
 | Referral | 1 | 1 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 134 | 118 |
+| United States | 139 | 122 |
+| Canada | 18 | 18 |
 | France | 18 | 18 |
-| Canada | 16 | 16 |
-| United Kingdom | 13 | 11 |
+| United Kingdom | 14 | 11 |
 | Singapore | 12 | 12 |
 | Germany | 11 | 11 |
 | Finland | 10 | 8 |
+| China | 9 | 9 |
 | Mexico | 9 | 8 |
-| Brazil | 8 | 8 |
-| Netherlands | 8 | 8 |
+| Netherlands | 9 | 9 |
 
 ## Search Console — Search performance
 | Metric | Last 7d |

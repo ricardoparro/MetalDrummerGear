@@ -7085,7 +7085,7 @@ Turner's drumming videos have gone viral on social media, showcasing his ability
 **Current Setup:**
 - **Drums**: Tama Starclassic Maple/Birch in custom finish
 - **Snare**: Tama S.L.P. 14"x5.5" G-Maple
-- **Cymbals**: Meinl (Byzance and Pure Alloy series)
+- **Cymbals**: Meinl Byzance Series (Extra Dry / Dual)
 - **Hardware**: Tama Speed Cobra 910 double pedal
 - **Throne**: Tama 1st Chair Throne
 - **Sticks**: Vic Firth American Classic 5A

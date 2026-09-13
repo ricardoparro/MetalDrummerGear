@@ -1542,12 +1542,11 @@ export const articles = {
     "dateModified": "2026-06-24",
     "author": "MetalForge Editorial",
     "title": "Train of Thought Drum Setup — Mike Portnoy's Heaviest Dream Theater Kit (2003)",
-    "description": "Complete breakdown of Mike Portnoy's drum gear on Dream Theater's Train of Thought (2003). Discover the expanded Tama Starclassic Maple kit, Sabian AAX cymbals, Pearl Eliminator pedals, and the Metallica/Pantera-influenced technique behind DT's heaviest album.",
+    "description": "Complete breakdown of Mike Portnoy's drum gear on Dream Theater's Train of Thought (2003). Discover the expanded Tama Starclassic Maple kit, Sabian AAX cymbals, and the Metallica/Pantera-influenced technique behind DT's heaviest album.",
     "seoKeywords": [
       "train of thought drum setup",
       "mike portnoy 2003 drum kit",
       "dream theater heavy album drums",
-      "mike portnoy pearl eliminator",
       "dream theater train of thought gear",
       "mike portnoy sabian aax",
       "dream theater metal album drummer"
@@ -1555,13 +1554,12 @@ export const articles = {
     "ogImage": "/images/albums/train-of-thought-drums.webp",
     "intro": {
       "title": "Dream Theater's Heavy Pivot: The Drum Story Behind Train of Thought",
-      "content": "Released on November 3, 2003, *Train of Thought* is Dream Theater's most deliberately heavy record — a full-throttle plunge into Metallica and Pantera territory that shocked fans accustomed to the melodic complexity of *Metropolis Pt. 2* and *Six Degrees of Inner Turbulence*. The album marked the band's first release on Roadrunner Records, a label synonymous with extreme metal, and the gear and playing style Mike Portnoy brought to the sessions reflected that new context completely.\n\nThe sessions took place at Avatar Studios (formerly The Power Station) in New York City — a world-class facility that had hosted recordings by Frank Sinatra, Bruce Springsteen, and dozens of heavy acts. Dream Theater self-produced the album alongside John Petrucci, stripping away the orchestral layers and prog complexity of the previous two records in favor of raw, crushing heaviness. The decision was deliberate: before recording began, the band immersed themselves in Metallica and Pantera records, absorbing the directness and aggression that had defined heavy metal's mainstream peak in the 1990s.\n\nFor Mike Portnoy, *Train of Thought* represented the largest, heaviest, and most powerful kit configuration of his Dream Theater career to that point. The expanded Tama Starclassic Maple setup — stretched to approximately 13 drums — gave him a broader sonic palette for the album's relentless double-bass patterns and tom-driven riffs. The switch from his previous cymbal configuration to Sabian AAX — a brighter, more aggressive series than the Artisan cymbals of the *Scenes from a Memory* era — matched the album's harder edge. And the adoption of Pearl Eliminator double pedals brought a new mechanical authority to his already formidable two-foot vocabulary.\n\n*Train of Thought* is the hinge between Dream Theater's reflective prog period and the more aggressive work that followed. This article breaks down every piece of equipment Mike Portnoy used to record the heaviest album of his Dream Theater tenure.",
+      "content": "Released on November 3, 2003, *Train of Thought* is Dream Theater's most deliberately heavy record — a full-throttle plunge into Metallica and Pantera territory that shocked fans accustomed to the melodic complexity of *Metropolis Pt. 2* and *Six Degrees of Inner Turbulence*. The album marked the band's first release on Roadrunner Records, a label synonymous with extreme metal, and the gear and playing style Mike Portnoy brought to the sessions reflected that new context completely.\n\nThe sessions took place at Avatar Studios (formerly The Power Station) in New York City — a world-class facility that had hosted recordings by Frank Sinatra, Bruce Springsteen, and dozens of heavy acts. Dream Theater self-produced the album alongside John Petrucci, stripping away the orchestral layers and prog complexity of the previous two records in favor of raw, crushing heaviness. The decision was deliberate: before recording began, the band immersed themselves in Metallica and Pantera records, absorbing the directness and aggression that had defined heavy metal's mainstream peak in the 1990s.\n\nFor Mike Portnoy, *Train of Thought* represented the largest, heaviest, and most powerful kit configuration of his Dream Theater career to that point. The expanded Tama Starclassic Maple setup — stretched to approximately 13 drums — gave him a broader sonic palette for the album's relentless double-bass patterns and tom-driven riffs. The switch from his previous cymbal configuration to Sabian AAX — a brighter, more aggressive series than the Artisan cymbals of the *Scenes from a Memory* era — matched the album's harder edge, and his double-bass technique brought a new mechanical authority to his already formidable two-foot vocabulary.\n\n*Train of Thought* is the hinge between Dream Theater's reflective prog period and the more aggressive work that followed. This article breaks down every piece of equipment Mike Portnoy used to record the heaviest album of his Dream Theater tenure.",
       "keyPoints": [
         "Dream Theater's first Roadrunner Records album — heaviest of the Portnoy era",
         "Recorded at Avatar Studios (The Power Station), New York City",
         "Expanded Tama Starclassic Maple to ~13 drums — largest kit of his DT career to this point",
         "Sabian AAX cymbals: brighter, more aggressive than the Artisan series of Scenes from a Memory",
-        "Pearl Eliminator double pedals — primary endorsement this era",
         "Deliberate Metallica/Pantera influence: heaviest technique of any Dream Theater album",
         "First DT album since Portnoy's heavier playing style fully emerged"
       ]
@@ -1668,15 +1666,8 @@ export const articles = {
       "estimatedValue": "$2,200-2,900 total (2003 Sabian AAX setup)"
     },
     "hardware": {
-      "title": "Pearl Eliminator Pedals and Hardware",
+      "title": "Hardware for the Heaviest DT Album",
       "items": [
-        {
-          "type": "Bass Drum Pedal",
-          "brand": "Pearl",
-          "model": "Pearl Eliminator Double Pedal",
-          "notes": "Pearl Eliminator — primary endorsement this era, replacing the DW 5000",
-          "description": "For *Train of Thought*, Mike Portnoy had transitioned from DW 5000 double pedals to the Pearl Eliminator — one of the most technically advanced double pedal systems available in the early 2000s. The Eliminator's multi-cam system (interchangeable cams for different response curves) gave Portnoy the ability to fine-tune his pedal feel to match the album's demanding double-bass requirements. The heavier, more aggressive playing style on *Train of Thought* demanded a pedal that could keep pace with relentless machine-gun patterns — and the Eliminator's power-to-weight ratio and adjustable tension made it ideal for this purpose."
-        },
         {
           "type": "Hi-Hat Stand",
           "brand": "Tama",
@@ -1710,12 +1701,12 @@ export const articles = {
     },
     "recordingTechniques": {
       "title": "Avatar Studios: Capturing the Heaviest DT Album",
-      "content": "Recording *Train of Thought* at Avatar Studios in New York — formerly The Power Station, one of the most storied recording rooms in American music history — gave Dream Theater access to a large-format tracking room capable of capturing the full weight of Portnoy's expanded kit. The room's live, natural acoustic character contributed significantly to the album's raw, heavy sound.\n\n**Self-Production Philosophy:**\nDream Theater self-produced *Train of Thought* alongside John Petrucci, working with engineer Doug Oberkircher. Self-production gave the band total control over the drum sound — and they used it to push for maximum heaviness without the softening instincts an outside producer might have applied. The decision to make the album \"the heaviest thing we've ever done\" (Portnoy's description in contemporary interviews) was built into the production approach from day one.\n\n**Metallica/Pantera-Influenced Technique:**\nBefore entering the studio, the band deliberately immersed themselves in Metallica's *Master of Puppets* and Pantera's *Vulgar Display of Power* — the definitive documents of heavy metal drumming aggression. Portnoy absorbed the physics of Lars Ulrich's machine-like consistency and Vinnie Paul's sheer physical power, then applied both to the progressive structures that Dream Theater couldn't abandon even in their heaviest mode.\n\n**Microphone Setup:**\n- Kick drums: Two-mic setup per kick — close dynamic plus tunnel condenser\n- Snare: Shure SM57 top, secondary mic bottom for snare wire character\n- Toms: Dynamic close-mics on each of the 13 drums, minimal bleed\n- Hi-hat: Small-diaphragm condenser for articulation detail\n- Overheads: Stereo condenser pair in ORTF configuration\n- Room: Minimal room mics relative to the SFaM sessions — drier, more focused sound\n\n**Double Bass Programming:**\nThe double bass work on *Train of Thought* is the most consistently demanding of Portnoy's DT discography. Tracks like \"This Dying Soul\" and \"In the Name of God\" deploy extended double-bass patterns at high velocity that would challenge any drummer. The Pearl Eliminator pedals, with their adjustable response curves, were critical to maintaining consistency across the full 75-minute album.",
+      "content": "Recording *Train of Thought* at Avatar Studios in New York — formerly The Power Station, one of the most storied recording rooms in American music history — gave Dream Theater access to a large-format tracking room capable of capturing the full weight of Portnoy's expanded kit. The room's live, natural acoustic character contributed significantly to the album's raw, heavy sound.\n\n**Self-Production Philosophy:**\nDream Theater self-produced *Train of Thought* alongside John Petrucci, working with engineer Doug Oberkircher. Self-production gave the band total control over the drum sound — and they used it to push for maximum heaviness without the softening instincts an outside producer might have applied. The decision to make the album \"the heaviest thing we've ever done\" (Portnoy's description in contemporary interviews) was built into the production approach from day one.\n\n**Metallica/Pantera-Influenced Technique:**\nBefore entering the studio, the band deliberately immersed themselves in Metallica's *Master of Puppets* and Pantera's *Vulgar Display of Power* — the definitive documents of heavy metal drumming aggression. Portnoy absorbed the physics of Lars Ulrich's machine-like consistency and Vinnie Paul's sheer physical power, then applied both to the progressive structures that Dream Theater couldn't abandon even in their heaviest mode.\n\n**Microphone Setup:**\n- Kick drums: Two-mic setup per kick — close dynamic plus tunnel condenser\n- Snare: Shure SM57 top, secondary mic bottom for snare wire character\n- Toms: Dynamic close-mics on each of the 13 drums, minimal bleed\n- Hi-hat: Small-diaphragm condenser for articulation detail\n- Overheads: Stereo condenser pair in ORTF configuration\n- Room: Minimal room mics relative to the SFaM sessions — drier, more focused sound\n\n**Double Bass Programming:**\nThe double bass work on *Train of Thought* is the most consistently demanding of Portnoy's DT discography. Tracks like \"This Dying Soul\" and \"In the Name of God\" deploy extended double-bass patterns at high velocity that would challenge any drummer. Precise pedal technique and tuning were critical to maintaining consistency across the full 75-minute album.",
       "keyTechniques": [
         "Self-produced alongside Petrucci — full creative control over drum sound direction",
         "Deliberate Metallica/Pantera influence: Lars-style consistency + Vinnie Paul physical power",
         "Drier, tighter drum sound compared to the room-aware SFaM sessions",
-        "Pearl Eliminator pedals tuned for sustained high-velocity double bass patterns",
+        "Double bass pedal technique tuned for sustained high-velocity patterns",
         "Largest kit configuration gave full tom-cascade range for extended instrumental passages"
       ]
     },
@@ -1730,7 +1721,7 @@ export const articles = {
           "Portnoy drives with a stripped-back, authoritative approach",
           "Demonstrates how much impact comes from restraint within a heavy framework"
         ],
-        "gearNotes": "Pearl Eliminator double pedal locks in the verse double-bass pattern. AAX Stage Crashes accent each chorus entry with aggressive, quick response."
+        "gearNotes": "Fast double-bass pedal work locks in the verse pattern. AAX Stage Crashes accent each chorus entry with aggressive, quick response."
       },
       {
         "track": "This Dying Soul",
@@ -1778,16 +1769,16 @@ export const articles = {
           "Showcases Portnoy's ability to sustain intensity across an ultra-long form",
           "Ends the album at maximum scale after 75 minutes of accumulated heaviness"
         ],
-        "gearNotes": "Every drum in the expanded setup appears across the track's 24 minutes. Pearl Eliminator sustains high-velocity double-bass patterns across extended passages without fatigue-induced drift."
+        "gearNotes": "Every drum in the expanded setup appears across the track's 24 minutes. Sustained high-velocity double-bass patterns hold up across extended passages without fatigue-induced drift."
       }
     ],
     "techniques": {
       "title": "Portnoy's Heavy Pivot: The Train of Thought Techniques",
-      "content": "*Train of Thought* required Mike Portnoy to apply his progressive metal technique to a fundamentally different playing philosophy — one driven by physical heaviness rather than compositional complexity. The techniques showcased across the album represent a deliberate recalibration toward the end of the power spectrum.\n\n**Metallica-Influenced Consistency:**\nLars Ulrich's great contribution to heavy metal drumming was the demonstration that machine-like consistency — the same pattern executed identically for four minutes — could be as powerful as technical complexity. Portnoy absorbed this lesson for *Train of Thought*, deploying extended grooves with unwavering commitment. \"As I Am\" is the prime example: it doesn't need complexity to be devastating.\n\n**Vinnie Paul's Physical Power:**\nFrom Pantera's percussionist, Portnoy took the lesson of playing at maximum physical intensity — hitting through the drums rather than to them. The snare on *Train of Thought* sounds like it's been struck with conviction rather than precision, even when the playing is technically exact. This distinction — power over finesse without sacrificing accuracy — was the key adjustment from the SFaM playing style.\n\n**Sustained Double Bass at Velocity:**\nThe Pearl Eliminator's multi-cam system allowed Portnoy to calibrate his pedal feel for extended high-velocity passages. \"This Dying Soul\" and \"In the Name of God\" both deploy double-bass patterns that last longer than anything on previous DT albums. Sustaining this intensity across a 75-minute recording session required both physical conditioning and pedal optimization.\n\n**Progressive Heaviness — Not Either/Or:**\nDespite the heavy pivot, *Train of Thought* doesn't abandon progressive time signatures — it just puts them in a heavier container. The 7/8 sections of \"Endless Sacrifice\" still require internalized odd-time fluency. The album proves that Metallica-level heaviness and Portnoy-level progressive complexity are not mutually exclusive. The combination is uniquely Dream Theater.\n\n**Expanded Kit as Compositional Resource:**\nThe additional drums in the expanded setup weren't cosmetic. The 18\" floor tom adds low-end tom weight for the heaviest passages. The fifth rack tom extends the cascade range. Portnoy used the full range compositionally — each drum appeared in deliberate musical context rather than as random visual excess.",
+      "content": "*Train of Thought* required Mike Portnoy to apply his progressive metal technique to a fundamentally different playing philosophy — one driven by physical heaviness rather than compositional complexity. The techniques showcased across the album represent a deliberate recalibration toward the end of the power spectrum.\n\n**Metallica-Influenced Consistency:**\nLars Ulrich's great contribution to heavy metal drumming was the demonstration that machine-like consistency — the same pattern executed identically for four minutes — could be as powerful as technical complexity. Portnoy absorbed this lesson for *Train of Thought*, deploying extended grooves with unwavering commitment. \"As I Am\" is the prime example: it doesn't need complexity to be devastating.\n\n**Vinnie Paul's Physical Power:**\nFrom Pantera's percussionist, Portnoy took the lesson of playing at maximum physical intensity — hitting through the drums rather than to them. The snare on *Train of Thought* sounds like it's been struck with conviction rather than precision, even when the playing is technically exact. This distinction — power over finesse without sacrificing accuracy — was the key adjustment from the SFaM playing style.\n\n**Sustained Double Bass at Velocity:**\nCareful pedal-feel calibration allowed Portnoy to sustain extended high-velocity passages. \"This Dying Soul\" and \"In the Name of God\" both deploy double-bass patterns that last longer than anything on previous DT albums. Sustaining this intensity across a 75-minute recording session required both physical conditioning and pedal optimization.\n\n**Progressive Heaviness — Not Either/Or:**\nDespite the heavy pivot, *Train of Thought* doesn't abandon progressive time signatures — it just puts them in a heavier container. The 7/8 sections of \"Endless Sacrifice\" still require internalized odd-time fluency. The album proves that Metallica-level heaviness and Portnoy-level progressive complexity are not mutually exclusive. The combination is uniquely Dream Theater.\n\n**Expanded Kit as Compositional Resource:**\nThe additional drums in the expanded setup weren't cosmetic. The 18\" floor tom adds low-end tom weight for the heaviest passages. The fifth rack tom extends the cascade range. Portnoy used the full range compositionally — each drum appeared in deliberate musical context rather than as random visual excess.",
       "keyTechniques": [
         "Lars Ulrich-influenced machine consistency: power through repetition, not complexity",
         "Vinnie Paul's physical authority: striking through the drums at maximum conviction",
-        "Pearl Eliminator multi-cam system calibrated for sustained high-velocity double bass",
+        "Double bass pedal technique calibrated for sustained high-velocity passages",
         "Progressive time signatures embedded within a heavy context — not either/or",
         "Expanded 13-drum setup used compositionally across the album's extended passages"
       ]
@@ -1803,15 +1794,11 @@ export const articles = {
       },
       {
         "question": "Why is Train of Thought Dream Theater's heaviest album?",
-        "answer": "Train of Thought is Dream Theater's heaviest album by deliberate design. Before recording, the band immersed themselves in Metallica's Master of Puppets and Pantera's Vulgar Display of Power, choosing to apply that level of heaviness to their progressive structures. It was also their first Roadrunner Records album — a label synonymous with extreme metal — and they wanted to match the label's aesthetic while staying true to their prog identity. Mike Portnoy's expanded 13-drum kit, Pearl Eliminator pedals, and Sabian AAX cymbals were all selected to support the heavier playing style. The album abandoned the orchestral complexity of Six Degrees of Inner Turbulence in favor of direct, aggressive, riff-driven heaviness."
-      },
-      {
-        "question": "What pedals did Mike Portnoy use on Train of Thought?",
-        "answer": "For Train of Thought, Mike Portnoy used Pearl Eliminator double pedals — his primary endorsement during this era, replacing the DW 5000 pedals he had used on Scenes from a Memory. The Pearl Eliminator features an interchangeable multi-cam system that allows drummers to adjust the response curve and power-to-stroke ratio. This tunability was critical for sustaining the album's high-velocity double-bass patterns across tracks like 'This Dying Soul' and 'In the Name of God' (which runs over 24 minutes). The Eliminator's power and adjustability made it well-suited to the heaviest double-bass demands of Portnoy's Dream Theater career."
+        "answer": "Train of Thought is Dream Theater's heaviest album by deliberate design. Before recording, the band immersed themselves in Metallica's Master of Puppets and Pantera's Vulgar Display of Power, choosing to apply that level of heaviness to their progressive structures. It was also their first Roadrunner Records album — a label synonymous with extreme metal — and they wanted to match the label's aesthetic while staying true to their prog identity. Mike Portnoy's expanded 13-drum kit and Sabian AAX cymbals were both selected to support the heavier playing style. The album abandoned the orchestral complexity of Six Degrees of Inner Turbulence in favor of direct, aggressive, riff-driven heaviness."
       },
       {
         "question": "How does the Train of Thought drum setup differ from Scenes from a Memory?",
-        "answer": "The two setups reflect fundamentally different albums. Key differences: (1) Kit size — Train of Thought expanded to ~13 drums vs. Scenes from a Memory's 8-drum configuration; (2) Cymbals — Sabian AAX (bright, aggressive) vs. Sabian Artisan (dark, hand-hammered, warm); (3) Pedals — Pearl Eliminator (multi-cam, power-focused) vs. DW 5000 (chain-drive, smooth); (4) Playing philosophy — Metallica/Pantera-influenced maximum heaviness vs. narrative-serving concept-album dynamics. The Starclassic Maple shell platform was shared between both eras, but everything built on top of it shifted dramatically. See the [Scenes from a Memory drum setup article](/articles/scenes-from-a-memory-drum-setup) for the full SFaM breakdown."
+        "answer": "The two setups reflect fundamentally different albums. Key differences: (1) Kit size — Train of Thought expanded to ~13 drums vs. Scenes from a Memory's 8-drum configuration; (2) Cymbals — Sabian AAX (bright, aggressive) vs. Sabian Artisan (dark, hand-hammered, warm); (3) Playing philosophy — Metallica/Pantera-influenced maximum heaviness vs. narrative-serving concept-album dynamics. The Starclassic Maple shell platform was shared between both eras, but everything built on top of it shifted dramatically. See the [Scenes from a Memory drum setup article](/articles/scenes-from-a-memory-drum-setup) for the full SFaM breakdown."
       }
     ],
     "quotes": [
@@ -1833,7 +1820,7 @@ export const articles = {
     ],
     "evolution": {
       "title": "From Train of Thought to What Came Next: Portnoy's Progression",
-      "content": "*Train of Thought* represents the apex of Mike Portnoy's maximal, heavy phase with Dream Theater. The Pearl Eliminator endorsement, expanded Starclassic Maple kit, and Sabian AAX configuration defined this specific moment in his gear history.\n\n**After Train of Thought:**\nDream Theater followed *Train of Thought* with *Octavarium* (2005) — a deliberate pendulum swing back toward melody and prog complexity, completing an arc from *Scenes from a Memory* through *Six Degrees* and *Train of Thought* to a more balanced statement. Portnoy's setup evolved again for that record, adjusting back toward the more nuanced dynamics that the prog context demanded.\n\n**The Pearl Eliminator Legacy:**\nThe Pearl Eliminator pedals introduced during the *Train of Thought* cycle represented a significant chapter in Portnoy's pedal history. Coming after the DW 5000 of the SFaM era, the Eliminator brought a different mechanical philosophy — more adjustable, more power-focused — that matched the album's needs precisely.\n\n**Looking Back at Scenes from a Memory:**\nThe contrast between the Sabian Artisan / DW 5000 / 8-drum configuration of *Scenes from a Memory* (1999) and the Sabian AAX / Pearl Eliminator / 13-drum setup of *Train of Thought* (2003) illustrates the full range of Mike Portnoy's gear vocabulary. Both setups were optimal for their albums — the changes were always driven by musical context. See the [Scenes from a Memory drum setup article](/articles/scenes-from-a-memory-drum-setup) for the 1999 breakdown.\n\n**Mike Mangini and the Next Chapter:**\nMike Portnoy left Dream Theater in September 2010. Mike Mangini joined in April 2011, bringing Pearl Masterworks shells and Meinl Byzance cymbals — a complete departure from everything in the Portnoy era. See the [A Dramatic Turn of Events drum setup article](/articles/a-dramatic-turn-of-events-drum-setup) for the Mangini era breakdown.",
+      "content": "*Train of Thought* represents the apex of Mike Portnoy's maximal, heavy phase with Dream Theater. The expanded Starclassic Maple kit and Sabian AAX configuration defined this specific moment in his gear history.\n\n**After Train of Thought:**\nDream Theater followed *Train of Thought* with *Octavarium* (2005) — a deliberate pendulum swing back toward melody and prog complexity, completing an arc from *Scenes from a Memory* through *Six Degrees* and *Train of Thought* to a more balanced statement. Portnoy's setup evolved again for that record, adjusting back toward the more nuanced dynamics that the prog context demanded.\n\n**Looking Back at Scenes from a Memory:**\nThe contrast between the Sabian Artisan / 8-drum configuration of *Scenes from a Memory* (1999) and the Sabian AAX / 13-drum setup of *Train of Thought* (2003) illustrates the full range of Mike Portnoy's gear vocabulary. Both setups were optimal for their albums — the changes were always driven by musical context. See the [Scenes from a Memory drum setup article](/articles/scenes-from-a-memory-drum-setup) for the 1999 breakdown.\n\n**Mike Mangini and the Next Chapter:**\nMike Portnoy left Dream Theater in September 2010. Mike Mangini joined in April 2011, bringing Pearl Masterworks shells and Meinl Byzance cymbals — a complete departure from everything in the Portnoy era. See the [A Dramatic Turn of Events drum setup article](/articles/a-dramatic-turn-of-events-drum-setup) for the Mangini era breakdown.",
       "thenVsNow": [
         {
           "category": "Kit",
@@ -1849,11 +1836,6 @@ export const articles = {
           "category": "Cymbals",
           "then": "Sabian AAX / AA Series",
           "now": "Sabian (various signature models)"
-        },
-        {
-          "category": "Pedals",
-          "then": "Pearl Eliminator Double Pedal",
-          "now": "Tama Iron Cobra Power Glide Twin Pedal"
         },
         {
           "category": "Sticks",
@@ -1885,7 +1867,7 @@ export const articles = {
     ],
     "conclusion": {
       "title": "The Heavy Chapter: Why Train of Thought Still Matters",
-      "content": "*Train of Thought* is the Dream Theater album that fans who came for the heaviness never wanted to end — and the one that surprised listeners who thought they knew exactly what Dream Theater was. It's a record that demonstrates something important: progressive complexity and maximum heaviness are not opposites. They can coexist, and when they do, the result is unique.\n\nMike Portnoy's contribution was central. The expanded 13-drum Starclassic Maple kit, Sabian AAX cymbals, and Pearl Eliminator pedals weren't just gear choices — they were a statement of intent. He was prepared to play the heaviest music of his career with the most powerful setup he'd ever assembled.\n\n**For drummers studying this album:**\n- The Metallica/Pantera influence teaches that heaviness is about conviction and consistency, not just speed\n- The Pearl Eliminator's adjustability demonstrates that pedal tuning is as important as pedal brand\n- Extended double-bass passages require physical conditioning — the body has to sustain what the mind demands\n- A 13-drum kit is only useful if you know what each drum is for compositionally\n- Maximum heaviness within a progressive framework is harder than either alone\n\n*Train of Thought* turned 20 years old in 2023, and it sounds as brutal and direct as the day it was released. For a band associated primarily with melodic complexity, that longevity is the strongest possible endorsement of the decision to go heavy.\n\nFor the progressive-era chapter that preceded this, see the [Scenes from a Memory drum setup article](/articles/scenes-from-a-memory-drum-setup). For the full career arc, visit the [Mike Portnoy drummer profile](/drummer/mike-portnoy)."
+      "content": "*Train of Thought* is the Dream Theater album that fans who came for the heaviness never wanted to end — and the one that surprised listeners who thought they knew exactly what Dream Theater was. It's a record that demonstrates something important: progressive complexity and maximum heaviness are not opposites. They can coexist, and when they do, the result is unique.\n\nMike Portnoy's contribution was central. The expanded 13-drum Starclassic Maple kit and Sabian AAX cymbals weren't just gear choices — they were a statement of intent. He was prepared to play the heaviest music of his career with the most powerful setup he'd ever assembled.\n\n**For drummers studying this album:**\n- The Metallica/Pantera influence teaches that heaviness is about conviction and consistency, not just speed\n- Careful pedal tuning demonstrates that feel is as important as raw power\n- Extended double-bass passages require physical conditioning — the body has to sustain what the mind demands\n- A 13-drum kit is only useful if you know what each drum is for compositionally\n- Maximum heaviness within a progressive framework is harder than either alone\n\n*Train of Thought* turned 20 years old in 2023, and it sounds as brutal and direct as the day it was released. For a band associated primarily with melodic complexity, that longevity is the strongest possible endorsement of the decision to go heavy.\n\nFor the progressive-era chapter that preceded this, see the [Scenes from a Memory drum setup article](/articles/scenes-from-a-memory-drum-setup). For the full career arc, visit the [Mike Portnoy drummer profile](/drummer/mike-portnoy)."
     }
   },
   "six-degrees-drum-setup": {
@@ -2206,7 +2188,7 @@ export const articles = {
     ],
     "evolution": {
       "title": "From Six Degrees to Train of Thought: Portnoy's Heavy Pivot",
-      "content": "*Six Degrees of Inner Turbulence* occupies a pivotal position in Mike Portnoy's gear and playing history — the bridge between the narrative-driven prog of *Scenes from a Memory* and the maximum-heaviness approach of *Train of Thought*. After *Six Degrees*, the direction became clear.\n\n**The Transition to Train of Thought:**\nBy 2003, Portnoy had decided to take Dream Theater in the direction they'd been hinting at on Disc 1 of *Six Degrees* — fully committed, deliberately heavy, Metallica and Pantera-influenced. The Pearl Eliminator pedals that replaced the DW system, the Sabian AAX cymbals that replaced the Artisan series, and the expanded 13-drum kit configuration all arrived with *Train of Thought*. The heavier playing instinct that \"The Glass Prison\" had displayed became the default mode. See the [Train of Thought drum setup article](/articles/train-of-thought-drum-setup) for the full 2003 configuration.\n\n**The Artisan Cymbal Era's End:**\n*Six Degrees* was the last major Dream Theater album to feature the Sabian Artisan series as Portnoy's primary cymbal setup. The warm, dark, hand-hammered character that had defined his sound from *Scenes from a Memory* through *Six Degrees* gave way to the brighter, more aggressive AAX series for the heavy pivot. Both cymbal philosophies were right for their albums.\n\n**The AA Suite's Beginning:**\nThe most lasting legacy of *Six Degrees* for Portnoy personally was \"The Glass Prison\" — the opening chapter of what would become a multi-album autobiographical project tracking his AA journey. That suite would continue across subsequent Dream Theater albums, cementing a personal narrative thread through his creative work that transcended any single record.\n\n**Looking Back at Scenes from a Memory:**\nThe contrast between the full emotional depth and restrained dynamics of *Scenes from a Memory* and the transitional energy of *Six Degrees* illustrates how Portnoy was testing the limits of the Starclassic Maple platform across the 1999-2002 period. Both albums are products of the same gear philosophy but different creative imperatives. See the [Scenes from a Memory drum setup article](/articles/scenes-from-a-memory-drum-setup) for the full SFaM breakdown.",
+      "content": "*Six Degrees of Inner Turbulence* occupies a pivotal position in Mike Portnoy's gear and playing history — the bridge between the narrative-driven prog of *Scenes from a Memory* and the maximum-heaviness approach of *Train of Thought*. After *Six Degrees*, the direction became clear.\n\n**The Transition to Train of Thought:**\nBy 2003, Portnoy had decided to take Dream Theater in the direction they'd been hinting at on Disc 1 of *Six Degrees* — fully committed, deliberately heavy, Metallica and Pantera-influenced. The Sabian AAX cymbals that replaced the Artisan series, and the expanded 13-drum kit configuration, all arrived with *Train of Thought*. The heavier playing instinct that \"The Glass Prison\" had displayed became the default mode. See the [Train of Thought drum setup article](/articles/train-of-thought-drum-setup) for the full 2003 configuration.\n\n**The Artisan Cymbal Era's End:**\n*Six Degrees* was the last major Dream Theater album to feature the Sabian Artisan series as Portnoy's primary cymbal setup. The warm, dark, hand-hammered character that had defined his sound from *Scenes from a Memory* through *Six Degrees* gave way to the brighter, more aggressive AAX series for the heavy pivot. Both cymbal philosophies were right for their albums.\n\n**The AA Suite's Beginning:**\nThe most lasting legacy of *Six Degrees* for Portnoy personally was \"The Glass Prison\" — the opening chapter of what would become a multi-album autobiographical project tracking his AA journey. That suite would continue across subsequent Dream Theater albums, cementing a personal narrative thread through his creative work that transcended any single record.\n\n**Looking Back at Scenes from a Memory:**\nThe contrast between the full emotional depth and restrained dynamics of *Scenes from a Memory* and the transitional energy of *Six Degrees* illustrates how Portnoy was testing the limits of the Starclassic Maple platform across the 1999-2002 period. Both albums are products of the same gear philosophy but different creative imperatives. See the [Scenes from a Memory drum setup article](/articles/scenes-from-a-memory-drum-setup) for the full SFaM breakdown.",
       "thenVsNow": [
         {
           "category": "Kit",
@@ -2273,7 +2255,7 @@ export const articles = {
     "dateModified": "2026-06-27",
     "author": "MetalForge Editorial",
     "title": "Octavarium Drum Setup — Mike Portnoy's 24-Minute Prog Landmark (Dream Theater, 2005)",
-    "description": "Complete breakdown of Mike Portnoy's drum gear on Dream Theater's Octavarium (2005). Discover the Tama Starclassic Maple kit, Sabian AAX cymbals, Pearl Eliminator pedals, and the technique behind the 24-minute title track — Portnoy's most ambitious studio performance.",
+    "description": "Complete breakdown of Mike Portnoy's drum gear on Dream Theater's Octavarium (2005). Discover the Tama Starclassic Maple kit, Sabian AAX cymbals, and the technique behind the 24-minute title track — Portnoy's most ambitious studio performance.",
     "seoKeywords": [
       "octavarium drum setup",
       "mike portnoy 2005 drum kit",
@@ -2287,14 +2269,13 @@ export const articles = {
     "ogImage": "/images/albums/octavarium-drums.webp",
     "intro": {
       "title": "Dream Theater's Orchestral Arch: The Drum Story Behind Octavarium",
-      "content": "Released on June 7, 2005, *Octavarium* is Dream Theater's eighth studio album and one of the most architecturally ambitious records of Mike Portnoy's tenure with the band. Where *Train of Thought* (2003) had pursued maximum heaviness and *Six Degrees of Inner Turbulence* (2002) had pursued maximum emotional scope, *Octavarium* sought something different: the integration of prog complexity, orchestral ambition, and personal narrative within a single cohesive statement.\n\nThe album is structured around the concept of the musical octave — the five studio tracks preceding the title track each begin on successive notes of the scale, while the 24-minute title track itself incorporates orchestral strings and compositional references that form an arch across the full album. The result is a record where every piece of music, including the drumming, serves a larger architectural purpose beyond the individual track.\n\nThe centerpiece is \"Octavarium\" itself — at 24 minutes, the longest Dream Theater studio track to that point and one of the defining performances of Portnoy's career. It requires him to sustain compositional discipline, dynamic range, and physical stamina across a piece that moves from near-silence to full-power prog-metal and back, multiple times, while maintaining the narrative coherence of the larger structure. This is a different demand than anything *Train of Thought* required.\n\nFor Mike Portnoy, *Octavarium* represents the continuation of the Tama Starclassic Maple platform established on *Train of Thought* — the same gear foundation redirected toward a more compositionally complex and dynamically nuanced musical purpose. The Sabian AAX cymbals that had served the heaviest DT album were now being asked to serve the most orchestrally ambitious one. The Pearl Eliminator pedals that had powered relentless double-bass on *Train of Thought* now anchored passages ranging from Portnoy's most delicate to his most powerful.\n\nThis article breaks down every piece of equipment Mike Portnoy used to record the most architecturally ambitious album of his Dream Theater career.",
+      "content": "Released on June 7, 2005, *Octavarium* is Dream Theater's eighth studio album and one of the most architecturally ambitious records of Mike Portnoy's tenure with the band. Where *Train of Thought* (2003) had pursued maximum heaviness and *Six Degrees of Inner Turbulence* (2002) had pursued maximum emotional scope, *Octavarium* sought something different: the integration of prog complexity, orchestral ambition, and personal narrative within a single cohesive statement.\n\nThe album is structured around the concept of the musical octave — the five studio tracks preceding the title track each begin on successive notes of the scale, while the 24-minute title track itself incorporates orchestral strings and compositional references that form an arch across the full album. The result is a record where every piece of music, including the drumming, serves a larger architectural purpose beyond the individual track.\n\nThe centerpiece is \"Octavarium\" itself — at 24 minutes, the longest Dream Theater studio track to that point and one of the defining performances of Portnoy's career. It requires him to sustain compositional discipline, dynamic range, and physical stamina across a piece that moves from near-silence to full-power prog-metal and back, multiple times, while maintaining the narrative coherence of the larger structure. This is a different demand than anything *Train of Thought* required.\n\nFor Mike Portnoy, *Octavarium* represents the continuation of the Tama Starclassic Maple platform established on *Train of Thought* — the same gear foundation redirected toward a more compositionally complex and dynamically nuanced musical purpose. The Sabian AAX cymbals that had served the heaviest DT album were now being asked to serve the most orchestrally ambitious one, and his double-bass technique now anchored passages ranging from Portnoy's most delicate to his most powerful.\n\nThis article breaks down every piece of equipment Mike Portnoy used to record the most architecturally ambitious album of his Dream Theater career.",
       "keyPoints": [
         "Dream Theater's eighth studio album — released June 7, 2005 on Roadrunner Records",
         "Recorded at Avatar Studios (The Power Station), New York — self-produced by Petrucci & Portnoy",
         "\"Octavarium\" title track: 24 minutes — longest DT studio track to that point, Portnoy's most ambitious single performance",
         "Tama Starclassic Maple kit — continuation of the Train of Thought platform, redeployed for orchestral prog",
         "Sabian AAX cymbals — same series as Train of Thought, now serving far wider dynamic contexts",
-        "Pearl Eliminator double pedals — sustained from the Train of Thought era",
         "Fills the arc: Train of Thought (2003) → Octavarium (2005) → Systematic Chaos (2007)"
       ]
     },
@@ -2400,15 +2381,8 @@ export const articles = {
       "estimatedValue": "$2,600-3,200 total (2005 Sabian AAX setup)"
     },
     "hardware": {
-      "title": "Pearl Eliminator Pedals and Hardware",
+      "title": "Hardware for a 24-Minute Prog Landmark",
       "items": [
-        {
-          "type": "Bass Drum Pedal",
-          "brand": "Pearl",
-          "model": "Pearl Eliminator Double Pedal",
-          "notes": "Continued from the Train of Thought era — adjustable cam system for variable feel across the 24-minute title track",
-          "description": "For *Octavarium*, Mike Portnoy continued with the Pearl Eliminator double pedal that had powered *Train of Thought*'s relentless double-bass patterns. The Eliminator's adjustable cam system — allowing transition between round (smoother) and offset (snappier) cam profiles — gave Portnoy the ability to calibrate the pedal feel for the title track's wildly varying demands. The 24-minute \"Octavarium\" moves from near-static passages to high-velocity double-bass and back multiple times; the Eliminator's adjustability was an asset across that range. The return to DW would come with *Systematic Chaos* (2007)."
-        },
         {
           "type": "Hi-Hat Stand",
           "brand": "Tama",
@@ -2462,7 +2436,7 @@ export const articles = {
           "High-energy double-bass patterns and aggressive fill vocabulary",
           "The personal autobiographical dimension gave Portnoy extra emotional investment"
         ],
-        "gearNotes": "The Pearl Eliminator at its most aggressive — the same feel as Train of Thought but within an album that immediately offers dynamic contrast. AAX crashes deployed at full dynamic for the heaviest accent moments."
+        "gearNotes": "Double-bass work at its most aggressive — the same feel as Train of Thought but within an album that immediately offers dynamic contrast. AAX crashes deployed at full dynamic for the heaviest accent moments."
       },
       {
         "track": "The Answer Lies Within",
@@ -2488,7 +2462,7 @@ export const articles = {
           "The compositional arch references musical phrases and themes from across the full album",
           "Requires sustained performance thinking at the scale of a film score"
         ],
-        "gearNotes": "The full 13-drum Starclassic Maple kit deployed across its widest possible dynamic range within a single track. AAX cymbal dynamics range from near-inaudible closed hi-hat to full-force crash. Pearl Eliminator double bass moves from static to high-velocity within the same 24-minute performance. The most demanding single-track deployment of the 2005 setup."
+        "gearNotes": "The full 13-drum Starclassic Maple kit deployed across its widest possible dynamic range within a single track. AAX cymbal dynamics range from near-inaudible closed hi-hat to full-force crash. Double bass work moves from static to high-velocity within the same 24-minute performance. The most demanding single-track deployment of the 2005 setup."
       }
     ],
     "techniques": {
@@ -2505,7 +2479,7 @@ export const articles = {
     "faq": [
       {
         "question": "What is the 24-minute Dream Theater song?",
-        "answer": "\"Octavarium\" — the title track of Dream Theater's 2005 album — is the 24-minute studio track that defined Mike Portnoy's most ambitious studio performance with the band. At 24 minutes, it was the longest Dream Theater studio track at the time of release. The track incorporates orchestral strings, multiple tempo and time signature changes, and a compositional arch that references musical phrases from across the full album. For Portnoy specifically, it required sustaining compositional discipline, dynamic range, and physical stamina across a structure that moves from near-silence to full-power prog-metal and back, multiple times. The entire performance was executed on the Tama Starclassic Maple kit with Sabian AAX cymbals and Pearl Eliminator double pedals — the same platform from Train of Thought (2003), redeployed for an entirely different musical purpose. For the complete gear and technique breakdown, see the [Mike Portnoy drummer profile](/drummer/mike-portnoy)."
+        "answer": "\"Octavarium\" — the title track of Dream Theater's 2005 album — is the 24-minute studio track that defined Mike Portnoy's most ambitious studio performance with the band. At 24 minutes, it was the longest Dream Theater studio track at the time of release. The track incorporates orchestral strings, multiple tempo and time signature changes, and a compositional arch that references musical phrases from across the full album. For Portnoy specifically, it required sustaining compositional discipline, dynamic range, and physical stamina across a structure that moves from near-silence to full-power prog-metal and back, multiple times. The entire performance was executed on the Tama Starclassic Maple kit with Sabian AAX cymbals — the same platform from Train of Thought (2003), redeployed for an entirely different musical purpose. For the complete gear and technique breakdown, see the [Mike Portnoy drummer profile](/drummer/mike-portnoy)."
       },
       {
         "question": "What drum kit did Mike Portnoy use on Octavarium (2005)?",
@@ -2517,7 +2491,7 @@ export const articles = {
       },
       {
         "question": "How does Octavarium fit in Mike Portnoy's Dream Theater gear arc?",
-        "answer": "Octavarium (2005) sits at the exact midpoint between two of the most significant gear transitions of Mike Portnoy's Dream Theater career. Train of Thought (2003) established the Tama Starclassic Maple / Sabian AAX / Pearl Eliminator platform — the heaviest kit configuration of his DT era. Systematic Chaos (2007) introduced the complete overhaul: Tama Starclassic Bubinga shells, Sabian HHX Evolution cymbals, and the DW 9000 double pedal. Octavarium bridges these two configurations, using the Train of Thought gear philosophy to serve a radically different musical purpose — orchestral prog rather than maximum heaviness. The gear is the same; the intention is different. See the [Train of Thought drum setup article](/articles/train-of-thought-drum-setup) and the [Systematic Chaos drum setup article](/articles/systematic-chaos-drum-setup) for the bookend configurations."
+        "answer": "Octavarium (2005) sits at the exact midpoint between two of the most significant gear transitions of Mike Portnoy's Dream Theater career. Train of Thought (2003) established the Tama Starclassic Maple / Sabian AAX platform — the heaviest kit configuration of his DT era. Systematic Chaos (2007) introduced the complete overhaul: Tama Starclassic Bubinga shells and Sabian HHX Evolution cymbals. Octavarium bridges these two configurations, using the Train of Thought gear philosophy to serve a radically different musical purpose — orchestral prog rather than maximum heaviness. The gear is the same; the intention is different. See the [Train of Thought drum setup article](/articles/train-of-thought-drum-setup) and the [Systematic Chaos drum setup article](/articles/systematic-chaos-drum-setup) for the bookend configurations."
       },
       {
         "question": "Is Octavarium a concept album, and how does that affect the drumming?",
@@ -2543,7 +2517,7 @@ export const articles = {
     ],
     "evolution": {
       "title": "From Train of Thought to Systematic Chaos: Portnoy's Mid-Decade Arc",
-      "content": "*Octavarium* occupies the exact middle of Mike Portnoy's most intense creative and gear evolution period — the five years between *Train of Thought* (2003) and *Systematic Chaos* (2007) that saw him transition from maple to bubinga, from AAX to HHX Evolution, and from Pearl to DW.\n\n**The Gear Platform Continuity:**\nFor *Octavarium*, Portnoy maintained the same gear platform established on *Train of Thought* — Tama Starclassic Maple, Sabian AAX, Pearl Eliminator. This continuity was not stagnation; it was the deliberate redeployment of a known, trusted setup for a radically different musical purpose. The same kit that had powered Dream Theater's heaviest album now needed to serve their most orchestrally ambitious one. See the [Train of Thought drum setup article](/articles/train-of-thought-drum-setup) for the full 2003 platform context.\n\n**The Coming Transition:**\nBy the time *Systematic Chaos* sessions began, Portnoy had decided the Maple platform had reached its natural limits for the new musical direction. The transition to Tama Starclassic Bubinga — denser, sharper-attacking, with faster decay — gave him a new physical and acoustic character suited to the Grammy-nominated heaviness of \"The Dark Eternal Night.\" The HHX Evolution cymbals brought darker complexity. The DW 9000 double pedals brought smoothness and speed for the most demanding foot patterns of his career. See the [Systematic Chaos drum setup article](/articles/systematic-chaos-drum-setup) for the full 2007 platform.\n\n**Octavarium in the Arc:**\nUnderstanding *Octavarium* as a transitional moment — the final major album on the Maple/AAX/Pearl platform before the complete refresh — gives it additional significance in the Portnoy gear story. The gear did not change between *Train of Thought* and *Octavarium*. The music changed enormously. That contrast — same tools, completely different musical result — is the Portnoy story in miniature.",
+      "content": "*Octavarium* occupies the exact middle of Mike Portnoy's most intense creative and gear evolution period — the five years between *Train of Thought* (2003) and *Systematic Chaos* (2007) that saw him transition from maple to bubinga and from AAX to HHX Evolution.\n\n**The Gear Platform Continuity:**\nFor *Octavarium*, Portnoy maintained the same gear platform established on *Train of Thought* — Tama Starclassic Maple, Sabian AAX. This continuity was not stagnation; it was the deliberate redeployment of a known, trusted setup for a radically different musical purpose. The same kit that had powered Dream Theater's heaviest album now needed to serve their most orchestrally ambitious one. See the [Train of Thought drum setup article](/articles/train-of-thought-drum-setup) for the full 2003 platform context.\n\n**The Coming Transition:**\nBy the time *Systematic Chaos* sessions began, Portnoy had decided the Maple platform had reached its natural limits for the new musical direction. The transition to Tama Starclassic Bubinga — denser, sharper-attacking, with faster decay — gave him a new physical and acoustic character suited to the Grammy-nominated heaviness of \"The Dark Eternal Night.\" The HHX Evolution cymbals brought darker complexity. See the [Systematic Chaos drum setup article](/articles/systematic-chaos-drum-setup) for the full 2007 platform.\n\n**Octavarium in the Arc:**\nUnderstanding *Octavarium* as a transitional moment — the final major album on the Maple/AAX platform before the complete refresh — gives it additional significance in the Portnoy gear story. The gear did not change between *Train of Thought* and *Octavarium*. The music changed enormously. That contrast — same tools, completely different musical result — is the Portnoy story in miniature.",
       "thenVsNow": [
         {
           "category": "Kit",
@@ -2554,11 +2528,6 @@ export const articles = {
           "category": "Cymbals",
           "then": "Sabian AAX Series",
           "now": "Sabian HHX Evolution — Systematic Chaos (2007)"
-        },
-        {
-          "category": "Pedals",
-          "then": "Pearl Eliminator Double Pedal",
-          "now": "DW 9000 Double Pedal — Systematic Chaos (2007)"
         },
         {
           "category": "Sticks",
@@ -2589,7 +2558,7 @@ export const articles = {
     "relatedLicks": [],
     "conclusion": {
       "title": "The Orchestral Arch: Why Octavarium Still Matters",
-      "content": "*Octavarium* is the Dream Theater album that demonstrates something crucial about Mike Portnoy as a musician: that technical ambition and compositional intelligence are not the same thing. The 24-minute title track is not technically complex in the way *In the Name of God* or *In the Presence of Enemies* is complex. It is compositionally complex — architecturally disciplined across 24 minutes in a way that only a drummer who thinks about music beyond the individual beat can sustain.\n\nThe Tama Starclassic Maple kit, Sabian AAX cymbals, and Pearl Eliminator pedals documented here are the same gear that recorded *Train of Thought*. The album they served on *Octavarium* is unrecognizable from *Train of Thought* in mood, ambition, and compositional approach. That contrast — same tools, completely different result — is the Portnoy story in miniature.\n\n**For drummers studying this album:**\n- The 24-minute title track teaches architectural thinking: know the full structure before playing the first bar\n- Dynamic range is a compositional tool, not just a consequence of playing harder or softer\n- Restraint on \"The Answer Lies Within\" is as purposeful as intensity on \"The Root of All Evil\"\n- Personal narrative in music — the AA suite continuation — creates emotional stakes that technique alone cannot replicate\n- Orchestral integration requires dynamic deference: drums serve the strings, not the other way around\n\nFor the heavy chapter that preceded this, see the [Train of Thought drum setup article](/articles/train-of-thought-drum-setup). For the Grammy-nominated evolution that followed, see the [Systematic Chaos drum setup article](/articles/systematic-chaos-drum-setup). For Portnoy's complete story with Dream Theater, visit the [Mike Portnoy drummer profile](/drummer/mike-portnoy)."
+      "content": "*Octavarium* is the Dream Theater album that demonstrates something crucial about Mike Portnoy as a musician: that technical ambition and compositional intelligence are not the same thing. The 24-minute title track is not technically complex in the way *In the Name of God* or *In the Presence of Enemies* is complex. It is compositionally complex — architecturally disciplined across 24 minutes in a way that only a drummer who thinks about music beyond the individual beat can sustain.\n\nThe Tama Starclassic Maple kit and Sabian AAX cymbals documented here are the same gear that recorded *Train of Thought*. The album they served on *Octavarium* is unrecognizable from *Train of Thought* in mood, ambition, and compositional approach. That contrast — same tools, completely different result — is the Portnoy story in miniature.\n\n**For drummers studying this album:**\n- The 24-minute title track teaches architectural thinking: know the full structure before playing the first bar\n- Dynamic range is a compositional tool, not just a consequence of playing harder or softer\n- Restraint on \"The Answer Lies Within\" is as purposeful as intensity on \"The Root of All Evil\"\n- Personal narrative in music — the AA suite continuation — creates emotional stakes that technique alone cannot replicate\n- Orchestral integration requires dynamic deference: drums serve the strings, not the other way around\n\nFor the heavy chapter that preceded this, see the [Train of Thought drum setup article](/articles/train-of-thought-drum-setup). For the Grammy-nominated evolution that followed, see the [Systematic Chaos drum setup article](/articles/systematic-chaos-drum-setup). For Portnoy's complete story with Dream Theater, visit the [Mike Portnoy drummer profile](/drummer/mike-portnoy)."
     }
   },
   "systematic-chaos-drum-setup": {
@@ -2609,7 +2578,7 @@ export const articles = {
     "dateModified": "2026-06-24",
     "author": "MetalForge Editorial",
     "title": "Systematic Chaos Drum Setup — Mike Portnoy's Grammy-Nominated 2007 Dream Theater Kit",
-    "description": "Complete breakdown of Mike Portnoy's drum gear on Dream Theater's Systematic Chaos (2007). Discover the Tama Starclassic Bubinga kit, Sabian HHX Evolution cymbals, DW 9000 pedals, and the Grammy-nominated technique behind 'The Dark Eternal Night'.",
+    "description": "Complete breakdown of Mike Portnoy's drum gear on Dream Theater's Systematic Chaos (2007). Discover the Tama Starclassic Bubinga kit, Sabian HHX Evolution cymbals, and the Grammy-nominated technique behind 'The Dark Eternal Night'.",
     "seoKeywords": [
       "systematic chaos drum setup",
       "mike portnoy 2007 drum kit",
@@ -2618,20 +2587,18 @@ export const articles = {
       "mike portnoy sabian hhx",
       "dream theater grammy drums",
       "the dark eternal night drums",
-      "in the presence of enemies drums",
-      "mike portnoy dw 9000"
+      "in the presence of enemies drums"
     ],
     "ogImage": "/images/albums/systematic-chaos-drums.webp",
     "intro": {
       "title": "Dream Theater's Grammy-Nominated Heavy Prog Epic: The Drum Story Behind Systematic Chaos",
-      "content": "Released on June 5, 2007, *Systematic Chaos* is Dream Theater's ninth studio album and the heaviest, most prog-ambitious record of Mike Portnoy's final phase with the band. Clocking in at 77 minutes across eight tracks — including the 16-minute bookend epic \"In the Presence of Enemies – Part II\" — the album received a **Grammy nomination for Best Metal Performance** for \"The Dark Eternal Night\" at the 50th Grammy Awards in 2008, bringing the band their first major recognition from the Recording Academy.\n\nThe album occupies a critical position in Dream Theater's discography. It sits at the exact midpoint between the crushing heaviness of *Train of Thought* (2003) and the reflective, expansive prog of *Black Clouds & Silver Linings* (2009) — Portnoy's final album before his departure. *Systematic Chaos* synthesizes both impulses without compromise: brutal riffing on \"Constant Motion\" and \"The Dark Eternal Night\" coexist with the sprawling narrative architecture of the \"In the Presence of Enemies\" epic that opens and closes the record.\n\nFor Mike Portnoy, *Systematic Chaos* marked a significant gear evolution. He transitioned to Tama Starclassic **Bubinga** shells — denser and harder-attacking than the Maple kits that had defined his gear story from *Scenes from a Memory* through *Train of Thought*. The cymbal platform shifted to Sabian **HHX Evolution**, a darker and more complex series than the bright AAX cymbals of the 2003 era. And Portnoy returned to DW with the **DW 9000** double pedal — widely regarded as the smoothest, fastest double pedal ever manufactured.\n\nThe sessions again took place at Avatar Studios (formerly The Power Station) in New York City, the same world-class facility the band had used for *Train of Thought*. John Petrucci and Portnoy self-produced again, pushing for a drum sound that could accommodate both the album's heaviest passages and its most orchestral, dynamic moments within the same mix.\n\nThis is a complete breakdown of every piece of drum gear Mike Portnoy used to create what many consider his peak studio performance with Dream Theater.",
+      "content": "Released on June 5, 2007, *Systematic Chaos* is Dream Theater's ninth studio album and the heaviest, most prog-ambitious record of Mike Portnoy's final phase with the band. Clocking in at 77 minutes across eight tracks — including the 16-minute bookend epic \"In the Presence of Enemies – Part II\" — the album received a **Grammy nomination for Best Metal Performance** for \"The Dark Eternal Night\" at the 50th Grammy Awards in 2008, bringing the band their first major recognition from the Recording Academy.\n\nThe album occupies a critical position in Dream Theater's discography. It sits at the exact midpoint between the crushing heaviness of *Train of Thought* (2003) and the reflective, expansive prog of *Black Clouds & Silver Linings* (2009) — Portnoy's final album before his departure. *Systematic Chaos* synthesizes both impulses without compromise: brutal riffing on \"Constant Motion\" and \"The Dark Eternal Night\" coexist with the sprawling narrative architecture of the \"In the Presence of Enemies\" epic that opens and closes the record.\n\nFor Mike Portnoy, *Systematic Chaos* marked a significant gear evolution. He transitioned to Tama Starclassic **Bubinga** shells — denser and harder-attacking than the Maple kits that had defined his gear story from *Scenes from a Memory* through *Train of Thought*. The cymbal platform shifted to Sabian **HHX Evolution**, a darker and more complex series than the bright AAX cymbals of the 2003 era.\n\nThe sessions again took place at Avatar Studios (formerly The Power Station) in New York City, the same world-class facility the band had used for *Train of Thought*. John Petrucci and Portnoy self-produced again, pushing for a drum sound that could accommodate both the album's heaviest passages and its most orchestral, dynamic moments within the same mix.\n\nThis is a complete breakdown of every piece of drum gear Mike Portnoy used to create what many consider his peak studio performance with Dream Theater.",
       "keyPoints": [
         "Grammy nomination for Best Metal Performance — 'The Dark Eternal Night' (50th Grammy Awards, 2008)",
         "Dream Theater's ninth studio album — heaviest + most prog-ambitious late-Portnoy record",
         "Recorded at Avatar Studios (The Power Station), New York — self-produced by Petrucci & Portnoy",
         "Tama Starclassic Bubinga shells — denser, harder-attacking than the Maple of the 2003 era",
         "Sabian HHX Evolution cymbals — darker and more complex than the AAX series of Train of Thought",
-        "DW 9000 double pedals — return to DW after the Pearl Eliminator era",
         "Fills the arc: Train of Thought (2003) → Octavarium (2005) → Systematic Chaos (2007) → Black Clouds (2009)"
       ]
     },
@@ -2737,21 +2704,8 @@ export const articles = {
       "estimatedValue": "$2,800-3,600 total (2007 Sabian HHX Evolution setup)"
     },
     "hardware": {
-      "title": "DW 9000 Pedals and Hardware",
+      "title": "Hardware for Grammy-Nominated Heaviness",
       "items": [
-        {
-          "type": "Bass Drum Pedal",
-          "brand": "DW",
-          "model": "DW 9000 Double Pedal",
-          "notes": "Return to DW after the Pearl Eliminator era — smoother, faster action with roller-bearing cam",
-          "description": "For *Systematic Chaos*, Mike Portnoy returned to DW pedals — specifically the DW 9000 double pedal, widely regarded as one of the smoothest and most responsive double pedals ever manufactured. After the Pearl Eliminator's power-focused adjustability during the *Train of Thought* era, the DW 9000's roller-bearing cam system and extended footboard provided a different feel: smoother, faster, and more sensitive to dynamic nuance. The 9000's spring-tension adjustment and beater angle fine-tuning gave Portnoy the control needed for the album's broad dynamic range — from the brutal double-bass patterns of 'The Dark Eternal Night' to the measured, precise two-foot work in the progressive sections of 'In the Presence of Enemies.'"
-        },
-        {
-          "type": "Hi-Hat Stand",
-          "brand": "DW",
-          "model": "DW 9000 Hi-Hat Stand",
-          "notes": "Matching DW 9000 hi-hat stand — consistent with the pedal endorsement this era"
-        },
         {
           "type": "Rack System",
           "brand": "Tama",
@@ -2779,11 +2733,11 @@ export const articles = {
     },
     "recordingTechniques": {
       "title": "Avatar Studios: Capturing Grammy-Nominated Heaviness",
-      "content": "Recording *Systematic Chaos* at Avatar Studios in New York — formerly The Power Station — gave Dream Theater the same world-class tracking room that had served *Train of Thought* in 2003. The room's large-format acoustic character was again matched to Portnoy's expanded 13-drum setup, capturing the full physical weight of the bubinga shells with clarity and definition.\n\n**Self-Production and Drum Sound Philosophy:**\nJohn Petrucci and Mike Portnoy self-produced *Systematic Chaos*, continuing the production approach that had served them well on *Train of Thought*. The production goal this time was more nuanced: the drum sound needed to accommodate the album's dual identity — brutal enough for \"Constant Motion\" and \"The Dark Eternal Night,\" yet transparent and dynamic enough to serve the 16-minute progressive epic \"In the Presence of Enemies – Part II.\" The bubinga shells' tighter decay and sharper transient gave the production team more low-mid clarity to work with compared to the maple kits of earlier records.\n\n**The Grammy Context:**\n\"The Dark Eternal Night\" — the track that earned Dream Theater their 50th Grammy Awards nomination for Best Metal Performance — features some of the most demanding drumming on the album: relentless double-bass work beneath technically complex odd-time riffing, with explosive fill transitions that never sacrifice the underlying groove. The DW 9000's smooth response and the bubinga shells' articulate attack are both audible in the way the kick and snare sit in the track's dense mix.\n\n**Microphone Setup:**\n- Kick drums: Two-mic setup per kick — close dynamic (AKG D112 or Shure Beta 52) plus tunnel condenser\n- Snare: Shure SM57 top, secondary mic bottom for snare wire character\n- Toms: Dynamic close-mics on each of the ~13 drums\n- Hi-hat: Small-diaphragm condenser for articulation detail\n- Overheads: Stereo condenser pair capturing the full HHX Evolution setup\n- Room: Moderate room capture — more than *Train of Thought*, less than *Scenes from a Memory*\n\n**Double Bass Approach:**\nThe DW 9000's roller-bearing cam and smooth spring action allowed Portnoy to calibrate the pedal feel between the aggressive, high-velocity patterns of \"The Dark Eternal Night\" and the more controlled, dynamic double-bass vocabulary of the prog sections. The bubinga kick drums' tight, punchy response meant that even fast patterns retained clear articulation rather than blurring into low-end wash.",
+      "content": "Recording *Systematic Chaos* at Avatar Studios in New York — formerly The Power Station — gave Dream Theater the same world-class tracking room that had served *Train of Thought* in 2003. The room's large-format acoustic character was again matched to Portnoy's expanded 13-drum setup, capturing the full physical weight of the bubinga shells with clarity and definition.\n\n**Self-Production and Drum Sound Philosophy:**\nJohn Petrucci and Mike Portnoy self-produced *Systematic Chaos*, continuing the production approach that had served them well on *Train of Thought*. The production goal this time was more nuanced: the drum sound needed to accommodate the album's dual identity — brutal enough for \"Constant Motion\" and \"The Dark Eternal Night,\" yet transparent and dynamic enough to serve the 16-minute progressive epic \"In the Presence of Enemies – Part II.\" The bubinga shells' tighter decay and sharper transient gave the production team more low-mid clarity to work with compared to the maple kits of earlier records.\n\n**The Grammy Context:**\n\"The Dark Eternal Night\" — the track that earned Dream Theater their 50th Grammy Awards nomination for Best Metal Performance — features some of the most demanding drumming on the album: relentless double-bass work beneath technically complex odd-time riffing, with explosive fill transitions that never sacrifice the underlying groove. The bubinga shells' articulate attack is audible in the way the kick and snare sit in the track's dense mix.\n\n**Microphone Setup:**\n- Kick drums: Two-mic setup per kick — close dynamic (AKG D112 or Shure Beta 52) plus tunnel condenser\n- Snare: Shure SM57 top, secondary mic bottom for snare wire character\n- Toms: Dynamic close-mics on each of the ~13 drums\n- Hi-hat: Small-diaphragm condenser for articulation detail\n- Overheads: Stereo condenser pair capturing the full HHX Evolution setup\n- Room: Moderate room capture — more than *Train of Thought*, less than *Scenes from a Memory*\n\n**Double Bass Approach:**\nCareful pedal calibration allowed Portnoy to move between the aggressive, high-velocity patterns of \"The Dark Eternal Night\" and the more controlled, dynamic double-bass vocabulary of the prog sections. The bubinga kick drums' tight, punchy response meant that even fast patterns retained clear articulation rather than blurring into low-end wash.",
       "keyTechniques": [
         "Self-produced with Petrucci — production aimed at balancing metal heaviness with prog dynamic range",
         "Bubinga shells: tighter decay and sharper transient gave low-mid clarity to both heavy and dynamic passages",
-        "DW 9000 pedals calibrated across the album's dual heaviness-and-prog demands",
+        "Pedal technique calibrated across the album's dual heaviness-and-prog demands",
         "Grammy-nominated \"The Dark Eternal Night\" features relentless odd-time double-bass at high velocity",
         "Room capture calibrated between the dry ToT sound and the ambient SFaM sessions"
       ]
@@ -2811,7 +2765,7 @@ export const articles = {
           "Some of Portnoy's most technically impressive foot work",
           "Progressive time signature changes embedded within the aggressive framework"
         ],
-        "gearNotes": "DW 9000 pedals at their most demanding — smooth roller-bearing action critical for sustaining the velocity. Bubinga kick drums deliver tight, punchy articulation at high BPM."
+        "gearNotes": "Pedal technique at its most demanding — smooth, controlled action critical for sustaining the velocity. Bubinga kick drums deliver tight, punchy articulation at high BPM."
       },
       {
         "track": "The Dark Eternal Night",
@@ -2823,7 +2777,7 @@ export const articles = {
           "Demanding double-bass work beneath technically complex rhythm guitar",
           "Portnoy's drumming on this track is widely cited as a career high point"
         ],
-        "gearNotes": "The Grammy-nominated performance. DW 9000 smooth action under relentless double-bass. Bubinga snare delivers the sharp attack needed to cut through the dense rhythm guitar. HHX Evolution crashes explode on the heaviest accents."
+        "gearNotes": "The Grammy-nominated performance. Smooth, controlled foot technique under relentless double-bass. Bubinga snare delivers the sharp attack needed to cut through the dense rhythm guitar. HHX Evolution crashes explode on the heaviest accents."
       },
       {
         "track": "Repentance",
@@ -2835,7 +2789,7 @@ export const articles = {
           "Atmospheric, measured drumming requiring restraint over aggression",
           "Demonstrates Portnoy's dynamic range within the same album as 'The Dark Eternal Night'"
         ],
-        "gearNotes": "HHX Evolution cymbals earn their keep in the atmospheric passages — the darker wash suits the track's meditative character. DW 9000 sensitivity allows precise dynamic control at low volumes."
+        "gearNotes": "HHX Evolution cymbals earn their keep in the atmospheric passages — the darker wash suits the track's meditative character. Precise pedal control allows dynamic sensitivity at low volumes."
       },
       {
         "track": "In the Presence of Enemies – Part II",
@@ -2847,16 +2801,16 @@ export const articles = {
           "Resolves the narrative arc opened in Part I",
           "Showcases Portnoy's ability to sustain both technical complexity and emotional arc across an extended form"
         ],
-        "gearNotes": "Every drum in the expanded configuration appears in deliberate musical context. The HHX Evolution ride's complex bell is central to the prog passages. DW 9000 sustains dynamic control across 16+ minutes without drift."
+        "gearNotes": "Every drum in the expanded configuration appears in deliberate musical context. The HHX Evolution ride's complex bell is central to the prog passages. Sustained pedal control holds up across 16+ minutes without drift."
       }
     ],
     "techniques": {
       "title": "Portnoy's Peak: The Systematic Chaos Techniques",
-      "content": "*Systematic Chaos* required Mike Portnoy to synthesize everything he had developed in his Dream Theater career — the prog complexity of *Scenes from a Memory*, the maximum heaviness of *Train of Thought*, and the dynamic architecture of *Octavarium* — into a single 77-minute statement. The techniques across the album represent the fullest expression of his playing vocabulary.\n\n**Odd-Time Fluency at Maximum Heaviness:**\n\"The Dark Eternal Night\" and \"Constant Motion\" demonstrate what separates Portnoy from most technically proficient drummers: the ability to drive genuinely heavy music through genuinely complex time signatures without either element compromising the other. The relentless forward momentum of \"Constant Motion\" at near-200 BPM doesn't feel like an exercise — it feels like a freight train. This requires that the odd-time feel is so deeply internalized it produces no hesitation, only groove.\n\n**Extended Epic Architecture:**\nThe \"In the Presence of Enemies\" bookend structure — 8:44 opening, 16:38 closing — required Portnoy to sustain musical narrative momentum across nearly 25 minutes of music separated by an entire album's worth of other material. The closing Part II had to feel like a genuine payoff to Part I, not just a longer reprise. This kind of structural awareness — knowing what a drumming decision now means for the piece 12 minutes from now — is compositional thinking, not just technical proficiency.\n\n**DW 9000 Dynamic Range:**\nThe return to DW after the Pearl Eliminator era brought a different pedal philosophy: smoother, more sensitive, with finer dynamic gradation available. This was critical for an album that required full-velocity assault on \"The Dark Eternal Night\" and measured, precise control on \"Repentance\" within the same listening session. The 9000's adjustable spring tension allowed Portnoy to find a middle-ground feel that could go either direction without a pedal change.\n\n**Bubinga-to-Maple Contrast:**\nDrummers studying this album in contrast to *Scenes from a Memory* will notice the fundamental character change that comes from Bubinga vs. Maple shells: the *Systematic Chaos* kit sounds physically tighter, more defined, and more aggressive in its attack, while the SFaM kit sounds warmer and more sustained. Neither is better — they are different tools for different musical purposes, and Portnoy made the right choice for each album's context.",
+      "content": "*Systematic Chaos* required Mike Portnoy to synthesize everything he had developed in his Dream Theater career — the prog complexity of *Scenes from a Memory*, the maximum heaviness of *Train of Thought*, and the dynamic architecture of *Octavarium* — into a single 77-minute statement. The techniques across the album represent the fullest expression of his playing vocabulary.\n\n**Odd-Time Fluency at Maximum Heaviness:**\n\"The Dark Eternal Night\" and \"Constant Motion\" demonstrate what separates Portnoy from most technically proficient drummers: the ability to drive genuinely heavy music through genuinely complex time signatures without either element compromising the other. The relentless forward momentum of \"Constant Motion\" at near-200 BPM doesn't feel like an exercise — it feels like a freight train. This requires that the odd-time feel is so deeply internalized it produces no hesitation, only groove.\n\n**Extended Epic Architecture:**\nThe \"In the Presence of Enemies\" bookend structure — 8:44 opening, 16:38 closing — required Portnoy to sustain musical narrative momentum across nearly 25 minutes of music separated by an entire album's worth of other material. The closing Part II had to feel like a genuine payoff to Part I, not just a longer reprise. This kind of structural awareness — knowing what a drumming decision now means for the piece 12 minutes from now — is compositional thinking, not just technical proficiency.\n\n**Dynamic Range Through Pedal Technique:**\nFine dynamic gradation in Portnoy's foot technique was critical for an album that required full-velocity assault on \"The Dark Eternal Night\" and measured, precise control on \"Repentance\" within the same listening session. That range allowed him to find a middle-ground feel that could go either direction without missing a beat.\n\n**Bubinga-to-Maple Contrast:**\nDrummers studying this album in contrast to *Scenes from a Memory* will notice the fundamental character change that comes from Bubinga vs. Maple shells: the *Systematic Chaos* kit sounds physically tighter, more defined, and more aggressive in its attack, while the SFaM kit sounds warmer and more sustained. Neither is better — they are different tools for different musical purposes, and Portnoy made the right choice for each album's context.",
       "keyTechniques": [
         "Odd-time grooves at maximum velocity — \"The Dark Eternal Night\" and \"Constant Motion\"",
         "Extended epic drumming across the 25-minute \"In the Presence of Enemies\" arc",
-        "DW 9000 calibrated for full-velocity metal and dynamic prog within the same album",
+        "Pedal technique calibrated for full-velocity metal and dynamic prog within the same album",
         "Bubinga shells provide sharper transients and tighter decay suited to the aggressive material",
         "Compositional drumming within long-form progressive structures — each decision serves the arc"
       ]
@@ -2868,7 +2822,7 @@ export const articles = {
       },
       {
         "question": "How does the Systematic Chaos kit differ from Scenes from a Memory?",
-        "answer": "The two setups reflect fundamentally different eras. Key differences: (1) Shell material — Tama Starclassic Bubinga (Systematic Chaos) vs. Tama Starclassic Maple (Scenes from a Memory); bubinga is denser and sharper-attacking, maple is warmer and more sustained. (2) Cymbals — Sabian HHX Evolution (dark, complex, hand-hammered) vs. Sabian Artisan (also dark, but more vintage-voiced). (3) Pedals — DW 9000 (smooth, roller-bearing cam) vs. DW 5000 (chain-drive). (4) Kit size — ~13 drums (Systematic Chaos) vs. 8 drums (Scenes from a Memory). The Scenes from a Memory setup was optimized for narrative concept-album dynamics; the Systematic Chaos setup was optimized for maximum prog-metal versatility. See the [Scenes from a Memory drum setup article](/articles/scenes-from-a-memory-drum-setup) for the full SFaM breakdown."
+        "answer": "The two setups reflect fundamentally different eras. Key differences: (1) Shell material — Tama Starclassic Bubinga (Systematic Chaos) vs. Tama Starclassic Maple (Scenes from a Memory); bubinga is denser and sharper-attacking, maple is warmer and more sustained. (2) Cymbals — Sabian HHX Evolution (dark, complex, hand-hammered) vs. Sabian Artisan (also dark, but more vintage-voiced). (3) Kit size — ~13 drums (Systematic Chaos) vs. 8 drums (Scenes from a Memory). The Scenes from a Memory setup was optimized for narrative concept-album dynamics; the Systematic Chaos setup was optimized for maximum prog-metal versatility. See the [Scenes from a Memory drum setup article](/articles/scenes-from-a-memory-drum-setup) for the full SFaM breakdown."
       },
       {
         "question": "What makes In the Presence of Enemies hard to drum?",
@@ -2902,7 +2856,7 @@ export const articles = {
     ],
     "evolution": {
       "title": "From Systematic Chaos to Black Clouds: Portnoy's Final Chapter",
-      "content": "*Systematic Chaos* represents the peak synthesis of Mike Portnoy's Dream Theater career — the point where his gear, technique, and musical ambition were most completely aligned. The Tama Starclassic Bubinga kit, Sabian HHX Evolution cymbals, and DW 9000 pedals were a coherent system built for an album that demanded both maximum heaviness and maximum prog sophistication simultaneously.\n\n**After Systematic Chaos:**\nDream Theater followed with *Black Clouds & Silver Linings* in 2009 — Portnoy's final album before his departure in September 2010. The Bubinga / HHX Evolution / DW 9000 platform continued into that record, making *Systematic Chaos* the beginning of Portnoy's final gear chapter with the band.\n\n**The Bubinga Legacy:**\nThe transition from Starclassic Maple to Starclassic Bubinga marked a permanent shift in Portnoy's shell philosophy during his Dream Theater years. The bubinga's sharper, more articulate character suited the increasingly complex and aggressive material of the late-career albums. He never returned to the maple platform for Dream Theater studio work.\n\n**Comparing to Train of Thought:**\nThe contrast between the Sabian AAX / Pearl Eliminator / Starclassic Maple configuration of *Train of Thought* (2003) and the Sabian HHX Evolution / DW 9000 / Starclassic Bubinga setup of *Systematic Chaos* (2007) illustrates the evolution in Portnoy's gear philosophy across the mid-decade period. The older setup was maximally heavy; the newer setup was maximally versatile. See the [Train of Thought drum setup article](/articles/train-of-thought-drum-setup) for the full 2003 breakdown.\n\n**Mike Mangini and the Next Chapter:**\nMike Portnoy left Dream Theater in September 2010. Mike Mangini joined in April 2011, bringing Pearl Masterworks shells and Meinl Byzance cymbals — a complete departure from the Portnoy era. See the [A Dramatic Turn of Events drum setup article](/articles/a-dramatic-turn-of-events-drum-setup) for the Mangini era breakdown.",
+      "content": "*Systematic Chaos* represents the peak synthesis of Mike Portnoy's Dream Theater career — the point where his gear, technique, and musical ambition were most completely aligned. The Tama Starclassic Bubinga kit and Sabian HHX Evolution cymbals were a coherent system built for an album that demanded both maximum heaviness and maximum prog sophistication simultaneously.\n\n**After Systematic Chaos:**\nDream Theater followed with *Black Clouds & Silver Linings* in 2009 — Portnoy's final album before his departure in September 2010. The Bubinga / HHX Evolution platform continued into that record, making *Systematic Chaos* the beginning of Portnoy's final gear chapter with the band.\n\n**The Bubinga Legacy:**\nThe transition from Starclassic Maple to Starclassic Bubinga marked a permanent shift in Portnoy's shell philosophy during his Dream Theater years. The bubinga's sharper, more articulate character suited the increasingly complex and aggressive material of the late-career albums. He never returned to the maple platform for Dream Theater studio work.\n\n**Comparing to Train of Thought:**\nThe contrast between the Sabian AAX / Starclassic Maple configuration of *Train of Thought* (2003) and the Sabian HHX Evolution / Starclassic Bubinga setup of *Systematic Chaos* (2007) illustrates the evolution in Portnoy's gear philosophy across the mid-decade period. The older setup was maximally heavy; the newer setup was maximally versatile. See the [Train of Thought drum setup article](/articles/train-of-thought-drum-setup) for the full 2003 breakdown.\n\n**Mike Mangini and the Next Chapter:**\nMike Portnoy left Dream Theater in September 2010. Mike Mangini joined in April 2011, bringing Pearl Masterworks shells and Meinl Byzance cymbals — a complete departure from the Portnoy era. See the [A Dramatic Turn of Events drum setup article](/articles/a-dramatic-turn-of-events-drum-setup) for the Mangini era breakdown.",
       "thenVsNow": [
         {
           "category": "Kit",
@@ -2918,11 +2872,6 @@ export const articles = {
           "category": "Cymbals",
           "then": "Sabian HHX Evolution Series",
           "now": "Sabian (various signature models)"
-        },
-        {
-          "category": "Pedals",
-          "then": "DW 9000 Double Pedal",
-          "now": "Tama Iron Cobra Power Glide Twin Pedal"
         },
         {
           "category": "Sticks",
@@ -2954,7 +2903,7 @@ export const articles = {
     ],
     "conclusion": {
       "title": "The Grammy-Nominated Peak: Why Systematic Chaos Still Matters",
-      "content": "*Systematic Chaos* is the album that proved Mike Portnoy could do everything at once — play the heaviest music of his career while maintaining the progressive complexity that defined Dream Theater's identity, all within a 77-minute record that holds together as a coherent artistic statement from beginning to end.\n\nThe Grammy nomination for \"The Dark Eternal Night\" wasn't just a recognition of the album's heaviness. It was a recognition that Dream Theater had achieved something genuinely singular: progressive metal that was also genuinely extreme. Portnoy's drumming was central to that achievement — the bubinga shells' tight attack, the HHX Evolution cymbals' complex wash, and the DW 9000's dynamic sensitivity created a drum sound that could serve both \"Constant Motion\" and \"Repentance\" without compromise.\n\n**For drummers studying this album:**\n- Tama Starclassic Bubinga demonstrates that shell material is not cosmetic — it fundamentally changes how a kit speaks\n- Sabian HHX Evolution shows how cymbal series voice affects the entire character of a recorded performance\n- \"The Dark Eternal Night\" is a masterclass in odd-time groove at maximum velocity\n- \"In the Presence of Enemies\" is the standard for extended-form compositional drumming\n- DW 9000's dynamic sensitivity proves that pedal feel matters as much as pedal power\n\n*Systematic Chaos* turned 18 years old in 2025, and it remains the definitive statement of Portnoy's final Dream Theater era. The Grammy nomination brought new listeners to a band that had long deserved the recognition — and the drum performance that drove that nomination holds up as one of the finest recorded in progressive metal history.\n\nFor the heavy pivot that preceded this, see the [Train of Thought drum setup article](/articles/train-of-thought-drum-setup). For Portnoy's complete story with Dream Theater, visit the [Mike Portnoy drummer profile](/drummer/mike-portnoy). For the prog foundation that started it all, see the [Scenes from a Memory drum setup article](/articles/scenes-from-a-memory-drum-setup)."
+      "content": "*Systematic Chaos* is the album that proved Mike Portnoy could do everything at once — play the heaviest music of his career while maintaining the progressive complexity that defined Dream Theater's identity, all within a 77-minute record that holds together as a coherent artistic statement from beginning to end.\n\nThe Grammy nomination for \"The Dark Eternal Night\" wasn't just a recognition of the album's heaviness. It was a recognition that Dream Theater had achieved something genuinely singular: progressive metal that was also genuinely extreme. Portnoy's drumming was central to that achievement — the bubinga shells' tight attack, the HHX Evolution cymbals' complex wash, and his own dynamic pedal sensitivity created a drum sound that could serve both \"Constant Motion\" and \"Repentance\" without compromise.\n\n**For drummers studying this album:**\n- Tama Starclassic Bubinga demonstrates that shell material is not cosmetic — it fundamentally changes how a kit speaks\n- Sabian HHX Evolution shows how cymbal series voice affects the entire character of a recorded performance\n- \"The Dark Eternal Night\" is a masterclass in odd-time groove at maximum velocity\n- \"In the Presence of Enemies\" is the standard for extended-form compositional drumming\n- Dynamic pedal sensitivity proves that feel matters as much as raw power\n\n*Systematic Chaos* turned 18 years old in 2025, and it remains the definitive statement of Portnoy's final Dream Theater era. The Grammy nomination brought new listeners to a band that had long deserved the recognition — and the drum performance that drove that nomination holds up as one of the finest recorded in progressive metal history.\n\nFor the heavy pivot that preceded this, see the [Train of Thought drum setup article](/articles/train-of-thought-drum-setup). For Portnoy's complete story with Dream Theater, visit the [Mike Portnoy drummer profile](/drummer/mike-portnoy). For the prog foundation that started it all, see the [Scenes from a Memory drum setup article](/articles/scenes-from-a-memory-drum-setup)."
     },
     "schema": {
       "@context": "https://schema.org",
@@ -2962,7 +2911,7 @@ export const articles = {
         {
           "@type": "Article",
           "headline": "Systematic Chaos Drum Setup — Mike Portnoy's Grammy-Nominated 2007 Dream Theater Kit",
-          "description": "Complete breakdown of Mike Portnoy's drum gear on Dream Theater's Systematic Chaos (2007). Discover the Tama Starclassic Bubinga kit, Sabian HHX Evolution cymbals, DW 9000 pedals, and the Grammy-nominated technique behind 'The Dark Eternal Night'.",
+          "description": "Complete breakdown of Mike Portnoy's drum gear on Dream Theater's Systematic Chaos (2007). Discover the Tama Starclassic Bubinga kit, Sabian HHX Evolution cymbals, and the Grammy-nominated technique behind 'The Dark Eternal Night'.",
           "author": {
             "@type": "Organization",
             "name": "MetalForge Editorial"
@@ -3066,7 +3015,7 @@ export const articles = {
               "name": "How does the Systematic Chaos kit differ from Scenes from a Memory?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Key differences: (1) Shell material — Tama Starclassic Bubinga (Systematic Chaos) vs. Tama Starclassic Maple (Scenes from a Memory); bubinga is denser and sharper-attacking, maple is warmer and more sustained. (2) Cymbals — Sabian HHX Evolution (dark, complex, hand-hammered) vs. Sabian Artisan (also dark, but more vintage-voiced). (3) Pedals — DW 9000 (smooth, roller-bearing cam) vs. DW 5000 (chain-drive). (4) Kit size — ~13 drums (Systematic Chaos) vs. 8 drums (Scenes from a Memory)."
+                "text": "Key differences: (1) Shell material — Tama Starclassic Bubinga (Systematic Chaos) vs. Tama Starclassic Maple (Scenes from a Memory); bubinga is denser and sharper-attacking, maple is warmer and more sustained. (2) Cymbals — Sabian HHX Evolution (dark, complex, hand-hammered) vs. Sabian Artisan (also dark, but more vintage-voiced). (3) Kit size — ~13 drums (Systematic Chaos) vs. 8 drums (Scenes from a Memory)."
               }
             },
             {
@@ -3115,7 +3064,7 @@ export const articles = {
     "dateModified": "2026-06-27",
     "author": "MetalForge Editorial",
     "title": "Black Clouds & Silver Linings Drum Setup — Mike Portnoy's Final Dream Theater Album (2009)",
-    "description": "Complete breakdown of Mike Portnoy's drum gear on Dream Theater's Black Clouds & Silver Linings (2009) — his final album before his departure. Discover the Tama Starclassic Bubinga kit, Sabian HHX Evolution cymbals, DW 9000 pedals, and the story behind the Grammy-nominated 'A Rite of Passage'.",
+    "description": "Complete breakdown of Mike Portnoy's drum gear on Dream Theater's Black Clouds & Silver Linings (2009) — his final album before his departure. Discover the Tama Starclassic Bubinga kit, Sabian HHX Evolution cymbals, and the story behind the Grammy-nominated 'A Rite of Passage'.",
     "seoKeywords": [
       "black clouds silver linings drum setup",
       "mike portnoy last dream theater album",
@@ -3125,13 +3074,12 @@ export const articles = {
       "the best of times dream theater drums",
       "a rite of passage drums",
       "the count of tuscany drums",
-      "mike portnoy tama bubinga 2009",
-      "mike portnoy dw 9000"
+      "mike portnoy tama bubinga 2009"
     ],
     "ogImage": "/images/albums/black-clouds-and-silver-linings-drums.webp",
     "intro": {
       "title": "Mike Portnoy's Final Dream Theater Chapter: The Drum Story Behind Black Clouds & Silver Linings",
-      "content": "Released on June 23, 2009, *Black Clouds & Silver Linings* is Dream Theater's tenth studio album and, as history would reveal, **Mike Portnoy's final studio recording with the band**. Debuting at **#6 on the Billboard 200** and **#1 on the Billboard Top Rock Albums** chart, the record was among the best-charting releases of Dream Theater's career. The album received a **Grammy nomination for Best Metal Performance** for \"A Rite of Passage\" at the 52nd Grammy Awards in 2010 — the band's second Grammy nomination in three albums, following the *Systematic Chaos* nomination for \"The Dark Eternal Night\" in 2008.\n\nThe album is an extraordinary artistic statement in retrospect: a 77-minute record spanning brutal prog-metal riffing, a 19-minute epic, and the most emotionally devastating performance of Portnoy's Dream Theater career. \"The Best of Times\" — a 13-minute track Portnoy wrote for his father, Howard, who was dying of pancreatic cancer — contains Portnoy's most personal drumming. Howard Portnoy passed away before the album was released; the track became a tribute rather than a dedication before the world ever heard it.\n\nGear-wise, *Black Clouds & Silver Linings* continued the platform Portnoy had established on *Systematic Chaos* (2007): Tama Starclassic **Bubinga** shells, Sabian **HHX Evolution** cymbals, and **DW 9000** double pedals. After the significant transitions of the mid-decade, this was Portnoy in a period of gear consolidation. Two years of touring *Systematic Chaos* had proven every component, and the *Black Clouds* sessions reflect a drummer completely comfortable with his entire rig.\n\nThe sessions took place at Cove City Sound Studios in Glen Cove, New York — a change from the Avatar Studios environment of *Train of Thought* and *Systematic Chaos*. John Petrucci and Portnoy self-produced again, with the goal of capturing drum performances capable of ranging from the aggressive double-bass assault of \"A Rite of Passage\" to the intimate, emotionally raw dynamics of \"Wither\" and \"The Best of Times.\"\n\nThis is a complete breakdown of every piece of drum gear Mike Portnoy used to record what would become — though no one knew it yet — his farewell to Dream Theater.",
+      "content": "Released on June 23, 2009, *Black Clouds & Silver Linings* is Dream Theater's tenth studio album and, as history would reveal, **Mike Portnoy's final studio recording with the band**. Debuting at **#6 on the Billboard 200** and **#1 on the Billboard Top Rock Albums** chart, the record was among the best-charting releases of Dream Theater's career. The album received a **Grammy nomination for Best Metal Performance** for \"A Rite of Passage\" at the 52nd Grammy Awards in 2010 — the band's second Grammy nomination in three albums, following the *Systematic Chaos* nomination for \"The Dark Eternal Night\" in 2008.\n\nThe album is an extraordinary artistic statement in retrospect: a 77-minute record spanning brutal prog-metal riffing, a 19-minute epic, and the most emotionally devastating performance of Portnoy's Dream Theater career. \"The Best of Times\" — a 13-minute track Portnoy wrote for his father, Howard, who was dying of pancreatic cancer — contains Portnoy's most personal drumming. Howard Portnoy passed away before the album was released; the track became a tribute rather than a dedication before the world ever heard it.\n\nGear-wise, *Black Clouds & Silver Linings* continued the platform Portnoy had established on *Systematic Chaos* (2007): Tama Starclassic **Bubinga** shells and Sabian **HHX Evolution** cymbals. After the significant transitions of the mid-decade, this was Portnoy in a period of gear consolidation. Two years of touring *Systematic Chaos* had proven every component, and the *Black Clouds* sessions reflect a drummer completely comfortable with his entire rig.\n\nThe sessions took place at Cove City Sound Studios in Glen Cove, New York — a change from the Avatar Studios environment of *Train of Thought* and *Systematic Chaos*. John Petrucci and Portnoy self-produced again, with the goal of capturing drum performances capable of ranging from the aggressive double-bass assault of \"A Rite of Passage\" to the intimate, emotionally raw dynamics of \"Wither\" and \"The Best of Times.\"\n\nThis is a complete breakdown of every piece of drum gear Mike Portnoy used to record what would become — though no one knew it yet — his farewell to Dream Theater.",
       "keyPoints": [
         "Mike Portnoy's final Dream Theater studio album — he departed in September 2010",
         "Debuted at #6 Billboard 200, #1 Billboard Top Rock Albums — best-charting DT record in years",
@@ -3139,7 +3087,6 @@ export const articles = {
         "Recorded at Cove City Sound Studios, Glen Cove, NY — self-produced by Petrucci & Portnoy",
         "Tama Starclassic Bubinga shells — same proven platform as Systematic Chaos, refined over two years of touring",
         "Sabian HHX Evolution cymbals — continued and consolidated from the 2007 era",
-        "DW 9000 double pedals — final Dream Theater studio recording of this configuration",
         "'The Best of Times' — written for his dying father; Portnoy's most emotionally demanding performance"
       ]
     },
@@ -3245,21 +3192,8 @@ export const articles = {
       "estimatedValue": "$2,800-3,600 total (2009 Sabian HHX Evolution setup)"
     },
     "hardware": {
-      "title": "DW 9000 Pedals and Hardware",
+      "title": "Hardware for Portnoy's Final DT Chapter",
       "items": [
-        {
-          "type": "Bass Drum Pedal",
-          "brand": "DW",
-          "model": "DW 9000 Double Pedal",
-          "notes": "Smooth, roller-bearing cam action — calibrated for the album's dynamic range from aggressive to intimate",
-          "description": "For *Black Clouds & Silver Linings*, Portnoy continued with the DW 9000 double pedal — the same setup that had served him on *Systematic Chaos* and through two years of touring. The DW 9000's smooth roller-bearing cam, extended footboard, and adjustable spring tension provided the control needed across the album's full dynamic range. On 'A Rite of Passage,' the 9000 sustains relentless double-bass patterns with consistent feel at high velocity. On 'The Best of Times,' the same pedal responds with the precise, measured control the track's emotional demands require. The DW 9000 double pedal on *Black Clouds & Silver Linings* represents Portnoy's final Dream Theater studio recording of this configuration."
-        },
-        {
-          "type": "Hi-Hat Stand",
-          "brand": "DW",
-          "model": "DW 9000 Hi-Hat Stand",
-          "notes": "Matching DW 9000 hi-hat stand — consistent with the pedal endorsement throughout the era"
-        },
         {
           "type": "Rack System",
           "brand": "Tama",
@@ -3287,14 +3221,13 @@ export const articles = {
     },
     "recordingTechniques": {
       "title": "Cove City Sound Studios: Portnoy's Farewell Session",
-      "content": "Recording *Black Clouds & Silver Linings* at Cove City Sound Studios in Glen Cove, New York marked a deliberate change from the Avatar Studios environment of *Train of Thought* and *Systematic Chaos*. The studio's character suited the album's more varied tonal landscape — accommodating both the sheer weight of \"A Rite of Passage\" and the intimate, emotionally exposed quality of \"Wither\" and \"The Best of Times.\"\n\n**Self-Production and the Final Partnership:**\nJohn Petrucci and Mike Portnoy self-produced *Black Clouds & Silver Linings* — their fourth consecutive self-produced Dream Theater album. The production goal was consistent with *Systematic Chaos*: capture a drum sound capable of serving the album's full dynamic range, from maximum metal aggression to something approaching chamber-music delicacy. The Bubinga shells' tight, articulate character provided the production team with a clean transient foundation — every individual drum voice distinct within dense layering, yet sensitive enough to register careful dynamic gradation.\n\n**The Grammy Context:**\n\"A Rite of Passage\" — the Grammy-nominated track (Best Metal Performance, 52nd Grammy Awards, 2010) — features some of Portnoy's most disciplined and aggressive playing on the album. The DW 9000's smooth action and the Bubinga kick's tight response are clearly audible in the relentless double-bass foundation and the snare's punchy, incisive attack against a dense wall of rhythm guitars and keyboards.\n\n**Microphone Setup:**\n- Kick drums: Two-mic setup per kick — close dynamic (AKG D112 or Shure Beta 52) plus tunnel condenser\n- Snare: Shure SM57 top, secondary mic bottom for snare wire character\n- Toms: Dynamic close-mics on each of the ~13 drums\n- Hi-hat: Small-diaphragm condenser for articulation detail\n- Overheads: Stereo condenser pair capturing the full HHX Evolution setup\n- Room: Natural room capture reflecting Cove City's acoustic character\n\n**The Emotional Arc:**\n\"The Best of Times\" — a 13-minute track written during Howard Portnoy's illness — presented an unusual recording challenge. Portnoy was playing through one of the most devastating personal experiences of his life. The performance required consistent technical precision while communicating genuine emotional weight. The HHX Evolution cymbals' complex wash and the Bubinga shells' articulate response gave Portnoy a kit that could translate that emotional specificity into sound.",
+      "content": "Recording *Black Clouds & Silver Linings* at Cove City Sound Studios in Glen Cove, New York marked a deliberate change from the Avatar Studios environment of *Train of Thought* and *Systematic Chaos*. The studio's character suited the album's more varied tonal landscape — accommodating both the sheer weight of \"A Rite of Passage\" and the intimate, emotionally exposed quality of \"Wither\" and \"The Best of Times.\"\n\n**Self-Production and the Final Partnership:**\nJohn Petrucci and Mike Portnoy self-produced *Black Clouds & Silver Linings* — their fourth consecutive self-produced Dream Theater album. The production goal was consistent with *Systematic Chaos*: capture a drum sound capable of serving the album's full dynamic range, from maximum metal aggression to something approaching chamber-music delicacy. The Bubinga shells' tight, articulate character provided the production team with a clean transient foundation — every individual drum voice distinct within dense layering, yet sensitive enough to register careful dynamic gradation.\n\n**The Grammy Context:**\n\"A Rite of Passage\" — the Grammy-nominated track (Best Metal Performance, 52nd Grammy Awards, 2010) — features some of Portnoy's most disciplined and aggressive playing on the album. His smooth, controlled foot technique and the Bubinga kick's tight response are clearly audible in the relentless double-bass foundation and the snare's punchy, incisive attack against a dense wall of rhythm guitars and keyboards.\n\n**Microphone Setup:**\n- Kick drums: Two-mic setup per kick — close dynamic (AKG D112 or Shure Beta 52) plus tunnel condenser\n- Snare: Shure SM57 top, secondary mic bottom for snare wire character\n- Toms: Dynamic close-mics on each of the ~13 drums\n- Hi-hat: Small-diaphragm condenser for articulation detail\n- Overheads: Stereo condenser pair capturing the full HHX Evolution setup\n- Room: Natural room capture reflecting Cove City's acoustic character\n\n**The Emotional Arc:**\n\"The Best of Times\" — a 13-minute track written during Howard Portnoy's illness — presented an unusual recording challenge. Portnoy was playing through one of the most devastating personal experiences of his life. The performance required consistent technical precision while communicating genuine emotional weight. The HHX Evolution cymbals' complex wash and the Bubinga shells' articulate response gave Portnoy a kit that could translate that emotional specificity into sound.",
       "keyTechniques": [
         "Self-produced with Petrucci — fourth consecutive self-produced DT album",
         "Cove City Sound Studios — new environment for the final Portnoy Dream Theater chapter",
         "Grammy-nominated 'A Rite of Passage' features disciplined aggressive double-bass at high velocity",
         "'The Best of Times' — emotionally demanding performance requiring restraint and precision simultaneously",
-        "Bubinga shells provide articulate transients across the album's full dynamic range",
-        "DW 9000 pedals — final Dream Theater studio recording of this configuration"
+        "Bubinga shells provide articulate transients across the album's full dynamic range"
       ]
     },
     "trackAnalysis": [
@@ -3308,7 +3241,7 @@ export const articles = {
           "Relentless double-bass foundation anchoring the aggressive groove",
           "Demonstrates Portnoy's precision at sustained high intensity"
         ],
-        "gearNotes": "DW 9000 sustains the aggressive double-bass pattern with smooth, consistent feel. Bubinga kick drums deliver tight, punchy articulation. HHX Evolution crashes explode on the heaviest accent transitions."
+        "gearNotes": "Smooth, consistent foot technique sustains the aggressive double-bass pattern. Bubinga kick drums deliver tight, punchy articulation. HHX Evolution crashes explode on the heaviest accent transitions."
       },
       {
         "track": "A Nightmare to Remember",
@@ -3356,12 +3289,12 @@ export const articles = {
           "Requires the most disciplined, minimal playing on the album",
           "Demonstrates the full tonal range of the HHX Evolution setup at low dynamics"
         ],
-        "gearNotes": "HHX Evolution cymbals earn their character at low dynamics — the darker wash adds texture without overpowering the intimate musical context. DW 9000 sensitivity allows precise control at gentle velocities."
+        "gearNotes": "HHX Evolution cymbals earn their character at low dynamics — the darker wash adds texture without overpowering the intimate musical context. Precise pedal control allows gentle, controlled velocities."
       }
     ],
     "techniques": {
       "title": "Portnoy's Farewell: The Techniques of Black Clouds & Silver Linings",
-      "content": "*Black Clouds & Silver Linings* is the fullest demonstration of the range Mike Portnoy could cover within a single Dream Theater album. The 77-minute record asks him to be simultaneously the most aggressive and the most emotionally restrained he had ever been in the studio — sometimes within the same listening session.\n\n**Sustained Aggression: 'A Rite of Passage':**\nThe Grammy-nominated album opener demands consistent, relentless double-bass precision at sustained high intensity. The DW 9000's smooth roller-bearing cam is ideal for this kind of work: consistent spring return, predictable resistance, and a feel that doesn't degrade with fatigue. At 138-140 BPM with a full double-bass pattern anchoring an already dense arrangement, the margin for inconsistency is zero.\n\n**Long-Form Endurance: 'The Count of Tuscany':**\nAt 19 minutes, \"The Count of Tuscany\" is the longest studio track of Portnoy's Dream Theater career. Sustaining musical intelligence and emotional investment across that runtime — not just physical endurance — is a different challenge than any shorter piece. The compositional drumming vocabulary Portnoy had developed across his entire Dream Theater career, from the prog narratives of *Scenes from a Memory* through the epic architecture of *Systematic Chaos*, finds its fullest expression here.\n\n**Emotional Precision: 'The Best of Times':**\nPortnoy wrote \"The Best of Times\" for his father Howard, who was diagnosed with terminal cancer during the *Black Clouds* sessions. Howard passed away before the album was released. The track required Portnoy to channel genuine grief into a technically demanding 13-minute studio performance. The restraint of the drumming — measured, deliberate, every dynamic choice serving the emotional arc of the piece — represents a kind of playing that technical proficiency alone cannot teach.\n\n**Dynamic Range Across an Album:**\nThe distance between \"A Rite of Passage\" (Grammy-nominated aggression) and \"Wither\" (intimate ballad restraint) within the same album illustrates the full Portnoy range. The HHX Evolution cymbals and Bubinga shells were a consistent platform that could serve both extremes without compromise — the same setup, played differently, for completely different emotional contexts.",
+      "content": "*Black Clouds & Silver Linings* is the fullest demonstration of the range Mike Portnoy could cover within a single Dream Theater album. The 77-minute record asks him to be simultaneously the most aggressive and the most emotionally restrained he had ever been in the studio — sometimes within the same listening session.\n\n**Sustained Aggression: 'A Rite of Passage':**\nThe Grammy-nominated album opener demands consistent, relentless double-bass precision at sustained high intensity — a feel that doesn't degrade with fatigue. At 138-140 BPM with a full double-bass pattern anchoring an already dense arrangement, the margin for inconsistency is zero.\n\n**Long-Form Endurance: 'The Count of Tuscany':**\nAt 19 minutes, \"The Count of Tuscany\" is the longest studio track of Portnoy's Dream Theater career. Sustaining musical intelligence and emotional investment across that runtime — not just physical endurance — is a different challenge than any shorter piece. The compositional drumming vocabulary Portnoy had developed across his entire Dream Theater career, from the prog narratives of *Scenes from a Memory* through the epic architecture of *Systematic Chaos*, finds its fullest expression here.\n\n**Emotional Precision: 'The Best of Times':**\nPortnoy wrote \"The Best of Times\" for his father Howard, who was diagnosed with terminal cancer during the *Black Clouds* sessions. Howard passed away before the album was released. The track required Portnoy to channel genuine grief into a technically demanding 13-minute studio performance. The restraint of the drumming — measured, deliberate, every dynamic choice serving the emotional arc of the piece — represents a kind of playing that technical proficiency alone cannot teach.\n\n**Dynamic Range Across an Album:**\nThe distance between \"A Rite of Passage\" (Grammy-nominated aggression) and \"Wither\" (intimate ballad restraint) within the same album illustrates the full Portnoy range. The HHX Evolution cymbals and Bubinga shells were a consistent platform that could serve both extremes without compromise — the same setup, played differently, for completely different emotional contexts.",
       "keyTechniques": [
         "Grammy-nominated relentless double-bass precision on 'A Rite of Passage' at 138-140 BPM",
         "Long-form compositional drumming across 'The Count of Tuscany' (19 minutes)",
@@ -3373,7 +3306,7 @@ export const articles = {
     "faq": [
       {
         "question": "What gear did Mike Portnoy use on Black Clouds & Silver Linings?",
-        "answer": "Mike Portnoy recorded Black Clouds & Silver Linings (2009) on a Tama Starclassic Bubinga kit — the same proven platform as Systematic Chaos (2007), seasoned over two years of touring. The configuration maintained approximately 13 drums: double 22\"x18\" bass drums, five rack toms (8\", 10\", 12\", 13\", 14\"), and three floor toms (14\", 16\", 18\"). Cymbals were Sabian HHX Evolution — hand-hammered, darker-toned, and capable of serving both the album's heaviest and most atmospheric passages. Pedals were DW 9000 double pedals, known for smooth roller-bearing cam action and dynamic sensitivity. Sticks were his Vic Firth Mike Portnoy Signature model. For his full career profile, see the [Mike Portnoy drummer profile](/drummer/mike-portnoy)."
+        "answer": "Mike Portnoy recorded Black Clouds & Silver Linings (2009) on a Tama Starclassic Bubinga kit — the same proven platform as Systematic Chaos (2007), seasoned over two years of touring. The configuration maintained approximately 13 drums: double 22\"x18\" bass drums, five rack toms (8\", 10\", 12\", 13\", 14\"), and three floor toms (14\", 16\", 18\"). Cymbals were Sabian HHX Evolution — hand-hammered, darker-toned, and capable of serving both the album's heaviest and most atmospheric passages. Sticks were his Vic Firth Mike Portnoy Signature model. For his full career profile, see the [Mike Portnoy drummer profile](/drummer/mike-portnoy)."
       },
       {
         "question": "Why did Mike Portnoy leave Dream Theater after this album?",
@@ -3389,7 +3322,7 @@ export const articles = {
       },
       {
         "question": "How does the Black Clouds kit differ from Systematic Chaos?",
-        "answer": "The two setups are closely related — Black Clouds & Silver Linings continued the Tama Starclassic Bubinga / Sabian HHX Evolution / DW 9000 platform that Portnoy had established on Systematic Chaos (2007). The primary differences were contextual rather than gear-based: the Black Clouds kit arrived at the sessions with two years of touring experience behind it, and the recording environment shifted from Avatar Studios (Systematic Chaos) to Cove City Sound Studios in Glen Cove, NY. Musically, the same gear served a far wider emotional range on Black Clouds — from the Grammy-nominated aggression of 'A Rite of Passage' to the intimate restraint of 'The Best of Times' and 'Wither.' See the [Systematic Chaos drum setup article](/articles/systematic-chaos-drum-setup) for the full 2007 comparison."
+        "answer": "The two setups are closely related — Black Clouds & Silver Linings continued the Tama Starclassic Bubinga / Sabian HHX Evolution platform that Portnoy had established on Systematic Chaos (2007). The primary differences were contextual rather than gear-based: the Black Clouds kit arrived at the sessions with two years of touring experience behind it, and the recording environment shifted from Avatar Studios (Systematic Chaos) to Cove City Sound Studios in Glen Cove, NY. Musically, the same gear served a far wider emotional range on Black Clouds — from the Grammy-nominated aggression of 'A Rite of Passage' to the intimate restraint of 'The Best of Times' and 'Wither.' See the [Systematic Chaos drum setup article](/articles/systematic-chaos-drum-setup) for the full 2007 comparison."
       }
     ],
     "quotes": [
@@ -3411,7 +3344,7 @@ export const articles = {
     ],
     "evolution": {
       "title": "The End of an Era: From Black Clouds to the Mangini Chapter",
-      "content": "*Black Clouds & Silver Linings* is the closing chapter of a 25-year era. The Tama Starclassic Bubinga kit, Sabian HHX Evolution cymbals, and DW 9000 pedals that Portnoy had built through *Systematic Chaos* and refined across two years of touring had reached full maturity by the time the *Black Clouds* sessions began. The album is the most fully realized expression of that gear platform — and the last time it would appear on a Dream Theater studio recording.\n\n**The Departure:**\nIn September 2010, Mike Portnoy announced his resignation from Dream Theater. The decision was personal — exhaustion after 25 years of relentless touring and recording — and the shock reverberated across the prog metal world. Portnoy had been the band's emotional center, primary lyricist, and co-founding presence. *Black Clouds & Silver Linings* took on new significance in retrospect: the final document of what Dream Theater had been.\n\n**The Mangini Era:**\nMike Mangini was announced as Portnoy's replacement in April 2011 after a widely-publicized audition process. Mangini brought a completely different instrument philosophy: Pearl Masterworks shells, Meinl Byzance cymbals, and a technique grounded in rudimental drumming and world-record speed work. See the [A Dramatic Turn of Events drum setup article](/articles/a-dramatic-turn-of-events-drum-setup) for the full breakdown of the Mangini era beginning.\n\n**The Arc: Systematic Chaos → Black Clouds:**\nSee the [Systematic Chaos drum setup article](/articles/systematic-chaos-drum-setup) for the beginning of the Bubinga platform that *Black Clouds* completed. For the full Portnoy career story, visit the [Mike Portnoy drummer profile](/drummer/mike-portnoy).",
+      "content": "*Black Clouds & Silver Linings* is the closing chapter of a 25-year era. The Tama Starclassic Bubinga kit and Sabian HHX Evolution cymbals that Portnoy had built through *Systematic Chaos* and refined across two years of touring had reached full maturity by the time the *Black Clouds* sessions began. The album is the most fully realized expression of that gear platform — and the last time it would appear on a Dream Theater studio recording.\n\n**The Departure:**\nIn September 2010, Mike Portnoy announced his resignation from Dream Theater. The decision was personal — exhaustion after 25 years of relentless touring and recording — and the shock reverberated across the prog metal world. Portnoy had been the band's emotional center, primary lyricist, and co-founding presence. *Black Clouds & Silver Linings* took on new significance in retrospect: the final document of what Dream Theater had been.\n\n**The Mangini Era:**\nMike Mangini was announced as Portnoy's replacement in April 2011 after a widely-publicized audition process. Mangini brought a completely different instrument philosophy: Pearl Masterworks shells, Meinl Byzance cymbals, and a technique grounded in rudimental drumming and world-record speed work. See the [A Dramatic Turn of Events drum setup article](/articles/a-dramatic-turn-of-events-drum-setup) for the full breakdown of the Mangini era beginning.\n\n**The Arc: Systematic Chaos → Black Clouds:**\nSee the [Systematic Chaos drum setup article](/articles/systematic-chaos-drum-setup) for the beginning of the Bubinga platform that *Black Clouds* completed. For the full Portnoy career story, visit the [Mike Portnoy drummer profile](/drummer/mike-portnoy).",
       "thenVsNow": [
         {
           "category": "Kit",
@@ -3427,11 +3360,6 @@ export const articles = {
           "category": "Cymbals",
           "then": "Sabian HHX Evolution Series",
           "now": "Sabian (various signature models)"
-        },
-        {
-          "category": "Pedals",
-          "then": "DW 9000 Double Pedal",
-          "now": "Tama Iron Cobra Power Glide Twin Pedal"
         },
         {
           "category": "Sticks",
@@ -3463,7 +3391,7 @@ export const articles = {
     ],
     "conclusion": {
       "title": "The Final Chapter: Why Black Clouds & Silver Linings Still Matters",
-      "content": "*Black Clouds & Silver Linings* is the last full statement of what Mike Portnoy could do with Dream Theater. It is simultaneously a Grammy-nominated prog-metal record (#1 on Billboard Rock Albums), the most emotionally personal album of Portnoy's Dream Theater career, and an unwitting farewell — recorded without any of the principals knowing it would be the last.\n\nThe drum performance across the album is the fullest demonstration of Portnoy's range: the relentless double-bass precision of \"A Rite of Passage,\" the long-form compositional endurance of \"The Count of Tuscany,\" and the emotionally devastating restraint of \"The Best of Times.\" No other album in his Dream Theater career demanded so many different kinds of playing from the same drummer within the same record.\n\n**For drummers studying this album:**\n- Tama Starclassic Bubinga at full maturity — two years of touring proven before the sessions began\n- Sabian HHX Evolution serving both Grammy-nominated aggression and intimate emotional restraint\n- \"A Rite of Passage\" is the model for sustained aggressive double-bass at high velocity\n- \"The Count of Tuscany\" is 19 minutes of compositional drumming at its finest\n- \"The Best of Times\" demonstrates that the most powerful drumming is often the most restrained\n- DW 9000 dynamic sensitivity — the difference between power and precision is in the feel\n\nPortnoy left Dream Theater in September 2010. The band continued with Mike Mangini — an extraordinary drummer with a completely different philosophy. But *Black Clouds & Silver Linings* closed the Portnoy era with a record that had no compromises: a Grammy nomination, a #1 charting, and a personal tribute that may be the most emotionally significant piece of music in Dream Theater's catalog.\n\nFor the album that preceded this and established the gear platform, see the [Systematic Chaos drum setup article](/articles/systematic-chaos-drum-setup). For the Mangini era that followed, see the [A Dramatic Turn of Events drum setup article](/articles/a-dramatic-turn-of-events-drum-setup). For Portnoy's complete story with Dream Theater, visit the [Mike Portnoy drummer profile](/drummer/mike-portnoy)."
+      "content": "*Black Clouds & Silver Linings* is the last full statement of what Mike Portnoy could do with Dream Theater. It is simultaneously a Grammy-nominated prog-metal record (#1 on Billboard Rock Albums), the most emotionally personal album of Portnoy's Dream Theater career, and an unwitting farewell — recorded without any of the principals knowing it would be the last.\n\nThe drum performance across the album is the fullest demonstration of Portnoy's range: the relentless double-bass precision of \"A Rite of Passage,\" the long-form compositional endurance of \"The Count of Tuscany,\" and the emotionally devastating restraint of \"The Best of Times.\" No other album in his Dream Theater career demanded so many different kinds of playing from the same drummer within the same record.\n\n**For drummers studying this album:**\n- Tama Starclassic Bubinga at full maturity — two years of touring proven before the sessions began\n- Sabian HHX Evolution serving both Grammy-nominated aggression and intimate emotional restraint\n- \"A Rite of Passage\" is the model for sustained aggressive double-bass at high velocity\n- \"The Count of Tuscany\" is 19 minutes of compositional drumming at its finest\n- \"The Best of Times\" demonstrates that the most powerful drumming is often the most restrained\n- Pedal dynamic sensitivity — the difference between power and precision is in the feel\n\nPortnoy left Dream Theater in September 2010. The band continued with Mike Mangini — an extraordinary drummer with a completely different philosophy. But *Black Clouds & Silver Linings* closed the Portnoy era with a record that had no compromises: a Grammy nomination, a #1 charting, and a personal tribute that may be the most emotionally significant piece of music in Dream Theater's catalog.\n\nFor the album that preceded this and established the gear platform, see the [Systematic Chaos drum setup article](/articles/systematic-chaos-drum-setup). For the Mangini era that followed, see the [A Dramatic Turn of Events drum setup article](/articles/a-dramatic-turn-of-events-drum-setup). For Portnoy's complete story with Dream Theater, visit the [Mike Portnoy drummer profile](/drummer/mike-portnoy)."
     },
     "schema": {
       "@context": "https://schema.org",
@@ -3471,7 +3399,7 @@ export const articles = {
         {
           "@type": "Article",
           "headline": "Black Clouds & Silver Linings Drum Setup — Mike Portnoy's Final Dream Theater Album (2009)",
-          "description": "Complete breakdown of Mike Portnoy's drum gear on Dream Theater's Black Clouds & Silver Linings (2009) — his last album before his shocking departure. Tama Starclassic Bubinga kit, Sabian HHX Evolution cymbals, DW 9000 pedals.",
+          "description": "Complete breakdown of Mike Portnoy's drum gear on Dream Theater's Black Clouds & Silver Linings (2009) — his last album before his shocking departure. Tama Starclassic Bubinga kit, Sabian HHX Evolution cymbals.",
           "author": {
             "@type": "Organization",
             "name": "MetalForge Editorial"
@@ -3555,7 +3483,7 @@ export const articles = {
               "name": "What gear did Mike Portnoy use on Black Clouds & Silver Linings?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Mike Portnoy recorded Black Clouds & Silver Linings (2009) on a Tama Starclassic Bubinga kit with ~13 drums: double 22\"x18\" bass drums, five rack toms (8\", 10\", 12\", 13\", 14\"), and three floor toms (14\", 16\", 18\"). Cymbals were Sabian HHX Evolution. Pedals were DW 9000 double pedals. Sticks were Vic Firth Mike Portnoy Signature."
+                "text": "Mike Portnoy recorded Black Clouds & Silver Linings (2009) on a Tama Starclassic Bubinga kit with ~13 drums: double 22\"x18\" bass drums, five rack toms (8\", 10\", 12\", 13\", 14\"), and three floor toms (14\", 16\", 18\"). Cymbals were Sabian HHX Evolution. Sticks were Vic Firth Mike Portnoy Signature."
               }
             },
             {
@@ -3587,7 +3515,7 @@ export const articles = {
               "name": "How does the Black Clouds kit differ from Systematic Chaos?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "The two setups are closely related — Black Clouds continued the Tama Starclassic Bubinga / Sabian HHX Evolution / DW 9000 platform from Systematic Chaos (2007). The primary differences were contextual: the Black Clouds kit arrived with two years of touring experience, and the recording environment shifted from Avatar Studios to Cove City Sound Studios in Glen Cove, NY."
+                "text": "The two setups are closely related — Black Clouds continued the Tama Starclassic Bubinga / Sabian HHX Evolution platform from Systematic Chaos (2007). The primary differences were contextual: the Black Clouds kit arrived with two years of touring experience, and the recording environment shifted from Avatar Studios to Cove City Sound Studios in Glen Cove, NY."
               }
             }
           ]
@@ -3879,7 +3807,7 @@ export const articles = {
       },
       {
         "question": "What pedals did Mike Portnoy use on Falling into Infinity?",
-        "answer": "Mike Portnoy used Tama Iron Cobra double pedals on Falling into Infinity — the rolling-glide cam model that he favored through the mid-to-late 1990s. The Iron Cobra's smooth, long-throw action was well-suited to the album's varied material: restrained enough for melodic tracks like \"Hollow Years\" and powerful enough for the double-bass runs on \"Trial of Tears\" and \"Lines in the Sand.\" He later switched to DW 5000 pedals for the Metropolis Pt. 2 sessions in 1999."
+        "answer": "Mike Portnoy used Tama Iron Cobra double pedals on Falling into Infinity — the rolling-glide cam model that he favored through the mid-to-late 1990s. The Iron Cobra's smooth, long-throw action was well-suited to the album's varied material: restrained enough for melodic tracks like \"Hollow Years\" and powerful enough for the double-bass runs on \"Trial of Tears\" and \"Lines in the Sand.\""
       }
     ],
     "quotes": [
@@ -3917,11 +3845,6 @@ export const articles = {
           "category": "Cymbals",
           "then": "Sabian HH / HHX",
           "now": "Sabian Artisan — by Metropolis Pt. 2"
-        },
-        {
-          "category": "Pedals",
-          "then": "Tama Iron Cobra Double Pedal",
-          "now": "DW 5000 — by Metropolis Pt. 2"
         },
         {
           "category": "Sticks",
@@ -4165,21 +4088,8 @@ export const articles = {
       "estimatedValue": "$2,800-3,600 total (2010 Sabian HHX Evolution touring setup)"
     },
     "hardware": {
-      "title": "DW 9000 Pedals and Touring Hardware",
+      "title": "Touring Hardware for the Nightmare Sessions",
       "items": [
-        {
-          "type": "Double Bass Pedal",
-          "brand": "DW",
-          "model": "DW 9000 Double Pedal",
-          "notes": "Portnoy's established touring pedal — smooth roller-bearing cam action for precise double-kick delivery",
-          "description": "Mike Portnoy brought the DW 9000 double pedal to the *Nightmare* sessions — the same hardware he had used on *Systematic Chaos* (2007) and *Black Clouds & Silver Linings* (2009). The 9000's roller-bearing cam system and smooth spring action gave Portnoy precise control over the double-kick patterns embedded in The Rev's drum compositions. The Rev was himself a technically demanding double-bass drummer; Portnoy's DW 9000 setup provided the feel and velocity range required to execute those patterns faithfully."
-        },
-        {
-          "type": "Hi-Hat Stand",
-          "brand": "DW",
-          "model": "DW 9000 Hi-Hat Stand",
-          "notes": "Heavy-duty DW 9000 series stand — consistent with the full 9000 hardware package"
-        },
         {
           "type": "Rack System",
           "brand": "Tama",
@@ -4211,7 +4121,7 @@ export const articles = {
       "keyTechniques": [
         "Portnoy learned The Rev's pre-composed drum parts from recordings and band guidance",
         "Elizondo prioritized direct, punchy drum capture — forward in the mix with clean transients",
-        "DW 9000 double pedal provided precise velocity control for The Rev's demanding kick patterns",
+        "Precise double-bass pedal control for The Rev's demanding kick patterns",
         "Tama Starclassic Maple's warmth suited both heavy tracks and the emotional \"So Far Away\" sessions",
         "Sabian HHX Evolution cymbal rig balanced atmospheric depth with high-projection cutting power"
       ]
@@ -4227,7 +4137,7 @@ export const articles = {
           "Complex fill sequences between sections requiring precise execution",
           "Demonstrates Portnoy's ability to execute The Rev's demanding parts at high velocity"
         ],
-        "gearNotes": "DW 9000 double pedal essential for the sustained fast kick patterns. Tama Starclassic Maple kick drums deliver warm, punchy tone at high BPM. Sabian HHX Evolution crashes cut through the dense guitar layers."
+        "gearNotes": "Precise double-bass pedal work essential for the sustained fast kick patterns. Tama Starclassic Maple kick drums deliver warm, punchy tone at high BPM. Sabian HHX Evolution crashes cut through the dense guitar layers."
       },
       {
         "track": "So Far Away",
@@ -4263,7 +4173,7 @@ export const articles = {
           "Complex snare placement and tom fill vocabulary from The Rev's original parts",
           "Demonstrates Portnoy's technical range in executing The Rev's most demanding composition"
         ],
-        "gearNotes": "DW 9000 at near-maximum velocity demand. Sabian HHX Evolution crashes deliver aggressive, cutting accents above the dense guitar mix. Maple kick drums' warmth prevents the low-end from becoming muddy under high-gain guitar."
+        "gearNotes": "Double-bass pedal work at near-maximum velocity demand. Sabian HHX Evolution crashes deliver aggressive, cutting accents above the dense guitar mix. Maple kick drums' warmth prevents the low-end from becoming muddy under high-gain guitar."
       }
     ],
     "evolution": {
@@ -4284,11 +4194,6 @@ export const articles = {
           "category": "Cymbals",
           "then": "Sabian HHX Evolution",
           "now": "Sabian (current endorsement)"
-        },
-        {
-          "category": "Pedals",
-          "then": "DW 9000 Double Pedal",
-          "now": "DW 9000 (continued)"
         },
         {
           "category": "Sticks",
@@ -4327,7 +4232,7 @@ export const articles = {
       },
       {
         "question": "What drums did Mike Portnoy use on the Nightmare album?",
-        "answer": "Mike Portnoy used a Tama Starclassic Maple kit for the Nightmare (2010) sessions — his 2010 touring configuration featuring double 22\"x18\" bass drums, five rack toms (8\" through 14\"), and three floor toms (14\", 16\", 18\"). His cymbal rig was Sabian HHX Evolution, carried over from the Black Clouds & Silver Linings touring setup — crashes, ride, chinese, and splash. Hardware included the DW 9000 double bass pedal. He played his Vic Firth Mike Portnoy Signature sticks throughout the sessions. For the full Mike Portnoy gear story, see the [Mike Portnoy kit guide](/articles/whats-in-mike-portnoys-kit)."
+        "answer": "Mike Portnoy used a Tama Starclassic Maple kit for the Nightmare (2010) sessions — his 2010 touring configuration featuring double 22\"x18\" bass drums, five rack toms (8\" through 14\"), and three floor toms (14\", 16\", 18\"). His cymbal rig was Sabian HHX Evolution, carried over from the Black Clouds & Silver Linings touring setup — crashes, ride, chinese, and splash. He played his Vic Firth Mike Portnoy Signature sticks throughout the sessions. For the full Mike Portnoy gear story, see the [Mike Portnoy kit guide](/articles/whats-in-mike-portnoys-kit)."
       },
       {
         "question": "Was Avenged Sevenfold's Nightmare Grammy-nominated?",
@@ -4336,7 +4241,7 @@ export const articles = {
     ],
     "conclusion": {
       "title": "The Tribute That Topped the Charts",
-      "content": "*Nightmare* stands as one of the most unusual and moving records in modern heavy metal history — an album that needed to function simultaneously as a commercial release, a tribute to a fallen friend, and a bridge between two eras of one of metal's most passionate fanbases. Mike Portnoy's performance achieved all three.\n\nThe gear he brought — Tama Starclassic Maple kit, Sabian HHX Evolution cymbals, DW 9000 pedals — was the equipment of a drummer at the peak of his technical and creative powers. But the performance required something beyond technical command: the discipline to disappear entirely into The Rev's compositions, to serve another drummer's vision with complete fidelity, and to do so under the emotional weight of grief, time pressure, and the scrutiny of one of metal's most devoted fan communities.\n\nThat *Nightmare* debuted at #1, received a Grammy nomination for \"So Far Away,\" and is still regularly cited by A7X fans as one of the band's most important records says everything about the quality of that service. Portnoy gave the A7X community The Rev's album. That is the most accurate description of what happened on *Nightmare* — and it is a remarkable thing to have done.\n\nFor the Dream Theater arc that preceded this, see the [Systematic Chaos drum setup article](/articles/systematic-chaos-drum-setup) and the [Mike Portnoy drummer profile](/drummer/mike-portnoy). For what came next in the A7X drummer story, see the [Hail to the King drum setup article](/articles/hail-to-the-king-drum-setup) and the [Arin Ilejay drum setup guide](/articles/arin-ilejay-drum-setup)."
+      "content": "*Nightmare* stands as one of the most unusual and moving records in modern heavy metal history — an album that needed to function simultaneously as a commercial release, a tribute to a fallen friend, and a bridge between two eras of one of metal's most passionate fanbases. Mike Portnoy's performance achieved all three.\n\nThe gear he brought — Tama Starclassic Maple kit and Sabian HHX Evolution cymbals — was the equipment of a drummer at the peak of his technical and creative powers. But the performance required something beyond technical command: the discipline to disappear entirely into The Rev's compositions, to serve another drummer's vision with complete fidelity, and to do so under the emotional weight of grief, time pressure, and the scrutiny of one of metal's most devoted fan communities.\n\nThat *Nightmare* debuted at #1, received a Grammy nomination for \"So Far Away,\" and is still regularly cited by A7X fans as one of the band's most important records says everything about the quality of that service. Portnoy gave the A7X community The Rev's album. That is the most accurate description of what happened on *Nightmare* — and it is a remarkable thing to have done.\n\nFor the Dream Theater arc that preceded this, see the [Systematic Chaos drum setup article](/articles/systematic-chaos-drum-setup) and the [Mike Portnoy drummer profile](/drummer/mike-portnoy). For what came next in the A7X drummer story, see the [Hail to the King drum setup article](/articles/hail-to-the-king-drum-setup) and the [Arin Ilejay drum setup guide](/articles/arin-ilejay-drum-setup)."
     },
     "schema": [
       {
@@ -4453,7 +4358,7 @@ export const articles = {
             "name": "What drums did Mike Portnoy use on Nightmare?",
             "acceptedAnswer": {
               "@type": "Answer",
-              "text": "Mike Portnoy used a Tama Starclassic Maple kit for the Nightmare (2010) sessions, with double 22\"x18\" bass drums, five rack toms, and three floor toms. His cymbal rig was Sabian HHX Evolution. Hardware included DW 9000 double bass pedals. He played Vic Firth Mike Portnoy Signature sticks."
+              "text": "Mike Portnoy used a Tama Starclassic Maple kit for the Nightmare (2010) sessions, with double 22\"x18\" bass drums, five rack toms, and three floor toms. His cymbal rig was Sabian HHX Evolution. He played Vic Firth Mike Portnoy Signature sticks."
             }
           }
         ]

@@ -2160,12 +2160,12 @@ export const articles = {
         ],
         "description": "Multiple reunions with original lineup.",
         "gear": {
-          "drums": "Tama Starclassic (various)",
-          "snare": "Ludwig Supraphonic or Tama",
-          "cymbals": "Paiste 2002",
-          "hardware": "Modern Tama/DW"
+          "drums": "Ludwig Classic Maple / Legacy Maple",
+          "snare": "Ludwig Supraphonic",
+          "cymbals": "Zildjian A Series",
+          "hardware": "Ludwig hardware"
         },
-        "notes": "Updated gear for Ozzfest appearances. Never recorded new studio material with Ozzy."
+        "notes": "Continued Ludwig/Zildjian setup for Ozzfest appearances. Never recorded new studio material with Ozzy."
       }
     ],
     "buyingGuide": {

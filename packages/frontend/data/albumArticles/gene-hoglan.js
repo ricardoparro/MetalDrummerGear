@@ -947,7 +947,7 @@ export const articles = {
     ],
     "evolution": {
       "title": "From Darkness Descends to Individual Thought Patterns: The Arc Begins",
-      "content": "\"Darkness Descends\" is the starting point of one of extreme metal's most consistent and celebrated careers. Everything that Gene Hoglan would become — the Death recordings, the Strapping Young Lad albums, the Testament reunion — was seeded here. The patterns he played at 19 on this recording established the vocabulary he would develop and refine for the next four decades.\n\n**The Dark Angel Context:**\nDark Angel in 1986 was not a mainstream proposition. Combat Records was the specialist extreme metal label — home to Slayer, Megadeth's early work, and the most intense music being recorded anywhere in the world. For Hoglan to record the fastest drum performance in thrash metal on his band's second album, at 19, on a label and in a scene that measured itself by extremity, was an achievement that his peers recognized immediately.\n\n**The Technical Foundation:**\nWhat Hoglan established on Darkness Descends was not simply speed — it was the architectural approach that distinguished him from contemporaries. His double kick patterns were composed, not improvised. His fills descended melodically. His blast-beat precursor technique integrated into song structures rather than interrupting them. These weren't gimmicks; they were methods, and they would serve him on everything from Death's progressive death metal to Testament's modern thrash.\n\n**Equipment Bridge:**\nThe Tama Imperialstar and Ludwig Acrolite of the Darkness Descends sessions would give way to DW Collector's Series drums by the time Hoglan recorded Individual Thought Patterns with Death in 1993. The seven years between these two recordings — which included Leave Scars (1989) and other Dark Angel work — represent a period of significant gear evolution. But the musical sensibility developed on Darkness Descends ran through every subsequent recording without interruption.",
+      "content": "\"Darkness Descends\" is the starting point of one of extreme metal's most consistent and celebrated careers. Everything that Gene Hoglan would become — the Death recordings, the Strapping Young Lad albums, the Testament reunion — was seeded here. The patterns he played at 19 on this recording established the vocabulary he would develop and refine for the next four decades.\n\n**The Dark Angel Context:**\nDark Angel in 1986 was not a mainstream proposition. Combat Records was the specialist extreme metal label — home to Slayer, Megadeth's early work, and the most intense music being recorded anywhere in the world. For Hoglan to record the fastest drum performance in thrash metal on his band's second album, at 19, on a label and in a scene that measured itself by extremity, was an achievement that his peers recognized immediately.\n\n**The Technical Foundation:**\nWhat Hoglan established on Darkness Descends was not simply speed — it was the architectural approach that distinguished him from contemporaries. His double kick patterns were composed, not improvised. His fills descended melodically. His blast-beat precursor technique integrated into song structures rather than interrupting them. These weren't gimmicks; they were methods, and they would serve him on everything from Death's progressive death metal to Testament's modern thrash.\n\n**Equipment Bridge:**\nThe Tama Imperialstar and Ludwig Acrolite of the Darkness Descends sessions would give way to a Tama Artstar II kit with a Pearl snare by the time Hoglan recorded Individual Thought Patterns with Death in 1993. The seven years between these two recordings — which included Leave Scars (1989) and other Dark Angel work — represent a period of significant gear evolution. But the musical sensibility developed on Darkness Descends ran through every subsequent recording without interruption.",
       "thenVsNow": [
         {
           "category": "Kit",
@@ -1054,32 +1054,32 @@ export const articles = {
       ]
     },
     "drumKit": {
-      "title": "Hoglan's DW Collector's Series: Precision at the Transition",
-      "brand": "DW",
-      "model": "DW Collector's Series",
+      "title": "Hoglan's Tama Artstar II: The Atomic Clock Enters Death",
+      "brand": "Tama",
+      "model": "Tama Artstar II",
       "finish": "Natural Lacquer",
       "config": {
         "bassdrums": [
-          "22\" x 18\" Bass Drum (x2)"
+          "22\" x 16\" Bass Drum (x2)"
         ],
         "toms": [
-          "10\" x 8\" Rack Tom",
-          "12\" x 9\" Rack Tom"
+          "10\" x 10\" Rack Tom",
+          "12\" x 12\" Rack Tom"
         ],
         "floorToms": [
-          "14\" x 12\" Floor Tom",
-          "16\" x 14\" Floor Tom"
+          "14\" x 14\" Floor Tom",
+          "16\" x 16\" Floor Tom"
         ],
-        "shells": "North American maple"
+        "shells": "Birch shells with maple reinforcement rings"
       },
-      "description": "For \"Individual Thought Patterns,\" Gene Hoglan recorded using a DW Collector's Series kit — DW's flagship professional line, built around North American maple shells and the precision hardware that made DW's reputation in the early 1990s.\n\nThe DW Collector's Series represented a significant step up from the production-line drums of the era. Hand-selected maple shells, precision bearing edges, and individually tested lugs meant that each kit was built to closer tolerances than mass-produced alternatives. For the level of technical precision Hoglan brought to these sessions, the Collector's Series was an appropriate match.\n\nThe double bass drum configuration — two 22\" x 18\" kick drums — was central to Hoglan's approach. Where Sean Reinert on \"Human\" had used a single bass drum with a double pedal, Hoglan's setup reflected his philosophy: two complete, individual bass drums provided the independence and natural feel his technical patterns required. The 22\" diameter generated the thunderous low-end these death metal tempos demanded, while the 18\" depth added body and sustain that shorter shells couldn't provide.\n\nThe two rack toms (10\" and 12\") and two floor toms (14\" and 16\") gave Hoglan the melodic palette for fills that function as musical statements rather than technical exercises. Listen to the drum breaks on \"Trapped in a Corner\" and \"Nothing Is Everything\" — the tom lines move around the kit melodically, each note contributing to the phrase rather than simply filling space.\n\nThe maple shells delivered the attack and clarity that Scott Burns's Morrisound production style demanded. In an era before widespread trigger use in death metal, every tom strike had to speak clearly through tape compression and dense guitar arrangements.",
+      "description": "For \"Individual Thought Patterns,\" Gene Hoglan recorded using a Tama Artstar II kit — the same professional series that carried his sound from his Dark Angel days into Death, and that he would continue to play two years later on \"Symbolic.\"\n\nThe Artstar II represented Tama's professional-tier offering of the era. Birch shells with maple reinforcement rings gave the kit an attack and projection suited to Scott Burns's close-mic Morrisound production, while remaining consistent with the Tama endorsement Hoglan had carried since his earliest Dark Angel recordings.\n\nThe double bass drum configuration — two 22\" x 16\" kick drums — was central to Hoglan's approach. Where Sean Reinert on \"Human\" had used a single bass drum with a double pedal, Hoglan's setup reflected his philosophy: two complete, individual bass drums provided the independence and natural feel his technical patterns required.\n\nThe two rack toms (10\" and 12\") and two floor toms (14\" and 16\") gave Hoglan the melodic palette for fills that function as musical statements rather than technical exercises. Listen to the drum breaks on \"Trapped in a Corner\" and \"Nothing Is Everything\" — the tom lines move around the kit melodically, each note contributing to the phrase rather than simply filling space.\n\nThe birch shells delivered the attack and clarity that Scott Burns's Morrisound production style demanded. In an era before widespread trigger use in death metal, every tom strike had to speak clearly through tape compression and dense guitar arrangements.",
       "notes": [
-        "DW Collector's Series — DW's professional flagship of the early 1990s",
-        "Double bass drums (two 22\" x 18\") for independence over double pedal",
-        "North American maple shells for attack and clarity",
+        "Tama Artstar II — the professional series Hoglan carried from Dark Angel into Death",
+        "Double bass drums (two 22\" x 16\") for independence over double pedal",
+        "Birch shells with maple reinforcement rings for attack and clarity",
         "Four-tom configuration allows melodic fill vocabulary"
       ],
-      "estimatedValue": "$3,000-4,500 (1993)"
+      "estimatedValue": "$2,200-3,200 (1993)"
     },
     "snare": {
       "title": "Pearl in Transition: The Bridge Snare",
@@ -1087,7 +1087,7 @@ export const articles = {
       "model": "Pearl Free-Floating Steel",
       "size": "14\" x 6.5\"",
       "shell": "Steel",
-      "description": "The \"Individual Thought Patterns\" sessions captured Gene Hoglan at a gear transition point: his main kit was DW, but his snare of choice remained a Pearl Free-Floating model — a drum he favored for its explosive, open-sounding crack and sensitivity at extreme tempos.\n\nPearl's Free-Floating snare design decouples the shell from the hardware that holds the drumheads and snare wires. This allows the drum to resonate freely, producing a more open, complex sound with greater sustain than conventionally lugged snares. For a drummer executing the dynamic range Hoglan demonstrated on \"Individual Thought Patterns\" — from ghost notes on \"Overactive Imagination\" to thunderous backbeats on \"The Philosopher\" — a drum that responded to every nuance was essential.\n\nAt 14\" x 6.5\", the Pearl Free-Floating offered enough depth for death metal authority without sacrificing the response needed for quick passages. The steel shell provided bright, cutting projection that sliced through Schuldiner's layered guitar arrangements and Andy LaRocque's lead work — essential in a mix as dense as what Scott Burns was capturing at Morrisound.\n\nHoglan tuned the snare medium-high, maintaining maximum articulation across the album's fastest tempos. The snare sound on \"Individual Thought Patterns\" shares DNA with his later Symbolic work but carries a slightly brighter character — a reflection of the Pearl shell interacting with Burns's microphone techniques. SM57 on top, a condenser underneath, and the characteristic Morrisound clarity combined to produce a snare sound that remains one of the most identifiable in death metal.",
+      "description": "The \"Individual Thought Patterns\" sessions captured Gene Hoglan mid-Tama-era: his main kit was Tama, but his snare of choice was a Pearl Free-Floating model — a drum he favored for its explosive, open-sounding crack and sensitivity at extreme tempos.\n\nPearl's Free-Floating snare design decouples the shell from the hardware that holds the drumheads and snare wires. This allows the drum to resonate freely, producing a more open, complex sound with greater sustain than conventionally lugged snares. For a drummer executing the dynamic range Hoglan demonstrated on \"Individual Thought Patterns\" — from ghost notes on \"Overactive Imagination\" to thunderous backbeats on \"The Philosopher\" — a drum that responded to every nuance was essential.\n\nAt 14\" x 6.5\", the Pearl Free-Floating offered enough depth for death metal authority without sacrificing the response needed for quick passages. The steel shell provided bright, cutting projection that sliced through Schuldiner's layered guitar arrangements and Andy LaRocque's lead work — essential in a mix as dense as what Scott Burns was capturing at Morrisound.\n\nHoglan tuned the snare medium-high, maintaining maximum articulation across the album's fastest tempos. The snare sound on \"Individual Thought Patterns\" shares DNA with his later Symbolic work but carries a slightly brighter character — a reflection of the Pearl shell interacting with Burns's microphone techniques. SM57 on top, a condenser underneath, and the characteristic Morrisound clarity combined to produce a snare sound that remains one of the most identifiable in death metal.",
       "tuningSetting": "Medium-high tension for articulation across extreme tempos",
       "heads": "Remo Emperor Coated (batter), Remo Ambassador Snare Side (resonant)",
       "estimatedValue": "$350-500 (1993)"
@@ -1142,15 +1142,15 @@ export const articles = {
       "items": [
         {
           "type": "Bass Drum Pedals",
-          "brand": "DW",
-          "model": "DW 5000 Single Pedals (x2)",
+          "brand": "Tama",
+          "model": "Tama Iron Cobra Power Glide (x2)",
           "notes": "Individual pedals for each bass drum — independence over double pedal",
-          "description": "Hoglan used individual DW 5000 single pedals on each bass drum rather than a connected double pedal. This approach prioritized independence and natural feel, allowing each foot to develop its own attack and response characteristics. The chain-driven 5000 was known for smooth, consistent action — crucial at the speeds and patterns Hoglan executed throughout the album."
+          "description": "Hoglan used individual Tama Iron Cobra Power Glide single pedals on each bass drum rather than a connected double pedal. This approach prioritized independence and natural feel, allowing each foot to develop its own attack and response characteristics. The Power Glide cam was known for smooth, consistent action — crucial at the speeds and patterns Hoglan executed throughout the album."
         },
         {
           "type": "Hi-Hat Stand",
-          "brand": "DW",
-          "model": "DW 5500 Hi-Hat Stand",
+          "brand": "Tama",
+          "model": "Tama Iron Cobra Hi-Hat Stand",
           "notes": "Stable platform for complex hi-hat patterns"
         },
         {
@@ -1174,7 +1174,7 @@ export const articles = {
     },
     "recordingTechniques": {
       "title": "Scott Burns at Morrisound: Capturing the Atomic Clock",
-      "content": "Scott Burns had recorded virtually every landmark Florida death metal album of the late 1980s and early 1990s. By 1993, he was the undisputed authority on capturing extreme metal drums at Morrisound Recording in Tampa. \"Individual Thought Patterns\" was his second Death album (after \"Human\") and the first to feature Gene Hoglan — a combination that produced some of the most technically demanding drum recordings of the era.\n\n**Microphone Setup:**\n- Kick drums: AKG D112 inside each drum for attack, Shure Beta 52 at the port for low-end weight\n- Snare: Shure SM57 on top (attack and tone), AKG C451 underneath (snare wire response)\n- Toms: Sennheiser MD421 on each tom for focused, punchy capture\n- Hi-hat: AKG C451 in cardioid pattern, positioned to reject snare bleed\n- Overheads: Neumann U87s in spaced pair for room and cymbal detail\n\n**The Burns Approach:**\nScott Burns understood that death metal drum recordings required clarity above all else. His approach at Morrisound prioritized close-mic capture with minimal room ambience, using compression to control peaks while preserving the attack that made extreme metal drumming legible at speed. For \"Individual Thought Patterns\" — an album of exceptional technical density — this philosophy was more important than on any previous Death record.\n\n**Minimal Triggering:**\nBurns recorded Hoglan's kit with minimal triggering. The DW Collector's Series maple shells and Pearl snare were captured acoustically, with only subtle enhancement to the bass drum attack. This decision ages well: where heavily triggered drums from the same era often sound mechanical or dated, the ITP drum sound retains its organic character.\n\n**Hoglan's Efficiency:**\nGene Hoglan's metronomic consistency meant fewer takes and fewer punch-ins. Burns noted that recording with a drummer of Hoglan's precision was qualitatively different from working with musicians still developing their consistency. Sections that required multiple passes from other drummers, Hoglan executed reliably on early takes.",
+      "content": "Scott Burns had recorded virtually every landmark Florida death metal album of the late 1980s and early 1990s. By 1993, he was the undisputed authority on capturing extreme metal drums at Morrisound Recording in Tampa. \"Individual Thought Patterns\" was his second Death album (after \"Human\") and the first to feature Gene Hoglan — a combination that produced some of the most technically demanding drum recordings of the era.\n\n**Microphone Setup:**\n- Kick drums: AKG D112 inside each drum for attack, Shure Beta 52 at the port for low-end weight\n- Snare: Shure SM57 on top (attack and tone), AKG C451 underneath (snare wire response)\n- Toms: Sennheiser MD421 on each tom for focused, punchy capture\n- Hi-hat: AKG C451 in cardioid pattern, positioned to reject snare bleed\n- Overheads: Neumann U87s in spaced pair for room and cymbal detail\n\n**The Burns Approach:**\nScott Burns understood that death metal drum recordings required clarity above all else. His approach at Morrisound prioritized close-mic capture with minimal room ambience, using compression to control peaks while preserving the attack that made extreme metal drumming legible at speed. For \"Individual Thought Patterns\" — an album of exceptional technical density — this philosophy was more important than on any previous Death record.\n\n**Minimal Triggering:**\nBurns recorded Hoglan's kit with minimal triggering. The Tama Artstar II birch shells and Pearl snare were captured acoustically, with only subtle enhancement to the bass drum attack. This decision ages well: where heavily triggered drums from the same era often sound mechanical or dated, the ITP drum sound retains its organic character.\n\n**Hoglan's Efficiency:**\nGene Hoglan's metronomic consistency meant fewer takes and fewer punch-ins. Burns noted that recording with a drummer of Hoglan's precision was qualitatively different from working with musicians still developing their consistency. Sections that required multiple passes from other drummers, Hoglan executed reliably on early takes.",
       "keyTechniques": [
         "Morrisound Recording — the proving ground of Florida death metal",
         "Scott Burns: close-mic philosophy with minimal room ambience",
@@ -1193,7 +1193,7 @@ export const articles = {
           "Hi-hat work is particularly compositional during verses",
           "Demonstrates how Hoglan's arrival shifted Death's rhythmic identity"
         ],
-        "gearNotes": "DW double kick provides the album's opening statement. Hi-hats cut clearly through dense opening riff."
+        "gearNotes": "Tama double kick provides the album's opening statement. Hi-hats cut clearly through dense opening riff."
       },
       {
         "track": "The Philosopher",
@@ -1217,7 +1217,7 @@ export const articles = {
           "Demonstrates Hoglan's stamina and consistency over demanding sections",
           "Tom fills function as compositional elements, not just transitions"
         ],
-        "gearNotes": "DW 22\" bass drums at extreme tempo — clarity maintained without triggers. The Atomic Clock name is earned here."
+        "gearNotes": "Tama 22\" bass drums at extreme tempo — clarity maintained without triggers. The Atomic Clock name is earned here."
       },
       {
         "track": "Trapped in a Corner",
@@ -1234,11 +1234,11 @@ export const articles = {
     ],
     "evolution": {
       "title": "From Individual Thought Patterns to Symbolic: The Arc Continues",
-      "content": "\"Individual Thought Patterns\" was Gene Hoglan's audition and statement simultaneously: here is the Atomic Clock, here is what it can do, here is what Death becomes when Chuck Schuldiner writes for it. Two years later, \"Symbolic\" would refine and deepen this approach. But the foundation was established on ITP.\n\n**The Reinert Transition:**\nSean Reinert's approach on \"Human\" had been jazz-informed — ride cymbal work, ghost notes, dynamics that borrowed from a jazz vocabulary. Hoglan's replacement style was different in emphasis: where Reinert prioritized feel and musical conversation, Hoglan brought engineering-grade precision to the same progressive harmonic content. The result wasn't better or worse — it was different in character, and \"Individual Thought Patterns\" is the document of what that different character produced.\n\n**Writing Around the Atomic Clock:**\nChuck Schuldiner was explicit about composing ITP around Hoglan's strengths. The kick patterns on \"Overactive Imagination\" and \"A Succubus in Rapture\" reflect Hoglan's independent double bass approach. The floor tom lines throughout the album reflect his melodic fill sensibility. Schuldiner wasn't hiring a timekeeper; he was co-writing rhythmic architecture with one of extreme metal's most distinctive voices.\n\n**Equipment Bridge:**\nThe DW Collector's Series kit and Pearl snare of the ITP sessions represent a transition point in Hoglan's gear evolution. By \"Symbolic\" two years later, he would be playing Tama Artstar II drums — a different configuration with different tonal characteristics. The ITP recording captures a middle gear state that is uniquely its own.\n\n**The Missing Chapter:**\nFor fans who know \"Human\" and \"Symbolic\" well, \"Individual Thought Patterns\" fills the gap that neither album alone can bridge. It shows where Death went rhythmically when Hoglan replaced Reinert — more precise, more complex, more technically demanding — and it sets up the refined, progressive masterpiece that \"Symbolic\" would become.",
+      "content": "\"Individual Thought Patterns\" was Gene Hoglan's audition and statement simultaneously: here is the Atomic Clock, here is what it can do, here is what Death becomes when Chuck Schuldiner writes for it. Two years later, \"Symbolic\" would refine and deepen this approach. But the foundation was established on ITP.\n\n**The Reinert Transition:**\nSean Reinert's approach on \"Human\" had been jazz-informed — ride cymbal work, ghost notes, dynamics that borrowed from a jazz vocabulary. Hoglan's replacement style was different in emphasis: where Reinert prioritized feel and musical conversation, Hoglan brought engineering-grade precision to the same progressive harmonic content. The result wasn't better or worse — it was different in character, and \"Individual Thought Patterns\" is the document of what that different character produced.\n\n**Writing Around the Atomic Clock:**\nChuck Schuldiner was explicit about composing ITP around Hoglan's strengths. The kick patterns on \"Overactive Imagination\" and \"A Succubus in Rapture\" reflect Hoglan's independent double bass approach. The floor tom lines throughout the album reflect his melodic fill sensibility. Schuldiner wasn't hiring a timekeeper; he was co-writing rhythmic architecture with one of extreme metal's most distinctive voices.\n\n**Equipment Continuity:**\nThe Tama Artstar II kit and Pearl snare of the ITP sessions carried forward essentially unchanged into \"Symbolic\" two years later, when Hoglan recorded with the same Tama Artstar II configuration. The continuity reflects Hoglan's long-standing Tama endorsement, unbroken from his Dark Angel days through the mid-90s.\n\n**The Missing Chapter:**\nFor fans who know \"Human\" and \"Symbolic\" well, \"Individual Thought Patterns\" fills the gap that neither album alone can bridge. It shows where Death went rhythmically when Hoglan replaced Reinert — more precise, more complex, more technically demanding — and it sets up the refined, progressive masterpiece that \"Symbolic\" would become.",
       "thenVsNow": [
         {
           "category": "Kit",
-          "then": "DW Collector's Series (1993)",
+          "then": "Tama Artstar II (1993)",
           "now": "Pearl Reference Pure (modern)"
         },
         {
@@ -1253,7 +1253,7 @@ export const articles = {
         },
         {
           "category": "Pedals",
-          "then": "DW 5000 Singles (x2)",
+          "then": "Tama Iron Cobra Power Glide (x2)",
           "now": "Pearl Demon Drive"
         },
         {
@@ -1288,7 +1288,7 @@ export const articles = {
     "faq": [
       {
         "question": "What kit did Gene Hoglan use on Individual Thought Patterns?",
-        "answer": "Gene Hoglan recorded Death's Individual Thought Patterns in 1993 using a DW Collector's Series kit — DW's flagship professional line built around North American maple shells. His configuration included two 22\" x 18\" bass drums for his signature independent double-kick setup, 10 and 12 inch rack toms, and 14 and 16 inch floor toms. His snare was a Pearl Free-Floating Steel model at 14\" x 6.5\", reflecting a transition period in his endorsement history where his main kit was DW but his snare remained Pearl."
+        "answer": "Gene Hoglan recorded Death's Individual Thought Patterns in 1993 using a Tama Artstar II kit — the same professional Tama series he'd carried from his Dark Angel days and would continue playing on Symbolic two years later. His configuration included two 22\" x 16\" bass drums for his signature independent double-kick setup, 10 and 12 inch rack toms, and 14 and 16 inch floor toms. His snare was a Pearl Free-Floating Steel model at 14\" x 6.5\"."
       },
       {
         "question": "Why did Sean Reinert leave Death before Individual Thought Patterns?",
@@ -1305,7 +1305,7 @@ export const articles = {
     ],
     "conclusion": {
       "title": "The Missing Chapter in Death's Progressive Arc",
-      "content": "\"Individual Thought Patterns\" has spent thirty years in the shadow of the albums it connects — unfairly overshadowed by \"Human\" before it and \"Symbolic\" after. But in many ways, it is the most important album in Gene Hoglan's Death arc: it's the one where Chuck Schuldiner built a technical death metal record from the ground up around one drummer's strengths, and it shows.\n\n**The Hoglan Difference:**\nWhat ITP documents is that Hoglan and Reinert approached the same musical context from opposite directions. Reinert's jazz vocabulary brought spontaneity and conversation. Hoglan's engineering precision brought reliability and complexity at tempo. Both produced landmark recordings. ITP is where you hear the Hoglan approach in its purest, most ferocious form.\n\n**The Gear Context:**\nThe DW Collector's Series and Pearl snare combination at Morrisound under Scott Burns produced a drum sound with its own character — distinct from Human's texture and distinct from Symbolic's warmth under Jim Morris. ITP sounds like what it is: the most technically demanding Death record, captured with maximum clarity at extreme speeds.\n\n**For Drummers Studying ITP:**\nThis album rewards close listening:\n- Study the bass drum independence across both feet — each kick drum has its own voice\n- Notice how tom fills function as melodic statements, not just technical filler\n- Pay attention to the dynamic range: even at extreme tempos, ghost notes and accents coexist\n- Listen to how the cymbal choices serve the compositions rather than overwhelming them\n\n**The Internal Link:**\nIf \"Human\" showed what death metal could be with jazz influences injected at maximum concentration, and \"Symbolic\" showed what it could become when those influences were absorbed and refined, then \"Individual Thought Patterns\" shows what happened between those two endpoints: a drummer at the peak of his ferocity, a composer writing specifically for that ferocity, and a record that remains uniquely, irreducibly itself.\n\n🥁 *The Atomic Clock debuted with Death here. Every tick counted.* 🤘"
+      "content": "\"Individual Thought Patterns\" has spent thirty years in the shadow of the albums it connects — unfairly overshadowed by \"Human\" before it and \"Symbolic\" after. But in many ways, it is the most important album in Gene Hoglan's Death arc: it's the one where Chuck Schuldiner built a technical death metal record from the ground up around one drummer's strengths, and it shows.\n\n**The Hoglan Difference:**\nWhat ITP documents is that Hoglan and Reinert approached the same musical context from opposite directions. Reinert's jazz vocabulary brought spontaneity and conversation. Hoglan's engineering precision brought reliability and complexity at tempo. Both produced landmark recordings. ITP is where you hear the Hoglan approach in its purest, most ferocious form.\n\n**The Gear Context:**\nThe Tama Artstar II and Pearl snare combination at Morrisound under Scott Burns produced a drum sound with its own character — distinct from Human's texture and distinct from Symbolic's warmth under Jim Morris. ITP sounds like what it is: the most technically demanding Death record, captured with maximum clarity at extreme speeds.\n\n**For Drummers Studying ITP:**\nThis album rewards close listening:\n- Study the bass drum independence across both feet — each kick drum has its own voice\n- Notice how tom fills function as melodic statements, not just technical filler\n- Pay attention to the dynamic range: even at extreme tempos, ghost notes and accents coexist\n- Listen to how the cymbal choices serve the compositions rather than overwhelming them\n\n**The Internal Link:**\nIf \"Human\" showed what death metal could be with jazz influences injected at maximum concentration, and \"Symbolic\" showed what it could become when those influences were absorbed and refined, then \"Individual Thought Patterns\" shows what happened between those two endpoints: a drummer at the peak of his ferocity, a composer writing specifically for that ferocity, and a record that remains uniquely, irreducibly itself.\n\n🥁 *The Atomic Clock debuted with Death here. Every tick counted.* 🤘"
     }
   },
   "brotherhood-of-the-snake-drum-setup": {
@@ -3252,12 +3252,12 @@ export const articles = {
     ],
     "evolution": {
       "title": "From Time Does Not Heal to Individual Thought Patterns: The Pivot",
-      "content": "\"Time Does Not Heal\" closes the Dark Angel chapter of Gene Hoglan's career — and points directly toward what came next. The album's compositional complexity, extended song structures, and dynamic sophistication all anticipate the death metal context that Hoglan would enter with Chuck Schuldiner's \"Individual Thought Patterns\" in 1993.\n\n**The Dark Angel Arc:**\nAcross four albums — from the 19-year-old on \"Darkness Descends\" to the 24-year-old on \"Time Does Not Heal\" — Gene Hoglan developed from one of extreme metal's fastest drummers into one of its most compositionally sophisticated. The arc is linear: Darkness Descends established the speed standard, [leave-scars-drum-setup](https://metalforge.io/articles/leave-scars-drum-setup) (1989) added groove to that speed, and \"Time Does Not Heal\" extended both into compositions of unprecedented structural complexity.\n\n**The Gear Transition:**\nThe gear used on \"Time Does Not Heal\" — Tama Rockstar, Ludwig Acrolite, Paiste 2002 — would all be superseded by the time Hoglan recorded \"Individual Thought Patterns\" with Death in 1993. The DW Collector's Series drums, Pearl Free-Floating snare, and Sabian HH Series cymbals he used on that album represented a significant upgrade in professional-tier equipment. The [individual-thought-patterns-drum-setup](https://metalforge.io/articles/individual-thought-patterns-drum-setup) article documents those transitions in full.\n\n**Dark Angel's Dissolution:**\nDark Angel disbanded in 1992 — within a year of \"Time Does Not Heal's\" release. The timing reflected both the band's internal pressures and the broader trajectory of extreme metal in the early 1990s, where the thrash wave that had produced Dark Angel was giving way to death metal and other directions. Hoglan read the landscape correctly: the skills he had developed over five years in Dark Angel were precisely what Chuck Schuldiner needed for his most technically demanding compositions.",
+      "content": "\"Time Does Not Heal\" closes the Dark Angel chapter of Gene Hoglan's career — and points directly toward what came next. The album's compositional complexity, extended song structures, and dynamic sophistication all anticipate the death metal context that Hoglan would enter with Chuck Schuldiner's \"Individual Thought Patterns\" in 1993.\n\n**The Dark Angel Arc:**\nAcross four albums — from the 19-year-old on \"Darkness Descends\" to the 24-year-old on \"Time Does Not Heal\" — Gene Hoglan developed from one of extreme metal's fastest drummers into one of its most compositionally sophisticated. The arc is linear: Darkness Descends established the speed standard, [leave-scars-drum-setup](https://metalforge.io/articles/leave-scars-drum-setup) (1989) added groove to that speed, and \"Time Does Not Heal\" extended both into compositions of unprecedented structural complexity.\n\n**The Gear Transition:**\nThe gear used on \"Time Does Not Heal\" — Tama Rockstar, Ludwig Acrolite, Paiste 2002 — would give way to a Tama Artstar II kit, Pearl Free-Floating snare, and Sabian HH Series cymbals by the time Hoglan recorded \"Individual Thought Patterns\" with Death in 1993, moving from Tama's mid-tier Rockstar line to the professional Artstar II series. The [individual-thought-patterns-drum-setup](https://metalforge.io/articles/individual-thought-patterns-drum-setup) article documents those transitions in full.\n\n**Dark Angel's Dissolution:**\nDark Angel disbanded in 1992 — within a year of \"Time Does Not Heal's\" release. The timing reflected both the band's internal pressures and the broader trajectory of extreme metal in the early 1990s, where the thrash wave that had produced Dark Angel was giving way to death metal and other directions. Hoglan read the landscape correctly: the skills he had developed over five years in Dark Angel were precisely what Chuck Schuldiner needed for his most technically demanding compositions.",
       "thenVsNow": [
         {
           "category": "Kit",
           "then": "Tama Rockstar (Time Does Not Heal, 1991)",
-          "now": "DW Collector's Series (Individual Thought Patterns, 1993)"
+          "now": "Tama Artstar II (Individual Thought Patterns, 1993)"
         },
         {
           "category": "Snare",
@@ -3272,7 +3272,7 @@ export const articles = {
         {
           "category": "Pedals",
           "then": "Tama Iron Cobra Singles x2",
-          "now": "DW 5000 Singles x2"
+          "now": "Tama Iron Cobra Power Glide x2"
         },
         {
           "category": "Studio",

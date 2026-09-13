@@ -168,24 +168,10 @@ export const DRUMMERS_BY_KIT = {
     },
   ],
   // Issue #2406 (split 4/4 of #2215): Sonor Vintage page (/gear/sonor/vintage/)
-  'sonor/vintage': [
-    {
-      slug: 'gavin-harrison',
-      name: 'Gavin Harrison',
-      band: 'Porcupine Tree / King Crimson',
-      yearsUsed: '2020–present',
-      config: 'Sonor Vintage Series (22"×14" Bass, 10"×7", 12"×8", 14"×12", 16"×14" Toms)',
-      endorsee: true,
-    },
-    {
-      slug: 'danny-carey',
-      name: 'Danny Carey',
-      band: 'Tool',
-      yearsUsed: '2020–present',
-      config: 'Sonor Vintage Series (26"×22" Bass, 16"×14", 18"×16" Floor Toms)',
-      endorsee: false,
-    },
-  ],
+  // Issue #7484: removed fabricated Gavin Harrison / Danny Carey entries — their
+  // verified Sonor models are SQ2 (since 2002) and Custom (since 2000s), per
+  // endorsementNews.js. Array is empty pending a real verified endorser of this line.
+  'sonor/vintage': [],
   'pdp/concept-maple': [],
 };
 

@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-09-12 21:19 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-09-13 03:15 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,90 +8,90 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 321 |
-| Sessions | 358 |
-| Page views | 615 |
-| Engagement rate | 59.50% |
-| Avg session (s) | 122 |
+| Active users | 293 |
+| Sessions | 325 |
+| Page views | 567 |
+| Engagement rate | 55.38% |
+| Avg session (s) | 119 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
 | /drummers | 27 | 8 |
 | / | 25 | 15 |
-| /drummer/mario-duplantier | 24 | 20 |
-| /drummer/joey-jordison | 16 | 9 |
-| /drummer/john-otto | 13 | 7 |
-| /drummer/bill-ward | 12 | 7 |
-| /drummer/jay-weinberg | 10 | 6 |
-| /drummer/matt-greiner | 9 | 6 |
+| /drummer/mario-duplantier | 21 | 18 |
+| /drummer/joey-jordison | 13 | 7 |
+| /drummer/bill-ward | 11 | 6 |
+| /drummer/john-otto | 11 | 6 |
+| /drummer/jay-weinberg | 9 | 5 |
 | /tools | 9 | 2 |
+| /drummer/matt-greiner | 8 | 5 |
 | /gear | 8 | 4 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 282 | 248 |
+| Organic Search | 247 | 218 |
 | Direct | 63 | 63 |
-| Unassigned | 28 | 22 |
-| AI Assistant | 2 | 2 |
+| Unassigned | 39 | 33 |
 | Cross-network | 2 | 2 |
+| AI Assistant | 1 | 1 |
 | Referral | 1 | 1 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 147 | 129 |
-| Canada | 18 | 18 |
-| France | 18 | 18 |
-| United Kingdom | 15 | 11 |
-| China | 12 | 12 |
+| United States | 139 | 122 |
+| France | 14 | 14 |
+| Canada | 12 | 12 |
 | Germany | 12 | 12 |
-| Singapore | 12 | 12 |
-| Finland | 11 | 9 |
+| China | 11 | 11 |
+| Singapore | 11 | 11 |
+| United Kingdom | 11 | 7 |
+| Finland | 10 | 9 |
 | Mexico | 9 | 8 |
 | Netherlands | 9 | 9 |
 
 ## Search Console — Search performance
 | Metric | Last 7d |
 | --- | --- |
-| Impressions | 9,514 |
-| Clicks | 188 |
-| CTR | 1.98% |
-| Avg position | 8.0 |
+| Impressions | 7,903 |
+| Clicks | 156 |
+| CTR | 1.97% |
+| Avg position | 7.9 |
 
 ### Top queries
 | Query | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| mario duplantier drum kit | 52 | 3 | 5.77% | 5.7 |
-| mario duplantier cymbals | 11 | 2 | 18.18% | 4.5 |
-| matt greiner drum setup | 20 | 2 | 10.00% | 7.1 |
+| mario duplantier drum kit | 43 | 3 | 6.98% | 5.9 |
+| mario duplantier cymbals | 10 | 2 | 20.00% | 4.6 |
+| matt greiner drum setup | 17 | 2 | 11.76% | 7.2 |
 | best black metal drummers | 5 | 1 | 20.00% | 5.2 |
-| best metal cymbals | 1 | 1 | 100.00% | 7.0 |
 | best metal drummer ever | 2 | 1 | 50.00% | 19.5 |
-| bill ward drum setup 1970 | 3 | 1 | 33.33% | 7.3 |
-| cryptopsy drummer | 13 | 1 | 7.69% | 6.4 |
+| bill ward drum setup 1970 | 2 | 1 | 50.00% | 8.0 |
 | death and black metal | 2 | 1 | 50.00% | 1.0 |
 | eloy casagrande tama | 2 | 1 | 50.00% | 8.0 |
+| eloy casagrande vs igor cavalera | 4 | 1 | 25.00% | 1.0 |
+| jay weinberg slipknot drum kit | 6 | 1 | 16.67% | 9.0 |
 
 ### Top countries (impressions, last 7d)
 | Country | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| usa | 3,584 | 66 | 1.84% | 8.6 |
-| can | 480 | 12 | 2.50% | 8.2 |
-| fra | 204 | 12 | 5.88% | 7.1 |
-| nld | 191 | 10 | 5.24% | 7.4 |
-| gbr | 542 | 9 | 1.66% | 8.8 |
-| deu | 300 | 8 | 2.67% | 8.2 |
-| ita | 179 | 7 | 3.91% | 7.1 |
-| mex | 147 | 5 | 3.40% | 6.3 |
-| rus | 101 | 5 | 4.95% | 8.0 |
-| swe | 159 | 5 | 3.14% | 8.1 |
+| usa | 2,999 | 58 | 1.93% | 8.3 |
+| nld | 162 | 10 | 6.17% | 7.2 |
+| fra | 163 | 8 | 4.91% | 7.2 |
+| can | 380 | 7 | 1.84% | 8.3 |
+| deu | 239 | 7 | 2.93% | 7.6 |
+| gbr | 448 | 6 | 1.34% | 8.8 |
+| ita | 139 | 5 | 3.60% | 7.1 |
+| rus | 92 | 5 | 5.43% | 8.0 |
+| aus | 397 | 4 | 1.01% | 10.7 |
+| fin | 121 | 4 | 3.31% | 6.9 |
 
 ### 🎯 Content-gap queries (impr ≥50, CTR <2%) — CEO MUST address
 | Query | Impr | CTR | Pos | Action |
 | --- | --- | --- | --- | --- |
-| joey jordison drum set | 112 | 0.89% | 11.2 | open issue to answer better |
+| joey jordison drum set | 101 | 0.99% | 11.3 | open issue to answer better |
 
 ---
 *Re-run manually: `node .agents/scripts/fetch-metrics.cjs`*

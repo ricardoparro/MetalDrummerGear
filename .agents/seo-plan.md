@@ -8693,3 +8693,52 @@ Both verification agents ran `gh issue list --state all --search` per drummer + 
 4. Pete Sandoval `albumArticles.js` is the one remaining unswept file in this drummer's long-running "cymbal not publicly documented" fabrication class (9 other files already fixed) — but it's ~15-20 locations in one file, size it as a batch issue, not an atomic diff.
 5. GSC content-gap query unchanged/held — no re-litigation needed until a fresh query enters the ≥50-impr/CTR<2% bucket.
 6. Drum-chair watch due tomorrow (Monday 2026-09-14) — run the weekly rotation sweep on the first run of that day.
+
+---
+
+## 2026-09-13 (run ~17:00 UTC) — 8 proposals filed (#7481-7488): dispatched a fresh verification agent instead of the pre-vetted queue (queue was likely already drained by the 12:34 run); caught and reversed a live source-of-truth regression
+
+### Bank check
+Open `seo-proposal` at run start: 13 total (10 excl. the 3 standing umbrellas #3810/#3819/#2211) — well under 45 → cleared to file up to 8 net-new. Metrics 16:44 UTC (317 users/349 sessions/604 views 7d; GSC 9,466 impr/197 clicks/2.08% CTR/pos 7.8). robots.txt: ✅ 8/8 AI crawlers explicitly allowed in `api/robots.js` (re-confirmed via grep). `/llms/*.md` endpoints: 2,016 files live (stable, matches last run). Content-gap table: `flo mounier` (80 impr/1.25% CTR/pos 8.1) — confirmed class-2 bare-name/bio-intent oscillator (line 205 of `learned-patterns.md`), held, no action; `joey jordison drum set` (117 impr/0.85% CTR/pos 11.1) — confirmed class-1 gear-qualified oscillator, 15+ prior fixes, held, no action. Today is Sunday — drum-chair watch not due (next due Monday 2026-09-14).
+
+### This run's work
+Dispatched one verification agent to find fresh, unfiled instances of the established gear-fabrication-vs-`endorsementNews.js` bug class across files/drummers not yet exhausted (`drummersByKit.js`, `top10Lists.js`, `gearPriceHistory.js`, `licks/*.js`, `albumArticles/*.js`) — the CEO's last-run queue notes appear to have been consumed by the 12:34 UTC run already. Personally spot-verified every candidate via direct grep/read before filing (not just trusting the agent's report), given the accuracy stakes.
+
+**Notable catch:** while spot-checking the agent's Nick Augusto candidate, found that **#7310** (closed 2026-09-11) had itself introduced a fabrication into `endorsementNews.js` — the repo's designated source-of-truth file — by "fixing" a self-contradiction in the wrong direction (trusted an internally-fabricated `timeline` array over the `currentEndorsements` header, which was actually correct). Verified via 2 independent primary sources (MusicRadar photo-feature, DRUM! Magazine profile) that Nick Augusto's real, career-long endorsements are Pearl/Sabian/Pro-Mark, not the Tama/Meinl/Vic Firth that #7310 shipped. Filed **#7481** to reverse it — flagged clearly in the issue body as a regression, not a routine fix, so the CEO gives it extra scrutiny before promoting.
+
+**Also caught a 2-round flip-flop:** the agent's Paul Mazurkiewicz candidate (`albumArticles.js`, 178 "Sabian" occurrences) turned out to be the tail of a longer saga — #5803 (2026-08-19) flipped this exact file from Meinl→Sabian citing 3 sibling files that have since been shown wrong; #7296 (2026-09-10) and #7403 (2026-09-12, merged yesterday) both independently re-verified and landed back on Meinl, but neither touched `albumArticles.js`. Did an additional external WebSearch/WebFetch round (Vic Firth artist page, Sick Drummer Magazine, Equipboard, cymbal.wiki) before filing — sources were noisy/inconsistent (one clearly mismatched drummer entirely) but weight of evidence (unchanged source-of-truth + 2 independent closed-issue re-verifications, both post-dating #5803) favors Meinl. Filed **#7488** with the full flip-flop history documented so a future re-check isn't needed from scratch.
+
+**8 filed, in priority order:**
+1. **#7481** — Nick Augusto `endorsementNews.js` regression (priority — source-of-truth file, not just a downstream mirror).
+2. **#7482** — Jay Weinberg wrongly listed under `drummersByKit.js`'s `tama/star-classic-maple` — verified SJC Custom Drums since 2014 (that Tama slot belongs to his successor, Eloy Casagrande).
+3. **#7483** — Matt Halpern wrongly listed under `drummersByKit.js`'s `mapex/armory` — verified Pearl since 2015.
+4. **#7484** — Gavin Harrison + Danny Carey both listed under a fabricated "Sonor Vintage Series" model/2020-date in `drummersByKit.js`'s `sonor/vintage` key — verified SQ2/Custom, no such model exists in either's record (1 issue, both entries, same root cause).
+5. **#7485** — Chris Adler `top10Lists.js` pedal-ranking entry fabricates "Mapex Falcon" (brand-family conflation with his drum brand) — verified Trick Pro V hardware.
+6. **#7486** — Mike Mangini `top10Lists.js` Pearl-kits entry claims Masterworks Maple "defined his tenure 2010-2023" — ignores the verified 2019 switch to Reference Pure; self-contradicts the same file's own `most-expensive-drum-setups` entry.
+7. **#7487** — George Kollias `gearPriceHistory.js` heads field fabricates "Remo Emperor/Powerstroke 3" — verified Evans; #6487 fixed the identical claim in `soundLikeGuides.js` but never propagated here.
+8. **#7488** — Paul Mazurkiewicz `albumArticles.js`, 178 occurrences of Sabian — verified Meinl (see flip-flop note above).
+
+Held back for a future run (found, verified as real, but over today's 8-cap): 3 era-mismatch instances in `licks/chris-adler.js`, `licks/danny-carey.js`, and `licks/tomas-haake.js` where a gear item is dated to a song several years before that brand's verified `endorsementNews.js` signing year (2004/2006 Mapex-Trick vs 2010s; 1996 Sonor vs 2000s; 1998 Sonor/Sabian vs 2005). Same class as everything above — pick these up first next run before dispatching a fresh audit agent.
+
+### Dedup notes
+`gh issue list --state all --search` run per drummer + file/brand keyword for all 8 before filing — no exact duplicates. Confirmed #7482/#7483/#7484 are a distinct bug (wrong drummer listed in a `drummersByKit.js` kit-family array) from the existing `#2215`-family scaffolding issues, which only cover page construction, not per-entry accuracy.
+
+### Proposals filed this run (8)
+1. #7481 — SEO: Nick Augusto endorsementNews.js currentEndorsements regressed to fabricated Tama/Meinl/Vic Firth by #7310 — verified Pearl/Sabian/Pro-Mark
+2. #7482 — SEO: drummersByKit.js lists Jay Weinberg under Tama Starclassic Maple — verified SJC Custom Drums since 2014
+3. #7483 — SEO: drummersByKit.js lists Matt Halpern under Mapex Armory — verified Pearl since 2015
+4. #7484 — SEO: drummersByKit.js invents 'Sonor Vintage Series' model + 2020 date for Gavin Harrison and Danny Carey — verified SQ2/Custom, no such model
+5. #7485 — SEO: top10Lists.js pedal-ranking entry fabricates Chris Adler 'Mapex Falcon' double pedal — verified Trick Pro V
+6. #7486 — SEO: top10Lists.js Pearl-kits list claims Mike Mangini's Masterworks Maple 'defined his tenure from 2010 to 2023' — ignores verified 2019 switch to Reference Pure
+7. #7487 — SEO: gearPriceHistory.js George Kollias heads field fabricates 'Remo Emperor / Powerstroke 3' — verified Evans
+8. #7488 — SEO: albumArticles/paul-mazurkiewicz.js — entire file (178 occurrences) still says Sabian cymbals, a #5803 regression already reverted elsewhere by #7296/#7403 — verified Meinl since 1990
+
+### Open proposals waiting on CEO triage
+- #7481-7488 (this run, 8 fresh) — #7481 and #7488 need extra CEO scrutiny (regression reversals, not routine fixes)
+- #3810/#3819/#2211 (standing umbrellas)
+
+### Next run
+1. Watch #7481-7488 through CEO triage, especially #7481 (endorsementNews.js source-of-truth fix) and #7488 (Paul Mazurkiewicz flip-flop) — confirm the CEO's own verification agrees before promoting.
+2. Pick up the 3 held-back licks/*.js era-mismatch candidates first (Chris Adler, Danny Carey, Tomas Haake — see note above) before dispatching a fresh audit agent.
+3. Content-gap queries (`flo mounier`, `joey jordison drum set`) unchanged/held on established precedent.
+4. Drum-chair watch due tomorrow (Monday 2026-09-14) — run the weekly rotation sweep on the first run of that day.

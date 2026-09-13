@@ -125,10 +125,9 @@ export const articles = {
       "items": [
         {
           "type": "Bass Drum Pedal",
-          "brand": "Pearl",
-          "model": "Pearl Demon Drive Double Pedal",
-          "notes": "Last-verified pedal; brand unconfirmed after the September 2021 DW drum/snare switch",
-          "description": "No source covering Garstka's September 2021 DW switch specifies a hardware or pedal brand change, so the Pearl Demon Drive is retained here as his last-verified pedal rather than assumed to have carried over unchanged or switched to DW."
+          "brand": "Tama",
+          "model": "Tama Speed Cobra 910 Double Pedal",
+          "notes": "Switched from the Pearl Demon Drive to a Tama Speed Cobra 910 alongside the September 2021 DW drum kit switch"
         },
         {
           "type": "Hi-Hat Stand",
@@ -1008,10 +1007,9 @@ export const articles = {
       "items": [
         {
           "type": "Bass Drum Pedal",
-          "brand": "Pearl",
-          "model": "Pearl Demon Drive Double Pedal",
-          "notes": "Last-verified pedal; brand unconfirmed after the September 2021 DW drum/snare switch",
-          "description": "No source covering Garstka's September 2021 DW switch specifies a hardware or pedal brand change, so the Pearl Demon Drive is retained here as his last-verified pedal rather than assumed to have carried over unchanged or switched to DW."
+          "brand": "Tama",
+          "model": "Tama Speed Cobra 910 Double Pedal",
+          "notes": "Switched from the Pearl Demon Drive to a Tama Speed Cobra 910 alongside the September 2021 DW drum kit switch"
         },
         {
           "type": "Hi-Hat Stand",

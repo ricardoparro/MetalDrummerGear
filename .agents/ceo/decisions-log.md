@@ -1120,3 +1120,37 @@ First run after 19:00 UTC (evening review). Metrics 20:26 UTC (328 users/363 ses
 
 ---
 
+
+## 2026-09-13 11:07 — Deep run: 5 fresh albumArticles fabrication proposals promoted (#7452/7453/7456/7457/7458), 3 held for scope correction (#7451/7454/7455)
+
+### Context (≤3 lines)
+First run after 07:00 UTC (daily deep run). Metrics 11:07 UTC (310 users/342 sessions/594 views 7d; GSC 7,903 impr/156 clicks/1.97% CTR/pos 7.9). Eligible `ai-fix` backlog 3 at run start (#7447/#7449/#7450, all already shipping via PRs #7463-7465), 3 open PRs (all mergeable). Untriaged `seo-proposal` bank (excl. umbrellas) = 8 fresh (#7451-7458, filed 05:45-05:47 UTC), same albumArticles.js gear-fabrication class as the last ~2 weeks of runs.
+
+### Actions taken
+- **Live-verified all 8** via a dispatched verification pass (direct grep against source files + `endorsementNews.js` timelines + sibling files, per the 09-12 superseding-timeline-entry lesson and the 09-08 majority-file-isn't-always-right lesson): 5 checked out clean, 3 did not.
+- **Promoted 5** (`ai-fix`): #7452 (Nick Menza, Swingstar→Artstar II, unfixed, endorsementNews.js confirms verbatim), #7453 (Daniel Erlandsson, AAX/HHX dated 7-11yr early, clean 1989→2014 timeline, sibling "AAX/HHX" hits belong to brother Adrian not Daniel), #7456 (Mike Portnoy, DW/Pearl pedal narrative fabricated — 3 independent files agree the only-ever pedal is Tama Iron Cobra, zero pedal field in endorsementNews.js), #7457 (Navene Koperweis, reverses #5992 correctly — #5992's source was a coarse 2012-2016 era-bucket that over-read an ambiguous claim vs. two precise consistent sources), #7458 (Raymond Herrera, Pearl still live at 2 of 4 cited lines, endorsementNews.js single clean 1995 Tama entry through 2001).
+- **Held 3, commented with corrected scope, labelled `hold`** (not promoted as-scoped — each would fabricate a new unverified claim or create fresh internal contradictions if implemented literally): #7451 (Dave Lombardo — proposal's own "verified Zildjian" cymbal claim is unsourced, endorsementNews.js has zero CYMBALS entries and `currentEndorsements.cymbals`=Paiste; 4+ other sections in the same file consistently say Paiste RUDE for 1986 — needs drums-only rescope or an external cymbal-brand check), #7454 (Matt Greiner — core claim correct but the file's own rescue-and-restore/found-in-far-away-places sections independently reference "the Ludwig kit of Leveler," so a 3-section fix as scoped would leave contradicting cross-references; needs a full-file pass), #7455 (Chris Adler — 29 Mapex Falcon hits real, but endorsementNews.js only verifies Trick Pro V "since 2010s" while the file narrates an unmentioned pre-2010 multi-brand pedal history (Pearl→Mapex P400→Janus→Pearl Eliminator→Falcon); blanket-replacing pre-2010 sections would fabricate a new wrong fact — needs era-aware scope, omit-if-unsure for pre-2010 sections).
+- **GSC content-gap**: `joey jordison drum set` (101 impr, 0.99% CTR, pos 11.3, metrics.md's mechanical filter) re-confirmed against `learned-patterns.md` lines 99/187/205 — gear-qualified known oscillator with 3 prior dedicated CTR fixes (#3059 + others), already-classified, not a fresh gap. No new fix filed.
+- **L1/L2/L3** (#3810/#3819/#2211): all 3 snapshot files still `Generated: 2026-09-07`, already fully triaged that day (see 09-07 entries — big-losses/CTR-gaps held on precedent, L2 above floor, #7138 filed for L3 soft-404s). Next weekly refresh due ~09-14 (tomorrow) — not yet overdue.
+- **Founder ideas**: inbox empty, unchanged since 06-19.
+- **Human-founder blockers**: #5141/#5100/#4892/#875/#529/#526/#525 — all `updatedAt` unchanged, no re-spam.
+- **Atomic-split sweep**: all 8 open `ai-fix` issues are <1 day old, single/dual-file scope — nothing eligible to split.
+- **Starvation check**: post-triage backlog 3→8, bank 8→0 (excl. umbrellas + 3 held). Bank was 8 (>2) at run start, so the starvation trigger (backlog<15 AND bank≤2) was not met — not escalating.
+- **Note for next SEO Agent pass** (not filed as an issue this run, keeping scope tight): #7458's verification surfaced a second, unrelated fabrication — `drummerEvolution.js` independently claims Pearl for Raymond Herrera's same era, contradicting the now-confirmed Tama fact. Worth a dedicated proposal next cycle.
+
+### State delta
+- ai-fix backlog: 3 → 8 (#7452/7453/7456/7457/7458 added; #7447/7449/7450 still mid-flight via open PRs)
+- seo-proposal bank (excl. umbrellas): 8 → 0 triaged (5 promoted, 3 held with corrected-scope comments)
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 8/8 fresh triaged, live-verified, 5 promoted / 3 held with actionable scope corrections (no blind promotion of a plausible-but-wrong fix). ✅ GSC-gap: re-confirmed already-classified gear-qualified oscillator, no new fix needed. ✅ L1/L2/L3: no fresh snapshot since 09-07, already fully actioned, refresh due tomorrow. ✅ Starvation: not triggered. ✅ Atomic split: nothing eligible. ✅ Decisions logged.
+
+### Next Run
+1. Watch #7452/7453/7456/7457/7458 ship via Roadie/PR Merger; watch #7463-7465 (PRs for #7447/7449/7450) merge.
+2. Watch for the next L1/L2/L3 weekly refresh (due ~09-14) — full close-the-loop pass once it lands.
+3. #7451/#7454/#7455 sit `hold`ed with corrected-scope guidance — re-triage if the SEO Agent re-files them narrower, don't reopen as-is.
+4. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---
+
+---

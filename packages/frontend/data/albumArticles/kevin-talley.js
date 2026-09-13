@@ -302,7 +302,7 @@ export const articles = {
     "author": "MetalForge Editorial",
     "headline": "Destroy the Opposition Drum Setup — Kevin Talley's Brutal Death Metal Landmark",
     "title": "Destroy the Opposition Drum Setup — Kevin Talley's Brutal Death Metal Landmark",
-    "description": "Inside Kevin Talley's drum performance on Dying Fetus's Destroy the Opposition (2000): Pearl Masters kit, Zildjian cymbals, and the groove-and-blast duality that made this album a brutal death metal landmark. Complete gear and technique breakdown.",
+    "description": "Inside Kevin Talley's drum performance on Dying Fetus's Destroy the Opposition (2000): Pearl Masters kit, Sabian AAX cymbals, and the groove-and-blast duality that made this album a brutal death metal landmark. Complete gear and technique breakdown.",
     "seoKeywords": [
       "destroy the opposition drum setup",
       "kevin talley destroy the opposition",
@@ -316,14 +316,14 @@ export const articles = {
     "ogImage": "/images/albums/destroy-the-opposition-drums.webp",
     "intro": {
       "title": "Destroy the Opposition: A Brutal Death Metal Landmark",
-      "content": "Released October 3, 2000 on Relapse Records, Destroy the Opposition is Dying Fetus's third album and the record most consistently cited as one of brutal death metal's defining statements. Recorded between April and June 2000 at Hit and Run Studios in Rockville, Maryland — produced by the band alongside Steve Carr — the album marked a turning point for Dying Fetus, with the explicitly political lyrical themes written by bassist Jason Netherton becoming the dominant thread that has run through every subsequent release.\n\nKevin Talley, who joined Dying Fetus in 1996 at just 17 years old, delivers what many extreme metal fans consider his most influential recorded performance on this album. The title track, \"Destroy the Opposition,\" is the clearest showcase of the quality that separates Talley from purely speed-focused blast beat drummers: his ability to shift between extreme blasting and punishing, groove-oriented mid-tempo sections without losing compositional coherence. At roughly 155 BPM, the title track's groove sections hit with a physical weight that can feel heavier than many faster passages, built on surgical snare-and-kick placement rather than density.\n\nThis article covers the complete gear behind Destroy the Opposition — Talley's Pearl kit, Zildjian cymbals, and DW double bass pedal — and breaks down the groove-and-blast duality that made this record a genre landmark and a continuing reference point for brutal death metal drummers.",
+      "content": "Released October 3, 2000 on Relapse Records, Destroy the Opposition is Dying Fetus's third album and the record most consistently cited as one of brutal death metal's defining statements. Recorded between April and June 2000 at Hit and Run Studios in Rockville, Maryland — produced by the band alongside Steve Carr — the album marked a turning point for Dying Fetus, with the explicitly political lyrical themes written by bassist Jason Netherton becoming the dominant thread that has run through every subsequent release.\n\nKevin Talley, who joined Dying Fetus in 1996 at just 17 years old, delivers what many extreme metal fans consider his most influential recorded performance on this album. The title track, \"Destroy the Opposition,\" is the clearest showcase of the quality that separates Talley from purely speed-focused blast beat drummers: his ability to shift between extreme blasting and punishing, groove-oriented mid-tempo sections without losing compositional coherence. At roughly 155 BPM, the title track's groove sections hit with a physical weight that can feel heavier than many faster passages, built on surgical snare-and-kick placement rather than density.\n\nThis article covers the complete gear behind Destroy the Opposition — Talley's Pearl kit, Sabian AAX cymbals, and Pearl Eliminator double bass pedal — and breaks down the groove-and-blast duality that made this record a genre landmark and a continuing reference point for brutal death metal drummers.",
       "keyPoints": [
         "Destroy the Opposition (2000) is Dying Fetus's third album, released on Relapse Records",
         "Recorded April–June 2000 at Hit and Run Studios in Rockville, Maryland, produced by the band and Steve Carr",
         "Marked the album where explicitly political lyrical themes became Dying Fetus's dominant thread",
         "The title track's groove sections run around 155 BPM, built on surgical snare-and-kick placement rather than density",
         "Widely considered one of Kevin Talley's most influential recorded performances",
-        "Same Pearl / Zildjian / DW setup Talley used across his Dying Fetus and Misery Index periods"
+        "Same Pearl / Sabian AAX / Pearl Eliminator setup Talley used across his Dying Fetus and Misery Index periods"
       ]
     },
     "drumKit": {
@@ -366,35 +366,35 @@ export const articles = {
       "estimatedValue": "$300–600"
     },
     "cymbals": {
-      "title": "Zildjian on Destroy the Opposition",
-      "brand": "Zildjian",
-      "series": "Zildjian A / A Custom Series",
+      "title": "Sabian AAX on Destroy the Opposition",
+      "brand": "Sabian",
+      "series": "Sabian AAX Series",
       "setup": [
         {
           "type": "Hi-Hats",
-          "model": "Zildjian 14\" A Custom Hi-Hats",
+          "model": "Sabian 14\" AAX Hi-Hats",
           "position": "Left side",
           "notes": "Fast response for the title track's blast sections and groove pulse alike"
         },
         {
           "type": "China",
-          "model": "Zildjian 18\" A China",
+          "model": "Sabian 18\" AAX China",
           "position": "Over rack toms",
           "notes": "Trashy accent character for the album's most extreme rhythmic moments"
         }
       ],
-      "description": "Talley's Zildjian A and A Custom cymbal setup on Destroy the Opposition is built for the same dual demand as his snare: fast, aggressive articulation in the blast sections and controlled definition in the groove passages. The 14\" A Custom Hi-Hats deliver a tight, responsive feel that holds together whether Talley is driving a 155 BPM groove pulse or the album's faster, blast-driven material, while the 18\" China cymbal punctuates the title track's heaviest rhythmic moments with a trashy, violent character standard crashes cannot replicate.",
-      "estimatedValue": "$1,000–1,800 (full Zildjian setup)"
+      "description": "Talley's Sabian AAX cymbal setup on Destroy the Opposition is built for the same dual demand as his snare: fast, aggressive articulation in the blast sections and controlled definition in the groove passages. The 14\" AAX Hi-Hats deliver a tight, responsive feel that holds together whether Talley is driving a 155 BPM groove pulse or the album's faster, blast-driven material, while the 18\" AAX China cymbal punctuates the title track's heaviest rhythmic moments with a trashy, violent character standard crashes cannot replicate.",
+      "estimatedValue": "$1,000–1,800 (full Sabian AAX setup)"
     },
     "hardware": {
-      "title": "DW Double Bass Pedal on Destroy the Opposition",
+      "title": "Pearl Eliminator Double Pedal on Destroy the Opposition",
       "items": [
         {
           "type": "Bass Drum Pedals",
-          "brand": "DW",
-          "model": "DW Double Bass Pedal",
+          "brand": "Pearl",
+          "model": "Pearl Eliminator Double Pedal",
           "notes": "Consistent cam action supporting both the title track's groove pocket and the album's blast sections",
-          "description": "Kevin Talley's DW double bass pedal configuration on Destroy the Opposition is the mechanical foundation for a song that asks two very different things of his feet: locking tightly with the bass guitar during the title track's groove sections, and firing in tight alternation during the album's blast passages. DW's consistent cam action means the same pedal setup can serve both demands without retuning — a lock-in-the-pocket groove feel one moment, machine-like blast speed the next."
+          "description": "Kevin Talley's Pearl Eliminator double bass pedal configuration on Destroy the Opposition is the mechanical foundation for a song that asks two very different things of his feet: locking tightly with the bass guitar during the title track's groove sections, and firing in tight alternation during the album's blast passages. The Eliminator's consistent cam action means the same pedal setup can serve both demands without retuning — a lock-in-the-pocket groove feel one moment, machine-like blast speed the next."
         },
         {
           "type": "Sticks",
@@ -430,7 +430,7 @@ export const articles = {
           "Snare hits at uniform volume, keeping the pocket deep rather than wandering",
           "One of the most frequently studied brutal death metal groove-and-breakdown patterns"
         ],
-        "gearNotes": "Pearl double bass drums lock tightly with the bass guitar in the groove; Zildjian A Custom hi-hats hold articulation across both the groove pulse and faster blast passages."
+        "gearNotes": "Pearl double bass drums lock tightly with the bass guitar in the groove; Sabian AAX hi-hats hold articulation across both the groove pulse and faster blast passages."
       }
     ],
     "faq": [
@@ -444,7 +444,7 @@ export const articles = {
       },
       {
         "question": "What drum kit did Kevin Talley use on Destroy the Opposition?",
-        "answer": "Kevin Talley played a Pearl Masters kit on Destroy the Opposition — maple/mahogany hybrid shells in a double 22\" x 18\" bass drum configuration, with 10\" and 12\" rack toms and 16\" and 18\" floor toms, paired with a 14\" x 6.5\" steel snare. His cymbal setup used Zildjian A and A Custom hi-hats and china, driven by a DW double bass pedal and Vic Firth American Classic 5B sticks — the same rig documented on his [complete drum setup breakdown](/articles/kevin-talley-drum-setup)."
+        "answer": "Kevin Talley played a Pearl Masters kit on Destroy the Opposition — maple/mahogany hybrid shells in a double 22\" x 18\" bass drum configuration, with 10\" and 12\" rack toms and 16\" and 18\" floor toms, paired with a 14\" x 6.5\" steel snare. His cymbal setup used Sabian AAX hi-hats and china, driven by a Pearl Eliminator double bass pedal and Vic Firth American Classic 5B sticks — the same rig documented on his [complete drum setup breakdown](/articles/kevin-talley-drum-setup)."
       },
       {
         "question": "How does the groove on 'Destroy the Opposition' work?",
@@ -479,7 +479,7 @@ export const articles = {
     ],
     "conclusion": {
       "title": "Destroy the Opposition: The Groove-and-Blast Template",
-      "content": "Destroy the Opposition endures as a brutal death metal landmark because Kevin Talley's performance refuses to be reduced to a single dimension. The title track's ability to shift between extreme blasting and a weighted, deliberate groove — without either side sounding like a compromise — became a template that brutal death metal drummers have studied for over two decades. It is a reminder that the genre's technical ceiling was never only about speed.\n\nThe gear behind that performance — Pearl Masters drums, Zildjian A Custom cymbals, a DW double bass pedal, Vic Firth 5B sticks — carried forward largely unchanged into Talley's subsequent Misery Index and War of Attrition-era work, evidence that the record's impact came from compositional discipline rather than equipment. Recorded and produced within the Maryland/DC scene that shaped Dying Fetus's identity, Destroy the Opposition remains the reference point for understanding Talley's full technical range.\n\nFor deeper exploration:\n- **Full drummer profile**: [Kevin Talley at MetalForge](/drummers/kevin-talley)\n- **Complete gear breakdown**: [Kevin Talley drum setup](/articles/kevin-talley-drum-setup)\n- **Death metal speed comparison**: [George Kollias kit — Nile](/articles/whats-in-george-kollias-kit)"
+      "content": "Destroy the Opposition endures as a brutal death metal landmark because Kevin Talley's performance refuses to be reduced to a single dimension. The title track's ability to shift between extreme blasting and a weighted, deliberate groove — without either side sounding like a compromise — became a template that brutal death metal drummers have studied for over two decades. It is a reminder that the genre's technical ceiling was never only about speed.\n\nThe gear behind that performance — Pearl Masters drums, Sabian AAX cymbals, a Pearl Eliminator double bass pedal, Vic Firth 5B sticks — carried forward largely unchanged into Talley's subsequent Misery Index and War of Attrition-era work, evidence that the record's impact came from compositional discipline rather than equipment. Recorded and produced within the Maryland/DC scene that shaped Dying Fetus's identity, Destroy the Opposition remains the reference point for understanding Talley's full technical range.\n\nFor deeper exploration:\n- **Full drummer profile**: [Kevin Talley at MetalForge](/drummers/kevin-talley)\n- **Complete gear breakdown**: [Kevin Talley drum setup](/articles/kevin-talley-drum-setup)\n- **Death metal speed comparison**: [George Kollias kit — Nile](/articles/whats-in-george-kollias-kit)"
     }
   }
 };

@@ -84,14 +84,6 @@ export const DRUMMERS_BY_KIT = {
       config: 'Mapex Armory (22"×18" Bass, 10"×8", 12"×9", 14"×12", 16"×16" Toms)',
       endorsee: true,
     },
-    {
-      slug: 'matt-halpern',
-      name: 'Matt Halpern',
-      band: 'Periphery',
-      yearsUsed: '2015–present',
-      config: 'Mapex Armory (22"×18" Bass, 10"×8", 12"×9", 14"×12" Toms)',
-      endorsee: true,
-    },
   ],
   // Issue #2406 (split 4/4 of #2215): Ludwig Classic Maple page (/gear/ludwig/classic-maple/)
   'ludwig/classic-maple': [

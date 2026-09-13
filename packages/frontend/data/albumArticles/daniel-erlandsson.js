@@ -226,7 +226,7 @@ export const articles = {
           "pedals": "Pearl Eliminator Double Bass Pedal",
           "sticks": "ProMark 5B"
         },
-        "notes": "Wages of Sin (2001) — produced by Peter Tägtgren at the Abyss Studio — marked Arch Enemy's international breakthrough. Angela Gossow's vocals shifted the band's profile dramatically, and the albums that followed (Anthems of Rebellion, Doomsday Machine) reached audiences far beyond the melodic death metal underground. Erlandsson's setup in this period reached its fully documented professional configuration: Pearl Reference Pure, signature snare, Sabian AAX/HHX, Pearl Eliminator. \"Nemesis\" (Doomsday Machine) became one of Arch Enemy's most iconic tracks and one of the clearest examples of his double-kick and melodic fill integration."
+        "notes": "Wages of Sin (2001) — produced by Peter Tägtgren at the Abyss Studio — marked Arch Enemy's international breakthrough. Angela Gossow's vocals shifted the band's profile dramatically, and the albums that followed (Anthems of Rebellion, Doomsday Machine) reached audiences far beyond the melodic death metal underground. Erlandsson's setup in this period reached its fully documented professional configuration: Pearl Reference Pure, signature snare, Sabian AA/HH, Pearl Eliminator. \"Nemesis\" (Doomsday Machine) became one of Arch Enemy's most iconic tracks and one of the clearest examples of his double-kick and melodic fill integration."
       },
       {
         "era": "Alissa White-Gluz Era — War Eternal through Deceivers",
@@ -874,14 +874,14 @@ export const articles = {
     "author": "MetalForge Editorial",
     "title": "Daniel Erlandsson's Drum Setup on Arch Enemy's Anthems of Rebellion (2003)",
     "metaTitle": "Daniel Erlandsson's Drum Setup — Arch Enemy 'Anthems of Rebellion' (2003) | MetalForge",
-    "description": "Daniel Erlandsson's drum setup on Arch Enemy's Anthems of Rebellion (2003) — Angela Gossow's first full Arch Enemy album, Pearl Masters MMX shells, Sabian AAX/HHX cymbals, Pearl Eliminator pedals, and the Swedish melodic death metal landmark that defined the Gossow era.",
+    "description": "Daniel Erlandsson's drum setup on Arch Enemy's Anthems of Rebellion (2003) — Angela Gossow's first full Arch Enemy album, Pearl Masters MMX shells, Sabian AA/HH cymbals, Pearl Eliminator pedals, and the Swedish melodic death metal landmark that defined the Gossow era.",
     "seoKeywords": [
       "anthems of rebellion drum setup",
       "daniel erlandsson 2003 kit",
       "arch enemy anthems of rebellion drums",
       "angela gossow first full album",
       "pearl masters mmx drum kit",
-      "sabian aax hhx arch enemy",
+      "sabian aa hh arch enemy",
       "exist to dominate drums",
       "we will rise arch enemy drum",
       "gothenburg melodic death metal 2003",
@@ -890,13 +890,13 @@ export const articles = {
     "ogImage": "/images/drummers/daniel-erlandsson.webp",
     "intro": {
       "title": "Anthems of Rebellion (2003): Angela Gossow's First Full Album and Erlandsson's MMX Era",
-      "content": "Released October 27, 2003 on Century Media Records, Arch Enemy's fifth studio album Anthems of Rebellion marks a defining moment in the band's history: Angela Gossow's first full album with Arch Enemy — the record where her presence shaped the songwriting and identity of the band from the ground up, rather than being grafted onto material already in progress. Where Wages of Sin (2002) was the breakthrough that introduced Gossow to the world, Anthems of Rebellion is the album where the Angela Gossow–era Arch Enemy established its fully developed creative identity. The results confirmed that the chemistry between Gossow's extreme vocal approach and the band's melodic death metal architecture was not a one-record phenomenon — it was the defining formula of Arch Enemy's most commercially successful and critically recognised era.\n\nBehind the kit, Daniel Erlandsson brought the same compositional precision that had characterised his playing on Wages of Sin, but now operating within arrangements that had been written from the outset with Gossow's vocal style in mind. The interplay between Erlandsson's double-kick patterns and the melodic guitar work of Michael Amott is sharper and more purposeful on Anthems than on its predecessor: the drums answer the vocal phrasing, frame the harmonic motion of the guitar leads, and drive the album's most anthemic moments — including the defining Gossow-era statement \"We Will Rise\" — with the locked-in precision that became Arch Enemy's trademark.\n\nErlandsson's setup for the Anthems sessions centred on his Pearl Masters MMX kit — Pearl's flagship mixed-shell configuration of the era, combining maple and mahogany shells for a warmer, fuller tonal character than pure-maple designs. His cymbals had evolved toward Sabian's AAX/HHX series, bringing the hand-hammered B20 bronze complexity of that line to Arch Enemy's studio and live configuration. The Pearl Eliminator double bass pedal remained his foot technique foundation, providing the mechanical consistency that sustained double-kick passages demanded across full studio tracking days.\n\nThis article breaks down Daniel Erlandsson's drum setup for Anthems of Rebellion — the kit, cymbals, hardware, recording approach, and technique — and places the album within the arc of the Angela Gossow era and the Gothenburg melodic death metal tradition that shaped both Erlandsson brothers' careers.",
+      "content": "Released October 27, 2003 on Century Media Records, Arch Enemy's fifth studio album Anthems of Rebellion marks a defining moment in the band's history: Angela Gossow's first full album with Arch Enemy — the record where her presence shaped the songwriting and identity of the band from the ground up, rather than being grafted onto material already in progress. Where Wages of Sin (2002) was the breakthrough that introduced Gossow to the world, Anthems of Rebellion is the album where the Angela Gossow–era Arch Enemy established its fully developed creative identity. The results confirmed that the chemistry between Gossow's extreme vocal approach and the band's melodic death metal architecture was not a one-record phenomenon — it was the defining formula of Arch Enemy's most commercially successful and critically recognised era.\n\nBehind the kit, Daniel Erlandsson brought the same compositional precision that had characterised his playing on Wages of Sin, but now operating within arrangements that had been written from the outset with Gossow's vocal style in mind. The interplay between Erlandsson's double-kick patterns and the melodic guitar work of Michael Amott is sharper and more purposeful on Anthems than on its predecessor: the drums answer the vocal phrasing, frame the harmonic motion of the guitar leads, and drive the album's most anthemic moments — including the defining Gossow-era statement \"We Will Rise\" — with the locked-in precision that became Arch Enemy's trademark.\n\nErlandsson's setup for the Anthems sessions centred on his Pearl Masters MMX kit — Pearl's flagship mixed-shell configuration of the era, combining maple and mahogany shells for a warmer, fuller tonal character than pure-maple designs. His cymbals remained Sabian's AA/HH series, the same bright, hand-hammered B20 bronze line he'd played since his earliest Arch Enemy work. The Pearl Eliminator double bass pedal remained his foot technique foundation, providing the mechanical consistency that sustained double-kick passages demanded across full studio tracking days.\n\nThis article breaks down Daniel Erlandsson's drum setup for Anthems of Rebellion — the kit, cymbals, hardware, recording approach, and technique — and places the album within the arc of the Angela Gossow era and the Gothenburg melodic death metal tradition that shaped both Erlandsson brothers' careers.",
       "keyPoints": [
         "Angela Gossow's first full Arch Enemy album — songwriting built around her identity from the outset",
         "Released October 27, 2003 on Century Media Records — fifth Arch Enemy studio album",
         "\"We Will Rise\" became an Arch Enemy live anthem and defining Gossow-era statement",
         "Pearl Masters MMX kit — mixed maple/mahogany shells at the top of Pearl's 2003 lineup",
-        "Sabian AAX/HHX cymbals — hand-hammered B20 bronze complexity for studio and touring work",
+        "Sabian AA/HH cymbals — bright, hand-hammered B20 bronze cut for studio and touring work",
         "Pearl Eliminator double bass pedal — sustained double-kick consistency across the full album"
       ]
     },
@@ -940,49 +940,49 @@ export const articles = {
       "estimatedValue": "$400-600 (Pearl Free-Floating Brass series, 2003)"
     },
     "cymbals": {
-      "title": "Sabian AAX/HHX: Daniel Erlandsson's 2003 Cymbal Evolution",
+      "title": "Sabian AA/HH: Daniel Erlandsson's Cymbal Setup on Anthems of Rebellion",
       "brand": "Sabian",
-      "series": "Sabian AAX/HHX Series",
+      "series": "Sabian AA/HH Series",
       "setup": [
         {
           "type": "Hi-Hats",
-          "model": "Sabian AAX 14\" Traditional Hi-Hats",
+          "model": "Sabian AA 14\" Hi-Hats",
           "position": "Left side",
-          "notes": "Hand-hammered B20 bronze — warm, complex articulation for verse groove and blast accompaniment"
+          "notes": "Bright, cutting AA character for verse groove and blast accompaniment"
         },
         {
           "type": "Crash",
-          "model": "Sabian AAX 16\" Medium Crash",
+          "model": "Sabian AA 16\" Crash",
           "position": "Left crash",
-          "notes": "Fast attack with musical sustain — AAX warmth without brightness sacrificed"
+          "notes": "Fast attack, quick decay — cuts cleanly above dense guitar layering"
         },
         {
           "type": "Crash",
-          "model": "Sabian AAX 18\" Medium Crash",
+          "model": "Sabian AA 18\" Crash",
           "position": "Right crash",
           "notes": "Larger crash body for structural section entries and chorus accents"
         },
         {
           "type": "Ride",
-          "model": "Sabian HHX 20\" Medium Ride",
+          "model": "Sabian HH 20\" Ride",
           "position": "Far right",
-          "notes": "Defined stick articulation with HHX tonal complexity for groove passage ride work"
+          "notes": "Defined stick articulation with hand-hammered HH character for groove passage ride work"
         },
         {
           "type": "China",
-          "model": "Sabian HHX 18\" China",
+          "model": "Sabian HH 18\" China",
           "position": "Over rack toms",
           "notes": "Aggressive China character in Gothenburg style — riff transitions and dynamic punctuation"
         },
         {
           "type": "Splash",
-          "model": "Sabian AAX 10\" Splash",
+          "model": "Sabian AA 10\" Splash",
           "position": "Above hi-hats",
           "notes": "Fast accent cymbal for syncopated fills and short dynamic punctuation"
         }
       ],
-      "description": "The Sabian AAX/HHX series that Daniel Erlandsson deployed on Anthems of Rebellion represents a significant shift in the tonal philosophy of his cymbal work relative to the Sabian AA/HH setup of the Wages of Sin era. The AAX / HHX line is hand-hammered B20 bronze — the same alloy as most premium cymbals, but processed with more surface variation than machine-hammered designs. The result is a cymbal character that is warmer, darker, and more musically complex than the bright-cutting Sabian AA approach: more overtones, longer sustain, and a tonal depth that rewards dynamic playing.\n\nFor Arch Enemy's Anthems of Rebellion sessions, the AAX / HHX character suits the album's more melodic compositional direction. The hand-hammered surface produces a rich wash that blends with Amott's layered guitar harmonics rather than cutting aggressively above them. The hi-hats speak with warmth and definition, the crashes sustain with musical complexity rather than fast decay, and the ride provides a textured canvas for groove passages that feels compositionally integrated rather than purely functional.\n\nThe 14\" AAX Traditional hi-hats drive the album's rhythmic foundation with the articulate clarity that Sabian's AAX Traditional series is known for — every stroke registers distinctly even within the blast beat passages, where hi-hat definition separates competent drumming from exceptional drumming. The 16\" and 18\" crash configuration provides the accent range from fast-decay structural markers to longer, more musical sustain for the bigger section moments on \"We Will Rise.\"\n\nThe HHX 18\" China maintains the Gothenburg melodic death metal china accent vocabulary that Erlandsson established on earlier albums — the aggressive, trashy character for riff transitions and dynamic punctuation — but with the additional tonal complexity of the hand-hammered HHX surface. And the 20\" HHX Medium Ride provides the low-frequency texture that the more spacious passages on Anthems require, offering a contrasting sonic character to the crashes that expands the album's tonal palette.",
-      "estimatedValue": "$1,600-2,400 total (Sabian AAX/HHX full studio setup, 2003)"
+      "description": "The Sabian AA/HH series that Daniel Erlandsson deployed on Anthems of Rebellion is the same cymbal setup he'd used since his earliest Arch Enemy work — no cymbal change accompanied the shift from the Pearl Reference/Masters-era kit to the Masters MMX. The AA / HH line is hand-hammered B20 bronze, delivering a bright, cutting character built for projection and attack rather than the darker, more complex voicing of Sabian's later AAX/HHX line (which Erlandsson would not adopt until 2014's War Eternal era).\n\nFor Arch Enemy's Anthems of Rebellion sessions, the AA/HH character suits the album's high-velocity blast and double-kick content: the hi-hats and crashes cut cleanly above Amott's layered guitar harmonics rather than blending into a wash, and the ride provides a focused stick sound that stays articulate even under dense arrangement pressure.\n\nThe 14\" AA hi-hats drive the album's rhythmic foundation with the bright, immediate attack that Sabian's AA series is known for — every stroke registers distinctly even within the blast beat passages, where hi-hat definition separates competent drumming from exceptional drumming. The 16\" and 18\" crash configuration provides the accent range from fast-decay structural markers to fuller crash body for the bigger section moments on \"We Will Rise.\"\n\nThe HH 18\" China maintains the Gothenburg melodic death metal china accent vocabulary that Erlandsson established on earlier albums — the aggressive, trashy character for riff transitions and dynamic punctuation. And the 20\" HH ride provides a hand-hammered contrast to the brighter AA crashes, giving the more spacious passages on Anthems a distinct tonal character.",
+      "estimatedValue": "$1,200-2,000 total (Sabian AA/HH full studio setup, 2003)"
     },
     "hardware": {
       "title": "The Foundation: Pearl Eliminator and the Anthems Rig",
@@ -1041,10 +1041,10 @@ export const articles = {
     },
     "soundCharacter": {
       "title": "The Anthems of Rebellion Drum Sound: MMX Warmth in a Melodic Context",
-      "content": "The drum sound on Anthems of Rebellion is distinctly warmer than the Wages of Sin production — the Pearl Masters MMX mixed-shell character and the Sabian AAX/HHX cymbal palette combine to produce a kit voice with more low-mid body and tonal depth than the brighter, more aggressive Sabian AA/HH approach of the previous album. This warmth is not softness: the Studio Fredman close-mic approach maintains the attack and articulation that melodic death metal demands, but the overall tonal character has more musical roundness that suits the album's more harmonically developed guitar arrangements.\n\nThe kick drum sound on Anthems carries more sub-bass body than Wages of Sin — the MMX shells' mahogany contribution in the low end gives the two 22\"x18\" bass drums a fuller, rounder fundamental that sits differently in the mix. The snare retains the brass-shell brightness and cut that allows it to speak above the guitar density. The Sabian AAX/HHX cymbals wash with complex harmonic texture rather than the more focused, cutting brightness of the Sabian AA series — giving the album's cymbal work a more musically integrated character within the full arrangement.",
+      "content": "The drum sound on Anthems of Rebellion is distinctly warmer than the Wages of Sin production — the Pearl Masters MMX mixed-shell character gives the kit voice more low-mid body and tonal depth than the brighter, more focused Pearl configuration of the previous album, while the Sabian AA/HH cymbal setup stays consistent across both records. This warmth is not softness: the Studio Fredman close-mic approach maintains the attack and articulation that melodic death metal demands, but the overall tonal character has more musical roundness that suits the album's more harmonically developed guitar arrangements.\n\nThe kick drum sound on Anthems carries more sub-bass body than Wages of Sin — the MMX shells' mahogany contribution in the low end gives the two 22\"x18\" bass drums a fuller, rounder fundamental that sits differently in the mix. The snare retains the brass-shell brightness and cut that allows it to speak above the guitar density. The Sabian AA/HH cymbals cut through with the same bright, hand-hammered attack that had defined Erlandsson's cymbal work since Wages of Sin, giving the album's cymbal work a consistent, cutting character within the full arrangement.",
       "keyAttributes": [
         "Pearl Masters MMX warmth — mahogany contribution adds low-mid body and tonal depth",
-        "Sabian AAX/HHX complexity — hand-hammered B20 warmth vs the brighter Sabian AA character of Wages",
+        "Sabian AA/HH cymbals — the same bright, hand-hammered B20 setup carried over unchanged from Wages of Sin",
         "Studio Fredman close-mic attack preserved within the warmer overall tonal character",
         "Fuller sub-bass kick character from the MMX shells in Studio Fredman's controlled tracking room"
       ]
@@ -1060,7 +1060,7 @@ export const articles = {
           "Dynamic contrast between verse restraint and full-intensity chorus drives the anthem quality",
           "Tom fills build structural momentum across section transitions using the full 10/12/14/16 spread"
         ],
-        "gearNotes": "Sabian AAX/HHX crashes provide the musical wash for the chorus entries. MMX warmth suits the melodic verse groove. Pearl Eliminator double-kick consistency drives the verse-to-chorus momentum build."
+        "gearNotes": "Sabian AA crashes provide the bright cut for the chorus entries. MMX warmth suits the melodic verse groove. Pearl Eliminator double-kick consistency drives the verse-to-chorus momentum build."
       },
       {
         "track": "Exist to Dominate",
@@ -1070,7 +1070,7 @@ export const articles = {
           "Single from the album — highest-velocity track showcasing the MMX kit under full blast conditions",
           "Blast beat passages deployed as structural events rather than constant texture",
           "Double-kick patterns articulate the guitar riff rhythmic content throughout",
-          "China cymbal accents from HHX 18\" mark riff transitions in classic Gothenburg style"
+          "China cymbal accents from HH 18\" mark riff transitions in classic Gothenburg style"
         ],
         "gearNotes": "Brass snare's cutting attack essential at blast velocity — each stroke must register individually. Pearl Eliminator consistency drives the sustained double-kick foundation."
       },
@@ -1080,11 +1080,11 @@ export const articles = {
         "signature": "4/4",
         "highlights": [
           "Mid-tempo groove track — demonstrates Erlandsson's dynamic range beyond the blast-beat showcase",
-          "HH ride on the HHX 20\" Medium provides the textural contrast for groove-oriented sections",
+          "HH ride on the 20\" model provides the textural contrast for groove-oriented sections",
           "Fill content locks to guitar melodic contours — double-kick articulates riff shapes",
           "Structural transitions supported by full-kit fills from MMX tom spread"
         ],
-        "gearNotes": "HHX ride warmth contrasts with crash brightness across the dynamic range. MMX shell body carries well in the more spacious arrangement of the mid-tempo sections."
+        "gearNotes": "HH ride's hand-hammered character contrasts with AA crash brightness across the dynamic range. MMX shell body carries well in the more spacious arrangement of the mid-tempo sections."
       },
       {
         "track": "Burning Angel",
@@ -1094,15 +1094,15 @@ export const articles = {
           "High-energy track with varied dynamic architecture across verse and chorus sections",
           "Demonstrates the interlocking of vocal phrasing and drum accents in the fully-formed Gossow-era identity",
           "Double-kick transitions between patterns follow the melodic guitar line changes",
-          "HHX china accents punctuate section boundaries with aggressive trashy character"
+          "HH china accents punctuate section boundaries with aggressive trashy character"
         ],
-        "gearNotes": "MMX toms provide the warmer-than-maple fill character that gives Burning Angel's transitions body. HHX china delivers aggressive accent character in the Gothenburg style."
+        "gearNotes": "MMX toms provide the warmer-than-maple fill character that gives Burning Angel's transitions body. HH china delivers aggressive accent character in the Gothenburg style."
       }
     ],
     "faq": [
       {
         "question": "What drum kit did Daniel Erlandsson use on Arch Enemy's Anthems of Rebellion?",
-        "answer": "Daniel Erlandsson recorded Arch Enemy's Anthems of Rebellion (2003) on a Pearl Masters MMX kit — Pearl's flagship mixed-shell configuration of the era, combining maple and mahogany shells for a warmer, fuller tonal character than pure-maple designs. The configuration maintained his standard Arch Enemy setup: two 22\" x 18\" bass drums in a true double-kick configuration (not a double pedal on single kick), 10\" and 12\" rack toms, 14\" and 16\" floor toms, and a Pearl Free-Floating Brass 14\" x 6.5\" snare. His cymbal setup had evolved to the Sabian AAX/HHX series — hand-hammered B20 bronze delivering warmer, more complex tonal character than the Sabian AA/HH configuration of the previous album. Pearl Eliminator double bass pedal remained his foot technique foundation. For the full Erlandsson career gear context: [Daniel Erlandsson drum setup at MetalForge](/articles/daniel-erlandsson-drum-setup)."
+        "answer": "Daniel Erlandsson recorded Arch Enemy's Anthems of Rebellion (2003) on a Pearl Masters MMX kit — Pearl's flagship mixed-shell configuration of the era, combining maple and mahogany shells for a warmer, fuller tonal character than pure-maple designs. The configuration maintained his standard Arch Enemy setup: two 22\" x 18\" bass drums in a true double-kick configuration (not a double pedal on single kick), 10\" and 12\" rack toms, 14\" and 16\" floor toms, and a Pearl Free-Floating Brass 14\" x 6.5\" snare. His cymbal setup remained the Sabian AA/HH series — the same bright, hand-hammered B20 bronze cymbals he'd played since his earliest Arch Enemy work; he wouldn't move to Sabian's darker AAX/HHX line until 2014. Pearl Eliminator double bass pedal remained his foot technique foundation. For the full Erlandsson career gear context: [Daniel Erlandsson drum setup at MetalForge](/articles/daniel-erlandsson-drum-setup)."
       },
       {
         "question": "Why is Anthems of Rebellion considered Angela Gossow's first full Arch Enemy album?",
@@ -1110,7 +1110,7 @@ export const articles = {
       },
       {
         "question": "What cymbals did Daniel Erlandsson use on Anthems of Rebellion?",
-        "answer": "Daniel Erlandsson played Sabian AAX/HHX cymbals on Anthems of Rebellion (2003), representing an evolution from the Sabian AA/HH setup he had used on Wages of Sin (2002). The AAX / HHX series is hand-hammered B20 bronze — producing a warmer, more tonally complex character than machine-hammered alternatives. His configuration included 14\" AAX Traditional hi-hats for verse groove articulation, 16\" and 18\" AAX Medium Crash cymbals for section-entry accents, a 20\" HHX Medium Ride for groove-oriented passage texture, an 18\" HHX China for the trashy Gothenburg-style riff-transition accents, and a 10\" AAX Splash for fast syncopated accents. The AAX / HHX character suited the more melodically developed arrangements of Anthems of Rebellion, providing warmth and musical depth that integrated with Amott's layered guitar harmonics rather than cutting aggressively above them."
+        "answer": "Daniel Erlandsson played Sabian AA/HH cymbals on Anthems of Rebellion (2003), the same setup he had used on Wages of Sin (2002) and would continue to use through Rise of the Tyrant (2007) — he didn't move to Sabian's darker, hand-hammered AAX/HHX line until 2014's War Eternal. His configuration included 14\" AA hi-hats for verse groove articulation, 16\" and 18\" AA crash cymbals for section-entry accents, a 20\" HH ride for groove-oriented passage texture, an 18\" HH China for the trashy Gothenburg-style riff-transition accents, and a 10\" AA splash for fast syncopated accents. The bright, cutting AA/HH character suited Anthems of Rebellion's high-velocity blast and double-kick content, projecting cleanly above Amott's layered guitar harmonics."
       },
       {
         "question": "How does Anthems of Rebellion fit in the Arch Enemy discography and Erlandsson's career?",
@@ -1135,7 +1135,7 @@ export const articles = {
     ],
     "conclusion": {
       "title": "Anthems of Rebellion: The Album That Defined the Angela Gossow Era",
-      "content": "Anthems of Rebellion (October 27, 2003) is the album where the Angela Gossow–era Arch Enemy established its identity as one of extreme metal's essential creative forces. Angela Gossow's first full album as an integrated creative member of the band, it confirmed that the chemistry of Wages of Sin was the beginning of something larger — a decade-long period of creative output and commercial growth that produced some of melodic death metal's defining studio records. \"We Will Rise\" became one of the genre's most recognisable anthems; \"Exist to Dominate\" established Arch Enemy's most intense blast-beat showcase; and the album's overall compositional ambition set a standard that Doomsday Machine (2005) would build directly upon.\n\nThe gear behind that performance — Pearl Masters MMX mixed-shell kit, Pearl Free-Floating Brass 14\"x6.5\" snare, Sabian AAX/HHX cymbal setup, Pearl Eliminator double bass pedal — reflects Erlandsson's early-2000s evolution toward a warmer, more tonally complex setup philosophy. The MMX's maple/mahogany blend and the AAX / HHX cymbals' hand-hammered character suit the album's more melodically developed arrangements, providing tonal depth that integrates with Amott's layered guitar harmonics.\n\n**Key takeaways for drummers studying this album:**\n- Double-kick patterns that articulate guitar riff rhythmic shapes rather than running as constant bedrock\n- Blast beats deployed as structural events — deliberate intensification rather than default texture\n- Pearl MMX warmth and Sabian AAX/HHX complexity for melodically sophisticated melodic death metal\n- Dynamic contrast between verse restraint and full-intensity chorus is the source of the anthology quality\n\n**Explore related content at MetalForge:**\n- [Wages of Sin drum setup (2002)](/articles/wages-of-sin-drum-setup) — the breakthrough Gossow-era opening album\n- [Doomsday Machine drum setup (2005)](/articles/doomsday-machine-drum-setup) — the Billboard-charting follow-up\n- [Rise of the Tyrant drum setup (2007)](/articles/rise-of-the-tyrant-drum-setup) — peak commercial Gossow era\n- [Daniel Erlandsson drummer profile](/drummer/daniel-erlandsson) — full career context\n- [How to sound like Daniel Erlandsson](/guides/how-to-sound-like-daniel-erlandsson) — technique guide"
+      "content": "Anthems of Rebellion (October 27, 2003) is the album where the Angela Gossow–era Arch Enemy established its identity as one of extreme metal's essential creative forces. Angela Gossow's first full album as an integrated creative member of the band, it confirmed that the chemistry of Wages of Sin was the beginning of something larger — a decade-long period of creative output and commercial growth that produced some of melodic death metal's defining studio records. \"We Will Rise\" became one of the genre's most recognisable anthems; \"Exist to Dominate\" established Arch Enemy's most intense blast-beat showcase; and the album's overall compositional ambition set a standard that Doomsday Machine (2005) would build directly upon.\n\nThe gear behind that performance — Pearl Masters MMX mixed-shell kit, Pearl Free-Floating Brass 14\"x6.5\" snare, Sabian AA/HH cymbal setup, Pearl Eliminator double bass pedal — reflects Erlandsson's early-2000s evolution toward a warmer drum-shell tonal philosophy, while his cymbal setup stayed consistent with the bright, cutting AA/HH series he'd played since his earliest Arch Enemy work. The MMX's maple/mahogany blend suits the album's more melodically developed arrangements, adding tonal depth that integrates with Amott's layered guitar harmonics without changing the cutting character of the cymbal work.\n\n**Key takeaways for drummers studying this album:**\n- Double-kick patterns that articulate guitar riff rhythmic shapes rather than running as constant bedrock\n- Blast beats deployed as structural events — deliberate intensification rather than default texture\n- Pearl MMX warmth paired with the bright, cutting Sabian AA/HH cymbal setup for melodically sophisticated melodic death metal\n- Dynamic contrast between verse restraint and full-intensity chorus is the source of the anthology quality\n\n**Explore related content at MetalForge:**\n- [Wages of Sin drum setup (2002)](/articles/wages-of-sin-drum-setup) — the breakthrough Gossow-era opening album\n- [Doomsday Machine drum setup (2005)](/articles/doomsday-machine-drum-setup) — the Billboard-charting follow-up\n- [Rise of the Tyrant drum setup (2007)](/articles/rise-of-the-tyrant-drum-setup) — peak commercial Gossow era\n- [Daniel Erlandsson drummer profile](/drummer/daniel-erlandsson) — full career context\n- [How to sound like Daniel Erlandsson](/guides/how-to-sound-like-daniel-erlandsson) — technique guide"
     }
   },
   "rise-of-the-tyrant-drum-setup": {
@@ -1156,14 +1156,14 @@ export const articles = {
     "author": "MetalForge Editorial",
     "title": "Daniel Erlandsson's Drum Setup on Arch Enemy's Rise of the Tyrant (2007)",
     "metaTitle": "Daniel Erlandsson's Drum Setup — Arch Enemy 'Rise of the Tyrant' (2007) | MetalForge",
-    "description": "Daniel Erlandsson's drum setup on Arch Enemy's Rise of the Tyrant (2007) — peak commercial Angela Gossow era, Pearl Masters Premium shells, Sabian AAX/HHX Dark and Vintage cymbals, Pearl Eliminator pedals, and the album that landed on Guitar Hero: Smash Hits.",
+    "description": "Daniel Erlandsson's drum setup on Arch Enemy's Rise of the Tyrant (2007) — peak commercial Angela Gossow era, Pearl Masters Premium shells, Sabian AA/HH cymbals, Pearl Eliminator pedals, and the album that landed on Guitar Hero: Smash Hits.",
     "seoKeywords": [
       "rise of the tyrant drum setup",
       "daniel erlandsson 2007 kit",
       "arch enemy rise of the tyrant drums",
       "angela gossow peak commercial era",
       "pearl masters premium arch enemy",
-      "sabian aax hhx dark vintage",
+      "sabian aa hh arch enemy",
       "revolution begins drum kit",
       "guitar hero smash hits arch enemy",
       "arch enemy andy sneap 2007",
@@ -1172,12 +1172,12 @@ export const articles = {
     "ogImage": "/images/drummers/daniel-erlandsson.webp",
     "intro": {
       "title": "Rise of the Tyrant (2007): Peak Commercial Gossow Era and Erlandsson's Premium Era Kit",
-      "content": "Released September 21, 2007 on Century Media Records, Arch Enemy's seventh studio album Rise of the Tyrant represents the commercial peak of the Angela Gossow era — the record that brought the band's audience to its largest point and cemented their position as one of extreme metal's most commercially successful acts. Following the Billboard 200–charting Doomsday Machine (2005), Rise of the Tyrant pushed further into the mainstream metal consciousness: the lead single \"Revolution Begins\" became one of Arch Enemy's most widely heard tracks and landed the band on Guitar Hero: Smash Hits, bringing their music to an audience well beyond the dedicated melodic death metal fanbase. The album's combination of melodic accessibility and extreme metal aggression — the formula Michael Amott and the Angela Gossow–era lineup had been developing since 2002 — here achieved its most commercially effective realisation.\n\nBehind the kit, Daniel Erlandsson had now spent nearly fifteen years refining his approach to Gothenburg melodic death metal drumming, and Rise of the Tyrant is one of the clearest documents of his mature playing at peak professional form. Working again with producer Andy Sneap — whose production philosophy had shaped the band's sound since Wages of Sin and been the consistent sonic signature across Doomsday Machine — Erlandsson delivered performances that combined technical precision with compositional intelligence, exactly the balance that the album's polished extreme metal identity required.\n\nErlandsson's setup for Rise of the Tyrant had evolved to the Pearl Masters Premium — Pearl's flagship all-maple professional shell series of the mid-2000s, positioned above the MMX configuration of the Anthems era and delivering the brighter, more defined maple tonal character that Sneap's modern metal production approach required. His cymbal work had deepened within the Sabian AAX/HHX family, now incorporating the AAX / HHX Dark and Vintage series alongside the Traditional line — expanding the tonal palette toward deeper, more complex warm characters that suited the album's melodic sophistication.\n\nThis article breaks down Daniel Erlandsson's complete drum setup for Rise of the Tyrant — the kit, cymbals, pedals, recording approach, and the technique that made one of melodic death metal's most commercially successful albums one of its most drum-credible as well.",
+      "content": "Released September 21, 2007 on Century Media Records, Arch Enemy's seventh studio album Rise of the Tyrant represents the commercial peak of the Angela Gossow era — the record that brought the band's audience to its largest point and cemented their position as one of extreme metal's most commercially successful acts. Following the Billboard 200–charting Doomsday Machine (2005), Rise of the Tyrant pushed further into the mainstream metal consciousness: the lead single \"Revolution Begins\" became one of Arch Enemy's most widely heard tracks and landed the band on Guitar Hero: Smash Hits, bringing their music to an audience well beyond the dedicated melodic death metal fanbase. The album's combination of melodic accessibility and extreme metal aggression — the formula Michael Amott and the Angela Gossow–era lineup had been developing since 2002 — here achieved its most commercially effective realisation.\n\nBehind the kit, Daniel Erlandsson had now spent nearly fifteen years refining his approach to Gothenburg melodic death metal drumming, and Rise of the Tyrant is one of the clearest documents of his mature playing at peak professional form. Working again with producer Andy Sneap — whose production philosophy had shaped the band's sound since Wages of Sin and been the consistent sonic signature across Doomsday Machine — Erlandsson delivered performances that combined technical precision with compositional intelligence, exactly the balance that the album's polished extreme metal identity required.\n\nErlandsson's setup for Rise of the Tyrant had evolved to the Pearl Masters Premium — Pearl's flagship all-maple professional shell series of the mid-2000s, positioned above the MMX configuration of the Anthems era and delivering the brighter, more defined maple tonal character that Sneap's modern metal production approach required. His cymbal setup remained the Sabian AA/HH series he'd played throughout the Gossow era — the darker, hand-hammered AAX/HHX line was still seven years away, arriving with 2014's War Eternal.\n\nThis article breaks down Daniel Erlandsson's complete drum setup for Rise of the Tyrant — the kit, cymbals, pedals, recording approach, and the technique that made one of melodic death metal's most commercially successful albums one of its most drum-credible as well.",
       "keyPoints": [
         "Released September 21, 2007 on Century Media Records — commercial peak of the Angela Gossow era",
         "\"Revolution Begins\" single landed Arch Enemy on Guitar Hero: Smash Hits — major mainstream crossover",
         "Pearl Masters Premium kit — flagship all-maple professional shells for the mid-2000s",
-        "Sabian AAX/HHX Dark and Vintage series added to the Traditional lineup — expanded tonal palette",
+        "Sabian AA/HH cymbal setup carried over unchanged from the earlier Gossow-era albums",
         "Pearl Eliminator double bass pedal — consistent foot technique foundation across the Arch Enemy decade",
         "Produced by Andy Sneap — the defining production voice of Arch Enemy's commercial peak era"
       ]
@@ -1222,49 +1222,49 @@ export const articles = {
       "estimatedValue": "$400-700 (Pearl Daniel Erlandsson Signature snare)"
     },
     "cymbals": {
-      "title": "Sabian AAX/HHX Dark and Vintage: Erlandsson's Expanded 2007 Palette",
+      "title": "Sabian AA/HH: Erlandsson's Cymbal Setup on Rise of the Tyrant",
       "brand": "Sabian",
-      "series": "Sabian AAX/HHX Dark, Vintage, and Traditional Series",
+      "series": "Sabian AA/HH Series",
       "setup": [
         {
           "type": "Hi-Hats",
-          "model": "Sabian AAX 14\" Dark Hi-Hats",
+          "model": "Sabian AA 14\" Hi-Hats",
           "position": "Left side",
-          "notes": "AAX Dark — deeper, warmer hi-hat voice than Traditional for more complex groove texture"
+          "notes": "Bright, cutting AA character for groove-oriented verse playing"
         },
         {
           "type": "Crash",
-          "model": "Sabian AAX Vintage 16\" Medium Crash",
+          "model": "Sabian AA 16\" Crash",
           "position": "Left crash",
-          "notes": "Vintage series — aged tonal character with fast attack and musical sustain"
+          "notes": "Fast attack, quick decay — musical accent work for left-side crashes"
         },
         {
           "type": "Crash",
-          "model": "Sabian AAX 18\" Medium Crash",
+          "model": "Sabian AA 18\" Crash",
           "position": "Right crash",
-          "notes": "Traditional AAX — warm B20 bronze for larger structural accent work"
+          "notes": "Warm B20 bronze for larger structural accent work"
         },
         {
           "type": "Ride",
-          "model": "Sabian HHX Dark 20\" Ride",
+          "model": "Sabian HH 20\" Ride",
           "position": "Far right",
-          "notes": "Dark series — deeper, more complex ride voice for groove-oriented passage texture"
+          "notes": "Hand-hammered HH voice for groove-oriented passage texture"
         },
         {
           "type": "China",
-          "model": "Sabian HHX 18\" China",
+          "model": "Sabian HH 18\" China",
           "position": "Over rack toms",
-          "notes": "HHX china — aggressive trashy accent for riff-change punctuation in Gothenburg style"
+          "notes": "Aggressive trashy accent for riff-change punctuation in Gothenburg style"
         },
         {
           "type": "Splash",
-          "model": "Sabian AAX 10\" Splash",
+          "model": "Sabian AA 10\" Splash",
           "position": "Above hi-hats",
           "notes": "Fast accent cymbal for syncopated fill punctuation"
         }
       ],
-      "description": "The Sabian AAX/HHX Dark and Vintage series additions that characterise Erlandsson's Rise of the Tyrant cymbal setup represent a significant expansion of tonal palette relative to his earlier AAX / HHX Traditional work on Anthems of Rebellion. Where the Traditional AAX / HHX line delivers hand-hammered B20 warmth with relatively conventional attack and sustain characteristics, the Dark and Vintage series push further into complex tonal territory.\n\nThe AAX / HHX Dark series is produced with a specific lathing and hammering process that creates a darker, more overtone-rich tonal character — warmer and more complex than the Traditional line, with a slower attack and longer wash that suits groove-oriented playing and texturally rich ride work. The 14\" HHX Dark hi-hats and 20\" HHX Dark Ride that anchor Erlandsson's 2007 setup give his groove playing a deeper, more enveloping texture than the brighter-attacking Traditional hi-hats of the Anthems era, complementing the melodic sophistication of Rise of the Tyrant's arrangements.\n\nThe AAX Vintage series, meanwhile, is manufactured with a process intended to reproduce the tonal characteristics of aged B20 cymbals — the slight oxidation and micro-surface variation of well-played vintage alloy. The result is a crash cymbal with a distinctly musical, complex quality: more overtone complexity than new-alloy equivalents, a slightly drier attack, and the warm, rounded sustain of truly broken-in bronze. The 16\" AAX Vintage Medium Crash gives Erlandsson's left-side crash work a musical warmth on Rise of the Tyrant that suits the album's more melodically developed crash-accent moments.\n\nTogether, the Dark, Vintage, and Traditional AAX elements give Erlandsson the most tonally sophisticated cymbal setup of his Angela Gossow–era Arch Enemy work — a palette matched to the musical ambitions of the album and the larger production budgets and listener expectations that came with being one of extreme metal's commercially leading acts.",
-      "estimatedValue": "$1,800-2,800 total (Sabian AAX/HHX Dark/Vintage/Traditional full setup, 2007)"
+      "description": "Daniel Erlandsson's Rise of the Tyrant cymbal setup carried the Sabian AA/HH series over unchanged from Anthems of Rebellion and Wages of Sin — the same bright, hand-hammered B20 bronze line he'd played since his earliest Arch Enemy work. Erlandsson wouldn't move to Sabian's darker, more complex AAX/HHX line until 2014's War Eternal, so the cymbal character on Rise of the Tyrant is a continuation of the earlier Gossow-era albums rather than an expansion.\n\nThe AA / HH line delivers a bright, cutting attack with relatively fast decay — built for projection above dense guitar arrangements rather than the darker, more complex voicing of Sabian's later premium lines. The 14\" hi-hats and 20\" ride that anchor Erlandsson's 2007 setup give his groove playing the same articulate, cutting character heard on the two preceding albums, matched to Andy Sneap's close-mic capture at Backstage Studio.\n\nThe 16\" and 18\" AA crashes provide the accent range from fast-decay structural markers to fuller crash body for the album's bigger section moments, and the HH 18\" China maintains the Gothenburg melodic death metal china accent vocabulary established on the earlier albums.\n\nWith the cymbal setup held constant, the tonal evolution across Erlandsson's Gossow-era discography comes entirely from the drum shells and snare — the Pearl Masters Premium's all-maple clarity here is the source of Rise of the Tyrant's brighter, more defined kit voice relative to the MMX-era Anthems of Rebellion, not any change in cymbal series.",
+      "estimatedValue": "$1,200-2,000 total (Sabian AA/HH full setup, 2007)"
     },
     "hardware": {
       "title": "Hardware: Pearl Eliminator at the Commercial Peak",
@@ -1319,15 +1319,15 @@ export const articles = {
     },
     "technique": {
       "title": "Daniel Erlandsson on Rise of the Tyrant: Commercial Metal Precision",
-      "content": "Rise of the Tyrant represents Daniel Erlandsson's drumming at the commercial peak of the Angela Gossow era — playing that had to serve both the technical demands of melodic death metal and the accessibility requirements of music now reaching mainstream metal audiences via Guitar Hero and major festival platforms. The result is some of Erlandsson's most focused and compositionally efficient studio work: every passage precisely executed, every dynamic shift purposeful, and the balance between aggression and musicality held across an album that needed to work for both dedicated extreme metal listeners and new crossover audiences.\n\n**\"Revolution Begins\" — Extreme Metal for Mainstream Accessibility:**\n\"Revolution Begins\" demonstrates Erlandsson's capacity to make technically demanding drumming feel effortlessly driving rather than aggressively technical. The track's double-kick foundation is relentless and precise, but the groove-forward delivery keeps the song propulsive rather than abrasive — a quality that made it accessible to the Guitar Hero audience without compromising its extreme metal credentials. The hi-hat articulation on the verse sections drives the track's momentum as much as the kick patterns, and the dynamic expansion into chorus sections shows Erlandsson managing intensity across a song designed for maximum impact.\n\n**Sustained Double-Kick Endurance:**\n\"The Last Enemy\" and \"Blood on Your Hands\" feature extended double-kick sections that test not just speed but sustained consistency — the ability to maintain pattern articulation and tempo precision over extended passages at professional recording standards. The Pearl Masters Premium's fast-responding all-maple shells mean every stroke registers with the same definition, and the Pearl Eliminator's mechanical consistency means every stroke produces the same result. The combination is audible in the recording: double-kick passages on Rise of the Tyrant are models of controlled endurance rather than impressive but ultimately blurring displays of speed.\n\n**Dynamic Intelligence in Mainstream Context:**\nRise of the Tyrant's commercial accessibility demands more explicit dynamic management than the more underground-oriented earlier albums. Erlandsson deploys his dynamic range with particular clarity here — verse restraint that makes chorus entries land with maximum force, fill architecture that marks structural transitions without overwhelming them, and the melodic ride-to-crash transitions that give the more spacious passages their tonal variation. The Sabian HHX Dark ride's warm complexity provides the textural contrast for groove sections; the AAX crashes deliver the structural accent vocabulary.\n\nFor broader Erlandsson technique context: [Daniel Erlandsson drum setup at MetalForge](/articles/daniel-erlandsson-drum-setup), [Daniel Erlandsson drummer profile](/drummer/daniel-erlandsson), and [how to sound like Daniel Erlandsson](/guides/how-to-sound-like-daniel-erlandsson)."
+      "content": "Rise of the Tyrant represents Daniel Erlandsson's drumming at the commercial peak of the Angela Gossow era — playing that had to serve both the technical demands of melodic death metal and the accessibility requirements of music now reaching mainstream metal audiences via Guitar Hero and major festival platforms. The result is some of Erlandsson's most focused and compositionally efficient studio work: every passage precisely executed, every dynamic shift purposeful, and the balance between aggression and musicality held across an album that needed to work for both dedicated extreme metal listeners and new crossover audiences.\n\n**\"Revolution Begins\" — Extreme Metal for Mainstream Accessibility:**\n\"Revolution Begins\" demonstrates Erlandsson's capacity to make technically demanding drumming feel effortlessly driving rather than aggressively technical. The track's double-kick foundation is relentless and precise, but the groove-forward delivery keeps the song propulsive rather than abrasive — a quality that made it accessible to the Guitar Hero audience without compromising its extreme metal credentials. The hi-hat articulation on the verse sections drives the track's momentum as much as the kick patterns, and the dynamic expansion into chorus sections shows Erlandsson managing intensity across a song designed for maximum impact.\n\n**Sustained Double-Kick Endurance:**\n\"The Last Enemy\" and \"Blood on Your Hands\" feature extended double-kick sections that test not just speed but sustained consistency — the ability to maintain pattern articulation and tempo precision over extended passages at professional recording standards. The Pearl Masters Premium's fast-responding all-maple shells mean every stroke registers with the same definition, and the Pearl Eliminator's mechanical consistency means every stroke produces the same result. The combination is audible in the recording: double-kick passages on Rise of the Tyrant are models of controlled endurance rather than impressive but ultimately blurring displays of speed.\n\n**Dynamic Intelligence in Mainstream Context:**\nRise of the Tyrant's commercial accessibility demands more explicit dynamic management than the more underground-oriented earlier albums. Erlandsson deploys his dynamic range with particular clarity here — verse restraint that makes chorus entries land with maximum force, fill architecture that marks structural transitions without overwhelming them, and the melodic ride-to-crash transitions that give the more spacious passages their tonal variation. The Sabian HH ride's hand-hammered complexity provides the textural contrast for groove sections; the AA crashes deliver the structural accent vocabulary.\n\nFor broader Erlandsson technique context: [Daniel Erlandsson drum setup at MetalForge](/articles/daniel-erlandsson-drum-setup), [Daniel Erlandsson drummer profile](/drummer/daniel-erlandsson), and [how to sound like Daniel Erlandsson](/guides/how-to-sound-like-daniel-erlandsson)."
     },
     "soundCharacter": {
       "title": "The Rise of the Tyrant Drum Sound: Sneap's Most Polished Arch Enemy Production",
-      "content": "The drum sound on Rise of the Tyrant is Andy Sneap's most refined Arch Enemy production to that point — the result of five years of refinement since Wages of Sin (2002), with the Pearl Masters Premium's all-maple clarity as the tonal foundation and sample augmentation providing the kick-and-snare weight that modern commercial metal required. The overall character is tighter and more polished than the earlier Anthems of Rebellion production: more separation between kit components, more weight-forward kick, and a snare with the defined, punching character that melodic death metal at commercial scale demands.\n\nThe Sabian AAX/HHX Dark and Vintage elements give the cymbal work a tonal sophistication that distinguishes Rise of the Tyrant's production from the brighter, more uniformly aggressive cymbal character of Wages of Sin. The Dark hi-hats' deeper, more complex groove texture and the Vintage crash's aged-alloy warmth provide more musical tonal variety than a single-series cymbal approach, and in the context of Sneap's precise capture chain, those tonal distinctions translate fully into the mix.",
+      "content": "The drum sound on Rise of the Tyrant is Andy Sneap's most refined Arch Enemy production to that point — the result of five years of refinement since Wages of Sin (2002), with the Pearl Masters Premium's all-maple clarity as the tonal foundation and sample augmentation providing the kick-and-snare weight that modern commercial metal required. The overall character is tighter and more polished than the earlier Anthems of Rebellion production: more separation between kit components, more weight-forward kick, and a snare with the defined, punching character that melodic death metal at commercial scale demands.\n\nThe Sabian AA/HH cymbal setup carries over unchanged from the earlier albums, so the added polish on Rise of the Tyrant comes entirely from the Pearl Masters Premium shells and Sneap's capture chain rather than any change in cymbal series. The bright, cutting AA/HH attack still projects cleanly above the dense guitar arrangements, and in the context of Sneap's precise capture chain, that consistency translates fully into the mix.",
       "keyAttributes": [
         "Pearl Masters Premium all-maple clarity — maximum tonal definition for Sneap's close-mic production",
         "Sample-augmented kick and snare — modern commercial metal production weight",
-        "Sabian AAX/HHX Dark and Vintage complexity — tonally sophisticated cymbal character for mainstream melodic death metal",
+        "Sabian AA/HH cymbal setup — unchanged from the earlier Gossow-era albums",
         "Tightest, most commercially polished Arch Enemy drum production across the Gossow era to 2007"
       ]
     },
@@ -1340,9 +1340,9 @@ export const articles = {
           "Lead single — landed on Guitar Hero: Smash Hits, largest mainstream crossover for the band to that point",
           "Double-kick foundation that drives the track without overwhelming its commercial accessibility",
           "Dynamic management across verse/chorus structure — restraint that amplifies impact at section entries",
-          "Hi-hat articulation on the AAX Dark 14\" drives the groove-forward verse feel"
+          "Hi-hat articulation on the AA 14\" drives the groove-forward verse feel"
         ],
-        "gearNotes": "AAX Dark hi-hats provide the warm, articulate groove texture that makes the verse sections driving without being aggressive. Sample-augmented kick delivers the impact at commercial level without losing the Pearl Masters Premium live character."
+        "gearNotes": "AA hi-hats provide the bright, articulate groove texture that makes the verse sections driving without being aggressive. Sample-augmented kick delivers the impact at commercial level without losing the Pearl Masters Premium live character."
       },
       {
         "track": "The Last Enemy",
@@ -1362,11 +1362,11 @@ export const articles = {
         "signature": "4/4",
         "highlights": [
           "High-velocity track showcasing the Masters Premium under sustained blast and double-kick conditions",
-          "HHX Dark ride provides textural contrast in the track's more spacious mid-sections",
+          "HH ride provides textural contrast in the track's more spacious mid-sections",
           "Tom fills follow guitar melodic contours — double-kick articulates riff rhythmic shapes",
-          "HHX china accents mark riff-transition moments with aggressive Gothenburg character"
+          "HH china accents mark riff-transition moments with aggressive Gothenburg character"
         ],
-        "gearNotes": "Masters Premium all-maple shells speak with maximum articulation under blast conditions. HHX china provides the aggressive trash character essential to the Gothenburg riff-change accent vocabulary."
+        "gearNotes": "Masters Premium all-maple shells speak with maximum articulation under blast conditions. HH china provides the aggressive trash character essential to the Gothenburg riff-change accent vocabulary."
       },
       {
         "track": "In This Shallow Grave",
@@ -1374,17 +1374,17 @@ export const articles = {
         "signature": "4/4",
         "highlights": [
           "Mid-tempo track demonstrating Erlandsson's dynamic range beyond the blast showcase",
-          "AAX Vintage crashes provide warm, musical accent character for more melodic sections",
+          "AA crashes provide bright, musical accent character for more melodic sections",
           "Groove-forward verse drumming that demonstrates the commercial instincts of the mid-2000s Arch Enemy approach",
           "Dynamic arc across the full track — restraint-to-intensity-back-to-restraint compositional management"
         ],
-        "gearNotes": "AAX Vintage 16\" crash warmth is most audible in mid-tempo sections where the cymbal sustains without competing with blast-level density. Masters Premium toms carry with clarity in the melodic fill passages."
+        "gearNotes": "AA 16\" crash brightness is most audible in mid-tempo sections where the cymbal cuts without competing with blast-level density. Masters Premium toms carry with clarity in the melodic fill passages."
       }
     ],
     "faq": [
       {
         "question": "What drum kit did Daniel Erlandsson use on Arch Enemy's Rise of the Tyrant?",
-        "answer": "Daniel Erlandsson recorded Arch Enemy's Rise of the Tyrant (2007) on a Pearl Masters Premium kit — Pearl's flagship all-maple professional shell series of the mid-to-late 2000s, delivering the bright, defined attack and fast transient response that producer Andy Sneap's close-mic production approach required. The configuration maintained his standard Arch Enemy setup: two 22\" x 18\" bass drums in a true double-kick configuration, 10\" and 12\" rack toms, 14\" and 16\" floor toms, and the Pearl Daniel Erlandsson Signature snare 14\" x 5.5\" — his co-designed model. His cymbal setup incorporated Sabian AAX/HHX Dark and Vintage series alongside the Traditional line, expanding the tonal palette toward deeper, more complex warm characters. The Pearl Eliminator double bass pedal provided the mechanical consistency for the album's sustained double-kick passages. For the full Erlandsson gear context: [Daniel Erlandsson drum setup at MetalForge](/articles/daniel-erlandsson-drum-setup)."
+        "answer": "Daniel Erlandsson recorded Arch Enemy's Rise of the Tyrant (2007) on a Pearl Masters Premium kit — Pearl's flagship all-maple professional shell series of the mid-to-late 2000s, delivering the bright, defined attack and fast transient response that producer Andy Sneap's close-mic production approach required. The configuration maintained his standard Arch Enemy setup: two 22\" x 18\" bass drums in a true double-kick configuration, 10\" and 12\" rack toms, 14\" and 16\" floor toms, and the Pearl Daniel Erlandsson Signature snare 14\" x 5.5\" — his co-designed model. His cymbal setup remained the Sabian AA/HH series carried over unchanged from the earlier Gossow-era albums — he wouldn't move to Sabian's darker AAX/HHX line until 2014. The Pearl Eliminator double bass pedal provided the mechanical consistency for the album's sustained double-kick passages. For the full Erlandsson gear context: [Daniel Erlandsson drum setup at MetalForge](/articles/daniel-erlandsson-drum-setup)."
       },
       {
         "question": "Which Arch Enemy song from Rise of the Tyrant appeared on Guitar Hero?",
@@ -1392,7 +1392,7 @@ export const articles = {
       },
       {
         "question": "What cymbals did Daniel Erlandsson use on Rise of the Tyrant?",
-        "answer": "Daniel Erlandsson played an expanded Sabian AAX/HHX setup on Rise of the Tyrant (2007), incorporating the AAX / HHX Dark and Vintage series alongside the Traditional line that had characterised his Anthems of Rebellion work. The configuration included 14\" AAX Dark hi-hats (deeper, warmer character than Traditional for groove-oriented verse playing), a 16\" AAX Vintage Medium Crash (aged-alloy tonal complexity for musical left-side accent work), an 18\" AAX Traditional Medium Crash (standard AAX warmth for larger structural accents), a 20\" HHX Dark Ride (complex, warm texture for groove sections), an 18\" HHX China (aggressive trashy Gothenburg-style riff accents), and a 10\" AAX Splash. The multi-series AAX/HHX palette gave Rise of the Tyrant's cymbal work more tonal variety than any previous Arch Enemy album's cymbal setup."
+        "answer": "Daniel Erlandsson played the same Sabian AA/HH setup on Rise of the Tyrant (2007) that had characterised his Anthems of Rebellion (2003) and Wages of Sin (2002) work — no cymbal change accompanied the move to the Pearl Masters Premium kit. The configuration included 14\" AA hi-hats for groove-oriented verse playing, a 16\" AA crash for musical left-side accent work, an 18\" AA crash for larger structural accents, a 20\" HH ride for groove-section texture, an 18\" HH China for aggressive trashy Gothenburg-style riff accents, and a 10\" AA splash. Erlandsson didn't move to Sabian's darker, hand-hammered AAX/HHX line until 2014's War Eternal — seven years after Rise of the Tyrant."
       },
       {
         "question": "How does Rise of the Tyrant compare to Doomsday Machine and Khaos Legions in Erlandsson's discography?",
@@ -1417,7 +1417,7 @@ export const articles = {
     ],
     "conclusion": {
       "title": "Rise of the Tyrant: The Commercial Peak of the Angela Gossow Era",
-      "content": "Rise of the Tyrant (September 21, 2007) is the album at which the Angela Gossow–era Arch Enemy achieved its largest commercial impact — the record that brought the band into mainstream metal consciousness via \"Revolution Begins\" and Guitar Hero: Smash Hits, and confirmed their position as one of extreme metal's most commercially successful acts. Daniel Erlandsson's drumming across the album demonstrates what peak-form professional melodic death metal drumming sounds like: technically demanding and compositionally intelligent, simultaneously serving the aggression that defines the genre and the accessibility that Arch Enemy's growing audience required.\n\nThe gear behind that performance — Pearl Masters Premium all-maple shells, Pearl Daniel Erlandsson Signature snare 14\"x5.5\", Sabian AAX/HHX Dark/Vintage/Traditional cymbal palette, Pearl Eliminator double bass pedal — represents Erlandsson's mid-career setup at its most sophisticated pre-Masterworks-era form. The Masters Premium's tonal clarity and the expanded AAX / HHX palette's tonal variety were perfectly matched to Andy Sneap's most polished Arch Enemy production.\n\n**Key takeaways for drummers studying this album:**\n- Double-kick precision under commercial accessibility demands — driving without overwhelming\n- Sabian AAX/HHX Dark and Vintage cymbal complexity for melodically sophisticated melodic death metal\n- Pearl Masters Premium all-maple clarity as the foundation for Sneap's close-mic production\n- Dynamic management at commercial scale — restraint and intensity in their correct proportions\n\n**Explore related content at MetalForge:**\n- [Doomsday Machine drum setup (2005)](/articles/doomsday-machine-drum-setup) — the Billboard 200 breakthrough\n- [Anthems of Rebellion drum setup (2003)](/articles/anthems-of-rebellion-drum-setup) — the Gossow era foundation\n- [Khaos Legions drum setup (2011)](/articles/khaos-legions-drum-setup) — Angela Gossow's final album\n- [Daniel Erlandsson drummer profile](/drummer/daniel-erlandsson) — full career context\n- [How to sound like Daniel Erlandsson](/guides/how-to-sound-like-daniel-erlandsson) — technique guide"
+      "content": "Rise of the Tyrant (September 21, 2007) is the album at which the Angela Gossow–era Arch Enemy achieved its largest commercial impact — the record that brought the band into mainstream metal consciousness via \"Revolution Begins\" and Guitar Hero: Smash Hits, and confirmed their position as one of extreme metal's most commercially successful acts. Daniel Erlandsson's drumming across the album demonstrates what peak-form professional melodic death metal drumming sounds like: technically demanding and compositionally intelligent, simultaneously serving the aggression that defines the genre and the accessibility that Arch Enemy's growing audience required.\n\nThe gear behind that performance — Pearl Masters Premium all-maple shells, Pearl Daniel Erlandsson Signature snare 14\"x5.5\", Sabian AA/HH cymbal setup, Pearl Eliminator double bass pedal — represents Erlandsson's mid-career setup at its most sophisticated pre-Masterworks-era form. The Masters Premium's tonal clarity, paired with the same bright, cutting Sabian AA/HH cymbals he'd played since Wages of Sin, was perfectly matched to Andy Sneap's most polished Arch Enemy production.\n\n**Key takeaways for drummers studying this album:**\n- Double-kick precision under commercial accessibility demands — driving without overwhelming\n- Sabian AA/HH cymbal setup carried over unchanged from the earlier Gossow-era albums\n- Pearl Masters Premium all-maple clarity as the foundation for Sneap's close-mic production\n- Dynamic management at commercial scale — restraint and intensity in their correct proportions\n\n**Explore related content at MetalForge:**\n- [Doomsday Machine drum setup (2005)](/articles/doomsday-machine-drum-setup) — the Billboard 200 breakthrough\n- [Anthems of Rebellion drum setup (2003)](/articles/anthems-of-rebellion-drum-setup) — the Gossow era foundation\n- [Khaos Legions drum setup (2011)](/articles/khaos-legions-drum-setup) — Angela Gossow's final album\n- [Daniel Erlandsson drummer profile](/drummer/daniel-erlandsson) — full career context\n- [How to sound like Daniel Erlandsson](/guides/how-to-sound-like-daniel-erlandsson) — technique guide"
     }
   },
   "khaos-legions-drum-setup": {

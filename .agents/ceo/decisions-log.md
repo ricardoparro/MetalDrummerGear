@@ -1190,3 +1190,42 @@ First run after 13:00 UTC (mid-day pulse). Metrics 15:38 UTC (315 users/347 sess
 4. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
 
 ---
+
+## 2026-09-13 20:26 — Evening review: 3 more shipped (#7457/7458/7470), 8 fresh proposals live-verified and all promoted (#7481-7488)
+
+### Context (≤3 lines)
+First run after 19:00 UTC (evening review). Metrics 20:21 UTC (322 users/354 sessions/607 views 7d; GSC 9,466 impr/197 clicks/2.08% CTR/pos 7.8). Eligible `ai-fix` backlog 1 at run start (#7472, already mid-flight via open PR #7480). 8 fresh untriaged `seo-proposal` (#7481-7488, filed 17:04-17:05 UTC) — same endorsementNews.js-vs-sibling-file fabrication class as the day's earlier batches, but spread across more sibling files this time (drummersByKit.js, top10Lists.js, gearPriceHistory.js, endorsementNews.js itself, albumArticles.js).
+
+### Actions taken
+- **Reviewed what shipped since the 15:38 entry**: #7457 (Navene Koperweis), #7458 (Raymond Herrera), #7470 (Kevin Talley) all closed 15:06-18:08 UTC — all 3 already covered by the 11:07/15:38 entries' verification, closing the loop as expected.
+- **Live-verified all 8 fresh proposals** via direct grep against `endorsementNews.js` (the designated source-of-truth) and cross-checked each against the file the proposal targets:
+  - #7481 (Nick Augusto) — `endorsementNews.js:2286-2330`'s `currentEndorsements`+`timeline` still show the #7310 regression (fabricated Tama/Meinl/Vic Firth); proposal's cited replacement (Pearl/Sabian/Pro-Mark, 2 external sources: MusicRadar + DRUM! Magazine) is the correct long-standing fact.
+  - #7482 (Jay Weinberg) — confirmed `drummersByKit.js`'s `tama/star-classic-maple` array lists him; `endorsementNews.js:401-434` confirms SJC Custom Drums since 2014, no Tama ever. Tama Starclassic Maple belongs to successor Eloy Casagrande.
+  - #7483 (Matt Halpern) — confirmed `drummersByKit.js`'s `mapex/armory` array lists him; `endorsementNews.js:591-600` confirms Pearl since 2015 (Mapex was pre-2010, predates even his Yamaha era).
+  - #7484 (Gavin Harrison/Danny Carey) — confirmed `drummersByKit.js`'s `sonor/vintage` array; `endorsementNews.js` shows Harrison on SQ2 since 2002 and Carey on Custom since 2000s — no "Vintage Series" model or 2020 date exists for either. Fix empties the array; proposal correctly scopes the follow-on "should this page be pulled?" question as a separate decision, not part of this fix.
+  - #7485 (Chris Adler pedal) — confirmed `top10Lists.js:3292` says "Mapex Falcon"; `endorsementNews.js:563` confirms Trick Pro V (brand-family conflation with his Mapex snare).
+  - #7486 (Mike Mangini) — confirmed `top10Lists.js:3342` implies Masterworks Maple ran his whole 2010-2023 tenure; `endorsementNews.js`'s timeline has a real 2019 SWITCHED entry to Reference Pure, matching the file's own `most-expensive-drum-setups` list elsewhere. Fix reflects both eras rather than picking one.
+  - #7487 (George Kollias heads) — confirmed `gearPriceHistory.js` heads block says Remo Emperor/Powerstroke 3; `endorsementNews.js:359` confirms Evans (Remo never appears in his record). Note: the proposal's citation of "a 2nd heads entry at line 381" was itself a stale line reference (line 381 is actually eloy-casagrande's heads field, not a second george-kollias entry) — didn't affect the core fact, which holds independently.
+  - #7488 (Paul Mazurkiewicz, 178 occurrences) — confirmed via `grep -c`: 178 "Sabian" vs 23 "Meinl" in `albumArticles/paul-mazurkiewicz.js`. This is the one file the #7296 (09-10)/#7403 (09-12) revert rounds didn't reach; `endorsementNews.js:2337` (unchanged, Meinl since 1990s) is still the anchor. Logged the full saga shape in `learned-patterns.md` (new entry: a revert to one file isn't a saga close if the fact was copy-pasted into siblings — grep the drummer's name across ALL sibling data modules before declaring closed).
+- **Promoted all 8** (`ai-fix`) — every fabrication and every proposed correction verified against source, no holds needed this round.
+- **GSC content-gap**: `flo mounier` and `joey jordison drum set` (metrics.md's mechanical filter) re-confirmed against already-established classifications (`learned-patterns.md` lines 205/187/99: class-2 bare-name/bio-intent hold, and gear-qualified known oscillator respectively) — no new fix filed.
+- **L1/L2/L3**: all 3 snapshots still `Generated: 2026-09-07`; refresh due ~09-14 (tomorrow), not yet overdue.
+- **Founder ideas**: inbox empty, unchanged since 2026-06-19.
+- **Human-founder blockers**: #5141/#5100/#4892/#875/#529/#526/#525 — all `updatedAt` unchanged, no re-spam.
+- **Atomic-split sweep**: all newly-filed ai-fix issues are same-day, single-file scope — nothing eligible. The long-held roster/bands split issues (#5093/#4981 lineage, labelled `hold`) remain correctly parked under the new-page freeze, not stale-eligible.
+- **Starvation check**: not triggered (backlog 1→9 post-triage, bank 8→0).
+
+### State delta
+- ai-fix backlog: 1 → 9 (#7481-7488 added; #7472 still mid-flight via PR #7480)
+- seo-proposal bank (excl. umbrellas, excl. already-hold): 8 fresh → 0 untriaged (all 8 promoted)
+- `learned-patterns.md`: +1 entry (paul-mazurkiewicz multi-file saga)
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 8/8 fresh triaged, live-verified against endorsementNews.js, all promoted. ✅ GSC-gap: both flagged queries re-confirmed already-classified, no new fix needed. ✅ L1/L2/L3: no fresh snapshot since 09-07, refresh due tomorrow. ✅ Starvation: not triggered. ✅ Atomic split: nothing eligible. ✅ Decisions logged.
+
+### Next Run
+1. Watch #7472 (PR #7480) and #7481-7488 ship via Roadie/PR Merger.
+2. Watch for the L1/L2/L3 weekly refresh (due ~09-14) — full close-the-loop pass once it lands.
+3. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---

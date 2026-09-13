@@ -820,14 +820,14 @@ export const articles = {
     "ogImage": "/images/albums/diamond-eyes-drums.webp",
     "intro": {
       "title": "The Album That Brought Deftones Back to Life",
-      "content": "Released on May 4, 2010, \"Diamond Eyes\" arrived after one of the darkest chapters in Deftones' history. Bassist Chi Cheng had been left in a semi-comatose state following a November 2008 car accident, halting work on an album the band had nearly finished — the now-legendary \"Eros.\" Rather than push forward with a record overshadowed by tragedy, the band shelved Eros, recruited Quicksand's Sergio Vega on bass, and started over with producer Nick Raskulinecz (Foo Fighters, Rush, Mastodon) at the helm.\n\nThe result is one of the most direct, melodic, and cathartic records in the Deftones catalog. Where \"Saturday Night Wrist\" (2006) had been sprawling and tense, \"Diamond Eyes\" is concise and triumphant — ten tracks that pivot between bone-crushing weight and shimmering melodicism without ever losing momentum. The album debuted at #6 on the Billboard 200, earned RIAA Gold certification in the US, and reaffirmed Deftones as one of heavy music's most important bands.\n\nAt the rhythmic core of all of it is Abe Cunningham. With Sergio Vega's punchy, propulsive bass playing pushing him forward, Abe leans into the pocket like never before. The opening hit of \"Diamond Eyes\" — that simple, monstrous half-time groove — is a thesis statement: the band is alive, the drums are huge, and restraint is still the most powerful tool in the kit.\n\nRaskulinecz's production gave Abe's Tama kit room to breathe while still hitting hard. The bass drum has weight without flab, the toms are tuned for melody as much as impact, and the cymbals — Abe's longtime Zildjian K Custom setup — sit beautifully in a mix that prizes clarity. The result is a drum sound that feels both modern and timeless, anchoring a record that closed the door on tragedy and opened a new chapter for the band.\n\nThis article explores the gear Abe used during the Diamond Eyes sessions, the techniques that defined its sound, and what made this album a turning point for Deftones drumming.",
+      "content": "Released on May 4, 2010, \"Diamond Eyes\" arrived after one of the darkest chapters in Deftones' history. Bassist Chi Cheng had been left in a semi-comatose state following a November 2008 car accident, halting work on an album the band had nearly finished — the now-legendary \"Eros.\" Rather than push forward with a record overshadowed by tragedy, the band shelved Eros, recruited Quicksand's Sergio Vega on bass, and started over with producer Nick Raskulinecz (Foo Fighters, Rush, Mastodon) at the helm.\n\nThe result is one of the most direct, melodic, and cathartic records in the Deftones catalog. Where \"Saturday Night Wrist\" (2006) had been sprawling and tense, \"Diamond Eyes\" is concise and triumphant — ten tracks that pivot between bone-crushing weight and shimmering melodicism without ever losing momentum. The album debuted at #6 on the Billboard 200, earned RIAA Gold certification in the US, and reaffirmed Deftones as one of heavy music's most important bands.\n\nAt the rhythmic core of all of it is Abe Cunningham. With Sergio Vega's punchy, propulsive bass playing pushing him forward, Abe leans into the pocket like never before. The opening hit of \"Diamond Eyes\" — that simple, monstrous half-time groove — is a thesis statement: the band is alive, the drums are huge, and restraint is still the most powerful tool in the kit.\n\nRaskulinecz's production gave Abe's Tama kit room to breathe while still hitting hard. The bass drum has weight without flab, the toms are tuned for melody as much as impact, and the cymbals — Abe's newly adopted Sabian HHX setup — sit beautifully in a mix that prizes clarity. The result is a drum sound that feels both modern and timeless, anchoring a record that closed the door on tragedy and opened a new chapter for the band.\n\nThis article explores the gear Abe used during the Diamond Eyes sessions, the techniques that defined its sound, and what made this album a turning point for Deftones drumming.",
       "keyPoints": [
         "Recorded 2009-2010 with producer Nick Raskulinecz",
         "Started from scratch after the shelved \"Eros\" sessions and Chi Cheng's 2008 accident",
         "Sergio Vega (ex-Quicksand) joined on bass — his first Deftones studio album",
         "Debuted at #6 on Billboard 200; RIAA Gold certified in the US",
         "Singles \"Diamond Eyes\" and \"Rocket Skates\" reasserted the band on rock radio",
-        "Abe leaned into pocket-first playing with Tama Starclassic kit and Zildjian K Custom cymbals"
+        "Abe leaned into pocket-first playing with Tama Starclassic kit and a newly adopted Sabian HHX cymbal setup"
       ]
     },
     "drumKit": {
@@ -871,43 +871,43 @@ export const articles = {
       "estimatedValue": "$500-900 (Tama Bell Brass / Starphonic Brass, 2010 era)"
     },
     "cymbals": {
-      "title": "Zildjian K Custom: Dark, Complex, and Cutting",
-      "brand": "Zildjian",
-      "series": "K Custom / A Custom",
+      "title": "Sabian HHX: A Darker Voice for a New Chapter",
+      "brand": "Sabian",
+      "series": "HHX",
       "setup": [
         {
           "type": "Hi-Hats",
-          "model": "Zildjian 14\" K Custom Hi-Hats",
+          "model": "Sabian 14\" HHX Hi-Hats",
           "position": "Left side",
-          "notes": "Dark, dry chick with strong articulation"
+          "notes": "Dark, controlled chick with strong articulation"
         },
         {
           "type": "Crash",
-          "model": "Zildjian 18\" K Custom Crash",
+          "model": "Sabian 18\" HHX Crash",
           "position": "Left of hi-hats",
           "notes": "Quick, dark, musical crash"
         },
         {
           "type": "Crash",
-          "model": "Zildjian 20\" K Custom Crash",
+          "model": "Sabian 20\" HHX Crash",
           "position": "Right of toms",
           "notes": "Primary crash, fuller sustain"
         },
         {
           "type": "Ride",
-          "model": "Zildjian 22\" K Custom Ride",
+          "model": "Sabian 22\" HHX Ride",
           "position": "Far right",
           "notes": "Dark, complex ride for textured patterns"
         },
         {
           "type": "China",
-          "model": "Zildjian 19\" A Custom China",
+          "model": "Sabian 19\" HHX China",
           "position": "Left side, high",
           "notes": "Aggressive accent cymbal"
         }
       ],
-      "description": "Abe's Diamond Eyes cymbal setup is built around Zildjian's K Custom series — darker, drier cymbals that complement his pocket-first approach without dominating the mix. It's the same K Custom/A Custom pairing that's carried his sound since White Pony, refined rather than replaced.\n\nThe 14\" K Custom Hi-Hats anchor most of the album's grooves. They have a tight, dry chick and a strong stick definition that cuts through Stephen Carpenter's eight-string downtuning without ever sounding shrill. On the title track and \"Risk,\" the hat work is essential to the song's forward motion.\n\nThe 22\" K Custom Ride is the secret weapon. Its complex wash, clear ping, and musical bell make it perfect for the textured ride patterns on \"Beauty School\" and the bridge of \"Sextape.\" It's not a \"metal ride\" in any traditional sense, and that's exactly the point.\n\nFor crashes, Abe sticks with the K Custom line in 18\" and 20\" sizes. They're fast, dark, and musical — the kind of crashes that punctuate rather than overpower. Raskulinecz's mix gives them full frequency range without harshness, and they sit beautifully in the stereo field.\n\nThe 19\" A Custom China is used sparingly — a sharp accent on the heaviest moments of \"Rocket Skates\" and \"Royal.\" Like the China cymbal on White Pony, its restraint is what makes it effective.",
-      "estimatedValue": "$1,800-2,600 total (K Custom / A Custom setup, 2010 pricing)"
+      "description": "Diamond Eyes marked Abe's move from Zildjian to a Sabian HHX setup — darker, drier cymbals that complement his pocket-first approach without dominating the mix. It's a new voice for the Deftones sound, one that carried through Koi No Yokan, Gore, and Ohms.\n\nThe 14\" HHX Hi-Hats anchor most of the album's grooves. They have a tight, controlled chick and strong stick definition that cuts through Stephen Carpenter's eight-string downtuning without ever sounding shrill. On the title track and \"Risk,\" the hat work is essential to the song's forward motion.\n\nThe 22\" HHX Ride is the secret weapon. Its complex wash, clear ping, and musical bell make it perfect for the textured ride patterns on \"Beauty School\" and the bridge of \"Sextape.\" It's not a \"metal ride\" in any traditional sense, and that's exactly the point.\n\nFor crashes, Abe sticks with the HHX line in 18\" and 20\" sizes. They're fast, dark, and musical — the kind of crashes that punctuate rather than overpower. Raskulinecz's mix gives them full frequency range without harshness, and they sit beautifully in the stereo field.\n\nThe 19\" HHX China is used sparingly — a sharp accent on the heaviest moments of \"Rocket Skates\" and \"Royal.\"",
+      "estimatedValue": "$1,700-2,400 total (Sabian HHX setup, 2010 pricing)"
     },
     "hardware": {
       "title": "Tama Hardware: Built for Touring",
@@ -1056,7 +1056,7 @@ export const articles = {
         "gear": {
           "drums": "Tama Starclassic Bubinga/Birch",
           "snare": "Tama Bell Brass / Starphonic Brass 14\"x6.5\"",
-          "cymbals": "Zildjian K Custom / A Custom",
+          "cymbals": "Sabian HHX",
           "hardware": "Tama Iron Cobra / Speed Cobra"
         },
         "notes": "First Deftones album with Sergio Vega on bass; Nick Raskulinecz produces."
@@ -1073,7 +1073,7 @@ export const articles = {
         "gear": {
           "drums": "Tama Starclassic",
           "snare": "Tama Bell Brass / Starphonic",
-          "cymbals": "Zildjian K Custom / A Custom",
+          "cymbals": "Sabian HHX",
           "hardware": "Tama Speed Cobra"
         },
         "notes": "Diamond Eyes set the sonic template the band has built on ever since."
@@ -1098,12 +1098,12 @@ export const articles = {
     ],
     "legacy": {
       "title": "Diamond Eyes' Lasting Impact on Deftones' Sound",
-      "content": "Diamond Eyes is the album where the modern Deftones sound was forged. Everything the band has done since — Koi No Yokan, Gore, Ohms — builds on the sonic template established with Nick Raskulinecz in 2009-2010. For Abe Cunningham specifically, it marked the moment his pocket-first, single-kick approach became the unmistakable core of the band's identity.\n\n**The Pocket-First Template:**\nWhere many 2010 metal drummers were chasing speed and complexity, Abe doubled down on feel. Diamond Eyes proved that a single 22\" kick, played with intention, could be heavier than any double-bass barrage. That lesson has rippled outward — countless modern alternative metal drummers cite Abe's Diamond Eyes-era playing as a reason they slowed down and focused on groove.\n\n**The Sergio Vega Rhythm Section:**\nDiamond Eyes introduced what would become one of metal's most musical rhythm sections. Vega's punchy, melodic bass playing gave Abe a new partner, and the way they lock — particularly on tracks like \"Rocket Skates\" and \"976-EVIL\" — set a standard for what a bass/drum partnership can be in modern heavy music.\n\n**The Zildjian K Custom Sound:**\nDiamond Eyes leans further into Zildjian's K Custom series, and the dark, complex character of those cymbals has defined Deftones' kit sound ever since. The K Custom Ride alone has become a signature voice in the band's atmospheric passages.\n\n**The Tama Bell Brass Snare:**\nDiamond Eyes is also when Abe's bell brass snare sound became a Deftones signature. That bright, brassy crack — captured naturally by Raskulinecz — is one of the most identifiable snare sounds in modern alternative metal.",
+      "content": "Diamond Eyes is the album where the modern Deftones sound was forged. Everything the band has done since — Koi No Yokan, Gore, Ohms — builds on the sonic template established with Nick Raskulinecz in 2009-2010. For Abe Cunningham specifically, it marked the moment his pocket-first, single-kick approach became the unmistakable core of the band's identity.\n\n**The Pocket-First Template:**\nWhere many 2010 metal drummers were chasing speed and complexity, Abe doubled down on feel. Diamond Eyes proved that a single 22\" kick, played with intention, could be heavier than any double-bass barrage. That lesson has rippled outward — countless modern alternative metal drummers cite Abe's Diamond Eyes-era playing as a reason they slowed down and focused on groove.\n\n**The Sergio Vega Rhythm Section:**\nDiamond Eyes introduced what would become one of metal's most musical rhythm sections. Vega's punchy, melodic bass playing gave Abe a new partner, and the way they lock — particularly on tracks like \"Rocket Skates\" and \"976-EVIL\" — set a standard for what a bass/drum partnership can be in modern heavy music.\n\n**The Sabian HHX Sound:**\nDiamond Eyes marked Abe's switch to Sabian's HHX series, and the dark, complex character of those cymbals has defined Deftones' kit sound ever since. The HHX Ride alone has become a signature voice in the band's atmospheric passages.\n\n**The Tama Bell Brass Snare:**\nDiamond Eyes is also when Abe's bell brass snare sound became a Deftones signature. That bright, brassy crack — captured naturally by Raskulinecz — is one of the most identifiable snare sounds in modern alternative metal.",
       "keyPoints": [
         "Established the modern Deftones sonic template",
         "Cemented Abe's pocket-first, single-kick approach",
         "Introduced the Vega/Cunningham rhythm-section partnership",
-        "Deepened Zildjian K Custom cymbals as a Deftones signature sound",
+        "Deepened Sabian HHX cymbals as a Deftones signature sound",
         "The Tama Bell Brass snare became one of the band's most identifiable sounds"
       ]
     },
@@ -1123,15 +1123,15 @@ export const articles = {
           "notes": "Modern equivalent to the bell brass sound on Diamond Eyes"
         },
         {
-          "item": "Zildjian K Custom Hi-Hats 14\"",
+          "item": "Sabian HHX Hi-Hats 14\"",
           "available": true,
-          "priceRange": "$500-650",
-          "notes": "Dark, dry hi-hats; same model used on the album"
+          "priceRange": "$450-600",
+          "notes": "Dark, controlled hi-hats; same model used on the album"
         },
         {
-          "item": "Zildjian K Custom Ride 22\"",
+          "item": "Sabian HHX Ride 22\"",
           "available": true,
-          "priceRange": "$500-650",
+          "priceRange": "$450-600",
           "notes": "Dark, complex ride; essential to the Diamond Eyes cymbal sound"
         },
         {

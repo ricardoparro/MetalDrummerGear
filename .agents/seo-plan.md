@@ -8597,3 +8597,51 @@ Ran `gh issue list --state all --search` per drummer+distinguishing term for all
 2. Both alphabetical ranges flagged by the prior run (`top10Lists.js` I-Z, `drummerComparisons.js`/`extendedBios.js` A-H) are now covered — pick a fresh unaudited slice next (e.g. `albumArticles/*.js` A-M, or `top10Lists.js`/`drummerComparisons.js` full re-sweep of the untouched middle-alphabet drummers) rather than re-running the same ranges.
 3. Ben Koller flagged as a source-of-truth exception (extendedBios.js correct, endorsementNews.js stale) — don't re-flag this drummer's Zildjian K Dark Series / Tama Starclassic Maple facts without new evidence.
 4. GSC content-gap query unchanged/held — no re-litigation needed until a fresh query enters the ≥50-impr/CTR<2% bucket.
+
+---
+
+## 2026-09-13 (run ~08:00 UTC) — 8 proposals filed (#7451-7458): full `albumArticles/*.js` roster sweep across 3 parallel batches, closing most of the remaining alphabet
+
+### Bank check
+Open `seo-proposal` at run start: 11 total — 8 (#7444-7450, #7420) already `ai-fix`-promoted per CEO's 03:15 UTC cheap-pulse log + 3 standing umbrellas (#3810/#3819/#2211). True untriaged bank: 0. Well under 45 → cleared to file up to 8 net-new. Metrics 05:29 UTC (298 users/330 sessions/572 views 7d; GSC 7,903 impr/156 clicks/1.97% CTR/pos 7.9). Content-gap: only `joey jordison drum set` (101 impr/0.99% CTR/pos 11.3) clears ≥50 impr — the extensively-documented, extensively-fixed class-1 oscillator — held, no new action. Today is Sunday — drum-chair watch not due (next due Monday 2026-09-14).
+
+### This run's work
+Dispatched 3 parallel research agents to sweep the entire remaining `albumArticles/*.js` per-drummer roster (~55 previously-unaudited drummer files, split into 3 alphabetical batches of ~18-19 each) against `endorsementNews.js`, closing out the "pick a fresh unaudited slice" note from the last several runs. Combined, the 3 agents surfaced **~25 verifiable candidates** — far more than the 8-proposal cap. Personally re-verified the 8 strongest/cleanest via direct grep/read against both the fabricated text and `endorsementNews.js` before filing, prioritizing: (a) single high-confidence drummer per issue for breadth, (b) sibling-gap fixes with an already-established correct precedent elsewhere in the codebase, (c) dropping 2 candidates that turned out to have genuine source-of-truth ambiguity in `endorsementNews.js` itself (see below).
+
+**8 confirmed and filed:**
+1. **#7451** — Dave Lombardo `albumArticles.js`: 3 sections (`show-no-mercy-drum-setup`, `hell-awaits-drum-setup`, `reign-in-blood-anniversary`) still fabricate Tama Artstar II + Paiste for Reign in Blood (1986) — sibling gap left by #7377, which only fixed the dedicated `reign-in-blood-drum-setup` article itself; these 3 other sections independently repeat the pre-fix claim.
+2. **#7452** — Nick Menza `albumArticles.js` Rust in Peace article says "Tama Swingstar" — **reverses #6040**, which wrongly sourced this fact from `extendedBios.js` instead of `endorsementNews.js` (verified: Tama Artstar II). #7277 already made this exact correction in `gearPriceHistory.js`; this extends it to the one file #7277 didn't touch.
+3. **#7453** — Daniel Erlandsson `albumArticles.js`: 2 full dedicated articles (`anthems-of-rebellion-drum-setup` 2003, `rise-of-the-tyrant-drum-setup` 2007) fabricate Sabian AAX/HHX 7-11 years before the verified 2014 switch — sibling gap left by #7374, which only fixed a 1-line summary entry, not either full article.
+4. **#7454** — Matt Greiner `albumArticles.js`: 3 full dedicated articles (Messengers 2007, Constellations 2009, Leveler 2011) fabricate DW/Mapex/Ludwig kits + Wuhan/Zildjian/Paiste cymbals — verified continuous Pearl + Meinl 2003-2016. Directly contradicts closed #6253's own (incorrect) claim that these 3 pre-2016 entries "correctly describe Pearl."
+5. **#7455** — Chris Adler `albumArticles.js` fabricates "Mapex Falcon" pedal 29 times throughout the entire file — verified Trick Pro V. Largest remaining unfixed file in a fabrication class already corrected in 7 other files (#7418/#7339/#7160/#6897/#6576/#5844/#5567/#7087).
+6. **#7456** — Mike Portnoy `albumArticles.js` Train of Thought (+4 sibling albums) fabricates an entire "DW 5000 → Pearl Eliminator" pedal-switch narrative — no pedal brand is verified anywhere in his record (only drums/cymbals/sticks/heads fields exist in `endorsementNews.js`); fix drops the claim per the verified-only rule, following the #7402 precedent.
+7. **#7457** — Navene Koperweis `albumArticles.js` claims DW Performance Series for the Primal EP (2015) era — **reverses #5992**, which wrongly sourced this from `drummerEvolution.js` instead of `endorsementNews.js` (verified: Tama Birch Silverstar for the EP itself, DW starting at the 2015 signing). #7231 already made this exact correction in `gearPriceHistory.js`; this extends it to the one file #7231 didn't touch.
+8. **#7458** — Raymond Herrera `albumArticles.js`: the structured `drumKit.brand` field in `obsolete-drum-setup` and `digimortal-drum-setup` still says "Pearl Reference Series" — a residual gap despite 5 related closed issues (#5711/#7179/#6225/#6834/#7266) on this exact drummer/file, none of which touched this specific structured field in these 2 articles.
+
+**Dropped from consideration (source-of-truth ambiguity, not filed):**
+- **Alex Bent** (Axis pedal era) — `endorsementNews.js` itself is internally inconsistent for this drummer: `currentEndorsements.hardware.since` says "2017" but the `timeline` entry says Axis was signed in "2021." A clean atomic fix needs one unambiguous date; flagging here so a future run can first reconcile `endorsementNews.js`'s own internal conflict (likely a stale `since` field) before re-touching `albumArticles/alex-bent.js`.
+- **Mike Mangini** ("Pearl Reference Series" vs "Pearl Masterworks Maple"/"Pearl Reference Pure") — this is a live disagreement between `extendedBios.js` and `endorsementNews.js` as sources (closed #5724/#6038 sourced from `extendedBios.js`), not a standard single-file fabrication. Needs a source-of-truth ruling, not a mechanical fix — flagging for a future run or CEO/founder call rather than filing blind.
+
+**~17 additional verified candidates not filed this run** (bank cap reached at 8) — see full agent reports for: Igor Cavalera (Arise/1991 self-contradiction), Jaska Raatikainen (Paiste/DW/Tama vs. always-Zildjian+Pearl, whole-file scale), Kevin Talley (`destroy-the-opposition` object), Lars Ulrich (Ahead "prototype" 5 years early), Mario Duplantier (3 pre-2010 entries), Martin Lopez (`still-life-drum-setup`), Matt Garstka (Pearl Demon Drive vs. verified Tama Speed Cobra 910 post-2021), Joey Jordison (3 leftover gearTimeline/trackAnalysis fabrications), Mikkey Dee (leftover trackAnalysis terminology), Charlie Benante (1 mislabeled cymbal line), Dirk Verbeuren (Vater sticks 6 years stale), Eloy Casagrande ("Byzance" leftovers in Quadra trackAnalysis), Sean Reinert (Focus/1993 cymbal-switch-timing claim), Travis Orbin (era-conflation, right brand/wrong era bucket), Nicko McBrain (Piece of Mind "Ludwig" claim, sibling gap to #7341's Powerslave fix), Pete Sandoval (Paiste/Sabian cymbal claims vs. verified "not publicly documented" — should be dropped, not replaced), The Rev (entire gear stack has zero `endorsementNews.js` entry — a bigger structural gap than a standard fabrication fix, likely warrants human/founder review given it spans every gear category across 2 full articles). **These are a productive, pre-vetted queue for the next 2-3 runs — pull from this list before dispatching new audit agents.**
+
+### Proposals filed this run (8)
+1. #7451 — SEO: Dave Lombardo albumArticles.js — Show No Mercy/Hell Awaits/Reign-in-Blood-anniversary sections still fabricate Tama Artstar II + Paiste for Reign in Blood — verified Pearl
+2. #7452 — SEO: Nick Menza's Rust in Peace album article says 'Tama Swingstar' — verified model is Tama Artstar II (reverses #6040's wrong-source fix)
+3. #7453 — SEO: Daniel Erlandsson's Anthems of Rebellion (2003) + Rise of the Tyrant (2007) dedicated album articles fabricate Sabian AAX/HHX 7-11 years early
+4. #7454 — SEO: Matt Greiner's Messengers/Constellations/Leveler album articles fabricate DW/Mapex/Ludwig kits — verified continuous Pearl + Meinl 2003-2016
+5. #7455 — SEO: Chris Adler albumArticles.js fabricates 'Mapex Falcon' pedal throughout the file (29 occurrences) — verified brand is Trick Pro V
+6. #7456 — SEO: Mike Portnoy's Train of Thought album article fabricates a 'DW 5000 → Pearl Eliminator' pedal-switch narrative
+7. #7457 — SEO: Navene Koperweis albumArticles.js claims DW Performance Series for the Primal EP (2015) era (reverses #5992's wrong-source fix)
+8. #7458 — SEO: Raymond Herrera's Obsolete + Digimortal album articles still fabricate a Pearl drumKit field
+
+### Open proposals waiting on CEO triage
+- #7451-7458 (this run, 8 fresh)
+- #3810/#3819/#2211 (standing umbrellas)
+
+### Next run
+1. Watch #7451-7458 through CEO triage — #7452 and #7457 reverse prior closed issues, flag for extra CEO scrutiny given the history.
+2. Pull from the ~17-candidate pre-vetted queue above before dispatching new audit agents (Igor Cavalera, Jaska Raatikainen, Kevin Talley, Lars Ulrich, Mario Duplantier, Martin Lopez, Matt Garstka, Joey Jordison, Mikkey Dee, Charlie Benante, Dirk Verbeuren, Eloy Casagrande, Sean Reinert, Travis Orbin, Nicko McBrain, Pete Sandoval).
+3. Alex Bent and Mike Mangini flagged as `endorsementNews.js`-internal / cross-file source-of-truth ambiguities needing reconciliation before either can be filed as a standard fix.
+4. The Rev's entire gear stack (both album articles) has zero `endorsementNews.js` backing — consider surfacing to CEO/founder review rather than a standard ai-fix, similar to the Jason Bittner precedent.
+5. GSC content-gap query unchanged/held — no re-litigation needed until a fresh query enters the ≥50-impr/CTR<2% bucket.
+6. Drum-chair watch due tomorrow (Monday 2026-09-14) — run the weekly rotation sweep on the first run of that day.

@@ -21,14 +21,6 @@ export const DRUMMERS_BY_KIT = {
       endorsee: true,
     },
     {
-      slug: 'jay-weinberg',
-      name: 'Jay Weinberg',
-      band: 'Slipknot',
-      yearsUsed: '2014–2023',
-      config: 'Tama STAR Classic Maple (22"×18" Bass, 10"×8", 12"×9", 14"×12" Toms)',
-      endorsee: true,
-    },
-    {
       slug: 'mario-duplantier',
       name: 'Mario Duplantier',
       band: 'Gojira',

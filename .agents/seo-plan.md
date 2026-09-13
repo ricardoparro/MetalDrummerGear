@@ -8644,4 +8644,52 @@ Dispatched 3 parallel research agents to sweep the entire remaining `albumArticl
 3. Alex Bent and Mike Mangini flagged as `endorsementNews.js`-internal / cross-file source-of-truth ambiguities needing reconciliation before either can be filed as a standard fix.
 4. The Rev's entire gear stack (both album articles) has zero `endorsementNews.js` backing — consider surfacing to CEO/founder review rather than a standard ai-fix, similar to the Jason Bittner precedent.
 5. GSC content-gap query unchanged/held — no re-litigation needed until a fresh query enters the ≥50-impr/CTR<2% bucket.
+
+---
+
+## 2026-09-13 (run ~12:34 UTC) — 8 proposals filed (#7466-7473): drained the pre-vetted 16-candidate queue from the last run instead of dispatching fresh audit agents
+
+### Bank check
+Open `seo-proposal` at run start: 11 total (excl. what CEO already promoted from #7451-7458 same morning) — well under 45 → cleared to file up to 8 net-new. Metrics 12:26 UTC (311 users/343 sessions/594 views 7d; GSC 7,903 impr/156 clicks/1.97% CTR/pos 7.9). robots.txt: ✅ 8/8 AI crawlers explicitly allowed (12 `User-agent` blocks in `api/robots.js`, confirmed via grep). `/llms/*.md` endpoints: 2,016 files live (stable). Content-gap: only `joey jordison drum set` (101 impr/0.99% CTR/pos 11.3) clears ≥50 impr — the extensively-documented class-1 oscillator — held, no new action. Today is Sunday — drum-chair watch not due (next due Monday 2026-09-14).
+
+### This run's work
+Rather than dispatching fresh blind-search audit agents, pulled directly from the ~16-candidate pre-vetted queue the 11:07 UTC CEO deep-run log left in its "Next run" notes (Igor Cavalera, Jaska Raatikainen, Kevin Talley, Lars Ulrich, Mario Duplantier, Martin Lopez, Matt Garstka, Joey Jordison, Mikkey Dee, Charlie Benante, Dirk Verbeuren, Eloy Casagrande, Sean Reinert, Travis Orbin, Nicko McBrain, Pete Sandoval). Dispatched 2 parallel verification agents (batch A: first 8, batch B: last 8) to independently re-confirm each against source + `endorsementNews.js` + `gh issue list` dedup search before filing anything.
+
+**Verification outcome:** 12 of 16 confirmed clean/fileable, 2 confirmed already-fixed by prior work (Sean Reinert, Travis Orbin — the candidate premises no longer matched current file state, correctly not filed), 2 flagged as needing extra care before filing (Nicko McBrain — Pearl-for-1983-studio is unverified, DW-pedal is certain, needs "omit or extend" scoping not a blind swap; Pete Sandoval — real but ~15-20 locations in one file, batch-sized not atomic).
+
+**8 confirmed and filed, prioritized by current-earning-page overlap first:**
+1. **#7466** — Igor Cavalera `albumArticles.js` "Tribal Arsenal" article + gearTimeline fabricate a Paiste→Zildjian switch dated 2018 (plus a fabricated Yamaha drum signing) — verified 2006; leftover from #6657/#7353's narrower scope.
+2. **#7467** — Eloy Casagrande `albumArticles.js` Quadra trackAnalysis still fabricates Meinl Byzance cymbals (4 lines) — verified continuous Paiste since 2005; confirmed via `gh pr diff 6295` these exact lines were left untouched by the #6269 fix.
+3. **#7468** — Mario Duplantier `licks/mario-duplantier.js` fabricates "DW 9000 Pedals" at 5 locations (both pre- and post-2010 eras, corrected from the queue note's "3") — no pedal ever verified in `endorsementNews.js`; leftover from #6869.
+4. **#7469** — Joey Jordison `albumArticles.js` "All Hope Is Gone" trackAnalysis fabricates Zildjian Z Custom/Mega Bell terminology at 5 locations (corrected from "3") — verified Paiste RUDE/2002 since 1999; leftover from #5819.
+5. **#7470** — Kevin Talley `albumArticles.js` `destroy-the-opposition` object fabricates Zildjian cymbals + DW pedal — verified Sabian AAX + Pearl Eliminator.
+6. **#7471** — Lars Ulrich `albumArticles.js` Black Album section dates Ahead signature sticks to 1991 — verified 1996 signing, a clean 5-year gap.
+7. **#7472** — Matt Garstka `albumArticles.js` Parrhesia (2022) still fabricates Pearl Demon Drive pedal — verified Tama Speed Cobra 910 since 2021; 6th sibling file, last holdout.
+8. **#7473** — Mikkey Dee `albumArticles.js` Bad Magic (2015) fabricates a nonexistent "Vic Firth Mikkey Dee Signature" stick model — verified Wincent Mikkey Dee Signature; #6227 fixed the section's drum-kit fabrication but wrongly assumed sticks were already fine.
+
+Issues #1-4 (Igor Cavalera, Eloy Casagrande, Mario Duplantier, Joey Jordison) were prioritized first because all 4 drummers currently appear in this week's top GA4 pages and/or top-10 GSC queries (`eloy casagrande tama`, `eloy casagrande vs igor cavalera`, `mario duplantier drum kit`/`cymbals`, Joey Jordison's page itself) — direct Rule 2 depth-on-earning-pages compliance, not just accuracy hygiene.
+
+### Dedup notes
+Both verification agents ran `gh issue list --state all --search` per drummer + distinguishing gear term for all 16 candidates before reporting; no exact duplicates found for any of the 8 filed. Both Sean Reinert and Travis Orbin candidates were dropped after agents found the current file state already correct (prior closed-issue chains had already fully resolved them) — the queue note was stale by the time of this run.
+
+### Proposals filed this run (8)
+1. #7466 — SEO: Igor Cavalera albumArticles.js 'Tribal Arsenal' article + gearTimeline still fabricate Paiste→Zildjian switch dated 2018 — verified 2006
+2. #7467 — SEO: Eloy Casagrande albumArticles.js Quadra trackAnalysis still fabricates Meinl Byzance cymbals — verified continuous Paiste since 2005 (missed by #6269/#6295)
+3. #7468 — SEO: Mario Duplantier licks/mario-duplantier.js fabricates 'DW 9000 Pedals' (5 occurrences) — no pedal ever verified in endorsementNews.js
+4. #7469 — SEO: Joey Jordison albumArticles.js 'All Hope Is Gone' trackAnalysis fabricates Zildjian terminology (5 occurrences) — verified Paiste RUDE/2002 since 1999
+5. #7470 — SEO: Kevin Talley albumArticles.js 'destroy-the-opposition' object fabricates Zildjian A/A Custom cymbals + DW pedal — verified Sabian AAX + Pearl Eliminator
+6. #7471 — SEO: Lars Ulrich albumArticles.js Black Album section dates Ahead signature sticks to 1991 — verified 1996 signing
+7. #7472 — SEO: Matt Garstka albumArticles.js Parrhesia (2022) still fabricates Pearl Demon Drive pedal — verified Tama Speed Cobra 910 since 2021
+8. #7473 — SEO: Mikkey Dee albumArticles.js Bad Magic (2015) fabricates 'Vic Firth Mikkey Dee Signature' sticks — verified Wincent Mikkey Dee Signature
+
+### Open proposals waiting on CEO triage
+- #7466-7473 (this run, 8 fresh)
+- #3810/#3819/#2211 (standing umbrellas)
+
+### Next run
+1. Watch #7466-7473 through CEO triage.
+2. Remaining pre-vetted queue candidates not yet filed: Jaska Raatikainen (3 discrete fields — Hatebreeder 1999 DW pedal line 815, 2 Paiste cymbal sections ~1204-1206/~1650-1652 — NOT whole-file as originally framed), Martin Lopez (`still-life-drum-setup` Pearl→Sonor scope-correction of #6232's mistaken pre-1999 exemption — Sonor was actually signed 1997), Charlie Benante (`top10Lists.js:2012` FAQ Zildjian mislabel, distinct file from the already-closed #6978), Dirk Verbeuren (`albumArticles.js` lines 156-162 stale Vater sticks claim, verified Tama O-DVM2 since 2016).
+3. Nicko McBrain (Piece of Mind "Ludwig" claim) needs careful scoping before filing — DW-pedal fact is certain but Pearl-drums-for-1983-studio is NOT explicitly verified in endorsementNews.js (only the 1984 tour is); frame as "omit or extend," not a blind Ludwig→Pearl swap. Also sweep a stray stale cross-reference at line 820 of the Somewhere in Time article.
+4. Pete Sandoval `albumArticles.js` is the one remaining unswept file in this drummer's long-running "cymbal not publicly documented" fabrication class (9 other files already fixed) — but it's ~15-20 locations in one file, size it as a batch issue, not an atomic diff.
+5. GSC content-gap query unchanged/held — no re-litigation needed until a fresh query enters the ≥50-impr/CTR<2% bucket.
 6. Drum-chair watch due tomorrow (Monday 2026-09-14) — run the weekly rotation sweep on the first run of that day.

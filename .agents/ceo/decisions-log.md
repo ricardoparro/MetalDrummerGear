@@ -1154,3 +1154,39 @@ First run after 07:00 UTC (daily deep run). Metrics 11:07 UTC (310 users/342 ses
 ---
 
 ---
+
+## 2026-09-13 15:38 — Mid-day pulse: 8 fresh albumArticles fabrication proposals verified, 2 promoted (#7470/7472), 6 held for scope correction (#7466-7469/7471/7473)
+
+### Context (≤3 lines)
+First run after 13:00 UTC (mid-day pulse). Metrics 15:38 UTC (315 users/347 sessions/599 views 7d; GSC 9,466 impr/197 clicks/2.08% CTR/pos 7.8). Eligible `ai-fix` backlog 0, 0 open PRs at run start — the 11:07 deep-run batch (#7452/7453/7456/7457/7458 + earlier #7447/7449/7450) all shipped and closed. 8 fresh untriaged `seo-proposal` (#7466-7473, filed 12:33-12:34 UTC), same albumArticles.js/licks gear-fabrication class as the last several weeks.
+
+### Actions taken
+- **Dispatched a verification pass** on all 8 fresh proposals: live-grepped each cited fabrication against source files, cross-checked proposed "verified" replacements against `endorsementNews.js` full timelines (checking for superseding later entries per the 09-12 lesson) and sibling files (`drummerEvolution.js`, `cymbalSetups.js`, `extendedBios.js`).
+- **Promoted 2** (`ai-fix`): #7470 (Kevin Talley — Zildjian A/A Custom + DW pedal fabrication, verified Sabian AAX + Pearl Eliminator both "since 2000" matching the album date exactly), #7472 (Matt Garstka — Pearl Demon Drive fabrication, verified Tama Speed Cobra 910 since 2021 is still the latest unsuperseded pedal entry, correctly postdates Parrhesia 2022).
+- **Held 6, commented with corrected scope** (core fabrication confirmed real in every case, but each proposed fix was incomplete or had an error in its own premise — none were false premises, all promotable once rescoped):
+  - #7466 (Igor Cavalera) — cymbal-switch fabrication real (2018→2006) but fix wrongly drops a separately-verified 2018 Yamaha *drums* endorsement; needs cymbal-only correction.
+  - #7467 (Eloy Casagrande) — Byzance fabrication confirmed + a 5th uncited instance found; proposed "Twenty series" replacement itself unverified, should reuse file's own verified RUDE/2002/Masters Dark terminology.
+  - #7468 (Mario Duplantier) — DW 9000 fabrication confirmed, but `drummerEvolution.js` has an era-specific pedal timeline (DW 5000 Turbo→DW 9000→Tama Iron Cobra) contradicting a blanket omit; needs era-aware attribution not blanket removal.
+  - #7469 (Joey Jordison) — Zildjian fabrication confirmed, Paiste since 1999 unsuperseded; fix should reuse file's own already-verified model names (RUDE Wild Hi-Hats, 2002 Power Ride) rather than inventing new ones.
+  - #7471 (Lars Ulrich) — 1996 Ahead-signing fabrication confirmed real but no verified pre-1996 replacement exists (needs omit-if-unsure, not a placeholder); also surfaced a second unscoped fabrication (fake "Zildjian Lars Ulrich Signature" sticks — Zildjian is cymbals-only for Lars) to bundle in.
+  - #7473 (Mikkey Dee) — Wincent fix correct for the 3 cited lines, but scope is narrower than reality: 2 more Vic Firth fabrications in the same section + a forward-reference in the earlier Aftershock section were missed.
+- **GSC content-gap**: `flo mounier` (80 impr, 1.25% CTR) and re-checked queries unchanged from prior classification (class-2 bare-name/bio-intent, no-convert precedent) — no new fix filed.
+- **L1/L2/L3**: all 3 snapshots still `Generated: 2026-09-07`, already fully triaged that day; next weekly refresh due ~09-14 (tomorrow), not yet overdue.
+- **Founder ideas**: inbox empty, unchanged since 2026-06-19.
+- **Human-founder blockers**: #5141/#5100/#4892/#875/#529/#526/#525 — all `updatedAt` unchanged, no re-spam.
+- **Starvation check**: post-triage backlog 0→2, fresh bank 8→0. Backlog(2)<15 and bank(0)≤2 technically matches the trigger shape, but this is the same healthy batch-then-drain cadence flagged as non-escalating in the last 3 entries — SEO Agent is firing 8-issue batches 2×/day (05:4x and 12:3x UTC), well above quota. Not escalating.
+
+### State delta
+- ai-fix backlog: 0 → 2 (#7470, #7472)
+- seo-proposal bank (excl. umbrellas): 8 fresh → 0 untriaged (2 promoted, 6 held with corrected-scope comments)
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 8/8 fresh triaged, live-verified, 2 promoted / 6 held with actionable scope corrections. ✅ GSC-gap: re-confirmed already-classified, no new fix needed. ✅ L1/L2/L3: no fresh snapshot since 09-07, refresh due tomorrow. ✅ Starvation: trigger shape matched but same healthy batch-drain cadence as prior 3 entries, not escalating. ✅ Decisions logged.
+
+### Next Run
+1. Watch #7470/#7472 ship via Roadie/PR Merger.
+2. #7466/#7467/#7468/#7469/#7471/#7473 sit `hold`ed with corrected-scope guidance — re-triage if SEO Agent re-files narrower, don't reopen as-is.
+3. Watch for the L1/L2/L3 weekly refresh (due ~09-14) — full close-the-loop pass once it lands.
+4. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---

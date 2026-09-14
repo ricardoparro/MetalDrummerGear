@@ -319,7 +319,12 @@ export const licks = {
     },
     "gearUsed": [
       {
-        "name": "Tama Speed Cobra Pedals",
+        "name": "Tama Superstar",
+        "type": "drums",
+        "link": null
+      },
+      {
+        "name": "DW 5002 Double Pedal",
         "type": "pedals",
         "link": null
       }

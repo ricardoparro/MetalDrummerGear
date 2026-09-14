@@ -7329,9 +7329,9 @@ export const GEAR_PRICE_HISTORY = {
         notes: "Off-the-shelf 5A sticks years before his signature model — already suited to the speed and control Priester's technical power metal fills required.",
         vintageValue2026: null,
         modernEquivalent: {
-          item: 'Vic Firth Aquiles Priester Signature',
+          item: 'ProMark Aquiles Priester Signature',
           price: 15,
-          link: 'vic-firth-aquiles-priester-signature',
+          link: 'promark-aquiles-priester-signature',
         },
       },
       heads: {

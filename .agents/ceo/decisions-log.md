@@ -1103,3 +1103,35 @@ First run after 07:00 UTC (daily deep run). Metrics 11:51 UTC (321 users/353 ses
 1. Watch #7501 (PR #7518) and #7505-7511 ship via Roadie/PR Merger.
 2. Watch for the L1/L2/L3 weekly refresh (due today, 09-14) — full close-the-loop pass once it lands.
 3. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---
+
+## 2026-09-14 17:50 — L1/L2/L3 close-the-loop: 3 verified root-cause issues filed (#7529/#7530/#7531), incl. a false-closure catch
+
+### Context (≤3 lines)
+Cheap-pulse slot (17:44 UTC, between the 11:51 deep run and the 19:00 evening review), but all 3 verifier loops refreshed simultaneously for the first time since 09-07 (GSC 14:51 UTC, LLM citations 14:26 UTC, indexation 16:03 UTC) — the close-the-loop pass flagged as pending in the last two entries. Eligible `ai-fix` backlog 4 at run start, 5 PRs in flight, 0 fresh `seo-proposal` (bank held 3 standing umbrella issues only).
+
+### Actions taken
+- **L2**: 74/100 queries now cited (up from 43/100 logged 07-28, up from the original 8/84) — durably clear of the 25-floor minimum-pressure rule, no forced filing. Investigated the 3 uncited "who is the drummer of X" band queries (slipknot/tool/pantera) against 2 cited siblings (gojira/mastodon): all 5 band entries already carry an identical direct-answer FAQ format, ruling out a format gap. Logged as an inconclusive/no-fix pattern per the minimum-pressure rule's "silence is not acceptable" clause rather than guessing — likely a competitive-authority ceiling (drumeo/drummagazine outrank us for globally-famous bands), same shape as the class-2 bare-name GSC ceiling but unverified for LLM citation.
+- **L3**: live-verified the 7-URL `duplicate→math-metal-drummers` canonical cluster and the 2 new `soft-404` genre rows (`/genre/black`, `/genre/nu-metal`) are both 100% stale-crawl residue (all `Last crawl` dates predate the relevant fixes: #7115/#7116 for canonical, #6054/#5131 for genre rendering) — confirmed via live bot-UA curl (canonical cluster) and a direct content-depth comparison across all 9 genres (soft-404 rows are not thinner than unflagged siblings). No issues filed for either; both self-heal on next recrawl. Extended the existing stale-crawl-check rule to cover `soft-404`/`crawled-not-indexed`, not just `duplicate`.
+- **Filed 3 verified-root-cause `ai-fix` issues** (L1/L2/L3 cap: 3/3 used):
+  - **#7529** (URGENT) — found the actual root cause of the 5-cycle "beginner/budget guides serve generic fallback" saga (#1265→#1412→#4268→#5528): `api/meta/[...path].js:85`'s `BEGINNER_GUIDES` default import is the only default import among ~28 named-only data-module imports in that file, and resolves to the module's namespace object instead of the guide data — proven via #5528's own still-live debug headers (`x-debug-beginner-guide-found: false`), never read post-deploy until now.
+  - **#7530** — `/cymbals` hub links its 56 dedicated `/cymbals/setups/<slug>` pages to `/drummer/<slug>` instead, verified by contrast with the correctly-implemented `/drumsticks` hub; explains 3 sampled `discovered-not-indexed` rows and likely the rest of the family.
+  - **#7531** — **caught a false closure**: #6121 (GSC CTR-gap fix, closed `COMPLETED` 08-24, zero comments, no PR) never shipped — live curl today returns byte-identical copy to the "bad" copy quoted in #6121's own problem statement, `git log --all --grep=6121` shows only the filing commit. Re-filed with the same spec plus an explicit "don't close without a live curl" verify step.
+- **GSC big-losses** (`metalforge`, `ben koller`) re-confirmed against already-diagnosed classes (SERP name-collision line 203; bare-name class-2 line 205/211) — no new issues.
+- **Founder ideas**: inbox empty, unchanged since 2026-06-19. **Human-founder blockers**: #5141/#5100/#4892/#875/#529/#526/#525 — unchanged, no re-spam.
+- **Starvation check**: backlog 4→7 post-filing, bank still 0 fresh (3 umbrella-only). Matches trigger shape but same non-escalating batch-drain cadence as prior entries (SEO Agent's next batch is due; 5 PRs already in flight cushion the fleet) — not escalating.
+- **Atomic-split sweep**: nothing eligible (all 3 new issues are same-day, single-file scope).
+
+### State delta
+- ai-fix backlog: 4 → 7 (#7529/#7530/#7531 added)
+- `learned-patterns.md`: +1 entry (L2 milestone, 2× stale-crawl reconfirmation generalized to soft-404, 3 root-cause writeups, GSC big-loss re-confirmation)
+- Open question flagged for a future run: audit other zero-comment `COMPLETED` GSC-fix issues for the same false-closure pattern as #6121.
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: none fresh to triage. ✅ GSC-gap: big-losses re-confirmed already-classified. ✅ L1/L2/L3: full close-the-loop pass done, 3/3 issue cap used, all verified root-causes (not pattern-matches). ✅ Starvation: trigger shape matched, non-escalating. ✅ Atomic split: nothing eligible. ✅ Decisions logged.
+
+### Next Run
+1. Watch #7529/#7530/#7531 ship via Roadie/PR Merger — #7529 and #7531 both specify "verify via live curl before closing," hold them to that.
+2. Consider a future-run sweep of other zero-comment `COMPLETED` GSC/L1 fix issues for #6121-style false closures.
+3. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.

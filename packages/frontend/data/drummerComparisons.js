@@ -35,7 +35,7 @@ export const drummerComparisons = {
     comparison: {
       style: 'Mario combines tribal rhythms with technical death metal. Tomas invented djent drumming with polyrhythmic complexity.',
       technique: 'Mario uses raw power and endurance with explosive fills. Tomas employs machine-like precision with complex time signatures.',
-      gear: 'Mario endorses Meinl cymbals for dark, complex tones. Tomas plays Sonor drums with Sabian cymbals for focused attack.',
+      gear: 'Mario endorses a Zildjian A Custom/K Custom cymbal array for dark, complex tones. Tomas plays Sonor drums with Sabian cymbals for focused attack.',
       influence: 'Mario influenced modern progressive death metal. Tomas pioneered the djent movement and polyrhythmic metal.',
     },
     verdict: 'Two masters of progressive metal drumming. Mario brings organic power and tribal energy. Tomas delivers robotic precision and mathematical complexity. Both have redefined what\'s possible behind the kit.',
@@ -154,7 +154,7 @@ export const drummerComparisons = {
     comparison: {
       style: 'Brann brings jazzy, proggy fills to sludge metal. Mario combines tribal rhythms with technical death metal.',
       technique: 'Brann uses constant motion with signature flowing fills. Mario delivers raw power with explosive accents.',
-      gear: 'Brann plays Tama Starclassic Performer B/B drums with Meinl Mb20 & Mb8 Series cymbals. Mario uses Tama drums with Meinl cymbals for dark tones.',
+      gear: 'Brann plays Tama Starclassic Performer B/B drums with Meinl Mb20 & Mb8 Series cymbals. Mario uses Tama drums with a Zildjian A Custom/K Custom cymbal array for dark tones.',
       influence: 'Brann helped define the progressive sludge sound. Mario influenced environmental metal and modern prog death.',
     },
     verdict: 'Brann Dailor and Mario Duplantier represent two paths of modern progressive metal drumming. Both push boundaries while maintaining musical identity.',
@@ -273,7 +273,7 @@ export const drummerComparisons = {
     comparison: {
       style: 'Danny creates hypnotic, spiritual progressive rock with occult undertones. Mario combines tribal rhythms with technical death metal for environmental metal.',
       technique: 'Danny masters polyrhythmic patterns with electronic integration and Fibonacci-based compositions. Mario delivers raw tribal power with explosive accents and relentless endurance.',
-      gear: 'Danny plays Sonor drums with Paiste cymbals and custom Mandala pads. Mario endorses Tama drums with Meinl cymbals for dark, complex tones.',
+      gear: 'Danny plays Sonor drums with Paiste cymbals and custom Mandala pads. Mario endorses Tama drums with a Zildjian A Custom/K Custom cymbal array for dark, complex tones.',
       influence: 'Danny defined Tool\'s unique sound and influenced a generation of progressive rock drummers. Mario pioneered the "environmental metal" drumming style with Gojira.',
     },
     verdict: 'Danny Carey is the philosopher-drummer whose mathematical approach created Tool\'s sonic universe. Mario Duplantier is the primal force whose organic power drives Gojira\'s environmental message. Both represent the pinnacle of thinking drummers.',

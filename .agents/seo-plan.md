@@ -8742,3 +8742,49 @@ Held back for a future run (found, verified as real, but over today's 8-cap): 3 
 2. Pick up the 3 held-back licks/*.js era-mismatch candidates first (Chris Adler, Danny Carey, Tomas Haake — see note above) before dispatching a fresh audit agent.
 3. Content-gap queries (`flo mounier`, `joey jordison drum set`) unchanged/held on established precedent.
 4. Drum-chair watch due tomorrow (Monday 2026-09-14) — run the weekly rotation sweep on the first run of that day.
+
+---
+
+## 2026-09-14 — Monday deep run: 7 verified gear-fabrication proposals filed (#7505-7511); drum-chair watch clean; roster resync
+
+### Bank check
+Open `seo-proposal` at run start: 18 (well under 45) → cleared to file up to 8 net-new. Metrics 05:33 UTC (307 users/337 sessions/586 views 7d; GSC 7,798 impr/162 clicks/2.08% CTR/pos 7.8). robots.txt: 8/8 AI crawlers explicitly allowed (`api/robots.js`). Content-gap: only `flo mounier` (63 impr/1.59% CTR/pos 8.2) clears the ≥50-impr threshold — the extensively-documented class-2 bare-name/bio-intent oscillator (learned-patterns.md), held, no new fix. Confirmed all 8 of last run's proposals (#7481-7488) already shipped/closed via CEO triage + Roadie (git log shows #7485/#7486/#7487/#7488 merged overnight; #7481-7484 closed).
+
+### This run's work
+Picked up the 3 held-back era-mismatch candidates from the last run first (Chris Adler/Danny Carey/Tomas Haake licks files), per that run's explicit note. **Important catch:** while verifying the Chris Adler candidate, found it duplicates an already-open, already well-formed proposal (**#7495**, filed the same day by a prior run) — did NOT re-file it. Verified the other 2 (Danny Carey, Tomas Haake) as genuine and non-duplicate via direct grep against `endorsementNews.js` + `gearPriceHistory.js`'s own dedicated era entries — both confirmed real: Danny Carey's 1996 Ænima lick entries wrongly use the later "Sonor SQ2" model instead of the period-correct "Sonor Phonic Plus" (gearPriceHistory.js's own 1994-96 entry documents this explicitly); Tomas Haake's 1998 Chaosphere entry wrongly uses his post-2005 Sonor kit + post-2010s Tama Speed Cobra pedal instead of the period-correct Tama Superstar + DW 5002 (again, gearPriceHistory.js's own 1998 entry states outright "Haake was not yet on a full professional endorsement in the Chaosphere era").
+
+Dispatched a fresh verification agent to find more instances of the established fabrication-vs-`endorsementNews.js` bug class in files/drummers not yet swept. It returned 5 candidates; personally re-verified all 5 via direct grep/Read before filing (not just trusting the report), and ran `gh issue list --state all --search` per candidate to rule out duplicates:
+- **Mario Duplantier** (`drummerComparisons.js` lines 38/157/276) — still says "Meinl cymbals" (verified Zildjian). Confirmed via `git show 09ac32be` (the #6404 fix that corrected 5 *other* lines in this same file) that these 3 lines were never touched — a genuine miss, not a regression, same class as #7420's precedent.
+- **Gene Hoglan** (`top10Lists.js:3340`) — claims he "started on a Pearl Session Elite kit for Death's 1993 Individual Thought Patterns"; verified Tama throughout 1983-2018 (Pearl only since 2018), corroborated by `gearPriceHistory.js`'s own correct "Tama Superstar" entry for the same 1993 album.
+- **Nick Menza** (`top10Lists.js:1041`) — "Tama Swingstar" + poplar shells for Rust in Peace; verified Tama Artstar II + birch. Flagged in the issue that this is a 3rd independent location for a fact that already flip-flopped once (#6040 wrong → #7452 corrected), with an explicit instruction to re-verify against `endorsementNews.js` directly rather than trust any single prior fix.
+- **Richard Christy** (`licks/richard-christy.js`, all 3 entries) — "Pearl Eliminator Double Pedal"; verified Axis A Longboard since 1998. Same fabrication already fixed in 5 *other* files for this drummer (gearPriceHistory.js, drummerComparisons.js ×2, soundLikeGuides.js ×2) — licks file was the one sibling missed.
+- **Aquiles Priester** (`gearPriceHistory.js:7330-7334`) — the `modernEquivalent.sticks` sub-field still says "Vic Firth Aquiles Priester Signature"; verified current brand is ProMark since 2023 (he switched his entire signature-gear lineup that year). Sibling `modernEquivalent` fields in the same entry (cymbals, hardware) already correctly show current brands — sticks was the outlier.
+
+**7 filed** (Chris Adler dropped as duplicate of #7495):
+1. #7505 — Danny Carey licks/danny-carey.js Sonor SQ2 → Sonor Phonic Plus (1996 era)
+2. #7506 — Tomas Haake licks/tomas-haake.js Sonor/Tama Speed Cobra → Tama Superstar/DW 5002 (1998 era)
+3. #7507 — Mario Duplantier drummerComparisons.js Meinl → Zildjian (3 lines missed by #6404)
+4. #7508 — Gene Hoglan top10Lists.js Pearl Session Elite → Tama (1993 era)
+5. #7509 — Nick Menza top10Lists.js Tama Swingstar → Artstar II
+6. #7510 — Richard Christy licks/richard-christy.js Pearl Eliminator → Axis A Longboard
+7. #7511 — Aquiles Priester gearPriceHistory.js modernEquivalent sticks Vic Firth → ProMark
+
+### Drum-chair watch (Monday sweep)
+**Roster resync note:** the rotation group definitions carried in prior run-notes (e.g. "week 38 group 2: korn, kublai-khan-tx, lamb-of-god, limp-bizkit, mastodon, megadeth, meshuggah, metallica, morbid-angel, murderdolls, nile, opeth", a 47-band-roster split) no longer match the current live `packages/frontend/data/bands.js`, which has only **28** band keys today (no lamb-of-god/limp-bizkit/kublai-khan-tx/morbid-angel entries exist). Recomputed the rotation fresh from the current file per the standing instruction ("read the band keys from bands.js"): 28 bands ÷ 4 = 7/group, alphabetical, group index = ISO week % 4. Week 38 % 4 = 2 → **group 2: meshuggah, metallica, murderdolls, nile, opeth, pantera, periphery**. Future weeks should use this fresh 4-group split (group 0: angra/anthrax/behemoth/cynic/damageplan/death/deftones; group 1: entheos/godsmack/gojira/hellyeah/korn/mastodon/megadeth; group 2: meshuggah/metallica/murderdolls/nile/opeth/pantera/periphery; group 3: sepultura/slayer/slipknot/testament/tool/vader/volto) until the roster changes again.
+
+Dispatched a research agent for 14-day-window searches on all 7 group-2 bands. **Zero verified or rumored permanent drum-chair changes.** One ongoing situation worth continued tracking (not a bands.js change): Periphery's Matt Halpern is sitting out the current tour for family reasons with Anup Sastry filling in (verified via Lambgoat + theprp.com, both explicitly framed as temporary) — watch in case it becomes permanent. Also noted for context (not new, not in-window): Pantera's Charlie Benante had a resolved temporary fill-in situation in June-July 2026; Murderdolls' post-Jordison lineup (Racci Shay) is old news, not a fresh change. 0 candidates cleared → 0 filed.
+
+### Dedup notes
+`gh issue list --state all --search` run per drummer + brand keyword for all 8 raw candidates before filing. Caught 1 exact duplicate (Chris Adler vs. open #7495) — dropped, not re-filed. The other 7 confirmed non-duplicate (closest hits were the same fabrication class in different files, already closed).
+
+### Open proposals waiting on CEO triage
+- #7505-7511 (this run, 7 fresh)
+- #7495, #7455 (open, filed by a prior run — Chris Adler licks/albumArticles Mapex Falcon fabrication, not yet triaged)
+- #3810/#3819/#2211 (standing umbrellas)
+
+### Next run
+1. Watch #7505-7511 through CEO triage; #7509 (Nick Menza) flagged for extra scrutiny given its flip-flop history — confirm CEO re-verifies against `endorsementNews.js` before promoting.
+2. Watch #7495/#7455 (Chris Adler, already open) through triage too.
+3. Use the resynced 4-group/28-band drum-chair rotation going forward (see roster resync note above); next sweep due Monday 2026-09-21, group 3 (sepultura/slayer/slipknot/testament/tool/vader/volto).
+4. Keep watching Periphery/Matt Halpern/Anup Sastry — currently temporary, could become a real drum-chair change.
+5. Content-gap query (`flo mounier`) unchanged/held on established precedent.

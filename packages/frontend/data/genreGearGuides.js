@@ -5305,8 +5305,8 @@ Don't neglect the resonant side. Evans G1 Clear or Remo Ambassador Clear let you
 
     // SEO metadata
     title: "Best Cymbals for Metal Drumming: 2026 Ultimate Guide",
-    metaTitle: "Best Cymbals for Metal in 2026 | MetalForge Expert Guide",
-    description: "Discover the best cymbals for metal drumming. Expert recommendations from Zildjian, Paiste, Meinl, and Sabian — covering crash, hi-hat, and ride cymbals used by Lars Ulrich, Mikkey Dee, and Mike Mangini.",
+    metaTitle: "Best Cymbal Set for Metal (2026): 7 Lines Compared, €50-550",
+    description: "Which cymbal set actually cuts through metal's downtuned guitars? We compared 7 lines from €50 to €550 per cymbal — verdict: Zildjian A Custom for pro cutting power, Meinl HCS Bronze if you're starting out.",
     seoKeywords: [
       'best cymbals for metal drumming',
       'best crash cymbals metal',

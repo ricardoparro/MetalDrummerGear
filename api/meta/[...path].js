@@ -7322,7 +7322,7 @@ export function getMetaForPath(pathname) {
           name: `${setup.brands.join(' & ')} cymbal setup`,
           brand: { '@type': 'Brand', name: setup.brands[0] },
           category: 'Cymbals',
-          url: `${BASE_URL}/drummer/${setup.drummerSlug}`,
+          url: `${BASE_URL}/cymbals/setups/${setup.drummerSlug}`,
         },
       })),
     };
@@ -7335,8 +7335,10 @@ export function getMetaForPath(pathname) {
       // Issue #4650: crawlable links to every drummer with a verified cymbal
       // setup — this hub previously had zero outbound links from the
       // bot-facing shell.
+      // Issue #7530: was linking to /drummer/<slug> (main profile) instead of
+      // the dedicated /cymbals/setups/<slug> page this hub exists to showcase.
       ssrLinks: _dedupeSsrLinksByHref(CYMBAL_SETUPS.map(setup => ({
-        href: `/drummer/${setup.drummerSlug}`,
+        href: `/cymbals/setups/${setup.drummerSlug}`,
         label: `${setup.brands.join(' & ')} cymbal setup — ${setup.drummerSlug}`,
       }))),
       // Issue #5533: FAQ was previously JSON-LD-only — surface as visible body text.

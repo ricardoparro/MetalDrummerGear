@@ -319,16 +319,6 @@ export const licks = {
     },
     "gearUsed": [
       {
-        "name": "Sonor Drum Kit",
-        "type": "drums",
-        "link": null
-      },
-      {
-        "name": "Sabian Cymbals",
-        "type": "cymbals",
-        "link": null
-      },
-      {
         "name": "Tama Speed Cobra Pedals",
         "type": "pedals",
         "link": null

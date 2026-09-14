@@ -43,7 +43,7 @@ export const licks = {
       { "name": "Pearl Masters Custom Kit", "type": "drums", "link": null },
       { "name": "Pearl 14\"x5.5\" Sensitone Snare", "type": "snare", "link": null },
       { "name": "Sabian AA/AAX Cymbals", "type": "cymbals", "link": null },
-      { "name": "Pearl Eliminator Double Pedal", "type": "hardware", "link": null },
+      { "name": "Axis A Longboard Double Pedal", "type": "hardware", "link": null },
       { "name": "Vic Firth American Classic 5B", "type": "sticks", "link": null }
     ],
     "learningTips": [
@@ -106,7 +106,7 @@ export const licks = {
       { "name": "Pearl Masters Custom Kit", "type": "drums", "link": null },
       { "name": "Pearl 14\"x5.5\" Sensitone Snare", "type": "snare", "link": null },
       { "name": "Sabian AA/AAX Cymbals", "type": "cymbals", "link": null },
-      { "name": "Pearl Eliminator Double Pedal", "type": "hardware", "link": null },
+      { "name": "Axis A Longboard Double Pedal", "type": "hardware", "link": null },
       { "name": "Vic Firth American Classic 5B", "type": "sticks", "link": null }
     ],
     "learningTips": [
@@ -169,7 +169,7 @@ export const licks = {
       { "name": "Pearl Masters Custom Kit", "type": "drums", "link": null },
       { "name": "Pearl 14\"x5.5\" Sensitone Snare", "type": "snare", "link": null },
       { "name": "Sabian AA/AAX Cymbals", "type": "cymbals", "link": null },
-      { "name": "Pearl Eliminator Double Pedal", "type": "hardware", "link": null },
+      { "name": "Axis A Longboard Double Pedal", "type": "hardware", "link": null },
       { "name": "Vic Firth American Classic 5B", "type": "sticks", "link": null }
     ],
     "learningTips": [

@@ -185,7 +185,7 @@ export const licks = {
     },
     "gearUsed": [
       {
-        "name": "Sonor SQ2 Drum Kit",
+        "name": "Sonor Phonic Plus Drum Kit",
         "type": "drums",
         "link": null
       },
@@ -401,7 +401,7 @@ export const licks = {
     },
     "gearUsed": [
       {
-        "name": "Sonor SQ2 Drum Kit",
+        "name": "Sonor Phonic Plus Drum Kit",
         "type": "drums",
         "link": null
       },

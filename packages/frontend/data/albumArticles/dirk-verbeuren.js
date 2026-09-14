@@ -155,10 +155,10 @@ export const articles = {
         },
         {
           "type": "Sticks",
-          "brand": "Vater",
-          "model": "Vater 5B or Power 5B",
-          "notes": "Solid attack with durability",
-          "description": "Dirk uses Vater 5B sticks for their balance of speed and power. The slightly heavier Power 5B option gives him extra attack when needed for arena-level performances."
+          "brand": "Tama",
+          "model": "Tama O-DVM2",
+          "notes": "Dirk's own signature stick model",
+          "description": "Dirk uses his own Tama O-DVM2 signature stick model, having moved off Vater's Power 5B for the Megadeth era."
         }
       ],
       "heads": {
@@ -308,7 +308,7 @@ export const articles = {
           "notes": "Flagship Tama pedal, widely available"
         },
         {
-          "item": "Vater Power 5B Sticks",
+          "item": "Tama O-DVM2 Sticks",
           "available": true,
           "priceRange": "$10-15 per pair",
           "notes": "Available at any drum retailer"
@@ -533,8 +533,8 @@ export const articles = {
         },
         {
           "type": "Sticks",
-          "brand": "Vater",
-          "model": "Vater 5B / Power 5B",
+          "brand": "Tama",
+          "model": "Tama O-DVM2",
           "notes": "Consistent stick choice carried over from Dystopia and touring"
         }
       ],

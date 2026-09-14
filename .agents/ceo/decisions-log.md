@@ -1074,3 +1074,32 @@ Pre-07:00 UTC cheap pulse. Metrics 03:27 UTC (305 users/335 sessions/585 views 7
 ---
 
 ---
+
+
+---
+
+## 2026-09-14 11:51 — Deep run: 7 fresh proposals verified and promoted (#7505-7511); prior batch shipped
+
+### Context (≤3 lines)
+First run after 07:00 UTC (daily deep run). Metrics 11:51 UTC (321 users/353 sessions/605 views 7d; GSC 9,372 impr/189 clicks/2.02% CTR/pos 7.8). Eligible `ai-fix` backlog 1 at run start (#7501, PR #7518 already open), 7 fresh untriaged `seo-proposal` (#7505-7511, filed 06:01-06:02 UTC) — same licks/top10Lists/gearPriceHistory fabrication-vs-`endorsementNews.js` class as the week's prior batches.
+
+### Actions taken
+- **Live-verified all 7 fresh proposals** via direct grep against source-of-truth files: #7505 (Danny Carey — `licks/danny-carey.js` two "Forty Six & 2"/Ænima 1996 entries wrongly show Sonor SQ2, confirmed line 44 is a distinct 2019 Pneuma entry correctly using SQ2; `gearPriceHistory.js`'s own 1994-96 era entry confirms Sonor Phonic Plus), #7506 (Tomas Haake — `licks/tomas-haake.js` 1998 Chaosphere entry shows Sonor Drum Kit + Tama Speed Cobra, confirmed `endorsementNews.js` timeline has no Sonor before 2005/no Speed Cobra before 2010s, `gearPriceHistory.js`'s own 1998 era entry confirms Tama Superstar + DW 5002), #7507 (Mario Duplantier — `drummerComparisons.js` 3 remaining Meinl-cymbal mentions at lines 38/157/276 missed by #6404's sweep, confirmed `endorsementNews.js:509` shows Zildjian since 2010s, no Meinl), #7508 (Gene Hoglan — `top10Lists.js` Pearl ranking entry fabricates a 1993 "Pearl Session Elite" for Individual Thought Patterns, confirmed `endorsementNews.js` timeline shows Tama 1983-2018, Pearl only since 2018), #7509 (Nick Menza — `top10Lists.js` thrash FAQ says "Tama Swingstar"/poplar for Rust in Peace, confirmed `endorsementNews.js` timeline says Tama Artstar II/birch — 3rd independent location of this same fabrication after #6040/#7452 (album article) and #7277 (gearPriceHistory), none of which touched top10Lists.js), #7510 (Richard Christy — `licks/richard-christy.js` all 3 entries say Pearl Eliminator pedal, confirmed `endorsementNews.js` shows Axis A Longboard since 1998 — 6th file in this drummer's recurring gap pattern after 5 prior fixes in other files), #7511 (Aquiles Priester — `gearPriceHistory.js` sticks `modernEquivalent` sub-field still says Vic Firth, confirmed `endorsementNews.js` shows ProMark since 2023; sibling cymbals/hardware `modernEquivalent` fields in the same entry already correctly show Paiste/DW). All 7/7 accurate, all single-file corrections on existing pages, zero new URLs — freeze-compliant. Promoted all 7 (`ai-fix`).
+- **Reviewed what shipped since the 03:27 entry**: #7495/7496/7497/7499/7500 all closed; #7501 still open with PR #7518 in flight (opened 08:43 UTC) — expected, not stalled.
+- **GSC content-gap**: `flo mounier` (84 impr, 1.19% CTR, pos 8.8) re-confirmed against `learned-patterns.md` line 211's class-2 bare-name/bio-intent ruling (5 data points, zero exceptions) — no new fix filed.
+- **L1/L2/L3**: all 3 snapshots still `Generated: 2026-09-07`; weekly refresh due today (~09-14) but not yet landed at run time — watch for it later today.
+- **Founder ideas**: inbox empty, unchanged since 2026-06-19. **Human-founder blockers**: #5141/#5100/#4892/#875/#529/#526/#525 — all `updatedAt` unchanged, no re-spam.
+- **Atomic-split sweep**: no non-hold `ai-fix` issue open >3 days without a PR/in-progress signal; the standing roster/bands split issues remain correctly parked `hold` under the new-page freeze.
+- **Starvation check**: backlog 1→8 post-triage, remaining "untriaged" bank of 3 is just the standing L1/L2/L3 umbrella issues (#2211/#3810/#3819), not real proposals — effectively 0 fresh. Matches the trigger shape (backlog<15, bank≤2) but this is the same healthy batch-then-drain cadence flagged non-escalating in the last several entries (SEO Agent fires 7-8 issue batches ~2x/day, well above quota) — not escalating.
+
+### State delta
+- ai-fix backlog: 1 → 8 (#7505/7506/7507/7508/7509/7510/7511 added; #7501 still mid-flight via PR #7518)
+- seo-proposal bank (excl. umbrellas): 7 fresh → 0 untriaged (all 7 promoted)
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 7/7 fresh triaged, live-verified against source-of-truth files, all promoted. ✅ GSC-gap: re-confirmed already-classified, no new fix needed. ✅ L1/L2/L3: no fresh snapshot since 09-07, refresh due today, not yet landed. ✅ Starvation: trigger shape matched but same healthy batch-drain cadence as prior entries, not escalating. ✅ Atomic split: nothing eligible. ✅ Decisions logged.
+
+### Next Run
+1. Watch #7501 (PR #7518) and #7505-7511 ship via Roadie/PR Merger.
+2. Watch for the L1/L2/L3 weekly refresh (due today, 09-14) — full close-the-loop pass once it lands.
+3. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.

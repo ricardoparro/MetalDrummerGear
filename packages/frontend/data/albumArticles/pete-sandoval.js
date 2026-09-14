@@ -80,49 +80,12 @@ export const articles = {
       "estimatedValue": "Unconfirmed"
     },
     "cymbals": {
-      "title": "The Paiste Attack",
-      "brand": "Paiste",
-      "series": "Paiste RUDE",
-      "setup": [
-        {
-          "type": "Hi-Hats",
-          "model": "Paiste RUDE 14\" Hi-Hats",
-          "position": "Left side",
-          "notes": "Cutting, aggressive articulation for fast patterns"
-        },
-        {
-          "type": "Crash",
-          "model": "Paiste RUDE 18\" Crash/Ride",
-          "position": "Left of hi-hats",
-          "notes": "Versatile crash with quick decay"
-        },
-        {
-          "type": "Crash",
-          "model": "Paiste RUDE 19\" Crash/Ride",
-          "position": "Over rack toms",
-          "notes": "Primary crash position"
-        },
-        {
-          "type": "Crash",
-          "model": "Paiste RUDE 20\" Crash/Ride",
-          "position": "Right of toms",
-          "notes": "Larger crash for accents"
-        },
-        {
-          "type": "Ride",
-          "model": "Paiste RUDE 20\" Ride",
-          "position": "Far right",
-          "notes": "Clear stick definition even at speed"
-        },
-        {
-          "type": "China",
-          "model": "Paiste RUDE 18\" China",
-          "position": "Above floor tom",
-          "notes": "Aggressive, trashy accents"
-        }
-      ],
-      "description": "Pete Sandoval's cymbal choice tells you everything about his approach: Paiste RUDE, the most aggressive line in Paiste's catalog. These cymbals were designed specifically for loud, aggressive music — perfect for Morbid Angel's sonic assault.\n\nThe RUDE series features heavy weights and bright, cutting tones that project through walls of distorted guitars. Unlike traditional bronze cymbals that can wash out, RUDE cymbals maintain definition even at extreme volumes. This was essential for Morbid Angel's dense, technical arrangements.\n\nPete's hi-hats, 14\" RUDE models, provided the crisp articulation needed for his intricate patterns. Death metal hi-hat work often serves as a rhythmic anchor while the feet handle the blast beats, requiring cymbals that speak clearly without excessive sustain.\n\nThe Crash/Ride models in the RUDE line served multiple purposes in Pete's setup. Quick crashes for accents, ride patterns for hypnotic sections, and everything in between. The versatility matched Morbid Angel's dynamic arrangements, from slow doom sections to blasting fury.\n\nThe 18\" RUDE China added the aggressive, exotic accents that punctuated songs like \"Chapel of Ghouls\" and \"Immortal Rites.\" Pete used the China sparingly but effectively, marking important transitions and adding variety to his patterns.\n\nThroughout his career, Paiste RUDE remained Pete's primary choice, though he occasionally incorporated other Paiste lines for specific sounds.",
-      "estimatedValue": "$1,800-2,500 total (full RUDE setup)"
+      "title": "Cymbals: Unconfirmed",
+      "brand": "Unconfirmed",
+      "series": "Unconfirmed",
+      "setup": [],
+      "description": "Pete Sandoval's cymbal brand has not been publicly documented. Death metal drummers of the Morrisound era typically ran mainstream professional cymbal lines, but without a verified source confirming Sandoval's actual choices, this page won't assign him a specific brand or model.",
+      "estimatedValue": "Unconfirmed"
     },
     "hardware": {
       "title": "The Engine Room",
@@ -187,8 +150,8 @@ export const articles = {
         },
         {
           "category": "Cymbals",
-          "then": "Paiste RUDE",
-          "now": "Paiste RUDE / 2002"
+          "then": "Unconfirmed",
+          "now": "Unconfirmed"
         },
         {
           "category": "Pedals",
@@ -308,12 +271,6 @@ export const articles = {
           "notes": "The classic death metal snare"
         },
         {
-          "item": "Paiste RUDE Cymbals",
-          "available": true,
-          "priceRange": "$200-400 each",
-          "notes": "Still the most aggressive cymbals available"
-        },
-        {
           "item": "ddrum Bass Drum Pedal (specific model unconfirmed)",
           "available": true,
           "priceRange": "Unconfirmed",
@@ -348,16 +305,16 @@ export const articles = {
       },
       {
         "question": "What cymbals does Pete Sandoval use with Morbid Angel?",
-        "answer": "Pete Sandoval is closely associated with Paiste RUDE cymbals, one of the most iconic cymbal pairings in death metal history. His setup includes RUDE 14 inch hi-hats, RUDE 18 to 20 inch Crash/Rides, a RUDE 20 inch Ride, and a RUDE 18 inch China. The RUDE series is designed for maximum volume and aggression, with a raw, cutting tone that projects powerfully in live settings. This setup has been central to Morbid Angel's sonic identity since the late 1980s."
+        "answer": "Pete Sandoval's cymbal brand has not been publicly documented. While his ddrum drums, Remo heads, and Vic Firth sticks are verified, no source confirms a specific cymbal brand or model across his career, so this page does not assign him one."
       },
       {
         "question": "How much does Pete Sandoval's Morbid Angel drum kit cost?",
-        "answer": "Pete's specific ddrum series and snare model haven't been publicly confirmed, so an exact price for his personal rig isn't available. A full Paiste RUDE cymbal setup matching his configuration runs approximately $1,500 to $2,500."
+        "answer": "Pete's specific ddrum series and snare model haven't been publicly confirmed, so an exact price for his personal rig isn't available. His cymbal brand is also unconfirmed, so no price estimate can be given for that part of the setup."
       }
     ],
     "conclusion": {
       "title": "The Foundation of Extreme",
-      "content": "Pete Sandoval's influence on extreme metal drumming is immeasurable. Before \"Altars of Madness,\" there was no template for death metal drumming. Thrash existed, punk existed, but the synthesis of speed, brutality, and technical precision that defined death metal was created in Tampa, Florida, by Pete Sandoval and his contemporaries.\n\nThe gravity blast technique he pioneered remains a standard tool for extreme metal drummers. His double bass patterns influenced everyone from George Kollias to Flo Mounier. His approach to blast beats — combining speed with groove — showed that extreme metal could be musical, not just fast.\n\nBeyond technique, Pete brought an intensity that's difficult to quantify. Watching footage of classic Morbid Angel shows a drummer possessed, channeling something beyond mere physical ability. That energy, that commitment to extreme expression, defined death metal's spirit.\n\nThe gear Pete used — ddrum drums, Paiste RUDE cymbals — remains available today. The path he blazed can be followed by anyone willing to put in the practice. But replicating Pete Sandoval means more than copying his gear or patterns. It means bringing genuine intensity and commitment to your playing.\n\nFor drummers studying Pete Sandoval:\n\n- **Master fundamentals first**: Speed means nothing without control\n- **Practice the gravity blast carefully**: It's a technique that requires patience\n- **Prioritize endurance**: Death metal demands sustained intensity\n- **Protect your body**: Pete's injury shows the importance of proper technique\n- **Bring intensity**: Technical ability alone doesn't make death metal\n\nThree decades after \"Altars of Madness\" changed everything, Pete Sandoval remains the godfather of extreme metal drumming. His influence echoes in every blast beat, every double bass fill, every gravity blast in death metal.\n\n🤘 *Where it all began. The foundation of death metal drumming.* 🤘"
+      "content": "Pete Sandoval's influence on extreme metal drumming is immeasurable. Before \"Altars of Madness,\" there was no template for death metal drumming. Thrash existed, punk existed, but the synthesis of speed, brutality, and technical precision that defined death metal was created in Tampa, Florida, by Pete Sandoval and his contemporaries.\n\nThe gravity blast technique he pioneered remains a standard tool for extreme metal drummers. His double bass patterns influenced everyone from George Kollias to Flo Mounier. His approach to blast beats — combining speed with groove — showed that extreme metal could be musical, not just fast.\n\nBeyond technique, Pete brought an intensity that's difficult to quantify. Watching footage of classic Morbid Angel shows a drummer possessed, channeling something beyond mere physical ability. That energy, that commitment to extreme expression, defined death metal's spirit.\n\nThe gear Pete used — ddrum drums, though his cymbal brand remains undocumented — reflects his approach. The path he blazed can be followed by anyone willing to put in the practice. But replicating Pete Sandoval means more than copying his gear or patterns. It means bringing genuine intensity and commitment to your playing.\n\nFor drummers studying Pete Sandoval:\n\n- **Master fundamentals first**: Speed means nothing without control\n- **Practice the gravity blast carefully**: It's a technique that requires patience\n- **Prioritize endurance**: Death metal demands sustained intensity\n- **Protect your body**: Pete's injury shows the importance of proper technique\n- **Bring intensity**: Technical ability alone doesn't make death metal\n\nThree decades after \"Altars of Madness\" changed everything, Pete Sandoval remains the godfather of extreme metal drumming. His influence echoes in every blast beat, every double bass fill, every gravity blast in death metal.\n\n🤘 *Where it all began. The foundation of death metal drumming.* 🤘"
     }
   },
   "altars-of-madness-drum-setup": {
@@ -439,43 +396,12 @@ export const articles = {
       "estimatedValue": "Unconfirmed"
     },
     "cymbals": {
-      "title": "Paiste Warfare",
-      "brand": "Paiste",
-      "series": "Paiste 2002 / RUDE Series",
-      "setup": [
-        {
-          "type": "Hi-Hats",
-          "model": "Paiste 2002 14\" Sound Edge Hi-Hats",
-          "position": "Left side",
-          "notes": "Cutting sound for fast patterns"
-        },
-        {
-          "type": "Crash",
-          "model": "Paiste 2002 16\" Medium Crash",
-          "position": "Left of hi-hats",
-          "notes": "Quick crash for accents"
-        },
-        {
-          "type": "Crash",
-          "model": "Paiste 2002 18\" Medium Crash",
-          "position": "Right of toms",
-          "notes": "Primary crash position"
-        },
-        {
-          "type": "Ride",
-          "model": "Paiste 2002 20\" Medium Ride",
-          "position": "Far right",
-          "notes": "Clear definition for ride patterns"
-        },
-        {
-          "type": "China",
-          "model": "Paiste 2002 18\" China Type",
-          "position": "Above floor tom",
-          "notes": "Trashy accents for transitions"
-        }
-      ],
-      "description": "Pete's cymbal setup for Altars of Madness combined Paiste's 2002 series with select RUDE cymbals — a combination that provided both musicality and aggression. The 2002 series was the professional standard of the era, while the RUDE series added the raw, aggressive character that extreme metal demanded.\n\nThe 14\" Sound Edge hi-hats were crucial to Pete's playing. The rippled bottom cymbal provided articulation that cut through even the fastest blast beats. The \"chick\" sound remained defined at tempos that would cause other hi-hats to wash out.\n\nThe crash cymbals (16\" and 18\") gave Pete options for accents without cluttering the kit. Death metal required precision, not excess — every cymbal hit needed to serve the music.\n\nThe 20\" ride was used sparingly but effectively. Pete often rode on the hi-hats during verses, saving the ride for specific sections where its sustain added dimension.\n\nThe China cymbal became a signature element of the Morbid Angel sound. The trashy, explosive accents punctuated riffs and announced transitions — a technique that would become standard in death metal.",
-      "estimatedValue": "$1,000-1,400 total (1989)"
+      "title": "Cymbals: Unconfirmed",
+      "brand": "Unconfirmed",
+      "series": "Unconfirmed",
+      "setup": [],
+      "description": "Pete Sandoval's cymbal choice for Altars of Madness has not been publicly documented. Death metal drummers of the Morrisound era typically ran mainstream professional cymbal lines, but without a verified source confirming Sandoval's actual setup, this page won't assign him a specific brand or model.",
+      "estimatedValue": "Unconfirmed"
     },
     "hardware": {
       "title": "The Foundation of Fury",
@@ -603,7 +529,7 @@ export const articles = {
     },
     "evolution": {
       "title": "From Altars to Legend: Pete's Journey",
-      "content": "Altars of Madness established Pete Sandoval as one of death metal's founding fathers. The techniques he developed on this album would be refined over the next two decades of Morbid Angel's career.\n\n**Immediate Evolution (1989-1993):**\nThe albums following Altars — \"Blessed Are the Sick\" (1991) and \"Covenant\" (1993) — saw Pete refine his approach. The blast beats became even more controlled, the grooves more sophisticated.\n\n**Peak Years (1995-2003):**\n\"Domination\" (1995) and \"Formulas Fatal to the Flesh\" (1998) showcased Pete at his technical peak. The gravity blast technique he had pioneered was now fully developed. His influence on the growing death metal scene was immeasurable.\n\n**The Endorsement Years:**\nPete has been a ddrum endorser for much of his career; the specific series across each era hasn't been publicly documented. Paiste continued as his cymbal choice, particularly the RUDE series.\n\n**Health Challenges:**\nIn 2007, Pete began experiencing back problems that would eventually require surgery. Despite ongoing health issues, he continued performing until officially leaving Morbid Angel in 2013. His final years with the band demonstrated incredible dedication despite physical limitations.\n\n**Legacy Secured:**\nToday, Pete Sandoval's influence is heard in every death metal blast beat. The template established on Altars of Madness — sustained speed, controlled fury, musical integration — defines the genre. His workshops and clinics continue to pass these techniques to new generations.",
+      "content": "Altars of Madness established Pete Sandoval as one of death metal's founding fathers. The techniques he developed on this album would be refined over the next two decades of Morbid Angel's career.\n\n**Immediate Evolution (1989-1993):**\nThe albums following Altars — \"Blessed Are the Sick\" (1991) and \"Covenant\" (1993) — saw Pete refine his approach. The blast beats became even more controlled, the grooves more sophisticated.\n\n**Peak Years (1995-2003):**\n\"Domination\" (1995) and \"Formulas Fatal to the Flesh\" (1998) showcased Pete at his technical peak. The gravity blast technique he had pioneered was now fully developed. His influence on the growing death metal scene was immeasurable.\n\n**The Endorsement Years:**\nPete has been a ddrum endorser for much of his career; the specific series across each era hasn't been publicly documented. His cymbal brand has never been publicly confirmed.\n\n**Health Challenges:**\nIn 2007, Pete began experiencing back problems that would eventually require surgery. Despite ongoing health issues, he continued performing until officially leaving Morbid Angel in 2013. His final years with the band demonstrated incredible dedication despite physical limitations.\n\n**Legacy Secured:**\nToday, Pete Sandoval's influence is heard in every death metal blast beat. The template established on Altars of Madness — sustained speed, controlled fury, musical integration — defines the genre. His workshops and clinics continue to pass these techniques to new generations.",
       "thenVsNow": [
         {
           "category": "Kit",
@@ -617,8 +543,8 @@ export const articles = {
         },
         {
           "category": "Cymbals",
-          "then": "Paiste 2002/RUDE mix",
-          "now": "Paiste RUDE series exclusively"
+          "then": "Unconfirmed",
+          "now": "Unconfirmed"
         },
         {
           "category": "Sticks",
@@ -667,16 +593,16 @@ export const articles = {
       },
       {
         "question": "What cymbals did Pete Sandoval use on Altars of Madness?",
-        "answer": "Pete Sandoval used Paiste 2002 cymbals on Altars of Madness, a series well known for its aggressive, powerful projection. His setup included 2002 14 inch Sound Edge hi-hats, 2002 16 and 18 inch Crashes, a 2002 20 inch Medium Ride, and a 2002 18 inch China Type. The 2002 series' bright, cutting character was ideal for cutting through the dense, fast guitar work on the album, and helped establish the Paiste 2002 as a foundational cymbal choice in early death metal."
+        "answer": "Pete Sandoval's cymbal brand for Altars of Madness has not been publicly documented. No verified source confirms a specific make or model, so this page does not assign him one."
       },
       {
         "question": "How much did Pete Sandoval's Altars of Madness drum kit cost?",
-        "answer": "Pete's specific ddrum kit and snare model from this era haven't been publicly confirmed, so an exact period price isn't available. The Paiste 2002 cymbal setup would have cost around $800 to $1,500 new in 1989."
+        "answer": "Pete's specific ddrum kit and snare model from this era haven't been publicly confirmed, so an exact period price isn't available. His cymbal brand is also unconfirmed, so no price estimate can be given for that part of the setup."
       }
     ],
     "conclusion": {
       "title": "The Foundation of Extreme",
-      "content": "Altars of Madness didn't just establish Morbid Angel as death metal pioneers — it created the template for extreme metal drumming that every death metal drummer has followed since. Pete Sandoval's performance on this album remains one of the most influential in heavy music history.\n\nWhat made Sandoval special wasn't just speed — it was the combination of speed, control, endurance, and musicality. At 19 years old, he played with the maturity and precision of a veteran while bringing youthful aggression that couldn't be faked. The sustained blast beats, the intricate footwork, the controlled fury — all captured with remarkable clarity by Scott Burns at Morrisound.\n\nThe gear Pete used was professional but not exotic — a ddrum kit (specific series unconfirmed), Paiste cymbals, and basic hardware were standard professional equipment. What made the difference was the player behind them and the vision of how to capture that performance. The \"Tampa sound\" Burns developed — dry, direct, powerful — remains the standard for death metal production.\n\nFor drummers studying Altars of Madness, the lessons extend beyond technique:\n\n- **Speed requires control**: Uncontrolled fast is just noise\n- **Endurance is trainable**: Pete's sustained blasts came from conditioning\n- **Serve the music**: Every pattern on Altars supports the songs\n- **Recording matters**: The production approach is as important as the performance\n- **Innovation requires courage**: Pete did things no one had done before\n\nThirty-five years after its release, Altars of Madness remains essential listening for any drummer interested in extreme metal. Pete Sandoval's performance set a standard that challenged and inspired generations. The album proves that technical innovation and musical passion can coexist — and that a 19-year-old with vision can change an entire genre.\n\n🤘 *The album that invented death metal drumming. The foundation of extreme.* 🤘"
+      "content": "Altars of Madness didn't just establish Morbid Angel as death metal pioneers — it created the template for extreme metal drumming that every death metal drummer has followed since. Pete Sandoval's performance on this album remains one of the most influential in heavy music history.\n\nWhat made Sandoval special wasn't just speed — it was the combination of speed, control, endurance, and musicality. At 19 years old, he played with the maturity and precision of a veteran while bringing youthful aggression that couldn't be faked. The sustained blast beats, the intricate footwork, the controlled fury — all captured with remarkable clarity by Scott Burns at Morrisound.\n\nThe gear Pete used was professional but not exotic — a ddrum kit (specific series unconfirmed) and basic hardware were standard professional equipment; his cymbal brand remains undocumented. What made the difference was the player behind them and the vision of how to capture that performance. The \"Tampa sound\" Burns developed — dry, direct, powerful — remains the standard for death metal production.\n\nFor drummers studying Altars of Madness, the lessons extend beyond technique:\n\n- **Speed requires control**: Uncontrolled fast is just noise\n- **Endurance is trainable**: Pete's sustained blasts came from conditioning\n- **Serve the music**: Every pattern on Altars supports the songs\n- **Recording matters**: The production approach is as important as the performance\n- **Innovation requires courage**: Pete did things no one had done before\n\nThirty-five years after its release, Altars of Madness remains essential listening for any drummer interested in extreme metal. Pete Sandoval's performance set a standard that challenged and inspired generations. The album proves that technical innovation and musical passion can coexist — and that a 19-year-old with vision can change an entire genre.\n\n🤘 *The album that invented death metal drumming. The foundation of extreme.* 🤘"
     }
   },
   "blessed-are-the-sick-drum-setup": {
@@ -708,7 +634,7 @@ export const articles = {
     "ogImage": "/images/albums/altars-of-madness-drums.webp",
     "intro": {
       "title": "The Album Where Death Metal Grew Ancient Roots",
-      "content": "When Morbid Angel released \"Blessed Are the Sick\" on May 21, 1991, they did something nobody expected: they slowed down and got stranger. After the relentless fury of \"Altars of Madness,\" Trey Azagthoth and company pulled back the tempo ceiling and let Egyptian musical scales, Middle Eastern modes, and ritualistic atmosphere breathe through the death metal framework.\n\nFor Pete Sandoval, this was the pivotal album. Not the fastest. Not the most celebrated. But the record where his double bass mastery moved from raw aggression toward architectural precision — the transition that made \"Covenant\" (1993) possible.\n\nRecorded again at Morrisound Recording with producer Tom Morris and engineer Scott Burns, \"Blessed Are the Sick\" found Pete pushing his configuration further toward the full double-kick dominance that would define his legend. His kit expanded, the Paiste cymbal selection deepened, and the playing found a new groove-to-blast ratio that matched the album's denser compositional ambitions.\n\nDavid Vincent's lyrical partnership with Trey Azagthoth reached its lyrical peak here — the \"Ancient Ones\" mythology, the Egyptian mysticism, the slow-building ceremonial tracks like \"Doomsday Celebrations\" demanded drumming that could conjure atmosphere as effectively as it could destroy. Pete delivered both.\n\nThis article breaks down the gear Pete Sandoval used on \"Blessed Are the Sick,\" explores the techniques that made it the critical bridge between Morbid Angel's debut and their commercial peak, and examines why this transitional album holds a unique place in death metal history.",
+      "content": "When Morbid Angel released \"Blessed Are the Sick\" on May 21, 1991, they did something nobody expected: they slowed down and got stranger. After the relentless fury of \"Altars of Madness,\" Trey Azagthoth and company pulled back the tempo ceiling and let Egyptian musical scales, Middle Eastern modes, and ritualistic atmosphere breathe through the death metal framework.\n\nFor Pete Sandoval, this was the pivotal album. Not the fastest. Not the most celebrated. But the record where his double bass mastery moved from raw aggression toward architectural precision — the transition that made \"Covenant\" (1993) possible.\n\nRecorded again at Morrisound Recording with producer Tom Morris and engineer Scott Burns, \"Blessed Are the Sick\" found Pete pushing his configuration further toward the full double-kick dominance that would define his legend. His kit expanded, and the playing found a new groove-to-blast ratio that matched the album's denser compositional ambitions.\n\nDavid Vincent's lyrical partnership with Trey Azagthoth reached its lyrical peak here — the \"Ancient Ones\" mythology, the Egyptian mysticism, the slow-building ceremonial tracks like \"Doomsday Celebrations\" demanded drumming that could conjure atmosphere as effectively as it could destroy. Pete delivered both.\n\nThis article breaks down the gear Pete Sandoval used on \"Blessed Are the Sick,\" explores the techniques that made it the critical bridge between Morbid Angel's debut and their commercial peak, and examines why this transitional album holds a unique place in death metal history.",
       "keyPoints": [
         "Second Morbid Angel album — bridges Altars of Madness (1989) and Covenant (1993)",
         "Egyptian and Middle Eastern musical influences created new rhythmic demands",
@@ -759,49 +685,12 @@ export const articles = {
       "estimatedValue": "Unconfirmed"
     },
     "cymbals": {
-      "title": "Paiste Through the Egyptian Lens",
-      "brand": "Paiste",
-      "series": "Paiste 2002 / RUDE Series",
-      "setup": [
-        {
-          "type": "Hi-Hats",
-          "model": "Paiste 2002 14\" Sound Edge Hi-Hats",
-          "position": "Left side",
-          "notes": "Essential articulation for mid-tempo grooves and blast transitions"
-        },
-        {
-          "type": "Crash",
-          "model": "Paiste 2002 16\" Medium Crash",
-          "position": "Left of hi-hats",
-          "notes": "Quick punctuation for riff accents"
-        },
-        {
-          "type": "Crash",
-          "model": "Paiste 2002 18\" Medium Crash",
-          "position": "Right of toms",
-          "notes": "Primary crash, wider wash for atmospheric sections"
-        },
-        {
-          "type": "Crash",
-          "model": "Paiste RUDE 17\" Crash/Ride",
-          "position": "Between crashes",
-          "notes": "Added for expanded tonal options vs Altars of Madness setup"
-        },
-        {
-          "type": "Ride",
-          "model": "Paiste 2002 20\" Medium Ride",
-          "position": "Far right",
-          "notes": "More prominent use on mid-tempo tracks"
-        },
-        {
-          "type": "China",
-          "model": "Paiste 2002 18\" China Type",
-          "position": "Above floor tom",
-          "notes": "Explosive transitions and riff punctuation"
-        }
-      ],
-      "description": "\"Blessed Are the Sick\" pushed Pete's cymbal use in new directions. The Paiste 2002 setup from \"Altars of Madness\" expanded with the addition of a RUDE Crash/Ride, giving him a more aggressive mid-range option for tracks that demanded controlled chaos rather than pure blast.\n\nThe hi-hats took on greater compositional importance in 1991. Where \"Altars\" demanded hi-hats that could survive constant blast beat punishment, the slower passages of \"Blessed Are the Sick\" required Pete to actually play patterns — melodic hi-hat work that sat over churning bass drum grooves and Trey's Egyptian-scale riffs. The 2002 Sound Edge's articulation proved ideal for both demands.\n\nThe China cymbal became central to Pete's accent vocabulary on this album. The slower tempos gave him room to deploy it more deliberately — a punctuation mark rather than a rapid-fire spray. On tracks like \"Fall from Grace\" and \"Brainstorm,\" China accents frame Trey's most angular riff transitions with precision that the faster Altars tempos didn't allow.\n\nThe ride cymbal, used sparingly on \"Altars of Madness,\" gained prominence on \"Blessed Are the Sick.\" The album's atmospheric passages and mid-tempo grooves demanded sustained texture, and the 2002 20\" Medium Ride provided the sustained shimmer that slower sections required without washing out like a crash.",
-      "estimatedValue": "$1,200-1,600 total (1991)"
+      "title": "Cymbals: Unconfirmed",
+      "brand": "Unconfirmed",
+      "series": "Unconfirmed",
+      "setup": [],
+      "description": "Pete Sandoval's cymbal choice for \"Blessed Are the Sick\" has not been publicly documented. The Egyptian and Middle Eastern rhythmic influences on this album placed new compositional demands on his hi-hat, ride, and China work, but without a verified source confirming his actual cymbal setup, this page won't assign him a specific brand or model.",
+      "estimatedValue": "Unconfirmed"
     },
     "hardware": {
       "title": "Iron Foundation: 1991 Hardware",
@@ -872,7 +761,7 @@ export const articles = {
           "Demonstrates mature groove-to-blast transitions",
           "China cymbal work particularly prominent"
         ],
-        "gearNotes": "Expanded cymbal setup pays dividends — RUDE Crash/Ride adds texture absent on Altars."
+        "gearNotes": "China cymbal work particularly prominent; specific cymbal brand unconfirmed."
       },
       {
         "track": "Doomsday Celebrations",
@@ -949,8 +838,8 @@ export const articles = {
         },
         {
           "category": "Cymbals",
-          "then": "Paiste 2002 + expanded RUDE selection",
-          "now": "Paiste RUDE series exclusively (later)"
+          "then": "Unconfirmed",
+          "now": "Unconfirmed"
         }
       ]
     },
@@ -993,7 +882,7 @@ export const articles = {
       },
       {
         "question": "What cymbals did Pete Sandoval use on Blessed Are the Sick?",
-        "answer": "Pete Sandoval used an expanded Paiste setup on \"Blessed Are the Sick\" compared to \"Altars of Madness.\" His cymbal configuration included Paiste 2002 14-inch Sound Edge hi-hats, 2002 16 and 18-inch Medium Crashes, a RUDE 17-inch Crash/Ride (new addition), a 2002 20-inch Medium Ride, and a 2002 18-inch China Type. The expanded selection — particularly the added RUDE Crash/Ride — gave Pete more tonal options for the album's wider dynamic range, from atmospheric mid-tempo passages to full blast assault sections."
+        "answer": "Pete Sandoval's cymbal brand for \"Blessed Are the Sick\" has not been publicly documented. No verified source confirms a specific make or model, so this page does not assign him one."
       },
       {
         "question": "Why is Blessed Are the Sick important in death metal drumming history?",
@@ -1006,7 +895,7 @@ export const articles = {
     ],
     "conclusion": {
       "title": "The Missing Chapter in Pete Sandoval's Story",
-      "content": "Death metal histories tend to jump straight from \"Altars of Madness\" to \"Covenant\" when telling Pete Sandoval's story. \"Blessed Are the Sick\" is the missing chapter — the record where a blast beat pioneer became a complete death metal musician.\n\nThe gear story is one of evolution within continuity. Pete's ddrum platform remained, but expanded. The Paiste cymbal selection deepened. The Scott Burns / Morrisound partnership refined rather than replaced. What changed was how Pete deployed his tools — with more patience, more dynamic intelligence, more willingness to serve strange and ancient musical demands.\n\nTrey Azagthoth's Egyptian and Arabic scale compositions forced Pete into rhythmic territory no death metal drummer had mapped before. The slow-burning ritualistic passages, the irregular accent placements, the patience required for tracks like \"The Ancient Ones\" and \"Doomsday Celebrations\" — these demanded a different kind of mastery than \"Immortal Rites\" or \"Suffocation\" had required.\n\nFor drummers studying the Pete Sandoval arc, \"Blessed Are the Sick\" is the essential lesson:\n\n- **Speed is a tool, not a goal**: The best blast is the one that serves the music\n- **Restraint requires practice**: Knowing when not to play is a skill\n- **Dynamic range amplifies impact**: The slow passages make the fast ones devastating\n- **Ancient influences expand the vocabulary**: Egyptian and Arabic scales created new rhythmic demands that made Pete a better drummer\n- **Transitions are the art**: Moving between ceremony and destruction within a single track is the real challenge\n\nThirty-five years on, \"Blessed Are the Sick\" remains the most underrated death metal drum performance in Morbid Angel's catalog. Where \"Altars\" proves Pete could go fastest, \"Blessed Are the Sick\" proves he could go anywhere.\n\n🤘 *The blast beat pioneer learned to play ancient music. The result was death metal's most complete performance.* 🤘"
+      "content": "Death metal histories tend to jump straight from \"Altars of Madness\" to \"Covenant\" when telling Pete Sandoval's story. \"Blessed Are the Sick\" is the missing chapter — the record where a blast beat pioneer became a complete death metal musician.\n\nThe gear story is one of evolution within continuity. Pete's ddrum platform remained, but expanded. The Scott Burns / Morrisound partnership refined rather than replaced. What changed was how Pete deployed his tools — with more patience, more dynamic intelligence, more willingness to serve strange and ancient musical demands.\n\nTrey Azagthoth's Egyptian and Arabic scale compositions forced Pete into rhythmic territory no death metal drummer had mapped before. The slow-burning ritualistic passages, the irregular accent placements, the patience required for tracks like \"The Ancient Ones\" and \"Doomsday Celebrations\" — these demanded a different kind of mastery than \"Immortal Rites\" or \"Suffocation\" had required.\n\nFor drummers studying the Pete Sandoval arc, \"Blessed Are the Sick\" is the essential lesson:\n\n- **Speed is a tool, not a goal**: The best blast is the one that serves the music\n- **Restraint requires practice**: Knowing when not to play is a skill\n- **Dynamic range amplifies impact**: The slow passages make the fast ones devastating\n- **Ancient influences expand the vocabulary**: Egyptian and Arabic scales created new rhythmic demands that made Pete a better drummer\n- **Transitions are the art**: Moving between ceremony and destruction within a single track is the real challenge\n\nThirty-five years on, \"Blessed Are the Sick\" remains the most underrated death metal drum performance in Morbid Angel's catalog. Where \"Altars\" proves Pete could go fastest, \"Blessed Are the Sick\" proves he could go anywhere.\n\n🤘 *The blast beat pioneer learned to play ancient music. The result was death metal's most complete performance.* 🤘"
     }
   },
   "covenant-drum-setup": {
@@ -1038,11 +927,11 @@ export const articles = {
     "ogImage": "/images/albums/altars-of-madness-drums.webp",
     "intro": {
       "title": "The Album Where Death Metal Went Mainstream — Without Slowing Down",
-      "content": "When Morbid Angel released *Covenant* on June 22, 1993, they accomplished something no death metal band had done before: they charted internationally while playing faster and heavier than ever. The album debuted in ten countries, sold over 200,000 copies, and dragged death metal into mainstream metal consciousness — all on the back of Pete Sandoval's most refined and devastating performance to date.\n\n*Covenant* is the culmination of the Morbid Angel trilogy that began with *Altars of Madness* (1989) and evolved through *Blessed Are the Sick* (1991). Where *Altars* was raw aggression and *Blessed Are the Sick* was expansive and experimental, *Covenant* found the perfect balance: brutality with precision, speed with intent, atmosphere without sacrificing the blast.\n\nFor Pete Sandoval, this album marks a cymbal endorsement transition — from Paiste to Sabian — while his ddrum kit endorsement continued (the specific series remains unconfirmed across his career). The technique reached a new benchmark too: by 1993, Pete's double-bass pedal independence at 230+ BPM had become the standard against which all death metal drummers measured themselves.\n\nRecorded again at Morrisound Recording in Tampa with producer Tom Morris and engineer Scott Burns, *Covenant* captured a drummer who had absorbed the lessons of *Blessed Are the Sick* — the dynamic range, the rhythmic vocabulary, the patience — and deployed them with newfound confidence. \"Pain Divine,\" \"Rapture,\" \"Angel of Disease,\" and the slow-burning \"God of Emptiness\" showcase a drummer who could do everything at the highest level.\n\nThis article breaks down every piece of gear Pete Sandoval used on *Covenant*, explores the technique that made his double-bass work the defining benchmark of death metal drumming, and examines why this 1993 album remains the peak of the early Morbid Angel trilogy.",
+      "content": "When Morbid Angel released *Covenant* on June 22, 1993, they accomplished something no death metal band had done before: they charted internationally while playing faster and heavier than ever. The album debuted in ten countries, sold over 200,000 copies, and dragged death metal into mainstream metal consciousness — all on the back of Pete Sandoval's most refined and devastating performance to date.\n\n*Covenant* is the culmination of the Morbid Angel trilogy that began with *Altars of Madness* (1989) and evolved through *Blessed Are the Sick* (1991). Where *Altars* was raw aggression and *Blessed Are the Sick* was expansive and experimental, *Covenant* found the perfect balance: brutality with precision, speed with intent, atmosphere without sacrificing the blast.\n\nFor Pete Sandoval, this album continued his ddrum kit endorsement (the specific series remains unconfirmed across his career; his cymbal brand has never been publicly documented). The technique reached a new benchmark too: by 1993, Pete's double-bass pedal independence at 230+ BPM had become the standard against which all death metal drummers measured themselves.\n\nRecorded again at Morrisound Recording in Tampa with producer Tom Morris and engineer Scott Burns, *Covenant* captured a drummer who had absorbed the lessons of *Blessed Are the Sick* — the dynamic range, the rhythmic vocabulary, the patience — and deployed them with newfound confidence. \"Pain Divine,\" \"Rapture,\" \"Angel of Disease,\" and the slow-burning \"God of Emptiness\" showcase a drummer who could do everything at the highest level.\n\nThis article breaks down every piece of gear Pete Sandoval used on *Covenant*, explores the technique that made his double-bass work the defining benchmark of death metal drumming, and examines why this 1993 album remains the peak of the early Morbid Angel trilogy.",
       "keyPoints": [
         "Third Morbid Angel album — completes the Altars → Blessed Are the Sick → Covenant trilogy",
         "First death metal album to chart in 10 countries simultaneously",
-        "Pete Sandoval transitions to Sabian cymbal endorsement",
+        "Pete Sandoval's double-bass pedal independence reaches its career peak",
         "Double-bass pedal independence at 230+ BPM — the death metal benchmark",
         "Recorded at Morrisound with Tom Morris and Scott Burns",
         "\"God of Emptiness\" slow dirge contrasts with peak-velocity blast tracks",
@@ -1090,49 +979,12 @@ export const articles = {
       "estimatedValue": "Unconfirmed"
     },
     "cymbals": {
-      "title": "The Sabian Transition: Brighter, Sharper, Faster",
-      "brand": "Sabian",
-      "series": "Sabian Signature Series",
-      "setup": [
-        {
-          "type": "Hi-Hats",
-          "model": "Sabian 14\" AA Medium Hi-Hats",
-          "position": "Left side",
-          "notes": "Faster response than Paiste 2002 Sound Edge — suited to 230+ BPM blast articulation"
-        },
-        {
-          "type": "Crash",
-          "model": "Sabian 16\" AA Medium Crash",
-          "position": "Left of hi-hats",
-          "notes": "Quick punctuation, tighter wash than the Paiste equivalent"
-        },
-        {
-          "type": "Crash",
-          "model": "Sabian 18\" AA Medium-Thin Crash",
-          "position": "Right of toms",
-          "notes": "Primary crash, brighter and faster-decaying than the 2002 series"
-        },
-        {
-          "type": "Crash",
-          "model": "Sabian 17\" AA Rock Crash",
-          "position": "Between crashes",
-          "notes": "Mid-range option for sustained riff accents"
-        },
-        {
-          "type": "Ride",
-          "model": "Sabian 20\" AA Metal Ride",
-          "position": "Far right",
-          "notes": "Increased bell presence vs. Paiste 2002 — more defined in dense blast sections"
-        },
-        {
-          "type": "China",
-          "model": "Sabian 18\" AA China",
-          "position": "Above floor tom",
-          "notes": "Explosive accent marker on \"Rapture,\" \"Angel of Disease,\" and riff-change pivots"
-        }
-      ],
-      "description": "*Covenant* marks Pete Sandoval's complete departure from the Paiste 2002 and RUDE series he had used through the first two Morbid Angel albums. The Sabian AA and Signature series brought a brighter, tighter, faster-responding voice to Pete's setup — and on an album where tempo and precision are everything, that response speed was essential.\n\nThe Sabian hi-hats are the most immediately noticeable change. Where the Paiste 2002 Sound Edge delivers a warm, slightly complex sound well-suited to slower passages, the Sabian AA Medium Hi-Hats respond with a sharper, more percussive attack. At 230+ BPM, this attack edge keeps Pete's foot hi-hat articulation audible in the mix — not smeared into a sustained hiss, but defined and rhythmically clear.\n\nThe crash cymbal selection also shifted character. Sabian's AA series crashes decay faster than the Paiste 2002 equivalent — which, counterintuitively, is an advantage at extreme tempos. Shorter decay means Pete can layer crash accents in rapid succession without each sustaining into the next. \"Rapture\" and \"Pain Divine\" both feature crash work that would blur under the longer-sustaining Paiste approach.\n\nThe China cymbal earned a defining role on *Covenant*. Its placement above the floor tom allowed Pete to mark Trey Azagthoth's most angular riff transitions with a sound that cut through the mix without requiring a pause in the double-bass pattern.",
-      "estimatedValue": "$1,400-2,000 total (1993)"
+      "title": "Cymbals: Unconfirmed",
+      "brand": "Unconfirmed",
+      "series": "Unconfirmed",
+      "setup": [],
+      "description": "Pete Sandoval's cymbal choice for *Covenant* has not been publicly documented. No verified source confirms a brand or model for this or any other era of his career, so this page won't assign him one.",
+      "estimatedValue": "Unconfirmed"
     },
     "hardware": {
       "title": "Iron Foundation: The 1993 Hardware Arsenal",
@@ -1188,10 +1040,9 @@ export const articles = {
         "highlights": [
           "Album opener establishes the deeper 22x18\" bass drum voice immediately",
           "Sustained double-bass at 230+ BPM over the full track length",
-          "Pete's independence at this tempo is the death metal benchmark",
-          "New Sabian cymbal attack audible vs. Paiste predecessor sound"
+          "Pete's independence at this tempo is the death metal benchmark"
         ],
-        "gearNotes": "Deep 22x18\" bass drums fully audible at peak velocity. Sabian hi-hat attack sharpens at extreme speed."
+        "gearNotes": "Deep 22x18\" bass drums fully audible at peak velocity."
       },
       {
         "track": "Rapture",
@@ -1203,7 +1054,7 @@ export const articles = {
           "Demonstrates mature blast-to-groove transitions",
           "One of the most-studied death metal drum tracks"
         ],
-        "gearNotes": "Sabian China cymbal earns its position here. Snare crack perfectly balanced in Burns' mix."
+        "gearNotes": "China cymbal earns its position here. Snare crack perfectly balanced in Burns' mix."
       },
       {
         "track": "Angel of Disease",
@@ -1212,10 +1063,10 @@ export const articles = {
         "highlights": [
           "Showcases Pete's blast beat at sustained top velocity",
           "Independent double bass footwork on full display",
-          "Crash cymbal work during riff breaks demonstrates fast decay advantage",
+          "Crash cymbal work during riff breaks stays cleanly separated at speed",
           "One of Sandoval's most technically demanding performances"
         ],
-        "gearNotes": "Sabian crash fast-decay keeps accents cleanly separated at speed. Full kit workout."
+        "gearNotes": "Crash accents cleanly separated at speed. Full kit workout."
       },
       {
         "track": "God of Emptiness",
@@ -1249,14 +1100,14 @@ export const articles = {
           "Riff-driven mid-tempo powerhouse",
           "Pete locks in with David Vincent's bass for groove foundation",
           "Controlled blast entrances reward patience",
-          "Cymbal work showcases full Sabian AA spread"
+          "Cymbal work showcases the full setup"
         ],
-        "gearNotes": "All six Sabian pieces deployed. Shells provide warmth under the aggressive tuning approach."
+        "gearNotes": "Full cymbal setup deployed. Shells provide warmth under the aggressive tuning approach."
       }
     ],
     "evolution": {
       "title": "The Completion of the Trilogy: How Covenant Defined Pete's Legacy",
-      "content": "*Covenant* is the album where Pete Sandoval stopped being a promising extreme metal technician and became the definitional death metal drummer. By 1993, the arc that began with *Altars of Madness* (1989) and expanded through *Blessed Are the Sick* (1991) reached its natural conclusion — not because Pete had nothing left to develop, but because *Covenant* achieved a synthesis that no death metal album had managed before or since.\n\n**Speed as Architecture:**\nOn *Altars of Madness*, 200+ BPM was the goal — an assault weapon to be deployed continuously. By *Covenant*, Pete understood speed as architecture. 230+ BPM double bass wasn't something to sustain for its own sake; it was the apex of a dynamic structure that required slower passages, groove sections, and atmospheric moments to give it meaning. \"God of Emptiness\" exists on *Covenant* precisely so that \"Pain Divine\" can hit harder.\n\n**The Cymbal Transition:**\nMoving from Paiste to Sabian wasn't merely a sponsor change. The Sabian cymbals' faster response shaped *Covenant*'s drum sound in ways that distinguish it from both predecessors, alongside the deeper 22x18\" bass drums. Pete's playing style adapted to the new configuration — and the result was a drum tone that felt both heavier and more precise than its predecessors.\n\n**The Commercial Breakthrough:**\n*Covenant* charted in 10 countries and sold over 200,000 copies — unthinkable numbers for death metal in 1993. Pete's drumming was central to that accessibility. Not because he compromised his technique, but because *Covenant*'s production and songwriting made the extreme accessible to a wider audience without diluting the extremity.\n\n**The Legacy:**\nEvery death metal drummer who came after — Derek Roddy, Tim Yeung, George Kollias — cites the trilogy culmination of *Altars*, *Blessed Are the Sick*, and *Covenant* as the foundational curriculum. Pete Sandoval in 1993 is the benchmark. Everything else is commentary.",
+      "content": "*Covenant* is the album where Pete Sandoval stopped being a promising extreme metal technician and became the definitional death metal drummer. By 1993, the arc that began with *Altars of Madness* (1989) and expanded through *Blessed Are the Sick* (1991) reached its natural conclusion — not because Pete had nothing left to develop, but because *Covenant* achieved a synthesis that no death metal album had managed before or since.\n\n**Speed as Architecture:**\nOn *Altars of Madness*, 200+ BPM was the goal — an assault weapon to be deployed continuously. By *Covenant*, Pete understood speed as architecture. 230+ BPM double bass wasn't something to sustain for its own sake; it was the apex of a dynamic structure that required slower passages, groove sections, and atmospheric moments to give it meaning. \"God of Emptiness\" exists on *Covenant* precisely so that \"Pain Divine\" can hit harder.\n\n**The Bass Drum Upgrade:**\nMoving to 22x18\" bass drums from the earlier 22x16\" setup wasn't a minor spec change. The added depth shaped *Covenant*'s drum sound in ways that distinguish it from both predecessors, giving Pete's double-bass patterns a heavier, more subsonic weight. Pete's playing style adapted to the new configuration — and the result was a drum tone that felt both heavier and more precise than its predecessors.\n\n**The Commercial Breakthrough:**\n*Covenant* charted in 10 countries and sold over 200,000 copies — unthinkable numbers for death metal in 1993. Pete's drumming was central to that accessibility. Not because he compromised his technique, but because *Covenant*'s production and songwriting made the extreme accessible to a wider audience without diluting the extremity.\n\n**The Legacy:**\nEvery death metal drummer who came after — Derek Roddy, Tim Yeung, George Kollias — cites the trilogy culmination of *Altars*, *Blessed Are the Sick*, and *Covenant* as the foundational curriculum. Pete Sandoval in 1993 is the benchmark. Everything else is commentary.",
       "thenVsNow": [
         {
           "category": "Kit",
@@ -1270,8 +1121,8 @@ export const articles = {
         },
         {
           "category": "Cymbals",
-          "then": "Sabian AA endorsement begins",
-          "now": "Sabian relationship continues"
+          "then": "Unconfirmed",
+          "now": "Unconfirmed"
         },
         {
           "category": "Dynamic range",
@@ -1352,20 +1203,20 @@ export const articles = {
       },
       {
         "question": "How does Covenant differ from Altars of Madness and Blessed Are the Sick in terms of drumming?",
-        "answer": "The three albums represent Pete Sandoval's complete development arc. *Altars of Madness* (1989) was pure aggression — maximum velocity on his ddrum kit with Paiste 2002 cymbals. *Blessed Are the Sick* (1991) expanded the dynamic range with Egyptian and Middle Eastern rhythmic influences, slower atmospheric passages, and a third rack tom. *Covenant* (1993) completed the trilogy by synthesizing both: the refined speed of the debut and the dynamic intelligence of the sophomore record. Deeper 22x18\" bass drums and the transition to Sabian cymbals reinforced this evolution — greater low-end authority and faster-responding cymbals for precision at 230+ BPM. See [Altars of Madness drum setup](/articles/altars-of-madness-drum-setup) and [Blessed Are the Sick drum setup](/articles/blessed-are-the-sick-drum-setup) for the full arc."
+        "answer": "The three albums represent Pete Sandoval's complete development arc. *Altars of Madness* (1989) was pure aggression — maximum velocity on his ddrum kit. *Blessed Are the Sick* (1991) expanded the dynamic range with Egyptian and Middle Eastern rhythmic influences, slower atmospheric passages, and a third rack tom. *Covenant* (1993) completed the trilogy by synthesizing both: the refined speed of the debut and the dynamic intelligence of the sophomore record. Deeper 22x18\" bass drums reinforced this evolution, giving the double-bass patterns greater low-end authority at 230+ BPM. See [Altars of Madness drum setup](/articles/altars-of-madness-drum-setup) and [Blessed Are the Sick drum setup](/articles/blessed-are-the-sick-drum-setup) for the full arc."
       },
       {
         "question": "What cymbals did Pete Sandoval use on Covenant?",
-        "answer": "Pete Sandoval switched from Paiste (used on *Altars of Madness* and *Blessed Are the Sick*) to Sabian for the *Covenant* sessions in 1993. His Sabian AA setup included 14-inch AA Medium Hi-Hats, 16 and 18-inch AA Medium Crashes, a 17-inch AA Rock Crash, a 20-inch AA Metal Ride, and an 18-inch AA China. The Sabian AA series is brighter and faster-decaying than the Paiste 2002 and RUDE series he had used previously — a characteristic that suited the increased tempos on *Covenant*, keeping crash accents cleanly separated and hi-hat articulation defined at 230+ BPM blast sections."
+        "answer": "Pete Sandoval's cymbal brand for *Covenant* has not been publicly documented. No verified source confirms a specific make or model, so this page does not assign him one."
       },
       {
         "question": "Why is Covenant considered Morbid Angel's commercial breakthrough?",
-        "answer": "*Covenant* (1993) was the first death metal album to chart in 10 countries simultaneously, selling over 200,000 copies — unprecedented commercial numbers for the genre. Released on Giant Records in the US (in addition to Earache in Europe), the album had mainstream distribution that bypassed the underground-only channels of its predecessors. The songwriting balanced extreme brutality with more accessible song structures, and producer Tom Morris's *Covenant* drum sound — built around Pete Sandoval's deeper 22x18\" bass drums and new Sabian cymbal setup — had a weight and authority that connected with mainstream metal audiences without compromising the extremity that death metal fans expected."
+        "answer": "*Covenant* (1993) was the first death metal album to chart in 10 countries simultaneously, selling over 200,000 copies — unprecedented commercial numbers for the genre. Released on Giant Records in the US (in addition to Earache in Europe), the album had mainstream distribution that bypassed the underground-only channels of its predecessors. The songwriting balanced extreme brutality with more accessible song structures, and producer Tom Morris's *Covenant* drum sound — built around Pete Sandoval's deeper 22x18\" bass drums — had a weight and authority that connected with mainstream metal audiences without compromising the extremity that death metal fans expected."
       }
     ],
     "conclusion": {
       "title": "The Death Metal Benchmark",
-      "content": "*Covenant* closes the early Morbid Angel trilogy by achieving what neither predecessor could alone: it brought death metal's most uncompromising drumming to a mainstream audience without softening it.\n\nThe gear story is one of deliberate evolution. Deeper 22x18\" bass drums replaced the earlier 22x16\" setup — more mass, more resonance, more authority. Sabian AA cymbals replaced Paiste 2002 — faster response, sharper attack, better-suited to 230+ BPM precision. The Morrisound infrastructure remained constant, but Scott Burns adapted his approach to honor the new gear's character while maintaining the direct, close-miked clarity that had defined the previous two albums.\n\nPete Sandoval in 1993 was the complete death metal drummer. Fast enough to define the genre's upper velocity limit. Patient enough to anchor \"God of Emptiness\" with ceremonial restraint. Precise enough to record 230+ BPM double bass in a way that the next 30 years of drummers are still studying.\n\nFor drummers working through the Pete Sandoval curriculum:\n\n- **Start with [Altars of Madness](/articles/altars-of-madness-drum-setup)**: Pure aggression, raw blast, the beginning\n- **Study [Blessed Are the Sick](/articles/blessed-are-the-sick-drum-setup)**: Dynamic range, Egyptian influences, the expansion\n- **Master *Covenant***: Synthesis — everything learned, deployed with precision and authority\n- **Explore the [Pete Sandoval profile](/drummers/pete-sandoval)**: The full career arc and technique deep-dive\n- **Check the [death metal drummers list](/articles/death-metal-drummers)**: Where *Covenant*-era Pete ranks among the all-time greats\n\nThirty years on, \"Pain Divine\" still sounds like it was recorded yesterday — because the drumming was never going to age. At 230+ BPM with perfect separation and intent, *Covenant*'s drum performance is timeless.\n\n🤘 *The blast beat pioneer completed the trilogy. Death metal had its benchmark.* 🤘"
+      "content": "*Covenant* closes the early Morbid Angel trilogy by achieving what neither predecessor could alone: it brought death metal's most uncompromising drumming to a mainstream audience without softening it.\n\nThe gear story is one of deliberate evolution. Deeper 22x18\" bass drums replaced the earlier 22x16\" setup — more mass, more resonance, more authority. The Morrisound infrastructure remained constant, and Scott Burns maintained the direct, close-miked clarity that had defined the previous two albums.\n\nPete Sandoval in 1993 was the complete death metal drummer. Fast enough to define the genre's upper velocity limit. Patient enough to anchor \"God of Emptiness\" with ceremonial restraint. Precise enough to record 230+ BPM double bass in a way that the next 30 years of drummers are still studying.\n\nFor drummers working through the Pete Sandoval curriculum:\n\n- **Start with [Altars of Madness](/articles/altars-of-madness-drum-setup)**: Pure aggression, raw blast, the beginning\n- **Study [Blessed Are the Sick](/articles/blessed-are-the-sick-drum-setup)**: Dynamic range, Egyptian influences, the expansion\n- **Master *Covenant***: Synthesis — everything learned, deployed with precision and authority\n- **Explore the [Pete Sandoval profile](/drummers/pete-sandoval)**: The full career arc and technique deep-dive\n- **Check the [death metal drummers list](/articles/death-metal-drummers)**: Where *Covenant*-era Pete ranks among the all-time greats\n\nThirty years on, \"Pain Divine\" still sounds like it was recorded yesterday — because the drumming was never going to age. At 230+ BPM with perfect separation and intent, *Covenant*'s drum performance is timeless.\n\n🤘 *The blast beat pioneer completed the trilogy. Death metal had its benchmark.* 🤘"
     }
   }
 };

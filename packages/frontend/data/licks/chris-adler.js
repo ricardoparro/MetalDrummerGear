@@ -41,18 +41,8 @@ export const licks = {
     },
     "gearUsed": [
       {
-        "name": "Mapex Black Panther Kit",
-        "type": "drums",
-        "link": null
-      },
-      {
         "name": "Meinl Cymbals",
         "type": "cymbals",
-        "link": null
-      },
-      {
-        "name": "Trick Pro1-V Bigfoot Double Pedal",
-        "type": "pedals",
         "link": null
       }
     ],
@@ -113,18 +103,8 @@ export const licks = {
     },
     "gearUsed": [
       {
-        "name": "Mapex Black Panther Kit",
-        "type": "drums",
-        "link": null
-      },
-      {
         "name": "Meinl Cymbals",
         "type": "cymbals",
-        "link": null
-      },
-      {
-        "name": "Trick Pro1-V Bigfoot Double Pedal",
-        "type": "pedals",
         "link": null
       }
     ],
@@ -236,7 +216,7 @@ export const licks = {
     "bpm": 150,
     "bpmDisplay": "~150 BPM",
     "timeSignature": "4/4",
-    "description": "\"Walk with Me in Hell\" from Lamb of God's Grammy-nominated 2006 album Sacrament is one of the finest examples of Chris Adler's philosophy that the heaviest moments in metal come from the most controlled playing. To understand the drum setup for this track is to understand Adler's entire approach to groove metal: his Mapex Black Panther kit was chosen for its tight, punchy response, ensuring every backbeat lands with surgical authority rather than washing out in the dense mix. The ride cymbal position — centred and accessible — reflects his commitment to riding the bell throughout the verse, building an unwavering rhythmic pulse while the kick and snare establish the half-time feel underneath. The Trick Pro1-V Bigfoot double pedal setup is critical here: its hair-trigger response allows Adler to execute even, controlled kick strokes at the song's deliberate mid-tempo without the feet tensing up or losing evenness. The core groove pattern places the snare on beat three in a wide, commanding half-time feel while the right foot maintains continuous kick motion locked to the guitar riff's low note emphasis. The hi-hat stays partially open on the off-beats during transitions, adding a swell of air that enhances the song's building tension before the ride bell takes over the main groove. Adler's China cymbal — mounted to his left — punctuates the section changes with sharp, trashy accents that cut through the thick guitar tone and give the arrangement its distinctive southern-inflected aggression. For drummers, the setup and pattern of this song together provide a blueprint for configuring a groove-metal kit for maximum impact at a controlled tempo: everything is positioned for power, precision, and the patience to let the groove breathe. Practise the kick-snare foundation before adding cymbal work so you feel the half-time pulse in your body before layering the hands above it.",
+    "description": "\"Walk with Me in Hell\" from Lamb of God's Grammy-nominated 2006 album Sacrament is one of the finest examples of Chris Adler's philosophy that the heaviest moments in metal come from the most controlled playing. To understand the drum setup for this track is to understand Adler's entire approach to groove metal: his tightly-tuned kit was chosen for its punchy response, ensuring every backbeat lands with surgical authority rather than washing out in the dense mix. The ride cymbal position — centred and accessible — reflects his commitment to riding the bell throughout the verse, building an unwavering rhythmic pulse while the kick and snare establish the half-time feel underneath. His double pedal setup is critical here: its responsiveness allows Adler to execute even, controlled kick strokes at the song's deliberate mid-tempo without the feet tensing up or losing evenness. The core groove pattern places the snare on beat three in a wide, commanding half-time feel while the right foot maintains continuous kick motion locked to the guitar riff's low note emphasis. The hi-hat stays partially open on the off-beats during transitions, adding a swell of air that enhances the song's building tension before the ride bell takes over the main groove. Adler's China cymbal — mounted to his left — punctuates the section changes with sharp, trashy accents that cut through the thick guitar tone and give the arrangement its distinctive southern-inflected aggression. For drummers, the setup and pattern of this song together provide a blueprint for configuring a groove-metal kit for maximum impact at a controlled tempo: everything is positioned for power, precision, and the patience to let the groove breathe. Practise the kick-snare foundation before adding cymbal work so you feel the half-time pulse in your body before layering the hands above it.",
     "techniques": [
       "groove-drumming",
       "double-bass",
@@ -245,7 +225,7 @@ export const licks = {
     "techniqueDetails": [
       "Set the ride cymbal for immediate bell access — the bell pulse is the engine of the groove throughout the verses",
       "Anchor the half-time snare on beat three with full arm weight, not just wrist — the backbeat must be authoritative",
-      "Keep the Trick double pedal heel-up with relaxed ankles so the kick strokes remain even and unforced at the mid-tempo pace",
+      "Keep the double pedal heel-up with relaxed ankles so the kick strokes remain even and unforced at the mid-tempo pace",
       "Let the hi-hat breathe with a slight open position on the off-beats during builds to create tension before the release",
       "Strike the China cymbal at section changes with deliberate, percussive intent — it is an accent, not an afterthought"
     ],
@@ -257,18 +237,8 @@ export const licks = {
     },
     "gearUsed": [
       {
-        "name": "Mapex Black Panther Kit",
-        "type": "drums",
-        "link": null
-      },
-      {
         "name": "Meinl Cymbals",
         "type": "cymbals",
-        "link": null
-      },
-      {
-        "name": "Trick Pro1-V Bigfoot Double Pedal",
-        "type": "pedals",
         "link": null
       }
     ],
@@ -286,8 +256,7 @@ export const licks = {
         "walk with me in hell drums",
         "lamb of god drum setup",
         "groove metal half-time",
-        "sacrament lamb of god",
-        "mapex black panther"
+        "sacrament lamb of god"
       ]
     }
   },
@@ -308,7 +277,7 @@ export const licks = {
     "bpm": 160,
     "bpmDisplay": "~160 BPM",
     "timeSignature": "4/4",
-    "description": "\"Redneck\" from Lamb of God's 2006 album Sacrament earned the band their first Grammy nomination for Best Metal Performance and remains one of Chris Adler's most distinctive and widely studied drum performances. At approximately 160 BPM, the track sits at the crossroads of Adler's double-bass firepower and his unparalleled groove instinct — fast enough to demand serious foot stamina, yet anchored by a half-time feel in the verses that gives the groove its characteristically heavy, Southern-inflected swagger. The opening of \"Redneck\" is a masterclass in cymbal setup: Adler's China cymbal dominates the accents, its aggressive, trashy attack creating the song's signature dark-metal energy in contrast to the more refined bell patterns he uses elsewhere. The China position in his kit — typically mounted left and angled towards the snare — allows him to bring it into the groove without breaking the flow of his hi-hat or ride work. The verse groove locks a syncopated kick pattern to the band's churning riff while the snare drops behind the beat with just enough drag to make the whole pattern feel inescapable. The breakdown section is the track's crowning moment for drummers: Adler drops into a devastating half-time feel with the snare on beat three, kick patterns spreading wide and slow, and the China accenting the riff hits with maximum aggression — a section that launched a thousand breakdowns in the genre that followed. The kit setup for \"Redneck\" prioritises attack and low-end authority: the Black Panther kit's tight, resonant shells deliver punchy, immediate impact that cuts through the dense mix, the Trick double pedal's responsiveness ensures no loss of definition in the continuous kick passages, and Meinl's dark cymbal voicings give the whole arrangement a menacing, slightly dry character. For drummers, this track develops China cymbal integration, breakdown groove execution, and the combination of fast kick patterns with a deliberate, swaggering backbeat feel.",
+    "description": "\"Redneck\" from Lamb of God's 2006 album Sacrament earned the band their first Grammy nomination for Best Metal Performance and remains one of Chris Adler's most distinctive and widely studied drum performances. At approximately 160 BPM, the track sits at the crossroads of Adler's double-bass firepower and his unparalleled groove instinct — fast enough to demand serious foot stamina, yet anchored by a half-time feel in the verses that gives the groove its characteristically heavy, Southern-inflected swagger. The opening of \"Redneck\" is a masterclass in cymbal setup: Adler's China cymbal dominates the accents, its aggressive, trashy attack creating the song's signature dark-metal energy in contrast to the more refined bell patterns he uses elsewhere. The China position in his kit — typically mounted left and angled towards the snare — allows him to bring it into the groove without breaking the flow of his hi-hat or ride work. The verse groove locks a syncopated kick pattern to the band's churning riff while the snare drops behind the beat with just enough drag to make the whole pattern feel inescapable. The breakdown section is the track's crowning moment for drummers: Adler drops into a devastating half-time feel with the snare on beat three, kick patterns spreading wide and slow, and the China accenting the riff hits with maximum aggression — a section that launched a thousand breakdowns in the genre that followed. The kit setup for \"Redneck\" prioritises attack and low-end authority: the tight, resonant shells deliver punchy, immediate impact that cuts through the dense mix, the double pedal's responsiveness ensures no loss of definition in the continuous kick passages, and Meinl's dark cymbal voicings give the whole arrangement a menacing, slightly dry character. For drummers, this track develops China cymbal integration, breakdown groove execution, and the combination of fast kick patterns with a deliberate, swaggering backbeat feel.",
     "techniques": [
       "groove-drumming",
       "double-bass",
@@ -329,18 +298,8 @@ export const licks = {
     },
     "gearUsed": [
       {
-        "name": "Mapex Black Panther Kit",
-        "type": "drums",
-        "link": null
-      },
-      {
         "name": "Meinl Cymbals (China prominent)",
         "type": "cymbals",
-        "link": null
-      },
-      {
-        "name": "Trick Pro1-V Bigfoot Double Pedal",
-        "type": "pedals",
         "link": null
       }
     ],

@@ -5,6 +5,34 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-09-14 03:27 UTC*
 
 ---
+
+## 2026-09-14 21:30 — Evening review: 5 more shipped (#7508-7511, #7519 false-alarm), 3 root-cause fixes mid-flight
+
+### Context (≤3 lines)
+First run after 19:00 UTC (evening review). Metrics 21:30 UTC (347 users/383 sessions/684 views 7d; GSC 9,372 impr/189 clicks/2.02% CTR/pos 7.8, unchanged snapshot from the 11:51 run). Eligible `ai-fix` backlog 3 (#7529/#7530/#7531, all with PRs open), 0 fresh untriaged `seo-proposal` (bank is 9 standing `hold`s + 3 umbrellas only).
+
+### Actions taken
+- **Reviewed what shipped since the 17:50 entry**: #7508/7509/7510/7511 (Gene Hoglan, Nick Menza, Richard Christy, Aquiles Priester gear-fact fixes) merged 18:13 UTC — already live-verified in the 11:51 entry, closing the loop as expected. #7519 (Loop Watchdog alert) also closed 18:13 — confirmed transient GitHub Actions runner-capacity hiccup (SEO Agent job recycled mid-run), self-healing, no code change needed.
+- **#7529/#7530/#7531** (root-cause fixes from the 17:50 L1/L2/L3 pass) each picked up by two Roadie workers within ~8s of each other, producing duplicate PRs per issue (#7532/#7533 for #7529, #7535/#7536 for #7531; #7530 got a single PR #7534). This is the known race documented in `drain.sh:168` (offset-fallback dup guard) — self-heals via the PR Merger's conflict-reap path once the first of each pair merges and rewrites main out from under the second. Not escalating; watching that both pairs resolve to exactly one merge + one auto-closed-as-conflicting.
+- **GSC content-gap**: `flo mounier` (84 impr, 1.19% CTR) — same re-confirmed class-2 bare-name classification, no new fix.
+- **L1/L2/L3**: no new snapshot since the 17:50 full pass (L2 74/100, durably clear of the floor; L3 stale-crawl residue explained, no action). Next full pass after next week's refresh.
+- **Founder ideas**: inbox empty, unchanged since 2026-06-19. **Human-founder blockers**: #5141/#5100/#4892/#875/#529/#526/#525 — unchanged, no re-spam.
+- **Starvation check**: backlog 3, bank 0 fresh — matches trigger shape, but 3 PRs already in flight will refill the "shipped" side shortly and the SEO Agent's next batch is due within hours per its 3×/day cadence; not escalating (same non-escalating batch-drain pattern as the last ~10 entries).
+- **Atomic-split sweep**: nothing eligible (#7529/7530/7531 are single-file/root-cause scope, already in flight).
+
+### State delta
+- ai-fix backlog: 8 → 3 (5 shipped, 0 added)
+- Closed: #7508, #7509, #7510, #7511, #7519
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: none fresh to triage. ✅ GSC-gap: re-confirmed already-classified. ✅ L1/L2/L3: no fresh snapshot since 17:50 pass. ✅ Starvation: trigger shape matched, non-escalating. ✅ Atomic split: nothing eligible. ✅ Decisions logged.
+
+### Next Run
+1. Confirm #7529/#7530/#7531 each land as exactly one merge (watch the duplicate-PR pairs self-heal via conflict-reap).
+2. Watch for the next SEO Agent batch (due within hours) to refill the backlog.
+3. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---
 ## 2026-09-13 03:15 — Cheap pulse: 7 fresh albumArticles fabrication proposals promoted (#7444-7450)
 
 ### Context (≤3 lines)

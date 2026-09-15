@@ -1867,7 +1867,7 @@ export const DRUMMER_EVOLUTION = {
     band: 'Mastodon',
     totalYearsActive: '1999-Present',
     profileImage: '/images/drummers/brann-dailor.webp',
-    summary: 'Brann Dailor\'s gear evolution mirrors Mastodon\'s rise from Atlanta\'s underground to progressive metal headliners — moving from budget Mapex kits through an era-defining Gretsch relationship that shaped one of modern metal\'s most distinctive drum sounds.',
+    summary: 'Brann Dailor\'s gear evolution mirrors Mastodon\'s rise from Atlanta\'s underground to progressive metal headliners — built on the Tama / Meinl / Vater rig he settled into during the Remission era and has carried, largely unchanged in brand, across two decades with the band.',
 
     eras: [
       {
@@ -1876,40 +1876,40 @@ export const DRUMMER_EVOLUTION = {
         years: '1999–2003',
         startYear: 1999,
         endYear: 2003,
-        description: 'Mastodon\'s ferocious debut. Dailor\'s jazz-informed, melodic drumming over sludge metal foundations was immediately distinctive — even on a budget Mapex kit.',
+        description: 'Mastodon\'s ferocious debut. Dailor\'s jazz-informed, melodic drumming over sludge metal foundations was immediately distinctive, and this era marks his joining the Tama family.',
         albums: ['Lifesblood EP (2001)', 'Remission (2002)'],
         tours: ['Early US club touring', 'Remission US Tour'],
         image: null,
 
         gear: {
           drums: {
-            item: 'Mapex V Series',
-            details: 'Poplar shells: 22" kick, 10"/12"/16" toms',
-            notes: 'Entry-level Mapex kit — affordable and available for a band just getting started in Atlanta.',
-            change: null,
+            item: 'Tama',
+            details: '22" kick, 10"/12"/16" toms',
+            notes: 'Joined the Tama family during the Remission era.',
+            change: CHANGE_TYPES.NEW,
           },
           snare: {
-            item: 'Mapex Black Panther 14"×5"',
+            item: 'Tama 14"×5"',
             details: 'Steel shell, thin hoops',
-            notes: 'The Black Panther was Mapex\'s budget snare line — punchy and loud for the raw sludge sound.',
-            change: null,
+            notes: 'Punchy and loud for the raw sludge sound.',
+            change: CHANGE_TYPES.NEW,
           },
           cymbals: {
-            item: 'Zildjian A Series',
+            item: 'Meinl',
             details: '14" hi-hats, 16"/18" crashes, 20" ride',
-            notes: 'Standard Zildjian A setup — affordable, reliable.',
+            notes: 'Standard Meinl setup.',
             change: null,
           },
           hardware: {
-            item: 'Mapex Hardware + DW 5000 Double Pedal',
-            details: 'Budget stands, professional pedal',
+            item: 'Tama Hardware + DW 5000 Double Pedal',
+            details: 'Tama stands, professional pedal',
             notes: 'The DW 5000 double pedal was a priority investment for double bass work.',
             change: null,
           },
           sticks: {
-            item: 'Vic Firth 5B',
+            item: 'Vater 5B',
             details: 'Standard hickory',
-            notes: 'Standard sticks — no signature deal yet.',
+            notes: 'Standard sticks — no signature deal.',
             change: null,
           },
           heads: {
@@ -1929,7 +1929,8 @@ export const DRUMMER_EVOLUTION = {
         keyChanges: [
           'First Mastodon recording setup',
           'Jazz-influenced approach applied to sludge metal',
-          'DW 5000 double pedal — priority investment despite budget kit',
+          'Joined the Tama family during the Remission era',
+          'DW 5000 double pedal — priority investment for double bass work',
         ],
 
         quote: {
@@ -1946,29 +1947,29 @@ export const DRUMMER_EVOLUTION = {
         years: '2004–2005',
         startYear: 2004,
         endYear: 2005,
-        description: 'The album that made Mastodon\'s name worldwide. Leviathan\'s complex arrangements pushed Dailor to the limits and motivated an equipment upgrade.',
+        description: 'The album that made Mastodon\'s name worldwide. Leviathan\'s complex arrangements pushed Dailor to the limits, and this era marks his signing with Meinl for cymbals.',
         albums: ['Leviathan (2004)'],
         tours: ['Leviathan World Tour', 'Ozzfest 2004'],
         image: null,
 
         gear: {
           drums: {
-            item: 'Mapex Pro M Series',
-            details: 'Maple shells: 22" kick, 10"/12"/14"/16" toms',
-            notes: 'Significant upgrade to Mapex Pro M maple shells for Leviathan and Ozzfest touring.',
-            change: CHANGE_TYPES.UPGRADE,
+            item: 'Tama',
+            details: '22" kick, 10"/12"/14"/16" toms',
+            notes: 'Continued Tama setup for Leviathan and Ozzfest touring.',
+            change: null,
           },
           snare: {
-            item: 'Mapex Black Panther 14"×5.5"',
+            item: 'Tama 14"×5.5"',
             details: 'Steel shell, deeper version',
-            notes: 'Deeper Black Panther for more punch in larger venues.',
+            notes: 'Deeper snare for more punch in larger venues.',
             change: CHANGE_TYPES.UPGRADE,
           },
           cymbals: {
-            item: 'Zildjian A Custom',
+            item: 'Meinl',
             details: '14" hi-hats, 17"/18" crashes, 21" ride, 18" China',
-            notes: 'Upgraded to A Custom for brighter, cutting tone.',
-            change: CHANGE_TYPES.UPGRADE,
+            notes: 'Signed with Meinl for their dark, complex tones.',
+            change: CHANGE_TYPES.NEW,
           },
           hardware: {
             item: 'DW 5000 Double Pedal (continued)',
@@ -1977,10 +1978,10 @@ export const DRUMMER_EVOLUTION = {
             change: null,
           },
           sticks: {
-            item: 'Vic Firth 5A',
-            details: 'Lighter stick for faster playing',
-            notes: 'Lighter sticks to accommodate the fast, melodic patterns on Leviathan.',
-            change: CHANGE_TYPES.SWITCH,
+            item: 'Vater 5B',
+            details: 'Standard hickory',
+            notes: 'Consistent stick choice.',
+            change: null,
           },
           heads: {
             item: 'Remo Emperor',
@@ -1997,8 +1998,8 @@ export const DRUMMER_EVOLUTION = {
         },
 
         keyChanges: [
-          'Upgrade to Mapex Pro M maple shells',
-          'Lighter sticks for faster melodic patterns',
+          'Signed with Meinl for cymbals during the Leviathan era',
+          'Deeper snare for larger touring venues',
           'Ozzfest 2004 brought Mastodon to mainstream metal audience',
         ],
 
@@ -2016,28 +2017,28 @@ export const DRUMMER_EVOLUTION = {
         years: '2006–2008',
         startYear: 2006,
         endYear: 2008,
-        description: 'Mastodon signs to Reprise/Warner and makes their most accessible album yet. Dailor switches to Gretsch, beginning the defining endorsement of his career.',
+        description: 'Mastodon signs to Reprise/Warner and makes their most accessible album yet. Dailor\'s Tama/Meinl rig, now several years in, carries the band into its biggest touring cycle to date.',
         albums: ['Blood Mountain (2006)'],
         tours: ['Blood Mountain World Tour', 'Sounds of the Underground'],
         image: null,
 
         gear: {
           drums: {
-            item: 'Gretsch USA Custom',
-            details: 'Maple shells: 22" kick, 10"/12"/14"/16" toms',
-            notes: 'Brand switch to Gretsch USA Custom — the partnership that would define Dailor\'s sound for the next 15+ years.',
-            change: CHANGE_TYPES.SWITCH,
+            item: 'Tama',
+            details: '22" kick, 10"/12"/14"/16" toms',
+            notes: 'Continued Tama partnership carrying into Mastodon\'s major-label era.',
+            change: null,
           },
           snare: {
-            item: 'Gretsch USA 14"×5" Maple',
-            details: 'Maple shell, die-cast hoops',
-            notes: 'First Gretsch snare — warm, round sound distinct from the steel snares of the Mapex era.',
-            change: CHANGE_TYPES.SWITCH,
+            item: 'Tama 14"×5"',
+            details: 'Die-cast hoops',
+            notes: 'Consistent snare choice for the larger touring cycle.',
+            change: null,
           },
           cymbals: {
-            item: 'Zildjian A Custom',
-            details: '14" A Custom hi-hats, 17"/18"/19" crashes, 21" ride, 18" China',
-            notes: 'Continued Zildjian A Custom partnership.',
+            item: 'Meinl',
+            details: '14" hi-hats, 17"/18"/19" crashes, 21" ride, 18" China',
+            notes: 'Continued Meinl partnership.',
             change: null,
           },
           hardware: {
@@ -2047,15 +2048,15 @@ export const DRUMMER_EVOLUTION = {
             change: CHANGE_TYPES.UPGRADE,
           },
           sticks: {
-            item: 'Vic Firth 5A',
-            details: 'Continued lightweight preference',
+            item: 'Vater 5B',
+            details: 'Continued preference',
             notes: 'Consistent stick choice.',
             change: null,
           },
           heads: {
             item: 'Remo Coated Ambassador',
-            details: 'Coated for warmer tone with Gretsch',
-            notes: 'Coated heads pair well with Gretsch maple shells\' natural warmth.',
+            details: 'Coated for warmer tone',
+            notes: 'Coated heads pair well with the natural warmth of the kit.',
             change: CHANGE_TYPES.SWITCH,
           },
         },
@@ -2067,15 +2068,10 @@ export const DRUMMER_EVOLUTION = {
         },
 
         keyChanges: [
-          'Brand switch to Gretsch USA Custom — career-defining move',
+          'Mastodon signs to Reprise/Warner for Blood Mountain',
           'DW 9000 double pedal upgrade',
-          'Gretsch warm maple tone becomes part of Mastodon\'s signature sound',
+          'Biggest touring cycle of the band\'s career to date',
         ],
-
-        quote: {
-          text: "Gretsch changed everything for me. The warmth of those maple shells under all that distortion — it was exactly the balance I was looking for.",
-          source: 'Gretsch Artist Profile, 2006',
-        },
 
         videos: [],
       },
@@ -2093,21 +2089,21 @@ export const DRUMMER_EVOLUTION = {
 
         gear: {
           drums: {
-            item: 'Gretsch USA Custom (expanded)',
-            details: 'Maple: 22" kick, 8"/10"/12"/14"/16"/18" toms',
+            item: 'Tama (expanded)',
+            details: '22" kick, 8"/10"/12"/14"/16"/18" toms',
             notes: 'Expanded kit with additional toms for the complex progressive arrangements.',
             change: CHANGE_TYPES.UPGRADE,
           },
           snare: {
-            item: 'Gretsch USA Custom 14"×6.5"',
-            details: 'Maple shell, deeper for more body',
+            item: 'Tama 14"×6.5"',
+            details: 'Deeper for more body',
             notes: 'Deeper snare for the fuller, more cinematic drum sound on Crack the Skye.',
             change: CHANGE_TYPES.UPGRADE,
           },
           cymbals: {
-            item: 'Zildjian A Custom / K Series',
-            details: '14" A Custom hi-hats, K Dark crashes, 22" K Constantinople ride, China',
-            notes: 'Added K and K Constantinople cymbals for more complex tonal variety.',
+            item: 'Meinl',
+            details: '14" hi-hats, dark crashes, 22" ride, China',
+            notes: 'Expanded Meinl setup for more complex tonal variety.',
             change: CHANGE_TYPES.UPGRADE,
           },
           hardware: {
@@ -2117,10 +2113,10 @@ export const DRUMMER_EVOLUTION = {
             change: null,
           },
           sticks: {
-            item: 'Vic Firth Brann Dailor Signature',
-            details: 'Hickory, medium taper',
-            notes: 'First Brann Dailor signature drumstick with Vic Firth.',
-            change: CHANGE_TYPES.SIGNATURE,
+            item: 'Vater 5B',
+            details: 'Continued preference',
+            notes: 'Consistent stick choice — no signature deal.',
+            change: null,
           },
           heads: {
             item: 'Remo Coated Ambassador / Fiberskyn',
@@ -2137,16 +2133,10 @@ export const DRUMMER_EVOLUTION = {
         },
 
         keyChanges: [
-          'Vic Firth Brann Dailor signature drumstick launched',
           'Expanded tom configuration for progressive arrangements',
-          'K Constantinople ride adds complexity to cymbal palette',
+          'Expanded Meinl cymbal setup adds complexity to cymbal palette',
           'Crack the Skye nominated for Grammy, considered prog metal landmark',
         ],
-
-        quote: {
-          text: "Crack the Skye was about Bill (Kelliher\'s sister) and transcendence. Every fill was emotional. The Gretsch kit had to sing.",
-          source: 'Revolver Magazine, 2009',
-        },
 
         videos: [],
       },
@@ -2164,21 +2154,21 @@ export const DRUMMER_EVOLUTION = {
 
         gear: {
           drums: {
-            item: 'Gretsch USA Custom',
-            details: 'Maple: 22" kick, 10"/12"/14"/16" toms (streamlined from Crack the Skye)',
+            item: 'Tama',
+            details: '22" kick, 10"/12"/14"/16" toms (streamlined from Crack the Skye)',
             notes: 'Pulled back to tighter 4-tom configuration for the more concise song structures.',
             change: CHANGE_TYPES.SWITCH,
           },
           snare: {
-            item: 'Gretsch USA Custom 14"×5"',
-            details: 'Shallower maple snare for sharper attack',
+            item: 'Tama 14"×5"',
+            details: 'Shallower snare for sharper attack',
             notes: 'Shallower snare for the brighter, more punchy rock sound of The Hunter.',
             change: CHANGE_TYPES.SWITCH,
           },
           cymbals: {
-            item: 'Zildjian A Custom',
+            item: 'Meinl',
             details: '14" hi-hats, 17"/18"/19" crashes, 21" ride, 18" China',
-            notes: 'Streamlined back to A Custom for the more direct rock sound.',
+            notes: 'Streamlined setup for the more direct rock sound.',
             change: CHANGE_TYPES.SWITCH,
           },
           hardware: {
@@ -2188,15 +2178,15 @@ export const DRUMMER_EVOLUTION = {
             change: null,
           },
           sticks: {
-            item: 'Vic Firth Brann Dailor Signature',
-            details: 'Continued signature',
-            notes: 'Maintained Vic Firth signature partnership.',
+            item: 'Vater 5B',
+            details: 'Continued preference',
+            notes: 'Maintained stick choice — no signature deal.',
             change: null,
           },
           heads: {
             item: 'Remo Coated Ambassador',
             details: 'Consistent coated Ambassador preference',
-            notes: 'Warmer coated heads suit the Gretsch maple character.',
+            notes: 'Warmer coated heads suit the kit\'s character.',
             change: null,
           },
         },
@@ -2227,28 +2217,28 @@ export const DRUMMER_EVOLUTION = {
         years: '2014–2016',
         startYear: 2014,
         endYear: 2016,
-        description: 'Mastodon returns to a heavier, more progressive approach. Dailor\'s kit re-expanded and his Gretsch partnership produced its first signature model.',
+        description: 'Mastodon returns to a heavier, more progressive approach. Dailor\'s kit re-expanded on his longstanding Tama/Meinl rig.',
         albums: ['Once More \'Round the Sun (2014)'],
         tours: ['Once More \'Round the Sun World Tour', 'Download Festival 2014'],
         image: null,
 
         gear: {
           drums: {
-            item: 'Gretsch Brann Dailor Signature Kit',
-            details: 'Maple: 22" kick, 10"/12"/14"/16" toms in custom finish',
-            notes: 'First Brann Dailor signature drum kit from Gretsch — collaboration with the band\'s aesthetic.',
-            change: CHANGE_TYPES.SIGNATURE,
+            item: 'Tama',
+            details: '22" kick, 10"/12"/14"/16" toms',
+            notes: 'Continued Tama partnership, re-expanded for the heavier material.',
+            change: null,
           },
           snare: {
-            item: 'Gretsch Brann Dailor Signature Snare',
-            details: '14"×6" Maple in custom wrap',
-            notes: 'Signature snare drum with Gretsch — warm maple tone with distinctive wrap finish.',
-            change: CHANGE_TYPES.SIGNATURE,
+            item: 'Tama 14"×6"',
+            details: 'Maple shell',
+            notes: 'Consistent snare choice.',
+            change: null,
           },
           cymbals: {
-            item: 'Zildjian A Custom / K Dark',
-            details: '14" A Custom hi-hats, K Dark crashes, 22" ride, 18" China',
-            notes: 'Mix of A Custom and K Dark for tonal range.',
+            item: 'Meinl',
+            details: '14" hi-hats, dark crashes, 22" ride, 18" China',
+            notes: 'Continued Meinl setup for tonal range.',
             change: CHANGE_TYPES.UPGRADE,
           },
           hardware: {
@@ -2258,10 +2248,10 @@ export const DRUMMER_EVOLUTION = {
             change: null,
           },
           sticks: {
-            item: 'Vic Firth Brann Dailor Signature',
-            details: 'Refined model — hickory, medium taper',
-            notes: 'Updated signature stick spec.',
-            change: CHANGE_TYPES.UPGRADE,
+            item: 'Vater 5B',
+            details: 'Continued preference',
+            notes: 'Consistent stick choice — no signature deal.',
+            change: null,
           },
           heads: {
             item: 'Remo Coated Ambassador',
@@ -2278,15 +2268,9 @@ export const DRUMMER_EVOLUTION = {
         },
 
         keyChanges: [
-          'First Gretsch Brann Dailor signature drum kit',
-          'Gretsch signature snare released',
-          'K Dark crashes add complexity to cymbal selection',
+          'Re-expanded tom configuration for the heavier material',
+          'Continued Meinl cymbal setup adds tonal range',
         ],
-
-        quote: {
-          text: "Having a signature kit with Gretsch was surreal. Those drums are a part of my identity at this point.",
-          source: 'Gretsch Artist Profile, 2014',
-        },
 
         videos: [],
       },
@@ -2304,22 +2288,22 @@ export const DRUMMER_EVOLUTION = {
 
         gear: {
           drums: {
-            item: 'Gretsch Brann Dailor Signature (updated)',
-            details: 'Custom maple: 22" kick, 8"/10"/12"/14"/16" toms',
-            notes: 'Updated signature kit with 8" tom re-added for Emperor of Sand\'s dynamic range.',
+            item: 'Tama',
+            details: '22" kick, 8"/10"/12"/14"/16" toms',
+            notes: '8" tom re-added for Emperor of Sand\'s dynamic range.',
             change: CHANGE_TYPES.UPGRADE,
           },
           snare: {
-            item: 'Gretsch Brann Dailor Signature Snare 14"×6.5"',
-            details: 'Updated deeper model',
-            notes: 'Deeper signature snare for fuller body in Emperor\'s dramatic dynamics.',
+            item: 'Tama 14"×6.5"',
+            details: 'Deeper model',
+            notes: 'Deeper snare for fuller body in Emperor\'s dramatic dynamics.',
             change: CHANGE_TYPES.UPGRADE,
           },
           cymbals: {
-            item: 'Zildjian K Series',
-            details: '14" K hi-hats, K Dark crashes 16"/17"/18"/19", 22" K Constantinople ride, China',
-            notes: 'Fully transitioned to K Series for darker, more complex sound to match album\'s emotional depth.',
-            change: CHANGE_TYPES.SWITCH,
+            item: 'Meinl',
+            details: '14" hi-hats, dark crashes 16"/17"/18"/19", 22" ride, China',
+            notes: 'Expanded Meinl setup for darker, more complex sound to match album\'s emotional depth.',
+            change: CHANGE_TYPES.UPGRADE,
           },
           hardware: {
             item: 'DW 9000XF Double Pedal',
@@ -2328,9 +2312,9 @@ export const DRUMMER_EVOLUTION = {
             change: CHANGE_TYPES.UPGRADE,
           },
           sticks: {
-            item: 'Vic Firth Brann Dailor Signature',
+            item: 'Vater 5B',
             details: 'Current production model',
-            notes: 'Continued Vic Firth partnership.',
+            notes: 'Continued stick choice — no signature deal.',
             change: null,
           },
           heads: {
@@ -2354,7 +2338,7 @@ export const DRUMMER_EVOLUTION = {
         },
 
         keyChanges: [
-          'Full transition to Zildjian K Series for darker tone',
+          'Expanded Meinl cymbal setup for darker tone',
           'Roland SPD-SX added for live electronics',
           'DW 9000XF extended footboard upgrade',
           'Emperor of Sand won Grammy for Best Metal Performance',
@@ -2447,7 +2431,7 @@ export const DRUMMER_EVOLUTION = {
     ],
 
     metaTitle: 'Brann Dailor Gear Evolution Timeline | Mastodon Drum Kit History',
-    metaDescription: 'Explore Brann Dailor\'s complete drum gear evolution from Remission to Hushed and Grim. Mapex to Gretsch — every kit, every era documented.',
+    metaDescription: 'Explore Brann Dailor\'s complete drum gear evolution from Remission to Hushed and Grim. His Tama, Meinl, and Vater rig — every kit, every era documented.',
   },
 
   // ==========================================

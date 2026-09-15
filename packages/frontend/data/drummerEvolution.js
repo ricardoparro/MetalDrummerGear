@@ -8274,9 +8274,9 @@ export const DRUMMER_EVOLUTION = {
             change: null,
           },
           cymbals: {
-            item: 'Zildjian A Series',
+            item: 'Sabian AA/HH',
             details: '14" hi-hats, 16"/18" crashes, 20" ride',
-            notes: 'Standard Zildjian A setup — reliable and widely available on European touring circuits.',
+            notes: 'Early professional Sabian AA/HH setup, carried over from his Eucharist years ahead of Arch Enemy\'s breakthrough albums.',
             change: null,
           },
           hardware: {
@@ -8344,9 +8344,9 @@ export const DRUMMER_EVOLUTION = {
             change: CHANGE_TYPES.UPGRADE,
           },
           cymbals: {
-            item: 'Zildjian A Custom',
+            item: 'Sabian AA/HH',
             details: '14" hi-hats, 17"/18" crashes, 21" ride',
-            notes: 'Upgraded from A Series to A Custom. Brighter, more cutting tone in larger venues.',
+            notes: 'Continued Sabian AA/HH setup with larger crash sizes for bigger venues.',
             change: CHANGE_TYPES.UPGRADE,
           },
           hardware: {
@@ -8377,7 +8377,7 @@ export const DRUMMER_EVOLUTION = {
 
         keyChanges: [
           'Upgraded to Pearl Session Studio Select professional-grade kit',
-          'Zildjian A Custom endorsement begins',
+          'Continued Sabian AA/HH cymbal setup, first signed during his Eucharist years',
           'Rise of the Tyrant (2007) — reached Top 20 in multiple European charts',
           '5A stick switch for increased speed on demanding blast passages',
         ],
@@ -8415,10 +8415,10 @@ export const DRUMMER_EVOLUTION = {
             change: CHANGE_TYPES.SWITCH,
           },
           cymbals: {
-            item: 'Zildjian A Custom',
-            details: '14" A Custom hi-hats, 17"/18"/19" crashes, 21" ride',
-            notes: 'A Custom setup expanded to a third crash for live performance. Consistent Zildjian loyalty across the career.',
-            change: CHANGE_TYPES.UPGRADE,
+            item: 'Sabian AAX/HHX',
+            details: '14" AAX hi-hats, 17"/18"/19" crashes, 21" ride',
+            notes: 'Refined his long-running Sabian setup to the brighter AAX crashes and darker HHX hi-hats/ride starting in 2014, heard from the War Eternal era onward; expanded to a third crash for live performance.',
+            change: CHANGE_TYPES.SWITCH,
           },
           hardware: {
             item: 'Pearl Eliminator Redline Double Pedal',
@@ -8450,7 +8450,7 @@ export const DRUMMER_EVOLUTION = {
           'Full Pearl Reference Pure endorsement — definitive career setup',
           'All-maple shell construction adds warmth and resonance behind extreme metal speed',
           'Khaos Legions (2011) — first #1 chart position in Sweden',
-          'War Eternal (2014) — Alissa White-Gluz era begins; band continues world touring',
+          'War Eternal (2014) — Alissa White-Gluz era begins; refined Sabian cymbal setup to AAX/HHX',
           'Deceivers (2022) — one of melodic death metal\'s most enduring rhythm sections',
         ],
 

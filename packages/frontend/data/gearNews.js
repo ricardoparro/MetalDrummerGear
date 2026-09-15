@@ -130,19 +130,6 @@ export const GEAR_NEWS = [
 
   // Gear Changes/Updates (hypothetical recent updates)
   {
-    id: 'gear-jay-weinberg-001',
-    date: '2026-03-01',
-    type: CHANGE_TYPES.ADDED,
-    title: 'Jay Weinberg adds Paiste 2002 20" Ride Cymbal',
-    description: 'Slipknot\'s Jay Weinberg expands his cymbal arsenal with a Paiste 2002 20" Ride.',
-    drummerId: 10,
-    drummerName: 'Jay Weinberg',
-    drummerSlug: 'jay-weinberg',
-    gearName: 'Paiste 2002 20" Ride Cymbal',
-    gearSlug: 'paiste-2002-20-ride',
-    note: 'Adding vintage-style bite to his massive setup.',
-  },
-  {
     id: 'gear-mario-duplantier-001',
     date: '2026-02-28',
     type: CHANGE_TYPES.UPDATED,

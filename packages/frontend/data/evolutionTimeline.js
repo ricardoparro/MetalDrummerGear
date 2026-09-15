@@ -170,7 +170,7 @@ export const EVOLUTION_TIMELINE = [
     album: 'Piece of Mind (1983)',
     type: TIMELINE_EVENT_TYPES.DRUMMER_DEBUT,
     subgenre: METAL_SUBGENRES.HEAVY,
-    gearNotes: 'Pearl DLX kit with single bass drum - proving you don\'t need double bass for power',
+    gearNotes: 'Single bass drum setup - proving you don\'t need double bass for power (Pearl DLX endorsement followed in 1984)',
     significance: 'His single bass drum technique proved speed doesn\'t require double bass',
     videoEmbed: null,
     image: '/images/drummers/nicko-mcbrain.webp',

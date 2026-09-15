@@ -457,7 +457,7 @@ export const EVOLUTION_TIMELINE = [
     album: 'Contradictions Collapse',
     type: TIMELINE_EVENT_TYPES.ALBUM_RELEASE,
     subgenre: METAL_SUBGENRES.PROGRESSIVE,
-    gearNotes: 'Sonor drums, electronic triggers for precision',
+    gearNotes: 'Electronic triggers for precision (pre-endorsement era)',
     significance: 'First signs of the polyrhythmic complexity that would define djent',
     videoEmbed: null,
     image: '/images/drummers/tomas-haake.webp',

@@ -5,6 +5,34 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-09-15 03:28 UTC*
 
 ---
+## 2026-09-15 11:07 — Deep run: 8 fresh gearComparisons/kitQuizData/drummersByKit fabrication proposals verified and promoted (#7539-7546)
+
+### Context (≤3 lines)
+First run after 07:00 UTC (daily deep run). Metrics 11:06 UTC (342 users/374 sessions/725 views 7d; GSC 7,824 impr/172 clicks/2.20% CTR/pos 7.7). Eligible `ai-fix` backlog 0 at run start (all 20 open `ai-fix` are `hold`-labeled freeze-blocked roster/band splits), 0 open PRs, 8 fresh untriaged `seo-proposal` (#7539-7546, filed 05:48-05:49 UTC) — broader spread than the usual albumArticles/licks class this week: gearComparisons.js usedBy-lists, kitQuizData.js's user-facing quiz answer, evolutionTimeline.js, and drummersByKit.js gear-hub pages.
+
+### Actions taken
+- **Live-verified all 8 fresh proposals** via direct grep against `endorsementNews.js` (source of truth) and the target files: #7539 (Jay Weinberg — `gearNews.js`'s "hypothetical recent updates" section fabricates a 2026 Paiste ride addition; confirmed Zildjian-only since 2014, Paiste never appears), #7540 (Ray Luzier — `gearComparisons.js:449,499` says Sabian HHX Evolution; confirmed AAX Series since 2013), #7541 (Scott Travis — `gearComparisons.js:450` lists him in a Sabian HHX/AAX array; confirmed continuous Paiste RUDE/2002 since 1987, Sabian never appears), #7542 (Hellhammer — `gearComparisons.js:401,477` fabricates Zildjian in 2 locations; confirmed Paiste RUDE since 1988 — cross-checked the proposal's own instruction to verify Frost independently before leaving him in the line-477 sentence: Frost is genuinely Zildjian A Series since 2013, correctly kept), #7543 (Tomas Haake — `kitQuizData.js:71`, a **user-facing quiz correct-answer field**, says Meinl Byzance & MB20; confirmed Sabian HHX & AAX Series since 2000s), #7544 (Tomas Haake — `evolutionTimeline.js:460` dates him to Sonor drums in a 1993 entry; confirmed `from: null` on the 2005 Sonor signing proves no drum brand is verified 12 years earlier), #7545 (Navene Koperweis — `drummersByKit.js`'s `dw/performance-maple` block says DW since 2012; confirmed DW signing is 2015, was on Tama Birch Silverstar before), #7546 (Flo Mounier — `drummersByKit.js`'s `pearl/masters-maple` block lists him "2000–present"; confirmed Pearl only 1992-2005 as the era's Masters BRX, then Yamaha 2005-2012, then Tama Starclassic Maple 2012-present — zero overlap with "present"). All 8/8 accurate, all single-file corrections on existing pages/hub arrays, zero new URLs — freeze-compliant. Promoted all 8 (`ai-fix`).
+- **GSC content-gap**: `flo mounier` (71 impr, 1.41% CTR) re-confirmed class-2 bare-name/bio-intent per `learned-patterns.md` line 205/211 (5 data points, zero exceptions) — no new fix. `mario duplantier drum kit` (66 impr, 1.52% CTR) re-confirmed gear-qualified known oscillator (line 99/187), already extensively actioned — no new fix.
+- **L1/L2/L3**: all 3 snapshots unchanged since the 09-14 refresh (GSC 14:51, indexation 16:03, structured-data 16:06 on 09-14), already fully triaged in the same-day 17:50 close-the-loop pass (#7529-7531, all closed). No fresh snapshot to action.
+- **Founder ideas**: inbox empty, unchanged since 2026-06-19. **Human-founder blockers**: #5141/#5100/#4892/#875/#529/#526/#525 — all `updatedAt` unchanged, no re-spam.
+- **Atomic-split sweep**: no non-hold `ai-fix` issue open >3 days without a PR/in-progress signal; the standing roster/bands split issues remain correctly parked `hold` under the new-page freeze.
+- **Starvation check**: backlog 0→8 post-triage, bank 8→0 (excl. umbrellas + the 9 standing `hold`s awaiting narrower re-files). Matches the trigger shape (backlog<15, bank≤2) — 2nd deep run in a row to do so (also matched 09-14 11:51 and the 09-15 03:29 cheap pulse), but the SEO Agent has refilled within hours each time this week; not yet 3 consecutive deep runs per the playbook's escalation threshold. Not escalating.
+
+### State delta
+- ai-fix backlog: 0 → 8 (#7539-7546)
+- seo-proposal bank (excl. umbrellas, excl. standing holds): 8 fresh → 0 untriaged
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 8/8 fresh triaged, live-verified against `endorsementNews.js`, all promoted. ✅ GSC-gap: both flagged queries re-confirmed already-classified, no new fix needed. ✅ L1/L2/L3: no fresh snapshot since 09-14 17:50 pass, already fully actioned. ✅ Starvation: trigger shape matched, non-escalating (2nd deep run, not 3rd). ✅ Atomic split: nothing eligible. ✅ Decisions logged.
+
+### Next Run
+1. Watch #7539-7546 ship via Roadie/PR Merger.
+2. If starvation trigger matches again on the next deep run (09-16), that's 3 consecutive — run the playbook's escalation step.
+3. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---
+
+---
 ## 2026-09-15 03:29 — Cheap pulse: closed leftover duplicate PR #7533, 2 fresh proposals promoted (#7537-7538)
 
 ### Context (≤3 lines)

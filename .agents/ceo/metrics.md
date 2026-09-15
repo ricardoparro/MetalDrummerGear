@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-09-15 05:34 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-09-15 11:06 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,48 +8,47 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 332 |
-| Sessions | 363 |
-| Page views | 669 |
-| Engagement rate | 50.14% |
-| Avg session (s) | 210 |
+| Active users | 342 |
+| Sessions | 374 |
+| Page views | 725 |
+| Engagement rate | 59.63% |
+| Avg session (s) | 124 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
-| / | 38 | 18 |
-| /techniques | 24 | 3 |
+| / | 43 | 18 |
+| /techniques | 29 | 3 |
 | /drummers | 20 | 7 |
+| /drummer/frost | 18 | 5 |
 | /drummer/mario-duplantier | 17 | 14 |
-| /drummer/frost | 16 | 5 |
-| /tools | 14 | 3 |
-| /drummer/joey-jordison | 13 | 7 |
+| /tools | 16 | 3 |
+| /drummer/joey-jordison | 14 | 7 |
 | /drummer/bill-ward | 12 | 7 |
+| /drummer/jay-weinberg | 9 | 5 |
 | /drummer/john-otto | 9 | 4 |
-| /drummer/jay-weinberg | 8 | 4 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 247 | 219 |
-| Direct | 90 | 89 |
-| Unassigned | 50 | 47 |
-| Cross-network | 9 | 9 |
+| Organic Search | 273 | 244 |
+| Direct | 96 | 95 |
+| Unassigned | 18 | 17 |
 | Referral | 1 | 1 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 138 | 124 |
-| Singapore | 27 | 27 |
+| United States | 140 | 126 |
+| Singapore | 29 | 29 |
 | China | 20 | 20 |
-| Germany | 15 | 15 |
+| Germany | 17 | 17 |
 | Canada | 13 | 13 |
 | France | 13 | 13 |
-| United Kingdom | 11 | 7 |
+| United Kingdom | 12 | 8 |
 | Brazil | 10 | 10 |
+| Finland | 10 | 9 |
 | Mexico | 10 | 10 |
-| Netherlands | 10 | 10 |
 
 ## Search Console — Search performance
 | Metric | Last 7d |

@@ -2766,7 +2766,7 @@ export const DRUMMER_EVOLUTION = {
     band: 'Dark Angel / Testament',
     totalYearsActive: '1983-Present',
     profileImage: '/images/drummers/gene-hoglan.webp',
-    summary: 'Known as "The Atomic Clock" for his metronomic precision, Gene Hoglan\'s gear evolved from bare-bones Dark Angel setups to massive Pearl configurations capable of delivering extreme metal\'s most technically demanding performances across six iconic bands.',
+    summary: 'Known as "The Atomic Clock" for his metronomic precision, Gene Hoglan\'s gear evolved from Tama setups through his thrash, Death, and SYL years to a Pearl Reference Pure kit from 2018 onward, delivering extreme metal\'s most technically demanding performances across six iconic bands.',
 
     eras: [
       {
@@ -2782,25 +2782,25 @@ export const DRUMMER_EVOLUTION = {
 
         gear: {
           drums: {
-            item: 'Pearl Export',
+            item: 'Tama Superstar',
             details: '22" kick, 10"/12"/14"/16" toms, standard 5-piece',
-            notes: 'Mid-range Pearl setup — reliable and affordable for a developing musician',
+            notes: 'Debut Tama endorsement — reliable and affordable for a developing musician',
             change: null,
           },
           snare: {
-            item: 'Pearl Steel 14"x5.5"',
+            item: 'Tama Steel 14"x5.5"',
             details: 'Standard steel snare',
             notes: 'Bright, cutting tone suited for thrash dynamics',
             change: null,
           },
           cymbals: {
-            item: 'Sabian AA Series',
+            item: 'Zildjian A Series',
             details: '14" hi-hats, 16"/18" crashes, 20" ride',
-            notes: 'Mid-range Sabian — the beginning of a lifelong brand loyalty',
+            notes: 'Debut Zildjian endorsement — the earliest thrash recordings with Dark Angel',
             change: null,
           },
           hardware: {
-            item: 'Pearl hardware with single/double bass pedal',
+            item: 'Tama hardware with single/double bass pedal',
             details: 'Standard stands, transitioning from single to double bass',
             notes: 'Developing the double bass technique that would define his career',
             change: null,
@@ -2853,13 +2853,13 @@ export const DRUMMER_EVOLUTION = {
 
         gear: {
           drums: {
-            item: 'Pearl Masters MCX',
+            item: 'Tama Starclassic',
             details: 'Birch shells: 22" kick (×2), 8"/10"/12"/13"/14"/16" toms',
-            notes: 'First Pearl Masters endorsement — massive step up in quality',
-            change: CHANGE_TYPES.SWITCH,
+            notes: 'Upgraded Tama configuration — massive step up in quality',
+            change: CHANGE_TYPES.UPGRADE,
           },
           snare: {
-            item: 'Pearl Free-Floating Steel 14"x6.5"',
+            item: 'Tama Free-Floating Steel 14"x6.5"',
             details: 'Steel shell, free-floating system',
             notes: 'Maximum sensitivity and cutting power',
             change: CHANGE_TYPES.UPGRADE,
@@ -2897,11 +2897,11 @@ export const DRUMMER_EVOLUTION = {
         },
 
         keyChanges: [
-          'Pearl Masters endorsement begins',
+          'Tama Starclassic configuration adopted',
           'Joined Death — recorded Individual Thought Patterns and Symbolic',
           'Co-founded Strapping Young Lad',
           'Double bass kit now standard configuration',
-          'Sabian endorsement formalised',
+          'Sabian HH Series cymbal endorsement formalised',
         ],
 
         quote: {
@@ -2925,16 +2925,16 @@ export const DRUMMER_EVOLUTION = {
 
         gear: {
           drums: {
-            item: 'Pearl Masters Premium',
+            item: 'Tama Starclassic Maple',
             details: 'Maple shells: 22" kick (×2), 8"/10"/12"/13"/14"/16"/18" toms',
-            notes: 'Enormous configuration matching SYL\'s industrial scale',
+            notes: 'Enormous Tama configuration matching SYL\'s industrial scale',
             change: CHANGE_TYPES.UPGRADE,
           },
           snare: {
-            item: 'Pearl Sensitone Steel 14"x6.5"',
+            item: 'Tama Sensitone Steel 14"x6.5"',
             details: 'Sensitive, powerful attack',
             notes: 'Maximum attack for SYL\'s dense production sound',
-            change: CHANGE_TYPES.SWITCH,
+            change: CHANGE_TYPES.UPGRADE,
           },
           cymbals: {
             item: 'Sabian HHX Series',
@@ -2969,7 +2969,7 @@ export const DRUMMER_EVOLUTION = {
         },
 
         keyChanges: [
-          'Largest kit configuration of career',
+          'Largest Tama kit configuration of career',
           'Los Cabos Gene Hoglan Signature sticks launched',
           'Pearl Eliminator pedal adopted',
           'Evans heads partnership begins',
@@ -2985,34 +2985,34 @@ export const DRUMMER_EVOLUTION = {
       },
 
       {
-        id: 'hoglan-2008-testament-devin',
-        era: 'Testament & Multi-Band Era',
-        years: '2008-Present',
+        id: 'hoglan-2008-testament-tama',
+        era: 'Testament & Dethklok Era',
+        years: '2008-2018',
         startYear: 2008,
-        endYear: 2026,
-        description: 'Post-SYL renaissance — Gene simultaneously driving Testament, Dethklok, and Devin Townsend Project on a fully evolved Pearl Reference setup, cementing his legacy as extreme metal\'s most in-demand drummer.',
+        endYear: 2018,
+        description: 'Post-SYL renaissance — Gene simultaneously driving Testament, Dethklok, and Devin Townsend Project on his Tama kit, capped by his first signature snare, cementing his legacy as extreme metal\'s most in-demand drummer.',
         albums: ['The Formation of Damnation (2008)', 'Dark Roots of Earth (2012)', 'Brotherhood of the Snake (2016)', 'Epicloud (2012)'],
         tours: ['Testament World Tours', 'Dethklok/Metalocalypse Tour', 'Devin Townsend Project Tours'],
         image: null,
 
         gear: {
           drums: {
-            item: 'Pearl Reference Pure',
+            item: 'Tama Starclassic',
             details: 'All-maple: 22" kick (×2), 8"/10"/12"/14"/16" toms',
-            notes: 'Pearl\'s flagship Reference Pure — warmth and power combined',
-            change: CHANGE_TYPES.UPGRADE,
+            notes: 'Continued Tama endorsement — warmth and power combined',
+            change: null,
           },
           snare: {
-            item: 'Pearl Free-Floating Steel 14"x6.5"',
-            details: 'Free-floating for maximum sensitivity',
-            notes: 'Flexibility for different recording and live contexts',
-            change: CHANGE_TYPES.UPGRADE,
+            item: 'Tama Gene Hoglan Signature Snare 14"x8"',
+            details: 'Exceptionally deep 14"x8" signature model',
+            notes: 'First signature snare (2008) — built for thunderous power during his Testament and Dethklok era',
+            change: CHANGE_TYPES.SIGNATURE,
           },
           cymbals: {
             item: 'Sabian AAX Series',
             details: '14" AAX Studio hi-hats, 18"/19" crashes, 22" ride, 20" China',
             notes: 'AAX for brilliant, refined sound across multiple bands',
-            change: CHANGE_TYPES.SWITCH,
+            change: CHANGE_TYPES.UPGRADE,
           },
           hardware: {
             item: 'Pearl Eliminator Redline double pedal',
@@ -3035,22 +3035,92 @@ export const DRUMMER_EVOLUTION = {
         },
 
         estimatedCost: {
-          original: 22000,
-          inflationAdjusted: 22000,
+          original: 20000,
+          inflationAdjusted: 20000,
           currency: 'USD',
         },
 
         keyChanges: [
           'Joined Testament (2007) — career milestone',
           'Dethklok/Metalocalypse drum recordings (2006-2013)',
-          'Pearl Reference Pure endorsement upgrade',
+          'Tama Gene Hoglan Signature Snare launched (2008)',
           'Sabian AAX series adoption',
           'Los Cabos signature sticks refined through multiple iterations',
         ],
 
         quote: {
-          text: "Playing with Testament felt like coming home to thrash. Pearl Reference Pure is the best drum kit I've ever played.",
+          text: "Playing with Testament felt like coming home to thrash.",
           source: 'Rhythm Magazine Interview, 2012',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'hoglan-2018-pearl-era',
+        era: 'Pearl Reference Era',
+        years: '2018-Present',
+        startYear: 2018,
+        endYear: 2026,
+        description: 'Gene\'s 2018 switch to a Pearl Reference Pure kit — his current, fully evolved setup — across Testament, Dethklok, and Devin Townsend Project.',
+        albums: ['Titans of Creation (2020)'],
+        tours: ['Testament World Tours', 'Devin Townsend Project Tours'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Pearl Reference Pure',
+            details: 'All-maple: 22" kick (×2), 8"/10"/12"/14"/16" toms',
+            notes: 'Pearl\'s flagship Reference Pure — warmth and power combined',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          snare: {
+            item: 'Pearl Free-Floating Steel 14"x6.5"',
+            details: 'Free-floating for maximum sensitivity',
+            notes: 'Flexibility for different recording and live contexts',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          cymbals: {
+            item: 'Sabian AAX Series',
+            details: '14" AAX Studio hi-hats, 18"/19" crashes, 22" ride, 20" China',
+            notes: 'AAX for brilliant, refined sound across multiple bands',
+            change: null,
+          },
+          hardware: {
+            item: 'Pearl Eliminator Redline double pedal',
+            details: 'Latest Pearl pedal technology',
+            notes: 'Continued Pearl Eliminator loyalty — refined Redline version',
+            change: null,
+          },
+          sticks: {
+            item: 'Los Cabos Gene Hoglan Signature (Refined)',
+            details: 'Updated taper and weight over years of collaboration',
+            notes: 'Ongoing Los Cabos collaboration spanning 15+ years',
+            change: null,
+          },
+          heads: {
+            item: 'Evans UV2 / EMAD2',
+            details: 'UV2 on toms, EMAD2 on kicks',
+            notes: 'UV coating for consistent response and durability across global touring',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 22000,
+          inflationAdjusted: 22000,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Switched to Pearl Reference Pure endorsement (2018)',
+          'Titans of Creation (2020) with Testament',
+          'Sabian AAX cymbal setup continued unchanged',
+        ],
+
+        quote: {
+          text: "Pearl Reference Pure is the best drum kit I've ever played.",
+          source: 'Rhythm Magazine Interview',
         },
 
         videos: [],

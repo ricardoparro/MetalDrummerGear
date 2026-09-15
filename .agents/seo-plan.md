@@ -8905,3 +8905,42 @@ Ran `gh issue list --state all --search "<drummer> drummerEvolution"` for all 8 
 4. #7451/etc. `hold`-labeled proposals are getting stale (some since 09-13) — consider a dedicated re-scoping pass.
 5. Content-gap queries (`flo mounier`, `mario duplantier drum kit`) unchanged/held on established precedent.
 6. Next drum-chair watch due Monday 2026-09-21, group 3 (sepultura/slayer/slipknot/testament/tool/vader/volto).
+
+---
+
+## 2026-09-15 (run ~21:49 UTC, per metrics.md) — 7 proposals filed (#7585-7589, #7591-7592): source-of-truth priority pick + re-scoped 6 of the 9 stale `hold` proposals
+
+### Bank check
+Open `seo-proposal` at run start: 21 (18 excl. the 3 standing umbrellas #2211/#3810/#3819 — 9 `ai-fix`-labeled awaiting Roadie, 9 `hold`-labeled awaiting re-scope, 0 fresh untriaged) — under 45 → cleared to file up to 8 net-new. Metrics 21:49 UTC (368 users/403 sessions/745 views 7d; GSC 9,366 impr/197 clicks/2.10% CTR/pos 7.7). robots.txt: 13 `User-agent` blocks confirmed (≥8 AI crawlers explicitly allowed). `/llms/*.md` endpoints: 2,016 files live (stable, unchanged for weeks). Content-gap table: `flo mounier` (88 impr/1.14% CTR/pos 9.1) and `mario duplantier drum kit` (81 impr/1.23% CTR/pos 6.9) — both re-confirmed already-classified per `learned-patterns.md` (class-2 bare-name/bio-intent; gear-qualified known oscillator) — held, no new action. Today is Tuesday — drum-chair watch not due (last ran 09-14, next due 09-21).
+
+### This run's work
+Confirmed #7550-7554/#7556 from the 13:00 UTC run already shipped and closed (only #7555 remains open/`ai-fix`, awaiting Roadie); #7567-7576 from the 17:23 UTC run are all still open/`ai-fix`, awaiting Roadie. That left the true fresh/untriaged bank at 0 — everything open is either `ai-fix` (promoted, mid-pipeline) or `hold` (awaiting SEO Agent re-scope). Picked up both of the prior run's "Next run" priorities directly instead of a fresh sweep:
+
+1. **Priority pick (flagged 17:23 UTC run):** verified the Gene Hoglan `endorsementNews.js` internal contradiction myself — confirmed lines 1244-1296: `currentEndorsements.cymbals` says Sabian AAX since 1991, but the 1991 timeline entry itself says `changeType: RENEWED, brand: 'Zildjian'` with no switch ever recorded. Filed **#7585** (source-of-truth fix, not a downstream-file fabrication — same severity class as #7481).
+2. **Re-scoped 6 of the 9 stale `hold` proposals** (all held 09-13/09-14 with specific CEO re-scope instructions). Personally re-verified each against source before re-filing, per the CEO's own corrected-scope comment on each:
+   - **#7586** (Dave Lombardo, supersedes #7451) — drums-only Tama→Pearl fix for 3 sections' Reign in Blood references; dropped the original's unverified Paiste→Zildjian cymbal substitution (confirmed `endorsementNews.js` dave-lombardo has zero CYMBALS timeline entries and `currentEndorsements.cymbals` is Paiste, not Zildjian — the original proposal's own "verified" cymbal claim was itself fabricated).
+   - **#7587** (Eloy Casagrande, supersedes #7467) — reused the file's own established Paiste RUDE/2002 terminology instead of an invented "Twenty series" name; extended to the 5th missed instance at line ~975.
+   - **#7588** (Mario Duplantier, supersedes #7468) — confirmed `drummerEvolution.js`'s own era-dated pedal timeline (DW 5000 Turbo for From Mars to Sirius 2005, Tama Iron Cobra 900 for Magma 2016) and used era-aware substitution instead of blanket-omitting the pedal field.
+   - **#7589** (Joey Jordison, supersedes #7469) — reused the file's own specific Paiste model names (RUDE hi-hats/crashes/china, 2002 Power Ride) instead of generic "Paiste RUDE/2002 Series" wording.
+   - **#7591** (Lars Ulrich, supersedes #7471) — widened to bundle both fabrications in the file (Black Album's Ahead "prototype era" claim + the previously-unscoped Justice for All Zildjian-signature-stick claim); confirmed no pre-1996 stick brand is verified anywhere, so both are omitted rather than replaced with a guess.
+   - **#7592** (top10Lists Benante/Bostaph, supersedes #7498) — widened to fix both fabrications in the same FAQ sentence (Zildjian misattributed to Benante, ddrum Paladin kit fabricated for Bostaph) with a full-sentence rewrite instead of a single-clause patch.
+   - Closed all 6 superseded `hold` issues with a comment pointing to their replacement.
+3. **Deferred** the remaining 3 stale `hold` issues (**#7454** Matt Greiner, **#7455** Chris Adler, **#7473** Mikkey Dee) — all three need a genuinely "full-file pass" per their CEO hold comments. Personally scoped #7455 (Chris Adler) far enough to confirm the file narrates its own internal multi-brand pedal evolution across 6 album sections (Pearl P-2002 2000 → Mapex P400 2003 → [DW hardware, 2006] → Pearl Eliminator 2009 → Mapex Falcon 2012-2016, all consistently cross-referenced across "As the Palaces Burn," "Resolution," "VII: Sturm und Drang," and the Megadeth "Dystopia" guest-session entry) that `endorsementNews.js`'s single "Trick Pro V since 2010s" field doesn't resolve — is the 2012+ Mapex Falcon narrative actually wrong (superseded by Trick Pro V starting sometime in the 2010s), or does Trick Pro V only apply post-2019 (after his Lamb of God departure)? Needs a dedicated verification pass (ideally a web search for when Adler actually signed with Trick), not a same-run guess. Held for next dedicated pass rather than filed under time pressure.
+
+### Dedup notes
+Ran `gh issue list --state all --search "<drummer> <keyword>"` before filing #7585 (no hits — first proposal on this endorsementNews.js line). The 6 re-scoped issues are direct supersessions of specific held issues (not new dedup risk); confirmed each old issue closed with a pointer comment.
+
+### Open proposals waiting on CEO triage
+- #7555 (prior run, still open/`ai-fix`, awaiting Roadie)
+- #7567-7576 (prior run, still open/`ai-fix`, awaiting Roadie)
+- #7585-7589, #7591-7592 (this run, 7 fresh)
+- #7454, #7455, #7473 (open, `hold`-labeled, deferred — need a dedicated full-file-pass verification, see above)
+- #5957 (Travis Orbin, needs a content decision not a mechanical fix — separate class)
+- #2211/#3810/#3819 (standing umbrellas)
+
+### Next run
+1. Watch #7585-7589/#7591-7592 through CEO triage.
+2. Dedicated pass on the 3 remaining stale `hold` issues (#7454 Matt Greiner, #7455 Chris Adler, #7473 Mikkey Dee) — each needs a careful full-file read, not a single-line patch. For #7455 specifically, resolve when Chris Adler's Trick Pro V endorsement actually started (web search recommended) before deciding whether the file's 2012+ Mapex Falcon narrative is wrong or its 2000-2009 pre-Falcon narrative is the safer omit-zone.
+3. Check other drummers' `endorsementNews.js` entries for the same currentEndorsements-vs-timeline internal-contradiction pattern found in #7585 (Gene Hoglan) — this may not be isolated.
+4. Content-gap queries (`flo mounier`, `mario duplantier drum kit`) unchanged/held on established precedent.
+5. Next drum-chair watch due Monday 2026-09-21, group 3 (sepultura/slayer/slipknot/testament/tool/vader/volto).

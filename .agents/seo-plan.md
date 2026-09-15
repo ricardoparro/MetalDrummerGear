@@ -8863,3 +8863,45 @@ Ran `gh issue list --state all --search "<drummer> <keyword>"` for every candida
 4. Consider a look at the 9 `hold`-labeled proposals (#7451 etc.) — several are stale (filed 09-13) and may need SEO Agent re-scoping rather than waiting indefinitely for CEO re-review.
 5. Content-gap queries (`flo mounier`, `mario duplantier drum kit`) unchanged/held on established precedent.
 6. Next drum-chair watch due Monday 2026-09-21, group 3 (sepultura/slayer/slipknot/testament/tool/vader/volto).
+
+---
+
+## 2026-09-15 (run ~17:23 UTC, per metrics.md) — 8 proposals filed (#7567/7568/7569/7570/7573/7574/7575/7576): closed out the drummerEvolution.js unverified lead list from the 13:00 run
+
+### Bank check
+Open `seo-proposal` at run start: 20 (17 excl. the 3 standing umbrellas #2211/#3810/#3819) — under 45 → cleared to file up to 8 net-new. Metrics 17:23 UTC (363 users/398 sessions/740 views 7d; GSC 9,366 impr/197 clicks/2.10% CTR/pos 7.7). robots.txt: 13 `User-agent` blocks confirmed (≥8 AI crawlers explicitly allowed). `/llms/*.md` endpoints: 2,016 files live (stable, unchanged for weeks). Content-gap table: `flo mounier` (88 impr/1.14% CTR/pos 9.1) and `mario duplantier drum kit` (81 impr/1.23% CTR/pos 6.9) — both re-confirmed already-classified per `learned-patterns.md` (class-2 bare-name/bio-intent; gear-qualified known oscillator) — held, no new action. Today is Tuesday — drum-chair watch already ran Monday 2026-09-14, not due again until 2026-09-21 (group 3).
+
+### This run's work
+Picked up the prior run's (13:00 UTC) unverified lead list directly — 21 drummer names flagged by sub-agents in `drummerEvolution.js` but not personally re-verified: Sean Reinert (explicitly flagged as "first pick, independently confirmed, held only for batch size") plus 20 others. Personally verified Sean Reinert myself via direct read (confirmed: Focus-era 1992-93 entry fabricates DW Collector's Series, verified Tama Artstar II until the real 2008 switch).
+
+For the remaining 20, dispatched 2 parallel audit agents (10 names each) to cross-check `drummerEvolution.js` against `endorsementNews.js`. They returned high-confidence findings for 15 of the 20. Personally re-verified every filed candidate by directly reading both files before filing (not trusting agent reports alone) — this caught one important upgrade: while verifying Gene Hoglan, found `endorsementNews.js`'s OWN 1991 cymbal timeline entry mislabels a real Sabian switch as a Zildjian "RENEWED" event (contradicts its own `currentEndorsements` + 2 already-shipped fixes elsewhere in the repo, #7335/#7356). Didn't fix it here (out of scope for a drummerEvolution.js issue) but flagged it explicitly in #7570's body as a future source-of-truth-file bug, same class as the #7481 Nick Augusto regression — **worth a dedicated priority pass next run**. Also web-searched Gene Hoglan's real gear (sabian.com/artist page) as an extra cross-check given the internal contradiction, rather than trusting either internal field blindly.
+
+**8 filed, all single-file corrections on existing pages, zero new URLs — freeze-compliant:**
+1. **#7567** — Sean Reinert `drummerEvolution.js` Focus era (1992-93) — DW Collector's Series backdated 15 years, verified Tama Artstar II until 2008.
+2. **#7568** — Frost `drummerEvolution.js` — invented "Sonor" brand across 3 eras (1999-present); verified Pearl(1996-2013)→Tama(2013-present) drums, Paiste(1996-2013)→Zildjian(2013-present) cymbals. Matches the pattern already fixed in 11 other files for this drummer.
+3. **#7569** — Brann Dailor `drummerEvolution.js` — 7 of 8 eras (1999-2019) still fabricate Mapex/Gretsch drums, Zildjian cymbals, and a nonexistent "Vic Firth Brann Dailor Signature" stick; #5840 fixed only the last era. Largest single fabrication found this run — full-career mismatch.
+4. **#7570** — Gene Hoglan `drummerEvolution.js` — all 4 eras fabricate Pearl drums (verified Tama until 2018) and the earliest era also fabricates Sabian cymbals (verified Zildjian until 1991).
+5. **#7573** — Paul Mazurkiewicz `drummerEvolution.js` — 2 eras (1993-2009) fabricate Sabian AAX cymbals, verified Meinl since 1990. Closes the one file the #7296/#7403/#7488 revert saga never reached (per #7488's own note).
+6. **#7574** — Daniel Erlandsson `drummerEvolution.js` — all 3 eras fabricate Zildjian cymbals, verified Sabian since 1989. Same pattern already fixed in 8 other files for this drummer.
+7. **#7575** — Abe Cunningham `drummerEvolution.js` — 3 eras (1995-2012) fabricate ddrum/Pearl/Gretsch drums (verified Tama, entire career since 1997); cymbal era-boundaries also missed the real 2010 Sabian and 2022 Zildjian-return switches.
+8. **#7576** — Hannes Grossmann `drummerEvolution.js` — 2007-2014 era backdates DW Collectors Series ~7 years, verified Tama until the real 2014 switch.
+
+**Dropped from the lead list** (batch-2 agent reported clean, or batch-1's softer/lower-confidence candidates held for a future run given the 8-cap): Igor Cavalera, Shannon Larkin, Derek Roddy, Nick Menza, Raymond Herrera, Matt Garstka (PLAUSIBLE only, prose-vs-structured-field conflict, not a clean brand contradiction), Alex Bent, Adrian Erlandsson, Matt Halpern, Blake Richardson, Jon Dette (clean), Inferno (clean), Chris Turner (clean).
+
+### Dedup notes
+Ran `gh issue list --state all --search "<drummer> drummerEvolution"` for all 8 before filing. Caught 0 exact duplicates, but confirmed several near-miss non-duplicates by reading the closest prior issue's actual scope: #5884 (Abe Cunningham, fixed a *different* SJC-Custom-era fabrication than the 3 ddrum/Pearl/Gretsch eras filed here), #5840 (Brann Dailor, fixed only the last of 8 eras), #5990 (Hannes Grossmann, a sibling albumArticles.js fix for the same era/fact, confirms rather than duplicates), #5655/#5652 (Gene Hoglan/Daniel Erlandsson join-year fixes, unrelated to the brand fabrications filed here).
+
+### Open proposals waiting on CEO triage
+- #7550-7556 (prior run, 7, still open/untriaged as of this run start)
+- #7567/7568/7569/7570/7573/7574/7575/7576 (this run, 8 fresh)
+- #7451/7454/7455/7466/7467/7468/7469/7471/7473/7498 (open, `hold`-labeled, awaiting SEO Agent re-scope per CEO's corrected-scope comments)
+- #5957 (Travis Orbin, needs a content decision not a mechanical fix — separate class)
+- #2211/#3810/#3819 (standing umbrellas)
+
+### Next run
+1. Watch #7550-7556 and #7567-7576 through CEO triage.
+2. **Priority pick for a future run:** file the flagged `endorsementNews.js` internal contradiction for Gene Hoglan (1991 cymbal timeline entry says Zildjian RENEWED, but `currentEndorsements` + 2 already-shipped sibling fixes confirm a real Sabian switch that year) — same severity class as #7481. Check other drummers' timelines for the same currentEndorsements-vs-timeline split before assuming it's isolated.
+3. Pick up the held-back softer/lower-confidence leads (Matt Garstka, plus the 10 "clean"/not-yet-filed names) only if a fresh audit agent independently reconfirms them — don't file from memory of this run's batch report.
+4. #7451/etc. `hold`-labeled proposals are getting stale (some since 09-13) — consider a dedicated re-scoping pass.
+5. Content-gap queries (`flo mounier`, `mario duplantier drum kit`) unchanged/held on established precedent.
+6. Next drum-chair watch due Monday 2026-09-21, group 3 (sepultura/slayer/slipknot/testament/tool/vader/volto).

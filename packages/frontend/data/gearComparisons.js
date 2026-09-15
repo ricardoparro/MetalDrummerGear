@@ -447,7 +447,6 @@ export const gearComparisons = {
           { name: 'Vinnie Paul', band: 'Pantera', series: 'AAX/HHX', note: 'Groove metal legend (RIP)' },
           { name: 'Mike Portnoy', band: 'Dream Theater', series: 'HHX', note: 'Prog metal icon' },
           { name: 'Ray Luzier', band: 'Korn', series: 'HHX Evolution', note: 'Nu-metal precision' },
-          { name: 'Scott Travis', band: 'Judas Priest', series: 'HHX/AAX', note: 'Power metal speed' },
           { name: 'Richard Christy', band: 'Death/Charred Walls', series: 'HHX', note: 'Death metal' },
         ],
         bestFor: 'Progressive metal, djent, groove metal, death metal',

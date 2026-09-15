@@ -398,7 +398,6 @@ export const gearComparisons = {
           { name: 'Lars Ulrich', band: 'Metallica', series: 'A Custom', note: 'Thrash metal pioneer' },
           { name: 'Mario Duplantier', band: 'Gojira', series: 'K Custom/A Custom', note: 'Modern prog metal' },
           { name: 'Jay Weinberg', band: 'Slipknot', series: 'K/A Custom', note: 'Extreme metal' },
-          { name: 'Hellhammer', band: 'Mayhem/Dimmu Borgir', series: 'A Custom/Z Custom', note: 'Black metal' },
           { name: 'Abe Cunningham', band: 'Deftones', series: 'A Custom/K Custom', note: 'Alternative metal' },
           { name: 'Ben Koller', band: 'Converge', series: 'K/A Custom', note: 'Hardcore/metal' },
           { name: 'Art Cruz', band: 'Lamb of God', series: 'Various', note: 'Groove metal' },
@@ -474,7 +473,7 @@ For metal drummers, the choice often comes down to: do you want the 400-year leg
         breakdown: [
           { genre: 'Thrash Metal', zildjian: '★★★★★', sabian: '★★★★☆', notes: 'A Custom was literally designed for this. Both work, Zildjian has more legacy picks.' },
           { genre: 'Death Metal', zildjian: '★★★★☆', sabian: '★★★★★', notes: 'Gene Hoglan\'s AAX choice influential. Compression Hi-Hats game-changing for blast beats.' },
-          { genre: 'Black Metal', zildjian: '★★★★★', sabian: '★★★☆☆', notes: 'Hellhammer, Frost, most black metal drummers choose Zildjian for cold brightness.' },
+          { genre: 'Black Metal', zildjian: '★★★★★', sabian: '★★★☆☆', notes: 'Frost (Zildjian A series since 2013) and most black metal drummers choose Zildjian for cold brightness.' },
           { genre: 'Progressive Metal', zildjian: '★★★★★', sabian: '★★★★★', notes: 'Tied. Mario Duplantier (Zildjian K) vs Mike Portnoy (Sabian HHX) — both legendary.' },
           { genre: 'Groove Metal', zildjian: '★★★★☆', sabian: '★★★★★', notes: 'Vinnie Paul established the Sabian groove metal sound.' },
           { genre: 'Djent', zildjian: '★★★★☆', sabian: '★★★★★', notes: 'Tomas Haake\'s Meshuggah setup defined the genre. Sabian dominates here.' },

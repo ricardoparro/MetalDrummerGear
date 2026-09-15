@@ -151,14 +151,6 @@ export const DRUMMERS_BY_KIT = {
   // Issue #2406 (split 4/4 of #2215): Pearl Masters Maple page (/gear/pearl/masters-maple/)
   'pearl/masters-maple': [
     {
-      slug: 'flo-mounier',
-      name: 'Flo Mounier',
-      band: 'Cryptopsy',
-      yearsUsed: '2000–present',
-      config: 'Pearl Masters Maple (22"×18" Bass, 10"×8", 12"×9", 14"×12", 16"×14" Toms)',
-      endorsee: true,
-    },
-    {
       slug: 'paul-mazurkiewicz',
       name: 'Paul Mazurkiewicz',
       band: 'Cannibal Corpse',

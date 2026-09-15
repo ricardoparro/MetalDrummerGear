@@ -4715,7 +4715,7 @@ This guide covers Nicko's core gallop technique, his British Drum Co. current se
       drumKit: {
         brand: 'British Drum Co.',
         model: 'British Drum Co. kit (current, since 2019) / Sonor SQ2 (2010-2019)',
-        shells: 'Maple (current) / Ludwig Vistalite (1982-1983)',
+        shells: 'Maple (current) / Maple (2010-2019 Sonor SQ2 era)',
         finish: 'Custom Iron Maiden configurations',
         config: {
           kick: '22" x 14" Single Bass Drum',
@@ -4723,7 +4723,7 @@ This guide covers Nicko's core gallop technique, his British Drum Co. current se
           toms: ['10" x 8" Rack Tom', '12" x 9" Rack Tom'],
           floorToms: ['16" x 14" Floor Tom', '18" x 16" Floor Tom']
         },
-        description: "Nicko has been a British Drum Co. artist since 2019, playing a single bass drum configuration built around his kit. He still uses his Sonor Nicko McBrain Signature snare within the current BDC setup. Before British Drum Co., he spent 2010-2019 on Sonor SQ2 kits, and earlier played Ludwig Vistalite (Piece of Mind era) and Premier Signia.",
+        description: "Nicko has been a British Drum Co. artist since 2019, playing a single bass drum configuration built around his kit. He still uses his Sonor Nicko McBrain Signature snare within the current BDC setup. Before British Drum Co., he spent 2010-2019 on Sonor SQ2 kits.",
         affiliateNote: "No consumer-level British Drum Co. equivalent is confirmed yet; Sonor SQ1 or Sonor AQ2 remain the closest match to his 2010-2019 tone. Note: single bass drum configuration only — no double pedal in Nicko's setup."
       },
       snare: {
@@ -4865,7 +4865,7 @@ This guide covers Nicko's core gallop technique, his British Drum Co. current se
       },
       {
         question: "What drum kit does Nicko McBrain use currently?",
-        answer: "Nicko McBrain currently plays British Drum Co., an endorsement he took up in 2019. He still uses his Sonor Nicko McBrain Signature snare within that kit. Before British Drum Co., he played Sonor SQ2 kits from 2010-2019, and earlier in his career used Ludwig Vistalite (Piece of Mind era, 1983) and Premier Signia kits."
+        answer: "Nicko McBrain currently plays British Drum Co., an endorsement he took up in 2019. He still uses his Sonor Nicko McBrain Signature snare within that kit. Before British Drum Co., he played Sonor SQ2 kits from 2010-2019."
       },
       {
         question: "What cymbals does Nicko McBrain use?",

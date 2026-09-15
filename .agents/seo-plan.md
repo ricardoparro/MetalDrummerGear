@@ -8788,3 +8788,41 @@ Dispatched a research agent for 14-day-window searches on all 7 group-2 bands. *
 3. Use the resynced 4-group/28-band drum-chair rotation going forward (see roster resync note above); next sweep due Monday 2026-09-21, group 3 (sepultura/slayer/slipknot/testament/tool/vader/volto).
 4. Keep watching Periphery/Matt Halpern/Anup Sastry — currently temporary, could become a real drum-chair change.
 5. Content-gap query (`flo mounier`) unchanged/held on established precedent.
+
+---
+
+## 2026-09-15 (run ~UTC, per metrics.md 05:34 UTC) — 8 proposals filed (#7539-7546): swept less-audited data files instead of the usual suspects, exhausted by weeks of prior batches
+
+### Bank check
+Open `seo-proposal` at run start: 14 (11 excl. the 3 standing umbrellas #3810/#3819/#2211) — well under 45 → cleared to file up to 8 net-new. Metrics 05:34 UTC (332 users/363 sessions/669 views 7d; GSC 7,824 impr/172 clicks/2.20% CTR/pos 7.7). robots.txt: 13 `User-agent` blocks confirmed in `api/robots.js` (≥8 AI crawlers explicitly allowed). `/llms/*.md` endpoints: 2,016 files live (stable, unchanged from last several runs). Content-gap table: `flo mounier` (71 impr/1.41% CTR/pos 9.1) and `mario duplantier drum kit` (66 impr/1.52% CTR/pos 6.8) — both re-confirmed already-classified per `learned-patterns.md` (flo mounier = class-2 bare-name/bio-intent, no CTR fix converts it; mario duplantier drum kit = gear-qualified known oscillator, extensively actioned) — held, no new action. Today is Tuesday — drum-chair watch already ran Monday 2026-09-14 (roster resync + group 2 sweep, 0 changes), not due again until Monday 2026-09-21 group 3.
+
+### This run's work
+The dominant productive pattern for weeks has been gear-fact-vs-`endorsementNews.js` fabrication fixes in `albumArticles.js`/`top10Lists.js`/`drummerComparisons.js`/`gearPriceHistory.js`/`licks/*.js`/`pedals.js`/`cymbalSetups.js`/`snares.js`/`drummersByKit.js`/`soundLikeGuides.js`/`extendedBios.js` — all extensively swept across dozens of prior runs. Rather than re-scan those, dispatched 2 parallel research agents to sweep **less-audited data files** (`gearComparisons.js`, `gearNews.js`, `kitQuizData.js`, `evolutionTimeline.js`, `drummerEvolution.js`, `signatureGear.js`, `drummersByKit.js`) for the same bug class, explicitly steering away from ~30 already-heavily-fixed drummer names.
+
+Agents returned 10 verified candidates; personally re-verified every one via direct grep/read against both the fabricated-claim file and `endorsementNews.js` before filing (not just trusting the reports), and ran `gh issue list --state all --search` per candidate. Dropped 2: Vinnie Paul (`drummerEvolution.js:5159` — real bug, but the era-block fix is entangled with an adjacent 1996-2018 entry that itself skips his verified 1996-2008 Pearl period entirely; too tangled for an atomic single-fact issue, holding for a future dedicated pass) and Matt Halpern (`evolutionTimeline.js:709` — agent's own evidence was softer, only a vague `'2010s'` `since` field rather than a dated timeline entry; held per verified-only rule).
+
+**8 filed, all single-file/single-field text corrections on existing pages, zero new URLs — freeze-compliant:**
+1. **#7539** — Jay Weinberg `gearNews.js` — fabricates a "adds Paiste 2002 Ride" news item (file's own comment flags this section "hypothetical") — verified continuous Zildjian-only since 2014.
+2. **#7540** — Ray Luzier `gearComparisons.js:449,499` — "HHX Evolution" — verified Sabian AAX Series since 2013 (distinct from #6978, which fixed a different line/list in the same file).
+3. **#7541** — Scott Travis `gearComparisons.js:450` — wrongly listed under Sabian HHX/AAX — verified continuous Paiste RUDE/2002 since 1987 (distinct from #7013, different line/list).
+4. **#7542** — Hellhammer `gearComparisons.js:401,477` — wrongly listed as Zildjian (2 locations) — verified continuous Paiste RUDE since 1988.
+5. **#7543** — Tomas Haake `kitQuizData.js:71` — quiz "correct answer" cymbals field says Meinl Byzance & MB20 — verified Sabian HHX & AAX (confirmed #7022 fixed this question's `sticks` field only, never touched `cymbals`).
+6. **#7544** — Tomas Haake `evolutionTimeline.js:460` — dates a Sonor drum brand to 1993, 12 years before his verified first-ever endorsement (2005, `from: null`).
+7. **#7545** — Navene Koperweis `drummersByKit.js:146` — DW tenure dated "2012–present" — verified 2015 (was Tama Birch Silverstar before).
+8. **#7546** — Flo Mounier `drummersByKit.js:157-158` — listed under Pearl Masters Maple "2000–present" — verified current brand is Tama Starclassic Maple since 2012 (Pearl ended 2005, and the model name itself was never "Masters Maple").
+
+### Dedup notes
+Ran `gh issue list --state all --search "<drummer> <file/brand keyword>"` for all 10 raw candidates before filing. Caught 0 exact duplicates but confirmed 3 near-miss non-duplicates by reading the closest prior issue's actual body/scope (not just title): #6978 (Ray Luzier, different line), #7013 (Scott Travis, different line), #7022 (Tomas Haake kitQuizData, different field in the same question).
+
+### Open proposals waiting on CEO triage
+- #7539-7546 (this run, 8 fresh)
+- #7495, #7455 (open, filed by a prior run — Chris Adler licks/albumArticles Mapex Falcon fabrication, still not triaged as of this run)
+- #7498, #7537, #7538 (open, filed by prior runs, not yet triaged as of this run)
+- #3810/#3819/#2211 (standing umbrellas)
+
+### Next run
+1. Watch #7539-7546 through CEO triage.
+2. Pick up Vinnie Paul `drummerEvolution.js` (1992-1996 era wrongly says Pearl, verified Tama; adjacent 1996-2018 entry also skips his verified 1996-2008 Pearl period entirely) as a dedicated, carefully-scoped issue — needs two-entry coordination, not a blind single-field swap.
+3. `drummerEvolution.js` (22K lines) and `evolutionTimeline.js` appear to have never been systematically swept for this bug class before this run — good seam for the next audit agent once #7539-7546 clear.
+4. Content-gap queries (`flo mounier`, `mario duplantier drum kit`) unchanged/held on established precedent.
+5. Next drum-chair watch due Monday 2026-09-21, group 3 (sepultura/slayer/slipknot/testament/tool/vader/volto).

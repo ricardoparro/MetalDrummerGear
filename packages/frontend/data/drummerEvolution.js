@@ -8768,23 +8768,23 @@ export const DRUMMER_EVOLUTION = {
         years: '1995–1999',
         startYear: 1995,
         endYear: 1999,
-        description: 'With Adrenaline (1995) and Around the Fur (1997), the Deftones broke into the mainstream. Cunningham\'s drumming became a defining feature of the nu-metal era — powerful, groove-forward, and more dynamic than his peers. He upgraded to a larger ddrum setup and began developing the syncopated pocket grooves that would define his mature style.',
+        description: 'With Adrenaline (1995) and Around the Fur (1997), the Deftones broke into the mainstream. Cunningham\'s drumming became a defining feature of the nu-metal era — powerful, groove-forward, and more dynamic than his peers. He signed with Tama in 1997, debuting the Starclassic kit on Around the Fur — the start of a Tama relationship that has lasted his entire career — and began developing the syncopated pocket grooves that would define his mature style.',
         albums: ['Adrenaline (1995)', 'Around the Fur (1997)'],
         tours: ['Adrenaline Tour 1995–1996', 'Around the Fur Tour 1997–1999', 'Warped Tour appearances', 'Ozzfest 1998'],
         image: null,
 
         gear: {
           drums: {
-            item: 'ddrum Dios Series (expanded)',
+            item: 'Tama Starclassic',
             details: 'Maple shells: 22" kick, 10"/12"/13"/16" toms',
-            notes: 'Expanded tom configuration for more tonal range as the Deftones\' sound grew more sophisticated on Around the Fur.',
-            change: CHANGE_TYPES.UPGRADE,
+            notes: 'Signed with Tama in 1997, debuting the Starclassic kit on Around the Fur — the start of a Tama relationship documented as lasting his entire career.',
+            change: CHANGE_TYPES.SWITCH,
           },
           snare: {
-            item: 'ddrum Steel 14"×6.5"',
-            details: 'Deeper steel for more crack and weight',
-            notes: 'Deeper snare shell for heavier projection on arena-ready recordings and the Ozzfest stage.',
-            change: CHANGE_TYPES.UPGRADE,
+            item: 'Tama Starclassic 14"×6.5"',
+            details: 'Deeper maple shell for more crack and weight',
+            notes: 'Matching Starclassic snare adopted alongside the 1997 Tama signing, for heavier projection on arena-ready recordings and the Ozzfest stage.',
+            change: CHANGE_TYPES.SWITCH,
           },
           cymbals: {
             item: 'Zildjian A Custom Series',
@@ -8821,6 +8821,7 @@ export const DRUMMER_EVOLUTION = {
         keyChanges: [
           'Adrenaline (1995) — major label debut; Deftones break into mainstream',
           'Around the Fur (1997) — nu-metal breakthrough; "My Own Summer" and "Be Quiet and Drive" become anthems',
+          'Signed with Tama in 1997 — a relationship that has lasted his entire career',
           'Expanded to double kick configuration',
           'Ozzfest 1998 slot — exposure to massive audiences',
           'Groove-forward drumming style distinguishes Cunningham from heavier nu-metal peers',
@@ -8840,23 +8841,23 @@ export const DRUMMER_EVOLUTION = {
         years: '2000–2003',
         startYear: 2000,
         endYear: 2003,
-        description: 'White Pony (2000) is the Deftones\' artistic masterpiece — and Cunningham\'s drumming was central to its success. He transitioned to Pearl Custom hardware and developed the spacious, atmospheric drumming approach that made White Pony one of the most critically acclaimed metal albums of its era. This era marked a decisive shift from nu-metal aggression toward atmospheric alt-metal sophistication.',
+        description: 'White Pony (2000) is the Deftones\' artistic masterpiece — and Cunningham\'s drumming was central to its success. Still on his Tama Starclassic kit, he developed the spacious, atmospheric drumming approach that made White Pony one of the most critically acclaimed metal albums of its era. This era marked a decisive shift from nu-metal aggression toward atmospheric alt-metal sophistication.',
         albums: ['White Pony (2000)', 'B-Sides & Rarities (2005 — many recorded during this period)'],
         tours: ['White Pony World Tour 2000–2002', 'Various festival headlining dates'],
         image: null,
 
         gear: {
           drums: {
-            item: 'Pearl Custom Series',
+            item: 'Tama Starclassic',
             details: 'Maple shells: 22" kick, 10"/12"/14"/16" toms',
-            notes: 'Switched from ddrum to Pearl Custom — the maple shells gave Cunningham the warmer, more resonant tone that suited White Pony\'s atmospheric arrangements and Stickles\'s layered production.',
-            change: CHANGE_TYPES.SWITCH,
+            notes: 'Continued on the Tama Starclassic signed in 1997 — the warm maple shells suited White Pony\'s atmospheric arrangements and Stickles\'s layered production.',
+            change: null,
           },
           snare: {
-            item: 'Pearl Free-Floating Brass 14"×6.5"',
+            item: 'Tama Starclassic Brass 14"×6.5"',
             details: 'Brass shell, warm and articulate',
-            notes: 'Pearl Free-Floating brass snare — warm, full tone that supported the dynamic range of White Pony from whisper-quiet passages to full-volume peaks.',
-            change: CHANGE_TYPES.SWITCH,
+            notes: 'Matching Tama brass snare — warm, full tone that supported the dynamic range of White Pony from whisper-quiet passages to full-volume peaks.',
+            change: CHANGE_TYPES.UPGRADE,
           },
           cymbals: {
             item: 'Zildjian K Series',
@@ -8892,7 +8893,7 @@ export const DRUMMER_EVOLUTION = {
 
         keyChanges: [
           'White Pony (2000) — critically acclaimed masterpiece; Grammy Award for Best Metal Performance ("Elite")',
-          'Decisive transition from ddrum to Pearl Custom',
+          'Continued on the Tama Starclassic signed in 1997 — no drum brand change for White Pony',
           'Switched from A Custom to Zildjian K — darker, more atmospheric tone',
           'Atmospheric, dynamic drumming replaces nu-metal aggression as defining approach',
           'White Pony establishes Deftones as a critical darling beyond genre categorization',
@@ -8907,28 +8908,28 @@ export const DRUMMER_EVOLUTION = {
       },
 
       {
-        id: 'abe-cunningham-2003-diamond-eyes',
-        era: 'Saturday Night Wrist / Diamond Eyes Era',
-        years: '2003–2012',
+        id: 'abe-cunningham-2003-saturday-night-wrist',
+        era: 'Self-Titled / Saturday Night Wrist Era',
+        years: '2003–2010',
         startYear: 2003,
-        endYear: 2012,
-        description: 'Following the grief of Chi Cheng\'s accident (2008) and the turbulent Saturday Night Wrist sessions (2006), Cunningham rebuilt his setup around a Gretsch USA Custom kit. Diamond Eyes (2010) — written and recorded rapidly in the wake of Chi\'s accident — showed Cunningham at his most focused and groove-driven. The Gretsch USA Custom\'s warm maple tone and his refined Zildjian K cymbal setup defined this chapter.',
-        albums: ['Deftones (2003)', 'Saturday Night Wrist (2006)', 'Diamond Eyes (2010)'],
-        tours: ['Saturday Night Wrist Tour 2006–2007', 'Diamond Eyes World Tour 2010–2011'],
+        endYear: 2010,
+        description: 'Through the self-titled Deftones (2003) and the turbulent Saturday Night Wrist sessions (2006), Cunningham stayed on his Tama Starclassic kit while refining his cymbal voice to Zildjian K Custom. Chi Cheng\'s near-fatal car accident (November 2008) cast a shadow over the band heading into what would become Diamond Eyes.',
+        albums: ['Deftones (2003)', 'Saturday Night Wrist (2006)'],
+        tours: ['Saturday Night Wrist Tour 2006–2007'],
         image: null,
 
         gear: {
           drums: {
-            item: 'Gretsch USA Custom',
+            item: 'Tama Starclassic',
             details: 'Maple shells: 22" kick, 10"/12"/14"/16" toms',
-            notes: 'Switched to Gretsch USA Custom — warm, resonant maple shells gave Cunningham a slightly looser, more organic feel perfectly suited to Diamond Eyes\'s groove-forward approach.',
-            change: CHANGE_TYPES.SWITCH,
+            notes: 'Continued on the Tama Starclassic signed in 1997 — no drum brand change through the self-titled record and Saturday Night Wrist.',
+            change: null,
           },
           snare: {
-            item: 'Gretsch USA Custom 14"×6.5" Maple',
+            item: 'Tama Starclassic 14"×6.5" Maple',
             details: 'Maple shell, warm and full',
-            notes: 'Matching Gretsch maple snare — warm, full-bodied crack that sat perfectly in Diamond Eyes\'s dense mix.',
-            change: CHANGE_TYPES.SWITCH,
+            notes: 'Matching Tama maple snare — warm, full-bodied crack that sat well in this era\'s denser mixes.',
+            change: null,
           },
           cymbals: {
             item: 'Zildjian K Custom Series',
@@ -8939,7 +8940,7 @@ export const DRUMMER_EVOLUTION = {
           hardware: {
             item: 'DW 9000 Double Pedal',
             details: 'Spring-loaded double pedal, smooth action',
-            notes: 'DW 9000 for smooth, powerful double bass response across Diamond Eyes\'s harder-driving material.',
+            notes: 'DW 9000 for smooth, powerful double bass response across this era\'s harder-driving material.',
             change: CHANGE_TYPES.SWITCH,
           },
           sticks: {
@@ -8951,8 +8952,74 @@ export const DRUMMER_EVOLUTION = {
           heads: {
             item: 'Remo Emperor on toms, Powerstroke 3 on kick',
             details: 'Standard configuration for touring kit',
-            notes: 'Powerstroke 3 kick head for more focused attack across Diamond Eyes\'s heavy sections.',
+            notes: 'Powerstroke 3 kick head for more focused attack across this era\'s heavier sections.',
             change: CHANGE_TYPES.UPGRADE,
+          },
+        },
+
+        estimatedCost: {
+          original: 9000,
+          inflationAdjusted: 15000,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Deftones (2003) — self-titled album continues the Tama Starclassic setup',
+          'Saturday Night Wrist (2006) — turbulent recording sessions',
+          'Chi Cheng accident (November 2008) — traumatic context heading into Diamond Eyes',
+          'K Custom cymbal upgrade for more sophisticated tonal palette',
+        ],
+
+        videos: [],
+      },
+
+      {
+        id: 'abe-cunningham-2010-diamond-eyes',
+        era: 'Diamond Eyes Era',
+        years: '2010–2012',
+        startYear: 2010,
+        endYear: 2012,
+        description: 'Diamond Eyes (2010) — written and recorded rapidly in the wake of Chi Cheng\'s accident — showed Cunningham at his most focused and groove-driven, still on the same Tama Starclassic kit. He moved to a Sabian HHX cymbal setup for the album, carrying that darker HHX voice through the rest of this era.',
+        albums: ['Diamond Eyes (2010)'],
+        tours: ['Diamond Eyes World Tour 2010–2011'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Tama Starclassic',
+            details: 'Maple shells: 22" kick, 10"/12"/14"/16" toms',
+            notes: 'Continued on the same Tama Starclassic kit for Diamond Eyes — no drum brand change accompanied the cymbal switch.',
+            change: null,
+          },
+          snare: {
+            item: 'Tama Starclassic 14"×6.5" Maple',
+            details: 'Maple shell, warm and full',
+            notes: 'Matching Tama maple snare, unchanged for Diamond Eyes.',
+            change: null,
+          },
+          cymbals: {
+            item: 'Sabian HHX Series',
+            details: '14" HHX hi-hats, 16"/18" HHX crashes, 21" HHX ride',
+            notes: 'Moved to a Sabian HHX setup for Diamond Eyes (2010) — a darker, more focused voice for the album\'s groove-forward material.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          hardware: {
+            item: 'DW 9000 Double Pedal',
+            details: 'Spring-loaded double pedal, smooth action',
+            notes: 'Continued with the DW 9000 for smooth, powerful double bass response across Diamond Eyes\'s harder-driving material.',
+            change: null,
+          },
+          sticks: {
+            item: 'Vater 5A',
+            details: 'Hickory, similar feel to Vic Firth 5A',
+            notes: 'Continued Vater endorsement while maintaining the 5A weight class preference.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo Emperor on toms, Powerstroke 3 on kick',
+            details: 'Standard configuration for touring kit',
+            notes: 'Powerstroke 3 kick head continued for more focused attack across Diamond Eyes\'s heavy sections.',
+            change: null,
           },
         },
 
@@ -8963,11 +9030,9 @@ export const DRUMMER_EVOLUTION = {
         },
 
         keyChanges: [
-          'Transitioned to Gretsch USA Custom — distinct organic warmth vs. Pearl',
-          'Chi Cheng accident (November 2008) — traumatic context for Diamond Eyes sessions',
           'Diamond Eyes (2010) — critically acclaimed; recorded rapidly as a tribute to Chi',
+          'Switched from Zildjian K Custom to Sabian HHX cymbals for Diamond Eyes',
           'Groove-forward drumming approach reaches full maturity on Diamond Eyes',
-          'K Custom cymbal upgrade for more sophisticated tonal palette',
         ],
 
         quote: {
@@ -8981,10 +9046,10 @@ export const DRUMMER_EVOLUTION = {
       {
         id: 'abe-cunningham-2012-koi-no-yokan',
         era: 'Koi No Yokan / Gore / Ohms Era',
-        years: '2012–Present',
+        years: '2012–2022',
         startYear: 2012,
-        endYear: 2026,
-        description: 'The modern Deftones era — Koi No Yokan (2012), Gore (2016), and Ohms (2020) represent the band\'s most compositionally sophisticated and sonically adventurous work. Cunningham settled into a Tama Starclassic Bubinga kit and refined his electronic augmentation with Roland sampling pads. His drumming on Ohms in particular is widely praised for its restraint, groove, and cinematic scope.',
+        endYear: 2022,
+        description: 'The modern Deftones era — Koi No Yokan (2012), Gore (2016), and Ohms (2020) represent the band\'s most compositionally sophisticated and sonically adventurous work. Cunningham settled into a Tama Starclassic Bubinga kit, carried his Sabian HHX cymbal setup through the whole span, and refined his electronic augmentation with Roland sampling pads. His drumming on Ohms in particular is widely praised for its restraint, groove, and cinematic scope.',
         albums: ['Koi No Yokan (2012)', 'Gore (2016)', 'Ohms (2020)'],
         tours: ['Koi No Yokan Tour 2012–2013', 'Gore Tour 2016–2017', 'Ohms Tour 2021–2022'],
         image: null,
@@ -8999,14 +9064,14 @@ export const DRUMMER_EVOLUTION = {
           snare: {
             item: 'Tama Starclassic matching snare',
             details: 'Matching Starclassic Bubinga shell; no separate model documented',
-            notes: 'Snare matches the Starclassic Bubinga kit — Tama does not publicly document a distinct snare model for his current rig.',
+            notes: 'Snare matches the Starclassic Bubinga kit — Tama does not publicly document a distinct snare model for this rig.',
             change: CHANGE_TYPES.SWITCH,
           },
           cymbals: {
-            item: 'Zildjian K Custom & A Custom Series',
-            details: '14" K Custom hi-hats, 18"/20" K Custom crashes, 22" K Custom ride, 19" A Custom China',
-            notes: 'Long-running Zildjian K Custom/A Custom mix, corroborated by DRUM! Magazine, MusicRadar, and Equipboard for the current Deftones era.',
-            change: CHANGE_TYPES.UPGRADE,
+            item: 'Sabian HHX Series',
+            details: '14" HHX hi-hats, 18"/20" HHX crashes, 22" HHX ride, 19" HHX China',
+            notes: 'Carried the Sabian HHX setup adopted for Diamond Eyes (2010) through Koi No Yokan, Gore, and Ohms.',
+            change: null,
           },
           hardware: {
             item: 'Tama Iron Cobra Power Glide Twin Pedal (HP900PTW) + Iron Cobra Lever Glide Hi-Hat (HH905)',
@@ -9017,13 +9082,13 @@ export const DRUMMER_EVOLUTION = {
           sticks: {
             item: 'Pro-Mark',
             details: 'Pro-Mark stick endorsement',
-            notes: 'Corroborated by DRUM! Magazine, MusicRadar, and Equipboard for the current Deftones era.',
+            notes: 'Corroborated by DRUM! Magazine, MusicRadar, and Equipboard for this era.',
             change: CHANGE_TYPES.SWITCH,
           },
           heads: {
             item: 'Remo Powerstroke P3 / Pinstripe / Ambassador',
             details: 'Powerstroke P3 on kick, Pinstripe and Ambassador on toms/snare',
-            notes: 'Confirmed by Remo\'s official artist page across the modern era.',
+            notes: 'Confirmed by Remo\'s official artist page across this era.',
             change: CHANGE_TYPES.UPGRADE,
           },
           electronics: {
@@ -9046,7 +9111,7 @@ export const DRUMMER_EVOLUTION = {
           'Gore (2016) — dark, atmospheric direction; Cunningham\'s most restrained and sophisticated playing',
           'Ohms (2020) — pandemic-era record; cinematic scope and groove sophistication',
           'Roland SPD-SX added for live atmospheric textures',
-          'Tama Iron Cobra hardware platform paired with Zildjian A Custom/K Custom cymbals',
+          'Tama Iron Cobra hardware platform paired with Sabian HHX cymbals',
         ],
 
         quote: {
@@ -9056,20 +9121,91 @@ export const DRUMMER_EVOLUTION = {
 
         videos: [],
       },
+
+      {
+        id: 'abe-cunningham-2022-present',
+        era: 'Zildjian Return Era',
+        years: '2022–Present',
+        startYear: 2022,
+        endYear: 2026,
+        description: 'In the years following the Ohms touring cycle, Cunningham returned to a Zildjian setup — pairing brighter A Custom crashes with a darker K Custom ride and hi-hats — after twelve years on Sabian HHX. He remains on the same Tama Starclassic Bubinga kit and Tama Iron Cobra hardware throughout.',
+        albums: ['Ohms (2020) touring cycle'],
+        tours: ['Ohms Tour 2021–2022'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Tama Starclassic Bubinga (Egyptian Night Mist)',
+            details: 'Bubinga shells in Egyptian Night Mist finish',
+            notes: 'Documented Tama artist endorsement — no change from the prior era.',
+            change: null,
+          },
+          snare: {
+            item: 'Tama Starclassic matching snare',
+            details: 'Matching Starclassic Bubinga shell; no separate model documented',
+            notes: 'Snare matches the Starclassic Bubinga kit, unchanged.',
+            change: null,
+          },
+          cymbals: {
+            item: 'Zildjian A Custom / K Custom hybrid',
+            details: '14" K Custom hi-hats, 18"/20" K Custom crashes, 22" K Custom ride, 19" A Custom China',
+            notes: 'Returned to a Zildjian hybrid setup after twelve years on Sabian HHX, pairing brighter A Custom crashes with a darker K Custom ride and hi-hats — corroborated by DRUM! Magazine, MusicRadar, and Equipboard for the current Deftones era. He also debuted a Zildjian Abe Cunningham Artist Series signature stick alongside the cymbal return.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          hardware: {
+            item: 'Tama Iron Cobra Power Glide Twin Pedal (HP900PTW) + Iron Cobra Lever Glide Hi-Hat (HH905)',
+            details: 'Tama Iron Cobra double pedal and hi-hat stand',
+            notes: 'Documented Tama artist endorsement — no change from the prior era.',
+            change: null,
+          },
+          sticks: {
+            item: 'Pro-Mark',
+            details: 'Pro-Mark stick endorsement',
+            notes: 'Corroborated by DRUM! Magazine, MusicRadar, and Equipboard for the current Deftones era.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo Powerstroke P3 / Pinstripe / Ambassador',
+            details: 'Powerstroke P3 on kick, Pinstripe and Ambassador on toms/snare',
+            notes: 'Confirmed by Remo\'s official artist page across the current era.',
+            change: null,
+          },
+          electronics: {
+            item: 'Roland SPD-SX Sampling Pad',
+            details: 'Atmospheric samples and triggers',
+            notes: 'Continued use for atmospheric sample triggers in a live context.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 18500,
+          inflationAdjusted: 19500,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Returned to Zildjian A Custom/K Custom hybrid cymbals after twelve years on Sabian HHX',
+          'Debuted a Zildjian Abe Cunningham Artist Series signature stick (2022)',
+          'Tama Starclassic Bubinga kit and Iron Cobra hardware unchanged',
+        ],
+
+        videos: [],
+      },
     ],
 
     faqs: [
       {
         q: 'What drum kit does Abe Cunningham use?',
-        a: 'Abe Cunningham plays a Tama Starclassic Bubinga kit in the Egyptian Night Mist finish, per Tama\'s official artist page. He arrived at Tama for the Koi No Yokan era after using a Gretsch USA Custom during the Diamond Eyes years and Pearl Custom during the White Pony era.',
+        a: 'Abe Cunningham plays a Tama Starclassic Bubinga kit in the Egyptian Night Mist finish, per Tama\'s official artist page — the same Tama relationship he\'s kept since signing in 1997 for Around the Fur, with no drum brand change since.',
       },
       {
         q: 'What cymbals does Abe Cunningham use?',
-        a: 'Cunningham plays Zildjian K Custom and A Custom cymbals — 14" K Custom hi-hats, 18"/20" K Custom crashes, a 22" K Custom ride, and a 19" A Custom China — corroborated by DRUM! Magazine, MusicRadar, and Equipboard for the current Deftones era. He progressed from Zildjian A through K and K Custom over his four-decade career.',
+        a: 'Cunningham currently plays a Zildjian A Custom/K Custom hybrid — 14" K Custom hi-hats, 18"/20" K Custom crashes, a 22" K Custom ride, and a 19" A Custom China — corroborated by DRUM! Magazine, MusicRadar, and Equipboard for the current Deftones era. He built his cymbal voice on Zildjian A through K and K Custom from 1997 through 2010, moved to Sabian HHX for Diamond Eyes (2010) through Ohms (2020), then returned to the Zildjian hybrid in 2022.',
       },
       {
         q: 'What drums did Abe Cunningham use on White Pony?',
-        a: 'On White Pony (2000), Cunningham played Pearl Custom — switching from the ddrum kit he used on Adrenaline and Around the Fur. The Pearl maple shells gave him a warmer, more resonant tone suited to White Pony\'s atmospheric, dynamic arrangements. He also switched to Zildjian K cymbals during this era.',
+        a: 'On White Pony (2000), Cunningham played the same Tama Starclassic kit he\'d used since signing with Tama in 1997 for Around the Fur — no drum brand change accompanied White Pony\'s more atmospheric sound. He did switch to Zildjian K cymbals during this era, moving on from the brighter A Custom series.',
       },
       {
         q: 'When did Abe Cunningham join the Deftones?',
@@ -9082,7 +9218,7 @@ export const DRUMMER_EVOLUTION = {
     ],
 
     metaTitle: 'Abe Cunningham Gear Evolution Timeline | Deftones Drum Kit History',
-    metaDescription: 'Explore Abe Cunningham\'s complete drum gear evolution: ddrum beginnings → Pearl Custom (White Pony) → Gretsch USA Custom (Diamond Eyes) → Tama Starclassic Bubinga (Ohms). 35+ years of Deftones drumming documented era by era.',
+    metaDescription: 'Explore Abe Cunningham\'s complete drum gear evolution: Tama Starclassic since his 1997 signing on Around the Fur, with a Zildjian → Sabian HHX (2010) → Zildjian (2022) cymbal journey. 35+ years of Deftones drumming documented era by era.',
   },
 
   // ==========================================

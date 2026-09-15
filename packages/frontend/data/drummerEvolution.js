@@ -5222,14 +5222,85 @@ export const DRUMMER_EVOLUTION = {
       },
 
       {
-        id: 'vinnie-1996-hellyeah-era',
-        era: 'Later Pantera / Hellyeah Era',
-        years: '1996–2018',
+        id: 'vinnie-1996-trendkill-era',
+        era: 'Trendkill / Reinventing the Steel Era',
+        years: '1996–2004',
         startYear: 1996,
+        endYear: 2004,
+        description: 'The final Pantera chapters. Vinnie moved to Pearl drums for The Great Southern Trendkill (1996) and Reinventing the Steel (2000), completing the Pantera catalog. Pantera dissolved after Dimebag\'s murder on stage in December 2004 — witnessed by Vinnie.',
+        albums: ['The Great Southern Trendkill (1996)', 'Reinventing the Steel (2000)'],
+        tours: ['Great Southern Trendkill Tour', 'Reinventing the Steel Tour'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Pearl',
+            details: 'Dual 24" kicks, 10"/12"/14"/16"/18" toms',
+            notes: 'Continued with Pearl drums through Pantera\'s final two studio albums — the same dual-kick, large-format setup that defined the Vulgar Display and Far Beyond Driven era.',
+            change: null,
+          },
+          snare: {
+            item: 'Pearl Free-Floating 14"×8"',
+            details: 'Deep steel shell — 8" depth for maximum body',
+            notes: 'Kept the deep 8" Pearl snare that defined Vinnie\'s chest-thumping crack through the Trendkill and Reinventing the Steel sessions.',
+            change: null,
+          },
+          cymbals: {
+            item: 'Sabian AAX / HHX',
+            details: '14" AAX Metal hi-hats, 18"/19"/20" crashes, 22" HHX ride, 20" China',
+            notes: 'Long-term Sabian partnership continued unchanged through Pantera\'s final years.',
+            change: null,
+          },
+          hardware: {
+            item: 'Pearl Eliminator Double Pedal + dual kick',
+            details: 'Both physical kicks AND double pedal option available',
+            notes: 'Maintained dual physical kick drums for live shows through the final Pantera tours.',
+            change: null,
+          },
+          sticks: {
+            item: 'Vic Firth 2B (held backwards)',
+            details: 'Continued backward technique throughout career',
+            notes: 'The backward stick technique never changed — a defining characteristic maintained for the entirety of Vinnie\'s career. Immediately identified him on sight.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo Powerstroke 3 / Emperor',
+            details: 'Powerstroke 3 on kicks, Emperor on toms',
+            notes: 'Kept the Powerstroke 3 / Emperor combination that had defined the groove metal drum sound since Vulgar Display of Power.',
+            change: null,
+          },
+          electronics: {
+            item: 'ddrum Triggers',
+            details: 'Kick drum triggers for live reinforcement',
+            notes: 'Continued using ddrum kick triggers for arena-scale consistency — years before ddrum became Vinnie\'s drum brand itself.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 18000,
+          inflationAdjusted: 33000,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'The Great Southern Trendkill (1996) and Reinventing the Steel (2000) complete the Pantera catalog',
+          'Dimebag Darrell murdered on stage, December 8, 2004 — Vinnie witnessed it',
+          'Pantera dissolves following Dimebag\'s death',
+        ],
+
+        videos: [],
+      },
+
+      {
+        id: 'vinnie-2008-hellyeah-era',
+        era: 'Hellyeah Era',
+        years: '2008–2018',
+        startYear: 2008,
         endYear: 2018,
-        description: 'The final chapters. The Great Southern Trendkill and Reinventing the Steel completed the Pantera catalog. After Dimebag\'s murder in 2004 — witnessed by Vinnie on stage — he eventually returned to music with Hellyeah, his final band. The ddrum Vinnie Paul Signature Series was his definitive setup until his passing in June 2018.',
-        albums: ['The Great Southern Trendkill (1996)', 'Reinventing the Steel (2000)', 'Hellyeah albums (2008–2016)'],
-        tours: ['Great Southern Trendkill Tour', 'Reinventing the Steel Tour', 'Hellyeah multiple world tours'],
+        description: 'After Dimebag\'s murder in 2004, Vinnie eventually returned to music with Hellyeah, his final band. He signed with ddrum in 2008, and the ddrum Vinnie Paul Signature Series was his definitive setup until his passing in June 2018.',
+        albums: ['Hellyeah albums (2008–2016)'],
+        tours: ['Hellyeah multiple world tours'],
         image: null,
 
         gear: {
@@ -5285,8 +5356,8 @@ export const DRUMMER_EVOLUTION = {
 
         keyChanges: [
           'ddrum Vinnie Paul Signature Series — definitive kit of final era',
-          'Dimebag Darrell murdered on stage, December 8, 2004 — Vinnie witnessed it',
           'Hellyeah formed 2006 — Vinnie returns to performing',
+          'Signed with ddrum in 2008',
           'Full ddrum hardware and trigger integration',
           'Vinnie Paul passes away June 22, 2018 — an irreplaceable loss to metal',
         ],

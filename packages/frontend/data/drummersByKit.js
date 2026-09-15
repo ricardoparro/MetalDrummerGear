@@ -143,7 +143,7 @@ export const DRUMMERS_BY_KIT = {
       slug: 'navene-koperweis',
       name: 'Navene Koperweis',
       band: 'Entheos',
-      yearsUsed: '2012–present',
+      yearsUsed: '2015–present',
       config: 'DW Performance Maple (22"×18" Bass, 10"×8", 12"×9", 14"×12", 16"×14" Toms)',
       endorsee: true,
     },

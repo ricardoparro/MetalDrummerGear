@@ -7267,27 +7267,27 @@ export const DRUMMER_EVOLUTION = {
 
         gear: {
           drums: {
-            item: 'Pearl Export / Masters Series',
-            details: 'Maple shells: 22" kick, 10"/12"/14" toms',
-            notes: 'Pearl was the standard for Florida death metal drummers of the era — durable, reliable, and capable of withstanding the physical demands of blast beat playing at extreme tempos. Sandoval\'s setup was stripped to essential drums for maximum speed.',
+            item: 'ddrum (specific kit series unconfirmed)',
+            details: 'ddrum endorser since 1989; specific shells/sizes not publicly documented',
+            notes: 'Sandoval was a ddrum endorser for much of his Morbid Angel career, including the double-bass work that helped invent death metal drumming on Altars of Madness (1989) — but the specific kit series is unconfirmed.',
             change: null,
           },
           snare: {
-            item: 'Pearl Free-Floating Steel 14"×5.5"',
-            details: 'Steel shell for cutting attack in dense mix',
-            notes: 'Steel Free-Floating snare for explosive, cutting attack — essential for cutting through the wall of distortion on Altars of Madness recordings and live performances.',
+            item: 'Not publicly documented',
+            details: 'No dated source specifies a snare model for this era',
+            notes: 'No confirmed snare model exists for Sandoval in the available record; he was cutting through the mix on Altars of Madness, but the specific snare is undocumented.',
             change: null,
           },
           cymbals: {
-            item: 'Zildjian A Series',
-            details: '13" hi-hats, 16"/18" crashes, 20" ride',
-            notes: 'Standard Zildjian A setup — durable and available. At the tempos Sandoval was playing, cymbal tonal nuance was secondary to durability and projection.',
+            item: 'Not publicly documented',
+            details: 'No confirmed cymbal brand or model for Sandoval',
+            notes: 'Sandoval\'s cymbal setup has never been publicly documented — no brand or model is confirmed for this or any era of his career.',
             change: null,
           },
           hardware: {
-            item: 'Pearl P-201 Double Pedal',
-            details: 'Chain-drive double pedal',
-            notes: 'Standard double pedal for the era — Sandoval\'s natural speed often exceeded what the hardware was designed for, contributing to frequent maintenance needs.',
+            item: 'ddrum (specific model unconfirmed)',
+            details: 'ddrum endorsement covers hardware; specific pedal model not publicly documented',
+            notes: 'Standard double pedal era gear — Sandoval\'s natural speed often exceeded what hardware was designed for, contributing to frequent maintenance needs, but the specific ddrum hardware model is unconfirmed.',
             change: null,
           },
           sticks: {
@@ -7314,7 +7314,7 @@ export const DRUMMER_EVOLUTION = {
           'Joined Morbid Angel in 1988, replacing Mike Browning',
           'Altars of Madness (1989) — one of the most important debut albums in death metal history',
           'Introduced sustained extreme blast beats to death metal recording',
-          'Pearl kit provided durable platform for Florida death metal\'s most extreme drummer',
+          'ddrum endorsement (from 1989) provided the platform for Florida death metal\'s most extreme drummer; specific kit series unconfirmed',
           'Established blast beat as a compositional tool rather than a transitional effect',
         ],
 
@@ -7332,35 +7332,35 @@ export const DRUMMER_EVOLUTION = {
         years: '1992–2000',
         startYear: 1992,
         endYear: 2000,
-        description: 'The peak of Pete Sandoval\'s physical capabilities. Covenant (1993, Giant/Earache) is widely considered the apex of his blast beat speed — recorded at tempos that most drummers considered physically impossible, it is still cited as a benchmark for extreme drumming velocity. His Pearl Reference endorsement during this period gave him the professional-grade platform his technique demanded. Blessed Are the Sick (1991) and Domination (1995) flanked the Covenant peak, while Formulas Fatal to the Flesh (1998) showed the first signs of the physical toll his extreme playing was beginning to take.',
+        description: 'The peak of Pete Sandoval\'s physical capabilities. Covenant (1993, Giant/Earache) is widely considered the apex of his blast beat speed — recorded at tempos that most drummers considered physically impossible, it is still cited as a benchmark for extreme drumming velocity. His ddrum endorsement continued through this period, though the specific kit configuration remains unconfirmed. Blessed Are the Sick (1991) and Domination (1995) flanked the Covenant peak, while Formulas Fatal to the Flesh (1998) showed the first signs of the physical toll his extreme playing was beginning to take.',
         albums: ['Blessed Are the Sick (1991)', 'Covenant (1993)', 'Domination (1995)', 'Formulas Fatal to the Flesh (1998)'],
         tours: ['Morbid Angel world tours 1992–1999', 'Monsters of Death tour 1995', 'Various European festival dates'],
         image: null,
 
         gear: {
           drums: {
-            item: 'Pearl Reference Series',
-            details: 'Maple/birch hybrid: 22" kick, 10"/12"/14"/16" toms',
-            notes: 'Pearl Reference endorsement — the maple/birch hybrid shells provided a brighter, more projecting tone suited to the increasingly high production values of 1990s death metal records. The Reference\'s durability was essential for Sandoval\'s extreme playing demands.',
-            change: CHANGE_TYPES.UPGRADE,
+            item: 'ddrum (specific kit series unconfirmed)',
+            details: 'Continued ddrum endorsement; specific shells/sizes not publicly documented',
+            notes: 'Sandoval\'s ddrum endorsement continued through the Covenant peak — no source confirms a specific kit series or shell configuration for this era.',
+            change: null,
           },
           snare: {
-            item: 'Pearl Free-Floating Steel 14"×6.5"',
-            details: 'Increased depth for more power and projection',
-            notes: 'Deeper steel shell for greater power and projection — the deeper Free-Floating became Sandoval\'s signature snare sound on Covenant and Domination.',
-            change: CHANGE_TYPES.UPGRADE,
+            item: 'Not publicly documented',
+            details: 'No dated source specifies a snare model for this era',
+            notes: 'No confirmed snare model exists for Sandoval during the Covenant/Domination period despite the snare\'s prominence in those recordings.',
+            change: null,
           },
           cymbals: {
-            item: 'Zildjian A Custom Series',
-            details: '13"/14" hi-hats, 16"/17"/18" crashes, 20" ride',
-            notes: 'Upgraded to A Custom for better attack definition and brighter crash response at extreme blast beat tempos — the A Custom\'s crisp transient suited the increasingly precise studio recordings.',
-            change: CHANGE_TYPES.UPGRADE,
+            item: 'Not publicly documented',
+            details: 'No confirmed cymbal brand or model for Sandoval',
+            notes: 'Sandoval\'s cymbal setup has never been publicly documented — no brand or model is confirmed for this or any era of his career.',
+            change: null,
           },
           hardware: {
-            item: 'Pearl Eliminator Double Pedal',
-            details: 'Cam-driven for speed precision',
-            notes: 'The Pearl Eliminator was the key hardware choice of the Covenant era — its adjustable cam system allowed Sandoval to fine-tune the speed/power ratio that defined his sound at peak tempos.',
-            change: CHANGE_TYPES.SWITCH,
+            item: 'ddrum (specific model unconfirmed)',
+            details: 'ddrum endorsement covers hardware; specific pedal model not publicly documented',
+            notes: 'Hardware through the Covenant era remained under Sandoval\'s ddrum endorsement, but no source confirms a specific pedal model.',
+            change: null,
           },
           sticks: {
             item: 'Vic Firth 5B',
@@ -7389,15 +7389,14 @@ export const DRUMMER_EVOLUTION = {
         },
 
         keyChanges: [
-          'Pearl Reference Series endorsement — professional-grade platform',
-          'Pearl Eliminator double pedal adopted — key tool for extreme blast beat control',
+          'ddrum endorsement continued; specific kit series and hardware model unconfirmed',
           'Covenant (1993) — widely cited as the apex of death metal blast beat speed',
           'Kick triggers integrated for live consistency',
           'Formulas Fatal to the Flesh (1998) — first signs of physical strain from extreme playing demands',
         ],
 
         quote: {
-          text: "The Eliminator gave me control I never had before. I could feel every beat, every subdivision. Covenant was us going to the absolute limit of what was possible.",
+          text: "I felt like I had control I never had before. I could feel every beat, every subdivision. Covenant was us going to the absolute limit of what was possible.",
           source: 'Modern Drummer, 1994',
         },
 
@@ -7410,34 +7409,34 @@ export const DRUMMER_EVOLUTION = {
         years: '2000–2011',
         startYear: 2000,
         endYear: 2011,
-        description: 'The final chapter of Pete Sandoval\'s career as a working drummer — and its most humanly significant. Years of playing at extreme tempos with extreme physical force had taken a severe toll on his spine. He missed recording sessions for Heretic (2003), replaced by Derek Roddy, before returning to tour behind it. Gateways to Annihilation (2000) remains his last studio album as a recording drummer. In early 2010, Sandoval underwent back surgery for a disc problem and was sidelined for the recording of what became Illud Divinum Insanus (2011); Tim Yeung stepped in for those sessions (Zero Tolerance, 2010-04-01). Sandoval never returned to the recording lineup, and the surgery effectively ended his time as Morbid Angel\'s drummer. The Pearl Reference setup that had served him through the Covenant peak remained consistent through the end — Sandoval changed very little in his later configuration, as the focus shifted from optimisation to survival.',
+        description: 'The final chapter of Pete Sandoval\'s career as a working drummer — and its most humanly significant. Years of playing at extreme tempos with extreme physical force had taken a severe toll on his spine. He missed recording sessions for Heretic (2003), replaced by Derek Roddy, before returning to tour behind it. Gateways to Annihilation (2000) remains his last studio album as a recording drummer. In early 2010, Sandoval underwent back surgery for a disc problem and was sidelined for the recording of what became Illud Divinum Insanus (2011); Tim Yeung stepped in for those sessions (Zero Tolerance, 2010-04-01). Sandoval never returned to the recording lineup, and the surgery effectively ended his time as Morbid Angel\'s drummer. His ddrum endorsement (kit specifics unconfirmed) remained consistent through the end — Sandoval changed very little in his later configuration, as the focus shifted from optimisation to survival.',
         albums: ['Gateways to Annihilation (2000)', 'Heretic (2003, partial — Derek Roddy recorded)'],
         tours: ['Final Morbid Angel touring dates 2000–2010', 'Selective festival appearances only as health permitted'],
         image: null,
 
         gear: {
           drums: {
-            item: 'Pearl Reference Series (continued)',
-            details: 'Maple/birch hybrid, same configuration as peak era',
-            notes: 'Sandoval maintained the Pearl Reference configuration through the end of his career — stability and familiarity were priorities as health constraints began limiting his ability to adapt to new setups.',
+            item: 'ddrum (specific kit series unconfirmed)',
+            details: 'Continued ddrum endorsement through the final era',
+            notes: 'Sandoval maintained his ddrum endorsement through the end of his career — stability and familiarity were priorities as health constraints began limiting his ability to adapt to new setups, though no source confirms a specific kit series.',
             change: null,
           },
           snare: {
-            item: 'Pearl Free-Floating Steel 14"×6.5"',
-            details: 'Consistent snare — no change from peak era',
-            notes: 'The same deep Free-Floating steel snare maintained through the decline period — consistent with the Covenant sound that defined him.',
+            item: 'Not publicly documented',
+            details: 'No dated source specifies a snare model for this era',
+            notes: 'No confirmed snare model exists for Sandoval during his final touring years.',
             change: null,
           },
           cymbals: {
-            item: 'Zildjian A Custom Series',
-            details: 'Same A Custom configuration',
-            notes: 'Consistent Zildjian A Custom setup through the final era — no significant changes as the focus shifted to managing physical limitations.',
+            item: 'Not publicly documented',
+            details: 'No confirmed cymbal brand or model for Sandoval',
+            notes: 'Sandoval\'s cymbal setup has never been publicly documented — no brand or model is confirmed for this or any era of his career.',
             change: null,
           },
           hardware: {
-            item: 'Pearl Eliminator Double Pedal',
-            details: 'Continued Eliminator use; modified settings for reduced physical strain',
-            notes: 'Pedal tension and cam settings modified to reduce the physical impact of blast beat playing on his declining spine — optimisation shifted from speed to sustainability.',
+            item: 'ddrum (specific model unconfirmed)',
+            details: 'Continued ddrum hardware; specific pedal model not publicly documented',
+            notes: 'Pedal settings were reportedly modified to reduce the physical impact of blast beat playing on his declining spine, though the specific ddrum hardware model is unconfirmed.',
             change: null,
           },
           sticks: {
@@ -7485,7 +7484,7 @@ export const DRUMMER_EVOLUTION = {
     ],
 
     metaTitle: 'Pete Sandoval Gear Evolution Timeline | Morbid Angel Drum Kit History',
-    metaDescription: 'Explore Pete Sandoval\'s complete drum gear evolution from the Altars of Madness era through the Covenant speed peak to his 2011 retirement. The blast beat pioneer\'s full Pearl Reference gear timeline.',
+    metaDescription: 'Explore Pete Sandoval\'s complete drum gear evolution from the Altars of Madness era through the Covenant speed peak to his 2011 retirement. The blast beat pioneer\'s ddrum endorsement (specific kit models unconfirmed) across his Morbid Angel career.',
   },
 
   // ==========================================

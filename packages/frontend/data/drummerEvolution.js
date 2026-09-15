@@ -18932,20 +18932,20 @@ export const DRUMMER_EVOLUTION = {
         years: '2007–2014',
         startYear: 2007,
         endYear: 2014,
-        description: 'Grossmann co-founded Obscura with Steffen Kummerer in 2007, the same year he joined Ron Jarzombek\'s instrumental project Blotted Science. Obscura\'s "Cosmogenesis" (2009) and "Omnivium" (2011) became critically acclaimed genre benchmarks, showcasing the open-handed technique — left hand leading on hi-hat or ride — that let him access voicings impossible with a traditional crossed-hands approach. This era established his core DW Collectors Series / Meinl Byzance setup, built for the articulate, note-for-note clarity his polyrhythmic compositions demanded.',
+        description: 'Grossmann co-founded Obscura with Steffen Kummerer in 2007, the same year he joined Ron Jarzombek\'s instrumental project Blotted Science. Obscura\'s "Cosmogenesis" (2009) and "Omnivium" (2011) became critically acclaimed genre benchmarks, showcasing the open-handed technique — left hand leading on hi-hat or ride — that let him access voicings impossible with a traditional crossed-hands approach. Throughout this era he played the Tama Starclassic Maple / Meinl Byzance setup signed during the Necrophagist years, built for the articulate, note-for-note clarity his polyrhythmic compositions demanded.',
         albums: ['Blotted Science: The Machinations of Dementia (2007)', 'Obscura: Cosmogenesis (2009)', 'Obscura: Omnivium (2011)'],
         tours: ['Summer Slaughter (multiple years)', 'European Tech Death Tours (2007–2014)'],
         image: null,
 
         gear: {
           drums: {
-            item: 'DW Collectors Series',
+            item: 'Tama Starclassic Maple',
             details: 'North American maple shells: 22"x18" bass drums (x2), 10"x8"/12"x9" rack toms, 14"x14"/16"x16" floor toms',
-            notes: 'DW\'s flagship production shell line, giving precise attack and controlled sustain so every note stays distinguishable within extremely dense drum parts.',
+            notes: 'The Tama Starclassic kit signed during the Necrophagist era, giving precise attack and controlled sustain so every note stays distinguishable within extremely dense drum parts.',
             change: CHANGE_TYPES.NEW,
           },
           snare: {
-            item: 'DW Collectors 14"x5.5" Maple',
+            item: 'Tama S.L.P. G-Maple 14"x6"',
             details: 'Maple shell, bright and articulate',
             notes: 'Tuned for a bright crack that cuts through dense technical arrangements without sacrificing ghost-note definition.',
             change: CHANGE_TYPES.NEW,
@@ -18957,7 +18957,7 @@ export const DRUMMER_EVOLUTION = {
             change: CHANGE_TYPES.NEW,
           },
           hardware: {
-            item: 'DW 9000 Series Double Pedal',
+            item: 'Tama Iron Cobra',
             details: 'Chain-drive, adjustable cam system',
             notes: 'Smooth, consistent response tunable to his specific double-bass technique requirements.',
             change: CHANGE_TYPES.NEW,
@@ -18986,7 +18986,7 @@ export const DRUMMER_EVOLUTION = {
           'Co-founded Obscura with Steffen Kummerer (2007)',
           'Joined Ron Jarzombek\'s Blotted Science project (2007)',
           'Cosmogenesis (2009) and Omnivium (2011) established his open-handed technique as a genre benchmark',
-          'Established the DW Collectors Series / Meinl Byzance rig that has defined his career since',
+          'Played the Tama Starclassic Maple / Meinl Byzance rig signed during the Necrophagist era through this entire span',
         ],
 
         videos: [],
@@ -19128,7 +19128,7 @@ export const DRUMMER_EVOLUTION = {
     faqs: [
       {
         q: 'What drum kit does Hannes Grossmann use?',
-        a: 'Hannes Grossmann plays a DW Collectors Series kit with a DW Collectors 14"x5.5" Maple snare, Meinl Byzance cymbals, and a DW 9000 Series double pedal — a rig established during his time co-founding Obscura in 2007 and unchanged through his current Obscura and Alkaloid work.',
+        a: 'Hannes Grossmann plays a DW Collectors Series kit with a DW Collectors 14"x5.5" Maple snare, Meinl Byzance cymbals, and a DW 9000 Series double pedal — a rig adopted in 2014 while co-founding Alkaloid and unchanged through his current Obscura and Alkaloid work. Earlier, during Necrophagist and Obscura\'s Cosmogenesis (2009) and Omnivium (2011), he played a Tama Starclassic Maple kit.',
       },
       {
         q: 'What is Hannes Grossmann\'s open-handed drumming technique?',
@@ -19149,7 +19149,7 @@ export const DRUMMER_EVOLUTION = {
     ],
 
     metaTitle: 'Hannes Grossmann Gear Evolution Timeline | Obscura Drum Kit History',
-    metaDescription: 'Explore Hannes Grossmann\'s complete drum gear evolution: from the undocumented Necrophagist Epitaph (2004) years through the DW Collectors Series / Meinl Byzance rig behind Obscura\'s Cosmogenesis (2009), Alkaloid\'s founding, and his 2020 return to Obscura for A Dying Wish.',
+    metaDescription: 'Explore Hannes Grossmann\'s complete drum gear evolution: from the undocumented Necrophagist Epitaph (2004) years through the Tama Starclassic Maple / Meinl Byzance rig behind Obscura\'s Cosmogenesis (2009), the 2014 switch to DW Collectors Series while co-founding Alkaloid, and his 2020 return to Obscura for A Dying Wish.',
   },
 
   // ==========================================

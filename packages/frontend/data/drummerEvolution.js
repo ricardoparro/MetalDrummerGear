@@ -4780,9 +4780,9 @@ export const DRUMMER_EVOLUTION = {
             change: CHANGE_TYPES.SWITCH,
           },
           cymbals: {
-            item: 'Sabian AAX',
-            details: '14" AAX hi-hats, 17"/18" crashes, 21" ride, 18" China',
-            notes: 'Switched from Paiste to Sabian AAX — the brighter, more cutting AAX character sat well in death metal\'s dense mix.',
+            item: 'Meinl',
+            details: '14" hi-hats, 17"/18" crashes, 21" ride, 18" China',
+            notes: 'Signed with Meinl in 1990, moving on from the budget Paiste/Zildjian cymbals used on Eaten Back to Life — the endorsement developed through the early Morrisound era.',
             change: CHANGE_TYPES.SWITCH,
           },
           hardware: {
@@ -4814,7 +4814,7 @@ export const DRUMMER_EVOLUTION = {
         keyChanges: [
           'Pearl Masters Professional endorsement begins',
           'Pearl Free-Floating snare system adopted',
-          'Sabian AAX cymbal endorsement replaces Paiste',
+          'Meinl cymbal endorsement replaces Paiste/Zildjian budget setup',
           'George "Corpsegrinder" Fisher joins (1995) — increased international profile',
           'Gallery of Suicide (1998) — band\'s most technically demanding recording to this point',
         ],
@@ -4852,9 +4852,9 @@ export const DRUMMER_EVOLUTION = {
             change: null,
           },
           cymbals: {
-            item: 'Sabian AAX',
-            details: '14" AAX hi-hats, 17"/18"/19" crashes, 21" ride, 18"/20" Chinas',
-            notes: 'Continued and expanded Sabian AAX setup. Added larger China cymbal for heavier accent work as the compositions grew more demanding.',
+            item: 'Meinl',
+            details: '14" hi-hats, 17"/18"/19" crashes, 21" ride, 18"/20" Chinas',
+            notes: 'Continued and expanded Meinl setup. Added larger China cymbal for heavier accent work as the compositions grew more demanding.',
             change: CHANGE_TYPES.UPGRADE,
           },
           hardware: {
@@ -4930,9 +4930,9 @@ export const DRUMMER_EVOLUTION = {
             change: null,
           },
           cymbals: {
-            item: 'Sabian AAX',
-            details: 'Full AAX setup: 14" hi-hats, 17"/18"/19" crashes, 21" ride, 20" China',
-            notes: 'Sabian AAX across 25+ years of Paul\'s career. The bright, cutting character has become synonymous with Cannibal Corpse\'s drum sound.',
+            item: 'Meinl',
+            details: 'Full Meinl Byzance setup: 14" hi-hats, 17"/18"/19" crashes, 21" ride, 20" China',
+            notes: 'Meinl across 30+ years of Paul\'s career. The focused, fast-decay character has become synonymous with Cannibal Corpse\'s drum sound.',
             change: null,
           },
           hardware: {

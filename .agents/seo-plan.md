@@ -8826,3 +8826,40 @@ Ran `gh issue list --state all --search "<drummer> <file/brand keyword>"` for al
 3. `drummerEvolution.js` (22K lines) and `evolutionTimeline.js` appear to have never been systematically swept for this bug class before this run — good seam for the next audit agent once #7539-7546 clear.
 4. Content-gap queries (`flo mounier`, `mario duplantier drum kit`) unchanged/held on established precedent.
 5. Next drum-chair watch due Monday 2026-09-21, group 3 (sepultura/slayer/slipknot/testament/tool/vader/volto).
+
+---
+
+## 2026-09-15 (run ~13:00 UTC, per metrics.md 12:21 UTC) — 7 proposals filed (#7550-7556): followed up on the drummerEvolution.js/evolutionTimeline.js seam flagged by the prior run
+
+### Bank check
+Open `seo-proposal` at run start: 17 (excl. the 3 standing umbrellas #2211/#3810/#3819) — under 45 → cleared to file up to 8 net-new. Metrics 12:21 UTC (349 users/381 sessions/730 views 7d; GSC 7,824 impr/172 clicks/2.20% CTR/pos 7.7 — same snapshot as the last run). robots.txt: 13 `User-agent` blocks confirmed. `/llms/*.md` endpoints: 2,016 files live (stable). Content-gap table: `flo mounier` (71 impr/1.41% CTR) and `mario duplantier drum kit` (66 impr/1.52% CTR) — both re-confirmed already-classified per `learned-patterns.md` (class-2 bare-name/bio-intent; gear-qualified known oscillator, extensively actioned) — held, no new action. Today is Tuesday — drum-chair watch not due (last ran Monday 2026-09-14, next due 2026-09-21).
+
+### This run's work
+Picked up the prior run's flagged seam directly: `drummerEvolution.js` (22K lines) and `evolutionTimeline.js` had never been systematically swept for the gear-fabrication-vs-`endorsementNews.js` bug class. Dispatched 2 parallel audit agents (one per file), explicitly steering away from ~16 drummer names already heavily audited this week across other files. Both agents over-delivered (drummerEvolution.js agent found ~20 candidates across sub-batches); personally re-verified every filed candidate by directly reading both the fabricated-claim file and `endorsementNews.js` before filing (not trusting agent reports alone), and ran `gh issue list --state all --search` per candidate/file.
+
+**7 filed, all single-file corrections on existing pages, zero new URLs — freeze-compliant:**
+1. **#7550** — Nicko McBrain `drummerEvolution.js` (2 eras, ~14142-14283) — invents a full Ludwig/Premier drum history (1983-2010) that doesn't exist in the source; verified Pearl DLX (1984-85) → Yamaha Recording Custom (1985-2010). Also corrects the Ludwig/Premier hardware (pedal) claim to DW 5000 single pedal since 1984. Distinct from #5842 (already fixed the *later* 2010-BDC era) and from 8+ other closed issues that fixed this same fabrication class in *other* files (albumArticles/drummerComparisons/genreGearGuides/soundLikeGuides) — this is the first fix to `drummerEvolution.js`'s own pre-2010 eras.
+2. **#7551** — Pete Sandoval `drummerEvolution.js` (all 3 eras, ~7258-7494) — states confident Pearl/Zildjian gear throughout, when `endorsementNews.js` explicitly marks his entire career `unconfirmed`/`not publicly documented` (ddrum since 1989 only). Same bug class as 8 already-closed issues for this drummer in other files — `drummerEvolution.js` was the one file never swept.
+3. **#7552** — Mike Portnoy `drummerEvolution.js` (4 eras, 1992-2007) — cymbals stated as Zildjian; verified continuous Sabian since 1985. The later 2011-Winery-Dogs era was already fixed by #5838; these 4 earlier eras were untouched by that fix.
+4. **#7553** — Kevin Talley `drummerEvolution.js` (3 eras, 1996-2020) — fabricates a Zildjian/DW-pedal rig for 1996-2008 (verified: no brand switch, continuous Pearl/Sabian AAX/Pearl Eliminator since 2000) plus a wrong current model name ("Pearl Masters Premium Legend" vs verified "Masters Custom / Reference Series"). Also flags the era's own start-year (1996 vs verified 2000 signing) as wrong.
+5. **#7554** — Vinnie Paul `drummerEvolution.js` — the flagged lead from the prior run. Confirmed exactly as suspected: one era block spans 1996-2018 as ddrum, skipping his verified 1996-2008 Pearl period entirely. Scoped a clean split at the verified 2008 SIGNED-ddrum boundary (not a single-field swap, per the prior run's correct assessment that it needed multi-entry coordination).
+6. **#7555** — Nicko McBrain `evolutionTimeline.js` (`timeline-1982-nicko-mcbrain`, lines 160-177) — a *different* bug from #7017 (already closed): #7017 fixed this line's brand (Sonor→Pearl DLX), but the event's own year/album (1982/Piece of Mind 1983) still misdates the Pearl DLX signing, which `endorsementNews.js` ties to 1984/Powerslave. A year-plus-early dating error surviving inside an already-partially-fixed line — worth flagging as a pattern: brand fixes don't automatically catch date fixes on the same line.
+7. **#7556** — Danny Carey `evolutionTimeline.js` (`timeline-1996-tool-aenima`, line 498) — Sonor dated to 1996 (Ænima); verified drum brand only documented "since 2000s." Same bug class as the Tomas Haake precedent from the prior run and the 5 entries #7017 already fixed — this file clearly still has more of this pattern than a single sweep caught.
+
+Dropped from this run (held for future, not filed): a `drummerEvolution.js` Sean Reinert candidate (DW Collector's Series backdated 17 years, verified Tama Artstar II 1991-2008) was independently confirmed accurate by direct source read but not filed this run purely to stay within a reasonable per-run batch size — queued as next run's first pick. Also noted but held pending independent verification: Gene Hoglan, Igor Cavalera, Shannon Larkin, Paul Mazurkiewicz, Derek Roddy, Daniel Erlandsson, Abe Cunningham, Nick Menza, Raymond Herrera, Matt Garstka, Alex Bent, Hannes Grossmann, Jon Dette, Adrian Erlandsson, Blake Richardson, Matt Halpern, Brann Dailor, Frost, Inferno, Chris Turner, Travis Orbin — all flagged by sub-agents in `drummerEvolution.js` but not personally re-verified against source this run; treat as an unverified lead list, not a queue of confirmed bugs.
+
+### Dedup notes
+Ran `gh issue list --state all --search "<drummer> <keyword>"` for every candidate before filing. All prior closed hits for these drummers were confirmed (by reading the actual issue body, not just title) to target different files or different eras/lines than the ones filed here — e.g. #5842 fixed Nicko McBrain's *current* era only, #5838 fixed Mike Portnoy's *2011* era only, #7017 fixed a different field (brand, not date) on the same McBrain `evolutionTimeline.js` line.
+
+### Open proposals waiting on CEO triage
+- #7550-7556 (this run, 7 fresh)
+- #7451, #7454, #7455, #7467, #7468, #7469, #7471, #7473, #7498 (open, `hold`-labeled — CEO reviewed and found scoping issues, awaiting re-scope; not re-filed per dedup rule since still open)
+- #2211/#3810/#3819 (standing umbrellas)
+
+### Next run
+1. Watch #7550-7556 through CEO triage.
+2. File the Sean Reinert `drummerEvolution.js` DW-Collector's-backdated-17-years candidate (independently confirmed this run, held only for batch size) as the first pick.
+3. The unverified lead list above (Gene Hoglan through Travis Orbin) is a queue for a future audit pass — needs direct source verification before filing, not a ready-to-file list.
+4. Consider a look at the 9 `hold`-labeled proposals (#7451 etc.) — several are stale (filed 09-13) and may need SEO Agent re-scoping rather than waiting indefinitely for CEO re-review.
+5. Content-gap queries (`flo mounier`, `mario duplantier drum kit`) unchanged/held on established precedent.
+6. Next drum-chair watch due Monday 2026-09-21, group 3 (sepultura/slayer/slipknot/testament/tool/vader/volto).

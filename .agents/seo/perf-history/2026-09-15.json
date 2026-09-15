@@ -1,0 +1,125 @@
+{
+  "generatedAt": "2026-09-15T10:37:11.030Z",
+  "byUrl": {
+    "https://metalforge.io/": {
+      "label": "Homepage",
+      "performanceScore": 71,
+      "fcp": 901.813,
+      "lcp": 901.813,
+      "tbt": 1854,
+      "cls": 0.01588592840406951,
+      "speedIndex": 3655.1586871134164,
+      "totalBytes": 2092062,
+      "biggestJsRequests": [
+        {
+          "url": "https://metalforge.io/_expo/static/js/web/__common-2931bee0fdfb3b58beaf72538f4fff47.js",
+          "transferSize": 843396
+        },
+        {
+          "url": "https://metalforge.io/_expo/static/js/web/index-eb8ffca86216bdd210bdfaf3cd1be1f2.js",
+          "transferSize": 433300
+        }
+      ]
+    },
+    "https://metalforge.io/drummer/lars-ulrich": {
+      "label": "Drummer profile (Lars Ulrich)",
+      "performanceScore": 73,
+      "fcp": 828.662,
+      "lcp": 828.662,
+      "tbt": 1815.000000000001,
+      "cls": 0.01588592840406951,
+      "speedIndex": 2504.206389879601,
+      "totalBytes": 2553576,
+      "biggestJsRequests": [
+        {
+          "url": "https://metalforge.io/_expo/static/js/web/__common-2931bee0fdfb3b58beaf72538f4fff47.js",
+          "transferSize": 843423
+        },
+        {
+          "url": "https://metalforge.io/_expo/static/js/web/index-eb8ffca86216bdd210bdfaf3cd1be1f2.js",
+          "transferSize": 433273
+        }
+      ]
+    },
+    "https://metalforge.io/drumsticks": {
+      "label": "Drumsticks hub",
+      "performanceScore": 51,
+      "fcp": 952.469,
+      "lcp": 9324.469000000001,
+      "tbt": 1271.5,
+      "cls": 0.01588592840406951,
+      "speedIndex": 2381.558925538699,
+      "totalBytes": 3419224,
+      "biggestJsRequests": [
+        {
+          "url": "https://metalforge.io/_expo/static/js/web/__common-2931bee0fdfb3b58beaf72538f4fff47.js",
+          "transferSize": 843396
+        },
+        {
+          "url": "https://metalforge.io/_expo/static/js/web/index-eb8ffca86216bdd210bdfaf3cd1be1f2.js",
+          "transferSize": 433273
+        }
+      ]
+    },
+    "https://metalforge.io/cymbals": {
+      "label": "Cymbals hub",
+      "performanceScore": 50,
+      "fcp": 888.4,
+      "lcp": 9282.4,
+      "tbt": 1405,
+      "cls": 0.01588592840406951,
+      "speedIndex": 2482.416977044356,
+      "totalBytes": 4921963,
+      "biggestJsRequests": [
+        {
+          "url": "https://metalforge.io/_expo/static/js/web/__common-2931bee0fdfb3b58beaf72538f4fff47.js",
+          "transferSize": 843423
+        },
+        {
+          "url": "https://metalforge.io/_expo/static/js/web/index-eb8ffca86216bdd210bdfaf3cd1be1f2.js",
+          "transferSize": 433273
+        }
+      ]
+    },
+    "https://metalforge.io/articles/sacrament-drum-setup": {
+      "label": "Album article (Sacrament drum setup)",
+      "performanceScore": 49,
+      "fcp": 825.232,
+      "lcp": 11459.232,
+      "tbt": 1404,
+      "cls": 0.01588592840406951,
+      "speedIndex": 2738.3512132856085,
+      "totalBytes": 1902336,
+      "biggestJsRequests": [
+        {
+          "url": "https://metalforge.io/_expo/static/js/web/__common-2931bee0fdfb3b58beaf72538f4fff47.js",
+          "transferSize": 843391
+        },
+        {
+          "url": "https://metalforge.io/_expo/static/js/web/index-eb8ffca86216bdd210bdfaf3cd1be1f2.js",
+          "transferSize": 433300
+        }
+      ]
+    },
+    "https://metalforge.io/lists/best-death-metal-drummers": {
+      "label": "Top-10 list (best death metal drummers)",
+      "performanceScore": 50,
+      "fcp": 833.616,
+      "lcp": 12032.616,
+      "tbt": 1450,
+      "cls": 0.01588592840406951,
+      "speedIndex": 1799.8272391962464,
+      "totalBytes": 2059239,
+      "biggestJsRequests": [
+        {
+          "url": "https://metalforge.io/_expo/static/js/web/__common-2931bee0fdfb3b58beaf72538f4fff47.js",
+          "transferSize": 843396
+        },
+        {
+          "url": "https://metalforge.io/_expo/static/js/web/index-eb8ffca86216bdd210bdfaf3cd1be1f2.js",
+          "transferSize": 433301
+        }
+      ]
+    }
+  }
+}

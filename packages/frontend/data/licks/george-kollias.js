@@ -41,17 +41,17 @@ export const licks = {
     },
     "gearUsed": [
       {
-        "name": "Pearl Reference Series Kit",
+        "name": "Pearl Masterworks Series Kit",
         "type": "drums",
         "link": null
       },
       {
-        "name": "Tama Iron Cobra HP900 Double Pedal",
+        "name": "Pearl Demon XR Pedals",
         "type": "pedals",
         "link": null
       },
       {
-        "name": "Paiste Signature Series",
+        "name": "Zildjian A Custom Series",
         "type": "cymbals",
         "link": null
       }
@@ -113,17 +113,17 @@ export const licks = {
     },
     "gearUsed": [
       {
-        "name": "Pearl Reference Series Kit",
+        "name": "Pearl Masterworks Series Kit",
         "type": "drums",
         "link": null
       },
       {
-        "name": "Tama Iron Cobra HP900 Double Pedal",
+        "name": "Pearl Demon XR Pedals",
         "type": "pedals",
         "link": null
       },
       {
-        "name": "Paiste Signature Series",
+        "name": "Zildjian A Custom Series",
         "type": "cymbals",
         "link": null
       }
@@ -185,12 +185,12 @@ export const licks = {
     },
     "gearUsed": [
       {
-        "name": "Pearl Reference Pure",
+        "name": "Pearl Masterworks Series Kit",
         "type": "drums",
         "link": null
       },
       {
-        "name": "Tama Iron Cobra HP900 Double Pedal",
+        "name": "Pearl Demon XR Pedals",
         "type": "pedals",
         "link": null
       },

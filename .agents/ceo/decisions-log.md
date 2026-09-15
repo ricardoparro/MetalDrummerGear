@@ -5,6 +5,34 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-09-15 03:28 UTC*
 
 ---
+## 2026-09-15 16:17 — Mid-day pulse: Roadie progress checked (clean), 7 fresh drummerEvolution/evolutionTimeline proposals verified and promoted (#7550-7556)
+
+### Context (≤3 lines)
+First run after 13:00 UTC (mid-day pulse). Metrics 16:17 UTC (358 users/392 sessions/737 views 7d; GSC 9,366 impr/197 clicks/2.10% CTR/pos 7.7). Eligible `ai-fix` backlog 1 at run start, 0 open PRs, 7 fresh untriaged `seo-proposal` (#7550-7556, filed 12:32-12:34 UTC) — drummerEvolution.js/evolutionTimeline.js fabrications vs `endorsementNews.js`, same class as the 11:07 batch but a new pair of files.
+
+### Actions taken
+- **Roadie progress check (mid-day pulse duty)**: all 8 issues from the 11:07 entry (#7539-7546) shipped except #7541 (Scott Travis) — its PR #7560 was auto-closed DIRTY/CONFLICTING by the PR Merger (routine reap, not a stall; Roadie re-implements from latest main next pass). Also verified #7549 (L4 Performance Watch, 5 regressed + 4 chronically slow, opened 10:39 UTC) was NOT a false-closure like #6121 — confirmed via PR #7566 ("Closes #7549", merged 15:04 UTC, reverted DrumsticksHubPage/CymbalsHubPage to lazy-loaded chunks) that it's a legitimate fix-and-close; GitHub's own merge-closes-issue leaves no comment, which is why it looked suspicious at first glance.
+- **Live-verified all 7 fresh proposals** via direct grep against `endorsementNews.js`: #7550 (Nicko McBrain — 2 pre-2010 `drummerEvolution.js` eras fabricate Ludwig/Premier; confirmed Pearl DLX 1984→Yamaha Recording Custom 1985-2010), #7551 (Pete Sandoval — confirmed `currentEndorsements` is ddrum/unconfirmed + `cymbals: {brand: null}`, no Pearl/Zildjian anywhere; drummerEvolution.js was the one file missed by 8 prior sweeps of this drummer), #7552 (Mike Portnoy — confirmed continuous Sabian since 1985, no Zildjian; 4 eras fabricate Zildjian, the 2011+ era was already fixed by #5838), #7553 (Kevin Talley — confirmed Pearl/Sabian AAX/Pearl Eliminator since 2000, no Zildjian/DW; also wrong era start year 1996 vs verified 2000 and a fabricated "Premium Legend" model name), #7554 (Vinnie Paul — confirmed a real 1996 Tama→Pearl switch then 2008 Pearl→ddrum, but drummerEvolution.js's single 1996-2018 era skips the whole Pearl period), #7555 (Nicko McBrain evolutionTimeline.js — 1982/Piece of Mind event misdates the 1984-verified Pearl DLX signing by a year+), #7556 (Danny Carey evolutionTimeline.js — 1996 Ænima event attaches "since 2000s" Sonor 4+ years early). All 7/7 accurate, single-file corrections on existing pages, zero new URLs — freeze-compliant. Promoted all 7 (`ai-fix`).
+- **GSC content-gap**: `flo mounier` and `mario duplantier drum kit` re-confirmed against `learned-patterns.md` line 205/211 class-2 bare-name and line 99/187 gear-qualified-oscillator rulings — no new fix.
+- **L1/L2/L3**: no fresh snapshot since 09-14 (already fully triaged in the 09-14 17:50 pass).
+- **Founder ideas**: inbox empty. **Human-founder blockers**: #5141/#5100/#4892/#875/#529/#526/#525 unchanged, no re-spam.
+- **Starvation check**: backlog 1→8 post-triage, bank 7→0 fresh (excl. umbrellas + standing holds). Matches trigger shape but same healthy batch-drain cadence as every prior entry this week — not escalating.
+- **Atomic-split sweep**: nothing eligible (new issues same-day/single-file; standing roster/bands splits correctly parked `hold` under the freeze).
+
+### State delta
+- ai-fix backlog: 1 → 8 (#7550-7556 added; #7541 will re-open via Roadie's next clean pass)
+- seo-proposal bank: 7 fresh → 0 untriaged
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 7/7 triaged, live-verified, promoted. ✅ GSC-gap: both re-confirmed already-classified. ✅ L1/L2/L3: no fresh snapshot. ✅ Starvation: trigger shape matched, non-escalating. ✅ Atomic split: nothing eligible. ✅ Decisions logged.
+
+### Next Run
+1. Watch #7550-7556 ship; watch #7541 re-implement cleanly.
+2. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---
+
+---
 ## 2026-09-15 11:07 — Deep run: 8 fresh gearComparisons/kitQuizData/drummersByKit fabrication proposals verified and promoted (#7539-7546)
 
 ### Context (≤3 lines)

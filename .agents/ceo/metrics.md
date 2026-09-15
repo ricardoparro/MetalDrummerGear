@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-09-14 22:21 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-09-15 03:28 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,89 +8,90 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 348 |
-| Sessions | 384 |
-| Page views | 687 |
-| Engagement rate | 52.86% |
-| Avg session (s) | 183 |
+| Active users | 331 |
+| Sessions | 361 |
+| Page views | 660 |
+| Engagement rate | 50.42% |
+| Avg session (s) | 200 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
-| / | 34 | 19 |
-| /drummers | 29 | 9 |
-| /drummer/mario-duplantier | 20 | 17 |
-| /drummer/frost | 17 | 5 |
-| /techniques | 16 | 3 |
-| /drummer/joey-jordison | 14 | 8 |
-| /tools | 12 | 3 |
-| /drummer/bill-ward | 11 | 6 |
+| / | 37 | 18 |
+| /techniques | 22 | 3 |
+| /drummers | 19 | 7 |
+| /drummer/mario-duplantier | 17 | 14 |
+| /drummer/frost | 16 | 5 |
+| /drummer/joey-jordison | 13 | 7 |
+| /tools | 13 | 3 |
+| /drummer/bill-ward | 12 | 7 |
 | /drummer/john-otto | 9 | 4 |
-| /gear | 9 | 5 |
+| /drummer/jay-weinberg | 8 | 4 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 266 | 236 |
-| Direct | 91 | 90 |
-| Unassigned | 42 | 39 |
+| Organic Search | 245 | 217 |
+| Direct | 90 | 89 |
+| Unassigned | 49 | 46 |
 | Cross-network | 9 | 9 |
 | Referral | 1 | 1 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 147 | 129 |
-| Singapore | 29 | 29 |
-| China | 21 | 21 |
-| France | 15 | 15 |
-| Germany | 14 | 14 |
+| United States | 137 | 123 |
+| Singapore | 27 | 27 |
+| China | 20 | 20 |
+| Germany | 15 | 15 |
 | Canada | 13 | 13 |
-| United Kingdom | 13 | 8 |
+| France | 13 | 13 |
+| United Kingdom | 11 | 7 |
 | Brazil | 10 | 10 |
-| Finland | 10 | 9 |
 | Mexico | 10 | 10 |
+| Netherlands | 10 | 10 |
 
 ## Search Console — Search performance
 | Metric | Last 7d |
 | --- | --- |
-| Impressions | 9,372 |
-| Clicks | 189 |
-| CTR | 2.02% |
-| Avg position | 7.8 |
+| Impressions | 7,824 |
+| Clicks | 172 |
+| CTR | 2.20% |
+| Avg position | 7.7 |
 
 ### Top queries
 | Query | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| mario duplantier cymbals | 13 | 2 | 15.38% | 4.8 |
-| mario duplantier drum kit | 76 | 2 | 2.63% | 6.8 |
-| mario duplantier kit | 5 | 2 | 40.00% | 6.6 |
-| matt greiner drum setup | 17 | 2 | 11.76% | 7.0 |
-| arin ilejay drum kit | 2 | 1 | 50.00% | 1.0 |
+| mario duplantier cymbals | 11 | 2 | 18.18% | 4.9 |
+| mario duplantier kit | 4 | 2 | 50.00% | 6.5 |
+| matt greiner drum setup | 15 | 2 | 13.33% | 7.0 |
+| arin ilejay drum kit | 1 | 1 | 100.00% | 1.0 |
 | best black metal drummers | 5 | 1 | 20.00% | 5.2 |
 | best crash cymbals for metal | 2 | 1 | 50.00% | 6.5 |
 | best metal drummer ever | 2 | 1 | 50.00% | 19.5 |
 | bill ward drum setup 1970 | 4 | 1 | 25.00% | 7.5 |
 | eloy casagrande tama | 2 | 1 | 50.00% | 8.0 |
+| eloy casagrande vs igor cavalera | 4 | 1 | 25.00% | 1.0 |
 
 ### Top countries (impressions, last 7d)
 | Country | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| usa | 3,488 | 65 | 1.86% | 8.1 |
-| can | 468 | 11 | 2.35% | 8.5 |
-| nld | 175 | 11 | 6.29% | 7.1 |
-| deu | 321 | 9 | 2.80% | 7.7 |
-| fra | 207 | 9 | 4.35% | 7.2 |
-| ita | 200 | 7 | 3.50% | 7.0 |
-| esp | 96 | 6 | 6.25% | 6.0 |
-| fin | 145 | 6 | 4.14% | 7.0 |
-| rus | 85 | 6 | 7.06% | 6.0 |
-| swe | 165 | 6 | 3.64% | 6.7 |
+| usa | 2,892 | 62 | 2.14% | 8.0 |
+| can | 387 | 11 | 2.84% | 8.5 |
+| deu | 266 | 9 | 3.38% | 7.5 |
+| nld | 144 | 9 | 6.25% | 7.0 |
+| fra | 186 | 7 | 3.76% | 7.3 |
+| ita | 174 | 7 | 4.02% | 6.8 |
+| esp | 81 | 6 | 7.41% | 6.0 |
+| swe | 138 | 6 | 4.35% | 6.2 |
+| fin | 114 | 5 | 4.39% | 6.9 |
+| rus | 69 | 5 | 7.25% | 5.8 |
 
 ### 🎯 Content-gap queries (impr ≥50, CTR <2%) — CEO MUST address
 | Query | Impr | CTR | Pos | Action |
 | --- | --- | --- | --- | --- |
-| flo mounier | 84 | 1.19% | 8.8 | open issue to answer better |
+| flo mounier | 71 | 1.41% | 9.1 | open issue to answer better |
+| mario duplantier drum kit | 66 | 1.52% | 6.8 | open issue to answer better |
 
 ---
 *Re-run manually: `node .agents/scripts/fetch-metrics.cjs`*

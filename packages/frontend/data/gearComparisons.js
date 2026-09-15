@@ -446,7 +446,7 @@ export const gearComparisons = {
           { name: 'Gene Hoglan', band: 'Death/Testament', series: 'AAX', note: 'The Atomic Clock' },
           { name: 'Vinnie Paul', band: 'Pantera', series: 'AAX/HHX', note: 'Groove metal legend (RIP)' },
           { name: 'Mike Portnoy', band: 'Dream Theater', series: 'HHX', note: 'Prog metal icon' },
-          { name: 'Ray Luzier', band: 'Korn', series: 'HHX Evolution', note: 'Nu-metal precision' },
+          { name: 'Ray Luzier', band: 'Korn', series: 'AAX Series', note: 'Nu-metal precision' },
           { name: 'Scott Travis', band: 'Judas Priest', series: 'HHX/AAX', note: 'Power metal speed' },
           { name: 'Richard Christy', band: 'Death/Charred Walls', series: 'HHX', note: 'Death metal' },
         ],
@@ -496,7 +496,7 @@ For metal drummers, the choice often comes down to: do you want the 400-year leg
       hiHats: {
         title: 'Hi-Hats for Metal',
         zildjian: 'A New Beat (14"): Industry standard, used by Lars, Abe Cunningham. K Mastersound: Dark definition. A Custom Mastersound: Bright with clean "chick." Dynamic range excellent across the board.',
-        sabian: 'HHX Evolution (15"): Bright with warmth, Ray Luzier\'s choice. AAX X-Celerator: Fast attack for double-time. Compression Hi-Hats: Designed with Tomas Haake for extreme metal precision. Revolutionary for blast beats.',
+        sabian: 'HHX Evolution (15"): Bright with warmth, modern feel. AAX X-Celerator: Fast attack for double-time, Ray Luzier\'s choice. Compression Hi-Hats: Designed with Tomas Haake for extreme metal precision. Revolutionary for blast beats.',
         verdict: 'Zildjian for classic sounds. Sabian\'s Compression Hi-Hats are game-changing for extreme metal.',
       },
       rides: {

@@ -495,7 +495,7 @@ export const EVOLUTION_TIMELINE = [
     album: 'Ænima',
     type: TIMELINE_EVENT_TYPES.ALBUM_RELEASE,
     subgenre: METAL_SUBGENRES.PROGRESSIVE,
-    gearNotes: 'Sonor kit with electronic integration, Paiste cymbals',
+    gearNotes: 'Electronic pad integration, Paiste cymbals; drum kit brand from this era not independently documented',
     significance: 'Brought tabla and world music influences to metal drumming',
     videoEmbed: null,
     image: '/images/drummers/danny-carey.webp',

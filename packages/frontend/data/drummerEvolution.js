@@ -14135,30 +14135,30 @@ export const DRUMMER_EVOLUTION = {
     band: 'Iron Maiden',
     totalYearsActive: '1982-Present',
     profileImage: '/images/drummers/nicko-mcbrain.webp',
-    summary: 'The longest-serving drummer in Iron Maiden\'s history, Nicko McBrain has powered the band\'s galloping rhythms since 1982 using a single bass drum and pedal — never a double kick — through more than four decades of arena touring. His gear evolution runs from the Ludwig kits of Piece of Mind and Powerslave, through a Premier Resonator interlude on Somewhere in Time, into a long Premier Artist/Signia era spanning Virtual XI through The Final Frontier, into the Sonor SQ setup that carried Senjutsu (2021), and more recently onto British Drum Co. — his current drum brand, still paired with his longtime Sonor signature snare.',
+    summary: 'The longest-serving drummer in Iron Maiden\'s history, Nicko McBrain has powered the band\'s galloping rhythms since 1982 using a single bass drum and pedal — never a double kick — through more than four decades of arena touring. His gear evolution runs from a 1984 Pearl DLX signing, through a 1985 switch to Yamaha Recording Custom that carried him from Somewhere in Time through The Final Frontier, into the Sonor SQ setup that carried Senjutsu (2021), and more recently onto British Drum Co. — his current drum brand, still paired with his longtime Sonor signature snare.',
 
     eras: [
       {
-        id: 'nicko-mcbrain-1983-ludwig',
-        era: 'Ludwig / Premier Resonator Era',
+        id: 'nicko-mcbrain-1983-pearl-yamaha',
+        era: 'Pearl DLX / Yamaha Recording Custom Era',
         years: '1983–1988',
         startYear: 1983,
         endYear: 1988,
-        description: 'Nicko McBrain joined Iron Maiden in 1982, replacing Clive Burr, and made his studio debut on Piece of Mind (1983) playing a Ludwig Vistalite kit with clear acrylic shells and Paiste 2002 cymbals. He carried a Ludwig Classic Maple kit through Powerslave (1984) and the Live After Death tour — his most documented and photographed setup of the era — and again on Seventh Son of a Seventh Son (1988). In between, for Somewhere in Time (1986), he switched to a Premier Resonator kit with Roland electronic drum pads layered in, tuned low and muffled to match the album\'s synthesizer-driven, guitar-synth production. His famous single bass drum and single pedal — never a double kick — was already the defining technical signature of his playing.',
+        description: 'Nicko McBrain joined Iron Maiden in 1982, replacing Clive Burr, and made his studio debut on Piece of Mind (1983). He signed with Pearl in 1984, playing a Pearl DLX kit for the Powerslave world tour and Live After Death — his most documented and photographed setup of the era — alongside a new DW 5000 single pedal. In 1985 he switched to a Yamaha Recording Custom kit, which carried him through Somewhere in Time (1986) and Seventh Son of a Seventh Son (1988). His famous single bass drum and single pedal — never a double kick — was already the defining technical signature of his playing.',
         albums: ['Piece of Mind (1983)', 'Powerslave (1984)', 'Somewhere in Time (1986)', 'Seventh Son of a Seventh Son (1988)'],
         tours: ['World Piece Tour 1983', 'World Slavery Tour 1984–1985', 'Somewhere on Tour 1986–1987', 'Seventh Tour of a Seventh Tour 1988'],
         image: null,
 
         gear: {
           drums: {
-            item: 'Ludwig Vistalite / Classic Maple (with Premier Resonator interlude)',
-            details: 'Clear acrylic Vistalite (1983), Natural Maple Classic Maple (1984, 1988), Premier Resonator Black Lacquer (1986)',
-            notes: 'Ludwig was his primary kit through this era, with a dedicated switch to Premier\'s Resonator shells plus Roland electronic pads specifically for Somewhere in Time\'s synth-heavy production.',
+            item: 'Pearl DLX → Yamaha Recording Custom',
+            details: 'Pearl DLX (1984, Powerslave world tour and Live After Death), Yamaha Recording Custom (from 1985, used on Somewhere in Time and Seventh Son of a Seventh Son)',
+            notes: 'Signed with Pearl in 1984 for the Powerslave era, then switched to Yamaha\'s Recording Custom kit in 1985 — the brand he would play for the next 25 years.',
             change: CHANGE_TYPES.NEW,
           },
           snare: {
             item: 'Ludwig Supraphonic LM400 14"x5" / Premier 2000 14"x6.5"',
-            details: 'Steel Supraphonic on Ludwig-kit albums, Premier 2000 on Somewhere in Time',
+            details: 'Steel Supraphonic across most of this era, Premier 2000 on Somewhere in Time',
             notes: 'The Supraphonic\'s steel crack defined Piece of Mind, Powerslave, and Seventh Son; the Premier 2000 was tuned low and dry, with minimal sustain, to match Somewhere in Time\'s flatter production.',
             change: CHANGE_TYPES.NEW,
           },
@@ -14169,9 +14169,9 @@ export const DRUMMER_EVOLUTION = {
             change: CHANGE_TYPES.NEW,
           },
           hardware: {
-            item: 'Ludwig Speed King / Premier 252 pedal',
-            details: 'Single bass drum pedal throughout; Ludwig Atlas and Standard hardware; Premier hi-hat stand and throne on Somewhere in Time',
-            notes: 'Single pedal, single bass drum — the technical signature he has never abandoned, even as drum and hardware brands changed.',
+            item: 'DW 5000 Single Pedal',
+            details: 'Single bass drum pedal throughout, adopted alongside the 1984 Pearl signing',
+            notes: 'Single pedal, single bass drum — the technical signature he has never abandoned, even as drum brands changed.',
             change: CHANGE_TYPES.NEW,
           },
           sticks: {
@@ -14196,9 +14196,9 @@ export const DRUMMER_EVOLUTION = {
 
         keyChanges: [
           'Joined Iron Maiden in 1982, replacing Clive Burr',
-          'Piece of Mind (1983) — studio debut on Ludwig Vistalite',
-          'Powerslave (1984) and Live After Death — most documented Ludwig-era setup',
-          'Somewhere in Time (1986) — one-album switch to Premier Resonator + Roland electronic pads',
+          'Piece of Mind (1983) — studio debut, ahead of his first drum endorsement deal',
+          'Signed with Pearl in 1984 — Pearl DLX kit and new DW 5000 single pedal, used for Powerslave and Live After Death',
+          'Switched to Yamaha Recording Custom in 1985 — carried him through Somewhere in Time (1986) and Seventh Son of a Seventh Son (1988)',
           'Single bass drum and single pedal already established as his career-defining technique',
         ],
 
@@ -14211,22 +14211,22 @@ export const DRUMMER_EVOLUTION = {
       },
 
       {
-        id: 'nicko-mcbrain-1998-premier-artist',
-        era: 'Premier Artist / Signia Era',
-        years: '1990s–2010',
-        startYear: 1990,
+        id: 'nicko-mcbrain-1998-yamaha-recording-custom',
+        era: 'Yamaha Recording Custom Era (Reunion Years)',
+        years: '1985–2010',
+        startYear: 1985,
         endYear: 2010,
-        description: 'By Virtual XI (1998), McBrain had moved onto Premier\'s Artist series — birch/maple shells paired with his first Premier signature snare and a full Paiste Signature cymbal setup, replacing the 2002s he\'d used since 1983. The same Premier Artist platform carried him through Bruce Dickinson and Adrian Smith\'s 2000 return on Brave New World, through Dance of Death (2003) and A Matter of Life and Death (2006) — the latter giving Iron Maiden its first UK #1 album since 1992 — and into The Final Frontier (2010). Across this stretch his snare evolved from the Premier Nicko McBrain Signature to the maple-shelled Premier Signia and back to an updated signature model, but the single bass drum pedal — unchanged since 1983 — never wavered.',
+        description: 'By Virtual XI (1998), McBrain was still playing the Yamaha Recording Custom kit he\'d switched to back in 1985 — paired with his first Premier signature snare and a full Paiste Signature cymbal setup, replacing the 2002s he\'d used since the early 1980s. The same Yamaha kit carried him through Bruce Dickinson and Adrian Smith\'s 2000 return on Brave New World, through Dance of Death (2003) and A Matter of Life and Death (2006) — the latter giving Iron Maiden its first UK #1 album since 1992 — and into The Final Frontier (2010), his final album on Yamaha before switching to Sonor. Across this stretch his snare evolved from the Premier Nicko McBrain Signature to the maple-shelled Premier Signia and back to an updated signature model, but the single bass drum pedal — unchanged since 1984 — never wavered.',
         albums: ['Virtual XI (1998)', 'Brave New World (2000)', 'Dance of Death (2003)', 'A Matter of Life and Death (2006)', 'The Final Frontier (2010)'],
         tours: ['Virtual XI World Tour 1998', 'Brave New World Tour 2000–2001', 'Dance of Death World Tour 2003–2004', 'A Matter of the Beast Tour 2006–2007', 'The Final Frontier World Tour 2010–2011'],
         image: null,
 
         gear: {
           drums: {
-            item: 'Premier Artist',
-            details: 'Birch/maple shells (Virtual XI), birch/basswood shells (2000 onward)',
-            notes: 'Moved from Ludwig/Premier Resonator to Premier\'s dedicated Artist series — his main kit for over a decade across five studio albums.',
-            change: CHANGE_TYPES.SWITCH,
+            item: 'Yamaha Recording Custom',
+            details: 'Same Yamaha Recording Custom kit adopted in 1985, played across all five studio albums of this era',
+            notes: 'No new drum-brand debut here — this is a continuation of the Yamaha Recording Custom kit he switched to in 1985, which he kept until moving to Sonor in 2010.',
+            change: null,
           },
           snare: {
             item: 'Premier Nicko McBrain Signature 14"x6.5" → Premier Signia 14"x6.5" maple',
@@ -14241,9 +14241,9 @@ export const DRUMMER_EVOLUTION = {
             change: CHANGE_TYPES.UPGRADE,
           },
           hardware: {
-            item: 'Premier single bass drum pedal',
-            details: 'Unchanged from 1983 — one pedal, one bass drum',
-            notes: 'Explicitly noted as "unchanged from 1983" on the Virtual XI sessions — the single-pedal approach remained a point of pride through the entire reunion era.',
+            item: 'DW 5000 Single Pedal',
+            details: 'Unchanged since 1984 — one pedal, one bass drum',
+            notes: 'The same DW 5000 single pedal signed in 1984 — the single-pedal approach remained a point of pride through the entire reunion era.',
             change: null,
           },
           sticks: {
@@ -14267,11 +14267,11 @@ export const DRUMMER_EVOLUTION = {
         },
 
         keyChanges: [
-          'Virtual XI (1998) — debut of Premier Artist kit and first Premier signature snare',
+          'Virtual XI (1998) — still on the Yamaha Recording Custom kit adopted in 1985, debut of his first Premier signature snare',
           'Brave New World (2000) — Bruce Dickinson and Adrian Smith rejoin Iron Maiden',
           'A Matter of Life and Death (2006) — Iron Maiden\'s first UK #1 album since 1992',
           'Paiste 2002 replaced by Paiste Signature series across this era',
-          'Single bass drum pedal remained unchanged from 1983 throughout',
+          'Single bass drum pedal remained unchanged from 1984 throughout',
         ],
 
         quote: {
@@ -14288,7 +14288,7 @@ export const DRUMMER_EVOLUTION = {
         years: '2010–Present',
         startYear: 2010,
         endYear: 2026,
-        description: 'McBrain\'s post-Premier gear transition began with Sonor, first the SQ1 series and then the SQ2, with Kevin Shirley\'s Guillaume Tell recording sessions for Senjutsu (2021) capturing the kit with unusual naturalness. Senjutsu — Iron Maiden\'s first UK #1 album since A Matter of Life and Death, an 81-minute double album recorded when McBrain was 67 — represents the culmination of a gear evolution that ran from Ludwig through Premier into Sonor, with his three-rack-tom configuration (expanded from the two-rack Piece of Mind-era setup) giving him the melodic fill vocabulary the album\'s long-form tracks demand. More recently, McBrain moved his drums to British Drum Co. — his current brand — while keeping the Sonor Nicko McBrain Signature snare and Paiste cymbals that have defined his sound for decades. His Paiste cymbal voice and single bass drum pedal remain the two constants across every era of his career.',
+        description: 'McBrain\'s post-Yamaha gear transition began with Sonor, first the SQ1 series and then the SQ2, with Kevin Shirley\'s Guillaume Tell recording sessions for Senjutsu (2021) capturing the kit with unusual naturalness. Senjutsu — Iron Maiden\'s first UK #1 album since A Matter of Life and Death, an 81-minute double album recorded when McBrain was 67 — represents the culmination of a gear evolution that ran from Pearl and Yamaha into Sonor, with his three-rack-tom configuration (expanded from the two-rack Piece of Mind-era setup) giving him the melodic fill vocabulary the album\'s long-form tracks demand. More recently, McBrain moved his drums to British Drum Co. — his current brand — while keeping the Sonor Nicko McBrain Signature snare and Paiste cymbals that have defined his sound for decades. His Paiste cymbal voice and single bass drum pedal remain the two constants across every era of his career.',
         albums: ['Senjutsu (2021)'],
         tours: ['Legacy of the Beast Tour 2018–2023', 'The Future Past Tour 2023–2025'],
         image: null,
@@ -14327,7 +14327,7 @@ export const DRUMMER_EVOLUTION = {
           heads: {
             item: 'Remo Powerstroke 3 Clear / Ambassador Coated',
             details: 'Consistent configuration',
-            notes: 'Same head configuration as the Premier Artist era.',
+            notes: 'Same head configuration as the Yamaha Recording Custom era.',
             change: null,
           },
         },
@@ -14339,7 +14339,7 @@ export const DRUMMER_EVOLUTION = {
         },
 
         keyChanges: [
-          'Moved to Sonor SQ1/SQ2 custom drums, ending decades on Ludwig and Premier',
+          'Moved to Sonor SQ1/SQ2 custom drums, ending 25 years on Yamaha Recording Custom',
           'Senjutsu (2021) — UK #1 album, 81-minute double album recorded at age 67',
           'Grammy nomination for "The Writing on the Wall" (Best Rock Performance, 2022)',
           'More recently switched his drums to British Drum Co., his current brand, while keeping the Sonor signature snare',
@@ -14358,19 +14358,19 @@ export const DRUMMER_EVOLUTION = {
     faqs: [
       {
         q: 'What drum kit does Nicko McBrain use?',
-        a: 'Nicko McBrain currently plays a British Drum Co. kit with a Sonor Nicko McBrain Signature 14"x6.5" snare and Paiste 2002 & Signature Series cymbals. He recorded Senjutsu (2021) on a Sonor SQ1/SQ2 kit before moving his drums to British Drum Co., and before that spent a long run on Premier drums (Virtual XI through The Final Frontier) and an earlier Ludwig era on Piece of Mind and Powerslave.',
+        a: 'Nicko McBrain currently plays a British Drum Co. kit with a Sonor Nicko McBrain Signature 14"x6.5" snare and Paiste 2002 & Signature Series cymbals. He recorded Senjutsu (2021) on a Sonor SQ1/SQ2 kit before moving his drums to British Drum Co., and before that spent 25 years on a Yamaha Recording Custom kit (1985 through The Final Frontier in 2010), after an earlier Pearl DLX era that debuted on Powerslave in 1984.',
       },
       {
         q: 'Does Nicko McBrain use a double bass drum pedal?',
-        a: 'No — Nicko McBrain has used a single bass drum and single pedal throughout his entire 40-plus year career with Iron Maiden, from the Ludwig Speed King in 1983 to his current Sonor single pedal. He has never switched to a double bass or double pedal setup, achieving his galloping speed with one foot.',
+        a: 'No — Nicko McBrain has used a single bass drum and single pedal throughout his entire 40-plus year career with Iron Maiden, from the DW 5000 single pedal he signed in 1984 to his current Sonor single pedal. He has never switched to a double bass or double pedal setup, achieving his galloping speed with one foot.',
       },
       {
         q: 'What drums did Nicko McBrain use on Powerslave?',
-        a: 'For Powerslave (1984) and the Live After Death tour, Nicko McBrain played a Ludwig Classic Maple kit with a Ludwig Supraphonic LM400 14"x5" steel snare and Paiste 2002 cymbals — his most documented and photographed setup of the 1980s.',
+        a: 'For Powerslave (1984) and the Live After Death tour, Nicko McBrain played a Pearl DLX kit with a Ludwig Supraphonic LM400 14"x5" steel snare and Paiste 2002 cymbals — his most documented and photographed setup of the 1980s.',
       },
       {
         q: 'Why did Nicko McBrain switch drum kits over his career?',
-        a: 'McBrain moved from Ludwig (1983–1988, with a one-album Premier Resonator switch for Somewhere in Time\'s synth-heavy sound in 1986) to Premier\'s Artist series for over a decade (Virtual XI through The Final Frontier, 1998–2010), to Sonor\'s SQ1/SQ2 custom program for Senjutsu (2021), and more recently to British Drum Co., his current drum brand — each move chasing a warmer, fuller tone while keeping his single-pedal technique and Sonor signature snare unchanged.',
+        a: 'McBrain signed with Pearl in 1984 for a Pearl DLX kit (Powerslave, Live After Death), switched to Yamaha\'s Recording Custom kit in 1985 and stayed there for 25 years through Somewhere in Time, Seventh Son of a Seventh Son, and the reunion-era albums up to The Final Frontier (2010), then moved to Sonor\'s SQ1/SQ2 custom program for Senjutsu (2021), and more recently to British Drum Co., his current drum brand — each move chasing a warmer, fuller tone while keeping his single-pedal technique unchanged.',
       },
       {
         q: 'What cymbals does Nicko McBrain use?',
@@ -14379,7 +14379,7 @@ export const DRUMMER_EVOLUTION = {
     ],
 
     metaTitle: 'Nicko McBrain Gear Evolution Timeline | Iron Maiden Drum Kit History',
-    metaDescription: 'Explore Nicko McBrain\'s complete drum gear evolution: Ludwig kits on Piece of Mind and Powerslave (1983-1988) → Premier Artist and Signia across Virtual XI, Brave New World, and The Final Frontier → Sonor SQ1/SQ2 on Senjutsu (2021) → British Drum Co., his current kit. Four-plus decades with Iron Maiden, single pedal throughout, era by era.',
+    metaDescription: 'Explore Nicko McBrain\'s complete drum gear evolution: Pearl DLX on Powerslave (1984) → Yamaha Recording Custom from Somewhere in Time through The Final Frontier (1985-2010) → Sonor SQ1/SQ2 on Senjutsu (2021) → British Drum Co., his current kit. Four-plus decades with Iron Maiden, single pedal throughout, era by era.',
   },
 
   // ==========================================

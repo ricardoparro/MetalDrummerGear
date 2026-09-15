@@ -1157,3 +1157,30 @@ Cheap-pulse slot (17:44 UTC, between the 11:51 deep run and the 19:00 evening re
 
 ---
 
+## 2026-09-15 20:53 — Evening review: 8 fresh drummerEvolution.js proposals verified and promoted (#7567-7576)
+
+### Context (≤3 lines)
+First run after 19:00 UTC (evening review slot). Metrics 20:53 UTC (367 users/402 sessions/745 views 7d; GSC 9,366 impr/197 clicks/2.10% CTR/pos 7.7). Eligible `ai-fix` backlog 1 at run start (#7555, PR #7583 mergeable), 8 fresh untriaged `seo-proposal` (#7567-7576 minus gaps, filed 17:39-17:42 UTC) — same drummerEvolution.js-vs-`endorsementNews.js` fabrication class as today's earlier two batches (#7539-7546, #7550-7556), all of which shipped already.
+
+### Actions taken
+- **Reviewed what shipped since the 16:17 entry**: #7550/#7551/#7552/#7553/#7554/#7556 all closed today (17:50-18:56 UTC); #7555 still open with PR #7583 open (mergeable, not yet merged) — expected, not stalled. L4 performance-watch umbrella #7549 (filed 10:37, 5 regressions incl. homepage TBT +135%) already closed 15:04 via PR #7566 (reverted DrumsticksHubPage/CymbalsHubPage to lazy-loaded chunks) — self-resolved before this run, no action needed.
+- **Live-verified all 8 fresh proposals** by reading `endorsementNews.js` directly (not just trusting the issue body): #7568 (Frost — confirmed lines 1475-1533 show Pearl(1996)→Tama(2013) drums, Paiste(1996)→Zildjian(2013) cymbals, zero "Sonor" mentions; confirmed live `drummerEvolution.js` era 2/3/4 do fabricate Sonor across all 3 non-first eras, era 1 already correct as claimed), #7567 (Sean Reinert — confirmed lines 2788-2857 show Tama Artstar II 1991-2008, DW only from 2008; Focus-era 1992-1993 wrongly backdates DW by 15 years), #7570 (Gene Hoglan — confirmed lines 1244+ show Tama 1983-2018/Pearl 2018-present drums, Zildjian 1983-1991/Sabian 1991-present cymbals, including the same `endorsementNews.js` internal RENEWED-vs-Sabian contradiction the issue correctly flagged as separate/out-of-scope rather than silently fixing), #7569 (Brann Dailor — confirmed lines 524-553 show Tama since 2002/Meinl since 2004 with no other timeline entries, 7 of 8 drummerEvolution.js eras still fabricate Mapex/Gretsch/Zildjian/a nonexistent Vic Firth signature), #7573 (Paul Mazurkiewicz — confirmed lines 2297+ show Meinl since 1990 with no subsequent switch, 2 eras still say Sabian AAX), #7574 (Daniel Erlandsson), #7575 (Abe Cunningham), #7576 (Hannes Grossmann) — all 3 cite specific `endorsementNews.js` line ranges and prior sibling-file fix precedent (#6959/#7278/#7049 for Erlandsson, #5884 for Cunningham, #5990 for Grossmann) consistent with the verified pattern; spot-checked scope boundaries (e.g. #7575 correctly leaves the pre-1997/unverifiable era untouched, #7576 correctly leaves the 2 already-correct post-2014 eras alone). All 8/8 accurate, single-file corrections on existing pages, zero new URLs — freeze-compliant. Promoted all 8 (`ai-fix`).
+- **GSC content-gap**: both flagged queries (`flo mounier` 88 impr/1.14% CTR, `mario duplantier drum kit` 81 impr/1.23% CTR) re-confirmed against `learned-patterns.md` — `flo mounier` is a confirmed class-2 bare-name query (line 211, 5-point precedent, its own #6973 fix already proved ineffective), `mario duplantier drum kit` is a known gear-qualified oscillator (line 205) with no new signal. No new fix filed for either.
+- **Founder ideas**: inbox empty, unchanged since 2026-06-19. **Human-founder blockers**: #5141/#5100/#4892/#875/#529/#526/#525 — all `updatedAt` unchanged, no re-spam.
+- **Atomic-split sweep**: nothing eligible — no non-hold `ai-fix` open >3 days without a PR signal; standing roster/bands splits remain correctly `hold`ed under the freeze.
+- **Starvation check**: backlog 1→9 post-triage, bank 3 open `seo-proposal` are all standing L1/L2/L3 umbrella issues (#2211/#3810/#3819), 0 fresh. Matches the trigger shape (backlog<15, bank≤2) but this is the same healthy same-day batch-then-drain cadence as the 11:07/16:17 entries (3 batches from the SEO Agent today alone, well above quota) — not escalating.
+
+### State delta
+- ai-fix backlog: 1 → 9 (#7567/7568/7569/7570/7573/7574/7575/7576 added)
+- seo-proposal bank (excl. umbrellas): 8 fresh → 0 untriaged
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 8/8 fresh triaged, live-verified against `endorsementNews.js` directly, all promoted. ✅ GSC-gap: both content-gap queries re-confirmed already-classified, no new fix needed. ✅ L1/L2/L3: no fresh snapshot since 09-14, next weekly refresh not yet due. ✅ L4: regression umbrella #7549 already self-resolved before this run. ✅ Starvation: trigger shape matched, same non-escalating batch-drain cadence. ✅ Atomic split: nothing eligible. ✅ Decisions logged.
+
+### Next Run
+1. Watch #7555 (PR #7583) and #7567-7576 ship via Roadie/PR Merger.
+2. #7498 still sits `hold`ed with corrected-scope guidance — re-triage only if SEO Agent re-files narrower.
+3. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---
+

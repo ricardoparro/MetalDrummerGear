@@ -9933,22 +9933,22 @@ export const DRUMMER_EVOLUTION = {
 
         gear: {
           drums: {
-            item: 'Sonor Designer Series',
-            details: 'Beech shells: 22" kick, 10"/12"/14"/16" toms',
-            notes: 'Switch to Sonor — the start of a long-running brand relationship — for a more focused, controllable attack at sustained extreme tempos than the earlier Pearl Export could deliver.',
-            change: CHANGE_TYPES.SWITCH,
+            item: 'Pearl Export Series',
+            details: 'Birch/poplar shells: 22" kick, 10"/12"/14"/16" toms',
+            notes: 'Continued on the same Pearl Export kit through the industrial-era Satyricon records and the founding of 1349 — the drum switch to Tama would not come until 2013.',
+            change: null,
           },
           snare: {
-            item: 'Sonor Designer 14"x6" Maple',
-            details: 'Maple shell, dry and cutting',
-            notes: 'A drier, more focused crack suited to the increasingly produced sound of Rebel Extravaganza and the early 1349 records.',
-            change: CHANGE_TYPES.UPGRADE,
+            item: 'Pearl Export 14"x5.5" Steel',
+            details: 'Basic steel shell, sharp crack',
+            notes: 'Same cutting steel snare carried over from the previous era, suited to Rebel Extravaganza and the early 1349 records.',
+            change: null,
           },
           cymbals: {
-            item: 'Zildjian A Series',
+            item: 'Paiste 2002 Series',
             details: '14" hi-hats, 16"/18" crashes, 20" ride',
-            notes: 'Switched to Zildjian for a more controlled, cutting voice as both Satyricon and the newly formed 1349 demanded tighter cymbal articulation at blast tempo.',
-            change: CHANGE_TYPES.SWITCH,
+            notes: 'Continued on Paiste 2002 for a bright, cutting voice as both Satyricon and the newly formed 1349 demanded tighter cymbal articulation at blast tempo — the Zildjian switch would not come until 2013.',
+            change: null,
           },
           hardware: {
             item: 'Double pedal with kick trigger',
@@ -9979,7 +9979,7 @@ export const DRUMMER_EVOLUTION = {
         keyChanges: [
           'Rebel Extravaganza (1999) pushes Satyricon into industrial black metal territory',
           'Co-founded 1349 (2001) alongside Ravn and Archaon as a pure extremity outlet',
-          'Switched from Pearl to Sonor — beginning a decades-long brand partnership',
+          'Continued on his Pearl/Paiste setup from the debut era through the industrial-era records',
           'Liberation (2003) and Hellfire (2005) showcase benchmark blast beat speed',
           'Electronic kick trigger augmentation added to the live setup',
         ],
@@ -9998,35 +9998,35 @@ export const DRUMMER_EVOLUTION = {
         years: '2006-2013',
         startYear: 2006,
         endYear: 2013,
-        description: 'Now, Diabolical (2006) and The Age of Nero (2008) brought Satyricon to its commercial peak, with Frost\'s drumming evolving toward a more song-serving, almost rock-inflected sensibility without sacrificing extremity. By the self-titled Satyricon (2013), his playing had become a study in restraint and dynamics — knowing when to blast and when to let space define a track. His Sonor SQ2 custom kit, developed during this era, became his signature platform.',
+        description: 'Now, Diabolical (2006) and The Age of Nero (2008) brought Satyricon to its commercial peak, with Frost\'s drumming evolving toward a more song-serving, almost rock-inflected sensibility without sacrificing extremity. By the self-titled Satyricon (2013), his playing had become a study in restraint and dynamics — knowing when to blast and when to let space define a track. He remained on his Pearl/Paiste setup throughout this era, right up to the Tama/Zildjian switch that accompanied the 2013 self-titled album.',
         albums: ['Now, Diabolical (2006)', 'The Age of Nero (2008)', 'Satyricon (2013)'],
         tours: ['Now, Diabolical World Tour 2006-2007', 'Wacken Open Air headline sets'],
         image: null,
 
         gear: {
           drums: {
-            item: 'Sonor SQ2 Series',
-            details: 'Custom maple shells: 22" kick, 10"/12"/14"/16" toms',
-            notes: 'Upgraded to Sonor\'s premium custom-build SQ2 platform, allowing precise specification of shell depth and bearing edges for a more powerful, focused tone matching Satyricon\'s polished mid-2000s production.',
-            change: CHANGE_TYPES.UPGRADE,
+            item: 'Pearl Export Series',
+            details: 'Birch/poplar shells: 22" kick, 10"/12"/14"/16" toms',
+            notes: 'Remained on the same Pearl Export kit through Satyricon\'s commercial breakthrough — the switch to Tama did not happen until the 2013 self-titled album.',
+            change: null,
           },
           snare: {
-            item: 'Sonor SQ2 14"x6" Maple',
-            details: 'Custom maple shell, dry crack',
-            notes: 'The signature Frost snare sound — a dry, cutting maple shell that became his standard from this point forward.',
-            change: CHANGE_TYPES.UPGRADE,
+            item: 'Pearl Export 14"x5.5" Steel',
+            details: 'Basic steel shell, sharp crack',
+            notes: 'Same cutting steel snare, unchanged through Now, Diabolical and The Age of Nero.',
+            change: null,
           },
           cymbals: {
-            item: 'Zildjian A Custom & K Series',
-            details: '14" A Custom hi-hats, 16"/17"/18" A Custom crashes, 22" K Custom Dark ride, 18" K China',
-            notes: 'Expanded to a mixed A Custom / K Series setup — brighter A Custom for cutting accents alongside darker K Series tone for the band\'s more atmospheric passages.',
-            change: CHANGE_TYPES.UPGRADE,
+            item: 'Paiste 2002 Series',
+            details: '14" hi-hats, 16"/18" crashes, 20" ride',
+            notes: 'Remained on Paiste 2002 through this era — the Zildjian switch would not arrive until 2013.',
+            change: null,
           },
           hardware: {
-            item: 'Sonor Perfect Balance Pedal',
-            details: 'Precision single pedal',
-            notes: 'Adopted Sonor\'s flagship pedal for maximum speed and control — a refinement that came to define his extreme single-foot technique.',
-            change: CHANGE_TYPES.SIGNATURE,
+            item: 'Double pedal with kick trigger',
+            details: 'Entry-level hardware, electronic trigger augmentation',
+            notes: 'Continued on basic hardware with the kick trigger augmentation from the previous era — the switch to Tama hardware did not happen until 2013.',
+            change: null,
           },
           sticks: {
             item: 'Vic Firth American Classic Extreme 5B',
@@ -10050,8 +10050,7 @@ export const DRUMMER_EVOLUTION = {
 
         keyChanges: [
           'Now, Diabolical (2006) becomes Satyricon\'s commercial breakthrough',
-          'Upgraded to Sonor SQ2 custom series — the signature Frost drum platform',
-          'Sonor Perfect Balance pedal adopted for extreme speed and control',
+          'Remained on his Pearl/Paiste setup throughout this era',
           'Self-titled Satyricon (2013) showcases mature dynamic restraint',
           'Playing evolves toward song-serving structure without losing extremity',
         ],
@@ -10070,23 +10069,23 @@ export const DRUMMER_EVOLUTION = {
         years: '2013-Present',
         startYear: 2013,
         endYear: 2026,
-        description: 'In the modern era, Frost balances two demanding bands — Satyricon\'s atmospheric, increasingly experimental direction on Deep calleth upon Deep (2017) and 1349\'s relentless extremity on The Infernal Pathway (2019). His Sonor SQ2 setup has been refined into its definitive configuration, and his blast beats now carry decades of architectural development: dynamic swells, deliberate cymbal voicing, and micro-variations in foot pattern that make even the densest material feel kinetic. Widely cited as one of extreme metal\'s most disciplined and influential drummers, Frost continues to set the technical benchmark for Norwegian black metal.',
+        description: 'In the modern era, Frost balances two demanding bands — Satyricon\'s atmospheric, increasingly experimental direction on Deep calleth upon Deep (2017) and 1349\'s relentless extremity on The Infernal Pathway (2019). His switch to a Tama Starclassic Bubinga kit and Zildjian A Series cymbals arrived alongside the 2013 self-titled Satyricon album, and his blast beats now carry decades of architectural development: dynamic swells, deliberate cymbal voicing, and micro-variations in foot pattern that make even the densest material feel kinetic. Widely cited as one of extreme metal\'s most disciplined and influential drummers, Frost continues to set the technical benchmark for Norwegian black metal.',
         albums: ['Deep calleth upon Deep (2017)', '1349: The Infernal Pathway (2019)'],
         tours: ['Deep calleth upon Deep World Tour 2017-2018', '1349 Infernal Pathway Tour 2019-2020'],
         image: null,
 
         gear: {
           drums: {
-            item: 'Sonor SQ2 Series (refined custom finish)',
-            details: 'Custom maple shells: 22" kick, 10"/12"/14"/16" toms',
-            notes: 'Final refined configuration of his long-running Sonor SQ2 platform, with custom finishes reflecting his stature as one of Sonor\'s most prominent metal endorsers.',
-            change: CHANGE_TYPES.UPGRADE,
+            item: 'Tama Starclassic Bubinga Series',
+            details: 'Bubinga shells: 22" kick, 10"/12"/14"/16" toms',
+            notes: 'Switched to a Tama Starclassic Bubinga kit as Satyricon\'s self-titled album pushed toward a more refined, modern production sound.',
+            change: CHANGE_TYPES.SWITCH,
           },
           snare: {
-            item: 'Sonor SQ2 14"x6" Maple',
-            details: 'Signature dry, cutting tone',
-            notes: 'Unchanged signature snare — the defining Frost sound across two decades of Sonor endorsement.',
-            change: null,
+            item: 'Tama Starclassic Bubinga 14"x6"',
+            details: 'Bubinga shell, dry cutting tone',
+            notes: 'Matching Starclassic Bubinga snare adopted alongside the 2013 kit switch.',
+            change: CHANGE_TYPES.SWITCH,
           },
           cymbals: {
             item: 'Zildjian A Custom & K Custom Dark',
@@ -10095,10 +10094,10 @@ export const DRUMMER_EVOLUTION = {
             change: null,
           },
           hardware: {
-            item: 'Sonor Perfect Balance Pedal',
-            details: 'Consistent precision single pedal',
-            notes: 'Maintained as the trusted platform for his sustained blast beat technique.',
-            change: null,
+            item: 'Tama Iron Cobra Power Glide Pedal + Iron Cobra Lever Glide Hi-Hat Stand',
+            details: 'Precision double pedal and hi-hat stand',
+            notes: 'Upgraded from entry-level basic hardware to Tama\'s Iron Cobra Power Glide pedal and Lever Glide hi-hat stand alongside the 2013 kit switch.',
+            change: CHANGE_TYPES.SWITCH,
           },
           sticks: {
             item: 'Vic Firth American Classic Extreme 5B',
@@ -10123,7 +10122,7 @@ export const DRUMMER_EVOLUTION = {
         keyChanges: [
           'Deep calleth upon Deep (2017) shows Satyricon\'s most atmospheric, experimental direction',
           'The Infernal Pathway (2019) reaffirms 1349\'s uncompromising extremity',
-          'Sonor SQ2 setup reaches its definitive, fully refined configuration',
+          'Tama Starclassic Bubinga and Zildjian A Series setup, adopted in 2013, reaches its definitive, fully refined configuration',
           'Recognized globally as one of black metal\'s most technically disciplined drummers',
           'Continues balancing two demanding bands across three decades of touring',
         ],
@@ -10148,7 +10147,7 @@ export const DRUMMER_EVOLUTION = {
       },
       {
         q: 'What drum kit does Frost play?',
-        a: 'Frost plays a Sonor SQ2 Series custom kit — his signature setup since the mid-2000s, paired with a Sonor SQ2 14"x6" maple snare, Zildjian A Custom and K Custom Dark cymbals, and a Sonor Perfect Balance pedal. Earlier in his career he used Pearl Export and Sonor Designer kits.',
+        a: 'Frost plays a Tama Starclassic Bubinga kit — his setup since 2013 — paired with a matching Starclassic Bubinga snare, Zildjian A Custom and K Custom Dark cymbals, and a Tama Iron Cobra Power Glide pedal with Iron Cobra Lever Glide hi-hat stand. Earlier in his career, from 1996 through 2013, he played a Pearl Export kit with Paiste 2002 cymbals.',
       },
       {
         q: 'What is the difference between Frost\'s playing in Satyricon and 1349?',

@@ -68,7 +68,7 @@ export const KIT_QUIZ_QUESTIONS = [
     gear: {
       drums: 'Sonor SQ2 Series',
       snare: 'Sonor Tomas Haake Signature 14x6.25"',
-      cymbals: 'Meinl Byzance & MB20 Series',
+      cymbals: 'Sabian HHX & AAX Series',
       hardware: 'Sonor Perfect Balance Pedal',
       sticks: 'Wincent Tomas Haake Signature',
     },

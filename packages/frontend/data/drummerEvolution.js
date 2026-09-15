@@ -8556,21 +8556,21 @@ export const DRUMMER_EVOLUTION = {
         years: '1992-1993',
         startYear: 1992,
         endYear: 1993,
-        description: 'The apex. Cynic\'s Focus (1993) is the defining jazz-fusion death metal record — and Sean Reinert\'s drumming is inseparable from that achievement. Co-written with Paul Masvidal, Focus fused death metal brutality with Weather Report-style complexity. The DW Collector\'s setup reached its fullest expression here, with a switch to darker Zildjian K cymbals.',
+        description: 'The apex. Cynic\'s Focus (1993) is the defining jazz-fusion death metal record — and Sean Reinert\'s drumming is inseparable from that achievement. Co-written with Paul Masvidal, Focus fused death metal brutality with Weather Report-style complexity. The Tama Artstar II setup reached its fullest expression here, with a switch to darker Zildjian K cymbals.',
         albums: ['Focus (1993)'],
         tours: ['Focus Tour 1993 (supporting Death, limited dates)'],
         image: null,
 
         gear: {
           drums: {
-            item: 'DW Collector\'s Series',
-            details: 'Maple shells: 22" kick, 10"/12"/13"/14"/16" toms',
-            notes: 'Same DW Collector\'s configuration used on Human. The warm, open maple sound was essential to Focus\'s jazz-fusion atmosphere — a stark contrast to the compressed, triggered sound of most metal contemporaries.',
+            item: 'Tama Artstar II',
+            details: 'Birch shells: 22" kick, 10"/12"/13"/14"/16" toms',
+            notes: 'Same Tama Artstar II configuration used on Human. The punchy, focused birch tone was essential to Focus\'s jazz-fusion atmosphere — a stark contrast to the compressed, triggered sound of most metal contemporaries.',
             change: null,
           },
           snare: {
-            item: 'DW Collector\'s 14"x5.5"',
-            details: 'Maple shell — tuned higher and more open for Focus sessions',
+            item: 'Tama Artstar II 14"x6.5"',
+            details: 'Birch shell — tuned higher and more open for Focus sessions',
             notes: 'Sean tuned the snare notably higher and more open for Focus than on the Death albums — reflecting the record\'s greater jazz-fusion influence and the need to sit in a more complex harmonic texture.',
             change: CHANGE_TYPES.UPGRADE,
           },

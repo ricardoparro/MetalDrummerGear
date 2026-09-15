@@ -756,9 +756,9 @@ export const DRUMMER_EVOLUTION = {
             change: null,
           },
           cymbals: {
-            item: 'Zildjian A Series',
+            item: 'Sabian AA',
             details: '14" New Beat hi-hats, 17"/18" crashes, 20" ride, 18" China',
-            notes: 'Standard Zildjian A setup inherited from classic rock influences.',
+            notes: 'Standard Sabian AA setup inherited from classic rock influences.',
             change: null,
           },
           hardware: {
@@ -826,9 +826,9 @@ export const DRUMMER_EVOLUTION = {
             change: CHANGE_TYPES.SWITCH,
           },
           cymbals: {
-            item: 'Zildjian A Custom',
+            item: 'Sabian AAX',
             details: '14" hi-hats, 16"/17"/18"/19" crashes, 22" ride, 18"/20" Chinas',
-            notes: 'Expanded cymbal setup for wider articulation.',
+            notes: 'Expanded to Sabian AAX for wider articulation.',
             change: CHANGE_TYPES.UPGRADE,
           },
           hardware: {
@@ -896,7 +896,7 @@ export const DRUMMER_EVOLUTION = {
             change: null,
           },
           cymbals: {
-            item: 'Zildjian A Custom',
+            item: 'Sabian AAX',
             details: '14" hi-hats, 17"/18"/19" crashes, 22" ride, China cymbals',
             notes: 'No change to cymbal setup.',
             change: null,
@@ -960,9 +960,9 @@ export const DRUMMER_EVOLUTION = {
             change: CHANGE_TYPES.SWITCH,
           },
           cymbals: {
-            item: 'Zildjian A Custom',
+            item: 'Sabian AAX',
             details: '14" hi-hats, multiple crashes 16"–20", 22" ride, 18"/20" Chinas, splash cymbals',
-            notes: 'Expanded cymbal array to cover all dynamic ranges in the concept album.',
+            notes: 'Expanded Sabian AAX array to cover all dynamic ranges in the concept album.',
             change: CHANGE_TYPES.UPGRADE,
           },
           hardware: {
@@ -1037,9 +1037,9 @@ export const DRUMMER_EVOLUTION = {
             change: CHANGE_TYPES.SIGNATURE,
           },
           cymbals: {
-            item: 'Zildjian Mike Portnoy Signature',
+            item: 'Sabian Mike Portnoy Signature',
             details: '14" hi-hats, signature crashes and ride, Chinas',
-            notes: 'Zildjian signature series — cymbals tailored to his exact requirements.',
+            notes: 'Sabian signature series — cymbals tailored to his exact requirements.',
             change: CHANGE_TYPES.SIGNATURE,
           },
           hardware: {
@@ -1076,7 +1076,7 @@ export const DRUMMER_EVOLUTION = {
 
         keyChanges: [
           'Tama Mike Portnoy signature snare released',
-          'Zildjian signature cymbal line launched',
+          'Sabian signature cymbal line launched',
           'Switched to Evans heads',
           'Kit reached maximum size with 20" floor tom',
         ],
@@ -1114,9 +1114,9 @@ export const DRUMMER_EVOLUTION = {
             change: null,
           },
           cymbals: {
-            item: 'Zildjian Mike Portnoy Signature Suite',
+            item: 'Sabian Mike Portnoy Signature Suite',
             details: 'Full signature setup — hi-hats, crashes, rides, Chinas',
-            notes: 'Complete Zildjian signature suite at peak development.',
+            notes: 'Complete Sabian signature suite at peak development.',
             change: null,
           },
           hardware: {

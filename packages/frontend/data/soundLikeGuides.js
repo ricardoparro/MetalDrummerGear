@@ -131,10 +131,10 @@ This guide will break down exactly how to capture Joey's sound—from his aggres
         alternative: "Vic Firth 5A or 5B for traditional wood stick feel"
       },
       heads: {
-        kick: 'Remo Powerstroke P3 Clear',
-        snare: 'Remo Ambassador X Coated',
-        toms: 'Remo Emperor Clear',
-        resonant: 'Remo Ambassador Clear'
+        kick: 'Evans',
+        snare: 'Evans',
+        toms: 'Evans',
+        resonant: 'Evans'
       }
     },
     // Tuning Section

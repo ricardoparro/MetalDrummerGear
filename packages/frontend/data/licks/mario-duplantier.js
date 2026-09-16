@@ -51,7 +51,7 @@ export const licks = {
         "link": null
       },
       {
-        "name": "DW 9000 Pedals",
+        "name": "Tama Iron Cobra 900 Power Glide",
         "type": "pedals",
         "link": null
       }
@@ -188,7 +188,7 @@ export const licks = {
         "link": null
       },
       {
-        "name": "DW 9000 Pedals",
+        "name": "Tama Iron Cobra 900 Power Glide",
         "type": "pedals",
         "link": null
       }
@@ -255,7 +255,7 @@ export const licks = {
         "link": null
       },
       {
-        "name": "DW 9000 Pedals",
+        "name": "Tama Iron Cobra 900 Power Glide",
         "type": "pedals",
         "link": null
       }
@@ -312,7 +312,7 @@ export const licks = {
     "tutorial": null,
     "gearUsed": [
       {
-        "name": "DW 9000 Pedals",
+        "name": "DW 5000 Turbo Double Pedal",
         "type": "pedals",
         "link": null
       }
@@ -373,7 +373,7 @@ export const licks = {
     },
     "gearUsed": [
       {
-        "name": "DW 9000 Pedals",
+        "name": "DW 5000 Turbo Double Pedal",
         "type": "pedals",
         "link": null
       }

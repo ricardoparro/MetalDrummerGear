@@ -141,12 +141,6 @@ export const GEAR_INDEX = {
         "name": "Hannes Grossmann",
         "slug": "hannes-grossmann",
         "configString": "Meinl Byzance Series (14\" Byzance Traditional Hi-Hats, 18\" & 19\" Byzance Brilliant Crashes, 21\" Byzance Traditional Ride)"
-      },
-      {
-        "id": 62,
-        "name": "Martin Axenrot",
-        "slug": "martin-axenrot",
-        "configString": "Meinl Byzance Series (14\" Traditional Medium Hi-Hats, 16\" & 18\" & 19\" Crashes, 22\" Traditional Ride, 18\" China)"
       }
     ]
   },
@@ -559,12 +553,6 @@ export const GEAR_INDEX = {
         "name": "Gavin Harrison",
         "slug": "gavin-harrison",
         "configString": "Sonor SQ2 Series"
-      },
-      {
-        "id": 62,
-        "name": "Martin Axenrot",
-        "slug": "martin-axenrot",
-        "configString": "Sonor SQ2 Series"
       }
     ],
     "SQ2 Heavy Beech": [
@@ -909,12 +897,6 @@ export const GEAR_INDEX = {
         "configString": "Vic Firth American Classic 5B"
       },
       {
-        "id": 62,
-        "name": "Martin Axenrot",
-        "slug": "martin-axenrot",
-        "configString": "Vic Firth American Classic 5B"
-      },
-      {
         "id": 65,
         "name": "Nick Menza",
         "slug": "nick-menza",
@@ -1011,12 +993,6 @@ export const GEAR_INDEX_BRAND_LEVEL = {
       "configString": "Evans"
     },
     {
-      "id": 29,
-      "name": "Igor Cavalera",
-      "slug": "igor-cavalera",
-      "configString": "Evans"
-    },
-    {
       "id": 31,
       "name": "Nick Augusto",
       "slug": "nick-augusto",
@@ -1089,36 +1065,6 @@ export const GEAR_INDEX_BRAND_LEVEL = {
       "configString": "Evans"
     },
     {
-      "id": 50,
-      "name": "Aquiles Priester",
-      "slug": "aquiles-priester",
-      "configString": "Evans"
-    },
-    {
-      "id": 51,
-      "name": "Paul Mazurkiewicz",
-      "slug": "paul-mazurkiewicz",
-      "configString": "Evans"
-    },
-    {
-      "id": 52,
-      "name": "Mike Mangini",
-      "slug": "mike-mangini",
-      "configString": "Evans"
-    },
-    {
-      "id": 53,
-      "name": "Matt Garstka",
-      "slug": "matt-garstka",
-      "configString": "Evans"
-    },
-    {
-      "id": 54,
-      "name": "Daniel Erlandsson",
-      "slug": "daniel-erlandsson",
-      "configString": "Evans"
-    },
-    {
       "id": 56,
       "name": "Hannes Grossmann",
       "slug": "hannes-grossmann",
@@ -1137,9 +1083,9 @@ export const GEAR_INDEX_BRAND_LEVEL = {
       "configString": "Evans"
     },
     {
-      "id": 59,
-      "name": "Tim Yeung",
-      "slug": "tim-yeung",
+      "id": 62,
+      "name": "Martin Axenrot",
+      "slug": "martin-axenrot",
       "configString": "Evans"
     },
     {
@@ -1199,6 +1145,12 @@ export const GEAR_INDEX_BRAND_LEVEL = {
       "configString": "Remo"
     },
     {
+      "id": 29,
+      "name": "Igor Cavalera",
+      "slug": "igor-cavalera",
+      "configString": "Remo"
+    },
+    {
       "id": 30,
       "name": "Bill Ward",
       "slug": "bill-ward",
@@ -1247,21 +1199,51 @@ export const GEAR_INDEX_BRAND_LEVEL = {
       "configString": "Remo (Powerstroke P3, Pinstripe, Ambassador)"
     },
     {
+      "id": 50,
+      "name": "Aquiles Priester",
+      "slug": "aquiles-priester",
+      "configString": "Remo"
+    },
+    {
+      "id": 51,
+      "name": "Paul Mazurkiewicz",
+      "slug": "paul-mazurkiewicz",
+      "configString": "Remo"
+    },
+    {
+      "id": 52,
+      "name": "Mike Mangini",
+      "slug": "mike-mangini",
+      "configString": "Remo"
+    },
+    {
+      "id": 53,
+      "name": "Matt Garstka",
+      "slug": "matt-garstka",
+      "configString": "Remo"
+    },
+    {
+      "id": 54,
+      "name": "Daniel Erlandsson",
+      "slug": "daniel-erlandsson",
+      "configString": "Remo"
+    },
+    {
       "id": 55,
       "name": "Jaska Raatikainen",
       "slug": "jaska-raatikainen",
       "configString": "Remo"
     },
     {
-      "id": 60,
-      "name": "Kevin Talley",
-      "slug": "kevin-talley",
+      "id": 59,
+      "name": "Tim Yeung",
+      "slug": "tim-yeung",
       "configString": "Remo"
     },
     {
-      "id": 62,
-      "name": "Martin Axenrot",
-      "slug": "martin-axenrot",
+      "id": 60,
+      "name": "Kevin Talley",
+      "slug": "kevin-talley",
       "configString": "Remo"
     },
     {

@@ -10429,14 +10429,14 @@ This guide breaks down the technique, gear, and feel behind Vinnie Paul's grove-
         brand: 'Ddrum',
         model: 'Ddrum Custom Series',
         shells: 'Maple',
-        finish: 'Custom Pantera finish',
+        finish: 'Custom finish',
         config: {
           kick: '24" x 18" Bass Drums (x2)',
           snare: '14" x 8" Vinnie Paul Signature Snare',
           toms: ['10" x 9" Rack Tom', '12" x 10" Rack Tom'],
           floorToms: ['16" x 16" Floor Tom', '18" x 16" Floor Tom']
         },
-        description: "Vinnie Paul's signature large Ddrum setup — oversized kicks for maximum low-end punch, wide floor toms for his sweeping fills. The maple shells provide warmth and punch that sit perfectly in Pantera's mid-scooped mix.",
+        description: "Vinnie Paul's signature large ddrum setup from his Hellyeah years (from 2008) — oversized kicks for maximum low-end punch, wide floor toms for his sweeping fills. During Pantera, he played Tama (from 1990) then Pearl (from 1996).",
         affiliateNote: "Tama Starclassic or DW Performance with 24\" kicks provide a similar feel at lower cost."
       },
       snare: {
@@ -10569,7 +10569,7 @@ This guide breaks down the technique, gear, and feel behind Vinnie Paul's grove-
       },
       {
         question: "What drums did Vinnie Paul use?",
-        answer: "Vinnie Paul played custom Ddrum kits with oversized bass drums — typically 24\" kicks for maximum low-end punch. He used deep metal snare drums tuned for a powerful crack, and large floor toms for his sweeping fills. His maple shells provided warmth and punch suited to Pantera's mix."
+        answer: "Vinnie Paul's final kit was a custom ddrum Vinnie Paul Signature Series (from 2008, for Hellyeah) with oversized bass drums — typically 24\" kicks for maximum low-end punch. He used deep metal snare drums tuned for a powerful crack, and large floor toms for his sweeping fills. During Pantera, he played Tama (from 1990) then Pearl (from 1996)."
       },
       {
         question: "How do I get the Pantera drum sound?",

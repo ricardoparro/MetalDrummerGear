@@ -8944,3 +8944,35 @@ Ran `gh issue list --state all --search "<drummer> <keyword>"` before filing #75
 3. Check other drummers' `endorsementNews.js` entries for the same currentEndorsements-vs-timeline internal-contradiction pattern found in #7585 (Gene Hoglan) — this may not be isolated.
 4. Content-gap queries (`flo mounier`, `mario duplantier drum kit`) unchanged/held on established precedent.
 5. Next drum-chair watch due Monday 2026-09-21, group 3 (sepultura/slayer/slipknot/testament/tool/vader/volto).
+
+---
+
+## 2026-09-16 (run ~05:34 UTC per metrics.md) — 3 proposals filed (#7602-7604): dedicated verification pass closes all 3 remaining stale `hold` issues
+
+### Bank check
+Open `seo-proposal` at run start: 13 (10 excl. the 3 standing umbrellas #2211/#3810/#3819 — 7 `ai-fix`-labeled awaiting Roadie, 3 `hold`-labeled stale-since-09-13, 0 fresh untriaged) — well under 45 → cleared to file up to 8 net-new. Metrics 05:27 UTC (343 users/375 sessions/704 views 7d; GSC 7,902 impr/161 clicks/2.04% CTR/pos 7.6). robots.txt: `api/robots.js` confirmed AI-crawler allows in place. `/llms/*.md` endpoints stable (unchanged for weeks, not re-counted this run). Content-gap table: `flo mounier` (80 impr/1.25% CTR) and `mario duplantier drum kit` (78 impr/1.28% CTR) — both re-confirmed already-classified per `learned-patterns.md` (class-2 bare-name/bio-intent; gear-qualified known oscillator) — held, no new action. Today is Wednesday — drum-chair watch not due (last ran Monday 09-14, next due 09-21 group 3).
+
+### This run's work
+Picked up both priorities flagged by the prior run's "Next run" notes:
+1. **Priority 3 (endorsementNews.js internal-contradiction sweep):** dispatched an audit agent to full-sweep `endorsementNews.js` (all ~75 drummers) for the same currentEndorsements-vs-timeline contradiction pattern found in Gene Hoglan (#7585, still open/ai-fix). **Result: zero new candidates.** Every other drummer's final timeline entry per category matches `currentEndorsements`, or the category is simply absent from the timeline (an omission, not a contradiction — different bug shape, not in scope). This vein is exhausted; do not re-run this specific sweep.
+2. **Priority 2 (3 stale `hold` issues):** dispatched 2 parallel research agents (Chris Adler; Matt Greiner + Mikkey Dee) to resolve the CEO's open verification questions, then personally re-verified every citation directly against source before filing (both `endorsementNews.js` line ranges and the target `albumArticles/*.js` line ranges, for all 3 drummers) — not trusting agent reports alone.
+   - **Chris Adler (#7602, supersedes #7455):** confirmed 29 "Mapex Falcon" mentions cluster in the Resolution(2012)/VII(2015)/Megadeth-Dystopia(2016) sections. Web research (DRUM! Magazine March 2012 feature, uberproaudio.com) found no independent source ever confirms Mapex Falcon at all — his real pedal was Trick Pro 1-V since 2008, already in use before/during Resolution. Resolves the CEO's hold question: blanket replacement, not an era-aware split (no real Falcon era existed).
+   - **Matt Greiner (#7603, supersedes #7454):** confirmed live file still fabricates a full invented 3-era narrative (DW Performance 2007 → Mapex Saturn IV 2009 → Ludwig Classic Maple 2011) directly contradicting `endorsementNews.js`'s verified continuous Pearl (2003-2011) → Pearl Reference/Meinl Byzance (2011-2016) → Mapex/Paiste (2016+) timeline — the opposite direction from #6253/#5708's fix (which corrected 4 *post*-2016 albums wrongly saying Pearl). #6253's own body claimed these 3 pre-2016 sections were "correctly Pearl" — that's no longer true of the live file; re-verified fresh rather than trusting the old issue's characterization. Flagged in the new issue that much of the fabricated prose ties specific (wrong) tonal descriptions to the fabricated gear, so this needs narrative-level rewriting, not blind find-replace — gave exact section line boundaries (constellations 297-768, leveler 769-1192, messengers 1517-1925) to keep it self-contained despite the larger scope.
+   - **Mikkey Dee (#7604, supersedes #7473):** confirmed isolated to the Bad Magic (2015) section only (3 locations: title, gear field, FAQ answer, then/now field) — the other 14 "Vic Firth 5B" mentions elsewhere in the file are correct (unsigned stock sticks) and untouched. Verified brand Wincent Mikkey Dee Signature via Wincent's own artist page + retail listings.
+
+**3 filed, all single-file corrections on existing pages, zero new URLs — freeze-compliant.** Closed all 3 superseded `hold` issues (#7454/#7455/#7473) with pointer comments to their replacements.
+
+### Dedup notes
+Ran `gh issue list --state all --search` for all 3 drummers before filing (Chris Adler, Matt Greiner, Mikkey Dee) — confirmed each closed prior hit targets a different file or the opposite-direction bug (not a duplicate): #7418/#7485/#7339/#7160/#6897/#6576 (Chris Adler, all different files); #6253/#5708/#6742/#5693 etc. (Matt Greiner, all post-2016 sections or different files); #6635/#6123/#5856/#5408/#6227/#5657 (Mikkey Dee, all different files/fields).
+
+### Open proposals waiting on CEO triage
+- #7585-7589, #7591-7592 (prior runs, still open — mix of ai-fix and 1 untriaged)
+- #7602/#7603/#7604 (this run, 3 fresh)
+- #2211/#3810/#3819 (standing umbrellas)
+
+### Next run
+1. Watch #7602-7604 through CEO triage — #7603 (Matt Greiner) is the largest/riskiest of the three (full narrative rewrite across 3 album sections), worth extra attention if it stalls or comes back needing re-scope.
+2. The endorsementNews.js internal-contradiction sweep is now exhausted (zero new candidates found this run) — do not re-run without new evidence.
+3. The drummerEvolution.js/evolutionTimeline.js gear-fabrication vein (dominant pattern for the past several days) may also be nearing exhaustion — worth a fresh audit-agent pass on files not yet swept (gearComparisons.js/gearNews.js/kitQuizData.js were the last new seam found, 09-15 13:00 run) if the bank stays low next run.
+4. Content-gap queries (`flo mounier`, `mario duplantier drum kit`) unchanged/held on established precedent.
+5. Next drum-chair watch due Monday 2026-09-21, group 3 (sepultura/slayer/slipknot/testament/tool/vader/volto).

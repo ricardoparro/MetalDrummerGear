@@ -1332,7 +1332,7 @@ export const articles = {
           "Aggressive China cymbal accents punctuate the heaviest sections",
           "One of the longest tracks on the album — a stamina showcase"
         ],
-        "gearNotes": "Eliminator Demon Drive at its sustained peak tempo. Z Custom 19\" China on the heaviest accents. Reference Series kick attack defines the song's low-end identity."
+        "gearNotes": "Eliminator Demon Drive at its sustained peak tempo. RUDE Wild China on the heaviest accents. Reference Series kick attack defines the song's low-end identity."
       },
       {
         "track": "Psychosocial",
@@ -1344,7 +1344,7 @@ export const articles = {
           "Chorus snare placement became a template for late-2000s metal production",
           "Demonstrates Joey's ability to write a hook into a drum part"
         ],
-        "gearNotes": "Z Custom hi-hats drive the verse. Signature steel snare crack defines the chorus backbeat. Demon Drive double-bass pattern is the song's rhythmic signature."
+        "gearNotes": "RUDE hi-hats drive the verse. Signature steel snare crack defines the chorus backbeat. Demon Drive double-bass pattern is the song's rhythmic signature."
       },
       {
         "track": "Dead Memories",
@@ -1356,7 +1356,7 @@ export const articles = {
           "Chorus opens up to full kit with measured dynamics",
           "Shows the breadth of what All Hope Is Gone asked of Joey beyond aggression"
         ],
-        "gearNotes": "Mega Bell Ride features prominently. Snare tuning open enough for audible ghost notes. Reference Series' melodic tom voicing audible in chorus fills."
+        "gearNotes": "2002 Power Ride features prominently. Snare tuning open enough for audible ghost notes. Reference Series' melodic tom voicing audible in chorus fills."
       },
       {
         "track": "Sulfur",
@@ -1368,7 +1368,7 @@ export const articles = {
           "Mid-tempo groove pocket with substantial dynamic variation",
           "A studio track that rewards close listening to the kit details"
         ],
-        "gearNotes": "Tom fills move melodically across the 10/12/14/16 spread. Z Custom crashes punctuate section transitions with the brighter Z attack."
+        "gearNotes": "Tom fills move melodically across the 10/12/14/16 spread. RUDE Wild Crashes punctuate section transitions with the raw, unlathed RUDE attack."
       },
       {
         "track": "Snuff",
@@ -1380,7 +1380,7 @@ export const articles = {
           "Light hi-hat work and restrained snare placement throughout",
           "One of Slipknot's most commercially successful songs"
         ],
-        "gearNotes": "Light touch on the Z Custom hi-hats. Snare ghost notes audible — a credit to the Reference Series' open response and Fortman's mix preservation."
+        "gearNotes": "Light touch on the RUDE hi-hats. Snare ghost notes audible — a credit to the Reference Series' open response and Fortman's mix preservation."
       }
     ],
     "evolution": {

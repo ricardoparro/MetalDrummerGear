@@ -1040,7 +1040,7 @@ Pearl's Reference Pure remains the flagship of their acoustic drum line. It is c
         {
           drummer: 'George Kollias',
           drummerSlug: 'george-kollias',
-          snare: 'Tama Starclassic Bubinga Kit',
+          snare: 'Pearl Masterworks Series Kit',
           note: 'Extreme metal drummer with similar precision and power profile',
         },
       ],

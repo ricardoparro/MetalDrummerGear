@@ -77,6 +77,8 @@ export const GEAR_DATABASE = {
     { id: 'mapex-falcon', name: 'Mapex Falcon Double Pedal', brand: 'mapex', category: 'hardware', tier: 'mid', price: 450, keywords: ['falcon', 'mapex'] },
     { id: 'axis-a', name: 'Axis A Series Longboard Double Pedal', brand: 'axis', category: 'hardware', tier: 'pro', price: 800, keywords: ['axis', 'longboard', 'direct drive'] },
     { id: 'gibraltar-professional', name: 'Gibraltar Professional Series', brand: 'gibraltar', category: 'hardware', tier: 'mid', price: 400, keywords: ['gibraltar', 'professional series'] },
+    { id: 'trick-pro-v', name: 'Trick Pro V Double Pedal', brand: 'trick', category: 'hardware', tier: 'pro', price: 600, keywords: ['pro v', 'trick'] },
+    { id: 'ddrum-hardware', name: 'ddrum Hardware', brand: 'ddrum', category: 'hardware', tier: 'mid', price: 400, keywords: ['ddrum', 'hardware'] },
   ],
   sticks: [
     { id: 'ahead-lars', name: 'Ahead Lars Ulrich Signature', brand: 'ahead', category: 'sticks', tier: 'mid', price: 45, keywords: ['lars', 'ulrich', 'ahead', 'aluminum'] },
@@ -153,8 +155,8 @@ export const DRUMMER_GEAR = {
   'ray-luzier': {
     drums: ['pearl-reference-series'],
     snare: ['pearl-sensitone'],
-    cymbals: ['zildjian-a-custom'],
-    hardware: ['pearl-demon-drive'],
+    cymbals: ['sabian-aax'],
+    hardware: ['dw-9000'],
     sticks: ['vicfirth-5a'],
   },
   'john-otto': {
@@ -175,7 +177,7 @@ export const DRUMMER_GEAR = {
     drums: ['ddrum-vinnie'],
     snare: ['tama-slp'],
     cymbals: ['sabian-aax'],
-    hardware: ['dw-5000'],
+    hardware: ['ddrum-hardware'],
     sticks: ['vicfirth-5b'],
   },
   'charlie-benante': {
@@ -202,7 +204,7 @@ export const DRUMMER_GEAR = {
   'mario-duplantier': {
     drums: ['tama-starclassic-walnut-birch'],
     snare: ['tama-slp'],
-    cymbals: ['meinl-byzance'],
+    cymbals: ['zildjian-k-custom'],
     hardware: ['tama-speed-cobra'],
     sticks: ['tama-mario'],
   },
@@ -217,7 +219,7 @@ export const DRUMMER_GEAR = {
     drums: ['mapex-saturn'],
     snare: ['tama-slp'],
     cymbals: ['meinl-byzance'],
-    hardware: ['mapex-falcon'],
+    hardware: ['trick-pro-v'],
     sticks: ['promark-adler'],
   },
   'matt-halpern': {

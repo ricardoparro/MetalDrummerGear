@@ -690,8 +690,6 @@ The Tama Starphonic Bronze Snare is not the most common snare choice in extreme 
       featuredTracks: [
         { song: 'Stranded', album: 'Magma (2016)', note: 'Snare sits front and center in Gojira\'s most accessible production' },
         { song: 'L\'Enfant Sauvage', album: 'L\'Enfant Sauvage (2012)', note: 'Opening snare hits define the album\'s intensity' },
-        { song: 'Flying Whales', album: 'From Mars to Sirius (2005)', note: 'Intricate snare patterns in the complex middle section' },
-        { song: 'The Heaviest Matter of the Universe', album: 'From Mars to Sirius (2005)', note: 'Driving double bass and snare work at extreme tempos' },
       ],
     },
 

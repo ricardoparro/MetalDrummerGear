@@ -146,21 +146,14 @@ export const articles = {
       "estimatedValue": "$2,800-3,500 total (Byzance setup with multiple Chinas)"
     },
     "hardware": {
-      "title": "The Mapex Falcon Foundation",
+      "title": "The Trick Pro V Foundation",
       "items": [
         {
           "type": "Bass Drum Pedals",
-          "brand": "Mapex",
-          "model": "Mapex Falcon Double Pedal",
+          "brand": "Trick",
+          "model": "Trick Pro V Double Pedal",
           "notes": "Direct-drive for maximum speed and response",
-          "description": "The Falcon pedals direct-drive mechanism eliminates chain lag, giving Adler the immediate response his intricate bass drum patterns require. The pedals feel like an extension of his feet, translating every movement directly to beater motion."
-        },
-        {
-          "type": "Hi-Hat Stand",
-          "brand": "Mapex",
-          "model": "Mapex Falcon Hi-Hat Stand",
-          "notes": "Quick, responsive action for pivot technique",
-          "description": "The pivot technique requires a hi-hat stand that responds instantly to subtle foot movements. The Falcon hi-hat's smooth action and adjustable tension let Adler fine-tune the response to his specific playing style."
+          "description": "The Pro V pedals' direct-drive mechanism eliminates chain lag, giving Adler the immediate response his intricate bass drum patterns require. The pedals feel like an extension of his feet, translating every movement directly to beater motion."
         },
         {
           "type": "Throne",
@@ -262,7 +255,7 @@ export const articles = {
           "drums": "Mapex Black Panther Velvetone",
           "snare": "Mapex Chris Adler Signature Warbird",
           "cymbals": "Full Meinl Byzance setup with signature cymbals",
-          "hardware": "Mapex Falcon pedals and hardware"
+          "hardware": "Trick Pro V pedals and Mapex hardware"
         },
         "notes": "Signature products released. Full endorsement support for arena touring."
       },
@@ -278,7 +271,7 @@ export const articles = {
           "drums": "Mapex Black Panther (LOG) / Studio various",
           "snare": "Warbird signature",
           "cymbals": "Meinl Byzance",
-          "hardware": "Mapex Falcon"
+          "hardware": "Trick Pro V"
         },
         "notes": "Grammy for \"Dystopia.\" Departed Lamb of God in 2019 after 25 years."
       }
@@ -324,7 +317,7 @@ export const articles = {
           "Bridge breakdown demonstrates dynamic range",
           "Outro builds to climax with precision"
         ],
-        "gearNotes": "The Falcon pedals' direct drive handles the speed. Despite the BPM, the groove remains — signature Adler."
+        "gearNotes": "The Trick Pro V pedals' direct drive handles the speed. Despite the BPM, the groove remains — signature Adler."
       }
     ],
     "tipsFromPro": {
@@ -533,7 +526,7 @@ export const articles = {
           "brand": "Pearl",
           "model": "Pearl P-2002 Chain Drive Double Pedal",
           "notes": "Standard chain-drive double pedal, no direct-drive speed yet",
-          "description": "The chain-drive P-2002 handled New American Gospel's double-bass patterns capably but without the immediate response of the direct-drive Mapex Falcon pedals Adler would use once his career scaled up. It's a reliable, unglamorous workhorse pedal — exactly what a DIY touring band could afford in 2000."
+          "description": "The chain-drive P-2002 handled New American Gospel's double-bass patterns capably but without the immediate response of the direct-drive Trick Pro V pedals Adler would use once his career scaled up. It's a reliable, unglamorous workhorse pedal — exactly what a DIY touring band could afford in 2000."
         },
         {
           "type": "Hi-Hat Stand",
@@ -932,7 +925,7 @@ export const articles = {
           "brand": "Mapex",
           "model": "Mapex P400 Single Pedal (used as two singles on dual kick)",
           "notes": "Chain-drive, pre-signature era pedal setup",
-          "description": "The Mapex P400 chain-drive pedals were Adler's workhorse before he moved to the more advanced Mapex Janus and eventually Falcon designs. The chain-drive mechanism provided reliable response for his developing double-bass patterns — not as immediate as the direct-drive systems he would later adopt, but consistent enough for demanding recording sessions."
+          "description": "The Mapex P400 chain-drive pedals were Adler's workhorse before he moved to the more advanced Mapex Janus and eventually the direct-drive Trick Pro V. The chain-drive mechanism provided reliable response for his developing double-bass patterns — not as immediate as the direct-drive systems he would later adopt, but consistent enough for demanding recording sessions."
         },
         {
           "type": "Hi-Hat Stand",
@@ -1091,7 +1084,7 @@ export const articles = {
       },
       {
         "question": "What pedals did Chris Adler use on As the Palaces Burn?",
-        "answer": "Chris Adler used Mapex P400 single pedals on his dual bass drum setup for As the Palaces Burn. The P400's chain-drive mechanism provided reliable response for his developing double-bass patterns — pre-dating the more advanced Mapex Janus and Falcon designs he would adopt in later years. He ran two independent P400 pedals, one on each bass drum, rather than a double pedal on a single kick."
+        "answer": "Chris Adler used Mapex P400 single pedals on his dual bass drum setup for As the Palaces Burn. The P400's chain-drive mechanism provided reliable response for his developing double-bass patterns — pre-dating the more advanced Mapex Janus and Trick Pro V pedals he would adopt in later years. He ran two independent P400 pedals, one on each bass drum, rather than a double pedal on a single kick."
       }
     ],
     "videos": [],
@@ -1418,7 +1411,7 @@ export const articles = {
           "brand": "Mapex",
           "model": "Mapex Janus Double Pedal (used as two singles)",
           "notes": "Chain-drive with adjustable beater angle",
-          "description": "For Ashes of the Wake, Adler used Mapex Janus series pedals on his dual bass drum setup. The chain-drive mechanism provided reliable, consistent response for his demanding double bass patterns. He would later switch to the direct-drive Falcon pedals."
+          "description": "For Ashes of the Wake, Adler used Mapex Janus series pedals on his dual bass drum setup. The chain-drive mechanism provided reliable, consistent response for his demanding double bass patterns. He would later switch to the direct-drive Trick Pro V."
         },
         {
           "type": "Hi-Hat Stand",
@@ -1564,7 +1557,7 @@ export const articles = {
         {
           "category": "Pedals",
           "then": "Mapex Janus Chain Drive",
-          "now": "Mapex Falcon Direct Drive"
+          "now": "Trick Pro V Direct Drive"
         }
       ]
     },
@@ -2768,21 +2761,14 @@ export const articles = {
       "estimatedValue": "$2,800-3,500 total (Byzance setup with dual Chinas)"
     },
     "hardware": {
-      "title": "The Mapex Falcon Foundation",
+      "title": "The Trick Pro V Foundation",
       "items": [
         {
           "type": "Bass Drum Pedals",
-          "brand": "Mapex",
-          "model": "Mapex Falcon Double Pedal (used as two independent singles)",
+          "brand": "Trick",
+          "model": "Trick Pro V Double Pedal (used as two independent singles)",
           "notes": "Direct-drive for immediate response on dual kick setup",
-          "description": "The Mapex Falcon's direct-drive mechanism eliminates the lag of chain-drive designs, giving Adler the immediate response his intricate bass drum patterns require. At the tempos Resolution demands — 'Ghost Walking' runs near 155 BPM with sustained double-bass sections — the Falcon's direct feedback between foot and beater is non-negotiable."
-        },
-        {
-          "type": "Hi-Hat Stand",
-          "brand": "Mapex",
-          "model": "Mapex Falcon Hi-Hat Stand",
-          "notes": "Smooth action for pivot technique left-foot dynamics",
-          "description": "The Falcon hi-hat stand's consistent, adjustable action enables the subtle pivot technique footwork that runs throughout Resolution. Independent left-foot hi-hat openings and closings — while both hands and right foot handle other duties — require a stand that responds instantly to small pressure variations."
+          "description": "The Trick Pro V's direct-drive mechanism eliminates the lag of chain-drive designs, giving Adler the immediate response his intricate bass drum patterns require. At the tempos Resolution demands — 'Ghost Walking' runs near 155 BPM with sustained double-bass sections — the Pro V's direct feedback between foot and beater is non-negotiable."
         },
         {
           "type": "Throne",
@@ -2834,7 +2820,7 @@ export const articles = {
           "Double-bass patterns sustain cleanly at 155 BPM throughout chorus sections",
           "One of Adler's most-studied groove metal performances post-Sacrament era"
         ],
-        "gearNotes": "The Warbird snare's crack cuts perfectly at this tempo. The Byzance China's darker attack marks riff entries with more weight than the A Custom era. Falcon pedal direct-drive ensures consistent kick response across sustained double-bass passages."
+        "gearNotes": "The Warbird snare's crack cuts perfectly at this tempo. The Byzance China's darker attack marks riff entries with more weight than the A Custom era. Trick Pro V direct-drive ensures consistent kick response across sustained double-bass passages."
       },
       {
         "track": "Desolation",
@@ -2859,7 +2845,7 @@ export const articles = {
           "Snare drives the verse with rapid ghost note weaving",
           "Chorus explosion uses full kit assault for maximum dynamic contrast"
         ],
-        "gearNotes": "The Falcon pedals' direct-drive mechanism sustains the 170 BPM double-bass cleanly. The Byzance China's explosive attack cuts the dense guitar arrangement at each structural accent."
+        "gearNotes": "The Trick Pro V pedals' direct-drive mechanism sustains the 170 BPM double-bass cleanly. The Byzance China's explosive attack cuts the dense guitar arrangement at each structural accent."
       },
       {
         "track": "Terminally Unique",
@@ -2888,7 +2874,7 @@ export const articles = {
     ],
     "gearDiff": {
       "title": "Resolution vs Wrath: The Mapex/Meinl Return",
-      "content": "The three years between Wrath (2009) and Resolution (2012) brought a fundamental gear reversal for Chris Adler — back to the Mapex/Meinl combination that had defined his earlier career, now in its mature signature form.\n\n**Drums:** Pearl Reference Pure → Mapex Black Panther Velvetone\nThe most fundamental change. The Pearl Reference Pure's maple/mahogany hybrid delivered a warmer, denser low-mid attack suited to Wrath's heavy production. The Mapex Velvetone's maple/walnut hybrid is warmer and more complex than pure maple but with more definition in the upper midrange than the Pearl's mahogany contribution. Velvetone toms and bass drums sit differently in Wilbur's mix — more articulate in the attack, with walnut warmth in the sustain.\n\n**Snare:** Pearl Free-Floating 14×6.5\" → Mapex Warbird 14×5.5\"\nSame 14\" diameter, but a notable physical change in depth — dropping from 6.5\" to 5.5\". The Warbird's shallower, faster design is the opposite of the free-floating Pearl's full, open crack. Wrath's snare had body and room; Resolution's Warbird has speed and crack-focus. Both serve Adler's ghost-note playing, but in different ways.\n\n**Cymbals:** Zildjian A Custom → Meinl Byzance\nThe tonal identity shift is the most audible difference. A Custom cymbals are bright, immediate, bell-forward. Byzance cymbals are darker, more complex, with richer overtone washout. Resolution's China accents have more weight and darkness than Wrath's — they punctuate with mass rather than slash.\n\n**Pedals:** Pearl Eliminator Demon Drive → Mapex Falcon\nBoth direct-drive mechanisms, but different feel profiles. The Falcon's direct-drive linear response suits Adler's precise double-bass patterns at Resolution's tempos.\n\n**Producer:** Machine (Mark Lewis) → Josh Wilbur\nThe production change is as significant as any gear shift. Wilbur's approach opens up more air in the drum sound, lets the Byzance cymbals breathe in the mix, and creates the most dynamic drum recording in Lamb of God's catalog.",
+      "content": "The three years between Wrath (2009) and Resolution (2012) brought a fundamental gear reversal for Chris Adler — back to the Mapex/Meinl combination that had defined his earlier career, now in its mature signature form.\n\n**Drums:** Pearl Reference Pure → Mapex Black Panther Velvetone\nThe most fundamental change. The Pearl Reference Pure's maple/mahogany hybrid delivered a warmer, denser low-mid attack suited to Wrath's heavy production. The Mapex Velvetone's maple/walnut hybrid is warmer and more complex than pure maple but with more definition in the upper midrange than the Pearl's mahogany contribution. Velvetone toms and bass drums sit differently in Wilbur's mix — more articulate in the attack, with walnut warmth in the sustain.\n\n**Snare:** Pearl Free-Floating 14×6.5\" → Mapex Warbird 14×5.5\"\nSame 14\" diameter, but a notable physical change in depth — dropping from 6.5\" to 5.5\". The Warbird's shallower, faster design is the opposite of the free-floating Pearl's full, open crack. Wrath's snare had body and room; Resolution's Warbird has speed and crack-focus. Both serve Adler's ghost-note playing, but in different ways.\n\n**Cymbals:** Zildjian A Custom → Meinl Byzance\nThe tonal identity shift is the most audible difference. A Custom cymbals are bright, immediate, bell-forward. Byzance cymbals are darker, more complex, with richer overtone washout. Resolution's China accents have more weight and darkness than Wrath's — they punctuate with mass rather than slash.\n\n**Pedals:** Pearl Eliminator Demon Drive → Trick Pro V\nBoth direct-drive mechanisms, but different feel profiles. The Pro V's direct-drive linear response suits Adler's precise double-bass patterns at Resolution's tempos.\n\n**Producer:** Machine (Mark Lewis) → Josh Wilbur\nThe production change is as significant as any gear shift. Wilbur's approach opens up more air in the drum sound, lets the Byzance cymbals breathe in the mix, and creates the most dynamic drum recording in Lamb of God's catalog.",
       "comparison": [
         {
           "category": "Drums",
@@ -2908,7 +2894,7 @@ export const articles = {
         {
           "category": "Pedals",
           "wrath": "Pearl Eliminator Demon Drive",
-          "resolution": "Mapex Falcon (direct-drive)"
+          "resolution": "Trick Pro V (direct-drive)"
         },
         {
           "category": "Sticks",
@@ -3148,7 +3134,7 @@ export const articles = {
         }
       ]
     },
-    "llmContent": "# Lamb of God 'Resolution' Drum Setup — Chris Adler's Grammy-Nominated 2012 Kit\n\n> Complete breakdown of Chris Adler's drum setup on Lamb of God's Grammy-nominated Resolution (2012) — Mapex Black Panther Velvetone kit, Meinl Byzance cymbals, and the polyrhythmic techniques behind 'Ghost Walking' and 'Desolation'.\n\n**Type:** Album Drum Setup\n**Drummer(s):** [Chris Adler](/llms/drummers/chris-adler.md)\n**Band / Album:** Lamb of God — *Resolution* (2012)\n**Genre:** Groove Metal / New Wave of American Heavy Metal\n\n## Overview\n\nReleased on January 24, 2012, Lamb of God's \"Resolution\" debuted at #3 on the Billboard 200 and earned a Grammy nomination for Best Hard Rock/Metal Performance for \"Ghost Walking\" at the 56th Grammy Awards (2014). The album fills the Wrath (2009) → VII: Sturm und Drang (2015) arc in the Lamb of God discography and represents Chris Adler's signature gear setup at its most fully realized.\n\nChris Adler returned to the Mapex Black Panther Velvetone kit — his signature drum setup — and Meinl Byzance cymbals after the Pearl Reference Pure/Zildjian A Custom era of Wrath. Recorded at NRG Recording Services in North Hollywood with producer Josh Wilbur (their first record without producer Machine/Mark Lewis since Ashes of the Wake), Resolution's drum sound is the most dynamic and open-sounding in Lamb of God's catalog.\n\n\"Desolation\" features Adler's most complex polyrhythmic patterns on any Lamb of God record — staggered kick placement against syncopated right-hand work across multiple metric layers. \"Ghost Walking\" showcases his Grammy-nominated groove metal mastery: China cymbal accents placed with surgical precision, pivot technique hi-hat dynamics, and double-bass patterns sustained at 155 BPM.\n\n## Gear Breakdown\n\n- **Drums:** Mapex Black Panther Velvetone Series (maple/walnut hybrid, dual 22×18\" kick, 10\"/12\" rack toms, 14\"/16\" floor toms)\n- **Snare:** Mapex Chris Adler Signature Warbird, 14\" x 5.5\" (maple, SONIClear bearing edge)\n- **Cymbals:** Meinl Byzance series (14\" Traditional hi-hats, 18\"/19\"/20\" crashes, 21\" Dark Ride, 18\" and 20\" Brilliant Chinas, 10\" Traditional Splash)\n- **Pedals:** Mapex Falcon (direct-drive, dual single setup)\n- **Hardware:** Mapex Falcon Hi-Hat Stand; Roc-N-Soc Nitro Throne; Mapex IQ Rack\n- **Sticks:** Promark Chris Adler Signature TX5AXW (American hickory)\n- **Heads:** Remo Powerstroke P3 Clear (kick batter), Remo Emperor Clear (tom batter), Remo Controlled Sound Coated (snare batter)\n\n### The Mapex Black Panther Velvetone: Signature Return\n\nThe return to Mapex after the Pearl Reference Pure era brought the maple/walnut Velvetone hybrid's distinct tonal character to Resolution. Walnut layers add body and sustain to maple's natural attack — the combination sits differently in Josh Wilbur's more open production approach, with more articulate attack and complex walnut warmth in the sustain. Dual 22\"×18\" bass drums maintained from the Wrath configuration; SONIClear bearing edges for consistent head response.\n\n### The Warbird Snare: Speed and Crack\n\nThe Mapex Chris Adler Signature Warbird at 14\"×5.5\" is the shallowest snare in Lamb of God's studio history. The shallower depth prioritizes speed and ghost-note response over the extra body and sustain of the deeper DW and Pearl snares used on Sacrament and Wrath. Critical for \"Desolation\"'s ghost-note density and \"Ghost Walking\"'s rapid snare work across the verse groove.\n\n### Meinl Byzance Return: Dark and Complex\n\nThe Byzance series' hand-hammered, dark tonal character contrasts sharply with the Zildjian A Custom brightness of the previous two albums. The 21\" Byzance Dark Ride, dual Byzance Brilliant Chinas (18\" and 20\"), and standard 14\" Traditional hi-hats define Resolution's top-end sound — warmer China attacks, richer crash overtones, and a more complex ride presence than the A Custom era delivered.\n\n## Key Facts\n\n- Billboard 200 debut at #3 — Lamb of God's highest-charting album\n- Grammy nomination for Best Hard Rock/Metal Performance (\"Ghost Walking\", 56th Grammy Awards, 2014)\n- Recorded at NRG Recording Services, North Hollywood, with producer Josh Wilbur\n- Chris Adler's return to Mapex Black Panther Velvetone kit\n- Mapex Chris Adler Signature Warbird snare (14\"×5.5\") — shallowest snare in LoG studio history\n- Return to Meinl Byzance cymbals after Zildjian A Custom era (Sacrament + Wrath)\n- Fills the Wrath (2009) → VII: Sturm und Drang (2015) arc\n- \"Desolation\" features Adler's most complex polyrhythmic patterns\n- Mapex Falcon direct-drive pedals — complete Mapex ecosystem\n- Estimated kit value: $4,000-6,000 (2012 Black Panther Velvetone configuration)\n- Estimated snare value: $400-500 (Mapex Warbird Signature)\n\n## Internal Links\n\n- [Chris Adler drummer profile](/drummer/chris-adler)\n- [Wrath drum setup (2009)](/articles/wrath-drum-setup)\n- [Sacrament drum setup (2006)](/articles/sacrament-drum-setup)\n\n**Source:** https://metalforge.io/articles/resolution-drum-setup\n\n**More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)\n\n*Last updated: 2026-06-27 · Source: [MetalForge.io](https://metalforge.io)*"
+    "llmContent": "# Lamb of God 'Resolution' Drum Setup — Chris Adler's Grammy-Nominated 2012 Kit\n\n> Complete breakdown of Chris Adler's drum setup on Lamb of God's Grammy-nominated Resolution (2012) — Mapex Black Panther Velvetone kit, Meinl Byzance cymbals, and the polyrhythmic techniques behind 'Ghost Walking' and 'Desolation'.\n\n**Type:** Album Drum Setup\n**Drummer(s):** [Chris Adler](/llms/drummers/chris-adler.md)\n**Band / Album:** Lamb of God — *Resolution* (2012)\n**Genre:** Groove Metal / New Wave of American Heavy Metal\n\n## Overview\n\nReleased on January 24, 2012, Lamb of God's \"Resolution\" debuted at #3 on the Billboard 200 and earned a Grammy nomination for Best Hard Rock/Metal Performance for \"Ghost Walking\" at the 56th Grammy Awards (2014). The album fills the Wrath (2009) → VII: Sturm und Drang (2015) arc in the Lamb of God discography and represents Chris Adler's signature gear setup at its most fully realized.\n\nChris Adler returned to the Mapex Black Panther Velvetone kit — his signature drum setup — and Meinl Byzance cymbals after the Pearl Reference Pure/Zildjian A Custom era of Wrath. Recorded at NRG Recording Services in North Hollywood with producer Josh Wilbur (their first record without producer Machine/Mark Lewis since Ashes of the Wake), Resolution's drum sound is the most dynamic and open-sounding in Lamb of God's catalog.\n\n\"Desolation\" features Adler's most complex polyrhythmic patterns on any Lamb of God record — staggered kick placement against syncopated right-hand work across multiple metric layers. \"Ghost Walking\" showcases his Grammy-nominated groove metal mastery: China cymbal accents placed with surgical precision, pivot technique hi-hat dynamics, and double-bass patterns sustained at 155 BPM.\n\n## Gear Breakdown\n\n- **Drums:** Mapex Black Panther Velvetone Series (maple/walnut hybrid, dual 22×18\" kick, 10\"/12\" rack toms, 14\"/16\" floor toms)\n- **Snare:** Mapex Chris Adler Signature Warbird, 14\" x 5.5\" (maple, SONIClear bearing edge)\n- **Cymbals:** Meinl Byzance series (14\" Traditional hi-hats, 18\"/19\"/20\" crashes, 21\" Dark Ride, 18\" and 20\" Brilliant Chinas, 10\" Traditional Splash)\n- **Pedals:** Trick Pro V (direct-drive, dual single setup)\n- **Hardware:** Roc-N-Soc Nitro Throne; Mapex IQ Rack\n- **Sticks:** Promark Chris Adler Signature TX5AXW (American hickory)\n- **Heads:** Remo Powerstroke P3 Clear (kick batter), Remo Emperor Clear (tom batter), Remo Controlled Sound Coated (snare batter)\n\n### The Mapex Black Panther Velvetone: Signature Return\n\nThe return to Mapex after the Pearl Reference Pure era brought the maple/walnut Velvetone hybrid's distinct tonal character to Resolution. Walnut layers add body and sustain to maple's natural attack — the combination sits differently in Josh Wilbur's more open production approach, with more articulate attack and complex walnut warmth in the sustain. Dual 22\"×18\" bass drums maintained from the Wrath configuration; SONIClear bearing edges for consistent head response.\n\n### The Warbird Snare: Speed and Crack\n\nThe Mapex Chris Adler Signature Warbird at 14\"×5.5\" is the shallowest snare in Lamb of God's studio history. The shallower depth prioritizes speed and ghost-note response over the extra body and sustain of the deeper DW and Pearl snares used on Sacrament and Wrath. Critical for \"Desolation\"'s ghost-note density and \"Ghost Walking\"'s rapid snare work across the verse groove.\n\n### Meinl Byzance Return: Dark and Complex\n\nThe Byzance series' hand-hammered, dark tonal character contrasts sharply with the Zildjian A Custom brightness of the previous two albums. The 21\" Byzance Dark Ride, dual Byzance Brilliant Chinas (18\" and 20\"), and standard 14\" Traditional hi-hats define Resolution's top-end sound — warmer China attacks, richer crash overtones, and a more complex ride presence than the A Custom era delivered.\n\n## Key Facts\n\n- Billboard 200 debut at #3 — Lamb of God's highest-charting album\n- Grammy nomination for Best Hard Rock/Metal Performance (\"Ghost Walking\", 56th Grammy Awards, 2014)\n- Recorded at NRG Recording Services, North Hollywood, with producer Josh Wilbur\n- Chris Adler's return to Mapex Black Panther Velvetone kit\n- Mapex Chris Adler Signature Warbird snare (14\"×5.5\") — shallowest snare in LoG studio history\n- Return to Meinl Byzance cymbals after Zildjian A Custom era (Sacrament + Wrath)\n- Fills the Wrath (2009) → VII: Sturm und Drang (2015) arc\n- \"Desolation\" features Adler's most complex polyrhythmic patterns\n- Trick Pro V direct-drive pedals\n- Estimated kit value: $4,000-6,000 (2012 Black Panther Velvetone configuration)\n- Estimated snare value: $400-500 (Mapex Warbird Signature)\n\n## Internal Links\n\n- [Chris Adler drummer profile](/drummer/chris-adler)\n- [Wrath drum setup (2009)](/articles/wrath-drum-setup)\n- [Sacrament drum setup (2006)](/articles/sacrament-drum-setup)\n\n**Source:** https://metalforge.io/articles/resolution-drum-setup\n\n**More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)\n\n*Last updated: 2026-06-27 · Source: [MetalForge.io](https://metalforge.io)*"
   },
   "vii-sturm-und-drang-drum-setup": {
     "slug": "vii-sturm-und-drang-drum-setup",
@@ -3294,20 +3280,14 @@ export const articles = {
       "estimatedValue": "$2,800-3,500 total (2015 Byzance setup with dual Chinas)"
     },
     "hardware": {
-      "title": "The Mapex Falcon Foundation, Unchanged",
+      "title": "The Trick Pro V Foundation, Unchanged",
       "items": [
         {
           "type": "Bass Drum Pedals",
-          "brand": "Mapex",
-          "model": "Mapex Falcon Double Pedal (used as two independent singles)",
+          "brand": "Trick",
+          "model": "Trick Pro V Double Pedal (used as two independent singles)",
           "notes": "Direct-drive mechanism carried over from Resolution",
-          "description": "The Falcon's direct-drive design continued to give Adler immediate, linear response between foot and beater — essential for the sustained double-bass work on \"Erase This\" and \"Delusion Pandemic.\" No change was needed from the Resolution setup; the pedals had already proven themselves at the tempos VII: Sturm und Drang demanded."
-        },
-        {
-          "type": "Hi-Hat Stand",
-          "brand": "Mapex",
-          "model": "Mapex Falcon Hi-Hat Stand",
-          "notes": "Smooth, adjustable action for pivot technique footwork"
+          "description": "The Pro V's direct-drive design continued to give Adler immediate, linear response between foot and beater — essential for the sustained double-bass work on \"Erase This\" and \"Delusion Pandemic.\" No change was needed from the Resolution setup; the pedals had already proven themselves at the tempos VII: Sturm und Drang demanded."
         },
         {
           "type": "Throne",
@@ -3395,7 +3375,7 @@ export const articles = {
           "Pivot technique hi-hat work adds dynamic layering beneath the riff",
           "Chorus explosion uses full kit assault for maximum impact"
         ],
-        "gearNotes": "Falcon direct-drive pedals sustain the verse double-bass patterns cleanly. The 14\" Byzance hi-hats handle the pivot footwork without losing definition."
+        "gearNotes": "Trick Pro V direct-drive pedals sustain the verse double-bass patterns cleanly. The 14\" Byzance hi-hats handle the pivot footwork without losing definition."
       }
     ],
     "gearDiff": {
@@ -3419,8 +3399,8 @@ export const articles = {
         },
         {
           "category": "Pedals",
-          "resolution": "Mapex Falcon (direct-drive)",
-          "vii": "Mapex Falcon (direct-drive, unchanged)"
+          "resolution": "Trick Pro V (direct-drive)",
+          "vii": "Trick Pro V (direct-drive, unchanged)"
         },
         {
           "category": "Producer",
@@ -3648,7 +3628,7 @@ export const articles = {
         }
       ]
     },
-    "llmContent": "# Lamb of God 'VII: Sturm und Drang' Drum Setup — Chris Adler's Grammy-Nominated Farewell Studio Album\n\n> Complete breakdown of Chris Adler's drum setup on Lamb of God's VII: Sturm und Drang (2015) — Mapex Black Panther Velvetone kit, Meinl Byzance cymbals, the Grammy-nominated '512', and his final studio album with the band before departing in 2019.\n\n**Type:** Album Drum Setup\n**Drummer(s):** [Chris Adler](/llms/drummers/chris-adler.md)\n**Band / Album:** Lamb of God — *VII: Sturm und Drang* (2015)\n**Genre:** Groove Metal / New Wave of American Heavy Metal\n\n## Overview\n\nReleased July 24, 2015 through Epic Records (Nuclear Blast internationally), \"VII: Sturm und Drang\" was Lamb of God's first album written after frontman Randy Blythe's acquittal on manslaughter charges in the Czech Republic (March 2013). The German title — \"storm and drive/stress\" — reflects that period's psychological weight; \"512\" is named for Blythe's cell number at Pankrác Prison. The album debuted at #3 on the Billboard 200 (roughly 47,000 first-week copies) and topped the Canadian, UK Rock & Metal, and US Top Hard Rock Albums charts.\n\nThis is Chris Adler's final studio album of original material with Lamb of God before his 2019 departure. He recorded it on the same Mapex Black Panther Velvetone kit and Meinl Byzance cymbal setup established on Resolution (2012), with producer Josh Wilbur returning for a second consecutive album, sessions split between NRG Recording Studios (North Hollywood) and Suburban Soul Studios (Torrance). \"512\" earned a Grammy nomination for Best Metal Performance at the 58th Grammy Awards (2016), losing to Ghost's \"Cirice\" — Adler's third Grammy-nominated Lamb of God album.\n\nGear stayed almost entirely consistent with Resolution; what changed was the performance. Adler's playing on VII carries a looser, more groove-oriented feel than Resolution's polyrhythmic density, fitting the album's more atmospheric, direct songwriting.\n\n## Gear Breakdown\n\n- **Drums:** Mapex Black Panther Velvetone Series (maple/walnut hybrid, dual 22×18\" kick, 10\"/12\" rack toms, 14\"/16\" floor toms)\n- **Snare:** Mapex Chris Adler Signature Warbird, 14\" x 5.5\" (maple/walnut hybrid, SONIClear bearing edge)\n- **Cymbals:** Meinl Byzance series (14\" Traditional hi-hats, 18\"/19\"/20\" crashes, 21\" Dark Ride, 18\" and 20\" Brilliant Chinas, 10\" Traditional Splash)\n- **Pedals:** Mapex Falcon (direct-drive, dual single setup)\n- **Hardware:** Mapex Falcon Hi-Hat Stand; Roc-N-Soc Nitro Throne; Mapex IQ Rack\n- **Sticks:** Promark Chris Adler Signature TX5AXW (American hickory)\n- **Heads:** Remo Powerstroke P3 Clear (kick batter), Remo Emperor Clear (tom batter), Remo Controlled Sound Coated (snare batter)\n\n### The Mapex Black Panther Velvetone: Unchanged from Resolution\n\nThe maple/walnut hybrid Velvetone kit carried over directly from Resolution — same dual 22\"x18\" bass drums, same tom geometry, same SONIClear bearing edges. By 2015 this was simply Adler's kit, road-tested across three years of touring and a second Josh Wilbur production.\n\n### The Warbird Snare: A Shell Update\n\nAdler's signature 14\"x5.5\" Warbird moved to a maple/walnut hybrid shell matching the Velvetone kit, adding low-mid body to the crack while keeping the same fast, ghost-note-friendly dimensions that have defined the snare since Sacrament.\n\n### Meinl Byzance: The Established China Language\n\nThe Byzance cymbal lineup — including the signature 18\" Brilliant China heard on \"Overlord\" and \"512\" — carried over unchanged from Resolution, now with three more years of touring precision behind every accent.\n\n## Key Facts\n\n- Billboard 200 debut at #3 — ~47,000 first-week copies, one of 2015's best-selling metal albums\n- First Lamb of God album after Randy Blythe's Czech manslaughter acquittal (March 2013)\n- Grammy nomination for Best Metal Performance (\"512\", 58th Grammy Awards, 2016)\n- Chris Adler's final studio album with Lamb of God before his 2019 departure\n- Recorded at NRG Recording Studios and Suburban Soul Studios with producer Josh Wilbur\n- Gear essentially unchanged from Resolution (2012) — Mapex Black Panther Velvetone / Meinl Byzance\n- Performance shifted toward a looser, more groove-oriented feel than Resolution's polyrhythmic density\n- Closes the Wrath (2009) → Resolution (2012) → VII (2015) arc of Adler's peak commercial era\n- Estimated kit value: $4,000-6,000 (2015 Black Panther Velvetone configuration)\n- Estimated snare value: $400-550 (2015 Mapex Warbird Signature, maple/walnut hybrid)\n\n## Internal Links\n\n- [Chris Adler drummer profile](/drummer/chris-adler)\n- [Wrath drum setup (2009)](/articles/wrath-drum-setup)\n- [Resolution drum setup (2012)](/articles/resolution-drum-setup)\n- [Chris Adler vs. Joey Jordison](/compare/chris-adler-vs-joey-jordison)\n\n**Source:** https://metalforge.io/articles/vii-sturm-und-drang-drum-setup\n\n**More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)\n\n*Last updated: 2026-07-01 · Source: [MetalForge.io](https://metalforge.io)*"
+    "llmContent": "# Lamb of God 'VII: Sturm und Drang' Drum Setup — Chris Adler's Grammy-Nominated Farewell Studio Album\n\n> Complete breakdown of Chris Adler's drum setup on Lamb of God's VII: Sturm und Drang (2015) — Mapex Black Panther Velvetone kit, Meinl Byzance cymbals, the Grammy-nominated '512', and his final studio album with the band before departing in 2019.\n\n**Type:** Album Drum Setup\n**Drummer(s):** [Chris Adler](/llms/drummers/chris-adler.md)\n**Band / Album:** Lamb of God — *VII: Sturm und Drang* (2015)\n**Genre:** Groove Metal / New Wave of American Heavy Metal\n\n## Overview\n\nReleased July 24, 2015 through Epic Records (Nuclear Blast internationally), \"VII: Sturm und Drang\" was Lamb of God's first album written after frontman Randy Blythe's acquittal on manslaughter charges in the Czech Republic (March 2013). The German title — \"storm and drive/stress\" — reflects that period's psychological weight; \"512\" is named for Blythe's cell number at Pankrác Prison. The album debuted at #3 on the Billboard 200 (roughly 47,000 first-week copies) and topped the Canadian, UK Rock & Metal, and US Top Hard Rock Albums charts.\n\nThis is Chris Adler's final studio album of original material with Lamb of God before his 2019 departure. He recorded it on the same Mapex Black Panther Velvetone kit and Meinl Byzance cymbal setup established on Resolution (2012), with producer Josh Wilbur returning for a second consecutive album, sessions split between NRG Recording Studios (North Hollywood) and Suburban Soul Studios (Torrance). \"512\" earned a Grammy nomination for Best Metal Performance at the 58th Grammy Awards (2016), losing to Ghost's \"Cirice\" — Adler's third Grammy-nominated Lamb of God album.\n\nGear stayed almost entirely consistent with Resolution; what changed was the performance. Adler's playing on VII carries a looser, more groove-oriented feel than Resolution's polyrhythmic density, fitting the album's more atmospheric, direct songwriting.\n\n## Gear Breakdown\n\n- **Drums:** Mapex Black Panther Velvetone Series (maple/walnut hybrid, dual 22×18\" kick, 10\"/12\" rack toms, 14\"/16\" floor toms)\n- **Snare:** Mapex Chris Adler Signature Warbird, 14\" x 5.5\" (maple/walnut hybrid, SONIClear bearing edge)\n- **Cymbals:** Meinl Byzance series (14\" Traditional hi-hats, 18\"/19\"/20\" crashes, 21\" Dark Ride, 18\" and 20\" Brilliant Chinas, 10\" Traditional Splash)\n- **Pedals:** Trick Pro V (direct-drive, dual single setup)\n- **Hardware:** Roc-N-Soc Nitro Throne; Mapex IQ Rack\n- **Sticks:** Promark Chris Adler Signature TX5AXW (American hickory)\n- **Heads:** Remo Powerstroke P3 Clear (kick batter), Remo Emperor Clear (tom batter), Remo Controlled Sound Coated (snare batter)\n\n### The Mapex Black Panther Velvetone: Unchanged from Resolution\n\nThe maple/walnut hybrid Velvetone kit carried over directly from Resolution — same dual 22\"x18\" bass drums, same tom geometry, same SONIClear bearing edges. By 2015 this was simply Adler's kit, road-tested across three years of touring and a second Josh Wilbur production.\n\n### The Warbird Snare: A Shell Update\n\nAdler's signature 14\"x5.5\" Warbird moved to a maple/walnut hybrid shell matching the Velvetone kit, adding low-mid body to the crack while keeping the same fast, ghost-note-friendly dimensions that have defined the snare since Sacrament.\n\n### Meinl Byzance: The Established China Language\n\nThe Byzance cymbal lineup — including the signature 18\" Brilliant China heard on \"Overlord\" and \"512\" — carried over unchanged from Resolution, now with three more years of touring precision behind every accent.\n\n## Key Facts\n\n- Billboard 200 debut at #3 — ~47,000 first-week copies, one of 2015's best-selling metal albums\n- First Lamb of God album after Randy Blythe's Czech manslaughter acquittal (March 2013)\n- Grammy nomination for Best Metal Performance (\"512\", 58th Grammy Awards, 2016)\n- Chris Adler's final studio album with Lamb of God before his 2019 departure\n- Recorded at NRG Recording Studios and Suburban Soul Studios with producer Josh Wilbur\n- Gear essentially unchanged from Resolution (2012) — Mapex Black Panther Velvetone / Meinl Byzance\n- Performance shifted toward a looser, more groove-oriented feel than Resolution's polyrhythmic density\n- Closes the Wrath (2009) → Resolution (2012) → VII (2015) arc of Adler's peak commercial era\n- Estimated kit value: $4,000-6,000 (2015 Black Panther Velvetone configuration)\n- Estimated snare value: $400-550 (2015 Mapex Warbird Signature, maple/walnut hybrid)\n\n## Internal Links\n\n- [Chris Adler drummer profile](/drummer/chris-adler)\n- [Wrath drum setup (2009)](/articles/wrath-drum-setup)\n- [Resolution drum setup (2012)](/articles/resolution-drum-setup)\n- [Chris Adler vs. Joey Jordison](/compare/chris-adler-vs-joey-jordison)\n\n**Source:** https://metalforge.io/articles/vii-sturm-und-drang-drum-setup\n\n**More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)\n\n*Last updated: 2026-07-01 · Source: [MetalForge.io](https://metalforge.io)*"
   },
   "dystopia-drum-setup": {
     "slug": "dystopia-drum-setup",
@@ -3667,7 +3647,7 @@ export const articles = {
     "dateModified": "2026-07-06",
     "author": "MetalForge Editorial",
     "title": "Chris Adler's Drum Setup on Megadeth's 'Dystopia' (2016)",
-    "description": "Chris Adler's Grammy-winning guest session with Megadeth. Full breakdown of the Mapex Black Panther Velvetone kit, Meinl Byzance cymbals, and Mapex Falcon pedals the Lamb of God drummer used to record 'Dystopia' — Best Metal Performance, 59th Grammy Awards.",
+    "description": "Chris Adler's Grammy-winning guest session with Megadeth. Full breakdown of the Mapex Black Panther Velvetone kit, Meinl Byzance cymbals, and Trick Pro V pedals the Lamb of God drummer used to record 'Dystopia' — Best Metal Performance, 59th Grammy Awards.",
     "seoKeywords": [
       "chris adler megadeth drum setup",
       "dystopia megadeth drummer",
@@ -3777,20 +3757,14 @@ export const articles = {
       "estimatedValue": "$2,200-2,800 total"
     },
     "hardware": {
-      "title": "Mapex Falcon: Adler's Familiar Foundation",
+      "title": "Trick Pro V: Adler's Familiar Foundation",
       "items": [
         {
           "type": "Bass Drum Pedals",
-          "brand": "Mapex",
-          "model": "Mapex Falcon Double Pedal (used as two independent singles)",
+          "brand": "Trick",
+          "model": "Trick Pro V Double Pedal (used as two independent singles)",
           "notes": "Direct-drive mechanism carried over from Lamb of God",
-          "description": "The Falcon's direct-drive design gave Adler the same immediate, linear response he relied on for Lamb of God's sustained double-bass work. No adjustment was needed for the faster, more relentless tempos of Dystopia's title track and 'Fatal Illusion' — the pedals had already proven themselves at higher tempos on his own band's records."
-        },
-        {
-          "type": "Hi-Hat Stand",
-          "brand": "Mapex",
-          "model": "Mapex Falcon Hi-Hat Stand",
-          "notes": "Smooth, adjustable action for pivot technique footwork"
+          "description": "The Pro V's direct-drive design gave Adler the same immediate, linear response he relied on for Lamb of God's sustained double-bass work. No adjustment was needed for the faster, more relentless tempos of Dystopia's title track and 'Fatal Illusion' — the pedals had already proven themselves at higher tempos on his own band's records."
         },
         {
           "type": "Throne",
@@ -3833,7 +3807,7 @@ export const articles = {
           "Snare crack is front and centre in Huff's mix",
           "Opening track on the album; Adler's only recorded performance with Megadeth"
         ],
-        "gearNotes": "Mapex Falcon pedals drive the verse grooves. Byzance 19\" crash punctuates the chorus transitions. Warbird snare tuned for maximum cut."
+        "gearNotes": "Trick Pro V pedals drive the verse grooves. Byzance 19\" crash punctuates the chorus transitions. Warbird snare tuned for maximum cut."
       },
       {
         "track": "Fatal Illusion",
@@ -3844,9 +3818,9 @@ export const articles = {
           "Sustained double bass patterns test endurance and consistency",
           "Hi-hat work at high tempo demonstrates Adler's groove-metal precision background",
           "Received significant radio and streaming traction post-Grammy",
-          "Showcases the Mapex Falcon's response under extended high-tempo demands"
+          "Showcases the Trick Pro V's response under extended high-tempo demands"
         ],
-        "gearNotes": "Extended double pedal passages push the Falcon pedals to their limits. Byzance 18\" crash delivers quick accents between riff sections."
+        "gearNotes": "Extended double pedal passages push the Trick Pro V pedals to their limits. Byzance 18\" crash delivers quick accents between riff sections."
       },
       {
         "track": "Post American World",
@@ -3869,7 +3843,7 @@ export const articles = {
       },
       {
         "question": "What drums did Chris Adler use on Dystopia?",
-        "answer": "Chris Adler used the same Mapex Black Panther Velvetone kit he was recording and touring with in Lamb of God at the time — a maple/walnut hybrid shell pack with dual 22\" x 18\" bass drums, 10\" and 12\" rack toms, and 14\" and 16\" floor toms. He paired it with his own 14\" x 5.5\" Mapex Chris Adler Signature Warbird snare, Meinl Byzance cymbals, and Mapex Falcon pedals — no gear changes were made specifically for the Megadeth session."
+        "answer": "Chris Adler used the same Mapex Black Panther Velvetone kit he was recording and touring with in Lamb of God at the time — a maple/walnut hybrid shell pack with dual 22\" x 18\" bass drums, 10\" and 12\" rack toms, and 14\" and 16\" floor toms. He paired it with his own 14\" x 5.5\" Mapex Chris Adler Signature Warbird snare, Meinl Byzance cymbals, and Trick Pro V pedals — no gear changes were made specifically for the Megadeth session."
       },
       {
         "question": "What won the Grammy for Best Metal Performance in 2016 / 2017?",
@@ -3907,7 +3881,7 @@ export const articles = {
         {
           "@type": "Article",
           "headline": "Chris Adler's Drum Setup on Megadeth's 'Dystopia' (2016)",
-          "description": "Chris Adler's Grammy-winning guest session with Megadeth. Full breakdown of the Mapex Black Panther Velvetone kit, Meinl Byzance cymbals, and Mapex Falcon pedals the Lamb of God drummer used to record 'Dystopia' — Best Metal Performance, 59th Grammy Awards.",
+          "description": "Chris Adler's Grammy-winning guest session with Megadeth. Full breakdown of the Mapex Black Panther Velvetone kit, Meinl Byzance cymbals, and Trick Pro V pedals the Lamb of God drummer used to record 'Dystopia' — Best Metal Performance, 59th Grammy Awards.",
           "author": {
             "@type": "Organization",
             "name": "MetalForge Editorial"
@@ -3971,7 +3945,7 @@ export const articles = {
     },
     "conclusion": {
       "title": "The Guest Session That Won Megadeth Their First Grammy",
-      "content": "\"Dystopia\" stands as one of thrash metal's landmark comeback albums — a Grammy-winning return to commercial and critical relevance that few bands achieve after three decades. Behind that comeback was an unusual arrangement: Chris Adler, co-founder and drummer of a completely different band, stepping in for a guest session that became one of the most celebrated performances of his career.\n\nThe Mapex Black Panther Velvetone kit, Meinl Byzance cymbals, and Mapex Falcon pedals are the same tools Adler was using with Lamb of God at the time — no reinvention was needed. In under two weeks at Vic's Garage, he laid down every drum track on the album that would earn Megadeth their first competitive Grammy. The gear was familiar; the execution, on unfamiliar material, was flawless.\n\n**The Megadeth Drummer Timeline:**\nMegadeth has had several notable drummers across its history. Gar Samuelson anchored the band's debut era; Nick Menza delivered the technical masterwork of Rust in Peace; Chuck Behler and Jimmy DeGrasso filled the gaps between. Chris Adler's one-album guest turn on Dystopia is a singular chapter — a Grammy-winning outsider's contribution before Dirk Verbeuren took over the touring lineup and, eventually, the drum chair permanently. For the complete Rust in Peace drum breakdown — the album that establishes the Megadeth thrash drumming template — see the [Rust in Peace Drum Setup article](/articles/rust-in-peace-drum-setup).\n\n**For the Aspiring Drummer:**\nStudy \"Dystopia\" to hear how a drummer with no prior history in a band's catalogue can still deliver a performance that feels definitive. Compare Adler's Megadeth guest turn with his own \"VII: Sturm und Drang\" (2015), recorded on the identical kit the same year, to hear how one drummer's core technique translates across completely different genres. For Dirk Verbeuren's actual Megadeth studio debut, see the [The Sick, the Dying... and the Dead! Drum Setup article](/articles/the-sick-the-dying-and-the-dead-drum-setup)."
+      "content": "\"Dystopia\" stands as one of thrash metal's landmark comeback albums — a Grammy-winning return to commercial and critical relevance that few bands achieve after three decades. Behind that comeback was an unusual arrangement: Chris Adler, co-founder and drummer of a completely different band, stepping in for a guest session that became one of the most celebrated performances of his career.\n\nThe Mapex Black Panther Velvetone kit, Meinl Byzance cymbals, and Trick Pro V pedals are the same tools Adler was using with Lamb of God at the time — no reinvention was needed. In under two weeks at Vic's Garage, he laid down every drum track on the album that would earn Megadeth their first competitive Grammy. The gear was familiar; the execution, on unfamiliar material, was flawless.\n\n**The Megadeth Drummer Timeline:**\nMegadeth has had several notable drummers across its history. Gar Samuelson anchored the band's debut era; Nick Menza delivered the technical masterwork of Rust in Peace; Chuck Behler and Jimmy DeGrasso filled the gaps between. Chris Adler's one-album guest turn on Dystopia is a singular chapter — a Grammy-winning outsider's contribution before Dirk Verbeuren took over the touring lineup and, eventually, the drum chair permanently. For the complete Rust in Peace drum breakdown — the album that establishes the Megadeth thrash drumming template — see the [Rust in Peace Drum Setup article](/articles/rust-in-peace-drum-setup).\n\n**For the Aspiring Drummer:**\nStudy \"Dystopia\" to hear how a drummer with no prior history in a band's catalogue can still deliver a performance that feels definitive. Compare Adler's Megadeth guest turn with his own \"VII: Sturm und Drang\" (2015), recorded on the identical kit the same year, to hear how one drummer's core technique translates across completely different genres. For Dirk Verbeuren's actual Megadeth studio debut, see the [The Sick, the Dying... and the Dead! Drum Setup article](/articles/the-sick-the-dying-and-the-dead-drum-setup)."
     }
   }
 };

@@ -6244,7 +6244,7 @@ His signature approach involves treating each limb as an independent rhythmic vo
     genre: 'Heavy Metal / Hard Rock',
     priority: 24,
     title: "How to Sound Like Mikkey Dee: Complete Gear & Technique Guide",
-    description: "Master Mikkey Dee's powerful rock drumming style. Learn his floor tom fills, aggressive right-hand attack, Sonor setup, and Paiste 2002 cymbal choices that defined Motörhead's final era and now drive Scorpions.",
+    description: "Master Mikkey Dee's powerful rock drumming style. Learn his floor tom fills, aggressive right-hand attack, the Sonor setup and Paiste 2002 cymbal choices that defined the final years of his Motörhead tenure (2012-2015), and now drive Scorpions.",
     seoKeywords: ['mikkey dee drumming', 'how to sound like mikkey dee', 'motörhead drummer technique', 'mikkey dee gear', 'mikkey dee technique', 'mikkey dee drum kit', 'motörhead drums', 'scorpions drummer'],
     ogImage: '/images/guides/mikkey-dee-guide.webp',
     datePublished: '2026-06-24',
@@ -6263,7 +6263,7 @@ Understanding his style means abandoning the impulse toward complexity. Dee's dr
         "Mikkey Dee joined Motörhead in 1992 and recorded with them for 23 years before joining Scorpions in 2016",
         "His technique centers on powerful straight-ahead timing, floor tom fills, and aggressive right-hand attack",
         "Bastards (1993) and Inferno (2004) are essential study records from his Motörhead period",
-        "He plays Sonor drums with Paiste 2002 cymbals (Motörhead era) and Sonor SQ2 with Paiste Signature cymbals (Scorpions era)"
+        "He plays Sonor drums with Paiste 2002 cymbals (Motörhead's final years, 2012-2015 — earlier Motörhead years were Tama with Paiste) and Sonor SQ2 with Paiste Signature cymbals (Scorpions era)"
       ]
     },
     technique: {
@@ -6320,7 +6320,7 @@ Understanding his style means abandoning the impulse toward complexity. Dee's dr
       title: "Mikkey's Sonor & Paiste Setup",
       drumKit: {
         brand: 'Sonor',
-        model: 'Sonor (Motörhead era) / Sonor SQ2 custom-build (Scorpions era, current)',
+        model: 'Sonor (Motörhead, 2012-2015 only — he played Tama from 1992-2012) / Sonor SQ2 custom-build (Scorpions era, current)',
         shells: 'Custom SQ2 build',
         finish: 'Various — black hardware live with Motörhead',
         config: {
@@ -6329,7 +6329,7 @@ Understanding his style means abandoning the impulse toward complexity. Dee's dr
           toms: ['10" x 9"', '12" x 10"'],
           floorToms: ['14" x 14" Floor Tom', '16" x 16" Floor Tom']
         },
-        description: "Dee has been a Sonor Drums endorser since his King Diamond days, well before joining Motörhead, and continues playing their SQ2 custom-build series with Scorpions. His configuration emphasizes floor toms: two floor toms (14\" and 16\") versus only two smaller rack toms (10\" and 12\"), reflecting his fill vocabulary's emphasis on low-frequency weight. Dual 22\" bass drums provide independent kick propulsion for the double bass runs that drive Motörhead's faster material.",
+        description: "Dee's Sonor Drums relationship began in 2012 with the release of his signature snare — decades into his Motörhead tenure, which he began in 1992 playing a Tama kit. He continues playing Sonor's SQ2 custom-build series with Scorpions today. His configuration emphasizes floor toms: two floor toms (14\" and 16\") versus only two smaller rack toms (10\" and 12\"), reflecting his fill vocabulary's emphasis on low-frequency weight. Dual 22\" bass drums provide independent kick propulsion for the double bass runs that drive Motörhead's faster material.",
         affiliateNote: "Sonor AQ2 or Force series share Sonor's build quality and hardware compatibility at a more accessible price."
       },
       snare: {
@@ -6462,13 +6462,13 @@ Understanding his style means abandoning the impulse toward complexity. Dee's dr
         pedals: "DW 5000 Series Double Pedal ($350)",
         snare: "Sonor Mikkey Dee Signature 14\" x 7.25\" Birch ($500)",
         heads: "Full Remo Emperor/Powerstroke set ($200)",
-        notes: "Sonor SQ2 is Dee's current Scorpions custom-build kit, continuing the Sonor endorsement he's held since his King Diamond days. Paiste 2002 cymbals throughout for the projecting, bright character that cuts through a loud rock mix."
+        notes: "Sonor SQ2 is Dee's current Scorpions custom-build kit, continuing the Sonor relationship he began in 2012 with his signature snare, late in his Motörhead tenure. Paiste 2002 cymbals throughout for the projecting, bright character that cuts through a loud rock mix."
       }
     },
     faq: [
       {
         question: "What drum kit does Mikkey Dee use?",
-        answer: "Mikkey Dee has been a Sonor Drums endorser since his King Diamond days, well before joining Motörhead, and currently plays their SQ2 custom-build series with Scorpions, with dual 22\" bass drums and an emphasis on floor toms (14\" and 16\") in his configuration."
+        answer: "Mikkey Dee joined Motörhead in 1992 playing Tama drums. His Sonor Drums relationship began in 2012 with his signature snare, and he currently plays Sonor's SQ2 custom-build series with Scorpions, with dual 22\" bass drums and an emphasis on floor toms (14\" and 16\") in his configuration."
       },
       {
         question: "What cymbals does Mikkey Dee use?",

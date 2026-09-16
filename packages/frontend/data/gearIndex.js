@@ -17,20 +17,6 @@
 
 export const GEAR_INDEX = {
   "DW": {
-    "5000 Double Pedal": [
-      {
-        "id": 64,
-        "name": "Sean Reinert",
-        "slug": "sean-reinert",
-        "configString": "DW 5000 Double Pedal"
-      },
-      {
-        "id": 65,
-        "name": "Nick Menza",
-        "slug": "nick-menza",
-        "configString": "DW 5000 Double Pedal"
-      }
-    ],
     "9000 Series Double Pedal, DW 9100 Throne": [
       {
         "id": 10,
@@ -141,12 +127,6 @@ export const GEAR_INDEX = {
         "name": "Hannes Grossmann",
         "slug": "hannes-grossmann",
         "configString": "Meinl Byzance Series (14\" Byzance Traditional Hi-Hats, 18\" & 19\" Byzance Brilliant Crashes, 21\" Byzance Traditional Ride)"
-      },
-      {
-        "id": 62,
-        "name": "Martin Axenrot",
-        "slug": "martin-axenrot",
-        "configString": "Meinl Byzance Series (14\" Traditional Medium Hi-Hats, 16\" & 18\" & 19\" Crashes, 22\" Traditional Ride, 18\" China)"
       }
     ]
   },
@@ -559,12 +539,6 @@ export const GEAR_INDEX = {
         "name": "Gavin Harrison",
         "slug": "gavin-harrison",
         "configString": "Sonor SQ2 Series"
-      },
-      {
-        "id": 62,
-        "name": "Martin Axenrot",
-        "slug": "martin-axenrot",
-        "configString": "Sonor SQ2 Series"
       }
     ],
     "SQ2 Heavy Beech": [
@@ -907,18 +881,6 @@ export const GEAR_INDEX = {
         "name": "Kevin Talley",
         "slug": "kevin-talley",
         "configString": "Vic Firth American Classic 5B"
-      },
-      {
-        "id": 62,
-        "name": "Martin Axenrot",
-        "slug": "martin-axenrot",
-        "configString": "Vic Firth American Classic 5B"
-      },
-      {
-        "id": 65,
-        "name": "Nick Menza",
-        "slug": "nick-menza",
-        "configString": "Vic Firth American Classic 5B"
       }
     ],
     "American Classic Extreme 5B": [
@@ -1143,6 +1105,12 @@ export const GEAR_INDEX_BRAND_LEVEL = {
       "configString": "Evans"
     },
     {
+      "id": 62,
+      "name": "Martin Axenrot",
+      "slug": "martin-axenrot",
+      "configString": "Evans"
+    },
+    {
       "id": 66,
       "name": "Adrian Erlandsson",
       "slug": "adrian-erlandsson",
@@ -1256,12 +1224,6 @@ export const GEAR_INDEX_BRAND_LEVEL = {
       "id": 60,
       "name": "Kevin Talley",
       "slug": "kevin-talley",
-      "configString": "Remo"
-    },
-    {
-      "id": 62,
-      "name": "Martin Axenrot",
-      "slug": "martin-axenrot",
       "configString": "Remo"
     },
     {

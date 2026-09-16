@@ -2403,9 +2403,9 @@ This guide explores how to capture Chris's powerful groove metal style.`,
         description: "Chris uses heavy cymbals that cut through Lamb of God's wall of guitars. The Mb20 series provides the brightness and projection needed."
       },
       pedals: {
-        brand: 'Mapex',
-        model: 'Mapex Falcon Double Pedal',
-        description: "Chris uses Mapex's flagship double pedal for its speed and feel. Direct-drive action suits his powerful style.",
+        brand: 'Trick',
+        model: 'Trick Pro V',
+        description: "Chris uses Trick's Pro V double pedal for its speed and feel. Direct-drive action suits his powerful style.",
         alternative: "Pearl Demon Drive or DW 9000"
       },
       sticks: {

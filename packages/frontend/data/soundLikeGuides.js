@@ -131,10 +131,10 @@ This guide will break down exactly how to capture Joey's sound—from his aggres
         alternative: "Vic Firth 5A or 5B for traditional wood stick feel"
       },
       heads: {
-        kick: 'Remo Powerstroke P3 Clear',
-        snare: 'Remo Ambassador X Coated',
-        toms: 'Remo Emperor Clear',
-        resonant: 'Remo Ambassador Clear'
+        kick: 'Evans',
+        snare: 'Evans',
+        toms: 'Evans',
+        resonant: 'Evans'
       }
     },
     // Tuning Section
@@ -245,7 +245,7 @@ This guide will break down exactly how to capture Joey's sound—from his aggres
         cymbals: "Paiste Signature/RUDE Custom Selection ($1,500+)",
         pedals: "Pearl Demon Drive ($600)",
         sticks: "Promark TX515W Joey Jordison Signature ($15)",
-        heads: "Full Remo setup ($150)",
+        heads: "Full Evans setup ($150)",
         notes: "Recording and touring-ready setup matching Joey's studio sound."
       }
     },

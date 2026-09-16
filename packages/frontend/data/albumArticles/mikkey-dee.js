@@ -2990,7 +2990,7 @@ export const articles = {
       "estimatedValue": "$1,800–2,600 full setup (2015)"
     },
     "hardware": {
-      "title": "DW Double Pedal and Vic Firth Signature: The Final Setup",
+      "title": "DW Double Pedal and Wincent Signature Sticks: The Final Setup",
       "items": [
         {
           "type": "Bass Drum Pedal",
@@ -3013,8 +3013,8 @@ export const articles = {
         },
         {
           "type": "Sticks",
-          "brand": "Vic Firth",
-          "model": "Vic Firth Mikkey Dee Signature",
+          "brand": "Wincent",
+          "model": "Mikkey Dee Signature (W-MDS)",
           "notes": "Signature model reflecting Dee's status as one of hard rock's most recognized drummers by 2015"
         }
       ],
@@ -3079,7 +3079,7 @@ export const articles = {
       },
       {
         "question": "What drums and cymbals did Mikkey Dee use on Bad Magic?",
-        "answer": "On *Bad Magic* (2015), Mikkey Dee used a Sonor SQ2 kit with a 22\" x 18\" bass drum, an 8\"/10\"/12\"/14\" rack tom configuration, and a 16\" floor tom, paired with his own Sonor Mikkey Dee Signature birch snare (14\" x 7.25\"). His cymbal setup used the Paiste Signature Series (Sound Edge hi-hats and Full Crashes) with a 21\" Full Ride for extra tonal depth, plus a 19\" China for accents. He played a DW 5000 Series double pedal and used his own Vic Firth Mikkey Dee signature sticks. For his full gear evolution across four decades, see [What's In Mikkey Dee's Kit](/articles/whats-in-mikkey-dees-kit)."
+        "answer": "On *Bad Magic* (2015), Mikkey Dee used a Sonor SQ2 kit with a 22\" x 18\" bass drum, an 8\"/10\"/12\"/14\" rack tom configuration, and a 16\" floor tom, paired with his own Sonor Mikkey Dee Signature birch snare (14\" x 7.25\"). His cymbal setup used the Paiste Signature Series (Sound Edge hi-hats and Full Crashes) with a 21\" Full Ride for extra tonal depth, plus a 19\" China for accents. He played a DW 5000 Series double pedal and used his own Wincent Mikkey Dee signature sticks. For his full gear evolution across four decades, see [What's In Mikkey Dee's Kit](/articles/whats-in-mikkey-dees-kit)."
       },
       {
         "question": "Did Motörhead win a Grammy for Bad Magic?",
@@ -3121,7 +3121,7 @@ export const articles = {
         {
           "category": "Sticks",
           "then": "Vic Firth 5B",
-          "now": "Vic Firth Mikkey Dee Signature"
+          "now": "Wincent Mikkey Dee Signature"
         }
       ]
     },

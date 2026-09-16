@@ -8976,3 +8976,40 @@ Ran `gh issue list --state all --search` for all 3 drummers before filing (Chris
 3. The drummerEvolution.js/evolutionTimeline.js gear-fabrication vein (dominant pattern for the past several days) may also be nearing exhaustion — worth a fresh audit-agent pass on files not yet swept (gearComparisons.js/gearNews.js/kitQuizData.js were the last new seam found, 09-15 13:00 run) if the bank stays low next run.
 4. Content-gap queries (`flo mounier`, `mario duplantier drum kit`) unchanged/held on established precedent.
 5. Next drum-chair watch due Monday 2026-09-21, group 3 (sepultura/slayer/slipknot/testament/tool/vader/volto).
+
+---
+
+## 2026-09-16 (run ~13:00 UTC, per metrics.md 12:18 UTC) — 6 proposals filed (#7613-7618): fresh seam found in signatureGear.js, first sweep of this file
+
+### Bank check
+Open `seo-proposal` at run start: 8 total, but 5 of those already carry `ai-fix` (promoted, mid-pipeline: #7591/7592/7602/7603/7604) and 3 are the standing L1/L2/L3 umbrellas (#2211/#3810/#3819) — **genuinely fresh/untriaged bank was 0**, well under 45 → cleared to file up to 8 net-new. Metrics 12:18 UTC (352 users/388 sessions/741 views 7d; GSC 7,902 impr/161 clicks/2.04% CTR/pos 7.6). robots.txt: 13 `User-agent` blocks confirmed (`api/robots.js`). `/llms/*.md` endpoints: 2,016 files live (stable, unchanged for weeks). Content-gap table: `flo mounier` (80 impr/1.25% CTR) and `mario duplantier drum kit` (78 impr/1.28% CTR) — both re-confirmed already-classified per `learned-patterns.md` (class-2 bare-name/bio-intent; gear-qualified known oscillator) — held, no new action. Today is Wednesday — drum-chair watch not due (last ran Monday 09-14, next due 09-21 group 3).
+
+### This run's work
+Per the prior run's note that the `drummerEvolution.js`/`evolutionTimeline.js` fabrication vein is nearing exhaustion (endorsementNews.js internal-contradiction sweep already exhausted 09-16 05:34), dispatched 3 parallel audit agents on files never yet swept for the gear-fabrication-vs-`endorsementNews.js` bug class: `signatureGear.js` (90KB, 6 deep-dive drummer spotlight articles + cross-reference blocks), `guessTheKitData.js`/`quizData.js` (quiz files, by analogy to the already-fixed `kitQuizData.js`), and a batch of smaller category/series/battle template files (`drummerGearCategoryPages.js`, `gearCategoryPages.js`, `gearSeriesPages.js`, `battles.js`, `cymbalSetupPages.js`, `pedalSetupPages.js`).
+
+**Result: `signatureGear.js` is a fresh, previously-unswept seam — 7 candidates found, personally re-verified 6 as real before filing** (dropped 1 — Joey Jordison's Iowa mismatch and the signature-snare-launch-date issue turned out to be the same underlying fact checked twice, consolidated into a single issue). The other 2 file groups came back clean — `guessTheKitData.js`/`quizData.js` never make a factual gear-brand claim at all (pure photo-ID and vibe/trait quizzes), and the category/series/battle template files are pure string-interpolation templates with no hardcoded drummer+brand pairs (one hardcoded Lars Ulrich/Zildjian claim in `gearCategoryPages.js:29` was checked and is accurate, not a contradiction).
+
+**6 filed, all single-file corrections on existing pages, zero new URLs — freeze-compliant:**
+1. **#7613** — Gene Hoglan `signatureGear.js` (lines 856-1139, the `gene-hoglan-pearl-reference-kit` spotlight) — the entire article ties his pre-2018 career (Dark Angel 1986, Death 1993, Testament 2008/2012/2016) to a "Pearl Reference Pure" kit; verified `endorsementNews.js` shows Tama continuously from 1983 (including a 2008 **Tama** signature snare) until Pearl only started in 2018. Largest scope this run — narrative-level fix across ~8 locations in one article block, not a single-field swap.
+2. **#7614** — George Kollias `signatureGear.js:1074` (cross-ref inside Gene Hoglan's `drummerAlternatives` block) — says "Tama Starclassic Bubinga Kit"; verified continuous Pearl Masterworks Series. Likely confused with Eloy Casagrande's genuinely-Tama-Bubinga kit.
+3. **#7615** — Tomas Haake `signatureGear.js` lines 511 + 790 (2 separate cross-ref blocks, in Danny Carey's and Mario Duplantier's articles respectively) — both fabricate Pearl gear; verified Sonor SQ2 since 2005. This file **contradicts its own** correct, already-live Tomas Haake dedicated article (`sonor-tomas-haake-signature-snare`, line 1404+) — a self-contradiction within the same file, same pattern flagged repeatedly in prior runs' `top10Lists.js`/`drummerComparisons.js` audits.
+4. **#7616** — Danny Carey `signatureGear.js:784` (cross-ref in Mario Duplantier's article) — invents a "Sonor Danny Carey Signature 14x8\" Bronze" snare that doesn't exist anywhere in `endorsementNews.js` (no snare-specific endorsement at all for him) or in this same file's own correct Danny Carey spotlight (`danny-carey-paiste-giant-beat-gongs`). Outright invention, not a brand mix-up.
+5. **#7617** — Mario Duplantier `signatureGear.js:693-694` (his own `mario-duplantier-tama-starphonic-bronze` article) — credits 2 *From Mars to Sirius* (2005) tracks to his Tama snare; verified Tama signing is 2010, 5 years later.
+6. **#7618** — Joey Jordison `signatureGear.js:46-47` (his own `joey-jordison-pearl-signature-snare` article) — "Iowa Sessions (2001)" section says he recorded the album with the signature snare; verified the signature snare model launched in 2010, 9 years after Iowa. He was on a general Pearl deal during Iowa (1999 signing), just not this specific model.
+
+Personally re-verified every candidate by directly reading both `signatureGear.js` (exact line numbers) and `endorsementNews.js` (exact line numbers) before filing — not trusting the audit agent's report alone, consistent with this week's standing practice.
+
+### Dedup notes
+Ran `gh issue list --state all --search "signatureGear <drummer>"` for all 6 drummers before filing. Found prior closed hits for Gene Hoglan/George Kollias (#7073 — but that fixed `beginnerGuides.js`, a different file) and for Danny Carey/Mario Duplantier/Joey Jordison/Tomas Haake (all just the original `signatureGear.js` schema/FAQ/meta issues #739/#1474/#3723/#4888/#5289/#5540/#4699/#4698, none touching factual content) and Lars Ulrich (#6122, a different drummer/fact — Paiste china fabrication, already fixed). None were duplicates of the fabrication facts filed here — confirmed each by reading the actual issue body, not just title.
+
+### Open proposals waiting on CEO triage
+- #7591/7592/7602/7603/7604 (prior runs, still open/`ai-fix`, awaiting Roadie)
+- #7613-7618 (this run, 6 fresh)
+- #2211/#3810/#3819 (standing umbrellas)
+
+### Next run
+1. Watch #7613-7618 through CEO triage — #7613 (Gene Hoglan) is the largest/riskiest (full narrative rewrite across ~8 locations), worth extra attention if it stalls or needs re-scope.
+2. `signatureGear.js` may have more candidates beyond the 6 filed — only 6 of the file's 6 dedicated spotlight articles + their cross-reference blocks were covered this run; a follow-up pass isn't urgent (the 3 clean-file audits this run suggest the fabrication vein is generally thinning) but worth a second look if the bank stays low.
+3. Consider auditing `genreGearGuides-summary.js`, `gearSearchData.js`, `gearIndex.js`, or `soundLikeGuides.js` (only partially swept — McBrain fixed 09-15, rest of the 1.3MB file unaudited) next if a fresh seam is needed.
+4. Content-gap queries (`flo mounier`, `mario duplantier drum kit`) unchanged/held on established precedent.
+5. Next drum-chair watch due Monday 2026-09-21, group 3 (sepultura/slayer/slipknot/testament/tool/vader/volto).

@@ -821,12 +821,6 @@ export const articles = {
           "brand": "Roc-N-Soc",
           "model": "Roc-N-Soc Original",
           "notes": "Comfortable seat for extended sessions"
-        },
-        {
-          "type": "Sticks",
-          "brand": "Zildjian",
-          "model": "Zildjian Lars Ulrich Signature (prototype)",
-          "notes": "Prototype of what would become Lars's signature stick"
         }
       ],
       "heads": {
@@ -929,11 +923,6 @@ export const articles = {
           "category": "Cymbals",
           "then": "Zildjian A/Z Series",
           "now": "Zildjian A Custom"
-        },
-        {
-          "category": "Sticks",
-          "then": "Zildjian signature prototype",
-          "now": "Ahead Lars Ulrich Signature"
         },
         {
           "category": "Pedals",
@@ -1144,12 +1133,6 @@ export const articles = {
           "brand": "Roc-N-Soc",
           "model": "Roc-N-Soc Original",
           "notes": "Lars's consistent throne choice across multiple albums"
-        },
-        {
-          "type": "Sticks",
-          "brand": "Ahead",
-          "model": "Ahead Lars Ulrich Signature (prototype era)",
-          "notes": "Lars began his relationship with Ahead sticks around this period"
         }
       ],
       "heads": {
@@ -1239,7 +1222,7 @@ export const articles = {
     ],
     "evolution": {
       "title": "From Thrash Technician to Groove Master",
-      "content": "The Black Album represents the most dramatic single-album evolution in Lars Ulrich's career. The shift from Justice's dry complexity to the Black Album's roomy groove was not merely a gear change — it was a fundamental redefinition of what Lars considered good drumming.\n\n**The Bob Rock Effect:**\nBob Rock had previously produced records for Bon Jovi, Mötley Crüe, and The Cult. He brought a mainstream rock sensibility to the sessions that Lars initially resisted. Rock reportedly clashed with Lars over drum feel, tempo, and tuning — pushing Lars toward a looser, more Bonham-esque approach that the drummer found uncomfortable at first.\n\n**Tuning as Philosophy:**\nThe lower tuning on the Black Album wasn't just a sonic preference — it represented a philosophical shift. Lars has spoken about learning to let the drums breathe and sustain, rather than muffling them into submission. This approach carried through to live performances and subsequent records.\n\n**Gear Evolution:**\nThe move from Artstar II birch to Artist Maple shells was one of several transitions happening simultaneously. The early adoption of Tama Iron Cobra pedals, the prototype snare that would become the LU1465, and the shift to softer stick choices (Ahead prototypes) all reflected the Black Album's groove-first philosophy.\n\n**The Long Shadow:**\nThe Black Album's drum sound influenced a generation of rock and metal producers. Bob Rock's room mic approach and gated reverb techniques became templates for countless subsequent productions. Drummers still reference the snare sound on \"Sad But True\" and the kick drum boom on \"Enter Sandman\" as target tones.",
+      "content": "The Black Album represents the most dramatic single-album evolution in Lars Ulrich's career. The shift from Justice's dry complexity to the Black Album's roomy groove was not merely a gear change — it was a fundamental redefinition of what Lars considered good drumming.\n\n**The Bob Rock Effect:**\nBob Rock had previously produced records for Bon Jovi, Mötley Crüe, and The Cult. He brought a mainstream rock sensibility to the sessions that Lars initially resisted. Rock reportedly clashed with Lars over drum feel, tempo, and tuning — pushing Lars toward a looser, more Bonham-esque approach that the drummer found uncomfortable at first.\n\n**Tuning as Philosophy:**\nThe lower tuning on the Black Album wasn't just a sonic preference — it represented a philosophical shift. Lars has spoken about learning to let the drums breathe and sustain, rather than muffling them into submission. This approach carried through to live performances and subsequent records.\n\n**Gear Evolution:**\nThe move from Artstar II birch to Artist Maple shells was one of several transitions happening simultaneously. The early adoption of Tama Iron Cobra pedals, the prototype snare that would become the LU1465, and the shift to softer stick choices all reflected the Black Album's groove-first philosophy.\n\n**The Long Shadow:**\nThe Black Album's drum sound influenced a generation of rock and metal producers. Bob Rock's room mic approach and gated reverb techniques became templates for countless subsequent productions. Drummers still reference the snare sound on \"Sad But True\" and the kick drum boom on \"Enter Sandman\" as target tones.",
       "thenVsNow": [
         {
           "category": "Kit",
@@ -1255,11 +1238,6 @@ export const articles = {
           "category": "Cymbals",
           "then": "Zildjian A Series (Musical Ride)",
           "now": "Zildjian A Custom"
-        },
-        {
-          "category": "Sticks",
-          "then": "Ahead prototype",
-          "now": "Ahead Lars Ulrich Signature"
         },
         {
           "category": "Pedals",

@@ -3484,11 +3484,11 @@ const drummers = [
       'https://www.discogs.com/artist/410708-Nick-Menza'
     ],
     gear: {
-      drums: 'Tama Swingstar',
+      drums: 'Pearl Reference Custom',
       snare: 'Tama Steel Snare 14x5.5"',
-      cymbals: 'Zildjian A Series (14" A Hi-Hats, 16" & 18" A Crash, 20" A Ride)',
-      hardware: 'DW 5000 Double Pedal',
-      sticks: 'Vic Firth American Classic 5B',
+      cymbals: 'Sabian AA / Signature Series',
+      hardware: 'Tama Iron Cobra Double Pedal',
+      sticks: 'Vater Nick Menza Signature',
       heads: 'Remo Ambassador / Powerstroke 3',
       verified: true,
       sources: ['https://en.wikipedia.org/wiki/Nick_Menza']

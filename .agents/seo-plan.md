@@ -9013,3 +9013,46 @@ Ran `gh issue list --state all --search "signatureGear <drummer>"` for all 6 dru
 3. Consider auditing `genreGearGuides-summary.js`, `gearSearchData.js`, `gearIndex.js`, or `soundLikeGuides.js` (only partially swept — McBrain fixed 09-15, rest of the 1.3MB file unaudited) next if a fresh seam is needed.
 4. Content-gap queries (`flo mounier`, `mario duplantier drum kit`) unchanged/held on established precedent.
 5. Next drum-chair watch due Monday 2026-09-21, group 3 (sepultura/slayer/slipknot/testament/tool/vader/volto).
+
+---
+
+## 2026-09-16 (run ~17:30 UTC, per metrics.md 17:22 UTC) — 8 proposals filed (#7623-7630): new seam in `api/drummers/index.js` (feeds generated `gearIndex.js`), plus `soundLikeGuides.js`/`gearSearchData.js` sibling gaps
+
+### Bank check
+Open `seo-proposal` at run start: 10 (7 fresh untriaged #7613-7618 + #7603 `ai-fix` + 3 standing umbrellas #2211/#3810/#3819) — well under 45 → cleared to file up to 8 net-new. Metrics 17:22 UTC (360 users/397 sessions/749 views 7d; GSC 9,453 impr/197 clicks/2.08% CTR/pos 7.6). robots.txt: 13 `User-agent` blocks confirmed, all 8+ AI crawlers explicitly allowed. `/llms/*.md` endpoints: 2,016 files live (stable, re-confirmed via `find`). Content-gap table: `flo mounier` (95 impr/1.05% CTR/pos 9.1) and `mario duplantier drum kit` (98 impr/1.02% CTR/pos 6.9) — both re-confirmed already-classified per `learned-patterns.md` (class-2 bare-name/bio-intent; gear-qualified known oscillator) — held, no new action. Today is Wednesday — drum-chair watch not due (last ran Monday 09-14, next due 09-21 group 3).
+
+### This run's work
+Per the prior run's suggestion, dispatched 4 parallel audit agents on files never yet swept for the gear-fabrication-vs-`endorsementNews.js` bug class: `soundLikeGuides.js` (rest of the file, only McBrain fixed so far), `gearSearchData.js`, `gearIndex.js`, `genreGearGuides-summary.js`.
+
+**`genreGearGuides-summary.js` came back clean** — confirmed it's a pure route/metadata index (slug/title/genre only), zero drummer names or brand claims, nothing to check.
+
+**`gearIndex.js` audit surfaced something new: it's a GENERATED file** (header: "do not edit by hand... Source of truth: `api/drummers/index.js`"). The agent's 18 findings across 8 drummers were real, but the fix location is `api/drummers/index.js`, not `gearIndex.js` itself. Personally verified several before filing (not trusting the agent's per-field claims blindly, since one case needed deeper timeline reading):
+- **Nick Menza** — turned out to be a different bug shape than the agent first framed it: the whole `gear` object in `api/drummers/index.js` is frozen at his **1990 Rust in Peace debut era** (Tama/Zildjian/DW/Vic Firth), not his final 1997 endorsements (Pearl/Sabian/Tama Iron Cobra/Vater signature) that `endorsementNews.js`'s `currentEndorsements` documents — every other drummer's `gear` block represents their final rig, so this is the one stale exception. Filed as **#7623**.
+- **Alex Bent** — `api/drummers/index.js` says `drums: 'Pearl Reference Pure Series'` with `verified: true`/`verifiedAt: '2026-02-02'`/cited sources, but this is fabricated: confirmed via `endorsementNews.js` (Tama since 2016) **and an external web search of Tama's own artist page** (tama.com/usa/artists/detail/1446.html) that he's Tama, not Pearl — the cited Axis Percussion source only supports his pedal endorsement, not drums. Same fact already fixed in 5 other files this week; `api/drummers/index.js` was the one sibling gap that also happens to feed the generated brand-index. Worth flagging: this entry's `verified`/`sources` metadata did not prevent the fabrication — that metadata isn't itself reliable evidence. Filed as **#7624**.
+- **7-drummer heads Evans→Remo pattern** — personally re-verified 7 of the agent's 8 flagged drummers directly against both files (Igor Cavalera, Aquiles Priester, Tim Yeung, Mike Mangini, Matt Garstka, Daniel Erlandsson, Paul Mazurkiewicz all confirmed: `api/drummers/index.js` says `heads: 'Evans'`, `endorsementNews.js` verifies Remo). **Caught and dropped Martin Axenrot from the batch** — the agent flagged him as "wrongly Remo, actually Evans" but direct read showed `api/drummers/index.js` already correctly says Evans and `endorsementNews.js` confirms Evans; if he still shows up mis-bucketed in the generated `gearIndex.js` output, that's a `scripts/build-gear-index.cjs` bucketing bug, not a data error, and needs separate investigation — noted explicitly in the issue rather than guess-fixing. Filed as **#7625** (batch, all 7).
+
+**`soundLikeGuides.js`** (4 filed, all personally spot-checked against `endorsementNews.js`):
+- **#7626** — Chris Adler `gear.pedals` fabricates Mapex Falcon (verified Trick Pro V) — same fabrication already fixed in ~6 other files, this was the one gap in this file's `pedals` field (a different field than #6576's already-fixed `sticks` field in the same file).
+- **#7627** — Vinnie Paul `gear.drumKit.finish: 'Custom Pantera finish'` + FAQ answer attach ddrum to the whole Pantera era; ddrum only started 2008, 5 years after Pantera ended in 2003 (Pantera-era kits were Tama then Pearl). Distinct from #6438's already-fixed snare/pedal fields at different line ranges in the same file.
+- **#7628** — Mikkey Dee claims "Sonor Drums endorser since his King Diamond days, well before joining Motörhead" — actually the Sonor signature relationship only started in 2012, 20 years after joining Motörhead in 1992 (playing Tama then). Distinct from #5694's already-fixed brand-name-only error at different lines in the same file.
+- **#7629** — Joey Jordison `gear.heads` fabricates all-Remo (verified Evans since 2005).
+
+**`gearSearchData.js`** (1 consolidated batch, #7630): Chris Adler hardware (Mapex Falcon → Trick Pro V, same sibling-gap class as #7626), Mario Duplantier cymbals (Meinl Byzance → Zildjian K/A/Z Custom), Vinnie Paul hardware (DW 5000 → ddrum), Ray Luzier cymbals + hardware (Zildjian A Custom → Sabian AAX; Pearl Demon Drive → DW 9000) — all in the same `DRUMMER_GEAR` lookup-key map, filed as one batch since the fix is mechanical key-swaps in one data structure.
+
+**8 filed, all single/few-file corrections on existing pages, zero new URLs — freeze-compliant.**
+
+### Dedup notes
+Ran `gh issue list --state all --search "<drummer> <keyword>"` for every candidate before filing. All prior closed hits confirmed (by reading the actual issue body, not just title) to target different files or different fields/line-ranges than what's filed here — e.g. #6438/#6330 (Vinnie Paul soundLikeGuides, different fields), #5694 (Mikkey Dee soundLikeGuides, different lines — brand name vs origin-story timing), #6576 (Chris Adler soundLikeGuides sticks field, not pedals), #7020 (gearSearchData sticks field, not cymbals/hardware), #6199/#7293/#6873/#6830/#6663 (Alex Bent, all different files than api/drummers/index.js).
+
+### Open proposals waiting on CEO triage
+- #7603 (prior run, still open/`ai-fix`, awaiting Roadie)
+- #7613-7618 (prior run, 6, still open/fresh or ai-fix)
+- #7623-7630 (this run, 8 fresh)
+- #2211/#3810/#3819 (standing umbrellas)
+
+### Next run
+1. Watch #7623-7630 through CEO triage. #7623 (Nick Menza) and #7625 (7-drummer batch) touch a GENERATED file (`api/drummers/index.js` → `gearIndex.js` via `scripts/build-gear-index.cjs`) — confirm Roadie remembers to run the regen script, not just edit the source, and check the build output actually changed before merging.
+2. If `api/drummers/index.js` has more of this bug class beyond what 2 targeted checks surfaced, a dedicated full-file audit pass (196 entries) may be worth it — this run only checked the drummers already flagged by the `gearIndex.js`-side agent, not the source file exhaustively.
+3. Martin Axenrot flagged as a possible `scripts/build-gear-index.cjs` bucketing bug (mis-sorted into the wrong generated brand bucket despite correct source data) — worth a dedicated look, don't guess-fix.
+4. Content-gap queries (`flo mounier`, `mario duplantier drum kit`) unchanged/held on established precedent.
+5. Next drum-chair watch due Monday 2026-09-21, group 3 (sepultura/slayer/slipknot/testament/tool/vader/volto).

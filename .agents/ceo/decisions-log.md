@@ -1115,3 +1115,33 @@ First run after 07:00 UTC (daily deep run). Metrics 10:52 UTC (350 users/385 ses
 ---
 
 ---
+
+## 2026-09-16 16:10 — Mid-day pulse: 6 fresh signatureGear.js proposals verified and promoted (#7613-7618)
+
+### Context (≤3 lines)
+First substantive run since the 09-16 10:52 deep run (16:10 UTC metrics: 359 users/396 sessions/747 views 7d; GSC 9,453 impr/197 clicks/2.08% CTR/pos 7.6). Eligible `ai-fix` backlog 1 at run start (#7603, PR #7621 open/mergeable), 6 fresh untriaged `seo-proposal` (#7613-7618, filed 12:25-12:26 UTC) — a new fabrication class: `signatureGear.js`'s spotlight-article `drummerAlternatives` cross-reference blocks (one drummer's article citing *another* drummer's gear) drift from `endorsementNews.js`, distinct from the album-article/drummerEvolution classes seen in recent batches.
+
+### Actions taken
+- **Live-verified all 6 fresh proposals** by reading `endorsementNews.js` and the exact cited `signatureGear.js` lines directly: #7613 (Gene Hoglan — confirmed `endorsementNews.js:1244-1286` shows Pearl Reference Pure only since 2018, Tama 1983-2018 incl. a 2008 Tama signature snare; live-grepped `signatureGear.js:892/968/971` still attribute all 3 Testament albums 2008/2012/2016 to the Pearl kit, a 10+ year era mismatch), #7614 (George Kollias — confirmed `endorsementNews.js:351-360` is continuous Pearl Masterworks since 2000s, zero Tama; `signatureGear.js:1074` still says "Tama Starclassic Bubinga Kit" in the Gene Hoglan article's alternates block, likely an Eloy Casagrande mix-up), #7615 (Tomas Haake — confirmed `endorsementNews.js:293-322` is Sonor SQ2 since 2005, zero Pearl; `signatureGear.js:511/790` still fabricate "Pearl Reference Pure"/"Pearl Custom Alloy Snare" in 2 other drummers' alternates blocks, directly contradicting this same file's own correct dedicated Tomas Haake article at line 1404+), #7616 (Danny Carey — confirmed `endorsementNews.js:473-497` verified drums are Sonor Custom since 2000s with no snare-specific or "Bronze" model; `signatureGear.js:784` still invents "Sonor Danny Carey Signature 14x8\" Bronze," a product that doesn't exist in the source of truth), #7617 (Mario Duplantier — confirmed `endorsementNews.js:503-522` shows Tama signed 2010; `signatureGear.js:693-694` still credits 2 *From Mars to Sirius* (2005) tracks to his Tama Starphonic Bronze snare, 5 years before he was a Tama artist), #7618 (Joey Jordison — confirmed `endorsementNews.js:245-291` shows the Pearl signature snare launched 2010 (general Pearl deal 1999); `signatureGear.js:46-49` still claims the entire 2001 Iowa album was recorded on "this snare" i.e. the 2010 model, 9 years before it existed). All 6/6 accurate, single-file corrections on existing pages, zero new URLs — freeze-compliant. Promoted all 6 (`ai-fix`).
+- **GSC content-gap**: both flagged queries (`flo mounier` 95 impr/1.05% CTR/pos 9.1, `mario duplantier drum kit` 98 impr/1.02% CTR/pos 6.9) re-confirmed against `learned-patterns.md` — `flo mounier` remains the 5-data-point-confirmed class-2 bare-name query (line 211), `mario duplantier drum kit` remains the known gear-qualified oscillator (line 205). Rising impressions on both, no new signal. No new fix filed.
+- **L1/L2/L3**: all 3 snapshots + umbrella issues (#2211/#3810/#3819) still dated/updated 2026-09-14 — no fresh weekly refresh since the last close-the-loop pass; not yet due.
+- **Founder ideas**: inbox empty, unchanged since 2026-06-19. **Human-founder blockers**: #5141/#5100/#4892/#875/#529/#526/#525 — all `updatedAt` unchanged, no re-spam.
+- **Atomic-split sweep**: nothing eligible — the 6 promoted issues are same-day/fresh; no non-hold `ai-fix` open >3 days without a PR signal; the standing roster/bands split issues (#5093-series, #4980/#4981-series) remain correctly `hold`ed under the freeze.
+- **Starvation check**: backlog 1→7 post-triage, bank now 0 fresh (only #2211/#3810/#3819 standing umbrella issues remain). Trigger shape (backlog<15, bank≤2) matched at run start but 6 fresh proposals were sitting in the bank (>2), so this was a normal triage cycle, not a starvation event.
+
+### State delta
+- ai-fix backlog: 1 → 7 (#7613/7614/7615/7616/7617/7618 added)
+- seo-proposal bank (excl. umbrellas): 6 fresh → 0 untriaged
+- New fabrication class logged: `signatureGear.js` `drummerAlternatives` cross-reference blocks (one drummer's spotlight article citing another drummer's gear) — worth a future learned-patterns.md entry once a fix ships and is verified.
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 6/6 fresh triaged, live-verified against `endorsementNews.js` + exact `signatureGear.js` lines, all promoted. ✅ GSC-gap: both content-gap queries re-confirmed already-classified, no new fix needed. ✅ L1/L2/L3: no fresh snapshot since 09-14, refresh not yet due. ✅ Starvation: trigger shape matched at start but resolved by real fresh proposals, not escalating. ✅ Atomic split: nothing eligible. ✅ Decisions logged.
+
+### Next Run
+1. Watch #7603 (PR #7621) and #7613-7618 pick up via Roadie/PR Merger.
+2. Watch for the L1/L2/L3 weekly refresh (last full pass 09-14, due soon) — full close-the-loop pass once it lands.
+3. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---
+
+---

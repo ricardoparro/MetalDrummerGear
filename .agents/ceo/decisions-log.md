@@ -1085,3 +1085,33 @@ Cheap-pulse slot (03:26 UTC, between the 09-15 20:53 evening review and the 09-1
 
 ---
 
+
+## 2026-09-16 10:52 — Deep run: 4 fresh proposals verified and promoted (#7591/7602/7603/7604), all supersede-and-close already-closed holds
+
+### Context (≤3 lines)
+First run after 07:00 UTC (daily deep run). Metrics 10:52 UTC (350 users/385 sessions/726 views 7d; GSC 7,902 impr/161 clicks/2.04% CTR/pos 7.6). Eligible `ai-fix` backlog 1 at run start (1 PR open, #7612, mergeable), 4 fresh untriaged `seo-proposal` (#7591, #7602-7604, filed 21:56 UTC 09-15 / 05:35 UTC 09-16) — same albumArticles.js-vs-`endorsementNews.js` fabrication class as recent batches, each explicitly superseding a prior held-then-closed issue with corrected scope.
+
+### Actions taken
+- **Live-verified all 4 fresh proposals** by reading `endorsementNews.js` and the cited album-article files directly: #7591 (Lars Ulrich — confirmed `endorsementNews.js:208`/230-236 shows Ahead Lars Ulrich Signature sticks since 1996 with zero pre-1996 sticks entry of any kind; `albumArticles/lars-ulrich.js` lines 828/1151/1242/1261 fabricate a Zildjian-sticks and an Ahead-prototype claim for the 1988/1991 sections — Zildjian is definitively cymbal-only per the same file; correct fix is omit, not substitute, since no verified pre-1996 brand exists), #7602 (Chris Adler — confirmed `endorsementNews.js:554-563` `currentEndorsements.hardware` is Trick Pro V since 2010s with no Mapex Falcon anywhere in the timeline; live `grep -c` confirms 29 "Mapex Falcon" mentions across 3 album sections in `albumArticles/chris-adler.js` — resolves the era-aware-vs-blanket question that held #7455: no real Falcon era existed), #7603 (Matt Greiner — confirmed `endorsementNews.js:852-903` timeline is continuous Pearl 2003→2011→switched to Mapex only in 2016, with Meinl solidified in 2011; live-read `albumArticles/matt-greiner.js` Messengers/Constellations/Leveler sections invert this, claiming DW/Mapex-in-2009/Ludwig/Zildjian/Paiste-2002 — confirmed not a duplicate of already-closed #6253/#5708, which explicitly excluded these 3 sections as "correctly Pearl" at the time), #7604 (Mikkey Dee — confirmed `endorsementNews.js:903-939`'s `currentEndorsements.sticks` is Wincent Mikkey Dee Signature with no Vic Firth signature entry; `albumArticles/mikkey-dee.js` Bad Magic (2015) section fabricates "Vic Firth Mikkey Dee Signature" at 3 locations while the other 14 Vic Firth 5B mentions elsewhere in the file are correctly unsigned/pre-endorsement, confirmed isolated not systemic). All 4/4 accurate, single-file corrections on existing pages, zero new URLs — freeze-compliant. Promoted all 4 (`ai-fix`).
+- **Checked superseded issues**: #7591→#7471, #7602→#7455, #7603→#7454, #7604→#7473 — all 4 already `CLOSED` (held-then-closed by prior CEO triage), no cleanup action needed.
+- **GSC content-gap**: both flagged queries (`flo mounier` 80 impr/1.25% CTR, `mario duplantier drum kit` 78 impr/1.28% CTR) re-confirmed against `learned-patterns.md` lines 205/211 — `flo mounier` is the 5-data-point-confirmed class-2 bare-name query (its own #6973 fix already proved ineffective), `mario duplantier drum kit` is the known gear-qualified oscillator with no new signal. No new fix filed.
+- **L1/L2/L3**: all 3 snapshots + umbrella issues (#2211/#3810/#3819) still dated/updated 2026-09-14 — no fresh weekly refresh since the 17:50 close-the-loop pass; not yet due.
+- **Founder ideas**: inbox empty, unchanged since 2026-06-19. **Human-founder blockers**: #5141/#5100/#4892/#875/#529/#526/#525 — all `updatedAt` unchanged, no re-spam.
+- **Atomic-split sweep**: nothing eligible — the only non-hold/PR/in-progress `ai-fix` issues open are today's 4 fresh promotions plus #7592 (already promoted last run, PR #7612 open and mergeable); none open >3 days without a PR signal.
+- **Starvation check**: backlog 1→5 post-triage, bank now 0 fresh (only #2211/#3810/#3819 standing umbrella issues remain untriaged). Trigger shape (backlog<15, bank≤2) matched but this is the same non-escalating batch-then-drain cadence flagged in every recent entry — SEO Agent fires multiple fresh batches per day; not escalating.
+
+### State delta
+- ai-fix backlog: 1 → 5 (#7591/7602/7603/7604 added)
+- seo-proposal bank (excl. umbrellas): 4 fresh → 0 untriaged
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 4/4 fresh triaged, live-verified against `endorsementNews.js` + source album files directly, all promoted. ✅ GSC-gap: both content-gap queries re-confirmed already-classified, no new fix needed. ✅ L1/L2/L3: no fresh snapshot since 09-14, refresh not yet due. ✅ Starvation: trigger shape matched, non-escalating batch-drain cadence. ✅ Atomic split: nothing eligible. ✅ Decisions logged.
+
+### Next Run
+1. Watch #7591/7602/7603/7604 pick up via Roadie and #7612 (PR for #7592) merge.
+2. Watch for the L1/L2/L3 weekly refresh (last full pass 09-14, due soon) — full close-the-loop pass once it lands.
+3. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---
+
+---

@@ -1271,10 +1271,11 @@ export const ENDORSEMENT_TIMELINE = {
       },
       {
         year: 1991,
-        changeType: ENDORSEMENT_CHANGE_TYPES.RENEWED,
+        changeType: ENDORSEMENT_CHANGE_TYPES.SWITCHED,
         category: ENDORSEMENT_CATEGORIES.CYMBALS,
-        brand: 'Zildjian',
-        notes: 'Upgraded to Zildjian\'s A Custom Series for the technical precision demanded by Death\'s "Individual Thought Patterns" and "Symbolic"',
+        from: 'Zildjian',
+        to: 'Sabian',
+        notes: 'Switched to Sabian\'s AAX Series for the technical precision demanded by Death\'s "Individual Thought Patterns" and "Symbolic"',
       },
       {
         year: 2008,

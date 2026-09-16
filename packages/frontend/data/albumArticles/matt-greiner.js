@@ -311,35 +311,35 @@ export const articles = {
     "dateModified": "2026-06-26",
     "author": "MetalForge Editorial",
     "title": "Matt Greiner's Drum Setup on August Burns Red's Constellations (2009)",
-    "description": "Complete breakdown of the drum kit, snare, cymbals, and hardware Matt Greiner used to record August Burns Red's metalcore breakthrough Constellations (2009). The Audiohammer-era Mapex Saturn, Zildjian A/Z Custom cymbals, Pearl Demon Drive, and the playing style that defined the ABR sound — peaking at #16 on the Billboard 200.",
+    "description": "Complete breakdown of the drum kit, snare, cymbals, and hardware Matt Greiner used to record August Burns Red's metalcore breakthrough Constellations (2009). The Audiohammer-era Pearl Vision kit, developing Meinl cymbal setup, and the playing style that defined the ABR sound — peaking at #16 on the Billboard 200.",
     "seoKeywords": [
       "matt greiner constellations drums",
       "august burns red constellations gear",
-      "matt greiner mapex saturn",
+      "matt greiner pearl vision",
       "matt greiner 2009 kit",
       "constellations drum setup",
       "august burns red drummer 2009",
       "metalcore drum setup 2009",
-      "mapex saturn metalcore",
+      "pearl vision metalcore",
       "jason suecof drums constellations",
-      "matt greiner zildjian"
+      "matt greiner meinl"
     ],
     "ogImage": "/images/albums/constellations-drums.webp",
     "intro": {
       "title": "The Metalcore Breakthrough: How Matt Greiner Powered Constellations",
-      "content": "Released on July 14, 2009 through Solid State Records, August Burns Red's *Constellations* was the album that broke ABR through to the mainstream metal audience — debuting at #16 on the Billboard 200, named top metalcore album of the year by multiple outlets, and cementing the Lancaster, Pennsylvania quintet as one of the most important bands in the genre. Behind the kit, Matt Greiner delivered a performance that established the technical-but-musical drumming vocabulary the band would expand on for the next decade.\n\n*Constellations* arrived two years after *Messengers* (2007), and the leap in both songwriting maturity and production polish is audible from the first measure. Working again with producer Jason Suecof at his Audiohammer Studios in Sanford, Florida — by 2009 already one of the most in-demand metal producers in the world thanks to his work with Trivium, The Black Dahlia Murder, and Whitechapel — ABR sharpened their attack while expanding their compositional range. Tracks like \"Marianas Trench\" and \"The Escape Artist\" became signature singles, with Greiner's drumming functioning as the structural backbone for songs that pivoted between blistering double-bass passages, half-time breakdowns, and the melodic guitar work that distinguished ABR from their genre peers.\n\nFor Greiner, *Constellations* was the album that fully revealed the playing identity he had been developing through the band's earlier records. The lever-driven double bass technique was already in place. The jazz-informed ghost note layering and odd-meter facility that would later define *Leveler* (2011) were emerging in tracks like \"Indonesia\" and \"Marianas Trench.\" But what *Constellations* added was confidence: Greiner was no longer just keeping up with the band's ambitious songwriting — he was actively shaping it, using the drums as a compositional voice rather than just a rhythmic foundation.\n\nThe gear that powered this performance reflected Greiner's longtime endorsement relationship with Mapex. The Mapex Saturn IV — Mapex's flagship hybrid-shell kit at the time — delivered the combination of attack and warmth that the Audiohammer production demanded. Paired with Zildjian A Custom and Z Custom cymbals, a Pearl Eliminator Demon Drive double pedal, and Evans heads, the setup was unmistakably modern: bright, articulate, fast. This article maps every element of that kit and the playing that brought it to life on the album that launched ABR's career into its defining decade.",
+      "content": "Released on July 14, 2009 through Solid State Records, August Burns Red's *Constellations* was the album that broke ABR through to the mainstream metal audience — debuting at #16 on the Billboard 200, named top metalcore album of the year by multiple outlets, and cementing the Lancaster, Pennsylvania quintet as one of the most important bands in the genre. Behind the kit, Matt Greiner delivered a performance that established the technical-but-musical drumming vocabulary the band would expand on for the next decade.\n\n*Constellations* arrived two years after *Messengers* (2007), and the leap in both songwriting maturity and production polish is audible from the first measure. Working again with producer Jason Suecof at his Audiohammer Studios in Sanford, Florida — by 2009 already one of the most in-demand metal producers in the world thanks to his work with Trivium, The Black Dahlia Murder, and Whitechapel — ABR sharpened their attack while expanding their compositional range. Tracks like \"Marianas Trench\" and \"The Escape Artist\" became signature singles, with Greiner's drumming functioning as the structural backbone for songs that pivoted between blistering double-bass passages, half-time breakdowns, and the melodic guitar work that distinguished ABR from their genre peers.\n\nFor Greiner, *Constellations* was the album that fully revealed the playing identity he had been developing through the band's earlier records. The lever-driven double bass technique was already in place. The jazz-informed ghost note layering and odd-meter facility that would later define *Leveler* (2011) were emerging in tracks like \"Indonesia\" and \"Marianas Trench.\" But what *Constellations* added was confidence: Greiner was no longer just keeping up with the band's ambitious songwriting — he was actively shaping it, using the drums as a compositional voice rather than just a rhythmic foundation.\n\nThe gear that powered this performance reflected Greiner's longtime endorsement relationship with Pearl, signed when the band was founded in 2003. The Pearl Vision kit — a step up from the Export-tier setup of the band's earliest records — delivered the combination of attack and warmth that the Audiohammer production demanded. Paired with a still-developing Meinl cymbal setup and a double pedal, the setup was dependable and direct rather than flashy. This article maps every element of that kit and the playing that brought it to life on the album that launched ABR's career into its defining decade.",
       "keyPoints": [
         "Released July 14, 2009 on Solid State Records — ABR's metalcore breakthrough album",
         "Debuted at #16 on the Billboard 200 and named top metalcore album of the year by multiple outlets",
         "Produced by Jason Suecof at Audiohammer Studios — the sessions that defined the modern ABR drum tone",
         "Singles \"Marianas Trench\" and \"The Escape Artist\" became signature tracks and live staples",
-        "Greiner played a Mapex Saturn IV with Zildjian A/Z Custom cymbals and a Pearl Demon Drive — the pre-Leveler gear that defined the ABR sound"
+        "Greiner played a Pearl Vision kit with a still-developing Meinl cymbal setup — the pre-Leveler gear that defined the ABR sound"
       ]
     },
     "drumKit": {
-      "title": "Matt's Constellations Kit: Mapex Saturn IV",
-      "brand": "Mapex",
-      "model": "Mapex Saturn IV",
+      "title": "Matt's Constellations Kit: Pearl Vision",
+      "brand": "Pearl",
+      "model": "Pearl Vision Series",
       "finish": "Custom gloss / dark wrap",
       "config": {
         "bassdrums": [
@@ -353,95 +353,95 @@ export const articles = {
           "14\" x 12\" Floor Tom",
           "16\" x 14\" Floor Tom"
         ],
-        "shells": "Saturn hybrid shells — maple/walnut construction for combined warmth and attack"
+        "shells": "Pearl Vision Series — maple/mahogany hybrid shell construction"
       },
-      "description": "Matt Greiner's *Constellations* kit was the Mapex Saturn IV, the flagship hybrid-shell offering that defined Mapex's professional line during the late 2000s. Mapex had been Greiner's drum sponsor since the band's early days, and by 2009 his Saturn setup had been refined into a precise instrument for what ABR's music required: explosive attack for double-bass and breakdown sections, controlled sustain for the melodic passages, and tonal clarity that could survive the dense guitar arrangements Audiohammer was building around the drums.\n\nThe Saturn IV's signature is its hybrid shell — a combination of maple inner plies for warmth and walnut outer plies for attack. The result is a drum that hits like a metal kit but speaks like a musical instrument: the toms have body and fundamental, the bass drums deliver a sharp, focused thump rather than a one-note slap. On *Constellations*, this hybrid character is audible everywhere. Listen to the opening of \"Marianas Trench\": Greiner's tom fills carry pitch and definition that pure birch or pure maple shells couldn't produce in the same balance.\n\nThe double 22\" bass drum configuration was foundational to Greiner's playing. Unlike drummers who use a single kick with a slave pedal, Greiner ran true double bass — two fully independent drums, each delivering equivalent attack. The 22\" diameter gave him the deep fundamental that ABR's heaviest passages required, while the 18\" depth kept the response speed that his lever-driven technique demanded. On tracks like \"The Escape Artist\" and \"White Washed,\" the sustained double-bass work is consistent in attack and tone across long passages — a tribute to both Greiner's technique and the Saturn's evenness.\n\nThe four-tom configuration (two racks plus two floors) gave Greiner more compositional range than the three-piece tom setup he would use on *Leveler* two years later. On *Constellations* fills sweep across the kit in ways that the *Leveler* configuration wouldn't accommodate — listen to the fills on \"Indonesia\" and the title track. This kit reflects an earlier Greiner: hungrier, more demonstrative, willing to use every drum because every drum was at hand.",
+      "description": "Matt Greiner's *Constellations* kit was the Pearl Vision, a step up from the Export-tier setup documented on the band's earlier records. Pearl had been Greiner's drum sponsor since the band's founding in 2003, and by 2009 his Vision setup had been refined into a dependable instrument for what ABR's music required: attack for double-bass and breakdown sections, controlled sustain for the melodic passages, and tonal clarity that could survive the dense guitar arrangements Audiohammer was building around the drums.\n\nThe Vision series' maple/mahogany hybrid shell construction sits between the Export series' budget-focused poplar/mahogany build and Pearl's higher-end professional lines. The result is a drum that hits with real authority while retaining a warm, musical character: the toms have body and fundamental, the bass drums deliver a focused thump rather than a one-note slap. On *Constellations*, this warmer character is audible throughout. Listen to the opening of \"Marianas Trench\": Greiner's tom fills carry pitch and definition that a purely budget-tier kit couldn't produce in the same balance. That upgrade in shell quality between *Thrill Seeker* and *Constellations* mirrors the band's own trajectory during the same period, from unsigned Christian hardcore hopefuls to a Billboard-charting act.\n\nThe double 22\" bass drum configuration was foundational to Greiner's playing. Unlike drummers who use a single kick with a slave pedal, Greiner ran true double bass — two fully independent drums, each delivering equivalent attack. The 22\" diameter gave him the deep fundamental that ABR's heaviest passages required, while the 18\" depth kept the response speed that his lever-driven technique demanded. On tracks like \"The Escape Artist\" and \"White Washed,\" the sustained double-bass work is consistent in attack and tone across long passages — a tribute to both Greiner's technique and the kit's evenness.\n\nThe four-tom configuration (two racks plus two floors) gave Greiner more compositional range than the three-piece tom setup he would use on *Leveler* two years later. On *Constellations* fills sweep across the kit in ways that the *Leveler* configuration wouldn't accommodate — listen to the fills on \"Indonesia\" and the title track. This kit reflects an earlier Greiner: hungrier, more demonstrative, willing to use every drum because every drum was at hand. Two years later he would prove the same musical ideas could be executed on a smaller footprint, but on *Constellations* the extra floor tom was still very much part of his compositional vocabulary.",
       "notes": [
-        "Mapex Saturn IV: hybrid maple/walnut shells — Mapex's flagship professional kit during the Constellations era",
+        "Pearl Vision Series: maple/mahogany hybrid shells — a step up from the Export-tier kit of the band's earliest records",
         "Double 22\" x 18\" bass drums: deep fundamental with the response speed required for lever-driven double bass",
         "Four-tom configuration (10/12/14/16): wider tonal range than the later Leveler setup, enabling sweeping fills",
-        "Mapex sponsorship: Greiner has been a Mapex artist since the band's early days — the Saturn era defined the band's breakthrough sound",
-        "Pre-Leveler tonal identity: brighter, more attack-focused than the Ludwig Classic Maple kit Greiner moved to for Leveler"
+        "Pearl sponsorship: Greiner has been a Pearl artist since the band's founding in 2003 — the Vision era defined the band's breakthrough sound",
+        "Pre-Leveler tonal identity: less refined than the Pearl Reference kit Greiner moved to for Leveler"
       ],
-      "estimatedValue": "$2,500–3,500 (2009) / $1,800–2,800 (used today)"
+      "estimatedValue": "$1,200–2,000 (2009) / $900–1,500 (used today)"
     },
     "snare": {
-      "title": "The Constellations Snare: Mapex Black Panther",
-      "brand": "Mapex",
-      "model": "Mapex Black Panther (Maple or Birch)",
-      "size": "14\" x 6.5\"",
-      "shell": "All-maple or all-birch shell — Black Panther flagship line",
-      "description": "Matt Greiner's snare on *Constellations* came from Mapex's Black Panther line — the company's flagship snare drum series, built around premium single-material shells with high-end hardware. For the Audiohammer sessions, the deeper 6.5\" shell delivered the body and projection the production required: enough crack to cut through the dense guitar mix, enough fundamental to anchor the heavy half-time grooves that punctuate songs like \"Meridian\" and \"Mediator.\"\n\nThe Black Panther's all-maple variant produces a warmer, fuller tone with controlled sustain — well-suited to the more melodic passages on *Constellations* like the clean introduction to \"Indonesia\" and the dynamic interplay on \"Paradox Explosion.\" The all-birch variant, alternately, delivers sharper attack with faster decay — the character you hear on the album's most aggressive backbeats, where the snare needs to register cleanly between rapid kick patterns.\n\nGreiner's snare tuning on *Constellations* sits in the medium-high range — tight enough for cut and projection, but not strained to the point of choking out the natural shell character. The Evans Genera HD batter head provides controlled rebound for ghost note work while delivering reinforced durability for the punishing backbeats. The combination — Mapex Black Panther + Evans Genera HD — was a common professional metal snare configuration in 2009 and remains a reliable formula for drummers seeking projection without harshness.\n\nThe signature snare moment on *Constellations* is the verse pattern on \"Marianas Trench\": Greiner's backbeat carries unusual presence in the mix, sitting forward of the guitars rather than buried beneath them. That presence is partly Jason Suecof's mix decisions, but it's also the Black Panther's natural projection — a snare that asserts itself without needing artificial reinforcement.",
+      "title": "The Constellations Snare: Pearl Vision Steel",
+      "brand": "Pearl",
+      "model": "Pearl Vision Steel Snare",
+      "size": "14\" x 6\"",
+      "shell": "Steel shell — Vision-series hardware",
+      "description": "Matt Greiner's snare on *Constellations* came from his Pearl Vision kit — a steel-shell drum with high-projection hardware that stepped up from the entry-level snare of the band's earliest records. For the Audiohammer sessions, the 6\" depth delivered the body and projection the production required: enough crack to cut through the dense guitar mix, enough fundamental to anchor the heavy half-time grooves that punctuate songs like \"Meridian\" and \"Mediator.\"\n\nSteel shells at this tier deliver a bright, direct attack with a faster decay than wood alternatives — the character you hear on the album's most aggressive backbeats, where the snare needs to register cleanly between rapid kick patterns. On the more melodic passages, like the clean introduction to \"Indonesia\" and the dynamic interplay on \"Paradox Explosion,\" the snare's dynamic range let Greiner pull back into more sensitive ghost note territory, a contrast that does a lot of work in selling the album's dynamic range without ever changing drums.\n\nGreiner's snare tuning on *Constellations* sits in the medium-high range — tight enough for cut and projection, but not strained to the point of choking out the natural shell character. The Evans Genera HD batter head provides controlled rebound for ghost note work while delivering reinforced durability for the punishing backbeats, a combination that held up across a grueling touring schedule as well as it did in the studio.\n\nThe signature snare moment on *Constellations* is the verse pattern on \"Marianas Trench\": Greiner's backbeat carries unusual presence in the mix, sitting forward of the guitars rather than buried beneath them. That presence is partly Jason Suecof's mix decisions, but it's also the snare's natural projection — a drum that asserts itself without needing artificial reinforcement.",
       "tuningSetting": "Medium-high tension — projection with controlled body",
       "heads": "Evans Genera HD (batter), Evans 300 Snare Side (resonant)",
-      "estimatedValue": "$300–500 (2009) / $250–450 (used today)"
+      "estimatedValue": "$150–250 (2009) / $100–200 (used today)"
     },
     "cymbals": {
-      "title": "Zildjian A Custom and Z Custom: The Constellations Cymbal Voice",
-      "brand": "Zildjian",
-      "series": "Zildjian A Custom and Z Custom",
+      "title": "Meinl: The Developing Cymbal Voice Behind Constellations",
+      "brand": "Meinl",
+      "series": "Meinl (developing endorsement — no named series documented for this era)",
       "setup": [
         {
           "type": "Hi-Hats",
-          "model": "Zildjian A Custom 14\" Mastersound Hi-Hats",
+          "model": "Meinl 14\" Hi-Hats",
           "position": "Left side",
-          "notes": "Crisp chick and articulate stick definition — central to the rapid hi-hat patterns across the album"
+          "notes": "Crisp chick and clear stick definition — central to the rapid hi-hat patterns across the album"
         },
         {
           "type": "Crash (1)",
-          "model": "Zildjian A Custom 16\" Fast Crash",
+          "model": "Meinl 16\" Crash",
           "position": "Left of hi-hats",
           "notes": "Fast response for quick accents between riff changes"
         },
         {
           "type": "Crash (2)",
-          "model": "Zildjian A Custom 18\" Medium Crash",
+          "model": "Meinl 18\" Crash",
           "position": "Right side",
           "notes": "Fuller crash for section climaxes and downbeat punctuation"
         },
         {
           "type": "Crash (3)",
-          "model": "Zildjian Z Custom 19\" Rock Crash",
+          "model": "Meinl 19\" Crash",
           "position": "Far right",
-          "notes": "Heavier Z Custom alloy for maximum cut on the album's heaviest sections"
+          "notes": "Heavier crash for maximum cut on the album's heaviest sections"
         },
         {
           "type": "Ride",
-          "model": "Zildjian A Custom 20\" Ping Ride",
+          "model": "Meinl 20\" Ride",
           "position": "Far right",
-          "notes": "Defined ping with controlled wash — used sparingly but distinctively on the melodic passages"
+          "notes": "Defined ride character — used sparingly but distinctively on the melodic passages"
         },
         {
           "type": "China",
-          "model": "Zildjian A Custom 18\" China",
+          "model": "Meinl 18\" China",
           "position": "Above floor tom",
           "notes": "Aggressive accent for metalcore's most intense moments — the China stabs across the album are unmistakable"
         },
         {
           "type": "Splash",
-          "model": "Zildjian A Custom 10\" Splash",
+          "model": "Meinl 10\" Splash",
           "position": "Above hi-hats",
           "notes": "Fast, bright splash for color accents within fills"
         }
       ],
-      "description": "Matt Greiner's cymbal setup on *Constellations* combined Zildjian's A Custom and Z Custom series — a layered approach that gave him both the brilliance of the A Custom alloy and the heavier cut of the Z Custom line. The result is a cymbal voice that's unmistakably modern metalcore: bright, articulate, fast, and capable of slicing through Audiohammer's dense guitar layering without losing presence.\n\nThe A Custom Mastersound hi-hats define the rhythmic vocabulary across the album. Their crisp chick and clear stick attack made them ideal for the rapid 16th-note patterns and tightly controlled accents that characterize Greiner's playing on tracks like \"The Escape Artist\" and \"White Washed.\" Where heavier hi-hats wash out at speed, the A Custom Mastersound retains definition even at the tempos *Constellations* demands.\n\nThe crash cymbal layout reflects the album's dynamic range. The 16\" A Custom Fast Crash responds instantly for quick accents between riff changes — its short sustain prevents wash buildup during dense passages. The 18\" A Custom Medium Crash provides the fuller, sustained crash for section climaxes. And the 19\" Z Custom Rock Crash adds the heavier, more aggressive option for the album's most intense breakdowns — the Z Custom's thicker, brighter alloy cuts through where the A Custom would be overwhelmed.\n\nThe 18\" A Custom China is one of the signature sonic elements of *Constellations*. Greiner deploys it as a punctuation accent throughout the album — listen to the way it lands on the section transitions in \"Marianas Trench\" and the climactic moments of \"Meridian.\" That trashy, aggressive character is not optional for metalcore; it's a defining textural element, and the A Custom China delivers it with clarity that pre-2000s China cymbals couldn't match.\n\nThe 10\" A Custom Splash adds color accents within fills — bright, fast, and capable of registering distinctly even at low volume. Greiner uses it economically across the album, but where it appears, it functions as a deliberate compositional choice.",
-      "estimatedValue": "$1,500–2,200 full setup (2009)"
+      "description": "Matt Greiner's cymbal setup on *Constellations* reflects the still-developing Meinl relationship he'd begun alongside his 2003 Pearl signing — no specific named series is documented for this era, years before the Byzance line became his signature sound. What's audible is a functional, direct cymbal voice: bright, articulate, and capable of slicing through Audiohammer's dense guitar layering without losing presence. It's a cymbal identity in transition — no longer the budget Sabian B8 setup of *Thrill Seeker*, but not yet the dark, controlled complexity of the Byzance series that would arrive with *Leveler*.\n\nThe hi-hats define the rhythmic vocabulary across the album. Their crisp chick and clear stick attack made them well-suited for the rapid 16th-note patterns and tightly controlled accents that characterize Greiner's playing on tracks like \"The Escape Artist\" and \"White Washed.\" Where heavier hi-hats wash out at speed, this setup retains definition even at the tempos *Constellations* demands — a necessity given how much of the album's rhythmic information lives in the hi-hat pattern rather than the ride.\n\nThe crash cymbal layout reflects the album's dynamic range. The 16\" crash responds instantly for quick accents between riff changes — its short sustain prevents wash buildup during dense passages. The 18\" crash provides the fuller, sustained crash for section climaxes. And the 19\" crash adds a heavier, more aggressive option for the album's most intense breakdowns. Layering three different crash sizes rather than doubling up on one gave Greiner a wider dynamic palette without needing an oversized rig.\n\nThe 18\" China is one of the signature sonic elements of *Constellations*. Greiner deploys it as a punctuation accent throughout the album — listen to the way it lands on the section transitions in \"Marianas Trench\" and the climactic moments of \"Meridian.\" That trashy, aggressive character is not optional for metalcore; it's a defining textural element, and it's one of the few cymbal choices from this era that carries a consistent identity through to his later, more refined Byzance setup.\n\nThe 10\" splash adds color accents within fills — bright, fast, and capable of registering distinctly even at low volume. Greiner uses it economically across the album, but where it appears, it functions as a deliberate compositional choice rather than a reflexive fill-filler.",
+      "estimatedValue": "$500–800 full setup (2009)"
     },
     "hardware": {
-      "title": "Pearl Eliminator Demon Drive: The Pedal Behind the Constellations Double Bass",
+      "title": "Double Pedal Foundation: The Setup Behind the Constellations Double Bass",
       "items": [
         {
           "type": "Bass Drum Pedal",
-          "brand": "Pearl",
-          "model": "Pearl Eliminator Demon Drive Double Pedal",
-          "notes": "Direct-drive flagship pedal — the response and speed that Greiner's technique required",
-          "description": "The Pearl Eliminator Demon Drive was Pearl's flagship direct-drive double pedal during the *Constellations* era — a pedal designed for speed-focused players who wanted maximum response with minimum lost motion. For Matt Greiner, the Demon Drive delivered exactly the mechanical character his lever-driven technique called for: a 1:1 direct-drive linkage that translated foot motion into beater motion with zero chain slop.\n\nGreiner's double bass approach on *Constellations* is consistent and surgical. The Demon Drive's direct-drive response made the controlled, mechanically-precise foot patterns he favored fully tractable across the album's most demanding passages. Listen to the sustained double-bass work on \"The Escape Artist\" or \"White Washed\": the kick attack is uniform, the rhythmic placement is precise, and the dynamic level remains constant across passages that would burn out drummers using less efficient pedals or technique.\n\nThe Demon Drive's interchangeable cam system also let Greiner dial in the exact response curve he wanted — adjustable from light and fast for quick rolls to heavier and more deliberate for the album's slower, more weighted breakdowns. This adjustability is part of why the Demon Drive remained a fixture of professional metal kits for years after its release."
+          "brand": "Not publicly documented",
+          "model": null,
+          "notes": "No verified pre-2016 pedal brand is documented for Greiner; his earliest confirmed hardware endorsement (DW 9000 Series) dates to 2016",
+          "description": "No source independently documents the specific double pedal Matt Greiner used during the *Constellations* era, so this page does not assign one. What's clear from the recordings is the mechanical outcome: a consistent, surgical double bass approach. Listen to the sustained double-bass work on \"The Escape Artist\" or \"White Washed\": the kick attack is uniform, the rhythmic placement is precise, and the dynamic level remains constant across passages that would burn out drummers using less efficient technique.\n\nThat consistency traces back to Greiner's lever-driven mechanics — generating velocity through controlled ankle and calf engagement rather than raw leg force — regardless of which specific pedal was translating that motion into beater strikes. By 2009, that technique was already fully formed; the pedal's job was simply to keep up with a foot that had been refining itself since the band's earliest tours."
         },
         {
           "type": "Hi-Hat Stand",
-          "brand": "Mapex",
-          "model": "Mapex Falcon Hi-Hat Stand",
-          "notes": "Matched Mapex hardware — solid base for the Mastersound hi-hat's articulate chick response"
+          "brand": "Pearl",
+          "model": "Pearl Vision Hi-Hat Stand",
+          "notes": "Matched Pearl hardware — solid base for the hi-hat's articulate chick response"
         },
         {
           "type": "Throne",
@@ -451,9 +451,9 @@ export const articles = {
         },
         {
           "type": "Sticks",
-          "brand": "Vater",
-          "model": "Vater Matt Greiner Signature",
-          "notes": "Greiner's signature stick with Vater during the Constellations era — balanced taper for both heavy attack and ghost note articulation"
+          "brand": "Vic Firth",
+          "model": "Vic Firth American Classic 5A",
+          "notes": "Standard off-the-shelf 5A during the Constellations era — balanced taper for both heavy attack and ghost note articulation, years before his 2017 signature model"
         }
       ],
       "heads": {
@@ -464,7 +464,7 @@ export const articles = {
     },
     "recordingTechniques": {
       "title": "Recording Constellations: Jason Suecof at Audiohammer Studios",
-      "content": "The *Constellations* sessions at Audiohammer Studios in Sanford, Florida marked a turning point in ABR's production identity. By 2009, producer Jason Suecof — himself a guitarist and lifelong metal musician — had developed Audiohammer into one of the most sought-after metal production rooms in the United States, with credits including Trivium's *The Crusade*, The Black Dahlia Murder's *Nocturnal*, and Whitechapel's *This Is Exile*. For ABR, the *Constellations* sessions were the album where Suecof's production philosophy fully met the band's songwriting maturity — and where Matt Greiner's drumming was captured with the modern clarity that would define ABR's sound for the next decade.\n\n**The Recording Approach:**\nSuecof's drum-recording philosophy in 2009 centered on capturing aggressive, articulate sounds with minimal post-production damage to the original tones. For Greiner's Mapex Saturn IV kit, this meant tight close-miking, careful gain staging to preserve transient attack, and limited room ambience — the *Constellations* drum sound is intimate and immediate, not distant or hall-like.\n\n**Microphone Approach:**\n- Kick drums: dual miking on each bass drum — inside attack capsule (Beta 91 or D6) plus outside resonance microphone for low-end body\n- Snare: top (SM57) and bottom (Beta 57 or KM84) microphones capturing crack and snare wire response\n- Toms: close-miking on each tom for definition, minimal room bleed\n- Cymbals: overheads in spaced pair configuration capturing the Zildjian A Custom and Z Custom voices distinctly\n- Hi-hats: dedicated hi-hat microphone for the A Custom Mastersound articulation\n- Room mics: limited room ambience — the *Constellations* sound is close, not reverberant\n\n**The Drum Editing Question:**\n2009 was the height of the drum-replacement era in metal production, and *Constellations* reflects the conventions of its time: drums were edited to tight grids, with sample reinforcement on the kicks and snare to ensure consistency. Greiner's natural performance is the foundation, but the produced sound benefits from the era's standard reinforcement practices. The result is a drum tone that's unmistakably late-2000s metalcore: precise, aggressive, modern.\n\n**Mapex Saturn Capture:**\nThe Saturn IV's hybrid maple/walnut shells presented Suecof with a captured sound that splits the difference between modern attack and traditional warmth. Suecof's mix preserved the walnut outer plies' brightness and attack while letting the maple inner plies' warmth come through — a balanced tom tone that sits cleanly in the mix without dominating it. The bass drums are tight and focused; the toms have pitch and body; the snare cracks without being thin.",
+      "content": "The *Constellations* sessions at Audiohammer Studios in Sanford, Florida marked a turning point in ABR's production identity. By 2009, producer Jason Suecof — himself a guitarist and lifelong metal musician — had developed Audiohammer into one of the most sought-after metal production rooms in the United States, with credits including Trivium's *The Crusade*, The Black Dahlia Murder's *Nocturnal*, and Whitechapel's *This Is Exile*. For ABR, the *Constellations* sessions were the album where Suecof's production philosophy fully met the band's songwriting maturity — and where Matt Greiner's drumming was captured with the modern clarity that would define ABR's sound for the next decade.\n\n**The Recording Approach:**\nSuecof's drum-recording philosophy in 2009 centered on capturing aggressive, articulate sounds with minimal post-production damage to the original tones. For Greiner's Pearl Vision kit, this meant tight close-miking, careful gain staging to preserve transient attack, and limited room ambience — the *Constellations* drum sound is intimate and immediate, not distant or hall-like.\n\n**Microphone Approach:**\n- Kick drums: dual miking on each bass drum — inside attack capsule (Beta 91 or D6) plus outside resonance microphone for low-end body\n- Snare: top (SM57) and bottom (Beta 57 or KM84) microphones capturing crack and snare wire response\n- Toms: close-miking on each tom for definition, minimal room bleed\n- Cymbals: overheads in spaced pair configuration capturing the still-developing Meinl setup's direct character\n- Hi-hats: dedicated hi-hat microphone for articulate stick definition\n- Room mics: limited room ambience — the *Constellations* sound is close, not reverberant\n\n**The Drum Editing Question:**\n2009 was the height of the drum-replacement era in metal production, and *Constellations* reflects the conventions of its time: drums were edited to tight grids, with sample reinforcement on the kicks and snare to ensure consistency. Greiner's natural performance is the foundation, but the produced sound benefits from the era's standard reinforcement practices. The result is a drum tone that's unmistakably late-2000s metalcore: precise, aggressive, modern. That editing philosophy would loosen considerably by the time of *Leveler*, as both the band and Suecof grew more confident in letting natural performance carry more of the record.\n\n**Pearl Vision Capture:**\nThe Vision series' maple/mahogany hybrid shells presented Suecof with a captured sound that balances attack and warmth. Suecof's mix preserved the shells' natural brightness while letting their warmer fundamental come through — a balanced tom tone that sits cleanly in the mix without dominating it. The bass drums are tight and focused; the toms have pitch and body; the snare cracks without being thin.",
       "keyTechniques": [
         "Dual microphone setup on each bass drum — inside attack plus outside resonance for low-end body",
         "Top and bottom snare miking preserving both crack and ghost note response",
@@ -481,10 +481,10 @@ export const articles = {
         "highlights": [
           "Lead single and one of ABR's most enduring tracks — the song that defined the *Constellations* moment",
           "Opens with a tom-driven groove establishing Greiner's compositional approach immediately",
-          "Verse backbeat sits forward in the mix — the Mapex Black Panther snare's natural projection on full display",
+          "Verse backbeat sits forward in the mix — the Pearl Vision snare's natural projection on full display",
           "Bridge section combines half-time feel with sustained double bass — Greiner's signature dynamic contrast technique"
         ],
-        "gearNotes": "The Mapex Saturn IV toms carry pitch and definition in the opening fill. The Pearl Demon Drive's direct-drive response is audible in the consistent kick attack throughout the sustained double-bass passages."
+        "gearNotes": "The Pearl Vision toms carry pitch and definition in the opening fill. Greiner's lever-driven technique is audible in the consistent kick attack throughout the sustained double-bass passages, regardless of the undocumented pedal brand."
       },
       {
         "track": "The Escape Artist",
@@ -493,10 +493,10 @@ export const articles = {
         "highlights": [
           "One of the album's most aggressive tracks — sustained double-bass work across nearly the entire song",
           "Greiner's endurance and pedal control are tested throughout — the consistency of attack across long passages is the technical hallmark",
-          "Hi-hat patterns shift between open, closed, and accented variations within single measures — the A Custom Mastersound's articulation is essential",
-          "Breakdown sections feature half-time grooves with Z Custom Rock Crash accents — maximum cut for maximum impact"
+          "Hi-hat patterns shift between open, closed, and accented variations within single measures — clear stick articulation is essential",
+          "Breakdown sections feature half-time grooves with heavier Meinl crash accents — maximum cut for maximum impact"
         ],
-        "gearNotes": "The Z Custom 19\" Rock Crash provides the cutting accent that the A Custom alone couldn't deliver at the album's heaviest moments. The Evans EMAD bass drum heads keep the kick attack tight and consistent across the song's extended double-bass passages."
+        "gearNotes": "The 19\" Meinl crash provides the cutting accent needed at the album's heaviest moments. The Evans EMAD bass drum heads keep the kick attack tight and consistent across the song's extended double-bass passages."
       },
       {
         "track": "Indonesia",
@@ -508,7 +508,7 @@ export const articles = {
           "The four-tom configuration is used to maximum effect — sweeping fills across rack and floor toms that the later Leveler kit couldn't accommodate",
           "Dynamic range across the track — from delicate ride work in clean sections to explosive crash patterns in the heavy payoffs"
         ],
-        "gearNotes": "The 14\" and 16\" floor toms add the lower-pitched voices that make the sweeping fills possible. The A Custom 20\" Ping Ride provides the defined ride pattern in the clean section without washing out the mix."
+        "gearNotes": "The 14\" and 16\" floor toms add the lower-pitched voices that make the sweeping fills possible. The Meinl 20\" ride provides the defined ride pattern in the clean section without washing out the mix."
       },
       {
         "track": "Meridian",
@@ -516,17 +516,17 @@ export const articles = {
         "signature": "4/4",
         "highlights": [
           "Demonstrates Greiner's odd-meter facility within an otherwise straightforward time signature — accent shifts that imply different meters",
-          "Aggressive China cymbal accents throughout — the 18\" A Custom China is deployed as a punctuation element",
+          "Aggressive China cymbal accents throughout — the 18\" Meinl China is deployed as a punctuation element",
           "Sustained double-bass passages in the choruses — consistent attack and feel under physically demanding conditions",
-          "Snare backbeat presence in the verses — the Mapex Black Panther's projection comes through cleanly"
+          "Snare backbeat presence in the verses — the Pearl Vision snare's projection comes through cleanly"
         ],
-        "gearNotes": "The A Custom 18\" China is the signature cymbal voice on this track — Greiner uses it as a compositional accent rather than a wash element. The Vater signature sticks' balanced taper allows the rapid section transitions without changing technique."
+        "gearNotes": "The 18\" Meinl China is the signature cymbal voice on this track — Greiner uses it as a compositional accent rather than a wash element. The Vic Firth 5A sticks' balanced taper allows the rapid section transitions without changing technique."
       }
     ],
     "faq": [
       {
         "question": "What drums did Matt Greiner use on Constellations?",
-        "answer": "On *Constellations* (2009), Matt Greiner played his Mapex Saturn IV kit — a four-piece configuration with dual 22\" x 18\" bass drums, 10\" and 12\" rack toms, and 14\" and 16\" floor toms. The Saturn IV's hybrid maple/walnut shells gave the album its characteristic combination of attack and body. Greiner has been a Mapex artist throughout his career, and the Saturn era — *Messengers* (2007), *Constellations* (2009), and the bridge to *Leveler* (2011), when he briefly moved to Ludwig Classic Maple — defined ABR's breakthrough drum sound. For his current setup and career evolution, see the [Matt Greiner complete drum setup guide](/articles/matt-greiner-complete-drum-setup)."
+        "answer": "On *Constellations* (2009), Matt Greiner played his Pearl Vision kit — a four-piece configuration with dual 22\" x 18\" bass drums, 10\" and 12\" rack toms, and 14\" and 16\" floor toms. The Vision series' maple/mahogany hybrid shells gave the album its characteristic combination of attack and body. Greiner has been a Pearl artist since the band's founding in 2003, and the Export/Vision era — *Messengers* (2007), *Constellations* (2009), and *Leveler* (2011), when he upgraded to Pearl Reference — defined ABR's breakthrough drum sound, well before the Reference Pure kit and Byzance cymbals of his current setup took shape. For his current setup and career evolution, see the [Matt Greiner complete drum setup guide](/articles/matt-greiner-complete-drum-setup)."
       },
       {
         "question": "Who produced the drums on Constellations and where was it recorded?",
@@ -534,44 +534,44 @@ export const articles = {
       },
       {
         "question": "What cymbals did Matt Greiner use on Constellations?",
-        "answer": "On *Constellations* Matt Greiner played Zildjian A Custom and Z Custom cymbals — A Custom Mastersound hi-hats, A Custom Fast and Medium crashes, a Z Custom Rock Crash for the heaviest sections, an A Custom Ping Ride, an A Custom China, and an A Custom Splash. The dual-series approach gave him the bright articulation of the A Custom line for the album's articulate playing combined with the cutting heaviness of the Z Custom Rock Crash for the breakdowns. Greiner later moved to Paiste 2002 for *Leveler* (2011) and eventually to Meinl Byzance for the modern ABR era. For the cymbal evolution across his career, see the [Matt Greiner complete drum setup guide](/articles/matt-greiner-complete-drum-setup)."
+        "answer": "On *Constellations* Matt Greiner played a still-developing Meinl cymbal setup — hi-hats, two crashes, a heavier crash for the album's heaviest sections, a ride, a china, and a splash. No specific named Meinl series is documented for this era; that would arrive with the Byzance line, solidified in time for *Leveler* (2011) and carried through his current setup. For the cymbal evolution across his career, see the [Matt Greiner complete drum setup guide](/articles/matt-greiner-complete-drum-setup)."
       },
       {
         "question": "How does the Constellations drum sound compare to Leveler?",
-        "answer": "*Constellations* (2009) and *Leveler* (2011) represent two distinct chapters in Matt Greiner's recorded sound. *Constellations* used the Mapex Saturn IV — hybrid maple/walnut shells with a brighter, more attack-focused character — paired with Zildjian A/Z Custom cymbals and the Pearl Demon Drive direct-drive pedal. The result is the unmistakably modern late-2000s metalcore sound: precise, aggressive, articulate. *Leveler*, recorded with the same producer at the same studio just two years later, replaced the Mapex with a Ludwig Classic Maple kit and the Zildjians with Paiste 2002 cymbals — a warmer, more complex tonal approach that suited *Leveler*'s more progressive songwriting. For full context, see the [Leveler drum setup article](/articles/leveler-drum-setup) and the [Matt Greiner complete drum setup guide](/articles/matt-greiner-complete-drum-setup)."
+        "answer": "*Constellations* (2009) and *Leveler* (2011) represent two chapters in the same continuous Pearl/Meinl story. *Constellations* used the Pearl Vision kit — a maple/mahogany hybrid shell with a direct, attack-focused character — paired with a still-developing Meinl cymbal setup. The result is the unmistakably modern late-2000s metalcore sound: precise, aggressive, articulate. *Leveler*, recorded with the same producer at the same studio just two years later, upgraded to a Pearl Reference kit and the newly solidified Meinl Byzance cymbal series — a warmer, more complex tonal approach that suited *Leveler*'s more progressive songwriting. For full context, see the [Leveler drum setup article](/articles/leveler-drum-setup) and the [Matt Greiner complete drum setup guide](/articles/matt-greiner-complete-drum-setup)."
       },
       {
         "question": "What snare did Matt Greiner use on Constellations?",
-        "answer": "Matt Greiner's snare on *Constellations* came from Mapex's Black Panther series — the company's flagship snare line. The 14\" x 6.5\" depth delivered the body and projection the Audiohammer production demanded, with either all-maple or all-birch shell construction depending on the session. Paired with an Evans Genera HD batter head and tuned to a medium-high tension, the Black Panther provided the cutting backbeat and sensitive ghost note response that Greiner's playing required. The signature snare moment is the verse pattern on \"Marianas Trench,\" where the snare sits forward in the mix with unusual presence — partly mix decisions, partly the Black Panther's natural projection."
+        "answer": "Matt Greiner's snare on *Constellations* came from his Pearl Vision kit — a 14\" x 6\" steel-shell drum. The depth delivered the body and projection the Audiohammer production demanded. Paired with an Evans Genera HD batter head and tuned to a medium-high tension, the snare provided the cutting backbeat and sensitive ghost note response that Greiner's playing required. The signature snare moment is the verse pattern on \"Marianas Trench,\" where the snare sits forward in the mix with unusual presence — partly mix decisions, partly the snare's natural projection."
       }
     ],
     "evolution": {
       "title": "From Constellations to Today: Matt Greiner's Gear Evolution",
-      "content": "*Constellations* (2009) captured Matt Greiner at the moment ABR broke through commercially and the moment his playing identity fully matured. The gear that powered that breakthrough — Mapex Saturn IV, Zildjian A Custom and Z Custom, Pearl Demon Drive — defined the band's pre-*Leveler* sound and remains a reference point for late-2000s metalcore drumming. The years since have seen Greiner's setup evolve significantly, but the philosophy has held constant: musical aggression, mechanical efficiency, and tonal clarity in service of the song.\n\n**The Mapex Saturn Era (~2007–2010):**\nThe Saturn IV era encompassed *Messengers* (2007) and *Constellations* (2009) — the records that established ABR as a force in metalcore. The hybrid maple/walnut shells, Zildjian A/Z Custom cymbals, and Pearl Demon Drive pedals formed the gear identity that defined the breakthrough years.\n\n**The Ludwig Interregnum (~2011):**\nFor *Leveler* (2011), Greiner briefly moved to a Ludwig Classic Maple kit — warmer, more complex shells paired with Paiste 2002 cymbals. The shift coincided with ABR's most musically ambitious record and the Grammy nomination that followed.\n\n**The Pearl Reference Pure Era (current):**\nGreiner eventually moved to Pearl drums, settling on the Pearl Reference Pure kit he plays today — a maple/mahogany hybrid that offers a different balance of attack and body than either the Mapex Saturn or the Ludwig Classic Maple. The Pearl Demon Drive pedals he used on *Constellations* moved with him; the cymbals shifted to Meinl Byzance for the modern ABR sound.\n\nThe constant across all three eras is Greiner himself: lever-driven double bass technique, jazz-informed ghost note layering, odd-meter facility, and a compositional approach to drumming that uses the kit as a musical voice rather than just a rhythmic foundation. The gear changes; the playing identity doesn't.",
+      "content": "*Constellations* (2009) captured Matt Greiner at the moment ABR broke through commercially and the moment his playing identity fully matured. The gear that powered that breakthrough — a Pearl Vision kit and a still-developing Meinl cymbal setup — defined the band's pre-*Leveler* sound and remains a reference point for late-2000s metalcore drumming. The years since have seen Greiner's setup refine considerably, but the philosophy has held constant: musical aggression, mechanical efficiency, and tonal clarity in service of the song.\n\n**The Pearl Export/Vision Era (~2003–2010):**\nThis era encompassed *Thrill Seeker* (2005), *Messengers* (2007), and *Constellations* (2009) — the records that took ABR from an unsigned local band to a force in metalcore. The Export/Vision shells, a still-developing Meinl cymbal endorsement, and dependable but undocumented pedal setups formed the gear identity that defined the breakthrough years.\n\n**The Pearl Reference Era (~2011 onward):**\nFor *Leveler* (2011), Greiner upgraded to a Pearl Reference kit — a more refined shell than the earlier Export/Vision line — paired with the newly solidified Meinl Byzance cymbal series. The upgrade coincided with ABR's most musically ambitious record and the Grammy nomination that followed.\n\n**The Pearl Reference Pure Era (current):**\nGreiner's kit was further refined into the Pearl Reference Pure he plays today — a maple/mahogany hybrid that offers a different balance of attack and body than the earlier Vision or Reference shells. The Meinl Byzance cymbals he solidified around *Leveler* carried through as his signature cymbal sound.\n\nThe constant across every era is Greiner himself: lever-driven double bass technique, jazz-informed ghost note layering, odd-meter facility, and a compositional approach to drumming that uses the kit as a musical voice rather than just a rhythmic foundation. The gear refines; the playing identity doesn't. That's arguably the most useful takeaway for drummers studying his catalog: chase the technique first, and let the gear relationships develop at their own pace.",
       "thenVsNow": [
         {
           "category": "Kit",
-          "then": "Mapex Saturn IV (hybrid maple/walnut)",
+          "then": "Pearl Vision Series (maple/mahogany hybrid)",
           "now": "Pearl Reference Pure (maple/mahogany hybrid)"
         },
         {
           "category": "Snare",
-          "then": "Mapex Black Panther 14\" x 6.5\"",
+          "then": "Pearl Vision Steel 14\" x 6\"",
           "now": "Pearl Matt Greiner Signature 14\" x 6\" steel"
         },
         {
           "category": "Cymbals",
-          "then": "Zildjian A Custom and Z Custom",
+          "then": "Meinl (developing endorsement, no named series yet)",
           "now": "Meinl Byzance series"
         },
         {
           "category": "Pedals",
-          "then": "Pearl Eliminator Demon Drive",
+          "then": "Double pedal (brand not documented for this era)",
           "now": "Pearl Demon Drive Double Pedal (updated spec)"
         },
         {
           "category": "Sticks",
-          "then": "Vater Matt Greiner Signature",
+          "then": "Vic Firth American Classic 5A",
           "now": "Vic Firth Matt Greiner Signature"
         },
         {
@@ -619,16 +619,12 @@ export const articles = {
         "url": "/techniques/metalcore-drumming"
       },
       {
-        "text": "Mapex drums brand overview",
-        "url": "/gear/mapex"
-      },
-      {
-        "text": "Zildjian cymbals brand overview",
-        "url": "/gear/zildjian"
-      },
-      {
         "text": "Pearl drums and hardware",
         "url": "/gear/pearl"
+      },
+      {
+        "text": "Meinl cymbals overview",
+        "url": "/gear/meinl"
       }
     ],
     "schema": {
@@ -637,7 +633,7 @@ export const articles = {
         {
           "@type": "Article",
           "headline": "Matt Greiner's Drum Setup on August Burns Red's Constellations (2009)",
-          "description": "Complete breakdown of the Mapex Saturn IV kit, Mapex Black Panther snare, Zildjian A/Z Custom cymbals, and Pearl Demon Drive pedal Matt Greiner used to record August Burns Red's metalcore breakthrough Constellations (2009).",
+          "description": "Complete breakdown of the Pearl Vision kit, Pearl Vision steel snare, still-developing Meinl cymbal setup, and double-pedal foundation Matt Greiner used to record August Burns Red's metalcore breakthrough Constellations (2009).",
           "author": {
             "@type": "Organization",
             "name": "MetalForge Editorial"
@@ -722,7 +718,7 @@ export const articles = {
               "name": "What drums did Matt Greiner use on Constellations?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "On Constellations (2009), Matt Greiner used a Mapex Saturn IV four-piece kit with dual 22\" x 18\" bass drums, 10\" and 12\" rack toms, and 14\" and 16\" floor toms. Paired with a Mapex Black Panther snare, Zildjian A Custom and Z Custom cymbals, and a Pearl Eliminator Demon Drive double pedal."
+                "text": "On Constellations (2009), Matt Greiner used a Pearl Vision four-piece kit with dual 22\" x 18\" bass drums, 10\" and 12\" rack toms, and 14\" and 16\" floor toms. Paired with a Pearl Vision steel snare, a still-developing Meinl cymbal setup, and a double pedal (specific brand not documented for this era)."
               }
             },
             {
@@ -738,7 +734,7 @@ export const articles = {
               "name": "What cymbals did Matt Greiner use on Constellations?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Matt Greiner played Zildjian A Custom and Z Custom cymbals on Constellations — A Custom Mastersound hi-hats, A Custom Fast and Medium crashes, a Z Custom Rock Crash, an A Custom Ping Ride, an A Custom China, and an A Custom Splash."
+                "text": "Matt Greiner played a still-developing Meinl cymbal setup on Constellations — hi-hats, two crashes, a heavier crash for the album's most intense sections, a ride, a china, and a splash. No named series is documented for this era; that arrived later with the Byzance line."
               }
             },
             {
@@ -746,7 +742,7 @@ export const articles = {
               "name": "How does the Constellations drum sound compare to Leveler?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Constellations (2009) used the Mapex Saturn IV with Zildjian A/Z Custom cymbals — brighter and more attack-focused. Leveler (2011) used Ludwig Classic Maple shells with Paiste 2002 cymbals — warmer and more complex. Same producer, same studio, different tonal approach."
+                "text": "Constellations (2009) used the Pearl Vision kit with a still-developing Meinl cymbal setup — direct and attack-focused. Leveler (2011) used the upgraded Pearl Reference kit with the newly solidified Meinl Byzance cymbal series — warmer and more complex. Same producer, same studio, same continuous Pearl/Meinl relationship maturing between records."
               }
             },
             {
@@ -754,7 +750,7 @@ export const articles = {
               "name": "What snare did Matt Greiner use on Constellations?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Matt Greiner used a 14\" x 6.5\" Mapex Black Panther snare on Constellations — either the all-maple or all-birch shell variant — paired with an Evans Genera HD batter head and tuned to medium-high tension."
+                "text": "Matt Greiner used a 14\" x 6\" Pearl Vision steel snare on Constellations, paired with an Evans Genera HD batter head and tuned to medium-high tension."
               }
             }
           ]
@@ -763,7 +759,7 @@ export const articles = {
     },
     "conclusion": {
       "title": "Constellations' Legacy: The Album That Broke ABR Through",
-      "content": "*Constellations* (2009) is the album that broke August Burns Red through to the mainstream metal audience and the album that fully established Matt Greiner's playing identity. The combination of Audiohammer production, mature songwriting, and a band that had spent years refining their sound came together on a record that earned the #16 spot on the Billboard 200, took top metalcore album of the year honors, and laid the groundwork for the decade-plus run of acclaimed records that followed.\n\nThe Mapex Saturn IV / Zildjian A and Z Custom / Pearl Demon Drive combination that powered *Constellations* defined the pre-*Leveler* ABR sound. The Saturn's hybrid shells delivered the brightness and attack that the production demanded. The Zildjian setup provided both the articulation of the A Custom line and the cutting heaviness of the Z Custom Rock Crash for the breakdowns. The Pearl Demon Drive translated Greiner's lever-driven technique into the consistent, surgical double-bass work that defines the album.\n\n**For Drummers Studying Constellations:**\nThe most important lesson from *Constellations* is the same lesson Greiner would expand on for *Leveler* two years later: musical aggression. Study how the snare on \"Marianas Trench\" sits forward in the mix without dominating. Study how the China cymbal on \"Meridian\" lands as a compositional accent rather than just a wash element. Study how the sustained double-bass on \"The Escape Artist\" maintains consistent attack across long passages — and how that consistency comes from technique and pedal choice working together, not from brute force. Then notice that beneath the technical aggression there is always a song; the drums serve the music, never compete with it.\n\n**The Gear Legacy:**\nThe Mapex Saturn line continues to be a flagship offering — current Saturn V models retain the hybrid shell philosophy that defined Greiner's *Constellations* kit. Zildjian A Custom and Z Custom cymbals remain in production and remain widely used in metal contexts. The Pearl Demon Drive evolved through several spec updates but remains a benchmark direct-drive double pedal.\n\nFor Matt Greiner's current gear — the Pearl Reference Pure and Meinl Byzance setup he plays today — see the [Matt Greiner complete drum setup guide](/articles/matt-greiner-complete-drum-setup). For the next chapter of his recorded sound, see the [Leveler drum setup article](/articles/leveler-drum-setup). For the broader context of his influence on metalcore drumming, see his [full drummer profile](/drummer/matt-greiner)."
+      "content": "*Constellations* (2009) is the album that broke August Burns Red through to the mainstream metal audience and the album that fully established Matt Greiner's playing identity. The combination of Audiohammer production, mature songwriting, and a band that had spent years refining their sound came together on a record that earned the #16 spot on the Billboard 200, took top metalcore album of the year honors, and laid the groundwork for the decade-plus run of acclaimed records that followed.\n\nThe Pearl Vision kit and still-developing Meinl cymbal setup that powered *Constellations* defined the pre-*Leveler* ABR sound. The Vision's hybrid shells delivered the attack and warmth that the production demanded. The early Meinl setup provided a direct, functional cymbal voice years before the named Byzance series arrived. Greiner's lever-driven technique translated into the consistent, surgical double-bass work that defines the album, regardless of which undocumented pedal was doing the mechanical work.\n\n**For Drummers Studying Constellations:**\nThe most important lesson from *Constellations* is the same lesson Greiner would expand on for *Leveler* two years later: musical aggression. Study how the snare on \"Marianas Trench\" sits forward in the mix without dominating. Study how the China cymbal on \"Meridian\" lands as a compositional accent rather than just a wash element. Study how the sustained double-bass on \"The Escape Artist\" maintains consistent attack across long passages — and how that consistency comes from technique, not from brute force. Then notice that beneath the technical aggression there is always a song; the drums serve the music, never compete with it.\n\n**The Gear Legacy:**\nPearl's Vision series remains a well-regarded mid-tier offering, and Greiner's own trajectory through Pearl's lineup — Export to Vision to Reference to Reference Pure — traces the arc of a developing endorsee becoming a fully established artist. The Meinl relationship he began developing on *Constellations* would go on to define his signature cymbal sound for over a decade. It's a reminder that most professional gear relationships aren't a single signing moment but a gradual accumulation of trust between player and manufacturer.\n\nFor Matt Greiner's current gear — the Pearl Reference Pure and Meinl Byzance setup he plays today — see the [Matt Greiner complete drum setup guide](/articles/matt-greiner-complete-drum-setup). For the next chapter of his recorded sound, see the [Leveler drum setup article](/articles/leveler-drum-setup). For the broader context of his influence on metalcore drumming, see his [full drummer profile](/drummer/matt-greiner)."
     }
   },
   "leveler-drum-setup": {
@@ -783,7 +779,7 @@ export const articles = {
     "dateModified": "2026-06-24",
     "author": "MetalForge Editorial",
     "title": "Leveler Drum Setup: Matt Greiner's Gear on August Burns Red's 2011 Album",
-    "description": "Discover the exact drum kit, cymbals, and gear Matt Greiner used to record August Burns Red's Grammy-nominated Leveler (2011). Complete breakdown of the Ludwig Classic Maple kit, Paiste 2002 cymbals, DW 9000 double pedal, and the technical approach behind metalcore's most musical drummer.",
+    "description": "Discover the exact drum kit, cymbals, and gear Matt Greiner used to record August Burns Red's Grammy-nominated Leveler (2011). Complete breakdown of the Pearl Reference kit, the newly solidified Meinl Byzance cymbal setup, and the technical approach behind metalcore's most musical drummer.",
     "seoKeywords": [
       "matt greiner drum setup",
       "matt greiner leveler drums",
@@ -793,25 +789,26 @@ export const articles = {
       "leveler drumming style",
       "matt greiner gear 2011",
       "metalcore drum setup 2011",
-      "ludwig classic maple metalcore",
-      "matt greiner paiste"
+      "pearl reference metalcore",
+      "matt greiner meinl byzance"
     ],
     "ogImage": "/images/albums/leveler-drums.webp",
     "intro": {
       "title": "Metalcore's Most Musical Album: How Matt Greiner Powered Leveler",
-      "content": "Released on August 30, 2011, August Burns Red's *Leveler* is widely regarded as the band's defining artistic statement — a Grammy-nominated album that demonstrated metalcore could be progressive, melodic, and technically ferocious without sacrificing the aggressive core that defines the genre. At the rhythmic center of every track was Matt Greiner, whose drumming on *Leveler* set a new benchmark for what metalcore percussion could achieve.\n\nGreiner brought a jazz-informed musicality to an aggressive context. Where many metalcore drummers treat the kit as a velocity-delivery system, Greiner used odd-meter patterns, complex polyrhythmic fills, and dynamic ghost note layering to create drum parts that function as composition — not just time-keeping. Tracks like \"Empire\" (a nearly eight-minute progressive epic) and the album's title track demand the kind of sustained technical execution and creative vision that separates great drummers from technical ones.\n\nFor *Leveler*, Greiner recorded with a Ludwig Classic Maple kit — a choice that defined the album's drum tone. Ludwig's maple shells are warmer and more complex than the bright attack of the Pearl Reference Pure kit he would later adopt. That warmth, combined with the cutting character of his Paiste 2002 cymbal setup, gave *Leveler* its distinctive sound: aggressive but musical, heavy but never blunt.\n\nThe album earned August Burns Red a Grammy nomination for Best Metal Performance — recognition that reflected both the band's songwriting ambition and Greiner's extraordinary playing. This article examines the gear behind that performance: every shell, cymbal, and pedal that Matt Greiner used to make *Leveler* the landmark album it became.",
+      "content": "Released on August 30, 2011, August Burns Red's *Leveler* is widely regarded as the band's defining artistic statement — a Grammy-nominated album that demonstrated metalcore could be progressive, melodic, and technically ferocious without sacrificing the aggressive core that defines the genre. At the rhythmic center of every track was Matt Greiner, whose drumming on *Leveler* set a new benchmark for what metalcore percussion could achieve.\n\nGreiner brought a jazz-informed musicality to an aggressive context. Where many metalcore drummers treat the kit as a velocity-delivery system, Greiner used odd-meter patterns, complex polyrhythmic fills, and dynamic ghost note layering to create drum parts that function as composition — not just time-keeping. Tracks like \"Empire\" (a nearly eight-minute progressive epic) and the album's title track demand the kind of sustained technical execution and creative vision that separates great drummers from technical ones.\n\nFor *Leveler*, Greiner recorded with a Pearl Reference kit — an upgrade from the Export/Vision setup of the band's earlier records, and a choice that defined the album's more refined drum tone. Around this same period, his longtime developing Meinl cymbal endorsement solidified into the named Byzance series. That refined character, combined with the darker, more controlled cut of his newly-named Byzance cymbal setup, gave *Leveler* its distinctive sound: aggressive but musical, heavy but never blunt.\n\nThe album earned August Burns Red a Grammy nomination for Best Metal Performance — recognition that reflected both the band's songwriting ambition and Greiner's extraordinary playing. This article examines the gear behind that performance: every shell, cymbal, and pedal that Matt Greiner used to make *Leveler* the landmark album it became.",
       "keyPoints": [
         "Released August 30, 2011 on Metal Blade Records — ABR's most acclaimed studio album",
         "Grammy nomination for Best Metal Performance recognized the album's technical and artistic achievement",
-        "Matt Greiner used Ludwig Classic Maple kit — warmer, more complex tone than his later Pearl setup",
+        "Matt Greiner used a Pearl Reference kit — an upgrade from the Export/Vision setup of the band's earlier records",
+        "His Meinl cymbal endorsement solidified into the named Byzance series around this album",
         "Odd-meter patterns and polyrhythmic fills across the album opened a new technical frontier for metalcore drumming"
       ]
     },
     "drumKit": {
-      "title": "Matt's Leveler Kit: Ludwig Classic Maple",
-      "brand": "Ludwig",
-      "model": "Ludwig Classic Maple",
-      "finish": "Natural / Vintage wrap",
+      "title": "Matt's Leveler Kit: Pearl Reference",
+      "brand": "Pearl",
+      "model": "Pearl Reference",
+      "finish": "Natural / Custom wrap",
       "config": {
         "bassdrums": [
           "22\" x 18\" Bass Drum (x2 double kick)"
@@ -823,82 +820,82 @@ export const articles = {
         "floorToms": [
           "16\" x 16\" Floor Tom"
         ],
-        "shells": "Classic Maple shells — 6-ply North American maple construction"
+        "shells": "Pearl Reference — hybrid maple/birch/mahogany shell construction"
       },
-      "description": "Matt Greiner's choice of Ludwig Classic Maple for *Leveler* reflects an interesting moment in metalcore's relationship with gear. While many of his contemporaries reached for the brightest, most articulate shells available, Greiner chose Ludwig's heritage-focused Classic Maple — drums built on the same shell philosophy as Ludwig's legendary vintage kits, favored by everyone from John Bonham to Stewart Copeland.\n\nThe Classic Maple's 6-ply North American maple construction produces a warmer, more complex tone than the harder birch or hybrid shells common in metal. That warmth is audible throughout *Leveler*: the toms have body and resonance, the bass drums deliver a fundamental low-end thump rather than a sharp attack. On a track like \"Pangaea,\" with its shifting time signatures and melodic sensibility, the kit's tonal character reinforces the music's complexity.\n\nThe double bass drum configuration was non-negotiable for Greiner's playing style. His lever-driven double bass technique — generating explosive speed through mechanical efficiency rather than brute force — demanded two fully independent bass drums, each delivering equivalent attack. The 22\" size gave him the deep fundamental that *Leveler*'s heaviest passages required while maintaining the response speed that his odd-meter patterns needed.\n\nThe compact tom setup (two rack toms, one floor tom) pushed Greiner toward creative fill choices. Rather than running through a four-tom suite, he developed patterns that moved between bass drum, snare, and the available toms in ways that created rhythmic interest through composition rather than equipment volume.",
+      "description": "Matt Greiner's move to the Pearl Reference kit for *Leveler* reflects the continued deepening of the Pearl relationship he'd held since August Burns Red's founding in 2003. Where the Export and Vision kits of the band's earlier records were entry-to-mid-tier instruments, the Reference series is Pearl's professional-grade offering — a meaningful step up in shell quality and hardware refinement.\n\nThe Reference series' hybrid maple/birch/mahogany shell construction produces a more complex, controlled tone than the simpler shells of Greiner's earlier Pearl kits. That refinement is audible throughout *Leveler*: the toms have body and resonance without losing definition, the bass drums deliver a focused low-end thump. On a track like \"Pangaea,\" with its shifting time signatures and melodic sensibility, the kit's tonal character reinforces the music's complexity.\n\nThe double bass drum configuration was non-negotiable for Greiner's playing style. His lever-driven double bass technique — generating explosive speed through mechanical efficiency rather than brute force — demanded two fully independent bass drums, each delivering equivalent attack. The 22\" size gave him the deep fundamental that *Leveler*'s heaviest passages required while maintaining the response speed that his odd-meter patterns needed.\n\nThe compact tom setup (two rack toms, one floor tom) pushed Greiner toward creative fill choices. Rather than running through a four-tom suite, he developed patterns that moved between bass drum, snare, and the available toms in ways that created rhythmic interest through composition rather than equipment volume.",
       "notes": [
-        "Ludwig Classic Maple: heritage shell construction favored for warmth over attack-focused modern alternatives",
+        "Pearl Reference: a professional-tier upgrade from the Export/Vision kits of the band's earlier records",
         "Double 22\" bass drums: independent kick response essential for Greiner's lever-driven technique",
         "Compact tom configuration encouraged compositional fills rather than kit-spanning runs",
-        "Greiner later moved to Pearl Reference Pure — the Ludwig era defined his earlier, rawer tonal character"
+        "Greiner later moved to Pearl Reference Pure — the Leveler-era Reference kit was an intermediate step in that progression"
       ],
-      "estimatedValue": "$2,000–3,500 (2011) / $1,500–2,500 (vintage today)"
+      "estimatedValue": "$2,000–3,000 (2011) / $1,500–2,200 (used today)"
     },
     "snare": {
       "title": "The Leveler Snare: Crack and Sensitivity Combined",
-      "brand": "Ludwig",
-      "model": "Ludwig Acrolite / Supraphonic (aluminum)",
-      "size": "14\" x 5\"",
-      "shell": "Aluminum (Acrolite) or Supraphonic seamless aluminum",
-      "description": "Matt Greiner's snare approach on *Leveler* balanced the opposing demands of metalcore: the crack and projection to cut through heavily distorted guitars, and the sensitivity to execute ghost notes and dynamic variations within complex odd-meter patterns. A Ludwig aluminum snare — in the Acrolite or Supraphonic tradition — delivered both.\n\nLudwig's aluminum shells produce a sound that splits the difference between wood warmth and steel brightness. The Acrolite's lightweight construction made it supremely responsive at lower tensions — allowing Greiner's ghost notes and subtle dynamics to translate to tape — while still delivering a sharp crack when struck at full force.\n\nOn tracks like \"Carillion\" and \"Blamed Identity,\" Greiner's snare work oscillates between thunderous accents and delicate ghost note sequences within single measures. The Ludwig aluminum's wide dynamic range made this kind of playing possible without changing instruments between sections.\n\nGreiner tuned the snare toward the higher end of medium tension — tight enough for projection and cut, but not so high as to sacrifice the warmth that distinguished his playing from harder-hitting metalcore peers.",
+      "brand": "Pearl",
+      "model": "Pearl Reference Steel",
+      "size": "14\" x 5.5\"",
+      "shell": "Steel — Reference-series hardware",
+      "description": "Matt Greiner's snare approach on *Leveler* balanced the opposing demands of metalcore: the crack and projection to cut through heavily distorted guitars, and the sensitivity to execute ghost notes and dynamic variations within complex odd-meter patterns. His Pearl Reference steel snare delivered both.\n\nSteel shells at the Reference tier produce a sound with real cut and controlled sustain — brighter and more direct than the Export/Vision-era snares of the band's earlier records. The upgraded hardware made it supremely responsive at lower tensions — allowing Greiner's ghost notes and subtle dynamics to translate to tape — while still delivering a sharp crack when struck at full force.\n\nOn tracks like \"Carillion\" and \"Blamed Identity,\" Greiner's snare work oscillates between thunderous accents and delicate ghost note sequences within single measures. The Reference steel's wide dynamic range made this kind of playing possible without changing instruments between sections.\n\nGreiner tuned the snare toward the higher end of medium tension — tight enough for projection and cut, but not so high as to sacrifice the warmth that distinguished his playing from harder-hitting metalcore peers.",
       "tuningSetting": "Medium-high tension — projection with warmth, not maximum tightness",
       "heads": "Remo Ambassador Coated (batter), Remo Ambassador Snare Side (resonant)",
-      "estimatedValue": "$150–300 (2011) / $200–400 (vintage aluminum today)"
+      "estimatedValue": "$180–320 (2011) / $150–250 (used today)"
     },
     "cymbals": {
-      "title": "Paiste 2002: The Cutting Edge of the Leveler Sound",
-      "brand": "Paiste",
-      "series": "Paiste 2002",
+      "title": "Meinl Byzance: The Newly Solidified Cymbal Voice of Leveler",
+      "brand": "Meinl",
+      "series": "Meinl Byzance",
       "setup": [
         {
           "type": "Hi-Hats",
-          "model": "Paiste 2002 14\" Sound Edge Hi-Hats",
+          "model": "Meinl Byzance 14\" Medium Hi-Hats",
           "position": "Left side",
-          "notes": "Clear, cutting attack for fast 16th-note patterns; essential to Greiner's rhythmic precision"
+          "notes": "Clear, controlled attack for fast 16th-note patterns; essential to Greiner's rhythmic precision"
         },
         {
           "type": "Crash (1)",
-          "model": "Paiste 2002 16\" Crash",
+          "model": "Meinl Byzance 16\" Medium Thin Crash",
           "position": "Left of hi-hats",
           "notes": "Fast response crash for quick accents between time signature changes"
         },
         {
           "type": "Crash (2)",
-          "model": "Paiste 2002 18\" Crash",
+          "model": "Meinl Byzance 18\" Medium Thin Crash",
           "position": "Right side",
           "notes": "Fuller crash for section climaxes and heavy riff punctuation"
         },
         {
           "type": "Ride",
-          "model": "Paiste 2002 20\" Heavy Ride",
+          "model": "Meinl Byzance 20\" Medium Ride",
           "position": "Far right",
-          "notes": "Full bell and complex bow for riding through complex passages"
+          "notes": "Full bell and controlled wash for riding through complex passages"
         },
         {
           "type": "China",
-          "model": "Paiste 2002 18\" China",
+          "model": "Meinl Byzance 18\" China",
           "position": "Above floor tom",
-          "notes": "Aggressive, cutting accent for metalcore's most intense moments"
+          "notes": "Dark, cutting accent for metalcore's most intense moments"
         }
       ],
-      "description": "Matt Greiner's cymbal setup on *Leveler* was built around Paiste's 2002 series — one of the most storied cymbal lines in rock and metal history, used by Dave Lombardo on *Reign in Blood* (1986) and countless players since. For the *Leveler* sessions, the 2002's combination of cutting attack and sustained warmth proved ideal for metalcore's demanding context.\n\nThe Paiste 2002 Sound Edge hi-hats were central to Greiner's rhythmic vocabulary. Their clear, defined stick attack allowed precision articulation during the complex hi-hat patterns that characterize *Leveler*'s tracks — on songs like \"Internal Cannon\" and \"Architects,\" where hi-hat rhythm shifts every few beats, that definition is not optional.\n\nThe crash cymbal configuration gave Greiner the flexibility to match metalcore's dynamic range. The 16\" crash responded instantly for quick accents between riff changes, while the larger 18\" provided the sustain and volume for section transitions and heavy payoffs. The 18\" China added the aggressive, trashy character that metalcore's heaviest moments demand — a cymbal texture that steel or bronze crashes cannot replicate.\n\nPaiste's CuSn8 bronze alloy — used across the 2002 series — delivers warmth and complexity that complements rather than competes with the Ludwig maple shells. The combination gave *Leveler* its distinctive tonal character: powerful but not harsh, aggressive but musical.",
-      "estimatedValue": "$1,200–1,800 full setup (2011)"
+      "description": "Matt Greiner's cymbal setup on *Leveler* marked the point where his long-developing Meinl relationship — begun alongside his 2003 Pearl signing — solidified into the named Byzance series that would become his signature cymbal sound. For the *Leveler* sessions, the Byzance's combination of controlled attack and dark, complex sustain proved ideal for the album's more progressive, musically ambitious context.\n\nThe Byzance Medium hi-hats were central to Greiner's rhythmic vocabulary. Their clear, defined stick attack allowed precision articulation during the complex hi-hat patterns that characterize *Leveler*'s tracks — on songs like \"Internal Cannon\" and \"Architects,\" where hi-hat rhythm shifts every few beats, that definition is not optional.\n\nThe crash cymbal configuration gave Greiner the flexibility to match metalcore's dynamic range. The 16\" Medium Thin Crash responded instantly for quick accents between riff changes, while the larger 18\" provided the sustain and volume for section transitions and heavy payoffs. The 18\" China added the dark, trashy character that metalcore's heaviest moments demand.\n\nMeinl's hand-hammered Turkish B20 bronze — used across the Byzance line — delivers a darker, more complex tone than the still-developing, unnamed Meinl setup Greiner had used on *Messengers* (2007) and *Constellations* (2009). The combination gave *Leveler* its distinctive tonal character: powerful but not harsh, aggressive but musical.",
+      "estimatedValue": "$1,400–2,000 full setup (2011)"
     },
     "hardware": {
-      "title": "DW 9000 Double Pedal: The Engine Behind Greiner's Double Bass Technique",
+      "title": "Double Pedal Foundation: The Engine Behind Greiner's Double Bass Technique",
       "items": [
         {
           "type": "Bass Drum Pedal",
-          "brand": "DW",
-          "model": "DW 9000 Double Pedal",
-          "notes": "Cam-driven mechanism favored for adjustable feel; critical to Greiner's lever-driven double bass approach",
-          "description": "The DW 9000 Series double pedal was Matt Greiner's pedal of choice during the *Leveler* era. DW's flagship pedal offered a cam-driven mechanism with adjustable feel — letting Greiner dial in the exact response curve his lever-driven technique required. Unlike purely speed-focused pedals, the 9000's adjustability allowed Greiner to emphasize placement precision over raw velocity, generating explosive kick patterns through mechanical efficiency.\n\nGreiner's double bass technique on *Leveler* is lever-based: he generates power through controlled ankle and calf mechanics rather than leg force alone. This approach produces consistent attack across extended passages without the physical burnout that brute-force technique creates. On a track like \"Empire\" — nearly eight minutes long with sustained double-bass work — that mechanical efficiency was essential."
+          "brand": "Not publicly documented",
+          "model": null,
+          "notes": "No verified pre-2016 pedal brand is documented for Greiner; his earliest confirmed hardware endorsement (DW 9000 Series) dates to 2016",
+          "description": "No source independently documents the specific double pedal Matt Greiner used during the *Leveler* era, so this page does not assign one. What's audible on the record is the mechanical outcome: a lever-based double bass technique, generating power through controlled ankle and calf mechanics rather than leg force alone. This approach produces consistent attack across extended passages without the physical burnout that brute-force technique creates. On a track like \"Empire\" — nearly eight minutes long with sustained double-bass work — that mechanical efficiency was essential, regardless of which specific pedal was translating it into beater strikes."
         },
         {
           "type": "Hi-Hat Stand",
-          "brand": "DW",
-          "model": "DW 9000 Hi-Hat Stand",
-          "notes": "Matched hardware — DW 9000 series consistency across the kit"
+          "brand": "Pearl",
+          "model": "Pearl Reference Hi-Hat Stand",
+          "notes": "Matched Pearl hardware — Reference-series consistency across the kit"
         },
         {
           "type": "Throne",
@@ -909,8 +906,8 @@ export const articles = {
         {
           "type": "Sticks",
           "brand": "Vic Firth",
-          "model": "Vic Firth Matt Greiner Signature",
-          "notes": "Custom taper and tip designed with Greiner — balanced for both heavy attack and delicate ghost notes"
+          "model": "Vic Firth American Classic 5A",
+          "notes": "Standard off-the-shelf 5A during the Leveler era — balanced taper for both heavy attack and delicate ghost notes, years before his 2017 signature model"
         }
       ],
       "heads": {
@@ -921,7 +918,7 @@ export const articles = {
     },
     "recordingTechniques": {
       "title": "Recording Leveler: Precision at Audiohammer Studios",
-      "content": "The *Leveler* sessions at Audiohammer Studios in Sanford, Florida, with producer Jason Suecof were designed to capture both the aggression and the musical complexity that define August Burns Red's approach. Suecof — known for his work with Trivium, The Black Dahlia Murder, and other metal heavyweights — understood how to translate technical drumming into a studio environment without sacrificing feel.\n\n**The Technical Challenge:**\n*Leveler* presented specific recording challenges that simpler metalcore albums don't face. Songs shift time signatures mid-phrase; double-bass patterns accelerate and decelerate within single measures; Greiner's ghost note density requires a setup where subtle dynamics translate rather than disappear. Suecof addressed this through careful microphone placement and minimal processing — preserving the full dynamic range of Greiner's playing.\n\n**Microphone Approach:**\n- Kick drums: dual miking with inside and outside capsules for attack and resonance blend\n- Snare: top and bottom microphones capturing crack and snare wire response\n- Toms: close-miking on each tom for definition, minimal room bleed\n- Cymbals: overheads in spaced pair configuration, capturing the Paiste 2002's natural complexity\n- Room mics: light room ambience preserving the studio's natural acoustic character\n\n**Click Track and Feel:**\nUnlike some metalcore productions that edit drums to a rigid grid, Greiner's *Leveler* performances retained natural tempo feel within the precise framework. The interaction between the click track and Greiner's interpretive playing — particularly on the album's most complex passages — gives the record a human quality that pure quantization would eliminate.\n\n**Ludwig Maple Capture:**\nThe Ludwig Classic Maple shells required careful EQ to preserve their warmth without muddying the mix. Suecof captured the toms with their natural sustain intact, then controlled room bleed through close-miking — allowing the shells' complex character to translate without overwhelming the guitars.",
+      "content": "The *Leveler* sessions at Audiohammer Studios in Sanford, Florida, with producer Jason Suecof were designed to capture both the aggression and the musical complexity that define August Burns Red's approach. Suecof — known for his work with Trivium, The Black Dahlia Murder, and other metal heavyweights — understood how to translate technical drumming into a studio environment without sacrificing feel.\n\n**The Technical Challenge:**\n*Leveler* presented specific recording challenges that simpler metalcore albums don't face. Songs shift time signatures mid-phrase; double-bass patterns accelerate and decelerate within single measures; Greiner's ghost note density requires a setup where subtle dynamics translate rather than disappear. Suecof addressed this through careful microphone placement and minimal processing — preserving the full dynamic range of Greiner's playing.\n\n**Microphone Approach:**\n- Kick drums: dual miking with inside and outside capsules for attack and resonance blend\n- Snare: top and bottom microphones capturing crack and snare wire response\n- Toms: close-miking on each tom for definition, minimal room bleed\n- Cymbals: overheads in spaced pair configuration, capturing the newly solidified Meinl Byzance setup's natural complexity\n- Room mics: light room ambience preserving the studio's natural acoustic character\n\n**Click Track and Feel:**\nUnlike some metalcore productions that edit drums to a rigid grid, Greiner's *Leveler* performances retained natural tempo feel within the precise framework. The interaction between the click track and Greiner's interpretive playing — particularly on the album's most complex passages — gives the record a human quality that pure quantization would eliminate.\n\n**Pearl Reference Capture:**\nThe Pearl Reference shells required careful EQ to preserve their warmth without muddying the mix. Suecof captured the toms with their natural sustain intact, then controlled room bleed through close-miking — allowing the shells' complex character to translate without overwhelming the guitars.",
       "keyTechniques": [
         "Dual microphone setup on each bass drum — inside attack plus outside resonance blend",
         "Top and bottom snare miking preserving both crack and ghost note dynamics",
@@ -940,7 +937,7 @@ export const articles = {
           "Sustained double-bass work across the track's full length demonstrates the physical and technical endurance Greiner's lever technique enables",
           "Dynamic contrast between clean and heavy sections shows Greiner's range — from subtle ride work to explosive crash patterns"
         ],
-        "gearNotes": "The Ludwig Classic Maple toms sustain through the complex meter changes, adding musical weight rather than sharp punctuation. The DW 9000's consistent feel across extended passages is audible in the kick's even attack throughout."
+        "gearNotes": "The Pearl Reference toms sustain through the complex meter changes, adding musical weight rather than sharp punctuation. Greiner's consistent lever-driven technique is audible in the kick's even attack throughout, regardless of the undocumented pedal brand."
       },
       {
         "track": "Leveler",
@@ -952,7 +949,7 @@ export const articles = {
           "Ghost note work in the verses provides rhythmic texture beneath the main patterns",
           "Section transitions demonstrate precise cymbal crash placement — each accent lands exactly where the musical phrase demands"
         ],
-        "gearNotes": "The Paiste 2002 crashes cut through JB Brubaker's dense guitar work cleanly. The Vic Firth signature sticks' custom taper allows Greiner to transition between power and finesse within the track without adjusting technique."
+        "gearNotes": "The Meinl Byzance crashes cut through JB Brubaker's dense guitar work cleanly. The Vic Firth 5A sticks' balanced taper allows Greiner to transition between power and finesse within the track without adjusting technique."
       },
       {
         "track": "Pangaea",
@@ -964,7 +961,7 @@ export const articles = {
           "The contrast between driving double-bass sections and more open, melodic passages showcases dynamic range",
           "China cymbal used sparingly for maximum impact — each hit a deliberate compositional choice"
         ],
-        "gearNotes": "The 18\" Paiste 2002 China lands with controlled aggression — Greiner deploys it at section climaxes rather than throughout, giving each hit more musical weight."
+        "gearNotes": "The 18\" Meinl Byzance China lands with controlled aggression — Greiner deploys it at section climaxes rather than throughout, giving each hit more musical weight."
       },
       {
         "track": "Carillion",
@@ -976,13 +973,13 @@ export const articles = {
           "Consistent hi-hat pattern with subtle variations keeps the groove active without demanding attention",
           "Double-bass pattern drives the track forward without dominating — Greiner's restraint is as impressive as his technical capability"
         ],
-        "gearNotes": "The Ludwig Classic Maple snare's aluminum shell provides the crisp backbeat that drives the track. Hi-hat clarity through the Paiste 2002 Sound Edge keeps the rhythm articulate at speed."
+        "gearNotes": "The Pearl Reference snare's steel shell provides the crisp backbeat that drives the track. Hi-hat clarity through the Meinl Byzance Medium hats keeps the rhythm articulate at speed."
       }
     ],
     "faq": [
       {
         "question": "What drums did Matt Greiner use on Leveler?",
-        "answer": "On *Leveler* (2011), Matt Greiner played a Ludwig Classic Maple kit — a 4-piece configuration centered on dual 22\" bass drums, two rack toms (10\", 12\"), and a 16\" floor tom. The Ludwig Classic Maple's 6-ply North American maple shells produced the warm, complex tone characteristic of *Leveler*'s drum sound. Greiner later transitioned to a Pearl Reference Pure kit, but the Ludwig era — documented on *Leveler* — represents a distinctly different tonal chapter in his career. For his complete current setup, see the [Matt Greiner drum setup guide](/articles/matt-greiner-complete-drum-setup)."
+        "answer": "On *Leveler* (2011), Matt Greiner played a Pearl Reference kit — a 4-piece configuration centered on dual 22\" bass drums, two rack toms (10\", 12\"), and a 16\" floor tom. The Reference series' hybrid maple/birch/mahogany shells produced the warm, complex tone characteristic of *Leveler*'s drum sound — an upgrade from the Export/Vision kits of the band's earlier records. Greiner later refined further into a Pearl Reference Pure kit, continuing the same underlying Pearl relationship. For his complete current setup, see the [Matt Greiner drum setup guide](/articles/matt-greiner-complete-drum-setup)."
       },
       {
         "question": "What is Matt Greiner known for technically?",
@@ -994,37 +991,37 @@ export const articles = {
       },
       {
         "question": "What cymbals did Matt Greiner use on Leveler?",
-        "answer": "During the *Leveler* (2011) sessions, Matt Greiner used Paiste 2002 cymbals — one of the most respected series in metal history. His setup included Paiste 2002 14\" Sound Edge hi-hats, 16\" and 18\" crashes, a 20\" Heavy Ride, and an 18\" China cymbal. Paiste's CuSn8 bronze alloy gives the 2002 series a combination of cutting attack and warm sustain well-suited to metalcore's dense guitar textures. Greiner later moved toward Meinl Byzance cymbals as his endorsement relationships evolved, but the Paiste era defined *Leveler*'s cymbal character. For his complete current cymbal setup, see the [Matt Greiner complete drum setup](/articles/matt-greiner-complete-drum-setup)."
+        "answer": "During the *Leveler* (2011) sessions, Matt Greiner's long-developing Meinl cymbal endorsement solidified into the named Byzance series — one of the most respected hand-hammered Turkish bronze lines in metal. His setup included Meinl Byzance 14\" Medium hi-hats, 16\" and 18\" Medium Thin crashes, a 20\" Medium Ride, and an 18\" China cymbal. The Byzance's B20 bronze construction gives it a combination of controlled attack and dark, complex sustain well-suited to metalcore's dense guitar textures. This Byzance setup, first solidified around *Leveler*, carried through as Greiner's signature cymbal sound. For his complete current cymbal setup, see the [Matt Greiner complete drum setup](/articles/matt-greiner-complete-drum-setup)."
       }
     ],
     "evolution": {
       "title": "From Leveler to Today: Matt Greiner's Gear Evolution",
-      "content": "*Leveler* (2011) captured Matt Greiner at a pivotal moment: technically developed, creatively ambitious, and committed to a gear philosophy that prioritized warmth and complexity over modern precision. The years since have seen his setup evolve significantly while his fundamental approach — musicality before aggression, composition before execution — remained constant.\n\n**The Ludwig Era (through ~2012):**\nThe Ludwig Classic Maple period encompassed *Leveler* and represented Greiner's approach to vintage-influenced sound in a modern context. The warm shells, Paiste 2002 cymbals, and DW 9000 pedals formed a coherent system that gave ABR's music its characteristic combination of heaviness and musical sophistication.\n\n**The Pearl Transition:**\nGreiner's move to Pearl drums — eventually culminating in the Pearl Reference Pure kit he plays today — brought a different tonal character: tighter, more articulate, with the maple/mahogany hybrid shells providing a different balance of attack and body. The Pearl Demon Drive pedals replaced the DW 9000, offering a different mechanical feel suited to Greiner's evolving technique.\n\n**The Meinl Byzance Era:**\nThe shift from Paiste 2002 to Meinl Byzance cymbals brought his setup further into modern metalcore territory. Where the 2002's bronze complexity suited *Leveler*'s progressive ambitions, the Byzance's more controlled, precise character complements ABR's current production approach.",
+      "content": "*Leveler* (2011) captured Matt Greiner at a pivotal moment: technically developed, creatively ambitious, and playing a Pearl Reference kit with a Meinl cymbal endorsement that had just solidified into the named Byzance series. The years since have seen his setup refine further while his fundamental approach — musicality before aggression, composition before execution — remained constant.\n\n**The Pearl Reference Era (~2011):**\nThe Pearl Reference period encompassed *Leveler* and represented a meaningful upgrade from the Export/Vision kits of the band's earlier records. The more refined shells, the newly solidified Meinl Byzance cymbals, and a double pedal (brand not documented for this era) formed a coherent system that gave ABR's music its characteristic combination of heaviness and musical sophistication.\n\n**The Pearl Reference Pure Transition:**\nGreiner's further move to Pearl Reference Pure — the kit he plays today — brought an even more refined tonal character: tighter, more articulate, with 100% maple shells providing a different balance of attack and body than the hybrid Reference shells of the *Leveler* era.\n\n**The Meinl Byzance Era, Continued:**\nThe Byzance series that solidified around *Leveler* has remained Greiner's cymbal voice ever since — the dark, controlled character that first appeared on this record carried through the rest of his acclaimed studio work.",
       "thenVsNow": [
         {
           "category": "Kit",
-          "then": "Ludwig Classic Maple (6-ply maple)",
+          "then": "Pearl Reference (hybrid maple/birch/mahogany)",
           "now": "Pearl Reference Pure (maple/mahogany hybrid)"
         },
         {
           "category": "Snare",
-          "then": "Ludwig Acrolite / Supraphonic aluminum",
+          "then": "Pearl Reference Steel 14\" x 5.5\"",
           "now": "Pearl Matt Greiner Signature 14\" x 6\" steel"
         },
         {
           "category": "Cymbals",
-          "then": "Paiste 2002 series",
+          "then": "Meinl Byzance series (newly solidified)",
           "now": "Meinl Byzance series"
         },
         {
           "category": "Pedals",
-          "then": "DW 9000 Double Pedal",
+          "then": "Double pedal (brand not documented for this era)",
           "now": "Pearl Demon Drive Double Pedal"
         },
         {
           "category": "Sticks",
-          "then": "Vic Firth Matt Greiner Signature",
-          "now": "Vic Firth Matt Greiner Signature (updated spec)"
+          "then": "Vic Firth American Classic 5A",
+          "now": "Vic Firth Matt Greiner Signature"
         }
       ]
     },
@@ -1055,16 +1052,12 @@ export const articles = {
         "url": "/techniques/metalcore-drumming"
       },
       {
-        "text": "Ludwig drums brand overview",
-        "url": "/gear/ludwig"
+        "text": "Pearl drums brand overview",
+        "url": "/gear/pearl"
       },
       {
-        "text": "Paiste cymbals brand overview",
-        "url": "/gear/paiste"
-      },
-      {
-        "text": "DW drums and hardware",
-        "url": "/gear/dw"
+        "text": "Meinl cymbals brand overview",
+        "url": "/gear/meinl"
       }
     ],
     "schema": {
@@ -1073,7 +1066,7 @@ export const articles = {
         {
           "@type": "Article",
           "headline": "Leveler Drum Setup: Matt Greiner's Gear on August Burns Red's 2011 Album",
-          "description": "Discover the exact drum kit, cymbals, and gear Matt Greiner used to record August Burns Red's Grammy-nominated Leveler (2011). Complete breakdown of the Ludwig Classic Maple kit, Paiste 2002 cymbals, and DW 9000 double pedal.",
+          "description": "Discover the exact drum kit, cymbals, and gear Matt Greiner used to record August Burns Red's Grammy-nominated Leveler (2011). Complete breakdown of the Pearl Reference kit, the newly solidified Meinl Byzance cymbal setup, and his double-pedal foundation.",
           "author": {
             "@type": "Organization",
             "name": "MetalForge Editorial"
@@ -1154,7 +1147,7 @@ export const articles = {
               "name": "What drums did Matt Greiner use on Leveler?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "On Leveler (2011), Matt Greiner used a Ludwig Classic Maple 4-piece kit with dual 22\" bass drums, 10\" and 12\" rack toms, and a 16\" floor tom. Paired with Paiste 2002 cymbals and a DW 9000 double pedal."
+                "text": "On Leveler (2011), Matt Greiner used a Pearl Reference 4-piece kit with dual 22\" bass drums, 10\" and 12\" rack toms, and a 16\" floor tom. Paired with the newly solidified Meinl Byzance cymbal series and a double pedal (specific brand not documented for this era)."
               }
             },
             {
@@ -1178,7 +1171,7 @@ export const articles = {
               "name": "What cymbals did Matt Greiner use on Leveler?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Matt Greiner used Paiste 2002 cymbals on Leveler — 14\" Sound Edge hi-hats, 16\" and 18\" crashes, a 20\" Heavy Ride, and an 18\" China cymbal. He later transitioned to Meinl Byzance cymbals."
+                "text": "Matt Greiner's Meinl cymbal endorsement solidified into the named Byzance series on Leveler — 14\" Medium hi-hats, 16\" and 18\" Medium Thin crashes, a 20\" Medium Ride, and an 18\" China cymbal. The Byzance series has remained his signature cymbal sound ever since."
               }
             }
           ]
@@ -1187,7 +1180,7 @@ export const articles = {
     },
     "conclusion": {
       "title": "Leveler's Legacy: The Album That Redefined Metalcore Drumming",
-      "content": "*Leveler* (2011) stands as the definitive argument that metalcore and musical sophistication are not in conflict. August Burns Red built an album where technical aggression and compositional ambition reinforced each other, and Matt Greiner's drumming was the foundation that made that argument convincing.\n\nThe Ludwig Classic Maple / Paiste 2002 / DW 9000 combination that powered *Leveler* was not accidental. Greiner chose tools that matched his musical philosophy: warmth over mere attack, mechanical precision that served feel rather than replacing it, cymbals complex enough to function as musical elements rather than just accents.\n\n**For Drummers Studying Leveler:**\nThe most important lesson from *Leveler* isn't technical — it's compositional. Study how Greiner's drum parts on \"Empire\" and \"Pangaea\" function as independent musical voices that engage with the guitar work rather than simply supporting it. Study the ghost note density on \"Carillion\" and \"Blamed Identity\" — how subtle dynamics create rhythmic texture that the blunter approach of many metalcore drummers eliminates. Then note how this complexity never overwhelms the song's forward momentum. Sophistication in service of the groove, always.\n\n**The Gear Legacy:**\nLudwig Classic Maple drums remain available and affordable by professional standards — a choice that continues to suit drummers who prioritize warmth and complexity. Paiste 2002 cymbals have never left production since 1971 and remain the authentic bronze choice for players who want cutting attack with musical sustain. The DW 9000 double pedal continues as a professional benchmark.\n\nFor Matt Greiner's current gear — the Pearl Reference Pure and Meinl Byzance setup he plays today — see the [Matt Greiner complete drum setup guide](/articles/matt-greiner-complete-drum-setup). For the broader context of his influence on metalcore drumming, see his [full drummer profile](/drummer/matt-greiner)."
+      "content": "*Leveler* (2011) stands as the definitive argument that metalcore and musical sophistication are not in conflict. August Burns Red built an album where technical aggression and compositional ambition reinforced each other, and Matt Greiner's drumming was the foundation that made that argument convincing.\n\nThe Pearl Reference kit and newly solidified Meinl Byzance cymbal series that powered *Leveler* reflected a maturing endorsement relationship falling into place at exactly the right moment. Greiner's tools matched his musical philosophy: refined shells over mere attack, mechanical technique that served feel rather than replacing it, cymbals complex enough to function as musical elements rather than just accents.\n\n**For Drummers Studying Leveler:**\nThe most important lesson from *Leveler* isn't technical — it's compositional. Study how Greiner's drum parts on \"Empire\" and \"Pangaea\" function as independent musical voices that engage with the guitar work rather than simply supporting it. Study the ghost note density on \"Carillion\" and \"Blamed Identity\" — how subtle dynamics create rhythmic texture that the blunter approach of many metalcore drummers eliminates. Then note how this complexity never overwhelms the song's forward momentum. Sophistication in service of the groove, always.\n\n**The Gear Legacy:**\nPearl's Reference series remains a respected professional-tier offering, and Greiner's own path through it — Reference on *Leveler*, later refined to Reference Pure — traces the arc of a maturing artist's gear. The Meinl Byzance series that solidified around this record has remained his signature cymbal sound for over a decade.\n\nFor Matt Greiner's current gear — the Pearl Reference Pure and Meinl Byzance setup he plays today — see the [Matt Greiner complete drum setup guide](/articles/matt-greiner-complete-drum-setup). For the broader context of his influence on metalcore drumming, see his [full drummer profile](/drummer/matt-greiner)."
     }
   },
   "thrill-seeker-drum-setup": {
@@ -1531,7 +1524,7 @@ export const articles = {
     "dateModified": "2026-06-26",
     "author": "MetalForge Editorial",
     "title": "Messengers Drum Setup: Matt Greiner's Gear on August Burns Red's 2007 Breakthrough Album",
-    "description": "Discover the exact drum kit, cymbals, and gear Matt Greiner used on August Burns Red's Messengers (2007). Complete breakdown of the DW Performance Series kit, Wuhan cymbals, and DW 5000 pedals — the origin of one of metalcore's most influential drum setups.",
+    "description": "Discover the exact drum kit, cymbals, and gear Matt Greiner used on August Burns Red's Messengers (2007). Complete breakdown of the Pearl Export/Vision kit, his still-developing Meinl cymbal setup, and the double-pedal foundation — an early chapter of one of metalcore's most influential drum setups.",
     "seoKeywords": [
       "matt greiner drum setup",
       "matt greiner messengers drums",
@@ -1539,26 +1532,26 @@ export const articles = {
       "matt greiner first album drums",
       "what drums does matt greiner use",
       "august burns red 2007 drummer",
-      "matt greiner dw kit",
+      "matt greiner pearl kit",
       "metalcore drum setup 2007",
-      "dw performance series metalcore",
+      "pearl export vision metalcore",
       "matt greiner early setup"
     ],
     "ogImage": "/images/albums/messengers-drums.webp",
     "intro": {
       "title": "The Breakthrough: How Matt Greiner's Kit Launched August Burns Red",
-      "content": "Released on August 7, 2007, August Burns Red's *Messengers* was the album that announced Matt Greiner to the metal world. Where the band's debut *Thrill Seeker* (2005) had established their presence on Solid State Records, *Messengers* was the record that turned heads — a ferocious combination of metalcore aggression and melodic death metal precision that set a new bar for what the genre could achieve. At the rhythmic foundation of every track was a twenty-two-year-old Matt Greiner, playing with a ferocity and technical depth that belied his age.\n\n*Messengers* reached #13 on the US Christian Albums chart and rapidly became a touchstone for an entire generation of metalcore musicians. Tracks like \"Composure\" and \"Meddler\" showcased Greiner's signature blast-to-groove transitions — the ability to shift from controlled high-velocity blast beats directly into locked, syncopated grooves without losing the pocket or the connection to the riff. In a genre where many drummers treated blast beats as blunt instruments, Greiner treated them as compositional tools.\n\nWhat makes *Messengers* historically important beyond the music itself is the gear context. Greiner recorded the album on a DW Performance Series kit — before the signature DW Collector's endorsement that would follow — with Wuhan cymbals providing a raw, aggressive cymbal character that the later Meinl setup would refine. The DW 5000 series double pedals delivered the mechanical platform for his lever-driven kick technique at its earliest professional stage. This was not yet the polished, endorsed setup of a Grammy-nominated drummer. This was a young player, great instruments, and hungry playing.\n\nFor drummers and gear historians, *Messengers* represents the ground zero of Matt Greiner's documented setup — the baseline from which every subsequent evolution in his kit can be measured. The contrast with *Leveler* (2011) and beyond reveals how deliberate his choices became as his career advanced.",
+      "content": "Released on August 7, 2007, August Burns Red's *Messengers* was the album that announced Matt Greiner to the metal world. Where the band's debut *Thrill Seeker* (2005) had established their presence on Solid State Records, *Messengers* was the record that turned heads — a ferocious combination of metalcore aggression and melodic death metal precision that set a new bar for what the genre could achieve. At the rhythmic foundation of every track was a twenty-two-year-old Matt Greiner, playing with a ferocity and technical depth that belied his age.\n\n*Messengers* reached #13 on the US Christian Albums chart and rapidly became a touchstone for an entire generation of metalcore musicians. Tracks like \"Composure\" and \"Meddler\" showcased Greiner's signature blast-to-groove transitions — the ability to shift from controlled high-velocity blast beats directly into locked, syncopated grooves without losing the pocket or the connection to the riff. In a genre where many drummers treated blast beats as blunt instruments, Greiner treated them as compositional tools.\n\nWhat makes *Messengers* historically important beyond the music itself is the gear context. Greiner recorded the album on the Pearl Export/Vision kit that anchored his playing since co-founding the band in 2003, with a still-developing Meinl cymbal endorsement supplying a cymbal voice years before it would crystallize into the named Byzance setup he plays today. A double pedal delivered the mechanical platform for his lever-driven kick technique at its earliest professional stage. This was not yet the fully solidified endorsement setup that would arrive with *Leveler* in 2011. This was a young player, dependable instruments, and hungry playing.\n\nFor drummers and gear historians, *Messengers* represents an early chapter of Matt Greiner's documented setup — a point from which every subsequent evolution in his kit can be measured. The contrast with *Leveler* (2011) and beyond reveals how deliberate his choices became as his career advanced.",
       "keyPoints": [
         "Released August 7, 2007 on Solid State Records — the breakthrough that established ABR as metalcore leaders",
         "Charted #13 US Christian Albums — first major commercial moment for the band",
-        "Matt Greiner played DW Performance Series kit — pre-endorsement, raw, and aggressive",
-        "Wuhan cymbals gave Messengers its distinctly raw cymbal character before the Meinl era"
+        "Matt Greiner played a Pearl Export/Vision kit — continuing the Pearl relationship he signed in 2003",
+        "A still-developing Meinl cymbal endorsement gave Messengers its early cymbal character, years before the Byzance era"
       ]
     },
     "drumKit": {
-      "title": "Matt's Messengers Kit: DW Performance Series",
-      "brand": "DW",
-      "model": "DW Performance Series",
+      "title": "Matt's Messengers Kit: Pearl Export/Vision",
+      "brand": "Pearl",
+      "model": "Pearl Export/Vision Series",
       "finish": "Black Wrap",
       "config": {
         "bassdrums": [
@@ -1571,82 +1564,82 @@ export const articles = {
         "floorToms": [
           "16\" x 16\" Floor Tom"
         ],
-        "shells": "DW Performance Series — North American maple shells with HVX hardware"
+        "shells": "Pearl Export/Vision Series — poplar/mahogany-based shells, standard hardware"
       },
-      "description": "The DW Performance Series kit Matt Greiner used on *Messengers* was a professional instrument at a different price point than the DW Collector's Custom series he would later endorse — but in 2007, it was exactly the right tool for the record he was making. DW's Performance Series uses the same North American maple shell construction as their premium lines, with the distinction lying in the hardware class rather than the shell quality itself. The result is a kit that sounds genuinely professional while remaining accessible to a young band on a label that wasn't yet funding elaborate gear packages.\n\nThe maple shells delivered the warmth and resonance that would become a consistent characteristic of Greiner's drum sound across the early ABR records. Unlike the tighter, more articulate birch kits favored by some metalcore contemporaries, the Performance Series maple gave *Messengers* a full, resonant bottom end — bass drums with real fundamental thump, toms with natural sustain that filled the mix without over-processing.\n\nThe double 22\" bass drum configuration reflected Greiner's already-developed kick technique. His lever-driven approach — generating velocity through controlled ankle mechanics rather than raw leg force — required two fully independent kick drums, each delivering equivalent attack. At 22\", the bass drums hit the fundamental that metalcore's heavy riffs demanded while maintaining the response speed his fast patterns needed.\n\nThe compact tom configuration (two rack toms, one floor tom) was a deliberate choice that pushed Greiner toward creative fill patterns rather than kit-spanning runs. Every fill on *Messengers* is a compositional statement rather than a demonstration of equipment.",
+      "description": "The kit Matt Greiner used on *Messengers* continued the Pearl relationship he'd signed in 2003 when August Burns Red was founded — a modest step up from the stock Export-series kit documented on *Thrill Seeker* (2005), moving toward Pearl's Vision line as the band's touring budget grew. Pearl's Export and Vision series share a similar poplar/mahogany-based shell construction, with Vision offering marginally more refined hardware and finish — a natural progression for a young, developing endorsee rather than a wholesale gear change.\n\nThe shells delivered a warm, resonant character that became a consistent feature of Greiner's drum sound across the early ABR records. Bass drums carried real fundamental thump, and the toms sustained naturally without demanding heavy post-processing to fill the mix. That naturally full low end mattered on a record built around dense, layered guitar tracking, where a thin or brittle kit would have gotten lost beneath the mix rather than anchoring it.\n\nThe double 22\" bass drum configuration reflected Greiner's already-developed kick technique. His lever-driven approach — generating velocity through controlled ankle mechanics rather than raw leg force — required two fully independent kick drums, each delivering equivalent attack. At 22\", the bass drums hit the fundamental that metalcore's heavy riffs demanded while maintaining the response speed his fast patterns needed.\n\nThe compact tom configuration (two rack toms, one floor tom) was a deliberate choice that pushed Greiner toward creative fill patterns rather than kit-spanning runs. Every fill on *Messengers* is a compositional statement rather than a demonstration of equipment. It's a constraint that would carry through his entire recorded career: even after the shells changed, the two-rack, one-floor-tom footprint stayed largely intact.",
       "notes": [
-        "DW Performance Series: professional maple shells below Collector's tier — the pre-endorsement foundation",
+        "Pearl Export/Vision Series: a continuation of the Pearl relationship signed in 2003 — a modest step up from the Thrill Seeker-era Export kit",
         "Double 22\" kick: independent response essential for Greiner's lever-driven double bass from the start",
         "Compact tom setup encouraged compositional fills — a Greiner hallmark established on this album",
-        "Warmer, more resonant character than the attack-focused kits common in 2007 metalcore"
+        "Warm, resonant shell character consistent with Pearl's mid-tier construction of the era"
       ],
-      "estimatedValue": "$1,500–2,500 (2007) / $800–1,500 (used today)"
+      "estimatedValue": "$800–1,500 (2007) / $500–900 (used today)"
     },
     "snare": {
       "title": "The Messengers Snare: Attack and Crack for the Breakout Era",
-      "brand": "DW",
-      "model": "DW Collector's Steel Snare",
-      "size": "14\" x 5\"",
-      "shell": "Steel shell — sharp attack with sustain control",
-      "description": "Matt Greiner's snare on *Messengers* needed to cut through dense, heavily-distorted guitar arrangements while still providing the sensitivity for the dynamic ghost note work that set his playing apart from straightforward metalcore drummers. A steel snare delivered the bright, cutting attack that the record's production demanded.\n\nSteel snare drums produce a sharp, precise crack with a faster decay than wood-shell alternatives — qualities that translate directly to vinyl and digital recording in a dense metalcore mix. When JB Brubaker and John Benjamin's guitars fill the midrange with distorted metalcore riffs, the snare needs to occupy its own frequency space with authority. The steel shell's bright attack punches through without EQ manipulation, landing each backbeat exactly where the ear expects it.\n\nThe dynamic range of a quality steel snare also allowed Greiner to execute the ghost note work that characterized even his earliest professional playing. On *Messengers*, ghost notes appear beneath the primary backbeat patterns, creating rhythmic density that gives the grooves their forward momentum. The steel shell's responsiveness at lower tensions — maintaining control rather than collapsing under light strokes — made this possible.\n\nGreiner tuned the snare toward medium-high tension on *Messengers* — tight enough for the cutting attack that metalcore requires, but not so high as to eliminate the warmth and control that his playing demanded. This tuning approach would remain consistent across his early career.",
+      "brand": "Pearl",
+      "model": "Pearl Export/Vision Steel Snare",
+      "size": "14\" x 5.5\"",
+      "shell": "Steel shell — stock Export/Vision-series hardware",
+      "description": "Matt Greiner's snare on *Messengers* needed to cut through dense, heavily-distorted guitar arrangements while still providing the sensitivity for the dynamic ghost note work that set his playing apart from straightforward metalcore drummers. The steel-shell snare from his Pearl Export/Vision kit delivered the bright, cutting attack that the record's production demanded.\n\nSteel snare drums produce a sharp, precise crack with a faster decay than wood-shell alternatives — qualities that translate directly to vinyl and digital recording in a dense metalcore mix. When JB Brubaker and John Benjamin's guitars fill the midrange with distorted metalcore riffs, the snare needs to occupy its own frequency space with authority. The steel shell's bright attack punches through without EQ manipulation, landing each backbeat exactly where the ear expects it.\n\nThe dynamic range of a quality steel snare also allowed Greiner to execute the ghost note work that characterized even his earliest professional playing. On *Messengers*, ghost notes appear beneath the primary backbeat patterns, creating rhythmic density that gives the grooves their forward momentum. The steel shell's responsiveness at lower tensions — maintaining control rather than collapsing under light strokes — made this possible.\n\nGreiner tuned the snare toward medium-high tension on *Messengers* — tight enough for the cutting attack that metalcore requires, but not so high as to eliminate the warmth and control that his playing demanded. This tuning approach would remain consistent across his early career.",
       "tuningSetting": "Medium-high tension — cutting attack with controlled decay for dense mix penetration",
       "heads": "Remo Ambassador Coated (batter), Remo Ambassador Snare Side (resonant)",
-      "estimatedValue": "$200–400 (2007) / $150–300 (used today)"
+      "estimatedValue": "$120–200 (2007) / $80–150 (used today)"
     },
     "cymbals": {
-      "title": "Wuhan Cymbals: The Raw Edge of the Messengers Sound",
-      "brand": "Wuhan",
-      "series": "Wuhan Traditional Series",
+      "title": "Meinl: The Developing Cymbal Voice Behind Messengers",
+      "brand": "Meinl",
+      "series": "Meinl (developing endorsement — no named series documented for this era)",
       "setup": [
         {
           "type": "Hi-Hats",
-          "model": "Wuhan 14\" Traditional Hi-Hats",
+          "model": "Meinl 14\" Hi-Hats",
           "position": "Left side",
-          "notes": "Raw, aggressive attack — metalcore articulation with Chinese bronze character"
+          "notes": "Bright, functional attack — early Meinl endorsement gear, years before the named Byzance series"
         },
         {
           "type": "Crash (1)",
-          "model": "Wuhan 16\" Crash",
+          "model": "Meinl 16\" Crash",
           "position": "Left of hi-hats",
-          "notes": "Fast, trashy crash response for quick metalcore accent work"
+          "notes": "Fast crash response for quick metalcore accent work"
         },
         {
           "type": "Crash (2)",
-          "model": "Wuhan 18\" Crash",
+          "model": "Meinl 18\" Crash",
           "position": "Right side",
           "notes": "Heavier crash for section climaxes and sustained hits"
         },
         {
           "type": "Ride",
-          "model": "Wuhan 20\" Ride",
+          "model": "Meinl 20\" Ride",
           "position": "Far right",
-          "notes": "Full, washy ride character — raw bell with complex bow response"
+          "notes": "Full ride character supporting the album's driving sections"
         },
         {
           "type": "China",
-          "model": "Wuhan 18\" China",
+          "model": "Meinl 18\" China",
           "position": "Above floor tom",
-          "notes": "Aggressive, raw trashy character ideal for metalcore's most intense moments"
+          "notes": "Aggressive accent cymbal for metalcore's most intense moments"
         }
       ],
-      "description": "The Wuhan cymbals on *Messengers* gave the album a raw, aggressive cymbal character that stands distinct from the refined Meinl Byzance setup Greiner would later adopt. Wuhan cymbals are handmade from Chinese B20 bronze — the same alloy used by premium Turkish manufacturers — but finished with a raw, unlathed surface that produces a dirtier, more aggressive sound character. In 2007 metalcore, that rawness was an asset.\n\nThe Wuhan hi-hats provided a cutting, percussive attack that cut through the dense guitar arrangements without the musical complexity of the premium Swiss or Turkish bronze that Greiner would later favor. Their character is aggressive first, musical second — exactly what a band establishing its aggressive identity in a competitive genre required.\n\nThe crash and China combination gave Greiner maximum impact with minimal setup cost. Wuhan's China cymbals are particularly notable in the metalcore context: their unlathed, raw-edged construction produces a trashier, more aggressive sound than polished Turkish alternatives. On *Messengers*, that character served Greiner's blast-to-groove transitions perfectly — the China hit landing at the exact moment the riff shifted gave the transition its physical impact.\n\nWhere later Greiner setups with Meinl Byzance cymbals prioritized tonal complexity and musical refinement, the Wuhan setup on *Messengers* prioritized aggression and impact. The evolution from Wuhan to Meinl mirrors the evolution of ABR's sound from raw, early metalcore toward the progressive, musically sophisticated approach that would define *Leveler* (2011) and beyond.",
-      "estimatedValue": "$400–700 full setup (2007) / $300–500 today"
+      "description": "The Meinl cymbals on *Messengers* reflect the still-developing endorsement relationship Greiner had begun alongside his 2003 Pearl signing — the verified record of that relationship doesn't name a specific Meinl series for this era, just a cymbal endorsement in progress. What's audible on the record is a functional, cutting cymbal voice: bright hi-hats, responsive crashes, and an aggressive china that supported the band's direct metalcore attack, years before the named Byzance series became his signature sound.\n\nThe hi-hats provided the cutting, percussive attack that cut through the dense guitar arrangements. Their character prioritized aggression and clarity over the tonal complexity that would come to define his mature Byzance-era setup. That trade-off suited *Messengers*: a record built for impact and momentum rather than the nuanced dynamic layering that would come to define *Leveler* and beyond.\n\nThe crash and china combination gave Greiner impact without demanding an elaborate rig. On *Messengers*, that setup served Greiner's blast-to-groove transitions well — the china hit landing at the exact moment the riff shifted gave the transition its physical impact. A five-piece setup was enough; the record's aggression came from performance and production, not from cymbal quantity.\n\nWhere Greiner's later Byzance setup would prioritize tonal complexity and musical refinement, the early Meinl cymbals on *Messengers* prioritized directness — a cymbal voice still finding its identity, much like the band itself.",
+      "estimatedValue": "$300–500 full setup (2007)"
     },
     "hardware": {
-      "title": "DW 5000 Double Pedal: The Foundation of Greiner's Kick Technique",
+      "title": "Double Pedal Foundation: The Engine Behind Greiner's Early Kick Technique",
       "items": [
         {
           "type": "Bass Drum Pedal",
-          "brand": "DW",
-          "model": "DW 5000 Series Double Pedal",
-          "notes": "Chain-driven mechanism — the workhorse double pedal that established Greiner's lever-driven technique at the professional level",
-          "description": "The DW 5000 Series double pedal was Matt Greiner's kick platform during the *Messengers* era — a chain-driven professional pedal that combined reliability with adjustable feel. The 5000's dual-chain drive delivers consistent, predictable response across the full velocity range, which made it an ideal platform for Greiner's developing lever technique.\n\nGreiner's approach to double bass on *Messengers* was already technically sophisticated: lever-driven mechanics generated velocity through controlled ankle and calf engagement rather than brute leg force. The DW 5000's adjustable beater angle and spring tension allowed him to dial in the mechanical feel that his technique required. On tracks like \"Meddler\" and \"Composure,\" where the kick drives relentlessly beneath blast beats and syncopated grooves, that mechanical consistency was essential.\n\nThe 5000's reliability under touring conditions also mattered in 2007 — a young band playing Warped Tour and support slots needed equipment that didn't require constant maintenance. The DW 5000 was, and remains, a professional workhorse."
+          "brand": "Not publicly documented",
+          "model": null,
+          "notes": "No verified pre-2016 pedal brand is documented for Greiner; his earliest confirmed hardware endorsement (DW 9000 Series) dates to 2016",
+          "description": "No source independently documents the specific double pedal Matt Greiner used during the *Messengers* era, so this page does not assign one. What's audible on the record is the mechanical outcome: a lever-driven double bass technique, already sophisticated at twenty-two, generating velocity through controlled ankle and calf engagement rather than brute leg force.\n\nOn tracks like \"Meddler\" and \"Composure,\" where the kick drives relentlessly beneath blast beats and syncopated grooves, that technique — not a specific pedal brand — is what produces the consistent, even attack. Whatever double pedal setup Greiner used in 2007 simply needed to be reliable enough to survive Warped Tour and support-slot touring conditions without constant maintenance. A young, developing band on Solid State's roster in 2007 was unlikely to have a bespoke pedal deal at this stage regardless — the priority was gear that held up under a punishing tour schedule, not a named endorsement."
         },
         {
           "type": "Hi-Hat Stand",
-          "brand": "DW",
-          "model": "DW 9000 Hi-Hat Stand",
-          "notes": "DW 9000 hardware for stability — the one premium hardware piece in the 2007 setup"
+          "brand": "Pearl",
+          "model": "Pearl Export/Vision Hi-Hat Stand",
+          "notes": "Matched Pearl hardware from the same shell pack — standard-issue, no premium components"
         },
         {
           "type": "Throne",
@@ -1669,11 +1662,11 @@ export const articles = {
     },
     "recordingTechniques": {
       "title": "Recording Messengers: Raw Power at Audiohammer Studios",
-      "content": "The *Messengers* sessions at Audiohammer Studios with producer Jason Suecof captured August Burns Red at a formative moment: technically advanced enough to execute demanding arrangements, but still raw enough in their delivery that the performances carry a visceral, unpolished energy. Suecof — already developing the reputation for technical metal production that would define his career — understood how to translate that energy to record without sanitizing it.\n\n**The Production Approach:**\nUnlike the more refined, sonically complex approach Suecof would bring to *Leveler* (2011), *Messengers* was produced with directness as a priority. The DW Performance Series maple shells were captured with close microphone placement that emphasized attack and impact over room ambience. The Wuhan cymbals' raw character was preserved rather than corrected — their dirtier, more aggressive sound fitted the album's identity.\n\n**Microphone Approach:**\n- Kick drums: close-miking with inside capsule for sharp attack focus\n- Snare: top and bottom capture, emphasizing the steel shell's cutting crack\n- Toms: tight close-miking for definition and punch in the metalcore mix\n- Cymbals: overheads in X/Y or spaced pair, capturing the Wuhan's raw character\n- Minimal room ambience — dry, direct drum sound suited to 2007 metalcore production\n\n**The Click Track:**\nEven at *Messengers*, Greiner's technical discipline demanded a reliable click track foundation. His blast-to-groove transitions — the technique that became a signature element of ABR's approach — required absolute metric precision. The groove had to land exactly where the riff changed, which meant Greiner was already playing to click with the interpretive commitment that would characterize his entire career.\n\n**DW Performance Series Capture:**\nThe maple shells' natural warmth required less remedial EQ than the brighter, more aggressive kits common in 2007 metalcore production. Suecof captured the toms with their natural sustain intact — the decay curves of the maple shells give *Messengers*' drum sound its distinctive character even within the compressed, dense production context.",
+      "content": "The *Messengers* sessions at Audiohammer Studios with producer Jason Suecof captured August Burns Red at a formative moment: technically advanced enough to execute demanding arrangements, but still raw enough in their delivery that the performances carry a visceral, unpolished energy. Suecof — already developing the reputation for technical metal production that would define his career — understood how to translate that energy to record without sanitizing it.\n\n**The Production Approach:**\nUnlike the more refined, sonically complex approach Suecof would bring to *Leveler* (2011), *Messengers* was produced with directness as a priority. The Pearl Export/Vision shells were captured with close microphone placement that emphasized attack and impact over room ambience. The still-developing Meinl cymbal setup's functional, cutting character was preserved rather than smoothed over — a direct sound that fitted the album's identity.\n\n**Microphone Approach:**\n- Kick drums: close-miking with inside capsule for sharp attack focus\n- Snare: top and bottom capture, emphasizing the steel shell's cutting crack\n- Toms: tight close-miking for definition and punch in the metalcore mix\n- Cymbals: overheads in X/Y or spaced pair, capturing the early Meinl setup's direct character\n- Minimal room ambience — dry, direct drum sound suited to 2007 metalcore production\n\n**The Click Track:**\nEven at *Messengers*, Greiner's technical discipline demanded a reliable click track foundation. His blast-to-groove transitions — the technique that became a signature element of ABR's approach — required absolute metric precision. The groove had to land exactly where the riff changed, which meant Greiner was already playing to click with the interpretive commitment that would characterize his entire career.\n\n**Pearl Export/Vision Capture:**\nThe shells' natural warmth required less remedial EQ than the brighter, more aggressive kits common in 2007 metalcore production. Suecof captured the toms with their natural sustain intact — the decay curves of the Pearl shells give *Messengers*' drum sound its distinctive character even within the compressed, dense production context.",
       "keyTechniques": [
         "Close-miking approach emphasizing attack and directness over room ambience",
         "Steel snare captured with top/bottom pair for maximum crack and wire response",
-        "Wuhan cymbal character preserved — raw, aggressive overhead sound fitted the album's identity",
+        "Early Meinl cymbal character preserved — a direct, functional overhead sound that fitted the album's identity",
         "Precision click track work underlying Greiner's blast-to-groove transitions from the start"
       ]
     },
@@ -1688,7 +1681,7 @@ export const articles = {
           "The chorus double-bass pattern established a template that would be imitated across the genre for years",
           "Ghost note layering beneath the primary snare backbeat creates rhythmic texture that elevates the groove beyond simple 4/4"
         ],
-        "gearNotes": "The DW Performance Series toms sustain through the track's dynamic shifts, providing musical weight. The Wuhan crash responds instantly for the quick accent work between sections — their raw character amplifying the track's aggressive feel."
+        "gearNotes": "The Pearl Export/Vision toms sustain through the track's dynamic shifts, providing musical weight. The Meinl crash responds instantly for the quick accent work between sections — its direct character amplifying the track's aggressive feel."
       },
       {
         "track": "Meddler",
@@ -1700,7 +1693,7 @@ export const articles = {
           "The kick pattern under the groove sections demonstrates Greiner's early command of the lever-driven technique that would define his career",
           "China cymbal deployed at section shifts for maximum impact — each hit a deliberate compositional choice"
         ],
-        "gearNotes": "The DW 5000 double pedal's chain-driven consistency is audible in the kick pattern's even attack through the blast sections. The Wuhan China's raw trashy character amplifies the impact of each transition moment."
+        "gearNotes": "Greiner's lever-driven kick technique keeps the pattern's attack even through the blast sections regardless of pedal brand, which isn't independently documented for this era. The Meinl China's aggressive character amplifies the impact of each transition moment."
       },
       {
         "track": "The Truth of a Liar",
@@ -1712,7 +1705,7 @@ export const articles = {
           "Hi-hat patterns shift subtly throughout, maintaining rhythmic interest without demanding listener attention",
           "Double-bass presence is dynamic — entering at key moments rather than running continuously, which amplifies its impact"
         ],
-        "gearNotes": "The steel snare's cutting attack drives through the track's dense guitar arrangement cleanly. The Wuhan hi-hats' percussive, raw character keeps the pattern articulate without the cymbal taking over the mix."
+        "gearNotes": "The steel snare's cutting attack drives through the track's dense guitar arrangement cleanly. The Meinl hi-hats' percussive character keeps the pattern articulate without the cymbal taking over the mix."
       },
       {
         "track": "Existence",
@@ -1720,25 +1713,25 @@ export const articles = {
         "signature": "4/4",
         "highlights": [
           "One of the album's more direct tracks — demonstrating Greiner's ability to serve a straightforward metalcore arrangement with precision",
-          "Consistent double-bass driving under the verses shows the DW 5000's reliability across extended passages",
+          "Consistent double-bass driving under the verses shows Greiner's lever-driven technique holding up across extended passages",
           "Crash placement is compositional — each hit lands where the musical phrase demands, not simply on every beat",
           "The contrast between this track's directness and the complexity of \"Meddler\" shows Greiner's versatility even at this early stage"
         ],
-        "gearNotes": "The DW Performance Series bass drums' fundamental low-end drives the track's heaviness without muddying the mix. Wuhan crashes respond quickly for the accent work that punctuates the riff changes."
+        "gearNotes": "The Pearl Export/Vision bass drums' fundamental low-end drives the track's heaviness without muddying the mix. The Meinl crashes respond quickly for the accent work that punctuates the riff changes."
       }
     ],
     "faq": [
       {
         "question": "What gear did Matt Greiner use on Messengers?",
-        "answer": "On *Messengers* (2007), Matt Greiner played a DW Performance Series drum kit — a professional maple-shell setup that predated his later DW Collector's Custom endorsement. The configuration centered on dual 22\" bass drums, two rack toms (10\", 12\"), and a 16\" floor tom. For cymbals, he used Wuhan Traditional Series — Chinese B20 bronze cymbals with a raw, aggressive character that gave the album its distinctive cymbal sound before his Meinl endorsement. The bass drum pedal was a DW 5000 Series double pedal, and he played Vic Firth 5A sticks. The album was produced by Jason Suecof at Audiohammer Studios in Sanford, Florida. For his complete current setup, see the [Matt Greiner complete drum setup guide](/articles/matt-greiner-complete-drum-setup)."
+        "answer": "On *Messengers* (2007), Matt Greiner played a Pearl Export/Vision drum kit — a continuation of the Pearl relationship he signed when August Burns Red was founded in 2003. The configuration centered on dual 22\" bass drums, two rack toms (10\", 12\"), and a 16\" floor tom, essentially the same footprint he'd carry for years afterward. For cymbals, he used a still-developing Meinl setup — no specific series is documented for this era, years before the named Byzance line became his signature cymbal sound. No specific pedal brand is documented for this era, and he played Vic Firth 5A sticks. The album was produced by Jason Suecof at Audiohammer Studios in Sanford, Florida. For his complete current setup, see the [Matt Greiner complete drum setup guide](/articles/matt-greiner-complete-drum-setup)."
       },
       {
         "question": "How did Matt Greiner's kit evolve from Messengers to Leveler?",
-        "answer": "Matt Greiner's setup underwent significant evolution between *Messengers* (2007) and *Leveler* (2011), reflecting his growth from a young professional to an endorsed artist at the top of his genre. On *Messengers*, Greiner played a DW Performance Series kit with Wuhan cymbals and DW 5000 double pedals — capable professional tools, but pre-endorsement. By *Leveler*, he had moved to a Ludwig Classic Maple kit with Paiste 2002 cymbals and DW 9000 pedals — a refined setup that prioritized warmth and musical complexity over the raw aggression that characterized the Messengers era. The shift reflects ABR's own musical evolution: from the direct metalcore aggression of 2007 toward the progressive, compositionally sophisticated approach of 2011. For a full comparison, see the [Leveler drum setup article](/articles/leveler-drum-setup)."
+        "answer": "Matt Greiner's setup evolved gradually between *Messengers* (2007) and *Leveler* (2011), reflecting the same continuous Pearl and Meinl relationship growing more defined rather than a series of brand switches. On *Messengers*, Greiner played a Pearl Export/Vision kit with a still-developing Meinl cymbal setup. By *Leveler*, he had upgraded to a Pearl Reference kit and a fully solidified Meinl Byzance cymbal setup — a more refined tonal palette that suited the band's more progressive songwriting. The shift reflects ABR's own musical evolution: from the direct metalcore aggression of 2007 toward the progressive, compositionally sophisticated approach of 2011, all within the same underlying Pearl/Meinl gear relationship. For a full comparison, see the [Leveler drum setup article](/articles/leveler-drum-setup)."
       },
       {
         "question": "What cymbals does Matt Greiner use?",
-        "answer": "Matt Greiner's cymbal setup has evolved across three distinct eras. On *Messengers* (2007), he played Wuhan Traditional Series cymbals — Chinese B20 bronze with a raw, aggressive character suited to the album's direct metalcore approach. By *Leveler* (2011), he had transitioned to Paiste 2002 series cymbals, bringing more musical complexity and cutting attack to the Grammy-nominated record. Today, Greiner plays Meinl Byzance cymbals as part of his full Meinl endorsement — the Byzance series' darker, more controlled character reflecting his most sophisticated period as a player. The cymbal evolution from Wuhan to Meinl mirrors the sonic evolution of August Burns Red's own production approach. For his current setup, see the [Matt Greiner complete drum setup guide](/articles/matt-greiner-complete-drum-setup)."
+        "answer": "Matt Greiner's cymbal setup reflects one continuous Meinl relationship that has deepened over time. On *Messengers* (2007), he played a still-developing Meinl setup with no specific named series documented. By *Leveler* (2011), that relationship had solidified into the named Meinl Byzance series, bringing more defined tonal complexity to the Grammy-nominated record — the same Byzance series that carried through his current setup. The cymbal evolution from an unnamed early Meinl setup to the fully solidified Byzance series mirrors both his own maturing endorsement relationship and August Burns Red's evolving sonic identity. For his current setup, see the [Matt Greiner complete drum setup guide](/articles/matt-greiner-complete-drum-setup)."
       },
       {
         "question": "What makes Matt Greiner's drumming on Messengers significant?",
@@ -1747,26 +1740,26 @@ export const articles = {
     ],
     "evolution": {
       "title": "From Messengers to Leveler: Matt Greiner's Gear Journey",
-      "content": "*Messengers* (2007) captured Matt Greiner at the start of his journey — technically exceptional, but working with pre-endorsement professional gear that reflected the financial and industry reality of a young band on a mid-sized metal label. The fifteen years since have seen his setup evolve at every level while his fundamental identity as a drummer remained consistent.\n\n**The Messengers Era (2007):**\nDW Performance Series shells, Wuhan cymbals, DW 5000 pedals, Vic Firth 5A sticks. Professional tools at an accessible price point — the sound is raw, aggressive, and direct. This was Greiner establishing his foundation, not yet an endorsed artist but already playing at a level that would attract the attention that endorsements follow.\n\n**The Leveler Era (2011):**\nLudwig Classic Maple shells, Paiste 2002 cymbals, DW 9000 pedals, Vic Firth Matt Greiner Signature sticks. The shift to Ludwig brought warmth and musical complexity that the Performance Series never offered. Paiste 2002's cutting attack refined the cymbal sound. The upgrade from DW 5000 to 9000 pedals brought adjustable cam mechanics that better served Greiner's refined lever technique. The Grammy nomination for Best Metal Performance recognized this evolution at its peak.\n\n**The Current Era:**\nPearl Reference Pure shells, Meinl Byzance cymbals, Pearl Demon Drive pedals, Vic Firth Matt Greiner Signature sticks (updated spec). The Pearl period represents the fully matured, fully endorsed Greiner — a signature snare drum, complete company support, and the most technically refined setup of his career.",
+      "content": "*Messengers* (2007) captured Matt Greiner at the start of his recorded career — technically exceptional, playing the Pearl Export/Vision kit that anchored his still-developing endorsement relationships, on a young band from a mid-sized metal label. The years since have seen his setup evolve at every level while his fundamental identity as a drummer remained consistent.\n\n**The Messengers Era (2007):**\nPearl Export/Vision shells, an early, still-developing Meinl cymbal setup, a double pedal (brand not documented for this era), Vic Firth 5A sticks. Dependable tools at an accessible price point — the sound is direct and unpolished. This was Greiner establishing his foundation, his endorsement relationships still forming, but already playing at a level that would attract growing manufacturer support.\n\n**The Leveler Era (2011):**\nPearl Reference shells, Meinl Byzance cymbals (his cymbal relationship now fully solidified), a double pedal (brand not documented for this era), Vic Firth sticks. The upgrade to Pearl Reference brought a more refined tone than the earlier Export/Vision kit. The Byzance series' arrival refined the cymbal sound considerably over the early, unnamed Meinl setup. The Grammy nomination for Best Metal Performance recognized this evolution at its peak.\n\n**The Current Era:**\nPearl Reference Pure shells, Meinl Byzance cymbals, Pearl Demon Drive pedals, Vic Firth Matt Greiner Signature sticks. The Pearl/Meinl relationship that began with the *Messengers* era's early, developing endorsements matured into the fully solidified, fully endorsed setup that carried Greiner through the rest of his most acclaimed studio work.",
       "thenVsNow": [
         {
           "category": "Kit",
-          "then": "DW Performance Series (maple)",
+          "then": "Pearl Export/Vision Series (poplar/mahogany-based)",
           "now": "Pearl Reference Pure (maple/mahogany hybrid)"
         },
         {
           "category": "Snare",
-          "then": "DW steel snare",
+          "then": "Pearl Export/Vision steel snare",
           "now": "Pearl Matt Greiner Signature 14\" x 6\" steel"
         },
         {
           "category": "Cymbals",
-          "then": "Wuhan Traditional Series",
+          "then": "Meinl (developing endorsement, no named series yet)",
           "now": "Meinl Byzance series"
         },
         {
           "category": "Pedals",
-          "then": "DW 5000 Series Double Pedal",
+          "then": "Double pedal (brand not documented for this era)",
           "now": "Pearl Demon Drive Double Pedal"
         },
         {
@@ -1812,12 +1805,12 @@ export const articles = {
         "url": "/techniques/metalcore-drumming"
       },
       {
-        "text": "DW drums and hardware",
-        "url": "/gear/dw"
+        "text": "Pearl drums and hardware",
+        "url": "/gear/pearl"
       },
       {
-        "text": "Wuhan cymbals overview",
-        "url": "/gear/wuhan"
+        "text": "Meinl cymbals overview",
+        "url": "/gear/meinl"
       }
     ],
     "schema": {
@@ -1826,7 +1819,7 @@ export const articles = {
         {
           "@type": "Article",
           "headline": "Messengers Drum Setup: Matt Greiner's Gear on August Burns Red's 2007 Breakthrough Album",
-          "description": "Discover the exact drum kit, cymbals, and gear Matt Greiner used on August Burns Red's Messengers (2007). Complete breakdown of the DW Performance Series kit, Wuhan cymbals, and DW 5000 double pedals.",
+          "description": "Discover the exact drum kit, cymbals, and gear Matt Greiner used on August Burns Red's Messengers (2007). Complete breakdown of the Pearl Export/Vision kit, a still-developing Meinl cymbal setup, and his early double-pedal foundation.",
           "author": {
             "@type": "Organization",
             "name": "MetalForge Editorial"
@@ -1895,7 +1888,7 @@ export const articles = {
               "name": "What gear did Matt Greiner use on Messengers?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "On Messengers (2007), Matt Greiner played a DW Performance Series drum kit with Wuhan Traditional Series cymbals, DW 5000 Series double pedals, and Vic Firth 5A sticks. This pre-endorsement setup was recorded at Audiohammer Studios with producer Jason Suecof."
+                "text": "On Messengers (2007), Matt Greiner played a Pearl Export/Vision drum kit with a still-developing Meinl cymbal setup, a double pedal (specific brand not documented for this era), and Vic Firth 5A sticks. This early-endorsement setup was recorded at Audiohammer Studios with producer Jason Suecof."
               }
             },
             {
@@ -1903,7 +1896,7 @@ export const articles = {
               "name": "How did Matt Greiner's kit evolve from Messengers to Leveler?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Between Messengers (2007) and Leveler (2011), Greiner moved from a DW Performance Series kit with Wuhan cymbals and DW 5000 pedals to a Ludwig Classic Maple kit with Paiste 2002 cymbals and DW 9000 pedals. The evolution reflects both endorsement growth and ABR's musical progression from direct metalcore toward progressive complexity."
+                "text": "Between Messengers (2007) and Leveler (2011), Greiner moved from a Pearl Export/Vision kit with a still-developing Meinl cymbal setup to a Pearl Reference kit with the newly solidified Meinl Byzance cymbal series. The evolution reflects both his maturing Pearl/Meinl endorsement relationship and ABR's musical progression from direct metalcore toward progressive complexity."
               }
             },
             {
@@ -1911,7 +1904,7 @@ export const articles = {
               "name": "What cymbals does Matt Greiner use?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Matt Greiner has played three cymbal setups across his career: Wuhan Traditional Series on Messengers (2007), Paiste 2002 on Leveler (2011), and his current Meinl Byzance series as an endorsed artist. Each shift reflects both his growing reputation and ABR's evolving sonic identity."
+                "text": "Matt Greiner's cymbal career reflects one continuous, deepening Meinl relationship: a still-developing, unnamed Meinl setup on Messengers (2007), solidified into the named Meinl Byzance series by Leveler (2011), which carried through as his current setup. Each stage reflects both his growing reputation and ABR's evolving sonic identity."
               }
             }
           ]
@@ -1920,7 +1913,7 @@ export const articles = {
     },
     "conclusion": {
       "title": "Messengers' Legacy: The Album That Built Matt Greiner's Foundation",
-      "content": "*Messengers* (2007) is the document of Matt Greiner finding his voice. The techniques that would make him one of metalcore's most respected drummers — the blast-to-groove transitions, the ghost note integration, the compositional approach to fills — are all present here in their formative state. The DW Performance Series kit and Wuhan cymbals gave him professional tools at a critical moment, instruments capable of capturing performances that would introduce him to the metal world.\n\nThe contrast with *Leveler* (2011) is instructive precisely because the approach didn't change — the tools improved around it. When you hear the *Messengers* setup and then the *Leveler* setup back to back, the through-line of Greiner's musical identity is unmistakable. What changed was the refinement of the instruments, the production approach, and the endorsement relationships that reflected his growing stature in the genre.\n\n**For Drummers Studying Messengers:**\nThe most valuable lesson from *Messengers* is that excellent drumming doesn't require expensive gear. The DW Performance Series and Wuhan cymbals Greiner used in 2007 are accessible, professional instruments — and on this record, they powered performances that changed the trajectory of metalcore drumming. Study \"Meddler\" for the blast-to-groove transition. Study \"Composure\" for compositional approach to groove. Study \"The Truth of a Liar\" for dynamic range in a metalcore context. The tools are secondary to the technique.\n\n**The Gear Legacy:**\nDW Performance Series drums remain in production and represent excellent value for professional-level sound at an accessible price point. Wuhan cymbals continue to be made in China with the same raw B20 bronze character, and remain a popular choice for players who want aggressive cymbal sound at a fraction of premium brand prices.\n\nFor Matt Greiner's current gear and the full story of his evolution from *Messengers* to today, see the [Matt Greiner complete drum setup guide](/articles/matt-greiner-complete-drum-setup). For the next chapter in the ABR drum story, see the [Leveler drum setup article (2011)](/articles/leveler-drum-setup)."
+      "content": "*Messengers* (2007) is the document of Matt Greiner finding his voice. The techniques that would make him one of metalcore's most respected drummers — the blast-to-groove transitions, the ghost note integration, the compositional approach to fills — are all present here in their formative state. The Pearl Export/Vision kit and still-developing Meinl cymbal setup gave him dependable tools at a critical moment, instruments capable of capturing performances that would introduce him to the metal world.\n\nThe contrast with *Leveler* (2011) is instructive precisely because the approach didn't change — the tools matured around it. When you hear the *Messengers* setup and then the *Leveler* setup back to back, the through-line of Greiner's musical identity is unmistakable. What changed was the refinement of the instruments, the production approach, and the same Pearl/Meinl endorsement relationship solidifying into its named forms as his stature in the genre grew.\n\n**For Drummers Studying Messengers:**\nThe most valuable lesson from *Messengers* is that excellent drumming doesn't require an elaborate endorsement deal. The Pearl Export/Vision kit and early Meinl cymbals Greiner used in 2007 are accessible, dependable instruments — and on this record, they powered performances that changed the trajectory of metalcore drumming. Study \"Meddler\" for the blast-to-groove transition. Study \"Composure\" for compositional approach to groove. Study \"The Truth of a Liar\" for dynamic range in a metalcore context. The tools are secondary to the technique.\n\n**The Gear Legacy:**\nPearl's Export and Vision series remain in production and represent excellent value for accessible, professional-level sound. The Meinl relationship Greiner began developing on *Messengers* would go on to define his signature cymbal sound for over a decade.\n\nFor Matt Greiner's current gear and the full story of his evolution from *Messengers* to today, see the [Matt Greiner complete drum setup guide](/articles/matt-greiner-complete-drum-setup). For the next chapter in the ABR drum story, see the [Leveler drum setup article (2011)](/articles/leveler-drum-setup)."
     }
   },
   "rescue-and-restore-drum-setup": {

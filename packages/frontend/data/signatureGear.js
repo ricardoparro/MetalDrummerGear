@@ -44,9 +44,7 @@ The development process was intense. Joey worked closely with Pearl's engineers 
 "I wanted something that sounded like a gunshot," Joey explained in a 2004 Modern Drummer interview. "Not warm and pretty—I wanted pure aggression. The 13-inch size gives me that tight, focused crack that cuts through everything."
 
 The Iowa Sessions (2001):
-Joey recorded the entire Iowa album with this snare, creating what many consider the most intense drum recording in metal history. The snare's cutting attack punches through the album's dense, down-tuned guitar walls on tracks like "People = Shit," "Disasterpieces," and "The Heretic Anthem."
-
-Production engineer Ross Robinson noted: "That snare was perfect for what we were trying to achieve. It had this almost violent quality—like it was attacking you. Most snares get lost in a mix that heavy, but Joey's cut through like nothing else."
+Joey was three years into his Pearl endorsement—signed in 1999 after Slipknot's debut—when the band recorded Iowa, widely regarded as one of the most intense drum performances in metal history. His playing drove the album's dense, down-tuned guitar walls on tracks like "People = Shit," "Disasterpieces," and "The Heretic Anthem," but on his general Pearl kit of that era, not this signature model: the dedicated Joey Jordison Signature Snare wouldn't launch until 2010, nine years after Iowa's release.
 
 Legacy:
 The Pearl Joey Jordison Signature Snare became one of the best-selling signature drums in metal history. Its influence extended beyond Slipknot fans to death metal, hardcore, and industrial drummers seeking that same aggressive bite. Even after Joey's passing in 2021, the snare remains a favorite among metal drummers worldwide.`,

@@ -1692,7 +1692,7 @@ const drummers = [
     country: 'USA',
     image: '/images/drummers/alex-bent.webp',
     bio: 'Alex Bent, born January 31, 1993, in Oakland, California, is a versatile drummer known for his technical proficiency across multiple metal subgenres. He joined Trivium in 2017, replacing Paul Wandtke, and recorded three critically acclaimed albums with the band: "The Sin and the Sentence" (2017), "What the Dead Men Say" (2020), and "In the Court of the Dragon" (2021). Before Trivium, he played with technical death metal bands Arkaik and Brain Drill, and filled in for Gene Hoglan on Testament tours. He also drums for Eric Peterson\'s Dragonlord. Self-taught from age 11, Bent competed in Guitar Center Drum Off competitions and brings a unique blend of death metal technicality and thrash metal power to his playing.',
-    kitOverview: 'Alex Bent plays a Pearl Reference Pure Series drum kit — a setup built for the technical precision and cross-genre versatility he brought to Trivium from 2017 to 2024, after cutting his teeth in technical death metal outfits Arkaik and Brain Drill. The kit powered three Trivium albums, "The Sin and the Sentence" (2017), "What the Dead Men Say" (2020), and "In the Court of the Dragon" (2021), and continues to serve his work with Eric Peterson\'s Dragonlord.\n\nThe foundation of the Alex Bent drum kit is his Pearl Reference 14x5" Brass snare, delivering the bright, cutting attack that drives Trivium\'s thrash-meets-technical-death-metal sound. Zildjian K Custom Hybrid cymbals define the setup: 14" K Custom Hybrid Hi-Hats for crisp articulation, 18" and 19" K Custom Hybrid Crashes for dark, trashy accents, and a 21" K Custom Hybrid Ride for a dry, complex wash, paired with an 18" A Custom China for aggressive punctuation. Bent\'s rapid double bass work is powered by Axis A Longboard double pedals, mounted on a Pearl D-3000 throne, with Vic Firth American Classic 5B sticks and Remo heads rounding out a rig built for speed and technicality.',
+    kitOverview: 'Alex Bent plays a Tama Starclassic Maple drum kit — a setup built for the technical precision and cross-genre versatility he brought to Trivium from 2017 to 2024, after cutting his teeth in technical death metal outfits Arkaik and Brain Drill. The kit powered three Trivium albums, "The Sin and the Sentence" (2017), "What the Dead Men Say" (2020), and "In the Court of the Dragon" (2021), and continues to serve his work with Eric Peterson\'s Dragonlord.\n\nThe foundation of the Alex Bent drum kit is his Tama Starclassic Maple 14x5" snare, delivering the bright, cutting attack that drives Trivium\'s thrash-meets-technical-death-metal sound. Zildjian K Custom Hybrid cymbals define the setup: 14" K Custom Hybrid Hi-Hats for crisp articulation, 18" and 19" K Custom Hybrid Crashes for dark, trashy accents, and a 21" K Custom Hybrid Ride for a dry, complex wash, paired with an 18" A Custom China for aggressive punctuation. Bent\'s rapid double bass work is powered by Axis A Longboard double pedals, mounted on a Pearl D-3000 throne, with Vic Firth American Classic 5B sticks and Remo heads rounding out a rig built for speed and technicality.',
     sameAs: [
       'https://en.wikipedia.org/wiki/Alex_Bent',
       'https://www.instagram.com/alexbentdrums/',
@@ -1700,21 +1700,21 @@ const drummers = [
       'https://www.allmusic.com/artist/alex-bent-mn0003242684'
     ],
     gear: {
-      drums: 'Pearl Reference Pure Series',
-      snare: 'Pearl Reference 14x5" Brass',
+      drums: 'Tama Starclassic Maple',
+      snare: 'Tama Starclassic Maple 14x5"',
       cymbals: 'Zildjian (14" K Custom Hybrid Hi-Hats, 18" & 19" K Custom Hybrid Crashes, 21" K Custom Hybrid Ride, 18" A Custom China)',
       hardware: 'Axis A Longboard Double Pedal, Pearl D-3000 Throne',
       sticks: 'Vic Firth American Classic 5B',
       heads: 'Remo',
       verified: true,
       verifiedAt: '2026-02-02',
-      sources: ['https://en.wikipedia.org/wiki/Alex_Bent', 'https://www.axispercussion.com/artists-a-f/']
+      sources: ['https://en.wikipedia.org/wiki/Alex_Bent', 'https://www.axispercussion.com/artists-a-f/', 'https://www.tama.com/usa/artists/detail/1446.html']
     },
     photos: [
       '/images/drummers/alex-bent.webp' // Original: https://upload.wikimedia.org/wikipedia/commons/5/59/Trivium_%2836826824775%29_%28cropped%29.jpg
     ],
     endorsements: [
-      { name: 'Pearl Drums', url: 'https://pearldrum.com' },
+      { name: 'Tama Drums', url: 'https://www.tama.com' },
       { name: 'Zildjian Cymbals', url: 'https://zildjian.com' },
       { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' },
       { name: 'Remo Drumheads', url: 'https://remo.com' },

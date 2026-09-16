@@ -905,12 +905,12 @@ export const articles = {
         "signature": "4/4",
         "highlights": [
           "Groove-focused verses with dynamic contrast — rare for Sepultura in this era",
-          "Ghost notes visible in the verse snare patterns — Byzance sensitivity audible",
+          "Ghost notes visible in the verse snare patterns — Paiste RUDE sensitivity audible",
           "Complex hi-hat patterns driving the mid-section groove",
           "Demonstrates Eloy's musical range beyond pure thrash aggression",
           "The dynamic build to the chorus relies entirely on Eloy's gradations"
         ],
-        "gearNotes": "The Byzance Traditional hi-hats' warm, natural response is central to the verse groove. Ghost notes audible thanks to Bogren's production philosophy preserving dynamic range."
+        "gearNotes": "The Paiste RUDE hi-hats' warm, natural response is central to the verse groove. Ghost notes audible thanks to Bogren's production philosophy preserving dynamic range."
       },
       {
         "track": "Capital Enslavement",
@@ -919,7 +919,7 @@ export const articles = {
         "highlights": [
           "One of the album's most technically demanding passages",
           "Complex bass drum patterns against independent snare and hi-hat work",
-          "Byzance China cymbal usage at riff transition points throughout",
+          "Paiste RUDE Wild China cymbal usage at riff transition points throughout",
           "Sustained double-bass intensity across full song length",
           "Eloy's four-limb independence at near-peak demand"
         ],
@@ -931,7 +931,7 @@ export const articles = {
         "signature": "4/4",
         "highlights": [
           "Mid-paced track showcasing Eloy's groove consciousness",
-          "Byzance Ride cymbal featured prominently in the arrangement",
+          "Paiste 2002 Power Ride cymbal featured prominently in the arrangement",
           "Snare dynamics: full backbeats contrasted with ghost-noted verses",
           "Tom work carrying melodic information through the Starclassic Walnut/Birch's resonance",
           "Demonstrates that Eloy's Sepultura role was always more than thrash execution"
@@ -972,7 +972,7 @@ export const articles = {
     },
     "technicalAnalysis": {
       "title": "Eloy's Quadra Technique: The Blueprint",
-      "content": "On *Quadra*, Eloy Casagrande played with a technical authority and musical intelligence that elevated the album above typical extreme metal production. The specific technical attributes that Jens Bogren's production captured can be identified and studied in every track.\n\n**Double-Bass at Sustained Tempos:**\n*Quadra*'s most demanding passages require sustained double-bass at 180-200+ BPM without degradation of evenness or volume. Eloy's Speed Cobra double pedal and his developed ankle-driven heel-up technique made this possible: the mechanical advantage of the double pedal's rolling glide cam, combined with years of conditioning, allowed him to execute these passages throughout entire songs — not just brief showcase sections.\n\n**Four-Limb Independence:**\nThroughout *Quadra*, Eloy maintains complex coordination across all four limbs simultaneously. Hi-hat foot patterns continue during fill sequences. Bass drum patterns continue during cymbal accents. Snare patterns continue during tom runs. This four-limb independence — developed through years of intense Sepultura live performance — is the fundamental technical foundation beneath everything else on the record.\n\n**Ghost Note Integration:**\nOne of the most striking technical elements on *Quadra* is Eloy's integration of ghost notes into grooves that would be purely aggressive in other players' hands. The Byzance Traditional hi-hats' sensitivity and Bogren's dynamic-preserving production philosophy allowed these subtle strokes to remain audible in the mix, adding rhythmic texture that lifts the grooves beyond simple thrash patterns.\n\n**Musical Fill Placement:**\nAt the technical level Eloy operates, fills can easily become exercises in speed for its own sake. On *Quadra*, every fill serves the arrangement: positioned at structural boundaries, shaped to transition between sections, and calibrated to the dynamic level of the surrounding music. This is the musical intelligence that separated Eloy from technically equivalent drummers.",
+      "content": "On *Quadra*, Eloy Casagrande played with a technical authority and musical intelligence that elevated the album above typical extreme metal production. The specific technical attributes that Jens Bogren's production captured can be identified and studied in every track.\n\n**Double-Bass at Sustained Tempos:**\n*Quadra*'s most demanding passages require sustained double-bass at 180-200+ BPM without degradation of evenness or volume. Eloy's Speed Cobra double pedal and his developed ankle-driven heel-up technique made this possible: the mechanical advantage of the double pedal's rolling glide cam, combined with years of conditioning, allowed him to execute these passages throughout entire songs — not just brief showcase sections.\n\n**Four-Limb Independence:**\nThroughout *Quadra*, Eloy maintains complex coordination across all four limbs simultaneously. Hi-hat foot patterns continue during fill sequences. Bass drum patterns continue during cymbal accents. Snare patterns continue during tom runs. This four-limb independence — developed through years of intense Sepultura live performance — is the fundamental technical foundation beneath everything else on the record.\n\n**Ghost Note Integration:**\nOne of the most striking technical elements on *Quadra* is Eloy's integration of ghost notes into grooves that would be purely aggressive in other players' hands. The Paiste RUDE hi-hats' sensitivity and Bogren's dynamic-preserving production philosophy allowed these subtle strokes to remain audible in the mix, adding rhythmic texture that lifts the grooves beyond simple thrash patterns.\n\n**Musical Fill Placement:**\nAt the technical level Eloy operates, fills can easily become exercises in speed for its own sake. On *Quadra*, every fill serves the arrangement: positioned at structural boundaries, shaped to transition between sections, and calibrated to the dynamic level of the surrounding music. This is the musical intelligence that separated Eloy from technically equivalent drummers.",
       "keyTechniques": [
         "Double-pedal double-bass at sustained 180-200+ BPM",
         "Four-limb independence: all limbs executing independent patterns simultaneously",

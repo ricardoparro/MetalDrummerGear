@@ -878,23 +878,23 @@ The Tama Starphonic Bronze Snare is not the most common snare choice in extreme 
       title: 'Built for the Atomic Clock',
       content: `Gene Hoglan has earned a reputation over four decades as one of the most technically precise and physically powerful drummers in extreme metal. Nicknamed "The Atomic Clock" for the metronomic accuracy of his double bass work, and "The Atomic Clockwork" for the mechanical inevitability of his fills, Hoglan has defined the sound of thrash, death, and progressive metal across legendary bands including Dark Angel, Death, Testament, Strapping Young Lad, and Dethklok.
 
-His relationship with Pearl Drums and specifically the Reference Pure series represents a meeting of equals: a kit engineered for maximum performance in the hands of a drummer who demands maximum performance from himself.
+His relationship with Pearl Drums and specifically the Reference Pure series dates to 2018, when he moved to the kit after decades as a Tama artist: a kit engineered for maximum performance in the hands of a drummer who demands maximum performance from himself.
 
 The Pearl Reference Pure series — identified by the RFP designation — uses all-maple shells, distinguishing it from the hybrid birch/maple construction of the standard Pearl Reference line. All-maple shells offer a warmer, fuller fundamental with a smooth, rounded top end compared to the brighter, more cutting birch/maple blend. For a player like Hoglan, who generates enormous velocity and power from his bass pedals and stick technique, the maple shell's ability to handle aggressive playing without becoming harsh or brittle is essential. What might sound clinical on a thinner or more resonant shell blooms into a controlled, articulate blast in the Reference Pure's maple structure.
 
 Dark Angel and the Birth of Precision:
-Gene Hoglan's career began in earnest with Dark Angel, recording the seminal albums Darkness Descends (1986) and Leave Scars (1989). While his kit was different in those early years, the drumming blueprint was established: blast beats delivered with note-perfect accuracy, double bass patterns that locked precisely with the band's crushing riffs, and an ability to play technically demanding music at speed without sacrificing musical feel. These qualities are what Pearl's Reference Pure series was engineered to support.
+Gene Hoglan's career began in earnest with Dark Angel, recording the seminal albums Darkness Descends (1986) and Leave Scars (1989) on his Tama kit — he signed with Tama in 1983 and stayed with the brand for decades. Even so, the drumming blueprint was established in this era: blast beats delivered with note-perfect accuracy, double bass patterns that locked precisely with the band's crushing riffs, and an ability to play technically demanding music at speed without sacrificing musical feel.
 
 Death and Individual Thought Patterns:
-Hoglan joined Death for Individual Thought Patterns (1993) and Human's follow-up, recording some of the most technically advanced death metal drumming in the genre's history. Chuck Schuldiner's compositions demanded a drummer who could navigate constant meter changes while keeping the music coherent — Hoglan delivered, and the Pearl Reference Pure's responsive shells give him the feedback he needs to place every stroke with surgical precision.
+Hoglan joined Death for Individual Thought Patterns (1993) and Human's follow-up, recording some of the most technically advanced death metal drumming in the genre's history — still playing his Tama kit at the time. Chuck Schuldiner's compositions demanded a drummer who could navigate constant meter changes while keeping the music coherent, and Hoglan delivered with the same surgical precision that would later define his Pearl years.
 
-The Testament Years and Reference Pure:
-During his extensive tenures with Testament — recording Formation of Damnation (2008), Dark Roots of Earth (2012), and Brotherhood of the Snake (2016) — Hoglan solidified his position as the essential thrash metal drummer of the modern era. The Reference Pure kit's combination of warmth and projection means it sits in Testament's dense, riff-heavy mixes without vanishing behind the guitars. Every tom fill, every kick pattern, every snare accent is audible and impactful even at the extreme volumes of Hoglan's playing style.
+The Testament Years, From Tama to Pearl:
+During his extensive tenures with Testament — recording Formation of Damnation (2008), Dark Roots of Earth (2012), and Brotherhood of the Snake (2016) — Hoglan solidified his position as the essential thrash metal drummer of the modern era, playing a Tama kit throughout that run (Tama even built him a signature 14x8" snare in 2008). He didn't move to Pearl's Reference Pure until 2018, after all three of those albums had already been recorded.
 
 The Reference Pure Today:
 Pearl's Reference Pure remains the flagship of their acoustic drum line. It is chosen by players who need a kit that performs equally well in the recording studio and on large festival stages. For Gene Hoglan, whose career has spanned intimate club shows with Strapping Young Lad and headlining festival appearances with Testament, the kit's versatility across acoustic environments is as important as its tonal character.`,
       images: [
-        { src: 'https://upload.wikimedia.org/wikipedia/commons/6/60/Gene_Hoglan_-_Testament_%28cropped%29.jpg', alt: 'Gene Hoglan performing with Pearl Reference Pure kit', caption: 'Gene Hoglan with Testament on the Formation of Damnation tour' },
+        { src: 'https://upload.wikimedia.org/wikipedia/commons/6/60/Gene_Hoglan_-_Testament_%28cropped%29.jpg', alt: 'Gene Hoglan performing live with Testament', caption: 'Gene Hoglan with Testament on the Formation of Damnation tour — years before his 2018 move to Pearl' },
       ],
     },
 
@@ -954,7 +954,7 @@ Pearl's Reference Pure remains the flagship of their acoustic drum line. It is c
         {
           youtubeId: 'TnaKBKKW5CA',
           title: 'Gene Hoglan "Formation of Damnation" Drum Cam',
-          description: 'Official drum cam from GeneHoglanOfficial — Testament performance showcasing his complete Pearl setup',
+          description: 'Official drum cam from GeneHoglanOfficial — Testament performance from his pre-2018 Tama era, a decade before his move to Pearl',
           year: 2008,
         },
         {
@@ -965,10 +965,10 @@ Pearl's Reference Pure remains the flagship of their acoustic drum line. It is c
         },
       ],
       featuredTracks: [
-        { song: 'Formation of Damnation', album: 'Formation of Damnation (2008)', note: 'Drum cam footage available — Hoglan\'s Testament debut showcasing the full kit' },
+        { song: 'Formation of Damnation', album: 'Formation of Damnation (2008)', note: 'Drum cam footage available — Hoglan\'s Testament debut, played on his Tama kit years before his 2018 move to Pearl' },
         { song: 'The Philosopher', album: 'Individual Thought Patterns (1993)', note: 'Complex Death metal arrangement with Hoglan\'s signature double bass precision' },
         { song: 'Crystal Mountain', album: 'Symbolic (1995)', note: 'Hoglan\'s most celebrated Death performance — powerful groove over complex changes' },
-        { song: 'Low', album: 'Brotherhood of the Snake (2016)', note: 'Modern Testament with full Reference Pure kit in a studio production context' },
+        { song: 'Low', album: 'Brotherhood of the Snake (2016)', note: 'Modern Testament recording, still within Hoglan\'s pre-2018 Tama era' },
       ],
     },
 
@@ -1005,39 +1005,8 @@ Pearl's Reference Pure remains the flagship of their acoustic drum line. It is c
 
     usedOn: {
       title: 'Featured On These Recordings',
-      albums: [
-        {
-          title: 'Formation of Damnation',
-          artist: 'Testament',
-          year: 2008,
-          cover: '/images/albums/testament-formation-of-damnation.webp',
-          note: 'Hoglan\'s Testament debut — a landmark of modern thrash production',
-        },
-        {
-          title: 'Dark Roots of Earth',
-          artist: 'Testament',
-          year: 2012,
-          cover: '/images/albums/testament-dark-roots-of-earth.webp',
-          note: 'Hoglan solidifies his role as the definitive Testament drummer',
-        },
-        {
-          title: 'Brotherhood of the Snake',
-          artist: 'Testament',
-          year: 2016,
-          cover: '/images/albums/testament-brotherhood-of-the-snake.webp',
-          note: 'Modern Testament with the Reference Pure in a state-of-the-art production',
-        },
-        {
-          title: 'Symbolic',
-          artist: 'Death',
-          year: 1995,
-          cover: '/images/albums/death-symbolic.webp',
-          note: 'One of Death metal\'s greatest albums with Hoglan at the peak of his craft',
-        },
-      ],
+      albums: [],
       tours: [
-        'Testament\'s Formation of Damnation World Tour (2008–2009)',
-        'Testament\'s Dark Roots of Thrash Tour (2012–2013)',
         'Gigantour (multiple years)',
         'Metal Alliance Tour',
       ],
@@ -1130,7 +1099,7 @@ Pearl's Reference Pure remains the flagship of their acoustic drum line. It is c
     },
 
     datePublished: '2026-06-19',
-    dateModified: '2026-06-19',
+    dateModified: '2026-09-16',
     author: 'MetalForge Editorial',
     status: 'published',
     priority: 5,

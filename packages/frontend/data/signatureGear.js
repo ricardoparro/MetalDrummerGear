@@ -781,8 +781,8 @@ The Tama Starphonic Bronze Snare is not the most common snare choice in extreme 
         {
           drummer: 'Danny Carey',
           drummerSlug: 'danny-carey',
-          snare: 'Sonor Danny Carey Signature 14x8" Bronze',
-          note: 'Another progressive metal drummer with a bronze snare preference',
+          snare: 'Sonor Custom Kit',
+          note: 'Another progressive metal drummer, long-time Sonor endorser',
         },
         {
           drummer: 'Tomas Haake',

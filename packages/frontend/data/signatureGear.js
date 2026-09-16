@@ -508,8 +508,8 @@ The Paiste Giant Beat Multi Gong remains in production today, played by symphoni
         {
           drummer: 'Tomas Haake',
           drummerSlug: 'tomas-haake',
-          snare: 'Pearl Reference Pure + Custom Electronics',
-          note: 'Fellow progressive metal titan who layers electronics with acoustic percussion',
+          snare: 'Sonor SQ2 Series',
+          note: 'Fellow progressive metal titan known for precise, mechanically steady snare work',
         },
         {
           drummer: 'Mario Duplantier',
@@ -787,7 +787,7 @@ The Tama Starphonic Bronze Snare is not the most common snare choice in extreme 
         {
           drummer: 'Tomas Haake',
           drummerSlug: 'tomas-haake',
-          snare: 'Pearl Custom Alloy Snare',
+          snare: 'Sonor Tomas Haake Signature Snare',
           note: 'Meshuggah\'s drummer — similarly precise snare placement in dense mixes',
         },
       ],

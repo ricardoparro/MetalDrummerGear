@@ -1145,3 +1145,35 @@ First substantive run since the 09-16 10:52 deep run (16:10 UTC metrics: 359 use
 ---
 
 ---
+
+## 2026-09-16 20:54 — Evening review: 8 fresh proposals verified and promoted (#7623-7630), 19 PRs shipped today
+
+### Context (≤3 lines)
+First run after 19:00 UTC (evening review). Metrics 20:53 UTC (367 users/404 sessions/753 views 7d; GSC 9,453 impr/197 clicks/2.08% CTR/pos 7.6). Eligible `ai-fix` backlog 0 at run start (0 open PRs, all 20 open `ai-fix` correctly `hold`ed roster/band-expansion splits under the new-page freeze), 8 fresh untriaged `seo-proposal` (#7623-7630, filed 17:35-17:36 UTC) — two new fabrication classes: `api/drummers/index.js`'s flat `gear` object (source-of-truth for generated `gearIndex.js` brand pages) and `gearSearchData.js`'s `DRUMMER_GEAR` lookup-key map, both untouched by the album-article/signatureGear.js sweeps of earlier runs today.
+
+### Actions taken
+- **Live-verified all 8 fresh proposals** by reading `endorsementNews.js` against the exact cited lines directly: #7623 (Nick Menza — confirmed `api/drummers/index.js:3486-3495` gear block is frozen at his 1990 Rust in Peace debut rig while `endorsementNews.js:2863-2869` currentEndorsements is his final 1997 Pearl/Sabian/Vater/Tama setup), #7624 (Alex Bent — confirmed `api/drummers/index.js:1702-1712` fabricates "Pearl Reference Pure Series," verified Tama Starclassic Maple since 2016 per `endorsementNews.js:2995-3002`; cited Axis Percussion source only supports the hardware field, not drums), #7625 (batch: 7 drummers' `heads: 'Evans'` in `api/drummers/index.js` vs verified Remo in `endorsementNews.js` — spot-checked Igor Cavalera line 1891 and Mike Mangini line 2965 exactly, and confirmed Martin Axenrot correctly excluded as a true-Evans false positive), #7626 (Chris Adler `soundLikeGuides.js:2405-2409` pedals fabricates "Mapex Falcon" vs verified Trick Pro V), #7627 (Vinnie Paul `soundLikeGuides.js` drumKit/FAQ attach ddrum's "Custom Pantera finish" to the 1990-2003 Pantera era when ddrum only started 2008), #7628 (Mikkey Dee `soundLikeGuides.js:6332` claims Sonor predates Motörhead when the Sonor signature relationship started 2012, 20 years after his 1992 Tama-era join), #7629 (Joey Jordison `soundLikeGuides.js:133-137` heads field says Remo vs verified Evans since 2005), #7630 (batch: `gearSearchData.js` DRUMMER_GEAR — Chris Adler hardware, Mario Duplantier cymbals, Vinnie Paul hardware, Ray Luzier cymbals+hardware, all spot-checked against exact `endorsementNews.js` lines). All 8/8 accurate, single/multi-file corrections on existing pages, zero new URLs — freeze-compliant. Promoted all 8 (`ai-fix`).
+- **Logged 2 new patterns to `learned-patterns.md`**: (1) `signatureGear.js`'s `drummerAlternatives` cross-reference blocks are an independent fabrication vector — one drummer's spotlight article can misstate *another* drummer's gear even when that drummer's own dedicated article is correct (confirmed via #7613-7618, all 6 shipped as #7631-7636 today); (2) `api/drummers/index.js`'s `verified: true`/`verifiedAt` metadata does not itself indicate accuracy (Alex Bent's fabricated Pearl entry carried both) — cross-check against `endorsementNews.js` regardless of the flag.
+- **Shipped today**: 19 PRs merged (#7605-7612, #7619-7622, #7631-7636 + Watchdog fix #7600) — all verified-only gear-attribution corrections across `endorsementNews.js`, `albumArticles.js`, `signatureGear.js`, `top10Lists.js`, `licks.js`; zero new URLs, consistent with the freeze.
+- **GSC content-gap**: both flagged queries (`flo mounier` 95 impr/1.05% CTR/pos 9.1, `mario duplantier drum kit` 98 impr/1.02% CTR/pos 6.9) re-confirmed against `learned-patterns.md` lines 205/211 — no new signal, no fix filed.
+- **L1/L2/L3**: all 3 snapshots + umbrella issues (#2211/#3810/#3819) still dated 2026-09-14 — weekly refresh not yet due.
+- **Founder ideas**: inbox empty, unchanged since 2026-06-19. **Human-founder blockers**: #5141/#5100/#4892/#875/#529/#526/#525 — unchanged, no re-spam.
+- **Atomic-split sweep**: nothing eligible — all 20 `hold`ed roster/band issues are correctly frozen (>3 days old but explicitly on-hold under the freeze, not stalled-and-eligible); the 8 promoted issues are same-day fresh.
+- **Starvation check**: backlog 0→8 post-triage with a fresh batch already in the bank at run start (>2) — normal triage cycle, not a starvation event.
+
+### State delta
+- ai-fix backlog: 0 → 8 (#7623-7630 added)
+- seo-proposal bank (excl. umbrellas): 8 fresh → 0 untriaged
+- learned-patterns.md: +1 entry (signatureGear.js cross-reference vector + api/drummers/index.js verified-flag caveat)
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 8/8 fresh triaged, live-verified against `endorsementNews.js` directly, all promoted. ✅ GSC-gap: both content-gap queries re-confirmed already-classified, no new fix needed. ✅ L1/L2/L3: no fresh snapshot since 09-14, refresh not yet due. ✅ Starvation: non-event, resolved by real fresh proposals. ✅ Atomic split: nothing eligible. ✅ Decisions logged.
+
+### Next Run
+1. Watch #7623-7630 pick up via Roadie (0 PRs in flight at run start, fleet should start immediately).
+2. Watch for the L1/L2/L3 weekly refresh (last full pass 09-14, due soon) — full close-the-loop pass once it lands.
+3. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---
+
+---

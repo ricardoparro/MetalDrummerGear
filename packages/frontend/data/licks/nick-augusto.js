@@ -40,10 +40,9 @@ export const licks = {
       "description": "Nick Augusto's main groove pattern on In Waves from Trivium's 2011 album of the same name, demonstrating thrash-meets-metalcore groove construction"
     },
     "gearUsed": [
-      { "name": "Tama Starclassic Performer B/B", "type": "drums", "link": null },
-      { "name": "Meinl MB20 Cymbals", "type": "cymbals", "link": null },
-      { "name": "Pearl Demon Drive Double Bass Pedal", "type": "pedals", "link": null },
-      { "name": "Vic Firth American Classic 5B Sticks", "type": "sticks", "link": null }
+      { "name": "Pearl Reference Pure", "type": "drums", "link": null },
+      { "name": "Sabian AAX Series", "type": "cymbals", "link": null },
+      { "name": "Pro-Mark Nylon Tip 5B", "type": "sticks", "link": null }
     ],
     "learningTips": [
       "Learn the ride pattern alone at 160 BPM before adding any other limb — the ride sets the groove's entire character",
@@ -102,10 +101,9 @@ export const licks = {
       "description": "Nick Augusto's metalcore fill sequences and phrase-end placement on Built to Fall from Trivium's In Waves album"
     },
     "gearUsed": [
-      { "name": "Tama Starclassic Performer B/B", "type": "drums", "link": null },
-      { "name": "Meinl MB20 Cymbals", "type": "cymbals", "link": null },
-      { "name": "Pearl Demon Drive Double Bass Pedal", "type": "pedals", "link": null },
-      { "name": "Meinl Classics Custom China Cymbal", "type": "cymbals", "link": null }
+      { "name": "Pearl Reference Pure", "type": "drums", "link": null },
+      { "name": "Sabian AAX Series", "type": "cymbals", "link": null },
+      { "name": "Pro-Mark Nylon Tip 5B", "type": "sticks", "link": null }
     ],
     "learningTips": [
       "Map each fill's endpoint beat before learning the fill itself — knowing where it lands determines how it should feel rhythmically",
@@ -144,7 +142,7 @@ export const licks = {
     "bpm": 180,
     "bpmDisplay": "~180 BPM",
     "timeSignature": "4/4",
-    "description": "Trivium's *Vengeance Falls* (2013) was produced by David Draiman of Disturbed, a choice that moved the band toward a heavier, more direct production sound with the drums sitting more prominently in the mix than on any previous Trivium record. This production context was both an opportunity and a challenge for Nick Augusto: every aspect of his drum performance was exposed with a clarity that rewarded precision and punished slop, and the result is a recorded performance that represents the most technically demanding drumming of his tenure with the band. The title track \"Vengeance Falls\" opens the album with an immediate statement of the new sonic direction — a driving, 180 BPM arrangement where Augusto incorporates blast beat passages alongside the thrash-groove hybrid approach that characterised *In Waves*, expanding his extreme-metal vocabulary in direct response to the heavier album concept. His blast beat work on \"Vengeance Falls\" is more compact and brief than a dedicated death metal blast — it arrives in short bursts of four to eight beats that punctuate particularly aggressive riff moments before returning to the groove, a technique that preserves the song's structural accessibility while injecting moments of extreme-metal intensity. This controlled use of blast beats is a distinct approach from the continuous-blast methodology of death metal: Augusto uses blasting as a dynamic tool within a broader groove framework rather than as the primary texture. The Meinl MB20 and Classics Custom cymbal setup that Augusto used with Trivium is prominently featured in the blast sections: the china cymbals in particular cut through the dense production with a sharp attack that gives each blast beat a defined edge rather than a washed, compressed tone. For drummers, the \"Vengeance Falls\" blast approach is instructive because it demonstrates how to incorporate extreme-metal techniques into a non-extreme context: the blast beats are technically demanding but compositionally restrained, deployed for maximum effect in specific moments rather than as the default texture throughout the song. Practising this approach means learning to start and stop blast beats cleanly within a groove context — a harder skill than sustaining an extended blast — and developing the compositional ear to recognise which moments in a metal arrangement can absorb a blast beat without breaking the song's momentum.",
+    "description": "Trivium's *Vengeance Falls* (2013) was produced by David Draiman of Disturbed, a choice that moved the band toward a heavier, more direct production sound with the drums sitting more prominently in the mix than on any previous Trivium record. This production context was both an opportunity and a challenge for Nick Augusto: every aspect of his drum performance was exposed with a clarity that rewarded precision and punished slop, and the result is a recorded performance that represents the most technically demanding drumming of his tenure with the band. The title track \"Vengeance Falls\" opens the album with an immediate statement of the new sonic direction — a driving, 180 BPM arrangement where Augusto incorporates blast beat passages alongside the thrash-groove hybrid approach that characterised *In Waves*, expanding his extreme-metal vocabulary in direct response to the heavier album concept. His blast beat work on \"Vengeance Falls\" is more compact and brief than a dedicated death metal blast — it arrives in short bursts of four to eight beats that punctuate particularly aggressive riff moments before returning to the groove, a technique that preserves the song's structural accessibility while injecting moments of extreme-metal intensity. This controlled use of blast beats is a distinct approach from the continuous-blast methodology of death metal: Augusto uses blasting as a dynamic tool within a broader groove framework rather than as the primary texture. Augusto's cymbal setup is prominently featured in the blast sections: the crashes and chinas cut through the dense production with a sharp attack that gives each blast beat a defined edge rather than a washed, compressed tone. For drummers, the \"Vengeance Falls\" blast approach is instructive because it demonstrates how to incorporate extreme-metal techniques into a non-extreme context: the blast beats are technically demanding but compositionally restrained, deployed for maximum effect in specific moments rather than as the default texture throughout the song. Practising this approach means learning to start and stop blast beats cleanly within a groove context — a harder skill than sustaining an extended blast — and developing the compositional ear to recognise which moments in a metal arrangement can absorb a blast beat without breaking the song's momentum.",
     "techniques": [
       "blast-beat",
       "double-bass",
@@ -164,10 +162,9 @@ export const licks = {
       "description": "Nick Augusto's blast beat passages and metalcore drive on Vengeance Falls from Trivium's 2013 David Draiman-produced album"
     },
     "gearUsed": [
-      { "name": "Tama Starclassic Performer B/B", "type": "drums", "link": null },
-      { "name": "Meinl MB20 Heavy Metal Cymbals", "type": "cymbals", "link": null },
-      { "name": "Meinl Classics Custom China Cymbal", "type": "cymbals", "link": null },
-      { "name": "Pearl Demon Drive Double Bass Pedal", "type": "pedals", "link": null }
+      { "name": "Pearl Reference Pure", "type": "drums", "link": null },
+      { "name": "Sabian AAX Series", "type": "cymbals", "link": null },
+      { "name": "Pro-Mark Nylon Tip 5B", "type": "sticks", "link": null }
     ],
     "learningTips": [
       "Learn the blast-to-groove handoff at 100 BPM before raising tempo — the transition out of the blast is where timing errors accumulate",

@@ -12195,13 +12195,12 @@ Start with a single pedal or the ddrum Vinnie Paul Signature if you're building 
     // SEO metadata
     title: "Best Bass Drum Pedals for Metalcore: 2026 Ultimate Guide",
     metaTitle: "Best Bass Drum Pedals for Metalcore in 2026 | MetalForge Expert Guide",
-    description: "Discover the best bass drum pedals for metalcore's hybrid speed-and-breakdown demands. Built around Nick Augusto's Pearl Demon Drive, Art Cruz's Trick Pro 1-V, Travis Orbin's Tama Speed Cobra 910, and Matt Halpern's Pearl Eliminator.",
+    description: "Discover the best bass drum pedals for metalcore's hybrid speed-and-breakdown demands. Built around Nick Augusto's Pearl Demon Drive, Art Cruz's Trick Pro 1-V, and Matt Halpern's Pearl Eliminator, plus a hybrid-feel Tama Speed Cobra 910 option.",
     seoKeywords: [
       'best bass drum pedals for metalcore',
       'metalcore bass drum pedal',
       'nick augusto bass drum pedal',
       'art cruz bass drum pedal',
-      'travis orbin bass drum pedal',
       'matt halpern bass drum pedal',
       'dual pedal versatility metalcore',
       'breakdown to speed pedal',
@@ -12232,14 +12231,14 @@ Start with a single pedal or the ddrum Vinnie Paul Signature if you're building 
       title: "Why Metalcore Demands Dual-Pedal Versatility",
       content: `Metalcore asks a bass drum pedal to switch gears constantly — locking into a chugging, weighted breakdown groove one bar and firing off a rapid double-bass fill or blast-adjacent burst the next. That hybrid speed-and-breakdown demand means a metalcore drummer's double pedal has to feel equally at home landing a single, heavy hit and sustaining a fast sixteenth-note run underneath a technical riff, often within the same eight bars.
 
-Nick Augusto brought the reliable speed of a Pearl Demon Drive double pedal to Trivium's "In Waves" and "Vengeance Falls" era, giving the band's technical riffing instant, linear response. Art Cruz pairs a Trick Pro 1-V double pedal with Lamb of God's breakdown-heavy riffing for consistent, weighted punch. Travis Orbin built the genre-defining, trigger-augmented sound on Periphery's self-titled 2010 debut with a Tama Speed Cobra 910, alongside a Roland SPD-SX sampling pad for layered electronic elements. Matt Halpern rounds out the lineup with a Pearl Eliminator double pedal, delivering the crisp, controlled response Periphery's dense, palm-muted arrangements demand.
+Nick Augusto brought the reliable speed of a Pearl Demon Drive double pedal to Trivium's "In Waves" and "Vengeance Falls" era, giving the band's technical riffing instant, linear response. Art Cruz pairs a Trick Pro 1-V double pedal with Lamb of God's breakdown-heavy riffing for consistent, weighted punch. Matt Halpern rounds out the lineup with a Pearl Eliminator double pedal, delivering the crisp, controlled response Periphery's dense, palm-muted arrangements demand.
 
-This guide breaks down drive systems, footboard design, and dual-pedal versatility for a metalcore bass drum pedal — comparing four drummers whose setups define the genre's mix of breakdown weight and technical speed, with recommendations from budget to professional touring rigs.`,
+This guide breaks down drive systems, footboard design, and dual-pedal versatility for a metalcore bass drum pedal — comparing the drummers whose setups define the genre's mix of breakdown weight and technical speed, with recommendations from budget to professional touring rigs.`,
       keyPoints: [
         "Metalcore pedals need to switch instantly between weighted breakdown hits and rapid double-bass runs",
         "Nick Augusto's Pearl Demon Drive gives Trivium's technical metalcore reliable, direct-drive speed",
         "Art Cruz's Trick Pro 1-V double pedal delivers consistent, weighted punch for breakdown-heavy riffing",
-        "Travis Orbin's Tama Speed Cobra 910 helped define Periphery's genre-shaping, trigger-augmented debut"
+        "The Tama Speed Cobra 910's Speedo-Ring hybrid drive suits metalcore's genre-shaping technical demands"
       ]
     },
 
@@ -12262,7 +12261,7 @@ This guide breaks down drive systems, footboard design, and dual-pedal versatili
         {
           name: "Longboard Footboard for Technical Runs",
           icon: "📏",
-          description: "Travis Orbin's Tama Speed Cobra 910 uses an extended footboard designed for fast, rolling patterns — essential for the technical, prog-leaning double-bass runs that define genre-shaping metalcore records.",
+          description: "The Tama Speed Cobra 910 uses an extended footboard designed for fast, rolling patterns — essential for the technical, prog-leaning double-bass runs that define genre-shaping metalcore records.",
           recommendation: "A longboard footboard for drummers whose material demands rapid, technical bass drum runs"
         },
         {
@@ -12274,7 +12273,7 @@ This guide breaks down drive systems, footboard design, and dual-pedal versatili
         {
           name: "Trigger Integration",
           icon: "🎛️",
-          description: "Travis Orbin integrates a Roland SPD-SX sampling pad alongside his pedal setup, a common metalcore approach for layering samples and electronic elements onto acoustic bass drum hits during the breakdown-to-speed switch.",
+          description: "Many metalcore drummers integrate a Roland SPD-SX sampling pad alongside their pedal setup, a common approach for layering samples and electronic elements onto acoustic bass drum hits during the breakdown-to-speed switch.",
           recommendation: "Consider a pedal setup that leaves room for a trigger or sampling pad if your material uses electronic layering"
         },
         {
@@ -12373,14 +12372,13 @@ For metalcore drummers whose material leans heavily on chugging, palm-muted brea
           priceRange: "€450-550",
           tier: "pro",
           driveType: "Chain Drive (Speedo-Ring)",
-          description: `Travis Orbin built the genre-defining, trigger-augmented sound on Periphery's self-titled 2010 debut with a Tama Speed Cobra 910 alongside his SJC Custom kit and Roland SPD-SX sampling pad. The Speedo-Ring sprocket blends direct-drive smoothness with chain-drive familiarity — ideal for the constant hybrid speed-and-breakdown switching Periphery's technical riffing demands.
+          description: `The Speedo-Ring sprocket blends direct-drive smoothness with chain-drive familiarity — ideal for the constant hybrid speed-and-breakdown switching metalcore's technical riffing demands.
 
-For metalcore drummers chasing the genre-shaping "djent" precision Orbin helped define, the Speed Cobra's extended footboard supports fast, rolling technical runs without sacrificing breakdown weight.`,
+For metalcore drummers chasing genre-shaping "djent" precision, the Speed Cobra's extended footboard supports fast, rolling technical runs without sacrificing breakdown weight.`,
           pros: [
-            "Travis Orbin's genre-defining Periphery debut setup",
             "Speedo-Ring gives chain drive pedals direct-drive smoothness",
             "Extra-long footboard for heel-toe technique on technical runs",
-            "Proven on one of metalcore's most influential debut records",
+            "Proven across influential metalcore and djent-adjacent recordings",
             "Leaves room for trigger/sampling pad integration"
           ],
           cons: [
@@ -12394,9 +12392,6 @@ For metalcore drummers chasing the genre-shaping "djent" precision Orbin helped 
             footboard: "Extra-Long Cobra Design",
             beater: "Cobra Beater (dual surface)"
           },
-          usedBy: [
-            { name: "Travis Orbin", band: "Periphery", note: "Tama Speed Cobra 910 — genre-defining, trigger-augmented debut precision" }
-          ],
           verdict: "Best hybrid feel for metalcore. Blends direct-drive smoothness with chain-drive familiarity.",
           rating: 4.6,
           affiliateLink: "https://www.thomann.de/intl/tama_speed_cobra_910_double.htm?partner_id=metalforge"
@@ -12506,9 +12501,9 @@ For metalcore drummers who need dual-pedal versatility without a direct-drive le
 - Machined aluminum construction built for demanding touring use
 - Best for breakdown-first metalcore riffing
 
-**Tama Speed Cobra 910 (Travis Orbin):**
+**Tama Speed Cobra 910:**
 - Speedo-Ring hybrid feel blends direct-drive smoothness with chain-drive familiarity
-- Proven on Periphery's genre-defining, trigger-augmented debut
+- Extended footboard supports fast, rolling technical double-bass runs
 - Best all-around hybrid pedal for the breakdown-to-speed switch
 
 **Our Recommendation:** Start with a Tama Iron Cobra 600 or Pearl P-930 Demonator if you're building metalcore technique on a budget. Choose the Trick Pro 1-V if breakdown weight is your priority. Go with the Pearl Demon Drive or Tama Speed Cobra 910 if your material demands maximum dual-pedal versatility.`,
@@ -12537,7 +12532,7 @@ For metalcore drummers who need dual-pedal versatility without a direct-drive le
         {
           category: "Best Hybrid Feel",
           pedal: "Tama Speed Cobra 910",
-          reason: "Travis Orbin's genre-defining Periphery debut setup — direct-drive smoothness with chain-drive familiarity."
+          reason: "The Speedo-Ring sprocket blends direct-drive smoothness with chain-drive familiarity."
         },
         {
           category: "Best Budget",
@@ -12557,13 +12552,11 @@ For metalcore drummers who need dual-pedal versatility without a direct-drive le
     relatedDrummers: [
       { slug: 'nick-augusto', name: 'Nick Augusto', reason: 'Pearl Demon Drive — Trivium\'s instant, linear technical speed' },
       { slug: 'art-cruz', name: 'Art Cruz', reason: 'Trick Pro 1-V — breakdown-heavy weighted punch' },
-      { slug: 'travis-orbin', name: 'Travis Orbin', reason: 'Tama Speed Cobra 910 — Periphery\'s genre-defining debut precision' },
       { slug: 'matt-halpern', name: 'Matt Halpern', reason: 'Pearl Eliminator — Periphery\'s crisp, controlled dense arrangements' }
     ],
 
     featuredDrummers: [
       { slug: 'nick-augusto', name: 'Nick Augusto', reason: 'Pearl Demon Drive — Trivium\'s instant, linear technical speed' },
-      { slug: 'travis-orbin', name: 'Travis Orbin', reason: 'Tama Speed Cobra 910 — Periphery\'s genre-defining, trigger-augmented debut' },
       { slug: 'matt-halpern', name: 'Matt Halpern', reason: 'Pearl Eliminator — Periphery\'s dense, palm-muted precision' }
     ],
 
@@ -12571,11 +12564,7 @@ For metalcore drummers who need dual-pedal versatility without a direct-drive le
     faq: [
       {
         question: "What bass drum pedal is best for metalcore's breakdown-to-speed switch?",
-        answer: "Travis Orbin's Tama Speed Cobra 910 is built exactly for this hybrid demand — its Speedo-Ring sprocket blends direct-drive smoothness with chain-drive familiarity, letting a drummer switch instantly between a weighted breakdown hit and a rapid double-bass run. Nick Augusto's Pearl Demon Drive is the top choice if you prioritize speed above everything else."
-      },
-      {
-        question: "What pedal does Travis Orbin of Periphery use?",
-        answer: "Travis Orbin built Periphery's genre-defining, trigger-augmented sound on their self-titled 2010 debut with a Tama Speed Cobra 910 double pedal, alongside his SJC Custom kit and a Roland SPD-SX sampling pad for layered electronic elements."
+        answer: "The Tama Speed Cobra 910 is built exactly for this hybrid demand — its Speedo-Ring sprocket blends direct-drive smoothness with chain-drive familiarity, letting a drummer switch instantly between a weighted breakdown hit and a rapid double-bass run. Nick Augusto's Pearl Demon Drive is the top choice if you prioritize speed above everything else."
       },
       {
         question: "Direct drive or chain drive — which is better for metalcore?",
@@ -12594,9 +12583,9 @@ For metalcore drummers who need dual-pedal versatility without a direct-drive le
     // Conclusion
     conclusion: {
       title: "Find Your Metalcore Bass Drum Pedal Setup",
-      content: `Metalcore's pedal choice comes down to how well your setup handles the constant switch between weighted breakdowns and technical speed bursts. Nick Augusto's Pearl Demon Drive shows what maximum linear speed looks like for rapid double-bass fills. Art Cruz's Trick Pro 1-V proves that consistent, weighted breakdown punch matters just as much as top-end speed. Travis Orbin's Tama Speed Cobra 910 defined the genre-shaping hybrid feel that blends both worlds, and Matt Halpern's Pearl Eliminator shows how that same versatility scales across Periphery's dense, constantly shifting arrangements.
+      content: `Metalcore's pedal choice comes down to how well your setup handles the constant switch between weighted breakdowns and technical speed bursts. Nick Augusto's Pearl Demon Drive shows what maximum linear speed looks like for rapid double-bass fills. Art Cruz's Trick Pro 1-V proves that consistent, weighted breakdown punch matters just as much as top-end speed. The Tama Speed Cobra 910 offers a genre-shaping hybrid feel that blends both worlds, and Matt Halpern's Pearl Eliminator shows how that same versatility scales across Periphery's dense, constantly shifting arrangements.
 
-None of these approaches is more "correct" — all four represent metalcore's core identity as a genre built on contrast. Start with whichever drive type matches whether your material leans toward speed or breakdown weight, and don't be afraid to prioritize dual-pedal versatility over chasing a single specialty.
+None of these approaches is more "correct" — all represent metalcore's core identity as a genre built on contrast. Start with whichever drive type matches whether your material leans toward speed or breakdown weight, and don't be afraid to prioritize dual-pedal versatility over chasing a single specialty.
 
 Budget shouldn't stop you either. A Tama Iron Cobra 600 or Pearl P-930 Demonator will teach real breakdown-to-speed technique and survive demanding practice while you save toward the Demon Drive, Trick Pro 1-V, or Speed Cobra 910 setups that defined this genre's most influential records.
 
@@ -52300,7 +52289,7 @@ Start lean: a single kick trigger and a basic interface will reinforce your loud
       title: "Why Djent Drummers Layer Triggers Into the Mix",
       content: `A drum trigger is a small piezo or optical sensor clipped or mounted directly onto an acoustic drumhead. It converts the physical vibration of a hit into an electronic signal that can drive a sample, reinforce a weak-sounding mic, or feed a click-synced monitor rig — without changing how the acoustic drum feels under the stick or beater. Djent leans on this technology more directly than most metal subgenres: the style's polyrhythmic, palm-muted riffing is built around mechanical precision, and drummers routinely layer a triggered signal underneath the acoustic kit rather than treating it as a last-resort fix.
 
-Tomas Haake uses triggered bass drums to layer acoustic and electronic kick sounds in Meshuggah's productions, giving the low end the mechanical, robotic weight that anchors the band's polyrhythmic riffing. Matt Halpern of Periphery runs Roland electronic pads in his live setup, blending triggered and sampled elements into an otherwise acoustic kit. Travis Orbin, who built the genre-defining, trigger-augmented sound on Periphery's self-titled 2010 debut with a Tama Speed Cobra 910, an SJC Custom kit, and a Roland SPD-SX sampling pad, set the template that shaped djent's studio-first relationship with triggers.
+Tomas Haake uses triggered bass drums to layer acoustic and electronic kick sounds in Meshuggah's productions, giving the low end the mechanical, robotic weight that anchors the band's polyrhythmic riffing. Matt Halpern of Periphery runs Roland electronic pads in his live setup, blending triggered and sampled elements into an otherwise acoustic kit. Travis Orbin, who built the genre-defining, trigger-augmented sound on Periphery's self-titled 2010 debut with an SJC Custom kit and a Roland SPD-SX sampling pad, set the template that shaped djent's studio-first relationship with triggers.
 
 This guide covers what actually matters when choosing drum triggers for djent — mounting type, dual-zone sensing, and crosstalk rejection during dense polyrhythmic fills — with specific recommendations across every budget, from a first single kick trigger to a full hybrid sample-layering rig.`,
       keyPoints: [
@@ -79985,13 +79974,12 @@ Budget shouldn't stop you either. A DW 3000 Series or Pearl Demonator pedal will
     // SEO metadata
     title: "Best Drum Pedals for Metalcore: 2026 Ultimate Guide",
     metaTitle: "Best Drum Pedals for Metalcore 2026 | MetalForge Expert Guide",
-    description: "Best drum pedals for metalcore drumming: what Nick Augusto (Pearl Demon Drive), Art Cruz (Trick Pro 1-V), Travis Orbin (Tama Speed Cobra 910), and Matt Halpern (Pearl Eliminator) actually play. Fast, articulate double bass for metalcore's breakdown-driven riffing — ranked budget to pro.",
+    description: "Best drum pedals for metalcore drumming: what Nick Augusto (Pearl Demon Drive), Art Cruz (Trick Pro 1-V), and Matt Halpern (Pearl Eliminator) actually play, plus a hybrid-feel Tama Speed Cobra 910 option. Fast, articulate double bass for metalcore's breakdown-driven riffing — ranked budget to pro.",
     seoKeywords: [
       'best drum pedals for metalcore',
       'metalcore bass drum pedal',
       'nick augusto pedal trivium',
       'art cruz pedal lamb of god',
-      'travis orbin pedal periphery',
       'matt halpern pedal periphery',
       'pearl demon drive metalcore',
       'double bass pedal breakdowns',
@@ -80008,7 +79996,7 @@ Budget shouldn't stop you either. A DW 3000 Series or Pearl Demonator pedal will
     // Hero section
     hero: {
       title: "⚡ Best Drum Pedals for Metalcore",
-      subtitle: "What Nick Augusto, Art Cruz, Travis Orbin, and Matt Halpern Actually Play",
+      subtitle: "What Nick Augusto, Art Cruz, and Matt Halpern Actually Play",
       badge: "GEAR GUIDE 2026",
       stats: [
         { value: '4', label: 'Pedals Reviewed' },
@@ -80022,13 +80010,13 @@ Budget shouldn't stop you either. A DW 3000 Series or Pearl Demonator pedal will
       title: "What Pedal Should I Use for Metalcore?",
       content: `Metalcore asks a bass drum pedal to switch gears constantly — locking into a chugging, breakdown groove one bar and firing off a rapid double bass fill or blast-adjacent burst the next. That mix of precision and sudden speed means metalcore drummers need a pedal that responds instantly whether it's landing a single, weighted breakdown hit or a sustained sixteenth-note run underneath a technical riff.
 
-Nick Augusto brought a Pearl Reference Pure kit and the reliable speed of a Pearl Demon Drive double pedal to Trivium's "In Waves" and "Vengeance Falls" era. Art Cruz pairs his Ludwig Classic Oak kit with a Trick Pro 1-V double pedal, giving Lamb of God's breakdown-heavy riffing consistent, weighted punch. Travis Orbin built the genre-defining, trigger-augmented sound on Periphery's self-titled 2010 debut with a Tama Speed Cobra 910 alongside his SJC Custom kit and Roland SPD-SX sampling pad. Matt Halpern rounds out the lineup with a Pearl Eliminator double pedal, delivering the crisp, controlled response Periphery's dense, palm-muted arrangements demand.
+Nick Augusto brought a Pearl Reference Pure kit and the reliable speed of a Pearl Demon Drive double pedal to Trivium's "In Waves" and "Vengeance Falls" era. Art Cruz pairs his Ludwig Classic Oak kit with a Trick Pro 1-V double pedal, giving Lamb of God's breakdown-heavy riffing consistent, weighted punch. Matt Halpern rounds out the lineup with a Pearl Eliminator double pedal, delivering the crisp, controlled response Periphery's dense, palm-muted arrangements demand.
 
-This guide breaks down drive systems, footboard design, and speed potential for metalcore pedals — comparing four drummers whose setups define the genre's mix of breakdown weight and technical speed, with recommendations from budget to professional touring rigs.`,
+This guide breaks down drive systems, footboard design, and speed potential for metalcore pedals — comparing the drummers whose setups define the genre's mix of breakdown weight and technical speed, with recommendations from budget to professional touring rigs.`,
       keyPoints: [
         "Nick Augusto's Pearl Demon Drive gives Trivium's technical metalcore reliable, direct-drive speed",
         "Art Cruz's Trick Pro 1-V double pedal delivers consistent, weighted punch for Lamb of God's breakdown-heavy riffing",
-        "Travis Orbin's Tama Speed Cobra 910 helped define Periphery's genre-shaping, trigger-augmented debut",
+        "The Tama Speed Cobra 910's Speedo-Ring hybrid drive suits progressive metalcore's technical, trigger-augmented sound",
         "Metalcore pedals need to switch instantly between weighted breakdown hits and rapid double-bass runs"
       ]
     },
@@ -80052,7 +80040,7 @@ This guide breaks down drive systems, footboard design, and speed potential for 
         {
           name: "Longboard Footboard for Technical Runs",
           icon: "📏",
-          description: "Travis Orbin's Tama Speed Cobra 910 uses an extended footboard designed for fast, rolling patterns — essential for the technical, prog-leaning double-bass runs that define Periphery's genre-shaping sound.",
+          description: "The Tama Speed Cobra 910 uses an extended footboard designed for fast, rolling patterns — essential for the technical, prog-leaning double-bass runs that define modern metalcore's technical wing.",
           recommendation: "A longboard footboard for drummers whose material demands rapid, technical bass drum runs"
         },
         {
@@ -80064,7 +80052,7 @@ This guide breaks down drive systems, footboard design, and speed potential for 
         {
           name: "Trigger Integration",
           icon: "🎛️",
-          description: "Travis Orbin integrates a Roland SPD-SX sampling pad alongside his pedal setup, a common metalcore approach for layering samples and electronic elements onto acoustic bass drum hits.",
+          description: "Many metalcore drummers integrate a Roland SPD-SX sampling pad alongside their pedal setup, a common approach for layering samples and electronic elements onto acoustic bass drum hits.",
           recommendation: "Consider a pedal setup that leaves room for a trigger or sampling pad if your material uses electronic layering"
         },
         {
@@ -80170,12 +80158,12 @@ Cruz's setup proves that a well-tuned direct-drive pedal can anchor a breakdown-
           tier: "pro",
           driveType: "Chain Drive (Speedo-Ring)",
 
-          description: `Travis Orbin built the genre-defining, trigger-augmented sound on Periphery's self-titled 2010 debut using a Tama Speed Cobra 910 alongside his SJC Custom M5 kit and Roland SPD-SX sampling pad. The Speedo-Ring sprocket combines chain drive's familiar swing with near direct-drive smoothness, ideal for the technical, rapid-fire double-bass runs that define Periphery's progressive metalcore sound.
+          description: `The Speedo-Ring sprocket combines chain drive's familiar swing with near direct-drive smoothness, ideal for the technical, rapid-fire double-bass runs that define progressive metalcore's sound.
 
-The extended footboard design is specifically engineered for fast, rolling patterns, letting Orbin execute the intricate, prog-leaning fills that helped define modern metalcore's more technical wing.`,
+The extended footboard design is specifically engineered for fast, rolling patterns, ideal for the intricate, prog-leaning fills that define modern metalcore's more technical wing.`,
 
           pros: [
-            "Travis Orbin's Periphery debut setup — helped define modern progressive metalcore's technical wing",
+            "Near direct-drive smoothness suited to modern progressive metalcore's technical wing",
             "Speedo-Ring gives chain drive pedals near direct-drive smoothness",
             "Extra-long footboard for rapid, technical double-bass runs",
             "Cobra Coil spring system is ultra-responsive",
@@ -80193,9 +80181,6 @@ The extended footboard design is specifically engineered for fast, rolling patte
             beater: "Cobra Beater (dual surface)",
             weight: "3.8 kg (pair)"
           },
-          usedBy: [
-            { name: "Travis Orbin", band: "Periphery / Darkest Hour", note: "Tama Speed Cobra 910 — technical, trigger-augmented progressive metalcore" }
-          ],
           verdict: "Best for technical, prog-leaning metalcore. Near direct-drive smoothness with familiar chain feel.",
           rating: 4.6,
           affiliateLink: "https://www.thomann.de/intl/tama_hp910lwn_speed_cobra_double.htm?partner_id=metalforge"
@@ -80269,8 +80254,8 @@ Halpern's setup shows how the same reliable Eliminator platform that anchors ext
           priceRange: "€250-300",
           tier: "budget",
           driveType: "Chain (Power Glide)",
-          description: "The entry-level Iron Cobra shares Tama's Speed Cobra DNA — the same family behind Travis Orbin's professional setup — at an accessible price. A great starting point for developing the technical double-bass speed metalcore demands.",
-          pros: ["Same Tama family DNA as Orbin's professional pedal", "Power Glide cam for speed", "Affordable entry point", "Tama durability"],
+          description: "The entry-level Iron Cobra shares Tama's Speed Cobra DNA — the same family behind the Speed Cobra 910 — at an accessible price. A great starting point for developing the technical double-bass speed metalcore demands.",
+          pros: ["Same Tama family DNA as the pro-level Speed Cobra 910", "Power Glide cam for speed", "Affordable entry point", "Tama durability"],
           cons: ["Fewer adjustment options", "Basic bearings", "No Speedo-Ring smoothness"],
           verdict: "Excellent starter pedal for technical metalcore on a budget.",
           rating: 4.1,
@@ -80289,7 +80274,7 @@ Halpern's setup shows how the same reliable Eliminator platform that anchors ext
 - Less "swing" in the action
 - Best for technical, riff-heavy metalcore
 
-**Chain Drive with Speed Enhancements (Travis Orbin - Speedo-Ring, Matt Halpern - interchangeable cams):**
+**Chain Drive with Speed Enhancements (Tama Speed Cobra 910 - Speedo-Ring, Matt Halpern - interchangeable cams):**
 - Near direct-drive speed with more traditional feel
 - Slight "whip" effect many drummers prefer for breakdown weight
 - Best for progressive, trigger-augmented metalcore
@@ -80325,7 +80310,7 @@ Halpern's setup shows how the same reliable Eliminator platform that anchors ext
         {
           category: "Best for Technical/Prog Metalcore",
           pedal: "Tama Speed Cobra 910",
-          reason: "Travis Orbin's genre-defining Periphery setup — near direct-drive smoothness for rapid double-bass runs."
+          reason: "Near direct-drive smoothness for rapid double-bass runs in progressive metalcore."
         },
         {
           category: "Best Budget",
@@ -80344,7 +80329,6 @@ Halpern's setup shows how the same reliable Eliminator platform that anchors ext
     relatedDrummers: [
       { slug: 'nick-augusto', name: 'Nick Augusto', reason: 'Pearl Demon Drive — Trivium technical metalcore speed' },
       { slug: 'art-cruz', name: 'Art Cruz', reason: 'Trick Pro 1-V — Lamb of God breakdown-heavy punch' },
-      { slug: 'travis-orbin', name: 'Travis Orbin', reason: 'Tama Speed Cobra 910 — Periphery genre-defining technical speed' },
       { slug: 'matt-halpern', name: 'Matt Halpern', reason: 'Pearl Eliminator Redline — Periphery dense prog-metalcore control' }
     ],
 
@@ -80352,7 +80336,6 @@ Halpern's setup shows how the same reliable Eliminator platform that anchors ext
     featuredDrummers: [
       { slug: 'nick-augusto', name: 'Nick Augusto', reason: 'Pearl Demon Drive — Trivium technical metalcore speed' },
       { slug: 'art-cruz', name: 'Art Cruz', reason: 'Trick Pro 1-V — Lamb of God breakdown-heavy punch' },
-      { slug: 'travis-orbin', name: 'Travis Orbin', reason: 'Tama Speed Cobra 910 — Periphery genre-defining technical speed' },
       { slug: 'matt-halpern', name: 'Matt Halpern', reason: 'Pearl Eliminator Redline — Periphery dense prog-metalcore control' }
     ],
 
@@ -80360,7 +80343,7 @@ Halpern's setup shows how the same reliable Eliminator platform that anchors ext
     faq: [
       {
         question: "Who are the best metalcore drummers and what pedals do they use?",
-        answer: "Nick Augusto, who played in Trivium from 2009-2014, used a Pearl Demon Drive double pedal. Art Cruz of Lamb of God plays a Trick Pro 1-V double pedal, Travis Orbin of Periphery and Darkest Hour used a Tama Speed Cobra 910 on Periphery's genre-defining self-titled debut, and Matt Halpern of Periphery plays a Pearl Eliminator Redline."
+        answer: "Nick Augusto, who played in Trivium from 2009-2014, used a Pearl Demon Drive double pedal. Art Cruz of Lamb of God plays a Trick Pro 1-V double pedal, and Matt Halpern of Periphery plays a Pearl Eliminator Redline. The Tama Speed Cobra 910 is another strong pro-level option for the genre's technical, prog-leaning wing."
       },
       {
         question: "What pedal does Nick Augusto use?",
@@ -80371,10 +80354,6 @@ Halpern's setup shows how the same reliable Eliminator platform that anchors ext
         answer: "Not necessarily — Art Cruz of Lamb of God uses a Trick Pro 1-V double pedal, whose adjustable V-Cam direct drive delivers weighted punch on single breakdown hits despite being direct drive rather than chain. Nick Augusto's Pearl Demon Drive shows how direct drive also shines on rapid, technical double-bass runs."
       },
       {
-        question: "What pedal did Travis Orbin use on Periphery's debut album?",
-        answer: "Travis Orbin used a Tama Speed Cobra 910 alongside his SJC Custom M5 kit and Roland SPD-SX sampling pad to help build the genre-defining, trigger-augmented sound on Periphery's self-titled 2010 debut."
-      },
-      {
         question: "What's the best budget double bass pedal for metalcore?",
         answer: "The Tama Iron Cobra 600 (around €250-300) shares Tama's Speed Cobra family DNA at an accessible price. For a budget option in the same family as Nick Augusto and Matt Halpern's Pearl pedals, the Pearl Demonator (€150-190) is a solid single-pedal starting point."
       }
@@ -80383,7 +80362,7 @@ Halpern's setup shows how the same reliable Eliminator platform that anchors ext
     // Conclusion
     conclusion: {
       title: "Choose Your Metalcore Weapon",
-      content: `Metalcore pedal choice comes down to whether your material leans technical and riff-heavy or breakdown-driven and weighted — and most bands need a bit of both. Nick Augusto's direct-drive Pearl Demon Drive gave Trivium's technical riffing instant, linear speed. Art Cruz's Trick Pro 1-V delivers the consistent, weighted punch Lamb of God's breakdowns demand through its adjustable V-Cam direct drive. Travis Orbin's Tama Speed Cobra 910 helped define modern progressive metalcore's technical wing on Periphery's genre-shaping debut, while Matt Halpern's Pearl Eliminator Redline shows how the same reliable platform scales across the genre's densest, most technical arrangements.
+      content: `Metalcore pedal choice comes down to whether your material leans technical and riff-heavy or breakdown-driven and weighted — and most bands need a bit of both. Nick Augusto's direct-drive Pearl Demon Drive gave Trivium's technical riffing instant, linear speed. Art Cruz's Trick Pro 1-V delivers the consistent, weighted punch Lamb of God's breakdowns demand through its adjustable V-Cam direct drive. The Tama Speed Cobra 910 helped define modern progressive metalcore's technical wing, while Matt Halpern's Pearl Eliminator Redline shows how the same reliable platform scales across the genre's densest, most technical arrangements.
 
 Start with whichever drive system matches your material's balance of breakdown weight and technical speed, and don't be afraid to try both if you can before committing to a flagship purchase.
 
@@ -83567,13 +83546,12 @@ Budget shouldn't stop you either. A Sabian SBR or Meinl HCS set will teach real 
     // SEO metadata
     title: "Best Drum Pedals for Djent: 2026 Ultimate Guide",
     metaTitle: "Best Drum Pedals for Djent 2026 | MetalForge Expert Guide",
-    description: "Best drum pedals for djent's palm-muted, polyrhythmic riffing: what Tomas Haake (dual Tama Speed Cobra single pedals), Matt Halpern (Pearl Eliminator Redline), and Travis Orbin (Tama Speed Cobra 910) actually play — ranked budget to pro.",
+    description: "Best drum pedals for djent's palm-muted, polyrhythmic riffing: what Tomas Haake (dual Tama Speed Cobra single pedals) and Matt Halpern (Pearl Eliminator Redline) actually play, plus a Tama Speed Cobra 910 double-pedal option — ranked budget to pro.",
     seoKeywords: [
       'best drum pedals for djent',
       'djent bass drum pedal',
       'tomas haake pedal meshuggah',
       'matt halpern pedal periphery',
-      'travis orbin pedal periphery',
       'tama speed cobra djent',
       'pearl eliminator djent',
       'best pedal for palm muted riffs',
@@ -83590,7 +83568,7 @@ Budget shouldn't stop you either. A Sabian SBR or Meinl HCS set will teach real 
     // Hero section
     hero: {
       title: "🦶 Best Drum Pedals for Djent",
-      subtitle: "What Tomas Haake, Matt Halpern, and Travis Orbin Actually Play",
+      subtitle: "What Tomas Haake and Matt Halpern Actually Play",
       badge: "GEAR GUIDE 2026",
       stats: [
         { value: '4', label: 'Pedals Reviewed' },
@@ -83604,13 +83582,13 @@ Budget shouldn't stop you either. A Sabian SBR or Meinl HCS set will teach real 
       title: "Why Djent Rewards Precise, Independent Footwork Over Raw Speed",
       content: `Djent's palm-muted kick patterns are foundational to the genre's sound — tight, punchy, and locked precisely to the guitar's rhythmic accents rather than simply fast. That changes the pedal brief from extreme metal's pursuit of maximum sustained speed toward something closer to precision engineering: a pedal that delivers exactly the same response whether it's landing a straightforward beat or an odd-grouping accent buried mid-riff.
 
-Tomas Haake of Meshuggah, djent's founding drummer, doesn't play a double pedal at all — he uses two separate single Tama Speed Cobra pedals, one per foot, giving him full independence to play different rhythmic patterns with each leg rather than the linked motion a shared double-pedal chassis would impose. Matt Halpern of Periphery plays a Pearl Eliminator Redline double pedal, its interchangeable cam system letting him balance power and speed for Periphery's dense, palm-muted arrangements. Travis Orbin, who built the genre-defining, trigger-augmented sound on Periphery's self-titled 2010 debut, used a Tama Speed Cobra 910 alongside his SJC Custom kit and Roland SPD-SX sampling pad.
+Tomas Haake of Meshuggah, djent's founding drummer, doesn't play a double pedal at all — he uses two separate single Tama Speed Cobra pedals, one per foot, giving him full independence to play different rhythmic patterns with each leg rather than the linked motion a shared double-pedal chassis would impose. Matt Halpern of Periphery plays a Pearl Eliminator Redline double pedal, its interchangeable cam system letting him balance power and speed for Periphery's dense, palm-muted arrangements.
 
-This guide breaks down drive systems, footboard design, and single-vs-double pedal setups for djent — comparing three drummers whose polyrhythmic, palm-muted lineages define the genre's foot-technique demands, with recommendations from budget to professional touring rigs.`,
+This guide breaks down drive systems, footboard design, and single-vs-double pedal setups for djent — comparing drummers whose polyrhythmic, palm-muted lineages define the genre's foot-technique demands, with recommendations from budget to professional touring rigs.`,
       keyPoints: [
         "Tomas Haake doesn't use a double pedal at all — two independent single Tama Speed Cobra pedals give him full rhythmic independence between feet",
         "Matt Halpern's Pearl Eliminator Redline balances power and speed for Periphery's dense, palm-muted arrangements",
-        "Travis Orbin's Tama Speed Cobra 910 helped define djent's genre-shaping, trigger-augmented template on Periphery's 2010 debut",
+        "The Tama Speed Cobra 910's Speedo-Ring hybrid drive suits djent's genre-shaping, trigger-augmented technical setups",
         "Precision and consistency matter more than raw top-end speed for djent's foundational, riff-locked kick patterns"
       ]
     },
@@ -83640,13 +83618,13 @@ This guide breaks down drive systems, footboard design, and single-vs-double ped
         {
           name: "Extended Footboard for Rolling Patterns",
           icon: "📏",
-          description: "Travis Orbin's Tama Speed Cobra 910 uses an extended footboard designed for fast, rolling patterns — useful for the technical, prog-leaning double-bass runs that appear within djent's otherwise foundational, riff-locked kick vocabulary.",
+          description: "The Tama Speed Cobra 910 uses an extended footboard designed for fast, rolling patterns — useful for the technical, prog-leaning double-bass runs that appear within djent's otherwise foundational, riff-locked kick vocabulary.",
           recommendation: "An extended footboard for technical, rolling double-bass passages"
         },
         {
           name: "Trigger and Sample Integration",
           icon: "🎛️",
-          description: "Many djent drummers pair acoustic pedals with electronic triggers — Travis Orbin integrates a Roland SPD-SX sampling pad alongside his pedal setup, a common approach for layering samples and electronic elements onto acoustic bass drum hits.",
+          description: "Many djent drummers pair acoustic pedals with electronic triggers, layering samples and electronic elements onto acoustic bass drum hits.",
           recommendation: "A pedal setup that plays well with trigger-compatible bass drum heads if you plan to layer samples"
         },
         {
@@ -83752,15 +83730,14 @@ Halpern's setup shows how the same reliable Eliminator platform that anchors ext
           tier: "pro",
           driveType: "Chain Drive (Speedo-Ring)",
 
-          description: `Travis Orbin built the genre-defining, trigger-augmented sound on Periphery's self-titled 2010 debut using a Tama Speed Cobra 910 double pedal alongside his SJC Custom M5 kit and Roland SPD-SX sampling pad. The Speedo-Ring sprocket combines chain drive's familiar swing with near direct-drive smoothness, ideal for the technical, rapid-fire double-bass runs that punctuate djent's otherwise riff-locked kick vocabulary.
+          description: `The Speedo-Ring sprocket combines chain drive's familiar swing with near direct-drive smoothness, ideal for the technical, rapid-fire double-bass runs that punctuate djent's otherwise riff-locked kick vocabulary.
 
-Orbin's extended footboard design gives him room for fast, rolling patterns whenever a passage calls for more than djent's foundational, straightforward kick placement.`,
+The extended footboard design gives room for fast, rolling patterns whenever a passage calls for more than djent's foundational, straightforward kick placement.`,
 
           pros: [
-            "Travis Orbin's Periphery debut setup — helped define djent's genre-shaping technical wing",
+            "Near direct-drive smoothness suited to djent's genre-shaping technical wing",
             "Speedo-Ring sprocket gives chain drive near direct-drive smoothness",
             "Extended footboard suited to fast, rolling technical passages",
-            "Proven on Periphery's genre-defining self-titled 2010 debut",
             "Pairs well with trigger and sampling pad setups for studio work"
           ],
           cons: [
@@ -83775,9 +83752,6 @@ Orbin's extended footboard design gives him room for fast, rolling patterns when
             beater: "Cobra Beater (dual surface)",
             weight: "3.8 kg (pair)"
           },
-          usedBy: [
-            { name: "Travis Orbin", band: "Periphery / Darkest Hour", note: "Tama Speed Cobra 910 — djent's genre-shaping, trigger-augmented technical setup" }
-          ],
           verdict: "Best for technical, trigger-augmented djent. Near direct-drive smoothness with room for rolling double-bass runs.",
           rating: 4.6,
           affiliateLink: "https://www.thomann.de/intl/tama_hp910lwn_speed_cobra_orbin.htm?partner_id=metalforge"
@@ -83837,7 +83811,7 @@ This is a genuinely capable option for developing djent drummers building precis
           priceRange: "€250-300",
           tier: "budget",
           driveType: "Chain (Power Glide)",
-          description: "The entry-level Iron Cobra shares Tama's Speed Cobra DNA — the same family behind Tomas Haake's and Travis Orbin's professional setups — at an accessible price. A great starting point for developing the precise, riff-locked foot technique djent demands.",
+          description: "The entry-level Iron Cobra shares Tama's Speed Cobra DNA — the same family behind Tomas Haake's professional setup and the Speed Cobra 910 — at an accessible price. A great starting point for developing the precise, riff-locked foot technique djent demands.",
           pros: ["Same Tama family DNA as pro djent setups", "Power Glide cam for a smooth, controlled stroke", "Proven Tama durability"],
           cons: ["Fewer adjustment options than the Speed Cobra 910", "Basic bearings compared to flagship models"],
           verdict: "Best budget entry into djent's Tama Speed Cobra sound.",
@@ -83871,7 +83845,7 @@ This is a genuinely capable option for developing djent drummers building precis
 - Requires learning genuinely independent foot technique
 - Best for polyrhythmic, mathematically complex djent in the Meshuggah tradition
 
-**Double Pedal (Matt Halpern - Pearl Eliminator, Travis Orbin - Tama Speed Cobra 910):**
+**Double Pedal (Matt Halpern - Pearl Eliminator, Tama Speed Cobra 910):**
 - Standard linked motion, easier to learn and more common
 - Interchangeable cams and extended footboards add power and speed options
 - Best for dense, palm-muted prog-djent and technical, trigger-augmented recording
@@ -83902,7 +83876,7 @@ This is a genuinely capable option for developing djent drummers building precis
         {
           category: "Best for Technical, Trigger-Augmented Recording",
           pedal: "Tama Speed Cobra 910",
-          reason: "Travis Orbin's genre-shaping Periphery debut setup — near direct-drive smoothness for rapid runs."
+          reason: "Near direct-drive smoothness for rapid runs, with room for trigger and sampling pad integration."
         },
         {
           category: "Best Budget",
@@ -83920,15 +83894,13 @@ This is a genuinely capable option for developing djent drummers building precis
     ],
     relatedDrummers: [
       { slug: 'tomas-haake', name: 'Tomas Haake', reason: 'Two independent single Tama Speed Cobra pedals — djent\'s founding foot independence' },
-      { slug: 'matt-halpern', name: 'Matt Halpern', reason: 'Pearl Eliminator Redline — Periphery prog-djent crisp precision' },
-      { slug: 'travis-orbin', name: 'Travis Orbin', reason: 'Tama Speed Cobra 910 — Periphery\'s genre-shaping debut setup' }
+      { slug: 'matt-halpern', name: 'Matt Halpern', reason: 'Pearl Eliminator Redline — Periphery prog-djent crisp precision' }
     ],
 
     // Featured drummers (issue template)
     featuredDrummers: [
       { slug: 'tomas-haake', name: 'Tomas Haake', reason: 'Two independent single Tama Speed Cobra pedals — djent\'s founding foot independence' },
-      { slug: 'matt-halpern', name: 'Matt Halpern', reason: 'Pearl Eliminator Redline — Periphery prog-djent crisp precision' },
-      { slug: 'travis-orbin', name: 'Travis Orbin', reason: 'Tama Speed Cobra 910 — Periphery\'s genre-shaping debut setup' }
+      { slug: 'matt-halpern', name: 'Matt Halpern', reason: 'Pearl Eliminator Redline — Periphery prog-djent crisp precision' }
     ],
 
     // FAQ section for SEO
@@ -83942,25 +83914,21 @@ This is a genuinely capable option for developing djent drummers building precis
         answer: "Matt Halpern of Periphery plays a Pearl Eliminator Redline double pedal. Its interchangeable cam system lets him balance power for heavier riff-locked passages with speed for Periphery's technical, rapid-fire sections."
       },
       {
-        question: "What pedal did Travis Orbin use on Periphery's debut album?",
-        answer: "Travis Orbin used a Tama Speed Cobra 910 double pedal alongside his SJC Custom M5 kit and Roland SPD-SX sampling pad to help build the genre-defining, trigger-augmented sound on Periphery's self-titled 2010 debut."
-      },
-      {
         question: "Do djent drummers need a double bass pedal?",
         answer: "Not necessarily. Djent's foundational kick patterns are tight and riff-locked rather than built for sustained double-bass speed. Tomas Haake doesn't use a double pedal at all, preferring two independent single pedals, and a well-built single pedal like the DW 5000 covers most straightforward djent material."
       },
       {
         question: "What's the best budget pedal for djent?",
-        answer: "The Tama Iron Cobra 600 (around €250-300) shares the same Speed Cobra family DNA as Tomas Haake and Travis Orbin's professional pedals. For an even more affordable single-pedal entry point, the DW 3000 Series (€90-120) is an excellent starting point."
+        answer: "The Tama Iron Cobra 600 (around €250-300) shares the same Speed Cobra family DNA as Tomas Haake's professional pedals and the Speed Cobra 910. For an even more affordable single-pedal entry point, the DW 3000 Series (€90-120) is an excellent starting point."
       }
     ],
 
     // Conclusion
     conclusion: {
       title: "Build Your Djent Pedal Setup",
-      content: `Djent pedal choice comes down to how much independence and precision your foot technique demands — not how many notes per second you can squeeze out of a footboard. Tomas Haake's dual independent single Tama Speed Cobra pedals defined djent's founding foot-independence template, letting each leg play a genuinely different pattern. Matt Halpern's Pearl Eliminator Redline proved that a standard double pedal, tuned for precision over raw speed, can carry Periphery's densest palm-muted arrangements. Travis Orbin's Tama Speed Cobra 910 shows how a technical double-pedal setup integrates with triggers and samples on djent's genre-shaping studio recordings.
+      content: `Djent pedal choice comes down to how much independence and precision your foot technique demands — not how many notes per second you can squeeze out of a footboard. Tomas Haake's dual independent single Tama Speed Cobra pedals defined djent's founding foot-independence template, letting each leg play a genuinely different pattern. Matt Halpern's Pearl Eliminator Redline proved that a standard double pedal, tuned for precision over raw speed, can carry Periphery's densest palm-muted arrangements. The Tama Speed Cobra 910 shows how a technical double-pedal setup integrates with triggers and samples for djent's studio recordings.
 
-None of these approaches is more "correct" — all three represent djent's foundational commitment to precise, riff-locked kick patterns over raw top-end speed. Start with whichever setup matches your material's technical demands, and don't be afraid to prioritize consistency and independence over chasing extreme-metal speed numbers.
+None of these approaches is more "correct" — all represent djent's foundational commitment to precise, riff-locked kick patterns over raw top-end speed. Start with whichever setup matches your material's technical demands, and don't be afraid to prioritize consistency and independence over chasing extreme-metal speed numbers.
 
 Budget shouldn't stop you either. A Tama Iron Cobra 600 or DW 3000 Series pedal will teach real precision and survive demanding practice while you save toward the Speed Cobra and Eliminator setups that defined this lineage's greatest records.
 
@@ -106113,8 +106081,7 @@ That same consistency and control make the Speed Cobra 910 an excellent choice a
             spring: "Cobra Coil adjustable spring"
           },
           usedBy: [
-            { name: "Tomas Haake", band: "Meshuggah", note: "Two independent single Speed Cobra pedals for full rhythmic foot independence" },
-            { name: "Travis Orbin", band: "Periphery (2010 debut)", note: "Speed Cobra 910 on djent's genre-defining, trigger-augmented template" }
+            { name: "Tomas Haake", band: "Meshuggah", note: "Two independent single Speed Cobra pedals for full rhythmic foot independence" }
           ],
           verdict: "The precision standard for djent — consistent, controllable, and Tomas Haake's own choice.",
           rating: 4.8,
@@ -106301,7 +106268,6 @@ Its lighter overall weight and simplified mechanism make it easy to transport fo
     relatedDrummers: [
       { slug: 'tomas-haake', name: 'Tomas Haake', reason: 'Two independent single Speed Cobra pedals — the foundational djent kick technique' },
       { slug: 'matt-halpern', name: 'Matt Halpern', reason: 'Pearl Eliminator Redline for Periphery\'s dense, palm-muted arrangements' },
-      { slug: 'travis-orbin', name: 'Travis Orbin', reason: 'Tama Speed Cobra 910 on djent\'s genre-defining trigger-augmented template' },
       { slug: 'matt-garstka', name: 'Matt Garstka', reason: 'Precision-focused technique for Animals as Leaders\' polyrhythmic material' }
     ],
 

@@ -35,7 +35,6 @@ export const licks = {
     "gearUsed": [
       { "name": "Sonor Designer Series Kit", "type": "drums", "link": null },
       { "name": "Sabian HH/AAX Cymbals", "type": "cymbals", "link": null },
-      { "name": "DW 5000 Double Pedal", "type": "hardware", "link": null },
       { "name": "Vic Firth Signature Sticks", "type": "sticks", "link": null }
     ],
     "learningTips": [
@@ -96,7 +95,6 @@ export const licks = {
     "gearUsed": [
       { "name": "Sonor Designer Series Kit", "type": "drums", "link": null },
       { "name": "Sabian HH/AAX Cymbals", "type": "cymbals", "link": null },
-      { "name": "DW 5000 Double Pedal", "type": "hardware", "link": null },
       { "name": "Vic Firth Signature Sticks", "type": "sticks", "link": null }
     ],
     "learningTips": [
@@ -212,7 +210,6 @@ export const licks = {
     "gearUsed": [
       { "name": "Sonor Designer Series Kit", "type": "drums", "link": null },
       { "name": "Sabian HH/AAX Cymbals", "type": "cymbals", "link": null },
-      { "name": "DW 5000 Double Pedal", "type": "hardware", "link": null },
       { "name": "Vic Firth Signature Sticks", "type": "sticks", "link": null }
     ],
     "learningTips": [
@@ -267,7 +264,6 @@ export const licks = {
     "gearUsed": [
       { "name": "Sonor Designer Series Kit", "type": "drums", "link": null },
       { "name": "Sabian HH/AAX Cymbals", "type": "cymbals", "link": null },
-      { "name": "DW 5000 Double Pedal", "type": "hardware", "link": null },
       { "name": "Vic Firth Signature Sticks", "type": "sticks", "link": null }
     ],
     "learningTips": [
@@ -322,7 +318,6 @@ export const licks = {
     "gearUsed": [
       { "name": "Sonor Designer Series Kit", "type": "drums", "link": null },
       { "name": "Sabian HH/AAX Cymbals", "type": "cymbals", "link": null },
-      { "name": "DW 5000 Double Pedal", "type": "hardware", "link": null },
       { "name": "Vic Firth Signature Sticks", "type": "sticks", "link": null }
     ],
     "learningTips": [

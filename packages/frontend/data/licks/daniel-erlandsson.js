@@ -42,7 +42,7 @@ export const licks = {
       { "name": "Pearl Reference Pure Kit", "type": "drums", "link": null },
       { "name": "Sabian AAX/HHX Cymbals", "type": "cymbals", "link": null },
       { "name": "Pearl Eliminator Double Bass Pedal", "type": "hardware", "link": null },
-      { "name": "Vic Firth American Classic 5B", "type": "sticks", "link": null }
+      { "name": "ProMark 5B", "type": "sticks", "link": null }
     ],
     "learningTips": [
       "Build double-bass evenness slowly with a metronome before adding speed",
@@ -103,7 +103,7 @@ export const licks = {
       { "name": "Pearl Reference Pure Kit", "type": "drums", "link": null },
       { "name": "Sabian AA/HH Cymbals", "type": "cymbals", "link": null },
       { "name": "Pearl Eliminator Double Bass Pedal", "type": "hardware", "link": null },
-      { "name": "Vic Firth American Classic 5B", "type": "sticks", "link": null }
+      { "name": "ProMark 5B", "type": "sticks", "link": null }
     ],
     "learningTips": [
       "Groove the kick pattern slowly until it is perfectly even",
@@ -164,7 +164,7 @@ export const licks = {
       { "name": "Pearl Reference Pure Kit", "type": "drums", "link": null },
       { "name": "Sabian AA/HH Cymbals", "type": "cymbals", "link": null },
       { "name": "Pearl Eliminator Double Bass Pedal", "type": "hardware", "link": null },
-      { "name": "Vic Firth American Classic 5B", "type": "sticks", "link": null }
+      { "name": "ProMark 5B", "type": "sticks", "link": null }
     ],
     "learningTips": [
       "Isolate each section and get the transitions smooth before combining",

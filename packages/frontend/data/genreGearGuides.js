@@ -89783,13 +89783,12 @@ One overlooked factor: metalcore's dynamic range means the "right" stick often i
     // SEO metadata
     title: "Best Drumsticks for Doom Metal: 2026 Ultimate Guide",
     metaTitle: "Best Drumsticks for Doom Metal 2026 | MetalForge Expert Guide",
-    description: "Best drumsticks for doom metal drumming: what Brann Dailor (Vater Signature), Danny Carey (Vic Firth Signature), Mario Duplantier (Vic Firth X5A), and Igor Cavalera (Vic Firth 5B) actually play. Heavier sticks for slow, tonnage-first riffing — ranked budget to pro.",
+    description: "Best drumsticks for doom metal drumming: what Brann Dailor (Vater Signature), Danny Carey (Vic Firth Signature), and Igor Cavalera (Vic Firth 5B) actually play. Heavier sticks for slow, tonnage-first riffing — ranked budget to pro.",
     seoKeywords: [
       'best drumsticks for doom metal',
       'doom metal drumsticks',
       'brann dailor drumsticks',
       'danny carey drumsticks tool',
-      'mario duplantier drumsticks gojira',
       'igor cavalera drumsticks',
       'vic firth danny carey signature',
       'heavy drumsticks for slow riffs',
@@ -89809,7 +89808,7 @@ One overlooked factor: metalcore's dynamic range means the "right" stick often i
       subtitle: "Heavier Sticks for Slow, Tonnage-First Riffing",
       badge: "GEAR GUIDE 2026",
       stats: [
-        { value: '4', label: 'Sticks Reviewed' },
+        { value: '3', label: 'Sticks Reviewed' },
         { value: '7 min', label: 'Read Time' },
         { value: '2026', label: 'Updated' }
       ]
@@ -89820,14 +89819,14 @@ One overlooked factor: metalcore's dynamic range means the "right" stick often i
       title: "Why Doom Metal Sticks Need Mass, Not Speed",
       content: `Doom metal's tempo-crawling riffs strip away the one variable most metal drumming is built around: speed. Without blast beats or rapid alternating patterns to manage, a doom drummer's stick choice can lean fully into mass and leverage — every hit lands deliberately, and a heavier stick transfers more force into that single strike without any of the fatigue tradeoffs that would cripple a faster genre.
 
-Brann Dailor of Mastodon plays his own Vater signature stick, built around the deliberate, weighted attack his progressive sludge-doom fills demand across Mastodon's catalog. Danny Carey of Tool uses his Vic Firth signature model — a barrel-tipped, standard-diameter stick that trades some of doom's raw mass for the control Tool's patient, doom-adjacent compositions require as they build toward a climax. Mario Duplantier of Gojira runs the Vic Firth X5A, an extended 5A that favors reach and precision over sheer weight for Gojira's crushing, down-tuned tectonic riffing. Igor Cavalera of Sepultura anchors the heavier end of the spectrum on a standard Vic Firth American Classic 5B, prioritizing raw mass for tonnage-first grooves.
+Brann Dailor of Mastodon plays his own Vater signature stick, built around the deliberate, weighted attack his progressive sludge-doom fills demand across Mastodon's catalog. Danny Carey of Tool uses his Vic Firth signature model — a barrel-tipped, standard-diameter stick that trades some of doom's raw mass for the control Tool's patient, doom-adjacent compositions require as they build toward a climax. Igor Cavalera of Sepultura anchors the heavier end of the spectrum on a standard Vic Firth American Classic 5B, prioritizing raw mass for tonnage-first grooves.
 
 This guide covers what actually makes a drumstick work for doom metal's slow, weighted dynamic, what the genre's most respected drummers actually play, and concrete recommendations from budget to pro.`,
       keyPoints: [
         "Doom metal's slow tempos let drummers prioritize stick mass and leverage over speed or rebound",
         "Brann Dailor's Vater signature and Igor Cavalera's 5B both favor heavier diameters for maximum per-hit impact",
-        "Danny Carey's barrel-tip signature and Mario Duplantier's extended X5A show doom-adjacent drumming can favor control over raw weight",
-        "5B-class diameter is the doom metal ceiling; lighter extended models trade mass for precision on more melodic, progressive-leaning material"
+        "Danny Carey's barrel-tip signature shows doom-adjacent drumming can favor control over raw weight",
+        "5B-class diameter is the doom metal ceiling; lighter signature models trade mass for tone on more melodic, progressive-leaning material"
       ]
     },
 
@@ -89850,7 +89849,7 @@ This guide covers what actually makes a drumstick work for doom metal's slow, we
         {
           name: "Length and Leverage",
           icon: "📐",
-          description: "Mario Duplantier's extended-length Vic Firth X5A shows how added length can substitute for diameter — a longer stick generates more leverage per stroke without the extra mass of a thicker model, useful for drummers who want doom's weight without a heavier feel in hand.",
+          description: "An extended-length stick shows how added length can substitute for diameter — a longer stick generates more leverage per stroke without the extra mass of a thicker model, useful for drummers who want doom's weight without a heavier feel in hand.",
           recommendation: "Standard-to-extended length (16\"-16.5\") for added leverage on weighted strokes"
         },
         {
@@ -89958,45 +89957,6 @@ It's a stick built for a drummer who needs both explosive climactic accents and 
         },
         {
           rank: 3,
-          name: "Vic Firth X5A",
-          brand: "Vic Firth",
-          model: "American Classic Extended X5A",
-          image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Drumsticks.jpg/640px-Drumsticks.jpg",
-          priceRange: "€10-14 (pair)",
-          tier: "pro",
-          material: "American Hickory",
-
-          description: `Mario Duplantier of Gojira plays the Vic Firth X5A — an extended-length 5A that trades some raw diameter for added reach and leverage on Gojira's crushing, down-tuned tectonic riffing. The extra length lets Duplantier generate real weight behind each strike without needing the widest possible diameter, useful for a drummer whose playing spans both crushing doom-adjacent weight and technical precision.
-
-For doom drummers who want more leverage without committing to a heavier-feeling stick in hand, the X5A's extended length is a genuinely different way to add power.`,
-
-          pros: [
-            "Mario Duplantier's proven Gojira setup — crushing weight without maximum diameter",
-            "Extended length adds leverage and reach on weighted, down-tuned strikes",
-            "American hickory for durability under aggressive, tectonic riffing",
-            "Lighter in-hand feel than a full 5B despite the added leverage",
-            "Versatile enough for both doom-adjacent weight and technical precision"
-          ],
-          cons: [
-            "Less raw diameter than a dedicated 5B for maximum mass",
-            "Extended length takes adjustment for drummers used to standard 16\" sticks"
-          ],
-          specs: {
-            material: "American Hickory",
-            diameter: "0.565\"",
-            length: "16.5\"",
-            tip: "Oval (wood)",
-            grip: "Lacquered"
-          },
-          usedBy: [
-            { name: "Mario Duplantier", band: "Gojira", note: "Vic Firth X5A — extended leverage for crushing, down-tuned riffing" }
-          ],
-          verdict: "The leverage-over-mass pick. Ideal for doom drummers who want added power without a heavier in-hand feel.",
-          rating: 4.6,
-          affiliateLink: "https://www.thomann.de/intl/vic_firth_x5a.htm?partner_id=metalforge"
-        },
-        {
-          rank: 4,
           name: "Vic Firth American Classic 5B",
           brand: "Vic Firth",
           model: "American Classic 5B Wood Tip",
@@ -90078,10 +90038,10 @@ For doom drummers who want maximum weight without paying for a signature model, 
       title: "Signature vs Standard Sticks for Doom Metal",
       content: `Doom metal's most respected drummers split between purpose-built signature sticks and a standard, off-the-shelf 5B — here's the honest breakdown of when each makes sense:
 
-**Signature Models (Vater Brann Dailor, Vic Firth Danny Carey, Vic Firth X5A):**
+**Signature Models (Vater Brann Dailor, Vic Firth Danny Carey):**
 - Engineered around one drummer's specific tonal and leverage demands
-- Barrel tips and extended lengths trade raw diameter for tone and reach
-- Preferred by: Brann Dailor, Danny Carey, Mario Duplantier
+- Barrel tips trade raw diameter for tone and reach
+- Preferred by: Brann Dailor, Danny Carey
 
 **Standard Sizes (Vic Firth American Classic 5B):**
 - Broadly proven, widely available, and more affordable
@@ -90090,7 +90050,7 @@ For doom drummers who want maximum weight without paying for a signature model, 
 
 **The Truth:** Both approaches work at doom metal's highest level. Brann Dailor's and Danny Carey's signature sticks solve a specific problem — balancing doom-adjacent weight with the tonal and technical demands of more progressive, melodic material. Igor Cavalera's standard 5B choice shows that raw diameter alone can carry tonnage-first, tribal-leaning doom without anything more specialized.
 
-**Our Recommendation:** Start with a standard Vic Firth 5B for maximum stock weight. If you find yourself wanting a fuller, darker cymbal tone or extra leverage without added mass, a signature model like Danny Carey's or Mario Duplantier's X5A is worth the upgrade.`,
+**Our Recommendation:** Start with a standard Vic Firth 5B for maximum stock weight. If you find yourself wanting a fuller, darker cymbal tone, a signature model like Danny Carey's is worth the upgrade.`,
       comparisonTable: [
         { feature: "Raw Weight and Impact", wood: "⭐⭐⭐⭐⭐", aluminum: "⭐⭐⭐" },
         { feature: "Tonal Fullness", wood: "⭐⭐⭐⭐", aluminum: "⭐⭐⭐⭐⭐" },
@@ -90115,11 +90075,6 @@ For doom drummers who want maximum weight without paying for a signature model, 
           reason: "Danny Carey's barrel-tip signature — full tone and control across Tool's doom-adjacent complexity."
         },
         {
-          category: "Best for Leverage Over Mass",
-          pedal: "Vic Firth X5A",
-          reason: "Mario Duplantier's extended-length pick — added leverage without a heavier in-hand feel."
-        },
-        {
           category: "Best Budget Pick",
           pedal: "Vic Firth American Classic 5B",
           reason: "Igor Cavalera's maximum-diameter choice for tonnage-first, tribal-leaning doom."
@@ -90137,7 +90092,6 @@ For doom drummers who want maximum weight without paying for a signature model, 
     relatedDrummers: [
       { slug: 'brann-dailor', name: 'Brann Dailor', reason: 'Vater signature — weighted attack for Mastodon\'s progressive sludge-doom' },
       { slug: 'danny-carey', name: 'Danny Carey', reason: 'Vic Firth signature — full, dark tone for Tool\'s doom-adjacent compositions' },
-      { slug: 'mario-duplantier', name: 'Mario Duplantier', reason: 'Vic Firth X5A — extended leverage for Gojira\'s crushing riffing' },
       { slug: 'igor-cavalera', name: 'Igor Cavalera', reason: 'Vic Firth American Classic 5B — maximum weight for tonnage-first grooves' }
     ],
 
@@ -90145,7 +90099,6 @@ For doom drummers who want maximum weight without paying for a signature model, 
     featuredDrummers: [
       { slug: 'brann-dailor', name: 'Brann Dailor', reason: 'Vater Signature — Mastodon\'s progressive sludge-doom weight and fills' },
       { slug: 'danny-carey', name: 'Danny Carey', reason: 'Vic Firth Signature — Tool\'s patient, doom-adjacent complexity' },
-      { slug: 'mario-duplantier', name: 'Mario Duplantier', reason: 'Vic Firth X5A — Gojira\'s crushing, tectonic weight' },
       { slug: 'igor-cavalera', name: 'Igor Cavalera', reason: 'Vic Firth American Classic 5B — Sepultura\'s tonnage-first grooves' }
     ],
     relatedComparisons: [],
@@ -90167,10 +90120,6 @@ For doom drummers who want maximum weight without paying for a signature model, 
       {
         question: "Do doom metal drummers need fast rebound?",
         answer: "Not as much as faster genres do. Doom's deliberate pacing means a slower-rebounding, heavier stick is a genuine asset rather than a liability — drummers can prioritize mass and control over blast-beat-style rebound speed."
-      },
-      {
-        question: "What drumsticks does Mario Duplantier use?",
-        answer: "Mario Duplantier of Gojira plays the Vic Firth X5A, an extended-length 5A that adds leverage and reach on Gojira's crushing, down-tuned riffing without committing to a heavier in-hand feel."
       }
     ],
 
@@ -91390,14 +91339,13 @@ One overlooked factor: mathcore's unpredictability means the "right" stick often
     // SEO metadata
     title: "Best Drumsticks for Progressive Metal: 2026 Ultimate Guide",
     metaTitle: "Best Drumsticks for Progressive Metal 2026 | MetalForge Expert Guide",
-    description: "Best drumsticks for progressive metal drumming: what Mike Mangini (Vic Firth Signature), Mike Portnoy (Promark Signature TX420N), Danny Carey (Vic Firth Signature), and Mario Duplantier (Vic Firth X5A) actually play. Lighter, articulate sticks for odd-meter precision — ranked budget to pro.",
+    description: "Best drumsticks for progressive metal drumming: what Mike Mangini (Vic Firth Signature), Mike Portnoy (Promark Signature TX420N), and Danny Carey (Vic Firth Signature) actually play. Lighter, articulate sticks for odd-meter precision — ranked budget to pro.",
     seoKeywords: [
       'best drumsticks for progressive metal',
       'progressive metal drumsticks',
       'mike mangini drumsticks',
       'mike portnoy drumsticks',
       'danny carey drumsticks',
-      'mario duplantier drumsticks',
       'vic firth mike mangini signature',
       'promark mike portnoy signature',
       'best sticks for odd meter drumming',
@@ -91416,7 +91364,7 @@ One overlooked factor: mathcore's unpredictability means the "right" stick often
       subtitle: "Lighter, Articulate Sticks for Odd-Meter Precision",
       badge: "GEAR GUIDE 2026",
       stats: [
-        { value: '4', label: 'Sticks Reviewed' },
+        { value: '3', label: 'Sticks Reviewed' },
         { value: '7 min', label: 'Read Time' },
         { value: '2026', label: 'Updated' }
       ]
@@ -91427,14 +91375,14 @@ One overlooked factor: mathcore's unpredictability means the "right" stick often
       title: "Why Progressive Metal Demands a Lighter, More Articulate Stick",
       content: `Progressive metal's constantly shifting meters, extended compositions, and wide dynamic range — from a whisper-quiet cymbal wash to a full-band unison hit — place unusual demands on a drumstick. Unlike a genre built around one repeating groove, progressive metal drummers move between odd-time fills, quiet dynamic passages, and explosive accents within a single song, and the stick has to stay controllable across all of it.
 
-Mike Mangini of Dream Theater plays his own Vic Firth signature stick, tuned for the precision required to execute Dream Theater's famously complex, constantly-shifting arrangements without losing control at speed. Mike Portnoy, Dream Theater's original drummer and now of Sons of Apollo, plays his own Promark signature model, the TX420N, a nylon-tip stick built for consistent articulation across decades of technically dense progressive metal writing. Danny Carey of Tool plays his own barrel-tipped Vic Firth signature stick, built around the balanced control his polyrhythmic, odd-meter compositions require. Mario Duplantier of Gojira plays the Vic Firth X5A, an extended-length 5A that trades raw diameter for reach and leverage — useful for a drummer whose parts span both technical precision and crushing, down-tuned weight.
+Mike Mangini of Dream Theater plays his own Vic Firth signature stick, tuned for the precision required to execute Dream Theater's famously complex, constantly-shifting arrangements without losing control at speed. Mike Portnoy, Dream Theater's original drummer and now of Sons of Apollo, plays his own Promark signature model, the TX420N, a nylon-tip stick built for consistent articulation across decades of technically dense progressive metal writing. Danny Carey of Tool plays his own barrel-tipped Vic Firth signature stick, built around the balanced control his polyrhythmic, odd-meter compositions require.
 
 This guide breaks down what actually makes a stick work for progressive metal's technical demands, what the genre's most influential drummers actually play, and concrete recommendations from budget to pro.`,
       keyPoints: [
         "Progressive metal rewards control and articulation over raw power — lighter, precisely-tapered sticks dominate",
         "Mike Mangini's Vic Firth signature stick is tuned for Dream Theater's constantly-shifting, technically dense arrangements",
         "Mike Portnoy's Promark TX420N nylon-tip signature has anchored his sound across decades of progressive metal writing",
-        "Mario Duplantier's extended-length Vic Firth X5A trades diameter for reach, balancing technical precision with crushing weight"
+        "Danny Carey's barrel-tipped Vic Firth signature balances tonal fullness with polyrhythmic control"
       ]
     },
 
@@ -91451,7 +91399,7 @@ This guide breaks down what actually makes a stick work for progressive metal's 
         {
           name: "Taper and Reach",
           icon: "📐",
-          description: "An extended-length taper, like the one built into Mario Duplantier's Vic Firth X5A, adds reach and leverage without increasing diameter — useful for drummers whose parts alternate between delicate technical passages and crushing, down-tuned weight.",
+          description: "An extended-length taper adds reach and leverage without increasing diameter — useful for drummers whose parts alternate between delicate technical passages and crushing, down-tuned weight.",
           recommendation: "Extended length for leverage without added mass; standard length for a more direct, compact feel"
         },
         {
@@ -91475,7 +91423,7 @@ This guide breaks down what actually makes a stick work for progressive metal's 
         {
           name: "Signature vs Standard",
           icon: "🎯",
-          description: "Progressive metal's most influential drummers overwhelmingly play their own signature sticks, each engineered around a specific technical need — Mangini's precision, Portnoy's consistency, Carey's dynamic tone, Duplantier's reach. A standard 5A remains a fully valid starting point before committing to a signature model.",
+          description: "Progressive metal's most influential drummers overwhelmingly play their own signature sticks, each engineered around a specific technical need — Mangini's precision, Portnoy's consistency, Carey's dynamic tone. A standard 5A remains a fully valid starting point before committing to a signature model.",
           recommendation: "Start with a standard 5A to find your baseline feel before moving to a signature model"
         }
       ]
@@ -91601,45 +91549,6 @@ It's a stick built for a drummer who needs both explosive climactic accents and 
           verdict: "The polyrhythmic-control pick. Best for progressive metal drummers navigating Tool-style unconventional time signatures.",
           rating: 4.7,
           affiliateLink: "https://www.thomann.de/intl/vic_firth_danny_carey_signature.htm?partner_id=metalforge"
-        },
-        {
-          rank: 4,
-          name: "Vic Firth X5A",
-          brand: "Vic Firth",
-          model: "American Classic Extended X5A",
-          image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Drumsticks.jpg/640px-Drumsticks.jpg",
-          priceRange: "€10-14 (pair)",
-          tier: "pro",
-          material: "American Hickory",
-
-          description: `Mario Duplantier of Gojira plays the Vic Firth X5A — an extended-length 5A that trades some raw diameter for added reach and leverage across Gojira's technical, tectonic riffing. The extra length lets Duplantier generate real weight behind each strike without needing the widest possible diameter, useful for a drummer whose playing spans both crushing weight and technical precision.
-
-For progressive metal drummers who want more leverage without committing to a heavier-feeling stick in hand, the X5A's extended length is a genuinely different way to add power.`,
-
-          pros: [
-            "Mario Duplantier's proven Gojira setup — technical precision with crushing weight",
-            "Extended length adds leverage and reach on weighted, accented strikes",
-            "American hickory for durability under aggressive, technical riffing",
-            "Lighter in-hand feel than a full 5B despite the added leverage",
-            "Versatile enough for both technical precision and down-tuned weight"
-          ],
-          cons: [
-            "Less raw diameter than a dedicated 5B for maximum mass",
-            "Extended length takes adjustment for drummers used to standard 16\" sticks"
-          ],
-          specs: {
-            material: "American Hickory",
-            diameter: "0.565\"",
-            length: "16.5\"",
-            tip: "Oval (wood)",
-            grip: "Lacquered"
-          },
-          usedBy: [
-            { name: "Mario Duplantier", band: "Gojira", note: "Vic Firth X5A — extended leverage for technical, tectonic riffing" }
-          ],
-          verdict: "The leverage-over-mass pick. Ideal for progressive metal drummers who want added power without a heavier in-hand feel.",
-          rating: 4.6,
-          affiliateLink: "https://www.thomann.de/intl/vic_firth_x5a.htm?partner_id=metalforge"
         }
       ]
     },
@@ -91691,12 +91600,11 @@ For progressive metal drummers who want more leverage without committing to a he
 - Premium pricing reflects the R&D behind a true signature partnership
 - Preferred by: Mike Mangini, Mike Portnoy, Danny Carey
 
-**Standard/Extended Sizes (Vic Firth X5A):**
+**Standard Sizes (Vic Firth American Classic 5A):**
 - Broadly proven and more affordable
-- Extended length gives reach without a fully custom signature profile
-- Preferred by: Mario Duplantier
+- A fully valid baseline before committing to a signature profile
 
-**The Truth:** Both approaches work at the highest level. Mangini's and Carey's signature sticks exist because no off-the-shelf stick matched the exact control they needed for their respective bands' constantly-shifting arrangements. Duplantier's choice of an extended standard size shows that a well-chosen off-the-shelf model can deliver comparable technical precision.
+**The Truth:** Mangini's and Carey's signature sticks exist because no off-the-shelf stick matched the exact control they needed for their respective bands' constantly-shifting arrangements.
 
 **Our Recommendation:** Start with a standard American Classic 5A to find your baseline feel. Move to a signature model once you know specifically what you're missing — more reach, a different tip, or a different weight distribution.`,
       comparisonTable: [
@@ -91745,16 +91653,14 @@ For progressive metal drummers who want more leverage without committing to a he
     relatedDrummers: [
       { slug: 'mike-mangini', name: 'Mike Mangini', reason: 'Vic Firth signature — precision for Dream Theater\'s constantly-shifting arrangements' },
       { slug: 'mike-portnoy', name: 'Mike Portnoy', reason: 'Promark TX420N signature — three-plus decades of progressive metal writing' },
-      { slug: 'danny-carey', name: 'Danny Carey', reason: 'Vic Firth signature — polyrhythmic control for Tool\'s unconventional time signatures' },
-      { slug: 'mario-duplantier', name: 'Mario Duplantier', reason: 'Vic Firth X5A — extended reach for Gojira\'s technical, tectonic riffing' }
+      { slug: 'danny-carey', name: 'Danny Carey', reason: 'Vic Firth signature — polyrhythmic control for Tool\'s unconventional time signatures' }
     ],
 
     // Featured drummers (issue template)
     featuredDrummers: [
       { slug: 'mike-mangini', name: 'Mike Mangini', reason: 'Vic Firth signature — Dream Theater\'s technically demanding, constantly-shifting arrangements' },
       { slug: 'mike-portnoy', name: 'Mike Portnoy', reason: 'Promark TX420N signature — decades of progressive metal\'s most ambitious writing' },
-      { slug: 'danny-carey', name: 'Danny Carey', reason: 'Vic Firth signature — Tool\'s polyrhythmic, odd-meter mastery' },
-      { slug: 'mario-duplantier', name: 'Mario Duplantier', reason: 'Vic Firth X5A — Gojira\'s technical precision and tectonic weight' }
+      { slug: 'danny-carey', name: 'Danny Carey', reason: 'Vic Firth signature — Tool\'s polyrhythmic, odd-meter mastery' }
     ],
     relatedComparisons: [],
 
@@ -91770,7 +91676,7 @@ For progressive metal drummers who want more leverage without committing to a he
       },
       {
         question: "What's the best drumstick for odd-meter progressive metal?",
-        answer: "A stick with balanced weight distribution and a controlled tip works best across odd-meter writing. Mike Mangini's Vic Firth signature is purpose-built for this kind of constantly-shifting technical control, while Mario Duplantier's extended Vic Firth X5A adds reach without extra diameter."
+        answer: "A stick with balanced weight distribution and a controlled tip works best across odd-meter writing. Mike Mangini's Vic Firth signature is purpose-built for this kind of constantly-shifting technical control."
       },
       {
         question: "What drumsticks does Danny Carey use?",
@@ -91787,7 +91693,7 @@ For progressive metal drummers who want more leverage without committing to a he
       title: "Find Your Progressive Metal Stick",
       content: `Progressive metal's stick choices reflect the genre's core demand: control across constantly shifting material, not raw power on a single repeating groove. Mike Mangini's signature stick exists because Dream Theater's material genuinely needs a stick engineered for precision at speed. Mike Portnoy's decades-long loyalty to his own Promark signature shows how personal stick feel becomes once you're building a career around technically ambitious writing.
 
-For most progressive metal drummers, start with a standard Vic Firth American Classic 5A to find your baseline feel. If you're chasing a specific tonal quality — Danny Carey's full, dark cymbal voicing or Mario Duplantier's extra reach — a signature model is worth the upgrade once you know exactly what you're missing.
+For most progressive metal drummers, start with a standard Vic Firth American Classic 5A to find your baseline feel. If you're chasing a specific tonal quality — like Danny Carey's full, dark cymbal voicing — a signature model is worth the upgrade once you know exactly what you're missing.
 
 🤘 **Count the meter. Land the accent. Stay in control.**`
     }
@@ -91802,14 +91708,13 @@ For most progressive metal drummers, start with a standard Vic Firth American Cl
     // SEO metadata
     title: "Best Drumsticks for Sludge Metal: 2026 Ultimate Guide",
     metaTitle: "Best Drumsticks for Sludge Metal 2026 | MetalForge Expert Guide",
-    description: "Best drumsticks for sludge metal drumming: what Brann Dailor (Vater Signature), Igor Cavalera (Vic Firth 5B), Shannon Larkin (Promark Signature), and Mario Duplantier (Vic Firth X5A) actually play. Heavy sticks built for low-tempo power — ranked budget to pro.",
+    description: "Best drumsticks for sludge metal drumming: what Brann Dailor (Vater Signature), Igor Cavalera (Vic Firth 5B), and Shannon Larkin (Promark Signature) actually play. Heavy sticks built for low-tempo power — ranked budget to pro.",
     seoKeywords: [
       'best drumsticks for sludge metal',
       'sludge metal drumsticks',
       'brann dailor drumsticks',
       'igor cavalera drumsticks',
       'shannon larkin drumsticks',
-      'mario duplantier drumsticks',
       'vater brann dailor signature',
       'best sticks for down tuned riffs',
       'heavy drumsticks low tempo power',
@@ -91828,7 +91733,7 @@ For most progressive metal drummers, start with a standard Vic Firth American Cl
       subtitle: "Heavy Sticks Built for Low-Tempo Power",
       badge: "GEAR GUIDE 2026",
       stats: [
-        { value: '4', label: 'Sticks Reviewed' },
+        { value: '3', label: 'Sticks Reviewed' },
         { value: '7 min', label: 'Read Time' },
         { value: '2026', label: 'Updated' }
       ]
@@ -91839,7 +91744,7 @@ For most progressive metal drummers, start with a standard Vic Firth American Cl
       title: "Why Sludge Metal Rewards a Heavier Stick",
       content: `Sludge metal's slow-to-mid tempo, down-tuned weight, and doom-adjacent atmosphere put a different demand on a drumstick than a fast, technical genre does. Where blast-beat drumming prioritizes fast rebound above all else, sludge metal drumming prioritizes mass — every deliberate downbeat has to carry real authority, and a heavier stick delivers that weight without requiring more effort from the drummer.
 
-Brann Dailor of Mastodon plays his own Vater signature stick, built around the deliberate, weighted attack that anchors Mastodon's progressive sludge fills across albums like "Leviathan" and "Crack the Skye." Igor Cavalera of Sepultura plays a standard Vic Firth American Classic 5B, anchoring the heavier end of sludge and groove's stick spectrum for the tribal, down-tuned grooves he helped pioneer on "Chaos A.D." and "Roots." Shannon Larkin, whose work spans Godsmack's sludge-influenced hard rock weight, plays his own Promark signature stick, tuned for explosive, radio-ready punch on accented downbeats. Mario Duplantier of Gojira, whose tectonic, down-tuned riffing sits directly adjacent to sludge metal's tonal territory, plays the Vic Firth X5A, an extended-length stick that trades diameter for reach.
+Brann Dailor of Mastodon plays his own Vater signature stick, built around the deliberate, weighted attack that anchors Mastodon's progressive sludge fills across albums like "Leviathan" and "Crack the Skye." Igor Cavalera of Sepultura plays a standard Vic Firth American Classic 5B, anchoring the heavier end of sludge and groove's stick spectrum for the tribal, down-tuned grooves he helped pioneer on "Chaos A.D." and "Roots." Shannon Larkin, whose work spans Godsmack's sludge-influenced hard rock weight, plays his own Promark signature stick, tuned for explosive, radio-ready punch on accented downbeats.
 
 This guide covers what actually makes a stick work for sludge metal's slow, weighted demands, what the genre's most influential drummers actually play, and concrete recommendations from budget to pro.`,
       keyPoints: [
@@ -91877,12 +91782,6 @@ This guide covers what actually makes a stick work for sludge metal's slow, weig
           icon: "🪵",
           description: "American hickory remains standard across every drummer in this guide, but sludge drummers can lean toward denser-cut hickory or heavier signature models without worrying about the fatigue that would build up during a faster genre's marathon blast sections.",
           recommendation: "Dense-cut American hickory for maximum mass without sacrificing durability"
-        },
-        {
-          name: "Leverage vs Raw Diameter",
-          icon: "📐",
-          description: "Mario Duplantier's extended-length Vic Firth X5A shows there's more than one way to add power to a strike — extra length adds leverage and reach without increasing diameter, useful for drummers whose material spans both crushing weight and technical precision.",
-          recommendation: "Extended length as an alternative to raw diameter for adding leverage without extra in-hand mass"
         },
         {
           name: "Signature vs Standard",
@@ -92013,45 +91912,6 @@ Larkin's signature stick shows that a well-tuned standard-diameter model can del
           verdict: "The radio-ready pick. Best for sludge metal drummers chasing explosive, cutting impact with dependable control.",
           rating: 4.6,
           affiliateLink: "https://www.thomann.de/intl/promark_shannon_larkin_signature.htm?partner_id=metalforge"
-        },
-        {
-          rank: 4,
-          name: "Vic Firth X5A",
-          brand: "Vic Firth",
-          model: "American Classic Extended X5A",
-          image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Drumsticks.jpg/640px-Drumsticks.jpg",
-          priceRange: "€10-14 (pair)",
-          tier: "pro",
-          material: "American Hickory",
-
-          description: `Mario Duplantier of Gojira plays the Vic Firth X5A — an extended-length 5A that trades some raw diameter for added reach and leverage on Gojira's crushing, down-tuned tectonic riffing, sitting directly adjacent to sludge metal's tonal territory. The extra length lets Duplantier generate real weight behind each strike without needing the widest possible diameter.
-
-For sludge drummers who want more leverage without committing to a heavier-feeling stick in hand, the X5A's extended length is a genuinely different way to add power.`,
-
-          pros: [
-            "Mario Duplantier's proven Gojira setup — crushing weight without maximum diameter",
-            "Extended length adds leverage and reach on weighted, down-tuned strikes",
-            "American hickory for durability under aggressive, tectonic riffing",
-            "Lighter in-hand feel than a full 5B despite the added leverage",
-            "Versatile enough for both sludge-adjacent weight and technical precision"
-          ],
-          cons: [
-            "Less raw diameter than a dedicated 5B for maximum mass",
-            "Extended length takes adjustment for drummers used to standard 16\" sticks"
-          ],
-          specs: {
-            material: "American Hickory",
-            diameter: "0.565\"",
-            length: "16.5\"",
-            tip: "Oval (wood)",
-            grip: "Lacquered"
-          },
-          usedBy: [
-            { name: "Mario Duplantier", band: "Gojira", note: "Vic Firth X5A — extended leverage for crushing, down-tuned riffing" }
-          ],
-          verdict: "The leverage-over-mass pick. Ideal for sludge drummers who want added power without a heavier in-hand feel.",
-          rating: 4.6,
-          affiliateLink: "https://www.thomann.de/intl/vic_firth_x5a.htm?partner_id=metalforge"
         }
       ]
     },
@@ -92103,10 +91963,10 @@ For sludge drummers who want more leverage without committing to a heavier-feeli
 - Premium pricing reflects the R&D behind a true signature partnership
 - Preferred by: Brann Dailor, Shannon Larkin
 
-**Standard/Extended Sizes (Vic Firth 5B, Vic Firth X5A):**
+**Standard Sizes (Vic Firth 5B):**
 - Broadly proven, widely available, and more affordable
-- No specialization, but deliver exactly the raw mass sludge metal rewards
-- Preferred by: Igor Cavalera, Mario Duplantier
+- No specialization, but delivers exactly the raw mass sludge metal rewards
+- Preferred by: Igor Cavalera
 
 **The Truth:** Both approaches work at the highest level. Brann Dailor's Vater signature exists because no off-the-shelf stick matched the exact weighted attack Mastodon's progressive sludge fills needed. Igor Cavalera's choice of a standard 5B shows that raw diameter alone can deliver comparable downbeat authority without any specialized geometry.
 
@@ -92157,16 +92017,14 @@ For sludge drummers who want more leverage without committing to a heavier-feeli
     relatedDrummers: [
       { slug: 'brann-dailor', name: 'Brann Dailor', reason: 'Vater signature — Mastodon sludge metal\'s most direct working analogue' },
       { slug: 'igor-cavalera', name: 'Igor Cavalera', reason: 'Vic Firth American Classic 5B — Sepultura tribal, down-tuned free-resonance weight' },
-      { slug: 'shannon-larkin', name: 'Shannon Larkin', reason: 'Promark signature — Godsmack sludge-influenced hard rock weight' },
-      { slug: 'mario-duplantier', name: 'Mario Duplantier', reason: 'Vic Firth X5A — Gojira tectonic, sludge-adjacent weight' }
+      { slug: 'shannon-larkin', name: 'Shannon Larkin', reason: 'Promark signature — Godsmack sludge-influenced hard rock weight' }
     ],
 
     // Featured drummers (issue template)
     featuredDrummers: [
       { slug: 'brann-dailor', name: 'Brann Dailor', reason: 'Vater signature — Mastodon\'s progressive sludge metal fills' },
       { slug: 'igor-cavalera', name: 'Igor Cavalera', reason: 'Vic Firth American Classic 5B — Sepultura\'s tribal, down-tuned weight' },
-      { slug: 'shannon-larkin', name: 'Shannon Larkin', reason: 'Promark signature — Godsmack\'s sludge-influenced hard rock punch' },
-      { slug: 'mario-duplantier', name: 'Mario Duplantier', reason: 'Vic Firth X5A — Gojira\'s tectonic, down-tuned riffing' }
+      { slug: 'shannon-larkin', name: 'Shannon Larkin', reason: 'Promark signature — Godsmack\'s sludge-influenced hard rock punch' }
     ],
     relatedComparisons: [],
 
@@ -92199,7 +92057,7 @@ For sludge drummers who want more leverage without committing to a heavier-feeli
       title: "Find Your Sludge Metal Stick",
       content: `Sludge metal's stick choices reflect the genre's core demand: mass and authority on slow, deliberate downbeats rather than fast rebound. Brann Dailor's Vater signature exists because Mastodon's progressive sludge fills genuinely needed a stick engineered for weighted attack. Igor Cavalera's standard Vic Firth 5B, unchanged across decades of Sepultura's tribal, down-tuned grooves, proves raw diameter alone can deliver comparable authority without anything more specialized.
 
-For most sludge metal drummers, start with a standard Vic Firth 5B to find your baseline feel for the genre's weighted demands. If you're chasing a specific tonal quality — Brann Dailor's melodic versatility or Mario Duplantier's extra reach — a signature model is worth the upgrade once you know exactly what you're missing.
+For most sludge metal drummers, start with a standard Vic Firth 5B to find your baseline feel for the genre's weighted demands. If you're chasing a specific tonal quality — like Brann Dailor's melodic versatility — a signature model is worth the upgrade once you know exactly what you're missing.
 
 🤘 **Slow the tempo. Add the weight. Own the downbeat.**`
     }
@@ -94083,18 +93941,16 @@ For most nu-metal drummers, start with a standard Vic Firth 5A/5B to find your b
     // SEO metadata
     title: "Best Drumsticks for Post-Metal: 2026 Ultimate Guide",
     metaTitle: "Best Drumsticks for Post-Metal 2026 | MetalForge Expert Guide",
-    description: "Best drumsticks for post-metal drumming: what Brann Dailor (Vater Signature), Mario Duplantier (Vic Firth X5A), Danny Carey (Vic Firth Signature), and Abe Cunningham (Vic Firth 5A) actually play. Balanced sticks built for dynamic range across slow builds and crushing climaxes — ranked budget to pro.",
+    description: "Best drumsticks for post-metal drumming: what Brann Dailor (Vater Signature), Danny Carey (Vic Firth Signature), and Abe Cunningham (Vic Firth 5A) actually play. Balanced sticks built for dynamic range across slow builds and crushing climaxes — ranked budget to pro.",
     seoKeywords: [
       'best drumsticks for post metal',
       'post metal drumsticks',
       'brann dailor drumsticks mastodon',
-      'mario duplantier drumsticks gojira',
       'danny carey drumsticks tool',
       'abe cunningham drumsticks deftones',
       'vater brann dailor signature',
       'best sticks for dynamic range',
-      'balanced drumsticks for post metal builds',
-      'vic firth x5a drumsticks'
+      'balanced drumsticks for post metal builds'
     ],
     ogImage: '/api/og/guide?type=genre-gear&gear=sticks&genre=post-metal',
     datePublished: '2026-07-08',
@@ -94109,7 +93965,7 @@ For most nu-metal drummers, start with a standard Vic Firth 5A/5B to find your b
       subtitle: "Balanced Sticks for Dynamic Range Across Slow Builds and Crushing Climaxes",
       badge: "GEAR GUIDE 2026",
       stats: [
-        { value: '4', label: 'Sticks Reviewed' },
+        { value: '3', label: 'Sticks Reviewed' },
         { value: '7 min', label: 'Read Time' },
         { value: '2026', label: 'Updated' }
       ]
@@ -94120,12 +93976,12 @@ For most nu-metal drummers, start with a standard Vic Firth 5A/5B to find your b
       title: "Why Post-Metal Demands a Dynamically Balanced Stick",
       content: `Post-metal builds songs from a hushed, ambient passage into a crushing, distorted climax within the same track — and a stick has to serve both ends of that range without compromise. A stick tuned purely for speed loses tonal depth on quiet, textural passages; a stick tuned purely for weight loses the sensitivity a slow build depends on. That balance is exactly what separates post-metal's stick choices from more single-purpose extreme metal genres.
 
-Brann Dailor of Mastodon plays his own Vater signature stick, built around the deliberate, weighted attack his progressive, dynamically shifting fills demand across Mastodon's catalog. Mario Duplantier of Gojira runs the Vic Firth X5A, an extended 5A that favors reach and precision over sheer weight for Gojira's crushing, down-tuned tectonic riffing. Danny Carey of Tool uses his Vic Firth signature model — a barrel-tipped, standard-diameter stick that balances control with a full, dark cymbal tone as Tool's patient compositions build toward a climax. Abe Cunningham of Deftones plays a standard Vic Firth American Classic 5A, giving Deftones' quiet-to-heavy dynamic shifts the sensitivity they need at both extremes.
+Brann Dailor of Mastodon plays his own Vater signature stick, built around the deliberate, weighted attack his progressive, dynamically shifting fills demand across Mastodon's catalog. Danny Carey of Tool uses his Vic Firth signature model — a barrel-tipped, standard-diameter stick that balances control with a full, dark cymbal tone as Tool's patient compositions build toward a climax. Abe Cunningham of Deftones plays a standard Vic Firth American Classic 5A, giving Deftones' quiet-to-heavy dynamic shifts the sensitivity they need at both extremes.
 
 This guide covers what actually makes a drumstick work for post-metal's dynamic-range demands, what the genre's most respected drummers actually play, and concrete recommendations from budget to pro.`,
       keyPoints: [
         "Post-metal's shift from ambient build to crushing climax rewards a stick balanced across the full dynamic range",
-        "Brann Dailor's Vater signature and Mario Duplantier's Vic Firth X5A both add weight without sacrificing control on quieter passages",
+        "Brann Dailor's Vater signature adds weight without sacrificing control on quieter passages",
         "Danny Carey's barrel-tip signature delivers a full, dark tone that serves both restraint and heaviness",
         "Abe Cunningham's standard 5A shows a well-chosen off-the-shelf stick can serve post-metal's dynamic range without a signature model"
       ]
@@ -94150,7 +94006,7 @@ This guide covers what actually makes a drumstick work for post-metal's dynamic-
         {
           name: "Length and Leverage",
           icon: "📐",
-          description: "Mario Duplantier's extended-length Vic Firth X5A shows how added length can substitute for diameter — a longer stick generates more leverage per stroke for Gojira's crushing riffing without needing a heavier feel in hand during quieter, more textural sections.",
+          description: "An extended-length stick shows how added length can substitute for diameter — a longer stick generates more leverage per stroke without needing a heavier feel in hand during quieter, more textural sections.",
           recommendation: "Standard-to-extended length (16\"-16.5\") for added leverage without extra mass"
         },
         {
@@ -94168,7 +94024,7 @@ This guide covers what actually makes a drumstick work for post-metal's dynamic-
         {
           name: "Signature vs Standard",
           icon: "🎯",
-          description: "Post-metal splits between drummers on purpose-built signature sticks (Brann Dailor, Danny Carey) and drummers on standard sizes (Mario Duplantier's extended 5A, Abe Cunningham's standard 5A). Both are proven at the genre's highest level.",
+          description: "Post-metal splits between drummers on purpose-built signature sticks (Brann Dailor, Danny Carey) and drummers on standard sizes (Abe Cunningham's standard 5A). Both are proven at the genre's highest level.",
           recommendation: "Standard 5A is a fully valid choice for dynamic range; a signature model adds a tonal or leverage advantage"
         }
       ]
@@ -94219,45 +94075,6 @@ The heavier build gives every strike real authority without needing a specialize
         },
         {
           rank: 2,
-          name: "Vic Firth X5A",
-          brand: "Vic Firth",
-          model: "American Classic Extended X5A",
-          image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Drumsticks.jpg/640px-Drumsticks.jpg",
-          priceRange: "€10-14 (pair)",
-          tier: "pro",
-          material: "American Hickory",
-
-          description: `Mario Duplantier of Gojira plays the Vic Firth X5A — an extended-length 5A that trades some raw diameter for added reach and leverage on Gojira's crushing, down-tuned tectonic riffing. The extra length lets Duplantier generate real weight behind each strike without needing the widest possible diameter, useful for a drummer whose playing spans both crushing climaxes and quieter, more textural passages.
-
-For post-metal drummers who want more leverage without committing to a heavier-feeling stick in hand, the X5A's extended length is a genuinely different way to add power.`,
-
-          pros: [
-            "Mario Duplantier's proven Gojira setup — crushing weight without maximum diameter",
-            "Extended length adds leverage and reach on weighted, down-tuned strikes",
-            "American hickory for durability under aggressive, tectonic riffing",
-            "Lighter in-hand feel than a full 5B despite the added leverage",
-            "Versatile enough for both crushing weight and quieter, textural precision"
-          ],
-          cons: [
-            "Less raw diameter than a dedicated 5B for maximum mass",
-            "Extended length takes adjustment for drummers used to standard 16\" sticks"
-          ],
-          specs: {
-            material: "American Hickory",
-            diameter: "0.565\"",
-            length: "16.5\"",
-            tip: "Oval (wood)",
-            grip: "Lacquered"
-          },
-          usedBy: [
-            { name: "Mario Duplantier", band: "Gojira", note: "Vic Firth X5A — extended leverage for crushing, down-tuned riffing" }
-          ],
-          verdict: "The leverage-over-mass pick. Ideal for post-metal drummers who want added power without a heavier in-hand feel.",
-          rating: 4.6,
-          affiliateLink: "https://www.thomann.de/intl/vic_firth_x5a.htm?partner_id=metalforge"
-        },
-        {
-          rank: 3,
           name: "Vic Firth Danny Carey Signature",
           brand: "Vic Firth",
           model: "Signature Series Danny Carey (SDC)",
@@ -94296,7 +94113,7 @@ It's a stick built for a drummer who needs both restraint on quieter passages an
           affiliateLink: "https://www.thomann.de/intl/vic_firth_danny_carey_signature.htm?partner_id=metalforge"
         },
         {
-          rank: 4,
+          rank: 3,
           name: "Vic Firth American Classic 5A",
           brand: "Vic Firth",
           model: "American Classic 5A Wood Tip",
@@ -94383,12 +94200,12 @@ Cunningham's choice shows post-metal-adjacent dynamic playing doesn't strictly r
 - Barrel tips and heavier diameters add weight for climactic passages without losing control on quiet sections
 - Preferred by: Brann Dailor, Danny Carey
 
-**Standard/Extended Sizes (Vic Firth X5A, Vic Firth American Classic 5A):**
+**Standard Sizes (Vic Firth American Classic 5A):**
 - Broadly proven, widely available, and more affordable
-- Mario Duplantier's extended X5A and Abe Cunningham's standard 5A both deliver dynamic-range sensitivity without a signature model
-- Preferred by: Mario Duplantier, Abe Cunningham
+- Abe Cunningham's standard 5A delivers dynamic-range sensitivity without a signature model
+- Preferred by: Abe Cunningham
 
-**The Truth:** Both approaches work at post-metal's highest level. Brann Dailor's and Danny Carey's signature sticks solve a specific problem — adding tonal fullness and weight for climactic passages without sacrificing the control quieter sections demand. Mario Duplantier's and Abe Cunningham's standard picks show a well-chosen 5A can carry the genre's dynamic range without anything more specialized.
+**The Truth:** Both approaches work at post-metal's highest level. Brann Dailor's and Danny Carey's signature sticks solve a specific problem — adding tonal fullness and weight for climactic passages without sacrificing the control quieter sections demand. Abe Cunningham's standard pick shows a well-chosen 5A can carry the genre's dynamic range without anything more specialized.
 
 **Our Recommendation:** Start with a standard Vic Firth 5A for maximum dynamic-range sensitivity. If you find yourself wanting a fuller, darker cymbal tone or extra weight for climactic passages, a signature model like Brann Dailor's or Danny Carey's is worth the upgrade.`,
       comparisonTable: [
@@ -94408,11 +94225,6 @@ Cunningham's choice shows post-metal-adjacent dynamic playing doesn't strictly r
           category: "Best Overall",
           pedal: "Vater Brann Dailor Signature",
           reason: "Built for Mastodon's dynamically shifting fills in a single heavier-diameter stick."
-        },
-        {
-          category: "Best for Leverage Over Mass",
-          pedal: "Vic Firth X5A",
-          reason: "Mario Duplantier's extended-length pick — added leverage without a heavier in-hand feel."
         },
         {
           category: "Best for Dynamic Range",
@@ -94436,7 +94248,6 @@ Cunningham's choice shows post-metal-adjacent dynamic playing doesn't strictly r
     ],
     relatedDrummers: [
       { slug: 'brann-dailor', name: 'Brann Dailor', reason: 'Vater signature — weighted attack across Mastodon\'s dynamic shifts' },
-      { slug: 'mario-duplantier', name: 'Mario Duplantier', reason: 'Vic Firth X5A — extended leverage for Gojira\'s crushing riffing' },
       { slug: 'danny-carey', name: 'Danny Carey', reason: 'Vic Firth signature — full, dark tone for Tool\'s dynamic compositions' },
       { slug: 'abe-cunningham', name: 'Abe Cunningham', reason: 'Vic Firth American Classic 5A — Deftones\' restraint-to-heaviness range' }
     ],
@@ -94444,7 +94255,6 @@ Cunningham's choice shows post-metal-adjacent dynamic playing doesn't strictly r
     // Featured drummers (issue template)
     featuredDrummers: [
       { slug: 'brann-dailor', name: 'Brann Dailor', reason: 'Vater signature — Mastodon\'s dynamically shifting weight and fills' },
-      { slug: 'mario-duplantier', name: 'Mario Duplantier', reason: 'Vic Firth X5A — Gojira\'s crushing, tectonic weight' },
       { slug: 'danny-carey', name: 'Danny Carey', reason: 'Vic Firth Signature — Tool\'s patient, dynamically shifting complexity' },
       { slug: 'abe-cunningham', name: 'Abe Cunningham', reason: 'Vic Firth American Classic 5A — Deftones\' quiet-to-heavy sensitivity' }
     ],
@@ -94459,10 +94269,6 @@ Cunningham's choice shows post-metal-adjacent dynamic playing doesn't strictly r
       {
         question: "What's the best drumstick for post-metal's dynamic range?",
         answer: "A balanced 5A-to-5B diameter works best. Abe Cunningham's standard Vic Firth 5A stays sensitive on quiet passages, while Brann Dailor's heavier Vater signature and Danny Carey's barrel-tip signature add weight and tone for climactic sections."
-      },
-      {
-        question: "What drumsticks does Mario Duplantier use?",
-        answer: "Mario Duplantier of Gojira plays the Vic Firth X5A, an extended-length 5A that adds leverage and reach on Gojira's crushing, down-tuned riffing without committing to a heavier in-hand feel."
       },
       {
         question: "What drumsticks does Danny Carey use?",

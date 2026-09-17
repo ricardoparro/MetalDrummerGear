@@ -5569,8 +5569,7 @@ Vinnie Paul of Pantera used Sabian cymbals throughout the band's most influentia
           },
           usedBy: [
             { name: "Vinnie Paul", band: "Pantera", note: "Groove metal power cymbal tones" },
-            { name: "Paul Bostaph", band: "Slayer / Testament / Exodus", note: "Sabian AAX — thrash metal precision" },
-            { name: "Matt Greiner", band: "August Burns Red", note: "Metalcore / heavy use" }
+            { name: "Paul Bostaph", band: "Slayer / Testament / Exodus", note: "Sabian AAX — thrash metal precision" }
           ],
           verdict: "Excellent all-around metal cymbal. Best value in B20 for drummers who want quality without paying Zildjian prices.",
           rating: 4.5,
@@ -29471,7 +29470,7 @@ Start with one bright china in the 18"-20" range, and layer a second voicing —
       title: "Why Mathcore Needs a Fast, Dissonant China",
       content: `Mathcore fuses hardcore punk's raw aggression with progressive rock's obsession with odd meters, asymmetrical riffing, and constantly shifting rhythmic cells — a combination that demands a china cymbal capable of instant, jarring attack across a wider range of accent points than a typical metalcore setup needs. Where straightforward metalcore can lean on a small, consistent china voice for breakdown accents, mathcore's irregular time signatures and sudden tempo shifts reward a more dissonant, unpredictable trash.
 
-Ben Koller of Converge plays a Zildjian K and A Custom China, whose fluid control within apparent rhythmic chaos on "Jane Doe" (2001) turned mathcore's unpredictability into genuine musical expression. Matt Greiner of August Burns Red relies on a Meinl Byzance Dual China for creative, dynamic accent work across odd-time signatures. Blake Richardson of Between the Buried and Me plays a Meinl Byzance Extra Dry China whose complex, dissonant tone handles BTBAM's genre-hopping technicality. Danny Carey of Tool runs a Paiste Signature China, whose famously Fibonacci-structured polyrhythms established a mathematically rigorous drumming standard that directly informed math metal and mathcore's own rhythmic ambitions.
+Ben Koller of Converge plays a Zildjian K and A Custom China, whose fluid control within apparent rhythmic chaos on "Jane Doe" (2001) turned mathcore's unpredictability into genuine musical expression. Matt Greiner of August Burns Red relies on his Paiste Formula 602 setup for creative, dynamic accent work across odd-time signatures. Blake Richardson of Between the Buried and Me plays a Meinl Byzance Extra Dry China whose complex, dissonant tone handles BTBAM's genre-hopping technicality. Danny Carey of Tool runs a Paiste Signature China, whose famously Fibonacci-structured polyrhythms established a mathematically rigorous drumming standard that directly informed math metal and mathcore's own rhythmic ambitions.
 
 This guide breaks down attack speed, dissonance, and complexity for mathcore china cymbals — comparing setups across four drummers whose hardcore-rooted and progressive lineages define the genre's rhythmically unpredictable aggression, with recommendations from budget to professional touring rigs.`,
       keyPoints: [
@@ -29495,7 +29494,7 @@ This guide breaks down attack speed, dissonance, and complexity for mathcore chi
         {
           name: "Dissonant, Complex Tone",
           icon: "🎼",
-          description: "Matt Greiner's and Blake Richardson's Meinl Byzance Dual/Extra Dry chinas deliver dissonant, complex overtones that punctuate mathcore's jarring, unpredictable riffing better than a simple, clean crash-like trash.",
+          description: "Blake Richardson's Meinl Byzance Extra Dry china delivers dissonant, complex overtones that punctuate mathcore's jarring, unpredictable riffing better than a simple, clean crash-like trash.",
           recommendation: "Dissonant, complex-voiced B20 chinas for punctuating irregular riffing"
         },
         {
@@ -29575,11 +29574,10 @@ Koller's stripped-down setup emphasizes power and response over complexity, a ph
           priceRange: "€240-300",
           tier: "premium",
           driveType: "B20 Hand Hammered",
-          description: `Matt Greiner of August Burns Red plays an 18" Meinl Byzance Dual China, bringing math metal's rhythmic complexity into mathcore-adjacent metalcore — his jazz-influenced dynamics and creative use of stack effects require a cymbal complex enough to punctuate the band's odd time signature integration.
+          description: `The Byzance Dual China brings math metal's rhythmic complexity into mathcore-adjacent metalcore — jazz-influenced dynamics and creative use of stack effects require a cymbal complex enough to punctuate odd time signature integration.
 
-The Dual series splits the difference between dark and bright voicing, giving Greiner distinct tonal options for accenting mathcore-adjacent riffing without needing an oversized cymbal collection.`,
+The Dual series splits the difference between dark and bright voicing, giving drummers distinct tonal options for accenting mathcore-adjacent riffing without needing an oversized cymbal collection.`,
           pros: [
-            "Matt Greiner's proven August Burns Red setup — math metal complexity in mathcore-adjacent metalcore",
             "Dual series balances dark and bright voicing in a single china",
             "Provides immediate, choked attack for tight odd-time accents",
             "Proven across August Burns Red's Grammy-nominated, technically demanding catalog"
@@ -29596,10 +29594,8 @@ The Dual series splits the difference between dark and bright voicing, giving Gr
             weight: "Medium",
             mounting: "Standard or Inverted"
           },
-          usedBy: [
-            { name: "Matt Greiner", band: "August Burns Red", note: "18\" Byzance Dual China — math metal complexity in mathcore-adjacent metalcore" }
-          ],
-          verdict: "Best for jazz-informed technical precision. Greiner's Byzance Dual china carries math metal complexity into breakdown-driven songwriting.",
+          usedBy: [],
+          verdict: "Best for jazz-informed technical precision. The Byzance Dual china carries math metal complexity into breakdown-driven songwriting.",
           rating: 4.7,
           affiliateLink: "https://www.thomann.de/intl/meinl_byzance_dual_china_18_greiner.htm?partner_id=metalforge"
         },
@@ -29761,7 +29757,7 @@ Carey's china delivers weight without excessive wash, treating rhythmic mathemat
 - Mathcore's founding, most directly documented china setup
 - Best for genre-defining, chaotic Converge-style mathcore
 
-**Meinl Byzance Dual/Extra Dry (Matt Greiner, Blake Richardson):**
+**Meinl Byzance Extra Dry (Blake Richardson):**
 - Complex, dissonant overtones suited to odd-time, genre-hopping material
 - Versatile across both aggressive accents and dynamic restraint
 - Best for technical, math metal-adjacent mathcore and progressive-leaning material
@@ -29792,7 +29788,7 @@ Carey's china delivers weight without excessive wash, treating rhythmic mathemat
         {
           category: "Best for Technical, Odd-Time Precision",
           pedal: "Meinl Byzance Dual China",
-          reason: "Matt Greiner's August Burns Red setup — math metal complexity in mathcore-adjacent metalcore."
+          reason: "Balances dark and bright voicing for technical, odd-time precision."
         },
         {
           category: "Best for Genre-Hopping Dynamics",
@@ -29815,7 +29811,6 @@ Carey's china delivers weight without excessive wash, treating rhythmic mathemat
     ],
     relatedDrummers: [
       { slug: 'ben-koller', name: 'Ben Koller', reason: 'Zildjian K and A Custom China — Converge mathcore\'s founding cutting attack' },
-      { slug: 'matt-greiner', name: 'Matt Greiner', reason: 'Meinl Byzance Dual China — August Burns Red math metal complexity' },
       { slug: 'blake-richardson', name: 'Blake Richardson', reason: 'Meinl Byzance Extra Dry China — BTBAM genre-hopping technicality' },
       { slug: 'danny-carey', name: 'Danny Carey', reason: 'Paiste Signature China — Tool\'s Fibonacci-structured rigor' }
     ],
@@ -29829,7 +29824,7 @@ Carey's china delivers weight without excessive wash, treating rhythmic mathemat
       },
       {
         question: "What china cymbal does Matt Greiner use?",
-        answer: "Matt Greiner of August Burns Red plays an 18\" Meinl Byzance Dual China, bringing math metal's rhythmic complexity into mathcore-adjacent metalcore."
+        answer: "Matt Greiner of August Burns Red switched to a Paiste Formula 602 setup in 2016; no specific china model in that line is publicly documented for his rig."
       },
       {
         question: "What china cymbal does Blake Richardson use?",
@@ -29837,7 +29832,7 @@ Carey's china delivers weight without excessive wash, treating rhythmic mathemat
       },
       {
         question: "Why does mathcore need a more dissonant china than typical metalcore?",
-        answer: "Mathcore's irregular time signatures and sudden tempo shifts call for a jarring, unpredictable accent rather than a clean, controlled trash. Meinl Byzance Dual and Extra Dry chinas — played by Matt Greiner and Blake Richardson — deliver that complex, dissonant character."
+        answer: "Mathcore's irregular time signatures and sudden tempo shifts call for a jarring, unpredictable accent rather than a clean, controlled trash. Meinl Byzance Extra Dry chinas — played by Blake Richardson — deliver that complex, dissonant character."
       },
       {
         question: "What's the best budget china cymbal for mathcore?",
@@ -29848,7 +29843,7 @@ Carey's china delivers weight without excessive wash, treating rhythmic mathemat
     // Conclusion
     conclusion: {
       title: "Build Your Mathcore China Sound",
-      content: `Mathcore china choices come down to a simple decision between two proven philosophies: Zildjian K/A Custom's bright, fast-attack cutting power (Ben Koller's founding sound) or Meinl Byzance's complex, dissonant overtones (Matt Greiner's and Blake Richardson's genre-hopping approach). Danny Carey's Paiste Signature china offers a third path for mathcore's most compositionally ambitious wing.
+      content: `Mathcore china choices come down to a simple decision between two proven philosophies: Zildjian K/A Custom's bright, fast-attack cutting power (Ben Koller's founding sound) or Meinl Byzance's complex, dissonant overtones (Blake Richardson's genre-hopping approach). Danny Carey's Paiste Signature china offers a third path for mathcore's most compositionally ambitious wing.
 
 Start with whichever character matches your playing style, and don't overlook the budget tier — Zildjian ZBT and Meinl HCS both provide genuine upgrade paths toward the pro-level sound without requiring a full investment up front.
 
@@ -37957,7 +37952,7 @@ None of these approaches is more "correct" — all four represent groove metal's
       title: "Why Mathcore Needs a Dry, Precisely Defined Ride",
       content: `Mathcore fuses hardcore punk's raw aggression with progressive rock's obsession with odd meters, asymmetrical riffing, and constantly shifting rhythmic cells — a combination that demands a ride cymbal capable of staying legible through irregular subdivisions rather than blurring into an undifferentiated wash. Where doom or black metal rides lean into dark, sustained wash, mathcore's odd-meter precision calls for a drier, more controlled voice that lets every stroke land exactly where the meter puts it.
 
-Ben Koller of Converge rides a 20" Zildjian K Custom Session Ride, whose dry, focused stick definition turned mathcore's rhythmic chaos on "Jane Doe" (2001) into genuinely legible musical expression. Matt Greiner of August Burns Red relies on a 22" Meinl Byzance Dual Ride for creative, dynamic cymbal work across odd-time signatures. Blake Richardson of Between the Buried and Me plays a 22" Meinl Byzance Extra Dry Ride whose complex, controlled tone handles BTBAM's genre-hopping technicality without ever washing out. Danny Carey of Tool rides a 22" Paiste Signature Dry Heavy Ride, whose famously Fibonacci-structured polyrhythms established a mathematically rigorous drumming standard that directly informed math metal and mathcore's own rhythmic ambitions.
+Ben Koller of Converge rides a 20" Zildjian K Custom Session Ride, whose dry, focused stick definition turned mathcore's rhythmic chaos on "Jane Doe" (2001) into genuinely legible musical expression. Matt Greiner of August Burns Red relies on his Paiste Formula 602 setup for creative, dynamic cymbal work across odd-time signatures. Blake Richardson of Between the Buried and Me plays a 22" Meinl Byzance Extra Dry Ride whose complex, controlled tone handles BTBAM's genre-hopping technicality without ever washing out. Danny Carey of Tool rides a 22" Paiste Signature Dry Heavy Ride, whose famously Fibonacci-structured polyrhythms established a mathematically rigorous drumming standard that directly informed math metal and mathcore's own rhythmic ambitions.
 
 This guide breaks down attack, dryness, and definition for mathcore ride cymbals — comparing setups across four drummers whose hardcore-rooted and progressive lineages define the genre's rhythmically unpredictable aggression, with recommendations from budget to professional touring rigs.`,
       keyPoints: [
@@ -37981,7 +37976,7 @@ This guide breaks down attack, dryness, and definition for mathcore ride cymbals
         {
           name: "Complex, Controlled Tone",
           icon: "🎼",
-          description: "Matt Greiner's and Blake Richardson's Meinl Byzance Dual/Extra Dry rides deliver complex overtones without losing control — punctuating mathcore's jarring, unpredictable riffing better than a simple, clean ride or an overly washy dark one.",
+          description: "Blake Richardson's Meinl Byzance Extra Dry ride delivers complex overtones without losing control — punctuating mathcore's jarring, unpredictable riffing better than a simple, clean ride or an overly washy dark one.",
           recommendation: "Dry, complex-voiced B20 rides for punctuating irregular riffing"
         },
         {
@@ -38061,11 +38056,10 @@ Koller's stripped-down setup emphasizes power and response over complexity, a ph
           priceRange: "€280-340",
           tier: "premium",
           driveType: "B20 Hand Hammered",
-          description: `Matt Greiner of August Burns Red plays a 22" Meinl Byzance Dual Ride, bringing math metal's rhythmic complexity into mathcore-adjacent metalcore — his jazz-influenced dynamics and creative use of bell and edge tones require a cymbal complex enough to punctuate the band's odd time signature integration.
+          description: `The Byzance Dual Ride brings math metal's rhythmic complexity into mathcore-adjacent metalcore — jazz-influenced dynamics and creative use of bell and edge tones require a cymbal complex enough to punctuate odd time signature integration.
 
-The Dual series splits the difference between dark and bright voicing, giving Greiner distinct tonal options for accenting mathcore-adjacent riffing without needing an oversized cymbal collection.`,
+The Dual series splits the difference between dark and bright voicing, giving drummers distinct tonal options for accenting mathcore-adjacent riffing without needing an oversized cymbal collection.`,
           pros: [
-            "Matt Greiner's proven August Burns Red setup — math metal complexity in mathcore-adjacent metalcore",
             "Dual series balances dark and bright voicing in a single ride line",
             "Bell and edge stay distinct for tight odd-time accents",
             "Proven across August Burns Red's Grammy-nominated, technically demanding catalog"
@@ -38082,10 +38076,8 @@ The Dual series splits the difference between dark and bright voicing, giving Gr
             bell: "Standard",
             weight: "Medium"
           },
-          usedBy: [
-            { name: "Matt Greiner", band: "August Burns Red", note: "22\" Byzance Dual Ride — math metal complexity in mathcore-adjacent metalcore" }
-          ],
-          verdict: "Best for jazz-informed technical precision. Greiner's Byzance Dual ride carries math metal complexity into breakdown-driven songwriting.",
+          usedBy: [],
+          verdict: "Best for jazz-informed technical precision. The Byzance Dual ride carries math metal complexity into breakdown-driven songwriting.",
           rating: 4.7,
           affiliateLink: "https://www.thomann.de/intl/meinl_byzance_dual_ride_22_greiner.htm?partner_id=metalforge"
         },
@@ -38226,7 +38218,7 @@ Carey's ride delivers weight without excessive wash, treating rhythmic mathemati
 - Mathcore's founding, most directly documented ride setup
 - Best for genre-defining, chaotic Converge-style mathcore
 
-**Meinl Byzance Dual/Extra Dry (Matt Greiner, Blake Richardson):**
+**Meinl Byzance Extra Dry (Blake Richardson):**
 - Complex, controlled overtones suited to odd-time, genre-hopping material
 - Versatile across both aggressive accents and dynamic restraint
 - Best for technical, math metal-adjacent mathcore and progressive-leaning material
@@ -38257,7 +38249,7 @@ Carey's ride delivers weight without excessive wash, treating rhythmic mathemati
         {
           category: "Best for Technical, Odd-Time Precision",
           pedal: "Meinl Byzance Dual Ride",
-          reason: "Matt Greiner's August Burns Red setup — math metal complexity in mathcore-adjacent metalcore."
+          reason: "Balances dark and bright voicing for technical, odd-time precision."
         },
         {
           category: "Best for Genre-Hopping Dynamics",
@@ -38281,7 +38273,6 @@ Carey's ride delivers weight without excessive wash, treating rhythmic mathemati
     ],
     relatedDrummers: [
       { slug: 'ben-koller', name: 'Ben Koller', reason: 'Zildjian K Custom Session Ride — Converge mathcore\'s founding dry precision' },
-      { slug: 'matt-greiner', name: 'Matt Greiner', reason: 'Meinl Byzance Dual Ride — August Burns Red math metal complexity' },
       { slug: 'blake-richardson', name: 'Blake Richardson', reason: 'Meinl Byzance Extra Dry Ride — BTBAM genre-hopping technicality' },
       { slug: 'danny-carey', name: 'Danny Carey', reason: 'Paiste Signature Dry Heavy Ride — Tool\'s Fibonacci-structured rigor' }
     ],
@@ -38289,7 +38280,6 @@ Carey's ride delivers weight without excessive wash, treating rhythmic mathemati
     // Featured drummers (issue template)
     featuredDrummers: [
       { slug: 'ben-koller', name: 'Ben Koller', reason: 'Zildjian K Custom Session Ride — Converge mathcore\'s founding dry precision' },
-      { slug: 'matt-greiner', name: 'Matt Greiner', reason: 'Meinl Byzance Dual Ride — August Burns Red math metal complexity' },
       { slug: 'blake-richardson', name: 'Blake Richardson', reason: 'Meinl Byzance Extra Dry Ride — BTBAM genre-hopping technicality' }
     ],
     relatedComparisons: [],
@@ -38302,7 +38292,7 @@ Carey's ride delivers weight without excessive wash, treating rhythmic mathemati
       },
       {
         question: "What ride cymbal does Matt Greiner use?",
-        answer: "Matt Greiner of August Burns Red plays a 22\" Meinl Byzance Dual Ride, bringing math metal's rhythmic complexity into mathcore-adjacent metalcore."
+        answer: "Matt Greiner of August Burns Red switched to a Paiste Formula 602 setup in 2016; no specific ride model in that line is publicly documented for his rig."
       },
       {
         question: "What ride cymbal does Blake Richardson use?",
@@ -38321,7 +38311,7 @@ Carey's ride delivers weight without excessive wash, treating rhythmic mathemati
     // Conclusion
     conclusion: {
       title: "Build Your Mathcore Ride Around Dry Precision",
-      content: `Mathcore ride choices come down to a simple decision between two proven philosophies: Zildjian K Custom's dry, fast-attack cutting precision (Ben Koller's founding sound) or Meinl Byzance's complex, controlled overtones (Matt Greiner's and Blake Richardson's genre-hopping approach). Danny Carey's Paiste Signature Dry Heavy ride offers a third path for mathcore's most compositionally ambitious wing.
+      content: `Mathcore ride choices come down to a simple decision between two proven philosophies: Zildjian K Custom's dry, fast-attack cutting precision (Ben Koller's founding sound) or Meinl Byzance's complex, controlled overtones (Blake Richardson's genre-hopping approach). Danny Carey's Paiste Signature Dry Heavy ride offers a third path for mathcore's most compositionally ambitious wing.
 
 Start with whichever character matches your playing style, and prioritize dry, legible stroke definition over wash — mathcore's odd-time unpredictability rewards a ride you can trust to speak clearly on every subdivision.
 
@@ -40849,7 +40839,7 @@ Start with a 21"-22" pro ride, and specialize toward a Mega Bell or Dark-voiced 
     // SEO metadata
     title: "Best Ride Cymbals for Metalcore: 2026 Ultimate Guide",
     metaTitle: "Best Ride Cymbals for Metalcore in 2026 | MetalForge Expert Guide",
-    description: "Discover the best ride cymbals for metalcore drumming. Expert recommendations on bright, clear stick-definition rides for breakdown-driven, groove-heavy arrangements, featuring the exact rides used by Matt Halpern, Matt Greiner, Alex Bent, and Jay Weinberg.",
+    description: "Discover the best ride cymbals for metalcore drumming. Expert recommendations on bright, clear stick-definition rides for breakdown-driven, groove-heavy arrangements, featuring the exact rides used by Matt Halpern, Alex Bent, and Jay Weinberg.",
     seoKeywords: [
       'best ride cymbal for metalcore',
       'ride cymbal for metalcore drumming',
@@ -40886,11 +40876,11 @@ Start with a 21"-22" pro ride, and specialize toward a Mega Bell or Dark-voiced 
       title: "Why Metalcore Rides Need to Stay Dry and Legible",
       content: `Metalcore drumming lives between two worlds — breakdown-driven heaviness and technical, syncopated precision — and the ride cymbal has to serve both. Palm-muted chugs and tightly syncopated riffing need a ride that stays dry and controlled rather than washing out, while the genre's frequent tempo and dynamic shifts demand quick, clear stick definition through complex patterns.
 
-Matt Halpern of Periphery rides a 22" Meinl Byzance Extra Dry Transition Ride, prioritizing a controlled, low-sustain voice that stays articulate through breakdown-heavy arrangements and complex time signature changes. Matt Greiner of August Burns Red runs a near-identical 21" Meinl Byzance Extra Dry Transition Ride, driving August Burns Red's Grammy-nominated catalog with the same dry clarity. Alex Bent, who brought his technical death metal background to Trivium, rides a 21" Zildjian K Custom Hybrid Ride for a brighter, faster attack suited to Trivium's more melodic, riff-driven modern metal sound. Jay Weinberg of Slipknot takes a different path entirely, riding a 21" Zildjian K Custom Ride for a darker, more controlled definition underneath Slipknot's aggressive nu-metal/metalcore hybrid sound.
+Matt Halpern of Periphery rides a 22" Meinl Byzance Extra Dry Transition Ride, prioritizing a controlled, low-sustain voice that stays articulate through breakdown-heavy arrangements and complex time signature changes. Alex Bent, who brought his technical death metal background to Trivium, rides a 21" Zildjian K Custom Hybrid Ride for a brighter, faster attack suited to Trivium's more melodic, riff-driven modern metal sound. Jay Weinberg of Slipknot takes a different path entirely, riding a 21" Zildjian K Custom Ride for a darker, more controlled definition underneath Slipknot's aggressive nu-metal/metalcore hybrid sound.
 
 This guide breaks down what actually makes a ride work for metalcore — dry control, stick definition, and clarity through breakdown transitions — and recommends specific models across every budget, from a first dry-toned ride to the exact cymbals metalcore's most influential drummers ride night after night.`,
       keyPoints: [
-        "Dry, controlled voicing dominates metalcore's technical wing — Matt Halpern and Matt Greiner both build around the Meinl Byzance Extra Dry Transition Ride",
+        "Dry, controlled voicing dominates metalcore's technical wing — Matt Halpern builds his setup around the Meinl Byzance Extra Dry Transition Ride",
         "Bright stick definition matters more than wash — metalcore riding sits directly on top of palm-muted riffs and needs to stay legible through tempo shifts",
         "21\"-22\" is the metalcore ride sweet spot, balancing quick response with enough body to anchor breakdown-heavy grooves",
         "Jay Weinberg's Zildjian K Custom Ride shows the brighter, more aggressive alternative to the genre's dry Meinl-dominated standard"
@@ -40904,25 +40894,25 @@ This guide breaks down what actually makes a ride work for metalcore — dry con
         {
           name: "Dry, Controlled Voicing",
           icon: "🌫️",
-          description: "Metalcore's breakdown-driven riffing needs a ride that doesn't wash into a wall of sustain. Matt Halpern's and Matt Greiner's Meinl Byzance Extra Dry Transition Rides are voiced with minimal ring, staying controlled and articulate through syncopated, palm-muted passages.",
+          description: "Metalcore's breakdown-driven riffing needs a ride that doesn't wash into a wall of sustain. Matt Halpern's Meinl Byzance Extra Dry Transition Ride is voiced with minimal ring, staying controlled and articulate through syncopated, palm-muted passages.",
           recommendation: "Extra Dry or Transition-style rides for controlled, low-sustain response through breakdowns"
         },
         {
           name: "Stick Definition for Syncopated Patterns",
           icon: "🔔",
-          description: "Metalcore's complex time signature shifts and syncopated riff-locking demand a ride that stays clearly articulate rather than washing into a blur. Transition-style rides (Halpern, Greiner) and medium-weight rides (Bent, Weinberg) all prioritize definition over pure volume.",
+          description: "Metalcore's complex time signature shifts and syncopated riff-locking demand a ride that stays clearly articulate rather than washing into a blur. Transition-style rides (Halpern) and medium-weight rides (Bent, Weinberg) all prioritize definition over pure volume.",
           recommendation: "Transition or medium-weight rides for clear articulation through complex, shifting patterns"
         },
         {
           name: "Brightness vs. Dryness Tradeoff",
           icon: "⚖️",
-          description: "Meinl Byzance Extra Dry (Halpern, Greiner) prioritizes control; Zildjian K Custom Hybrid (Bent) and Zildjian K Custom (Weinberg) trade some of that dryness for a brighter, faster attack that suits metalcore's more melodic or aggressive extremes.",
+          description: "Meinl Byzance Extra Dry (Halpern) prioritizes control; Zildjian K Custom Hybrid (Bent) and Zildjian K Custom (Weinberg) trade some of that dryness for a brighter, faster attack that suits metalcore's more melodic or aggressive extremes.",
           recommendation: "Extra Dry for breakdown-heavy technical metalcore; brighter K Custom Hybrid/K Custom voicing for melodic or aggressive metalcore"
         },
         {
           name: "Size",
           icon: "📏",
-          description: "21\"-22\" is the metalcore standard. Matt Halpern's 22\" Transition Ride leans into slightly more low-end body, while Matt Greiner's, Alex Bent's, and Jay Weinberg's 21\" rides respond a touch faster for busy, syncopated patterns.",
+          description: "21\"-22\" is the metalcore standard. Matt Halpern's 22\" Transition Ride leans into slightly more low-end body, while Alex Bent's and Jay Weinberg's 21\" rides respond a touch faster for busy, syncopated patterns.",
           recommendation: "21\"-22\" balancing quick response with enough body to anchor breakdown-driven grooves"
         },
         {
@@ -40953,11 +40943,11 @@ This guide breaks down what actually makes a ride work for metalcore — dry con
           priceRange: "€300-360",
           tier: "pro",
           driveType: "B20 Bronze, Extra Dry",
-          description: `Matt Halpern of Periphery rides a 22" Meinl Byzance Extra Dry Transition Ride as the anchor of a setup engineered for the polyrhythmic precision Periphery's djent-metalcore hybrid demands across "Periphery II," "Juggernaut," and "Hail Stan." Matt Greiner of August Burns Red runs a near-identical 21" version, driving August Burns Red's Grammy-nominated catalog with the same dry, controlled voicing.
+          description: `Matt Halpern of Periphery rides a 22" Meinl Byzance Extra Dry Transition Ride as the anchor of a setup engineered for the polyrhythmic precision Periphery's djent-metalcore hybrid demands across "Periphery II," "Juggernaut," and "Hail Stan."
 
-Both drummers rely on the Transition Ride's minimal-sustain voicing to stay articulate through breakdown-heavy, syncopated arrangements without ever washing into a blur.`,
+Halpern relies on the Transition Ride's minimal-sustain voicing to stay articulate through breakdown-heavy, syncopated arrangements without ever washing into a blur.`,
           pros: [
-            "Two of metalcore's most technically respected drummers — Matt Halpern and Matt Greiner — both build around this ride",
+            "Matt Halpern's proven Periphery setup — built around this exact ride",
             "Extra Dry voicing stays controlled through breakdown-heavy, palm-muted riffing",
             "Proven across Periphery and August Burns Red's full studio catalogs",
             "Transition design bridges dry control with genuine stick definition"
@@ -40975,8 +40965,7 @@ Both drummers rely on the Transition Ride's minimal-sustain voicing to stay arti
             weight: "Medium"
           },
           usedBy: [
-            { name: "Matt Halpern", band: "Periphery", note: "22\" Extra Dry Transition Ride for polyrhythmic djent-metalcore precision" },
-            { name: "Matt Greiner", band: "August Burns Red", note: "21\" Extra Dry Transition Ride for technical metalcore" }
+            { name: "Matt Halpern", band: "Periphery", note: "22\" Extra Dry Transition Ride for polyrhythmic djent-metalcore precision" }
           ],
           verdict: "The metalcore ride standard. If you want the dry, controlled voice that defines the genre's technical wing, this is it.",
           rating: 4.8,
@@ -40993,7 +40982,7 @@ Both drummers rely on the Transition Ride's minimal-sustain voicing to stay arti
           driveType: "B20 Bronze, Hybrid finish",
           description: `Alex Bent brought his technical death metal background from Brain Drill and Arkaik into Trivium, and his Zildjian K Custom Hybrid Ride reflects that hybrid pedigree. The hybrid finish blends a dark, complex K Custom body with a brighter, cutting edge, giving a faster attack than the Extra Dry line while matching Trivium's more melodic, riff-driven modern metal sound on "The Sin and the Sentence" and "In the Court of the Dragon."
 
-Where Halpern and Greiner prioritize dryness and control, Bent's K Custom Hybrid Ride shows that a brighter, more resonant voice works equally well for metalcore-adjacent modern metal that leans into melody as much as breakdown weight.`,
+Where Halpern prioritizes dryness and control, Bent's K Custom Hybrid Ride shows that a brighter, more resonant voice works equally well for metalcore-adjacent modern metal that leans into melody as much as breakdown weight.`,
           pros: [
             "Alex Bent's Trivium setup — proof that brighter voicing works for melodic modern metalcore",
             "Hybrid finish gives faster, more cutting attack than Extra Dry alternatives",
@@ -41172,7 +41161,7 @@ While not tied to one of metalcore's specific signature setups, the AAX Ride app
       title: "Meinl Extra Dry vs Zildjian K Custom Hybrid vs Zildjian K Custom for Metalcore",
       content: `Metalcore's ride choices split along a clear line: dry control versus brighter, more explosive voicing.
 
-**Meinl Byzance Extra Dry Transition Ride (Matt Halpern, Matt Greiner):**
+**Meinl Byzance Extra Dry Transition Ride (Matt Halpern):**
 - Minimal-sustain, dry voicing that stays controlled through breakdown-heavy riffing
 - The metalcore ride standard for technical, djent-influenced setups
 - Best for breakdown-driven, syncopated arrangements where wash would create mud
@@ -41185,7 +41174,7 @@ While not tied to one of metalcore's specific signature setups, the AAX Ride app
 - Darker, more controlled definition with a brighter overall kit voice
 - Best for aggressive, nu-metal-influenced metalcore
 
-**Our Recommendation:** Start with a Zildjian ZBT or Sabian XSR Monarch ride if you're building metalcore technique on a budget. Choose Matt Halpern's or Matt Greiner's Extra Dry Transition Ride if breakdown-heavy technical precision is your priority. Go with Alex Bent's K Custom Hybrid Ride if you want a brighter, more melodic voice.`,
+**Our Recommendation:** Start with a Zildjian ZBT or Sabian XSR Monarch ride if you're building metalcore technique on a budget. Choose Matt Halpern's Extra Dry Transition Ride if breakdown-heavy technical precision is your priority. Go with Alex Bent's K Custom Hybrid Ride if you want a brighter, more melodic voice.`,
       comparisonTable: [
         { feature: "Dry Control", directDrive: "⭐⭐⭐⭐⭐", chainDrive: "⭐⭐⭐" },
         { feature: "Brightness/Cut", directDrive: "⭐⭐⭐", chainDrive: "⭐⭐⭐⭐⭐" },
@@ -41201,7 +41190,7 @@ While not tied to one of metalcore's specific signature setups, the AAX Ride app
         {
           category: "Best Overall",
           pedal: "Meinl Byzance Extra Dry Transition Ride",
-          reason: "Matt Halpern's and Matt Greiner's dry, controlled standard for breakdown-heavy technical metalcore."
+          reason: "Matt Halpern's dry, controlled standard for breakdown-heavy technical metalcore."
         },
         {
           category: "Best for Melodic Metalcore",
@@ -41229,7 +41218,6 @@ While not tied to one of metalcore's specific signature setups, the AAX Ride app
     ],
     relatedDrummers: [
       { slug: 'matt-halpern', name: 'Matt Halpern', reason: '22" Meinl Byzance Extra Dry Transition Ride — Periphery djent-metalcore precision' },
-      { slug: 'matt-greiner', name: 'Matt Greiner', reason: '21" Meinl Byzance Extra Dry Transition Ride — August Burns Red technical metalcore' },
       { slug: 'alex-bent', name: 'Alex Bent', reason: 'Zildjian K Custom Hybrid Ride — Trivium melodic modern metal' },
       { slug: 'jay-weinberg', name: 'Jay Weinberg', reason: '21" Zildjian K Custom Ride — Slipknot aggressive metalcore' }
     ],
@@ -41237,7 +41225,6 @@ While not tied to one of metalcore's specific signature setups, the AAX Ride app
     // Featured drummers (issue template)
     featuredDrummers: [
       { slug: 'matt-halpern', name: 'Matt Halpern', reason: 'Meinl Byzance Extra Dry Transition Ride for Periphery' },
-      { slug: 'matt-greiner', name: 'Matt Greiner', reason: 'Meinl Byzance Extra Dry Transition Ride for August Burns Red' },
       { slug: 'jay-weinberg', name: 'Jay Weinberg', reason: 'Zildjian K Custom Ride for Slipknot' }
     ],
     relatedComparisons: [],
@@ -41254,11 +41241,11 @@ While not tied to one of metalcore's specific signature setups, the AAX Ride app
       },
       {
         question: "What size ride cymbal is best for metalcore?",
-        answer: "21\"-22\" is the metalcore standard. Matt Halpern's 22\" Transition Ride leans into slightly more low-end body, while Matt Greiner's, Alex Bent's, and Jay Weinberg's 21\" rides respond a touch faster for busy, syncopated patterns."
+        answer: "21\"-22\" is the metalcore standard. Matt Halpern's 22\" Transition Ride leans into slightly more low-end body, while Alex Bent's and Jay Weinberg's 21\" rides respond a touch faster for busy, syncopated patterns."
       },
       {
         question: "Dry or bright ride — which is better for metalcore?",
-        answer: "Both work at the highest level. Matt Halpern's and Matt Greiner's Meinl Byzance Extra Dry Transition Rides suit breakdown-heavy, technical metalcore where wash would create mud. Alex Bent's K Custom Hybrid Ride and Jay Weinberg's Zildjian K Custom Ride suit more melodic or aggressive metalcore that wants a brighter attack."
+        answer: "Both work at the highest level. Matt Halpern's Meinl Byzance Extra Dry Transition Ride suits breakdown-heavy, technical metalcore where wash would create mud. Alex Bent's K Custom Hybrid Ride and Jay Weinberg's Zildjian K Custom Ride suit more melodic or aggressive metalcore that wants a brighter attack."
       },
       {
         question: "What's the best budget ride cymbal for metalcore?",
@@ -41269,7 +41256,7 @@ While not tied to one of metalcore's specific signature setups, the AAX Ride app
     // Conclusion
     conclusion: {
       title: "Find the Ride That Stays Legible Through the Breakdown",
-      content: `Metalcore ride choice comes down to one core question: dry control or brighter attack? Whether you build around Matt Halpern's and Matt Greiner's dry, controlled Meinl Byzance Extra Dry Transition Ride, Alex Bent's brighter K Custom Hybrid Ride, or Jay Weinberg's darker Zildjian K Custom Ride, the right metalcore ride has to stay legible through breakdowns, tempo shifts, and everything in between.
+      content: `Metalcore ride choice comes down to one core question: dry control or brighter attack? Whether you build around Matt Halpern's dry, controlled Meinl Byzance Extra Dry Transition Ride, Alex Bent's brighter K Custom Hybrid Ride, or Jay Weinberg's darker Zildjian K Custom Ride, the right metalcore ride has to stay legible through breakdowns, tempo shifts, and everything in between.
 
 Start with a 21"-22" pro ride built for control, and choose your voicing based on whether your metalcore leans technical and breakdown-heavy or melodic and aggressive.
 
@@ -43812,11 +43799,11 @@ Start with one dry, controlled crash in the 16"-18" range, and layer a second si
     // SEO metadata
     title: "Best Crash Cymbals for Metalcore: 2026 Ultimate Guide",
     metaTitle: "Best Crash Cymbals for Metalcore in 2026 | MetalForge Expert Guide",
-    description: "Discover the best crash cymbals for metalcore drumming. Expert recommendations on fast-decay accent crashes for breakdowns and syncopated riffing, featuring the exact crashes used by Matt Greiner, Alex Bent, Jay Weinberg, and Chris Adler.",
+    description: "Discover the best crash cymbals for metalcore drumming. Expert recommendations on fast-decay accent crashes for breakdowns and syncopated riffing, featuring the exact crashes used by Matt Halpern, Alex Bent, Jay Weinberg, and Chris Adler.",
     seoKeywords: [
       'best crash cymbal for metalcore',
       'crash cymbal for breakdowns',
-      'matt greiner crash cymbal',
+      'matt halpern crash cymbal',
       'alex bent crash cymbal',
       'jay weinberg crash cymbal',
       'chris adler crash cymbal',
@@ -43849,12 +43836,12 @@ Start with one dry, controlled crash in the 16"-18" range, and layer a second si
       title: "Why Metalcore Crashes Need to Punctuate, Not Wash Out",
       content: `Metalcore drumming lives between two worlds — breakdown-driven heaviness and technical, syncopated precision — and the genre's crash choices reflect that split. A breakdown crash needs to land hard and decay fast so the next palm-muted chug isn't buried under ringing metal, while the genre's frequent tempo and dynamic shifts demand a crash that responds instantly to a wide range of accent styles.
 
-Matt Greiner of August Burns Red runs 18" and 19" Meinl Byzance Extra Dry Medium Crashes, prioritizing a controlled, low-sustain voice that stays articulate through breakdown-heavy arrangements and complex time signature changes. Alex Bent, who brought his technical death metal background into Trivium, uses 16", 18", and 19" Zildjian K Custom Hybrid Crashes for a faster, more cutting attack suited to Trivium's more melodic, riff-driven modern metal sound. Jay Weinberg of Slipknot takes a different path, running 18" and 19" Zildjian A Custom Crashes for a brighter, more explosive voice that matches Slipknot's aggressive nu-metal/metalcore hybrid sound, while Chris Adler of Lamb of God plays 18" and 19" Meinl Byzance Dark Crashes tuned for groove metal's tightly arranged breakdowns.
+Matt Halpern of Periphery runs a Meinl Byzance Extra Dry Medium Crash setup, prioritizing a controlled, low-sustain voice that stays articulate through breakdown-heavy arrangements and complex time signature changes. Alex Bent, who brought his technical death metal background into Trivium, uses 16", 18", and 19" Zildjian K Custom Hybrid Crashes for a faster, more cutting attack suited to Trivium's more melodic, riff-driven modern metal sound. Jay Weinberg of Slipknot takes a different path, running 18" and 19" Zildjian A Custom Crashes for a brighter, more explosive voice that matches Slipknot's aggressive nu-metal/metalcore hybrid sound, while Chris Adler of Lamb of God plays 18" and 19" Meinl Byzance Dark Crashes tuned for groove metal's tightly arranged breakdowns.
 
 This guide breaks down what actually makes a crash work for metalcore — fast decay, breakdown punctuation, and brightness versus control — and recommends specific models across every budget, from a first breakdown-ready crash to the exact cymbals metalcore's most influential drummers play.`,
       keyPoints: [
         "Metalcore crashes need to decay fast enough that breakdown hits don't wash into the next palm-muted riff",
-        "Matt Greiner's Meinl Byzance and Alex Bent's Zildjian K Custom Hybrid setups show the dry-vs-bright split within the genre's technical wing",
+        "Matt Halpern's Meinl Byzance and Alex Bent's Zildjian K Custom Hybrid setups show the dry-vs-bright split within the genre's technical wing",
         "Jay Weinberg's brighter Zildjian A Custom and Chris Adler's darker Byzance Dark show metalcore's range from explosive to controlled",
         "16\"-19\" covers the metalcore crash range, with most pro drummers running at least two sizes"
       ]
@@ -43867,19 +43854,19 @@ This guide breaks down what actually makes a crash work for metalcore — fast d
         {
           name: "Fast, Controlled Decay",
           icon: "🌫️",
-          description: "Breakdown-driven riffing needs a crash that doesn't wash into a wall of sustain. Matt Greiner's Byzance Extra Dry Medium Crashes are specifically voiced with minimal ring to stay controlled through syncopated, palm-muted passages.",
+          description: "Breakdown-driven riffing needs a crash that doesn't wash into a wall of sustain. Matt Halpern's Byzance Extra Dry Medium Crashes are specifically voiced with minimal ring to stay controlled through syncopated, palm-muted passages.",
           recommendation: "Extra Dry or Dark-voiced crashes for controlled, low-sustain decay under breakdown hits"
         },
         {
           name: "Breakdown Punctuation",
           icon: "💥",
-          description: "A metalcore crash frequently has to land a single, decisive hit right on a breakdown's downbeat and then get out of the way instantly. Medium-weight crashes with fast decay, like those used by Matt Greiner and Alex Bent, are built for exactly this job.",
+          description: "A metalcore crash frequently has to land a single, decisive hit right on a breakdown's downbeat and then get out of the way instantly. Medium-weight crashes with fast decay, like those used by Matt Halpern and Alex Bent, are built for exactly this job.",
           recommendation: "Medium-weight crashes for a decisive hit with fast, controlled decay"
         },
         {
           name: "Brightness vs Control",
           icon: "⚖️",
-          description: "Meinl Byzance Extra Dry (Matt Greiner) prioritizes control; Zildjian K Custom Hybrid (Alex Bent) and Zildjian A Custom (Jay Weinberg) trade some of that dryness for a brighter, more explosive attack suited to melodic or aggressive metalcore.",
+          description: "Meinl Byzance Extra Dry (Matt Halpern) prioritizes control; Zildjian K Custom Hybrid (Alex Bent) and Zildjian A Custom (Jay Weinberg) trade some of that dryness for a brighter, more explosive attack suited to melodic or aggressive metalcore.",
           recommendation: "Extra Dry for breakdown-heavy technical metalcore; brighter voicing for melodic or aggressive metalcore"
         },
         {
@@ -43916,13 +43903,13 @@ This guide breaks down what actually makes a crash work for metalcore — fast d
           priceRange: "€210-260",
           tier: "pro",
           driveType: "B20 Bronze, Extra Dry",
-          description: `Matt Greiner of August Burns Red runs 18" and 19" Meinl Byzance Extra Dry Medium Crashes as part of a broader Byzance Extra Dry setup, driving August Burns Red's Grammy-nominated catalog with jazz-influenced dynamics and technical precision. The Extra Dry line's minimal-sustain voicing keeps Greiner's crashes controlled through breakdown-heavy, syncopated arrangements.
+          description: `Matt Halpern of Periphery runs a Meinl Byzance Extra Dry Medium Crash setup as part of a broader Byzance Extra Dry rig, driving Periphery's polyrhythmic djent-metalcore hybrid with controlled, minimal-sustain punctuation.
 
-Matt Halpern of Periphery runs a near-identical Byzance Extra Dry crash setup, underlining just how dominant this dry, controlled voice is across metalcore's most technically respected drummers.`,
+The Extra Dry line's minimal-sustain voicing keeps these crashes controlled through breakdown-heavy, syncopated arrangements, underlining just how dominant this dry, controlled voice is across metalcore's most technically respected drummers.`,
           pros: [
-            "Matt Greiner's proven August Burns Red setup — Grammy-nominated technical precision",
+            "Matt Halpern's proven Periphery setup — polyrhythmic djent-metalcore precision",
             "Extra Dry voicing stays controlled through breakdown-heavy, palm-muted riffing",
-            "Same family used by Matt Halpern (Periphery) for a proven, widely-adopted voice",
+            "Widely adopted across metalcore's most technically respected drummers",
             "B20 bronze construction built for demanding touring use"
           ],
           cons: [
@@ -43938,7 +43925,7 @@ Matt Halpern of Periphery runs a near-identical Byzance Extra Dry crash setup, u
             decay: "Fast, controlled"
           },
           usedBy: [
-            { name: "Matt Greiner", band: "August Burns Red", note: "18\" & 19\" Extra Dry Medium Crashes for technical, breakdown-heavy metalcore" }
+            { name: "Matt Halpern", band: "Periphery", note: "Extra Dry Medium Crash for polyrhythmic djent-metalcore" }
           ],
           verdict: "The metalcore crash standard. If you want the dry, controlled voice that defines the genre's technical wing, this is it.",
           rating: 4.8,
@@ -43955,7 +43942,7 @@ Matt Halpern of Periphery runs a near-identical Byzance Extra Dry crash setup, u
           driveType: "B20 Bronze, Hybrid finish",
           description: `Alex Bent brought his technical death metal background from Brain Drill and Arkaik into Trivium, and his 16", 18" and 19" Zildjian K Custom Hybrid Medium Thin Crashes reflect that hybrid pedigree. The hybrid finish blends a dark, complex K Custom body with a brighter, cutting edge, giving a faster attack than the Extra Dry line while matching Trivium's more melodic, riff-driven modern metal sound.
 
-Where Matt Greiner prioritizes dryness and control, Bent's K Custom Hybrid setup shows that a brighter, more resonant crash voice works equally well for metalcore-adjacent modern metal that leans into melody as much as breakdown weight.`,
+Where Matt Halpern prioritizes dryness and control, Bent's K Custom Hybrid setup shows that a brighter, more resonant crash voice works equally well for metalcore-adjacent modern metal that leans into melody as much as breakdown weight.`,
           pros: [
             "Alex Bent's proven Trivium setup — brighter voicing for melodic modern metalcore",
             "Hybrid finish gives a faster, more cutting attack than Extra Dry alternatives",
@@ -44029,7 +44016,7 @@ The A Custom line's brilliant finish gives fast, cutting crash response ideal fo
           driveType: "B20 Bronze, Dark",
           description: `Chris Adler of Lamb of God plays 18" and 19" Meinl Byzance Dark Crashes, tuned for groove metal's tightly arranged breakdowns. The dark, hand-hammered B20 construction delivers controlled decay with more tonal complexity than a purely dry-voiced crash, giving Adler's breakdown hits weight without losing definition.
 
-Adler's crash choice sits between Matt Greiner's ultra-dry technical voice and Jay Weinberg's bright, explosive attack — a genuinely middle-ground option for metalcore-adjacent groove metal.`,
+Adler's crash choice sits between Matt Halpern's ultra-dry technical voice and Jay Weinberg's bright, explosive attack — a genuinely middle-ground option for metalcore-adjacent groove metal.`,
           pros: [
             "Chris Adler's proven Lamb of God setup — groove metal breakdown precision",
             "Dark, complex B20 tone with controlled decay",
@@ -44091,7 +44078,7 @@ Adler's crash choice sits between Matt Greiner's ultra-dry technical voice and J
           priceRange: "€60-85",
           tier: "budget",
           driveType: "Brass",
-          description: "A budget-friendly alternative that mirrors the same brand lineage as Matt Greiner's and Chris Adler's professional Meinl setups, giving developing drummers a real path toward Byzance Extra Dry and Dark upgrades.",
+          description: "A budget-friendly alternative that mirrors the same brand lineage as Matt Halpern's and Chris Adler's professional Meinl setups, giving developing drummers a real path toward Byzance Extra Dry and Dark upgrades.",
           pros: [
             "Same Meinl brand lineage as pro metalcore crash setups",
             "Affordable, widely available entry point",
@@ -44134,7 +44121,7 @@ Adler's crash choice sits between Matt Greiner's ultra-dry technical voice and J
       title: "Extra Dry vs Bright Crash Voicing for Metalcore",
       content: `Metalcore's crash choices split along a clear line: control-first dryness, or brightness and explosiveness. Here's the honest breakdown:
 
-**Extra Dry / Dark (Matt Greiner, Chris Adler):**
+**Extra Dry / Dark (Matt Halpern, Chris Adler):**
 - Controlled, low-sustain decay that stays out of the way of breakdown-heavy riffing
 - More tonal complexity in the Byzance Dark line than a purely dry voicing
 - Best for technical, breakdown-driven metalcore and groove metal hybrids
@@ -44144,7 +44131,7 @@ Adler's crash choice sits between Matt Greiner's ultra-dry technical voice and J
 - More explosive, theatrical impact live
 - Best for melodic modern metalcore and aggressive nu-metal/metalcore hybrids
 
-**The Truth:** Both approaches are proven at the highest level. Matt Greiner's Grammy-nominated technical precision runs on dry control; Jay Weinberg's Slipknot intensity runs on bright explosiveness. Neither is objectively better — it depends entirely on whether your metalcore leans breakdown-technical or melodic-aggressive.
+**The Truth:** Both approaches are proven at the highest level. Matt Halpern's technical precision runs on dry control; Jay Weinberg's Slipknot intensity runs on bright explosiveness. Neither is objectively better — it depends entirely on whether your metalcore leans breakdown-technical or melodic-aggressive.
 
 **Our Recommendation:** If your band is breakdown-heavy and technical, start with Meinl Byzance Extra Dry. If your band leans melodic or aggressive/theatrical, start with Zildjian A Custom or Zildjian K Custom Hybrid.`,
       comparisonTable: [
@@ -44162,7 +44149,7 @@ Adler's crash choice sits between Matt Greiner's ultra-dry technical voice and J
         {
           category: "Best Overall",
           pedal: "Meinl Byzance Extra Dry Medium Crash",
-          reason: "Matt Greiner's Grammy-nominated technical standard — controlled, breakdown-ready decay."
+          reason: "Matt Halpern's technical standard — controlled, breakdown-ready decay."
         },
         {
           category: "Best for Melodic Metalcore",
@@ -44189,7 +44176,7 @@ Adler's crash choice sits between Matt Greiner's ultra-dry technical voice and J
       'best-snares-for-metalcore'
     ],
     relatedDrummers: [
-      { slug: 'matt-greiner', name: 'Matt Greiner', reason: 'Meinl Byzance Extra Dry Medium Crashes — August Burns Red\'s technical precision' },
+      { slug: 'matt-halpern', name: 'Matt Halpern', reason: 'Meinl Byzance Extra Dry Medium Crashes — Periphery\'s polyrhythmic precision' },
       { slug: 'alex-bent', name: 'Alex Bent', reason: 'Zildjian K Custom Hybrid Medium Thin Crashes — Trivium\'s melodic modern metal' },
       { slug: 'jay-weinberg', name: 'Jay Weinberg', reason: 'Zildjian A Custom Crashes — Slipknot\'s explosive attack' },
       { slug: 'chris-adler', name: 'Chris Adler', reason: 'Meinl Byzance Dark Crashes — Lamb of God\'s breakdown precision' }
@@ -44197,7 +44184,7 @@ Adler's crash choice sits between Matt Greiner's ultra-dry technical voice and J
 
     // Featured drummers (issue template)
     featuredDrummers: [
-      { slug: 'matt-greiner', name: 'Matt Greiner', reason: 'Meinl Byzance Extra Dry Medium Crashes — August Burns Red\'s technical precision' },
+      { slug: 'matt-halpern', name: 'Matt Halpern', reason: 'Meinl Byzance Extra Dry Medium Crashes — Periphery\'s polyrhythmic precision' },
       { slug: 'chris-adler', name: 'Chris Adler', reason: 'Meinl Byzance Dark Crashes — Lamb of God\'s breakdown precision' },
       { slug: 'jay-weinberg', name: 'Jay Weinberg', reason: 'Zildjian A Custom Crashes — Slipknot\'s explosive attack' }
     ],
@@ -44206,8 +44193,8 @@ Adler's crash choice sits between Matt Greiner's ultra-dry technical voice and J
     // FAQ section for SEO
     faq: [
       {
-        question: "What crash cymbal does Matt Greiner use?",
-        answer: "Matt Greiner of August Burns Red runs 18\" and 19\" Meinl Byzance Extra Dry Medium Crashes, chosen for the controlled, low-sustain voice that stays articulate through breakdown-heavy arrangements and complex time signature changes."
+        question: "What crash cymbal does Matt Halpern use?",
+        answer: "Matt Halpern of Periphery runs a Meinl Byzance Extra Dry Medium Crash setup, chosen for the controlled, low-sustain voice that stays articulate through breakdown-heavy arrangements and complex time signature changes."
       },
       {
         question: "What crash cymbal does Chris Adler use?",
@@ -44219,7 +44206,7 @@ Adler's crash choice sits between Matt Greiner's ultra-dry technical voice and J
       },
       {
         question: "Should I choose a dry or bright crash for metalcore?",
-        answer: "It depends on your style. Dry, controlled crashes like Matt Greiner's and Chris Adler's Meinl Byzance Extra Dry/Dark suit breakdown-heavy, technical metalcore. Brighter crashes like Alex Bent's Zildjian K Custom Hybrid and Jay Weinberg's Zildjian A Custom suit melodic or aggressive, theatrical metalcore."
+        answer: "It depends on your style. Dry, controlled crashes like Matt Halpern's and Chris Adler's Meinl Byzance Extra Dry/Dark suit breakdown-heavy, technical metalcore. Brighter crashes like Alex Bent's Zildjian K Custom Hybrid and Jay Weinberg's Zildjian A Custom suit melodic or aggressive, theatrical metalcore."
       },
       {
         question: "What's the best budget crash cymbal for metalcore?",
@@ -44230,7 +44217,7 @@ Adler's crash choice sits between Matt Greiner's ultra-dry technical voice and J
     // Conclusion
     conclusion: {
       title: "Choose the Crash Voice That Matches Your Breakdown",
-      content: `Metalcore's crash choices span a genuinely wide range — from Matt Greiner's ultra-controlled Byzance Extra Dry to Jay Weinberg's bright, explosive Zildjian A Custom — because the genre itself spans technical breakdown precision and aggressive, theatrical energy. Whether you build around Matt Greiner's dry control, Alex Bent's melodic brightness, Jay Weinberg's explosive attack, or Chris Adler's dark middle ground, the right crash should match exactly how your band's breakdowns hit.
+      content: `Metalcore's crash choices span a genuinely wide range — from Matt Halpern's ultra-controlled Byzance Extra Dry to Jay Weinberg's bright, explosive Zildjian A Custom — because the genre itself spans technical breakdown precision and aggressive, theatrical energy. Whether you build around Matt Halpern's dry control, Alex Bent's melodic brightness, Jay Weinberg's explosive attack, or Chris Adler's dark middle ground, the right crash should match exactly how your band's breakdowns hit.
 
 Start with one medium-weight crash in the 18" range that matches your band's general voicing, and add a second size once you know exactly what your breakdowns and transitions are asking for.
 
@@ -46854,7 +46841,7 @@ None of these approaches is more "correct" — all four represent groove metal's
       title: "Why Mathcore Needs a Wider, Faster-Attack Crash Spread",
       content: `Mathcore fuses hardcore punk's raw aggression with progressive rock's obsession with odd meters, asymmetrical riffing, and constantly shifting rhythmic cells — a combination that demands crash cymbals capable of instant, aggressive attack across a wider range of accent points than a typical metalcore setup needs. Where straightforward metalcore can lean on a small, consistent set of crashes for breakdown accents, mathcore's irregular time signatures and sudden tempo shifts call for a more responsive crash spread.
 
-Ben Koller of Converge plays 16"-18" Zildjian K and A Custom Crashes, whose fluid control within apparent rhythmic chaos on "Jane Doe" (2001) turned mathcore's unpredictability into genuine musical expression. Matt Greiner of August Burns Red relies on 16"-18" Meinl Byzance Dual Crashes for creative, dynamic cymbal work across odd-time signatures. Blake Richardson of Between the Buried and Me plays 16"-18" Meinl Byzance Extra Dry Crashes whose complex, musical tone handles BTBAM's genre-hopping technicality. Danny Carey of Tool runs 16"-18" Paiste Signature Power Crashes, whose famously Fibonacci-structured polyrhythms established a mathematically rigorous drumming standard that directly informed math metal and mathcore's own rhythmic ambitions.
+Ben Koller of Converge plays 16"-18" Zildjian K and A Custom Crashes, whose fluid control within apparent rhythmic chaos on "Jane Doe" (2001) turned mathcore's unpredictability into genuine musical expression. Matt Greiner of August Burns Red relies on his Paiste Formula 602 setup for creative, dynamic cymbal work across odd-time signatures. Blake Richardson of Between the Buried and Me plays 16"-18" Meinl Byzance Extra Dry Crashes whose complex, musical tone handles BTBAM's genre-hopping technicality. Danny Carey of Tool runs 16"-18" Paiste Signature Power Crashes, whose famously Fibonacci-structured polyrhythms established a mathematically rigorous drumming standard that directly informed math metal and mathcore's own rhythmic ambitions.
 
 This guide breaks down attack, complexity, and dissonance for mathcore crash cymbals — comparing setups across four drummers whose hardcore-rooted and progressive lineages define the genre's rhythmically unpredictable aggression, with recommendations from budget to professional touring rigs.`,
       keyPoints: [
@@ -46878,7 +46865,7 @@ This guide breaks down attack, complexity, and dissonance for mathcore crash cym
         {
           name: "Dissonant, Complex Tone",
           icon: "🎼",
-          description: "Matt Greiner's and Blake Richardson's Meinl Byzance Dual/Extra Dry crashes deliver dissonant, complex overtones that punctuate mathcore's jarring, unpredictable riffing better than a simple, clean crash.",
+          description: "Blake Richardson's Meinl Byzance Extra Dry crashes deliver dissonant, complex overtones that punctuate mathcore's jarring, unpredictable riffing better than a simple, clean crash.",
           recommendation: "Dissonant, complex-voiced B20 crashes for punctuating irregular riffing"
         },
         {
@@ -46958,11 +46945,10 @@ Koller's stripped-down setup emphasizes power and response over complexity, a ph
           priceRange: "€250-320",
           tier: "premium",
           driveType: "B20 Hand Hammered",
-          description: `Matt Greiner of August Burns Red plays 16" and 18" Meinl Byzance Dual Crashes, bringing math metal's rhythmic complexity into mathcore-adjacent metalcore — his jazz-influenced dynamics and creative use of stack effects require a cymbal complex enough to punctuate the band's odd time signature integration.
+          description: `The Byzance Dual Crash brings math metal's rhythmic complexity into mathcore-adjacent metalcore — jazz-influenced dynamics and creative use of stack effects require a cymbal complex enough to punctuate odd time signature integration.
 
-The Dual series splits the difference between dark and bright voicing, giving Greiner distinct tonal options for accenting mathcore-adjacent riffing without needing an oversized cymbal collection.`,
+The Dual series splits the difference between dark and bright voicing, giving drummers distinct tonal options for accenting mathcore-adjacent riffing without needing an oversized cymbal collection.`,
           pros: [
-            "Matt Greiner's proven August Burns Red setup — math metal complexity in mathcore-adjacent metalcore",
             "Dual series balances dark and bright voicing in a single crash line",
             "Provides immediate, choked attack for tight odd-time accents",
             "Proven across August Burns Red's Grammy-nominated, technically demanding catalog"
@@ -46979,10 +46965,8 @@ The Dual series splits the difference between dark and bright voicing, giving Gr
             weight: "Medium",
             decay: "Balanced, controlled"
           },
-          usedBy: [
-            { name: "Matt Greiner", band: "August Burns Red", note: "16\" & 18\" Byzance Dual Crashes — math metal complexity in mathcore-adjacent metalcore" }
-          ],
-          verdict: "Best for jazz-informed technical precision. Greiner's Byzance Dual crash carries math metal complexity into breakdown-driven songwriting.",
+          usedBy: [],
+          verdict: "Best for jazz-informed technical precision. The Byzance Dual crash carries math metal complexity into breakdown-driven songwriting.",
           rating: 4.7,
           affiliateLink: "https://www.thomann.de/intl/meinl_byzance_dual_crash_18_greiner.htm?partner_id=metalforge"
         },
@@ -47123,7 +47107,7 @@ Carey's crashes deliver weight without excessive wash, treating rhythmic mathema
 - Mathcore's founding, most directly documented crash setup
 - Best for genre-defining, chaotic Converge-style mathcore
 
-**Meinl Byzance Dual/Extra Dry (Matt Greiner, Blake Richardson):**
+**Meinl Byzance Extra Dry (Blake Richardson):**
 - Complex, dissonant overtones suited to odd-time, genre-hopping material
 - Versatile across both aggressive accents and dynamic restraint
 - Best for technical, math metal-adjacent mathcore and progressive-leaning material
@@ -47154,7 +47138,7 @@ Carey's crashes deliver weight without excessive wash, treating rhythmic mathema
         {
           category: "Best for Technical, Odd-Time Precision",
           pedal: "Meinl Byzance Dual Crash",
-          reason: "Matt Greiner's August Burns Red setup — math metal complexity in mathcore-adjacent metalcore."
+          reason: "Balances dark and bright voicing for technical, odd-time precision."
         },
         {
           category: "Best for Genre-Hopping Dynamics",
@@ -47178,7 +47162,6 @@ Carey's crashes deliver weight without excessive wash, treating rhythmic mathema
     ],
     relatedDrummers: [
       { slug: 'ben-koller', name: 'Ben Koller', reason: 'Zildjian K and A Custom Crash — Converge mathcore\'s founding cutting attack' },
-      { slug: 'matt-greiner', name: 'Matt Greiner', reason: 'Meinl Byzance Dual Crash — August Burns Red math metal complexity' },
       { slug: 'blake-richardson', name: 'Blake Richardson', reason: 'Meinl Byzance Extra Dry Crash — BTBAM genre-hopping technicality' },
       { slug: 'danny-carey', name: 'Danny Carey', reason: 'Paiste Signature Power Crash — Tool\'s Fibonacci-structured rigor' }
     ],
@@ -47186,7 +47169,6 @@ Carey's crashes deliver weight without excessive wash, treating rhythmic mathema
     // Featured drummers (issue template)
     featuredDrummers: [
       { slug: 'ben-koller', name: 'Ben Koller', reason: 'Zildjian K and A Custom Crash — Converge mathcore\'s founding cutting attack' },
-      { slug: 'matt-greiner', name: 'Matt Greiner', reason: 'Meinl Byzance Dual Crash — August Burns Red math metal complexity' },
       { slug: 'blake-richardson', name: 'Blake Richardson', reason: 'Meinl Byzance Extra Dry Crash — BTBAM genre-hopping technicality' }
     ],
     relatedComparisons: [],
@@ -47199,7 +47181,7 @@ Carey's crashes deliver weight without excessive wash, treating rhythmic mathema
       },
       {
         question: "What crash cymbal does Matt Greiner use?",
-        answer: "Matt Greiner of August Burns Red plays 16\" and 18\" Meinl Byzance Dual Crashes, bringing math metal's rhythmic complexity into mathcore-adjacent metalcore."
+        answer: "Matt Greiner of August Burns Red switched to a Paiste Formula 602 setup in 2016; no specific crash model in that line is publicly documented for his rig."
       },
       {
         question: "What crash cymbal does Blake Richardson use?",
@@ -47207,7 +47189,7 @@ Carey's crashes deliver weight without excessive wash, treating rhythmic mathema
       },
       {
         question: "Why does mathcore need a wider crash spread than typical metalcore?",
-        answer: "Mathcore's irregular time signatures and sudden tempo shifts call for more distinct accent options than a small, matched pair of crashes can provide. Running crashes across 16\"-18\" — as Ben Koller, Matt Greiner, and Blake Richardson all do — gives drummers more tonal choices for each odd-time accent."
+        answer: "Mathcore's irregular time signatures and sudden tempo shifts call for more distinct accent options than a small, matched pair of crashes can provide. Running crashes across 16\"-18\" — as Ben Koller and Blake Richardson both do — gives drummers more tonal choices for each odd-time accent."
       },
       {
         question: "What's the best budget crash cymbal for mathcore?",
@@ -47218,7 +47200,7 @@ Carey's crashes deliver weight without excessive wash, treating rhythmic mathema
     // Conclusion
     conclusion: {
       title: "Build Your Mathcore Crash Spread",
-      content: `Mathcore crash choices come down to a simple decision between two proven philosophies: Zildjian K/A Custom's bright, fast-attack cutting power (Ben Koller's founding sound) or Meinl Byzance's complex, dissonant overtones (Matt Greiner's and Blake Richardson's genre-hopping approach). Danny Carey's Paiste Signature crashes offer a third path for mathcore's most compositionally ambitious wing.
+      content: `Mathcore crash choices come down to a simple decision between two proven philosophies: Zildjian K/A Custom's bright, fast-attack cutting power (Ben Koller's founding sound) or Meinl Byzance's complex, dissonant overtones (Blake Richardson's genre-hopping approach). Danny Carey's Paiste Signature crashes offer a third path for mathcore's most compositionally ambitious wing.
 
 Start with whichever character matches your playing style, and don't overlook running a wider spread of crash sizes — mathcore's odd-time unpredictability rewards more distinct accent options than a standard matched pair provides.
 
@@ -60569,12 +60551,11 @@ Budget shouldn't stop you either. A Pearl Export or Mapex Storm Series snare wil
     // SEO metadata
     title: "Best Cymbals for Metalcore: 2026 Expert Guide",
     metaTitle: "Best Cymbals for Metalcore 2026 | MetalForge Expert Guide",
-    description: "Best cymbal picks for metalcore drumming: what Matt Halpern (Periphery), Matt Greiner (August Burns Red), Alex Bent (Trivium), and Jay Weinberg (Slipknot) actually play. Meinl Byzance Extra Dry vs Zildjian A/K Custom — ranked budget to pro.",
+    description: "Best cymbal picks for metalcore drumming: what Matt Halpern (Periphery), Alex Bent (Trivium), and Jay Weinberg (Slipknot) actually play. Meinl Byzance Extra Dry vs Zildjian A/K Custom — ranked budget to pro.",
     seoKeywords: [
       'best cymbals for metalcore',
       'metalcore cymbals',
       'matt halpern cymbals periphery',
-      'matt greiner cymbals august burns red',
       'alex bent cymbals trivium',
       'jay weinberg cymbals slipknot',
       'meinl byzance metalcore',
@@ -60592,7 +60573,7 @@ Budget shouldn't stop you either. A Pearl Export or Mapex Storm Series snare wil
     // Hero section
     hero: {
       title: "🎪 Best Cymbals for Metalcore",
-      subtitle: "What Matt Halpern, Matt Greiner, Alex Bent, and Jay Weinberg Actually Play",
+      subtitle: "What Matt Halpern, Alex Bent, and Jay Weinberg Actually Play",
       badge: "GEAR GUIDE 2026",
       stats: [
         { value: '4', label: 'Cymbal Lines Reviewed' },
@@ -60606,14 +60587,14 @@ Budget shouldn't stop you either. A Pearl Export or Mapex Storm Series snare wil
       title: "Why Metalcore Cymbals Need to Stay Dry and Controlled",
       content: `Metalcore drumming lives between two worlds — breakdown-driven heaviness and technical, syncopated precision — and the genre's cymbal choices reflect that split. Palm-muted chugs and tightly syncopated riffing need cymbals that stay dry and controlled rather than washing out, while the genre's frequent tempo and dynamic shifts demand quick, articulate response.
 
-Matt Halpern of Periphery and Matt Greiner of August Burns Red both build their setups around Meinl Byzance Extra Dry Series cymbals, prioritizing a controlled, low-sustain voice that stays articulate through breakdown-heavy arrangements and complex time signature changes. Alex Bent, who brought his technical death metal background to Trivium, uses the brighter Zildjian K Custom Hybrid Series for a faster, more cutting attack suited to Trivium's more melodic, riff-driven modern metal sound. Jay Weinberg of Slipknot takes a different path entirely, building his kit around Zildjian A Custom and K Custom cymbals for a brighter, more explosive voice that matches Slipknot's aggressive nu-metal/metalcore hybrid sound.
+Matt Halpern of Periphery builds his setup around Meinl Byzance Extra Dry Series cymbals, prioritizing a controlled, low-sustain voice that stays articulate through breakdown-heavy arrangements and complex time signature changes. Alex Bent, who brought his technical death metal background to Trivium, uses the brighter Zildjian K Custom Hybrid Series for a faster, more cutting attack suited to Trivium's more melodic, riff-driven modern metal sound. Jay Weinberg of Slipknot takes a different path entirely, building his kit around Zildjian A Custom and K Custom cymbals for a brighter, more explosive voice that matches Slipknot's aggressive nu-metal/metalcore hybrid sound.
 
-This guide compares Meinl Byzance Extra Dry, Zildjian K Custom Hybrid, and Zildjian A/K Custom cymbals for metalcore — breaking down what each of these four influential drummers plays and why, with recommendations across every budget.`,
+This guide compares Meinl Byzance Extra Dry, Zildjian K Custom Hybrid, and Zildjian A/K Custom cymbals for metalcore — breaking down what each of these three influential drummers plays and why, with recommendations across every budget.`,
       keyPoints: [
-        "Meinl Byzance Extra Dry defines the dry, controlled metalcore cymbal standard — Matt Halpern and Matt Greiner both use it",
-        "China cymbals are essential for punctuating breakdowns — all four featured drummers include an 18\"-19\" china",
+        "Meinl Byzance Extra Dry defines the dry, controlled metalcore cymbal standard — Matt Halpern uses it",
+        "China cymbals are essential for punctuating breakdowns — all three featured drummers include an 18\"-19\" china",
         "Dry voicing dominates modern metalcore, but Jay Weinberg's brighter Zildjian setup shows the more explosive alternative",
-        "15\" hi-hats (Halpern, Greiner) are common in metalcore for extra control on tightly muted riff patterns"
+        "15\" hi-hats (Halpern) are common in metalcore for extra control on tightly muted riff patterns"
       ]
     },
 
@@ -60624,31 +60605,31 @@ This guide compares Meinl Byzance Extra Dry, Zildjian K Custom Hybrid, and Zildj
         {
           name: "Dry, Controlled Voicing",
           icon: "🌫️",
-          description: "Metalcore's breakdown-driven riffing needs cymbals that don't wash into a wall of sustain. Meinl Byzance Extra Dry cymbals — used by Matt Halpern and Matt Greiner — are specifically voiced with minimal ring, staying controlled and articulate through syncopated, palm-muted passages.",
+          description: "Metalcore's breakdown-driven riffing needs cymbals that don't wash into a wall of sustain. Meinl Byzance Extra Dry cymbals — used by Matt Halpern — are specifically voiced with minimal ring, staying controlled and articulate through syncopated, palm-muted passages.",
           recommendation: "Extra Dry or Dark-voiced crashes and rides for controlled, low-sustain response"
         },
         {
           name: "China Cymbal for Breakdown Punctuation",
           icon: "⛩️",
-          description: "China cymbals are nearly universal in metalcore setups: Halpern's 18\" Extra Dry China, Greiner's 18\" Extra Dry China, Bent's 18\" China, and Weinberg's 19\" K China all supply the immediate, trashy accent that punctuates breakdown hits and riff transitions.",
+          description: "China cymbals are nearly universal in metalcore setups: Halpern's 18\" Extra Dry China, Bent's 18\" China, and Weinberg's 19\" K China all supply the immediate, trashy accent that punctuates breakdown hits and riff transitions.",
           recommendation: "18\"-19\" china for immediate, cutting breakdown punctuation"
         },
         {
           name: "Hi-Hat Control for Palm-Muted Riffing",
           icon: "🎩",
-          description: "15\" hi-hats — used by both Halpern and Greiner — give extra surface area and control compared to the more common 14\" size, useful for the tightly muted, syncopated riff patterns that define much of metalcore's rhythmic vocabulary.",
+          description: "15\" hi-hats — used by Halpern — give extra surface area and control compared to the more common 14\" size, useful for the tightly muted, syncopated riff patterns that define much of metalcore's rhythmic vocabulary.",
           recommendation: "14\"-15\" hi-hats, dry/dark voicing for tight, controlled closed patterns"
         },
         {
           name: "Ride Clarity for Syncopated Patterns",
           icon: "🔔",
-          description: "Metalcore's complex time signature shifts and syncopated riff-locking demand a ride that stays clearly articulate rather than washing into a blur. Transition-style rides (Halpern, Greiner) and Medium/K Custom rides (Bent, Weinberg) all prioritize definition over pure volume.",
+          description: "Metalcore's complex time signature shifts and syncopated riff-locking demand a ride that stays clearly articulate rather than washing into a blur. Transition-style rides (Halpern) and Medium/K Custom rides (Bent, Weinberg) all prioritize definition over pure volume.",
           recommendation: "Transition or medium-weight rides for clear articulation through complex patterns"
         },
         {
           name: "Brightness vs. Dryness Tradeoff",
           icon: "⚖️",
-          description: "Meinl Byzance Extra Dry (Halpern, Greiner) prioritizes control; Zildjian K Custom Hybrid (Bent) and Zildjian A/K Custom (Weinberg) trade some of that dryness for a brighter, more explosive attack that suits metalcore's more melodic or aggressive extremes.",
+          description: "Meinl Byzance Extra Dry (Halpern) prioritizes control; Zildjian K Custom Hybrid (Bent) and Zildjian A/K Custom (Weinberg) trade some of that dryness for a brighter, more explosive attack that suits metalcore's more melodic or aggressive extremes.",
           recommendation: "Extra Dry for breakdown-heavy technical metalcore; brighter K Custom Hybrid/A Custom voicing for melodic or aggressive metalcore"
         },
         {
@@ -60674,12 +60655,12 @@ This guide compares Meinl Byzance Extra Dry, Zildjian K Custom Hybrid, and Zildj
           tier: "pro",
           material: "B20 Bronze",
 
-          description: `The Meinl Byzance Extra Dry Series is metalcore's defining cymbal sound, anchoring two of the genre's most technically respected setups. Matt Halpern of Periphery built his kit around 15" Dark Hi-Hats, 18" & 20" Extra Dry Medium Crashes, a 22" Transition Ride, and an 18" Extra Dry China — a setup engineered for the polyrhythmic precision Periphery's djent-metalcore hybrid demands across "Periphery II," "Juggernaut," and "Hail Stan."
+          description: `The Meinl Byzance Extra Dry Series is metalcore's defining cymbal sound, anchoring one of the genre's most technically respected setups. Matt Halpern of Periphery built his kit around 15" Dark Hi-Hats, 18" & 20" Extra Dry Medium Crashes, a 22" Transition Ride, and an 18" Extra Dry China — a setup engineered for the polyrhythmic precision Periphery's djent-metalcore hybrid demands across "Periphery II," "Juggernaut," and "Hail Stan."
 
-Matt Greiner of August Burns Red runs a near-identical Meinl Byzance Extra Dry setup — 15" Dual Hi-Hats, 18" & 19" Extra Dry Medium Crashes, a 21" Transition Ride, and an 18" Extra Dry China — driving August Burns Red's Grammy-nominated catalog with jazz-influenced dynamics and technical precision. Both drummers rely on the Extra Dry line's minimal-sustain voicing to stay controlled through breakdown-heavy, syncopated arrangements.`,
+Halpern relies on the Extra Dry line's minimal-sustain voicing to stay controlled through breakdown-heavy, syncopated arrangements.`,
 
           pros: [
-            "Two of metalcore's most technically respected drummers — Matt Halpern and Matt Greiner — both build around this line",
+            "One of metalcore's most technically respected drummers — Matt Halpern — built his kit around this line",
             "Extra Dry voicing stays controlled through breakdown-heavy, palm-muted riffing",
             "15\" hi-hat option gives extra control versus standard 14\"",
             "Wide range across hi-hats, crashes, rides, and china",
@@ -60697,8 +60678,7 @@ Matt Greiner of August Burns Red runs a near-identical Meinl Byzance Extra Dry s
             bestFor: "Technical, breakdown-heavy, and djent-influenced metalcore"
           },
           usedBy: [
-            { name: "Matt Halpern", band: "Periphery", note: "15\" Dark Hi-Hats, 18\"&20\" Extra Dry Medium Crashes, 22\" Transition Ride, 18\" Extra Dry China" },
-            { name: "Matt Greiner", band: "August Burns Red", note: "15\" Dual Hi-Hats, 18\"&19\" Extra Dry Medium Crashes, 21\" Transition Ride, 18\" Extra Dry China" }
+            { name: "Matt Halpern", band: "Periphery", note: "15\" Dark Hi-Hats, 18\"&20\" Extra Dry Medium Crashes, 22\" Transition Ride, 18\" Extra Dry China" }
           ],
           verdict: "The metalcore cymbal standard. If you want the dry, controlled voice that defines the genre's technical wing, this is it.",
           rating: 4.8,
@@ -60716,7 +60696,7 @@ Matt Greiner of August Burns Red runs a near-identical Meinl Byzance Extra Dry s
 
           description: `Alex Bent brought his technical death metal background from Brain Drill and Arkaik into Trivium, and his Zildjian K Custom Hybrid Series setup reflects that hybrid pedigree — 14" Medium Hi-Hats, 16", 18" & 19" Medium Thin Crashes, a 21" Medium Ride, and an 18" China. The hybrid finish blends a dark, complex K Custom body with a brighter, cutting edge, giving a faster attack than the Extra Dry line while matching Trivium's more melodic, riff-driven modern metal sound on "The Sin and the Sentence" and "In the Court of the Dragon."
 
-Where Halpern and Greiner prioritize dryness and control, Bent's K Custom Hybrid Series setup shows that a brighter, more resonant voice works equally well for metalcore-adjacent modern metal that leans into melody as much as breakdown weight.`,
+Where Halpern prioritizes dryness and control, Bent's K Custom Hybrid Series setup shows that a brighter, more resonant voice works equally well for metalcore-adjacent modern metal that leans into melody as much as breakdown weight.`,
 
           pros: [
             "Alex Bent's Trivium setup — proof that brighter voicing works for melodic modern metalcore",
@@ -60864,7 +60844,7 @@ While not tied to one of metalcore's specific signature setups, AAX cymbals appe
       title: "Meinl Byzance Extra Dry vs Zildjian A/K Custom for Metalcore",
       content: `Cymbal choice splits metalcore drummers into two clear camps. Here's how each compares:
 
-**Meinl Byzance Extra Dry (Matt Halpern, Matt Greiner):**
+**Meinl Byzance Extra Dry (Matt Halpern):**
 - Dry, controlled, minimal-sustain character
 - The dominant modern metalcore cymbal choice
 - Prioritizes control over breakdown-heavy, syncopated riffing
@@ -60876,7 +60856,7 @@ While not tied to one of metalcore's specific signature setups, AAX cymbals appe
 - More versatile outside pure metalcore contexts
 - Best for: Theatrical, high-energy live performance
 
-**The Truth:** Two of metalcore's most technically respected drummers — Matt Halpern and Matt Greiner — built their sound on Meinl Byzance Extra Dry's controlled dryness. Jay Weinberg proves the opposite approach also works at the highest level, trading dry control for explosive brightness. Neither is "more correct" — it depends on whether your metalcore leans technical/breakdown-driven or aggressive/theatrical.
+**The Truth:** One of metalcore's most technically respected drummers — Matt Halpern — built his sound on Meinl Byzance Extra Dry's controlled dryness. Jay Weinberg proves the opposite approach also works at the highest level, trading dry control for explosive brightness. Neither is "more correct" — it depends on whether your metalcore leans technical/breakdown-driven or aggressive/theatrical.
 
 **Our Recommendation:** Start with Meinl Byzance Extra Dry if you want the dry, controlled sound that dominates modern technical metalcore. Choose Zildjian A Custom & K Custom if your material is more aggressive and nu-metal-influenced.`,
       comparisonTable: [
@@ -60895,7 +60875,7 @@ While not tied to one of metalcore's specific signature setups, AAX cymbals appe
         {
           category: "Best Overall",
           pedal: "Meinl Byzance Extra Dry Series",
-          reason: "Matt Halpern and Matt Greiner's shared setup — the dry, controlled tone that defines modern metalcore."
+          reason: "Matt Halpern's setup — the dry, controlled tone that defines modern metalcore."
         },
         {
           category: "Best for Melodic Metalcore",
@@ -60924,7 +60904,6 @@ While not tied to one of metalcore's specific signature setups, AAX cymbals appe
     ],
     relatedDrummers: [
       { slug: 'matt-halpern', name: 'Matt Halpern', reason: 'Meinl Byzance Extra Dry — Periphery djent-metalcore precision' },
-      { slug: 'matt-greiner', name: 'Matt Greiner', reason: 'Meinl Byzance Extra Dry — August Burns Red technical metalcore' },
       { slug: 'alex-bent', name: 'Alex Bent', reason: 'Zildjian K Custom Hybrid — Trivium melodic modern metal' },
       { slug: 'jay-weinberg', name: 'Jay Weinberg', reason: 'Zildjian A Custom & K Custom — Slipknot aggressive metalcore' }
     ],
@@ -60932,7 +60911,6 @@ While not tied to one of metalcore's specific signature setups, AAX cymbals appe
     // Featured drummers (issue template)
     featuredDrummers: [
       { slug: 'matt-halpern', name: 'Matt Halpern', reason: 'Meinl Byzance Extra Dry — Periphery djent-metalcore precision' },
-      { slug: 'matt-greiner', name: 'Matt Greiner', reason: 'Meinl Byzance Extra Dry — August Burns Red technical metalcore' },
       { slug: 'alex-bent', name: 'Alex Bent', reason: 'Zildjian K Custom Hybrid — Trivium melodic modern metal' },
       { slug: 'jay-weinberg', name: 'Jay Weinberg', reason: 'Zildjian A Custom & K Custom — Slipknot aggressive metalcore' }
     ],
@@ -60944,16 +60922,12 @@ While not tied to one of metalcore's specific signature setups, AAX cymbals appe
         answer: "Matt Halpern of Periphery uses Meinl Byzance Extra Dry Series cymbals — 15\" Dark Hi-Hats, 18\" & 20\" Extra Dry Medium Crashes, a 22\" Transition Ride, and an 18\" Extra Dry China. This dry, controlled setup is engineered for Periphery's polyrhythmic djent-metalcore precision."
       },
       {
-        question: "What cymbals does Matt Greiner from August Burns Red use?",
-        answer: "Matt Greiner uses Meinl Byzance Extra Dry Series cymbals — 15\" Dual Hi-Hats, 18\" & 19\" Extra Dry Medium Crashes, a 21\" Transition Ride, and an 18\" Extra Dry China — nearly identical to Matt Halpern's Periphery setup, reflecting the shared dry, controlled cymbal sound that dominates technical metalcore."
-      },
-      {
         question: "Meinl Byzance vs Zildjian A Custom — which is better for metalcore?",
-        answer: "Both work at the highest level of metalcore — Matt Halpern and Matt Greiner both use Meinl Byzance Extra Dry for its controlled, minimal-sustain character, while Jay Weinberg uses Zildjian A Custom & K Custom for a brighter, more explosive attack. Byzance Extra Dry suits technical, breakdown-heavy metalcore; A Custom & K Custom suits aggressive, nu-metal-influenced metalcore."
+        answer: "Both work at the highest level of metalcore — Matt Halpern uses Meinl Byzance Extra Dry for its controlled, minimal-sustain character, while Jay Weinberg uses Zildjian A Custom & K Custom for a brighter, more explosive attack. Byzance Extra Dry suits technical, breakdown-heavy metalcore; A Custom & K Custom suits aggressive, nu-metal-influenced metalcore."
       },
       {
         question: "What china cymbal is best for metalcore?",
-        answer: "An 18\"-19\" china is the metalcore standard for immediate, cutting breakdown punctuation — used by Matt Halpern, Matt Greiner, Alex Bent, and Jay Weinberg alike. It's the go-to cymbal for punctuating the genre's signature breakdown hits and riff transitions."
+        answer: "An 18\"-19\" china is the metalcore standard for immediate, cutting breakdown punctuation — used by Matt Halpern, Alex Bent, and Jay Weinberg alike. It's the go-to cymbal for punctuating the genre's signature breakdown hits and riff transitions."
       },
       {
         question: "Do I need expensive cymbals to play metalcore?",
@@ -60964,9 +60938,9 @@ While not tied to one of metalcore's specific signature setups, AAX cymbals appe
     // Conclusion
     conclusion: {
       title: "Find Your Metalcore Cymbal Voice",
-      content: `Metalcore cymbal choice comes down to a fundamental question: do you want dry control or explosive brightness? Matt Halpern and Matt Greiner both found their answer in Meinl Byzance Extra Dry's controlled voicing, ideal for breakdown-heavy technical metalcore. Alex Bent found a brighter middle ground in the Zildjian K Custom Hybrid Series for Trivium's more melodic modern metal sound, while Jay Weinberg found his in Zildjian's explosive A Custom & K Custom lines for Slipknot's aggressive, theatrical performances.
+      content: `Metalcore cymbal choice comes down to a fundamental question: do you want dry control or explosive brightness? Matt Halpern found his answer in Meinl Byzance Extra Dry's controlled voicing, ideal for breakdown-heavy technical metalcore. Alex Bent found a brighter middle ground in the Zildjian K Custom Hybrid Series for Trivium's more melodic modern metal sound, while Jay Weinberg found his in Zildjian's explosive A Custom & K Custom lines for Slipknot's aggressive, theatrical performances.
 
-Neither approach is more "authentic" to the genre — all four have driven some of metalcore's most influential recordings. Start with whichever family matches your band's balance of breakdown weight versus melody and aggression.
+Neither approach is more "authentic" to the genre — all three have driven some of metalcore's most influential recordings. Start with whichever family matches your band's balance of breakdown weight versus melody and aggression.
 
 Budget shouldn't stop you either. A Meinl HCS or Zildjian ZBT setup will teach real technique and survive aggressive practice while you save toward the professional lines that defined this genre's greatest records.
 
@@ -66694,7 +66668,7 @@ Budget shouldn't stop you either. A Pearl Export bass drum with a Tama Iron Cobr
     // SEO metadata
     title: "Best Cymbals for Mathcore: 2026 Ultimate Guide",
     metaTitle: "Best Cymbals for Mathcore in 2026 | MetalForge Expert Guide",
-    description: "Best cymbals for mathcore's dissonant, fast-attack aggression: what Ben Koller (Zildjian K/A Custom, Converge), Matt Greiner (Meinl Byzance), Blake Richardson (Meinl Byzance), and Danny Carey (Paiste Signature) actually play. Ranked budget to pro.",
+    description: "Best cymbals for mathcore's dissonant, fast-attack aggression: what Ben Koller (Zildjian K/A Custom, Converge), Matt Greiner (Paiste Formula 602), Blake Richardson (Meinl Byzance), and Danny Carey (Paiste Signature) actually play. Ranked budget to pro.",
     seoKeywords: [
       'best cymbals for mathcore',
       'mathcore cymbal setup',
@@ -66731,7 +66705,7 @@ Budget shouldn't stop you either. A Pearl Export bass drum with a Tama Iron Cobr
       title: "Why Mathcore Needs Dissonant, Fast-Attack Cymbals",
       content: `Mathcore fuses hardcore punk's raw aggression with progressive rock's obsession with odd meters, asymmetrical riffing, and constantly shifting rhythmic cells — a combination that demands cymbals capable of both instant, aggressive attack and enough tonal complexity to punctuate the genre's dissonant, unpredictable riffing. Where straightforward metalcore can lean on a small, consistent set of crashes for breakdown accents, mathcore's irregular time signatures and sudden tempo shifts call for a wider, more responsive cymbal setup.
 
-Ben Koller of Converge — whose fluid control within apparent rhythmic chaos on "Jane Doe" (2001) turned mathcore's unpredictability into genuine musical expression rather than mere noise — plays Zildjian K and A Custom series cymbals for bright, cutting attack that keeps pace with hardcore-rooted technical extremity. Matt Greiner of August Burns Red, whose jazz-influenced dynamics carry math metal's rhythmic complexity into mathcore-adjacent metalcore, relies on Meinl Byzance Dual, Extra Dry, and Traditional cymbals for creative, dynamic cymbal work across odd-time signatures. Blake Richardson of Between the Buried and Me plays Meinl Byzance Dark, Extra Dry, and Traditional cymbals whose complex, musical tone handles BTBAM's genre-hopping technicality. Danny Carey of Tool, whose famously Fibonacci-structured polyrhythms established a mathematically rigorous drumming standard, runs Paiste Signature cymbals for dark, controlled weight across constantly shifting meters.
+Ben Koller of Converge — whose fluid control within apparent rhythmic chaos on "Jane Doe" (2001) turned mathcore's unpredictability into genuine musical expression rather than mere noise — plays Zildjian K and A Custom series cymbals for bright, cutting attack that keeps pace with hardcore-rooted technical extremity. Matt Greiner of August Burns Red, whose jazz-influenced dynamics carry math metal's rhythmic complexity into mathcore-adjacent metalcore, relies on his Paiste Formula 602 setup for creative, dynamic cymbal work across odd-time signatures. Blake Richardson of Between the Buried and Me plays Meinl Byzance Dark, Extra Dry, and Traditional cymbals whose complex, musical tone handles BTBAM's genre-hopping technicality. Danny Carey of Tool, whose famously Fibonacci-structured polyrhythms established a mathematically rigorous drumming standard, runs Paiste Signature cymbals for dark, controlled weight across constantly shifting meters.
 
 This guide breaks down attack, complexity, and dissonance for mathcore cymbals — comparing setups across four drummers whose hardcore-rooted and progressive lineages define the genre's rhythmically unpredictable aggression, with recommendations from budget to professional touring rigs.`,
       keyPoints: [
@@ -66755,7 +66729,7 @@ This guide breaks down attack, complexity, and dissonance for mathcore cymbals �
         {
           name: "Dissonant, Complex Overtones",
           icon: "🎭",
-          description: "Matt Greiner's and Blake Richardson's Meinl Byzance cymbals deliver complex, sometimes dissonant overtones that suit mathcore's chaotic, asymmetrical riffing far better than a simple, clean crash — the goal is aggressive character, not tonal purity.",
+          description: "Blake Richardson's Meinl Byzance cymbals deliver complex, sometimes dissonant overtones that suit mathcore's chaotic, asymmetrical riffing far better than a simple, clean crash — the goal is aggressive character, not tonal purity.",
           recommendation: "Complex, dark-voiced B20 cymbals for dissonant character that matches mathcore's chaos"
         },
         {
@@ -66838,12 +66812,11 @@ Koller's stripped-down setup emphasizes power and response over complexity, a ph
           tier: "premium",
           material: "B20 hand-hammered bronze",
 
-          description: `Matt Greiner's Meinl Byzance Dual, Extra Dry, and Traditional cymbals bring math metal's rhythmic complexity into mathcore-adjacent metalcore with August Burns Red — his jazz-influenced dynamics and creative use of stack effects require a cymbal line complex enough to punctuate the band's odd time signature integration.
+          description: `The Byzance Dual, Extra Dry, and Traditional line brings math metal's rhythmic complexity into mathcore-adjacent metalcore — jazz-influenced dynamics and creative use of stack effects require a cymbal line complex enough to punctuate odd time signature integration.
 
-The Dual series splits the difference between dark and bright voicing, giving Greiner distinct tonal options for accenting mathcore-adjacent riffing without needing an oversized cymbal collection.`,
+The Dual series splits the difference between dark and bright voicing, giving drummers distinct tonal options for accenting mathcore-adjacent riffing without needing an oversized cymbal collection.`,
 
           pros: [
-            "Matt Greiner's August Burns Red setup — math metal complexity in mathcore-adjacent metalcore",
             "Dual series balances dark and bright voicing in a single cymbal line",
             "Extra Dry crashes provide immediate, choked attack for tight accents",
             "Proven across August Burns Red's Grammy-nominated, technically demanding catalog",
@@ -66860,10 +66833,8 @@ The Dual series splits the difference between dark and bright voicing, giving Gr
             ride: "20\"-22\" Meinl Byzance Traditional",
             china: "18\"-19\" Meinl Byzance Extra Dry China"
           },
-          usedBy: [
-            { name: "Matt Greiner", band: "August Burns Red", note: "Meinl Byzance Dual/Extra Dry/Traditional — math metal complexity in mathcore-adjacent metalcore" }
-          ],
-          verdict: "Best for jazz-informed technical precision. Greiner's Byzance blend carries math metal complexity into breakdown-driven songwriting.",
+          usedBy: [],
+          verdict: "Best for jazz-informed technical precision. The Byzance blend carries math metal complexity into breakdown-driven songwriting.",
           rating: 4.7,
           affiliateLink: "https://www.thomann.de/intl/meinl_byzance_dual_extra_dry_traditional.htm?partner_id=metalforge"
         },
@@ -66994,7 +66965,7 @@ The Dry Heavy Ride's dark, controlled definition holds up whether Carey is locke
 - Mathcore's founding, most directly documented cymbal setup
 - Best for genre-defining, chaotic Converge-style mathcore
 
-**Meinl Byzance Dual/Dark (Matt Greiner, Blake Richardson):**
+**Meinl Byzance Dark (Blake Richardson):**
 - Complex, dissonant overtones suited to odd-time, genre-hopping material
 - Versatile across both aggressive accents and dynamic restraint
 - Best for technical, math metal-adjacent mathcore and progressive-leaning material
@@ -67025,7 +66996,7 @@ The Dry Heavy Ride's dark, controlled definition holds up whether Carey is locke
         {
           category: "Best for Technical, Odd-Time Precision",
           pedal: "Meinl Byzance Dual/Extra Dry/Traditional",
-          reason: "Matt Greiner's August Burns Red setup — math metal complexity in mathcore-adjacent metalcore."
+          reason: "Balances dark and bright voicing for technical, odd-time precision."
         },
         {
           category: "Best for Genre-Hopping Dynamics",
@@ -67049,7 +67020,6 @@ The Dry Heavy Ride's dark, controlled definition holds up whether Carey is locke
     ],
     relatedDrummers: [
       { slug: 'ben-koller', name: 'Ben Koller', reason: 'Zildjian K and A Custom — Converge mathcore\'s founding cutting attack' },
-      { slug: 'matt-greiner', name: 'Matt Greiner', reason: 'Meinl Byzance Dual — August Burns Red math metal complexity' },
       { slug: 'blake-richardson', name: 'Blake Richardson', reason: 'Meinl Byzance Dark — BTBAM genre-hopping technicality' },
       { slug: 'danny-carey', name: 'Danny Carey', reason: 'Paiste Signature Dry Heavy Ride — Tool\'s Fibonacci-structured rigor' }
     ],
@@ -67057,7 +67027,6 @@ The Dry Heavy Ride's dark, controlled definition holds up whether Carey is locke
     // Featured drummers (issue template)
     featuredDrummers: [
       { slug: 'ben-koller', name: 'Ben Koller', reason: 'Zildjian K and A Custom — Converge mathcore\'s founding cutting attack' },
-      { slug: 'matt-greiner', name: 'Matt Greiner', reason: 'Meinl Byzance Dual — August Burns Red math metal complexity' },
       { slug: 'blake-richardson', name: 'Blake Richardson', reason: 'Meinl Byzance Dark — BTBAM genre-hopping technicality' },
       { slug: 'danny-carey', name: 'Danny Carey', reason: 'Paiste Signature Dry Heavy Ride — Tool\'s Fibonacci-structured rigor' }
     ],
@@ -67066,7 +67035,7 @@ The Dry Heavy Ride's dark, controlled definition holds up whether Carey is locke
     faq: [
       {
         question: "Who are the best mathcore-adjacent drummers and what cymbals do they use?",
-        answer: "Ben Koller of Converge, whose work on \"Jane Doe\" (2001) defined mathcore's founding sound, plays Zildjian K and A Custom series cymbals. Matt Greiner of August Burns Red plays Meinl Byzance Dual, Extra Dry, and Traditional cymbals, and Blake Richardson of Between the Buried and Me plays Meinl Byzance Dark, Extra Dry, and Traditional."
+        answer: "Ben Koller of Converge, whose work on \"Jane Doe\" (2001) defined mathcore's founding sound, plays Zildjian K and A Custom series cymbals. Matt Greiner of August Burns Red runs a Paiste Formula 602 setup, and Blake Richardson of Between the Buried and Me plays Meinl Byzance Dark, Extra Dry, and Traditional."
       },
       {
         question: "What cymbals does Ben Koller use?",
@@ -67074,7 +67043,7 @@ The Dry Heavy Ride's dark, controlled definition holds up whether Carey is locke
       },
       {
         question: "Zildjian or Meinl for mathcore cymbals?",
-        answer: "Both are excellent — the choice comes down to whether your material leans hardcore-rooted or progressive. Zildjian K and A Custom (Ben Koller) suits chaotic, Converge-style mathcore with bright, fast-attack cutting power. Meinl Byzance (Matt Greiner, Blake Richardson) suits more technical, genre-hopping mathcore with complex, dissonant overtones."
+        answer: "Both are excellent — the choice comes down to whether your material leans hardcore-rooted or progressive. Zildjian K and A Custom (Ben Koller) suits chaotic, Converge-style mathcore with bright, fast-attack cutting power. Meinl Byzance (Blake Richardson) suits more technical, genre-hopping mathcore with complex, dissonant overtones."
       },
       {
         question: "Why does mathcore need a wider cymbal setup than typical metalcore?",
@@ -67093,7 +67062,7 @@ The Dry Heavy Ride's dark, controlled definition holds up whether Carey is locke
     // Conclusion
     conclusion: {
       title: "Find Your Mathcore Cymbal Voice",
-      content: `Mathcore cymbal choice comes down to how much dissonant, fast-attack character your riffs demand. Ben Koller's Zildjian K and A Custom setup defined the genre's founding, hardcore-rooted cutting attack with Converge's landmark "Jane Doe." Matt Greiner's Meinl Byzance blend proved that math metal's rhythmic complexity could carry into mathcore-adjacent metalcore's mainstream audience, while Blake Richardson's Byzance setup shows the dynamic flexibility genre-hopping mathcore-adjacent material demands. Danny Carey's Paiste Signature rig demonstrates how a dark, controlled cymbal voice can serve mathematically rigorous, Fibonacci-structured composition over pure technical display.
+      content: `Mathcore cymbal choice comes down to how much dissonant, fast-attack character your riffs demand. Ben Koller's Zildjian K and A Custom setup defined the genre's founding, hardcore-rooted cutting attack with Converge's landmark "Jane Doe." Blake Richardson's Byzance setup shows the dynamic flexibility genre-hopping mathcore-adjacent material demands. Danny Carey's Paiste Signature rig demonstrates how a dark, controlled cymbal voice can serve mathematically rigorous, Fibonacci-structured composition over pure technical display.
 
 None of these approaches is more "correct" — all four represent mathcore's founding commitment to cymbals that can turn rhythmic chaos into genuine musical expression. Start with whichever voicing matches your material's balance of hardcore-rooted aggression and progressive complexity, and don't be afraid to build a wider spread than a typical metalcore setup would suggest.
 
@@ -72283,11 +72252,10 @@ Start with a single 10" splash mounted close to your snare, and lean toward a dr
     // SEO metadata
     title: "Best Splash Cymbals for Metalcore: 2026 Ultimate Guide",
     metaTitle: "Best Splash Cymbals for Metalcore in 2026 | MetalForge Expert Guide",
-    description: "Discover the best splash cymbals for metalcore drumming. Expert recommendations on bright, fast-decaying accent cymbals for breakdown-heavy, syncopated riffing, featuring the splash setups used by Matt Greiner, Blake Richardson, and Art Cruz.",
+    description: "Discover the best splash cymbals for metalcore drumming. Expert recommendations on bright, fast-decaying accent cymbals for breakdown-heavy, syncopated riffing, featuring the splash setups used by Blake Richardson and Art Cruz.",
     seoKeywords: [
       'best splash cymbal for metalcore',
       'metalcore splash cymbal',
-      'matt greiner splash cymbal',
       'art cruz splash cymbal',
       'blake richardson splash cymbal',
       'meinl byzance splash metalcore',
@@ -72320,12 +72288,11 @@ Start with a single 10" splash mounted close to your snare, and lean toward a dr
       title: "The Accent Cymbal Metalcore's Dynamics Reward",
       content: `Metalcore lives on dynamic contrast — blast-adjacent verses that snap into slow, weighted breakdowns, clean melodic sections that explode into full-throttle chugging. A splash cymbal, typically 8" to 12" in diameter, adds one more tool to that dynamic vocabulary: a bright, sharp attack that decays almost instantly instead of ringing over the next bar the way a full-size crash would, giving a drummer a way to punctuate a single moment — the top of a breakdown, a syncopated stab before a drop — without smearing into what comes next.
 
-Matt Greiner's Meinl Byzance rig for August Burns Red runs both 10" and 12" Splashes as a standard part of one of metalcore's most studied and technically demanding cymbal setups, giving him extra accent options across the band's math-metal-adjacent arrangements. Blake Richardson runs a Sabian HH Duo Splash within his own genre-hopping Between the Buried and Me setup, where technical metalcore-adjacent material benefits from a cymbal built purely for a single accent moment. Art Cruz's Zildjian rig — built across his time in Winds of Plague and now Lamb of God — includes 9" FX Trash Splashes for sharp, unconventional punctuation, a reminder that a splash's usefulness in metalcore extends beyond a single clean accent into more aggressive textural territory too.
+Blake Richardson runs a Sabian HH Duo Splash within his own genre-hopping Between the Buried and Me setup, where technical metalcore-adjacent material benefits from a cymbal built purely for a single accent moment. Art Cruz's Zildjian rig — built across his time in Winds of Plague and now Lamb of God — includes 9" FX Trash Splashes for sharp, unconventional punctuation, a reminder that a splash's usefulness in metalcore extends beyond a single clean accent into more aggressive textural territory too.
 
 Despite that, a splash remains one of the most overlooked cymbals among developing metalcore drummers, usually added only after a breakdown-heavy set starts to feel tonally flat. That's a real gap in a genre defined by dynamic swings, and a splash is the cheapest, smallest way to close it. This guide covers what actually matters when choosing a splash cymbal for metalcore — size, alloy, and mounting — with specific recommendations across every budget.`,
       keyPoints: [
         "A splash's fast decay gives metalcore's breakdown-to-blast dynamic swings a distinct accent voice a full-size crash can't replicate",
-        "Matt Greiner runs 10\" and 12\" Meinl Byzance Splashes as a standard part of his August Burns Red touring rig",
         "Blake Richardson's Sabian HH Duo Splash punctuates Between the Buried and Me's technical, metalcore-adjacent material",
         "Art Cruz's 9\" Zildjian FX Trash Splashes show a splash's usefulness in metalcore extends into aggressive, unconventional textures too"
       ]
@@ -72338,7 +72305,7 @@ Despite that, a splash remains one of the most overlooked cymbals among developi
         {
           name: "Size",
           icon: "📏",
-          description: "Splash cymbals typically range from 8\" to 12\". Smaller sizes (8\"-10\") decay faster and cut with a sharper, more piercing stab, while larger splashes (10\"-12\") — like Matt Greiner's Meinl Byzance pair — retain more body for a fuller accent voice.",
+          description: "Splash cymbals typically range from 8\" to 12\". Smaller sizes (8\"-10\") decay faster and cut with a sharper, more piercing stab, while larger splashes (10\"-12\") retain more body for a fuller accent voice.",
           recommendation: "10\" covers most metalcore accent work; add a 12\" for a fuller, less piercing voice"
         },
         {
@@ -72389,9 +72356,9 @@ Despite that, a splash remains one of the most overlooked cymbals among developi
           driveType: "B20 Bronze, Dual Finish",
           description: `Meinl's Byzance Dual finish blends a brighter top with a drier undertone, giving a splash enough cut to punctuate a fast verse while staying controlled enough not to clutter a heavy breakdown.
 
-Matt Greiner's touring cymbal setup for August Burns Red runs both 10" and 12" Meinl Byzance Splashes as a standard part of one of metalcore's most studied and technically demanding cymbal rigs, giving him extra accent options across the band's math-metal-adjacent arrangements.`,
+Running both 10" and 12" as a matched pair is a standard part of many of metalcore's most studied and technically demanding touring cymbal rigs, giving a drummer extra accent options across math-metal-adjacent arrangements.`,
           pros: [
-            "The exact 10\"/12\" pairing Matt Greiner runs in his August Burns Red touring rig",
+            "A matched 10\"/12\" pairing standard across metalcore's most studied touring rigs",
             "Dual finish balances cutting brightness with controlled decay",
             "Complex, musical B20 overtones suited to technically demanding arrangements",
             "Pairs naturally with other Byzance Dual crashes and hi-hats"
@@ -72407,9 +72374,7 @@ Matt Greiner's touring cymbal setup for August Burns Red runs both 10" and 12" M
             finish: "Dual",
             weight: "Medium-Thin"
           },
-          usedBy: [
-            { name: "Matt Greiner", band: "August Burns Red", note: "10\"/12\" Splashes within Meinl Byzance touring rig" }
-          ],
+          usedBy: [],
           verdict: "The best all-around pick for metalcore, matching one of the genre's most studied touring cymbal setups exactly.",
           rating: 4.7,
           affiliateLink: "https://www.thomann.de/intl/meinl_byzance_dual_splash_10.htm?partner_id=metalforge"
@@ -72497,7 +72462,7 @@ Art Cruz's Zildjian rig, built through his time in Winds of Plague and now Lamb 
           driveType: "B20 Bronze, Brilliant Finish",
           description: `HHX Evolution's brilliant finish and refined B20 formula deliver a crisp, articulate splash voice that responds well to both light accent taps and the full-force stabs metalcore's fast tempo-to-breakdown transitions demand.
 
-For metalcore drummers who want a clean, bright, all-purpose accent rather than Matt Greiner's dual-finish pairing or Art Cruz's trash-style texture, the HHX Evolution splits the difference with a straightforward, cutting attack.`,
+For metalcore drummers who want a clean, bright, all-purpose accent rather than a dual-finish pairing or Art Cruz's trash-style texture, the HHX Evolution splits the difference with a straightforward, cutting attack.`,
           pros: [
             "Crisp, articulate response across a wide dynamic range",
             "Bright finish cuts clearly through a dense, distorted metalcore mix",
@@ -72506,7 +72471,7 @@ For metalcore drummers who want a clean, bright, all-purpose accent rather than 
           ],
           cons: [
             "Premium price point",
-            "Less distinctive than Matt Greiner's dual-finish pairing or Art Cruz's trash-style splash",
+            "Less distinctive than a dual-finish pairing or Art Cruz's trash-style splash",
             "Sold individually, adding to overall cymbal setup cost"
           ],
           specs: {
@@ -72601,7 +72566,7 @@ For metalcore drummers who want a clean, bright, all-purpose accent rather than 
 
 **Clean/Musical Splashes (Meinl Byzance Dual, Sabian HH Duo, HHX Evolution):**
 - A bright, controlled accent that punctuates a moment without clashing with the surrounding cymbal setup
-- Favored by drummers like Matt Greiner and Blake Richardson for precise, repeatable accent work across technical arrangements
+- Favored by drummers like Blake Richardson for precise, repeatable accent work across technical arrangements
 - Best when you want the splash to sound like a natural extension of your existing crashes and hi-hats
 
 **Trash/Aggressive Splashes (Zildjian FX Trash):**
@@ -72628,7 +72593,7 @@ For metalcore drummers who want a clean, bright, all-purpose accent rather than 
         {
           category: "Best Overall",
           pedal: "Meinl Byzance Series Splash",
-          reason: "The exact 10\"/12\" pairing Matt Greiner runs in one of metalcore's most studied touring rigs."
+          reason: "A matched 10\"/12\" pairing standard across one of metalcore's most studied touring rigs."
         },
         {
           category: "Most Versatile",
@@ -72655,7 +72620,6 @@ For metalcore drummers who want a clean, bright, all-purpose accent rather than 
       'best-crash-cymbals-for-metalcore'
     ],
     relatedDrummers: [
-      { slug: 'matt-greiner', name: 'Matt Greiner', reason: '10"/12" Meinl Byzance Splashes — one of metalcore\'s most studied touring cymbal rigs' },
       { slug: 'blake-richardson', name: 'Blake Richardson', reason: 'Sabian HH Duo Splash — BTBAM technical, metalcore-adjacent arrangements' },
       { slug: 'art-cruz', name: 'Art Cruz', reason: '9" Zildjian FX Trash Splashes — groove-metalcore hybrid punctuation' }
     ],
@@ -72665,11 +72629,11 @@ For metalcore drummers who want a clean, bright, all-purpose accent rather than 
     faq: [
       {
         question: "What splash cymbal size works best for metalcore fills?",
-        answer: "A 10\" splash is the most common choice, though Matt Greiner runs both 10\" and 12\" Meinl Byzance Splashes in his August Burns Red touring rig for a broader range of accent sizes. Art Cruz runs a smaller 9\" FX Trash Splash for a sharper, more aggressive texture."
+        answer: "A 10\" splash is the most common choice, though some drummers add a 12\" alongside it for a broader range of accent sizes. Art Cruz runs a smaller 9\" FX Trash Splash for a sharper, more aggressive texture."
       },
       {
         question: "Do metalcore drummers use splash or effects cymbals live?",
-        answer: "Both, and often together. Matt Greiner's live rig runs a full 18\" china alongside 10\" and 12\" splashes, giving him distinct textures for both abrupt punctuation and precise, single-hit accents across August Burns Red's breakdown-heavy sets."
+        answer: "Both, and often together. Many metalcore touring rigs run a full-size china alongside 10\" and 12\" splashes, giving distinct textures for both abrupt punctuation and precise, single-hit accents across breakdown-heavy sets."
       },
       {
         question: "Where to mount a splash in a metalcore setup?",
@@ -72688,7 +72652,7 @@ For metalcore drummers who want a clean, bright, all-purpose accent rather than 
     // Conclusion
     conclusion: {
       title: "Punctuate the Breakdown, Don't Blur It",
-      content: `Metalcore's identity is built on dynamic contrast, and a splash cymbal is a genuinely useful tool for sharpening that contrast rather than letting it blur. Matt Greiner's matched 10"/12" Meinl Byzance Splashes give August Burns Red's technical arrangements extra accent range, while Art Cruz's raw Zildjian FX Trash Splashes show the same small cymbal can serve a completely different, more aggressive purpose depending on how it's voiced.
+      content: `Metalcore's identity is built on dynamic contrast, and a splash cymbal is a genuinely useful tool for sharpening that contrast rather than letting it blur. A matched 10"/12" Meinl Byzance Splash pairing gives technical arrangements extra accent range, while Art Cruz's raw Zildjian FX Trash Splashes show the same small cymbal can serve a completely different, more aggressive purpose depending on how it's voiced.
 
 Start with a single 10" splash mounted close to your snare, and consider a second, more aggressive splash once you know exactly what kind of accent your breakdowns are missing. It's a small cymbal, but it closes a real gap most standard metalcore cymbal setups leave open.
 
@@ -74848,12 +74812,12 @@ Start with a single 9"-10" splash in whichever voicing contrasts with (or matche
       title: "Punctuating the Meter Nobody Can Count",
       content: `Mathcore builds its entire identity around irregular meters, sudden tempo shifts, and rhythmic patterns that refuse to resolve where a listener expects. That constant unpredictability rewards a drummer who can add extra tonal color to each accent, and a splash cymbal's bright, near-instant decay — typically 8" to 12" in diameter — is exactly the kind of extra voice mathcore's most detail-oriented drummers reach for to punctuate a single hit inside an odd-time fill without washing over the next irregular downbeat.
 
-Matt Greiner's Meinl Byzance setup for August Burns Red includes 10" and 12" splashes alongside his Dual Crashes and Transition Ride, giving him precise accent options for the technical, math-metal-adjacent time signature shifts that define the band's material. Blake Richardson runs a 10" Sabian HH Duo Splash within his broader Sabian rig for Between the Buried and Me, where the band's genre-hopping, mathcore-adjacent technicality rewards a cymbal built purely for accenting a single moment inside a constantly shifting meter.
+Matt Greiner's Paiste Formula 602 setup for August Burns Red gives him precise accent options for the technical, math-metal-adjacent time signature shifts that define the band's material. Blake Richardson runs a 10" Sabian HH Duo Splash within his broader Sabian rig for Between the Buried and Me, where the band's genre-hopping, mathcore-adjacent technicality rewards a cymbal built purely for accenting a single moment inside a constantly shifting meter.
 
 That same appetite for tonal precision inside irregular meters runs through mathcore-adjacent playing more broadly — the polyrhythmic vocabulary Morgan Ågren built across the Mats/Morgan Band and his work with Meshuggah's Fredrik Thordendal, and the exacting, trigger-augmented linear patterns Travis Orbin plays on Periphery's self-titled debut, both reflect the same underlying demand: odd-meter, math-driven material needs more tonal options than a standard hi-hat, crash, and ride setup provides. A splash is one of the cheapest ways to add that extra option, yet it's still one of the last cymbals a developing mathcore drummer adds to their setup — usually only once every accent inside an odd-time fill starts sounding tonally identical. This guide covers what actually matters when choosing a splash cymbal for mathcore — size, alloy, and mounting — with specific recommendations across every budget.`,
       keyPoints: [
         "A splash's fast decay gives mathcore's irregular meters a distinct accent voice a full-size crash can't replicate",
-        "Matt Greiner runs 10\" and 12\" Meinl Byzance Splashes within his August Burns Red touring rig",
+        "Matt Greiner runs a Paiste Formula 602 setup within his August Burns Red touring rig",
         "Blake Richardson's 10\" Sabian HH Duo Splash punctuates Between the Buried and Me's genre-hopping technicality",
         "Mathcore's odd-meter, math-driven vocabulary — echoed in Morgan Ågren's and Travis Orbin's polyrhythmic playing — rewards the extra tonal color a splash provides"
       ]
@@ -74917,7 +74881,7 @@ That same appetite for tonal precision inside irregular meters runs through math
           driveType: "B20 Bronze, Traditional Finish",
           description: `Byzance's complex, musical overtone structure gives this splash real tonal depth beyond a simple bright stab — an accent voice that holds up across mathcore's constantly shifting dynamics and meters.
 
-Matt Greiner's touring cymbal setup for August Burns Red runs both 10" and 12" Byzance Splashes alongside his Dual Crashes and Transition Ride, giving him two distinct accent sizes for the band's technical, time-signature-heavy material.`,
+Running both 10" and 12" as a pair gives a drummer two distinct accent sizes for technical, time-signature-heavy material.`,
           pros: [
             "Complex, musical overtone structure from B20 bronze",
             "Two proven sizes (10\"/12\") for different accent needs",
@@ -74935,9 +74899,7 @@ Matt Greiner's touring cymbal setup for August Burns Red runs both 10" and 12" B
             finish: "Traditional",
             weight: "Medium-Thin"
           },
-          usedBy: [
-            { name: "Matt Greiner", band: "August Burns Red", note: "10\" and 12\" Byzance Splashes within Meinl touring rig" }
-          ],
+          usedBy: [],
           verdict: "The best all-around pro splash for mathcore's technical, time-signature-heavy material.",
           rating: 4.7,
           affiliateLink: "https://www.thomann.de/intl/meinl_byzance_splash_10.htm?partner_id=metalforge"
@@ -75123,7 +75085,7 @@ Blake Richardson runs the HH Duo Splash within his broader Sabian setup for Betw
 
 **Single-Voiced Precision Splashes (Meinl Byzance, Zildjian K Custom Hybrid):**
 - One consistent, complex tone across every strike
-- Favored by drummers like Matt Greiner for reliably placing the same accent inside unpredictable, shifting meters
+- A reliable choice for drummers who want the same accent placement no matter where a fill lands inside unpredictable, shifting meters
 - Best when you want your accent voice to be exactly the same every time, regardless of where a fill lands
 
 **Dual-Tone Splashes (Sabian HH Duo):**
@@ -75150,7 +75112,7 @@ Blake Richardson runs the HH Duo Splash within his broader Sabian setup for Betw
         {
           category: "Best Overall",
           pedal: "Meinl Byzance Splash",
-          reason: "A reliable, tonally complex accent voice proven in Matt Greiner's technical August Burns Red touring rig."
+          reason: "A reliable, tonally complex accent voice for technical, time-signature-heavy material."
         },
         {
           category: "Best for Genre-Hopping Material",
@@ -75177,7 +75139,6 @@ Blake Richardson runs the HH Duo Splash within his broader Sabian setup for Betw
       'best-china-cymbals-for-mathcore'
     ],
     relatedDrummers: [
-      { slug: 'matt-greiner', name: 'Matt Greiner', reason: '10"/12" Meinl Byzance Splashes — August Burns Red\'s technical, time-signature-heavy precision' },
       { slug: 'blake-richardson', name: 'Blake Richardson', reason: '10" Sabian HH Duo Splash — BTBAM\'s genre-hopping, mathcore-adjacent technicality' },
       { slug: 'ben-koller', name: 'Ben Koller', reason: 'Zildjian K Dark Series rig — Converge\'s founding mathcore cymbal attack' }
     ],
@@ -75187,7 +75148,7 @@ Blake Richardson runs the HH Duo Splash within his broader Sabian setup for Betw
     faq: [
       {
         question: "What splash cymbal does Matt Greiner use?",
-        answer: "Matt Greiner of August Burns Red runs 10\" and 12\" Meinl Byzance Splashes within his broader Byzance touring setup, giving his technical, time-signature-heavy material two distinct accent sizes to work with."
+        answer: "Matt Greiner of August Burns Red switched to a Paiste Formula 602 setup in 2016; no specific splash model in that line is publicly documented for his rig."
       },
       {
         question: "What splash cymbal does Blake Richardson use?",
@@ -75199,7 +75160,7 @@ Blake Richardson runs the HH Duo Splash within his broader Sabian setup for Betw
       },
       {
         question: "What size splash cymbal is best for mathcore?",
-        answer: "10\" is the most common mathcore splash size, striking a balance between a sharp, isolated accent and enough body to cut through technical, dense arrangements. Matt Greiner adds a 12\" for a fuller secondary accent voice alongside his 10\"."
+        answer: "10\" is the most common mathcore splash size, striking a balance between a sharp, isolated accent and enough body to cut through technical, dense arrangements. Some drummers add a 12\" for a fuller secondary accent voice alongside it."
       },
       {
         question: "What's the best budget splash cymbal for mathcore?",
@@ -75210,7 +75171,7 @@ Blake Richardson runs the HH Duo Splash within his broader Sabian setup for Betw
     // Conclusion
     conclusion: {
       title: "Add the Accent Voice Your Odd Meters Need",
-      content: `A splash cymbal is easy to overlook when you're first building a mathcore setup, but Matt Greiner's dual-sized Meinl Byzance Splashes and Blake Richardson's adaptable Sabian HH Duo Splash both prove it earns a permanent place once your material gets rhythmically demanding enough. The same appetite for tonal precision that runs through Morgan Ågren's polyrhythmic playing and Travis Orbin's exacting linear technique is exactly why a splash's extra accent voice matters so much in odd-meter material.
+      content: `A splash cymbal is easy to overlook when you're first building a mathcore setup, but Blake Richardson's adaptable Sabian HH Duo Splash proves it earns a permanent place once your material gets rhythmically demanding enough. The same appetite for tonal precision that runs through Morgan Ågren's polyrhythmic playing and Travis Orbin's exacting linear technique is exactly why a splash's extra accent voice matters so much in odd-meter material.
 
 Start with a single 10" splash in whichever voicing suits how consistently technical your material stays, and consider adding a second size or voicing once you know exactly where your band's mathcore leans on the precision-to-genre-hopping spectrum. It's a small cymbal, but it closes a real gap most mathcore cymbal setups leave open.
 
@@ -84940,12 +84901,11 @@ Budget shouldn't stop you either. A Pearl Export bass drum with a Tama Iron Cobr
     // SEO metadata
     title: "Best Hi-Hats for Metalcore: 2026 Ultimate Guide",
     metaTitle: "Best Hi-Hats for Metalcore 2026 | MetalForge Expert Guide",
-    description: "What hi-hats are used in metalcore? Discover what Matt Halpern, Matt Greiner, Alex Bent, and Jay Weinberg actually play — Meinl Byzance Extra Dry, Zildjian K Custom Hybrid, and Zildjian A/K Custom — from budget to pro, built for breakdown control.",
+    description: "What hi-hats are used in metalcore? Discover what Matt Halpern, Alex Bent, and Jay Weinberg actually play — Meinl Byzance Extra Dry, Zildjian K Custom Hybrid, and Zildjian A/K Custom — from budget to pro, built for breakdown control.",
     seoKeywords: [
       'best hi-hats for metalcore',
       'metalcore hi-hats',
       'matt halpern hi-hats periphery',
-      'matt greiner hi-hats august burns red',
       'alex bent hi-hats trivium',
       'jay weinberg hi-hats slipknot',
       'meinl byzance extra dry hi-hats metalcore',
@@ -84963,7 +84923,7 @@ Budget shouldn't stop you either. A Pearl Export bass drum with a Tama Iron Cobr
     // Hero section
     hero: {
       title: "🎩 Best Hi-Hats for Metalcore",
-      subtitle: "What Matt Halpern, Matt Greiner, Alex Bent, and Jay Weinberg Actually Play",
+      subtitle: "What Matt Halpern, Alex Bent, and Jay Weinberg Actually Play",
       badge: "GEAR GUIDE 2026",
       stats: [
         { value: '4', label: 'Hi-Hats Reviewed' },
@@ -84977,12 +84937,12 @@ Budget shouldn't stop you either. A Pearl Export bass drum with a Tama Iron Cobr
       title: "What Hi-Hats Are Used in Metalcore?",
       content: `Hi-hats do more rhythmic work in metalcore than almost any other cymbal in the kit. Palm-muted breakdown riffing, tightly syncopated chugs, and constant tempo and dynamic shifts all live or die on whether the hi-hat stays controlled and articulate — a washy, uncontrolled hi-hat turns a precise breakdown into mud, while a dry, well-chosen pair locks the whole riff into place.
 
-Matt Halpern of Periphery builds his setup around 15" Dark Hi-Hats from the Meinl Byzance Extra Dry line, giving Periphery's polyrhythmic djent-metalcore hybrid a controlled, low-sustain foundation across "Periphery II," "Juggernaut," and "Hail Stan." Matt Greiner of August Burns Red runs a near-identical 15" Dual Hi-Hats setup from the same Byzance Extra Dry series, driving August Burns Red's Grammy-nominated technical precision. Alex Bent, who carried his technical death metal background from Brain Drill and Arkaik into Trivium, plays 14" Medium Hi-Hats from the brighter Zildjian K Custom Hybrid Series, suited to Trivium's more melodic, riff-driven modern metal sound. Jay Weinberg of Slipknot takes yet another path, running 14" A New Beat Hi-Hats from Zildjian's A Custom line for a brighter, more explosive voice matched to Slipknot's aggressive nu-metal/metalcore hybrid.
+Matt Halpern of Periphery builds his setup around 15" Dark Hi-Hats from the Meinl Byzance Extra Dry line, giving Periphery's polyrhythmic djent-metalcore hybrid a controlled, low-sustain foundation across "Periphery II," "Juggernaut," and "Hail Stan." Alex Bent, who carried his technical death metal background from Brain Drill and Arkaik into Trivium, plays 14" Medium Hi-Hats from the brighter Zildjian K Custom Hybrid Series, suited to Trivium's more melodic, riff-driven modern metal sound. Jay Weinberg of Slipknot takes yet another path, running 14" A New Beat Hi-Hats from Zildjian's A Custom line for a brighter, more explosive voice matched to Slipknot's aggressive nu-metal/metalcore hybrid.
 
-This guide breaks down exactly what makes a great metalcore hi-hat — diameter, voicing, and control — and which specific models these four influential drummers play, from budget starter pairs to the professional setups heard on the genre's most technically respected records.`,
+This guide breaks down exactly what makes a great metalcore hi-hat — diameter, voicing, and control — and which specific models these three influential drummers play, from budget starter pairs to the professional setups heard on the genre's most technically respected records.`,
       keyPoints: [
-        "Meinl Byzance Extra Dry defines metalcore's dry, controlled hi-hat standard — Matt Halpern and Matt Greiner both build around it",
-        "15\" hi-hats (Halpern, Greiner) give extra surface area and control for tightly muted, syncopated breakdown riffing",
+        "Meinl Byzance Extra Dry defines metalcore's dry, controlled hi-hat standard — Matt Halpern builds his setup around it",
+        "15\" hi-hats (Halpern) give extra surface area and control for tightly muted, syncopated breakdown riffing",
         "Zildjian K Custom Hybrid gives Alex Bent a faster, brighter attack suited to Trivium's more melodic modern metal",
         "Zildjian A Custom & K Custom gives Jay Weinberg a brighter, more explosive voice for Slipknot's aggressive hybrid sound"
       ]
@@ -84995,13 +84955,13 @@ This guide breaks down exactly what makes a great metalcore hi-hat — diameter,
         {
           name: "Dry vs Bright Voicing",
           icon: "🌫️",
-          description: "Metalcore's breakdown-driven riffing needs hi-hats that don't wash into a wall of sustain. Matt Halpern and Matt Greiner's Meinl Byzance Extra Dry hi-hats are voiced with minimal ring, staying controlled through syncopated, palm-muted passages. Alex Bent and Jay Weinberg instead favor brighter voicing for a faster, more cutting attack on more melodic or aggressive material.",
+          description: "Metalcore's breakdown-driven riffing needs hi-hats that don't wash into a wall of sustain. Matt Halpern's Meinl Byzance Extra Dry hi-hats are voiced with minimal ring, staying controlled through syncopated, palm-muted passages. Alex Bent and Jay Weinberg instead favor brighter voicing for a faster, more cutting attack on more melodic or aggressive material.",
           recommendation: "Extra Dry or dark voicing for breakdown-heavy technical metalcore; brighter K Custom Hybrid or A Custom voicing for melodic or aggressive metalcore"
         },
         {
           name: "Diameter",
           icon: "📏",
-          description: "15\" hi-hats — used by both Halpern and Greiner — give extra surface area and control compared to the more common 14\" size, useful for the tightly muted, syncopated riff patterns that define much of metalcore's rhythmic vocabulary. Bent and Weinberg both use the more standard 14\" size.",
+          description: "15\" hi-hats — used by Halpern — give extra surface area and control compared to the more common 14\" size, useful for the tightly muted, syncopated riff patterns that define much of metalcore's rhythmic vocabulary. Bent and Weinberg both use the more standard 14\" size.",
           recommendation: "14\" for standard response and versatility; 15\" for extra control on tightly muted riffing"
         },
         {
@@ -85039,12 +84999,12 @@ This guide breaks down exactly what makes a great metalcore hi-hat — diameter,
           tier: "pro",
           material: "B20 Bronze, Extra Dry Finish",
 
-          description: `The Meinl Byzance Extra Dry Hi-Hats are metalcore's defining hi-hat sound, anchoring both Matt Halpern's Periphery setup and Matt Greiner's August Burns Red setup. Halpern runs 15" Dark Hi-Hats within his broader Extra Dry rig, engineered for the polyrhythmic precision Periphery's djent-metalcore hybrid demands across "Periphery II," "Juggernaut," and "Hail Stan." Greiner runs a near-identical 15" Dual Hi-Hats setup, driving August Burns Red's Grammy-nominated technical precision with jazz-influenced dynamics.
+          description: `The Meinl Byzance Extra Dry Hi-Hats are metalcore's defining hi-hat sound, anchoring Matt Halpern's Periphery setup. Halpern runs 15" Dark Hi-Hats within his broader Extra Dry rig, engineered for the polyrhythmic precision Periphery's djent-metalcore hybrid demands across "Periphery II," "Juggernaut," and "Hail Stan."
 
-Both drummers rely on the Extra Dry line's minimal-sustain voicing to stay controlled through breakdown-heavy, syncopated arrangements — exactly the kind of tightly muted riffing that defines metalcore's technical wing. The larger 15" diameter both drummers favor adds extra surface area and control versus the more common 14" pair.`,
+Halpern relies on the Extra Dry line's minimal-sustain voicing to stay controlled through breakdown-heavy, syncopated arrangements — exactly the kind of tightly muted riffing that defines metalcore's technical wing. The larger 15" diameter Halpern favors adds extra surface area and control versus the more common 14" pair.`,
 
           pros: [
-            "Matt Halpern and Matt Greiner's shared setup — metalcore's most technically respected hi-hat sound",
+            "Matt Halpern's proven Periphery setup — metalcore's most technically respected hi-hat sound",
             "Extra Dry voicing stays controlled through breakdown-heavy, palm-muted riffing",
             "15\" diameter gives extra control versus standard 14\" pairs",
             "Proven across Periphery and August Burns Red's full studio catalogs",
@@ -85063,8 +85023,7 @@ Both drummers rely on the Extra Dry line's minimal-sustain voicing to stay contr
             series: "Byzance Extra Dry"
           },
           usedBy: [
-            { name: "Matt Halpern", band: "Periphery", note: "15\" Dark Hi-Hats — polyrhythmic djent-metalcore precision" },
-            { name: "Matt Greiner", band: "August Burns Red", note: "15\" Dual Hi-Hats — technical, jazz-influenced precision" }
+            { name: "Matt Halpern", band: "Periphery", note: "15\" Dark Hi-Hats — polyrhythmic djent-metalcore precision" }
           ],
           verdict: "The metalcore hi-hat standard. If you want the dry, controlled voice that defines the genre's technical wing, this is it.",
           rating: 4.8,
@@ -85082,7 +85041,7 @@ Both drummers rely on the Extra Dry line's minimal-sustain voicing to stay contr
 
           description: `Alex Bent brought his technical death metal background from Brain Drill and Arkaik into Trivium, and his 14" Medium Hi-Hats from the Zildjian K Custom Hybrid Series reflect that hybrid pedigree. The hybrid finish blends a dark, complex K Custom body with a brighter, cutting edge, giving a faster attack than the Extra Dry line while matching Trivium's more melodic, riff-driven modern metal sound on "The Sin and the Sentence" and "In the Court of the Dragon."
 
-Where Halpern and Greiner prioritize dryness and control, Bent's K Custom Hybrid hi-hats show that a brighter, more resonant voice works equally well for metalcore-adjacent modern metal that leans into melody as much as breakdown weight.`,
+Where Halpern prioritizes dryness and control, Bent's K Custom Hybrid hi-hats show that a brighter, more resonant voice works equally well for metalcore-adjacent modern metal that leans into melody as much as breakdown weight.`,
 
           pros: [
             "Alex Bent's Trivium setup — proof that brighter voicing works for melodic metalcore",
@@ -85215,7 +85174,7 @@ While not tied to one of metalcore's specific signature setups, AAX Stage hi-hat
           priceRange: "€150-220 per pair",
           tier: "budget",
           material: "B8/B20 Bronze",
-          description: "An affordable entry point for drummers chasing the dry, controlled character of Matt Halpern and Matt Greiner's Byzance Extra Dry setups, before upgrading to the full Byzance line.",
+          description: "An affordable entry point for drummers chasing the dry, controlled character of Matt Halpern's Byzance Extra Dry setup, before upgrading to the full Byzance line.",
           pros: ["Dark, controlled tone similar to Extra Dry character", "Accessible pricing", "Clear upgrade path to Byzance Extra Dry"],
           cons: ["B8 models lack B20 depth"],
           verdict: "Best entry point for dry, controlled metalcore hi-hats.",
@@ -85230,7 +85189,7 @@ While not tied to one of metalcore's specific signature setups, AAX Stage hi-hat
       title: "Dry vs Bright Hi-Hats for Metalcore",
       content: `Metalcore's hi-hat choices split into two clear camps, defined by the genre's most influential drummers:
 
-**Dry (Meinl Byzance Extra Dry — Matt Halpern and Matt Greiner's choice):**
+**Dry (Meinl Byzance Extra Dry — Matt Halpern's choice):**
 - Controlled, low-sustain voicing
 - Suits breakdown-heavy, palm-muted, syncopated arrangements
 - 15" diameter common for extra control
@@ -85259,7 +85218,7 @@ While not tied to one of metalcore's specific signature setups, AAX Stage hi-hat
         {
           category: "Best Overall",
           pedal: "Meinl Byzance Extra Dry Hi-Hats",
-          reason: "Matt Halpern and Matt Greiner's shared setup — the genre's most technically respected hi-hat sound."
+          reason: "Matt Halpern's setup — the genre's most technically respected hi-hat sound."
         },
         {
           category: "Best for Melodic Metalcore",
@@ -85287,7 +85246,6 @@ While not tied to one of metalcore's specific signature setups, AAX Stage hi-hat
     ],
     relatedDrummers: [
       { slug: 'matt-halpern', name: 'Matt Halpern', reason: 'Meinl Byzance Extra Dry 15" Hi-Hats — Periphery djent-metalcore precision' },
-      { slug: 'matt-greiner', name: 'Matt Greiner', reason: 'Meinl Byzance Extra Dry 15" Hi-Hats — August Burns Red technical precision' },
       { slug: 'alex-bent', name: 'Alex Bent', reason: 'Zildjian K Custom Hybrid 14" Hi-Hats — Trivium melodic modern metal' },
       { slug: 'jay-weinberg', name: 'Jay Weinberg', reason: 'Zildjian A Custom 14" Hi-Hats — Slipknot explosive hybrid sound' }
     ],
@@ -85295,7 +85253,6 @@ While not tied to one of metalcore's specific signature setups, AAX Stage hi-hat
     // Featured drummers (issue template)
     featuredDrummers: [
       { slug: 'matt-halpern', name: 'Matt Halpern', reason: 'Meinl Byzance Extra Dry Hi-Hats — Periphery djent-metalcore precision' },
-      { slug: 'matt-greiner', name: 'Matt Greiner', reason: 'Meinl Byzance Extra Dry Hi-Hats — August Burns Red technical precision' },
       { slug: 'alex-bent', name: 'Alex Bent', reason: 'Zildjian K Custom Hybrid Hi-Hats — Trivium melodic modern metal' },
       { slug: 'jay-weinberg', name: 'Jay Weinberg', reason: 'Zildjian A Custom Hi-Hats — Slipknot\'s explosive hybrid attack' },
     ],
@@ -85304,7 +85261,7 @@ While not tied to one of metalcore's specific signature setups, AAX Stage hi-hat
     faq: [
       {
         question: "What hi-hats are used in metalcore?",
-        answer: "Matt Halpern of Periphery and Matt Greiner of August Burns Red both use 15\" Meinl Byzance Extra Dry Hi-Hats for controlled, low-sustain response. Alex Bent of Trivium uses 14\" Zildjian K Custom Hybrid Hi-Hats for a brighter, faster attack. Jay Weinberg of Slipknot uses 14\" Zildjian A Custom Hi-Hats for explosive projection."
+        answer: "Matt Halpern of Periphery uses 15\" Meinl Byzance Extra Dry Hi-Hats for controlled, low-sustain response. Alex Bent of Trivium uses 14\" Zildjian K Custom Hybrid Hi-Hats for a brighter, faster attack. Jay Weinberg of Slipknot uses 14\" Zildjian A Custom Hi-Hats for explosive projection."
       },
       {
         question: "What hi-hats does Matt Halpern use?",
@@ -85312,22 +85269,22 @@ While not tied to one of metalcore's specific signature setups, AAX Stage hi-hat
       },
       {
         question: "What size hi-hats for metalcore?",
-        answer: "14\" is the standard metalcore hi-hat size, used by Alex Bent and Jay Weinberg. Matt Halpern and Matt Greiner both prefer 15\" for extra surface area and control on tightly muted, syncopated breakdown riffing."
+        answer: "14\" is the standard metalcore hi-hat size, used by Alex Bent and Jay Weinberg. Matt Halpern prefers 15\" for extra surface area and control on tightly muted, syncopated breakdown riffing."
       },
       {
         question: "Best hi-hats for breakdowns?",
-        answer: "Dry, controlled hi-hats with a defined chick handle breakdown patterns best. Meinl Byzance Extra Dry (Matt Halpern, Matt Greiner) is the genre's technical benchmark. Zildjian K Custom Hybrid (Alex Bent) and Zildjian A Custom (Jay Weinberg) offer brighter alternatives for more melodic or aggressive breakdown-adjacent material."
+        answer: "Dry, controlled hi-hats with a defined chick handle breakdown patterns best. Meinl Byzance Extra Dry (Matt Halpern) is the genre's technical benchmark. Zildjian K Custom Hybrid (Alex Bent) and Zildjian A Custom (Jay Weinberg) offer brighter alternatives for more melodic or aggressive breakdown-adjacent material."
       },
       {
         question: "Dry or bright hi-hats for metalcore?",
-        answer: "Both work at the highest level. Dry hi-hats (Meinl Byzance Extra Dry, Halpern and Greiner's choice) suit breakdown-heavy, technical metalcore. Bright hi-hats (Zildjian K Custom Hybrid, Bent's choice; Zildjian A Custom, Weinberg's choice) suit melodic or aggressive, nu-metal-influenced metalcore. Choose based on which subgenre and production style you're chasing."
+        answer: "Both work at the highest level. Dry hi-hats (Meinl Byzance Extra Dry, Halpern's choice) suit breakdown-heavy, technical metalcore. Bright hi-hats (Zildjian K Custom Hybrid, Bent's choice; Zildjian A Custom, Weinberg's choice) suit melodic or aggressive, nu-metal-influenced metalcore. Choose based on which subgenre and production style you're chasing."
       }
     ],
 
     // Conclusion
     conclusion: {
       title: "Find Your Metalcore Hi-Hat Voice",
-      content: `Metalcore hi-hats split into two proven traditions: the dry, controlled character that Matt Halpern and Matt Greiner both build their setups around, and the brighter, more articulate sound that Alex Bent and Jay Weinberg favor for melodic or aggressive, genre-crossing material.
+      content: `Metalcore hi-hats split into two proven traditions: the dry, controlled character that Matt Halpern builds his setup around, and the brighter, more articulate sound that Alex Bent and Jay Weinberg favor for melodic or aggressive, genre-crossing material.
 
 If you play breakdown-heavy, technical metalcore, start with a 15" Meinl Byzance Extra Dry pair or the budget Classics Custom Dark — both stay controlled through syncopated, palm-muted riffing. If you play melodic or aggressive metalcore, Zildjian K Custom Hybrid or Zildjian A Custom will give you the cutting articulation or explosive projection your playing demands.
 
@@ -86193,12 +86150,12 @@ Start with whichever character matches your playing style, and don't overlook th
       title: "What Hi-Hats Are Used in Mathcore?",
       content: `Mathcore's odd-time signatures and constantly shifting rhythmic cells demand a hi-hat that stays instantly articulate through sudden accent changes rather than settling into a predictable groove pattern. A hi-hat voiced for straightforward 4/4 patterns can feel sluggish the instant a mathcore riff jumps into 7/8 or 11/16 mid-phrase.
 
-Ben Koller of Converge plays 14"-15" Zildjian K and A Custom Hi-Hats, the same fluid, cutting-attack family as his crash setup, giving Converge's "Jane Doe" (2001) its foundational, hardcore-rooted rhythmic control. Matt Greiner of August Burns Red runs 15" Dual Hi-Hats from the Meinl Byzance Extra Dry line, driving August Burns Red's Grammy-nominated technical precision across odd-time integration. Blake Richardson of Between the Buried and Me plays 14" Meinl Byzance Extra Dry Hi-Hats, matching his crash setup's complex, dark tone across BTBAM's genre-hopping technicality. Danny Carey of Tool runs 14" Paiste Signature Hi-Hats, whose famously Fibonacci-structured polyrhythms established a mathematically rigorous drumming standard that directly informed math metal and mathcore's own rhythmic ambitions.
+Ben Koller of Converge plays 14"-15" Zildjian K and A Custom Hi-Hats, the same fluid, cutting-attack family as his crash setup, giving Converge's "Jane Doe" (2001) its foundational, hardcore-rooted rhythmic control. Matt Greiner of August Burns Red runs his Paiste Formula 602 setup, driving August Burns Red's Grammy-nominated technical precision across odd-time integration. Blake Richardson of Between the Buried and Me plays 14" Meinl Byzance Extra Dry Hi-Hats, matching his crash setup's complex, dark tone across BTBAM's genre-hopping technicality. Danny Carey of Tool runs 14" Paiste Signature Hi-Hats, whose famously Fibonacci-structured polyrhythms established a mathematically rigorous drumming standard that directly informed math metal and mathcore's own rhythmic ambitions.
 
 This guide breaks down what actually makes a great mathcore hi-hat — response speed, tonal complexity, and versatility across odd-time accents — and recommends specific models across every budget, from a first upgrade to the exact hi-hats these four influential drummers play.`,
       keyPoints: [
         "Ben Koller's Zildjian K and A Custom Hi-Hats define mathcore's founding, hardcore-rooted rhythmic control with Converge",
-        "Matt Greiner's Meinl Byzance Extra Dry Dual Hi-Hats bring math metal complexity to mathcore-adjacent metalcore",
+        "Matt Greiner's Paiste Formula 602 setup brings math metal complexity to mathcore-adjacent metalcore",
         "Blake Richardson's Meinl Byzance Extra Dry Hi-Hats handle BTBAM's genre-hopping technicality with complex, dark tone",
         "Danny Carey's Paiste Signature Hi-Hats bring Tool's Fibonacci-structured rigor that directly informed mathcore's rhythmic ambitions"
       ]
@@ -86217,7 +86174,7 @@ This guide breaks down what actually makes a great mathcore hi-hat — response 
         {
           name: "Dissonant, Complex Tone",
           icon: "🎼",
-          description: "Matt Greiner's and Blake Richardson's Meinl Byzance Extra Dry hi-hats deliver dissonant, complex overtones that punctuate mathcore's jarring, unpredictable riffing better than a simple, clean pair.",
+          description: "Blake Richardson's Meinl Byzance Extra Dry hi-hats deliver dissonant, complex overtones that punctuate mathcore's jarring, unpredictable riffing better than a simple, clean pair.",
           recommendation: "Dissonant, complex-voiced B20 hi-hats for punctuating irregular riffing"
         },
         {
@@ -86229,7 +86186,7 @@ This guide breaks down what actually makes a great mathcore hi-hat — response 
         {
           name: "Diameter",
           icon: "📏",
-          description: "14\"-15\" hi-hats — the range spanning Koller's, Richardson's, and Greiner's setups — balance quick response with enough surface area for the genre's more progressive, dynamically extreme passages.",
+          description: "14\"-15\" hi-hats — the range spanning Koller's and Richardson's setups — balance quick response with enough surface area for the genre's more progressive, dynamically extreme passages.",
           recommendation: "14\" for standard response and versatility; 15\" for extra control on complex, syncopated riffing"
         },
         {
@@ -86300,12 +86257,11 @@ Koller's stripped-down setup emphasizes power and response over complexity, a ph
           tier: "pro",
           material: "B20 Bronze, Hand Hammered",
 
-          description: `Matt Greiner of August Burns Red plays 15" Dual Hi-Hats from the Meinl Byzance Extra Dry line, bringing math metal's rhythmic complexity into mathcore-adjacent metalcore — his jazz-influenced dynamics and creative use of odd-time integration require a hi-hat complex enough to punctuate August Burns Red's Grammy-nominated technical catalog.
+          description: `The Byzance Extra Dry Dual Hi-Hats bring math metal's rhythmic complexity into mathcore-adjacent metalcore — jazz-influenced dynamics and creative use of odd-time integration require a hi-hat complex enough to punctuate technically demanding material.
 
-The Dual series splits the difference between dark and bright voicing, giving Greiner distinct tonal options for accenting mathcore-adjacent riffing without needing an oversized cymbal collection.`,
+The Dual series splits the difference between dark and bright voicing, giving drummers distinct tonal options for accenting mathcore-adjacent riffing without needing an oversized cymbal collection.`,
 
           pros: [
-            "Matt Greiner's proven August Burns Red setup — math metal complexity in mathcore-adjacent metalcore",
             "Dual series balances dark and bright voicing in a single hi-hat pair",
             "15\" diameter gives extra control on complex, syncopated riffing",
             "Proven across August Burns Red's Grammy-nominated, technically demanding catalog"
@@ -86322,10 +86278,8 @@ The Dual series splits the difference between dark and bright voicing, giving Gr
             diameter: "15\"",
             series: "Byzance Extra Dry"
           },
-          usedBy: [
-            { name: "Matt Greiner", band: "August Burns Red", note: "15\" Byzance Extra Dry Dual Hi-Hats — math metal complexity in mathcore-adjacent metalcore" }
-          ],
-          verdict: "Best for jazz-informed technical precision. Greiner's Byzance Dual hi-hats carry math metal complexity into breakdown-driven songwriting.",
+          usedBy: [],
+          verdict: "Best for jazz-informed technical precision. The Byzance Dual hi-hats carry math metal complexity into breakdown-driven songwriting.",
           rating: 4.7,
           affiliateLink: "https://www.thomann.de/intl/meinl_byzance_extra_dry_dual_hi_hats_greiner.htm?partner_id=metalforge"
         },
@@ -86469,7 +86423,7 @@ Carey's hi-hats deliver weight and clarity without excessive wash, treating rhyt
 - Mathcore's founding, most directly documented hi-hat setup
 - Best for genre-defining, chaotic Converge-style mathcore
 
-**Meinl Byzance Extra Dry (Matt Greiner, Blake Richardson):**
+**Meinl Byzance Extra Dry (Blake Richardson):**
 - Complex, dissonant overtones suited to odd-time, genre-hopping material
 - Versatile across both aggressive accents and dynamic restraint
 - Best for technical, math metal-adjacent mathcore and progressive-leaning material
@@ -86500,7 +86454,7 @@ Carey's hi-hats deliver weight and clarity without excessive wash, treating rhyt
         {
           category: "Best for Technical, Odd-Time Precision",
           pedal: "Meinl Byzance Extra Dry Dual Hi-Hats",
-          reason: "Matt Greiner's August Burns Red setup — math metal complexity in mathcore-adjacent metalcore."
+          reason: "Balances dark and bright voicing for technical, odd-time precision."
         },
         {
           category: "Best for Genre-Hopping Dynamics",
@@ -86524,7 +86478,6 @@ Carey's hi-hats deliver weight and clarity without excessive wash, treating rhyt
     ],
     relatedDrummers: [
       { slug: 'ben-koller', name: 'Ben Koller', reason: 'Zildjian K and A Custom Hi-Hats — Converge mathcore\'s founding cutting attack' },
-      { slug: 'matt-greiner', name: 'Matt Greiner', reason: 'Meinl Byzance Extra Dry Dual Hi-Hats — August Burns Red math metal complexity' },
       { slug: 'blake-richardson', name: 'Blake Richardson', reason: 'Meinl Byzance Extra Dry Hi-Hats — BTBAM genre-hopping technicality' },
       { slug: 'danny-carey', name: 'Danny Carey', reason: 'Paiste Signature Hi-Hats — Tool\'s Fibonacci-structured rigor' }
     ],
@@ -86532,7 +86485,6 @@ Carey's hi-hats deliver weight and clarity without excessive wash, treating rhyt
     // Featured drummers (issue template)
     featuredDrummers: [
       { slug: 'ben-koller', name: 'Ben Koller', reason: 'Zildjian K and A Custom Hi-Hats — Converge mathcore\'s founding cutting attack' },
-      { slug: 'matt-greiner', name: 'Matt Greiner', reason: 'Meinl Byzance Extra Dry Dual Hi-Hats — August Burns Red math metal complexity' },
       { slug: 'blake-richardson', name: 'Blake Richardson', reason: 'Meinl Byzance Extra Dry Hi-Hats — BTBAM genre-hopping technicality' }
     ],
     relatedComparisons: [],
@@ -86545,7 +86497,7 @@ Carey's hi-hats deliver weight and clarity without excessive wash, treating rhyt
       },
       {
         question: "What hi-hats does Matt Greiner use?",
-        answer: "Matt Greiner of August Burns Red plays 15\" Dual Hi-Hats from the Meinl Byzance Extra Dry line, bringing math metal's rhythmic complexity into mathcore-adjacent metalcore."
+        answer: "Matt Greiner of August Burns Red switched to a Paiste Formula 602 setup in 2016; no specific hi-hat model in that line is publicly documented for his rig."
       },
       {
         question: "What hi-hats does Blake Richardson use?",
@@ -86553,7 +86505,7 @@ Carey's hi-hats deliver weight and clarity without excessive wash, treating rhyt
       },
       {
         question: "What size hi-hats for mathcore?",
-        answer: "14\"-15\" covers the mathcore range. Ben Koller and Blake Richardson both use 14\", while Matt Greiner's 15\" pair adds extra control for complex, syncopated riffing."
+        answer: "14\"-15\" covers the mathcore range. Ben Koller and Blake Richardson both use 14\", while some drummers run a 15\" pair for extra control on complex, syncopated riffing."
       },
       {
         question: "What's the best budget hi-hats for mathcore?",
@@ -86564,7 +86516,7 @@ Carey's hi-hats deliver weight and clarity without excessive wash, treating rhyt
     // Conclusion
     conclusion: {
       title: "Build Your Mathcore Hi-Hat Voice",
-      content: `Mathcore hi-hat choices come down to a simple decision between two proven philosophies: Zildjian K/A Custom's bright, fast-attack cutting power (Ben Koller's founding sound) or Meinl Byzance's complex, dissonant overtones (Matt Greiner's and Blake Richardson's genre-hopping approach). Danny Carey's Paiste Signature hi-hats offer a third path for mathcore's most compositionally ambitious wing.
+      content: `Mathcore hi-hat choices come down to a simple decision between two proven philosophies: Zildjian K/A Custom's bright, fast-attack cutting power (Ben Koller's founding sound) or Meinl Byzance's complex, dissonant overtones (Blake Richardson's genre-hopping approach). Danny Carey's Paiste Signature hi-hats offer a third path for mathcore's most compositionally ambitious wing.
 
 Start with whichever character matches your playing style, and don't overlook the budget tier — Zildjian A Series and Meinl HCS both provide genuine upgrade paths toward the pro-level sound without requiring a full investment up front.
 

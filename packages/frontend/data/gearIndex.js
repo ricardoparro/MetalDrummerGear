@@ -409,12 +409,6 @@ export const GEAR_INDEX = {
         "configString": "Pearl Reference Pure"
       },
       {
-        "id": 25,
-        "name": "Alex Bent",
-        "slug": "alex-bent",
-        "configString": "Pearl Reference Pure Series"
-      },
-      {
         "id": 31,
         "name": "Nick Augusto",
         "slug": "nick-augusto",
@@ -698,6 +692,12 @@ export const GEAR_INDEX = {
         "id": 4,
         "name": "Dave Lombardo",
         "slug": "dave-lombardo",
+        "configString": "Tama Starclassic Maple"
+      },
+      {
+        "id": 25,
+        "name": "Alex Bent",
+        "slug": "alex-bent",
         "configString": "Tama Starclassic Maple"
       },
       {

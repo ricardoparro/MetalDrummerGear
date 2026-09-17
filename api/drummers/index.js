@@ -1700,8 +1700,8 @@ const drummers = [
       'https://www.allmusic.com/artist/alex-bent-mn0003242684'
     ],
     gear: {
-      drums: 'Pearl Reference Pure Series',
-      snare: 'Pearl Reference 14x5" Brass',
+      drums: 'Tama Starclassic Maple',
+      snare: 'Tama Starclassic Maple 14x5"',
       cymbals: 'Zildjian (14" K Custom Hybrid Hi-Hats, 18" & 19" K Custom Hybrid Crashes, 21" K Custom Hybrid Ride, 18" A Custom China)',
       hardware: 'Axis A Longboard Double Pedal, Pearl D-3000 Throne',
       sticks: 'Vic Firth American Classic 5B',

@@ -1114,3 +1114,28 @@ First run after 07:00 UTC (daily deep run). Metrics 11:00 UTC (354 users/387 ses
 ---
 
 ---
+
+## 2026-09-17 16:16 — Mid-day pulse: fleet fully drained, 8 fresh proposals verified and promoted (#7660-7667)
+
+### Context (≤3 lines)
+First run after 13:00 UTC (mid-day pulse). Metrics 16:16 UTC (363 users/399 sessions/718 views 7d; GSC 7,812 impr/163 clicks/2.09% CTR/pos 7.5, unchanged from the 11:00 deep run — GSC lags daily, not hourly). At run start: eligible `ai-fix` backlog 0, 0 open PRs — Roadie fully drained everything from the 11:00 run (#7648-7650, #7654-7656 all merged 14:28-ish) with nothing new queued. 8 fresh untriaged `seo-proposal` (#7660-7667, filed 12:34-12:35 UTC) continuing this week's `endorsementNews.js`-vs-generated-file sweep, now hitting `licks.js` (per-song gear callouts).
+
+### Actions taken
+- **Live-verified all 8 fresh proposals** by reading the exact cited `endorsementNews.js` lines directly against each `licks/*.js` file: #7660 (Nick Augusto — confirmed current `endorsementNews.js` Pearl Reference Pure/Sabian AAX/Pro-Mark, `licks/nick-augusto.js` still has the pre-#7481-fix Tama/Meinl/Pearl-pedal/Vic-Firth values), #7661 (Mike Mangini — confirmed Masterworks Maple pre-2019 / Reference Pure 2019+, Eliminator Redline hardware; licks file has fabricated "Reference Series"/"Demon Drive" across all 6 entries), #7662 (Art Cruz — confirmed Ludwig Black Beauty/Trick Pro 1-V; licks file has wrong model names "Classic Oak"/"Dominator" not just in gearUsed but repeated through description prose too — the issue's own verify grep checks the whole file so this gets caught), #7663 (Daniel Erlandsson — confirmed ProMark 5B sticks since 2001; licks file has Vic Firth, sole remaining unfixed field after #6959), #7664 (Dave Lombardo — confirmed no pedal brand documented anywhere, single stray "DW 5000 Pedals" line in the Raining Blood entry), #7665 (Lars Ulrich — confirmed Ahead signature sticks only from 1996, "One" 1988 entries fabricate it 8 years early), #7666 (Martin Lopez — confirmed Axis Percussion pedal only from 2010, 5 pre-2010 Opeth-era entries fabricate "DW 5000"), #7667 (Raymond Herrera — confirmed all-Tama kit with no separate snare brand documented, 3 entries fabricate a "Pearl Free-Floating" snare that's cross-contaminated from Sean Reinert's timeline notes). All 8/8 accurate, text-only corrections on existing pages, zero new URLs — freeze-compliant. Searched for dupes per-drummer-slug — none in flight. Promoted all 8 (`ai-fix`).
+- **GSC content-gap / L1-L2-L3 / founder ideas / human-founder blockers**: all unchanged since the 11:00 entry (GSC data hasn't refreshed since yesterday; L1/L2/L3 not due until Monday 09-21; founder-ideas.md empty since 06-19; #5141/#5100/#4892/#875/#529/#526/#525 all `updatedAt` unchanged) — no re-spam.
+- **Atomic-split sweep**: nothing eligible — the 8 promoted issues are same-day fresh; the 20 `hold`ed roster/band issues remain correctly frozen under the new-page freeze.
+- **Starvation check**: backlog 0→8 post-triage. Trigger shape (backlog<15) briefly true at run start but resolved by this real fresh batch already in the bank — same non-escalating batch-drain cadence as every recent entry, not an escalation event.
+
+### State delta
+- ai-fix backlog: 0 → 8 (#7660-7667 added)
+- seo-proposal bank (excl. umbrellas): 8 fresh → 0 untriaged
+
+### Quota check
+✅ SEO proposals: 8/8 fresh triaged, live-verified against `endorsementNews.js` exact lines, all promoted. ✅ Founder ideas: inbox empty. ✅ GSC-gap: unchanged, no new fix needed. ✅ L1/L2/L3: not due until 09-21. ✅ Starvation: non-event. ✅ Atomic split: nothing eligible. ✅ Decisions logged.
+
+### Next Run
+1. Watch #7660-7667 pick up via Roadie (0 PRs in flight at run start, fleet should start immediately).
+2. Next L1/L2/L3 weekly refresh due 2026-09-21 (Monday) — full close-the-loop pass once it lands.
+3. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---

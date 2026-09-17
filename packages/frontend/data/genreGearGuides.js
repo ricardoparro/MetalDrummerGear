@@ -6311,13 +6311,12 @@ Start with what you can afford, learn to tune it properly, and practice until yo
     // SEO metadata
     title: "Best Cymbals for Death Metal: 2026 Ultimate Guide",
     metaTitle: "Best Cymbals for Death Metal 2026 | MetalForge Expert Guide",
-    description: "Top cymbal picks for death metal: what George Kollias, Flo Mounier, and Pete Sandoval actually use, from budget to pro. Zildjian K vs Sabian AAX/HHX vs Meinl Classics for extreme metal.",
+    description: "Top cymbal picks for death metal: what George Kollias and Flo Mounier actually use, from budget to pro. Zildjian K vs Sabian AAX/HHX vs Meinl Classics for extreme metal.",
     seoKeywords: [
       'best cymbals for death metal',
       'death metal cymbals',
       'george kollias cymbals',
       'flo mounier cymbals',
-      'pete sandoval cymbals',
       'zildjian k death metal',
       'sabian aax hhx death metal',
       'cymbals for blast beats',
@@ -6334,7 +6333,7 @@ Start with what you can afford, learn to tune it properly, and practice until yo
     // Hero section
     hero: {
       title: "🔔 Best Cymbals for Death Metal",
-      subtitle: "What Kollias, Mounier, and Sandoval Actually Play",
+      subtitle: "What Kollias and Mounier Actually Play",
       badge: "GEAR GUIDE 2026",
       stats: [
         { value: '4', label: 'Cymbal Lines Reviewed' },
@@ -6348,7 +6347,7 @@ Start with what you can afford, learn to tune it properly, and practice until yo
       title: "Why Death Metal Has Its Own Cymbal Demands",
       content: `Death metal places extreme demands on cymbals that most other genres simply don't. At 220–280 BPM blast beats, cymbals must respond instantly and cut through a dense, down-tuned guitar wall without washing out into a shapeless roar. They must withstand relentless physical punishment—death metal drummers hit hard and fast, often for hours of daily practice.
 
-George Kollias (Nile) has made his Zildjian K Custom Dark cymbals as recognizable as his inhuman blast beat speed—the dark, controlled wash sits perfectly under technical death metal complexity. Flo Mounier (Cryptopsy) uses Sabian AAX/HHX Series cymbals that deliver controlled chaos even at his insane 270 BPM tempos. Pete Sandoval (Morbid Angel) built his hyper-blast sound around Zildjian's articulate response.
+George Kollias (Nile) has made his Zildjian K Custom Dark cymbals as recognizable as his inhuman blast beat speed—the dark, controlled wash sits perfectly under technical death metal complexity. Flo Mounier (Cryptopsy) uses Sabian AAX/HHX Series cymbals that deliver controlled chaos even at his insane 270 BPM tempos.
 
 The wrong cymbals for death metal don't just sound bad—they actively fight your playing. This guide breaks down what actually works, why, and which specific models give you the most extreme metal performance across all budgets.`,
       keyPoints: [
@@ -6441,8 +6440,7 @@ George Kollias built his reputation for the fastest feet in death metal while us
             rideRange: "20\" - 22\""
           },
           usedBy: [
-            { name: "George Kollias", band: "Nile", reason: "Primary cymbal setup — fastest feet in death metal" },
-            { name: "Pete Sandoval", band: "Morbid Angel", reason: "Zildjian endorser — hyper-blast articulation" }
+            { name: "George Kollias", band: "Nile", reason: "Primary cymbal setup — fastest feet in death metal" }
           ],
           verdict: "The death metal cymbal standard. If George Kollias trusts these at 280 BPM, they'll handle anything you throw at them.",
           rating: 4.9,
@@ -6623,7 +6621,7 @@ Several modern death metal drummers have incorporated HHX cymbals for their cutt
 - Darker, more controlled wash
 - Quick decay — crashes don't bleed into each other
 - Complex, musical overtones under technical patterns
-- Preferred by: George Kollias, Pete Sandoval
+- Preferred by: George Kollias
 - Best for: Technical death metal, blast beat-heavy styles
 
 **Sabian AAX/HHX:**
@@ -6678,15 +6676,13 @@ Several modern death metal drummers have incorporated HHX cymbals for their cutt
     ],
     relatedDrummers: [
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Zildjian K Custom Dark — fastest feet in death metal' },
-      { slug: 'flo-mounier', name: 'Flo Mounier', reason: 'Sabian AAX/HHX — controlled chaos at 270 BPM' },
-      { slug: 'pete-sandoval', name: 'Pete Sandoval', reason: 'Zildjian — hyper-blast articulation pioneer' }
+      { slug: 'flo-mounier', name: 'Flo Mounier', reason: 'Sabian AAX/HHX — controlled chaos at 270 BPM' }
     ],
 
     // Featured drummers (issue template)
     featuredDrummers: [
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Zildjian K Custom Dark for extreme cutting power at 280 BPM' },
       { slug: 'flo-mounier', name: 'Flo Mounier', reason: 'Sabian AAX/HHX — controlled chaos at 270 BPM' },
-      { slug: 'pete-sandoval', name: 'Pete Sandoval', reason: 'Zildjian for hyper-blast articulation' },
     ],
 
     // FAQ section for SEO
@@ -28523,13 +28519,12 @@ Start with an 18" for maximum versatility, and add a 20" once your material dema
     // SEO metadata
     title: "Best China Cymbals for Extreme Metal: 2026 Ultimate Guide",
     metaTitle: "Best China Cymbals for Extreme Metal in 2026 | MetalForge Expert Guide",
-    description: "Discover the best china cymbals for extreme metal drumming. Expert recommendations on maximum-trash accent cymbals for blast beats and extreme tempos, featuring the china setups favored by George Kollias, Pete Sandoval, Derek Roddy, and Gene Hoglan.",
+    description: "Discover the best china cymbals for extreme metal drumming. Expert recommendations on maximum-trash accent cymbals for blast beats and extreme tempos, featuring the china setups favored by George Kollias, Derek Roddy, and Gene Hoglan.",
     seoKeywords: [
       'best china cymbal for extreme metal',
       'china cymbal blast beats',
       'extreme metal cymbal setup',
       'george kollias cymbal setup',
-      'pete sandoval cymbal setup',
       'zildjian china extreme metal',
       'sabian china for blast beats',
       'derek roddy cymbal setup',
@@ -28560,7 +28555,7 @@ Start with an 18" for maximum versatility, and add a 20" once your material dema
       title: "Why Extreme Metal Drummers Push China Cymbals to the Limit",
       content: `Extreme metal — the blast-beat-driven world of death metal, black metal, and their most brutal offshoots — pushes a china cymbal harder than any other subgenre. At 240+ BPM, a china isn't a rare punctuation mark; it's a recurring accent hammered relentlessly, and it needs to survive that abuse night after night while still cutting through a wall of blast beats and downtuned guitars.
 
-George Kollias's Zildjian K Custom Dark setup with Nile has been battle-tested across 240+ BPM blast beat passages that would destroy a less durable cymbal, while Pete Sandoval's Sabian setup — developed as one of the pioneers of the gravity blast technique with Morbid Angel — demanded a china that could keep pace with a fundamentally new approach to extreme-speed drumming. Derek Roddy's Meinl Byzance Brilliant Heavy Hammered setup reflects his one-footed blast beat technique's unique durability demands, and Gene Hoglan — "The Atomic Clock" — has relied on Sabian AAX chinas across Death, Testament, and Dethklok for precision punch that holds up across decades of extreme playing.
+George Kollias's Zildjian K Custom Dark setup with Nile has been battle-tested across 240+ BPM blast beat passages that would destroy a less durable cymbal. Derek Roddy's Meinl Byzance Brilliant Heavy Hammered setup reflects his one-footed blast beat technique's unique durability demands, and Gene Hoglan — "The Atomic Clock" — has relied on Sabian AAX chinas across Death, Testament, and Dethklok for precision punch that holds up across decades of extreme playing.
 
 This guide covers what actually matters for an extreme metal china: durability, cut, and response at extreme tempos, along with specific model recommendations across every budget.`,
       keyPoints: [
@@ -28738,14 +28733,11 @@ Derek Roddy's setup reflects the unique durability demands of his one-footed bla
           priceRange: "€190-240",
           tier: "pro",
           driveType: "B20 Bronze, Brilliant",
-          description: `The 18" AAXtreme China's faster response makes it a strong secondary china for drummers who need to keep pace with the fastest gravity-blast and extreme black metal tempos, where an 18-inch cymbal's quicker recovery matters as much as its cut.
-
-Pete Sandoval's Sabian setup — developed as one of the pioneers of the gravity blast technique with Morbid Angel — demanded a china durable and responsive enough to keep pace with a fundamentally new approach to extreme-speed drumming.`,
+          description: `The 18" AAXtreme China's faster response makes it a strong secondary china for drummers who need to keep pace with the fastest gravity-blast and extreme black metal tempos, where an 18-inch cymbal's quicker recovery matters as much as its cut.`,
           pros: [
             "Faster response than 20\" alternatives at extreme tempos",
             "Bright, cutting attack for blast-beat-heavy material",
-            "Reliable pro-tier build quality",
-            "Proven on pioneering extreme-speed drumming techniques"
+            "Reliable pro-tier build quality"
           ],
           cons: [
             "Less low-end weight than the 20\" AAX X-Plosion",
@@ -28759,9 +28751,7 @@ Pete Sandoval's Sabian setup — developed as one of the pioneers of the gravity
             weight: "Medium",
             mounting: "Inverted"
           },
-          usedBy: [
-            { name: "Pete Sandoval", band: "Morbid Angel", note: "Pioneer of the gravity blast technique" }
-          ],
+          usedBy: [],
           verdict: "Best secondary china for drummers chasing the fastest possible blast beat tempos.",
           rating: 4.5,
           affiliateLink: "https://www.thomann.de/intl/sabian_aaxtreme_china_18.htm?partner_id=metalforge"
@@ -28849,7 +28839,6 @@ Pete Sandoval's Sabian setup — developed as one of the pioneers of the gravity
 **18\" China:**
 - Faster response for the fastest gravity-blast and black metal tempos
 - Easier to fit into a crowded, multi-cymbal extreme metal setup
-- Preferred for the fastest material: Pete Sandoval's gravity-blast approach
 
 **20\" China:**
 - More low-end weight and volume for slower, doom-adjacent extreme metal
@@ -28903,7 +28892,6 @@ Pete Sandoval's Sabian setup — developed as one of the pioneers of the gravity
     ],
     relatedDrummers: [
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Zildjian K Custom Dark China — Nile\'s 240+ BPM blast beat endurance' },
-      { slug: 'pete-sandoval', name: 'Pete Sandoval', reason: 'Sabian AAX China — pioneer of the gravity blast technique' },
       { slug: 'derek-roddy', name: 'Derek Roddy', reason: 'Meinl Byzance Brilliant Heavy Hammered China — one-footed blast durability' },
       { slug: 'gene-hoglan', name: 'Gene Hoglan', reason: 'Sabian AAX China — precision punch across 20+ bands' }
     ],
@@ -37021,12 +37009,11 @@ Start with one dark, heavy ride in the 22" range, and add a second voicing — w
     // SEO metadata
     title: "Best Ride Cymbals for Extreme Metal: 2026 Ultimate Guide",
     metaTitle: "Best Ride Cymbals for Extreme Metal in 2026 | MetalForge Expert Guide",
-    description: "Discover the best ride cymbals for extreme metal drumming. Expert recommendations on durable, fast-attack rides built to survive sustained blast beat abuse, featuring the exact rides played by George Kollias, Pete Sandoval, Derek Roddy, and Gene Hoglan.",
+    description: "Discover the best ride cymbals for extreme metal drumming. Expert recommendations on durable, fast-attack rides built to survive sustained blast beat abuse, featuring the exact rides played by George Kollias, Derek Roddy, and Gene Hoglan.",
     seoKeywords: [
       'best ride cymbal for extreme metal',
       'ride cymbal for blast beats',
       'george kollias ride cymbal',
-      'pete sandoval ride cymbal',
       'derek roddy ride cymbal',
       'gene hoglan ride cymbal',
       'zildjian a custom mega bell ride extreme metal',
@@ -37058,12 +37045,12 @@ Start with one dark, heavy ride in the 22" range, and add a second voicing — w
       title: "Why Extreme Metal Rides Have to Survive Before They Have to Sound Good",
       content: `Extreme metal — death metal, technical death metal, and the grindcore-adjacent brutality that surrounds them — places durability demands on a ride cymbal that few other genres match. At 200-280 BPM sustained blast beats, a ride gets struck thousands of times a set, night after touring night, and has to keep responding accurately and staying articulate long after ordinary cymbals would develop keyholing or lose their voice.
 
-George Kollias of Nile rides a 21" Zildjian A Custom Mega Bell Ride, relying on its oversized bell for the piercing accents that cut through Nile's densely layered technical death metal even while sustaining blast beats past 240 BPM. Pete Sandoval of Morbid Angel built his gravity-blast sound around a 22" Sabian AAX Raw Bell Dry Ride, chosen for the dry, controlled response that survives his uniquely punishing technique. Derek Roddy of Hate Eternal and Nile plays a 22" Meinl Byzance Raw Bell Dark Ride, a switch from his earlier Sabian and Paiste setups that gives his one-footed blast technique a hand-hammered surface built to hold up over time. Gene Hoglan of Death and Testament rides a 22" Sabian AAX Ride, prized for the versatile, durable response it delivers under his metronomic "Atomic Clock" precision.
+George Kollias of Nile rides a 21" Zildjian A Custom Mega Bell Ride, relying on its oversized bell for the piercing accents that cut through Nile's densely layered technical death metal even while sustaining blast beats past 240 BPM. Derek Roddy of Hate Eternal and Nile plays a 22" Meinl Byzance Raw Bell Dark Ride, a switch from his earlier Sabian and Paiste setups that gives his one-footed blast technique a hand-hammered surface built to hold up over time. Gene Hoglan of Death and Testament rides a 22" Sabian AAX Ride, prized for the versatile, durable response it delivers under his metronomic "Atomic Clock" precision.
 
 This guide breaks down what actually makes a ride survive extreme metal's demands — durability, fast attack, and consistent response under sustained abuse — and recommends specific models across every budget, from a first touring-durable ride to the exact cymbals extreme metal's most demanding drummers ride.`,
       keyPoints: [
         "Extreme metal's sustained blast beats destroy rides that work fine in slower metal styles — durability is not optional",
-        "George Kollias's Zildjian A Custom Mega Bell Ride and Pete Sandoval's Sabian AAX Raw Bell Dry Ride both prioritize fast attack and dry control",
+        "George Kollias's Zildjian A Custom Mega Bell Ride delivers the fast attack and dry control extreme metal demands",
         "Derek Roddy's move to Meinl Byzance Raw Bell Dark shows how touring durability drives ride choice at the highest level",
         "21\"-22\" rides dominate extreme metal, favoring quick response and a prominent bell over maximum wash"
       ]
@@ -37082,13 +37069,13 @@ This guide breaks down what actually makes a ride survive extreme metal's demand
         {
           name: "Fast Attack, Dry Control",
           icon: "⚡",
-          description: "At 200-280 BPM, a ride that washes too much buries the next accent. George Kollias's Mega Bell Ride and Pete Sandoval's Raw Bell Dry Ride both respond instantly and stay controlled to keep pace with sustained blast patterns.",
+          description: "At 200-280 BPM, a ride that washes too much buries the next accent. George Kollias's Mega Bell Ride responds instantly and stays controlled to keep pace with sustained blast patterns.",
           recommendation: "Medium, dry-voiced rides over slow-building, sustained wash"
         },
         {
           name: "Consistency Under Repeated Force",
           icon: "🎯",
-          description: "Pete Sandoval's gravity blast technique concentrates enormous repeated force on a small area of the cymbal. Sabian AAX's durable B20 construction holds its voicing consistently rather than degrading after heavy touring use.",
+          description: "Techniques like gravity blasting concentrate enormous repeated force on a small area of the cymbal. Sabian AAX's durable B20 construction holds its voicing consistently rather than degrading after heavy touring use.",
           recommendation: "Cymbals proven under extreme, repeated-force techniques like gravity blasting"
         },
         {
@@ -37100,7 +37087,7 @@ This guide breaks down what actually makes a ride survive extreme metal's demand
         {
           name: "Ride Size and Response",
           icon: "📏",
-          description: "21\"-22\" covers the extreme metal ride range. Kollias favors 21\" for the fastest response, while Sandoval, Roddy, and Hoglan all run 22\" for added body without sacrificing speed.",
+          description: "21\"-22\" covers the extreme metal ride range. Kollias favors 21\" for the fastest response, while Roddy and Hoglan run 22\" for added body without sacrificing speed.",
           recommendation: "21\"-22\" rides, sized toward the larger end for added low-end body"
         },
         {
@@ -37162,11 +37149,10 @@ The Mega Bell design pairs A Custom's bright, cutting tone with an oversized bel
           priceRange: "€230-280",
           tier: "pro",
           driveType: "B20 Bronze, Raw Bell",
-          description: `Pete Sandoval of Morbid Angel built his gravity-blast sound around a 22" Sabian AAX Raw Bell Dry Ride, chosen for the dry, controlled response that survives his uniquely punishing technique — a method that hammers a batter head, and by extension a ride, at a rate few manufacturers design for.
+          description: `The 22" Sabian AAX Raw Bell Dry Ride pairs a dry, controlled response with a raw, unlathed bell — built for drummers who need consistent articulation under sustained, high-velocity blast beat patterns without excess wash.
 
-Sandoval's decades of touring on this setup are the strongest evidence available that Sabian AAX's B20 construction genuinely survives extreme metal's most demanding playing style.`,
+Sabian's B20 construction is built to survive the repeated, high-force striking that extreme metal's most demanding techniques put a ride cymbal through, without losing its dry, controlled voicing over years of touring.`,
           pros: [
-            "Pete Sandoval's proven Morbid Angel setup — pioneer of the gravity blast technique",
             "Durable B20 construction holds up under repeated, high-force striking",
             "Dry, controlled response stays articulate at extreme tempo",
             "Raw bell delivers a clear, cutting accent ping"
@@ -37183,9 +37169,7 @@ Sandoval's decades of touring on this setup are the strongest evidence available
             bell: "Raw, unlathed",
             weight: "Medium"
           },
-          usedBy: [
-            { name: "Pete Sandoval", band: "Morbid Angel", note: "22\" AAX Raw Bell Dry Ride for gravity-blast durability" }
-          ],
+          usedBy: [],
           verdict: "Best proven durability and dry control under the most extreme repeated-force blast techniques.",
           rating: 4.6,
           affiliateLink: "https://www.thomann.de/intl/sabian_aax_raw_bell_dry_ride_22_sandoval.htm?partner_id=metalforge"
@@ -37279,7 +37263,7 @@ Hoglan's longevity on this exact setup is itself evidence that the AAX Ride surv
           priceRange: "€60-85",
           tier: "budget",
           driveType: "Brass",
-          description: "Carries the same brand lineage as Pete Sandoval's and Gene Hoglan's professional AAX setups at a fraction of the price, giving developing extreme metal drummers a real starting point for building fast-attack ride technique.",
+          description: "Carries the same brand lineage as Gene Hoglan's professional AAX setup at a fraction of the price, giving developing extreme metal drummers a real starting point for building fast-attack ride technique.",
           pros: [
             "Same Sabian brand lineage as extreme metal's proven AAX setups",
             "Affordable, widely available entry point",
@@ -37327,7 +37311,7 @@ Hoglan's longevity on this exact setup is itself evidence that the AAX Ride surv
 - Bright, cutting voicing built for 240+ BPM sustained blast beats
 - Best for technical death metal where bell accents define your fills
 
-**Sabian AAX (Pete Sandoval, Gene Hoglan):**
+**Sabian AAX (Gene Hoglan):**
 - Durable, mid-range priced B20 bronze proven across decades of touring
 - Raw Bell Dry variant delivers dry control for gravity-blast technique
 - Best for gravity-blast and metronomically precise technique alike
@@ -37337,7 +37321,7 @@ Hoglan's longevity on this exact setup is itself evidence that the AAX Ride surv
 - Complex, dark overtones cut through dense, technical mixes
 - Best for drummers who've cycled through other brands and prioritize durability above all
 
-**Our Recommendation:** Start with a Sabian SBR or Zildjian ZBT ride if you're building extreme metal technique on a budget. Choose George Kollias's Mega Bell for maximum bell projection at the highest tempos, Pete Sandoval's or Gene Hoglan's Sabian AAX for proven mid-range durability, or Derek Roddy's Meinl Byzance Raw Bell Dark if long-term touring durability is your top priority.`,
+**Our Recommendation:** Start with a Sabian SBR or Zildjian ZBT ride if you're building extreme metal technique on a budget. Choose George Kollias's Mega Bell for maximum bell projection at the highest tempos, Gene Hoglan's Sabian AAX for proven mid-range durability, or Derek Roddy's Meinl Byzance Raw Bell Dark if long-term touring durability is your top priority.`,
       comparisonTable: [
         { feature: "Bell Projection", directDrive: "⭐⭐⭐⭐⭐", chainDrive: "⭐⭐⭐" },
         { feature: "Touring Durability", directDrive: "⭐⭐⭐⭐", chainDrive: "⭐⭐⭐⭐⭐" },
@@ -37358,7 +37342,7 @@ Hoglan's longevity on this exact setup is itself evidence that the AAX Ride surv
         {
           category: "Best for Gravity-Blast Durability",
           pedal: "Sabian AAX Raw Bell Dry Ride",
-          reason: "Pete Sandoval's proven Morbid Angel setup — dry and durable under the most demanding repeated-force technique."
+          reason: "Dry and durable under the most demanding repeated-force techniques like gravity blasting."
         },
         {
           category: "Best for Long-Term Touring",
@@ -37382,7 +37366,6 @@ Hoglan's longevity on this exact setup is itself evidence that the AAX Ride surv
     ],
     relatedDrummers: [
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Zildjian A Custom Mega Bell Ride — Nile\'s 240+ BPM blast beat endurance' },
-      { slug: 'pete-sandoval', name: 'Pete Sandoval', reason: 'Sabian AAX Raw Bell Dry Ride — pioneer of the gravity blast technique' },
       { slug: 'derek-roddy', name: 'Derek Roddy', reason: 'Meinl Byzance Raw Bell Dark Ride — one-footed blast durability' },
       { slug: 'gene-hoglan', name: 'Gene Hoglan', reason: 'Sabian AAX Ride — The Atomic Clock\'s precision punch' }
     ],
@@ -37390,7 +37373,6 @@ Hoglan's longevity on this exact setup is itself evidence that the AAX Ride surv
     // Featured drummers (issue template)
     featuredDrummers: [
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Zildjian A Custom Mega Bell Ride — Nile\'s 240+ BPM blast beat endurance' },
-      { slug: 'pete-sandoval', name: 'Pete Sandoval', reason: 'Sabian AAX Raw Bell Dry Ride — pioneer of the gravity blast technique' },
       { slug: 'derek-roddy', name: 'Derek Roddy', reason: 'Meinl Byzance Raw Bell Dark Ride — one-footed blast durability' }
     ],
     relatedComparisons: [],
@@ -37402,10 +37384,6 @@ Hoglan's longevity on this exact setup is itself evidence that the AAX Ride surv
         answer: "George Kollias of Nile plays a 21\" Zildjian A Custom Mega Bell Ride, relying on its oversized bell for piercing accents that cut through Nile's dense technical death metal while sustaining blast beats past 240 BPM."
       },
       {
-        question: "What ride cymbal does Pete Sandoval use?",
-        answer: "Pete Sandoval of Morbid Angel plays a 22\" Sabian AAX Raw Bell Dry Ride, chosen for its dry, controlled response and durability under his pioneering gravity-blast technique."
-      },
-      {
         question: "What ride cymbal does Derek Roddy use?",
         answer: "Derek Roddy of Hate Eternal and Nile currently plays a 22\" Meinl Byzance Raw Bell Dark Ride, a shift from his earlier Sabian and Paiste endorsements that reflects his search for maximum long-term touring durability under one-footed blast technique."
       },
@@ -37415,14 +37393,14 @@ Hoglan's longevity on this exact setup is itself evidence that the AAX Ride surv
       },
       {
         question: "Why do extreme metal drummers need more durable ride cymbals than other metal genres?",
-        answer: "Extreme metal's sustained blast beats — often at 200-280 BPM for entire songs — put far more cumulative stress on a ride than groove or thrash metal's more moderate tempos. Techniques like Pete Sandoval's gravity blast and Derek Roddy's one-footed blast concentrate enormous repeated force, causing standard-construction rides to lose their voicing or develop keyholing prematurely."
+        answer: "Extreme metal's sustained blast beats — often at 200-280 BPM for entire songs — put far more cumulative stress on a ride than groove or thrash metal's more moderate tempos. Techniques like gravity blasting and Derek Roddy's one-footed blast concentrate enormous repeated force, causing standard-construction rides to lose their voicing or develop keyholing prematurely."
       }
     ],
 
     // Conclusion
     conclusion: {
       title: "Build a Ride Setup That Survives the Blast Beat",
-      content: `Extreme metal's ride philosophy comes down to one core idea: durability comes first, tone second. Whether you build around George Kollias's bright, bell-forward Mega Bell Ride, Pete Sandoval's dry, proven Sabian AAX, or Derek Roddy's hand-hammered Meinl Byzance Raw Bell Dark, the right extreme metal ride needs to sound the same on the last blast beat of a set as it did on the first.
+      content: `Extreme metal's ride philosophy comes down to one core idea: durability comes first, tone second. Whether you build around George Kollias's bright, bell-forward Mega Bell Ride or Derek Roddy's hand-hammered Meinl Byzance Raw Bell Dark, the right extreme metal ride needs to sound the same on the last blast beat of a set as it did on the first.
 
 Start with one durable, fast-attack ride in the 21"-22" range, and prioritize construction quality over tonal complexity until you know your kit can survive a full extreme metal set night after night.
 
@@ -38703,7 +38681,6 @@ Start with a 20"-22" raw-toned pro ride, and step up to an oversized Mega Power 
       'ride cymbal for death metal drumming',
       'george kollias ride cymbal',
       'flo mounier ride cymbal',
-      'pete sandoval ride cymbal',
       'gene hoglan ride cymbal',
       'zildjian a custom mega bell ride death metal',
       'sabian raw bell dry ride death metal',
@@ -38734,7 +38711,7 @@ Start with a 20"-22" raw-toned pro ride, and step up to an oversized Mega Power 
       title: "Why Death Metal Rides Need Control at Extreme Speed",
       content: `Death metal places extreme demands on a ride cymbal that most other genres simply don't. At 220-280 BPM blast beats, a ride has to respond instantly and stay articulate against a dense, downtuned guitar wall without washing into a shapeless blur — and via its bell, cut through that same wall the instant a fill or transition needs extra punch.
 
-George Kollias (Nile) rides a 21" Zildjian A Custom Mega Bell Ride, relying on its oversized bell for the piercing accents that cut through Nile's densely layered technical death metal even while sustaining blast beats past 240 BPM. Flo Mounier (Cryptopsy) and other technical death metal drummers favor the 21" Sabian HHX Raw Bell Dry Ride for its dry, controlled stick definition — critical at Mounier's extreme 270 BPM tempos where clarity can't be sacrificed for wash. Gene Hoglan — "The Atomic Clock" — has ridden a 22" Sabian AAX Ride across Death, Testament, and Dethklok for over two decades, proving a single versatile ride can cover technical death metal, thrash, and satirical extremity alike. Pete Sandoval (Morbid Angel) built his pioneering hyper-blast technique around Zildjian's crisp, articulate ride response, favoring clarity over wash at extreme tempo.
+George Kollias (Nile) rides a 21" Zildjian A Custom Mega Bell Ride, relying on its oversized bell for the piercing accents that cut through Nile's densely layered technical death metal even while sustaining blast beats past 240 BPM. Flo Mounier (Cryptopsy) and other technical death metal drummers favor the 21" Sabian HHX Raw Bell Dry Ride for its dry, controlled stick definition — critical at Mounier's extreme 270 BPM tempos where clarity can't be sacrificed for wash. Gene Hoglan — "The Atomic Clock" — has ridden a 22" Sabian AAX Ride across Death, Testament, and Dethklok for over two decades, proving a single versatile ride can cover technical death metal, thrash, and satirical extremity alike.
 
 This guide breaks down what actually makes a ride work for death metal — bell size, dry control, and durability under extreme blast beat abuse — and recommends specific models across every budget, from a first upgrade off a stock cymbal pack to the exact cymbals death metal's most demanding drummers ride night after night.`,
       keyPoints: [
@@ -39075,7 +39052,6 @@ The K Custom Dark Ride's traditional dark finish sits well under distorted guita
     relatedDrummers: [
       { slug: 'george-kollias', name: 'George Kollias', reason: '21" Zildjian A Custom Mega Bell Ride for technical death metal' },
       { slug: 'flo-mounier', name: 'Flo Mounier', reason: '21" Sabian HHX Raw Bell Dry Ride for Cryptopsy at 270 BPM' },
-      { slug: 'pete-sandoval', name: 'Pete Sandoval', reason: 'Zildjian articulate ride response — Morbid Angel hyper-blast pioneer' },
       { slug: 'gene-hoglan', name: 'Gene Hoglan', reason: '22" Sabian AAX Ride across 20+ bands' }
     ],
 
@@ -44601,13 +44577,12 @@ Start with one raw, trashy crash in the 17"-19" range, and layer a second voicin
     // SEO metadata
     title: "Best Crash Cymbals for Death Metal: 2026 Ultimate Guide",
     metaTitle: "Best Crash Cymbals for Death Metal in 2026 | MetalForge Expert Guide",
-    description: "Discover the best crash cymbals for death metal drumming. Expert recommendations on heavy, dark-toned crashes built to cut through blast-beat-dense mixes, featuring the exact crashes used by George Kollias, Flo Mounier, and Pete Sandoval.",
+    description: "Discover the best crash cymbals for death metal drumming. Expert recommendations on heavy, dark-toned crashes built to cut through blast-beat-dense mixes, featuring the exact crashes used by George Kollias and Flo Mounier.",
     seoKeywords: [
       'best crash cymbal for death metal',
       'crash cymbal for death metal drumming',
       'george kollias crash cymbal',
       'flo mounier crash cymbal',
-      'pete sandoval crash cymbal',
       'zildjian k custom dark crash death metal',
       'sabian aax hhx crash death metal',
       'dark crash cymbal for blast beats',
@@ -44638,7 +44613,7 @@ Start with one raw, trashy crash in the 17"-19" range, and layer a second voicin
       title: "Why Death Metal Crashes Need Weight, Darkness, and Speed",
       content: `Death metal places extreme demands on a crash cymbal that few other genres match. At 220-280 BPM blast beats, a crash has to respond instantly, carry enough dark, heavy tone to cut through down-tuned, distorted guitar walls, and decay fast enough to stay out of the way of the next accent — all while surviving hours of daily punishing practice.
 
-George Kollias of Nile has made his 17" and 18" Zildjian K Custom Dark crashes as recognizable as his inhuman blast beat speed — dark, controlled wash that sits perfectly under Nile's technical death metal complexity while cutting cleanly through dense, layered arrangements. Flo Mounier of Cryptopsy uses Sabian AAX/HHX crashes that deliver full-bodied, controlled chaos even at his insane 270 BPM tempos. Pete Sandoval of Morbid Angel built his hyper-blast sound around Zildjian's articulate, dark-voiced response.
+George Kollias of Nile has made his 17" and 18" Zildjian K Custom Dark crashes as recognizable as his inhuman blast beat speed — dark, controlled wash that sits perfectly under Nile's technical death metal complexity while cutting cleanly through dense, layered arrangements. Flo Mounier of Cryptopsy uses Sabian AAX/HHX crashes that deliver full-bodied, controlled chaos even at his insane 270 BPM tempos.
 
 This guide breaks down what actually makes a crash work for death metal — darkness, weight, and speed — and recommends specific models across every budget, from a first dark-toned crash to the exact cymbals death metal's most demanding drummers play.`,
       keyPoints: [
@@ -44779,11 +44754,10 @@ The AAX/HHX B20 alloy gives crashes bright, cutting body and projection at compa
           priceRange: "€190-240",
           tier: "pro",
           driveType: "B20 Bronze, Brilliant",
-          description: `Pete Sandoval of Morbid Angel built his hyper-blast sound around Zildjian's articulate crash response, running 17" and 18" A Custom Crashes for a brighter, more cutting attack than the K Custom Dark/Sabian AAX-HHX approach favors. The brilliant finish gives fast, defined response essential for the precise accent work required in Morbid Angel's technical death metal.
+          description: `The Zildjian A Custom Crash runs 17" and 18" sizes for a brighter, more cutting attack than the K Custom Dark/Sabian AAX-HHX approach favors. The brilliant finish gives fast, defined response essential for precise technical accent work.
 
-Sandoval's crash choice proves that death metal's dark-crash tradition isn't the only viable path — a brighter, more articulate voice cuts through just as effectively when speed and precision matter more than pure darkness.`,
+This crash proves that death metal's dark-crash tradition isn't the only viable path — a brighter, more articulate voice cuts through just as effectively when speed and precision matter more than pure darkness.`,
           pros: [
-            "Pete Sandoval's proven Morbid Angel setup — hyper-blast articulation pioneer",
             "Brighter, more cutting attack than the genre's dark-crash norm",
             "Fast, defined response for precise technical accent work",
             "B20 bronze construction built for professional touring use"
@@ -44800,9 +44774,7 @@ Sandoval's crash choice proves that death metal's dark-crash tradition isn't the
             weight: "Medium",
             decay: "Fast, articulate"
           },
-          usedBy: [
-            { name: "Pete Sandoval", band: "Morbid Angel", note: "17\" & 18\" A Custom Crashes — hyper-blast articulation" }
-          ],
+          usedBy: [],
           verdict: "Best brighter alternative for death metal — cutting articulation instead of dark wash.",
           rating: 4.5,
           affiliateLink: "https://www.thomann.de/intl/zildjian_a_custom_crash_18_sandoval.htm?partner_id=metalforge"
@@ -44934,7 +44906,7 @@ For death metal specifically, the dark finish and complex overtones sit well und
 - Full-bodied character that commands attention
 - Best for: Brutal/old-school death metal, studio recordings
 
-**Zildjian A Custom (Pete Sandoval):**
+**Zildjian A Custom:**
 - Brighter, more articulate cutting attack
 - Fast, defined response for precision accent work
 - Best for: Drummers prioritizing articulation over darkness
@@ -44966,7 +44938,7 @@ For death metal specifically, the dark finish and complex overtones sit well und
         {
           category: "Best for Articulation",
           pedal: "Zildjian A Custom Crash",
-          reason: "Pete Sandoval's choice — brighter, cutting attack for precise hyper-blast accents."
+          reason: "Brighter, cutting attack for precise, high-speed accent work."
         },
         {
           category: "Best Budget",
@@ -44985,15 +44957,13 @@ For death metal specifically, the dark finish and complex overtones sit well und
     ],
     relatedDrummers: [
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Zildjian K Custom Dark Crash — fastest feet in death metal' },
-      { slug: 'flo-mounier', name: 'Flo Mounier', reason: 'Sabian AAX/HHX Crash — controlled chaos at 270 BPM' },
-      { slug: 'pete-sandoval', name: 'Pete Sandoval', reason: 'Zildjian A Custom Crash — hyper-blast articulation pioneer' }
+      { slug: 'flo-mounier', name: 'Flo Mounier', reason: 'Sabian AAX/HHX Crash — controlled chaos at 270 BPM' }
     ],
 
     // Featured drummers (issue template)
     featuredDrummers: [
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Zildjian K Custom Dark Crash for extreme cutting power at 280 BPM' },
-      { slug: 'flo-mounier', name: 'Flo Mounier', reason: 'Sabian AAX/HHX Crash — controlled chaos at 270 BPM' },
-      { slug: 'pete-sandoval', name: 'Pete Sandoval', reason: 'Zildjian A Custom Crash for hyper-blast articulation' }
+      { slug: 'flo-mounier', name: 'Flo Mounier', reason: 'Sabian AAX/HHX Crash — controlled chaos at 270 BPM' }
     ],
     relatedComparisons: [],
 
@@ -45008,12 +44978,8 @@ For death metal specifically, the dark finish and complex overtones sit well und
         answer: "Flo Mounier of Cryptopsy uses 16\" and 18\" Sabian AAX/HHX Crashes, an endorsement since 2012. The full-bodied, powerful crash character delivers controlled chaos even at Mounier's extreme 270 BPM tempos, providing the dramatic accent impact that defines Cryptopsy's brutal technical death metal sound."
       },
       {
-        question: "What crash cymbal does Pete Sandoval use?",
-        answer: "Pete Sandoval of Morbid Angel runs 17\" and 18\" Zildjian A Custom Crashes, a brighter, more articulate attack than the genre's dark-crash norm, chosen for the fast, defined response his hyper-blast technical death metal demands."
-      },
-      {
         question: "Are dark crash cymbals better for death metal?",
-        answer: "Generally yes. Dark crashes with controlled wash — like George Kollias's Zildjian K Custom Dark or Flo Mounier's Sabian AAX/HHX — sit better under down-tuned guitars and complex rhythmic patterns at extreme speeds. Bright, brilliant-finish crashes like Pete Sandoval's Zildjian A Custom work too, but require prioritizing articulation over pure darkness."
+        answer: "Generally yes. Dark crashes with controlled wash — like George Kollias's Zildjian K Custom Dark or Flo Mounier's Sabian AAX/HHX — sit better under down-tuned guitars and complex rhythmic patterns at extreme speeds. Bright, brilliant-finish crashes like the Zildjian A Custom work too, but require prioritizing articulation over pure darkness."
       },
       {
         question: "What size crash is best for death metal?",
@@ -45024,7 +44990,7 @@ For death metal specifically, the dark finish and complex overtones sit well und
     // Conclusion
     conclusion: {
       title: "Choose Your Death Metal Crash Weapon",
-      content: `Death metal crash selection comes down to one question: do you want darkness and control (Zildjian K Custom Dark), power and drama (Sabian AAX/HHX), or brightness and articulation (Zildjian A Custom)? All three approaches are proven at the highest levels of the genre — George Kollias, Flo Mounier, and Pete Sandoval represent different but equally valid philosophies.
+      content: `Death metal crash selection comes down to one question: do you want darkness and control (Zildjian K Custom Dark), power and drama (Sabian AAX/HHX), or brightness and articulation (Zildjian A Custom)? All three approaches are proven at the highest levels of the genre — George Kollias and Flo Mounier represent different but equally valid philosophies.
 
 Either way, invest in B20 or CuSn8 bronze. The difference between pro-grade bronze and budget alloys is dramatic under the extreme conditions of death metal playing. A quality dark crash will outlast and outperform generations of cheap cymbals while sounding dramatically better in every context.
 
@@ -45896,12 +45862,11 @@ Start with one dark, heavy crash in the 18"-19" range, and add a second voicing 
     // SEO metadata
     title: "Best Crash Cymbals for Extreme Metal: 2026 Ultimate Guide",
     metaTitle: "Best Crash Cymbals for Extreme Metal in 2026 | MetalForge Expert Guide",
-    description: "Discover the best crash cymbals for extreme metal drumming. Expert recommendations on durable, fast-attack crashes built to survive sustained blast beat abuse, featuring the exact crashes played by George Kollias, Pete Sandoval, Derek Roddy, and Gene Hoglan.",
+    description: "Discover the best crash cymbals for extreme metal drumming. Expert recommendations on durable, fast-attack crashes built to survive sustained blast beat abuse, featuring the exact crashes played by George Kollias, Derek Roddy, and Gene Hoglan.",
     seoKeywords: [
       'best crash cymbal for extreme metal',
       'crash cymbal for blast beats',
       'george kollias crash cymbal',
-      'pete sandoval crash cymbal',
       'derek roddy crash cymbal',
       'gene hoglan crash cymbal',
       'zildjian k custom dark crash extreme metal',
@@ -45933,7 +45898,7 @@ Start with one dark, heavy crash in the 18"-19" range, and add a second voicing 
       title: "Why Extreme Metal Crashes Have to Survive Before They Have to Sound Good",
       content: `Extreme metal — death metal, technical death metal, and the grindcore-adjacent brutality that surrounds them — places durability demands on a crash cymbal that few other genres match. At 200-280 BPM sustained blast beats, a crash gets struck thousands of times a set, night after touring night, and has to keep responding accurately and sounding consistent long after ordinary cymbals would develop keyholing or lose their voice.
 
-George Kollias of Nile runs Zildjian K Custom Dark Crashes in the 17"-19" range, over-hammered for a quick, bright attack and extra-fast decay that keeps pace with blast beats past 240 BPM. Pete Sandoval of Morbid Angel built his gravity-blast sound around Sabian AAX Stage and Studio Crashes in the 16"-18" range, chosen for their durability under his uniquely punishing technique. Derek Roddy of Hate Eternal and Nile plays Meinl Byzance Brilliant Heavy Hammered Crashes, a switch from his earlier Sabian and Paiste setups that gives his one-footed blast technique a hand-hammered surface built to hold up over time. Gene Hoglan of Death and Testament runs an 18" Sabian AAX X-Plosion Crash, prized for the explosive, immediate punch it delivers under his metronomic "Atomic Clock" precision.
+George Kollias of Nile runs Zildjian K Custom Dark Crashes in the 17"-19" range, over-hammered for a quick, bright attack and extra-fast decay that keeps pace with blast beats past 240 BPM. Derek Roddy of Hate Eternal and Nile plays Meinl Byzance Brilliant Heavy Hammered Crashes, a switch from his earlier Sabian and Paiste setups that gives his one-footed blast technique a hand-hammered surface built to hold up over time. Gene Hoglan of Death and Testament runs an 18" Sabian AAX X-Plosion Crash, prized for the explosive, immediate punch it delivers under his metronomic "Atomic Clock" precision.
 
 This guide breaks down what actually makes a crash survive extreme metal's demands — durability, fast attack, and consistent response under sustained abuse — and recommends specific models across every budget, from a first touring-durable crash to the exact cymbals extreme metal's most demanding drummers play.`,
       keyPoints: [
@@ -45963,7 +45928,7 @@ This guide breaks down what actually makes a crash survive extreme metal's deman
         {
           name: "Consistency Under Repeated Force",
           icon: "🎯",
-          description: "Pete Sandoval's gravity blast technique concentrates enormous repeated force on a small area of the cymbal. Sabian AAX's durable B20 construction holds its voicing consistently rather than degrading after heavy touring use.",
+          description: "Techniques like gravity blasting concentrate enormous repeated force on a small area of the cymbal. Sabian AAX's durable B20 construction holds its voicing consistently rather than degrading after heavy touring use.",
           recommendation: "Cymbals proven under extreme, repeated-force techniques like gravity blasting"
         },
         {
@@ -45975,7 +45940,7 @@ This guide breaks down what actually makes a crash survive extreme metal's deman
         {
           name: "Crash Size and Response",
           icon: "📏",
-          description: "16\"-19\" covers the extreme metal crash range. Sandoval favors 16\"-18\" for the fastest response, while Kollias runs up to 19\" for added body without sacrificing speed.",
+          description: "16\"-19\" covers the extreme metal crash range. Smaller sizes favor the fastest response, while Kollias runs up to 19\" for added body without sacrificing speed.",
           recommendation: "16\"-19\" crashes, sized toward the smaller end for maximum speed"
         },
         {
@@ -46037,11 +46002,10 @@ Kollias's crash choice proves that durability and speed aren't mutually exclusiv
           priceRange: "€150-210",
           tier: "pro",
           driveType: "B20 Bronze",
-          description: `Pete Sandoval of Morbid Angel plays Sabian AAX Stage and Studio Crashes in the 16"-18" range, chosen for their durability under his uniquely punishing gravity-blast technique — a method that hammers a batter head, and by extension a crash, at a rate few manufacturers design for.
+          description: `The Sabian AAX Stage and Studio Crash in the 16"-18" range is built for durability under uniquely punishing gravity-blast technique — a method that hammers a batter head, and by extension a crash, at a rate few manufacturers design for.
 
-Sandoval's decades of touring on this setup are the strongest evidence available that Sabian AAX's B20 construction genuinely survives extreme metal's most demanding playing style.`,
+Sabian AAX's B20 construction is built to survive the repeated, high-force striking that extreme metal's most demanding playing styles put a crash through.`,
           pros: [
-            "Pete Sandoval's proven Morbid Angel setup — pioneer of the gravity blast technique",
             "Durable B20 construction holds up under repeated, high-force striking",
             "Smaller 16\"-18\" sizes respond fast enough for gravity-blast speed",
             "Strong mid-range value relative to signature-tier alternatives"
@@ -46058,9 +46022,7 @@ Sandoval's decades of touring on this setup are the strongest evidence available
             weight: "Medium",
             decay: "Fast, cutting"
           },
-          usedBy: [
-            { name: "Pete Sandoval", band: "Morbid Angel", note: "16\" & 18\" AAX Stage/Studio Crashes for gravity-blast durability" }
-          ],
+          usedBy: [],
           verdict: "Best proven durability under the most extreme repeated-force blast techniques.",
           rating: 4.6,
           affiliateLink: "https://www.thomann.de/intl/sabian_aax_stage_crash_18_sandoval.htm?partner_id=metalforge"
@@ -46154,7 +46116,7 @@ Hoglan's longevity on this exact setup — across Death, Testament, and Dethklok
           priceRange: "€45-65",
           tier: "budget",
           driveType: "Brass",
-          description: "Carries the same brand lineage as Pete Sandoval's and Gene Hoglan's professional AAX setups at a fraction of the price, giving developing extreme metal drummers a real starting point for building fast-attack crash technique.",
+          description: "Carries the same brand lineage as Gene Hoglan's professional AAX setup at a fraction of the price, giving developing extreme metal drummers a real starting point for building fast-attack crash technique.",
           pros: [
             "Same Sabian brand lineage as extreme metal's proven AAX setups",
             "Affordable, widely available entry point",
@@ -46202,7 +46164,7 @@ Hoglan's longevity on this exact setup — across Death, Testament, and Dethklok
 - Dark, controlled voicing for technical death metal's dense arrangements
 - Best for: Sustained 240+ BPM blast beats in technical death metal
 
-**Sabian AAX (Pete Sandoval, Gene Hoglan):**
+**Sabian AAX (Gene Hoglan):**
 - Durable, mid-range priced B20 bronze proven across decades of touring
 - X-Plosion crash delivers explosive, immediate punch for precision playing
 - Best for: Gravity-blast and metronomically precise technique alike
@@ -46212,7 +46174,7 @@ Hoglan's longevity on this exact setup — across Death, Testament, and Dethklok
 - Complex, dark overtones cut through dense, technical mixes
 - Best for: Drummers who've cycled through other brands and prioritize durability above all
 
-**Our Recommendation:** Start with a Sabian SBR or Zildjian ZBT crash if you're building extreme metal technique on a budget. Choose George Kollias's K Custom Dark for maximum speed at the highest tempos, Pete Sandoval's or Gene Hoglan's Sabian AAX for proven mid-range durability, or Derek Roddy's Meinl Byzance Brilliant Heavy Hammered if long-term touring durability is your top priority.`,
+**Our Recommendation:** Start with a Sabian SBR or Zildjian ZBT crash if you're building extreme metal technique on a budget. Choose George Kollias's K Custom Dark for maximum speed at the highest tempos, Gene Hoglan's Sabian AAX for proven mid-range durability, or Derek Roddy's Meinl Byzance Brilliant Heavy Hammered if long-term touring durability is your top priority.`,
       comparisonTable: [
         { feature: "Attack Speed", directDrive: "⭐⭐⭐⭐⭐", chainDrive: "⭐⭐⭐⭐" },
         { feature: "Touring Durability", directDrive: "⭐⭐⭐⭐", chainDrive: "⭐⭐⭐⭐⭐" },
@@ -46233,7 +46195,7 @@ Hoglan's longevity on this exact setup — across Death, Testament, and Dethklok
         {
           category: "Best for Gravity-Blast Durability",
           pedal: "Sabian AAX Stage/Studio Crash",
-          reason: "Pete Sandoval's proven Morbid Angel setup — durable under the most demanding repeated-force technique."
+          reason: "Durable under the most demanding repeated-force techniques like gravity blasting."
         },
         {
           category: "Best for Long-Term Touring",
@@ -46257,7 +46219,6 @@ Hoglan's longevity on this exact setup — across Death, Testament, and Dethklok
     ],
     relatedDrummers: [
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Zildjian K Custom Dark Crash — Nile\'s 240+ BPM blast beat endurance' },
-      { slug: 'pete-sandoval', name: 'Pete Sandoval', reason: 'Sabian AAX Stage/Studio Crash — pioneer of the gravity blast technique' },
       { slug: 'derek-roddy', name: 'Derek Roddy', reason: 'Meinl Byzance Brilliant Heavy Hammered Crash — one-footed blast durability' },
       { slug: 'gene-hoglan', name: 'Gene Hoglan', reason: 'Sabian AAX X-Plosion Crash — The Atomic Clock\'s precision punch' }
     ],
@@ -46265,7 +46226,6 @@ Hoglan's longevity on this exact setup — across Death, Testament, and Dethklok
     // Featured drummers (issue template)
     featuredDrummers: [
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Zildjian K Custom Dark Crash — Nile\'s 240+ BPM blast beat endurance' },
-      { slug: 'pete-sandoval', name: 'Pete Sandoval', reason: 'Sabian AAX Stage/Studio Crash — pioneer of the gravity blast technique' },
       { slug: 'derek-roddy', name: 'Derek Roddy', reason: 'Meinl Byzance Brilliant Heavy Hammered Crash — one-footed blast durability' }
     ],
     relatedComparisons: [],
@@ -46277,10 +46237,6 @@ Hoglan's longevity on this exact setup — across Death, Testament, and Dethklok
         answer: "George Kollias of Nile plays 17\" and 19\" Zildjian K Custom Dark Crashes, using the line's over-hammering technique for a quick, bright attack and extra-fast decay that sustains blast beats past 240 BPM."
       },
       {
-        question: "What crash cymbal does Pete Sandoval use?",
-        answer: "Pete Sandoval of Morbid Angel plays Sabian AAX Stage and Studio Crashes in the 16\"-18\" range, chosen for their durability under his gravity-blast technique."
-      },
-      {
         question: "What crash cymbal does Derek Roddy use?",
         answer: "Derek Roddy of Hate Eternal and Nile currently plays Meinl Byzance Brilliant Heavy Hammered Crashes, a shift from his earlier Sabian and Paiste endorsements that reflects his search for maximum long-term touring durability under one-footed blast technique."
       },
@@ -46290,14 +46246,14 @@ Hoglan's longevity on this exact setup — across Death, Testament, and Dethklok
       },
       {
         question: "Why do extreme metal drummers need more durable crash cymbals than other metal genres?",
-        answer: "Extreme metal's sustained blast beats — often at 200-280 BPM for entire songs — put far more cumulative stress on a crash than groove or thrash metal's more moderate tempos. Techniques like Pete Sandoval's gravity blast and Derek Roddy's one-footed blast concentrate enormous repeated force, causing standard-construction crashes to lose their voicing or develop keyholing prematurely."
+        answer: "Extreme metal's sustained blast beats — often at 200-280 BPM for entire songs — put far more cumulative stress on a crash than groove or thrash metal's more moderate tempos. Techniques like gravity blasting and Derek Roddy's one-footed blast concentrate enormous repeated force, causing standard-construction crashes to lose their voicing or develop keyholing prematurely."
       }
     ],
 
     // Conclusion
     conclusion: {
       title: "Build a Crash Setup That Survives the Blast Beat",
-      content: `Extreme metal's crash philosophy comes down to one core idea: durability comes first, tone second. Whether you build around George Kollias's fast, over-hammered K Custom Dark, Pete Sandoval's proven, durable Sabian AAX, or Derek Roddy's hand-hammered Meinl Byzance Brilliant Heavy Hammered, the right extreme metal crash needs to sound the same on the last blast beat of a set as it did on the first.
+      content: `Extreme metal's crash philosophy comes down to one core idea: durability comes first, tone second. Whether you build around George Kollias's fast, over-hammered K Custom Dark or Derek Roddy's hand-hammered Meinl Byzance Brilliant Heavy Hammered, the right extreme metal crash needs to sound the same on the last blast beat of a set as it did on the first.
 
 Start with one durable, fast-attack crash in the 16"-19" range, and prioritize construction quality over tonal complexity until you know your kit can survive a full extreme metal set night after night.
 
@@ -72514,13 +72470,12 @@ Start with a single 10" splash mounted close to your snare, and consider a secon
     // SEO metadata
     title: "Best Splash Cymbals for Death Metal: 2026 Ultimate Guide",
     metaTitle: "Best Splash Cymbals for Death Metal in 2026 | MetalForge Expert Guide",
-    description: "Discover the best splash cymbals for death metal drumming. Expert recommendations on dark, fast-decaying accent cymbals that cut through blast-beat-dense mixes, featuring the splash setups used by George Kollias, Flo Mounier, and Pete Sandoval.",
+    description: "Discover the best splash cymbals for death metal drumming. Expert recommendations on dark, fast-decaying accent cymbals that cut through blast-beat-dense mixes, featuring the splash setups used by George Kollias and Flo Mounier.",
     seoKeywords: [
       'best splash cymbal for death metal',
       'splash cymbal for death metal drumming',
       'george kollias splash cymbal',
       'flo mounier splash cymbal',
-      'pete sandoval splash cymbal',
       'zildjian k custom dark splash',
       'sabian aax hhx splash death metal',
       'splash cymbal for blast beats',
@@ -72551,14 +72506,13 @@ Start with a single 10" splash mounted close to your snare, and consider a secon
       title: "A Small Cymbal for Death Metal's Biggest Moments of Contrast",
       content: `Death metal's cymbal setups are built around survival first — thick, dark-toned crashes and rides that can take thousands of blast-beat strikes a set without keyholing. A splash cymbal solves a different problem entirely: at 8" to 12", it decays almost instantly rather than sustaining, giving a drummer a sharp, isolated accent for the rare moment a blast-beat-driven arrangement drops into a tempo change, a breakdown, or a single punctuated stab that a full-size crash would simply wash over.
 
-George Kollias of Nile pairs his 17" and 18" Zildjian K Custom Dark crashes with a matching splash within the same K Custom family, giving Nile's technical, blast-beat-dense arrangements a controlled, dark-toned accent for the rare open space in his otherwise relentless playing. Flo Mounier of Cryptopsy runs a Sabian AAX/HHX splash alongside his full-bodied AAX/HHX crash setup, using the same bright, cutting B20 bronze voicing at accent scale that lets his 270 BPM material punch through. Pete Sandoval of Morbid Angel favors the same Sabian AAX family that defines Gene Hoglan's and his own hyper-blast crash sound, extending it down to a splash for the same explosive, articulate character in miniature.
+George Kollias of Nile pairs his 17" and 18" Zildjian K Custom Dark crashes with a matching splash within the same K Custom family, giving Nile's technical, blast-beat-dense arrangements a controlled, dark-toned accent for the rare open space in his otherwise relentless playing. Flo Mounier of Cryptopsy runs a Sabian AAX/HHX splash alongside his full-bodied AAX/HHX crash setup, using the same bright, cutting B20 bronze voicing at accent scale that lets his 270 BPM material punch through.
 
 Splash cymbals remain rare in death metal precisely because the genre's relentless tempo leaves little room for a cymbal whose entire purpose is a single isolated hit — most developing death metal drummers build out a crash, ride, and china setup long before considering a splash. But for the tempo breaks, groove sections, and technical fills that do open up space, a splash gives a death metal drummer a tonal option nothing else in a standard setup provides. This guide covers what actually matters when choosing a splash cymbal for death metal — darkness, size, and durability under extreme technique — with specific recommendations across every budget.`,
       keyPoints: [
         "A splash's near-instant decay gives death metal drummers a controlled accent for the rare tempo break or open passage a blast-beat arrangement allows",
         "George Kollias runs a Zildjian K Custom Dark-family splash alongside his 17\"/18\" K Custom Dark crashes for Nile's technical material",
-        "Flo Mounier's Sabian AAX/HHX splash extends the same bright, cutting voicing behind his crash setup down to accent scale",
-        "Pete Sandoval's Sabian AAX-family splash carries the same explosive, articulate character behind Morbid Angel's hyper-blast crash sound"
+        "Flo Mounier's Sabian AAX/HHX splash extends the same bright, cutting voicing behind his crash setup down to accent scale"
       ]
     },
 
@@ -72581,7 +72535,7 @@ Splash cymbals remain rare in death metal precisely because the genre's relentle
         {
           name: "Durability Under Extreme Technique",
           icon: "🛡️",
-          description: "George Kollias's and Pete Sandoval's sustained daily blast-beat practice punishes every cymbal in their setup, splash included. Thick-gauge B20 bronze construction from proven pro lines survives that abuse far better than thinner, lighter-weight splashes.",
+          description: "George Kollias's sustained daily blast-beat practice punishes every cymbal in his setup, splash included. Thick-gauge B20 bronze construction from proven pro lines survives that abuse far better than thinner, lighter-weight splashes.",
           recommendation: "Heavy-gauge B20 bronze construction rated for sustained, high-velocity playing"
         },
         {
@@ -72690,12 +72644,12 @@ Flo Mounier's AAX/HHX splash extends the same explosive, cutting attack behind h
           priceRange: "€100-130",
           tier: "pro",
           driveType: "B20 Bronze, Brilliant Finish",
-          description: `AAX's explosive, immediate attack gives a splash the same articulate punch behind Pete Sandoval's and Gene Hoglan's shared Sabian AAX crash sound, scaled down for isolated accent work.
+          description: `AAX's explosive, immediate attack gives a splash the same articulate punch behind Gene Hoglan's Sabian AAX crash sound, scaled down for isolated accent work.
 
 That explosive character makes it a natural match for death metal drummers already running AAX crashes and hi-hats who want a tonally consistent splash rather than an outlier voice in the setup.`,
           pros: [
             "Explosive, immediate attack consistent with Sabian AAX crashes",
-            "Proven family behind Pete Sandoval's and Gene Hoglan's hyper-blast setups",
+            "Proven family behind Gene Hoglan's hyper-blast setup",
             "Reliable, professional B20 build quality",
             "Bright enough to cut through a dense, distorted mix"
           ],
@@ -72710,9 +72664,7 @@ That explosive character makes it a natural match for death metal drummers alrea
             finish: "Brilliant",
             weight: "Thin"
           },
-          usedBy: [
-            { name: "Pete Sandoval", band: "Morbid Angel", note: "AAX-family splash within his hyper-blast Sabian AAX rig" }
-          ],
+          usedBy: [],
           verdict: "The most explosive, immediate splash here for hyper-blast material.",
           rating: 4.5,
           affiliateLink: "https://www.thomann.de/intl/sabian_aax_splash_10.htm?partner_id=metalforge"
@@ -72837,7 +72789,7 @@ A strong option for death metal drummers who want an even darker, drier accent t
 
 **Bright/Explosive Splashes (Sabian AAX/HHX):**
 - Sharp, immediate attack that punches through even at extreme tempos
-- Favored by drummers like Flo Mounier and Pete Sandoval for maximum cut at hyper-blast speed
+- Favored by drummers like Flo Mounier for maximum cut at hyper-blast speed
 - Best when you need the splash to stand out sharply from a dark, down-tuned mix
 
 **The Truth:** Neither voicing is objectively better — it depends on how dark your existing crash and ride setup already runs and how much cut you need from a single accent hit. Drummers running dark K Custom or Byzance Dark crashes often add a matching dark splash for tonal consistency, while drummers prioritizing raw cut at extreme tempo lean toward AAX/HHX.
@@ -72874,7 +72826,7 @@ A strong option for death metal drummers who want an even darker, drier accent t
         {
           category: "Best for Hyper-Blast Tempo",
           pedal: "Sabian AAX Splash",
-          reason: "The explosive, immediate attack behind Pete Sandoval's and Gene Hoglan's shared AAX crash sound."
+          reason: "The explosive, immediate attack behind Gene Hoglan's AAX crash sound."
         }
       ]
     },
@@ -72887,8 +72839,7 @@ A strong option for death metal drummers who want an even darker, drier accent t
     ],
     relatedDrummers: [
       { slug: 'george-kollias', name: 'George Kollias', reason: 'K Custom Dark-family splash alongside 17"/18" K Custom Dark crashes — Nile\'s technical blast-beat arrangements' },
-      { slug: 'flo-mounier', name: 'Flo Mounier', reason: 'Sabian AAX/HHX splash — Cryptopsy\'s explosive 270 BPM material' },
-      { slug: 'pete-sandoval', name: 'Pete Sandoval', reason: 'Sabian AAX-family splash — Morbid Angel\'s hyper-blast crash sound in miniature' }
+      { slug: 'flo-mounier', name: 'Flo Mounier', reason: 'Sabian AAX/HHX splash — Cryptopsy\'s explosive 270 BPM material' }
     ],
     relatedComparisons: [],
 
@@ -72896,7 +72847,7 @@ A strong option for death metal drummers who want an even darker, drier accent t
     faq: [
       {
         question: "Do death metal drummers actually use splash cymbals?",
-        answer: "Less commonly than crashes, rides, or chinas, but yes — George Kollias (Nile), Flo Mounier (Cryptopsy), and Pete Sandoval (Morbid Angel) all run a splash within their broader cymbal setups for the rare tempo break or open passage a blast-beat arrangement allows."
+        answer: "Less commonly than crashes, rides, or chinas, but yes — George Kollias (Nile) and Flo Mounier (Cryptopsy) both run a splash within their broader cymbal setups for the rare tempo break or open passage a blast-beat arrangement allows."
       },
       {
         question: "What splash cymbal size works best for death metal?",
@@ -72904,7 +72855,7 @@ A strong option for death metal drummers who want an even darker, drier accent t
       },
       {
         question: "Should a death metal splash be dark or bright?",
-        answer: "It depends on your existing crash and ride setup. A dark splash (Zildjian K Custom Hybrid, Meinl Byzance Dark) matches a dark-voiced setup like George Kollias's, while a bright splash (Sabian AAX/HHX) cuts more sharply at extreme tempo, matching Flo Mounier's and Pete Sandoval's crash sound."
+        answer: "It depends on your existing crash and ride setup. A dark splash (Zildjian K Custom Hybrid, Meinl Byzance Dark) matches a dark-voiced setup like George Kollias's, while a bright splash (Sabian AAX/HHX) cuts more sharply at extreme tempo, matching Flo Mounier's crash sound."
       },
       {
         question: "What's the difference between a splash and a crash cymbal?",
@@ -77092,12 +77043,11 @@ Start with one splash matched to how quiet your quietest sections actually get, 
     // SEO metadata
     title: "Best Splash Cymbals for Extreme Metal: 2026 Ultimate Guide",
     metaTitle: "Best Splash Cymbals for Extreme Metal in 2026 | MetalForge Expert Guide",
-    description: "Discover the best splash cymbals for extreme metal drumming. Expert recommendations on durable, fast-decaying accent cymbals built to survive sustained blast beat abuse, with guidance drawn from the crash setups of George Kollias, Pete Sandoval, Derek Roddy, and Gene Hoglan.",
+    description: "Discover the best splash cymbals for extreme metal drumming. Expert recommendations on durable, fast-decaying accent cymbals built to survive sustained blast beat abuse, with guidance drawn from the crash setups of George Kollias, Derek Roddy, and Gene Hoglan.",
     seoKeywords: [
       'best splash cymbal for extreme metal',
       'splash cymbal for blast beats',
       'george kollias splash cymbal',
-      'pete sandoval splash cymbal',
       'derek roddy splash cymbal',
       'gene hoglan splash cymbal',
       'durable splash cymbal extreme metal',
@@ -77129,7 +77079,7 @@ Start with one splash matched to how quiet your quietest sections actually get, 
       title: "Why an Extreme Metal Splash Needs to Survive Before It Needs to Sound Good",
       content: `Extreme metal's sustained, 200-280 BPM blast beats put the same durability demands on a splash cymbal that they put on a crash — even though a splash gets struck far less often. A splash's bright, near-instant decay, typically from an 8" to 12" cymbal, can punctuate a fill or mark a tempo shift between blast sections, but only if it's built from the same durable, professional-tier construction that lets extreme metal's crashes survive a full set night after night.
 
-None of extreme metal's most demanding drummers have a widely documented signature splash rig, so this guide extends what's already established about their crash choices. George Kollias of Nile runs over-hammered Zildjian K Custom Dark Crashes for fast attack and extra-fast decay at 240+ BPM — the exact response profile a splash should match. Pete Sandoval of Morbid Angel built his gravity-blast sound around durable Sabian AAX Crashes. Derek Roddy of Hate Eternal and Nile plays hand-hammered Meinl Byzance Brilliant Heavy Hammered Crashes, chosen specifically for long-term touring durability. Gene Hoglan of Death and Testament runs an explosive Sabian AAX X-Plosion Crash that's carried "The Atomic Clock" through four decades of professional touring.
+None of extreme metal's most demanding drummers have a widely documented signature splash rig, so this guide extends what's already established about their crash choices. George Kollias of Nile runs over-hammered Zildjian K Custom Dark Crashes for fast attack and extra-fast decay at 240+ BPM — the exact response profile a splash should match. Derek Roddy of Hate Eternal and Nile plays hand-hammered Meinl Byzance Brilliant Heavy Hammered Crashes, chosen specifically for long-term touring durability. Gene Hoglan of Death and Testament runs an explosive Sabian AAX X-Plosion Crash that's carried "The Atomic Clock" through four decades of professional touring.
 
 This guide covers what actually matters when adding a splash to an extreme metal setup — durability, fast attack, and fast decay — with specific recommendations across every budget.`,
       keyPoints: [
@@ -77159,7 +77109,7 @@ This guide covers what actually matters when adding a splash to an extreme metal
         {
           name: "Size",
           icon: "📏",
-          description: "Splash cymbals typically range from 8\" to 12\". A smaller 8\"-10\" splash decays fastest, matching the same speed priority behind Pete Sandoval's smaller, faster-responding Sabian AAX crash sizing.",
+          description: "Splash cymbals typically range from 8\" to 12\". A smaller 8\"-10\" splash decays fastest, matching the fastest-responding crash sizing extreme metal's blast-beat tempos demand.",
           recommendation: "8\"-10\" for the fastest possible response, matching extreme metal's blast-beat tempo demands"
         },
         {
@@ -77230,7 +77180,7 @@ Its dark, controlled voicing cuts through Nile's dense, technical arrangements t
           priceRange: "€100-130",
           tier: "pro",
           driveType: "B20 Bronze, Brilliant Finish",
-          description: `The AAX Splash carries the same durable B20 construction behind Pete Sandoval's and Gene Hoglan's Sabian AAX crash setups, chosen for their ability to survive Sandoval's uniquely punishing gravity-blast technique across decades of touring.
+          description: `The AAX Splash carries the same durable B20 construction behind Gene Hoglan's Sabian AAX crash setup, chosen for its ability to survive extreme, repeated-force techniques like gravity blasting across decades of touring.
 
 Its bright, explosive attack matches the same immediate punch that's carried Hoglan's "Atomic Clock" precision through Death, Testament, and Dethklok.`,
           pros: [
@@ -77338,7 +77288,7 @@ Hoglan's longevity on this exact crash voicing is itself evidence the X-Plosion 
           priceRange: "€30-45",
           tier: "budget",
           driveType: "Brass Alloy",
-          description: "Carries the same brand lineage as Pete Sandoval's and Gene Hoglan's professional AAX setups at a fraction of the price, giving developing extreme metal drummers a real starting point for building fast-decay splash technique.",
+          description: "Carries the same brand lineage as Gene Hoglan's professional AAX setup at a fraction of the price, giving developing extreme metal drummers a real starting point for building fast-decay splash technique.",
           pros: [
             "Same Sabian brand lineage as extreme metal's proven AAX setups",
             "Affordable, widely available entry point",
@@ -77406,7 +77356,7 @@ Hoglan's longevity on this exact crash voicing is itself evidence the X-Plosion 
 - Over-hammered for fast attack with a dark, controlled decay
 - Best for: Sustained 240+ BPM blast beats in technical death metal
 
-**Sabian AAX (in the spirit of Pete Sandoval, Gene Hoglan):**
+**Sabian AAX (in the spirit of Gene Hoglan):**
 - Durable, mid-range priced B20 bronze proven across decades of touring in crash form
 - Best for: Gravity-blast and metronomically precise technique alike
 
@@ -77435,7 +77385,7 @@ Hoglan's longevity on this exact crash voicing is itself evidence the X-Plosion 
         {
           category: "Best for Gravity-Blast Durability",
           pedal: "Sabian AAX Splash",
-          reason: "Matches Pete Sandoval's proven Morbid Angel durability under the most demanding repeated-force technique."
+          reason: "Proven durability under the most demanding repeated-force techniques like gravity blasting."
         },
         {
           category: "Best for Long-Term Touring",
@@ -77458,7 +77408,6 @@ Hoglan's longevity on this exact crash voicing is itself evidence the X-Plosion 
     ],
     relatedDrummers: [
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Zildjian K Custom Dark Crash — Nile\'s 240+ BPM blast beat endurance, the standard this guide\'s top splash pick extends' },
-      { slug: 'pete-sandoval', name: 'Pete Sandoval', reason: 'Sabian AAX Stage/Studio Crash — pioneer of the gravity blast technique' },
       { slug: 'derek-roddy', name: 'Derek Roddy', reason: 'Meinl Byzance Brilliant Heavy Hammered Crash — one-footed blast durability' },
       { slug: 'gene-hoglan', name: 'Gene Hoglan', reason: 'Sabian AAX X-Plosion Crash — The Atomic Clock\'s precision punch' }
     ],
@@ -77468,7 +77417,7 @@ Hoglan's longevity on this exact crash voicing is itself evidence the X-Plosion 
     faq: [
       {
         question: "Do extreme metal drummers actually use splash cymbals?",
-        answer: "As an occasional accent for fills and tempo transitions rather than a core voice. No extreme metal drummer has a widely documented signature splash rig, but a splash still needs the same durability George Kollias, Pete Sandoval, Derek Roddy, and Gene Hoglan all demand from their crash setups to survive sustained blast-beat touring."
+        answer: "As an occasional accent for fills and tempo transitions rather than a core voice. No extreme metal drummer has a widely documented signature splash rig, but a splash still needs the same durability George Kollias, Derek Roddy, and Gene Hoglan all demand from their crash setups to survive sustained blast-beat touring."
       },
       {
         question: "What splash cymbal fits George Kollias's crash setup?",
@@ -77480,18 +77429,18 @@ Hoglan's longevity on this exact crash voicing is itself evidence the X-Plosion 
       },
       {
         question: "What size splash cymbal is best for extreme metal?",
-        answer: "8\"-10\" is the fastest-responding range, matching the same speed priority behind Pete Sandoval's smaller, quick-response Sabian AAX crash sizing for gravity-blast technique."
+        answer: "8\"-10\" is the fastest-responding range, matching the same speed priority behind extreme metal's smaller, quick-response crash sizing for gravity-blast technique."
       },
       {
         question: "What's the best budget splash cymbal for extreme metal?",
-        answer: "The Sabian SBR Splash (€30-45) carries the same brand lineage as Pete Sandoval's and Gene Hoglan's professional AAX setups at a fraction of the price, while the Zildjian Planet Z Splash (€35-50) offers a budget path into K Custom Dark-style tone."
+        answer: "The Sabian SBR Splash (€30-45) carries the same brand lineage as Gene Hoglan's professional AAX setup at a fraction of the price, while the Zildjian Planet Z Splash (€35-50) offers a budget path into K Custom Dark-style tone."
       }
     ],
 
     // Conclusion
     conclusion: {
       title: "Build a Splash That Survives the Blast Beat Too",
-      content: `Extreme metal's splash philosophy comes down to the same core idea that governs its crash choices: durability comes first, tone second. Whether you extend George Kollias's fast, over-hammered K Custom Dark, Pete Sandoval's or Gene Hoglan's proven, durable Sabian AAX, or Derek Roddy's hand-hammered Meinl Byzance Brilliant Heavy Hammered into a matching splash, the right accent needs to sound the same on the last blast beat of a set as it did on the first.
+      content: `Extreme metal's splash philosophy comes down to the same core idea that governs its crash choices: durability comes first, tone second. Whether you extend George Kollias's fast, over-hammered K Custom Dark, Gene Hoglan's proven, durable Sabian AAX, or Derek Roddy's hand-hammered Meinl Byzance Brilliant Heavy Hammered into a matching splash, the right accent needs to sound the same on the last blast beat of a set as it did on the first.
 
 Start with one durable, fast-decaying splash in the 8"-10" range, matched to whichever crash family you already run, and prioritize construction quality over tonal complexity until you know your kit can survive a full extreme metal set night after night.
 
@@ -85524,12 +85473,11 @@ Don't overlook the budget tier — Zildjian ZBT and Sabian AAX both provide genu
     // SEO metadata
     title: "Best Hi-Hats for Extreme Metal: 2026 Ultimate Guide",
     metaTitle: "Best Hi-Hats for Extreme Metal 2026 | MetalForge Expert Guide",
-    description: "What hi-hats survive extreme metal's blast beats? Discover what George Kollias, Pete Sandoval, Derek Roddy, and Gene Hoglan actually play — Zildjian K Custom Dark, Sabian AAX, and Meinl Byzance Brilliant Heavy Hammered — from budget to pro, built for 240+ BPM abuse.",
+    description: "What hi-hats survive extreme metal's blast beats? Discover what George Kollias, Derek Roddy, and Gene Hoglan actually play — Zildjian K Custom Dark, Sabian AAX, and Meinl Byzance Brilliant Heavy Hammered — from budget to pro, built for 240+ BPM abuse.",
     seoKeywords: [
       'best hi-hats for extreme metal',
       'extreme metal hi-hats',
       'george kollias hi-hats nile',
-      'pete sandoval hi-hats morbid angel',
       'derek roddy hi-hats hate eternal',
       'gene hoglan hi-hats',
       'zildjian k custom dark hi-hats extreme metal',
@@ -85547,7 +85495,7 @@ Don't overlook the budget tier — Zildjian ZBT and Sabian AAX both provide genu
     // Hero section
     hero: {
       title: "🎩 Best Hi-Hats for Extreme Metal",
-      subtitle: "What George Kollias, Pete Sandoval, Derek Roddy, and Gene Hoglan Actually Play",
+      subtitle: "What George Kollias, Derek Roddy, and Gene Hoglan Actually Play",
       badge: "GEAR GUIDE 2026",
       stats: [
         { value: '4', label: 'Hi-Hats Reviewed' },
@@ -85561,12 +85509,12 @@ Don't overlook the budget tier — Zildjian ZBT and Sabian AAX both provide genu
       title: "What Hi-Hats Survive Extreme Metal's Blast Beats?",
       content: `Extreme metal — death metal, technical death metal, and the grindcore-adjacent brutality surrounding them — puts more sustained abuse on a hi-hat's foot-chick mechanism than almost any other style of drumming. At 200-280 BPM blast beats, the hi-hat gets slammed shut thousands of times a set, and a pair that loses its chick definition or develops keyholing mid-song turns a tight blast pattern into an audible mess.
 
-George Kollias of Nile runs 14" Zildjian K Custom Dark Hi-Hats, chosen for their dark, controlled voicing and quick foot-chick response that keeps pace with his sustained 240+ BPM blast beats. Pete Sandoval of Morbid Angel built his hi-hat sound around Sabian AAX Stage Hi-Hats, the same durable Sabian line that anchors his crash setup, engineered to survive his uniquely punishing gravity-blast technique. Derek Roddy of Hate Eternal and Nile plays Meinl Byzance Brilliant Heavy Hammered Hi-Hats, matching the hand-hammered crash surface he switched to for maximum long-term touring durability under his one-footed blast technique. Gene Hoglan of Death and Testament runs Sabian AAX X-Plosion Hi-Hats, prized for the explosive, immediate chick that matches his metronomic "Atomic Clock" precision.
+George Kollias of Nile runs 14" Zildjian K Custom Dark Hi-Hats, chosen for their dark, controlled voicing and quick foot-chick response that keeps pace with his sustained 240+ BPM blast beats. Derek Roddy of Hate Eternal and Nile plays Meinl Byzance Brilliant Heavy Hammered Hi-Hats, matching the hand-hammered crash surface he switched to for maximum long-term touring durability under his one-footed blast technique. Gene Hoglan of Death and Testament runs Sabian AAX X-Plosion Hi-Hats, prized for the explosive, immediate chick that matches his metronomic "Atomic Clock" precision.
 
 This guide breaks down what actually makes a hi-hat survive extreme metal's demands — foot-chick durability, fast response, and consistent voicing under sustained abuse — and recommends specific models across every budget, from a first touring-durable pair to the exact hi-hats these four drummers play.`,
       keyPoints: [
         "George Kollias's Zildjian K Custom Dark Hi-Hats deliver the dark, controlled voicing and quick chick response his 240+ BPM blasts demand",
-        "Durability comes first — Pete Sandoval and Gene Hoglan both build around Sabian AAX for its ability to survive sustained blast beat abuse",
+        "Durability comes first — Gene Hoglan builds around Sabian AAX for its ability to survive sustained blast beat abuse",
         "Derek Roddy's Meinl Byzance Brilliant Heavy Hammered Hi-Hats show the hand-hammered alternative built for one-footed blast longevity",
         "14\" is the extreme metal standard, prioritizing fast foot-chick response over the extra surface area of larger diameters"
       ]
@@ -85579,13 +85527,13 @@ This guide breaks down what actually makes a hi-hat survive extreme metal's dema
         {
           name: "Durability Under Blast Beat Abuse",
           icon: "🛡️",
-          description: "Extreme metal's sustained 200-280 BPM blast beats put more cumulative stress on a hi-hat's foot-chick mechanism than almost any other genre. George Kollias, Pete Sandoval, and Gene Hoglan all build around lines specifically known for holding their voicing under this kind of repeated abuse.",
+          description: "Extreme metal's sustained 200-280 BPM blast beats put more cumulative stress on a hi-hat's foot-chick mechanism than almost any other genre. George Kollias and Gene Hoglan both build around lines specifically known for holding their voicing under this kind of repeated abuse.",
           recommendation: "Thick B20 bronze construction rated for sustained high-tempo foot work"
         },
         {
           name: "Fast Foot-Chick Response",
           icon: "🦶",
-          description: "A blast beat lives or dies on a tight, immediate foot-chick closure. Zildjian K Custom Dark and Sabian AAX both deliver the fast, defined chick Kollias and Sandoval rely on to keep their blasts locked in at extreme tempos.",
+          description: "A blast beat lives or dies on a tight, immediate foot-chick closure. Zildjian K Custom Dark and Sabian AAX both deliver the fast, defined chick extreme metal drummers rely on to keep their blasts locked in at extreme tempos.",
           recommendation: "Medium-heavy bottom cymbal for a crisp, immediate chick at high tempo"
         },
         {
@@ -85597,7 +85545,7 @@ This guide breaks down what actually makes a hi-hat survive extreme metal's dema
         {
           name: "Diameter",
           icon: "📏",
-          description: "14\" is the extreme metal standard across Kollias, Sandoval, Roddy, and Hoglan — prioritizing quick response over the extra surface area a larger 15\" pair offers, since blast beat foot-chick speed matters more than tonal breadth.",
+          description: "14\" is the extreme metal standard across Kollias, Roddy, and Hoglan — prioritizing quick response over the extra surface area a larger 15\" pair offers, since blast beat foot-chick speed matters more than tonal breadth.",
           recommendation: "14\" for the fastest, most responsive foot-chick work"
         },
         {
@@ -85668,12 +85616,11 @@ Kollias's setup proves that dark, complex voicing and extreme-tempo reliability 
           tier: "mid",
           material: "B20 Bronze",
 
-          description: `Pete Sandoval of Morbid Angel built his hi-hat sound around Sabian AAX Stage Hi-Hats, the same durable Sabian line that anchors his crash setup, chosen specifically for their ability to survive his uniquely punishing gravity-blast technique. The bright, cutting B20 tone stays articulate even as his foot works through relentless blast patterns.
+          description: `The Sabian AAX Stage Hi-Hats are a durable Sabian line chosen specifically for their ability to survive extreme, repeated-force techniques like gravity blasting. The bright, cutting B20 tone stays articulate through relentless blast patterns.
 
-Sandoval's choice reflects a philosophy shared across extreme metal's founding drummers: durability under sustained abuse matters more than tonal complexity when the hi-hat is being slammed shut hundreds of times a minute.`,
+This pair reflects a philosophy shared across extreme metal's founding drummers: durability under sustained abuse matters more than tonal complexity when the hi-hat is being slammed shut hundreds of times a minute.`,
 
           pros: [
-            "Pete Sandoval's proven Morbid Angel setup — pioneer of the gravity blast technique",
             "Bright, cutting B20 tone stays articulate through sustained blast patterns",
             "Proven durability under punishing foot-chick technique",
             "More accessible pricing than premium Zildjian K Custom"
@@ -85690,10 +85637,8 @@ Sandoval's choice reflects a philosophy shared across extreme metal's founding d
             diameter: "14\"",
             series: "AAX Stage"
           },
-          usedBy: [
-            { name: "Pete Sandoval", band: "Morbid Angel", note: "14\" AAX Stage Hi-Hats — gravity blast technique durability" }
-          ],
-          verdict: "Best for drummers who prioritize durability under punishing foot technique. Sandoval's setup has survived decades of extreme metal's most demanding gravity-blast work.",
+          usedBy: [],
+          verdict: "Best for drummers who prioritize durability under punishing foot technique — proven across decades of extreme metal's most demanding gravity-blast work.",
           rating: 4.6,
           affiliateLink: "https://www.thomann.de/intl/sabian_aax_stage_hi_hats.htm?partner_id=metalforge"
         },
@@ -85790,7 +85735,7 @@ The X-Plosion series delivers a faster, more explosive attack than standard AAX 
           priceRange: "€180-260 per pair",
           tier: "mid",
           material: "B20 Bronze",
-          description: "See above. Pete Sandoval's proven, durable choice remains one of the most accessible ways into extreme metal's blast-tested hi-hat sound.",
+          description: "See above. This proven, durable choice remains one of the most accessible ways into extreme metal's blast-tested hi-hat sound.",
           pros: ["Proven durability under punishing foot technique", "Bright, cutting B20 tone", "More accessible than premium K Custom or Byzance lines"],
           cons: ["Less controlled voicing than K Custom Dark"],
           verdict: "Top budget pick for durable, blast-ready extreme metal hi-hats.",
@@ -85824,7 +85769,7 @@ The X-Plosion series delivers a faster, more explosive attack than standard AAX 
 - Hand-hammered construction distributes stress for long-term durability
 - The technical death metal benchmark
 
-**Bright & Explosive (Sabian AAX Stage — Pete Sandoval; Sabian AAX X-Plosion — Gene Hoglan):**
+**Bright & Explosive (Sabian AAX Stage; Sabian AAX X-Plosion — Gene Hoglan):**
 - Fast, cutting attack that stays articulate under punishing foot technique
 - Proven durability across decades of touring abuse
 - More accessible pricing than premium hand-hammered lines
@@ -85850,7 +85795,7 @@ The X-Plosion series delivers a faster, more explosive attack than standard AAX 
         {
           category: "Best for Durability",
           pedal: "Sabian AAX Stage Hi-Hats",
-          reason: "Pete Sandoval's choice, proven under decades of gravity-blast abuse."
+          reason: "Proven under decades of gravity-blast abuse."
         },
         {
           category: "Best Hand-Hammered",
@@ -85874,7 +85819,6 @@ The X-Plosion series delivers a faster, more explosive attack than standard AAX 
     ],
     relatedDrummers: [
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Zildjian K Custom Dark Hi-Hats — Nile\'s 240+ BPM blast beat precision' },
-      { slug: 'pete-sandoval', name: 'Pete Sandoval', reason: 'Sabian AAX Stage Hi-Hats — pioneer of the gravity blast technique' },
       { slug: 'derek-roddy', name: 'Derek Roddy', reason: 'Meinl Byzance Brilliant Heavy Hammered Hi-Hats — one-footed blast durability' },
       { slug: 'gene-hoglan', name: 'Gene Hoglan', reason: 'Sabian AAX X-Plosion Hi-Hats — The Atomic Clock\'s precision punch' }
     ],
@@ -85882,7 +85826,6 @@ The X-Plosion series delivers a faster, more explosive attack than standard AAX 
     // Featured drummers (issue template)
     featuredDrummers: [
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Zildjian K Custom Dark Hi-Hats — Nile\'s 240+ BPM blast beat precision' },
-      { slug: 'pete-sandoval', name: 'Pete Sandoval', reason: 'Sabian AAX Stage Hi-Hats — pioneer of the gravity blast technique' },
       { slug: 'derek-roddy', name: 'Derek Roddy', reason: 'Meinl Byzance Brilliant Heavy Hammered Hi-Hats — one-footed blast durability' }
     ],
     relatedComparisons: [],
@@ -85891,7 +85834,7 @@ The X-Plosion series delivers a faster, more explosive attack than standard AAX 
     faq: [
       {
         question: "What hi-hats are used in extreme metal?",
-        answer: "George Kollias of Nile plays 14\" Zildjian K Custom Dark Hi-Hats for controlled, low-sustain response at 240+ BPM. Pete Sandoval of Morbid Angel and Gene Hoglan of Death/Testament both play Sabian AAX (Stage and X-Plosion respectively) for durable, cutting response. Derek Roddy of Hate Eternal/Nile plays Meinl Byzance Brilliant Heavy Hammered Hi-Hats."
+        answer: "George Kollias of Nile plays 14\" Zildjian K Custom Dark Hi-Hats for controlled, low-sustain response at 240+ BPM. Gene Hoglan of Death/Testament plays Sabian AAX X-Plosion for durable, cutting response. Derek Roddy of Hate Eternal/Nile plays Meinl Byzance Brilliant Heavy Hammered Hi-Hats."
       },
       {
         question: "What hi-hats does George Kollias use?",
@@ -85899,22 +85842,22 @@ The X-Plosion series delivers a faster, more explosive attack than standard AAX 
       },
       {
         question: "What size hi-hats for extreme metal?",
-        answer: "14\" is the extreme metal standard, used by George Kollias, Pete Sandoval, Derek Roddy, and Gene Hoglan alike. It prioritizes fast foot-chick response over the extra surface area a larger 15\" pair offers."
+        answer: "14\" is the extreme metal standard, used by George Kollias, Derek Roddy, and Gene Hoglan alike. It prioritizes fast foot-chick response over the extra surface area a larger 15\" pair offers."
       },
       {
         question: "Why do extreme metal drummers need more durable hi-hats than other metal genres?",
-        answer: "Extreme metal's sustained blast beats — often at 200-280 BPM for entire songs — slam the hi-hat's foot-chick mechanism shut thousands of times a set. Techniques like Pete Sandoval's gravity blast and Derek Roddy's one-footed blast concentrate enormous repeated force, causing standard-construction hi-hats to lose their chick definition or develop keyholing prematurely."
+        answer: "Extreme metal's sustained blast beats — often at 200-280 BPM for entire songs — slam the hi-hat's foot-chick mechanism shut thousands of times a set. Techniques like gravity blasting and Derek Roddy's one-footed blast concentrate enormous repeated force, causing standard-construction hi-hats to lose their chick definition or develop keyholing prematurely."
       },
       {
         question: "Dark or bright hi-hats for extreme metal?",
-        answer: "Both work at the highest level. Dark hi-hats (Zildjian K Custom Dark, Kollias's choice; Meinl Byzance Brilliant Heavy Hammered, Roddy's choice) suit technical, precision-focused extreme metal. Bright hi-hats (Sabian AAX Stage, Sandoval's choice; Sabian AAX X-Plosion, Hoglan's choice) prioritize proven durability under punishing foot technique."
+        answer: "Both work at the highest level. Dark hi-hats (Zildjian K Custom Dark, Kollias's choice; Meinl Byzance Brilliant Heavy Hammered, Roddy's choice) suit technical, precision-focused extreme metal. Bright hi-hats (Sabian AAX Stage; Sabian AAX X-Plosion, Hoglan's choice) prioritize proven durability under punishing foot technique."
       }
     ],
 
     // Conclusion
     conclusion: {
       title: "Build a Hi-Hat Setup That Survives the Blast",
-      content: `Extreme metal's hi-hat philosophy comes down to one core idea: durability comes first, tone second. Whether you build around George Kollias's dark, controlled K Custom Dark, Pete Sandoval's proven, durable Sabian AAX, or Derek Roddy's hand-hammered Meinl Byzance Brilliant, the right extreme metal hi-hat needs to sound the same on the last blast beat of a set as it did on the first.
+      content: `Extreme metal's hi-hat philosophy comes down to one core idea: durability comes first, tone second. Whether you build around George Kollias's dark, controlled K Custom Dark, the proven, durable Sabian AAX, or Derek Roddy's hand-hammered Meinl Byzance Brilliant, the right extreme metal hi-hat needs to sound the same on the last blast beat of a set as it did on the first.
 
 Start with whichever character matches your playing style, and don't overlook the budget tier — Zildjian A Series and Sabian AAX Stage both provide genuine upgrade paths toward the pro-level sound without requiring a full investment up front.
 
@@ -87161,13 +87104,12 @@ Whatever you choose, prioritize clean articulation and dynamic range over flashy
     // SEO metadata
     title: "Best Hi-Hats for Death Metal: 2026 Ultimate Guide",
     metaTitle: "Best Hi-Hats for Death Metal 2026 | MetalForge Expert Guide",
-    description: "What hi-hats are used in death metal? Discover what George Kollias, Flo Mounier, and Pete Sandoval actually play — Zildjian K Custom Dark vs Sabian AAX/HHX — from budget to pro, built for 280 BPM blast beat control.",
+    description: "What hi-hats are used in death metal? Discover what George Kollias and Flo Mounier actually play — Zildjian K Custom Dark vs Sabian AAX/HHX — from budget to pro, built for 280 BPM blast beat control.",
     seoKeywords: [
       'best hi-hats for death metal',
       'death metal hi-hats',
       'george kollias hi-hats nile',
       'flo mounier hi-hats cryptopsy',
-      'pete sandoval hi-hats morbid angel',
       'zildjian k custom dark hi-hats death metal',
       'sabian aax hhx hi-hats death metal',
       'hi-hats for blast beats',
@@ -87184,7 +87126,7 @@ Whatever you choose, prioritize clean articulation and dynamic range over flashy
     // Hero section
     hero: {
       title: "🎩 Best Hi-Hats for Death Metal",
-      subtitle: "What Kollias, Mounier, and Sandoval Actually Play",
+      subtitle: "What Kollias and Mounier Actually Play",
       badge: "GEAR GUIDE 2026",
       stats: [
         { value: '3', label: 'Hi-Hats Reviewed' },
@@ -87198,13 +87140,12 @@ Whatever you choose, prioritize clean articulation and dynamic range over flashy
       title: "Why Death Metal Hi-Hats Need to Control Chaos at 280 BPM",
       content: `Death metal places extreme demands on hi-hats that most other genres simply don't. At 220–280 BPM blast beats, a hi-hat must respond instantly and stay tight and controlled without opening uncontrollably — a light top on a 14" hi-hat will wash out completely under sustained extreme metal blast beat work.
 
-George Kollias of Nile has made his Zildjian K Custom Dark hi-hats as recognizable as his inhuman blast beat speed — the dark, controlled wash sits perfectly under technical death metal complexity across a 13"-15" range. Flo Mounier of Cryptopsy uses Sabian AAX/HHX hi-hats that deliver controlled chaos even at his insane 270 BPM tempos. Pete Sandoval of Morbid Angel built his hyper-blast sound around Zildjian's articulate response, proving the brand's reliability at the most extreme tempos in metal.
+George Kollias of Nile has made his Zildjian K Custom Dark hi-hats as recognizable as his inhuman blast beat speed — the dark, controlled wash sits perfectly under technical death metal complexity across a 13"-15" range. Flo Mounier of Cryptopsy uses Sabian AAX/HHX hi-hats that deliver controlled chaos even at his insane 270 BPM tempos.
 
 The wrong hi-hats for death metal don't just sound bad — they actively fight your playing. This guide breaks down what actually works, why, and which specific models give you the most extreme metal hi-hat performance across all budgets.`,
       keyPoints: [
         "Zildjian K Custom Dark is George Kollias's primary death metal hi-hat sound — dark, controlled wash at 280 BPM",
         "Sabian AAX/HHX gives Flo Mounier controlled chaos at 270+ BPM tempos",
-        "Pete Sandoval's Zildjian setup proved hyper-blast hi-hat articulation decades ago",
         "Medium-heavy tops dominate death metal hi-hats — enough weight to control wash at extreme blast beat speeds"
       ]
     },
@@ -87339,12 +87280,11 @@ The AAX/HHX B20 alloy gives bright, cutting body and projection at comparable we
           tier: "pro",
           material: "B20 Bronze, Brilliant Finish",
 
-          description: `Pete Sandoval of Morbid Angel built his hyper-blast reputation around Zildjian cymbals, proving that the brand's articulate response could handle death metal's most extreme tempos long before the genre's modern technical wing existed. His Zildjian hi-hat setup delivered the instant response and cutting articulation his pioneering blast beat work demanded.
+          description: `The Zildjian A Custom Hi-Hats deliver an articulate, cutting response that can handle death metal's most extreme tempos.
 
-For death metal drummers who want a brighter, more cutting alternative to the darker K Custom and Sabian AAX/HHX approach, Zildjian's A Custom line follows the same articulate philosophy Sandoval relied on.`,
+For death metal drummers who want a brighter, more cutting alternative to the darker K Custom and Sabian AAX/HHX approach, Zildjian's A Custom line delivers an articulate voicing at extreme speed.`,
 
           pros: [
-            "Pete Sandoval's endorsement — hyper-blast articulation pioneer",
             "Bright, cutting attack for maximum articulation",
             "Fast response at extreme blast beat tempos",
             "Consistent Zildjian quality"
@@ -87361,10 +87301,8 @@ For death metal drummers who want a brighter, more cutting alternative to the da
             diameter: "14\"",
             series: "A Custom"
           },
-          usedBy: [
-            { name: "Pete Sandoval", band: "Morbid Angel", note: "Zildjian endorser — hyper-blast articulation pioneer" }
-          ],
-          verdict: "The articulate choice for death metal. Sandoval proved Zildjian's cutting response at extreme tempos decades ago.",
+          usedBy: [],
+          verdict: "The articulate choice for death metal — a cutting alternative for drummers who prioritize articulation over darkness.",
           rating: 4.5,
           affiliateLink: "https://www.thomann.de/intl/zildjian_a_custom_hi_hats.htm?partner_id=metalforge"
         },
@@ -87461,7 +87399,7 @@ The dark finish and complex overtones sit well under dense, down-tuned guitar wa
 - Full-bodied character that commands attention
 - Best for: Brutal/old-school death metal, studio recordings
 
-**The Verdict:** Both work excellently for death metal. Choose K Custom Dark if you play highly technical patterns where you need hi-hat clarity within dense arrangements. Choose Sabian AAX/HHX if you want a powerful, dramatic chick that defines each accent in the music. Pete Sandoval's Zildjian setup shows a brighter third path for drummers who prioritize raw articulation over darkness.`,
+**The Verdict:** Both work excellently for death metal. Choose K Custom Dark if you play highly technical patterns where you need hi-hat clarity within dense arrangements. Choose Sabian AAX/HHX if you want a powerful, dramatic chick that defines each accent in the music. Zildjian's A Custom line shows a brighter third path for drummers who prioritize raw articulation over darkness.`,
       comparisonTable: [
         { feature: "Darkness", zildjianK: "⭐⭐⭐⭐⭐", sabianAaxHhx: "⭐⭐⭐⭐" },
         { feature: "Chick Power", zildjianK: "⭐⭐⭐⭐", sabianAaxHhx: "⭐⭐⭐⭐⭐" },
@@ -87488,7 +87426,7 @@ The dark finish and complex overtones sit well under dense, down-tuned guitar wa
         {
           category: "Best for Raw Articulation",
           pedal: "Zildjian A Custom Hi-Hats",
-          reason: "Pete Sandoval's pioneering hyper-blast setup — bright, cutting response."
+          reason: "Bright, cutting response for drummers who prioritize articulation over darkness."
         },
         {
           category: "Best Budget",
@@ -87506,22 +87444,20 @@ The dark finish and complex overtones sit well under dense, down-tuned guitar wa
     ],
     relatedDrummers: [
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Zildjian K Custom Dark — fastest feet in death metal' },
-      { slug: 'flo-mounier', name: 'Flo Mounier', reason: 'Sabian AAX/HHX — controlled chaos at 270 BPM' },
-      { slug: 'pete-sandoval', name: 'Pete Sandoval', reason: 'Zildjian — hyper-blast articulation pioneer' }
+      { slug: 'flo-mounier', name: 'Flo Mounier', reason: 'Sabian AAX/HHX — controlled chaos at 270 BPM' }
     ],
 
     // Featured drummers (issue template)
     featuredDrummers: [
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Zildjian K Custom Dark for extreme cutting power at 280 BPM' },
       { slug: 'flo-mounier', name: 'Flo Mounier', reason: 'Sabian AAX/HHX — controlled chaos at 270 BPM' },
-      { slug: 'pete-sandoval', name: 'Pete Sandoval', reason: 'Zildjian for hyper-blast articulation' },
     ],
 
     // FAQ section for SEO
     faq: [
       {
         question: "What hi-hats are used in death metal?",
-        answer: "George Kollias of Nile uses Zildjian K Custom Dark Hi-Hats (13\"-15\" range) for a dark, controlled character. Flo Mounier of Cryptopsy uses Sabian AAX/HHX Hi-Hats, an endorsement since 2012, for powerful, full-bodied chick response. Pete Sandoval of Morbid Angel built his hyper-blast sound around Zildjian's brighter, more articulate hi-hats."
+        answer: "George Kollias of Nile uses Zildjian K Custom Dark Hi-Hats (13\"-15\" range) for a dark, controlled character. Flo Mounier of Cryptopsy uses Sabian AAX/HHX Hi-Hats, an endorsement since 2012, for powerful, full-bodied chick response."
       },
       {
         question: "What hi-hats does George Kollias use?",
@@ -87537,7 +87473,7 @@ The dark finish and complex overtones sit well under dense, down-tuned guitar wa
       },
       {
         question: "Dark or bright hi-hats for death metal?",
-        answer: "Both work at the highest level. Dark hi-hats (Zildjian K Custom Dark, George Kollias's choice; Sabian AAX/HHX, Flo Mounier's choice since 2012) suit technical and brutal death metal alike. Bright hi-hats (Zildjian A Custom, Pete Sandoval's pioneering choice) suit drummers who prioritize raw articulation over darkness. Choose based on which subgenre and production style you're chasing."
+        answer: "Both work at the highest level. Dark hi-hats (Zildjian K Custom Dark, George Kollias's choice; Sabian AAX/HHX, Flo Mounier's choice since 2012) suit technical and brutal death metal alike. Bright hi-hats (Zildjian A Custom) suit drummers who prioritize raw articulation over darkness. Choose based on which subgenre and production style you're chasing."
       }
     ],
 
@@ -87546,7 +87482,7 @@ The dark finish and complex overtones sit well under dense, down-tuned guitar wa
       title: "Find Your Death Metal Hi-Hat Voice",
       content: `Death metal hi-hats split into two proven traditions: the dark, controlled character that George Kollias has made synonymous with technical blast beat precision, and the powerful, body-forward chick that Flo Mounier favors for brutal, dramatic impact.
 
-If you play technical, blast-beat-heavy death metal, start with a Zildjian K Custom Dark pair or the budget Classics Custom Dark — both stay controlled at extreme tempos. If you play brutal, old-school death metal, Sabian AAX/HHX will give you the full-bodied power your playing demands. If raw articulation over darkness is your priority, Pete Sandoval's brighter Zildjian A Custom approach remains a proven third path.
+If you play technical, blast-beat-heavy death metal, start with a Zildjian K Custom Dark pair or the budget Classics Custom Dark — both stay controlled at extreme tempos. If you play brutal, old-school death metal, Sabian AAX/HHX will give you the full-bodied power your playing demands. If raw articulation over darkness is your priority, the brighter Zildjian A Custom remains a proven third path.
 
 Whatever you choose, prioritize consistency under sustained blast beat use over flashy features — the hi-hat is the most-used cymbal in death metal drumming, and it needs to perform reliably through entire songs of relentless rhythmic work.
 
@@ -112781,12 +112717,11 @@ Whatever you land on, don't overlook wood quality and weight-matching — a pair
     // SEO metadata
     title: "Best Cymbals for Extreme Metal: 2026 Ultimate Guide",
     metaTitle: "Best Cymbals for Extreme Metal 2026 | MetalForge Expert Guide",
-    description: "Top cymbal setups for extreme metal: what George Kollias, Pete Sandoval, Derek Roddy, and Gene Hoglan actually play across hi-hats, crashes, and rides. Zildjian K Custom Dark vs Sabian AAX vs Meinl Byzance for death, black, and grind-adjacent extreme metal.",
+    description: "Top cymbal setups for extreme metal: what George Kollias, Derek Roddy, and Gene Hoglan actually play across hi-hats, crashes, and rides. Zildjian K Custom Dark vs Sabian AAX vs Meinl Byzance for death, black, and grind-adjacent extreme metal.",
     seoKeywords: [
       'best cymbals for extreme metal',
       'extreme metal cymbals',
       'george kollias cymbals nile',
-      'pete sandoval cymbals morbid angel',
       'derek roddy cymbals hate eternal',
       'gene hoglan cymbals',
       'zildjian k custom dark extreme metal',
@@ -112804,7 +112739,7 @@ Whatever you land on, don't overlook wood quality and weight-matching — a pair
     // Hero section
     hero: {
       title: "🔔 Best Cymbals for Extreme Metal",
-      subtitle: "What George Kollias, Pete Sandoval, Derek Roddy, and Gene Hoglan Actually Play",
+      subtitle: "What George Kollias, Derek Roddy, and Gene Hoglan Actually Play",
       badge: "GEAR GUIDE 2026",
       stats: [
         { value: '4', label: 'Cymbal Setups Reviewed' },
@@ -112818,12 +112753,12 @@ Whatever you land on, don't overlook wood quality and weight-matching — a pair
       title: "What Cymbals Survive Extreme Metal's Blast Beats?",
       content: `Extreme metal — death metal, technical death metal, and the grindcore-adjacent brutality surrounding both — puts more sustained abuse on a full cymbal setup than almost any other style of drumming. At 200-280 BPM blast beats, hi-hats, crashes, and rides all get struck thousands of times a set, night after touring night, and have to keep responding accurately long after ordinary cymbals would develop keyholing or lose their voice entirely.
 
-George Kollias of Nile runs a full Zildjian K Custom Dark setup — 14" hi-hats and 17"/19" crashes — paired with a 21" Zildjian A Custom Mega Bell Ride, giving his technical death metal drumming a dark, controlled voicing that stays articulate past 240 BPM. Pete Sandoval of Morbid Angel built his entire cymbal sound around Sabian AAX Stage hi-hats and crashes with a 22" AAX Raw Bell Dry Ride, chosen for their durability under his uniquely punishing gravity-blast technique. Derek Roddy of Hate Eternal and Nile plays Meinl Byzance Brilliant Heavy Hammered hi-hats and crashes with a 22" Byzance Raw Bell Dark Ride, a switch from his earlier Sabian and Paiste setups made specifically for long-term touring durability. Gene Hoglan of Death and Testament runs Sabian AAX X-Plosion hi-hats and crash with a 22" AAX Ride, prized for the explosive, reliable punch that matches his metronomic "Atomic Clock" precision.
+George Kollias of Nile runs a full Zildjian K Custom Dark setup — 14" hi-hats and 17"/19" crashes — paired with a 21" Zildjian A Custom Mega Bell Ride, giving his technical death metal drumming a dark, controlled voicing that stays articulate past 240 BPM. Derek Roddy of Hate Eternal and Nile plays Meinl Byzance Brilliant Heavy Hammered hi-hats and crashes with a 22" Byzance Raw Bell Dark Ride, a switch from his earlier Sabian and Paiste setups made specifically for long-term touring durability. Gene Hoglan of Death and Testament runs Sabian AAX X-Plosion hi-hats and crash with a 22" AAX Ride, prized for the explosive, reliable punch that matches his metronomic "Atomic Clock" precision.
 
 This guide breaks down what actually makes a cymbal setup survive extreme metal's demands — durability, fast attack, and consistent response under sustained abuse — and recommends specific setups across every budget, from a first touring-durable pack to the exact cymbals extreme metal's most demanding drummers play.`,
       keyPoints: [
         "Zildjian K Custom Dark defines George Kollias's dark, controlled voicing for 240+ BPM technical death metal",
-        "Sabian AAX powers both Pete Sandoval's gravity-blast durability and Gene Hoglan's explosive Atomic Clock precision",
+        "Sabian AAX powers Gene Hoglan's explosive Atomic Clock precision",
         "Derek Roddy's move to Meinl Byzance Brilliant Heavy Hammered shows how touring durability drives cymbal choice at the highest level",
         "14\" hi-hats and 21\"-22\" rides dominate extreme metal, favoring fast response and a prominent bell over maximum wash"
       ]
@@ -112848,7 +112783,7 @@ This guide breaks down what actually makes a cymbal setup survive extreme metal'
         {
           name: "Consistency Under Repeated Force",
           icon: "🎯",
-          description: "Pete Sandoval's gravity-blast technique concentrates enormous repeated force on a small area of each cymbal. Sabian AAX's durable B20 construction holds its voicing consistently rather than degrading after heavy touring use.",
+          description: "Extreme, repeated-force techniques like gravity blasting concentrate enormous force on a small area of each cymbal. Sabian AAX's durable B20 construction holds its voicing consistently rather than degrading after heavy touring use.",
           recommendation: "Cymbals proven under extreme, repeated-force techniques like gravity blasting"
         },
         {
@@ -112926,12 +112861,11 @@ Kollias's setup proves that dark, complex voicing and extreme-tempo reliability 
           tier: "mid-pro",
           material: "B20 Bronze",
 
-          description: `Pete Sandoval of Morbid Angel built his entire cymbal sound around Sabian AAX Stage hi-hats and crashes, paired with a 22" AAX Raw Bell Dry Ride — chosen specifically for their ability to survive his uniquely punishing gravity-blast technique. The bright, cutting B20 tone stays articulate even as his foot and hands work through relentless, sustained blast patterns.
+          description: `This Sabian AAX Stage hi-hat and crash setup, paired with a 22" AAX Raw Bell Dry Ride, is built to survive extreme, repeated-force techniques like gravity blasting. The bright, cutting B20 tone stays articulate through relentless, sustained blast patterns.
 
-Sandoval's choice reflects a philosophy shared across extreme metal's founding drummers: durability under sustained abuse matters more than tonal complexity when a full cymbal setup is being hammered for an entire set.`,
+This setup reflects a philosophy shared across extreme metal's founding drummers: durability under sustained abuse matters more than tonal complexity when a full cymbal setup is being hammered for an entire set.`,
 
           pros: [
-            "Pete Sandoval's proven Morbid Angel setup — pioneer of the gravity-blast technique",
             "Bright, cutting B20 tone stays articulate through sustained blast patterns",
             "Proven durability under punishing technique across decades of touring",
             "More accessible pricing than premium Zildjian or Meinl lines"
@@ -112949,9 +112883,7 @@ Sandoval's choice reflects a philosophy shared across extreme metal's founding d
             crashRange: "16\" - 18\"",
             rideRange: "22\""
           },
-          usedBy: [
-            { name: "Pete Sandoval", band: "Morbid Angel", reason: "AAX Stage hi-hats/crashes + Raw Bell Dry Ride — gravity-blast durability" }
-          ],
+          usedBy: [],
           verdict: "Best for drummers who prioritize proven durability under punishing technique at accessible pricing.",
           rating: 4.7,
           affiliateLink: "https://www.thomann.de/intl/sabian_aax_stage_series.htm?partner_id=metalforge"
@@ -113051,7 +112983,7 @@ The X-Plosion series delivers a faster, more explosive attack than standard AAX 
           priceRange: "€180-260 per cymbal",
           tier: "mid",
           material: "B20 Bronze",
-          description: "See main recommendation above. Pete Sandoval's proven, durable choice remains one of the most accessible ways into extreme metal's blast-tested cymbal sound.",
+          description: "See main recommendation above. This proven, durable choice remains one of the most accessible ways into extreme metal's blast-tested cymbal sound.",
           pros: ["Proven durability under punishing technique", "Bright, cutting B20 tone", "More accessible than premium K Custom or Byzance lines"],
           cons: ["Less controlled voicing than K Custom Dark"],
           verdict: "Top budget pick for a durable, blast-ready extreme metal setup.",
@@ -113085,7 +113017,7 @@ The X-Plosion series delivers a faster, more explosive attack than standard AAX 
 - Paired with the A Custom Mega Bell Ride for piercing accent work
 - The technical death metal benchmark
 
-**Sabian AAX (Pete Sandoval and Gene Hoglan):**
+**Sabian AAX (Gene Hoglan):**
 - Bright, cutting attack that stays articulate under punishing technique
 - Proven durability across decades of touring abuse
 - More accessible pricing than premium hand-hammered lines
@@ -113117,7 +113049,7 @@ The X-Plosion series delivers a faster, more explosive attack than standard AAX 
         {
           category: "Best for Durability",
           pedal: "Sabian AAX Stage Series + Raw Bell Dry Ride",
-          reason: "Pete Sandoval and Gene Hoglan's shared foundation, proven under decades of gravity-blast abuse."
+          reason: "Gene Hoglan's foundation, proven under decades of gravity-blast abuse."
         },
         {
           category: "Best Hand-Hammered",
@@ -113141,7 +113073,6 @@ The X-Plosion series delivers a faster, more explosive attack than standard AAX 
     ],
     relatedDrummers: [
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Zildjian K Custom Dark + A Custom Mega Bell — Nile\'s 240+ BPM technical precision' },
-      { slug: 'pete-sandoval', name: 'Pete Sandoval', reason: 'Sabian AAX Stage + Raw Bell Dry Ride — Morbid Angel\'s gravity-blast durability' },
       { slug: 'derek-roddy', name: 'Derek Roddy', reason: 'Meinl Byzance Brilliant Heavy Hammered — Hate Eternal/Nile\'s touring longevity' },
       { slug: 'gene-hoglan', name: 'Gene Hoglan', reason: 'Sabian AAX X-Plosion — Death/Testament\'s Atomic Clock precision' }
     ],
@@ -113149,7 +113080,6 @@ The X-Plosion series delivers a faster, more explosive attack than standard AAX 
     // Featured drummers (issue template)
     featuredDrummers: [
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Zildjian K Custom Dark + A Custom Mega Bell Ride — Nile\'s technical death metal precision' },
-      { slug: 'pete-sandoval', name: 'Pete Sandoval', reason: 'Sabian AAX Stage + Raw Bell Dry Ride — Morbid Angel\'s gravity-blast durability' },
       { slug: 'derek-roddy', name: 'Derek Roddy', reason: 'Meinl Byzance Brilliant Heavy Hammered — Hate Eternal/Nile\'s blast-beat longevity' },
     ],
 
@@ -113158,10 +113088,6 @@ The X-Plosion series delivers a faster, more explosive attack than standard AAX 
       {
         question: "What cymbals does George Kollias use?",
         answer: "George Kollias of Nile runs a full Zildjian K Custom Dark setup — 14\" hi-hats and 17\"/19\" crashes — paired with a 21\" Zildjian A Custom Mega Bell Ride. The dark, over-hammered voicing keeps his blast beats controlled and articulate past 240 BPM."
-      },
-      {
-        question: "What cymbals does Pete Sandoval use?",
-        answer: "Pete Sandoval of Morbid Angel built his cymbal sound around Sabian AAX Stage hi-hats and crashes, paired with a 22\" AAX Raw Bell Dry Ride, chosen for their durability under his uniquely punishing gravity-blast technique."
       },
       {
         question: "What cymbals does Derek Roddy use?",
@@ -113177,14 +113103,14 @@ The X-Plosion series delivers a faster, more explosive attack than standard AAX 
       },
       {
         question: "Are Zildjian or Sabian cymbals better for extreme metal?",
-        answer: "Both are proven at the highest level — George Kollias (Zildjian K Custom Dark) and Pete Sandoval/Gene Hoglan (Sabian AAX) prove this. Zildjian K Custom Dark offers darker, more controlled precision for technical death metal. Sabian AAX delivers brighter, more accessible durability. Choose Zildjian for controlled technicality; choose Sabian for proven, accessible toughness."
+        answer: "Both are proven at the highest level — George Kollias (Zildjian K Custom Dark) and Gene Hoglan (Sabian AAX) prove this. Zildjian K Custom Dark offers darker, more controlled precision for technical death metal. Sabian AAX delivers brighter, more accessible durability. Choose Zildjian for controlled technicality; choose Sabian for proven, accessible toughness."
       }
     ],
 
     // Conclusion
     conclusion: {
       title: "Build Your Extreme Metal Cymbal Setup",
-      content: `Extreme metal cymbals come down to a genuine choice between three proven philosophies: Zildjian K Custom Dark's controlled, technical precision (George Kollias's sound), Sabian AAX's bright, accessible durability (Pete Sandoval and Gene Hoglan's shared foundation), or Meinl Byzance Brilliant Heavy Hammered's hand-hammered, long-term touring durability (Derek Roddy's career-long choice).
+      content: `Extreme metal cymbals come down to a genuine choice between three proven philosophies: Zildjian K Custom Dark's controlled, technical precision (George Kollias's sound), Sabian AAX's bright, accessible durability (Gene Hoglan's foundation), or Meinl Byzance Brilliant Heavy Hammered's hand-hammered, long-term touring durability (Derek Roddy's career-long choice).
 
 Start with whichever character matches your playing style and touring demands. If you want the most technically controlled, precision-focused sound, Zildjian K Custom Dark is the benchmark. If you want proven, accessible durability under punishing technique, Sabian AAX is the safer investment. If you're chasing maximum long-term durability above all else, look at Meinl Byzance Brilliant Heavy Hammered.
 

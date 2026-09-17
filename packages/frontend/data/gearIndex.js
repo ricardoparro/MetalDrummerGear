@@ -49,27 +49,7 @@ export const GEAR_INDEX = {
     ]
   },
   "Mapex": {
-    "Black Panther Design Lab": [
-      {
-        "id": 17,
-        "name": "Chris Adler",
-        "slug": "chris-adler",
-        "configString": "Mapex Black Panther Design Lab"
-      },
-      {
-        "id": 32,
-        "name": "Matt Greiner",
-        "slug": "matt-greiner",
-        "configString": "Mapex Black Panther Design Lab"
-      }
-    ],
     "Falcon Double Pedal, Mapex T865 Throne": [
-      {
-        "id": 17,
-        "name": "Chris Adler",
-        "slug": "chris-adler",
-        "configString": "Mapex Falcon Double Pedal, Mapex T865 Throne"
-      },
       {
         "id": 23,
         "name": "Arin Ilejay",
@@ -447,12 +427,6 @@ export const GEAR_INDEX = {
         "name": "Nick Augusto",
         "slug": "nick-augusto",
         "configString": "Sabian AAX Series (14\" Stage Hi-Hats, 18\" & 19\" X-Plosion Crashes, 21\" Stage Ride, 18\" AAXtreme China)"
-      },
-      {
-        "id": 51,
-        "name": "Paul Mazurkiewicz",
-        "slug": "paul-mazurkiewicz",
-        "configString": "Sabian AAX Series (14\" Stage Hi-Hats, 18\" & 19\" X-Plosion Crashes, 21\" Raw Bell Dry Ride, 18\" AAXtreme China)"
       },
       {
         "id": 60,

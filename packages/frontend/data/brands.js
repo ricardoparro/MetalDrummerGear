@@ -345,15 +345,15 @@ Chris Adler's decade-plus run with Lamb of God on a Mapex Saturn kit gave the br
     faq: [
       {
         question: "What drums does Chris Adler play?",
-        answer: "Chris Adler plays a Mapex Saturn kit with a Mapex Chris Adler Signature 14x5.5\" Walnut/Maple snare and a Mapex Falcon Double Pedal."
+        answer: "Chris Adler plays a Mapex Saturn kit with a Mapex Chris Adler Signature 14x5.5\" Walnut/Maple snare and a Trick Pro V pedal."
       },
       {
         question: "Is Mapex good for metal?",
-        answer: "Yes. Mapex's Black Panther and Saturn series give metal drummers powerful, customizable shells, and the Falcon Double Pedal is a common choice for speed and durability on tour. Chris Adler's decade-plus Lamb of God run built the brand's metal credibility."
+        answer: "Yes. Mapex's Black Panther and Saturn series give metal drummers powerful, customizable shells, and Chris Adler pairs his Mapex Saturn kit with a Trick Pro V pedal for speed and durability on tour. Chris Adler's decade-plus Lamb of God run built the brand's metal credibility."
       },
       {
         question: "What is the Mapex Falcon pedal?",
-        answer: "The Mapex Falcon is the brand's flagship double bass pedal, using a strap-drive mechanism for a lighter, more responsive feel. It was Chris Adler's primary pedal choice throughout his career with Lamb of God."
+        answer: "The Mapex Falcon is the brand's flagship double bass pedal, using a strap-drive mechanism for a lighter, more responsive feel. It's a popular pedal choice among Mapex's metal drummers, including Jason Bittner (Shadows Fall / Overkill)."
       }
     ],
   },
@@ -395,7 +395,7 @@ Sonor's snares in particular have found a home in extreme and progressive metal,
         { year: 1925, event: "Sonor grows to 145 employees, becoming one of the largest drum manufacturers of its kind." },
         { year: 1946, event: "Otto Link and his son Horst rebuild the company in Bad Berleburg, West Germany, after fleeing Soviet-controlled East Germany." },
       ],
-      metalEra: "Sonor's snares have become a fixture on extreme and progressive metal rosters through signature models: Tomas Haake (Meshuggah) plays a Sonor signature bronze-shell snare, and Nicko McBrain (Iron Maiden) has his own namesake Sonor signature snare. Other metal drummers on the verified roster, including Jan Axel \"Hellhammer\" Blomberg (Mayhem), have used Sonor's modular SQ2 maple snares for their focused, cutting attack.",
+      metalEra: "Sonor's snares have become a fixture on extreme and progressive metal rosters through signature models: Tomas Haake (Meshuggah) plays a Sonor signature bronze-shell snare, and Nicko McBrain (Iron Maiden) has his own namesake Sonor signature snare. Other metal drummers on the verified roster, including Jan Axel \"Hellhammer\" Blomberg (Mayhem), have used Sonor's modular SQ2 Heavy Beech snares for their focused, cutting attack.",
       sources: ["https://en.wikipedia.org/wiki/Sonor"],
     },
     themeLinks: [
@@ -542,7 +542,7 @@ Joey Jordison's Paiste RUDE/2002 hybrid setup defined Slipknot's chaotic sound. 
         { year: 1957, event: "Paiste reestablishes its base in Switzerland, where it remains headquartered today." },
         { year: 1980, event: "The RUDE series launches, built specifically for the volume and abuse of heavy metal drumming." },
       ],
-      metalEra: "Paiste's RUDE and 2002 series became defining metal cymbal sounds of the 1980s and 90s: Dave Lombardo used a Paiste RUDE Power Ride on Slayer's Reign in Blood, and Nicko McBrain has played Paiste throughout his career with Iron Maiden, including a signature Powerslave Reflector Bell Ride. Joey Jordison later paired RUDE and 2002 cymbals for Slipknot's chaotic live sound.",
+      metalEra: "Paiste's RUDE and 2002 series became defining metal cymbal sounds of the 1980s and 90s: Dave Lombardo has played a Paiste RUDE & 2002 Series setup since the 2000s, and Nicko McBrain has played Paiste throughout his career with Iron Maiden, including a signature Powerslave Reflector Bell Ride. Joey Jordison later paired RUDE and 2002 cymbals for Slipknot's chaotic live sound.",
       sources: ["https://www.paiste.com/en/about/background/history"],
     },
     themeLinks: [
@@ -1004,7 +1004,7 @@ Vater's consistency pitch — every pair playing identically — has built a fol
         { year: 1988, event: "The Vater family opens a dedicated factory in Holbrook, Massachusetts." },
         { year: 1991, event: "Alan and Ron Vater launch Vater Percussion as its own branded company." },
       ],
-      metalEra: "Vater's consistency-first manufacturing has built a metal following anchored by signature models: Mike Mangini (ex-Dream Theater) plays the Wicked Piston (VHMMWP), and Derek Roddy (Hate Eternal, Nile) the Player's Design VHDRW. Jay Weinberg (Slipknot) and Brann Dailor (Mastodon) are confirmed endorsers of Vater's stock 5B Wood Tip.",
+      metalEra: "Vater's consistency-first manufacturing has built a metal following anchored by signature models: Mike Mangini (ex-Dream Theater) plays the Wicked Piston (VHMMWP), and Derek Roddy (Hate Eternal, Nile) the stock 5B Wood Tip. Jay Weinberg (Slipknot) and Brann Dailor (Mastodon) are confirmed endorsers of Vater's stock 5B Wood Tip.",
       sources: ["https://www.namm.org/library/oral-history/alan-vater", "https://en.wikipedia.org/wiki/Vater_Percussion"],
     },
     themeLinks: [
@@ -1021,7 +1021,7 @@ Vater's consistency pitch — every pair playing identically — has built a fol
     faq: [
       {
         question: "What Vater sticks do metal drummers use?",
-        answer: "Vater's metal endorsers include Mike Mangini (ex-Dream Theater) on the Wicked Piston, Derek Roddy (Hate Eternal, Nile) on the Player's Design VHDRW, and Jay Weinberg (Slipknot) on the stock 5B."
+        answer: "Vater's metal endorsers include Mike Mangini (ex-Dream Theater) on the Wicked Piston, Derek Roddy (Hate Eternal, Nile) on the stock 5B Wood Tip, and Jay Weinberg (Slipknot) on the stock 5B."
       },
       {
         question: "Is Vater good for metal?",

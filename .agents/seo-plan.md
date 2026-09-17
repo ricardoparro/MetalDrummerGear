@@ -9141,3 +9141,39 @@ This run's dedup process was unusually deep — see the "false-positive" section
 4. Add the "check closed-issue body + secondary cross-file sources before filing a licks/ finding" lesson to `.agents/seo/learned-patterns.md` if it recurs again.
 5. Content-gap queries (`flo mounier`, `mario duplantier drum kit`) unchanged/held on established precedent.
 6. Next drum-chair watch due Monday 2026-09-21, group 3 (sepultura/slayer/slipknot/testament/tool/vader/volto).
+
+---
+
+## 2026-09-17 (run ~17:30 UTC, per metrics.md 17:22 UTC) — 8 proposals filed (#7673-7680): fresh seam in genreGearGuides.js (never fully swept — 116K lines, 278 guides, 1137 `usedBy` drummer attributions)
+
+### Bank check
+Open `seo-proposal` at run start: 11 (8 fresh/untriaged #7660-7667 + 3 standing umbrellas #2211/#3810/#3819; #7648/#7654/#7655/#7656 from the prior run had already moved to `ai-fix`/shipped by run start) — well under 45 → cleared to file up to 8 net-new. Metrics 17:22 UTC (365 users/404 sessions/723 views 7d; GSC 9,471 impr/202 clicks/2.13% CTR/pos 7.5). Content-gap table now has 3 rows: `danny carey drum set` (101 impr/0.99% CTR), `flo mounier` (94 impr/1.06% CTR), `mario duplantier drum kit` (109 impr/0.92% CTR) — all 3 re-confirmed already-classified per `learned-patterns.md` (class-2 bare-name/bio-intent for flo mounier; gear-qualified known oscillator for danny carey/mario duplantier, both extensively actioned) — held, no new action. Today is Thursday — drum-chair watch not due (next due 09-21 group 3).
+
+### This run's work
+Per the prior run's note that the `licks/` directory is largely exhausted, looked for an unswept fresh seam. Found one: `packages/frontend/data/genreGearGuides.js` is **116,283 lines / 6.9MB**, containing 278 "best gear for genre" pages with 1,137 structured `usedBy: [{ name, band, note }]` drummer-attribution entries — despite the file having had ~30+ prior closed issues over the months, those were all narrow/targeted (specific drummer+guide combos), never a systematic sweep. Given the size, split the audit into 4 parallel agents by gear-type family (pedals/bass-drum; cymbals/ride/crash/splash; kits/snares/hardware; sticks/drumheads/triggers), each cross-checking every named drummer's `usedBy` claim against `endorsementNews.js`'s `currentEndorsements`.
+
+**Raw yield was large** (~40+ candidate mismatches across all 4 reports). Personally re-verified every one of the 8 highest-confidence/most-systemic candidates directly against both files before filing (not trusting agent reports alone) — spot-checked exact line numbers and quoted text for all 8, and caught one case where an agent's stated reasoning contradicted the very source file it cited (Chris Adler drums — agent said "real model is Saturn," which is correct, but only because "Saturn" is genuinely his verified model per `endorsementNews.js:559`; had to re-read carefully since a data-entry error while reading multiple drummers' entries in one batch could easily have flipped this). Also ran `gh issue list --state all --search` + read full closed-issue bodies (not just titles) for all 8 drummers before filing, given this file's long history of prior fixes — confirmed each of the 8 targets exact line numbers never touched by a prior closed issue (e.g. Matt Greiner's cymbals fabrication has now had #6742 fix 8 locations and this run's #7674 fix 12 MORE, entirely disjoint line numbers — a large sibling gap, not a duplicate).
+
+**8 filed, all single-file corrections on existing pages, zero new URLs — freeze-compliant:**
+1. **#7673** — Gene Hoglan drums/snare fabricated as DW/Sonor/Ludwig across 5 `usedBy` locations + 1 FAQ answer — verified Pearl Reference Pure since 2018 (Tama before). New seam vs. #6702/#6701/#6759/#6758 (all different lines/categories, confirmed via issue-body read).
+2. **#7674** — Matt Greiner cymbals still fabricated as Sabian/Meinl across 12 more locations (all disjoint from #6742's already-fixed 8) — verified Paiste Formula 602 since 2016.
+3. **#7675** — Pete Sandoval credited with confident Sabian/Zildjian cymbal claims across 7 locations despite `endorsementNews.js` explicitly marking this field `brand: null`/unconfirmed — a direct violation of the verified-only rule, not just a wrong-brand swap.
+4. **#7676** — Chris Adler drums/snare/hardware: "Black Panther Design Lab" (cross-drummer contamination from Matt Greiner's real model), an entirely invented "Chris Adler Signature" snare, and DW hardware — verified Mapex Saturn / Trick Pro V. Distinct lines from #6897 (Iron Cobra fix) and #7160 (different file).
+5. **#7677** — George Kollias pedal fabricated as Tama across 3 locations — verified Pearl Demon XR. Distinct from #6721 (same-brand model-name fix, different lines).
+6. **#7678** — Travis Orbin pedal fabricated as Tama Speed Cobra 910 across 4 locations — verified DW 9000 Series. No prior issue for this drummer in this file at all.
+7. **#7679** — Mario Duplantier sticks fabricated as Vic Firth X5A across 4 locations — verified Tama Mario Duplantier Signature. No prior sticks-specific issue for this drummer in this file.
+8. **#7680** — Shannon Larkin sticks: an entirely invented "Promark signature" product (complete with a fake affiliate link to a nonexistent page) across 3 locations — verified Vic Firth American Classic 5B, `signature: false` (he has no signature stick at all). Distinct from #6808 (pedal fix, different category).
+
+### Dedup notes
+Ran `gh issue list --state all --search "genreGearGuides <drummer>"` for all 8 drummers, then read the FULL BODY (not just title) of every hit to confirm exact line-number/field non-overlap — given this file's long history, title-only dedup would have been unsafe. Zero duplicates filed.
+
+### Open proposals waiting on CEO triage
+- #7660-7667 (prior run, still open/fresh or ai-fix)
+- #7673-7680 (this run, 8 fresh)
+- #2211/#3810/#3819 (standing umbrellas)
+
+### Next run
+1. Watch #7673-7680 through CEO triage.
+2. `genreGearGuides.js` almost certainly has more candidates beyond the 8 filed — the 4 audit agents' raw yield was ~40+ mismatches and this run only filed the top 8 most systemic/highest-confidence ones. Worth a direct follow-up pass (re-check the agents' dropped/lower-confidence candidates, e.g. Igor Cavalera pedal, John Otto pedal, Abe Cunningham pedal, Brann Dailor hardware, Tomas Haake drumheads, Hellhammer hardware/wood, Flo Mounier drums, Derek Roddy hardware, Ray Luzier hardware) if the bank stays low next run — this is a high-yield vein, not a one-and-done.
+3. Content-gap table now has 3 rows instead of 1 (`danny carey drum set` newly re-appeared alongside `flo mounier`/`mario duplantier drum kit`) — all 3 re-confirmed already-classified, no new action, but worth double-checking next run whether `danny carey drum set` is a recurring or one-off appearance in this table.
+4. Next drum-chair watch due Monday 2026-09-21, group 3 (sepultura/slayer/slipknot/testament/tool/vader/volto).

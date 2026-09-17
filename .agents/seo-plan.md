@@ -9093,3 +9093,51 @@ Ran `gh issue list --state all --search "<drummer> <keyword>"` for every candida
 4. Consider a dedicated pass on `beginnerGuides.js` (158KB, untouched this week) or the `licks/` directory's remaining unswept files next.
 5. Content-gap queries (`flo mounier`, `mario duplantier drum kit`) unchanged/held on established precedent.
 6. Next drum-chair watch due Monday 2026-09-21, group 3 (sepultura/slayer/slipknot/testament/tool/vader/volto).
+
+---
+
+## 2026-09-17 (run ~13:00 UTC, per metrics.md 12:18 UTC) — 8 proposals filed (#7660-7667): licks/ sweep, high false-positive rate caught before filing
+
+### Bank check
+Open `seo-proposal` at run start: 7 (4 `ai-fix`/untriaged #7648/#7654/#7655/#7656 awaiting Roadie + 3 standing umbrellas #2211/#3810/#3819) — well under 45 → cleared to file up to 8 net-new. Metrics 12:18 UTC (357 users/390 sessions/700 views 7d; GSC 7,812 impr/163 clicks/2.09% CTR/pos 7.5). robots.txt: 13 `User-agent` blocks confirmed. `/llms/*.md` endpoints: 2,016 files live (stable). Content-gap table: `flo mounier` (84 impr/1.19% CTR) and `mario duplantier drum kit` (93 impr/1.08% CTR) — both re-confirmed already-classified per `learned-patterns.md` — held, no new action. Today is Thursday — drum-chair watch not due (next due 09-21 group 3).
+
+### This run's work
+Per the prior run's suggestion, dispatched 4 parallel audit agents: `beginnerGuides.js` (full file) and the `licks/` directory split into 3 groups (56 of 72 per-drummer files, minus files already known-clean).
+
+**`beginnerGuides.js` came back clean** — every named-drummer gear claim (Joey Jordison, Dave Lombardo, Gene Hoglan, George Kollias, Chris Adler, Dirk Verbeuren, Lars Ulrich, Tomas Haake) verified correct against `endorsementNews.js`, including one era-scoped claim (Lombardo's pre-endorsement Pearl starter kit). No fixes needed — do not re-audit.
+
+**`licks/` audit surfaced ~29 raw candidates across the 3 groups. Personally re-verified every one against both the live file and `endorsementNews.js` before filing — and this run's verification caught an unusually high false-positive rate (roughly two-thirds dropped), all traceable to the same root cause: comparing a lick file against `endorsementNews.js` alone isn't sufficient — many of this file family's apparent "fabrications" are actually already-litigated, precedent-protected, or resolved by a secondary cross-file source the audit agents didn't check.** Specific drops, each a useful pattern for next time:
+- **Paul Bostaph** (3 raw findings) — dropped entirely. The "Raining Blood"/"War Ensemble" entries are deliberately unpinned ("live staple of tenure"), and issue #6896 already ruled these ambiguous-by-design and untouchable without a pinned date — my agent re-found the same fields #6896 explicitly left alone.
+- **Ben Koller** (1 finding, cymbals) — dropped, **wrong direction**: my agent flagged "Sabian" as the fabrication needing correction to Zildjian, but issue #6895 already established the opposite (Sabian is era-correct for the pre-2004 Jane Doe entries; Zildjian only from 2004). Filing this would have proposed *reverting* a correct fix.
+- **Paul Mazurkiewicz** (cymbals) — dropped: issue #6921 explicitly flagged this drummer's cymbals field as a standing founder-unresolved conflict (Meinl vs Paiste, #5803 vs #6639) and told future passes not to touch it.
+- **Mario Duplantier** (pedal) — dropped: current file value ("DW 5000 Turbo Double Pedal" for the 2005 era) is not a fabrication — it's the era-aware fix issue #7588 deliberately made using `drummerEvolution.js`'s own dated pedal timeline (a secondary source my agent and I initially missed, same class of miss as the Kairos lesson).
+- **Tomas Haake** ("Tama Superstar"/"DW 5002" for the 1998 Chaosphere entry) — dropped: issue #7506 already verified this exact pairing as correct pre-endorsement gear via `gearPriceHistory.js:1007-1051`, a cross-file source `endorsementNews.js` alone doesn't show.
+- **Dave Lombardo** (most of the file), **Sean Reinert**, **Jason Bittner**, **Jay Weinberg** — largely already fixed by prior issues (#6915, #6918, #6874, #6961/#7205); only narrow residual slivers survived re-verification (see filed issues below).
+
+**Lesson for `learned-patterns.md`: before filing a `licks/*.js` finding, check (a) whether the exact field was already the subject of a closed issue on this file — read the closed issue's body, not just title, since many explicitly scope out adjacent "unpinned"/"disputed" fields as deliberately untouched, and (b) whether a secondary source (`drummerEvolution.js`, `gearPriceHistory.js`) has finer era-dated data than `endorsementNews.js` alone.** This is the same shape as the recording-window/Kairos lesson, now confirmed to recur specifically in the licks/ file family.
+
+**8 filed, all single-file corrections on existing pages, zero new URLs — freeze-compliant, each individually re-verified line-by-line after the drops above:**
+1. **#7660** — Nick Augusto `licks/nick-augusto.js`, all 4 gear fields (drums/cymbals/pedal/sticks) across all 3 entries — stale vs. `endorsementNews.js`'s own #7481 correction (2026-09-13), which retracted an earlier-fabricated timeline this file had been correctly matching until then. High-value case: the licks file wasn't wrong when last fixed (#7036) — the source-of-truth file changed out from under it.
+2. **#7661** — Mike Mangini `licks/mike-mangini.js` drums+hardware (all 6 entries) — "Pearl Reference Series"/"Demon Drive" never verified; correct is Masterworks Maple (pre-2019)/Reference Pure (2019 "Paralyzed" entry) and Eliminator Redline. Sticks field (already fixed by #7035) untouched.
+3. **#7662** — Art Cruz `licks/art-cruz.js` drums+pedal model names (all 6 entries) — brand was already correctly fixed by #5909 (DW→Ludwig/Trick) but landed on wrong specific models ("Classic Oak"/"Dominator" instead of "Black Beauty"/"Pro 1-V").
+4. **#7663** — Daniel Erlandsson `licks/daniel-erlandsson.js` sticks (all 3 entries) — sibling gap left by #6959, which fixed cymbals+pedal in the same file but not sticks (Vic Firth→ProMark).
+5. **#7664** — Dave Lombardo `licks/dave-lombardo.js` — 1 residual "DW 5000 Pedals" line in the "Raining Blood" block, missed by #6915's otherwise-complete drums/cymbals sweep of this file.
+6. **#7665** — Lars Ulrich `licks/lars-ulrich.js` — "Ahead Lars Ulrich Sticks" fabricated in both "One" (1988) entries, 8 years before the 1996 signature deal; sibling gap left by #6894/#7075 (which fixed pedal fields elsewhere in the same file but not these 2 sticks lines).
+7. **#7666** — Martin Lopez `licks/martin-lopez.js` — "DW 5000 Double Pedal" fabricated across all 5 pre-2010 Opeth-era entries; only Axis (2010+) is ever verified. Drums/cymbals in this file already correct (#6916).
+8. **#7667** — Raymond Herrera `licks/raymond-herrera.js` — a separate `snare`-type field ("Pearl 14x6.5 Free-Floating") never verified and not addressed by #7033's otherwise-complete drums/cymbals/hardware fix of this file; likely cross-drummer template contamination from Sean Reinert's similarly-worded snare note.
+
+### Dedup notes
+This run's dedup process was unusually deep — see the "false-positive" section above. For all 8 filed issues, confirmed via full closed-issue-body read (not just title) that the specific field/line being fixed was never previously addressed.
+
+### Open proposals waiting on CEO triage
+- #7648/#7654/#7655/#7656 (prior runs, still open/`ai-fix`, awaiting Roadie)
+- #7660-7667 (this run, 8 fresh)
+- #2211/#3810/#3819 (standing umbrellas)
+
+### Next run
+1. Watch #7660-7667 through CEO triage.
+2. `beginnerGuides.js` is now fully clean-audited — do not re-check without new evidence.
+3. The `licks/` directory has now had every file at least glanced at across this week's rounds; remaining untouched files from this run's 3 groups (gavin-harrison, hannes-grossmann, hellhammer, igor-cavalera, jaska-raatikainen, jimmy-degrasso, jocke-wallgren, joey-jordison, jon-dette, matt-garstka, morgan-agren, abe-cunningham, adrian-erlandsson, alex-rudinger, arin-ilejay, bill-ward, blake-richardson, brann-dailor, chris-adler, chris-turner, eloy-casagrande, frost, pete-sandoval, richard-christy, ryan-van-poederooyen, scott-travis, shannon-larkin, travis-orbin) all came back clean on first pass — treat this vein as largely exhausted; a fresh seam elsewhere is likely higher-yield next time.
+4. Add the "check closed-issue body + secondary cross-file sources before filing a licks/ finding" lesson to `.agents/seo/learned-patterns.md` if it recurs again.
+5. Content-gap queries (`flo mounier`, `mario duplantier drum kit`) unchanged/held on established precedent.
+6. Next drum-chair watch due Monday 2026-09-21, group 3 (sepultura/slayer/slipknot/testament/tool/vader/volto).

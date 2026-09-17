@@ -244,11 +244,6 @@ export const licks = {
         "name": "Paiste RUDE Cymbals",
         "type": "cymbals",
         "link": null
-      },
-      {
-        "name": "DW 5000 Pedals",
-        "type": "pedals",
-        "link": null
       }
     ],
     "learningTips": [

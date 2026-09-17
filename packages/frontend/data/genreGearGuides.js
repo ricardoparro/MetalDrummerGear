@@ -11035,8 +11035,7 @@ Tomas Haake of Meshuggah has built his legendary polyrhythmic kick technique aro
             spring: "Adjustable coil spring"
           },
           usedBy: [
-            { name: "Tomas Haake", band: "Meshuggah", note: "Iron Cobra — building the world's most precise kick technique" },
-            { name: "George Kollias", band: "Nile", note: "Tama pedals for 280 BPM death metal extremity" }
+            { name: "Tomas Haake", band: "Meshuggah", note: "Iron Cobra — building the world's most precise kick technique" }
           ],
           verdict: "The benchmark metal bass drum pedal. If you're not sure what to buy, the Iron Cobra 900 is the answer.",
           rating: 4.9,
@@ -103712,9 +103711,7 @@ The stock hard plastic beater cuts cleanly through a dense, downtuned death meta
             beater: "Hard plastic (stock)",
             footboard: "Standard length"
           },
-          usedBy: [
-            { name: "George Kollias", band: "Nile", note: "Tama hardware for sustained buried-beater blast beat technique" }
-          ],
+          usedBy: [],
           verdict: "The most versatile buried-beater pedal in death metal — adjustable, durable, and proven at extreme tempo.",
           rating: 4.8,
           affiliateLink: "https://www.thomann.de/intl/tama_iron_cobra_900_double_pedal.htm?partner_id=metalforge"
@@ -104433,9 +104430,7 @@ The die-cast aluminum frame and stock hard plastic beater have proven themselves
             beater: "Hard plastic (stock)",
             footboard: "Standard length"
           },
-          usedBy: [
-            { name: "George Kollias", band: "Nile", note: "Tama hardware for sustained 240+ BPM blast beat technique" }
-          ],
+          usedBy: [],
           verdict: "The most battle-tested pedal across extreme metal — adjustable, durable, and proven at the genre's most extreme tempos.",
           rating: 4.8,
           affiliateLink: "https://www.thomann.de/intl/tama_iron_cobra_900_double_pedal.htm?partner_id=metalforge"

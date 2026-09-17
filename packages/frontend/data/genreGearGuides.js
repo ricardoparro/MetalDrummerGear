@@ -90531,13 +90531,12 @@ One overlooked factor: extreme metal's sustained abuse means a stick's long-term
     // SEO metadata
     title: "Best Drumsticks for Groove Metal: 2026 Ultimate Guide",
     metaTitle: "Best Drumsticks for Groove Metal 2026 | MetalForge Expert Guide",
-    description: "Best drumsticks for groove metal drumming: what Vinnie Paul (Vic Firth 5B), Chris Adler (Promark Signature), Shannon Larkin (Promark Signature), and Igor Cavalera (Vic Firth 5B) actually play. Explosive, front-balanced sticks for mid-tempo, riff-locked impact — ranked budget to pro.",
+    description: "Best drumsticks for groove metal drumming: what Vinnie Paul (Vic Firth 5B), Chris Adler (Promark Signature), and Igor Cavalera (Vic Firth 5B) actually play. Explosive, front-balanced sticks for mid-tempo, riff-locked impact — ranked budget to pro.",
     seoKeywords: [
       'best drumsticks for groove metal',
       'groove metal drumsticks',
       'vinnie paul drumsticks pantera',
       'chris adler drumsticks lamb of god',
-      'shannon larkin drumsticks godsmack',
       'igor cavalera drumsticks',
       'promark chris adler signature',
       'best sticks for riff-locked grooves',
@@ -90557,7 +90556,7 @@ One overlooked factor: extreme metal's sustained abuse means a stick's long-term
       subtitle: "Explosive Impact and Reach for Mid-Tempo, Riff-Locked Grooves",
       badge: "GEAR GUIDE 2026",
       stats: [
-        { value: '4', label: 'Sticks Reviewed' },
+        { value: '3', label: 'Sticks Reviewed' },
         { value: '7 min', label: 'Read Time' },
         { value: '2026', label: 'Updated' }
       ]
@@ -90568,7 +90567,7 @@ One overlooked factor: extreme metal's sustained abuse means a stick's long-term
       title: "Why Groove Metal Sticks Need Impact, Not Blast-Beat Speed",
       content: `Groove metal's mid-tempo (100-140 BPM), riff-locked patterns put the snare and kick front and center, and the stick choices behind the genre's most influential drummers reflect that: rather than optimizing for blast-beat rebound, groove metal sticks are built to land with explosive, cutting impact on fewer, more deliberate accents. It's a different problem than thrash or death metal's rapid-fire endurance demands.
 
-Vinnie Paul built the genre's founding template on a standard Vic Firth American Classic 5B, delivering the explosive accents that anchored Pantera's "Cowboys from Hell" and "Vulgar Display of Power." Chris Adler of Lamb of God plays his own Promark signature stick — an extra-long 5A-diameter model that trades raw mass for added reach and precise control on Lamb of God's syncopated riff-locking grooves. Shannon Larkin of Godsmack plays his own Promark signature stick, built for the explosive, radio-ready punch behind two decades of multi-platinum Godsmack records. Igor Cavalera of Sepultura runs a standard Vic Firth 5B, anchoring the heavier end of groove metal's spectrum for tribal, down-tuned riffing.
+Vinnie Paul built the genre's founding template on a standard Vic Firth American Classic 5B, delivering the explosive accents that anchored Pantera's "Cowboys from Hell" and "Vulgar Display of Power." Chris Adler of Lamb of God plays his own Promark signature stick — an extra-long 5A-diameter model that trades raw mass for added reach and precise control on Lamb of God's syncopated riff-locking grooves. Igor Cavalera of Sepultura runs a standard Vic Firth 5B, anchoring the heavier end of groove metal's spectrum for tribal, down-tuned riffing.
 
 This guide covers what actually makes a drumstick work for groove metal's deliberate, riff-locked dynamic, what the genre's most influential drummers actually play, and concrete recommendations from budget to pro.`,
       keyPoints: [
@@ -90586,7 +90585,7 @@ This guide covers what actually makes a drumstick work for groove metal's delibe
         {
           name: "Explosive, Cutting Impact",
           icon: "💥",
-          description: "Groove metal's mid-tempo, riff-locked patterns depend on a stick landing with real force on accented downbeats. Vinnie Paul's standard 5B and Shannon Larkin's signature model are both built to deliver that immediate, explosive punch on deliberate, less frequent hits.",
+          description: "Groove metal's mid-tempo, riff-locked patterns depend on a stick landing with real force on accented downbeats. Vinnie Paul's standard 5B is built to deliver that immediate, explosive punch on deliberate, less frequent hits.",
           recommendation: "Medium-to-heavy diameter for explosive impact on deliberate downbeats"
         },
         {
@@ -90610,7 +90609,7 @@ This guide covers what actually makes a drumstick work for groove metal's delibe
         {
           name: "Tip Shape",
           icon: "🔵",
-          description: "The oval tip on Vinnie Paul's and Igor Cavalera's standard 5B remains a dependable, versatile choice for groove metal's full stylistic range, while Chris Adler's and Shannon Larkin's signature tips are tuned for a bit more cutting definition on tightly syncopated material.",
+          description: "The oval tip on Vinnie Paul's and Igor Cavalera's standard 5B remains a dependable, versatile choice for groove metal's full stylistic range, while Chris Adler's signature tip is tuned for a bit more cutting definition on tightly syncopated material.",
           recommendation: "Oval for versatile all-purpose response; signature-tuned tips for extra syncopated definition"
         },
         {
@@ -90706,45 +90705,6 @@ It's proof that groove metal's explosive template doesn't require maximum diamet
         },
         {
           rank: 3,
-          name: "Promark Shannon Larkin Signature",
-          brand: "Promark",
-          model: "Shannon Larkin Signature",
-          image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Drumsticks.jpg/640px-Drumsticks.jpg",
-          priceRange: "€12-16 (pair)",
-          tier: "pro",
-          material: "American Hickory",
-
-          description: `Shannon Larkin's own Promark signature stick delivers the explosive, radio-ready punch behind two decades of multi-platinum Godsmack albums, from "Faceless" through "When Legends Rise." Built at a standard, dependable diameter with an oval tip, it's tuned for the cutting attack Larkin's groove-oriented rhythms demand on accented downbeats.
-
-Larkin's signature stick shows that a well-tuned standard-diameter model can deliver explosive impact just as reliably as a heavier 5B, with a bit more cutting definition.`,
-
-          pros: [
-            "Shannon Larkin's own signature — proven across two decades of Godsmack's multi-platinum catalog",
-            "Standard diameter with oval tip for cutting, explosive attack",
-            "American hickory for durability across extended touring schedules",
-            "Dependable, radio-ready punch on accented downbeats",
-            "Comparable pricing to standard American Classic models"
-          ],
-          cons: [
-            "Less documented touring pedigree outside Godsmack's specific catalog",
-            "Standard diameter offers less raw mass than a full 5B"
-          ],
-          specs: {
-            material: "American Hickory",
-            diameter: "0.580\"",
-            length: "16.25\"",
-            tip: "Oval (wood)",
-            grip: "Lacquered"
-          },
-          usedBy: [
-            { name: "Shannon Larkin", band: "Godsmack", note: "Promark signature — explosive, radio-ready punch" }
-          ],
-          verdict: "The radio-ready pick. Best for groove metal drummers chasing explosive, cutting impact with dependable control.",
-          rating: 4.6,
-          affiliateLink: "https://www.thomann.de/intl/promark_shannon_larkin_signature.htm?partner_id=metalforge"
-        },
-        {
-          rank: 4,
           name: "Vic Firth American Classic 5B (Cavalera)",
           brand: "Vic Firth",
           model: "American Classic 5B Wood Tip",
@@ -90831,12 +90791,12 @@ Alongside Vinnie Paul, Cavalera's choice reinforces that a standard 5B remains g
 - Maximum standard diameter for raw, explosive accent impact
 - Preferred by: Vinnie Paul, Igor Cavalera
 
-**Extended Signature Models (Promark Chris Adler, Promark Shannon Larkin):**
-- Engineered around specific reach, precision, or cutting-definition demands
-- Extra length or tuned tip geometry substitutes for raw diameter
-- Preferred by: Chris Adler, Shannon Larkin
+**Extended Signature Model (Promark Chris Adler):**
+- Engineered around specific reach and precision demands
+- Extra length substitutes for raw diameter
+- Preferred by: Chris Adler
 
-**The Truth:** Both approaches work at groove metal's highest level. Vinnie Paul's and Igor Cavalera's standard 5B choices prove raw diameter alone delivers the genre's founding explosive template. Chris Adler's extended-reach signature shows how added length can deliver comparable impact with more precision on tightly syncopated material, while Shannon Larkin's signature adds cutting definition at a standard diameter.
+**The Truth:** Both approaches work at groove metal's highest level. Vinnie Paul's and Igor Cavalera's standard 5B choices prove raw diameter alone delivers the genre's founding explosive template. Chris Adler's extended-reach signature shows how added length can deliver comparable impact with more precision on tightly syncopated material.
 
 **Our Recommendation:** Start with a standard Vic Firth 5B for the genre's proven, founding explosive template. If your material leans toward tightly syncopated, riff-locking precision, Chris Adler's extended-reach signature is worth the upgrade.`,
       comparisonTable: [
@@ -90863,11 +90823,6 @@ Alongside Vinnie Paul, Cavalera's choice reinforces that a standard 5B remains g
           reason: "Chris Adler's extended-reach pick — precise control for Lamb of God's riff-locking grooves."
         },
         {
-          category: "Best for Radio-Ready Punch",
-          pedal: "Promark Shannon Larkin Signature",
-          reason: "Shannon Larkin's cutting, explosive attack behind two decades of Godsmack records."
-        },
-        {
           category: "Best Budget Pick",
           pedal: "Promark Classic Forward 5A",
           reason: "Lighter, affordable option with extra attack authority on syncopated accents."
@@ -90885,7 +90840,6 @@ Alongside Vinnie Paul, Cavalera's choice reinforces that a standard 5B remains g
     relatedDrummers: [
       { slug: 'vinnie-paul', name: 'Vinnie Paul', reason: 'Vic Firth American Classic 5B — groove metal\'s founding explosive template' },
       { slug: 'chris-adler', name: 'Chris Adler', reason: 'Promark TX5AXW signature — Lamb of God\'s syncopated riff-locking precision' },
-      { slug: 'shannon-larkin', name: 'Shannon Larkin', reason: 'Promark signature — Godsmack\'s explosive, radio-ready punch' },
       { slug: 'igor-cavalera', name: 'Igor Cavalera', reason: 'Vic Firth American Classic 5B — Sepultura\'s tribal, down-tuned groove weight' }
     ],
 
@@ -90893,7 +90847,6 @@ Alongside Vinnie Paul, Cavalera's choice reinforces that a standard 5B remains g
     featuredDrummers: [
       { slug: 'vinnie-paul', name: 'Vinnie Paul', reason: 'Vic Firth American Classic 5B — Pantera\'s founding groove metal template' },
       { slug: 'chris-adler', name: 'Chris Adler', reason: 'Promark TX5AXW Signature — Lamb of God\'s syncopated precision' },
-      { slug: 'shannon-larkin', name: 'Shannon Larkin', reason: 'Promark Signature — Godsmack\'s multi-platinum groove punch' },
       { slug: 'igor-cavalera', name: 'Igor Cavalera', reason: 'Vic Firth American Classic 5B — Sepultura\'s tribal groove weight' }
     ],
     relatedComparisons: [],
@@ -90911,10 +90864,6 @@ Alongside Vinnie Paul, Cavalera's choice reinforces that a standard 5B remains g
       {
         question: "What's the best drumstick for groove metal accents?",
         answer: "A standard 5B like Vinnie Paul's and Igor Cavalera's choice delivers maximum explosive accent impact. For drummers who prioritize syncopated precision over raw diameter, Chris Adler's extended-length Promark signature is a proven alternative."
-      },
-      {
-        question: "What drumsticks does Shannon Larkin use?",
-        answer: "Shannon Larkin of Godsmack plays his own Promark signature stick, tuned for the explosive, radio-ready punch behind two decades of multi-platinum Godsmack albums."
       },
       {
         question: "Do groove metal drummers need blast-beat-speed sticks?",
@@ -91769,13 +91718,12 @@ For most progressive metal drummers, start with a standard Vic Firth American Cl
     // SEO metadata
     title: "Best Drumsticks for Sludge Metal: 2026 Ultimate Guide",
     metaTitle: "Best Drumsticks for Sludge Metal 2026 | MetalForge Expert Guide",
-    description: "Best drumsticks for sludge metal drumming: what Brann Dailor (Vater Signature), Igor Cavalera (Vic Firth 5B), Shannon Larkin (Promark Signature), and Mario Duplantier (Vic Firth X5A) actually play. Heavy sticks built for low-tempo power — ranked budget to pro.",
+    description: "Best drumsticks for sludge metal drumming: what Brann Dailor (Vater Signature), Igor Cavalera (Vic Firth 5B), and Mario Duplantier (Vic Firth X5A) actually play. Heavy sticks built for low-tempo power — ranked budget to pro.",
     seoKeywords: [
       'best drumsticks for sludge metal',
       'sludge metal drumsticks',
       'brann dailor drumsticks',
       'igor cavalera drumsticks',
-      'shannon larkin drumsticks',
       'mario duplantier drumsticks',
       'vater brann dailor signature',
       'best sticks for down tuned riffs',
@@ -91795,7 +91743,7 @@ For most progressive metal drummers, start with a standard Vic Firth American Cl
       subtitle: "Heavy Sticks Built for Low-Tempo Power",
       badge: "GEAR GUIDE 2026",
       stats: [
-        { value: '4', label: 'Sticks Reviewed' },
+        { value: '3', label: 'Sticks Reviewed' },
         { value: '7 min', label: 'Read Time' },
         { value: '2026', label: 'Updated' }
       ]
@@ -91806,7 +91754,7 @@ For most progressive metal drummers, start with a standard Vic Firth American Cl
       title: "Why Sludge Metal Rewards a Heavier Stick",
       content: `Sludge metal's slow-to-mid tempo, down-tuned weight, and doom-adjacent atmosphere put a different demand on a drumstick than a fast, technical genre does. Where blast-beat drumming prioritizes fast rebound above all else, sludge metal drumming prioritizes mass — every deliberate downbeat has to carry real authority, and a heavier stick delivers that weight without requiring more effort from the drummer.
 
-Brann Dailor of Mastodon plays his own Vater signature stick, built around the deliberate, weighted attack that anchors Mastodon's progressive sludge fills across albums like "Leviathan" and "Crack the Skye." Igor Cavalera of Sepultura plays a standard Vic Firth American Classic 5B, anchoring the heavier end of sludge and groove's stick spectrum for the tribal, down-tuned grooves he helped pioneer on "Chaos A.D." and "Roots." Shannon Larkin, whose work spans Godsmack's sludge-influenced hard rock weight, plays his own Promark signature stick, tuned for explosive, radio-ready punch on accented downbeats. Mario Duplantier of Gojira, whose tectonic, down-tuned riffing sits directly adjacent to sludge metal's tonal territory, plays the Vic Firth X5A, an extended-length stick that trades diameter for reach.
+Brann Dailor of Mastodon plays his own Vater signature stick, built around the deliberate, weighted attack that anchors Mastodon's progressive sludge fills across albums like "Leviathan" and "Crack the Skye." Igor Cavalera of Sepultura plays a standard Vic Firth American Classic 5B, anchoring the heavier end of sludge and groove's stick spectrum for the tribal, down-tuned grooves he helped pioneer on "Chaos A.D." and "Roots." Mario Duplantier of Gojira, whose tectonic, down-tuned riffing sits directly adjacent to sludge metal's tonal territory, plays the Vic Firth X5A, an extended-length stick that trades diameter for reach.
 
 This guide covers what actually makes a stick work for sludge metal's slow, weighted demands, what the genre's most influential drummers actually play, and concrete recommendations from budget to pro.`,
       keyPoints: [
@@ -91854,7 +91802,7 @@ This guide covers what actually makes a stick work for sludge metal's slow, weig
         {
           name: "Signature vs Standard",
           icon: "🎯",
-          description: "Sludge metal splits between purpose-built signature sticks (Brann Dailor, Shannon Larkin) and standard off-the-shelf sizes (Igor Cavalera). Both are proven at the genre's highest level — the deciding factor is whether a standard 5B already delivers the weight your playing needs.",
+          description: "Sludge metal splits between purpose-built signature sticks (Brann Dailor) and standard off-the-shelf sizes (Igor Cavalera). Both are proven at the genre's highest level — the deciding factor is whether a standard 5B already delivers the weight your playing needs.",
           recommendation: "Standard 5B is a fully valid heavy option; a signature model is worth it for a specific tonal or leverage advantage"
         }
       ]
@@ -91944,45 +91892,6 @@ Cavalera's choice reinforces that a standard 5B remains one of sludge metal's mo
         },
         {
           rank: 3,
-          name: "Promark Shannon Larkin Signature",
-          brand: "Promark",
-          model: "Shannon Larkin Signature",
-          image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Drumsticks.jpg/640px-Drumsticks.jpg",
-          priceRange: "€12-16 (pair)",
-          tier: "pro",
-          material: "American Hickory",
-
-          description: `Shannon Larkin's own Promark signature stick delivers the explosive, radio-ready punch behind two decades of multi-platinum Godsmack albums, whose sludge-influenced hard rock weight sits close to the genre's tonal territory. Built at a standard, dependable diameter with an oval tip, it's tuned for the cutting attack Larkin's weighted, groove-oriented rhythms demand on accented downbeats.
-
-Larkin's signature stick shows that a well-tuned standard-diameter model can deliver explosive impact just as reliably as a heavier 5B, with a bit more cutting definition.`,
-
-          pros: [
-            "Shannon Larkin's own signature — proven across two decades of sludge-influenced hard rock weight",
-            "Standard diameter with oval tip for cutting, explosive attack",
-            "American hickory for durability across extended touring schedules",
-            "Dependable, radio-ready punch on accented downbeats",
-            "Comparable pricing to standard American Classic models"
-          ],
-          cons: [
-            "Less documented pedigree specifically within pure sludge metal",
-            "Standard diameter offers less raw mass than a full 5B"
-          ],
-          specs: {
-            material: "American Hickory",
-            diameter: "0.580\"",
-            length: "16.25\"",
-            tip: "Oval (wood)",
-            grip: "Lacquered"
-          },
-          usedBy: [
-            { name: "Shannon Larkin", band: "Godsmack", note: "Promark signature — explosive, radio-ready punch with sludge-adjacent weight" }
-          ],
-          verdict: "The radio-ready pick. Best for sludge metal drummers chasing explosive, cutting impact with dependable control.",
-          rating: 4.6,
-          affiliateLink: "https://www.thomann.de/intl/promark_shannon_larkin_signature.htm?partner_id=metalforge"
-        },
-        {
-          rank: 4,
           name: "Vic Firth X5A",
           brand: "Vic Firth",
           model: "American Classic Extended X5A",
@@ -92064,11 +91973,11 @@ For sludge drummers who want more leverage without committing to a heavier-feeli
       title: "Signature Sticks vs Standard Sizes for Sludge Metal",
       content: `Sludge metal's most recognizable drummers split between purpose-built signature sticks and proven standard sizes — here's the honest breakdown:
 
-**Signature Models (Vater Dailor, Promark Larkin):**
-- Engineered around one drummer's specific weighted or explosive attack
+**Signature Model (Vater Dailor):**
+- Engineered around one drummer's specific weighted attack
 - Often feature distinctive diameters, tips, or weight distribution not found in standard sizes
 - Premium pricing reflects the R&D behind a true signature partnership
-- Preferred by: Brann Dailor, Shannon Larkin
+- Preferred by: Brann Dailor
 
 **Standard/Extended Sizes (Vic Firth 5B, Vic Firth X5A):**
 - Broadly proven, widely available, and more affordable
@@ -92102,11 +92011,6 @@ For sludge drummers who want more leverage without committing to a heavier-feeli
           reason: "Igor Cavalera's proven choice for tribal, down-tuned sludge and groove authority."
         },
         {
-          category: "Best for Explosive Radio-Ready Punch",
-          pedal: "Promark Shannon Larkin Signature",
-          reason: "Godsmack's Shannon Larkin's stick — cutting, dependable attack on accented downbeats."
-        },
-        {
           category: "Best Budget Pick",
           pedal: "Vic Firth American Classic 5B",
           reason: "Standard Vic Firth quality for sludge metal's weighted downbeats without signature pricing."
@@ -92124,7 +92028,6 @@ For sludge drummers who want more leverage without committing to a heavier-feeli
     relatedDrummers: [
       { slug: 'brann-dailor', name: 'Brann Dailor', reason: 'Vater signature — Mastodon sludge metal\'s most direct working analogue' },
       { slug: 'igor-cavalera', name: 'Igor Cavalera', reason: 'Vic Firth American Classic 5B — Sepultura tribal, down-tuned free-resonance weight' },
-      { slug: 'shannon-larkin', name: 'Shannon Larkin', reason: 'Promark signature — Godsmack sludge-influenced hard rock weight' },
       { slug: 'mario-duplantier', name: 'Mario Duplantier', reason: 'Vic Firth X5A — Gojira tectonic, sludge-adjacent weight' }
     ],
 
@@ -92132,7 +92035,6 @@ For sludge drummers who want more leverage without committing to a heavier-feeli
     featuredDrummers: [
       { slug: 'brann-dailor', name: 'Brann Dailor', reason: 'Vater signature — Mastodon\'s progressive sludge metal fills' },
       { slug: 'igor-cavalera', name: 'Igor Cavalera', reason: 'Vic Firth American Classic 5B — Sepultura\'s tribal, down-tuned weight' },
-      { slug: 'shannon-larkin', name: 'Shannon Larkin', reason: 'Promark signature — Godsmack\'s sludge-influenced hard rock punch' },
       { slug: 'mario-duplantier', name: 'Mario Duplantier', reason: 'Vic Firth X5A — Gojira\'s tectonic, down-tuned riffing' }
     ],
     relatedComparisons: [],
@@ -92150,10 +92052,6 @@ For sludge drummers who want more leverage without committing to a heavier-feeli
       {
         question: "What's the best drumstick for sludge metal's slow, heavy downbeats?",
         answer: "A heavier standard diameter — 0.590\" to 0.595\" — with a full-contact barrel or oval tip works best. Brann Dailor's Vater signature and Igor Cavalera's Vic Firth 5B are both proven at this end of the spectrum, since sludge metal's deliberate pacing rewards mass over fast rebound."
-      },
-      {
-        question: "What drumsticks does Shannon Larkin use?",
-        answer: "Shannon Larkin plays his own Promark signature stick, a standard-diameter, oval-tip model tuned for the explosive, radio-ready punch behind two decades of Godsmack's sludge-influenced hard rock weight."
       },
       {
         question: "Do sludge metal drummers need heavier sticks than other metal genres?",
@@ -93639,13 +93537,12 @@ For most deathcore drummers, start with a standard Vic Firth 5B to find your bas
     // SEO metadata
     title: "Best Drumsticks for Nu-Metal: 2026 Ultimate Guide",
     metaTitle: "Best Drumsticks for Nu-Metal 2026 | MetalForge Expert Guide",
-    description: "Best drumsticks for nu-metal drumming: what Joey Jordison (Promark TX515W Signature), Ray Luzier (Vic Firth Signature), Shannon Larkin (Promark Signature), and John Otto (Vic Firth 5B) actually play. Thicker sticks for groove-based power and explosive impact — ranked budget to pro.",
+    description: "Best drumsticks for nu-metal drumming: what Joey Jordison (Promark TX515W Signature), Ray Luzier (Vic Firth Signature), and John Otto (Vic Firth 5B) actually play. Thicker sticks for groove-based power and explosive impact — ranked budget to pro.",
     seoKeywords: [
       'best drumsticks for nu metal',
       'nu metal drumsticks',
       'joey jordison drumsticks slipknot',
       'ray luzier drumsticks korn',
-      'shannon larkin drumsticks godsmack',
       'john otto drumsticks limp bizkit',
       'promark tx515w drumsticks',
       'best sticks for groove metal power',
@@ -93665,7 +93562,7 @@ For most deathcore drummers, start with a standard Vic Firth 5B to find your bas
       subtitle: "Thicker Sticks for Groove-Based Power and Explosive Impact",
       badge: "GEAR GUIDE 2026",
       stats: [
-        { value: '4', label: 'Sticks Reviewed' },
+        { value: '3', label: 'Sticks Reviewed' },
         { value: '7 min', label: 'Read Time' },
         { value: '2026', label: 'Updated' }
       ]
@@ -93676,13 +93573,13 @@ For most deathcore drummers, start with a standard Vic Firth 5B to find your bas
       title: "Why Nu-Metal Rewards a Thicker, Groove-First Stick",
       content: `Nu-metal built its identity on groove over speed — down-tuned, mid-tempo riffs that lock a drummer's pocket to the guitar rather than chasing blast-beat tempo. That priority shows up directly in stick choice: nu-metal's most influential drummers favor thicker diameters that drive explosive, radio-ready impact into every accented hit, rather than the lighter, speed-tuned sticks extreme metal depends on.
 
-Joey Jordison of Slipknot played his own Promark TX515W signature stick from 2008 onward, a long-tapered 5A-class model chosen for the reach and speed his explosive, technically demanding playing required across his massive kit. Ray Luzier of Korn plays his own Vic Firth signature stick, built for the driving low-end power Korn's groove-locked riffing demands. Shannon Larkin of Godsmack plays his own Promark signature stick, delivering the explosive, radio-ready punch behind two decades of multi-platinum records. John Otto of Limp Bizkit anchors his groove-first playing on a standard Vic Firth American Classic 5B, prioritizing raw diameter for maximum accent impact.
+Joey Jordison of Slipknot played his own Promark TX515W signature stick from 2008 onward, a long-tapered 5A-class model chosen for the reach and speed his explosive, technically demanding playing required across his massive kit. Ray Luzier of Korn plays his own Vic Firth signature stick, built for the driving low-end power Korn's groove-locked riffing demands. John Otto of Limp Bizkit anchors his groove-first playing on a standard Vic Firth American Classic 5B, prioritizing raw diameter for maximum accent impact.
 
 This guide covers what actually makes a stick work for nu-metal's groove-first, power-driven demands, what the genre's most influential drummers actually play, and concrete recommendations from budget to pro.`,
       keyPoints: [
         "Nu-metal's groove-locked, mid-tempo riffing rewards stick mass over blast-beat speed",
         "Joey Jordison's Promark TX515W favors reach and speed, while John Otto's Vic Firth 5B favors raw power-first diameter",
-        "Ray Luzier's, Shannon Larkin's, and Joey Jordison's signature sticks are each purpose-built for their own band's demands",
+        "Ray Luzier's and Joey Jordison's signature sticks are each purpose-built for their own band's demands",
         "5A/5B-class diameter covers the nu-metal range, with signature models adding tuned tip shapes or tapers for extra cutting power or reach"
       ]
     },
@@ -93700,13 +93597,13 @@ This guide covers what actually makes a stick work for nu-metal's groove-first, 
         {
           name: "Tip Shape for Cutting Power",
           icon: "🎯",
-          description: "Ray Luzier's and Shannon Larkin's signature tips are tuned for extra cutting definition, helping a stick punch through nu-metal's dense, down-tuned guitar walls without losing articulation.",
+          description: "Ray Luzier's signature tip is tuned for extra cutting definition, helping a stick punch through nu-metal's dense, down-tuned guitar walls without losing articulation.",
           recommendation: "Acorn or oval tips tuned for cutting definition through a dense mix"
         },
         {
           name: "Weight for Explosive Accents",
           icon: "💥",
-          description: "Shannon Larkin's Promark signature is built specifically for the explosive, radio-ready punch behind Godsmack's records — proof that a well-tuned standard-diameter model can deliver the same impact as a heavier 5B.",
+          description: "John Otto's standard Vic Firth American Classic 5B is built for explosive impact on deliberate downbeats — proof that a well-chosen standard-diameter model can deliver the punch nu-metal's groove-locked accents demand.",
           recommendation: "Medium-to-heavy diameter for explosive impact on deliberate downbeats"
         },
         {
@@ -93724,7 +93621,7 @@ This guide covers what actually makes a stick work for nu-metal's groove-first, 
         {
           name: "Signature vs Standard",
           icon: "🎯",
-          description: "Nu-metal splits between drummers on purpose-built signature sticks (Joey Jordison, Ray Luzier, Shannon Larkin) and drummers on standard sizes (John Otto). Both approaches are proven at the genre's highest level.",
+          description: "Nu-metal splits between drummers on purpose-built signature sticks (Joey Jordison, Ray Luzier) and drummers on standard sizes (John Otto). Both approaches are proven at the genre's highest level.",
           recommendation: "Standard 5B is a fully valid choice; a signature model is worth it for a tuned taper or cutting power"
         }
       ]
@@ -93814,45 +93711,6 @@ Luzier's signature stick shows how a purpose-built model can serve nu-metal's gr
         },
         {
           rank: 3,
-          name: "Promark Shannon Larkin Signature",
-          brand: "Promark",
-          model: "Shannon Larkin Signature",
-          image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Drumsticks.jpg/640px-Drumsticks.jpg",
-          priceRange: "€12-16 (pair)",
-          tier: "pro",
-          material: "American Hickory",
-
-          description: `Shannon Larkin's own Promark signature stick delivers the explosive, radio-ready punch behind two decades of multi-platinum Godsmack albums, from "Faceless" through "When Legends Rise." Built at a standard, dependable diameter with an oval tip, it's tuned for the cutting attack Larkin's groove-oriented rhythms demand on accented downbeats.
-
-Larkin's signature stick shows that a well-tuned standard-diameter model can deliver explosive impact just as reliably as a heavier 5B, with a bit more cutting definition.`,
-
-          pros: [
-            "Shannon Larkin's own signature — proven across two decades of Godsmack's multi-platinum catalog",
-            "Standard diameter with oval tip for cutting, explosive attack",
-            "American hickory for durability across heavy touring schedules",
-            "Well-defined attack cuts through dense, down-tuned mixes",
-            "Widely available at accessible signature pricing"
-          ],
-          cons: [
-            "Signature pricing above generic American Classic models",
-            "Standard diameter offers less raw mass than a full 5B"
-          ],
-          specs: {
-            material: "American Hickory",
-            diameter: "0.580\"",
-            length: "16.25\"",
-            tip: "Oval (wood)",
-            grip: "Lacquered"
-          },
-          usedBy: [
-            { name: "Shannon Larkin", band: "Godsmack", note: "Promark signature — explosive, radio-ready punch" }
-          ],
-          verdict: "Shannon Larkin's Godsmack weapon. Best for nu-metal drummers who want cutting, radio-ready impact.",
-          rating: 4.5,
-          affiliateLink: "https://www.thomann.de/intl/promark_shannon_larkin_signature.htm?partner_id=metalforge"
-        },
-        {
-          rank: 4,
           name: "Vic Firth American Classic 5B",
           brand: "Vic Firth",
           model: "American Classic 5B Wood Tip",
@@ -93934,19 +93792,19 @@ Otto's choice reinforces that nu-metal's explosive template doesn't strictly req
       title: "Signature vs Standard Sticks for Nu-Metal",
       content: `Nu-metal's most influential drummers split between purpose-built signature sticks and a proven standard size — here's the honest breakdown:
 
-**Signature Models (Promark Joey Jordison, Vic Firth Ray Luzier, Promark Shannon Larkin):**
+**Signature Models (Promark Joey Jordison, Vic Firth Ray Luzier):**
 - Engineered around a specific drummer's own attack, taper, and tip
 - Tuned tip shapes and tapers add cutting definition or reach through dense, down-tuned mixes
-- Preferred by: Joey Jordison, Ray Luzier, Shannon Larkin
+- Preferred by: Joey Jordison, Ray Luzier
 
 **Standard Size (Vic Firth 5B):**
 - Broadly proven, widely available, and more affordable
 - John Otto's pick shows maximum standard diameter alone delivers real accent impact
 - Preferred by: John Otto
 
-**The Truth:** Both approaches work at nu-metal's highest level. Ray Luzier's, Shannon Larkin's, and Joey Jordison's signature sticks exist because each drummer's material rewards a tuned tip, taper, or diameter for maximum cutting power or reach. John Otto's standard pick shows raw diameter alone can carry nu-metal's explosive, riff-locked demands.
+**The Truth:** Both approaches work at nu-metal's highest level. Ray Luzier's and Joey Jordison's signature sticks exist because each drummer's material rewards a tuned tip, taper, or diameter for maximum cutting power or reach. John Otto's standard pick shows raw diameter alone can carry nu-metal's explosive, riff-locked demands.
 
-**Our Recommendation:** Start with a standard Vic Firth 5A/5B to find your baseline feel. If you're chasing extra cutting definition or reach through a dense, down-tuned mix, a signature model like Jordison's, Luzier's, or Larkin's is worth the upgrade.`,
+**Our Recommendation:** Start with a standard Vic Firth 5A/5B to find your baseline feel. If you're chasing extra cutting definition or reach through a dense, down-tuned mix, a signature model like Jordison's or Luzier's is worth the upgrade.`,
       comparisonTable: [
         { feature: "Groove-Locked Accent Power", wood: "⭐⭐⭐⭐⭐", aluminum: "⭐⭐⭐" },
         { feature: "Cutting Definition", wood: "⭐⭐⭐⭐", aluminum: "⭐⭐⭐⭐⭐" },
@@ -93971,11 +93829,6 @@ Otto's choice reinforces that nu-metal's explosive template doesn't strictly req
           reason: "Ray Luzier's Korn signature — driving, tuned power for down-tuned grooves."
         },
         {
-          category: "Best for Radio-Ready Punch",
-          pedal: "Promark Shannon Larkin Signature",
-          reason: "Shannon Larkin's Godsmack signature — explosive, cutting attack."
-        },
-        {
           category: "Best Budget Pick",
           pedal: "Vic Firth American Classic 5B",
           reason: "Maximum standard diameter for nu-metal's groove-locked accent weight."
@@ -93993,7 +93846,6 @@ Otto's choice reinforces that nu-metal's explosive template doesn't strictly req
     relatedDrummers: [
       { slug: 'joey-jordison', name: 'Joey Jordison', reason: 'Promark TX515W signature — Slipknot reach and speed' },
       { slug: 'ray-luzier', name: 'Ray Luzier', reason: 'Vic Firth signature — Korn groove-locked driving power' },
-      { slug: 'shannon-larkin', name: 'Shannon Larkin', reason: 'Promark signature — Godsmack radio-ready punch' },
       { slug: 'john-otto', name: 'John Otto', reason: 'Vic Firth American Classic 5B — Limp Bizkit groove-first weight' }
     ],
 
@@ -94001,7 +93853,6 @@ Otto's choice reinforces that nu-metal's explosive template doesn't strictly req
     featuredDrummers: [
       { slug: 'joey-jordison', name: 'Joey Jordison', reason: 'Promark TX515W signature — Slipknot\'s explosive, technically demanding catalog' },
       { slug: 'ray-luzier', name: 'Ray Luzier', reason: 'Vic Firth signature — Korn\'s groove-locked, down-tuned power' },
-      { slug: 'shannon-larkin', name: 'Shannon Larkin', reason: 'Promark signature — Godsmack\'s multi-platinum radio-ready catalog' },
       { slug: 'john-otto', name: 'John Otto', reason: 'Vic Firth American Classic 5B — Limp Bizkit\'s iconic nu-metal groove' }
     ],
     relatedComparisons: [],
@@ -94021,10 +93872,6 @@ Otto's choice reinforces that nu-metal's explosive template doesn't strictly req
         answer: "A 5A-to-5B diameter range covers nu-metal's demands well. John Otto's standard Vic Firth 5B sits at the power-first end of that range, while Joey Jordison's Promark TX515W sits at the 5A-class end, trading some diameter for reach and speed."
       },
       {
-        question: "What drumsticks does Shannon Larkin use?",
-        answer: "Shannon Larkin of Godsmack plays his own Promark signature stick, built at a standard diameter with an oval tip tuned for the explosive, radio-ready punch behind two decades of multi-platinum Godsmack records."
-      },
-      {
         question: "Do nu-metal drummers need thicker sticks than extreme metal drummers?",
         answer: "Often, yes. Nu-metal's groove-locked, mid-tempo riffing rewards stick mass over blast-beat speed, which is why John Otto's pick sits at a full 5B diameter rather than the lighter sticks extreme metal's blast-beat drummers favor — though Joey Jordison's 5A-class Promark TX515W shows reach and taper can substitute for raw diameter."
       }
@@ -94033,9 +93880,9 @@ Otto's choice reinforces that nu-metal's explosive template doesn't strictly req
     // Conclusion
     conclusion: {
       title: "Find Your Nu-Metal Stick",
-      content: `Nu-metal's stick choices reflect the genre's core identity: groove and pocket over blast-beat speed. John Otto's standard Vic Firth 5B proves that a well-chosen power-first diameter carries the genre's explosive, riff-locked demands. Joey Jordison's, Ray Luzier's, and Shannon Larkin's signature sticks each add a tuned tip or taper on top of that same foundation, for drummers chasing extra cutting definition or reach through a dense, down-tuned mix.
+      content: `Nu-metal's stick choices reflect the genre's core identity: groove and pocket over blast-beat speed. John Otto's standard Vic Firth 5B proves that a well-chosen power-first diameter carries the genre's explosive, riff-locked demands. Joey Jordison's and Ray Luzier's signature sticks each add a tuned tip or taper on top of that same foundation, for drummers chasing extra cutting definition or reach through a dense, down-tuned mix.
 
-For most nu-metal drummers, start with a standard Vic Firth 5A/5B to find your baseline feel. If you want more cutting power or reach through a heavily down-tuned mix, a signature model like Jordison's, Luzier's, or Larkin's is worth the upgrade.
+For most nu-metal drummers, start with a standard Vic Firth 5A/5B to find your baseline feel. If you want more cutting power or reach through a heavily down-tuned mix, a signature model like Jordison's or Luzier's is worth the upgrade.
 
 🤘 **Find the pocket. Drive the groove. Cut through the mix.**`
     }

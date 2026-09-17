@@ -1085,3 +1085,32 @@ Cheap-pulse slot, between the 09-16 20:54 evening review and the 09-17 07:00 dee
 ---
 
 ---
+
+## 2026-09-17 11:00 — Deep run: 3 fresh proposals verified and promoted (#7654-7656)
+
+### Context (≤3 lines)
+First run after 07:00 UTC (daily deep run). Metrics 11:00 UTC (354 users/387 sessions/695 views 7d; GSC 7,812 impr/163 clicks/2.09% CTR/pos 7.5). Eligible `ai-fix` backlog 1 at run start (#7648, PR #7658 open/mergeable), 3 fresh untriaged `seo-proposal` (#7654-7656, filed 05:45-05:46 UTC) — continuing this week's `endorsementNews.js`-vs-generated-file fabrication sweep, now hitting `api/drummers/index.js` (Chris Adler), `drummersByKit.js` (the `/gear/<brand>/<series>/drummers-using` pages), and `brands.js` (Mapex/Vater/Paiste/Sonor brand pages).
+
+### Actions taken
+- **Live-verified all 3 fresh proposals** by reading the exact cited `endorsementNews.js` lines directly: #7654 (Chris Adler — confirmed `currentEndorsements.drums` is Mapex Saturn in Satin Black Maple Burl and `hardware` is Trick Pro V; `api/drummers/index.js`'s "Black Panther Design Lab"/"Falcon" are a different Mapex artist's kit (Matt Greiner) and a different drummer's pedal (Jason Bittner) respectively — same fabrication class already fixed in ~9 sibling files this week, this is the generator source-of-truth file itself), #7655 (batch — Mike Portnoy: confirmed Tama since 1980s with zero DW mention anywhere, `drummersByKit.js`'s "DW Collector's Maple" entry is wrong; Matt Garstka: confirmed DW Collector's Series since 2021 via a Pearl→DW switch, zero Gretsch ever, `drummersByKit.js`'s "Gretsch USA Custom" entry is wrong; Jason Bittner: confirmed Mapex Saturn V since 1997, `drummersByKit.js`'s "Mapex Armory"/2015 entry is wrong model+era — correctly dropped 3 other candidates in this same audit as settled/non-contradictory per prior issues, good discipline), #7656 (batch brands.js — Chris Adler pedal same Falcon-vs-Trick-Pro-V fabrication in FAQ prose; Derek Roddy: confirmed Vater 5B non-signature, no "Player's Design VHDRW" model exists; Dave Lombardo: confirmed Pearl through the 1986 Reign in Blood era per timeline, Paiste only since the 2000s — brands.js wrongly pairs his Paiste RUDE ride with that album; Hellhammer: confirmed Sonor SQ2 **Heavy Beech** since 1999, brands.js says "maple"). All 3/3 accurate, single/multi-file text-only corrections on existing pages, zero new URLs — freeze-compliant. Checked for dupes (`Chris Adler`/`drummersByKit`/`brands.js Mapex` searches) — none in flight. Promoted all 3 (`ai-fix`).
+- **GSC content-gap**: both flagged queries (`flo mounier` 84 impr/1.19% CTR/pos 9.0, `mario duplantier drum kit` 93 impr/1.08% CTR/pos 7.0) re-confirmed against `learned-patterns.md` — `flo mounier` remains the 5-data-point-confirmed class-2 bare-name query (line 211), `mario duplantier drum kit` remains the known gear-qualified oscillator (line 205). No new fix filed.
+- **L1/L2/L3**: all 3 snapshots + umbrella issues (#3810/#3819/#2211) still dated 2026-09-14 — confirmed these run Mondays 08:00 UTC (`check-gsc-watched-queries.yml`/`check-indexation.yml`), so next refresh is 2026-09-21, not due yet.
+- **Founder ideas**: inbox empty, unchanged since 2026-06-19. **Human-founder blockers**: #5141/#5100/#4892/#875/#529/#526/#525 — all `updatedAt` unchanged, no re-spam.
+- **Atomic-split sweep**: nothing eligible — only non-hold `ai-fix` issues open are today's fresh promotions plus #7648 (PR #7658 mergeable); all `hold`ed roster/band issues remain correctly frozen under the new-page freeze.
+- **Starvation check**: backlog 1→4 post-triage, bank now 0 fresh (only #3810/#3819/#2211 standing umbrella issues remain). Trigger shape (backlog<15, bank≤2) matched but this is the same non-escalating batch-then-drain cadence flagged in every recent entry — SEO Agent fires multiple fresh batches per day; not escalating.
+
+### State delta
+- ai-fix backlog: 1 → 4 (#7654/7655/7656 added)
+- seo-proposal bank (excl. umbrellas): 3 fresh → 0 untriaged
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 3/3 fresh triaged, live-verified against `endorsementNews.js` exact lines, all promoted. ✅ GSC-gap: both content-gap queries re-confirmed already-classified, no new fix needed. ✅ L1/L2/L3: confirmed Monday cadence, not due until 09-21. ✅ Starvation: trigger shape matched, non-escalating batch-drain cadence. ✅ Atomic split: nothing eligible. ✅ Decisions logged.
+
+### Next Run
+1. Watch #7648 (PR #7658) merge and #7654/7655/7656 pick up via Roadie.
+2. Next L1/L2/L3 weekly refresh due 2026-09-21 (Monday) — full close-the-loop pass once it lands.
+3. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---
+
+---

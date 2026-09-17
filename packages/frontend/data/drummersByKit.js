@@ -33,16 +33,7 @@ export const DRUMMERS_BY_KIT = {
   'tama/star-classic-walnut-birch': [],
   'pearl/masters-custom-maple': [],
   'pearl/reference-masters-maple': [],
-  'dw/collectors-maple': [
-    {
-      slug: 'mike-portnoy',
-      name: 'Mike Portnoy',
-      band: 'Dream Theater',
-      yearsUsed: '1994–2010',
-      config: 'DW Collector\'s Maple (22"×18" Bass Drums ×2, 10"×7", 12"×8", 14"×12", 16"×14" Toms)',
-      endorsee: true,
-    },
-  ],
+  'dw/collectors-maple': [],
   'pearl/reference-pure': [
     {
       slug: 'nick-augusto',
@@ -72,8 +63,8 @@ export const DRUMMERS_BY_KIT = {
       slug: 'jason-bittner',
       name: 'Jason Bittner',
       band: 'Overkill / Shadows Fall',
-      yearsUsed: '2015–present',
-      config: 'Mapex Armory (22"×18" Bass, 10"×8", 12"×9", 14"×12", 16"×16" Toms)',
+      yearsUsed: '1997–present',
+      config: 'Mapex Saturn V (22"×18" Bass, 10"×8", 12"×9", 14"×12", 16"×16" Toms)',
       endorsee: true,
     },
   ],
@@ -97,16 +88,7 @@ export const DRUMMERS_BY_KIT = {
     },
   ],
   // Issue #2405 (split 3/4 of #2215): Gretsch USA Custom page (/gear/gretsch/usa-custom/)
-  'gretsch/usa-custom': [
-    {
-      slug: 'matt-garstka',
-      name: 'Matt Garstka',
-      band: 'Animals as Leaders',
-      yearsUsed: '2012–present',
-      config: 'Gretsch USA Custom (22"×18" Bass, 10"×7", 12"×8", 14"×12" Toms)',
-      endorsee: true,
-    },
-  ],
+  'gretsch/usa-custom': [],
   // Issue #2406 (split 4/4 of #2215): Yamaha Recording Custom page (/gear/yamaha/recording-custom/)
   'yamaha/recording-custom': [
     {

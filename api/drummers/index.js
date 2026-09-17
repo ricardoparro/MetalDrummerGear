@@ -1341,7 +1341,7 @@ const drummers = [
     country: 'USA',
     image: '/images/drummers/chris-adler.webp',
     bio: 'Chris Adler, born in 1972 in Richmond, Virginia, is best known as the co-founder and former drummer of Lamb of God. His precision double bass drumming and innovative groove patterns helped define the New Wave of American Heavy Metal. Adler\'s work on albums like "Ashes of the Wake" and "Sacrament" showcased his ability to combine technical proficiency with raw power. He briefly played with Megadeth on their 2016 album "Dystopia." His drumming style emphasizes groove, power, and precision, influencing a generation of metal drummers.',
-    kitOverview: 'Chris Adler plays a Mapex Black Panther Design Lab drum kit — the precision-engineered configuration that powered Lamb of God\'s rise from underground metal to one of the most successful American metal bands of the 21st century. The Mapex Black Panther\'s dry, focused tone delivers the cutting attack central to Adler\'s groove-driven patterns on Ashes of the Wake, Sacrament, and Wrath — albums that defined the New Wave of American Heavy Metal.\n\nThe cornerstone of the Chris Adler drum set is his Mapex Chris Adler Signature 14×5.5" Walnut/Maple snare — a shallow, articulate shell that punches through dense guitar walls with the precise crack essential for Lamb of God\'s syncopated riff-locking grooves. Meinl Byzance Series cymbals complete the drum kit: 14" Dark Hi-Hats for dry, controlled articulation; 18" and 19" Dark Crashes for explosive accent bursts; a 21" Transition Ride for clear rhythmic articulation; and an 18" Extra Dry China for raw, cutting punctuation. A Mapex Falcon double pedal and Promark TX5AXW Chris Adler Signature sticks complete this drum set defined by precision groove and Grammy-winning power.',
+    kitOverview: 'Chris Adler plays a Mapex Saturn drum kit — the precision-engineered configuration that powered Lamb of God\'s rise from underground metal to one of the most successful American metal bands of the 21st century. The Mapex Saturn\'s dry, focused tone delivers the cutting attack central to Adler\'s groove-driven patterns on Ashes of the Wake, Sacrament, and Wrath — albums that defined the New Wave of American Heavy Metal.\n\nThe cornerstone of the Chris Adler drum set is his Mapex Chris Adler Signature 14×5.5" Walnut/Maple snare — a shallow, articulate shell that punches through dense guitar walls with the precise crack essential for Lamb of God\'s syncopated riff-locking grooves. Meinl Byzance Series cymbals complete the drum kit: 14" Dark Hi-Hats for dry, controlled articulation; 18" and 19" Dark Crashes for explosive accent bursts; a 21" Transition Ride for clear rhythmic articulation; and an 18" Extra Dry China for raw, cutting punctuation. A Trick Pro V double pedal and Promark TX5AXW Chris Adler Signature sticks complete this drum set defined by precision groove and Grammy-winning power.',
     sameAs: [
       'https://en.wikipedia.org/wiki/Chris_Adler',
       'https://www.instagram.com/chrisadlerdrums/',
@@ -1349,10 +1349,10 @@ const drummers = [
       'https://www.allmusic.com/artist/chris-adler-mn0000766295'
     ],
     gear: {
-      drums: 'Mapex Black Panther Design Lab',
+      drums: 'Mapex Saturn in Satin Black Maple Burl',
       snare: 'Mapex Chris Adler Signature 14x5.5" Walnut/Maple',
       cymbals: 'Meinl Byzance Series (14" Dark Hi-Hats, 18" & 19" Dark Crashes, 21" Transition Ride, 18" Extra Dry China)',
-      hardware: 'Mapex Falcon Double Pedal, Mapex T865 Throne',
+      hardware: 'Trick Pro V Double Pedal',
       sticks: 'Promark TX5AXW Chris Adler Signature',
       verified: true,
       sources: ['https://mapexdrums.com/us/artists/chris-adler', 'https://chrisadler.com/gear/']

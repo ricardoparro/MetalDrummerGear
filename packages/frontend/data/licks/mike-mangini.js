@@ -39,9 +39,9 @@ export const licks = {
       "description": "Mike Mangini demonstrates the speed, independence and symmetrical technique behind his Dream Theater playing"
     },
     "gearUsed": [
-      { "name": "Pearl Reference Series Kit", "type": "drums", "link": null },
+      { "name": "Pearl Masterworks Maple Kit", "type": "drums", "link": null },
       { "name": "Sabian HHX & AAX Cymbals", "type": "cymbals", "link": null },
-      { "name": "Pearl Demon Drive Double Pedal", "type": "hardware", "link": null },
+      { "name": "Pearl Eliminator Redline Double Pedal", "type": "hardware", "link": null },
       { "name": "Vater Mike Mangini Wicked Piston", "type": "sticks", "link": null }
     ],
     "learningTips": [
@@ -100,9 +100,9 @@ export const licks = {
       "description": "Mike Mangini's improvised solo showcasing the linear-fill and coordination vocabulary behind his Dream Theater playing"
     },
     "gearUsed": [
-      { "name": "Pearl Reference Series Kit", "type": "drums", "link": null },
+      { "name": "Pearl Masterworks Maple Kit", "type": "drums", "link": null },
       { "name": "Sabian HHX & AAX Cymbals", "type": "cymbals", "link": null },
-      { "name": "Pearl Demon Drive Double Pedal", "type": "hardware", "link": null },
+      { "name": "Pearl Eliminator Redline Double Pedal", "type": "hardware", "link": null },
       { "name": "Vater Mike Mangini Wicked Piston", "type": "sticks", "link": null }
     ],
     "learningTips": [
@@ -161,9 +161,9 @@ export const licks = {
       "description": "Mike Mangini explains the counting and subdivision systems he uses to navigate complex meters"
     },
     "gearUsed": [
-      { "name": "Pearl Reference Series Kit", "type": "drums", "link": null },
+      { "name": "Pearl Masterworks Maple Kit", "type": "drums", "link": null },
       { "name": "Sabian HHX & AAX Cymbals", "type": "cymbals", "link": null },
-      { "name": "Pearl Demon Drive Double Pedal", "type": "hardware", "link": null },
+      { "name": "Pearl Eliminator Redline Double Pedal", "type": "hardware", "link": null },
       { "name": "Vater Mike Mangini Wicked Piston", "type": "sticks", "link": null }
     ],
     "learningTips": [
@@ -222,9 +222,9 @@ export const licks = {
       "description": "Mike Mangini's systematic approach to the 7/8 paradiddle engine in Constant Motion"
     },
     "gearUsed": [
-      { "name": "Pearl Reference Series Kit", "type": "drums", "link": null },
+      { "name": "Pearl Masterworks Maple Kit", "type": "drums", "link": null },
       { "name": "Sabian HHX & AAX Cymbals", "type": "cymbals", "link": null },
-      { "name": "Pearl Demon Drive Double Pedal", "type": "hardware", "link": null },
+      { "name": "Pearl Eliminator Redline Double Pedal", "type": "hardware", "link": null },
       { "name": "Vater Mike Mangini Wicked Piston", "type": "sticks", "link": null }
     ],
     "learningTips": [
@@ -283,9 +283,9 @@ export const licks = {
       "description": "Mike Mangini demonstrating the 5-over-4 polyrhythmic phrasing from the A Dramatic Turn of Events era"
     },
     "gearUsed": [
-      { "name": "Pearl Reference Series Kit", "type": "drums", "link": null },
+      { "name": "Pearl Masterworks Maple Kit", "type": "drums", "link": null },
       { "name": "Sabian HHX & AAX Cymbals", "type": "cymbals", "link": null },
-      { "name": "Pearl Demon Drive Double Pedal", "type": "hardware", "link": null },
+      { "name": "Pearl Eliminator Redline Double Pedal", "type": "hardware", "link": null },
       { "name": "Vater Mike Mangini Wicked Piston", "type": "sticks", "link": null }
     ],
     "learningTips": [
@@ -344,9 +344,9 @@ export const licks = {
       "description": "Analysis of Mike Mangini's 32nd-note fill cascade and speed technique in Paralyzed from Distance Over Time"
     },
     "gearUsed": [
-      { "name": "Pearl Reference Series Kit", "type": "drums", "link": null },
+      { "name": "Pearl Reference Pure Kit", "type": "drums", "link": null },
       { "name": "Sabian HHX & AAX Cymbals", "type": "cymbals", "link": null },
-      { "name": "Pearl Demon Drive Double Pedal", "type": "hardware", "link": null },
+      { "name": "Pearl Eliminator Redline Double Pedal", "type": "hardware", "link": null },
       { "name": "Vater Mike Mangini Wicked Piston", "type": "sticks", "link": null }
     ],
     "learningTips": [

@@ -1888,7 +1888,7 @@ const drummers = [
       cymbals: 'Paiste RUDE & 2002 Series (14" RUDE Hi-Hats, 18" & 19" RUDE Crashes, 22" RUDE Power Ride, 18" 2002 China)',
       hardware: 'Tama Iron Cobra Double Pedal, Tama Throne',
       sticks: 'Vic Firth American Classic 5B',
-      heads: 'Evans',
+      heads: 'Remo',
       verified: true,
       verifiedAt: '2026-02-02',
       sources: ['https://en.wikipedia.org/wiki/Igor_Cavalera']
@@ -1900,7 +1900,7 @@ const drummers = [
       { name: 'Tama Drums', url: 'https://www.tama.com' },
       { name: 'Paiste Cymbals', url: 'https://www.paiste.com' },
       { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' },
-      { name: 'Evans Drumheads', url: 'https://www.daddario.com/evans' }
+      { name: 'Remo Drumheads', url: 'https://remo.com' }
     ],
     videos: [
       { title: 'Subtraction Drum Fill - Sepultura', youtubeId: 'L3GJkpAm5mY', year: 2023 },
@@ -2875,7 +2875,7 @@ const drummers = [
       cymbals: 'Sabian HHX & AAX Series (14" HHX Evolution Hi-Hats, 18" & 19" HHX X-Plosion Crashes, 21" HHX Groove Ride, 18" AAX Chinese)',
       hardware: 'Pearl Demon Drive Double Pedal, Pearl Icon Rack System',
       sticks: 'Promark TX419W Aquiles Priester Autograph',
-      heads: 'Evans',
+      heads: 'Remo',
       verified: true,
       sources: ['https://pearldrum.com/en/artists/', 'https://sabian.com/artists']
     },
@@ -2886,7 +2886,7 @@ const drummers = [
       { name: 'Pearl Drums', url: 'https://pearldrum.com' },
       { name: 'Sabian Cymbals', url: 'https://www.sabian.com' },
       { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' },
-      { name: 'Evans Drumheads', url: 'https://www.daddario.com/evans' }
+      { name: 'Remo Drumheads', url: 'https://remo.com' }
     ],
     videos: [
       { title: 'W.A.S.P. Tour Kit Rundown', youtubeId: '5IFAiuw28c4', year: 2024 },
@@ -2921,7 +2921,7 @@ const drummers = [
       cymbals: 'Sabian AAX Series (14" Stage Hi-Hats, 18" & 19" X-Plosion Crashes, 21" Raw Bell Dry Ride, 18" AAXtreme China)',
       hardware: 'Pearl Demon Drive Double Pedal',
       sticks: 'Vic Firth American Classic 5B',
-      heads: 'Evans',
+      heads: 'Remo',
       verified: true,
       sources: ['https://en.wikipedia.org/wiki/Paul_Mazurkiewicz']
     },
@@ -2962,7 +2962,7 @@ const drummers = [
       cymbals: 'Sabian HHX & AAX Series (14" HHX Evolution Hi-Hats, 17", 18", 19" HHX Evolution Crashes, 21" HHX Raw Bell Dry Ride)',
       hardware: 'Pearl Demon Drive Double Pedal, Roland SPD-SX Sampling Pad',
       sticks: 'Vater Mike Mangini Wicked Piston (VHMMWP)',
-      heads: 'Evans',
+      heads: 'Remo',
       verified: true,
       sources: ['https://en.wikipedia.org/wiki/Mike_Mangini', 'https://sabian.com/artist/mike-mangini/']
     },
@@ -3005,7 +3005,7 @@ const drummers = [
       cymbals: 'Meinl Byzance Series (15" Dual Hi-Hats, 18" & 20" Extra Dry Medium Crashes, 22" Dual Ride)',
       hardware: 'Tama Speed Cobra 910 Double Pedal',
       sticks: 'Vic Firth Matt Garstka Signature',
-      heads: 'Evans',
+      heads: 'Remo',
       verified: true,
       sources: ['https://en.wikipedia.org/wiki/Matt_Garstka', 'https://meinlcymbals.com/en/artists', 'https://www.moderndrummer.com/2021/09/matt-garstka-joins-dw/', 'https://ggd.co/products/matt-garstka-signature-drums']
     },
@@ -3044,7 +3044,7 @@ const drummers = [
       cymbals: 'Paiste RUDE & 2002 Series (14" RUDE Hi-Hats, 18" & 19" RUDE Crashes, 22" RUDE Power Ride)',
       hardware: 'Pearl Demon Drive Double Pedal',
       sticks: 'Vic Firth American Classic 5B',
-      heads: 'Evans',
+      heads: 'Remo',
       verified: true,
       sources: ['https://en.wikipedia.org/wiki/Daniel_Erlandsson']
     },
@@ -3243,7 +3243,7 @@ const drummers = [
       cymbals: 'Sabian AAX & HHX Series (14" AAX Stage Hi-Hats, 18" & 19" AAX X-Plosion Crashes, 21" HHX Raw Bell Dry Ride)',
       hardware: 'Tama Speed Cobra 910 Double Pedal',
       sticks: 'Vic Firth American Classic 5A',
-      heads: 'Evans',
+      heads: 'Remo',
       verified: true,
       sources: ['https://en.wikipedia.org/wiki/Tim_Yeung']
     },

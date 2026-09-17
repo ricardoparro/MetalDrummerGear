@@ -973,12 +973,6 @@ export const GEAR_INDEX_BRAND_LEVEL = {
       "configString": "Evans"
     },
     {
-      "id": 29,
-      "name": "Igor Cavalera",
-      "slug": "igor-cavalera",
-      "configString": "Evans"
-    },
-    {
       "id": 31,
       "name": "Nick Augusto",
       "slug": "nick-augusto",
@@ -1051,36 +1045,6 @@ export const GEAR_INDEX_BRAND_LEVEL = {
       "configString": "Evans"
     },
     {
-      "id": 50,
-      "name": "Aquiles Priester",
-      "slug": "aquiles-priester",
-      "configString": "Evans"
-    },
-    {
-      "id": 51,
-      "name": "Paul Mazurkiewicz",
-      "slug": "paul-mazurkiewicz",
-      "configString": "Evans"
-    },
-    {
-      "id": 52,
-      "name": "Mike Mangini",
-      "slug": "mike-mangini",
-      "configString": "Evans"
-    },
-    {
-      "id": 53,
-      "name": "Matt Garstka",
-      "slug": "matt-garstka",
-      "configString": "Evans"
-    },
-    {
-      "id": 54,
-      "name": "Daniel Erlandsson",
-      "slug": "daniel-erlandsson",
-      "configString": "Evans"
-    },
-    {
       "id": 56,
       "name": "Hannes Grossmann",
       "slug": "hannes-grossmann",
@@ -1096,12 +1060,6 @@ export const GEAR_INDEX_BRAND_LEVEL = {
       "id": 58,
       "name": "Jocke Wallgren",
       "slug": "jocke-wallgren",
-      "configString": "Evans"
-    },
-    {
-      "id": 59,
-      "name": "Tim Yeung",
-      "slug": "tim-yeung",
       "configString": "Evans"
     },
     {
@@ -1167,6 +1125,12 @@ export const GEAR_INDEX_BRAND_LEVEL = {
       "configString": "Remo"
     },
     {
+      "id": 29,
+      "name": "Igor Cavalera",
+      "slug": "igor-cavalera",
+      "configString": "Remo"
+    },
+    {
       "id": 30,
       "name": "Bill Ward",
       "slug": "bill-ward",
@@ -1215,9 +1179,45 @@ export const GEAR_INDEX_BRAND_LEVEL = {
       "configString": "Remo (Powerstroke P3, Pinstripe, Ambassador)"
     },
     {
+      "id": 50,
+      "name": "Aquiles Priester",
+      "slug": "aquiles-priester",
+      "configString": "Remo"
+    },
+    {
+      "id": 51,
+      "name": "Paul Mazurkiewicz",
+      "slug": "paul-mazurkiewicz",
+      "configString": "Remo"
+    },
+    {
+      "id": 52,
+      "name": "Mike Mangini",
+      "slug": "mike-mangini",
+      "configString": "Remo"
+    },
+    {
+      "id": 53,
+      "name": "Matt Garstka",
+      "slug": "matt-garstka",
+      "configString": "Remo"
+    },
+    {
+      "id": 54,
+      "name": "Daniel Erlandsson",
+      "slug": "daniel-erlandsson",
+      "configString": "Remo"
+    },
+    {
       "id": 55,
       "name": "Jaska Raatikainen",
       "slug": "jaska-raatikainen",
+      "configString": "Remo"
+    },
+    {
+      "id": 59,
+      "name": "Tim Yeung",
+      "slug": "tim-yeung",
       "configString": "Remo"
     },
     {

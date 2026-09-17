@@ -41,7 +41,6 @@ export const licks = {
     },
     "gearUsed": [
       { "name": "Tama Starclassic Kit", "type": "drums", "link": null },
-      { "name": "Pearl 14\"x6.5\" Free-Floating Snare", "type": "snare", "link": null },
       { "name": "Zildjian Z Custom Cymbals", "type": "cymbals", "link": null },
       { "name": "DW 5000 Series Double Pedal", "type": "hardware", "link": null },
       { "name": "Drum triggers (DDrum/Roland)", "type": "hardware", "link": null }
@@ -104,7 +103,6 @@ export const licks = {
     },
     "gearUsed": [
       { "name": "Tama Starclassic Kit", "type": "drums", "link": null },
-      { "name": "Pearl 14\"x6.5\" Free-Floating Snare", "type": "snare", "link": null },
       { "name": "Zildjian Z Custom Cymbals", "type": "cymbals", "link": null },
       { "name": "DW 5000 Series Double Pedal", "type": "hardware", "link": null },
       { "name": "Drum triggers (DDrum/Roland)", "type": "hardware", "link": null }
@@ -167,7 +165,6 @@ export const licks = {
     },
     "gearUsed": [
       { "name": "Tama Starclassic Kit", "type": "drums", "link": null },
-      { "name": "Pearl 14\"x6.5\" Free-Floating Snare", "type": "snare", "link": null },
       { "name": "Zildjian Z Custom Cymbals", "type": "cymbals", "link": null },
       { "name": "DW 5000 Series Double Pedal", "type": "hardware", "link": null },
       { "name": "Drum triggers (DDrum/Roland)", "type": "hardware", "link": null }

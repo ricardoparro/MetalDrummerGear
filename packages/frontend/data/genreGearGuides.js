@@ -7644,14 +7644,13 @@ The thrash community judges you by your precision and power, not your price tag.
     // SEO metadata
     title: "Best Drum Kits for Extreme Metal: 2026 Ultimate Guide",
     metaTitle: "Best Drum Kits for Extreme Metal 2026 | MetalForge Expert Guide",
-    description: "Best drum kits for extreme metal drumming: what George Kollias (Pearl Masterworks), Pete Sandoval (ddrum), Derek Roddy (Tama Starclassic Bubinga), and Gene Hoglan (Sonor SQ2) actually play. Durable, deep-shelled kits built to survive sustained blast-beat abuse — ranked budget to pro.",
+    description: "Best drum kits for extreme metal drumming: what George Kollias (Pearl Masterworks), Pete Sandoval (ddrum), and Derek Roddy (Tama Starclassic Bubinga) actually play, plus a deep-shelled Sonor SQ2 Heavy Maple option. Durable, deep-shelled kits built to survive sustained blast-beat abuse — ranked budget to pro.",
     seoKeywords: [
       'best drum kits for extreme metal',
       'extreme metal drum kit',
       'george kollias drum kit nile',
       'pete sandoval drum kit morbid angel',
       'derek roddy drum kit hate eternal',
-      'gene hoglan drum kit sonor',
       'blast beat drum kit durability',
       'deep shell drum kit metal',
       'best drum kit for blast beats',
@@ -7681,7 +7680,7 @@ The thrash community judges you by your precision and power, not your price tag.
       title: "Why Extreme Metal Demolishes Ordinary Drum Kits",
       content: `Extreme metal — the blast-beat-driven end of death and black metal — puts more sustained physical stress on a drum kit than almost any other style of drumming. A single song can demand several unbroken minutes of 220-280 BPM single-stroke or gravity-blast patterns, hammering the same shells, lugs, and mounting hardware over and over without rest. A kit built for thrash or groove metal's stop-start dynamics will loosen, detune, and eventually fail under that kind of relentless, repetitive abuse. Extreme metal needs a kit engineered first for durability and sustained projection, with tone as a secondary concern.
 
-George Kollias — widely regarded as one of the fastest drummers ever recorded — drives Nile's dense, 280 BPM death metal assault on a Pearl Masterworks kit, chosen for shells that hold their tuning and projection night after night of touring-level blast abuse. Pete Sandoval built Morbid Angel's hyper-blast foundation on ddrum hardware, chosen for shells that survive the "gravity blast" technique he pioneered. Derek Roddy built his reputation for speed and endurance recording Hate Eternal's "King of All Kings" on a dense Tama Starclassic Bubinga kit that held its tuning through take after take of extreme-speed blast beats. Gene Hoglan, "The Atomic Clock," spent years of Testament and Dethklok touring on a Sonor SQ2 Heavy Maple kit built for the deep, resonant low end his metronomic technique demands.
+George Kollias — widely regarded as one of the fastest drummers ever recorded — drives Nile's dense, 280 BPM death metal assault on a Pearl Masterworks kit, chosen for shells that hold their tuning and projection night after night of touring-level blast abuse. Pete Sandoval built Morbid Angel's hyper-blast foundation on ddrum hardware, chosen for shells that survive the "gravity blast" technique he pioneered. Derek Roddy built his reputation for speed and endurance recording Hate Eternal's "King of All Kings" on a dense Tama Starclassic Bubinga kit that held its tuning through take after take of extreme-speed blast beats.
 
 This guide breaks down what actually makes a drum kit survive extreme metal's punishing demands — shell depth, ply count, hardware reinforcement, and tuning stability — with specific models from the drummers who've proven it on record, from budget-friendly starter kits to the professional rigs built for nightly blast-beat abuse.`,
       keyPoints: [
@@ -7866,12 +7865,12 @@ The Starclassic Bubinga pairs a huge, focused low end with reinforced hardware b
           tier: "pro",
           material: "Heavy Maple",
 
-          description: `Gene Hoglan, "The Atomic Clock," spent 2007-2014 touring Testament and Dethklok on a Sonor SQ2 Heavy Maple kit (22"x18" bass, 10"x8", 12"x9", 14"x12", 16"x14" toms) — a fully custom-specified configuration built for the deep, resonant low end his metronomic technique demands. Heavy maple shells add mass and sustain compared to standard-ply maple, giving extreme metal's downtuned material more low-end weight without sacrificing precision.
+          description: `The Sonor SQ2 Heavy Maple is a fully custom-specified German kit (22"x18" bass, 10"x8", 12"x9", 14"x12", 16"x14" toms available) built for the deep, resonant low end extreme metal's downtuned material demands. Heavy maple shells add mass and sustain compared to standard-ply maple, giving downtuned material more low-end weight without sacrificing precision.
 
-Sonor's German engineering and reinforced hardware held up across years of demanding touring, proving heavy-shell German craftsmanship translates directly to extreme metal's durability requirements.`,
+Sonor's German engineering and reinforced hardware are built to hold up across demanding touring, making heavy-shell German craftsmanship a serious option for extreme metal's durability requirements.`,
 
           pros: [
-            "Gene Hoglan's Testament/Dethklok touring kit — proven across years of extreme metal roadwork",
+            "Deep-shelled German engineering built for sustained touring abuse",
             "Heavy maple shells add mass and low-end sustain",
             "Fully custom SQ2 specification for shell depth and configuration",
             "German-engineered hardware built for touring durability",
@@ -7889,10 +7888,7 @@ Sonor's German engineering and reinforced hardware held up across years of deman
             kickSize: "22\" x 18\" standard",
             tomSizes: "10\", 12\", 14\" (rack) / 16\" (floor)"
           },
-          usedBy: [
-            { name: "Gene Hoglan", band: "Testament / Dethklok", note: "Sonor SQ2 Heavy Maple — The Atomic Clock's touring precision" }
-          ],
-          verdict: "The heavy-shell precision kit. Gene Hoglan's choice for deep, durable low end across years of touring.",
+          verdict: "The heavy-shell precision kit. German engineering for deep, durable low end across years of touring.",
           rating: 4.6,
           affiliateLink: "https://www.thomann.de/intl/sonor_sq2_heavy_maple.htm?partner_id=metalforge"
         },
@@ -7996,7 +7992,7 @@ The Export's robust construction handles the daily practice abuse extreme metal 
 - More versatile across extreme metal's technical and blast-driven passages
 - The premium standard for touring and recording durability
 
-**Heavy Maple (Sonor SQ2, Gene Hoglan's choice):**
+**Heavy Maple (Sonor SQ2):**
 - Added shell mass for deeper low end and sustain
 - German-engineered hardware proven across years of touring
 - Best for drummers who want maximum low-end weight without losing precision
@@ -8028,7 +8024,7 @@ The Export's robust construction handles the daily practice abuse extreme metal 
         {
           category: "Best Heavy-Shell Option",
           pedal: "Sonor SQ2 Heavy Maple",
-          reason: "Gene Hoglan's touring kit — deep, resonant low end built for years of extreme metal roadwork."
+          reason: "German-engineered heavy maple shells — deep, resonant low end built for years of touring durability."
         },
         {
           category: "Best Budget",
@@ -8048,15 +8044,13 @@ The Export's robust construction handles the daily practice abuse extreme metal 
     relatedDrummers: [
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Pearl Masterworks — surviving 280 BPM touring-level blast abuse' },
       { slug: 'pete-sandoval', name: 'Pete Sandoval', reason: 'ddrum hardware — pioneer of the gravity blast technique' },
-      { slug: 'derek-roddy', name: 'Derek Roddy', reason: 'Tama Starclassic Bubinga — the dense, bass-heavy extreme-speed kit' },
-      { slug: 'gene-hoglan', name: 'Gene Hoglan', reason: 'Sonor SQ2 Heavy Maple — The Atomic Clock\'s touring precision' }
+      { slug: 'derek-roddy', name: 'Derek Roddy', reason: 'Tama Starclassic Bubinga — the dense, bass-heavy extreme-speed kit' }
     ],
 
     // Featured drummers (issue template)
     featuredDrummers: [
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Pearl Masterworks — the extreme metal blast-beat durability benchmark' },
       { slug: 'derek-roddy', name: 'Derek Roddy', reason: 'Tama Starclassic Bubinga — the dense, bass-heavy kit for extreme-speed recording' },
-      { slug: 'gene-hoglan', name: 'Gene Hoglan', reason: 'Sonor SQ2 Heavy Maple — The Atomic Clock\'s deep, durable low end' },
     ],
 
     // FAQ section for SEO
@@ -8092,7 +8086,7 @@ The Export's robust construction handles the daily practice abuse extreme metal 
       title: "Build a Kit That Survives the Blast Beat",
       content: `Extreme metal drum kit choice comes down to one question above all others: will it survive sustained, repetitive blast-beat abuse without losing its tuning or projection? George Kollias's Pearl Masterworks and Derek Roddy's Tama Starclassic Bubinga both answer that question with custom-specified, deep shells and precision hardware proven at the genre's most extreme tempos.
 
-Gene Hoglan's Sonor SQ2 Heavy Maple shows that added shell mass pays off across years of touring, while Pete Sandoval's ddrum endorsement proves that reliable equipment, not big-name branding, can survive the technique that defined hyper-blast drumming in the first place.
+The Sonor SQ2 Heavy Maple shows that added shell mass pays off across years of touring, while Pete Sandoval's ddrum endorsement proves that reliable equipment, not big-name branding, can survive the technique that defined hyper-blast drumming in the first place.
 
 Start with a durable budget kit like the Pearl Export while you build your blast-beat technique, then invest in deeper, thicker shells and reinforced hardware once you're ready to take that technique on tour or into the studio.
 
@@ -8109,7 +8103,7 @@ Start with a durable budget kit like the Pearl Export while you build your blast
     // SEO metadata
     title: "Best Drum Kits for Metal: 2026 Ultimate Guide",
     metaTitle: "Best Drum Kits for Metal 2026 | MetalForge Expert Guide",
-    description: "Best drum kits for metal drumming: what Lars Ulrich (Tama Starclassic), Gene Hoglan (DW Collector's), George Kollias (Pearl Masterworks), and Tomas Haake (Sonor SQ2) actually play. Cross-genre kit fundamentals covering shell material, sizing, and hardware — ranked budget to pro.",
+    description: "Best drum kits for metal drumming: what Lars Ulrich (Tama Starclassic), George Kollias (Pearl Masterworks), and Tomas Haake (Sonor SQ2) actually play, plus the DW Collector's Series. Cross-genre kit fundamentals covering shell material, sizing, and hardware — ranked budget to pro.",
     seoKeywords: [
       'best drum kits for metal',
       'metal drum kit',
@@ -8146,7 +8140,7 @@ Start with a durable budget kit like the Pearl Export while you build your blast
       title: "The Fundamentals Every Metal Drum Kit Needs",
       content: `Whether you play thrash, death, doom, or progressive metal, every metal drum kit has to solve the same core problem: projecting clearly and durably through loud, dense, downtuned guitar arrangements without falling apart under aggressive, high-volume playing. The specific tempo and technique demands shift subgenre to subgenre, but the underlying kit fundamentals — shell material, sizing, hardware quality, and tuning range — stay consistent across the entire genre.
 
-Lars Ulrich's Tama Starclassic Maple has been Metallica's primary kit through the band's most influential recordings, its warm, resonant tone — tuned tight — becoming the reference point for what a "metal kit" should sound like. Gene Hoglan, "The Atomic Clock," built his four-decade career across Death, Testament, and Dethklok on DW Collector's Series drums, prized for precision and consistency. George Kollias drives Nile's extreme-tempo death metal on a Pearl Masterworks kit engineered for touring-level durability, while Tomas Haake's Sonor SQ2 Heavy Beech — built around dual 24"x18" bass drums — gives Meshuggah's polyrhythmic riffing its uniquely deep, resonant foundation.
+Lars Ulrich's Tama Starclassic Maple has been Metallica's primary kit through the band's most influential recordings, its warm, resonant tone — tuned tight — becoming the reference point for what a "metal kit" should sound like. DW's Collector's Series drums, hand-crafted in Oxnard, California, are prized for precision and consistency across metal's biggest stages. George Kollias drives Nile's extreme-tempo death metal on a Pearl Masterworks kit engineered for touring-level durability, while Tomas Haake's Sonor SQ2 Heavy Beech — built around dual 24"x18" bass drums — gives Meshuggah's polyrhythmic riffing its uniquely deep, resonant foundation.
 
 This guide covers the cross-genre fundamentals that make a drum kit work for metal generally: what shell material to choose, how to size your kit, what hardware actually matters, and which specific models the genre's most influential drummers rely on — from budget-friendly starter kits to the professional rigs used on metal's biggest stages.`,
       keyPoints: [
@@ -8164,7 +8158,7 @@ This guide covers the cross-genre fundamentals that make a drum kit work for met
         {
           name: "Shell Material",
           icon: "🪵",
-          description: "Birch delivers a punchy, focused attack that's a classic metal reference tone. Maple (Lars Ulrich's Tama Starclassic, Gene Hoglan's DW Collector's, George Kollias's Pearl Masterworks) is warmer and more versatile across subgenres, from technical death metal to doom, and is what most of metal's most influential drummers actually play. Heavy maple/beech (Tomas Haake's Sonor SQ2) adds mass for maximum low-end weight.",
+          description: "Birch delivers a punchy, focused attack that's a classic metal reference tone. Maple (Lars Ulrich's Tama Starclassic, DW Collector's, George Kollias's Pearl Masterworks) is warmer and more versatile across subgenres, from technical death metal to doom, and is what most of metal's most influential drummers actually play. Heavy maple/beech (Tomas Haake's Sonor SQ2) adds mass for maximum low-end weight.",
           recommendation: "Maple for the sound metal's most influential drummers actually use; birch for classic cutting attack out of the box; heavy maple/beech for maximum low end"
         },
         {
@@ -8254,12 +8248,12 @@ Because maple's tone and resonance work across nearly every metal subgenre, the 
           tier: "premium",
           material: "Maple",
 
-          description: `Gene Hoglan, "The Atomic Clock," built four decades of precision drumming across Death, Dark Angel, Testament, and Dethklok on DW Collector's Series drums — hand-crafted in Oxnard, California with individually selected maple shells. If Lars's Tama Starclassic is metal's accessible standard, DW Collector's represents the genre's most refined, precision-focused option.
+          description: `DW's Collector's Series drums are hand-crafted in Oxnard, California with individually selected maple shells. If Lars's Tama Starclassic is metal's accessible standard, DW Collector's represents the genre's most refined, precision-focused option.
 
 DW's True-Pitch tensioning and precision bearing edges tune accurately across metal's full range, from doom's low resonance to technical death metal's cutting attack — exactly the versatility a cross-genre metal kit needs.`,
 
           pros: [
-            "Gene Hoglan's kit across four decades and multiple metal subgenres",
+            "Hand-crafted precision built for any metal subgenre",
             "Hand-crafted in USA with individually selected maple shells",
             "True-Pitch tensioning for accurate tuning across metal's full range",
             "Extremely versatile — works for any metal subgenre",
@@ -8277,10 +8271,7 @@ DW's True-Pitch tensioning and precision bearing edges tune accurately across me
             kickSize: "22\" x 18\" standard",
             tomSizes: "Custom configurations available"
           },
-          usedBy: [
-            { name: "Gene Hoglan", band: "Death / Testament / Dethklok", note: "DW Collector's Series — precision across four decades of metal" }
-          ],
-          verdict: "The premium cross-genre kit. Gene Hoglan's choice for a reason — versatile enough for any metal subgenre.",
+          verdict: "The premium cross-genre kit. Hand-crafted precision — versatile enough for any metal subgenre.",
           rating: 4.8,
           affiliateLink: "https://www.thomann.de/intl/dw_drums_collectors_series.htm?partner_id=metalforge"
         },
@@ -8376,7 +8367,7 @@ For metal drummers whose material calls for unusually deep low end or oversized 
 
           description: `The Pearl Export is the most popular starter kit in the world, and its poplar/birch hybrid shells make it a genuinely usable entry point into metal drumming regardless of which subgenre you end up specializing in. The construction handles aggressive playing better than equivalent-priced competitors, teaching real technique while you decide which direction to take your sound.
 
-It won't sound like Lars's Starclassic or Gene Hoglan's DW Collector's, but it will survive daily practice and let you develop cross-genre fundamentals before committing to a subgenre-specific upgrade.`,
+It won't sound like Lars's Starclassic or the DW Collector's Series, but it will survive daily practice and let you develop cross-genre fundamentals before committing to a subgenre-specific upgrade.`,
 
           pros: [
             "Robust construction handles aggressive playing across any metal style",
@@ -8452,7 +8443,7 @@ It won't sound like Lars's Starclassic or Gene Hoglan's DW Collector's, but it w
       title: "Birch vs Maple vs Heavy Beech Across Metal Subgenres",
       content: `Shell material is the biggest cross-genre decision in metal drum kit selection:
 
-**Maple (Tama Starclassic — Lars Ulrich's choice; DW Collector's, Pearl Masterworks — Hoglan and Kollias's choice):**
+**Maple (Tama Starclassic — Lars Ulrich's choice; DW Collector's; Pearl Masterworks — Kollias's choice):**
 - Warmer, fuller tone with more body
 - More versatile across dynamics, tempos, and subgenres
 - Still cuts through dense guitar walls when tuned tight with the right heads
@@ -8491,7 +8482,7 @@ It won't sound like Lars's Starclassic or Gene Hoglan's DW Collector's, but it w
         {
           category: "Best Premium",
           pedal: "DW Collector's Series",
-          reason: "Gene Hoglan's choice across four decades and multiple subgenres. Hand-crafted precision that works anywhere in metal."
+          reason: "Hand-crafted precision that works anywhere in metal, from doom's low resonance to death metal's cutting attack."
         },
         {
           category: "Best for Extreme Tempo",
@@ -8515,7 +8506,6 @@ It won't sound like Lars's Starclassic or Gene Hoglan's DW Collector's, but it w
     ],
     relatedDrummers: [
       { slug: 'lars-ulrich', name: 'Lars Ulrich', reason: 'Tama Starclassic Maple — metal\'s most referenced kit sound' },
-      { slug: 'gene-hoglan', name: 'Gene Hoglan', reason: 'DW Collector\'s Series — precision across four decades of metal' },
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Pearl Masterworks — custom-tuned for extreme-tempo technical metal' },
       { slug: 'tomas-haake', name: 'Tomas Haake', reason: 'Sonor SQ2 Heavy Beech — dual 24" kicks for polyrhythmic low end' }
     ],
@@ -8523,7 +8513,6 @@ It won't sound like Lars's Starclassic or Gene Hoglan's DW Collector's, but it w
     // Featured drummers (issue template)
     featuredDrummers: [
       { slug: 'lars-ulrich', name: 'Lars Ulrich', reason: 'Tama Starclassic Maple — the definitive cross-genre metal kit' },
-      { slug: 'gene-hoglan', name: 'Gene Hoglan', reason: 'DW Collector\'s Series — precision across Death, Testament, and Dethklok' },
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Pearl Masterworks — Nile\'s extreme-tempo touring precision' },
     ],
 
@@ -8535,7 +8524,7 @@ It won't sound like Lars's Starclassic or Gene Hoglan's DW Collector's, but it w
       },
       {
         question: "Birch or maple — which is better for metal drumming generally?",
-        answer: "Maple (Lars Ulrich's Tama Starclassic, Gene Hoglan's DW Collector's, George Kollias's Pearl Masterworks) is warmer and more versatile across dynamics and subgenres — what most of metal's most influential drummers actually play. Birch is more immediately cutting and punchy out of the box, a classic reference tone in its own right. Both work across metal generally; maple is the more common choice among top-tier touring pros, birch the more budget-accessible traditional option."
+        answer: "Maple (Lars Ulrich's Tama Starclassic, DW Collector's, George Kollias's Pearl Masterworks) is warmer and more versatile across dynamics and subgenres — what most of metal's most influential drummers actually play. Birch is more immediately cutting and punchy out of the box, a classic reference tone in its own right. Both work across metal generally; maple is the more common choice among top-tier touring pros, birch the more budget-accessible traditional option."
       },
       {
         question: "What size drum kit is standard for metal?",
@@ -8556,7 +8545,7 @@ It won't sound like Lars's Starclassic or Gene Hoglan's DW Collector's, but it w
       title: "Build the Kit That Works Across Metal",
       content: `Every metal drum kit decision comes down to the same hierarchy regardless of subgenre: shell material first, then sizing, then hardware, then heads. Get the fundamentals right and the kit will serve you whether you end up playing thrash, death, doom, or anything in between.
 
-Lars Ulrich's Tama Starclassic Maple remains the genre's most broadly referenced kit for good reason — it's warm, durable, and works almost everywhere in metal once tuned tight. Gene Hoglan's DW Collector's Series and George Kollias's Pearl Masterworks show what's possible once you're ready to specialize toward precision or extreme-tempo durability.
+Lars Ulrich's Tama Starclassic Maple remains the genre's most broadly referenced kit for good reason — it's warm, durable, and works almost everywhere in metal once tuned tight. The DW Collector's Series and George Kollias's Pearl Masterworks show what's possible once you're ready to specialize toward precision or extreme-tempo durability.
 
 Start with a budget kit that teaches real cross-genre fundamentals, and don't rush the upgrade — Tomas Haake's custom Sonor SQ2 setup took years of touring and songwriting to justify. Let your specific subgenre and technique tell you when it's time to specialize.
 
@@ -9160,8 +9149,7 @@ The Black Beauty's seamless brass shell construction allows the entire drum to v
             wires: "20-strand"
           },
           usedBy: [
-            { name: "Lars Ulrich", band: "Metallica", note: "Defining thrash metal snare sound across Metallica's peak recordings" },
-            { name: "Gene Hoglan", band: "Death/Testament/Dark Angel", note: "Ludwig snares for precision metal drumming" }
+            { name: "Lars Ulrich", band: "Metallica", note: "Defining thrash metal snare sound across Metallica's peak recordings" }
           ],
           verdict: "The quintessential metal snare. Lars Ulrich's choice — if you want the Metallica snare sound, this is it.",
           rating: 4.9,
@@ -9219,13 +9207,13 @@ Joey Jordison used Pearl Free-Floating snares as the foundation of Slipknot's ag
 
           description: `DW's Collector's Series Steel snare brings the legendary DW True-Pitch tensioning system to a steel shell snare. The True-Pitch system uses different thread pitches for each tension rod, ensuring perfectly balanced head tension across the entire head — critical for the precise tuning that technical and progressive metal demands.
 
-Gene Hoglan's DW endorsement extends to snares — The Atomic Clock's metronomic precision is aided by the consistency and reliability of DW's construction. The Collector's Steel offers the bright, cutting character of steel with DW's exceptional hardware refinement, including the MAG throw-off that allows infinite snare tension adjustment.`,
+The Collector's Steel offers the bright, cutting character of steel with DW's exceptional hardware refinement, including the MAG throw-off that allows infinite snare tension adjustment.`,
 
           pros: [
             "True-Pitch tensioning for perfect, repeatable head tuning",
             "MAG throw-off with infinite tension control",
             "DW quality construction — exceptional hardware",
-            "Gene Hoglan approved for technical precision",
+            "Bright, cutting steel character for technical precision",
             "Consistent tone session to session"
           ],
           cons: [
@@ -9240,9 +9228,6 @@ Gene Hoglan's DW endorsement extends to snares — The Atomic Clock's metronomic
             throwOff: "MAG Throw-Off",
             wires: "20-strand"
           },
-          usedBy: [
-            { name: "Gene Hoglan", band: "Death/Testament/Dark Angel", note: "DW endorser — The Atomic Clock's precision instrument" }
-          ],
           verdict: "The precision player's steel snare. True-Pitch tensioning and MAG throw-off make this the most tuneable steel snare in metal.",
           rating: 4.7,
           affiliateLink: "https://www.thomann.de/intl/dw_collectors_steel_snare.htm?partner_id=metalforge"
@@ -9417,7 +9402,7 @@ This is the snare for metal drummers who need one drum to work across multiple s
         {
           category: "Best for Technical Precision",
           pedal: "DW Collector's Steel",
-          reason: "Gene Hoglan's DW. True-Pitch tensioning for the most consistent, repeatable snare tuning available."
+          reason: "True-Pitch tensioning for the most consistent, repeatable snare tuning available."
         },
         {
           category: "Best Budget",
@@ -9436,14 +9421,13 @@ This is the snare for metal drummers who need one drum to work across multiple s
     relatedDrummers: [
       { slug: 'lars-ulrich', name: 'Lars Ulrich', reason: 'Ludwig Black Beauty — defining thrash metal snare sound' },
       { slug: 'joey-jordison', name: 'Joey Jordison', reason: 'Pearl Free-Floating Steel — Slipknot\'s aggressive snare attack' },
-      { slug: 'gene-hoglan', name: 'Gene Hoglan', reason: 'DW Collector\'s — The Atomic Clock\'s precision snare' }
+      { slug: 'gene-hoglan', name: 'Gene Hoglan', reason: 'Pearl snare — The Atomic Clock\'s precision' }
     ],
 
     // Featured drummers (issue template)
     featuredDrummers: [
       { slug: 'lars-ulrich', name: 'Lars Ulrich', reason: 'Ludwig Black Beauty snare — the definitive metal crack' },
       { slug: 'joey-jordison', name: 'Joey Jordison', reason: 'Pearl Free-Floating Steel — Slipknot nu/extreme metal snare' },
-      { slug: 'gene-hoglan', name: 'Gene Hoglan', reason: 'DW Collector\'s Steel — The Atomic Clock\'s precision instrument' },
       { slug: 'tomas-haake', name: 'Tomas Haake', reason: 'Sonor Tomas Haake Signature 14x6.5" — Meshuggah djent snare precision' },
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Pearl endorser — death metal snare at extreme speeds' }
     ],
@@ -13090,7 +13074,7 @@ Budget shouldn't stop you either. A Tama Iron Cobra 600 or Pearl P-930 Demonator
       title: "The Death Metal Drum Kit: Speed, Durability, and Projection",
       content: `Death metal places the most demanding physical requirements on a drum kit of any genre. Sustained double bass at 200–280 BPM, constant blast beat snare hits, and tom fills executed at extreme tempos mean your kit must combine structural integrity with tonal projection and precise response across every component.
 
-George Kollias — widely regarded as the fastest drummer on record — plays Pearl Reference drums. His kit must survive nights of continuous 280 BPM 16th-note bass drum patterns while still projecting clearly in dense, downtuned Nile recordings. Flo Mounier (Cryptopsy) uses DW Collector's Series maple for the sensitivity and projection that lets his technical death metal patterns cut through one of the genre's densest sonic environments. Gene Hoglan, "The Atomic Clock," built his precision-first approach on Tama and DW equipment — kits engineered for consistency under punishing conditions.
+George Kollias — widely regarded as the fastest drummer on record — plays Pearl Reference drums. His kit must survive nights of continuous 280 BPM 16th-note bass drum patterns while still projecting clearly in dense, downtuned Nile recordings. Flo Mounier (Cryptopsy) uses DW Collector's Series maple for the sensitivity and projection that lets his technical death metal patterns cut through one of the genre's densest sonic environments. Gene Hoglan, "The Atomic Clock," built his precision-first approach on Tama equipment throughout his Death and Dark Angel years, later moving to Pearl — kits engineered for consistency under punishing conditions.
 
 This guide covers what actually matters in a death metal drum kit, which specific models these legends use, and how to build your own death metal setup at any budget.`,
       keyPoints: [
@@ -13201,13 +13185,12 @@ Pearl's SST (Superior Shell Technology) construction with no reinforcement rings
 
           description: `The DW Collector's Series is Flo Mounier's kit of choice for Cryptopsy's technically demanding death metal. Hand-crafted in Oxnard, California with individually selected maple shells, the Collector's Series represents American drum manufacturing at its pinnacle. Mounier's playing — some of the most technically advanced death metal drumming ever recorded — demands a kit that can handle sustained extreme tempos without losing tonal integrity.
 
-DW's True-Pitch tensioning ensures precise, consistent tuning under heavy use — essential when you're sustaining 270 BPM patterns for extended passages. The warmth of maple gives Flo's toms a controlled, musical character in Cryptopsy's dense arrangements. Gene Hoglan also selected DW drums for much of his career work with Death and Testament, drawn to the same precision engineering.`,
+DW's True-Pitch tensioning ensures precise, consistent tuning under heavy use — essential when you're sustaining 270 BPM patterns for extended passages. The warmth of maple gives Flo's toms a controlled, musical character in Cryptopsy's dense arrangements.`,
 
           pros: [
             "Flo Mounier's kit — Cryptopsy's technical death metal precision",
             "Hand-crafted in USA with individually selected maple shells",
             "True-Pitch tensioning for accurate tuning under heavy use",
-            "Gene Hoglan has also used DW for Death and Testament work",
             "Exceptional build quality for extreme conditions"
           ],
           cons: [
@@ -13223,8 +13206,7 @@ DW's True-Pitch tensioning ensures precise, consistent tuning under heavy use �
             tomSizes: "Custom configurations available"
           },
           usedBy: [
-            { name: "Flo Mounier", band: "Cryptopsy", note: "DW Collector's Series — technical death metal at 270 BPM" },
-            { name: "Gene Hoglan", band: "Death / Testament / Dark Angel", note: "DW precision engineering for The Atomic Clock" }
+            { name: "Flo Mounier", band: "Cryptopsy", note: "DW Collector's Series — technical death metal at 270 BPM" }
           ],
           verdict: "The premium death metal kit. Flo Mounier's choice for Cryptopsy's most demanding performances.",
           rating: 4.8,
@@ -13397,7 +13379,7 @@ Upgrade the heads immediately — Remo or Evans batter heads transform the Expor
 - Preferred for: technical death metal, speed-focused playing
 - Best kits: Reference Pure, Masters Maple Reserve
 
-**DW (Flo Mounier / Gene Hoglan):**
+**DW (Flo Mounier):**
 - Collector's Series: hand-crafted precision with True-Pitch tuning
 - More warmth than Pearl, excellent projection in dense mixes
 - Preferred for: technical death metal, studio-quality tone
@@ -13456,7 +13438,7 @@ Upgrade the heads immediately — Remo or Evans batter heads transform the Expor
     relatedDrummers: [
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Pearl Reference Pure — fastest recorded drummer\'s kit choice' },
       { slug: 'flo-mounier', name: 'Flo Mounier', reason: 'DW Collector\'s Series — Cryptopsy technical death metal precision' },
-      { slug: 'gene-hoglan', name: 'Gene Hoglan', reason: 'Tama/DW — The Atomic Clock\'s death metal foundation' },
+      { slug: 'gene-hoglan', name: 'Gene Hoglan', reason: 'Tama — The Atomic Clock\'s death metal foundation' },
       { slug: 'pete-sandoval', name: 'Pete Sandoval', reason: 'ddrum — hyper-blast Morbid Angel drumming' },
       { slug: 'paul-mazurkiewicz', name: 'Paul Mazurkiewicz', reason: 'Pearl — three decades of Cannibal Corpse brutality' }
     ],
@@ -13465,7 +13447,7 @@ Upgrade the heads immediately — Remo or Evans batter heads transform the Expor
     featuredDrummers: [
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Pearl Reference Pure — the world\'s fastest drummer\'s kit' },
       { slug: 'flo-mounier', name: 'Flo Mounier', reason: 'DW Collector\'s Series — Cryptopsy technical death metal' },
-      { slug: 'gene-hoglan', name: 'Gene Hoglan', reason: 'Tama/DW — The Atomic Clock\'s precision foundation' },
+      { slug: 'gene-hoglan', name: 'Gene Hoglan', reason: 'Tama — The Atomic Clock\'s precision foundation' },
       { slug: 'pete-sandoval', name: 'Pete Sandoval', reason: 'ddrum — hyper-blast drumming pioneer with Morbid Angel' },
       { slug: 'paul-mazurkiewicz', name: 'Paul Mazurkiewicz', reason: 'Pearl — Cannibal Corpse\'s relentless death metal backbone' }
     ],
@@ -13482,7 +13464,7 @@ Upgrade the heads immediately — Remo or Evans batter heads transform the Expor
       },
       {
         question: "What drum kit does Gene Hoglan use?",
-        answer: "Gene Hoglan has used both Tama and DW drums across his career. His work with Death and Dark Angel featured Tama equipment, while later career work with Testament and others used DW. Hoglan's precision-first playing style works well with both brands' emphasis on consistent, reliable action."
+        answer: "Gene Hoglan has used two brands across his career. His work with Death and Dark Angel from 1983 featured a Tama Superstar kit, and he stuck with Tama through his Testament and Dethklok years. In 2018 he switched to a Pearl Reference Pure kit, which remains his current setup. Hoglan's precision-first playing style works well with both brands' emphasis on consistent, reliable action."
       },
       {
         question: "Are birch or maple drums better for death metal?",
@@ -13520,7 +13502,7 @@ Whatever you choose: tune it properly, replace heads regularly, and lock down th
     // SEO metadata
     title: "Best Snare Drums for Death Metal: 2026 Expert Guide",
     metaTitle: "Best Snare Drums for Death Metal 2026 | MetalForge Expert Guide",
-    description: "Best snare drums for death metal. What George Kollias (Pearl Free-Floating), Flo Mounier (Pearl/DW), and Gene Hoglan (DW) actually use — Pearl Free-Floating, Ludwig Acrolite, Pork Pie Little Squealer reviewed.",
+    description: "Best snare drums for death metal. What George Kollias (Pearl Free-Floating) and Flo Mounier (Pearl/DW) actually use — Pearl Free-Floating, Ludwig Acrolite, Pork Pie Little Squealer, DW Collector's Steel reviewed.",
     seoKeywords: [
       'best snare drums for death metal',
       'death metal snare drum',
@@ -13557,7 +13539,7 @@ Whatever you choose: tune it properly, replace heads regularly, and lock down th
       title: "The Death Metal Snare: Sensitivity, Speed, and Brutal Crack",
       content: `The snare drum is the defining voice of death metal drumming. Every blast beat, every backbeat, every snare fill that cuts through downtuned guitar walls originates here. Death metal's specific demands — extreme tempos (180–280 BPM), ghost note sensitivity for technical patterns, and a crack that remains audible in the densest sonic environments — make snare selection a critical decision with real sonic consequences.
 
-George Kollias, the world's fastest recorded drummer, uses Pearl Free-Floating snare drums. The free-floating design — where the shell is suspended from its own flanges rather than attached to traditional lugs — eliminates shell dampening and maximizes resonance and sensitivity. At 280 BPM, every millisecond of response time matters. Flo Mounier (Cryptopsy) similarly prioritizes snare sensitivity for his technically advanced death metal patterns, which blend extreme speed with ghost note articulation. Gene Hoglan ("The Atomic Clock") uses DW snare drums engineered for the consistent, repeatable response his metronomic approach demands.
+George Kollias, the world's fastest recorded drummer, uses Pearl Free-Floating snare drums. The free-floating design — where the shell is suspended from its own flanges rather than attached to traditional lugs — eliminates shell dampening and maximizes resonance and sensitivity. At 280 BPM, every millisecond of response time matters. Flo Mounier (Cryptopsy) similarly prioritizes snare sensitivity for his technically advanced death metal patterns, which blend extreme speed with ghost note articulation. Gene Hoglan ("The Atomic Clock") relies on a precisely tuned Pearl snare for the consistent, repeatable response his metronomic approach demands.
 
 This guide breaks down what actually makes a snare drum work for death metal, which specific models the legends use, and concrete recommendations from budget to pro.`,
       keyPoints: [
@@ -13705,12 +13687,12 @@ For death metal drummers who want maximum brightness and projection over the war
           tier: "pro",
           material: "Steel",
 
-          description: `Gene Hoglan's DW Collector's snare provides the precision and consistency that The Atomic Clock's reputation demands. DW's True-Pitch tensioning system allows micro-precise tuning adjustments that stay locked under heavy use — critical when your entire drumming identity is built around metronomic precision.
+          description: `DW's Collector's Steel snare provides the precision and consistency demanded by technical, high-tempo death metal drumming. DW's True-Pitch tensioning system allows micro-precise tuning adjustments that stay locked under heavy use — critical for drummers whose identity is built around metronomic precision.
 
 The steel shell delivers a bright, cutting crack that cuts through dense death metal and thrash arrangements. DW's MAG throw-off mechanism is one of the most reliable in the industry — quick snare on/off action and consistent snare wire tension across the full throw-off range. For death metal drummers who need a snare they can tune precisely and trust to stay in tune across an entire performance, the DW Collector's Steel is the premium choice.`,
 
           pros: [
-            "Gene Hoglan's choice — The Atomic Clock's precision snare",
+            "DW's precision engineering for technical, high-tempo drumming",
             "True-Pitch tensioning for micro-precise tuning",
             "MAG throw-off for reliable, consistent snare wire tension",
             "Steel shell for bright, cutting crack",
@@ -13727,10 +13709,7 @@ The steel shell delivers a bright, cutting crack that cuts through dense death m
             throwOff: "DW MAG",
             wires: "20-strand"
           },
-          usedBy: [
-            { name: "Gene Hoglan", band: "Death / Testament / Dark Angel", note: "DW Collector's Steel — The Atomic Clock's precision snare" }
-          ],
-          verdict: "Gene Hoglan's precision snare. True-Pitch tensioning for the most consistent, repeatable death metal snare tuning.",
+          verdict: "The precision player's steel snare. True-Pitch tensioning for the most consistent, repeatable death metal snare tuning.",
           rating: 4.8,
           affiliateLink: "https://www.thomann.de/intl/dw_collectors_steel_snare.htm?partner_id=metalforge"
         },
@@ -13861,7 +13840,7 @@ Flo Mounier has referenced Ludwig equipment at various career stages. The Acroli
 **Steel (Pearl Free-Floating Steel, DW Collector's Steel):**
 - Bright, cutting, aggressive attack
 - Maximum projection through dense death metal mixes
-- Preferred by: Pete Sandoval, Gene Hoglan
+- Preferred by: Pete Sandoval
 - Best for: Death metal projection; live volume situations
 
 **Brass (Pearl Free-Floating Brass):**
@@ -13905,7 +13884,7 @@ Flo Mounier has referenced Ludwig equipment at various career stages. The Acroli
         {
           category: "Best for Precision",
           pedal: "DW Collector's Steel",
-          reason: "Gene Hoglan's choice. True-Pitch tensioning for the most consistent, repeatable death metal snare."
+          reason: "True-Pitch tensioning for the most consistent, repeatable death metal snare."
         },
         {
           category: "Best Budget",
@@ -13924,7 +13903,7 @@ Flo Mounier has referenced Ludwig equipment at various career stages. The Acroli
     relatedDrummers: [
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Pearl Free-Floating brass — 280 BPM blast beat snare' },
       { slug: 'flo-mounier', name: 'Flo Mounier', reason: 'Technical death metal snare sensitivity — Cryptopsy\'s brutal precision' },
-      { slug: 'gene-hoglan', name: 'Gene Hoglan', reason: 'DW Collector\'s Steel — The Atomic Clock\'s precision snare' },
+      { slug: 'gene-hoglan', name: 'Gene Hoglan', reason: 'Precisely tuned Pearl snare — The Atomic Clock\'s metronomic precision' },
       { slug: 'pete-sandoval', name: 'Pete Sandoval', reason: 'Pearl Steel — Morbid Angel hyper-blast death metal crack' }
     ],
 
@@ -13932,7 +13911,7 @@ Flo Mounier has referenced Ludwig equipment at various career stages. The Acroli
     featuredDrummers: [
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Pearl Free-Floating brass 13\" — world record blast beat snare' },
       { slug: 'flo-mounier', name: 'Flo Mounier', reason: 'Technical death metal snare sensitivity — Cryptopsy\'s 270 BPM precision' },
-      { slug: 'gene-hoglan', name: 'Gene Hoglan', reason: 'DW Collector\'s Steel — The Atomic Clock\'s precision snare instrument' },
+      { slug: 'gene-hoglan', name: 'Gene Hoglan', reason: 'Precisely tuned Pearl snare — The Atomic Clock\'s precision instrument' },
       { slug: 'pete-sandoval', name: 'Pete Sandoval', reason: 'Pearl Steel — Morbid Angel hyper-blast death metal pioneer' }
     ],
 
@@ -13967,7 +13946,7 @@ Flo Mounier has referenced Ludwig equipment at various career stages. The Acroli
     // Conclusion
     conclusion: {
       title: "Find Your Death Metal Snare Voice",
-      content: `George Kollias didn't accidentally arrive at the Pearl Free-Floating brass 13\" — he selected it because the free-floating system's sensitivity advantage translates directly into performance at 280 BPM. Gene Hoglan didn't choose DW Collector's for the brand logo — he chose it because True-Pitch tensioning provides the consistent, repeatable tuning that his metronomic precision requires across every performance.
+      content: `George Kollias didn't accidentally arrive at the Pearl Free-Floating brass 13\" — he selected it because the free-floating system's sensitivity advantage translates directly into performance at 280 BPM. Drummers chasing that same metronomic reliability at speed, like Gene Hoglan on his Pearl snare, aren't choosing gear for the brand logo — they're choosing it for consistent, repeatable tuning that holds up across every performance.
 
 For most death metal drummers, the Pearl Free-Floating Steel 14\" is the professional starting point — the combination of free-floating sensitivity and steel brightness handles both live and recording demands effectively. Budget players should seriously consider the Ludwig Acrolite — at its price point, it remains one of the most cost-effective professional snare drums ever built. Replace the factory head with Evans HD Dry and it will compete with snares at three times its price.
 
@@ -21497,13 +21476,12 @@ That sensitivity matters when Kollias is firing 280 BPM patterns beneath Nile's 
 
           description: `The DW Collector's Series is Flo Mounier's bass drum of choice for Cryptopsy's technically demanding death metal. Hand-crafted in Oxnard, California with individually selected maple shells, it represents American drum manufacturing at its pinnacle — built to handle sustained 270 BPM double bass patterns without losing tonal integrity.
 
-DW's True-Pitch tensioning ensures precise, consistent tuning under heavy use, and the shell's controlled projection lets Mounier's technical patterns cut through Cryptopsy's dense arrangements. Gene Hoglan also relied on DW gear for portions of his career with Death and Testament.`,
+DW's True-Pitch tensioning ensures precise, consistent tuning under heavy use, and the shell's controlled projection lets Mounier's technical patterns cut through Cryptopsy's dense arrangements.`,
 
           pros: [
             "Flo Mounier's Cryptopsy bass drum — technical death metal at 270 BPM",
             "Hand-crafted in USA with individually selected maple shells",
             "True-Pitch tensioning for accurate tuning under heavy use",
-            "Gene Hoglan also used DW gear during his Death/Testament years",
             "Exceptional build quality for extreme touring conditions"
           ],
           cons: [
@@ -21519,8 +21497,7 @@ DW's True-Pitch tensioning ensures precise, consistent tuning under heavy use, a
             configuration: "Single, double-pedal driven"
           },
           usedBy: [
-            { name: "Flo Mounier", band: "Cryptopsy", note: "DW Collector's Series — technical death metal at 270 BPM" },
-            { name: "Gene Hoglan", band: "Death / Testament", note: "DW precision engineering for portions of his career" }
+            { name: "Flo Mounier", band: "Cryptopsy", note: "DW Collector's Series — technical death metal at 270 BPM" }
           ],
           verdict: "The premium technical death metal pick — Flo Mounier's choice for Cryptopsy's most demanding work.",
           rating: 4.8,
@@ -24187,7 +24164,7 @@ Start with a 22"x18" maple shell tuned for control rather than raw brightness �
     // SEO metadata
     title: "Best Bass Drums for Metal: 2026 Ultimate Guide",
     metaTitle: "Best Bass Drums for Metal in 2026 | MetalForge Expert Guide",
-    description: "Best bass drums for metal's cross-genre demands - attack, low-end punch, and shell material tradeoffs. What Lars Ulrich (Tama Starclassic Maple), Gene Hoglan (DW Collector's), George Kollias (Pearl Masterworks), and Tomas Haake (Sonor SQ2) actually play.",
+    description: "Best bass drums for metal's cross-genre demands - attack, low-end punch, and shell material tradeoffs. What Lars Ulrich (Tama Starclassic Maple), George Kollias (Pearl Masterworks), and Tomas Haake (Sonor SQ2) actually play, plus the DW Collector's Series.",
     seoKeywords: [
       'best bass drums for metal',
       'metal bass drum setup',
@@ -24224,12 +24201,12 @@ Start with a 22"x18" maple shell tuned for control rather than raw brightness �
       title: "What Bass Drum Setup Works Across Every Metal Subgenre?",
       content: `Whatever subgenre you play, a metal bass drum has one non-negotiable job: deliver focused attack and real low-end weight that stays audible under loud, downtuned guitars, without turning boomy or indistinct. The tempo and tuning demands shift from thrash to doom to death metal, but the shell fundamentals - diameter, depth, material, and head selection - stay consistent across nearly the entire genre.
 
-Lars Ulrich's Tama Starclassic Maple bass drum has anchored Metallica's sound through the band's most influential records, its warm, focused low end becoming the reference point most metal drummers measure their own kick tone against. Gene Hoglan - "The Atomic Clock" - built four decades of precision-first low end across Death, Testament, and Dethklok on DW Collector's Series shells. George Kollias drives Nile's extreme-tempo technical death metal on a touring-durable Pearl Masterworks bass drum, while Tomas Haake's Sonor SQ2 Heavy Beech setup - built around dual 24"x18" bass drums - gives Meshuggah's polyrhythmic riffing its uniquely deep, resonant foundation.
+Lars Ulrich's Tama Starclassic Maple bass drum has anchored Metallica's sound through the band's most influential records, its warm, focused low end becoming the reference point most metal drummers measure their own kick tone against. DW's Collector's Series shells, hand-crafted in Oxnard, California, deliver that same precision and consistency across radically different touring projects. George Kollias drives Nile's extreme-tempo technical death metal on a touring-durable Pearl Masterworks bass drum, while Tomas Haake's Sonor SQ2 Heavy Beech setup - built around dual 24"x18" bass drums - gives Meshuggah's polyrhythmic riffing its uniquely deep, resonant foundation.
 
 This guide breaks down the bass drum fundamentals that apply broadly across metal - shell size, material, and head selection - and which specific shells the genre's most influential drummers actually play, from budget starters to professional touring rigs.`,
       keyPoints: [
         "22\"x18\" is the standard cross-genre sizing, though some drummers (Tomas Haake) run dual 24\" shells for maximum low end",
-        "Maple (Lars Ulrich, Gene Hoglan, George Kollias) delivers warmer projection; birch delivers a punchier, more focused attack out of the box",
+        "Maple (Lars Ulrich, DW Collector's, George Kollias) delivers warmer projection; birch delivers a punchier, more focused attack out of the box",
         "Shell material is the single biggest tone decision - pick based on whether you need cutting attack or controlled warmth",
         "Reinforced heads (Evans EMAD, Remo Powerstroke 3) are standard across every metal subgenre's bass drum setup"
       ]
@@ -24248,7 +24225,7 @@ This guide breaks down the bass drum fundamentals that apply broadly across meta
         {
           name: "Shell Material and Attack",
           icon: "🪵",
-          description: "Maple (Lars Ulrich's Tama Starclassic, Gene Hoglan's DW Collector's, George Kollias's Pearl Masterworks) delivers warmer, fuller projection with more natural resonance - the reference tone for classic metal production. Birch produces a punchier, more immediately focused attack that cuts through a mix with fewer overtones.",
+          description: "Maple (Lars Ulrich's Tama Starclassic, DW Collector's, George Kollias's Pearl Masterworks) delivers warmer, fuller projection with more natural resonance - the reference tone for classic metal production. Birch produces a punchier, more immediately focused attack that cuts through a mix with fewer overtones.",
           recommendation: "Maple for the warmer, fuller low end metal's most influential drummers actually play; birch for cutting, focused attack out of the box"
         },
         {
@@ -24332,12 +24309,12 @@ That warm, resonant low end is exactly why maple remains one of metal's most end
           tier: "premium",
           material: "Maple, 22\"x18\"",
 
-          description: `Gene Hoglan - "The Atomic Clock" - has relied on DW Collector's Series shells across four decades of work spanning Death, Testament, and Dethklok. Hand-crafted in Oxnard, California, the Collector's Series delivers precision and consistency that hold up night after night on demanding tours across radically different projects.
+          description: `DW's Collector's Series shells are hand-crafted in Oxnard, California, delivering precision and consistency that hold up night after night on demanding tours across radically different projects.
 
-DW's True-Pitch tensioning keeps tuning locked in through relentless double bass work, and the maple shell's warmer projection gives Hoglan's precision-first playing a fuller low end than a pure birch shell.`,
+DW's True-Pitch tensioning keeps tuning locked in through relentless double bass work, and the maple shell's warmer projection gives precision-first playing a fuller low end than a pure birch shell.`,
 
           pros: [
-            "Gene Hoglan's cross-project foundation - Death, Testament, Dethklok",
+            "Hand-crafted precision built for demanding, cross-project touring",
             "Hand-crafted in USA with individually selected maple shells",
             "True-Pitch tensioning for reliable tuning under heavy touring use",
             "Warmer, fuller projection than birch",
@@ -24355,9 +24332,6 @@ DW's True-Pitch tensioning keeps tuning locked in through relentless double bass
             headRecommendation: "Remo Powerstroke 3",
             configuration: "Single, double-pedal driven"
           },
-          usedBy: [
-            { name: "Gene Hoglan", band: "Death / Testament / Dethklok", note: "DW Collector's Series across four decades" }
-          ],
           verdict: "The premium pick for drummers who want warm, precise low end across diverse metal projects.",
           rating: 4.8,
           affiliateLink: "https://www.thomann.de/intl/dw_collectors_bass_drum_dm.htm?partner_id=metalforge"
@@ -24446,7 +24420,7 @@ The result is a bass drum built specifically to survive extreme-tempo, high-volu
       title: "Birch vs Maple Bass Drums for Metal",
       content: `Metal drummers split their bass drum choice across two proven shell philosophies:
 
-**Maple (Lars Ulrich, Gene Hoglan, George Kollias):**
+**Maple (Lars Ulrich, DW Collector's, George Kollias):**
 - Warmer, fuller projection with more natural resonance
 - Ideal when you want low end that fills out the mix rather than cutting through it
 - Still cuts through dense guitars when tuned tight with the right head
@@ -24479,7 +24453,7 @@ The result is a bass drum built specifically to survive extreme-tempo, high-volu
         {
           category: "Best for Warmth and Precision",
           pedal: "DW Collector's Series Bass Drum",
-          reason: "Gene Hoglan's cross-project pick - hand-crafted precision across four decades."
+          reason: "Hand-crafted precision across diverse touring projects."
         },
         {
           category: "Best for Extreme-Tempo Touring",
@@ -24503,7 +24477,6 @@ The result is a bass drum built specifically to survive extreme-tempo, high-volu
     ],
     relatedDrummers: [
       { slug: 'lars-ulrich', name: 'Lars Ulrich', reason: 'Tama Starclassic Maple - metal\'s reference warm, resonant low end' },
-      { slug: 'gene-hoglan', name: 'Gene Hoglan', reason: 'DW Collector\'s Series - precision across four decades of metal' },
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Custom Pearl Masterworks for extreme-tempo touring durability' },
       { slug: 'tomas-haake', name: 'Tomas Haake', reason: 'Sonor SQ2 Heavy Beech dual 24\"x18\" - Meshuggah\'s resonant low end' }
     ],
@@ -24511,7 +24484,6 @@ The result is a bass drum built specifically to survive extreme-tempo, high-volu
     // Featured drummers (issue template)
     featuredDrummers: [
       { slug: 'lars-ulrich', name: 'Lars Ulrich', reason: 'Tama Starclassic Maple - the genre\'s reference warm, resonant tone' },
-      { slug: 'gene-hoglan', name: 'Gene Hoglan', reason: 'DW Collector\'s Series - warm, precise low end' },
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Custom Pearl Masterworks - extreme-tempo durability' }
     ],
 
@@ -24519,7 +24491,7 @@ The result is a bass drum built specifically to survive extreme-tempo, high-volu
     faq: [
       {
         question: "What bass drums do metal drummers use across different subgenres?",
-        answer: "Lars Ulrich of Metallica plays a Tama Starclassic Maple, Gene Hoglan (Death, Testament, Dethklok) plays a DW Collector's Series, George Kollias of Nile plays a custom Pearl Masterworks, and Tomas Haake of Meshuggah runs dual Sonor SQ2 Heavy Beech shells. Most run a single 22\"x18\" bass drum with a double pedal."
+        answer: "Lars Ulrich of Metallica plays a Tama Starclassic Maple, George Kollias of Nile plays a custom Pearl Masterworks, and Tomas Haake of Meshuggah runs dual Sonor SQ2 Heavy Beech shells. The DW Collector's Series is another premium option built for demanding touring schedules. Most run a single 22\"x18\" bass drum with a double pedal."
       },
       {
         question: "What size bass drum is best for metal generally?",
@@ -24527,7 +24499,7 @@ The result is a bass drum built specifically to survive extreme-tempo, high-volu
       },
       {
         question: "Birch or maple bass drum for metal?",
-        answer: "Maple (Lars Ulrich's Tama Starclassic, Gene Hoglan's DW Collector's, George Kollias's Pearl Masterworks) delivers warmer, fuller low-end projection - what metal's most influential drummers actually play. Birch gives a punchier, more immediately focused attack out of the box. Choose based on whether cutting attack or warm fullness matters more for your material."
+        answer: "Maple (Lars Ulrich's Tama Starclassic, DW Collector's, George Kollias's Pearl Masterworks) delivers warmer, fuller low-end projection - what metal's most influential drummers actually play. Birch gives a punchier, more immediately focused attack out of the box. Choose based on whether cutting attack or warm fullness matters more for your material."
       },
       {
         question: "Do I need dual bass drums for metal, or is a double pedal enough?",
@@ -24544,7 +24516,7 @@ The result is a bass drum built specifically to survive extreme-tempo, high-volu
       title: "Build the Punchy, Durable Low End Metal Demands",
       content: `Across nearly every metal subgenre, the bass drum fundamentals stay the same: focused attack, real low-end weight, and hardware that survives aggressive touring. Lars Ulrich's Tama Starclassic Maple proves that a warm, resonant shell - tuned tight - is the reference standard most metal drummers still measure their own tone against.
 
-Gene Hoglan and George Kollias follow the same maple path with the DW Collector's Series and a custom Pearl Masterworks - both deliver precision and durability across the most demanding touring schedules. If you want a punchier, more immediately focused attack out of the box, birch remains a solid alternative.
+The DW Collector's Series and George Kollias's custom Pearl Masterworks follow the same maple path - both deliver precision and durability across the most demanding touring schedules. If you want a punchier, more immediately focused attack out of the box, birch remains a solid alternative.
 
 Start with a 22"x18" maple or birch shell and a reinforced head like the Evans EMAD or Remo Powerstroke 3 - it's the proven foundation across metal's most influential drummers, whatever subgenre you play.
 
@@ -26051,7 +26023,7 @@ Start with a 22"x18" maple/birch hybrid shell tuned for dynamic range rather tha
     // SEO metadata
     title: "Best Bass Drums for Thrash Metal: 2026 Ultimate Guide",
     metaTitle: "Best Bass Drums for Thrash Metal in 2026 | MetalForge Expert Guide",
-    description: "Best bass drums for thrash metal's tight, fast-decaying low end. What Lars Ulrich (Tama Starclassic Maple), Dave Lombardo (Yamaha/DW), and Gene Hoglan (DW Collector's Series) actually play — built for rapid double bass at high tempo, from budget to pro.",
+    description: "Best bass drums for thrash metal's tight, fast-decaying low end. What Lars Ulrich (Tama Starclassic Maple) and Dave Lombardo (Yamaha/DW) actually play, plus the DW Collector's Series — built for rapid double bass at high tempo, from budget to pro.",
     seoKeywords: [
       'best bass drums for thrash metal',
       'thrash metal bass drum setup',
@@ -26088,14 +26060,14 @@ Start with a 22"x18" maple/birch hybrid shell tuned for dynamic range rather tha
       title: "What Bass Drum Setup Do Thrash Metal Drummers Actually Use?",
       content: `Thrash metal's bass drum has one defining job: deliver a tight, fast-decaying low end that stays punchy and articulate under rapid double-bass patterns at 180+ BPM, locking precisely with palm-muted, downpicked riffs. Unlike death metal's pursuit of maximum sub-bass weight, thrash needs a kick that decays quickly enough to keep every stroke distinct even at the fastest gallop and blast-adjacent tempos.
 
-Lars Ulrich's Tama Starclassic Maple kit has been his primary setup through Metallica's peak years — maple's warm, resonant tone, tuned tight, drives "Master of Puppets" and "...And Justice for All" without ever turning boomy. Dave Lombardo pioneered the double bass drumming style that defined the genre, running various Yamaha and DW setups that gave Slayer the aggressive, precise kick attack behind "Reign in Blood." Gene Hoglan — "The Atomic Clock" — trusts DW Collector's Series drums for the metronomic precision that makes his playing as reliable as a machine across Testament and Dark Angel.
+Lars Ulrich's Tama Starclassic Maple kit has been his primary setup through Metallica's peak years — maple's warm, resonant tone, tuned tight, drives "Master of Puppets" and "...And Justice for All" without ever turning boomy. Dave Lombardo pioneered the double bass drumming style that defined the genre, running various Yamaha and DW setups that gave Slayer the aggressive, precise kick attack behind "Reign in Blood." DW's Collector's Series drums deliver the metronomic precision serious thrash touring demands.
 
 This guide breaks down exactly what makes a bass drum work for thrash metal — shell material, tuning, and head selection — and which specific shells these genre-defining drummers actually play.`,
       keyPoints: [
-        "Maple shells (Lars Ulrich's, Gene Hoglan's Tama/DW kits), tuned tight, deliver the fast-decaying, punchy attack thrash metal demands",
+        "Maple shells (Lars Ulrich's Tama, DW Collector's kits), tuned tight, deliver the fast-decaying, punchy attack thrash metal demands",
         "22\"x16\"-18\" is the thrash standard — shallower than death metal's deeper shells, for a quicker, more controlled decay",
         "Dave Lombardo pioneered thrash's double-bass drumming style on Yamaha and DW setups built for precise, aggressive attack",
-        "Gene Hoglan's DW Collector's Series delivers the metronomic consistency that defines his playing across decades"
+        "DW's Collector's Series delivers the metronomic consistency serious touring demands"
       ]
     },
 
@@ -26118,7 +26090,7 @@ This guide breaks down exactly what makes a bass drum work for thrash metal — 
         {
           name: "Shell Material",
           icon: "🪵",
-          description: "Maple (Lars Ulrich's Tama Starclassic, Gene Hoglan's DW Collector's Series) delivers a warmer, more controlled tone with excellent tuning precision, and — tuned tight — the focused, punchy attack that's become synonymous with classic thrash. Birch offers an even quicker, punchier decay straight out of the box.",
+          description: "Maple (Lars Ulrich's Tama Starclassic, DW Collector's Series) delivers a warmer, more controlled tone with excellent tuning precision, and — tuned tight — the focused, punchy attack that's become synonymous with classic thrash. Birch offers an even quicker, punchier decay straight out of the box.",
           recommendation: "Maple, tuned tight, for the tone thrash's most iconic drummers actually play; birch for maximum punch and fast decay with less tuning work"
         },
         {
@@ -26136,7 +26108,7 @@ This guide breaks down exactly what makes a bass drum work for thrash metal — 
         {
           name: "Reliability Across Decades of Touring",
           icon: "🛡️",
-          description: "Lars Ulrich's Tama Starclassic Maple and Gene Hoglan's DW Collector's Series have both proven their reliability across decades of nightly touring — build quality and hardware stability matter as much as tone when a rig has to survive that kind of wear.",
+          description: "Lars Ulrich's Tama Starclassic Maple and DW's Collector's Series have both proven their reliability across decades of nightly touring — build quality and hardware stability matter as much as tone when a rig has to survive that kind of wear.",
           recommendation: "Reinforced hardware and heavy-duty hoops rated for sustained, high-tempo touring abuse"
         }
       ]
@@ -26196,12 +26168,12 @@ That controlled, resonant punch keeps every stroke distinct even at thrash's fas
           tier: "premium",
           material: "Maple, 22\"x18\"",
 
-          description: `Gene Hoglan — "The Atomic Clock" — trusts DW Collector's Series drums for the metronomic precision that makes his playing as reliable as a machine across Testament and Dark Angel. Hand-crafted in Oxnard, California with individually selected maple shells, it's built to hold tuning through sustained, high-tempo double-bass abuse without drifting.
+          description: `DW's Collector's Series drums deliver the metronomic precision that makes a touring rig reliable as a machine night after night. Hand-crafted in Oxnard, California with individually selected maple shells, it's built to hold tuning through sustained, high-tempo double-bass abuse without drifting.
 
-DW's True-Pitch tensioning ensures precise, consistent tuning night after night — critical for a drummer whose entire reputation rests on unshakeable timing and repeatable attack.`,
+DW's True-Pitch tensioning ensures precise, consistent tuning night after night — critical for drummers whose reputation rests on unshakeable timing and repeatable attack.`,
 
           pros: [
-            "Gene Hoglan's Collector's Series — The Atomic Clock's precision machine",
+            "Hand-crafted Collector's Series — built for precision touring",
             "Hand-crafted in USA with individually selected maple shells",
             "True-Pitch tensioning for accurate, repeatable tuning under heavy use",
             "Exceptional build quality for extreme touring conditions",
@@ -26219,10 +26191,7 @@ DW's True-Pitch tensioning ensures precise, consistent tuning night after night 
             headRecommendation: "Evans EMAD",
             configuration: "Single, double-pedal driven"
           },
-          usedBy: [
-            { name: "Gene Hoglan", band: "Testament / Dark Angel", note: "DW Collector's Series — metronomic precision at thrash tempo" }
-          ],
-          verdict: "The premium precision pick — Gene Hoglan's choice for machine-like reliability at speed.",
+          verdict: "The premium precision pick — built for machine-like reliability at speed.",
           rating: 4.8,
           affiliateLink: "https://www.thomann.de/intl/dw_collectors_bass_drum_thrash_metal.htm?partner_id=metalforge"
         },
@@ -26309,7 +26278,7 @@ That shallower depth speeds up response time without sacrificing the punch neede
       title: "Birch vs Maple Bass Drums for Thrash Metal",
       content: `Thrash metal drummers split their bass drum choice across two proven shell philosophies:
 
-**Maple (Lars Ulrich, Gene Hoglan):**
+**Maple (Lars Ulrich, DW Collector's):**
 - Warmer tone with excellent tuning precision and consistency
 - Tight and controlled when tuned and muffled correctly, without losing body
 - The choice behind the genre's most iconic recordings
@@ -26342,7 +26311,7 @@ That shallower depth speeds up response time without sacrificing the punch neede
         {
           category: "Best for Precision",
           pedal: "DW Collector's Series Bass Drum",
-          reason: "Gene Hoglan's choice. Hand-crafted in USA, maple perfection for The Atomic Clock's timing."
+          reason: "Hand-crafted in USA, maple perfection for machine-like timing at speed."
         },
         {
           category: "Best for Maximum Speed",
@@ -26366,30 +26335,28 @@ That shallower depth speeds up response time without sacrificing the punch neede
     ],
     relatedDrummers: [
       { slug: 'lars-ulrich', name: 'Lars Ulrich', reason: 'Tama Starclassic Maple — defining thrash metal bass drum sound' },
-      { slug: 'dave-lombardo', name: 'Dave Lombardo', reason: 'Yamaha/DW — relentless double-bass thrash precision' },
-      { slug: 'gene-hoglan', name: 'Gene Hoglan', reason: 'DW Collector\'s Series — The Atomic Clock\'s precision machine' }
+      { slug: 'dave-lombardo', name: 'Dave Lombardo', reason: 'Yamaha/DW — relentless double-bass thrash precision' }
     ],
 
     // Featured drummers (issue template)
     featuredDrummers: [
       { slug: 'lars-ulrich', name: 'Lars Ulrich', reason: 'Tama Starclassic Maple — the definitive thrash metal bass drum' },
-      { slug: 'dave-lombardo', name: 'Dave Lombardo', reason: 'Yamaha birch — driving Slayer\'s relentless double-bass speed' },
-      { slug: 'gene-hoglan', name: 'Gene Hoglan', reason: 'DW Collector\'s Series — The Atomic Clock\'s metronomic precision' }
+      { slug: 'dave-lombardo', name: 'Dave Lombardo', reason: 'Yamaha birch — driving Slayer\'s relentless double-bass speed' }
     ],
 
     // FAQ section for SEO
     faq: [
       {
         question: "What bass drums do thrash metal drummers use?",
-        answer: "Lars Ulrich of Metallica plays a Tama Starclassic Maple bass drum, Dave Lombardo of Slayer has used various Yamaha and DW setups, and Gene Hoglan of Testament and Dark Angel trusts DW's Collector's Series. All three prioritize a tight, fast-decaying attack over maximum low-end weight."
+        answer: "Lars Ulrich of Metallica plays a Tama Starclassic Maple bass drum, and Dave Lombardo of Slayer has used various Yamaha and DW setups. DW's Collector's Series is another premium option built for machine-like touring reliability. All prioritize a tight, fast-decaying attack over maximum low-end weight."
       },
       {
         question: "What size bass drum is best for thrash metal?",
-        answer: "22\"x16\"-18\" is the thrash metal standard — shallower than death metal's deeper shells. Dave Lombardo's Yamaha setup runs the shallower 16\" depth for an even quicker response, while Lars Ulrich and Gene Hoglan both use 18\" for slightly more low-end body."
+        answer: "22\"x16\"-18\" is the thrash metal standard — shallower than death metal's deeper shells. Dave Lombardo's Yamaha setup runs the shallower 16\" depth for an even quicker response, while Lars Ulrich uses 18\" for slightly more low-end body."
       },
       {
         question: "Birch or maple bass drum for thrash metal?",
-        answer: "Maple (Lars Ulrich's Tama Starclassic, Gene Hoglan's DW Collector's Series), tuned tight, offers a warmer tone with excellent tuning precision and consistency without losing the fast decay thrash needs. Birch (Dave Lombardo's Yamaha) gives a tighter, more focused attack right out of the box with less tuning work."
+        answer: "Maple (Lars Ulrich's Tama Starclassic, DW Collector's Series), tuned tight, offers a warmer tone with excellent tuning precision and consistency without losing the fast decay thrash needs. Birch (Dave Lombardo's Yamaha) gives a tighter, more focused attack right out of the box with less tuning work."
       },
       {
         question: "Why does thrash metal need a faster-decaying bass drum than death metal?",
@@ -26406,7 +26373,7 @@ That shallower depth speeds up response time without sacrificing the punch neede
       title: "Build the Tight, Fast-Decaying Low End Thrash Metal Demands",
       content: `Thrash metal's bass drum requirements come down to one thing: a tight, fast-decaying attack that stays punchy and distinct under rapid double-bass patterns at 180+ BPM. Lars Ulrich's Tama Starclassic Maple, tuned tight, proves maple's warm resonance is the genre's defining recorded tone, while Dave Lombardo's shallower Yamaha birch setup shows how a lighter shell can deliver that same speed and punch with less tuning work.
 
-If tuning precision and machine-like consistency matter more than raw out-of-the-box punch, follow Gene Hoglan's example with a maple DW Collector's Series — proof The Atomic Clock's reputation rests on gear built to hold tuning through decades of touring.
+If tuning precision and machine-like consistency matter more than raw out-of-the-box punch, a maple DW Collector's Series is built to hold tuning through decades of touring.
 
 Start with a 22"x16"-18" birch or maple shell and a reinforced head like the Remo Powerstroke 3 or Evans EMAD — it's the proven foundation across thrash metal's fastest and most influential drummers.
 

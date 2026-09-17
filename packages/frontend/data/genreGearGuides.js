@@ -17416,12 +17416,11 @@ Whatever you choose, prioritize double-braced construction and reinforced clamps
     // SEO metadata
     title: "Best Drum Hardware for Groove Metal: 2026 Ultimate Guide",
     metaTitle: "Best Drum Hardware for Groove Metal in 2026 | MetalForge Expert Guide",
-    description: "Best drum hardware for groove metal drummers — minimalist, rock-stable stands built for riff-locked pocket playing. What Vinnie Paul, Chris Adler, and Shannon Larkin actually use, from budget to pro.",
+    description: "Best drum hardware for groove metal drummers — minimalist, rock-stable stands built for riff-locked pocket playing. What Vinnie Paul and Shannon Larkin actually use, from budget to pro.",
     seoKeywords: [
       'best drum hardware for groove metal',
       'groove metal drummer hardware',
       'vinnie paul hardware',
-      'chris adler hardware',
       'shannon larkin hardware',
       'minimalist drum rack groove metal',
       'pocket kit hardware',
@@ -17453,13 +17452,13 @@ Whatever you choose, prioritize double-braced construction and reinforced clamps
       title: "Why Groove Metal Hardware Rewards Simplicity Over Size",
       content: `Groove metal built its entire identity on the pocket — mid-tempo, riff-locked grooves that hit exactly on the beat rather than around it. That approach doesn't need the sprawling, multi-tom rack systems that define technical death metal or djent; it needs a lean, rock-solid standard kit where every stand holds its position through hard, deliberate hits without drifting.
 
-Vinnie Paul of Pantera defined the genre's hardware philosophy long before "groove metal" was a term anyone used — a compact, standard-footprint kit anchored by heavy-duty stands that never needed to be an elaborate rack system, because Pantera's grooves didn't call for one. Chris Adler of Lamb of God carried that same minimalist logic forward, building his rig around dependable, double-braced stands sized to a tight, road-ready kit rather than a sprawling technical setup. Shannon Larkin of Godsmack has spent decades proving that a well-chosen standard hardware pack, not a rack system, is what most groove metal drumming actually calls for.
+Vinnie Paul of Pantera defined the genre's hardware philosophy long before "groove metal" was a term anyone used — a compact, standard-footprint kit anchored by heavy-duty stands that never needed to be an elaborate rack system, because Pantera's grooves didn't call for one. Shannon Larkin of Godsmack has spent decades proving that a well-chosen standard hardware pack, not a rack system, is what most groove metal drumming actually calls for.
 
 This guide covers what makes hardware genuinely groove-metal-grade, which specific pieces the genre's most respected drummers rely on, and where a compact pocket kit should spend versus save.`,
       keyPoints: [
         "Groove metal's mid-tempo, riff-locked grooves are built around a compact standard kit, not an elaborate rack system",
         "Vinnie Paul's Pantera-style pocket kit proves minimalist, heavy-duty stands outperform sprawling setups for this genre",
-        "Chris Adler and Shannon Larkin both favor dependable double-braced stands over rack systems for lean, road-ready rigs",
+        "Shannon Larkin favors dependable double-braced stands over rack systems for a lean, road-ready rig",
         "Stability under hard, deliberate hits matters more than stand count for locking into a groove"
       ]
     },
@@ -17477,7 +17476,7 @@ This guide covers what makes hardware genuinely groove-metal-grade, which specif
         {
           name: "Double-Braced Stability for Hard, Deliberate Hits",
           icon: "🔧",
-          description: "Vinnie Paul's and Chris Adler's riff-locked playing hits hard and exactly on the beat, which demands stands that hold position through repeated, deliberate force rather than the sustained vibration of a blast beat.",
+          description: "Vinnie Paul's riff-locked playing hits hard and exactly on the beat, which demands stands that hold position through repeated, deliberate force rather than the sustained vibration of a blast beat.",
           recommendation: "Double-braced, heavy-gauge tubing that resists drift under hard, on-the-beat hits"
         },
         {
@@ -17553,7 +17552,7 @@ For a compact, standard-footprint groove metal rig, a handful of Titan stands co
           tier: "pro",
           material: "Double-braced heavy-gauge steel",
 
-          description: `Chris Adler's decades fronting Lamb of God's rhythm section show that a full, flagship hardware pack still has a place in groove metal — not for a sprawling multi-tom rack, but for a lean, standard kit that simply needs the most dependable stands available for years of hard touring.
+          description: `A full, flagship hardware pack still has a place in groove metal — not for a sprawling multi-tom rack, but for a lean, standard kit that simply needs the most dependable stands available for years of hard touring.
 
 The DW 9000's memory-lock system lets a groove metal drummer rebuild the exact same pocket-tight setup at every soundcheck without sacrificing any of the simplicity the genre's playing style calls for.`,
 
@@ -17575,7 +17574,7 @@ The DW 9000's memory-lock system lets a groove metal drummer rebuild the exact s
             weight: "Heavy"
           },
           usedBy: [
-            { name: "Chris Adler", band: "Lamb of God", note: "Flagship stability for a lean, road-hardened groove metal kit" }
+            { name: "Groove metal drummers", band: "Various", note: "Flagship stability for a lean, road-hardened pocket kit" }
           ],
           verdict: "The flagship choice for groove metal drummers who want maximum durability in a lean kit.",
           rating: 4.7,
@@ -17770,7 +17769,7 @@ For a lean, standard-footprint groove metal kit, the Armory pack delivers double
         {
           category: "Best Full Pack",
           pedal: "DW 9000 Series Hardware Pack",
-          reason: "Chris Adler-grade durability for a road-hardened, hard-hitting pocket kit."
+          reason: "Flagship-grade durability for a road-hardened, hard-hitting pocket kit."
         },
         {
           category: "Best Throne",
@@ -17794,14 +17793,12 @@ For a lean, standard-footprint groove metal kit, the Armory pack delivers double
     ],
     relatedDrummers: [
       { slug: 'vinnie-paul', name: 'Vinnie Paul', reason: 'Defined groove metal\'s minimalist, stable pocket-kit hardware philosophy' },
-      { slug: 'chris-adler', name: 'Chris Adler', reason: 'Flagship-grade stands for a lean, road-hardened Lamb of God rig' },
       { slug: 'shannon-larkin', name: 'Shannon Larkin', reason: 'Decades of Godsmack touring on dependable, standard hardware' }
     ],
 
     // Featured drummers (issue template)
     featuredDrummers: [
       { slug: 'vinnie-paul', name: 'Vinnie Paul', reason: 'Pantera-style minimalist, stable pocket-kit hardware' },
-      { slug: 'chris-adler', name: 'Chris Adler', reason: 'Flagship durability for a lean, hard-touring groove rig' },
       { slug: 'shannon-larkin', name: 'Shannon Larkin', reason: 'Standard hardware pack proven across decades of touring' }
     ],
 
@@ -17813,7 +17810,7 @@ For a lean, standard-footprint groove metal kit, the Armory pack delivers double
       },
       {
         question: "Do groove metal drummers need a rack system?",
-        answer: "Generally, no. Groove metal's mid-tempo, riff-locked grooves are built around a standard 4-5 piece kit. Vinnie Paul, Chris Adler, and Shannon Larkin have all built careers on lean, standalone hardware setups rather than sprawling rack systems designed for technical, multi-tom playing."
+        answer: "Generally, no. Groove metal's mid-tempo, riff-locked grooves are built around a standard 4-5 piece kit. Vinnie Paul and Shannon Larkin have both built careers on lean, standalone hardware setups rather than sprawling rack systems designed for technical, multi-tom playing."
       },
       {
         question: "What throne does Shannon Larkin use?",
@@ -17832,7 +17829,7 @@ For a lean, standard-footprint groove metal kit, the Armory pack delivers double
     // Conclusion
     conclusion: {
       title: "Keep It Lean, Keep It Stable",
-      content: `Groove metal hardware has never needed to be the biggest or most elaborate rig on stage. Vinnie Paul proved decades ago that a compact, well-chosen set of stands can anchor some of metal's most influential grooves without ever needing to become a rack system, and Chris Adler and Shannon Larkin have both carried that same lean, road-tested philosophy forward.
+      content: `Groove metal hardware has never needed to be the biggest or most elaborate rig on stage. Vinnie Paul proved decades ago that a compact, well-chosen set of stands can anchor some of metal's most influential grooves without ever needing to become a rack system, and Shannon Larkin has carried that same lean, road-tested philosophy forward.
 
 If you're building a groove metal rig, start with double-braced standalone stands sized to a standard 4-5 piece kit rather than an elaborate rack setup built for a different genre's demands. Prioritize genuine double-bracing and a stable throne over flashy specs — your riff-locked pocket depends on rock-solid timing as much as tone.
 
@@ -58772,12 +58769,11 @@ Start with a 2-3 panel shield if you're just beginning to manage bleed in a shar
     // SEO metadata
     title: "Best Drum Kits for Groove Metal: 2026 Ultimate Guide",
     metaTitle: "Best Drum Kits for Groove Metal 2026 | MetalForge Expert Guide",
-    description: "Best drum kits for groove metal drumming. What Vinnie Paul (ddrum Signature), Chris Adler (Mapex Black Panther), and Eloy Casagrande (Tama Starclassic Bubinga) actually use — from budget to pro, built for mid-tempo power and crushing backbeats.",
+    description: "Best drum kits for groove metal drumming. What Vinnie Paul (ddrum Signature) and Eloy Casagrande (Tama Starclassic Bubinga) actually use — from budget to pro, built for mid-tempo power and crushing backbeats.",
     seoKeywords: [
       'best drum kits for groove metal',
       'groove metal drum kit',
       'vinnie paul drum kit',
-      'chris adler drum kit',
       'eloy casagrande drum kit',
       'ddrum vinnie paul signature series',
       'mapex black panther groove metal',
@@ -58809,7 +58805,7 @@ Start with a 2-3 panel shield if you're just beginning to manage bleed in a shar
       title: "What Drum Kit Should I Use for Groove Metal?",
       content: `Groove metal drum kits are built around a single priority: weight. The genre trades thrash's speed for mid-tempo (100–140 BPM) patterns designed to make an entire room headbang in unison, which means every part of the kit — shells, heads, hardware — has to deliver maximum low-end punch and a snare crack that lands like a hammer, without needing blast-beat speed to justify it.
 
-Vinnie Paul built the genre's foundational tone on a ddrum Vinnie Paul Signature Series kit, its deep 14x8" maple snare cutting through Dimebag Darrell's wall of guitar on "Vulgar Display of Power" and "Far Beyond Driven." Chris Adler pushed groove metal's technical ceiling on a Mapex Black Panther Design Lab kit, pairing a shallow, articulate maple/walnut snare with syncopated double bass patterns across Lamb of God's "Ashes of the Wake" and "Sacrament." Eloy Casagrande carries the tradition forward on a Tama Starclassic Bubinga kit — first driving Sepultura's groove-and-thrash hybrid attack, now anchoring Slipknot's live shows with the same dual-bass-drum power.
+Vinnie Paul built the genre's foundational tone on a ddrum Vinnie Paul Signature Series kit, its deep 14x8" maple snare cutting through Dimebag Darrell's wall of guitar on "Vulgar Display of Power" and "Far Beyond Driven." Eloy Casagrande carries the tradition forward on a Tama Starclassic Bubinga kit — first driving Sepultura's groove-and-thrash hybrid attack, now anchoring Slipknot's live shows with the same dual-bass-drum power.
 
 This guide covers what actually makes a kit work for groove metal — shell material, snare depth, and hardware durability — and which specific kits the genre's most influential drummers play, from budget starter kits to the professional setups behind groove metal's defining records.`,
       keyPoints: [
@@ -58857,7 +58853,7 @@ This guide covers what actually makes a kit work for groove metal — shell mate
         {
           name: "Shell Material for Weight",
           icon: "🪵",
-          description: "Maple is the genre's default for its balance of warmth and punch. Maple/walnut hybrids (Chris Adler's choice) add midrange bite for technical groove patterns, while bubinga (Eloy Casagrande's choice) delivers darker, heavier low end for the genre's most crushing modern iterations.",
+          description: "Maple is the genre's default for its balance of warmth and punch. Maple/walnut hybrids add midrange bite for technical groove patterns, while bubinga (Eloy Casagrande's choice) delivers darker, heavier low end for the genre's most crushing modern iterations.",
           recommendation: "Maple for classic groove tone; maple/walnut or bubinga for darker, heavier modern variations"
         }
       ]
@@ -58917,12 +58913,12 @@ The North American maple shells deliver the punchy, full-bodied low end that anc
           tier: "pro",
           material: "Maple/Walnut Hybrid",
 
-          description: `Chris Adler powers Lamb of God's precision groove attack on a Mapex Black Panther Design Lab kit, built around his shallow, articulate 14x5.5" maple/walnut signature snare. The Design Lab program lets Mapex custom-configure shell composition for exactly the dry, focused tone Adler needs to punch through Lamb of God's syncopated, riff-locking grooves.
+          description: `The Mapex Black Panther Design Lab program lets a groove metal drummer custom-configure shell composition for exactly the dry, focused tone technical, syncopated riff-locking grooves demand.
 
 The middle walnut plies add midrange bite and warmth between maple's cut and focus — a hybrid construction that suits groove metal's more technical, New Wave of American Heavy Metal-influenced side. For drummers who want groove with technical precision, this is the modern standard.`,
 
           pros: [
-            "Chris Adler's Lamb of God setup — technical groove metal standard",
+            "Technical groove metal standard — Design Lab custom shell configuration",
             "Maple/walnut hybrid shells for cut, focus, and midrange warmth",
             "Shallow signature snare for dry, articulate crack",
             "Design Lab custom configuration options",
@@ -58941,7 +58937,7 @@ The middle walnut plies add midrange bite and warmth between maple's cut and foc
             tomSizes: "10\", 12\", 13\" (rack) / 16\" (floor)"
           },
           usedBy: [
-            { name: "Chris Adler", band: "Lamb of God", note: "Mapex Black Panther Design Lab — precision technical groove metal" }
+            { name: "Groove metal drummers", band: "Various", note: "Custom Design Lab configuration for precision technical groove metal" }
           ],
           verdict: "The technical groove metal kit. Best for drummers who want power and precise articulation.",
           rating: 4.7,
@@ -59114,7 +59110,7 @@ For drummers on a tight budget, the Imperialstar's included hardware keeps total
 - Excellent for deep, gated snare crack
 - Best suited to classic, Pantera-style groove metal
 
-**Maple/Walnut Hybrid (Mapex Black Panther, Chris Adler's choice):**
+**Maple/Walnut Hybrid (Mapex Black Panther Design Lab):**
 - Adds midrange bite and articulation to maple's warmth
 - Better for technical, syncopated groove patterns
 - Slightly more expensive and requires careful tuning
@@ -59148,7 +59144,7 @@ For drummers on a tight budget, the Imperialstar's included hardware keeps total
         {
           category: "Best for Technical Groove",
           pedal: "Mapex Black Panther Design Lab",
-          reason: "Chris Adler's choice for Lamb of God's precision-driven groove. Cut and articulation for syncopated patterns."
+          reason: "Custom Design Lab shell configuration for precision-driven groove. Cut and articulation for syncopated patterns."
         },
         {
           category: "Best Premium",
@@ -59172,14 +59168,12 @@ For drummers on a tight budget, the Imperialstar's included hardware keeps total
     ],
     relatedDrummers: [
       { slug: 'vinnie-paul', name: 'Vinnie Paul', reason: 'ddrum Vinnie Paul Signature Series — foundational groove metal tone' },
-      { slug: 'chris-adler', name: 'Chris Adler', reason: 'Mapex Black Panther Design Lab — precision technical groove metal' },
       { slug: 'eloy-casagrande', name: 'Eloy Casagrande', reason: 'Tama Starclassic Bubinga — dark, heavy modern groove power' }
     ],
 
     // Featured drummers (issue template)
     featuredDrummers: [
       { slug: 'vinnie-paul', name: 'Vinnie Paul', reason: 'ddrum Vinnie Paul Signature Series — foundational groove metal tone' },
-      { slug: 'chris-adler', name: 'Chris Adler', reason: 'Mapex Black Panther Design Lab — precision technical groove metal' },
       { slug: 'eloy-casagrande', name: 'Eloy Casagrande', reason: 'Tama Starclassic Bubinga — dark, heavy modern groove power' },
     ],
 
@@ -59187,15 +59181,11 @@ For drummers on a tight budget, the Imperialstar's included hardware keeps total
     faq: [
       {
         question: "What drum kit should I use for groove metal?",
-        answer: "ddrum Vinnie Paul Signature Series is the historically definitive choice — Vinnie Paul built groove metal's foundational tone on this kit across Pantera's classic albums. For more technical groove metal, Chris Adler's Mapex Black Panther Design Lab or Eloy Casagrande's Tama Starclassic Bubinga offer more articulate or powerful modern alternatives."
+        answer: "ddrum Vinnie Paul Signature Series is the historically definitive choice — Vinnie Paul built groove metal's foundational tone on this kit across Pantera's classic albums. For more technical groove metal, the Mapex Black Panther Design Lab program or Eloy Casagrande's Tama Starclassic Bubinga offer more articulate or powerful modern alternatives."
       },
       {
         question: "What drum kit does Vinnie Paul use?",
         answer: "Vinnie Paul played a ddrum Vinnie Paul Signature Series kit, built to his own specifications, centered on a deep 14x8\" North American maple signature snare. This setup produced the massive, gated snare tone that defined Pantera's \"Vulgar Display of Power\" and \"Far Beyond Driven.\""
-      },
-      {
-        question: "What drum kit does Chris Adler use?",
-        answer: "Chris Adler plays a Mapex Black Panther Design Lab kit paired with his signature 14x5.5\" maple/walnut hybrid snare. The dry, focused tone and Design Lab custom configuration power Lamb of God's syncopated, technical groove metal patterns on albums like \"Ashes of the Wake\" and \"Sacrament.\""
       },
       {
         question: "Do I need an expensive kit to play groove metal?",
@@ -59216,7 +59206,7 @@ For drummers on a tight budget, the Imperialstar's included hardware keeps total
       title: "Build Your Groove Metal Foundation",
       content: `Groove metal drum kits succeed or fail on one thing: whether they hit hard at mid-tempo. Vinnie Paul proved that a deep, punchy maple kit with a massive snare crack could define an entire genre — no blast beats required, just weight, feel, and a relentless backbeat.
 
-Whether you choose the historically definitive ddrum Vinnie Paul Signature Series, Chris Adler's technically precise Mapex Black Panther, or Eloy Casagrande's dark, powerful Tama Starclassic Bubinga, remember that groove metal's greatest recordings were built on conviction and pocket as much as gear.
+Whether you choose the historically definitive ddrum Vinnie Paul Signature Series, the technically precise Mapex Black Panther Design Lab, or Eloy Casagrande's dark, powerful Tama Starclassic Bubinga, remember that groove metal's greatest recordings were built on conviction and pocket as much as gear.
 
 Start where your budget allows — even a Pearl Export will get you playing real groove metal. Prioritize a deep, punchy snare and solid double bass technique before you upgrade your shells. The headbang-inducing weight that defines this genre comes from feel as much as equipment.
 
@@ -60151,16 +60141,14 @@ Start where your budget allows — even a Pearl Export configured with an extend
     // SEO metadata
     title: "Best Snare Drums for Groove Metal: 2026 Ultimate Guide",
     metaTitle: "Best Snare Drums for Groove Metal 2026 | MetalForge Expert Guide",
-    description: "Best snare drums for groove metal drumming: what Vinnie Paul (ddrum Signature steel), Chris Adler (Mapex Signature Walnut/Maple), Shannon Larkin (Pearl Reference Brass), and Igor Cavalera (Tama S.L.P. G-Maple) actually play. Steel vs walnut/maple vs brass — ranked budget to pro.",
+    description: "Best snare drums for groove metal drumming: what Vinnie Paul (ddrum Signature steel), Shannon Larkin (Pearl Reference Brass), and Igor Cavalera (Tama S.L.P. G-Maple) actually play. Steel vs brass vs maple — ranked budget to pro.",
     seoKeywords: [
       'best snare drums for groove metal',
       'groove metal snare drum',
       'vinnie paul snare drum',
-      'chris adler snare drum',
       'shannon larkin snare drum',
       'igor cavalera snare drum',
       'ddrum vinnie paul signature snare',
-      'mapex chris adler signature snare',
       'best snare for heavy backbeat',
       'groove metal drum setup'
     ],
@@ -60174,10 +60162,10 @@ Start where your budget allows — even a Pearl Export configured with an extend
     // Hero section
     hero: {
       title: "🥁 Best Snare Drums for Groove Metal",
-      subtitle: "What Vinnie Paul, Chris Adler, Shannon Larkin, and Igor Cavalera Actually Play",
+      subtitle: "What Vinnie Paul, Shannon Larkin, and Igor Cavalera Actually Play",
       badge: "GEAR GUIDE 2026",
       stats: [
-        { value: '4', label: 'Snares Reviewed' },
+        { value: '3', label: 'Snares Reviewed' },
         { value: '7 min', label: 'Read Time' },
         { value: '2026', label: 'Updated' }
       ]
@@ -60188,12 +60176,11 @@ Start where your budget allows — even a Pearl Export configured with an extend
       title: "Why Groove Metal Needs a Snare That Hits Like a Sledgehammer",
       content: `Groove metal isn't chasing blast beat speed — it's built on mid-tempo, riff-locked power, which means the snare has to deliver maximum crack and body on every single backbeat rather than surviving hundreds of rapid strokes per minute. Where black or death metal snares are tuned for endurance under extreme tempo, groove metal snares are tuned for weight: every hit has to land like a sledgehammer against down-tuned, syncopated riffs.
 
-Vinnie Paul built the genre's template on a deep 14x8" ddrum Vinnie Paul Signature steel snare, engineered for maximum projection and crack to cut through Pantera's wall of distorted guitars on "Cowboys from Hell" and "Vulgar Display of Power." Chris Adler of Lamb of God takes the opposite depth approach with a shallow 14x5.5" Mapex Chris Adler Signature Walnut/Maple snare, punching through dense guitar walls with a fast, articulate crack tuned for Lamb of God's syncopated riff-locking grooves. Shannon Larkin of Godsmack splits the difference with a 14x6.5" Pearl Reference Brass snare, delivering a powerful, cutting attack across two decades of multi-platinum groove-driven hard rock. Igor Cavalera of Sepultura and Cavalera Conspiracy anchors his kit with a Tama S.L.P. 14x6.5" G-Maple snare, supplying the punishing crack behind "Roots Bloody Roots" and Sepultura's tribal groove metal evolution.
+Vinnie Paul built the genre's template on a deep 14x8" ddrum Vinnie Paul Signature steel snare, engineered for maximum projection and crack to cut through Pantera's wall of distorted guitars on "Cowboys from Hell" and "Vulgar Display of Power." Shannon Larkin of Godsmack splits the difference with a 14x6.5" Pearl Reference Brass snare, delivering a powerful, cutting attack across two decades of multi-platinum groove-driven hard rock. Igor Cavalera of Sepultura and Cavalera Conspiracy anchors his kit with a Tama S.L.P. 14x6.5" G-Maple snare, supplying the punishing crack behind "Roots Bloody Roots" and Sepultura's tribal groove metal evolution.
 
-This guide breaks down steel, walnut/maple, brass, and maple snare options for groove metal — comparing shell depth, material, and tuning approach across four of the genre's most influential drummers, with recommendations from budget to professional touring rigs.`,
+This guide breaks down steel, brass, and maple snare options for groove metal — comparing shell depth, material, and tuning approach across three of the genre's most influential drummers, with recommendations from budget to professional touring rigs.`,
       keyPoints: [
         "Vinnie Paul's deep 14x8\" steel snare defines groove metal's maximum-crack, maximum-projection standard",
-        "Chris Adler's shallow 14x5.5\" walnut/maple snare shows the faster, more articulate alternative for syncopated riff-locking",
         "Brass (Shannon Larkin) and maple (Igor Cavalera) shells split the difference between raw power and tonal warmth",
         "14\" diameter is universal in groove metal; depth (5.5\"-8\") is where drummers differentiate crack vs. speed"
       ]
@@ -60206,14 +60193,14 @@ This guide breaks down steel, walnut/maple, brass, and maple snare options for g
         {
           name: "Shell Depth for Backbeat Weight",
           icon: "📏",
-          description: "Vinnie Paul's 14x8\" ddrum snare is among the deepest signature snares in metal, built for maximum body and projection on Pantera's slow, crushing grooves. Chris Adler's 14x5.5\" Mapex snare goes the other direction, staying fast and articulate for Lamb of God's syncopated patterns. Deeper shells add weight; shallower shells add speed and articulation.",
-          recommendation: "6.5\"-8\" depth for maximum crack and body; 5\"-5.5\" for faster, more articulate riff-locking"
+          description: "Vinnie Paul's 14x8\" ddrum snare is among the deepest signature snares in metal, built for maximum body and projection on Pantera's slow, crushing grooves. Deeper shells add weight; shallower shells add speed and articulation.",
+          recommendation: "6.5\"-8\" depth for maximum crack and body; shallower depths for faster, more articulate riff-locking"
         },
         {
           name: "Shell Material",
           icon: "⚙️",
-          description: "Steel (ddrum — Vinnie Paul) delivers the brightest, most cutting attack. Brass (Pearl Reference — Shannon Larkin) adds warmth and thunderous low-mid body. Walnut/Maple (Mapex — Chris Adler) and maple (Tama S.L.P. — Igor Cavalera) give a drier, more controlled crack that still projects through down-tuned riffs.",
-          recommendation: "Steel for maximum brightness and cut; brass for warm thunderous attack; walnut/maple or maple for dry, controlled punch"
+          description: "Steel (ddrum — Vinnie Paul) delivers the brightest, most cutting attack. Brass (Pearl Reference — Shannon Larkin) adds warmth and thunderous low-mid body. Maple (Tama S.L.P. — Igor Cavalera) gives a drier, more controlled crack that still projects through down-tuned riffs.",
+          recommendation: "Steel for maximum brightness and cut; brass for warm thunderous attack; maple for dry, controlled punch"
         },
         {
           name: "Tuning for Mid-Tempo Power",
@@ -60288,46 +60275,6 @@ The steel shell's brightness cuts through Pantera's wall of distorted guitars wi
         },
         {
           rank: 2,
-          name: "Mapex Chris Adler Signature",
-          brand: "Mapex",
-          model: "Chris Adler Signature Walnut/Maple",
-          image: "https://upload.wikimedia.org/wikipedia/commons/a/ac/Drums_01.jpg",
-          priceRange: "€300-450",
-          tier: "pro",
-          material: "Walnut/Maple (14x5.5\")",
-
-          description: `Chris Adler of Lamb of God takes a different approach than Vinnie Paul's deep steel tradition — his shallow 14x5.5" Mapex Chris Adler Signature snare in walnut/maple prioritizes speed and articulation over raw depth. It's the snare behind Lamb of God's "Ashes of the Wake," "Sacrament," and "Wrath," records built on precise, syncopated riff-locking rather than slow, crushing grooves.
-
-The walnut/maple hybrid shell gives a dry, focused crack that punches through dense guitar walls without excess ring, letting Adler's ghost notes and dynamic fills stay articulate at groove metal's faster, more technical end. It proves groove metal's snare requirements aren't one-size-fits-all — shallower and drier works just as well as deep and booming, depending on your riff style.`,
-
-          pros: [
-            "Chris Adler's Lamb of God setup — the more technical end of groove metal",
-            "Walnut/maple hybrid shell gives dry, focused crack without excess ring",
-            "Shallow 5.5\" depth stays fast and articulate for syncopated patterns",
-            "Excellent for ghost notes and dynamic groove fills",
-            "Grammy-winning pedigree across Lamb of God's catalog"
-          ],
-          cons: [
-            "Less low-end body than deeper steel or brass alternatives",
-            "Signature pricing",
-            "Drier voicing may feel thin to drummers wanting maximum boom"
-          ],
-          specs: {
-            shell: "Walnut/Maple Hybrid",
-            diameter: "14\"",
-            depth: "5.5\"",
-            throwOff: "Mapex SonicSaver",
-            wires: "20-strand"
-          },
-          usedBy: [
-            { name: "Chris Adler", band: "Lamb of God", note: "14x5.5\" Mapex Signature Walnut/Maple — syncopated riff-locking precision" }
-          ],
-          verdict: "Best for technical groove metal. Chris Adler's shallow, dry snare punches through dense riffs without sacrificing speed.",
-          rating: 4.6,
-          affiliateLink: "https://www.thomann.de/intl/mapex_chris_adler_signature_snare.htm?partner_id=metalforge"
-        },
-        {
-          rank: 3,
           name: "Pearl Reference Brass",
           brand: "Pearl",
           model: "Reference 14x6.5\" Brass",
@@ -60344,7 +60291,7 @@ Pearl's Reference Series SST (Superior Shell Technology) construction maximizes 
             "Shannon Larkin's Godsmack setup — proven across two decades of platinum-selling groove metal/hard rock",
             "Brass shell balances brightness and warmth better than pure steel or maple",
             "SST construction for consistent resonance and touring reliability",
-            "6.5\" depth splits the difference between Vinnie Paul's 8\" and Chris Adler's 5.5\"",
+            "6.5\" depth splits the difference between deeper and shallower shells in the genre",
             "Versatile enough for groove metal's more melodic, dynamic passages"
           ],
           cons: [
@@ -60367,7 +60314,7 @@ Pearl's Reference Series SST (Superior Shell Technology) construction maximizes 
           affiliateLink: "https://www.thomann.de/intl/pearl_reference_brass_snare.htm?partner_id=metalforge"
         },
         {
-          rank: 4,
+          rank: 3,
           name: "Tama S.L.P. G-Maple",
           brand: "Tama",
           model: "S.L.P. G-Maple 14x6.5\"",
@@ -60435,10 +60382,10 @@ Maple's naturally warm character makes this a strong choice for groove metal dru
           priceRange: "€70-120",
           tier: "budget",
           material: "Maple",
-          description: "The Mapex Storm Series offers a budget entry point into the warmer, more articulate maple family sound that Chris Adler and Igor Cavalera rely on. It won't have the signature series' refined tonal control, but it's a genuinely capable starting point for developing groove metal drummers.",
+          description: "The Mapex Storm Series offers a budget entry point into the warmer, more articulate maple family sound that Igor Cavalera relies on. It won't have the signature series' refined tonal control, but it's a genuinely capable starting point for developing groove metal drummers.",
           pros: ["Budget entry into Mapex's warmer maple family", "Good articulation for developing syncopated technique", "Widely available and affordable"],
           cons: ["Less refined articulation than the signature series", "Basic hardware and hoops"],
-          verdict: "Best budget path toward Chris Adler and Igor Cavalera's maple-based sound.",
+          verdict: "Best budget path toward Igor Cavalera's maple-based sound.",
           rating: 4.0,
           affiliateLink: "https://www.thomann.de/intl/mapex_storm_series_snare.htm?partner_id=metalforge"
         }
@@ -60447,7 +60394,7 @@ Maple's naturally warm character makes this a strong choice for groove metal dru
 
     // Comparison
     comparison: {
-      title: "Steel vs Walnut/Maple vs Brass for Groove Metal",
+      title: "Steel vs Brass vs Maple for Groove Metal",
       content: `Shell material and depth split groove metal drummers into distinct camps. Here's how the genre's defining choices compare:
 
 **Steel — Deep, Bright, Maximum Crack (Vinnie Paul):**
@@ -60455,22 +60402,17 @@ Maple's naturally warm character makes this a strong choice for groove metal dru
 - Deep 8\" shell adds unmatched low-end body and projection
 - Best for slow, crushing, riff-locked grooves
 
-**Walnut/Maple — Shallow, Dry, Fast (Chris Adler):**
-- Driest, most articulate of the three
-- Shallow 5.5\" depth stays fast for syncopated, technical patterns
-- Best for groove metal's more technical, riff-locking end
-
 **Brass & Maple — Warm, Balanced (Shannon Larkin, Igor Cavalera):**
 - Sits between steel's brightness and wood's warmth
 - 6.5\" depth balances body and speed
 - Best for melodic, dynamically varied groove metal material
 
-**Our Recommendation:** Start with a deep steel shell if your material leans toward slow, crushing Pantera-style grooves. Choose a shallower walnut/maple shell if your riffs are syncopated and technical like Lamb of God's. Brass or maple splits the difference for drummers whose material blends both approaches.`,
+**Our Recommendation:** Start with a deep steel shell if your material leans toward slow, crushing Pantera-style grooves. Brass or maple splits the difference for drummers whose material blends both approaches.`,
       comparisonTable: [
-        { feature: "Brightness/Cut", steel: "⭐⭐⭐⭐⭐", walnutMaple: "⭐⭐⭐", brassMaple: "⭐⭐⭐⭐" },
-        { feature: "Speed/Articulation", steel: "⭐⭐⭐", walnutMaple: "⭐⭐⭐⭐⭐", brassMaple: "⭐⭐⭐⭐" },
-        { feature: "Low-End Body", steel: "⭐⭐⭐⭐⭐", walnutMaple: "⭐⭐⭐", brassMaple: "⭐⭐⭐⭐" },
-        { feature: "Price (entry)", steel: "€350+", walnutMaple: "€300+", brassMaple: "€300+" }
+        { feature: "Brightness/Cut", steel: "⭐⭐⭐⭐⭐", brassMaple: "⭐⭐⭐⭐" },
+        { feature: "Speed/Articulation", steel: "⭐⭐⭐", brassMaple: "⭐⭐⭐⭐" },
+        { feature: "Low-End Body", steel: "⭐⭐⭐⭐⭐", brassMaple: "⭐⭐⭐⭐" },
+        { feature: "Price (entry)", steel: "€350+", brassMaple: "€300+" }
       ]
     },
 
@@ -60482,11 +60424,6 @@ Maple's naturally warm character makes this a strong choice for groove metal dru
           category: "Best Overall",
           pedal: "ddrum Vinnie Paul Signature",
           reason: "Vinnie Paul's foundational Pantera setup — the deep, cutting crack that defined groove metal's sound."
-        },
-        {
-          category: "Best for Technical Groove Metal",
-          pedal: "Mapex Chris Adler Signature",
-          reason: "Lamb of God's syncopated riff-locking precision. Fast, dry, and articulate."
         },
         {
           category: "Best for Melodic Groove Metal",
@@ -60510,7 +60447,6 @@ Maple's naturally warm character makes this a strong choice for groove metal dru
     ],
     relatedDrummers: [
       { slug: 'vinnie-paul', name: 'Vinnie Paul', reason: 'ddrum Signature steel snare — foundational groove metal crack' },
-      { slug: 'chris-adler', name: 'Chris Adler', reason: 'Mapex Signature Walnut/Maple — Lamb of God syncopated precision' },
       { slug: 'shannon-larkin', name: 'Shannon Larkin', reason: 'Pearl Reference Brass — Godsmack groove-driven power' },
       { slug: 'igor-cavalera', name: 'Igor Cavalera', reason: 'Tama S.L.P. G-Maple — Sepultura tribal groove metal' }
     ],
@@ -60518,7 +60454,6 @@ Maple's naturally warm character makes this a strong choice for groove metal dru
     // Featured drummers (issue template)
     featuredDrummers: [
       { slug: 'vinnie-paul', name: 'Vinnie Paul', reason: 'ddrum Signature steel snare — foundational groove metal crack' },
-      { slug: 'chris-adler', name: 'Chris Adler', reason: 'Mapex Signature Walnut/Maple — Lamb of God syncopated precision' },
       { slug: 'shannon-larkin', name: 'Shannon Larkin', reason: 'Pearl Reference Brass — Godsmack groove-driven power' },
       { slug: 'igor-cavalera', name: 'Igor Cavalera', reason: 'Tama S.L.P. G-Maple — Sepultura tribal groove metal' }
     ],
@@ -60530,16 +60465,12 @@ Maple's naturally warm character makes this a strong choice for groove metal dru
         answer: "Vinnie Paul of Pantera used a ddrum Vinnie Paul Signature snare — an exceptionally deep 14x8\" steel shell engineered for maximum projection and crack. It's the sound behind Pantera's \"Cowboys from Hell,\" \"Vulgar Display of Power,\" and \"Far Beyond Driven,\" the records that established groove metal's foundational sound."
       },
       {
-        question: "What snare drum does Chris Adler use?",
-        answer: "Chris Adler of Lamb of God plays a Mapex Chris Adler Signature snare — a shallow 14x5.5\" walnut/maple shell that delivers a fast, articulate crack tuned for Lamb of God's syncopated riff-locking grooves on albums like \"Ashes of the Wake\" and \"Sacrament.\""
-      },
-      {
         question: "Steel or wood shell — which is better for groove metal?",
-        answer: "Both work at the highest level. Vinnie Paul's steel ddrum snare gives maximum brightness and low-end body for slow, crushing grooves. Chris Adler's walnut/maple and Igor Cavalera's maple shells give a drier, more articulate crack better suited to faster, syncopated riff-locking. Choose based on whether your material leans toward Pantera's crushing weight or Lamb of God's technical precision."
+        answer: "Both work at the highest level. Vinnie Paul's steel ddrum snare gives maximum brightness and low-end body for slow, crushing grooves. Igor Cavalera's maple shell gives a drier, more articulate crack better suited to faster, syncopated riff-locking. Choose based on whether your material leans toward Pantera's crushing weight or a more technical, articulate attack."
       },
       {
         question: "What depth snare is best for groove metal?",
-        answer: "It depends on your style. Vinnie Paul's unusually deep 8\" shell maximizes body and projection for slow, heavy grooves. Chris Adler's shallow 5.5\" shell stays fast and articulate for syncopated patterns. A middle-ground 6.5\" depth, used by both Shannon Larkin and Igor Cavalera, balances body and speed for drummers who need both."
+        answer: "It depends on your style. Vinnie Paul's unusually deep 8\" shell maximizes body and projection for slow, heavy grooves. A middle-ground 6.5\" depth, used by both Shannon Larkin and Igor Cavalera, balances body and speed for drummers who need both."
       },
       {
         question: "Do I need a signature snare to play groove metal?",
@@ -60550,9 +60481,9 @@ Maple's naturally warm character makes this a strong choice for groove metal dru
     // Conclusion
     conclusion: {
       title: "Find Your Groove Metal Snare Voice",
-      content: `Groove metal snare choice comes down to how your riffs move. Vinnie Paul's deep steel ddrum snare defined the genre with maximum crack and body for slow, crushing grooves. Chris Adler proved the opposite approach works just as well, trading depth for speed and articulation on Lamb of God's syncopated riff-locking patterns. Shannon Larkin and Igor Cavalera each found a balanced middle ground in brass and maple.
+      content: `Groove metal snare choice comes down to how your riffs move. Vinnie Paul's deep steel ddrum snare defined the genre with maximum crack and body for slow, crushing grooves. Shannon Larkin and Igor Cavalera each found a balanced middle ground in brass and maple.
 
-None of these approaches is more "correct" — all four have driven some of groove metal's most influential recordings. Start with whichever depth and material matches your riff style, and don't be afraid to experiment with tuning to find your own backbeat weight.
+None of these approaches is more "correct" — all three have driven some of groove metal's most influential recordings. Start with whichever depth and material matches your riff style, and don't be afraid to experiment with tuning to find your own backbeat weight.
 
 Budget shouldn't stop you either. A Pearl Export or Mapex Storm Series snare will teach real technique and survive hard, deliberate playing while you save toward the signature models that defined this genre's greatest records.
 

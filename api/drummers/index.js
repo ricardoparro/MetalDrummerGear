@@ -3439,16 +3439,16 @@ const drummers = [
     country: 'USA',
     image: '/images/drummers/sean-reinert.webp',
     bio: 'Sean Reinert (May 27, 1971 – January 24, 2020) was an American drummer who co-founded progressive death metal band Cynic in 1987 and recorded Death\'s genre-defining Human (1991) before returning full-time to Cynic for Focus (1993). His jazz-informed, polyrhythmic style is widely credited with pioneering progressive death metal drumming.',
-    kitOverview: 'Sean Reinert\'s defining setup was the Tama Artstar II birch shell kit he played on Death\'s Human (1991) — the album, recorded at Morrisound with producer Scott Burns when Reinert was just 20, that introduced jazz vocabulary and polyrhythmic complexity to death metal drumming. The Sean Reinert drum set centered on a single 22x16" bass drum with a DW 5000 double pedal rather than the twin-kick setups favored by his death metal peers, paired with a 14x5.5" Tama birch snare tuned medium-high for the ghost-note sensitivity his playing required.\n\nZildjian\'s A/K Series cymbals defined Reinert\'s sound: 14" A Quick Beat Hi-Hats, 16" and 18" A Crashes, a 16" China, a 10" A Splash, and — central to his revolutionary approach — a 20" K Custom Dry Ride that he actually rode with sustained jazz-fusion patterns, unprecedented in death metal at the time. Vic Firth American Classic 5A sticks, a medium-weight model atypical for metal drummers of the era, gave Reinert the fast rebound and dynamic control his jazz-informed vocabulary demanded, a setup he carried into Cynic\'s Focus (1993), the landmark album he co-founded with Paul Masvidal.\n\nAfter Cynic reunited in 2006, Reinert upgraded to a DW Collector\'s Series maple shell pack and darker, more complex Zildjian K Custom cymbals for Traced in Air (2008), suited to the album\'s atmospheric, self-produced sound. Sean Reinert passed away on January 24, 2020, one day after his 49th birthday, leaving behind a drumming legacy that proved death metal could swing.',
+    kitOverview: 'Sean Reinert\'s final setup was a DW Collector\'s Series maple shell kit paired with darker, more complex Zildjian K Custom cymbals, adopted after Cynic reunited in 2006 and carried through Traced in Air (2008) and Kindly Bent to Free Us (2014) — a DW 9000 double pedal replaced his earlier DW 5000, suited to the atmospheric, self-produced sound of Cynic\'s reunion era.\n\nThat rig succeeded the Tama Artstar II birch shell kit Reinert played on Death\'s Human (1991) — the album, recorded at Morrisound with producer Scott Burns when Reinert was just 20, that introduced jazz vocabulary and polyrhythmic complexity to death metal drumming. That earlier Sean Reinert drum set centered on a single 22x16" bass drum with a DW 5000 double pedal rather than the twin-kick setups favored by his death metal peers, paired with a 14x5.5" Tama birch snare tuned medium-high for the ghost-note sensitivity his playing required.\n\nZildjian\'s A/K Series cymbals defined that earlier sound: 14" A Quick Beat Hi-Hats, 16" and 18" A Crashes, a 16" China, a 10" A Splash, and — central to his revolutionary approach — a 20" K Custom Dry Ride that he actually rode with sustained jazz-fusion patterns, unprecedented in death metal at the time. Vic Firth American Classic 5A sticks, a medium-weight model atypical for metal drummers of the era, gave Reinert the fast rebound and dynamic control his jazz-informed vocabulary demanded, a setup he carried into Cynic\'s Focus (1993), the landmark album he co-founded with Paul Masvidal, and continued using through his final recordings. Sean Reinert passed away on January 24, 2020, one day after his 49th birthday, leaving behind a drumming legacy that proved death metal could swing.',
     sameAs: [
       'https://en.wikipedia.org/wiki/Sean_Reinert',
       'https://www.discogs.com/artist/482614-Sean-Reinert'
     ],
     gear: {
-      drums: 'Tama Artstar II',
-      snare: 'Tama Artstar II Birch 14x5.5"',
-      cymbals: 'Zildjian A/K Series (14" A Quick Beat Hi-Hats, 16" & 18" A Crashes, 20" K Custom Dry Ride, 16" China, 10" A Splash)',
-      hardware: 'DW 5000 Double Pedal',
+      drums: "DW Collector's Series",
+      snare: "DW Collector's Series Maple Shell",
+      cymbals: 'Zildjian K Custom Series',
+      hardware: 'DW 9000 Double Pedal',
       sticks: 'Vic Firth American Classic 5A',
       heads: 'Remo Powerstroke 3 / Ambassador',
       verified: true,
@@ -3458,7 +3458,7 @@ const drummers = [
       '/images/drummers/sean-reinert.webp'
     ],
     endorsements: [
-      { name: 'Tama Drums', url: 'https://www.tama.com' },
+      { name: 'DW Drums', url: 'https://www.dwdrums.com' },
       { name: 'Zildjian Cymbals', url: 'https://zildjian.com' },
       { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' },
       { name: 'Remo Drumheads', url: 'https://remo.com' }

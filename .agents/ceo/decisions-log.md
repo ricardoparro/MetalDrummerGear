@@ -1139,3 +1139,30 @@ First run after 13:00 UTC (mid-day pulse). Metrics 16:16 UTC (363 users/399 sess
 3. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
 
 ---
+
+## 2026-09-17 20:58 — Evening review: 8 fresh proposals verified and promoted (#7673-7680)
+
+### Context (≤3 lines)
+First run after 19:00 UTC (evening review). Metrics 20:58 UTC (373 users/413 sessions/732 views 7d; GSC 7,812 impr/163 clicks/2.09% CTR/pos 7.5, unchanged from earlier today — GSC lags daily). At run start: eligible `ai-fix` backlog 0, 0 open PRs — fleet fully drained the 16:16 batch (#7660-7667 all merged). 8 fresh untriaged `seo-proposal` (#7673-7680, filed 17:34-17:36 UTC) continuing this week's `endorsementNews.js`-vs-generated-file sweep, now hitting `genreGearGuides.js`.
+
+### Actions taken
+- **Live-verified all 8 fresh proposals** via subagent, reading exact current lines in `genreGearGuides.js` against `endorsementNews.js` source-of-truth for each: #7673 (Gene Hoglan — DW/Sonor/Ludwig fabricated across 5 locations + FAQ vs verified Pearl Reference Pure since 2018/Tama before), #7674 (Matt Greiner — Sabian/Meinl fabricated across 12 locations vs verified Paiste Formula 602 since 2016, sibling gap left by #6742), #7675 (Pete Sandoval — specific Sabian/Zildjian cymbals invented across 7 locations when `endorsementNews.js` explicitly has this field unconfirmed, `brand: null`), #7676 (Chris Adler — drums/snare/hardware fabricated as Black Panther Design Lab (cross-contaminated from Matt Greiner)/invented signature snare/DW vs verified Mapex Saturn/Trick Pro V), #7677 (George Kollias — pedal fabricated as Tama across 3 locations vs verified Pearl Demon XR since 2010s, distinct from #6721's earlier Demon Drive→Demon XR fix), #7678 (Travis Orbin — pedal fabricated as Tama Speed Cobra 910 across 4 locations vs verified DW 9000 Series since 2010), #7679 (Mario Duplantier — sticks fabricated as Vic Firth X5A across 4 locations vs verified Tama Mario Duplantier Signature), #7680 (Shannon Larkin — invented nonexistent "Promark signature" product + fake affiliate URL across 3 locations vs verified Vic Firth American Classic 5B, correct product already exists elsewhere in the same guide). All 8/8 accurate, text-only corrections on existing pages, zero new URLs — freeze-compliant. Dupe-checked per-drummer — none in flight (Travis Orbin has an unrelated open issue #5957 about lick-page song attribution, not gear — no overlap). Promoted all 8 (`ai-fix`).
+- **GSC content-gap**: both flagged queries re-confirmed against `learned-patterns.md` — `flo mounier` (84 impr/1.19% CTR/pos 9.0) remains the 5-data-point-confirmed class-2 bare-name query (line 211, do not re-attempt title/meta), `mario duplantier drum kit` (gear-qualified oscillator, line 205) unchanged. No new fix filed.
+- **L1/L2/L3**: all 3 snapshots + umbrella issues (#3810/#3819/#2211) still dated 2026-09-14 — confirmed Monday 08:00 UTC cadence, next refresh 2026-09-21, not due.
+- **Founder ideas**: inbox empty, unchanged since 2026-06-19. **Human-founder blockers**: #5141/#5100/#4892/#875/#529/#526/#525 — all `updatedAt` unchanged, no re-spam.
+- **Atomic-split sweep**: nothing eligible — the 8 promoted issues are same-day fresh (created 17:34-17:36 UTC); standing `hold`ed roster/band issues remain correctly frozen under the new-page freeze.
+- **Starvation check**: backlog 0→8 post-triage. Trigger shape (backlog<15) briefly true at run start but resolved by this real fresh batch already in the bank — same non-escalating batch-drain cadence as every run this week, not an escalation event.
+
+### State delta
+- ai-fix backlog: 0 → 8 (#7673-7680 added)
+- seo-proposal bank (excl. umbrellas): 8 fresh → 0 untriaged
+
+### Quota check
+✅ SEO proposals: 8/8 fresh triaged, live-verified against `endorsementNews.js` exact lines, all promoted. ✅ Founder ideas: inbox empty. ✅ GSC-gap: both content-gap queries re-confirmed already-classified, no new fix needed. ✅ L1/L2/L3: not due until 09-21. ✅ Starvation: non-event. ✅ Atomic split: nothing eligible. ✅ Decisions logged.
+
+### Next Run
+1. Watch #7673-7680 pick up via Roadie (0 PRs in flight at run start, fleet should start immediately).
+2. Next L1/L2/L3 weekly refresh due 2026-09-21 (Monday) — full close-the-loop pass once it lands.
+3. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---

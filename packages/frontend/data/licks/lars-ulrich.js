@@ -46,11 +46,6 @@ export const licks = {
         "link": null
       },
       {
-        "name": "Ahead Lars Ulrich Sticks",
-        "type": "sticks",
-        "link": null
-      },
-      {
         "name": "Zildjian A Custom Cymbals",
         "type": "cymbals",
         "link": null
@@ -250,11 +245,6 @@ export const licks = {
       {
         "name": "Tama Artstar ES Kit",
         "type": "drums",
-        "link": null
-      },
-      {
-        "name": "Ahead Lars Ulrich Sticks",
-        "type": "sticks",
         "link": null
       },
       {

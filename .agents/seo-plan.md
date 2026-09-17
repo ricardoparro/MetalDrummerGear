@@ -9056,3 +9056,40 @@ Ran `gh issue list --state all --search "<drummer> <keyword>"` for every candida
 3. Martin Axenrot flagged as a possible `scripts/build-gear-index.cjs` bucketing bug (mis-sorted into the wrong generated brand bucket despite correct source data) — worth a dedicated look, don't guess-fix.
 4. Content-gap queries (`flo mounier`, `mario duplantier drum kit`) unchanged/held on established precedent.
 5. Next drum-chair watch due Monday 2026-09-21, group 3 (sepultura/slayer/slipknot/testament/tool/vader/volto).
+
+---
+
+## 2026-09-17 (run ~05:46 UTC) — 3 proposals filed (#7654-7656): api/drummers/index.js Chris Adler root-cause fix, drummersByKit.js batch (3), brands.js batch (4)
+
+### Bank check
+Open `seo-proposal` at run start: 6 (3 `ai-fix`-labeled #7648-7650 awaiting Roadie — api/drummers/index.js heads/drums fixes from the prior run — + 3 standing umbrellas #2211/#3810/#3819) — genuinely fresh/untriaged bank was 0, well under 45 → cleared to file up to 8 net-new. Metrics 05:35 UTC (342 users/372 sessions/664 views 7d; GSC 7,812 impr/163 clicks/2.09% CTR/pos 7.5). Content-gap table: `flo mounier` (84 impr/1.19% CTR) and `mario duplantier drum kit` (93 impr/1.08% CTR) — both re-confirmed already-classified per `learned-patterns.md` (class-2 bare-name/bio-intent; gear-qualified known oscillator) — held, no new action. Today is Thursday — drum-chair watch not due (last ran Monday 09-14, next due 09-21 group 3).
+
+### This run's work
+Continued the gear-fabrication-vs-`endorsementNews.js` sweep into files not yet audited: `cymbalReferencePages.js`/`drumstickReferencePages.js`/`snareReferencePages.js` (mostly clean — pure educational templates, no per-drummer claims), `brands.js`/`gearNews.js` (gearNews clean; brands.js had several), and `featuredDrummer.js`/`trendingDrummers.js`/`drummerPhotoFocus.js`/`birthdays.js`/`drummersByKit.js` (first 4 clean/no gear claims; drummersByKit.js had several).
+
+Dispatched 3 parallel audit agents, then **personally re-verified every candidate against `endorsementNews.js` before filing — and dropped 4 of the ~12 raw candidates after cross-checking a second source**, which caught what would otherwise have been bad fixes:
+- **Paul Mazurkiewicz** (drummersByKit.js "Pearl Masters Maple") — initially flagged as contradicting `endorsementNews.js`'s "Reference" field, but `snares.js`/`extendedBios.js` FAQ/#5361/#6444 (3 already-shipped, CEO-verified fixes) establish "Masters Maple" as the real consensus — `endorsementNews.js` itself is the stale one here. Would have proposed reverting a correct value. Dropped.
+- **Bill Ward** (drummersByKit.js "Ludwig Classic Maple" naming + 2006 end-date) — already-shipped #5488 explicitly used this exact drummersByKit.js entry as its canonical source for a sibling fix; contradicting it now would relitigate a settled call on thin evidence (no source ever confirms an end date). Dropped.
+- **Art Cruz** (drummersByKit.js "Ludwig Classic Maple" vs `snares.js`'s "Black Beauty" snare) — not actually a contradiction: Black Beauty is specifically his snare model, "Classic Maple" can describe the rest of the shell pack. Dropped.
+- **Tomas Haake "bronze-shell" signature snare** (brands.js Sonor entry) — `snares.js`'s own `verified: true` entry confirms `shellMaterial: 'Bronze'` for his current signature model; `signatureGear.js`'s prose about "replacing" an earlier bronze snare doesn't imply the replacement is non-bronze. Not a fabrication. Dropped.
+
+**3 filed, all freeze-compliant (existing pages/data only):**
+1. **#7654** — `api/drummers/index.js` Chris Adler `gear.drums`/`gear.hardware`/`kitOverview` fabricate "Mapex Black Panther Design Lab" (verified Saturn) + "Mapex Falcon Double Pedal" (verified Trick Pro V, per this week's #7602 external web research). High-value: this is the file `scripts/build-gear-index.cjs` names as its own "source of truth," and both fabrications carry a false `verified: true` + cited-sources label that didn't catch them (same lesson as the Alex Bent case, 09-16 17:30 entry). Flagged the regen-script requirement explicitly.
+2. **#7655** — `drummersByKit.js` batch: Mike Portnoy (fabricated DW, verified lifelong Tama — cross-confirmed via `api/drummers/index.js` kitOverview), Matt Garstka (fabricated Gretsch, verified current DW since 2021), Jason Bittner (wrong model "Mapex Armory" + wrong era 2015, verified Saturn V since 1997). All cross-confirmed via a second source (`api/drummers/index.js` gear/kitOverview fields), not just `endorsementNews.js` alone.
+3. **#7656** — `brands.js` batch (continuing #7087's sweep): Chris Adler's pedal still says Falcon in 3 FAQ answers (drums claim was already fixed by #7087, pedal wasn't — the Trick Pro V fact postdates that fix), Derek Roddy fabricated signature stick "Player's Design VHDRW" (verified stock Vater 5B, no signature model), Dave Lombardo wrongly credited with Paiste on 1986's Reign in Blood (verified Pearl at the time, Paiste only since 2000s), Hellhammer's Sonor snare wrongly called "maple" (verified Heavy Beech).
+
+### Dedup notes
+Ran `gh issue list --state all --search "<drummer> <keyword>"` for every candidate before filing. Confirmed all prior closed hits target different files/fields (e.g. #7087 fixed brands.js's Chris Adler *drums* claim but explicitly left the pedal claim "as correct" — since disproven by #7602's later research; #7483 removed a different wrongly-listed drummer, Matt Halpern, from the same `mapex/armory` array that Jason Bittner's own wrong entry sits in; #5488/#5909 target different files than the drummersByKit.js entries reviewed here).
+
+### Open proposals waiting on CEO triage
+- #7648-7650 (prior run, still open/`ai-fix`, awaiting Roadie)
+- #7654-7656 (this run, 3 fresh)
+- #2211/#3810/#3819 (standing umbrellas)
+
+### Next run
+1. Watch #7654-7656 through CEO triage. #7654 touches the generated `api/drummers/index.js` → `gearIndex.js` pipeline — confirm the regen script actually runs before merging, same watch item as #7623/#7625.
+2. `brands.js` has now had 2 batches (#7087, #7656) — worth a final full-file pass (all ~20 brand entries) if the bank stays low next run, to close this vein out rather than finding 1-4 at a time.
+3. `drummersByKit.js` is now fully swept (14/14 entries checked, 3 fixed this run + 1 already fixed pre-existing) — do not re-audit without new evidence.
+4. Consider a dedicated pass on `beginnerGuides.js` (158KB, untouched this week) or the `licks/` directory's remaining unswept files next.
+5. Content-gap queries (`flo mounier`, `mario duplantier drum kit`) unchanged/held on established precedent.
+6. Next drum-chair watch due Monday 2026-09-21, group 3 (sepultura/slayer/slipknot/testament/tool/vader/volto).

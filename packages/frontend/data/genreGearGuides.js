@@ -13018,7 +13018,7 @@ Budget shouldn't stop you either. A Tama Iron Cobra 600 or Pearl P-930 Demonator
     // SEO metadata
     title: "Best Drum Kits for Death Metal: 2026 Ultimate Guide",
     metaTitle: "Best Drum Kits for Death Metal 2026 | MetalForge Expert Guide",
-    description: "Best drum kits for death metal drumming. What George Kollias (Pearl Reference), Flo Mounier (DW Collector's), and Gene Hoglan (Tama) actually use — from budget to pro, with real endorsement data.",
+    description: "Best drum kits for death metal drumming. What George Kollias (Pearl Reference), Flo Mounier (Tama Starclassic), and Gene Hoglan (Tama) actually use — from budget to pro, with real endorsement data.",
     seoKeywords: [
       'best drum kits for death metal',
       'death metal drum kit',
@@ -13026,7 +13026,7 @@ Budget shouldn't stop you either. A Tama Iron Cobra 600 or Pearl P-930 Demonator
       'flo mounier drum kit',
       'gene hoglan drum kit',
       'pearl reference death metal',
-      'dw drums death metal',
+      'tama starclassic death metal',
       'best beginner drum kit death metal',
       'maple drum kits extreme metal',
       'death metal drum setup'
@@ -13055,13 +13055,13 @@ Budget shouldn't stop you either. A Tama Iron Cobra 600 or Pearl P-930 Demonator
       title: "The Death Metal Drum Kit: Speed, Durability, and Projection",
       content: `Death metal places the most demanding physical requirements on a drum kit of any genre. Sustained double bass at 200–280 BPM, constant blast beat snare hits, and tom fills executed at extreme tempos mean your kit must combine structural integrity with tonal projection and precise response across every component.
 
-George Kollias — widely regarded as the fastest drummer on record — plays Pearl Reference drums. His kit must survive nights of continuous 280 BPM 16th-note bass drum patterns while still projecting clearly in dense, downtuned Nile recordings. Flo Mounier (Cryptopsy) uses DW Collector's Series maple for the sensitivity and projection that lets his technical death metal patterns cut through one of the genre's densest sonic environments. Gene Hoglan, "The Atomic Clock," built his precision-first approach on Tama equipment throughout his Death and Dark Angel years, later moving to Pearl — kits engineered for consistency under punishing conditions.
+George Kollias — widely regarded as the fastest drummer on record — plays Pearl Reference drums. His kit must survive nights of continuous 280 BPM 16th-note bass drum patterns while still projecting clearly in dense, downtuned Nile recordings. Flo Mounier (Cryptopsy) uses Tama Starclassic Maple for the sensitivity and projection that lets his technical death metal patterns cut through one of the genre's densest sonic environments. Gene Hoglan, "The Atomic Clock," built his precision-first approach on Tama equipment throughout his Death and Dark Angel years, later moving to Pearl — kits engineered for consistency under punishing conditions.
 
 This guide covers what actually matters in a death metal drum kit, which specific models these legends use, and how to build your own death metal setup at any budget.`,
       keyPoints: [
         "Death metal demands kits that withstand sustained 200–280 BPM playing without hardware failure",
         "George Kollias trusts Pearl Reference for durability and projection under extreme conditions",
-        "Flo Mounier's DW Collector's Series provides the sensitivity for technical death metal patterns",
+        "Flo Mounier's Tama Starclassic Maple provides the sensitivity for technical death metal patterns",
         "Standard setup: 22\" kick, 10\"/12\" rack toms, 16\" floor tom — efficiency over excess"
       ]
     },
@@ -13156,42 +13156,42 @@ Pearl's SST (Superior Shell Technology) construction with no reinforcement rings
         },
         {
           rank: 2,
-          name: "DW Collector's Series Maple",
-          brand: "DW",
-          model: "Collector's Series",
+          name: "Tama Starclassic Maple",
+          brand: "Tama",
+          model: "Starclassic Maple",
           image: "https://upload.wikimedia.org/wikipedia/commons/a/ac/Drums_01.jpg",
-          priceRange: "€3000-6000 (shell pack)",
-          tier: "premium",
-          material: "Maple (or Maple/Mahogany hybrid)",
+          priceRange: "€2200-3800 (shell pack)",
+          tier: "pro",
+          material: "Maple",
 
-          description: `The DW Collector's Series is Flo Mounier's kit of choice for Cryptopsy's technically demanding death metal. Hand-crafted in Oxnard, California with individually selected maple shells, the Collector's Series represents American drum manufacturing at its pinnacle. Mounier's playing — some of the most technically advanced death metal drumming ever recorded — demands a kit that can handle sustained extreme tempos without losing tonal integrity.
+          description: `The Tama Starclassic Maple is Flo Mounier's kit of choice for Cryptopsy's technically demanding death metal, an endorsement he's held since 2012. All-maple shells deliver the sensitivity and projection Mounier's playing — some of the most technically advanced death metal drumming ever recorded — demands to handle sustained extreme tempos without losing tonal integrity.
 
-DW's True-Pitch tensioning ensures precise, consistent tuning under heavy use — essential when you're sustaining 270 BPM patterns for extended passages. The warmth of maple gives Flo's toms a controlled, musical character in Cryptopsy's dense arrangements.`,
+Tama's Star-Cast mounting system minimizes shell dampening, letting the shells resonate freely under heavy use — essential when you're sustaining 270 BPM patterns for extended passages. The warmth of maple gives Flo's toms a controlled, musical character in Cryptopsy's dense arrangements.`,
 
           pros: [
-            "Flo Mounier's kit — Cryptopsy's technical death metal precision",
-            "Hand-crafted in USA with individually selected maple shells",
-            "True-Pitch tensioning for accurate tuning under heavy use",
+            "Flo Mounier's kit since 2012 — Cryptopsy's technical death metal precision",
+            "All-maple shells for controlled, musical projection",
+            "Star-Cast mounting for accurate tuning and resonance under heavy use",
             "Exceptional build quality for extreme conditions"
           ],
           cons: [
-            "Very high price point",
-            "Made-to-order lead times",
-            "Maple warmth less aggressive than birch"
+            "Premium pricing",
+            "Less aggressive attack than birch/bubinga hybrids",
+            "Fewer exotic finish options than boutique custom shops"
           ],
           specs: {
-            shell: "Maple (True-Pitch tensioning)",
-            mount: "STM suspension mounts",
-            finish: "Custom options available",
+            shell: "Maple (Star-Cast Mounting System)",
+            mount: "Star-Cast suspension mounts",
+            finish: "Multiple lacquer and wrap options",
             kickSize: "22\" x 18\" standard",
-            tomSizes: "Custom configurations available"
+            tomSizes: "10\", 12\" (rack) / 16\" (floor)"
           },
           usedBy: [
-            { name: "Flo Mounier", band: "Cryptopsy", note: "DW Collector's Series — technical death metal at 270 BPM" }
+            { name: "Flo Mounier", band: "Cryptopsy", note: "Tama Starclassic Maple — technical death metal at 270 BPM, since 2012" }
           ],
           verdict: "The premium death metal kit. Flo Mounier's choice for Cryptopsy's most demanding performances.",
           rating: 4.8,
-          affiliateLink: "https://www.thomann.de/intl/dw_drums_collectors_series.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/tama_starclassic_maple.htm?partner_id=metalforge"
         },
         {
           rank: 3,
@@ -13351,8 +13351,8 @@ Upgrade the heads immediately — Remo or Evans batter heads transform the Expor
 
     // Comparison section
     comparison: {
-      title: "Pearl vs DW vs Tama for Death Metal",
-      content: `Three brands dominate the death metal kit conversation. Here's the honest breakdown:
+      title: "Pearl vs Tama for Death Metal",
+      content: `Two brands dominate the death metal kit conversation. Here's the honest breakdown:
 
 **Pearl (George Kollias / Paul Mazurkiewicz):**
 - Reference Pure: exceptional sensitivity and resonance for technical playing
@@ -13360,25 +13360,20 @@ Upgrade the heads immediately — Remo or Evans batter heads transform the Expor
 - Preferred for: technical death metal, speed-focused playing
 - Best kits: Reference Pure, Masters Maple Reserve
 
-**DW (Flo Mounier):**
-- Collector's Series: hand-crafted precision with True-Pitch tuning
-- More warmth than Pearl, excellent projection in dense mixes
-- Preferred for: technical death metal, studio-quality tone
-- Best kits: Collector's Series, Performance Series (mid-range)
-
-**Tama (Gene Hoglan):**
+**Tama (Flo Mounier / Gene Hoglan):**
+- Starclassic Maple: sensitive, controlled projection for technical playing since 2012
 - Starclassic Birch/Bubinga: punchy attack with body
 - Most death metal albums recorded with Tama hardware
-- Preferred for: aggressive death/thrash crossover, live durability
-- Best kits: Starclassic Birch/Bubinga, Superstar Classic (mid-range)
+- Preferred for: technical death metal precision and aggressive death/thrash crossover alike
+- Best kits: Starclassic Maple, Starclassic Birch/Bubinga, Superstar Classic (mid-range)
 
-**The Truth:** All three brands have produced records that define death metal drumming. George Kollias on Pearl and Flo Mounier on DW have created some of the most celebrated death metal drum sounds ever recorded. Brand loyalty matters less than proper head selection and tuning.`,
+**The Truth:** Both brands have produced records that define death metal drumming. George Kollias on Pearl and Flo Mounier on Tama have created some of the most celebrated death metal drum sounds ever recorded. Brand loyalty matters less than proper head selection and tuning.`,
       comparisonTable: [
-        { feature: "Technical Sensitivity", pearl: "⭐⭐⭐⭐⭐", dw: "⭐⭐⭐⭐", tama: "⭐⭐⭐⭐" },
-        { feature: "Tonal Warmth", pearl: "⭐⭐⭐", dw: "⭐⭐⭐⭐⭐", tama: "⭐⭐⭐⭐" },
-        { feature: "Death Metal Pedigree", pearl: "⭐⭐⭐⭐⭐", dw: "⭐⭐⭐⭐", tama: "⭐⭐⭐⭐⭐" },
-        { feature: "Hardware Durability", pearl: "⭐⭐⭐⭐", dw: "⭐⭐⭐⭐", tama: "⭐⭐⭐⭐⭐" },
-        { feature: "Price (mid-range)", pearl: "€1,800+", dw: "€2,000+", tama: "€1,200+" }
+        { feature: "Technical Sensitivity", pearl: "⭐⭐⭐⭐⭐", tama: "⭐⭐⭐⭐" },
+        { feature: "Tonal Warmth", pearl: "⭐⭐⭐", tama: "⭐⭐⭐⭐" },
+        { feature: "Death Metal Pedigree", pearl: "⭐⭐⭐⭐⭐", tama: "⭐⭐⭐⭐⭐" },
+        { feature: "Hardware Durability", pearl: "⭐⭐⭐⭐", tama: "⭐⭐⭐⭐⭐" },
+        { feature: "Price (mid-range)", pearl: "€1,800+", tama: "€1,200+" }
       ]
     },
 
@@ -13393,8 +13388,8 @@ Upgrade the heads immediately — Remo or Evans batter heads transform the Expor
         },
         {
           category: "Best Premium",
-          pedal: "DW Collector's Series",
-          reason: "Flo Mounier's Cryptopsy choice. Hand-crafted precision for technical death metal."
+          pedal: "Tama Starclassic Maple",
+          reason: "Flo Mounier's Cryptopsy choice since 2012. Sensitive, controlled precision for technical death metal."
         },
         {
           category: "Best for Punch",
@@ -13418,7 +13413,7 @@ Upgrade the heads immediately — Remo or Evans batter heads transform the Expor
     ],
     relatedDrummers: [
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Pearl Reference Pure — fastest recorded drummer\'s kit choice' },
-      { slug: 'flo-mounier', name: 'Flo Mounier', reason: 'DW Collector\'s Series — Cryptopsy technical death metal precision' },
+      { slug: 'flo-mounier', name: 'Flo Mounier', reason: 'Tama Starclassic Maple — Cryptopsy technical death metal precision since 2012' },
       { slug: 'gene-hoglan', name: 'Gene Hoglan', reason: 'Tama — The Atomic Clock\'s death metal foundation' },
       { slug: 'pete-sandoval', name: 'Pete Sandoval', reason: 'ddrum — hyper-blast Morbid Angel drumming' },
       { slug: 'paul-mazurkiewicz', name: 'Paul Mazurkiewicz', reason: 'Pearl — three decades of Cannibal Corpse brutality' }
@@ -13427,7 +13422,7 @@ Upgrade the heads immediately — Remo or Evans batter heads transform the Expor
     // Featured drummers (issue template)
     featuredDrummers: [
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Pearl Reference Pure — the world\'s fastest drummer\'s kit' },
-      { slug: 'flo-mounier', name: 'Flo Mounier', reason: 'DW Collector\'s Series — Cryptopsy technical death metal' },
+      { slug: 'flo-mounier', name: 'Flo Mounier', reason: 'Tama Starclassic Maple — Cryptopsy technical death metal since 2012' },
       { slug: 'gene-hoglan', name: 'Gene Hoglan', reason: 'Tama — The Atomic Clock\'s precision foundation' },
       { slug: 'pete-sandoval', name: 'Pete Sandoval', reason: 'ddrum — hyper-blast drumming pioneer with Morbid Angel' },
       { slug: 'paul-mazurkiewicz', name: 'Paul Mazurkiewicz', reason: 'Pearl — Cannibal Corpse\'s relentless death metal backbone' }
@@ -13441,7 +13436,7 @@ Upgrade the heads immediately — Remo or Evans batter heads transform the Expor
       },
       {
         question: "What drum kit does Flo Mounier use?",
-        answer: "Flo Mounier of Cryptopsy uses DW Collector's Series drums. The hand-crafted maple shells provide the precise, consistent response that Mounier's technically advanced death metal demands. DW's True-Pitch tensioning keeps the kit in tune across extended performances at extreme tempos."
+        answer: "Flo Mounier of Cryptopsy uses Tama Starclassic Maple drums, an endorsement he's held since 2012. The all-maple shells provide the precise, sensitive response that Mounier's technically advanced death metal demands. Tama's Star-Cast mounting system keeps the kit resonant and in tune across extended performances at extreme tempos."
       },
       {
         question: "What drum kit does Gene Hoglan use?",
@@ -13449,7 +13444,7 @@ Upgrade the heads immediately — Remo or Evans batter heads transform the Expor
       },
       {
         question: "Are birch or maple drums better for death metal?",
-        answer: "Most professional death metal drummers choose maple (George Kollias's Pearl Reference Pure, Flo Mounier's DW Collector's Series). Maple's warmer, more controlled tone prevents toms from becoming harsh in dense, downtuned death metal mixes. Birch (Tama Starclassic) offers more focused, punchy attack — better for aggressive death/thrash crossover styles. Both work; maple is the current professional standard."
+        answer: "Most professional death metal drummers choose maple (George Kollias's Pearl Reference Pure, Flo Mounier's Tama Starclassic Maple). Maple's warmer, more controlled tone prevents toms from becoming harsh in dense, downtuned death metal mixes. Birch (Gene Hoglan's Tama Starclassic Birch/Bubinga) offers more focused, punchy attack — better for aggressive death/thrash crossover styles. Both work; maple is the current professional standard."
       },
       {
         question: "Do I need twin kick drums for death metal?",
@@ -13464,7 +13459,7 @@ Upgrade the heads immediately — Remo or Evans batter heads transform the Expor
     // Conclusion
     conclusion: {
       title: "Choose Your Death Metal Weapon",
-      content: `George Kollias didn't become the world's fastest recorded drummer by hoping his gear would hold up — the Pearl Reference Pure's thin maple shells and precision mounting system gave him the reliable, responsive foundation to push double bass into previously uncharted territory. Flo Mounier didn't develop Cryptopsy's technical brutality in spite of his gear, but with it — the DW Collector's Series provides the tonal consistency that lets his patterns speak clearly in one of death metal's densest sonic environments.
+      content: `George Kollias didn't become the world's fastest recorded drummer by hoping his gear would hold up — the Pearl Reference Pure's thin maple shells and precision mounting system gave him the reliable, responsive foundation to push double bass into previously uncharted territory. Flo Mounier didn't develop Cryptopsy's technical brutality in spite of his gear, but with it — the Tama Starclassic Maple provides the tonal consistency that lets his patterns speak clearly in one of death metal's densest sonic environments.
 
 For most death metal drummers, the Pearl Reference Pure is the aspirational target — Kollias's endorsement and the kit's proven performance at the genre's extreme limits make it the obvious choice for serious players. At mid-range, the Tama Superstar Classic delivers the brand's death metal pedigree (Gene Hoglan lineage) at accessible pricing. Budget players should start with the Pearl Export and invest heavily in quality drum heads — head selection transforms any solid kit.
 
@@ -21302,7 +21297,7 @@ Start with a 22"x18" shell, keep the muffling light, and let the drum breathe �
     // SEO metadata
     title: "Best Bass Drums for Death Metal: 2026 Ultimate Guide",
     metaTitle: "Best Bass Drums for Death Metal in 2026 | MetalForge Expert Guide",
-    description: "Best bass drums for death metal's deep, punchy low end. What George Kollias (Pearl Reference), Flo Mounier (DW Collector's), and Gene Hoglan (Tama) actually play — from budget to pro.",
+    description: "Best bass drums for death metal's deep, punchy low end. What George Kollias (Pearl Reference), Flo Mounier (Tama Starclassic), and Gene Hoglan (Tama) actually play — from budget to pro.",
     seoKeywords: [
       'best bass drums for death metal',
       'death metal bass drum setup',
@@ -21339,7 +21334,7 @@ Start with a 22"x18" shell, keep the muffling light, and let the drum breathe �
       title: "What Bass Drum Setup Do Death Metal Drummers Actually Use?",
       content: `Death metal's bass drum has one job above all others: deliver deep, punchy low-end weight that anchors the genre's downtuned guitars without losing definition at 200+ BPM. Unlike black metal's raw, resonant approach, death metal wants a controlled, tightly muffled attack — every kick stroke needs to articulate clearly even buried inside dense, layered mixes.
 
-George Kollias — widely regarded as the fastest drummer on record — plays a Pearl Reference Pure 22"x18" bass drum, its thin 6-ply maple shell delivering exceptional sensitivity for Nile's densely layered technical death metal. Flo Mounier of Cryptopsy runs a DW Collector's Series maple bass drum, hand-crafted for the sensitivity and projection his technical patterns demand at sustained 270 BPM. Gene Hoglan — "The Atomic Clock" — built his precision-first low end on Tama's Starclassic Birch/Bubinga across his work with Death, Testament, and Dark Angel.
+George Kollias — widely regarded as the fastest drummer on record — plays a Pearl Reference Pure 22"x18" bass drum, its thin 6-ply maple shell delivering exceptional sensitivity for Nile's densely layered technical death metal. Flo Mounier of Cryptopsy runs a Tama Starclassic Maple bass drum, delivering the sensitivity and projection his technical patterns demand at sustained 270 BPM. Gene Hoglan — "The Atomic Clock" — built his precision-first low end on Tama's Starclassic Birch/Bubinga across his work with Death, Testament, and Dark Angel.
 
 Pete Sandoval of Morbid Angel has been a ddrum endorser since 1989, adding to the brand's foundational death metal pedigree.
 
@@ -21365,7 +21360,7 @@ This guide breaks down exactly what makes a bass drum work for death metal — s
         {
           name: "Shell Material",
           icon: "🪵",
-          description: "Maple (George Kollias's Pearl Reference Pure, Flo Mounier's DW Collector's Series) produces a warm, full tone with controlled projection ideal for death metal's dense mixes. Birch/bubinga hybrids (Gene Hoglan's Tama Starclassic) add more punch and low-end aggression.",
+          description: "Maple (George Kollias's Pearl Reference Pure, Flo Mounier's Tama Starclassic Maple) produces a warm, full tone with controlled projection ideal for death metal's dense mixes. Birch/bubinga hybrids (Gene Hoglan's Tama Starclassic) add more punch and low-end aggression.",
           recommendation: "Maple for tonal control and projection; birch/bubinga hybrid for maximum punch"
         },
         {
@@ -21441,42 +21436,41 @@ That sensitivity matters when Kollias is firing 280 BPM patterns beneath Nile's 
         },
         {
           rank: 2,
-          name: "DW Collector's Series Bass Drum",
-          brand: "DW",
-          model: "Collector's Series 22\"x18\"",
+          name: "Tama Starclassic Maple Bass Drum",
+          brand: "Tama",
+          model: "Starclassic Maple 22\"x18\"",
           image: "https://upload.wikimedia.org/wikipedia/commons/6/6c/Acoustic_Drums_Kit_%2829965183378%29.jpg",
-          priceRange: "€850-1200",
-          tier: "premium",
+          priceRange: "€650-900",
+          tier: "pro",
           material: "Maple, 22\"x18\"",
 
-          description: `The DW Collector's Series is Flo Mounier's bass drum of choice for Cryptopsy's technically demanding death metal. Hand-crafted in Oxnard, California with individually selected maple shells, it represents American drum manufacturing at its pinnacle — built to handle sustained 270 BPM double bass patterns without losing tonal integrity.
+          description: `The Tama Starclassic Maple is Flo Mounier's bass drum of choice for Cryptopsy's technically demanding death metal, an endorsement he's held since 2012. The all-maple shell is built to handle sustained 270 BPM double bass patterns without losing tonal integrity.
 
-DW's True-Pitch tensioning ensures precise, consistent tuning under heavy use, and the shell's controlled projection lets Mounier's technical patterns cut through Cryptopsy's dense arrangements.`,
+Tama's Star-Cast mounting system ensures the shell resonates freely under heavy use, and the shell's controlled projection lets Mounier's technical patterns cut through Cryptopsy's dense arrangements.`,
 
           pros: [
-            "Flo Mounier's Cryptopsy bass drum — technical death metal at 270 BPM",
-            "Hand-crafted in USA with individually selected maple shells",
-            "True-Pitch tensioning for accurate tuning under heavy use",
+            "Flo Mounier's Cryptopsy bass drum since 2012 — technical death metal at 270 BPM",
+            "All-maple shell for controlled, articulate projection",
+            "Star-Cast mounting for consistent tone under heavy use",
             "Exceptional build quality for extreme touring conditions"
           ],
           cons: [
-            "Very high price point",
-            "Made-to-order lead times",
+            "Premium pricing",
             "Maple warmth less aggressive than a birch/bubinga hybrid"
           ],
           specs: {
             diameter: "22\"",
             depth: "18\"",
-            shell: "Maple (True-Pitch tensioning)",
+            shell: "Maple (Star-Cast Mounting System)",
             headRecommendation: "Remo Powerstroke 3",
             configuration: "Single, double-pedal driven"
           },
           usedBy: [
-            { name: "Flo Mounier", band: "Cryptopsy", note: "DW Collector's Series — technical death metal at 270 BPM" }
+            { name: "Flo Mounier", band: "Cryptopsy", note: "Tama Starclassic Maple — technical death metal at 270 BPM, since 2012" }
           ],
           verdict: "The premium technical death metal pick — Flo Mounier's choice for Cryptopsy's most demanding work.",
           rating: 4.8,
-          affiliateLink: "https://www.thomann.de/intl/dw_collectors_bass_drum_dm.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/tama_starclassic_maple_bass_drum.htm?partner_id=metalforge"
         },
         {
           rank: 3,
@@ -21562,7 +21556,7 @@ The larger shell diameter delivers noticeably more low-end than the 22" standard
     // Budget options section
     budgetOptions: {
       title: "Best Budget Bass Drums for Death Metal",
-      description: "You don't need a custom Reference Pure or DW Collector's shell to build a real death metal low end. These bass drums deliver genuine punch and durability at an accessible price.",
+      description: "You don't need a custom Reference Pure or Starclassic Maple shell to build a real death metal low end. These bass drums deliver genuine punch and durability at an accessible price.",
       pedals: [
         {
           name: "Pearl Export Bass Drum",
@@ -21604,6 +21598,7 @@ The larger shell diameter delivers noticeably more low-end than the 22" standard
 - Warm, full tone with controlled, articulate projection
 - Ideal for technical death metal where every stroke needs to cut clearly
 - Slightly less aggressive punch than birch/bubinga hybrids
+- George Kollias plays Pearl, Flo Mounier plays Tama Starclassic Maple (since 2012)
 
 **Birch/Bubinga (Gene Hoglan):**
 - Deep, punchy low-end weight with real aggression
@@ -21631,8 +21626,8 @@ The larger shell diameter delivers noticeably more low-end than the 22" standard
         },
         {
           category: "Best for Technical Death Metal",
-          pedal: "DW Collector's Series Bass Drum",
-          reason: "Flo Mounier's Cryptopsy pick — hand-crafted precision at 270 BPM."
+          pedal: "Tama Starclassic Maple Bass Drum",
+          reason: "Flo Mounier's Cryptopsy pick since 2012 — sensitive maple precision at 270 BPM."
         },
         {
           category: "Best for Maximum Punch",
@@ -21656,7 +21651,7 @@ The larger shell diameter delivers noticeably more low-end than the 22" standard
     ],
     relatedDrummers: [
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Pearl Reference Pure bass drum sustaining 280 BPM double bass' },
-      { slug: 'flo-mounier', name: 'Flo Mounier', reason: 'DW Collector\'s Series — technical death metal precision at 270 BPM' },
+      { slug: 'flo-mounier', name: 'Flo Mounier', reason: 'Tama Starclassic Maple — technical death metal precision at 270 BPM, since 2012' },
       { slug: 'gene-hoglan', name: 'Gene Hoglan', reason: 'Tama Starclassic Birch/Bubinga — deep low end across four decades' },
       { slug: 'pete-sandoval', name: 'Pete Sandoval', reason: 'ddrum bass drums driving Morbid Angel\'s extreme low end' }
     ],
@@ -21664,7 +21659,7 @@ The larger shell diameter delivers noticeably more low-end than the 22" standard
     // Featured drummers (issue template)
     featuredDrummers: [
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Pearl Reference Pure — the death metal speed standard' },
-      { slug: 'flo-mounier', name: 'Flo Mounier', reason: 'DW Collector\'s Series — Cryptopsy\'s technical precision' },
+      { slug: 'flo-mounier', name: 'Flo Mounier', reason: 'Tama Starclassic Maple — Cryptopsy\'s technical precision since 2012' },
       { slug: 'gene-hoglan', name: 'Gene Hoglan', reason: 'Tama Starclassic Birch/Bubinga — deep, punchy low end' }
     ],
 
@@ -21672,7 +21667,7 @@ The larger shell diameter delivers noticeably more low-end than the 22" standard
     faq: [
       {
         question: "What bass drums do death metal drummers use?",
-        answer: "George Kollias of Nile plays a Pearl Reference Pure, Flo Mounier of Cryptopsy plays a DW Collector's Series, and Gene Hoglan built his career on Tama's Starclassic Birch/Bubinga. All three run a single 22\"x18\" bass drum with a double pedal rather than twin kick drums."
+        answer: "George Kollias of Nile plays a Pearl Reference Pure, Flo Mounier of Cryptopsy plays a Tama Starclassic Maple, and Gene Hoglan built his career on Tama's Starclassic Birch/Bubinga. All three run a single 22\"x18\" bass drum with a double pedal rather than twin kick drums."
       },
       {
         question: "What size bass drum is best for death metal?",
@@ -21680,7 +21675,7 @@ The larger shell diameter delivers noticeably more low-end than the 22" standard
       },
       {
         question: "Maple or birch/bubinga bass drum for death metal?",
-        answer: "Maple (George Kollias's Pearl Reference Pure, Flo Mounier's DW Collector's Series) gives a warmer, more articulate tone ideal for technical death metal. Birch/bubinga hybrids (Gene Hoglan's Tama Starclassic) deliver a deeper, more aggressive punch better suited to heavier, more downtuned styles."
+        answer: "Maple (George Kollias's Pearl Reference Pure, Flo Mounier's Tama Starclassic Maple) gives a warmer, more articulate tone ideal for technical death metal. Birch/bubinga hybrids (Gene Hoglan's Tama Starclassic) deliver a deeper, more aggressive punch better suited to heavier, more downtuned styles."
       },
       {
         question: "Should death metal drummers use twin bass drums or a double pedal?",
@@ -21695,7 +21690,7 @@ The larger shell diameter delivers noticeably more low-end than the 22" standard
     // Conclusion
     conclusion: {
       title: "Build the Deep, Punchy Low End Death Metal Demands",
-      content: `Death metal's bass drum requirements come down to one thing: deep, controlled low-end weight that holds up at extreme tempo. George Kollias proves that a thin 6-ply maple shell like the Pearl Reference Pure delivers exactly that — sensitivity and articulation even at 280 BPM. Flo Mounier's DW Collector's Series shows the same philosophy at a premium, hand-crafted level for Cryptopsy's most technical work.
+      content: `Death metal's bass drum requirements come down to one thing: deep, controlled low-end weight that holds up at extreme tempo. George Kollias proves that a thin 6-ply maple shell like the Pearl Reference Pure delivers exactly that — sensitivity and articulation even at 280 BPM. Flo Mounier's Tama Starclassic Maple shows the same philosophy at a premium level for Cryptopsy's most technical work.
 
 If maximum low-end punch and aggression matter more than pure articulation, follow Gene Hoglan's example with a birch/bubinga hybrid like the Tama Starclassic — deep, aggressive, and road-tested across decades of death metal's most demanding tours.
 
@@ -22083,7 +22078,7 @@ Whichever depth you choose, pair it with a reinforced, trigger-compatible head l
     // SEO metadata
     title: "Best Bass Drums for Technical Death Metal: 2026 Ultimate Guide",
     metaTitle: "Best Bass Drums for Technical Death Metal in 2026 | MetalForge Guide",
-    description: "Best bass drums for technical death metal's fast-responding, sustained blast beat demands. What George Kollias (Pearl Masterworks), Hannes Grossmann (DW Collector's), Flo Mounier (Pearl Masters Maple), and Derek Roddy (Tama Bubinga) actually play.",
+    description: "Best bass drums for technical death metal's fast-responding, sustained blast beat demands. What George Kollias (Pearl Masterworks), Hannes Grossmann (DW Collector's), Flo Mounier (Tama Starclassic Maple), and Derek Roddy (Tama Bubinga) actually play.",
     seoKeywords: [
       'best bass drums for technical death metal',
       'tech death bass drum setup',
@@ -22120,12 +22115,12 @@ Whichever depth you choose, pair it with a reinforced, trigger-compatible head l
       title: "What Bass Drum Setup Do Technical Death Metal Drummers Actually Use?",
       content: `Technical death metal asks more of a bass drum than almost any other extreme metal subgenre. Where straightforward death metal rewards raw low-end weight, tech-death drummers need a shell that responds instantly and stays articulate through odd-meter runs, sudden tempo modulations, and blast beats sustained well past 240 BPM — without the low end turning to mud or losing definition under relentless double bass work.
 
-George Kollias has anchored Nile's extreme technical death metal assault since 2004 on a Pearl Masterworks Stadium Exotic bass drum, purpose-built for surgical clarity at 240+ BPM. Hannes Grossmann — who drummed on Necrophagist's genre-defining "Epitaph" before founding Obscura and later joining Alkaloid — plays a DW Collector's Series bass drum chosen for the crisp, controlled response his classically-informed, odd-subdivision compositions demand. Flo Mounier, the only constant member of Cryptopsy since 1992, has driven the band's gravity-blast technique on a Pearl Masters Maple bass drum for over three decades. Derek Roddy — who recorded with both Hate Eternal and Nile — built his reputation for speed and endurance on a dense Tama Starclassic Bubinga bass drum.
+George Kollias has anchored Nile's extreme technical death metal assault since 2004 on a Pearl Masterworks Stadium Exotic bass drum, purpose-built for surgical clarity at 240+ BPM. Hannes Grossmann — who drummed on Necrophagist's genre-defining "Epitaph" before founding Obscura and later joining Alkaloid — plays a DW Collector's Series bass drum chosen for the crisp, controlled response his classically-informed, odd-subdivision compositions demand. Flo Mounier, the only constant member of Cryptopsy since 1992, has driven the band's gravity-blast technique on a Tama Starclassic Maple bass drum since 2012. Derek Roddy — who recorded with both Hate Eternal and Nile — built his reputation for speed and endurance on a dense Tama Starclassic Bubinga bass drum.
 
 This guide breaks down exactly what separates a great technical death metal bass drum from a merely adequate one — shell material, response speed, and head selection — along with specific recommendations from these four drummers' actual rigs.`,
       keyPoints: [
         "Technical death metal demands a fast-responding shell that stays articulate through 240+ BPM blast beats and odd-meter runs",
-        "George Kollias's Pearl Masterworks and Flo Mounier's Pearl Masters Maple both prove maple's cutting articulation at extreme tempo",
+        "George Kollias's Pearl Masterworks and Flo Mounier's Tama Starclassic Maple both prove maple's cutting articulation at extreme tempo",
         "Hannes Grossmann's DW Collector's Series favors crisp, controlled response for classically-informed, odd-subdivision writing",
         "Derek Roddy's dense Tama Starclassic Bubinga shows how a heavier shell can still serve speed and one-footed blast technique"
       ]
@@ -22138,7 +22133,7 @@ This guide breaks down exactly what separates a great technical death metal bass
         {
           name: "Fast, Articulate Response",
           icon: "🎯",
-          description: "Tech-death arrangements shift constantly between blistering blast beat runs and exposed, quiet passages. Maple shells (Kollias's Pearl Masterworks, Mounier's Pearl Masters Maple) deliver the cutting articulation needed to keep fast single-stroke and gravity-blast patterns legible rather than washing into a blur.",
+          description: "Tech-death arrangements shift constantly between blistering blast beat runs and exposed, quiet passages. Maple shells (Kollias's Pearl Masterworks, Mounier's Tama Starclassic Maple) deliver the cutting articulation needed to keep fast single-stroke and gravity-blast patterns legible rather than washing into a blur.",
           recommendation: "Maple or maple-hybrid shells for maximum articulation and fast response at extreme tempo"
         },
         {
@@ -22260,23 +22255,23 @@ DW's True-Pitch tensioning ensures precise, repeatable tuning under heavy use �
         },
         {
           rank: 3,
-          name: "Pearl Masters Maple Bass Drum",
-          brand: "Pearl",
-          model: "Masters Maple Complete 22\"x18\"",
+          name: "Tama Starclassic Maple Bass Drum",
+          brand: "Tama",
+          model: "Starclassic Maple 22\"x18\"",
           image: "https://upload.wikimedia.org/wikipedia/commons/6/6c/Acoustic_Drums_Kit_%2829965183378%29.jpg",
-          priceRange: "€600-800",
+          priceRange: "€650-900",
           tier: "pro",
           material: "Maple, 22\"x18\"",
 
-          description: `Flo Mounier, the only constant member of Cryptopsy since 1992, has driven the band's signature gravity-blast technique on a Pearl Masters Maple bass drum for over three decades. The shell's articulate maple construction keeps Mounier's extreme-speed single-foot blast patterns legible even at his fastest sustained tempos.
+          description: `Flo Mounier, the only constant member of Cryptopsy since 1992, has driven the band's signature gravity-blast technique on a Tama Starclassic Maple bass drum since 2012. The shell's articulate maple construction keeps Mounier's extreme-speed single-foot blast patterns legible even at his fastest sustained tempos.
 
-Three decades of continuous touring on the same platform speaks to its reliability as much as its tone — a proven, road-tested choice for drummers who need a bass drum that performs identically on night 200 of a tour as it did on night one.`,
+Over a decade of continuous touring on the same platform speaks to its reliability as much as its tone — a proven, road-tested choice for drummers who need a bass drum that performs identically on night 200 of a tour as it did on night one.`,
 
           pros: [
-            "Flo Mounier's three-decade Cryptopsy platform — proven road reliability",
+            "Flo Mounier's Cryptopsy platform since 2012 — proven road reliability",
             "Articulate maple shell for gravity-blast clarity at extreme speed",
             "22\"x18\" standard sizing for a proven speed/projection balance",
-            "Road-tested build quality across decades of touring",
+            "Road-tested build quality across a decade of touring",
             "More accessible pricing than fully custom shell programs"
           ],
           cons: [
@@ -22291,11 +22286,11 @@ Three decades of continuous touring on the same platform speaks to its reliabili
             configuration: "Single, double-pedal driven"
           },
           usedBy: [
-            { name: "Flo Mounier", band: "Cryptopsy", note: "22\"x18\" bass drum driving gravity-blast technique for three decades" }
+            { name: "Flo Mounier", band: "Cryptopsy", note: "22\"x18\" bass drum driving gravity-blast technique since 2012" }
           ],
-          verdict: "The road-proven standard — three decades of reliability behind one of tech-death's fastest single-foot techniques.",
+          verdict: "The road-proven standard — over a decade of reliability behind one of tech-death's fastest single-foot techniques.",
           rating: 4.7,
-          affiliateLink: "https://www.thomann.de/intl/pearl_masters_maple_bass_drum_tdm.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/tama_starclassic_maple_bass_drum_tdm.htm?partner_id=metalforge"
         },
         {
           rank: 4,
@@ -22391,7 +22386,7 @@ Paired with a Tama Speed Cobra 910 double pedal, the setup proves that a heavier
 - Proven at sustained speeds past 260 BPM
 - Adds weight and slightly less articulation than thinner maple shells
 
-**Verdict:** Start with a 22"x18" maple shell like George Kollias's Pearl Masterworks or Flo Mounier's Pearl Masters Maple — it's the proven foundation for the fast, articulate response tech-death's odd-meter runs demand. Consider a bubinga shell like Derek Roddy's Tama Starclassic if maximum low-end density matters as much as raw speed to you.`,
+**Verdict:** Start with a 22"x18" maple shell like George Kollias's Pearl Masterworks or Flo Mounier's Tama Starclassic Maple — it's the proven foundation for the fast, articulate response tech-death's odd-meter runs demand. Consider a bubinga shell like Derek Roddy's Tama Starclassic if maximum low-end density matters as much as raw speed to you.`,
       comparisonTable: [
         { feature: "Response Speed", birch: "⭐⭐⭐⭐⭐", maple: "⭐⭐⭐⭐" },
         { feature: "Odd-Meter Articulation", birch: "⭐⭐⭐⭐⭐", maple: "⭐⭐⭐" },
@@ -22417,8 +22412,8 @@ Paired with a Tama Speed Cobra 910 double pedal, the setup proves that a heavier
         },
         {
           category: "Best for Road Reliability",
-          pedal: "Pearl Masters Maple Bass Drum",
-          reason: "Flo Mounier's three-decade-proven gravity-blast platform."
+          pedal: "Tama Starclassic Maple Bass Drum",
+          reason: "Flo Mounier's proven gravity-blast platform since 2012."
         },
         {
           category: "Best Budget",
@@ -22438,7 +22433,7 @@ Paired with a Tama Speed Cobra 910 double pedal, the setup proves that a heavier
     relatedDrummers: [
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Pearl Masterworks Stadium Exotic sustaining 240+ BPM blast beats' },
       { slug: 'hannes-grossmann', name: 'Hannes Grossmann', reason: 'DW Collector\'s Series — crisp response for odd-meter tech-death' },
-      { slug: 'flo-mounier', name: 'Flo Mounier', reason: 'Pearl Masters Maple driving three decades of gravity-blast technique' },
+      { slug: 'flo-mounier', name: 'Flo Mounier', reason: 'Tama Starclassic Maple driving gravity-blast technique since 2012' },
       { slug: 'derek-roddy', name: 'Derek Roddy', reason: 'Tama Starclassic Bubinga proven at 260+ BPM sustained blast beats' }
     ],
 
@@ -22453,7 +22448,7 @@ Paired with a Tama Speed Cobra 910 double pedal, the setup proves that a heavier
     faq: [
       {
         question: "What bass drums do technical death metal drummers use?",
-        answer: "George Kollias of Nile plays a Pearl Masterworks Stadium Exotic, Hannes Grossmann (Obscura, ex-Necrophagist, Alkaloid) plays a DW Collector's Series, Flo Mounier of Cryptopsy plays a Pearl Masters Maple, and Derek Roddy (Hate Eternal, Nile) plays a Tama Starclassic Bubinga. All run a single 22\"x18\" bass drum with a double pedal."
+        answer: "George Kollias of Nile plays a Pearl Masterworks Stadium Exotic, Hannes Grossmann (Obscura, ex-Necrophagist, Alkaloid) plays a DW Collector's Series, Flo Mounier of Cryptopsy plays a Tama Starclassic Maple, and Derek Roddy (Hate Eternal, Nile) plays a Tama Starclassic Bubinga. All run a single 22\"x18\" bass drum with a double pedal."
       },
       {
         question: "What makes a bass drum good for technical death metal specifically, versus regular death metal?",
@@ -22465,7 +22460,7 @@ Paired with a Tama Speed Cobra 910 double pedal, the setup proves that a heavier
       },
       {
         question: "Maple or bubinga bass drum for technical death metal?",
-        answer: "Maple (George Kollias, Hannes Grossmann, Flo Mounier) is the dominant choice, prized for fast, articulate response that keeps odd-meter runs legible. Bubinga (Derek Roddy) delivers a denser, punchier low end proven at sustained speeds past 260 BPM, at a small cost to articulation."
+        answer: "Maple (George Kollias's Pearl Masterworks, Hannes Grossmann's DW Collector's Series, Flo Mounier's Tama Starclassic Maple) is the dominant choice, prized for fast, articulate response that keeps odd-meter runs legible. Bubinga (Derek Roddy) delivers a denser, punchier low end proven at sustained speeds past 260 BPM, at a small cost to articulation."
       },
       {
         question: "What bass drum head is best for technical death metal?",
@@ -22476,7 +22471,7 @@ Paired with a Tama Speed Cobra 910 double pedal, the setup proves that a heavier
     // Conclusion
     conclusion: {
       title: "Build the Fast, Articulate Low End Tech-Death Demands",
-      content: `Technical death metal's bass drum requirements go beyond what straightforward death metal asks for — a shell has to respond instantly and stay articulate through odd-meter runs and blast beats sustained well past 240 BPM. George Kollias's Pearl Masterworks Stadium Exotic and Flo Mounier's Pearl Masters Maple both prove that fast, articulate maple is the genre's proven foundation, while Hannes Grossmann's DW Collector's Series shows the same philosophy applied to crisp, classically-informed, odd-subdivision writing.
+      content: `Technical death metal's bass drum requirements go beyond what straightforward death metal asks for — a shell has to respond instantly and stay articulate through odd-meter runs and blast beats sustained well past 240 BPM. George Kollias's Pearl Masterworks Stadium Exotic and Flo Mounier's Tama Starclassic Maple both prove that fast, articulate maple is the genre's proven foundation, while Hannes Grossmann's DW Collector's Series shows the same philosophy applied to crisp, classically-informed, odd-subdivision writing.
 
 If low-end density matters as much as raw speed to you, Derek Roddy's Tama Starclassic Bubinga proves a denser shell can still serve blistering technique when the head and pedal are dialed in correctly.
 
@@ -97501,7 +97496,7 @@ Whichever you choose, remember that symphonic metal's most acclaimed recordings 
     // SEO metadata
     title: "Best Drum Kits for Technical Death Metal: 2026 Ultimate Guide",
     metaTitle: "Best Drum Kits for Technical Death Metal 2026 | MetalForge Guide",
-    description: "Best drum kits for technical death metal drumming. What George Kollias (Pearl Masterworks), Hannes Grossmann (DW Collector's), Flo Mounier (Pearl Masters Maple), and Derek Roddy (Tama Starclassic Bubinga) actually play — from budget to pro, built for blast-beat precision at extreme tempo.",
+    description: "Best drum kits for technical death metal drumming. What George Kollias (Pearl Masterworks), Hannes Grossmann (DW Collector's), Flo Mounier (Tama Starclassic Maple), and Derek Roddy (Tama Starclassic Bubinga) actually play — from budget to pro, built for blast-beat precision at extreme tempo.",
     seoKeywords: [
       'best drum kits for technical death metal',
       'technical death metal drum kit',
@@ -97538,12 +97533,12 @@ Whichever you choose, remember that symphonic metal's most acclaimed recordings 
       title: "What Drum Kit Should I Use for Technical Death Metal?",
       content: `Technical death metal asks more of a drum kit than almost any other extreme metal subgenre. Where straightforward death metal rewards raw low-end weight, tech-death drummers need shells that stay articulate through odd-meter runs, sudden tempo modulations, and blast beats sustained well past 240 BPM — all without the toms turning to mud or the snare losing its crack under relentless ghost-note work.
 
-George Kollias has anchored Nile's extreme technical death metal assault since 2004 on a Pearl Masterworks Stadium Exotic kit, purpose-built for surgical clarity at 240+ BPM. Hannes Grossmann — who drummed on Necrophagist's genre-defining "Epitaph" before founding Obscura and later joining Alkaloid — plays a DW Collector's Series shell pack chosen for the crisp, controlled articulation his classically-informed, odd-subdivision compositions demand. Flo Mounier, the only constant member of Cryptopsy since 1992, has driven the band's gravity-blast technique on a Pearl Masters Maple Complete kit for over three decades. Derek Roddy — who recorded with both Hate Eternal and Nile — built his reputation for speed and endurance on a dense, bass-heavy Tama Starclassic Bubinga configuration.
+George Kollias has anchored Nile's extreme technical death metal assault since 2004 on a Pearl Masterworks Stadium Exotic kit, purpose-built for surgical clarity at 240+ BPM. Hannes Grossmann — who drummed on Necrophagist's genre-defining "Epitaph" before founding Obscura and later joining Alkaloid — plays a DW Collector's Series shell pack chosen for the crisp, controlled articulation his classically-informed, odd-subdivision compositions demand. Flo Mounier, the only constant member of Cryptopsy since 1992, has driven the band's gravity-blast technique on a Tama Starclassic Maple kit since 2012. Derek Roddy — who recorded with both Hate Eternal and Nile — built his reputation for speed and endurance on a dense, bass-heavy Tama Starclassic Bubinga configuration.
 
 This guide breaks down exactly what separates a great technical death metal kit from a merely adequate one — shell material, mounting hardware, and tuning stability — along with specific recommendations from these four drummers' actual rigs, spanning budget-friendly starter kits through the professional setups behind tech-death's most demanding recordings.`,
       keyPoints: [
         "Technical death metal demands articulate shells that stay clear through odd-meter passages and 240+ BPM blast beats",
-        "George Kollias's Pearl Masterworks and Flo Mounier's Pearl Masters Maple both prove maple's cutting articulation at extreme tempo",
+        "George Kollias's Pearl Masterworks and Flo Mounier's Tama Starclassic Maple both prove maple's cutting articulation at extreme tempo",
         "Hannes Grossmann's DW Collector's Series favors crisp, controlled tone for classically-informed, odd-subdivision writing",
         "Derek Roddy's dense Tama Starclassic Bubinga shows how bass-heavy shells still serve speed and one-footed blast technique"
       ]
@@ -97556,7 +97551,7 @@ This guide breaks down exactly what separates a great technical death metal kit 
         {
           name: "Precision Shell Construction",
           icon: "🎯",
-          description: "Tech-death arrangements shift constantly between blistering runs and exposed, quiet passages. Maple shells (Kollias's Pearl Masterworks, Mounier's Pearl Masters Maple) deliver the cutting articulation needed to keep fast single-stroke and gravity-blast patterns legible, rather than washing them into a blur.",
+          description: "Tech-death arrangements shift constantly between blistering runs and exposed, quiet passages. Maple shells (Kollias's Pearl Masterworks, Mounier's Tama Starclassic Maple) deliver the cutting articulation needed to keep fast single-stroke and gravity-blast patterns legible, rather than washing them into a blur.",
           recommendation: "Maple or maple-hybrid shells for maximum articulation at extreme tempo"
         },
         {
@@ -97580,7 +97575,7 @@ This guide breaks down exactly what separates a great technical death metal kit 
         {
           name: "Build Quality for Relentless Touring",
           icon: "🛡️",
-          description: "Flo Mounier has toured on the same Pearl Masters Maple platform for over three decades of Cryptopsy's punishing schedule. Tech-death's demanding live show pace rewards kits engineered for reliability over flashy but fragile finishes.",
+          description: "Flo Mounier has toured on the same Tama Starclassic Maple platform since 2012 through Cryptopsy's punishing schedule. Tech-death's demanding live show pace rewards kits engineered for reliability over flashy but fragile finishes.",
           recommendation: "Proven, road-tested hardware over untested boutique alternatives"
         },
         {
@@ -97678,24 +97673,24 @@ The DW Collectors 14x5.5" Maple snare at the core of his setup is tuned for ghos
         },
         {
           rank: 3,
-          name: "Pearl Masters Maple Complete",
-          brand: "Pearl",
-          model: "Masters Maple Complete (MCT)",
+          name: "Tama Starclassic Maple",
+          brand: "Tama",
+          model: "Starclassic Maple",
           image: "https://upload.wikimedia.org/wikipedia/commons/a/ac/Drums_01.jpg",
-          priceRange: "€2200-3200 (shell pack)",
+          priceRange: "€2200-3800 (shell pack)",
           tier: "pro",
           material: "Maple",
 
-          description: `Flo Mounier, the only constant member of technical death metal pioneers Cryptopsy since 1992, has maintained a Pearl Masters Maple Complete kit through the band's most demanding recordings, from "None So Vile" (1996) through "As Gomorrah Burns" (2023). The all-maple shell configuration gives Mounier's legendary gravity-blast technique and complex polyrhythmic patterns the sharp, penetrating cut needed to stay audible through Cryptopsy's dense arrangements.
+          description: `Flo Mounier, the only constant member of technical death metal pioneers Cryptopsy since 1992, has played a Tama Starclassic Maple kit since 2012, including on "As Gomorrah Burns" (2023). The all-maple shell configuration gives Mounier's legendary gravity-blast technique and complex polyrhythmic patterns the sharp, penetrating cut needed to stay audible through Cryptopsy's dense arrangements.
 
-His Pearl Masters 14x5.5" Maple snare is tuned for exactly this — a fast, cutting crack that doesn't disappear under the fastest blast beats in death metal.`,
+The Star-Cast mounting system at the center of the kit is built for exactly this — letting shells resonate freely for a fast, cutting crack that doesn't disappear under the fastest blast beats in death metal.`,
 
           pros: [
-            "Flo Mounier's exact Cryptopsy configuration since 1992",
+            "Flo Mounier's Cryptopsy configuration since 2012",
             "All-maple shells for maximum cut and articulation",
-            "Proven across three decades of extreme technical touring",
+            "Proven across a decade of extreme technical touring",
             "More accessible pricing than fully custom Masterworks builds",
-            "Pearl's SST shell technology for consistent resonance"
+            "Tama's Star-Cast mounting for consistent resonance"
           ],
           cons: [
             "Less exotic finish options than the Masterworks line",
@@ -97703,18 +97698,18 @@ His Pearl Masters 14x5.5" Maple snare is tuned for exactly this — a fast, cutt
             "Still a significant investment for developing players"
           ],
           specs: {
-            shell: "Maple (SST)",
-            mount: "Optimount Suspension System",
-            finish: "Multiple lacquer options",
+            shell: "Maple (Star-Cast Mounting System)",
+            mount: "Star-Cast Suspension System",
+            finish: "Multiple lacquer and wrap options",
             kickSize: "22\" x 18\" or 20\" x 18\"",
             tomSizes: "Various configurations available"
           },
           usedBy: [
-            { name: "Flo Mounier", band: "Cryptopsy", note: "Only constant Cryptopsy member since 1992, driving the band's gravity-blast technique" }
+            { name: "Flo Mounier", band: "Cryptopsy", note: "Only constant Cryptopsy member since 1992, driving the band's gravity-blast technique on Tama since 2012" }
           ],
           verdict: "A proven, slightly more accessible all-maple platform for the fastest technical death metal playing.",
           rating: 4.7,
-          affiliateLink: "https://www.thomann.de/intl/pearl_masters_maple_complete.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/tama_starclassic_maple.htm?partner_id=metalforge"
         },
         {
           rank: 4,
@@ -97785,9 +97780,9 @@ The Tama SLP Black Brass 14x6.5" snare at the center of his rig delivers a sharp
           priceRange: "€600-900 (shell pack)",
           tier: "budget",
           material: "Poplar/Birch Hybrid",
-          description: "A taste of the shell philosophy behind Kollias's and Mounier's Pearl kits at true entry-level pricing. Reliable and widely available, it's a practical way to build the articulation and speed technical death metal requires before investing in a Masters- or Masterworks-tier kit.",
+          description: "A taste of the maple shell philosophy behind Kollias's Pearl Masterworks kit at true entry-level pricing. Reliable and widely available, it's a practical way to build the articulation and speed technical death metal requires before investing in a Masterworks-tier kit or a Tama Starclassic Maple like Flo Mounier's.",
           pros: ["Reliable, affordable entry into the Pearl ecosystem", "Robust construction handles developing technique", "Worldwide availability and support"],
-          cons: ["Poplar/birch hybrid lacks Masters Maple's cutting articulation", "Basic hardware compared to Masterworks or Masters tiers"],
+          cons: ["Poplar/birch hybrid lacks Starclassic Maple's cutting articulation", "Basic hardware compared to Masterworks or Starclassic tiers"],
           verdict: "Best true budget option for a first technical death metal kit.",
           rating: 4.0,
           affiliateLink: "https://www.thomann.de/intl/pearl_export_series.htm?partner_id=metalforge"
@@ -97800,7 +97795,7 @@ The Tama SLP Black Brass 14x6.5" snare at the center of his rig delivers a sharp
       title: "Pearl vs DW vs Tama for Technical Death Metal",
       content: `Shell platform choice shapes how a technical death metal kit handles the genre's demand for both speed and articulation. Here's how the three main options compare:
 
-**Pearl Masterworks / Masters Maple (Kollias, Mounier):**
+**Pearl Masterworks (Kollias) / Tama Starclassic Maple (Mounier):**
 - Bright, cutting maple articulation built for blast-beat clarity
 - Proven at the absolute fastest tempos in extreme metal
 - Best for: Maximum speed and articulation, gravity-blast technique
@@ -97817,7 +97812,7 @@ The Tama SLP Black Brass 14x6.5" snare at the center of his rig delivers a sharp
 
 **The Truth:** All three platforms hold up at the top of technical death metal — the difference is emphasis. Kollias and Mounier prove maple's cutting articulation dominates at extreme tempo. Grossmann shows that DW's tuning precision serves classically-informed complexity. Roddy proves bubinga's weight doesn't have to sacrifice speed.
 
-**Our Recommendation:** Start with an accessible maple-shell kit like the Pearl Export to build technique, then move toward a Masters Maple or Masterworks-tier kit once your playing demands the extra articulation at extreme tempo.`,
+**Our Recommendation:** Start with an accessible maple-shell kit like the Pearl Export to build technique, then move toward a Tama Starclassic Maple or Masterworks-tier kit once your playing demands the extra articulation at extreme tempo.`,
       comparisonTable: [
         { feature: "Articulation at Extreme Tempo", tama: "⭐⭐⭐⭐", pearl: "⭐⭐⭐⭐⭐", sonor: "⭐⭐⭐⭐" },
         { feature: "Tuning Precision", tama: "⭐⭐⭐⭐", pearl: "⭐⭐⭐⭐", sonor: "⭐⭐⭐⭐⭐" },
@@ -97863,13 +97858,13 @@ The Tama SLP Black Brass 14x6.5" snare at the center of his rig delivers a sharp
     relatedDrummers: [
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Pearl Masterworks — surgical clarity at 240+ BPM' },
       { slug: 'hannes-grossmann', name: 'Hannes Grossmann', reason: 'DW Collector\'s Series — classically-informed precision' },
-      { slug: 'flo-mounier', name: 'Flo Mounier', reason: 'Pearl Masters Maple — three decades of gravity-blast technique' },
+      { slug: 'flo-mounier', name: 'Flo Mounier', reason: 'Tama Starclassic Maple — gravity-blast technique since 2012' },
       { slug: 'derek-roddy', name: 'Derek Roddy', reason: 'Tama Starclassic Bubinga — speed and one-footed blast technique' }
     ],
     featuredDrummers: [
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Pearl Masterworks — surgical clarity at 240+ BPM' },
       { slug: 'hannes-grossmann', name: 'Hannes Grossmann', reason: 'DW Collector\'s Series — classically-informed precision' },
-      { slug: 'flo-mounier', name: 'Flo Mounier', reason: 'Pearl Masters Maple — three decades of gravity-blast technique' },
+      { slug: 'flo-mounier', name: 'Flo Mounier', reason: 'Tama Starclassic Maple — gravity-blast technique since 2012' },
       { slug: 'derek-roddy', name: 'Derek Roddy', reason: 'Tama Starclassic Bubinga — speed and one-footed blast technique' }
     ],
     relatedComparisons: [],
@@ -97890,18 +97885,18 @@ The Tama SLP Black Brass 14x6.5" snare at the center of his rig delivers a sharp
       },
       {
         question: "What's the best budget drum kit for technical death metal?",
-        answer: "The Pearl Export (€600-900) offers a taste of the Pearl tonal philosophy behind George Kollias's and Flo Mounier's kits at a true entry-level price. The Tama Imperialstar (€700-1000) is a strong complete-kit alternative with hardware included."
+        answer: "The Pearl Export (€600-900) offers a taste of the maple tonal philosophy behind George Kollias's Pearl Masterworks kit at a true entry-level price. The Tama Imperialstar (€700-1000) is a strong complete-kit alternative with hardware included, echoing the Tama lineage behind Flo Mounier's and Derek Roddy's setups."
       },
       {
         question: "What drum kit does Flo Mounier of Cryptopsy use?",
-        answer: "Flo Mounier has played a Pearl Masters Maple Complete kit throughout his more than three decades as Cryptopsy's only constant member, chosen for the sharp, penetrating cut that keeps his gravity-blast technique audible at extreme tempo."
+        answer: "Flo Mounier has played a Tama Starclassic Maple kit since 2012, chosen for the sharp, penetrating cut that keeps his gravity-blast technique audible at extreme tempo. He is the only constant member of Cryptopsy since 1992."
       }
     ],
 
     // Conclusion
     conclusion: {
       title: "Build a Kit That Keeps Up With Your Technique",
-      content: `Technical death metal punishes gear that can't keep pace with odd-meter phrasing, gravity blasts, and tempos most drummers never approach. George Kollias's Pearl Masterworks, Hannes Grossmann's DW Collector's Series, Flo Mounier's Pearl Masters Maple, and Derek Roddy's Tama Starclassic Bubinga all solve the same problem — staying articulate under extreme demands — from four distinct angles.
+      content: `Technical death metal punishes gear that can't keep pace with odd-meter phrasing, gravity blasts, and tempos most drummers never approach. George Kollias's Pearl Masterworks, Hannes Grossmann's DW Collector's Series, Flo Mounier's Tama Starclassic Maple, and Derek Roddy's Tama Starclassic Bubinga all solve the same problem — staying articulate under extreme demands — from four distinct angles.
 
 Start with an accessible maple-leaning kit like the Pearl Export or Tama Imperialstar to build the speed and control this genre demands. Upgrade toward a Masters-tier or fully custom configuration once your playing has outgrown what a beginner shell pack can deliver.
 

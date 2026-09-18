@@ -14847,7 +14847,7 @@ Don't overlook the budget tier — Zildjian ZBT and Sabian AAX both provide genu
     // SEO metadata
     title: "Best Hi-Hats for Black Metal: 2026 Ultimate Guide",
     metaTitle: "Best Hi-Hats for Black Metal 2026 | MetalForge Expert Guide",
-    description: "What hi-hats are used in black metal? Discover what Hellhammer, Frost, and Inferno actually play — Paiste RUDE, Zildjian A Custom & K — from budget to pro, built for blast beat speed.",
+    description: "What hi-hats are used in black metal? Discover what Hellhammer, Frost, and Inferno actually play — Paiste RUDE, Zildjian A Series — from budget to pro, built for blast beat speed.",
     seoKeywords: [
       'best hi-hats for black metal',
       'black metal hi-hats',
@@ -14884,12 +14884,12 @@ Don't overlook the budget tier — Zildjian ZBT and Sabian AAX both provide genu
       title: "What Hi-Hats Are Used in Black Metal?",
       content: `Hi-hats carry an outsized role in black metal — they're the rhythmic engine behind blast beats, tremolo-picked riffs, and the genre's signature wall-of-sound atmosphere. Unlike thrash or groove metal, where hi-hats often share the spotlight with crashes and rides, black metal frequently builds entire passages around a single, relentless hi-hat pattern driving the blast beat underneath.
 
-Hellhammer of Mayhem uses 14" Paiste RUDE Series Hi-Hats, giving his foundational black metal recordings explosive projection that cuts through icy, lo-fi production. Frost of Satyricon and 1349 currently relies on Zildjian A Custom & K Series cymbals, balancing cutting articulation with enough complexity for his hyperspeed, technically precise blast beats. Inferno of Behemoth also uses Paiste RUDE Series 14" Hi-Hats, giving Behemoth's modern black/death hybrid attack the same explosive projection.
+Hellhammer of Mayhem uses 14" Paiste RUDE Series Hi-Hats, giving his foundational black metal recordings explosive projection that cuts through icy, lo-fi production. Frost of Satyricon and 1349 currently relies on Zildjian A Series cymbals, giving him bright, articulate cutting power for his hyperspeed, technically precise blast beats. Inferno of Behemoth also uses Paiste RUDE Series 14" Hi-Hats, giving Behemoth's modern black/death hybrid attack the same explosive projection.
 
 This guide covers exactly what makes a great black metal hi-hat — weight, finish, and response — and which specific models the genre's most influential drummers play, from budget starter pairs to the professional setups heard on classic and modern black metal records.`,
       keyPoints: [
         "Paiste RUDE Series defines both Hellhammer's and Inferno's explosive, raw black metal hi-hat projection",
-        "Zildjian A Custom & K Series gives Frost cutting articulation for technical blast beat precision",
+        "Zildjian A Series gives Frost cutting articulation for technical blast beat precision",
         "The RUDE's unlathed top surface produces a raw, trashy character suited to black metal's aggression",
         "Medium-heavy weight dominates black metal hi-hats — enough control for sustained blast beat endurance"
       ]
@@ -14979,42 +14979,42 @@ That explosive, aggressive character sits naturally within lo-fi, raw production
         },
         {
           rank: 2,
-          name: "Zildjian A Custom & K Hi-Hats",
+          name: "Zildjian A Series Hi-Hats",
           brand: "Zildjian",
-          model: "A Custom & K Series Hi-Hats",
+          model: "A New Beat Hi-Hats",
           image: "https://upload.wikimedia.org/wikipedia/commons/4/43/Zildjian_Quick_Beat_Hi_Hat_15.jpg",
           priceRange: "€280-450 per pair",
           tier: "pro",
           material: "B20 Bronze",
 
-          description: `Frost of Satyricon and 1349 has evolved his hi-hat setup toward Zildjian's A Custom and K Series — a combination that balances the A Custom's cutting articulation with the K Series's complex, slightly darker character. For Frost's hyperspeed, technically precise blast beats, this hybrid approach provides both the clarity and the depth his playing demands.
+          description: `Frost of Satyricon and 1349 moved to a Zildjian A Series setup — A New Beat hi-hats among them — in 2013, as Satyricon's self-titled album pushed his sound toward more dynamically refined production. The switch gave him a brighter, more articulate voice than the Paiste 2002 cymbals he'd played since "Nemesis Divina."
 
-After decades of evolution through Pearl, Tama, and Zildjian gear, Frost's current setup reflects black metal's most technically advanced drumming style — hi-hats that respond instantly to extreme tempo work while retaining enough tonal complexity to avoid sounding sterile.`,
+For Frost's hyperspeed, technically precise blast beats, the A Series delivers instant response at extreme tempos while staying clear and cutting rather than raw or trashy.`,
 
           pros: [
             "Frost's current Satyricon/1349 setup — technical black metal precision",
-            "A Custom cutting articulation balanced with K Series complexity",
+            "Bright, cutting A Series articulation",
             "Excellent response at extreme blast beat tempos",
             "Versatile across traditional and technical black metal styles",
             "Consistent Zildjian quality"
           ],
           cons: [
-            "Higher price for the combined A Custom/K approach",
+            "Higher price point",
             "Less raw/aggressive than Paiste RUDE"
           ],
           specs: {
             material: "B20 bronze",
-            finish: "Brilliant (A Custom) / Traditional (K)",
+            finish: "Brilliant",
             weight: "Medium",
             diameter: "14\"",
-            series: "A Custom & K"
+            series: "A Series"
           },
           usedBy: [
-            { name: "Frost", band: "Satyricon / 1349", note: "Zildjian A Custom & K — technical black metal precision" }
+            { name: "Frost", band: "Satyricon / 1349", note: "Zildjian A Series — technical black metal precision since 2013" }
           ],
           verdict: "The technical black metal hi-hat. Best for drummers who need speed and articulation in equal measure.",
           rating: 4.7,
-          affiliateLink: "https://www.thomann.de/intl/zildjian_a_custom_k_hi_hats.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/zildjian_a_series_hi_hats.htm?partner_id=metalforge"
         },
         {
           rank: 3,
@@ -15083,8 +15083,8 @@ The dark finish and complex overtones sit well under raw, lo-fi black metal prod
           priceRange: "€90-140 per pair",
           tier: "budget",
           material: "B8 Bronze",
-          description: "An affordable entry point for technical black metal drummers chasing a brighter sound closer to Frost's Zildjian setup, before upgrading to A Custom or K Series.",
-          pros: ["Affordable Zildjian quality", "Bright projection", "Clear upgrade path to A Custom/K"],
+          description: "An affordable entry point for technical black metal drummers chasing a brighter sound closer to Frost's Zildjian setup, before upgrading to the A Series.",
+          pros: ["Affordable Zildjian quality", "Bright projection", "Clear upgrade path to the A Series"],
           cons: ["B8 alloy lacks B20 complexity"],
           verdict: "Best entry point for brighter, technical black metal hi-hats.",
           rating: 4.0,
@@ -15104,13 +15104,13 @@ The dark finish and complex overtones sit well under raw, lo-fi black metal prod
 - Explosive rather than atmospheric — cuts through with aggression, not complexity
 - Proven across both Mayhem's foundational era and Behemoth's modern black/death hybrid sound
 
-**Technical & Articulate (Zildjian A Custom & K — Frost's choice):**
-- More articulate, cutting attack with complex overtones
+**Technical & Articulate (Zildjian A Series — Frost's choice):**
+- More articulate, cutting attack with a brighter voice
 - Suits modern, technical black metal styles
-- Better balances clarity with complexity at hyperspeed tempos
+- Better balances clarity with control at hyperspeed tempos
 - The contemporary standard for technical black metal
 
-**Black Metal Verdict:** Choose raw and aggressive (Paiste RUDE) if you want the explosive projection both Hellhammer and Inferno rely on across foundational and modern black metal alike. Choose technical (Zildjian A Custom & K) if your playing leans toward Frost's hyperspeed, articulate style. If you specifically want a darker, more atmospheric wash instead, the Meinl Classics Custom Dark is a solid alternative.`,
+**Black Metal Verdict:** Choose raw and aggressive (Paiste RUDE) if you want the explosive projection both Hellhammer and Inferno rely on across foundational and modern black metal alike. Choose technical (Zildjian A Series) if your playing leans toward Frost's hyperspeed, articulate style. If you specifically want a darker, more atmospheric wash instead, the Meinl Classics Custom Dark is a solid alternative.`,
       comparisonTable: [
         { feature: "Atmospheric Character", birch: "⭐⭐⭐⭐⭐", maple: "⭐⭐⭐" },
         { feature: "Cutting Articulation", birch: "⭐⭐⭐", maple: "⭐⭐⭐⭐⭐" },
@@ -15131,8 +15131,8 @@ The dark finish and complex overtones sit well under raw, lo-fi black metal prod
         },
         {
           category: "Best for Technical Black Metal",
-          pedal: "Zildjian A Custom & K Hi-Hats",
-          reason: "Frost's setup. Cutting articulation balanced with complexity for hyperspeed blast beat precision."
+          pedal: "Zildjian A Series Hi-Hats",
+          reason: "Frost's setup. Bright, cutting articulation for hyperspeed blast beat precision."
         },
         {
           category: "Best for a Darker, Atmospheric Tone",
@@ -15142,7 +15142,7 @@ The dark finish and complex overtones sit well under raw, lo-fi black metal prod
         {
           category: "Best Budget",
           pedal: "Zildjian ZBT Hi-Hats",
-          reason: "Affordable Zildjian quality with a clear upgrade path to A Custom or K Series."
+          reason: "Affordable Zildjian quality with a clear upgrade path to the A Series."
         }
       ]
     },
@@ -15155,14 +15155,14 @@ The dark finish and complex overtones sit well under raw, lo-fi black metal prod
     ],
     relatedDrummers: [
       { slug: 'hellhammer', name: 'Hellhammer', reason: 'Paiste RUDE — foundational black metal hi-hat projection' },
-      { slug: 'frost', name: 'Frost', reason: 'Zildjian A Custom & K — technical black metal precision' },
+      { slug: 'frost', name: 'Frost', reason: 'Zildjian A Series — technical black metal precision' },
       { slug: 'inferno', name: 'Inferno', reason: 'Paiste RUDE — Behemoth modern black/death hybrid projection' }
     ],
 
     // Featured drummers (issue template)
     featuredDrummers: [
       { slug: 'hellhammer', name: 'Hellhammer', reason: 'Paiste RUDE Hi-Hats — foundational black metal projection since 1988' },
-      { slug: 'frost', name: 'Frost', reason: 'Zildjian A Custom & K Hi-Hats — technical black metal precision' },
+      { slug: 'frost', name: 'Frost', reason: 'Zildjian A Series Hi-Hats — technical black metal precision' },
       { slug: 'inferno', name: 'Inferno', reason: 'Paiste RUDE Hi-Hats — Behemoth\'s modern blast-heavy projection' },
     ],
 
@@ -15170,7 +15170,7 @@ The dark finish and complex overtones sit well under raw, lo-fi black metal prod
     faq: [
       {
         question: "What hi-hats are used in black metal?",
-        answer: "Hellhammer of Mayhem uses Paiste RUDE 14\" Hi-Hats for a raw, explosive character. Frost of Satyricon and 1349 uses Zildjian A Custom & K Series for technical articulation. Inferno of Behemoth also uses Paiste RUDE 14\" Hi-Hats for explosive, modern projection. All three are 14\" pairs — the genre's standard diameter."
+        answer: "Hellhammer of Mayhem uses Paiste RUDE 14\" Hi-Hats for a raw, explosive character. Frost of Satyricon and 1349 uses Zildjian A Series for technical articulation. Inferno of Behemoth also uses Paiste RUDE 14\" Hi-Hats for explosive, modern projection. All three are 14\" pairs — the genre's standard diameter."
       },
       {
         question: "What hi-hats does Hellhammer use?",
@@ -15178,7 +15178,7 @@ The dark finish and complex overtones sit well under raw, lo-fi black metal prod
       },
       {
         question: "Best hi-hats for blast beats?",
-        answer: "Medium-heavy weight hi-hats with consistent bottom-cymbal contact handle sustained blast beat endurance best. Paiste RUDE, Zildjian A Custom & K, and Meinl Classics Custom Dark all perform well at extreme tempos — choose based on whether you want explosive aggression (Paiste), technical articulation (Zildjian), or dark atmosphere (Meinl)."
+        answer: "Medium-heavy weight hi-hats with consistent bottom-cymbal contact handle sustained blast beat endurance best. Paiste RUDE, Zildjian A Series, and Meinl Classics Custom Dark all perform well at extreme tempos — choose based on whether you want explosive aggression (Paiste), technical articulation (Zildjian), or dark atmosphere (Meinl)."
       },
       {
         question: "What size hi-hats for black metal?",
@@ -15186,7 +15186,7 @@ The dark finish and complex overtones sit well under raw, lo-fi black metal prod
       },
       {
         question: "Dark or bright hi-hats for black metal?",
-        answer: "Both work at the highest level. Dark hi-hats (Meinl Classics Custom Dark) suit drummers chasing a traditional, atmospheric wash. Raw and aggressive hi-hats (Paiste RUDE, both Hellhammer's and Inferno's choice) and bright, technical hi-hats (Zildjian A Custom & K, Frost's choice) suit modern, technical, and black/death hybrid styles. Choose based on which subgenre and production style you're chasing."
+        answer: "Both work at the highest level. Dark hi-hats (Meinl Classics Custom Dark) suit drummers chasing a traditional, atmospheric wash. Raw and aggressive hi-hats (Paiste RUDE, both Hellhammer's and Inferno's choice) and bright, technical hi-hats (Zildjian A Series, Frost's choice) suit modern, technical, and black/death hybrid styles. Choose based on which subgenre and production style you're chasing."
       }
     ],
 
@@ -15195,7 +15195,7 @@ The dark finish and complex overtones sit well under raw, lo-fi black metal prod
       title: "Find Your Black Metal Hi-Hat Voice",
       content: `Black metal hi-hats split into two proven traditions: the raw, explosive character that Hellhammer established on Mayhem's foundational recordings and that Inferno carries into Behemoth's modern black/death hybrid sound, and the brighter, more articulate sound that Frost favors for his blast-heavy, technically demanding compositions.
 
-If you play traditional or modern black metal alike, start with a raw, unlathed pair like the Paiste RUDE — proven across both Hellhammer's and Inferno's very different eras. If your playing leans more technical, Zildjian A Custom & K will give you the cutting articulation Frost's style demands. If you want a darker, more atmospheric wash instead, the Meinl Classics Custom Dark is a solid alternative.
+If you play traditional or modern black metal alike, start with a raw, unlathed pair like the Paiste RUDE — proven across both Hellhammer's and Inferno's very different eras. If your playing leans more technical, Zildjian A Series will give you the cutting articulation Frost's style demands. If you want a darker, more atmospheric wash instead, the Meinl Classics Custom Dark is a solid alternative.
 
 Whatever you choose, prioritize consistency under sustained blast beat use over flashy features — the hi-hat is the most-used cymbal in black metal drumming, and it needs to perform reliably through entire songs of relentless rhythmic work.
 

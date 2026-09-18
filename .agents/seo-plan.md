@@ -9177,3 +9177,37 @@ Ran `gh issue list --state all --search "genreGearGuides <drummer>"` for all 8 d
 2. `genreGearGuides.js` almost certainly has more candidates beyond the 8 filed — the 4 audit agents' raw yield was ~40+ mismatches and this run only filed the top 8 most systemic/highest-confidence ones. Worth a direct follow-up pass (re-check the agents' dropped/lower-confidence candidates, e.g. Igor Cavalera pedal, John Otto pedal, Abe Cunningham pedal, Brann Dailor hardware, Tomas Haake drumheads, Hellhammer hardware/wood, Flo Mounier drums, Derek Roddy hardware, Ray Luzier hardware) if the bank stays low next run — this is a high-yield vein, not a one-and-done.
 3. Content-gap table now has 3 rows instead of 1 (`danny carey drum set` newly re-appeared alongside `flo mounier`/`mario duplantier drum kit`) — all 3 re-confirmed already-classified, no new action, but worth double-checking next run whether `danny carey drum set` is a recurring or one-off appearance in this table.
 4. Next drum-chair watch due Monday 2026-09-21, group 3 (sepultura/slayer/slipknot/testament/tool/vader/volto).
+
+---
+
+## 2026-09-18 (run, per metrics.md 05:23 UTC) — 4 proposals filed (#7707-7710): closed out the genreGearGuides.js follow-up list from the prior run
+
+### Bank check
+Open `seo-proposal` at run start: 7 (4 fresh/untriaged #7691-7694 filed 22:00-22:01 UTC 09-17 + 3 standing umbrellas #2211/#3810/#3819) — well under 45 → cleared to file up to 8 net-new. Metrics 05:23 UTC (342 users/382 sessions/616 views 7d; GSC 7,889 impr/168 clicks/2.13% CTR/pos 7.5). robots.txt (`api/robots.js`): 13 `User-agent` blocks confirmed. `/llms/*.md` endpoints: 2,016 files live (stable). Content-gap table: `danny carey drum set` (83 impr/1.20% CTR) and `flo mounier` (81 impr/1.23% CTR) — both re-confirmed already-classified per `learned-patterns.md` (gear-qualified known oscillator / class-2 bare-name-bio-intent) — held, no new action. Today is Friday — drum-chair watch not due (next due Monday 09-21, group 3).
+
+### This run's work
+Worked through the prior run's (09-17 17:30) follow-up list of 5 unaudited genreGearGuides.js candidates (Brann Dailor hardware, Hellhammer hardware/wood, Flo Mounier drums, Derek Roddy hardware, Ray Luzier hardware) — the other 4 items on that list (Igor Cavalera pedal, John Otto pedal, Abe Cunningham pedal, Tomas Haake drumheads) had already been filed as #7691-7694 in an undocumented run between this run and the last logged entry.
+
+Dispatched one audit agent to verify all 5 remaining candidates directly against `endorsementNews.js`, then personally re-verified every confirmed finding via direct `grep`/`sed` before filing (exact line numbers, quoted text, dedup search):
+- **Hellhammer hardware/wood**: not a fabrication. Drums/shell material (Sonor SQ2 Heavy Beech) correctly and consistently used. Generic "Pearl Pro Series Hardware Pack" hardware mentions were already reviewed and deliberately left alone by #6805 (endorsementNews.js's `hardware` field only documents his pedal, not stands/rack — omitting rather than guessing is correct). No new fix.
+- **Derek Roddy hardware**: already fixed. #6723 (closed) corrected all pedal/hardware mentions to Tama Speed Cobra 910; zero DW/Axis mentions remain against his name. No new fix.
+- **Brann Dailor hardware**: confirmed fabrication — "DW 9000 Series Hardware Pack" attributed to him in the doom-metal hardware guide (lines ~18384/18412) vs verified Tama Speed Cobra since 2010s. Distinct from #6804 (which fixed 25 "Gretsch" fabrications in other categories, never touched this hardware guide). Filed **#7707**.
+- **Brann Dailor snare** (bonus candidate, not on the original list but surfaced during the audit): confirmed fabrication — an entire "best-snare-drums-for-post-metal" guide built around a fabricated "DW Collector's Series 14x6.5 Brass" snare (~12 locations: intro, product block, FAQ, comparison table, summary). No `snare` field exists at all in his verified record — an omit-if-unsure violation, not just a wrong-brand swap. Filed **#7708**.
+- **Flo Mounier drums**: confirmed fabrication, large sibling gap. #6725 (closed) fixed only 2 meta-description lines; the actual product content across 2 guide families still fabricates "DW Collector's Series" (death-metal kit/bass-drum family, ~13 locations) and "Pearl Masters Maple" (technical-death-metal family, ~19 locations) vs verified Tama Starclassic Maple since 2012. Personally spot-verified 3 separate locations (lines 13169, 21448, 22128) to confirm the pattern held across both fabricated brands before filing the batch. Filed **#7709**.
+- **Ray Luzier hardware**: confirmed fabrication, internal self-contradiction. The same file correctly attributes DW 9000 Series hardware/pedal to him (lines ~15259-15346, verified) but a separate throne product block ~150 lines later fabricates a "Pearl D-2000 Roadster Throne" (lines ~15481-15506, plus a duplicate at line 26542) — no throne is verified anywhere in his record (`hardware` field documents only the DW pedal). Filed **#7710**.
+
+**4 filed, all single/few-location corrections on existing pages, zero new URLs — freeze-compliant.**
+
+### Dedup notes
+Ran `gh issue list --state all --search "genreGearGuides <drummer> <category>"` for all 4 filed candidates before filing; confirmed each targets exact line numbers/fields never touched by a prior closed issue (Brann Dailor hardware vs #6804's different categories; Brann Dailor snare has no prior issue at all; Flo Mounier drums vs #6725's 2 already-fixed meta-description lines only; Ray Luzier throne vs #6535/#6604/#6760's different categories).
+
+### Open proposals waiting on CEO triage
+- #7691-7694 (prior run, still fresh/untriaged)
+- #7707-7710 (this run, 4 fresh)
+- #2211/#3810/#3819 (standing umbrellas)
+
+### Next run
+1. Watch #7691-7694 and #7707-7710 through CEO triage.
+2. The 09-17 17:30 follow-up list is now fully closed out (9/9 candidates checked: 4 filed as #7691-7694, 4 filed as #7707-7710, 1 dropped as not-a-fabrication [Hellhammer], 1 dropped as already-fixed [Derek Roddy]). `genreGearGuides.js` likely still has more untouched candidates given its size (116K lines, 278 guides) — the 09-17 17:30 run's 4 audit agents' raw yield was ~40+ mismatches and only a fraction has been triaged across these 2 runs. Worth another systematic pass (by gear category or by an unaudited drummer subset) if the bank stays low next run.
+3. Content-gap queries (`danny carey drum set`, `flo mounier`) unchanged/held on established precedent.
+4. Next drum-chair watch due Monday 2026-09-21, group 3 (sepultura/slayer/slipknot/testament/tool/vader/volto).

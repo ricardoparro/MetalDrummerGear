@@ -11769,7 +11769,7 @@ Budget shouldn't stop you either. A Tama Iron Cobra 600 or Pearl Eliminator Redl
     // SEO metadata
     title: "Best Bass Drum Pedals for Groove Metal: 2026 Ultimate Guide",
     metaTitle: "Best Bass Drum Pedals for Groove Metal in 2026 | MetalForge Expert Guide",
-    description: "Discover the best bass drum pedals for groove metal's pocket-first, riff-locking feel. Built around Vinnie Paul's founding Pantera groove template, Chris Adler's Mapex Falcon, Art Cruz's Trick Pro 1-V, and Igor Cavalera's Tama Iron Cobra.",
+    description: "Discover the best bass drum pedals for groove metal's pocket-first, riff-locking feel. Built around Vinnie Paul's founding Pantera groove template, Chris Adler's Trick Pro V, Art Cruz's Trick Pro 1-V, and Igor Cavalera's Tama Iron Cobra.",
     seoKeywords: [
       'best bass drum pedals for groove metal',
       'groove metal bass drum pedal',
@@ -11806,13 +11806,13 @@ Budget shouldn't stop you either. A Tama Iron Cobra 600 or Pearl Eliminator Redl
       title: "Why Groove Metal Rewards Pocket Feel Over Raw Double-Bass Speed",
       content: `Groove metal inverts death metal's usual bass drum pedal priorities. Instead of chasing 250+ BPM blast beats, groove metal locks into syncopated, riff-tight patterns where the kick has to land exactly on the pocket — a fraction of a beat early or late and the entire riff falls apart. Vinnie Paul built the genre's founding template largely around single, deliberately-placed kick hits rather than nonstop double bass, reserving the double pedal for accents and section-ending bursts on Pantera classics like "Vulgar Display of Power" and "Far Beyond Driven." That restraint — feel over flash — is exactly what a groove metal bass drum pedal needs to deliver.
 
-Chris Adler's Mapex Falcon double pedal gave Lamb of God's New Wave of American Heavy Metal riffs their precise, syncopated crack across "Ashes of the Wake" and "Sacrament." Art Cruz's Trick Pro 1-V double pedal, mounted on Gibraltar hardware, carries that same riff-locking precision into Lamb of God's current era on the self-titled 2020 album and "Omens" (2022). Igor Cavalera's Tama Iron Cobra double pedal drove Sepultura's tribal groove metal transformation on "Chaos A.D." and "Roots," proving that a tight, controllable pedal serves groove's syncopated pocket better than raw speed alone.
+Chris Adler's Trick Pro V double pedal gave Lamb of God's New Wave of American Heavy Metal riffs their precise, syncopated crack across "Ashes of the Wake" and "Sacrament." Art Cruz's Trick Pro 1-V double pedal, mounted on Gibraltar hardware, carries that same riff-locking precision into Lamb of God's current era on the self-titled 2020 album and "Omens" (2022). Igor Cavalera's Tama Iron Cobra double pedal drove Sepultura's tribal groove metal transformation on "Chaos A.D." and "Roots," proving that a tight, controllable pedal serves groove's syncopated pocket better than raw speed alone.
 
 This guide breaks down drive systems, footboard feel, and response tuning for a groove metal bass drum pedal — comparing four drummers whose setups defined the genre's syncopated, riff-locking foundation, with recommendations from budget to professional touring rigs.`,
       keyPoints: [
         "Vinnie Paul's founding Pantera template favored deliberately-placed single kicks over constant double bass",
         "Groove metal rewards tight, immediate pedal response over the raw top-end speed death metal chases",
-        "Chris Adler's Mapex Falcon direct drive pedal gave Lamb of God's syncopated riffs their precise crack",
+        "Chris Adler's Trick Pro V direct drive pedal gave Lamb of God's syncopated riffs their precise crack",
         "Syncopated pocket accuracy matters more than sheer speed — groove metal is about landing exactly on the riff"
       ]
     },
@@ -11830,13 +11830,13 @@ This guide breaks down drive systems, footboard feel, and response tuning for a 
         {
           name: "Tight, Immediate Response",
           icon: "⚡",
-          description: "Groove metal's syncopated riffs demand a pedal that responds instantly and predictably. Chris Adler's Mapex Falcon and Art Cruz's Trick Pro 1-V are both prized for immediate, controllable feel rather than the loosest, fastest possible action.",
+          description: "Groove metal's syncopated riffs demand a pedal that responds instantly and predictably. Chris Adler's Trick Pro V and Art Cruz's Trick Pro 1-V are both prized for immediate, controllable feel rather than the loosest, fastest possible action.",
           recommendation: "A pedal tuned for immediate, predictable response over maximum top-end speed"
         },
         {
           name: "Drive System for Pocket Precision",
           icon: "⚙️",
-          description: "Direct drive (Adler's Mapex Falcon) offers the most linear feel for landing syncopated accents exactly on the beat. Chain and dual-chain systems (Cavalera's Iron Cobra) provide a slightly more traditional feel many groove-oriented drummers prefer for pocket feel.",
+          description: "Direct drive (Adler's Trick Pro V) offers the most linear feel for landing syncopated accents exactly on the beat. Chain and dual-chain systems (Cavalera's Iron Cobra) provide a slightly more traditional feel many groove-oriented drummers prefer for pocket feel.",
           recommendation: "Direct drive for maximum precision, chain drive for a more traditional groove feel"
         },
         {
@@ -11866,41 +11866,41 @@ This guide breaks down drive systems, footboard feel, and response tuning for a 
       pedals: [
         {
           rank: 1,
-          name: "Mapex Falcon",
-          brand: "Mapex",
-          model: "PF1000TW Falcon",
+          name: "Trick Pro V",
+          brand: "Trick",
+          model: "Pro V Double Pedal",
           image: "https://upload.wikimedia.org/wikipedia/commons/7/74/Dixon-double-pedal.jpg",
-          priceRange: "€400-450",
-          tier: "pro",
-          driveType: "Direct Drive",
-          description: `Chris Adler's Mapex Falcon double pedal gave Lamb of God's New Wave of American Heavy Metal riffs their precise, syncopated crack across "Ashes of the Wake," "Sacrament," and "Wrath." The direct drive action delivers immediate, linear response — essential for locking a syncopated bass drum hit exactly onto a riff-tight guitar accent.
+          priceRange: "€600-750",
+          tier: "premium",
+          driveType: "Direct Drive (V-Cam)",
+          description: `Chris Adler's Trick Pro V double pedal gave Lamb of God's New Wave of American Heavy Metal riffs their precise, syncopated crack across "Ashes of the Wake," "Sacrament," and "Wrath." The V-Cam direct drive action delivers immediate, linear response — essential for locking a syncopated bass drum hit exactly onto a riff-tight guitar accent.
 
-The Falcon's Raptorlock quick-release and convertible footboard let Adler dial in the tight, predictable feel his groove-driven patterns depend on, without sacrificing the durability needed for a Grammy-winning touring schedule.`,
+The Pro V's machined aluminum construction and adjustable cam let Adler dial in the tight, predictable feel his groove-driven patterns depend on, without sacrificing the durability needed for a Grammy-winning touring schedule.`,
           pros: [
             "Chris Adler's Lamb of God setup — the precision standard for syncopated groove metal riffing",
-            "Direct drive delivers immediate, linear response for pocket-tight accents",
-            "Raptorlock quick release and convertible footboard",
+            "V-Cam direct drive delivers immediate, linear response for pocket-tight accents",
+            "Machined aluminum construction built for demanding touring use",
             "Proven across Lamb of God's most acclaimed groove metal recordings",
             "Reliable durability for demanding touring schedules"
           ],
           cons: [
             "Direct drive takes adjustment if coming from chain",
             "Fewer signature-specific hardware options than flagship pro pedals",
-            "Premium price relative to entry direct-drive alternatives"
+            "Boutique price relative to entry direct-drive alternatives"
           ],
           specs: {
-            drive: "Direct Drive",
-            bearings: "Precision Ball Bearings",
-            footboard: "Convertible Falcon Design",
-            beater: "Reversible Falcon Beater",
-            weight: "4.0 kg (pair)"
+            drive: "Direct Drive (V-Cam)",
+            bearings: "Precision Sealed Bearings",
+            footboard: "Machined Aluminum Longboard",
+            beater: "Trick Beater (adjustable)",
+            weight: "4.1 kg (pair)"
           },
           usedBy: [
-            { name: "Chris Adler", band: "Lamb of God", note: "Direct drive — syncopated groove metal riff-locking precision" }
+            { name: "Chris Adler", band: "Lamb of God", note: "V-Cam direct drive — syncopated groove metal riff-locking precision" }
           ],
           verdict: "The syncopated groove metal standard. Adler's precise, immediate response defines the genre's riff-locking foundation.",
           rating: 4.7,
-          affiliateLink: "https://www.thomann.de/intl/mapex_pf1000tw_falcon_double_pedal.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/trick_pro_v_double_pedal.htm?partner_id=metalforge"
         },
         {
           rank: 2,
@@ -12069,11 +12069,11 @@ For groove metal drummers who want the smooth, adjustable feel of a proven flags
 
     // Comparison section
     comparison: {
-      title: "Mapex Falcon vs Trick Pro 1-V vs ddrum Vinnie Paul Signature for Groove Metal",
+      title: "Trick Pro V vs Trick Pro 1-V vs ddrum Vinnie Paul Signature for Groove Metal",
       content: `Groove metal's pedal choices split between modern direct-drive precision and the genre's founding pocket-first feel. Here's how they compare:
 
-**Mapex Falcon (Chris Adler):**
-- Direct drive for immediate, linear response on syncopated accents
+**Trick Pro V (Chris Adler):**
+- Direct drive (V-Cam) for immediate, linear response on syncopated accents
 - The precision standard for modern groove metal riff-locking
 - Best for drummers chasing exact pocket placement
 
@@ -12087,12 +12087,12 @@ For groove metal drummers who want the smooth, adjustable feel of a proven flags
 - The genre's founding feel — control and pocket over raw speed
 - Best for drummers building single-pedal groove technique first
 
-**Our Recommendation:** Start with the ddrum Vinnie Paul Signature or a single pedal if you're building foundational pocket feel. Step up to the Mapex Falcon or Trick Pro 1-V once you need direct-drive precision for syncopated double-kick accents.`,
+**Our Recommendation:** Start with the ddrum Vinnie Paul Signature or a single pedal if you're building foundational pocket feel. Step up to the Trick Pro V or Trick Pro 1-V once you need direct-drive precision for syncopated double-kick accents.`,
       comparisonTable: [
         { feature: "Pocket Precision", directDrive: "⭐⭐⭐⭐⭐", chainDrive: "⭐⭐⭐⭐" },
         { feature: "Founding Groove Feel", directDrive: "⭐⭐⭐", chainDrive: "⭐⭐⭐⭐⭐" },
         { feature: "Touring Durability", directDrive: "⭐⭐⭐⭐", chainDrive: "⭐⭐⭐⭐⭐" },
-        { feature: "Price Range", directDrive: "€400-750", chainDrive: "€280-500" }
+        { feature: "Price Range", directDrive: "€600-750", chainDrive: "€280-500" }
       ]
     },
 
@@ -12102,7 +12102,7 @@ For groove metal drummers who want the smooth, adjustable feel of a proven flags
       picks: [
         {
           category: "Best Overall",
-          pedal: "Mapex Falcon",
+          pedal: "Trick Pro V",
           reason: "Chris Adler's Lamb of God setup — the precision standard for syncopated groove metal riffing."
         },
         {
@@ -12131,14 +12131,14 @@ For groove metal drummers who want the smooth, adjustable feel of a proven flags
     ],
     relatedDrummers: [
       { slug: 'vinnie-paul', name: 'Vinnie Paul', reason: 'ddrum double pedal — Pantera groove metal founding template' },
-      { slug: 'chris-adler', name: 'Chris Adler', reason: 'Mapex Falcon — Lamb of God syncopated riff-locking precision' },
+      { slug: 'chris-adler', name: 'Chris Adler', reason: 'Trick Pro V — Lamb of God syncopated riff-locking precision' },
       { slug: 'art-cruz', name: 'Art Cruz', reason: 'Trick Pro 1-V — current Lamb of God riff-locking precision' },
       { slug: 'igor-cavalera', name: 'Igor Cavalera', reason: 'Tama Iron Cobra — Sepultura tribal groove metal precision' }
     ],
 
     featuredDrummers: [
       { slug: 'vinnie-paul', name: 'Vinnie Paul', reason: 'ddrum double pedal — Pantera\'s founding, pocket-first groove metal template' },
-      { slug: 'chris-adler', name: 'Chris Adler', reason: 'Mapex Falcon — Lamb of God\'s syncopated riff-locking precision' },
+      { slug: 'chris-adler', name: 'Chris Adler', reason: 'Trick Pro V — Lamb of God\'s syncopated riff-locking precision' },
       { slug: 'art-cruz', name: 'Art Cruz', reason: 'Trick Pro 1-V — modern groove metal\'s riff-locking standard' }
     ],
 
@@ -12150,11 +12150,11 @@ For groove metal drummers who want the smooth, adjustable feel of a proven flags
       },
       {
         question: "Do I need a double pedal for groove metal?",
-        answer: "Not necessarily. Groove metal's founding feel — built by Vinnie Paul — prioritizes pocket and placement over raw double-bass speed, and a well-set-up single pedal teaches that feel directly. A double pedal like Chris Adler's Mapex Falcon becomes useful once you need syncopated double-kick accents within a riff."
+        answer: "Not necessarily. Groove metal's founding feel — built by Vinnie Paul — prioritizes pocket and placement over raw double-bass speed, and a well-set-up single pedal teaches that feel directly. A double pedal like Chris Adler's Trick Pro V becomes useful once you need syncopated double-kick accents within a riff."
       },
       {
         question: "Direct drive or chain drive — which is better for groove metal?",
-        answer: "Both work well. Direct drive (Chris Adler's Mapex Falcon, Art Cruz's Trick Pro 1-V) gives the most immediate, linear response for landing syncopated accents exactly on the beat. Chain drive (Vinnie Paul's ddrum, Igor Cavalera's Tama Iron Cobra) offers a more traditional feel many groove-oriented drummers prefer for pocket control."
+        answer: "Both work well. Direct drive (Chris Adler's Trick Pro V, Art Cruz's Trick Pro 1-V) gives the most immediate, linear response for landing syncopated accents exactly on the beat. Chain drive (Vinnie Paul's ddrum, Igor Cavalera's Tama Iron Cobra) offers a more traditional feel many groove-oriented drummers prefer for pocket control."
       },
       {
         question: "What's the best budget bass drum pedal for groove metal?",
@@ -12169,9 +12169,9 @@ For groove metal drummers who want the smooth, adjustable feel of a proven flags
     // Conclusion
     conclusion: {
       title: "Find Your Groove Metal Pocket",
-      content: `Groove metal's pedal choice comes down to feel, not top speed. Vinnie Paul built the genre's founding template on deliberate placement over nonstop double bass, and that pocket-first philosophy still defines what makes a great groove metal bass drum pedal today. Chris Adler's Mapex Falcon and Art Cruz's Trick Pro 1-V show how direct-drive precision translates that founding feel into modern, syncopated riff-locking accuracy, while Igor Cavalera's Tama Iron Cobra proves a smooth, adjustable chain-drive pedal serves groove's tribal-influenced pocket just as well.
+      content: `Groove metal's pedal choice comes down to feel, not top speed. Vinnie Paul built the genre's founding template on deliberate placement over nonstop double bass, and that pocket-first philosophy still defines what makes a great groove metal bass drum pedal today. Chris Adler's Trick Pro V and Art Cruz's Trick Pro 1-V show how direct-drive precision translates that founding feel into modern, syncopated riff-locking accuracy, while Igor Cavalera's Tama Iron Cobra proves a smooth, adjustable chain-drive pedal serves groove's tribal-influenced pocket just as well.
 
-Start with a single pedal or the ddrum Vinnie Paul Signature if you're building foundational pocket feel. Step up to the Mapex Falcon or Trick Pro 1-V once your syncopated double-kick accents demand direct-drive precision.
+Start with a single pedal or the ddrum Vinnie Paul Signature if you're building foundational pocket feel. Step up to the Trick Pro V or Trick Pro 1-V once your syncopated double-kick accents demand direct-drive precision.
 
 🤘 **Feel the pocket. Own the groove.**`
     }
@@ -63972,7 +63972,7 @@ Budget shouldn't stop you either. A Zildjian S Family Dark or Sabian XSR Monarch
     // SEO metadata
     title: "Best Drum Pedals for Groove Metal: 2026 Ultimate Guide",
     metaTitle: "Best Drum Pedals for Groove Metal 2026 | MetalForge Expert Guide",
-    description: "Best drum pedals for groove metal drumming: what Vinnie Paul (ddrum), Chris Adler (Mapex Falcon), Art Cruz (Trick Pro 1-V), and Igor Cavalera (Tama Iron Cobra) actually play. Tight, punchy response for groove metal's syncopated riff-locking grooves — ranked budget to pro.",
+    description: "Best drum pedals for groove metal drumming: what Vinnie Paul (ddrum), Chris Adler (Trick Pro V), Art Cruz (Trick Pro 1-V), and Igor Cavalera (Tama Iron Cobra) actually play. Tight, punchy response for groove metal's syncopated riff-locking grooves — ranked budget to pro.",
     seoKeywords: [
       'best drum pedals for groove metal',
       'groove metal drum pedals',
@@ -64009,12 +64009,12 @@ Budget shouldn't stop you either. A Zildjian S Family Dark or Sabian XSR Monarch
       title: "Why Groove Metal Needs a Tight, Punchy Pedal Over Pure Speed",
       content: `Groove metal inverts death metal's usual pedal priorities. Instead of chasing 250+ BPM blast beats, groove metal locks into syncopated, riff-tight patterns where the bass drum has to land exactly on the pocket — a fraction of a beat early or late and the entire riff falls apart. That changes what you need from a pedal: rather than a pedal tuned purely for maximum top-end speed, groove metal rewards a tight, immediate, highly controllable response that lets you nail syncopated accents with total precision.
 
-Vinnie Paul built groove metal's founding pedal template with Pantera, driving a ddrum double pedal through the thunderous, syncopated double-kick patterns that anchored "Vulgar Display of Power" and "Far Beyond Driven." Chris Adler's Mapex Falcon double pedal gave Lamb of God's New Wave of American Heavy Metal riffs their precise, syncopated crack across "Ashes of the Wake" and "Sacrament." Art Cruz's Trick Pro 1-V double pedal, mounted on Gibraltar hardware, carries that same riff-locking precision into Lamb of God's current era on the self-titled 2020 album and "Omens" (2022). Igor Cavalera's Tama Iron Cobra double pedal drove Sepultura's tribal groove metal transformation on "Chaos A.D." and "Roots," proving that a tight, controllable pedal serves groove's syncopated pocket better than raw speed alone.
+Vinnie Paul built groove metal's founding pedal template with Pantera, driving a ddrum double pedal through the thunderous, syncopated double-kick patterns that anchored "Vulgar Display of Power" and "Far Beyond Driven." Chris Adler's Trick Pro V double pedal gave Lamb of God's New Wave of American Heavy Metal riffs their precise, syncopated crack across "Ashes of the Wake" and "Sacrament." Art Cruz's Trick Pro 1-V double pedal, mounted on Gibraltar hardware, carries that same riff-locking precision into Lamb of God's current era on the self-titled 2020 album and "Omens" (2022). Igor Cavalera's Tama Iron Cobra double pedal drove Sepultura's tribal groove metal transformation on "Chaos A.D." and "Roots," proving that a tight, controllable pedal serves groove's syncopated pocket better than raw speed alone.
 
 This guide breaks down drive systems, footboard feel, and response tuning for groove metal pedals — comparing four drummers whose setups defined the genre's syncopated, riff-locking foundation, with recommendations from budget to professional touring rigs.`,
       keyPoints: [
         "Groove metal rewards tight, immediate pedal response over the raw top-end speed death metal chases",
-        "Chris Adler's Mapex Falcon direct drive pedal gave Lamb of God's syncopated riffs their precise crack",
+        "Chris Adler's Trick Pro V direct drive pedal gave Lamb of God's syncopated riffs their precise crack",
         "Art Cruz's Trick Pro 1-V shows the current-era standard for riff-locking precision in groove metal",
         "Syncopated pocket accuracy matters more than sheer speed — groove metal is about landing exactly on the riff"
       ]
@@ -64027,13 +64027,13 @@ This guide breaks down drive systems, footboard feel, and response tuning for gr
         {
           name: "Tight, Immediate Response",
           icon: "⚡",
-          description: "Groove metal's syncopated riffs demand a pedal that responds instantly and predictably. Chris Adler's Mapex Falcon and Art Cruz's Trick Pro 1-V are both prized for immediate, controllable feel rather than the loosest, fastest possible action.",
+          description: "Groove metal's syncopated riffs demand a pedal that responds instantly and predictably. Chris Adler's Trick Pro V and Art Cruz's Trick Pro 1-V are both prized for immediate, controllable feel rather than the loosest, fastest possible action.",
           recommendation: "A pedal tuned for immediate, predictable response over maximum top-end speed"
         },
         {
           name: "Drive System for Pocket Precision",
           icon: "⚙️",
-          description: "Direct drive (Adler's Mapex Falcon) offers the most linear feel for landing syncopated accents exactly on the beat. Chain and dual-chain systems (Vinnie Paul's ddrum, Cavalera's Iron Cobra) provide a slightly more traditional feel many groove-oriented drummers prefer for pocket feel.",
+          description: "Direct drive (Adler's Trick Pro V) offers the most linear feel for landing syncopated accents exactly on the beat. Chain and dual-chain systems (Vinnie Paul's ddrum, Cavalera's Iron Cobra) provide a slightly more traditional feel many groove-oriented drummers prefer for pocket feel.",
           recommendation: "Direct drive for maximum precision, chain drive for a more traditional groove feel"
         },
         {
@@ -64069,43 +64069,43 @@ This guide breaks down drive systems, footboard feel, and response tuning for gr
       pedals: [
         {
           rank: 1,
-          name: "Mapex Falcon",
-          brand: "Mapex",
-          model: "PF1000TW Falcon",
+          name: "Trick Pro V",
+          brand: "Trick",
+          model: "Pro V Double Pedal",
           image: "https://upload.wikimedia.org/wikipedia/commons/7/74/Dixon-double-pedal.jpg",
-          priceRange: "€400-450",
-          tier: "pro",
-          driveType: "Direct Drive",
+          priceRange: "€600-750",
+          tier: "premium",
+          driveType: "Direct Drive (V-Cam)",
 
-          description: `Chris Adler's Mapex Falcon double pedal gave Lamb of God's New Wave of American Heavy Metal riffs their precise, syncopated crack across "Ashes of the Wake," "Sacrament," and "Wrath." The direct drive action delivers immediate, linear response — essential for locking a syncopated bass drum hit exactly onto a riff-tight guitar accent.
+          description: `Chris Adler's Trick Pro V double pedal gave Lamb of God's New Wave of American Heavy Metal riffs their precise, syncopated crack across "Ashes of the Wake," "Sacrament," and "Wrath." The V-Cam direct drive action delivers immediate, linear response — essential for locking a syncopated bass drum hit exactly onto a riff-tight guitar accent.
 
-The Falcon's Raptorlock quick-release and convertible footboard let Adler dial in the tight, predictable feel his groove-driven patterns depend on, without sacrificing the durability needed for a Grammy-winning touring schedule.`,
+The Pro V's machined aluminum construction and adjustable cam let Adler dial in the tight, predictable feel his groove-driven patterns depend on, without sacrificing the durability needed for a Grammy-winning touring schedule.`,
 
           pros: [
             "Chris Adler's Lamb of God setup — the precision standard for syncopated groove metal riffing",
-            "Direct drive delivers immediate, linear response for pocket-tight accents",
-            "Raptorlock quick release and convertible footboard",
+            "V-Cam direct drive delivers immediate, linear response for pocket-tight accents",
+            "Machined aluminum construction built for demanding touring use",
             "Proven across Lamb of God's most acclaimed groove metal recordings",
             "Reliable durability for demanding touring schedules"
           ],
           cons: [
             "Direct drive takes adjustment if coming from chain",
             "Fewer signature-specific hardware options than flagship pro pedals",
-            "Premium price relative to entry direct-drive alternatives"
+            "Boutique price relative to entry direct-drive alternatives"
           ],
           specs: {
-            drive: "Direct Drive",
-            bearings: "Precision Ball Bearings",
-            footboard: "Convertible Falcon Design",
-            beater: "Reversible Falcon Beater",
-            weight: "4.0 kg (pair)"
+            drive: "Direct Drive (V-Cam)",
+            bearings: "Precision Sealed Bearings",
+            footboard: "Machined Aluminum Longboard",
+            beater: "Trick Beater (adjustable)",
+            weight: "4.1 kg (pair)"
           },
           usedBy: [
-            { name: "Chris Adler", band: "Lamb of God", note: "Direct drive — syncopated groove metal riff-locking precision" }
+            { name: "Chris Adler", band: "Lamb of God", note: "V-Cam direct drive — syncopated groove metal riff-locking precision" }
           ],
           verdict: "The syncopated groove metal standard. Adler's precise, immediate response defines the genre's riff-locking foundation.",
           rating: 4.7,
-          affiliateLink: "https://www.thomann.de/intl/mapex_pf1000tw_falcon_double_pedal.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/trick_pro_v_double_pedal.htm?partner_id=metalforge"
         },
         {
           rank: 2,
@@ -64270,9 +64270,9 @@ For groove metal drummers who want to trace their pedal choice back to the genre
           priceRange: "€150-180",
           tier: "budget",
           driveType: "Direct Drive",
-          description: "For drummers not ready to invest in a full double pedal, the single-pedal Mapex Falcon offers the same direct drive feel as Chris Adler's double pedal setup at a fraction of the cost — a genuine entry point into groove metal's precision, riff-locking response.",
-          pros: ["Same direct drive feel as Adler's pro double pedal", "Budget-friendly single-pedal price", "Convertible footboard"],
-          cons: ["Single pedal only — no double-kick capability", "Build quality below the full Falcon double"],
+          description: "For drummers not ready to invest in a full double pedal, the single-pedal Mapex Falcon offers a similar direct drive feel to Chris Adler's Trick Pro V double pedal setup at a fraction of the cost — a genuine entry point into groove metal's precision, riff-locking response.",
+          pros: ["Similar direct drive feel to Adler's pro double pedal", "Budget-friendly single-pedal price", "Convertible footboard"],
+          cons: ["Single pedal only — no double-kick capability", "Build quality below premium direct-drive doubles"],
           verdict: "Best affordable single-pedal entry into groove metal's precise, direct-drive feel.",
           rating: 4.1,
           affiliateLink: "https://www.thomann.de/intl/mapex_p1000tw_falcon_single_pedal.htm?partner_id=metalforge"
@@ -64297,7 +64297,7 @@ For groove metal drummers who want to trace their pedal choice back to the genre
 
 **The Truth:** Both work for groove metal because the genre is about pocket precision, not top-end speed. Chris Adler nails syncopated Lamb of God riffs on direct drive. Vinnie Paul built the genre's founding sound on chain drive. Your technique and feel for the pocket matter more than the drive system.
 
-**Our Recommendation:** If you're new to groove metal, try both if possible. If buying blind, direct drive (Mapex Falcon or Trick Pro 1-V) gives you the most immediate, riff-locking precision out of the box.`,
+**Our Recommendation:** If you're new to groove metal, try both if possible. If buying blind, direct drive (Trick Pro V or Trick Pro 1-V) gives you the most immediate, riff-locking precision out of the box.`,
       comparisonTable: [
         { feature: "Pocket Precision", directDrive: "⭐⭐⭐⭐⭐", chainDrive: "⭐⭐⭐⭐" },
         { feature: "Natural Feel", directDrive: "⭐⭐⭐", chainDrive: "⭐⭐⭐⭐⭐" },
@@ -64312,7 +64312,7 @@ For groove metal drummers who want to trace their pedal choice back to the genre
       picks: [
         {
           category: "Best Overall",
-          pedal: "Mapex Falcon",
+          pedal: "Trick Pro V",
           reason: "Chris Adler's Lamb of God setup — unmatched precision and riff-locking response for syncopated groove metal."
         },
         {
@@ -64342,7 +64342,7 @@ For groove metal drummers who want to trace their pedal choice back to the genre
     ],
     relatedDrummers: [
       { slug: 'vinnie-paul', name: 'Vinnie Paul', reason: 'ddrum double pedal — Pantera groove metal founding template' },
-      { slug: 'chris-adler', name: 'Chris Adler', reason: 'Mapex Falcon direct drive — Lamb of God syncopated riff precision' },
+      { slug: 'chris-adler', name: 'Chris Adler', reason: 'Trick Pro V direct drive — Lamb of God syncopated riff precision' },
       { slug: 'art-cruz', name: 'Art Cruz', reason: 'Trick Pro 1-V — current Lamb of God riff-locking precision' },
       { slug: 'igor-cavalera', name: 'Igor Cavalera', reason: 'Tama Iron Cobra — Sepultura tribal groove metal pocket' }
     ],
@@ -64350,7 +64350,7 @@ For groove metal drummers who want to trace their pedal choice back to the genre
     // Featured drummers (issue template)
     featuredDrummers: [
       { slug: 'vinnie-paul', name: 'Vinnie Paul', reason: 'ddrum double pedal — Pantera groove metal founding template' },
-      { slug: 'chris-adler', name: 'Chris Adler', reason: 'Mapex Falcon direct drive — Lamb of God syncopated riff precision' },
+      { slug: 'chris-adler', name: 'Chris Adler', reason: 'Trick Pro V direct drive — Lamb of God syncopated riff precision' },
       { slug: 'art-cruz', name: 'Art Cruz', reason: 'Trick Pro 1-V — current Lamb of God riff-locking precision' },
       { slug: 'igor-cavalera', name: 'Igor Cavalera', reason: 'Tama Iron Cobra — Sepultura tribal groove metal pocket' }
     ],
@@ -64359,11 +64359,11 @@ For groove metal drummers who want to trace their pedal choice back to the genre
     faq: [
       {
         question: "Who are the best groove metal drummers and what pedals do they use?",
-        answer: "Vinnie Paul of Pantera built groove metal's founding pedal template on a ddrum double pedal, driving the syncopated double-kick patterns on \"Vulgar Display of Power\" and \"Far Beyond Driven.\" Chris Adler of Lamb of God plays a Mapex Falcon direct drive double pedal, and Art Cruz, Lamb of God's current drummer, plays a Trick Pro 1-V mounted on Gibraltar hardware."
+        answer: "Vinnie Paul of Pantera built groove metal's founding pedal template on a ddrum double pedal, driving the syncopated double-kick patterns on \"Vulgar Display of Power\" and \"Far Beyond Driven.\" Chris Adler of Lamb of God plays a Trick Pro V direct drive double pedal, and Art Cruz, Lamb of God's current drummer, plays a Trick Pro 1-V mounted on Gibraltar hardware."
       },
       {
         question: "What pedal does Chris Adler use?",
-        answer: "Chris Adler of Lamb of God plays a Mapex Falcon direct drive double pedal, delivering the precise, syncopated crack heard on \"Ashes of the Wake,\" \"Sacrament,\" and \"Wrath.\""
+        answer: "Chris Adler of Lamb of God plays a Trick Pro V direct drive double pedal, delivering the precise, syncopated crack heard on \"Ashes of the Wake,\" \"Sacrament,\" and \"Wrath.\""
       },
       {
         question: "Direct drive or chain drive — which is better for groove metal?",
@@ -64371,18 +64371,18 @@ For groove metal drummers who want to trace their pedal choice back to the genre
       },
       {
         question: "Do groove metal pedals need to be fast like death metal pedals?",
-        answer: "Not necessarily. Groove metal's syncopated riffs demand tight, immediate, predictable response more than raw top-end speed. A pedal like the Mapex Falcon or Trick Pro 1-V, tuned for pocket precision, serves groove metal better than a pedal optimized purely for maximum BPM."
+        answer: "Not necessarily. Groove metal's syncopated riffs demand tight, immediate, predictable response more than raw top-end speed. A pedal like the Trick Pro V or Trick Pro 1-V, tuned for pocket precision, serves groove metal better than a pedal optimized purely for maximum BPM."
       },
       {
         question: "Do I need a pro-level pedal to play groove metal?",
-        answer: "No — a Pearl Eliminator Redline or entry-level Tama Iron Cobra 600 will teach real groove metal pocket technique at a fraction of the price of the genre's pro-level setups. Upgrade to a Mapex Falcon or Trick Pro 1-V once your technique and budget allow."
+        answer: "No — a Pearl Eliminator Redline or entry-level Tama Iron Cobra 600 will teach real groove metal pocket technique at a fraction of the price of the genre's pro-level setups. Upgrade to a Trick Pro V or Trick Pro 1-V once your technique and budget allow."
       }
     ],
 
     // Conclusion
     conclusion: {
       title: "Find Your Groove Metal Pedal Feel",
-      content: `Groove metal pedal choice comes down to how precisely you need to land syncopated accents in the pocket. Chris Adler's Mapex Falcon defined the direct-drive standard for Lamb of God's riff-locking grooves. Art Cruz's Trick Pro 1-V proved that V-Cam adjustability and rock-solid Gibraltar mounting can carry that precision into the band's current era. Igor Cavalera's Tama Iron Cobra shows that reliable chain drive still anchors groove metal's tribal pocket, while Vinnie Paul's ddrum pedal remains the genre's founding, thunderous template decades later.
+      content: `Groove metal pedal choice comes down to how precisely you need to land syncopated accents in the pocket. Chris Adler's Trick Pro V defined the direct-drive standard for Lamb of God's riff-locking grooves. Art Cruz's Trick Pro 1-V proved that V-Cam adjustability and rock-solid Gibraltar mounting can carry that precision into the band's current era. Igor Cavalera's Tama Iron Cobra shows that reliable chain drive still anchors groove metal's tribal pocket, while Vinnie Paul's ddrum pedal remains the genre's founding, thunderous template decades later.
 
 None of these approaches is more "correct" — all four represent groove metal's foundational commitment to tight, syncopated pocket precision over raw speed. Start with whichever drive system matches your technique, and remember that landing exactly on the riff matters more than how fast you can play.
 
@@ -83733,13 +83733,13 @@ Budget shouldn't stop you either. A Tama Iron Cobra 600 or DW 3000 Series pedal 
       title: "What Bass Drum Setup Delivers Groove Metal's Punchy, Mid-Tempo Thump?",
       content: `Groove metal's entire identity rests on the bass drum landing with more weight than speed. The genre trades thrash's blast-driven tempo for syncopated, mid-tempo patterns in the 100-140 BPM range, where a single kick hit needs to feel like a hammer blow rather than a blur of notes. That reframes what a bass drum setup needs to deliver: instead of the high-headroom speed a death metal or deathcore kit chases, groove metal rewards maximum low-mid punch, a controlled and immediate response, and a shell voiced for weight rather than rebound.
 
-Vinnie Paul built the genre's founding bass drum tone on a ddrum Vinnie Paul Signature Series 22"x18" bass drum, driven by a straightforward ddrum chain-drive double pedal that anchored Pantera's thunderous, syncopated double-kick patterns on "Vulgar Display of Power" and "Far Beyond Driven." Chris Adler's Mapex Black Panther Design Lab bass drum, paired with his direct-drive Mapex Falcon double pedal, gave Lamb of God's New Wave of American Heavy Metal riffs a tighter, more articulate low end across "Ashes of the Wake" and "Sacrament." Charlie Benante ran a Tama Starclassic Maple bass drum through a vintage Tama HP35 Camco chain-drive pedal from 1984 until 2010, when he finally switched to a Tama Speed Cobra — the same bass drum and pedal family he leaned on in 2022 when he stepped in for Pantera's reunion tour to honor his late friend Vinnie Paul. John Otto's Orange County Drum & Percussion (OCDP) Custom bass drum, driven by a DW 9000 Series double pedal, delivers the deep, hip-hop-influenced pocket that defined Limp Bizkit's rap-metal groove on "Significant Other" and "Chocolate Starfish and the Hot Dog Flavored Water."
+Vinnie Paul built the genre's founding bass drum tone on a ddrum Vinnie Paul Signature Series 22"x18" bass drum, driven by a straightforward ddrum chain-drive double pedal that anchored Pantera's thunderous, syncopated double-kick patterns on "Vulgar Display of Power" and "Far Beyond Driven." Chris Adler's Mapex Black Panther Design Lab bass drum, paired with his direct-drive Trick Pro V double pedal, gave Lamb of God's New Wave of American Heavy Metal riffs a tighter, more articulate low end across "Ashes of the Wake" and "Sacrament." Charlie Benante ran a Tama Starclassic Maple bass drum through a vintage Tama HP35 Camco chain-drive pedal from 1984 until 2010, when he finally switched to a Tama Speed Cobra — the same bass drum and pedal family he leaned on in 2022 when he stepped in for Pantera's reunion tour to honor his late friend Vinnie Paul. John Otto's Orange County Drum & Percussion (OCDP) Custom bass drum, driven by a DW 9000 Series double pedal, delivers the deep, hip-hop-influenced pocket that defined Limp Bizkit's rap-metal groove on "Significant Other" and "Chocolate Starfish and the Hot Dog Flavored Water."
 
 This guide breaks down shell size, head selection, and pedal choice for groove metal bass drums — comparing punchy, pocket-first setups across four drummers whose founding and cross-genre groove metal lineages shaped the genre's thunderous low end, with recommendations from budget to professional touring rigs.`,
       keyPoints: [
         "Vinnie Paul's ddrum Signature bass drum and chain-drive pedal defined groove metal's foundational, thunderous low-end thump",
         "22\" is the groove metal standard shell diameter — deep enough for weight, quick enough to stay locked to the syncopated pocket",
-        "A tight, immediate pedal (ddrum, Mapex Falcon, Tama Speed Cobra, DW 9000) matters more than raw top-end speed for groove metal's mid-tempo riffs",
+        "A tight, immediate pedal (ddrum, Trick Pro V, Tama Speed Cobra, DW 9000) matters more than raw top-end speed for groove metal's mid-tempo riffs",
         "Charlie Benante's decades-long Tama Camco-to-Speed Cobra evolution and 2022 Pantera reunion trace groove metal's bass drum DNA across generations"
       ]
     },
@@ -83763,7 +83763,7 @@ This guide breaks down shell size, head selection, and pedal choice for groove m
         {
           name: "Tight, Predictable Pedal Response",
           icon: "🦶",
-          description: "Chris Adler's direct-drive Mapex Falcon and Vinnie Paul's chain-drive ddrum pedal both prioritize landing exactly on the syncopated beat over sheer top-end speed — precision matters more than velocity when the whole riff depends on one kick hit landing in the pocket.",
+          description: "Chris Adler's direct-drive Trick Pro V and Vinnie Paul's chain-drive ddrum pedal both prioritize landing exactly on the syncopated beat over sheer top-end speed — precision matters more than velocity when the whole riff depends on one kick hit landing in the pocket.",
           recommendation: "A pedal tuned for immediate, predictable response — direct or chain drive both work if it's precise"
         },
         {
@@ -83833,22 +83833,22 @@ The North American maple shell delivers a punchy, full-bodied low end tuned for 
         },
         {
           rank: 2,
-          name: "Mapex Black Panther Design Lab + Mapex Falcon",
+          name: "Mapex Black Panther Design Lab + Trick Pro V",
           brand: "Mapex",
-          model: "Black Panther Design Lab 22\"x18\" + Mapex Falcon Double Pedal",
+          model: "Black Panther Design Lab 22\"x18\" + Trick Pro V Double Pedal",
           image: "https://upload.wikimedia.org/wikipedia/commons/6/6c/Acoustic_Drums_Kit_%2829965183378%29.jpg",
           priceRange: "€700-950",
           tier: "pro",
           material: "Maple/Walnut Hybrid, 22\"x18\" + direct-drive double pedal",
 
-          description: `Chris Adler powers Lamb of God's precision groove attack on a Mapex Black Panther Design Lab 22"x18" bass drum, paired with his direct-drive Mapex Falcon double pedal. The maple/walnut hybrid shell adds midrange bite and articulation to groove metal's typical low-end weight, giving Adler's syncopated, riff-locking patterns a tighter, more defined punch across "Ashes of the Wake" and "Sacrament."
+          description: `Chris Adler powers Lamb of God's precision groove attack on a Mapex Black Panther Design Lab 22"x18" bass drum, paired with his direct-drive Trick Pro V double pedal. The maple/walnut hybrid shell adds midrange bite and articulation to groove metal's typical low-end weight, giving Adler's syncopated, riff-locking patterns a tighter, more defined punch across "Ashes of the Wake" and "Sacrament."
 
-The Falcon's immediate, linear response lets Adler land exactly on the pocket rather than the loosest, fastest possible action — proof that groove metal's technical wing values precision over pure top-end speed.`,
+The Pro V's immediate, linear response lets Adler land exactly on the pocket rather than the loosest, fastest possible action — proof that groove metal's technical wing values precision over pure top-end speed.`,
 
           pros: [
             "Chris Adler's Lamb of God setup — technical groove metal's precision standard",
             "Maple/walnut hybrid shell adds midrange bite and articulation to groove metal's weight",
-            "Mapex Falcon direct drive delivers immediate, linear response for pocket-tight kicks",
+            "Trick Pro V direct drive delivers immediate, linear response for pocket-tight kicks",
             "Design Lab custom configuration options for dialing in exact tone",
             "Proven across Lamb of God's most acclaimed, Grammy-nominated recordings"
           ],
@@ -83861,15 +83861,15 @@ The Falcon's immediate, linear response lets Adler land exactly on the pocket ra
             diameter: "22\"",
             depth: "18\"",
             shell: "8-ply Maple/Walnut Hybrid",
-            pedal: "Mapex Falcon direct-drive double pedal",
+            pedal: "Trick Pro V direct-drive double pedal",
             headRecommendation: "Remo Powerstroke 3"
           },
           usedBy: [
-            { name: "Chris Adler", band: "Lamb of God", note: "22\"x18\" Mapex Black Panther + Falcon — syncopated groove metal riff-locking precision" }
+            { name: "Chris Adler", band: "Lamb of God", note: "22\"x18\" Mapex Black Panther + Trick Pro V — syncopated groove metal riff-locking precision" }
           ],
           verdict: "The technical groove metal standard. Adler's setup delivers power with precise, pocket-tight articulation.",
           rating: 4.7,
-          affiliateLink: "https://www.thomann.de/intl/mapex_black_panther_falcon_bass_drum.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/mapex_black_panther_trick_pro_v_bass_drum.htm?partner_id=metalforge"
         },
         {
           rank: 3,
@@ -83980,9 +83980,9 @@ The OCDP custom shell program lets Otto dial in exactly the deep, punchy tone hi
           priceRange: "€180-250",
           tier: "budget",
           material: "Steel/aluminum chassis",
-          description: "A durable, direct-drive double pedal that gives developing groove metal drummers a genuinely reliable platform for building syncopated pocket precision before upgrading to a signature-tier pedal like the Falcon or Speed Cobra.",
+          description: "A durable, direct-drive double pedal that gives developing groove metal drummers a genuinely reliable platform for building syncopated pocket precision before upgrading to a signature-tier pedal like the Trick Pro V or Speed Cobra.",
           pros: ["Durable direct-drive action at a budget price", "Widely regarded as an entry point into pro-caliber double pedals", "Adjustable beater angle for developing pocket-first technique"],
-          cons: ["Heavier feel than premium direct-drive pedals", "Less top-end speed ceiling than the Falcon or Speed Cobra"],
+          cons: ["Heavier feel than premium direct-drive pedals", "Less top-end speed ceiling than the Trick Pro V or Speed Cobra"],
           verdict: "Best budget double pedal for developing groove metal's syncopated, pocket-tight footwork.",
           rating: 4.0,
           affiliateLink: "https://www.thomann.de/intl/tama_iron_cobra_900_double.htm?partner_id=metalforge"
@@ -83992,7 +83992,7 @@ The OCDP custom shell program lets Otto dial in exactly the deep, punchy tone hi
 
     // Comparison
     comparison: {
-      title: "ddrum vs Mapex Falcon vs Tama Speed Cobra vs DW 9000 for Groove Metal",
+      title: "ddrum vs Trick Pro V vs Tama Speed Cobra vs DW 9000 for Groove Metal",
       content: `Shell size stays consistent at 22\"x18\" across groove metal's founding and cross-genre lineage, but pedal choice splits these drummers into distinct camps. Here's how they compare:
 
 **ddrum Double Pedal (Vinnie Paul):**
@@ -84000,7 +84000,7 @@ The OCDP custom shell program lets Otto dial in exactly the deep, punchy tone hi
 - Groove metal's founding pedal template
 - Best for classic, Pantera-style syncopated grooves
 
-**Mapex Falcon (Chris Adler):**
+**Trick Pro V (Chris Adler):**
 - Direct-drive action for immediate, linear response on syncopated accents
 - Proven across Lamb of God's most technically demanding recordings
 - Best for drummers prioritizing precision and articulation over raw weight
@@ -84015,7 +84015,7 @@ The OCDP custom shell program lets Otto dial in exactly the deep, punchy tone hi
 - Proven across Limp Bizkit's biggest-selling rap-metal records
 - Best for groove metal's cross-genre, pocket-first wing
 
-**Our Recommendation:** Start with a Pearl Export shell and a Tama Iron Cobra 900 double pedal if you're building groove metal technique on a budget. Choose the Mapex Falcon if your priority is syncopated, riff-locking precision. Go with the ddrum Signature setup if you want the genre's founding, thunderous tone.`,
+**Our Recommendation:** Start with a Pearl Export shell and a Tama Iron Cobra 900 double pedal if you're building groove metal technique on a budget. Choose the Trick Pro V if your priority is syncopated, riff-locking precision. Go with the ddrum Signature setup if you want the genre's founding, thunderous tone.`,
       comparisonTable: [
         { feature: "Low-End Punch", maple: "⭐⭐⭐⭐⭐", hybrid: "⭐⭐⭐⭐", dual: "⭐⭐⭐⭐" },
         { feature: "Pocket Precision", maple: "⭐⭐⭐⭐", hybrid: "⭐⭐⭐⭐⭐", dual: "⭐⭐⭐⭐" },
@@ -84035,7 +84035,7 @@ The OCDP custom shell program lets Otto dial in exactly the deep, punchy tone hi
         },
         {
           category: "Best for Technical Precision",
-          pedal: "Mapex Black Panther Design Lab + Mapex Falcon",
+          pedal: "Mapex Black Panther Design Lab + Trick Pro V",
           reason: "Chris Adler's Lamb of God setup — syncopated, riff-locking articulation with real low-end weight."
         },
         {
@@ -84059,7 +84059,7 @@ The OCDP custom shell program lets Otto dial in exactly the deep, punchy tone hi
     ],
     relatedDrummers: [
       { slug: 'vinnie-paul', name: 'Vinnie Paul', reason: 'ddrum Vinnie Paul Signature + chain-drive pedal — Pantera groove metal founding tone' },
-      { slug: 'chris-adler', name: 'Chris Adler', reason: 'Mapex Black Panther + Falcon — Lamb of God syncopated riff precision' },
+      { slug: 'chris-adler', name: 'Chris Adler', reason: 'Mapex Black Panther + Trick Pro V — Lamb of God syncopated riff precision' },
       { slug: 'charlie-benante', name: 'Charlie Benante', reason: 'Tama Starclassic + Speed Cobra — Anthrax/Pantera groove metal legacy' },
       { slug: 'john-otto', name: 'John Otto', reason: 'OCDP Custom + DW 9000 — Limp Bizkit\'s hip-hop-influenced groove pocket' }
     ],
@@ -84067,7 +84067,7 @@ The OCDP custom shell program lets Otto dial in exactly the deep, punchy tone hi
     // Featured drummers (issue template)
     featuredDrummers: [
       { slug: 'vinnie-paul', name: 'Vinnie Paul', reason: 'ddrum Vinnie Paul Signature + chain-drive pedal — Pantera groove metal founding tone' },
-      { slug: 'chris-adler', name: 'Chris Adler', reason: 'Mapex Black Panther + Falcon — Lamb of God syncopated riff precision' },
+      { slug: 'chris-adler', name: 'Chris Adler', reason: 'Mapex Black Panther + Trick Pro V — Lamb of God syncopated riff precision' },
       { slug: 'charlie-benante', name: 'Charlie Benante', reason: 'Tama Starclassic + Speed Cobra — Anthrax/Pantera groove metal legacy' },
       { slug: 'john-otto', name: 'John Otto', reason: 'OCDP Custom + DW 9000 — Limp Bizkit\'s hip-hop-influenced groove pocket' }
     ],
@@ -84076,11 +84076,11 @@ The OCDP custom shell program lets Otto dial in exactly the deep, punchy tone hi
     faq: [
       {
         question: "Who are the best groove metal drummers and what bass drum setups do they use?",
-        answer: "Vinnie Paul of Pantera played a ddrum Vinnie Paul Signature Series 22x18\" bass drum with a chain-drive ddrum double pedal. Chris Adler of Lamb of God plays a Mapex Black Panther Design Lab bass drum with a Mapex Falcon double pedal, Charlie Benante of Anthrax runs a Tama Starclassic Maple bass drum with a Tama Speed Cobra, and John Otto of Limp Bizkit plays an OCDP Custom bass drum with a DW 9000 double pedal."
+        answer: "Vinnie Paul of Pantera played a ddrum Vinnie Paul Signature Series 22x18\" bass drum with a chain-drive ddrum double pedal. Chris Adler of Lamb of God plays a Mapex Black Panther Design Lab bass drum with a Trick Pro V double pedal, Charlie Benante of Anthrax runs a Tama Starclassic Maple bass drum with a Tama Speed Cobra, and John Otto of Limp Bizkit plays an OCDP Custom bass drum with a DW 9000 double pedal."
       },
       {
         question: "What bass drum pedal handles groove metal's syncopated pocket best?",
-        answer: "Chris Adler's Mapex Falcon delivers immediate, linear response for landing syncopated accents exactly on the beat, while Vinnie Paul's ddrum chain-drive pedal and Charlie Benante's Tama Speed Cobra prove that a tight, reliable pedal — direct or chain drive — serves groove metal's mid-tempo pocket just as well as raw speed does."
+        answer: "Chris Adler's Trick Pro V delivers immediate, linear response for landing syncopated accents exactly on the beat, while Vinnie Paul's ddrum chain-drive pedal and Charlie Benante's Tama Speed Cobra prove that a tight, reliable pedal — direct or chain drive — serves groove metal's mid-tempo pocket just as well as raw speed does."
       },
       {
         question: "What bass drum size is best for groove metal?",
@@ -84092,18 +84092,18 @@ The OCDP custom shell program lets Otto dial in exactly the deep, punchy tone hi
       },
       {
         question: "Do I need a pro-level pedal to play groove metal?",
-        answer: "No — a Tama Iron Cobra 900 double pedal on a Pearl Export bass drum will teach real pocket-first technique at a fraction of the price of the genre's professional ddrum, Falcon, and Speed Cobra setups. Upgrade once your precision and touring demands require it."
+        answer: "No — a Tama Iron Cobra 900 double pedal on a Pearl Export bass drum will teach real pocket-first technique at a fraction of the price of the genre's professional ddrum, Trick Pro V, and Speed Cobra setups. Upgrade once your precision and touring demands require it."
       }
     ],
 
     // Conclusion
     conclusion: {
       title: "Find Your Groove Metal Bass Drum Setup",
-      content: `Groove metal bass drum choice comes down to how much weight and pocket precision your riffs demand. Vinnie Paul's ddrum Signature bass drum and chain-drive pedal defined the thunderous, gated tone the genre still measures itself against. Chris Adler's Mapex Black Panther and Falcon setup shows how technical, syncopated groove metal rewards precision without sacrificing low-end weight. Charlie Benante's decades-long Tama Starclassic and Speed Cobra setup — the same family of gear he leaned on filling in for Pantera in 2022 — traces a direct line from thrash into groove metal's founding legacy, while John Otto's OCDP Custom and DW 9000 rig proves the genre's pocket-first philosophy extends well beyond straightforward metal into nu-metal's hip-hop-influenced groove.
+      content: `Groove metal bass drum choice comes down to how much weight and pocket precision your riffs demand. Vinnie Paul's ddrum Signature bass drum and chain-drive pedal defined the thunderous, gated tone the genre still measures itself against. Chris Adler's Mapex Black Panther and Trick Pro V setup shows how technical, syncopated groove metal rewards precision without sacrificing low-end weight. Charlie Benante's decades-long Tama Starclassic and Speed Cobra setup — the same family of gear he leaned on filling in for Pantera in 2022 — traces a direct line from thrash into groove metal's founding legacy, while John Otto's OCDP Custom and DW 9000 rig proves the genre's pocket-first philosophy extends well beyond straightforward metal into nu-metal's hip-hop-influenced groove.
 
 None of these approaches is more "correct" — all four represent groove metal's founding commitment to combining weight with pocket precision. Start with whichever pedal action matches your footwork technique, and don't be afraid to prioritize reliability over chasing extreme-metal speed numbers.
 
-Budget shouldn't stop you either. A Pearl Export bass drum with a Tama Iron Cobra 900 double pedal will teach real pocket-first technique and survive demanding practice while you save toward the ddrum, Falcon, Speed Cobra, or DW 9000 setups that defined this lineage's most influential records.
+Budget shouldn't stop you either. A Pearl Export bass drum with a Tama Iron Cobra 900 double pedal will teach real pocket-first technique and survive demanding practice while you save toward the ddrum, Trick Pro V, Speed Cobra, or DW 9000 setups that defined this lineage's most influential records.
 
 🤘 **Now go lock in that pocket.**`
     }

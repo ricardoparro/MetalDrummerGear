@@ -610,7 +610,6 @@ Gene Hoglan of Death and Testament relies on Evans for the focused, powerful ton
           },
           usedBy: [
             { name: "Gene Hoglan", band: "Death / Testament", note: "The Atomic Clock's head of choice" },
-            { name: "Tomas Haake", band: "Meshuggah", note: "Evans G2 for attack and control" },
             { name: "Matt Greiner", band: "August Burns Red", note: "Progressive metalcore tone" },
             { name: "Chris Adler", band: "Lamb of God", note: "Groove metal precision" }
           ],
@@ -630,7 +629,7 @@ Gene Hoglan of Death and Testament relies on Evans for the focused, powerful ton
 
           description: `The Evans EC2 Coated takes the G2 formula and adds the Sound Shaping Technology (SST) edge control ring — a thin dampening ring at the perimeter that dramatically reduces overtones and tightens sustain. The result is an even more focused, punchy attack that's perfect for technical metal where you need every note to speak clearly.
 
-Tomas Haake of Meshuggah has used EC2 heads to achieve the ultra-precise, controlled tom tones that define Meshuggah's mechanical groove. The reduced overtones mean the complex polyrhythmic patterns remain articulate even at extreme volumes. For modern metal production where tight, controlled tones are preferred, the EC2 is hard to beat.`,
+Metal drummers chasing Meshuggah-style mechanical precision reach for this head specifically for its ultra-controlled tom tones — the reduced overtones mean complex polyrhythmic patterns remain articulate even at extreme volumes. For modern metal production where tight, controlled tones are preferred, the EC2 is hard to beat.`,
 
           pros: [
             "SST edge ring reduces overtones dramatically",
@@ -922,7 +921,7 @@ The black coating gives the Onyx a distinctive look that matches its personality
     relatedDrummers: [
       { slug: 'lars-ulrich', name: 'Lars Ulrich', reason: 'Remo endorser, defining metal head tone' },
       { slug: 'gene-hoglan', name: 'Gene Hoglan', reason: 'The Atomic Clock — precision head control' },
-      { slug: 'tomas-haake', name: 'Tomas Haake', reason: 'EC2 user for ultra-controlled Meshuggah tone' },
+      { slug: 'tomas-haake', name: 'Tomas Haake', reason: 'Remo endorser — ultra-controlled Meshuggah tone' },
       { slug: 'nicko-mcbrain', name: 'Nicko McBrain', reason: 'Remo endorser — classic heavy metal tone' },
       { slug: 'mike-mangini', name: 'Mike Mangini', reason: 'Remo endorser with dynamic control' }
     ],
@@ -930,14 +929,14 @@ The black coating gives the Onyx a distinctive look that matches its personality
     featuredDrummers: [
       { slug: 'lars-ulrich', name: 'Lars Ulrich', reason: 'Remo endorser — defining metal drum head tone across Metallica\'s career' },
       { slug: 'gene-hoglan', name: 'Gene Hoglan', reason: 'The Atomic Clock — Evans double-ply for precision control' },
-      { slug: 'tomas-haake', name: 'Tomas Haake', reason: 'Evans EC2 — ultra-controlled polyrhythmic Meshuggah tone' }
+      { slug: 'tomas-haake', name: 'Tomas Haake', reason: 'Remo Coated Emperor — ultra-controlled polyrhythmic Meshuggah tone' }
     ],
 
     // FAQ section for SEO
     faq: [
       {
         question: "What drum heads do metal drummers use?",
-        answer: "Most professional metal drummers use double-ply coated heads, primarily Evans G2 Coated or Remo Emperor Coated for toms and snare. Gene Hoglan and Tomas Haake use Evans. Lars Ulrich, Nicko McBrain, and Mike Mangini use Remo. The double-ply construction provides the attack, durability, and natural sustain control that metal demands."
+        answer: "Most professional metal drummers use double-ply coated heads, primarily Evans G2 Coated or Remo Emperor Coated for toms and snare. Gene Hoglan uses Evans. Lars Ulrich, Nicko McBrain, Mike Mangini, and Tomas Haake use Remo. The double-ply construction provides the attack, durability, and natural sustain control that metal demands."
       },
       {
         question: "Should I use coated or clear heads for metal?",
@@ -1022,7 +1021,7 @@ This guide breaks down exactly which drum heads deliver the tight, controlled, d
       keyPoints: [
         "Djent prioritizes control and instant decay over open sustain",
         "Built-in muffling rings (Evans EC2 SST, Remo Emperor X) are the genre standard",
-        "Evans and Remo dominate the djent drummer roster — Tomas Haake, Matt Halpern, Matt Garstka, and Blake Richardson all use one or the other",
+        "Evans and Remo dominate the djent drummer roster — Tomas Haake uses Remo, while Matt Halpern, Matt Garstka, and Blake Richardson use Evans",
         "Kick drum heads matter as much as toms — EMAD-style muffled heads keep low end tight under palm-muted riffing"
       ]
     },
@@ -1108,8 +1107,7 @@ Blake Richardson of Between the Buried and Me runs EC2 SST on his toms specifica
             sizes: "8\" to 18\""
           },
           usedBy: [
-            { name: "Blake Richardson", band: "Between the Buried and Me", note: "EC2 SST on toms for controlled prog-djent fills" },
-            { name: "Tomas Haake", band: "Meshuggah", note: "Evans EC2 for ultra-controlled polyrhythmic attack" }
+            { name: "Blake Richardson", band: "Between the Buried and Me", note: "EC2 SST on toms for controlled prog-djent fills" }
           ],
           verdict: "The definitive controlled-attack head for djent toms. Start here if your kit sounds too ringy for modern production.",
           rating: 4.8,
@@ -10377,7 +10375,7 @@ For djent drummers who value DW's hardware precision and brand reputation but ca
       },
       {
         question: "What tuning should I use for djent drums?",
-        answer: "Djent typically uses medium-low to medium tuning with significant damping for a focused, dry tone. Tomas Haake's kick and tom sound is notably controlled — achieved through low-to-medium tuning and Evans EC2 heads with dampening rings. Avoid overly loose tuning that creates sustained ringing (gates can't fix bad tuning) and avoid overly tight tuning that loses body. Practice tuning by ear to match reference recordings from Meshuggah and Periphery."
+        answer: "Djent typically uses medium-low to medium tuning with significant damping for a focused, dry tone. Tomas Haake's kick and tom sound is notably controlled — achieved through low-to-medium tuning and Remo Coated Emperor heads with dampening rings. Avoid overly loose tuning that creates sustained ringing (gates can't fix bad tuning) and avoid overly tight tuning that loses body. Practice tuning by ear to match reference recordings from Meshuggah and Periphery."
       }
     ],
 

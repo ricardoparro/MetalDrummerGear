@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-09-17 21:59 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-09-18 03:16 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,44 +8,44 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 373 |
-| Sessions | 416 |
-| Page views | 735 |
-| Engagement rate | 52.88% |
+| Active users | 338 |
+| Sessions | 377 |
+| Page views | 613 |
+| Engagement rate | 51.99% |
 | Avg session (s) | 116 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
-| / | 44 | 17 |
-| /techniques | 29 | 3 |
-| /drummers | 24 | 7 |
-| /drummer/frost | 21 | 4 |
-| /drummer/joey-jordison | 17 | 8 |
-| /tools | 16 | 3 |
-| /drummer/mario-duplantier | 15 | 11 |
-| /drummer/bill-ward | 13 | 7 |
-| /drummer/jay-weinberg | 11 | 7 |
+| / | 40 | 16 |
+| /techniques | 23 | 2 |
+| /drummers | 22 | 6 |
+| /drummer/frost | 19 | 2 |
+| /drummer/mario-duplantier | 13 | 9 |
 | /drummer/abe-cunningham | 9 | 1 |
+| /drummer/bill-ward | 9 | 6 |
+| /drummer/danny-carey | 9 | 8 |
+| /drummer/eloy-casagrande | 8 | 6 |
+| /drummer/jaska-raatikainen | 8 | 7 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 294 | 259 |
-| Direct | 104 | 102 |
-| Unassigned | 43 | 37 |
-| Cross-network | 4 | 4 |
+| Organic Search | 265 | 233 |
+| Direct | 93 | 91 |
+| Unassigned | 48 | 43 |
+| Cross-network | 6 | 6 |
 | AI Assistant | 1 | 1 |
 | Referral | 1 | 1 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 156 | 140 |
-| Singapore | 32 | 32 |
-| China | 25 | 25 |
-| United Kingdom | 22 | 12 |
-| Germany | 20 | 18 |
+| United States | 136 | 121 |
+| Singapore | 31 | 31 |
+| China | 24 | 24 |
+| United Kingdom | 21 | 12 |
+| Germany | 19 | 17 |
 | Canada | 13 | 12 |
 | France | 12 | 12 |
 | Brazil | 11 | 10 |
@@ -55,8 +55,8 @@
 ## Search Console — Search performance
 | Metric | Last 7d |
 | --- | --- |
-| Impressions | 9,471 |
-| Clicks | 202 |
+| Impressions | 7,889 |
+| Clicks | 168 |
 | CTR | 2.13% |
 | Avg position | 7.5 |
 
@@ -65,35 +65,34 @@
 | --- | --- | --- | --- | --- |
 | arin ilejay drum kit | 1 | 1 | 100.00% | 1.0 |
 | best crash cymbals for metal | 2 | 1 | 50.00% | 6.5 |
-| best drumsticks for blast beats | 9 | 1 | 11.11% | 8.9 |
-| best metal drummer ever | 3 | 1 | 33.33% | 16.3 |
-| danny carey drum set | 101 | 1 | 0.99% | 10.4 |
-| eloy casagrande tama | 2 | 1 | 50.00% | 8.0 |
-| flo mounier | 94 | 1 | 1.06% | 9.1 |
+| best drumsticks for blast beats | 7 | 1 | 14.29% | 10.1 |
+| danny carey drum set | 83 | 1 | 1.20% | 10.5 |
+| flo mounier | 81 | 1 | 1.23% | 9.1 |
 | gravity blast | 5 | 1 | 20.00% | 10.0 |
 | is abe cunningham a good drummer | 1 | 1 | 100.00% | 7.0 |
 | jay weinberg drum setup | 16 | 1 | 6.25% | 9.8 |
+| joey jordison drumkit | 6 | 1 | 16.67% | 5.2 |
+| joey jordison kit | 12 | 1 | 8.33% | 8.8 |
 
 ### Top countries (impressions, last 7d)
 | Country | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| usa | 3,421 | 71 | 2.08% | 7.8 |
-| deu | 372 | 11 | 2.96% | 7.0 |
-| can | 486 | 9 | 1.85% | 8.4 |
-| aus | 455 | 8 | 1.76% | 8.5 |
-| fin | 133 | 8 | 6.02% | 7.0 |
-| esp | 99 | 7 | 7.07% | 6.4 |
-| gbr | 581 | 7 | 1.20% | 8.1 |
-| ita | 195 | 7 | 3.59% | 6.5 |
-| bra | 304 | 6 | 1.97% | 6.9 |
-| fra | 236 | 6 | 2.54% | 7.2 |
+| usa | 2,867 | 59 | 2.06% | 7.9 |
+| deu | 316 | 9 | 2.85% | 7.0 |
+| aus | 373 | 8 | 2.14% | 8.1 |
+| fin | 116 | 8 | 6.90% | 7.0 |
+| bra | 247 | 6 | 2.43% | 6.9 |
+| can | 408 | 6 | 1.47% | 8.5 |
+| esp | 79 | 6 | 7.59% | 6.0 |
+| gbr | 497 | 6 | 1.21% | 8.2 |
+| fra | 194 | 5 | 2.58% | 7.2 |
+| swe | 134 | 5 | 3.73% | 7.2 |
 
 ### 🎯 Content-gap queries (impr ≥50, CTR <2%) — CEO MUST address
 | Query | Impr | CTR | Pos | Action |
 | --- | --- | --- | --- | --- |
-| danny carey drum set | 101 | 0.99% | 10.4 | open issue to answer better |
-| flo mounier | 94 | 1.06% | 9.1 | open issue to answer better |
-| mario duplantier drum kit | 109 | 0.92% | 7.0 | open issue to answer better |
+| danny carey drum set | 83 | 1.20% | 10.5 | open issue to answer better |
+| flo mounier | 81 | 1.23% | 9.1 | open issue to answer better |
 
 ---
 *Re-run manually: `node .agents/scripts/fetch-metrics.cjs`*

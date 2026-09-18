@@ -3474,16 +3474,17 @@ This guide breaks down the drum heads that deliver technical death metal's deman
           tier: "pro",
           material: "2-Ply Coated (10mil + 10mil)",
 
-          description: `George Kollias has run heads in the Remo Emperor family on his Pearl Masterworks kit with Nile since 2004, engineered specifically for the clarity his 240+ BPM blast beats demand over a full set. The double-ply construction holds up to that level of sustained speed while staying articulate enough that individual strokes never blur together.
+          description: `George Kollias has run Evans heads on his Pearl Masterworks kit with Nile since 2004, chasing the same clarity his 240+ BPM blast beats demand over a full set.
+This pick delivers that same order of double-ply durability and holds up to that level of sustained speed while staying articulate enough that individual strokes never blur together.
 
-It's the closest thing technical death metal has to a signature head — durable enough for the genre's endurance demands, controlled enough to keep gravity blasts and odd-meter fills readable at tempo.`,
+It's one of technical death metal's most trusted heads — durable enough for the genre's endurance demands, controlled enough to keep gravity blasts and odd-meter fills readable at tempo.`,
 
           pros: [
             "Durable double-ply construction survives sustained blast beat playing",
             "Stays articulate at 240+ BPM without losing definition",
             "Warmer, more musical voice than heavily muffled alternatives",
             "Works well as both snare batter and tom head",
-            "Proven at the professional level via George Kollias's Nile setup since 2004"
+            "Delivers the same order of durability pro drummers like George Kollias rely on with their Evans setups"
           ],
           cons: [
             "Slightly less controlled than SST-ring heads for maximum-dry studio tone",
@@ -3498,7 +3499,7 @@ It's the closest thing technical death metal has to a signature head — durable
             sizes: "6\" to 26\""
           },
           usedBy: [
-            { name: "George Kollias", band: "Nile", note: "Remo-family heads engineered for 240+ BPM blast beat clarity since 2004" }
+            { name: "Technical death metal drummers seeking maximum durability", band: "Various", note: "Double-ply Emperor construction built for 240+ BPM blast beat survival" }
           ],
           verdict: "The definitive technical death metal head. Start here if your kit needs to survive sustained blast beats at speed.",
           rating: 4.8,
@@ -3735,15 +3736,14 @@ It's a durable specialist option for drummers whose technical death metal leans 
       content: `Both major head brands can deliver technical death metal's demanding combination of speed, articulation, and durability, but they get there differently.
 
 **Remo:**
-- Emperor is the genre's durable, articulate standard — George Kollias's choice since 2004
+- Emperor is the genre's durable, articulate standard for drummers wanting maximum blast-beat survivability
 - Ambassador gives an honest, single-ply rebound sensitivity for drummers building technique
-- Preferred by: George Kollias
 
 **Evans:**
 - EC2 SST delivers near-instant, controlled decay for the most compositionally complex, odd-meter material
 - EC Reverse Dot gives the honest rebound sensitivity gravity-blast technique depends on
 - G2 Coated balances warmth, durability, and low-end weight for dense, bass-heavy blast beats
-- Preferred by: Hannes Grossmann, Flo Mounier, Derek Roddy
+- Preferred by: George Kollias, Hannes Grossmann, Flo Mounier, Derek Roddy
 
 **Our Take:** Remo Coated Emperor is technical death metal's true reference tone — durable and articulate enough to survive sustained blast beats at 240+ BPM. Evans EC2 SST is the pick for the genre's most compositionally complex, classically-informed corners, and Evans EC Reverse Dot remains essential for anyone building gravity-blast technique.`,
       comparisonTable: [
@@ -3762,7 +3762,7 @@ It's a durable specialist option for drummers whose technical death metal leans 
         {
           category: "Best Overall",
           pedal: "Remo Coated Emperor",
-          reason: "George Kollias's Nile choice since 2004 — durable, articulate clarity at 240+ BPM blast beats."
+          reason: "The genre's durable, articulate reference tone — proven across sustained blast beats at 240+ BPM."
         },
         {
           category: "Best for Complex Compositions",
@@ -3790,14 +3790,14 @@ It's a durable specialist option for drummers whose technical death metal leans 
       'best-drum-heads-for-death-metal'
     ],
     relatedDrummers: [
-      { slug: 'george-kollias', name: 'George Kollias', reason: 'Remo Emperor — Nile\'s surgical clarity at 240+ BPM blast beats' },
+      { slug: 'george-kollias', name: 'George Kollias', reason: 'Evans — Nile\'s surgical clarity at 240+ BPM blast beats' },
       { slug: 'hannes-grossmann', name: 'Hannes Grossmann', reason: 'Evans EC2 SST — classically-informed, odd-meter precision' },
       { slug: 'flo-mounier', name: 'Flo Mounier', reason: 'Evans EC Reverse Dot — gravity-blast technique since 2012' },
       { slug: 'derek-roddy', name: 'Derek Roddy', reason: 'Evans G2 Coated — blistering speed without sacrificing weight' }
     ],
 
     featuredDrummers: [
-      { slug: 'george-kollias', name: 'George Kollias', reason: 'Remo Emperor — the genre\'s defining blast-beat-durable tone since 2004' },
+      { slug: 'george-kollias', name: 'George Kollias', reason: 'Evans — the genre\'s defining blast-beat-durable tone since 2004' },
       { slug: 'hannes-grossmann', name: 'Hannes Grossmann', reason: 'Evans EC2 SST — controlled precision for odd-meter composition' },
       { slug: 'flo-mounier', name: 'Flo Mounier', reason: 'Evans EC Reverse Dot — the rebound sensitivity gravity-blast technique depends on' }
     ],
@@ -3806,7 +3806,7 @@ It's a durable specialist option for drummers whose technical death metal leans 
     faq: [
       {
         question: "What drum heads do technical death metal drummers use?",
-        answer: "Technical death metal drummers favor durable, articulate heads across both Remo and Evans. George Kollias has run Remo-family heads on his Nile kit since 2004, Hannes Grossmann uses Evans EC2 SST for Obscura and Alkaloid's odd-meter precision, Flo Mounier relies on the responsive Evans EC Reverse Dot for gravity-blast technique, and Derek Roddy uses Evans G2 for Hate Eternal and Nile's bass-heavy blast beats."
+        answer: "Technical death metal drummers overwhelmingly favor Evans for durable, articulate heads. George Kollias has run Evans heads on his Nile kit since 2004, Hannes Grossmann uses Evans EC2 SST for Obscura and Alkaloid's odd-meter precision, Flo Mounier relies on the responsive Evans EC Reverse Dot for gravity-blast technique, and Derek Roddy uses Evans G2 for Hate Eternal and Nile's bass-heavy blast beats."
       },
       {
         question: "Why do technical death metal drummers need such durable drum heads?",
@@ -3829,7 +3829,7 @@ It's a durable specialist option for drummers whose technical death metal leans 
     // Conclusion
     conclusion: {
       title: "Build Your Technical Death Metal Head Setup",
-      content: `Technical death metal asks more endurance and precision of a drum head than almost any other extreme metal subgenre — durable enough to survive sustained blast beats at 240+ BPM, articulate enough to keep odd-meter fills readable at speed. Remo Coated Emperor is the single best starting point, giving you George Kollias's proven, durable foundation.
+      content: `Technical death metal asks more endurance and precision of a drum head than almost any other extreme metal subgenre — durable enough to survive sustained blast beats at 240+ BPM, articulate enough to keep odd-meter fills readable at speed. Remo Coated Emperor is the single best starting point, giving you a proven, durable double-ply foundation for that workload.
 
 For the genre's most compositionally complex, classically-informed corners, Evans EC2 SST delivers Hannes Grossmann's controlled precision. If your technique depends on rebound sensitivity, gravity blasts included, Evans EC Reverse Dot is Flo Mounier's essential choice, and Derek Roddy's Evans G2 keeps bass-heavy blast beats carrying real weight at blistering tempos.
 

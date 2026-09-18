@@ -103231,13 +103231,13 @@ Whatever you choose: dial in your tension for the buried stroke first, then buil
       title: "Why Doom Metal Needs Footboard Weight, Not Footboard Speed",
       content: `Doom metal is the one corner of metal drumming where a bass drum pedal's job has almost nothing to do with speed. A crawling 60 BPM riff doesn't need a pedal that fires sixteenth notes — it needs one that delivers full, controlled weight on every single downbeat, with a footboard that gives you real feedback on exactly how hard you're driving the beater into the head. Pedals tuned purely for blast-beat velocity often feel skittish and light underfoot at doom tempos, which is the opposite of what the genre's crushing, riff-locked hits demand.
 
-Mario Duplantier doesn't even run a linked double pedal with Gojira — he drives the band's two separate 22"x18" bass drums with a pair of independent Tama Iron Cobra 900 Power Glide pedals, giving each kick fully independent tension and timing for the tectonic weight of "From Mars to Sirius" and "Magma." Igor Cavalera's Tama Iron Cobra double pedal carries Sepultura and Cavalera Conspiracy's down-tuned, tribal-influenced heaviness with a controlled, tonnage-first response. Danny Carey holds Tool's massive touring rig together on Tama Iron Cobra pedals built for dependable weight through long, patient compositions, while Brann Dailor proves Mastodon's riff-locked doom-sludge grooves don't even need a double pedal — a single Tama Speed Cobra handles it.
+Mario Duplantier doesn't even run a linked double pedal with Gojira — he drives the band's two separate 22"x18" bass drums with a pair of independent Tama Iron Cobra 900 Power Glide pedals, giving each kick fully independent tension and timing for the tectonic weight of "From Mars to Sirius" and "Magma." Igor Cavalera's Tama Iron Cobra double pedal carries Sepultura and Cavalera Conspiracy's down-tuned, tribal-influenced heaviness with a controlled, tonnage-first response. Danny Carey holds Tool's massive touring rig together on a Sonor Giant Step Twin Effect double pedal built for dependable weight through long, patient compositions, while Brann Dailor proves Mastodon's riff-locked doom-sludge grooves don't even need a double pedal — a single Tama Speed Cobra handles it.
 
 This guide breaks down exactly what footboard feel, spring tension, and beater mass mean for doom metal specifically, with pedal recommendations across every budget — from a first single pedal to the pro-level double and dual-independent setups behind the genre's heaviest records.`,
       keyPoints: [
         "Doom metal rewards footboard weight and controlled impact over raw double-bass speed",
         "Mario Duplantier drives Gojira's dual kicks with two independent Tama Iron Cobra 900 Power Glide pedals, not a linked double pedal",
-        "Igor Cavalera's and Danny Carey's Tama Iron Cobra pedals both prioritize reliable, weighted response",
+        "Igor Cavalera's Tama Iron Cobra and Danny Carey's Sonor Giant Step Twin Effect pedals both prioritize reliable, weighted response",
         "Brann Dailor proves a single pedal can carry an entire doom-sludge catalog when material is riff-locked rather than double-kick-driven"
       ]
     },
@@ -103359,40 +103359,40 @@ The Rolling Glide bearings keep the action smooth even at heavier spring tension
         },
         {
           rank: 3,
-          name: "Tama Iron Cobra 900",
-          brand: "Tama",
-          model: "HP900LWN Iron Cobra 900",
+          name: "Sonor Giant Step Twin Effect",
+          brand: "Sonor",
+          model: "Giant Step Twin Effect Double Pedal",
           image: "https://upload.wikimedia.org/wikipedia/commons/7/74/Dixon-double-pedal.jpg",
-          priceRange: "€400-480",
-          tier: "pro",
+          priceRange: "€500-650",
+          tier: "premium",
           driveType: "Chain Drive",
-          description: `Danny Carey runs standard Tama Iron Cobra pedals across Tool's massive, dual-kick, eight-tom touring rig, where dependable, weighted response matters far more than raw top speed. The LiteSprocket chain and adjustable cam let him hold a patient, deliberate feel through long, slowly evolving compositions where restraint itself is the emotional device — the same discipline doom metal's best drummers apply.
+          description: `Danny Carey runs a Sonor Giant Step Twin Effect double pedal across Tool's massive, dual-kick, eight-tom touring rig, where dependable, weighted response matters far more than raw top speed. Part of the same architecturally complex SQ2 platform behind his kit, it holds a patient, deliberate feel through long, slowly evolving compositions where restraint itself is the emotional device — the same discipline doom metal's best drummers apply.
 
 A pedal doesn't need extreme-speed specs to anchor a demanding rig; it needs to feel exactly the same on the last song of a two-hour set as it did on the first.`,
           pros: [
             "Danny Carey's Tool setup — consistent, dependable response on a massive touring rig",
-            "LiteSprocket reduces weight without sacrificing power",
-            "Adjustable cam for balancing feel and impact",
+            "Integrates seamlessly with Sonor's SQ2 hardware ecosystem",
+            "Precision sealed bearings for long-term consistency",
             "Proven reliability across large-format, demanding touring configurations"
           ],
           cons: [
-            "Chain drive limits ultimate top-end speed versus direct drive options",
-            "Standard cam lacks the Power Glide's extra smoothness",
-            "Heavier than pure speed-focused pedals"
+            "Premium price point",
+            "Tied to Sonor's hardware ecosystem for full integration",
+            "Less widely available than major chain-drive alternatives"
           ],
           specs: {
-            drive: "Chain (LiteSprocket)",
-            cam: "Standard adjustable cam",
-            frame: "Die-cast aluminum",
-            beater: "Reversible Iron Cobra beater",
-            footboard: "Standard length"
+            drive: "Chain Drive",
+            bearings: "Precision sealed bearings",
+            footboard: "Sonor Giant Step design",
+            beater: "Dual-surface reversible",
+            weight: "4.6 kg (pair)"
           },
           usedBy: [
-            { name: "Danny Carey", band: "Tool", note: "Tama Iron Cobra pedals — consistent response on a massive touring rig" }
+            { name: "Danny Carey", band: "Tool", note: "Sonor Giant Step Twin Effect — consistent response on a massive touring rig" }
           ],
           verdict: "Best for large-format rigs and patient, deliberate compositions. Dependable, weighted response that never rushes the beat.",
-          rating: 4.5,
-          affiliateLink: "https://www.thomann.de/intl/tama_hp900lwn_iron_cobra_900.htm?partner_id=metalforge"
+          rating: 4.7,
+          affiliateLink: "https://www.thomann.de/intl/sonor_giant_step_twin_effect.htm?partner_id=metalforge"
         },
         {
           rank: 4,
@@ -103446,7 +103446,7 @@ For doom drummers whose material rarely calls for rapid double bass, a well-buil
           priceRange: "€250-300",
           tier: "budget",
           material: "Steel frame",
-          description: "The entry-level Iron Cobra carries the same Power Glide family DNA as Mario Duplantier and Danny Carey's professional pedals at an accessible price. Heavier than the 900 series, but a genuine entry point into weighted, doom-friendly footboard feel.",
+          description: "The entry-level Iron Cobra carries the same Power Glide family DNA as Mario Duplantier's professional pedal at an accessible price. Heavier than the 900 series, but a genuine entry point into weighted, doom-friendly footboard feel.",
           pros: ["Same Power Glide cam concept as pro doom-adjacent setups", "Wide spring tension range for heavy, deliberate strokes", "Proven Tama durability"],
           cons: ["Steel frame is heavier and less refined than aluminum", "Fewer adjustment options than the 900 series"],
           verdict: "Best budget entry into a weighted, doom-friendly footboard feel.",
@@ -103516,7 +103516,7 @@ For doom drummers whose material rarely calls for rapid double bass, a well-buil
     relatedDrummers: [
       { slug: 'mario-duplantier', name: 'Mario Duplantier', reason: 'Dual independent Tama Iron Cobra 900 Power Glide — Gojira crushing, tectonic control' },
       { slug: 'igor-cavalera', name: 'Igor Cavalera', reason: 'Tama Iron Cobra double pedal — Sepultura tribal, down-tuned heaviness' },
-      { slug: 'danny-carey', name: 'Danny Carey', reason: 'Tama Iron Cobra pedals — Tool massive touring rig consistency' },
+      { slug: 'danny-carey', name: 'Danny Carey', reason: 'Sonor Giant Step Twin Effect — Tool massive touring rig consistency' },
       { slug: 'brann-dailor', name: 'Brann Dailor', reason: 'Tama Speed Cobra single pedal — Mastodon straightforward riff-locked weight' }
     ],
 
@@ -103537,7 +103537,7 @@ For doom drummers whose material rarely calls for rapid double bass, a well-buil
       },
       {
         question: "Do doom metal drummers need a double bass drum pedal?",
-        answer: "Not usually. Brann Dailor's single Tama Speed Cobra pedal handles Mastodon's straightforward, riff-locked doom-sludge grooves without any double-kick hardware. Igor Cavalera and Danny Carey both use Tama Iron Cobra double pedals, mostly for occasional accents rather than sustained double-bass speed."
+        answer: "Not usually. Brann Dailor's single Tama Speed Cobra pedal handles Mastodon's straightforward, riff-locked doom-sludge grooves without any double-kick hardware. Igor Cavalera uses a Tama Iron Cobra double pedal and Danny Carey uses a Sonor Giant Step Twin Effect double pedal, mostly for occasional accents rather than sustained double-bass speed."
       },
       {
         question: "What beater is best for doom metal's slow, heavy riffs?",
@@ -103545,14 +103545,14 @@ For doom drummers whose material rarely calls for rapid double bass, a well-buil
       },
       {
         question: "What's the best budget bass drum pedal for doom metal?",
-        answer: "The Tama Iron Cobra 600 (around €250-300) shares the same Power Glide cam concept as Mario Duplantier and Danny Carey's professional pedals. For an even more affordable single-pedal entry point, the DW 3000 Series (€90-120) delivers real weighted response on a tight budget."
+        answer: "The Tama Iron Cobra 600 (around €250-300) shares the same Power Glide cam concept as Mario Duplantier's professional pedal. For an even more affordable single-pedal entry point, the DW 3000 Series (€90-120) delivers real weighted response on a tight budget."
       }
     ],
 
     // Conclusion
     conclusion: {
       title: "Build Your Weighted, Deliberate Foundation",
-      content: `Doom metal pedal choice comes down to how much controlled weight your riffs demand — not how many notes per second you can squeeze out of a footboard. Mario Duplantier's dual independent Tama Iron Cobra 900 Power Glide pedals define the genre's tonnage-first template, driving two separate kicks with full independent control. Igor Cavalera's Tama Iron Cobra double pedal proves the same philosophy carries into tribal groove metal, while Danny Carey's Tama Iron Cobra pedals show how dependable, weighted response anchors even the largest touring rigs. Brann Dailor's single Tama Speed Cobra pedal rounds things out, proving crushing doom weight doesn't require a double pedal at all.
+      content: `Doom metal pedal choice comes down to how much controlled weight your riffs demand — not how many notes per second you can squeeze out of a footboard. Mario Duplantier's dual independent Tama Iron Cobra 900 Power Glide pedals define the genre's tonnage-first template, driving two separate kicks with full independent control. Igor Cavalera's Tama Iron Cobra double pedal proves the same philosophy carries into tribal groove metal, while Danny Carey's Sonor Giant Step Twin Effect double pedal shows how dependable, weighted response anchors even the largest touring rigs. Brann Dailor's single Tama Speed Cobra pedal rounds things out, proving crushing doom weight doesn't require a double pedal at all.
 
 Start with whichever setup matches your kick configuration, and don't be afraid to prioritize a heavier spring and beater over raw top-end speed. Budget shouldn't stop you either — a Tama Iron Cobra 600 or DW 3000 Series pedal will teach real technique and survive slow, deliberate playing while you save toward the pro setups above.
 
@@ -109177,7 +109177,7 @@ Whatever you choose, prioritize precise memory locks and double-braced construct
       title: "Why Progressive Metal Hardware Has to Support an Entire Orchestra of Percussion",
       content: `Progressive metal kits are frequently the largest in all of metal — massive multi-tom arrays, wide multi-cymbal spreads, auxiliary percussion, and often full electronic trigger setups, all built to support compositions that shift constantly between odd meters, dynamics, and textures within a single song. Supporting that scale of instrumentation with standalone stands alone quickly becomes impossible; progressive metal is the genre where rack systems went from a convenience to an outright necessity.
 
-Mike Portnoy, Dream Theater's original drummer and now of Sons of Apollo, built his reputation on some of the largest, most elaborate kits in progressive metal history, anchored by Tama Iron Cobra Power Glide hardware and a Tama 1st Chair Ergo-Rider Throne engineered for the stamina his marathon, multi-part arrangements demand. Mike Mangini, who joined Dream Theater in 2010, runs a Pearl Eliminator Redline-anchored rig built for the independently articulated limb technique that defines his playing. Danny Carey of Tool relies on Sonor Giant Step Twin Effect hardware and a Sonor Drummer Throne to anchor a kit that also carries Mandala Drum electronic pads, while Mario Duplantier of Gojira depends on Tama Iron Cobra 900 hardware and a matching Tama 1st Chair Ergo-Rider Throne to support Gojira's blend of technical precision and crushing weight.
+Mike Portnoy, Dream Theater's original drummer and now of Sons of Apollo, built his reputation on some of the largest, most elaborate kits in progressive metal history, anchored by Tama Iron Cobra Power Glide hardware and a Tama 1st Chair Ergo-Rider Throne engineered for the stamina his marathon, multi-part arrangements demand. Mike Mangini, who joined Dream Theater in 2010, runs a Pearl Eliminator Redline-anchored rig built for the independently articulated limb technique that defines his playing. Danny Carey of Tool relies on Sonor Giant Step Twin Effect hardware to anchor a kit that also carries Mandala Drum electronic pads, while Mario Duplantier of Gojira depends on Tama Iron Cobra 900 hardware and a matching Tama 1st Chair Ergo-Rider Throne to support Gojira's blend of technical precision and crushing weight.
 
 This guide breaks down what actually makes progressive metal hardware capable of supporting a genuinely large, multi-part kit, which specific hardware the genre's most demanding players actually rely on, and where to spend versus where to save.`,
       keyPoints: [
@@ -109355,12 +109355,12 @@ The lightweight aluminum/steel hybrid frame carries a large multi-tom, multi-cym
           tier: "mid",
           material: "Double-braced round base",
 
-          description: `Danny Carey's Sonor Drummer Throne anchors a rig that has to support both a large acoustic kit and Mandala Drum electronic pads through Tool's long, structurally complex compositions. Sonor's 2000 Series throne shares that same stability-first design at a more accessible price point.
+          description: `A wide, double-braced round-base throne built to anchor a rig that has to support a large, structurally complex progressive metal kit — including hybrid setups that also carry electronic pads — without wobble.
 
-The wide round seat and locking height collar hold position through Tool's marathon-length sets, exactly the kind of endurance progressive metal's longest arrangements demand.`,
+The wide round seat and locking height collar hold position through marathon-length sets, exactly the kind of endurance progressive metal's longest arrangements demand.`,
 
           pros: [
-            "Same stability philosophy as Danny Carey's Sonor throne setup",
+            "Sonor's stability-first throne design at an accessible price point",
             "Wide double-braced base resists wobble through marathon sets",
             "Locking height collar holds position for extended performances",
             "Comfortable round-top seating"
@@ -109377,7 +109377,7 @@ The wide round seat and locking height collar hold position through Tool's marat
             weight: "Medium"
           },
           usedBy: [
-            { name: "Danny Carey", band: "Tool", note: "Sonor Drummer Throne supporting a hybrid acoustic-electronic setup" }
+            { name: "Large-kit progressive metal drummers", band: "Various", note: "Stable, accessible throne for hybrid acoustic-electronic setups" }
           ],
           verdict: "Stable, accessible throne choice for long, structurally complex sets.",
           rating: 4.6,
@@ -109503,7 +109503,7 @@ The modular clamp system handles both acoustic percussion and auxiliary/electron
         {
           category: "Best Throne",
           pedal: "Sonor 2000 Series Throne",
-          reason: "Danny Carey's choice for stability through Tool's marathon-length, structurally complex sets."
+          reason: "Stable, accessible throne choice for marathon-length, structurally complex progressive metal sets."
         },
         {
           category: "Best Budget",

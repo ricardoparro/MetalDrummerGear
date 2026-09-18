@@ -31430,7 +31430,7 @@ Start with a 20" in whatever alloy fits your budget, favor darker Extra Dry or D
       title: "Why Sludge Metal Needs a Crushing, Slow-Decaying China",
       content: `Sludge metal takes doom's tempo and detunes it further, layering hardcore punk's aggression and groove-metal's syncopation onto down-tuned, distorted riffing. A china in this context isn't there to punctuate a fast fill — it's there to add tectonic, trashy weight to a groove that's already thick with distortion, reinforcing the crush rather than cutting through it with brightness.
 
-Mario Duplantier's Gojira setup runs dual 18" and 20" Zildjian Chinas for tribal, aggressive punctuation across the band's Grammy-nominated catalog — a sound that channels sludge's tribal, down-tuned aggression even where Gojira crosses into more technical territory. Brann Dailor's 18" Meinl Byzance Extra Dry China gives Mastodon's progressive sludge-doom material a warm, crushing tone without unwanted shimmer. Igor Cavalera's Paiste RUDE and 2002 Series rig — including an 18" 2002 China — carries Sepultura's tribal, down-tuned resonance forged across decades with Sepultura and Cavalera Conspiracy. Shannon Larkin runs an 18" Sabian AAX Chinese cymbal within Godsmack's sludge-influenced, groove-heavy setup, proving the format works even outside strict sludge genre lines.
+Mario Duplantier's Gojira setup runs dual 18" and 20" Zildjian Chinas for tribal, aggressive punctuation across the band's Grammy-nominated catalog — a sound that channels sludge's tribal, down-tuned aggression even where Gojira crosses into more technical territory. Brann Dailor's 18" Meinl Byzance Extra Dry China gives Mastodon's progressive sludge-doom material a warm, crushing tone without unwanted shimmer. Igor Cavalera's Paiste RUDE and 2002 Series rig — including an 18" 2002 China — carried Sepultura's tribal, down-tuned resonance during the band's 1993–1996 Paiste era. Shannon Larkin runs an 18" Sabian AAX Chinese cymbal within Godsmack's sludge-influenced, groove-heavy setup, proving the format works even outside strict sludge genre lines.
 
 This guide breaks down what makes a china work for sludge's thick, groove-based riffing, and recommends specific models across every budget.`,
       keyPoints: [
@@ -31571,11 +31571,11 @@ The Extra Dry finish delivers a warm, crushing tone with minimal shimmer, reinfo
           priceRange: "€230-280",
           tier: "pro",
           driveType: "CuSn8 Bronze, Brilliant",
-          description: `Igor Cavalera's Paiste RUDE & 2002 Series rig, including an 18" 2002 China, carries Sepultura's tribal, down-tuned resonance forged across decades with Sepultura and Cavalera Conspiracy.
+          description: `Igor Cavalera's Paiste RUDE & 2002 Series rig, including an 18" 2002 China, carried Sepultura's tribal, down-tuned resonance during the band's 1993–1996 Paiste era.
 
 The 2002 series delivers a bright but genuinely trashy voice that cuts through a down-tuned mix while still adding real weight — a proven template for sludge's tribal, groove-heavy riffing.`,
           pros: [
-            "Igor Cavalera's documented Sepultura/Cavalera Conspiracy setup",
+            "Igor Cavalera's documented 1993–1996 Sepultura setup",
             "Bright, cutting trash that still adds real low-end weight",
             "Proven durability across Paiste's flagship 2002 line",
             "Tribal, aggressive tone suited to groove-heavy riffing"
@@ -31593,7 +31593,7 @@ The 2002 series delivers a bright but genuinely trashy voice that cuts through a
             mounting: "Standard"
           },
           usedBy: [
-            { name: "Igor Cavalera", band: "Sepultura/Cavalera Conspiracy", note: "Tribal, down-tuned resonance across decades of recordings" }
+            { name: "Igor Cavalera", band: "Sepultura", note: "Tribal, down-tuned resonance during Sepultura's 1993–1996 Paiste era" }
           ],
           verdict: "A proven, tribal-leaning china tone for groove-heavy, down-tuned sludge riffing.",
           rating: 4.5,
@@ -36783,11 +36783,11 @@ For doom-adjacent drummers chasing a heavier, more technical edge, Duplantier's 
           priceRange: "€220-280",
           tier: "mid-pro",
           driveType: "CuSn8 Bronze, Unlathed",
-          description: `Igor Cavalera of Sepultura and Cavalera Conspiracy plays a 22" Paiste RUDE Ride for a harsher, tribal-adjacent edge behind down-tuned groove and doom-adjacent anthems — a parallel philosophy to doom's tonnage-first foundation, even from outside the genre's Sabbath-descended lineage. The raw, unlathed surface still favors slow-decay darkness over bright cut.
+          description: `Igor Cavalera of Sepultura played a 22" Paiste RUDE Ride during the band's 1993–1996 Paiste era for a harsher, tribal-adjacent edge behind down-tuned groove and doom-adjacent anthems — a parallel philosophy to doom's tonnage-first foundation, even from outside the genre's Sabbath-descended lineage. The raw, unlathed surface still favors slow-decay darkness over bright cut.
 
 For doom-adjacent drummers whose material blends traditional doom weight with more percussive or tribal elements, Cavalera's RUDE ride proves a harsher-edged cymbal can still serve doom's tonnage-first restraint.`,
           pros: [
-            "Igor Cavalera's proven Sepultura/Cavalera Conspiracy setup — tonnage-first heaviness parallel to doom's own philosophy",
+            "Igor Cavalera's documented 1993–1996 Sepultura setup — tonnage-first heaviness parallel to doom's own philosophy",
             "Raw, unlathed surface holds slow-decay darkness under heavy strikes",
             "More accessible pricing than signature-tier Byzance alternatives",
             "Proven across three decades of tempo-disciplined recordings"
@@ -36805,7 +36805,7 @@ For doom-adjacent drummers whose material blends traditional doom weight with mo
             weight: "Medium-Heavy"
           },
           usedBy: [
-            { name: "Igor Cavalera", band: "Sepultura / Cavalera Conspiracy", note: "22\" RUDE Ride for tribal, down-tuned tonnage-first heaviness" }
+            { name: "Igor Cavalera", band: "Sepultura", note: "22\" RUDE Ride for tribal, down-tuned tonnage-first heaviness (1993–1996)" }
           ],
           verdict: "Best value for down-tuned, tempo-disciplined heaviness with a harsher tribal edge.",
           rating: 4.4,
@@ -37607,11 +37607,11 @@ Larkin's setup shows how the genre's founding explosive template translates dire
           priceRange: "€220-280",
           tier: "mid-pro",
           driveType: "CuSn8 Bronze, Unlathed",
-          description: `Igor Cavalera of Sepultura and Cavalera Conspiracy plays a 22" Paiste RUDE Ride, delivering the harsh, slow-decay aggression behind "Roots Bloody Roots" and Sepultura's tribal groove metal evolution. The raw, unlathed surface gives Cavalera's down-tuned riffing a tonnage-first edge the polished Sabian and Meinl lines don't chase.
+          description: `Igor Cavalera of Sepultura played a 22" Paiste RUDE Ride during the band's 1993–1996 Paiste era, delivering the harsh, slow-decay aggression behind "Roots Bloody Roots" and Sepultura's tribal groove metal evolution. The raw, unlathed surface gives Cavalera's down-tuned riffing a tonnage-first edge the polished Sabian and Meinl lines don't chase.
 
 For groove metal drummers whose material blends traditional riff-locked grooves with tribal or down-tuned elements, Cavalera's RUDE ride proves a harsher-edged cymbal can still serve the genre's explosive-impact philosophy.`,
           pros: [
-            "Igor Cavalera's proven Sepultura/Cavalera Conspiracy setup — tribal, down-tuned groove metal aggression",
+            "Igor Cavalera's documented 1993–1996 Sepultura setup — tribal, down-tuned groove metal aggression",
             "Raw, unlathed surface for a harsher, tonnage-first edge",
             "More accessible pricing than premium hand-hammered Byzance lines",
             "Proven across three decades of genre-defining recordings"
@@ -37629,7 +37629,7 @@ For groove metal drummers whose material blends traditional riff-locked grooves 
             weight: "Medium"
           },
           usedBy: [
-            { name: "Igor Cavalera", band: "Sepultura / Cavalera Conspiracy", note: "22\" RUDE Ride for tribal, down-tuned groove metal aggression" }
+            { name: "Igor Cavalera", band: "Sepultura", note: "22\" RUDE Ride for tribal, down-tuned groove metal aggression (1993–1996)" }
           ],
           verdict: "Best value for tribal, down-tuned groove metal that wants a harsher, raw-edged ride.",
           rating: 4.4,
@@ -45635,11 +45635,11 @@ For doom-adjacent drummers chasing a heavier, more technical edge, Duplantier's 
           priceRange: "€180-230",
           tier: "mid-pro",
           driveType: "CuSn8 Bronze, Unlathed",
-          description: `Igor Cavalera of Sepultura and Cavalera Conspiracy plays 18" and 19" Paiste RUDE Crashes for a harsher, tribal-adjacent edge behind down-tuned groove metal anthems — a parallel philosophy to doom's tonnage-first foundation, even from outside the genre's Sabbath-descended lineage. The raw, unlathed surface still favors slow-decay darkness over bright cut.
+          description: `Igor Cavalera of Sepultura played 18" and 19" Paiste RUDE Crashes during the band's 1993–1996 Paiste era for a harsher, tribal-adjacent edge behind down-tuned groove metal anthems — a parallel philosophy to doom's tonnage-first foundation, even from outside the genre's Sabbath-descended lineage. The raw, unlathed surface still favors slow-decay darkness over bright cut.
 
 For doom-adjacent drummers whose material blends traditional doom weight with more percussive or tribal elements, Cavalera's RUDE crash proves a harsher-edged cymbal can still serve doom's tonnage-first restraint.`,
           pros: [
-            "Igor Cavalera's proven Sepultura/Cavalera Conspiracy setup — tonnage-first heaviness parallel to doom's own philosophy",
+            "Igor Cavalera's documented 1993–1996 Sepultura setup — tonnage-first heaviness parallel to doom's own philosophy",
             "Raw, unlathed surface holds slow-decay darkness under heavy strikes",
             "More accessible pricing than signature-tier Byzance alternatives",
             "Proven across three decades of tempo-disciplined recordings"
@@ -45657,7 +45657,7 @@ For doom-adjacent drummers whose material blends traditional doom weight with mo
             decay: "Slow, raw"
           },
           usedBy: [
-            { name: "Igor Cavalera", band: "Sepultura / Cavalera Conspiracy", note: "18\" & 19\" RUDE Crashes for tribal, down-tuned tonnage-first heaviness" }
+            { name: "Igor Cavalera", band: "Sepultura", note: "18\" & 19\" RUDE Crashes for tribal, down-tuned tonnage-first heaviness (1993–1996)" }
           ],
           verdict: "Best value for down-tuned, tempo-disciplined heaviness with a harsher tribal edge.",
           rating: 4.4,
@@ -46460,11 +46460,11 @@ Larkin's setup shows how the genre's founding explosive template translates dire
           priceRange: "€180-230",
           tier: "mid-pro",
           driveType: "CuSn8 Bronze, Unlathed",
-          description: `Igor Cavalera of Sepultura and Cavalera Conspiracy plays 18" and 19" Paiste RUDE Crashes, delivering the harsh, slow-decay aggression behind "Roots Bloody Roots" and Sepultura's tribal groove metal evolution. The raw, unlathed surface gives Cavalera's down-tuned riffing a tonnage-first edge the polished Sabian and Meinl lines don't chase.
+          description: `Igor Cavalera of Sepultura played 18" and 19" Paiste RUDE Crashes during the band's 1993–1996 Paiste era, delivering the harsh, slow-decay aggression behind "Roots Bloody Roots" and Sepultura's tribal groove metal evolution. The raw, unlathed surface gives Cavalera's down-tuned riffing a tonnage-first edge the polished Sabian and Meinl lines don't chase.
 
 For groove metal drummers whose material blends traditional riff-locked grooves with tribal or down-tuned elements, Cavalera's RUDE crash proves a harsher-edged cymbal can still serve the genre's explosive-impact philosophy.`,
           pros: [
-            "Igor Cavalera's proven Sepultura/Cavalera Conspiracy setup — tribal, down-tuned groove metal aggression",
+            "Igor Cavalera's documented 1993–1996 Sepultura setup — tribal, down-tuned groove metal aggression",
             "Raw, unlathed surface for a harsher, tonnage-first edge",
             "More accessible pricing than premium hand-hammered Byzance lines",
             "Proven across three decades of genre-defining recordings"
@@ -46482,7 +46482,7 @@ For groove metal drummers whose material blends traditional riff-locked grooves 
             decay: "Slow, raw"
           },
           usedBy: [
-            { name: "Igor Cavalera", band: "Sepultura / Cavalera Conspiracy", note: "18\" & 19\" RUDE Crashes for tribal, down-tuned groove metal aggression" }
+            { name: "Igor Cavalera", band: "Sepultura", note: "18\" & 19\" RUDE Crashes for tribal, down-tuned groove metal aggression (1993–1996)" }
           ],
           verdict: "Best value for tribal, down-tuned groove metal that wants a harsher, raw-edged crash.",
           rating: 4.4,
@@ -63793,7 +63793,7 @@ For doom-adjacent drummers chasing a heavier, more technical edge, this combinat
 For doom-adjacent drummers whose material blends traditional doom weight with more percussive or tribal elements, Cavalera's RUDE setup — 14" Hi-Hats, 18"-19" Crashes, and a 22" Power Ride — proves a harsher-edged cymbal line can still serve doom's tonnage-first restraint.`,
 
           pros: [
-            "Igor Cavalera's Sepultura/Cavalera Conspiracy setup — down-tuned tonnage-first heaviness parallel to doom's own philosophy",
+            "Igor Cavalera's documented 1993–1996 Sepultura setup — down-tuned tonnage-first heaviness parallel to doom's own philosophy",
             "Raw, unlathed surface holds slow-decay darkness under heavy strikes",
             "22\" Power Ride provides heavyweight rhythmic definition",
             "More accessible pricing than signature-tier Byzance or Signature lines",
@@ -63811,7 +63811,7 @@ For doom-adjacent drummers whose material blends traditional doom weight with mo
             china: "18\" 2002 China"
           },
           usedBy: [
-            { name: "Igor Cavalera", band: "Sepultura / Cavalera Conspiracy", note: "Paiste RUDE Series — tribal, down-tuned tonnage-first heaviness" }
+            { name: "Igor Cavalera", band: "Sepultura", note: "Paiste RUDE Series — tribal, down-tuned tonnage-first heaviness (1993–1996)" }
           ],
           verdict: "Best value for down-tuned, tempo-disciplined heaviness. A more accessible path into doom-adjacent dark tonnage.",
           rating: 4.4,
@@ -64445,7 +64445,7 @@ Budget shouldn't stop you either. A Pearl Eliminator Redline or entry-level Tama
       title: "Why Groove Metal Needs Cutting, Explosive Cymbals — Not Speed",
       content: `Groove metal's mid-tempo (100–140 BPM), riff-locked patterns put the snare and kick front and center, but the cymbals still have to do real work: cutting through down-tuned, syncopated guitar riffs with explosive crash accents and a ride bell that stays locked to the pocket rather than washing over it. Unlike thrash or death metal, where cymbals are chosen to survive hundreds of rapid strokes per minute, groove metal cymbals are voiced for maximum impact on fewer, more deliberate hits.
 
-Vinnie Paul built the genre's founding cymbal template on Sabian AA and AAX Series cymbals, running 14" hi-hats for tight groove articulation, 18" and 19" crashes for explosive accents, a 21" ride for rhythmic clarity, and an 18" China for aggressive punctuation across Pantera's "Cowboys from Hell" and "Vulgar Display of Power." Chris Adler of Lamb of God took a drier, more controlled approach with Meinl Byzance Series cymbals — 14" Dark Hi-Hats, 18" and 19" Dark Crashes, a 21" Transition Ride, and an 18" Extra Dry China — giving Lamb of God's syncopated riff-locking grooves a cutting, low-wash voice on "Ashes of the Wake" and "Sacrament." Shannon Larkin of Godsmack runs Sabian AAX Series cymbals built around 14" Stage Hi-Hats, 18" and 19" X-Plosion Crashes, a 21" Raw Bell Dry Ride, and an 18" AAX Chinese, delivering the explosive, radio-ready punch behind two decades of multi-platinum Godsmack albums. Igor Cavalera of Sepultura and Cavalera Conspiracy plays Paiste RUDE and 2002 Series cymbals — 14" RUDE Hi-Hats, 18" and 19" RUDE Crashes, a 22" RUDE Power Ride, and an 18" 2002 China — built for the harsh, slow-decay aggression behind "Roots Bloody Roots" and Sepultura's tribal groove metal evolution.
+Vinnie Paul built the genre's founding cymbal template on Sabian AA and AAX Series cymbals, running 14" hi-hats for tight groove articulation, 18" and 19" crashes for explosive accents, a 21" ride for rhythmic clarity, and an 18" China for aggressive punctuation across Pantera's "Cowboys from Hell" and "Vulgar Display of Power." Chris Adler of Lamb of God took a drier, more controlled approach with Meinl Byzance Series cymbals — 14" Dark Hi-Hats, 18" and 19" Dark Crashes, a 21" Transition Ride, and an 18" Extra Dry China — giving Lamb of God's syncopated riff-locking grooves a cutting, low-wash voice on "Ashes of the Wake" and "Sacrament." Shannon Larkin of Godsmack runs Sabian AAX Series cymbals built around 14" Stage Hi-Hats, 18" and 19" X-Plosion Crashes, a 21" Raw Bell Dry Ride, and an 18" AAX Chinese, delivering the explosive, radio-ready punch behind two decades of multi-platinum Godsmack albums. Igor Cavalera of Sepultura played Paiste RUDE and 2002 Series cymbals during the band's 1993–1996 Paiste era — 14" RUDE Hi-Hats, 18" and 19" RUDE Crashes, a 22" RUDE Power Ride, and an 18" 2002 China — built for the harsh, slow-decay aggression behind "Roots Bloody Roots" and Sepultura's tribal groove metal evolution.
 
 This guide breaks down hi-hat, crash, ride, and China choices for groove metal — comparing four drummers whose setups define the genre's cutting, riff-locked cymbal demands, with recommendations from budget to professional touring rigs.`,
       keyPoints: [
@@ -64630,12 +64630,12 @@ Larkin's X-Plosion crashes are voiced for exactly the fast-attack, radio-ready p
           tier: "pro",
           material: "CuSn8 Bronze (RUDE/2002)",
 
-          description: `Igor Cavalera of Sepultura and Cavalera Conspiracy anchors his setup with Paiste RUDE and 2002 Series cymbals: 14" RUDE Hi-Hats for harsh, cutting articulation, 18" and 19" RUDE Crashes for explosive, slow-decay accents, a 22" RUDE Power Ride for heavyweight rhythmic definition, and an 18" 2002 China for tribal punctuation.
+          description: `Igor Cavalera of Sepultura anchored his setup with Paiste RUDE and 2002 Series cymbals during the band's 1993–1996 Paiste era: 14" RUDE Hi-Hats for harsh, cutting articulation, 18" and 19" RUDE Crashes for explosive, slow-decay accents, a 22" RUDE Power Ride for heavyweight rhythmic definition, and an 18" 2002 China for tribal punctuation.
 
 Cavalera's RUDE setup delivers the harsh, slow-decay aggression that drove Sepultura's transformation from thrash into tribal groove metal on "Chaos A.D." and "Roots Bloody Roots" — proof that groove metal's cymbal voice doesn't have to come from Sabian or Meinl.`,
 
           pros: [
-            "Igor Cavalera's Sepultura/Cavalera Conspiracy setup — harsh, tribal groove aggression",
+            "Igor Cavalera's documented 1993–1996 Sepultura setup — harsh, tribal groove aggression",
             "RUDE Crashes deliver slow-decay weight suited to down-tuned, tribal riffing",
             "22\" Power Ride adds heavyweight rhythmic definition other setups lack",
             "Proven across Sepultura's genre-shaping tribal groove metal evolution",
@@ -64653,7 +64653,7 @@ Cavalera's RUDE setup delivers the harsh, slow-decay aggression that drove Sepul
             china: "18\" Paiste 2002"
           },
           usedBy: [
-            { name: "Igor Cavalera", band: "Sepultura / Cavalera Conspiracy", note: "Paiste RUDE/2002 — tribal groove metal aggression and weight" }
+            { name: "Igor Cavalera", band: "Sepultura", note: "Paiste RUDE/2002 — tribal groove metal aggression and weight (1993–1996)" }
           ],
           verdict: "Best for tribal, slow-decay groove metal. Cavalera's harsh, heavyweight Paiste setup proves the genre isn't Sabian/Meinl exclusive.",
           rating: 4.5,
@@ -78679,7 +78679,7 @@ A 21" Ghost Ride adds shimmering rhythmic undertones beneath Mastodon's polyrhyt
 
           description: `Igor Cavalera's Paiste RUDE & 2002 Series setup carries Sepultura's tribal, down-tuned heaviness — proof that a harsher, brighter cymbal voicing can still parallel sludge's own tonnage-first foundation from a Brazilian rhythmic lineage entirely separate from the New Orleans scene. The 14" RUDE Hi-Hats deliver harsh, cutting articulation, while 18" and 19" RUDE Crashes add explosive, slow-decay accents that drove "Refuse/Resist" and "Roots Bloody Roots."
 
-A 22" RUDE Power Ride provides heavyweight rhythmic definition, and the 18" 2002 China adds tribal punctuation — a setup forged across two decades with Sepultura and Cavalera Conspiracy.`,
+A 22" RUDE Power Ride provides heavyweight rhythmic definition, and the 18" 2002 China adds tribal punctuation — a setup Cavalera used during Sepultura's 1993–1996 Paiste era.`,
 
           pros: [
             "Igor Cavalera's Sepultura setup — a tribal, down-tuned parallel to New Orleans sludge",
@@ -87415,7 +87415,7 @@ Whatever you choose, prioritize consistency under sustained blast beat use over 
       title: "What Hi-Hats Are Used in Groove Metal?",
       content: `Groove metal's mid-tempo (100–140 BPM), riff-locked patterns put the hi-hat at the center of the pocket. Unlike thrash or death metal, where hi-hats are chosen to survive hundreds of rapid strokes per minute, groove metal hi-hats are voiced for tight, deliberate articulation on fewer, more purposeful hits — every chick needs to land exactly on the riff.
 
-Vinnie Paul built groove metal's founding hi-hat template on 14" Sabian AA/AAX Hi-Hats, giving Pantera's grooves tight, cutting articulation across "Cowboys from Hell" and "Vulgar Display of Power." Chris Adler of Lamb of God took a drier, more controlled approach with 14" Meinl Byzance Dark Hi-Hats, giving Lamb of God's syncopated riff-locking grooves a cutting, low-wash voice on "Ashes of the Wake" and "Sacrament." Shannon Larkin of Godsmack runs 14" Sabian AAX Stage Hi-Hats for crisp articulation behind two decades of multi-platinum Godsmack albums. Igor Cavalera of Sepultura and Cavalera Conspiracy plays 14" Paiste RUDE Hi-Hats for the harsh, cutting aggression behind "Roots Bloody Roots" and Sepultura's tribal groove metal evolution.
+Vinnie Paul built groove metal's founding hi-hat template on 14" Sabian AA/AAX Hi-Hats, giving Pantera's grooves tight, cutting articulation across "Cowboys from Hell" and "Vulgar Display of Power." Chris Adler of Lamb of God took a drier, more controlled approach with 14" Meinl Byzance Dark Hi-Hats, giving Lamb of God's syncopated riff-locking grooves a cutting, low-wash voice on "Ashes of the Wake" and "Sacrament." Shannon Larkin of Godsmack runs 14" Sabian AAX Stage Hi-Hats for crisp articulation behind two decades of multi-platinum Godsmack albums. Igor Cavalera of Sepultura played 14" Paiste RUDE Hi-Hats during the band's 1993–1996 Paiste era for the harsh, cutting aggression behind "Roots Bloody Roots" and Sepultura's tribal groove metal evolution.
 
 This guide breaks down hi-hat choices for groove metal — comparing four drummers whose setups define the genre's tight, riff-locked hi-hat demands, with recommendations from budget to professional touring rigs.`,
       keyPoints: [
@@ -87592,12 +87592,12 @@ The AAX Stage's balance of brightness and control gives Larkin's grooves the cla
           tier: "pro",
           material: "CuSn8 Bronze (RUDE)",
 
-          description: `Igor Cavalera of Sepultura and Cavalera Conspiracy anchors his setup with 14" RUDE Hi-Hats from Paiste for harsh, cutting articulation. Cavalera's RUDE setup delivers the harsh aggression that drove Sepultura's transformation from thrash into tribal groove metal on "Chaos A.D." and "Roots Bloody Roots" — proof that groove metal's hi-hat voice doesn't have to come from Sabian or Meinl.
+          description: `Igor Cavalera of Sepultura anchored his setup with 14" RUDE Hi-Hats from Paiste during the band's 1993–1996 Paiste era for harsh, cutting articulation. Cavalera's RUDE setup delivered the harsh aggression that drove Sepultura's transformation from thrash into tribal groove metal on "Chaos A.D." and "Roots Bloody Roots" — proof that groove metal's hi-hat voice doesn't have to come from Sabian or Meinl.
 
 The unlathed top surface produces a raw, trashy character that punches through Sepultura's down-tuned, tribal-influenced riffing with real bite.`,
 
           pros: [
-            "Igor Cavalera's Sepultura/Cavalera Conspiracy setup — harsh, tribal groove aggression",
+            "Igor Cavalera's documented 1993–1996 Sepultura setup — harsh, tribal groove aggression",
             "Raw, unlathed character delivers cutting bite for down-tuned riffing",
             "Proven across Sepultura's genre-shaping tribal groove metal evolution",
             "Genuine alternative for drummers outside groove metal's Sabian/Meinl lineage"
@@ -87614,7 +87614,7 @@ The unlathed top surface produces a raw, trashy character that punches through S
             series: "RUDE"
           },
           usedBy: [
-            { name: "Igor Cavalera", band: "Sepultura / Cavalera Conspiracy", note: "Paiste RUDE — tribal groove metal aggression and weight" }
+            { name: "Igor Cavalera", band: "Sepultura", note: "Paiste RUDE — tribal groove metal aggression and weight (1993–1996)" }
           ],
           verdict: "Best for tribal, harsh groove metal. Cavalera's raw Paiste hi-hats prove the genre isn't Sabian/Meinl exclusive.",
           rating: 4.5,
@@ -96132,7 +96132,7 @@ The K Sweet's warmer, more complex character and the A Custom's brighter cut giv
           tier: "mid",
           material: "CuSn8 Bronze",
 
-          description: `Igor Cavalera of Sepultura and Cavalera Conspiracy anchors his setup with 14" RUDE Hi-Hats from Paiste, delivering a harsher, trashier edge than Dailor's or Carey's more polished setups while still favoring slow-decay darkness over bright cut.
+          description: `Igor Cavalera of Sepultura anchored his setup with 14" RUDE Hi-Hats from Paiste during the band's 1993–1996 Paiste era, delivering a harsher, trashier edge than Dailor's or Carey's more polished setups while still favoring slow-decay darkness over bright cut.
 
 Cavalera's RUDE hi-hats prove doom-adjacent tonnage doesn't require a premium Byzance or Signature price tag — the raw, trashy character works equally well for tribal groove metal and the crushing, patient weight doom metal shares with it.`,
 
@@ -107624,7 +107624,7 @@ Where faster metal subgenres chase cutting brightness, Dailor's Byzance Dark hi-
           tier: "mid",
           material: "CuSn8 Bronze",
 
-          description: `Igor Cavalera of Sepultura and Cavalera Conspiracy anchors his setup with 14" RUDE Hi-Hats from Paiste, delivering harsh, cutting articulation for down-tuned riffing that parallels sludge's own tonnage-first foundation from a tribal, Brazilian rhythmic lineage entirely separate from the New Orleans scene.
+          description: `Igor Cavalera of Sepultura anchored his setup with 14" RUDE Hi-Hats from Paiste during the band's 1993–1996 Paiste era, delivering harsh, cutting articulation for down-tuned riffing that parallels sludge's own tonnage-first foundation from a tribal, Brazilian rhythmic lineage entirely separate from the New Orleans scene.
 
 Cavalera's RUDE hi-hats prove sludge-adjacent tonnage doesn't require a premium Byzance price tag — the raw, trashy character works equally well for tribal groove metal and the crushing, repetition-driven weight sludge metal shares with it.`,
 

@@ -3885,14 +3885,14 @@ Budget shouldn't stop you — Remo Coated Diplomat and Evans G1 Coated both offe
       title: "Why Black Metal Wants the Opposite of a Perfect Drum Tone",
       content: `Every other genre of metal chases control, durability, and a punchy, engineered attack. Black metal, at its most trve, wants none of that. The genre's signature drum sound is raw, thin, and slightly chaotic — snares that crack like they're about to fall apart, toms that ring wild and untamed, and a general sense that the recording captured a real room rather than a sanitized studio performance.
 
-That tonal philosophy starts at the drum head. Hellhammer's foundational recordings with Mayhem, and Frost's work across Satyricon and 1349, both rely on Remo's thinner, single-ply constructions rather than the double-ply, heavily muffled heads that dominate death metal and modern metalcore. Inferno of Behemoth and Daray of Dimmu Borgir represent black metal's more produced, symphonic wing, and lean on Evans for a still-aggressive but slightly more controlled tone.
+That tonal philosophy starts at the drum head. Hellhammer's foundational recordings with Mayhem, Frost's work across Satyricon and 1349, and Inferno's tenure behind Behemoth's kit all rely on Remo's thinner, single-ply constructions rather than the double-ply, heavily muffled heads that dominate death metal and modern metalcore. Daray of Dimmu Borgir represents black metal's more produced, symphonic wing on record, and leans on Evans for a still-aggressive but slightly more controlled tone.
 
 This guide breaks down the drum heads that build black metal's raw, blown-out character, why single-ply construction matters here more than almost anywhere else in metal, and which specific models the genre's most important drummers actually use.`,
       keyPoints: [
         "Black metal favors thin, single-ply heads for a raw, blown-out attack — the opposite of death metal's double-ply control",
         "Remo Coated Ambassador is the closest thing to a black metal reference head",
         "Coated single-ply heads deliver the trashy, slightly out-of-control crack that defines the genre",
-        "Symphonic/modern black metal acts (Behemoth, Dimmu Borgir) lean toward Evans for a more controlled variant of the same aesthetic"
+        "Dimmu Borgir's symphonic wing leans toward Evans for a more controlled variant of the same aesthetic, while Behemoth's Inferno still runs Remo"
       ]
     },
 
@@ -4034,9 +4034,9 @@ This is a specialist choice — the Diplomat wears quickly and won't survive agg
           tier: "pro",
           material: "1-Ply Coated (10mil)",
 
-          description: `Inferno of Behemoth and Daray of Dimmu Borgir both use Evans, representing black metal's more produced, symphonic wing. The G1 Coated is Evans' single-ply answer to the Remo Ambassador — an open, warm attack with Evans' Level 360 collar for a slightly wider, more reliable tuning range on modern touring kits.
+          description: `Daray of Dimmu Borgir uses Evans, representing black metal's more produced, symphonic wing. The G1 Coated is Evans' single-ply answer to the Remo Ambassador — an open, warm attack with Evans' Level 360 collar for a slightly wider, more reliable tuning range on modern touring kits.
 
-For black metal acts that need raw character on stage but also require the reliability of a global touring schedule, the G1 splits the difference: still an open, ringy single-ply tone, but with the manufacturing consistency that a band like Behemoth or Dimmu Borgir needs night after night.`,
+For black metal acts that need raw character on stage but also require the reliability of a global touring schedule, the G1 splits the difference: still an open, ringy single-ply tone, but with the manufacturing consistency that a band like Dimmu Borgir needs night after night.`,
 
           pros: [
             "Open, raw single-ply tone with modern manufacturing consistency",
@@ -4058,7 +4058,6 @@ For black metal acts that need raw character on stage but also require the relia
             sizes: "6\" to 26\""
           },
           usedBy: [
-            { name: "Inferno", band: "Behemoth", note: "Evans endorser — symphonic/modern black metal touring reliability" },
             { name: "Daray", band: "Dimmu Borgir / Vader", note: "Evans heads across symphonic black and death metal work" }
           ],
           verdict: "The best choice for modern, touring-focused black metal that still wants a raw single-ply character.",
@@ -4178,7 +4177,7 @@ Works equally well as a resonant head for drummers running a coated batter but w
           priceRange: "€18-30 per head",
           tier: "budget",
           material: "1-Ply Coated (10mil)",
-          description: "The same G1 Coated used by Inferno and Daray, at genuinely budget-friendly pricing since it requires no additional muffling hardware — a real cost advantage for black metal specifically.",
+          description: "The same G1 Coated used by Daray, at genuinely budget-friendly pricing since it requires no additional muffling hardware — a real cost advantage for black metal specifically.",
           pros: [
             "No muffling hardware needed — full price is the total cost",
             "Level 360 collar even at this price point",
@@ -4216,16 +4215,16 @@ Works equally well as a resonant head for drummers running a coated batter but w
       content: `Black metal's two dominant head philosophies both come from single-ply construction, but with a real split between the genre's traditional and modern/symphonic wings.
 
 **Remo:**
-- The genre's foundational choice — Hellhammer and Frost both use Remo
+- The genre's foundational choice — Hellhammer, Frost, and Inferno all use Remo
 - Ambassador and Diplomat constructions deliver the rawest, most open tone
 - Slightly less manufacturing consistency across a touring schedule
-- Preferred by: Hellhammer, Frost
+- Preferred by: Hellhammer, Frost, Inferno
 
 **Evans:**
 - Chosen by black metal's more produced, symphonic wing
 - Level 360 collar gives more reliable tuning for global touring
 - Still single-ply and open, but marginally more controlled than equivalent Remo heads
-- Preferred by: Inferno, Daray
+- Preferred by: Daray
 
 **Our Take:** Remo Coated Ambassador is the genre's true reference tone. Evans G1 Coated is the right call if you need touring-grade reliability alongside black metal's raw character.`,
       comparisonTable: [
@@ -4254,7 +4253,7 @@ Works equally well as a resonant head for drummers running a coated batter but w
         {
           category: "Best for Touring/Symphonic Black Metal",
           pedal: "Evans G1 Coated",
-          reason: "Inferno and Daray's choice — raw character with modern manufacturing reliability."
+          reason: "Daray's choice — raw character with modern manufacturing reliability."
         },
         {
           category: "Best Budget",
@@ -4274,21 +4273,21 @@ Works equally well as a resonant head for drummers running a coated batter but w
     relatedDrummers: [
       { slug: 'hellhammer', name: 'Hellhammer', reason: 'Remo endorser — foundational black metal drum tone with Mayhem' },
       { slug: 'frost', name: 'Frost', reason: 'Remo drumheads — Nordic black metal precision for Satyricon/1349' },
-      { slug: 'inferno', name: 'Inferno', reason: 'Evans endorser — Behemoth\'s modern, produced black/death metal' },
+      { slug: 'inferno', name: 'Inferno', reason: 'Remo endorser — Behemoth\'s modern, produced black/death metal' },
       { slug: 'daray', name: 'Daray', reason: 'Evans heads — Dimmu Borgir\'s symphonic black metal touring tone' }
     ],
 
     featuredDrummers: [
       { slug: 'hellhammer', name: 'Hellhammer', reason: 'Remo endorser — the raw, foundational black metal drum tone' },
       { slug: 'frost', name: 'Frost', reason: 'Remo drumheads across a career defining Nordic black metal precision' },
-      { slug: 'inferno', name: 'Inferno', reason: 'Evans endorser — Behemoth\'s modern black metal touring reliability' }
+      { slug: 'inferno', name: 'Inferno', reason: 'Remo endorser — Behemoth\'s modern black metal touring reliability' }
     ],
 
     // FAQ section for SEO
     faq: [
       {
         question: "What drum heads do black metal drummers use?",
-        answer: "Traditional black metal drummers favor thin, single-ply heads. Hellhammer of Mayhem and Frost of Satyricon and 1349 both use Remo, primarily the Coated Ambassador, for the genre's raw, open attack. Behemoth's Inferno and Dimmu Borgir's Daray, representing black metal's more produced symphonic wing, both use Evans instead."
+        answer: "Traditional black metal drummers favor thin, single-ply heads. Hellhammer of Mayhem, Frost of Satyricon and 1349, and Behemoth's Inferno all use Remo, primarily the Coated Ambassador, for the genre's raw, open attack. Dimmu Borgir's Daray, representing black metal's more produced symphonic wing, uses Evans instead."
       },
       {
         question: "Why does black metal use thinner drum heads than death metal?",
@@ -4315,7 +4314,7 @@ Works equally well as a resonant head for drummers running a coated batter but w
 
 If you want to push even further into underground, DIY territory, the Remo Diplomat's extra-thin construction delivers the most blown-out, distorted tone available from a mainstream manufacturer, at the cost of a shorter lifespan.
 
-For touring or symphonic black metal acts that need more manufacturing consistency, Evans G1 Coated — the choice of Behemoth's Inferno and Dimmu Borgir's Daray — delivers the same raw single-ply character with a more reliable tuning range across a demanding schedule.
+For touring or symphonic black metal acts that need more manufacturing consistency, Evans G1 Coated — the choice of Dimmu Borgir's Daray — delivers the same raw single-ply character with a more reliable tuning range across a demanding schedule.
 
 🤘 **Embrace the raw. Let it ring.**`
     }

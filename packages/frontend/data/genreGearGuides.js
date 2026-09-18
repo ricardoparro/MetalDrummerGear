@@ -103631,7 +103631,7 @@ This guide covers exactly what makes a bass drum pedal work across extreme metal
         {
           name: "Direct Drive vs Chain Drive",
           icon: "⚙️",
-          description: "Chain drive pedals like Derek Roddy's Tama Speed Cobra 910 and George Kollias's Iron Cobra give a small amount of natural give that many drummers find easier to control at extreme tempo, while direct drive pedals deliver a completely linear, zero-slack response.",
+          description: "Chain drive pedals like Derek Roddy's Tama Speed Cobra 910 give a small amount of natural give that many drummers find easier to control at extreme tempo, while direct drive pedals deliver a completely linear, zero-slack response.",
           recommendation: "Direct drive for maximum linear response; chain drive for a more forgiving, controllable feel"
         },
         {
@@ -103668,11 +103668,11 @@ This guide covers exactly what makes a bass drum pedal work across extreme metal
           priceRange: "€350-500 per double set",
           tier: "pro",
           driveType: "Chain Drive",
-          description: `George Kollias of Nile sustains 240+ BPM single-stroke blast beats on the Iron Cobra 900's Rolling Glide cam system, which delivers smooth, controllable chain drive with extra authority right at impact. The wide, reliably lockable spring tension range makes it easy to hold consistent action across an entire set, whatever tempo a given riff demands.
+          description: `The Iron Cobra 900's Rolling Glide cam system sustains 240+ BPM single-stroke blast beats, delivering smooth, controllable chain drive with extra authority right at impact. The wide, reliably lockable spring tension range makes it easy to hold consistent action across an entire set, whatever tempo a given riff demands.
 
-The die-cast aluminum frame and stock hard plastic beater have proven themselves across Nile's most extreme recordings and tours, making this the single most battle-tested pedal in extreme metal's cross-genre arsenal.`,
+The die-cast aluminum frame and stock hard plastic beater are built to survive extreme metal's most punishing recordings and tours, making this the single most battle-tested pedal in extreme metal's cross-genre arsenal.`,
           pros: [
-            "George Kollias's Nile setup — sustaining 240+ BPM blast beats for minutes at a time",
+            "Rolling Glide cam sustains 240+ BPM blast beats for minutes at a time",
             "Rolling Glide cam adds authority right where extreme-speed strokes need it",
             "Wide, reliably lockable spring tension range",
             "Die-cast aluminum frame handles sustained touring abuse"
@@ -103785,7 +103785,7 @@ Nearly four decades later, the Demon Drive remains an industry standard precisel
           priceRange: "€200-300 per double set",
           tier: "budget",
           material: "Steel frame",
-          description: "A steel-frame version of the Rolling Glide cam concept behind George Kollias's professional setup, with the same wide tension range that makes sustained blast-beat speed manageable.",
+          description: "A steel-frame version of the Iron Cobra 900's Rolling Glide cam concept, with the same wide tension range that makes sustained blast-beat speed manageable.",
           pros: ["True Rolling Glide cam system at a budget price", "Wide spring tension range for developing blast-beat speed", "Clear upgrade path to the 900 series"],
           cons: ["Steel frame is heavier and less refined than aluminum"],
           verdict: "Best budget entry point into extreme metal's baseline blast-beat pedal design.",
@@ -103830,7 +103830,7 @@ Nearly four decades later, the Demon Drive remains an industry standard precisel
         {
           category: "Best Overall",
           pedal: "Tama Iron Cobra 900",
-          reason: "George Kollias's cross-genre standard — adjustable, durable, and proven at the most extreme tempos in metal."
+          reason: "Extreme metal's cross-genre standard — adjustable, durable, and proven at the most extreme tempos in metal."
         },
         {
           category: "Best for Maximum Consistency",
@@ -103853,7 +103853,6 @@ Nearly four decades later, the Demon Drive remains an industry standard precisel
       'best-crash-cymbals-for-extreme-metal'
     ],
     relatedDrummers: [
-      { slug: 'george-kollias', name: 'George Kollias', reason: 'Tama Iron Cobra 900 — sustaining 240+ BPM blast beats with Nile' },
       { slug: 'gene-hoglan', name: 'Gene Hoglan', reason: 'Pearl Demon Drive — The Atomic Clock\'s consistency across death and thrash since 2008' },
       { slug: 'derek-roddy', name: 'Derek Roddy', reason: 'Tama Speed Cobra 910 — the \'One Take\' consistency behind Hate Eternal' },
       { slug: 'dave-lombardo', name: 'Dave Lombardo', reason: 'Pearl Demon Drive — the speed and precision behind "Reign in Blood"' }
@@ -103871,12 +103870,8 @@ Nearly four decades later, the Demon Drive remains an industry standard precisel
         answer: "Extreme metal spans death, thrash, and black metal — genres with distinct riffing styles that converge on the same pedal requirement: sustained, blast-beat-capable speed that holds up across a full set without losing consistency."
       },
       {
-        question: "What bass drum pedal does George Kollias use?",
-        answer: "George Kollias of Nile has built his career sustaining 240+ BPM blast beats on Tama hardware, relying on the Iron Cobra's wide, reliably lockable tension range and Rolling Glide cam system to keep strokes consistent at extreme tempo."
-      },
-      {
         question: "Direct drive or chain drive for extreme metal?",
-        answer: "Both work at the highest level. Dave Lombardo's and Gene Hoglan's Pearl Demon Drive uses direct drive for zero-slack, maximally linear response. George Kollias's Tama Iron Cobra and Derek Roddy's Speedo-Ring hybrid pedal use chain drive for a more forgiving, controllable feel at the same extreme tempos."
+        answer: "Both work at the highest level. Dave Lombardo's and Gene Hoglan's Pearl Demon Drive uses direct drive for zero-slack, maximally linear response. Derek Roddy's Speedo-Ring hybrid pedal uses chain drive for a more forgiving, controllable feel at the same extreme tempos."
       },
       {
         question: "What pedal does Derek Roddy use?",
@@ -103884,14 +103879,14 @@ Nearly four decades later, the Demon Drive remains an industry standard precisel
       },
       {
         question: "What's a good budget bass drum pedal for extreme metal?",
-        answer: "The Tama Iron Cobra 600 (around €200-300) brings the same Rolling Glide cam concept as George Kollias's flagship 900 series in a steel-frame package, giving you the wide tension range needed for developing blast-beat speed without the premium price tag."
+        answer: "The Tama Iron Cobra 600 (around €200-300) brings the same Rolling Glide cam concept as the flagship 900 series in a steel-frame package, giving you the wide tension range needed for developing blast-beat speed without the premium price tag."
       }
     ],
 
     // Conclusion
     conclusion: {
       title: "Build Your Cross-Genre Speed Foundation",
-      content: `Extreme metal's low end lives or dies on sustained, blast-beat-capable pedal speed, whatever subgenre you're playing. George Kollias didn't reach 240+ BPM by accident — the Iron Cobra's wide, lockable tension range gave him a platform to develop strokes that stay consistent across an entire album cycle. Gene Hoglan's decades of technically precise drumming across death metal and thrash prove the same principle applies genre-wide: a dependable, predictable pedal is what lets extreme speed become second nature.
+      content: `Extreme metal's low end lives or dies on sustained, blast-beat-capable pedal speed, whatever subgenre you're playing. The Iron Cobra's wide, lockable tension range gives extreme-tempo drummers a platform to develop strokes that stay consistent across an entire album cycle. Gene Hoglan's decades of technically precise drumming across death metal and thrash prove the same principle applies genre-wide: a dependable, predictable pedal is what lets extreme speed become second nature.
 
 Dave Lombardo's and Gene Hoglan's shared Pearl Demon Drive shows the direct drive alternative — zero-slack response that carried "Reign in Blood" and has anchored Hoglan's precision since 2008.
 

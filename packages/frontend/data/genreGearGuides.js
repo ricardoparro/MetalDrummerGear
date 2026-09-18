@@ -81644,7 +81644,7 @@ The DW 9002's proven touring reliability has carried Luzier through his entire K
           tier: "mid",
           driveType: "Chain Drive (Single)",
 
-          description: `John Otto built Limp Bizkit's entire hip-hop-informed groove on a single Pearl Eliminator-family bass drum pedal rather than the double-kick setup common among his nu-metal peers — a deliberate choice reflecting his jazz-trained, feel-first approach to "Significant Other" and "Chocolate Starfish and the Hot Dog Flavored Water."
+          description: `John Otto built Limp Bizkit's entire hip-hop-informed groove on a single, well-calibrated bass drum pedal rather than the double-kick setup common among his nu-metal peers — a deliberate choice reflecting his jazz-trained, feel-first approach to "Significant Other" and "Chocolate Starfish and the Hot Dog Flavored Water."
 
 Otto's single-pedal setup proves that nu-metal's groove doesn't require double bass — a smooth, well-calibrated chain-drive pedal delivers all the punch and control a hip-hop-influenced rhythm section needs, and remains an accessible, road-proven choice for drummers prioritizing pocket over speed.`,
 

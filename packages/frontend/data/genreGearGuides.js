@@ -15256,7 +15256,7 @@ Whatever you choose, prioritize consistency under sustained blast beat use over 
       title: "Why Hardware Matters More in Metal Than Any Other Genre",
       content: `Hardware is the least glamorous part of a metal drummer's rig — and the most likely to fail at the worst possible moment. Sagging cymbal stands during a blast beat, a bass drum that creeps forward on every kick, a throne that wobbles mid-fill: none of that happens because of a bad drum or cymbal. It happens because the hardware underneath wasn't built for the abuse metal drumming puts on it.
 
-Abe Cunningham (Deftones) and Ray Luzier (Korn) both run DW's heaviest stands for exactly this reason — touring metal drummers can't afford a stand collapsing on stage. Lars Ulrich has anchored his Tama kit on a Tama 1st Chair Throne for decades, while John Otto (Limp Bizkit) builds his entire OCDP kit around a Gibraltar custom rack system that keeps a wide double-kick, multi-cymbal setup rigid under sustained groove and blast work. George Kollias (Nile) and Inferno (Behemoth) — two of extreme metal's fastest, most demanding players — both sit on Pearl's D-Series throne line for the stability their technique requires.
+Ray Luzier (Korn) runs DW's heaviest stands for exactly this reason — touring metal drummers can't afford a stand collapsing on stage. Abe Cunningham (Deftones) has relied on the same Tama Iron Cobra hardware anchoring his kit since 1997. Lars Ulrich has anchored his Tama kit on a Tama 1st Chair Throne for decades, while John Otto (Limp Bizkit) builds his entire OCDP kit around a Gibraltar custom rack system that keeps a wide double-kick, multi-cymbal setup rigid under sustained groove and blast work. George Kollias (Nile) and Inferno (Behemoth) — two of extreme metal's fastest, most demanding players — both sit on Pearl's D-Series throne line for the stability their technique requires.
 
 This guide breaks down exactly what separates real touring-grade metal hardware from the flimsy stands that ship with entry-level kits, which specific hardware the pros actually use, and where to spend versus where to save.`,
       keyPoints: [
@@ -15318,12 +15318,12 @@ This guide breaks down exactly what separates real touring-grade metal hardware 
           tier: "pro",
           material: "Double-braced heavy-gauge steel",
 
-          description: `The DW 9000 Series is the hardware pack touring metal drummers reach for when stands simply cannot be allowed to fail. Abe Cunningham (Deftones) runs DW 9000 hardware alongside his DW 9000 double pedal, and Ray Luzier (Korn) has built his entire rig around DW's heaviest stands for the same reason: nothing in the pack flexes, creeps, or loosens across a full arena tour.
+          description: `The DW 9000 Series is the hardware pack touring metal drummers reach for when stands simply cannot be allowed to fail. Ray Luzier (Korn) has built his entire rig around DW's heaviest stands for exactly this reason: nothing in the pack flexes, creeps, or loosens across a full arena tour.
 
 The 9000 Series' oversized tripod bases and reinforced tension bolts hold cymbal angles dead-steady through the hardest crashes and chinas, while the memory-lock system lets a touring drummer rebuild an identical setup at every soundcheck in minutes.`,
 
           pros: [
-            "Abe Cunningham and Ray Luzier's touring-grade hardware standard",
+            "Ray Luzier's touring-grade hardware standard",
             "Oversized tripod bases resist tip-over under hard hits",
             "Reinforced tension bolts hold cymbal angle through abuse",
             "Precise memory-lock system for fast, repeatable setup",
@@ -15342,7 +15342,6 @@ The 9000 Series' oversized tripod bases and reinforced tension bolts hold cymbal
             weight: "Heavy"
           },
           usedBy: [
-            { name: "Abe Cunningham", band: "Deftones", note: "DW 9000 hardware across Deftones' touring rig" },
             { name: "Ray Luzier", band: "Korn", note: "DW hardware anchoring Korn's arena setup" }
           ],
           verdict: "The touring-grade standard. If your hardware needs to survive years of arena stages, this is it.",
@@ -15581,7 +15580,7 @@ Pearl's D-Series line uses a wide, double-braced round base and a locking height
         {
           category: "Best Overall",
           pedal: "DW 9000 Series Hardware Pack",
-          reason: "Abe Cunningham and Ray Luzier's touring-grade standard — built to survive years of arena stages."
+          reason: "Ray Luzier's touring-grade standard — built to survive years of arena stages."
         },
         {
           category: "Best for Complex/Progressive Setups",
@@ -15609,7 +15608,7 @@ Pearl's D-Series line uses a wide, double-braced round base and a locking height
     ],
     relatedDrummers: [
       { slug: 'lars-ulrich', name: 'Lars Ulrich', reason: 'Tama 1st Chair Throne and hardware across four decades of touring' },
-      { slug: 'abe-cunningham', name: 'Abe Cunningham', reason: 'DW 9000 Series hardware for Deftones\' touring rig' },
+      { slug: 'abe-cunningham', name: 'Abe Cunningham', reason: 'Tama Iron Cobra hardware for Deftones\' touring rig' },
       { slug: 'john-otto', name: 'John Otto', reason: 'Gibraltar custom rack anchoring his OCDP kit' },
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Pearl D-3000 Throne for 240+ BPM blast beat stability' }
     ],
@@ -15617,7 +15616,7 @@ Pearl's D-Series line uses a wide, double-braced round base and a locking height
     // Featured drummers (issue template)
     featuredDrummers: [
       { slug: 'lars-ulrich', name: 'Lars Ulrich', reason: 'Tama hardware — four decades of touring durability' },
-      { slug: 'abe-cunningham', name: 'Abe Cunningham', reason: 'DW 9000 Series — Deftones\' touring-grade standard' },
+      { slug: 'abe-cunningham', name: 'Abe Cunningham', reason: 'Tama Iron Cobra 900 Rolling Glide — Deftones\' touring-grade standard' },
       { slug: 'john-otto', name: 'John Otto', reason: 'Gibraltar rack system for a wide nu-metal setup' }
     ],
 
@@ -15625,7 +15624,7 @@ Pearl's D-Series line uses a wide, double-braced round base and a locking height
     faq: [
       {
         question: "What hardware do metal drummers use?",
-        answer: "Touring metal drummers favor heavy, double-braced hardware from DW (9000 Series — Abe Cunningham, Ray Luzier), Tama (Titan Series — Lars Ulrich, Blake Richardson), and Sonor (600 Series — Gavin Harrison). Rack systems like Gibraltar's Road Series (John Otto) are common for wide double-kick setups, and Pearl's D-Series thrones (George Kollias, Inferno) are popular for their stability at extreme tempos."
+        answer: "Touring metal drummers favor heavy, double-braced hardware from DW (9000 Series — Ray Luzier), Tama (Titan Series — Lars Ulrich, Blake Richardson; Iron Cobra hardware — Abe Cunningham), and Sonor (600 Series — Gavin Harrison). Rack systems like Gibraltar's Road Series (John Otto) are common for wide double-kick setups, and Pearl's D-Series thrones (George Kollias, Inferno) are popular for their stability at extreme tempos."
       },
       {
         question: "Do I need a rack for metal?",
@@ -15648,7 +15647,7 @@ Pearl's D-Series line uses a wide, double-braced round base and a locking height
     // Conclusion
     conclusion: {
       title: "Build a Rig That Won't Let You Down",
-      content: `Hardware never gets the spotlight a new snare or cymbal does, but it's the one part of your rig that can end a set if it fails. Abe Cunningham, Lars Ulrich, and Gavin Harrison didn't land on DW, Tama, and Sonor hardware by accident — they needed stands and racks that would survive years of the exact abuse metal drumming inflicts.
+      content: `Hardware never gets the spotlight a new snare or cymbal does, but it's the one part of your rig that can end a set if it fails. Ray Luzier, Lars Ulrich, and Gavin Harrison didn't land on DW, Tama, and Sonor hardware by accident — they needed stands and racks that would survive years of the exact abuse metal drumming inflicts.
 
 If you're building a compact kit, start with a heavy-duty standalone hardware pack like the DW 9000 Series or Tama Titan Series and a Pearl D-Series throne. If you're running a wide double-kick, multi-cymbal setup, look at a rack system like Gibraltar's Road Series to cut down on stand count and setup time.
 
@@ -26612,9 +26611,7 @@ Less common in pure extreme metal but favored by drummers who run DW's full 9000
             height: "20\"-26\" adjustable",
             weight: "7.1 kg"
           },
-          usedBy: [
-            { name: "Abe Cunningham", band: "Deftones", note: "DW 9000 series touring rig" }
-          ],
+          usedBy: [],
           verdict: "Premium durability for drummers already invested in DW's hardware ecosystem.",
           rating: 4.5,
           affiliateLink: "https://www.thomann.de/intl/dw_dwcp9100_throne.htm?partner_id=metalforge"
@@ -99577,14 +99574,14 @@ Start with a budget HCS Dark or Planet Z set to build your sense of dynamics, an
     // SEO metadata
     title: "Best Drum Pedals for Post-Metal: 2026 Ultimate Guide",
     metaTitle: "Best Drum Pedals for Post-Metal 2026 | MetalForge Guide",
-    description: "Discover the best bass drum pedals for post-metal drumming. What Brann Dailor (Tama Speed Cobra), Danny Carey (Sonor Giant Step), Mario Duplantier (Tama Iron Cobra 900), and Abe Cunningham (DW 9000) actually play — from budget to pro, built for dynamic control across atmosphere-to-crescendo build.",
+    description: "Discover the best bass drum pedals for post-metal drumming. What Brann Dailor (Tama Speed Cobra), Danny Carey (Sonor Giant Step), Mario Duplantier (Tama Iron Cobra 900), and Abe Cunningham (Tama Iron Cobra 900 Rolling Glide) actually play — from budget to pro, built for dynamic control across atmosphere-to-crescendo build.",
     seoKeywords: [
       'best drum pedals for post-metal',
       'post-metal drum pedals',
       'brann dailor pedal tama speed cobra',
       'danny carey pedal sonor giant step',
       'mario duplantier pedal tama iron cobra',
-      'abe cunningham pedal dw 9000',
+      'abe cunningham pedal tama iron cobra',
       'bass drum pedal dynamic control',
       'double bass pedal atmospheric metal',
       'best pedal for crescendo build',
@@ -99614,7 +99611,7 @@ Start with a budget HCS Dark or Planet Z set to build your sense of dynamics, an
       title: "Why Pedal Control Matters More Than Speed in Post-Metal",
       content: `Post-metal doesn't reward pure pedal speed the way death or black metal does — it rewards control. A song can spend five minutes on a single, near-silent kick pulse before erupting into a crushing, cathartic peak, and the pedal has to deliver both ends convincingly: a soft, controlled touch during the build, and real power once the crescendo lands.
 
-Brann Dailor drives Mastodon's fluid double bass patterns beneath its polyrhythmic guitar layers on a Tama Speed Cobra double pedal. Danny Carey powers Tool's shifts between delicate restraint and crushing weight on a Sonor Giant Step Twin Effect double pedal. Mario Duplantier — who forgoes a double pedal entirely for dual bass drums — drives Gojira's tectonic low end with twin Tama Iron Cobra 900 Power Glide single pedals. Abe Cunningham anchors Deftones' shift between crushing heaviness and ambient restraint on a DW 9000 Series double pedal.
+Brann Dailor drives Mastodon's fluid double bass patterns beneath its polyrhythmic guitar layers on a Tama Speed Cobra double pedal. Danny Carey powers Tool's shifts between delicate restraint and crushing weight on a Sonor Giant Step Twin Effect double pedal. Mario Duplantier — who forgoes a double pedal entirely for dual bass drums — drives Gojira's tectonic low end with twin Tama Iron Cobra 900 Power Glide single pedals. Abe Cunningham anchors Deftones' shift between crushing heaviness and ambient restraint on a Tama Iron Cobra 900 Rolling Glide double pedal.
 
 This guide breaks down what actually makes a pedal work for post-metal — control at low volume, power at the peak, and consistency across a long, dynamically shifting set — along with these four drummers' specific pedal choices, from budget-friendly options through the professional rigs behind some of modern metal's most dynamically ambitious records.`,
       keyPoints: [
@@ -99650,7 +99647,7 @@ This guide breaks down what actually makes a pedal work for post-metal — contr
         {
           name: "Drive System",
           icon: "⚙️",
-          description: "Abe Cunningham's DW 9000 dual chain system provides power and stability for Deftones' shift between crushing and delicate, while direct drive options like Dailor's Speed Cobra offer more linear response for fluid double bass patterns.",
+          description: "Abe Cunningham's Iron Cobra 900 Rolling Glide chain drive provides power and stability for Deftones' shift between crushing and delicate, while direct drive options like Dailor's Speed Cobra offer more linear response for fluid double bass patterns.",
           recommendation: "Chain drive for power and adjustability; direct-feel chain (Speedo-Ring) for fluid, linear response"
         },
         {
@@ -99764,7 +99761,7 @@ Carey's setup, refined across landmark albums from "Lateralus" (2001) through "F
 
           description: `Mario Duplantier forgoes a double pedal entirely, instead driving dual 22"x18" bass drums with twin Tama Iron Cobra 900 Power Glide single pedals — a setup that gives Gojira's atmospheric, environmentally-themed low end a more organic, powerful feel than a shared double pedal mechanism.
 
-The approach carried Duplantier's playing from "From Mars to Sirius" through Gojira's Grammy-nominated "Fortitude" (2021), proof that a dual single-pedal setup can deliver the same tectonic weight post-metal's crushing peaks demand.`,
+The approach carried Duplantier's playing from "From Mars to Sirius" through Gojira's Grammy-nominated "Fortitude" (2021), proof that a dual single-pedal setup can deliver the same tectonic weight post-metal's crushing peaks demand. Abe Cunningham (Deftones) plays the same Iron Cobra 900 platform in its Rolling Glide double-pedal configuration, driving a single kick rather than Duplantier's dual bass drums.`,
 
           pros: [
             "Mario Duplantier's proven Gojira configuration",
@@ -99786,7 +99783,8 @@ The approach carried Duplantier's playing from "From Mars to Sirius" through Goj
             weight: "3.2 kg (each)"
           },
           usedBy: [
-            { name: "Mario Duplantier", band: "Gojira", note: "Dual single-pedal setup for organic, tectonic low-end weight" }
+            { name: "Mario Duplantier", band: "Gojira", note: "Dual single-pedal setup for organic, tectonic low-end weight" },
+            { name: "Abe Cunningham", band: "Deftones", note: "Rolling Glide double-pedal configuration for the crushing/ambient dynamic shift" }
           ],
           verdict: "A proven alternative approach for drummers who want dual-kick weight and independence over a shared double pedal.",
           rating: 4.6,
@@ -99802,12 +99800,11 @@ The approach carried Duplantier's playing from "From Mars to Sirius" through Goj
           tier: "pro",
           driveType: "Dual Chain Drive",
 
-          description: `Abe Cunningham anchors Deftones' shift between crushing heaviness and ambient restraint on a DW 9000 Series double pedal. The dual chain system provides power and stability while remaining infinitely adjustable, letting Cunningham dial in exactly the response his atmospheric-to-heavy playing needs.
+          description: `The DW 9000 Series double pedal pairs a dual chain drive with a fully adjustable spring and cam system, giving drummers who need to shift between crushing heaviness and ambient restraint total control over every parameter of the stroke.
 
-The pedal has powered Deftones' peak commercial era across "White Pony," "Diamond Eyes," and "Koi No Yokan" — records built on the same crushing/ambient dynamic shift that defines post-metal songwriting.`,
+The free-floating rotor design keeps the beater's action consistent across the pedal's widest dynamic range — well suited to the same crushing/ambient dynamic shift that defines post-metal songwriting.`,
 
           pros: [
-            "Abe Cunningham's proven Deftones configuration",
             "Infinitely adjustable — customize every parameter to taste",
             "Dual chain for power and stability through dynamic extremes",
             "Free-floating rotor design for consistent action",
@@ -99825,9 +99822,7 @@ The pedal has powered Deftones' peak commercial era across "White Pony," "Diamon
             beater: "DW SM101 (reversible)",
             weight: "5.2 kg (pair)"
           },
-          usedBy: [
-            { name: "Abe Cunningham", band: "Deftones", note: "Adjustable response for the crushing/ambient dynamic shift" }
-          ],
+          usedBy: [],
           verdict: "A highly adjustable pedal built for drummers who need total control over their heavy-to-ambient dynamic shift.",
           rating: 4.5,
           affiliateLink: "https://www.thomann.de/intl/dw_dwcp9002_double_pedal.htm?partner_id=metalforge"
@@ -99876,7 +99871,7 @@ The pedal has powered Deftones' peak commercial era across "White Pony," "Diamon
       title: "Single Kick vs Double Pedal for Post-Metal",
       content: `Post-metal's dynamic extremes make the single-kick-with-double-pedal-versus-dual-kick decision matter more than in most other metal subgenres. Here's the breakdown:
 
-**Double Pedal (Dailor's Speed Cobra, Carey's Giant Step, Cunningham's DW 9000):**
+**Double Pedal (Dailor's Speed Cobra, Carey's Giant Step, Cunningham's Iron Cobra 900 Rolling Glide):**
 - One kick drum driven by two beaters — more common, easier to transport
 - Consistent tone between both feet since they strike the same head
 - Preferred by: Brann Dailor, Danny Carey, Abe Cunningham
@@ -99935,13 +99930,13 @@ The pedal has powered Deftones' peak commercial era across "White Pony," "Diamon
       { slug: 'brann-dailor', name: 'Brann Dailor', reason: 'Tama Speed Cobra — fluid double bass beneath polyrhythmic guitar layers' },
       { slug: 'danny-carey', name: 'Danny Carey', reason: 'Sonor Giant Step Twin Effect — consistency across dynamic extremes' },
       { slug: 'mario-duplantier', name: 'Mario Duplantier', reason: 'Twin Tama Iron Cobra 900 — organic, tectonic dual-kick weight' },
-      { slug: 'abe-cunningham', name: 'Abe Cunningham', reason: 'DW 9000 Series — adjustable response for the crushing/ambient shift' }
+      { slug: 'abe-cunningham', name: 'Abe Cunningham', reason: 'Tama Iron Cobra 900 Rolling Glide — adjustable response for the crushing/ambient shift' }
     ],
     featuredDrummers: [
       { slug: 'brann-dailor', name: 'Brann Dailor', reason: 'Tama Speed Cobra — fluid double bass beneath polyrhythmic guitar layers' },
       { slug: 'danny-carey', name: 'Danny Carey', reason: 'Sonor Giant Step Twin Effect — consistency across dynamic extremes' },
       { slug: 'mario-duplantier', name: 'Mario Duplantier', reason: 'Twin Tama Iron Cobra 900 — organic, tectonic dual-kick weight' },
-      { slug: 'abe-cunningham', name: 'Abe Cunningham', reason: 'DW 9000 Series — adjustable response for the crushing/ambient shift' }
+      { slug: 'abe-cunningham', name: 'Abe Cunningham', reason: 'Tama Iron Cobra 900 Rolling Glide — adjustable response for the crushing/ambient shift' }
     ],
     relatedComparisons: [],
 
@@ -99972,7 +99967,7 @@ The pedal has powered Deftones' peak commercial era across "White Pony," "Diamon
     // Conclusion
     conclusion: {
       title: "Choose a Pedal Built for Restraint and Release",
-      content: `Post-metal pedal choice comes down to control, not just speed. Brann Dailor's fluid Tama Speed Cobra, Danny Carey's dynamically consistent Sonor Giant Step, Mario Duplantier's organic dual-kick Iron Cobra 900 setup, and Abe Cunningham's infinitely adjustable DW 9000 all solve the same underlying problem — serving both a whisper-quiet build and a crushing peak — from different angles.
+      content: `Post-metal pedal choice comes down to control, not just speed. Brann Dailor's fluid Tama Speed Cobra, Danny Carey's dynamically consistent Sonor Giant Step, Mario Duplantier's organic dual-kick Iron Cobra 900 setup, and Abe Cunningham's adjustable Iron Cobra 900 Rolling Glide all solve the same underlying problem — serving both a whisper-quiet build and a crushing peak — from different angles.
 
 Start with a proven, affordable option like the Tama Iron Cobra 600 to build your sense of dynamic control, and upgrade to a premium pedal once your material demands the extra range.
 
@@ -106238,7 +106233,7 @@ Whatever you choose: build heel-toe technique gradually, invest in a longboard f
       title: "Why Post-Metal Needs Control Over Raw Double Bass Speed",
       content: `Post-metal's double bass demands look nothing like death or black metal's endurance test. A song can spend five minutes on a near-silent, barely-there kick pulse before erupting into a crushing, cathartic peak, and the bass drum pedal has to serve both ends of that arc convincingly — a soft, controlled touch through the build, then real, weighted power once the crescendo finally lands.
 
-Brann Dailor drives Mastodon's fluid double bass patterns beneath its polyrhythmic guitar layers on a Tama Speed Cobra double pedal, prizing its smooth, direct-drive-like feel for passages that shift from delicate to dense within a single song. Danny Carey powers Tool's swings between whisper-quiet restraint and crushing weight on a Sonor Giant Step Twin Effect double pedal — part of the same architecturally deep SQ2 platform behind the rest of his kit. Mario Duplantier skips a double pedal entirely, driving Gojira's tectonic low end with twin independent Tama Iron Cobra 900 Power Glide single pedals for full, organic control over each kick. Abe Cunningham anchors Deftones' shift between ambient restraint and crushing heaviness on a DW 9000 Series double pedal built for exactly that kind of dynamic range.
+Brann Dailor drives Mastodon's fluid double bass patterns beneath its polyrhythmic guitar layers on a Tama Speed Cobra double pedal, prizing its smooth, direct-drive-like feel for passages that shift from delicate to dense within a single song. Danny Carey powers Tool's swings between whisper-quiet restraint and crushing weight on a Sonor Giant Step Twin Effect double pedal — part of the same architecturally deep SQ2 platform behind the rest of his kit. Mario Duplantier skips a double pedal entirely, driving Gojira's tectonic low end with twin independent Tama Iron Cobra 900 Power Glide single pedals for full, organic control over each kick. Abe Cunningham anchors Deftones' shift between ambient restraint and crushing heaviness on a Tama Iron Cobra 900 Rolling Glide double pedal built for exactly that kind of dynamic range.
 
 This guide breaks down what actually matters in a bass drum pedal for post-metal's slow-build, dynamic-swell songwriting — smooth low-volume control, weighted power at the peak, and consistency across an unusually long set — with specific pedal recommendations from budget-friendly starters through the professional rigs behind some of modern metal's most patient, dynamically ambitious records.`,
       keyPoints: [
@@ -106274,7 +106269,7 @@ This guide breaks down what actually matters in a bass drum pedal for post-metal
         {
           name: "Drive System Feel",
           icon: "⚙️",
-          description: "Abe Cunningham's DW 9000 dual-chain system delivers power and stability for Deftones' shift between crushing and delicate, while Speedo-Ring-equipped pedals like Dailor's Speed Cobra offer a smoother, more linear feel for fluid, musical double bass patterns.",
+          description: "Abe Cunningham's Iron Cobra 900 Rolling Glide chain system delivers power and stability for Deftones' shift between crushing and delicate, while Speedo-Ring-equipped pedals like Dailor's Speed Cobra offer a smoother, more linear feel for fluid, musical double bass patterns.",
           recommendation: "Chain drive with a smooth sprocket system for musical, linear response across dynamic extremes"
         },
         {
@@ -106375,7 +106370,7 @@ Carey's setup reflects exactly the kind of dynamic consistency post-metal-style 
           driveType: "Chain Drive",
           description: `Mario Duplantier forgoes a double pedal entirely, driving Gojira's dual bass drums with two fully independent Tama Iron Cobra 900 Power Glide single pedals — a setup that gives each kick its own tone and timing rather than sharing a single spring and footboard. The Rolling Glide cam delivers the organic, powerful impact that gives Gojira's peaks their tectonic weight.
 
-For post-metal drummers running dual kicks rather than a single kick with a double pedal, this dual-independent-pedal approach is a genuine alternative worth considering.`,
+For post-metal drummers running dual kicks rather than a single kick with a double pedal, this dual-independent-pedal approach is a genuine alternative worth considering. Abe Cunningham (Deftones) plays the same Iron Cobra 900 platform's Rolling Glide double-pedal configuration on a single kick, anchoring Deftones' shift between crushing heaviness and ambient restraint.`,
           pros: [
             "Mario Duplantier's proven Gojira setup",
             "Fully independent control over each kick's tone and timing",
@@ -106395,7 +106390,8 @@ For post-metal drummers running dual kicks rather than a single kick with a doub
             footboard: "Standard length"
           },
           usedBy: [
-            { name: "Mario Duplantier", band: "Gojira", note: "Dual independent single pedals for tectonic, organic low end" }
+            { name: "Mario Duplantier", band: "Gojira", note: "Dual independent single pedals for tectonic, organic low end" },
+            { name: "Abe Cunningham", band: "Deftones", note: "Rolling Glide double-pedal configuration for the crushing/ambient dynamic shift" }
           ],
           verdict: "Best for post-metal drummers running true dual bass drums instead of a double pedal.",
           rating: 4.6,
@@ -106410,11 +106406,10 @@ For post-metal drummers running dual kicks rather than a single kick with a doub
           priceRange: "€600-800 per double set",
           tier: "premium",
           driveType: "Dual Chain Drive",
-          description: `Abe Cunningham anchors Deftones' shift between crushing heaviness and ambient restraint on a DW 9000 Series double pedal, whose dual-chain system delivers extra power and stability without sacrificing the smooth, controlled feel a quieter passage needs.
+          description: `The DW 9000 Series double pedal's dual-chain system delivers extra power and stability without sacrificing the smooth, controlled feel a quieter post-metal passage needs.
 
 The 9000's adjustable everything — cam, spring tension, footboard angle — lets a post-metal drummer dial in exactly the balance of control and power their material demands.`,
           pros: [
-            "Abe Cunningham's proven Deftones configuration",
             "Dual-chain drive adds power and stability",
             "Extensively adjustable cam, tension, and footboard geometry",
             "DW's signature smooth, dependable action"
@@ -106431,9 +106426,7 @@ The 9000's adjustable everything — cam, spring tension, footboard angle — le
             beater: "Hard felt (stock)",
             footboard: "Adjustable angle"
           },
-          usedBy: [
-            { name: "Abe Cunningham", band: "Deftones", note: "Dual-chain power and stability across dynamic extremes" }
-          ],
+          usedBy: [],
           verdict: "The most powerful, adjustable double pedal for drummers who need maximum control across the widest dynamic range.",
           rating: 4.6,
           affiliateLink: "https://www.thomann.de/intl/dw_9000_double_pedal.htm?partner_id=metalforge"
@@ -106471,7 +106464,7 @@ The 9000's adjustable everything — cam, spring tension, footboard angle — le
           priceRange: "€300-420 per double set",
           tier: "mid",
           material: "Cast aluminum",
-          description: "DW's dependable Delta III linkage brings the brand's signature smooth, controlled feel to a mid-range price, offering an accessible way into the kind of dynamic consistency Abe Cunningham's flagship 9000 delivers.",
+          description: "DW's dependable Delta III linkage brings the brand's signature smooth, controlled feel to a mid-range price, offering an accessible way into the kind of dual-chain dynamic consistency the flagship DW 9000 Series delivers.",
           pros: [
             "DW's signature smooth, controllable action",
             "Solid Delta III linkage for consistent response",
@@ -106518,7 +106511,7 @@ The 9000's adjustable everything — cam, spring tension, footboard angle — le
       { slug: 'brann-dailor', name: 'Brann Dailor', reason: 'Tama Speed Cobra — fluid double bass patterns beneath Mastodon\'s polyrhythmic layers' },
       { slug: 'danny-carey', name: 'Danny Carey', reason: 'Sonor Giant Step Twin Effect — consistent response across Tool\'s dynamic extremes' },
       { slug: 'mario-duplantier', name: 'Mario Duplantier', reason: 'Dual independent Tama Iron Cobra 900 pedals for Gojira\'s tectonic low end' },
-      { slug: 'abe-cunningham', name: 'Abe Cunningham', reason: 'DW 9000 dual-chain power and stability for Deftones' }
+      { slug: 'abe-cunningham', name: 'Abe Cunningham', reason: 'Tama Iron Cobra 900 Rolling Glide power and stability for Deftones' }
     ],
 
     featuredDrummers: [

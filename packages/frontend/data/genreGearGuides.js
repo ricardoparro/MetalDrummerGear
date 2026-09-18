@@ -18386,7 +18386,7 @@ For a doom metal drummer running a large, multi-tom, multi-cymbal setup, the rac
           tier: "pro",
           material: "Double-braced heavy-gauge steel",
 
-          description: `Brann Dailor's expansive Mastodon kit needs mounts capable of properly supporting oversized, deep-shell toms without sag — exactly what the DW 9000's oversized tripod bases and reinforced tension bolts are built for. The same reinforced clamps handle Mario Duplantier's crushing, down-tuned tectonic riffing without drift.
+          description: `Doom metal's expansive, deep-shell tom setups need mounts capable of properly supporting oversized toms without sag — exactly what the DW 9000's oversized tripod bases and reinforced tension bolts are built for. The same reinforced clamps handle Mario Duplantier's crushing, down-tuned tectonic riffing without drift.
 
 For doom metal's heavier, larger-format kits, the memory-lock system lets a drummer rebuild a precise oversized layout at every soundcheck without resetting from scratch.`,
 
@@ -18408,9 +18408,7 @@ For doom metal's heavier, larger-format kits, the memory-lock system lets a drum
             includes: "Cymbal stands, hi-hat stand, snare stand",
             weight: "Heavy"
           },
-          usedBy: [
-            { name: "Brann Dailor", band: "Mastodon", note: "Oversized mount support for an expansive, deep-shell tom setup" }
-          ],
+          usedBy: [],
           verdict: "The touring-grade standard for large, oversized doom metal kits.",
           rating: 4.8,
           affiliateLink: "https://www.thomann.de/intl/dw_9000_series_hardware_pack.htm?partner_id=metalforge"

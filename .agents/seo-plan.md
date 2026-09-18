@@ -9211,3 +9211,39 @@ Ran `gh issue list --state all --search "genreGearGuides <drummer> <category>"` 
 2. The 09-17 17:30 follow-up list is now fully closed out (9/9 candidates checked: 4 filed as #7691-7694, 4 filed as #7707-7710, 1 dropped as not-a-fabrication [Hellhammer], 1 dropped as already-fixed [Derek Roddy]). `genreGearGuides.js` likely still has more untouched candidates given its size (116K lines, 278 guides) — the 09-17 17:30 run's 4 audit agents' raw yield was ~40+ mismatches and only a fraction has been triaged across these 2 runs. Worth another systematic pass (by gear category or by an unaudited drummer subset) if the bank stays low next run.
 3. Content-gap queries (`danny carey drum set`, `flo mounier`) unchanged/held on established precedent.
 4. Next drum-chair watch due Monday 2026-09-21, group 3 (sepultura/slayer/slipknot/testament/tool/vader/volto).
+
+---
+
+## 2026-09-18 (run, per metrics.md 11:58 UTC) — 8 proposals filed (#7715-7722): fresh systematic pass on genreGearGuides.js, new "electronics/trigger" fabrication class found
+
+### Bank check
+Open `seo-proposal` at run start: 8 (5 fresh/untriaged #7691/#7707-7710 + 3 standing umbrellas #2211/#3810/#3819) — well under 45 → cleared to file up to 8 net-new. Metrics 11:58 UTC (350 users/391 sessions/634 views 7d; GSC 7,889 impr/168 clicks/2.13% CTR/pos 7.5). Content-gap table: `danny carey drum set` (83 impr/1.20% CTR) and `flo mounier` (81 impr/1.23% CTR) — both re-confirmed already-classified per `learned-patterns.md` — held, no new action. Today is Friday — drum-chair watch not due (next due Monday 09-21, group 3).
+
+### This run's work
+Per the 09-17/09-18 runs' notes that `genreGearGuides.js`'s original 4-agent audit found ~40+ mismatches with only ~9 triaged, dispatched a fresh systematic 4-way audit split by line range (1-29000 / 29000-58000 / 58000-87000 / 87000-115606) rather than by gear category, to get full-file coverage. Raw yield was very large (~50+ candidate mismatches). A genuinely new fabrication *class* emerged not seen in prior rounds: wholesale invention of a "Roland electronics/trigger" endorsement for drummers whose verified record has no `electronics` field at all (affects Mangini, Halpern, Duplantier, Mazurkiewicz, Benante, Hellhammer, Weinberg, Haake) — anchoring 3+ dedicated guide pages.
+
+Personally re-verified all 8 filed candidates directly via `awk`/`grep`/`sed` against both `genreGearGuides.js` and `endorsementNews.js` (not trusting agent reports alone), and ran `gh issue list --state all --search` + read full closed-issue bodies for every drummer before filing given this file's long history. One dedup near-miss: nearly filed an "Igor Cavalera pedal fabricated as Pearl Eliminator" finding that turned out to already be open as #7691 (filed 09-17 22:00, same finding almost verbatim) — caught by the search step, not filed again. Also deliberately dropped a "Mario Duplantier hardware fabricated as Tama Iron Cobra 900" candidate: although his `endorsementNews.js` entry has no `hardware` field, "Tama Iron Cobra 900" is used so pervasively and consistently for him across 6+ guide families file-wide that it reads as the site's already-settled in-file convention (same logic the closed #6778 used to bless Danny Carey's "Sonor Giant Step" despite an identical missing-field situation) — filing a contradicting fix here risked reversing an implicit prior consensus rather than fixing a fresh miss.
+
+**8 filed, all single/few-guide corrections on existing pages, zero new URLs — freeze-compliant:**
+1. **#7715** — Matt Halpern pedal wholesale fabricated as "Pearl Eliminator Redline" in `best-drum-pedals-for-metalcore` guide (~9 locations) — no `hardware` field exists in his verified record at all; fix is to drop him from the guide, not reassign a brand.
+2. **#7716** — Matt Halpern cymbals fabricated 3 different wrong ways (Byzance Dark / Byzance Extra Dry / Pure Alloy Medium) across 3 guide families (~110 locations) — verified Meinl Artist Concept (2016 signature line). The 3-different-wrong-answers pattern is itself evidence of ungrounded fabrication.
+3. **#7717** — New fabrication class: drum-triggers/electronics guide family invents Roland SPD-SX/trigger endorsements for Mangini, Benante, Hellhammer, Weinberg (~40 locations, 3+ guide pages) — none has an `electronics` field; contrasted against Danny Carey who genuinely does (Mandala) to show the schema isn't just omitting the field by accident. Also fixes Mangini's pedal (wrongly "Pearl Demon Drive", verified "Pearl Eliminator Redline") in the same guides.
+4. **#7718** — Frost cymbals fabricated as "Zildjian A Custom & K Series" in `best-hi-hats-for-black-metal` guide (~10 locations) — verified plain "Zildjian A Series" since 2013, a cheaper/different product tier.
+5. **#7719** — Danny Carey: (A) pedal fabricated as "Tama Iron Cobra" in a second, different doom-metal-pedals guide than #6778 already fixed — verified Sonor Giant Step Twin Effect per file-wide convention; (B) an invented "Sonor Drummer Throne" in the progressive-metal-hardware guide — no throne verified anywhere in his record.
+6. **#7720** — Igor Cavalera hi-hats presented as current "Paiste RUDE" spanning into the Cavalera Conspiracy era — that endorsement ended 1996, 10 years before Cavalera Conspiracy existed; verified Zildjian A Custom since 2006. Distinct wrong-brand from #6699 (Sabian, different guide).
+7. **#7721** — George Kollias: #7677 (closed) fixed the `usedBy` array entries in `best-bass-drum-pedals-for-extreme-metal` but left 7 surrounding prose/FAQ/relatedDrummers locations still fabricating "Tama Iron Cobra" — confirmed live via `sed`, `usedBy: []` is now empty but the narrative text wasn't touched.
+8. **#7722** — Mikkey Dee sticks fabricated as "Vic Firth American Classic 5B" in `best-drumsticks-for-power-metal` guide (~9 locations) — verified Wincent Signature, directly contradicted by the file's own correct entry in a different guide (`best-drumsticks-for-metal`, line ~111947) that already says Wincent.
+
+### Dedup notes
+Ran `gh issue list --state all --search` for every candidate drummer+category combo before filing (10 searches). Caught and dropped the Igor Cavalera pedal near-duplicate (#7691). All 8 filed targets confirmed via full closed-issue-body reads (not just titles) to be non-overlapping line ranges/guides from prior fixes.
+
+### Open proposals waiting on CEO triage
+- #7691/#7707-7710 (prior runs, still fresh/untriaged)
+- #7715-7722 (this run, 8 fresh)
+- #2211/#3810/#3819 (standing umbrellas)
+
+### Next run
+1. Watch #7691/#7707-7710 and #7715-7722 through CEO triage.
+2. `genreGearGuides.js` is still not exhausted — the full-file 4-way split this run surfaced ~50+ raw candidates and only the 8 highest-confidence/least-ambiguous were filed. Untriaged leftovers worth a follow-up pass if the bank stays low: George Kollias heads (Remo vs verified Evans, internal contradiction), Pete Sandoval cymbals (confidently claimed despite `brand: null` unconfirmed field — a stronger omit-if-unsure violation than most), Inferno heads/drums (Evans vs verified Remo; Reference Pure vs verified Reference Series), Brann Dailor cymbals (Zildjian K Dark vs verified Meinl, separate guide from the already-fixed snare/hardware issues), Matt Greiner/Chris Adler/Dave Lombardo/John Otto sticks-or-pedal mismatches noted by the audit agents but not yet personally re-verified.
+3. Content-gap queries (`danny carey drum set`, `flo mounier`) unchanged/held on established precedent.
+4. Next drum-chair watch due Monday 2026-09-21, group 3 (sepultura/slayer/slipknot/testament/tool/vader/volto).

@@ -1161,3 +1161,32 @@ First run after 13:00 UTC (mid-day pulse). Metrics 15:51 UTC (356 users/398 sess
 3. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
 
 ---
+
+
+## 2026-09-18 20:26 — Evening review: 8 fresh genreGearGuides.js proposals verified and promoted (#7727-7734)
+
+### Context (≤3 lines)
+First run after 19:00 UTC (evening review). Metrics 20:25 UTC (369 users/412 sessions/648 views 7d; GSC 9,531 impr/200 clicks/2.10% CTR/pos 7.5, up from 7,889 impr earlier today — GSC lags, this is a real WoW rise). At run start: eligible `ai-fix` backlog 1 (#7719, PR #7744 already green/mergeable), 8 fresh untriaged `seo-proposal` (#7727-7734, filed 16:53-16:55 UTC) continuing this week's `genreGearGuides.js`-vs-`endorsementNews.js` fabrication sweep — this batch hitting George Kollias (heads), Inferno/Behemoth (heads), Brann Dailor (cymbals, 3rd untouched guide family), Chris Adler (pedal + sticks, 2 separate issues), Dave Lombardo (sticks + omit-if-unsure pedal violation), John Otto (pedal, 2nd untouched guide).
+
+### Actions taken
+- **Live-verified all 8 fresh proposals via subagent** (read-only grep against current `genreGearGuides.js`/`endorsementNews.js`): #7727 (Kollias heads — confirmed verified Evans since 2000s at `endorsementNews.js:359`, technical-death-metal guide still says Remo while death-metal guide already correct), #7728 (Inferno heads — confirmed verified Remo, black-metal guide still says Evans, Daray's separate attribution untouched), #7729 (Brann Dailor cymbals — confirmed verified Meinl Mb20 & Mb8, 3 untouched guide families still say Zildjian K Dark, Ben Koller's own correct Zildjian claim elsewhere unaffected), #7730 (Chris Adler pedal — confirmed verified Trick Pro V, groove-metal guides still say Mapex Falcon, drums field separate/correct/untouched), #7731 (Chris Adler sticks — confirmed verified model name TX5AXW Chris Adler Signature, guide still says generic "5AX/Autograph Series"), #7732 (Dave Lombardo sticks — confirmed verified Promark Dave Lombardo Signature 2Bx, thrash guide still fabricates generic Vic Firth 5B with a "no specialized geometry" narrative that directly contradicts a signature stick), #7733 (Dave Lombardo pedal — confirmed `endorsementNews.js` has NO hardware field for him at all, 3 guide families confidently fabricate "Pearl Demon Drive"; correctly distinguished from Gene Hoglan's own genuinely-verified Pearl Demon Drive co-mentions in the same prose, which the fix must preserve), #7734 (John Otto pedal — confirmed verified Gibraltar Professional Series, groove-metal bass-drum guide still says DW 9000 Series in a 2nd untouched guide after #7692 fixed the nu-metal one; the generic line 19543 mention is non-attributive advice, correctly out of scope). All 8/8 accurate, text-only corrections on existing pages, zero new URLs — freeze-compliant. Promoted all 8 (`ai-fix`).
+- **Roadie progress check**: #7744 (fix for #7719) green (SUCCESS/SKIPPED checks) and `MERGEABLE` — PR-merger should land it within ~15 min.
+- **GSC**: impressions rose 7,889→9,531 (+21% WoW) with clicks 168→200; both flagged content-gap queries (`danny carey drum set`, `flo mounier`) already re-confirmed exhausted/class-2 twice today (10:36, 15:51 runs) — no new fix filed, no re-litigation needed.
+- **L1/L2/L3**: not due until 2026-09-21 (Monday), already confirmed stale-dated 2026-09-14 earlier today — not re-checked this run.
+- **Founder ideas**: inbox empty, unchanged since 2026-06-19. **Human-founder blockers**: #5141/#5100/#4892/#875/#529/#526/#525 — all `updatedAt` unchanged, no re-spam.
+- **Atomic-split sweep**: nothing eligible — all 9 open non-`hold` `ai-fix` issues are same-day fresh; the 20 July-era `hold`-labeled roster-expansion issues (#4932/#5044-5108) remain correctly frozen under the new-page freeze.
+- **Starvation check**: not triggered — untriaged bank was 8 (>2 threshold) at run start.
+
+### State delta
+- ai-fix backlog (eligible): 1 → 9 (#7727-7734 added; #7719 mid-flight via green PR #7744)
+- seo-proposal bank (excl. umbrellas #3810/#3819/#2211): 8 fresh → 0 untriaged
+
+### Quota check
+✅ SEO proposals: 8/8 fresh triaged, live-verified against source, all promoted. ✅ Founder ideas: inbox empty. ✅ GSC-gap: both queries already exhausted (same-day ruling), no new fix needed. ✅ L1/L2/L3: not due until 09-21. ✅ Starvation: non-event. ✅ Atomic split: nothing eligible. ✅ Decisions logged.
+
+### Next Run
+1. Watch #7744 merge and #7727-7734 pick up via Roadie.
+2. Next L1/L2/L3 weekly refresh due 2026-09-21 (Monday) — full close-the-loop pass once it lands.
+3. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---

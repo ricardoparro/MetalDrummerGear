@@ -111793,7 +111793,7 @@ Whatever you choose, prioritize double-braced construction and genuine expandabi
       'chris adler drumsticks',
       'mikkey dee drumsticks',
       'vic firth 5b metal drumsticks',
-      'promark 5ax chris adler',
+      'promark tx5axw chris adler',
       'wincent mikkey dee sticks',
       'best drumstick diameter for metal',
       'hickory drumsticks metal'
@@ -111822,7 +111822,7 @@ Whatever you choose, prioritize double-braced construction and genuine expandabi
       title: "What Actually Matters When Picking Metal Drumsticks?",
       content: `Metal covers everything from mid-tempo groove to 240 BPM blast beats, which means there's no single "correct" stick — but there are fundamentals that hold across the entire genre: enough diameter to survive hard, aggressive playing without snapping every set, a tip shape that projects cleanly through distorted guitars, and a length/balance that doesn't fight your technique during long, physically demanding sets.
 
-Nicko McBrain of Iron Maiden plays a Vic Firth Signature Series stick built on a 5B shaft with a reinforced neck and tip — a beefed-up variant of metal's most common diameter, chosen for durability across Iron Maiden's marathon arena sets. Chris Adler of Lamb of God plays the ProMark 5AX, a slightly slimmer .551" stick with an acorn wood tip that gives his technical, groove-driven playing a fast, dark-toned attack. Mikkey Dee, who powered Motörhead and later Scorpions, plays a Wincent signature stick built on a heavier 2B-class .622" diameter with a fat acorn/teardrop tip, reflecting his famously hard-hitting, high-volume approach.
+Nicko McBrain of Iron Maiden plays a Vic Firth Signature Series stick built on a 5B shaft with a reinforced neck and tip — a beefed-up variant of metal's most common diameter, chosen for durability across Iron Maiden's marathon arena sets. Chris Adler of Lamb of God plays the ProMark TX5AXW Chris Adler Signature, a slightly slimmer .551" stick with an acorn wood tip that gives his technical, groove-driven playing a fast, dark-toned attack. Mikkey Dee, who powered Motörhead and later Scorpions, plays a Wincent signature stick built on a heavier 2B-class .622" diameter with a fat acorn/teardrop tip, reflecting his famously hard-hitting, high-volume approach.
 
 This guide covers the fundamentals that make a drumstick work for metal — diameter, length, tip shape, and wood — and breaks down exactly what these three influential metal drummers play, plus solid picks for every budget.`,
       keyPoints: [
@@ -111840,7 +111840,7 @@ This guide covers the fundamentals that make a drumstick work for metal — diam
         {
           name: "Diameter and Gauge",
           icon: "📏",
-          description: "5B is metal's most common diameter — thick enough for power without the fatigue a full 2B causes over a long set. Chris Adler's ProMark 5AX sits slightly slimmer at .551\" for faster, more technical playing, while Mikkey Dee's heavier .622\" Wincent signature reflects a harder-hitting, more power-focused approach.",
+          description: "5B is metal's most common diameter — thick enough for power without the fatigue a full 2B causes over a long set. Chris Adler's ProMark TX5AXW sits slightly slimmer at .551\" for faster, more technical playing, while Mikkey Dee's heavier .622\" Wincent signature reflects a harder-hitting, more power-focused approach.",
           recommendation: "5B for most metal playing; a slimmer 5A-class stick for technical speed; 2B-class diameter only if you specifically need maximum power"
         },
         {
@@ -111852,7 +111852,7 @@ This guide covers the fundamentals that make a drumstick work for metal — diam
         {
           name: "Tip Shape",
           icon: "🔵",
-          description: "Acorn tips, used on both Chris Adler's ProMark 5AX and Mikkey Dee's Wincent signature, deliver a fuller, darker cymbal tone that cuts through a dense mix without sounding thin. Nicko McBrain's Vic Firth signature uses a reinforced oval/acorn hybrid tip built for extra durability. Round tips give the most even, articulate response but slightly less low-end body on cymbals.",
+          description: "Acorn tips, used on both Chris Adler's ProMark TX5AXW and Mikkey Dee's Wincent signature, deliver a fuller, darker cymbal tone that cuts through a dense mix without sounding thin. Nicko McBrain's Vic Firth signature uses a reinforced oval/acorn hybrid tip built for extra durability. Round tips give the most even, articulate response but slightly less low-end body on cymbals.",
           recommendation: "Acorn tip for a fuller, darker cymbal voice; round tip for the most even, articulate all-purpose response"
         },
         {
@@ -111921,17 +111921,17 @@ Across four decades of Iron Maiden's arena and stadium touring, McBrain's signat
         },
         {
           rank: 2,
-          name: "ProMark 5AX — Chris Adler",
+          name: "ProMark TX5AXW Chris Adler Signature",
           brand: "ProMark",
-          model: "Autograph Series 5AX",
+          model: "TX5AXW Chris Adler Signature",
           image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Drumsticks.jpg/640px-Drumsticks.jpg",
           priceRange: "€10-15 (pair)",
           tier: "pro",
           material: "American Hickory",
 
-          description: `Chris Adler of Lamb of God designed the ProMark 5AX around a .551" diameter — close to a standard 5A but slightly thicker — paired with an acorn wood tip that gives a darker, fuller tone than a typical round-tip 5A. The combination suits Adler's technical, groove-heavy playing, where speed and articulation matter as much as raw power.
+          description: `Chris Adler of Lamb of God plays the ProMark TX5AXW Chris Adler Signature, his own named signature stick, built around a .551" diameter — close to a standard 5A but slightly thicker — paired with an acorn wood tip that gives a darker, fuller tone than a typical round-tip 5A. The combination suits Adler's technical, groove-heavy playing, where speed and articulation matter as much as raw power.
 
-The 5AX proves that metal doesn't always demand the heaviest available stick — Adler's intricate, precisely placed fills and blast-beat runs benefit more from a fast, well-balanced stick than from maximum mass.`,
+The TX5AXW proves that metal doesn't always demand the heaviest available stick — Adler's intricate, precisely placed fills and blast-beat runs benefit more from a fast, well-balanced stick than from maximum mass.`,
 
           pros: [
             "Chris Adler's proven Lamb of God setup — built for technical, groove-driven metal",
@@ -111952,7 +111952,7 @@ The 5AX proves that metal doesn't always demand the heaviest available stick —
             grip: "Lacquered"
           },
           usedBy: [
-            { name: "Chris Adler", band: "Lamb of God", note: "ProMark 5AX — fast, articulate attack for technical groove metal" }
+            { name: "Chris Adler", band: "Lamb of God", note: "ProMark TX5AXW signature — fast, articulate attack for technical groove metal" }
           ],
           verdict: "Best for technical, groove-oriented metal drumming. Fast, balanced, and darker-toned than a standard 5A.",
           rating: 4.6,
@@ -112046,7 +112046,7 @@ It's the stick most metal drummers land on by default — proven, widely availab
           tier: "budget",
           material: "American Hickory",
 
-          description: `For lighter metal styles or drummers prioritizing speed and endurance over maximum power, the Vic Firth American Classic 5A offers a genuine, more affordable alternative to Chris Adler's slightly thicker 5AX. The reduced diameter improves endurance across long, technical sets while keeping the same trusted hickory construction and manufacturing quality.
+          description: `For lighter metal styles or drummers prioritizing speed and endurance over maximum power, the Vic Firth American Classic 5A offers a genuine, more affordable alternative to Chris Adler's slightly thicker TX5AXW signature. The reduced diameter improves endurance across long, technical sets while keeping the same trusted hickory construction and manufacturing quality.
 
 A sensible entry point for developing metal drummers before stepping up to a 5B or a signature model.`,
 
@@ -112118,7 +112118,7 @@ A sensible entry point for developing metal drummers before stepping up to a 5B 
       title: "5A vs 5B vs 2B-Class Sticks for Metal",
       content: `Metal's stick choice comes down to a genuine tradeoff between endurance, power, and durability. Here's the honest breakdown across the three diameters profiled by this guide's featured drummers:
 
-**5A-Class (ProMark 5AX — Chris Adler; Vic Firth 5A):**
+**5A-Class (ProMark TX5AXW — Chris Adler; Vic Firth 5A):**
 - Best endurance across long, technical, or fast-paced sets
 - Slightly less raw power and durability than 5B
 - Best for: technical, groove-oriented metal prioritizing speed and articulation
@@ -112154,7 +112154,7 @@ A sensible entry point for developing metal drummers before stepping up to a 5B 
         },
         {
           category: "Best for Technical Playing",
-          pedal: "ProMark 5AX — Chris Adler",
+          pedal: "ProMark TX5AXW Chris Adler Signature",
           reason: "Fast, balanced, and darker-toned — built for Lamb of God's technical, groove-driven attack."
         },
         {
@@ -112179,14 +112179,14 @@ A sensible entry point for developing metal drummers before stepping up to a 5B 
     ],
     relatedDrummers: [
       { slug: 'nicko-mcbrain', name: 'Nicko McBrain', reason: 'Vic Firth Signature Series — reinforced 5B for marathon arena touring' },
-      { slug: 'chris-adler', name: 'Chris Adler', reason: 'ProMark 5AX — fast, articulate attack for technical groove metal' },
+      { slug: 'chris-adler', name: 'Chris Adler', reason: 'ProMark TX5AXW signature — fast, articulate attack for technical groove metal' },
       { slug: 'mikkey-dee', name: 'Mikkey Dee', reason: 'Wincent Signature — maximum power and durability for hard-hitting metal' }
     ],
 
     // Featured drummers (issue template)
     featuredDrummers: [
       { slug: 'nicko-mcbrain', name: 'Nicko McBrain', reason: 'Vic Firth Signature Series — the reinforced 5B behind Iron Maiden\'s touring durability' },
-      { slug: 'chris-adler', name: 'Chris Adler', reason: 'ProMark 5AX — Lamb of God\'s fast, technical attack' },
+      { slug: 'chris-adler', name: 'Chris Adler', reason: 'ProMark TX5AXW signature — Lamb of God\'s fast, technical attack' },
       { slug: 'mikkey-dee', name: 'Mikkey Dee', reason: 'Wincent Signature — Motörhead and Scorpions\' hard-hitting power' },
     ],
 
@@ -112198,7 +112198,7 @@ A sensible entry point for developing metal drummers before stepping up to a 5B 
       },
       {
         question: "What drumsticks does Chris Adler use?",
-        answer: "Chris Adler of Lamb of God plays the ProMark 5AX — a .551\" diameter stick with an acorn wood tip, giving his technical, groove-heavy playing a fast, dark-toned attack."
+        answer: "Chris Adler of Lamb of God plays the ProMark TX5AXW Chris Adler Signature — a .551\" diameter stick with an acorn wood tip, giving his technical, groove-heavy playing a fast, dark-toned attack."
       },
       {
         question: "What drumsticks does Mikkey Dee use?",
@@ -112206,7 +112206,7 @@ A sensible entry point for developing metal drummers before stepping up to a 5B 
       },
       {
         question: "What's the best drumstick diameter for metal?",
-        answer: "5B is metal's proven baseline — enough mass for power without excessive fatigue. Slimmer 5A-class sticks suit fast, technical playing (Chris Adler's ProMark 5AX), while heavier 2B-class diameters (Mikkey Dee's Wincent signature) suit maximum power and high-volume styles."
+        answer: "5B is metal's proven baseline — enough mass for power without excessive fatigue. Slimmer 5A-class sticks suit fast, technical playing (Chris Adler's ProMark TX5AXW signature), while heavier 2B-class diameters (Mikkey Dee's Wincent signature) suit maximum power and high-volume styles."
       },
       {
         question: "Does wood type matter for metal drumsticks?",
@@ -112221,7 +112221,7 @@ A sensible entry point for developing metal drummers before stepping up to a 5B 
     // Conclusion
     conclusion: {
       title: "Build Your Metal Stick Rotation",
-      content: `Metal's stick fundamentals hold across nearly every subgenre: American hickory for durability, 5B as the proven baseline diameter, and tip shape chosen for the cymbal tone you want rather than habit alone. Nicko McBrain's reinforced 5B, Chris Adler's slimmer, technical 5AX, and Mikkey Dee's heavier, power-focused Wincent signature show three legitimate, well-documented paths through that same set of fundamentals.
+      content: `Metal's stick fundamentals hold across nearly every subgenre: American hickory for durability, 5B as the proven baseline diameter, and tip shape chosen for the cymbal tone you want rather than habit alone. Nicko McBrain's reinforced 5B, Chris Adler's slimmer, technical TX5AXW signature, and Mikkey Dee's heavier, power-focused Wincent signature show three legitimate, well-documented paths through that same set of fundamentals.
 
 Start with a standard 5B if you're unsure — it's metal's default for good reason. Move toward a 5A-class stick if your playing leans fast and technical, or toward a heavier 2B-class diameter if you specifically need maximum power and durability for a hard-hitting style.
 

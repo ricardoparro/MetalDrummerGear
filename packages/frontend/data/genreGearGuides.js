@@ -79019,7 +79019,7 @@ Budget shouldn't stop you either. A Meinl HCS or Sabian SBR set will teach real 
     // SEO metadata
     title: "Best Drum Pedals for Doom Metal: 2026 Ultimate Guide",
     metaTitle: "Best Drum Pedals for Doom Metal 2026 | MetalForge Expert Guide",
-    description: "Best drum pedals for doom metal drumming: what Mario Duplantier (dual Tama Iron Cobra 900 Power Glide), Igor Cavalera (Pearl Eliminator), Danny Carey (Sonor Giant Step Twin Effect), and Brann Dailor (Tama Speed Cobra) actually play. Weighted, deliberate response built for doom's slow, crushing tempos — ranked budget to pro.",
+    description: "Best drum pedals for doom metal drumming: what Mario Duplantier (dual Tama Iron Cobra 900 Power Glide), Igor Cavalera (Tama Iron Cobra Double Pedal), Danny Carey (Sonor Giant Step Twin Effect), and Brann Dailor (Tama Speed Cobra) actually play. Weighted, deliberate response built for doom's slow, crushing tempos — ranked budget to pro.",
     seoKeywords: [
       'best drum pedals for doom metal',
       'doom metal bass drum pedal',
@@ -79028,7 +79028,7 @@ Budget shouldn't stop you either. A Meinl HCS or Sabian SBR set will teach real 
       'danny carey pedal tool',
       'brann dailor pedal mastodon',
       'tama iron cobra doom metal',
-      'pearl eliminator double pedal',
+      'tama iron cobra double pedal',
       'best pedal for slow heavy riffs',
       'doom metal drum setup'
     ],
@@ -79056,12 +79056,12 @@ Budget shouldn't stop you either. A Meinl HCS or Sabian SBR set will teach real 
       title: "Why Doom Metal Needs a Weighted, Deliberate Pedal — Not a Speed Machine",
       content: `Doom metal inverts almost everything extreme metal usually asks of a bass drum pedal. Instead of chasing 250+ BPM blast beats, doom locks into riffs at a fraction of that tempo, and every kick hit has to land with deliberate, weighted authority rather than rapid-fire precision. That changes the pedal brief entirely: rather than the lightest, fastest-returning cam and footboard combination you can find, doom rewards a pedal that delivers consistent, heavy impact on a single, massive downbeat — with speed reserved for the rare double-kick accent rather than sustained sixteenth notes.
 
-Bill Ward, who invented doom metal's tempo-and-tonnage template with Black Sabbath, doesn't currently have a dedicated MetalForge gear profile — so this guide draws on the closest working analogues from progressive sludge, technical death, and progressive rock lineages that share doom's foundational commitment to weight over speed. Mario Duplantier drives Gojira's dual 22"x18" kicks with a pair of Tama Iron Cobra 900 Power Glide pedals rather than a single double pedal, giving each kick independent, crushing control. Igor Cavalera relies on a Pearl Eliminator double pedal to cut through Sepultura's tribal, down-tuned heaviness. Danny Carey's massive Tool rig runs a Sonor Giant Step Twin Effect double pedal for consistent response across one of the largest touring kits in rock, and Brann Dailor pairs his warm Tama Starclassic Performer B/B kit with a Tama Speed Cobra double pedal for Mastodon's more straightforward, riff-locked doom-sludge grooves.
+Bill Ward, who invented doom metal's tempo-and-tonnage template with Black Sabbath, doesn't currently have a dedicated MetalForge gear profile — so this guide draws on the closest working analogues from progressive sludge, technical death, and progressive rock lineages that share doom's foundational commitment to weight over speed. Mario Duplantier drives Gojira's dual 22"x18" kicks with a pair of Tama Iron Cobra 900 Power Glide pedals rather than a single double pedal, giving each kick independent, crushing control. Igor Cavalera relies on a Tama Iron Cobra double pedal to cut through Sepultura's tribal, down-tuned heaviness. Danny Carey's massive Tool rig runs a Sonor Giant Step Twin Effect double pedal for consistent response across one of the largest touring kits in rock, and Brann Dailor pairs his warm Tama Starclassic Performer B/B kit with a Tama Speed Cobra double pedal for Mastodon's more straightforward, riff-locked doom-sludge grooves.
 
 This guide breaks down drive systems, spring tension, and footboard weight for doom-adjacent pedals — comparing single and dual-kick setups across four drummers whose lineages run closest to doom's crushing rhythmic foundation, with recommendations from budget to professional touring rigs.`,
       keyPoints: [
         "Mario Duplantier drives Gojira's dual 22\"x18\" kicks with two independent Tama Iron Cobra 900 Power Glide pedals, not a single double pedal",
-        "Igor Cavalera's Pearl Eliminator double pedal delivers reliable, controlled response for Sepultura's down-tuned tribal heaviness",
+        "Igor Cavalera's Tama Iron Cobra double pedal delivers reliable, controlled response for Sepultura's down-tuned tribal heaviness",
         "Danny Carey's Sonor Giant Step Twin Effect double pedal holds consistent response across Tool's massive, dual-kick touring rig",
         "Doom rewards weighted, deliberate response over pure top-end speed — a heavier spring and beater setup often outperforms a lightweight speed pedal"
       ]
@@ -79080,7 +79080,7 @@ This guide breaks down drive systems, spring tension, and footboard weight for d
         {
           name: "Drive System",
           icon: "⚙️",
-          description: "Chain drive pedals like the Pearl Eliminator that Igor Cavalera relies on give a slightly more elastic, powerful feel that suits doom's slow, driving grooves. Direct drive still works if you occasionally need faster double-kick accents.",
+          description: "Chain drive pedals like the Tama Iron Cobra that Igor Cavalera relies on give a slightly more elastic, powerful feel that suits doom's slow, driving grooves. Direct drive still works if you occasionally need faster double-kick accents.",
           recommendation: "Chain drive for maximum power per stroke, direct drive if you need occasional speed"
         },
         {
@@ -79156,43 +79156,43 @@ The Power Glide cam trades a bit of raw speed for a smoother, more powerful stro
         },
         {
           rank: 2,
-          name: "Pearl Eliminator Redline",
-          brand: "Pearl",
-          model: "P2052C Eliminator Redline",
+          name: "Tama Iron Cobra 900 Power Glide (Double Pedal)",
+          brand: "Tama",
+          model: "Iron Cobra 900 Power Glide Double Pedal",
           image: "https://upload.wikimedia.org/wikipedia/commons/7/74/Dixon-double-pedal.jpg",
-          priceRange: "€350-400",
+          priceRange: "€350-500",
           tier: "pro",
-          driveType: "Chain with Interchangeable Cams",
+          driveType: "Chain Drive (Power Glide)",
 
-          description: `Igor Cavalera's Pearl Eliminator double pedal provides the reliable, controlled response behind Sepultura's punishing, down-tuned "Roots Bloody Roots" era — a parallel philosophy to doom metal's own tonnage-first foundation. The interchangeable cam system lets him dial in more power or more speed depending on whether a passage needs a single crushing hit or a brief tribal-influenced double-kick fill.
+          description: `Igor Cavalera's Tama Iron Cobra double pedal provides the reliable, controlled response behind Sepultura's punishing, down-tuned "Roots Bloody Roots" era — a parallel philosophy to doom metal's own tonnage-first foundation. The Power Glide cam lets him dial in a heavier, more powerful stroke for a single crushing hit or a brief tribal-influenced double-kick fill.
 
-For doom-adjacent drummers who want a genuinely capable double pedal without chasing extreme-metal speed specs, the Eliminator Redline delivers Pearl's NiNjA bearing smoothness at a more accessible price than the flagship Demon Drive.`,
+For doom-adjacent drummers who want a genuinely capable double pedal without chasing extreme-metal speed specs, the Iron Cobra 900 delivers Tama's proven durability and smooth cam feel at a dependable, mid-pro price point.`,
 
           pros: [
             "Igor Cavalera's Sepultura/Cavalera Conspiracy setup — reliable, controlled tonnage-first response",
-            "Interchangeable cams let you balance power and speed",
-            "NiNjA bearing system shared with Pearl's flagship pedal",
+            "Power Glide cam delivers a smoother, more powerful stroke than standard cams",
+            "Iron Cobra durability holds up to heavy, deliberate doom-style playing",
             "Genuine double pedal for occasional double-kick accents",
-            "More accessible pricing than pure speed-focused flagships"
+            "Widely available with proven long-term reliability"
           ],
           cons: [
             "Chain drive caps ultimate top-end speed versus direct drive",
-            "Not as refined as the Demon Drive flagship",
+            "Standard footboard may not suit every technique preference",
             "Heavier feel takes adjustment if coming from a lighter pedal"
           ],
           specs: {
-            drive: "Chain with Interchangeable Cams",
-            bearings: "NiNjA Bearings",
-            footboard: "Standard",
-            beater: "Eliminator Beater (reversible)",
-            weight: "4.2 kg (pair)"
+            drive: "Chain (Power Glide)",
+            bearings: "Iron Cobra Rocker",
+            footboard: "Standard Iron Cobra",
+            beater: "Iron Cobra Beater (reversible)",
+            weight: "3.8 kg (pair)"
           },
           usedBy: [
-            { name: "Igor Cavalera", band: "Sepultura / Cavalera Conspiracy", note: "Pearl Eliminator double pedal — down-tuned tonnage-first control" }
+            { name: "Igor Cavalera", band: "Sepultura / Cavalera Conspiracy", note: "Tama Iron Cobra double pedal — down-tuned tonnage-first control" }
           ],
           verdict: "Best all-around double pedal for doom-adjacent tonnage. Reliable, controlled, and built for weight over raw speed.",
           rating: 4.5,
-          affiliateLink: "https://www.thomann.de/intl/pearl_p2052c_eliminator_redline.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/tama_iron_cobra_900_double.htm?partner_id=metalforge"
         },
         {
           rank: 3,
@@ -79318,7 +79318,7 @@ For doom-adjacent drummers whose material rarely calls for rapid double bass, th
       title: "Single vs Double vs Dual Independent Pedals for Doom Metal",
       content: `Kick setup splits doom metal's closest working analogues into distinct camps. Here's how they compare:
 
-**Double Pedal (Igor Cavalera - Pearl, Danny Carey - Sonor, Brann Dailor - Tama):**
+**Double Pedal (Igor Cavalera - Tama, Danny Carey - Sonor, Brann Dailor - Tama):**
 - Handles the vast majority of doom material, from straightforward riff-locked grooves to occasional double-kick accents
 - Reliable, controlled response matters more than top-end speed
 - Best for most doom, sludge, and doom-adjacent progressive material
@@ -79328,7 +79328,7 @@ For doom-adjacent drummers whose material rarely calls for rapid double bass, th
 - Maximizes independent tonal and timing control per kick
 - Best for technical, crushing doom-death hybrids chasing tectonic weight
 
-**Our Recommendation:** Start with an affordable single pedal (budget DW 3000 or Tama Iron Cobra 600) if you're still building technique on one kick. Step up to a double pedal (Pearl Eliminator, Sonor Giant Step, or Tama Speed Cobra) once you need reliable double-kick accents. Only move to dual independent pedals if you're also running dual kick drums for maximum crushing weight.`,
+**Our Recommendation:** Start with an affordable single pedal (budget DW 3000 or Tama Iron Cobra 600) if you're still building technique on one kick. Step up to a double pedal (Tama Iron Cobra, Sonor Giant Step, or Tama Speed Cobra) once you need reliable double-kick accents. Only move to dual independent pedals if you're also running dual kick drums for maximum crushing weight.`,
       comparisonTable: [
         { feature: "Weighted Impact", directDrive: "⭐⭐⭐⭐⭐", chainDrive: "⭐⭐⭐⭐" },
         { feature: "Setup Simplicity", directDrive: "⭐⭐⭐⭐⭐", chainDrive: "⭐⭐⭐" },
@@ -79348,7 +79348,7 @@ For doom-adjacent drummers whose material rarely calls for rapid double bass, th
         },
         {
           category: "Best Double Pedal",
-          pedal: "Pearl Eliminator Redline",
+          pedal: "Tama Iron Cobra 900 Power Glide (Double Pedal)",
           reason: "Igor Cavalera's reliable, controlled double pedal for down-tuned tonnage-first heaviness."
         },
         {
@@ -79372,7 +79372,7 @@ For doom-adjacent drummers whose material rarely calls for rapid double bass, th
     ],
     relatedDrummers: [
       { slug: 'mario-duplantier', name: 'Mario Duplantier', reason: 'Dual Tama Iron Cobra 900 Power Glide — Gojira crushing, tectonic control' },
-      { slug: 'igor-cavalera', name: 'Igor Cavalera', reason: 'Pearl Eliminator double pedal — Sepultura tribal, down-tuned heaviness' },
+      { slug: 'igor-cavalera', name: 'Igor Cavalera', reason: 'Tama Iron Cobra double pedal — Sepultura tribal, down-tuned heaviness' },
       { slug: 'danny-carey', name: 'Danny Carey', reason: 'Sonor Giant Step Twin Effect — Tool massive touring rig consistency' },
       { slug: 'brann-dailor', name: 'Brann Dailor', reason: 'Tama Speed Cobra — Mastodon straightforward riff-locked weight' }
     ],
@@ -79380,7 +79380,7 @@ For doom-adjacent drummers whose material rarely calls for rapid double bass, th
     // Featured drummers (issue template)
     featuredDrummers: [
       { slug: 'mario-duplantier', name: 'Mario Duplantier', reason: 'Dual Tama Iron Cobra 900 Power Glide — Gojira crushing, tectonic control' },
-      { slug: 'igor-cavalera', name: 'Igor Cavalera', reason: 'Pearl Eliminator double pedal — Sepultura tribal, down-tuned heaviness' },
+      { slug: 'igor-cavalera', name: 'Igor Cavalera', reason: 'Tama Iron Cobra double pedal — Sepultura tribal, down-tuned heaviness' },
       { slug: 'danny-carey', name: 'Danny Carey', reason: 'Sonor Giant Step Twin Effect — Tool massive touring rig consistency' },
       { slug: 'brann-dailor', name: 'Brann Dailor', reason: 'Tama Speed Cobra — Mastodon straightforward riff-locked weight' }
     ],
@@ -79389,7 +79389,7 @@ For doom-adjacent drummers whose material rarely calls for rapid double bass, th
     faq: [
       {
         question: "Who are the best doom metal drummers and what pedals do they use?",
-        answer: "Bill Ward, who invented doom metal's tempo-and-tonnage template with Black Sabbath, doesn't currently have a dedicated MetalForge gear profile. Mario Duplantier of Gojira is the closest working analogue, driving dual 22\"x18\" kicks with two independent Tama Iron Cobra 900 Power Glide pedals. Igor Cavalera of Sepultura plays a Pearl Eliminator double pedal, and Danny Carey of Tool runs a Sonor Giant Step Twin Effect double pedal across his massive touring rig."
+        answer: "Bill Ward, who invented doom metal's tempo-and-tonnage template with Black Sabbath, doesn't currently have a dedicated MetalForge gear profile. Mario Duplantier of Gojira is the closest working analogue, driving dual 22\"x18\" kicks with two independent Tama Iron Cobra 900 Power Glide pedals. Igor Cavalera of Sepultura plays a Tama Iron Cobra double pedal, and Danny Carey of Tool runs a Sonor Giant Step Twin Effect double pedal across his massive touring rig."
       },
       {
         question: "What pedal does Mario Duplantier use?",
@@ -79401,7 +79401,7 @@ For doom-adjacent drummers whose material rarely calls for rapid double bass, th
       },
       {
         question: "What pedal does Igor Cavalera use?",
-        answer: "Igor Cavalera of Sepultura and Cavalera Conspiracy plays a Pearl Eliminator Redline double pedal, using its interchangeable cam system to balance the reliable, controlled power the band's down-tuned tribal heaviness demands with occasional double-kick fills."
+        answer: "Igor Cavalera of Sepultura and Cavalera Conspiracy plays a Tama Iron Cobra Double Pedal, using its Power Glide cam system to balance the reliable, controlled power the band's down-tuned tribal heaviness demands with occasional double-kick fills."
       },
       {
         question: "What's the best budget pedal for doom metal?",
@@ -79412,7 +79412,7 @@ For doom-adjacent drummers whose material rarely calls for rapid double bass, th
     // Conclusion
     conclusion: {
       title: "Build Your Doom Metal Pedal Arsenal",
-      content: `Doom metal pedal choice comes down to how much weighted, deliberate impact your riffs demand — not how many notes per second you can squeeze out of a footboard. Mario Duplantier's dual independent Tama Iron Cobra 900 Power Glide pedals defined the closest working analogue to doom's founding tonnage-first template, driving two separate kicks with full independent control. Igor Cavalera's Pearl Eliminator double pedal proved that reliable, controlled power can carry the same philosophy into tribal groove metal, while Danny Carey's Sonor Giant Step Twin Effect double pedal shows how dependable, weighted response anchors even the largest touring rigs. Brann Dailor's Tama Speed Cobra double pedal rounds things out, giving Mastodon's more straightforward, riff-locked doom-sludge grooves fluid, controlled response.
+      content: `Doom metal pedal choice comes down to how much weighted, deliberate impact your riffs demand — not how many notes per second you can squeeze out of a footboard. Mario Duplantier's dual independent Tama Iron Cobra 900 Power Glide pedals defined the closest working analogue to doom's founding tonnage-first template, driving two separate kicks with full independent control. Igor Cavalera's Tama Iron Cobra double pedal proved that reliable, controlled power can carry the same philosophy into tribal groove metal, while Danny Carey's Sonor Giant Step Twin Effect double pedal shows how dependable, weighted response anchors even the largest touring rigs. Brann Dailor's Tama Speed Cobra double pedal rounds things out, giving Mastodon's more straightforward, riff-locked doom-sludge grooves fluid, controlled response.
 
 None of these approaches is more "correct" — all four represent doom metal's foundational commitment to weight and riff-driven power in the absence of dedicated doom metal drummer profiles in MetalForge's database. Start with whichever setup matches your kick configuration, and don't be afraid to prioritize a heavier spring and beater over raw top-end speed.
 
@@ -79431,7 +79431,7 @@ Budget shouldn't stop you either. A Tama Iron Cobra 600 or DW 3000 Series pedal 
     // SEO metadata
     title: "Best Drum Pedals for Sludge Metal: 2026 Ultimate Guide",
     metaTitle: "Best Drum Pedals for Sludge Metal 2026 | MetalForge Expert Guide",
-    description: "Best drum pedals for sludge metal drumming: what Igor Cavalera (Pearl Eliminator), Mario Duplantier (dual Tama Iron Cobra 900 Power Glide), Brann Dailor (Tama Speed Cobra), and Shannon Larkin (DW 9000 Series Double Pedal) actually play. Thick, weighted response for sludge's crushing, riff-driven grooves — ranked budget to pro.",
+    description: "Best drum pedals for sludge metal drumming: what Igor Cavalera (Tama Iron Cobra Double Pedal), Mario Duplantier (dual Tama Iron Cobra 900 Power Glide), Brann Dailor (Tama Speed Cobra), and Shannon Larkin (DW 9000 Series Double Pedal) actually play. Thick, weighted response for sludge's crushing, riff-driven grooves — ranked budget to pro.",
     seoKeywords: [
       'best drum pedals for sludge metal',
       'sludge metal bass drum pedal',
@@ -79440,7 +79440,7 @@ Budget shouldn't stop you either. A Tama Iron Cobra 600 or DW 3000 Series pedal 
       'brann dailor pedal mastodon',
       'shannon larkin pedal godsmack',
       'tama iron cobra sludge metal',
-      'pearl eliminator double pedal',
+      'tama iron cobra double pedal',
       'best pedal for crushing riffs',
       'sludge metal drum setup'
     ],
@@ -79468,11 +79468,11 @@ Budget shouldn't stop you either. A Tama Iron Cobra 600 or DW 3000 Series pedal 
       title: "Why Sludge Metal Needs a Thick, Weighted Pedal Over Raw Speed",
       content: `Sludge metal shares doom's commitment to slow, riff-driven weight, but layers in a grittier, more aggressive edge borrowed from hardcore and Southern groove. That combination asks a bass drum pedal to deliver a thick, heavy hit that locks in with a crushing, down-tuned riff — with just enough reserve power for the occasional faster, more aggressive passage that separates sludge from pure doom.
 
-Igor Cavalera's Pearl Eliminator double pedal anchors Sepultura's tribal, down-tuned heaviness with reliable, controlled response. Mario Duplantier skips a double pedal entirely, driving Gojira's dual 22"x18" kicks with two independent Tama Iron Cobra 900 Power Glide pedals for crushing, tectonic weight. Brann Dailor pairs his warm Tama Starclassic Performer B/B kit with a Tama Speed Cobra pedal on Mastodon's crushing early catalog, and Shannon Larkin's DW 9000 Series Double Pedal gives Godsmack's platinum-selling, groove-heavy sludge influence its weighted, dependable low end.
+Igor Cavalera's Tama Iron Cobra double pedal anchors Sepultura's tribal, down-tuned heaviness with reliable, controlled response. Mario Duplantier skips a double pedal entirely, driving Gojira's dual 22"x18" kicks with two independent Tama Iron Cobra 900 Power Glide pedals for crushing, tectonic weight. Brann Dailor pairs his warm Tama Starclassic Performer B/B kit with a Tama Speed Cobra pedal on Mastodon's crushing early catalog, and Shannon Larkin's DW 9000 Series Double Pedal gives Godsmack's platinum-selling, groove-heavy sludge influence its weighted, dependable low end.
 
 This guide breaks down drive systems, spring tension, and beater mass for sludge-metal pedals — comparing single, double, and dual independent setups across four drummers whose lineages define the genre's crushing, riff-driven foundation, with recommendations from budget to professional touring rigs.`,
       keyPoints: [
-        "Igor Cavalera's Pearl Eliminator double pedal delivers reliable, controlled tonnage for Sepultura's down-tuned tribal heaviness",
+        "Igor Cavalera's Tama Iron Cobra double pedal delivers reliable, controlled tonnage for Sepultura's down-tuned tribal heaviness",
         "Mario Duplantier drives Gojira's dual kicks with two independent Tama Iron Cobra 900 Power Glide pedals rather than a shared double pedal",
         "Brann Dailor's single Tama Speed Cobra pedal proves sludge's crushing weight doesn't require a double pedal",
         "Shannon Larkin's DW 9000 Series Double Pedal brought sludge-influenced groove weight into Godsmack's platinum-selling hard rock catalog"
@@ -79486,13 +79486,13 @@ This guide breaks down drive systems, spring tension, and beater mass for sludge
         {
           name: "Thick, Weighted Impact",
           icon: "⚓",
-          description: "Sludge's crushing, down-tuned riffs need a pedal that delivers real low-end thump on every hit. Igor Cavalera's Pearl Eliminator and Brann Dailor's Tama Speed Cobra both prioritize weighted, controlled power over lightweight speed.",
+          description: "Sludge's crushing, down-tuned riffs need a pedal that delivers real low-end thump on every hit. Igor Cavalera's Tama Iron Cobra and Brann Dailor's Tama Speed Cobra both prioritize weighted, controlled power over lightweight speed.",
           recommendation: "A heavier spring and beater combination tuned for thick, low-end impact"
         },
         {
           name: "Reserve Power for Grittier Passages",
           icon: "🔥",
-          description: "Unlike pure doom, sludge often borrows hardcore's more aggressive edge. A double pedal like Cavalera's Eliminator gives you reserve speed for faster, riffier passages without sacrificing the genre's core weighted feel.",
+          description: "Unlike pure doom, sludge often borrows hardcore's more aggressive edge. A double pedal like Cavalera's Iron Cobra gives you reserve speed for faster, riffier passages without sacrificing the genre's core weighted feel.",
           recommendation: "A double pedal with interchangeable cams for balancing power and occasional speed"
         },
         {
@@ -79528,43 +79528,43 @@ This guide breaks down drive systems, spring tension, and beater mass for sludge
       pedals: [
         {
           rank: 1,
-          name: "Pearl Eliminator Redline",
-          brand: "Pearl",
-          model: "P2052C Eliminator Redline",
+          name: "Tama Iron Cobra 900 Power Glide (Double Pedal)",
+          brand: "Tama",
+          model: "Iron Cobra 900 Power Glide Double Pedal",
           image: "https://upload.wikimedia.org/wikipedia/commons/7/74/Dixon-double-pedal.jpg",
-          priceRange: "€350-400",
+          priceRange: "€350-500",
           tier: "pro",
-          driveType: "Chain with Interchangeable Cams",
+          driveType: "Chain Drive (Power Glide)",
 
-          description: `Igor Cavalera's Pearl Eliminator double pedal anchors the punishing, down-tuned groove behind Sepultura's "Roots Bloody Roots" era — a crushing, tribal-influenced weight that sits at sludge metal's grittier, more aggressive end. The interchangeable cam system lets him shift between maximum power for the heaviest riffs and a touch more speed for sludge's occasional hardcore-influenced bursts.
+          description: `Igor Cavalera's Tama Iron Cobra double pedal anchors the punishing, down-tuned groove behind Sepultura's "Roots Bloody Roots" era — a crushing, tribal-influenced weight that sits at sludge metal's grittier, more aggressive end. The Power Glide cam lets him shift between maximum power for the heaviest riffs and a touch more speed for sludge's occasional hardcore-influenced bursts.
 
-For sludge drummers who need reliable, controlled response across both crushing slow sections and grittier, faster passages, the Eliminator Redline delivers Pearl's NiNjA bearing smoothness without chasing extreme-metal speed specs the genre doesn't need.`,
+For sludge drummers who need reliable, controlled response across both crushing slow sections and grittier, faster passages, the Iron Cobra 900 delivers Tama's proven durability and smooth cam feel without chasing extreme-metal speed specs the genre doesn't need.`,
 
           pros: [
             "Igor Cavalera's Sepultura/Cavalera Conspiracy setup — reliable, controlled tonnage-first response",
-            "Interchangeable cams balance crushing power with occasional grittier speed",
-            "NiNjA bearing system shared with Pearl's flagship double pedal",
+            "Power Glide cam balances crushing power with occasional grittier speed",
+            "Iron Cobra durability holds up to heavy, deliberate sludge-style playing",
             "Proven across three decades of tempo-disciplined, riff-driven recordings",
-            "More accessible pricing than pure speed-focused flagship pedals"
+            "Widely available with proven long-term reliability"
           ],
           cons: [
             "Chain drive caps ultimate top-end speed versus direct drive",
             "Heavier feel takes adjustment if coming from a lighter pedal",
-            "Not as refined as Pearl's flagship Demon Drive"
+            "Standard footboard may not suit every technique preference"
           ],
           specs: {
-            drive: "Chain with Interchangeable Cams",
-            bearings: "NiNjA Bearings",
-            footboard: "Standard",
-            beater: "Eliminator Beater (reversible)",
-            weight: "4.2 kg (pair)"
+            drive: "Chain (Power Glide)",
+            bearings: "Iron Cobra Rocker",
+            footboard: "Standard Iron Cobra",
+            beater: "Iron Cobra Beater (reversible)",
+            weight: "3.8 kg (pair)"
           },
           usedBy: [
-            { name: "Igor Cavalera", band: "Sepultura / Cavalera Conspiracy", note: "Pearl Eliminator double pedal — down-tuned tonnage-first control" }
+            { name: "Igor Cavalera", band: "Sepultura / Cavalera Conspiracy", note: "Tama Iron Cobra double pedal — down-tuned tonnage-first control" }
           ],
           verdict: "The sludge metal standard for reliable, controlled crushing weight with reserve power for grittier passages.",
           rating: 4.6,
-          affiliateLink: "https://www.thomann.de/intl/pearl_p2052c_eliminator_redline.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/tama_iron_cobra_900_double.htm?partner_id=metalforge"
         },
         {
           rank: 2,
@@ -79715,8 +79715,8 @@ Larkin's setup proves that sludge's patient, riff-driven grooves scale just as w
           priceRange: "€150-190",
           tier: "budget",
           driveType: "Chain Drive",
-          description: "A budget-friendly single pedal from the same Pearl family as Igor Cavalera's professional Eliminator, carrying similar weighted, controlled feel at a fraction of the price for developing sludge drummers.",
-          pros: ["Same Pearl family DNA as Cavalera's professional double pedal", "Affordable single-pedal entry point", "Solid bearings for the price point"],
+          description: "A budget-friendly single pedal from Pearl's Eliminator family, carrying similar weighted, controlled feel at a fraction of the price for developing sludge drummers.",
+          pros: ["Same Pearl Eliminator family DNA in a budget single pedal", "Affordable single-pedal entry point", "Solid bearings for the price point"],
           cons: ["Single pedal only, no double option at this price", "Not as refined as the Eliminator Redline"],
           verdict: "Best budget entry into the Pearl sludge metal sound.",
           rating: 3.9,
@@ -79735,7 +79735,7 @@ Larkin's setup proves that sludge's patient, riff-driven grooves scale just as w
 - Simplest setup, easiest to maintain and transport
 - Best for traditional, doom-leaning sludge
 
-**Double Pedal (Igor Cavalera - Pearl, Shannon Larkin - DW):**
+**Double Pedal (Igor Cavalera - Tama, Shannon Larkin - DW):**
 - Adds reserve power for sludge's grittier, hardcore-influenced bursts
 - Reliable, controlled response matters more than top-end speed
 - Best for sludge that blends crushing weight with faster, riffier passages
@@ -79745,7 +79745,7 @@ Larkin's setup proves that sludge's patient, riff-driven grooves scale just as w
 - Maximizes independent tonal and timing control per kick
 - Best for technical, crushing sludge-death hybrids chasing tectonic weight
 
-**Our Recommendation:** Start with a single pedal (Tama Speed Cobra or budget DW 3000) if your material is straightforward, crushing sludge. Add a double pedal (Pearl Eliminator or DW 9000 Series Double Pedal) if you need reserve speed for grittier, hardcore-influenced sections. Only move to dual independent pedals if you're also running dual kick drums for maximum tectonic weight.`,
+**Our Recommendation:** Start with a single pedal (Tama Speed Cobra or budget DW 3000) if your material is straightforward, crushing sludge. Add a double pedal (Tama Iron Cobra or DW 9000 Series Double Pedal) if you need reserve speed for grittier, hardcore-influenced sections. Only move to dual independent pedals if you're also running dual kick drums for maximum tectonic weight.`,
       comparisonTable: [
         { feature: "Weighted Impact", directDrive: "⭐⭐⭐⭐⭐", chainDrive: "⭐⭐⭐⭐" },
         { feature: "Setup Simplicity", directDrive: "⭐⭐⭐⭐⭐", chainDrive: "⭐⭐⭐" },
@@ -79760,7 +79760,7 @@ Larkin's setup proves that sludge's patient, riff-driven grooves scale just as w
       picks: [
         {
           category: "Best Overall",
-          pedal: "Pearl Eliminator Redline",
+          pedal: "Tama Iron Cobra 900 Power Glide (Double Pedal)",
           reason: "Igor Cavalera's reliable, controlled double pedal balances crushing weight with reserve power for grittier passages."
         },
         {
@@ -79788,7 +79788,7 @@ Larkin's setup proves that sludge's patient, riff-driven grooves scale just as w
       'best-cymbals-for-sludge-metal'
     ],
     relatedDrummers: [
-      { slug: 'igor-cavalera', name: 'Igor Cavalera', reason: 'Pearl Eliminator double pedal — Sepultura tribal, down-tuned heaviness' },
+      { slug: 'igor-cavalera', name: 'Igor Cavalera', reason: 'Tama Iron Cobra double pedal — Sepultura tribal, down-tuned heaviness' },
       { slug: 'mario-duplantier', name: 'Mario Duplantier', reason: 'Dual Tama Iron Cobra 900 Power Glide — Gojira crushing, tectonic control' },
       { slug: 'brann-dailor', name: 'Brann Dailor', reason: 'Tama Speed Cobra — Mastodon crushing early-catalog weight' },
       { slug: 'shannon-larkin', name: 'Shannon Larkin', reason: 'DW 9000 Series Double Pedal — Godsmack sludge-influenced groove weight' }
@@ -79796,7 +79796,7 @@ Larkin's setup proves that sludge's patient, riff-driven grooves scale just as w
 
     // Featured drummers (issue template)
     featuredDrummers: [
-      { slug: 'igor-cavalera', name: 'Igor Cavalera', reason: 'Pearl Eliminator double pedal — Sepultura tribal, down-tuned heaviness' },
+      { slug: 'igor-cavalera', name: 'Igor Cavalera', reason: 'Tama Iron Cobra double pedal — Sepultura tribal, down-tuned heaviness' },
       { slug: 'mario-duplantier', name: 'Mario Duplantier', reason: 'Dual Tama Iron Cobra 900 Power Glide — Gojira crushing, tectonic control' },
       { slug: 'brann-dailor', name: 'Brann Dailor', reason: 'Tama Speed Cobra — Mastodon crushing early-catalog weight' },
       { slug: 'shannon-larkin', name: 'Shannon Larkin', reason: 'DW 9000 Series Double Pedal — Godsmack sludge-influenced groove weight' }
@@ -79806,11 +79806,11 @@ Larkin's setup proves that sludge's patient, riff-driven grooves scale just as w
     faq: [
       {
         question: "Who are the best sludge metal drummers and what pedals do they use?",
-        answer: "Igor Cavalera of Sepultura plays a Pearl Eliminator double pedal, Mario Duplantier of Gojira drives dual kicks with two independent Tama Iron Cobra 900 Power Glide pedals, Brann Dailor of Mastodon plays a single Tama Speed Cobra pedal, and Shannon Larkin of Godsmack plays a DW 9000 Series Double Pedal."
+        answer: "Igor Cavalera of Sepultura plays a Tama Iron Cobra double pedal, Mario Duplantier of Gojira drives dual kicks with two independent Tama Iron Cobra 900 Power Glide pedals, Brann Dailor of Mastodon plays a single Tama Speed Cobra pedal, and Shannon Larkin of Godsmack plays a DW 9000 Series Double Pedal."
       },
       {
         question: "What pedal does Igor Cavalera use?",
-        answer: "Igor Cavalera of Sepultura and Cavalera Conspiracy plays a Pearl Eliminator Redline double pedal, using its interchangeable cam system to balance crushing power with occasional grittier, faster passages."
+        answer: "Igor Cavalera of Sepultura and Cavalera Conspiracy plays a Tama Iron Cobra Double Pedal, using its Power Glide cam system to balance crushing power with occasional grittier, faster passages."
       },
       {
         question: "Do sludge metal drummers need double bass pedals?",
@@ -79822,14 +79822,14 @@ Larkin's setup proves that sludge's patient, riff-driven grooves scale just as w
       },
       {
         question: "What's the best budget pedal for sludge metal?",
-        answer: "The DW 3000 Series (around €90-120) is a genuinely affordable single-pedal entry point. For a double-pedal budget option in the same family as Igor Cavalera's setup, the Pearl Demonator (€150-190) is a solid single-pedal starting point."
+        answer: "The DW 3000 Series (around €90-120) is a genuinely affordable single-pedal entry point. For a budget option from the same Pearl Eliminator family, the Pearl Demonator (€150-190) is a solid single-pedal starting point."
       }
     ],
 
     // Conclusion
     conclusion: {
       title: "Build Your Sludge Metal Pedal Arsenal",
-      content: `Sludge metal pedal choice comes down to how much thick, weighted impact your riffs demand — with just enough reserve power for the genre's grittier, hardcore-influenced bursts. Igor Cavalera's Pearl Eliminator double pedal defined the genre's most direct working analogue currently profiled at MetalForge, anchoring Sepultura's crushing early catalog. Mario Duplantier's dual independent Tama Iron Cobra 900 Power Glide pedals proved that technical precision can layer onto sludge's tonnage-first foundation without sacrificing organic feel. Brann Dailor's single Tama Speed Cobra pedal shows how a straightforward setup can still carry crushing weight, while Shannon Larkin's DW 9000 Series Double Pedal demonstrates how sludge's patient, weight-over-speed philosophy scaled into platinum-selling hard rock.
+      content: `Sludge metal pedal choice comes down to how much thick, weighted impact your riffs demand — with just enough reserve power for the genre's grittier, hardcore-influenced bursts. Igor Cavalera's Tama Iron Cobra double pedal defined the genre's most direct working analogue currently profiled at MetalForge, anchoring Sepultura's crushing early catalog. Mario Duplantier's dual independent Tama Iron Cobra 900 Power Glide pedals proved that technical precision can layer onto sludge's tonnage-first foundation without sacrificing organic feel. Brann Dailor's single Tama Speed Cobra pedal shows how a straightforward setup can still carry crushing weight, while Shannon Larkin's DW 9000 Series Double Pedal demonstrates how sludge's patient, weight-over-speed philosophy scaled into platinum-selling hard rock.
 
 None of these approaches is more "correct" — all four represent sludge metal's founding commitment to thick, weighted tone over bright, cutting speed. Start with whichever setup matches your kick configuration, and don't be afraid to lean heavier on spring tension and beater mass than other metal subgenres would suggest.
 
@@ -103311,7 +103311,7 @@ Whatever you choose: dial in your tension for the buried stroke first, then buil
     // SEO metadata
     title: "Best Bass Drum Pedals for Doom Metal: 2026 Ultimate Guide",
     metaTitle: "Best Bass Drum Pedals for Doom Metal 2026 | MetalForge Expert Guide",
-    description: "Discover the best bass drum pedals for doom metal drumming, built around heavy footboard feel and slow-tempo control rather than raw speed. What Mario Duplantier, Igor Cavalera, Danny Carey, and Brann Dailor actually play — from budget to pro.",
+    description: "Discover the best bass drum pedals for doom metal drumming, built around heavy footboard feel and slow-tempo control rather than raw speed. What Mario Duplantier, Igor Cavalera (Tama Iron Cobra Double Pedal), Danny Carey, and Brann Dailor actually play — from budget to pro.",
     seoKeywords: [
       'best bass drum pedal for doom metal',
       'doom metal kick pedal',
@@ -103348,13 +103348,13 @@ Whatever you choose: dial in your tension for the buried stroke first, then buil
       title: "Why Doom Metal Needs Footboard Weight, Not Footboard Speed",
       content: `Doom metal is the one corner of metal drumming where a bass drum pedal's job has almost nothing to do with speed. A crawling 60 BPM riff doesn't need a pedal that fires sixteenth notes — it needs one that delivers full, controlled weight on every single downbeat, with a footboard that gives you real feedback on exactly how hard you're driving the beater into the head. Pedals tuned purely for blast-beat velocity often feel skittish and light underfoot at doom tempos, which is the opposite of what the genre's crushing, riff-locked hits demand.
 
-Mario Duplantier doesn't even run a linked double pedal with Gojira — he drives the band's two separate 22"x18" bass drums with a pair of independent Tama Iron Cobra 900 Power Glide pedals, giving each kick fully independent tension and timing for the tectonic weight of "From Mars to Sirius" and "Magma." Igor Cavalera's Pearl Eliminator double pedal carries Sepultura and Cavalera Conspiracy's down-tuned, tribal-influenced heaviness with a controlled, tonnage-first response. Danny Carey holds Tool's massive touring rig together on Tama Iron Cobra pedals built for dependable weight through long, patient compositions, while Brann Dailor proves Mastodon's riff-locked doom-sludge grooves don't even need a double pedal — a single Tama Speed Cobra handles it.
+Mario Duplantier doesn't even run a linked double pedal with Gojira — he drives the band's two separate 22"x18" bass drums with a pair of independent Tama Iron Cobra 900 Power Glide pedals, giving each kick fully independent tension and timing for the tectonic weight of "From Mars to Sirius" and "Magma." Igor Cavalera's Tama Iron Cobra double pedal carries Sepultura and Cavalera Conspiracy's down-tuned, tribal-influenced heaviness with a controlled, tonnage-first response. Danny Carey holds Tool's massive touring rig together on Tama Iron Cobra pedals built for dependable weight through long, patient compositions, while Brann Dailor proves Mastodon's riff-locked doom-sludge grooves don't even need a double pedal — a single Tama Speed Cobra handles it.
 
 This guide breaks down exactly what footboard feel, spring tension, and beater mass mean for doom metal specifically, with pedal recommendations across every budget — from a first single pedal to the pro-level double and dual-independent setups behind the genre's heaviest records.`,
       keyPoints: [
         "Doom metal rewards footboard weight and controlled impact over raw double-bass speed",
         "Mario Duplantier drives Gojira's dual kicks with two independent Tama Iron Cobra 900 Power Glide pedals, not a linked double pedal",
-        "Igor Cavalera's Pearl Eliminator and Danny Carey's Tama Iron Cobra both prioritize reliable, weighted response",
+        "Igor Cavalera's and Danny Carey's Tama Iron Cobra pedals both prioritize reliable, weighted response",
         "Brann Dailor proves a single pedal can carry an entire doom-sludge catalog when material is riff-locked rather than double-kick-driven"
       ]
     },
@@ -103439,40 +103439,40 @@ For drummers running a single kick, the same pedal works equally well as a stand
         },
         {
           rank: 2,
-          name: "Pearl Eliminator Redline",
-          brand: "Pearl",
-          model: "P2052C Eliminator Redline",
+          name: "Tama Iron Cobra 900 Power Glide (Double Pedal)",
+          brand: "Tama",
+          model: "Iron Cobra 900 Power Glide Double Pedal",
           image: "https://upload.wikimedia.org/wikipedia/commons/7/74/Dixon-double-pedal.jpg",
-          priceRange: "€350-400",
+          priceRange: "€350-500",
           tier: "pro",
-          driveType: "Chain with Interchangeable Cams",
-          description: `Igor Cavalera's Pearl Eliminator has carried Sepultura and Cavalera Conspiracy's punishing, down-tuned tonnage since the "Roots" era — a controlled, reliable response that mirrors doom metal's own weight-first philosophy. The interchangeable cam system lets you dial in more power for full-weight downbeats or a touch more speed for occasional double-kick fills without switching pedals.
+          driveType: "Chain Drive (Power Glide)",
+          description: `Igor Cavalera's Tama Iron Cobra double pedal has carried Sepultura and Cavalera Conspiracy's punishing, down-tuned tonnage since 2018 — a controlled, reliable response that mirrors doom metal's own weight-first philosophy. The Power Glide cam lets you dial in more power for full-weight downbeats or a touch more speed for occasional double-kick fills without switching pedals.
 
-NiNjA bearings keep the action smooth even at heavier spring tension, so pushing the tension up for doom-style impact doesn't turn the pedal sluggish or inconsistent.`,
+The Rolling Glide bearings keep the action smooth even at heavier spring tension, so pushing the tension up for doom-style impact doesn't turn the pedal sluggish or inconsistent.`,
           pros: [
             "Igor Cavalera's Sepultura/Cavalera Conspiracy setup — reliable, tonnage-first response",
-            "Interchangeable cams let you balance weight and occasional speed",
-            "NiNjA bearing system stays smooth even at heavier spring tension",
+            "Power Glide cam lets you balance weight and occasional speed",
+            "Rolling Glide bearing system stays smooth even at heavier spring tension",
             "Genuine double pedal for drummers who occasionally need double-kick accents"
           ],
           cons: [
             "Chain drive caps ultimate top-end speed versus direct drive",
             "Heavier feel takes adjustment if you're used to a lighter pedal",
-            "Not as refined as Pearl's flagship Demon Drive"
+            "Standard footboard may not suit every technique preference"
           ],
           specs: {
-            drive: "Chain with Interchangeable Cams",
-            cam: "Interchangeable cam system",
+            drive: "Chain (Power Glide)",
+            cam: "Rolling Glide adjustable offset cam",
             frame: "Cast aluminum",
-            beater: "Reversible Eliminator beater",
+            beater: "Reversible Iron Cobra beater",
             footboard: "Standard"
           },
           usedBy: [
-            { name: "Igor Cavalera", band: "Sepultura / Cavalera Conspiracy", note: "Pearl Eliminator double pedal — down-tuned tonnage-first control" }
+            { name: "Igor Cavalera", band: "Sepultura / Cavalera Conspiracy", note: "Tama Iron Cobra double pedal — down-tuned tonnage-first control" }
           ],
           verdict: "Best all-around double pedal for doom's tonnage-first attack. Reliable, controlled, and built for weight over raw speed.",
           rating: 4.6,
-          affiliateLink: "https://www.thomann.de/intl/pearl_p2052c_eliminator_redline.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/tama_iron_cobra_900_double.htm?partner_id=metalforge"
         },
         {
           rank: 3,
@@ -103591,10 +103591,10 @@ For doom drummers whose material rarely calls for rapid double bass, a well-buil
           priceRange: "€120-160",
           tier: "budget",
           material: "Steel frame",
-          description: "A budget single pedal from the same Eliminator family as Igor Cavalera's professional double, with enough spring tension range and a solid enough footboard to develop full-weight, doom-style technique before upgrading.",
-          pros: ["Same Eliminator family DNA as Igor Cavalera's pro setup", "Solid footboard feedback for developing weighted technique", "Affordable single-pedal entry point"],
+          description: "A budget single pedal from Pearl's Eliminator family, with enough spring tension range and a solid enough footboard to develop full-weight, doom-style technique before upgrading.",
+          pros: ["Same Eliminator family DNA in a budget single pedal", "Solid footboard feedback for developing weighted technique", "Affordable single-pedal entry point"],
           cons: ["Basic bearings compared to the Redline", "Single pedal only"],
-          verdict: "Best budget path toward Cavalera's tonnage-first Eliminator feel.",
+          verdict: "Best budget path toward a tonnage-first Eliminator feel.",
           rating: 3.9,
           affiliateLink: "https://www.thomann.de/intl/pearl_p2000c_eliminator_single_pedal.htm?partner_id=metalforge"
         }
@@ -103612,7 +103612,7 @@ For doom drummers whose material rarely calls for rapid double bass, a well-buil
         },
         {
           category: "Best Double Pedal",
-          pedal: "Pearl Eliminator Redline",
+          pedal: "Tama Iron Cobra 900 Power Glide (Double Pedal)",
           reason: "Igor Cavalera's reliable, controlled double pedal for down-tuned tonnage-first heaviness."
         },
         {
@@ -103632,7 +103632,7 @@ For doom drummers whose material rarely calls for rapid double bass, a well-buil
     ],
     relatedDrummers: [
       { slug: 'mario-duplantier', name: 'Mario Duplantier', reason: 'Dual independent Tama Iron Cobra 900 Power Glide — Gojira crushing, tectonic control' },
-      { slug: 'igor-cavalera', name: 'Igor Cavalera', reason: 'Pearl Eliminator double pedal — Sepultura tribal, down-tuned heaviness' },
+      { slug: 'igor-cavalera', name: 'Igor Cavalera', reason: 'Tama Iron Cobra double pedal — Sepultura tribal, down-tuned heaviness' },
       { slug: 'danny-carey', name: 'Danny Carey', reason: 'Tama Iron Cobra pedals — Tool massive touring rig consistency' },
       { slug: 'brann-dailor', name: 'Brann Dailor', reason: 'Tama Speed Cobra single pedal — Mastodon straightforward riff-locked weight' }
     ],
@@ -103654,7 +103654,7 @@ For doom drummers whose material rarely calls for rapid double bass, a well-buil
       },
       {
         question: "Do doom metal drummers need a double bass drum pedal?",
-        answer: "Not usually. Brann Dailor's single Tama Speed Cobra pedal handles Mastodon's straightforward, riff-locked doom-sludge grooves without any double-kick hardware. Igor Cavalera and Danny Carey both use double pedals, mostly for occasional accents rather than sustained double-bass speed."
+        answer: "Not usually. Brann Dailor's single Tama Speed Cobra pedal handles Mastodon's straightforward, riff-locked doom-sludge grooves without any double-kick hardware. Igor Cavalera and Danny Carey both use Tama Iron Cobra double pedals, mostly for occasional accents rather than sustained double-bass speed."
       },
       {
         question: "What beater is best for doom metal's slow, heavy riffs?",
@@ -103669,7 +103669,7 @@ For doom drummers whose material rarely calls for rapid double bass, a well-buil
     // Conclusion
     conclusion: {
       title: "Build Your Weighted, Deliberate Foundation",
-      content: `Doom metal pedal choice comes down to how much controlled weight your riffs demand — not how many notes per second you can squeeze out of a footboard. Mario Duplantier's dual independent Tama Iron Cobra 900 Power Glide pedals define the genre's tonnage-first template, driving two separate kicks with full independent control. Igor Cavalera's Pearl Eliminator proves the same philosophy carries into tribal groove metal, while Danny Carey's Tama Iron Cobra pedals show how dependable, weighted response anchors even the largest touring rigs. Brann Dailor's single Tama Speed Cobra pedal rounds things out, proving crushing doom weight doesn't require a double pedal at all.
+      content: `Doom metal pedal choice comes down to how much controlled weight your riffs demand — not how many notes per second you can squeeze out of a footboard. Mario Duplantier's dual independent Tama Iron Cobra 900 Power Glide pedals define the genre's tonnage-first template, driving two separate kicks with full independent control. Igor Cavalera's Tama Iron Cobra double pedal proves the same philosophy carries into tribal groove metal, while Danny Carey's Tama Iron Cobra pedals show how dependable, weighted response anchors even the largest touring rigs. Brann Dailor's single Tama Speed Cobra pedal rounds things out, proving crushing doom weight doesn't require a double pedal at all.
 
 Start with whichever setup matches your kick configuration, and don't be afraid to prioritize a heavier spring and beater over raw top-end speed. Budget shouldn't stop you either — a Tama Iron Cobra 600 or DW 3000 Series pedal will teach real technique and survive slow, deliberate playing while you save toward the pro setups above.
 
@@ -106916,7 +106916,7 @@ Whichever you choose, remember that progressive metal rewards precision and adju
       'shannon larkin bass drum pedal',
       'heavy spring tension bass drum pedal',
       'sludge metal kick pedal groove',
-      'pearl eliminator sludge metal',
+      'tama iron cobra sludge metal',
       'best double kick pedal for down-tuned metal'
     ],
     ogImage: '/api/og/guide?type=genre-gear&gear=pedals&genre=sludge-metal',
@@ -106943,12 +106943,12 @@ Whichever you choose, remember that progressive metal rewards precision and adju
       title: "Why Sludge Metal Needs Heavier Spring Tension and Real Durability",
       content: `Sludge metal shares doom's commitment to slow, riff-driven weight, but layers in a grittier, more aggressive edge borrowed from hardcore and Southern groove. That combination asks a bass drum pedal to deliver a thick, heavy hit that locks in with a crushing, down-tuned riff — with heavier spring tension and a durable build that can survive both the constant weighted strokes and the occasional faster, riffier passage that separates sludge from pure doom.
 
-Igor Cavalera's Pearl Eliminator double pedal anchors Sepultura's tribal, down-tuned heaviness with reliable, controlled response. Mario Duplantier skips a double pedal entirely, driving Gojira's dual bass drums with two independent Tama Iron Cobra 900 Power Glide pedals for crushing, tectonic weight. Brann Dailor pairs his kit with a DW 5000 Series pedal on Mastodon's crushing early catalog, and Shannon Larkin's DW 9000 Series Double Pedal gives Godsmack's platinum-selling, groove-heavy sludge influence its weighted, dependable low end.
+Igor Cavalera's Tama Iron Cobra double pedal anchors Sepultura's tribal, down-tuned heaviness with reliable, controlled response. Mario Duplantier skips a double pedal entirely, driving Gojira's dual bass drums with two independent Tama Iron Cobra 900 Power Glide pedals for crushing, tectonic weight. Brann Dailor pairs his kit with a DW 5000 Series pedal on Mastodon's crushing early catalog, and Shannon Larkin's DW 9000 Series Double Pedal gives Godsmack's platinum-selling, groove-heavy sludge influence its weighted, dependable low end.
 
 This guide breaks down drive systems, spring tension, and beater mass for sludge-metal bass drum pedals — comparing single and dual independent setups across four drummers whose lineages define the genre's crushing, riff-driven foundation, with recommendations from budget to professional touring rigs.`,
       keyPoints: [
         "Sludge metal needs heavier spring tension and beater mass than fast, technical subgenres to lock into down-tuned, crushing grooves",
-        "Igor Cavalera's Pearl Eliminator double pedal delivers reliable, controlled tonnage for Sepultura's down-tuned tribal heaviness",
+        "Igor Cavalera's Tama Iron Cobra double pedal delivers reliable, controlled tonnage for Sepultura's down-tuned tribal heaviness",
         "Mario Duplantier drives Gojira's dual kicks with two independent Tama Iron Cobra 900 Power Glide pedals rather than a shared double pedal",
         "Durability matters more than raw speed — sludge's constant, weighted strokes destroy pedals built purely for lightweight blast beats"
       ]
@@ -106973,7 +106973,7 @@ This guide breaks down drive systems, spring tension, and beater mass for sludge
         {
           name: "Reserve Power for Grittier Passages",
           icon: "🔥",
-          description: "Unlike pure doom, sludge often borrows hardcore's more aggressive edge. A double pedal like Cavalera's Eliminator gives you reserve speed for faster, riffier passages without sacrificing the genre's core weighted feel.",
+          description: "Unlike pure doom, sludge often borrows hardcore's more aggressive edge. A double pedal like Cavalera's Iron Cobra gives you reserve speed for faster, riffier passages without sacrificing the genre's core weighted feel.",
           recommendation: "A double pedal with interchangeable cams for balancing power and occasional speed"
         },
         {
@@ -106997,20 +106997,20 @@ This guide breaks down drive systems, spring tension, and beater mass for sludge
       pedals: [
         {
           rank: 1,
-          name: "Pearl Eliminator",
-          brand: "Pearl",
-          model: "P-2052C Eliminator Double Pedal",
+          name: "Tama Iron Cobra 900 (Double Pedal)",
+          brand: "Tama",
+          model: "Iron Cobra 900 Power Glide Double Pedal",
           image: "https://upload.wikimedia.org/wikipedia/commons/7/74/Dixon-double-pedal.jpg",
           priceRange: "€350-450 per double set",
           tier: "pro",
-          driveType: "Dual Chain Drive",
-          description: `Igor Cavalera's Pearl Eliminator double pedal anchors Sepultura's tribal, down-tuned heaviness with reliable, controlled response. The interchangeable cam system lets a drummer dial in heavier tension for maximum thump on slow, deliberate riffs, then swap toward a more accelerated cam for sludge's occasional grittier, faster passages.
+          driveType: "Chain Drive (Power Glide)",
+          description: `Igor Cavalera's Tama Iron Cobra double pedal anchors Sepultura's tribal, down-tuned heaviness with reliable, controlled response. The Power Glide cam lets a drummer dial in heavier tension for maximum thump on slow, deliberate riffs, while still keeping a touch of reserve speed for sludge's occasional grittier, faster passages.
 
-Its dual-chain drive and reinforced frame hold up to the sustained, heavy strokes that sludge's down-tuned, riff-driven style demands night after night.`,
+Its chain drive and reinforced frame hold up to the sustained, heavy strokes that sludge's down-tuned, riff-driven style demands night after night.`,
           pros: [
             "Igor Cavalera's proven Sepultura setup",
-            "Interchangeable cams for balancing weighted thump and reserve speed",
-            "Dual-chain drive built for sustained, heavy strokes",
+            "Power Glide cam for balancing weighted thump and reserve speed",
+            "Reinforced chain drive built for sustained, heavy strokes",
             "Reliable, controlled response at moderate tempos"
           ],
           cons: [
@@ -107019,18 +107019,18 @@ Its dual-chain drive and reinforced frame hold up to the sustained, heavy stroke
             "Mid-tier price sits above true budget options"
           ],
           specs: {
-            drive: "Dual chain drive",
-            cam: "Interchangeable cam system",
-            frame: "Steel/aluminum hybrid",
-            beater: "Hard felt (stock)",
+            drive: "Chain (Power Glide)",
+            cam: "Rolling Glide adjustable offset cam",
+            frame: "Die-cast aluminum",
+            beater: "Reversible Iron Cobra beater",
             footboard: "Standard length"
           },
           usedBy: [
-            { name: "Igor Cavalera", band: "Sepultura", note: "Reliable, controlled tonnage for tribal, down-tuned heaviness" }
+            { name: "Igor Cavalera", band: "Sepultura", note: "Tama Iron Cobra double pedal — reliable, controlled tonnage for tribal, down-tuned heaviness" }
           ],
           verdict: "The most balanced pedal for sludge metal's weighted grooves with reserve speed on tap.",
           rating: 4.6,
-          affiliateLink: "https://www.thomann.de/intl/pearl_p2052c_eliminator_double_pedal.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/tama_iron_cobra_900_double.htm?partner_id=metalforge"
         },
         {
           rank: 2,
@@ -107090,7 +107090,7 @@ DW's signature smooth, dependable action gives sludge's heavy, down-tuned groove
           cons: [
             "Not as widely available for parts as Tama or Pearl",
             "Turbo drive feel takes some adjustment if you're used to a standard cam",
-            "Less name recognition among sludge drummers than the Eliminator"
+            "Less name recognition among sludge drummers than the Iron Cobra"
           ],
           specs: {
             drive: "Chain drive (Turbo system)",
@@ -107148,7 +107148,7 @@ Its magnetic controlled-friction spring system makes it easy to dial in the heav
     // Budget options section
     budgetOptions: {
       title: "Best Budget Bass Drum Pedals for Sludge Metal",
-      description: "You don't need an Eliminator or dual Iron Cobra setup to start locking into sludge's crushing grooves. These options deliver real weighted thump at an accessible price.",
+      description: "You don't need a flagship Iron Cobra or dual Iron Cobra setup to start locking into sludge's crushing grooves. These options deliver real weighted thump at an accessible price.",
       pedals: [
         {
           name: "DW 5000 Delta III",
@@ -107173,7 +107173,7 @@ Its magnetic controlled-friction spring system makes it easy to dial in the heav
       picks: [
         {
           category: "Best Overall",
-          pedal: "Pearl Eliminator",
+          pedal: "Tama Iron Cobra 900 (Double Pedal)",
           reason: "Igor Cavalera's proven setup — balances heavy spring tension and durability with reserve speed for sludge's grittier passages."
         },
         {
@@ -107197,7 +107197,7 @@ Its magnetic controlled-friction spring system makes it easy to dial in the heav
       'best-cymbals-for-sludge-metal'
     ],
     relatedDrummers: [
-      { slug: 'igor-cavalera', name: 'Igor Cavalera', reason: 'Pearl Eliminator — reliable, controlled tonnage for tribal, down-tuned heaviness' },
+      { slug: 'igor-cavalera', name: 'Igor Cavalera', reason: 'Tama Iron Cobra double pedal — reliable, controlled tonnage for tribal, down-tuned heaviness' },
       { slug: 'mario-duplantier', name: 'Mario Duplantier', reason: 'Dual independent Tama Iron Cobra 900 pedals for Gojira\'s tectonic low end' },
       { slug: 'brann-dailor', name: 'Brann Dailor', reason: 'DW 5000 Series pedal for Mastodon\'s crushing early catalog' },
       { slug: 'shannon-larkin', name: 'Shannon Larkin', reason: 'DW 9000 Series Double Pedal for Godsmack\'s groove-heavy sludge influence' }
@@ -107212,7 +107212,7 @@ Its magnetic controlled-friction spring system makes it easy to dial in the heav
     faq: [
       {
         question: "What bass drum pedal does Igor Cavalera use?",
-        answer: "Igor Cavalera of Sepultura plays a Pearl Eliminator double pedal, valuing its interchangeable cam system for dialing in heavier tension and thump for down-tuned, tribal grooves while keeping reserve speed available for grittier passages."
+        answer: "Igor Cavalera of Sepultura plays a Tama Iron Cobra Double Pedal, valuing its Power Glide cam system for dialing in heavier tension and thump for down-tuned, tribal grooves while keeping reserve speed available for grittier passages."
       },
       {
         question: "Why does sludge metal need a different bass drum pedal than death or black metal?",
@@ -107235,9 +107235,9 @@ Its magnetic controlled-friction spring system makes it easy to dial in the heav
     // Conclusion
     conclusion: {
       title: "Build Your Down-Tuned, Crushing Foundation",
-      content: `Sludge metal's low end lives or dies on heavier spring tension, beater mass, and a pedal durable enough to survive constant, weighted strokes. Igor Cavalera's Pearl Eliminator proves the value of an interchangeable cam system that balances that thump with reserve speed for grittier passages. Mario Duplantier's dual independent Tama Iron Cobra 900 pedals show there's more than one path to crushing, tectonic weight.
+      content: `Sludge metal's low end lives or dies on heavier spring tension, beater mass, and a pedal durable enough to survive constant, weighted strokes. Igor Cavalera's Tama Iron Cobra double pedal proves the value of a Power Glide cam system that balances that thump with reserve speed for grittier passages. Mario Duplantier's dual independent Tama Iron Cobra 900 pedals show there's more than one path to crushing, tectonic weight.
 
-For most sludge metal drummers, the Pearl Eliminator remains the most balanced choice. Running dual kicks instead of a double pedal? Mario Duplantier's independent Iron Cobra 900 setup is worth serious consideration. And Shannon Larkin's flagship DW 9000 Series Double Pedal shows how much weighted, dependable low end a pro-tier build can deliver.
+For most sludge metal drummers, the Tama Iron Cobra 900 double pedal remains the most balanced choice. Running dual kicks instead of a double pedal? Mario Duplantier's independent Iron Cobra 900 setup is worth serious consideration. And Shannon Larkin's flagship DW 9000 Series Double Pedal shows how much weighted, dependable low end a pro-tier build can deliver.
 
 Whatever you choose: dial in heavier tension for the down-tuned groove first, then build reserve speed on top of it.
 

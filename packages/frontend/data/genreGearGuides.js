@@ -14,7 +14,7 @@ export const GENRE_GEAR_GUIDES = {
     // SEO metadata
     title: "Best Drum Pedals for Death Metal: 2026 Ultimate Guide",
     metaTitle: "Best Drum Pedals for Death Metal in 2026 | MetalForge Expert Guide",
-    description: "Discover the best double bass pedals for death metal drumming. Expert recommendations from budget to pro-level, featuring the exact pedals used by George Kollias, Dave Lombardo, and Gene Hoglan.",
+    description: "Discover the best double bass pedals for death metal drumming. Expert recommendations from budget to pro-level, featuring the exact pedals used by George Kollias and Gene Hoglan.",
     seoKeywords: [
       'best drum pedals death metal',
       'double bass pedals extreme metal',
@@ -121,7 +121,7 @@ This guide breaks down exactly what you need from a pedal for death metal, recom
           
           description: `The Pearl Demon Drive has become the gold standard for extreme metal. Its NiNjA bearing system provides virtually frictionless action, while the interchangeable cams let you dial in exactly the feel you want. The Click-Lock spring tension makes adjustments precise and reliable.
 
-Dave Lombardo and countless death metal drummers trust the Demon Drive for their most demanding performances, and George Kollias took it a step further, co-designing his own signature Demon XR variant. The direct drive action delivers instant, linear response—essential when you're playing 260 BPM 16th notes.`,
+Countless death metal drummers trust the Demon Drive for their most demanding performances, and George Kollias took it a step further, co-designing his own signature Demon XR variant. The direct drive action delivers instant, linear response—essential when you're playing 260 BPM 16th notes.`,
           
           pros: [
             "NiNjA bearing system for ultimate smoothness",
@@ -144,7 +144,6 @@ Dave Lombardo and countless death metal drummers trust the Demon Drive for their
           },
           usedBy: [
             { name: "George Kollias", band: "Nile", note: "Fastest recorded feet in death metal" },
-            { name: "Dave Lombardo", band: "Slayer/Dead Cross", note: "Thrash legend" },
             { name: "Gene Hoglan", band: "Death/Testament", note: "The Atomic Clock" },
             { name: "Flo Mounier", band: "Cryptopsy", note: "Technical death metal pioneer" }
           ],
@@ -12593,11 +12592,10 @@ Budget shouldn't stop you either. A Tama Iron Cobra 600 or Pearl P-930 Demonator
     // SEO metadata
     title: "Best Bass Drum Pedals for Thrash Metal: 2026 Ultimate Guide",
     metaTitle: "Best Bass Drum Pedals for Thrash Metal in 2026 | MetalForge Expert Guide",
-    description: "Discover the best bass drum pedals for thrash metal's classic Iron Cobra-era speed and touring reliability. Built around Dave Lombardo's and Gene Hoglan's Pearl Demon Drive, plus Lars Ulrich's Tama Iron Cobra 900 and Charlie Benante's Tama pedal.",
+    description: "Discover the best bass drum pedals for thrash metal's classic Iron Cobra-era speed and touring reliability. Built around Gene Hoglan's Pearl Demon Drive, plus Lars Ulrich's Tama Iron Cobra 900 and Charlie Benante's Tama pedal.",
     seoKeywords: [
       'best bass drum pedals for thrash metal',
       'thrash metal bass drum pedal',
-      'dave lombardo bass drum pedal',
       'charlie benante bass drum pedal',
       'gene hoglan bass drum pedal',
       'lars ulrich bass drum pedal',
@@ -12630,11 +12628,11 @@ Budget shouldn't stop you either. A Tama Iron Cobra 600 or Pearl P-930 Demonator
       title: "Why Thrash Metal Demands Speed That Survives Decades of Touring",
       content: `Thrash metal drumming demands a bass drum pedal that can handle two very different attacks in the same song: relentless, high-speed single-stroke double bass under fast picking, and tight, percussive gallop rhythms locked to palm-muted riffs. Unlike black metal's sustained blast-beat endurance or death metal's pure technical speed, thrash pedals need to balance raw speed with the precise, punchy attack that drives the genre's signature downpicked riffing — and they need to keep delivering that feel after decades of nightly touring wear.
 
-Dave Lombardo of Slayer pioneered the double bass drumming style that defined thrash metal, and today relies on Pearl Demon Drive pedals for the speed and precision that drove "Reign in Blood." Charlie Benante of Anthrax uses a Tama Speed Cobra double pedal for his extremely fast double kick technique.
+Dave Lombardo of Slayer pioneered the double bass drumming style that defined thrash metal, driving "Reign in Blood" on his Tama Starclassic kit. Charlie Benante of Anthrax uses a Tama Speed Cobra double pedal for his extremely fast double kick technique.
 
 Gene Hoglan — "The Atomic Clock" — has brought his legendary metronomic precision to Testament and Dark Angel on a Pearl Demon Drive since 2008, while Lars Ulrich of Metallica has driven the genre's most commercially successful catalog on a Tama Iron Cobra 900 Power Glide double pedal for decades without missing a beat.
 
-This guide covers the specific pedal needs of thrash metal drumming — speed, gallop-rhythm precision, and the kind of touring-tested reliability that has kept these four drummers' setups largely unchanged across entire careers.`,
+This guide covers the specific pedal needs of thrash metal drumming — speed, gallop-rhythm precision, and the kind of touring-tested reliability that has kept these drummers' setups largely unchanged across entire careers.`,
       keyPoints: [
         "Direct drive pedals (Pearl Demon Drive, Tama Speed Cobra) dominate modern thrash for maximum speed and precision",
         "Chain drive (Tama Iron Cobra 900) remains a proven, reliable choice — Lars Ulrich's entire Metallica career runs on it",
@@ -12656,7 +12654,7 @@ This guide covers the specific pedal needs of thrash metal drumming — speed, g
         {
           name: "Drive System Character",
           icon: "⚙️",
-          description: "Thrash metal splits between direct drive (Pearl Demon Drive — Dave Lombardo, Gene Hoglan) for maximum speed and precision, a hybrid Speedo-Ring chain drive (Charlie Benante's Tama pedal) for a blend of feel, and classic chain drive (Tama Iron Cobra 900 — Lars Ulrich) for a proven, slightly more forgiving feel.",
+          description: "Thrash metal splits between direct drive (Pearl Demon Drive — Gene Hoglan) for maximum speed and precision, a hybrid Speedo-Ring chain drive (Charlie Benante's Tama pedal) for a blend of feel, and classic chain drive (Tama Iron Cobra 900 — Lars Ulrich) for a proven, slightly more forgiving feel.",
           recommendation: "Direct drive for maximum speed and precision; chain drive for proven reliability and feel"
         },
         {
@@ -12699,12 +12697,13 @@ This guide covers the specific pedal needs of thrash metal drumming — speed, g
           priceRange: "€500-600",
           tier: "pro",
           driveType: "Direct Drive",
-          description: `Dave Lombardo pioneered the double bass drumming style that defined thrash metal, and his current Pearl Demon Drive double pedal setup carries that legacy forward with maximum speed and precision. The Demon Drive's direct drive action and NiNjA bearing system deliver frictionless response that supports the relentless kick patterns behind Slayer's "Reign in Blood" — a record built on some of thrash's fastest, most influential double bass work. Gene Hoglan — "The Atomic Clock" — has also relied on the Demon Drive since 2008, bringing his legendary metronomic precision to Testament and Dark Angel.
+          description: `Dave Lombardo pioneered the double bass drumming style that defined thrash metal, driving Slayer's "Reign in Blood" — a record built on some of thrash's fastest, most influential double bass work — on his Tama Starclassic kit.
 
-For thrash drummers chasing Lombardo- or Hoglan-level speed and precision, the Demon Drive's Click-Lock spring tension maintains calibration under extreme, sustained use, meaning less energy wasted fighting your equipment during marathon live sets.`,
+Gene Hoglan — "The Atomic Clock" — has relied on the Pearl Demon Drive since 2008, its direct drive action and NiNjA bearing system delivering the frictionless response behind his legendary metronomic precision in Testament and Dark Angel.
+
+For thrash drummers chasing Hoglan-level speed and precision, the Demon Drive's Click-Lock spring tension maintains calibration under extreme, sustained use, meaning less energy wasted fighting your equipment during marathon live sets.`,
           pros: [
-            "Dave Lombardo's current setup — the pedal behind thrash metal's most influential double bass drumming",
-            "Also Gene Hoglan's platform since 2008 for metronomic precision",
+            "Gene Hoglan's platform since 2008 for metronomic precision",
             "NiNjA bearing system for frictionless, sustained-speed action",
             "Direct drive precision for the fastest thrash metal patterns",
             "Click-Lock spring tension holds calibration under extreme touring use",
@@ -12722,10 +12721,9 @@ For thrash drummers chasing Lombardo- or Hoglan-level speed and precision, the D
             beater: "Demon Beater (reversible)"
           },
           usedBy: [
-            { name: "Dave Lombardo", band: "Slayer", note: "Pearl Demon Drive — thrash metal's most influential double bass drumming" },
             { name: "Gene Hoglan", band: "Testament / Dark Angel", note: "Pearl Demon Drive — The Atomic Clock's metronomic precision since 2008" }
           ],
-          verdict: "The thrash speed standard. Lombardo's own setup for the genre's most influential double bass work — also Gene Hoglan's platform since 2008.",
+          verdict: "The thrash speed standard. Gene Hoglan's platform since 2008 for the genre's most metronomically precise double bass work.",
           rating: 4.8,
           affiliateLink: "https://www.thomann.de/intl/pearl_demon_drive_double_pedal.htm?partner_id=metalforge"
         },
@@ -12898,10 +12896,10 @@ For thrash drummers who need proven, road-tested speed without stepping up to a 
       title: "Pearl Demon Drive vs Tama Speed Cobra vs Tama Iron Cobra 900 for Thrash Metal",
       content: `Thrash metal's leading drummers split between modern direct-drive speed and the genre's classic, proven chain-drive reliability. Here's how they compare:
 
-**Pearl Demon Drive (Dave Lombardo, Gene Hoglan):**
+**Pearl Demon Drive (Gene Hoglan):**
 - Direct drive for maximum speed and precision
 - NiNjA bearings and Click-Lock spring tension for sustained-speed reliability
-- Best for drummers chasing Lombardo- or Hoglan-level double bass speed
+- Best for drummers chasing Hoglan-level double bass speed
 
 **Tama Speed Cobra 910 (Charlie Benante):**
 - Speedo-Ring hybrid feel blends direct-drive smoothness with chain-drive familiarity
@@ -12913,7 +12911,7 @@ For thrash drummers who need proven, road-tested speed without stepping up to a 
 - The classic reference point the genre still measures new pedals against
 - Best for drummers prioritizing long-term touring durability over top-end speed
 
-**Our Recommendation:** Start with a Tama Iron Cobra 600 or Pearl P-930 Demonator if you're building thrash metal speed on a budget. Choose the Iron Cobra 900 if long-term touring reliability is your priority. Go with the Pearl Demon Drive if you need Lombardo- or Hoglan-level top-end speed, or the Tama Speed Cobra 910 for Benante's proven hybrid feel.`,
+**Our Recommendation:** Start with a Tama Iron Cobra 600 or Pearl P-930 Demonator if you're building thrash metal speed on a budget. Choose the Iron Cobra 900 if long-term touring reliability is your priority. Go with the Pearl Demon Drive if you need Hoglan-level top-end speed, or the Tama Speed Cobra 910 for Benante's proven hybrid feel.`,
       comparisonTable: [
         { feature: "Double Bass Speed", directDrive: "⭐⭐⭐⭐⭐", chainDrive: "⭐⭐⭐⭐" },
         { feature: "Gallop Rhythm Precision", directDrive: "⭐⭐⭐⭐⭐", chainDrive: "⭐⭐⭐⭐" },
@@ -12929,7 +12927,7 @@ For thrash drummers who need proven, road-tested speed without stepping up to a 
         {
           category: "Best Overall",
           pedal: "Pearl Demon Drive",
-          reason: "Dave Lombardo's current setup — the pedal behind thrash metal's most influential double bass drumming. Also Gene Hoglan's platform since 2008."
+          reason: "Gene Hoglan's platform since 2008 for metronomic precision at the highest level."
         },
         {
           category: "Best for Gallop-Rhythm Precision",
@@ -12957,13 +12955,13 @@ For thrash drummers who need proven, road-tested speed without stepping up to a 
       'best-bass-drum-pedals-for-metal'
     ],
     relatedDrummers: [
-      { slug: 'dave-lombardo', name: 'Dave Lombardo', reason: 'Pearl Demon Drive — thrash metal\'s most influential double bass drumming' },
+      { slug: 'dave-lombardo', name: 'Dave Lombardo', reason: 'Tama Starclassic — pioneered thrash metal\'s double bass drumming style' },
       { slug: 'charlie-benante', name: 'Charlie Benante', reason: 'Tama Speed Cobra — Anthrax\'s extremely fast double kick technique' },
       { slug: 'gene-hoglan', name: 'Gene Hoglan', reason: 'Pearl Demon Drive — The Atomic Clock\'s metronomic precision since 2008' }
     ],
 
     featuredDrummers: [
-      { slug: 'dave-lombardo', name: 'Dave Lombardo', reason: 'Pearl Demon Drive — pioneering thrash metal\'s double bass drumming style' },
+      { slug: 'dave-lombardo', name: 'Dave Lombardo', reason: 'Tama Starclassic — pioneering thrash metal\'s double bass drumming style' },
       { slug: 'gene-hoglan', name: 'Gene Hoglan', reason: 'Pearl Demon Drive — The Atomic Clock\'s precision across Testament and Dark Angel since 2008' },
       { slug: 'charlie-benante', name: 'Charlie Benante', reason: 'Tama Speed Cobra — Anthrax\'s extremely fast double kick technique' }
     ],
@@ -12972,7 +12970,7 @@ For thrash drummers who need proven, road-tested speed without stepping up to a 
     faq: [
       {
         question: "What bass drum pedal does Dave Lombardo use?",
-        answer: "Dave Lombardo of Slayer, who pioneered the double bass drumming style that defined thrash metal, currently uses Pearl Demon Drive double pedals. The direct-drive action and NiNjA bearing system deliver the frictionless speed and precision behind Slayer's most influential double bass work, including \"Reign in Blood.\""
+        answer: "Dave Lombardo's current pedal brand isn't publicly confirmed. What is verified is his Tama Starclassic Walnut/Birch kit, Paiste RUDE cymbals, and Promark signature sticks — and that he pioneered the double bass drumming style that defined thrash metal, heard on Slayer's most influential double bass work, including \"Reign in Blood.\""
       },
       {
         question: "What pedal has Lars Ulrich used throughout his career?",
@@ -12980,7 +12978,7 @@ For thrash drummers who need proven, road-tested speed without stepping up to a 
       },
       {
         question: "Direct drive or chain drive — which is better for thrash metal?",
-        answer: "Direct drive (Pearl Demon Drive, used by Dave Lombardo and Gene Hoglan) offers maximum linear speed and precision for the fastest thrash patterns. Chain drive (Tama Iron Cobra 900, used by Lars Ulrich for decades) remains proven, reliable, and slightly more forgiving. Charlie Benante uses a hybrid Speedo-Ring pedal as a middle ground between the two."
+        answer: "Direct drive (Pearl Demon Drive, used by Gene Hoglan) offers maximum linear speed and precision for the fastest thrash patterns. Chain drive (Tama Iron Cobra 900, used by Lars Ulrich for decades) remains proven, reliable, and slightly more forgiving. Charlie Benante uses a hybrid Speedo-Ring pedal as a middle ground between the two."
       },
       {
         question: "What's the best budget double bass pedal for thrash metal?",
@@ -12995,7 +12993,9 @@ For thrash drummers who need proven, road-tested speed without stepping up to a 
     // Conclusion
     conclusion: {
       title: "Find Your Thrash Metal Bass Drum Pedal Setup",
-      content: `Thrash metal's pedal choice comes down to balancing raw speed with decades of proven touring reliability. Dave Lombardo's Pearl Demon Drive carries forward the legacy of the double bass drumming style he pioneered, delivering maximum speed and precision for thrash's fastest patterns — the same platform Gene Hoglan has trusted since 2008.
+      content: `Thrash metal's pedal choice comes down to balancing raw speed with decades of proven touring reliability. Gene Hoglan's Pearl Demon Drive delivers maximum speed and precision for thrash's fastest patterns, a platform he's trusted since 2008.
+
+That speed builds on the double bass legacy Dave Lombardo pioneered on Slayer's "Reign in Blood."
 
 Charlie Benante trusts the Tama Speed Cobra's hybrid feel for extreme-speed gallop-rhythm precision, while Lars Ulrich's unbroken decades on a Tama Iron Cobra 900 prove that classic chain-drive reliability still has a place at thrash metal's biggest stages.
 
@@ -60733,11 +60733,10 @@ Budget shouldn't stop you either. A Meinl HCS or Zildjian ZBT setup will teach r
     // SEO metadata
     title: "Best Drum Pedals for Thrash Metal: 2026 Ultimate Guide",
     metaTitle: "Best Drum Pedals for Thrash Metal 2026 | MetalForge Expert Guide",
-    description: "Best double bass pedals for thrash metal drumming. What Dave Lombardo, Charlie Benante, Gene Hoglan, and Lars Ulrich actually use — Pearl Demon Drive and Tama Iron Cobra 900 reviewed. From budget to pro.",
+    description: "Best double bass pedals for thrash metal drumming. What Charlie Benante, Gene Hoglan, and Lars Ulrich actually use — Pearl Demon Drive and Tama Iron Cobra 900 reviewed. From budget to pro.",
     seoKeywords: [
       'best drum pedals for thrash metal',
       'thrash metal drum pedals',
-      'dave lombardo pedals slayer',
       'charlie benante pedals anthrax',
       'gene hoglan pedals testament',
       'lars ulrich pedals metallica',
@@ -60756,7 +60755,7 @@ Budget shouldn't stop you either. A Meinl HCS or Zildjian ZBT setup will teach r
     // Hero section
     hero: {
       title: "🦶 Best Drum Pedals for Thrash Metal",
-      subtitle: "What Dave Lombardo, Charlie Benante, Gene Hoglan, and Lars Ulrich Actually Use",
+      subtitle: "What Charlie Benante, Gene Hoglan, and Lars Ulrich Actually Use",
       badge: "GEAR GUIDE 2026",
       stats: [
         { value: '3', label: 'Pedals Reviewed' },
@@ -60770,7 +60769,7 @@ Budget shouldn't stop you either. A Meinl HCS or Zildjian ZBT setup will teach r
       title: "Thrash Metal's Unique Pedal Requirements",
       content: `Thrash metal drumming demands a pedal that can handle two very different attacks in the same song: relentless, high-speed single-stroke double bass under fast picking, and tight, percussive gallop rhythms locked to palm-muted riffs. Unlike black metal's sustained blast-beat endurance or death metal's pure technical speed, thrash pedals need to balance raw speed with the precise, punchy attack that drives the genre's signature downpicked riffing.
 
-Dave Lombardo of Slayer pioneered the double bass drumming style that defined thrash metal, and today relies on Pearl Demon Drive pedals for the speed and precision that drove "Reign in Blood." Charlie Benante of Anthrax, credited with popularizing the blast beat technique within thrash, uses a Tama Speed Cobra double pedal for his extremely fast double kick technique.
+Dave Lombardo of Slayer pioneered the double bass drumming style that defined thrash metal, driving "Reign in Blood" on his Tama Starclassic kit. Charlie Benante of Anthrax, credited with popularizing the blast beat technique within thrash, uses a Tama Speed Cobra double pedal for his extremely fast double kick technique.
 
 Gene Hoglan — "The Atomic Clock" — has brought his legendary metronomic precision to Testament and Dark Angel on a Pearl Demon Drive since 2008, while Lars Ulrich of Metallica has driven the genre's most commercially successful catalog on a Tama Iron Cobra 900 Power Glide double pedal.
 
@@ -60796,7 +60795,7 @@ This guide covers the specific pedal needs of thrash metal drumming — speed, g
         {
           name: "Drive System Character",
           icon: "⚙️",
-          description: "Thrash metal splits between direct drive (Pearl Demon Drive — Dave Lombardo, Gene Hoglan) for maximum speed and precision, a hybrid Speedo-Ring chain drive (Charlie Benante's Tama pedal) for a blend of feel, and classic chain drive (Tama Iron Cobra 900 — Lars Ulrich) for a proven, slightly more forgiving feel.",
+          description: "Thrash metal splits between direct drive (Pearl Demon Drive — Gene Hoglan) for maximum speed and precision, a hybrid Speedo-Ring chain drive (Charlie Benante's Tama pedal) for a blend of feel, and classic chain drive (Tama Iron Cobra 900 — Lars Ulrich) for a proven, slightly more forgiving feel.",
           recommendation: "Direct drive for maximum speed and precision; chain drive for proven reliability and feel"
         },
         {
@@ -60840,13 +60839,14 @@ This guide covers the specific pedal needs of thrash metal drumming — speed, g
           tier: "pro",
           driveType: "Direct Drive",
 
-          description: `Dave Lombardo pioneered the double bass drumming style that defined thrash metal, and his current Pearl Demon Drive double pedal setup carries that legacy forward with maximum speed and precision. The Demon Drive's direct drive action and NiNjA bearing system deliver frictionless response that supports the relentless kick patterns behind Slayer's "Reign in Blood" — a record built on some of thrash's fastest, most influential double bass work. Gene Hoglan — "The Atomic Clock" — has also relied on the Demon Drive since 2008, its rapid, consistent response underpinning his metronomic precision across Testament, Dark Angel, and Dethklok.
+          description: `Dave Lombardo pioneered the double bass drumming style that defined thrash metal, driving Slayer's "Reign in Blood" — a record built on some of thrash's fastest, most influential double bass work — on his Tama Starclassic kit.
 
-For thrash drummers chasing Lombardo- or Hoglan-level speed and precision, the Demon Drive's Click-Lock spring tension maintains calibration under extreme, sustained use, meaning less energy wasted fighting your equipment during marathon live sets.`,
+Gene Hoglan — "The Atomic Clock" — has relied on the Pearl Demon Drive since 2008, its direct drive action and NiNjA bearing system delivering the frictionless response behind his metronomic precision across Testament, Dark Angel, and Dethklok.
+
+For thrash drummers chasing Hoglan-level speed and precision, the Demon Drive's Click-Lock spring tension maintains calibration under extreme, sustained use, meaning less energy wasted fighting your equipment during marathon live sets.`,
 
           pros: [
-            "Dave Lombardo's current setup — the pedal behind thrash metal's most influential double bass drumming",
-            "Also Gene Hoglan's platform since 2008 for metronomic precision",
+            "Gene Hoglan's platform since 2008 for metronomic precision",
             "NiNjA bearing system for frictionless, sustained-speed action",
             "Direct drive precision for the fastest thrash metal patterns",
             "Click-Lock spring tension holds calibration under extreme touring use",
@@ -60865,10 +60865,9 @@ For thrash drummers chasing Lombardo- or Hoglan-level speed and precision, the D
             weight: "4.5 kg (pair)"
           },
           usedBy: [
-            { name: "Dave Lombardo", band: "Slayer", note: "Pearl Demon Drive — carrying forward the double bass legacy he pioneered on Reign in Blood" },
             { name: "Gene Hoglan", band: "Testament / Dark Angel / Dethklok", note: "Pearl Demon Drive — The Atomic Clock's metronomic precision since 2008" }
           ],
-          verdict: "The thrash metal pedal for maximum speed and precision. Lombardo's setup for a reason — also Gene Hoglan's platform since 2008.",
+          verdict: "The thrash metal pedal for maximum speed and precision. Gene Hoglan's platform since 2008 for metronomic precision at the highest level.",
           rating: 4.8,
           affiliateLink: "https://www.thomann.de/intl/pearl_p3002d_demon_drive_double.htm?partner_id=metalforge"
         },
@@ -60983,7 +60982,7 @@ For thrash drummers who want the Speed Cobra's fast, direct drive feel without t
 
 **Direct Drive (Pearl Demon Drive, Tama Speed Cobra):**
 - The modern standard for maximum speed and precision
-- Dave Lombardo, Gene Hoglan, and Charlie Benante all play direct drive
+- Gene Hoglan and Charlie Benante both play direct drive
 - Best for fast, technical thrash and crossover blast-beat passages
 - Higher price point, especially at the premium tier
 
@@ -60993,7 +60992,7 @@ For thrash drummers who want the Speed Cobra's fast, direct drive feel without t
 - More accessible pricing than premium direct drive options
 - Best for: Classic thrash riffing and drummers who prefer chain drive feel
 
-**Thrash Metal Verdict:** Direct drive has become the dominant choice among thrash metal's fastest, most technical drummers — Lombardo, Hoglan, and Benante all rely on it. But Lars Ulrich proves chain drive still competes at the highest level across one of metal's most commercially successful catalogs. Start with direct drive if raw speed is your priority; chain drive remains a proven, reliable alternative.`,
+**Thrash Metal Verdict:** Direct drive has become the dominant choice among thrash metal's fastest, most technical drummers — Hoglan and Benante both rely on it. But Lars Ulrich proves chain drive still competes at the highest level across one of metal's most commercially successful catalogs. Start with direct drive if raw speed is your priority; chain drive remains a proven, reliable alternative.`,
       comparisonTable: [
         { feature: "Top-End Speed", directDrive: "⭐⭐⭐⭐⭐", chainDrive: "⭐⭐⭐⭐" },
         { feature: "Gallop-Rhythm Precision", directDrive: "⭐⭐⭐⭐⭐", chainDrive: "⭐⭐⭐⭐" },
@@ -61010,7 +61009,7 @@ For thrash drummers who want the Speed Cobra's fast, direct drive feel without t
         {
           category: "Best Overall",
           pedal: "Pearl Demon Drive",
-          reason: "Dave Lombardo's current setup — maximum speed and precision from the drummer who pioneered thrash double bass."
+          reason: "Gene Hoglan's platform since 2008 — maximum speed and precision at the highest level."
         },
         {
           category: "Best for Fast Double Kick",
@@ -61037,7 +61036,7 @@ For thrash drummers who want the Speed Cobra's fast, direct drive feel without t
       'best-cymbals-for-thrash-metal'
     ],
     relatedDrummers: [
-      { slug: 'dave-lombardo', name: 'Dave Lombardo', reason: 'Pearl Demon Drive — pioneering thrash double bass on Reign in Blood' },
+      { slug: 'dave-lombardo', name: 'Dave Lombardo', reason: 'Tama Starclassic — pioneering thrash double bass on Reign in Blood' },
       { slug: 'charlie-benante', name: 'Charlie Benante', reason: 'Tama Speed Cobra — Anthrax\'s extremely fast double kick technique' },
       { slug: 'gene-hoglan', name: 'Gene Hoglan', reason: "Pearl Demon Drive — The Atomic Clock's metronomic precision since 2008" },
       { slug: 'lars-ulrich', name: 'Lars Ulrich', reason: 'Tama Iron Cobra 900 — driving Metallica\'s thrash foundation' }
@@ -61045,7 +61044,7 @@ For thrash drummers who want the Speed Cobra's fast, direct drive feel without t
 
     // Featured drummers (issue template)
     featuredDrummers: [
-      { slug: 'dave-lombardo', name: 'Dave Lombardo', reason: 'Pearl Demon Drive — pioneering thrash double bass on Reign in Blood' },
+      { slug: 'dave-lombardo', name: 'Dave Lombardo', reason: 'Tama Starclassic — pioneering thrash double bass on Reign in Blood' },
       { slug: 'charlie-benante', name: 'Charlie Benante', reason: 'Tama Speed Cobra — Anthrax\'s extremely fast double kick technique' },
       { slug: 'gene-hoglan', name: 'Gene Hoglan', reason: "Pearl Demon Drive — The Atomic Clock's metronomic precision since 2008" },
       { slug: 'lars-ulrich', name: 'Lars Ulrich', reason: 'Tama Iron Cobra 900 — driving Metallica\'s thrash foundation' }
@@ -61055,7 +61054,7 @@ For thrash drummers who want the Speed Cobra's fast, direct drive feel without t
     faq: [
       {
         question: "What drum pedals does Dave Lombardo use?",
-        answer: "Dave Lombardo of Slayer uses Pearl Demon Drive double pedals. The direct drive action and NiNjA bearing system give him the frictionless, sustained speed that has defined his double bass drumming since pioneering the style on Slayer's 'Reign in Blood.'"
+        answer: "Dave Lombardo's current pedal brand isn't publicly confirmed. He plays a Tama Starclassic kit, and pioneered the double bass drumming style that defined thrash metal on Slayer's 'Reign in Blood.'"
       },
       {
         question: "What pedal does Charlie Benante from Anthrax use?",
@@ -61063,7 +61062,7 @@ For thrash drummers who want the Speed Cobra's fast, direct drive feel without t
       },
       {
         question: "Direct drive or chain drive — which is better for thrash metal?",
-        answer: "Both work at the highest level. Dave Lombardo and Gene Hoglan both play the Pearl Demon Drive, and Charlie Benante uses a Tama direct-drive pedal, for maximum speed and precision. Lars Ulrich has driven Metallica's entire catalog on chain drive (Tama Iron Cobra 900), proving it remains a fully viable, reliable choice. Direct drive suits maximum speed; chain drive suits proven, road-tested reliability."
+        answer: "Both work at the highest level. Gene Hoglan plays the Pearl Demon Drive, and Charlie Benante uses a Tama direct-drive pedal, for maximum speed and precision. Lars Ulrich has driven Metallica's entire catalog on chain drive (Tama Iron Cobra 900), proving it remains a fully viable, reliable choice. Direct drive suits maximum speed; chain drive suits proven, road-tested reliability."
       },
       {
         question: "What pedal does Lars Ulrich use?",
@@ -61078,7 +61077,7 @@ For thrash drummers who want the Speed Cobra's fast, direct drive feel without t
     // Conclusion
     conclusion: {
       title: "Choose Your Thrash Metal Weapon",
-      content: `Thrash metal's pedal requirements demand a balance most genres don't: raw single-stroke speed for relentless riffing, and tight, precise response for the genre's signature gallop rhythms. Dave Lombardo, Charlie Benante, and Gene Hoglan all found their answer in direct drive's speed and precision. Lars Ulrich proves chain drive still competes at the highest level across one of metal's most commercially successful catalogs.
+      content: `Thrash metal's pedal requirements demand a balance most genres don't: raw single-stroke speed for relentless riffing, and tight, precise response for the genre's signature gallop rhythms. Charlie Benante and Gene Hoglan both found their answer in direct drive's speed and precision. Lars Ulrich proves chain drive still competes at the highest level across one of metal's most commercially successful catalogs.
 
 Technique matters as much as gear in thrash metal. The genre's most influential recordings were made by drummers who spent years building the speed and precision their pedals only amplify. Spend more time developing consistent single-stroke technique than agonizing over drive type.
 
@@ -103138,7 +103137,7 @@ For death metal drummers who want the natural give of chain drive combined with 
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Tama hardware — 240+ BPM buried-beater blast beat technique with Nile' },
       { slug: 'gene-hoglan', name: 'Gene Hoglan', reason: 'Pearl Demon Drive — The Atomic Clock\'s dynamic, consistent precision since 2008' },
       { slug: 'pete-sandoval', name: 'Pete Sandoval', reason: 'Pioneering blast beat pedal technique with Morbid Angel' },
-      { slug: 'dave-lombardo', name: 'Dave Lombardo', reason: 'Pearl Demon Drive for the speed and precision behind "Reign in Blood"' }
+      { slug: 'dave-lombardo', name: 'Dave Lombardo', reason: 'Tama Starclassic — the speed and precision behind "Reign in Blood"' }
     ],
 
     featuredDrummers: [
@@ -103567,7 +103566,7 @@ Start with whichever setup matches your kick configuration, and don't be afraid 
     // SEO metadata
     title: "Best Bass Drum Pedals for Extreme Metal: 2026 Ultimate Guide",
     metaTitle: "Best Bass Drum Pedals for Extreme Metal 2026 | MetalForge Expert Guide",
-    description: "Discover the best bass drum pedals across extreme metal — death, thrash, and black metal alike — built for blast-beat speed and bulletproof durability. What George Kollias, Gene Hoglan, Derek Roddy, and Dave Lombardo actually play. Budget to pro.",
+    description: "Discover the best bass drum pedals across extreme metal — death, thrash, and black metal alike — built for blast-beat speed and bulletproof durability. What George Kollias, Gene Hoglan, and Derek Roddy actually play. Budget to pro.",
     seoKeywords: [
       'best bass drum pedal for extreme metal',
       'extreme metal double bass pedal',
@@ -103575,7 +103574,6 @@ Start with whichever setup matches your kick configuration, and don't be afraid 
       'george kollias bass drum pedal',
       'gene hoglan bass drum pedal',
       'derek roddy bass drum pedal',
-      'dave lombardo bass drum pedal',
       'blast beat pedal setup',
       'direct drive vs chain drive extreme metal',
       'best double bass pedal for speed'
@@ -103590,7 +103588,7 @@ Start with whichever setup matches your kick configuration, and don't be afraid 
     // Hero section
     hero: {
       title: "🥁 Best Bass Drum Pedals for Extreme Metal",
-      subtitle: "The Cross-Genre Speed Baseline — What Kollias, Hoglan, Roddy, and Lombardo Actually Play",
+      subtitle: "The Cross-Genre Speed Baseline — What Kollias, Hoglan, and Roddy Actually Play",
       badge: "GEAR GUIDE 2026",
       stats: [
         { value: '3', label: 'Pedals Reviewed' },
@@ -103611,7 +103609,7 @@ This guide covers exactly what makes a bass drum pedal work across extreme metal
         "Extreme metal spans death, thrash, and black metal, but all three converge on sustained, blast-beat-capable pedal speed",
         "George Kollias and Gene Hoglan both prioritize predictable, repeatable action at extreme, sustained tempo",
         "Derek Roddy's Tama Speed Cobra 910 gave him the response behind his \"One Take\" recording reputation",
-        "Dave Lombardo's Pearl Demon Drive carried the speed and precision behind \"Reign in Blood,\" thrash's gateway into extreme metal"
+        "Dave Lombardo pioneered the double bass drumming style behind \"Reign in Blood,\" thrash's gateway into extreme metal, on his Tama Starclassic kit"
       ]
     },
 
@@ -103737,12 +103735,13 @@ The extended footboard is specifically engineered for fast, rolling patterns, ex
           priceRange: "€500-600",
           tier: "pro",
           driveType: "Direct Drive",
-          description: `Dave Lombardo's Pearl Demon Drive carried the speed and precision behind Slayer's "Reign in Blood" (1986), the record that arguably built the bridge from thrash into modern extreme metal's blast-beat vocabulary. The NiNjA bearing system delivers virtually frictionless action, and the PowerShifter footboard lets you dial in leverage for your specific technique. Gene Hoglan — "The Atomic Clock" — has trusted the same Demon Drive since 2008, its identical response across every dynamic level proving consistency beats brute force whether he's laying into a punishing thrash riff or a technical death metal blast passage.
+          description: `Dave Lombardo drove Slayer's "Reign in Blood" (1986), the record that arguably built the bridge from thrash into modern extreme metal's blast-beat vocabulary, on his Tama Starclassic kit.
 
-Nearly four decades later, the Demon Drive remains an industry standard precisely because it delivers Lombardo- and Hoglan-level speed and consistency across every extreme metal subgenre, not just thrash.`,
+Gene Hoglan — "The Atomic Clock" — has trusted the Pearl Demon Drive since 2008. The NiNjA bearing system delivers virtually frictionless action, and the PowerShifter footboard lets you dial in leverage for your specific technique; its identical response across every dynamic level proves consistency beats brute force whether he's laying into a punishing thrash riff or a technical death metal blast passage.
+
+Nearly two decades later, the Demon Drive remains an industry standard precisely because it delivers Hoglan-level speed and consistency across every extreme metal subgenre, not just thrash.`,
           pros: [
-            "Dave Lombardo's setup — the speed and precision behind \"Reign in Blood\"",
-            "Also Gene Hoglan's platform since 2008 for consistent, dynamic precision",
+            "Gene Hoglan's platform since 2008 for consistent, dynamic precision",
             "NiNjA bearing system for virtually frictionless action",
             "PowerShifter footboard for leverage adjustment",
             "Industry-standard direct drive pedal across extreme metal"
@@ -103760,10 +103759,9 @@ Nearly four decades later, the Demon Drive remains an industry standard precisel
             footboard: "PowerShifter adjustable"
           },
           usedBy: [
-            { name: "Dave Lombardo", band: "Slayer", note: "Pearl Demon Drive — the speed and precision behind \"Reign in Blood\"" },
             { name: "Gene Hoglan", band: "Death / Dark Angel / Testament", note: "Pearl Demon Drive — The Atomic Clock's consistent, dynamic precision since 2008" }
           ],
-          verdict: "The thrash-to-extreme-metal bridge pedal. Direct drive speed and precision proven since 1986 — also Gene Hoglan's platform since 2008.",
+          verdict: "The thrash-to-extreme-metal bridge pedal. Direct drive speed and precision — Gene Hoglan's platform since 2008.",
           rating: 4.7,
           affiliateLink: "https://www.thomann.de/intl/pearl_p3002d_demon_drive_double.htm?partner_id=metalforge"
         }
@@ -103852,7 +103850,7 @@ Nearly four decades later, the Demon Drive remains an industry standard precisel
     relatedDrummers: [
       { slug: 'gene-hoglan', name: 'Gene Hoglan', reason: 'Pearl Demon Drive — The Atomic Clock\'s consistency across death and thrash since 2008' },
       { slug: 'derek-roddy', name: 'Derek Roddy', reason: 'Tama Speed Cobra 910 — the \'One Take\' consistency behind Hate Eternal' },
-      { slug: 'dave-lombardo', name: 'Dave Lombardo', reason: 'Pearl Demon Drive — the speed and precision behind "Reign in Blood"' }
+      { slug: 'dave-lombardo', name: 'Dave Lombardo', reason: 'Tama Starclassic — the speed and precision behind "Reign in Blood"' }
     ],
 
     featuredDrummers: [
@@ -103868,7 +103866,7 @@ Nearly four decades later, the Demon Drive remains an industry standard precisel
       },
       {
         question: "Direct drive or chain drive for extreme metal?",
-        answer: "Both work at the highest level. Dave Lombardo's and Gene Hoglan's Pearl Demon Drive uses direct drive for zero-slack, maximally linear response. Derek Roddy's Speedo-Ring hybrid pedal uses chain drive for a more forgiving, controllable feel at the same extreme tempos."
+        answer: "Both work at the highest level. Gene Hoglan's Pearl Demon Drive uses direct drive for zero-slack, maximally linear response. Derek Roddy's Speedo-Ring hybrid pedal uses chain drive for a more forgiving, controllable feel at the same extreme tempos."
       },
       {
         question: "What pedal does Derek Roddy use?",
@@ -103885,7 +103883,9 @@ Nearly four decades later, the Demon Drive remains an industry standard precisel
       title: "Build Your Cross-Genre Speed Foundation",
       content: `Extreme metal's low end lives or dies on sustained, blast-beat-capable pedal speed, whatever subgenre you're playing. The Iron Cobra's wide, lockable tension range gives extreme-tempo drummers a platform to develop strokes that stay consistent across an entire album cycle. Gene Hoglan's decades of technically precise drumming across death metal and thrash prove the same principle applies genre-wide: a dependable, predictable pedal is what lets extreme speed become second nature.
 
-Dave Lombardo's and Gene Hoglan's shared Pearl Demon Drive shows the direct drive alternative — zero-slack response that carried "Reign in Blood" and has anchored Hoglan's precision since 2008.
+Gene Hoglan's Pearl Demon Drive shows the direct drive alternative — zero-slack response that has anchored his precision since 2008.
+
+That same demand for zero-slack consistency traces back to Dave Lombardo's Tama Starclassic setup on "Reign in Blood," the record that built the bridge into extreme metal's blast-beat vocabulary.
 
 Derek Roddy's Tama Speed Cobra 910 proves refined chain drive can match that consistency across Hate Eternal's most punishing material. Whichever drive system you choose, prioritize consistency over raw top-end numbers — a pedal that's fast for eight bars and then fatigues is worse than useless on stage.
 

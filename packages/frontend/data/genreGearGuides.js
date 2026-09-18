@@ -68975,15 +68975,13 @@ Budget shouldn't stop you either. A Pearl Export or DW Performance Series snare 
     // SEO metadata
     title: "Best Snare Drums for Post-Metal: 2026 Ultimate Guide",
     metaTitle: "Best Snare Drums for Post-Metal in 2026 | MetalForge Expert Guide",
-    description: "Discover the best snare drums for post-metal drumming. Expert recommendations on dynamically wide snares for atmosphere-to-crescendo build, featuring the exact snares used by Brann Dailor, Danny Carey, Mario Duplantier, and Abe Cunningham.",
+    description: "Discover the best snare drums for post-metal drumming. Expert recommendations on dynamically wide snares for atmosphere-to-crescendo build, featuring the exact snares used by Danny Carey, Mario Duplantier, and Abe Cunningham.",
     seoKeywords: [
       'best snare drum for post-metal',
       'snare drum for post-metal drumming',
-      'brann dailor snare drum mastodon',
       'danny carey snare drum tool',
       'mario duplantier snare drum gojira',
       'abe cunningham snare drum deftones',
-      'dw collectors brass snare post-metal',
       'sonor signature snare bronze',
       'snare drum for atmospheric build',
       'post-metal drummer snare setup'
@@ -69001,7 +68999,7 @@ Budget shouldn't stop you either. A Pearl Export or DW Performance Series snare 
       subtitle: "Dynamically Wide Snares for Atmosphere-to-Crescendo Build",
       badge: "GEAR GUIDE 2026",
       stats: [
-        { value: '4', label: 'Snares Reviewed' },
+        { value: '3', label: 'Snares Reviewed' },
         { value: '7 min', label: 'Read Time' },
         { value: '2026', label: 'Updated' }
       ]
@@ -69012,14 +69010,14 @@ Budget shouldn't stop you either. A Pearl Export or DW Performance Series snare 
       title: "Why Post-Metal Needs a Snare That Serves Both Silence and Crescendo",
       content: `Post-metal builds songs around dynamic extremity — long stretches of atmospheric restraint that erupt into crushing, cathartic crescendos. That range puts unusual demands on a snare drum: it has to sit back and breathe during a slow build, contributing texture rather than dominating, then deliver real weight and cut the instant the material peaks.
 
-No roster drummer currently records under a literal "post-metal" tag — the genre is defined more by atmosphere and songwriting structure (Cult of Luna, Neurosis, Isis) than a single signature drumming style. But four artists represent the genre's closest working analogues, each playing a snare built for exactly this dynamic range. Brann Dailor of Mastodon plays a DW Collector's Series 14"x6.5" brass snare, delivering cutting attack and warm overtones across Mastodon's dense, progressive-sludge arrangements. Danny Carey of Tool plays a Sonor Danny Carey Signature 14"x8" bronze snare, a deep shell chosen for powerful, focused attack that anchors Tool's shifts between delicate restraint and crushing weight. Mario Duplantier of Gojira plays a Tama S.L.P. 14"x6" G-Maple snare, its warm, resonant crack cutting through Gojira's layered, atmosphere-driven guitar work. Abe Cunningham of Deftones anchors the band's self-described blend of "heavy and ambient music" on a Tama Starclassic matching snare, built to shift cleanly between crushing heaviness and delicate atmosphere without changing gear.
+No roster drummer currently records under a literal "post-metal" tag — the genre is defined more by atmosphere and songwriting structure (Cult of Luna, Neurosis, Isis) than a single signature drumming style. But three artists represent the genre's closest working analogues, each playing a snare built for exactly this dynamic range. Danny Carey of Tool plays a Sonor Danny Carey Signature 14"x8" bronze snare, a deep shell chosen for powerful, focused attack that anchors Tool's shifts between delicate restraint and crushing weight. Mario Duplantier of Gojira plays a Tama S.L.P. 14"x6" G-Maple snare, its warm, resonant crack cutting through Gojira's layered, atmosphere-driven guitar work. Abe Cunningham of Deftones anchors the band's self-described blend of "heavy and ambient music" on a Tama Starclassic matching snare, built to shift cleanly between crushing heaviness and delicate atmosphere without changing gear.
 
 This guide breaks down what actually makes a snare serve post-metal's widest dynamic range — restraint, resonance, and controlled power — and recommends specific models across every budget, from a first dynamically capable snare to the exact drums the genre's closest working analogues play.`,
       keyPoints: [
         "Post-metal demands a snare that adds texture during quiet build-up and still delivers real weight at the crescendo — dynamic range matters more than raw power",
         "Danny Carey's deep 14x8\" bronze signature snare and Mario Duplantier's warm 14x6\" maple snare show two different approaches to that same dynamic range",
         "Abe Cunningham's Tama Starclassic matching snare was built to serve Deftones' explicitly 'heavy and ambient' sonic identity",
-        "14x6\"-6.5\" is the common depth across most of these drummers, balancing crack and body for both restraint and catharsis"
+        "14x6\"-8\" is the common depth range across these drummers, balancing crack and body for both restraint and catharsis"
       ]
     },
 
@@ -69036,13 +69034,13 @@ This guide breaks down what actually makes a snare serve post-metal's widest dyn
         {
           name: "Warm, Resonant Shell Material",
           icon: "🌳",
-          description: "Brass (Dailor) and maple (Duplantier) both prioritize a fuller, more musical tone that adds atmosphere without harshness — well suited to post-metal's textural, slow-building sections.",
-          recommendation: "Warm brass or maple shells for musical resonance during atmospheric build-up"
+          description: "Maple (Duplantier) prioritizes a fuller, more musical tone that adds atmosphere without harshness — well suited to post-metal's textural, slow-building sections.",
+          recommendation: "Warm maple shells for musical resonance during atmospheric build-up"
         },
         {
           name: "Depth for Controlled Power",
           icon: "📏",
-          description: "Danny Carey's unusually deep 14x8\" shell provides the powerful, focused attack Tool's crescendos demand, while Dailor's and Duplantier's shallower 14x6\"-6.5\" shells favor a more balanced crack-to-body ratio.",
+          description: "Danny Carey's unusually deep 14x8\" shell provides the powerful, focused attack Tool's crescendos demand, while Duplantier's shallower 14x6\" shell favors a more balanced crack-to-body ratio.",
           recommendation: "14x6\"-6.5\" for balanced versatility; 14x8\" for maximum controlled power at the peak"
         },
         {
@@ -69072,46 +69070,6 @@ This guide breaks down what actually makes a snare serve post-metal's widest dyn
       pedals: [
         {
           rank: 1,
-          name: "DW Collector's Series Brass",
-          brand: "DW",
-          model: "Collector's Series 14\"x6.5\" Brass",
-          image: "https://upload.wikimedia.org/wikipedia/commons/a/ac/Drums_01.jpg",
-          priceRange: "€500-650",
-          tier: "premium",
-          material: "Brass",
-
-          description: `Brann Dailor's DW Collector's Series 14"x6.5" brass snare delivers cutting attack and warm overtones that cut through Mastodon's dense, polyrhythmic progressive-sludge arrangements. The brass shell's musical crack sits well against Dailor's jazz-influenced fills and complex, melodic drumming approach.
-
-Across albums like "Leviathan," "Blood Mountain," and "Crack the Skye," this snare has anchored Mastodon's shifts between crushing riffs and more restrained, textural passages — exactly the dynamic range post-metal songwriting depends on.`,
-
-          pros: [
-            "Brann Dailor's proven Mastodon setup — progressive-sludge dynamic range",
-            "Brass shell delivers cutting attack with warm, musical overtones",
-            "Proven across Mastodon's most dynamically varied, acclaimed albums",
-            "14x6.5\" depth balances crack and body for restraint and catharsis alike",
-            "DW Collector's Series build quality and consistency"
-          ],
-          cons: [
-            "Premium Collector's Series pricing",
-            "Brass brightness may need dampening for the quietest atmospheric passages",
-            "Requires careful tuning to control overtones at low volume"
-          ],
-          specs: {
-            shell: "Brass",
-            size: "14\" x 6.5\"",
-            hoops: "Die-cast",
-            lugs: "DW Collector's tube lugs",
-            bestFor: "Cutting, musical crack across restrained and crushing dynamic extremes"
-          },
-          usedBy: [
-            { name: "Brann Dailor", band: "Mastodon", note: "DW Collector's Series 14\"x6.5\" Brass — current setup" }
-          ],
-          verdict: "The post-metal-adjacent dynamic standard. Dailor's brass Collector's snare serves both restrained textures and crushing crescendos.",
-          rating: 4.7,
-          affiliateLink: "https://www.thomann.de/intl/dw_collectors_snare_brass.htm?partner_id=metalforge"
-        },
-        {
-          rank: 2,
           name: "Sonor Danny Carey Signature",
           brand: "Sonor",
           model: "Danny Carey Signature 14\"x8\" Bronze",
@@ -69151,7 +69109,7 @@ As part of Carey's sprawling Sonor SQ2 kit, the signature snare's dark, complex 
           affiliateLink: "https://www.thomann.de/intl/sonor_danny_carey_signature_snare.htm?partner_id=metalforge"
         },
         {
-          rank: 3,
+          rank: 2,
           name: "Tama S.L.P. G-Maple",
           brand: "Tama",
           model: "S.L.P. 14\"x6\" G-Maple",
@@ -69191,7 +69149,7 @@ Across albums like "From Mars to Sirius" and "Magma," this snare has anchored Go
           affiliateLink: "https://www.thomann.de/intl/tama_slp_snare_gmaple.htm?partner_id=metalforge"
         },
         {
-          rank: 4,
+          rank: 3,
           name: "Tama Starclassic Matching Snare",
           brand: "Tama",
           model: "Starclassic Maple/Bubinga Matching Snare",
@@ -69258,10 +69216,10 @@ Cunningham's ability to shift between those two extremes without changing gear i
           priceRange: "€200-280",
           tier: "budget",
           material: "Brass",
-          description: "The Tama Superstar offers a budget path toward the cutting, musical crack Brann Dailor's brass Collector's snare represents. It won't have the Collector's Series bearing edge refinement, but it's a genuinely capable brass snare for developing dynamic technique.",
+          description: "The Tama Superstar offers a budget path into a full brass shell's cutting, musical crack. It won't have a premium Collector's Series bearing edge refinement, but it's a genuinely capable brass snare for developing dynamic technique.",
           pros: ["Budget entry into brass shell projection and warmth", "Good articulation for developing dynamic playing", "Versatile across genres"],
           cons: ["Less refined than a full Collector's Series build", "Standard configurations only"],
-          verdict: "Best budget path toward Dailor's cutting, musical brass sound.",
+          verdict: "Best budget path into a cutting, musical brass sound.",
           rating: 4.0,
           affiliateLink: "https://www.thomann.de/intl/tama_superstar_snare_brass.htm?partner_id=metalforge"
         }
@@ -69270,13 +69228,8 @@ Cunningham's ability to shift between those two extremes without changing gear i
 
     // Brass vs bronze vs maple vs custom comparison
     comparison: {
-      title: "Brass vs Bronze vs Maple vs Custom for Post-Metal Snares",
+      title: "Bronze vs Maple vs Custom for Post-Metal Snares",
       content: `Shell material and build approach split post-metal's closest working analogues into distinct camps. Here's how each compares:
-
-**Brass (Brann Dailor):**
-- Cutting attack with warm, musical overtones
-- Standard 14x6.5\" depth balances restraint and catharsis
-- Best for: Progressive, jazz-influenced dynamics across a wide range
 
 **Bronze (Danny Carey):**
 - Dark, powerful attack from an unusually deep 14x8\" shell
@@ -69293,12 +69246,12 @@ Cunningham's ability to shift between those two extremes without changing gear i
 - Consistent tone across the full kit
 - Best for: Drummers who want dynamic range without leaving their shell pack
 
-**Our Recommendation:** Choose brass if you want one snare that handles both restraint and catharsis reliably. Choose bronze if your material has the widest, most extreme dynamic range. Choose maple if warmth and atmosphere matter most. Choose a matched hybrid shell if tonal consistency with the rest of your kit matters most.`,
+**Our Recommendation:** Choose bronze if your material has the widest, most extreme dynamic range. Choose maple if warmth and atmosphere matter most. Choose a matched hybrid shell if tonal consistency with the rest of your kit matters most.`,
       comparisonTable: [
-        { feature: "Dynamic Range", brass: "⭐⭐⭐⭐", bronze: "⭐⭐⭐⭐⭐", maple: "⭐⭐⭐⭐", custom: "⭐⭐⭐⭐⭐" },
-        { feature: "Warmth", brass: "⭐⭐⭐⭐", bronze: "⭐⭐⭐", maple: "⭐⭐⭐⭐⭐", custom: "⭐⭐⭐⭐" },
-        { feature: "Peak Power", brass: "⭐⭐⭐⭐", bronze: "⭐⭐⭐⭐⭐", maple: "⭐⭐⭐", custom: "⭐⭐⭐⭐" },
-        { feature: "Price (entry)", brass: "€500+", bronze: "€500+", maple: "€350+", custom: "€350+" }
+        { feature: "Dynamic Range", bronze: "⭐⭐⭐⭐⭐", maple: "⭐⭐⭐⭐", custom: "⭐⭐⭐⭐⭐" },
+        { feature: "Warmth", bronze: "⭐⭐⭐", maple: "⭐⭐⭐⭐⭐", custom: "⭐⭐⭐⭐" },
+        { feature: "Peak Power", bronze: "⭐⭐⭐⭐⭐", maple: "⭐⭐⭐", custom: "⭐⭐⭐⭐" },
+        { feature: "Price (entry)", bronze: "€500+", maple: "€350+", custom: "€350+" }
       ]
     },
 
@@ -69308,13 +69261,13 @@ Cunningham's ability to shift between those two extremes without changing gear i
       picks: [
         {
           category: "Best Overall",
-          pedal: "DW Collector's Series Brass",
-          reason: "Brann Dailor's Mastodon setup — cutting, musical crack across restrained and crushing dynamic extremes."
-        },
-        {
-          category: "Best for Maximum Dynamic Extremity",
           pedal: "Sonor Danny Carey Signature",
           reason: "Danny Carey's Tool setup — deep, powerful attack for atmosphere-to-crescendo compositions."
+        },
+        {
+          category: "Best for a Matched Shell Pack",
+          pedal: "Tama Starclassic Matching Snare",
+          reason: "Abe Cunningham's Deftones setup — a single snare that spans crushing heaviness and delicate ambience."
         },
         {
           category: "Best Warm, Atmosphere-Friendly Tone",
@@ -69337,7 +69290,6 @@ Cunningham's ability to shift between those two extremes without changing gear i
       'best-drum-pedals-for-post-metal'
     ],
     relatedDrummers: [
-      { slug: 'brann-dailor', name: 'Brann Dailor', reason: 'DW Collector\'s Series 14x6.5\" Brass — Mastodon\'s progressive-sludge dynamic range' },
       { slug: 'danny-carey', name: 'Danny Carey', reason: 'Sonor Signature 14x8\" Bronze — Tool\'s cinematic atmosphere-to-crescendo range' },
       { slug: 'mario-duplantier', name: 'Mario Duplantier', reason: 'Tama S.L.P. 14x6\" G-Maple — Gojira\'s atmosphere-driven progressive death metal' },
       { slug: 'abe-cunningham', name: 'Abe Cunningham', reason: 'Tama Starclassic matching snare — Deftones\' explicitly "heavy and ambient" sonic identity' }
@@ -69345,7 +69297,6 @@ Cunningham's ability to shift between those two extremes without changing gear i
 
     // Featured drummers (issue template)
     featuredDrummers: [
-      { slug: 'brann-dailor', name: 'Brann Dailor', reason: 'DW Collector\'s Series 14x6.5\" Brass — Mastodon\'s progressive-sludge dynamic range' },
       { slug: 'danny-carey', name: 'Danny Carey', reason: 'Sonor Signature 14x8\" Bronze — Tool\'s cinematic atmosphere-to-crescendo range' },
       { slug: 'mario-duplantier', name: 'Mario Duplantier', reason: 'Tama S.L.P. 14x6\" G-Maple — Gojira\'s atmosphere-driven progressive death metal' },
       { slug: 'abe-cunningham', name: 'Abe Cunningham', reason: 'Tama Starclassic matching snare — Deftones\' explicitly "heavy and ambient" sonic identity' }
@@ -69354,20 +69305,16 @@ Cunningham's ability to shift between those two extremes without changing gear i
     // FAQ section for SEO
     faq: [
       {
-        question: "What snare does Brann Dailor use?",
-        answer: "Brann Dailor of Mastodon plays a DW Collector's Series 14\"x6.5\" brass snare, delivering cutting attack and warm overtones across Mastodon's dense, dynamically varied progressive-sludge arrangements."
-      },
-      {
         question: "What snare does Danny Carey use?",
         answer: "Danny Carey of Tool plays a Sonor Danny Carey Signature 14\"x8\" bronze snare — deeper than the other snares in this lineup — providing the powerful, focused attack that anchors Tool's shifts between quiet restraint and crushing weight."
       },
       {
         question: "Which roster drummers represent post-metal?",
-        answer: "No roster drummer records under a literal 'post-metal' tag, since the genre is defined more by atmosphere and songwriting structure than a signature drumming style. Brann Dailor (Mastodon), Danny Carey (Tool), Mario Duplantier (Gojira), and Abe Cunningham (Deftones) represent the closest working analogues, sharing post-metal's commitment to dynamic extremity and genre-blurring atmosphere."
+        answer: "No roster drummer records under a literal 'post-metal' tag, since the genre is defined more by atmosphere and songwriting structure than a signature drumming style. Danny Carey (Tool), Mario Duplantier (Gojira), and Abe Cunningham (Deftones) represent the closest working analogues, sharing post-metal's commitment to dynamic extremity and genre-blurring atmosphere."
       },
       {
         question: "What size snare is best for post-metal?",
-        answer: "14\"x6\"-6.5\" is the most common depth, balancing crack and body for both restrained and crushing sections — the range Brann Dailor and Mario Duplantier both use. Danny Carey's deeper 14\"x8\" signature snare suits material with the widest, most extreme dynamic range."
+        answer: "14\"x6\" is a common depth for balanced crack and body, the size Mario Duplantier uses. Danny Carey's deeper 14\"x8\" signature snare suits material with the widest, most extreme dynamic range."
       },
       {
         question: "Do I need a custom or signature snare to play post-metal?",
@@ -69378,9 +69325,9 @@ Cunningham's ability to shift between those two extremes without changing gear i
     // Conclusion
     conclusion: {
       title: "Find Your Post-Metal Snare Voice",
-      content: `Post-metal snare choice comes down to how well a shell serves both ends of the genre's dynamic range — quiet, textural restraint and crushing, cathartic crescendo. Brann Dailor's brass DW Collector's snare proved that cutting attack and warm musicality can coexist in one shell. Danny Carey's deep bronze signature snare shows how extra depth can deliver powerful, controlled attack exactly when a slow build finally erupts, while Mario Duplantier's warm maple S.L.P. snare demonstrates that atmosphere-driven material doesn't have to sacrifice cut. Abe Cunningham's Tama Starclassic matching snare takes that dynamic range furthest, built to shift between crushing heaviness and delicate ambience without changing gear.
+      content: `Post-metal snare choice comes down to how well a shell serves both ends of the genre's dynamic range — quiet, textural restraint and crushing, cathartic crescendo. Danny Carey's deep bronze signature snare shows how extra depth can deliver powerful, controlled attack exactly when a slow build finally erupts, while Mario Duplantier's warm maple S.L.P. snare demonstrates that atmosphere-driven material doesn't have to sacrifice cut. Abe Cunningham's Tama Starclassic matching snare takes that dynamic range furthest, built to shift between crushing heaviness and delicate ambience without changing gear.
 
-None of these approaches is more "correct" — all four represent post-metal's closest working analogues' shared commitment to snares that serve atmosphere and catharsis equally. Start with whichever voicing matches your material's balance of restraint and crescendo.
+None of these approaches is more "correct" — all three represent post-metal's closest working analogues' shared commitment to snares that serve atmosphere and catharsis equally. Start with whichever voicing matches your material's balance of restraint and crescendo.
 
 Budget shouldn't stop you either. A Pearl Export or Tama Superstar snare will teach real dynamic control and survive demanding practice while you save toward the Collector's Series, signature, and custom-built snares that defined this lineage's most influential records.
 

@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-09-18 15:51 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-09-18 16:47 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -55,44 +55,44 @@
 ## Search Console — Search performance
 | Metric | Last 7d |
 | --- | --- |
-| Impressions | 7,889 |
-| Clicks | 168 |
-| CTR | 2.13% |
+| Impressions | 9,531 |
+| Clicks | 200 |
+| CTR | 2.10% |
 | Avg position | 7.5 |
 
 ### Top queries
 | Query | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| arin ilejay drum kit | 1 | 1 | 100.00% | 1.0 |
+| arin ilejay drum kit | 2 | 1 | 50.00% | 1.0 |
 | best crash cymbals for metal | 2 | 1 | 50.00% | 6.5 |
 | best drumsticks for blast beats | 7 | 1 | 14.29% | 10.1 |
-| danny carey drum set | 83 | 1 | 1.20% | 10.5 |
-| flo mounier | 81 | 1 | 1.23% | 9.1 |
+| danny carey drum set | 108 | 1 | 0.93% | 10.8 |
+| deathcore drum kit | 3 | 1 | 33.33% | 5.3 |
+| fastest double bass drummer | 9 | 1 | 11.11% | 5.7 |
+| flo mounier | 101 | 1 | 0.99% | 9.4 |
 | gravity blast | 5 | 1 | 20.00% | 10.0 |
+| iron man bpm black sabbath | 10 | 1 | 10.00% | 6.2 |
 | is abe cunningham a good drummer | 1 | 1 | 100.00% | 7.0 |
-| jay weinberg drum setup | 16 | 1 | 6.25% | 9.8 |
-| joey jordison drumkit | 6 | 1 | 16.67% | 5.2 |
-| joey jordison kit | 12 | 1 | 8.33% | 8.8 |
 
 ### Top countries (impressions, last 7d)
 | Country | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| usa | 2,867 | 59 | 2.06% | 7.9 |
-| deu | 316 | 9 | 2.85% | 7.0 |
-| aus | 373 | 8 | 2.14% | 8.1 |
-| fin | 116 | 8 | 6.90% | 7.0 |
-| bra | 247 | 6 | 2.43% | 6.9 |
-| can | 408 | 6 | 1.47% | 8.5 |
-| esp | 79 | 6 | 7.59% | 6.0 |
-| gbr | 497 | 6 | 1.21% | 8.2 |
-| fra | 194 | 5 | 2.58% | 7.2 |
-| swe | 134 | 5 | 3.73% | 7.2 |
+| usa | 3,508 | 74 | 2.11% | 7.8 |
+| deu | 382 | 10 | 2.62% | 6.9 |
+| fin | 136 | 9 | 6.62% | 6.9 |
+| aus | 449 | 8 | 1.78% | 8.0 |
+| gbr | 594 | 8 | 1.35% | 8.1 |
+| can | 525 | 7 | 1.33% | 8.4 |
+| fra | 232 | 7 | 3.02% | 7.2 |
+| bra | 282 | 6 | 2.13% | 7.0 |
+| esp | 87 | 6 | 6.90% | 6.1 |
+| ita | 204 | 5 | 2.45% | 6.5 |
 
 ### 🎯 Content-gap queries (impr ≥50, CTR <2%) — CEO MUST address
 | Query | Impr | CTR | Pos | Action |
 | --- | --- | --- | --- | --- |
-| danny carey drum set | 83 | 1.20% | 10.5 | open issue to answer better |
-| flo mounier | 81 | 1.23% | 9.1 | open issue to answer better |
+| danny carey drum set | 108 | 0.93% | 10.8 | open issue to answer better |
+| flo mounier | 101 | 0.99% | 9.4 | open issue to answer better |
 
 ---
 *Re-run manually: `node .agents/scripts/fetch-metrics.cjs`*

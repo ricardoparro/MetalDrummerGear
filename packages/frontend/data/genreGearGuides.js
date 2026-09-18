@@ -93929,7 +93929,7 @@ For most post-metal drummers, start with a standard Vic Firth 5A to find your ba
     // SEO metadata
     title: "Best Drumsticks for Power Metal: 2026 Ultimate Guide",
     metaTitle: "Best Drumsticks for Power Metal 2026 | MetalForge Expert Guide",
-    description: "Best drumsticks for power metal drumming: what Scott Travis (Vic Firth 5A), Aquiles Priester (ProMark Aquiles Priester Signature), Nicko McBrain (Vic Firth Signature SNM), and Mikkey Dee (Vic Firth 5B) actually play. Balanced sticks built for dynamic range across slow builds and galloping fast passages — ranked budget to pro.",
+    description: "Best drumsticks for power metal drumming: what Scott Travis (Vic Firth 5A), Aquiles Priester (ProMark Aquiles Priester Signature), Nicko McBrain (Vic Firth Signature SNM), and Mikkey Dee (Wincent Signature) actually play. Balanced sticks built for dynamic range across slow builds and galloping fast passages — ranked budget to pro.",
     seoKeywords: [
       'best drumsticks for power metal',
       'power metal drumsticks',
@@ -93966,14 +93966,14 @@ For most post-metal drummers, start with a standard Vic Firth 5A to find your ba
       title: "Why Power Metal Rewards a Dynamically Balanced Stick",
       content: `Power metal songs routinely swing from stately, mid-tempo verses into galloping, double-bass-driven choruses within the same track — and a stick needs to serve both halves of that range. Too heavy a stick and a drummer loses the hand speed galloping passages demand; too light and the genre's anthemic, orchestral-scale accents lose their impact. That's why power metal's most respected drummers gravitate toward a balanced 5A-to-5B diameter rather than the extreme ends of the spectrum.
 
-Scott Travis of Judas Priest plays a standard Vic Firth American Classic 5A, giving his galloping, double-bass-driven patterns the hand speed they demand without sacrificing accent weight. Aquiles Priester of Angra plays his own ProMark Aquiles Priester Signature, matched to the neoclassical precision his double-bass technique requires across Angra's genre-defining catalog. Nicko McBrain of Iron Maiden plays a Vic Firth Nicko McBrain Signature SNM, a reinforced 5B-based stick built for touring durability behind Iron Maiden's most iconic riffs. Mikkey Dee of Motörhead and Scorpions plays a standard Vic Firth American Classic 5B, drawing on extra diameter for the touring stamina his relentless double-bass technique demands.
+Scott Travis of Judas Priest plays a standard Vic Firth American Classic 5A, giving his galloping, double-bass-driven patterns the hand speed they demand without sacrificing accent weight. Aquiles Priester of Angra plays his own ProMark Aquiles Priester Signature, matched to the neoclassical precision his double-bass technique requires across Angra's genre-defining catalog. Nicko McBrain of Iron Maiden plays a Vic Firth Nicko McBrain Signature SNM, a reinforced 5B-based stick built for touring durability behind Iron Maiden's most iconic riffs. Mikkey Dee of Motörhead and Scorpions plays a Wincent Signature stick built on a heavier 2B-class diameter, drawing on that extra mass for the touring stamina his relentless double-bass technique demands.
 
 This guide covers what actually makes a drumstick work for power metal's dynamic, gallop-to-anthem demands, what the genre's most respected drummers actually play, and concrete recommendations from budget to pro.`,
       keyPoints: [
         "Power metal's swing from stately verses to galloping choruses rewards a balanced 5A-to-5B diameter",
         "Scott Travis's 5A and Aquiles Priester's ProMark signature pick both favor hand speed for sustained galloping double-bass patterns",
         "Nicko McBrain's reinforced Vic Firth Signature SNM adds touring durability for Iron Maiden's galloping riffs",
-        "Mikkey Dee's heavier 5B shows some power metal drummers still favor extra mass for touring stamina"
+        "Mikkey Dee's heavier Wincent Signature shows some power metal drummers still favor extra mass for touring stamina"
       ]
     },
 
@@ -93990,7 +93990,7 @@ This guide covers what actually makes a drumstick work for power metal's dynamic
         {
           name: "Weight for Anthemic Accents",
           icon: "💥",
-          description: "Power metal's anthemic, orchestral-scale choruses still need real accent weight to land. Mikkey Dee's heavier Vic Firth 5B shows some of the genre's touring veterans still favor extra diameter for that impact.",
+          description: "Power metal's anthemic, orchestral-scale choruses still need real accent weight to land. Mikkey Dee's heavier Wincent Signature shows some of the genre's touring veterans still favor extra diameter for that impact.",
           recommendation: "5B for drummers who prioritize accent weight over maximum hand speed"
         },
         {
@@ -94143,42 +94143,43 @@ McBrain's choice shows how a reinforced design can deliver extra touring durabil
         },
         {
           rank: 4,
-          name: "Vic Firth American Classic 5B",
-          brand: "Vic Firth",
-          model: "American Classic 5B Wood Tip",
+          name: "Wincent Signature — Mikkey Dee",
+          brand: "Wincent",
+          model: "Mikkey Dee Signature Sticks",
           image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Drumsticks.jpg/640px-Drumsticks.jpg",
-          priceRange: "€10-15 (pair)",
+          priceRange: "€14-19 (pair)",
           tier: "pro",
-          material: "American Hickory",
+          material: "Kentucky Hickory",
 
-          description: `Mikkey Dee of Motörhead and Scorpions plays a standard Vic Firth American Classic 5B, drawing on extra diameter for the touring stamina his relentless double-bass technique demands across decades on the road. Without any specialized geometry, the 5B's raw diameter delivers the accent weight power metal's anthemic choruses reward.
+          description: `Mikkey Dee of Motörhead and Scorpions plays a Wincent signature stick built on a heavier 2B-class .622" diameter with a fat acorn/teardrop tip, drawing on that extra mass for the touring stamina his relentless double-bass technique demands across decades on the road. The thicker teardrop tip still delivers the accent weight power metal's anthemic choruses reward.
 
 Dee's choice proves power metal doesn't require a lighter 5A across the board — some of the genre's most road-tested drummers still favor extra mass for durability and impact.`,
 
           pros: [
             "Mikkey Dee's proven Motörhead/Scorpions setup — touring-tested durability",
-            "Widely available and dependably manufactured",
-            "American hickory for durability across relentless touring schedules",
-            "Maximum standard diameter drives raw, anthemic accent impact",
-            "No signature pricing markup"
+            "Weight-matched within three grams for consistent feel pair to pair",
+            "Stone-ground Kentucky hickory for durability across relentless touring schedules",
+            "Heavier 2B-class diameter drives raw, anthemic accent impact",
+            "Fat acorn/teardrop tip gives clear ride cymbal definition despite the extra mass"
           ],
           cons: [
             "Less hand speed than a 5A for the fastest galloping passages",
-            "Heavier feel takes adjustment for drummers used to a lighter stick"
+            "Heavier feel takes adjustment for drummers used to a lighter stick",
+            "Less widely stocked than Vic Firth or ProMark in some regions"
           ],
           specs: {
-            material: "American Hickory",
-            diameter: "0.595\"",
-            length: "16\"",
-            tip: "Oval (wood)",
-            grip: "Lacquered"
+            material: "Kentucky Hickory",
+            diameter: "0.622\" (2B-class)",
+            length: "16.1\"",
+            tip: "Fat acorn/teardrop (wood)",
+            grip: "UWP wax coating"
           },
           usedBy: [
-            { name: "Mikkey Dee", band: "Motörhead / Scorpions", note: "Vic Firth American Classic 5B — touring stamina and accent weight" }
+            { name: "Mikkey Dee", band: "Motörhead / Scorpions", note: "Wincent Signature — touring stamina and accent weight" }
           ],
           verdict: "The touring-durability pick. Best for power metal drummers who prioritize accent weight over maximum hand speed.",
           rating: 4.4,
-          affiliateLink: "https://www.thomann.de/intl/vic_firth_american_classic_5b.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/wincent_mikkey_dee_signature.htm?partner_id=metalforge"
         }
       ]
     },
@@ -94221,21 +94222,24 @@ Dee's choice proves power metal doesn't require a lighter 5A across the board �
 
     // Comparison section
     comparison: {
-      title: "5A vs 5B Sticks for Power Metal",
-      content: `Power metal's most respected drummers split between a lighter 5A for galloping speed and a heavier 5B for anthemic accent weight — here's the honest breakdown:
+      title: "5A vs 5B vs 2B-Class Sticks for Power Metal",
+      content: `Power metal's most respected drummers split between a lighter 5A for galloping speed and heavier options for anthemic accent weight — here's the honest breakdown:
 
 **5A-Class Sticks (Vic Firth American Classic, ProMark Aquiles Priester Signature):**
 - Lighter diameter keeps hand speed high across sustained galloping double-bass patterns
 - Preferred by: Scott Travis, Aquiles Priester
 
-**5B-Class Sticks (Vic Firth American Classic 5B, Vic Firth Nicko McBrain Signature SNM):**
+**5B-Class Sticks (Vic Firth Nicko McBrain Signature SNM):**
 - Broadly proven, widely available, and delivers maximum accent weight; McBrain's reinforced Signature SNM adds touring durability on top of the standard 5B feel
-- Mikkey Dee's and Nicko McBrain's choices show touring durability can outweigh maximum hand speed
-- Preferred by: Mikkey Dee, Nicko McBrain
+- Preferred by: Nicko McBrain
 
-**The Truth:** Both approaches work at power metal's highest level. Scott Travis's and Aquiles Priester's 5A picks exist because the genre's galloping double-bass patterns genuinely reward every fraction of hand speed a lighter stick can offer. Mikkey Dee's and Nicko McBrain's heavier 5B picks show that decades of touring can favor durability and accent weight over maximum speed.
+**2B-Class Sticks (Wincent Signature — Mikkey Dee):**
+- Maximum accent weight and durability, at the cost of some hand speed
+- Preferred by: Mikkey Dee
 
-**Our Recommendation:** Start with a standard Vic Firth 5A to find your baseline feel for galloping patterns. If you're prioritizing anthemic accent weight and touring durability over pure speed, a 5B like Mikkey Dee's is worth the upgrade.`,
+**The Truth:** All three approaches work at power metal's highest level. Scott Travis's and Aquiles Priester's 5A picks exist because the genre's galloping double-bass patterns genuinely reward every fraction of hand speed a lighter stick can offer. Mikkey Dee's heavier Wincent Signature and Nicko McBrain's reinforced 5B show that decades of touring can favor durability and accent weight over maximum speed.
+
+**Our Recommendation:** Start with a standard Vic Firth 5A to find your baseline feel for galloping patterns. If you're prioritizing anthemic accent weight and touring durability over pure speed, a heavier pick like Mikkey Dee's 2B-class Wincent Signature is worth the upgrade.`,
       comparisonTable: [
         { feature: "Galloping Hand Speed", wood: "⭐⭐⭐⭐⭐", aluminum: "⭐⭐⭐" },
         { feature: "Anthemic Accent Weight", wood: "⭐⭐⭐⭐", aluminum: "⭐⭐⭐⭐⭐" },
@@ -94266,7 +94270,7 @@ Dee's choice proves power metal doesn't require a lighter 5A across the board �
         },
         {
           category: "Best for Touring Durability",
-          pedal: "Vic Firth American Classic 5B",
+          pedal: "Wincent Signature — Mikkey Dee",
           reason: "Mikkey Dee's heavier pick — accent weight and durability across decades on the road."
         }
       ]
@@ -94283,7 +94287,7 @@ Dee's choice proves power metal doesn't require a lighter 5A across the board �
       { slug: 'scott-travis', name: 'Scott Travis', reason: 'Vic Firth American Classic 5A — Judas Priest galloping double-bass speed' },
       { slug: 'aquiles-priester', name: 'Aquiles Priester', reason: 'ProMark Aquiles Priester Signature — Angra neoclassical double-bass precision' },
       { slug: 'nicko-mcbrain', name: 'Nicko McBrain', reason: 'Vic Firth Signature SNM — reinforced 5B for Iron Maiden touring durability' },
-      { slug: 'mikkey-dee', name: 'Mikkey Dee', reason: 'Vic Firth American Classic 5B — Motörhead/Scorpions touring stamina' }
+      { slug: 'mikkey-dee', name: 'Mikkey Dee', reason: 'Wincent Signature — Motörhead/Scorpions touring stamina' }
     ],
 
     // Featured drummers (issue template)
@@ -94291,7 +94295,7 @@ Dee's choice proves power metal doesn't require a lighter 5A across the board �
       { slug: 'scott-travis', name: 'Scott Travis', reason: 'Vic Firth American Classic 5A — Judas Priest\'s galloping double-bass foundation' },
       { slug: 'aquiles-priester', name: 'Aquiles Priester', reason: 'ProMark Aquiles Priester Signature — Angra\'s neoclassical double-bass precision' },
       { slug: 'nicko-mcbrain', name: 'Nicko McBrain', reason: 'Vic Firth Signature SNM — Iron Maiden\'s reinforced touring durability' },
-      { slug: 'mikkey-dee', name: 'Mikkey Dee', reason: 'Vic Firth American Classic 5B — Motörhead/Scorpions touring stamina' }
+      { slug: 'mikkey-dee', name: 'Mikkey Dee', reason: 'Wincent Signature — Motörhead/Scorpions touring stamina' }
     ],
     relatedComparisons: [],
 
@@ -94303,7 +94307,7 @@ Dee's choice proves power metal doesn't require a lighter 5A across the board �
       },
       {
         question: "What's the best drumstick diameter for power metal?",
-        answer: "A 5A diameter works best for power metal's galloping double-bass patterns, as used by Scott Travis and Aquiles Priester. Nicko McBrain's reinforced Vic Firth 5B and Mikkey Dee's standard Vic Firth 5B are strong alternatives for drummers prioritizing accent weight and touring durability."
+        answer: "A 5A diameter works best for power metal's galloping double-bass patterns, as used by Scott Travis and Aquiles Priester. Nicko McBrain's reinforced Vic Firth 5B and Mikkey Dee's heavier Wincent Signature (2B-class) are strong alternatives for drummers prioritizing accent weight and touring durability."
       },
       {
         question: "What drumsticks does Aquiles Priester use?",
@@ -94315,16 +94319,16 @@ Dee's choice proves power metal doesn't require a lighter 5A across the board �
       },
       {
         question: "Do power metal drummers need lighter sticks than other metal genres?",
-        answer: "Often, yes, for galloping double-bass speed. Scott Travis's and Aquiles Priester's picks both sit at a 5A diameter for exactly this reason. That said, Nicko McBrain's reinforced Vic Firth 5B and Mikkey Dee's heavier Vic Firth 5B show two well-trained, road-tested drummers can still favor extra mass and durability."
+        answer: "Often, yes, for galloping double-bass speed. Scott Travis's and Aquiles Priester's picks both sit at a 5A diameter for exactly this reason. That said, Nicko McBrain's reinforced Vic Firth 5B and Mikkey Dee's heavier Wincent Signature show two well-trained, road-tested drummers can still favor extra mass and durability."
       }
     ],
 
     // Conclusion
     conclusion: {
       title: "Find Your Power Metal Stick",
-      content: `Power metal's stick choices split along a real functional line: Scott Travis's and Aquiles Priester's lighter 5A picks exist because galloping double-bass patterns genuinely reward every fraction of hand speed a lighter stick can offer. Mikkey Dee's heavier Vic Firth 5B and Nicko McBrain's reinforced Vic Firth Signature SNM, both carried through decades on the road, prove that touring durability and accent weight can matter just as much as pure speed.
+      content: `Power metal's stick choices split along a real functional line: Scott Travis's and Aquiles Priester's lighter 5A picks exist because galloping double-bass patterns genuinely reward every fraction of hand speed a lighter stick can offer. Mikkey Dee's heavier Wincent Signature and Nicko McBrain's reinforced Vic Firth Signature SNM, both carried through decades on the road, prove that touring durability and accent weight can matter just as much as pure speed.
 
-For most power metal drummers, start with a standard Vic Firth 5A to find your baseline feel for galloping patterns. If you're chasing maximum anthemic accent weight or need extra touring durability, a heavier 5B like Mikkey Dee's is worth the upgrade.
+For most power metal drummers, start with a standard Vic Firth 5A to find your baseline feel for galloping patterns. If you're chasing maximum anthemic accent weight or need extra touring durability, a heavier 2B-class pick like Mikkey Dee's Wincent Signature is worth the upgrade.
 
 🤘 **Gallop the verse. Anthemize the chorus. Never lose the speed.**`
     }

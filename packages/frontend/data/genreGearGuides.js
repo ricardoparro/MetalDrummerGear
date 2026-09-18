@@ -9577,17 +9577,17 @@ This guide breaks down the best cymbal choices for progressive metal, including 
       pedals: [
         {
           rank: 1,
-          name: "Meinl Byzance Dark",
+          name: "Meinl Artist Concept",
           brand: "Meinl",
-          model: "Byzance Dark Series",
+          model: "Artist Concept Series",
           image: "https://upload.wikimedia.org/wikipedia/commons/4/43/Zildjian_Quick_Beat_Hi_Hat_15.jpg",
           priceRange: "€200-500 per cymbal",
           tier: "pro",
           material: "B20 Bronze (Dark Hand-Hammered)",
 
-          description: `The Meinl Byzance Dark series is the primary cymbal choice for Matt Halpern of Periphery — one of progressive metal's most influential drummers. The dark, hand-hammered B20 bronze delivers complex, layered tones that serve Periphery's extreme dynamic ranges.
+          description: `The Meinl Artist Concept series is the signature cymbal choice for Matt Halpern of Periphery — one of progressive metal's most influential drummers. The dark, hand-hammered B20 bronze delivers complex, layered tones that serve Periphery's extreme dynamic ranges.
 
-Meinl's Byzance casting process uses genuine B20 bronze (80% copper, 20% tin) with traditional Turkish-style hand hammering that creates irregular surfaces producing complex overtone stacks. The dark finish eliminates the brilliant sheen, giving the cymbals a more raw, complex character that sits better under dense prog metal arrangements than brighter alternatives. Halpern's djent-influenced Periphery drumming — which demands precisely controlled response — relies on exactly this character.`,
+Meinl's Artist Concept casting process uses genuine B20 bronze (80% copper, 20% tin) with traditional Turkish-style hand hammering that creates irregular surfaces producing complex overtone stacks. The dark finish eliminates the brilliant sheen, giving the cymbals a more raw, complex character that sits better under dense prog metal arrangements than brighter alternatives. Halpern's djent-influenced Periphery drumming — which demands precisely controlled response — relies on exactly this character.`,
 
           pros: [
             "Dark, complex B20 tone for prog metal's layered arrangements",
@@ -9597,7 +9597,7 @@ Meinl's Byzance casting process uses genuine B20 bronze (80% copper, 20% tin) wi
           ],
           cons: [
             "Dark tone may lack brightness for more straightforward metal",
-            "Premium pricing across the Byzance range",
+            "Premium pricing across the Artist Concept range",
             "Less versatile for hard rock or simpler metal styles"
           ],
           specs: {
@@ -9607,11 +9607,11 @@ Meinl's Byzance casting process uses genuine B20 bronze (80% copper, 20% tin) wi
             bestFor: "Progressive metal, technical metal, djent-influenced prog"
           },
           usedBy: [
-            { name: "Matt Halpern", band: "Periphery", note: "Meinl endorser; djent/prog precision" }
+            { name: "Matt Halpern", band: "Periphery", note: "Meinl signature endorser; djent/prog precision" }
           ],
           verdict: "The definitive Meinl prog metal cymbal line. Dark, complex B20 tone handles Periphery-level dynamics. Halpern approved.",
           rating: 4.9,
-          affiliateLink: "https://www.thomann.de/intl/meinl_byzance_dark_series.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/meinl_artist_concept_series.htm?partner_id=metalforge"
         },
         {
           rank: 2,
@@ -9810,10 +9810,10 @@ For prog metal drummers developing their sound or working within tighter budgets
 
     // Meinl vs Zildjian comparison
     comparison: {
-      title: "Meinl Byzance Dark vs Zildjian K Dark for Prog Metal",
-      content: `The central prog metal cymbal choice: Meinl Byzance Dark (Matt Halpern) or Zildjian K Dark (Brann Dailor)? Here's the honest breakdown:
+      title: "Meinl Artist Concept vs Zildjian K Dark for Prog Metal",
+      content: `The central prog metal cymbal choice: Meinl Artist Concept (Matt Halpern) or Zildjian K Dark (Brann Dailor)? Here's the honest breakdown:
 
-**Meinl Byzance Dark:**
+**Meinl Artist Concept:**
 - Darker, drier character — more overtones suppressed
 - Fast attack and quick decay — great for technical patterns
 - Turkish-tradition hand hammering
@@ -9821,17 +9821,17 @@ For prog metal drummers developing their sound or working within tighter budgets
 - Best for: Technical prog metal, djent-influenced prog, extreme dynamic passages
 
 **Zildjian K Dark:**
-- Slightly warmer than Byzance Dark — more sustain and wash
+- Slightly warmer than Artist Concept — more sustain and wash
 - More musical in melodic and jazz-influenced passages
 - More accessible pricing in some models
 - Preferred by: Brann Dailor (Mastodon)
 - Best for: Sludge-prog, melodic prog metal, jazz-metal crossover
 
-**The Truth:** Both are genuinely excellent. Meinl Byzance Dark is more common among technical/djent-adjacent prog players. Zildjian K Dark dominates in sludge-prog and melodic prog metal. Play both before deciding — individual cymbal variation is significant in B20 hand-hammered lines.
+**The Truth:** Both are genuinely excellent. Meinl Artist Concept is more common among technical/djent-adjacent prog players. Zildjian K Dark dominates in sludge-prog and melodic prog metal. Play both before deciding — individual cymbal variation is significant in B20 hand-hammered lines.
 
 Note that not every top prog metal drummer fits neatly into this Meinl-or-Zildjian split — BTBAM's own Sabian HHX Evolution / AAX setup takes a third path entirely.
 
-**Our Recommendation:** If you play Periphery-style prog, go Meinl Byzance Dark. If you play Mastodon/Tool-style prog, go Zildjian K Dark. If you play BTBAM-style genre-hopping prog, go Sabian HHX Evolution.`,
+**Our Recommendation:** If you play Periphery-style prog, go Meinl Artist Concept. If you play Mastodon/Tool-style prog, go Zildjian K Dark. If you play BTBAM-style genre-hopping prog, go Sabian HHX Evolution.`,
       comparisonTable: [
         { feature: "Darkness/Dryness", meinl: "⭐⭐⭐⭐⭐", zildjian: "⭐⭐⭐⭐" },
         { feature: "Warmth/Sustain", meinl: "⭐⭐⭐", zildjian: "⭐⭐⭐⭐⭐" },
@@ -9847,7 +9847,7 @@ Note that not every top prog metal drummer fits neatly into this Meinl-or-Zildji
       picks: [
         {
           category: "Best Overall",
-          pedal: "Meinl Byzance Dark",
+          pedal: "Meinl Artist Concept",
           reason: "Matt Halpern's choice. Dark B20 complex tone handles Periphery-level prog dynamics."
         },
         {
@@ -9886,7 +9886,7 @@ Note that not every top prog metal drummer fits neatly into this Meinl-or-Zildji
     featuredDrummers: [
       { slug: 'blake-richardson', name: 'Blake Richardson', reason: 'Sabian HHX Evolution — BTBAM prog metal cymbal standard' },
       { slug: 'brann-dailor', name: 'Brann Dailor', reason: 'Zildjian K Dark — Mastodon sludge-prog excellence' },
-      { slug: 'matt-halpern', name: 'Matt Halpern', reason: 'Meinl Byzance — Periphery djent precision' }
+      { slug: 'matt-halpern', name: 'Matt Halpern', reason: 'Meinl Artist Concept — Periphery djent precision' }
     ],
 
     // FAQ section for SEO
@@ -9901,11 +9901,11 @@ Note that not every top prog metal drummer fits neatly into this Meinl-or-Zildji
       },
       {
         question: "What cymbals does Matt Halpern use?",
-        answer: "Matt Halpern of Periphery is a Meinl endorser who uses Byzance cymbals, primarily the Dark and Vintage lines. Halpern's djent-influenced prog metal requires precisely controlled cymbal response — the Byzance Dark's fast attack and controlled decay work well within Periphery's technically demanding arrangements."
+        answer: "Matt Halpern of Periphery is a Meinl signature endorser who uses Artist Concept cymbals. Halpern's djent-influenced prog metal requires precisely controlled cymbal response — the Artist Concept line's fast attack and controlled decay work well within Periphery's technically demanding arrangements."
       },
       {
         question: "Are Meinl or Zildjian cymbals better for progressive metal?",
-        answer: "Both are excellent — the choice comes down to subgenre and preference. Meinl Byzance Dark (Matt Halpern) suits technical prog metal and djent-influenced prog: darker, drier, faster attack. Zildjian K Dark (Brann Dailor) suits melodic prog and sludge-prog: slightly warmer with more sustain. BTBAM's own drummer instead runs Sabian HHX Evolution / AAX for a similarly complex, musical character. Play multiple lines before deciding — individual cymbal variation is significant in hand-hammered B20 lines."
+        answer: "Both are excellent — the choice comes down to subgenre and preference. Meinl Artist Concept (Matt Halpern) suits technical prog metal and djent-influenced prog: darker, drier, faster attack. Zildjian K Dark (Brann Dailor) suits melodic prog and sludge-prog: slightly warmer with more sustain. BTBAM's own drummer instead runs Sabian HHX Evolution / AAX for a similarly complex, musical character. Play multiple lines before deciding — individual cymbal variation is significant in hand-hammered B20 lines."
       },
       {
         question: "What size cymbals for progressive metal?",
@@ -27691,7 +27691,7 @@ Start with an 18" in whatever alloy fits your budget, experiment with inverted m
       title: "Why Djent Drummers Need a Precise China",
       content: `Djent is a genre built on mathematical precision — polyrhythms, odd-meter riffs, and syncopated guitar hits that land in unexpected places. A china cymbal in this context isn't about chaos; it's about landing a sharp, controlled accent exactly on a syncopated riff hit without blurring the rhythmic clarity the genre depends on.
 
-Tomas Haake's Sabian setup with Meshuggah — the band that effectively founded the djent sound — uses china accents with the same rhythmic precision that defines his polymetric approach to the kit. Matt Halpern's Meinl Byzance Dark setup with Periphery pairs a controlled, fast-decaying china with the band's dense, technical arrangements, while Travis Orbin's Meinl Byzance Extra Dry china — part of the setup he helped shape during Periphery's genre-defining early years — favors a dry, cutting voice that doesn't wash over a polyrhythmic passage.
+Tomas Haake's Sabian setup with Meshuggah — the band that effectively founded the djent sound — uses china accents with the same rhythmic precision that defines his polymetric approach to the kit. Matt Halpern's Meinl Artist Concept setup with Periphery pairs a controlled, fast-decaying china with the band's dense, technical arrangements, while Travis Orbin's Meinl Byzance Extra Dry china — part of the setup he helped shape during Periphery's genre-defining early years — favors a dry, cutting voice that doesn't wash over a polyrhythmic passage.
 
 This guide covers what matters most for a djent china: fast decay, tonal clarity, and consistent response, along with specific model recommendations across every budget.`,
       keyPoints: [
@@ -27751,21 +27751,21 @@ This guide covers what matters most for a djent china: fast decay, tonal clarity
       pedals: [
         {
           rank: 1,
-          name: "Meinl Byzance Dark China",
+          name: "Meinl Artist Concept China",
           brand: "Meinl",
-          model: "18\" Byzance Dark China",
+          model: "18\" Artist Concept China",
           image: "https://upload.wikimedia.org/wikipedia/commons/7/74/Dixon-double-pedal.jpg",
           priceRange: "€210-260",
           tier: "pro",
           driveType: "B20 Bronze, Dark",
-          description: `The Byzance Dark China delivers a controlled, fast-decaying trash with a darker tonal center — ideal for landing sharp accents on djent's syncopated riff hits without washing over the surrounding polyrhythm.
+          description: `The Artist Concept China delivers a controlled, fast-decaying trash with a darker tonal center — ideal for landing sharp accents on djent's syncopated riff hits without washing over the surrounding polyrhythm.
 
-Matt Halpern's Meinl Byzance Dark setup with Periphery pairs this controlled voice with the band's dense, technical arrangements, where rhythmic clarity matters as much as raw aggression.`,
+Matt Halpern's Meinl Artist Concept setup with Periphery pairs this controlled voice with the band's dense, technical arrangements, where rhythmic clarity matters as much as raw aggression.`,
           pros: [
             "Controlled, fast decay that preserves rhythmic clarity",
             "Dark tonal center fits djent's downtuned, technical sound",
             "18\" size responds precisely on syncopated accents",
-            "Consistent Byzance-line build quality"
+            "Consistent Artist Concept-line build quality"
           ],
           cons: [
             "Premium price point",
@@ -27780,11 +27780,11 @@ Matt Halpern's Meinl Byzance Dark setup with Periphery pairs this controlled voi
             mounting: "Standard"
           },
           usedBy: [
-            { name: "Matt Halpern", band: "Periphery", note: "Byzance Dark for dense, technical polyrhythmic arrangements" }
+            { name: "Matt Halpern", band: "Periphery", note: "Artist Concept for dense, technical polyrhythmic arrangements" }
           ],
           verdict: "The rhythmic-precision benchmark for djent — controlled trash that never blurs the pattern.",
           rating: 4.7,
-          affiliateLink: "https://www.thomann.de/intl/meinl_byzance_dark_china_18.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/meinl_artist_concept_china_18.htm?partner_id=metalforge"
         },
         {
           rank: 2,
@@ -28032,7 +28032,7 @@ A strong option for drummers building a more melodic, atmospheric take on djent 
     ],
     relatedDrummers: [
       { slug: 'tomas-haake', name: 'Tomas Haake', reason: 'Sabian AAX China — djent\'s founding rhythmic precision' },
-      { slug: 'matt-halpern', name: 'Matt Halpern', reason: 'Meinl Byzance Dark China — Periphery\'s technical arrangements' },
+      { slug: 'matt-halpern', name: 'Matt Halpern', reason: 'Meinl Artist Concept China — Periphery\'s technical arrangements' },
       { slug: 'travis-orbin', name: 'Travis Orbin', reason: 'Meinl Byzance Extra Dry China — genre-shaping precision' }
     ],
     relatedComparisons: [],
@@ -28064,7 +28064,7 @@ A strong option for drummers building a more melodic, atmospheric take on djent 
     // Conclusion
     conclusion: {
       title: "Precision Over Chaos",
-      content: `Unlike most metal subgenres, djent asks a china cymbal to be precise rather than chaotic — a sharp, controlled accent that lands exactly on a syncopated riff hit and disappears before the next polyrhythmic phrase. Whether you choose the controlled darkness of Meinl's Byzance Dark that Matt Halpern relies on, the genre-founding brightness of Sabian's AAX behind Tomas Haake's approach, or a budget-friendly XSR to start practicing accent placement, the right china sharpens every syncopated hit in your set.
+      content: `Unlike most metal subgenres, djent asks a china cymbal to be precise rather than chaotic — a sharp, controlled accent that lands exactly on a syncopated riff hit and disappears before the next polyrhythmic phrase. Whether you choose the controlled darkness of Meinl's Artist Concept that Matt Halpern relies on, the genre-founding brightness of Sabian's AAX behind Tomas Haake's approach, or a budget-friendly XSR to start practicing accent placement, the right china sharpens every syncopated hit in your set.
 
 Start with an 18" in a dry, fast-decaying voice, and size down to 16" if your material demands maximum rhythmic precision.
 
@@ -35313,12 +35313,12 @@ Start with a 21"-22" standard-bell pro ride, and step up to a Mega Bell design o
       title: "Why Djent Rides Need a Defined Ping, Not a Wash",
       content: `Djent's palm-muted, chugging guitar tone lives in a dense mid-range pocket, and the ride cymbal sits directly on top of it holding the pulse. Unlike a crash, which fires once and gets out of the way, the ride is constantly present — carrying eighth notes, sixteenth-note polyrhythms, and odd-time groupings for entire song sections. That means a djent ride has to do the opposite of what a thrash or death metal ride does: instead of building a wall of wash, it needs to deliver a tight, defined "ping" that stays legible against palm-muted riffing without smearing into a blur of overtones.
 
-Tomas Haake of Meshuggah, the drummer whose grid-locked, mechanically precise polyrhythms defined djent's founding template, rides a Sabian HHX Evolution Ride as part of his broader Sabian AAX/HHX setup — prized for a stick response so consistent that it barely changes whether he's riding a straight groove or one of Meshuggah's signature metric modulations. Matt Halpern of Periphery builds his ride voice around a 22" Meinl Byzance Extra Dry Ride, valued for a decay fast enough to keep pace with Periphery's dense, palm-muted prog-djent riffing without piling up sustain on top of the guitars. Travis Orbin, who helped define djent's genre-shaping template on Periphery's self-titled 2010 debut, rode a similarly dry, controlled ride throughout those sessions specifically to keep the acoustic kit legible alongside the album's layered trigger and sample work.
+Tomas Haake of Meshuggah, the drummer whose grid-locked, mechanically precise polyrhythms defined djent's founding template, rides a Sabian HHX Evolution Ride as part of his broader Sabian AAX/HHX setup — prized for a stick response so consistent that it barely changes whether he's riding a straight groove or one of Meshuggah's signature metric modulations. Matt Halpern of Periphery builds his ride voice around a 22" Meinl Artist Concept Ride, valued for a decay fast enough to keep pace with Periphery's dense, palm-muted prog-djent riffing without piling up sustain on top of the guitars. Travis Orbin, who helped define djent's genre-shaping template on Periphery's self-titled 2010 debut, rode a similarly dry, controlled ride throughout those sessions specifically to keep the acoustic kit legible alongside the album's layered trigger and sample work.
 
 This guide breaks down what actually makes a ride work for djent — stick definition, dry decay, and consistency across odd-time groupings — and recommends specific models across every budget, from a first tight-ping ride to the exact cymbals djent's founding and modern drummers ride night after night.`,
       keyPoints: [
         "A defined, articulate ping matters more than wash — djent riding sits directly on top of palm-muted riffs and needs to stay legible",
-        "Tomas Haake's Sabian HHX Evolution Ride and Matt Halpern's Meinl Byzance Extra Dry Ride represent the genre's two dominant dry-ride camps",
+        "Tomas Haake's Sabian HHX Evolution Ride and Matt Halpern's Meinl Artist Concept Ride represent the genre's two dominant dry-ride camps",
         "20\"-22\" is the djent ride sweet spot, balancing quick stick response with enough body to anchor odd-time grooves",
         "Consistency across metric modulations and shifting time signatures matters more in djent than in almost any other metal subgenre"
       ]
@@ -35337,7 +35337,7 @@ This guide breaks down what actually makes a ride work for djent — stick defin
         {
           name: "Dry, Controlled Decay",
           icon: "🌫️",
-          description: "A ride that keeps ringing after each stroke stacks up sustain that muddies djent's tightly quantized rhythmic feel. Matt Halpern's Meinl Byzance Extra Dry Ride is voiced to decay quickly, keeping each stroke distinct even across dense sixteenth-note patterns.",
+          description: "A ride that keeps ringing after each stroke stacks up sustain that muddies djent's tightly quantized rhythmic feel. Matt Halpern's Meinl Artist Concept Ride is voiced to decay quickly, keeping each stroke distinct even across dense sixteenth-note patterns.",
           recommendation: "Extra Dry or otherwise low-sustain voicing for the cleanest separation between strokes"
         },
         {
@@ -35349,7 +35349,7 @@ This guide breaks down what actually makes a ride work for djent — stick defin
         {
           name: "Bell for Accents",
           icon: "🔔",
-          description: "Even in a genre built around restraint, djent drummers reach for the bell to punctuate a breakdown or mark a shift in a riff. A clearly defined bell — present on both the HHX Evolution and Byzance Extra Dry lines — matters more than a huge, oversized one.",
+          description: "Even in a genre built around restraint, djent drummers reach for the bell to punctuate a breakdown or mark a shift in a riff. A clearly defined bell — present on both the HHX Evolution and Artist Concept lines — matters more than a huge, oversized one.",
           recommendation: "A clear, present bell rather than an oversized Mega Bell design"
         },
         {
@@ -35390,7 +35390,7 @@ As djent's founding drummer, Haake's ride choice set the template the rest of th
             "Bell defined enough for breakdown accents without overwhelming the stick response"
           ],
           cons: [
-            "Brighter voice than the Meinl Byzance Extra Dry alternative",
+            "Brighter voice than the Meinl Artist Concept alternative",
             "Premium Sabian pricing",
             "Less common in budget retailers than Zildjian or Meinl equivalents"
           ],
@@ -35410,16 +35410,16 @@ As djent's founding drummer, Haake's ride choice set the template the rest of th
         },
         {
           rank: 2,
-          name: "Meinl Byzance Extra Dry Ride",
+          name: "Meinl Artist Concept Ride",
           brand: "Meinl",
-          model: "22\" Byzance Extra Dry Ride",
+          model: "22\" Artist Concept Ride",
           image: "https://upload.wikimedia.org/wikipedia/commons/3/31/Cymbal_Hammering.JPG",
           priceRange: "€260-320",
           tier: "pro",
           driveType: "B20 Bronze, Extra Dry",
-          description: `Matt Halpern of Periphery builds his ride voice around a 22" Meinl Byzance Extra Dry Ride, part of a broader Byzance Dark and Extra Dry setup engineered for the precise, low-sustain response Periphery's dense, palm-muted prog-djent arrangements demand.
+          description: `Matt Halpern of Periphery builds his ride voice around a 22" Meinl Artist Concept Ride, part of a broader Artist Concept signature setup engineered for the precise, low-sustain response Periphery's dense, palm-muted prog-djent arrangements demand.
 
-The Extra Dry's minimal wash keeps pace with fast, repetitive sixteenth-note patterns without piling sustain on top of the guitars — exactly the quality that makes it Halpern's go-to for Periphery's most technical material.`,
+The Artist Concept's minimal wash keeps pace with fast, repetitive sixteenth-note patterns without piling sustain on top of the guitars — exactly the quality that makes it Halpern's go-to for Periphery's most technical material.`,
           pros: [
             "Matt Halpern's proven Periphery setup — precise, low-sustain response",
             "Driest decay of any ride in this guide, ideal for dense riffing",
@@ -35427,7 +35427,7 @@ The Extra Dry's minimal wash keeps pace with fast, repetitive sixteenth-note pat
             "Part of a proven, matched Meinl setup across Halpern's full kit"
           ],
           cons: [
-            "Premium Byzance pricing",
+            "Premium Artist Concept pricing",
             "Extra Dry voicing requires adjustment if coming from a washier ride",
             "Less sustain than drummers used to a traditional ride might expect"
           ],
@@ -35439,11 +35439,11 @@ The Extra Dry's minimal wash keeps pace with fast, repetitive sixteenth-note pat
             weight: "Medium"
           },
           usedBy: [
-            { name: "Matt Halpern", band: "Periphery", note: "22\" Byzance Extra Dry Ride for prog-djent precision" }
+            { name: "Matt Halpern", band: "Periphery", note: "22\" Artist Concept Ride for prog-djent precision" }
           ],
           verdict: "Best for dense, palm-muted prog-djent riffing that needs a ride to stay dry and out of the way.",
           rating: 4.7,
-          affiliateLink: "https://www.thomann.de/intl/meinl_byzance_extra_dry_ride_22_halpern.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/meinl_artist_concept_ride_22_halpern.htm?partner_id=metalforge"
         },
         {
           rank: 3,
@@ -35555,17 +35555,17 @@ The K Custom Dry gives advanced djent drummers a genuine third option — proof 
           priceRange: "€55-75",
           tier: "budget",
           driveType: "Brass",
-          description: "A budget-friendly alternative that mirrors the same brand lineage as Matt Halpern's professional Meinl setup, giving developing drummers a real path toward a Byzance Extra Dry upgrade.",
+          description: "A budget-friendly alternative that mirrors the same brand lineage as Matt Halpern's professional Meinl setup, giving developing drummers a real path toward an Artist Concept upgrade.",
           pros: [
             "Same Meinl brand lineage as pro djent ride setups",
             "Affordable, widely available entry point",
             "Reasonably dry response even at entry-level pricing"
           ],
           cons: [
-            "Less complex overtone character than Byzance",
+            "Less complex overtone character than Artist Concept",
             "Less dry and controlled than the pro-tier lines it's modeled after"
           ],
-          verdict: "Best budget Meinl option for building toward djent's Byzance Extra Dry standard.",
+          verdict: "Best budget Meinl option for building toward djent's Artist Concept standard.",
           rating: 4.0,
           affiliateLink: "https://www.thomann.de/intl/meinl_hcs_ride_20_djent.htm?partner_id=metalforge"
         },
@@ -35583,7 +35583,7 @@ The K Custom Dry gives advanced djent drummers a genuine third option — proof 
             "Excellent value-to-quality ratio"
           ],
           cons: [
-            "Not as dry/controlled as the full HHX Evolution or Byzance Extra Dry lines",
+            "Not as dry/controlled as the full HHX Evolution or Artist Concept lines",
             "Fewer size options than flagship lines"
           ],
           verdict: "Best value pick for a real B20 djent ride without the pro-tier price.",
@@ -35595,7 +35595,7 @@ The K Custom Dry gives advanced djent drummers a genuine third option — proof 
 
     // Sabian vs Meinl comparison
     comparison: {
-      title: "Sabian HHX Evolution vs Meinl Byzance Extra Dry vs Zildjian K Custom Dry for Djent",
+      title: "Sabian HHX Evolution vs Meinl Artist Concept vs Zildjian K Custom Dry for Djent",
       content: `Defined, controlled response stays consistent across djent's founding and modern lineage, but brand and voicing split these drummers into distinct camps:
 
 **Sabian HHX Evolution (Tomas Haake):**
@@ -35603,7 +35603,7 @@ The K Custom Dry gives advanced djent drummers a genuine third option — proof 
 - Slightly more projection than the Meinl alternative
 - Best for genre-defining, mathematically complex djent
 
-**Meinl Byzance Extra Dry (Matt Halpern):**
+**Meinl Artist Concept (Matt Halpern):**
 - Driest, most controlled decay of the featured setups
 - Stays out of the way of dense, palm-muted riffing
 - Best for technical, densely arranged prog-djent
@@ -35613,7 +35613,7 @@ The K Custom Dry gives advanced djent drummers a genuine third option — proof 
 - Versatile across djent-adjacent progressive metal styles
 - Best for drummers who prefer Zildjian's tonal signature
 
-**Our Recommendation:** Start with a Sabian SBR or Meinl HCS ride if you're building djent technique on a budget. Choose Tomas Haake's Sabian HHX Evolution if your priority is bright, genre-founding precision. Go with Matt Halpern's Byzance Extra Dry if you're riding dense, palm-muted prog-djent.`,
+**Our Recommendation:** Start with a Sabian SBR or Meinl HCS ride if you're building djent technique on a budget. Choose Tomas Haake's Sabian HHX Evolution if your priority is bright, genre-founding precision. Go with Matt Halpern's Artist Concept if you're riding dense, palm-muted prog-djent.`,
       comparisonTable: [
         { feature: "Stick Definition", directDrive: "⭐⭐⭐⭐⭐", chainDrive: "⭐⭐⭐⭐" },
         { feature: "Dryness/Control", directDrive: "⭐⭐⭐", chainDrive: "⭐⭐⭐⭐⭐" },
@@ -35633,7 +35633,7 @@ The K Custom Dry gives advanced djent drummers a genuine third option — proof 
         },
         {
           category: "Best for Dense Prog-Djent",
-          pedal: "Meinl Byzance Extra Dry Ride",
+          pedal: "Meinl Artist Concept Ride",
           reason: "Matt Halpern's Periphery setup — dry, controlled response for palm-muted arrangements."
         },
         {
@@ -35657,14 +35657,14 @@ The K Custom Dry gives advanced djent drummers a genuine third option — proof 
     ],
     relatedDrummers: [
       { slug: 'tomas-haake', name: 'Tomas Haake', reason: 'Sabian HHX Evolution Ride — djent\'s founding precision voice' },
-      { slug: 'matt-halpern', name: 'Matt Halpern', reason: 'Meinl Byzance Extra Dry Ride — Periphery prog-djent precision' },
+      { slug: 'matt-halpern', name: 'Matt Halpern', reason: 'Meinl Artist Concept Ride — Periphery prog-djent precision' },
       { slug: 'travis-orbin', name: 'Travis Orbin', reason: 'Dry, controlled ride throughout Periphery\'s genre-shaping debut setup' }
     ],
 
     // Featured drummers (issue template)
     featuredDrummers: [
       { slug: 'tomas-haake', name: 'Tomas Haake', reason: 'Sabian HHX Evolution Ride — djent\'s founding precision voice' },
-      { slug: 'matt-halpern', name: 'Matt Halpern', reason: 'Meinl Byzance Extra Dry Ride — Periphery prog-djent precision' },
+      { slug: 'matt-halpern', name: 'Matt Halpern', reason: 'Meinl Artist Concept Ride — Periphery prog-djent precision' },
       { slug: 'travis-orbin', name: 'Travis Orbin', reason: 'Dry, controlled ride for Periphery\'s genre-shaping debut setup' }
     ],
     relatedComparisons: [],
@@ -35677,15 +35677,15 @@ The K Custom Dry gives advanced djent drummers a genuine third option — proof 
       },
       {
         question: "What ride cymbal does Matt Halpern use?",
-        answer: "Matt Halpern of Periphery plays a 22\" Meinl Byzance Extra Dry Ride, chosen for the precise, low-sustain response Periphery's dense, palm-muted prog-djent arrangements demand."
+        answer: "Matt Halpern of Periphery plays a 22\" Meinl Artist Concept Ride, chosen for the precise, low-sustain response Periphery's dense, palm-muted prog-djent arrangements demand."
       },
       {
         question: "Why do djent drummers favor dry, defined-ping rides?",
-        answer: "Djent's palm-muted, chugging guitar tone creates a dense wall of sound in the low-mids that a washy, sustained ride competes with rather than cuts through. Dry, controlled voicing — like Matt Halpern's Byzance Extra Dry Ride — decays quickly enough to keep every stroke legible against the riffing underneath it."
+        answer: "Djent's palm-muted, chugging guitar tone creates a dense wall of sound in the low-mids that a washy, sustained ride competes with rather than cuts through. Dry, controlled voicing — like Matt Halpern's Artist Concept Ride — decays quickly enough to keep every stroke legible against the riffing underneath it."
       },
       {
         question: "What size ride cymbal is best for djent?",
-        answer: "20\"-22\" is the djent sweet spot. Tomas Haake's 21\" HHX Evolution favors quick stick response for technical patterns, while Matt Halpern's 22\" Byzance Extra Dry adds a touch more low-end weight for anchoring groove-based riffing."
+        answer: "20\"-22\" is the djent sweet spot. Tomas Haake's 21\" HHX Evolution favors quick stick response for technical patterns, while Matt Halpern's 22\" Artist Concept adds a touch more low-end weight for anchoring groove-based riffing."
       },
       {
         question: "What's the best budget ride cymbal for djent?",
@@ -35696,7 +35696,7 @@ The K Custom Dry gives advanced djent drummers a genuine third option — proof 
     // Conclusion
     conclusion: {
       title: "Keep Your Ride Defined and Out of the Riff's Way",
-      content: `Djent's cymbal philosophy comes down to one core idea: control over wash — and nowhere does that matter more than the ride, since it's the one cymbal running constantly under every palm-muted riff. Whether you build around Tomas Haake's founding Sabian HHX Evolution voice, Matt Halpern's ultra-dry Byzance Extra Dry Ride, or a budget-friendly Sabian SBR to start experimenting, the right djent ride disappears into the groove while still keeping every stroke legible.
+      content: `Djent's cymbal philosophy comes down to one core idea: control over wash — and nowhere does that matter more than the ride, since it's the one cymbal running constantly under every palm-muted riff. Whether you build around Tomas Haake's founding Sabian HHX Evolution voice, Matt Halpern's ultra-dry Artist Concept Ride, or a budget-friendly Sabian SBR to start experimenting, the right djent ride disappears into the groove while still keeping every stroke legible.
 
 Start with one dry, controlled ride in the 20"-22" range, and only reach for a second voicing once you know exactly how much bell work and dynamic range your polyrhythmic patterns demand.
 
@@ -35921,16 +35921,16 @@ For drummers who want a drier, more controlled alternative to Danny Carey's musi
         },
         {
           rank: 4,
-          name: "Meinl Byzance Dark Ride",
+          name: "Meinl Artist Concept Ride",
           brand: "Meinl",
-          model: "22\" Byzance Dark Ride",
+          model: "22\" Artist Concept Ride",
           image: "https://upload.wikimedia.org/wikipedia/commons/c/c3/SABIAN_Paragon_Ride_Limited_Edition_Steampunk.jpg",
           priceRange: "€280-340",
           tier: "pro",
           driveType: "B20 Bronze, Dark Hand-Hammered",
-          description: `Matt Halpern of Periphery also draws from the Byzance Dark family for his ride voice, valuing its complex, layered overtones for djent-influenced progressive material that needs a controlled decay without sacrificing tonal richness.
+          description: `Matt Halpern of Periphery also draws from the Artist Concept family for his ride voice, valuing its complex, layered overtones for djent-influenced progressive material that needs a controlled decay without sacrificing tonal richness.
 
-The Byzance Dark's hand-hammered construction gives every unit slightly individual character, appealing to prog metal drummers who want a ride with a distinctive, personal voice rather than a fully standardized production model.`,
+The Artist Concept's hand-hammered construction gives every unit slightly individual character, appealing to prog metal drummers who want a ride with a distinctive, personal voice rather than a fully standardized production model.`,
           pros: [
             "Also part of Matt Halpern's proven Periphery cymbal setup",
             "Dark, hand-hammered B20 for genuine tonal complexity",
@@ -35950,11 +35950,11 @@ The Byzance Dark's hand-hammered construction gives every unit slightly individu
             weight: "Medium"
           },
           usedBy: [
-            { name: "Matt Halpern", band: "Periphery", note: "Byzance Dark family for djent-influenced progressive metal" }
+            { name: "Matt Halpern", band: "Periphery", note: "Artist Concept family for djent-influenced progressive metal" }
           ],
-          verdict: "Best dark, hand-hammered option for progressive metal drummers building a matched Byzance setup.",
+          verdict: "Best dark, hand-hammered option for progressive metal drummers building a matched Artist Concept setup.",
           rating: 4.6,
-          affiliateLink: "https://www.thomann.de/intl/meinl_byzance_dark_ride_22_prog.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/meinl_artist_concept_ride_22_prog.htm?partner_id=metalforge"
         }
       ]
     },
@@ -40774,11 +40774,11 @@ Start with a 21"-22" pro ride, and specialize toward a Mega Bell or Dark-voiced 
       title: "Why Metalcore Rides Need to Stay Dry and Legible",
       content: `Metalcore drumming lives between two worlds — breakdown-driven heaviness and technical, syncopated precision — and the ride cymbal has to serve both. Palm-muted chugs and tightly syncopated riffing need a ride that stays dry and controlled rather than washing out, while the genre's frequent tempo and dynamic shifts demand quick, clear stick definition through complex patterns.
 
-Matt Halpern of Periphery rides a 22" Meinl Byzance Extra Dry Transition Ride, prioritizing a controlled, low-sustain voice that stays articulate through breakdown-heavy arrangements and complex time signature changes. Alex Bent, who brought his technical death metal background to Trivium, rides a 21" Zildjian K Custom Hybrid Ride for a brighter, faster attack suited to Trivium's more melodic, riff-driven modern metal sound. Jay Weinberg of Slipknot takes a different path entirely, riding a 21" Zildjian K Custom Ride for a darker, more controlled definition underneath Slipknot's aggressive nu-metal/metalcore hybrid sound.
+Matt Halpern of Periphery rides a 22" Meinl Artist Concept Transition Ride, prioritizing a controlled, low-sustain voice that stays articulate through breakdown-heavy arrangements and complex time signature changes. Alex Bent, who brought his technical death metal background to Trivium, rides a 21" Zildjian K Custom Hybrid Ride for a brighter, faster attack suited to Trivium's more melodic, riff-driven modern metal sound. Jay Weinberg of Slipknot takes a different path entirely, riding a 21" Zildjian K Custom Ride for a darker, more controlled definition underneath Slipknot's aggressive nu-metal/metalcore hybrid sound.
 
 This guide breaks down what actually makes a ride work for metalcore — dry control, stick definition, and clarity through breakdown transitions — and recommends specific models across every budget, from a first dry-toned ride to the exact cymbals metalcore's most influential drummers ride night after night.`,
       keyPoints: [
-        "Dry, controlled voicing dominates metalcore's technical wing — Matt Halpern builds around the Meinl Byzance Extra Dry Transition Ride",
+        "Dry, controlled voicing dominates metalcore's technical wing — Matt Halpern builds around the Meinl Artist Concept Transition Ride",
         "Bright stick definition matters more than wash — metalcore riding sits directly on top of palm-muted riffs and needs to stay legible through tempo shifts",
         "21\"-22\" is the metalcore ride sweet spot, balancing quick response with enough body to anchor breakdown-heavy grooves",
         "Jay Weinberg's Zildjian K Custom Ride shows the brighter, more aggressive alternative to the genre's dry Meinl-dominated standard"
@@ -40792,7 +40792,7 @@ This guide breaks down what actually makes a ride work for metalcore — dry con
         {
           name: "Dry, Controlled Voicing",
           icon: "🌫️",
-          description: "Metalcore's breakdown-driven riffing needs a ride that doesn't wash into a wall of sustain. Matt Halpern's Meinl Byzance Extra Dry Transition Ride is voiced with minimal ring, staying controlled and articulate through syncopated, palm-muted passages.",
+          description: "Metalcore's breakdown-driven riffing needs a ride that doesn't wash into a wall of sustain. Matt Halpern's Meinl Artist Concept Transition Ride is voiced with minimal ring, staying controlled and articulate through syncopated, palm-muted passages.",
           recommendation: "Extra Dry or Transition-style rides for controlled, low-sustain response through breakdowns"
         },
         {
@@ -40804,7 +40804,7 @@ This guide breaks down what actually makes a ride work for metalcore — dry con
         {
           name: "Brightness vs. Dryness Tradeoff",
           icon: "⚖️",
-          description: "Meinl Byzance Extra Dry (Halpern) prioritizes control; Zildjian K Custom Hybrid (Bent) and Zildjian K Custom (Weinberg) trade some of that dryness for a brighter, faster attack that suits metalcore's more melodic or aggressive extremes.",
+          description: "Meinl Artist Concept (Halpern) prioritizes control; Zildjian K Custom Hybrid (Bent) and Zildjian K Custom (Weinberg) trade some of that dryness for a brighter, faster attack that suits metalcore's more melodic or aggressive extremes.",
           recommendation: "Extra Dry for breakdown-heavy technical metalcore; brighter K Custom Hybrid/K Custom voicing for melodic or aggressive metalcore"
         },
         {
@@ -40834,14 +40834,14 @@ This guide breaks down what actually makes a ride work for metalcore — dry con
       pedals: [
         {
           rank: 1,
-          name: "Meinl Byzance Extra Dry Transition Ride",
+          name: "Meinl Artist Concept Transition Ride",
           brand: "Meinl",
-          model: "22\" Byzance Extra Dry Transition Ride",
+          model: "22\" Artist Concept Transition Ride",
           image: "https://upload.wikimedia.org/wikipedia/commons/4/43/Zildjian_Quick_Beat_Hi_Hat_15.jpg",
           priceRange: "€300-360",
           tier: "pro",
           driveType: "B20 Bronze, Extra Dry",
-          description: `Matt Halpern of Periphery rides a 22" Meinl Byzance Extra Dry Transition Ride as the anchor of a setup engineered for the polyrhythmic precision Periphery's djent-metalcore hybrid demands across "Periphery II," "Juggernaut," and "Hail Stan."
+          description: `Matt Halpern of Periphery rides a 22" Meinl Artist Concept Transition Ride as the anchor of a setup engineered for the polyrhythmic precision Periphery's djent-metalcore hybrid demands across "Periphery II," "Juggernaut," and "Hail Stan."
 
 Halpern relies on the Transition Ride's minimal-sustain voicing to stay articulate through breakdown-heavy, syncopated arrangements without ever washing into a blur.`,
           pros: [
@@ -40852,7 +40852,7 @@ Halpern relies on the Transition Ride's minimal-sustain voicing to stay articula
           ],
           cons: [
             "Dry voicing has less natural sustain than brighter alternatives",
-            "Premium Meinl Byzance pricing",
+            "Premium Meinl Artist Concept pricing",
             "Less explosive than brighter K Custom-style options for aggressive metalcore"
           ],
           specs: {
@@ -40863,11 +40863,11 @@ Halpern relies on the Transition Ride's minimal-sustain voicing to stay articula
             weight: "Medium"
           },
           usedBy: [
-            { name: "Matt Halpern", band: "Periphery", note: "22\" Extra Dry Transition Ride for polyrhythmic djent-metalcore precision" }
+            { name: "Matt Halpern", band: "Periphery", note: "22\" Artist Concept Transition Ride for polyrhythmic djent-metalcore precision" }
           ],
           verdict: "The metalcore ride standard. If you want the dry, controlled voice that defines the genre's technical wing, this is it.",
           rating: 4.8,
-          affiliateLink: "https://www.thomann.de/intl/meinl_byzance_extra_dry_transition_ride_22_halpern.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/meinl_artist_concept_transition_ride_22_halpern.htm?partner_id=metalforge"
         },
         {
           rank: 2,
@@ -41002,7 +41002,7 @@ While not tied to one of metalcore's specific signature setups, the AAX Ride app
             "Great entry point before stepping up to a dry-control pro ride"
           ],
           cons: [
-            "B8 alloy lacks the dry control of Meinl Byzance Extra Dry",
+            "B8 alloy lacks the dry control of Meinl Artist Concept",
             "Less durable under heavy daily gigging"
           ],
           verdict: "Best true-budget ride for a first real cymbal upgrade.",
@@ -41023,7 +41023,7 @@ While not tied to one of metalcore's specific signature setups, the AAX Ride app
             "Excellent value-to-quality ratio"
           ],
           cons: [
-            "Not as dry/controlled as the genre's Meinl Byzance Extra Dry standard",
+            "Not as dry/controlled as the genre's Meinl Artist Concept standard",
             "Fewer size options than flagship lines"
           ],
           verdict: "Best value pick — real B20 bronze tone without the pro-tier price.",
@@ -41037,7 +41037,7 @@ While not tied to one of metalcore's specific signature setups, the AAX Ride app
           priceRange: "€60-80",
           tier: "budget",
           driveType: "Brass",
-          description: "Meinl's entry-level HCS line brings the brand's basic character to a genuine beginner price — a reasonable first step toward the dry, controlled Meinl Byzance sound that defines metalcore's technical wing.",
+          description: "Meinl's entry-level HCS line brings the brand's basic character to a genuine beginner price — a reasonable first step toward the dry, controlled Meinl Artist Concept sound that defines metalcore's technical wing.",
           pros: [
             "True beginner pricing from the same brand as the genre's Extra Dry standard",
             "Usable stick definition for developing players",
@@ -41047,7 +41047,7 @@ While not tied to one of metalcore's specific signature setups, the AAX Ride app
             "Brass alloy lacks B20's complexity and dry control",
             "Less durable under heavy daily gigging"
           ],
-          verdict: "Best true-budget entry into the Meinl brand family before stepping up to Byzance.",
+          verdict: "Best true-budget entry into the Meinl brand family before stepping up to Artist Concept.",
           rating: 3.9,
           affiliateLink: "https://www.thomann.de/intl/meinl_hcs_ride_20_metalcore.htm?partner_id=metalforge"
         }
@@ -41059,7 +41059,7 @@ While not tied to one of metalcore's specific signature setups, the AAX Ride app
       title: "Meinl Extra Dry vs Zildjian K Custom Hybrid vs Zildjian K Custom for Metalcore",
       content: `Metalcore's ride choices split along a clear line: dry control versus brighter, more explosive voicing.
 
-**Meinl Byzance Extra Dry Transition Ride (Matt Halpern):**
+**Meinl Artist Concept Transition Ride (Matt Halpern):**
 - Minimal-sustain, dry voicing that stays controlled through breakdown-heavy riffing
 - The metalcore ride standard for technical, djent-influenced setups
 - Best for breakdown-driven, syncopated arrangements where wash would create mud
@@ -41072,7 +41072,7 @@ While not tied to one of metalcore's specific signature setups, the AAX Ride app
 - Darker, more controlled definition with a brighter overall kit voice
 - Best for aggressive, nu-metal-influenced metalcore
 
-**Our Recommendation:** Start with a Zildjian ZBT or Sabian XSR Monarch ride if you're building metalcore technique on a budget. Choose Matt Halpern's Extra Dry Transition Ride if breakdown-heavy technical precision is your priority. Go with Alex Bent's K Custom Hybrid Ride if you want a brighter, more melodic voice.`,
+**Our Recommendation:** Start with a Zildjian ZBT or Sabian XSR Monarch ride if you're building metalcore technique on a budget. Choose Matt Halpern's Artist Concept Transition Ride if breakdown-heavy technical precision is your priority. Go with Alex Bent's K Custom Hybrid Ride if you want a brighter, more melodic voice.`,
       comparisonTable: [
         { feature: "Dry Control", directDrive: "⭐⭐⭐⭐⭐", chainDrive: "⭐⭐⭐" },
         { feature: "Brightness/Cut", directDrive: "⭐⭐⭐", chainDrive: "⭐⭐⭐⭐⭐" },
@@ -41087,7 +41087,7 @@ While not tied to one of metalcore's specific signature setups, the AAX Ride app
       picks: [
         {
           category: "Best Overall",
-          pedal: "Meinl Byzance Extra Dry Transition Ride",
+          pedal: "Meinl Artist Concept Transition Ride",
           reason: "Matt Halpern's dry, controlled standard for breakdown-heavy technical metalcore."
         },
         {
@@ -41115,14 +41115,14 @@ While not tied to one of metalcore's specific signature setups, the AAX Ride app
       'best-drum-kits-for-metalcore'
     ],
     relatedDrummers: [
-      { slug: 'matt-halpern', name: 'Matt Halpern', reason: '22" Meinl Byzance Extra Dry Transition Ride — Periphery djent-metalcore precision' },
+      { slug: 'matt-halpern', name: 'Matt Halpern', reason: '22" Meinl Artist Concept Transition Ride — Periphery djent-metalcore precision' },
       { slug: 'alex-bent', name: 'Alex Bent', reason: 'Zildjian K Custom Hybrid Ride — Trivium melodic modern metal' },
       { slug: 'jay-weinberg', name: 'Jay Weinberg', reason: '21" Zildjian K Custom Ride — Slipknot aggressive metalcore' }
     ],
 
     // Featured drummers (issue template)
     featuredDrummers: [
-      { slug: 'matt-halpern', name: 'Matt Halpern', reason: 'Meinl Byzance Extra Dry Transition Ride for Periphery' },
+      { slug: 'matt-halpern', name: 'Matt Halpern', reason: 'Meinl Artist Concept Transition Ride for Periphery' },
       { slug: 'jay-weinberg', name: 'Jay Weinberg', reason: 'Zildjian K Custom Ride for Slipknot' }
     ],
     relatedComparisons: [],
@@ -41131,7 +41131,7 @@ While not tied to one of metalcore's specific signature setups, the AAX Ride app
     faq: [
       {
         question: "What ride cymbal does Matt Halpern use?",
-        answer: "Matt Halpern of Periphery rides a 22\" Meinl Byzance Extra Dry Transition Ride, prioritizing a controlled, low-sustain voice that stays articulate through breakdown-heavy arrangements and complex time signature changes."
+        answer: "Matt Halpern of Periphery rides a 22\" Meinl Artist Concept Transition Ride, prioritizing a controlled, low-sustain voice that stays articulate through breakdown-heavy arrangements and complex time signature changes."
       },
       {
         question: "What ride cymbal does Jay Weinberg use?",
@@ -41143,7 +41143,7 @@ While not tied to one of metalcore's specific signature setups, the AAX Ride app
       },
       {
         question: "Dry or bright ride — which is better for metalcore?",
-        answer: "Both work at the highest level. Matt Halpern's Meinl Byzance Extra Dry Transition Ride suits breakdown-heavy, technical metalcore where wash would create mud. Alex Bent's K Custom Hybrid Ride and Jay Weinberg's Zildjian K Custom Ride suit more melodic or aggressive metalcore that wants a brighter attack."
+        answer: "Both work at the highest level. Matt Halpern's Meinl Artist Concept Transition Ride suits breakdown-heavy, technical metalcore where wash would create mud. Alex Bent's K Custom Hybrid Ride and Jay Weinberg's Zildjian K Custom Ride suit more melodic or aggressive metalcore that wants a brighter attack."
       },
       {
         question: "What's the best budget ride cymbal for metalcore?",
@@ -41154,7 +41154,7 @@ While not tied to one of metalcore's specific signature setups, the AAX Ride app
     // Conclusion
     conclusion: {
       title: "Find the Ride That Stays Legible Through the Breakdown",
-      content: `Metalcore ride choice comes down to one core question: dry control or brighter attack? Whether you build around Matt Halpern's dry, controlled Meinl Byzance Extra Dry Transition Ride, Alex Bent's brighter K Custom Hybrid Ride, or Jay Weinberg's darker Zildjian K Custom Ride, the right metalcore ride has to stay legible through breakdowns, tempo shifts, and everything in between.
+      content: `Metalcore ride choice comes down to one core question: dry control or brighter attack? Whether you build around Matt Halpern's dry, controlled Meinl Artist Concept Transition Ride, Alex Bent's brighter K Custom Hybrid Ride, or Jay Weinberg's darker Zildjian K Custom Ride, the right metalcore ride has to stay legible through breakdowns, tempo shifts, and everything in between.
 
 Start with a 21"-22" pro ride built for control, and choose your voicing based on whether your metalcore leans technical and breakdown-heavy or melodic and aggressive.
 
@@ -42611,7 +42611,7 @@ Mario Duplantier (Gojira) layers an 18" K Custom Hybrid Crash alongside a 19" A 
           driveType: "B20 Bronze, Dark/Dry",
           description: `The Byzance Extra Dry Medium Crash trades brightness for a dark, dry tone with a controlled, fast decay — a favorite for progressive and djent-adjacent metal drummers who need accents that cut cleanly without lingering.
 
-Matt Halpern (Periphery) runs 18" and 20" Extra Dry Medium Crashes, and Chris Adler (Lamb of God) plays 18" and 19" Byzance Dark Crashes from the same family for groove metal's tightly arranged breakdowns.`,
+Matt Halpern (Periphery) runs 18" and 20" Meinl Artist Concept Crashes, and Chris Adler (Lamb of God) plays 18" and 19" Byzance Dark Crashes from the same family for groove metal's tightly arranged breakdowns.`,
           pros: [
             "Dark, dry tone with controlled, fast decay",
             "Matt Halpern and Chris Adler's proven progressive/groove metal choice",
@@ -42631,7 +42631,7 @@ Matt Halpern (Periphery) runs 18" and 20" Extra Dry Medium Crashes, and Chris Ad
             decay: "Fast, dry"
           },
           usedBy: [
-            { name: "Matt Halpern", band: "Periphery", note: "18\" & 20\" Extra Dry Medium Crashes for djent-era progressive metal" },
+            { name: "Matt Halpern", band: "Periphery", note: "18\" & 20\" Artist Concept Crashes for djent-era progressive metal" },
             { name: "Chris Adler", band: "Lamb of God", note: "18\" & 19\" Byzance Dark Crashes for groove metal" }
           ],
           verdict: "Best choice for progressive and groove metal drummers who need controlled, fast-decaying accents.",
@@ -42967,7 +42967,7 @@ This is the clearest example in progressive metal of building a crash setup arou
           driveType: "B20 Bronze, Dark Hand-Hammered",
           description: `The Byzance Dark Crash is Blake Richardson's primary crash voice in Between the Buried and Me — a dark, hand-hammered B20 cymbal with complex, layered overtones that carry BTBAM's dramatic swings between acoustic-adjacent passages and brutal technical density.
 
-Matt Halpern of Periphery also draws from the Byzance Dark family for his crash voice, valuing the same controlled, complex decay for djent-influenced prog's dense, palm-muted arrangements.`,
+Matt Halpern of Periphery also draws from the Artist Concept family for his crash voice, valuing the same controlled, complex decay for djent-influenced prog's dense, palm-muted arrangements.`,
           pros: [
             "Blake Richardson's primary crash — proven across BTBAM's most extreme dynamic range",
             "Dark, hand-hammered B20 for genuine tonal complexity",
@@ -42988,7 +42988,7 @@ Matt Halpern of Periphery also draws from the Byzance Dark family for his crash 
           },
           usedBy: [
             { name: "Blake Richardson", band: "Between the Buried and Me", note: "Primary crash voice for BTBAM's dynamic extremity" },
-            { name: "Matt Halpern", band: "Periphery", note: "Byzance Dark family for djent-influenced prog" }
+            { name: "Matt Halpern", band: "Periphery", note: "Artist Concept family for djent-influenced prog" }
           ],
           verdict: "The definitive dark, musical crash for technical progressive metal.",
           rating: 4.8,
@@ -43104,7 +43104,7 @@ Where a death metal crash needs to explode and disappear, Carey's Paiste Signatu
           priceRange: "€110-150",
           tier: "mid",
           driveType: "B8/B20 Bronze",
-          description: "Delivers the Byzance Dark character and aesthetic at a significantly lower price — a genuine entry point toward Blake Richardson and Matt Halpern's dark, complex crash voice.",
+          description: "Delivers the Byzance Dark character and aesthetic at a significantly lower price — a genuine entry point toward Blake Richardson's dark, complex crash voice and Matt Halpern's Artist Concept crash voice.",
           pros: [
             "Meinl dark character at a fraction of Byzance pricing",
             "Good starting point toward a Byzance upgrade path",
@@ -43297,12 +43297,12 @@ Start with one excellent dark, medium-weight crash in the 18" range, master its 
       title: "Why Djent Crashes Need to Stay Dry and Out of the Guitar's Way",
       content: `Djent's signature palm-muted, chugging guitar tone occupies a dense mid-range pocket that a washy, ringing crash directly competes with. Combined with the genre's love of odd-time polyrhythms and precisely placed accents, that means a djent crash has one job above all others: land the accent cleanly and get out of the way before the next syncopated riff hits.
 
-Tomas Haake of Meshuggah, the founding drummer of djent's polyrhythmic template, has run Sabian AAX crashes for years as part of his broader HHX/AAX setup, choosing their controlled, tight decay to stay out of Meshuggah's mathematically complex riffing. Matt Halpern of Periphery builds his crash voice around 16" and 18" Meinl Byzance Dark crashes, valued for the same controlled decay that keeps Periphery's dense, palm-muted arrangements from turning to mush. Travis Orbin, who helped define djent's genre-shaping template on Periphery's self-titled 2010 debut, plays 16" and 18" Meinl Byzance Extra Dry crashes — the driest, most controlled option of the three — specifically to minimize bleed into the acoustic trigger mics used throughout that record.
+Tomas Haake of Meshuggah, the founding drummer of djent's polyrhythmic template, has run Sabian AAX crashes for years as part of his broader HHX/AAX setup, choosing their controlled, tight decay to stay out of Meshuggah's mathematically complex riffing. Matt Halpern of Periphery builds his crash voice around 16" and 18" Meinl Artist Concept crashes, valued for the same controlled decay that keeps Periphery's dense, palm-muted arrangements from turning to mush. Travis Orbin, who helped define djent's genre-shaping template on Periphery's self-titled 2010 debut, plays 16" and 18" Meinl Byzance Extra Dry crashes — the driest, most controlled option of the three — specifically to minimize bleed into the acoustic trigger mics used throughout that record.
 
 This guide breaks down what actually makes a crash work for djent — dryness, control, and consistency across odd-time patterns — and recommends specific models across every budget, from a first tight-decay crash to the exact cymbals djent's founding and modern drummers play.`,
       keyPoints: [
         "Djent crashes must decay quickly and stay controlled — washy sustain competes directly with palm-muted guitar tone",
-        "Tomas Haake's Sabian AAX, Matt Halpern's Byzance Dark, and Travis Orbin's Byzance Extra Dry span the genre's dry-crash spectrum",
+        "Tomas Haake's Sabian AAX, Matt Halpern's Artist Concept, and Travis Orbin's Byzance Extra Dry span the genre's dry-crash spectrum",
         "16\"-18\" is the djent crash sweet spot, prioritizing quick response over maximum projection",
         "Extra Dry or Dark-voiced crashes minimize bleed into trigger mics for drummers recording with electronics"
       ]
@@ -43315,7 +43315,7 @@ This guide breaks down what actually makes a crash work for djent — dryness, c
         {
           name: "Dry, Controlled Decay",
           icon: "🌫️",
-          description: "Djent's palm-muted riffing needs a crash that decays quickly rather than washing into sustain. Travis Orbin's Byzance Extra Dry and Matt Halpern's Byzance Dark crashes are both voiced with minimal ring for exactly this reason.",
+          description: "Djent's palm-muted riffing needs a crash that decays quickly rather than washing into sustain. Travis Orbin's Byzance Extra Dry and Matt Halpern's Artist Concept crashes are both voiced with minimal ring for exactly this reason.",
           recommendation: "Extra Dry or Dark-voiced crashes for the fastest, most controlled decay"
         },
         {
@@ -43394,16 +43394,16 @@ As djent's founding drummer, Haake's crash choice set the template the rest of t
         },
         {
           rank: 2,
-          name: "Meinl Byzance Dark Crash",
+          name: "Meinl Artist Concept Crash",
           brand: "Meinl",
-          model: "18\" Byzance Dark Crash",
+          model: "18\" Artist Concept Crash",
           image: "https://upload.wikimedia.org/wikipedia/commons/4/43/Zildjian_Quick_Beat_Hi_Hat_15.jpg",
           priceRange: "€210-260",
           tier: "pro",
           driveType: "B20 Bronze, Dark",
-          description: `Matt Halpern of Periphery builds his crash voice around 16" and 18" Meinl Byzance Dark crashes, part of a broader Pure Alloy and Byzance Dark setup engineered for the precise, controlled response Periphery's dense, palm-muted prog-djent arrangements demand.
+          description: `Matt Halpern of Periphery builds his crash voice around 16" and 18" Meinl Artist Concept crashes, part of his broader signature Artist Concept setup engineered for the precise, controlled response Periphery's dense, palm-muted prog-djent arrangements demand.
 
-The Byzance Dark's controlled wash stays out of the way of Periphery's syncopated, palm-muted riffing without sacrificing the tonal complexity a purely dry crash can lack.`,
+The Artist Concept's controlled wash stays out of the way of Periphery's syncopated, palm-muted riffing without sacrificing the tonal complexity a purely dry crash can lack.`,
           pros: [
             "Matt Halpern's proven Periphery setup — precise, controlled response",
             "Dark, complex B20 tone with genuinely controlled decay",
@@ -43411,7 +43411,7 @@ The Byzance Dark's controlled wash stays out of the way of Periphery's syncopate
             "Part of a proven, matched Meinl setup across Halpern's full kit"
           ],
           cons: [
-            "Premium Byzance pricing",
+            "Premium Artist Concept pricing",
             "Dark voicing requires adjustment if coming from brighter cymbals",
             "Less explosive than brighter Sabian AAX alternatives"
           ],
@@ -43423,11 +43423,11 @@ The Byzance Dark's controlled wash stays out of the way of Periphery's syncopate
             decay: "Controlled, dark"
           },
           usedBy: [
-            { name: "Matt Halpern", band: "Periphery", note: "16\" & 18\" Byzance Dark Crashes for prog-djent precision" }
+            { name: "Matt Halpern", band: "Periphery", note: "16\" & 18\" Artist Concept Crashes for prog-djent precision" }
           ],
           verdict: "Best for dense, palm-muted prog-djent arrangements that need controlled, complex crash accents.",
           rating: 4.7,
-          affiliateLink: "https://www.thomann.de/intl/meinl_byzance_dark_crash_18_halpern.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/meinl_artist_concept_crash_18_halpern.htm?partner_id=metalforge"
         },
         {
           rank: 3,
@@ -43539,17 +43539,17 @@ The K Custom Dry gives advanced djent drummers a genuine third option — proof 
           priceRange: "€50-70",
           tier: "budget",
           driveType: "Brass",
-          description: "A budget-friendly alternative that mirrors the same brand lineage as Matt Halpern's and Travis Orbin's professional Meinl setups, giving developing drummers a real path toward Byzance Dark and Extra Dry upgrades.",
+          description: "A budget-friendly alternative that mirrors the same brand lineage as Matt Halpern's and Travis Orbin's professional Meinl setups, giving developing drummers a real path toward Artist Concept and Byzance Extra Dry upgrades.",
           pros: [
             "Same Meinl brand lineage as pro djent crash setups",
             "Affordable, widely available entry point",
             "Dark aesthetic even at entry-level pricing"
           ],
           cons: [
-            "Less complex overtone character than Byzance",
+            "Less complex overtone character than Artist Concept",
             "Less dry and controlled than the pro-tier lines it's modeled after"
           ],
-          verdict: "Best budget Meinl option for building toward djent's Byzance standard.",
+          verdict: "Best budget Meinl option for building toward djent's Artist Concept standard.",
           rating: 4.0,
           affiliateLink: "https://www.thomann.de/intl/meinl_hcs_dark_crash_16_djent.htm?partner_id=metalforge"
         },
@@ -43579,7 +43579,7 @@ The K Custom Dry gives advanced djent drummers a genuine third option — proof 
 
     // Sabian vs Meinl comparison
     comparison: {
-      title: "Sabian AAX vs Meinl Byzance Dark vs Byzance Extra Dry for Djent",
+      title: "Sabian AAX vs Meinl Artist Concept vs Byzance Extra Dry for Djent",
       content: `Controlled, dry decay stays consistent across djent's founding and modern lineage, but brand and voicing split these drummers into distinct camps:
 
 **Sabian AAX (Tomas Haake):**
@@ -43587,7 +43587,7 @@ The K Custom Dry gives advanced djent drummers a genuine third option — proof 
 - Slightly more projection than the Meinl alternatives
 - Best for genre-defining, mathematically complex djent
 
-**Meinl Byzance Dark (Matt Halpern):**
+**Meinl Artist Concept (Matt Halpern):**
 - Dark, complex tone with controlled decay
 - Stays out of the way of dense, palm-muted riffing
 - Best for technical, densely arranged prog-djent
@@ -43597,7 +43597,7 @@ The K Custom Dry gives advanced djent drummers a genuine third option — proof 
 - Minimizes bleed into acoustic trigger microphones
 - Best for drummers integrating acoustic playing with electronic triggers and samples
 
-**Our Recommendation:** Start with a Sabian SBR or Meinl HCS crash if you're building djent technique on a budget. Choose Matt Halpern's Byzance Dark if your priority is dense, palm-muted prog-djent. Go with Travis Orbin's Byzance Extra Dry if you're recording with triggers and samples.`,
+**Our Recommendation:** Start with a Sabian SBR or Meinl HCS crash if you're building djent technique on a budget. Choose Matt Halpern's Artist Concept if your priority is dense, palm-muted prog-djent. Go with Travis Orbin's Byzance Extra Dry if you're recording with triggers and samples.`,
       comparisonTable: [
         { feature: "Attack Speed", directDrive: "⭐⭐⭐⭐⭐", chainDrive: "⭐⭐⭐⭐" },
         { feature: "Dryness/Control", directDrive: "⭐⭐⭐", chainDrive: "⭐⭐⭐⭐⭐" },
@@ -43617,7 +43617,7 @@ The K Custom Dry gives advanced djent drummers a genuine third option — proof 
         },
         {
           category: "Best for Dense Prog-Djent",
-          pedal: "Meinl Byzance Dark Crash",
+          pedal: "Meinl Artist Concept Crash",
           reason: "Matt Halpern's Periphery setup — controlled, complex response for palm-muted arrangements."
         },
         {
@@ -43641,14 +43641,14 @@ The K Custom Dry gives advanced djent drummers a genuine third option — proof 
     ],
     relatedDrummers: [
       { slug: 'tomas-haake', name: 'Tomas Haake', reason: 'Sabian AAX — djent\'s founding precision voice' },
-      { slug: 'matt-halpern', name: 'Matt Halpern', reason: 'Meinl Byzance Dark — Periphery prog-djent precision' },
+      { slug: 'matt-halpern', name: 'Matt Halpern', reason: 'Meinl Artist Concept — Periphery prog-djent precision' },
       { slug: 'travis-orbin', name: 'Travis Orbin', reason: 'Meinl Byzance Extra Dry — Periphery\'s genre-shaping debut setup' }
     ],
 
     // Featured drummers (issue template)
     featuredDrummers: [
       { slug: 'tomas-haake', name: 'Tomas Haake', reason: 'Sabian AAX — djent\'s founding precision voice' },
-      { slug: 'matt-halpern', name: 'Matt Halpern', reason: 'Meinl Byzance Dark — Periphery prog-djent precision' },
+      { slug: 'matt-halpern', name: 'Matt Halpern', reason: 'Meinl Artist Concept — Periphery prog-djent precision' },
       { slug: 'travis-orbin', name: 'Travis Orbin', reason: 'Meinl Byzance Extra Dry — Periphery\'s genre-shaping debut setup' }
     ],
     relatedComparisons: [],
@@ -43661,7 +43661,7 @@ The K Custom Dry gives advanced djent drummers a genuine third option — proof 
       },
       {
         question: "What crash cymbal does Matt Halpern use?",
-        answer: "Matt Halpern of Periphery plays 16\" and 18\" Meinl Byzance Dark crashes, chosen for the precise, controlled response Periphery's dense, palm-muted prog-djent arrangements demand."
+        answer: "Matt Halpern of Periphery plays 16\" and 18\" Meinl Artist Concept crashes, chosen for the precise, controlled response Periphery's dense, palm-muted prog-djent arrangements demand."
       },
       {
         question: "What crash cymbal did Travis Orbin use on Periphery's debut album?",
@@ -43669,7 +43669,7 @@ The K Custom Dry gives advanced djent drummers a genuine third option — proof 
       },
       {
         question: "Why do djent drummers favor dry, controlled crashes?",
-        answer: "Djent's palm-muted, chugging guitar tone creates a dense wall of sound in the low-mids that a washy, sustained crash competes with rather than cuts through. Dry, controlled voicing — like Matt Halpern's Byzance Dark or Travis Orbin's Byzance Extra Dry — decays quickly enough to stay out of the guitar's way while still landing accents with clarity."
+        answer: "Djent's palm-muted, chugging guitar tone creates a dense wall of sound in the low-mids that a washy, sustained crash competes with rather than cuts through. Dry, controlled voicing — like Matt Halpern's Artist Concept or Travis Orbin's Byzance Extra Dry — decays quickly enough to stay out of the guitar's way while still landing accents with clarity."
       },
       {
         question: "What size crash cymbal is best for djent?",
@@ -43680,7 +43680,7 @@ The K Custom Dry gives advanced djent drummers a genuine third option — proof 
     // Conclusion
     conclusion: {
       title: "Keep Your Crash Dry and Out of the Riff's Way",
-      content: `Djent's cymbal philosophy comes down to one core idea: control over wash. Whether you build around Tomas Haake's founding Sabian AAX voice, Matt Halpern's dark and controlled Byzance Dark, or Travis Orbin's ultra-dry Byzance Extra Dry, the right djent crash disappears the instant it's done its job so the next palm-muted riff can land clean.
+      content: `Djent's cymbal philosophy comes down to one core idea: control over wash. Whether you build around Tomas Haake's founding Sabian AAX voice, Matt Halpern's dark and controlled Artist Concept, or Travis Orbin's ultra-dry Byzance Extra Dry, the right djent crash disappears the instant it's done its job so the next palm-muted riff can land clean.
 
 Start with one dry, controlled crash in the 16"-18" range, and layer a second size once you know exactly how much accent weight your polyrhythmic patterns demand.
 
@@ -43734,12 +43734,12 @@ Start with one dry, controlled crash in the 16"-18" range, and layer a second si
       title: "Why Metalcore Crashes Need to Punctuate, Not Wash Out",
       content: `Metalcore drumming lives between two worlds — breakdown-driven heaviness and technical, syncopated precision — and the genre's crash choices reflect that split. A breakdown crash needs to land hard and decay fast so the next palm-muted chug isn't buried under ringing metal, while the genre's frequent tempo and dynamic shifts demand a crash that responds instantly to a wide range of accent styles.
 
-Matt Halpern of Periphery runs 18" and 19" Meinl Byzance Extra Dry Medium Crashes, prioritizing a controlled, low-sustain voice that stays articulate through breakdown-heavy arrangements and complex time signature changes. Alex Bent, who brought his technical death metal background into Trivium, uses 16", 18", and 19" Zildjian K Custom Hybrid Crashes for a faster, more cutting attack suited to Trivium's more melodic, riff-driven modern metal sound. Jay Weinberg of Slipknot takes a different path, running 18" and 19" Zildjian A Custom Crashes for a brighter, more explosive voice that matches Slipknot's aggressive nu-metal/metalcore hybrid sound, while Chris Adler of Lamb of God plays 18" and 19" Meinl Byzance Dark Crashes tuned for groove metal's tightly arranged breakdowns.
+Matt Halpern of Periphery runs 18" and 19" Meinl Artist Concept Medium Crashes, prioritizing a controlled, low-sustain voice that stays articulate through breakdown-heavy arrangements and complex time signature changes. Alex Bent, who brought his technical death metal background into Trivium, uses 16", 18", and 19" Zildjian K Custom Hybrid Crashes for a faster, more cutting attack suited to Trivium's more melodic, riff-driven modern metal sound. Jay Weinberg of Slipknot takes a different path, running 18" and 19" Zildjian A Custom Crashes for a brighter, more explosive voice that matches Slipknot's aggressive nu-metal/metalcore hybrid sound, while Chris Adler of Lamb of God plays 18" and 19" Meinl Byzance Dark Crashes tuned for groove metal's tightly arranged breakdowns.
 
 This guide breaks down what actually makes a crash work for metalcore — fast decay, breakdown punctuation, and brightness versus control — and recommends specific models across every budget, from a first breakdown-ready crash to the exact cymbals metalcore's most influential drummers play.`,
       keyPoints: [
         "Metalcore crashes need to decay fast enough that breakdown hits don't wash into the next palm-muted riff",
-        "Matt Halpern's Meinl Byzance and Alex Bent's Zildjian K Custom Hybrid setups show the dry-vs-bright split within the genre's technical wing",
+        "Matt Halpern's Meinl Artist Concept and Alex Bent's Zildjian K Custom Hybrid setups show the dry-vs-bright split within the genre's technical wing",
         "Jay Weinberg's brighter Zildjian A Custom and Chris Adler's darker Byzance Dark show metalcore's range from explosive to controlled",
         "16\"-19\" covers the metalcore crash range, with most pro drummers running at least two sizes"
       ]
@@ -43752,7 +43752,7 @@ This guide breaks down what actually makes a crash work for metalcore — fast d
         {
           name: "Fast, Controlled Decay",
           icon: "🌫️",
-          description: "Breakdown-driven riffing needs a crash that doesn't wash into a wall of sustain. Matt Halpern's Byzance Extra Dry Medium Crashes are specifically voiced with minimal ring to stay controlled through syncopated, palm-muted passages.",
+          description: "Breakdown-driven riffing needs a crash that doesn't wash into a wall of sustain. Matt Halpern's Artist Concept Medium Crashes are specifically voiced with minimal ring to stay controlled through syncopated, palm-muted passages.",
           recommendation: "Extra Dry or Dark-voiced crashes for controlled, low-sustain decay under breakdown hits"
         },
         {
@@ -43764,7 +43764,7 @@ This guide breaks down what actually makes a crash work for metalcore — fast d
         {
           name: "Brightness vs Control",
           icon: "⚖️",
-          description: "Meinl Byzance Extra Dry (Matt Halpern) prioritizes control; Zildjian K Custom Hybrid (Alex Bent) and Zildjian A Custom (Jay Weinberg) trade some of that dryness for a brighter, more explosive attack suited to melodic or aggressive metalcore.",
+          description: "Meinl Artist Concept (Matt Halpern) prioritizes control; Zildjian K Custom Hybrid (Alex Bent) and Zildjian A Custom (Jay Weinberg) trade some of that dryness for a brighter, more explosive attack suited to melodic or aggressive metalcore.",
           recommendation: "Extra Dry for breakdown-heavy technical metalcore; brighter voicing for melodic or aggressive metalcore"
         },
         {
@@ -43794,14 +43794,14 @@ This guide breaks down what actually makes a crash work for metalcore — fast d
       pedals: [
         {
           rank: 1,
-          name: "Meinl Byzance Extra Dry Medium Crash",
+          name: "Meinl Artist Concept Medium Crash",
           brand: "Meinl",
-          model: "18\" & 19\" Byzance Extra Dry Medium Crash",
+          model: "18\" & 19\" Artist Concept Medium Crash",
           image: "https://upload.wikimedia.org/wikipedia/commons/4/43/Zildjian_Quick_Beat_Hi_Hat_15.jpg",
           priceRange: "€210-260",
           tier: "pro",
           driveType: "B20 Bronze, Extra Dry",
-          description: `Matt Halpern of Periphery runs 18" and 19" Meinl Byzance Extra Dry Medium Crashes as part of a broader Byzance Extra Dry setup, driving Periphery's polyrhythmic djent-metalcore catalog with controlled, technical precision. The Extra Dry line's minimal-sustain voicing keeps Halpern's crashes controlled through breakdown-heavy, syncopated arrangements.`,
+          description: `Matt Halpern of Periphery runs 18" and 19" Meinl Artist Concept Medium Crashes as part of his broader signature Artist Concept setup, driving Periphery's polyrhythmic djent-metalcore catalog with controlled, technical precision. The Artist Concept line's minimal-sustain voicing keeps Halpern's crashes controlled through breakdown-heavy, syncopated arrangements.`,
           pros: [
             "Matt Halpern's proven Periphery setup — polyrhythmic djent-metalcore precision",
             "Extra Dry voicing stays controlled through breakdown-heavy, palm-muted riffing",
@@ -43809,7 +43809,7 @@ This guide breaks down what actually makes a crash work for metalcore — fast d
           ],
           cons: [
             "Dry voicing has less natural sustain than brighter alternatives",
-            "Premium Meinl Byzance pricing",
+            "Premium Meinl Artist Concept pricing",
             "Less explosive than brighter A Custom-style options for aggressive metalcore"
           ],
           specs: {
@@ -43820,11 +43820,11 @@ This guide breaks down what actually makes a crash work for metalcore — fast d
             decay: "Fast, controlled"
           },
           usedBy: [
-            { name: "Matt Halpern", band: "Periphery", note: "18\" & 19\" Extra Dry Medium Crashes for polyrhythmic, breakdown-heavy metalcore" }
+            { name: "Matt Halpern", band: "Periphery", note: "18\" & 19\" Artist Concept Medium Crashes for polyrhythmic, breakdown-heavy metalcore" }
           ],
           verdict: "The metalcore crash standard. If you want the dry, controlled voice that defines the genre's technical wing, this is it.",
           rating: 4.8,
-          affiliateLink: "https://www.thomann.de/intl/meinl_byzance_extra_dry_medium_crash_metalcore.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/meinl_artist_concept_medium_crash_metalcore.htm?partner_id=metalforge"
         },
         {
           rank: 2,
@@ -43973,17 +43973,17 @@ Adler's crash choice sits between Matt Greiner's ultra-dry technical voice and J
           priceRange: "€60-85",
           tier: "budget",
           driveType: "Brass",
-          description: "A budget-friendly alternative that mirrors the same brand lineage as Matt Halpern's and Chris Adler's professional Meinl setups, giving developing drummers a real path toward Byzance Extra Dry and Dark upgrades.",
+          description: "A budget-friendly alternative that mirrors the same brand lineage as Matt Halpern's and Chris Adler's professional Meinl setups, giving developing drummers a real path toward Artist Concept and Byzance Dark upgrades.",
           pros: [
             "Same Meinl brand lineage as pro metalcore crash setups",
             "Affordable, widely available entry point",
             "Dark aesthetic even at entry-level pricing"
           ],
           cons: [
-            "Less complex overtone character than Byzance",
+            "Less complex overtone character than Artist Concept",
             "Less controlled decay than the pro-tier lines it's modeled after"
           ],
-          verdict: "Best budget Meinl option for building toward metalcore's Byzance standard.",
+          verdict: "Best budget Meinl option for building toward metalcore's Artist Concept standard.",
           rating: 4.0,
           affiliateLink: "https://www.thomann.de/intl/meinl_hcs_dark_crash_18_metalcore.htm?partner_id=metalforge"
         },
@@ -44028,7 +44028,7 @@ Adler's crash choice sits between Matt Greiner's ultra-dry technical voice and J
 
 **The Truth:** Both approaches are proven at the highest level. Matt Halpern's polyrhythmic technical precision runs on dry control; Jay Weinberg's Slipknot intensity runs on bright explosiveness. Neither is objectively better — it depends entirely on whether your metalcore leans breakdown-technical or melodic-aggressive.
 
-**Our Recommendation:** If your band is breakdown-heavy and technical, start with Meinl Byzance Extra Dry. If your band leans melodic or aggressive/theatrical, start with Zildjian A Custom or Zildjian K Custom Hybrid.`,
+**Our Recommendation:** If your band is breakdown-heavy and technical, start with Meinl Artist Concept. If your band leans melodic or aggressive/theatrical, start with Zildjian A Custom or Zildjian K Custom Hybrid.`,
       comparisonTable: [
         { feature: "Breakdown Control", directDrive: "⭐⭐⭐⭐⭐", chainDrive: "⭐⭐⭐" },
         { feature: "Brightness/Cut", directDrive: "⭐⭐⭐", chainDrive: "⭐⭐⭐⭐⭐" },
@@ -44043,7 +44043,7 @@ Adler's crash choice sits between Matt Greiner's ultra-dry technical voice and J
       picks: [
         {
           category: "Best Overall",
-          pedal: "Meinl Byzance Extra Dry Medium Crash",
+          pedal: "Meinl Artist Concept Medium Crash",
           reason: "Matt Halpern's polyrhythmic technical standard — controlled, breakdown-ready decay."
         },
         {
@@ -44071,7 +44071,7 @@ Adler's crash choice sits between Matt Greiner's ultra-dry technical voice and J
       'best-snares-for-metalcore'
     ],
     relatedDrummers: [
-      { slug: 'matt-halpern', name: 'Matt Halpern', reason: 'Meinl Byzance Extra Dry Medium Crashes — Periphery\'s polyrhythmic technical precision' },
+      { slug: 'matt-halpern', name: 'Matt Halpern', reason: 'Meinl Artist Concept Medium Crashes — Periphery\'s polyrhythmic technical precision' },
       { slug: 'alex-bent', name: 'Alex Bent', reason: 'Zildjian K Custom Hybrid Medium Thin Crashes — Trivium\'s melodic modern metal' },
       { slug: 'jay-weinberg', name: 'Jay Weinberg', reason: 'Zildjian A Custom Crashes — Slipknot\'s explosive attack' },
       { slug: 'chris-adler', name: 'Chris Adler', reason: 'Meinl Byzance Dark Crashes — Lamb of God\'s breakdown precision' }
@@ -44079,7 +44079,7 @@ Adler's crash choice sits between Matt Greiner's ultra-dry technical voice and J
 
     // Featured drummers (issue template)
     featuredDrummers: [
-      { slug: 'matt-halpern', name: 'Matt Halpern', reason: 'Meinl Byzance Extra Dry Medium Crashes — Periphery\'s polyrhythmic technical precision' },
+      { slug: 'matt-halpern', name: 'Matt Halpern', reason: 'Meinl Artist Concept Medium Crashes — Periphery\'s polyrhythmic technical precision' },
       { slug: 'chris-adler', name: 'Chris Adler', reason: 'Meinl Byzance Dark Crashes — Lamb of God\'s breakdown precision' },
       { slug: 'jay-weinberg', name: 'Jay Weinberg', reason: 'Zildjian A Custom Crashes — Slipknot\'s explosive attack' }
     ],
@@ -44089,7 +44089,7 @@ Adler's crash choice sits between Matt Greiner's ultra-dry technical voice and J
     faq: [
       {
         question: "What crash cymbal does Matt Halpern use?",
-        answer: "Matt Halpern of Periphery runs 18\" and 19\" Meinl Byzance Extra Dry Medium Crashes, chosen for the controlled, low-sustain voice that stays articulate through breakdown-heavy arrangements and complex time signature changes."
+        answer: "Matt Halpern of Periphery runs 18\" and 19\" Meinl Artist Concept Medium Crashes, chosen for the controlled, low-sustain voice that stays articulate through breakdown-heavy arrangements and complex time signature changes."
       },
       {
         question: "What crash cymbal does Chris Adler use?",
@@ -44101,7 +44101,7 @@ Adler's crash choice sits between Matt Greiner's ultra-dry technical voice and J
       },
       {
         question: "Should I choose a dry or bright crash for metalcore?",
-        answer: "It depends on your style. Dry, controlled crashes like Matt Halpern's and Chris Adler's Meinl Byzance Extra Dry/Dark suit breakdown-heavy, technical metalcore. Brighter crashes like Alex Bent's Zildjian K Custom Hybrid and Jay Weinberg's Zildjian A Custom suit melodic or aggressive, theatrical metalcore."
+        answer: "It depends on your style. Dry, controlled crashes like Matt Halpern's Meinl Artist Concept and Chris Adler's Meinl Byzance Dark suit breakdown-heavy, technical metalcore. Brighter crashes like Alex Bent's Zildjian K Custom Hybrid and Jay Weinberg's Zildjian A Custom suit melodic or aggressive, theatrical metalcore."
       },
       {
         question: "What's the best budget crash cymbal for metalcore?",
@@ -44112,7 +44112,7 @@ Adler's crash choice sits between Matt Greiner's ultra-dry technical voice and J
     // Conclusion
     conclusion: {
       title: "Choose the Crash Voice That Matches Your Breakdown",
-      content: `Metalcore's crash choices span a genuinely wide range — from Matt Halpern's ultra-controlled Byzance Extra Dry to Jay Weinberg's bright, explosive Zildjian A Custom — because the genre itself spans technical breakdown precision and aggressive, theatrical energy. Whether you build around Matt Halpern's dry control, Alex Bent's melodic brightness, Jay Weinberg's explosive attack, or Chris Adler's dark middle ground, the right crash should match exactly how your band's breakdowns hit.
+      content: `Metalcore's crash choices span a genuinely wide range — from Matt Halpern's ultra-controlled Artist Concept to Jay Weinberg's bright, explosive Zildjian A Custom — because the genre itself spans technical breakdown precision and aggressive, theatrical energy. Whether you build around Matt Halpern's dry control, Alex Bent's melodic brightness, Jay Weinberg's explosive attack, or Chris Adler's dark middle ground, the right crash should match exactly how your band's breakdowns hit.
 
 Start with one medium-weight crash in the 18" range that matches your band's general voicing, and add a second size once you know exactly what your breakdowns and transitions are asking for.
 
@@ -60350,7 +60350,7 @@ Budget shouldn't stop you either. A Pearl Export or Mapex Storm Series snare wil
     // SEO metadata
     title: "Best Cymbals for Metalcore: 2026 Expert Guide",
     metaTitle: "Best Cymbals for Metalcore 2026 | MetalForge Expert Guide",
-    description: "Best cymbal picks for metalcore drumming: what Matt Halpern (Periphery), Alex Bent (Trivium), and Jay Weinberg (Slipknot) actually play. Meinl Byzance Extra Dry vs Zildjian A/K Custom — ranked budget to pro.",
+    description: "Best cymbal picks for metalcore drumming: what Matt Halpern (Periphery), Alex Bent (Trivium), and Jay Weinberg (Slipknot) actually play. Meinl Artist Concept vs Zildjian A/K Custom — ranked budget to pro.",
     seoKeywords: [
       'best cymbals for metalcore',
       'metalcore cymbals',
@@ -60386,11 +60386,11 @@ Budget shouldn't stop you either. A Pearl Export or Mapex Storm Series snare wil
       title: "Why Metalcore Cymbals Need to Stay Dry and Controlled",
       content: `Metalcore drumming lives between two worlds — breakdown-driven heaviness and technical, syncopated precision — and the genre's cymbal choices reflect that split. Palm-muted chugs and tightly syncopated riffing need cymbals that stay dry and controlled rather than washing out, while the genre's frequent tempo and dynamic shifts demand quick, articulate response.
 
-Matt Halpern of Periphery builds his setup around Meinl Byzance Extra Dry Series cymbals, prioritizing a controlled, low-sustain voice that stays articulate through breakdown-heavy arrangements and complex time signature changes. Alex Bent, who brought his technical death metal background to Trivium, uses the brighter Zildjian K Custom Hybrid Series for a faster, more cutting attack suited to Trivium's more melodic, riff-driven modern metal sound. Jay Weinberg of Slipknot takes a different path entirely, building his kit around Zildjian A Custom and K Custom cymbals for a brighter, more explosive voice that matches Slipknot's aggressive nu-metal/metalcore hybrid sound.
+Matt Halpern of Periphery builds his setup around Meinl Artist Concept Series cymbals, prioritizing a controlled, low-sustain voice that stays articulate through breakdown-heavy arrangements and complex time signature changes. Alex Bent, who brought his technical death metal background to Trivium, uses the brighter Zildjian K Custom Hybrid Series for a faster, more cutting attack suited to Trivium's more melodic, riff-driven modern metal sound. Jay Weinberg of Slipknot takes a different path entirely, building his kit around Zildjian A Custom and K Custom cymbals for a brighter, more explosive voice that matches Slipknot's aggressive nu-metal/metalcore hybrid sound.
 
-This guide compares Meinl Byzance Extra Dry, Zildjian K Custom Hybrid, and Zildjian A/K Custom cymbals for metalcore — breaking down what each of these three influential drummers plays and why, with recommendations across every budget.`,
+This guide compares Meinl Artist Concept, Zildjian K Custom Hybrid, and Zildjian A/K Custom cymbals for metalcore — breaking down what each of these three influential drummers plays and why, with recommendations across every budget.`,
       keyPoints: [
-        "Meinl Byzance Extra Dry defines the dry, controlled metalcore cymbal standard — Matt Halpern uses it",
+        "Meinl Artist Concept defines the dry, controlled metalcore cymbal standard — Matt Halpern uses it",
         "China cymbals are essential for punctuating breakdowns — all three featured drummers include an 18\"-19\" china",
         "Dry voicing dominates modern metalcore, but Jay Weinberg's brighter Zildjian setup shows the more explosive alternative",
         "15\" hi-hats (Halpern) are common in metalcore for extra control on tightly muted riff patterns"
@@ -60404,13 +60404,13 @@ This guide compares Meinl Byzance Extra Dry, Zildjian K Custom Hybrid, and Zildj
         {
           name: "Dry, Controlled Voicing",
           icon: "🌫️",
-          description: "Metalcore's breakdown-driven riffing needs cymbals that don't wash into a wall of sustain. Meinl Byzance Extra Dry cymbals — used by Matt Halpern — are specifically voiced with minimal ring, staying controlled and articulate through syncopated, palm-muted passages.",
+          description: "Metalcore's breakdown-driven riffing needs cymbals that don't wash into a wall of sustain. Meinl Artist Concept cymbals — used by Matt Halpern — are specifically voiced with minimal ring, staying controlled and articulate through syncopated, palm-muted passages.",
           recommendation: "Extra Dry or Dark-voiced crashes and rides for controlled, low-sustain response"
         },
         {
           name: "China Cymbal for Breakdown Punctuation",
           icon: "⛩️",
-          description: "China cymbals are nearly universal in metalcore setups: Halpern's 18\" Extra Dry China, Bent's 18\" China, and Weinberg's 19\" K China all supply the immediate, trashy accent that punctuates breakdown hits and riff transitions.",
+          description: "China cymbals are nearly universal in metalcore setups: Halpern's 18\" Artist Concept China, Bent's 18\" China, and Weinberg's 19\" K China all supply the immediate, trashy accent that punctuates breakdown hits and riff transitions.",
           recommendation: "18\"-19\" china for immediate, cutting breakdown punctuation"
         },
         {
@@ -60428,7 +60428,7 @@ This guide compares Meinl Byzance Extra Dry, Zildjian K Custom Hybrid, and Zildj
         {
           name: "Brightness vs. Dryness Tradeoff",
           icon: "⚖️",
-          description: "Meinl Byzance Extra Dry (Halpern) prioritizes control; Zildjian K Custom Hybrid (Bent) and Zildjian A/K Custom (Weinberg) trade some of that dryness for a brighter, more explosive attack that suits metalcore's more melodic or aggressive extremes.",
+          description: "Meinl Artist Concept (Halpern) prioritizes control; Zildjian K Custom Hybrid (Bent) and Zildjian A/K Custom (Weinberg) trade some of that dryness for a brighter, more explosive attack that suits metalcore's more melodic or aggressive extremes.",
           recommendation: "Extra Dry for breakdown-heavy technical metalcore; brighter K Custom Hybrid/A Custom voicing for melodic or aggressive metalcore"
         },
         {
@@ -60446,17 +60446,17 @@ This guide compares Meinl Byzance Extra Dry, Zildjian K Custom Hybrid, and Zildj
       pedals: [
         {
           rank: 1,
-          name: "Meinl Byzance Extra Dry Series",
+          name: "Meinl Artist Concept Series",
           brand: "Meinl",
-          model: "Byzance Extra Dry Series",
+          model: "Artist Concept Series",
           image: "https://upload.wikimedia.org/wikipedia/commons/4/43/Zildjian_Quick_Beat_Hi_Hat_15.jpg",
           priceRange: "€200-420 per cymbal",
           tier: "pro",
           material: "B20 Bronze",
 
-          description: `The Meinl Byzance Extra Dry Series is metalcore's defining cymbal sound, anchoring one of the genre's most technically respected setups. Matt Halpern of Periphery built his kit around 15" Dark Hi-Hats, 18" & 20" Extra Dry Medium Crashes, a 22" Transition Ride, and an 18" Extra Dry China — a setup engineered for the polyrhythmic precision Periphery's djent-metalcore hybrid demands across "Periphery II," "Juggernaut," and "Hail Stan."
+          description: `The Meinl Artist Concept Series is metalcore's defining cymbal sound, anchoring one of the genre's most technically respected setups. Matt Halpern of Periphery built his kit around 15" Dark Hi-Hats, 18" & 20" Artist Concept Medium Crashes, a 22" Transition Ride, and an 18" Artist Concept China — a setup engineered for the polyrhythmic precision Periphery's djent-metalcore hybrid demands across "Periphery II," "Juggernaut," and "Hail Stan."
 
-Halpern relies on the Extra Dry line's minimal-sustain voicing to stay controlled through breakdown-heavy, syncopated arrangements.`,
+Halpern relies on the Artist Concept line's minimal-sustain voicing to stay controlled through breakdown-heavy, syncopated arrangements.`,
 
           pros: [
             "Matt Halpern, one of metalcore's most technically respected drummers, built his sound around this line",
@@ -60467,7 +60467,7 @@ Halpern relies on the Extra Dry line's minimal-sustain voicing to stay controlle
           ],
           cons: [
             "Dry voicing has less natural sustain than brighter alternatives",
-            "Premium Meinl Byzance pricing",
+            "Premium Meinl Artist Concept pricing",
             "Less explosive than brighter A Custom-style options for aggressive metalcore"
           ],
           specs: {
@@ -60477,11 +60477,11 @@ Halpern relies on the Extra Dry line's minimal-sustain voicing to stay controlle
             bestFor: "Technical, breakdown-heavy, and djent-influenced metalcore"
           },
           usedBy: [
-            { name: "Matt Halpern", band: "Periphery", note: "15\" Dark Hi-Hats, 18\"&20\" Extra Dry Medium Crashes, 22\" Transition Ride, 18\" Extra Dry China" }
+            { name: "Matt Halpern", band: "Periphery", note: "15\" Dark Hi-Hats, 18\"&20\" Artist Concept Medium Crashes, 22\" Transition Ride, 18\" Artist Concept China" }
           ],
           verdict: "The metalcore cymbal standard. If you want the dry, controlled voice that defines the genre's technical wing, this is it.",
           rating: 4.8,
-          affiliateLink: "https://www.thomann.de/intl/meinl_byzance_extra_dry_series.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/meinl_artist_concept_series.htm?partner_id=metalforge"
         },
         {
           rank: 2,
@@ -60640,10 +60640,10 @@ While not tied to one of metalcore's specific signature setups, AAX cymbals appe
 
     // Meinl Byzance vs Zildjian comparison
     comparison: {
-      title: "Meinl Byzance Extra Dry vs Zildjian A/K Custom for Metalcore",
+      title: "Meinl Artist Concept vs Zildjian A/K Custom for Metalcore",
       content: `Cymbal choice splits metalcore drummers into two clear camps. Here's how each compares:
 
-**Meinl Byzance Extra Dry (Matt Halpern):**
+**Meinl Artist Concept (Matt Halpern):**
 - Dry, controlled, minimal-sustain character
 - The dominant modern metalcore cymbal choice
 - Prioritizes control over breakdown-heavy, syncopated riffing
@@ -60655,9 +60655,9 @@ While not tied to one of metalcore's specific signature setups, AAX cymbals appe
 - More versatile outside pure metalcore contexts
 - Best for: Theatrical, high-energy live performance
 
-**The Truth:** One of metalcore's most technically respected drummers — Matt Halpern — built his sound on Meinl Byzance Extra Dry's controlled dryness. Jay Weinberg proves the opposite approach also works at the highest level, trading dry control for explosive brightness. Neither is "more correct" — it depends on whether your metalcore leans technical/breakdown-driven or aggressive/theatrical.
+**The Truth:** One of metalcore's most technically respected drummers — Matt Halpern — built his sound on Meinl Artist Concept's controlled dryness. Jay Weinberg proves the opposite approach also works at the highest level, trading dry control for explosive brightness. Neither is "more correct" — it depends on whether your metalcore leans technical/breakdown-driven or aggressive/theatrical.
 
-**Our Recommendation:** Start with Meinl Byzance Extra Dry if you want the dry, controlled sound that dominates modern technical metalcore. Choose Zildjian A Custom & K Custom if your material is more aggressive and nu-metal-influenced.`,
+**Our Recommendation:** Start with Meinl Artist Concept if you want the dry, controlled sound that dominates modern technical metalcore. Choose Zildjian A Custom & K Custom if your material is more aggressive and nu-metal-influenced.`,
       comparisonTable: [
         { feature: "Dry/Controlled Character", meinl: "⭐⭐⭐⭐⭐", zildjian: "⭐⭐⭐" },
         { feature: "Brightness/Explosiveness", meinl: "⭐⭐⭐", zildjian: "⭐⭐⭐⭐⭐" },
@@ -60673,7 +60673,7 @@ While not tied to one of metalcore's specific signature setups, AAX cymbals appe
       picks: [
         {
           category: "Best Overall",
-          pedal: "Meinl Byzance Extra Dry Series",
+          pedal: "Meinl Artist Concept Series",
           reason: "Matt Halpern's setup — the dry, controlled tone that defines modern metalcore."
         },
         {
@@ -60689,7 +60689,7 @@ While not tied to one of metalcore's specific signature setups, AAX cymbals appe
         {
           category: "Best Budget",
           pedal: "Meinl HCS Series",
-          reason: "The Meinl dry-leaning DNA at accessible pricing. A real starting point before upgrading to Byzance."
+          reason: "The Meinl dry-leaning DNA at accessible pricing. A real starting point before upgrading to Artist Concept."
         }
       ]
     },
@@ -60702,14 +60702,14 @@ While not tied to one of metalcore's specific signature setups, AAX cymbals appe
       'best-crash-cymbals-for-metalcore'
     ],
     relatedDrummers: [
-      { slug: 'matt-halpern', name: 'Matt Halpern', reason: 'Meinl Byzance Extra Dry — Periphery djent-metalcore precision' },
+      { slug: 'matt-halpern', name: 'Matt Halpern', reason: 'Meinl Artist Concept — Periphery djent-metalcore precision' },
       { slug: 'alex-bent', name: 'Alex Bent', reason: 'Zildjian K Custom Hybrid — Trivium melodic modern metal' },
       { slug: 'jay-weinberg', name: 'Jay Weinberg', reason: 'Zildjian A Custom & K Custom — Slipknot aggressive metalcore' }
     ],
 
     // Featured drummers (issue template)
     featuredDrummers: [
-      { slug: 'matt-halpern', name: 'Matt Halpern', reason: 'Meinl Byzance Extra Dry — Periphery djent-metalcore precision' },
+      { slug: 'matt-halpern', name: 'Matt Halpern', reason: 'Meinl Artist Concept — Periphery djent-metalcore precision' },
       { slug: 'alex-bent', name: 'Alex Bent', reason: 'Zildjian K Custom Hybrid — Trivium melodic modern metal' },
       { slug: 'jay-weinberg', name: 'Jay Weinberg', reason: 'Zildjian A Custom & K Custom — Slipknot aggressive metalcore' }
     ],
@@ -60718,11 +60718,11 @@ While not tied to one of metalcore's specific signature setups, AAX cymbals appe
     faq: [
       {
         question: "What cymbals does Matt Halpern use?",
-        answer: "Matt Halpern of Periphery uses Meinl Byzance Extra Dry Series cymbals — 15\" Dark Hi-Hats, 18\" & 20\" Extra Dry Medium Crashes, a 22\" Transition Ride, and an 18\" Extra Dry China. This dry, controlled setup is engineered for Periphery's polyrhythmic djent-metalcore precision."
+        answer: "Matt Halpern of Periphery uses Meinl Artist Concept Series cymbals — 15\" Dark Hi-Hats, 18\" & 20\" Artist Concept Medium Crashes, a 22\" Transition Ride, and an 18\" Artist Concept China. This dry, controlled setup is engineered for Periphery's polyrhythmic djent-metalcore precision."
       },
       {
-        question: "Meinl Byzance vs Zildjian A Custom — which is better for metalcore?",
-        answer: "Both work at the highest level of metalcore — Matt Halpern uses Meinl Byzance Extra Dry for its controlled, minimal-sustain character, while Jay Weinberg uses Zildjian A Custom & K Custom for a brighter, more explosive attack. Byzance Extra Dry suits technical, breakdown-heavy metalcore; A Custom & K Custom suits aggressive, nu-metal-influenced metalcore."
+        question: "Meinl Artist Concept vs Zildjian A Custom — which is better for metalcore?",
+        answer: "Both work at the highest level of metalcore — Matt Halpern uses Meinl Artist Concept for its controlled, minimal-sustain character, while Jay Weinberg uses Zildjian A Custom & K Custom for a brighter, more explosive attack. Artist Concept suits technical, breakdown-heavy metalcore; A Custom & K Custom suits aggressive, nu-metal-influenced metalcore."
       },
       {
         question: "What china cymbal is best for metalcore?",
@@ -60730,14 +60730,14 @@ While not tied to one of metalcore's specific signature setups, AAX cymbals appe
       },
       {
         question: "Do I need expensive cymbals to play metalcore?",
-        answer: "No — start with a budget line from the same family as your target sound: Meinl HCS approximates the Byzance Extra Dry Series' controlled character, while Zildjian ZBT approximates the A Custom family's brightness, both at a fraction of the professional price. Upgrade once your technique and budget catch up."
+        answer: "No — start with a budget line from the same family as your target sound: Meinl HCS approximates the Artist Concept Series' controlled character, while Zildjian ZBT approximates the A Custom family's brightness, both at a fraction of the professional price. Upgrade once your technique and budget catch up."
       }
     ],
 
     // Conclusion
     conclusion: {
       title: "Find Your Metalcore Cymbal Voice",
-      content: `Metalcore cymbal choice comes down to a fundamental question: do you want dry control or explosive brightness? Matt Halpern found his answer in Meinl Byzance Extra Dry's controlled voicing, ideal for breakdown-heavy technical metalcore. Alex Bent found a brighter middle ground in the Zildjian K Custom Hybrid Series for Trivium's more melodic modern metal sound, while Jay Weinberg found his in Zildjian's explosive A Custom & K Custom lines for Slipknot's aggressive, theatrical performances.
+      content: `Metalcore cymbal choice comes down to a fundamental question: do you want dry control or explosive brightness? Matt Halpern found his answer in Meinl Artist Concept's controlled voicing, ideal for breakdown-heavy technical metalcore. Alex Bent found a brighter middle ground in the Zildjian K Custom Hybrid Series for Trivium's more melodic modern metal sound, while Jay Weinberg found his in Zildjian's explosive A Custom & K Custom lines for Slipknot's aggressive, theatrical performances.
 
 Neither approach is more "authentic" to the genre — all three have driven some of metalcore's most influential recordings. Start with whichever family matches your band's balance of breakdown weight versus melody and aggression.
 
@@ -80012,7 +80012,7 @@ The extended footboard design is specifically engineered for fast, rolling patte
           tier: "pro",
           driveType: "Chain with Interchangeable Cams",
 
-          description: `Matt Halpern pairs a Pearl Eliminator Redline double pedal with his Pearl Reference snare and Meinl Byzance Extra Dry cymbals, giving Periphery's dense, palm-muted prog-metalcore arrangements crisp, controlled response. The interchangeable cam system lets him balance power for heavier breakdowns with speed for the band's technical, rapid-fire sections.
+          description: `Matt Halpern pairs a Pearl Eliminator Redline double pedal with his Pearl Reference snare and Meinl Artist Concept cymbals, giving Periphery's dense, palm-muted prog-metalcore arrangements crisp, controlled response. The interchangeable cam system lets him balance power for heavier breakdowns with speed for the band's technical, rapid-fire sections.
 
 Halpern's setup shows how the same reliable Eliminator platform that anchors extreme metal drumming translates directly into metalcore's mix of breakdown weight and technical precision.`,
 
@@ -82950,7 +82950,7 @@ Budget shouldn't stop you either. A Tama Imperialstar or Pearl Export steel snar
     // SEO metadata
     title: "Best Cymbals for Djent: 2026 Ultimate Guide",
     metaTitle: "Best Cymbals for Djent 2026 | MetalForge Expert Guide",
-    description: "Best cymbal picks for djent's palm-muted, polyrhythmic riffing: what Tomas Haake (Sabian HHX/AAX), Matt Halpern (Meinl Pure Alloy/Byzance Dark), and Travis Orbin (Meinl Byzance Extra Dry) actually play — ranked budget to pro.",
+    description: "Best cymbal picks for djent's palm-muted, polyrhythmic riffing: what Tomas Haake (Sabian HHX/AAX), Matt Halpern (Meinl Artist Concept), and Travis Orbin (Meinl Byzance Extra Dry) actually play — ranked budget to pro.",
     seoKeywords: [
       'best cymbals for djent',
       'djent cymbals',
@@ -82987,12 +82987,12 @@ Budget shouldn't stop you either. A Tama Imperialstar or Pearl Export steel snar
       title: "Why Djent Needs Dry, Controlled Cymbals — Not Wash",
       content: `Djent's signature palm-muted, chugging guitar tone creates a dense, mid-heavy wall of sound that has no room for washy, sustained cymbals. Combined with the genre's love of odd-time polyrhythms and precisely placed accents, that means djent drummers need hi-hats, crashes, and rides voiced for immediate, controlled decay rather than the long, complex wash other metal subgenres favor.
 
-Tomas Haake of Meshuggah, the founding drummer of djent's polyrhythmic template, has been a Sabian endorser for years, running HHX and AAX series cymbals including his own signature Compression Hi-Hats — voiced for the quick, tight response his mathematically complex riffing demands. Matt Halpern of Periphery relies on a Meinl setup built around 15" Pure Alloy Medium Hi-Hats, Byzance Dark crashes, and a Pure Alloy Custom Ride, giving him the precise, controlled response Periphery's dense, palm-muted arrangements require. Travis Orbin, who helped define djent's genre-shaping template on Periphery's self-titled 2010 debut, plays Meinl Byzance Extra Dry and Traditional series cymbals, favoring their minimal-wash voicing for technical, trigger-augmented progressive metal.
+Tomas Haake of Meshuggah, the founding drummer of djent's polyrhythmic template, has been a Sabian endorser for years, running HHX and AAX series cymbals including his own signature Compression Hi-Hats — voiced for the quick, tight response his mathematically complex riffing demands. Matt Halpern of Periphery relies on a Meinl setup built around 15" Artist Concept Hi-Hats, Artist Concept crashes, and an Artist Concept Ride, giving him the precise, controlled response Periphery's dense, palm-muted arrangements require. Travis Orbin, who helped define djent's genre-shaping template on Periphery's self-titled 2010 debut, plays Meinl Byzance Extra Dry and Traditional series cymbals, favoring their minimal-wash voicing for technical, trigger-augmented progressive metal.
 
 This guide breaks down hi-hat, crash, and ride choices for djent — comparing three drummers whose polyrhythmic, palm-muted lineages define the genre's cymbal demands, with recommendations from budget to professional touring rigs.`,
       keyPoints: [
         "Tomas Haake's Sabian HHX/AAX setup, including his own signature Compression Hi-Hats, defines djent's founding tight, controlled cymbal voice",
-        "Matt Halpern's Meinl Pure Alloy and Byzance Dark setup delivers the precise response Periphery's dense, palm-muted arrangements need",
+        "Matt Halpern's Meinl Artist Concept setup delivers the precise response Periphery's dense, palm-muted arrangements need",
         "Travis Orbin's Meinl Byzance Extra Dry cymbals helped define djent's genre-shaping minimal-wash template on Periphery's 2010 debut",
         "Dry, low-sustain voicing is essential across every featured setup — djent has no room for washy cymbals"
       ]
@@ -83005,7 +83005,7 @@ This guide breaks down hi-hat, crash, and ride choices for djent — comparing t
         {
           name: "Dry, Controlled Decay",
           icon: "🌫️",
-          description: "Djent's palm-muted riffing needs cymbals that decay quickly rather than washing into sustain. Travis Orbin's Meinl Byzance Extra Dry cymbals and Matt Halpern's Byzance Dark crashes are both voiced with minimal ring for exactly this reason.",
+          description: "Djent's palm-muted riffing needs cymbals that decay quickly rather than washing into sustain. Travis Orbin's Meinl Byzance Extra Dry cymbals and Matt Halpern's Artist Concept crashes are both voiced with minimal ring for exactly this reason.",
           recommendation: "Extra Dry or Dark-voiced crashes for controlled, low-sustain decay"
         },
         {
@@ -83017,7 +83017,7 @@ This guide breaks down hi-hat, crash, and ride choices for djent — comparing t
         {
           name: "Ride Clarity Under Dense Guitar Layers",
           icon: "🔔",
-          description: "A djent ride has to cut through palm-muted, low-mid-heavy guitar tone with a clearly defined bell and stick sound. Matt Halpern's Meinl Pure Alloy Custom Ride is voiced to project cleanly through exactly that kind of dense mix.",
+          description: "A djent ride has to cut through palm-muted, low-mid-heavy guitar tone with a clearly defined bell and stick sound. Matt Halpern's Meinl Artist Concept Ride is voiced to project cleanly through exactly that kind of dense mix.",
           recommendation: "A bright, well-defined ride bell for clarity under palm-muted guitar layers"
         },
         {
@@ -83086,42 +83086,42 @@ As djent's founding drummer, Haake's cymbal choices set the template the rest of
         },
         {
           rank: 2,
-          name: "Meinl Pure Alloy / Byzance Dark",
+          name: "Meinl Artist Concept",
           brand: "Meinl",
-          model: "Pure Alloy Medium Hi-Hats / Byzance Dark Crashes / Pure Alloy Custom Ride",
+          model: "Artist Concept Hi-Hats / Crashes / Ride",
           image: "https://upload.wikimedia.org/wikipedia/commons/3/31/Cymbal_Hammering.JPG",
           priceRange: "€200-400 per cymbal",
           tier: "pro",
-          material: "B20 Bronze (Pure Alloy / Byzance)",
+          material: "B20 Bronze (Artist Concept)",
 
-          description: `Matt Halpern of Periphery built his cymbal setup around Meinl's Pure Alloy and Byzance Dark lines — 15" Pure Alloy Medium Hi-Hats, Byzance Dark crashes, and a Pure Alloy Custom Ride. The combination gives Halpern the precise, controlled response needed to cut through Periphery's dense, palm-muted prog-djent arrangements without adding unwanted wash.
+          description: `Matt Halpern of Periphery built his cymbal setup around Meinl's Artist Concept signature line — 15" Artist Concept Hi-Hats, Artist Concept crashes, and an Artist Concept Ride. The combination gives Halpern the precise, controlled response needed to cut through Periphery's dense, palm-muted prog-djent arrangements without adding unwanted wash.
 
 Halpern's Berklee-trained musicality shows in how he uses this setup — dynamically sensitive enough for delicate passages, but tight and controlled enough to punctuate djent's heaviest palm-muted riffing with real clarity.`,
 
           pros: [
             "Matt Halpern's Periphery setup — precise, controlled response for dense prog-djent arrangements",
-            "Byzance Dark crashes stay controlled through syncopated, palm-muted accents",
-            "Pure Alloy Custom Ride cuts clearly through low-mid-heavy guitar layers",
+            "Artist Concept crashes stay controlled through syncopated, palm-muted accents",
+            "Artist Concept Ride cuts clearly through low-mid-heavy guitar layers",
             "Proven across Periphery's most acclaimed prog-djent recordings",
             "Meinl signature-series pedigree extends across Halpern's full setup"
           ],
           cons: [
             "Premium pricing across a multi-cymbal setup",
-            "Byzance Dark voicing requires adjustment if coming from brighter cymbals",
+            "Dark voicing requires adjustment if coming from brighter cymbals",
             "15\" hi-hats less common than standard 14\" sizing"
           ],
           specs: {
-            hiHats: "15\" Meinl Pure Alloy Medium",
-            crashes: "16\" & 18\" Meinl Byzance Dark",
-            ride: "20\" Meinl Pure Alloy Custom",
+            hiHats: "15\" Meinl Artist Concept",
+            crashes: "16\" & 18\" Meinl Artist Concept",
+            ride: "20\" Meinl Artist Concept",
             china: "N/A (not part of documented setup)"
           },
           usedBy: [
-            { name: "Matt Halpern", band: "Periphery", note: "Meinl Pure Alloy Medium Hi-Hats / Byzance Dark / Pure Alloy Custom Ride — prog-djent precision" }
+            { name: "Matt Halpern", band: "Periphery", note: "Meinl Artist Concept Hi-Hats / Crashes / Ride — prog-djent precision" }
           ],
           verdict: "Best for dense, palm-muted prog-djent arrangements. Halpern's precise, controlled Meinl setup cuts through anything.",
           rating: 4.7,
-          affiliateLink: "https://www.thomann.de/intl/meinl_pure_alloy_byzance_dark_halpern.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/meinl_artist_concept_halpern.htm?partner_id=metalforge"
         },
         {
           rank: 3,
@@ -83230,10 +83230,10 @@ The K Custom Dry line gives advanced djent drummers a genuine third option — p
           priceRange: "€120-180 (set)",
           tier: "budget",
           material: "Brass",
-          description: "A budget-friendly alternative that mirrors the same brand lineage as Matt Halpern's and Travis Orbin's professional Meinl setups, giving developing drummers a real path toward Byzance and Pure Alloy upgrades.",
+          description: "A budget-friendly alternative that mirrors the same brand lineage as Matt Halpern's and Travis Orbin's professional Meinl setups, giving developing drummers a real path toward Artist Concept and Byzance Extra Dry upgrades.",
           pros: ["Same Meinl brand lineage as pro djent setups", "Affordable, widely available entry point", "Durable enough for developing practice routines"],
-          cons: ["Less complex overtone character than Byzance or Pure Alloy", "Less dry and controlled than the pro-tier lines it's modeled after"],
-          verdict: "Best budget Meinl option for building toward djent's Byzance standard.",
+          cons: ["Less complex overtone character than Artist Concept or Byzance", "Less dry and controlled than the pro-tier lines it's modeled after"],
+          verdict: "Best budget Meinl option for building toward djent's Artist Concept standard.",
           rating: 4.0,
           affiliateLink: "https://www.thomann.de/intl/meinl_hcs_cymbal_set_djent.htm?partner_id=metalforge"
         }
@@ -83242,7 +83242,7 @@ The K Custom Dry line gives advanced djent drummers a genuine third option — p
 
     // Comparison
     comparison: {
-      title: "Sabian HHX/AAX vs Meinl Pure Alloy vs Meinl Byzance Extra Dry for Djent",
+      title: "Sabian HHX/AAX vs Meinl Artist Concept vs Meinl Byzance Extra Dry for Djent",
       content: `Dry, controlled decay stays consistent across djent's founding and modern lineage, but brand and voicing split these drummers into distinct camps. Here's how they compare:
 
 **Sabian HHX/AAX (Tomas Haake):**
@@ -83250,7 +83250,7 @@ The K Custom Dry line gives advanced djent drummers a genuine third option — p
 - Bright projection balanced with controlled decay
 - Best for genre-defining, mathematically complex djent
 
-**Meinl Pure Alloy / Byzance Dark (Matt Halpern):**
+**Meinl Artist Concept (Matt Halpern):**
 - Precise, controlled response for dense, palm-muted prog-djent
 - Dark-voiced crashes stay controlled through syncopated accents
 - Best for technical, densely arranged prog-djent
@@ -83260,7 +83260,7 @@ The K Custom Dry line gives advanced djent drummers a genuine third option — p
 - Proven on djent's genre-shaping, trigger-augmented debut recordings
 - Best for drummers integrating acoustic playing with electronic triggers and samples
 
-**Our Recommendation:** Start with a Sabian SBR or Meinl HCS set if you're building djent technique on a budget. Choose Matt Halpern's Meinl Pure Alloy/Byzance Dark setup if your priority is dense, palm-muted prog-djent. Go with Travis Orbin's Byzance Extra Dry setup if you're recording with triggers and samples.`,
+**Our Recommendation:** Start with a Sabian SBR or Meinl HCS set if you're building djent technique on a budget. Choose Matt Halpern's Meinl Artist Concept setup if your priority is dense, palm-muted prog-djent. Go with Travis Orbin's Byzance Extra Dry setup if you're recording with triggers and samples.`,
       comparisonTable: [
         { feature: "Polyrhythmic Precision", maple: "⭐⭐⭐⭐⭐", hybrid: "⭐⭐⭐⭐", dual: "⭐⭐⭐⭐" },
         { feature: "Trigger Compatibility", maple: "⭐⭐⭐", hybrid: "⭐⭐⭐⭐", dual: "⭐⭐⭐⭐⭐" },
@@ -83280,7 +83280,7 @@ The K Custom Dry line gives advanced djent drummers a genuine third option — p
         },
         {
           category: "Best for Dense Prog-Djent",
-          pedal: "Meinl Pure Alloy / Byzance Dark",
+          pedal: "Meinl Artist Concept",
           reason: "Matt Halpern's Periphery setup — precise, controlled response for palm-muted arrangements."
         },
         {
@@ -83306,14 +83306,14 @@ The K Custom Dry line gives advanced djent drummers a genuine third option — p
     ],
     relatedDrummers: [
       { slug: 'tomas-haake', name: 'Tomas Haake', reason: 'Sabian HHX/AAX with signature Compression Hi-Hats — djent\'s founding precision voice' },
-      { slug: 'matt-halpern', name: 'Matt Halpern', reason: 'Meinl Pure Alloy / Byzance Dark — Periphery prog-djent precision' },
+      { slug: 'matt-halpern', name: 'Matt Halpern', reason: 'Meinl Artist Concept — Periphery prog-djent precision' },
       { slug: 'travis-orbin', name: 'Travis Orbin', reason: 'Meinl Byzance Extra Dry — Periphery\'s genre-shaping debut setup' }
     ],
 
     // Featured drummers (issue template)
     featuredDrummers: [
       { slug: 'tomas-haake', name: 'Tomas Haake', reason: 'Sabian HHX/AAX with signature Compression Hi-Hats — djent\'s founding precision voice' },
-      { slug: 'matt-halpern', name: 'Matt Halpern', reason: 'Meinl Pure Alloy / Byzance Dark — Periphery prog-djent precision' },
+      { slug: 'matt-halpern', name: 'Matt Halpern', reason: 'Meinl Artist Concept — Periphery prog-djent precision' },
       { slug: 'travis-orbin', name: 'Travis Orbin', reason: 'Meinl Byzance Extra Dry — Periphery\'s genre-shaping debut setup' }
     ],
 
@@ -83325,7 +83325,7 @@ The K Custom Dry line gives advanced djent drummers a genuine third option — p
       },
       {
         question: "What cymbals does Matt Halpern use?",
-        answer: "Matt Halpern of Periphery plays a Meinl setup built around 15\" Pure Alloy Medium Hi-Hats, Byzance Dark crashes, and a Pure Alloy Custom Ride — a combination chosen for the precise, controlled response Periphery's dense, palm-muted prog-djent arrangements demand."
+        answer: "Matt Halpern of Periphery plays a Meinl setup built around 15\" Artist Concept Hi-Hats, Artist Concept crashes, and an Artist Concept Ride — a combination chosen for the precise, controlled response Periphery's dense, palm-muted prog-djent arrangements demand."
       },
       {
         question: "What cymbals did Travis Orbin use on Periphery's debut album?",
@@ -83333,7 +83333,7 @@ The K Custom Dry line gives advanced djent drummers a genuine third option — p
       },
       {
         question: "Why do djent drummers favor dry, dark cymbals?",
-        answer: "Djent's palm-muted, chugging guitar tone creates a dense wall of sound in the low-mids that washy, sustained cymbals compete with rather than cut through. Dry, controlled voicing — like Tomas Haake's Sabian Compression Hi-Hats or Matt Halpern's Byzance Dark crashes — decays quickly enough to stay out of the guitar's way while still landing accents with clarity."
+        answer: "Djent's palm-muted, chugging guitar tone creates a dense wall of sound in the low-mids that washy, sustained cymbals compete with rather than cut through. Dry, controlled voicing — like Tomas Haake's Sabian Compression Hi-Hats or Matt Halpern's Artist Concept crashes — decays quickly enough to stay out of the guitar's way while still landing accents with clarity."
       },
       {
         question: "Do I need a pro-level cymbal setup to play djent?",
@@ -83344,7 +83344,7 @@ The K Custom Dry line gives advanced djent drummers a genuine third option — p
     // Conclusion
     conclusion: {
       title: "Find Your Djent Cymbal Voice",
-      content: `Djent cymbal choice comes down to how dry and controlled you need your setup to stay under palm-muted, polyrhythmic riffing. Tomas Haake's longtime Sabian HHX/AAX setup, anchored by his own signature Compression Hi-Hats, defined the genre's founding precision-first template with Meshuggah. Matt Halpern's Meinl Pure Alloy and Byzance Dark setup proved that dense, palm-muted prog-djent needs precise, controlled response rather than raw power. Travis Orbin's Meinl Byzance Extra Dry cymbals show how a dry, low-bleed voicing became a practical studio requirement on djent's genre-shaping, trigger-augmented debut recordings.
+      content: `Djent cymbal choice comes down to how dry and controlled you need your setup to stay under palm-muted, polyrhythmic riffing. Tomas Haake's longtime Sabian HHX/AAX setup, anchored by his own signature Compression Hi-Hats, defined the genre's founding precision-first template with Meshuggah. Matt Halpern's Meinl Artist Concept setup proved that dense, palm-muted prog-djent needs precise, controlled response rather than raw power. Travis Orbin's Meinl Byzance Extra Dry cymbals show how a dry, low-bleed voicing became a practical studio requirement on djent's genre-shaping, trigger-augmented debut recordings.
 
 None of these approaches is more "correct" — all three represent djent's foundational commitment to dry, controlled response over washy sustain. Start with whichever brand and voicing matches your material's density, and don't be afraid to prioritize decay control over raw brightness.
 
@@ -84606,7 +84606,7 @@ Budget shouldn't stop you either. A Pearl Export bass drum with a Tama Iron Cobr
     // SEO metadata
     title: "Best Hi-Hats for Metalcore: 2026 Ultimate Guide",
     metaTitle: "Best Hi-Hats for Metalcore 2026 | MetalForge Expert Guide",
-    description: "What hi-hats are used in metalcore? Discover what Matt Halpern, Alex Bent, and Jay Weinberg actually play — Meinl Byzance Extra Dry, Zildjian K Custom Hybrid, and Zildjian A/K Custom — from budget to pro, built for breakdown control.",
+    description: "What hi-hats are used in metalcore? Discover what Matt Halpern, Alex Bent, and Jay Weinberg actually play — Meinl Artist Concept, Zildjian K Custom Hybrid, and Zildjian A/K Custom — from budget to pro, built for breakdown control.",
     seoKeywords: [
       'best hi-hats for metalcore',
       'metalcore hi-hats',
@@ -84642,11 +84642,11 @@ Budget shouldn't stop you either. A Pearl Export bass drum with a Tama Iron Cobr
       title: "What Hi-Hats Are Used in Metalcore?",
       content: `Hi-hats do more rhythmic work in metalcore than almost any other cymbal in the kit. Palm-muted breakdown riffing, tightly syncopated chugs, and constant tempo and dynamic shifts all live or die on whether the hi-hat stays controlled and articulate — a washy, uncontrolled hi-hat turns a precise breakdown into mud, while a dry, well-chosen pair locks the whole riff into place.
 
-Matt Halpern of Periphery builds his setup around 15" Dark Hi-Hats from the Meinl Byzance Extra Dry line, giving Periphery's polyrhythmic djent-metalcore hybrid a controlled, low-sustain foundation across "Periphery II," "Juggernaut," and "Hail Stan." Alex Bent, who carried his technical death metal background from Brain Drill and Arkaik into Trivium, plays 14" Medium Hi-Hats from the brighter Zildjian K Custom Hybrid Series, suited to Trivium's more melodic, riff-driven modern metal sound. Jay Weinberg of Slipknot takes yet another path, running 14" A New Beat Hi-Hats from Zildjian's A Custom line for a brighter, more explosive voice matched to Slipknot's aggressive nu-metal/metalcore hybrid.
+Matt Halpern of Periphery builds his setup around 15" Dark Hi-Hats from the Meinl Artist Concept line, giving Periphery's polyrhythmic djent-metalcore hybrid a controlled, low-sustain foundation across "Periphery II," "Juggernaut," and "Hail Stan." Alex Bent, who carried his technical death metal background from Brain Drill and Arkaik into Trivium, plays 14" Medium Hi-Hats from the brighter Zildjian K Custom Hybrid Series, suited to Trivium's more melodic, riff-driven modern metal sound. Jay Weinberg of Slipknot takes yet another path, running 14" A New Beat Hi-Hats from Zildjian's A Custom line for a brighter, more explosive voice matched to Slipknot's aggressive nu-metal/metalcore hybrid.
 
 This guide breaks down exactly what makes a great metalcore hi-hat — diameter, voicing, and control — and which specific models these three influential drummers play, from budget starter pairs to the professional setups heard on the genre's most technically respected records.`,
       keyPoints: [
-        "Meinl Byzance Extra Dry defines metalcore's dry, controlled hi-hat standard — Matt Halpern builds around it",
+        "Meinl Artist Concept defines metalcore's dry, controlled hi-hat standard — Matt Halpern builds around it",
         "15\" hi-hats (Halpern) give extra surface area and control for tightly muted, syncopated breakdown riffing",
         "Zildjian K Custom Hybrid gives Alex Bent a faster, brighter attack suited to Trivium's more melodic modern metal",
         "Zildjian A Custom & K Custom gives Jay Weinberg a brighter, more explosive voice for Slipknot's aggressive hybrid sound"
@@ -84660,7 +84660,7 @@ This guide breaks down exactly what makes a great metalcore hi-hat — diameter,
         {
           name: "Dry vs Bright Voicing",
           icon: "🌫️",
-          description: "Metalcore's breakdown-driven riffing needs hi-hats that don't wash into a wall of sustain. Matt Halpern's Meinl Byzance Extra Dry hi-hats are voiced with minimal ring, staying controlled through syncopated, palm-muted passages. Alex Bent and Jay Weinberg instead favor brighter voicing for a faster, more cutting attack on more melodic or aggressive material.",
+          description: "Metalcore's breakdown-driven riffing needs hi-hats that don't wash into a wall of sustain. Matt Halpern's Meinl Artist Concept hi-hats are voiced with minimal ring, staying controlled through syncopated, palm-muted passages. Alex Bent and Jay Weinberg instead favor brighter voicing for a faster, more cutting attack on more melodic or aggressive material.",
           recommendation: "Extra Dry or dark voicing for breakdown-heavy technical metalcore; brighter K Custom Hybrid or A Custom voicing for melodic or aggressive metalcore"
         },
         {
@@ -84696,17 +84696,17 @@ This guide breaks down exactly what makes a great metalcore hi-hat — diameter,
       pedals: [
         {
           rank: 1,
-          name: "Meinl Byzance Extra Dry Hi-Hats",
+          name: "Meinl Artist Concept Hi-Hats",
           brand: "Meinl",
-          model: "Byzance Extra Dry Hi-Hats 15\"",
+          model: "Artist Concept Hi-Hats 15\"",
           image: "https://upload.wikimedia.org/wikipedia/commons/a/a3/Toms%2C_hi-hat%2C_snare.jpg",
           priceRange: "€330-430 per pair",
           tier: "pro",
           material: "B20 Bronze, Extra Dry Finish",
 
-          description: `The Meinl Byzance Extra Dry Hi-Hats are metalcore's defining hi-hat sound, anchoring Matt Halpern's Periphery setup. Halpern runs 15" Dark Hi-Hats within his broader Extra Dry rig, engineered for the polyrhythmic precision Periphery's djent-metalcore hybrid demands across "Periphery II," "Juggernaut," and "Hail Stan."
+          description: `The Meinl Artist Concept Hi-Hats are metalcore's defining hi-hat sound, anchoring Matt Halpern's Periphery setup. Halpern runs 15" Dark Hi-Hats within his broader Artist Concept rig, engineered for the polyrhythmic precision Periphery's djent-metalcore hybrid demands across "Periphery II," "Juggernaut," and "Hail Stan."
 
-Halpern relies on the Extra Dry line's minimal-sustain voicing to stay controlled through breakdown-heavy, syncopated arrangements — exactly the kind of tightly muted riffing that defines metalcore's technical wing. The larger 15" diameter Halpern favors adds extra surface area and control versus the more common 14" pair.`,
+Halpern relies on the Artist Concept line's minimal-sustain voicing to stay controlled through breakdown-heavy, syncopated arrangements — exactly the kind of tightly muted riffing that defines metalcore's technical wing. The larger 15" diameter Halpern favors adds extra surface area and control versus the more common 14" pair.`,
 
           pros: [
             "Matt Halpern's setup — metalcore's most technically respected hi-hat sound",
@@ -84725,14 +84725,14 @@ Halpern relies on the Extra Dry line's minimal-sustain voicing to stay controlle
             finish: "Extra Dry",
             weight: "Medium-heavy",
             diameter: "15\"",
-            series: "Byzance Extra Dry"
+            series: "Artist Concept"
           },
           usedBy: [
             { name: "Matt Halpern", band: "Periphery", note: "15\" Dark Hi-Hats — polyrhythmic djent-metalcore precision" }
           ],
           verdict: "The metalcore hi-hat standard. If you want the dry, controlled voice that defines the genre's technical wing, this is it.",
           rating: 4.8,
-          affiliateLink: "https://www.thomann.de/intl/meinl_byzance_extra_dry_hi_hats.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/meinl_artist_concept_hi_hats.htm?partner_id=metalforge"
         },
         {
           rank: 2,
@@ -84879,8 +84879,8 @@ While not tied to one of metalcore's specific signature setups, AAX Stage hi-hat
           priceRange: "€150-220 per pair",
           tier: "budget",
           material: "B8/B20 Bronze",
-          description: "An affordable entry point for drummers chasing the dry, controlled character of Matt Halpern's Byzance Extra Dry setup, before upgrading to the full Byzance line.",
-          pros: ["Dark, controlled tone similar to Extra Dry character", "Accessible pricing", "Clear upgrade path to Byzance Extra Dry"],
+          description: "An affordable entry point for drummers chasing the dry, controlled character of Matt Halpern's Artist Concept setup, before upgrading to the full Artist Concept line.",
+          pros: ["Dark, controlled tone similar to Extra Dry character", "Accessible pricing", "Clear upgrade path to Artist Concept"],
           cons: ["B8 models lack B20 depth"],
           verdict: "Best entry point for dry, controlled metalcore hi-hats.",
           rating: 4.0,
@@ -84894,7 +84894,7 @@ While not tied to one of metalcore's specific signature setups, AAX Stage hi-hat
       title: "Dry vs Bright Hi-Hats for Metalcore",
       content: `Metalcore's hi-hat choices split into two clear camps, defined by the genre's most influential drummers:
 
-**Dry (Meinl Byzance Extra Dry — Matt Halpern's choice):**
+**Dry (Meinl Artist Concept — Matt Halpern's choice):**
 - Controlled, low-sustain voicing
 - Suits breakdown-heavy, palm-muted, syncopated arrangements
 - 15" diameter common for extra control
@@ -84906,7 +84906,7 @@ While not tied to one of metalcore's specific signature setups, AAX Stage hi-hat
 - Standard 14" diameter
 - The contemporary alternative for genre-crossing bands
 
-**Metalcore Verdict:** Choose dry (Meinl Byzance Extra Dry) if you play breakdown-heavy, technical metalcore in the Periphery tradition. Choose bright (Zildjian K Custom Hybrid or Zildjian A Custom) if you play melodic or aggressive metalcore in the Trivium or Slipknot tradition.`,
+**Metalcore Verdict:** Choose dry (Meinl Artist Concept) if you play breakdown-heavy, technical metalcore in the Periphery tradition. Choose bright (Zildjian K Custom Hybrid or Zildjian A Custom) if you play melodic or aggressive metalcore in the Trivium or Slipknot tradition.`,
       comparisonTable: [
         { feature: "Breakdown Control", birch: "⭐⭐⭐⭐⭐", maple: "⭐⭐⭐" },
         { feature: "Cutting Articulation", birch: "⭐⭐⭐", maple: "⭐⭐⭐⭐⭐" },
@@ -84922,7 +84922,7 @@ While not tied to one of metalcore's specific signature setups, AAX Stage hi-hat
       picks: [
         {
           category: "Best Overall",
-          pedal: "Meinl Byzance Extra Dry Hi-Hats",
+          pedal: "Meinl Artist Concept Hi-Hats",
           reason: "Matt Halpern's setup — the genre's most technically respected hi-hat sound."
         },
         {
@@ -84938,7 +84938,7 @@ While not tied to one of metalcore's specific signature setups, AAX Stage hi-hat
         {
           category: "Best Budget",
           pedal: "Meinl Classics Custom Dark Hi-Hats",
-          reason: "Real dry, controlled character without the flagship Byzance price."
+          reason: "Real dry, controlled character without the flagship Artist Concept price."
         }
       ]
     },
@@ -84950,14 +84950,14 @@ While not tied to one of metalcore's specific signature setups, AAX Stage hi-hat
       'best-snare-drums-for-metalcore'
     ],
     relatedDrummers: [
-      { slug: 'matt-halpern', name: 'Matt Halpern', reason: 'Meinl Byzance Extra Dry 15" Hi-Hats — Periphery djent-metalcore precision' },
+      { slug: 'matt-halpern', name: 'Matt Halpern', reason: 'Meinl Artist Concept 15" Hi-Hats — Periphery djent-metalcore precision' },
       { slug: 'alex-bent', name: 'Alex Bent', reason: 'Zildjian K Custom Hybrid 14" Hi-Hats — Trivium melodic modern metal' },
       { slug: 'jay-weinberg', name: 'Jay Weinberg', reason: 'Zildjian A Custom 14" Hi-Hats — Slipknot explosive hybrid sound' }
     ],
 
     // Featured drummers (issue template)
     featuredDrummers: [
-      { slug: 'matt-halpern', name: 'Matt Halpern', reason: 'Meinl Byzance Extra Dry Hi-Hats — Periphery djent-metalcore precision' },
+      { slug: 'matt-halpern', name: 'Matt Halpern', reason: 'Meinl Artist Concept Hi-Hats — Periphery djent-metalcore precision' },
       { slug: 'alex-bent', name: 'Alex Bent', reason: 'Zildjian K Custom Hybrid Hi-Hats — Trivium melodic modern metal' },
       { slug: 'jay-weinberg', name: 'Jay Weinberg', reason: 'Zildjian A Custom Hi-Hats — Slipknot\'s explosive hybrid attack' },
     ],
@@ -84966,11 +84966,11 @@ While not tied to one of metalcore's specific signature setups, AAX Stage hi-hat
     faq: [
       {
         question: "What hi-hats are used in metalcore?",
-        answer: "Matt Halpern of Periphery uses 15\" Meinl Byzance Extra Dry Hi-Hats for controlled, low-sustain response. Alex Bent of Trivium uses 14\" Zildjian K Custom Hybrid Hi-Hats for a brighter, faster attack. Jay Weinberg of Slipknot uses 14\" Zildjian A Custom Hi-Hats for explosive projection."
+        answer: "Matt Halpern of Periphery uses 15\" Meinl Artist Concept Hi-Hats for controlled, low-sustain response. Alex Bent of Trivium uses 14\" Zildjian K Custom Hybrid Hi-Hats for a brighter, faster attack. Jay Weinberg of Slipknot uses 14\" Zildjian A Custom Hi-Hats for explosive projection."
       },
       {
         question: "What hi-hats does Matt Halpern use?",
-        answer: "Matt Halpern of Periphery uses 15\" Dark Hi-Hats from the Meinl Byzance Extra Dry Series, part of his broader Extra Dry cymbal setup that also includes 18\" and 20\" crashes, a 22\" Transition Ride, and an 18\" China."
+        answer: "Matt Halpern of Periphery uses 15\" Dark Hi-Hats from the Meinl Artist Concept Series, part of his broader Artist Concept cymbal setup that also includes 18\" and 20\" crashes, a 22\" Transition Ride, and an 18\" China."
       },
       {
         question: "What size hi-hats for metalcore?",
@@ -84978,11 +84978,11 @@ While not tied to one of metalcore's specific signature setups, AAX Stage hi-hat
       },
       {
         question: "Best hi-hats for breakdowns?",
-        answer: "Dry, controlled hi-hats with a defined chick handle breakdown patterns best. Meinl Byzance Extra Dry (Matt Halpern) is the genre's technical benchmark. Zildjian K Custom Hybrid (Alex Bent) and Zildjian A Custom (Jay Weinberg) offer brighter alternatives for more melodic or aggressive breakdown-adjacent material."
+        answer: "Dry, controlled hi-hats with a defined chick handle breakdown patterns best. Meinl Artist Concept (Matt Halpern) is the genre's technical benchmark. Zildjian K Custom Hybrid (Alex Bent) and Zildjian A Custom (Jay Weinberg) offer brighter alternatives for more melodic or aggressive breakdown-adjacent material."
       },
       {
         question: "Dry or bright hi-hats for metalcore?",
-        answer: "Both work at the highest level. Dry hi-hats (Meinl Byzance Extra Dry, Halpern's choice) suit breakdown-heavy, technical metalcore. Bright hi-hats (Zildjian K Custom Hybrid, Bent's choice; Zildjian A Custom, Weinberg's choice) suit melodic or aggressive, nu-metal-influenced metalcore. Choose based on which subgenre and production style you're chasing."
+        answer: "Both work at the highest level. Dry hi-hats (Meinl Artist Concept, Halpern's choice) suit breakdown-heavy, technical metalcore. Bright hi-hats (Zildjian K Custom Hybrid, Bent's choice; Zildjian A Custom, Weinberg's choice) suit melodic or aggressive, nu-metal-influenced metalcore. Choose based on which subgenre and production style you're chasing."
       }
     ],
 
@@ -84991,7 +84991,7 @@ While not tied to one of metalcore's specific signature setups, AAX Stage hi-hat
       title: "Find Your Metalcore Hi-Hat Voice",
       content: `Metalcore hi-hats split into two proven traditions: the dry, controlled character that Matt Halpern builds his setup around, and the brighter, more articulate sound that Alex Bent and Jay Weinberg favor for melodic or aggressive, genre-crossing material.
 
-If you play breakdown-heavy, technical metalcore, start with a 15" Meinl Byzance Extra Dry pair or the budget Classics Custom Dark — both stay controlled through syncopated, palm-muted riffing. If you play melodic or aggressive metalcore, Zildjian K Custom Hybrid or Zildjian A Custom will give you the cutting articulation or explosive projection your playing demands.
+If you play breakdown-heavy, technical metalcore, start with a 15" Meinl Artist Concept pair or the budget Classics Custom Dark — both stay controlled through syncopated, palm-muted riffing. If you play melodic or aggressive metalcore, Zildjian K Custom Hybrid or Zildjian A Custom will give you the cutting articulation or explosive projection your playing demands.
 
 Whatever you choose, prioritize consistent chick response and dynamic range over flashy features — the hi-hat is the most-used cymbal in metalcore drumming, and it needs to lock in every breakdown and syncopated riff with total precision.
 
@@ -96381,7 +96381,7 @@ Whatever you choose, prioritize dark voicing and closed chick control over flash
     // SEO metadata
     title: "Best Hi-Hats for Djent: 2026 Ultimate Guide",
     metaTitle: "Best Hi-Hats for Djent 2026 | MetalForge Expert Guide",
-    description: "What hi-hats are used in djent? Discover what Tomas Haake (Sabian Signature Compression), Matt Halpern (Meinl Pure Alloy Medium), and Travis Orbin (Meinl Byzance Extra Dry) actually play — tight, choked hi-hats built for palm-muted polyrhythmic riffing, from budget to pro.",
+    description: "What hi-hats are used in djent? Discover what Tomas Haake (Sabian Signature Compression), Matt Halpern (Meinl Artist Concept), and Travis Orbin (Meinl Byzance Extra Dry) actually play — tight, choked hi-hats built for palm-muted polyrhythmic riffing, from budget to pro.",
     seoKeywords: [
       'best hi-hats for djent',
       'djent hi-hats',
@@ -96418,12 +96418,12 @@ Whatever you choose, prioritize dark voicing and closed chick control over flash
       title: "What Hi-Hats Are Used in Djent?",
       content: `Djent's signature palm-muted, chugging guitar tone creates a dense, mid-heavy wall of sound that leaves no room for a washy, sustained hi-hat. Combined with the genre's love of odd-time polyrhythms and precisely placed accents, that means djent drummers need a hi-hat voiced for immediate, choked decay rather than the long, complex wash other metal subgenres favor — a hi-hat that opens up even slightly can blur the tight, mathematically precise attack djent's riffing depends on.
 
-Tomas Haake of Meshuggah, the founding drummer of djent's polyrhythmic template, has been a Sabian endorser for years, running his own signature Compression Hi-Hats — voiced for the quick, tight response his mathematically complex riffing demands, with almost no bleed between the two cymbals even when played hard. Matt Halpern of Periphery relies on 15" Pure Alloy Medium Hi-Hats from Meinl, giving him the precise, controlled response Periphery's dense, palm-muted arrangements require across "Periphery II," "Juggernaut," and "Hail Stan." Travis Orbin, who helped define djent's genre-shaping template on Periphery's self-titled 2010 debut, plays Meinl Byzance Extra Dry hi-hats, favoring their minimal-wash voicing for technical, trigger-augmented progressive metal.
+Tomas Haake of Meshuggah, the founding drummer of djent's polyrhythmic template, has been a Sabian endorser for years, running his own signature Compression Hi-Hats — voiced for the quick, tight response his mathematically complex riffing demands, with almost no bleed between the two cymbals even when played hard. Matt Halpern of Periphery relies on 15" Artist Concept Hi-Hats from Meinl, giving him the precise, controlled response Periphery's dense, palm-muted arrangements require across "Periphery II," "Juggernaut," and "Hail Stan." Travis Orbin, who helped define djent's genre-shaping template on Periphery's self-titled 2010 debut, plays Meinl Byzance Extra Dry hi-hats, favoring their minimal-wash voicing for technical, trigger-augmented progressive metal.
 
 This guide breaks down what makes a great djent hi-hat — tight decay, choked response, and controlled dynamics — and which specific models these three influential drummers rely on, from budget starter pairs to the professional setups behind djent's most technically demanding records.`,
       keyPoints: [
         "Tomas Haake's Sabian signature Compression Hi-Hats define djent's founding tight, choked hi-hat voice",
-        "Matt Halpern's 15\" Meinl Pure Alloy Medium Hi-Hats deliver the precise response Periphery's dense, palm-muted arrangements need",
+        "Matt Halpern's 15\" Meinl Artist Concept Hi-Hats deliver the precise response Periphery's dense, palm-muted arrangements need",
         "Travis Orbin's Meinl Byzance Extra Dry hi-hats helped define djent's genre-shaping minimal-wash template on Periphery's 2010 debut",
         "Dry, choked voicing is essential across every featured setup — djent has no room for washy hi-hats"
       ]
@@ -96442,7 +96442,7 @@ This guide breaks down what makes a great djent hi-hat — tight decay, choked r
         {
           name: "Diameter",
           icon: "📏",
-          description: "Matt Halpern's 15\" Pure Alloy Medium Hi-Hats give extra surface area and control compared to the more common 14\" size, useful for the tightly muted, syncopated riff patterns and odd-time accents that define much of djent's rhythmic vocabulary.",
+          description: "Matt Halpern's 15\" Artist Concept Hi-Hats give extra surface area and control compared to the more common 14\" size, useful for the tightly muted, syncopated riff patterns and odd-time accents that define much of djent's rhythmic vocabulary.",
           recommendation: "14\" for standard response and versatility; 15\" for extra control on tightly muted riffing"
         },
         {
@@ -96512,22 +96512,22 @@ Haake's setup proves that djent's tight, controlled hi-hat demands trace directl
         },
         {
           rank: 2,
-          name: "Meinl Pure Alloy Medium Hi-Hats",
+          name: "Meinl Artist Concept Hi-Hats",
           brand: "Meinl",
-          model: "Pure Alloy Medium Hi-Hats 15\"",
+          model: "Artist Concept Hi-Hats 15\"",
           image: "https://upload.wikimedia.org/wikipedia/commons/a/a3/Toms%2C_hi-hat%2C_snare.jpg",
           priceRange: "€260-350 per pair",
           tier: "pro",
           material: "B20 Bronze",
 
-          description: `Matt Halpern of Periphery builds his hi-hat voice around 15" Pure Alloy Medium Hi-Hats from Meinl, part of a broader setup that also includes Byzance Dark crashes and a Pure Alloy Custom Ride. The Pure Alloy line's clean, controlled overtones give Periphery's dense, palm-muted arrangements a precise, defined response across "Periphery II," "Juggernaut," and "Hail Stan."
+          description: `Matt Halpern of Periphery builds his hi-hat voice around 15" Artist Concept Hi-Hats from Meinl, part of his broader signature setup that also includes Artist Concept crashes and an Artist Concept Ride. The Artist Concept line's clean, controlled overtones give Periphery's dense, palm-muted arrangements a precise, defined response across "Periphery II," "Juggernaut," and "Hail Stan."
 
 The larger 15" diameter adds extra surface area and control versus a standard 14" pair, well suited to the tightly muted, odd-time riff patterns that define much of Periphery's compositional style.`,
 
           pros: [
             "Matt Halpern's Periphery setup — precise, controlled response for dense palm-muted arrangements",
             "15\" diameter gives extra control versus standard 14\" pairs",
-            "Clean Pure Alloy overtones stay defined under complex polyrhythms",
+            "Clean Artist Concept overtones stay defined under complex polyrhythms",
             "Proven across Periphery's full studio catalog"
           ],
           cons: [
@@ -96537,17 +96537,17 @@ The larger 15" diameter adds extra surface area and control versus a standard 14
           ],
           specs: {
             material: "B20 bronze",
-            finish: "Pure Alloy",
+            finish: "Artist Concept",
             weight: "Medium",
             diameter: "15\"",
-            series: "Pure Alloy"
+            series: "Artist Concept"
           },
           usedBy: [
-            { name: "Matt Halpern", band: "Periphery", note: "15\" Pure Alloy Medium Hi-Hats — dense, palm-muted precision" }
+            { name: "Matt Halpern", band: "Periphery", note: "15\" Artist Concept Hi-Hats — dense, palm-muted precision" }
           ],
           verdict: "Best for extra control on tightly muted, odd-time riffing. Halpern's larger diameter adds real precision.",
           rating: 4.6,
-          affiliateLink: "https://www.thomann.de/intl/meinl_pure_alloy_medium_hi_hats.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/meinl_artist_concept_hi_hats_djent.htm?partner_id=metalforge"
         },
         {
           rank: 3,
@@ -96637,12 +96637,12 @@ Orbin's Extra Dry hi-hats favor minimal-wash voicing, staying tight and controll
 - Purpose-built for mathematically complex polyrhythms
 - The genre's founding, most extreme choked voicing
 
-**Dry & Controlled (Meinl Pure Alloy — Matt Halpern's choice; Meinl Byzance Extra Dry — Travis Orbin's choice):**
+**Dry & Controlled (Meinl Artist Concept — Matt Halpern's choice; Meinl Byzance Extra Dry — Travis Orbin's choice):**
 - Minimal-wash voicing with slightly more natural overtone than Compression
 - Suits dense, palm-muted arrangements and trigger-augmented kits
 - More widely available across standard 14"-15" sizes
 
-**Djent Verdict:** Choose Sabian Compression if you play Meshuggah-style extreme polyrhythmic djent and want the tightest possible choke. Choose Meinl Pure Alloy or Byzance Extra Dry if you play Periphery-style progressive djent and want dry control with a touch more natural voice.`,
+**Djent Verdict:** Choose Sabian Compression if you play Meshuggah-style extreme polyrhythmic djent and want the tightest possible choke. Choose Meinl Artist Concept or Byzance Extra Dry if you play Periphery-style progressive djent and want dry control with a touch more natural voice.`,
       comparisonTable: [
         { feature: "Choked Decay", birch: "⭐⭐⭐⭐⭐", maple: "⭐⭐⭐⭐" },
         { feature: "Natural Overtone", birch: "⭐⭐", maple: "⭐⭐⭐" },
@@ -96663,7 +96663,7 @@ Orbin's Extra Dry hi-hats favor minimal-wash voicing, staying tight and controll
         },
         {
           category: "Best for Extra Control",
-          pedal: "Meinl Pure Alloy Medium Hi-Hats",
+          pedal: "Meinl Artist Concept Hi-Hats",
           reason: "Matt Halpern's 15\" setup. Extra surface area for tightly muted, odd-time riffing."
         },
         {
@@ -96688,14 +96688,14 @@ Orbin's Extra Dry hi-hats favor minimal-wash voicing, staying tight and controll
     ],
     relatedDrummers: [
       { slug: 'tomas-haake', name: 'Tomas Haake', reason: 'Sabian Signature Compression Hi-Hats — Meshuggah\'s founding polyrhythmic precision' },
-      { slug: 'matt-halpern', name: 'Matt Halpern', reason: 'Meinl Pure Alloy Medium 15" Hi-Hats — Periphery dense, palm-muted precision' },
+      { slug: 'matt-halpern', name: 'Matt Halpern', reason: 'Meinl Artist Concept 15" Hi-Hats — Periphery dense, palm-muted precision' },
       { slug: 'travis-orbin', name: 'Travis Orbin', reason: 'Meinl Byzance Extra Dry Hi-Hats — Periphery\'s genre-shaping 2010 template' }
     ],
 
     // Featured drummers (issue template)
     featuredDrummers: [
       { slug: 'tomas-haake', name: 'Tomas Haake', reason: 'Sabian Signature Compression Hi-Hats — Meshuggah\'s founding polyrhythmic precision' },
-      { slug: 'matt-halpern', name: 'Matt Halpern', reason: 'Meinl Pure Alloy Medium Hi-Hats — Periphery dense, palm-muted precision' },
+      { slug: 'matt-halpern', name: 'Matt Halpern', reason: 'Meinl Artist Concept Hi-Hats — Periphery dense, palm-muted precision' },
       { slug: 'travis-orbin', name: 'Travis Orbin', reason: 'Meinl Byzance Extra Dry Hi-Hats — Periphery\'s genre-shaping 2010 template' },
     ],
 
@@ -96703,7 +96703,7 @@ Orbin's Extra Dry hi-hats favor minimal-wash voicing, staying tight and controll
     faq: [
       {
         question: "What hi-hats are used in djent?",
-        answer: "Tomas Haake of Meshuggah uses his own signature Sabian Compression Hi-Hats for near-instant, controlled decay. Matt Halpern of Periphery uses 15\" Meinl Pure Alloy Medium Hi-Hats. Travis Orbin, also of Periphery, uses 14\" Meinl Byzance Extra Dry Hi-Hats. All three prioritize tight, choked voicing over natural wash."
+        answer: "Tomas Haake of Meshuggah uses his own signature Sabian Compression Hi-Hats for near-instant, controlled decay. Matt Halpern of Periphery uses 15\" Meinl Artist Concept Hi-Hats. Travis Orbin, also of Periphery, uses 14\" Meinl Byzance Extra Dry Hi-Hats. All three prioritize tight, choked voicing over natural wash."
       },
       {
         question: "What hi-hats does Tomas Haake use?",
@@ -96719,16 +96719,16 @@ Orbin's Extra Dry hi-hats favor minimal-wash voicing, staying tight and controll
       },
       {
         question: "Compression or Extra Dry hi-hats for djent?",
-        answer: "Both work at the highest level. Sabian Compression (Tomas Haake's choice) delivers the tightest possible choke, purpose-built for extreme polyrhythmic riffing. Meinl Pure Alloy (Matt Halpern's choice) and Byzance Extra Dry (Travis Orbin's choice) offer dry control with a touch more natural voice, suited to dense, progressive-leaning djent."
+        answer: "Both work at the highest level. Sabian Compression (Tomas Haake's choice) delivers the tightest possible choke, purpose-built for extreme polyrhythmic riffing. Meinl Artist Concept (Matt Halpern's choice) and Byzance Extra Dry (Travis Orbin's choice) offer dry control with a touch more natural voice, suited to dense, progressive-leaning djent."
       }
     ],
 
     // Conclusion
     conclusion: {
       title: "Find Your Djent Hi-Hat Voice",
-      content: `Djent hi-hats all live in the same dry, choked family, but the genre's most influential drummers show real range within it: Tomas Haake's signature Sabian Compression Hi-Hats deliver the tightest possible choke for Meshuggah's mathematically complex riffing, while Matt Halpern's larger 15" Meinl Pure Alloy Medium Hi-Hats and Travis Orbin's Meinl Byzance Extra Dry pair give Periphery's dense, palm-muted arrangements precise, controlled response.
+      content: `Djent hi-hats all live in the same dry, choked family, but the genre's most influential drummers show real range within it: Tomas Haake's signature Sabian Compression Hi-Hats deliver the tightest possible choke for Meshuggah's mathematically complex riffing, while Matt Halpern's larger 15" Meinl Artist Concept Hi-Hats and Travis Orbin's Meinl Byzance Extra Dry pair give Periphery's dense, palm-muted arrangements precise, controlled response.
 
-If you play extreme polyrhythmic djent, start with Sabian Compression or the budget AAX Stage — both stay tight even under hard, accented playing. If you play denser, progressive-leaning djent, Meinl Pure Alloy or Byzance Extra Dry will give you the controlled precision your palm-muted riffing demands.
+If you play extreme polyrhythmic djent, start with Sabian Compression or the budget AAX Stage — both stay tight even under hard, accented playing. If you play denser, progressive-leaning djent, Meinl Artist Concept or Byzance Extra Dry will give you the controlled precision your palm-muted riffing demands.
 
 Whatever you choose, prioritize choked decay and chick precision over natural wash — djent's hi-hat has zero room for sustain that blurs the riff.
 

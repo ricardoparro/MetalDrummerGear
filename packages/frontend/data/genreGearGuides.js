@@ -15475,12 +15475,12 @@ For drummers running six or more cymbals plus a double-kick spread, a rack drast
           tier: "mid",
           material: "Double-braced round base",
 
-          description: `George Kollias — the world's fastest recorded death metal drummer — sits on a Pearl D-3000 Throne, while Inferno (Behemoth) uses the D-2000, and Ray Luzier (Korn) runs the D-2000 Roadster. A throne might seem like the least important piece of hardware on a kit, but at 240+ BPM blast beat tempos, any wobble under the seat translates directly into lost technique.
+          description: `George Kollias — the world's fastest recorded death metal drummer — sits on a Pearl D-3000 Throne, while Inferno (Behemoth) uses the D-2000. A throne might seem like the least important piece of hardware on a kit, but at 240+ BPM blast beat tempos, any wobble under the seat translates directly into lost technique.
 
-Pearl's D-Series line uses a wide, double-braced round base and a locking height collar that stays put through the most demanding sets, which is exactly why three drummers with wildly different styles all land on the same throne line.`,
+Pearl's D-Series line uses a wide, double-braced round base and a locking height collar that stays put through the most demanding sets, which is exactly why two drummers with wildly different styles both land on the same throne line.`,
 
           pros: [
-            "George Kollias, Inferno, and Ray Luzier all use Pearl's D-Series",
+            "George Kollias and Inferno both use Pearl's D-Series",
             "Wide double-braced base resists tip and wobble at extreme tempos",
             "Locking height collar holds position through full sets",
             "Comfortable saddle-style seating for long practice sessions",
@@ -15499,8 +15499,7 @@ Pearl's D-Series line uses a wide, double-braced round base and a locking height
           },
           usedBy: [
             { name: "George Kollias", band: "Nile", note: "Pearl D-3000 Throne for 240+ BPM blast beat stability" },
-            { name: "Inferno", band: "Behemoth", note: "Pearl D-2000 Throne anchoring extreme metal live sets" },
-            { name: "Ray Luzier", band: "Korn", note: "Pearl D-2000 Roadster Throne" }
+            { name: "Inferno", band: "Behemoth", note: "Pearl D-2000 Throne anchoring extreme metal live sets" }
           ],
           verdict: "The most-used throne among extreme metal's fastest players — stable at any tempo.",
           rating: 4.6,
@@ -15634,7 +15633,7 @@ Pearl's D-Series line uses a wide, double-braced round base and a locking height
       },
       {
         question: "Best drum throne for metal drummers?",
-        answer: "Pearl's D-Series thrones are the most common pro pick — George Kollias uses the D-3000, Inferno uses the D-2000, and Ray Luzier uses the D-2000 Roadster. The wide, double-braced base and locking height collar keep the seat rock-solid even at 240+ BPM blast beat tempos."
+        answer: "Pearl's D-Series thrones are the most common pro pick — George Kollias uses the D-3000 and Inferno uses the D-2000. The wide, double-braced base and locking height collar keep the seat rock-solid even at 240+ BPM blast beat tempos."
       },
       {
         question: "How do I stop my bass drum from moving during double bass?",
@@ -26533,8 +26532,7 @@ George Kollias (Nile) plays a Pearl D-3000 for the rock-solid stability his 260+
           },
           usedBy: [
             { name: "George Kollias", band: "Nile", note: "260+ BPM double-bass stability" },
-            { name: "Inferno", band: "Behemoth", note: "Extreme metal live sets" },
-            { name: "Ray Luzier", band: "Korn", note: "D-2000 Roadster variant" }
+            { name: "Inferno", band: "Behemoth", note: "Extreme metal live sets" }
           ],
           verdict: "The extreme-tempo specialist's choice. Built to stay planted no matter how fast your feet move.",
           rating: 4.7,

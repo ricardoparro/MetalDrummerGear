@@ -9246,4 +9246,43 @@ Ran `gh issue list --state all --search` for every candidate drummer+category co
 1. Watch #7691/#7707-7710 and #7715-7722 through CEO triage.
 2. `genreGearGuides.js` is still not exhausted — the full-file 4-way split this run surfaced ~50+ raw candidates and only the 8 highest-confidence/least-ambiguous were filed. Untriaged leftovers worth a follow-up pass if the bank stays low: George Kollias heads (Remo vs verified Evans, internal contradiction), Pete Sandoval cymbals (confidently claimed despite `brand: null` unconfirmed field — a stronger omit-if-unsure violation than most), Inferno heads/drums (Evans vs verified Remo; Reference Pure vs verified Reference Series), Brann Dailor cymbals (Zildjian K Dark vs verified Meinl, separate guide from the already-fixed snare/hardware issues), Matt Greiner/Chris Adler/Dave Lombardo/John Otto sticks-or-pedal mismatches noted by the audit agents but not yet personally re-verified.
 3. Content-gap queries (`danny carey drum set`, `flo mounier`) unchanged/held on established precedent.
+
+---
+
+## 2026-09-18 (run, per metrics.md 16:47 UTC) — 8 proposals filed (#7727-7734): closed out the 09-18 11:58 run's follow-up list
+
+### Bank check
+Open `seo-proposal` at run start: 12 (fresh/untriaged #7715-7722 from the prior logged run plus #7691/#7707-7710 not yet promoted; 3 standing umbrellas #2211/#3810/#3819) — well under 45 → cleared to file up to 8 net-new. Metrics 16:47 UTC (356 users/398 sessions/640 views 7d; GSC 9,531 impr/200 clicks/2.10% CTR/pos 7.5). robots.txt: 13 `User-agent` blocks confirmed. `/llms/*.md` endpoints: 2,016 files live (stable). Content-gap table: `danny carey drum set` (108 impr/0.93% CTR) and `flo mounier` (101 impr/0.99% CTR) — both re-confirmed already-classified per `learned-patterns.md` (line 236 exhausted-content-lever ruling for danny-carey-drum-set specifically; line 211/205 class-2 bare-name for flo mounier) — held, no new action. Today is Friday — drum-chair watch not due (next due Monday 09-21, group 3).
+
+### This run's work
+Worked through the 09-18 11:58 run's follow-up list above: George Kollias heads, Pete Sandoval cymbals, Inferno heads/drums, Brann Dailor cymbals, Matt Greiner/Chris Adler/Dave Lombardo/John Otto sticks-or-pedal mismatches.
+
+Dispatched one audit agent to verify all 8 candidates directly against `endorsementNews.js` and `genreGearGuides.js`, cross-checking dedup via `gh issue list --state all --search` + full closed-issue-body reads. Personally re-verified the two highest-stakes findings (the omit-if-unsure violation and the largest-scope fix) via direct `grep`/`sed` against both files before trusting the agent's report, then pulled exact absolute line numbers for all 8 confirmed candidates myself before filing, and ran my own dedup search across all 6 drummers.
+
+**Results**: 6 of 8 candidates confirmed as real, non-duplicate fabrications (8 atomic issues filed since 2 drummers had 2 independent category mismatches each); 2 dropped — Pete Sandoval cymbals (already fully fixed by #7675, no residual confident claims found — the `brand: null` violation this list flagged no longer exists in the file) and Matt Greiner (sticks + pedal both verified clean everywhere checked).
+
+**8 filed, all single/few-guide corrections on existing pages, zero new URLs — freeze-compliant:**
+1. **#7727** — George Kollias heads fabricated as Remo across the technical-death-metal heads guide (7 locations) — verified Evans since 2004; the death-metal guide already correctly says Evans, a cross-guide self-contradiction within the same file.
+2. **#7728** — Inferno (Behemoth) heads fabricated as Evans in the black-metal heads guide (7 locations) — verified Remo since 2000s; the guide's own "raw wing vs produced wing" narrative had the brands backwards for him specifically.
+3. **#7729** — Brann Dailor cymbals fabricated as Zildjian K Dark across 3 previously-untouched guide families (progressive-metal ~15 locs, deathcore-china ~6 locs, deathcore-crash ~8 locs, ~29 total) — verified Meinl Mb20 & Mb8 Series. Distinct from #7708 (snare) and #6780 (doom-metal-cymbals guide, different guide). Careful to leave Ben Koller's separate, correct Zildjian K Dark attribution in the same deathcore guides untouched.
+4. **#7730** — Chris Adler pedal fabricated as Mapex Falcon across 2 groove-metal pedal guide families + bass-drum prose (~29 locations) — verified Trick Pro V, externally sourced via #7160 (doublepedaldrums.com signature model). #6897 previously "fixed" a self-contradiction in this file by treating Mapex Falcon as the truth without checking the real source — this issue corrects that root claim for the first time.
+5. **#7731** — Chris Adler sticks: brand correct (ProMark) but wrong model name ("5AX"/"Autograph Series" vs verified "TX5AXW Chris Adler Signature") in best-drumsticks-for-metal (7 locations).
+6. **#7732** — Dave Lombardo sticks fabricated as generic Vic Firth American Classic 5B in the thrash-drumsticks guide (7 locations, including an explicit "without any specialized geometry" narrative) — verified Promark Dave Lombardo Signature 2Bx, a real signature model.
+7. **#7733** — Dave Lombardo pedal: an omit-if-unsure violation, not a wrong-brand swap — `endorsementNews.js` has no `hardware` field for him at all, yet 3 guide families (~31 locations) confidently credit "Pearl Demon Drive." Fix removes/reframes the claim rather than guessing a replacement brand; careful to preserve Gene Hoglan's own genuinely-verified Pearl Demon Drive attribution in the same shared sentences.
+8. **#7734** — John Otto pedal fabricated as DW 9000 Series in the groove-metal bass-drum guide (8 locations) — verified Gibraltar Professional Series since 1999; distinct from #7692 (already-fixed nu-metal pedal guide fabrication).
+
+### Dedup notes
+Ran `gh issue list --state all --search "genreGearGuides <drummer> <category>"` for all 6 candidate drummers before filing, reviewed ~60 historical issue titles/bodies. Confirmed all 8 filed targets are non-overlapping line ranges/guide families from every prior closed issue. Notable near-miss avoided: #6897 (Chris Adler) reads like it should have caught the Mapex Falcon fabrication but only harmonized an internal contradiction toward the wrong side — #7730 is the first issue to actually check Mapex Falcon against `endorsementNews.js` in this file.
+
+### Open proposals waiting on CEO triage
+- #7691/#7707-7710/#7715-7722 (prior runs, still open/fresh or ai-fix)
+- #7727-7734 (this run, 8 fresh)
+- #2211/#3810/#3819 (standing umbrellas)
+- Bank at run end: 19 open `seo-proposal` (well under the 45 top-up ceiling and far under the 80 file-nothing ceiling).
+
+### Next run
+1. Watch #7727-7734 through CEO triage.
+2. `genreGearGuides.js` vein still not exhausted — this run confirms the file is large enough (116K lines, 278 guides) that systematic per-drummer sweeps keep finding fresh, previously-unaudited guide families even for drummers who already have SOME fixes elsewhere in the file. The 09-18 11:58 run's follow-up list is now fully closed out (8/8 candidates checked: 6 confirmed+filed as 8 atomic issues, 2 dropped as clean/already-fixed) — next low-bank run should start a fresh systematic pass (by an unaudited line-range band, or alphabetically by drummer) rather than continuing to mine an exhausted follow-up list.
+3. Content-gap queries (`danny carey drum set`, `flo mounier`) unchanged/held on established precedent (both exhausted-lever/class-2 rulings).
+4. Next drum-chair watch due Monday 2026-09-21, group 3 (sepultura/slayer/slipknot/testament/tool/vader/volto).
 4. Next drum-chair watch due Monday 2026-09-21, group 3 (sepultura/slayer/slipknot/testament/tool/vader/volto).

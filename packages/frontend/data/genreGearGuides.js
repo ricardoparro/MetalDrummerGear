@@ -79786,13 +79786,12 @@ Budget shouldn't stop you either. A DW 3000 Series or Pearl Demonator pedal will
     // SEO metadata
     title: "Best Drum Pedals for Metalcore: 2026 Ultimate Guide",
     metaTitle: "Best Drum Pedals for Metalcore 2026 | MetalForge Expert Guide",
-    description: "Best drum pedals for metalcore drumming: what Nick Augusto (Pearl Demon Drive), Art Cruz (Trick Pro 1-V), and Matt Halpern (Pearl Eliminator) actually play, plus a hybrid-feel Tama Speed Cobra 910 option. Fast, articulate double bass for metalcore's breakdown-driven riffing — ranked budget to pro.",
+    description: "Best drum pedals for metalcore drumming: what Nick Augusto (Pearl Demon Drive) and Art Cruz (Trick Pro 1-V) actually play, plus a hybrid-feel Tama Speed Cobra 910 option. Fast, articulate double bass for metalcore's breakdown-driven riffing — ranked budget to pro.",
     seoKeywords: [
       'best drum pedals for metalcore',
       'metalcore bass drum pedal',
       'nick augusto pedal trivium',
       'art cruz pedal lamb of god',
-      'matt halpern pedal periphery',
       'pearl demon drive metalcore',
       'double bass pedal breakdowns',
       'best pedal for metalcore blast beats',
@@ -79808,10 +79807,10 @@ Budget shouldn't stop you either. A DW 3000 Series or Pearl Demonator pedal will
     // Hero section
     hero: {
       title: "⚡ Best Drum Pedals for Metalcore",
-      subtitle: "What Nick Augusto, Art Cruz, and Matt Halpern Actually Play",
+      subtitle: "What Nick Augusto and Art Cruz Actually Play",
       badge: "GEAR GUIDE 2026",
       stats: [
-        { value: '4', label: 'Pedals Reviewed' },
+        { value: '3', label: 'Pedals Reviewed' },
         { value: '7 min', label: 'Read Time' },
         { value: '2026', label: 'Updated' }
       ]
@@ -79822,7 +79821,7 @@ Budget shouldn't stop you either. A DW 3000 Series or Pearl Demonator pedal will
       title: "What Pedal Should I Use for Metalcore?",
       content: `Metalcore asks a bass drum pedal to switch gears constantly — locking into a chugging, breakdown groove one bar and firing off a rapid double bass fill or blast-adjacent burst the next. That mix of precision and sudden speed means metalcore drummers need a pedal that responds instantly whether it's landing a single, weighted breakdown hit or a sustained sixteenth-note run underneath a technical riff.
 
-Nick Augusto brought a Pearl Reference Pure kit and the reliable speed of a Pearl Demon Drive double pedal to Trivium's "In Waves" and "Vengeance Falls" era. Art Cruz pairs his Ludwig Classic Oak kit with a Trick Pro 1-V double pedal, giving Lamb of God's breakdown-heavy riffing consistent, weighted punch. Matt Halpern rounds out the lineup with a Pearl Eliminator double pedal, delivering the crisp, controlled response Periphery's dense, palm-muted arrangements demand.
+Nick Augusto brought a Pearl Reference Pure kit and the reliable speed of a Pearl Demon Drive double pedal to Trivium's "In Waves" and "Vengeance Falls" era. Art Cruz pairs his Ludwig Classic Oak kit with a Trick Pro 1-V double pedal, giving Lamb of God's breakdown-heavy riffing consistent, weighted punch.
 
 This guide breaks down drive systems, footboard design, and speed potential for metalcore pedals — comparing the drummers whose setups define the genre's mix of breakdown weight and technical speed, with recommendations from budget to professional touring rigs.`,
       keyPoints: [
@@ -79846,7 +79845,7 @@ This guide breaks down drive systems, footboard design, and speed potential for 
         {
           name: "Drive System for Speed Bursts",
           icon: "⚙️",
-          description: "Nick Augusto's direct-drive Pearl Demon Drive gives instant, linear response for the rapid double-bass runs that punctuate Trivium's technical metalcore riffing. Chain drive pedals like Matt Halpern's Pearl Eliminator still deliver plenty of speed with a slightly more elastic feel.",
+          description: "Nick Augusto's direct-drive Pearl Demon Drive gives instant, linear response for the rapid double-bass runs that punctuate Trivium's technical metalcore riffing. Chain drive pedals still deliver plenty of speed with a slightly more elastic feel.",
           recommendation: "Direct drive for maximum linear speed, chain drive for a more elastic, powerful feel"
         },
         {
@@ -79858,7 +79857,7 @@ This guide breaks down drive systems, footboard design, and speed potential for 
         {
           name: "Consistency Across Dynamics",
           icon: "🎯",
-          description: "Metalcore constantly shifts between delicate clean sections, dense breakdowns, and blast-adjacent bursts. A pedal needs total consistency across that entire dynamic range, the same standard Matt Halpern's setup meets for Periphery's dense, palm-muted arrangements.",
+          description: "Metalcore constantly shifts between delicate clean sections, dense breakdowns, and blast-adjacent bursts. A pedal needs total consistency across that entire dynamic range to keep every hit landing predictably.",
           recommendation: "A pedal that holds its feel consistently from soft ghost hits to full-force breakdown impacts"
         },
         {
@@ -79996,46 +79995,6 @@ The extended footboard design is specifically engineered for fast, rolling patte
           verdict: "Best for technical, prog-leaning metalcore. Near direct-drive smoothness with familiar chain feel.",
           rating: 4.6,
           affiliateLink: "https://www.thomann.de/intl/tama_hp910lwn_speed_cobra_double.htm?partner_id=metalforge"
-        },
-        {
-          rank: 4,
-          name: "Pearl Eliminator Redline",
-          brand: "Pearl",
-          model: "P2052C Eliminator Redline",
-          image: "https://upload.wikimedia.org/wikipedia/commons/7/74/Dixon-double-pedal.jpg",
-          priceRange: "€350-400",
-          tier: "pro",
-          driveType: "Chain with Interchangeable Cams",
-
-          description: `Matt Halpern pairs a Pearl Eliminator Redline double pedal with his Pearl Reference snare and Meinl Byzance Extra Dry cymbals, giving Periphery's dense, palm-muted prog-metalcore arrangements crisp, controlled response. The interchangeable cam system lets him balance power for heavier breakdowns with speed for the band's technical, rapid-fire sections.
-
-Halpern's setup shows how the same reliable Eliminator platform that anchors extreme metal drumming translates directly into metalcore's mix of breakdown weight and technical precision.`,
-
-          pros: [
-            "Matt Halpern's Periphery setup — crisp, controlled response for dense prog-metalcore arrangements",
-            "Interchangeable cams balance breakdown power with technical speed",
-            "NiNjA bearing system shared with Pearl's flagship pedal",
-            "Proven across Periphery's most acclaimed recordings",
-            "More accessible pricing than the Demon Drive flagship"
-          ],
-          cons: [
-            "Chain drive caps ultimate top-end speed versus direct drive",
-            "Not as refined as the Demon Drive flagship",
-            "Heavier feel takes adjustment if coming from a lighter pedal"
-          ],
-          specs: {
-            drive: "Chain with Interchangeable Cams",
-            bearings: "NiNjA Bearings",
-            footboard: "Standard",
-            beater: "Eliminator Beater (reversible)",
-            weight: "4.2 kg (pair)"
-          },
-          usedBy: [
-            { name: "Matt Halpern", band: "Periphery", note: "Pearl Eliminator Redline — crisp, controlled response for dense prog-metalcore" }
-          ],
-          verdict: "Best value pro pedal for dense, technical metalcore arrangements.",
-          rating: 4.5,
-          affiliateLink: "https://www.thomann.de/intl/pearl_p2052c_eliminator_redline.htm?partner_id=metalforge"
         }
       ]
     },
@@ -80052,9 +80011,9 @@ Halpern's setup shows how the same reliable Eliminator platform that anchors ext
           priceRange: "€150-190",
           tier: "budget",
           driveType: "Chain Drive",
-          description: "A budget-friendly single pedal from the same Pearl family as Nick Augusto and Matt Halpern's professional pedals, carrying similar smooth, controlled feel at a fraction of the price for developing metalcore drummers.",
+          description: "A budget-friendly single pedal from the same Pearl family as Nick Augusto's professional pedal, carrying similar smooth, controlled feel at a fraction of the price for developing metalcore drummers.",
           pros: ["Same Pearl family DNA as pro metalcore setups", "Affordable entry point", "Solid bearings for the price"],
-          cons: ["Single pedal only at this price", "Not as refined as the Demon Drive or Eliminator"],
+          cons: ["Single pedal only at this price", "Not as refined as the Demon Drive"],
           verdict: "Best budget entry into the Pearl metalcore sound.",
           rating: 4.0,
           affiliateLink: "https://www.thomann.de/intl/pearl_p2002b_demonator.htm?partner_id=metalforge"
@@ -80086,7 +80045,7 @@ Halpern's setup shows how the same reliable Eliminator platform that anchors ext
 - Less "swing" in the action
 - Best for technical, riff-heavy metalcore
 
-**Chain Drive with Speed Enhancements (Tama Speed Cobra 910 - Speedo-Ring, Matt Halpern - interchangeable cams):**
+**Chain Drive with Speed Enhancements (Tama Speed Cobra 910 - Speedo-Ring):**
 - Near direct-drive speed with more traditional feel
 - Slight "whip" effect many drummers prefer for breakdown weight
 - Best for progressive, trigger-augmented metalcore
@@ -80096,7 +80055,7 @@ Halpern's setup shows how the same reliable Eliminator platform that anchors ext
 - Premium price for a direct-drive pedal
 - Best for breakdown-driven, groove-heavy metalcore
 
-**Our Recommendation:** If your material leans technical and riff-heavy, start with direct drive (Pearl Demon Drive or budget Pearl Demonator). If you need breakdown weight with reserve speed, a Speedo-Ring or interchangeable-cam chain pedal (Tama Speed Cobra 910 or Pearl Eliminator) gives you both. For pure breakdown punch, the Trick Pro 1-V's adjustable V-Cam delivers serious weighted power.`,
+**Our Recommendation:** If your material leans technical and riff-heavy, start with direct drive (Pearl Demon Drive or budget Pearl Demonator). If you need breakdown weight with reserve speed, the Speedo-Ring chain drive of the Tama Speed Cobra 910 gives you both. For pure breakdown punch, the Trick Pro 1-V's adjustable V-Cam delivers serious weighted power.`,
       comparisonTable: [
         { feature: "Top Speed Potential", directDrive: "⭐⭐⭐⭐⭐", chainDrive: "⭐⭐⭐⭐" },
         { feature: "Breakdown Punch", directDrive: "⭐⭐⭐", chainDrive: "⭐⭐⭐⭐⭐" },
@@ -80140,22 +80099,20 @@ Halpern's setup shows how the same reliable Eliminator platform that anchors ext
     ],
     relatedDrummers: [
       { slug: 'nick-augusto', name: 'Nick Augusto', reason: 'Pearl Demon Drive — Trivium technical metalcore speed' },
-      { slug: 'art-cruz', name: 'Art Cruz', reason: 'Trick Pro 1-V — Lamb of God breakdown-heavy punch' },
-      { slug: 'matt-halpern', name: 'Matt Halpern', reason: 'Pearl Eliminator Redline — Periphery dense prog-metalcore control' }
+      { slug: 'art-cruz', name: 'Art Cruz', reason: 'Trick Pro 1-V — Lamb of God breakdown-heavy punch' }
     ],
 
     // Featured drummers (issue template)
     featuredDrummers: [
       { slug: 'nick-augusto', name: 'Nick Augusto', reason: 'Pearl Demon Drive — Trivium technical metalcore speed' },
-      { slug: 'art-cruz', name: 'Art Cruz', reason: 'Trick Pro 1-V — Lamb of God breakdown-heavy punch' },
-      { slug: 'matt-halpern', name: 'Matt Halpern', reason: 'Pearl Eliminator Redline — Periphery dense prog-metalcore control' }
+      { slug: 'art-cruz', name: 'Art Cruz', reason: 'Trick Pro 1-V — Lamb of God breakdown-heavy punch' }
     ],
 
     // FAQ section for SEO
     faq: [
       {
         question: "Who are the best metalcore drummers and what pedals do they use?",
-        answer: "Nick Augusto, who played in Trivium from 2009-2014, used a Pearl Demon Drive double pedal. Art Cruz of Lamb of God plays a Trick Pro 1-V double pedal, and Matt Halpern of Periphery plays a Pearl Eliminator Redline. The Tama Speed Cobra 910 is another strong pro-level option for the genre's technical, prog-leaning wing."
+        answer: "Nick Augusto, who played in Trivium from 2009-2014, used a Pearl Demon Drive double pedal. Art Cruz of Lamb of God plays a Trick Pro 1-V double pedal. The Tama Speed Cobra 910 is another strong pro-level option for the genre's technical, prog-leaning wing."
       },
       {
         question: "What pedal does Nick Augusto use?",
@@ -80167,14 +80124,14 @@ Halpern's setup shows how the same reliable Eliminator platform that anchors ext
       },
       {
         question: "What's the best budget double bass pedal for metalcore?",
-        answer: "The Tama Iron Cobra 600 (around €250-300) shares Tama's Speed Cobra family DNA at an accessible price. For a budget option in the same family as Nick Augusto and Matt Halpern's Pearl pedals, the Pearl Demonator (€150-190) is a solid single-pedal starting point."
+        answer: "The Tama Iron Cobra 600 (around €250-300) shares Tama's Speed Cobra family DNA at an accessible price. For a budget option in the same Pearl family as Nick Augusto's pro pedal, the Pearl Demonator (€150-190) is a solid single-pedal starting point."
       }
     ],
 
     // Conclusion
     conclusion: {
       title: "Choose Your Metalcore Weapon",
-      content: `Metalcore pedal choice comes down to whether your material leans technical and riff-heavy or breakdown-driven and weighted — and most bands need a bit of both. Nick Augusto's direct-drive Pearl Demon Drive gave Trivium's technical riffing instant, linear speed. Art Cruz's Trick Pro 1-V delivers the consistent, weighted punch Lamb of God's breakdowns demand through its adjustable V-Cam direct drive. The Tama Speed Cobra 910 helped define modern progressive metalcore's technical wing, while Matt Halpern's Pearl Eliminator Redline shows how the same reliable platform scales across the genre's densest, most technical arrangements.
+      content: `Metalcore pedal choice comes down to whether your material leans technical and riff-heavy or breakdown-driven and weighted — and most bands need a bit of both. Nick Augusto's direct-drive Pearl Demon Drive gave Trivium's technical riffing instant, linear speed. Art Cruz's Trick Pro 1-V delivers the consistent, weighted punch Lamb of God's breakdowns demand through its adjustable V-Cam direct drive. The Tama Speed Cobra 910 helped define modern progressive metalcore's technical wing with its hybrid Speedo-Ring drive.
 
 Start with whichever drive system matches your material's balance of breakdown weight and technical speed, and don't be afraid to try both if you can before committing to a flagship purchase.
 

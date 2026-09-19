@@ -62320,7 +62320,7 @@ Paired with a Sonor Mikkey Dee Signature snare and a DW 5000 Series double pedal
       },
       {
         question: "Does Nicko McBrain use a double pedal?",
-        answer: "No — Nicko McBrain has never used a double bass pedal with Iron Maiden. His entire galloping, triplet-based rhythmic vocabulary is built on a single 22\"x17\" bass drum and a single Sonor pedal, proving foot independence rather than raw double-bass speed can anchor a genre-defining sound."
+        answer: "No — Nicko McBrain has never used a double bass pedal with Iron Maiden. His entire galloping, triplet-based rhythmic vocabulary is built on a single 22\"x17\" bass drum and a single DW pedal, proving foot independence rather than raw double-bass speed can anchor a genre-defining sound."
       },
       {
         question: "Why do power metal drummers need a different kit than blast-beat genres?",
@@ -62354,7 +62354,7 @@ Start where your budget allows — even a Tama Imperialstar or Sonor AQ2 will ge
     // SEO metadata
     title: "Best Drum Pedals for Power Metal: 2026 Ultimate Guide",
     metaTitle: "Best Drum Pedals for Power Metal 2026 | MetalForge Expert Guide",
-    description: "Best drum pedals for power metal drumming: what Scott Travis (DW 9000 Series Double Pedal), Aquiles Priester (DW 9000 double pedal), Nicko McBrain (single Sonor pedal, no double ever), and Mikkey Dee (DW 5000 Series Double Pedal) actually play. Reliable, sustained speed for galloping rhythms — ranked budget to pro.",
+    description: "Best drum pedals for power metal drumming: what Scott Travis (DW 9000 Series Double Pedal), Aquiles Priester (DW 9000 double pedal), Nicko McBrain (single DW pedal, no double ever), and Mikkey Dee (DW 5000 Series Double Pedal) actually play. Reliable, sustained speed for galloping rhythms — ranked budget to pro.",
     seoKeywords: [
       'best drum pedals for power metal',
       'power metal drum pedal',
@@ -62390,13 +62390,13 @@ Start where your budget allows — even a Tama Imperialstar or Sonor AQ2 will ge
       title: "Why Power Metal Pedal Choice Splits Between Speed and Foot Independence",
       content: `Power metal's galloping, triplet-based rhythms and sustained neoclassical double-bass runs put very different demands on a pedal depending on which tradition a drummer follows. One of the genre's most influential names never touches a double pedal at all, relying on foot independence and a precise single pedal, while others need a fast, reliable double pedal to sustain 180-220+ BPM 16th-note patterns across an entire set.
 
-Scott Travis currently drives Judas Priest's twin 22"x18" bass drums with a DW 9000 Series double pedal mounted on a Gibraltar rack, part of the ddrum-era setup he's used since "Firepower" (2018), carrying "Painkiller" (1990)'s foundational blueprint forward. Aquiles Priester relies on the same DW 9000 Series double pedal to sustain his relaxation-based, 180-220+ BPM neoclassical double-bass technique on Angra's current return-era rig. Nicko McBrain has never used a double pedal with Iron Maiden — his entire galloping, triplet-based rhythmic vocabulary runs through a single Sonor pedal, proof that raw double-bass speed isn't required to anchor a genre-defining sound. Mikkey Dee's DW 5000 Series double pedal has carried him through 23+ years of Motörhead's relentless touring and into Scorpions' festival-circuit schedule.
+Scott Travis currently drives Judas Priest's twin 22"x18" bass drums with a DW 9000 Series double pedal mounted on a Gibraltar rack, part of the ddrum-era setup he's used since "Firepower" (2018), carrying "Painkiller" (1990)'s foundational blueprint forward. Aquiles Priester relies on the same DW 9000 Series double pedal to sustain his relaxation-based, 180-220+ BPM neoclassical double-bass technique on Angra's current return-era rig. Nicko McBrain has never used a double pedal with Iron Maiden — his entire galloping, triplet-based rhythmic vocabulary runs through a single DW pedal, proof that raw double-bass speed isn't required to anchor a genre-defining sound. Mikkey Dee's DW 5000 Series double pedal has carried him through 23+ years of Motörhead's relentless touring and into Scorpions' festival-circuit schedule.
 
 This guide breaks down single-pedal foot independence versus double-pedal sustained speed for power metal — comparing what these four influential drummers actually play and why, with recommendations across every budget.`,
       keyPoints: [
         "Scott Travis and Aquiles Priester both drive their kicks with a DW 9000 Series double pedal for sustained speed",
         "Aquiles Priester's DW 9000 Series double pedal sustains his 180-220+ BPM neoclassical double-bass technique on Angra's current rig",
-        "Nicko McBrain has never used a double pedal — Iron Maiden's entire galloping foundation runs through one precise Sonor single pedal",
+        "Nicko McBrain has never used a double pedal — Iron Maiden's entire galloping foundation runs through one precise DW single pedal",
         "Mikkey Dee's DW 5000 Series double pedal has proven reliable across 23+ years of Motörhead and Scorpions touring"
       ]
     },
@@ -62525,43 +62525,43 @@ While Dee's catalog sits closer to hard rock than power metal's fantasy-themed w
         },
         {
           rank: 3,
-          name: "Sonor Single Pedal",
-          brand: "Sonor",
-          model: "Perfect Balance Single Pedal",
+          name: "DW 3000 Series Single Pedal",
+          brand: "DW",
+          model: "DWCP3000 Single Pedal",
           image: "https://upload.wikimedia.org/wikipedia/commons/7/74/Dixon-double-pedal.jpg",
-          priceRange: "€180-280",
+          priceRange: "€90-120",
           tier: "mid",
           driveType: "Chain Drive",
 
-          description: `Nicko McBrain has never used a double bass pedal with Iron Maiden — his entire galloping, triplet-based rhythmic vocabulary, the direct rhythmic ancestor of power metal's whole European scene, runs through a single Sonor pedal on a single 22"x17" bass drum. That single-pedal approach is the whole story: foot independence and precise technique anchor his sound, not raw double-bass horsepower.
+          description: `Nicko McBrain has never used a double bass pedal with Iron Maiden — his entire galloping, triplet-based rhythmic vocabulary, the direct rhythmic ancestor of power metal's whole European scene, runs through a single DW pedal on a single 22"x17" bass drum. That single-pedal approach is the whole story: foot independence and precise technique anchor his sound, not raw double-bass horsepower.
 
 For power metal drummers whose material leans on gallop-first, triplet-based rhythms rather than sustained double-bass runs, a precise single pedal is not a compromise — it's the same foundation McBrain has used for four-plus decades.`,
 
           pros: [
-            "Nicko McBrain's current Iron Maiden setup — proof a single pedal can anchor an entire genre's rhythmic foundation",
+            "Same DW brand family as Nicko McBrain's single-pedal setup — proof a single pedal can anchor an entire genre's rhythmic foundation",
             "Precise, reliable chain-drive response for gallop-first triplet patterns",
             "Far more affordable than any double pedal setup",
-            "Proven across four-plus decades of Iron Maiden's arena and stadium touring",
+            "Dependable DW build quality at an accessible price",
             "Simpler to maintain and tour with than a double pedal"
           ],
           cons: [
             "No double-bass capability without adding a second pedal or kick",
             "Won't suit drummers chasing sustained neoclassical double-bass speed",
-            "Less common as a standalone metal pedal outside the Sonor ecosystem"
+            "Limited adjustability compared to DW's flagship pedals"
           ],
           specs: {
             drive: "Chain Drive",
             bearings: "Standard Bushings",
             footboard: "Standard Length",
-            beater: "Sonor Standard Beater",
+            beater: "DW Standard Beater",
             configuration: "Single pedal, single bass drum"
           },
           usedBy: [
-            { name: "Nicko McBrain", band: "Iron Maiden", note: "Single Sonor pedal — never a double pedal, across four-plus decades" }
+            { name: "Nicko McBrain", band: "Iron Maiden", note: "Single DW pedal — never a double pedal, across four-plus decades" }
           ],
           verdict: "Best for gallop-first, foot-independence power metal. McBrain's single-pedal setup is the direct ancestor of the genre's rhythmic vocabulary.",
           rating: 4.3,
-          affiliateLink: "https://www.thomann.de/intl/sonor_perfect_balance_single_pedal.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/dw_dwcp3000_single_pedal.htm?partner_id=metalforge"
         }
       ]
     },
@@ -62643,7 +62643,7 @@ For power metal drummers whose material leans on gallop-first, triplet-based rhy
         },
         {
           category: "Best for Gallop-First Playing",
-          pedal: "Sonor Single Pedal",
+          pedal: "DW 3000 Series Single Pedal",
           reason: "Nicko McBrain's setup — proof a single pedal can anchor an entire genre's rhythmic foundation."
         },
         {
@@ -62663,7 +62663,7 @@ For power metal drummers whose material leans on gallop-first, triplet-based rhy
     relatedDrummers: [
       { slug: 'scott-travis', name: 'Scott Travis', reason: 'DW 9000 Series Double Pedal — Judas Priest sustained double-bass speed' },
       { slug: 'aquiles-priester', name: 'Aquiles Priester', reason: 'DW 9000 Series Double Pedal — Angra neoclassical double-bass precision' },
-      { slug: 'nicko-mcbrain', name: 'Nicko McBrain', reason: 'Single Sonor pedal — Iron Maiden galloping foundation' },
+      { slug: 'nicko-mcbrain', name: 'Nicko McBrain', reason: 'Single DW pedal — Iron Maiden galloping foundation' },
       { slug: 'mikkey-dee', name: 'Mikkey Dee', reason: 'DW 5000 Series Double Pedal — Motörhead/Scorpions touring stamina' }
     ],
 
@@ -62671,7 +62671,7 @@ For power metal drummers whose material leans on gallop-first, triplet-based rhy
     featuredDrummers: [
       { slug: 'scott-travis', name: 'Scott Travis', reason: 'DW 9000 Series Double Pedal — Judas Priest sustained double-bass speed' },
       { slug: 'aquiles-priester', name: 'Aquiles Priester', reason: 'DW 9000 Series Double Pedal — Angra neoclassical double-bass precision' },
-      { slug: 'nicko-mcbrain', name: 'Nicko McBrain', reason: 'Single Sonor pedal — Iron Maiden galloping foundation' },
+      { slug: 'nicko-mcbrain', name: 'Nicko McBrain', reason: 'Single DW pedal — Iron Maiden galloping foundation' },
       { slug: 'mikkey-dee', name: 'Mikkey Dee', reason: 'DW 5000 Series Double Pedal — Motörhead/Scorpions touring stamina' }
     ],
 
@@ -62679,7 +62679,7 @@ For power metal drummers whose material leans on gallop-first, triplet-based rhy
     faq: [
       {
         question: "Does Nicko McBrain use a double bass pedal?",
-        answer: "No — Nicko McBrain has never used a double bass pedal with Iron Maiden. His entire galloping, triplet-based rhythmic vocabulary runs through a single Sonor pedal on a single 22\"x17\" bass drum, proving foot independence rather than raw double-bass speed can anchor a genre-defining sound."
+        answer: "No — Nicko McBrain has never used a double bass pedal with Iron Maiden. His entire galloping, triplet-based rhythmic vocabulary runs through a single DW pedal on a single 22\"x17\" bass drum, proving foot independence rather than raw double-bass speed can anchor a genre-defining sound."
       },
       {
         question: "What pedal does Scott Travis use?",
@@ -62695,14 +62695,14 @@ For power metal drummers whose material leans on gallop-first, triplet-based rhy
       },
       {
         question: "Do I need an expensive double pedal to play power metal?",
-        answer: "No — a Tama Iron Cobra 600 or DW 3000 Series will teach real double-bass technique at a fraction of the price of Scott Travis's or Aquiles Priester's DW 9000 or Mikkey Dee's DW 5000. If your material is gallop-first rather than double-bass-heavy, a Sonor-style single pedal is even more affordable."
+        answer: "No — a Tama Iron Cobra 600 or DW 3000 Series will teach real double-bass technique at a fraction of the price of Scott Travis's or Aquiles Priester's DW 9000 or Mikkey Dee's DW 5000. If your material is gallop-first rather than double-bass-heavy, a DW-style single pedal is even more affordable."
       }
     ],
 
     // Conclusion
     conclusion: {
       title: "Choose Your Foot Foundation",
-      content: `Power metal pedal choice comes down to a fundamental question: does your material need sustained double-bass speed, or does it live and die on gallop-first foot independence? Scott Travis and Aquiles Priester both found their answer in the DW 9000 Series double pedal, sustaining extreme tempo across a full set. Nicko McBrain never touched a double pedal at all, proving Iron Maiden's entire rhythmic foundation could run on one precise Sonor pedal. Mikkey Dee depends on his own fast, reliable DW 5000 double pedal to sustain extreme tempo across a full set.
+      content: `Power metal pedal choice comes down to a fundamental question: does your material need sustained double-bass speed, or does it live and die on gallop-first foot independence? Scott Travis and Aquiles Priester both found their answer in the DW 9000 Series double pedal, sustaining extreme tempo across a full set. Nicko McBrain never touched a double pedal at all, proving Iron Maiden's entire rhythmic foundation could run on one precise DW pedal. Mikkey Dee depends on his own fast, reliable DW 5000 double pedal to sustain extreme tempo across a full set.
 
 None of these approaches is more "authentic" to the genre — all four have driven some of power metal's most influential recordings. Start with whichever setup matches your material's balance of gallop-first triplets versus sustained neoclassical double bass.
 
@@ -104637,13 +104637,13 @@ Start with whichever approach matches your material's demands — groove and dur
       title: "Why Power Metal Rewards Stamina and Consistency Over Peak Speed",
       content: `Power metal's galloping, triplet-based rhythms don't test a pedal's absolute top-end speed the way a blast beat does — they test whether that pedal can deliver the exact same response, hit after hit, for an entire 90-minute festival set of sustained mid-tempo double-kick patterns. A pedal that feels fast for the first three songs and then fatigues your ankle or loses consistency by song forty is worse than one that's simply reliable from start to finish.
 
-Scott Travis drives Judas Priest's twin bass drums with a DW 9000 Series double pedal mounted on a Gibraltar rack, part of the ddrum-era setup that's carried "Painkiller" (1990)'s foundational blueprint forward since "Firepower" (2018). Aquiles Priester relies on the same DW 9000 Series double pedal to sustain his relaxation-based, 180-220+ BPM neoclassical double-bass technique on Angra's current rig. Nicko McBrain has never used a double pedal at all — Iron Maiden's entire galloping, triplet-based rhythmic vocabulary runs through one precise Sonor single pedal. Mikkey Dee's Pearl Demon Drive double pedal has carried him through 23+ years of Motörhead's relentless touring and into Scorpions' festival-circuit schedule without a platform change.
+Scott Travis drives Judas Priest's twin bass drums with a DW 9000 Series double pedal mounted on a Gibraltar rack, part of the ddrum-era setup that's carried "Painkiller" (1990)'s foundational blueprint forward since "Firepower" (2018). Aquiles Priester relies on the same DW 9000 Series double pedal to sustain his relaxation-based, 180-220+ BPM neoclassical double-bass technique on Angra's current rig. Nicko McBrain has never used a double pedal at all — Iron Maiden's entire galloping, triplet-based rhythmic vocabulary runs through one precise DW single pedal. Mikkey Dee's Pearl Demon Drive double pedal has carried him through 23+ years of Motörhead's relentless touring and into Scorpions' festival-circuit schedule without a platform change.
 
 This guide breaks down what actually matters for power metal's sustained, mid-tempo double-kick demands — comparing what these four influential drummers play and why, with recommendations across every budget.`,
       keyPoints: [
         "Power metal tests sustained consistency across long, gallop-heavy sets more than peak double-bass speed",
         "Scott Travis and Aquiles Priester both drive their kicks with a DW 9000 Series double pedal for sustained speed",
-        "Nicko McBrain has never used a double pedal — Iron Maiden's entire galloping foundation runs through one precise Sonor pedal",
+        "Nicko McBrain has never used a double pedal — Iron Maiden's entire galloping foundation runs through one precise DW pedal",
         "Mikkey Dee's Pearl Demon Drive has proven reliable across 23+ years of Motörhead and Scorpions touring without a platform change"
       ]
     },
@@ -104729,40 +104729,40 @@ The free-floating rotor design and infinitely adjustable spring tension let both
         },
         {
           rank: 2,
-          name: "Sonor Single Pedal",
-          brand: "Sonor",
-          model: "Perfect Balance Single Pedal",
+          name: "DW 3000 Series Single Pedal",
+          brand: "DW",
+          model: "DWCP3000 Single Pedal",
           image: "https://upload.wikimedia.org/wikipedia/commons/7/74/Dixon-double-pedal.jpg",
-          priceRange: "€180-280",
+          priceRange: "€90-120",
           tier: "mid",
           driveType: "Chain Drive",
-          description: `Nicko McBrain has never used a double bass pedal with Iron Maiden — his entire galloping, triplet-based rhythmic vocabulary, the direct rhythmic ancestor of power metal's whole European scene, runs through a single Sonor pedal on a single 22"x17" bass drum across three-hour arena and stadium shows.
+          description: `Nicko McBrain has never used a double bass pedal with Iron Maiden — his entire galloping, triplet-based rhythmic vocabulary, the direct rhythmic ancestor of power metal's whole European scene, runs through a single DW pedal on a single 22"x17" bass drum across three-hour arena and stadium shows.
 
 For power metal drummers whose material leans on gallop-first, triplet-based rhythms rather than sustained double-bass runs, a precise single pedal is not a compromise — it's the same foundation McBrain has used for four-plus decades of touring stamina.`,
           pros: [
-            "Nicko McBrain's current Iron Maiden setup — proof a single pedal can anchor an entire genre's rhythmic foundation",
+            "Same DW brand family as Nicko McBrain's single-pedal setup — proof a single pedal can anchor an entire genre's rhythmic foundation",
             "Precise, reliable chain-drive response for gallop-first triplet patterns",
             "Far more affordable than any double pedal setup",
-            "Proven across four-plus decades of Iron Maiden's arena and stadium touring"
+            "Dependable DW build quality at an accessible price"
           ],
           cons: [
             "No double-bass capability without adding a second pedal or kick",
             "Won't suit drummers chasing sustained neoclassical double-bass speed",
-            "Less common as a standalone metal pedal outside the Sonor ecosystem"
+            "Limited adjustability compared to DW's flagship pedals"
           ],
           specs: {
             drive: "Chain Drive",
             cam: "Standard cam",
             frame: "Steel frame",
-            beater: "Sonor Standard Beater",
+            beater: "DW Standard Beater",
             footboard: "Standard length"
           },
           usedBy: [
-            { name: "Nicko McBrain", band: "Iron Maiden", note: "Single Sonor pedal — never a double pedal, across four-plus decades" }
+            { name: "Nicko McBrain", band: "Iron Maiden", note: "Single DW pedal — never a double pedal, across four-plus decades" }
           ],
           verdict: "Best for gallop-first, foot-independence power metal stamina across three-hour shows.",
           rating: 4.3,
-          affiliateLink: "https://www.thomann.de/intl/sonor_perfect_balance_single_pedal.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/dw_dwcp3000_single_pedal.htm?partner_id=metalforge"
         },
         {
           rank: 3,
@@ -104870,7 +104870,7 @@ For power metal's biggest festival-headlining bands, that kind of set-to-set, to
         },
         {
           category: "Best for Gallop-First Stamina",
-          pedal: "Sonor Single Pedal",
+          pedal: "DW 3000 Series Single Pedal",
           reason: "Nicko McBrain's setup — proof a single pedal can anchor a genre's rhythmic foundation across three-hour shows."
         }
       ]
@@ -104886,12 +104886,12 @@ For power metal's biggest festival-headlining bands, that kind of set-to-set, to
     relatedDrummers: [
       { slug: 'scott-travis', name: 'Scott Travis', reason: 'DW 9000 Series Double Pedal — Judas Priest sustained double-bass speed' },
       { slug: 'aquiles-priester', name: 'Aquiles Priester', reason: 'DW 9000 Series Double Pedal — Angra neoclassical double-bass precision' },
-      { slug: 'nicko-mcbrain', name: 'Nicko McBrain', reason: 'Single Sonor pedal — Iron Maiden galloping foundation' },
+      { slug: 'nicko-mcbrain', name: 'Nicko McBrain', reason: 'Single DW pedal — Iron Maiden galloping foundation' },
       { slug: 'mikkey-dee', name: 'Mikkey Dee', reason: 'Pearl Demon Drive — Motörhead/Scorpions touring stamina' }
     ],
 
     featuredDrummers: [
-      { slug: 'nicko-mcbrain', name: 'Nicko McBrain', reason: 'Single Sonor pedal anchoring Iron Maiden\'s galloping foundation for four-plus decades' },
+      { slug: 'nicko-mcbrain', name: 'Nicko McBrain', reason: 'Single DW pedal anchoring Iron Maiden\'s galloping foundation for four-plus decades' },
       { slug: 'mikkey-dee', name: 'Mikkey Dee', reason: 'Pearl Demon Drive — 23+ years of touring stamina across Motörhead and Scorpions' }
     ],
 
@@ -104899,7 +104899,7 @@ For power metal's biggest festival-headlining bands, that kind of set-to-set, to
     faq: [
       {
         question: "Does Nicko McBrain use a double bass pedal?",
-        answer: "No — Nicko McBrain has never used a double bass pedal with Iron Maiden. His entire galloping, triplet-based rhythmic vocabulary runs through a single Sonor pedal on a single 22\"x17\" bass drum, proving foot independence and stamina rather than raw double-bass speed can anchor a genre-defining sound."
+        answer: "No — Nicko McBrain has never used a double bass pedal with Iron Maiden. His entire galloping, triplet-based rhythmic vocabulary runs through a single DW pedal on a single 22\"x17\" bass drum, proving foot independence and stamina rather than raw double-bass speed can anchor a genre-defining sound."
       },
       {
         question: "What pedal does Scott Travis use?",
@@ -104915,14 +104915,14 @@ For power metal's biggest festival-headlining bands, that kind of set-to-set, to
       },
       {
         question: "Do I need an expensive double pedal to play power metal?",
-        answer: "No — a Tama Iron Cobra 600 or Pearl Eliminator Redline will teach real double-bass stamina at a fraction of the price of Scott Travis's or Aquiles Priester's DW 9000 or Mikkey Dee's Demon Drive. If your material is gallop-first rather than double-bass-heavy, a Sonor-style single pedal is even more affordable."
+        answer: "No — a Tama Iron Cobra 600 or Pearl Eliminator Redline will teach real double-bass stamina at a fraction of the price of Scott Travis's or Aquiles Priester's DW 9000 or Mikkey Dee's Demon Drive. If your material is gallop-first rather than double-bass-heavy, a DW-style single pedal is even more affordable."
       }
     ],
 
     // Conclusion
     conclusion: {
       title: "Choose Your Foot Foundation",
-      content: `Power metal pedal choice comes down to a fundamental question: does your material need sustained double-bass stamina across a full set, or does it live and die on gallop-first foot independence? Scott Travis and Aquiles Priester both found their answer in the DW 9000 Series double pedal, sustaining extreme tempo across an entire set. Nicko McBrain never touched a double pedal at all, proving Iron Maiden's entire rhythmic foundation could run on one precise Sonor pedal for four-plus decades of touring. Mikkey Dee depends on his own fast, reliable Pearl Demon Drive to sustain extreme tempo across an entire set.
+      content: `Power metal pedal choice comes down to a fundamental question: does your material need sustained double-bass stamina across a full set, or does it live and die on gallop-first foot independence? Scott Travis and Aquiles Priester both found their answer in the DW 9000 Series double pedal, sustaining extreme tempo across an entire set. Nicko McBrain never touched a double pedal at all, proving Iron Maiden's entire rhythmic foundation could run on one precise DW pedal for four-plus decades of touring. Mikkey Dee depends on his own fast, reliable Pearl Demon Drive to sustain extreme tempo across an entire set.
 
 Start with whichever setup matches your material's balance of gallop-first triplets versus sustained neoclassical double bass, and prioritize consistency over raw top-end numbers.
 
@@ -115353,7 +115353,7 @@ Scott Travis's twin-pedal, foot-independent Judas Priest setup benefits from thi
       },
       {
         question: "Does Nicko McBrain use a double bass pedal?",
-        answer: "No — Nicko McBrain has never used a double bass pedal with Iron Maiden, running his entire galloping, triplet-based rhythmic vocabulary through a single Sonor pedal. His drum heads are Remo, primarily the Coated Ambassador, chosen for brightness and articulation rather than raw power."
+        answer: "No — Nicko McBrain has never used a double bass pedal with Iron Maiden, running his entire galloping, triplet-based rhythmic vocabulary through a single DW pedal. His drum heads are Remo, primarily the Coated Ambassador, chosen for brightness and articulation rather than raw power."
       },
       {
         question: "Are single-ply heads durable enough for a power metal touring schedule?",

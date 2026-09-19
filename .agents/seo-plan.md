@@ -9358,3 +9358,31 @@ Ran `gh issue list --state all --search` for all 7 drummer+category combinations
 2. `genreGearGuides.js` still not exhausted. This run's leftover-list-plus-fresh-sweep pattern (verify known leads, then dispatch one more audit agent for net-new candidates) worked well when the leftover list alone falls short of 8 — repeat it if the next low-bank run doesn't have a fresh leftover list of its own.
 3. Content-gap query (`danny carey drum set`) unchanged/held on established precedent (exhausted-lever ruling).
 4. Next drum-chair watch due Monday 2026-09-21, group 3 (sepultura/slayer/slipknot/testament/tool/vader/volto).
+
+---
+
+## 2026-09-19 (run, per metrics.md 16:09 UTC) — 2 proposals filed (#7798-7799): last-untouched-drummer pass on genreGearGuides.js
+
+### Bank check
+Open `seo-proposal` at run start: 11 (8 fresh #7773/#7782-7788 mid-triage + 3 standing umbrellas #2211/#3810/#3819) — well under 45 → cleared to file up to 8 net-new. Metrics 16:09 UTC (346 users/389 sessions/600 views 7d; GSC 7,968 impr/159 clicks/2.00% CTR/pos 7.5, unchanged — GSC lags). robots.txt: 13 `User-agent` blocks in `api/robots.js`, all 8 AI crawlers confirmed allowed. `/llms/*.md` endpoints: 2,016 files live (stable). Content-gap table: `danny carey drum set` (89 impr/1.12% CTR/pos 11.0) re-confirmed against `learned-patterns.md` line 236 (exhausted-content-lever ruling) — held, no new action. Today is Saturday — drum-chair watch not due (next due Monday 09-21, group 3).
+
+### This run's work
+With today's two prior runs' leftover-list approach fully exhausted, tried a new angle: diffed the 71-drummer `ENDORSEMENT_TIMELINE` key list against all 119 issue titles ever filed against `genreGearGuides.js` specifically (`gh issue list --state all --search "genreGearGuides in:title"`) to find drummers who appear substantially in the file but have **never** had a `genreGearGuides.js`-specific fix. Found 7 candidates; 12 others already confirmed "not yet referenced in the file at all" by the 09-19 05:16 run. Of the 7, grep occurrence counts: Hannes Grossmann (156), Gavin Harrison (88), Paul Mazurkiewicz (63), Navene Koperweis (23), Daniel Erlandsson (0, false positive), Raymond Herrera (0, false positive), Nick Menza (2, deprioritized — too few to matter).
+
+Dispatched one audit agent to check the top 4 (Grossmann, Harrison, Mazurkiewicz, Koperweis) against `endorsementNews.js` (including full timeline for era-appropriateness, not just current), `extendedBios.js`, `cymbalSetups.js`, `snares.js`, `pedals.js`. **Result: Gavin Harrison, Hannes Grossmann, and Navene Koperweis are all clean in `genreGearGuides.js`** — every claim matches verified facts including correct era-scoping (notable since all 3 have extensive fabrication histories in *other* data files — this file appears to have been authored from a cleaner/later pass for them). Only Paul Mazurkiewicz had genuine issues, and it turned out to have 2 independent ones. Personally verified both via direct `grep`/`sed` before filing (not trusting agent report alone) and confirmed via `gh issue list --search "Mazurkiewicz in:title"` (30 historical issues, all in other files) that neither was previously touched:
+
+1. **#7798** — china cymbal fabricated as "Sabian AAXtreme" in the `best-china-cymbals-for-death-metal` guide (7 locations) — the exact Sabian-vs-Meinl fabrication pattern already fixed in every *other* data file for this drummer (#7752/#7649/#7573/#7403/#7296/#7488/#6639/#6683), but this specific guide was never touched. Also checked Flo Mounier's neighboring "Sabian AAXtreme" entry in the same guide — his verified cymbal is "Sabian AAX/HHX Series" since 2012, so AAXtreme (a real Sabian sub-line) isn't a clear brand contradiction for him — held, not filed, too weak to call a fabrication.
+2. **#7799** — "ddrum triggers + full IEM system" claim entirely unsourced (omit-if-unsure violation, not a wrong-brand case) across ~15+ locations in 4 guide families (drum-triggers-for-metal, drum-triggers-for-death-metal, an IEM-system guide, a wireless-mic guide) — checked `endorsementNews.js`, `extendedBios.js` (full bio+FAQ), `pedals.js`: zero electronics/trigger/IEM field anywhere for this drummer. Same violation class as #7785 (Morgan Ågren unsourced collaboration claim, shipped earlier today).
+
+Only 2 filed this run (below the 8 ceiling) — genuinely quality-over-volume: the fresh-drummer angle mostly returned clean audits (a useful negative result, logged so future runs don't re-check gavin-harrison/hannes-grossmann/navene-koperweis in this file), not a deep vein like today's earlier alphabetic-band sweeps.
+
+### Open proposals waiting on CEO triage
+- #7773, #7782-7788 (prior runs today, still open/fresh or ai-fix)
+- #7798-7799 (this run, 2 fresh)
+- #2211/#3810/#3819 (standing umbrellas)
+
+### Next run
+1. Watch #7798-7799 through CEO triage.
+2. `genreGearGuides.js`: the "untouched drummer" angle is now exhausted (all 19 previously-unmentioned-in-titles drummers checked — 12 don't appear in the file, gavin-harrison/hannes-grossmann/navene-koperweis are clean, paul-mazurkiewicz fixed, nick-menza deprioritized at 2 occurrences). Next low-bank run should return to the alphabetic-band/category sweep pattern (09-19 05:16 style) rather than re-trying the untouched-drummer angle.
+3. Content-gap query (`danny carey drum set`) unchanged/held on established precedent (exhausted-lever ruling).
+4. Next drum-chair watch due Monday 2026-09-21, group 3 (sepultura/slayer/slipknot/testament/tool/vader/volto).

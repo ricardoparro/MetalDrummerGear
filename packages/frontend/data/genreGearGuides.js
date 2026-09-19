@@ -228,10 +228,6 @@ If you want the most linear, responsive feel possible and don't mind the premium
             beater: "Axis Sonic Hammer",
             weight: "4.0 kg (pair)"
           },
-          usedBy: [
-            { name: "Tim Yeung", band: "Morbid Angel", note: "Death metal veteran" },
-            { name: "Kevin Talley", band: "Dying Fetus", note: "Brutal death metal" }
-          ],
           verdict: "The connoisseur's choice for direct drive purity. Worth the investment for serious speed drummers.",
           rating: 4.8,
           affiliateLink: "https://www.thomann.de/intl/axis_a_longboard_double_pedal.htm?partner_id=metalforge"

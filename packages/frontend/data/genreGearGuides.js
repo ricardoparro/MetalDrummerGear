@@ -33968,7 +33968,7 @@ Start with an 18" in whatever alloy fits your budget, and consider a second, sma
       title: "Why Thrash Metal Drummers Never Skip a China",
       content: `Thrash metal moves fast and hits hard, and a china cymbal is the tool that lets a drummer punctuate that speed without slowing down. Where a crash rings out cleanly across a bar, a china explodes and decays fast — perfect for slamming down at the end of a palm-muted riff, kicking off a gang-vocal breakdown, or accenting the transition into a double-time thrash section.
 
-Lars Ulrich has used a 20" Zildjian Z Custom China throughout Metallica's thrash-defining catalog, from the Black Album through 72 Seasons. Dave Lombardo's 18" Paiste China provides the brutal punctuation on Slayer's "Angel of Death," while his successor Paul Bostaph carries a Sabian AAXtreme China across his own extensive Slayer tenure. Charlie Benante's Paiste RUDE & 2002 setup with Anthrax has relied on an 18" China since the band's earliest thrash recordings, and Dirk Verbeuren's 18" Meinl Byzance Brilliant China rounds out the modern era with Megadeth.
+Lars Ulrich has used a 20" Zildjian Z Custom China throughout Metallica's thrash-defining catalog, from the Black Album through 72 Seasons. Dave Lombardo's 18" Paiste China provides the brutal punctuation on Slayer's "Angel of Death," while his successor Paul Bostaph has carried a Sabian AAX Series China since Slayer's 2015 "Repentless" era, after earlier tenures on Paiste RUDE and Paiste 2002. Charlie Benante's Paiste RUDE & 2002 setup with Anthrax has relied on an 18" China since the band's earliest thrash recordings, and Dirk Verbeuren's 18" Meinl Byzance Brilliant China rounds out the modern era with Megadeth.
 
 This guide covers everything you need to pick the right china for thrash metal: size, alloy, and mounting, along with specific model recommendations across every budget for fast, riff-driven thrash metal drumming.`,
       keyPoints: [
@@ -33992,7 +33992,7 @@ This guide covers everything you need to pick the right china for thrash metal: 
         {
           name: "Alloy",
           icon: "⚙️",
-          description: "B20 bronze (Zildjian Z Custom, Sabian AAXtreme) delivers a complex, musical trash with more overtones. Paiste's CuSn8 bronze options bring a raw, aggressive character favored by thrash metal's earliest pioneers.",
+          description: "B20 bronze (Zildjian Z Custom, Sabian AAX Series) delivers a complex, musical trash with more overtones. Paiste's CuSn8 bronze options bring a raw, aggressive character favored by thrash metal's earliest pioneers.",
           recommendation: "B20 for pro-tier complexity, CuSn8 for raw, classic thrash aggression"
         },
         {
@@ -34103,21 +34103,21 @@ Dave Lombardo's 18" Paiste China provides the brutal, iconic punctuation on Slay
         },
         {
           rank: 3,
-          name: "Sabian AAXtreme China",
+          name: "Sabian AAX Series China",
           brand: "Sabian",
-          model: "18\" AAXtreme China",
+          model: "18\" AAX Series China",
           image: "https://upload.wikimedia.org/wikipedia/commons/7/74/Dixon-double-pedal.jpg",
           priceRange: "€190-240",
           tier: "pro",
           driveType: "B20 Bronze, Brilliant",
-          description: `The AAXtreme China balances bright cut with real trash, giving thrash metal drummers a versatile accent voice that keeps pace with the genre's rapid, palm-muted riffing.
+          description: `The AAX Series China balances bright cut with real trash, giving thrash metal drummers a versatile accent voice that keeps pace with the genre's rapid, palm-muted riffing.
 
-Paul Bostaph carries a Sabian AAXtreme China across his extensive Slayer tenure, giving the band's fast, aggressive material an accent voice with fast response and real cut.`,
+Paul Bostaph has carried a Sabian AAX Series China since joining Sabian for Slayer's "Repentless" era in 2015, giving the band's fast, aggressive material an accent voice with fast response and real cut.`,
           pros: [
             "Bright, cutting trash with good versatility",
             "Fast response keeps pace with rapid thrash riffing",
             "Reliable build quality from a major manufacturer",
-            "Proven across decades of Slayer's touring history"
+            "Proven throughout Slayer's Repentless-era touring"
           ],
           cons: [
             "Less raw/aggressive than Paiste RUDE alternatives",
@@ -34132,7 +34132,7 @@ Paul Bostaph carries a Sabian AAXtreme China across his extensive Slayer tenure,
             mounting: "Standard or Inverted"
           },
           usedBy: [
-            { name: "Paul Bostaph", band: "Slayer", note: "Fast, cutting accent across an extensive Slayer tenure" }
+            { name: "Paul Bostaph", band: "Slayer", note: "Fast, cutting accent since Slayer's 2015 Repentless era" }
           ],
           verdict: "The versatile all-rounder — bright enough to cut, fast enough for thrash metal's tempo.",
           rating: 4.6,
@@ -34209,7 +34209,7 @@ Its dark, complex character pairs well with a K Custom crash/ride setup, providi
           priceRange: "€100-130",
           tier: "mid",
           driveType: "B20 Bronze",
-          description: "The XSR line brings B20 bronze — normally reserved for pro-tier cymbals — down to a mid-range price. The Fast China responds quickly and offers real trash without the premium AAXtreme price tag.",
+          description: "The XSR line brings B20 bronze — normally reserved for pro-tier cymbals — down to a mid-range price. The Fast China responds quickly and offers real trash without the premium AAX Series price tag.",
           pros: [
             "B20 bronze at a mid-range price",
             "Fast response for quick accents",
@@ -34311,7 +34311,7 @@ Its dark, complex character pairs well with a K Custom crash/ride setup, providi
       { slug: 'lars-ulrich', name: 'Lars Ulrich', reason: 'Zildjian Z Custom China thrash pioneer' },
       { slug: 'dave-lombardo', name: 'Dave Lombardo', reason: 'Iconic Angel of Death china punctuation' },
       { slug: 'charlie-benante', name: 'Charlie Benante', reason: 'Paiste RUDE & 2002 China since Anthrax\'s earliest recordings' },
-      { slug: 'paul-bostaph', name: 'Paul Bostaph', reason: 'Sabian AAXtreme China across an extensive Slayer tenure' },
+      { slug: 'paul-bostaph', name: 'Paul Bostaph', reason: 'Sabian AAX Series China since Slayer\'s 2015 Repentless era' },
       { slug: 'dirk-verbeuren', name: 'Dirk Verbeuren', reason: 'Meinl Byzance Brilliant China for Megadeth\'s modern thrash' }
     ],
     relatedComparisons: [],

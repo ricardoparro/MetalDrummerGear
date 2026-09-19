@@ -977,7 +977,7 @@ If you want to try something different, the Remo Ambassador Coated offers a warm
     // SEO metadata
     title: "Best Drum Heads for Djent: 2026 Ultimate Guide",
     metaTitle: "Best Drum Heads for Djent in 2026 | MetalForge Expert Guide",
-    description: "Discover the best drum heads for djent drumming. Expert recommendations covering Evans and Remo — the exact heads used by Tomas Haake, Matt Halpern, Matt Garstka, and Blake Richardson for tight, controlled polyrhythmic attack.",
+    description: "Discover the best drum heads for djent drumming. Expert recommendations on the exact heads used by Tomas Haake, Matt Halpern, Matt Garstka, and Blake Richardson for tight, controlled polyrhythmic attack.",
     seoKeywords: [
       'best drum heads for djent',
       'djent drum heads',
@@ -1014,13 +1014,17 @@ If you want to try something different, the Remo Ambassador Coated offers a warm
       title: "Why Djent Needs a Different Drum Head Philosophy",
       content: `Djent didn't just reinvent metal guitar tone — it reinvented what a drum kit needs to sound like underneath it. Where classic metal wants a drum head that rings and breathes, djent's polyrhythmic, palm-muted, high-gain riffing demands toms and snares that speak instantly and die out fast. A drum head that sustains too long smears the pocket between the kick drum and a syncopated 7/8 guitar riff, and the whole groove turns to mud.
 
-Tomas Haake built the entire djent vocabulary around Meshuggah's mechanical precision, and his drum head choice reflects it — heads that respond immediately and get out of the way. Matt Halpern of Periphery and Matt Garstka of Animals as Leaders both play instrumental, effects-heavy music where every tom hit needs to read as a distinct pitch rather than a wash of overtones. Blake Richardson of Between the Buried and Me goes even further, running a documented combination of Evans Hybrid, EMAD, and EC2 SST heads chosen specifically to control ring at different points across his kit.
+Tomas Haake built the entire djent vocabulary around Meshuggah's mechanical precision, and his drum head choice reflects it — heads that respond immediately and get out of the way. Matt Garstka of Animals as Leaders shares that Remo-based approach, running Ambassador Coated heads that keep every tom hit reading as a distinct pitch in his instrumental, effects-heavy music rather than a wash of overtones.
+
+Matt Halpern of Periphery plays similarly instrumental, effects-heavy music but reaches for Evans to get that same distinct-pitch clarity. Blake Richardson of Between the Buried and Me goes even further, running a documented combination of Evans Hybrid, EMAD, and EC2 SST heads chosen specifically to control ring at different points across his kit.
 
 This guide breaks down exactly which drum heads deliver the tight, controlled, djent-ready tone — why edge-control rings and hydraulic constructions matter more here than almost anywhere else in metal, and which specific models the genre's defining drummers actually use.`,
       keyPoints: [
         "Djent prioritizes control and instant decay over open sustain",
         "Built-in muffling rings (Evans EC2 SST, Remo Emperor X) are the genre standard",
-        "Evans and Remo dominate the djent drummer roster — Tomas Haake uses Remo, while Matt Halpern, Matt Garstka, and Blake Richardson use Evans",
+        "Remo and Evans dominate the djent drummer roster",
+        "Tomas Haake and Matt Garstka both play Remo for a warmer, controlled voice",
+        "Matt Halpern and Blake Richardson round out the roster on Evans",
         "Kick drum heads matter as much as toms — EMAD-style muffled heads keep low end tight under palm-muted riffing"
       ]
     },
@@ -1165,7 +1169,7 @@ The oil layer also adds a distinctive low-mid warmth that keeps dry toms from so
 
           description: `The Remo Emperor X combines the double-ply Emperor's durability with a built-in muffling dot bonded beneath the top ply. The result is a controlled, focused attack similar in spirit to Evans' SST ring, but with Remo's characteristically warmer overall voice.
 
-Remo heads run across the djent-adjacent roster through Tomas Haake and other Wincent/Sonor-endorsed players, and the Emperor X is the natural choice for drummers who prefer Remo's feel but still need djent's controlled decay. The reinforced dot also adds real durability on the snare batter, where rimshot-heavy modern metalcore and djent patterns wear through standard heads fastest.`,
+Remo heads run across the djent-adjacent roster through Tomas Haake and Matt Garstka of Animals as Leaders, alongside other Wincent/Sonor-endorsed players, and the Emperor X is the natural choice for drummers who prefer Remo's feel but still need djent's controlled decay. The reinforced dot also adds real durability on the snare batter, where rimshot-heavy modern metalcore and djent patterns wear through standard heads fastest.`,
 
           pros: [
             "Built-in dot muffling without taping or gel",
@@ -1188,6 +1192,7 @@ Remo heads run across the djent-adjacent roster through Tomas Haake and other Wi
           },
           usedBy: [
             { name: "Tomas Haake", band: "Meshuggah", note: "Remo endorser — controlled attack for polyrhythmic patterns" },
+            { name: "Matt Garstka", band: "Animals as Leaders", note: "Remo Ambassador Coated since 2012 — controlled attack for instrumental djent clarity" },
             { name: "Progressive metal session players", band: "Various", note: "Remo alternative to Evans SST-series control" }
           ],
           verdict: "The best Remo option for djent's controlled-decay requirement. Choose this over Emperor if you want built-in muffling.",
@@ -1244,7 +1249,7 @@ Blake Richardson uses an EMAD-family head on his kicks for exactly this flexibil
           tier: "mid-pro",
           material: "2-Ply Coated (7mil + 7mil)",
 
-          description: `Not every djent tom needs SST-level control — sometimes the standard G2 Coated is exactly right, particularly for drummers whose djent leans slightly more organic, like Matt Halpern and Matt Garstka's instrumental-leaning approach. The G2 gives a warm, focused attack with natural sustain reduction, letting a mix engineer add controlled gating rather than baking maximum dryness into the head itself.
+          description: `Not every djent tom needs SST-level control — sometimes the standard G2 Coated is exactly right, particularly for drummers whose djent leans slightly more organic, like Matt Halpern's instrumental-leaning approach. The G2 gives a warm, focused attack with natural sustain reduction, letting a mix engineer add controlled gating rather than baking maximum dryness into the head itself.
 
 It's also simply the most versatile head on this list — usable across every drum on the kit, and a sensible default if you're building a djent-capable kit that also needs to cover other progressive metal styles.`,
 
@@ -1268,8 +1273,7 @@ It's also simply the most versatile head on this list — usable across every dr
             sizes: "6\" to 26\""
           },
           usedBy: [
-            { name: "Matt Halpern", band: "Periphery", note: "Evans endorser — crisp, controlled attack" },
-            { name: "Matt Garstka", band: "Animals as Leaders", note: "Evans heads for instrumental djent clarity" }
+            { name: "Matt Halpern", band: "Periphery", note: "Evans endorser — crisp, controlled attack" }
           ],
           verdict: "The versatile, do-everything option. A safe pro-tier default if SST-level control isn't your priority.",
           rating: 4.5,
@@ -1349,12 +1353,12 @@ It's also simply the most versatile head on this list — usable across every dr
 - SST edge-ring technology (EC2 SST) is the closest thing to a djent-standard head
 - Hydraulic construction offers the driest, most controlled tone available from either brand
 - EMAD2 kick heads give adjustable muffling most drummers actually use
-- Preferred by: Matt Halpern, Matt Garstka, Blake Richardson
+- Preferred by: Matt Halpern, Blake Richardson
 
 **Remo:**
 - Emperor X and Ambassador X built-in dot muffling systems offer a warmer alternative to SST
 - Slightly more musical, less clinical low end than equivalent Evans constructions
-- Preferred by: Tomas Haake and the broader Sonor/Wincent-endorsed roster
+- Preferred by: Tomas Haake, Matt Garstka, and the broader Sonor/Wincent-endorsed roster
 
 **Our Take:** Evans EC2 SST is the default choice if you want the tightest, most consistent controlled tone across a full kit. Remo Emperor X is the pick if you prefer a slightly warmer voice while keeping the same built-in muffling philosophy.`,
       comparisonTable: [
@@ -1403,7 +1407,7 @@ It's also simply the most versatile head on this list — usable across every dr
     relatedDrummers: [
       { slug: 'tomas-haake', name: 'Tomas Haake', reason: 'Remo endorser — controlled, mechanical Meshuggah attack' },
       { slug: 'matt-halpern', name: 'Matt Halpern', reason: 'Evans heads — crisp, controlled Periphery precision' },
-      { slug: 'matt-garstka', name: 'Matt Garstka', reason: 'Evans heads — instrumental djent clarity for Animals as Leaders' },
+      { slug: 'matt-garstka', name: 'Matt Garstka', reason: 'Remo Ambassador Coated — instrumental djent clarity for Animals as Leaders' },
       { slug: 'blake-richardson', name: 'Blake Richardson', reason: 'Evans Hybrid/EMAD/EC2 SST combination for prog-djent control' }
     ],
 
@@ -1417,7 +1421,8 @@ It's also simply the most versatile head on this list — usable across every dr
     faq: [
       {
         question: "What drum heads do djent drummers use?",
-        answer: "Djent drummers overwhelmingly favor controlled, muffled heads. Tomas Haake and other Sonor/Wincent-endorsed players use Remo, while Matt Halpern, Matt Garstka, and Blake Richardson use Evans. Blake Richardson's documented setup — Evans Hybrid on snare, EMAD on kicks, and EC2 SST on toms — is the most detailed public reference for a djent-ready head combination."
+        answer: "Djent drummers overwhelmingly favor controlled, muffled heads. Tomas Haake and Matt Garstka use Remo, alongside other Sonor/Wincent-endorsed players. " +
+          "Matt Halpern and Blake Richardson use Evans instead — Blake Richardson's documented setup, Evans Hybrid on snare, EMAD on kicks, and EC2 SST on toms, is the most detailed public reference for a djent-ready head combination."
       },
       {
         question: "Why do djent drummers use so much muffling on their drum heads?",

@@ -84057,13 +84057,13 @@ Budget shouldn't stop you either. A Pearl Export bass drum with a Tama Iron Cobr
     // SEO metadata
     title: "Best Bass Drums for Mathcore: 2026 Ultimate Guide",
     metaTitle: "Best Bass Drums for Mathcore in 2026 | MetalForge Expert Guide",
-    description: "Best bass drum setups for mathcore's rapid time-signature shifts: what Ben Koller (Tama Starclassic), Matt Greiner (Mapex Black Panther Design Lab), Blake Richardson (Pearl Reference Pure), and Danny Carey (Sonor SQ2) actually play. Tight, fast-decaying low end for odd-meter precision — ranked budget to pro.",
+    description: "Best bass drum setups for mathcore's rapid time-signature shifts: what Ben Koller (Tama Starclassic), Matt Greiner (Mapex Black Panther Design Lab), Blake Richardson (Tama Starclassic Bubinga), and Danny Carey (Sonor SQ2) actually play. Tight, fast-decaying low end for odd-meter precision — ranked budget to pro.",
     seoKeywords: [
       'best bass drums for mathcore',
       'mathcore bass drum setup',
       'ben koller bass drum tama',
       'matt greiner bass drum mapex',
-      'blake richardson bass drum pearl',
+      'blake richardson bass drum tama',
       'danny carey bass drum sonor',
       'tight bass drum for odd time signatures',
       'fast decay bass drum metal',
@@ -84094,7 +84094,7 @@ Budget shouldn't stop you either. A Pearl Export bass drum with a Tama Iron Cobr
       title: "What Bass Drum Setup Handles Mathcore's Rapid Time-Signature Shifts?",
       content: `Mathcore's constantly shifting time signatures and asymmetrical rhythmic cells put a very different demand on a bass drum than straightforward hardcore or metalcore. Instead of a big, sustained, resonant thump, the genre rewards a tight, fast-decaying low end that can articulate individual hits clearly even as the meter jumps from 7/8 to 11/16 mid-phrase. A bass drum that rings out too long smears notes together that need to stay rhythmically distinct — precision matters more here than raw weight.
 
-Ben Koller of Converge — whose fluid control within apparent rhythmic chaos on "Jane Doe" (2001) turned mathcore's unpredictability into genuine musical expression rather than mere noise — plays a Tama Starclassic Performer B/B bass drum through a Tama Iron Cobra double pedal, favoring a stripped-down setup that keeps every hit tight and controlled. Matt Greiner of August Burns Red runs a Mapex Black Panther Design Lab bass drum with a DW 9000 Series double pedal, giving his jazz-influenced, odd-time phrasing an immediate, well-defined low end. Blake Richardson of Between the Buried and Me plays a Pearl Reference Pure or Masters Maple bass drum, through a Pearl Demon Drive double pedal, built to keep pace with BTBAM's genre-hopping meter changes without losing articulation. Danny Carey of Tool, whose Fibonacci-structured polyrhythms on "Lateralus" established a mathematically rigorous drumming standard that directly informed mathcore's own rhythmic ambitions, runs a Sonor SQ2 Heavy Beech bass drum with a Sonor Giant Step Twin Effect double pedal for dark, controlled definition across constantly shifting meters.
+Ben Koller of Converge — whose fluid control within apparent rhythmic chaos on "Jane Doe" (2001) turned mathcore's unpredictability into genuine musical expression rather than mere noise — plays a Tama Starclassic Performer B/B bass drum through a Tama Iron Cobra double pedal, favoring a stripped-down setup that keeps every hit tight and controlled. Matt Greiner of August Burns Red runs a Mapex Black Panther Design Lab bass drum with a DW 9000 Series double pedal, giving his jazz-influenced, odd-time phrasing an immediate, well-defined low end. Blake Richardson of Between the Buried and Me plays a Tama Starclassic Bubinga bass drum, driven by twin Tama Iron Cobra Power Glide single pedals rather than a linked double pedal, built to keep pace with BTBAM's genre-hopping meter changes without losing articulation. Danny Carey of Tool, whose Fibonacci-structured polyrhythms on "Lateralus" established a mathematically rigorous drumming standard that directly informed mathcore's own rhythmic ambitions, runs a Sonor SQ2 Heavy Beech bass drum with a Sonor Giant Step Twin Effect double pedal for dark, controlled definition across constantly shifting meters.
 
 This guide breaks down shell size, head selection, and pedal choice for mathcore bass drums — comparing tight, fast-decaying setups across four drummers whose hardcore-rooted and progressive lineages define the genre's rhythmically unpredictable precision, with recommendations from budget to professional touring rigs.`,
       keyPoints: [
@@ -84124,7 +84124,7 @@ This guide breaks down shell size, head selection, and pedal choice for mathcore
         {
           name: "Precise, Immediate Pedal Response",
           icon: "🦶",
-          description: "Ben Koller's Tama Iron Cobra, Matt Greiner's DW 9000, and Blake Richardson's Pearl Demon Drive pedals all prioritize immediate, predictable response — essential for landing accurately on mathcore's sudden tempo and meter changes without lagging behind the band's rhythmic whiplash.",
+          description: "Ben Koller's Tama Iron Cobra, Matt Greiner's DW 9000, and Blake Richardson's twin Tama Iron Cobra Power Glide pedals all prioritize immediate, predictable response — essential for landing accurately on mathcore's sudden tempo and meter changes without lagging behind the band's rhythmic whiplash.",
           recommendation: "A pedal tuned for immediate, predictable response over maximum top-end speed"
         },
         {
@@ -84234,43 +84234,43 @@ The Design Lab's maple/walnut hybrid shell balances low-end depth with a control
         },
         {
           rank: 3,
-          name: "Pearl Reference Pure/Masters Maple + Pearl Demon Drive",
-          brand: "Pearl",
-          model: "Reference Pure or Masters Maple 22\"x18\" + Pearl Demon Drive Double Pedal",
+          name: "Tama Starclassic Bubinga + Twin Tama Iron Cobra Power Glide",
+          brand: "Tama",
+          model: "Starclassic Bubinga 22\"x18\" + Twin Iron Cobra Power Glide Single Pedals",
           image: "https://upload.wikimedia.org/wikipedia/commons/6/6c/Acoustic_Drums_Kit_%2829965183378%29.jpg",
           priceRange: "€650-900",
           tier: "pro",
-          material: "Maple, 22\"x18\" + direct-drive double pedal",
+          material: "Bubinga, 22\"x18\" + twin single pedals",
 
-          description: `Blake Richardson's Pearl Reference Pure or Masters Maple bass drum, also driven by a Pearl Demon Drive double pedal, handles Between the Buried and Me's genre-hopping technicality — dramatic swings between acoustic-adjacent passages and full technical death metal density that mathcore's own unpredictability shares a lineage with.
+          description: `Blake Richardson's Tama Starclassic Bubinga bass drum, driven by twin Tama Iron Cobra Power Glide single pedals rather than one shell paired with a linked double pedal, handles Between the Buried and Me's genre-hopping technicality — dramatic swings between acoustic-adjacent passages and full technical death metal density that mathcore's own unpredictability shares a lineage with.
 
-Richardson's versatile setup gives him room to punctuate BTBAM's odd-time whiplash without a one-dimensional attack, proving that a well-tuned Pearl bass drum can serve both mathcore-adjacent chaos and moments of genuine melodic restraint within the same composition.`,
+Richardson switched from his earlier DW setup to this Tama and twin Iron Cobra Power Glide configuration in 2018, and it gives him room to punctuate BTBAM's odd-time whiplash without a one-dimensional attack, proving that a well-tuned Bubinga shell can serve both mathcore-adjacent chaos and moments of genuine melodic restraint within the same composition.`,
 
           pros: [
             "Blake Richardson's BTBAM setup — genre-hopping technicality that shares mathcore's unpredictable lineage",
-            "Maple shell option offers a warmer, punchier tone than Reference Pure's hybrid ply",
-            "Pearl Demon Drive delivers dependable, direct-drive response for odd-time accents",
-            "Proven across BTBAM's most acclaimed technical recordings",
+            "Bubinga shell offers a warmer, punchier tone than birch or maple alternatives",
+            "Twin Iron Cobra Power Glide single pedals deliver dependable, independent response for odd-time accents",
+            "Proven across BTBAM's most acclaimed technical recordings since the 2018 gear switch",
             "Versatile enough to serve both aggressive and restrained dynamic extremes"
           ],
           cons: [
-            "Shell choice varies by tour, offering less of a single defining setup",
-            "Premium Pearl Reference Pure/Masters Maple pricing",
+            "Twin-pedal setup requires two full bass drums rather than a single shell with a double pedal",
+            "Premium Starclassic Bubinga pricing",
             "22\"x18\" size needs careful muffling to stay controlled at mathcore's faster tempos"
           ],
           specs: {
             diameter: "22\"",
             depth: "18\"",
-            shell: "Maple (Reference Pure/Masters Maple)",
-            pedal: "Pearl Demon Drive double pedal",
-            headRecommendation: "Remo Controlled Sound"
+            shell: "Bubinga (Starclassic Bubinga)",
+            pedal: "Twin Tama Iron Cobra Power Glide single pedals",
+            headRecommendation: "Evans G2 Coated"
           },
           usedBy: [
-            { name: "Blake Richardson", band: "Between the Buried and Me", note: "22\"x18\" Pearl Reference Pure/Masters Maple + Demon Drive — genre-hopping mathcore-adjacent technicality" }
+            { name: "Blake Richardson", band: "Between the Buried and Me", note: "22\"x18\" Tama Starclassic Bubinga + twin Iron Cobra Power Glide single pedals — genre-hopping mathcore-adjacent technicality" }
           ],
           verdict: "Best for genre-hopping, dynamically extreme mathcore-adjacent material. Richardson's setup flexes across the full dynamic range.",
           rating: 4.5,
-          affiliateLink: "https://www.thomann.de/intl/pearl_reference_masters_demon_drive.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/tama_starclassic_bubinga_iron_cobra_powerglide.htm?partner_id=metalforge"
         },
         {
           rank: 4,
@@ -84327,10 +84327,10 @@ The dense beech shell delivers dark, controlled definition that holds up whether
           priceRange: "€150-220",
           tier: "budget",
           material: "Poplar/Mahogany",
-          description: "The Pearl Export bass drum shares its shell family with Blake Richardson's professional Pearl setup at a fraction of the price. Pair it with moderate internal muffling to develop mathcore's tight, fast-decaying tone.",
-          pros: ["Same shell family as Richardson's pro Pearl setup", "Affordable, widely available entry point", "Responsive enough to develop odd-meter technique"],
-          cons: ["Less controlled low-end definition than pro Reference Pure or Starclassic shells", "Basic hardware compared to signature models"],
-          verdict: "Best budget entry into mathcore's tight, fast-decaying Pearl-family sound.",
+          description: "The Pearl Export bass drum is an affordable, widely available shell that's easy to source. Pair it with moderate internal muffling to develop mathcore's tight, fast-decaying tone before stepping up to a pro-level Starclassic, Starclassic Bubinga, or Black Panther Design Lab shell.",
+          pros: ["Affordable, widely available entry point", "Responsive enough to develop odd-meter technique"],
+          cons: ["Less controlled low-end definition than pro Starclassic or Black Panther Design Lab shells", "Basic hardware compared to signature models"],
+          verdict: "Best budget entry into mathcore's tight, fast-decaying tone.",
           rating: 4.1,
           affiliateLink: "https://www.thomann.de/intl/pearl_export_bass_drum.htm?partner_id=metalforge"
         },
@@ -84353,7 +84353,7 @@ The dense beech shell delivers dark, controlled definition that holds up whether
 
     // Comparison
     comparison: {
-      title: "Tama Iron Cobra vs DW 9000 vs Pearl Demon Drive vs Sonor Giant Step Twin Effect for Mathcore",
+      title: "Tama Iron Cobra vs DW 9000 vs Tama Iron Cobra Power Glide vs Sonor Giant Step Twin Effect for Mathcore",
       content: `Pedal choice splits mathcore's founding and progressive-adjacent drummers into distinct camps, even as shell size stays relatively close across the lineage. Here's how they compare:
 
 **Tama Iron Cobra (Ben Koller):**
@@ -84366,8 +84366,8 @@ The dense beech shell delivers dark, controlled definition that holds up whether
 - Immediate, dual-chain response tuned to precise, technical dynamics
 - Best for technical, math metal-adjacent mathcore
 
-**Pearl Demon Drive (Blake Richardson):**
-- Immediate, direct-drive response suited to dynamic, genre-hopping material
+**Tama Iron Cobra Power Glide (Blake Richardson):**
+- Twin single pedals deliver immediate, independent response suited to dynamic, genre-hopping material
 - Versatile across both technical precision and dramatic dynamic swings
 - Best for progressive-leaning, genre-hopping mathcore-adjacent material
 
@@ -84376,7 +84376,7 @@ The dense beech shell delivers dark, controlled definition that holds up whether
 - Treats rhythmic complexity as songwriting structure over technical display
 - Best for progressive, patient mathcore-adjacent compositions
 
-**Our Recommendation:** Start with a Pearl Export shell and a Tama Iron Cobra 600 double pedal if you're building mathcore technique on a budget. Choose the DW 9000 if your material demands jazz-informed odd-time precision, or Pearl Demon Drive if it blends technical precision with dynamic, genre-hopping restraint. Go with Ben Koller's Tama Starclassic/Iron Cobra combination if your priority is mathcore's founding, hardcore-rooted tightness.`,
+**Our Recommendation:** Start with a Pearl Export shell and a Tama Iron Cobra 600 double pedal if you're building mathcore technique on a budget. Choose the DW 9000 if your material demands jazz-informed odd-time precision, or twin Iron Cobra Power Glide single pedals if it blends technical precision with dynamic, genre-hopping restraint. Go with Ben Koller's Tama Starclassic/Iron Cobra combination if your priority is mathcore's founding, hardcore-rooted tightness.`,
       comparisonTable: [
         { feature: "Decay Control", maple: "⭐⭐⭐⭐⭐", hybrid: "⭐⭐⭐⭐", dual: "⭐⭐⭐" },
         { feature: "Odd-Time Precision", maple: "⭐⭐⭐⭐", hybrid: "⭐⭐⭐⭐⭐", dual: "⭐⭐⭐⭐⭐" },
@@ -84401,13 +84401,13 @@ The dense beech shell delivers dark, controlled definition that holds up whether
         },
         {
           category: "Best for Genre-Hopping Dynamics",
-          pedal: "Pearl Reference Pure/Masters Maple + Pearl Demon Drive",
+          pedal: "Tama Starclassic Bubinga + Twin Tama Iron Cobra Power Glide",
           reason: "Blake Richardson's BTBAM setup — dramatic dynamic range across mathcore-adjacent technicality."
         },
         {
           category: "Best Budget",
           pedal: "Pearl Export Bass Drum",
-          reason: "The same Pearl shell family DNA at accessible pricing. A real starting point before upgrading."
+          reason: "An affordable, durable shell family that's easy to find. A real starting point before upgrading."
         }
       ]
     },
@@ -84421,7 +84421,7 @@ The dense beech shell delivers dark, controlled definition that holds up whether
     relatedDrummers: [
       { slug: 'ben-koller', name: 'Ben Koller', reason: 'Tama Starclassic Performer B/B + Iron Cobra — Converge mathcore\'s founding tight attack' },
       { slug: 'matt-greiner', name: 'Matt Greiner', reason: 'Mapex Black Panther Design Lab + DW 9000 — August Burns Red math metal complexity' },
-      { slug: 'blake-richardson', name: 'Blake Richardson', reason: 'Pearl Reference Pure/Masters Maple + Demon Drive — BTBAM genre-hopping technicality' },
+      { slug: 'blake-richardson', name: 'Blake Richardson', reason: 'Tama Starclassic Bubinga + twin Iron Cobra Power Glide — BTBAM genre-hopping technicality' },
       { slug: 'danny-carey', name: 'Danny Carey', reason: 'Sonor SQ2 Heavy Beech + Giant Step Twin Effect — Tool\'s Fibonacci-structured rigor' }
     ],
 
@@ -84429,7 +84429,7 @@ The dense beech shell delivers dark, controlled definition that holds up whether
     featuredDrummers: [
       { slug: 'ben-koller', name: 'Ben Koller', reason: 'Tama Starclassic Performer B/B + Iron Cobra — Converge mathcore\'s founding tight attack' },
       { slug: 'matt-greiner', name: 'Matt Greiner', reason: 'Mapex Black Panther Design Lab + DW 9000 — August Burns Red math metal complexity' },
-      { slug: 'blake-richardson', name: 'Blake Richardson', reason: 'Pearl Reference Pure/Masters Maple + Demon Drive — BTBAM genre-hopping technicality' },
+      { slug: 'blake-richardson', name: 'Blake Richardson', reason: 'Tama Starclassic Bubinga + twin Iron Cobra Power Glide — BTBAM genre-hopping technicality' },
       { slug: 'danny-carey', name: 'Danny Carey', reason: 'Sonor SQ2 Heavy Beech + Giant Step Twin Effect — Tool\'s Fibonacci-structured rigor' }
     ],
 
@@ -84437,11 +84437,11 @@ The dense beech shell delivers dark, controlled definition that holds up whether
     faq: [
       {
         question: "Who are the best mathcore-adjacent drummers and what bass drum setups do they use?",
-        answer: "Ben Koller of Converge, whose work on \"Jane Doe\" (2001) defined mathcore's founding sound, plays a Tama Starclassic Performer B/B bass drum with a Tama Iron Cobra double pedal. Matt Greiner of August Burns Red plays a Mapex Black Panther Design Lab bass drum with a DW 9000 Series double pedal, and Blake Richardson of Between the Buried and Me plays a Pearl Reference Pure or Masters Maple bass drum with a Pearl Demon Drive."
+        answer: "Ben Koller of Converge, whose work on \"Jane Doe\" (2001) defined mathcore's founding sound, plays a Tama Starclassic Performer B/B bass drum with a Tama Iron Cobra double pedal. Matt Greiner of August Burns Red plays a Mapex Black Panther Design Lab bass drum with a DW 9000 Series double pedal, and Blake Richardson of Between the Buried and Me plays a Tama Starclassic Bubinga bass drum with twin Tama Iron Cobra Power Glide single pedals."
       },
       {
         question: "What bass drum pedal handles mathcore's rapid time-signature shifts best?",
-        answer: "Ben Koller's Tama Iron Cobra, Matt Greiner's DW 9000, and Blake Richardson's Pearl Demon Drive are all prized for immediate, predictable response — essential for landing accurately on mathcore's sudden meter changes. Danny Carey's Sonor Giant Step Twin Effect supports more intricate, compositionally driven foot patterns for the genre's most progressive wing."
+        answer: "Ben Koller's Tama Iron Cobra, Matt Greiner's DW 9000, and Blake Richardson's twin Tama Iron Cobra Power Glide pedals are all prized for immediate, predictable response — essential for landing accurately on mathcore's sudden meter changes. Danny Carey's Sonor Giant Step Twin Effect supports more intricate, compositionally driven foot patterns for the genre's most progressive wing."
       },
       {
         question: "What bass drum size is best for mathcore?",
@@ -84453,18 +84453,18 @@ The dense beech shell delivers dark, controlled definition that holds up whether
       },
       {
         question: "Do I need a pro-level bass drum to play mathcore?",
-        answer: "No — a Pearl Export bass drum with a Tama Iron Cobra 600 double pedal will teach real odd-time technique and fast-decaying control at a fraction of the price of the genre's professional Starclassic, Reference Pure, and Sonor SQ2 setups. Upgrade to a tighter, hand-tuned pro shell once your technique and budget allow."
+        answer: "No — a Pearl Export bass drum with a Tama Iron Cobra 600 double pedal will teach real odd-time technique and fast-decaying control at a fraction of the price of the genre's professional Starclassic, Starclassic Bubinga, and Sonor SQ2 setups. Upgrade to a tighter, hand-tuned pro shell once your technique and budget allow."
       }
     ],
 
     // Conclusion
     conclusion: {
       title: "Find Your Mathcore Bass Drum Setup",
-      content: `Mathcore bass drum choice comes down to how much rhythmic precision your material's constantly shifting meters demand. Ben Koller's tight, controlled Tama Starclassic Performer B/B and Iron Cobra setup defined the genre's founding, hardcore-rooted low end with Converge's landmark "Jane Doe." Matt Greiner's Mapex Black Panther Design Lab and DW 9000 rig proved that math metal's rhythmic complexity could carry into mathcore-adjacent metalcore's mainstream audience, while Blake Richardson's Pearl setup shows the dynamic flexibility genre-hopping mathcore-adjacent material demands. Danny Carey's Sonor SQ2 and Giant Step Twin Effect rig demonstrates how a dark, controlled bass drum voice can serve mathematically rigorous, Fibonacci-structured composition over pure technical display.
+      content: `Mathcore bass drum choice comes down to how much rhythmic precision your material's constantly shifting meters demand. Ben Koller's tight, controlled Tama Starclassic Performer B/B and Iron Cobra setup defined the genre's founding, hardcore-rooted low end with Converge's landmark "Jane Doe." Matt Greiner's Mapex Black Panther Design Lab and DW 9000 rig proved that math metal's rhythmic complexity could carry into mathcore-adjacent metalcore's mainstream audience, while Blake Richardson's Tama setup shows the dynamic flexibility genre-hopping mathcore-adjacent material demands. Danny Carey's Sonor SQ2 and Giant Step Twin Effect rig demonstrates how a dark, controlled bass drum voice can serve mathematically rigorous, Fibonacci-structured composition over pure technical display.
 
 None of these approaches is more "correct" — all four represent mathcore's founding commitment to a bass drum that can turn rhythmic chaos into genuine musical expression. Start with whichever shell size and pedal response matches your material's balance of hardcore-rooted aggression and progressive complexity, and don't be afraid to tune for a shorter decay than a typical metalcore setup would suggest.
 
-Budget shouldn't stop you either. A Pearl Export bass drum with a Tama Iron Cobra 600 double pedal will teach real technique and survive demanding practice while you save toward the Starclassic, Reference Pure, and Sonor SQ2 setups that defined this lineage's most influential records.
+Budget shouldn't stop you either. A Pearl Export bass drum with a Tama Iron Cobra 600 double pedal will teach real technique and survive demanding practice while you save toward the Starclassic, Starclassic Bubinga, and Sonor SQ2 setups that defined this lineage's most influential records.
 
 🤘 **Now go conquer that odd meter.**`
     }
@@ -114321,7 +114321,7 @@ Its tight, punchy character survives Converge's raw hardcore-metal fury without 
           tier: "pro",
           material: "2-Ply Coated with Reinforcement Dot (10mil + 7mil)",
 
-          description: `The Emperor X adds a reinforcement dot to the standard double-ply Emperor, extending head life significantly under the uneven, unpredictable impact patterns mathcore's constant rhythmic shifts produce. It's built for drummers whose technical, genre-hopping material — like Blake Richardson's with Between the Buried and Me — never settles into one consistent striking pattern.
+          description: `The Emperor X adds a reinforcement dot to the standard double-ply Emperor, extending head life significantly under the uneven, unpredictable impact patterns mathcore's constant rhythmic shifts produce. It's built for drummers whose technical, genre-hopping material never settles into one consistent striking pattern.
 
 The extra reinforcement means fewer surprises mid-tour, which matters when a song can demand anything from a delicate ghost note to a full-force accent within the same bar.`,
 
@@ -114345,7 +114345,7 @@ The extra reinforcement means fewer surprises mid-tour, which matters when a son
             sizes: "6\" to 18\""
           },
           usedBy: [
-            { name: "Blake Richardson", band: "Between the Buried and Me", note: "Reinforced consistency for genre-hopping technical whiplash" }
+            { name: "Technical mathcore drummers", band: "Various", note: "Reinforced consistency for genre-hopping technical whiplash" }
           ],
           verdict: "The most durable choice for drummers whose material never settles into one predictable striking pattern.",
           rating: 4.5,
@@ -114439,13 +114439,13 @@ For material that swings between Danny Carey's Fibonacci-structured polyrhythms 
 - G2 Coated is the most balanced, reliable choice for tracking constantly shifting accents
 - Level 360 collar holds tuning through the genre's most violent dynamic swings
 - EMAD 2's adjustable muffling adapts to unpredictable, stop-start bass drum patterns
-- Preferred by: Matt Greiner, Danny Carey
+- Preferred by: Matt Greiner, Danny Carey, Blake Richardson
 
 **Remo:**
 - Powerstroke P3's built-in muffling gives instant, consistent tone across shifting song structures
 - Emperor X's reinforcement dot extends life under genre-hopping technical whiplash
 - Slightly warmer, punchier voice than equivalent Evans options
-- Preferred by: Ben Koller, Blake Richardson
+- Preferred by: Ben Koller
 
 **Our Take:** Evans G2 Coated is the genre's most dependable, balanced standard for tracking mathcore's constant rhythmic whiplash. Remo Emperor X is the right call if your material is especially unpredictable and demands maximum reinforcement.`,
       comparisonTable: [
@@ -114469,7 +114469,7 @@ For material that swings between Danny Carey's Fibonacci-structured polyrhythms 
         {
           category: "Best for Maximum Reinforcement",
           pedal: "Remo Emperor X Coated",
-          reason: "Blake Richardson's choice — a reinforcement dot built to survive genre-hopping rhythmic whiplash."
+          reason: "A reinforcement dot built to survive genre-hopping rhythmic whiplash — the most durable choice for unpredictable technical material."
         },
         {
           category: "Best Bass Drum Head",
@@ -114508,7 +114508,7 @@ For material that swings between Danny Carey's Fibonacci-structured polyrhythms 
     faq: [
       {
         question: "What drum heads do mathcore drummers use?",
-        answer: "Mathcore drummers generally favor durable, reinforced double-ply heads that stay consistent under unpredictable playing. Matt Greiner of August Burns Red and Danny Carey of Tool both rely on Evans double-ply heads, while Ben Koller of Converge and Blake Richardson of Between the Buried and Me favor Remo's reinforced options."
+        answer: "Mathcore drummers generally favor durable, reinforced double-ply heads that stay consistent under unpredictable playing. Matt Greiner of August Burns Red, Danny Carey of Tool, and Blake Richardson of Between the Buried and Me all rely on Evans double-ply heads, while Ben Koller of Converge favors Remo's reinforced options."
       },
       {
         question: "Why does mathcore need more durable heads than other metal genres?",
@@ -114531,7 +114531,7 @@ For material that swings between Danny Carey's Fibonacci-structured polyrhythms 
     // Conclusion
     conclusion: {
       title: "Find Your Mathcore-Ready Head",
-      content: `Mathcore's drum head choice comes down to one question: can it stay consistent no matter what the next bar throws at it? Matt Greiner's Evans G2 Coated and Danny Carey's Evans EMAD 2 both prove that balanced, reliable double-ply construction handles the genre's rhythmic whiplash better than anything specialized for one particular playing style. Ben Koller's Remo Powerstroke P3 and Blake Richardson's Remo Emperor X show that reinforced construction pays off when your material genuinely never settles into a predictable pattern.
+      content: `Mathcore's drum head choice comes down to one question: can it stay consistent no matter what the next bar throws at it? Matt Greiner's Evans G2 Coated, Danny Carey's Evans EMAD 2, and Blake Richardson's Evans G2 Coated all prove that balanced, reliable double-ply construction handles the genre's rhythmic whiplash better than anything specialized for one particular playing style. Ben Koller's Remo Powerstroke P3 shows that reinforced construction pays off when your material genuinely never settles into a predictable pattern.
 
 Start with a reinforced double-ply head like the Evans G2 or Remo Emperor X, and prioritize tuning stability and dynamic consistency over raw tone shaping — mathcore's whiplash will test both relentlessly.
 

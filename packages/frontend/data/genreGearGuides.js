@@ -32675,7 +32675,7 @@ Start with an 18" fast-decay china in whatever alloy fits your budget, and don't
     // SEO metadata
     title: "Best China Cymbals for Death Metal: 2026 Ultimate Guide",
     metaTitle: "Best China Cymbals for Death Metal in 2026 | MetalForge Expert Guide",
-    description: "Discover the best china cymbals for death metal drumming. Expert recommendations on trashy, blast-beat-ready accent cymbals that cut through downtuned, dense mixes, featuring the exact chinas used by Gene Hoglan, Paul Mazurkiewicz, George Kollias, and Derek Roddy.",
+    description: "Discover the best china cymbals for death metal drumming. Expert recommendations on trashy, blast-beat-ready accent cymbals that cut through downtuned, dense mixes, featuring the exact chinas used by Gene Hoglan, George Kollias, and Derek Roddy.",
     seoKeywords: [
       'best china cymbal for death metal',
       'china cymbal blast beats',
@@ -32712,7 +32712,7 @@ Start with an 18" fast-decay china in whatever alloy fits your budget, and don't
       title: "Why Death Metal Drummers Reach for a China",
       content: `Death metal buries its cymbal work under downtuned guitars, blast beats, and vocals scraped from the bottom of the throat — which means an accent cymbal has to be genuinely trashy to register at all. A china delivers exactly that: a short, dirty, explosive attack that punches through the mix for a fill-ending crash or a breakdown hit, then gets out of the way before the next blast beat run buries it again.
 
-Gene Hoglan has carried a 20" Sabian AAX China across four decades of work in Death, Testament, and Dethklok, using it as a reliable punctuation mark regardless of which brutal project he's tracking for. Paul Mazurkiewicz's 18" Sabian AAXtreme China anchors Cannibal Corpse's dense, riff-driven attack, while George Kollias pairs an 18" Zildjian China with his K Custom Dark crashes to punctuate Nile's blast-beat-heavy, Egyptian-tinged death metal. Derek Roddy's 18" Meinl Byzance China rounds out the picture, giving his work in Hate Eternal and Nile a darker, heavier trash tone.
+Gene Hoglan has carried a 20" Sabian AAX China across four decades of work in Death, Testament, and Dethklok, using it as a reliable punctuation mark regardless of which brutal project he's tracking for. George Kollias pairs an 18" Zildjian China with his K Custom Dark crashes to punctuate Nile's blast-beat-heavy, Egyptian-tinged death metal, while Derek Roddy's 18" Meinl Byzance China rounds out the picture, giving his work in Hate Eternal and Nile a darker, heavier trash tone.
 
 This guide covers everything you need to pick the right china for death metal: size, alloy, and mounting orientation, along with specific model recommendations across every budget for blast-beat-driven, technically demanding death metal drumming.`,
       keyPoints: [
@@ -32818,12 +32818,12 @@ Gene Hoglan uses a 20" Sabian AAX China across his work in Death, Testament, and
           driveType: "B20 Bronze, Brilliant",
           description: `The AAXtreme China trades a little low-end for faster response, letting it keep pace with blast-beat tempo without washing over the next pattern — a critical trait for riff-driven, brutal death metal.
 
-Paul Mazurkiewicz's 18" Sabian AAXtreme China anchors Cannibal Corpse's dense, downtuned attack, while Flo Mounier relies on the same china for Cryptopsy's technical, blast-beat-saturated material.`,
+Flo Mounier relies on the same china for Cryptopsy's technical, blast-beat-saturated material.`,
           pros: [
             "Fast response keeps pace with blast-beat tempo",
             "Cuts through dense, downtuned death metal mixes",
             "Durable build suited to heavy touring schedules",
-            "Proven across Cannibal Corpse and Cryptopsy"
+            "Proven across Cryptopsy's technical brutality"
           ],
           cons: [
             "18\" size limits low-end weight compared to 20\" options",
@@ -32838,7 +32838,6 @@ Paul Mazurkiewicz's 18" Sabian AAXtreme China anchors Cannibal Corpse's dense, d
             mounting: "Standard or Inverted"
           },
           usedBy: [
-            { name: "Paul Mazurkiewicz", band: "Cannibal Corpse", note: "Dense, riff-driven death metal punctuation" },
             { name: "Flo Mounier", band: "Cryptopsy", note: "Technical, blast-beat-saturated brutal death metal" }
           ],
           verdict: "Best for drummers who need a china that keeps pace with fast, dense blast-beat patterns.",
@@ -33003,7 +33002,7 @@ Derek Roddy's 18" Meinl Byzance China rounds out his Mb20-based setup across Hat
 **18\" China:**
 - Fast response for rapid blast-beat punctuation
 - Stays readable at extreme tempo without washing over the next pattern
-- Preferred by technical, high-tempo drummers: George Kollias, Paul Mazurkiewicz, Flo Mounier
+- Preferred by technical, high-tempo drummers: George Kollias, Flo Mounier
 
 **20\" China:**
 - More low-end weight and volume for maximum brutality
@@ -33057,7 +33056,6 @@ Derek Roddy's 18" Meinl Byzance China rounds out his Mb20-based setup across Hat
     ],
     relatedDrummers: [
       { slug: 'gene-hoglan', name: 'Gene Hoglan', reason: 'Sabian AAX China across 20+ bands and four decades' },
-      { slug: 'paul-mazurkiewicz', name: 'Paul Mazurkiewicz', reason: 'Sabian AAXtreme China — Cannibal Corpse\'s dense attack' },
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Zildjian China punctuating Nile\'s blast-beat assault' },
       { slug: 'derek-roddy', name: 'Derek Roddy', reason: 'Meinl Byzance China — darker, heavier punctuation' },
       { slug: 'flo-mounier', name: 'Flo Mounier', reason: 'Sabian AAXtreme China for Cryptopsy\'s technical brutality' }
@@ -33072,7 +33070,7 @@ Derek Roddy's 18" Meinl Byzance China rounds out his Mb20-based setup across Hat
       },
       {
         question: "Do death metal drummers use china cymbals live?",
-        answer: "Yes — china cymbals are a standard part of the death metal cymbal setup for live and studio work alike. Gene Hoglan, Paul Mazurkiewicz, George Kollias, and Derek Roddy all run a china as a dedicated accent voice in their touring rigs."
+        answer: "Yes — china cymbals are a standard part of the death metal cymbal setup for live and studio work alike. Gene Hoglan, George Kollias, and Derek Roddy all run a china as a dedicated accent voice in their touring rigs."
       },
       {
         question: "China vs. crash for death metal accents?",

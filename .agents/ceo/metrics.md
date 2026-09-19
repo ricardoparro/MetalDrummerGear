@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-09-18 21:31 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-09-19 03:12 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,32 +8,32 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 371 |
-| Sessions | 414 |
-| Page views | 650 |
-| Engagement rate | 55.80% |
-| Avg session (s) | 112 |
+| Active users | 333 |
+| Sessions | 375 |
+| Page views | 564 |
+| Engagement rate | 52.00% |
+| Avg session (s) | 111 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
-| / | 39 | 16 |
-| /techniques | 23 | 2 |
-| /drummers | 22 | 6 |
+| / | 32 | 15 |
+| /techniques | 22 | 1 |
 | /drummer/frost | 21 | 2 |
-| /drummer/mario-duplantier | 15 | 11 |
-| /drummer/abe-cunningham | 10 | 1 |
-| /drummer/bill-ward | 10 | 8 |
+| /drummers | 13 | 4 |
+| /drummer/joey-jordison | 11 | 7 |
+| /drummer/mario-duplantier | 11 | 9 |
 | /drummer/danny-carey | 10 | 9 |
-| /drummer/joey-jordison | 10 | 7 |
-| /drummer/eloy-casagrande | 8 | 6 |
+| /tools | 8 | 2 |
+| /drummer/bill-ward | 7 | 6 |
+| /drummer/eloy-casagrande | 7 | 5 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 292 | 253 |
-| Direct | 100 | 98 |
-| Unassigned | 29 | 28 |
+| Organic Search | 260 | 221 |
+| Direct | 97 | 95 |
+| Unassigned | 37 | 34 |
 | Cross-network | 8 | 8 |
 | AI Assistant | 1 | 1 |
 | Referral | 1 | 1 |
@@ -41,58 +41,57 @@
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 145 | 129 |
+| United States | 132 | 118 |
 | Singapore | 36 | 36 |
 | China | 24 | 24 |
-| United Kingdom | 22 | 12 |
-| Germany | 20 | 18 |
-| Canada | 14 | 13 |
-| France | 14 | 14 |
-| Finland | 13 | 12 |
-| Brazil | 12 | 11 |
+| United Kingdom | 23 | 12 |
+| Germany | 16 | 14 |
+| Canada | 12 | 11 |
+| France | 12 | 12 |
+| Finland | 11 | 10 |
 | Australia | 10 | 10 |
+| Brazil | 10 | 9 |
 
 ## Search Console — Search performance
 | Metric | Last 7d |
 | --- | --- |
-| Impressions | 9,531 |
-| Clicks | 200 |
-| CTR | 2.10% |
+| Impressions | 7,968 |
+| Clicks | 159 |
+| CTR | 2.00% |
 | Avg position | 7.5 |
 
 ### Top queries
 | Query | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| arin ilejay drum kit | 2 | 1 | 50.00% | 1.0 |
 | best crash cymbals for metal | 2 | 1 | 50.00% | 6.5 |
-| best drumsticks for blast beats | 7 | 1 | 14.29% | 10.1 |
-| danny carey drum set | 108 | 1 | 0.93% | 10.8 |
+| best drumsticks for blast beats | 5 | 1 | 20.00% | 10.2 |
+| danny carey drum set | 89 | 1 | 1.12% | 11.0 |
 | deathcore drum kit | 3 | 1 | 33.33% | 5.3 |
-| fastest double bass drummer | 9 | 1 | 11.11% | 5.7 |
-| flo mounier | 101 | 1 | 0.99% | 9.4 |
-| gravity blast | 5 | 1 | 20.00% | 10.0 |
-| iron man bpm black sabbath | 10 | 1 | 10.00% | 6.2 |
-| is abe cunningham a good drummer | 1 | 1 | 100.00% | 7.0 |
+| fastest double bass drummer | 7 | 1 | 14.29% | 5.6 |
+| gravity blast | 4 | 1 | 25.00% | 10.8 |
+| iron man bpm black sabbath | 9 | 1 | 11.11% | 6.0 |
+| jay weinberg drum setup | 16 | 1 | 6.25% | 9.8 |
+| joey jordison drumkit | 8 | 1 | 12.50% | 4.9 |
+| joey jordison kit | 11 | 1 | 9.09% | 9.0 |
 
 ### Top countries (impressions, last 7d)
 | Country | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| usa | 3,508 | 74 | 2.11% | 7.8 |
-| deu | 382 | 10 | 2.62% | 6.9 |
-| fin | 136 | 9 | 6.62% | 6.9 |
-| aus | 449 | 8 | 1.78% | 8.0 |
-| gbr | 594 | 8 | 1.35% | 8.1 |
-| can | 525 | 7 | 1.33% | 8.4 |
-| fra | 232 | 7 | 3.02% | 7.2 |
-| bra | 282 | 6 | 2.13% | 7.0 |
-| esp | 87 | 6 | 6.90% | 6.1 |
-| ita | 204 | 5 | 2.45% | 6.5 |
+| usa | 2,962 | 60 | 2.03% | 7.8 |
+| aus | 371 | 8 | 2.16% | 7.5 |
+| deu | 323 | 8 | 2.48% | 6.9 |
+| fin | 109 | 7 | 6.42% | 7.2 |
+| gbr | 494 | 7 | 1.42% | 7.9 |
+| esp | 72 | 5 | 6.94% | 6.2 |
+| fra | 195 | 5 | 2.56% | 7.2 |
+| ita | 161 | 5 | 3.11% | 6.5 |
+| bra | 224 | 3 | 1.34% | 7.1 |
+| can | 425 | 3 | 0.71% | 8.4 |
 
 ### 🎯 Content-gap queries (impr ≥50, CTR <2%) — CEO MUST address
 | Query | Impr | CTR | Pos | Action |
 | --- | --- | --- | --- | --- |
-| danny carey drum set | 108 | 0.93% | 10.8 | open issue to answer better |
-| flo mounier | 101 | 0.99% | 9.4 | open issue to answer better |
+| danny carey drum set | 89 | 1.12% | 11.0 | open issue to answer better |
 
 ---
 *Re-run manually: `node .agents/scripts/fetch-metrics.cjs`*

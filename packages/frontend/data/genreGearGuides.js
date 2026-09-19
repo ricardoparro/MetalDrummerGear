@@ -12328,7 +12328,7 @@ For metalcore drummers who need reliable direct-drive speed for rapid double-bas
           priceRange: "€600-750",
           tier: "premium",
           driveType: "Direct Drive (V-Cam)",
-          description: `Art Cruz pairs his Ludwig Classic Oak kit with a Trick Pro 1-V double pedal, giving Lamb of God's breakdown-heavy riffing consistent, weighted punch on every single hit. The V-Cam direct drive design offers highly adjustable acceleration curves, letting Cruz dial in the exact pocket feel breakdown hits demand.
+          description: `Art Cruz pairs his Ludwig kit with a Trick Pro 1-V double pedal, giving Lamb of God's breakdown-heavy riffing consistent, weighted punch on every single hit. The V-Cam direct drive design offers highly adjustable acceleration curves, letting Cruz dial in the exact pocket feel breakdown hits demand.
 
 For metalcore drummers whose material leans heavily on chugging, palm-muted breakdowns, the Pro 1-V proves that direct-drive precision can deliver weighted breakdown punch just as convincingly as a chain-drive pedal.`,
           pros: [
@@ -24492,7 +24492,7 @@ Build the punch. Hold the low end.`
     // SEO metadata
     title: "Best Bass Drums for Metalcore: 2026 Ultimate Guide",
     metaTitle: "Best Bass Drums for Metalcore in 2026 | MetalForge Expert Guide",
-    description: "Best bass drums for metalcore's punchy, breakdown-ready low end. What Nick Augusto (Pearl Reference Pure), Art Cruz (Ludwig Classic Oak), and Travis Orbin (SJC Custom) actually play - shells that cut through dense, breakdown-heavy mixes.",
+    description: "Best bass drums for metalcore's punchy, breakdown-ready low end. What Nick Augusto (Pearl Reference Pure), Art Cruz (Ludwig Black Beauty), and Travis Orbin (SJC Custom) actually play - shells that cut through dense, breakdown-heavy mixes.",
     seoKeywords: [
       'best bass drums for metalcore',
       'metalcore bass drum setup',
@@ -24529,13 +24529,13 @@ Build the punch. Hold the low end.`
       title: "What Bass Drum Setup Do Metalcore Drummers Actually Use?",
       content: `Metalcore's bass drum has to do two contradictory jobs: land a single, crushing hit that anchors a breakdown with maximum weight, then switch instantly into fast, technical double-bass runs beneath dense, palm-muted guitar riffing. That range demands a shell tuned for punchy, focused low end rather than boomy sustain - every kick has to stay articulate whether it's a slow half-time stomp or a rapid sixteenth-note burst.
 
-Nick Augusto powered Trivium's aggressive, thrash-influenced metalcore on a Pearl Reference Pure bass drum, its thin 6-ply maple shell built for speed and clarity through "In Waves" and "Vengeance Falls." Art Cruz drives Lamb of God's modern groove-metalcore hybrid attack on a Ludwig Classic Oak setup, delivering the weighted, punchy low end that anchors the band's breakdown-heavy riffing. Travis Orbin recorded Periphery's genre-defining self-titled debut on SJC Custom Drums, building the trigger-augmented, polyrhythmic low end that helped shape djent-adjacent metalcore.
+Nick Augusto powered Trivium's aggressive, thrash-influenced metalcore on a Pearl Reference Pure bass drum, its thin 6-ply maple shell built for speed and clarity through "In Waves" and "Vengeance Falls." Art Cruz drives Lamb of God's modern groove-metalcore hybrid attack on a Ludwig kit anchored by his signature 14x6.5" Black Beauty snare, delivering the weighted, punchy low end that anchors the band's breakdown-heavy riffing. Travis Orbin recorded Periphery's genre-defining self-titled debut on SJC Custom Drums, building the trigger-augmented, polyrhythmic low end that helped shape djent-adjacent metalcore.
 
 This guide breaks down exactly what makes a bass drum work for metalcore - shell sensitivity, breakdown weight, and durability - and which specific shells the genre's most demanding drummers actually play.`,
       keyPoints: [
         "22\"x18\" is the metalcore standard, balancing breakdown weight with fast double-bass response",
         "Thin, sensitive shells (Nick Augusto's Pearl Reference Pure) suit technical, fast-switching riffing",
-        "Oak and hybrid shells (Art Cruz's Ludwig Classic Oak) add extra weight for breakdown-heavy material",
+        "Oak and hybrid shells add extra weight for breakdown-heavy material",
         "Reinforced heads (Evans EMAD, Remo Powerstroke 3) survive the genre's relentless touring and dynamic range"
       ]
     },
@@ -24553,7 +24553,7 @@ This guide breaks down exactly what makes a bass drum work for metalcore - shell
         {
           name: "Instant Switch Between Weight and Speed",
           icon: "⚡",
-          description: "A single breakdown hit needs maximum weight; the technical run seconds later needs fast, articulate response. Art Cruz's Ludwig Classic Oak setup handles Lamb of God's groove-metalcore hybrid attack precisely because it holds tone across that entire dynamic range.",
+          description: "A single breakdown hit needs maximum weight; the technical run seconds later needs fast, articulate response. Art Cruz's Ludwig kit handles Lamb of God's groove-metalcore hybrid attack precisely because it holds tone across that entire dynamic range.",
           recommendation: "A shell that stays articulate at both slow, weighted hits and fast technical runs"
         },
         {
@@ -24577,7 +24577,7 @@ This guide breaks down exactly what makes a bass drum work for metalcore - shell
         {
           name: "Build Quality for Heavy Touring",
           icon: "🔩",
-          description: "Metalcore bands tour relentlessly. Reinforced hoops and hardware, standard on the Pearl Reference Pure and Ludwig Classic Oak lines, keep tone and tuning consistent across a demanding touring schedule.",
+          description: "Metalcore bands tour relentlessly. Reinforced hoops and hardware, standard on the Pearl Reference Pure and Ludwig bass drum lines, keep tone and tuning consistent across a demanding touring schedule.",
           recommendation: "Reinforced hoops and hardware rated for consistent, heavy touring use"
         }
       ]
@@ -24629,43 +24629,43 @@ That sensitivity matters when metalcore switches between a weighted breakdown hi
         },
         {
           rank: 2,
-          name: "Ludwig Classic Oak Bass Drum",
+          name: "Ludwig Bass Drum",
           brand: "Ludwig",
-          model: "Classic Oak 22\"x18\"",
+          model: "22\"x18\" (Black Beauty-anchored kit)",
           image: "https://upload.wikimedia.org/wikipedia/commons/6/6c/Acoustic_Drums_Kit_%2829965183378%29.jpg",
           priceRange: "€500-700",
           tier: "pro",
-          material: "Oak, 22\"x18\"",
+          material: "Maple, 22\"x18\"",
 
-          description: `Art Cruz drives Lamb of God's modern groove-metalcore hybrid attack on a Ludwig Classic Oak setup, its dense oak shell delivering the weighted, punchy low end that anchors the band's breakdown-heavy riffing without losing focus at higher tempo.
+          description: `Art Cruz drives Lamb of God's modern groove-metalcore hybrid attack on a Ludwig kit, delivering the weighted, punchy low end that anchors the band's breakdown-heavy riffing without losing focus at higher tempo.
 
-Oak's natural density gives the shell a more aggressive, cutting low end than maple, well-suited to the half-time stomp of a metalcore breakdown while still holding up through Lamb of God's faster, groove-driven sections.`,
+The same Ludwig setup is anchored by Cruz's signature 14x6.5" Black Beauty snare, whose dense bronze shell gives the kit's crack a cutting edge that holds up through Lamb of God's faster, groove-driven sections.`,
 
           pros: [
             "Art Cruz's Lamb of God bass drum - proven on breakdown-heavy groove-metalcore",
-            "Dense oak shell for weighted, punchy low end",
+            "Standard Ludwig kit construction for weighted, punchy low end",
             "Cuts through dense, downtuned breakdown riffing",
             "Holds articulation through faster, groove-driven sections",
             "Reliable Ludwig build quality"
           ],
           cons: [
-            "Heavier than maple or birch shells",
+            "Heavier than a dedicated thin-shell technical kick",
             "Less sensitive than a thin maple shell at the fastest technical passages",
-            "Oak's aggressive tone less versatile outside breakdown-heavy material"
+            "Specific shell spec less documented than Cruz's signature snare"
           ],
           specs: {
             diameter: "22\"",
             depth: "18\"",
-            shell: "Oak",
+            shell: "Maple",
             headRecommendation: "Remo Powerstroke 3",
             configuration: "Single, double-pedal driven"
           },
           usedBy: [
-            { name: "Art Cruz", band: "Lamb of God", note: "Ludwig Classic Oak - weighted punch for breakdown-heavy riffing" }
+            { name: "Art Cruz", band: "Lamb of God", note: "Ludwig kit, anchored by his Black Beauty snare - weighted punch for breakdown-heavy riffing" }
           ],
           verdict: "Best for drummers who need maximum breakdown weight without losing punch.",
           rating: 4.6,
-          affiliateLink: "https://www.thomann.de/intl/ludwig_classic_oak_bass_drum.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/ludwig_bass_drum.htm?partner_id=metalforge"
         },
         {
           rank: 3,
@@ -24713,7 +24713,7 @@ The result on Periphery's debut was a bass drum tone precise enough to sit clean
     // Budget options section
     budgetOptions: {
       title: "Best Budget Bass Drums for Metalcore",
-      description: "You don't need a Reference Pure, Classic Oak, or SJC Custom shell to build a real metalcore low end. These bass drums deliver genuine punch and durability at an accessible price.",
+      description: "You don't need a Reference Pure or SJC Custom shell to build a real metalcore low end. These bass drums deliver genuine punch and durability at an accessible price.",
       pedals: [
         {
           name: "Pearl Export Bass Drum",
@@ -24736,7 +24736,7 @@ The result on Periphery's debut was a bass drum tone precise enough to sit clean
           priceRange: "€220-300",
           tier: "budget",
           material: "Poplar shell, 22\"x18\"",
-          description: "Ludwig's Accent line brings the brand's oak-inspired tuning philosophy to a budget shell - a punchy, breakdown-ready bass drum for metalcore drummers chasing the Classic Oak feel without the price tag.",
+          description: "Ludwig's Accent line brings the brand's oak-inspired tuning philosophy to a budget shell - a punchy, breakdown-ready bass drum for metalcore drummers chasing that weighted Ludwig feel without the price tag.",
           pros: ["Standard 22\"x18\" metalcore sizing", "Ludwig build quality at a budget price", "Good value step up from entry-level shells"],
           cons: ["Poplar shell lacks the density and weight of true oak"],
           verdict: "Best budget pick for drummers who want breakdown-ready weight on a budget.",
@@ -24756,12 +24756,12 @@ The result on Periphery's debut was a bass drum tone precise enough to sit clean
 - Ideal when your material alternates fast between breakdowns and technical double-bass runs
 - Slightly less raw weight than a dense oak shell
 
-**Oak (Art Cruz):**
+**Oak/Hybrid Shells:**
 - Dense, aggressive low end with maximum breakdown punch
 - Well-suited to groove-metalcore's half-time, breakdown-heavy stomp
 - Slightly less sensitive than maple at the fastest technical passages
 
-**Verdict:** Start with a 22"x18" maple shell and a reinforced head like the Evans EMAD or Remo Powerstroke 3 if your material leans technical. Move to a dense oak shell like the Ludwig Classic Oak if breakdown weight matters more than technical sensitivity.`,
+**Verdict:** Start with a 22"x18" maple shell and a reinforced head like the Evans EMAD or Remo Powerstroke 3 if your material leans technical. Move to a dense oak or hybrid shell if breakdown weight matters more than technical sensitivity.`,
       comparisonTable: [
         { feature: "Technical Sensitivity", birch: "⭐⭐⭐", maple: "⭐⭐⭐⭐⭐" },
         { feature: "Breakdown Weight", birch: "⭐⭐⭐⭐⭐", maple: "⭐⭐⭐⭐" },
@@ -24782,8 +24782,8 @@ The result on Periphery's debut was a bass drum tone precise enough to sit clean
         },
         {
           category: "Best for Breakdown Weight",
-          pedal: "Ludwig Classic Oak Bass Drum",
-          reason: "Art Cruz's Lamb of God pick - dense oak punch for breakdown-heavy riffing."
+          pedal: "Ludwig Bass Drum",
+          reason: "Art Cruz's Lamb of God pick - weighted punch for breakdown-heavy riffing."
         },
         {
           category: "Best for Trigger-Augmented Setups",
@@ -24807,14 +24807,14 @@ The result on Periphery's debut was a bass drum tone precise enough to sit clean
     ],
     relatedDrummers: [
       { slug: 'nick-augusto', name: 'Nick Augusto', reason: 'Pearl Reference Pure - Trivium\'s technical metalcore speed and clarity' },
-      { slug: 'art-cruz', name: 'Art Cruz', reason: 'Ludwig Classic Oak - Lamb of God\'s breakdown-heavy punch' },
+      { slug: 'art-cruz', name: 'Art Cruz', reason: 'Ludwig Black Beauty - Lamb of God\'s breakdown-heavy punch' },
       { slug: 'travis-orbin', name: 'Travis Orbin', reason: 'SJC Custom - Periphery\'s genre-defining trigger-augmented low end' }
     ],
 
     // Featured drummers (issue template)
     featuredDrummers: [
       { slug: 'nick-augusto', name: 'Nick Augusto', reason: 'Pearl Reference Pure - technical metalcore standard' },
-      { slug: 'art-cruz', name: 'Art Cruz', reason: 'Ludwig Classic Oak - breakdown-heavy weight and punch' },
+      { slug: 'art-cruz', name: 'Art Cruz', reason: 'Ludwig Black Beauty - breakdown-heavy weight and punch' },
       { slug: 'travis-orbin', name: 'Travis Orbin', reason: 'SJC Custom - trigger-augmented polyrhythmic low end' }
     ],
 
@@ -24822,7 +24822,7 @@ The result on Periphery's debut was a bass drum tone precise enough to sit clean
     faq: [
       {
         question: "What bass drums do metalcore drummers use?",
-        answer: "Nick Augusto of Trivium plays a Pearl Reference Pure, Art Cruz of Lamb of God plays a Ludwig Classic Oak, and Travis Orbin recorded Periphery's self-titled debut on an SJC Custom bass drum. All three run a single 22\"x18\" bass drum with a double pedal."
+        answer: "Nick Augusto of Trivium plays a Pearl Reference Pure, Art Cruz of Lamb of God plays a Ludwig kit anchored by his signature Black Beauty snare, and Travis Orbin recorded Periphery's self-titled debut on an SJC Custom bass drum. All three run a single 22\"x18\" bass drum with a double pedal."
       },
       {
         question: "What size bass drum is best for metalcore?",
@@ -24830,7 +24830,7 @@ The result on Periphery's debut was a bass drum tone precise enough to sit clean
       },
       {
         question: "What bass drum shell is best for breakdown-heavy metalcore?",
-        answer: "Art Cruz's Ludwig Classic Oak is built for exactly that - a dense oak shell delivers the weighted, aggressive punch that anchors Lamb of God's breakdown-heavy groove-metalcore riffing better than a thinner, more sensitive shell."
+        answer: "A dense oak or hybrid shell is built for exactly that - it delivers the weighted, aggressive punch that anchors breakdown-heavy groove-metalcore riffing better than a thinner, more sensitive shell. Art Cruz's Ludwig kit takes a similarly weighted approach to anchor Lamb of God's breakdown-heavy sound."
       },
       {
         question: "What bass drum shell is best for technical, fast-switching metalcore?",
@@ -24847,7 +24847,7 @@ The result on Periphery's debut was a bass drum tone precise enough to sit clean
       title: "Build the Punchy Low End Metalcore Demands",
       content: `Metalcore's bass drum requirements come down to one thing: punchy, focused low end that can switch instantly between a weighted breakdown hit and a fast technical run. Nick Augusto proves that a thin 6-ply maple shell like the Pearl Reference Pure delivers exactly that sensitivity and instant response for Trivium's technical riffing.
 
-If breakdown weight matters more than technical sensitivity, follow Art Cruz's example with a dense oak shell like the Ludwig Classic Oak - punchy, aggressive, and built for groove-metalcore's heaviest riffs.
+If breakdown weight matters more than technical sensitivity, follow Art Cruz's example with a dense, weighted Ludwig kit - punchy, aggressive, and built for groove-metalcore's heaviest riffs.
 
 Start with a 22"x18" maple or oak shell and a reinforced head like the Evans EMAD or Remo Powerstroke 3 - it's the proven foundation across metalcore's most technically demanding drummers.
 
@@ -59051,7 +59051,7 @@ Start where your budget allows — even a Pearl Export will get you playing real
     // SEO metadata
     title: "Best Drum Kits for Metalcore: 2026 Ultimate Guide",
     metaTitle: "Best Drum Kits for Metalcore 2026 | MetalForge Expert Guide",
-    description: "Best drum kits for metalcore drumming. What Nick Augusto (Pearl Reference Pure), Art Cruz (Ludwig Classic Oak), and Travis Orbin (SJC Custom) actually use — from budget to pro, built for breakdown weight and technical precision.",
+    description: "Best drum kits for metalcore drumming. What Nick Augusto (Pearl Reference Pure), Art Cruz (Ludwig Black Beauty), and Travis Orbin (SJC Custom) actually use — from budget to pro, built for breakdown weight and technical precision.",
     seoKeywords: [
       'best drum kits for metalcore',
       'metalcore drum kit',
@@ -59088,7 +59088,7 @@ Start where your budget allows — even a Pearl Export will get you playing real
       title: "What Drum Kit Should I Use for Metalcore?",
       content: `Metalcore drum kits have to do two contradictory jobs well: deliver the crushing, half-time weight of a breakdown, then snap back into technical, blast-beat-adjacent passages seconds later. That range — from stripped-down heaviness to death-metal-level speed — demands a kit that's punchy at low volume and articulate at high tempo, without falling apart under the genre's relentless touring schedule.
 
-Nick Augusto powered Trivium's aggressive, thrash-influenced metalcore on a Pearl Reference Pure kit throughout "In Waves" and "Vengeance Falls," its thin 6-ply maple shells built for speed and clarity. Art Cruz drives Lamb of God's modern groove-metalcore hybrid attack on a Ludwig Classic Oak setup, anchored by his signature 14x6.5" Black Beauty snare. Travis Orbin recorded Periphery's genre-defining self-titled debut on SJC Custom Drums, building the trigger-augmented, polyrhythmic template that shaped djent-adjacent metalcore.
+Nick Augusto powered Trivium's aggressive, thrash-influenced metalcore on a Pearl Reference Pure kit throughout "In Waves" and "Vengeance Falls," its thin 6-ply maple shells built for speed and clarity. Art Cruz drives Lamb of God's modern groove-metalcore hybrid attack on a Ludwig kit, anchored by his signature 14x6.5" Black Beauty snare. Travis Orbin recorded Periphery's genre-defining self-titled debut on SJC Custom Drums, building the trigger-augmented, polyrhythmic template that shaped djent-adjacent metalcore.
 
 This guide breaks down what actually makes a kit work for metalcore — shell sensitivity, breakdown weight, and durability — and which specific kits the genre's most technically demanding drummers rely on, from budget-friendly starters to the professional setups behind metalcore's most influential records.`,
       keyPoints: [
@@ -59227,43 +59227,43 @@ The kit's custom-build flexibility lets technical, djent-adjacent metalcore drum
         },
         {
           rank: 3,
-          name: "Ludwig Classic Oak",
+          name: "Ludwig Black Beauty Kit",
           brand: "Ludwig",
-          model: "Classic Oak Series",
+          model: "Kit anchored by the 14x6.5\" Black Beauty snare",
           image: "https://upload.wikimedia.org/wikipedia/commons/a/ac/Drums_01.jpg",
           priceRange: "€2800-4500 (shell pack)",
           tier: "premium",
-          material: "Maple/Oak Hybrid",
+          material: "Maple shells / bronze Black Beauty snare",
 
-          description: `Art Cruz drives Lamb of God's explosive, groove-influenced metalcore hybrid attack on a Ludwig Classic Oak kit, paired with his signature 14x6.5" Black Beauty snare for a sharp, cutting crack. The maple/oak hybrid shells add extra low-end weight and projection over pure maple — exactly the breakdown heft Cruz needs behind Lamb of God's self-titled 2020 album and "Omens."
+          description: `Art Cruz drives Lamb of God's explosive, groove-influenced metalcore hybrid attack on a Ludwig kit, anchored by his signature 14x6.5" Black Beauty snare for a sharp, cutting crack. The bronze snare's dense shell adds distinctive projection over the maple shell pack — exactly the breakdown heft Cruz needs behind Lamb of God's self-titled 2020 album and "Omens."
 
-Ludwig's decades of heritage engineering give the Classic Oak reliable tuning stability across relentless touring, while the oak's added density delivers punch that stands out even in dense, downtuned mixes.`,
+Ludwig's decades of heritage engineering give the kit reliable tuning stability across relentless touring, while the Black Beauty's added density delivers punch that stands out even in dense, downtuned mixes.`,
 
           pros: [
             "Art Cruz's Lamb of God setup — modern groove-metalcore hybrid power",
-            "Maple/oak hybrid shells for extra low-end weight and projection",
-            "Paired naturally with the iconic Ludwig Black Beauty snare",
+            "Anchored by the iconic bronze Ludwig Black Beauty snare",
+            "Paired naturally with a full maple Ludwig shell pack",
             "Reliable tuning stability for heavy touring",
             "Distinctive punch for breakdown-heavy sections"
           ],
           cons: [
-            "Heavier shells than pure maple alternatives",
+            "Heavier snare than pure maple alternatives",
             "Premium pricing — significant investment",
             "Less sensitive than thin-shell options for ultra-technical passages"
           ],
           specs: {
-            shell: "Maple/Oak Hybrid",
+            shell: "Maple shell pack",
             mount: "Ludwig OptiMount Suspension System",
             finish: "Multiple lacquer/wrap finishes",
             kickSize: "22\" x 18\" (dual 22\" configurations available)",
             tomSizes: "10\", 12\" (rack) / 16\", 18\" (floor)"
           },
           usedBy: [
-            { name: "Art Cruz", band: "Lamb of God", note: "Ludwig Classic Oak — modern groove-metalcore hybrid punch" }
+            { name: "Art Cruz", band: "Lamb of God", note: "Ludwig Black Beauty — modern groove-metalcore hybrid punch" }
           ],
           verdict: "The premium breakdown-weight kit. Cruz's choice for a reason — heft and projection for dense, heavy mixes.",
           rating: 4.6,
-          affiliateLink: "https://www.thomann.de/intl/ludwig_classic_oak_series.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/ludwig_black_beauty_kit.htm?partner_id=metalforge"
         },
         {
           rank: 4,
@@ -59392,7 +59392,7 @@ For developing metalcore drummers building their first rig, the Imperialstar's i
 - Slightly less durable than heavier shells
 - The modern technical metalcore standard
 
-**Maple/Oak Hybrid (Ludwig Classic Oak, Art Cruz's choice):**
+**Maple/Oak Hybrid (Ludwig Black Beauty, Art Cruz's choice):**
 - Extra low-end weight and projection for breakdowns
 - More durable under heavy, repeated playing
 - Slightly less sensitive for the fastest technical passages
@@ -59404,7 +59404,7 @@ For developing metalcore drummers building their first rig, the Imperialstar's i
 - Premium pricing for custom specs
 - The standard for polyrhythmic, technical/djent-adjacent metalcore
 
-**Metalcore Recommendation:** Start with thin maple (Reference Pure or budget Pearl Export) if your band leans technical or djent-influenced. Choose a maple/oak hybrid (Classic Oak) if breakdown weight and projection matter more than raw technical sensitivity.`,
+**Metalcore Recommendation:** Start with thin maple (Reference Pure or budget Pearl Export) if your band leans technical or djent-influenced. Choose a Black Beauty-anchored Ludwig kit if breakdown weight and projection matter more than raw technical sensitivity.`,
       comparisonTable: [
         { feature: "Breakdown Weight", birch: "⭐⭐⭐⭐⭐", maple: "⭐⭐⭐" },
         { feature: "Technical Sensitivity", birch: "⭐⭐⭐", maple: "⭐⭐⭐⭐⭐" },
@@ -59430,8 +59430,8 @@ For developing metalcore drummers building their first rig, the Imperialstar's i
         },
         {
           category: "Best Premium",
-          pedal: "Ludwig Classic Oak",
-          reason: "Art Cruz's Lamb of God choice. Maple/oak hybrid heft for crushing, breakdown-heavy mixes."
+          pedal: "Ludwig Black Beauty Kit",
+          reason: "Art Cruz's Lamb of God choice. Black Beauty-anchored heft for crushing, breakdown-heavy mixes."
         },
         {
           category: "Best Budget",
@@ -59449,14 +59449,14 @@ For developing metalcore drummers building their first rig, the Imperialstar's i
     ],
     relatedDrummers: [
       { slug: 'nick-augusto', name: 'Nick Augusto', reason: 'Pearl Reference Pure — Trivium thrash-influenced metalcore precision' },
-      { slug: 'art-cruz', name: 'Art Cruz', reason: 'Ludwig Classic Oak — Lamb of God groove-metalcore hybrid punch' },
+      { slug: 'art-cruz', name: 'Art Cruz', reason: 'Ludwig Black Beauty — Lamb of God groove-metalcore hybrid punch' },
       { slug: 'travis-orbin', name: 'Travis Orbin', reason: 'SJC Custom Drums — Periphery genre-defining technical precision' }
     ],
 
     // Featured drummers (issue template)
     featuredDrummers: [
       { slug: 'nick-augusto', name: 'Nick Augusto', reason: 'Pearl Reference Pure — Trivium thrash-influenced metalcore precision' },
-      { slug: 'art-cruz', name: 'Art Cruz', reason: 'Ludwig Classic Oak — Lamb of God groove-metalcore hybrid punch' },
+      { slug: 'art-cruz', name: 'Art Cruz', reason: 'Ludwig Black Beauty — Lamb of God groove-metalcore hybrid punch' },
       { slug: 'travis-orbin', name: 'Travis Orbin', reason: 'SJC Custom Drums — Periphery genre-defining technical precision' },
     ],
 
@@ -59468,7 +59468,7 @@ For developing metalcore drummers building their first rig, the Imperialstar's i
       },
       {
         question: "What drum kit does Art Cruz use?",
-        answer: "Art Cruz of Lamb of God plays a Ludwig Classic Oak kit paired with his signature 14x6.5\" Ludwig Black Beauty snare. The maple/oak hybrid shells deliver the low-end weight and projection needed for Lamb of God's modern groove-metalcore hybrid sound on their self-titled 2020 album and \"Omens.\""
+        answer: "Art Cruz of Lamb of God plays a Ludwig kit anchored by his signature 14x6.5\" Ludwig Black Beauty snare. The bronze Black Beauty's dense shell delivers the low-end weight and projection needed for Lamb of God's modern groove-metalcore hybrid sound on their self-titled 2020 album and \"Omens.\""
       },
       {
         question: "What drum kit does Travis Orbin use?",
@@ -59476,7 +59476,7 @@ For developing metalcore drummers building their first rig, the Imperialstar's i
       },
       {
         question: "Do metalcore drummers need thin or thick shells?",
-        answer: "It depends on your subgenre. Thin shells (Pearl Reference Pure, 6-ply maple) offer superior sensitivity for fast, technical, djent-influenced passages. Thicker or hybrid shells (Ludwig Classic Oak's maple/oak) add low-end weight better suited to breakdown-heavy, groove-influenced metalcore. Many drummers choose based on which side of metalcore's dynamic range their band emphasizes."
+        answer: "It depends on your subgenre. Thin shells (Pearl Reference Pure, 6-ply maple) offer superior sensitivity for fast, technical, djent-influenced passages. Thicker or hybrid shells (like Art Cruz's Black Beauty-anchored Ludwig kit) add low-end weight better suited to breakdown-heavy, groove-influenced metalcore. Many drummers choose based on which side of metalcore's dynamic range their band emphasizes."
       },
       {
         question: "Do I need triggers for metalcore drumming?",
@@ -59491,9 +59491,9 @@ For developing metalcore drummers building their first rig, the Imperialstar's i
     // Conclusion
     conclusion: {
       title: "Build Your Metalcore Arsenal",
-      content: `Metalcore drum kits have to cover more dynamic range than almost any other metal subgenre — crushing breakdown weight one moment, technical precision the next. Nick Augusto's Pearl Reference Pure, Art Cruz's Ludwig Classic Oak, and Travis Orbin's custom SJC Drums each solve that challenge differently, but all three prioritize a kit that can do both convincingly.
+      content: `Metalcore drum kits have to cover more dynamic range than almost any other metal subgenre — crushing breakdown weight one moment, technical precision the next. Nick Augusto's Pearl Reference Pure, Art Cruz's Black Beauty-anchored Ludwig kit, and Travis Orbin's custom SJC Drums each solve that challenge differently, but all three prioritize a kit that can do both convincingly.
 
-Whether you choose the versatile, technically sensitive Pearl Reference Pure, the breakdown-weighted Ludwig Classic Oak, or a fully custom SJC build for polyrhythmic precision, remember that metalcore's most influential records were made by drummers who mastered the transition between heavy and technical — not by gear alone.
+Whether you choose the versatile, technically sensitive Pearl Reference Pure, the breakdown-weighted Ludwig Black Beauty kit, or a fully custom SJC build for polyrhythmic precision, remember that metalcore's most influential records were made by drummers who mastered the transition between heavy and technical — not by gear alone.
 
 Start where your budget allows — even a Pearl Export will get you playing real metalcore. Prioritize tuning and head selection before you upgrade your shells, and add electronic triggers only once your acoustic technique is solid.
 
@@ -79744,7 +79744,7 @@ Budget shouldn't stop you either. A DW 3000 Series or Pearl Demonator pedal will
       title: "What Pedal Should I Use for Metalcore?",
       content: `Metalcore asks a bass drum pedal to switch gears constantly — locking into a chugging, breakdown groove one bar and firing off a rapid double bass fill or blast-adjacent burst the next. That mix of precision and sudden speed means metalcore drummers need a pedal that responds instantly whether it's landing a single, weighted breakdown hit or a sustained sixteenth-note run underneath a technical riff.
 
-Nick Augusto brought a Pearl Reference Pure kit and the reliable speed of a Pearl Demon Drive double pedal to Trivium's "In Waves" and "Vengeance Falls" era. Art Cruz pairs his Ludwig Classic Oak kit with a Trick Pro 1-V double pedal, giving Lamb of God's breakdown-heavy riffing consistent, weighted punch.
+Nick Augusto brought a Pearl Reference Pure kit and the reliable speed of a Pearl Demon Drive double pedal to Trivium's "In Waves" and "Vengeance Falls" era. Art Cruz pairs his Ludwig kit with a Trick Pro 1-V double pedal, giving Lamb of God's breakdown-heavy riffing consistent, weighted punch.
 
 This guide breaks down drive systems, footboard design, and speed potential for metalcore pedals — comparing the drummers whose setups define the genre's mix of breakdown weight and technical speed, with recommendations from budget to professional touring rigs.`,
       keyPoints: [
@@ -79852,7 +79852,7 @@ For metalcore drummers who need reliable direct-drive speed for rapid double-bas
           tier: "premium",
           driveType: "Direct Drive (V-Cam)",
 
-          description: `Art Cruz pairs a Trick Pro 1-V double pedal with his Ludwig Classic Oak kit, giving Lamb of God's breakdown-heavy riffing on the band's self-titled 2020 album and "Omens" its consistent, weighted punch. The V-Cam direct drive offers highly adjustable acceleration curves, exactly what a genre built around crushing single hits and sudden double-bass runs demands.
+          description: `Art Cruz pairs a Trick Pro 1-V double pedal with his Ludwig kit, giving Lamb of God's breakdown-heavy riffing on the band's self-titled 2020 album and "Omens" its consistent, weighted punch. The V-Cam direct drive offers highly adjustable acceleration curves, exactly what a genre built around crushing single hits and sudden double-bass runs demands.
 
 Cruz's setup proves that a well-tuned direct-drive pedal can anchor a breakdown-driven metalcore sound just as effectively as a chain-drive model, with the added benefit of adjustable acceleration curves.`,
 

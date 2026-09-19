@@ -11397,7 +11397,7 @@ Whatever you choose: learn your pedal, adjust it for your technique, and practic
     // SEO metadata
     title: "Best Bass Drum Pedals for Deathcore: 2026 Ultimate Guide",
     metaTitle: "Best Bass Drum Pedals for Deathcore in 2026 | MetalForge Expert Guide",
-    description: "Discover the best bass drum pedals for deathcore's blast-into-breakdown structure and slam technique. Built around George Kollias's Pearl Demon XR, Chris Turner's Tama Speed Cobra 910, and Ben Koller's Tama Iron Cobra 900.",
+    description: "Discover the best bass drum pedals for deathcore's blast-into-breakdown structure and slam technique. Built around George Kollias's Pearl Demon XR, Chris Turner's Tama Speed Cobra 910, and Ben Koller's Tama Iron Cobra Double Pedal.",
     seoKeywords: [
       'best bass drum pedals for deathcore',
       'deathcore bass drum pedal',
@@ -11433,7 +11433,7 @@ Whatever you choose: learn your pedal, adjust it for your technique, and practic
       title: "Why Deathcore Needs a Bass Drum Pedal Built for Power, Not Just Speed",
       content: `Slam technique is the physical core of deathcore's heaviest breakdowns: a single, deliberately weighted bass drum hit landed with total control, timed exactly against a down-tuned guitar chug. That's a completely different demand from the sustained, high-headroom double bass a blast-beat verse needs just a few bars earlier in the same song. A deathcore bass drum pedal has to do both — deliver slam-worthy weight on command, then switch instantly back to extreme-speed blast patterns without missing a beat.
 
-George Kollias of Nile co-designed the Pearl Demon XR specifically for sustained blast beats past 240 BPM, setting the extreme-speed benchmark deathcore's fastest sections chase. Chris Turner of Oceans Ate Alaska runs a Tama Speed Cobra 910 double pedal, whose Speedo-Ring sprocket gives his polyrhythmic, blast-beat-driven fills on "Hikari" (2017) the quick, controlled response the transition into a breakdown demands. Ben Koller of Converge anchors his kit with a Tama Iron Cobra 900, built for the sustained, blistering tempo he's maintained through two decades of Converge's most demanding live sets.
+George Kollias of Nile co-designed the Pearl Demon XR specifically for sustained blast beats past 240 BPM, setting the extreme-speed benchmark deathcore's fastest sections chase. Chris Turner of Oceans Ate Alaska runs a Tama Speed Cobra 910 double pedal, whose Speedo-Ring sprocket gives his polyrhythmic, blast-beat-driven fills on "Hikari" (2017) the quick, controlled response the transition into a breakdown demands. Ben Koller of Converge anchors his kit with a Tama Iron Cobra Double Pedal, built for the sustained, blistering tempo he's maintained through two decades of Converge's most demanding live sets.
 
 This guide breaks down beater mass, spring tension, and drive type for a deathcore-ready bass drum pedal — comparing three drummers whose setups define the genre's power-first lineage, with recommendations from budget to professional touring rigs.`,
       keyPoints: [
@@ -11450,7 +11450,7 @@ This guide breaks down beater mass, spring tension, and drive type for a deathco
         {
           name: "Beater Mass for Slam Power",
           icon: "💥",
-          description: "Slam technique needs a heavier beater to translate foot force into a deep, controlled thump rather than a thin click. Ben Koller's Iron Cobra 900 pairs well with a heavier reversible beater surface for maximum low-end weight on a breakdown hit.",
+          description: "Slam technique needs a heavier beater to translate foot force into a deep, controlled thump rather than a thin click. Ben Koller's Iron Cobra Double Pedal pairs well with a heavier reversible beater surface for maximum low-end weight on a breakdown hit.",
           recommendation: "A heavier felt or reversible beater for real low-end weight on slam-timed breakdown hits"
         },
         {
@@ -11474,7 +11474,7 @@ This guide breaks down beater mass, spring tension, and drive type for a deathco
         {
           name: "Touring Durability",
           icon: "🛡️",
-          description: "Ben Koller's Tama Iron Cobra 900 has anchored Converge's sustained, blistering live tempos across two decades — proof that durable, reinforced hardware matters as much as raw top-end speed for deathcore's demanding live sets.",
+          description: "Ben Koller's Tama Iron Cobra Double Pedal has anchored Converge's sustained, blistering live tempos across two decades — proof that durable, reinforced hardware matters as much as raw top-end speed for deathcore's demanding live sets.",
           recommendation: "A durable double pedal built to survive sustained, high-impact touring night after night"
         }
       ]
@@ -11567,7 +11567,7 @@ The Speedo-Ring sprocket blends the smooth feel of direct drive with the familia
           priceRange: "€300-380",
           tier: "pro",
           driveType: "Chain (Power Glide)",
-          description: `Ben Koller's Tama Iron Cobra 900 anchors Converge's unrelenting sonic brutality, built for the sustained, blistering tempo Koller maintains through the band's most demanding live sets across two decades and landmark albums like "Jane Doe" and "The Dusk in Us."
+          description: `Ben Koller's Tama Iron Cobra Double Pedal anchors Converge's unrelenting sonic brutality, built for the sustained, blistering tempo Koller maintains through the band's most demanding live sets across two decades and landmark albums like "Jane Doe" and "The Dusk in Us."
 
 Koller's approach prioritizes power and organic dynamics over trigger-augmented precision — a philosophy that translates directly to deathcore drummers who need reliable, tourable durability as much as raw slam weight.`,
           pros: [
@@ -11589,7 +11589,7 @@ Koller's approach prioritizes power and organic dynamics over trigger-augmented 
             beater: "Iron Cobra Beater (reversible)"
           },
           usedBy: [
-            { name: "Ben Koller", band: "Converge", note: "Tama Iron Cobra 900 — sustained, blistering tempo reliability across two decades" }
+            { name: "Ben Koller", band: "Converge", note: "Tama Iron Cobra Double Pedal — sustained, blistering tempo reliability across two decades" }
           ],
           verdict: "Best value pro pedal. Koller's setup delivers proven touring durability at an accessible price.",
           rating: 4.5,
@@ -11610,7 +11610,7 @@ Koller's approach prioritizes power and organic dynamics over trigger-augmented 
           priceRange: "€250-300",
           tier: "budget",
           driveType: "Chain (Power Glide)",
-          description: "The entry-level Iron Cobra shares its Power Glide cam family with Ben Koller's professional Iron Cobra 900 at a more accessible price — a proven starting point for developing deathcore's blast-to-slam footwork.",
+          description: "The entry-level Iron Cobra shares its Power Glide cam family with Ben Koller's professional Iron Cobra Double Pedal at a more accessible price — a proven starting point for developing deathcore's blast-to-slam footwork.",
           pros: ["Same Power Glide cam family as Koller's pro pedal", "Affordable entry point", "Tama durability"],
           cons: ["Fewer adjustment options than the 900 series", "Basic bearings"],
           verdict: "Excellent starter pedal for deathcore on a budget.",
@@ -11663,7 +11663,7 @@ Koller's approach prioritizes power and organic dynamics over trigger-augmented 
 - Proven on Oceans Ate Alaska's technical, blast-beat-driven "Hikari"
 - Best for drummers who want speed without giving up chain-drive familiarity
 
-**Tama Iron Cobra 900 (Ben Koller):**
+**Tama Iron Cobra Double Pedal (Ben Koller):**
 - Power Glide cam delivers consistent speed and slam-ready durability
 - Two decades of proven touring reliability
 - Best for drummers who prioritize durable, weighted power
@@ -11714,7 +11714,7 @@ Koller's approach prioritizes power and organic dynamics over trigger-augmented 
     relatedDrummers: [
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Pearl Demon XR — Nile\'s 240+ BPM blast-beat benchmark' },
       { slug: 'chris-turner', name: 'Chris Turner', reason: 'Tama Speed Cobra 910 — Oceans Ate Alaska\'s blast-beat-driven precision' },
-      { slug: 'ben-koller', name: 'Ben Koller', reason: 'Tama Iron Cobra 900 — Converge\'s sustained, blistering tempo reliability' }
+      { slug: 'ben-koller', name: 'Ben Koller', reason: 'Tama Iron Cobra Double Pedal — Converge\'s sustained, blistering tempo reliability' }
     ],
 
     featuredDrummers: [
@@ -11726,7 +11726,7 @@ Koller's approach prioritizes power and organic dynamics over trigger-augmented 
     faq: [
       {
         question: "What bass drum pedal is best for deathcore's slam technique?",
-        answer: "Ben Koller of Converge anchors his kit with a Tama Iron Cobra 900, built for the sustained, blistering tempo he's maintained through two decades of Converge's most demanding live sets, making it a strong choice for drummers who prioritize durable, weighted power on slam-timed breakdown hits."
+        answer: "Ben Koller of Converge anchors his kit with a Tama Iron Cobra Double Pedal, built for the sustained, blistering tempo he's maintained through two decades of Converge's most demanding live sets, making it a strong choice for drummers who prioritize durable, weighted power on slam-timed breakdown hits."
       },
       {
         question: "What pedal does George Kollias use?",
@@ -11738,7 +11738,7 @@ Koller's approach prioritizes power and organic dynamics over trigger-augmented 
       },
       {
         question: "What's the best budget double bass pedal for deathcore?",
-        answer: "The Tama Iron Cobra 600 (around €250-300) shares its Power Glide cam family with Ben Koller's professional Iron Cobra 900. For more adjustability on a budget, the Pearl Eliminator Redline (€350-400) offers interchangeable cams closer to the flagship Demon XR."
+        answer: "The Tama Iron Cobra 600 (around €250-300) shares its Power Glide cam family with Ben Koller's professional Iron Cobra Double Pedal. For more adjustability on a budget, the Pearl Eliminator Redline (€350-400) offers interchangeable cams closer to the flagship Demon XR."
       },
       {
         question: "Why does deathcore need a different bass drum pedal setup than straightforward metalcore?",
@@ -11749,7 +11749,7 @@ Koller's approach prioritizes power and organic dynamics over trigger-augmented 
     // Conclusion
     conclusion: {
       title: "Find Your Deathcore Bass Drum Pedal Setup",
-      content: `Deathcore pedal choice comes down to how well your setup handles the jump between blast-beat verses and slam-timed breakdowns. George Kollias's co-designed Pearl Demon XR defined the extreme-speed benchmark the genre's fastest sections measure themselves against. Chris Turner's Tama Speed Cobra 910 shows how polyrhythmic precision translates directly from progressive metalcore into deathcore-adjacent blast fills. Ben Koller's Tama Iron Cobra 900 demonstrates two decades of proven touring reliability that any slam-focused deathcore drummer can rely on.
+      content: `Deathcore pedal choice comes down to how well your setup handles the jump between blast-beat verses and slam-timed breakdowns. George Kollias's co-designed Pearl Demon XR defined the extreme-speed benchmark the genre's fastest sections measure themselves against. Chris Turner's Tama Speed Cobra 910 shows how polyrhythmic precision translates directly from progressive metalcore into deathcore-adjacent blast fills. Ben Koller's Tama Iron Cobra Double Pedal demonstrates two decades of proven touring reliability that any slam-focused deathcore drummer can rely on.
 
 None of these approaches is more "correct" — all three represent deathcore's founding commitment to combining extreme speed with breakdown-driven weight. Start with whichever drive type matches your footwork technique, and don't be afraid to prioritize slam precision over top-end speed if that's where your material lives.
 
@@ -67266,7 +67266,7 @@ Start where your budget allows — even a Tama Imperialstar or Sonor AQ2 will ge
     // SEO metadata
     title: "Best Drum Pedals for Mathcore: 2026 Ultimate Guide",
     metaTitle: "Best Drum Pedals for Mathcore in 2026 | MetalForge Expert Guide",
-    description: "Best drum pedals for mathcore's dissonant, odd-time aggression: what Ben Koller (Tama Iron Cobra 900 double, Converge), Matt Greiner (DW 9000 double, August Burns Red), Blake Richardson (twin Tama Iron Cobra Power Glide singles, BTBAM), and Danny Carey (Sonor Giant Step double, Tool) actually play. Ranked budget to pro.",
+    description: "Best drum pedals for mathcore's dissonant, odd-time aggression: what Ben Koller (Tama Iron Cobra Double Pedal, Converge), Matt Greiner (DW 9000 double, August Burns Red), Blake Richardson (twin Tama Iron Cobra Power Glide singles, BTBAM), and Danny Carey (Sonor Giant Step double, Tool) actually play. Ranked budget to pro.",
     seoKeywords: [
       'best drum pedals for mathcore',
       'mathcore drum pedal',
@@ -67303,11 +67303,11 @@ Start where your budget allows — even a Tama Imperialstar or Sonor AQ2 will ge
       title: "Why Mathcore Needs Pedals That Respond Instantly to Rhythmic Whiplash",
       content: `Mathcore's constantly shifting time signatures and sudden tempo changes demand a pedal that responds with total consistency whether it's landing a straightforward hardcore breakdown or an odd-grouped accent buried mid-riff. Unlike genres built around sustained, predictable double-bass patterns, mathcore's rhythmic whiplash rewards a pedal that reacts instantly to whatever the riff throws at it next.
 
-Ben Koller's Tama Iron Cobra 900 double pedal has driven Converge's blast-and-breakdown vocabulary across 25-plus years, anchoring the fluid control within apparent chaos that turned "Jane Doe" (2001) into mathcore's founding statement. Matt Greiner's DW 9000 Series double pedal carries math metal's rhythmic complexity into mathcore-adjacent metalcore with August Burns Red. Blake Richardson of Between the Buried and Me drives twin Tama Iron Cobra Power Glide single pedals rather than a linked double pedal, preserving foot independence across BTBAM's genre-hopping technicality. Danny Carey's Sonor Giant Step Twin Effect double pedal anchors Tool's famously Fibonacci-structured polyrhythms, a compositional rigor that directly informed math metal and mathcore's own rhythmic ambitions.
+Ben Koller's Tama Iron Cobra Double Pedal has driven Converge's blast-and-breakdown vocabulary across 25-plus years, anchoring the fluid control within apparent chaos that turned "Jane Doe" (2001) into mathcore's founding statement. Matt Greiner's DW 9000 Series double pedal carries math metal's rhythmic complexity into mathcore-adjacent metalcore with August Burns Red. Blake Richardson of Between the Buried and Me drives twin Tama Iron Cobra Power Glide single pedals rather than a linked double pedal, preserving foot independence across BTBAM's genre-hopping technicality. Danny Carey's Sonor Giant Step Twin Effect double pedal anchors Tool's famously Fibonacci-structured polyrhythms, a compositional rigor that directly informed math metal and mathcore's own rhythmic ambitions.
 
 This guide breaks down double-pedal reliability versus twin-single foot independence for mathcore — comparing what these four influential drummers actually play and why, with recommendations from budget to professional touring rigs.`,
       keyPoints: [
-        "Ben Koller's Tama Iron Cobra 900 double pedal has driven Converge's blast-and-breakdown vocabulary for 25-plus years",
+        "Ben Koller's Tama Iron Cobra Double Pedal has driven Converge's blast-and-breakdown vocabulary for 25-plus years",
         "Matt Greiner's DW 9000 Series double pedal carries math metal complexity into mathcore-adjacent metalcore",
         "Blake Richardson drives twin independent Tama Iron Cobra Power Glide singles rather than a linked double pedal",
         "Danny Carey's Sonor Giant Step double pedal anchors the Fibonacci-structured rigor that informed mathcore's rhythmic ambitions"
@@ -67321,7 +67321,7 @@ This guide breaks down double-pedal reliability versus twin-single foot independ
         {
           name: "Instant Response to Rhythmic Whiplash",
           icon: "⚡",
-          description: "Mathcore's sudden tempo and meter changes need a pedal that reacts immediately without lag. Ben Koller's Tama Iron Cobra 900 and Danny Carey's Sonor Giant Step both deliver the instant response the genre's whiplash demands.",
+          description: "Mathcore's sudden tempo and meter changes need a pedal that reacts immediately without lag. Ben Koller's Tama Iron Cobra Double Pedal and Danny Carey's Sonor Giant Step both deliver the instant response the genre's whiplash demands.",
           recommendation: "A responsive double pedal with minimal lag for sudden odd-time accents"
         },
         {
@@ -67371,7 +67371,7 @@ This guide breaks down double-pedal reliability versus twin-single foot independ
           tier: "pro",
           driveType: "Chain (Power Glide)",
 
-          description: `Ben Koller's Tama Iron Cobra 900 double pedal has driven Converge's blast-and-breakdown vocabulary across 25-plus years, from "Jane Doe" (2001)'s controlled chaos to the Grammy-nominated "The Dusk in Us." The Power Glide cam and Lightning Beater deliver instant response to mathcore's sudden tempo and meter changes without lag.
+          description: `Ben Koller's Tama Iron Cobra Double Pedal has driven Converge's blast-and-breakdown vocabulary across 25-plus years, from "Jane Doe" (2001)'s controlled chaos to the Grammy-nominated "The Dusk in Us." The Power Glide cam and Lightning Beater deliver instant response to mathcore's sudden tempo and meter changes without lag.
 
 Koller's setup reflects hardcore punk's touring practicality: reliable, proven, and durable enough to survive thousands of aggressive live shows without a platform change.`,
 
@@ -67395,7 +67395,7 @@ Koller's setup reflects hardcore punk's touring practicality: reliable, proven, 
             weight: "4.2 kg (pair)"
           },
           usedBy: [
-            { name: "Ben Koller", band: "Converge", note: "Tama Iron Cobra 900 Double Pedal — current setup since \"Jane Doe\" (2001)" }
+            { name: "Ben Koller", band: "Converge", note: "Tama Iron Cobra Double Pedal — current setup since \"Jane Doe\" (2001)" }
           ],
           verdict: "The mathcore founding standard. Koller's Iron Cobra defines the genre's reliable, hardcore-rooted pedal voice.",
           rating: 4.7,
@@ -67575,7 +67575,7 @@ Treating rhythmic mathematics as songwriting structure rather than pure technica
 - Total foot independence at the cost of extra gear and setup complexity
 - Best for: Drummers whose material specifically rewards complete foot separation
 
-**The Truth:** A linked double pedal is the standard choice across mathcore, and Ben Koller's Iron Cobra 900, Matt Greiner's DW 9000, and Danny Carey's Sonor Giant Step all prove it can handle the genre's most demanding rhythmic whiplash. Blake Richardson's twin-single setup is the exception that shows total foot independence is available if your technique specifically calls for it.
+**The Truth:** A linked double pedal is the standard choice across mathcore, and Ben Koller's Iron Cobra Double Pedal, Matt Greiner's DW 9000, and Danny Carey's Sonor Giant Step all prove it can handle the genre's most demanding rhythmic whiplash. Blake Richardson's twin-single setup is the exception that shows total foot independence is available if your technique specifically calls for it.
 
 **Our Recommendation:** Start with a linked double pedal — it's simpler, more affordable, and handles mathcore's odd-time demands at every level from Ben Koller's Iron Cobra to Danny Carey's Giant Step. Only move to twin independent singles if you have a specific technical reason to separate your feet completely.`,
       comparisonTable: [
@@ -67621,7 +67621,7 @@ Treating rhythmic mathematics as songwriting structure rather than pure technica
       'best-bass-drums-for-mathcore'
     ],
     relatedDrummers: [
-      { slug: 'ben-koller', name: 'Ben Koller', reason: 'Tama Iron Cobra 900 Double Pedal — Converge mathcore\'s founding pedal' },
+      { slug: 'ben-koller', name: 'Ben Koller', reason: 'Tama Iron Cobra Double Pedal — Converge mathcore\'s founding pedal' },
       { slug: 'matt-greiner', name: 'Matt Greiner', reason: 'DW 9000 Series Double Pedal — August Burns Red math metal complexity' },
       { slug: 'blake-richardson', name: 'Blake Richardson', reason: 'Twin Tama Iron Cobra Power Glide singles — BTBAM foot independence' },
       { slug: 'danny-carey', name: 'Danny Carey', reason: 'Sonor Giant Step Twin Effect — Tool\'s Fibonacci-structured rigor' }
@@ -67629,7 +67629,7 @@ Treating rhythmic mathematics as songwriting structure rather than pure technica
 
     // Featured drummers (issue template)
     featuredDrummers: [
-      { slug: 'ben-koller', name: 'Ben Koller', reason: 'Tama Iron Cobra 900 Double Pedal — Converge mathcore\'s founding pedal' },
+      { slug: 'ben-koller', name: 'Ben Koller', reason: 'Tama Iron Cobra Double Pedal — Converge mathcore\'s founding pedal' },
       { slug: 'matt-greiner', name: 'Matt Greiner', reason: 'DW 9000 Series Double Pedal — August Burns Red math metal complexity' },
       { slug: 'blake-richardson', name: 'Blake Richardson', reason: 'Twin Tama Iron Cobra Power Glide singles — BTBAM foot independence' },
       { slug: 'danny-carey', name: 'Danny Carey', reason: 'Sonor Giant Step Twin Effect — Tool\'s Fibonacci-structured rigor' }
@@ -67639,7 +67639,7 @@ Treating rhythmic mathematics as songwriting structure rather than pure technica
     faq: [
       {
         question: "What pedal does Ben Koller use?",
-        answer: "Ben Koller of Converge plays a Tama Iron Cobra 900 double pedal, which has driven Converge's blast-and-breakdown vocabulary across 25-plus years, from \"Jane Doe\" (2001) through the Grammy-nominated \"The Dusk in Us.\""
+        answer: "Ben Koller of Converge plays a Tama Iron Cobra Double Pedal, which has driven Converge's blast-and-breakdown vocabulary across 25-plus years, from \"Jane Doe\" (2001) through the Grammy-nominated \"The Dusk in Us.\""
       },
       {
         question: "Does Blake Richardson use a double pedal?",
@@ -67662,7 +67662,7 @@ Treating rhythmic mathematics as songwriting structure rather than pure technica
     // Conclusion
     conclusion: {
       title: "Find Your Mathcore Pedal Foundation",
-      content: `Mathcore pedal choice comes down to how your feet need to respond to the genre's rhythmic whiplash. Ben Koller's Tama Iron Cobra 900 has proven reliable across 25-plus years of Converge's blast-and-breakdown vocabulary. Matt Greiner's DW 9000 carries math metal's technical complexity into mathcore-adjacent metalcore, while Danny Carey's Sonor Giant Step anchors Tool's Fibonacci-structured compositional rigor. Blake Richardson's twin-single setup shows that total foot independence is available for drummers whose technique specifically calls for it.
+      content: `Mathcore pedal choice comes down to how your feet need to respond to the genre's rhythmic whiplash. Ben Koller's Tama Iron Cobra Double Pedal has proven reliable across 25-plus years of Converge's blast-and-breakdown vocabulary. Matt Greiner's DW 9000 carries math metal's technical complexity into mathcore-adjacent metalcore, while Danny Carey's Sonor Giant Step anchors Tool's Fibonacci-structured compositional rigor. Blake Richardson's twin-single setup shows that total foot independence is available for drummers whose technique specifically calls for it.
 
 None of these approaches is more "correct" — all four represent mathcore's founding commitment to instant, consistent response under constantly shifting time signatures. Start with a linked double pedal unless you have a specific reason to separate your feet completely.
 
@@ -103939,12 +103939,12 @@ Derek Roddy's Tama Speed Cobra 910 proves refined chain drive can match that con
       title: "Why Mathcore Rewards Precision Over Raw Sustained Speed",
       content: `Mathcore's constantly shifting time signatures and sudden tempo changes put a very different demand on a bass drum pedal than genres built around sustained, predictable double-bass runs. What matters here isn't how many notes per second a pedal can sustain over sixteen bars — it's whether the pedal responds with total, identical precision whether it's landing a straightforward hardcore breakdown or a single odd-grouped accent buried mid-riff, with zero lag between decision and impact.
 
-Ben Koller's Tama Iron Cobra 900 double pedal has driven Converge's blast-and-breakdown vocabulary for 25-plus years precisely because it reacts instantly to that kind of rhythmic whiplash. Matt Greiner's DW 9000 Series double pedal gives him the infinite adjustability his jazz-influenced dynamics and odd-time integration demand with August Burns Red. Blake Richardson drives two fully independent Tama Iron Cobra Power Glide single pedals rather than a linked double, preserving total foot independence across Between the Buried and Me's genre-hopping technicality. Danny Carey's Sonor Giant Step double pedal anchors Tool's Fibonacci-structured polyrhythms, a compositional discipline that directly informed mathcore's own rhythmic ambitions.
+Ben Koller's Tama Iron Cobra Double Pedal has driven Converge's blast-and-breakdown vocabulary for 25-plus years precisely because it reacts instantly to that kind of rhythmic whiplash. Matt Greiner's DW 9000 Series double pedal gives him the infinite adjustability his jazz-influenced dynamics and odd-time integration demand with August Burns Red. Blake Richardson drives two fully independent Tama Iron Cobra Power Glide single pedals rather than a linked double, preserving total foot independence across Between the Buried and Me's genre-hopping technicality. Danny Carey's Sonor Giant Step double pedal anchors Tool's Fibonacci-structured polyrhythms, a compositional discipline that directly informed mathcore's own rhythmic ambitions.
 
 This guide covers exactly what makes a bass drum pedal work for mathcore's odd-time precision and dynamic-response demands, with recommendations across every budget.`,
       keyPoints: [
         "Mathcore rewards instant, precise response to rhythmic whiplash over sustained double-bass speed",
-        "Ben Koller's Tama Iron Cobra 900 has driven Converge's blast-and-breakdown vocabulary for 25-plus years",
+        "Ben Koller's Tama Iron Cobra Double Pedal has driven Converge's blast-and-breakdown vocabulary for 25-plus years",
         "Blake Richardson drives twin independent single pedals rather than a linked double, for total foot separation",
         "Danny Carey's Sonor Giant Step anchors the Fibonacci-structured rigor that informed mathcore's rhythmic ambitions"
       ]
@@ -104000,7 +104000,7 @@ This guide covers exactly what makes a bass drum pedal work for mathcore's odd-t
           priceRange: "€400-500",
           tier: "pro",
           driveType: "Chain (Power Glide)",
-          description: `Ben Koller's Tama Iron Cobra 900 double pedal has driven Converge's blast-and-breakdown vocabulary across 25-plus years, from "Jane Doe" (2001)'s controlled chaos to the Grammy-nominated "The Dusk in Us." The Power Glide cam and Lightning Beater deliver instant response to mathcore's sudden tempo and meter changes without lag.
+          description: `Ben Koller's Tama Iron Cobra Double Pedal has driven Converge's blast-and-breakdown vocabulary across 25-plus years, from "Jane Doe" (2001)'s controlled chaos to the Grammy-nominated "The Dusk in Us." The Power Glide cam and Lightning Beater deliver instant response to mathcore's sudden tempo and meter changes without lag.
 
 Koller's setup reflects hardcore punk's touring practicality — reliable, proven, and durable enough to survive thousands of aggressive live shows without a platform change.`,
           pros: [
@@ -104022,7 +104022,7 @@ Koller's setup reflects hardcore punk's touring practicality — reliable, prove
             footboard: "Standard Iron Cobra design"
           },
           usedBy: [
-            { name: "Ben Koller", band: "Converge", note: "Tama Iron Cobra 900 Double Pedal — current setup since \"Jane Doe\" (2001)" }
+            { name: "Ben Koller", band: "Converge", note: "Tama Iron Cobra Double Pedal — current setup since \"Jane Doe\" (2001)" }
           ],
           verdict: "The mathcore founding standard. Koller's Iron Cobra defines the genre's reliable, hardcore-rooted pedal voice.",
           rating: 4.7,
@@ -104222,14 +104222,14 @@ Treating rhythmic mathematics as songwriting structure rather than pure technica
       'best-bass-drums-for-mathcore'
     ],
     relatedDrummers: [
-      { slug: 'ben-koller', name: 'Ben Koller', reason: 'Tama Iron Cobra 900 Double Pedal — Converge mathcore\'s founding pedal' },
+      { slug: 'ben-koller', name: 'Ben Koller', reason: 'Tama Iron Cobra Double Pedal — Converge mathcore\'s founding pedal' },
       { slug: 'matt-greiner', name: 'Matt Greiner', reason: 'DW 9000 Series Double Pedal — August Burns Red math metal complexity' },
       { slug: 'blake-richardson', name: 'Blake Richardson', reason: 'Twin Tama Iron Cobra Power Glide singles — BTBAM foot independence' },
       { slug: 'danny-carey', name: 'Danny Carey', reason: 'Sonor Giant Step Twin Effect — Tool\'s Fibonacci-structured rigor' }
     ],
 
     featuredDrummers: [
-      { slug: 'ben-koller', name: 'Ben Koller', reason: 'Tama Iron Cobra 900 — Converge mathcore\'s founding pedal' },
+      { slug: 'ben-koller', name: 'Ben Koller', reason: 'Tama Iron Cobra Double Pedal — Converge mathcore\'s founding pedal' },
       { slug: 'danny-carey', name: 'Danny Carey', reason: 'Sonor Giant Step Twin Effect — Fibonacci-structured rigor that informed mathcore' }
     ],
 
@@ -104237,11 +104237,11 @@ Treating rhythmic mathematics as songwriting structure rather than pure technica
     faq: [
       {
         question: "What pedal does Ben Koller use?",
-        answer: "Ben Koller of Converge plays a Tama Iron Cobra 900 double pedal, which has driven Converge's blast-and-breakdown vocabulary across 25-plus years, from \"Jane Doe\" (2001) through the Grammy-nominated \"The Dusk in Us.\""
+        answer: "Ben Koller of Converge plays a Tama Iron Cobra Double Pedal, which has driven Converge's blast-and-breakdown vocabulary across 25-plus years, from \"Jane Doe\" (2001) through the Grammy-nominated \"The Dusk in Us.\""
       },
       {
         question: "Do mathcore drummers need extreme double-bass speed?",
-        answer: "Not necessarily. Mathcore rewards instant, precise response to sudden meter and tempo changes over sustained double-bass speed. A pedal like Ben Koller's Iron Cobra 900 prioritizes zero-lag reaction to odd-time accents over raw sustained blast-beat velocity."
+        answer: "Not necessarily. Mathcore rewards instant, precise response to sudden meter and tempo changes over sustained double-bass speed. A pedal like Ben Koller's Iron Cobra Double Pedal prioritizes zero-lag reaction to odd-time accents over raw sustained blast-beat velocity."
       },
       {
         question: "Double pedal or twin independent singles for mathcore?",
@@ -104260,7 +104260,7 @@ Treating rhythmic mathematics as songwriting structure rather than pure technica
     // Conclusion
     conclusion: {
       title: "Find Your Mathcore Pedal Foundation",
-      content: `Mathcore pedal choice comes down to how your feet need to respond to the genre's rhythmic whiplash, not how much sustained speed you can generate. Ben Koller's Tama Iron Cobra 900 has proven reliable across 25-plus years of Converge's blast-and-breakdown vocabulary. Matt Greiner's DW 9000 carries math metal's technical complexity and wide dynamic range into mathcore-adjacent metalcore, while Danny Carey's Sonor Giant Step anchors Tool's Fibonacci-structured compositional rigor. Blake Richardson's twin-single setup shows that total foot independence is available for drummers whose technique specifically calls for it.
+      content: `Mathcore pedal choice comes down to how your feet need to respond to the genre's rhythmic whiplash, not how much sustained speed you can generate. Ben Koller's Tama Iron Cobra Double Pedal has proven reliable across 25-plus years of Converge's blast-and-breakdown vocabulary. Matt Greiner's DW 9000 carries math metal's technical complexity and wide dynamic range into mathcore-adjacent metalcore, while Danny Carey's Sonor Giant Step anchors Tool's Fibonacci-structured compositional rigor. Blake Richardson's twin-single setup shows that total foot independence is available for drummers whose technique specifically calls for it.
 
 Start with a linked double pedal unless you have a specific reason to separate your feet completely, and prioritize instant, precise response over raw top-end speed specs.
 
@@ -112684,13 +112684,13 @@ Don't overlook the budget tier — Zildjian A Series and Sabian AAX Stage both p
       title: "Deathcore's Split-Second Switch: Blast Beats Into Breakdowns",
       content: `Deathcore drumming asks a pedal to be two different instruments in the same song. One bar you're sustaining extreme-speed blast beats to match a tremolo-picked death metal riff; the next, you're landing a single, deliberately weighted hit to lock in with a down-tuned breakdown chug. Few genres demand that kind of instant switch between raw speed and controlled power from a single piece of hardware.
 
-George Kollias of Nile co-designed the Pearl Demon XR around sustained 240+ BPM blast beats, setting the extreme-speed benchmark deathcore's fastest sections chase. Chris Turner of Oceans Ate Alaska drives his polyrhythmic, blast-driven fills on "Hikari" (2017) with a Tama Speed Cobra 910, whose Speedo-Ring sprocket snaps cleanly from blast speed into a controlled breakdown feel. Ben Koller of Converge has anchored two decades of the band's most punishing live sets on a Tama Iron Cobra 900, proving that durability matters as much as raw speed.
+George Kollias of Nile co-designed the Pearl Demon XR around sustained 240+ BPM blast beats, setting the extreme-speed benchmark deathcore's fastest sections chase. Chris Turner of Oceans Ate Alaska drives his polyrhythmic, blast-driven fills on "Hikari" (2017) with a Tama Speed Cobra 910, whose Speedo-Ring sprocket snaps cleanly from blast speed into a controlled breakdown feel. Ben Koller of Converge has anchored two decades of the band's most punishing live sets on a Tama Iron Cobra Double Pedal, proving that durability matters as much as raw speed.
 
 This guide breaks down what makes a pedal work for deathcore's blast-to-breakdown demands, which pedals the genre's key drummers actually play, and how to build a setup across any budget.`,
       keyPoints: [
         "Deathcore pedals must switch instantly between blast-beat speed and controlled, weighted breakdown hits",
         "George Kollias's co-designed Pearl Demon XR sets the extreme-speed benchmark deathcore's blast sections chase",
-        "Touring durability is non-negotiable — Ben Koller's Iron Cobra 900 has survived two decades of Converge's heaviest sets"
+        "Touring durability is non-negotiable — Ben Koller's Iron Cobra Double Pedal has survived two decades of Converge's heaviest sets"
       ]
     },
 
@@ -112713,7 +112713,7 @@ This guide breaks down what makes a pedal work for deathcore's blast-to-breakdow
         {
           name: "Beater Weight for Breakdown Impact",
           icon: "💥",
-          description: "Landing a breakdown hit with authority needs more beater mass than a thin blast-beat click. Ben Koller's Iron Cobra 900 pairs well with a heavier reversible beater surface for real low-end weight.",
+          description: "Landing a breakdown hit with authority needs more beater mass than a thin blast-beat click. Ben Koller's Iron Cobra Double Pedal pairs well with a heavier reversible beater surface for real low-end weight.",
           recommendation: "A heavier felt or reversible beater surface for weighted breakdown impact"
         },
         {
@@ -112731,7 +112731,7 @@ This guide breaks down what makes a pedal work for deathcore's blast-to-breakdow
         {
           name: "Touring Durability",
           icon: "🛡️",
-          description: "Ben Koller's Tama Iron Cobra 900 has anchored Converge's sustained, blistering live tempos across two decades — proof that reinforced, durable hardware matters as much as raw top-end speed on deathcore's relentless touring schedule.",
+          description: "Ben Koller's Tama Iron Cobra Double Pedal has anchored Converge's sustained, blistering live tempos across two decades — proof that reinforced, durable hardware matters as much as raw top-end speed on deathcore's relentless touring schedule.",
           recommendation: "A durable double pedal built to survive sustained, high-impact touring night after night"
         }
       ]
@@ -112826,7 +112826,7 @@ The Speedo-Ring sprocket blends the smoothness of direct drive with the familiar
           priceRange: "€300-380",
           tier: "pro",
           driveType: "Chain (Power Glide)",
-          description: `Ben Koller's Tama Iron Cobra 900 anchors Converge's unrelenting sonic brutality, built for the sustained, blistering tempo Koller maintains through the band's most demanding live sets across two decades and landmark albums like "Jane Doe" and "The Dusk in Us."
+          description: `Ben Koller's Tama Iron Cobra Double Pedal anchors Converge's unrelenting sonic brutality, built for the sustained, blistering tempo Koller maintains through the band's most demanding live sets across two decades and landmark albums like "Jane Doe" and "The Dusk in Us."
 
 Koller's approach prioritizes power and organic dynamics over trigger-augmented precision — a philosophy that translates directly to deathcore drummers who need reliable, tourable durability as much as raw breakdown weight.`,
           pros: [
@@ -112848,7 +112848,7 @@ Koller's approach prioritizes power and organic dynamics over trigger-augmented 
             weight: "3.5 kg (pair)"
           },
           usedBy: [
-            { name: "Ben Koller", band: "Converge", note: "Tama Iron Cobra 900 — sustained, blistering tempo reliability" }
+            { name: "Ben Koller", band: "Converge", note: "Tama Iron Cobra Double Pedal — sustained, blistering tempo reliability" }
           ],
           verdict: "The durability pick. Two decades of Converge's most punishing sets prove this pedal can take it.",
           rating: 4.6,
@@ -112954,7 +112954,7 @@ For drummers still building the stamina and control the blast-into-breakdown swi
     relatedDrummers: [
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Pearl Demon XR — Nile\'s 240+ BPM blast-beat benchmark' },
       { slug: 'chris-turner', name: 'Chris Turner', reason: 'Tama Speed Cobra 910 — Oceans Ate Alaska\'s blast-driven precision' },
-      { slug: 'ben-koller', name: 'Ben Koller', reason: 'Tama Iron Cobra 900 — Converge\'s sustained, blistering tempo reliability' }
+      { slug: 'ben-koller', name: 'Ben Koller', reason: 'Tama Iron Cobra Double Pedal — Converge\'s sustained, blistering tempo reliability' }
     ],
 
     // Featured drummers (issue template)
@@ -112975,11 +112975,11 @@ For drummers still building the stamina and control the blast-into-breakdown swi
       },
       {
         question: "Is direct drive or chain drive better for deathcore?",
-        answer: "Both work at the highest level. Direct drive (Pearl Demon XR) gives more precise, linear control for the blast-to-breakdown switch. Chain drive (Tama Speed Cobra 910, Iron Cobra 900) offers a more familiar feel and proven touring durability — Ben Koller has run an Iron Cobra 900 through two decades of Converge's heaviest sets. Choose direct drive for maximum speed control, chain drive for durability and feel."
+        answer: "Both work at the highest level. Direct drive (Pearl Demon XR) gives more precise, linear control for the blast-to-breakdown switch. Chain drive (Tama Speed Cobra 910, Iron Cobra 900) offers a more familiar feel and proven touring durability — Ben Koller has run an Iron Cobra Double Pedal through two decades of Converge's heaviest sets. Choose direct drive for maximum speed control, chain drive for durability and feel."
       },
       {
         question: "Do I need a heavier beater for deathcore breakdowns?",
-        answer: "Yes — slam-timed breakdown hits need more beater mass to translate foot force into a deep, controlled thump rather than a thin click. Ben Koller's Iron Cobra 900 pairs well with a heavier reversible beater surface for real low-end weight on breakdown hits, while still handling blast-beat sections earlier in the same song."
+        answer: "Yes — slam-timed breakdown hits need more beater mass to translate foot force into a deep, controlled thump rather than a thin click. Ben Koller's Iron Cobra Double Pedal pairs well with a heavier reversible beater surface for real low-end weight on breakdown hits, while still handling blast-beat sections earlier in the same song."
       },
       {
         question: "What's a good budget drum pedal for deathcore?",
@@ -112990,7 +112990,7 @@ For drummers still building the stamina and control the blast-into-breakdown swi
     // Conclusion
     conclusion: {
       title: "Choose Your Deathcore Weapon",
-      content: `Deathcore's pedal demands are unusual: you need extreme blast-beat speed and controlled breakdown weight from the same piece of hardware, often within the same song. George Kollias's Pearl Demon XR proves direct drive can deliver on both fronts, while Chris Turner's Speedo-Ring hybrid and Ben Koller's proven Iron Cobra 900 show chain drive still has a real place in the genre.
+      content: `Deathcore's pedal demands are unusual: you need extreme blast-beat speed and controlled breakdown weight from the same piece of hardware, often within the same song. George Kollias's Pearl Demon XR proves direct drive can deliver on both fronts, while Chris Turner's Speedo-Ring hybrid and Ben Koller's proven Iron Cobra Double Pedal show chain drive still has a real place in the genre.
 
 Don't overthink the budget tier — the Tama Iron Cobra 600 uses the same core technology as pro setups and will carry you through the technique-building stage without holding you back.
 

@@ -26528,9 +26528,7 @@ George Kollias (Nile) plays a Pearl D-3000 for the rock-solid stability his 260+
           priceRange: "€90-120",
           tier: "mid",
           driveType: "Saddle, Threaded",
-          description: `The T865 brings a genuine saddle-shaped seat to a mid-range price point. While it uses a traditional threaded height post rather than hydraulics, the contoured shape and firm padding deliver real endurance benefits for drummers splitting time between two demanding styles.
-
-Jason Bittner (Overkill, Shadows Fall) anchors his hardware setup with a Mapex T865, relying on it for the sustained double-kick passages that define his dual metalcore/thrash vocabulary.`,
+          description: `The T865 brings a genuine saddle-shaped seat to a mid-range price point. While it uses a traditional threaded height post rather than hydraulics, the contoured shape and firm padding deliver real endurance benefits for drummers splitting time between two demanding styles.`,
           pros: [
             "Genuine saddle shape at an accessible price",
             "Firm, durable padding",
@@ -26549,9 +26547,7 @@ Jason Bittner (Overkill, Shadows Fall) anchors his hardware setup with a Mapex T
             height: "18\"-24\" adjustable",
             weight: "4.9 kg"
           },
-          usedBy: [
-            { name: "Jason Bittner", band: "Overkill/Shadows Fall", note: "Sustained double-kick endurance" }
-          ],
+          usedBy: [],
           verdict: "The best entry point into saddle-style comfort without paying pro-level prices.",
           rating: 4.4,
           affiliateLink: "https://www.thomann.de/intl/mapex_t865a_saddle_throne.htm?partner_id=metalforge"
@@ -26675,7 +26671,7 @@ Less common in pure extreme metal but favored by drummers who run DW's full 9000
 **Saddle (Motorcycle-Style):**
 - Contours to your thighs, distributing weight more evenly
 - Reduces numbness and hip strain on sets over 45 minutes
-- Preferred by: Mike Portnoy, Jason Bittner
+- Preferred by: Mike Portnoy
 
 **Round Top:**
 - Simpler design, generally more affordable
@@ -26730,8 +26726,7 @@ Less common in pure extreme metal but favored by drummers who run DW's full 9000
     relatedDrummers: [
       { slug: 'mike-portnoy', name: 'Mike Portnoy', reason: 'Marathon three-hour-plus sets' },
       { slug: 'george-kollias', name: 'George Kollias', reason: '260+ BPM double-bass endurance' },
-      { slug: 'mario-duplantier', name: 'Mario Duplantier', reason: 'Arena touring throne + IEM setup' },
-      { slug: 'jason-bittner', name: 'Jason Bittner', reason: 'Sustained double-kick endurance' }
+      { slug: 'mario-duplantier', name: 'Mario Duplantier', reason: 'Arena touring throne + IEM setup' }
     ],
     relatedComparisons: [],
 

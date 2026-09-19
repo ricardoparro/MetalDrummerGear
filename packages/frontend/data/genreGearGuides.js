@@ -266,8 +266,7 @@ While not as common in pure death metal, the 9000 series is favored by drummers 
             weight: "5.2 kg (pair)"
           },
           usedBy: [
-            { name: "Chris Adler", band: "Lamb of God", note: "Groove metal precision" },
-            { name: "Paul Bostaph", band: "Slayer/Testament", note: "Thrash veteran" }
+            { name: "Chris Adler", band: "Lamb of God", note: "Groove metal precision" }
           ],
           verdict: "Premium chain drive for drummers who want feel over pure speed. Excellent for death/groove styles.",
           rating: 4.5,
@@ -300,6 +299,9 @@ While not as common in pure death metal, the 9000 series is favored by drummers 
           cons: [
             "Chain drive limits ultimate speed",
             "Not as refined as Demon Drive"
+          ],
+          usedBy: [
+            { name: "Paul Bostaph", band: "Slayer/Testament", note: "Pearl Eliminator — thrash veteran's double pedal choice" }
           ],
           verdict: "Best mid-range option for aspiring death metal drummers.",
           rating: 4.3,

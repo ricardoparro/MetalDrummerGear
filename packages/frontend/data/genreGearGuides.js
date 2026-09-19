@@ -9053,7 +9053,7 @@ Whichever path you choose, tune lower than other metal subgenres would suggest, 
       title: "Why the Snare Is the Most Critical Metal Drum",
       content: `The snare drum is the backbone of every metal performance. It cuts through the mix on the backbeat, drives the energy of your fills, and — in metal — must crack with enough authority to slice through dense guitar walls and high-gain amplification. A weak snare sounds buried; a great metal snare sounds like a gunshot.
 
-Metal's most recognizable snare sounds are inseparable from the drummers who created them. Lars Ulrich's cracking Ludwig snare on "Master of Puppets" defined thrash metal's punch. Joey Jordison's Pearl Free-Floating snare was central to Slipknot's aggressive nu-metal attack. Gene Hoglan's precisely tuned Pearl delivered The Atomic Clock's metronomic precision. Tomas Haake anchors Meshuggah's polyrhythmic djent patterns with his Sonor Tomas Haake Signature 14x6.5" snare.
+Metal's most recognizable snare sounds are inseparable from the drummers who created them. Lars Ulrich's cracking Tama snare defined thrash metal's punch across Metallica's catalog. Joey Jordison's Pearl Free-Floating snare was central to Slipknot's aggressive nu-metal attack. Gene Hoglan's precisely tuned Pearl delivered The Atomic Clock's metronomic precision. Tomas Haake anchors Meshuggah's polyrhythmic djent patterns with his Sonor Tomas Haake Signature 14x6.5" snare.
 
 The right metal snare depends on your subgenre, tuning preference, and whether you need cutting brightness or thunderous depth. This guide breaks down the key choices across all price ranges, citing the exact snares used by the genre's top players.`,
       keyPoints: [
@@ -9113,43 +9113,43 @@ The right metal snare depends on your subgenre, tuning preference, and whether y
       pedals: [
         {
           rank: 1,
-          name: "Ludwig Black Beauty",
-          brand: "Ludwig",
-          model: "LB417 Black Beauty",
+          name: "Tama LU1465 Signature Snare",
+          brand: "Tama",
+          model: "LU1465 Lars Ulrich Signature",
           image: "https://upload.wikimedia.org/wikipedia/commons/a/ac/Drums_01.jpg",
-          priceRange: "€400-600",
+          priceRange: "€400-500",
           tier: "pro",
-          material: "Brass (Black Nickel over Brass)",
+          material: "Steel",
 
-          description: `The Ludwig Black Beauty is the most iconic metal snare drum in history. Its brass shell with black nickel plating delivers a warm yet powerful crack that defines the thrash metal backbeat — and it's the snare most associated with Lars Ulrich and the classic Metallica sound across albums like "Master of Puppets" and "...And Justice for All."
+          description: `The Tama LU1465 is Lars Ulrich's actual signature snare — a 14"x6.5" steel shell built to cut through Metallica's wall of guitars. Ulrich has been a Tama endorser since the mid-1980s, and the LU1465 was formalized as his full signature model in 2000, anchoring Metallica's live and studio snare crack ever since.
 
-The Black Beauty's seamless brass shell construction allows the entire drum to vibrate as a single unit, producing the complex, musical crack that resonates through dense guitar arrangements. The Imperial Lug design and P85 throw-off are battle-tested at professional levels. It is equally at home at high tunings for bright crack or lower tunings for fat backbeats.`,
+The steel shell delivers a brighter, harder-edged attack than brass alternatives, while the 6.5" depth keeps enough body for full-range playing. Low-mass lugs and a Linear Drive strainer keep the hardware fast and reliable through stadium-level touring.`,
 
           pros: [
-            "Iconic thrash metal snare sound — Metallica's Lars Ulrich",
-            "Seamless brass shell for maximum resonance",
-            "Black nickel finish resists wear and looks aggressive",
-            "P85 throw-off — reliable at every gig",
-            "Equally effective at all metal tunings"
+            "Lars Ulrich's actual signature snare since 2000 — Metallica's live and studio sound",
+            "Steel shell cuts through dense guitar walls",
+            "6.5\" depth adds body without sacrificing crack",
+            "Linear Drive strainer — reliable at every gig",
+            "Battle-tested across three decades of stadium touring"
           ],
           cons: [
-            "Brass can sound too warm for technical death/extreme metal",
-            "Premium price for brass snare",
-            "Heavier than aluminum alternatives"
+            "Brighter than brass — less warmth for players chasing a darker crack",
+            "Premium price for a signature model",
+            "6.5\" depth only — no shallower option"
           ],
           specs: {
-            shell: "Seamless Brass (Black Nickel Over Brass)",
+            shell: "1.2mm Steel",
             diameter: "14\"",
-            depth: "5\" (standard); 6.5\" available",
-            throwOff: "P85 Snappy Strainer",
-            wires: "20-strand"
+            depth: "6.5\"",
+            throwOff: "Linear Drive Strainer",
+            wires: "20-strand Super Sensitive"
           },
           usedBy: [
-            { name: "Lars Ulrich", band: "Metallica", note: "Defining thrash metal snare sound across Metallica's peak recordings" }
+            { name: "Lars Ulrich", band: "Metallica", note: "Signature snare since 2000; primary snare sound since the mid-1980s" }
           ],
-          verdict: "The quintessential metal snare. Lars Ulrich's choice — if you want the Metallica snare sound, this is it.",
+          verdict: "The authentic Metallica snare. Lars Ulrich's real signature model — if you want his actual snare sound, this is it.",
           rating: 4.9,
-          affiliateLink: "https://www.thomann.de/intl/ludwig_lb417_black_beauty.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/tama_lu1465_signature_snare.htm?partner_id=metalforge"
         },
         {
           rank: 2,
@@ -9351,17 +9351,17 @@ This is the snare for metal drummers who need one drum to work across multiple s
       title: "Steel vs Brass vs Aluminum for Metal Snares",
       content: `Shell material is the single most important snare decision for metal drummers. Here's how each choice sounds:
 
-**Steel (Pearl Free-Floating, DW Collector's Steel):**
+**Steel (Tama LU1465, Pearl Free-Floating, DW Collector's Steel):**
 - Bright, cutting, aggressive attack
 - Less warmth than brass but more projection
-- Preferred by: Joey Jordison
-- Best for: Technical metal, djent, nu-metal, extreme metal
+- Preferred by: Lars Ulrich, Joey Jordison
+- Best for: Thrash metal, technical metal, djent, nu-metal, extreme metal
 
 **Brass (Ludwig Black Beauty):**
 - Warm yet powerful crack with complex overtones
 - More musical character than pure steel
-- Preferred by: Lars Ulrich
-- Best for: Thrash metal, classic metal, heavy rock crossover
+- Preferred by: Art Cruz
+- Best for: Groove metal, metalcore, classic metal crossover
 
 **Aluminum (Ludwig Acrolite):**
 - Light, cutting, ping-like attack
@@ -9369,7 +9369,7 @@ This is the snare for metal drummers who need one drum to work across multiple s
 - Preferred by: Studio specialists and versatile players
 - Best for: Recording, mixed genres, technical applications
 
-**The Truth:** Material preference is personal. Lars Ulrich gets his defining Metallica snare tone from brass. Joey Jordison anchors Slipknot's aggressive attack with steel. Both choices are proven at the highest level. Steel is more common in extreme metal; brass is the thrash/classic metal tradition.
+**The Truth:** Material preference is personal. Lars Ulrich gets his defining Metallica snare tone from the steel Tama LU1465. Joey Jordison anchors Slipknot's aggressive attack with steel too, on the Pearl Free-Floating. Both prove steel's cutting power at the highest level. Brass remains a strong alternative for drummers chasing extra warmth and complexity in groove metal and metalcore.
 
 **Our Recommendation:** Start with steel (Pearl Sensitone or Ludwig Black Beauty) for maximum versatility in metal. Add a brass option when your budget and needs expand.`,
       comparisonTable: [
@@ -9387,8 +9387,8 @@ This is the snare for metal drummers who need one drum to work across multiple s
       picks: [
         {
           category: "Best Overall",
-          pedal: "Ludwig Black Beauty",
-          reason: "Lars Ulrich's snare — the definitive thrash metal crack. Brass shell warmth with aggressive authority."
+          pedal: "Tama LU1465 Signature Snare",
+          reason: "Lars Ulrich's actual signature snare — the definitive thrash metal crack. Steel shell cut backed by three decades of Metallica pedigree."
         },
         {
           category: "Best for Extreme Metal",
@@ -9415,14 +9415,14 @@ This is the snare for metal drummers who need one drum to work across multiple s
       'best-cymbals-for-progressive-metal'
     ],
     relatedDrummers: [
-      { slug: 'lars-ulrich', name: 'Lars Ulrich', reason: 'Ludwig Black Beauty — defining thrash metal snare sound' },
+      { slug: 'lars-ulrich', name: 'Lars Ulrich', reason: 'Tama LU1465 Signature Snare — defining thrash metal snare sound' },
       { slug: 'joey-jordison', name: 'Joey Jordison', reason: 'Pearl Free-Floating Steel — Slipknot\'s aggressive snare attack' },
       { slug: 'gene-hoglan', name: 'Gene Hoglan', reason: 'Pearl snare — The Atomic Clock\'s precision' }
     ],
 
     // Featured drummers (issue template)
     featuredDrummers: [
-      { slug: 'lars-ulrich', name: 'Lars Ulrich', reason: 'Ludwig Black Beauty snare — the definitive metal crack' },
+      { slug: 'lars-ulrich', name: 'Lars Ulrich', reason: 'Tama LU1465 Signature Snare — the definitive metal crack' },
       { slug: 'joey-jordison', name: 'Joey Jordison', reason: 'Pearl Free-Floating Steel — Slipknot nu/extreme metal snare' },
       { slug: 'tomas-haake', name: 'Tomas Haake', reason: 'Sonor Tomas Haake Signature 14x6.5" — Meshuggah djent snare precision' },
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Pearl endorser — death metal snare at extreme speeds' }
@@ -9432,7 +9432,7 @@ This is the snare for metal drummers who need one drum to work across multiple s
     faq: [
       {
         question: "What snare drum does Lars Ulrich use?",
-        answer: "Lars Ulrich uses Ludwig Black Beauty snare drums — the iconic brass-shell snare with black nickel finish that defined Metallica's thrash metal sound across 'Master of Puppets,' '...And Justice for All,' and subsequent recordings. The Black Beauty's seamless brass shell construction delivers the warm, powerful crack that cuts through Metallica's dense guitar arrangements."
+        answer: "Lars Ulrich uses the Tama LU1465, his signature 14\"x6.5\" steel-shell snare drum. Ulrich has been a Tama endorser since the mid-1980s, and the LU1465 was formalized as his full signature model in 2000. The steel shell's bright, cutting crack is built to slice through Metallica's dense guitar arrangements."
       },
       {
         question: "What snare drum does Tomas Haake use?",
@@ -9440,7 +9440,7 @@ This is the snare for metal drummers who need one drum to work across multiple s
       },
       {
         question: "Is steel or brass better for metal snare drums?",
-        answer: "Both work at the highest levels of metal — Lars Ulrich (brass Ludwig Black Beauty) and Joey Jordison (steel Pearl Free-Floating) prove this. Steel gives brighter, more cutting attack — preferred in technical metal, djent, and extreme metal. Brass delivers warmer, more complex crack — the classic thrash metal tradition. Steel is more common in modern extreme metal; brass is historically dominant in thrash and classic metal."
+        answer: "Both work at the highest levels of metal — Lars Ulrich (steel Tama LU1465) and Joey Jordison (steel Pearl Free-Floating) prove steel's cutting power at the top level. Steel gives brighter, more cutting attack — preferred in thrash, technical metal, djent, and extreme metal. Brass delivers warmer, more complex crack — a strong choice in groove metal and metalcore. Steel is more common across modern metal; brass remains the pick for drummers chasing extra warmth."
       },
       {
         question: "What is a free-floating snare drum?",
@@ -9448,7 +9448,7 @@ This is the snare for metal drummers who need one drum to work across multiple s
       },
       {
         question: "What snare size is best for metal?",
-        answer: "14\" × 5\" or 14\" × 6.5\" are the standard metal snare sizes. 5\" depth gives faster, snappier response — better for technical patterns at high tempos. 6.5\" depth produces more body and volume — preferred by hard-hitting thrash and doom players. Lars Ulrich commonly uses 5\" or 6.5\" depths. Start with 14\" × 5.5\" for versatility across metal subgenres."
+        answer: "14\" × 5\" or 14\" × 6.5\" are the standard metal snare sizes. 5\" depth gives faster, snappier response — better for technical patterns at high tempos. 6.5\" depth produces more body and volume — preferred by hard-hitting thrash and doom players. Lars Ulrich's signature Tama LU1465 uses a 6.5\" depth. Start with 14\" × 5.5\" for versatility across metal subgenres."
       },
       {
         question: "What snare heads should I use for metal?",
@@ -9459,7 +9459,7 @@ This is the snare for metal drummers who need one drum to work across multiple s
     // Conclusion
     conclusion: {
       title: "Find Your Metal Snare Voice",
-      content: `Every great metal drummer has found their snare voice — the specific crack that audiences recognize and that defines their sound in the mix. Lars Ulrich found it in the Ludwig Black Beauty. Joey Jordison found it in Pearl's Free-Floating steel. Tomas Haake found it in Sonor's signature engineering precision.
+      content: `Every great metal drummer has found their snare voice — the specific crack that audiences recognize and that defines their sound in the mix. Lars Ulrich found it in the Tama LU1465. Joey Jordison found it in Pearl's Free-Floating steel. Tomas Haake found it in Sonor's signature engineering precision.
 
 Your snare voice is out there. Start with steel for versatility and budget efficiency — the Pearl Sensitone or Ludwig Acrolite give you genuine professional response without flagship pricing. Upgrade to the Black Beauty when you're chasing that brass thunder, or to the Pearl Free-Floating when you need the ultimate in steel precision.
 

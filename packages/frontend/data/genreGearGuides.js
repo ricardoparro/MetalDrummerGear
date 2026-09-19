@@ -110425,7 +110425,7 @@ Whatever you choose, prioritize double-braced construction and precise memory lo
       title: "Why Power Metal Hardware Prizes Consistency Over Everything Else",
       content: `Power metal drumming lives at mid-to-fast, sustained tempos built around galloping, triplet-based rhythms rather than the extreme blast-beat abuse of death or black metal. That doesn't mean the hardware demands are light — it means the priority shifts. A power metal drummer needs stands and a throne that deliver the exact same feel on the last song of a two-hour festival set as they did on the first, night after night across a touring cycle, without the extreme weight-saving compromises some genres accept for portability.
 
-Scott Travis has anchored Judas Priest's twin-kick attack on the same heavy-duty DW hardware line for decades, relying on rock-solid stands to keep two independently-pedaled bass drums perfectly synced through "Painkiller" (1990)'s galloping blueprint and beyond. Aquiles Priester built his reputation on Angra's sustained, 180-220+ BPM neoclassical double-bass runs, which demand a rig that won't drift out of position mid-run. Nicko McBrain has held Iron Maiden's entire galloping, triplet-based rhythmic vocabulary together on dependable DW hardware for over four decades of arena and festival touring — proof that unglamorous reliability outlasts flashy specs. Mikkey Dee carried the same road-tested discipline from Motörhead's relentless touring schedule into Scorpions, where Pearl hardware keeps his kit locked in across wildly different stage setups night after night.
+Scott Travis has anchored Judas Priest's twin-kick attack on the same heavy-duty DW hardware line for decades, relying on rock-solid stands to keep two independently-pedaled bass drums perfectly synced through "Painkiller" (1990)'s galloping blueprint and beyond. Aquiles Priester built his reputation on Angra's sustained, 180-220+ BPM neoclassical double-bass runs, which demand a rig that won't drift out of position mid-run. Nicko McBrain has held Iron Maiden's entire galloping, triplet-based rhythmic vocabulary together on dependable DW hardware for over four decades of arena and festival touring — proof that unglamorous reliability outlasts flashy specs. Mikkey Dee carried the same road-tested discipline from Motörhead's relentless touring schedule into Scorpions, where DW hardware keeps his kit locked in across wildly different stage setups night after night.
 
 This guide breaks down what actually separates dependable power metal hardware from stands that merely look tough, which specific hardware the genre's most enduring drummers rely on, and where to spend versus where to save.`,
       keyPoints: [
@@ -110611,7 +110611,7 @@ The 400 Series delivers exactly that kind of steady, no-surprises performance, w
           tier: "mid",
           material: "Double-braced round base",
 
-          description: `Mikkey Dee's move from Motörhead's all-out attack into Scorpions' wider dynamic range depends on a throne that never shifts underneath him, and Pearl's D-3000 Roadster delivers exactly that — a wide, double-braced round base and locking height collar built for touring stamina.
+          description: `Power metal's long, sustained festival sets demand a throne that never shifts underneath the player, and Pearl's D-3000 Roadster delivers exactly that — a wide, double-braced round base and locking height collar built for touring stamina.
 
 For power metal drummers playing long festival sets across wildly different stages, a stable throne matters as much as any stand — losing seat stability mid-song costs precision at every tempo.`,
 
@@ -110619,7 +110619,7 @@ For power metal drummers playing long festival sets across wildly different stag
             "Wide double-braced base resists tip and wobble across long sets",
             "Locking height collar holds position through a full touring cycle",
             "Comfortable round-top seating for extended festival sets",
-            "Proven across Mikkey Dee's decades of touring stamina"
+            "Proven across decades of touring-circuit use"
           ],
           cons: [
             "Not as plush as premium leather thrones",
@@ -110632,9 +110632,7 @@ For power metal drummers playing long festival sets across wildly different stag
             includes: "Throne only",
             weight: "Medium"
           },
-          usedBy: [
-            { name: "Mikkey Dee", band: "Scorpions", note: "Pearl D-3000 throne for touring stamina across long festival sets" }
-          ],
+          usedBy: [],
           verdict: "A stable, comfortable throne built for power metal's long, sustained festival sets.",
           rating: 4.6,
           affiliateLink: "https://www.thomann.de/intl/pearl_d_series_throne.htm?partner_id=metalforge"
@@ -110778,7 +110776,7 @@ For a power metal drummer building their first serious touring rig, the Armory p
       { slug: 'scott-travis', name: 'Scott Travis', reason: 'DW hardware anchoring twin-kick synchronization' },
       { slug: 'aquiles-priester', name: 'Aquiles Priester', reason: 'DW 9000 Series stability for sustained neoclassical double-bass runs' },
       { slug: 'nicko-mcbrain', name: 'Nicko McBrain', reason: 'Four decades of dependable DW hardware reliability' },
-      { slug: 'mikkey-dee', name: 'Mikkey Dee', reason: 'Pearl D-3000 throne built for long festival-set touring stamina' }
+      { slug: 'mikkey-dee', name: 'Mikkey Dee', reason: 'DW hardware built for long festival-set touring stamina' }
     ],
 
     // Featured drummers (issue template)
@@ -110786,14 +110784,14 @@ For a power metal drummer building their first serious touring rig, the Armory p
       { slug: 'scott-travis', name: 'Scott Travis', reason: 'DW hardware syncing twin-kick Painkiller blueprint' },
       { slug: 'aquiles-priester', name: 'Aquiles Priester', reason: 'DW-grade stability for sustained neoclassical runs' },
       { slug: 'nicko-mcbrain', name: 'Nicko McBrain', reason: 'Four decades of dependable DW hardware' },
-      { slug: 'mikkey-dee', name: 'Mikkey Dee', reason: 'Pearl throne for long festival-set stamina' }
+      { slug: 'mikkey-dee', name: 'Mikkey Dee', reason: 'DW hardware for long festival-set stamina' }
     ],
 
     // FAQ section for SEO
     faq: [
       {
         question: "What hardware do power metal drummers use?",
-        answer: "Power metal drummers favor reliable, double-braced hardware built for touring consistency over extreme weight-saving. Scott Travis relies on DW hardware for his twin-kick Judas Priest rig, Aquiles Priester uses DW's 9000 Series for sustained neoclassical double-bass runs, Nicko McBrain has run dependable DW hardware with Iron Maiden for four decades, and Mikkey Dee uses a Pearl D-3000 throne for touring stamina."
+        answer: "Power metal drummers favor reliable, double-braced hardware built for touring consistency over extreme weight-saving. Scott Travis relies on DW hardware for his twin-kick Judas Priest rig, Aquiles Priester uses DW's 9000 Series for sustained neoclassical double-bass runs, and both Nicko McBrain and Mikkey Dee have run dependable DW hardware across their four-decade and Motörhead-to-Scorpions careers, respectively."
       },
       {
         question: "Do I need twin-kick hardware for power metal?",
@@ -110805,7 +110803,7 @@ For a power metal drummer building their first serious touring rig, the Armory p
       },
       {
         question: "How important is throne stability for power metal drumming?",
-        answer: "Very important for sustained sets. Mikkey Dee's Pearl D-3000 Roadster throne and its wide, double-braced base keep him stable across long festival sets, while Aquiles Priester's sustained double-bass runs depend on a throne that won't shift or wobble mid-passage."
+        answer: "Very important for sustained sets. A wide, double-braced base and locking height collar keep a drummer stable across long festival sets, while Aquiles Priester's sustained double-bass runs depend on a throne that won't shift or wobble mid-passage."
       },
       {
         question: "Is budget hardware reliable enough for power metal touring?",

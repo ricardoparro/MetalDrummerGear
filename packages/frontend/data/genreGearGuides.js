@@ -83732,7 +83732,7 @@ Budget shouldn't stop you either. A Tama Iron Cobra 600 or DW 3000 Series pedal 
       title: "What Bass Drum Setup Delivers Groove Metal's Punchy, Mid-Tempo Thump?",
       content: `Groove metal's entire identity rests on the bass drum landing with more weight than speed. The genre trades thrash's blast-driven tempo for syncopated, mid-tempo patterns in the 100-140 BPM range, where a single kick hit needs to feel like a hammer blow rather than a blur of notes. That reframes what a bass drum setup needs to deliver: instead of the high-headroom speed a death metal or deathcore kit chases, groove metal rewards maximum low-mid punch, a controlled and immediate response, and a shell voiced for weight rather than rebound.
 
-Vinnie Paul built the genre's founding bass drum tone on a ddrum Vinnie Paul Signature Series 22"x18" bass drum, driven by a straightforward ddrum chain-drive double pedal that anchored Pantera's thunderous, syncopated double-kick patterns on "Vulgar Display of Power" and "Far Beyond Driven." Chris Adler's Mapex Black Panther Design Lab bass drum, paired with his direct-drive Trick Pro V double pedal, gave Lamb of God's New Wave of American Heavy Metal riffs a tighter, more articulate low end across "Ashes of the Wake" and "Sacrament." Charlie Benante ran a Tama Starclassic Maple bass drum through a vintage Tama HP35 Camco chain-drive pedal from 1984 until 2010, when he finally switched to a Tama Speed Cobra — the same bass drum and pedal family he leaned on in 2022 when he stepped in for Pantera's reunion tour to honor his late friend Vinnie Paul. John Otto's Orange County Drum & Percussion (OCDP) Custom bass drum, driven by a DW 9000 Series double pedal, delivers the deep, hip-hop-influenced pocket that defined Limp Bizkit's rap-metal groove on "Significant Other" and "Chocolate Starfish and the Hot Dog Flavored Water."
+Vinnie Paul built the genre's founding bass drum tone on a ddrum Vinnie Paul Signature Series 22"x18" bass drum, driven by a straightforward ddrum chain-drive double pedal that anchored Pantera's thunderous, syncopated double-kick patterns on "Vulgar Display of Power" and "Far Beyond Driven." Chris Adler's Mapex Black Panther Design Lab bass drum, paired with his direct-drive Trick Pro V double pedal, gave Lamb of God's New Wave of American Heavy Metal riffs a tighter, more articulate low end across "Ashes of the Wake" and "Sacrament." Charlie Benante ran a Tama Starclassic Maple bass drum through a vintage Tama HP35 Camco chain-drive pedal from 1984 until 2010, when he finally switched to a Tama Speed Cobra — the same bass drum and pedal family he leaned on in 2022 when he stepped in for Pantera's reunion tour to honor his late friend Vinnie Paul. John Otto's Orange County Drum & Percussion (OCDP) Custom bass drum, driven by a Gibraltar Professional Series double pedal, delivers the deep, hip-hop-influenced pocket that defined Limp Bizkit's rap-metal groove on "Significant Other" and "Chocolate Starfish and the Hot Dog Flavored Water."
 
 This guide breaks down shell size, head selection, and pedal choice for groove metal bass drums — comparing punchy, pocket-first setups across four drummers whose founding and cross-genre groove metal lineages shaped the genre's thunderous low end, with recommendations from budget to professional touring rigs.`,
       keyPoints: [
@@ -83920,7 +83920,7 @@ Benante's decades-long loyalty to a single pedal generation — one that outlast
           tier: "mid-pro",
           material: "Custom shell, 22\"x18\" + double pedal",
 
-          description: `John Otto's Orange County Drum & Percussion (OCDP) Custom bass drum, driven by a DW 9000 Series double pedal, gave Limp Bizkit's rap-metal groove its deep, hip-hop-influenced pocket on "Significant Other" and "Chocolate Starfish and the Hot Dog Flavored Water." Otto's jazz-schooled background shows in how deliberately he places every kick hit — groove metal's mid-tempo pocket sensibility filtered through nu-metal's rhythmic vocabulary.
+          description: `John Otto's Orange County Drum & Percussion (OCDP) Custom bass drum, driven by a Gibraltar Professional Series double pedal, gave Limp Bizkit's rap-metal groove its deep, hip-hop-influenced pocket on "Significant Other" and "Chocolate Starfish and the Hot Dog Flavored Water." Otto's jazz-schooled background shows in how deliberately he places every kick hit — groove metal's mid-tempo pocket sensibility filtered through nu-metal's rhythmic vocabulary.
 
 The OCDP custom shell program lets Otto dial in exactly the deep, punchy tone his groove-centric, funk-influenced patterns depend on, proving that groove metal's bass drum priorities extend well beyond the genre's straightforward metal lineage.`,
 
@@ -83944,7 +83944,7 @@ The OCDP custom shell program lets Otto dial in exactly the deep, punchy tone hi
             headRecommendation: "Remo Powerstroke 3"
           },
           usedBy: [
-            { name: "John Otto", band: "Limp Bizkit", note: "22\"x18\" OCDP Custom + DW 9000 — deep, hip-hop-influenced groove pocket" }
+            { name: "John Otto", band: "Limp Bizkit", note: "22\"x18\" OCDP Custom + Gibraltar Professional Series — deep, hip-hop-influenced groove pocket" }
           ],
           verdict: "Best for groove metal's cross-genre, pocket-first wing. Otto's setup proves the genre's low-end priorities extend into nu-metal.",
           rating: 4.4,
@@ -84009,7 +84009,7 @@ The OCDP custom shell program lets Otto dial in exactly the deep, punchy tone hi
 - Proven across four decades spanning thrash and groove metal
 - Best for drummers who want reliability with a modern upgrade path
 
-**DW 9000 (John Otto):**
+**Gibraltar Professional Series (John Otto):**
 - Dependable, tourable double pedal built for a deep, hip-hop-influenced pocket
 - Proven across Limp Bizkit's biggest-selling rap-metal records
 - Best for groove metal's cross-genre, pocket-first wing
@@ -84060,7 +84060,7 @@ The OCDP custom shell program lets Otto dial in exactly the deep, punchy tone hi
       { slug: 'vinnie-paul', name: 'Vinnie Paul', reason: 'ddrum Vinnie Paul Signature + chain-drive pedal — Pantera groove metal founding tone' },
       { slug: 'chris-adler', name: 'Chris Adler', reason: 'Mapex Black Panther + Trick Pro V — Lamb of God syncopated riff precision' },
       { slug: 'charlie-benante', name: 'Charlie Benante', reason: 'Tama Starclassic + Speed Cobra — Anthrax/Pantera groove metal legacy' },
-      { slug: 'john-otto', name: 'John Otto', reason: 'OCDP Custom + DW 9000 — Limp Bizkit\'s hip-hop-influenced groove pocket' }
+      { slug: 'john-otto', name: 'John Otto', reason: 'OCDP Custom + Gibraltar Professional Series — Limp Bizkit\'s hip-hop-influenced groove pocket' }
     ],
 
     // Featured drummers (issue template)
@@ -84068,14 +84068,14 @@ The OCDP custom shell program lets Otto dial in exactly the deep, punchy tone hi
       { slug: 'vinnie-paul', name: 'Vinnie Paul', reason: 'ddrum Vinnie Paul Signature + chain-drive pedal — Pantera groove metal founding tone' },
       { slug: 'chris-adler', name: 'Chris Adler', reason: 'Mapex Black Panther + Trick Pro V — Lamb of God syncopated riff precision' },
       { slug: 'charlie-benante', name: 'Charlie Benante', reason: 'Tama Starclassic + Speed Cobra — Anthrax/Pantera groove metal legacy' },
-      { slug: 'john-otto', name: 'John Otto', reason: 'OCDP Custom + DW 9000 — Limp Bizkit\'s hip-hop-influenced groove pocket' }
+      { slug: 'john-otto', name: 'John Otto', reason: 'OCDP Custom + Gibraltar Professional Series — Limp Bizkit\'s hip-hop-influenced groove pocket' }
     ],
 
     // FAQ section for SEO
     faq: [
       {
         question: "Who are the best groove metal drummers and what bass drum setups do they use?",
-        answer: "Vinnie Paul of Pantera played a ddrum Vinnie Paul Signature Series 22x18\" bass drum with a chain-drive ddrum double pedal. Chris Adler of Lamb of God plays a Mapex Black Panther Design Lab bass drum with a Trick Pro V double pedal, Charlie Benante of Anthrax runs a Tama Starclassic Maple bass drum with a Tama Speed Cobra, and John Otto of Limp Bizkit plays an OCDP Custom bass drum with a DW 9000 double pedal."
+        answer: "Vinnie Paul of Pantera played a ddrum Vinnie Paul Signature Series 22x18\" bass drum with a chain-drive ddrum double pedal. Chris Adler of Lamb of God plays a Mapex Black Panther Design Lab bass drum with a Trick Pro V double pedal, Charlie Benante of Anthrax runs a Tama Starclassic Maple bass drum with a Tama Speed Cobra, and John Otto of Limp Bizkit plays an OCDP Custom bass drum with a Gibraltar Professional Series double pedal."
       },
       {
         question: "What bass drum pedal handles groove metal's syncopated pocket best?",
@@ -84098,7 +84098,7 @@ The OCDP custom shell program lets Otto dial in exactly the deep, punchy tone hi
     // Conclusion
     conclusion: {
       title: "Find Your Groove Metal Bass Drum Setup",
-      content: `Groove metal bass drum choice comes down to how much weight and pocket precision your riffs demand. Vinnie Paul's ddrum Signature bass drum and chain-drive pedal defined the thunderous, gated tone the genre still measures itself against. Chris Adler's Mapex Black Panther and Trick Pro V setup shows how technical, syncopated groove metal rewards precision without sacrificing low-end weight. Charlie Benante's decades-long Tama Starclassic and Speed Cobra setup — the same family of gear he leaned on filling in for Pantera in 2022 — traces a direct line from thrash into groove metal's founding legacy, while John Otto's OCDP Custom and DW 9000 rig proves the genre's pocket-first philosophy extends well beyond straightforward metal into nu-metal's hip-hop-influenced groove.
+      content: `Groove metal bass drum choice comes down to how much weight and pocket precision your riffs demand. Vinnie Paul's ddrum Signature bass drum and chain-drive pedal defined the thunderous, gated tone the genre still measures itself against. Chris Adler's Mapex Black Panther and Trick Pro V setup shows how technical, syncopated groove metal rewards precision without sacrificing low-end weight. Charlie Benante's decades-long Tama Starclassic and Speed Cobra setup — the same family of gear he leaned on filling in for Pantera in 2022 — traces a direct line from thrash into groove metal's founding legacy, while John Otto's OCDP Custom and Gibraltar Professional Series rig proves the genre's pocket-first philosophy extends well beyond straightforward metal into nu-metal's hip-hop-influenced groove.
 
 None of these approaches is more "correct" — all four represent groove metal's founding commitment to combining weight with pocket precision. Start with whichever pedal action matches your footwork technique, and don't be afraid to prioritize reliability over chasing extreme-metal speed numbers.
 

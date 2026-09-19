@@ -11099,7 +11099,7 @@ The DW 9000's consistent feel and American manufacturing quality make it the cho
             "Magnetic spring system for consistent tension at all positions",
             "Premium American-made hardware quality",
             "Extensive adjustability for technique customization",
-            "Trusted by Matt Garstka and Dirk Verbeuren for technical precision"
+            "Trusted by Matt Garstka for technical precision"
           ],
           cons: [
             "Highest price point in this guide",
@@ -11114,10 +11114,9 @@ The DW 9000's consistent feel and American manufacturing quality make it the cho
             spring: "Magnetic controlled-friction"
           },
           usedBy: [
-            { name: "Matt Garstka", band: "Animals as Leaders", note: "DW for technical precision" },
-            { name: "Dirk Verbeuren", band: "Megadeth", note: "DW hardware for technical thrash precision" }
+            { name: "Matt Garstka", band: "Animals as Leaders", note: "DW for technical precision" }
           ],
-          verdict: "Best for technical precision and dynamic range. Dirk Verbeuren's choice is reason enough to consider it.",
+          verdict: "Best for technical precision and dynamic range.",
           rating: 4.7,
           affiliateLink: "https://www.thomann.de/intl/dw_9000_double_pedal.htm?partner_id=metalforge"
         },
@@ -11198,9 +11197,9 @@ For metal drummers whose technique relies heavily on the heel-toe method or who 
           },
           usedBy: [
             { name: "Speed-focused metal drummers", band: "Various", note: "Heel-toe and extreme speed technique" },
-            { name: "Tama-endorsed drummers", band: "Various", note: "Where Iron Cobra speed exceeds power requirements" }
+            { name: "Dirk Verbeuren", band: "Megadeth", note: "Tama Speed Cobra 910 for technical thrash precision" }
           ],
-          verdict: "Best for heel-toe technique and maximum speed. The Iron Cobra's faster, more specialized sibling.",
+          verdict: "Best for heel-toe technique and maximum speed. Dirk Verbeuren's platform for technical thrash precision.",
           rating: 4.4,
           affiliateLink: "https://www.thomann.de/intl/tama_speed_cobra_910_double_pedal.htm?partner_id=metalforge"
         }
@@ -11291,7 +11290,6 @@ For metal drummers whose technique relies heavily on the heel-toe method or who 
 **DW 9000:**
 - Chain drive with extended footboard and magnetic spring
 - Precision-focused feel with exceptional dynamic consistency
-- Dirk Verbeuren — technical precision and dynamic range
 - Best for technical metal and dynamic range across tempos
 
 **Trick Bigfoot:**
@@ -11325,7 +11323,7 @@ For metal drummers whose technique relies heavily on the heel-toe method or who 
         {
           category: "Best for Technical Precision",
           pedal: "DW 9000",
-          reason: "Extended footboard and magnetic spring for consistent feel at all dynamics. Dirk Verbeuren's platform for technical thrash precision."
+          reason: "Extended footboard and magnetic spring for consistent feel at all dynamics."
         },
         {
           category: "Best for Elite Players",
@@ -11385,7 +11383,9 @@ For metal drummers whose technique relies heavily on the heel-toe method or who 
 
 For most metal drummers, the Tama Iron Cobra 900 is the answer. It's versatile, adjustable, indestructible, and used by more professional metal drummers than any competitor. If you're a death metal specialist pushing extreme speeds, consider the Pearl Demon Drive — Gene Hoglan's platform since 2008, also trusted by Joey Jordison since 2010.
 
-If you want American build quality and Dirk Verbeuren's precision platform, the DW 9000 delivers.
+If you want American build quality and precision, the DW 9000 delivers.
+
+For Dirk Verbeuren's technical thrash precision platform, the Tama Speed Cobra 910 delivers.
 
 Whatever you choose: learn your pedal, adjust it for your technique, and practice consistently. The pedal amplifies your technique — it doesn't replace it.
 

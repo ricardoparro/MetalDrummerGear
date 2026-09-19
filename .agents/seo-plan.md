@@ -9286,3 +9286,39 @@ Ran `gh issue list --state all --search "genreGearGuides <drummer> <category>"` 
 3. Content-gap queries (`danny carey drum set`, `flo mounier`) unchanged/held on established precedent (both exhausted-lever/class-2 rulings).
 4. Next drum-chair watch due Monday 2026-09-21, group 3 (sepultura/slayer/slipknot/testament/tool/vader/volto).
 4. Next drum-chair watch due Monday 2026-09-21, group 3 (sepultura/slayer/slipknot/testament/tool/vader/volto).
+
+---
+
+## 2026-09-19 (run, per metrics.md 05:16 UTC) — 8 proposals filed (#7766-7773): fresh alphabetic-band pass on genreGearGuides.js, unaudited drummers
+
+### Bank check
+Open `seo-proposal` at run start: 11 (8 fresh/untriaged #7746-7753 from the prior run + 3 standing umbrellas #2211/#3810/#3819) — well under 45 → cleared to file up to 8 net-new. Metrics 05:16 UTC (335 users/378 sessions/571 views 7d; GSC 7,968 impr/159 clicks/2.00% CTR/pos 7.5). Content-gap table: `danny carey drum set` (89 impr/1.12% CTR/pos 11.0) — re-confirmed against `learned-patterns.md` line 236 (exhausted-content-lever ruling, extended to this query variant on 09-18) — held, no new action. Today is Saturday — drum-chair watch not due (next due Monday 09-21, group 3).
+
+### This run's work
+Per the 09-18 16:47 run's note that `genreGearGuides.js` is not exhausted and the next low-bank run should start a fresh systematic pass by an unaudited alphabetic band rather than continuing an exhausted follow-up list: pulled the full 71-drummer `ENDORSEMENT_TIMELINE` key list from `endorsementNews.js` and cross-referenced against every drummer previously covered by a genreGearGuides.js fix (per this file's run history) — found ~40 drummers never yet audited in this file at all. Split into 3 groups (~13 each, excluding the 8 drummers already covered by this run's own open bank: Frost, Paul Mazurkiewicz, Aquiles Priester, Dirk Verbeuren, Eloy Casagrande, Matt Garstka, Ben Koller, Derek Roddy) and dispatched 3 parallel audit agents.
+
+Raw yield was large (~20 candidate mismatches across all 3 reports, several drummers clean/not-yet-referenced in the file). Personally re-verified every filed candidate directly against `endorsementNews.js` before filing (not trusting agent reports alone) — caught and **dropped one agent finding that didn't hold up**: the Martin Axenrot "omit-if-unsure" claim (dual 22"x18" DW bass drums) cited a "Hardware: Unverified" flag in `extendedBios.js` that doesn't actually exist there — direct read of `extendedBios.js` found the opposite: a "Twin-bass-drum setup enabling extended double-bass passages" line in `styleAndInfluences` that actually *corroborates* the twin-kick claim. This is exactly the premise-checking failure `learned-patterns.md` line 223 warns about; swapped in a personally-verified Scott Travis hardware finding instead. Also discovered the Vinnie Paul finding was far larger in scope than the audit agent reported (4 locations cited) — my own `grep -c` found 68 co-occurrences of "ddrum"+"Vinnie Paul" spanning 5 groove-metal guide families (kits, snares, pedals×2, bass-drums), not just the 1 pedal guide the agent flagged — filed as a batch accordingly.
+
+**8 filed, all single/few-guide corrections on existing pages, zero new URLs — freeze-compliant:**
+1. **#7766** — Vinnie Paul's 1990s Pantera gear (Cowboys from Hell/Vulgar Display of Power/Far Beyond Driven) anachronistically fabricated as "ddrum" (his real 2008+/Hellyeah-era brand) across 5 groove-metal guide families (~68 locations) — verified Tama 1990-1996 for all 3 cited albums.
+2. **#7767** — Art Cruz's kit fabricated as a nonexistent "Ludwig Classic Oak" line across 4 metalcore guide families (31 locations), several self-contradicting his own correctly-stated Black Beauty snare in the same sentence — verified Ludwig Black Beauty (14x6.5") since 2019, no other Ludwig line documented.
+3. **#7768** — Lars Ulrich snare fabricated as "Ludwig Black Beauty" in the metal snare guide (13 locations) — verified Tama LU1465 Signature Snare since 2000; root-caused as a likely copy mixup with Art Cruz's real, correctly-attributed Black Beauty elsewhere in the same file.
+4. **#7769** — Nicko McBrain pedal fabricated as "Sonor" across 3 power-metal pedal guide families (~17 locations) — verified DW single pedal since 1984 (his own timeline's "kept exclusively... throughout his career" note directly rules out Sonor); caught and corrected the file's own conflicting `currentEndorsements.hardware.brand: 'unconfirmed'` shorthand by citing the more authoritative full timeline entry instead (same class of lesson as the 07-14 Matt Garstka superseding-entry case).
+5. **#7770** — Nicko McBrain + Scott Travis hardware both fabricated (as "Sonor"/"Tama" respectively) in the same sentence of the power-metal hardware guide (8 locations) — both verified DW; Scott Travis's DW hardware is already stated correctly in this file's own sibling pedal guide, a direct in-file self-contradiction.
+6. **#7771** — Blake Richardson drums/pedal fabricated as Pearl/Demon Drive + heads fabricated as stale Remo in 2 mathcore guides (~13 locations) — verified Tama Starclassic Bubinga + twin Tama Iron Cobra Power Glide pedals + Evans heads, all since the 2018 switch.
+7. **#7772** — Tim Yeung + Kevin Talley both wrongly listed as users of the same Axis A21-2 pedal (1 shared `usedBy` block, 2 wrong entries) — verified Tama Speed Cobra 910 / Pearl Eliminator Double Pedal respectively, neither has any Axis endorsement.
+8. **#7773** — Sean Reinert cymbals fabricated with an invented specific "10\" Zildjian A Splash" model + "A/K rig" framing in the technical-death-metal splash guide (10 locations) — verified Zildjian K Custom since 2008, no splash cymbal documented anywhere in his record.
+
+### Dedup notes
+Ran `gh issue list --state all --search "genreGearGuides <drummer> <category>"` for every candidate before filing (9 searches, ~60 historical hits reviewed). Read full bodies (not just titles) of the closest-matching prior issues for Nicko McBrain (#6532 — drums/Sonor→BDC, a different category than my pedal/hardware finding), Scott Travis (#6776 — drums+pedal in 2 different guides than my hardware-guide finding), and Blake Richardson (#6833 — cymbals in a different guide than my drums/pedal/heads findings) to confirm zero line-range/category overlap before filing.
+
+### Open proposals waiting on CEO triage
+- #7746-7753 (prior run, still open/fresh or ai-fix)
+- #7766-7773 (this run, 8 fresh)
+- #2211/#3810/#3819 (standing umbrellas)
+
+### Next run
+1. Watch #7766-7773 through CEO triage.
+2. `genreGearGuides.js` still not exhausted — this run's 3-way alphabetic-band audit covered ~40 unaudited drummers but many came back "clean" or "not yet referenced in the file" (arin-ilejay, jocke-wallgren, richard-christy, ryan-van-poederooyen, martin-lopez, adrian-erlandsson, jon-dette, jimmy-degrasso, nick-barker, alex-rudinger, john-longstreth, waltteri-vayrynen — 9 of these simply don't appear in the file yet). Untriaged leftovers worth a follow-up pass if the bank stays low: Nick Augusto sticks (Vic Firth vs verified Pro-Mark, 7 locations), Daray hardware (Pearl Demon XR vs verified Demon Drive, likely bleed from George Kollias, ~10 locations), Paul Bostaph pedal (DW vs verified Pearl Eliminator, 1 location), Morgan Ågren fabricated Meshuggah/Fredrik Thordendal collaboration (not gear, but an unverified biographical claim, 2 locations), Mikkey Dee hardware (line 110493 in the same power-metal hardware guide as #7770 — still says "Pearl hardware" despite #6533 having previously fixed a different Pearl-drums fabrication for him; worth checking if this specific hardware-guide line was in #6533's scope before filing).
+3. Content-gap query (`danny carey drum set`) unchanged/held on established precedent (exhausted-lever ruling).
+4. Next drum-chair watch due Monday 2026-09-21, group 3 (sepultura/slayer/slipknot/testament/tool/vader/volto).

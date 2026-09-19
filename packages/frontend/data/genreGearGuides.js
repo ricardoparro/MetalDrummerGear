@@ -89924,7 +89924,7 @@ One overlooked factor: doom's slow pace means a stick's weight matters more than
     // SEO metadata
     title: "Best Drumsticks for Extreme Metal: 2026 Ultimate Guide",
     metaTitle: "Best Drumsticks for Extreme Metal 2026 | MetalForge Expert Guide",
-    description: "Best drumsticks for extreme metal drumming: what Pete Sandoval (Ahead Lars Ulrich Signature), Derek Roddy (Vater Signature), Gene Hoglan (ProMark Classic Forward 2B), and George Kollias (Vic Firth) actually play. Durable, fast sticks built to survive sustained blast beats — ranked budget to pro.",
+    description: "Best drumsticks for extreme metal drumming: what Pete Sandoval (Ahead Lars Ulrich Signature), Derek Roddy (Vater 5B), Gene Hoglan (ProMark Classic Forward 2B), and George Kollias (Vic Firth) actually play. Durable, fast sticks built to survive sustained blast beats — ranked budget to pro.",
     seoKeywords: [
       'best drumsticks for extreme metal',
       'extreme metal drumsticks',
@@ -89960,12 +89960,12 @@ One overlooked factor: doom's slow pace means a stick's weight matters more than
       title: "Why Extreme Metal Sticks Have to Survive Before They Have to Feel Good",
       content: `Extreme metal — death metal, technical death metal, and the grindcore-adjacent brutality surrounding them — puts more cumulative stress on a stick than almost any other genre. At 200-280 BPM sustained blast beats, a stick strikes a rim, cymbal, or head thousands of times a set, night after touring night, and has to keep rebounding accurately long after a lighter or lower-quality stick would splinter or lose its snap.
 
-Pete Sandoval of Morbid Angel, who pioneered the gravity blast technique, plays the Ahead Lars Ulrich Signature — an aluminum-core, polyurethane-sleeved stick whose synthetic construction survives his uniquely punishing technique far longer than solid wood. Derek Roddy of Hate Eternal and Nile plays his own Vater signature stick, a lightweight design built for maximum speed across his one-footed blast technique. Gene Hoglan of Death and Testament, nicknamed "The Atomic Clock" for his metronomic precision, runs a ProMark Classic Forward 2B for its forward-weighted balance and consistent feel across marathon touring schedules. George Kollias of Nile plays Vic Firth sticks.
+Pete Sandoval of Morbid Angel, who pioneered the gravity blast technique, plays the Ahead Lars Ulrich Signature — an aluminum-core, polyurethane-sleeved stick whose synthetic construction survives his uniquely punishing technique far longer than solid wood. Derek Roddy of Hate Eternal and Nile plays a standard Vater 5B, a durable, dependable diameter that has anchored his one-footed blast technique since 2001. Gene Hoglan of Death and Testament, nicknamed "The Atomic Clock" for his metronomic precision, runs a ProMark Classic Forward 2B for its forward-weighted balance and consistent feel across marathon touring schedules. George Kollias of Nile plays Vic Firth sticks.
 
 This guide covers what actually makes a drumstick survive extreme metal's demands, what the genre's most respected drummers actually play, and concrete recommendations from budget to pro.`,
       keyPoints: [
         "Extreme metal's sustained blast beats destroy sticks that work fine in slower metal styles — durability is not optional",
-        "Derek Roddy's lightweight signature stick prioritizes speed and control for his one-footed blast technique",
+        "Derek Roddy's standard Vater 5B proves a dependable, off-the-shelf diameter can anchor his one-footed blast technique",
         "Pete Sandoval's Ahead aluminum-core stick shows synthetic construction can outlast solid wood under his gravity-blast technique",
         "Gene Hoglan's standard ProMark Classic Forward 2B proves an off-the-shelf, forward-weighted stick can anchor decades of extreme metal touring"
       ]
@@ -89984,7 +89984,7 @@ This guide covers what actually makes a drumstick survive extreme metal's demand
         {
           name: "Fast Rebound and Light Weight",
           icon: "⚡",
-          description: "At 200-280 BPM, a stick that fights the drummer's hand robs speed from every stroke. Derek Roddy's lightweight signature model is built to keep rebound fast and consistent across an entire set.",
+          description: "At 200-280 BPM, a stick that fights the drummer's hand robs speed from every stroke. Derek Roddy's standard Vater 5B shows a dependable, off-the-shelf diameter — not a specialized lightweight geometry — can still keep rebound fast and consistent across an entire set.",
           recommendation: "Lighter, fast-rebounding diameters over heavy, slow-recovering models"
         },
         {
@@ -90002,8 +90002,8 @@ This guide covers what actually makes a drumstick survive extreme metal's demand
         {
           name: "Diameter and Gauge",
           icon: "📏",
-          description: "Gene Hoglan's standard 5B sits at the heavier end of the extreme metal range, favoring consistent feel over specialized geometry. Lighter, signature-tuned models like Roddy's trade some diameter for the speed their blast-beat technique demands.",
-          recommendation: "5B for dependable, consistent feel; lighter signature diameters for maximum blast-beat speed"
+          description: "Gene Hoglan's standard 5B and Derek Roddy's standard Vater 5B both sit at the heavier end of the extreme metal range, favoring consistent feel and durability over specialized, weight-shaving geometry.",
+          recommendation: "5B for dependable, consistent feel across sustained blast-beat technique"
         },
         {
           name: "Consistency Under Repeated Force",
@@ -90059,42 +90059,42 @@ For drummers whose technique destroys wood sticks faster than they can restock t
         },
         {
           rank: 2,
-          name: "Vater Derek Roddy Signature",
+          name: "Vater 5B",
           brand: "Vater",
-          model: "Derek Roddy Signature",
+          model: "5B",
           image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Drumsticks.jpg/640px-Drumsticks.jpg",
-          priceRange: "€13-18 (pair)",
+          priceRange: "€10-14 (pair)",
           tier: "pro",
           material: "American Hickory",
 
-          description: `Derek Roddy's own Vater signature stick is a lightweight design built for the extreme speed his one-footed blast technique requires across his work with Hate Eternal and Nile. The reduced diameter improves rebound and hand speed on sustained blast passages, at a genuine cost of some raw driving power on slower material.
+          description: `Derek Roddy of Hate Eternal and Nile has played a standard Vater 5B since 2001 — a dependable, off-the-shelf diameter, not a purpose-built signature model, that has anchored his one-footed blast technique through decades of extreme-speed recording and touring.
 
-Roddy's signature stick is proof that in extreme metal, hand speed often matters more than diameter — a lighter stick that keeps up with the tempo beats a heavier one that can't.`,
+Roddy's choice is proof that in extreme metal, a well-chosen standard 5B can hold up to hand speed demands most drummers would assume require a specialized geometry.`,
 
           pros: [
-            "Derek Roddy's own signature — built for extreme blast-beat hand speed",
-            "Lighter diameter improves rebound and reduces fatigue over long sets",
+            "Derek Roddy's proven Hate Eternal/Nile setup since 2001",
+            "Standard 5B diameter for dependable, consistent feel",
             "American hickory for durability across relentless touring schedules",
-            "Proven across Hate Eternal and Nile's most technically demanding material",
-            "More affordable than most signature-tier alternatives"
+            "Proven across decades of extreme-speed recording and touring",
+            "No signature pricing markup"
           ],
           cons: [
-            "Less raw power than a heavier 5B-class stick",
-            "Breaks faster under maximum-force accented playing"
+            "Not a specialized geometry — some drummers may prefer a purpose-tuned diameter",
+            "Standard 5B mass takes more technique to sustain at maximum blast-beat speed"
           ],
           specs: {
             material: "American Hickory",
-            diameter: "0.565\"",
+            diameter: "0.605\"",
             length: "16\"",
-            tip: "Teardrop (wood)",
+            tip: "Acorn (wood)",
             grip: "Lacquered"
           },
           usedBy: [
-            { name: "Derek Roddy", band: "Hate Eternal / Nile", note: "Vater signature — lightweight design for extreme blast-beat speed" }
+            { name: "Derek Roddy", band: "Hate Eternal / Nile", note: "Standard Vater 5B since 2001 — one-footed blast technique" }
           ],
-          verdict: "The speed-first pick. Best for drummers who need maximum hand speed for sustained, one-footed blast technique.",
-          rating: 4.5,
-          affiliateLink: "https://www.thomann.de/intl/vater_derek_roddy_signature.htm?partner_id=metalforge"
+          verdict: "The proven standard pick. Best for drummers who want a dependable, off-the-shelf 5B rather than a specialized diameter.",
+          rating: 4.4,
+          affiliateLink: ""
         },
         {
           rank: 3,
@@ -90179,9 +90179,9 @@ Hoglan's choice underscores that extreme metal's technical demands don't strictl
       title: "Wood vs Synthetic Sticks for Extreme Metal",
       content: `Extreme metal's most demanding drummers split between traditional wood sticks and a genuinely different synthetic construction — here's the honest breakdown of when each makes sense:
 
-**Wood Signature and Standard Sticks (Vater Derek Roddy, ProMark Classic Forward 2B):**
+**Standard Wood Sticks (Vater 5B, ProMark Classic Forward 2B):**
 - Traditional feel, sound, and rebound characteristics
-- Lighter signature diameters tuned for maximum blast-beat speed
+- Dependable, off-the-shelf diameters proven at the genre's highest level
 - Preferred by: Derek Roddy, Gene Hoglan
 
 **Synthetic Sticks (Ahead Lars Ulrich Signature):**
@@ -90189,7 +90189,7 @@ Hoglan's choice underscores that extreme metal's technical demands don't strictl
 - Consistent weight and balance that doesn't vary stick to stick
 - Preferred by: Pete Sandoval
 
-**The Truth:** Both approaches work at extreme metal's highest level. Derek Roddy's lightweight wood signature solves the speed problem directly, while Pete Sandoval's synthetic Ahead stick solves the durability problem his gravity-blast technique creates for solid wood. Gene Hoglan's standard ProMark Classic Forward 2B shows a proven, off-the-shelf size can still anchor decades of demanding professional work.
+**The Truth:** Both approaches work at extreme metal's highest level. Derek Roddy's standard Vater 5B shows a well-chosen off-the-shelf diameter can hold up to extreme-speed technique directly, while Pete Sandoval's synthetic Ahead stick solves the durability problem his gravity-blast technique creates for solid wood. Gene Hoglan's standard ProMark Classic Forward 2B shows a proven, off-the-shelf size can still anchor decades of demanding professional work.
 
 **Our Recommendation:** Start with a standard Vater or Vic Firth 5A/5B and assess where your technique breaks sticks fastest. If breakage is a constant issue regardless of stick quality, Pete Sandoval's synthetic Ahead option is worth the premium.`,
       comparisonTable: [
@@ -90212,8 +90212,8 @@ Hoglan's choice underscores that extreme metal's technical demands don't strictl
         },
         {
           category: "Best for Blast-Beat Speed",
-          pedal: "Vater Derek Roddy Signature",
-          reason: "Derek Roddy's lightweight design built for maximum hand speed."
+          pedal: "Vater 5B",
+          reason: "Derek Roddy's standard, dependable diameter proven under extreme one-footed blast technique."
         },
         {
           category: "Best Budget Pick",
@@ -90232,7 +90232,7 @@ Hoglan's choice underscores that extreme metal's technical demands don't strictl
     ],
     relatedDrummers: [
       { slug: 'pete-sandoval', name: 'Pete Sandoval', reason: 'Ahead Lars Ulrich Signature — durability under gravity-blast technique' },
-      { slug: 'derek-roddy', name: 'Derek Roddy', reason: 'Vater signature — lightweight speed for one-footed blast technique' },
+      { slug: 'derek-roddy', name: 'Derek Roddy', reason: 'Standard Vater 5B — dependable diameter for one-footed blast technique' },
       { slug: 'gene-hoglan', name: 'Gene Hoglan', reason: 'ProMark Classic Forward 2B — dependable balance for metronomic precision' },
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Vic Firth sticks — Nile\'s extreme blast-beat precision' }
     ],
@@ -90240,7 +90240,7 @@ Hoglan's choice underscores that extreme metal's technical demands don't strictl
     // Featured drummers (issue template)
     featuredDrummers: [
       { slug: 'pete-sandoval', name: 'Pete Sandoval', reason: 'Ahead Lars Ulrich Signature — gravity-blast pioneer\'s durability pick' },
-      { slug: 'derek-roddy', name: 'Derek Roddy', reason: 'Vater Signature — one-footed blast-beat speed' },
+      { slug: 'derek-roddy', name: 'Derek Roddy', reason: 'Standard Vater 5B — one-footed blast-beat speed' },
       { slug: 'gene-hoglan', name: 'Gene Hoglan', reason: 'ProMark Classic Forward 2B — "The Atomic Clock" precision' },
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Vic Firth sticks — Nile\'s extreme blast-beat precision' }
     ],
@@ -90262,18 +90262,18 @@ Hoglan's choice underscores that extreme metal's technical demands don't strictl
       },
       {
         question: "What drumsticks does Derek Roddy use?",
-        answer: "Derek Roddy of Hate Eternal and Nile plays his own Vater signature stick, a lightweight design built for the extreme hand speed his one-footed blast technique requires."
+        answer: "Derek Roddy of Hate Eternal and Nile plays a standard Vater 5B, a dependable, off-the-shelf diameter he has used since 2001 across his one-footed blast technique."
       },
       {
         question: "Do extreme metal drummers need lighter sticks for blast beats?",
-        answer: "Often, yes. Derek Roddy's lighter signature diameter keeps rebound fast across sustained 200-280 BPM blast passages. Gene Hoglan's standard ProMark Classic Forward 2B shows a heavier stick can still work when precision and consistency matter more than raw top-end speed."
+        answer: "Not necessarily. Derek Roddy's standard Vater 5B keeps rebound fast enough across sustained 200-280 BPM blast passages without any specialized lightweight geometry. Gene Hoglan's standard ProMark Classic Forward 2B shows a heavier stick can still work when precision and consistency matter more than raw top-end speed."
       }
     ],
 
     // Conclusion
     conclusion: {
       title: "Find Your Extreme Metal Stick",
-      content: `Extreme metal's stick choices come down to surviving first and performing second. Derek Roddy's lightweight signature stick solves the speed problem directly, giving blast beats the fast, consistent rebound they demand. Pete Sandoval's synthetic Ahead stick solves a different problem entirely — durability under a gravity-blast technique that destroys ordinary wood sticks faster than most drummers can restock them.
+      content: `Extreme metal's stick choices come down to surviving first and performing second. Derek Roddy's standard Vater 5B shows a dependable, off-the-shelf diameter can still deliver the fast, consistent rebound blast beats demand. Pete Sandoval's synthetic Ahead stick solves a different problem entirely — durability under a gravity-blast technique that destroys ordinary wood sticks faster than most drummers can restock them.
 
 For most extreme metal drummers, start with a standard Vater or Vic Firth 5A/5B and pay attention to where your technique breaks sticks fastest. If your material leans toward maximum blast-beat tempo, a lighter signature model is worth the upgrade. If breakage itself is the recurring problem, Pete Sandoval's synthetic option is worth the premium.
 
@@ -92120,7 +92120,7 @@ For most symphonic metal drummers, start with a standard Vic Firth 5B to find yo
     // SEO metadata
     title: "Best Drumsticks for Technical Death Metal: 2026 Ultimate Guide",
     metaTitle: "Best Drumsticks for Technical Death Metal 2026 | MetalForge Guide",
-    description: "Best drumsticks for technical death metal drumming: what Hannes Grossmann (Vic Firth 5B), Flo Mounier (Vater Power 5B), Derek Roddy (Vater Signature), and George Kollias (Vic Firth) actually play. Lighter, articulate sticks for complex, fast passages — ranked budget to pro.",
+    description: "Best drumsticks for technical death metal drumming: what Hannes Grossmann (Vic Firth 5B), Flo Mounier (Vater Power 5B), Derek Roddy (Vater 5B), and George Kollias (Vic Firth) actually play. Lighter, articulate sticks for complex, fast passages — ranked budget to pro.",
     seoKeywords: [
       'best drumsticks for technical death metal',
       'technical death metal drumsticks',
@@ -92156,12 +92156,12 @@ For most symphonic metal drummers, start with a standard Vic Firth 5B to find yo
       title: "Why Technical Death Metal Demands a Lighter, Faster Stick",
       content: `Technical death metal pushes tempo and rhythmic complexity further than almost any other metal subgenre — sustained blast beats past 240 BPM, constantly shifting subdivisions, and dense, surgically precise arrangements that leave no room for a stick that can't keep up. Where a slower, power-first genre can lean on raw diameter, technical death metal rewards a stick that stays fast and controllable at speeds where hand fatigue becomes the real limiting factor.
 
-Hannes Grossmann, whose classically-informed precision has powered bands including Obscura and Alkaloid, plays a standard Vic Firth American Classic 5B, proving technical death metal doesn't strictly require a specialized signature model. Flo Mounier of Cryptopsy plays the Vater Power 5B, an extra-thick 5B built for three decades of gravity-blast technique. Derek Roddy of Hate Eternal and Nile plays his own lightweight Vater signature stick, built specifically for the hand speed his one-footed blast technique requires. George Kollias of Nile plays Vic Firth sticks.
+Hannes Grossmann, whose classically-informed precision has powered bands including Obscura and Alkaloid, plays a standard Vic Firth American Classic 5B, proving technical death metal doesn't strictly require a specialized signature model. Flo Mounier of Cryptopsy plays the Vater Power 5B, an extra-thick 5B built for three decades of gravity-blast technique. Derek Roddy of Hate Eternal and Nile plays a standard Vater 5B, a dependable diameter he has used since 2001 across his one-footed blast technique. George Kollias of Nile plays Vic Firth sticks.
 
 This guide covers what actually makes a stick work for technical death metal's extreme-speed, complex demands, what the genre's fastest drummers actually play, and concrete recommendations from budget to pro.`,
       keyPoints: [
         "Technical death metal's sustained blast beats past 240 BPM reward hand speed and control over raw diameter",
-        "Derek Roddy's lightweight Vater signature proves hand speed often matters more than diameter at the genre's fastest tempos",
+        "Derek Roddy's standard Vater 5B proves a dependable, off-the-shelf diameter can still hold up at the genre's fastest tempos",
         "Flo Mounier's thicker Vater Power 5B shows some of the genre's fastest drummers still favor extra mass",
         "Hannes Grossmann's standard Vic Firth 5B proves the genre doesn't strictly require a specialized signature model"
       ]
@@ -92174,8 +92174,8 @@ This guide covers what actually makes a stick work for technical death metal's e
         {
           name: "Diameter and Hand Speed",
           icon: "📏",
-          description: "At technical death metal's fastest tempos, a lighter stick keeps hand speed high and delays fatigue — Derek Roddy's signature stick sits below a standard 5B diameter for exactly this reason, trading some raw mass for sustained speed.",
-          recommendation: "0.565\"–0.580\" diameter for drummers prioritizing sustained blast-beat speed"
+          description: "At technical death metal's fastest tempos, stick weight is a real factor in hand speed and fatigue — but not every fast drummer trades diameter for it. Derek Roddy sustains his one-footed blast technique on a standard 0.605\" Vater 5B rather than a lighter diameter, showing technique can compensate for extra mass.",
+          recommendation: "Standard 5B for most drummers; a lighter diameter only if fatigue becomes your limiting factor"
         },
         {
           name: "Rebound and Control",
@@ -92192,8 +92192,8 @@ This guide covers what actually makes a stick work for technical death metal's e
         {
           name: "Tip Shape",
           icon: "🔵",
-          description: "A teardrop tip, used on Derek Roddy's signature stick, delivers quick, articulate cymbal response suited to technical death metal's dense, surgically precise arrangements.",
-          recommendation: "Teardrop for quick, articulate cymbal response at extreme tempo"
+          description: "An oval or acorn wood tip, used across every pick in this guide, delivers quick, articulate cymbal response suited to technical death metal's dense, surgically precise arrangements.",
+          recommendation: "Oval or acorn wood tips for quick, articulate cymbal response at extreme tempo"
         },
         {
           name: "Wood Species",
@@ -92202,10 +92202,10 @@ This guide covers what actually makes a stick work for technical death metal's e
           recommendation: "Hickory across the board — no model in this guide deviates from it"
         },
         {
-          name: "Signature vs Standard",
+          name: "Standard vs Extra-Thick Diameter",
           icon: "🎯",
-          description: "Technical death metal splits between drummers on a purpose-built signature stick (Derek Roddy) and drummers on standard or thicker off-the-shelf sizes (Hannes Grossmann, Flo Mounier). Both approaches are proven at the genre's highest level.",
-          recommendation: "Standard 5B is a fully valid choice; a lightweight signature model is worth it once speed becomes the limiting factor"
+          description: "Technical death metal splits between drummers on a standard 5B (Hannes Grossmann, Derek Roddy) and drummers on a thicker, extra-mass 5B (Flo Mounier's Vater Power 5B). Both approaches are proven at the genre's highest level.",
+          recommendation: "Standard 5B is a fully valid choice; a thicker Power 5B is worth it once you have the technique to sustain extra mass at speed"
         }
       ]
     },
@@ -92294,42 +92294,42 @@ The Power 5B's thicker profile drives real authority into Cryptopsy's dense, tec
         },
         {
           rank: 3,
-          name: "Vater Derek Roddy Signature",
+          name: "Vater 5B",
           brand: "Vater",
-          model: "Derek Roddy Signature",
+          model: "5B",
           image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Drumsticks.jpg/640px-Drumsticks.jpg",
-          priceRange: "€13-18 (pair)",
+          priceRange: "€10-14 (pair)",
           tier: "pro",
           material: "American Hickory",
 
-          description: `Derek Roddy's own Vater signature stick is a lightweight design built for the extreme speed his one-footed blast technique requires across his work with Hate Eternal and Nile. The reduced diameter improves rebound and hand speed on sustained blast passages, at a genuine cost of some raw driving power on slower material.
+          description: `Derek Roddy of Hate Eternal and Nile has played a standard Vater 5B since 2001 — a dependable, off-the-shelf diameter, not a purpose-built signature model, that has anchored his one-footed blast technique through decades of extreme-speed recording and touring.
 
-Roddy's signature stick is proof that in technical death metal, hand speed often matters more than diameter — a lighter stick that keeps up with the tempo beats a heavier one that can't.`,
+Roddy's choice is proof that in technical death metal, a well-chosen standard 5B can hold up to hand speed demands most drummers would assume require a specialized geometry.`,
 
           pros: [
-            "Derek Roddy's own signature — built for extreme blast-beat hand speed",
-            "Lighter diameter improves rebound and reduces fatigue over long sets",
+            "Derek Roddy's proven Hate Eternal/Nile setup since 2001",
+            "Standard 5B diameter for dependable, consistent feel",
             "American hickory for durability across relentless touring schedules",
-            "Proven across Hate Eternal and Nile's most technically demanding material",
-            "More affordable than most signature-tier alternatives"
+            "Proven across decades of extreme-speed recording and touring",
+            "No signature pricing markup"
           ],
           cons: [
-            "Less raw power than a heavier 5B-class stick",
-            "Breaks faster under maximum-force accented playing"
+            "Not a specialized geometry — some drummers may prefer a purpose-tuned diameter",
+            "Standard 5B mass takes more technique to sustain at maximum blast-beat speed"
           ],
           specs: {
             material: "American Hickory",
-            diameter: "0.565\"",
+            diameter: "0.605\"",
             length: "16\"",
-            tip: "Teardrop (wood)",
+            tip: "Acorn (wood)",
             grip: "Lacquered"
           },
           usedBy: [
-            { name: "Derek Roddy", band: "Hate Eternal / Nile", note: "Vater signature — lightweight design for extreme blast-beat speed" }
+            { name: "Derek Roddy", band: "Hate Eternal / Nile", note: "Standard Vater 5B since 2001 — one-footed blast technique" }
           ],
-          verdict: "The speed-first pick. Best for drummers who need maximum hand speed for sustained, one-footed blast technique.",
-          rating: 4.5,
-          affiliateLink: "https://www.thomann.de/intl/vater_derek_roddy_signature.htm?partner_id=metalforge"
+          verdict: "The proven standard pick. Best for drummers who want a dependable, off-the-shelf 5B rather than a specialized diameter.",
+          rating: 4.4,
+          affiliateLink: ""
         }
       ]
     },
@@ -92372,22 +92372,21 @@ Roddy's signature stick is proof that in technical death metal, hand speed often
 
     // Comparison section
     comparison: {
-      title: "Lightweight vs Standard Sticks for Technical Death Metal",
-      content: `Technical death metal's fastest drummers split between a lightweight, speed-tuned signature stick and proven standard or thicker sizes — here's the honest breakdown:
+      title: "Standard vs Extra-Thick Sticks for Technical Death Metal",
+      content: `Technical death metal's fastest drummers mostly stick to proven standard sizes, with some favoring extra mass — here's the honest breakdown:
 
-**Lightweight Signature Model (Vater Roddy):**
-- Engineered specifically for sustained blast-beat speed past 240 BPM
-- Reduced diameter improves rebound and delays hand fatigue
-- Preferred by: Derek Roddy
-
-**Standard/Thicker Sizes (Vic Firth 5B, Vater Power 5B):**
+**Standard 5B (Vic Firth, Vater):**
 - Broadly proven, widely available, and more affordable
+- Dependable, consistent feel with no specialized geometry
+- Preferred by: Hannes Grossmann, Derek Roddy
+
+**Extra-Thick 5B (Vater Power 5B):**
 - Flo Mounier's thicker Power 5B proves mass and speed aren't mutually exclusive with refined technique
-- Preferred by: Hannes Grossmann, Flo Mounier
+- Preferred by: Flo Mounier
 
-**The Truth:** Both approaches work at the genre's highest level. Derek Roddy's lightweight signature exists because his extreme-tempo material genuinely rewards every fraction of hand speed a lighter stick can offer. Flo Mounier's thicker Power 5B shows that with three decades of refined gravity-blast technique, extra mass doesn't have to slow a drummer down.
+**The Truth:** Both approaches work at the genre's highest level. Derek Roddy and Hannes Grossmann both sustain extreme-tempo material on a standard 5B, proving diameter alone doesn't dictate hand speed. Flo Mounier's thicker Power 5B shows that with three decades of refined gravity-blast technique, extra mass doesn't have to slow a drummer down.
 
-**Our Recommendation:** Start with a standard Vic Firth 5A or 5B to find your baseline feel. If you're chasing the genre's fastest sustained blast beats, a lightweight signature model like Roddy's is worth the upgrade once diameter becomes your limiting factor.`,
+**Our Recommendation:** Start with a standard Vic Firth 5A or 5B to find your baseline feel. If you have the technique to sustain extra mass at speed, Flo Mounier's thicker Power 5B is worth the upgrade.`,
       comparisonTable: [
         { feature: "Sustained Blast-Beat Speed", wood: "⭐⭐⭐⭐⭐", aluminum: "⭐⭐⭐" },
         { feature: "Raw Accent Power", wood: "⭐⭐⭐⭐", aluminum: "⭐⭐⭐⭐⭐" },
@@ -92429,7 +92428,7 @@ Roddy's signature stick is proof that in technical death metal, hand speed often
     relatedDrummers: [
       { slug: 'hannes-grossmann', name: 'Hannes Grossmann', reason: 'Vic Firth American Classic 5B — classically-informed precision' },
       { slug: 'flo-mounier', name: 'Flo Mounier', reason: 'Vater Power 5B — three decades of gravity-blast technique' },
-      { slug: 'derek-roddy', name: 'Derek Roddy', reason: 'Vater signature — speed and one-footed blast technique' },
+      { slug: 'derek-roddy', name: 'Derek Roddy', reason: 'Standard Vater 5B — one-footed blast technique' },
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Vic Firth sticks — Nile\'s extreme blast-beat precision' }
     ],
 
@@ -92437,7 +92436,7 @@ Roddy's signature stick is proof that in technical death metal, hand speed often
     featuredDrummers: [
       { slug: 'hannes-grossmann', name: 'Hannes Grossmann', reason: 'Vic Firth American Classic 5B — Obscura/Alkaloid classically-informed technicality' },
       { slug: 'flo-mounier', name: 'Flo Mounier', reason: 'Vater Power 5B — Cryptopsy\'s gravity-blast technique' },
-      { slug: 'derek-roddy', name: 'Derek Roddy', reason: 'Vater signature — Hate Eternal/Nile one-footed blast speed' },
+      { slug: 'derek-roddy', name: 'Derek Roddy', reason: 'Standard Vater 5B — Hate Eternal/Nile one-footed blast speed' },
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Vic Firth sticks — Nile\'s extreme blast-beat precision' }
     ],
     relatedComparisons: [],
@@ -92446,7 +92445,7 @@ Roddy's signature stick is proof that in technical death metal, hand speed often
     faq: [
       {
         question: "What drumsticks does Derek Roddy use?",
-        answer: "Derek Roddy plays his own lightweight Vater signature stick, a 0.565\" diameter, teardrop-tip model built specifically for the extreme hand speed his one-footed blast technique requires across his work with Hate Eternal and Nile."
+        answer: "Derek Roddy plays a standard Vater 5B, a 0.605\" diameter, acorn-tip model he has used since 2001 across his one-footed blast technique with Hate Eternal and Nile."
       },
       {
         question: "What drumsticks does George Kollias use?",
@@ -92454,7 +92453,7 @@ Roddy's signature stick is proof that in technical death metal, hand speed often
       },
       {
         question: "What's the best drumstick for sustained blast beats?",
-        answer: "A lighter diameter in the 0.565\"–0.580\" range with a teardrop tip works best for sustaining extreme-tempo blast beats. Derek Roddy's signature stick is purpose-built around exactly this trade-off between mass and hand speed."
+        answer: "A standard 5B with an oval or acorn wood tip works well for sustaining extreme-tempo blast beats — Derek Roddy has used exactly this setup since 2001 across his one-footed blast technique."
       },
       {
         question: "What drumsticks does Flo Mounier use?",
@@ -92462,16 +92461,16 @@ Roddy's signature stick is proof that in technical death metal, hand speed often
       },
       {
         question: "Do technical death metal drummers need lighter sticks than other metal genres?",
-        answer: "Often, yes. Sustained blast beats past 240 BPM reward hand speed over raw diameter, which is why Derek Roddy's signature stick sits below a standard 5B. That said, Flo Mounier's thicker Vater Power 5B shows a well-trained drummer can still favor extra mass."
+        answer: "Not necessarily. Derek Roddy sustains blast beats past 240 BPM on a standard 5B rather than a lighter diameter. Flo Mounier's thicker Vater Power 5B shows a well-trained drummer can even favor extra mass."
       }
     ],
 
     // Conclusion
     conclusion: {
       title: "Find Your Technical Death Metal Stick",
-      content: `Technical death metal's stick choices split along a real functional line: Derek Roddy's lightweight signature stick exists because sustained blast beats past 240 BPM genuinely reward every fraction of hand speed a lighter stick can offer. Flo Mounier's thicker Vater Power 5B, carried through three decades of gravity-blast technique, proves that with enough refined technique, extra mass doesn't have to slow a drummer down.
+      content: `Technical death metal's stick choices split along a real functional line: Hannes Grossmann and Derek Roddy both sustain blast beats past 240 BPM on a standard 5B, proof that diameter alone doesn't dictate hand speed. Flo Mounier's thicker Vater Power 5B, carried through three decades of gravity-blast technique, proves that with enough refined technique, extra mass doesn't have to slow a drummer down.
 
-For most technical death metal drummers, start with a standard Vic Firth 5A or 5B to find your baseline feel. If you're chasing the genre's fastest sustained blast beats and hand fatigue is your limiting factor, a lightweight signature model is worth the upgrade.
+For most technical death metal drummers, start with a standard Vic Firth 5A or 5B to find your baseline feel. If your technique can sustain extra mass at speed, Flo Mounier's thicker Power 5B is worth the upgrade.
 
 🤘 **Build the speed. Keep the clarity. Sustain the blast.**`
     }

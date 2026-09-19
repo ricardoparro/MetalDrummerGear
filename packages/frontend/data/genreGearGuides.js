@@ -61161,8 +61161,8 @@ This guide breaks down what actually makes a kit work for symphonic metal — pr
         {
           name: "Kick Drum Configuration",
           icon: "🦵",
-          details: "Twin 22\"x18\" kicks are standard across the genre's leading drummers, paired with a fast, reliable double pedal — Daray's Pearl Demon XR and Raatikainen's Pearl Eliminator both prioritize consistent response at extreme tempos.",
-          description: "Twin 22\"x18\" kicks are standard across the genre's leading drummers, paired with a fast, reliable double pedal — Daray's Pearl Demon XR and Raatikainen's Pearl Eliminator both prioritize consistent response at extreme tempos.",
+          details: "Twin 22\"x18\" kicks are standard across the genre's leading drummers, paired with a fast, reliable double pedal — Daray's Pearl Demon Drive and Raatikainen's Pearl Eliminator both prioritize consistent response at extreme tempos.",
+          description: "Twin 22\"x18\" kicks are standard across the genre's leading drummers, paired with a fast, reliable double pedal — Daray's Pearl Demon Drive and Raatikainen's Pearl Eliminator both prioritize consistent response at extreme tempos.",
           recommendation: "Dual 22\"x18\" kicks with a direct drive double pedal for sustained extreme-tempo reliability"
         },
         {
@@ -61194,7 +61194,7 @@ This guide breaks down what actually makes a kit work for symphonic metal — pr
           tier: "premium",
           material: "Custom Exotic Shells",
 
-          description: `Daray built the Pearl Masterworks Stadium Exotic / Paiste RUDE rig that has carried Dimmu Borgir's full-orchestra symphonic black metal from "Abrahadabra" (2010) through 2026's "Grand Serpent Rising." Paired with a Pearl Reference 14"x5.5" Brass snare and Pearl Demon XR double pedal, the setup is engineered for maximum projection against arrangements that include full symphony orchestras and choir sections.
+          description: `Daray built the Pearl Masterworks Stadium Exotic / Paiste RUDE rig that has carried Dimmu Borgir's full-orchestra symphonic black metal from "Abrahadabra" (2010) through 2026's "Grand Serpent Rising." Paired with a Pearl Reference 14"x5.5" Brass snare and Pearl Demon Drive double pedal, the setup is engineered for maximum projection against arrangements that include full symphony orchestras and choir sections.
 
 Pearl's Masterworks custom shell program lets Daray dial in exact specs for Dimmu Borgir's theatrical, orchestrally ambitious productions, while the brass snare's brightness ensures his backbeat stays cutting even beneath dense keyboard and string layering.`,
 
@@ -61468,7 +61468,7 @@ Raatikainen's twin 22"x18" kick configuration with a compact two rack tom/two fl
     faq: [
       {
         question: "What drum kit does Daray from Dimmu Borgir use?",
-        answer: "Daray plays a Pearl Masterworks Stadium Exotic kit with a Pearl Reference 14\"x5.5\" Brass snare, Paiste RUDE & 2002 Series cymbals, and a Pearl Demon XR double pedal — a rig established during Dimmu Borgir's Abrahadabra era (2010) and unchanged through Grand Serpent Rising (2026)."
+        answer: "Daray plays a Pearl Masterworks Stadium Exotic kit with a Pearl Reference 14\"x5.5\" Brass snare, Paiste RUDE & 2002 Series cymbals, and a Pearl Demon Drive double pedal — a rig established during Dimmu Borgir's Abrahadabra era (2010) and unchanged through Grand Serpent Rising (2026)."
       },
       {
         question: "What drum kit does Hellhammer use?",
@@ -95439,7 +95439,7 @@ Whichever you choose, remember that symphonic metal's most acclaimed recordings 
     // SEO metadata
     title: "Best Drum Pedals for Symphonic Metal: 2026 Ultimate Guide",
     metaTitle: "Best Drum Pedals for Symphonic Metal 2026 | MetalForge Guide",
-    description: "Best double bass pedals for symphonic metal. What Daray (Pearl Demon XR), Hellhammer (Axis Double Pedal), Frost (Tama Iron Cobra Power Glide), and Jaska Raatikainen (Pearl Eliminator) actually use — from budget to pro.",
+    description: "Best double bass pedals for symphonic metal. What Daray (Pearl Demon Drive), Hellhammer (Axis Double Pedal), Frost (Tama Iron Cobra Power Glide), and Jaska Raatikainen (Pearl Eliminator) actually use — from budget to pro.",
     seoKeywords: [
       'best drum pedals for symphonic metal',
       'symphonic metal drum pedals',
@@ -95476,11 +95476,11 @@ Whichever you choose, remember that symphonic metal's most acclaimed recordings 
       title: "Why Symphonic Metal Demands a Different Kind of Pedal",
       content: `Symphonic metal pedal requirements sit at the intersection of extreme metal's sustained blast-beat endurance and the dynamic sensitivity a full orchestral or choir arrangement demands. A pedal built purely for speed can feel clumsy against a delicate string passage; a pedal voiced only for touch won't survive 200+ BPM blast beats night after night.
 
-Daray drives his Pearl Masterworks Stadium Exotic kit with a Pearl Demon XR double pedal, built for the sustained reliability Dimmu Borgir's full-orchestra symphonic black metal demands. Hellhammer uses an Axis Double Pedal across both Mayhem's raw black metal and Dimmu Borgir's symphonic era, prizing its precision engineering at extreme speed. Frost of Satyricon and 1349 relies on a Tama Iron Cobra Power Glide pedal for the dynamic control his material's shifts between blast-beat storms and theatrical restraint require, while Jaska Raatikainen drove Children of Bodom's keyboard-orchestrated melodic death metal on a Pearl Eliminator double pedal for over two decades.
+Daray drives his Pearl Masterworks Stadium Exotic kit with a Pearl Demon Drive double pedal, built for the sustained reliability Dimmu Borgir's full-orchestra symphonic black metal demands. Hellhammer uses an Axis Double Pedal across both Mayhem's raw black metal and Dimmu Borgir's symphonic era, prizing its precision engineering at extreme speed. Frost of Satyricon and 1349 relies on a Tama Iron Cobra Power Glide pedal for the dynamic control his material's shifts between blast-beat storms and theatrical restraint require, while Jaska Raatikainen drove Children of Bodom's keyboard-orchestrated melodic death metal on a Pearl Eliminator double pedal for over two decades.
 
 This guide breaks down what actually makes a pedal work for symphonic metal — blast-beat endurance, dynamic sensitivity, and dual-band touring durability — and which specific pedals these four influential drummers rely on, from budget-friendly starters to the professional rigs behind the genre's most orchestrally ambitious records.`,
       keyPoints: [
-        "Daray's Pearl Demon XR is built for sustained reliability across Dimmu Borgir's full-orchestra material",
+        "Daray's Pearl Demon Drive is built for sustained reliability across Dimmu Borgir's full-orchestra material",
         "Hellhammer's Axis Double Pedal delivers precision across both Mayhem and Dimmu Borgir",
         "Frost's Tama Iron Cobra Power Glide pedal prioritizes the dynamic control symphonic metal's restraint demands",
         "Jaska Raatikainen's Pearl Eliminator proved reliable across 26 years of Children of Bodom's orchestrated material"
@@ -95518,8 +95518,8 @@ This guide breaks down what actually makes a pedal work for symphonic metal — 
         {
           name: "Kick Drum Configuration",
           icon: "🦵",
-          details: "Twin 22\"x18\" kicks are standard across the genre's leading drummers, paired with a fast, reliable double pedal — Daray's Pearl Demon XR and Raatikainen's Pearl Eliminator both prioritize consistent response at extreme tempos.",
-          description: "Twin 22\"x18\" kicks are standard across the genre's leading drummers, paired with a fast, reliable double pedal — Daray's Pearl Demon XR and Raatikainen's Pearl Eliminator both prioritize consistent response at extreme tempos.",
+          details: "Twin 22\"x18\" kicks are standard across the genre's leading drummers, paired with a fast, reliable double pedal — Daray's Pearl Demon Drive and Raatikainen's Pearl Eliminator both prioritize consistent response at extreme tempos.",
+          description: "Twin 22\"x18\" kicks are standard across the genre's leading drummers, paired with a fast, reliable double pedal — Daray's Pearl Demon Drive and Raatikainen's Pearl Eliminator both prioritize consistent response at extreme tempos.",
           recommendation: "Dual 22\"x18\" kicks with a direct drive or premium chain drive double pedal for sustained extreme-tempo reliability"
         },
         {
@@ -95545,9 +95545,9 @@ This guide breaks down what actually makes a pedal work for symphonic metal — 
           tier: "pro",
           driveType: "Direct Drive",
 
-          description: `Daray drives his Pearl Masterworks Stadium Exotic kit with a Pearl Demon XR double pedal, part of the rig that has carried Dimmu Borgir's full-orchestra symphonic black metal from "Abrahadabra" (2010) through 2026's "Grand Serpent Rising." The Demon XR's direct-drive action delivers the sustained reliability Daray needs to drive twin 22"x18" kicks through material that swings between blast-beat extremity and full-orchestra theatrical restraint.
+          description: `Daray drives his Pearl Masterworks Stadium Exotic kit with a Pearl Demon Drive double pedal, part of the rig that has carried Dimmu Borgir's full-orchestra symphonic black metal from "Abrahadabra" (2010) through 2026's "Grand Serpent Rising." The Demon Drive's direct-drive action delivers the sustained reliability Daray needs to drive twin 22"x18" kicks through material that swings between blast-beat extremity and full-orchestra theatrical restraint.
 
-Paired with his Pearl Reference Brass snare and Paiste RUDE cymbals, Daray's Demon XR setup is engineered for consistent response across three studio albums of some of symphonic black metal's most orchestrally ambitious material.`,
+Paired with his Pearl Reference Brass snare and Paiste RUDE cymbals, Daray's Demon Drive setup is engineered for consistent response across three studio albums of some of symphonic black metal's most orchestrally ambitious material.`,
 
           pros: [
             "Daray's Dimmu Borgir setup — unchanged and proven across three studio albums since 2010",
@@ -95569,7 +95569,7 @@ Paired with his Pearl Reference Brass snare and Paiste RUDE cymbals, Daray's Dem
             weight: "4.3 kg (pair)"
           },
           usedBy: [
-            { name: "Daray", band: "Dimmu Borgir", note: "Pearl Demon XR — full-orchestra symphonic black metal standard" }
+            { name: "Daray", band: "Dimmu Borgir", note: "Pearl Demon Drive — full-orchestra symphonic black metal standard" }
           ],
           verdict: "The symphonic metal pedal standard. Built for maximum reliability against the genre's most ambitious orchestral arrangements.",
           rating: 4.7,
@@ -95724,7 +95724,7 @@ Raatikainen's two-and-a-half decades on this single pedal design — through eve
       title: "Direct Drive vs Chain Drive for Symphonic Metal",
       content: `Symphonic metal's leading drummers split between two pedal philosophies:
 
-**Direct Drive (Pearl Demon XR — Daray; Axis Double Pedal — Hellhammer):**
+**Direct Drive (Pearl Demon Drive — Daray; Axis Double Pedal — Hellhammer):**
 - Clinical, immediate response for sustained blast-beat reliability
 - Proven across the genre's most globally successful full-orchestra productions
 - Premium price point
@@ -95780,7 +95780,7 @@ Raatikainen's two-and-a-half decades on this single pedal design — through eve
       'best-snare-drums-for-symphonic-metal'
     ],
     relatedDrummers: [
-      { slug: 'daray', name: 'Daray', reason: 'Pearl Demon XR — Dimmu Borgir full-orchestra symphonic black metal' },
+      { slug: 'daray', name: 'Daray', reason: 'Pearl Demon Drive — Dimmu Borgir full-orchestra symphonic black metal' },
       { slug: 'hellhammer', name: 'Hellhammer', reason: 'Axis Double Pedal — Mayhem and Dimmu Borgir symphonic versatility' },
       { slug: 'frost', name: 'Frost', reason: 'Tama Iron Cobra Power Glide — Satyricon dynamic precision' },
       { slug: 'jaska-raatikainen', name: 'Jaska Raatikainen', reason: 'Pearl Eliminator — Children of Bodom keyboard-orchestrated precision' }
@@ -95788,7 +95788,7 @@ Raatikainen's two-and-a-half decades on this single pedal design — through eve
 
     // Featured drummers (issue template)
     featuredDrummers: [
-      { slug: 'daray', name: 'Daray', reason: 'Pearl Demon XR for Dimmu Borgir full-orchestra symphonic black metal' },
+      { slug: 'daray', name: 'Daray', reason: 'Pearl Demon Drive for Dimmu Borgir full-orchestra symphonic black metal' },
       { slug: 'hellhammer', name: 'Hellhammer', reason: 'Axis Double Pedal for Mayhem and Dimmu Borgir symphonic versatility' },
       { slug: 'frost', name: 'Frost', reason: 'Tama Iron Cobra Power Glide for Satyricon dynamic precision' },
       { slug: 'jaska-raatikainen', name: 'Jaska Raatikainen', reason: 'Pearl Eliminator for Children of Bodom keyboard-orchestrated precision' }
@@ -95798,7 +95798,7 @@ Raatikainen's two-and-a-half decades on this single pedal design — through eve
     faq: [
       {
         question: "What drum pedal does Daray from Dimmu Borgir use?",
-        answer: "Daray plays a Pearl Demon XR double pedal as part of his Pearl Masterworks Stadium Exotic rig — a setup established during Dimmu Borgir's Abrahadabra era (2010) and unchanged through Grand Serpent Rising (2026)."
+        answer: "Daray plays a Pearl Demon Drive double pedal as part of his Pearl Masterworks Stadium Exotic rig — a setup established during Dimmu Borgir's Abrahadabra era (2010) and unchanged through Grand Serpent Rising (2026)."
       },
       {
         question: "What pedal does Hellhammer use?",
@@ -95814,14 +95814,14 @@ Raatikainen's two-and-a-half decades on this single pedal design — through eve
       },
       {
         question: "Direct drive or chain drive for symphonic metal?",
-        answer: "Both work at the highest level. Daray's Pearl Demon XR and Hellhammer's Axis Double Pedal — both direct-drive — suit drummers whose material leans toward maximum blast-beat reliability. Frost's chain-drive Tama Iron Cobra Power Glide and Raatikainen's Pearl Eliminator prove that dynamic sensitivity and long-term durability serve orchestral complexity just as effectively."
+        answer: "Both work at the highest level. Daray's Pearl Demon Drive and Hellhammer's Axis Double Pedal — both direct-drive — suit drummers whose material leans toward maximum blast-beat reliability. Frost's chain-drive Tama Iron Cobra Power Glide and Raatikainen's Pearl Eliminator prove that dynamic sensitivity and long-term durability serve orchestral complexity just as effectively."
       }
     ],
 
     // Conclusion
     conclusion: {
       title: "Find Your Symphonic Metal Pedal Voice",
-      content: `Symphonic metal pedal choice comes down to how your material balances blast-beat extremity against orchestral restraint. Daray's Pearl Demon XR and Hellhammer's Axis Double Pedal prove that direct-drive precision can carry Dimmu Borgir's most ambitious full-orchestra productions and Mayhem's raw extremity alike. Frost's Tama Iron Cobra Power Glide proves that chain-drive dynamic sensitivity serves Satyricon's shifts between blast beats and theatrical restraint just as well. Jaska Raatikainen's 26-year run on a single Pearl Eliminator shows that proven reliability matters more than novelty over a long career.
+      content: `Symphonic metal pedal choice comes down to how your material balances blast-beat extremity against orchestral restraint. Daray's Pearl Demon Drive and Hellhammer's Axis Double Pedal prove that direct-drive precision can carry Dimmu Borgir's most ambitious full-orchestra productions and Mayhem's raw extremity alike. Frost's Tama Iron Cobra Power Glide proves that chain-drive dynamic sensitivity serves Satyricon's shifts between blast beats and theatrical restraint just as well. Jaska Raatikainen's 26-year run on a single Pearl Eliminator shows that proven reliability matters more than novelty over a long career.
 
 Whichever you choose, remember that symphonic metal's most acclaimed recordings were made by drummers who mastered the transition between extremity and orchestral restraint — not by gear alone.
 
@@ -107094,12 +107094,12 @@ Whatever you choose: dial in heavier tension for the down-tuned groove first, th
       title: "Why Symphonic Metal Needs Consistent, Reliable Double Bass Above All Else",
       content: `Symphonic metal's double bass work sits underneath full orchestral or choir arrangements, and its most important job isn't raw top-end speed — it's staying rock-solid and consistent at mid-to-fast tempo so the orchestration on top has a dependable foundation to sit against. A pedal that drifts or loses its feel mid-song throws off the entire arrangement, not just the drum part.
 
-Daray drives his Pearl Masterworks Stadium Exotic kit with a Pearl Demon XR double pedal, built for the sustained reliability Dimmu Borgir's full-orchestra symphonic black metal demands. Hellhammer uses an Axis Double Pedal across both Mayhem's raw black metal and Dimmu Borgir's symphonic era, prizing its precision engineering for consistent speed night after night. Frost of Satyricon and 1349 relies on a Tama Iron Cobra Power Glide pedal for the dynamic control his material's shifts between blast-beat storms and theatrical restraint require, while Jaska Raatikainen drove Children of Bodom's keyboard-orchestrated melodic death metal on a Pearl Eliminator double pedal for over two decades without missing a beat.
+Daray drives his Pearl Masterworks Stadium Exotic kit with a Pearl Demon Drive double pedal, built for the sustained reliability Dimmu Borgir's full-orchestra symphonic black metal demands. Hellhammer uses an Axis Double Pedal across both Mayhem's raw black metal and Dimmu Borgir's symphonic era, prizing its precision engineering for consistent speed night after night. Frost of Satyricon and 1349 relies on a Tama Iron Cobra Power Glide pedal for the dynamic control his material's shifts between blast-beat storms and theatrical restraint require, while Jaska Raatikainen drove Children of Bodom's keyboard-orchestrated melodic death metal on a Pearl Eliminator double pedal for over two decades without missing a beat.
 
 This guide breaks down what actually makes a bass drum pedal work for symphonic metal — mid-to-fast consistency, sustained reliability, and dynamic sensitivity beneath an orchestral mix — with specific pedal recommendations from budget-friendly starters through the professional rigs behind the genre's most orchestrally ambitious records.`,
       keyPoints: [
         "Symphonic metal rewards consistent, reliable mid-to-fast double bass over raw top-end speed — the orchestration on top depends on a dependable foundation",
-        "Daray's Pearl Demon XR is built for sustained reliability across Dimmu Borgir's full-orchestra material",
+        "Daray's Pearl Demon Drive is built for sustained reliability across Dimmu Borgir's full-orchestra material",
         "Jaska Raatikainen's Pearl Eliminator proved reliable across 26 years of Children of Bodom's orchestrated material without missing a beat",
         "A pedal that drifts or loses feel mid-song throws off the entire orchestral arrangement, not just the drum part"
       ]
@@ -107155,7 +107155,7 @@ This guide breaks down what actually makes a bass drum pedal work for symphonic 
           priceRange: "€450-600 per double set",
           tier: "pro",
           driveType: "Direct Drive",
-          description: `Daray drives his Pearl Masterworks Stadium Exotic kit with a Pearl Demon XR double pedal, built for the sustained reliability Dimmu Borgir's full-orchestra symphonic black metal demands night after night. Its direct-drive precision keeps the double bass locked in beneath dense orchestral and choir arrangements without drifting.
+          description: `Daray drives his Pearl Masterworks Stadium Exotic kit with a Pearl Demon Drive double pedal, built for the sustained reliability Dimmu Borgir's full-orchestra symphonic black metal demands night after night. Its direct-drive precision keeps the double bass locked in beneath dense orchestral and choir arrangements without drifting.
 
 The Demon XR's refined mechanism holds its calibration across the extended, dynamically layered sets symphonic metal's orchestral ambitions require.`,
           pros: [
@@ -107347,7 +107347,7 @@ The interchangeable cam system and dual-chain drive gave Raatikainen dependable 
       'best-cymbals-for-symphonic-metal'
     ],
     relatedDrummers: [
-      { slug: 'daray', name: 'Daray', reason: 'Pearl Demon XR — sustained reliability beneath Dimmu Borgir\'s full-orchestra material' },
+      { slug: 'daray', name: 'Daray', reason: 'Pearl Demon Drive — sustained reliability beneath Dimmu Borgir\'s full-orchestra material' },
       { slug: 'hellhammer', name: 'Hellhammer', reason: 'Axis Double Pedal — precision across Mayhem and Dimmu Borgir' },
       { slug: 'frost', name: 'Frost', reason: 'Tama Iron Cobra Power Glide — dynamic control between blast-beat storms and theatrical restraint' },
       { slug: 'jaska-raatikainen', name: 'Jaska Raatikainen', reason: 'Pearl Eliminator — over two decades of reliable Children of Bodom double bass' }
@@ -107362,7 +107362,7 @@ The interchangeable cam system and dual-chain drive gave Raatikainen dependable 
     faq: [
       {
         question: "What bass drum pedal does Daray use?",
-        answer: "Daray of Dimmu Borgir plays a Pearl Demon XR double pedal, built for the sustained reliability the band's full-orchestra symphonic black metal demands night after night."
+        answer: "Daray of Dimmu Borgir plays a Pearl Demon Drive double pedal, built for the sustained reliability the band's full-orchestra symphonic black metal demands night after night."
       },
       {
         question: "Why does symphonic metal need consistent double bass more than raw speed?",
@@ -107385,7 +107385,7 @@ The interchangeable cam system and dual-chain drive gave Raatikainen dependable 
     // Conclusion
     conclusion: {
       title: "Build a Foundation the Orchestration Can Trust",
-      content: `Symphonic metal's double bass work only succeeds if it's rock-solid and consistent underneath a full orchestral or choir arrangement — Daray's Pearl Demon XR and Hellhammer's Axis Double Pedal both prove that reliable, direct-drive precision at mid-to-fast tempo matters more than chasing the fastest possible blast beat. Frost's Tama Iron Cobra Power Glide shows that dynamic control beneath orchestration is just as essential.
+      content: `Symphonic metal's double bass work only succeeds if it's rock-solid and consistent underneath a full orchestral or choir arrangement — Daray's Pearl Demon Drive and Hellhammer's Axis Double Pedal both prove that reliable, direct-drive precision at mid-to-fast tempo matters more than chasing the fastest possible blast beat. Frost's Tama Iron Cobra Power Glide shows that dynamic control beneath orchestration is just as essential.
 
 For most symphonic metal drummers, the Pearl Demon XR is the clearest choice for locking double bass in beneath a dense arrangement. If you also need extreme blast-beat capability for a raw black metal side project, Hellhammer's Axis Double Pedal covers both ends. And Jaska Raatikainen's Pearl Eliminator proves a budget-friendly pedal can deliver two decades of dependable, career-spanning reliability.
 

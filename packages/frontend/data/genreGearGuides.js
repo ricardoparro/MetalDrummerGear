@@ -34397,7 +34397,7 @@ Start with an 18" in whatever alloy fits your budget, experiment with inverted m
       title: "Why Modern Metal Drummers Can't Skip In-Ear Monitors",
       content: `Modern metal has become inseparable from the click track. Programmed intros, synchronized backing vocals, triggered samples, and tight, machine-precise arrangements all depend on the drummer locking to a click that the audience never hears — and the only reliable way to hear that click on a loud stage is through a dedicated in-ear monitor system.
 
-Brann Dailor (Mastodon) runs a Roland SPD-SX sample pad through a full in-ear monitor system to keep click and samples perfectly synced during Mastodon's increasingly layered live sets. Paul Mazurkiewicz (Cannibal Corpse) pairs ddrum triggers with a full IEM system, calling it essential for Cannibal Corpse's rhythmically demanding performances at any venue size. Mario Duplantier (Gojira) integrated a full in-ear monitor setup as Gojira's shows grew from clubs to arenas and stadiums, where wedge monitors simply can't deliver the click precision his tightly arranged parts require.
+Brann Dailor (Mastodon) runs a Roland SPD-SX sample pad through a full in-ear monitor system to keep click and samples perfectly synced during Mastodon's increasingly layered live sets. Mario Duplantier (Gojira) integrated a full in-ear monitor setup as Gojira's shows grew from clubs to arenas and stadiums, where wedge monitors simply can't deliver the click precision his tightly arranged parts require.
 
 This guide covers what actually matters when choosing an IEM system for drumming — wired vs wireless, universal vs custom-molded fit, and noise isolation — with specific product recommendations across every budget.`,
       keyPoints: [
@@ -34466,7 +34466,7 @@ This guide covers what actually matters when choosing an IEM system for drumming
           driveType: "Wireless, Dynamic Driver",
           description: `Shure's PSM 300 has become the industry-standard entry point into wireless personal monitoring, pairing a reliable stereo bodypack with the SE215's sculpted dynamic driver and sound-isolating sleeves. It's the system most touring bands reach for when a drummer needs freedom of movement without breaking the budget.
 
-The kind of full IEM system integration that touring metal drummers like Mario Duplantier (Gojira) and Paul Mazurkiewicz (Cannibal Corpse) rely on for click and sample-trigger precision on stages of every size — the PSM 300 delivers that same reliability at a widely accessible price.`,
+The kind of full IEM system integration that touring metal drummers like Mario Duplantier (Gojira) rely on for click and sample-trigger precision on stages of every size — the PSM 300 delivers that same reliability at a widely accessible price.`,
           pros: [
             "Reliable wireless freedom of movement",
             "37dB isolation with foam sleeves — excellent for loud stages",
@@ -34486,8 +34486,7 @@ The kind of full IEM system integration that touring metal drummers like Mario D
             frequency: "20Hz-17.5kHz"
           },
           usedBy: [
-            { name: "Mario Duplantier", band: "Gojira", note: "Full IEM integration for arena/stadium touring" },
-            { name: "Paul Mazurkiewicz", band: "Cannibal Corpse", note: "Full IEM system for click-track precision" }
+            { name: "Mario Duplantier", band: "Gojira", note: "Full IEM integration for arena/stadium touring" }
           ],
           verdict: "The proven, reliable entry point into professional wireless monitoring for touring drummers.",
           rating: 4.6,
@@ -34691,7 +34690,7 @@ Overkill for a bedroom setup, but for a drummer touring arenas and stadiums wher
 **Wireless IEMs:**
 - Total freedom of movement — no cable to catch on a kit or riser
 - Requires RF frequency management on crowded festival stages
-- The standard for full production touring: the kind of setup Mario Duplantier (Gojira) and Paul Mazurkiewicz (Cannibal Corpse) rely on for arena and stadium shows
+- The standard for full production touring: the kind of setup Mario Duplantier (Gojira) relies on for arena and stadium shows
 
 **The Truth:** Most developing and semi-pro drummers are well served by a quality wired IEM paired with a bodypack amp — it delivers the isolation and click clarity that matter most, at a fraction of the cost. Wireless becomes worth the investment once you're touring bigger stages where cable management becomes a genuine performance risk.
 
@@ -34740,7 +34739,6 @@ Overkill for a bedroom setup, but for a drummer touring arenas and stadiums wher
     ],
     relatedDrummers: [
       { slug: 'brann-dailor', name: 'Brann Dailor', reason: 'Roland SPD-SX + full IEM click integration' },
-      { slug: 'paul-mazurkiewicz', name: 'Paul Mazurkiewicz', reason: 'ddrum triggers + full IEM system' },
       { slug: 'mario-duplantier', name: 'Mario Duplantier', reason: 'Full IEM setup for arena/stadium touring' },
       { slug: 'daray', name: 'Daray', reason: 'Trigger-assisted kit with in-ear monitoring for orchestra sync' }
     ],
@@ -34750,7 +34748,7 @@ Overkill for a bedroom setup, but for a drummer touring arenas and stadiums wher
     faq: [
       {
         question: "Why do metal drummers use in-ear monitors?",
-        answer: "Modern metal relies heavily on click tracks, programmed samples, and backing tracks that keep the band locked together — an in-ear monitor system is the only reliable way for a drummer to hear that click clearly over loud stage volume. Drummers like Brann Dailor (Mastodon) and Paul Mazurkiewicz (Cannibal Corpse) run full IEM systems specifically for this reason."
+        answer: "Modern metal relies heavily on click tracks, programmed samples, and backing tracks that keep the band locked together — an in-ear monitor system is the only reliable way for a drummer to hear that click clearly over loud stage volume. Drummers like Brann Dailor (Mastodon) run full IEM systems specifically for this reason."
       },
       {
         question: "Wired or wireless IEMs for drumming?",
@@ -34773,7 +34771,7 @@ Overkill for a bedroom setup, but for a drummer touring arenas and stadiums wher
     // Conclusion
     conclusion: {
       title: "Lock In and Hear Yourself Think",
-      content: `As modern metal leans further into click tracks, triggered samples, and tightly synchronized backing tracks, a reliable in-ear monitor system has gone from a luxury to a necessity. Brann Dailor, Paul Mazurkiewicz, and Mario Duplantier all rely on full IEM integration to keep their most technically demanding material locked in night after night.
+      content: `As modern metal leans further into click tracks, triggered samples, and tightly synchronized backing tracks, a reliable in-ear monitor system has gone from a luxury to a necessity. Brann Dailor and Mario Duplantier both rely on full IEM integration to keep their most technically demanding material locked in night after night.
 
 Start wired and budget-friendly with something like the Shure SE215, and upgrade to a wireless system like the Shure PSM 300 once cable management becomes a bigger hassle than the investment. Whatever you choose, prioritize isolation first — protecting your hearing matters as much as hearing the click.
 
@@ -50464,7 +50462,7 @@ Budget shouldn't hold you back either. A Pearl Export or Tama Imperialstar will 
     // SEO metadata
     title: "Best Drum Triggers for Metal: 2026 Ultimate Guide",
     metaTitle: "Best Drum Triggers for Metal in 2026 | MetalForge Expert Guide",
-    description: "Discover the best drum triggers for metal drumming. Expert recommendations on acoustic trigger reinforcement, dual-zone kick/snare triggers, and trigger modules for live and studio use, featuring the exact setups Charlie Benante, Hellhammer, and Paul Mazurkiewicz rely on.",
+    description: "Discover the best drum triggers for metal drumming. Expert recommendations on acoustic trigger reinforcement, dual-zone kick/snare triggers, and trigger modules for live and studio use, featuring the exact setups Charlie Benante, Hellhammer, and Jay Weinberg rely on.",
     seoKeywords: [
       'best drum triggers for metal',
       'drum trigger for metal drummers',
@@ -50501,7 +50499,7 @@ Budget shouldn't hold you back either. A Pearl Export or Tama Imperialstar will 
       title: "Why Metal Drummers Rely on Triggers",
       content: `A drum trigger is a small piezo or optical sensor clipped or mounted directly onto an acoustic drumhead. It converts the physical vibration of a hit into an electronic signal that can drive a sample, reinforce a weak-sounding room mic, or feed a click-synced backing rig — without changing how the acoustic drum feels under the stick or beater. This is a different piece of gear from a full electronic drum module (covered in our modules guide) or from the *triggered-drums technique* itself: a trigger is the physical hardware doing the sensing, not the module doing the sound generation, and not the playing style built around it.
 
-Charlie Benante (Anthrax), Hellhammer (Mayhem), and Jay Weinberg have all run Roland electronic triggers on their acoustic kick and snare — reinforcing attack consistency for a live sound that matches studio tightness show after show, without altering how their acoustic kit sounds to them behind it. Paul Mazurkiewicz (Cannibal Corpse) pairs ddrum triggers with a full in-ear monitor system, calling reliable triggering essential for Cannibal Corpse's rhythmically demanding, high-tempo performances at any venue size.
+Charlie Benante (Anthrax), Hellhammer (Mayhem), and Jay Weinberg have all run Roland electronic triggers on their acoustic kick and snare — reinforcing attack consistency for a live sound that matches studio tightness show after show, without altering how their acoustic kit sounds to them behind it.
 
 This guide covers what actually matters when choosing drum triggers for metal — mounting type, dual-zone sensing, and how triggers integrate with an interface or module — with specific recommendations across every budget, from a first single kick trigger to a full acoustic reinforcement rig.`,
       keyPoints: [
@@ -50610,9 +50608,8 @@ Because the RT-30 is Roland's platform, it pairs cleanly with any Roland module 
           driveType: "XLR Kick Trigger, Dual Zone",
           description: `ddrum essentially invented modern acoustic drum triggering, and the Chrome Elite kick trigger remains a go-to for drummers who need a bulletproof bass drum signal at extreme tempo. Its dual-zone design and updated transducer give a module or interface a cleaner, more consistent signal than older single-zone kick triggers.
 
-Paul Mazurkiewicz (Cannibal Corpse) pairs ddrum triggers with a full in-ear monitor system, treating reliable kick triggering as essential for Cannibal Corpse's rhythmically demanding, high-tempo live performances — exactly the extreme-tempo use case this trigger is built for.`,
+That extreme-tempo reliability is exactly the use case this trigger is built for — a shell-mounted bracket and secure XLR connection that won't shift or fail mid-set on sustained double-bass passages.`,
           pros: [
-            "Paul Mazurkiewicz's proven choice for extreme-tempo kick reinforcement",
             "Dual-zone sensing for a cleaner, more detailed trigger signal",
             "Secure XLR connection resists cable failure on stage",
             "Updated transducer built specifically for sustained double bass abuse",
@@ -50630,9 +50627,6 @@ Paul Mazurkiewicz (Cannibal Corpse) pairs ddrum triggers with a full in-ear moni
             compatibility: "Any module or trigger interface",
             use: "Bass drum reinforcement"
           },
-          usedBy: [
-            { name: "Paul Mazurkiewicz", band: "Cannibal Corpse", note: "ddrum triggers + full IEM system for high-tempo live performances" }
-          ],
           verdict: "The extreme-tempo specialist's kick trigger — built by the company that pioneered the category.",
           rating: 4.6,
           affiliateLink: "https://www.thomann.de/intl/ddrum_chrome_elite_bass_trigger.htm?partner_id=metalforge"
@@ -50648,7 +50642,7 @@ Paul Mazurkiewicz (Cannibal Corpse) pairs ddrum triggers with a full in-ear moni
           driveType: "Kick + Snare + Tom Trigger Set",
           description: `The Acoustic Pro set bundles ddrum's kick, snare, and tom triggers into a single purchase, giving a metal drummer full-kit reinforcement without buying each piece individually. It's the practical mid-tier way to move from a single kick trigger to reinforcing an entire acoustic kit at once.
 
-For drummers building the same kind of full acoustic-plus-trigger rig that Paul Mazurkiewicz runs — but who want every drum covered rather than just the kick — this set covers the whole kit in one order.`,
+For drummers who want every drum covered rather than just the kick, this set covers the whole kit in one order.`,
           pros: [
             "Full kit coverage (kick, snare, toms) in one purchase",
             "Consistent ddrum sensing across every drum",
@@ -50790,7 +50784,7 @@ For metal drummers who've already invested in triggers from multiple brands, or 
 **Clip-On Triggers + Lean Interface (Roland RT-30, ddrum + DDTI):**
 - Fastest and cheapest way to reinforce kick and snare
 - Keeps your acoustic kit's exact feel and tuning
-- The setup Charlie Benante, Hellhammer, and Paul Mazurkiewicz all use
+- The setup Charlie Benante, Hellhammer, and Jay Weinberg all use
 
 **Full Trigger Module (ATV aD5, Roland TD-series):**
 - Accepts triggers from multiple brands with individually adjustable zones
@@ -50821,7 +50815,7 @@ For metal drummers who've already invested in triggers from multiple brands, or 
         {
           category: "Best for Extreme Tempo",
           pedal: "ddrum Chrome Elite Bass Drum Trigger",
-          reason: "Paul Mazurkiewicz's proven choice for consistent kick reinforcement at Cannibal Corpse's demanding tempos."
+          reason: "A bulletproof dual-zone kick signal built for the extreme-tempo demands of blast-beat-driven death metal."
         },
         {
           category: "Best Budget",
@@ -50845,7 +50839,6 @@ For metal drummers who've already invested in triggers from multiple brands, or 
     relatedDrummers: [
       { slug: 'charlie-benante', name: 'Charlie Benante', reason: 'Roland electronic triggers for consistent live attack' },
       { slug: 'hellhammer', name: 'Hellhammer', reason: 'Roland Electronics reinforcing his acoustic black metal kit' },
-      { slug: 'paul-mazurkiewicz', name: 'Paul Mazurkiewicz', reason: 'ddrum triggers + full IEM system' },
       { slug: 'jay-weinberg', name: 'Jay Weinberg', reason: 'Roland Electronics across his touring rigs' }
     ],
     relatedComparisons: [],
@@ -50854,7 +50847,7 @@ For metal drummers who've already invested in triggers from multiple brands, or 
     faq: [
       {
         question: "What drum triggers do metal drummers use?",
-        answer: "Roland's RT-30 series is the most common clip-on trigger among touring metal drummers — Charlie Benante (Anthrax), Hellhammer (Mayhem), and Jay Weinberg all run it on their acoustic kick and snare. Paul Mazurkiewicz (Cannibal Corpse) pairs ddrum triggers with a full in-ear monitor system for the same kind of live reinforcement."
+        answer: "Roland's RT-30 series is the most common clip-on trigger among touring metal drummers — Charlie Benante (Anthrax), Hellhammer (Mayhem), and Jay Weinberg all run it on their acoustic kick and snare."
       },
       {
         question: "What's the difference between a drum trigger and a drum module?",
@@ -50877,7 +50870,7 @@ For metal drummers who've already invested in triggers from multiple brands, or 
     // Conclusion
     conclusion: {
       title: "Reinforce It, Don't Replace It",
-      content: `A drum trigger's entire job is to make your acoustic kit sound as consistent on the worst-sounding stage of the tour as it does in a perfectly tuned studio. Charlie Benante, Hellhammer, and Jay Weinberg all use Roland's RT-30 series for exactly this reason, while Paul Mazurkiewicz pairs ddrum triggers with in-ear monitoring to keep Cannibal Corpse's demanding tempos locked in night after night.
+      content: `A drum trigger's entire job is to make your acoustic kit sound as consistent on the worst-sounding stage of the tour as it does in a perfectly tuned studio. Charlie Benante, Hellhammer, and Jay Weinberg all use Roland's RT-30 series for exactly this reason.
 
 Start lean: a single kick trigger and a basic interface will reinforce your loudest, most inconsistent drum without touching how your acoustic kit feels. Expand to a full trigger set or a cross-brand module like the ATV aD5 once you know exactly what you're trying to fix.
 
@@ -50894,7 +50887,7 @@ Start lean: a single kick trigger and a basic interface will reinforce your loud
     // SEO metadata
     title: "Best Drum Triggers for Death Metal: 2026 Ultimate Guide",
     metaTitle: "Best Drum Triggers for Death Metal in 2026 | MetalForge Expert Guide",
-    description: "Discover the best drum triggers for death metal drumming. Expert recommendations on acoustic trigger reinforcement for blast-beat consistency in the studio, featuring the exact setup Paul Mazurkiewicz relies on and the extreme-tempo demands George Kollias and Tim Yeung's playing puts on trigger hardware.",
+    description: "Discover the best drum triggers for death metal drumming. Expert recommendations on acoustic trigger reinforcement for blast-beat consistency in the studio, featuring the extreme-tempo demands George Kollias and Tim Yeung's playing puts on trigger hardware.",
     seoKeywords: [
       'best drum triggers for death metal',
       'death metal drum trigger',
@@ -50903,7 +50896,6 @@ Start lean: a single kick trigger and a basic interface will reinforce your loud
       'acoustic drum trigger studio recording',
       'roland rt-30 death metal',
       'drum trigger for double bass',
-      'paul mazurkiewicz ddrum trigger',
       'trigger reinforcement extreme metal',
       'best kick trigger blast beat consistency'
     ],
@@ -50931,12 +50923,11 @@ Start lean: a single kick trigger and a basic interface will reinforce your loud
       title: "Why Death Metal Drummers Track With Triggers",
       content: `A drum trigger is a small piezo or optical sensor clipped or mounted directly onto an acoustic drumhead. It converts the physical vibration of a hit into an electronic signal that can drive a sample, reinforce a weak-sounding mic, or feed a click-synced monitor rig — without changing how the acoustic drum feels under the stick or beater. In death metal specifically, this matters more than in almost any other style of drumming: the genre's blast beats and sustained double bass runs demand a level of hit-to-hit uniformity that even elite players can't guarantee take after take across a full album session, and studio engineers reach for trigger reinforcement precisely to close that gap without altering the actual performance underneath it.
 
-Paul Mazurkiewicz of Cannibal Corpse pairs ddrum triggers with a full in-ear monitor system, calling reliable triggering essential for the band's rhythmically demanding, high-tempo performances at any venue size — a setup built around the same principle death metal studios apply to tracking: reinforce the attack, don't replace the take. George Kollias's documented 240+ BPM blast beats — sustained passages he's built entire instructional materials around — illustrate exactly why this reinforcement exists in the first place: at that tempo, across dozens of takes, no acoustic kick stays perfectly uniform on its own, and a trigger gives an engineer a clean, consistent signal to lean on when the performance itself is already at the edge of human speed. Tim Yeung's trigger-assisted double-pedal setup, built for the extreme-tempo session and touring work he's done with Hate Eternal, Morbid Angel, and Divine Heresy, reflects the same reality: death metal's most in-demand drummers treat triggers as a studio consistency tool, not a crutch.
+George Kollias's documented 240+ BPM blast beats — sustained passages he's built entire instructional materials around — illustrate exactly why this reinforcement exists in the first place: at that tempo, across dozens of takes, no acoustic kick stays perfectly uniform on its own, and a trigger gives an engineer a clean, consistent signal to lean on when the performance itself is already at the edge of human speed. Tim Yeung's trigger-assisted double-pedal setup, built for the extreme-tempo session and touring work he's done with Hate Eternal, Morbid Angel, and Divine Heresy, reflects the same reality: death metal's most in-demand drummers treat triggers as a studio consistency tool, not a crutch.
 
 This guide covers what actually matters when choosing drum triggers for death metal — mounting type, dual-zone sensing, and crosstalk rejection at blast-beat tempo — with specific recommendations across every budget, from a first single kick trigger to a full acoustic reinforcement rig built for the studio.`,
       keyPoints: [
         "Triggers reinforce acoustic hits for consistency — they don't replace the drummer's actual take",
-        "Paul Mazurkiewicz pairs ddrum triggers with a full in-ear monitor system for Cannibal Corpse's demanding tempos",
         "George Kollias's 240+ BPM blast beats show exactly why studios lean on trigger reinforcement at extreme tempo",
         "Tim Yeung's trigger-assisted rig reflects how in-demand death metal session drummers treat triggers as a consistency tool"
       ]
@@ -51000,9 +50991,8 @@ This guide covers what actually matters when choosing drum triggers for death me
           driveType: "XLR Kick Trigger, Dual Zone",
           description: `ddrum essentially invented modern acoustic drum triggering, and the Chrome Elite kick trigger remains the go-to choice for death metal drummers who need a bulletproof bass drum signal at extreme tempo. Its dual-zone design and updated transducer give a module, interface, or DAW plugin a cleaner, more consistent signal than older single-zone kick triggers can provide.
 
-Paul Mazurkiewicz pairs ddrum triggers with a full in-ear monitor system, treating reliable kick triggering as essential for Cannibal Corpse's rhythmically demanding, high-tempo performances — exactly the extreme-tempo use case this trigger is built for, whether tracking in the studio or reinforcing live.`,
+That extreme-tempo reliability is exactly what a blast-beat-heavy tracking session or high-tempo live set demands — a shell-mounted bracket and secure XLR connection built to hold up across dozens of takes or a full touring schedule.`,
           pros: [
-            "Paul Mazurkiewicz's proven choice for extreme-tempo kick reinforcement",
             "Dual-zone sensing for a cleaner, more detailed trigger signal",
             "Secure XLR connection resists cable failure across long tracking sessions",
             "Updated transducer built specifically for sustained double bass abuse",
@@ -51020,9 +51010,6 @@ Paul Mazurkiewicz pairs ddrum triggers with a full in-ear monitor system, treati
             compatibility: "Any module, interface, or DAW plugin",
             use: "Bass drum reinforcement"
           },
-          usedBy: [
-            { name: "Paul Mazurkiewicz", band: "Cannibal Corpse", note: "ddrum triggers + full IEM system for high-tempo performances" }
-          ],
           verdict: "The extreme-tempo specialist's kick trigger — the death metal studio standard.",
           rating: 4.7,
           affiliateLink: "https://www.thomann.de/intl/ddrum_chrome_elite_bass_trigger.htm?partner_id=metalforge"
@@ -51074,7 +51061,7 @@ Because the RT-30 is Roland's own platform, it pairs cleanly with any Roland mod
           driveType: "Kick + Snare + Tom Trigger Set",
           description: `The Acoustic Pro set bundles ddrum's kick, snare, and tom triggers into a single purchase, giving a death metal drummer full-kit reinforcement without buying each piece individually — a practical way to move from a single kick trigger to reinforcing an entire acoustic kit before a full album tracking session.
 
-For drummers building the same kind of full acoustic-plus-trigger rig that Paul Mazurkiewicz runs — but who want every drum covered rather than just the kick — this set covers the whole kit in one order.`,
+For drummers who want every drum covered rather than just the kick, this set covers the whole kit in one order.`,
           pros: [
             "Full kit coverage (kick, snare, toms) in one purchase",
             "Consistent ddrum sensing across every drum for album-length tracking",
@@ -51216,7 +51203,6 @@ For death metal drummers who've already invested in triggers from multiple brand
 **Studio Tracking Rig (ddrum Chrome Elite, Roland RT-30 + interface):**
 - Reinforces kick and snare attack for consistency across dozens of takes
 - Keeps the acoustic kit's exact feel and tuning — the trigger only adds a clean, parallel signal for the engineer
-- The setup Paul Mazurkiewicz relies on, whether tracking or performing live
 
 **Full Trigger Module for Multitrack Recording (ATV aD5, Roland TD-series):**
 - Accepts triggers from multiple brands with individually adjustable zones
@@ -51242,7 +51228,7 @@ For death metal drummers who've already invested in triggers from multiple brand
         {
           category: "Best Overall",
           pedal: "ddrum Chrome Elite Bass Drum Trigger",
-          reason: "Paul Mazurkiewicz's proven choice for consistent kick reinforcement at Cannibal Corpse's demanding tempos."
+          reason: "A bulletproof dual-zone kick signal built for death metal's extreme-tempo tracking demands."
         },
         {
           category: "Best for Extreme Tempo",
@@ -51269,7 +51255,6 @@ For death metal drummers who've already invested in triggers from multiple brand
       'best-snare-drums-for-death-metal'
     ],
     relatedDrummers: [
-      { slug: 'paul-mazurkiewicz', name: 'Paul Mazurkiewicz', reason: 'ddrum triggers + full IEM system for Cannibal Corpse\'s demanding tempos' },
       { slug: 'george-kollias', name: 'George Kollias', reason: '240+ BPM blast beats that define the extreme-tempo case for trigger reinforcement' },
       { slug: 'tim-yeung', name: 'Tim Yeung', reason: 'Trigger-assisted double pedal setup across Hate Eternal, Morbid Angel, and Divine Heresy' }
     ],
@@ -51279,11 +51264,11 @@ For death metal drummers who've already invested in triggers from multiple brand
     faq: [
       {
         question: "What drum triggers do death metal drummers use?",
-        answer: "Paul Mazurkiewicz of Cannibal Corpse pairs ddrum triggers with a full in-ear monitor system for reliable reinforcement at high tempo. Roland's RT-30 series is another common clip-on choice among metal drummers reinforcing kick and snare for consistent attack."
+        answer: "ddrum's Chrome Elite kick trigger is a go-to choice for extreme-tempo bass drum reinforcement. Roland's RT-30 series is another common clip-on choice among metal drummers reinforcing kick and snare for consistent attack."
       },
       {
         question: "Do death metal drummers use triggers live, in the studio, or both?",
-        answer: "Both, but for different reasons. In the studio, triggers give an engineer a clean, consistent signal to lean on across dozens of blast-beat takes without replacing the actual performance. Live, the same reinforcement keeps attack consistent on an inconsistent backline or a loud stage — Paul Mazurkiewicz runs the same ddrum trigger setup for both."
+        answer: "Both, but for different reasons. In the studio, triggers give an engineer a clean, consistent signal to lean on across dozens of blast-beat takes without replacing the actual performance. Live, the same reinforcement keeps attack consistent on an inconsistent backline or a loud stage."
       },
       {
         question: "What's the difference between a drum trigger and a drum module?",
@@ -51302,7 +51287,7 @@ For death metal drummers who've already invested in triggers from multiple brand
     // Conclusion
     conclusion: {
       title: "Reinforce the Attack, Not the Performance",
-      content: `A drum trigger's entire job in death metal is to make blast-beat and double-bass passages sound as uniform on take forty as they did on take one — without ever replacing what the drummer actually played. Paul Mazurkiewicz pairs ddrum triggers with in-ear monitoring to keep Cannibal Corpse's demanding tempos locked in, while the sheer extremity of George Kollias's 240+ BPM blast beats and Tim Yeung's trigger-assisted session work show exactly why studios lean on this kind of reinforcement at the genre's outer limits.
+      content: `A drum trigger's entire job in death metal is to make blast-beat and double-bass passages sound as uniform on take forty as they did on take one — without ever replacing what the drummer actually played. The sheer extremity of George Kollias's 240+ BPM blast beats and Tim Yeung's trigger-assisted session work show exactly why studios lean on this kind of reinforcement at the genre's outer limits.
 
 Start lean: a single kick trigger and a basic interface will reinforce your loudest, most tempo-critical drum without touching how your acoustic kit feels. Expand to a full trigger set or a cross-brand module like the ATV aD5 once you're tracking a full album and know exactly what you're trying to fix.
 
@@ -58129,7 +58114,6 @@ Its 30-252 BPM range and 15 rhythm variations cover the practical range most met
     ],
     relatedDrummers: [
       { slug: 'mario-duplantier', name: 'Mario Duplantier', reason: 'Full IEM click-track integration for Gojira\'s arena tours' },
-      { slug: 'paul-mazurkiewicz', name: 'Paul Mazurkiewicz', reason: 'ddrum triggers + full IEM system for demanding tempos' },
       { slug: 'brann-dailor', name: 'Brann Dailor', reason: 'Roland SPD-SX + full IEM click integration' }
     ],
     relatedComparisons: [],
@@ -58142,7 +58126,7 @@ Its 30-252 BPM range and 15 rhythm variations cover the practical range most met
       },
       {
         question: "Do I need a metronome if I'm going to use in-ear monitors live?",
-        answer: "Yes — the internal timing sense that makes live click-track monitoring work is built in the practice room first, not on stage. Drummers like Mario Duplantier (Gojira) and Paul Mazurkiewicz (Cannibal Corpse) who run full IEM click systems live built that discipline with dedicated practice metronomes long before it mattered on tour."
+        answer: "Yes — the internal timing sense that makes live click-track monitoring work is built in the practice room first, not on stage. Drummers like Mario Duplantier (Gojira) and Brann Dailor (Mastodon), who run full IEM click systems live, built that discipline with dedicated practice metronomes long before it mattered on tour."
       },
       {
         question: "What's the difference between a regular metronome and a drummer's metronome?",
@@ -69808,7 +69792,7 @@ The good news is that modern musician earplugs solve this without the muffled, e
 
 This isn't just a stage concern either. Drummers who eventually integrate an in-ear monitor system for click-track and backing-track sync are already wearing earpieces that provide real isolation — but hearing protection matters just as much during unamplified rehearsal and practice-room sessions, where no IEM system is running and a kit's raw volume is doing the damage.
 
-Touring metal drummers running full production setups — the kind of arena and stadium-level rigs Mario Duplantier relies on for Gojira, or the full IEM click integration Paul Mazurkiewicz and Brann Dailor depend on night after night — have every incentive to treat protection as a permanent part of the job, since a career built around loud, sustained exposure compounds the risk year after year. Developing drummers face the same math on a smaller scale: a garage rehearsal or a practice-room session at full kit volume adds up over months and years exactly the same way a tour does, just without the production budget to make protection feel like a given.
+Touring metal drummers running full production setups — the kind of arena and stadium-level rigs Mario Duplantier relies on for Gojira, or the full IEM click integration Brann Dailor depends on night after night — have every incentive to treat protection as a permanent part of the job, since a career built around loud, sustained exposure compounds the risk year after year. Developing drummers face the same math on a smaller scale: a garage rehearsal or a practice-room session at full kit volume adds up over months and years exactly the same way a tour does, just without the production budget to make protection feel like a given.
 
 This guide covers what actually matters when choosing hearing protection for drumming — attenuation level, filter type, and fit — with specific recommendations across every budget, from disposable foam to fully custom-molded options.`,
       keyPoints: [
@@ -70174,8 +70158,7 @@ Its slim, low-profile design sits comfortably under a hoodie or cap and is easy 
     ],
     relatedDrummers: [
       { slug: 'mario-duplantier', name: 'Mario Duplantier', reason: 'Full IEM click-track integration for Gojira\'s arena and stadium tours' },
-      { slug: 'brann-dailor', name: 'Brann Dailor', reason: 'Roland SPD-SX + full IEM click integration for Mastodon' },
-      { slug: 'paul-mazurkiewicz', name: 'Paul Mazurkiewicz', reason: 'ddrum triggers + full IEM system for Cannibal Corpse' }
+      { slug: 'brann-dailor', name: 'Brann Dailor', reason: 'Roland SPD-SX + full IEM click integration for Mastodon' }
     ],
     relatedComparisons: [],
 

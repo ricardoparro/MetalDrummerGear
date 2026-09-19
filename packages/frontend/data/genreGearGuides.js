@@ -71540,11 +71540,10 @@ Start with a single 10" splash mounted close to your snare, and choose a dry, fa
     // SEO metadata
     title: "Best Splash Cymbals for Technical Death Metal: 2026 Ultimate Guide",
     metaTitle: "Best Splash Cymbals for Technical Death Metal in 2026 | MetalForge Expert Guide",
-    description: "Discover the best splash cymbals for technical death metal drumming. Expert recommendations on bright, fast-decaying accent cymbals for odd-meter, classically-informed fills, featuring the splash setups used by Sean Reinert, Navene Koperweis, and Blake Richardson.",
+    description: "Discover the best splash cymbals for technical death metal drumming. Expert recommendations on bright, fast-decaying accent cymbals for odd-meter, classically-informed fills, featuring the splash setups used by Navene Koperweis and Blake Richardson.",
     seoKeywords: [
       'best splash cymbal for technical death metal',
       'technical death metal splash cymbal',
-      'sean reinert splash cymbal',
       'navene koperweis splash cymbal',
       'zildjian a splash technical death metal',
       'blake richardson splash cymbal',
@@ -71577,12 +71576,11 @@ Start with a single 10" splash mounted close to your snare, and choose a dry, fa
       title: "Punctuating Precision With Precision",
       content: `Technical death metal's classically-informed, odd-meter compositions demand an unusual level of control from every piece of a drummer's cymbal setup, and a splash cymbal is one of the more overlooked tools for that job. A splash's near-instant decay — typically from an 8" to 12" cymbal — punctuates a single accent hit inside a rapid subdivision or an odd-meter phrase without ringing into the next beat the way a full-size crash would, giving classically-trained, precision-focused drummers one more tonal option beyond a standard hi-hat, crash, and ride.
 
-Sean Reinert's Zildjian A/K rig for Death and Cynic includes a 10" A Splash, giving his precise, jazz-and-classical-informed playing a distinct accent voice for the intricate ghost notes and odd-meter phrasing that define his work on Death's Human and Cynic's Focus. Navene Koperweis, whose playing spans technical death metal, progressive metal, and djent across Entheos and Animals as Leaders, runs a 10" Meinl Byzance splash for ornamental fills within his dynamically layered setup. Blake Richardson's Sabian HH Duo Splash, part of his broader Between the Buried and Me rig, punctuates the band's own technical, genre-hopping material with the same kind of precise, controlled accent.
+Navene Koperweis, whose playing spans technical death metal, progressive metal, and djent across Entheos and Animals as Leaders, runs a 10" Meinl Byzance splash for ornamental fills within his dynamically layered setup. Blake Richardson's Sabian HH Duo Splash, part of his broader Between the Buried and Me rig, punctuates the band's own technical, genre-hopping material with the same kind of precise, controlled accent.
 
 Despite that lineage, a splash is often the last cymbal a developing technical death metal drummer considers, usually added only after noticing that every fill and accent hit sounds tonally identical against a standard crash-and-ride setup. That's a real gap for a genre built on precision and control at every level of the kit. This guide covers what actually matters when choosing a splash cymbal for technical death metal — size, alloy, and mounting — with specific recommendations across every budget.`,
       keyPoints: [
         "A splash's near-instant decay suits technical death metal's precise, odd-meter accent hits better than a full-size crash",
-        "Sean Reinert runs a 10\" Zildjian A Splash within the precise, classically-informed setup behind Death's Human and Cynic's Focus",
         "Navene Koperweis runs a 10\" Meinl Byzance splash for ornamental fills across his technical, dynamically layered playing",
         "Blake Richardson's Sabian HH Duo Splash punctuates Between the Buried and Me's genre-hopping technical material"
       ]
@@ -71607,7 +71605,7 @@ Despite that lineage, a splash is often the last cymbal a developing technical d
         {
           name: "Precision and Control",
           icon: "🎯",
-          description: "Technical death metal's odd-meter phrasing and ghost-note-laced fills reward a splash with a clean, controlled response at low velocity as well as a hard stab — the same precision Sean Reinert's playing style demands from every part of his kit.",
+          description: "Technical death metal's odd-meter phrasing and ghost-note-laced fills reward a splash with a clean, controlled response at low velocity as well as a hard stab — the same precision the genre's classically-informed playing style demands from every part of the kit.",
           recommendation: "Prioritize a splash that responds cleanly at both light and hard velocities"
         },
         {
@@ -71644,12 +71642,9 @@ Despite that lineage, a splash is often the last cymbal a developing technical d
           priceRange: "€90-120",
           tier: "pro",
           driveType: "B20 Bronze, Brilliant Finish",
-          description: `A Custom's bright, articulate voicing gives a splash a clean, precise attack that responds well to both light ghost-note-adjacent taps and hard accent stabs — exactly the control technical death metal's classically-informed phrasing rewards.
-
-Sean Reinert's Zildjian A/K rig for Death and Cynic includes a 10" A Splash, the same accent-cymbal category behind the precise, intricate fills that define his work on Human and Focus.`,
+          description: `A Custom's bright, articulate voicing gives a splash a clean, precise attack that responds well to both light ghost-note-adjacent taps and hard accent stabs — exactly the control technical death metal's classically-informed phrasing rewards.`,
           pros: [
             "Clean, precise attack across a wide dynamic range",
-            "Same Zildjian A family Sean Reinert runs in his Death/Cynic rig",
             "Bright enough to cut through dense, technical arrangements",
             "Reliable, professional B20 build quality"
           ],
@@ -71664,10 +71659,8 @@ Sean Reinert's Zildjian A/K rig for Death and Cynic includes a 10" A Splash, the
             finish: "Brilliant",
             weight: "Medium-Thin"
           },
-          usedBy: [
-            { name: "Sean Reinert", band: "Death / Cynic", note: "10\" A Splash within Zildjian A/K touring rig" }
-          ],
-          verdict: "The best all-around pick for technical death metal, matching Sean Reinert's precise, classically-informed accent voice.",
+          usedBy: [],
+          verdict: "The best all-around pick for technical death metal, delivering the precise, classically-informed accent voice the genre's odd-meter phrasing rewards.",
           rating: 4.6,
           affiliateLink: "https://www.thomann.de/intl/zildjian_a_custom_splash_10.htm?partner_id=metalforge"
         },
@@ -71858,7 +71851,7 @@ A natural upgrade path for technical death metal drummers already running K Cust
 
 **Bright/Brilliant Splashes (Zildjian A Custom, K Custom Hybrid):**
 - Sharp, cutting attack that punches through a dense, technical mix
-- Favored by drummers like Sean Reinert for precise, clearly audible accent stabs inside intricate, odd-meter phrasing
+- Favored for precise, clearly audible accent stabs inside intricate, odd-meter phrasing
 - Best when you need the splash to stand out distinctly from surrounding cymbals
 
 **Dry/Extra Dry Splashes (Meinl Byzance Extra Dry):**
@@ -71885,7 +71878,7 @@ A natural upgrade path for technical death metal drummers already running K Cust
         {
           category: "Best Overall",
           pedal: "Zildjian A Custom Splash",
-          reason: "The precise, classically-informed accent voice behind Sean Reinert's work on Human and Focus."
+          reason: "The precise, classically-informed accent voice technical death metal's odd-meter phrasing rewards."
         },
         {
           category: "Best for Dense Arrangements",
@@ -71912,7 +71905,6 @@ A natural upgrade path for technical death metal drummers already running K Cust
       'best-crash-cymbals-for-technical-death-metal'
     ],
     relatedDrummers: [
-      { slug: 'sean-reinert', name: 'Sean Reinert', reason: '10" Zildjian A Splash — precise, classically-informed fills on Death\'s Human and Cynic\'s Focus' },
       { slug: 'navene-koperweis', name: 'Navene Koperweis', reason: '10" Meinl Byzance splash for ornamental fills — technical, dynamically layered playing' },
       { slug: 'blake-richardson', name: 'Blake Richardson', reason: 'Sabian HH Duo Splash — BTBAM genre-hopping technicality' }
     ],
@@ -71922,11 +71914,11 @@ A natural upgrade path for technical death metal drummers already running K Cust
     faq: [
       {
         question: "What splash cymbal size works best for technical death metal fills?",
-        answer: "A 10\" splash is the most common choice, striking a balance between a sharp, distinct accent and enough body to cut through a dense, technical mix. Sean Reinert runs a 10\" Zildjian A Splash within his Death/Cynic touring rig."
+        answer: "A 10\" splash is the most common choice, striking a balance between a sharp, distinct accent and enough body to cut through a dense, technical mix."
       },
       {
         question: "Do technical death metal drummers use splash or effects cymbals live?",
-        answer: "Both, but they serve different roles. A china adds abrupt textural punctuation, while a splash's near-instant decay is built for precise, controlled accent hits inside odd-meter, classically-informed fills — the role Sean Reinert's 10\" A Splash fills within his live setup."
+        answer: "Both, but they serve different roles. A china adds abrupt textural punctuation, while a splash's near-instant decay is built for precise, controlled accent hits inside odd-meter, classically-informed fills."
       },
       {
         question: "Where to mount a splash in a technical death metal setup?",
@@ -71945,7 +71937,7 @@ A natural upgrade path for technical death metal drummers already running K Cust
     // Conclusion
     conclusion: {
       title: "Precision Deserves a Precise Accent",
-      content: `Technical death metal is a genre built on control — classically-informed phrasing, odd-meter precision, and intricate ghost notes — and a splash cymbal is a genuinely useful tool for that same level of control at the accent-hit level. Sean Reinert's 10" Zildjian A Splash gave Death's Human and Cynic's Focus a precise, classically-informed accent voice, while Navene Koperweis's dry Meinl Byzance splash serves the same role across his technical, dynamically layered playing today.
+      content: `Technical death metal is a genre built on control — classically-informed phrasing, odd-meter precision, and intricate ghost notes — and a splash cymbal is a genuinely useful tool for that same level of control at the accent-hit level. Navene Koperweis's dry Meinl Byzance splash serves that role across his technical, dynamically layered playing today.
 
 Start with a single 10" splash mounted close to your snare, and lean toward a drier voicing if your fills already run dense and close together. It's a small cymbal, but it closes a real gap most standard technical death metal cymbal setups leave open.
 

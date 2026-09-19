@@ -114971,7 +114971,8 @@ Start with a coated double-ply head like the Evans G2 for most nu-metal material
     // SEO metadata
     title: "Best Drum Heads for Power Metal: 2026 Ultimate Guide",
     metaTitle: "Best Drum Heads for Power Metal in 2026 | MetalForge Expert Guide",
-    description: "Discover the best drum heads for power metal drumming. Expert recommendations covering Remo and Evans — bright, single-ply heads built for articulate double-kick clarity, the tone behind Scott Travis, Aquiles Priester, Nicko McBrain, and Mikkey Dee.",
+    description: "Discover the best drum heads for power metal drumming. Expert recommendations covering Remo and Evans — bright, single-ply heads built for articulate double-kick clarity, the tone behind Scott Travis, Nicko McBrain, and Mikkey Dee. " +
+      "Also covering Aquiles Priester's Remo setup.",
     seoKeywords: [
       'best drum heads for power metal',
       'power metal drum heads',
@@ -115343,7 +115344,8 @@ Scott Travis's twin-pedal, foot-independent Judas Priest setup benefits from thi
     faq: [
       {
         question: "What drum heads do power metal drummers use?",
-        answer: "Power metal drummers generally favor bright, single-ply heads for articulate, high-tempo playing. Nicko McBrain of Iron Maiden uses Remo Coated Ambassador heads, Aquiles Priester of Angra favors Evans G1 Clear for maximum brightness, and Mikkey Dee has relied on Evans G1 Coated across his touring career."
+        answer: "Power metal drummers generally favor bright, single-ply heads for articulate, high-tempo playing. Nicko McBrain of Iron Maiden uses Remo Coated Ambassador heads, and Aquiles Priester of Angra has run Remo Coated Ambassador / Powerstroke 3 since 1996. " +
+          "Mikkey Dee has relied on Evans G1 Coated across his touring career."
       },
       {
         question: "Why does power metal favor bright, single-ply heads over muffled double-ply heads?",
@@ -115366,7 +115368,8 @@ Scott Travis's twin-pedal, foot-independent Judas Priest setup benefits from thi
     // Conclusion
     conclusion: {
       title: "Find Your Power Metal Clarity",
-      content: `Power metal's drum head choice comes down to cutting through dense arrangements at high tempo, not muffled low-end weight. Nicko McBrain's Remo Coated Ambassador remains the genre's proven, most widely used foundation, carrying Iron Maiden's galloping rhythms clearly for four-plus decades. Aquiles Priester's Evans G1 Clear pushes brightness further for cutting through Angra's dense, orchestrated neoclassical arrangements, while Mikkey Dee's Evans G1 Coated shows how to balance warmth and reliability across a demanding touring career.
+      content: `Power metal's drum head choice comes down to cutting through dense arrangements at high tempo, not muffled low-end weight. Nicko McBrain's Remo Coated Ambassador remains the genre's proven, most widely used foundation, carrying Iron Maiden's galloping rhythms clearly for four-plus decades. Aquiles Priester's Remo Coated Ambassador / Powerstroke 3 combination has carried that same proven foundation through Angra's dense, orchestrated neoclassical arrangements since 1996. ` +
+      `Mikkey Dee's Evans G1 Coated shows how to balance warmth and reliability across a demanding touring career.
 
 Start with a coated single-ply head like the Remo Coated Ambassador for the genre's proven, all-around tone, and move to a fully clear head like the Evans G1 Clear if your material specifically needs maximum brightness and projection.
 

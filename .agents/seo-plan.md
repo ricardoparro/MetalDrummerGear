@@ -9322,3 +9322,39 @@ Ran `gh issue list --state all --search "genreGearGuides <drummer> <category>"` 
 2. `genreGearGuides.js` still not exhausted — this run's 3-way alphabetic-band audit covered ~40 unaudited drummers but many came back "clean" or "not yet referenced in the file" (arin-ilejay, jocke-wallgren, richard-christy, ryan-van-poederooyen, martin-lopez, adrian-erlandsson, jon-dette, jimmy-degrasso, nick-barker, alex-rudinger, john-longstreth, waltteri-vayrynen — 9 of these simply don't appear in the file yet). Untriaged leftovers worth a follow-up pass if the bank stays low: Nick Augusto sticks (Vic Firth vs verified Pro-Mark, 7 locations), Daray hardware (Pearl Demon XR vs verified Demon Drive, likely bleed from George Kollias, ~10 locations), Paul Bostaph pedal (DW vs verified Pearl Eliminator, 1 location), Morgan Ågren fabricated Meshuggah/Fredrik Thordendal collaboration (not gear, but an unverified biographical claim, 2 locations), Mikkey Dee hardware (line 110493 in the same power-metal hardware guide as #7770 — still says "Pearl hardware" despite #6533 having previously fixed a different Pearl-drums fabrication for him; worth checking if this specific hardware-guide line was in #6533's scope before filing).
 3. Content-gap query (`danny carey drum set`) unchanged/held on established precedent (exhausted-lever ruling).
 4. Next drum-chair watch due Monday 2026-09-21, group 3 (sepultura/slayer/slipknot/testament/tool/vader/volto).
+
+---
+
+## 2026-09-19 (run, per metrics.md 11:42 UTC) — 7 proposals filed (#7782-7788): closed out the 09-19 05:16 leftover list + found 2 fresh via Bostaph/Bittner sweep
+
+### Bank check
+Open `seo-proposal` at run start: 12 (8 fresh/untriaged #7766-7773 from the prior run + #7751 + 3 standing umbrellas #2211/#3810/#3819) — well under 45 → cleared to file up to 8 net-new. Metrics 11:42 UTC (343 users/386 sessions/594 views 7d; GSC 7,968 impr/159 clicks/2.00% CTR/pos 7.5). robots.txt: 13 `User-agent` blocks, all 8 AI crawlers confirmed allowed. `/llms/*.md` endpoints: 2,016 files live (stable). Content-gap table: `danny carey drum set` (89 impr/1.12% CTR) — re-confirmed already-classified per learned-patterns.md line 236 (exhausted-content-lever ruling) — held, no new action. Today is Saturday — drum-chair watch not due (next due Monday 09-21, group 3).
+
+### This run's work
+Worked through the 09-19 05:16 run's leftover list (Nick Augusto sticks, Daray hardware, Paul Bostaph pedal, Morgan Ågren bio claim, Mikkey Dee hardware line ~110493) via a dedicated verification agent, then dispatched a second audit agent for 4-5 more fresh candidates to round out the batch since the leftover list alone only yielded 3 confirmed + 1 borderline.
+
+Personally spot-checked exact line numbers and verified-fact citations for all high-stakes candidates via direct `sed`/`grep` before filing (not trusting agent reports alone), and ran my own `gh issue list --state all --search` dedup pass for every candidate.
+
+**7 filed, all single/few-guide corrections on existing pages, zero new URLs — freeze-compliant:**
+1. **#7782** — Nick Augusto sticks fabricated as Vic Firth American Classic 5B across the metalcore-drumsticks guide (~18 locations, more than the leftover list's estimated 7) — verified Pro-Mark Nylon Tip 5B per #7481.
+2. **#7783** — Daray pedal fabricated as "Pearl Demon XR" (actually George Kollias's distinct signature model) across 2 symphonic-metal guide families (~26 locations) — verified Pearl Demon Drive. Correct brand, wrong model — cross-drummer copy-bleed, not a simple swap.
+3. **#7784** — Mikkey Dee hardware/throne fabricated as "Pearl"/invented "D-3000 Roadster Throne" in the power-metal-hardware guide (7 locations) — verified DW; confirmed via full-body read of #6533 that this specific guide (stands/racks/thrones) was never in that issue's 3-guide scope (bass-drum/drum-kit/pedal only).
+4. **#7785** — Morgan Ågren unsourced Meshuggah/Fredrik Thordendal collaboration claim in the mathcore splash-cymbal guide (1 location, not the leftover list's estimated 2) — not a gear fact, but unsourced in any data file (`extendedBios.js` band list doesn't include Meshuggah/Thordendal); omit-if-unsure violation.
+5. **#7786** — Paul Bostaph pedal fabricated as DW 9000 Series in the death-metal pedal guide (1 location) — verified Pearl Eliminator since 2015. (The leftover-list author's initial check missed this — it exists in a different guide than the ones first searched.)
+6. **#7787** — Paul Bostaph china cymbal fabricated as nonexistent "Sabian AAXtreme" model + era overreach ("across his extensive Slayer tenure") in the thrash-metal china-cymbal guide (3 locations) — verified plain Sabian AAX Series, since 2015 only (earlier Slayer tenures used Paiste).
+7. **#7788** — Jason Bittner drum throne fabricated as "Mapex T865" (Chris Adler's verified throne per #5567) in the drum-thrones guide (4 locations) — Bittner has no throne field verified anywhere; omit-if-unsure violation compounded by cross-drummer copy-bleed.
+
+### Dedup notes
+Ran `gh issue list --state all --search` for all 7 drummer+category combinations before filing (7 searches, reviewed ~90 historical hits for Mikkey Dee and Morgan Ågren specifically given their long fix histories). Read full closed-issue bodies for #6533 (Mikkey Dee) and #5567 (Bittner/Adler throne) to confirm zero line-range/scope overlap before filing. Dropped nothing this run — all 7 investigated candidates confirmed real and non-duplicate (Paul Bostaph's initial "not a fabrication" read from the first verification pass was superseded by the second audit agent finding 2 genuine hits in different, unchecked guides).
+
+### Open proposals waiting on CEO triage
+- #7751, #7766-7773 (prior runs, still open/fresh or ai-fix)
+- #7782-7788 (this run, 7 fresh)
+- #2211/#3810/#3819 (standing umbrellas)
+- Bank at run end: 19 open `seo-proposal` (well under the 45 top-up ceiling).
+
+### Next run
+1. Watch #7782-7788 through CEO triage.
+2. `genreGearGuides.js` still not exhausted. This run's leftover-list-plus-fresh-sweep pattern (verify known leads, then dispatch one more audit agent for net-new candidates) worked well when the leftover list alone falls short of 8 — repeat it if the next low-bank run doesn't have a fresh leftover list of its own.
+3. Content-gap query (`danny carey drum set`) unchanged/held on established precedent (exhausted-lever ruling).
+4. Next drum-chair watch due Monday 2026-09-21, group 3 (sepultura/slayer/slipknot/testament/tool/vader/volto).

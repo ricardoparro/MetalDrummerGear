@@ -89035,7 +89035,7 @@ One genuinely overlooked factor: black metal's sustained blast beats reward whic
     // SEO metadata
     title: "Best Drumsticks for Metalcore: 2026 Ultimate Guide",
     metaTitle: "Best Drumsticks for Metalcore 2026 | MetalForge Expert Guide",
-    description: "Best drumsticks for metalcore drumming: what Matt Greiner (Vic Firth Signature), Ben Koller (Vic Firth 5B), Alex Bent (Vic Firth 5B), and Nick Augusto (Vic Firth 5B) actually play. Strong rebound for breakdown-heavy dynamics — ranked budget to pro.",
+    description: "Best drumsticks for metalcore drumming: what Matt Greiner (Vic Firth Signature), Ben Koller (Vic Firth 5B), Alex Bent (Vic Firth 5B), and Nick Augusto (Pro-Mark Nylon Tip 5B) actually play. Strong rebound for breakdown-heavy dynamics — ranked budget to pro.",
     seoKeywords: [
       'best drumsticks for metalcore',
       'metalcore drumsticks',
@@ -89072,7 +89072,7 @@ One genuinely overlooked factor: black metal's sustained blast beats reward whic
       title: "Why Metalcore Sticks Need Rebound as Much as Power",
       content: `Metalcore's drumming vocabulary swings between two extremes within a single song — blast beats and fast double bass in the verses, then a sudden drop into a slow, weighty breakdown where every hit has to land with maximum authority. That dynamic range makes rebound as important as raw power: a stick that only excels at one extreme leaves a drummer fighting their equipment during the other.
 
-Matt Greiner of August Burns Red plays his own Vic Firth signature stick — a 0.585" diameter model with an elongated taper and teardrop tip, dry-tumbled with no added finish for a smooth, organic grip. Greiner's signature partnership also includes his own Pearl steel snare, part of a broader technical reputation built across August Burns Red's Grammy-nominated catalog. Ben Koller of Converge, whose relentless intensity helped define modern metalcore and hardcore drumming, favors the heavier end of Vic Firth's American Classic 5B — a preference for maximum impact established during his DIY hardcore years that carried through unchanged into the "Jane Doe" era. Alex Bent and Nick Augusto, both known for technical precision within heavier metalcore contexts, likewise favor the Vic Firth American Classic 5B for its dependable balance of power and control.
+Matt Greiner of August Burns Red plays his own Vic Firth signature stick — a 0.585" diameter model with an elongated taper and teardrop tip, dry-tumbled with no added finish for a smooth, organic grip. Greiner's signature partnership also includes his own Pearl steel snare, part of a broader technical reputation built across August Burns Red's Grammy-nominated catalog. Ben Koller of Converge, whose relentless intensity helped define modern metalcore and hardcore drumming, favors the heavier end of Vic Firth's American Classic 5B — a preference for maximum impact established during his DIY hardcore years that carried through unchanged into the "Jane Doe" era. Alex Bent, also known for technical precision within heavier metalcore contexts, likewise favors the Vic Firth American Classic 5B for its dependable balance of power and control. Nick Augusto, who anchored Trivium's technical riffing from 2009-2014, plays a Pro-Mark Nylon Tip 5B — the same trusted 5B diameter with a nylon tip for extra durability and a brighter cymbal attack.
 
 This guide covers what actually makes a drumstick work for metalcore's breakdown-to-blast-beat dynamic range, what the genre's most respected drummers actually play, and concrete recommendations from budget to pro.`,
       keyPoints: [
@@ -89102,7 +89102,7 @@ This guide covers what actually makes a drumstick work for metalcore's breakdown
         {
           name: "Tip Shape",
           icon: "🔵",
-          description: "Greiner's signature model uses a teardrop tip for a full, articulate cymbal sound without excessive brightness — well suited to metalcore's dense, syncopated riff-locking. The standard oval tip on the Vic Firth 5B favored by Koller, Bent, and Augusto remains a dependable, versatile choice across the genre's full stylistic range.",
+          description: "Greiner's signature model uses a teardrop tip for a full, articulate cymbal sound without excessive brightness — well suited to metalcore's dense, syncopated riff-locking. The standard oval tip on the Vic Firth 5B favored by Koller and Bent remains a dependable, versatile choice across the genre's full stylistic range, while Augusto's nylon-tip Pro-Mark 5B trades a touch of that woody articulation for extra durability and a brighter cymbal attack.",
           recommendation: "Teardrop for articulate, controlled cymbal work; oval for versatile all-purpose response"
         },
         {
@@ -89210,7 +89210,7 @@ For metalcore and hardcore-adjacent drummers who want maximum impact on breakdow
         },
         {
           rank: 3,
-          name: "Vic Firth American Classic 5B (Bent/Augusto)",
+          name: "Vic Firth American Classic 5B (Bent)",
           brand: "Vic Firth",
           model: "American Classic 5B Wood Tip",
           image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Drumsticks.jpg/640px-Drumsticks.jpg",
@@ -89218,12 +89218,12 @@ For metalcore and hardcore-adjacent drummers who want maximum impact on breakdow
           tier: "pro",
           material: "American Hickory",
 
-          description: `Alex Bent and Nick Augusto both play the standard Vic Firth American Classic 5B, favoring its dependable balance of power and control for technically demanding metalcore and progressive-adjacent material. Both drummers are known for precise, controlled technique within heavier contexts, and the 5B's proven diameter handles the genre's full range — from tight, syncopated verse patterns to weighted breakdown hits — without requiring a specialized signature model.
+          description: `Alex Bent plays the standard Vic Firth American Classic 5B, favoring its dependable balance of power and control for technically demanding metalcore and progressive-adjacent material. Known for precise, controlled technique within heavier contexts, Bent relies on the 5B's proven diameter to handle the genre's full range — from tight, syncopated verse patterns to weighted breakdown hits — without requiring a specialized signature model.
 
-Their shared choice underscores a broader pattern in metalcore: the genre's technical demands don't necessarily require boutique gear, and a well-chosen standard size can carry a drummer through the most demanding professional contexts.`,
+Bent's choice underscores a broader pattern in metalcore: the genre's technical demands don't necessarily require boutique gear, and a well-chosen standard size can carry a drummer through the most demanding professional contexts.`,
 
           pros: [
-            "Alex Bent and Nick Augusto's shared choice — proven across technical metalcore contexts",
+            "Alex Bent's proven choice — reliable across technical metalcore contexts",
             "Same trusted 5B diameter as the genre's broader standard",
             "American hickory for reliable durability",
             "Balanced power and control across the genre's dynamic range",
@@ -89241,8 +89241,7 @@ Their shared choice underscores a broader pattern in metalcore: the genre's tech
             grip: "Lacquered"
           },
           usedBy: [
-            { name: "Alex Bent", band: "Trivium / Dragonlord", note: "Vic Firth American Classic 5B — precise, controlled technique" },
-            { name: "Nick Augusto", band: "Trivium", note: "Vic Firth American Classic 5B — dependable power and control" }
+            { name: "Alex Bent", band: "Trivium / Dragonlord", note: "Vic Firth American Classic 5B — precise, controlled technique" }
           ],
           verdict: "The dependable technical pick. Best for metalcore drummers who want proven reliability across a wide stylistic range.",
           rating: 4.6,
@@ -89379,8 +89378,9 @@ For drummers building a metalcore rig on a budget, the Classic Forward 5B perfor
 **Standard Sizes (Vic Firth American Classic 5A/5B):**
 - Broadly proven, widely available, and more affordable
 - Ben Koller's heavier 5B preference reflects raw power over specialized geometry
-- Alex Bent and Nick Augusto's shared 5B choice shows technical metalcore doesn't require signature gear
-- Preferred by: Ben Koller, Alex Bent, Nick Augusto
+- Alex Bent's standard 5B choice shows technical metalcore doesn't require signature gear
+- Preferred by: Ben Koller, Alex Bent
+- Nick Augusto lands on the same standard, non-signature 5B philosophy on a Pro-Mark Nylon Tip 5B — proof the pattern holds across brands, not just within Vic Firth's lineup
 
 **The Truth:** Both approaches work at metalcore's highest level. Matt Greiner's signature stick solves a specific problem — balancing August Burns Red's technical density with breakdown authority — that a standard size doesn't fully address for his particular playing style. Ben Koller's standard 5B choice, unchanged since his DIY hardcore years, shows that raw power and a proven size can carry a drummer through decades of acclaimed work just as effectively.
 
@@ -89410,8 +89410,8 @@ For drummers building a metalcore rig on a budget, the Classic Forward 5B perfor
         },
         {
           category: "Best for Technical Precision",
-          pedal: "Vic Firth American Classic 5B (Bent/Augusto)",
-          reason: "Alex Bent and Nick Augusto's shared choice for dependable power and control."
+          pedal: "Vic Firth American Classic 5B (Bent)",
+          reason: "Alex Bent's proven choice for dependable power and control."
         },
         {
           category: "Best Budget Pick",
@@ -89432,7 +89432,7 @@ For drummers building a metalcore rig on a budget, the Classic Forward 5B perfor
       { slug: 'matt-greiner', name: 'Matt Greiner', reason: 'Vic Firth signature — technical speed and breakdown power for August Burns Red' },
       { slug: 'ben-koller', name: 'Ben Koller', reason: 'Vic Firth American Classic 5B — Converge\'s maximum-impact hardcore intensity' },
       { slug: 'alex-bent', name: 'Alex Bent', reason: 'Vic Firth American Classic 5B — precise, controlled technical metalcore' },
-      { slug: 'nick-augusto', name: 'Nick Augusto', reason: 'Vic Firth American Classic 5B — dependable power and control' }
+      { slug: 'nick-augusto', name: 'Nick Augusto', reason: 'Pro-Mark Nylon Tip 5B — dependable power and control' }
     ],
 
     // Featured drummers (issue template)
@@ -89440,7 +89440,7 @@ For drummers building a metalcore rig on a budget, the Classic Forward 5B perfor
       { slug: 'matt-greiner', name: 'Matt Greiner', reason: 'Vic Firth Signature Series — August Burns Red\'s technical compositional ceiling' },
       { slug: 'ben-koller', name: 'Ben Koller', reason: 'Vic Firth American Classic 5B — Converge\'s relentless hardcore-rooted intensity' },
       { slug: 'alex-bent', name: 'Alex Bent', reason: 'Vic Firth American Classic 5B — precise technical metalcore drumming' },
-      { slug: 'nick-augusto', name: 'Nick Augusto', reason: 'Vic Firth American Classic 5B — dependable metalcore power and control' }
+      { slug: 'nick-augusto', name: 'Nick Augusto', reason: 'Pro-Mark Nylon Tip 5B — dependable metalcore power and control' }
     ],
 
     // FAQ section for SEO
@@ -89463,7 +89463,7 @@ For drummers building a metalcore rig on a budget, the Classic Forward 5B perfor
       },
       {
         question: "What drumsticks do Alex Bent and Nick Augusto use?",
-        answer: "Both Alex Bent and Nick Augusto play the standard Vic Firth American Classic 5B, valued for its dependable balance of power and control across technically demanding metalcore and progressive-adjacent material."
+        answer: "Alex Bent plays the standard Vic Firth American Classic 5B, valued for its dependable balance of power and control across technically demanding metalcore and progressive-adjacent material. Nick Augusto plays a Pro-Mark Nylon Tip 5B — the same trusted 5B diameter with a nylon tip for extra durability and a brighter cymbal attack."
       },
       {
         question: "Is a signature stick worth it for metalcore?",

@@ -18362,9 +18362,7 @@ For a doom metal drummer running a large, multi-tom, multi-cymbal setup, the rac
             includes: "Rack frame + tom/cymbal clamps",
             weight: "Medium"
           },
-          usedBy: [
-            { name: "Danny Carey", band: "Tool", note: "Rack-based support for an elaborate, oversized multi-piece kit" }
-          ],
+          usedBy: [],
           verdict: "Best for expansive doom metal kits running an oversized, multi-tom array.",
           rating: 4.6,
           affiliateLink: "https://www.thomann.de/intl/gibraltar_road_series_rack.htm?partner_id=metalforge"
@@ -19749,9 +19747,7 @@ The line's individual-stand format lets a post-metal drummer build out a wide, t
             includes: "Sold as individual stands or packs",
             weight: "Heavy"
           },
-          usedBy: [
-            { name: "Danny Carey", band: "Tool", note: "Tall boom stands and a wide cymbal spread for long-form atmospheric builds" }
-          ],
+          usedBy: [],
           verdict: "Precision hardware for post-metal's most expansive, dynamically flexible cymbal layouts.",
           rating: 4.6,
           affiliateLink: "https://www.thomann.de/intl/tama_titan_series_hardware.htm?partner_id=metalforge"

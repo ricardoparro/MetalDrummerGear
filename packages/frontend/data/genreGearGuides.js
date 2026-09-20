@@ -34430,8 +34430,6 @@ Start with an 18" in whatever alloy fits your budget, experiment with inverted m
       title: "Why Modern Metal Drummers Can't Skip In-Ear Monitors",
       content: `Modern metal has become inseparable from the click track. Programmed intros, synchronized backing vocals, triggered samples, and tight, machine-precise arrangements all depend on the drummer locking to a click that the audience never hears — and the only reliable way to hear that click on a loud stage is through a dedicated in-ear monitor system.
 
-Brann Dailor (Mastodon) runs a Roland SPD-SX sample pad through a full in-ear monitor system to keep click and samples perfectly synced during Mastodon's increasingly layered live sets. Mario Duplantier (Gojira) integrated a full in-ear monitor setup as Gojira's shows grew from clubs to arenas and stadiums, where wedge monitors simply can't deliver the click precision his tightly arranged parts require.
-
 This guide covers what actually matters when choosing an IEM system for drumming — wired vs wireless, universal vs custom-molded fit, and noise isolation — with specific product recommendations across every budget.`,
       keyPoints: [
         "IEMs are essential for click-track and backing-track synchronization in modern metal",
@@ -34497,9 +34495,7 @@ This guide covers what actually matters when choosing an IEM system for drumming
           priceRange: "€400-500",
           tier: "pro",
           driveType: "Wireless, Dynamic Driver",
-          description: `Shure's PSM 300 has become the industry-standard entry point into wireless personal monitoring, pairing a reliable stereo bodypack with the SE215's sculpted dynamic driver and sound-isolating sleeves. It's the system most touring bands reach for when a drummer needs freedom of movement without breaking the budget.
-
-The kind of full IEM system integration that touring metal drummers like Mario Duplantier (Gojira) rely on for click and sample-trigger precision on stages of every size — the PSM 300 delivers that same reliability at a widely accessible price.`,
+          description: `Shure's PSM 300 has become the industry-standard entry point into wireless personal monitoring, pairing a reliable stereo bodypack with the SE215's sculpted dynamic driver and sound-isolating sleeves. It's the system most touring bands reach for when a drummer needs freedom of movement without breaking the budget.`,
           pros: [
             "Reliable wireless freedom of movement",
             "37dB isolation with foam sleeves — excellent for loud stages",
@@ -34518,9 +34514,6 @@ The kind of full IEM system integration that touring metal drummers like Mario D
             connector: "MMCX Detachable",
             frequency: "20Hz-17.5kHz"
           },
-          usedBy: [
-            { name: "Mario Duplantier", band: "Gojira", note: "Full IEM integration for arena/stadium touring" }
-          ],
           verdict: "The proven, reliable entry point into professional wireless monitoring for touring drummers.",
           rating: 4.6,
           affiliateLink: "https://www.thomann.de/intl/shure_psm300_se215.htm?partner_id=metalforge"
@@ -34534,9 +34527,7 @@ The kind of full IEM system integration that touring metal drummers like Mario D
           priceRange: "€500-650",
           tier: "pro",
           driveType: "Wireless, In-Ear Earphones Included",
-          description: `Sennheiser's EW IEM G4 brings the reliability of their long-running wireless line to personal monitoring, with a stereo bodypack receiver and a robust RF design well-suited to busy festival environments with dozens of competing wireless systems.
-
-Drummers integrating full click-and-sample IEM setups — the same category of system Brann Dailor (Mastodon) relies on to sync his Roland SPD-SX sample triggers with a live click — benefit from the G4's stable RF performance on crowded stages.`,
+          description: `Sennheiser's EW IEM G4 brings the reliability of their long-running wireless line to personal monitoring, with a stereo bodypack receiver and a robust RF design well-suited to busy festival environments with dozens of competing wireless systems.`,
           pros: [
             "Excellent RF stability on crowded festival stages",
             "Stereo mix capability for a richer monitor blend",
@@ -34555,9 +34546,6 @@ Drummers integrating full click-and-sample IEM setups — the same category of s
             connector: "3.5mm / Detachable (with upgrade)",
             frequency: "25Hz-15kHz"
           },
-          usedBy: [
-            { name: "Brann Dailor", band: "Mastodon", note: "Roland SPD-SX + full IEM click integration" }
-          ],
           verdict: "The choice for drummers prioritizing RF reliability on large, crowded stages.",
           rating: 4.5,
           affiliateLink: "https://www.thomann.de/intl/sennheiser_ew_iem_g4.htm?partner_id=metalforge"
@@ -34723,7 +34711,7 @@ Overkill for a bedroom setup, but for a drummer touring arenas and stadiums wher
 **Wireless IEMs:**
 - Total freedom of movement — no cable to catch on a kit or riser
 - Requires RF frequency management on crowded festival stages
-- The standard for full production touring: the kind of setup Mario Duplantier (Gojira) relies on for arena and stadium shows
+- The standard for full production touring on large stages
 
 **The Truth:** Most developing and semi-pro drummers are well served by a quality wired IEM paired with a bodypack amp — it delivers the isolation and click clarity that matter most, at a fraction of the cost. Wireless becomes worth the investment once you're touring bigger stages where cable management becomes a genuine performance risk.
 
@@ -34771,8 +34759,6 @@ Overkill for a bedroom setup, but for a drummer touring arenas and stadiums wher
       'best-drum-thrones-for-metal'
     ],
     relatedDrummers: [
-      { slug: 'brann-dailor', name: 'Brann Dailor', reason: 'Roland SPD-SX + full IEM click integration' },
-      { slug: 'mario-duplantier', name: 'Mario Duplantier', reason: 'Full IEM setup for arena/stadium touring' },
       { slug: 'daray', name: 'Daray', reason: 'Trigger-assisted kit with in-ear monitoring for orchestra sync' }
     ],
     relatedComparisons: [],
@@ -34781,7 +34767,7 @@ Overkill for a bedroom setup, but for a drummer touring arenas and stadiums wher
     faq: [
       {
         question: "Why do metal drummers use in-ear monitors?",
-        answer: "Modern metal relies heavily on click tracks, programmed samples, and backing tracks that keep the band locked together — an in-ear monitor system is the only reliable way for a drummer to hear that click clearly over loud stage volume. Drummers like Brann Dailor (Mastodon) run full IEM systems specifically for this reason."
+        answer: "Modern metal relies heavily on click tracks, programmed samples, and backing tracks that keep the band locked together — an in-ear monitor system is the only reliable way for a drummer to hear that click clearly over loud stage volume."
       },
       {
         question: "Wired or wireless IEMs for drumming?",
@@ -34804,7 +34790,7 @@ Overkill for a bedroom setup, but for a drummer touring arenas and stadiums wher
     // Conclusion
     conclusion: {
       title: "Lock In and Hear Yourself Think",
-      content: `As modern metal leans further into click tracks, triggered samples, and tightly synchronized backing tracks, a reliable in-ear monitor system has gone from a luxury to a necessity. Brann Dailor and Mario Duplantier both rely on full IEM integration to keep their most technically demanding material locked in night after night.
+      content: `As modern metal leans further into click tracks, triggered samples, and tightly synchronized backing tracks, a reliable in-ear monitor system has gone from a luxury to a necessity.
 
 Start wired and budget-friendly with something like the Shure SE215, and upgrade to a wireless system like the Shure PSM 300 once cable management becomes a bigger hassle than the investment. Whatever you choose, prioritize isolation first — protecting your hearing matters as much as hearing the click.
 

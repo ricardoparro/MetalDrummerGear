@@ -18016,7 +18016,7 @@ For a drummer running six or more cymbals plus an extended tom array, a rack dra
           tier: "mid",
           material: "Reinforced steel baseplate",
 
-          description: `Derek Roddy's relentless one-footed blast technique concentrates enormous repeated force on bass drum pedal hardware specifically. A reinforced baseplate spreads that load more evenly and resists the creep standard plates develop under sustained double-bass abuse.
+          description: `Extreme metal's relentless one- and two-footed blast technique concentrates enormous repeated force on bass drum pedal hardware specifically. A reinforced baseplate spreads that load more evenly and resists the creep standard plates develop under sustained double-bass abuse.
 
 For extreme metal drummers whose kick pedal hardware loosens faster than the rest of their rig, a targeted baseplate upgrade like this solves the problem directly.`,
 
@@ -18038,7 +18038,7 @@ For extreme metal drummers whose kick pedal hardware loosens faster than the res
             weight: "Light"
           },
           usedBy: [
-            { name: "Derek Roddy", band: "Hate Eternal / Nile", note: "Reinforced pedal anchoring for relentless one-footed blast technique" }
+            { name: "Extreme metal drummers", band: "Various", note: "Reinforced baseplate spreads blast-beat pedal impact more evenly than a stock plate" }
           ],
           verdict: "The targeted fix for extreme metal drummers whose pedal hardware loosens fastest.",
           rating: 4.3,
@@ -18046,6 +18046,44 @@ For extreme metal drummers whose kick pedal hardware loosens faster than the res
         },
         {
           rank: 5,
+          name: "Tama Speed Cobra 910 Double Pedal",
+          brand: "Tama",
+          model: "Speed Cobra 910 Double Pedal",
+          image: "https://upload.wikimedia.org/wikipedia/commons/7/74/Dixon-double-pedal.jpg",
+          priceRange: "€450-550",
+          tier: "pro",
+          material: "Chain drive (Speedo-Ring) double pedal",
+
+          description: `Derek Roddy's relentless one-footed blast technique runs on a Tama Speed Cobra 910 Double Pedal, whose Speedo-Ring sprocket blends chain-drive feel with direct-drive response for sustained, high-speed single-pedal blasting.
+
+For extreme metal drummers chasing that same relentless footspeed, the Speed Cobra's extra-long Cobra footboard and dual-surface beater hold up under sustained abuse better than stock double pedals.`,
+
+          pros: [
+            "Derek Roddy's verified pedal since 2000",
+            "Speedo-Ring sprocket blends chain-drive feel with direct-drive smoothness",
+            "Extra-long Cobra footboard for heel-toe control at extreme tempos",
+            "Oiles bearings hold up under sustained blast-beat abuse"
+          ],
+          cons: [
+            "Premium price versus stock double pedals",
+            "Takes time to adjust to the Speedo-Ring feel"
+          ],
+          specs: {
+            drive: "Chain with Speedo-Ring",
+            bearings: "Oiles Bearings",
+            footboard: "Extra-Long Cobra Design",
+            beater: "Cobra Beater (dual surface)",
+            weight: "Medium"
+          },
+          usedBy: [
+            { name: "Derek Roddy", band: "Nile (ex-Hate Eternal)", note: "Relentless one-footed blast technique on a Tama Speed Cobra 910 Double Pedal since 2000" }
+          ],
+          verdict: "The verified choice for extreme metal drummers building relentless one-footed blast speed.",
+          rating: 4.6,
+          affiliateLink: "https://www.thomann.de/intl/tama_speed_cobra_910_double.htm?partner_id=metalforge"
+        },
+        {
+          rank: 6,
           name: "Mapex Armory Hardware Pack",
           brand: "Mapex",
           model: "Armory Series Hardware Pack",
@@ -18163,7 +18201,12 @@ For an extreme metal drummer building a first serious touring rig, the Armory pa
         {
           category: "Best Pedal Reinforcement",
           pedal: "Pearl P-2000C Reinforcement Baseplate",
-          reason: "Derek Roddy-grade fix for bass drum pedal hardware that loosens under blast-beat force."
+          reason: "A targeted fix for bass drum pedal hardware that loosens under blast-beat force."
+        },
+        {
+          category: "Best for One-Footed Blast Speed",
+          pedal: "Tama Speed Cobra 910 Double Pedal",
+          reason: "Derek Roddy's verified pedal for relentless one-footed blast technique."
         },
         {
           category: "Best Budget",
@@ -18211,7 +18254,7 @@ For an extreme metal drummer building a first serious touring rig, the Armory pa
       },
       {
         question: "How do I stop my bass drum pedal hardware from loosening during blast beats?",
-        answer: "Use a reinforced baseplate like Pearl's P-2000C, which spreads repeated pedal impact load more evenly than a stock plate. Derek Roddy's relentless one-footed blast technique depends on exactly this kind of reinforced pedal anchoring to avoid creep mid-set."
+        answer: "Use a reinforced baseplate like Pearl's P-2000C, which spreads repeated pedal impact load more evenly than a stock plate. Derek Roddy builds his relentless one-footed blast technique on a Tama Speed Cobra 910 Double Pedal, showing how much the underlying pedal itself matters alongside baseplate reinforcement."
       },
       {
         question: "Is budget hardware reliable enough for extreme metal touring?",

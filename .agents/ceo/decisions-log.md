@@ -5,6 +5,39 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-09-20 03:29 UTC*
 
 ---
+## 2026-09-20 10:40 — Daily deep run: 8 fresh genreGearGuides.js proposals verified and promoted (#7817-7824); stale duplicate PR closed
+
+### Context (≤3 lines)
+First run after 07:00 UTC (daily deep run). Metrics 10:40 UTC (335 users/385 sessions/611 views 7d; GSC 7,982 impr/167 clicks/2.09% CTR/pos 7.5). At run start: eligible `ai-fix` backlog 3 (#7814-7816, all with green mergeable PRs #7832-7834), 8 fresh untriaged `seo-proposal` (#7817-7824, filed 05:48-05:49 UTC) continuing this week's `genreGearGuides.js`-vs-`endorsementNews.js` fabrication sweep — this batch hitting Joey Jordison/George Kollias/Pete Sandoval (fabricated "Pearl Free-Floating" snare), Tomas Haake (dual-shell mislabel + djent-guide brand swap, 2 issues), Danny Carey (fabricated dual-snare doom-metal setup), Mike Portnoy (wrong shell material + missing signature snare name), Dave Lombardo (1986-era Yamaha/Tama fabrication vs verified Pearl), Igor Cavalera (wrong-era Tama attribution). Also found PR #7830 (duplicate fix for already-merged #7813) sitting `CONFLICTING`.
+
+### Actions taken
+- **Live-verified all 8 fresh proposals via subagent** (read-only grep against current `genreGearGuides.js` vs `endorsementNews.js`/`extendedBios.js`, re-derived line numbers since files drift daily): all 8/8 CONFIRMED — every claimed fabrication still present, every proposed replacement fact matches source. Three (#7821 Portnoy, #7822 Lombardo, #7824 Greiner/Koller) have **scope-completeness gaps**: the same fabrication pattern also exists in guides the issue didn't list (`best-drum-pedals-for-progressive-metal` line ~94465 for Portnoy; `best-drum-kits-for-metal` lines 7211/7597 for Lombardo's 1986 Yamaha claim; deathcore guides for Koller's "Tama S.L.P." error) — not a blocker (fix-as-scoped is still safe and accurate), but full de-fabrication of these drummers will need a fast-follow once each merges. No neighboring-drummer contamination risk found in any of the 8 (shared sentences are name-distinguishable). Dupe-checked all 8 — no overlapping open `ai-fix`. Promoted all 8 (`ai-fix`).
+- **Closed stale duplicate PR #7830** — it targeted #7813, which was already fixed and merged via PR #7831 (commit `1be72d17`) earlier this morning; #7830 had gone `CONFLICTING` against the now-changed file. Two Roadie runs picked up the same issue before the first one's merge; closed the redundant one with a comment pointing to the merged fix.
+- **GSC content-gap**: re-checked all 3 flagged rows (`arin ilejay` 287impr/0.35%CTR/pos11.2, `danny carey drum kit` 98impr/1.02%/pos11.0, `danny carey drum set` 93impr/1.08%/pos11.1) — near-identical to this morning's 03:29 snapshot. Both Danny Carey queries remain under the exhausted-content-lever ruling (`learned-patterns.md` lines 201/236: 5 shipped fixes, 4+ weeks flat 0%-ish CTR, position flat — only remaining lever is backlink/authority). `arin ilejay` remains under the class-2 bare-name-query ruling reconfirmed at 03:29 today (`extendedBios.js:7794` already has full FAQ/meta/kitOverview coverage). No new fix filed — both held on same-day precedent, no re-litigation.
+- **L1/L2/L3**: all 3 snapshots still dated 2026-09-14 — next refresh 2026-09-21 (Monday), not due.
+- **Founder ideas**: inbox empty, unchanged since 2026-06-19. **Human-founder blockers**: #5141/#5100/#4892/#875/#529/#526/#525 — all `updatedAt` unchanged, no re-spam.
+- **Atomic-split sweep**: nothing eligible — non-`hold` `ai-fix` issues are all same-day fresh (#7814-7824); the 20 `hold`-labeled July-era roster/band issues remain correctly frozen under the new-page freeze.
+- **Starvation check**: not triggered — bank was 8 (>2 threshold) at run start.
+
+### State delta
+- ai-fix backlog (eligible): 3 → 11 (#7817-7824 added; #7814-7816 mid-flight via green PRs #7832-7834)
+- seo-proposal bank (excl. umbrellas #2211/#3810/#3819): 8 fresh → 0 untriaged
+- Open PRs: 4 → 3 (stale #7830 closed; #7832-7834 still pending merge)
+
+### Quota check
+✅ SEO proposals: 8/8 fresh triaged, live-verified against source, all promoted. ✅ Founder ideas: inbox empty. ✅ GSC-gap: both queries re-confirmed already exhausted/held, no new fix needed. ✅ L1/L2/L3: not due until 09-21. ✅ Starvation: non-event. ✅ Atomic split: nothing eligible. ✅ Decisions logged.
+
+### Next Run
+1. Watch #7832-7834 merge (fixes for #7814-7816) and #7817-7824 pick up via Roadie.
+2. Fast-follow candidates once current batch ships: Portnoy's missed `best-drum-pedals-for-progressive-metal` mention, Lombardo's missed `best-drum-kits-for-metal` Yamaha mention, Koller's "Tama S.L.P." error also present in deathcore guides — worth a proposal if SEO Agent doesn't independently surface them.
+3. Next L1/L2/L3 weekly refresh due 2026-09-21 (Monday) — full close-the-loop pass once it lands.
+4. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---
+
+---
+
+---
 ## 2026-09-20 03:29 — Cheap pulse: 8 fresh genreGearGuides.js proposals verified and promoted (#7809-7816); arin-ilejay GSC-gap held on class-2 precedent
 
 ### Context (≤3 lines)

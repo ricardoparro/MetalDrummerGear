@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-09-20 05:32 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-09-20 10:40 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,46 +8,46 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 327 |
-| Sessions | 374 |
-| Page views | 585 |
-| Engagement rate | 55.35% |
-| Avg session (s) | 126 |
+| Active users | 335 |
+| Sessions | 385 |
+| Page views | 611 |
+| Engagement rate | 62.86% |
+| Avg session (s) | 124 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
 | / | 32 | 14 |
 | /techniques | 22 | 1 |
-| /drummer/frost | 19 | 2 |
-| /drummers | 17 | 5 |
-| /drummer/joey-jordison | 16 | 11 |
+| /drummer/frost | 20 | 2 |
+| /drummer/joey-jordison | 18 | 11 |
+| /drummers | 18 | 5 |
 | /drummer/mario-duplantier | 11 | 9 |
-| /drummer/danny-carey | 10 | 9 |
-| /drummer/bill-ward | 8 | 6 |
-| /drummer/abe-cunningham | 7 | 1 |
-| /drummer/eloy-casagrande | 7 | 6 |
+| /drummer/danny-carey | 10 | 10 |
+| /drummer/bill-ward | 9 | 7 |
+| /drummer/eloy-casagrande | 9 | 7 |
+| /drummer/abe-cunningham | 8 | 1 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 263 | 220 |
-| Direct | 80 | 78 |
-| Unassigned | 48 | 44 |
-| Cross-network | 19 | 19 |
+| Organic Search | 297 | 251 |
+| Direct | 81 | 79 |
+| Unassigned | 19 | 18 |
 | AI Assistant | 1 | 1 |
+| Cross-network | 1 | 1 |
 | Referral | 1 | 1 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 132 | 111 |
+| United States | 136 | 115 |
 | Singapore | 36 | 36 |
-| United Kingdom | 24 | 14 |
+| United Kingdom | 26 | 14 |
+| Germany | 17 | 15 |
+| Canada | 16 | 14 |
 | China | 16 | 16 |
-| Canada | 15 | 14 |
-| Germany | 15 | 13 |
-| France | 13 | 13 |
+| France | 15 | 15 |
 | Finland | 11 | 10 |
 | Australia | 10 | 10 |
 | Brazil | 10 | 9 |

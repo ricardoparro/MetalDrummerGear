@@ -7208,7 +7208,7 @@ Technique matters more than gear in black metal. The genre's most influential re
       title: "The Thrash Drum Kit: Power, Projection, and Precision",
       content: `Thrash metal drumming demands a kit that combines projection, durability, and tonal clarity. Unlike jazz or even classic rock, thrash places specific demands: the kick drum must cut through dense, downtuned guitar at 180+ BPM, the snare must crack with authority at any volume, and toms must project clearly during complex fill sequences played at high speed.
 
-Lars Ulrich's Tama Starclassic Maple kit has been his primary setup through Metallica's peak years — the maple shells, tuned tight with the right heads, providing the punchy attack that drives "Master of Puppets" and "...And Justice for All." Dave Lombardo's various Yamaha and DW setups gave Slayer the aggressive, precise kick drum attack that made "Reign in Blood" a benchmark. For players who want a boutique, hand-crafted option, DW's Collector's Series is a premium step up prized across professional metal drumming for its build quality and tuning stability.
+Lars Ulrich's Tama Starclassic Maple kit has been his primary setup through Metallica's peak years — the maple shells, tuned tight with the right heads, providing the punchy attack that drives "Master of Puppets" and "...And Justice for All." Dave Lombardo's Pearl kit gave Slayer the aggressive, precise kick drum attack that made "Reign in Blood" a benchmark. For players who want a boutique, hand-crafted option, DW's Collector's Series is a premium step up prized across professional metal drumming for its build quality and tuning stability.
 
 This guide covers what actually makes a drum kit work for thrash metal, which specific models the legends use, and how to build your own thrash setup across any budget.`,
       keyPoints: [
@@ -7594,7 +7594,7 @@ More importantly, the Export's robust construction handles aggressive thrash pla
       },
       {
         question: "What drum kit does Dave Lombardo use?",
-        answer: "Dave Lombardo has used various Tama and Yamaha setups across his career with Slayer, including his current Tama Starclassic Walnut/Birch kit. That aggressive, precise kick drum attack helped define Slayer's sound on records like 'Reign in Blood.' His current setup pairs Tama drums with Paiste RUDE cymbals and his signature ProMark 2Bx sticks."
+        answer: "Dave Lombardo played Pearl kits through Slayer's classic era, including 'Reign in Blood,' before later switching to his current Tama Starclassic Walnut/Birch kit. That aggressive, precise kick drum attack helped define Slayer's sound on records like 'Reign in Blood.' His current setup pairs Tama drums with Paiste RUDE cymbals and his signature ProMark 2Bx sticks."
       },
       {
         question: "Are birch or maple drums better for thrash metal?",

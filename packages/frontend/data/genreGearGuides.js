@@ -59956,7 +59956,7 @@ Start where your budget allows — even a Pearl Export configured with an extend
     // SEO metadata
     title: "Best Snare Drums for Groove Metal: 2026 Ultimate Guide",
     metaTitle: "Best Snare Drums for Groove Metal 2026 | MetalForge Expert Guide",
-    description: "Best snare drums for groove metal drumming: what Vinnie Paul (Tama steel), Shannon Larkin (Pearl Reference Brass), and Igor Cavalera (Tama S.L.P. G-Maple) actually play. Steel vs brass vs maple — ranked budget to pro.",
+    description: "Best snare drums for groove metal drumming: what Vinnie Paul (Tama steel), Shannon Larkin (Pearl Reference Brass), and Igor Cavalera (Pearl Masters Custom maple) actually play. Steel vs brass vs maple — ranked budget to pro.",
     seoKeywords: [
       'best snare drums for groove metal',
       'groove metal snare drum',
@@ -59991,7 +59991,7 @@ Start where your budget allows — even a Pearl Export configured with an extend
       title: "Why Groove Metal Needs a Snare That Hits Like a Sledgehammer",
       content: `Groove metal isn't chasing blast beat speed — it's built on mid-tempo, riff-locked power, which means the snare has to deliver maximum crack and body on every single backbeat rather than surviving hundreds of rapid strokes per minute. Where black or death metal snares are tuned for endurance under extreme tempo, groove metal snares are tuned for weight: every hit has to land like a sledgehammer against down-tuned, syncopated riffs.
 
-Vinnie Paul built the genre's template on a deep steel Tama snare during his 1990-1996 tenure with the brand, engineered for maximum projection and crack to cut through Pantera's wall of distorted guitars on "Cowboys from Hell" and "Vulgar Display of Power." Shannon Larkin of Godsmack splits the difference with a 14x6.5" Pearl Reference Brass snare, delivering a powerful, cutting attack across two decades of multi-platinum groove-driven hard rock. Igor Cavalera of Sepultura and Cavalera Conspiracy anchors his kit with a Tama S.L.P. 14x6.5" G-Maple snare, supplying the punishing crack behind "Roots Bloody Roots" and Sepultura's tribal groove metal evolution.
+Vinnie Paul built the genre's template on a deep steel Tama snare during his 1990-1996 tenure with the brand, engineered for maximum projection and crack to cut through Pantera's wall of distorted guitars on "Cowboys from Hell" and "Vulgar Display of Power." Shannon Larkin of Godsmack splits the difference with a 14x6.5" Pearl Reference Brass snare, delivering a powerful, cutting attack across two decades of multi-platinum groove-driven hard rock. Igor Cavalera of Sepultura anchors his kit with a Pearl Masters Custom maple snare from his 1993-1996 tenure with the brand, supplying the punishing crack behind "Refuse/Resist" and "Roots Bloody Roots" during Sepultura's tribal groove metal evolution.
 
 This guide breaks down steel, brass, and maple snare options for groove metal — comparing shell depth, material, and tuning approach across three of the genre's most influential drummers, with recommendations from budget to professional touring rigs.`,
       keyPoints: [
@@ -60014,7 +60014,7 @@ This guide breaks down steel, brass, and maple snare options for groove metal �
         {
           name: "Shell Material",
           icon: "⚙️",
-          description: "Steel (Tama — Vinnie Paul) delivers the brightest, most cutting attack. Brass (Pearl Reference — Shannon Larkin) adds warmth and thunderous low-mid body. Maple (Tama S.L.P. — Igor Cavalera) gives a drier, more controlled crack that still projects through down-tuned riffs.",
+          description: "Steel (Tama — Vinnie Paul) delivers the brightest, most cutting attack. Brass (Pearl Reference — Shannon Larkin) adds warmth and thunderous low-mid body. Maple (Pearl Masters Custom — Igor Cavalera) gives a drier, more controlled crack that still projects through down-tuned riffs.",
           recommendation: "Steel for maximum brightness and cut; brass for warm thunderous attack; maple for dry, controlled punch"
         },
         {
@@ -60126,43 +60126,39 @@ Pearl's Reference Series SST (Superior Shell Technology) construction maximizes 
         },
         {
           rank: 3,
-          name: "Tama S.L.P. G-Maple",
-          brand: "Tama",
-          model: "S.L.P. G-Maple 14x6.5\"",
+          name: "Pearl Masters Custom",
+          brand: "Pearl",
+          model: "Masters Custom (1993-1996 era)",
           image: "https://upload.wikimedia.org/wikipedia/commons/a/ac/Drums_01.jpg",
           priceRange: "€300-420",
           tier: "mid-pro",
-          material: "Maple (14x6.5\")",
+          material: "Maple",
 
-          description: `Igor Cavalera of Sepultura and Cavalera Conspiracy plays a Tama S.L.P. 14x6.5" G-Maple snare, delivering the punishing crack that drives groove metal riffs on "Refuse/Resist" and the tribal groove-metal anthem "Roots Bloody Roots." The G-Maple shell gives a warm, resonant tone that still holds its own against Sepultura's tribal percussion arrangements and heavy, down-tuned riffing.
+          description: `Igor Cavalera of Sepultura played a Pearl Masters Custom maple snare during his 1993-1996 tenure with the brand, delivering the punishing crack that drives groove metal riffs on "Refuse/Resist" and the tribal groove-metal anthem "Roots Bloody Roots." The maple shell gave a warm, resonant tone that still held its own against Sepultura's tribal percussion arrangements and heavy, down-tuned riffing.
 
 Maple's naturally warm character makes this a strong choice for groove metal drummers whose material blends traditional groove with more melodic or percussive elements — proof that groove metal's snare needs stretch well beyond straightforward steel-and-brass brightness.`,
 
           pros: [
-            "Igor Cavalera's Sepultura/Cavalera Conspiracy setup — foundational to groove metal's tribal-influenced wing",
+            "Igor Cavalera's Sepultura setup on 'Chaos A.D.' and 'Roots' — foundational to groove metal's tribal-influenced wing",
             "Warm, resonant maple tone that blends well with layered percussion",
-            "6.5\" depth balances body and articulation",
-            "Tama S.L.P. custom shell options for tonal refinement",
-            "Proven across three decades of genre-defining recordings"
+            "Maple shell balances body and articulation",
+            "Proven across two of groove metal's genre-defining recordings"
           ],
           cons: [
             "Less aggressive brightness than steel alternatives",
             "Maple's warmth can get buried in extremely dense, heavily distorted mixes",
-            "Fewer signature-specific hardware options than major artist snares"
+            "Pearl Masters Custom era predates Cavalera's later Tama and Yamaha setups, so exact specs are less documented"
           ],
           specs: {
-            shell: "Maple (S.L.P. custom)",
+            shell: "Maple",
             diameter: "14\"",
-            depth: "6.5\"",
-            throwOff: "Tama MTS100",
             wires: "20-strand"
           },
           usedBy: [
-            { name: "Igor Cavalera", band: "Sepultura / Cavalera Conspiracy", note: "14x6.5\" Tama S.L.P. G-Maple — tribal groove metal precision" }
+            { name: "Igor Cavalera", band: "Sepultura", note: "Pearl Masters Custom maple (1993-1996) — tribal groove metal precision" }
           ],
           verdict: "Best for groove metal with a melodic or percussive edge. Warm maple tone that still hits hard.",
-          rating: 4.4,
-          affiliateLink: "https://www.thomann.de/intl/tama_slp_g_maple_snare.htm?partner_id=metalforge"
+          rating: 4.4
         }
       ]
     },
@@ -60259,14 +60255,14 @@ Maple's naturally warm character makes this a strong choice for groove metal dru
     relatedDrummers: [
       { slug: 'vinnie-paul', name: 'Vinnie Paul', reason: 'Tama steel snare (1990-1996) — foundational groove metal crack' },
       { slug: 'shannon-larkin', name: 'Shannon Larkin', reason: 'Pearl Reference Brass — Godsmack groove-driven power' },
-      { slug: 'igor-cavalera', name: 'Igor Cavalera', reason: 'Tama S.L.P. G-Maple — Sepultura tribal groove metal' }
+      { slug: 'igor-cavalera', name: 'Igor Cavalera', reason: 'Pearl Masters Custom (1993-1996) — Sepultura tribal groove metal' }
     ],
 
     // Featured drummers (issue template)
     featuredDrummers: [
       { slug: 'vinnie-paul', name: 'Vinnie Paul', reason: 'Tama steel snare (1990-1996) — foundational groove metal crack' },
       { slug: 'shannon-larkin', name: 'Shannon Larkin', reason: 'Pearl Reference Brass — Godsmack groove-driven power' },
-      { slug: 'igor-cavalera', name: 'Igor Cavalera', reason: 'Tama S.L.P. G-Maple — Sepultura tribal groove metal' }
+      { slug: 'igor-cavalera', name: 'Igor Cavalera', reason: 'Pearl Masters Custom (1993-1996) — Sepultura tribal groove metal' }
     ],
 
     // FAQ section for SEO
@@ -60281,11 +60277,11 @@ Maple's naturally warm character makes this a strong choice for groove metal dru
       },
       {
         question: "What depth snare is best for groove metal?",
-        answer: "It depends on your style. Vinnie Paul's unusually deep 8\" shell maximizes body and projection for slow, heavy grooves. A middle-ground 6.5\" depth, used by both Shannon Larkin and Igor Cavalera, balances body and speed for drummers who need both."
+        answer: "It depends on your style. Vinnie Paul's unusually deep 8\" shell maximizes body and projection for slow, heavy grooves. A middle-ground 6.5\" depth, like Shannon Larkin's Pearl Reference Brass, balances body and speed for drummers who need both."
       },
       {
         question: "Do I need a signature snare to play groove metal?",
-        answer: "No — a Pearl Export steel snare or Mapex Storm Series maple snare will teach real groove metal technique at a fraction of the price of the genre's signature models. Upgrade to a ddrum, Mapex, Pearl Reference, or Tama S.L.P. signature snare once your technique and budget allow."
+        answer: "No — a Pearl Export steel snare or Mapex Storm Series maple snare will teach real groove metal technique at a fraction of the price of the genre's signature models. Upgrade to a ddrum, Mapex, Pearl Reference, or Pearl Masters Custom-style snare once your technique and budget allow."
       }
     ],
 
@@ -65210,7 +65206,7 @@ Budget shouldn't stop you either. A Pearl Export or Tama Imperialstar snare will
     // SEO metadata
     title: "Best Snare Drums for Sludge Metal: 2026 Ultimate Guide",
     metaTitle: "Best Snare Drums for Sludge Metal 2026 | MetalForge Expert Guide",
-    description: "Best snare drums for sludge metal drumming: what Brann Dailor (Tama Starclassic Performer B/B), Igor Cavalera (Tama S.L.P.), and Mario Duplantier (Tama S.L.P. G-Maple) actually play. Thick, damp, low-tuned tone for sludge's crushing, riff-driven grooves — ranked budget to pro.",
+    description: "Best snare drums for sludge metal drumming: what Brann Dailor (Tama Starclassic Performer B/B), Igor Cavalera (Yamaha Absolute Hybrid Maple), and Mario Duplantier (Tama S.L.P. G-Maple) actually play. Thick, damp, low-tuned tone for sludge's crushing, riff-driven grooves — ranked budget to pro.",
     seoKeywords: [
       'best snare drums for sludge metal',
       'sludge metal snare drum',
@@ -65236,7 +65232,7 @@ Budget shouldn't stop you either. A Pearl Export or Tama Imperialstar snare will
       subtitle: "What Brann Dailor, Igor Cavalera, Shannon Larkin, and Mario Duplantier Actually Play",
       badge: "GEAR GUIDE 2026",
       stats: [
-        { value: '3', label: 'Snares Reviewed' },
+        { value: '4', label: 'Snares Reviewed' },
         { value: '7 min', label: 'Read Time' },
         { value: '2026', label: 'Updated' }
       ]
@@ -65247,7 +65243,7 @@ Budget shouldn't stop you either. A Pearl Export or Tama Imperialstar snare will
       title: "Why Sludge Metal Needs a Thick, Damp, Low-Tuned Snare",
       content: `Sludge metal grew out of the 1980s New Orleans scene by fusing doom metal's down-tuned, riff-locked weight with hardcore punk's raw aggression — and that fusion demands a snare voice that's fundamentally different from thrash or death metal's bright, cutting crack. Where speed-driven subgenres need a snare that punches through fast picking, sludge's slow, crushing grooves reward a thick, damp, low-tuned snare that adds tonnage rather than cut, punctuated by sudden bursts of hardcore-derived speed.
 
-Brann Dailor of Mastodon — the genre's most direct working analogue currently profiled at MetalForge, having built the band's early catalog on "Remission" (2002) and "Leviathan" (2004) — doesn't have a separately documented signature snare, but his verified Tama Starclassic Performer B/B kit's matching birch/bubinga snare anchors Mastodon's crushing, down-tuned sludge riffs with warm, musical resonance. Igor Cavalera of Sepultura and Mario Duplantier of Gojira both bring down-tuned heaviness on a shared Tama S.L.P. G-Maple snare that parallels sludge's own tonnage-first foundation from two entirely different lineages — tribal groove metal and technical death metal. Shannon Larkin of Godsmack plays a Ddrum Shannon Larkin Signature 14"x6.5" snare built for the slow-building, riff-locked grooves that carry sludge's patient heaviness into mainstream hard rock.
+Brann Dailor of Mastodon — the genre's most direct working analogue currently profiled at MetalForge, having built the band's early catalog on "Remission" (2002) and "Leviathan" (2004) — doesn't have a separately documented signature snare, but his verified Tama Starclassic Performer B/B kit's matching birch/bubinga snare anchors Mastodon's crushing, down-tuned sludge riffs with warm, musical resonance. Igor Cavalera of Cavalera Conspiracy plays a Yamaha Absolute Hybrid Maple snare (his verified gear since 2018), bringing down-tuned heaviness rooted in his tribal groove metal lineage. Mario Duplantier of Gojira brings a parallel down-tuned weight on a Tama S.L.P. G-Maple snare from technical death metal's own lineage — both parallel sludge's own tonnage-first foundation from entirely different corners of metal. Shannon Larkin of Godsmack plays a Ddrum Shannon Larkin Signature 14"x6.5" snare built for the slow-building, riff-locked grooves that carry sludge's patient heaviness into mainstream hard rock.
 
 This guide breaks down shell depth, material, and tuning for sludge metal snares — comparing thick, damp tone across four drummers whose lineages share sludge's foundational commitment to weight and riff-driven aggression, with recommendations from budget to professional touring rigs.`,
       keyPoints: [
@@ -65265,13 +65261,13 @@ This guide breaks down shell depth, material, and tuning for sludge metal snares
         {
           name: "Deep Shell for Thick Body",
           icon: "📏",
-          description: "Igor Cavalera's and Mario Duplantier's shared Tama S.L.P. G-Maple sits at 14\"x6.5\" — deep enough to add real body and sustain to sludge's slow, riff-locked grooves without the extreme depth that would sacrifice articulation entirely.",
+          description: "Mario Duplantier's Tama S.L.P. G-Maple sits at 14\"x6.5\" — deep enough to add real body and sustain to sludge's slow, riff-locked grooves without the extreme depth that would sacrifice articulation entirely.",
           recommendation: "14\"x6.5\" for the sludge standard balance of body and control"
         },
         {
           name: "Warm, Resonant Shell Material",
           icon: "🪵",
-          description: "Maple is the dominant choice across sludge metal's closest lineages — Brann Dailor's Tama Starclassic Performer B/B and the shared Tama S.L.P. G-Maple that both Igor Cavalera and Mario Duplantier play all favor warm, musical hybrid tone over the bright steel that faster subgenres prefer.",
+          description: "Maple is the dominant choice across sludge metal's closest lineages — Brann Dailor's Tama Starclassic Performer B/B, Mario Duplantier's Tama S.L.P. G-Maple, and Igor Cavalera's Yamaha Absolute Hybrid Maple all favor warm, musical hybrid tone over the bright steel that faster subgenres prefer.",
           recommendation: "Maple shell for the warm, weighted tone sludge's slow grooves reward"
         },
         {
@@ -65355,15 +65351,14 @@ As the genre's most direct working analogue currently profiled at MetalForge, Da
           tier: "pro",
           material: "Maple (14x6.5\")",
 
-          description: `Igor Cavalera's and Mario Duplantier's shared Tama S.L.P. G-Maple snare carries down-tuned heaviness from two entirely different lineages — Cavalera's tribal, Brazilian-rooted groove metal with Sepultura, and Duplantier's technical death metal with Gojira. Both prove a warm-toned maple snare can project clearly against heavily down-tuned, riff-locked guitar work common to sludge and its stoner-doom relatives.
+          description: `Mario Duplantier of Gojira plays a Tama S.L.P. G-Maple snare, bringing down-tuned heaviness from technical death metal's own lineage with Gojira that parallels sludge's tonnage-first foundation. A warm-toned maple snare that still projects clearly against heavily down-tuned, riff-locked guitar work common to sludge and its stoner-doom relatives.
 
 The G-Maple shell delivers a grinding, resonant low-end that suits sludge's tonnage-first, repetition-driven songwriting, whether the riff is crawling or suddenly bursting into hardcore-derived speed.`,
 
           pros: [
-            "Igor Cavalera's Sepultura and Mario Duplantier's Gojira setups both run this shell — proven across two distinct down-tuned lineages",
+            "Mario Duplantier's Gojira setup — proven across technical death metal's most influential heavy recordings",
             "Grinding, resonant maple tone suited to heavily down-tuned riffing",
             "6.5\" depth adds real body for slow, riff-locked grooves",
-            "Proven across Sepultura's and Gojira's most influential heavy recordings",
             "More accessible pricing than fully custom signature snares"
           ],
           cons: [
@@ -65379,15 +65374,46 @@ The G-Maple shell delivers a grinding, resonant low-end that suits sludge's tonn
             wires: "20-strand"
           },
           usedBy: [
-            { name: "Igor Cavalera", band: "Sepultura", note: "14x6.5\" Tama S.L.P. G-Maple — tribal, down-tuned sludge-adjacent weight" },
             { name: "Mario Duplantier", band: "Gojira", note: "14x6.5\" Tama S.L.P. G-Maple — technical death metal's down-tuned, sludge-adjacent weight" }
           ],
-          verdict: "Best for a grinding, down-tuned take on sludge weight. Cavalera's and Duplantier's setups reach the same crushing destination from two different lineages.",
+          verdict: "Best for a grinding, down-tuned technical-death-metal take on sludge weight.",
           rating: 4.6,
           affiliateLink: "https://www.thomann.de/intl/tama_slp_g_maple_snare.htm?partner_id=metalforge"
         },
         {
           rank: 3,
+          name: "Yamaha Absolute Hybrid Maple",
+          brand: "Yamaha",
+          model: "Absolute Hybrid Maple",
+          image: "https://upload.wikimedia.org/wikipedia/commons/a/ac/Drums_01.jpg",
+          priceRange: "€400-550",
+          tier: "pro",
+          material: "Maple",
+
+          description: `Igor Cavalera of Cavalera Conspiracy has played a Yamaha Absolute Hybrid Maple snare since 2018, bringing down-tuned heaviness rooted in his tribal, Brazilian-rooted groove metal lineage that parallels sludge's own tonnage-first foundation. The hybrid maple shell gives a warm, resonant low-end suited to heavily down-tuned, riff-locked material.`,
+
+          pros: [
+            "Igor Cavalera's current, verified setup since 2018",
+            "Warm, resonant maple tone suited to heavily down-tuned riffing",
+            "Proven across decades of Cavalera's tribal groove metal lineage"
+          ],
+          cons: [
+            "Less widely documented sludge-specific tuning guidance than Dailor's setup",
+            "Fewer signature-specific hardware options than boutique models"
+          ],
+          specs: {
+            shell: "Maple (Absolute Hybrid Maple)",
+            diameter: "14\"",
+            wires: "20-strand"
+          },
+          usedBy: [
+            { name: "Igor Cavalera", band: "Cavalera Conspiracy", note: "Yamaha Absolute Hybrid Maple (since 2018) — tribal, down-tuned sludge-adjacent weight" }
+          ],
+          verdict: "Best for a warm, down-tuned tribal groove-metal take on sludge weight.",
+          rating: 4.4
+        },
+        {
+          rank: 4,
           name: "Ddrum Shannon Larkin Signature",
           brand: "Ddrum",
           model: "Shannon Larkin Signature 14\"x6.5\"",
@@ -65468,19 +65494,24 @@ Designed for durability and powerful projection, this signature snare handles th
     // Comparison
     comparison: {
       title: "Tama Starclassic Performer B/B vs Tama S.L.P. G-Maple for Sludge Metal",
-      content: `Shell depth stays consistent across sludge metal's closest working lineage, but material and hardware choices split these drummers into distinct camps. Here's how they compare:
+      content: `Shell depth stays fairly consistent across sludge metal's closest working lineage, but material, brand, and hardware choices split these drummers into distinct camps. Here's how they compare:
 
 **Tama Starclassic Performer B/B (Brann Dailor):**
 - Warm, musical resonance that anchors down-tuned riffing
 - The genre's most direct working analogue currently profiled
 - Best for straightforward, riff-locked sludge and progressive-sludge hybrids
 
-**Tama S.L.P. G-Maple (Igor Cavalera, Mario Duplantier):**
-- Grinding, resonant tone shared across two entirely different lineages — tribal groove metal and technical death metal
+**Tama S.L.P. G-Maple (Mario Duplantier):**
+- Grinding, resonant maple tone from technical death metal's own lineage
 - More accessible pricing than fully custom signature snares
-- Best for down-tuned, groove-first or technically ambitious sludge-adjacent material
+- Best for down-tuned, technically ambitious sludge-adjacent material
 
-**Our Recommendation:** Start with a Pearl Export or Ludwig Acrolite if you're building sludge technique on a budget. Choose the Tama S.L.P. G-Maple if you want a grinding, down-tuned tone proven across two distinct lineages. Go with the Tama Starclassic Performer B/B if your priority is the genre's most direct, working-analogue crushing crack.`,
+**Yamaha Absolute Hybrid Maple (Igor Cavalera):**
+- Warm, resonant maple tone from tribal groove metal's own lineage
+- Igor Cavalera's current, verified setup since 2018
+- Best for down-tuned, groove-first sludge-adjacent material
+
+**Our Recommendation:** Start with a Pearl Export or Ludwig Acrolite if you're building sludge technique on a budget. Choose the Tama S.L.P. G-Maple or Yamaha Absolute Hybrid Maple if you want a grinding, down-tuned tone from technical death metal's or tribal groove metal's own lineage. Go with the Tama Starclassic Performer B/B if your priority is the genre's most direct, working-analogue crushing crack.`,
       comparisonTable: [
         { feature: "Warmth", maple: "⭐⭐⭐⭐⭐", hybrid: "⭐⭐⭐⭐", dual: "⭐⭐⭐⭐" },
         { feature: "Low-End Weight", maple: "⭐⭐⭐⭐", hybrid: "⭐⭐⭐⭐", dual: "⭐⭐⭐⭐⭐" },
@@ -65499,9 +65530,14 @@ Designed for durability and powerful projection, this signature snare handles th
           reason: "Brann Dailor's Mastodon setup — sludge metal's most direct working analogue currently profiled at MetalForge."
         },
         {
-          category: "Best Grinding, Down-Tuned Alternative",
+          category: "Best Down-Tuned Technical Alternative",
           pedal: "Tama S.L.P. G-Maple",
-          reason: "Igor Cavalera's Sepultura and Mario Duplantier's Gojira setups — a grinding, down-tuned choice proven across two distinct lineages."
+          reason: "Mario Duplantier's Gojira setup — a grinding, down-tuned choice from technical death metal's own lineage."
+        },
+        {
+          category: "Best Tribal Groove-Metal Alternative",
+          pedal: "Yamaha Absolute Hybrid Maple",
+          reason: "Igor Cavalera's current Cavalera Conspiracy setup — a warm, down-tuned choice from tribal groove metal's own lineage."
         },
         {
           category: "Best Budget",
@@ -65519,7 +65555,7 @@ Designed for durability and powerful projection, this signature snare handles th
     ],
     relatedDrummers: [
       { slug: 'brann-dailor', name: 'Brann Dailor', reason: 'Tama Starclassic Performer B/B — Mastodon sludge metal\'s most direct working analogue' },
-      { slug: 'igor-cavalera', name: 'Igor Cavalera', reason: 'Tama S.L.P. G-Maple — Sepultura tribal, down-tuned sludge-adjacent weight' },
+      { slug: 'igor-cavalera', name: 'Igor Cavalera', reason: 'Yamaha Absolute Hybrid Maple — Cavalera Conspiracy tribal, down-tuned sludge-adjacent weight' },
       { slug: 'shannon-larkin', name: 'Shannon Larkin', reason: 'Ddrum Signature — Godsmack sludge-influenced hard rock weight' },
       { slug: 'mario-duplantier', name: 'Mario Duplantier', reason: 'Tama S.L.P. G-Maple — Gojira technical death metal, down-tuned weight' }
     ],
@@ -65527,7 +65563,7 @@ Designed for durability and powerful projection, this signature snare handles th
     // Featured drummers (issue template)
     featuredDrummers: [
       { slug: 'brann-dailor', name: 'Brann Dailor', reason: 'Tama Starclassic Performer B/B — Mastodon sludge metal\'s most direct working analogue' },
-      { slug: 'igor-cavalera', name: 'Igor Cavalera', reason: 'Tama S.L.P. G-Maple — Sepultura tribal, down-tuned sludge-adjacent weight' },
+      { slug: 'igor-cavalera', name: 'Igor Cavalera', reason: 'Yamaha Absolute Hybrid Maple — Cavalera Conspiracy tribal, down-tuned sludge-adjacent weight' },
       { slug: 'shannon-larkin', name: 'Shannon Larkin', reason: 'Ddrum Signature — Godsmack sludge-influenced hard rock weight' },
       { slug: 'mario-duplantier', name: 'Mario Duplantier', reason: 'Tama S.L.P. G-Maple — Gojira technical death metal, down-tuned weight' }
     ],
@@ -65536,7 +65572,7 @@ Designed for durability and powerful projection, this signature snare handles th
     faq: [
       {
         question: "Who are the best sludge metal drummers and what snares do they use?",
-        answer: "Brann Dailor of Mastodon, the genre's most direct working analogue currently profiled at MetalForge, doesn't have a separately documented signature snare — his verified Tama Starclassic Performer B/B kit is the closest reference. Igor Cavalera of Sepultura and Mario Duplantier of Gojira both play a Tama S.L.P. G-Maple 14x6.5\" snare."
+        answer: "Brann Dailor of Mastodon, the genre's most direct working analogue currently profiled at MetalForge, doesn't have a separately documented signature snare — his verified Tama Starclassic Performer B/B kit is the closest reference. Igor Cavalera of Cavalera Conspiracy plays a Yamaha Absolute Hybrid Maple snare, and Mario Duplantier of Gojira plays a Tama S.L.P. G-Maple 14x6.5\" snare."
       },
       {
         question: "What snare drum does Brann Dailor use?",
@@ -65544,7 +65580,7 @@ Designed for durability and powerful projection, this signature snare handles th
       },
       {
         question: "What snare depth is best for sludge metal?",
-        answer: "14x6.5\" is the sludge metal standard — Igor Cavalera, Shannon Larkin, and Mario Duplantier's primary snares all sit at this depth, balancing real body and sustain for slow, riff-locked grooves without sacrificing all articulation."
+        answer: "14x6.5\" is the sludge metal standard — Shannon Larkin's and Mario Duplantier's primary snares both sit at this depth, balancing real body and sustain for slow, riff-locked grooves without sacrificing all articulation."
       },
       {
         question: "Why does sludge metal need a different snare tuning than thrash or death metal?",
@@ -65559,7 +65595,7 @@ Designed for durability and powerful projection, this signature snare handles th
     // Conclusion
     conclusion: {
       title: "Find Your Sludge Metal Snare Voice",
-      content: `Sludge metal snare choice comes down to how much thick, damp weight your riffs demand. Brann Dailor's warm Tama Starclassic Performer B/B kit defined the genre's most direct working analogue currently profiled at MetalForge, anchoring Mastodon's crushing early catalog. Igor Cavalera's and Mario Duplantier's shared Tama S.L.P. G-Maple proves that a grinding, down-tuned tone can reach the same crushing destination from two entirely different lineages — tribal groove metal and technical death metal. Shannon Larkin's Ddrum Signature shows how sludge's patient, weight-over-speed philosophy scaled into platinum-selling hard rock.
+      content: `Sludge metal snare choice comes down to how much thick, damp weight your riffs demand. Brann Dailor's warm Tama Starclassic Performer B/B kit defined the genre's most direct working analogue currently profiled at MetalForge, anchoring Mastodon's crushing early catalog. Igor Cavalera's Yamaha Absolute Hybrid Maple and Mario Duplantier's Tama S.L.P. G-Maple prove that a grinding, down-tuned tone can reach the same crushing destination from two entirely different lineages — tribal groove metal and technical death metal. Shannon Larkin's Ddrum Signature shows how sludge's patient, weight-over-speed philosophy scaled into platinum-selling hard rock.
 
 None of these approaches is more "correct" — all three represent sludge metal's founding commitment to thick, damp weight over bright cut. Start with whichever depth and material matches your material's density, and don't be afraid to tune lower and damper than other metal subgenres would suggest.
 

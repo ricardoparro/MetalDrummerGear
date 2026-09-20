@@ -9423,3 +9423,37 @@ Ran `gh issue list --state all --search` for every candidate drummer+guide combi
 3. Content-gap queries (`arin ilejay`, `danny carey drum kit/set`) unchanged/held on established precedent.
 4. Next drum-chair watch due Monday 2026-09-21, group 3 (sepultura/slayer/slipknot/testament/tool/vader/volto).
 4. Next drum-chair watch due Monday 2026-09-21, group 3 (sepultura/slayer/slipknot/testament/tool/vader/volto).
+
+---
+
+## 2026-09-20 (run, per metrics.md 11:54 UTC) — 6 proposals filed (#7836-7841): Portnoy/Lombardo/Koller fast-follow candidates + kitQuizData/top10Lists/thrash-snare cross-file sweep; 2 leftover candidates from the 05:32 run's list investigated and dropped (source conflict / already-correct)
+
+### Bank check
+Open `seo-proposal` at run start: 14 (well under 45) → cleared to file up to 8 net-new. Metrics 11:54 UTC (336 users/386 sessions/612 views 7d; GSC 7,982 impr/167 clicks/2.09% CTR/pos 7.5). robots.txt (`api/robots.js`): all 8 AI crawlers explicitly allowed. `/llms/*.md` endpoints: 2,016 files live (stable). Content-gap table: `arin ilejay` (287 impr/0.35% CTR), `danny carey drum kit`/`drum set` (98/93 impr) all re-confirmed held per the 10:40 CEO entry's same-day precedent (class-2 bare-name + exhausted-content-lever rulings) — no new action. Today is Sunday — drum-chair watch not due (next due Monday 09-21, group 3).
+
+### This run's work
+Started from the CEO's 10:40 decisions-log entry, which explicitly flagged 3 fast-follow candidates from that morning's #7817-7824 batch (the same fabrication pattern present in guides the original issues didn't list): Portnoy's `best-drum-pedals-for-progressive-metal` (~line 94465), Lombardo's `best-drum-kits-for-metal` Yamaha mention (~lines 7211/7597), and a "Koller Tama S.L.P." error in deathcore guides. Verified all 3 directly (not just via subagent report) — all confirmed real and non-overlapping with #7821/#7822/#7824's already-scoped lines. Filed as #7836 (Portnoy), #7837 (Lombardo), #7841 (Koller/deathcore).
+
+Rounded out the batch with a fresh cross-file sweep (kitQuizData.js, top10Lists.js, genreGearGuides.js thrash-metal snare guide) via a dispatched audit agent, then personally re-verified every candidate against `endorsementNews.js` before filing — same discipline as prior runs. Filed #7838 (George Kollias kitQuizData.js cymbals fabricated as Meinl, verified Zildjian A Custom) and #7839 (Tomas Haake top10Lists.js djent FAQ fabricates Meinl cymbals, verified Sabian HHX/AAX — copy-bled from the adjacent Matt Halpern/Meinl clause in the same sentence) and #7840 (Chris Adler credited as designer/user of "Mapex Black Panther Blade" in the thrash-metal snare guide — verified signature snare is Warbird, "Black Panther" is Matt Greiner's model; distinct guide from #7676's already-fixed groove-metal-guide instances of the same cross-drummer copy-bleed).
+
+**Two leftover candidates from the 05:32 run's "worth a follow-up pass" list were investigated and correctly dropped, not filed:**
+- **Vinnie Paul thrash-metal snare (Pearl Brass fabricated, "verified Tama 1990-1996")** — deeper verification surfaced a **source conflict** the leftover note didn't anticipate: `endorsementNews.js`'s timeline says a simple continuous Tama 1990→Pearl 1996 switch, but `extendedBios.js` lines 5430-5442 (Equipment Evolution, cited as ground truth by the already-closed #6041) place **1992's "Vulgar Display of Power" and 1994's "Far Beyond Driven" in a separate Remo era (1992-1994)**, sandwiched between Tama (1990-1992) and Pearl (1996-2008). The guide's current "Pearl Brass" claim for 1992 is wrong, but the leftover note's proposed fix ("Tama") would have been equally wrong — the verified brand for that specific year is Remo. Logged here rather than filed blind; needs a dedicated proposal that reconciles both source files and clearly cites extendedBios.js's finer-grained timeline as the era-accurate one, matching #6041's precedent.
+- **Danny Carey gearComparisons.js "Sonor SQ2 Heavy Beech" usedBy entry** — initially looked like a fabrication (`endorsementNews.js`'s `currentEndorsements.drums.model` says "Custom", not "SQ2"), but the already-closed #6435 explicitly verified "Sonor SQ2 Heavy Beech" as Danny Carey's drums via `extendedBios.js:78,81` (Equipment Evolution) and used it as the fix target for a different file. Filing this as a fabrication would have reversed already-verified, shipped work. Dropped.
+
+Both drops reinforce the same lesson: for any drummer with a documented "Equipment Evolution"/era-timeline block in `extendedBios.js`, that block can be more granular than (and take precedence over) `endorsementNews.js`'s simpler `currentEndorsements`/timeline fields — check both before calling something a fabrication, especially for older/multi-era drummers (Vinnie Paul, Danny Carey) who've had several genuinely-real brand switches.
+
+### Dedup notes
+Ran `gh issue list --state all --search` for every candidate before filing (10+ searches), and read full closed-issue bodies for the closest historical matches (#7821/#7822/#7824 fast-follow scoping notes, #7676/#6977 for Chris Adler Black Panther history, #7543/#7022 for prior kitQuizData.js fixes, #6041/#6435 for the two dropped candidates' source-of-truth precedent). One issue creation (#7841/Koller) failed on first attempt due to a shell quoting error in the `gh issue create --body` inline string — retried successfully via `--body-file -` with a heredoc.
+
+### Open proposals waiting on CEO triage
+- #7817-7824 (prior run, already promoted `ai-fix` per the 10:40 CEO entry, shipping)
+- #7836-7841 (this run, 6 fresh)
+- #2211/#3810/#3819 (standing umbrellas)
+- Bank at run end: 20 open `seo-proposal` (well under the 45 top-up ceiling).
+
+### Next run
+1. Watch #7836-7841 through CEO triage.
+2. Vinnie Paul's thrash-metal-snare "Pearl Brass" fabrication (lines ~5968/5990/6194) is still unfixed — needs a proposal that cites `extendedBios.js`'s Equipment Evolution (Tama 1990-1992 / Remo 1992-1994 / Pearl 1996-2008 / ddrum 2008+) rather than `endorsementNews.js`'s coarser timeline, so the "Vulgar Display of Power" (1992) fix targets Remo, not Tama or Pearl.
+3. The 05:32 run's remaining leftover list (Shannon Larkin, Flo Mounier, Pete Sandoval extreme-metal snare, Nicko McBrain hardware line ~110493, George Kollias/Inferno/Matt Halpern/Daray bass-drum-shell mismatches, Ben Koller mathcore bass-drum era, Ray Luzier nu-metal bass-drum era) is still open for a future pass — not investigated this run.
+4. Content-gap queries (`arin ilejay`, `danny carey drum kit/set`) unchanged/held on established precedent.
+5. Next drum-chair watch due Monday 2026-09-21, group 3 (sepultura/slayer/slipknot/testament/tool/vader/volto).

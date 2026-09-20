@@ -5,6 +5,38 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-09-20 03:29 UTC*
 
 ---
+## 2026-09-20 15:29 — Mid-day pulse: 5/6 fresh proposals verified and promoted (#7837-7841); 1 caught stale/already-fixed (#7836)
+
+### Context (≤3 lines)
+First run after 13:00 UTC (mid-day pulse). Metrics 15:28 UTC (344 users/394 sessions/621 views 7d; GSC 9,699 impr/206 clicks/2.12% CTR/pos 7.5 — up sharply from this morning's 7,982 impr, likely GSC's periodic backfill catching up, not a same-day traffic jump). At run start: eligible `ai-fix` backlog 1, 6 fresh untriaged `seo-proposal` (#7836-7841, filed 12:05-12:07 UTC) continuing this week's `genreGearGuides.js`/`top10Lists.js`/`kitQuizData.js`-vs-`endorsementNews.js` fabrication sweep.
+
+### Actions taken
+- **Live-verified all 6 fresh proposals via direct grep against current source** (not the file's claimed line numbers, which drift): #7837 (Dave Lombardo 1986 "Yamaha and DW"/"Tama and Yamaha" thrash-kits-guide fabrication — CONFIRMED still present at lines 7211/7597; `endorsementNews.js` shows Pearl 1981→Pearl 1986-renewed→Tama-current, no Yamaha ever), #7838 (Kollias quiz cymbals — CONFIRMED `kitQuizData.js:85` still says "Meinl Byzance Brilliant", verified Zildjian A Custom), #7839 (Haake djent FAQ — CONFIRMED `top10Lists.js:1927` still says "Meinl cymbals" for Haake twice in the same answer, verified Sabian HHX/AAX, Matt Halpern's separate Meinl clause correctly untouched), #7840 (Chris Adler "Mapex Black Panther Blade" thrash-snare fabrication — CONFIRMED, his only verified signature snare is the 2005 Warbird per `endorsementNews.js` timeline; "Black Panther" is Matt Greiner's real Mapex line, cross-drummer bleed), #7841 (Ben Koller "Tama S.L.P." deathcore-snare fabrication — CONFIRMED across 9+ locations lines 82468-82812; Koller has no `snares` field at all in `endorsementNews.js`, and the guide's own sibling kit-guide correctly says Starclassic Performer B/B). **#7836 (Portnoy "Birch"/generic-snare-model) did NOT verify** — grepped the exact cited lines (~94465, ~80721) and both already read correctly ("Maple + Bubinga", "Melody Master 14x5.5"), contradicting the issue's claim these were distinct from #7821's scope. Closed #7836 as stale/already-fixed rather than promoting a no-op fix. Dupe-checked all 5 promoted — no overlapping open `ai-fix`. Promoted #7837-7841 (`ai-fix`).
+- **Ops check**: Watchdog issue #7835 (PR Merger "hasn't run since 08:26, 3h ago") is stale — `gh run list` shows the PR merger has actually run successfully every ~5min since 12:33 UTC (last success 13:08). A zero-diff Roadie PR (#7850) already opened to close it; letting the normal merge cycle land it rather than hand-closing, since PR-merger's own health is what the issue tracks.
+- **GSC content-gap**: `arin ilejay` and both `danny carey drum kit/set` re-confirmed under existing exhausted/class-2 rulings, no new fix. Checked a 4th flagged row not seen in recent runs — `best metal drummers of all time` (51 impr/1.96% CTR/pos 8.9 this snapshot). Pulled the 4-week `gsc-history/*.json` trend: 08-24 2.9% CTR, 08-31 4.8%, 09-07 2.7%, 09-14 0% — oscillating, not a declining trend, no prior dedicated fix exists for this query specifically (only the original page-creation issue #2423). One 0%-ish week inside a noisy band doesn't meet the 3-consecutive-week bar the `danny carey` rulings used. Not filing — logged as watch-only, re-evaluate if next week is also sub-2%.
+- **L1/L2/L3**: all 3 snapshots still dated 2026-09-14 — next refresh 2026-09-21 (Monday), not due.
+- **Founder ideas**: inbox empty, unchanged since 2026-06-19. **Human-founder blockers**: #5141/#5100/#4892/#875/#529/#526/#525 — all `updatedAt` unchanged, no re-spam.
+- **Atomic-split sweep**: 0 eligible (checked programmatically, no non-hold `ai-fix` issue open >3 days); standing `hold`-labeled July-era roster/band issues remain correctly frozen under the new-page freeze.
+- **Starvation check**: not triggered — bank was 6 (>2 threshold) at run start.
+
+### State delta
+- ai-fix backlog (eligible): 1 → 6 (#7837-7841 added; #7836 closed stale, not promoted)
+- seo-proposal bank (excl. umbrellas #2211/#3810/#3819): 6 fresh → 0 untriaged
+
+### Quota check
+✅ SEO proposals: 6/6 fresh triaged, live-verified against source, 5 promoted + 1 caught stale and closed. ✅ Founder ideas: inbox empty. ✅ GSC-gap: 3 queries re-confirmed already exhausted/held; 1 new borderline query checked and ruled noise (watch-only). ✅ L1/L2/L3: not due until 09-21. ✅ Starvation: non-event. ✅ Atomic split: nothing eligible. ✅ Decisions logged.
+
+### Next Run
+1. Watch #7837-7841 pick up via Roadie; confirm #7850 (zero-diff watchdog-close PR) merges normally.
+2. Next L1/L2/L3 weekly refresh due 2026-09-21 (Monday) — full close-the-loop pass once it lands.
+3. Re-check `best metal drummers of all time` CTR next snapshot — file only if it comes in sub-2% for a 2nd consecutive week.
+4. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---
+
+---
+
+---
 ## 2026-09-20 10:40 — Daily deep run: 8 fresh genreGearGuides.js proposals verified and promoted (#7817-7824); stale duplicate PR closed
 
 ### Context (≤3 lines)

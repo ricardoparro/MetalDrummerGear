@@ -25633,7 +25633,7 @@ Start with a 22"x17"-18" maple shell and a quality single or double pedal — it
     // SEO metadata
     title: "Best Bass Drums for Progressive Metal: 2026 Ultimate Guide",
     metaTitle: "Best Bass Drums for Progressive Metal in 2026 | MetalForge Expert Guide",
-    description: "Best bass drums for progressive metal's versatile, dynamic low end. What Mike Portnoy (Tama Starclassic Maple/Birch), Mike Mangini (Pearl Reference Series), Gavin Harrison and Danny Carey (Sonor SQ2) actually play — from budget to pro.",
+    description: "Best bass drums for progressive metal's versatile, dynamic low end. What Mike Portnoy (Tama Starclassic Maple + Bubinga \"Dream Monster\" dual kit), Mike Mangini (Pearl Reference Series), Gavin Harrison and Danny Carey (Sonor SQ2) actually play — from budget to pro.",
     seoKeywords: [
       'best bass drums for progressive metal',
       'progressive metal bass drum setup',
@@ -25670,12 +25670,12 @@ Start with a 22"x17"-18" maple shell and a quality single or double pedal — it
       title: "What Bass Drum Setup Do Progressive Metal Drummers Actually Use?",
       content: `Progressive metal's bass drum faces the widest range of demands in all of metal. A single song might require the sensitivity for a delicate, jazz-influenced passage, the punch to anchor a djent-adjacent breakdown, and the tonal range to shift between both without the shell sounding wrong in either context. Unlike death or thrash metal, where the kick's job is fairly constant across a set, progressive metal drummers need a bass drum that responds to nuance, odd-meter phrasing, and complex orchestration from bar to bar.
 
-Mike Portnoy built Dream Theater's foundational bass drum sound on a Tama Starclassic Maple/Birch hybrid shell, chosen specifically for the tonal balance between maple's warmth and birch's articulate attack. Mike Mangini, Portnoy's successor since 2010, plays a Pearl Reference Series bass drum integrated with a Roland SPD-SX sampling pad — a hybrid approach built for the band's increasingly complex modern material. Gavin Harrison of Porcupine Tree and King Crimson and Danny Carey of Tool both rely on Sonor SQ2's fully customizable shell, though for very different ends: Harrison's build favors touch and restraint, while Carey's Heavy Beech configuration is voiced for Tool's dense polyrhythmic soundscapes.
+Mike Portnoy built Dream Theater's foundational bass drum sound on his dual side-by-side "Dream Monster" kit, pairing a Tama Starclassic Maple shell with a Tama Starclassic Bubinga shell for a blended tonal character across the two bass drums. Mike Mangini, Portnoy's successor since 2010, plays a Pearl Reference Series bass drum integrated with a Roland SPD-SX sampling pad — a hybrid approach built for the band's increasingly complex modern material. Gavin Harrison of Porcupine Tree and King Crimson and Danny Carey of Tool both rely on Sonor SQ2's fully customizable shell, though for very different ends: Harrison's build favors touch and restraint, while Carey's Heavy Beech configuration is voiced for Tool's dense polyrhythmic soundscapes.
 
 This guide breaks down exactly what makes a bass drum work for progressive metal — shell tuning range, material, and dynamic response — and which specific shells these four influential drummers actually play.`,
       keyPoints: [
         "Progressive metal demands a bass drum with a wide tuning range, from whisper-soft dynamics to full-volume double-bass passages",
-        "Mike Portnoy's Tama Starclassic Maple/Birch hybrid balances maple's warmth with birch's articulate attack",
+        "Mike Portnoy's dual-shell Tama Starclassic Maple + Bubinga \"Dream Monster\" kit pairs two different shell types side-by-side",
         "Hybrid acoustic/electronic setups (Mangini's Roland SPD-SX, Carey's Mandala Drum) are increasingly common for triggering samples alongside the acoustic shell",
         "Sonor SQ2's full customization lets Harrison and Carey build completely different tonal identities from the same platform"
       ]
@@ -25688,8 +25688,8 @@ This guide breaks down exactly what makes a bass drum work for progressive metal
         {
           name: "Versatile Tonal Range",
           icon: "🎛️",
-          description: "Progressive metal's odd-meter compositions can swing from a restrained jazz-influenced passage to a full-force djent breakdown within the same song. Mike Portnoy's Tama Starclassic Maple/Birch hybrid was chosen specifically for that tonal balance — warm enough for nuance, articulate enough for weight.",
-          recommendation: "A hybrid shell (maple/birch or similar) tuned for a wide dynamic and tonal range rather than one extreme"
+          description: "Progressive metal's odd-meter compositions can swing from a restrained jazz-influenced passage to a full-force djent breakdown within the same song. Mike Portnoy's dual-shell Tama Starclassic Maple + Bubinga \"Dream Monster\" kit was built specifically to give him two distinct bass drum voices side-by-side.",
+          recommendation: "A shell (or dual-shell pairing) tuned for a wide dynamic and tonal range rather than one extreme"
         },
         {
           name: "Dynamic Sensitivity",
@@ -25700,8 +25700,8 @@ This guide breaks down exactly what makes a bass drum work for progressive metal
         {
           name: "Shell Material",
           icon: "🪵",
-          description: "Maple/birch hybrids (Portnoy's Tama Starclassic) blend warmth with articulate attack. Pure maple (Mangini's Pearl Reference) offers exceptional sensitivity. Heavy Beech (Carey's Sonor SQ2) delivers a darker, denser tone suited to Tool's polyrhythmic soundscapes.",
-          recommendation: "Maple/birch hybrid for balanced versatility; Heavy Beech for a darker, denser tonal identity"
+          description: "Portnoy's dual-shell Tama Starclassic Maple + Bubinga \"Dream Monster\" kit pairs two distinct shell types side-by-side. Pure maple (Mangini's Pearl Reference) offers exceptional sensitivity. Heavy Beech (Carey's Sonor SQ2) delivers a darker, denser tone suited to Tool's polyrhythmic soundscapes.",
+          recommendation: "A dual-shell pairing (like Portnoy's Maple + Bubinga) for tonal variety; Heavy Beech for a darker, denser tonal identity"
         },
         {
           name: "Hybrid Electronics Integration",
@@ -25730,39 +25730,39 @@ This guide breaks down exactly what makes a bass drum work for progressive metal
       pedals: [
         {
           rank: 1,
-          name: "Tama Starclassic Maple/Birch Bass Drum",
+          name: "Tama Starclassic Maple + Bubinga Bass Drum",
           brand: "Tama",
-          model: "Starclassic Maple/Birch Hybrid 22\"x18\"",
+          model: "Starclassic Maple / Starclassic Bubinga 22\"x18\" (\"Dream Monster\" dual kit)",
           image: "https://upload.wikimedia.org/wikipedia/commons/6/6c/Acoustic_Drums_Kit_%2829965183378%29.jpg",
           priceRange: "€750-1000",
           tier: "pro",
-          material: "Maple/Birch Hybrid, 22\"x18\"",
+          material: "Maple / Bubinga, 22\"x18\"",
 
-          description: `Mike Portnoy built Dream Theater's foundational bass drum sound on the Tama Starclassic Maple/Birch hybrid, choosing the shell blend specifically for the tonal balance between maple's warmth and birch's articulate attack. That versatility matters when a single Dream Theater song can move from a delicate, jazz-influenced passage to a crushing, djent-adjacent breakdown.
+          description: `Mike Portnoy built Dream Theater's foundational bass drum sound on his dual side-by-side "Dream Monster" kit, combining a Tama Starclassic Maple shell with a Tama Starclassic Bubinga shell for two distinct tonal voices. That versatility matters when a single Dream Theater song can move from a delicate, jazz-influenced passage to a crushing, djent-adjacent breakdown.
 
-The hybrid construction gives the shell enough warmth for nuanced dynamic playing while retaining the punch and definition needed for the band's heaviest, most technical double-bass sections.`,
+Pairing two different Starclassic shell types side-by-side gives Portnoy a broader tonal palette than a single-shell setup, while retaining the punch and definition needed for the band's heaviest, most technical double-bass sections.`,
 
           pros: [
             "Mike Portnoy's foundational Dream Theater bass drum — prog metal's defining tone",
-            "Maple/Birch hybrid balances warmth with articulate attack",
+            "Dual Maple + Bubinga shell pairing gives two distinct tonal voices",
             "Handles both delicate dynamics and heavy double-bass sections",
             "Star-Cast mounting for maximum shell resonance",
             "Proven across decades of technically demanding studio and live work"
           ],
           cons: [
             "Premium pricing",
-            "Hybrid shell character less extreme than a pure maple or pure birch build",
+            "Running two shell types side-by-side requires more setup space",
             "Requires careful tuning to access its full dynamic range"
           ],
           specs: {
             diameter: "22\"",
             depth: "18\"",
-            shell: "Maple/Birch Hybrid",
+            shell: "Maple / Bubinga (dual kit)",
             headRecommendation: "Remo Powerstroke 3",
-            configuration: "Single, double-pedal driven"
+            configuration: "Dual, double-pedal driven"
           },
           usedBy: [
-            { name: "Mike Portnoy", band: "Dream Theater", note: "Tama Starclassic Maple/Birch — the foundational prog metal bass drum tone" }
+            { name: "Mike Portnoy", band: "Dream Theater", note: "Tama Starclassic Maple + Bubinga \"Dream Monster\" dual kit — the foundational prog metal bass drum tone" }
           ],
           verdict: "The progressive metal foundational standard — Mike Portnoy's proven blueprint for tonal versatility.",
           rating: 4.9,
@@ -25866,7 +25866,7 @@ The SQ2's build-your-own system lets each drummer specify shell material, depth,
           material: "Poplar shell, 22\"x18\"",
           description: "Same Tama family behind Mike Portnoy's Starclassic, at a fraction of the price — a genuinely versatile, accessible foundation for developing progressive metal technique across dynamics.",
           pros: ["Standard 22\"x18\" prog metal sizing", "Tama hardware quality at a budget price", "Good value step up from entry-level shells"],
-          cons: ["Poplar shell lacks the tonal complexity of a maple/birch hybrid"],
+          cons: ["Poplar shell lacks the tonal complexity of Portnoy's dual-shell Starclassic pairing"],
           verdict: "Best budget pick for developing tonal versatility on a budget.",
           rating: 4.1,
           affiliateLink: "https://www.thomann.de/intl/tama_imperialstar_bass_drum_progressive_metal.htm?partner_id=metalforge"
@@ -25890,20 +25890,20 @@ The SQ2's build-your-own system lets each drummer specify shell material, depth,
 
     // Comparison
     comparison: {
-      title: "Hybrid Maple/Birch vs Pure Maple Bass Drums for Progressive Metal",
+      title: "Dual-Shell Maple + Bubinga vs Pure Maple Bass Drums for Progressive Metal",
       content: `Progressive metal drummers split their bass drum shell choice across two proven philosophies:
 
-**Hybrid Maple/Birch (Mike Portnoy):**
-- Balanced warmth and articulate attack across a wide tonal range
+**Dual-Shell Maple + Bubinga (Mike Portnoy):**
+- Two distinct shell types side-by-side, giving two different tonal voices across a wide range
 - Handles both delicate dynamics and heavy double-bass sections
-- Slightly less extreme in either direction than a single-species shell
+- Requires more setup space than a single-shell kit
 
 **Pure Maple (Mike Mangini):**
 - Exceptional sensitivity for the widest possible dynamic range
 - Ideal for hybrid acoustic/electronic integration
 - Requires more careful tuning to avoid sounding thin under heavy playing
 
-**Verdict:** Start with a 22"x18" maple/birch hybrid shell like Mike Portnoy's Tama Starclassic for the best all-around balance. Choose a pure maple shell like Mike Mangini's Pearl Reference if dynamic sensitivity and hybrid electronics integration matter more than raw punch.`,
+**Verdict:** Start with a 22"x18" maple shell for a balanced, versatile all-around tone, or follow Mike Portnoy's lead with a dual Tama Starclassic Maple + Bubinga "Dream Monster" pairing for two distinct voices. Choose a pure maple shell like Mike Mangini's Pearl Reference if dynamic sensitivity and hybrid electronics integration matter more than raw punch.`,
       comparisonTable: [
         { feature: "Dynamic Sensitivity", birch: "⭐⭐⭐⭐", maple: "⭐⭐⭐⭐⭐" },
         { feature: "Heavy Section Punch", birch: "⭐⭐⭐⭐⭐", maple: "⭐⭐⭐⭐" },
@@ -25919,7 +25919,7 @@ The SQ2's build-your-own system lets each drummer specify shell material, depth,
       picks: [
         {
           category: "Best Overall",
-          pedal: "Tama Starclassic Maple/Birch Bass Drum",
+          pedal: "Tama Starclassic Maple + Bubinga Bass Drum",
           reason: "Mike Portnoy's foundational Dream Theater tone — the widest balanced tonal range of any shell here."
         },
         {
@@ -25935,7 +25935,7 @@ The SQ2's build-your-own system lets each drummer specify shell material, depth,
         {
           category: "Best Budget",
           pedal: "Tama Imperialstar Bass Drum",
-          reason: "Same Tama family behind Mike Portnoy's Starclassic, at a fraction of the price."
+          reason: "Same Tama family behind Mike Portnoy's dual-shell Starclassic, at a fraction of the price."
         }
       ]
     },
@@ -25948,7 +25948,7 @@ The SQ2's build-your-own system lets each drummer specify shell material, depth,
       'best-drum-heads-for-progressive-metal'
     ],
     relatedDrummers: [
-      { slug: 'mike-portnoy', name: 'Mike Portnoy', reason: 'Tama Starclassic Maple/Birch — Dream Theater\'s foundational prog metal tone' },
+      { slug: 'mike-portnoy', name: 'Mike Portnoy', reason: 'Tama Starclassic Maple + Bubinga "Dream Monster" dual kit — Dream Theater\'s foundational prog metal tone' },
       { slug: 'mike-mangini', name: 'Mike Mangini', reason: 'Pearl Reference Series with Roland SPD-SX hybrid integration' },
       { slug: 'gavin-harrison', name: 'Gavin Harrison', reason: 'Sonor SQ2 built for touch and dynamic restraint' },
       { slug: 'danny-carey', name: 'Danny Carey', reason: 'Sonor SQ2 Heavy Beech — Tool\'s dark, polyrhythmic low end' }
@@ -25956,7 +25956,7 @@ The SQ2's build-your-own system lets each drummer specify shell material, depth,
 
     // Featured drummers (issue template)
     featuredDrummers: [
-      { slug: 'mike-portnoy', name: 'Mike Portnoy', reason: 'Tama Starclassic Maple/Birch — the foundational prog metal blueprint' },
+      { slug: 'mike-portnoy', name: 'Mike Portnoy', reason: 'Tama Starclassic Maple + Bubinga "Dream Monster" dual kit — the foundational prog metal blueprint' },
       { slug: 'mike-mangini', name: 'Mike Mangini', reason: 'Pearl Reference Series — sensitive hybrid electronics integration' },
       { slug: 'danny-carey', name: 'Danny Carey', reason: 'Sonor SQ2 Heavy Beech — dark, dense polyrhythmic tone' }
     ],
@@ -25965,7 +25965,7 @@ The SQ2's build-your-own system lets each drummer specify shell material, depth,
     faq: [
       {
         question: "What bass drums do progressive metal drummers use?",
-        answer: "Mike Portnoy built Dream Theater's foundational sound on a Tama Starclassic Maple/Birch hybrid, his successor Mike Mangini plays a Pearl Reference Series integrated with a Roland SPD-SX, and Gavin Harrison and Danny Carey both rely on Sonor SQ2's fully customizable platform for very different tonal ends."
+        answer: "Mike Portnoy built Dream Theater's foundational sound on his dual side-by-side Tama Starclassic Maple + Bubinga \"Dream Monster\" kit, his successor Mike Mangini plays a Pearl Reference Series integrated with a Roland SPD-SX, and Gavin Harrison and Danny Carey both rely on Sonor SQ2's fully customizable platform for very different tonal ends."
       },
       {
         question: "What size bass drum is best for progressive metal?",
@@ -25976,8 +25976,8 @@ The SQ2's build-your-own system lets each drummer specify shell material, depth,
         answer: "Many do — Mike Mangini integrates a Roland SPD-SX with his Pearl Reference Series bass drum, and Danny Carey pairs his Sonor SQ2 with a Mandala Drum and Octobans, letting both drummers layer sampled or electronic textures on top of their acoustic shell for complex modern material."
       },
       {
-        question: "Maple/birch hybrid or pure maple bass drum for progressive metal?",
-        answer: "A maple/birch hybrid, like Mike Portnoy's Tama Starclassic, gives the best all-around balance between warmth and articulate punch. Pure maple, like Mike Mangini's Pearl Reference, offers superior dynamic sensitivity, especially useful when integrating hybrid electronics."
+        question: "Dual-shell (Maple + Bubinga) or pure maple bass drum for progressive metal?",
+        answer: "A dual-shell pairing, like Mike Portnoy's Tama Starclassic Maple + Bubinga \"Dream Monster\" kit, gives access to two distinct tonal voices side-by-side. Pure maple, like Mike Mangini's Pearl Reference, offers superior dynamic sensitivity, especially useful when integrating hybrid electronics."
       },
       {
         question: "Why do progressive metal drummers need a more versatile bass drum than other metal genres?",
@@ -25988,11 +25988,11 @@ The SQ2's build-your-own system lets each drummer specify shell material, depth,
     // Conclusion
     conclusion: {
       title: "Build the Versatile Low End Progressive Metal Demands",
-      content: `Progressive metal's bass drum requirements come down to versatility: a shell that responds to nuance, odd-meter phrasing, and complex orchestration across the widest tonal range in metal. Mike Portnoy's Tama Starclassic Maple/Birch hybrid proves a balanced shell can carry an entire foundational sound, while Mike Mangini's Pearl Reference Series shows how a sensitive pure maple shell integrates cleanly with modern hybrid electronics.
+      content: `Progressive metal's bass drum requirements come down to versatility: a shell that responds to nuance, odd-meter phrasing, and complex orchestration across the widest tonal range in metal. Mike Portnoy's dual-shell Tama Starclassic Maple + Bubinga "Dream Monster" kit proves two paired shells can carry an entire foundational sound, while Mike Mangini's Pearl Reference Series shows how a sensitive pure maple shell integrates cleanly with modern hybrid electronics.
 
 If your material demands total tonal control, follow Gavin Harrison's and Danny Carey's example with a fully custom Sonor SQ2 build — proof the same platform can serve touch-first restraint and dense polyrhythmic weight equally well.
 
-Start with a 22"x18" maple/birch hybrid shell tuned for dynamic range rather than one tonal extreme — it's the proven foundation across progressive metal's most versatile, technically demanding drummers.
+Start with a 22"x18" maple shell tuned for dynamic range rather than one tonal extreme — it's the proven foundation across progressive metal's most versatile, technically demanding drummers.
 
 🤘 **Play every dynamic. Own every meter.**`
     }
@@ -50086,11 +50086,11 @@ Start with a budget option if you're building your first setup. The Export and F
       title: "What Drum Kit Should I Use for Progressive Metal?",
       content: `Progressive metal drum kits face the widest range of demands in all of metal. A single song might require the tonal warmth for a delicate, jazz-influenced passage, the punch to anchor a djent-adjacent breakdown, and the dynamic range to shift between both without the kit sounding wrong in either context. Unlike death or black metal, where raw speed and endurance dominate the equation, progressive metal drummers need kits that respond to nuance, odd-meter phrasing, and complex orchestration.
 
-Mike Portnoy built Dream Theater's foundational sound on a Tama Starclassic Maple/Birch hybrid kit, choosing the shell blend specifically for the tonal balance between maple's warmth and birch's articulate attack. Mike Mangini, Portnoy's successor in Dream Theater since 2010, plays a Pearl Reference Series kit integrated with a Roland SPD-SX sampling pad — a hybrid approach built for the band's increasingly complex modern material. Gavin Harrison of Porcupine Tree and King Crimson and Danny Carey of Tool both rely on Sonor SQ2's fully customizable platform, though for very different ends: Harrison's build favors touch and restraint, while Carey's Heavy Beech configuration is built around Octobans and electronics for Tool's dense polyrhythmic soundscapes.
+Mike Portnoy built Dream Theater's foundational sound on his dual side-by-side "Dream Monster" kit, pairing a Tama Starclassic Maple shell type with a Tama Starclassic Bubinga shell type for two distinct tonal voices. Mike Mangini, Portnoy's successor in Dream Theater since 2010, plays a Pearl Reference Series kit integrated with a Roland SPD-SX sampling pad — a hybrid approach built for the band's increasingly complex modern material. Gavin Harrison of Porcupine Tree and King Crimson and Danny Carey of Tool both rely on Sonor SQ2's fully customizable platform, though for very different ends: Harrison's build favors touch and restraint, while Carey's Heavy Beech configuration is built around Octobans and electronics for Tool's dense polyrhythmic soundscapes.
 
 This guide breaks down what actually makes a kit work for progressive metal — shell material, hybrid electronics integration, and dynamic range — and which specific kits these four influential drummers rely on, from accessible starter kits to the professional setups behind prog metal's most celebrated records.`,
       keyPoints: [
-        "Tama Starclassic Maple/Birch defined Dream Theater's foundational prog metal tone under Mike Portnoy",
+        "Tama Starclassic Maple + Bubinga \"Dream Monster\" dual kit defined Dream Theater's foundational prog metal tone under Mike Portnoy",
         "Hybrid acoustic/electronic setups (Mangini's Roland SPD-SX, Carey's Mandala Drum) are increasingly standard in modern progressive metal",
         "Sonor SQ2's full customization lets Harrison and Carey build completely different tonal identities from the same platform",
         "Dynamic range matters more than raw power — prog metal kits must respond to both whisper-soft and full-volume passages"
@@ -50105,13 +50105,13 @@ This guide breaks down what actually makes a kit work for progressive metal — 
           name: "Tonal Balance and Dynamic Range",
           icon: "🎭",
           description: "Progressive metal shifts between soft, jazz-influenced passages and full-volume metallic assault, often within the same song. A kit needs to respond musically at both ends rather than being optimized for one extreme.",
-          recommendation: "Hybrid shells (maple/birch) or fully customizable configurations (SQ2) tunable toward either extreme"
+          recommendation: "A dual-shell pairing (maple + bubinga) or fully customizable configurations (SQ2) tunable toward either extreme"
         },
         {
-          name: "Hybrid Shell Construction",
+          name: "Dual-Shell Construction",
           icon: "⚙️",
-          description: "Portnoy's Tama Starclassic Maple/Birch blends maple's resonant warmth with birch's articulate, punchy attack — a balance that matters when a kit has to cover both delicate and dense passages within the same song.",
-          recommendation: "Maple/birch hybrid for tonal balance; pure maple (Mangini's Reference) for warmth and sensitivity"
+          description: "Portnoy's dual side-by-side \"Dream Monster\" kit pairs a Tama Starclassic Maple shell with a Tama Starclassic Bubinga shell — two distinct voices that matter when a kit has to cover both delicate and dense passages within the same song.",
+          recommendation: "A dual-shell pairing (like Portnoy's Maple + Bubinga) for tonal variety; pure maple (Mangini's Reference) for warmth and sensitivity"
         },
         {
           name: "Electronics Integration",
@@ -50146,39 +50146,39 @@ This guide breaks down what actually makes a kit work for progressive metal — 
       pedals: [
         {
           rank: 1,
-          name: "Tama Starclassic Maple/Birch",
+          name: "Tama Starclassic Maple + Bubinga \"Dream Monster\"",
           brand: "Tama",
-          model: "Starclassic Maple/Birch",
+          model: "Starclassic Maple / Starclassic Bubinga (dual kit)",
           image: "https://upload.wikimedia.org/wikipedia/commons/a/ac/Drums_01.jpg",
           priceRange: "€2000-3500 (shell pack)",
           tier: "pro",
-          material: "Maple/Birch Hybrid",
+          material: "Maple / Bubinga (dual kit)",
 
-          description: `Mike Portnoy built Dream Theater's foundational drum sound on the Tama Starclassic Maple/Birch — a hybrid shell pack chosen specifically for the tonal balance between maple's resonant warmth and birch's articulate, punchy attack. That balance matters enormously in progressive metal, where a single song might move from a delicate acoustic-adjacent passage into a dense, high-gain metal assault without changing kits.
+          description: `Mike Portnoy built Dream Theater's foundational drum sound on his dual side-by-side "Dream Monster" kit, combining a Tama Starclassic Maple shell type with a Tama Starclassic Bubinga shell type for two distinct tonal voices. That range matters enormously in progressive metal, where a single song might move from a delicate acoustic-adjacent passage into a dense, high-gain metal assault without changing kits.
 
-Tama's Air Ride mounting system lets the shells resonate as freely as possible while staying controlled enough for precise articulation across Dream Theater's notoriously complex, shifting time signatures. Portnoy's use of this platform across three decades and albums from Images and Words through Black Clouds & Silver Linings established it as prog metal's most influential kit.`,
+Tama's Air Ride mounting system lets the shells resonate as freely as possible while staying controlled enough for precise articulation across Dream Theater's notoriously complex, shifting time signatures. Portnoy's use of this dual-shell platform across three decades and albums from Images and Words through Black Clouds & Silver Linings established it as prog metal's most influential kit.`,
 
           pros: [
             "Dream Theater's foundational sound — Mike Portnoy's signature kit for three decades",
-            "Maple/birch hybrid balances warmth with articulate attack",
+            "Dual Maple + Bubinga shell pairing gives two distinct tonal voices",
             "Air Ride mounting system for maximum shell resonance",
             "Proven across prog metal's most celebrated, complex material",
             "Wide range of configurations available"
           ],
           cons: [
-            "Premium pricing for a full hybrid shell pack",
-            "Hybrid tonal character may be less specialized than pure maple or pure birch",
+            "Premium pricing for a full dual shell pack",
+            "Running two shell types side-by-side requires more setup space",
             "Heavy for extensive touring setups"
           ],
           specs: {
-            shell: "Maple/Birch Hybrid",
+            shell: "Maple / Bubinga (dual kit)",
             mount: "Air Ride Suspension Mount",
             finish: "Multiple lacquer/wrap options",
             kickSize: "22\" x 18\" or 20\" x 18\"",
             tomSizes: "Various configurations available"
           },
           usedBy: [
-            { name: "Mike Portnoy", band: "Dream Theater / Liquid Tension Experiment / The Winery Dogs", note: "Primary kit across Dream Theater's classic era and beyond" }
+            { name: "Mike Portnoy", band: "Dream Theater / Liquid Tension Experiment / The Winery Dogs", note: "Primary dual-shell \"Dream Monster\" kit across Dream Theater's classic era and beyond" }
           ],
           verdict: "The definitive progressive metal kit. If you want the Portnoy/Dream Theater sound, this is it.",
           rating: 4.9,
@@ -50322,7 +50322,7 @@ While not tied to one of prog metal's most famous specific rigs, the Collector's
           material: "Poplar",
           description: "The Tama Imperialstar brings the same brand behind Mike Portnoy's Starclassic to an accessible complete-kit price point, including hardware. For developing prog metal drummers who want to start on a Tama platform before upgrading, it's a sound, reliable choice.",
           pros: ["Same brand as Portnoy's Starclassic", "Complete kit — includes hardware", "Tama quality control at budget price"],
-          cons: ["Poplar shells lack Starclassic's tonal complexity", "Not a hybrid maple/birch configuration"],
+          cons: ["Poplar shells lack Starclassic's tonal complexity", "Not a dual maple + bubinga configuration"],
           verdict: "Best budget path into the Tama prog metal ecosystem.",
           rating: 4.1,
           affiliateLink: "https://www.thomann.de/intl/tama_imperialstar_series.htm?partner_id=metalforge"
@@ -50349,10 +50349,10 @@ While not tied to one of prog metal's most famous specific rigs, the Collector's
       title: "Tama Starclassic vs Pearl Reference vs Sonor SQ2 for Progressive Metal",
       content: `Shell platform choice shapes how a progressive metal kit handles the genre's demand for dynamic range and tonal complexity. Here's how the three main options compare:
 
-**Tama Starclassic Maple/Birch (Mike Portnoy):**
-- Balanced warmth and articulate attack
+**Tama Starclassic Maple + Bubinga "Dream Monster" (Mike Portnoy):**
+- Dual side-by-side shell types for two distinct tonal voices
 - The historically foundational Dream Theater/prog metal tone
-- Best for: Classic prog metal, balanced tonal needs across dynamics
+- Best for: Classic prog metal, drummers who want two tonal identities in one kit
 
 **Pearl Reference Series (Mike Mangini):**
 - Thin maple shells for maximum sensitivity
@@ -50363,9 +50363,9 @@ While not tied to one of prog metal's most famous specific rigs, the Collector's
 - Fully customizable — can be built toward either restraint or polyrhythmic complexity
 - Best for: Drummers with a precise, individual tonal vision and the budget to realize it
 
-**The Truth:** Portnoy's Starclassic proved the hybrid maple/birch approach works at the top of the genre for three decades. Mangini's Reference Series shows how far sensitivity and electronics integration can push modern prog metal. Harrison and Carey both chose Sonor SQ2 but built completely different sounds from it — proof that full customization is a strength when a drummer knows exactly what they want.
+**The Truth:** Portnoy's dual-shell Starclassic proved that pairing two different shell types side-by-side works at the top of the genre for three decades. Mangini's Reference Series shows how far sensitivity and electronics integration can push modern prog metal. Harrison and Carey both chose Sonor SQ2 but built completely different sounds from it — proof that full customization is a strength when a drummer knows exactly what they want.
 
-**Our Recommendation:** Start with a Tama Starclassic-style hybrid shell for balanced versatility across prog metal's dynamic range. Move to Pearl Reference if hybrid electronics integration matters to your setup, or invest in a custom Sonor SQ2 once you have a precise tonal vision worth building toward.`,
+**Our Recommendation:** Start with a Tama Starclassic-style maple shell for balanced versatility across prog metal's dynamic range. Move to Pearl Reference if hybrid electronics integration matters to your setup, or invest in a custom Sonor SQ2 once you have a precise tonal vision worth building toward.`,
       comparisonTable: [
         { feature: "Tonal Balance", tama: "⭐⭐⭐⭐⭐", pearl: "⭐⭐⭐⭐", sonor: "⭐⭐⭐⭐" },
         { feature: "Sensitivity", tama: "⭐⭐⭐⭐", pearl: "⭐⭐⭐⭐⭐", sonor: "⭐⭐⭐⭐" },
@@ -50381,8 +50381,8 @@ While not tied to one of prog metal's most famous specific rigs, the Collector's
       picks: [
         {
           category: "Best Overall",
-          pedal: "Tama Starclassic Maple/Birch",
-          reason: "Mike Portnoy's foundational Dream Theater sound. Balanced warmth and articulate attack for three decades of prog metal."
+          pedal: "Tama Starclassic Maple + Bubinga \"Dream Monster\"",
+          reason: "Mike Portnoy's foundational Dream Theater sound. Two distinct tonal voices for three decades of prog metal."
         },
         {
           category: "Best for Hybrid Electronics",
@@ -50409,7 +50409,7 @@ While not tied to one of prog metal's most famous specific rigs, the Collector's
       'best-snare-drums-for-metal'
     ],
     relatedDrummers: [
-      { slug: 'mike-portnoy', name: 'Mike Portnoy', reason: 'Tama Starclassic Maple/Birch — Dream Theater\'s foundational prog metal sound' },
+      { slug: 'mike-portnoy', name: 'Mike Portnoy', reason: 'Tama Starclassic Maple + Bubinga "Dream Monster" dual kit — Dream Theater\'s foundational prog metal sound' },
       { slug: 'mike-mangini', name: 'Mike Mangini', reason: 'Pearl Reference Series with Roland SPD-SX hybrid integration' },
       { slug: 'gavin-harrison', name: 'Gavin Harrison', reason: 'Sonor SQ2 — touch and dynamic restraint for Porcupine Tree/King Crimson' },
       { slug: 'danny-carey', name: 'Danny Carey', reason: 'Sonor SQ2 Heavy Beech with Octobans — Tool\'s polyrhythmic complexity' }
@@ -50417,7 +50417,7 @@ While not tied to one of prog metal's most famous specific rigs, the Collector's
 
     // Featured drummers (issue template)
     featuredDrummers: [
-      { slug: 'mike-portnoy', name: 'Mike Portnoy', reason: 'Tama Starclassic Maple/Birch — Dream Theater\'s foundational prog metal sound' },
+      { slug: 'mike-portnoy', name: 'Mike Portnoy', reason: 'Tama Starclassic Maple + Bubinga "Dream Monster" dual kit — Dream Theater\'s foundational prog metal sound' },
       { slug: 'mike-mangini', name: 'Mike Mangini', reason: 'Pearl Reference Series with Roland SPD-SX hybrid integration' },
       { slug: 'gavin-harrison', name: 'Gavin Harrison', reason: 'Sonor SQ2 — touch and dynamic restraint for Porcupine Tree/King Crimson' },
       { slug: 'danny-carey', name: 'Danny Carey', reason: 'Sonor SQ2 Heavy Beech with Octobans — Tool\'s polyrhythmic complexity' }
@@ -50427,7 +50427,7 @@ While not tied to one of prog metal's most famous specific rigs, the Collector's
     faq: [
       {
         question: "What drum kit does Mike Portnoy use?",
-        answer: "Mike Portnoy plays a Tama Starclassic Maple/Birch hybrid kit, chosen for the tonal balance between maple's warmth and birch's articulate attack — the foundational sound behind Dream Theater's most celebrated albums, from Images and Words through Black Clouds & Silver Linings."
+        answer: "Mike Portnoy plays a dual side-by-side \"Dream Monster\" kit pairing a Tama Starclassic Maple shell with a Tama Starclassic Bubinga shell — the foundational sound behind Dream Theater's most celebrated albums, from Images and Words through Black Clouds & Silver Linings."
       },
       {
         question: "What drum kit does Danny Carey use?",
@@ -50435,7 +50435,7 @@ While not tied to one of prog metal's most famous specific rigs, the Collector's
       },
       {
         question: "Tama Starclassic vs Sonor SQ2 — which is better for progressive metal?",
-        answer: "Both are proven at the top of the genre. Tama Starclassic Maple/Birch (Mike Portnoy) offers balanced warmth and attack out of the box. Sonor SQ2 (Gavin Harrison, Danny Carey) is fully customizable, letting drummers with a precise tonal vision build toward either restrained touch playing or dense polyrhythmic complexity."
+        answer: "Both are proven at the top of the genre. Tama Starclassic Maple + Bubinga \"Dream Monster\" (Mike Portnoy) is a dual-shell kit offering two distinct tonal voices out of the box. Sonor SQ2 (Gavin Harrison, Danny Carey) is fully customizable, letting drummers with a precise tonal vision build toward either restrained touch playing or dense polyrhythmic complexity."
       },
       {
         question: "What drum kit does Mike Mangini use?",
@@ -50454,9 +50454,9 @@ While not tied to one of prog metal's most famous specific rigs, the Collector's
     // Conclusion
     conclusion: {
       title: "Choose Your Progressive Metal Platform",
-      content: `Progressive metal drum kits reward a clear tonal vision more than any other metal subgenre. Mike Portnoy found his in the balanced warmth of Tama's Starclassic Maple/Birch. Mike Mangini found his in Pearl Reference's sensitivity combined with modern electronics integration. Gavin Harrison and Danny Carey both found theirs in Sonor's SQ2 platform — from completely opposite directions.
+      content: `Progressive metal drum kits reward a clear tonal vision more than any other metal subgenre. Mike Portnoy found his in the dual side-by-side pairing of Tama's Starclassic Maple and Starclassic Bubinga. Mike Mangini found his in Pearl Reference's sensitivity combined with modern electronics integration. Gavin Harrison and Danny Carey both found theirs in Sonor's SQ2 platform — from completely opposite directions.
 
-That's the real lesson here: there's no single "correct" progressive metal kit, because the genre itself refuses to sit still. Start with a hybrid shell pack like the Starclassic for balanced versatility, and don't be afraid to add hybrid electronics — Roland pads and Mandala-style triggers are increasingly part of the modern prog metal vocabulary, not a compromise.
+That's the real lesson here: there's no single "correct" progressive metal kit, because the genre itself refuses to sit still. Start with a Starclassic-style shell pack for balanced versatility, and don't be afraid to add hybrid electronics — Roland pads and Mandala-style triggers are increasingly part of the modern prog metal vocabulary, not a compromise.
 
 Budget shouldn't hold you back either. A Pearl Export or Tama Imperialstar will build the dynamic control and technique this genre demands long before a custom SQ2 configuration becomes worth the investment.
 
@@ -80504,7 +80504,7 @@ Budget shouldn't stop you either. A Tama Imperialstar or Sonor Force 3007 steel 
       title: "Why Progressive Metal Demands a Versatile, Dynamically Responsive Snare",
       content: `Progressive metal's constantly shifting time signatures, dynamic extremes, and genre-blending arrangements ask more of a snare drum than almost any other metal subgenre. A single track can move from a delicate, jazz-influenced passage to a full-throttle odd-meter breakdown, and the snare has to sound musical and controlled at every point along that range — not just loud.
 
-Mike Mangini rotates between multiple Pearl Reference snare options — 14x5" and 14x6.5" brass — depending on which tonal character a given Dream Theater passage demands. Gavin Harrison keeps two signature Sonor snares in rotation, a 12x5" and a 14x5.25", switching between them for tighter or fuller backbeats depending on the material. Danny Carey's oversized 14x8" bronze signature Sonor snare, arc-mounted alongside his Octobans, gives Tool's low-end-heavy sound its distinctive weight. Mike Portnoy anchors his Tama Starclassic Maple/Birch kit with a dedicated signature snare built for the specific tonal needs of Dream Theater and Liquid Tension Experiment's most technically demanding material.
+Mike Mangini rotates between multiple Pearl Reference snare options — 14x5" and 14x6.5" brass — depending on which tonal character a given Dream Theater passage demands. Gavin Harrison keeps two signature Sonor snares in rotation, a 12x5" and a 14x5.25", switching between them for tighter or fuller backbeats depending on the material. Danny Carey's oversized 14x8" bronze signature Sonor snare, arc-mounted alongside his Octobans, gives Tool's low-end-heavy sound its distinctive weight. Mike Portnoy anchors his dual side-by-side Tama Starclassic Maple + Bubinga "Dream Monster" kit with his Tama Mike Portnoy Signature "Melody Master" 14"x5.5" snare, built for the specific tonal needs of Dream Theater and Liquid Tension Experiment's most technically demanding material.
 
 This guide breaks down shell material, depth, and rotation strategy for progressive metal snares — comparing four drummers whose setups define the genre's commitment to dynamic range and tonal versatility, with recommendations from budget to professional touring rigs.`,
       keyPoints: [
@@ -80684,41 +80684,39 @@ Paired with his Sonor SQ2 Heavy Beech kit, Carey's snare choice shows how an ove
         },
         {
           rank: 4,
-          name: "Tama Starclassic Maple",
+          name: "Tama Mike Portnoy Signature \"Melody Master\"",
           brand: "Tama",
-          model: "Starclassic Maple 14\"x6.5\"",
+          model: "Mike Portnoy Signature \"Melody Master\" 14\"x5.5\"",
           image: "https://upload.wikimedia.org/wikipedia/commons/a/ac/Drums_01.jpg",
           priceRange: "€350-460",
           tier: "pro",
-          material: "Maple (14x6.5\")",
+          material: "Signature shell (14x5.5\")",
 
-          description: `Mike Portnoy anchors his Tama Starclassic Maple/Birch kit with a matching Starclassic Maple 14"x6.5" snare, a warm, musical tone built for the specific tonal needs of Dream Theater and Liquid Tension Experiment's most technically demanding material. The maple shell delivers a fuller, more musical voice than the brighter brass and steel shells favored elsewhere in this guide.
+          description: `Mike Portnoy anchors his dual side-by-side Tama Starclassic Maple + Bubinga "Dream Monster" kit with his own Tama Mike Portnoy Signature "Melody Master" 14"x5.5" snare, built for the specific tonal needs of Dream Theater and Liquid Tension Experiment's most technically demanding material.
 
-Portnoy's dedicated signature-style setup, matched across kit and snare, reflects progressive metal's broader philosophy that a snare should serve the specific compositional character of a drummer's primary project.`,
+Portnoy's dedicated signature setup, matched across kit and snare, reflects progressive metal's broader philosophy that a snare should serve the specific compositional character of a drummer's primary project.`,
 
           pros: [
-            "Mike Portnoy's Dream Theater/Liquid Tension Experiment setup — warm, musical tonal match to his Starclassic kit",
-            "Maple shell delivers fuller, more musical tone than brighter alternatives",
-            "6.5\" depth suits both technical precision and fuller backbeats",
+            "Mike Portnoy's Dream Theater/Liquid Tension Experiment signature snare",
+            "14x5.5\" sizing built to his own specification",
             "Proven across decades of progressive metal's most acclaimed recordings",
-            "Starclassic series known for exceptional build quality"
+            "Tama Starclassic-series build quality"
           ],
           cons: [
-            "Less bright and cutting than brass or steel alternatives",
-            "Requires a mix that can accommodate a warmer snare voice",
-            "Premium Starclassic-series pricing"
+            "Signature pricing",
+            "Tonal character built specifically around Portnoy's own setup"
           ],
           specs: {
-            shell: "Maple (Starclassic)",
+            shell: "Signature (Starclassic)",
             diameter: "14\"",
-            depth: "6.5\"",
+            depth: "5.5\"",
             throwOff: "Tama MTS-100",
             wires: "20-strand"
           },
           usedBy: [
-            { name: "Mike Portnoy", band: "Dream Theater / Liquid Tension Experiment", note: "14x6.5\" Tama Starclassic Maple — warm, musical tonal match to his kit" }
+            { name: "Mike Portnoy", band: "Dream Theater / Liquid Tension Experiment", note: "14x5.5\" Tama Signature \"Melody Master\" — his dedicated signature snare" }
           ],
-          verdict: "Best for warm, musical tone matched to a Starclassic kit. A dedicated setup for technically demanding material.",
+          verdict: "Best for drummers who want Portnoy's own signature setup. A dedicated snare built to his exact specification.",
           rating: 4.4,
           affiliateLink: "https://www.thomann.de/intl/tama_starclassic_maple_snare.htm?partner_id=metalforge"
         }
@@ -80751,10 +80749,10 @@ Portnoy's dedicated signature-style setup, matched across kit and snare, reflect
           priceRange: "€90-140",
           tier: "budget",
           material: "Maple",
-          description: "A budget entry into the same Tama family that anchors Mike Portnoy's Starclassic setup, offering a warm, musical tone at an accessible price for developing progressive metal drummers.",
+          description: "A budget entry into the same Tama family that anchors Mike Portnoy's signature setup, offering a warm, musical tone at an accessible price for developing progressive metal drummers.",
           pros: ["Same Tama family DNA as Portnoy's professional setup", "Warm, musical maple tone", "Budget-friendly pricing", "Durable Tama construction"],
           cons: ["Less refined projection than Starclassic-series shells", "Basic hardware and hoops"],
-          verdict: "Best budget path toward Portnoy's warm Tama sound.",
+          verdict: "Best budget path toward Portnoy's Tama sound.",
           rating: 4.0,
           affiliateLink: "https://www.thomann.de/intl/tama_imperialstar_maple_snare.htm?partner_id=metalforge"
         }
@@ -80827,7 +80825,7 @@ Portnoy's dedicated signature-style setup, matched across kit and snare, reflect
       { slug: 'mike-mangini', name: 'Mike Mangini', reason: 'Pearl Reference Brass — Dream Theater per-passage rotation' },
       { slug: 'gavin-harrison', name: 'Gavin Harrison', reason: 'Sonor Signature — Porcupine Tree/King Crimson dual-snare precision' },
       { slug: 'danny-carey', name: 'Danny Carey', reason: 'Sonor Signature Bronze — Tool atmospheric low-end weight' },
-      { slug: 'mike-portnoy', name: 'Mike Portnoy', reason: 'Tama Starclassic Maple — Dream Theater warm, musical tone' }
+      { slug: 'mike-portnoy', name: 'Mike Portnoy', reason: 'Tama Signature "Melody Master" 14x5.5" — Dream Theater\'s dedicated signature snare' }
     ],
 
     // Featured drummers (issue template)
@@ -80835,14 +80833,14 @@ Portnoy's dedicated signature-style setup, matched across kit and snare, reflect
       { slug: 'mike-mangini', name: 'Mike Mangini', reason: 'Pearl Reference Brass — Dream Theater per-passage rotation' },
       { slug: 'gavin-harrison', name: 'Gavin Harrison', reason: 'Sonor Signature — Porcupine Tree/King Crimson dual-snare precision' },
       { slug: 'danny-carey', name: 'Danny Carey', reason: 'Sonor Signature Bronze — Tool atmospheric low-end weight' },
-      { slug: 'mike-portnoy', name: 'Mike Portnoy', reason: 'Tama Starclassic Maple — Dream Theater warm, musical tone' }
+      { slug: 'mike-portnoy', name: 'Mike Portnoy', reason: 'Tama Signature "Melody Master" 14x5.5" — Dream Theater\'s dedicated signature snare' }
     ],
 
     // FAQ section for SEO
     faq: [
       {
         question: "Who are the best progressive metal drummers and what snares do they use?",
-        answer: "Mike Mangini of Dream Theater rotates between 14x5\" and 14x6.5\" brass Pearl Reference snares, Gavin Harrison of Porcupine Tree and King Crimson keeps a 12x5\" and 14x5.25\" signature Sonor pair in rotation, Danny Carey of Tool plays an oversized 14x8\" bronze signature Sonor snare, and Mike Portnoy plays a Tama Starclassic Maple snare matched to his kit."
+        answer: "Mike Mangini of Dream Theater rotates between 14x5\" and 14x6.5\" brass Pearl Reference snares, Gavin Harrison of Porcupine Tree and King Crimson keeps a 12x5\" and 14x5.25\" signature Sonor pair in rotation, Danny Carey of Tool plays an oversized 14x8\" bronze signature Sonor snare, and Mike Portnoy plays his own Tama Signature \"Melody Master\" 14x5.5\" snare."
       },
       {
         question: "What snare drum does Mike Mangini use?",
@@ -80865,7 +80863,7 @@ Portnoy's dedicated signature-style setup, matched across kit and snare, reflect
     // Conclusion
     conclusion: {
       title: "Find Your Progressive Metal Snare Voice",
-      content: `Progressive metal snare choice comes down to how much dynamic and tonal range your material demands — and whether one snare can cover it or you need a rotation. Mike Mangini's multi-depth Pearl Reference rotation gives Dream Theater exact per-passage tonal matching. Gavin Harrison's two-snare Sonor Signature setup proves a tight rotation strategy can serve Porcupine Tree and King Crimson's constantly shifting material. Danny Carey's oversized bronze signature snare shows how an unconventional shell can become a defining sonic signature in its own right, while Mike Portnoy's warm, matched Tama Starclassic Maple snare demonstrates the value of a single, musically consistent voice.
+      content: `Progressive metal snare choice comes down to how much dynamic and tonal range your material demands — and whether one snare can cover it or you need a rotation. Mike Mangini's multi-depth Pearl Reference rotation gives Dream Theater exact per-passage tonal matching. Gavin Harrison's two-snare Sonor Signature setup proves a tight rotation strategy can serve Porcupine Tree and King Crimson's constantly shifting material. Danny Carey's oversized bronze signature snare shows how an unconventional shell can become a defining sonic signature in its own right, while Mike Portnoy's dedicated Tama Signature "Melody Master" snare demonstrates the value of a single, musically consistent voice.
 
 None of these approaches is more "correct" — all four represent progressive metal's foundational commitment to dynamic range and tonal versatility across constantly shifting compositions. Start with whichever strategy matches your material's demands, and don't be afraid to add a second snare once your dynamic range justifies it.
 
@@ -94432,7 +94430,7 @@ That matters enormously for a drummer whose material moves constantly between od
           tier: "pro",
           driveType: "Chain (Power Glide / Rolling Glide)",
 
-          description: `Mike Portnoy has anchored his Tama Starclassic Maple/Birch kit with a Tama Iron Cobra across Dream Theater's classic era, Liquid Tension Experiment, and The Winery Dogs — three decades of some of the most technically demanding double bass writing in metal. The dual cam system (Power Glide and Rolling Glide) lets him dial in either consistent linear response or progressive acceleration depending on the specific passage.
+          description: `Mike Portnoy has anchored his dual side-by-side Tama Starclassic Maple + Bubinga "Dream Monster" kit with a Tama Iron Cobra across Dream Theater's classic era, Liquid Tension Experiment, and The Winery Dogs — three decades of some of the most technically demanding double bass writing in metal. The dual cam system (Power Glide and Rolling Glide) lets him dial in either consistent linear response or progressive acceleration depending on the specific passage.
 
 Portnoy's longevity on this single pedal design, across a career built on constantly shifting time signatures and dense double bass patterns, is itself the strongest evidence for the Iron Cobra's reliability at the professional level.`,
 

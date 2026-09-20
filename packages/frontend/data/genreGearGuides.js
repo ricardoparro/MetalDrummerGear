@@ -9051,7 +9051,7 @@ Whichever path you choose, tune lower than other metal subgenres would suggest, 
       title: "Why the Snare Is the Most Critical Metal Drum",
       content: `The snare drum is the backbone of every metal performance. It cuts through the mix on the backbeat, drives the energy of your fills, and — in metal — must crack with enough authority to slice through dense guitar walls and high-gain amplification. A weak snare sounds buried; a great metal snare sounds like a gunshot.
 
-Metal's most recognizable snare sounds are inseparable from the drummers who created them. Lars Ulrich's cracking Tama snare defined thrash metal's punch across Metallica's catalog. Joey Jordison's Pearl Free-Floating snare was central to Slipknot's aggressive nu-metal attack. Gene Hoglan's precisely tuned Pearl delivered The Atomic Clock's metronomic precision. Tomas Haake anchors Meshuggah's polyrhythmic djent patterns with his Sonor Tomas Haake Signature 14x6.5" snare.
+Metal's most recognizable snare sounds are inseparable from the drummers who created them. Lars Ulrich's cracking Tama snare defined thrash metal's punch across Metallica's catalog. Joey Jordison's Pearl signature snare — a 13"x6.5" steel shell with a blood-splatter finish — was central to Slipknot's aggressive nu-metal attack. Gene Hoglan's precisely tuned Pearl delivered The Atomic Clock's metronomic precision. Tomas Haake anchors Meshuggah's polyrhythmic djent patterns with his Sonor Tomas Haake Signature 14x6.5" snare.
 
 The right metal snare depends on your subgenre, tuning preference, and whether you need cutting brightness or thunderous depth. This guide breaks down the key choices across all price ranges, citing the exact snares used by the genre's top players.`,
       keyPoints: [
@@ -9151,43 +9151,42 @@ The steel shell delivers a brighter, harder-edged attack than brass alternatives
         },
         {
           rank: 2,
-          name: "Pearl Free-Floating Steel",
+          name: "Pearl Joey Jordison Signature Snare",
           brand: "Pearl",
-          model: "Free-Floating Steel",
+          model: "Joey Jordison Signature 13x6.5\"",
           image: "https://upload.wikimedia.org/wikipedia/commons/a/ac/Drums_01.jpg",
-          priceRange: "€350-550",
+          priceRange: "€400-500",
           tier: "pro",
-          material: "Steel (Free-Floating)",
+          material: "Steel",
 
-          description: `The Pearl Free-Floating snare design revolutionized metal snare performance. By suspending the shell from its own flanges rather than attaching lugs, Pearl eliminated the shell dampening that traditional lug-mounted snares suffer. The result: more sustain, better sensitivity, and dramatically improved ghost note response.
+          description: `The Pearl Joey Jordison Signature Snare is Jordison's actual signature model — a 13"x6.5" steel shell finished in his distinctive blood-splatter graphic. The smaller 13" diameter (versus the standard 14") gives faster response and a tighter, more aggressive crack, built for the sustained blast beats and rapid-fire fills that defined Slipknot's attack.
 
-Joey Jordison used Pearl Free-Floating snares as the foundation of Slipknot's aggressive snare sound — the pure steel shell delivering cutting brightness at high tunings that sliced through the band's wall-of-sound production. The steel shell's bright, cutting character makes it ideal when you need the snare to dominate the mix.`,
+Jordison was a Pearl Drums endorser for most of his career, and this signature snare anchored his sound from the "Vol. 3" era onward — a compact shell built to cut through Slipknot's wall-of-sound production at extreme tempos.`,
 
           pros: [
-            "Free-floating design maximizes resonance and sensitivity",
-            "Pure steel shell — bright, cutting, and aggressive",
-            "Joey Jordison's choice — Slipknot's defining snare attack",
-            "Better ghost note sensitivity than lug-mounted alternatives"
+            "Joey Jordison's actual signature model — Slipknot's defining snare attack",
+            "13\" diameter delivers faster response than standard 14\" snares",
+            "Steel shell — bright, cutting, and aggressive",
+            "Distinctive blood-splatter finish"
           ],
           cons: [
-            "Free-floating system requires careful tensioning",
+            "Smaller 13\" diameter has less body than standard 14\" snares",
             "Steel can be harsh at very low tunings",
-            "Less warm than brass alternatives"
+            "Signature model pricing"
           ],
           specs: {
-            shell: "Steel (Free-Floating)",
-            diameter: "14\"",
-            depth: "5.5\"",
-            throwOff: "Uni-Lock Free-Floating",
+            shell: "Steel",
+            diameter: "13\"",
+            depth: "6.5\"",
+            throwOff: "Pearl Uni-Lock",
             wires: "20-strand"
           },
           usedBy: [
-            { name: "Joey Jordison", band: "Slipknot", note: "Pearl snare endorser; defining nu/extreme metal snare crack" },
-            { name: "George Kollias", band: "Nile", note: "Pearl endorser; fastest feet use Pearl snares too" }
+            { name: "Joey Jordison", band: "Slipknot", note: "Actual signature snare since the Vol. 3 era; blood-splatter finish" }
           ],
-          verdict: "Best steel snare for extreme metal. Free-floating design gives maximum resonance — Jordison approved.",
+          verdict: "The authentic Slipknot snare. Joey Jordison's real signature model — 13\" steel shell built for speed and aggression.",
           rating: 4.8,
-          affiliateLink: "https://www.thomann.de/intl/pearl_free_floating_steel.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/pearl_joey_jordison_signature_snare.htm?partner_id=metalforge"
         },
         {
           rank: 3,
@@ -9349,7 +9348,7 @@ This is the snare for metal drummers who need one drum to work across multiple s
       title: "Steel vs Brass vs Aluminum for Metal Snares",
       content: `Shell material is the single most important snare decision for metal drummers. Here's how each choice sounds:
 
-**Steel (Tama LU1465, Pearl Free-Floating, DW Collector's Steel):**
+**Steel (Tama LU1465, Pearl Joey Jordison Signature, DW Collector's Steel):**
 - Bright, cutting, aggressive attack
 - Less warmth than brass but more projection
 - Preferred by: Lars Ulrich, Joey Jordison
@@ -9367,7 +9366,7 @@ This is the snare for metal drummers who need one drum to work across multiple s
 - Preferred by: Studio specialists and versatile players
 - Best for: Recording, mixed genres, technical applications
 
-**The Truth:** Material preference is personal. Lars Ulrich gets his defining Metallica snare tone from the steel Tama LU1465. Joey Jordison anchors Slipknot's aggressive attack with steel too, on the Pearl Free-Floating. Both prove steel's cutting power at the highest level. Brass remains a strong alternative for drummers chasing extra warmth and complexity in groove metal and metalcore.
+**The Truth:** Material preference is personal. Lars Ulrich gets his defining Metallica snare tone from the steel Tama LU1465. Joey Jordison anchors Slipknot's aggressive attack with steel too, on his Pearl Joey Jordison Signature snare. Both prove steel's cutting power at the highest level. Brass remains a strong alternative for drummers chasing extra warmth and complexity in groove metal and metalcore.
 
 **Our Recommendation:** Start with steel (Pearl Sensitone or Ludwig Black Beauty) for maximum versatility in metal. Add a brass option when your budget and needs expand.`,
       comparisonTable: [
@@ -9390,8 +9389,8 @@ This is the snare for metal drummers who need one drum to work across multiple s
         },
         {
           category: "Best for Extreme Metal",
-          pedal: "Pearl Free-Floating Steel",
-          reason: "Joey Jordison's choice. Free-floating design maximizes steel brightness and ghost note sensitivity."
+          pedal: "Pearl Joey Jordison Signature Snare",
+          reason: "Joey Jordison's actual signature snare. 13\" steel shell delivers speed and cutting brightness."
         },
         {
           category: "Best for Technical Precision",
@@ -9414,14 +9413,14 @@ This is the snare for metal drummers who need one drum to work across multiple s
     ],
     relatedDrummers: [
       { slug: 'lars-ulrich', name: 'Lars Ulrich', reason: 'Tama LU1465 Signature Snare — defining thrash metal snare sound' },
-      { slug: 'joey-jordison', name: 'Joey Jordison', reason: 'Pearl Free-Floating Steel — Slipknot\'s aggressive snare attack' },
+      { slug: 'joey-jordison', name: 'Joey Jordison', reason: 'Pearl Joey Jordison Signature Snare — Slipknot\'s aggressive snare attack' },
       { slug: 'gene-hoglan', name: 'Gene Hoglan', reason: 'Pearl snare — The Atomic Clock\'s precision' }
     ],
 
     // Featured drummers (issue template)
     featuredDrummers: [
       { slug: 'lars-ulrich', name: 'Lars Ulrich', reason: 'Tama LU1465 Signature Snare — the definitive metal crack' },
-      { slug: 'joey-jordison', name: 'Joey Jordison', reason: 'Pearl Free-Floating Steel — Slipknot nu/extreme metal snare' },
+      { slug: 'joey-jordison', name: 'Joey Jordison', reason: 'Pearl Joey Jordison Signature Snare — Slipknot nu/extreme metal snare' },
       { slug: 'tomas-haake', name: 'Tomas Haake', reason: 'Sonor Tomas Haake Signature 14x6.5" — Meshuggah djent snare precision' },
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Pearl endorser — death metal snare at extreme speeds' }
     ],
@@ -9438,7 +9437,7 @@ This is the snare for metal drummers who need one drum to work across multiple s
       },
       {
         question: "Is steel or brass better for metal snare drums?",
-        answer: "Both work at the highest levels of metal — Lars Ulrich (steel Tama LU1465) and Joey Jordison (steel Pearl Free-Floating) prove steel's cutting power at the top level. Steel gives brighter, more cutting attack — preferred in thrash, technical metal, djent, and extreme metal. Brass delivers warmer, more complex crack — a strong choice in groove metal and metalcore. Steel is more common across modern metal; brass remains the pick for drummers chasing extra warmth."
+        answer: "Both work at the highest levels of metal — Lars Ulrich (steel Tama LU1465) and Joey Jordison (steel Pearl Joey Jordison Signature) prove steel's cutting power at the top level. Steel gives brighter, more cutting attack — preferred in thrash, technical metal, djent, and extreme metal. Brass delivers warmer, more complex crack — a strong choice in groove metal and metalcore. Steel is more common across modern metal; brass remains the pick for drummers chasing extra warmth."
       },
       {
         question: "What is a free-floating snare drum?",
@@ -9457,11 +9456,11 @@ This is the snare for metal drummers who need one drum to work across multiple s
     // Conclusion
     conclusion: {
       title: "Find Your Metal Snare Voice",
-      content: `Every great metal drummer has found their snare voice — the specific crack that audiences recognize and that defines their sound in the mix. Lars Ulrich found it in the Tama LU1465. Joey Jordison found it in Pearl's Free-Floating steel. Tomas Haake found it in Sonor's signature engineering precision.
+      content: `Every great metal drummer has found their snare voice — the specific crack that audiences recognize and that defines their sound in the mix. Lars Ulrich found it in the Tama LU1465. Joey Jordison found it in his own signature Pearl steel snare. Tomas Haake found it in Sonor's signature engineering precision.
 
-Your snare voice is out there. Start with steel for versatility and budget efficiency — the Pearl Sensitone or Ludwig Acrolite give you genuine professional response without flagship pricing. Upgrade to the Black Beauty when you're chasing that brass thunder, or to the Pearl Free-Floating when you need the ultimate in steel precision.
+Your snare voice is out there. Start with steel for versatility and budget efficiency — the Pearl Sensitone or Ludwig Acrolite give you genuine professional response without flagship pricing. Upgrade to the Black Beauty when you're chasing that brass thunder, or to the Pearl Joey Jordison Signature when you need the ultimate in steel precision.
 
-One overlooked factor: tuning and head selection will transform any good snare drum. A Pearl Free-Floating with Evans HD Dry and proper tuning will outlast and outperform a Black Beauty with worn heads and improper tension. Invest time in learning to tune your snare before investing in a more expensive model.
+One overlooked factor: tuning and head selection will transform any good snare drum. A Pearl Joey Jordison Signature with Evans HD Dry and proper tuning will outlast and outperform a Black Beauty with worn heads and improper tension. Invest time in learning to tune your snare before investing in a more expensive model.
 
 The snare is your musical signature. Choose wisely.
 
@@ -13431,7 +13430,7 @@ Upgrade the heads immediately — Remo or Evans batter heads transform the Expor
     faq: [
       {
         question: "What drum kit does George Kollias use?",
-        answer: "George Kollias uses Pearl Reference Pure drums as his primary kit for Nile. The thin 6-ply maple shells deliver exceptional sensitivity and resonance — critical for a drummer who sustains 280 BPM 16th-note patterns while maintaining tonal clarity. Kollias also uses Pearl Free-Floating snare drums and Pearl hardware throughout his setup."
+        answer: "George Kollias uses Pearl Reference Pure drums as his primary kit for Nile. The thin 6-ply maple shells deliver exceptional sensitivity and resonance — critical for a drummer who sustains 280 BPM 16th-note patterns while maintaining tonal clarity. Pearl hardware rounds out his setup."
       },
       {
         question: "What drum kit does Flo Mounier use?",
@@ -13477,7 +13476,7 @@ Whatever you choose: tune it properly, replace heads regularly, and lock down th
     // SEO metadata
     title: "Best Snare Drums for Death Metal: 2026 Expert Guide",
     metaTitle: "Best Snare Drums for Death Metal 2026 | MetalForge Expert Guide",
-    description: "Best snare drums for death metal. What George Kollias (Pearl Free-Floating) and Flo Mounier (Pearl/DW) actually use — Pearl Free-Floating, Ludwig Acrolite, Pork Pie Little Squealer, DW Collector's Steel reviewed.",
+    description: "Best snare drums for death metal. What George Kollias (Pearl) and Flo Mounier (Pearl/DW) actually use — Pearl Sensitone, Ludwig Acrolite, Pork Pie Little Squealer, DW Collector's Steel reviewed.",
     seoKeywords: [
       'best snare drums for death metal',
       'death metal snare drum',
@@ -13514,12 +13513,12 @@ Whatever you choose: tune it properly, replace heads regularly, and lock down th
       title: "The Death Metal Snare: Sensitivity, Speed, and Brutal Crack",
       content: `The snare drum is the defining voice of death metal drumming. Every blast beat, every backbeat, every snare fill that cuts through downtuned guitar walls originates here. Death metal's specific demands — extreme tempos (180–280 BPM), ghost note sensitivity for technical patterns, and a crack that remains audible in the densest sonic environments — make snare selection a critical decision with real sonic consequences.
 
-George Kollias, the world's fastest recorded drummer, uses Pearl Free-Floating snare drums. The free-floating design — where the shell is suspended from its own flanges rather than attached to traditional lugs — eliminates shell dampening and maximizes resonance and sensitivity. At 280 BPM, every millisecond of response time matters. Flo Mounier (Cryptopsy) similarly prioritizes snare sensitivity for his technically advanced death metal patterns, which blend extreme speed with ghost note articulation. Gene Hoglan ("The Atomic Clock") relies on a precisely tuned Pearl snare for the consistent, repeatable response his metronomic approach demands.
+George Kollias, the world's fastest recorded drummer, is a longtime Pearl drums endorser. Free-floating snare designs — where the shell is suspended from its own flanges rather than attached to traditional lugs — eliminate shell dampening and maximize resonance and sensitivity, an advantage where every millisecond of response time matters at extreme tempos. Flo Mounier (Cryptopsy) similarly prioritizes snare sensitivity for his technically advanced death metal patterns, which blend extreme speed with ghost note articulation. Gene Hoglan ("The Atomic Clock") relies on a precisely tuned Pearl snare for the consistent, repeatable response his metronomic approach demands.
 
 This guide breaks down what actually makes a snare drum work for death metal, which specific models the legends use, and concrete recommendations from budget to pro.`,
       keyPoints: [
         "Death metal snares demand sensitivity for ghost notes at extreme tempos",
-        "George Kollias's Pearl Free-Floating maximizes resonance by eliminating lug dampening",
+        "Free-floating snare mounts maximize resonance by eliminating lug dampening",
         "Snare diameter: 13\" or 14\" — 13\" responds faster; 14\" projects more",
         "Steel shells dominate death metal — bright, cutting crack that projects in dense mixes"
       ]
@@ -13550,7 +13549,7 @@ This guide breaks down what actually makes a snare drum work for death metal, wh
         {
           name: "Shell Diameter",
           icon: "⭕",
-          description: "13\" snares respond faster than 14\" due to reduced shell area and mass. George Kollias uses 13\" Pearl Free-Floating for his extreme-speed blast beat work. Standard 14\" projects more volume and authority. For pure death metal speed, 13\" has real advantages. For live situations where volume matters, 14\" is more reliable.",
+          description: "13\" snares respond faster than 14\" due to reduced shell area and mass — many extreme-speed blast beat specialists favor the smaller diameter for exactly this reason. Standard 14\" projects more volume and authority. For pure death metal speed, 13\" has real advantages. For live situations where volume matters, 14\" is more reliable.",
           recommendation: "13\" for extreme speed and sensitivity; 14\" for standard death metal versatility"
         },
         {
@@ -13582,12 +13581,11 @@ This guide breaks down what actually makes a snare drum work for death metal, wh
           tier: "pro",
           material: "Brass",
 
-          description: `George Kollias's Pearl Free-Floating snare is the death metal benchmark. The free-floating system — where the shell is suspended from its own integrated flanges rather than from external lug casings — eliminates the shell dampening that traditional lug mounts create. This maximizes the shell's natural resonance, producing superior sensitivity and a faster, more responsive feel.
+          description: `The Pearl Sensitone Premium Free-Floating brass snare is a death metal benchmark for drummers chasing extreme blast-beat speed. The free-floating system — where the shell is suspended from its own integrated flanges rather than from external lug casings — eliminates the shell dampening that traditional lug mounts create. This maximizes the shell's natural resonance, producing superior sensitivity and a faster, more responsive feel.
 
-At 280 BPM blast beats, Kollias needs a snare that fires instantly on every stroke without accumulated dampening from the mounting system affecting response. The brass shell adds a layer of warmth to the crack that keeps the snare musical even at extreme tempos. The Pearl Free-Floating's sensitivity also makes ghost notes and technique transitions more audible and controlled — essential for the technical death metal approach Kollias employs within Nile's brutal framework.`,
+At 280 BPM blast beats, drummers need a snare that fires instantly on every stroke without accumulated dampening from the mounting system affecting response. The brass shell adds a layer of warmth to the crack that keeps the snare musical even at extreme tempos. The free-floating design's sensitivity also makes ghost notes and technique transitions more audible and controlled — essential for technical death metal drumming.`,
 
           pros: [
-            "George Kollias's snare — the world's fastest drummer's choice",
             "Free-floating system eliminates lug dampening for maximum resonance",
             "Brass shell adds warmth and complexity to the crack",
             "Exceptional sensitivity for ghost notes at extreme tempos",
@@ -13605,10 +13603,7 @@ At 280 BPM blast beats, Kollias needs a snare that fires instantly on every stro
             throwOff: "Pearl P-32 Free-Floating",
             wires: "20-strand"
           },
-          usedBy: [
-            { name: "George Kollias", band: "Nile", note: "Pearl Free-Floating — blast beat performance at 280 BPM" }
-          ],
-          verdict: "The death metal snare standard. George Kollias built his speed record on Pearl Free-Floating. Maximum sensitivity for extreme tempos.",
+          verdict: "The death metal snare standard for blast-beat sensitivity. Free-floating brass maximizes resonance at extreme tempos.",
           rating: 4.9,
           affiliateLink: "https://www.thomann.de/intl/pearl_sensitone_premium_free_floating.htm?partner_id=metalforge"
         },
@@ -13622,9 +13617,9 @@ At 280 BPM blast beats, Kollias needs a snare that fires instantly on every stro
           tier: "pro",
           material: "Steel",
 
-          description: `The 14\" steel version of Pearl's Free-Floating system delivers the same lug-free resonance advantage with the brighter, more aggressive character of steel. Where the brass Free-Floating gives Kollias a controlled, warm crack at 280 BPM, the steel version projects more aggressively — cutting through dense death metal mixes with a bright, authoritative snap.
+          description: `The 14\" steel version of Pearl's Free-Floating system delivers the same lug-free resonance advantage with the brighter, more aggressive character of steel. Where the brass Free-Floating gives a controlled, warm crack at 280 BPM, the steel version projects more aggressively — cutting through dense death metal mixes with a bright, authoritative snap.
 
-For death metal drummers who want maximum brightness and projection over the warmth of brass, the steel Free-Floating is the professional choice. Pete Sandoval (Morbid Angel) used Pearl equipment and prioritized the bright, cutting snare sound that characterizes Morbid Angel's snare attack. The standard 14\" diameter provides more volume and authority than 13\" for live situations.`,
+For death metal drummers who want maximum brightness and projection over the warmth of brass, the steel Free-Floating is the professional choice. Pete Sandoval (Morbid Angel) built his hyper-blast death metal sound on ddrum equipment (a brand relationship dating to 1989; the specific series is unconfirmed). The standard 14\" diameter provides more volume and authority than 13\" for live situations.`,
 
           pros: [
             "Pearl Free-Floating system — maximum resonance and sensitivity",
@@ -13645,9 +13640,6 @@ For death metal drummers who want maximum brightness and projection over the war
             throwOff: "Pearl P-32 Free-Floating",
             wires: "20-strand"
           },
-          usedBy: [
-            { name: "Pete Sandoval", band: "Morbid Angel", note: "Pearl equipment — hyper-blast death metal crack" }
-          ],
           verdict: "Maximum projection death metal snare. Steel Free-Floating brightness for extreme metal live performance.",
           rating: 4.8,
           affiliateLink: "https://www.thomann.de/intl/pearl_sensitone_elite_free_floating_steel.htm?partner_id=metalforge"
@@ -13815,13 +13807,13 @@ Flo Mounier has referenced Ludwig equipment at various career stages. The Acroli
 **Steel (Pearl Free-Floating Steel, DW Collector's Steel):**
 - Bright, cutting, aggressive attack
 - Maximum projection through dense death metal mixes
-- Preferred by: Pete Sandoval
+- Preferred by: Death metal drummers prioritizing raw cutting power
 - Best for: Death metal projection; live volume situations
 
 **Brass (Pearl Free-Floating Brass):**
 - Warm crack with complex overtones — musical even at 280 BPM
 - Slightly less cutting than steel but more character
-- Preferred by: George Kollias
+- Preferred by: Technical death metal drummers chasing extra warmth
 - Best for: Technical death metal; studio recording; long-form playing
 
 **Aluminum (Ludwig Acrolite):**
@@ -13830,7 +13822,7 @@ Flo Mounier has referenced Ludwig equipment at various career stages. The Acroli
 - Preferred by: Technical death metal players, studio specialists
 - Best for: Blast beats requiring fast response; technical pattern drumming
 
-**The Truth:** George Kollias reaches 280 BPM on a brass Pearl Free-Floating. Pete Sandoval drove Morbid Angel's hyper-blast drumming with steel. Both material choices work at the genre's extreme limits. Steel gives more cutting brightness; brass gives more musical character and warmth.
+**The Truth:** Material preference isn't tied to one drummer's specific rig — both brass and steel snares hold up at the genre's extreme tempo limits. Steel gives more cutting brightness; brass gives more musical character and warmth. George Kollias, a longtime Pearl endorser, reaches 280 BPM regardless of material choice; Pete Sandoval built Morbid Angel's hyper-blast drumming on ddrum equipment (specific series unconfirmed).
 
 **Our Recommendation:** Start with steel (Pearl Sensitone or DW Collector's) for maximum versatility in death metal. The cutting brightness serves both live and recording environments effectively.`,
       comparisonTable: [
@@ -13849,7 +13841,7 @@ Flo Mounier has referenced Ludwig equipment at various career stages. The Acroli
         {
           category: "Best Overall",
           pedal: "Pearl Free-Floating Brass 13\"",
-          reason: "George Kollias's snare. Free-floating sensitivity plus brass warmth for blast beats at 280 BPM."
+          reason: "Free-floating sensitivity plus brass warmth — built for blast beats at 280 BPM and beyond."
         },
         {
           category: "Best for Projection",
@@ -13876,25 +13868,25 @@ Flo Mounier has referenced Ludwig equipment at various career stages. The Acroli
       'best-cymbals-for-death-metal'
     ],
     relatedDrummers: [
-      { slug: 'george-kollias', name: 'George Kollias', reason: 'Pearl Free-Floating brass — 280 BPM blast beat snare' },
+      { slug: 'george-kollias', name: 'George Kollias', reason: 'Pearl snare endorser — 280 BPM blast beat speed' },
       { slug: 'flo-mounier', name: 'Flo Mounier', reason: 'Technical death metal snare sensitivity — Cryptopsy\'s brutal precision' },
       { slug: 'gene-hoglan', name: 'Gene Hoglan', reason: 'Precisely tuned Pearl snare — The Atomic Clock\'s metronomic precision' },
-      { slug: 'pete-sandoval', name: 'Pete Sandoval', reason: 'Pearl Steel — Morbid Angel hyper-blast death metal crack' }
+      { slug: 'pete-sandoval', name: 'Pete Sandoval', reason: 'ddrum — Morbid Angel hyper-blast death metal pioneer' }
     ],
 
     // Featured drummers (issue template)
     featuredDrummers: [
-      { slug: 'george-kollias', name: 'George Kollias', reason: 'Pearl Free-Floating brass 13\" — world record blast beat snare' },
+      { slug: 'george-kollias', name: 'George Kollias', reason: 'Pearl snare endorser — world record blast beat snare speed' },
       { slug: 'flo-mounier', name: 'Flo Mounier', reason: 'Technical death metal snare sensitivity — Cryptopsy\'s 270 BPM precision' },
       { slug: 'gene-hoglan', name: 'Gene Hoglan', reason: 'Precisely tuned Pearl snare — The Atomic Clock\'s precision instrument' },
-      { slug: 'pete-sandoval', name: 'Pete Sandoval', reason: 'Pearl Steel — Morbid Angel hyper-blast death metal pioneer' }
+      { slug: 'pete-sandoval', name: 'Pete Sandoval', reason: 'ddrum — Morbid Angel hyper-blast death metal pioneer' }
     ],
 
     // FAQ section for SEO
     faq: [
       {
         question: "What snare drum does George Kollias use?",
-        answer: "George Kollias uses Pearl Free-Floating snare drums, specifically 13\" brass models for his most demanding Nile performances. The free-floating system — where the shell is suspended from its own flanges — eliminates lug dampening and maximizes shell resonance and sensitivity. At 280 BPM blast beats, this sensitivity and response advantage is not theoretical; it directly affects how consistently each stroke fires."
+        answer: "George Kollias is a longtime Pearl drums endorser (Pearl Masterworks Series), though Pearl hasn't publicly documented his specific snare model. At 280 BPM blast beats, free-floating snare designs offer a real sensitivity and response advantage — eliminating the lug dampening that can affect how consistently each stroke fires — which is why many extreme-speed drummers gravitate toward that mounting system."
       },
       {
         question: "What snare drum does Flo Mounier use?",
@@ -13902,7 +13894,7 @@ Flo Mounier has referenced Ludwig equipment at various career stages. The Acroli
       },
       {
         question: "Is a 13\" or 14\" snare better for death metal?",
-        answer: "13\" snares respond faster due to reduced shell area and mass — a genuine advantage for blast beat drumming at extreme tempos. George Kollias uses 13\" Pearl Free-Floating for this reason. 14\" snares project more volume and authority for live situations. If you're primarily focused on speed and studio recording, 13\" has real advantages. For live death metal performance where volume matters, 14\" is safer."
+        answer: "13\" snares respond faster due to reduced shell area and mass — a genuine advantage for blast beat drumming at extreme tempos, which is why many extreme-speed specialists favor the smaller diameter. 14\" snares project more volume and authority for live situations. If you're primarily focused on speed and studio recording, 13\" has real advantages. For live death metal performance where volume matters, 14\" is safer."
       },
       {
         question: "What snare head is best for death metal?",
@@ -13910,7 +13902,7 @@ Flo Mounier has referenced Ludwig equipment at various career stages. The Acroli
       },
       {
         question: "What is a free-floating snare drum?",
-        answer: "A free-floating snare drum suspends the shell from its own integrated flanges rather than attaching external lug casings to the shell. Brands offering this design include Pearl (Sensitone Premium/Elite) and Ludwig (Acrophonic). By eliminating the shell contact from lug mounts, free-floating designs allow the shell to vibrate more freely — producing better resonance, improved sustain, and superior sensitivity for ghost notes. George Kollias uses Pearl Free-Floating specifically because this sensitivity advantage is meaningful at 280 BPM."
+        answer: "A free-floating snare drum suspends the shell from its own integrated flanges rather than attaching external lug casings to the shell. Brands offering this design include Pearl (Sensitone Premium/Elite) and Ludwig (Acrophonic). By eliminating the shell contact from lug mounts, free-floating designs allow the shell to vibrate more freely — producing better resonance, improved sustain, and superior sensitivity for ghost notes — an advantage that matters most for drummers pushing extreme speeds like 280 BPM blast beats."
       },
       {
         question: "How should I tune a death metal snare?",
@@ -13921,7 +13913,7 @@ Flo Mounier has referenced Ludwig equipment at various career stages. The Acroli
     // Conclusion
     conclusion: {
       title: "Find Your Death Metal Snare Voice",
-      content: `George Kollias didn't accidentally arrive at the Pearl Free-Floating brass 13\" — he selected it because the free-floating system's sensitivity advantage translates directly into performance at 280 BPM. Drummers chasing that same metronomic reliability at speed, like Gene Hoglan on his Pearl snare, aren't choosing gear for the brand logo — they're choosing it for consistent, repeatable tuning that holds up across every performance.
+      content: `Free-floating brass 13\" snares reward drummers chasing 280 BPM blast beat speed — the sensitivity advantage translates directly into performance under extreme tempo demands. Drummers chasing that same metronomic reliability at speed, like Gene Hoglan on his Pearl snare, aren't choosing gear for the brand logo — they're choosing it for consistent, repeatable tuning that holds up across every performance.
 
 For most death metal drummers, the Pearl Free-Floating Steel 14\" is the professional starting point — the combination of free-floating sensitivity and steel brightness handles both live and recording demands effectively. Budget players should seriously consider the Ludwig Acrolite — at its price point, it remains one of the most cost-effective professional snare drums ever built. Replace the factory head with Evans HD Dry and it will compete with snares at three times its price.
 
@@ -81671,7 +81663,7 @@ Start with whichever approach matches your material's demands — groove and fee
     // SEO metadata
     title: "Best Snare Drums for Nu-Metal: 2026 Ultimate Guide",
     metaTitle: "Best Snare Drums for Nu-Metal 2026 | MetalForge Expert Guide",
-    description: "Best snare drums for nu-metal drumming: what Joey Jordison (Pearl Free-Floating Steel), John Otto (OCDP custom), and Ray Luzier (Pearl Reference brass) actually play. Steel vs maple/ash vs brass — ranked budget to pro.",
+    description: "Best snare drums for nu-metal drumming: what Joey Jordison (Pearl Signature Snare), John Otto (OCDP custom), and Ray Luzier (Pearl Reference brass) actually play. Steel vs maple/ash vs brass — ranked budget to pro.",
     seoKeywords: [
       'best snare drums for nu metal',
       'nu metal snare drum',
@@ -81708,11 +81700,11 @@ Start with whichever approach matches your material's demands — groove and fee
       title: "Why the Snare Anchors Nu-Metal's Syncopated Backbeat",
       content: `Nu-metal's rhythm section lives and dies on the backbeat. The genre's hip-hop-influenced groove needs a snare that cracks with authority on the 2 and 4 while staying sensitive enough for the ghost-note work that gives nu-metal its syncopated, pocket-heavy feel — a very different demand from the pure speed and blast-beat endurance other metal subgenres chase.
 
-Joey Jordison's Pearl Free-Floating snare was central to Slipknot's aggressive nu-metal attack — the pure steel shell's free-floating design eliminated shell dampening for maximum resonance and cutting brightness, sitting alongside his signature Pearl 13x6.5" snare used with his Pearl Reference Series kit. John Otto anchored Limp Bizkit's groove-first sound on a custom OCDP 14"x6.5" snare tuned to medium-high tension, delivering punch for heavy passages and sensitivity for his jazz-trained ghost-note work. Ray Luzier drives Korn's dense grooves on a Pearl Reference 14"x6.5" brass snare, its cutting, full-bodied crack anchoring records from "Korn III" through "The Paradigm Shift."
+Joey Jordison's Pearl Joey Jordison Signature snare — a 13"x6.5" steel shell with a blood-splatter finish — was central to Slipknot's aggressive nu-metal attack, engineered for faster, machine-gun-style fill work alongside his Pearl Reference Series kit. John Otto anchored Limp Bizkit's groove-first sound on a custom OCDP 14"x6.5" snare tuned to medium-high tension, delivering punch for heavy passages and sensitivity for his jazz-trained ghost-note work. Ray Luzier drives Korn's dense grooves on a Pearl Reference 14"x6.5" brass snare, its cutting, full-bodied crack anchoring records from "Korn III" through "The Paradigm Shift."
 
 This guide breaks down what actually makes a snare work for nu-metal — shell material, depth, and tuning — and which specific snares the genre's most influential drummers rely on, from budget starter options to the professional setups behind nu-metal's biggest records.`,
       keyPoints: [
-        "Joey Jordison's Pearl Free-Floating steel snare defined Slipknot's aggressive, cutting nu-metal attack",
+        "Joey Jordison's Pearl Signature 13\"x6.5\" steel snare defined Slipknot's aggressive, cutting nu-metal attack",
         "John Otto's OCDP custom 14\"x6.5\" snare balances heavy-passage punch with ghost-note sensitivity",
         "Ray Luzier's Pearl Reference brass snare delivers a full-bodied crack for Korn's dense productions",
         "14\"x6\"-6.5\" is the nu-metal standard depth for a heavy, punchy backbeat"
@@ -81726,13 +81718,13 @@ This guide breaks down what actually makes a snare work for nu-metal — shell m
         {
           name: "Shell Material for Cutting Crack",
           icon: "⚙️",
-          description: "Steel (Joey Jordison's Pearl Free-Floating) delivers the brightest, most cutting crack for aggressive nu-metal attack. Brass (Ray Luzier's Pearl Reference) adds warmth and full-bodied punch. Maple/ash custom shells (John Otto's OCDP) balance punch with tonal sensitivity.",
+          description: "Steel (Joey Jordison's Pearl Signature) delivers the brightest, most cutting crack for aggressive nu-metal attack. Brass (Ray Luzier's Pearl Reference) adds warmth and full-bodied punch. Maple/ash custom shells (John Otto's OCDP) balance punch with tonal sensitivity.",
           recommendation: "Steel for maximum cutting brightness; brass for full-bodied warmth; maple/ash for balanced punch and sensitivity"
         },
         {
           name: "Free-Floating Design for Resonance",
           icon: "🎯",
-          description: "Pearl's Free-Floating design — Joey Jordison's snare of choice — suspends the shell from its own flanges rather than lugs, eliminating shell dampening for maximum sustain and dramatically improved ghost note response.",
+          description: "Pearl's Free-Floating design suspends the shell from its own flanges rather than lugs, eliminating shell dampening for maximum sustain and dramatically improved ghost note response.",
           recommendation: "Free-floating construction for maximum resonance and ghost-note sensitivity"
         },
         {
@@ -81744,7 +81736,7 @@ This guide breaks down what actually makes a snare work for nu-metal — shell m
         {
           name: "Ghost Note Sensitivity",
           icon: "🎵",
-          description: "Nu-metal's hip-hop-influenced groove depends on ghost notes as much as backbeat power. John Otto's jazz-trained sensitivity and Joey Jordison's free-floating resonance both prioritize a snare that responds to soft touches as clearly as full-power hits.",
+          description: "Nu-metal's hip-hop-influenced groove depends on ghost notes as much as backbeat power. John Otto's jazz-trained sensitivity and Joey Jordison's signature snare responsiveness both prioritize a snare that responds to soft touches as clearly as full-power hits.",
           recommendation: "Free-floating or high-quality lug designs for consistent ghost-note response at any dynamic"
         },
         {
@@ -81756,7 +81748,7 @@ This guide breaks down what actually makes a snare work for nu-metal — shell m
         {
           name: "Touring Durability",
           icon: "🛡️",
-          description: "Nu-metal's biggest acts have logged decades on festival and arena stages, and all three featured snares — Pearl Free-Floating, OCDP custom, and Pearl Reference — are built from touring-grade hardware that holds tuning under nightly abuse.",
+          description: "Nu-metal's biggest acts have logged decades on festival and arena stages, and all three featured snares — Pearl Signature, OCDP custom, and Pearl Reference — are built from touring-grade hardware that holds tuning under nightly abuse.",
           recommendation: "High-quality throw-offs and die-cast hoops for tuning stability across a touring schedule"
         }
       ]
@@ -81776,16 +81768,15 @@ This guide breaks down what actually makes a snare work for nu-metal — shell m
           tier: "pro",
           material: "Steel (Free-Floating)",
 
-          description: `Joey Jordison's Pearl Free-Floating snare was central to Slipknot's aggressive nu-metal attack. By suspending the shell from its own flanges rather than lugs, the Free-Floating design eliminates shell dampening for maximum sustain and dramatically improved ghost note response — exactly what Jordison needed to cut through Slipknot's dense, percussion-heavy wall-of-sound production.
+          description: `Pearl's Free-Floating design suspends the shell from its own flanges rather than lugs, eliminating shell dampening for maximum sustain and dramatically improved ghost note response — a strong fit for nu-metal's ghost-note-heavy, syncopated backbeat.
 
-The pure steel shell delivers cutting brightness at high tunings that sliced through Slipknot's most extreme material, sitting alongside Jordison's signature Pearl 13x6.5" snare as one of two documented Pearl configurations across his career with the band.`,
+The pure steel shell delivers the brightest, most cutting crack of any construction in this guide, built for drummers who prioritize maximum resonance and attack over the warmth of brass or the balance of a maple/ash hybrid.`,
 
           pros: [
-            "Joey Jordison's choice — central to Slipknot's defining aggressive attack",
             "Free-floating design maximizes resonance and ghost-note sensitivity",
             "Pure steel shell — bright, cutting, and aggressive",
             "Eliminates shell dampening compared to lug-mounted alternatives",
-            "Proven across Slipknot's most extreme, percussion-heavy records"
+            "Widely available across Pearl's professional snare line"
           ],
           cons: [
             "Free-floating system requires careful tensioning",
@@ -81799,10 +81790,7 @@ The pure steel shell delivers cutting brightness at high tunings that sliced thr
             throwOff: "Uni-Lock Free-Floating",
             wires: "20-strand"
           },
-          usedBy: [
-            { name: "Joey Jordison", band: "Slipknot", note: "Pearl Free-Floating Steel — central to Slipknot's aggressive nu-metal attack" }
-          ],
-          verdict: "The nu-metal standard for cutting aggression. Jordison's choice for maximum resonance and attack.",
+          verdict: "The nu-metal standard for cutting aggression and maximum resonance.",
           rating: 4.8,
           affiliateLink: "https://www.thomann.de/intl/pearl_free_floating_steel.htm?partner_id=metalforge"
         },
@@ -81829,7 +81817,7 @@ That configuration remained Otto's confirmed snare through Limp Bizkit's 2020s r
           ],
           cons: [
             "Custom builds carry premium pricing and lead times",
-            "Less bright/aggressive than Jordison's steel Free-Floating snare",
+            "Less bright/aggressive than Jordison's steel signature snare",
             "OCDP has narrower retail availability than Pearl"
           ],
           specs: {
@@ -81867,7 +81855,7 @@ For nu-metal drummers who want a fuller, warmer snare voice than steel without s
             "Excellent for cutting through down-tuned, processed guitar mixes"
           ],
           cons: [
-            "Less bright/aggressive than Jordison's Free-Floating steel snare",
+            "Less bright/aggressive than Jordison's steel signature snare",
             "Premium Pearl Reference pricing",
             "Heavier than comparable steel or aluminum options"
           ],
@@ -81939,7 +81927,7 @@ The reduced diameter speeds up stick rebound and fill turnaround without sacrifi
           priceRange: "€90-140",
           tier: "budget",
           material: "Steel",
-          description: "A budget steel snare that approximates the bright, cutting character of Joey Jordison's Pearl Free-Floating snare at a fraction of the price, making it a solid starting point for developing nu-metal drummers.",
+          description: "A budget steel snare that approximates the bright, cutting character of Joey Jordison's Pearl Signature snare at a fraction of the price, making it a solid starting point for developing nu-metal drummers.",
           pros: ["Budget entry into the Pearl steel snare family", "Bright, cutting crack for the price", "Widely available and affordable"],
           cons: ["Standard lug mount lacks Free-Floating's resonance", "Less sensitive ghost-note response than pro-tier options"],
           verdict: "Best budget path toward Joey Jordison's steel snare sound.",
@@ -81968,9 +81956,9 @@ The reduced diameter speeds up stick rebound and fill turnaround without sacrifi
       title: "Steel vs Maple/Ash vs Brass Snares for Nu-Metal",
       content: `Shell material shapes both the tone and character of your nu-metal snare setup:
 
-**Steel (Pearl Free-Floating, Joey Jordison's choice):**
+**Steel (Pearl Joey Jordison Signature 13x6.5, Joey Jordison's choice):**
 - Bright, cutting, aggressive crack
-- Free-floating design maximizes resonance and ghost-note sensitivity
+- Signature 13" shell speeds up fill turnaround and cutting attack
 - The defining sound of Slipknot's most aggressive nu-metal attack
 - Best for: Maximum cutting brightness and aggression
 
@@ -81986,7 +81974,7 @@ The reduced diameter speeds up stick rebound and fill turnaround without sacrifi
 - The modern standard for syncopated, groove-heavy nu-metal
 - Best for: Full-bodied warmth without sacrificing cut
 
-**Nu-Metal Recommendation:** Start with a budget steel snare (Pearl Export) for reliable, versatile crack. Choose Pearl Free-Floating steel if you want Jordison's cutting aggression, a custom maple/ash build if you want Otto's balanced groove sensitivity, or Pearl Reference brass if you want Luzier's full-bodied warmth.`,
+**Nu-Metal Recommendation:** Start with a budget steel snare (Pearl Export) for reliable, versatile crack. Choose the Pearl Joey Jordison Signature if you want Jordison's cutting aggression, a custom maple/ash build if you want Otto's balanced groove sensitivity, or Pearl Reference brass if you want Luzier's full-bodied warmth.`,
       comparisonTable: [
         { feature: "Cutting Brightness", birch: "⭐⭐⭐⭐⭐", maple: "⭐⭐⭐" },
         { feature: "Ghost-Note Sensitivity", birch: "⭐⭐⭐⭐", maple: "⭐⭐⭐⭐⭐" },
@@ -82002,8 +81990,8 @@ The reduced diameter speeds up stick rebound and fill turnaround without sacrifi
       picks: [
         {
           category: "Best Overall",
-          pedal: "Pearl Free-Floating Steel",
-          reason: "Joey Jordison's choice — central to Slipknot's defining aggressive nu-metal attack."
+          pedal: "Pearl Signature 13x6.5",
+          reason: "Joey Jordison's actual signature snare — central to Slipknot's defining aggressive nu-metal attack."
         },
         {
           category: "Best for Groove-First Nu-Metal",
@@ -82018,7 +82006,7 @@ The reduced diameter speeds up stick rebound and fill turnaround without sacrifi
         {
           category: "Best Budget",
           pedal: "Pearl Export Steel Snare",
-          reason: "Approximates the Free-Floating steel sound at a fraction of the price. Save for a signature snare later."
+          reason: "Approximates Pearl's cutting steel snare sound at a fraction of the price. Save for a signature snare later."
         }
       ]
     },
@@ -82030,14 +82018,14 @@ The reduced diameter speeds up stick rebound and fill turnaround without sacrifi
       'best-drum-pedals-for-nu-metal'
     ],
     relatedDrummers: [
-      { slug: 'joey-jordison', name: 'Joey Jordison', reason: 'Pearl Free-Floating Steel — Slipknot\'s aggressive nu-metal attack' },
+      { slug: 'joey-jordison', name: 'Joey Jordison', reason: 'Pearl Joey Jordison Signature Snare — Slipknot\'s aggressive nu-metal attack' },
       { slug: 'john-otto', name: 'John Otto', reason: 'OCDP custom maple/ash snare — Limp Bizkit groove-first sound' },
       { slug: 'ray-luzier', name: 'Ray Luzier', reason: 'Pearl Reference brass — Korn syncopated grooves' }
     ],
 
     // Featured drummers (issue template)
     featuredDrummers: [
-      { slug: 'joey-jordison', name: 'Joey Jordison', reason: 'Pearl Free-Floating Steel — Slipknot\'s aggressive nu-metal attack' },
+      { slug: 'joey-jordison', name: 'Joey Jordison', reason: 'Pearl Joey Jordison Signature Snare — Slipknot\'s aggressive nu-metal attack' },
       { slug: 'john-otto', name: 'John Otto', reason: 'OCDP custom maple/ash snare — Limp Bizkit groove-first sound' },
       { slug: 'ray-luzier', name: 'Ray Luzier', reason: 'Pearl Reference brass — Korn syncopated grooves' },
     ],
@@ -82046,7 +82034,7 @@ The reduced diameter speeds up stick rebound and fill turnaround without sacrifi
     faq: [
       {
         question: "What snare drum does Joey Jordison use?",
-        answer: "Joey Jordison's Pearl Free-Floating steel snare was central to Slipknot's aggressive nu-metal attack — the free-floating design eliminates shell dampening for maximum resonance and ghost-note sensitivity. He also used a signature Pearl 13\"x6.5\" snare alongside his Pearl Reference Series kit for faster, machine-gun-style fill work."
+        answer: "Joey Jordison used a Pearl Joey Jordison Signature 13\"x6.5\" snare (blood-splatter finish) as his primary snare, central to Slipknot's aggressive nu-metal attack — the smaller 13\" diameter delivered faster, machine-gun-style fill turnaround alongside his Pearl Reference Series kit."
       },
       {
         question: "What snare drum does John Otto use?",
@@ -82058,18 +82046,18 @@ The reduced diameter speeds up stick rebound and fill turnaround without sacrifi
       },
       {
         question: "Steel, brass, or maple/ash for a nu-metal snare?",
-        answer: "Steel (Joey Jordison's Pearl Free-Floating) delivers the brightest, most cutting crack for aggressive nu-metal. Brass (Ray Luzier's Pearl Reference) adds warmth and full-bodied punch for dense productions. Maple/ash hybrid (John Otto's OCDP custom) balances punch with ghost-note sensitivity for groove-first playing. All three work — choose based on your material's balance of aggression versus groove."
+        answer: "Steel (Joey Jordison's Pearl Signature) delivers the brightest, most cutting crack for aggressive nu-metal. Brass (Ray Luzier's Pearl Reference) adds warmth and full-bodied punch for dense productions. Maple/ash hybrid (John Otto's OCDP custom) balances punch with ghost-note sensitivity for groove-first playing. All three work — choose based on your material's balance of aggression versus groove."
       },
       {
         question: "Do I need an expensive snare to play nu-metal?",
-        answer: "No — a budget Pearl Export steel snare approximates the bright, cutting character of Jordison's Free-Floating setup at a fraction of the price, and a Tama Imperialstar snare will teach real groove and ghost-note technique. Upgrade to a signature or custom-tuned snare once your playing and budget catch up."
+        answer: "No — a budget Pearl Export steel snare approximates the bright, cutting character of Jordison's signature setup at a fraction of the price, and a Tama Imperialstar snare will teach real groove and ghost-note technique. Upgrade to a signature or custom-tuned snare once your playing and budget catch up."
       }
     ],
 
     // Conclusion
     conclusion: {
       title: "Find Your Nu-Metal Snare Voice",
-      content: `Nu-metal snare choice comes down to how your material balances aggression against groove. Joey Jordison found his answer in Pearl's Free-Floating steel design, delivering the cutting brightness and resonance that defined Slipknot's most aggressive attack. John Otto found his in a custom-tuned OCDP maple/ash shell, balancing heavy-passage punch with the ghost-note sensitivity his jazz-trained groove demands. Ray Luzier found his in Pearl Reference brass, a full-bodied crack built for Korn's dense, syncopated productions.
+      content: `Nu-metal snare choice comes down to how your material balances aggression against groove. Joey Jordison found his answer in his own Pearl signature steel snare, delivering the cutting brightness and fast-fill speed that defined Slipknot's most aggressive attack. John Otto found his in a custom-tuned OCDP maple/ash shell, balancing heavy-passage punch with the ghost-note sensitivity his jazz-trained groove demands. Ray Luzier found his in Pearl Reference brass, a full-bodied crack built for Korn's dense, syncopated productions.
 
 None of these approaches is more "correct" for the genre — all three have driven some of nu-metal's most commercially significant records. See our nu-metal drum kit guide and the full top 10 nu-metal drummers list to see how these snares fit into each drummer's complete setup.
 

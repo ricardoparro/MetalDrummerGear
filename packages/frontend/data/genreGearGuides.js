@@ -82471,7 +82471,7 @@ Budget shouldn't stop you either. A Tama Imperialstar or Pearl Export kit will t
     // SEO metadata
     title: "Best Snare Drums for Deathcore: 2026 Ultimate Guide",
     metaTitle: "Best Snare Drums for Deathcore 2026 | MetalForge Expert Guide",
-    description: "Best snare drums for deathcore's blast-into-breakdown structure: what Chris Turner (Tama S.L.P. Vintage Hammered Steel), George Kollias (Pearl Signature), and Ben Koller (Tama S.L.P.) actually play — ranked budget to pro.",
+    description: "Best snare drums for deathcore's blast-into-breakdown structure: what Chris Turner (Tama S.L.P. Vintage Hammered Steel), George Kollias (Pearl Signature), and Ben Koller (Tama Starclassic Performer B/B) actually play — ranked budget to pro.",
     seoKeywords: [
       'best snare drums for deathcore',
       'deathcore snare drum',
@@ -82507,7 +82507,7 @@ Budget shouldn't stop you either. A Tama Imperialstar or Pearl Export kit will t
       title: "Why Deathcore Needs a Snare That Cuts Blast Beats and Crushes Breakdowns",
       content: `Deathcore's blast-into-breakdown structure asks a single snare to do two contradictory jobs. During blast-beat verses, it needs a dry, immediate crack that stays articulate at 240+ BPM without smearing into a wash of overtone. During breakdowns, that same snare needs to land with maximum rimshot authority and cut through heavily downtuned, palm-muted guitar walls built for moshing. Few metal subgenres put a snare through a wider dynamic and tempo range within a single track.
 
-Chris Turner of Oceans Ate Alaska plays a Tama S.L.P. 14"x5.5" Vintage Hammered Steel snare, whose hammered steel shell gives his blast-beat fills a dry, cutting crack while retaining enough rimshot punch for breakdown accents. George Kollias of Nile plays his own Pearl George Kollias Signature 14"x6.5" snare, engineered specifically for cut and articulation at the extreme tempos his blast beats sustain past 240 BPM. Ben Koller of Converge and Mutoid Man rounds out the lineup on a Tama S.L.P. 14"x6.5" steel snare, delivering the same quick-response, hardcore-punk-informed crack that anchored landmark records like "Jane Doe."
+Chris Turner of Oceans Ate Alaska plays a Tama S.L.P. 14"x5.5" Vintage Hammered Steel snare, whose hammered steel shell gives his blast-beat fills a dry, cutting crack while retaining enough rimshot punch for breakdown accents. George Kollias of Nile plays his own Pearl George Kollias Signature 14"x6.5" snare, engineered specifically for cut and articulation at the extreme tempos his blast beats sustain past 240 BPM. Ben Koller of Converge and Mutoid Man doesn't have a separately documented signature snare, but the matching birch/bubinga snare from his verified Tama Starclassic Performer B/B kit brings the same quick-response, hardcore-punk-informed crack that anchored landmark records like "Jane Doe" into deathcore's breakdown vocabulary.
 
 This guide breaks down shell material, depth, and tuning for deathcore snares — comparing three drummers whose metalcore, hardcore, and technical death metal lineages define the genre's blast-into-breakdown foundation, with recommendations from budget to professional touring rigs.`,
       keyPoints: [
@@ -82524,7 +82524,7 @@ This guide breaks down shell material, depth, and tuning for deathcore snares �
         {
           name: "Dry, Immediate Crack for Blast Beats",
           icon: "🔪",
-          description: "Chris Turner's and Ben Koller's Tama S.L.P. steel snares are voiced dry and immediate, so every hit registers as a sharp, precise accent at 240+ BPM instead of smearing into unwanted overtone.",
+          description: "Chris Turner's Tama S.L.P. steel snare is voiced dry and immediate, so every hit registers as a sharp, precise accent at 240+ BPM instead of smearing into unwanted overtone.",
           recommendation: "Steel or hammered-steel shells for a dry, immediate crack at extreme tempo"
         },
         {
@@ -82646,43 +82646,43 @@ The 6.5" depth gives Kollias's signature snare a bit more body than shallower al
         },
         {
           rank: 3,
-          name: "Tama S.L.P.",
+          name: "Tama Starclassic Performer B/B Snare",
           brand: "Tama",
-          model: "S.L.P. 14\"x6.5\"",
+          model: "Starclassic Performer B/B",
           image: "https://upload.wikimedia.org/wikipedia/commons/a/ac/Drums_01.jpg",
-          priceRange: "€380-500",
+          priceRange: "€350-500",
           tier: "pro",
-          material: "Steel (14x6.5\")",
+          material: "Birch/Bubinga Hybrid",
 
-          description: `Ben Koller of Converge, Mutoid Man, and Killer Be Killed plays a Tama S.L.P. 14"x6.5" steel snare, bringing the same quick-response, hardcore-punk-informed crack that anchored landmark records like "Jane Doe" and "The Dusk in Us" to whatever project he's drumming for. The slightly deeper 6.5" shell than Turner's setup gives Koller's snare a bit more low-end body for aggressive breakdown-adjacent accents.
+          description: `Ben Koller of Converge, Mutoid Man, and Killer Be Killed doesn't have a separately documented signature snare, but the matching birch/bubinga snare from his verified Tama Starclassic Performer B/B kit is the closest working reference behind the quick-response, hardcore-punk-informed crack that anchored landmark records like "Jane Doe" and "The Dusk in Us." The hybrid shell gives Koller's setup a warm, resonant low-end for aggressive breakdown-adjacent accents.
 
-Koller's approach prioritizes power and organic dynamics over trigger-augmented precision — an approach that translates directly to deathcore drummers who need a snare to deliver both extreme speed and crushing weight from a single, versatile steel shell.`,
+Koller's approach prioritizes power and organic dynamics over trigger-augmented precision — an approach that translates directly to deathcore drummers who need a snare to deliver both extreme speed and crushing weight from a single, versatile hybrid shell.`,
 
           pros: [
-            "Ben Koller's Converge setup — two decades of hardcore/mathcore intensity",
-            "Steel shell delivers dry, cutting crack at any tempo",
+            "Matches Ben Koller's current, verified Converge/Mutoid Man kit — two decades of hardcore/mathcore intensity",
+            "Warm, resonant birch/bubinga tone that still delivers a crisp attack",
             "6.5\" depth adds low-end body for aggressive breakdown-adjacent accents",
-            "Proven on landmark records including \"Jane Doe\" and \"The Dusk in Us\"",
-            "S.L.P. series hardware built for demanding touring schedules"
+            "Shell construction proven on landmark records including \"Jane Doe\" and \"The Dusk in Us\"",
+            "Same Starclassic line refined over two decades of touring and studio work"
           ],
           cons: [
-            "Premium S.L.P. series pricing",
-            "Steel's bright tone needs muffling for maximum breakdown darkness",
+            "Not a separately confirmed signature model — inferred from Koller's documented kit",
+            "Less bright and immediate than a dedicated steel shell",
             "Less widely documented signature specification than Kollias's model"
           ],
           specs: {
-            shell: "Steel (S.L.P.)",
+            shell: "Birch/Bubinga (Starclassic Performer)",
             diameter: "14\"",
             depth: "6.5\"",
-            throwOff: "Tama MTS100",
+            throwOff: "Tama MTS-100",
             wires: "20-strand"
           },
           usedBy: [
-            { name: "Ben Koller", band: "Converge / Mutoid Man", note: "14x6.5\" Tama S.L.P. — hardcore/mathcore intensity feeding deathcore's breakdown vocabulary" }
+            { name: "Ben Koller", band: "Converge / Mutoid Man", note: "Tama Starclassic Performer B/B kit — hardcore/mathcore intensity feeding deathcore's breakdown vocabulary" }
           ],
-          verdict: "Best for organic power and dynamics. Koller's steel snare handles both speed and breakdown weight.",
+          verdict: "Best for organic power and dynamics. Koller's Starclassic kit handles both speed and breakdown weight.",
           rating: 4.5,
-          affiliateLink: "https://www.thomann.de/intl/tama_slp_koller.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/tama_starclassic_performer_bb_snare.htm?partner_id=metalforge"
         }
       ]
     },
@@ -82699,7 +82699,7 @@ Koller's approach prioritizes power and organic dynamics over trigger-augmented 
           priceRange: "€90-140",
           tier: "budget",
           material: "Steel",
-          description: "A budget steel snare that carries the same brand DNA as Chris Turner's and Ben Koller's professional Tama S.L.P. setups, giving developing deathcore drummers a genuinely bright, cutting option at an accessible price.",
+          description: "A budget steel snare that carries the same Tama brand DNA as Chris Turner's professional Tama S.L.P. setup and Ben Koller's Tama Starclassic Performer B/B kit, giving developing deathcore drummers a genuinely bright, cutting option at an accessible price.",
           pros: ["Same Tama steel shell family as pro deathcore setups", "Bright, cutting tone suited to blast beats", "Budget-friendly, widely available"],
           cons: ["Basic hardware and hoops compared to S.L.P.", "Less refined tone than premium hammered-steel shells"],
           verdict: "Best budget entry into deathcore's Tama steel sound.",
@@ -82738,7 +82738,7 @@ Koller's approach prioritizes power and organic dynamics over trigger-augmented 
 - Still articulate enough for extreme-speed blast sections
 - Best for drummers who need maximum breakdown weight alongside blast-beat speed
 
-**Our Recommendation:** Start with a Tama Imperialstar or Pearl Export steel snare if you're building deathcore technique on a budget. Choose the shallower 5.5\" depth if your material leans blast-beat-forward. Go with a 6.5\" depth — George Kollias's signature model or Ben Koller's Tama S.L.P. — if breakdowns are the priority.`,
+**Our Recommendation:** Start with a Tama Imperialstar or Pearl Export steel snare if you're building deathcore technique on a budget. Choose the shallower 5.5\" depth if your material leans blast-beat-forward. Go with a 6.5\" depth — George Kollias's signature model or Ben Koller's Tama Starclassic Performer B/B — if breakdowns are the priority.`,
       comparisonTable: [
         { feature: "Blast Beat Crispness", hybrid: "⭐⭐⭐⭐⭐", dual: "⭐⭐⭐⭐" },
         { feature: "Breakdown Rimshot Authority", hybrid: "⭐⭐⭐", dual: "⭐⭐⭐⭐" },
@@ -82778,14 +82778,14 @@ Koller's approach prioritizes power and organic dynamics over trigger-augmented 
     relatedDrummers: [
       { slug: 'chris-turner', name: 'Chris Turner', reason: 'Tama S.L.P. Vintage Hammered Steel — Oceans Ate Alaska\'s blast-beat-driven crack' },
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Pearl George Kollias Signature — Nile\'s 240+ BPM blast-beat benchmark' },
-      { slug: 'ben-koller', name: 'Ben Koller', reason: 'Tama S.L.P. — Converge\'s hardcore/mathcore intensity' }
+      { slug: 'ben-koller', name: 'Ben Koller', reason: 'Tama Starclassic Performer B/B — Converge\'s hardcore/mathcore intensity' }
     ],
 
     // Featured drummers (issue template)
     featuredDrummers: [
       { slug: 'chris-turner', name: 'Chris Turner', reason: 'Tama S.L.P. Vintage Hammered Steel — Oceans Ate Alaska\'s blast-beat-driven crack' },
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Pearl George Kollias Signature — Nile\'s 240+ BPM blast-beat benchmark' },
-      { slug: 'ben-koller', name: 'Ben Koller', reason: 'Tama S.L.P. — Converge\'s hardcore/mathcore intensity' }
+      { slug: 'ben-koller', name: 'Ben Koller', reason: 'Tama Starclassic Performer B/B — Converge\'s hardcore/mathcore intensity' }
     ],
 
     // FAQ section for SEO
@@ -82815,7 +82815,7 @@ Koller's approach prioritizes power and organic dynamics over trigger-augmented 
     // Conclusion
     conclusion: {
       title: "Find Your Deathcore Snare Voice",
-      content: `Deathcore snare choice comes down to how well your drum handles the jump between blast-beat verses and breakdown-driven choruses. Chris Turner's Tama S.L.P. Vintage Hammered Steel shows how a dry, cutting shell can carry both extremes at once. George Kollias's own Pearl signature model defined the extreme-speed benchmark deathcore's fastest sections measure themselves against, while Ben Koller's Tama S.L.P. demonstrates two decades of hardcore/mathcore intensity feeding directly into deathcore's breakdown vocabulary.
+      content: `Deathcore snare choice comes down to how well your drum handles the jump between blast-beat verses and breakdown-driven choruses. Chris Turner's Tama S.L.P. Vintage Hammered Steel shows how a dry, cutting shell can carry both extremes at once. George Kollias's own Pearl signature model defined the extreme-speed benchmark deathcore's fastest sections measure themselves against, while Ben Koller's Tama Starclassic Performer B/B demonstrates two decades of hardcore/mathcore intensity feeding directly into deathcore's breakdown vocabulary.
 
 None of these approaches is more "correct" — all three represent deathcore's founding commitment to combining extreme speed with breakdown-driven weight. Start with whichever depth matches your material's balance of blast beats versus breakdowns, and don't be afraid to tune tighter and drier than other metal subgenres would suggest.
 

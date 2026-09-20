@@ -82,7 +82,7 @@ export const KIT_QUIZ_QUESTIONS = [
     gear: {
       drums: 'Pearl Masterworks',
       snare: 'Pearl George Kollias Signature 14x6.5"',
-      cymbals: 'Meinl Byzance Brilliant',
+      cymbals: 'Zildjian A Custom Series',
       hardware: 'Pearl Demon Drive Direct Double Pedal',
       sticks: 'Vic Firth George Kollias Signature',
     },

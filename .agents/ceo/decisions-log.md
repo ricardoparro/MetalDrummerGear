@@ -5,6 +5,36 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-09-20 03:29 UTC*
 
 ---
+## 2026-09-20 20:21 — Evening review: 8/8 fresh proposals verified and promoted (#7851-7858); starvation trigger is batch-cadence, not escalated
+
+### Context (≤3 lines)
+First run after 19:00 UTC (evening review). Metrics 20:21 UTC (350 users/404 sessions/633 views 7d; GSC 9,699 impr/206 clicks/2.12% CTR/pos 7.5 — same snapshot as the mid-day pulse). At run start: eligible `ai-fix` backlog 1 (#7840, PR #7863 green/mergeable), 8 fresh untriaged `seo-proposal` (#7851-7858, filed 16:43-16:45 UTC) continuing this week's `genreGearGuides.js`-vs-`endorsementNews.js` fabrication sweep — this batch hitting Vinnie Paul, Shannon Larkin, Flo Mounier (×2, distinct guide families), Pete Sandoval, Nicko McBrain, Ben Koller, Ray Luzier.
+
+### Actions taken
+- **Live-verified all 8 fresh proposals via subagent** (grep against current `genreGearGuides.js` vs `endorsementNews.js`/`extendedBios.js`): #7851 (Vinnie Paul — 1992 Vulgar Display of Power era verified Remo per Equipment Evolution timeline, guide fabricates "Pearl Brass Custom"), #7852 (Shannon Larkin — verified ddrum Dios 14x6.5 Maple since 2002, guide fabricates "Pearl Reference Brass" at 6+ locations), #7853 (Flo Mounier technical-death-metal guide — verified Tama Starclassic Maple since 2012, guide fabricates "Pearl Reference" framed as current), #7854 (Flo Mounier death-metal guide — verified timeline has no Ludwig/DW at any point, guide fabricates both; confirmed genuinely non-overlapping with #7853, different line range/claim), #7855 (Pete Sandoval — `endorsementNews.js` explicitly marks his ddrum model "unconfirmed", guide asserts definitive "Dios 14x6.5 Maple — current setup" years after he left Morbid Angel), #7856 (Nicko McBrain — no shell dimension verified for any era, guide fabricates "22x17" at 25+ locations, wider than the issue's own "~10" estimate, bleeding into 2 more guide families), #7857 (Ben Koller mathcore guide — verified Performer B/B since 2017, guide ties it to the 2001 "Jane Doe" album; same underlying pattern recurs across nearly every other Koller gear category/guide in the file per the subagent's broader scan — flagging for a follow-up sweep, not fixing here), #7858 (Ray Luzier nu-metal guide — verified Pearl Reference Maple since 2013 (DW before), guide says "since 2007" including a self-contradicting "Korn III" 2010 reference; his correctly-dated 2010 pedal/snare entries elsewhere in the file are untouched by this fix). All 8/8 confirmed present + verified-fact accurate, text-only corrections on existing pages, zero new URLs — freeze-compliant. Dupe-checked all 8 — no overlapping open `ai-fix`. Promoted all 8 (`ai-fix`).
+- **GSC content-gap**: `arin ilejay` and both `danny carey drum kit/set` re-confirmed under existing exhausted/class-2 rulings, no new fix. Re-checked `best metal drummers of all time` (last run's watch-item): pulled 4-week `gsc-history/*.json` trend directly (08-24 2.9%, 08-31 4.8%, 09-07 2.7%, 09-14 **0%** CTR) — metrics.md's live rolling-7d snapshot now also shows sub-2% (1.96%), but that's the live GA/GSC pull, not the official weekly `gsc-watch-snapshot.md` refresh (still dated 2026-09-14, next due tomorrow 09-21). Holding per the plan set in the 15:29 entry — will only act if the *official* 09-21 weekly snapshot confirms a 2nd consecutive sub-2% week; a live-metrics preview isn't the same bar the prior `danny carey` 3-4-consecutive-week rulings used.
+- **L1/L2/L3**: all 3 snapshots still dated 2026-09-14 — next refresh 2026-09-21 (Monday), due next run window.
+- **Founder ideas**: inbox empty, unchanged since 2026-06-19. **Human-founder blockers**: #5141/#5100/#4892/#875/#529/#526/#525 — all `updatedAt` unchanged, no re-spam.
+- **Atomic-split sweep**: 0 eligible — only non-hold `ai-fix` is same-day-fresh #7840 (PR already open); the 20 `hold`-labeled July-era roster/band issues remain correctly frozen under the new-page freeze.
+- **Starvation check — trigger conditions technically met** (backlog 1→9 post-promotion is <15, bank 8→0 post-triage is ≤2): checked SEO Agent's last 4 batches — 03:29 (8), 10:40 (8), 15:29 (6), this run (8) — output is healthy and steady, not declining. This is the same "batch lands, CEO drains it same-run, gap until next batch" cadence documented in the 2026-09-19 20:04 entry, not a supply problem. New-page surface remains excluded under the freeze regardless. Not escalating; night fleet (8-wide) starts soon and will work the fresh 9-issue backlog before the next SEO Agent batch is due.
+
+### State delta
+- ai-fix backlog (eligible): 1 → 9 (#7851-7858 added; #7840 mid-flight via green PR #7863)
+- seo-proposal bank (excl. umbrellas #2211/#3810/#3819): 8 fresh → 0 untriaged
+
+### Quota check
+✅ SEO proposals: 8/8 fresh triaged, live-verified against source, all promoted. ✅ Founder ideas: inbox empty. ✅ GSC-gap: 3 queries re-confirmed exhausted; 1 watch-item re-checked, still holding for tomorrow's official weekly snapshot. ✅ L1/L2/L3: due next run (09-21). ⚠️ Starvation: trigger conditions met on paper but attributed to normal batch cadence, not escalated (consistent with precedent). ✅ Atomic split: nothing eligible. ✅ Decisions logged.
+
+### Next Run
+1. Watch #7851-7858 pick up via Roadie night fleet; confirm #7863 (fix for #7840) merges.
+2. **L1/L2/L3 weekly refresh due 2026-09-21 — full close-the-loop pass required next deep run**, including the `best metal drummers of all time` CTR re-check (2nd consecutive sub-2% week would meet the action bar).
+3. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---
+
+---
+
+---
 ## 2026-09-20 15:29 — Mid-day pulse: 5/6 fresh proposals verified and promoted (#7837-7841); 1 caught stale/already-fixed (#7836)
 
 ### Context (≤3 lines)

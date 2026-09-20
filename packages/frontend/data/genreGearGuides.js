@@ -18457,7 +18457,7 @@ For doom metal's heavier, larger-format kits, the memory-lock system lets a drum
           tier: "mid",
           material: "Double-tightening cast clamp",
 
-          description: `Mario Duplantier's crushing, down-tuned tectonic riffing puts real weight and force on Gojira's oversized toms, and a single-bolt mount will sag or shift under that combined load faster than most drummers expect. Pearl's Uni-Lock uses a double-tightening cast clamp that holds oversized toms in exact position through repeated, heavy hits.
+          description: `Doom metal's crushing, down-tuned tectonic riffing puts real weight and force on oversized toms, and a single-bolt mount will sag or shift under that combined load faster than most drummers expect. Pearl's Uni-Lock uses a double-tightening cast clamp that holds oversized toms in exact position through repeated, heavy hits.
 
 For doom metal drummers running deeper, heavier toms than a standard metal kit, upgrading individual mounts to a reinforced design like this is often the most cost-effective fix.`,
 
@@ -18478,9 +18478,7 @@ For doom metal drummers running deeper, heavier toms than a standard metal kit, 
             includes: "Single tom mount",
             weight: "Medium"
           },
-          usedBy: [
-            { name: "Mario Duplantier", band: "Gojira", note: "Reinforced tom mounting for oversized, down-tuned toms" }
-          ],
+          usedBy: [],
           verdict: "The targeted upgrade for doom metal drummers whose oversized toms sag or shift.",
           rating: 4.4,
           affiliateLink: "https://www.thomann.de/intl/pearl_uni_lock_tom_holder.htm?partner_id=metalforge"

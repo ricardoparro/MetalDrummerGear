@@ -25291,13 +25291,13 @@ Find the pocket. Own the groove.`
       title: "What Bass Drum Setup Do Power Metal Drummers Actually Use?",
       content: `Power metal's bass drum has a different job than the low-end-first approach of death or doom metal: it needs to deliver a balanced, punchy thud that drives galloping, triplet-based rhythms forward without ever burying the soaring clean vocals and keyboard-orchestrated arrangements riding above it. The kick has to be felt as much as heard — present in the mix, but never dominant.
 
-Scott Travis switched to ddrum for Judas Priest's "Firepower" (2018), and his twin 22"x18" ddrum Dominion Series bass drums are driven by a DW 9000 Series double pedal, carrying "Painkiller" (1990)'s galloping blueprint into the present. Aquiles Priester runs the twin 22" bass drums from his Mapex Saturn Evolution All Maple signature kit for Angra, chosen for the projection and tuning consistency his sustained 180-220+ BPM neoclassical double-bass technique demands. Nicko McBrain's single 22"x17" British Drum Co. bass drum, driven by one pedal for every Iron Maiden gallop, proves the genre's most influential rhythmic vocabulary doesn't require twin kicks or even a double pedal. Mikkey Dee's Sonor SQ2 bass drum has carried him from Motörhead's all-out attack into Scorpions' wider dynamic range, built for the touring stamina power metal's festival-circuit bands depend on.
+Scott Travis switched to ddrum for Judas Priest's "Firepower" (2018), and his twin 22"x18" ddrum Dominion Series bass drums are driven by a DW 9000 Series double pedal, carrying "Painkiller" (1990)'s galloping blueprint into the present. Aquiles Priester runs the twin 22" bass drums from his Mapex Saturn Evolution All Maple signature kit for Angra, chosen for the projection and tuning consistency his sustained 180-220+ BPM neoclassical double-bass technique demands. Nicko McBrain's single British Drum Co. bass drum, driven by one pedal for every Iron Maiden gallop, proves the genre's most influential rhythmic vocabulary doesn't require twin kicks or even a double pedal. Mikkey Dee's Sonor SQ2 bass drum has carried him from Motörhead's all-out attack into Scorpions' wider dynamic range, built for the touring stamina power metal's festival-circuit bands depend on.
 
 This guide breaks down exactly what makes a bass drum work for power metal — shell tuning, sizing, and pedal configuration — and which specific shells these four influential drummers actually play.`,
       keyPoints: [
         "Power metal wants a balanced, punchy low end that supports the mix rather than overpowering melodic, keyboard-orchestrated arrangements",
         "Scott Travis's twin ddrum Dominion Series bass drums are driven by a DW 9000 Series double pedal",
-        "Nicko McBrain's single 22\"x17\" British Drum Co. bass drum proves galloping rhythms don't require twin kicks or double bass",
+        "Nicko McBrain's single British Drum Co. bass drum proves galloping rhythms don't require twin kicks or double bass",
         "Aquiles Priester's Mapex Saturn Evolution All Maple shell is tuned for sustained neoclassical double-bass consistency at 180-220+ BPM"
       ]
     },
@@ -25315,8 +25315,8 @@ This guide breaks down exactly what makes a bass drum work for power metal — s
         {
           name: "Shell Diameter and Depth",
           icon: "⭕",
-          description: "22\"x17\"-18\" is the power metal standard — Nicko McBrain's single kick runs 17\" depth for a slightly quicker, more articulate response that keeps pace with the genre's galloping tempo without losing punch.",
-          recommendation: "22\"x17\"-18\" for a fast, articulate response that stays punchy at gallop tempo"
+          description: "22\"x18\" is the power metal standard for twin-kick setups (Priester, Travis) — Nicko McBrain instead plays a single British Drum Co. shell built for a quicker, more articulate response that keeps pace with the genre's galloping tempo without losing punch.",
+          recommendation: "22\"x18\" for a fast, articulate twin-kick response, or a single shell for McBrain's gallop-focused single-pedal approach"
         },
         {
           name: "Galloping Rhythm Foundation",
@@ -25339,7 +25339,7 @@ This guide breaks down exactly what makes a bass drum work for power metal — s
         {
           name: "Pedal Configuration",
           icon: "🦵",
-          description: "Twin 22\"x18\" kicks (Priester, Travis) suit sustained double-bass speed, while a single 22\"x17\" kick (McBrain) keeps the classic gallop tradition's foot independence intact — Travis drives his twin shells with a DW 9000 Series double pedal.",
+          description: "Twin 22\"x18\" kicks (Priester, Travis) suit sustained double-bass speed, while a single kick (McBrain) keeps the classic gallop tradition's foot independence intact — Travis drives his twin shells with a DW 9000 Series double pedal.",
           recommendation: "Match your kick configuration to your rhythmic tradition — twin kicks and a double pedal for double-bass speed, a single pedal for classic gallop foot independence"
         }
       ]
@@ -25439,14 +25439,14 @@ The all-maple shell construction projects cleanly at extreme tempo without losin
           tier: "pro",
           material: "Maple, 22\"x17\"",
 
-          description: `Nicko McBrain has never used a double bass pedal with Iron Maiden — his entire galloping, triplet-based rhythmic vocabulary is built on a single 22"x17" bass drum and a single pedal, proving foot independence rather than raw double-bass speed can anchor a genre-defining sound. This Sonor SQ1 matches the 22"x17" sizing he played during his 2010-2019 Sonor SQ2 era, before his 2019 move to British Drum Co.
+          description: `Nicko McBrain has never used a double bass pedal with Iron Maiden — his entire galloping, triplet-based rhythmic vocabulary is built on a single bass drum and a single pedal, proving foot independence rather than raw double-bass speed can anchor a genre-defining sound. This Sonor SQ1 matches the brand he played during his 2010-2019 Sonor SQ2 era, before his 2019 move to British Drum Co.
 
-The slightly shallower 17" depth keeps the attack quick and articulate, matching the fast single-pedal footwork McBrain built Iron Maiden's most iconic gallops on.`,
+The shallower 17" depth of this shell keeps the attack quick and articulate, suited to the fast single-pedal footwork McBrain built Iron Maiden's most iconic gallops on.`,
 
           pros: [
-            "Matches Nicko McBrain's 22\"x17\" bass drum sizing and single-pedal philosophy",
+            "Matches Nicko McBrain's Sonor-era brand and single-pedal philosophy",
             "Proves a single pedal can anchor an entire genre's rhythmic foundation",
-            "Slightly shallower 17\" depth for a quick, articulate gallop attack",
+            "Shallower 17\" depth for a quick, articulate gallop attack",
             "Sonor build quality and tuning stability",
             "Simpler setup and transport than a twin-kick rig"
           ],
@@ -25462,7 +25462,7 @@ The slightly shallower 17" depth keeps the attack quick and articulate, matching
             configuration: "Single, single-pedal driven"
           },
           usedBy: [
-            { name: "Nicko McBrain", band: "Iron Maiden", note: "22\"x17\" single bass drum sizing from his 2010-2019 Sonor era; now British Drum Co., single pedal, never a double pedal" }
+            { name: "Nicko McBrain", band: "Iron Maiden", note: "Single bass drum from his 2010-2019 Sonor era; now British Drum Co., single pedal, never a double pedal" }
           ],
           verdict: "Best for drummers who want to build genre-defining gallop rhythms on a single pedal.",
           rating: 4.7,
@@ -25497,10 +25497,10 @@ The slightly shallower 17" depth keeps the attack quick and articulate, matching
           priceRange: "€240-320",
           tier: "budget",
           material: "Poplar/Beech shell, 22\"x17\"",
-          description: "Sonor's entry-level AQ2 line echoes Nicko McBrain's 22\"x17\" sizing philosophy from his 2010-2019 Sonor era at an accessible price — a solid, articulate budget bass drum for gallop-focused power metal drumming.",
-          pros: ["Matches Nicko McBrain's 22\"x17\" sizing from his Sonor era", "Quick, articulate response for the price", "Reliable entry point into a serious kit"],
+          description: "Sonor's entry-level AQ2 line echoes Nicko McBrain's Sonor-era brand at an accessible price — a solid, articulate budget bass drum for gallop-focused power metal drumming.",
+          pros: ["Matches Nicko McBrain's Sonor-era brand", "Quick, articulate response for the price", "Reliable entry point into a serious kit"],
           cons: ["Poplar/beech shell lacks the full projection of pure maple"],
-          verdict: "Best budget pick for drummers chasing McBrain's gallop-focused sizing.",
+          verdict: "Best budget pick for drummers chasing McBrain's gallop-focused, single-pedal approach.",
           rating: 4.2,
           affiliateLink: "https://www.thomann.de/intl/sonor_aq2_bass_drum_power_metal.htm?partner_id=metalforge"
         }
@@ -25522,7 +25522,7 @@ The slightly shallower 17" depth keeps the attack quick and articulate, matching
 - More low-end presence for dense, orchestrated arrangements
 - Requires more setup, transport, and tuning maintenance
 
-**Verdict:** Start with a single 22"x17"-18" maple shell and a quality pedal — it's the proven foundation behind Iron Maiden's entire rhythmic catalog. Move to twin shells and a double pedal only if your material demands sustained, technical double-bass speed.`,
+**Verdict:** Start with a single 22"x18" maple shell and a quality pedal for a fast, articulate gallop attack — the same single-pedal foundation Nicko McBrain has used throughout his Sonor and British Drum Co. eras. Move to twin shells and a double pedal only if your material demands sustained, technical double-bass speed.`,
       comparisonTable: [
         { feature: "Gallop Articulation", birch: "⭐⭐⭐⭐⭐", maple: "⭐⭐⭐⭐" },
         { feature: "Sustained Speed", birch: "⭐⭐⭐", maple: "⭐⭐⭐⭐⭐" },
@@ -25549,7 +25549,7 @@ The slightly shallower 17" depth keeps the attack quick and articulate, matching
         {
           category: "Best for Galloping Rhythms",
           pedal: "Sonor SQ1 Bass Drum",
-          reason: "Matches Nicko McBrain's 2010-2019 Sonor-era sizing — proof a single pedal can anchor an entire genre's rhythmic foundation."
+          reason: "Matches Nicko McBrain's 2010-2019 Sonor-era brand — proof a single pedal can anchor an entire genre's rhythmic foundation."
         },
         {
           category: "Best Budget",
@@ -25584,15 +25584,15 @@ The slightly shallower 17" depth keeps the attack quick and articulate, matching
     faq: [
       {
         question: "What bass drums do power metal drummers use?",
-        answer: "Scott Travis of Judas Priest plays twin ddrum Dominion Series bass drums driven by a DW 9000 Series double pedal, Aquiles Priester of Angra runs the twin bass drums from his Mapex Saturn Evolution All Maple signature kit, and Nicko McBrain of Iron Maiden plays a single 22\"x17\" British Drum Co. bass drum on a single pedal — never a double pedal."
+        answer: "Scott Travis of Judas Priest plays twin ddrum Dominion Series bass drums driven by a DW 9000 Series double pedal, Aquiles Priester of Angra runs the twin bass drums from his Mapex Saturn Evolution All Maple signature kit, and Nicko McBrain of Iron Maiden plays a single British Drum Co. bass drum on a single pedal — never a double pedal."
       },
       {
         question: "What size bass drum is best for power metal?",
-        answer: "22\"x17\"-18\" is the power metal standard. Nicko McBrain runs the shallower 17\" depth for a quick, articulate gallop attack, while Scott Travis and Aquiles Priester use 18\" for slightly more low-end weight and projection."
+        answer: "22\"x18\" is the power metal standard for twin-kick setups — Scott Travis and Aquiles Priester both run that depth for low-end weight and projection. Nicko McBrain instead plays a single, quicker-articulating bass drum on one pedal rather than twin 18\" shells."
       },
       {
         question: "Do power metal drummers need a double bass pedal?",
-        answer: "No — Nicko McBrain has never used a double bass pedal with Iron Maiden, building the genre's entire galloping rhythmic vocabulary on a single 22\"x17\" bass drum and a single pedal. Double bass matters more for sustained neoclassical technique, like Aquiles Priester's playing in Angra."
+        answer: "No — Nicko McBrain has never used a double bass pedal with Iron Maiden, building the genre's entire galloping rhythmic vocabulary on a single bass drum and a single pedal. Double bass matters more for sustained neoclassical technique, like Aquiles Priester's playing in Angra."
       },
       {
         question: "Why do power metal drummers need a different bass drum than blast-beat genres?",
@@ -25607,11 +25607,11 @@ The slightly shallower 17" depth keeps the attack quick and articulate, matching
     // Conclusion
     conclusion: {
       title: "Build the Balanced, Punchy Low End Power Metal Demands",
-      content: `Power metal's bass drum requirements come down to balance: a shell that punches through galloping rhythms and theatrical arrangements without ever overpowering the soaring vocals and keyboards riding above it. Scott Travis proves a punchy twin-shell ddrum setup driven by a double pedal can carry an entire genre's foundational blueprint, while Nicko McBrain shows the same galloping vocabulary can be built on nothing more than a single 22"x17" shell and one pedal.
+      content: `Power metal's bass drum requirements come down to balance: a shell that punches through galloping rhythms and theatrical arrangements without ever overpowering the soaring vocals and keyboards riding above it. Scott Travis proves a punchy twin-shell ddrum setup driven by a double pedal can carry an entire genre's foundational blueprint, while Nicko McBrain shows the same galloping vocabulary can be built on nothing more than a single shell and one pedal.
 
 If your material demands sustained neoclassical double-bass speed, follow Aquiles Priester's example with a twin-shell all-maple signature-kit setup tuned for consistency at extreme tempo.
 
-Start with a 22"x17"-18" maple shell and a quality single or double pedal — it's the proven foundation across power metal's most influential, galloping-rhythm-driven drummers.
+Start with a 22"x18" maple shell and a quality single or double pedal — it's the proven foundation across power metal's most influential, galloping-rhythm-driven drummers.
 
 🤘 **Ride the gallop. Never bury the melody.**`
     }
@@ -61976,8 +61976,8 @@ This guide breaks down what actually makes a kit work for power metal — bright
         {
           name: "Kick Drum Configuration",
           icon: "🦵",
-          details: "Twin 22\"x18\" kicks (Priester, Travis) suit sustained double-bass speed, while a single 22\"x17\" kick (McBrain) keeps the classic gallop tradition's foot independence intact.",
-          description: "Twin 22\"x18\" kicks (Priester, Travis) suit sustained double-bass speed, while a single 22\"x17\" kick (McBrain) keeps the classic gallop tradition's foot independence intact.",
+          details: "Twin 22\"x18\" kicks (Priester, Travis) suit sustained double-bass speed, while a single kick (McBrain) keeps the classic gallop tradition's foot independence intact.",
+          description: "Twin 22\"x18\" kicks (Priester, Travis) suit sustained double-bass speed, while a single kick (McBrain) keeps the classic gallop tradition's foot independence intact.",
           recommendation: "Match kick configuration to your rhythmic tradition — twin kicks for double-bass speed, a single kick for classic gallop foot independence"
         },
         {
@@ -62287,7 +62287,7 @@ Paired with a Sonor Mikkey Dee Signature snare and a DW 5000 Series double pedal
       },
       {
         question: "Does Nicko McBrain use a double pedal?",
-        answer: "No — Nicko McBrain has never used a double bass pedal with Iron Maiden. His entire galloping, triplet-based rhythmic vocabulary is built on a single 22\"x17\" bass drum and a single DW pedal, proving foot independence rather than raw double-bass speed can anchor a genre-defining sound."
+        answer: "No — Nicko McBrain has never used a double bass pedal with Iron Maiden. His entire galloping, triplet-based rhythmic vocabulary is built on a single bass drum and a single DW pedal, proving foot independence rather than raw double-bass speed can anchor a genre-defining sound."
       },
       {
         question: "Why do power metal drummers need a different kit than blast-beat genres?",
@@ -62646,7 +62646,7 @@ For power metal drummers whose material leans on gallop-first, triplet-based rhy
     faq: [
       {
         question: "Does Nicko McBrain use a double bass pedal?",
-        answer: "No — Nicko McBrain has never used a double bass pedal with Iron Maiden. His entire galloping, triplet-based rhythmic vocabulary runs through a single DW pedal on a single 22\"x17\" bass drum, proving foot independence rather than raw double-bass speed can anchor a genre-defining sound."
+        answer: "No — Nicko McBrain has never used a double bass pedal with Iron Maiden. His entire galloping, triplet-based rhythmic vocabulary runs through a single DW pedal on a single bass drum, proving foot independence rather than raw double-bass speed can anchor a genre-defining sound."
       },
       {
         question: "What pedal does Scott Travis use?",
@@ -104888,7 +104888,7 @@ For power metal's biggest festival-headlining bands, that kind of set-to-set, to
     faq: [
       {
         question: "Does Nicko McBrain use a double bass pedal?",
-        answer: "No — Nicko McBrain has never used a double bass pedal with Iron Maiden. His entire galloping, triplet-based rhythmic vocabulary runs through a single DW pedal on a single 22\"x17\" bass drum, proving foot independence and stamina rather than raw double-bass speed can anchor a genre-defining sound."
+        answer: "No — Nicko McBrain has never used a double bass pedal with Iron Maiden. His entire galloping, triplet-based rhythmic vocabulary runs through a single DW pedal on a single bass drum, proving foot independence and stamina rather than raw double-bass speed can anchor a genre-defining sound."
       },
       {
         question: "What pedal does Scott Travis use?",

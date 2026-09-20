@@ -58111,8 +58111,7 @@ Its 30-252 BPM range and 15 rhythm variations cover the practical range most met
       'best-drumsticks-for-metal'
     ],
     relatedDrummers: [
-      { slug: 'mario-duplantier', name: 'Mario Duplantier', reason: 'Full IEM click-track integration for Gojira\'s arena tours' },
-      { slug: 'brann-dailor', name: 'Brann Dailor', reason: 'Roland SPD-SX + full IEM click integration' }
+      { slug: 'mario-duplantier', name: 'Mario Duplantier', reason: 'Full IEM click-track integration for Gojira\'s arena tours' }
     ],
     relatedComparisons: [],
 
@@ -58124,7 +58123,7 @@ Its 30-252 BPM range and 15 rhythm variations cover the practical range most met
       },
       {
         question: "Do I need a metronome if I'm going to use in-ear monitors live?",
-        answer: "Yes — the internal timing sense that makes live click-track monitoring work is built in the practice room first, not on stage. Drummers like Mario Duplantier (Gojira) and Brann Dailor (Mastodon), who run full IEM click systems live, built that discipline with dedicated practice metronomes long before it mattered on tour."
+        answer: "Yes — the internal timing sense that makes live click-track monitoring work is built in the practice room first, not on stage. Drummers like Mario Duplantier (Gojira), who run full IEM click systems live, built that discipline with dedicated practice metronomes long before it mattered on tour."
       },
       {
         question: "What's the difference between a regular metronome and a drummer's metronome?",
@@ -70155,8 +70154,7 @@ Its slim, low-profile design sits comfortably under a hoodie or cap and is easy 
       'best-metronomes-for-metal-drummers'
     ],
     relatedDrummers: [
-      { slug: 'mario-duplantier', name: 'Mario Duplantier', reason: 'Full IEM click-track integration for Gojira\'s arena and stadium tours' },
-      { slug: 'brann-dailor', name: 'Brann Dailor', reason: 'Roland SPD-SX + full IEM click integration for Mastodon' }
+      { slug: 'mario-duplantier', name: 'Mario Duplantier', reason: 'Full IEM click-track integration for Gojira\'s arena and stadium tours' }
     ],
     relatedComparisons: [],
 

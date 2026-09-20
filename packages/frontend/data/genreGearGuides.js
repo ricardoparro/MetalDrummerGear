@@ -68153,7 +68153,7 @@ Budget shouldn't stop you either. A Tama Metalworks or Pearl Modern Utility snar
       title: "Why Extreme Metal Snares Have to Survive Before They Have to Sound Good",
       content: `Extreme metal — death metal, technical death metal, and the grindcore-adjacent brutality that surrounds them — places durability and speed demands on a snare drum that few other genres match. At 200-280 BPM sustained blast beats, a snare gets struck thousands of times a set, night after touring night, and has to keep firing instantly on every stroke long after ordinary snares would lose sensitivity or crack under the repeated impact.
 
-George Kollias of Nile plays a Pearl George Kollias Signature 14"x6.5" brass snare, relying on its cutting articulation to slice through Nile's densely layered technical death metal even while sustaining blast beats past 240 BPM. Pete Sandoval of Morbid Angel built his gravity-blast sound around a ddrum Dios 14"x6.5" maple snare, chosen for the warm, controlled response that survives his uniquely punishing technique. Derek Roddy of Hate Eternal and Nile plays a Tama Starclassic Bubinga 14"x6.5" snare, prized for the crack and durability that hold up across his "One Take" recording sessions and relentless touring schedule.
+George Kollias of Nile plays a Pearl George Kollias Signature 14"x6.5" brass snare, relying on its cutting articulation to slice through Nile's densely layered technical death metal even while sustaining blast beats past 240 BPM. Pete Sandoval of Morbid Angel built his gravity-blast sound on a ddrum maple snare (specific model unconfirmed) through his 2013 departure from the band, valuing the warm, controlled response that survived his uniquely punishing technique. Derek Roddy of Hate Eternal and Nile plays a Tama Starclassic Bubinga 14"x6.5" snare, prized for the crack and durability that hold up across his "One Take" recording sessions and relentless touring schedule.
 
 Gene Hoglan of Death and Testament plays a Tama Gene Hoglan Signature 14"x8" steel snare, an exceptionally deep shell built for the thunderous power and cutting attack his metronomic "Atomic Clock" precision demands.
 
@@ -68185,7 +68185,7 @@ This guide breaks down what actually makes a snare survive extreme metal's deman
         {
           name: "Standard 14x6.5\" Depth for Versatility",
           icon: "📏",
-          description: "Kollias, Sandoval, and Roddy all favor a 14x6.5\" depth, balancing crack and body across both blast beats and heavier, groove-based passages within extreme metal's broader stylistic range.",
+          description: "Kollias and Roddy favor a 14x6.5\" depth — the same depth Sandoval favored during his Morbid Angel career — balancing crack and body across both blast beats and heavier, groove-based passages within extreme metal's broader stylistic range.",
           recommendation: "14x6.5\" for the versatility to handle both blast beats and slower, weightier sections"
         },
         {
@@ -68197,7 +68197,7 @@ This guide breaks down what actually makes a snare survive extreme metal's deman
         {
           name: "Free-Floating or High-Tension Hardware",
           icon: "🔧",
-          description: "Sensitive, high-tension hardware keeps a snare responsive at extreme tempos without excess ring. Pete Sandoval's maple ddrum Dios snare pairs a warmer shell with hardware tuned for the control his gravity-blast technique demands.",
+          description: "Sensitive, high-tension hardware keeps a snare responsive at extreme tempos without excess ring. Pete Sandoval's maple ddrum snare (specific model unconfirmed) paired a warmer shell with hardware tuned for the control his gravity-blast technique demanded.",
           recommendation: "High-quality hardware that holds tuning without sacrificing sensitivity at extreme speed"
         },
         {
@@ -68343,12 +68343,12 @@ The extra 8" depth trades some of the instant crack a shallower shell offers for
           tier: "mid-pro",
           material: "Maple",
 
-          description: `Pete Sandoval's ddrum Dios 14"x6.5" maple snare gives Morbid Angel's gravity-blast assault a warmer, more controlled response than the brighter metal shells favored elsewhere in extreme metal. Sandoval, who pioneered the gravity-blast technique, needs a snare that responds consistently under his uniquely punishing single-footed approach.
+          description: `ddrum was Pete Sandoval's snare brand throughout his Morbid Angel career, a career-long endorsement that lasted through his 2013 departure from the band — though the specific model he used is unconfirmed. This maple 14"x6.5" ddrum Dios offers the kind of warmer, more controlled response that suits gravity-blast-style technique, standing apart from the brighter metal shells favored elsewhere in extreme metal.
 
-The maple shell's warmth sits well against Morbid Angel's dense, downtuned guitar work, proving that a wood shell can still project with real authority in extreme metal's harshest sonic environment.`,
+The maple shell's warmth sits well against dense, downtuned guitar work, proving that a wood shell can still project with real authority in extreme metal's harshest sonic environment.`,
 
           pros: [
-            "Pete Sandoval's proven Morbid Angel setup — gravity-blast pioneer's choice",
+            "ddrum was gravity-blast pioneer Pete Sandoval's brand for his entire Morbid Angel career (specific model unconfirmed)",
             "Maple shell offers warmth and control distinct from brighter metal shells",
             "Consistent response under demanding, repeated-force technique",
             "14x6.5\" depth balances crack and body",
@@ -68367,9 +68367,9 @@ The maple shell's warmth sits well against Morbid Angel's dense, downtuned guita
             bestFor: "Warm, controlled response for demanding, repeated-force technique"
           },
           usedBy: [
-            { name: "Pete Sandoval", band: "Morbid Angel", note: "ddrum Dios 14\"x6.5\" Maple — current setup" }
+            { name: "Pete Sandoval", band: "Morbid Angel", note: "ddrum — career-long endorsement through his 2013 Morbid Angel departure; specific model unconfirmed" }
           ],
-          verdict: "Best warm, controlled alternative to extreme metal's brighter metal shells. Sandoval's maple Dios proves wood can still cut through the chaos.",
+          verdict: "Best warm, controlled alternative to extreme metal's brighter metal shells. ddrum's maple shells reflect the warmth Sandoval's career-long endorsement was known for, proving wood can still cut through the chaos.",
           rating: 4.4,
           affiliateLink: "https://www.thomann.de/intl/ddrum_dios_snare_maple.htm?partner_id=metalforge"
         }
@@ -68482,7 +68482,7 @@ The maple shell's warmth sits well against Morbid Angel's dense, downtuned guita
     ],
     relatedDrummers: [
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Pearl George Kollias Signature 14x6.5\" Brass — Nile\'s 240+ BPM blast beat endurance' },
-      { slug: 'pete-sandoval', name: 'Pete Sandoval', reason: 'ddrum Dios 14x6.5\" Maple — pioneer of the gravity blast technique' },
+      { slug: 'pete-sandoval', name: 'Pete Sandoval', reason: 'ddrum (career-long endorsement, model unconfirmed) — pioneer of the gravity blast technique' },
       { slug: 'derek-roddy', name: 'Derek Roddy', reason: 'Tama Starclassic Bubinga 14x6.5\" — one-take recording durability' },
       { slug: 'gene-hoglan', name: 'Gene Hoglan', reason: 'Tama Gene Hoglan Signature 14x8\" Steel — The Atomic Clock\'s thunderous power' }
     ],
@@ -68490,7 +68490,7 @@ The maple shell's warmth sits well against Morbid Angel's dense, downtuned guita
     // Featured drummers (issue template)
     featuredDrummers: [
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Pearl George Kollias Signature 14x6.5\" Brass — Nile\'s 240+ BPM blast beat endurance' },
-      { slug: 'pete-sandoval', name: 'Pete Sandoval', reason: 'ddrum Dios 14x6.5\" Maple — pioneer of the gravity blast technique' },
+      { slug: 'pete-sandoval', name: 'Pete Sandoval', reason: 'ddrum (career-long endorsement, model unconfirmed) — pioneer of the gravity blast technique' },
       { slug: 'derek-roddy', name: 'Derek Roddy', reason: 'Tama Starclassic Bubinga 14x6.5\" — one-take recording durability' },
       { slug: 'gene-hoglan', name: 'Gene Hoglan', reason: 'Tama Gene Hoglan Signature 14x8\" Steel — The Atomic Clock\'s thunderous power' }
     ],
@@ -68502,16 +68502,16 @@ The maple shell's warmth sits well against Morbid Angel's dense, downtuned guita
         answer: "George Kollias of Nile plays a Pearl George Kollias Signature 14\"x6.5\" brass snare, giving his blast beats past 240 BPM a cutting, musical crack that stays legible through Nile's densely layered technical death metal."
       },
       {
-        question: "What snare does Pete Sandoval use?",
-        answer: "Pete Sandoval of Morbid Angel plays a ddrum Dios 14\"x6.5\" maple snare, chosen for the warm, controlled response that survives his gravity-blast technique — the single-footed approach he pioneered in extreme metal."
+        question: "What snare did Pete Sandoval play?",
+        answer: "Pete Sandoval of Morbid Angel played ddrum snares throughout his career, through his 2013 departure from the band, valuing the warm, controlled response suited to his gravity-blast technique — the single-footed approach he pioneered in extreme metal. The specific model is unconfirmed."
       },
       {
         question: "Steel, brass, bronze, or maple snare for extreme metal?",
-        answer: "All four work at the highest level. George Kollias's brass snare delivers cutting, musical attack; Derek Roddy's bubinga snare offers dark, durable crack; Gene Hoglan's deep steel snare provides thunderous power; and Pete Sandoval's maple snare gives warm, controlled response. Match the material to whether you prioritize speed, durability, power, or warmth."
+        answer: "All four work at the highest level. George Kollias's brass snare delivers cutting, musical attack; Derek Roddy's bubinga snare offers dark, durable crack; Gene Hoglan's deep steel snare provides thunderous power; and Pete Sandoval's maple ddrum snare gave warm, controlled response during his Morbid Angel career. Match the material to whether you prioritize speed, durability, power, or warmth."
       },
       {
         question: "What size snare is best for extreme metal?",
-        answer: "A 14\"x6.5\" shell is most common, balancing crack and body — the depth George Kollias, Derek Roddy, and Pete Sandoval all use. Gene Hoglan's deeper 14\"x8\" signature snare suits extreme metal's more groove-heavy, power-focused side."
+        answer: "A 14\"x6.5\" shell is most common, balancing crack and body — the depth George Kollias and Derek Roddy use, and the depth Pete Sandoval favored during his Morbid Angel career. Gene Hoglan's deeper 14\"x8\" signature snare suits extreme metal's more groove-heavy, power-focused side."
       },
       {
         question: "Do I need a signature snare to play extreme metal?",
@@ -68522,7 +68522,7 @@ The maple shell's warmth sits well against Morbid Angel's dense, downtuned guita
     // Conclusion
     conclusion: {
       title: "Find Your Extreme Metal Snare Voice",
-      content: `Extreme metal snare choice comes down to how much instant, cutting crack your blast beats demand versus how much durability, power, or warmth you need to survive touring and recording. George Kollias's Pearl signature brass snare defined the cutting, musical standard for technical death metal speed. Derek Roddy's dense Tama bubinga snare proved durability under one-take recording pressure and relentless touring. Gene Hoglan's unusually deep steel signature snare shows how thunderous power can anchor groove-heavy extreme metal, while Pete Sandoval's maple ddrum Dios snare demonstrates that warmth and control can still cut through the genre's harshest sonic environment.
+      content: `Extreme metal snare choice comes down to how much instant, cutting crack your blast beats demand versus how much durability, power, or warmth you need to survive touring and recording. George Kollias's Pearl signature brass snare defined the cutting, musical standard for technical death metal speed. Derek Roddy's dense Tama bubinga snare proved durability under one-take recording pressure and relentless touring. Gene Hoglan's unusually deep steel signature snare shows how thunderous power can anchor groove-heavy extreme metal, while Pete Sandoval's maple ddrum snare showed that warmth and control could still cut through the genre's harshest sonic environment during his Morbid Angel career.
 
 None of these approaches is more "correct" — all four represent extreme metal's founding commitment to snares that survive sustained blast beat abuse without sacrificing crack. Start with whichever voicing matches your material's balance of speed, power, and durability.
 

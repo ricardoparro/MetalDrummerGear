@@ -9501,3 +9501,46 @@ Ran `gh issue list --state all --search` for all 8 drummer/defect combinations b
 3. George Kollias technical-death-metal snare guide self-contradiction (intro asserts "Pearl George Kollias Signature 14x6.5 brass snare" vs. FAQ says "hasn't publicly documented his specific snare model") — needs a fresh check next run.
 4. Content-gap queries (`arin ilejay`, `best metal drummers of all time`, `danny carey drum kit/set`) unchanged/held on established precedent.
 5. Next drum-chair watch due Monday 2026-09-21, group 3 (sepultura/slayer/slipknot/testament/tool/vader/volto).
+
+---
+
+## 2026-09-20 21:xx — Run: 5 fresh fabrication proposals filed (#7867-7871), continuing genreGearGuides.js/soundLikeGuides.js sweep
+
+### Audit summary
+- robots.txt (`api/robots.js`): ✅ all 8 AI crawlers explicitly allowed (GPTBot, ChatGPT-User, ClaudeBot, Claude-Web, anthropic-ai, PerplexityBot, Applebot-Extended, cohere-ai, Google-Extended), aggressive SEO bots crawl-delayed. No change needed.
+- `/llms/*.md`: gear-history subdirectory + bpm.md + quiz.md + llms.txt + llms-full.txt confirmed live.
+- Bank at run start: 12 open `seo-proposal` (9 fresh excl. 3 standing umbrellas #2211/#3810/#3819) — well under the 45 top-up ceiling, so filed a fresh batch rather than auditing-only.
+
+### Metrics readout (2026-09-20 21:07 UTC snapshot)
+- Organic % of traffic: 302/405 sessions = ~74.6% (GA4 last 7d).
+- Top 3 GSC queries by impressions: `arin ilejay` (364), `best metal drummers of all time` (51), `danny carey drum kit` (115) — all 3 held on existing exhausted/class-2 CEO rulings per decisions-log, no new fix proposed this run (would just repeat the ruled-out class).
+- No new content-gap query surfaced beyond the 4 already tracked in metrics.md.
+
+### Proposals filed this run
+Followed up on the 2 leads flagged in the prior run's notes (George Kollias self-contradiction, Daray cross-file conflict) plus a fresh sweep of drummers not yet fully covered by the ongoing genreGearGuides.js-vs-endorsementNews.js accuracy sweep. All 5 are text-only corrections on existing pages, zero new URLs — freeze-compliant, verified line-by-line against `endorsementNews.js` immediately before filing (files drift daily per established process).
+
+1. #7867 — George Kollias fabricated "Pearl George Kollias Signature" snare in `genreGearGuides.js` **technical-death-metal** snare guide (resolves the self-contradiction lead — sibling death-metal guide's FAQ was already correct per #7817, this guide wasn't covered by that fix).
+2. #7868 — Same George Kollias fabrication, **deathcore** snare guide (distinct guide/lines from #7867 and from #7864's separate Ben Koller fix in the same file — verified no drummer-name confusion between Kollias/Koller).
+3. #7869 — Daray (Dimmu Borgir) drum kit model conflict: `endorsementNews.js` says "Pearl Reference Pure" (single unambiguous 2008-present timeline entry) vs. `extendedBios.js`/`genreGearGuides.js` (~65 locations)/`drummerEvolution.js` all saying "Pearl Masterworks Stadium Exotic" for the same era. Unlike a normal fabrication fix, this is scoped as an **investigation-first** issue — asks the implementer to find 2 external sources before picking a side, since it's possible prior sweeps (#5407/#5977/#6193/#6234) have been reinforcing a wrong fact by trusting `extendedBios.js` over `endorsementNews.js`. Flagged per the `learned-patterns.md` "majority-file-isn't-always-right" lesson.
+4. #7870 — Martin Lopez `soundLikeGuides.js` "sound like Opeth" guide recommends his later Soen-era gear (Noble & Cooley/Zildjian K Dark) instead of the verified 1997-2010 Opeth-era rig (Sonor Designer Series/Sabian HH-AAX) — guide's own song/album list is 100% Opeth material, gear doesn't match the era it's teaching.
+5. #7871 — Matt Garstka `genreGearGuides.js` djent snare guide asserts "Pearl Reference (Garstka Setup)" as his current snare — stale by 5 years; verified current kit is DW Collector's Series (custom shop) since 2021, and "Pearl Reference" was never his real model name (his actual 2014 Pearl signature was named "Matt Garstka Signature Snare," different name/dimension). Tama Speed Cobra pedal/hardware claims elsewhere in the file are correct and untouched.
+
+### Dedup notes
+Ran `gh issue list --state all --search` for Kollias, Daray, Martin Lopez, and Garstka before filing — no exact duplicates found. Confirmed via direct grep (not relying on the research subagent's claimed line numbers, which drift) that all 5 fabrications are still present at time of filing.
+
+### Not filed (investigated, ruled out)
+- Charlie Benante "Paiste RUDE & 2002 Series" — matches `extendedBios.js` exactly (more specific than `endorsementNews.js`'s generic "Paiste"), not a genuine mismatch per the verification bar.
+- Tim Yeung — `endorsementNews.js` itself is internally inconsistent (currentEndorsements says Tama, timeline only ever documents Pearl) — this is a source-file data bug, not a guide-file fabrication; out of scope for a `seo-proposal`, needs a data-integrity fix instead. Noting here for CEO awareness, not filing as SEO issue.
+- Mikkey Dee, Paul Bostaph, John Longstreth, Alex Rudinger — checked, no mismatch or no guide-file mentions found.
+
+### Open proposals waiting on CEO triage
+- #7840, #7851-7858 (prior runs, per decisions-log likely already promoted but still labeled `seo-proposal`)
+- #7867-7871 (this run, 5 fresh)
+- #2211/#3810/#3819 (standing umbrellas)
+
+### Next run
+1. Watch #7867-7871 through CEO triage.
+2. If #7869 (Daray) comes back "inconclusive" from external verification, that's an acceptable outcome per the issue's own instructions — don't re-file, wait for a `blocked`/`wontfix` resolution.
+3. Tim Yeung `endorsementNews.js` internal Tama/Pearl inconsistency needs a data-integrity look, not a guide-file `seo-proposal` — flag to CEO if it recurs.
+4. Content-gap queries unchanged/held on established precedent.
+5. Next drum-chair watch due Monday 2026-09-21, group 3 (sepultura/slayer/slipknot/testament/tool/vader/volto) — not today (Sunday).

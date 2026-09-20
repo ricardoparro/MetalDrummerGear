@@ -9457,3 +9457,47 @@ Ran `gh issue list --state all --search` for every candidate before filing (10+ 
 3. The 05:32 run's remaining leftover list (Shannon Larkin, Flo Mounier, Pete Sandoval extreme-metal snare, Nicko McBrain hardware line ~110493, George Kollias/Inferno/Matt Halpern/Daray bass-drum-shell mismatches, Ben Koller mathcore bass-drum era, Ray Luzier nu-metal bass-drum era) is still open for a future pass — not investigated this run.
 4. Content-gap queries (`arin ilejay`, `danny carey drum kit/set`) unchanged/held on established precedent.
 5. Next drum-chair watch due Monday 2026-09-21, group 3 (sepultura/slayer/slipknot/testament/tool/vader/volto).
+
+---
+
+## 2026-09-20 (run, per metrics.md 16:37 UTC) — 8 proposals filed (#7851-7858): cleared the entire 05:32 run's "leftover candidates" list via 3 parallel verification agents
+
+### Bank check
+Open `seo-proposal` at run start: 9 total (6 fresh untriaged: #7824, #7837-7841; 3 standing umbrellas #2211/#3810/#3819) — well under 45, cleared to file up to 8 net-new. Metrics 16:37 UTC (345 users/396 sessions/624 views 7d; GSC 9,699 impr/206 clicks/2.12% CTR/pos 7.5). robots.txt: all 8 AI crawlers explicitly allowed. `/llms/*.md` endpoints: 2,016 files live (stable). Content-gap table unchanged (`arin ilejay`, `best metal drummers of all time`, `danny carey drum kit/set`) — all held per same-day CEO precedent (10:40/15:29 entries), no new action. Today is Sunday — drum-chair watch not due (next due Monday 09-21, group 3).
+
+### This run's work
+Worked the full "leftover candidates" list from the 05:32 run's next-run notes (Vinnie Paul, Shannon Larkin, Flo Mounier, Pete Sandoval, Nicko McBrain, George Kollias/Halpern/Daray bass-drum-shell mismatches, Ben Koller mathcore era, Ray Luzier nu-metal era) — dispatched 3 parallel read-only verification agents (one per drummer cluster) to grep current `genreGearGuides.js` against `endorsementNews.js`/`extendedBios.js`, then personally re-verified the highest-confidence findings via direct grep before filing (Vinnie Paul lines 5968/5990/6190-6196 + extendedBios Equipment Evolution 5439-5443; Ray Luzier endorsementNews.js 2365-2395; Flo Mounier both guides' exact live text) — same discipline as prior runs.
+
+**8 filed, all CONFIRMED via live re-grep:**
+- #7851 — Vinnie Paul's 1992 "Vulgar Display of Power" snare fabricated as "Pearl Brass Custom" in the thrash-metal snare guide; verified era-accurate brand is **Remo** per `extendedBios.js`'s Equipment Evolution (which inserts a 1992-1994 Remo era between Tama and Pearl that `endorsementNews.js`'s coarser timeline skips — same precedent as #6041). Confirmed this is a genuinely separate location from #5746/#6041, which only fixed `albumArticles/vinnie-paul.js`, never `genreGearGuides.js`.
+- #7852 — Shannon Larkin's groove-metal snare fabricated as "Pearl Reference Brass" (wrong brand AND wrong shell material) across ~10 locations in one guide; verified ddrum Dios 14x6.5 Maple, matching how the rest of the file already describes him correctly elsewhere.
+- #7853 — Flo Mounier's technical-death-metal snare fabricated as "Pearl Reference" + wrongly framed as "current setup"; verified current brand is Tama Starclassic Maple since 2012. Distinct from already-closed #7709 (which fixed a different fabrication — "Pearl Masters Maple" bass drum — in the same guide family; this is the snare, not the bass drum).
+- #7854 — Flo Mounier separately fabricated as playing Ludwig Acrolite + "Pearl and DW" in the death-metal snare guide (different guide, different invented brands — no source supports Ludwig or DW at any career stage). Filed as a sibling to #7853 rather than bundled, since they're different guides/files-sections with different specific defects.
+- #7855 — Pete Sandoval's ddrum snare wrongly framed as "current setup" (he left Morbid Angel in 2013) plus an unconfirmed "Dios" model asserted as settled fact when `endorsementNews.js` explicitly marks it `model: 'unconfirmed'`. A tense/currency defect, distinct from #7817's already-fixed brand fabrication.
+- #7856 — Nicko McBrain's bass drum fabricated with an invented "22x17" shell dimension repeated ~10 times across the power-metal bass-drum guide; no shell dimension is verified for any era in `endorsementNews.js`. Brand/era claims (Sonor 2010-2019 → BDC 2019+) are already correct — only the size figure is fabricated.
+- #7857 — Ben Koller's "Tama Starclassic Performer B/B" (verified since 2017) wrongly tied to 2001's "Jane Doe" in the mathcore bass-drum guide — a 16-year era mismatch. No specific 2001-era model is verified (only "standard touring-grade Tama kits"), so the fix is omit-or-repair, not a straight brand swap. Distinct from #7841 (already-filed deathcore-guide snare fabrication for the same drummer).
+- #7858 — Ray Luzier's Pearl bass drum wrongly dated "since 2007" in the nu-metal guide (verified switch is 2013; he was on DW 2010-2013). Also fixes an internal contradiction where "Korn III" (2010, actually DW-era) was cited as part of the Pearl-era album list.
+
+**3 candidates investigated and correctly dropped (not filed):**
+- **George Kollias bass-drum-shell model** — already correct ("Pearl Masterworks" matches both source files).
+- **Matt Halpern "Pearl Reference Pure"** — ambiguous/low-severity; `extendedBios.js` says "Pearl Reference Series" (not contradicted, just more specific than `endorsementNews.js`'s bare "Pearl") — not a genuine mismatch, not worth filing alone.
+- **Daray (Dimmu Borgir) "Pearl Masterworks Stadium Exotic" vs. "Pearl Reference Pure"** — a genuine cross-file conflict between `endorsementNews.js` (Reference Pure, album-dated with specific kick config) and `extendedBios.js` (Masterworks Stadium Exotic), with `genreGearGuides.js` following the `extendedBios.js` version pervasively (~8+ locations). This needs the two source-of-truth files reconciled first — flagging here as a **future proposal candidate**, not filed this run, since fixing `genreGearGuides.js` alone would just pick a side in an unresolved source conflict rather than fix a clear fabrication.
+
+**1 new candidate surfaced but not investigated this run** (found incidentally while verifying #7853): the technical-death-metal snare guide's George Kollias intro prose ("Pearl George Kollias Signature 14"x6.5" brass snare") contradicts its own FAQ ("Pearl hasn't publicly documented his specific snare model") in the same guide — an internal self-contradiction worth a dedicated check next run.
+
+### Dedup notes
+Ran `gh issue list --state all --search` for all 8 drummer/defect combinations before filing — no exact duplicates found; closest historical matches (#7709 Flo Mounier bass-drum fix, #7817/#7841 Sandoval/Koller prior fixes, #5746/#6041 Vinnie Paul album-article fixes) all confirmed to cover different files/components, not overlapping scope.
+
+### Open proposals waiting on CEO triage
+- #7824 (prior run, still open)
+- #7837-7841 (prior run, 5 fresh)
+- #7851-7858 (this run, 8 fresh)
+- #2211/#3810/#3819 (standing umbrellas)
+- Bank at run end: 17 open `seo-proposal` (well under the 45 top-up ceiling).
+
+### Next run
+1. Watch #7851-7858 through CEO triage.
+2. Daray's cross-file source conflict (`endorsementNews.js` "Pearl Reference Pure" vs `extendedBios.js` "Pearl Masterworks Stadium Exotic") needs reconciliation before `genreGearGuides.js` can be fixed — worth flagging as a dedicated proposal once a source-of-truth decision is made.
+3. George Kollias technical-death-metal snare guide self-contradiction (intro asserts "Pearl George Kollias Signature 14x6.5 brass snare" vs. FAQ says "hasn't publicly documented his specific snare model") — needs a fresh check next run.
+4. Content-gap queries (`arin ilejay`, `best metal drummers of all time`, `danny carey drum kit/set`) unchanged/held on established precedent.
+5. Next drum-chair watch due Monday 2026-09-21, group 3 (sepultura/slayer/slipknot/testament/tool/vader/volto).

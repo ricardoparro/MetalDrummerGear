@@ -6168,8 +6168,8 @@ The 1mm vented steel shell provides bright, cutting attack perfect for thrash. I
           artist: "Slayer",
           year: 1986,
           drummer: "Dave Lombardo",
-          snare: "Tama Superstar Steel",
-          notes: "Machine-gun attack at 200+ BPM. Lombardo's precise stick control and the steel shell's cut created thrash's most intense snare sound."
+          snare: "Pearl",
+          notes: "Machine-gun attack at 200+ BPM. Lombardo's precise stick control and Pearl's cut created thrash's most intense snare sound. Lombardo remained on Pearl through the Reign in Blood era."
         },
         {
           album: "Among the Living",
@@ -26007,7 +26007,7 @@ Start with a 22"x18" maple shell tuned for dynamic range rather than one tonal e
     // SEO metadata
     title: "Best Bass Drums for Thrash Metal: 2026 Ultimate Guide",
     metaTitle: "Best Bass Drums for Thrash Metal in 2026 | MetalForge Expert Guide",
-    description: "Best bass drums for thrash metal's tight, fast-decaying low end. What Lars Ulrich (Tama Starclassic Maple) and Dave Lombardo (Yamaha/DW) actually play, plus the DW Collector's Series — built for rapid double bass at high tempo, from budget to pro.",
+    description: "Best bass drums for thrash metal's tight, fast-decaying low end. What Lars Ulrich (Tama Starclassic Maple) and Dave Lombardo (Pearl/DW) actually play, plus the DW Collector's Series — built for rapid double bass at high tempo, from budget to pro.",
     seoKeywords: [
       'best bass drums for thrash metal',
       'thrash metal bass drum setup',
@@ -26044,13 +26044,13 @@ Start with a 22"x18" maple shell tuned for dynamic range rather than one tonal e
       title: "What Bass Drum Setup Do Thrash Metal Drummers Actually Use?",
       content: `Thrash metal's bass drum has one defining job: deliver a tight, fast-decaying low end that stays punchy and articulate under rapid double-bass patterns at 180+ BPM, locking precisely with palm-muted, downpicked riffs. Unlike death metal's pursuit of maximum sub-bass weight, thrash needs a kick that decays quickly enough to keep every stroke distinct even at the fastest gallop and blast-adjacent tempos.
 
-Lars Ulrich's Tama Starclassic Maple kit has been his primary setup through Metallica's peak years — maple's warm, resonant tone, tuned tight, drives "Master of Puppets" and "...And Justice for All" without ever turning boomy. Dave Lombardo pioneered the double bass drumming style that defined the genre, running various Yamaha and DW setups that gave Slayer the aggressive, precise kick attack behind "Reign in Blood." DW's Collector's Series drums deliver the metronomic precision serious thrash touring demands.
+Lars Ulrich's Tama Starclassic Maple kit has been his primary setup through Metallica's peak years — maple's warm, resonant tone, tuned tight, drives "Master of Puppets" and "...And Justice for All" without ever turning boomy. Dave Lombardo pioneered the double bass drumming style that defined the genre, running his Pearl kit — his brand through Slayer's "Reign in Blood" era — for the aggressive, precise kick attack that made the record a benchmark. DW's Collector's Series drums deliver the metronomic precision serious thrash touring demands.
 
 This guide breaks down exactly what makes a bass drum work for thrash metal — shell material, tuning, and head selection — and which specific shells these genre-defining drummers actually play.`,
       keyPoints: [
         "Maple shells (Lars Ulrich's Tama, DW Collector's kits), tuned tight, deliver the fast-decaying, punchy attack thrash metal demands",
         "22\"x16\"-18\" is the thrash standard — shallower than death metal's deeper shells, for a quicker, more controlled decay",
-        "Dave Lombardo pioneered thrash's double-bass drumming style on Yamaha and DW setups built for precise, aggressive attack",
+        "Dave Lombardo pioneered thrash's double-bass drumming style on his Pearl kit through the Reign in Blood era, and DW setups later on, built for precise, aggressive attack",
         "DW's Collector's Series delivers the metronomic consistency serious touring demands"
       ]
     },
@@ -26181,42 +26181,42 @@ DW's True-Pitch tensioning ensures precise, consistent tuning night after night 
         },
         {
           rank: 3,
-          name: "Yamaha Recording Custom Bass Drum",
-          brand: "Yamaha",
-          model: "Recording Custom 22\"x16\"",
+          name: "Pearl Reference Pure Bass Drum",
+          brand: "Pearl",
+          model: "Reference Pure 22\"x16\"",
           image: "https://upload.wikimedia.org/wikipedia/commons/6/6c/Acoustic_Drums_Kit_%2829965183378%29.jpg",
-          priceRange: "€600-800",
+          priceRange: "€700-950",
           tier: "pro",
-          material: "Birch, 22\"x16\"",
+          material: "6-ply Maple, 22\"x16\"",
 
-          description: `Dave Lombardo pioneered the double bass drumming style that defined thrash metal, and his various Yamaha setups gave Slayer the aggressive, precise kick drum attack behind "Reign in Blood." The Recording Custom's birch shell and shallower 16" depth deliver a quick, punchy response built for the relentless speed his playing demanded.
+          description: `Dave Lombardo pioneered the double bass drumming style that defined thrash metal, and he was on Pearl throughout Slayer's "Reign in Blood" era. Pearl's Reference Pure line carries that shell heritage forward with thin 6-ply maple shells, and a shallower 16" depth option delivers a quick, punchy response built for relentless double-bass speed.
 
-That shallower depth speeds up response time without sacrificing the punch needed to cut through Slayer's fast, aggressive riffing — proof that a slightly shallower shell can serve thrash's rapid double-bass patterns just as well as the 18\" standard.`,
+That shallower depth speeds up response time without sacrificing the punch needed to cut through fast, aggressive riffing — proof that a slightly shallower shell can serve thrash's rapid double-bass patterns just as well as the 18\" standard.`,
 
           pros: [
-            "Dave Lombardo's Yamaha lineage — the genre's double-bass pioneer",
+            "Dave Lombardo's verified brand through the Reign in Blood era — the genre's double-bass pioneer",
             "Shallower 16\" depth for an even quicker, punchier response",
-            "Birch shell for tight, fast-decaying attack",
+            "Thin 6-ply maple shell for a sensitive, fast-decaying attack",
             "Excellent for the most relentless, high-speed double-bass playing",
-            "Reliable Yamaha build quality and hardware"
+            "Reliable Pearl build quality and hardware"
           ],
           cons: [
             "Slightly less low-end body than an 18\"-deep shell",
-            "Not Lombardo's only historical setup — he has also used DW and other brands"
+            "The specific bass drum Lombardo played in 1986 isn't publicly documented beyond the Pearl brand"
           ],
           specs: {
             diameter: "22\"",
             depth: "16\"",
-            shell: "Birch",
+            shell: "6-ply Maple",
             headRecommendation: "Evans EMAD",
             configuration: "Single, double-pedal driven"
           },
           usedBy: [
-            { name: "Dave Lombardo", band: "Slayer", note: "Yamaha birch bass drum driving \"Reign in Blood\"'s relentless double bass" }
+            { name: "Dave Lombardo", band: "Slayer", note: "Pearl endorser through the \"Reign in Blood\" era" }
           ],
           verdict: "Best for drummers chasing maximum double-bass speed and a quick, punchy response.",
           rating: 4.6,
-          affiliateLink: "https://www.thomann.de/intl/yamaha_recording_custom_bass_drum_thrash_metal.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/pearl_reference_pure_bass_drum_thrash_metal.htm?partner_id=metalforge"
         }
       ]
     },
@@ -26262,18 +26262,18 @@ That shallower depth speeds up response time without sacrificing the punch neede
       title: "Birch vs Maple Bass Drums for Thrash Metal",
       content: `Thrash metal drummers split their bass drum choice across two proven shell philosophies:
 
-**Maple (Lars Ulrich, DW Collector's):**
+**Maple (Lars Ulrich, DW Collector's, Pearl Reference Pure):**
 - Warmer tone with excellent tuning precision and consistency
 - Tight and controlled when tuned and muffled correctly, without losing body
 - The choice behind the genre's most iconic recordings
 - Slightly less punchy attack out of the box than pure birch at the fastest tempos
 
-**Birch (Dave Lombardo):**
+**Birch:**
 - Tight, focused attack with a fast, controlled decay right out of the box
 - Ideal for rapid double-bass patterns that need every stroke distinct with less tuning work
 - Slightly less warm and sustained than a maple shell
 
-**Verdict:** Start with a 22"x18" maple shell, tuned tight, and a reinforced head like the Remo Powerstroke 3 — it's the proven foundation behind the most iconic thrash metal recordings. Move to a birch shell like Dave Lombardo's Yamaha setup if maximum out-of-the-box punch matters more than tuning precision and consistency.`,
+**Verdict:** Start with a 22"x18" maple shell, tuned tight, and a reinforced head like the Remo Powerstroke 3 — it's the proven foundation behind the most iconic thrash metal recordings. Move to a birch shell if maximum out-of-the-box punch matters more than tuning precision and consistency.`,
       comparisonTable: [
         { feature: "Attack Speed", birch: "⭐⭐⭐⭐⭐", maple: "⭐⭐⭐⭐" },
         { feature: "Decay Control", birch: "⭐⭐⭐⭐⭐", maple: "⭐⭐⭐⭐" },
@@ -26299,8 +26299,8 @@ That shallower depth speeds up response time without sacrificing the punch neede
         },
         {
           category: "Best for Maximum Speed",
-          pedal: "Yamaha Recording Custom Bass Drum",
-          reason: "Dave Lombardo's lineage — shallower depth for the quickest possible double-bass response."
+          pedal: "Pearl Reference Pure Bass Drum",
+          reason: "Dave Lombardo's verified brand through the Reign in Blood era — shallower depth for the quickest possible double-bass response."
         },
         {
           category: "Best Budget",
@@ -26319,28 +26319,28 @@ That shallower depth speeds up response time without sacrificing the punch neede
     ],
     relatedDrummers: [
       { slug: 'lars-ulrich', name: 'Lars Ulrich', reason: 'Tama Starclassic Maple — defining thrash metal bass drum sound' },
-      { slug: 'dave-lombardo', name: 'Dave Lombardo', reason: 'Yamaha/DW — relentless double-bass thrash precision' }
+      { slug: 'dave-lombardo', name: 'Dave Lombardo', reason: 'Pearl/DW — relentless double-bass thrash precision' }
     ],
 
     // Featured drummers (issue template)
     featuredDrummers: [
       { slug: 'lars-ulrich', name: 'Lars Ulrich', reason: 'Tama Starclassic Maple — the definitive thrash metal bass drum' },
-      { slug: 'dave-lombardo', name: 'Dave Lombardo', reason: 'Yamaha birch — driving Slayer\'s relentless double-bass speed' }
+      { slug: 'dave-lombardo', name: 'Dave Lombardo', reason: 'Pearl — driving Slayer\'s Reign in Blood-era double-bass speed' }
     ],
 
     // FAQ section for SEO
     faq: [
       {
         question: "What bass drums do thrash metal drummers use?",
-        answer: "Lars Ulrich of Metallica plays a Tama Starclassic Maple bass drum, and Dave Lombardo of Slayer has used various Yamaha and DW setups. DW's Collector's Series is another premium option built for machine-like touring reliability. All prioritize a tight, fast-decaying attack over maximum low-end weight."
+        answer: "Lars Ulrich of Metallica plays a Tama Starclassic Maple bass drum, and Dave Lombardo of Slayer was on Pearl through Slayer's 'Reign in Blood' era before later moving to other brands. DW's Collector's Series is another premium option built for machine-like touring reliability. All prioritize a tight, fast-decaying attack over maximum low-end weight."
       },
       {
         question: "What size bass drum is best for thrash metal?",
-        answer: "22\"x16\"-18\" is the thrash metal standard — shallower than death metal's deeper shells. Dave Lombardo's Yamaha setup runs the shallower 16\" depth for an even quicker response, while Lars Ulrich uses 18\" for slightly more low-end body."
+        answer: "22\"x16\"-18\" is the thrash metal standard — shallower than death metal's deeper shells. A shallower 16\" depth, like Pearl's Reference Pure, gives an even quicker response, while Lars Ulrich uses 18\" for slightly more low-end body."
       },
       {
         question: "Birch or maple bass drum for thrash metal?",
-        answer: "Maple (Lars Ulrich's Tama Starclassic, DW Collector's Series), tuned tight, offers a warmer tone with excellent tuning precision and consistency without losing the fast decay thrash needs. Birch (Dave Lombardo's Yamaha) gives a tighter, more focused attack right out of the box with less tuning work."
+        answer: "Maple (Lars Ulrich's Tama Starclassic, DW Collector's Series, Pearl Reference Pure), tuned tight, offers a warmer tone with excellent tuning precision and consistency without losing the fast decay thrash needs. Birch gives a tighter, more focused attack right out of the box with less tuning work."
       },
       {
         question: "Why does thrash metal need a faster-decaying bass drum than death metal?",
@@ -26355,7 +26355,7 @@ That shallower depth speeds up response time without sacrificing the punch neede
     // Conclusion
     conclusion: {
       title: "Build the Tight, Fast-Decaying Low End Thrash Metal Demands",
-      content: `Thrash metal's bass drum requirements come down to one thing: a tight, fast-decaying attack that stays punchy and distinct under rapid double-bass patterns at 180+ BPM. Lars Ulrich's Tama Starclassic Maple, tuned tight, proves maple's warm resonance is the genre's defining recorded tone, while Dave Lombardo's shallower Yamaha birch setup shows how a lighter shell can deliver that same speed and punch with less tuning work.
+      content: `Thrash metal's bass drum requirements come down to one thing: a tight, fast-decaying attack that stays punchy and distinct under rapid double-bass patterns at 180+ BPM. Lars Ulrich's Tama Starclassic Maple, tuned tight, proves maple's warm resonance is the genre's defining recorded tone, while a shallower shell like Pearl's Reference Pure — Dave Lombardo's verified brand through the Reign in Blood era — shows how a lighter setup can deliver that same speed and punch with less tuning work.
 
 If tuning precision and machine-like consistency matter more than raw out-of-the-box punch, a maple DW Collector's Series is built to hold tuning through decades of touring.
 

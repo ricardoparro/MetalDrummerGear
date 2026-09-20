@@ -110486,9 +110486,7 @@ For power metal drummers running a twin-kick or wide double-kick setup, the Tita
             includes: "Cymbal stands, hi-hat stand, snare stand",
             weight: "Heavy"
           },
-          usedBy: [
-            { name: "Scott Travis", band: "Judas Priest", note: "DW hardware anchoring the twin-kick Painkiller blueprint" }
-          ],
+          usedBy: [],
           verdict: "The touring-grade standard for twin-kick power metal — built to survive years of arena stages.",
           rating: 4.8,
           affiliateLink: "https://www.thomann.de/intl/tama_titan_series_hardware.htm?partner_id=metalforge"
@@ -110527,7 +110525,9 @@ The memory-lock system lets a drummer rebuild an identical, precise setup at eve
             weight: "Heavy"
           },
           usedBy: [
-            { name: "Aquiles Priester", band: "Angra", note: "DW-grade stability for sustained neoclassical double-bass technique" }
+            { name: "Aquiles Priester", band: "Angra", note: "DW-grade stability for sustained neoclassical double-bass technique" },
+            { name: "Scott Travis", band: "Judas Priest", note: "DW hardware anchoring the twin-kick Painkiller blueprint" },
+            { name: "Nicko McBrain", band: "Iron Maiden", note: "Four decades of dependable DW hardware reliability" }
           ],
           verdict: "The choice for power metal drummers whose sustained double-bass runs can't tolerate any drift.",
           rating: 4.7,
@@ -110564,9 +110564,7 @@ The 400 Series delivers exactly that kind of steady, no-surprises performance, w
             includes: "Cymbal stands, hi-hat stand, snare stand",
             weight: "Medium-heavy"
           },
-          usedBy: [
-            { name: "Nicko McBrain", band: "Iron Maiden", note: "Four decades of dependable DW hardware reliability" }
-          ],
+          usedBy: [],
           verdict: "The dependable, no-surprises choice behind one of metal's longest-running touring careers.",
           rating: 4.6,
           affiliateLink: "https://www.thomann.de/intl/sonor_400_series_hardware.htm?partner_id=metalforge"

@@ -59956,7 +59956,7 @@ Start where your budget allows — even a Pearl Export configured with an extend
     // SEO metadata
     title: "Best Snare Drums for Groove Metal: 2026 Ultimate Guide",
     metaTitle: "Best Snare Drums for Groove Metal 2026 | MetalForge Expert Guide",
-    description: "Best snare drums for groove metal drumming: what Vinnie Paul (Tama steel), Shannon Larkin (Pearl Reference Brass), and Igor Cavalera (Pearl Masters Custom maple) actually play. Steel vs brass vs maple — ranked budget to pro.",
+    description: "Best snare drums for groove metal drumming: what Vinnie Paul (Tama steel), Shannon Larkin (ddrum Dios maple), and Igor Cavalera (Pearl Masters Custom maple) actually play. Steel vs maple — ranked budget to pro.",
     seoKeywords: [
       'best snare drums for groove metal',
       'groove metal snare drum',
@@ -59991,12 +59991,12 @@ Start where your budget allows — even a Pearl Export configured with an extend
       title: "Why Groove Metal Needs a Snare That Hits Like a Sledgehammer",
       content: `Groove metal isn't chasing blast beat speed — it's built on mid-tempo, riff-locked power, which means the snare has to deliver maximum crack and body on every single backbeat rather than surviving hundreds of rapid strokes per minute. Where black or death metal snares are tuned for endurance under extreme tempo, groove metal snares are tuned for weight: every hit has to land like a sledgehammer against down-tuned, syncopated riffs.
 
-Vinnie Paul built the genre's template on a deep steel Tama snare during his 1990-1996 tenure with the brand, engineered for maximum projection and crack to cut through Pantera's wall of distorted guitars on "Cowboys from Hell" and "Vulgar Display of Power." Shannon Larkin of Godsmack splits the difference with a 14x6.5" Pearl Reference Brass snare, delivering a powerful, cutting attack across two decades of multi-platinum groove-driven hard rock. Igor Cavalera of Sepultura anchors his kit with a Pearl Masters Custom maple snare from his 1993-1996 tenure with the brand, supplying the punishing crack behind "Refuse/Resist" and "Roots Bloody Roots" during Sepultura's tribal groove metal evolution.
+Vinnie Paul built the genre's template on a deep steel Tama snare during his 1990-1996 tenure with the brand, engineered for maximum projection and crack to cut through Pantera's wall of distorted guitars on "Cowboys from Hell" and "Vulgar Display of Power." Shannon Larkin of Godsmack brings warmth and cut with a 14x6.5" ddrum Dios maple snare, his setup since joining the band in 2002, delivering a powerful attack across two decades of multi-platinum groove-driven hard rock. Igor Cavalera of Sepultura anchors his kit with a Pearl Masters Custom maple snare from his 1993-1996 tenure with the brand, supplying the punishing crack behind "Refuse/Resist" and "Roots Bloody Roots" during Sepultura's tribal groove metal evolution.
 
-This guide breaks down steel, brass, and maple snare options for groove metal — comparing shell depth, material, and tuning approach across three of the genre's most influential drummers, with recommendations from budget to professional touring rigs.`,
+This guide breaks down steel and maple snare options for groove metal — comparing shell depth, material, and tuning approach across three of the genre's most influential drummers, with recommendations from budget to professional touring rigs.`,
       keyPoints: [
         "Vinnie Paul's deep steel Tama snare defines groove metal's maximum-crack, maximum-projection standard",
-        "Brass (Shannon Larkin) and maple (Igor Cavalera) shells split the difference between raw power and tonal warmth",
+        "Maple shells (Shannon Larkin's ddrum Dios, Igor Cavalera's Pearl Masters Custom) split the difference between raw power and tonal warmth",
         "14\" diameter is universal in groove metal; depth (5.5\"-8\") is where drummers differentiate crack vs. speed"
       ]
     },
@@ -60014,8 +60014,8 @@ This guide breaks down steel, brass, and maple snare options for groove metal �
         {
           name: "Shell Material",
           icon: "⚙️",
-          description: "Steel (Tama — Vinnie Paul) delivers the brightest, most cutting attack. Brass (Pearl Reference — Shannon Larkin) adds warmth and thunderous low-mid body. Maple (Pearl Masters Custom — Igor Cavalera) gives a drier, more controlled crack that still projects through down-tuned riffs.",
-          recommendation: "Steel for maximum brightness and cut; brass for warm thunderous attack; maple for dry, controlled punch"
+          description: "Steel (Tama — Vinnie Paul) delivers the brightest, most cutting attack. Maple (ddrum Dios — Shannon Larkin; Pearl Masters Custom — Igor Cavalera) gives a warmer, more controlled crack that still projects through down-tuned riffs.",
+          recommendation: "Steel for maximum brightness and cut; maple for warm, controlled punch that still projects"
         },
         {
           name: "Tuning for Mid-Tempo Power",
@@ -60086,43 +60086,42 @@ The steel shell's brightness cuts through Pantera's wall of distorted guitars wi
         },
         {
           rank: 2,
-          name: "Pearl Reference Brass",
-          brand: "Pearl",
-          model: "Reference 14x6.5\" Brass",
+          name: "ddrum Dios Maple",
+          brand: "ddrum",
+          model: "Dios 14x6.5\" Maple",
           image: "https://upload.wikimedia.org/wikipedia/commons/a/ac/Drums_01.jpg",
-          priceRange: "€350-550",
-          tier: "pro",
-          material: "Brass (14x6.5\")",
+          priceRange: "€300-400",
+          tier: "mid-pro",
+          material: "Maple (14x6.5\")",
 
-          description: `Shannon Larkin of Godsmack has driven two decades of multi-platinum groove-driven hard rock on a Pearl Reference 14x6.5" brass snare, chosen for its powerful, cutting attack across albums like "Faceless," "IV," and "When Legends Rise." Brass sits between steel's brightness and maple's warmth, giving Larkin a snare that cuts through Godsmack's heavy, riff-driven arrangements while retaining more tonal complexity than a pure steel shell.
+          description: `Shannon Larkin of Godsmack has driven two decades of multi-platinum groove-driven hard rock on a ddrum Dios 14x6.5" maple snare, his setup since joining the band in 2002, delivering a warm yet cutting attack across albums like "Faceless," "IV," and "When Legends Rise." Maple sits between steel's brightness and a deeper shell's raw low end, giving Larkin a snare that cuts through Godsmack's heavy, riff-driven arrangements while retaining tonal warmth.
 
-Pearl's Reference Series SST (Superior Shell Technology) construction maximizes resonance and consistency, making it a reliable choice for drummers who need both power and dynamic range across long, heavy touring schedules.`,
+ddrum's Dios Series construction is built for durability and consistency, making it a reliable choice for drummers who need both power and dynamic range across long, heavy touring schedules.`,
 
           pros: [
-            "Shannon Larkin's Godsmack setup — proven across two decades of platinum-selling groove metal/hard rock",
-            "Brass shell balances brightness and warmth better than pure steel or maple",
-            "SST construction for consistent resonance and touring reliability",
+            "Shannon Larkin's Godsmack setup since 2002 — proven across two decades of platinum-selling groove metal/hard rock",
+            "Maple shell balances warmth and cutting attack better than a pure steel shell",
+            "Dios Series construction built for touring durability",
             "6.5\" depth splits the difference between deeper and shallower shells in the genre",
             "Versatile enough for groove metal's more melodic, dynamic passages"
           ],
           cons: [
-            "Premium Pearl Reference pricing",
+            "Less widely stocked than major flagship snares",
             "Less distinctively deep or bright than the genre's more extreme signature options",
-            "Brass shells are heavier than steel or wood equivalents"
+            "Less cutting brightness than a pure steel shell"
           ],
           specs: {
-            shell: "Brass",
+            shell: "Maple",
             diameter: "14\"",
             depth: "6.5\"",
-            throwOff: "Pearl UltraCast",
             wires: "20-strand"
           },
           usedBy: [
-            { name: "Shannon Larkin", band: "Godsmack", note: "14x6.5\" Pearl Reference Brass — powerful, cutting groove metal/hard rock attack" }
+            { name: "Shannon Larkin", band: "Godsmack", note: "14x6.5\" ddrum Dios Maple — warm, cutting groove metal/hard rock attack (since 2002)" }
           ],
-          verdict: "The balanced choice for groove metal. Brass warmth and cutting power in one reliable, road-tested package.",
+          verdict: "The balanced choice for groove metal. Maple warmth and cutting power in one reliable, road-tested package.",
           rating: 4.5,
-          affiliateLink: "https://www.thomann.de/intl/pearl_reference_brass_snare.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/ddrum_dios_snare_maple.htm?partner_id=metalforge"
         },
         {
           rank: 3,
@@ -60201,20 +60200,20 @@ Maple's naturally warm character makes this a strong choice for groove metal dru
 
     // Comparison
     comparison: {
-      title: "Steel vs Brass vs Maple for Groove Metal",
+      title: "Steel vs Maple for Groove Metal",
       content: `Shell material and depth split groove metal drummers into distinct camps. Here's how the genre's defining choices compare:
 
 **Steel — Deep, Bright, Maximum Crack (Vinnie Paul):**
-- Brightest, most cutting attack of the three
+- Brightest, most cutting attack of the two
 - Deep shell adds unmatched low-end body and projection
 - Best for slow, crushing, riff-locked grooves
 
-**Brass & Maple — Warm, Balanced (Shannon Larkin, Igor Cavalera):**
-- Sits between steel's brightness and wood's warmth
+**Maple — Warm, Balanced (Shannon Larkin, Igor Cavalera):**
+- Sits between steel's brightness and a deeper shell's raw low end
 - 6.5\" depth balances body and speed
 - Best for melodic, dynamically varied groove metal material
 
-**Our Recommendation:** Start with a deep steel shell if your material leans toward slow, crushing Pantera-style grooves. Brass or maple splits the difference for drummers whose material blends both approaches.`,
+**Our Recommendation:** Start with a deep steel shell if your material leans toward slow, crushing Pantera-style grooves. Maple splits the difference for drummers whose material blends both approaches.`,
       comparisonTable: [
         { feature: "Brightness/Cut", steel: "⭐⭐⭐⭐⭐", brassMaple: "⭐⭐⭐⭐" },
         { feature: "Speed/Articulation", steel: "⭐⭐⭐", brassMaple: "⭐⭐⭐⭐" },
@@ -60234,7 +60233,7 @@ Maple's naturally warm character makes this a strong choice for groove metal dru
         },
         {
           category: "Best for Melodic Groove Metal",
-          pedal: "Pearl Reference Brass",
+          pedal: "ddrum Dios Maple",
           reason: "Shannon Larkin's balanced, road-tested setup — power and warmth in one package."
         },
         {
@@ -60254,14 +60253,14 @@ Maple's naturally warm character makes this a strong choice for groove metal dru
     ],
     relatedDrummers: [
       { slug: 'vinnie-paul', name: 'Vinnie Paul', reason: 'Tama steel snare (1990-1996) — foundational groove metal crack' },
-      { slug: 'shannon-larkin', name: 'Shannon Larkin', reason: 'Pearl Reference Brass — Godsmack groove-driven power' },
+      { slug: 'shannon-larkin', name: 'Shannon Larkin', reason: 'ddrum Dios Maple — Godsmack groove-driven power' },
       { slug: 'igor-cavalera', name: 'Igor Cavalera', reason: 'Pearl Masters Custom (1993-1996) — Sepultura tribal groove metal' }
     ],
 
     // Featured drummers (issue template)
     featuredDrummers: [
       { slug: 'vinnie-paul', name: 'Vinnie Paul', reason: 'Tama steel snare (1990-1996) — foundational groove metal crack' },
-      { slug: 'shannon-larkin', name: 'Shannon Larkin', reason: 'Pearl Reference Brass — Godsmack groove-driven power' },
+      { slug: 'shannon-larkin', name: 'Shannon Larkin', reason: 'ddrum Dios Maple — Godsmack groove-driven power' },
       { slug: 'igor-cavalera', name: 'Igor Cavalera', reason: 'Pearl Masters Custom (1993-1996) — Sepultura tribal groove metal' }
     ],
 
@@ -60277,7 +60276,7 @@ Maple's naturally warm character makes this a strong choice for groove metal dru
       },
       {
         question: "What depth snare is best for groove metal?",
-        answer: "It depends on your style. Vinnie Paul's unusually deep 8\" shell maximizes body and projection for slow, heavy grooves. A middle-ground 6.5\" depth, like Shannon Larkin's Pearl Reference Brass, balances body and speed for drummers who need both."
+        answer: "It depends on your style. Vinnie Paul's unusually deep 8\" shell maximizes body and projection for slow, heavy grooves. A middle-ground 6.5\" depth, like Shannon Larkin's ddrum Dios Maple, balances body and speed for drummers who need both."
       },
       {
         question: "Do I need a signature snare to play groove metal?",
@@ -60288,7 +60287,7 @@ Maple's naturally warm character makes this a strong choice for groove metal dru
     // Conclusion
     conclusion: {
       title: "Find Your Groove Metal Snare Voice",
-      content: `Groove metal snare choice comes down to how your riffs move. Vinnie Paul's deep steel Tama snare defined the genre with maximum crack and body for slow, crushing grooves. Shannon Larkin and Igor Cavalera each found a balanced middle ground in brass and maple.
+      content: `Groove metal snare choice comes down to how your riffs move. Vinnie Paul's deep steel Tama snare defined the genre with maximum crack and body for slow, crushing grooves. Shannon Larkin and Igor Cavalera each found a balanced middle ground in maple.
 
 None of these approaches is more "correct" — all three have driven some of groove metal's most influential recordings. Start with whichever depth and material matches your riff style, and don't be afraid to experiment with tuning to find your own backbeat weight.
 

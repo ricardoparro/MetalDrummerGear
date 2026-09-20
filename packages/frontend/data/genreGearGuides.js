@@ -24919,7 +24919,7 @@ Land the breakdown. Cut through the mix.`
       title: "What Bass Drum Setup Do Nu-Metal Drummers Actually Use?",
       content: `Nu-metal's bass drum has a different job than most of metal: instead of chasing blast-beat attack and speed, it needs to deliver a fuller, warmer low end that locks into groove-driven, hip-hop-influenced patterns beneath heavily down-tuned guitars. The genre rewards feel and pocket over raw double-bass velocity, which shapes shell choice as much as tuning.
 
-Joey Jordison built Slipknot's explosive, theatrical sound on a Pearl Reference Series kit, running a dual bass drum configuration whose maple/birch hybrid shells powered the "Iowa" era's brutal, high-energy live performances. Ray Luzier has anchored Korn's dense, syncopated grooves since 2007 on a Pearl Reference Series bass drum, delivering the powerful, warm low end that fills out the band's processed, down-tuned productions. John Otto locked in Limp Bizkit's hip-hop/metal crossover groove on a visually and sonically distinctive OCDP Custom Type 5 Acrylic bass drum, prioritizing pocket and feel over raw speed throughout "Significant Other" and "Chocolate Starfish and the Hot Dog Flavored Water."
+Joey Jordison built Slipknot's explosive, theatrical sound on a Pearl Reference Series kit, running a dual bass drum configuration whose maple/birch hybrid shells powered the "Iowa" era's brutal, high-energy live performances. Ray Luzier has anchored Korn's dense, syncopated grooves since 2013 on a Pearl Reference Series bass drum, delivering the powerful, warm low end that fills out the band's processed, down-tuned productions. John Otto locked in Limp Bizkit's hip-hop/metal crossover groove on a visually and sonically distinctive OCDP Custom Type 5 Acrylic bass drum, prioritizing pocket and feel over raw speed throughout "Significant Other" and "Chocolate Starfish and the Hot Dog Flavored Water."
 
 This guide breaks down exactly what makes a bass drum work for nu-metal - shell material, low-end fullness, and single versus dual configurations - and which specific shells the genre's most influential drummers actually play.`,
       keyPoints: [
@@ -24987,12 +24987,12 @@ This guide breaks down exactly what makes a bass drum work for nu-metal - shell 
           tier: "pro",
           material: "Maple, 22\"x18\"",
 
-          description: `Ray Luzier has anchored Korn's dense, syncopated grooves on a Pearl Reference Series bass drum since joining the band in 2007, delivering the powerful, warm low end that fills out Korn's processed, down-tuned productions across records from "Korn III" through "The Paradigm Shift."
+          description: `Ray Luzier has anchored Korn's dense, syncopated grooves on a Pearl Reference Series bass drum since switching from DW for "The Paradigm Shift" (2013), delivering the powerful, warm low end that fills out Korn's processed, down-tuned productions from "The Paradigm Shift" onward.
 
 The maple shell's full-bodied projection gives Luzier's groove-focused, syncopated kick patterns real weight without turning boomy - exactly what nu-metal's down-tuned guitar tones need underneath them.`,
 
           pros: [
-            "Ray Luzier's exact Korn bass drum since 2007",
+            "Ray Luzier's exact Korn bass drum since 2013",
             "Warm, full-bodied maple projection ideal for down-tuned riffing",
             "Handles syncopated, groove-focused kick patterns with consistent tone",
             "Reliable Pearl hardware for demanding live performance",
@@ -25011,7 +25011,7 @@ The maple shell's full-bodied projection gives Luzier's groove-focused, syncopat
             configuration: "Single, double-pedal driven"
           },
           usedBy: [
-            { name: "Ray Luzier", band: "Korn", note: "Pearl Reference Series - warm, powerful low end since 2007" }
+            { name: "Ray Luzier", band: "Korn", note: "Pearl Reference Series - warm, powerful low end since 2013" }
           ],
           verdict: "The nu-metal groove standard - Ray Luzier's proven choice for Korn's dense productions.",
           rating: 4.7,
@@ -25197,7 +25197,7 @@ Acrylic's bright, focused low end gave Otto's hip-hop-informed patterns a distin
     ],
     relatedDrummers: [
       { slug: 'joey-jordison', name: 'Joey Jordison', reason: 'Dual Pearl Reference Series - Slipknot\'s theatrical, high-energy low end' },
-      { slug: 'ray-luzier', name: 'Ray Luzier', reason: 'Pearl Reference Series - Korn\'s warm, syncopated groove since 2007' },
+      { slug: 'ray-luzier', name: 'Ray Luzier', reason: 'Pearl Reference Series - Korn\'s warm, syncopated groove since 2013' },
       { slug: 'john-otto', name: 'John Otto', reason: 'OCDP Custom Type 5 Acrylic - Limp Bizkit\'s groove-first low end' }
     ],
 

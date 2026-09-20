@@ -13473,7 +13473,7 @@ Whatever you choose: tune it properly, replace heads regularly, and lock down th
     // SEO metadata
     title: "Best Snare Drums for Death Metal: 2026 Expert Guide",
     metaTitle: "Best Snare Drums for Death Metal 2026 | MetalForge Expert Guide",
-    description: "Best snare drums for death metal. What George Kollias (Pearl) and Flo Mounier (Pearl/DW) actually use — Pearl Sensitone, Ludwig Acrolite, Pork Pie Little Squealer, DW Collector's Steel reviewed.",
+    description: "Best snare drums for death metal. What George Kollias (Pearl) and Flo Mounier (Tama) actually use — Pearl Sensitone, Ludwig Acrolite, Pork Pie Little Squealer, DW Collector's Steel reviewed.",
     seoKeywords: [
       'best snare drums for death metal',
       'death metal snare drum',
@@ -13729,14 +13729,13 @@ The Little Squealer's thin steel shell and aggressive tuning range mean it can b
 
           description: `The Ludwig Acrolite is a legendary snare that punches far above its price class. The thin aluminum shell produces a light, cutting crack with exceptional sensitivity — different in character from steel (lighter, more ping-like) but extremely effective for death metal's demands. The Acrolite's thin-shell construction responds readily at any dynamic level, making ghost notes and technique transitions more audible.
 
-Flo Mounier has referenced Ludwig equipment at various career stages. The Acrolite's character — light, fast, sensitive — suits Cryptopsy's brand of technical death metal that blends speed with dynamic range. At its budget price point, the Acrolite remains one of the most cost-effective professional snare drums ever made.`,
+The Acrolite's character — light, fast, sensitive — suits technical death metal that blends speed with dynamic range. At its budget price point, it remains one of the most cost-effective professional snare drums ever made.`,
 
           pros: [
             "Legendary budget snare with professional character",
             "Aluminum shell for light, fast, cutting crack",
             "Exceptional sensitivity for ghost notes and technical playing",
-            "Ludwig quality at accessible price",
-            "Flo Mounier has referenced Ludwig snares for technical death metal"
+            "Ludwig quality at accessible price"
           ],
           cons: [
             "Aluminum character lighter than steel — less aggressive",
@@ -13750,9 +13749,6 @@ Flo Mounier has referenced Ludwig equipment at various career stages. The Acroli
             throwOff: "Ludwig P85",
             wires: "20-strand"
           },
-          usedBy: [
-            { name: "Flo Mounier", band: "Cryptopsy", note: "Ludwig equipment referenced — technical death metal sensitivity" }
-          ],
           verdict: "The legendary budget death metal snare. Aluminum sensitivity at accessible pricing — a genuine professional option.",
           rating: 4.4,
           affiliateLink: "https://www.thomann.de/intl/ludwig_lm404_acrolite.htm?partner_id=metalforge"
@@ -13887,7 +13883,7 @@ Flo Mounier has referenced Ludwig equipment at various career stages. The Acroli
       },
       {
         question: "What snare drum does Flo Mounier use?",
-        answer: "Flo Mounier of Cryptopsy uses Pearl and DW snare drums for his technical death metal work. His snare choices prioritize sensitivity for the ghost note work and dynamic range that characterize Cryptopsy's approach — not just brute loudness, but controlled sensitivity at extreme tempos. Ludwig equipment has also been referenced across his career."
+        answer: "Flo Mounier of Cryptopsy has played a Tama Starclassic Maple kit since 2012, after earlier stints on Pearl (1992-2005) and Yamaha (2005-2012). His snare choices prioritize sensitivity for the ghost note work and dynamic range that characterize Cryptopsy's approach — not just brute loudness, but controlled sensitivity at extreme tempos."
       },
       {
         question: "Is a 13\" or 14\" snare better for death metal?",

@@ -110961,7 +110961,8 @@ Oversized tripod bases and reinforced tension bolts hold cymbal angle dead-stead
             weight: "Heavy"
           },
           usedBy: [
-            { name: "Mario Duplantier", band: "Gojira", note: "Tama hardware anchoring dual-kick, down-tuned crash impacts" }
+            { name: "Mario Duplantier", band: "Gojira", note: "Tama hardware anchoring dual-kick, down-tuned crash impacts" },
+            { name: "Igor Cavalera", band: "Sepultura", note: "Tama Iron Cobra Double Pedal, his hardware endorsement since 2018" }
           ],
           verdict: "The touring-grade standard for sludge metal's crushing, full-force cymbal impacts.",
           rating: 4.8,
@@ -111016,7 +111017,7 @@ For a sludge metal drummer running oversized crash and china cymbals, a rack's o
           tier: "pro",
           material: "Double-braced steel",
 
-          description: `Igor Cavalera brought Sepultura's tribal, down-tuned heaviness to stages worldwide on hardware built to survive real road abuse, and Pearl's Pro Series shares that same touring-grade design philosophy, engineered for drummers who hit hard on a low-tuned, resonant kit.
+          description: `Sludge metal's tribal, down-tuned heaviness demands hardware built to survive real road abuse, and Pearl's Pro Series delivers that same touring-grade design philosophy, engineered for drummers who hit hard on a low-tuned, resonant kit.
 
 The line's reinforced tension bolts and secure locks hold up through sludge metal's deliberate, hard-hitting dynamics without the cymbal angles drifting mid-set.`,
 
@@ -111037,9 +111038,7 @@ The line's reinforced tension bolts and secure locks hold up through sludge meta
             includes: "Sold as individual stands or packs",
             weight: "Heavy"
           },
-          usedBy: [
-            { name: "Igor Cavalera", band: "Sepultura", note: "Road-tested hardware surviving decades of touring abuse" }
-          ],
+          usedBy: [],
           verdict: "Durable, touring-proven hardware for sludge metal's hard-hitting, down-tuned dynamics.",
           rating: 4.6,
           affiliateLink: "https://www.thomann.de/intl/pearl_pro_series_hardware.htm?partner_id=metalforge"
@@ -111238,7 +111237,7 @@ For a sludge metal drummer building a first serious touring rig, the Armory pack
     faq: [
       {
         question: "What hardware do sludge metal drummers use?",
-        answer: "Sludge metal drummers favor heavy-gauge, double-braced hardware built to absorb hard, deliberate hits. Mario Duplantier relies on Tama's Titan Series for his dual-kick Gojira rig, Brann Dailor's heavy cymbal array often runs on a Gibraltar Road Series rack, Igor Cavalera has toured for decades on durable Pearl hardware, and Shannon Larkin uses genuinely heavy-duty DW hardware for Godsmack's punishing sets."
+        answer: "Sludge metal drummers favor heavy-gauge, double-braced hardware built to absorb hard, deliberate hits. Mario Duplantier relies on Tama's Titan Series for his dual-kick Gojira rig, Brann Dailor's heavy cymbal array often runs on a Gibraltar Road Series rack, Igor Cavalera has run a Tama Iron Cobra Double Pedal since 2018, and Shannon Larkin uses genuinely heavy-duty DW hardware for Godsmack's punishing sets."
       },
       {
         question: "Do I need heavier hardware for sludge metal than other genres?",

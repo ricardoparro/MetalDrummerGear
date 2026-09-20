@@ -110926,7 +110926,8 @@ Oversized tripod bases and reinforced tension bolts hold cymbal angle dead-stead
             weight: "Heavy"
           },
           usedBy: [
-            { name: "Mario Duplantier", band: "Gojira", note: "Tama hardware anchoring dual-kick, down-tuned crash impacts" }
+            { name: "Mario Duplantier", band: "Gojira", note: "Tama hardware anchoring dual-kick, down-tuned crash impacts" },
+            { name: "Igor Cavalera", band: "Sepultura", note: "Tama-endorsed hardware artist since 2018, built around his signature Iron Cobra Double Pedal" }
           ],
           verdict: "The touring-grade standard for sludge metal's crushing, full-force cymbal impacts.",
           rating: 4.8,
@@ -110981,7 +110982,7 @@ For a sludge metal drummer running oversized crash and china cymbals, a rack's o
           tier: "pro",
           material: "Double-braced steel",
 
-          description: `Igor Cavalera brought Sepultura's tribal, down-tuned heaviness to stages worldwide on hardware built to survive real road abuse, and Pearl's Pro Series shares that same touring-grade design philosophy, engineered for drummers who hit hard on a low-tuned, resonant kit.
+          description: `Sludge metal's down-tuned, hard-hitting dynamics call for hardware built around the same touring-grade design philosophy as the genre's heaviest-hitting drummers rely on, and Pearl's Pro Series delivers exactly that for drummers who hit hard on a low-tuned, resonant kit.
 
 The line's reinforced tension bolts and secure locks hold up through sludge metal's deliberate, hard-hitting dynamics without the cymbal angles drifting mid-set.`,
 
@@ -111002,9 +111003,7 @@ The line's reinforced tension bolts and secure locks hold up through sludge meta
             includes: "Sold as individual stands or packs",
             weight: "Heavy"
           },
-          usedBy: [
-            { name: "Igor Cavalera", band: "Sepultura", note: "Road-tested hardware surviving decades of touring abuse" }
-          ],
+          usedBy: [],
           verdict: "Durable, touring-proven hardware for sludge metal's hard-hitting, down-tuned dynamics.",
           rating: 4.6,
           affiliateLink: "https://www.thomann.de/intl/pearl_pro_series_hardware.htm?partner_id=metalforge"

@@ -65586,7 +65586,7 @@ Budget shouldn't stop you either. A Pearl Export or Ludwig Acrolite will teach r
     // SEO metadata
     title: "Best Snare Drums for Doom Metal: 2026 Ultimate Guide",
     metaTitle: "Best Snare Drums for Doom Metal 2026 | MetalForge Expert Guide",
-    description: "Best snare drums for doom metal drumming: what Bill Ward (Ludwig Supraphonic), Brann Dailor (Tama Starclassic Performer B/B), Mario Duplantier (Tama S.L.P. G-Maple), and Danny Carey (Sonor Custom) actually play. Deep, low-tuned snare tone for doom's crawling, riff-locked tempos — ranked budget to pro.",
+    description: "Best snare drums for doom metal drumming: what Bill Ward (Ludwig Supraphonic), Brann Dailor (Tama Starclassic Performer B/B), Mario Duplantier (Tama S.L.P. G-Maple), and Danny Carey (Sonor Danny Carey Signature Bronze) actually play. Deep, low-tuned snare tone for doom's crawling, riff-locked tempos — ranked budget to pro.",
     seoKeywords: [
       'best snare drums for doom metal',
       'doom metal snare drum',
@@ -65623,7 +65623,7 @@ Budget shouldn't stop you either. A Pearl Export or Ludwig Acrolite will teach r
       title: "Why Doom Metal Demands the Deepest, Lowest-Tuned Snare in Metal",
       content: `Doom metal is heavy metal slowed to its most extreme tempo and heaviest tonnage — a genre whose entire vocabulary traces back to Bill Ward's foundational, groove-locked drumming on Black Sabbath's earliest records. Where thrash and death metal snares are voiced to cut above a wall of fast picking, doom drops the tempo to a crawl and asks the opposite of its snare: carry maximum depth and weight on every deliberate hit, letting each strike ring out and breathe before the next one lands minutes — sometimes literally minutes — later in the riff.
 
-Bill Ward's Ludwig Supraphonic 14"x6.5" LM402 snare, now fully documented in MetalForge's drummer database, is the actual snare heard cracking through "Black Sabbath," "Iron Man," "War Pigs," and "Symptom of the Universe" — the direct, founding voice doom metal's tempo-and-tonnage template was built around on landmark albums like "Paranoid" (1970), "Master of Reality" (1971), and "Vol. 4" (1972). Brann Dailor of Mastodon doesn't have a separately documented signature snare, but his verified Tama Starclassic Performer B/B kit carries that same warm, musical resonance forward, anchoring the band's progressive sludge-doom catalog from "Remission" (2002) through "Leviathan" (2004). Mario Duplantier's Tama S.L.P. 14"x6.5" G-Maple snare gives Gojira's crushing, down-tuned passages their tectonic body, filtering doom's tonnage-first philosophy through technical death metal's compositional ambition. Danny Carey's dual-snare Sonor Custom setup with Tool adds the slow-building, atmospheric weight that doom's deceleration-as-intensity approach has always depended on.
+Bill Ward's Ludwig Supraphonic 14"x6.5" LM402 snare, now fully documented in MetalForge's drummer database, is the actual snare heard cracking through "Black Sabbath," "Iron Man," "War Pigs," and "Symptom of the Universe" — the direct, founding voice doom metal's tempo-and-tonnage template was built around on landmark albums like "Paranoid" (1970), "Master of Reality" (1971), and "Vol. 4" (1972). Brann Dailor of Mastodon doesn't have a separately documented signature snare, but his verified Tama Starclassic Performer B/B kit carries that same warm, musical resonance forward, anchoring the band's progressive sludge-doom catalog from "Remission" (2002) through "Leviathan" (2004). Mario Duplantier's Tama S.L.P. 14"x6.5" G-Maple snare gives Gojira's crushing, down-tuned passages their tectonic body, filtering doom's tonnage-first philosophy through technical death metal's compositional ambition. Danny Carey's Sonor Danny Carey Signature 14"x8" bronze snare — deeper than the rest of this lineup — provides the weighty, controlled tone that anchors Tool's slow-building compositions, adding the atmospheric weight that doom's deceleration-as-intensity approach has always depended on.
 
 This guide breaks down shell depth, material, and tuning for doom metal snares — comparing deep, low-tuned tone across four drummers whose lineages run from the genre's literal 1970s origin through its modern progressive and technical descendants, with recommendations from budget to professional touring rigs.`,
       keyPoints: [
@@ -65659,8 +65659,8 @@ This guide breaks down shell depth, material, and tuning for doom metal snares �
         {
           name: "Wide Dynamic Range",
           icon: "🎚️",
-          description: "Danny Carey's dual-snare Sonor Custom setup — a primary maple snare plus a secondary steel snare — lets him shift tonal character across Tool's long, slowly evolving compositions, where deceleration itself becomes doom's defining emotional device.",
-          recommendation: "A snare (or dual-snare setup) that holds its voice at a crawl and still responds when the riff finally erupts"
+          description: "Danny Carey's deep Sonor Danny Carey Signature 14\"x8\" bronze snare gives him the controlled tonal weight to shift character across Tool's long, slowly evolving compositions, where deceleration itself becomes doom's defining emotional device.",
+          recommendation: "A snare that holds its voice at a crawl and still responds when the riff finally erupts"
         },
         {
           name: "Durable Hardware for Slow, Heavy Backbeats",
@@ -65803,43 +65803,43 @@ For doom drummers chasing crushing weight filtered through technical precision, 
         },
         {
           rank: 4,
-          name: "Sonor Custom (Dual Snare)",
+          name: "Sonor Danny Carey Signature",
           brand: "Sonor",
-          model: "Custom 14\"x6.5\" + Secondary Steel",
+          model: "Danny Carey Signature 14\"x8\" Bronze",
           image: "https://upload.wikimedia.org/wikipedia/commons/a/ac/Drums_01.jpg",
-          priceRange: "€500-750 (pair)",
+          priceRange: "€500-650",
           tier: "premium",
-          material: "Maple + Steel (14x6.5\")",
+          material: "Bronze (14x8\")",
 
-          description: `Danny Carey's Fear Inoculum-era rig pairs a primary Sonor Custom 14"x6.5" maple snare with a secondary steel snare, letting him shift between warm and cutting tones within Tool's long, slowly evolving compositions. That patient, deceleration-as-atmosphere approach mirrors doom metal's own foundational philosophy — using extreme patience to intensify weight rather than momentum.
+          description: `Danny Carey's Sonor Danny Carey Signature 14"x8" bronze snare — deeper than the rest of this lineup — provides the weighty, controlled tone that anchors Tool's slow-building compositions, adding the patient, atmospheric weight that doom's deceleration-as-intensity approach has always depended on.
 
-The dual-snare configuration is a distinctive option for doom drummers who want tonal contrast without switching kits entirely — a warm maple voice for crushing main riffs, and a brighter steel voice available for cutting through denser or more dynamically varied passages.`,
+The bronze shell's dark, controlled voice suits doom drummers chasing maximum depth without sacrificing the definition a deliberate, riff-locked backbeat still needs.`,
 
           pros: [
-            "Danny Carey's Fear Inoculum-era Tool setup on Sonor Custom — deceleration-as-atmosphere philosophy shared with doom",
-            "Dual-voice configuration for tonal contrast within a single kit",
-            "Primary maple shell for warm, doom-appropriate body",
-            "Secondary steel snare adds brightness and cut when needed",
-            "Built for long, patient, slowly-evolving compositions"
+            "Danny Carey's actual Tool signature snare — deepest shell in this lineup for maximum doom-appropriate weight",
+            "Bronze shell delivers dark, controlled tone with real low-end body",
+            "Signature specification tuned for Carey's own compositional demands",
+            "Proven across Tool's most atmospheric, slowly-evolving recordings",
+            "8\" depth adds body for patient, deceleration-driven material"
           ],
           cons: [
-            "Premium pricing for a dual-snare configuration",
-            "More complex setup than a single-snare solution",
-            "Overkill for drummers who don't need tonal switching mid-song"
+            "Premium signature pricing",
+            "8\" depth sacrifices some of the faster articulation shallower shells offer",
+            "Bronze's darker voicing is less bright than Ward's aluminum Supraphonic"
           ],
           specs: {
-            shell: "Maple (primary) + Steel (secondary)",
+            shell: "Bronze",
             diameter: "14\"",
-            depth: "6.5\"",
-            throwOff: "Sonor TuneSafe",
-            wires: "20-strand (each)"
+            depth: "8\"",
+            throwOff: "Sonor Signature",
+            wires: "20-strand"
           },
           usedBy: [
-            { name: "Danny Carey", band: "Tool", note: "14x6.5\" Sonor Custom dual snare — patient, atmospheric doom-adjacent weight" }
+            { name: "Danny Carey", band: "Tool", note: "Sonor Danny Carey Signature 14x8\" Bronze — patient, atmospheric doom-adjacent weight" }
           ],
-          verdict: "Best for atmospheric, slow-building doom. Carey's dual-voice setup adds tonal contrast to patient compositions.",
-          rating: 4.5,
-          affiliateLink: "https://www.thomann.de/intl/sonor_custom_dual_snare.htm?partner_id=metalforge"
+          verdict: "Best for maximum atmospheric weight. Carey's deep bronze signature adds patient, slow-building doom-adjacent depth.",
+          rating: 4.6,
+          affiliateLink: "https://www.thomann.de/intl/sonor_danny_carey_signature_snare.htm?partner_id=metalforge"
         }
       ]
     },
@@ -65960,7 +65960,7 @@ The dual-snare configuration is a distinctive option for doom drummers who want 
       { slug: 'bill-ward', name: 'Bill Ward', reason: 'Ludwig Supraphonic LM402 — Black Sabbath doom metal\'s genre-founding crack' },
       { slug: 'brann-dailor', name: 'Brann Dailor', reason: 'Tama Starclassic Performer B/B — Mastodon\'s warmest modern progressive doom lineage' },
       { slug: 'mario-duplantier', name: 'Mario Duplantier', reason: 'Tama S.L.P. G-Maple — Gojira\'s crushing, tectonic doom-adjacent weight' },
-      { slug: 'danny-carey', name: 'Danny Carey', reason: 'Sonor Custom dual snare — Tool\'s patient, atmospheric doom-adjacent weight' }
+      { slug: 'danny-carey', name: 'Danny Carey', reason: 'Sonor Danny Carey Signature Bronze — Tool\'s patient, atmospheric doom-adjacent weight' }
     ],
 
     // Featured drummers (issue template)
@@ -65968,14 +65968,14 @@ The dual-snare configuration is a distinctive option for doom drummers who want 
       { slug: 'bill-ward', name: 'Bill Ward', reason: 'Ludwig Supraphonic LM402 — Black Sabbath doom metal\'s genre-founding crack' },
       { slug: 'brann-dailor', name: 'Brann Dailor', reason: 'Tama Starclassic Performer B/B — Mastodon\'s warmest modern progressive doom lineage' },
       { slug: 'mario-duplantier', name: 'Mario Duplantier', reason: 'Tama S.L.P. G-Maple — Gojira\'s crushing, tectonic doom-adjacent weight' },
-      { slug: 'danny-carey', name: 'Danny Carey', reason: 'Sonor Custom dual snare — Tool\'s patient, atmospheric doom-adjacent weight' }
+      { slug: 'danny-carey', name: 'Danny Carey', reason: 'Sonor Danny Carey Signature Bronze — Tool\'s patient, atmospheric doom-adjacent weight' }
     ],
 
     // FAQ section for SEO
     faq: [
       {
         question: "Who are the best doom metal drummers and what snares do they use?",
-        answer: "Bill Ward of Black Sabbath, doom metal's genre-founding drummer, plays a Ludwig Supraphonic 14x6.5\" LM402 snare. Brann Dailor of Mastodon doesn't have a separately documented signature snare — his verified Tama Starclassic Performer B/B kit is the closest reference. Mario Duplantier of Gojira plays a Tama S.L.P. G-Maple 14x6.5\" snare, and Danny Carey of Tool runs a dual-snare Sonor Custom setup."
+        answer: "Bill Ward of Black Sabbath, doom metal's genre-founding drummer, plays a Ludwig Supraphonic 14x6.5\" LM402 snare. Brann Dailor of Mastodon doesn't have a separately documented signature snare — his verified Tama Starclassic Performer B/B kit is the closest reference. Mario Duplantier of Gojira plays a Tama S.L.P. G-Maple 14x6.5\" snare, and Danny Carey of Tool plays a Sonor Danny Carey Signature 14x8\" bronze snare."
       },
       {
         question: "What snare drum does Bill Ward use?",
@@ -65998,7 +65998,7 @@ The dual-snare configuration is a distinctive option for doom drummers who want 
     // Conclusion
     conclusion: {
       title: "Find Your Doom Metal Snare Voice",
-      content: `Doom metal snare choice comes down to how much depth and low-tuned weight your riffs demand. Bill Ward's Ludwig Supraphonic defined the genre's actual founding crack, anchoring Black Sabbath's earliest, most influential records. Brann Dailor's Tama Starclassic Performer B/B kit proved that same warm, weighted foundation could carry forward into modern, more densely layered progressive sludge-doom. Mario Duplantier's Tama S.L.P. G-Maple shows how technical precision can layer onto doom's crushing, tonnage-first foundation, while Danny Carey's dual-snare Sonor setup demonstrates how deliberate deceleration itself can become doom's defining atmospheric device.
+      content: `Doom metal snare choice comes down to how much depth and low-tuned weight your riffs demand. Bill Ward's Ludwig Supraphonic defined the genre's actual founding crack, anchoring Black Sabbath's earliest, most influential records. Brann Dailor's Tama Starclassic Performer B/B kit proved that same warm, weighted foundation could carry forward into modern, more densely layered progressive sludge-doom. Mario Duplantier's Tama S.L.P. G-Maple shows how technical precision can layer onto doom's crushing, tonnage-first foundation, while Danny Carey's deep Sonor Danny Carey Signature bronze snare demonstrates how deliberate deceleration itself can become doom's defining atmospheric device.
 
 None of these approaches is more "correct" — all four represent doom metal's founding commitment to depth and weight over speed and cut. Start with whichever depth and material matches your material's density, and don't be afraid to tune lower and more open than other metal subgenres would suggest.
 

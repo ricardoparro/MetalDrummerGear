@@ -66831,7 +66831,7 @@ Budget shouldn't stop you either. A Zildjian A series or Meinl HCS set will teac
     // SEO metadata
     title: "Best Drum Kits for Mathcore: 2026 Ultimate Guide",
     metaTitle: "Best Drum Kits for Mathcore in 2026 | MetalForge Expert Guide",
-    description: "Best drum kits for mathcore's dissonant, odd-time aggression: what Ben Koller (Tama Starclassic Maple, Converge), Matt Greiner (Greiner & Kilmer Custom, August Burns Red), Blake Richardson (Tama Starclassic Bubinga, BTBAM), and Danny Carey (Sonor SQ2 Heavy Beech, Tool) actually play. Ranked budget to pro.",
+    description: "Best drum kits for mathcore's dissonant, odd-time aggression: what Ben Koller (Tama Starclassic Maple, Converge), Matt Greiner (Mapex Black Panther Design Lab, August Burns Red), Blake Richardson (Tama Starclassic Bubinga, BTBAM), and Danny Carey (Sonor SQ2 Heavy Beech, Tool) actually play. Ranked budget to pro.",
     seoKeywords: [
       'best drum kits for mathcore',
       'mathcore drum kit',
@@ -66868,12 +66868,12 @@ Budget shouldn't stop you either. A Zildjian A series or Meinl HCS set will teac
       title: "What Drum Kit Should I Use for Mathcore?",
       content: `Mathcore fuses hardcore punk's raw aggression with progressive rock's obsession with odd meters, asymmetrical riffing, and constantly shifting rhythmic cells. That combination demands a kit that can deliver both immediate, punishing attack for hardcore-rooted breakdowns and enough tonal clarity to keep complex, irregular fills legible rather than muddy.
 
-Ben Koller's Tama Starclassic Maple kit has anchored Converge's landmark "Jane Doe" (2001) and every record since, its warm, projecting shells built for touring durability across 25-plus years of relentless hardcore shows. Matt Greiner of August Burns Red plays a Meinl Drum Festival Kit built to his Greiner & Kilmer Custom specification, carrying math metal's rhythmic complexity into mathcore-adjacent metalcore. Blake Richardson of Between the Buried and Me runs a Tama Starclassic Bubinga in a custom finish, chosen for the dense, punchy low end BTBAM's genre-hopping technicality needs. Danny Carey of Tool plays a Sonor SQ2 Heavy Beech kit, whose weighty, controlled tone anchors Tool's Fibonacci-structured polyrhythms — a compositional rigor that directly informed math metal and mathcore's own rhythmic ambitions.
+Ben Koller's Tama Starclassic Maple kit has anchored Converge's landmark "Jane Doe" (2001) and every record since, its warm, projecting shells built for touring durability across 25-plus years of relentless hardcore shows. Matt Greiner of August Burns Red plays a Mapex Black Panther Design Lab kit, a maple/walnut hybrid shell pack he switched to in 2016, carrying math metal's rhythmic complexity into mathcore-adjacent metalcore. Blake Richardson of Between the Buried and Me runs a Tama Starclassic Bubinga in a custom finish, chosen for the dense, punchy low end BTBAM's genre-hopping technicality needs. Danny Carey of Tool plays a Sonor SQ2 Heavy Beech kit, whose weighty, controlled tone anchors Tool's Fibonacci-structured polyrhythms — a compositional rigor that directly informed math metal and mathcore's own rhythmic ambitions.
 
 This guide breaks down what actually makes a kit work for mathcore — durability, tonal clarity, and shell character across constantly shifting meters — and which specific kits these four influential drummers rely on, from budget-friendly starters to the professional rigs behind the genre's most rhythmically unpredictable records.`,
       keyPoints: [
         "Ben Koller's Tama Starclassic Maple has anchored Converge's mathcore-founding sound since \"Jane Doe\" (2001)",
-        "Matt Greiner's Greiner & Kilmer Custom kit carries math metal complexity into mathcore-adjacent metalcore",
+        "Matt Greiner's Mapex Black Panther Design Lab kit carries math metal complexity into mathcore-adjacent metalcore",
         "Blake Richardson's Tama Starclassic Bubinga suits BTBAM's genre-hopping, dynamically extreme technicality",
         "Danny Carey's Sonor SQ2 Heavy Beech anchors the Fibonacci-structured rigor that informed mathcore's rhythmic ambitions"
       ]
@@ -66892,7 +66892,7 @@ This guide breaks down what actually makes a kit work for mathcore — durabilit
         {
           name: "Tonal Clarity Across Odd-Time Fills",
           icon: "🧮",
-          description: "Mathcore's constantly shifting time signatures and asymmetrical rhythmic cells need a kit voiced clearly enough that complex fills read as music, not noise. Matt Greiner's Greiner & Kilmer Custom kit is built specifically for that legibility.",
+          description: "Mathcore's constantly shifting time signatures and asymmetrical rhythmic cells need a kit voiced clearly enough that complex fills read as music, not noise. Matt Greiner's Mapex Black Panther Design Lab kit is voiced specifically for that legibility.",
           recommendation: "Clear, well-separated tom voicing that keeps odd-grouped fills legible at speed"
         },
         {
@@ -66914,10 +66914,10 @@ This guide breaks down what actually makes a kit work for mathcore — durabilit
           recommendation: "A compact four-to-six-piece configuration that's practical to tour in a van"
         },
         {
-          name: "Custom Specification for Exact Tonal Control",
+          name: "Configurable Shell Composition for Exact Tonal Control",
           icon: "🔧",
-          description: "Matt Greiner's Greiner & Kilmer Custom build lets him dial in exact shell depth and bearing edge specification for his jazz-influenced dynamics — proof that a fully custom build can serve mathcore's technical demands as well as any flagship production kit.",
-          recommendation: "A custom-spec shell pack if your technique demands exact tonal control beyond stock configurations"
+          description: "Matt Greiner's Mapex Black Panther Design Lab program lets him configure maple/walnut shell composition for his jazz-influenced dynamics — proof that a configurable production platform can serve mathcore's technical demands as well as any flagship kit.",
+          recommendation: "A configurable shell program if your technique demands more tonal control than a fixed stock configuration offers"
         }
       ]
     },
@@ -66938,7 +66938,7 @@ This guide breaks down what actually makes a kit work for mathcore — durabilit
 
           description: `Ben Koller's Tama Starclassic Maple kit has anchored every Converge record since "Jane Doe" (2001), an album where his fluid control within apparent rhythmic chaos turned mathcore's unpredictability into genuine musical expression. The 6-ply maple shells give warm, projecting tone that has survived 25-plus years of relentless touring without a platform change.
 
-Paired with a Tama S.L.P. 14"x6" brass snare and Zildjian K and A Custom cymbals, Koller's compact, single-kick setup reflects hardcore punk's van-touring practicality — nothing unnecessary, everything purposeful.`,
+Paired with Zildjian K and A Custom cymbals, Koller's compact, single-kick setup reflects hardcore punk's van-touring practicality — nothing unnecessary, everything purposeful.`,
 
           pros: [
             "Ben Koller's Converge setup — mathcore's founding, most directly documented kit",
@@ -66968,43 +66968,43 @@ Paired with a Tama S.L.P. 14"x6" brass snare and Zildjian K and A Custom cymbals
         },
         {
           rank: 2,
-          name: "Greiner & Kilmer Custom",
-          brand: "Meinl",
-          model: "Drum Festival Kit / Greiner & Kilmer Custom",
+          name: "Mapex Black Panther Design Lab",
+          brand: "Mapex",
+          model: "Black Panther Design Lab",
           image: "https://upload.wikimedia.org/wikipedia/commons/a/ac/Drums_01.jpg",
-          priceRange: "€3200-5000 (custom shell pack)",
-          tier: "premium",
-          material: "Custom Maple",
+          priceRange: "€2500-4000 (shell pack)",
+          tier: "pro",
+          material: "Maple/Walnut Hybrid",
 
-          description: `Matt Greiner's Greiner & Kilmer Custom kit brings math metal's rhythmic complexity into mathcore-adjacent metalcore with August Burns Red. Built to his own specification through Meinl's Drum Festival Kit program, the shells are voiced for the tonal clarity his jazz-influenced dynamics and odd time signature integration demand.
+          description: `Matt Greiner's Mapex Black Panther Design Lab kit, a maple/walnut hybrid shell pack he switched to in 2016, brings math metal's rhythmic complexity into mathcore-adjacent metalcore with August Burns Red. The Design Lab program lets him configure shell composition per drum for the tonal clarity his jazz-influenced dynamics and odd time signature integration demand.
 
-The custom-spec build lets Greiner dial in exact shell depth and bearing edge for legible, well-separated fills across August Burns Red's technically demanding, Grammy-nominated catalog.`,
+The middle walnut plies add midrange bite and warmth between maple's cut and focus, giving legible, well-separated fills across August Burns Red's technically demanding, Grammy-nominated catalog.`,
 
           pros: [
             "Matt Greiner's August Burns Red setup — math metal complexity in mathcore-adjacent metalcore",
-            "Custom specification allows exact tonal control beyond stock configurations",
+            "Design Lab program allows shell-by-shell tonal configuration",
             "Clear, well-separated tom voicing keeps odd-time fills legible at speed",
             "Proven across August Burns Red's Grammy-nominated, technically demanding catalog",
-            "Distinctive boutique choice within mathcore's largely mass-production landscape"
+            "Maple/walnut hybrid tone distinct from the pure maple and bubinga kits elsewhere in this lineup"
           ],
           cons: [
-            "Custom builds carry premium pricing and longer lead times",
+            "Premium pricing for Design Lab shell configurations",
             "Less widely stocked than flagship Tama or Sonor production kits",
-            "Overkill for drummers not chasing a fully custom tonal specification"
+            "Walnut hybrid tone less raw than pure maple alternatives"
           ],
           specs: {
-            shell: "Custom Maple",
-            mount: "Custom direct mount",
-            finish: "Custom finish options",
+            shell: "8-Ply Maple/Walnut Hybrid",
+            mount: "Mapex SONIClear Suspension Mount",
+            finish: "Multiple custom finish options",
             kickSize: "22\" x 18\" (single)",
-            tomSizes: "10\", 12\", 13\" rack / 16\", 18\" floor"
+            tomSizes: "10\", 12\", 13\" rack / 16\" floor"
           },
           usedBy: [
-            { name: "Matt Greiner", band: "August Burns Red", note: "Greiner & Kilmer Custom — math metal complexity in mathcore-adjacent metalcore" }
+            { name: "Matt Greiner", band: "August Burns Red", note: "Mapex Black Panther Design Lab — math metal complexity in mathcore-adjacent metalcore" }
           ],
-          verdict: "Best for jazz-informed technical precision. Greiner's custom build carries math metal complexity into breakdown-driven songwriting.",
+          verdict: "Best for jazz-informed technical precision. Greiner's Design Lab kit carries math metal complexity into breakdown-driven songwriting.",
           rating: 4.6,
-          affiliateLink: "https://www.thomann.de/intl/meinl_drum_festival_kit.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/mapex_black_panther_design_lab.htm?partner_id=metalforge"
         },
         {
           rank: 3,
@@ -67127,7 +67127,7 @@ Paired with a Sonor Danny Carey Signature 14"x8" bronze snare and Paiste Signatu
 
     // Flagship vs custom comparison
     comparison: {
-      title: "Flagship Production vs Custom Build for Mathcore",
+      title: "Flagship Production vs Configurable Shell Program for Mathcore",
       content: `Kit choice splits mathcore's founding and adjacent drummers into two clear camps. Here's how each compares:
 
 **Flagship Production (Ben Koller - Tama, Blake Richardson - Tama, Danny Carey - Sonor):**
@@ -67136,20 +67136,20 @@ Paired with a Sonor Danny Carey Signature 14"x8" bronze snare and Paiste Signatu
 - The dominant choice across mathcore's most influential and longest-running acts
 - Best for: Drummers who want proven reliability and worldwide support
 
-**Custom Boutique (Matt Greiner - Greiner & Kilmer Custom):**
-- Fully custom, per-shell specification built around one drummer's exact technique
-- Distinctive tonal character outside the mass-production landscape
+**Configurable Shell Program (Matt Greiner - Mapex Black Panther Design Lab):**
+- Maple/walnut hybrid shells configurable per drum through Mapex's Design Lab program
+- Distinctive hybrid tonal character within a production, not fully bespoke, platform
 - Proven at the highest level on August Burns Red's Grammy-nominated recordings
-- Best for: Drummers chasing an exact, personalized tonal specification
+- Best for: Drummers who want shell-level tonal control without a fully custom commission
 
-**The Truth:** Both approaches sit at the top of mathcore's gear hierarchy. Flagship production kits from Tama and Sonor dominate the genre's most influential acts, while Matt Greiner's custom build proves a boutique specification can match them at the highest level.
+**The Truth:** Both approaches sit at the top of mathcore's gear hierarchy. Flagship production kits from Tama and Sonor dominate the genre's most influential acts, while Matt Greiner's configurable Design Lab kit proves a hybrid-shell production platform can match them at the highest level.
 
-**Our Recommendation:** Choose a flagship production kit if you want proven reliability and worldwide support. Choose a custom build once your technique and budget are ready for a fully personalized specification.`,
+**Our Recommendation:** Choose a flagship production kit if you want proven reliability and worldwide support. Choose a configurable shell program once your technique calls for more per-drum tonal control than a fixed stock configuration offers.`,
       comparisonTable: [
         { feature: "Durability/Touring", flagship: "⭐⭐⭐⭐⭐", boutique: "⭐⭐⭐⭐" },
-        { feature: "Customization", flagship: "⭐⭐⭐", boutique: "⭐⭐⭐⭐⭐" },
+        { feature: "Customization", flagship: "⭐⭐⭐", boutique: "⭐⭐⭐⭐" },
         { feature: "Worldwide Support", flagship: "⭐⭐⭐⭐⭐", boutique: "⭐⭐⭐" },
-        { feature: "Price (entry)", flagship: "€2800+", boutique: "€3200+" }
+        { feature: "Price (entry)", flagship: "€2800+", boutique: "€2500+" }
       ]
     },
 
@@ -67164,7 +67164,7 @@ Paired with a Sonor Danny Carey Signature 14"x8" bronze snare and Paiste Signatu
         },
         {
           category: "Best for Technical Precision",
-          pedal: "Greiner & Kilmer Custom",
+          pedal: "Mapex Black Panther Design Lab",
           reason: "Matt Greiner's August Burns Red setup — math metal complexity in mathcore-adjacent metalcore."
         },
         {
@@ -67189,7 +67189,7 @@ Paired with a Sonor Danny Carey Signature 14"x8" bronze snare and Paiste Signatu
     ],
     relatedDrummers: [
       { slug: 'ben-koller', name: 'Ben Koller', reason: 'Tama Starclassic Maple — Converge mathcore\'s founding kit' },
-      { slug: 'matt-greiner', name: 'Matt Greiner', reason: 'Greiner & Kilmer Custom — August Burns Red math metal complexity' },
+      { slug: 'matt-greiner', name: 'Matt Greiner', reason: 'Mapex Black Panther Design Lab — August Burns Red math metal complexity' },
       { slug: 'blake-richardson', name: 'Blake Richardson', reason: 'Tama Starclassic Bubinga — BTBAM genre-hopping technicality' },
       { slug: 'danny-carey', name: 'Danny Carey', reason: 'Sonor SQ2 Heavy Beech — Tool\'s Fibonacci-structured rigor' }
     ],
@@ -67197,7 +67197,7 @@ Paired with a Sonor Danny Carey Signature 14"x8" bronze snare and Paiste Signatu
     // Featured drummers (issue template)
     featuredDrummers: [
       { slug: 'ben-koller', name: 'Ben Koller', reason: 'Tama Starclassic Maple — Converge mathcore\'s founding kit' },
-      { slug: 'matt-greiner', name: 'Matt Greiner', reason: 'Greiner & Kilmer Custom — August Burns Red math metal complexity' },
+      { slug: 'matt-greiner', name: 'Matt Greiner', reason: 'Mapex Black Panther Design Lab — August Burns Red math metal complexity' },
       { slug: 'blake-richardson', name: 'Blake Richardson', reason: 'Tama Starclassic Bubinga — BTBAM genre-hopping technicality' },
       { slug: 'danny-carey', name: 'Danny Carey', reason: 'Sonor SQ2 Heavy Beech — Tool\'s Fibonacci-structured rigor' }
     ],
@@ -67206,7 +67206,7 @@ Paired with a Sonor Danny Carey Signature 14"x8" bronze snare and Paiste Signatu
     faq: [
       {
         question: "What drum kit does Ben Koller use?",
-        answer: "Ben Koller of Converge plays a Tama Starclassic Maple kit that has anchored every Converge record since \"Jane Doe\" (2001), paired with a Tama S.L.P. 14\"x6\" brass snare and Zildjian K and A Custom cymbals in a compact, single-kick configuration built for van-touring practicality."
+        answer: "Ben Koller of Converge plays a Tama Starclassic Maple kit that has anchored every Converge record since \"Jane Doe\" (2001), paired with Zildjian K and A Custom cymbals in a compact, single-kick configuration built for van-touring practicality."
       },
       {
         question: "What drum kit does Danny Carey use?",
@@ -67222,16 +67222,16 @@ Paired with a Sonor Danny Carey Signature 14"x8" bronze snare and Paiste Signatu
       },
       {
         question: "Do I need an expensive custom kit to play mathcore?",
-        answer: "No — a Tama Imperialstar or Sonor AQ2 shell pack will teach real mathcore technique at a fraction of the price of Ben Koller's Starclassic or Matt Greiner's custom build. Upgrade once your technique and budget allow for a professional-tier or fully custom kit."
+        answer: "No — a Tama Imperialstar or Sonor AQ2 shell pack will teach real mathcore technique at a fraction of the price of Ben Koller's Starclassic or Matt Greiner's Design Lab kit. Upgrade once your technique and budget allow for a professional-tier or fully configurable kit."
       }
     ],
 
     // Conclusion
     conclusion: {
       title: "Build Your Mathcore Arsenal",
-      content: `Mathcore drum kits have one job above all others: stay durable and legible under both hardcore-rooted breakdown attack and constantly shifting odd-time fills. Ben Koller's Tama Starclassic Maple, Matt Greiner's Greiner & Kilmer Custom, Blake Richardson's Tama Starclassic Bubinga, and Danny Carey's Sonor SQ2 Heavy Beech each solve that challenge with a different balance of durability, customization, and tonal weight.
+      content: `Mathcore drum kits have one job above all others: stay durable and legible under both hardcore-rooted breakdown attack and constantly shifting odd-time fills. Ben Koller's Tama Starclassic Maple, Matt Greiner's Mapex Black Panther Design Lab, Blake Richardson's Tama Starclassic Bubinga, and Danny Carey's Sonor SQ2 Heavy Beech each solve that challenge with a different balance of durability, customization, and tonal weight.
 
-Whether you choose a flagship production kit for proven reliability or a custom build for exact tonal control, remember that mathcore's most influential drummers built their sound around fluid control within apparent rhythmic chaos — not gear alone.
+Whether you choose a flagship production kit for proven reliability or a configurable shell program for extra tonal control, remember that mathcore's most influential drummers built their sound around fluid control within apparent rhythmic chaos — not gear alone.
 
 Start where your budget allows — even a Tama Imperialstar or Sonor AQ2 will get you playing real mathcore. Prioritize technique and tuning before you chase a custom shell program.
 
@@ -67663,7 +67663,7 @@ Budget shouldn't stop you either. A Tama Iron Cobra 600 or Pearl Eliminator Redl
     // SEO metadata
     title: "Best Snare Drums for Mathcore: 2026 Ultimate Guide",
     metaTitle: "Best Snare Drums for Mathcore in 2026 | MetalForge Expert Guide",
-    description: "Best snare drums for mathcore's dissonant, odd-time aggression: what Ben Koller (Tama S.L.P. 14x6\" Brass, Converge), Matt Greiner (Greiner & Kilmer Custom 14x6.5\" Maple, August Burns Red), Blake Richardson (Tama Starphonic 14x6\" Brass, BTBAM), and Danny Carey (Sonor Signature 14x8\" Bronze, Tool) actually play. Ranked budget to pro.",
+    description: "Best snare drums for mathcore's dissonant, odd-time aggression: what Ben Koller (Tama Starclassic Performer B/B Matching Snare, Converge), Matt Greiner (Mapex Black Panther 14x5.5\" Maple, August Burns Red), Blake Richardson (Tama Starphonic 14x6\" Brass, BTBAM), and Danny Carey (Sonor Signature 14x8\" Bronze, Tool) actually play. Ranked budget to pro.",
     seoKeywords: [
       'best snare drums for mathcore',
       'mathcore snare drum',
@@ -67700,12 +67700,12 @@ Budget shouldn't stop you either. A Tama Iron Cobra 600 or Pearl Eliminator Redl
       title: "Why Mathcore Needs a Snare With Instant, Legible Attack",
       content: `Mathcore's constantly shifting time signatures and asymmetrical rhythmic cells put enormous demands on a snare drum. Every accent — whether it lands on the beat or in the middle of an odd-grouped fill — needs to register with instant, cutting clarity, or the genre's calculated rhythmic chaos collapses into mush.
 
-Ben Koller's Tama S.L.P. 14"x6" brass snare gives Converge's blast-and-breakdown vocabulary a bright, authoritative crack that cuts through even the densest hardcore mix. Matt Greiner's Greiner & Kilmer Custom 14"x6.5" maple snare, built to his own specification, provides the tonal warmth and articulation his jazz-influenced dynamics demand across August Burns Red's odd-time integration. Blake Richardson's Tama Starphonic 14"x6" brass snare delivers a cutting crack across Between the Buried and Me's dramatic genre-hopping swings. Danny Carey's Sonor Danny Carey Signature 14"x8" bronze snare — deeper than the others at 8" — provides the weighty, controlled tone that anchors Tool's Fibonacci-structured polyrhythms.
+Ben Koller doesn't have a separately documented signature snare, but his verified Tama Starclassic Performer B/B kit's matching birch/bubinga snare gives Converge's blast-and-breakdown vocabulary an authoritative crack that cuts through even the densest hardcore mix. Matt Greiner's Mapex Black Panther 14"x5.5" maple snare provides the tonal warmth and articulation his jazz-influenced dynamics demand across August Burns Red's odd-time integration. Blake Richardson's Tama Starphonic 14"x6" brass snare delivers a cutting crack across Between the Buried and Me's dramatic genre-hopping swings. Danny Carey's Sonor Danny Carey Signature 14"x8" bronze snare — deeper than the others at 8" — provides the weighty, controlled tone that anchors Tool's Fibonacci-structured polyrhythms.
 
 This guide breaks down shell material, depth, and tuning for mathcore snares — comparing crisp, cutting attack across four drummers whose hardcore-rooted and progressive lineages define the genre's rhythmically unpredictable aggression, with recommendations from budget to professional touring rigs.`,
       keyPoints: [
-        "Ben Koller's Tama S.L.P. 14x6\" brass snare gives Converge's blast-and-breakdown vocabulary an authoritative crack",
-        "Matt Greiner's custom 14x6.5\" maple snare provides warmth and articulation for jazz-influenced odd-time dynamics",
+        "Ben Koller's Tama Starclassic Performer B/B kit's matching birch/bubinga snare gives Converge's blast-and-breakdown vocabulary an authoritative crack",
+        "Matt Greiner's Mapex Black Panther 14x5.5\" maple snare provides warmth and articulation for jazz-influenced odd-time dynamics",
         "Blake Richardson's Tama Starphonic brass snare cuts through BTBAM's genre-hopping dynamic extremes",
         "Danny Carey's deeper 14x8\" bronze snare anchors Tool's Fibonacci-structured compositional rigor"
       ]
@@ -67718,7 +67718,7 @@ This guide breaks down shell material, depth, and tuning for mathcore snares —
         {
           name: "Instant, Cutting Attack",
           icon: "🔪",
-          description: "Ben Koller's and Blake Richardson's brass snares are voiced bright and immediate, so every accent registers clearly whether it lands on the beat or buried mid-fill in an odd-grouped rhythmic cell.",
+          description: "Blake Richardson's brass snare is voiced bright and immediate, so every accent registers clearly whether it lands on the beat or buried mid-fill in an odd-grouped rhythmic cell.",
           recommendation: "Bright brass or steel shells for instant, cutting attack on unpredictable accents"
         },
         {
@@ -67730,7 +67730,7 @@ This guide breaks down shell material, depth, and tuning for mathcore snares —
         {
           name: "Warmth and Articulation for Jazz-Influenced Dynamics",
           icon: "🎯",
-          description: "Matt Greiner's custom maple snare trades some of brass's raw brightness for tonal warmth and articulation, suited to his jazz-influenced dynamics and creative use of odd time signatures.",
+          description: "Matt Greiner's Mapex Black Panther maple snare trades some of brass's raw brightness for tonal warmth and articulation, suited to his jazz-influenced dynamics and creative use of odd time signatures.",
           recommendation: "Maple shells for warmer articulation if your playing leans on dynamic, jazz-influenced technique"
         },
         {
@@ -67742,7 +67742,7 @@ This guide breaks down shell material, depth, and tuning for mathcore snares —
         {
           name: "Durability for Aggressive Touring",
           icon: "🛡️",
-          description: "Ben Koller's Tama S.L.P. has survived 25-plus years of Converge's relentless touring schedule. Mathcore's aggressive playing style demands a snare built to hold tuning through demanding, frequent live shows.",
+          description: "Ben Koller's Tama Starclassic Performer B/B setup has survived 25-plus years of Converge's relentless touring schedule. Mathcore's aggressive playing style demands a snare built to hold tuning through demanding, frequent live shows.",
           recommendation: "Reinforced hoops and quality bearing edges built for aggressive, frequent touring"
         },
         {
@@ -67760,83 +67760,83 @@ This guide breaks down shell material, depth, and tuning for mathcore snares —
       pedals: [
         {
           rank: 1,
-          name: "Tama S.L.P. Snare",
+          name: "Tama Starclassic Performer B/B Matching Snare",
           brand: "Tama",
-          model: "S.L.P. 14\"x6\" Brass",
+          model: "Starclassic Performer B/B (Birch/Bubinga)",
           image: "https://upload.wikimedia.org/wikipedia/commons/a/ac/Drums_01.jpg",
-          priceRange: "€400-500",
+          priceRange: "€350-450",
           tier: "pro",
-          material: "Brass",
+          material: "Birch/Bubinga",
 
-          description: `Ben Koller's Tama S.L.P. 14"x6" brass snare gives Converge's blast-and-breakdown vocabulary the authoritative crack that has anchored every record since "Jane Doe" (2001). The brass shell's bright, cutting attack registers clearly whether Koller is landing a straightforward hardcore backbeat or an odd-grouped accent buried mid-riff.
+          description: `Ben Koller doesn't have a separately documented signature snare model — his verified Tama Starclassic Performer B/B kit's matching birch/bubinga snare has given Converge's blast-and-breakdown vocabulary its authoritative crack on every record since "Jane Doe" (2001). The birch/bubinga hybrid shell registers clearly whether Koller is landing a straightforward hardcore backbeat or an odd-grouped accent buried mid-riff.
 
-Paired with a Tama Starclassic Maple kit, the S.L.P.'s depth and rimshot authority have proven themselves across 25-plus years of relentless live touring.`,
+Matched to the rest of his Starclassic Performer B/B kit, the snare's depth and rimshot authority have proven themselves across 25-plus years of relentless live touring.`,
 
           pros: [
-            "Ben Koller's Converge setup — mathcore's founding, most directly documented snare",
-            "Brass shell delivers bright, authoritative crack for rimshot-heavy playing",
+            "Ben Koller's Converge setup — mathcore's founding, most directly documented kit",
+            "Birch/bubinga hybrid shell delivers an authoritative crack for rimshot-heavy playing",
             "Proven across 25-plus years of relentless touring without a platform change",
-            "Standard 14x6\" depth versatile for both breakdowns and technical passages",
+            "Matches the rest of Koller's Starclassic Performer B/B kit for consistent tone",
             "Widely available and well-supported worldwide"
           ],
           cons: [
-            "Brass brightness may feel harsh for drummers wanting a warmer, darker tone",
-            "Premium S.L.P. pricing versus entry-level steel snares",
+            "No separately documented signature snare model — matched to the kit rather than sold standalone",
+            "Birch/bubinga blend is less common than pure maple or steel alternatives",
             "Requires careful tuning to avoid excess ring at high volume"
           ],
           specs: {
-            shell: "Brass",
-            size: "14\" x 6\"",
+            shell: "Birch/Bubinga",
+            size: "14\" x 6\" (matched to kit)",
             hoops: "Die-cast",
-            lugs: "Tama S.L.P. tube lugs",
-            bestFor: "Bright, cutting rimshot authority for hardcore-rooted mathcore"
+            lugs: "Tama Star-Cast",
+            bestFor: "Authoritative rimshot crack for hardcore-rooted mathcore"
           },
           usedBy: [
-            { name: "Ben Koller", band: "Converge", note: "Tama S.L.P. 14\"x6\" Brass — current setup since \"Jane Doe\" (2001)" }
+            { name: "Ben Koller", band: "Converge", note: "Tama Starclassic Performer B/B matching snare — current kit since 2017" }
           ],
-          verdict: "The mathcore founding standard. Koller's S.L.P. brass snare defines the genre's cutting, hardcore-rooted crack.",
+          verdict: "The mathcore founding standard. Koller's Starclassic Performer B/B kit-matched snare defines the genre's cutting, hardcore-rooted crack.",
           rating: 4.8,
-          affiliateLink: "https://www.thomann.de/intl/tama_slp_snare_brass.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/tama_starclassic_performer_bb_snare.htm?partner_id=metalforge"
         },
         {
           rank: 2,
-          name: "Greiner & Kilmer Custom",
-          brand: "Custom",
-          model: "Greiner & Kilmer Custom 14\"x6.5\" Maple",
+          name: "Mapex Black Panther Maple",
+          brand: "Mapex",
+          model: "Black Panther 14\"x5.5\" Maple",
           image: "https://upload.wikimedia.org/wikipedia/commons/a/ac/Drums_01.jpg",
-          priceRange: "€350-550",
-          tier: "premium",
+          priceRange: "€300-400",
+          tier: "pro",
           material: "Maple",
 
-          description: `Matt Greiner's Greiner & Kilmer Custom 14"x6.5" maple snare, built to his own specification, carries math metal's rhythmic complexity into mathcore-adjacent metalcore with August Burns Red. The maple shell provides warmth and articulation his jazz-influenced dynamics require, distinct from the brighter brass snares favored elsewhere in this lineup.
+          description: `Matt Greiner's Mapex Black Panther 14"x5.5" maple snare carries math metal's rhythmic complexity into mathcore-adjacent metalcore with August Burns Red. The maple shell provides warmth and articulation his jazz-influenced dynamics require, distinct from the brighter brass snares favored elsewhere in this lineup.
 
-The custom-spec build lets Greiner dial in exact bearing edge and depth for legible, well-separated accents across August Burns Red's technically demanding, Grammy-nominated catalog.`,
+Matched to his Mapex Black Panther Design Lab kit since 2016, the snare's shallower 5.5" depth gives a quicker, more responsive crack for legible, well-separated accents across August Burns Red's technically demanding, Grammy-nominated catalog.`,
 
           pros: [
             "Matt Greiner's August Burns Red setup — math metal complexity in mathcore-adjacent metalcore",
             "Maple shell provides warmth and articulation distinct from brighter brass alternatives",
-            "Custom specification allows exact tonal control beyond stock configurations",
+            "Matches his Mapex Black Panther Design Lab kit for consistent tone",
             "Proven across August Burns Red's Grammy-nominated, technically demanding catalog",
-            "Slightly deeper 6.5\" shell adds body for dynamic, jazz-influenced playing"
+            "Shallower 5.5\" shell adds quick, responsive crack for dynamic, jazz-influenced playing"
           ],
           cons: [
-            "Custom builds carry premium pricing and longer lead times",
             "Less widely stocked than flagship production snares",
-            "Warmer maple voicing cuts less aggressively than brass for pure hardcore attack"
+            "Warmer maple voicing cuts less aggressively than brass for pure hardcore attack",
+            "Shallower depth trades some low-end body for speed"
           ],
           specs: {
             shell: "Maple",
-            size: "14\" x 6.5\"",
+            size: "14\" x 5.5\"",
             hoops: "Die-cast",
-            lugs: "Custom tube lugs",
+            lugs: "Mapex tube lugs",
             bestFor: "Warm, articulate tone for jazz-influenced technical dynamics"
           },
           usedBy: [
-            { name: "Matt Greiner", band: "August Burns Red", note: "Greiner & Kilmer Custom 14\"x6.5\" Maple — math metal complexity in mathcore-adjacent metalcore" }
+            { name: "Matt Greiner", band: "August Burns Red", note: "Mapex Black Panther 14\"x5.5\" Maple — math metal complexity in mathcore-adjacent metalcore" }
           ],
-          verdict: "Best for jazz-informed technical precision. Greiner's custom maple snare carries math metal complexity into breakdown-driven songwriting.",
+          verdict: "Best for jazz-informed technical precision. Greiner's Black Panther maple snare carries math metal complexity into breakdown-driven songwriting.",
           rating: 4.6,
-          affiliateLink: "https://www.thomann.de/intl/greiner_kilmer_custom_snare_maple.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/mapex_black_panther_maple_snare.htm?partner_id=metalforge"
         },
         {
           rank: 3,
@@ -67947,7 +67947,7 @@ Treating rhythmic mathematics as songwriting structure rather than pure technica
           priceRange: "€180-250",
           tier: "budget",
           material: "Maple",
-          description: "The Pearl Modern Utility offers a budget path toward the warmer, more articulate maple sound Matt Greiner's custom snare represents. It won't have the custom-spec bearing edge, but it's a genuinely capable maple snare for developing dynamic, technical playing.",
+          description: "The Pearl Modern Utility offers a budget path toward the warmer, more articulate maple sound Matt Greiner's Mapex Black Panther snare represents. It won't have the Black Panther's bearing edge refinement, but it's a genuinely capable maple snare for developing dynamic, technical playing.",
           pros: ["Budget entry into warmer maple tone", "Good articulation for developing dynamic technique", "Versatile across genres"],
           cons: ["Less refined than a fully custom-spec build", "Standard configurations only"],
           verdict: "Best budget path toward Greiner's warmer maple sound.",
@@ -67962,20 +67962,22 @@ Treating rhythmic mathematics as songwriting structure rather than pure technica
       title: "Brass vs Maple vs Bronze for Mathcore Snares",
       content: `Shell material splits mathcore's founding and adjacent drummers into distinct camps. Here's how each compares:
 
-**Brass (Ben Koller, Blake Richardson):**
+**Brass (Blake Richardson):**
 - Bright, cutting attack that registers instantly on unpredictable, odd-grouped accents
 - Standard 14x6\" depth balances crack and body
 - Best for: Hardcore-rooted mathcore demanding instant, aggressive crack
 
 **Maple (Matt Greiner):**
 - Warmer, more articulate tone suited to jazz-influenced dynamics
-- Custom specification allows exact tonal control
+- Mapex Black Panther Design Lab shell configuration allows tonal control
 - Best for: Technical, dynamically nuanced mathcore-adjacent metalcore
 
 **Bronze (Danny Carey):**
 - Dark, controlled weight from a deeper 14x8\" shell
 - Built for compositionally rigorous, Fibonacci-structured material
 - Best for: Progressive, patient mathcore-adjacent composition
+
+Ben Koller doesn't have a separately documented signature snare — his Tama Starclassic Performer B/B kit's matching birch/bubinga snare splits the difference between brass's bite and maple's warmth, and remains the genre's founding, most directly documented setup.
 
 **Our Recommendation:** Choose brass if your material is hardcore-rooted and needs instant, cutting crack. Choose maple if your playing leans on jazz-influenced dynamics and odd-time articulation. Choose bronze if your material is more progressive and compositionally patient.`,
       comparisonTable: [
@@ -67992,12 +67994,12 @@ Treating rhythmic mathematics as songwriting structure rather than pure technica
       picks: [
         {
           category: "Best Overall",
-          pedal: "Tama S.L.P. Snare",
-          reason: "Ben Koller's Converge setup — mathcore's founding, most directly documented snare."
+          pedal: "Tama Starclassic Performer B/B Matching Snare",
+          reason: "Ben Koller's Converge setup — mathcore's founding, most directly documented kit."
         },
         {
           category: "Best for Technical Precision",
-          pedal: "Greiner & Kilmer Custom",
+          pedal: "Mapex Black Panther Maple",
           reason: "Matt Greiner's August Burns Red setup — warmth and articulation for jazz-influenced dynamics."
         },
         {
@@ -68021,16 +68023,16 @@ Treating rhythmic mathematics as songwriting structure rather than pure technica
       'best-bass-drums-for-mathcore'
     ],
     relatedDrummers: [
-      { slug: 'ben-koller', name: 'Ben Koller', reason: 'Tama S.L.P. 14x6\" Brass — Converge mathcore\'s founding snare' },
-      { slug: 'matt-greiner', name: 'Matt Greiner', reason: 'Greiner & Kilmer Custom 14x6.5\" Maple — August Burns Red math metal complexity' },
+      { slug: 'ben-koller', name: 'Ben Koller', reason: 'Tama Starclassic Performer B/B matching snare — Converge mathcore\'s founding snare' },
+      { slug: 'matt-greiner', name: 'Matt Greiner', reason: 'Mapex Black Panther 14x5.5\" Maple — August Burns Red math metal complexity' },
       { slug: 'blake-richardson', name: 'Blake Richardson', reason: 'Tama Starphonic 14x6\" Brass — BTBAM genre-hopping technicality' },
       { slug: 'danny-carey', name: 'Danny Carey', reason: 'Sonor Signature 14x8\" Bronze — Tool\'s Fibonacci-structured rigor' }
     ],
 
     // Featured drummers (issue template)
     featuredDrummers: [
-      { slug: 'ben-koller', name: 'Ben Koller', reason: 'Tama S.L.P. 14x6\" Brass — Converge mathcore\'s founding snare' },
-      { slug: 'matt-greiner', name: 'Matt Greiner', reason: 'Greiner & Kilmer Custom 14x6.5\" Maple — August Burns Red math metal complexity' },
+      { slug: 'ben-koller', name: 'Ben Koller', reason: 'Tama Starclassic Performer B/B matching snare — Converge mathcore\'s founding snare' },
+      { slug: 'matt-greiner', name: 'Matt Greiner', reason: 'Mapex Black Panther 14x5.5\" Maple — August Burns Red math metal complexity' },
       { slug: 'blake-richardson', name: 'Blake Richardson', reason: 'Tama Starphonic 14x6\" Brass — BTBAM genre-hopping technicality' },
       { slug: 'danny-carey', name: 'Danny Carey', reason: 'Sonor Signature 14x8\" Bronze — Tool\'s Fibonacci-structured rigor' }
     ],
@@ -68039,7 +68041,7 @@ Treating rhythmic mathematics as songwriting structure rather than pure technica
     faq: [
       {
         question: "What snare does Ben Koller use?",
-        answer: "Ben Koller of Converge plays a Tama S.L.P. 14\"x6\" brass snare, giving Converge's blast-and-breakdown vocabulary an authoritative, cutting crack across every record since \"Jane Doe\" (2001)."
+        answer: "Ben Koller of Converge doesn't have a separately documented signature snare — his verified Tama Starclassic Performer B/B kit's matching birch/bubinga snare gives Converge's blast-and-breakdown vocabulary an authoritative, cutting crack across every record since \"Jane Doe\" (2001)."
       },
       {
         question: "What snare does Danny Carey use?",
@@ -68047,26 +68049,26 @@ Treating rhythmic mathematics as songwriting structure rather than pure technica
       },
       {
         question: "Brass or maple snare for mathcore?",
-        answer: "Both work at the highest level. Ben Koller's and Blake Richardson's brass snares deliver instant, cutting crack suited to hardcore-rooted mathcore. Matt Greiner's custom maple snare offers warmer articulation suited to jazz-influenced, dynamically nuanced technical playing."
+        answer: "Both work at the highest level. Blake Richardson's brass snare delivers instant, cutting crack suited to hardcore-rooted mathcore, while Ben Koller's birch/bubinga kit-matched snare splits the difference. Matt Greiner's Mapex Black Panther maple snare offers warmer articulation suited to jazz-influenced, dynamically nuanced technical playing."
       },
       {
         question: "What size snare is best for mathcore?",
-        answer: "A standard 14\"x6\"-6.5\" shell is most common, balancing instant crack with enough body for varied dynamics — the depth Ben Koller, Matt Greiner, and Blake Richardson all use. Danny Carey's deeper 14\"x8\" signature snare suits mathcore's more progressive, compositionally rigorous wing."
+        answer: "A standard 14\"x5.5\"-6.5\" shell is most common, balancing instant crack with enough body for varied dynamics — Matt Greiner's Mapex Black Panther sits at 5.5\", while Ben Koller and Blake Richardson run deeper. Danny Carey's deeper 14\"x8\" signature snare suits mathcore's more progressive, compositionally rigorous wing."
       },
       {
         question: "Do I need an expensive snare to play mathcore?",
-        answer: "No — a Tama Metalworks steel snare or Pearl Modern Utility maple snare will teach real mathcore technique at a fraction of the price of Ben Koller's S.L.P. or Danny Carey's signature bronze snare. Upgrade once your technique and budget allow for a professional-tier or custom-spec snare."
+        answer: "No — a Tama Metalworks steel snare or Pearl Modern Utility maple snare will teach real mathcore technique at a fraction of the price of Ben Koller's Starclassic-matched snare or Danny Carey's signature bronze snare. Upgrade once your technique and budget allow for a professional-tier snare."
       }
     ],
 
     // Conclusion
     conclusion: {
       title: "Find Your Mathcore Snare Voice",
-      content: `Mathcore snare choice comes down to how much instant, cutting crack your material demands versus how much warmth and controlled weight it can afford. Ben Koller's Tama S.L.P. brass snare defined the genre's founding, hardcore-rooted crack with Converge. Matt Greiner's custom maple snare proved that warmth and articulation could carry math metal's complexity into mainstream metalcore, while Blake Richardson's Starphonic brass snare shows the dynamic flexibility genre-hopping mathcore-adjacent material demands. Danny Carey's deep bronze signature snare demonstrates how controlled weight can serve mathematically rigorous, Fibonacci-structured composition over pure cutting attack.
+      content: `Mathcore snare choice comes down to how much instant, cutting crack your material demands versus how much warmth and controlled weight it can afford. Ben Koller's Tama Starclassic Performer B/B kit-matched snare defined the genre's founding, hardcore-rooted crack with Converge. Matt Greiner's Mapex Black Panther maple snare proved that warmth and articulation could carry math metal's complexity into mainstream metalcore, while Blake Richardson's Starphonic brass snare shows the dynamic flexibility genre-hopping mathcore-adjacent material demands. Danny Carey's deep bronze signature snare demonstrates how controlled weight can serve mathematically rigorous, Fibonacci-structured composition over pure cutting attack.
 
 None of these approaches is more "correct" — all four represent mathcore's founding commitment to snares that turn rhythmic chaos into legible musical expression. Start with whichever voicing matches your material's balance of hardcore-rooted aggression and progressive complexity.
 
-Budget shouldn't stop you either. A Tama Metalworks or Pearl Modern Utility snare will teach real technique and survive demanding practice while you save toward the S.L.P., custom, and signature snares that defined this lineage's most influential records.
+Budget shouldn't stop you either. A Tama Metalworks or Pearl Modern Utility snare will teach real technique and survive demanding practice while you save toward the Starclassic-matched, Black Panther, and signature snares that defined this lineage's most influential records.
 
 🤘 **Now go conquer that odd meter.**`
     }

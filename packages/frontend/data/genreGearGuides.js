@@ -8134,7 +8134,7 @@ Start with a durable budget kit like the Pearl Export while you build your blast
       title: "The Fundamentals Every Metal Drum Kit Needs",
       content: `Whether you play thrash, death, doom, or progressive metal, every metal drum kit has to solve the same core problem: projecting clearly and durably through loud, dense, downtuned guitar arrangements without falling apart under aggressive, high-volume playing. The specific tempo and technique demands shift subgenre to subgenre, but the underlying kit fundamentals — shell material, sizing, hardware quality, and tuning range — stay consistent across the entire genre.
 
-Lars Ulrich's Tama Starclassic Maple has been Metallica's primary kit through the band's most influential recordings, its warm, resonant tone — tuned tight — becoming the reference point for what a "metal kit" should sound like. DW's Collector's Series drums, hand-crafted in Oxnard, California, are prized for precision and consistency across metal's biggest stages. George Kollias drives Nile's extreme-tempo death metal on a Pearl Masterworks kit engineered for touring-level durability, while Tomas Haake's Sonor SQ2 Heavy Beech — built around dual 24"x18" bass drums — gives Meshuggah's polyrhythmic riffing its uniquely deep, resonant foundation.
+Lars Ulrich's Tama Starclassic Maple has been Metallica's primary kit through the band's most influential recordings, its warm, resonant tone — tuned tight — becoming the reference point for what a "metal kit" should sound like. DW's Collector's Series drums, hand-crafted in Oxnard, California, are prized for precision and consistency across metal's biggest stages. George Kollias drives Nile's extreme-tempo death metal on a Pearl Masterworks kit engineered for touring-level durability, while Tomas Haake's Sonor SQ2 Heavy Beech — built around a single 24"x18" bass drum driven by two independent Tama Speed Cobra single pedals — gives Meshuggah's polyrhythmic riffing its uniquely deep, resonant foundation.
 
 This guide covers the cross-genre fundamentals that make a drum kit work for metal generally: what shell material to choose, how to size your kit, what hardware actually matters, and which specific models the genre's most influential drummers rely on — from budget-friendly starter kits to the professional rigs used on metal's biggest stages.`,
       keyPoints: [
@@ -8164,7 +8164,7 @@ This guide covers the cross-genre fundamentals that make a drum kit work for met
         {
           name: "Kick Drum Sizing",
           icon: "🦵",
-          description: "22\"x18\" is the standard metal kick size across nearly every subgenre — big enough for impact and low-end weight, manageable enough for fast single or double bass patterns. Tomas Haake's dual 24\"x18\" setup shows how far you can push kick size once your material calls for it.",
+          description: "22\"x18\" is the standard metal kick size across nearly every subgenre — big enough for impact and low-end weight, manageable enough for fast single or double bass patterns. Tomas Haake's single 24\"x18\" setup, driven by two independent single pedals, shows how far you can push kick size once your material calls for it.",
           recommendation: "Start with a 22\" kick; scale up to 24\" or dual kicks only once your genre specifically demands it"
         },
         {
@@ -8319,7 +8319,7 @@ Pearl's Optimount suspension system preserves resonance under heavy playing, mak
           tier: "premium",
           material: "Heavy Beech",
 
-          description: `Tomas Haake built Meshuggah's uniquely deep, polyrhythmic low end on a Sonor SQ2 Heavy Beech kit centered around dual 24"x18" bass drums — significantly larger than the metal standard, giving Meshuggah's djent-defining sound its distinctively heavy, resonant foundation. The fully custom SQ2 platform let Haake specify exactly the shell depth and configuration his unconventional rhythmic approach demanded.
+          description: `Tomas Haake built Meshuggah's uniquely deep, polyrhythmic low end on a Sonor SQ2 Heavy Beech kit centered around a single 24"x18" bass drum — significantly larger than the metal standard — driven by two independent Tama Speed Cobra single pedals rather than a double pedal, giving Meshuggah's djent-defining sound its distinctively heavy, resonant foundation and Haake the foot independence his polyrhythms demand. The fully custom SQ2 platform let Haake specify exactly the shell depth and configuration his unconventional rhythmic approach demanded.
 
 For metal drummers whose material calls for unusually deep low end or oversized kick configurations, the SQ2's custom specification process offers a path few other manufacturers can match.`,
 
@@ -8339,11 +8339,11 @@ For metal drummers whose material calls for unusually deep low end or oversized 
             shell: "Heavy Beech (SQ2 custom spec)",
             mount: "Sonor TMS Suspension",
             finish: "Custom lacquer/wrap options",
-            kickSize: "24\" x 18\" (dual, Haake spec) / 22\" x 18\" standard",
+            kickSize: "24\" x 18\" single (Haake spec, dual single pedals) / 22\" x 18\" standard",
             tomSizes: "Custom configurations available"
           },
           usedBy: [
-            { name: "Tomas Haake", band: "Meshuggah", note: "Sonor SQ2 Heavy Beech — dual 24\" kicks for polyrhythmic low end" }
+            { name: "Tomas Haake", band: "Meshuggah", note: "Sonor SQ2 Heavy Beech — single 24\" kick with dual single pedals for polyrhythmic low end" }
           ],
           verdict: "Best for drummers chasing unconventional, oversized low end. Haake's kit proves custom specification pays off.",
           rating: 4.6,
@@ -8501,7 +8501,7 @@ It won't sound like Lars's Starclassic or the DW Collector's Series, but it will
     relatedDrummers: [
       { slug: 'lars-ulrich', name: 'Lars Ulrich', reason: 'Tama Starclassic Maple — metal\'s most referenced kit sound' },
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Pearl Masterworks — custom-tuned for extreme-tempo technical metal' },
-      { slug: 'tomas-haake', name: 'Tomas Haake', reason: 'Sonor SQ2 Heavy Beech — dual 24" kicks for polyrhythmic low end' }
+      { slug: 'tomas-haake', name: 'Tomas Haake', reason: 'Sonor SQ2 Heavy Beech — single 24" kick with dual single pedals for polyrhythmic low end' }
     ],
 
     // Featured drummers (issue template)
@@ -8522,7 +8522,7 @@ It won't sound like Lars's Starclassic or the DW Collector's Series, but it will
       },
       {
         question: "What size drum kit is standard for metal?",
-        answer: "22\"x18\" kick, 10\"/12\" rack toms, and 14\"/16\" floor toms is the cross-genre metal standard, covering the vast majority of subgenres without slowing down fills. Specific subgenres — like Tomas Haake's dual 24\" kick setup for Meshuggah's polyrhythmic riffing — push beyond standard sizing once the material specifically demands it."
+        answer: "22\"x18\" kick, 10\"/12\" rack toms, and 14\"/16\" floor toms is the cross-genre metal standard, covering the vast majority of subgenres without slowing down fills. Specific subgenres — like Tomas Haake's single 24\" kick, driven by two independent single pedals, for Meshuggah's polyrhythmic riffing — push beyond standard sizing once the material specifically demands it."
       },
       {
         question: "How much should I spend on my first metal drum kit?",
@@ -9979,7 +9979,7 @@ Your cymbal setup should serve the music — and in prog metal, the music is end
       title: "Why Djent Makes Unique Demands on Your Drum Kit",
       content: `Djent is the most exacting genre for drum kit selection. The genre's signature sound — tight, controlled, percussive attack anchoring complex polyrhythmic patterns — demands kits with exceptional consistency, projection, and tonal clarity. Unlike thrash (pure aggression) or death metal (pure speed), djent requires precision engineering in both the drum kit and the player.
 
-Tomas Haake of Meshuggah is djent's founding drummer — his polyrhythmic mastery and relentless consistency have redefined what metal drumming can be. Haake has played Sonor SQ2 kits since 2005, with the Sonor SQ2 Heavy Beech — built around dual 24"x18" bass drums — becoming his primary professional setup. Matt Halpern of Periphery brings jazz-school precision to djent-influenced prog, using Pearl kits selected for their sensitivity and response. Blake Richardson of BTBAM adds prog metal complexity to the djent conversation, with a kit configured for maximum expressive range.
+Tomas Haake of Meshuggah is djent's founding drummer — his polyrhythmic mastery and relentless consistency have redefined what metal drumming can be. Haake has played Sonor SQ2 kits since 2005, with the Sonor SQ2 Heavy Beech — built around a single 24"x18" bass drum driven by two independent Tama Speed Cobra single pedals — becoming his primary professional setup. Matt Halpern of Periphery brings jazz-school precision to djent-influenced prog, using Pearl kits selected for their sensitivity and response. Blake Richardson of BTBAM adds prog metal complexity to the djent conversation, with a kit configured for maximum expressive range.
 
 This guide breaks down which kits deliver the control, consistency, and tonal character that djent demands, ranked from budget to professional level.`,
       keyPoints: [
@@ -10047,7 +10047,7 @@ This guide breaks down which kits deliver the control, consistency, and tonal ch
           tier: "premium",
           material: "Custom wood selection (Maple, Beech, or Birch)",
 
-          description: `The Sonor SQ2 is the definitive djent drum kit — it has been the primary setup for Tomas Haake, Meshuggah's drummer and the acknowledged architect of modern djent drumming, since 2005. Each SQ2 kit is built to specification with the buyer's choice of shell material, depth, and bearing edge, and Haake's Heavy Beech configuration — built around dual 24"x18" bass drums — gives Meshuggah's polyrhythmic riffing its uniquely deep, resonant foundation.
+          description: `The Sonor SQ2 is the definitive djent drum kit — it has been the primary setup for Tomas Haake, Meshuggah's drummer and the acknowledged architect of modern djent drumming, since 2005. Each SQ2 kit is built to specification with the buyer's choice of shell material, depth, and bearing edge, and Haake's Heavy Beech configuration — built around a single 24"x18" bass drum driven by two independent Tama Speed Cobra single pedals — gives Meshuggah's polyrhythmic riffing its uniquely deep, resonant foundation.
 
 The SQ2's adjustable bearing edge system (which can be reconfigured even after purchase) and individually-selected shells give it a level of tonal precision unmatched by standard production kits. For djent drummers who record seriously and need exact control over their kit's tonal character, the SQ2's customizability pays dividends. The build quality is exceptional, and the hardware engineering is second to none.`,
 
@@ -10067,7 +10067,7 @@ The SQ2's adjustable bearing edge system (which can be reconfigured even after p
             shell: "Custom (Maple, Beech, or Birch)",
             mount: "RIMS-style free-floating",
             finish: "Custom lacquer or wrap",
-            kickSize: "Custom to specification (Haake runs dual 24\" x 18\")",
+            kickSize: "Custom to specification (Haake runs a single 24\" x 18\" with dual single pedals)",
             tomSizes: "Custom to specification"
           },
           usedBy: [
@@ -10355,7 +10355,7 @@ For djent drummers who value DW's hardware precision and brand reputation but ca
     faq: [
       {
         question: "What drum kit does Tomas Haake use?",
-        answer: "Tomas Haake of Meshuggah has played Sonor SQ2 Series drums as his primary setup since 2005. His Heavy Beech configuration, built around dual 24\"x18\" bass drums, gives Meshuggah's polyrhythmic riffing its uniquely deep, resonant foundation. Haake also uses Tama Speed Cobra pedal hardware and Sabian HHX/AAX cymbals."
+        answer: "Tomas Haake of Meshuggah has played Sonor SQ2 Series drums as his primary setup since 2005. His Heavy Beech configuration, built around a single 24\"x18\" bass drum driven by two independent Tama Speed Cobra single pedals, gives Meshuggah's polyrhythmic riffing its uniquely deep, resonant foundation."
       },
       {
         question: "What drum kit does Matt Halpern use?",
@@ -24185,11 +24185,11 @@ Start with a 22"x18" maple shell tuned for control rather than raw brightness �
       title: "What Bass Drum Setup Works Across Every Metal Subgenre?",
       content: `Whatever subgenre you play, a metal bass drum has one non-negotiable job: deliver focused attack and real low-end weight that stays audible under loud, downtuned guitars, without turning boomy or indistinct. The tempo and tuning demands shift from thrash to doom to death metal, but the shell fundamentals - diameter, depth, material, and head selection - stay consistent across nearly the entire genre.
 
-Lars Ulrich's Tama Starclassic Maple bass drum has anchored Metallica's sound through the band's most influential records, its warm, focused low end becoming the reference point most metal drummers measure their own kick tone against. DW's Collector's Series shells, hand-crafted in Oxnard, California, deliver that same precision and consistency across radically different touring projects. George Kollias drives Nile's extreme-tempo technical death metal on a touring-durable Pearl Masterworks bass drum, while Tomas Haake's Sonor SQ2 Heavy Beech setup - built around dual 24"x18" bass drums - gives Meshuggah's polyrhythmic riffing its uniquely deep, resonant foundation.
+Lars Ulrich's Tama Starclassic Maple bass drum has anchored Metallica's sound through the band's most influential records, its warm, focused low end becoming the reference point most metal drummers measure their own kick tone against. DW's Collector's Series shells, hand-crafted in Oxnard, California, deliver that same precision and consistency across radically different touring projects. George Kollias drives Nile's extreme-tempo technical death metal on a touring-durable Pearl Masterworks bass drum, while Tomas Haake's Sonor SQ2 Heavy Beech setup - built around a single 24"x18" bass drum driven by two independent Tama Speed Cobra single pedals - gives Meshuggah's polyrhythmic riffing its uniquely deep, resonant foundation.
 
 This guide breaks down the bass drum fundamentals that apply broadly across metal - shell size, material, and head selection - and which specific shells the genre's most influential drummers actually play, from budget starters to professional touring rigs.`,
       keyPoints: [
-        "22\"x18\" is the standard cross-genre sizing, though some drummers (Tomas Haake) run dual 24\" shells for maximum low end",
+        "22\"x18\" is the standard cross-genre sizing, though some drummers (Tomas Haake) run a single 24\" shell with dual pedals for maximum low end",
         "Maple (Lars Ulrich, DW Collector's, George Kollias) delivers warmer projection; birch delivers a punchier, more focused attack out of the box",
         "Shell material is the single biggest tone decision - pick based on whether you need cutting attack or controlled warmth",
         "Reinforced heads (Evans EMAD, Remo Powerstroke 3) are standard across every metal subgenre's bass drum setup"
@@ -24203,7 +24203,7 @@ This guide breaks down the bass drum fundamentals that apply broadly across meta
         {
           name: "Shell Diameter and Depth",
           icon: "⭕",
-          description: "22\"x18\" is the cross-genre metal standard, balancing low-end weight with fast response for double bass work. Tomas Haake's Meshuggah setup runs dual 24\"x18\" shells for maximum sub-bass presence beneath polyrhythmic, heavily downtuned riffing.",
+          description: "22\"x18\" is the cross-genre metal standard, balancing low-end weight with fast response for double bass work. Tomas Haake's Meshuggah setup runs a single 24\"x18\" shell, driven by two independent single pedals, for maximum sub-bass presence beneath polyrhythmic, heavily downtuned riffing.",
           recommendation: "22\"x18\" for the best all-around balance; 24\" only if your material demands maximum low-end weight"
         },
         {
@@ -24227,7 +24227,7 @@ This guide breaks down the bass drum fundamentals that apply broadly across meta
         {
           name: "Single Kick vs Dual Bass Drums",
           icon: "🥁",
-          description: "Most metal drummers use a single shell with a double pedal for tuning consistency and easier transport. Tomas Haake's dual 24\" setup is the exception that proves the rule - a deliberate choice for maximum resonant low end rather than convenience.",
+          description: "Most metal drummers use a single shell with a double pedal for tuning consistency and easier transport. Tomas Haake's single 24\" shell, driven by two independent single pedals rather than a double pedal, is the exception that proves the rule - a deliberate choice for maximum resonant low end and foot independence rather than convenience.",
           recommendation: "Single shell + double pedal for most players; dual bass drums only for a specific tonal goal"
         },
         {
@@ -24462,7 +24462,7 @@ The result is a bass drum built specifically to survive extreme-tempo, high-volu
     relatedDrummers: [
       { slug: 'lars-ulrich', name: 'Lars Ulrich', reason: 'Tama Starclassic Maple - metal\'s reference warm, resonant low end' },
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Custom Pearl Masterworks for extreme-tempo touring durability' },
-      { slug: 'tomas-haake', name: 'Tomas Haake', reason: 'Sonor SQ2 Heavy Beech dual 24\"x18\" - Meshuggah\'s resonant low end' }
+      { slug: 'tomas-haake', name: 'Tomas Haake', reason: 'Sonor SQ2 Heavy Beech single 24\"x18\" with dual pedals - Meshuggah\'s resonant low end' }
     ],
 
     // Featured drummers (issue template)
@@ -24475,11 +24475,11 @@ The result is a bass drum built specifically to survive extreme-tempo, high-volu
     faq: [
       {
         question: "What bass drums do metal drummers use across different subgenres?",
-        answer: "Lars Ulrich of Metallica plays a Tama Starclassic Maple, George Kollias of Nile plays a custom Pearl Masterworks, and Tomas Haake of Meshuggah runs dual Sonor SQ2 Heavy Beech shells. The DW Collector's Series is another premium option built for demanding touring schedules. Most run a single 22\"x18\" bass drum with a double pedal."
+        answer: "Lars Ulrich of Metallica plays a Tama Starclassic Maple, George Kollias of Nile plays a custom Pearl Masterworks, and Tomas Haake of Meshuggah runs a single Sonor SQ2 Heavy Beech shell driven by two independent single pedals. The DW Collector's Series is another premium option built for demanding touring schedules. Most run a single 22\"x18\" bass drum with a double pedal."
       },
       {
         question: "What size bass drum is best for metal generally?",
-        answer: "22\"x18\" is the cross-genre standard, balancing enough low-end weight for downtuned riffing with fast response for double bass work. Some drummers, like Tomas Haake, run dual 24\" shells for maximum sub-bass presence when their material calls for it."
+        answer: "22\"x18\" is the cross-genre standard, balancing enough low-end weight for downtuned riffing with fast response for double bass work. Some drummers, like Tomas Haake, run a single 24\" shell with dual independent pedals for maximum sub-bass presence when their material calls for it."
       },
       {
         question: "Birch or maple bass drum for metal?",
@@ -24487,7 +24487,7 @@ The result is a bass drum built specifically to survive extreme-tempo, high-volu
       },
       {
         question: "Do I need dual bass drums for metal, or is a double pedal enough?",
-        answer: "A single shell with a quality double pedal is the standard across most metal subgenres and most of the drummers in this guide. Tomas Haake's dual 24\" Sonor SQ2 setup is a deliberate exception for maximum resonant low end, not a general requirement."
+        answer: "A single shell with a quality double pedal is the standard across most metal subgenres and most of the drummers in this guide. Tomas Haake's single 24\" Sonor SQ2 shell, driven by two independent single pedals rather than a double pedal, is a deliberate exception for maximum resonant low end and foot independence, not a general requirement."
       },
       {
         question: "What bass drum head is best for metal?",

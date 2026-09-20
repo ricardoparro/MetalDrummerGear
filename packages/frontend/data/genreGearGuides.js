@@ -68545,7 +68545,7 @@ Budget shouldn't stop you either. A Tama Metalworks or Pearl Sensitone snare wil
       'flo mounier snare drum cryptopsy',
       'derek roddy snare drum hate eternal',
       'dw collectors snare technical death metal',
-      'pearl reference snare steel',
+      'tama starclassic maple snare',
       'ghost note sensitive snare drum',
       'tech death metal drummer snare setup'
     ],
@@ -68573,14 +68573,14 @@ Budget shouldn't stop you either. A Tama Metalworks or Pearl Sensitone snare wil
       title: "Why Technical Death Metal Needs a Snare That Never Loses the Thread",
       content: `Technical death metal layers blast beats, odd-meter shifts, and dense ghost-note fills on top of each other, often within the same bar. A snare that can't respond instantly and consistently at every dynamic level doesn't just sound flat — it makes the genre's calculated rhythmic complexity unreadable, burying intricate patterns under an undifferentiated wall of noise.
 
-George Kollias of Nile plays a Pearl George Kollias Signature 14"x6.5" brass snare, its cutting articulation keeping every accent legible whether he's locked into a straight blast beat or threading a technical fill through Nile's densely layered arrangements. Hannes Grossmann of Obscura plays a DW Collectors 14"x5.5" maple snare, a shallower shell chosen for the fast, precise response his classically-influenced odd-meter compositions demand. Flo Mounier of Cryptopsy plays a Pearl Reference 14"x5" steel snare, its tight, cutting attack built to slice through Cryptopsy's dense, churning technical arrangements. Derek Roddy of Hate Eternal plays a Tama Starclassic Bubinga 14"x6.5" snare, the same reliable setup that let him record entire drum tracks in a single take and earn the nickname "One Take."
+George Kollias of Nile plays a Pearl George Kollias Signature 14"x6.5" brass snare, its cutting articulation keeping every accent legible whether he's locked into a straight blast beat or threading a technical fill through Nile's densely layered arrangements. Hannes Grossmann of Obscura plays a DW Collectors 14"x5.5" maple snare, a shallower shell chosen for the fast, precise response his classically-influenced odd-meter compositions demand. Flo Mounier of Cryptopsy plays a Tama Starclassic Maple 14"x5.5" snare, its focused, articulate attack built to keep Cryptopsy's dense, churning technical arrangements legible at machine-gun tempo. Derek Roddy of Hate Eternal plays a Tama Starclassic Bubinga 14"x6.5" snare, the same reliable setup that let him record entire drum tracks in a single take and earn the nickname "One Take."
 
 This guide breaks down what actually makes a snare work for technical death metal's precision demands — instant response, ghost-note sensitivity, and consistency across odd-meter complexity — and recommends specific models across every budget, from a first precision-capable snare to the exact drums the genre's most demanding drummers play.`,
       keyPoints: [
         "Technical death metal demands instant, legible response for both blast beats and dense, ghost-note-heavy fills within the same bar",
-        "Hannes Grossmann's shallower 14x5.5\" maple snare and Flo Mounier's 14x5\" steel snare both trade depth for faster, more precise response",
+        "Hannes Grossmann's and Flo Mounier's shallower 14x5.5\" maple snares both trade depth for faster, more precise response",
         "George Kollias's brass snare and Derek Roddy's bubinga snare show that deeper, warmer shells can still deliver technical precision",
-        "13\"-14\" diameters with 5\"-6.5\" depths dominate technical death metal, favoring speed and articulation over maximum body"
+        "13\"-14\" diameters with 5.5\"-6.5\" depths dominate technical death metal, favoring speed and articulation over maximum body"
       ]
     },
 
@@ -68597,13 +68597,13 @@ This guide breaks down what actually makes a snare work for technical death meta
         {
           name: "Shallow Depth for Precision Speed",
           icon: "📏",
-          description: "Grossmann's 14x5.5\" and Mounier's 14x5\" shells are both shallower than the genre average, prioritizing quick response over maximum body — ideal for dense, rapid-fire technical passages.",
-          recommendation: "13\"-14\" with 5\"-5.5\" depth for the fastest, most precise response on technical fills"
+          description: "Grossmann's and Mounier's matching 14x5.5\" maple shells are both shallower than the genre average, prioritizing quick response over maximum body — ideal for dense, rapid-fire technical passages.",
+          recommendation: "13\"-14\" with 5.5\" depth for the fastest, most precise response on technical fills"
         },
         {
           name: "Cutting Attack Through Dense Mixes",
           icon: "🔪",
-          description: "George Kollias's brass snare and Flo Mounier's steel snare both cut cleanly through technical death metal's densely layered, downtuned guitar arrangements, keeping every accent audible.",
+          description: "George Kollias's brass snare cuts cleanly through technical death metal's densely layered, downtuned guitar arrangements, keeping every accent audible even at extreme blast-beat tempos.",
           recommendation: "Brass or steel shells for the brightest, most cutting attack in dense mixes"
         },
         {
@@ -68713,43 +68713,43 @@ Grossmann, widely regarded as one of the most technically proficient drummers in
         },
         {
           rank: 3,
-          name: "Pearl Reference Steel",
-          brand: "Pearl",
-          model: "Reference 14\"x5\" Steel",
+          name: "Tama Starclassic Maple",
+          brand: "Tama",
+          model: "Starclassic Maple 14\"x5.5\"",
           image: "https://upload.wikimedia.org/wikipedia/commons/a/ac/Drums_01.jpg",
-          priceRange: "€350-450",
+          priceRange: "€400-500",
           tier: "mid-pro",
-          material: "Steel",
+          material: "Maple",
 
-          description: `Flo Mounier's Pearl Reference 14"x5" steel snare delivers tight, cutting attack built to slice through Cryptopsy's dense, churning technical arrangements. The shallow 5" depth is the shallowest in this lineup, maximizing response speed for Mounier's machine-gun blast beats and complex polyrhythmic patterns.
+          description: `Flo Mounier's Tama Starclassic Maple 14"x5.5" snare delivers the focused, articulate attack that keeps Cryptopsy's dense, churning technical arrangements legible. The shallow 5.5" depth is tied for the shallowest in this lineup, maximizing response speed for Mounier's machine-gun blast beats and complex polyrhythmic patterns.
 
-Mounier's playing on landmark albums like "None So Vile" and "Whisper Supremacy" redefined the upper limits of technical death metal drumming, and the Reference snare's instant articulation is central to keeping those inhuman-speed patterns legible.`,
+Mounier has played Tama since 2012, and the Starclassic Maple's instant articulation is central to keeping his inhuman-speed patterns legible without sacrificing the tone and sensitivity his technical playing demands.`,
 
           pros: [
             "Flo Mounier's proven Cryptopsy setup — technical death metal's speed benchmark",
-            "Shallowest depth in this lineup (5\") for maximum response speed",
-            "Steel shell delivers tight, cutting attack through dense mixes",
+            "Tied for the shallowest depth in this lineup (5.5\") for maximum response speed",
+            "Maple shell delivers warm, focused attack with excellent ghost-note sensitivity",
             "Proven across some of the most demanding drumming ever recorded",
-            "Excellent value relative to signature-tier alternatives"
+            "Tama Starclassic build quality and reliability"
           ],
           cons: [
-            "Very shallow depth sacrifices body versus deeper snares",
-            "Steel brightness may feel harsh for drummers wanting warmth",
+            "Shallow depth sacrifices some body versus deeper snares",
+            "Warmer maple voicing cuts less aggressively than brass or steel alternatives",
             "Less widely stocked than flagship production snares"
           ],
           specs: {
-            shell: "Steel",
-            size: "14\" x 5\"",
+            shell: "Maple",
+            size: "14\" x 5.5\"",
             hoops: "Die-cast",
-            lugs: "Pearl Reference tube lugs",
+            lugs: "Tama Starclassic tube lugs",
             bestFor: "Maximum response speed for machine-gun blast beats and complex patterns"
           },
           usedBy: [
-            { name: "Flo Mounier", band: "Cryptopsy", note: "Pearl Reference 14\"x5\" Steel — current setup" }
+            { name: "Flo Mounier", band: "Cryptopsy", note: "Tama Starclassic Maple 14\"x5.5\" — current setup since 2012" }
           ],
-          verdict: "Best for maximum response speed. Mounier's shallow steel snare keeps up with technical death metal's most inhuman-speed patterns.",
+          verdict: "Best for maximum response speed. Mounier's shallow maple snare keeps up with technical death metal's most inhuman-speed patterns.",
           rating: 4.6,
-          affiliateLink: "https://www.thomann.de/intl/pearl_reference_snare_steel.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/tama_starclassic_maple_snare.htm?partner_id=metalforge"
         },
         {
           rank: 4,
@@ -68806,9 +68806,9 @@ The dense bubinga shell's dark, cutting crack holds up whether Roddy is locked i
           priceRange: "€120-180",
           tier: "budget",
           material: "Steel",
-          description: "The Pearl Export carries similar bright, cutting DNA to Flo Mounier's Reference steel snare at a fraction of the price. It won't match the Reference's refinement, but it delivers genuine cutting response for developing technical death metal players.",
-          pros: ["Bright, cutting steel tone similar in character to the Reference line", "Durable enough for daily technical practice", "Very accessible pricing"],
-          cons: ["Basic hardware compared to premium snares", "Less sensitivity than Mounier's professional Reference snare"],
+          description: "The Pearl Export delivers bright, cutting steel-shell response at a fraction of professional pricing. It won't match a Collectors or Starclassic snare's refinement, but it delivers genuine cutting response for developing technical death metal players.",
+          pros: ["Bright, cutting steel tone at an accessible price point", "Durable enough for daily technical practice", "Very accessible pricing"],
+          cons: ["Basic hardware compared to premium snares", "Less sensitivity than professional-tier snares"],
           verdict: "Best true budget entry into technical death metal's cutting steel sound.",
           rating: 4.0,
           affiliateLink: "https://www.thomann.de/intl/pearl_export_snare_steel.htm?partner_id=metalforge"
@@ -68832,7 +68832,7 @@ The dense bubinga shell's dark, cutting crack holds up whether Roddy is locked i
 
     // Brass vs maple vs steel vs bronze comparison
     comparison: {
-      title: "Brass vs Maple vs Steel vs Bronze for Technical Death Metal Snares",
+      title: "Brass vs Maple vs Bubinga for Technical Death Metal Snares",
       content: `Shell material and depth split technical death metal's leading drummers into distinct camps. Here's how each compares:
 
 **Brass (George Kollias):**
@@ -68840,22 +68840,17 @@ The dense bubinga shell's dark, cutting crack holds up whether Roddy is locked i
 - Standard 14x6.5\" depth balances speed and body
 - Best for: Drummers needing one snare that serves both raw speed and refined articulation
 
-**Maple (Hannes Grossmann):**
-- Fast, precise response from a shallower 14x5.5\" shell
-- Warmer tone suited to classically-influenced, odd-meter composition
+**Maple (Hannes Grossmann, Flo Mounier):**
+- Fast, precise response from shallower 14x5.5\" shells
+- Warmer tone suited to both classically-influenced odd-meter composition and machine-gun blast beat speed
 - Best for: Dense, rapid-fire technical fills demanding instant ghost-note response
-
-**Steel (Flo Mounier):**
-- Maximum response speed from the shallowest 14x5\" shell in this lineup
-- Tight, cutting attack through dense mixes
-- Best for: Machine-gun blast beats and the most inhuman-speed technical patterns
 
 **Bubinga (Derek Roddy):**
 - Dark, durable crack proven across one-take recording sessions
 - Deeper 14x6.5\" shell balances precision with body
 - Best for: Studio consistency and dense technical passages under recording pressure
 
-**Our Recommendation:** Choose brass if you need one snare that handles both speed and technicality. Choose maple or steel with a shallower depth if ghost-note precision and instant response matter most. Choose bubinga if recording consistency and durability are the priority.`,
+**Our Recommendation:** Choose brass if you need one snare that handles both speed and technicality. Choose maple with a shallower depth if ghost-note precision and instant response matter most. Choose bubinga if recording consistency and durability are the priority.`,
       comparisonTable: [
         { feature: "Response Speed", brass: "⭐⭐⭐⭐", maple: "⭐⭐⭐⭐⭐", steel: "⭐⭐⭐⭐⭐", bronze: "⭐⭐⭐" },
         { feature: "Ghost Note Sensitivity", brass: "⭐⭐⭐⭐", maple: "⭐⭐⭐⭐⭐", steel: "⭐⭐⭐⭐", bronze: "⭐⭐⭐" },
@@ -68880,13 +68875,13 @@ The dense bubinga shell's dark, cutting crack holds up whether Roddy is locked i
         },
         {
           category: "Best for Maximum Speed",
-          pedal: "Pearl Reference Steel",
-          reason: "Flo Mounier's Cryptopsy setup — the shallowest, fastest-responding snare in this lineup."
+          pedal: "Tama Starclassic Maple",
+          reason: "Flo Mounier's Cryptopsy setup — tied for the shallowest, fastest-responding snare in this lineup."
         },
         {
           category: "Best Budget",
           pedal: "Pearl Export Steel",
-          reason: "Similar bright, cutting DNA to Mounier's professional Reference snare, at a fraction of the price."
+          reason: "Bright, cutting steel-shell response at a fraction of professional pricing."
         }
       ]
     },
@@ -68901,7 +68896,7 @@ The dense bubinga shell's dark, cutting crack holds up whether Roddy is locked i
     relatedDrummers: [
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Pearl George Kollias Signature 14x6.5\" Brass — Nile\'s technical speed-and-precision standard' },
       { slug: 'hannes-grossmann', name: 'Hannes Grossmann', reason: 'DW Collectors 14x5.5\" Maple — Obscura\'s classically-influenced odd-meter precision' },
-      { slug: 'flo-mounier', name: 'Flo Mounier', reason: 'Pearl Reference 14x5\" Steel — Cryptopsy\'s machine-gun blast beat speed' },
+      { slug: 'flo-mounier', name: 'Flo Mounier', reason: 'Tama Starclassic Maple 14x5.5\" — Cryptopsy\'s machine-gun blast beat speed' },
       { slug: 'derek-roddy', name: 'Derek Roddy', reason: 'Tama Starclassic Bubinga 14x6.5\" — one-take recording consistency' }
     ],
 
@@ -68909,7 +68904,7 @@ The dense bubinga shell's dark, cutting crack holds up whether Roddy is locked i
     featuredDrummers: [
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Pearl George Kollias Signature 14x6.5\" Brass — Nile\'s technical speed-and-precision standard' },
       { slug: 'hannes-grossmann', name: 'Hannes Grossmann', reason: 'DW Collectors 14x5.5\" Maple — Obscura\'s classically-influenced odd-meter precision' },
-      { slug: 'flo-mounier', name: 'Flo Mounier', reason: 'Pearl Reference 14x5\" Steel — Cryptopsy\'s machine-gun blast beat speed' },
+      { slug: 'flo-mounier', name: 'Flo Mounier', reason: 'Tama Starclassic Maple 14x5.5\" — Cryptopsy\'s machine-gun blast beat speed' },
       { slug: 'derek-roddy', name: 'Derek Roddy', reason: 'Tama Starclassic Bubinga 14x6.5\" — one-take recording consistency' }
     ],
 
@@ -68925,11 +68920,11 @@ The dense bubinga shell's dark, cutting crack holds up whether Roddy is locked i
       },
       {
         question: "What snare is best for fast, technical blast beats?",
-        answer: "A shallower shell responds fastest — Flo Mounier's Pearl Reference 14\"x5\" steel snare is the shallowest in this lineup, built specifically for the machine-gun blast beat speed and complex polyrhythmic patterns Cryptopsy is known for."
+        answer: "A shallower shell responds fastest — Flo Mounier's Tama Starclassic Maple 14\"x5.5\" snare is tied for the shallowest in this lineup, built specifically for the machine-gun blast beat speed and complex polyrhythmic patterns Cryptopsy is known for."
       },
       {
         question: "What size snare is best for technical death metal?",
-        answer: "13\"-14\" diameters with 5\"-6.5\" depths dominate the genre. Shallower 14x5\" to 14x5.5\" shells, like Flo Mounier's and Hannes Grossmann's, favor speed and ghost-note precision, while deeper 14x6.5\" shells, like George Kollias's and Derek Roddy's, add body without sacrificing articulation."
+        answer: "13\"-14\" diameters with 5.5\"-6.5\" depths dominate the genre. Shallower 14x5.5\" shells, like Flo Mounier's and Hannes Grossmann's, favor speed and ghost-note precision, while deeper 14x6.5\" shells, like George Kollias's and Derek Roddy's, add body without sacrificing articulation."
       },
       {
         question: "Do I need an expensive snare to play technical death metal?",
@@ -68940,11 +68935,11 @@ The dense bubinga shell's dark, cutting crack holds up whether Roddy is locked i
     // Conclusion
     conclusion: {
       title: "Find Your Technical Death Metal Snare Voice",
-      content: `Technical death metal snare choice comes down to how much instant, ghost-note-sensitive precision your fills demand versus how much body and durability you need for touring and recording. George Kollias's Pearl signature brass snare proved that one shell can serve both raw blast-beat speed and refined technical articulation. Hannes Grossmann's shallower maple Collectors snare and Flo Mounier's even shallower steel Reference snare both show how trading depth for speed sharpens ghost-note response on the genre's densest fills. Derek Roddy's bubinga Tama Starclassic snare demonstrates that consistency under one-take recording pressure doesn't have to come at the expense of technicality.
+      content: `Technical death metal snare choice comes down to how much instant, ghost-note-sensitive precision your fills demand versus how much body and durability you need for touring and recording. George Kollias's Pearl signature brass snare proved that one shell can serve both raw blast-beat speed and refined technical articulation. Hannes Grossmann's and Flo Mounier's shallower maple snares both show how trading depth for speed sharpens ghost-note response on the genre's densest fills. Derek Roddy's bubinga Tama Starclassic snare demonstrates that consistency under one-take recording pressure doesn't have to come at the expense of technicality.
 
 None of these approaches is more "correct" — all four represent technical death metal's founding commitment to snares that never lose the thread, no matter how dense the arrangement gets. Start with whichever voicing matches your material's balance of speed, precision, and body.
 
-Budget shouldn't stop you either. A Pearl Export or DW Performance Series snare will teach real technique and survive demanding daily practice while you save toward the signature, Reference, and Collectors-tier snares that defined this lineage's most influential records.
+Budget shouldn't stop you either. A Pearl Export or DW Performance Series snare will teach real technique and survive demanding daily practice while you save toward the signature, Starclassic, and Collectors-tier snares that defined this lineage's most influential records.
 
 🤘 **Now go conquer that odd meter.**`
     }

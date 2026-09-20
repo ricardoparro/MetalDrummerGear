@@ -19275,6 +19275,7 @@ For touring nu-metal acts running full arena and festival schedules, the memory-
             weight: "Heavy"
           },
           usedBy: [
+            { name: "Ray Luzier", band: "Korn", note: "DW hardware anchoring Korn's arena setup" },
             { name: "Touring nu-metal drummers", band: "Various", note: "Standard for exact, repeatable setups across arena and festival circuits" }
           ],
           verdict: "The touring-grade standard for high-energy nu-metal performance — built to survive years on the road.",
@@ -19291,7 +19292,7 @@ For touring nu-metal acts running full arena and festival schedules, the memory-
           tier: "pro",
           material: "Double-braced steel",
 
-          description: `Ray Luzier's syncopated, groove-first playing with Korn needs cymbal placement that holds through hard, downtuned-riff-driven hitting without drifting out of position. Tama's Titan Series pairs oversized double-braced tripods with precise memory locks, ideal for a groove-oriented nu-metal drummer who still wants pro-tier durability.
+          description: `Syncopated, groove-first nu-metal playing needs cymbal placement that holds through hard, downtuned-riff-driven hitting without drifting out of position. Tama's Titan Series pairs oversized double-braced tripods with precise memory locks, ideal for a groove-oriented nu-metal drummer who still wants pro-tier durability.
 
 The line's individual-stand format lets a drummer build out exactly the pieces a groove-focused kit needs, without committing to a full rack system.`,
 
@@ -19312,9 +19313,6 @@ The line's individual-stand format lets a drummer build out exactly the pieces a
             includes: "Sold as individual stands or packs",
             weight: "Heavy"
           },
-          usedBy: [
-            { name: "Ray Luzier", band: "Korn", note: "Precise memory locks for groove-oriented, downtuned riff-driven playing" }
-          ],
           verdict: "Precision hardware for nu-metal's most syncopated, groove-heavy setups.",
           rating: 4.6,
           affiliateLink: "https://www.thomann.de/intl/tama_titan_series_hardware.htm?partner_id=metalforge"

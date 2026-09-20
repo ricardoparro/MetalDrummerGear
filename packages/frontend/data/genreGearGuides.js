@@ -21725,7 +21725,7 @@ Start with a 22"x18" maple or birch/bubinga shell and a reinforced head like the
     // SEO metadata
     title: "Best Bass Drums for Djent: 2026 Ultimate Guide",
     metaTitle: "Best Bass Drums for Djent in 2026 | MetalForge Expert Guide",
-    description: "Best bass drums for djent's tight, controlled low end. What Tomas Haake (TAMA Starclassic) and Matt Halpern (Pearl Reference Pure) actually play — triggered, reinforced setups for polyrhythmic clarity, from budget to pro.",
+    description: "Best bass drums for djent's tight, controlled low end. What Tomas Haake (Sonor SQ2) and Matt Halpern (Pearl Reference Pure) actually play — triggered, reinforced setups for polyrhythmic clarity, from budget to pro.",
     seoKeywords: [
       'best bass drums for djent',
       'djent bass drum setup',
@@ -21734,7 +21734,7 @@ Start with a 22"x18" maple or birch/bubinga shell and a reinforced head like the
       'triggered bass drum djent',
       'tight controlled bass drum metal',
       'bass drum for polyrhythms',
-      'tama starclassic bass drum djent',
+      'sonor sq2 bass drum djent',
       'reinforced bass drum head djent',
       'periphery bass drum setup'
     ],
@@ -21762,12 +21762,12 @@ Start with a 22"x18" maple or birch/bubinga shell and a reinforced head like the
       title: "What Bass Drum Setup Do Djent Drummers Actually Use?",
       content: `Djent's signature "chug" is as much about the bass drum as it is the guitar tone underneath it. Where death metal wants raw low-end weight and black metal wants open resonance, djent needs a kick that's tight, controlled, and utterly consistent stroke to stroke — every hit has to lock precisely with palm-muted polyrhythmic guitar patterns, or the whole illusion of mechanical precision falls apart.
 
-Tomas Haake of Meshuggah, djent's founding drummer, plays a TAMA Starclassic Walnut/Birch bass drum sized 22"x16" — a shallower depth than the death metal standard, chosen specifically for the tight, punchy attack that gates cleanly in Meshuggah's heavily processed productions. Matt Halpern of Periphery runs a Pearl Reference Pure bass drum, its sensitive, unreinforced maple shell tuned for controlled articulation across Periphery's dense, dynamic djent-prog arrangements. Both drummers pair their acoustic kicks with reinforced or triggered heads to guarantee the same tight, consistent attack on every single stroke, night after night.
+Tomas Haake of Meshuggah, djent's founding drummer, plays a Sonor SQ2 Heavy Beech bass drum — a single, oversized 24"x18" shell he's run since 2005, custom-specified for the low-end weight his mechanically precise, polyrhythmic riffing demands. Matt Halpern of Periphery runs a Pearl Reference Pure bass drum, its sensitive, unreinforced maple shell tuned for controlled articulation across Periphery's dense, dynamic djent-prog arrangements. Both drummers pair their acoustic kicks with reinforced or triggered heads to guarantee the same tight, consistent attack on every single stroke, night after night.
 
 This guide breaks down exactly what makes a bass drum work for djent — shell depth, head selection, and triggering — and which specific shells the genre's defining drummers actually play.`,
       keyPoints: [
         "Djent favors shallower 16\"-18\" depth shells over the deeper shells death metal prefers, for a tighter, more controlled attack",
-        "Tomas Haake's TAMA Starclassic Walnut/Birch (22\"x16\") is djent's founding bass drum setup",
+        "Tomas Haake's Sonor SQ2 Heavy Beech (single 24\"x18\") is djent's founding bass drum setup",
         "Triggered or reinforced heads (Evans EMAD2, Remo Powerstroke) guarantee consistent attack for polyrhythmic clarity",
         "Free-floating, isolation-mounted shells minimize sympathetic resonance that would blur tight, processed production"
       ]
@@ -21780,7 +21780,7 @@ This guide breaks down exactly what makes a bass drum work for djent — shell d
         {
           name: "Shell Depth for Controlled Attack",
           icon: "📏",
-          description: "Djent favors shallower shells than death metal — Tomas Haake's TAMA Starclassic runs 16\" depth rather than the 18\"-20\" death metal standard, producing a tighter, punchier attack that gates cleanly under heavy processing and doesn't wash into the mix.",
+          description: "Djent favors shallower shells than death metal — a 16\"-18\" depth rather than the 18\"-20\" death metal standard, producing a tighter, punchier attack that gates cleanly under heavy processing and doesn't wash into the mix.",
           recommendation: "16\"-18\" depth for a tight, controlled attack that gates well in processed mixes"
         },
         {
@@ -21798,8 +21798,8 @@ This guide breaks down exactly what makes a bass drum work for djent — shell d
         {
           name: "Shell Material",
           icon: "🪵",
-          description: "Walnut/birch hybrid shells (Haake's TAMA Starclassic) combine walnut's tonal complexity with birch's focused attack — controlled yet full-bodied under heavy processing. Thin, unreinforced maple (Halpern's Pearl Reference Pure) offers exceptional sensitivity for more dynamic, musical djent-prog playing.",
-          recommendation: "Walnut/birch hybrid for controlled, processed-friendly tone; thin maple for dynamic sensitivity"
+          description: "Heavy beech shells (Haake's Sonor SQ2) add mass for maximum low-end weight under heavy processing. Thin, unreinforced maple (Halpern's Pearl Reference Pure) offers exceptional sensitivity for more dynamic, musical djent-prog playing.",
+          recommendation: "Heavy beech for maximum low-end weight; thin maple for dynamic sensitivity"
         },
         {
           name: "Isolation Mounting",
@@ -21822,43 +21822,43 @@ This guide breaks down exactly what makes a bass drum work for djent — shell d
       pedals: [
         {
           rank: 1,
-          name: "TAMA Starclassic Walnut/Birch Bass Drum",
-          brand: "TAMA",
-          model: "Starclassic Walnut/Birch 22\"x16\"",
+          name: "Sonor SQ2 Heavy Beech Bass Drum",
+          brand: "Sonor",
+          model: "SQ2 Custom 24\"x18\"",
           image: "https://upload.wikimedia.org/wikipedia/commons/6/6c/Acoustic_Drums_Kit_%2829965183378%29.jpg",
-          priceRange: "€700-900",
+          priceRange: "€900-1200",
           tier: "pro",
-          material: "Walnut/Birch Hybrid, 22\"x16\"",
+          material: "Custom Heavy Beech shell, 24\"x18\"",
 
-          description: `The TAMA Starclassic Walnut/Birch bass drum is Tomas Haake's primary setup with Meshuggah, djent's founding band — and the shallower 16" depth (versus the 18"-20" death metal standard) is a deliberate choice for a tighter, punchier attack that gates cleanly under heavy studio processing.
+          description: `The Sonor SQ2 Heavy Beech bass drum has been Tomas Haake's primary setup with Meshuggah, djent's founding band, since 2005 — a single, oversized 24" shell (larger than djent's 22" norm) custom-specified for the low-end weight his mechanically precise, downtuned riffing demands.
 
-The walnut/birch hybrid shell combines walnut's warm, complex low end with birch's focused attack, producing a controlled yet full-bodied tone that sits perfectly under djent's heavily processed, downtuned guitar layers. Star-Cast mounting minimizes shell dampening while keeping the attack tight and consistent stroke to stroke.`,
+Sonor's SQ2 custom program lets drummers dial in exact shell specs, and Haake's oversized single-kick configuration — paired with two independent pedals rather than a double pedal — keeps that extra low end controlled and focused rather than boomy, even under heavy studio processing.`,
 
           pros: [
-            "Tomas Haake's primary Meshuggah bass drum — djent's founding setup",
-            "Shallower 16\" depth for a tighter, more controlled attack",
-            "Walnut/birch hybrid balances controlled tone with complexity",
-            "Star-Cast mounting for consistency across polyrhythmic patterns",
+            "Tomas Haake's primary Meshuggah bass drum since 2005 — djent's founding setup",
+            "Oversized 24\" diameter for maximum low-end weight beneath downtuned riffing",
+            "Heavy beech shell construction keeps the extra size controlled, not boomy",
+            "Custom SQ2 program allows precise shell specification",
             "Excellent for both live and heavily processed studio work"
           ],
           cons: [
-            "Premium price — significant investment",
-            "Shallower depth trades some low-end weight for control",
-            "Walnut adds weight over birch-only alternatives"
+            "Premium custom-order price and lead times",
+            "Larger footprint than a standard 22\" shell",
+            "Slightly slower response than a shallower shell at the fastest tempos"
           ],
           specs: {
-            diameter: "22\"",
-            depth: "16\"",
-            shell: "Walnut/Birch Hybrid",
+            diameter: "24\"",
+            depth: "18\"",
+            shell: "Heavy Beech (custom SQ2)",
             headRecommendation: "Evans EMAD2",
-            configuration: "Single, trigger-compatible"
+            configuration: "Single (oversized), trigger-compatible"
           },
           usedBy: [
-            { name: "Tomas Haake", band: "Meshuggah", note: "22\"x16\" bass drum — djent's founding tight, controlled attack" }
+            { name: "Tomas Haake", band: "Meshuggah", note: "24\"x18\" Sonor SQ2 Heavy Beech — djent's founding low-end weight" }
           ],
           verdict: "The definitive djent bass drum. If you play Meshuggah-style djent, this is the benchmark.",
           rating: 4.9,
-          affiliateLink: "https://www.thomann.de/intl/tama_starclassic_walnut_birch_bass_drum.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/sonor_sq2_oversized_bass_drum.htm?partner_id=metalforge"
         },
         {
           rank: 2,
@@ -21912,7 +21912,7 @@ Halpern's jazz-school background comes through in how he uses the Reference Pure
 
           description: `A shallower 16" maple shell delivers the tight, controlled attack djent demands at a more accessible price than a full custom-tier shell. The reduced depth speeds up response and gives engineers an easier signal to gate cleanly for tightly processed, polyrhythmic productions.
 
-Pure maple construction keeps the tone warm and controlled rather than aggressive, matching djent's emphasis on precision over raw power. It's a strong, more affordable step toward the tight, processed-friendly attack Haake and Halpern both build their tone around.`,
+Pure maple construction keeps the tone warm and controlled rather than aggressive, matching djent's emphasis on precision over raw power. It's a strong, more affordable step toward the tight, processed-friendly attack Halpern builds his tone around.`,
 
           pros: [
             "Shallow 16\" depth for a tight, controlled attack",
@@ -21968,10 +21968,10 @@ Pure maple construction keeps the tone warm and controlled rather than aggressiv
           priceRange: "€220-300",
           tier: "budget",
           material: "Maple/Walnut hybrid, 22\"x16\"",
-          description: "The Armory Series punches above its price point with a real maple/walnut hybrid shell — a genuine echo of Tomas Haake's walnut/birch tonal philosophy at a fraction of the Starclassic's price.",
+          description: "The Armory Series punches above its price point with a real maple/walnut hybrid shell, giving budget-minded djent drummers genuine tonal complexity at a fraction of a premium custom shell's price.",
           pros: ["Maple/walnut hybrid shell for real tonal character", "Shallow 16\" depth for a controlled attack", "Good value step up from entry-level shells"],
           cons: ["Still benefits from a reinforced head upgrade for trigger-ready consistency"],
-          verdict: "Best budget pick for drummers chasing Haake's tonal philosophy without premium pricing.",
+          verdict: "Best budget pick for a warm, controlled tonal character without premium pricing.",
           rating: 4.2,
           affiliateLink: "https://www.thomann.de/intl/mapex_armory_bass_drum_djent.htm?partner_id=metalforge"
         }
@@ -21980,26 +21980,26 @@ Pure maple construction keeps the tone warm and controlled rather than aggressiv
 
     // Comparison
     comparison: {
-      title: "16\" vs 18\" Depth Bass Drums for Djent",
-      content: `Djent drummers split their bass drum depth choice across two proven approaches:
+      title: "22\" vs 24\" Bass Drums for Djent",
+      content: `Djent drummers split their bass drum diameter choice across two proven approaches:
 
-**16\" Depth (Tomas Haake):**
-- Tighter, punchier attack that gates cleanly under heavy processing
+**22\" Diameter (Matt Halpern):**
+- Standard sizing pairs cleanly with a double pedal and stays easy to transport
+- Sensitive, unreinforced maple shell adds dynamic range without extra low-end weight
 - Faster response for rapid, polyrhythmic kick patterns
-- Slightly less natural sub-bass weight than a deeper shell
 
-**18\" Depth (Matt Halpern):**
-- More natural low-end body and dynamic range
-- Still tight and controlled when paired with the right head and muffling
-- Slightly slower to gate as cleanly as a shallower shell
+**24\" Diameter (Tomas Haake):**
+- Oversized shell adds significant sub-bass weight beneath heavily downtuned riffing
+- Custom Sonor SQ2 heavy beech construction keeps the extra size controlled rather than boomy
+- Slightly slower response and a larger footprint than a standard 22" shell
 
-**Verdict:** Start with a shallow 22"x16" shell and a reinforced, trigger-compatible head like the Evans EMAD2 if your priority is a tight, processed, Meshuggah-style attack. Choose an 18" depth shell like Halpern's Pearl Reference Pure if you want more natural dynamic range for musical, prog-leaning djent.`,
+**Verdict:** Start with a standard 22"x18" shell and a reinforced, trigger-compatible head like the Evans EMAD2 for Halpern's dynamic, easy-to-transport setup. Go oversized with a custom 24"x18" shell like Haake's Sonor SQ2 if your material specifically calls for maximum low-end weight.`,
       comparisonTable: [
-        { feature: "Attack Tightness", birch: "⭐⭐⭐⭐⭐", maple: "⭐⭐⭐⭐" },
-        { feature: "Dynamic Range", birch: "⭐⭐⭐", maple: "⭐⭐⭐⭐⭐" },
-        { feature: "Gate-Friendliness", birch: "⭐⭐⭐⭐⭐", maple: "⭐⭐⭐⭐" },
-        { feature: "Natural Low-End Body", birch: "⭐⭐⭐", maple: "⭐⭐⭐⭐" },
-        { feature: "Price (entry)", birch: "€200+", maple: "€650+" }
+        { feature: "Response Speed", standard: "⭐⭐⭐⭐⭐", oversized: "⭐⭐⭐⭐" },
+        { feature: "Dynamic Range", standard: "⭐⭐⭐⭐⭐", oversized: "⭐⭐⭐" },
+        { feature: "Low-End Weight", standard: "⭐⭐⭐", oversized: "⭐⭐⭐⭐⭐" },
+        { feature: "Portability", standard: "⭐⭐⭐⭐⭐", oversized: "⭐⭐⭐" },
+        { feature: "Price (entry)", standard: "€200+", oversized: "€900+" }
       ]
     },
 
@@ -22009,8 +22009,8 @@ Pure maple construction keeps the tone warm and controlled rather than aggressiv
       picks: [
         {
           category: "Best Overall",
-          pedal: "TAMA Starclassic Walnut/Birch Bass Drum",
-          reason: "Tomas Haake's founding djent setup — the tight, controlled attack the genre is built around."
+          pedal: "Sonor SQ2 Heavy Beech Bass Drum",
+          reason: "Tomas Haake's founding djent setup since 2005 — the low-end weight the genre's downtuned riffing demands."
         },
         {
           category: "Best for Dynamic Playing",
@@ -22038,13 +22038,13 @@ Pure maple construction keeps the tone warm and controlled rather than aggressiv
       'best-drum-triggers-for-djent'
     ],
     relatedDrummers: [
-      { slug: 'tomas-haake', name: 'Tomas Haake', reason: '22"x16" TAMA Starclassic Walnut/Birch — djent\'s founding bass drum tone' },
+      { slug: 'tomas-haake', name: 'Tomas Haake', reason: '24"x18" Sonor SQ2 Heavy Beech — djent\'s founding bass drum tone' },
       { slug: 'matt-halpern', name: 'Matt Halpern', reason: 'Pearl Reference Pure — sensitive, dynamic djent-prog low end' }
     ],
 
     // Featured drummers (issue template)
     featuredDrummers: [
-      { slug: 'tomas-haake', name: 'Tomas Haake', reason: 'TAMA Starclassic Walnut/Birch — tight, controlled djent attack' },
+      { slug: 'tomas-haake', name: 'Tomas Haake', reason: 'Sonor SQ2 Heavy Beech — oversized low end for djent' },
       { slug: 'matt-halpern', name: 'Matt Halpern', reason: 'Pearl Reference Pure — dynamic sensitivity for Periphery' }
     ],
 
@@ -22052,11 +22052,11 @@ Pure maple construction keeps the tone warm and controlled rather than aggressiv
     faq: [
       {
         question: "What bass drums do djent drummers use?",
-        answer: "Tomas Haake of Meshuggah plays a 22\"x16\" TAMA Starclassic Walnut/Birch bass drum, chosen for a tighter, more controlled attack than the death metal standard. Matt Halpern of Periphery plays a Pearl Reference Pure at the more standard 18\" depth, valued for its dynamic sensitivity."
+        answer: "Tomas Haake of Meshuggah has played a single, oversized 24\"x18\" Sonor SQ2 Heavy Beech bass drum since 2005, custom-specified for maximum low-end weight beneath his polyrhythmic riffing. Matt Halpern of Periphery plays a Pearl Reference Pure at the more standard 22\"x18\" size, valued for its dynamic sensitivity."
       },
       {
         question: "Why do djent drummers use a shallower bass drum than death metal drummers?",
-        answer: "A shallower shell (Tomas Haake's 16\" depth versus the 18\"-20\" death metal standard) produces a tighter, punchier attack that gates more cleanly under the heavy processing common in djent production, where every kick stroke needs to sound tightly controlled and consistent."
+        answer: "A shallower shell (16\"-18\" depth versus the 18\"-20\" death metal standard) produces a tighter, punchier attack that gates more cleanly under the heavy processing common in djent production, where every kick stroke needs to sound tightly controlled and consistent."
       },
       {
         question: "Should I trigger my bass drum for djent?",
@@ -22067,15 +22067,15 @@ Pure maple construction keeps the tone warm and controlled rather than aggressiv
         answer: "Reinforced, trigger-compatible heads — Evans EMAD2 or Remo Powerstroke 3 — are the djent standard. They deliver the consistent, controlled attack the genre's heavily processed, gated production demands far better than a standard single-ply head."
       },
       {
-        question: "16\" or 18\" bass drum depth for djent?",
-        answer: "16\" (Tomas Haake's TAMA Starclassic) gives a tighter, more controlled attack that gates cleanly. 18\" (Matt Halpern's Pearl Reference Pure) offers more natural low-end body and dynamic range while remaining controlled with the right head and muffling."
+        question: "22\" or 24\" bass drum diameter for djent?",
+        answer: "22\" (Matt Halpern's Pearl Reference Pure) is the standard size — easy to transport and pairs cleanly with a double pedal. 24\" (Tomas Haake's custom Sonor SQ2 Heavy Beech) trades a little response speed for significantly more low-end weight beneath heavily downtuned riffing."
       }
     ],
 
     // Conclusion
     conclusion: {
       title: "Build the Tight, Controlled Low End Djent Demands",
-      content: `Djent's bass drum requirements are about precision above all else — every kick stroke has to lock with palm-muted, polyrhythmic guitar patterns with mechanical consistency. Tomas Haake's shallower 22"x16" TAMA Starclassic Walnut/Birch shows exactly how that tight, controlled, processed-friendly attack is built, while Matt Halpern's Pearl Reference Pure proves an 18" shell can stay just as controlled while adding more natural dynamic range.
+      content: `Djent's bass drum requirements are about precision above all else — every kick stroke has to lock with palm-muted, polyrhythmic guitar patterns with mechanical consistency. Tomas Haake's oversized 24"x18" Sonor SQ2 Heavy Beech shows exactly how that controlled, processed-friendly low end is built when your material demands maximum weight, while Matt Halpern's standard-sized Pearl Reference Pure proves a 22" shell can stay just as controlled while adding more natural dynamic range.
 
 Whichever depth you choose, pair it with a reinforced, trigger-compatible head like the Evans EMAD2 or Remo Powerstroke 3 — consistency, not raw power, is what separates a great djent bass drum from a merely adequate one.
 

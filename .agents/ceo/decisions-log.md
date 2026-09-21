@@ -5,6 +5,34 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-09-21 03:24 UTC*
 
 ---
+## 2026-09-21 21:43 — Evening review: L1/L2/L3 close-the-loop pass (2 new depth issues) + 5/5 fresh proposals promoted (#7893-7897)
+
+### Context (≤3 lines)
+First run after 19:00 UTC (evening review). Metrics 21:43 UTC (359 users/414 sessions/658 views 7d; GSC 9,878 impr/220 clicks/2.23% CTR/pos 7.5). Eligible `ai-fix` backlog 2 at start, 1 open PR (#7904, mergeable). 5 fresh untriaged `seo-proposal` (#7893-7897, filed 13:39-13:40 UTC, continuing the `genreGearGuides.js`/`drummerEvolution.js` fabrication sweep). **All 3 weekly verifier snapshots (GSC 14:57, LLM 14:31, indexation 16:05 UTC) landed since the 12:02 run** (which found them not-yet-due) — this run did the full L1/L2/L3 close-the-loop pass.
+
+### Actions taken
+- **Live-verified all 5 fresh proposals via direct grep** against `genreGearGuides.js`/`drummerEvolution.js`/`endorsementNews.js`: #7893 (Joey Jordison residual Tama mentions missed by #6809), #7894 (Tomas Haake pedal fabricated as Iron Cobra across 2 guides, verified Speed Cobra), #7895 (Tomas Haake drummerEvolution obZen/Koloss eras fabricate DW/Vic Firth, #5857 only fixed the later era), #7896 (Dirk Verbeuren Vater-sticks-through-2016 contradicts verified same-year Tama O-DVM2 switch), #7897 (Charlie Benante 3-era DW/Sabian saga in drummerEvolution.js, sibling files already fixed by #6039/#7265 but this file — which originated the narrative — never was). All 5/5 confirmed accurate via spot-check grep, zero file/line overlap between them, freeze-compliant (text-only, zero new URLs). Promoted all 5.
+- **L1 (GSC watch, #3810, 16 wins / 3 big-losses / 12 CTR-gap rows):** all 12 CTR-gap rows individually re-checked against `learned-patterns.md` precedent — 4 already class-2 bare-name (jaska-raatikainen, flo-mounier, raymond-herrera, death-drummer), 3 already gear-qualified known-oscillators (joey-jordison-drum-set, mario-duplantier-drum-kit, eloy-casagrande-drum-kit), 1 SERP name-collision (metalforge), 1 exhausted-content-lever (danny-carey-drumset), 1 fix already shipped and live, too early to judge (best-cymbal-set-for-metal, #7531). The 2 remaining (iron-man-bpm, painkiller-bpm) got fresh 5-week `gsc-history` analysis: painkiller converted 1 click (08-31) → noise, not re-filed; iron-man-bpm is 0-for-5 despite an already-ideal direct-answer snippet ("is 76 BPM" in description) — diagnosed as a NEW ceiling class (SERP answer-in-snippet, copy can't fix it), logged, not filed. 3 big-losses (nick-menza, best-drumsticks-for-blast-beats, matt-greiner) — all low-impression (5-7) position wobbles on heavily-already-fixed drummers, held pending next snapshot rather than re-opening fabrication sweeps that were declared exhausted weeks ago.
+- **L3 (indexation, #3819, 465/500 indexed, 93.0%):** dispatched an agent to root-cause the recurring 7-URL `duplicate→/lists/math-metal-drummers` canonical cluster — confirmed (again) 100% stale-crawl residue, all 7 URLs + target self-canonicalize correctly live; no issue filed, logged the 2nd confirmation so this cluster isn't re-investigated a 3rd time. Filed 2 fresh, verified issues on the 4 actionable `crawled-not-indexed` URLs: **#7906** (`/lists/most-innovative-drummers` + `/lists/thrash-metal-drummers`, both crawled-not-indexed in L3 AND uncited in this week's L2 for the matching query — dual-loop signal, high-confidence enrichment target) and **#7907** (`/pedals/setups/igor-cavalera`, only ~250 words bot-facing, clearly thin; + `/drummer/chris-adler/bio`, freshly rejected 09-13, needs an overlap-vs-flagship audit). Skipped the 5xx `viking-metal-drummers` row — live-curled 200 OK today, last GSC crawl 07-30, stale.
+- **L2 (LLM citations, #2211, 69/100 cited — durably past the 25/84 floor, no minimum-pressure forcing needed):** the "who is the drummer of slipknot/tool/pantera" gap was already deep-dived exactly one week ago (09-14 entry, ruled "no untried pattern, authority ceiling") — not re-litigated. The 2 pages targeted by #7906 double as this week's L2 action.
+- **Founder ideas:** inbox empty, unchanged since 2026-06-19. **Human-founder blockers:** #5141/#5100/#4892/#875/#529/#526/#525 unchanged, no re-spam.
+- **Atomic-split sweep:** 0 eligible — no non-hold `ai-fix` issue open >3 days (checked via `createdAt` filter).
+- **Starvation check:** not triggered — backlog 2→9 post-promotion (5 proposals + 2 new L3 issues), well above the 15-floor concern once combined with the mid-flight PR.
+
+### State delta
+- ai-fix backlog (eligible): 2 → 9 (#7893-7897 promoted, #7906-7907 filed fresh)
+- seo-proposal bank (excl. umbrellas #2211/#3810/#3819): 5 fresh → 0 untriaged
+- L1/L2/L3 umbrellas: all 3 now reflect the 09-21 snapshot; next refresh expected ~09-28
+
+### Quota check
+✅ SEO proposals: 5/5 fresh triaged, live-verified, all promoted. ✅ Founder ideas: inbox empty. ✅ L1: 12/12 CTR-gap rows + 3 big-losses individually reasoned, 0 filed (all noise/already-ruled/already-shipped) except 1 new class logged. ✅ L2: durably healthy (69/100), no forcing needed, dual-loop synergy folded into #7906. ✅ L3: 2 new verified issues filed (#7906/#7907), stale-canonical cluster correctly not re-investigated. ✅ Starvation: not triggered. ✅ Atomic split: nothing eligible. ✅ Decisions logged.
+
+### Next Run
+1. Watch #7893-7897 + #7906-7907 pick up via Roadie; watch #7904 (fix for #7884) merge.
+2. Watch the next L1/L2/L3 weekly refresh (~09-28) for #7906's dual-loop pages moving off `crawled-not-indexed` / into "cited".
+3. #7869 (Daray) stays `human` until Ricardo confirms which drum kit model is correct; other human-founder blockers unchanged, no re-spam.
+
+---
 ## 2026-09-21 12:02 — Daily deep run: 5/5 fresh proposals verified and promoted (#7880-7884)
 
 ### Context (≤3 lines)

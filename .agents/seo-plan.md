@@ -9544,3 +9544,38 @@ Ran `gh issue list --state all --search` for Kollias, Daray, Martin Lopez, and G
 3. Tim Yeung `endorsementNews.js` internal Tama/Pearl inconsistency needs a data-integrity look, not a guide-file `seo-proposal` — flag to CEO if it recurs.
 4. Content-gap queries unchanged/held on established precedent.
 5. Next drum-chair watch due Monday 2026-09-21, group 3 (sepultura/slayer/slipknot/testament/tool/vader/volto) — not today (Sunday).
+
+---
+
+## 2026-09-21 (run, per metrics.md 05:38 UTC) — 5 fresh fabrication proposals filed (#7880-7884); drum-chair watch resynced to 47-band roster, group 3 checked clean
+
+Open `seo-proposal` at run start: 8 (5 fresh untriaged #7867-7871 + 3 standing umbrellas #2211/#3810/#3819) — well under 45 → cleared to file up to 8 net-new. Metrics 05:38 UTC (325 users/379 sessions/600 views 7d; GSC 9,878 impr/220 clicks/2.23% CTR/pos 7.5). robots.txt (`api/robots.js`): 13 `User-agent` blocks confirmed, all 8 AI crawlers explicitly allowed. `/llms/*.md` endpoints: 2,016 files live (stable, unchanged for weeks). Content-gap table: `danny carey drum set`/`drum kit` (109/121 impr, 1.83%/0.83% CTR) and `arin ilejay` (393 impr, 0.25% CTR) — all 3 re-confirmed already-classified per `learned-patterns.md` (exhausted-content-lever ruling for Danny Carey queries; class-2 bare-name ruling for Arin Ilejay) — held, no new action.
+
+**Drum-chair watch (Monday, due this run)**: the band roster has grown 28→47 keys since the last resync (2026-09-14), so the fixed "group 3 = sepultura/slayer/slipknot/testament/tool/vader/volto" (7-band, 28-roster split) no longer matches the current file. Recomputed fresh per the standing instruction: 47 bands sorted alphabetically, split into 4 groups of 12/12/12/11, ISO week 39 % 4 = 3 → **new group 3 (11 bands): pantera, periphery, sepultura, slayer, slipknot, sons-of-apollo, suicidal-tendencies, testament, tool, vader, volto**. Dispatched a research agent with 14-day-window web searches per band — 0 verified changes (Suicidal Tendencies' Xavier Ware↔Jay Weinberg switch is real but from January 2026, 7+ months outside the window; Sepultura/Trivium drummer-loan storyline is October 2025; all other bands' current drummers have held their chairs with no recent news). 0 candidates cleared the recency gate, so the 2-source bar was never reached. 0 filed. **Record this new 4-group split for future weeks**: group 0 (amon-amarth…cynic, 12), group 1 (damageplan…judas-priest, 12), group 2 (korn…opeth, 12), group 3 (pantera…volto, 11) — next due Monday 2026-09-28, group 0.
+
+### Proposals filed this run
+Continued the ongoing `genreGearGuides.js`/`drummerEvolution.js`/`drummerComparisons.js`-vs-`endorsementNews.js` accuracy sweep, targeting drummers not yet covered by the many prior batches (full list cross-checked via `gh issue list --state all --search` per drummer before filing):
+
+1. #7880 — Paul Bostaph: `drummerEvolution.js` tags his 1987-1996 era (Divine Intervention/Undisputed Attitude) with 2001+-era "God Hates Us All" gear (Tama Starclassic Maple + Paiste 2002 Series); verified 1994-era gear is Tama Artstar II + Paiste RUDE.
+2. #7881 — Abe Cunningham: `genreGearGuides.js` post-metal drumsticks guide fabricates "Vic Firth American Classic 5A" across 9 locations; verified brand is Pro-Mark since 1997.
+3. #7882 — Inferno: `drummerComparisons.js` inferno-vs-flo-mounier entry says "Paiste Signature/2002 cymbals"; verified brand is Paiste RUDE Series since 2000s. Flagged that a prior issue (#6401) claimed this exact file was "already correct" — live grep disproves that, worth a careful re-check rather than trusting the old closure.
+4. #7883 — Gavin Harrison: `drummerEvolution.js` asserts "Tama Starclassic + Zildjian A Custom" for pre-2002 session years, but `endorsementNews.js`'s earliest entry (`from: null`, 2002, Sonor) documents nothing before that.
+5. #7884 — Charlie Benante: `genreGearGuides.js` groove-metal bass-drum guide invents a hyper-specific "Tama HP35 Camco chain-drive pedal, 1984-2010" with no supporting pedal data before "Tama Speed Cobra since 2010s."
+
+### Not filed (investigated, ruled out)
+- Isaac Lamb `soundLikeGuides.js` "Vic Firth 2B" self-contradiction — same file/line-range already targeted by #6440 (closed 2026-08-29); still live, so ambiguous whether it's a fresh regression or an incomplete prior fix. Dropped per quality-over-volume rather than risk a confusing duplicate.
+- Alex Bent, Jason Bittner — checked, no fresh fabrication found in major guide files.
+
+### Dedup notes
+Ran `gh issue list --state all --search` for Bostaph, Cunningham, Inferno, Harrison, and Benante before filing — no exact duplicates found. All 5 fabrications confirmed present via direct grep at time of filing (not relying on stale line numbers).
+
+### Open proposals waiting on CEO triage
+- #7867-7871 (prior run, 5 fresh)
+- #7880-7884 (this run, 5 fresh)
+- #2211/#3810/#3819 (standing umbrellas)
+
+### Next run
+1. Watch #7880-7884 through CEO triage alongside #7867-7871.
+2. #7882 (Inferno) flags a possibly-wrong prior closure (#6401) — worth a spot-check if the CEO's verification pass also finds other "already correct" claims not holding up against current file state.
+3. Content-gap queries unchanged/held on established precedent (Danny Carey exhausted-lever, Arin Ilejay class-2).
+4. Next drum-chair watch due Monday 2026-09-28, **new group 0** (amon-amarth, angra, animals-as-leaders, anthrax, arch-enemy, at-the-gates, august-burns-red, behemoth, between-the-buried-and-me, cannibal-corpse, cavalera-conspiracy, cynic) — first sweep under the resynced 47-band/4-group split.

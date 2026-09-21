@@ -2,17 +2,17 @@
 
 *Auto-written by `.github/workflows/check-indexation.yml`. CEO Agent: read this every run when deciding which pages need content expansion or internal-link boosting.*
 
-**Generated:** 2026-09-14T16:03:16.356Z
+**Generated:** 2026-09-21T16:05:25.370Z
 **Site:** https://metalforge.io/
-**Sitemap URLs total:** 3170 · **Inspected this run:** 500 (cap 500)
-**Selection:** 250 fixed sentinels (top priority, same every run — trend-comparable) + 250 rotating (full sitemap covered every ~12 runs; cursor now 2250)
-**Compared against:** 2026-09-07.json
+**Sitemap URLs total:** 3166 · **Inspected this run:** 500 (cap 500)
+**Selection:** 250 fixed sentinels (top priority, same every run — trend-comparable) + 250 rotating (full sitemap covered every ~12 runs; cursor now 2500)
+**Compared against:** 2026-09-14.json
 
-**Counts:** `indexed`=472 · `duplicate`=7 · `duplicate-google-canonical`=1 · `unknown`=5 · `discovered-not-indexed`=6 · `redirect-or-canonical`=6 · `crawled-not-indexed`=1 · `soft-404`=2
+**Counts:** `indexed`=465 · `duplicate`=7 · `duplicate-google-canonical`=1 · `discovered-not-indexed`=16 · `redirect-or-canonical`=5 · `crawled-not-indexed`=4 · `error-5xx`=1 · `unknown`=1
 
-**Indexed share (this run's sample):** 472 / 500 = **94.4%**
+**Indexed share (this run's sample):** 465 / 500 = **93.0%**
 **Sentinel indexed share (week-over-week comparable):** 240 / 250 = **96.0%**
-**Full-site proxy:** 2105 of 3170 sitemap URLs earned ≥1 Google impression in the last 90d (a page with impressions is indexed by definition; the inverse is not guaranteed)
+**Full-site proxy:** 2185 of 3166 sitemap URLs earned ≥1 Google impression in the last 90d (a page with impressions is indexed by definition; the inverse is not guaranteed)
 
 ## Classification map
 
@@ -31,18 +31,20 @@
 
 ## All inspected URLs, grouped by class
 
-### `crawled-not-indexed` (1)
+### `crawled-not-indexed` (4)
 
 | URL | Coverage state | Last crawl | Notes |
 | --- | --- | --- | --- |
-| `https://metalforge.io/drummer/daniel-erlandsson` | Crawled - currently not indexed | 2026-07-02 |  |
+| `https://metalforge.io/lists/most-innovative-drummers` | Crawled - currently not indexed | 2026-06-27 |  |
+| `https://metalforge.io/lists/thrash-metal-drummers` | Crawled - currently not indexed | 2026-07-02 |  |
+| `https://metalforge.io/pedals/setups/igor-cavalera` | Crawled - currently not indexed | 2026-07-17 |  |
+| `https://metalforge.io/drummer/chris-adler/bio` | Crawled - currently not indexed | 2026-09-13 |  |
 
-### `soft-404` (2)
+### `error-5xx` (1)
 
 | URL | Coverage state | Last crawl | Notes |
 | --- | --- | --- | --- |
-| `https://metalforge.io/genre/black` | Soft 404 | 2026-07-03 |  |
-| `https://metalforge.io/genre/nu-metal` | Soft 404 | 2026-06-30 |  |
+| `https://metalforge.io/lists/viking-metal-drummers` | Server error (5xx) | 2026-07-30 |  |
 
 ### `duplicate` (7)
 
@@ -51,10 +53,10 @@
 | `https://metalforge.io/bpm` | Duplicate without user-selected canonical | 2026-07-03 | canonical → https://metalforge.io/lists/math-metal-drummers |
 | `https://metalforge.io/guides/best-cymbals-for-progressive-metal` | Duplicate without user-selected canonical | 2026-07-04 | canonical → https://metalforge.io/lists/math-metal-drummers |
 | `https://metalforge.io/guides/best-drum-hardware-for-metal` | Duplicate without user-selected canonical | 2026-07-02 | canonical → https://metalforge.io/lists/math-metal-drummers |
-| `https://metalforge.io/drummer/martin-axenrot` | Duplicate without user-selected canonical | 2026-07-05 | canonical → https://metalforge.io/lists/math-metal-drummers |
-| `https://metalforge.io/gear/ludwig/classic-maple/drummers-using` | Duplicate without user-selected canonical | 2026-07-03 | canonical → https://metalforge.io/lists/math-metal-drummers |
-| `https://metalforge.io/genre/death` | Duplicate without user-selected canonical | 2026-07-03 | canonical → https://metalforge.io/lists/math-metal-drummers |
-| `https://metalforge.io/lists/best-classic-heavy-metal-drummers` | Duplicate without user-selected canonical | 2026-07-05 | canonical → https://metalforge.io/lists/math-metal-drummers |
+| `https://metalforge.io/lists/melodic-black-metal-drummers` | Duplicate without user-selected canonical | 2026-07-08 | canonical → https://metalforge.io/lists/math-metal-drummers |
+| `https://metalforge.io/lists/most-decorated-metal-drummers` | Duplicate without user-selected canonical | 2026-07-04 | canonical → https://metalforge.io/lists/math-metal-drummers |
+| `https://metalforge.io/lists/technical-death-metal-drummers` | Duplicate without user-selected canonical | 2026-07-03 | canonical → https://metalforge.io/lists/math-metal-drummers |
+| `https://metalforge.io/technique/seven-stroke-roll/drummers` | Duplicate without user-selected canonical | 2026-07-08 | canonical → https://metalforge.io/lists/math-metal-drummers |
 
 ### `duplicate-google-canonical` (1)
 
@@ -62,22 +64,32 @@
 | --- | --- | --- | --- |
 | `https://metalforge.io/guides/beginner-metal-drummer-setup` | Duplicate, Google chose different canonical than user | 2026-08-22 | canonical → https://metalforge.io/guides/best-drum-sticks-for-metal |
 
-### `discovered-not-indexed` (6)
+### `discovered-not-indexed` (16)
 
 | URL | Coverage state | Last crawl | Notes |
 | --- | --- | --- | --- |
+| `https://metalforge.io/guides/best-china-cymbals-for-mathcore` | Discovered - currently not indexed | — |  |
+| `https://metalforge.io/guides/best-china-cymbals-for-sludge-metal` | Discovered - currently not indexed | — |  |
 | `https://metalforge.io/guides/best-drum-hardware-for-groove-metal` | Discovered - currently not indexed | — |  |
+| `https://metalforge.io/guides/best-drum-thrones-for-metal` | Discovered - currently not indexed | — |  |
 | `https://metalforge.io/guides/best-ride-cymbals-for-extreme-metal` | Discovered - currently not indexed | — |  |
-| `https://metalforge.io/cymbals/setups/igor-cavalera` | Discovered - currently not indexed | — |  |
-| `https://metalforge.io/cymbals/setups/jon-dette` | Discovered - currently not indexed | — |  |
-| `https://metalforge.io/cymbals/setups/richard-christy` | Discovered - currently not indexed | — |  |
-| `https://metalforge.io/drumsticks/signature/nicko-mcbrain` | Discovered - currently not indexed | — |  |
+| `https://metalforge.io/lists/polyrhythmic-metal-drummers` | Discovered - currently not indexed | — |  |
+| `https://metalforge.io/lists/progressive-metal-drummers` | Discovered - currently not indexed | — |  |
+| `https://metalforge.io/pedals/setups/gene-hoglan` | Discovered - currently not indexed | — |  |
+| `https://metalforge.io/pedals/setups/martin-axenrot` | Discovered - currently not indexed | — |  |
+| `https://metalforge.io/technique/linear-drumming/drummers` | Discovered - currently not indexed | — |  |
+| `https://metalforge.io/drummer/ben-koller/bio` | Discovered - currently not indexed | — |  |
+| `https://metalforge.io/drummer/dirk-verbeuren/bio` | Discovered - currently not indexed | — |  |
+| `https://metalforge.io/drummer/joey-jordison/bio` | Discovered - currently not indexed | — |  |
+| `https://metalforge.io/drummer/john-longstreth/bio` | Discovered - currently not indexed | — |  |
+| `https://metalforge.io/drummer/navene-koperweis/bio` | Discovered - currently not indexed | — |  |
+| `https://metalforge.io/drummer/raymond-herrera/bio` | Discovered - currently not indexed | — |  |
 
-### `indexed` (472)
+### `indexed` (465)
 
 | URL | Coverage state | Last crawl | Notes |
 | --- | --- | --- | --- |
-| `https://metalforge.io/` | Submitted and indexed | 2026-09-06 |  |
+| `https://metalforge.io/` | Submitted and indexed | 2026-09-16 |  |
 | `https://metalforge.io/guess-the-kit` | Submitted and indexed | 2026-08-17 |  |
 | `https://metalforge.io/guides/best-bass-drum-pedals-for-black-metal` | Submitted and indexed | 2026-07-13 |  |
 | `https://metalforge.io/guides/best-bass-drum-pedals-for-death-metal` | Submitted and indexed | 2026-07-12 |  |
@@ -158,7 +170,7 @@
 | `https://metalforge.io/guides/best-cymbals-for-groove-metal` | Submitted and indexed | 2026-07-08 |  |
 | `https://metalforge.io/guides/best-cymbals-for-mathcore` | Submitted and indexed | 2026-07-08 |  |
 | `https://metalforge.io/guides/best-cymbals-for-metal` | Submitted and indexed | 2026-07-27 |  |
-| `https://metalforge.io/guides/best-cymbals-for-metalcore` | Submitted and indexed | 2026-08-18 |  |
+| `https://metalforge.io/guides/best-cymbals-for-metalcore` | Submitted and indexed | 2026-09-17 |  |
 | `https://metalforge.io/guides/best-cymbals-for-nu-metal` | Submitted and indexed | 2026-08-07 |  |
 | `https://metalforge.io/guides/best-cymbals-for-post-metal` | Submitted and indexed | 2026-07-12 |  |
 | `https://metalforge.io/guides/best-cymbals-for-power-metal` | Submitted and indexed | 2026-08-19 |  |
@@ -177,25 +189,20 @@
 | `https://metalforge.io/guides/best-drum-hardware-for-nu-metal` | Submitted and indexed | 2026-07-12 |  |
 | `https://metalforge.io/guides/best-drum-hardware-for-post-metal` | Submitted and indexed | 2026-07-12 |  |
 | `https://metalforge.io/guides/best-drum-hardware-for-power-metal` | Submitted and indexed | 2026-07-13 |  |
-| _…and 372 more — see snapshot file_ | | | |
+| _…and 365 more — see snapshot file_ | | | |
 
-### `redirect-or-canonical` (6)
+### `redirect-or-canonical` (5)
 
 | URL | Coverage state | Last crawl | Notes |
 | --- | --- | --- | --- |
 | `https://metalforge.io/guides/best-drum-pedals-for-black-metal` | Alternate page with proper canonical tag | 2026-07-02 | canonical → https://metalforge.io/guides/best-drum-sticks-for-metal |
-| `https://metalforge.io/compare/tama-vs-pearl` | Alternate page with proper canonical tag | 2026-07-18 | canonical → https://metalforge.io/compare |
-| `https://metalforge.io/compare/zildjian-vs-sabian` | Alternate page with proper canonical tag | 2026-06-27 | canonical → https://metalforge.io/compare |
-| `https://metalforge.io/lists/ambient-metal-drummers` | Alternate page with proper canonical tag | 2026-07-06 | canonical → https://metalforge.io/lists/groove-metal-drummers |
-| `https://metalforge.io/lists/atmospheric-black-metal-drummers` | Alternate page with proper canonical tag | 2026-07-03 | canonical → https://metalforge.io/lists/groove-metal-drummers |
-| `https://metalforge.io/lists/best-thrash-metal-drummers` | Alternate page with proper canonical tag | 2026-07-05 | canonical → https://metalforge.io/lists/groove-metal-drummers |
+| `https://metalforge.io/lists/deathcore-drummers` | Alternate page with proper canonical tag | 2026-07-02 | canonical → https://metalforge.io/lists/groove-metal-drummers |
+| `https://metalforge.io/lists/deathgrind-drummers` | Alternate page with proper canonical tag | 2026-07-02 | canonical → https://metalforge.io/lists/groove-metal-drummers |
+| `https://metalforge.io/lists/most-underrated-metal-drummers` | Alternate page with proper canonical tag | 2026-07-02 | canonical → https://metalforge.io/lists/groove-metal-drummers |
+| `https://metalforge.io/lists/technical-thrash-metal-drummers` | Alternate page with proper canonical tag | 2026-07-05 | canonical → https://metalforge.io/lists/groove-metal-drummers |
 
-### `unknown` (5)
+### `unknown` (1)
 
 | URL | Coverage state | Last crawl | Notes |
 | --- | --- | --- | --- |
-| `https://metalforge.io/guides/best-china-cymbals-for-mathcore` | URL is unknown to Google | — |  |
-| `https://metalforge.io/guides/best-china-cymbals-for-sludge-metal` | URL is unknown to Google | — |  |
-| `https://metalforge.io/guides/best-drum-thrones-for-metal` | URL is unknown to Google | — |  |
-| `https://metalforge.io/cymbals/setups/matt-greiner` | URL is unknown to Google | — |  |
-| `https://metalforge.io/drummer/aquiles-priester` | URL is unknown to Google | — |  |
+| `https://metalforge.io/technique/heel-toe-technique/drummers` | URL is unknown to Google | — |  |

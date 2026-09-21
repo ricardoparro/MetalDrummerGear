@@ -14142,7 +14142,7 @@ export const DRUMMER_EVOLUTION = {
     band: 'Porcupine Tree / King Crimson',
     totalYearsActive: '1990s-Present',
     profileImage: '/images/drummers/gavin-harrison.webp',
-    summary: 'One of progressive music\'s most analytically discussed drummers, Gavin Harrison spent his early career as a UK session and touring player before joining Porcupine Tree in 2002 — a move that redefined progressive rock drumming. His gear evolution runs from pre-fame session-era Tama kits through the custom Sonor SQ2 shell pack and Zildjian K Custom Special Dry cymbals — co-developed with Zildjian — that carried In Absentia, Fear of a Blank Planet, and The Incident, into the refined dual-snare setup that has served him across King Crimson\'s three-drummer lineup, The Pineapple Thief, and Porcupine Tree\'s 2022 reunion.',
+    summary: 'One of progressive music\'s most analytically discussed drummers, Gavin Harrison spent his early career as a UK session and touring player before joining Porcupine Tree in 2002 — a move that redefined progressive rock drumming. His gear evolution runs from undocumented pre-fame session-era kits through the custom Sonor SQ2 shell pack and Zildjian K Custom Special Dry cymbals — co-developed with Zildjian — that carried In Absentia, Fear of a Blank Planet, and The Incident, into the refined dual-snare setup that has served him across King Crimson\'s three-drummer lineup, The Pineapple Thief, and Porcupine Tree\'s 2022 reunion.',
 
     eras: [
       {
@@ -14151,34 +14151,34 @@ export const DRUMMER_EVOLUTION = {
         years: 'Early 1990s–2002',
         startYear: 1990,
         endYear: 2002,
-        description: 'Before Porcupine Tree, Gavin Harrison spent years as a UK session and touring drummer, building the jazz-inflected, ghost-note-heavy vocabulary that would later define his progressive rock work. Playing on a standard Tama Starclassic kit with Zildjian A Custom cymbals — mainstream professional gear rather than the custom instruments he would later co-design — Harrison developed the touch and dynamic control that made him a sought-after session player. That decade of studio and touring work ended in 2002, when he joined Porcupine Tree in time to record In Absentia, the album that introduced his playing to a much wider progressive rock audience.',
+        description: 'Before Porcupine Tree, Gavin Harrison spent years as a UK session and touring drummer, building the jazz-inflected, ghost-note-heavy vocabulary that would later define his progressive rock work. Playing mainstream professional gear rather than the custom instruments he would later co-design — the specific brands are not publicly documented for this period — Harrison developed the touch and dynamic control that made him a sought-after session player. That decade of studio and touring work ended in 2002, when he joined Porcupine Tree in time to record In Absentia, the album that introduced his playing to a much wider progressive rock audience.',
         albums: ['Session and touring work prior to joining Porcupine Tree'],
         tours: ['UK session and touring circuit (1990s)'],
         image: null,
 
         gear: {
           drums: {
-            item: 'Tama Starclassic',
-            details: 'Standard production shell pack',
-            notes: 'Mainstream professional kit from his session years — well before the fully custom Sonor SQ2 program he would adopt after joining Porcupine Tree.',
+            item: 'Not publicly documented',
+            details: 'No dated source specifies a drum brand for this era',
+            notes: 'Mainstream professional kit from his session years — well before the fully custom Sonor SQ2 program he would adopt after joining Porcupine Tree — but the specific brand is unconfirmed.',
             change: null,
           },
           snare: {
-            item: 'Standard steel/brass session snare',
-            details: '14" production model',
-            notes: 'A standard-issue session snare, years before Sonor built his signature model to his specifications.',
+            item: 'Not publicly documented',
+            details: 'No dated source specifies a snare model for this era',
+            notes: 'A standard-issue session snare, years before Sonor built his signature model to his specifications, but the specific model is unconfirmed.',
             change: null,
           },
           cymbals: {
-            item: 'Zildjian A Custom Series',
-            details: 'Standard hi-hats, crashes, and ride',
-            notes: 'Zildjian A Custom — brighter and more mainstream than the dry, controlled K Custom Special Dry series he would later co-develop with the company.',
+            item: 'Not publicly documented',
+            details: 'No confirmed cymbal brand or model for this era',
+            notes: 'Standard session-era cymbals — brighter and more mainstream than the dry, controlled K Custom Special Dry series he would later co-develop with Zildjian — but the specific brand is unconfirmed.',
             change: null,
           },
           hardware: {
-            item: 'Standard Tama hardware',
-            details: 'Production pedal and stands',
-            notes: 'Off-the-shelf hardware, years before the Sonor Perfect Balance Pedal became his signature platform.',
+            item: 'Not publicly documented',
+            details: 'No dated source specifies a hardware brand for this era',
+            notes: 'Off-the-shelf hardware, years before the Sonor Perfect Balance Pedal became his signature platform, but the specific brand is unconfirmed.',
             change: null,
           },
           sticks: {
@@ -14365,7 +14365,7 @@ export const DRUMMER_EVOLUTION = {
       },
       {
         q: 'What gear did Gavin Harrison use before Porcupine Tree?',
-        a: 'Before joining Porcupine Tree in 2002, Harrison spent roughly a decade as a UK session and touring drummer, playing a standard Tama Starclassic kit with Zildjian A Custom cymbals — mainstream professional gear rather than the fully custom instruments he would later co-design with Sonor and Zildjian.',
+        a: 'Before joining Porcupine Tree in 2002, Harrison spent roughly a decade as a UK session and touring drummer, playing mainstream professional gear rather than the fully custom instruments he would later co-design with Sonor and Zildjian — the specific brands he used during that session era are not publicly documented.',
       },
       {
         q: 'What snare does Gavin Harrison play?',

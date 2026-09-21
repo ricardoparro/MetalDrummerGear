@@ -10895,7 +10895,7 @@ Your hi-hats are your rhythmic pulse. Choose ones that lock in with your music a
     // SEO metadata
     title: "Best Bass Drum Pedals for Metal: 2026 Ultimate Guide",
     metaTitle: "Best Bass Drum Pedals for Metal in 2026 | MetalForge Expert Guide",
-    description: "Discover the best bass drum pedals for metal drumming. Expert recommendations covering Tama Iron Cobra, Pearl Demon XR, DW 9000, and Trick Bigfoot — the exact pedals used by Tomas Haake, George Kollias, and Joey Jordison.",
+    description: "Discover the best bass drum pedals for metal drumming. Expert recommendations covering Tama Iron Cobra, Pearl Demon XR, DW 9000, and Tama Speed Cobra — the exact pedals used by George Kollias, Joey Jordison, and Tomas Haake.",
     seoKeywords: [
       'best bass drum pedals for metal',
       'best double bass pedal metal',
@@ -10932,7 +10932,7 @@ Your hi-hats are your rhythmic pulse. Choose ones that lock in with your music a
       title: "Why Your Bass Drum Pedal Defines Your Metal Sound",
       content: `In metal drumming, no single piece of hardware has more impact on your playing than your bass drum pedal. Speed, power, feel, and consistency — every aspect of your kick technique starts and ends with the pedal under your foot. Choose the wrong one and you'll fight it forever. Choose the right one and it becomes an extension of your body.
 
-Metal places extreme demands on bass drum pedals: blast beat speeds require smooth, frictionless action with fast rebound; groove-oriented metal needs powerful, authoritative impact; recording sessions demand consistency and silence from the mechanism. Tomas Haake of Meshuggah built his legendary polyrhythmic kick precision around the Tama Iron Cobra — arguably the most popular double bass pedal in metal history. George Kollias of Nile pushes the Pearl Demon XR to sustain 280 BPM single-stroke patterns for minutes at a time. Gene Hoglan — "The Atomic Clock" — has driven a Pearl Demon Drive to deliver his signature technical precision across bands including Death, Dark Angel, and Testament since 2008.
+Metal places extreme demands on bass drum pedals: blast beat speeds require smooth, frictionless action with fast rebound; groove-oriented metal needs powerful, authoritative impact; recording sessions demand consistency and silence from the mechanism. Tomas Haake of Meshuggah built his legendary polyrhythmic kick precision around two independent Tama Speed Cobra single pedals — his setup since the 2010s. George Kollias of Nile pushes the Pearl Demon XR to sustain 280 BPM single-stroke patterns for minutes at a time. Gene Hoglan — "The Atomic Clock" — has driven a Pearl Demon Drive to deliver his signature technical precision across bands including Death, Dark Angel, and Testament since 2008.
 
 This guide breaks down exactly which bass drum pedals work best for metal, why drive type and footboard profile matter, and which specific models the pros use — from the versatile Iron Cobra to the specialized Trick Bigfoot. Whether you're chasing blast beat speed, thunderous power, or technical precision, the right pedal is the foundation of everything.`,
       keyPoints: [
@@ -11002,7 +11002,7 @@ This guide breaks down exactly which bass drum pedals work best for metal, why d
 
           description: `The Tama Iron Cobra is the most iconic bass drum pedal in metal drumming — a pedal whose 'Rolling Glide' cam system and smooth chain drive have made it the choice of more professional metal drummers than any competitor. The IC900 series features die-cast aluminum construction, a versatile cam adjustment system, and a feel that rewards both speed and power.
 
-Tomas Haake of Meshuggah has built his legendary polyrhythmic kick technique around the Iron Cobra — the pedal's smooth, predictable action and the ability to fine-tune cam angle and spring tension lets Haake precisely control the machine-like precision that defines Meshuggah's rhythmic identity. The Iron Cobra's combination of smooth action, adjustability, and bulletproof durability makes it the benchmark that every other metal pedal is measured against.`,
+Tomas Haake of Meshuggah has built his legendary polyrhythmic kick technique around two independent Tama Speed Cobra single pedals rather than a double — the direct-drive action and precise spring tension adjustment let Haake precisely control the machine-like precision that defines Meshuggah's rhythmic identity. The Iron Cobra's combination of smooth action, adjustability, and bulletproof durability makes it the benchmark that every other metal pedal is measured against.`,
 
           pros: [
             "Rolling Glide cam system — smooth power throughout stroke",
@@ -11024,7 +11024,7 @@ Tomas Haake of Meshuggah has built his legendary polyrhythmic kick technique aro
             spring: "Adjustable coil spring"
           },
           usedBy: [
-            { name: "Tomas Haake", band: "Meshuggah", note: "Iron Cobra — building the world's most precise kick technique" }
+            { name: "Tomas Haake", band: "Meshuggah", note: "Speed Cobra (two single pedals) — building the world's most precise kick technique" }
           ],
           verdict: "The benchmark metal bass drum pedal. If you're not sure what to buy, the Iron Cobra 900 is the answer.",
           rating: 4.9,
@@ -11334,14 +11334,14 @@ For metal drummers whose technique relies heavily on the heel-toe method or who 
       'best-drum-kits-for-thrash-metal'
     ],
     relatedDrummers: [
-      { slug: 'tomas-haake', name: 'Tomas Haake', reason: 'Iron Cobra — the world\'s most precise kick technique' },
+      { slug: 'tomas-haake', name: 'Tomas Haake', reason: 'Speed Cobra — the world\'s most precise kick technique' },
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Pearl Demon XR — 280 BPM death metal extremity' },
       { slug: 'gene-hoglan', name: 'Gene Hoglan', reason: 'Pearl Demon Drive — The Atomic Clock\'s precision platform since 2008' },
       { slug: 'joey-jordison', name: 'Joey Jordison', reason: 'Pearl Demon Drive for explosive nu/extreme metal kick since 2010' }
     ],
 
     featuredDrummers: [
-      { slug: 'tomas-haake', name: 'Tomas Haake', reason: 'Tama Iron Cobra — the world\'s most precise polyrhythmic kick technique with Meshuggah' },
+      { slug: 'tomas-haake', name: 'Tomas Haake', reason: 'Tama Speed Cobra — the world\'s most precise polyrhythmic kick technique with Meshuggah' },
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Pearl Demon XR — sustaining 280 BPM death metal extremity with Nile' },
       { slug: 'gene-hoglan', name: 'Gene Hoglan', reason: 'Pearl Demon Drive — The Atomic Clock\'s precision platform across Death and Testament' }
     ],
@@ -11350,7 +11350,7 @@ For metal drummers whose technique relies heavily on the heel-toe method or who 
     faq: [
       {
         question: "What bass drum pedal do metal drummers use?",
-        answer: "The Tama Iron Cobra is the most common bass drum pedal among professional metal drummers. Tomas Haake of Meshuggah and George Kollias of Nile have both used Iron Cobra pedals. The Pearl Demon XR, George Kollias's own co-designed signature model, is popular with extreme metal drummers for its direct drive speed. Gene Hoglan plays a Pearl Demon Drive. The Iron Cobra is the safe default choice for any metal style."
+        answer: "The Tama Iron Cobra is the most common bass drum pedal among professional metal drummers. George Kollias of Nile has used Iron Cobra pedals, while Tomas Haake of Meshuggah builds his polyrhythmic technique around two Tama Speed Cobra single pedals. The Pearl Demon XR, George Kollias's own co-designed signature model, is popular with extreme metal drummers for its direct drive speed. Gene Hoglan plays a Pearl Demon Drive. The Iron Cobra is the safe default choice for any metal style."
       },
       {
         question: "What is the difference between chain drive and direct drive bass drum pedals?",
@@ -11373,7 +11373,7 @@ For metal drummers whose technique relies heavily on the heel-toe method or who 
     // Conclusion
     conclusion: {
       title: "Find Your Metal Kick Foundation",
-      content: `Your bass drum pedal is the foundation of your entire kick technique. Tomas Haake didn't build the most precise kick machine in metal by accident — the Iron Cobra's adjustability and consistent action gave him a stable platform to develop his polyrhythmic approach over decades. George Kollias didn't reach 280 BPM by just practicing harder — the Demon XR's direct mechanism translated his extreme speed practice into consistent, reliable performance.
+      content: `Your bass drum pedal is the foundation of your entire kick technique. Tomas Haake didn't build the most precise kick machine in metal by accident — the Speed Cobra's adjustability and consistent action gave him a stable platform to develop his polyrhythmic approach over decades. George Kollias didn't reach 280 BPM by just practicing harder — the Demon XR's direct mechanism translated his extreme speed practice into consistent, reliable performance.
 
 For most metal drummers, the Tama Iron Cobra 900 is the answer. It's versatile, adjustable, indestructible, and used by more professional metal drummers than any competitor. If you're a death metal specialist pushing extreme speeds, consider the Pearl Demon Drive — Gene Hoglan's platform since 2008, also trusted by Joey Jordison since 2010.
 
@@ -113335,7 +113335,7 @@ Start with the Tama Iron Cobra 600 if you're building technique on a budget, and
       title: "The Pedal Fundamentals Every Metal Drummer Needs",
       content: `Before you specialize in death metal blast beats, black metal endurance, or djent's syncopated kick patterns, every metal drummer needs the same foundation: a pedal with a drive system, bearing quality, and footboard feel that actually suits how you play. Get these fundamentals right and every subgenre-specific pedal decision later becomes easier.
 
-Tomas Haake of Meshuggah built his legendary polyrhythmic kick technique around the Tama Iron Cobra — the single most common pedal among MetalForge's pro roster, prized for its smooth, predictable action and fine-tunable cam angle. George Kollias of Nile uses Pearl's Demon XR to sustain 270-280 BPM single-stroke patterns, showing what direct drive offers once you need maximum speed. Gene Hoglan, "The Atomic Clock," has trusted a Pearl Demon Drive since 2008 across Death, Testament, and Dark Angel for its consistent, dependable feel at every dynamic level.
+Tomas Haake of Meshuggah built his legendary polyrhythmic kick technique around two independent Tama Speed Cobra single pedals — his setup since the 2010s, prized for its direct-drive action and fine-tunable spring tension. George Kollias of Nile uses Pearl's Demon XR to sustain 270-280 BPM single-stroke patterns, showing what direct drive offers once you need maximum speed. Gene Hoglan, "The Atomic Clock," has trusted a Pearl Demon Drive since 2008 across Death, Testament, and Dark Angel for its consistent, dependable feel at every dynamic level.
 
 Joey Jordison of Slipknot relied on a Pearl Demon Drive since 2010, driving the band's explosive combination of groove and extreme metal.
 
@@ -113404,7 +113404,7 @@ This guide breaks down the fundamentals — drive systems, bearings, and footboa
           priceRange: "€300-450",
           tier: "pro",
           driveType: "Chain (Power Glide / Rolling Glide)",
-          description: `Tomas Haake of Meshuggah has built his legendary polyrhythmic kick technique around the Iron Cobra — the pedal's smooth, predictable action and adjustable cam angle and spring tension let Haake precisely control the machine-like precision that defines Meshuggah's rhythmic identity.
+          description: `Tomas Haake of Meshuggah has built his legendary polyrhythmic kick technique around two independent Tama Speed Cobra single pedals rather than a double — the direct-drive action and adjustable spring tension let Haake precisely control the machine-like precision that defines Meshuggah's rhythmic identity.
 
 The Iron Cobra's combination of smooth action, adjustability, and bulletproof durability makes it the benchmark that every other metal pedal is measured against, and the safest default choice regardless of which metal subgenre you end up specializing in.`,
           pros: [
@@ -113426,7 +113426,7 @@ The Iron Cobra's combination of smooth action, adjustability, and bulletproof du
             weight: "3.5 kg (pair)"
           },
           usedBy: [
-            { name: "Tomas Haake", band: "Meshuggah", note: "Iron Cobra — building the world's most precise polyrhythmic kick technique" }
+            { name: "Tomas Haake", band: "Meshuggah", note: "Speed Cobra (two single pedals) — building the world's most precise polyrhythmic kick technique" }
           ],
           verdict: "The safe default for any metal style. If you're not sure yet what subgenre you'll specialize in, start here.",
           rating: 4.8,
@@ -113647,7 +113647,7 @@ For a first serious pedal, before you've decided which metal subgenre you'll spe
       'best-drum-hardware-for-metal'
     ],
     relatedDrummers: [
-      { slug: 'tomas-haake', name: 'Tomas Haake', reason: 'Tama Iron Cobra — the world\'s most precise polyrhythmic kick technique with Meshuggah' },
+      { slug: 'tomas-haake', name: 'Tomas Haake', reason: 'Tama Speed Cobra — the world\'s most precise polyrhythmic kick technique with Meshuggah' },
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Pearl Demon XR — sustaining 270-280 BPM single-stroke patterns with Nile' },
       { slug: 'gene-hoglan', name: 'Gene Hoglan', reason: 'Pearl Demon Drive — The Atomic Clock\'s precision platform across Death and Testament since 2008' },
       { slug: 'joey-jordison', name: 'Joey Jordison', reason: 'Pearl Demon Drive for Slipknot\'s explosive groove/extreme metal kick since 2010' }
@@ -113655,7 +113655,7 @@ For a first serious pedal, before you've decided which metal subgenre you'll spe
 
     // Featured drummers (issue template)
     featuredDrummers: [
-      { slug: 'tomas-haake', name: 'Tomas Haake', reason: 'Tama Iron Cobra — the world\'s most precise polyrhythmic kick technique' },
+      { slug: 'tomas-haake', name: 'Tomas Haake', reason: 'Tama Speed Cobra — the world\'s most precise polyrhythmic kick technique' },
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Pearl Demon XR — sustaining 270-280 BPM single-stroke patterns' },
       { slug: 'gene-hoglan', name: 'Gene Hoglan', reason: 'Pearl Demon Drive — The Atomic Clock\'s precision platform since 2008' }
     ],
@@ -113664,7 +113664,7 @@ For a first serious pedal, before you've decided which metal subgenre you'll spe
     faq: [
       {
         question: "What's the best drum pedal for metal drumming overall?",
-        answer: "The Tama Iron Cobra is the most common bass drum pedal among professional metal drummers. Tomas Haake of Meshuggah and George Kollias of Nile have both used Iron Cobra pedals at some point. It's the safe default choice for any metal subgenre, whether you end up playing thrash, death metal, or progressive metal."
+        answer: "The Tama Iron Cobra is the most common bass drum pedal among professional metal drummers. George Kollias of Nile has used Iron Cobra pedals, while Tomas Haake of Meshuggah instead builds his polyrhythmic technique around two Tama Speed Cobra single pedals. The Iron Cobra remains the safe default choice for any metal subgenre, whether you end up playing thrash, death metal, or progressive metal."
       },
       {
         question: "Should I choose chain drive or direct drive for metal?",
@@ -113687,7 +113687,7 @@ For a first serious pedal, before you've decided which metal subgenre you'll spe
     // Conclusion
     conclusion: {
       title: "Master the Fundamentals Before You Specialize",
-      content: `Every metal drummer's pedal journey starts in the same place: drive system, bearing quality, and footboard feel. Tomas Haake built a legendary, decades-long career on the Tama Iron Cobra's smooth, adjustable action — proof that you don't need to specialize by subgenre before choosing a genuinely great pedal.
+      content: `Every metal drummer's pedal journey starts in the same place: drive system, bearing quality, and footboard feel. Tomas Haake built a legendary, decades-long career on the Tama Speed Cobra's smooth, adjustable action — proof that you don't need to specialize by subgenre before choosing a genuinely great pedal.
 
 George Kollias's Pearl Demon XR and Gene Hoglan's Pearl Demon Drive both show what's available once your technique and your specific subgenre demands push you toward direct drive or maximum adjustability. But there's no rush — start with a proven chain-drive pedal, build your fundamentals, and upgrade once you know exactly what your playing needs.
 

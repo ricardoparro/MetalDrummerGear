@@ -59569,7 +59569,7 @@ This guide covers what actually makes a kit work for nu-metal — shell material
         {
           name: "Double Bass Reliability",
           icon: "🦵",
-          description: "Double pedal or twin-kick configurations are standard in nu-metal — Joey Jordison's dual-bass Tama setup and modern Slipknot-style rigs both depend on hardware that survives extreme, theatrical live shows without failing.",
+          description: "Double pedal or twin-kick configurations are standard in nu-metal — Joey Jordison's dual-bass Pearl Reference Series setup and modern Slipknot-style rigs both depend on hardware that survives extreme, theatrical live shows without failing.",
           recommendation: "22\"–24\" deep kicks with a reliable double pedal or twin-kick configuration"
         },
         {
@@ -59756,7 +59756,7 @@ The Export's robust construction and wide tom-size availability make it easy to 
 
           description: `The Tama Imperialstar brings Tama's quality control to an accessible price point, making it a solid complete-kit option for nu-metal drummers who want shells and hardware together without piecing a setup together separately.
 
-For drummers building their first nu-metal rig on a budget, the Imperialstar offers a genuine upgrade path within the same Tama family behind Joey Jordison's iconic Starclassic Performer.`,
+For drummers building their first nu-metal rig on a budget, the Imperialstar offers a genuine upgrade path within the same Tama family as the pro-level Starclassic Performer.`,
 
           pros: [
             "Complete kit — includes hardware",

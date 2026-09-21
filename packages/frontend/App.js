@@ -13813,7 +13813,25 @@ function DrummerBioPage({ theme, onBack, drummer, onSelectDrummer }) {
         ldScript.setAttribute('data-schema', 'bio');
         document.head.appendChild(ldScript);
       }
-      ldScript.textContent = JSON.stringify(articleSchema);
+
+      // Issue #7907: bio.sections.faq was authored for every extended bio but
+      // never rendered anywhere on the site — surfacing it here (and in the
+      // visible FAQ block below) gives the bio page real per-drummer depth
+      // instead of overlapping the flagship profile's gear summary.
+      const faqItems = bio.sections.faq?.items || [];
+      const schemas = [articleSchema];
+      if (faqItems.length > 0) {
+        schemas.push({
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": faqItems.map((item) => ({
+            "@type": "Question",
+            "name": item.q,
+            "acceptedAnswer": { "@type": "Answer", "text": item.a }
+          }))
+        });
+      }
+      ldScript.textContent = JSON.stringify(schemas);
     }
 
     // Cleanup on unmount
@@ -14015,6 +14033,23 @@ function DrummerBioPage({ theme, onBack, drummer, onSelectDrummer }) {
                 </View>
               ))}
             </View>
+          </View>
+        )}
+
+        {/* FAQ Section — Issue #7907: previously authored but never rendered
+            (see the FAQPage schema note above); adds drummer-specific Q&A
+            depth not found on the flagship profile page. */}
+        {bio.sections.faq && bio.sections.faq.items?.length > 0 && (
+          <View style={[styles.bioSection, { backgroundColor: theme.card, borderColor: theme.border }]}>
+            <Text style={[styles.bioSectionTitle, { color: theme.text }]} accessibilityRole="heading" aria-level="2">
+              {bio.sections.faq.title}
+            </Text>
+            {bio.sections.faq.items.map((item, index) => (
+              <View key={index} style={{ marginBottom: 16 }}>
+                <Text style={[styles.gearTitle, { color: theme.text }]}>{item.q}</Text>
+                <Text style={[styles.gearContent, { color: theme.secondaryText }]}>{item.a}</Text>
+              </View>
+            ))}
           </View>
         )}
 

@@ -9,6 +9,8 @@
 // mirroring the /cymbals/setups pattern shipped in #4306.
 
 import { getPedalForDrummer } from './pedals';
+import { getBrandForPedal } from './pedalBrands';
+import { getExtendedBio } from './extendedBios';
 
 const BASE_URL = 'https://metalforge.io';
 export const PEDAL_SETUP_BASE_PATH = '/pedals/setups';
@@ -40,6 +42,39 @@ export function getPedalSetupPageData(drummerSlug, drummerName) {
     drummerUrl: `/drummer/${drummerSlug}`,
     hubUrl: '/pedals',
   };
+}
+
+// Issue #7907: the /pedals/setups/<drummer> template was thin relative to
+// the site's other entity-page families (a single hardware item vs. a
+// multi-piece cymbal breakdown), which drew a crawled-not-indexed verdict
+// for igor-cavalera. Both additions below reuse data already verified and
+// sourced elsewhere (data/pedalBrands.js, data/extendedBios.js) rather than
+// inventing new facts — never duplicated verbatim on another page.
+
+// Brand-level positioning copy + (if this pedal's model matches a named
+// line) the specific model-line description from data/pedalBrands.js, plus
+// that brand's own external citation. Returns null when the pedal's brand
+// has no /pedals/brands/<slug> entry.
+export function getPedalSetupBrandContext(pedal) {
+  const brand = getBrandForPedal(pedal);
+  if (!brand) return null;
+  const notableLine = pedal.model
+    ? (brand.notableLines || []).find(
+        (line) => pedal.model.includes(line.name) || line.name.includes(pedal.model)
+      )
+    : null;
+  return { brand, notableLine: notableLine || null };
+}
+
+// The drummer's own extended-bio FAQ answer to "what pedal(s) does X use" —
+// richer and more specific (era, playing style) than the generic
+// generatePedalSetupDirectAnswer() below, since it's hand-authored per
+// drummer rather than templated from the bare pedal record. Returns null
+// when the drummer has no extended bio or no pedal-related FAQ entry.
+export function getPedalSetupContextFaq(drummerSlug) {
+  const bio = getExtendedBio(drummerSlug);
+  const items = bio?.sections?.faq?.items || [];
+  return items.find((item) => /pedal/i.test(item.q)) || null;
 }
 
 // "Brand + model" descriptor, or null when the summary doesn't name a
@@ -121,10 +156,11 @@ function setCanonical(href) {
 // JSON.stringify; never throws.
 export function generatePedalSetupSchema(data) {
   if (!data) return null;
-  const { pedal, drummerName, canonicalUrl } = data;
+  const { pedal, drummerName, canonicalUrl, drummerSlug } = data;
 
   const schemas = [];
   const descriptor = pedalDescriptor(pedal);
+  const contextFaq = getPedalSetupContextFaq(drummerSlug);
 
   if (descriptor) {
     schemas.push({
@@ -154,6 +190,15 @@ export function generatePedalSetupSchema(data) {
         name: `What pedals does ${drummerName} use?`,
         acceptedAnswer: { '@type': 'Answer', text: generatePedalSetupDirectAnswer(data) },
       },
+      ...(contextFaq
+        ? [
+            {
+              '@type': 'Question',
+              name: contextFaq.q,
+              acceptedAnswer: { '@type': 'Answer', text: contextFaq.a },
+            },
+          ]
+        : []),
     ],
   });
 

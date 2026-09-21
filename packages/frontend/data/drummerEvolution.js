@@ -16095,7 +16095,7 @@ export const DRUMMER_EVOLUTION = {
         years: '1987-1990',
         startYear: 1987,
         endYear: 1990,
-        description: 'Anthrax\'s commercial breakthrough. Among the Living (1987) placed Benante among thrash\'s elite drummers, and State of Euphoria (1988) and Persistence of Time (1990) cemented Anthrax\'s place among the genre\'s "Big Four." An upgraded Tama Artstar II shell pack gave the tightly controlled, explosive sound heard on "Indians" and "I Am the Law," with cymbals shifting from Paiste to Sabian partway through the era.',
+        description: 'Anthrax\'s commercial breakthrough. Among the Living (1987) placed Benante among thrash\'s elite drummers, and State of Euphoria (1988) and Persistence of Time (1990) cemented Anthrax\'s place among the genre\'s "Big Four." An upgraded Tama Artstar II shell pack and Paiste 2002 cymbals gave the tightly controlled, explosive sound heard on "Indians" and "I Am the Law."',
         albums: ['Among the Living (1987)', 'State of Euphoria (1988)', 'Persistence of Time (1990)'],
         tours: ['Among the Living World Tour 1987-1988', 'Clash of the Titans Tour 1990-1991'],
         image: null,
@@ -16114,10 +16114,10 @@ export const DRUMMER_EVOLUTION = {
             change: CHANGE_TYPES.SWITCH,
           },
           cymbals: {
-            item: 'Paiste 2002 → Sabian AA/HH Series',
+            item: 'Paiste 2002 Series',
             details: '14" hi-hats, 16"/18" crashes, 20"/21" rides',
-            notes: 'Among the Living (1987) still used Paiste 2002; by State of Euphoria (1988) Benante had switched to Sabian AA/HH, which carried through Persistence of Time (1990).',
-            change: CHANGE_TYPES.SWITCH,
+            notes: 'Benante has been a Paiste endorser since the 1980s, carrying the same 2002 series setup through Among the Living, State of Euphoria, and Persistence of Time.',
+            change: null,
           },
           hardware: {
             item: 'Tama HP35 Camco Double Pedal',
@@ -16148,7 +16148,7 @@ export const DRUMMER_EVOLUTION = {
         keyChanges: [
           'Among the Living (1987) becomes Anthrax\'s commercial breakthrough',
           'Upgraded through Tama\'s Artstar II, Granstar, and Artstar Custom shell packs',
-          'Switched cymbals from Paiste 2002 to Sabian AA/HH starting with State of Euphoria (1988)',
+          'Stayed on Paiste 2002 cymbals throughout, an endorsement running continuously since the 1980s',
           'Persistence of Time (1990) closes out the Joey Belladonna era and goes Platinum in the US',
         ],
 
@@ -16162,44 +16162,44 @@ export const DRUMMER_EVOLUTION = {
 
       {
         id: 'charlie-benante-1993-dw-era',
-        era: '90s DW Era',
+        era: 'John Bush Groove-Metal Era',
         years: '1993-1998',
         startYear: 1993,
         endYear: 1998,
-        description: 'John Bush\'s arrival on vocals pushed Anthrax toward a heavier groove-metal sound, and Benante marked the shift with a full switch to DW. Sound of White Noise (1993), Stomp 442 (1995), and Volume 8: The Threat Is Real (1998) were all recorded on a DW Collector\'s Series Maple kit, tuned progressively lower and fatter across the decade.',
+        description: 'John Bush\'s arrival on vocals pushed Anthrax toward a heavier groove-metal sound. Sound of White Noise (1993), Stomp 442 (1995), and Volume 8: The Threat Is Real (1998) were all recorded on the same Tama kit and Paiste cymbals as the rest of Benante\'s career, tuned progressively lower and fatter to match the denser production.',
         albums: ['Sound of White Noise (1993)', 'Stomp 442 (1995)', 'Volume 8: The Threat Is Real (1998)'],
         tours: ['Sound of White Noise Tour 1993-1994', 'Ozzfest 1998'],
         image: null,
 
         gear: {
           drums: {
-            item: 'DW Collector\'s Series Maple',
+            item: 'Tama Artstar Custom / Granstar',
             details: 'Dual 22"x18" kicks, 10"/12"/13" racks, 16"-18" floor toms',
-            notes: 'Full brand switch away from Tama as Anthrax\'s sound broadened into groove metal for the John Bush era. Tuned progressively lower across the three albums.',
-            change: CHANGE_TYPES.SWITCH,
+            notes: 'Continued on Tama as Anthrax\'s sound broadened into groove metal for the John Bush era. Tuned progressively lower across the three albums.',
+            change: null,
           },
           snare: {
-            item: 'DW Edge Series 14"x6.5"',
-            details: 'Solid maple shell with brass edge rings',
-            notes: 'Matched the DW shell switch; tuned lower and fatter with each successive album through Volume 8 (1998).',
-            change: CHANGE_TYPES.SWITCH,
+            item: 'Tama Bell Brass 14"x6.5"',
+            details: 'Bell brass shell, carried over from the late-80s setup',
+            notes: 'Same Tama Bell Brass snare adopted for State of Euphoria, tuned lower and fatter with each successive album through Volume 8 (1998).',
+            change: null,
           },
           cymbals: {
-            item: 'Sabian AA/HH Series',
+            item: 'Paiste 2002 Series',
             details: '14" hi-hats, 16"/18"/19" crashes, 21" ride, 18" China',
-            notes: 'Continued the Sabian AA/HH setup adopted in the State of Euphoria era, adding a 19" crash for Stomp 442.',
+            notes: 'Continued the Paiste 2002 setup, adding a 19" crash for Stomp 442.',
             change: null,
           },
           hardware: {
-            item: 'DW 5000 Series Double Pedal',
-            details: 'Chain-drive, two single pedals',
-            notes: 'Adopted DW\'s own pedal to match the new drum endorsement during the brand\'s heaviest 90s presence in his rig.',
-            change: CHANGE_TYPES.SWITCH,
+            item: 'Tama HP35 Camco Double Pedal',
+            details: 'Same vintage chain-drive pedal carried through the era',
+            notes: 'Unchanged double pedal through the John Bush groove-metal years.',
+            change: null,
           },
           sticks: {
             item: 'Pro-Mark Hickory 2B',
             details: 'Hickory',
-            notes: 'Unchanged stick choice through the DW years.',
+            notes: 'Unchanged stick choice through the era.',
             change: null,
           },
           heads: {
@@ -16217,27 +16217,23 @@ export const DRUMMER_EVOLUTION = {
         },
 
         keyChanges: [
-          'Full brand switch to DW Collector\'s Series Maple for the John Bush groove-metal era',
-          'DW Edge Series brass-ring snare replaces the Tama Bell Brass',
-          'DW 5000 double pedal adopted alongside the new drum endorsement',
+          'Continued with the same Tama drums and Paiste cymbals for the John Bush groove-metal era',
+          'Tama Bell Brass snare tuned lower and fatter for the denser production',
           'Volume 8 (1998) precedes a three-year Anthrax recording hiatus',
         ],
 
-        quote: {
-          text: "The DW kit let me get that low, heavy tone we needed once John joined — it was a whole different animal than the Tama thrash sound.",
-          source: 'Drum! Magazine Interview, 1997',
-        },
+        quote: null,
 
         videos: [],
       },
 
       {
         id: 'charlie-benante-2003-return-to-tama',
-        era: 'Return to Tama Era',
+        era: 'Tama Starclassic Era',
         years: '2003-2010',
         startYear: 2003,
         endYear: 2010,
-        description: 'We\'ve Come for You All (2003) marked a full return to Tama and Paiste after a decade on DW and Sabian, recorded in the shadow of 9/11 with guest spots from Roger Daltrey and Dimebag Darrell. Benante kept his original 1984 Tama HP35 Camco pedal through this entire stretch, right up until its 2010 replacement.',
+        description: 'We\'ve Come for You All (2003) marked Benante\'s upgrade to the Tama Starclassic Maple line, staying on the Tama and Paiste setup he\'d used his entire career, and was recorded in the shadow of 9/11 with guest spots from Roger Daltrey and Dimebag Darrell. Benante kept his original 1984 Tama HP35 Camco pedal through this entire stretch, right up until its 2010 replacement.',
         albums: ['We\'ve Come for You All (2003)'],
         tours: ['We\'ve Come for You All Tour 2003-2004'],
         image: null,
@@ -16246,20 +16242,20 @@ export const DRUMMER_EVOLUTION = {
           drums: {
             item: 'Tama Starclassic Maple',
             details: 'All-maple, Star-Cast mounting: dual 22"x18" kicks, 10"/12"/13" racks, 14"/16" floors',
-            notes: 'First Tama kit on an Anthrax album since 1993 — the Starclassic line\'s Star-Cast mounting system was new to Benante\'s setup.',
-            change: CHANGE_TYPES.SWITCH,
+            notes: 'First Tama Starclassic kit on an Anthrax album — the line\'s Star-Cast mounting system was new to Benante\'s setup, upgraded from the earlier Artstar/Granstar shells.',
+            change: CHANGE_TYPES.UPGRADE,
           },
           snare: {
             item: 'Tama Starclassic Steel 14"x6.5"',
             details: 'Steel shell, die-cast hoops',
-            notes: 'Tuned higher and brighter than the DW Edge Series snare it replaced.',
-            change: CHANGE_TYPES.SWITCH,
+            notes: 'Tuned higher and brighter than the Bell Brass snare it replaced.',
+            change: CHANGE_TYPES.UPGRADE,
           },
           cymbals: {
             item: 'Paiste 2002 / RUDE Series',
             details: '14" hi-hats, 16"/18" crashes, 19" crash-ride, 22" ride, 18" China',
-            notes: 'Return to Paiste after a decade on Sabian, adding the RUDE series for extra raw power.',
-            change: CHANGE_TYPES.SWITCH,
+            notes: 'Continued on Paiste, adding the RUDE series for extra raw power.',
+            change: CHANGE_TYPES.UPGRADE,
           },
           hardware: {
             item: 'Tama HP35 Camco Double Pedal',
@@ -16270,7 +16266,7 @@ export const DRUMMER_EVOLUTION = {
           sticks: {
             item: 'Pro-Mark Hickory 2B',
             details: 'Hickory',
-            notes: 'Unchanged from the DW years.',
+            notes: 'Unchanged from the previous era.',
             change: null,
           },
           heads: {
@@ -16288,15 +16284,12 @@ export const DRUMMER_EVOLUTION = {
         },
 
         keyChanges: [
-          'We\'ve Come for You All (2003) returns to Tama and Paiste after a decade on DW and Sabian',
+          'We\'ve Come for You All (2003) upgrades to the Tama Starclassic Maple line',
           'First Tama Starclassic kit on an Anthrax record',
           'Still playing the original 1984 Tama HP35 Camco pedal',
         ],
 
-        quote: {
-          text: "Going back to Tama and Paiste felt like coming home. That's the sound I always heard in my head for this band.",
-          source: 'Modern Drummer Interview, 2003',
-        },
+        quote: null,
 
         videos: [],
       },

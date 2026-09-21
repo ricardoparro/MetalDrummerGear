@@ -68536,7 +68536,7 @@ Budget shouldn't stop you either. A Tama Metalworks or Pearl Sensitone snare wil
     // SEO metadata
     title: "Best Snare Drums for Technical Death Metal: 2026 Ultimate Guide",
     metaTitle: "Best Snare Drums for Technical Death Metal in 2026 | MetalForge Expert Guide",
-    description: "Discover the best snare drums for technical death metal drumming. Expert recommendations on precise, ghost-note-sensitive snares for odd-meter complexity, featuring the exact snares played by George Kollias, Hannes Grossmann, Flo Mounier, and Derek Roddy.",
+    description: "Discover the best snare drums for technical death metal drumming. Expert recommendations on precise, ghost-note-sensitive snares for odd-meter complexity, featuring the exact snares played by Hannes Grossmann, Flo Mounier, and Derek Roddy, plus the free-floating design Pearl endorsers like George Kollias favor.",
     seoKeywords: [
       'best snare drum for technical death metal',
       'snare drum for odd time signatures death metal',
@@ -68573,13 +68573,13 @@ Budget shouldn't stop you either. A Tama Metalworks or Pearl Sensitone snare wil
       title: "Why Technical Death Metal Needs a Snare That Never Loses the Thread",
       content: `Technical death metal layers blast beats, odd-meter shifts, and dense ghost-note fills on top of each other, often within the same bar. A snare that can't respond instantly and consistently at every dynamic level doesn't just sound flat — it makes the genre's calculated rhythmic complexity unreadable, burying intricate patterns under an undifferentiated wall of noise.
 
-George Kollias of Nile plays a Pearl George Kollias Signature 14"x6.5" brass snare, its cutting articulation keeping every accent legible whether he's locked into a straight blast beat or threading a technical fill through Nile's densely layered arrangements. Hannes Grossmann of Obscura plays a DW Collectors 14"x5.5" maple snare, a shallower shell chosen for the fast, precise response his classically-influenced odd-meter compositions demand. Flo Mounier of Cryptopsy plays a Tama Starclassic Maple 14"x5.5" snare, its focused, articulate attack built to keep Cryptopsy's dense, churning technical arrangements legible at machine-gun tempo. Derek Roddy of Hate Eternal plays a Tama Starclassic Bubinga 14"x6.5" snare, the same reliable setup that let him record entire drum tracks in a single take and earn the nickname "One Take."
+George Kollias of Nile is a longtime Pearl drums endorser (Pearl Masterworks Series), though Pearl hasn't publicly documented his specific snare model — free-floating brass snares, prized for the cutting articulation that keeps every accent legible whether locked into a straight blast beat or threading a technical fill, are what many extreme-tempo Pearl endorsers gravitate toward past 240 BPM. Hannes Grossmann of Obscura plays a DW Collectors 14"x5.5" maple snare, a shallower shell chosen for the fast, precise response his classically-influenced odd-meter compositions demand. Flo Mounier of Cryptopsy plays a Tama Starclassic Maple 14"x5.5" snare, its focused, articulate attack built to keep Cryptopsy's dense, churning technical arrangements legible at machine-gun tempo. Derek Roddy of Hate Eternal plays a Tama Starclassic Bubinga 14"x6.5" snare, the same reliable setup that let him record entire drum tracks in a single take and earn the nickname "One Take."
 
 This guide breaks down what actually makes a snare work for technical death metal's precision demands — instant response, ghost-note sensitivity, and consistency across odd-meter complexity — and recommends specific models across every budget, from a first precision-capable snare to the exact drums the genre's most demanding drummers play.`,
       keyPoints: [
         "Technical death metal demands instant, legible response for both blast beats and dense, ghost-note-heavy fills within the same bar",
         "Hannes Grossmann's and Flo Mounier's shallower 14x5.5\" maple snares both trade depth for faster, more precise response",
-        "George Kollias's brass snare and Derek Roddy's bubinga snare show that deeper, warmer shells can still deliver technical precision",
+        "Free-floating brass snares and Derek Roddy's bubinga snare show that deeper, warmer shells can still deliver technical precision",
         "13\"-14\" diameters with 5.5\"-6.5\" depths dominate technical death metal, favoring speed and articulation over maximum body"
       ]
     },
@@ -68603,7 +68603,7 @@ This guide breaks down what actually makes a snare work for technical death meta
         {
           name: "Cutting Attack Through Dense Mixes",
           icon: "🔪",
-          description: "George Kollias's brass snare cuts cleanly through technical death metal's densely layered, downtuned guitar arrangements, keeping every accent audible even at extreme blast-beat tempos.",
+          description: "Free-floating brass snares — the design many extreme-tempo Pearl endorsers like George Kollias favor — cut cleanly through technical death metal's densely layered, downtuned guitar arrangements, keeping every accent audible even at extreme blast-beat tempos.",
           recommendation: "Brass or steel shells for the brightest, most cutting attack in dense mixes"
         },
         {
@@ -68633,43 +68633,40 @@ This guide breaks down what actually makes a snare work for technical death meta
       pedals: [
         {
           rank: 1,
-          name: "Pearl George Kollias Signature",
+          name: "Pearl Sensitone Premium Free-Floating Brass",
           brand: "Pearl",
-          model: "George Kollias Signature 14\"x6.5\" Brass",
+          model: "Sensitone Premium Free-Floating",
           image: "https://upload.wikimedia.org/wikipedia/commons/a/ac/Drums_01.jpg",
-          priceRange: "€400-500",
+          priceRange: "€350-500",
           tier: "pro",
           material: "Brass",
 
-          description: `George Kollias's Pearl George Kollias Signature 14"x6.5" brass snare keeps every accent legible across Nile's densely layered technical death metal, whether he's locked into a straight blast beat or threading a fill through an odd-meter shift. The brass shell's cutting warmth registers clearly even at 240+ BPM.
+          description: `Pearl's Sensitone Premium Free-Floating brass snare keeps every accent legible across technical death metal's densely layered arrangements, whether you're locked into a straight blast beat or threading a fill through an odd-meter shift. The free-floating system suspends the shell from its own flanges rather than external lug casings, eliminating dampening for real sensitivity gains on ghost notes and dynamic transitions.
 
-Kollias's ghost notes and dynamic transitions — essential to Nile's technical vocabulary — come through with real clarity thanks to the shell's sensitivity, proving a single snare can serve both raw speed and refined articulation.`,
+George Kollias, a longtime Pearl drums endorser (Pearl Masterworks Series), is one of many extreme-tempo death metal drummers drawn to this free-floating design, though Pearl hasn't publicly documented his specific snare model. The brass shell's cutting warmth registers clearly even past 240 BPM.`,
 
           pros: [
-            "George Kollias's signature setup — technical death metal's speed-and-precision standard",
+            "Free-floating system eliminates lug dampening for maximum resonance",
             "Brass shell delivers cutting crack with enough warmth to keep ghost notes legible",
-            "Proven across Nile's most technically demanding, odd-meter arrangements",
-            "14x6.5\" depth balances precision with body",
-            "Signature-tier hardware built for extreme technical demands"
+            "The free-floating design many extreme-tempo Pearl-endorsed drummers favor",
+            "Exceptional sensitivity for technical odd-meter fills",
+            "Pearl build quality and reliability"
           ],
           cons: [
-            "Premium signature pricing",
+            "Premium pricing",
             "Brass brightness may feel harsh for drummers wanting a darker tone",
-            "Requires careful tuning to avoid excess ring at high volume"
+            "Free-floating design requires careful tuning technique"
           ],
           specs: {
             shell: "Brass",
-            size: "14\" x 6.5\"",
+            size: "13\" x 5\"",
             hoops: "Die-cast",
-            lugs: "Pearl signature tube lugs",
+            lugs: "Free-floating (no shell-mounted lugs)",
             bestFor: "Cutting, legible attack for blast beats and technical odd-meter fills"
           },
-          usedBy: [
-            { name: "George Kollias", band: "Nile", note: "Pearl George Kollias Signature 14\"x6.5\" Brass — current touring and recording setup" }
-          ],
-          verdict: "The technical death metal speed-and-precision standard. Kollias's signature brass snare keeps every accent legible at extreme tempos.",
+          verdict: "The technical death metal speed-and-precision standard. Free-floating brass keeps every accent legible at extreme tempos.",
           rating: 4.8,
-          affiliateLink: "https://www.thomann.de/intl/pearl_george_kollias_signature_snare.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/pearl_sensitone_premium_free_floating.htm?partner_id=metalforge"
         },
         {
           rank: 2,
@@ -68835,9 +68832,9 @@ The dense bubinga shell's dark, cutting crack holds up whether Roddy is locked i
       title: "Brass vs Maple vs Bubinga for Technical Death Metal Snares",
       content: `Shell material and depth split technical death metal's leading drummers into distinct camps. Here's how each compares:
 
-**Brass (George Kollias):**
+**Brass (Free-Floating Pearl):**
 - Cutting, musical crack that stays legible on both blast beats and technical fills
-- Standard 14x6.5\" depth balances speed and body
+- Free-floating 13x5\" shell trades depth for sensitivity and response
 - Best for: Drummers needing one snare that serves both raw speed and refined articulation
 
 **Maple (Hannes Grossmann, Flo Mounier):**
@@ -68855,7 +68852,7 @@ The dense bubinga shell's dark, cutting crack holds up whether Roddy is locked i
         { feature: "Response Speed", brass: "⭐⭐⭐⭐", maple: "⭐⭐⭐⭐⭐", steel: "⭐⭐⭐⭐⭐", bronze: "⭐⭐⭐" },
         { feature: "Ghost Note Sensitivity", brass: "⭐⭐⭐⭐", maple: "⭐⭐⭐⭐⭐", steel: "⭐⭐⭐⭐", bronze: "⭐⭐⭐" },
         { feature: "Recording Consistency", brass: "⭐⭐⭐⭐", maple: "⭐⭐⭐⭐", steel: "⭐⭐⭐", bronze: "⭐⭐⭐⭐⭐" },
-        { feature: "Price (entry)", brass: "€400+", maple: "€450+", steel: "€350+", bronze: "€500+" }
+        { feature: "Price (entry)", brass: "€350+", maple: "€450+", steel: "€350+", bronze: "€500+" }
       ]
     },
 
@@ -68865,8 +68862,8 @@ The dense bubinga shell's dark, cutting crack holds up whether Roddy is locked i
       picks: [
         {
           category: "Best Overall",
-          pedal: "Pearl George Kollias Signature",
-          reason: "George Kollias's Nile setup — cutting, legible crack that serves both raw speed and technical articulation."
+          pedal: "Pearl Sensitone Premium Free-Floating Brass",
+          reason: "The free-floating brass design many extreme-tempo Pearl endorsers favor — cutting, legible crack that serves both raw speed and technical articulation."
         },
         {
           category: "Best for Ghost-Note Precision",
@@ -68894,7 +68891,7 @@ The dense bubinga shell's dark, cutting crack holds up whether Roddy is locked i
       'best-drum-pedals-for-technical-death-metal'
     ],
     relatedDrummers: [
-      { slug: 'george-kollias', name: 'George Kollias', reason: 'Pearl George Kollias Signature 14x6.5\" Brass — Nile\'s technical speed-and-precision standard' },
+      { slug: 'george-kollias', name: 'George Kollias', reason: 'Pearl Masterworks Series endorser — Nile\'s technical speed-and-precision standard' },
       { slug: 'hannes-grossmann', name: 'Hannes Grossmann', reason: 'DW Collectors 14x5.5\" Maple — Obscura\'s classically-influenced odd-meter precision' },
       { slug: 'flo-mounier', name: 'Flo Mounier', reason: 'Tama Starclassic Maple 14x5.5\" — Cryptopsy\'s machine-gun blast beat speed' },
       { slug: 'derek-roddy', name: 'Derek Roddy', reason: 'Tama Starclassic Bubinga 14x6.5\" — one-take recording consistency' }
@@ -68902,7 +68899,7 @@ The dense bubinga shell's dark, cutting crack holds up whether Roddy is locked i
 
     // Featured drummers (issue template)
     featuredDrummers: [
-      { slug: 'george-kollias', name: 'George Kollias', reason: 'Pearl George Kollias Signature 14x6.5\" Brass — Nile\'s technical speed-and-precision standard' },
+      { slug: 'george-kollias', name: 'George Kollias', reason: 'Pearl Masterworks Series endorser — Nile\'s technical speed-and-precision standard' },
       { slug: 'hannes-grossmann', name: 'Hannes Grossmann', reason: 'DW Collectors 14x5.5\" Maple — Obscura\'s classically-influenced odd-meter precision' },
       { slug: 'flo-mounier', name: 'Flo Mounier', reason: 'Tama Starclassic Maple 14x5.5\" — Cryptopsy\'s machine-gun blast beat speed' },
       { slug: 'derek-roddy', name: 'Derek Roddy', reason: 'Tama Starclassic Bubinga 14x6.5\" — one-take recording consistency' }
@@ -68912,7 +68909,7 @@ The dense bubinga shell's dark, cutting crack holds up whether Roddy is locked i
     faq: [
       {
         question: "What snare does George Kollias use?",
-        answer: "George Kollias of Nile plays a Pearl George Kollias Signature 14\"x6.5\" brass snare, giving both his blast beats and technical fills a cutting, musical crack that stays legible through Nile's densely layered arrangements."
+        answer: "George Kollias is a longtime Pearl drums endorser (Pearl Masterworks Series), though Pearl hasn't publicly documented his specific snare model. Free-floating designs — which eliminate the lug dampening that can affect how consistently each stroke fires — are what many extreme-tempo Pearl endorsers gravitate toward for blast beats and technical fills past 240 BPM."
       },
       {
         question: "What snare does Hannes Grossmann use?",
@@ -68924,7 +68921,7 @@ The dense bubinga shell's dark, cutting crack holds up whether Roddy is locked i
       },
       {
         question: "What size snare is best for technical death metal?",
-        answer: "13\"-14\" diameters with 5.5\"-6.5\" depths dominate the genre. Shallower 14x5.5\" shells, like Flo Mounier's and Hannes Grossmann's, favor speed and ghost-note precision, while deeper 14x6.5\" shells, like George Kollias's and Derek Roddy's, add body without sacrificing articulation."
+        answer: "13\"-14\" diameters with 5\"-6.5\" depths dominate the genre. Shallower 14x5.5\" shells, like Flo Mounier's and Hannes Grossmann's, favor speed and ghost-note precision, while deeper 14x6.5\" shells, like Derek Roddy's, add body without sacrificing articulation."
       },
       {
         question: "Do I need an expensive snare to play technical death metal?",
@@ -68935,7 +68932,7 @@ The dense bubinga shell's dark, cutting crack holds up whether Roddy is locked i
     // Conclusion
     conclusion: {
       title: "Find Your Technical Death Metal Snare Voice",
-      content: `Technical death metal snare choice comes down to how much instant, ghost-note-sensitive precision your fills demand versus how much body and durability you need for touring and recording. George Kollias's Pearl signature brass snare proved that one shell can serve both raw blast-beat speed and refined technical articulation. Hannes Grossmann's and Flo Mounier's shallower maple snares both show how trading depth for speed sharpens ghost-note response on the genre's densest fills. Derek Roddy's bubinga Tama Starclassic snare demonstrates that consistency under one-take recording pressure doesn't have to come at the expense of technicality.
+      content: `Technical death metal snare choice comes down to how much instant, ghost-note-sensitive precision your fills demand versus how much body and durability you need for touring and recording. Free-floating brass snares — the design many extreme-tempo Pearl endorsers favor — prove that one shell can serve both raw blast-beat speed and refined technical articulation. Hannes Grossmann's and Flo Mounier's shallower maple snares both show how trading depth for speed sharpens ghost-note response on the genre's densest fills. Derek Roddy's bubinga Tama Starclassic snare demonstrates that consistency under one-take recording pressure doesn't have to come at the expense of technicality.
 
 None of these approaches is more "correct" — all four represent technical death metal's founding commitment to snares that never lose the thread, no matter how dense the arrangement gets. Start with whichever voicing matches your material's balance of speed, precision, and body.
 

@@ -83668,14 +83668,14 @@ Budget shouldn't stop you either. A Tama Iron Cobra 600 or DW 3000 Series pedal 
       title: "What Bass Drum Setup Delivers Groove Metal's Punchy, Mid-Tempo Thump?",
       content: `Groove metal's entire identity rests on the bass drum landing with more weight than speed. The genre trades thrash's blast-driven tempo for syncopated, mid-tempo patterns in the 100-140 BPM range, where a single kick hit needs to feel like a hammer blow rather than a blur of notes. That reframes what a bass drum setup needs to deliver: instead of the high-headroom speed a death metal or deathcore kit chases, groove metal rewards maximum low-mid punch, a controlled and immediate response, and a shell voiced for weight rather than rebound.
 
-Vinnie Paul built the genre's founding bass drum tone on a Tama 22"x18" bass drum during his 1990-1996 tenure with the brand, driven by a straightforward chain-drive Tama double pedal that anchored Pantera's thunderous, syncopated double-kick patterns on "Vulgar Display of Power" and "Far Beyond Driven." Chris Adler's Mapex Black Panther Design Lab bass drum, paired with his direct-drive Trick Pro V double pedal, gave Lamb of God's New Wave of American Heavy Metal riffs a tighter, more articulate low end across "Ashes of the Wake" and "Sacrament." Charlie Benante ran a Tama Starclassic Maple bass drum through a vintage Tama HP35 Camco chain-drive pedal from 1984 until 2010, when he finally switched to a Tama Speed Cobra — the same bass drum and pedal family he leaned on in 2022 when he stepped in for Pantera's reunion tour to honor his late friend Vinnie Paul. John Otto's Orange County Drum & Percussion (OCDP) Custom bass drum, driven by a Gibraltar Professional Series double pedal, delivers the deep, hip-hop-influenced pocket that defined Limp Bizkit's rap-metal groove on "Significant Other" and "Chocolate Starfish and the Hot Dog Flavored Water."
+Vinnie Paul built the genre's founding bass drum tone on a Tama 22"x18" bass drum during his 1990-1996 tenure with the brand, driven by a straightforward chain-drive Tama double pedal that anchored Pantera's thunderous, syncopated double-kick patterns on "Vulgar Display of Power" and "Far Beyond Driven." Chris Adler's Mapex Black Panther Design Lab bass drum, paired with his direct-drive Trick Pro V double pedal, gave Lamb of God's New Wave of American Heavy Metal riffs a tighter, more articulate low end across "Ashes of the Wake" and "Sacrament." Charlie Benante has run a Tama Starclassic Maple bass drum through Tama hardware including a Tama Speed Cobra pedal since the 2010s — the same bass drum and pedal family he leaned on in 2022 when he stepped in for Pantera's reunion tour to honor his late friend Vinnie Paul. John Otto's Orange County Drum & Percussion (OCDP) Custom bass drum, driven by a Gibraltar Professional Series double pedal, delivers the deep, hip-hop-influenced pocket that defined Limp Bizkit's rap-metal groove on "Significant Other" and "Chocolate Starfish and the Hot Dog Flavored Water."
 
 This guide breaks down shell size, head selection, and pedal choice for groove metal bass drums — comparing punchy, pocket-first setups across four drummers whose founding and cross-genre groove metal lineages shaped the genre's thunderous low end, with recommendations from budget to professional touring rigs.`,
       keyPoints: [
         "Vinnie Paul's Tama bass drum and chain-drive pedal defined groove metal's foundational, thunderous low-end thump",
         "22\" is the groove metal standard shell diameter — deep enough for weight, quick enough to stay locked to the syncopated pocket",
         "A tight, immediate pedal (Tama, Trick Pro V, Tama Speed Cobra, DW 9000) matters more than raw top-end speed for groove metal's mid-tempo riffs",
-        "Charlie Benante's decades-long Tama Camco-to-Speed Cobra evolution and 2022 Pantera reunion trace groove metal's bass drum DNA across generations"
+        "Charlie Benante's long-running Tama hardware endorsement, including the Speed Cobra pedal, and his 2022 Pantera reunion trace groove metal's bass drum DNA across generations"
       ]
     },
 
@@ -83716,7 +83716,7 @@ This guide breaks down shell size, head selection, and pedal choice for groove m
         {
           name: "Durable Touring Hardware",
           icon: "🔩",
-          description: "Charlie Benante ran the same Tama HP35 Camco chain-drive pedal from 1984 until its discontinuation in 2010, a testament to how groove metal drummers value proven, reliable hardware over cutting-edge speed features that don't serve the genre's mid-tempo pocket.",
+          description: "Charlie Benante has stuck with Tama pedals — currently the Speed Cobra — since the 2010s, a testament to how groove metal drummers value proven, reliable hardware over cutting-edge speed features that don't serve the genre's mid-tempo pocket.",
           recommendation: "A double pedal built for years of reliable touring use over ultimate top-end speed"
         }
       ]
@@ -83814,9 +83814,9 @@ The Trick Pro V's immediate, linear response lets Adler land exactly on the pock
           tier: "pro",
           material: "Maple, 22\"x18\" + direct-drive double pedal",
 
-          description: `Charlie Benante ran a Tama Starclassic Maple bass drum through a vintage Tama HP35 Camco chain-drive pedal from 1984 until Tama discontinued it in 2010, when he switched to a Tama Speed Cobra double pedal. He leaned on that same Tama bass drum and pedal family in 2022 when he stepped in for Pantera's reunion tour, honoring his late friend Vinnie Paul on the very stage that built groove metal's founding sound.
+          description: `Charlie Benante runs a Tama Starclassic Maple bass drum through a Tama Speed Cobra double pedal, part of the Tama hardware setup he's used since the 2010s. He leaned on that same Tama bass drum and pedal family in 2022 when he stepped in for Pantera's reunion tour, honoring his late friend Vinnie Paul on the very stage that built groove metal's founding sound.
 
-Benante's decades-long loyalty to a single pedal generation — one that outlasted trends, technique changes, and even entire genres — shows how groove metal's bass drum priorities have always favored proven reliability over chasing the latest speed benchmark.`,
+Benante's long-running loyalty to Tama hardware shows how groove metal's bass drum priorities have always favored proven reliability over chasing the latest speed benchmark.`,
 
           pros: [
             "Charlie Benante's Tama Starclassic setup — a direct historical thread into Pantera's groove metal legacy",
@@ -83939,7 +83939,7 @@ The OCDP custom shell program lets Otto dial in exactly the deep, punchy tone hi
 - Best for drummers prioritizing precision and articulation over raw weight
 
 **Tama Speed Cobra (Charlie Benante):**
-- Rapid, precise response — the modern successor to Benante's vintage Camco chain-drive pedal
+- Rapid, precise response — Benante's Tama pedal of choice since the 2010s
 - Proven across four decades spanning thrash and groove metal
 - Best for drummers who want reliability with a modern upgrade path
 

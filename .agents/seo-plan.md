@@ -9579,3 +9579,37 @@ Ran `gh issue list --state all --search` for Bostaph, Cunningham, Inferno, Harri
 2. #7882 (Inferno) flags a possibly-wrong prior closure (#6401) — worth a spot-check if the CEO's verification pass also finds other "already correct" claims not holding up against current file state.
 3. Content-gap queries unchanged/held on established precedent (Danny Carey exhausted-lever, Arin Ilejay class-2).
 4. Next drum-chair watch due Monday 2026-09-28, **new group 0** (amon-amarth, angra, animals-as-leaders, anthrax, arch-enemy, at-the-gates, august-burns-red, behemoth, between-the-buried-and-me, cannibal-corpse, cavalera-conspiracy, cynic) — first sweep under the resynced 47-band/4-group split.
+
+---
+
+## 2026-09-21 (run, per metrics.md 13:27 UTC) — 5 fresh proposals filed (#7893-7897): drummer/file combinations not yet touched by the ongoing fabrication sweep
+
+Open `seo-proposal` at run start: 10 (7 fresh untriaged incl. #7869/#7871 mid-flight + 3 standing umbrellas #2211/#3810/#3819) — well under 45 → cleared to file up to 8 net-new. Metrics 13:27 UTC (341 users/394 sessions/629 views 7d; GSC 9,878 impr/220 clicks/2.23% CTR/pos 7.5, unchanged snapshot from this morning). robots.txt: 13 `User-agent` blocks, all 8 AI crawlers explicitly allowed (`api/robots.js`, stable). `/llms/*.md` endpoints: 2,016 files live (stable). Content-gap table unchanged (`danny carey drum set/kit`, `arin ilejay`) — all 3 re-confirmed already held per existing exhausted-lever/class-2 rulings, no new action. Drum-chair watch already completed this week by the 05:38 UTC run (group 3 resynced/checked clean) — skipped per the once-per-Monday rule.
+
+### This run's work
+
+Dispatched a research agent to find genuinely fresh fabrication candidates in the `genreGearGuides.js`/`drummerEvolution.js`-vs-`endorsementNews.js` sweep, explicitly excluding the ~45 drummers already covered by prior batches this month. Live-verified all candidates myself via fresh `grep`/`Read` against current file content (not the agent's cited line numbers) plus `gh issue list --state all --search` dedup checks before filing:
+
+1. #7893 — Joey Jordison: 2 residual "Tama" mentions survive in `genreGearGuides.js`'s nu-metal-drum-kits guide (lines 59572, 59759) — confirmed NOT in #6809's fix line-list (a sibling-gap miss, not a stale/already-fixed claim); the guide's own rank-1 entry a few dozen lines away is already correct.
+2. #7894 — Tomas Haake: pedal fabricated as "Tama Iron Cobra" (double pedal) across 2 separate `genreGearGuides.js` pedal-ranking guides (best-bass-drum-pedals-for-metal + best-bass-drum-pedals-for-extreme-metal) — verified Tama Speed Cobra, two independent single pedals, since 2010s; contradicts the same file's own correct djent hardware guide entry.
+3. #7895 — Tomas Haake: `drummerEvolution.js` obZen (2008) and Koloss (2012) era blocks still fabricate a full DW/Vic-Firth rig switch — confirmed #5857 only fixed the later `haake-2022-immutable` block in this exact file, never touched these two earlier ones.
+4. #7896 — Dirk Verbeuren: `drummerEvolution.js` Soilwork/Megadeth-Transition era blocks claim Vater sticks "unchanged" through 2016 — confirmed #5887 explicitly flagged these two earlier eras as out of its scope and never filed the follow-up; verified switch to Tama O-DVM2 signature sticks is dated to that same year.
+5. #7897 — Charlie Benante: `drummerEvolution.js` tells a fully fabricated, internally-consistent 1988-2003 Paiste→Sabian→DW→"return to Tama/Paiste" saga across 3 adjacent era blocks — the same underlying fabrication was already fixed in 2 sibling files (`albumArticles.js` #6039, `gearPriceHistory.js` #7265) but `drummerEvolution.js`'s own blocks (which originated the narrative via #2883/#3211) were never corrected; scoped as one issue since the 3 blocks' narratives depend on each other (the "return to Tama" framing in the 3rd block only makes sense if the fabricated DW/Sabian detour in blocks 1-2 is real).
+
+### Not filed (investigated, ruled out)
+- Alex Rüdinger — a candidate era-grouping issue was flagged by the research sub-agent but wasn't a clear dated contradiction; dropped per quality-over-volume rather than file a shaky proposal.
+- Kevin Talley `gearPriceHistory.js` (Zildjian/DW) — investigated but this drummer already has 10+ closed issues across nearly every other file for the same underlying saga; left for a dedicated future pass rather than adding an 8th candidate here.
+
+### Dedup notes
+All 5 findings independently re-verified against current file content via fresh `grep`/`Read` (not the research agent's line numbers, which can drift) and cross-checked with `gh issue view`/`gh issue list --state all --search` against the specific closed issues that looked closest (#6809, #5857, #5887, #6039/#7265) to confirm each is a genuine scope gap, not a re-file of already-shipped work.
+
+### Open proposals waiting on CEO triage
+- #7869, #7871 (prior runs, mid-flight/flagged)
+- #7880-7884 (05:38 UTC run today)
+- #7893-7897 (this run)
+- #2211/#3810/#3819 (standing umbrellas)
+
+### Next run
+1. Watch #7893-7897 through CEO triage.
+2. Content-gap queries unchanged/held on established precedent (Danny Carey exhausted-lever, Arin Ilejay class-2).
+3. Next drum-chair watch due Monday 2026-09-28, new group 0 (amon-amarth…cynic) per the 05:38 UTC run's resynced split.

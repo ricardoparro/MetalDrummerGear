@@ -16748,9 +16748,9 @@ export const DRUMMER_EVOLUTION = {
 
         gear: {
           drums: {
-            item: 'Tama Starclassic Maple',
-            details: 'All-maple shells, double 22"x18" kicks, 2 rack/2 floor toms',
-            notes: 'Continued the Tama sound Slayer had used since Dave Lombardo\'s Artstar II years, giving Bostaph a familiar platform for his Slayer debut.',
+            item: 'Tama Artstar II',
+            details: 'Birch shells, double 22"x18" kicks, 2 rack/2 floor toms',
+            notes: 'Continued the Tama Artstar II sound Slayer had used since Dave Lombardo\'s years, giving Bostaph a familiar platform for his Slayer debut on Divine Intervention (1994).',
             change: null,
           },
           snare: {
@@ -16760,9 +16760,9 @@ export const DRUMMER_EVOLUTION = {
             change: null,
           },
           cymbals: {
-            item: 'Paiste 2002 Series',
+            item: 'Paiste RUDE Series',
             details: '14" hi-hats, 16"/18" crashes, 20" ride, 18" China',
-            notes: 'Slayer\'s established Paiste cymbal sound, unchanged from the Lombardo era.',
+            notes: 'Slayer\'s established Paiste cymbal sound for the heavier, more aggressive RUDE-era tone.',
             change: null,
           },
           hardware: {

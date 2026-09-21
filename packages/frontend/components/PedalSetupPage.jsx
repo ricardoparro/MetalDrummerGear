@@ -6,7 +6,7 @@
 // again here as a defensive check) — never a thin/empty page.
 
 import React, { useContext, useEffect } from 'react';
-import { View, Text, ScrollView, Pressable, StyleSheet, Platform } from 'react-native';
+import { View, Text, ScrollView, Pressable, StyleSheet, Platform, Linking } from 'react-native';
 import { ThemeContext } from '../ThemeContext';
 import { toSlug } from '../utils/urlHelpers';
 import {
@@ -14,6 +14,8 @@ import {
   updatePedalSetupMeta,
   generatePedalSetupSchema,
   generatePedalSetupDirectAnswer,
+  getPedalSetupBrandContext,
+  getPedalSetupContextFaq,
 } from '../data/pedalSetupPages';
 
 // ==========================================
@@ -82,6 +84,8 @@ export function PedalSetupPage({
 
   const { pedal, drummerName } = data;
   const directAnswer = generatePedalSetupDirectAnswer(data);
+  const brandContext = getPedalSetupBrandContext(pedal);
+  const contextFaq = getPedalSetupContextFaq(data.drummerSlug);
 
   return (
     <ScrollView style={[styles.container, { backgroundColor: theme.background }]} contentContainerStyle={styles.scrollContent}>
@@ -126,10 +130,39 @@ export function PedalSetupPage({
 
       <Text style={[styles.sourceNote, { color: theme.secondaryText }]}>Source: {pedal.source}.</Text>
 
+      {brandContext && (
+        <View style={[styles.quickFacts, { backgroundColor: theme.cardBg || theme.card, borderColor: theme.border }]}>
+          <Text style={[styles.sectionTitle, { color: theme.text }]}>🏭 {brandContext.brand.name} Pedals</Text>
+          <Text style={[styles.prose, { color: theme.text }]}>{brandContext.brand.positioning}</Text>
+          {brandContext.notableLine && (
+            <Text style={[styles.prose, { color: theme.text }]}>
+              <Text style={{ fontWeight: '700' }}>{brandContext.notableLine.name}: </Text>
+              {brandContext.notableLine.description}
+            </Text>
+          )}
+          {brandContext.brand.source && (
+            <Pressable
+              onPress={() => Linking.openURL(brandContext.brand.source.url)}
+              accessibilityRole="link"
+              accessibilityLabel={brandContext.brand.source.label}
+            >
+              <Text style={[styles.brandSourceLink, { color: theme.primary }]}>Source: {brandContext.brand.source.label} →</Text>
+            </Pressable>
+          )}
+        </View>
+      )}
+
       <View style={[styles.faqItem, { borderColor: theme.border }]}>
         <Text style={[styles.faqQuestion, { color: theme.text }]}>What pedals does {drummerName} use?</Text>
         <Text style={[styles.faqAnswer, { color: theme.secondaryText }]}>{directAnswer}</Text>
       </View>
+
+      {contextFaq && (
+        <View style={[styles.faqItem, { borderColor: theme.border }]}>
+          <Text style={[styles.faqQuestion, { color: theme.text }]}>{contextFaq.q}</Text>
+          <Text style={[styles.faqAnswer, { color: theme.secondaryText }]}>{contextFaq.a}</Text>
+        </View>
+      )}
 
       <Pressable
         onPress={() => onNavigateToDrummer && onNavigateToDrummer(drummerSlug)}
@@ -192,6 +225,7 @@ const styles = StyleSheet.create({
   capitalize: { textTransform: 'capitalize' },
   prose: { fontSize: 15, lineHeight: 22, marginBottom: 12 },
   sourceNote: { fontSize: 12, fontStyle: 'italic', marginBottom: 20 },
+  brandSourceLink: { fontSize: 12, fontWeight: '600', marginTop: 4 },
   faqItem: { borderTopWidth: 1, paddingTop: 12, marginBottom: 20 },
   faqQuestion: { fontSize: 16, fontWeight: '600', marginBottom: 6 },
   faqAnswer: { fontSize: 14, lineHeight: 21 },

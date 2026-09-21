@@ -9,9 +9,41 @@
 // mirroring the /cymbals/setups pattern shipped in #4306.
 
 import { getPedalForDrummer } from './pedals';
+import { getEndorsementTimeline, ENDORSEMENT_CATEGORIES } from './endorsementNews';
+import { getGearPriceHistory, hasPriceHistoryData } from './gearPriceHistory';
 
 const BASE_URL = 'https://metalforge.io';
 export const PEDAL_SETUP_BASE_PATH = '/pedals/setups';
+
+// Pedal switch history sourced from the same verified endorsement timeline
+// used on /endorsements — on this site, HARDWARE-category timeline entries
+// are exclusively bass drum pedal changes. Empty array when nothing is on
+// record for this drummer (never guessed).
+export function getPedalHistoryForDrummer(drummerSlug) {
+  const timeline = getEndorsementTimeline(drummerSlug);
+  if (!timeline || !Array.isArray(timeline.timeline)) return [];
+  return timeline.timeline
+    .filter((entry) => entry.category === ENDORSEMENT_CATEGORIES.HARDWARE)
+    .sort((a, b) => a.year - b.year);
+}
+
+// Optional earlier-era pedal snapshot from the /drummers/<slug>/gear-history
+// dataset, surfaced only when that era's verified hardware notes actually
+// name a pedal — never assumed, since gear-history "hardware" can just as
+// easily describe stands or a throne with no pedal mentioned at all.
+export function getPedalEraSnapshotForDrummer(drummerSlug) {
+  if (!hasPriceHistoryData(drummerSlug)) return null;
+  const history = getGearPriceHistory(drummerSlug);
+  const hardware = history?.setup?.hardware;
+  if (!hardware || !/pedal/i.test(`${hardware.item} ${hardware.notes || ''}`)) return null;
+  return {
+    era: history.era,
+    year: history.iconicYear,
+    item: hardware.item,
+    notes: hardware.notes,
+    source: hardware.source,
+  };
+}
 
 export function isPedalSetupPage() {
   return typeof window !== 'undefined' &&
@@ -39,6 +71,8 @@ export function getPedalSetupPageData(drummerSlug, drummerName) {
     canonicalUrl: `${BASE_URL}${url}`,
     drummerUrl: `/drummer/${drummerSlug}`,
     hubUrl: '/pedals',
+    pedalHistory: getPedalHistoryForDrummer(drummerSlug),
+    eraSnapshot: getPedalEraSnapshotForDrummer(drummerSlug),
   };
 }
 
@@ -69,6 +103,18 @@ export function generatePedalSetupDirectAnswer(data) {
   const driveSuffix = pedal.driveType ? ` (${pedal.driveType}-drive)` : '';
   const article = configPhrase.endsWith('(x2)') ? '' : (/^[aeiou]/i.test(descriptor) ? 'an ' : 'a ');
   return `${drummerName} plays ${article}${descriptor} ${configPhrase}${driveSuffix}.`;
+}
+
+// "Has <drummer> always played this pedal?" answer built from the verified
+// switch history — null when there's no recorded history (never fabricated).
+export function generatePedalHistoryAnswer(data) {
+  const { pedalHistory, drummerName } = data;
+  if (!pedalHistory || pedalHistory.length === 0) return null;
+  const switches = pedalHistory.map((entry) => {
+    const phrase = entry.from ? `switched from ${entry.from} to ${entry.to}` : `signed with ${entry.to}`;
+    return `${phrase} in ${entry.year}${entry.notes ? ` — ${entry.notes}` : ''}`;
+  }).join('; ');
+  return `${drummerName} ${switches}.`;
 }
 
 export function generatePedalSetupTitle(data) {
@@ -145,16 +191,27 @@ export function generatePedalSetupSchema(data) {
     ],
   });
 
+  const faqItems = [
+    {
+      '@type': 'Question',
+      name: `What pedals does ${drummerName} use?`,
+      acceptedAnswer: { '@type': 'Answer', text: generatePedalSetupDirectAnswer(data) },
+    },
+  ];
+
+  const historyAnswer = generatePedalHistoryAnswer(data);
+  if (historyAnswer) {
+    faqItems.push({
+      '@type': 'Question',
+      name: `Has ${drummerName} always played this pedal?`,
+      acceptedAnswer: { '@type': 'Answer', text: historyAnswer },
+    });
+  }
+
   schemas.push({
     '@context': 'https://schema.org',
     '@type': 'FAQPage',
-    mainEntity: [
-      {
-        '@type': 'Question',
-        name: `What pedals does ${drummerName} use?`,
-        acceptedAnswer: { '@type': 'Answer', text: generatePedalSetupDirectAnswer(data) },
-      },
-    ],
+    mainEntity: faqItems,
   });
 
   return schemas;

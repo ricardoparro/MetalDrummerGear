@@ -13810,6 +13810,32 @@ function DrummerBioPage({ theme, onBack, drummer, onSelectDrummer }) {
         document.head.appendChild(ldScript);
       }
       ldScript.textContent = JSON.stringify(articleSchema);
+
+      // FAQPage schema — bio.sections.faq is written for every extended bio
+      // but was never rendered or exposed as structured data (Issue #7907);
+      // it's unique content vs. the flagship profile page's own FAQ (which
+      // this drummer may not even have), so it's additive, not duplicative.
+      const faqSection = bio.sections.faq;
+      let bioFaqScript = document.querySelector('script[data-schema="bio-faq"]');
+      if (faqSection && faqSection.items && faqSection.items.length > 0) {
+        if (!bioFaqScript) {
+          bioFaqScript = document.createElement('script');
+          bioFaqScript.type = 'application/ld+json';
+          bioFaqScript.setAttribute('data-schema', 'bio-faq');
+          document.head.appendChild(bioFaqScript);
+        }
+        bioFaqScript.textContent = JSON.stringify({
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": faqSection.items.map(item => ({
+            "@type": "Question",
+            "name": item.q,
+            "acceptedAnswer": { "@type": "Answer", "text": item.a }
+          }))
+        });
+      } else if (bioFaqScript) {
+        bioFaqScript.remove();
+      }
     }
 
     // Cleanup on unmount
@@ -13817,6 +13843,8 @@ function DrummerBioPage({ theme, onBack, drummer, onSelectDrummer }) {
       if (Platform.OS === 'web' && typeof document !== 'undefined') {
         const ldScript = document.querySelector('script[data-schema="bio"]');
         if (ldScript) ldScript.remove();
+        const bioFaqScript = document.querySelector('script[data-schema="bio-faq"]');
+        if (bioFaqScript) bioFaqScript.remove();
       }
     };
   }, [bio, drummer, drummerSlug]);
@@ -14011,6 +14039,22 @@ function DrummerBioPage({ theme, onBack, drummer, onSelectDrummer }) {
                 </View>
               ))}
             </View>
+          </View>
+        )}
+
+        {/* FAQ Section — verified Q&A already written per drummer but never
+            surfaced (Issue #7907); unique vs. the flagship profile page. */}
+        {bio.sections.faq && bio.sections.faq.items && bio.sections.faq.items.length > 0 && (
+          <View style={[styles.bioSection, { backgroundColor: theme.card, borderColor: theme.border }]}>
+            <Text style={[styles.bioSectionTitle, { color: theme.text }]} accessibilityRole="heading" aria-level="2">
+              {bio.sections.faq.title}
+            </Text>
+            {bio.sections.faq.items.map((item, index) => (
+              <View key={index} style={styles.bioFaqItem}>
+                <Text style={[styles.bioFaqQuestion, { color: theme.text }]}>{item.q}</Text>
+                <Text style={[styles.bioFaqAnswer, { color: theme.secondaryText }]}>{item.a}</Text>
+              </View>
+            ))}
           </View>
         )}
 
@@ -32713,6 +32757,18 @@ const styles = StyleSheet.create({
   },
   triviaText: {
     flex: 1,
+    fontSize: fontSize.base,
+    lineHeight: lineHeight.sm,
+  },
+  bioFaqItem: {
+    marginBottom: spacing[4],      // 16px
+  },
+  bioFaqQuestion: {
+    fontSize: fontSize.base,
+    fontWeight: fontWeight.semibold,
+    marginBottom: spacing[1],      // 4px
+  },
+  bioFaqAnswer: {
     fontSize: fontSize.base,
     lineHeight: lineHeight.sm,
   },

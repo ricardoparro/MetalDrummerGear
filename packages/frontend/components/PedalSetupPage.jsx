@@ -14,6 +14,7 @@ import {
   updatePedalSetupMeta,
   generatePedalSetupSchema,
   generatePedalSetupDirectAnswer,
+  generatePedalHistoryAnswer,
 } from '../data/pedalSetupPages';
 
 // ==========================================
@@ -80,8 +81,9 @@ export function PedalSetupPage({
     );
   }
 
-  const { pedal, drummerName } = data;
+  const { pedal, drummerName, pedalHistory, eraSnapshot } = data;
   const directAnswer = generatePedalSetupDirectAnswer(data);
+  const historyAnswer = generatePedalHistoryAnswer(data);
 
   return (
     <ScrollView style={[styles.container, { backgroundColor: theme.background }]} contentContainerStyle={styles.scrollContent}>
@@ -130,6 +132,33 @@ export function PedalSetupPage({
         <Text style={[styles.faqQuestion, { color: theme.text }]}>What pedals does {drummerName} use?</Text>
         <Text style={[styles.faqAnswer, { color: theme.secondaryText }]}>{directAnswer}</Text>
       </View>
+
+      {eraSnapshot && (
+        <View style={[styles.quickFacts, { backgroundColor: theme.cardBg || theme.card, borderColor: theme.border }]}>
+          <Text style={[styles.sectionTitle, { color: theme.text }]}>🕰️ {eraSnapshot.era} Pedal</Text>
+          <Text style={[styles.prose, { color: theme.text }]}>{eraSnapshot.notes}</Text>
+          <Text style={[styles.sourceNote, { color: theme.secondaryText }]}>Source: {eraSnapshot.source}.</Text>
+        </View>
+      )}
+
+      {pedalHistory && pedalHistory.length > 0 && (
+        <View style={[styles.quickFacts, { backgroundColor: theme.cardBg || theme.card, borderColor: theme.border }]}>
+          <Text style={[styles.sectionTitle, { color: theme.text }]}>📜 Pedal History</Text>
+          {pedalHistory.map((entry) => (
+            <Text key={`${entry.year}-${entry.to}`} style={[styles.prose, { color: theme.text }]}>
+              <Text style={styles.historyYear}>{entry.year}: </Text>
+              {entry.notes}
+            </Text>
+          ))}
+        </View>
+      )}
+
+      {historyAnswer && (
+        <View style={[styles.faqItem, { borderColor: theme.border }]}>
+          <Text style={[styles.faqQuestion, { color: theme.text }]}>Has {drummerName} always played this pedal?</Text>
+          <Text style={[styles.faqAnswer, { color: theme.secondaryText }]}>{historyAnswer}</Text>
+        </View>
+      )}
 
       <Pressable
         onPress={() => onNavigateToDrummer && onNavigateToDrummer(drummerSlug)}
@@ -191,6 +220,7 @@ const styles = StyleSheet.create({
   tableValue: { fontSize: 14, fontWeight: '600' },
   capitalize: { textTransform: 'capitalize' },
   prose: { fontSize: 15, lineHeight: 22, marginBottom: 12 },
+  historyYear: { fontWeight: '700' },
   sourceNote: { fontSize: 12, fontStyle: 'italic', marginBottom: 20 },
   faqItem: { borderTopWidth: 1, paddingTop: 12, marginBottom: 20 },
   faqQuestion: { fontSize: 16, fontWeight: '600', marginBottom: 6 },

@@ -12321,7 +12321,7 @@ This guide breaks down the technique, gear, and practice approach behind Ward's 
     genre: 'Progressive Death Metal',
     priority: 47,
     title: "How to Sound Like Martin Lopez: Complete Gear & Technique Guide",
-    description: "Master Martin Lopez's dynamic prog-death drumming. Learn the Opeth and Soen drummer's jazz-classical fusion approach, ghost-note density, brush-influenced touch, Noble & Cooley kit, and Zildjian K Dark cymbal setup.",
+    description: "Master Martin Lopez's dynamic prog-death drumming. Learn the Opeth and Soen drummer's jazz-classical fusion approach, ghost-note density, brush-influenced touch, Sonor Designer Series kit, and Sabian HH/AAX cymbal setup.",
     seoKeywords: ['martin lopez opeth drums', 'how to sound like martin lopez', 'martin lopez drumming style', 'opeth drummer', 'martin lopez technique', 'martin lopez drum gear', 'how to sound like opeth drums'],
     ogImage: '/images/guides/martin-lopez-guide.webp',
     datePublished: '2026-07-01',
@@ -12335,7 +12335,7 @@ This guide breaks down the technique, gear, and practice approach behind Ward's 
 
 What separates Lopez from most extreme metal drummers is dynamic range treated as a compositional tool rather than an occasional effect. His ghost notes, ride and brush-influenced touch, and willingness to underplay in service of a song's arc let Opeth's most brutal sections land harder by contrast. After health issues forced his 2006 departure from Opeth, Lopez co-founded Soen in 2010, carrying that same dynamic, song-serving philosophy into a new progressive metal vehicle.
 
-This guide breaks down the technique, gear, and practice approach behind Lopez's sound — from his Noble & Cooley kit and Zildjian K Dark cymbals to the ghost-note density and odd-meter grooves that define progressive death metal's most tasteful drummer.`,
+This guide breaks down the technique, gear, and practice approach behind Lopez's sound — from his Opeth-era Sonor Designer Series kit and Sabian HH/AAX cymbals to the ghost-note density and odd-meter grooves that define progressive death metal's most tasteful drummer.`,
       keyPoints: [
         "Opeth's drummer from 1997-2006, anchoring the band's most celebrated creative era",
         "Jazz- and classically-trained dynamic range used as a compositional tool, not an occasional effect",
@@ -12388,38 +12388,29 @@ This guide breaks down the technique, gear, and practice approach behind Lopez's
     gear: {
       title: "Lopez's Gear Setup",
       drumKit: {
-        brand: 'Noble & Cooley',
-        model: 'Noble & Cooley Walnut',
-        shells: 'Walnut',
-        finish: 'Natural wood',
+        brand: 'Sonor',
+        model: 'Sonor Designer Series',
+        shells: 'Maple',
         config: {
           kick: '22" x 18" Bass Drum (single, with double pedal)',
-          snare: '14" x 6" Noble & Cooley Solid Shell Maple',
+          snare: 'Sonor Designer Series maple snare (matched to kit)',
           toms: ['10" x 8" Rack Tom', '12" x 9" Rack Tom'],
           floorToms: ['14" x 12" Floor Tom', '16" x 14" Floor Tom']
         },
-        description: "Noble & Cooley's walnut shells give Lopez a warm, complex tone with excellent sensitivity at low volume — exactly what's needed to make ghost notes and brush-influenced touch register clearly before a song erupts into full-extremity death metal.",
-        affiliateNote: "Any warm-sounding maple or walnut-shell kit with responsive heads will approximate the tonal character."
-      },
-      snare: {
-        brand: 'Noble & Cooley',
-        model: 'Noble & Cooley Solid Shell Maple',
-        size: '14" x 6"',
-        shell: 'Solid Maple',
-        description: "A solid maple shell delivers a warm, sensitive crack that responds to the lightest ghost note as clearly as a full backbeat — essential for a player whose dynamic range runs from near-silent to blast-beat intensity within the same song.",
-        alternative: "Any solid-shell maple snare tuned for sensitivity rather than maximum volume will approximate the response."
+        description: "Sonor's Designer Series maple shells gave Lopez a warm, complex tone with excellent sensitivity at low volume throughout his Opeth tenure — exactly what's needed to make ghost notes and brush-influenced touch register clearly before a song erupts into full-extremity death metal.",
+        affiliateNote: "Any warm-sounding maple-shell kit with responsive heads will approximate the tonal character."
       },
       cymbals: {
-        brand: 'Zildjian',
-        series: 'Zildjian K Dark Series',
+        brand: 'Sabian',
+        series: 'Sabian HH / AAX',
         setup: [
-          { type: 'Hi-Hats', model: 'Zildjian 14" K Dark Thin Hi-Hats', notes: 'Warm, complex wash suited to jazz-influenced dynamic control' },
-          { type: 'Crash', model: 'Zildjian 18" K Dark Medium Thin Crash', notes: 'Fast-decaying accent that doesn\'t overwhelm quieter passages' },
-          { type: 'Crash', model: 'Zildjian 20" K Dark Medium Thin Crash', notes: 'Fuller crash for the heaviest structural moments' },
-          { type: 'Ride', model: 'Zildjian 22" K Dark Light Ride', notes: 'Warm, complex ride tone for both jazz-influenced and heavy passages' },
-          { type: 'China', model: 'Zildjian 18" K China', notes: 'Dark, trashy accent for the most extreme sections' }
+          { type: 'Hi-Hats', model: 'Sabian 14" HH Hi-Hats', notes: 'Warm, complex wash suited to jazz-influenced dynamic control' },
+          { type: 'Crash', model: 'Sabian 16" AAX Medium Crash', notes: 'Fast-decaying accent that doesn\'t overwhelm quieter passages' },
+          { type: 'Crash', model: 'Sabian 18" AAX Medium Crash', notes: 'Fuller crash for the heaviest structural moments' },
+          { type: 'Ride', model: 'Sabian 21" HH Raw Bell Dry Ride', notes: 'Warm, complex ride tone for both jazz-influenced and heavy passages' },
+          { type: 'China', model: 'Sabian 18" AAX Chinese', notes: 'Dark, trashy accent for the most extreme sections' }
         ],
-        description: "The K Dark series gives Lopez a warm, complex, low-pitched cymbal voice that works as well under a brushed acoustic passage as it does under a full-extremity blast section — dark, musical tone rather than bright cut."
+        description: "The HH and AAX series gave Lopez a warm, complex cymbal voice throughout his Opeth tenure that worked as well under a brushed acoustic passage as it did under a full-extremity blast section — dark, musical tone rather than bright cut."
       },
       pedals: {
         brand: 'Axis',
@@ -12517,11 +12508,11 @@ This guide breaks down the technique, gear, and practice approach behind Lopez's
       pro: {
         price: "$6,200+",
         label: "Professional Setup",
-        kit: "Noble & Cooley Walnut ($3,800+)",
-        cymbals: "Full Zildjian K Dark selection ($1,900+)",
+        kit: "Sonor Designer Series Maple ($3,800+)",
+        cymbals: "Full Sabian HH/AAX selection ($1,900+)",
         pedals: "Axis Percussion Double Pedal ($500)",
         heads: "Full Remo setup ($400)",
-        notes: "Touring-ready setup matching Lopez's Soen-era rig, built around warm, sensitive tone across the full dynamic range."
+        notes: "Touring-ready setup matching Lopez's Opeth-era rig, built around warm, sensitive tone across the full dynamic range."
       }
     },
     faq: [
@@ -12531,7 +12522,7 @@ This guide breaks down the technique, gear, and practice approach behind Lopez's
       },
       {
         question: "What gear should I use to sound like Martin Lopez?",
-        answer: "Lopez plays Noble & Cooley Walnut drums with a Noble & Cooley Solid Shell 14\" x 6\" Maple snare, Zildjian K Dark Series cymbals, an Axis Percussion double pedal, and Vic Firth American Classic 5A sticks. A budget setup can approximate this with any warm-sounding maple kit, a sensitive medium-tuned snare, and dark-toned cymbals."
+        answer: "Lopez's Opeth-era rig (1997-2006) was built around a Sonor Designer Series maple kit and Sabian HH/AAX cymbals; his Vic Firth American Classic 5A sticks and Remo drumheads have been consistent since he joined the band. A budget setup can approximate this with any warm-sounding maple kit, a sensitive medium-tuned snare, and dark-toned cymbals."
       },
       {
         question: "What tempo should I practice at to sound like Martin Lopez?",
@@ -12550,7 +12541,7 @@ This guide breaks down the technique, gear, and practice approach behind Lopez's
       drummerProfile: '/drummer/martin-lopez',
       similarDrummers: ['Mike Portnoy', 'Hannes Grossmann', 'Morgan Ågren'],
       relatedGuides: ['how-to-sound-like-mike-portnoy', 'how-to-sound-like-hannes-grossmann', 'how-to-sound-like-waltteri-vayrynen'],
-      gearPages: ['/gear/drums', '/brands/zildjian', '/gear/pedals']
+      gearPages: ['/gear/drums', '/brands/sabian', '/gear/pedals']
     },
     licksUrl: '/drummers/martin-lopez/licks',
     relatedArticles: [

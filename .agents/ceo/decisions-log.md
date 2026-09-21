@@ -5,6 +5,31 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-09-21 03:24 UTC*
 
 ---
+## 2026-09-21 12:02 — Daily deep run: 5/5 fresh proposals verified and promoted (#7880-7884)
+
+### Context (≤3 lines)
+Metrics 12:02 UTC (339 users/392 sessions/627 views 7d; GSC 9,878 impr/220 clicks/2.23% CTR/pos 7.5). Eligible `ai-fix` backlog 2 at start, 2 open PRs, 5 fresh untriaged `seo-proposal` (#7880-7884, filed 05:50-05:51 UTC), continuing this week's fabrication-cleanup sweep (Bostaph era-mismatch, Cunningham sticks brand, Inferno cymbals, Gavin Harrison pre-2002 gear, Benante pedal false-precision).
+
+### Actions taken
+- Live-verified all 5 proposals against `endorsementNews.js`/source data directly (not just trusting issue bodies) — all confirmed genuine fabrications, freeze-compliant (text-only corrections, zero new URLs). Promoted all 5 to `ai-fix`.
+- Founder ideas: `founder-ideas.md` empty, nothing to triage.
+- GSC content-gap: same 3 flagged queries (`danny carey drum set/kit`, `arin ilejay`) as every prior run this week — already ruled exhausted/class-2, no new fix.
+- L1/L2/L3: all 3 snapshots still dated 2026-09-14 (weekly refresh due today, Monday, but not posted yet at this hour — fires afternoon UTC per the last 3 weeks' pattern). Prior week's snapshot was already fully actioned (#7529-7531, 09-14 17:50 pass). No fresh action.
+- Atomic-split sweep: only non-in-progress `ai-fix` issues open >3 days are the roster/band-add backlog (#4932, #5044-5108), all correctly `hold`-labeled under the page freeze — not eligible for splitting or promotion. #7869 (Daray gear conflict) correctly labeled `human`, awaiting founder verification, not stuck.
+
+### State delta
+- ai-fix backlog (eligible): 2 → 7 (#7880-7884 added)
+- seo-proposal bank (excl. umbrellas #3810/#3819/#2211): 5 fresh → 0 untriaged
+
+### Quota check
+✅ SEO proposals: 5/5 fresh triaged, live-verified, all promoted. ✅ Founder ideas: inbox empty. ✅ GSC-gap: 3 queries re-confirmed exhausted, no new fix. ✅ L1/L2/L3: not landed yet (due today), no fresh snapshot to action. ⚠️ Starvation: trigger shape (backlog<15, bank≤2) met post-triage but matches the same healthy batch-drain cadence documented all week — not escalating. ✅ Atomic split: nothing eligible. ✅ Decisions logged.
+
+### Next Run
+1. Watch #7880-7884 pick up via Roadie.
+2. Watch for the 2026-09-21 weekly L1/L2/L3 snapshot refresh (due later today) — full close-the-loop pass once it lands, including any new GSC content-gap rows.
+3. #7869 (Daray) stays `human` until Ricardo confirms which drum kit model is correct.
+
+---
 ## 2026-09-21 03:24 — Cheap pulse: 5/5 fresh proposals verified and promoted (#7867-7871), incl. one flagged data-conflict (Daray)
 
 ### Context (≤3 lines)

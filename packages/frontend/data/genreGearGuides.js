@@ -64784,7 +64784,7 @@ Budget shouldn't stop you either. A Sabian SBR or Meinl HCS set will teach real 
     // SEO metadata
     title: "Best Snare Drums for Djent: 2026 Ultimate Guide",
     metaTitle: "Best Snare Drums for Djent 2026 | MetalForge Expert Guide",
-    description: "Best snare drums for djent drumming: what Tomas Haake (Sonor Tomas Haake Signature), Matt Halpern (Pearl Reference Pure), Matt Garstka (Pearl), and Blake Richardson (BTBAM kit snare) actually play. Crisp, cutting articulation for djent's palm-muted, polyrhythmic riffing — ranked budget to pro.",
+    description: "Best snare drums for djent drumming: what Tomas Haake (Sonor Tomas Haake Signature), Matt Halpern (Pearl Reference Pure), Matt Garstka (DW), and Blake Richardson (BTBAM kit snare) actually play. Crisp, cutting articulation for djent's palm-muted, polyrhythmic riffing — ranked budget to pro.",
     seoKeywords: [
       'best snare drums for djent',
       'djent snare drum',
@@ -64958,43 +64958,41 @@ Halpern's setup proves that a shallow, precisely tuned maple shell can deliver e
         },
         {
           rank: 3,
-          name: "Pearl Reference (Garstka Setup)",
-          brand: "Pearl",
-          model: "Reference Series 14\"x5.5\"",
+          name: "DW Collector's Series (Garstka Setup)",
+          brand: "DW",
+          model: "Collector's Series (custom shop)",
           image: "https://upload.wikimedia.org/wikipedia/commons/a/ac/Drums_01.jpg",
-          priceRange: "€380-500",
+          priceRange: "Not publicly documented",
           tier: "premium",
-          material: "Maple (14x5.5\")",
+          material: "Not publicly documented",
 
-          description: `Matt Garstka's Pearl Reference snare brings crisp, cutting precision to Animals as Leaders' instrumental djent, where the snare often substitutes for a vocalist's rhythmic emphasis across the band's constantly shifting polyrhythms. The 5.5" depth adds a touch more body than Halpern's setup while retaining djent's essential crisp articulation.
+          description: `Matt Garstka of Animals as Leaders has played a DW Collector's Series kit (custom shop) since 2021, after nearly a decade on Pearl. DW hasn't published standalone snare specs for his current setup, but the Collector's Series' custom-shop construction is built for the same crisp, cutting precision his instrumental djent demands — where the snare often substitutes for a vocalist's rhythmic emphasis across Animals as Leaders' constantly shifting polyrhythms.
 
-Garstka's setup is built for a band with no vocals to carry rhythmic phrasing, meaning his snare accents have to communicate the music's rhythmic structure entirely on their own — a demanding standard that shapes every tuning decision.`,
+Garstka's setup is built for a band with no vocals to carry rhythmic phrasing, meaning his snare accents have to communicate the music's rhythmic structure entirely on their own — a demanding standard that shapes every tuning decision, regardless of which kit he's playing.`,
 
           pros: [
-            "Matt Garstka's Animals as Leaders setup — carries rhythmic phrasing in an instrumental context",
-            "5.5\" depth balances crisp cut with slightly more body than shallower alternatives",
-            "Reference series maple shell delivers exceptional projection",
+            "Matt Garstka's current Animals as Leaders setup (DW since 2021) — carries rhythmic phrasing in an instrumental context",
+            "DW Collector's Series custom-shop construction delivers exceptional projection",
             "Proven across Animals as Leaders' most technically demanding polyrhythmic material",
             "Versatile enough for both aggressive accents and nuanced ghost notes"
           ],
           cons: [
-            "Premium Reference-series pricing",
-            "Less widely documented signature specification than Halpern's setup",
+            "Exact snare specs for Garstka's current DW kit are not publicly documented",
+            "Custom-shop DW pricing runs premium",
             "Requires a confident tuning hand to maximize crispness without excess ring"
           ],
           specs: {
-            shell: "Maple (Reference)",
-            diameter: "14\"",
-            depth: "5.5\"",
-            throwOff: "Pearl SR-1030",
-            wires: "20-strand"
+            shell: "Not publicly documented",
+            diameter: "Not publicly documented",
+            depth: "Not publicly documented",
+            throwOff: "Not publicly documented",
+            wires: "Not publicly documented"
           },
           usedBy: [
-            { name: "Matt Garstka", band: "Animals as Leaders", note: "14x5.5\" Pearl Reference — instrumental djent rhythmic clarity" }
+            { name: "Matt Garstka", band: "Animals as Leaders", note: "DW Collector's Series (custom shop) — his kit since 2021, instrumental djent rhythmic clarity" }
           ],
-          verdict: "Best for instrumental djent. Garstka's crisp snare carries rhythmic phrasing with no vocalist to share the load.",
-          rating: 4.6,
-          affiliateLink: "https://www.thomann.de/intl/pearl_reference_snare_garstka.htm?partner_id=metalforge"
+          verdict: "Best for instrumental djent. Garstka's crisp snare carries rhythmic phrasing with no vocalist to share the load — now on a DW-based kit since 2021.",
+          rating: 4.6
         },
         {
           rank: 4,
@@ -65051,7 +65049,7 @@ For djent-adjacent drummers whose material blends technical death metal, progres
           priceRange: "€80-130",
           tier: "budget",
           material: "Maple",
-          description: "The Pearl Export maple snare carries the same crisp maple DNA as Halpern and Garstka's professional Pearl Reference snares at a fraction of the price. Tune it high and tight to get closer to djent's cutting, articulate sound.",
+          description: "The Pearl Export maple snare carries the same crisp maple DNA as Halpern's professional Pearl Reference snare at a fraction of the price. Tune it high and tight to get closer to djent's cutting, articulate sound.",
           pros: ["Same Pearl maple DNA as pro djent snares", "Affordable, widely available entry point", "Responsive enough to develop crisp tuning technique"],
           cons: ["Less refined projection than Reference-series shells", "Basic hardware compared to signature models"],
           verdict: "Best budget entry into djent's crisp, cutting Pearl maple sound.",
@@ -65090,7 +65088,7 @@ For djent-adjacent drummers whose material blends technical death metal, progres
 - Cuts through the densest, most palm-muted prog-djent mixes
 - Best for technical, densely arranged prog-djent
 
-**Standard Shallow Maple (Matt Garstka, Blake Richardson):**
+**Standard Shallow Maple (Blake Richardson):**
 - 5.5\" depth balances crisp cut with slightly more body and dynamic range
 - Versatile across instrumental djent and genre-blending prog material
 - Best for drummers who need dynamic flexibility alongside djent's crisp cut
@@ -65120,8 +65118,8 @@ For djent-adjacent drummers whose material blends technical death metal, progres
         },
         {
           category: "Best for Instrumental Djent",
-          pedal: "Pearl Reference (Garstka Setup)",
-          reason: "Matt Garstka's Animals as Leaders setup — carries rhythmic phrasing with no vocalist to share the load."
+          pedal: "DW Collector's Series (Garstka Setup)",
+          reason: "Matt Garstka's Animals as Leaders setup (DW since 2021) — carries rhythmic phrasing with no vocalist to share the load."
         },
         {
           category: "Best Budget",
@@ -65140,7 +65138,7 @@ For djent-adjacent drummers whose material blends technical death metal, progres
     relatedDrummers: [
       { slug: 'tomas-haake', name: 'Tomas Haake', reason: 'Sonor Tomas Haake Signature 14x6.5" — Meshuggah djent founding polyrhythmic crack' },
       { slug: 'matt-halpern', name: 'Matt Halpern', reason: 'Pearl Reference Pure — Periphery prog-djent crisp precision' },
-      { slug: 'matt-garstka', name: 'Matt Garstka', reason: 'Pearl Reference — Animals as Leaders instrumental djent clarity' },
+      { slug: 'matt-garstka', name: 'Matt Garstka', reason: "DW Collector's Series since 2021 — Animals as Leaders instrumental djent clarity" },
       { slug: 'blake-richardson', name: 'Blake Richardson', reason: 'BTBAM kit snare — prog-djent dynamic range and crisp cut' }
     ],
 
@@ -65148,7 +65146,7 @@ For djent-adjacent drummers whose material blends technical death metal, progres
     featuredDrummers: [
       { slug: 'tomas-haake', name: 'Tomas Haake', reason: 'Sonor Tomas Haake Signature 14x6.5" — Meshuggah djent founding polyrhythmic crack' },
       { slug: 'matt-halpern', name: 'Matt Halpern', reason: 'Pearl Reference Pure — Periphery prog-djent crisp precision' },
-      { slug: 'matt-garstka', name: 'Matt Garstka', reason: 'Pearl Reference — Animals as Leaders instrumental djent clarity' },
+      { slug: 'matt-garstka', name: 'Matt Garstka', reason: "DW Collector's Series since 2021 — Animals as Leaders instrumental djent clarity" },
       { slug: 'blake-richardson', name: 'Blake Richardson', reason: 'BTBAM kit snare — prog-djent dynamic range and crisp cut' }
     ],
 
@@ -65156,7 +65154,7 @@ For djent-adjacent drummers whose material blends technical death metal, progres
     faq: [
       {
         question: "Who are the best djent drummers and what snares do they use?",
-        answer: "Tomas Haake of Meshuggah, the founding drummer of djent's polyrhythmic template, plays a Sonor Tomas Haake Signature 14x6.5\" snare. Matt Halpern of Periphery plays a Pearl Reference Pure 14x5\" snare, and Matt Garstka of Animals as Leaders plays a Pearl Reference 14x5.5\" snare."
+        answer: "Tomas Haake of Meshuggah, the founding drummer of djent's polyrhythmic template, plays a Sonor Tomas Haake Signature 14x6.5\" snare. Matt Halpern of Periphery plays a Pearl Reference Pure 14x5\" snare, and Matt Garstka of Animals as Leaders plays a DW-based kit (Collector's Series custom shop) since 2021."
       },
       {
         question: "What snare drum does Tomas Haake use?",
@@ -65164,7 +65162,7 @@ For djent-adjacent drummers whose material blends technical death metal, progres
       },
       {
         question: "What snare depth is best for djent?",
-        answer: "5\"-5.5\" shallow shells are the djent standard — Matt Halpern's Pearl Reference Pure sits at 14x5\" for maximum crisp attack, while Matt Garstka and Blake Richardson use 14x5.5\" for a touch more body alongside the genre's essential cutting articulation. Tomas Haake's Sonor Tomas Haake Signature runs slightly deeper at 14x6.5\", proving depth alone doesn't dictate djent's crisp cut."
+        answer: "5\"-5.5\" shallow shells are the djent standard — Matt Halpern's Pearl Reference Pure sits at 14x5\" for maximum crisp attack, while Blake Richardson uses 14x5.5\" for a touch more body alongside the genre's essential cutting articulation. Matt Garstka's current DW-based kit (since 2021) hasn't had its snare specs publicly documented. Tomas Haake's Sonor Tomas Haake Signature runs slightly deeper at 14x6.5\", proving depth alone doesn't dictate djent's crisp cut."
       },
       {
         question: "Why does djent need a crisper snare than other metal genres?",
@@ -65179,7 +65177,7 @@ For djent-adjacent drummers whose material blends technical death metal, progres
     // Conclusion
     conclusion: {
       title: "Find Your Djent Snare Voice",
-      content: `Djent snare choice comes down to how crisp and immediate you need your articulation to cut through palm-muted riffing. Tomas Haake's dry, Sonor signature snare defined the genre's founding polyrhythmic template with Meshuggah. Matt Halpern's ultra-shallow Pearl Reference Pure proved that maximum crisp cut can carry Periphery's densest prog-djent arrangements. Matt Garstka's Pearl Reference shows how a djent snare can carry an entire band's rhythmic phrasing without a vocalist, while Blake Richardson's setup demonstrates the dynamic flexibility needed for prog-djent's genre-blending ambition.
+      content: `Djent snare choice comes down to how crisp and immediate you need your articulation to cut through palm-muted riffing. Tomas Haake's dry, Sonor signature snare defined the genre's founding polyrhythmic template with Meshuggah. Matt Halpern's ultra-shallow Pearl Reference Pure proved that maximum crisp cut can carry Periphery's densest prog-djent arrangements. Matt Garstka's setup — now DW-based since his 2021 switch — shows how a djent snare can carry an entire band's rhythmic phrasing without a vocalist, while Blake Richardson's setup demonstrates the dynamic flexibility needed for prog-djent's genre-blending ambition.
 
 None of these approaches is more "correct" — all four represent djent's foundational commitment to crisp, cutting articulation that carves through palm-muted, mid-heavy guitar tone. Start with whichever depth and material matches your material's density, and don't be afraid to tune tighter and higher than other metal subgenres would suggest.
 

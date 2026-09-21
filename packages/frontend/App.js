@@ -4460,8 +4460,12 @@ function TopListPage({ theme, onBack, drummers, onSelectDrummer, listSlug, isArt
         </View>
       )}
 
-      {/* Related Content Links (Issue #634) */}
-      {isArticle && list.relatedLists && list.relatedLists.length > 0 && (
+      {/* Related Content Links (Issue #634). Issue #7906: no longer gated on
+          isArticle — quick-format lists (e.g. most-innovative-drummers,
+          thrash-metal-drummers) also need sibling /lists/ inbound links for
+          crawled-not-indexed recovery, and no non-article list previously
+          defined relatedLists, so this can't change existing behavior. */}
+      {list.relatedLists && list.relatedLists.length > 0 && (
         <View style={[styles.relatedContentSection, { backgroundColor: theme.card, borderColor: theme.border }]}>
           <Text style={[styles.relatedContentTitle, { color: theme.text }]}>📚 Related Rankings</Text>
           <View style={styles.relatedContentLinks}>

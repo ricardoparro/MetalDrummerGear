@@ -11970,7 +11970,7 @@ export const DRUMMER_EVOLUTION = {
           sticks: {
             item: 'Vater hickory sticks',
             details: 'Standard touring stick',
-            notes: 'Vater endorsement maintained from the Soilwork years through his Megadeth tenure.',
+            notes: 'Vater hickory sticks throughout the Soilwork years.',
             change: null,
           },
           heads: {
@@ -12039,10 +12039,10 @@ export const DRUMMER_EVOLUTION = {
             change: CHANGE_TYPES.UPGRADE,
           },
           sticks: {
-            item: 'Vater hickory sticks',
-            details: 'Continued from Soilwork',
-            notes: 'Unchanged stick preference through the transition.',
-            change: null,
+            item: 'Tama O-DVM2',
+            details: 'His own Tama signature stick model',
+            notes: 'Switched to his own Tama O-DVM2 signature stick model for the Megadeth era, moving off Vater\'s 5B / Power 5B.',
+            change: CHANGE_TYPES.SIGNATURE,
           },
           heads: {
             item: 'Evans / Remo touring configuration',

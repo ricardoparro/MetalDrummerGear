@@ -3500,22 +3500,22 @@ export const DRUMMER_EVOLUTION = {
         years: '1990–1993',
         startYear: 1990,
         endYear: 1993,
-        description: 'Tool\'s debut album era. Carey established the foundation of his distinctive setup — DW maple shells, Paiste cymbals, and Tama pedals — with a relatively straightforward configuration that punched far above its weight.',
+        description: 'Tool\'s debut album era. Carey\'s drum and snare brand for this period is not documented in any verified source; Paiste cymbals are confirmed from the outset, in a relatively straightforward configuration that punched far above its weight.',
         albums: ['Opiate EP (1992)', 'Undertow (1993)'],
         tours: ['Undertow Tour'],
         image: null,
 
         gear: {
           drums: {
-            item: 'DW Collector\'s Series Maple',
-            details: 'Maple shells: 22" kick, 10"/12"/14"/16" toms',
-            notes: 'Early DW endorsement. The Collector\'s Series maple tone perfectly suited Tool\'s dense, low-mid-heavy sound.',
+            item: 'Brand unconfirmed',
+            details: '22" kick, 10"/12"/14"/16" toms (configuration approximate)',
+            notes: 'No source documents a drum brand for Carey before Tool\'s later Sonor endorsement — specifics for this era are unconfirmed.',
             change: null,
           },
           snare: {
-            item: 'DW Edge 14"×6.5" Steel',
-            details: 'Steel shell with die-cast hoops',
-            notes: 'Cutting, focused snare that cut through Tool\'s guitar-bass wall.',
+            item: 'Brand unconfirmed',
+            details: 'Steel shell (specifics undocumented)',
+            notes: 'No verified source confirms a snare brand for this era.',
             change: null,
           },
           cymbals: {
@@ -3525,9 +3525,9 @@ export const DRUMMER_EVOLUTION = {
             change: null,
           },
           hardware: {
-            item: 'Tama Iron Cobra HP900 Double Pedal',
-            details: 'Power Glide cam double bass pedal',
-            notes: 'The Iron Cobra became his signature pedal throughout his career.',
+            item: 'Brand unconfirmed',
+            details: 'Double bass pedal (brand undocumented)',
+            notes: 'No verified source ties a specific pedal brand to this early era.',
             change: null,
           },
           sticks: {
@@ -3551,16 +3551,10 @@ export const DRUMMER_EVOLUTION = {
         },
 
         keyChanges: [
-          'DW Collector\'s Series endorsement established',
+          'Drum and snare brand for this era undocumented',
           'Paiste cymbal relationship begins',
-          'Tama Iron Cobra becomes primary pedal',
           'Tool\'s debut full-length defines the sonic foundation',
         ],
-
-        quote: {
-          text: "The DW kit gave me the foundation I needed. The sound of those maple shells was immediately right for what Tool was doing.",
-          source: 'Modern Drummer Interview, 1994',
-        },
 
         videos: [],
       },
@@ -3578,15 +3572,15 @@ export const DRUMMER_EVOLUTION = {
 
         gear: {
           drums: {
-            item: 'DW Collector\'s Series Maple (expanded)',
-            details: 'Maple shells: 22"/24" kicks, 8"/10"/12"/14"/16"/18" toms',
-            notes: 'Expanded to 6 toms plus dual kicks for the complex polyrhythmic arrangements of Ænima.',
-            change: CHANGE_TYPES.UPGRADE,
+            item: 'Brand unconfirmed (expanded configuration)',
+            details: '22"/24" kicks, 8"/10"/12"/14"/16"/18" toms (configuration approximate)',
+            notes: 'No source documents a drum brand for this era; kit expanded to 6 toms plus dual kicks for the complex polyrhythmic arrangements of Ænima.',
+            change: null,
           },
           snare: {
-            item: 'DW Edge 14"×6.5" Steel',
-            details: 'Steel shell, continued',
-            notes: 'Same cutting steel snare sound — the Ænima snare is one of Carey\'s most distinctive.',
+            item: 'Brand unconfirmed',
+            details: 'Steel shell (specifics undocumented)',
+            notes: 'No verified source confirms a snare brand for this era.',
             change: null,
           },
           cymbals: {
@@ -3596,16 +3590,16 @@ export const DRUMMER_EVOLUTION = {
             change: CHANGE_TYPES.UPGRADE,
           },
           hardware: {
-            item: 'Tama Iron Cobra HP900 Double Pedal',
-            details: 'Dual Iron Cobra configuration for twin kicks',
-            notes: 'Full twin-kick setup for maximum bass drum complexity.',
-            change: CHANGE_TYPES.UPGRADE,
+            item: 'Brand unconfirmed',
+            details: 'Dual double-bass pedal configuration for twin kicks (brand undocumented)',
+            notes: 'Full twin-kick setup for maximum bass drum complexity; no verified source ties a specific pedal brand to this era.',
+            change: null,
           },
           sticks: {
-            item: 'Vic Firth Danny Carey Signature',
-            details: 'Hickory, long taper with nylon tip',
-            notes: 'First Vic Firth Danny Carey signature stick — a long taper model suited to his fulcrum technique.',
-            change: CHANGE_TYPES.SIGNATURE,
+            item: 'Vic Firth 5B',
+            details: 'Standard hickory',
+            notes: 'Off-the-shelf sticks — the Vic Firth Danny Carey Signature model wasn\'t introduced until 2005.',
+            change: null,
           },
           heads: {
             item: 'Evans EC2 / EMAD',
@@ -3629,16 +3623,10 @@ export const DRUMMER_EVOLUTION = {
 
         keyChanges: [
           'Kit expanded to 6 toms and dual kicks',
-          'Vic Firth Danny Carey signature sticks launched',
           'Roland Octapad introduced — first electronics integration',
           'Paiste Signature cymbal upgrade',
           'Evans heads adopted for studio/live consistency',
         ],
-
-        quote: {
-          text: "Ænima pushed the kit to a completely different place. The polyrhythmic concepts demanded more surface area, more control.",
-          source: 'Drum! Magazine, 1996',
-        },
 
         videos: [],
       },
@@ -3656,16 +3644,16 @@ export const DRUMMER_EVOLUTION = {
 
         gear: {
           drums: {
-            item: 'DW Collector\'s Series Maple (custom lacquer)',
-            details: 'Custom finish maple: 22"/24" kicks, 8"/10"/12"/13"/14"/16"/18" toms',
-            notes: 'Custom lacquer DW kit with 7 toms — one of the most ambitious tom configurations in mainstream rock.',
-            change: CHANGE_TYPES.UPGRADE,
+            item: 'Brand unconfirmed (expanded configuration)',
+            details: '22"/24" kicks, 8"/10"/12"/13"/14"/16"/18" toms (configuration approximate)',
+            notes: 'No source documents a drum brand for this era; 7-tom configuration is one of the most ambitious in mainstream rock.',
+            change: null,
           },
           snare: {
-            item: 'DW Collector\'s Series 14"×6.5" Maple',
-            details: 'Maple shell with wood hoop option',
-            notes: 'Switched to maple snare for warmer, more resonant tone suited to Lateralus\'s complex arrangements.',
-            change: CHANGE_TYPES.SWITCH,
+            item: 'Brand unconfirmed',
+            details: 'Specifics undocumented',
+            notes: 'No verified source confirms a snare brand for this era.',
+            change: null,
           },
           cymbals: {
             item: 'Paiste Signature / 602 Series',
@@ -3674,16 +3662,16 @@ export const DRUMMER_EVOLUTION = {
             change: CHANGE_TYPES.UPGRADE,
           },
           hardware: {
-            item: 'Tama Iron Cobra HP900 / Speed Cobra',
-            details: 'Twin-kick Tama configuration',
-            notes: 'Speed Cobra variant explored for lighter-touch passages within Lateralus\'s dynamic range.',
+            item: 'Brand unconfirmed',
+            details: 'Twin-kick double bass pedal configuration (brand undocumented)',
+            notes: 'No verified source ties a specific pedal brand to this era.',
             change: null,
           },
           sticks: {
             item: 'Vic Firth Danny Carey Signature',
-            details: 'Refined long-taper hickory',
-            notes: 'Continued signature partnership with Vic Firth.',
-            change: null,
+            details: 'Long-taper hickory',
+            notes: 'Vic Firth launched the Danny Carey signature stick in 2005, within this era.',
+            change: CHANGE_TYPES.SIGNATURE,
           },
           heads: {
             item: 'Evans G2 / EMAD',
@@ -3706,16 +3694,12 @@ export const DRUMMER_EVOLUTION = {
         },
 
         keyChanges: [
-          'Largest DW tom configuration to date (7 toms)',
+          'Largest tom configuration to date (7 toms)',
+          'Vic Firth Danny Carey signature sticks launched (2005)',
           'Paiste 602 added alongside Signature series',
           'Expanded Roland electronics for live performances',
           'Lateralus — Tool\'s most critically acclaimed album',
         ],
-
-        quote: {
-          text: "Lateralus is built on Fibonacci patterns. The kit had to navigate those shifting meters naturally. It\'s about feel, not just mathematics.",
-          source: 'Modern Drummer, 2001',
-        },
 
         videos: [],
       },
@@ -3789,17 +3773,12 @@ export const DRUMMER_EVOLUTION = {
           'Fear Inoculum (2019) — Tool\'s first album in 13 years',
         ],
 
-        quote: {
-          text: "Each album has pushed the kit further. Fear Inoculum needed a rig that could hold all of those layers simultaneously — orchestral percussion, electronics, and the core kit.",
-          source: 'Vic Firth Artist Profile, 2019',
-        },
-
         videos: [],
       },
     ],
 
     metaTitle: 'Danny Carey Gear Evolution Timeline | Tool\'s Drum Kit History',
-    metaDescription: 'Explore Danny Carey\'s complete drum gear evolution from Undertow to Fear Inoculum — from early DW/Tama gear to his Sonor SQ2 rig with gongs and electronics — every era documented.',
+    metaDescription: 'Explore Danny Carey\'s complete drum gear evolution from Undertow to Fear Inoculum — from Tool\'s early raw setup to his Sonor SQ2 rig with gongs and electronics — every era documented.',
   },
 
   // ==========================================

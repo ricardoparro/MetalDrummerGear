@@ -94643,14 +94643,14 @@ Whichever you choose, remember that progressive metal rewards precision and dyna
     // SEO metadata
     title: "Best Hi-Hats for Progressive Metal: 2026 Ultimate Guide",
     metaTitle: "Best Hi-Hats for Progressive Metal 2026 | MetalForge Guide",
-    description: "What hi-hats are used in progressive metal? Discover what Mike Mangini (Meinl Byzance Traditional) and Blake Richardson (Meinl Byzance Dark) actually play — dark, complex, dynamically responsive hi-hats from budget to pro.",
+    description: "What hi-hats are used in progressive metal? Discover the Sabian HHX Evolution hi-hats Mike Mangini and Blake Richardson both play — dynamically responsive hi-hats from budget to pro.",
     seoKeywords: [
       'best hi-hats for progressive metal',
       'progressive metal hi-hats',
       'prog metal hi-hats',
       'mike mangini hi-hats dream theater',
       'blake richardson hi-hats btbam',
-      'meinl byzance traditional progressive metal',
+      'sabian hhx evolution hi-hats progressive metal',
       'meinl byzance dark hi-hats',
       'hi-hats for odd time signatures',
       'dynamically responsive hi-hats metal',
@@ -94666,7 +94666,7 @@ Whichever you choose, remember that progressive metal rewards precision and dyna
     // Hero section
     hero: {
       title: "🎩 Best Hi-Hats for Progressive Metal",
-      subtitle: "What Mangini and Richardson Actually Play",
+      subtitle: "What Mangini, Richardson, and Dailor Actually Play",
       badge: "GEAR GUIDE 2026",
       stats: [
         { value: '4', label: 'Hi-Hats Reviewed' },
@@ -94680,13 +94680,15 @@ Whichever you choose, remember that progressive metal rewards precision and dyna
       title: "Why Progressive Metal Hi-Hats Need to Do More Than Just Cut",
       content: `Progressive metal asks more of a hi-hat than almost any other metal subgenre. A single track can move from a whisper-soft, jazz-influenced groove to a full-volume, odd-meter blast within a few bars — and the hi-hat has to translate every subtle stick dynamic along that entire range, not just deliver one tight, cutting chick sound.
 
-Mike Mangini of Dream Theater is a long-time Meinl endorser whose complex polyrhythmic hi-hat patterns demand a cymbal that responds to subtle dynamics and intricate technique — his Byzance Traditional pair gives him exactly that warmth and nuance. Blake Richardson of Between the Buried and Me trusts Meinl Byzance Dark hi-hats for the dark, hand-hammered complexity that carries BTBAM's dramatic swings between acoustic-adjacent passages and full technical extremity.
+Mike Mangini of Dream Theater and Blake Richardson of Between the Buried and Me both play Sabian HHX Evolution hi-hats — a 14" pair whose crisp, articulate response holds up under complex polyrhythmic and genre-hopping technical playing without losing definition at either dynamic extreme.
+
+Brann Dailor of Mastodon takes the opposite tonal approach, relying on dark, hand-hammered Meinl Byzance Dark hi-hats for the complexity that carries Mastodon's shifts between sludge-heavy riffing and intricate, prog-leaning arrangements.
 
 This guide breaks down what actually makes a hi-hat work for progressive metal — dynamic range, tonal complexity, and versatility across playing styles — and which specific pairs these influential drummers rely on, from accessible starter options to the professional setups behind prog metal's most celebrated records.`,
       keyPoints: [
-        "Mike Mangini's Meinl Byzance Traditional hi-hats respond to subtle dynamics and intricate stick technique",
-        "Blake Richardson's Meinl Byzance Dark hi-hats handle BTBAM's dramatic range from acoustic-adjacent to full technical extremity",
-        "Dark, complex B20 bronze tones dominate progressive metal hi-hat choices over bright, cutting alternatives",
+        "Mike Mangini and Blake Richardson both play Sabian HHX Evolution hi-hats for crisp, articulate response under polyrhythmic and genre-hopping technical playing",
+        "Brann Dailor's Meinl Byzance Dark hi-hats deliver a darker, hand-hammered alternative for Mastodon's shifts between sludge and prog complexity",
+        "Both bright, articulate B20 bronze (Sabian HHX) and dark, hand-hammered B20 bronze (Meinl Byzance Dark) are proven top-tier progressive metal choices",
         "Dynamic range matters more than raw cutting power — prog metal hi-hats must be as melodic as they are rhythmic"
       ]
     },
@@ -94704,13 +94706,13 @@ This guide breaks down what actually makes a hi-hat work for progressive metal �
         {
           name: "Tonal Complexity",
           icon: "🌊",
-          description: "Blake Richardson's Meinl Byzance Dark hi-hats deliver the dark, hand-hammered complexity that carries BTBAM's whiplash shifts between acoustic-adjacent passages and full technical density. Bright, simple hi-hats sound flat under prog metal's dense, layered arrangements.",
+          description: "Brann Dailor's Meinl Byzance Dark hi-hats deliver the dark, hand-hammered complexity that carries Mastodon's whiplash shifts between sludge-heavy riffing and full technical density. Flat, one-dimensional hi-hats sound thin under prog metal's dense, layered arrangements.",
           recommendation: "Dark, hand-hammered B20 bronze over bright, unlathed B8 alternatives"
         },
         {
           name: "Response to Subtle Technique",
           icon: "🎯",
-          description: "Mangini's Byzance Traditional pair is chosen specifically because it works beautifully in progressive contexts where the hi-hat is as melodic as it is rhythmic — every subtle foot and stick nuance needs to translate audibly.",
+          description: "Mangini's and Richardson's Sabian HHX Evolution pairs are chosen specifically because they work beautifully in progressive contexts where the hi-hat is as melodic as it is rhythmic — every subtle foot and stick nuance needs to translate audibly.",
           recommendation: "A pair that rewards nuanced foot control and varied stick technique rather than one that only performs when played hard"
         },
         {
@@ -94740,43 +94742,44 @@ This guide breaks down what actually makes a hi-hat work for progressive metal �
       pedals: [
         {
           rank: 1,
-          name: "Meinl Byzance Traditional Hi-Hats",
-          brand: "Meinl",
-          model: "Byzance Traditional Medium Hi-Hats 14\"",
+          name: "Sabian HHX Evolution Hi-Hats",
+          brand: "Sabian",
+          model: "HHX Evolution Hi-Hats 14\"",
           image: "https://upload.wikimedia.org/wikipedia/commons/a/a3/Toms%2C_hi-hat%2C_snare.jpg",
           priceRange: "€320-420 per pair",
           tier: "pro",
-          material: "B20 Bronze, Traditional Finish",
+          material: "B20 Bronze, Brilliant/Natural Finish",
 
-          description: `Mike Mangini of Dream Theater is a long-time Meinl endorser whose complex polyrhythmic hi-hat patterns demand a cymbal that responds to subtle dynamics and intricate technique. The Byzance Traditional's warm, hand-hammered character works beautifully in progressive contexts where the hi-hat is as melodic as it is rhythmic, not just a timekeeping tool.
+          description: `Mike Mangini of Dream Theater and Blake Richardson of Between the Buried and Me both play Sabian HHX Evolution hi-hats — a 14" pair whose crisp, articulate response holds up under complex polyrhythmic and genre-hopping technical playing, translating subtle dynamics without losing definition at either extreme.
 
-Paired with Mangini's Pearl Reference kit and Roland SPD-SX hybrid setup, the Byzance Traditional hi-hats hold up across Dream Theater's dense, dynamically shifting modern material — from ghost-note-quiet passages to full-volume odd-meter assaults.`,
+Paired with Mangini's Pearl Reference kit and Roland SPD-SX hybrid setup, and with Richardson's Tama Starclassic Bubinga kit, the HHX Evolution hi-hats hold up across Dream Theater's and BTBAM's dense, dynamically shifting modern material alike — from ghost-note-quiet passages to full-volume odd-meter assaults.`,
 
           pros: [
-            "Mike Mangini's long-standing Meinl endorsement — Dream Theater's complex polyrhythmic standard",
-            "Dark, complex character with warm overtones",
-            "Hand-hammered for individual response to subtle stick dynamics",
+            "The choice of both Mike Mangini (Dream Theater) and Blake Richardson (BTBAM) — progressive metal's polyrhythmic and genre-hopping standard",
+            "Bright, articulate character with fast, precise stick response",
+            "Hand-finished for individual response to subtle stick dynamics",
             "Excellent for progressive and technical metal specifically",
             "Premium B20 bronze construction"
           ],
           cons: [
-            "Darker tone may not cut as aggressively as brighter alternatives in live mixes",
+            "Brighter tone won't deliver the dark, hand-hammered complexity some prog drummers want",
             "Premium pricing",
-            "Traditional finish less immediately bright than Zildjian A Custom"
+            "Less dark/warm than Meinl's Byzance Dark alternative"
           ],
           specs: {
             material: "B20 bronze",
-            finish: "Traditional",
+            finish: "Brilliant/Natural",
             weight: "Medium",
             diameter: "14\"",
-            series: "Byzance Traditional"
+            series: "HHX Evolution"
           },
           usedBy: [
-            { name: "Mike Mangini", band: "Dream Theater", note: "Meinl endorser — progressive metal polyrhythmic complexity" }
+            { name: "Mike Mangini", band: "Dream Theater", note: "Sabian endorser since 2011 — progressive metal polyrhythmic complexity" },
+            { name: "Blake Richardson", band: "Between the Buried and Me", note: "Sabian endorser since 2018 — BTBAM's genre-hopping technical extremity" }
           ],
-          verdict: "The progressive metal hi-hat standard. Dark, complex, and responsive to Mangini's independent-limb technique.",
+          verdict: "The progressive metal hi-hat standard. Bright, articulate, and responsive to both Mangini's and Richardson's independent-limb technique.",
           rating: 4.8,
-          affiliateLink: "https://www.thomann.de/intl/meinl_byzance_traditional_medium_hi_hats.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/sabian_hhx_evolution_hi_hats.htm?partner_id=metalforge"
         },
         {
           rank: 2,
@@ -94788,16 +94791,16 @@ Paired with Mangini's Pearl Reference kit and Roland SPD-SX hybrid setup, the By
           tier: "pro",
           material: "B20 Bronze (Dark Hand-Hammered)",
 
-          description: `Blake Richardson of Between the Buried and Me trusts Meinl Byzance Dark hi-hats for the dark, hand-hammered complexity that carries BTBAM's whiplash shifts between acoustic-adjacent passages and full technical death metal density. The dark finish eliminates the brilliant sheen, giving the pair a raw, complex character that sits under dense prog metal arrangements better than brighter options.
+          description: `Brann Dailor of Mastodon plays Meinl Byzance Dark hi-hats for the dark, hand-hammered complexity that carries Mastodon's whiplash shifts between sludge-heavy riffing and full technical prog-metal density. The dark finish eliminates the brilliant sheen, giving the pair a raw, complex character that sits under dense prog metal arrangements better than brighter options.
 
-Richardson's technical, genre-hopping approach to drumming — which spans jazz-influenced passages and brutal extremity — is exactly the dynamic range this hi-hat pair is built to handle without ever sounding harsh or thin.`,
+Dailor's technical, genre-blending approach to drumming — which spans atmospheric passages and full extremity — is exactly the dynamic range this hi-hat pair is built to handle without ever sounding harsh or thin.`,
 
           pros: [
-            "Blake Richardson's primary hi-hat choice — BTBAM's progressive death metal extremity",
+            "Brann Dailor's hi-hat choice — Mastodon's progressive, genre-blending standard",
             "Dark, complex B20 tone for prog metal's layered arrangements",
             "Wide dynamic range from soft to heavy playing",
             "Hand-hammered for complex overtone character",
-            "Matches the Byzance Dark crash/ride setup for a cohesive cymbal voice"
+            "Matches a full Byzance crash/ride setup for a cohesive cymbal voice"
           ],
           cons: [
             "Dark tone may lack brightness for more straightforward metal",
@@ -94812,9 +94815,9 @@ Richardson's technical, genre-hopping approach to drumming — which spans jazz-
             series: "Byzance Dark"
           },
           usedBy: [
-            { name: "Blake Richardson", band: "Between the Buried and Me", note: "Byzance Dark — BTBAM's progressive death metal extremity" }
+            { name: "Brann Dailor", band: "Mastodon", note: "Meinl endorser — Mastodon's progressive, genre-blending complexity" }
           ],
-          verdict: "Best for maximum dynamic range and tonal complexity. Richardson's setup handles BTBAM-level dynamic extremes.",
+          verdict: "Best for maximum dynamic range and tonal complexity. Dailor's setup handles Mastodon-level dynamic extremes.",
           rating: 4.7,
           affiliateLink: "https://www.thomann.de/intl/meinl_byzance_dark_hi_hats.htm?partner_id=metalforge"
         },
@@ -94867,7 +94870,7 @@ It's a well-proven option for drummers whose material leans toward brighter prod
           tier: "mid",
           material: "B8/B20 Bronze",
 
-          description: `The Meinl Classics Custom Dark Hi-Hats bring dark, controlled character similar to Mangini's and Richardson's professional Byzance setups to a more accessible price point. They're a sensible entry point for progressive metal drummers who want the genre's signature dark, complex hi-hat sound without the full Byzance investment.
+          description: `The Meinl Classics Custom Dark Hi-Hats bring dark, controlled character similar to Brann Dailor's professional Byzance Dark setup to a more accessible price point. They're a sensible entry point for progressive metal drummers who want that dark, complex hi-hat sound without the full Byzance investment.
 
 The dark finish and complex overtones sit well under dense, dynamically varied progressive metal arrangements, giving developing players a genuine taste of the tonal complexity the genre rewards.`,
 
@@ -94910,7 +94913,7 @@ The dark finish and complex overtones sit well under dense, dynamically varied p
           priceRange: "€150-220 per pair",
           tier: "mid",
           material: "B8/B20 Bronze",
-          description: "See above. The most accessible route to a dark, complex progressive metal hi-hat sound similar to Mangini's and Richardson's Byzance setups.",
+          description: "See above. The most accessible route to a dark, complex progressive metal hi-hat sound similar to Brann Dailor's Byzance Dark setup.",
           pros: ["Dark, controlled character", "Accessible pricing", "Solid durability"],
           cons: ["Not as refined as full Byzance lines"],
           verdict: "Top budget pick for dark, complex progressive metal hi-hats.",
@@ -94922,27 +94925,27 @@ The dark finish and complex overtones sit well under dense, dynamically varied p
 
     // Comparison
     comparison: {
-      title: "Meinl Byzance Traditional vs Byzance Dark for Progressive Metal",
-      content: `The two dominant hi-hat choices in progressive metal come from the same Meinl Byzance family, but serve different ends:
+      title: "Sabian HHX Evolution vs Meinl Byzance Dark for Progressive Metal",
+      content: `The two dominant hi-hat choices among progressive metal's most technical drummers take opposite tonal approaches:
 
-**Byzance Traditional (Mike Mangini's choice):**
-- Warmer, more nuanced character with complex overtones
+**Sabian HHX Evolution (Mike Mangini's and Blake Richardson's choice):**
+- Brighter, more articulate character with fast, precise response
 - Responds beautifully to subtle dynamics and intricate technique
 - Best for: Melodic, polyrhythmic hi-hat work where the hi-hat is a musical voice, not just a timekeeper
 
-**Byzance Dark (Blake Richardson's choice):**
+**Byzance Dark (Brann Dailor's choice):**
 - Darker, more hand-hammered, raw complexity
 - Handles the widest possible dynamic extremes, from acoustic-adjacent to full technical density
-- Best for: Genre-hopping progressive metal that swings between whisper-soft and brutally heavy
+- Best for: Genre-blending progressive metal that swings between whisper-soft and brutally heavy
 
-**The Truth:** Both sit at the top of progressive metal's hi-hat hierarchy. Mangini's Traditional pair proves a warmer, more musical hi-hat voice can carry Dream Theater's most technically demanding material. Richardson's Dark pair proves a darker, rawer character can handle BTBAM's most extreme dynamic swings just as well.
+**The Truth:** Both sit at the top of progressive metal's hi-hat hierarchy. Mangini's and Richardson's HHX Evolution pairs prove a brighter, more articulate hi-hat voice can carry Dream Theater's and BTBAM's most technically demanding material. Dailor's Dark pair proves a darker, rawer character can handle Mastodon's most extreme dynamic swings just as well.
 
-**Our Recommendation:** Choose Byzance Traditional if your material rewards a warmer, more melodic hi-hat voice. Choose Byzance Dark if your material demands the widest possible dynamic range between extremes.`,
+**Our Recommendation:** Choose Sabian HHX Evolution if your material rewards a brighter, more articulate hi-hat voice. Choose Byzance Dark if your material demands the widest possible dynamic range between extremes.`,
       comparisonTable: [
-        { feature: "Warmth and Nuance", byzanceTraditional: "⭐⭐⭐⭐⭐", byzanceDark: "⭐⭐⭐⭐" },
-        { feature: "Dynamic Extremes", byzanceTraditional: "⭐⭐⭐⭐", byzanceDark: "⭐⭐⭐⭐⭐" },
-        { feature: "Live Cut", byzanceTraditional: "⭐⭐⭐", byzanceDark: "⭐⭐⭐" },
-        { feature: "Price Range", byzanceTraditional: "€320-420", byzanceDark: "€300-400" }
+        { feature: "Warmth and Nuance", hhxEvolution: "⭐⭐⭐⭐", byzanceDark: "⭐⭐⭐⭐" },
+        { feature: "Dynamic Extremes", hhxEvolution: "⭐⭐⭐⭐", byzanceDark: "⭐⭐⭐⭐⭐" },
+        { feature: "Live Cut", hhxEvolution: "⭐⭐⭐⭐", byzanceDark: "⭐⭐⭐" },
+        { feature: "Price Range", hhxEvolution: "€320-420", byzanceDark: "€300-400" }
       ]
     },
 
@@ -94952,13 +94955,13 @@ The dark finish and complex overtones sit well under dense, dynamically varied p
       picks: [
         {
           category: "Best Overall",
-          pedal: "Meinl Byzance Traditional Hi-Hats",
-          reason: "Mike Mangini's choice — warm, complex, and responsive to progressive metal's most intricate technique."
+          pedal: "Sabian HHX Evolution Hi-Hats",
+          reason: "Mike Mangini's and Blake Richardson's choice — bright, articulate, and responsive to progressive metal's most intricate technique."
         },
         {
           category: "Best for Dynamic Extremes",
           pedal: "Meinl Byzance Dark Hi-Hats",
-          reason: "Blake Richardson's choice — handles BTBAM's whiplash shifts between soft and brutally heavy."
+          reason: "Brann Dailor's choice — handles Mastodon's whiplash shifts between soft and brutally heavy."
         },
         {
           category: "Best Brighter Alternative",
@@ -94980,29 +94983,32 @@ The dark finish and complex overtones sit well under dense, dynamically varied p
       'best-drum-pedals-for-progressive-metal'
     ],
     relatedDrummers: [
-      { slug: 'mike-mangini', name: 'Mike Mangini', reason: 'Meinl Byzance Traditional — Dream Theater polyrhythmic complexity' },
-      { slug: 'blake-richardson', name: 'Blake Richardson', reason: 'Meinl Byzance Dark — BTBAM dynamic extremes' }
+      { slug: 'mike-mangini', name: 'Mike Mangini', reason: 'Sabian HHX Evolution — Dream Theater polyrhythmic complexity' },
+      { slug: 'blake-richardson', name: 'Blake Richardson', reason: 'Sabian HHX Evolution — BTBAM genre-hopping technical extremity' },
+      { slug: 'brann-dailor', name: 'Brann Dailor', reason: 'Meinl Byzance Dark — Mastodon dynamic extremes' }
     ],
 
     // Featured drummers (issue template)
     featuredDrummers: [
-      { slug: 'mike-mangini', name: 'Mike Mangini', reason: 'Meinl Byzance Traditional for progressive metal polyrhythmic complexity' },
-      { slug: 'blake-richardson', name: 'Blake Richardson', reason: 'Meinl Byzance Dark for BTBAM dynamic extremes' }
+      { slug: 'mike-mangini', name: 'Mike Mangini', reason: 'Sabian HHX Evolution for progressive metal polyrhythmic complexity' },
+      { slug: 'blake-richardson', name: 'Blake Richardson', reason: 'Sabian HHX Evolution for BTBAM genre-hopping technical extremity' },
+      { slug: 'brann-dailor', name: 'Brann Dailor', reason: 'Meinl Byzance Dark for Mastodon dynamic extremes' }
     ],
 
     // FAQ section for SEO
     faq: [
       {
         question: "What hi-hats does Mike Mangini use?",
-        answer: "Mike Mangini of Dream Theater is a long-time Meinl endorser who plays Byzance Traditional Medium Hi-Hats, valued for their warm, complex character that responds to the subtle dynamics and intricate technique his polyrhythmic playing demands."
+        answer: "Mike Mangini of Dream Theater plays 14\" Sabian HHX Evolution Hi-Hats, part of his Sabian HHX/AAX cymbal setup, valued for their crisp, articulate character that responds to the subtle dynamics and intricate technique his polyrhythmic playing demands."
       },
       {
         question: "What hi-hats does Blake Richardson use?",
-        answer: "Blake Richardson of Between the Buried and Me plays Meinl Byzance Dark hi-hats, chosen for the dark, hand-hammered complexity that carries BTBAM's dramatic shifts between acoustic-adjacent passages and full technical death metal density."
+        answer: "Blake Richardson of Between the Buried and Me plays 14\" Sabian HHX Evolution Hi-Hats, part of his Sabian HHX Evolution/AAX/HH cymbal setup, chosen for the crisp, articulate response that carries BTBAM's dramatic shifts between acoustic-adjacent passages and full technical density."
       },
       {
         question: "Dark or bright hi-hats for progressive metal?",
-        answer: "Both work at the highest level. Dark hi-hats (Meinl Byzance Traditional or Dark, used by Mangini and Richardson) suit progressive metal's dense, layered arrangements and dynamic complexity. Brighter hi-hats (Zildjian A Custom) suit drummers who want more immediate live cut or split time with more straightforward metal styles."
+        answer: `Both work at the highest level. Bright, articulate hi-hats (Sabian HHX Evolution, used by Mangini and Richardson) suit progressive metal's polyrhythmic, technically demanding material.
+Dark hi-hats (Meinl Byzance Dark, used by Brann Dailor of Mastodon) suit drummers whose material swings across the widest dynamic extremes.`
       },
       {
         question: "What size hi-hats are best for progressive metal?",
@@ -95010,14 +95016,14 @@ The dark finish and complex overtones sit well under dense, dynamically varied p
       },
       {
         question: "Do I need Meinl Byzance hi-hats to play progressive metal?",
-        answer: "No — the Meinl Classics Custom Dark Hi-Hats offer a similar dark, controlled character to Mangini and Richardson's professional Byzance setups at a fraction of the price, giving developing prog metal drummers a genuine entry into the genre's signature hi-hat sound."
+        answer: "No — the Meinl Classics Custom Dark Hi-Hats offer a similar dark, controlled character to Brann Dailor's professional Byzance Dark setup at a fraction of the price, giving developing prog metal drummers a genuine entry into that dark, complex hi-hat sound."
       }
     ],
 
     // Conclusion
     conclusion: {
       title: "Find Your Progressive Metal Hi-Hat Voice",
-      content: `Progressive metal hi-hat choice comes down to how wide a dynamic range your material demands. Mike Mangini's Byzance Traditional pair proves a warmer, more musical hi-hat voice can carry Dream Theater's most technically demanding, polyrhythmic material. Blake Richardson's Byzance Dark pair proves a darker, hand-hammered character can handle BTBAM's most extreme swings between whisper-soft and full technical density.
+      content: `Progressive metal hi-hat choice comes down to how wide a dynamic range your material demands. Mike Mangini's and Blake Richardson's Sabian HHX Evolution pairs prove a brighter, more articulate hi-hat voice can carry Dream Theater's and BTBAM's most technically demanding, polyrhythmic material. Brann Dailor's Byzance Dark pair proves a darker, hand-hammered character can handle Mastodon's most extreme swings between whisper-soft and full technical density.
 
 Whichever you choose, remember that in progressive metal, the hi-hat is rarely just a timekeeper — it's often as melodic and expressive as any other voice in the kit. Prioritize dynamic range and tonal complexity over raw cutting power, and let your material guide the final choice.
 

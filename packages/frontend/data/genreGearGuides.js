@@ -5340,7 +5340,7 @@ Don't neglect the resonant side. Evans G1 Clear or Remo Ambassador Clear let you
     // Introduction
     intro: {
       title: "The Right Cymbals Define Your Metal Sound",
-      content: `In metal drumming, cymbals are the most personal gear choice you'll make. While drum heads can be swapped in minutes and pedals adjusted on stage, your cymbal setup defines your sound in a way no EQ or processing can fully replicate. The shimmer of Zildjian A Customs on a Lars Ulrich recording, the explosive crash of Paiste 2002s behind Mikkey Dee's Scorpions power, the dark wash of Meinl Byzance under Mike Mangini's progressive complexity — these are sonic signatures as recognizable as the drummers who created them.
+      content: `In metal drumming, cymbals are the most personal gear choice you'll make. While drum heads can be swapped in minutes and pedals adjusted on stage, your cymbal setup defines your sound in a way no EQ or processing can fully replicate. The shimmer of Zildjian A Customs on a Lars Ulrich recording, the explosive crash of Paiste 2002s behind Mikkey Dee's Scorpions power, the dark wash of Meinl Byzance under Dirk Verbeuren's technical precision — these are sonic signatures as recognizable as the drummers who created them.
 
 Metal places unique demands on cymbals. They need to cut through dense, downtuned guitar walls without disappearing. Crash cymbals must respond to aggressive hits and choke cleanly for tight accents. Hi-hats need to handle both tight closed patterns at high tempo and explosive open accents. Ride cymbals must maintain clarity in a dense mix. And everything needs to survive the physical punishment of aggressive playing.
 
@@ -5499,7 +5499,7 @@ Mikkey Dee of Scorpions (and formerly Motörhead) has used Paiste throughout his
 
           description: `The Meinl Byzance has become the premier choice for modern technical and progressive metal, valued for its complex, dark, musical character that adds depth rather than just volume. Where Zildjian A Custom cuts with brightness and Paiste 2002 explodes with power, Meinl Byzance whispers complexity and rewards players who listen carefully.
 
-Mike Mangini of Dream Theater uses Meinl cymbals extensively, building setups that can handle the complex dynamics of progressive metal — from whisper-soft musical passages to thundering climaxes. Dirk Verbeuren of Megadeth uses Meinl for the technical precision required in modern thrash. The Byzance Traditional and Vintage series have replaced older metal standbys for many modern players.`,
+Dirk Verbeuren of Megadeth uses Meinl for the technical precision required in modern thrash. The Byzance Traditional and Vintage series have replaced older metal standbys for many modern players.`,
 
           pros: [
             "Complex, dark, musical tone with depth",
@@ -5522,10 +5522,8 @@ Mike Mangini of Dream Theater uses Meinl cymbals extensively, building setups th
             rideRange: "20\" - 24\""
           },
           usedBy: [
-            { name: "Mike Mangini", band: "Dream Theater", note: "Progressive metal complexity" },
             { name: "Dirk Verbeuren", band: "Megadeth", note: "Modern technical thrash" },
             { name: "Brann Dailor", band: "Mastodon", note: "Progressive sludge metal" },
-            { name: "Mario Duplantier", band: "Gojira", note: "Modern extreme metal dynamics" },
             { name: "Matt Halpern", band: "Periphery", note: "Djent / modern progressive metal" }
           ],
           verdict: "The modern technical metal choice. Dark, complex, musical — for drummers who want depth over brightness.",
@@ -5660,7 +5658,7 @@ Vinnie Paul of Pantera used Sabian cymbals throughout the band's most influentia
 - Dark, complex, musical — most nuanced of the four
 - Hand-hammered character adds depth and complexity
 - Growing presence in modern technical and progressive metal
-- Preferred by: Mike Mangini, Dirk Verbeuren, Brann Dailor
+- Preferred by: Dirk Verbeuren, Brann Dailor
 
 **Sabian AAX:**
 - Versatile mid-ground between bright and musical
@@ -5695,7 +5693,7 @@ Vinnie Paul of Pantera used Sabian cymbals throughout the band's most influentia
         {
           category: "Best for Modern/Progressive Metal",
           pedal: "Meinl Byzance",
-          reason: "Dark, complex, musical — preferred by Mike Mangini, Dirk Verbeuren, and the modern technical metal scene."
+          reason: "Dark, complex, musical — preferred by Dirk Verbeuren, Brann Dailor, and the modern technical metal scene."
         },
         {
           category: "Best Value",
@@ -5719,7 +5717,7 @@ Vinnie Paul of Pantera used Sabian cymbals throughout the band's most influentia
     relatedDrummers: [
       { slug: 'lars-ulrich', name: 'Lars Ulrich', reason: 'Zildjian A Custom — the pro metal standard' },
       { slug: 'mikkey-dee', name: 'Mikkey Dee', reason: 'Paiste 2002 — classic heavy metal power' },
-      { slug: 'mike-mangini', name: 'Mike Mangini', reason: 'Meinl Byzance — progressive metal depth' },
+      { slug: 'dirk-verbeuren', name: 'Dirk Verbeuren', reason: 'Meinl Byzance — modern technical thrash precision' },
       { slug: 'vinnie-paul', name: 'Vinnie Paul', reason: 'Sabian AAX — Pantera groove metal power' }
     ],
 
@@ -5727,7 +5725,7 @@ Vinnie Paul of Pantera used Sabian cymbals throughout the band's most influentia
     faq: [
       {
         question: "What cymbals do metal drummers use?",
-        answer: "Most professional metal drummers use Zildjian A Custom (Lars Ulrich), Paiste 2002 (Mikkey Dee), Meinl Byzance (Mike Mangini, Dirk Verbeuren), or Sabian AAX (Vinnie Paul, Paul Bostaph). Zildjian A Custom is the single most common choice on MetalForge's roster. All are B20 bronze or equivalent high-quality alloy for complex, musical tone."
+        answer: "Most professional metal drummers use Zildjian A Custom (Lars Ulrich), Paiste 2002 (Mikkey Dee), Meinl Byzance (Dirk Verbeuren), or Sabian AAX (Vinnie Paul, Paul Bostaph). Zildjian A Custom is the single most common choice on MetalForge's roster. All are B20 bronze or equivalent high-quality alloy for complex, musical tone."
       },
       {
         question: "Are Zildjian or Paiste better for metal?",

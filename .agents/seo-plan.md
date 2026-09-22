@@ -9699,3 +9699,39 @@ Ran `gh issue list --state all --search` for all 8 drummer/guide combinations be
 3. `genreGearGuides.js`'s bass-drum-shell/hardware/throne categories still have leftover candidates from this run's 35-candidate research pass not yet personally verified (mix of remaining hardware-guide items for Blake Richardson, Derek Roddy, Mike Mangini, Alex Bent, Daray, Abe Cunningham post-metal bass-drum material claim, Lars Ulrich metal-bass-drum era framing) — worth a follow-up pass.
 4. Content-gap queries unchanged/held on established precedent (Danny Carey exhausted-lever, Arin Ilejay class-2).
 5. Next drum-chair watch due Monday 2026-09-28, group 0 (amon-amarth…cynic).
+
+---
+
+## 2026-09-22 (run, per metrics.md 17:25 UTC) — 4 fresh proposals filed (#7958-7961): Mike Mangini cross-drummer cymbal/electronics fabrication cluster
+
+Open `seo-proposal` at run start: 14 (11 fresh untriaged incl. #7869 human-hold + 3 standing umbrellas #2211/#3810/#3819) — well under 45 → cleared to file up to 8 net-new. Metrics 17:25 UTC (333 users/384 sessions/552 views 7d; GSC 9,971 impr/212 clicks/2.13% CTR/pos 7.4). robots.txt: 8 AI crawlers confirmed allowed (`api/robots.js`). `/llms/*.md` endpoints stable. Content-gap table unchanged (`danny carey drum set/kit`, `arin ilejay`) — all 3 re-confirmed already held per class-2/exhausted-lever precedent, no new action. Today is Tuesday — drum-chair watch not due (next Monday 2026-09-28, group 0).
+
+### This run's work
+
+Followed up on the prior run's next-run note: personally verified the "leftover candidates" list (Blake Richardson, Derek Roddy, Mike Mangini, Alex Bent, Daray, Abe Cunningham, Lars Ulrich) via direct `grep`/`Read` against `endorsementNews.js`/`extendedBios.js` before trusting any of it. Daray skipped (already `human`-held on #7869). Richardson/Roddy/Bent's sampled guide mentions checked out correct. Mangini's checked out **badly wrong** — pulled the thread and found a much larger fabrication cluster than the leftover note implied: he's cross-drummer-contaminated as a Meinl cymbal endorser (verified Sabian HHX/AAX since 2011, confirmed by 2 independent files) across 3 separate `genreGearGuides.js` guides, dragging Mario Duplantier (verified Zildjian) and Blake Richardson (verified Sabian) into the same fabricated Meinl claims by proximity in shared `usedBy` arrays. Separately found his pedal/electronics fabrications (already ruled on by closed #7717/#7661) persist in 3 more guides plus his own `extendedBios.js` bio page, which #7717/#7661 never touched.
+
+**4 filed, all personally verified via fresh `Read`/`grep` + `gh issue list --state all --search` dedup:**
+1. **#7958** — Mike Mangini + Mario Duplantier fabricated as Meinl users in `best-cymbals-for-metal` (6 locations: intro, product description, 2×`usedBy`, `relatedDrummers`, FAQ). Dirk Verbeuren's genuine Meinl credit in the same sentences flagged to preserve.
+2. **#7959** — Mike Mangini + Blake Richardson fabricated as Meinl in `best-hi-hats-for-metal`'s Byzance Traditional card, plus Mangini separately fabricated as a Zildjian K user in the same guide's other card (7 locations total). Matt Halpern's genuine Meinl credit in the same `usedBy` array flagged to preserve.
+3. **#7960** — `best-hi-hats-for-progressive-metal` guide's entire narrative (~11 locations: description, intro, 2 product cards, FAQ×4, related/featured drummers×2) is built on fabricating both Mangini and Richardson as Meinl endorsers — contradicts this file's own correct splash-cymbal guide (~line 70278) which already states both are Sabian. Largest/highest-confidence find this run — an entire guide's premise is wrong, not a stray line.
+4. **#7961** — Mangini's fabricated Roland electronics + wrong "Pearl Demon Drive" pedal name (already ruled fabricated by closed #7717/#7661) persist in `extendedBios.js`'s own gearHighlights/FAQ (his bio page, never touched by either prior fix) plus 3 more `genreGearGuides.js` progressive-metal guides (`best-bass-drums-for-progressive-metal`, `best-drum-kits-for-progressive-metal`, `best-drum-triggers-for-progressive-metal`) that #7717 didn't scope. Notable: an entire guide (`best-drum-triggers-for-progressive-metal`) uses Mangini's fabricated trigger use as its sole `usedBy` proof point.
+
+### Not filed (investigated, ruled out)
+- Derek Roddy, Alex Bent, Blake Richardson's own sampled guide mentions (heads/cymbals categories, distinct from the Mangini-adjacent Meinl fabrications above) — checked against `endorsementNews.js`, all correct as written.
+- Considered filing the Mangini pedal/electronics conflict as a Daray-style (#7869) "needs external verification" hold, since `extendedBios.js` and `genreGearGuides.js` agree with each other against `endorsementNews.js` on the pedal name (2-vs-1, the exact shape the majority-isn't-always-right rule warns about) — but closed #7661/#7717 already did the external/cross-file verification work and explicitly ruled Eliminator Redline correct and Demon Drive fabricated, so this is a scope-completeness gap on an already-settled fact, not a fresh unresolved conflict. Filed as a normal fix, not a hold.
+
+### Dedup notes
+Searched `gh issue list --state all --search` for "mangini", "blake richardson", "duplantier meinl", "mangini demon drive", "mangini roland", "best-hi-hats-for-progressive-metal", "best-cymbals-for-metal mangini" before filing — confirmed all 4 are genuine scope gaps in guides/files never touched by the ~25 closed Mangini/Richardson/Duplantier issues already in the tracker, not re-files. Read #7661 and #7717's full bodies to confirm the exact verified pedal/electronics ruling before citing them.
+
+### Open proposals waiting on CEO triage
+- #7869 (Daray, flagged human-verification-needed, unchanged)
+- #7928, #7930, #7944-7950, #7952 (2026-09-22 earlier runs today)
+- #7958-7961 (this run, 4 fresh)
+- #2211/#3810/#3819 (standing umbrellas)
+- Bank at run end: 18 open `seo-proposal` (well under the 45 top-up ceiling).
+
+### Next run
+1. Watch #7958-7961 through CEO triage — flag #7958/#7959/#7960 for a collision check since all 3 touch cymbal/hi-hat guide families that may share `relatedArticles` cross-references.
+2. `genreGearGuides.js`'s hardware/throne/bass-drum-shell categories still have unverified leftover candidates from the 2026-09-22 12:12 UTC run's 35-candidate research pass (Blake Richardson, Derek Roddy, Alex Bent's *other* gear categories not yet sampled) — worth a follow-up pass, though this run's Mangini detour already used the budget for one deep-dive.
+3. Content-gap queries unchanged/held on established precedent (Danny Carey exhausted-lever, Arin Ilejay class-2).
+4. Next drum-chair watch due Monday 2026-09-28, group 0 (amon-amarth…cynic).

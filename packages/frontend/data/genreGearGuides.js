@@ -26363,7 +26363,7 @@ Start with a 22"x16"-18" birch or maple shell and a reinforced head like the Rem
     // SEO metadata
     title: "Best Drum Thrones for Metal: 2026 Ultimate Guide",
     metaTitle: "Best Drum Thrones for Metal in 2026 | MetalForge Expert Guide",
-    description: "Discover the best drum thrones for metal drumming. Expert recommendations on seat height, hydraulic vs air-lift lift systems, and saddle shape for endurance during long extreme-metal sets, featuring the exact thrones used by Mike Portnoy, George Kollias, and Mario Duplantier.",
+    description: "Discover the best drum thrones for metal drumming. Expert recommendations on seat height, hydraulic vs air-lift lift systems, and saddle shape for endurance during long extreme-metal sets, featuring the exact thrones used by George Kollias and Mario Duplantier.",
     seoKeywords: [
       'best drum throne for metal',
       'drum throne for long sets',
@@ -26372,7 +26372,7 @@ Start with a 22"x16"-18" birch or maple shell and a reinforced head like the Rem
       'air lift drum throne',
       'drum throne back pain',
       'george kollias throne',
-      'mike portnoy throne',
+      'mario duplantier throne',
       'best drum seat for drummers',
       'motorcycle throne drums'
     ],
@@ -26400,7 +26400,7 @@ Start with a 22"x16"-18" birch or maple shell and a reinforced head like the Rem
       title: "Why Your Throne Matters More Than You Think",
       content: `Metal drummers obsess over pedals, cymbals, and snares — and almost never think about the one piece of hardware they're in physical contact with for the entire set: the throne. That's a mistake. A wobbly base, a saddle with the wrong shape, or a seat set at the wrong height doesn't just cause discomfort; it actively works against your technique, forcing compensations in your hips and lower back that sap power from every kick and rob speed from every blast beat.
 
-Mike Portnoy has built a career on marathon three-hour-plus Dream Theater sets, and his Tama 1st Chair Ergo-Rider throne is engineered specifically to support that endurance. George Kollias, one of the fastest recorded double-bass drummers in death metal, sits on a Pearl D-3000 for the rock-solid stability his 260+ BPM technique demands. Mario Duplantier (Gojira) pairs a Tama 1st Chair Throne with a full in-ear monitor system for the precision Gojira's arena tours require — proof that top-tier drummers treat the throne as mission-critical equipment, not an afterthought.
+George Kollias, one of the fastest recorded double-bass drummers in death metal, sits on a Pearl D-3000 for the rock-solid stability his 260+ BPM technique demands. Mario Duplantier (Gojira) pairs a Tama 1st Chair Ergo-Rider throne with a full in-ear monitor system for the precision Gojira's arena tours require — proof that top-tier drummers treat the throne as mission-critical equipment, not an afterthought.
 
 This guide breaks down exactly what to look for in a metal drum throne — seat height and adjustability, hydraulic vs air-lift systems, and saddle vs round-top shape — and recommends specific thrones across every budget, from bedroom practice to touring rigs.`,
       keyPoints: [
@@ -26469,7 +26469,7 @@ This guide breaks down exactly what to look for in a metal drum throne — seat 
           driveType: "Saddle, Hydraulic Height",
           description: `The Ergo-Rider's contoured saddle seat and hydraulic height adjustment make it a favorite for drummers who spend hours behind the kit. The wide, double-braced round base stays planted through the most aggressive playing, while the ergonomic tilt keeps hips properly aligned over a full set.
 
-Mike Portnoy has relied on a Tama 1st Chair Ergo-Rider throughout Dream Theater's marathon three-hour-plus performances, and Mario Duplantier (Gojira) pairs the same 1st Chair platform with a full in-ear monitor system on Gojira's arena tours — proof this throne holds up night after night at the highest level.`,
+Mario Duplantier (Gojira) pairs the same 1st Chair platform with a full in-ear monitor system on Gojira's arena tours — proof this throne holds up night after night at the highest level.`,
           pros: [
             "Hydraulic height adjustment — no threading required",
             "Contoured saddle seat reduces hip and leg fatigue",
@@ -26490,7 +26490,6 @@ Mike Portnoy has relied on a Tama 1st Chair Ergo-Rider throughout Dream Theater'
             weight: "6.8 kg"
           },
           usedBy: [
-            { name: "Mike Portnoy", band: "Dream Theater", note: "Marathon three-hour-plus sets" },
             { name: "Mario Duplantier", band: "Gojira", note: "Arena touring with full IEM integration" },
             { name: "Lars Ulrich", band: "Metallica", note: "Four decades on the 1st Chair platform" }
           ],
@@ -26689,7 +26688,7 @@ Less common in pure extreme metal but favored by drummers who run DW's full 9000
 **Saddle (Motorcycle-Style):**
 - Contours to your thighs, distributing weight more evenly
 - Reduces numbness and hip strain on sets over 45 minutes
-- Preferred by: Mike Portnoy
+- Preferred by: Mario Duplantier
 
 **Round Top:**
 - Simpler design, generally more affordable
@@ -26742,7 +26741,6 @@ Less common in pure extreme metal but favored by drummers who run DW's full 9000
       'best-drum-kits-for-death-metal'
     ],
     relatedDrummers: [
-      { slug: 'mike-portnoy', name: 'Mike Portnoy', reason: 'Marathon three-hour-plus sets' },
       { slug: 'george-kollias', name: 'George Kollias', reason: '260+ BPM double-bass endurance' },
       { slug: 'mario-duplantier', name: 'Mario Duplantier', reason: 'Arena touring throne + IEM setup' }
     ],
@@ -26753,10 +26751,6 @@ Less common in pure extreme metal but favored by drummers who run DW's full 9000
       {
         question: "What drum throne does George Kollias use?",
         answer: "George Kollias (Nile) plays a Pearl D-3000 throne, valued for the wide, stable round top that keeps him locked in place during his signature 260+ BPM double-bass technique."
-      },
-      {
-        question: "What throne does Mike Portnoy use?",
-        answer: "Mike Portnoy uses a Tama 1st Chair Ergo-Rider throne, with a contoured saddle seat and hydraulic height adjustment built to support Dream Theater's marathon three-hour-plus performances."
       },
       {
         question: "Should I get a saddle or round-top throne for metal?",
@@ -26775,7 +26769,7 @@ Less common in pure extreme metal but favored by drummers who run DW's full 9000
     // Conclusion
     conclusion: {
       title: "Sit Like You Mean It",
-      content: `The throne is the one piece of gear you're in contact with for an entire set, yet it's the last thing most drummers upgrade. Mike Portnoy's Tama Ergo-Rider and George Kollias's Pearl D-3000 prove that pro-level drummers treat throne choice with the same seriousness as their pedals and cymbals.
+      content: `The throne is the one piece of gear you're in contact with for an entire set, yet it's the last thing most drummers upgrade. Mario Duplantier's Tama 1st Chair Ergo-Rider and George Kollias's Pearl D-3000 prove that pro-level drummers treat throne choice with the same seriousness as their pedals and cymbals.
 
 Match your throne to your playing: a wide, stable round top if you're chasing extreme tempos, a contoured saddle if your sets run long. Either way, invest in firm padding and a genuinely double-braced base — your back, hips, and stamina will thank you by the second set of the night.
 
@@ -109055,12 +109049,12 @@ Whatever you choose, prioritize precise memory locks and double-braced construct
       title: "Why Progressive Metal Hardware Has to Support an Entire Orchestra of Percussion",
       content: `Progressive metal kits are frequently the largest in all of metal — massive multi-tom arrays, wide multi-cymbal spreads, auxiliary percussion, and often full electronic trigger setups, all built to support compositions that shift constantly between odd meters, dynamics, and textures within a single song. Supporting that scale of instrumentation with standalone stands alone quickly becomes impossible; progressive metal is the genre where rack systems went from a convenience to an outright necessity.
 
-Mike Portnoy, Dream Theater's original drummer and now of Sons of Apollo, built his reputation on some of the largest, most elaborate kits in progressive metal history, anchored by Tama Iron Cobra Power Glide hardware and a Tama 1st Chair Ergo-Rider Throne engineered for the stamina his marathon, multi-part arrangements demand. Mike Mangini, who joined Dream Theater in 2010, runs a Pearl Eliminator Redline-anchored rig built for the independently articulated limb technique that defines his playing. Danny Carey of Tool relies on Sonor Giant Step Twin Effect hardware to anchor a kit that also carries Mandala Drum electronic pads, while Mario Duplantier of Gojira depends on Tama Iron Cobra 900 hardware and a matching Tama 1st Chair Ergo-Rider Throne to support Gojira's blend of technical precision and crushing weight.
+Mike Portnoy, Dream Theater's original drummer and now of Sons of Apollo, built his reputation on some of the largest, most elaborate kits in progressive metal history, anchored by his Tama Iron Cobra Power Glide Twin Pedal and heavy-duty hardware engineered for the demands of his marathon, multi-part arrangements. Mike Mangini, who joined Dream Theater in 2010, runs a Pearl Eliminator Redline-anchored rig built for the independently articulated limb technique that defines his playing. Danny Carey of Tool relies on Sonor Giant Step Twin Effect hardware to anchor a kit that also carries Mandala Drum electronic pads, while Mario Duplantier of Gojira depends on Tama Iron Cobra 900 hardware and a matching Tama 1st Chair Ergo-Rider Throne to support Gojira's blend of technical precision and crushing weight.
 
 This guide breaks down what actually makes progressive metal hardware capable of supporting a genuinely large, multi-part kit, which specific hardware the genre's most demanding players actually rely on, and where to spend versus where to save.`,
       keyPoints: [
         "Progressive metal kits are often the largest in metal, making rack systems a necessity rather than a convenience",
-        "Mike Portnoy's Tama hardware and Ergo-Rider throne were built to support some of the genre's most elaborate multi-part kits",
+        "Mike Portnoy's Tama Iron Cobra Power Glide Twin Pedal hardware was built to support some of the genre's most elaborate multi-part kits",
         "Mike Mangini's Pearl-anchored rig is built for the independently articulated limb technique his material demands",
         "Danny Carey and Mario Duplantier both prove that heavy multi-tom, multi-cymbal demands need hardware engineered for real structural load"
       ]
@@ -109091,7 +109085,7 @@ This guide breaks down what actually makes progressive metal hardware capable of
         {
           name: "Marathon-Set Throne Stability",
           icon: "🪑",
-          description: "Progressive metal songs and sets routinely run far longer than standard metal material — Mike Portnoy's Tama 1st Chair Ergo-Rider Throne was engineered specifically for the stamina and lower-back support his marathon, multi-part performances demand.",
+          description: "Progressive metal songs and sets routinely run far longer than standard metal material — Mario Duplantier's Tama 1st Chair Ergo-Rider Throne was engineered specifically for the stamina and lower-back support his marathon, multi-part performances demand.",
           recommendation: "An ergonomic, double-braced throne built for stamina across extended, multi-part performances"
         },
         {
@@ -109399,7 +109393,7 @@ The modular clamp system handles both acoustic percussion and auxiliary/electron
       'best-drum-triggers-for-progressive-metal'
     ],
     relatedDrummers: [
-      { slug: 'mike-portnoy', name: 'Mike Portnoy', reason: 'Tama hardware and Ergo-Rider Throne for elaborate multi-part kits' },
+      { slug: 'mike-portnoy', name: 'Mike Portnoy', reason: 'Tama Iron Cobra Power Glide Twin Pedal hardware for elaborate multi-part kits' },
       { slug: 'mike-mangini', name: 'Mike Mangini', reason: 'Pearl hardware integrating a Roland SPD-SX sampling pad' },
       { slug: 'danny-carey', name: 'Danny Carey', reason: 'Sonor hardware supporting a hybrid acoustic-electronic rig' },
       { slug: 'mario-duplantier', name: 'Mario Duplantier', reason: 'Tama hardware for technical precision and crushing weight' }
@@ -109416,7 +109410,7 @@ The modular clamp system handles both acoustic percussion and auxiliary/electron
     faq: [
       {
         question: "What hardware do progressive metal drummers use?",
-        answer: "Progressive metal's biggest kits run on rack systems and heavy-duty standalone hardware — Mike Portnoy uses Tama Iron Cobra Power Glide hardware and a Tama 1st Chair Ergo-Rider Throne, Mike Mangini runs Pearl hardware integrated with a Roland SPD-SX, Danny Carey relies on Sonor Giant Step Twin Effect hardware, and Mario Duplantier uses Tama Iron Cobra 900 hardware."
+        answer: "Progressive metal's biggest kits run on rack systems and heavy-duty standalone hardware — Mike Portnoy uses a Tama Iron Cobra Power Glide Twin Pedal, Mike Mangini runs Pearl hardware integrated with a Roland SPD-SX, Danny Carey relies on Sonor Giant Step Twin Effect hardware, and Mario Duplantier uses Tama Iron Cobra 900 hardware."
       },
       {
         question: "Do I need a rack system for progressive metal?",
@@ -109425,10 +109419,6 @@ The modular clamp system handles both acoustic percussion and auxiliary/electron
       {
         question: "How do drummers mount electronic pads on a progressive metal kit?",
         answer: "Mike Mangini's Roland SPD-SX and Danny Carey's Mandala Drum pads are both mounted using rack hardware with modular clamps compatible with both acoustic and electronic gear — Pearl's ICON rack and similar hybrid systems are built specifically for this kind of combined mounting."
-      },
-      {
-        question: "What throne does Mike Portnoy use?",
-        answer: "Mike Portnoy plays a Tama 1st Chair Ergo-Rider Throne, engineered specifically for the stamina and lower-back support his marathon, multi-part Dream Theater and Sons of Apollo performances demand across extended sets."
       },
       {
         question: "Is budget hardware reliable enough for a large progressive metal kit?",

@@ -68150,13 +68150,13 @@ Budget shouldn't stop you either. A Tama Metalworks or Pearl Modern Utility snar
 
 George Kollias of Nile plays a Pearl George Kollias Signature 14"x6.5" brass snare, relying on its cutting articulation to slice through Nile's densely layered technical death metal even while sustaining blast beats past 240 BPM. Pete Sandoval of Morbid Angel built his gravity-blast sound on a ddrum maple snare (specific model unconfirmed) through his 2013 departure from the band, valuing the warm, controlled response that survived his uniquely punishing technique. Derek Roddy of Hate Eternal and Nile plays a Tama Starclassic Bubinga 14"x6.5" snare, prized for the crack and durability that hold up across his "One Take" recording sessions and relentless touring schedule.
 
-Gene Hoglan of Death and Testament plays a Tama Gene Hoglan Signature 14"x8" steel snare, an exceptionally deep shell built for the thunderous power and cutting attack his metronomic "Atomic Clock" precision demands.
+During his 2008-2018 Tama era with Death, Testament, and Dethklok, Gene Hoglan used his Tama Gene Hoglan Signature 14"x8" steel snare, an exceptionally deep shell built for the thunderous power and cutting attack his metronomic "Atomic Clock" precision demands. Hoglan's current kit is Pearl Reference Pure, endorsed since 2018.
 
 This guide breaks down what actually makes a snare survive extreme metal's demands — durability, fast response, and consistent crack under sustained abuse — and recommends specific models across every budget, from a first touring-durable snare to the exact drums extreme metal's most demanding drummers play.`,
       keyPoints: [
         "Extreme metal's sustained blast beats destroy snares that work fine in slower metal styles — durability is not optional",
         "George Kollias's Pearl Signature brass snare and Derek Roddy's Tama Starclassic Bubinga snare both prioritize cutting crack under repeated impact",
-        "Gene Hoglan's unusually deep 14x8\" steel snare shows how depth can add thunderous power without sacrificing attack",
+        "During his 2008-2018 Tama era, Gene Hoglan's unusually deep 14x8\" steel signature snare showed how depth can add thunderous power without sacrificing attack",
         "14x6.5\" is the most common depth across extreme metal's fastest drummers, balancing crack, body, and fast response"
       ]
     },
@@ -68186,7 +68186,7 @@ This guide breaks down what actually makes a snare survive extreme metal's deman
         {
           name: "Deeper Shells for Thunderous Power",
           icon: "🔩",
-          description: "Gene Hoglan's Tama Signature snare runs deeper at 14x8\", trading some of the instant crack a shallower shell offers for thunderous low-end power that anchors his metronomic, groove-heavy attack.",
+          description: "During his 2008-2018 Tama era, Gene Hoglan's Tama Signature snare ran deeper at 14x8\", trading some of the instant crack a shallower shell offers for thunderous low-end power that anchored his metronomic, groove-heavy attack.",
           recommendation: "A deeper 14x8\" shell if your playing leans on power and groove over pure blast-beat speed"
         },
         {
@@ -68298,12 +68298,12 @@ Paired with Meinl Byzance cymbals and a Tama Speed Cobra 910 double pedal, the S
           tier: "pro",
           material: "Steel",
 
-          description: `Gene Hoglan's Tama Gene Hoglan Signature 14"x8" steel snare is an unusually deep shell built for thunderous power and cutting attack. "The Atomic Clock" needs a snare that projects with authority across Death, Testament, and Dethklok's varied extreme metal styles, from blast beats to grooving mid-tempo sections.
+          description: `During his 2008-2018 Tama era, Gene Hoglan's Tama Gene Hoglan Signature 14"x8" steel snare was an unusually deep shell built for thunderous power and cutting attack. "The Atomic Clock" needed a snare that projected with authority across Death, Testament, and Dethklok's varied extreme metal styles, from blast beats to grooving mid-tempo sections.
 
-The extra 8" depth trades some of the instant crack a shallower shell offers for low-end weight that anchors Hoglan's metronomic precision, giving his snare hits a thunderous quality distinct from the faster, shallower snares favored elsewhere in extreme metal.`,
+The extra 8" depth traded some of the instant crack a shallower shell offers for low-end weight that anchored Hoglan's metronomic precision, giving his snare hits a thunderous quality distinct from the faster, shallower snares favored elsewhere in extreme metal. Hoglan's current kit (since 2018) is Pearl Reference Pure — no signature snare model is verified for that era.`,
 
           pros: [
-            "Gene Hoglan's signature setup — 'The Atomic Clock' precision standard",
+            "Gene Hoglan's 2008-2018 Tama-era signature setup — 'The Atomic Clock' precision standard",
             "Unusually deep 14x8\" steel shell for thunderous power",
             "Proven across Death, Testament, and Dethklok's varied extreme metal styles",
             "Cutting steel attack with real low-end body",
@@ -68322,9 +68322,9 @@ The extra 8" depth trades some of the instant crack a shallower shell offers for
             bestFor: "Thunderous power and cutting attack for groove-heavy extreme metal"
           },
           usedBy: [
-            { name: "Gene Hoglan", band: "Death / Testament / Dethklok", note: "Tama Gene Hoglan Signature 14\"x8\" Steel — current setup" }
+            { name: "Gene Hoglan", band: "Death / Testament / Dethklok", note: "Tama Gene Hoglan Signature 14\"x8\" Steel — 2008-2018 era; current kit (since 2018) is Pearl Reference Pure" }
           ],
-          verdict: "Best for thunderous power over pure speed. Hoglan's unusually deep steel snare anchors extreme metal's groove-heavy side.",
+          verdict: "Best for thunderous power over pure speed. Hoglan's unusually deep steel snare anchored extreme metal's groove-heavy side during his 2008-2018 Tama era.",
           rating: 4.5,
           affiliateLink: "https://www.thomann.de/intl/tama_gene_hoglan_signature_snare.htm?partner_id=metalforge"
         },
@@ -68383,9 +68383,9 @@ The maple shell's warmth sits well against dense, downtuned guitar work, proving
           priceRange: "€150-200",
           tier: "budget",
           material: "Steel",
-          description: "The Tama Metalworks carries similar bright, cutting DNA to Gene Hoglan's signature steel snare at a fraction of the price. It won't match the depth or refinement of a signature model, but it delivers genuine cutting attack for developing extreme metal players.",
+          description: "The Tama Metalworks carries similar bright, cutting DNA to Gene Hoglan's 2008-2018 Tama-era signature steel snare at a fraction of the price. It won't match the depth or refinement of a signature model, but it delivers genuine cutting attack for developing extreme metal players.",
           pros: ["Bright, cutting steel tone", "Durable enough for daily blast beat practice", "Very accessible pricing"],
-          cons: ["Basic hardware compared to premium snares", "Less depth and body than Hoglan's 14x8\" signature"],
+          cons: ["Basic hardware compared to premium snares", "Less depth and body than Hoglan's 14x8\" Tama-era signature"],
           verdict: "Best true budget entry into extreme metal's cutting steel sound.",
           rating: 4.0,
           affiliateLink: "https://www.thomann.de/intl/tama_metalworks_snare_steel.htm?partner_id=metalforge"
@@ -68422,7 +68422,7 @@ The maple shell's warmth sits well against dense, downtuned guitar work, proving
 - 14x6.5\" depth versatile across blast beats and heavier sections
 - Best for: Drummers prioritizing durability and consistency under pressure
 
-**Steel (Gene Hoglan):**
+**Steel (Gene Hoglan, 2008-2018 Tama era):**
 - Thunderous power from an unusually deep 14x8\" shell
 - Cutting attack with real low-end weight
 - Best for: Groove-heavy extreme metal prioritizing power over pure speed
@@ -68458,12 +68458,12 @@ The maple shell's warmth sits well against dense, downtuned guitar work, proving
         {
           category: "Best for Thunderous Power",
           pedal: "Tama Gene Hoglan Signature",
-          reason: "Gene Hoglan's unusually deep steel snare — power and groove over pure speed."
+          reason: "Gene Hoglan's unusually deep steel snare from his 2008-2018 Tama era — power and groove over pure speed."
         },
         {
           category: "Best Budget",
           pedal: "Tama Metalworks",
-          reason: "Similar bright, cutting DNA to Hoglan's signature steel snare, at a fraction of the price."
+          reason: "Similar bright, cutting DNA to Hoglan's 2008-2018 Tama-era signature steel snare, at a fraction of the price."
         }
       ]
     },
@@ -68479,7 +68479,7 @@ The maple shell's warmth sits well against dense, downtuned guitar work, proving
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Pearl George Kollias Signature 14x6.5\" Brass — Nile\'s 240+ BPM blast beat endurance' },
       { slug: 'pete-sandoval', name: 'Pete Sandoval', reason: 'ddrum (career-long endorsement, model unconfirmed) — pioneer of the gravity blast technique' },
       { slug: 'derek-roddy', name: 'Derek Roddy', reason: 'Tama Starclassic Bubinga 14x6.5\" — one-take recording durability' },
-      { slug: 'gene-hoglan', name: 'Gene Hoglan', reason: 'Tama Gene Hoglan Signature 14x8\" Steel — The Atomic Clock\'s thunderous power' }
+      { slug: 'gene-hoglan', name: 'Gene Hoglan', reason: 'Tama Gene Hoglan Signature 14x8\" Steel (2008-2018 era) — The Atomic Clock\'s thunderous power' }
     ],
 
     // Featured drummers (issue template)
@@ -68487,7 +68487,7 @@ The maple shell's warmth sits well against dense, downtuned guitar work, proving
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Pearl George Kollias Signature 14x6.5\" Brass — Nile\'s 240+ BPM blast beat endurance' },
       { slug: 'pete-sandoval', name: 'Pete Sandoval', reason: 'ddrum (career-long endorsement, model unconfirmed) — pioneer of the gravity blast technique' },
       { slug: 'derek-roddy', name: 'Derek Roddy', reason: 'Tama Starclassic Bubinga 14x6.5\" — one-take recording durability' },
-      { slug: 'gene-hoglan', name: 'Gene Hoglan', reason: 'Tama Gene Hoglan Signature 14x8\" Steel — The Atomic Clock\'s thunderous power' }
+      { slug: 'gene-hoglan', name: 'Gene Hoglan', reason: 'Tama Gene Hoglan Signature 14x8\" Steel (2008-2018 era) — The Atomic Clock\'s thunderous power' }
     ],
 
     // FAQ section for SEO
@@ -68502,11 +68502,11 @@ The maple shell's warmth sits well against dense, downtuned guitar work, proving
       },
       {
         question: "Steel, brass, bronze, or maple snare for extreme metal?",
-        answer: "All four work at the highest level. George Kollias's brass snare delivers cutting, musical attack; Derek Roddy's bubinga snare offers dark, durable crack; Gene Hoglan's deep steel snare provides thunderous power; and Pete Sandoval's maple ddrum snare gave warm, controlled response during his Morbid Angel career. Match the material to whether you prioritize speed, durability, power, or warmth."
+        answer: "All four work at the highest level. George Kollias's brass snare delivers cutting, musical attack; Derek Roddy's bubinga snare offers dark, durable crack; Gene Hoglan's deep steel snare provided thunderous power during his 2008-2018 Tama era; and Pete Sandoval's maple ddrum snare gave warm, controlled response during his Morbid Angel career. Match the material to whether you prioritize speed, durability, power, or warmth."
       },
       {
         question: "What size snare is best for extreme metal?",
-        answer: "A 14\"x6.5\" shell is most common, balancing crack and body — the depth George Kollias and Derek Roddy use, and the depth Pete Sandoval favored during his Morbid Angel career. Gene Hoglan's deeper 14\"x8\" signature snare suits extreme metal's more groove-heavy, power-focused side."
+        answer: "A 14\"x6.5\" shell is most common, balancing crack and body — the depth George Kollias and Derek Roddy use, and the depth Pete Sandoval favored during his Morbid Angel career. Gene Hoglan's deeper 14\"x8\" signature snare, from his 2008-2018 Tama era, suited extreme metal's more groove-heavy, power-focused side."
       },
       {
         question: "Do I need a signature snare to play extreme metal?",
@@ -68517,7 +68517,7 @@ The maple shell's warmth sits well against dense, downtuned guitar work, proving
     // Conclusion
     conclusion: {
       title: "Find Your Extreme Metal Snare Voice",
-      content: `Extreme metal snare choice comes down to how much instant, cutting crack your blast beats demand versus how much durability, power, or warmth you need to survive touring and recording. George Kollias's Pearl signature brass snare defined the cutting, musical standard for technical death metal speed. Derek Roddy's dense Tama bubinga snare proved durability under one-take recording pressure and relentless touring. Gene Hoglan's unusually deep steel signature snare shows how thunderous power can anchor groove-heavy extreme metal, while Pete Sandoval's maple ddrum snare showed that warmth and control could still cut through the genre's harshest sonic environment during his Morbid Angel career.
+      content: `Extreme metal snare choice comes down to how much instant, cutting crack your blast beats demand versus how much durability, power, or warmth you need to survive touring and recording. George Kollias's Pearl signature brass snare defined the cutting, musical standard for technical death metal speed. Derek Roddy's dense Tama bubinga snare proved durability under one-take recording pressure and relentless touring. Gene Hoglan's unusually deep steel signature snare, from his 2008-2018 Tama era, showed how thunderous power can anchor groove-heavy extreme metal, while Pete Sandoval's maple ddrum snare showed that warmth and control could still cut through the genre's harshest sonic environment during his Morbid Angel career.
 
 None of these approaches is more "correct" — all four represent extreme metal's founding commitment to snares that survive sustained blast beat abuse without sacrificing crack. Start with whichever voicing matches your material's balance of speed, power, and durability.
 

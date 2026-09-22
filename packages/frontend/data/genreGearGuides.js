@@ -56952,7 +56952,7 @@ Start lean: a single kick trigger and a basic interface will reinforce your loud
       title: "Why Nu-Metal Was Built for Hybrid Triggering",
       content: `A drum trigger is a small piezo or optical sensor clipped or mounted directly onto an acoustic drumhead. It converts the physical vibration of a hit into an electronic signal that can drive a sample, reinforce a weak-sounding mic, or feed a click-synced monitor rig — without changing how the acoustic drum feels under the stick or beater. Nu-metal has a more natural relationship with hybrid acoustic/electronic setups than almost any other metal subgenre: the style fuses metal's low-tuned heaviness with hip-hop and electronic production sensibilities, and its studio sound has always leaned on layered, produced low end rather than a purely raw acoustic attack.
 
-Joey Jordison built Slipknot's explosive, theatrical sound on a Pearl Reference Series kit, its dual bass drum configuration powering the "Iowa" era's brutal live performances alongside the band's sample-heavy, electronically layered production. Ray Luzier has anchored Korn's dense, syncopated grooves since 2007 on a Pearl Reference Series kit, records built around modern low-tuned production values. John Otto locked in Limp Bizkit's hip-hop/metal crossover sound on an OCDP Custom Type 5 Acrylic kit, driving a genre defined by its fusion of rock power and hip-hop-influenced groove. That production DNA — low-tuned, sample-conscious, hip-hop-adjacent — is exactly where trigger-driven hybrid setups fit naturally into nu-metal's sound.
+Joey Jordison built Slipknot's explosive, theatrical sound on a Pearl Reference Series kit, its dual bass drum configuration powering the "Iowa" era's brutal live performances alongside the band's sample-heavy, electronically layered production. Ray Luzier has anchored Korn's dense, syncopated grooves since 2013 on a Pearl Reference Series kit, records built around modern low-tuned production values. John Otto locked in Limp Bizkit's hip-hop/metal crossover sound on an OCDP Custom Type 5 Acrylic kit, driving a genre defined by its fusion of rock power and hip-hop-influenced groove. That production DNA — low-tuned, sample-conscious, hip-hop-adjacent — is exactly where trigger-driven hybrid setups fit naturally into nu-metal's sound.
 
 This guide covers what actually matters when building a hybrid acoustic/electronic trigger setup for nu-metal — kick weight for low-tuned mixes, sample-layering flexibility, and groove-preserving crosstalk rejection — with specific recommendations across every budget, from a first single kick trigger to a full hybrid sample-layering rig.`,
       keyPoints: [
@@ -57289,7 +57289,7 @@ For nu-metal drummers who've already invested in triggers from multiple brands, 
     ],
     relatedDrummers: [
       { slug: 'joey-jordison', name: 'Joey Jordison', reason: 'Dual-bass Pearl Reference Series powering Slipknot\'s sample-heavy, electronically layered production' },
-      { slug: 'ray-luzier', name: 'Ray Luzier', reason: 'Pearl Reference kit anchoring Korn\'s dense, syncopated, modern low-tuned grooves since 2007' },
+      { slug: 'ray-luzier', name: 'Ray Luzier', reason: 'Pearl Reference kit anchoring Korn\'s dense, syncopated, modern low-tuned grooves since 2013' },
       { slug: 'john-otto', name: 'John Otto', reason: 'OCDP Custom kit driving Limp Bizkit\'s hip-hop/metal crossover groove' }
     ],
     relatedComparisons: [],
@@ -59527,7 +59527,7 @@ Start where your budget allows — even a Pearl Export will get you playing real
       title: "What Drum Kit Should I Use for Nu-Metal?",
       content: `Nu-metal drum kits are built for groove, not speed. The genre blends metal's heaviness with hip-hop and funk's rhythmic sophistication, which means the kit needs deep, floor-tom-driven low end and a snare that locks into syncopated, off-beat patterns — not blast-beat endurance or ultra-bright, technical articulation.
 
-Joey Jordison built Slipknot's explosive, theatrical sound on a Pearl Reference Series kit, its maple/birch hybrid shells and dual bass drum configuration powering the "Iowa" era's brutal live performances. Ray Luzier has anchored Korn's dense, syncopated grooves since 2007 on a Pearl Reference Series kit, pairing it with a cutting brass snare across records from "Korn III" through "The Paradigm Shift." John Otto locked in Limp Bizkit's hip-hop/metal crossover sound on a visually and sonically distinctive OCDP Custom Type 5 Acrylic kit, carrying the band through "Significant Other" and "Chocolate Starfish and the Hot Dog Flavored Water."
+Joey Jordison built Slipknot's explosive, theatrical sound on a Pearl Reference Series kit, its maple/birch hybrid shells and dual bass drum configuration powering the "Iowa" era's brutal live performances. Ray Luzier has anchored Korn's dense, syncopated grooves since 2013 on a Pearl Reference Series kit, pairing it with a cutting brass snare across records from "The Paradigm Shift" onward, after running a DW Collector's Series kit for "Korn III: Remember Who You Are." John Otto locked in Limp Bizkit's hip-hop/metal crossover sound on a visually and sonically distinctive OCDP Custom Type 5 Acrylic kit, carrying the band through "Significant Other" and "Chocolate Starfish and the Hot Dog Flavored Water."
 
 This guide covers what actually makes a kit work for nu-metal — shell material, tom configuration, and groove-focused tone — and which specific kits the genre's most influential drummers play, from budget starter kits to the professional setups behind nu-metal's biggest records.`,
       keyPoints: [
@@ -59911,7 +59911,7 @@ For drummers building their first nu-metal rig on a budget, the Imperialstar off
       },
       {
         question: "What drum kit does Ray Luzier use?",
-        answer: "Ray Luzier has played a Pearl Reference Series kit as Korn's permanent drummer since 2007, paired with a Pearl Reference 14x6.5\" brass snare. The blended maple/birch/African mahogany shells deliver the full-bodied, controlled punch that drives Korn's syncopated nu-metal grooves."
+        answer: "Ray Luzier has played a Pearl Reference Series kit since 2013, paired with a Pearl Reference 14x6.5\" brass snare. He joined Korn as their permanent drummer in 2007 but ran a DW Collector's Series kit through 2010's \"Korn III: Remember Who You Are\" before switching to Pearl for 2013's \"The Paradigm Shift.\" The blended maple/birch/African mahogany shells deliver the full-bodied, controlled punch that drives Korn's syncopated nu-metal grooves."
       },
       {
         question: "Do I need an expensive kit to play nu-metal?",

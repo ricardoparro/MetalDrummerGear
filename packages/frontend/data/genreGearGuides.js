@@ -21300,7 +21300,7 @@ Start with a 22"x18" shell, keep the muffling light, and let the drum breathe �
     // SEO metadata
     title: "Best Bass Drums for Death Metal: 2026 Ultimate Guide",
     metaTitle: "Best Bass Drums for Death Metal in 2026 | MetalForge Expert Guide",
-    description: "Best bass drums for death metal's deep, punchy low end. What George Kollias (Pearl Reference), Flo Mounier (Tama Starclassic), and Gene Hoglan (Tama) actually play — from budget to pro.",
+    description: "Best bass drums for death metal's deep, punchy low end. What George Kollias (Pearl Masterworks), Flo Mounier (Tama Starclassic), and Gene Hoglan (Tama) actually play — from budget to pro.",
     seoKeywords: [
       'best bass drums for death metal',
       'death metal bass drum setup',
@@ -21337,7 +21337,7 @@ Start with a 22"x18" shell, keep the muffling light, and let the drum breathe �
       title: "What Bass Drum Setup Do Death Metal Drummers Actually Use?",
       content: `Death metal's bass drum has one job above all others: deliver deep, punchy low-end weight that anchors the genre's downtuned guitars without losing definition at 200+ BPM. Unlike black metal's raw, resonant approach, death metal wants a controlled, tightly muffled attack — every kick stroke needs to articulate clearly even buried inside dense, layered mixes.
 
-George Kollias — widely regarded as the fastest drummer on record — plays a Pearl Reference Pure 22"x18" bass drum, its thin 6-ply maple shell delivering exceptional sensitivity for Nile's densely layered technical death metal. Flo Mounier of Cryptopsy runs a Tama Starclassic Maple bass drum, delivering the sensitivity and projection his technical patterns demand at sustained 270 BPM. Gene Hoglan — "The Atomic Clock" — built his precision-first low end on Tama's Starclassic Birch/Bubinga across his work with Death, Testament, and Dark Angel.
+George Kollias — widely regarded as the fastest drummer on record — plays a Pearl Masterworks 22"x18" bass drum, its thin 6-ply maple shell delivering exceptional sensitivity for Nile's densely layered technical death metal. Flo Mounier of Cryptopsy runs a Tama Starclassic Maple bass drum, delivering the sensitivity and projection his technical patterns demand at sustained 270 BPM. Gene Hoglan — "The Atomic Clock" — built his precision-first low end on Tama's Starclassic Birch/Bubinga across his work with Death, Testament, and Dark Angel.
 
 Pete Sandoval of Morbid Angel has been a ddrum endorser since 1989, adding to the brand's foundational death metal pedigree.
 
@@ -21363,7 +21363,7 @@ This guide breaks down exactly what makes a bass drum work for death metal — s
         {
           name: "Shell Material",
           icon: "🪵",
-          description: "Maple (George Kollias's Pearl Reference Pure, Flo Mounier's Tama Starclassic Maple) produces a warm, full tone with controlled projection ideal for death metal's dense mixes. Birch/bubinga hybrids (Gene Hoglan's Tama Starclassic) add more punch and low-end aggression.",
+          description: "Maple (George Kollias's Pearl Masterworks, Flo Mounier's Tama Starclassic Maple) produces a warm, full tone with controlled projection ideal for death metal's dense mixes. Birch/bubinga hybrids (Gene Hoglan's Tama Starclassic) add more punch and low-end aggression.",
           recommendation: "Maple for tonal control and projection; birch/bubinga hybrid for maximum punch"
         },
         {
@@ -21399,15 +21399,15 @@ This guide breaks down exactly what makes a bass drum work for death metal — s
       pedals: [
         {
           rank: 1,
-          name: "Pearl Reference Pure Bass Drum",
+          name: "Pearl Masterworks Bass Drum",
           brand: "Pearl",
-          model: "Reference Pure 22\"x18\"",
+          model: "Masterworks 22\"x18\"",
           image: "https://upload.wikimedia.org/wikipedia/commons/6/6c/Acoustic_Drums_Kit_%2829965183378%29.jpg",
           priceRange: "€650-850",
           tier: "pro",
           material: "6-ply Maple (No Reinforcement Ring), 22\"x18\"",
 
-          description: `The Pearl Reference Pure bass drum is George Kollias's kit of choice — and when the world's fastest recorded drummer stakes his reputation on a shell, that's the strongest possible endorsement. The thin 6-ply maple construction with no reinforcement ring lets the drum vibrate freely for a richer, more articulate low end.
+          description: `The Pearl Masterworks bass drum is George Kollias's kit of choice — and when the world's fastest recorded drummer stakes his reputation on a shell, that's the strongest possible endorsement. The thin 6-ply maple construction with no reinforcement ring lets the drum vibrate freely for a richer, more articulate low end.
 
 That sensitivity matters when Kollias is firing 280 BPM patterns beneath Nile's densely layered guitar and bass walls — every stroke needs to stay legible, not blur into a wash of low end. Paired with his co-designed Pearl Demon XR double pedal, it's the death metal speed standard.`,
 
@@ -21431,11 +21431,11 @@ That sensitivity matters when Kollias is firing 280 BPM patterns beneath Nile's 
             configuration: "Single, double-pedal driven"
           },
           usedBy: [
-            { name: "George Kollias", band: "Nile", note: "22\"x18\" Pearl Reference Pure sustaining 280 BPM double bass" }
+            { name: "George Kollias", band: "Nile", note: "22\"x18\" Pearl Masterworks sustaining 280 BPM double bass" }
           ],
           verdict: "The death metal speed standard — George Kollias built his legendary output on this shell.",
           rating: 4.9,
-          affiliateLink: "https://www.thomann.de/intl/pearl_reference_pure_bass_drum_dm.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/pearl_masterworks_bass_drum.htm?partner_id=metalforge"
         },
         {
           rank: 2,
@@ -21559,7 +21559,7 @@ The larger shell diameter delivers noticeably more low-end than the 22" standard
     // Budget options section
     budgetOptions: {
       title: "Best Budget Bass Drums for Death Metal",
-      description: "You don't need a custom Reference Pure or Starclassic Maple shell to build a real death metal low end. These bass drums deliver genuine punch and durability at an accessible price.",
+      description: "You don't need a custom Masterworks or Starclassic Maple shell to build a real death metal low end. These bass drums deliver genuine punch and durability at an accessible price.",
       pedals: [
         {
           name: "Pearl Export Bass Drum",
@@ -21624,7 +21624,7 @@ The larger shell diameter delivers noticeably more low-end than the 22" standard
       picks: [
         {
           category: "Best Overall",
-          pedal: "Pearl Reference Pure Bass Drum",
+          pedal: "Pearl Masterworks Bass Drum",
           reason: "George Kollias's proven platform — the death metal speed and articulation standard."
         },
         {
@@ -21653,7 +21653,7 @@ The larger shell diameter delivers noticeably more low-end than the 22" standard
       'best-drum-heads-for-death-metal'
     ],
     relatedDrummers: [
-      { slug: 'george-kollias', name: 'George Kollias', reason: 'Pearl Reference Pure bass drum sustaining 280 BPM double bass' },
+      { slug: 'george-kollias', name: 'George Kollias', reason: 'Pearl Masterworks bass drum sustaining 280 BPM double bass' },
       { slug: 'flo-mounier', name: 'Flo Mounier', reason: 'Tama Starclassic Maple — technical death metal precision at 270 BPM, since 2012' },
       { slug: 'gene-hoglan', name: 'Gene Hoglan', reason: 'Tama Starclassic Birch/Bubinga — deep low end across four decades' },
       { slug: 'pete-sandoval', name: 'Pete Sandoval', reason: 'ddrum bass drums driving Morbid Angel\'s extreme low end' }
@@ -21661,7 +21661,7 @@ The larger shell diameter delivers noticeably more low-end than the 22" standard
 
     // Featured drummers (issue template)
     featuredDrummers: [
-      { slug: 'george-kollias', name: 'George Kollias', reason: 'Pearl Reference Pure — the death metal speed standard' },
+      { slug: 'george-kollias', name: 'George Kollias', reason: 'Pearl Masterworks — the death metal speed standard' },
       { slug: 'flo-mounier', name: 'Flo Mounier', reason: 'Tama Starclassic Maple — Cryptopsy\'s technical precision since 2012' },
       { slug: 'gene-hoglan', name: 'Gene Hoglan', reason: 'Tama Starclassic Birch/Bubinga — deep, punchy low end' }
     ],
@@ -21670,7 +21670,7 @@ The larger shell diameter delivers noticeably more low-end than the 22" standard
     faq: [
       {
         question: "What bass drums do death metal drummers use?",
-        answer: "George Kollias of Nile plays a Pearl Reference Pure, Flo Mounier of Cryptopsy plays a Tama Starclassic Maple, and Gene Hoglan built his career on Tama's Starclassic Birch/Bubinga. All three run a single 22\"x18\" bass drum with a double pedal rather than twin kick drums."
+        answer: "George Kollias of Nile plays a Pearl Masterworks, Flo Mounier of Cryptopsy plays a Tama Starclassic Maple, and Gene Hoglan built his career on Tama's Starclassic Birch/Bubinga. All three run a single 22\"x18\" bass drum with a double pedal rather than twin kick drums."
       },
       {
         question: "What size bass drum is best for death metal?",
@@ -21678,7 +21678,7 @@ The larger shell diameter delivers noticeably more low-end than the 22" standard
       },
       {
         question: "Maple or birch/bubinga bass drum for death metal?",
-        answer: "Maple (George Kollias's Pearl Reference Pure, Flo Mounier's Tama Starclassic Maple) gives a warmer, more articulate tone ideal for technical death metal. Birch/bubinga hybrids (Gene Hoglan's Tama Starclassic) deliver a deeper, more aggressive punch better suited to heavier, more downtuned styles."
+        answer: "Maple (George Kollias's Pearl Masterworks, Flo Mounier's Tama Starclassic Maple) gives a warmer, more articulate tone ideal for technical death metal. Birch/bubinga hybrids (Gene Hoglan's Tama Starclassic) deliver a deeper, more aggressive punch better suited to heavier, more downtuned styles."
       },
       {
         question: "Should death metal drummers use twin bass drums or a double pedal?",
@@ -21693,7 +21693,7 @@ The larger shell diameter delivers noticeably more low-end than the 22" standard
     // Conclusion
     conclusion: {
       title: "Build the Deep, Punchy Low End Death Metal Demands",
-      content: `Death metal's bass drum requirements come down to one thing: deep, controlled low-end weight that holds up at extreme tempo. George Kollias proves that a thin 6-ply maple shell like the Pearl Reference Pure delivers exactly that — sensitivity and articulation even at 280 BPM. Flo Mounier's Tama Starclassic Maple shows the same philosophy at a premium level for Cryptopsy's most technical work.
+      content: `Death metal's bass drum requirements come down to one thing: deep, controlled low-end weight that holds up at extreme tempo. George Kollias proves that a thin 6-ply maple shell like the Pearl Masterworks delivers exactly that — sensitivity and articulation even at 280 BPM. Flo Mounier's Tama Starclassic Maple shows the same philosophy at a premium level for Cryptopsy's most technical work.
 
 If maximum low-end punch and aggression matter more than pure articulation, follow Gene Hoglan's example with a birch/bubinga hybrid like the Tama Starclassic — deep, aggressive, and road-tested across decades of death metal's most demanding tours.
 

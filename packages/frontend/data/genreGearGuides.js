@@ -98139,13 +98139,13 @@ Start with a budget ZBT or SBR set to build your technique, and invest in a full
     // SEO metadata
     title: "Best Drum Pedals for Technical Death Metal: 2026 Ultimate Guide",
     metaTitle: "Best Drum Pedals for Technical Death Metal 2026 | MetalForge Guide",
-    description: "Discover the best double bass pedals for technical death metal drumming. What George Kollias (Pearl Demon XR), Hannes Grossmann (DW 9000), Flo Mounier (Pearl Demon Drive), and Derek Roddy (Tama Speed Cobra 910) actually play — from budget to pro, built for extreme blast-beat precision.",
+    description: "Discover the best double bass pedals for technical death metal drumming. What George Kollias (Pearl Demon XR), Hannes Grossmann (DW 9000), Flo Mounier (Tama Speed Cobra 910), and Derek Roddy (Tama Speed Cobra 910) actually play — from budget to pro, built for extreme blast-beat precision.",
     seoKeywords: [
       'best drum pedals for technical death metal',
       'technical death metal drum pedals',
       'george kollias pedal pearl demon xr',
       'hannes grossmann pedal dw 9000',
-      'flo mounier pedal pearl demon drive',
+      'flo mounier pedal tama speed cobra 910',
       'derek roddy pedal tama speed cobra',
       'double bass pedal blast beats',
       'fastest double bass pedal',
@@ -98154,7 +98154,7 @@ Start with a budget ZBT or SBR set to build your technique, and invest in a full
     ],
     ogImage: '/api/og/guide?type=genre-gear&gear=pedals&genre=technical-death-metal',
     datePublished: '2026-07-07',
-    dateModified: '2026-07-07',
+    dateModified: '2026-09-22',
     author: 'MetalForge Editorial',
     wordCount: 1800,
     readingTime: '8 min',
@@ -98165,7 +98165,7 @@ Start with a budget ZBT or SBR set to build your technique, and invest in a full
       subtitle: "What Kollias, Grossmann, Mounier, and Roddy Actually Play",
       badge: "GEAR GUIDE 2026",
       stats: [
-        { value: '4', label: 'Pedals Reviewed' },
+        { value: '3', label: 'Pedals Reviewed' },
         { value: '8 min', label: 'Read Time' },
         { value: '2026', label: 'Updated' }
       ]
@@ -98176,14 +98176,14 @@ Start with a budget ZBT or SBR set to build your technique, and invest in a full
       title: "Why Pedal Choice Is Critical in Technical Death Metal",
       content: `Technical death metal pushes double bass pedals harder than almost any other style of drumming. It's not just about sustained speed — the genre also demands instant, precise response for constant meter changes, gravity blasts, and one-footed blast technique, all without the pedal's action becoming inconsistent over a full set.
 
-George Kollias co-designed his own signature pedal, the Pearl Demon XR, specifically for the linear, direct action his 240+ BPM double bass work with Nile requires. Hannes Grossmann relies on a DW 9000 Series double pedal to drive the demanding blast-beat and odd-subdivision bass drum patterns his Obscura and Alkaloid compositions require. Flo Mounier has powered Cryptopsy's legendary gravity-blast technique on a Pearl Demon Drive for over three decades. Derek Roddy — who pioneered one-footed blast beat technique and later taught it through his own instructional materials — drives his signature speed on a Tama Speed Cobra 910.
+George Kollias co-designed his own signature pedal, the Pearl Demon XR, specifically for the linear, direct action his 240+ BPM double bass work with Nile requires. Hannes Grossmann relies on a DW 9000 Series double pedal to drive the demanding blast-beat and odd-subdivision bass drum patterns his Obscura and Alkaloid compositions require. Flo Mounier has powered Cryptopsy's legendary gravity-blast technique on a Tama Speed Cobra 910 Twin Pedal since 2012. Derek Roddy — who pioneered one-footed blast beat technique and later taught it through his own instructional materials — drives his signature speed on that same Tama Speed Cobra 910.
 
 This guide breaks down what actually makes a pedal work for technical death metal — drive system, bearings, and footboard design — along with these four drummers' specific pedal choices, from budget-friendly options through the professional rigs behind the genre's most demanding recordings.`,
       keyPoints: [
         "Technical death metal demands pedals capable of both extreme sustained speed and instant, precise response to constant meter changes",
         "George Kollias co-designed his own Pearl Demon XR specifically for his 240+ BPM double bass work",
         "Derek Roddy pioneered one-footed blast beat technique on his Tama Speed Cobra 910",
-        "Direct drive pedals dominate technical death metal, though Roddy's Speed Cobra proves refined chain drive can compete"
+        "Technique matters more than drive type — Kollias's direct drive Demon XR and the chain-drive Speed Cobra 910 shared by Roddy and Mounier both hold up at the genre's highest level"
       ]
     },
 
@@ -98224,7 +98224,7 @@ This guide breaks down what actually makes a pedal work for technical death meta
         {
           name: "Build Quality for Relentless Touring",
           icon: "🛡️",
-          description: "Flo Mounier has toured on the same Pearl Demon Drive platform for decades of Cryptopsy's punishing schedule. Aluminum or steel construction with reinforced connection points withstands the physical demands of extreme technical playing.",
+          description: "Flo Mounier has toured on the same Tama Speed Cobra 910 platform since 2012, through Cryptopsy's punishing schedule. Aluminum or steel construction with reinforced connection points withstands the physical demands of extreme technical playing.",
           recommendation: "Aircraft-grade aluminum construction minimum for serious technical death metal use"
         }
       ]
@@ -98316,46 +98316,6 @@ Where Kollias's Demon XR favors pure linear speed, Grossmann's 9000 shows that a
         },
         {
           rank: 3,
-          name: "Pearl Demon Drive",
-          brand: "Pearl",
-          model: "P3002D Demon Drive",
-          image: "https://upload.wikimedia.org/wikipedia/commons/7/74/Dixon-double-pedal.jpg",
-          priceRange: "€500-600",
-          tier: "pro",
-          driveType: "Direct Drive",
-
-          description: `Flo Mounier has powered Cryptopsy's legendary gravity-blast technique on a Pearl Demon Drive for decades, from "None So Vile" (1996) through "As Gomorrah Burns" (2023). The NiNjA bearing system provides virtually frictionless action, while interchangeable cams let Mounier dial in the exact feel his rapid-fire gravity blasts demand.
-
-As the only constant member of Cryptopsy since 1992, Mounier's decades-long commitment to the Demon Drive platform speaks to its reliability under the most extreme, sustained technical death metal touring schedule.`,
-
-          pros: [
-            "Flo Mounier's proven setup since the 1990s",
-            "NiNjA bearing system for ultimate smoothness",
-            "Interchangeable cam system for custom feel",
-            "Click-Lock spring tension for precise, reliable adjustments",
-            "Decades-proven reliability under extreme touring"
-          ],
-          cons: [
-            "Premium price point",
-            "Direct drive takes adjustment if coming from chain",
-            "Heavier for transport than some competitors"
-          ],
-          specs: {
-            drive: "Direct Drive (interchangeable)",
-            bearings: "NiNjA Bearings",
-            footboard: "PowerShifter Longboard",
-            beater: "Demon Beater (reversible)",
-            weight: "4.5 kg (pair)"
-          },
-          usedBy: [
-            { name: "Flo Mounier", band: "Cryptopsy", note: "Decades-long platform for gravity-blast technique" }
-          ],
-          verdict: "A proven, decades-tested direct drive pedal for the fastest gravity-blast technique in metal.",
-          rating: 4.8,
-          affiliateLink: "https://www.thomann.de/intl/pearl_p3002d_demon_drive_double.htm?partner_id=metalforge"
-        },
-        {
-          rank: 4,
           name: "Tama Speed Cobra 910",
           brand: "Tama",
           model: "HP910LWN Speed Cobra 910",
@@ -98364,16 +98324,16 @@ As the only constant member of Cryptopsy since 1992, Mounier's decades-long comm
           tier: "pro",
           driveType: "Chain Drive (Speedo-Ring)",
 
-          description: `Derek Roddy — who pioneered one-footed blast beat technique and later taught it through his own instructional books and DVDs — drives his signature speed on a Tama Speed Cobra 910. The Speedo-Ring sprocket combines the smooth feel of direct drive with the familiar swing of chain drive, while the extended footboard design is specifically suited to fast, rolling one-footed patterns.
+          description: `Derek Roddy — who pioneered one-footed blast beat technique and later taught it through his own instructional books and DVDs — drives his signature speed on a Tama Speed Cobra 910. Flo Mounier has powered Cryptopsy's legendary gravity-blast technique on the same Speed Cobra 910 Twin Pedal since 2012. The Speedo-Ring sprocket combines the smooth feel of direct drive with the familiar swing of chain drive, while the extended footboard design suits both Roddy's fast, rolling one-footed patterns and Mounier's rapid-fire gravity blasts.
 
-Roddy's endorsement anchors the Speed Cobra as proof that a refined chain drive pedal can hold its own against direct drive at the highest level of technical death metal speed.`,
+Two very different technical death metal footwork techniques converging on the same pedal shows how far a refined chain drive design can be pushed at the highest level of the genre.`,
 
           pros: [
             "Derek Roddy's proven setup across Hate Eternal and Nile",
+            "Flo Mounier's pedal of choice with Cryptopsy since 2012",
             "Speedo-Ring gives chain drive pedals direct-drive smoothness",
-            "Extra-long footboard suited to one-footed blast technique",
-            "LiteSprocket reduces weight for faster response",
-            "Excellent value for pro-level performance"
+            "Extra-long footboard suited to one-footed and gravity-blast technique",
+            "LiteSprocket reduces weight for faster response"
           ],
           cons: [
             "Not as linear as true direct drive",
@@ -98388,9 +98348,10 @@ Roddy's endorsement anchors the Speed Cobra as proof that a refined chain drive 
             weight: "3.8 kg (pair)"
           },
           usedBy: [
-            { name: "Derek Roddy", band: "Hate Eternal / Nile", note: "Pioneered one-footed blast beat technique on this pedal" }
+            { name: "Derek Roddy", band: "Hate Eternal / Nile", note: "Pioneered one-footed blast beat technique on this pedal" },
+            { name: "Flo Mounier", band: "Cryptopsy", note: "Gravity-blast technique, on Tama hardware since 2012" }
           ],
-          verdict: "The best chain-drive option for technical death metal, especially for one-footed blast technique.",
+          verdict: "The top chain-drive option for technical death metal, proven by both one-footed blast technique and gravity-blast attack.",
           rating: 4.7,
           affiliateLink: "https://www.thomann.de/intl/tama_hp910lwn_speed_cobra_double.htm?partner_id=metalforge"
         }
@@ -98409,9 +98370,9 @@ Roddy's endorsement anchors the Speed Cobra as proof that a refined chain drive 
           priceRange: "€350-400",
           tier: "mid",
           driveType: "Chain with Interchangeable Cams",
-          description: "Brings many features from the Demon XR and Demon Drive at a more accessible price. The interchangeable cam system lets you experiment with different feels, and the NiNjA bearings match the flagship models Kollias and Mounier rely on.",
+          description: "Brings many features from the Demon XR at a more accessible price. The interchangeable cam system lets you experiment with different feels, and the NiNjA bearings match the flagship model Kollias relies on.",
           pros: ["Interchangeable cams included", "NiNjA bearing system shared with pro-tier Pearl pedals", "Solid build quality"],
-          cons: ["Chain drive limits ultimate top-end speed", "Not as refined as the Demon XR or Demon Drive"],
+          cons: ["Chain drive limits ultimate top-end speed", "Not as refined as the Demon XR"],
           verdict: "Best mid-range option for aspiring technical death metal drummers.",
           rating: 4.3,
           affiliateLink: "https://www.thomann.de/intl/pearl_p2052c_eliminator_redline.htm?partner_id=metalforge"
@@ -98438,25 +98399,25 @@ Roddy's endorsement anchors the Speed Cobra as proof that a refined chain drive 
       title: "Direct Drive vs Chain Drive for Technical Death Metal",
       content: `Technical death metal's constant meter changes make pedal drive choice matter even more than in straightforward death metal. Here's the breakdown:
 
-**Direct Drive (Kollias's Demon XR, Mounier's Demon Drive):**
+**Direct Drive (Kollias's Demon XR):**
 - Linear, consistent response from start to finish
-- Faster return for sustained gravity blasts and high-speed runs
-- Preferred by: George Kollias, Flo Mounier
+- Faster return for sustained high-speed runs
+- Preferred by: George Kollias
 
-**Chain Drive (Grossmann's DW 9000, Roddy's Speed Cobra 910):**
+**Chain Drive (Grossmann's DW 9000, Roddy's and Mounier's shared Speed Cobra 910):**
 - More adjustable power and feel for constantly shifting subdivisions
-- A refined chain system like the Speedo-Ring can rival direct drive speed
-- Preferred by: Hannes Grossmann, Derek Roddy
+- A refined chain system like the Speedo-Ring can rival direct drive speed for both one-footed and gravity-blast technique
+- Preferred by: Hannes Grossmann, Derek Roddy, Flo Mounier
 
-**The Truth:** Both drive systems hold up at the top of technical death metal. Kollias co-designed his own direct drive pedal specifically for 240+ BPM speed, while Roddy pioneered one-footed blast technique on a refined chain drive pedal. Technique and consistency matter more than drive system alone.
+**The Truth:** Both drive systems hold up at the top of technical death metal. Kollias co-designed his own direct drive pedal specifically for 240+ BPM speed, while Roddy and Mounier both built their signature techniques on the same refined chain drive pedal. Technique and consistency matter more than drive system alone.
 
-**Our Recommendation:** If you're chasing maximum sustained speed, a direct drive pedal like the Pearl Demon Drive gives you the most out-of-the-box speed potential. If you want more adjustability for constantly shifting technical patterns, a refined chain drive pedal like the Tama Speed Cobra 910 or DW 9000 is an excellent choice.`,
+**Our Recommendation:** If you're chasing maximum sustained speed, a direct drive pedal like the Pearl Demon XR gives you the most out-of-the-box speed potential. If you want more adjustability for constantly shifting technical patterns, a refined chain drive pedal like the Tama Speed Cobra 910 or DW 9000 is an excellent choice.`,
       comparisonTable: [
         { feature: "Top Speed Potential", directDrive: "⭐⭐⭐⭐⭐", chainDrive: "⭐⭐⭐⭐" },
         { feature: "Response Consistency", directDrive: "⭐⭐⭐⭐⭐", chainDrive: "⭐⭐⭐⭐" },
         { feature: "Adjustability", directDrive: "⭐⭐⭐", chainDrive: "⭐⭐⭐⭐⭐" },
         { feature: "Maintenance", directDrive: "⭐⭐⭐⭐⭐", chainDrive: "⭐⭐⭐" },
-        { feature: "Price Range", directDrive: "€350-650", chainDrive: "€250-750" }
+        { feature: "Price Range", directDrive: "€550-650", chainDrive: "€250-750" }
       ]
     },
 
@@ -98482,7 +98443,7 @@ Roddy's endorsement anchors the Speed Cobra as proof that a refined chain drive 
         {
           category: "Best Chain Drive",
           pedal: "Tama Speed Cobra 910",
-          reason: "Derek Roddy's pedal of choice for pioneering one-footed blast beat technique."
+          reason: "Shared by Derek Roddy, who pioneered one-footed blast beat technique on it, and Flo Mounier, who has played it since 2012."
         }
       ]
     },
@@ -98496,13 +98457,13 @@ Roddy's endorsement anchors the Speed Cobra as proof that a refined chain drive 
     relatedDrummers: [
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Pearl Demon XR — co-designed for 240+ BPM technical death metal' },
       { slug: 'hannes-grossmann', name: 'Hannes Grossmann', reason: 'DW 9000 Series — demanding odd-subdivision bass drum patterns' },
-      { slug: 'flo-mounier', name: 'Flo Mounier', reason: 'Pearl Demon Drive — decades of gravity-blast technique' },
+      { slug: 'flo-mounier', name: 'Flo Mounier', reason: 'Tama Speed Cobra 910 — gravity-blast technique since 2012' },
       { slug: 'derek-roddy', name: 'Derek Roddy', reason: 'Tama Speed Cobra 910 — pioneered one-footed blast technique' }
     ],
     featuredDrummers: [
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Pearl Demon XR — co-designed for 240+ BPM technical death metal' },
       { slug: 'hannes-grossmann', name: 'Hannes Grossmann', reason: 'DW 9000 Series — demanding odd-subdivision bass drum patterns' },
-      { slug: 'flo-mounier', name: 'Flo Mounier', reason: 'Pearl Demon Drive — decades of gravity-blast technique' },
+      { slug: 'flo-mounier', name: 'Flo Mounier', reason: 'Tama Speed Cobra 910 — gravity-blast technique since 2012' },
       { slug: 'derek-roddy', name: 'Derek Roddy', reason: 'Tama Speed Cobra 910 — pioneered one-footed blast technique' }
     ],
     relatedComparisons: [],
@@ -98519,11 +98480,11 @@ Roddy's endorsement anchors the Speed Cobra as proof that a refined chain drive 
       },
       {
         question: "Is direct drive or chain drive better for technical death metal?",
-        answer: "Both hold up at the highest level. Direct drive (George Kollias, Flo Mounier) offers the most linear, consistent response for sustained gravity blasts. A refined chain drive pedal like Derek Roddy's Speed Cobra 910 or Hannes Grossmann's DW 9000 can match that speed while offering more tunable feel for constantly shifting subdivisions."
+        answer: "Both hold up at the highest level. George Kollias's direct drive Demon XR offers the most linear, consistent response for sustained sequences. A refined chain drive pedal — like the Tama Speed Cobra 910 that Derek Roddy and Flo Mounier both play, or Hannes Grossmann's DW 9000 — can match that speed while offering more tunable feel for constantly shifting subdivisions, gravity blasts included."
       },
       {
         question: "What's the best budget pedal for technical death metal?",
-        answer: "The Tama Iron Cobra 600 (€250-300) offers proven chain-drive performance from the same lineage as Derek Roddy's Speed Cobra 910. The Pearl Eliminator Redline (€350-400) shares NiNjA bearings with George Kollias's and Flo Mounier's pro-tier Pearl pedals."
+        answer: "The Tama Iron Cobra 600 (€250-300) offers proven chain-drive performance from the same lineage as Derek Roddy's and Flo Mounier's Speed Cobra 910. The Pearl Eliminator Redline (€350-400) shares NiNjA bearings with George Kollias's pro-tier Pearl pedal."
       },
       {
         question: "What pedal does Hannes Grossmann use?",
@@ -98534,7 +98495,7 @@ Roddy's endorsement anchors the Speed Cobra as proof that a refined chain drive 
     // Conclusion
     conclusion: {
       title: "Find the Pedal That Matches Your Technique",
-      content: `Technical death metal demands pedals that can handle both extreme sustained speed and instant precision through constant meter changes. George Kollias's co-designed Pearl Demon XR, Hannes Grossmann's infinitely adjustable DW 9000, Flo Mounier's decades-proven Pearl Demon Drive, and Derek Roddy's technique-defining Tama Speed Cobra 910 all solve this problem from different angles.
+      content: `Technical death metal demands pedals that can handle both extreme sustained speed and instant precision through constant meter changes. George Kollias's co-designed Pearl Demon XR, Hannes Grossmann's infinitely adjustable DW 9000, and the Tama Speed Cobra 910 that powers both Derek Roddy's technique-defining one-footed blasts and Flo Mounier's gravity-blast attack all solve this problem from different angles.
 
 Start with a proven budget option like the Tama Iron Cobra 600 to build technique, and upgrade to a pro-tier direct drive or refined chain drive pedal once your playing has outgrown what a starter pedal can deliver.
 

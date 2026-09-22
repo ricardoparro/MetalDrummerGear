@@ -25996,7 +25996,7 @@ Start with a 22"x18" maple shell tuned for dynamic range rather than one tonal e
     // SEO metadata
     title: "Best Bass Drums for Thrash Metal: 2026 Ultimate Guide",
     metaTitle: "Best Bass Drums for Thrash Metal in 2026 | MetalForge Expert Guide",
-    description: "Best bass drums for thrash metal's tight, fast-decaying low end. What Lars Ulrich (Tama Starclassic Maple) and Dave Lombardo (Pearl/DW) actually play, plus the DW Collector's Series — built for rapid double bass at high tempo, from budget to pro.",
+    description: "Best bass drums for thrash metal's tight, fast-decaying low end. What Lars Ulrich (Tama Starclassic Maple) and Dave Lombardo (Tama) actually play, plus the DW Collector's Series — built for rapid double bass at high tempo, from budget to pro.",
     seoKeywords: [
       'best bass drums for thrash metal',
       'thrash metal bass drum setup',
@@ -26039,7 +26039,7 @@ This guide breaks down exactly what makes a bass drum work for thrash metal — 
       keyPoints: [
         "Maple shells (Lars Ulrich's Tama, DW Collector's kits), tuned tight, deliver the fast-decaying, punchy attack thrash metal demands",
         "22\"x16\"-18\" is the thrash standard — shallower than death metal's deeper shells, for a quicker, more controlled decay",
-        "Dave Lombardo pioneered thrash's double-bass drumming style on his Pearl kit through the Reign in Blood era, and DW setups later on, built for precise, aggressive attack",
+        "Dave Lombardo pioneered thrash's double-bass drumming style on his Pearl kit through the Reign in Blood era, and Tama setups later on, built for precise, aggressive attack",
         "DW's Collector's Series delivers the metronomic consistency serious touring demands"
       ]
     },
@@ -26308,7 +26308,7 @@ That shallower depth speeds up response time without sacrificing the punch neede
     ],
     relatedDrummers: [
       { slug: 'lars-ulrich', name: 'Lars Ulrich', reason: 'Tama Starclassic Maple — defining thrash metal bass drum sound' },
-      { slug: 'dave-lombardo', name: 'Dave Lombardo', reason: 'Pearl/DW — relentless double-bass thrash precision' }
+      { slug: 'dave-lombardo', name: 'Dave Lombardo', reason: 'Pearl/Tama — relentless double-bass thrash precision' }
     ],
 
     // Featured drummers (issue template)

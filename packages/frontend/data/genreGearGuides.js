@@ -10400,7 +10400,7 @@ The grid is in the player, not the price tag.
     // SEO metadata
     title: "Best Hi-Hats for Metal Drumming: 2026 Ultimate Guide",
     metaTitle: "Best Hi-Hats for Metal in 2026 | MetalForge Expert Guide",
-    description: "Discover the best hi-hats for metal drumming. Expert recommendations covering Zildjian, Meinl, Paiste, and Sabian — the exact hi-hats used by Lars Ulrich, Joey Jordison, and Mike Mangini.",
+    description: "Discover the best hi-hats for metal drumming. Expert recommendations covering Zildjian, Meinl, Paiste, and Sabian — the exact hi-hats used by Lars Ulrich, Joey Jordison, and Mikkey Dee.",
     seoKeywords: [
       'best hi-hats for metal',
       'best metal hi-hats',
@@ -10437,7 +10437,7 @@ The grid is in the player, not the price tag.
       title: "Why Hi-Hats Define Your Metal Groove",
       content: `Hi-hats are the rhythmic backbone of metal drumming — the pulse that drives riffs, locks in blast beats, and defines the feel of every groove. Yet most metal drummers spend all their cymbal budget on crashes and rides while treating hi-hats as an afterthought. That's a mistake.
 
-In metal, hi-hats face specific demands: crisp, cutting attack that punches through dense guitar walls; tight, controllable sound that defines complex rhythmic patterns; and enough projection for live environments where stage volume is extreme. Lars Ulrich's iconic hi-hat work on Metallica's "...And Justice for All" and "Master of Puppets" came from carefully selected Zildjian A Custom cymbals. Joey Jordison's furious 16th-note patterns with Slipknot relied on hi-hats with fast response and cutting top-end. Mike Mangini's complex polyrhythmic hi-hat work with Dream Theater demands cymbals that respond precisely to intricate stick technique.
+In metal, hi-hats face specific demands: crisp, cutting attack that punches through dense guitar walls; tight, controllable sound that defines complex rhythmic patterns; and enough projection for live environments where stage volume is extreme. Lars Ulrich's iconic hi-hat work on Metallica's "...And Justice for All" and "Master of Puppets" came from carefully selected Zildjian A Custom cymbals. Joey Jordison's furious 16th-note patterns with Slipknot relied on hi-hats with fast response and cutting top-end. Complex polyrhythmic hi-hat work in progressive metal demands cymbals that respond precisely to intricate stick technique.
 
 This guide breaks down exactly which hi-hats work best for metal, why weight and profile matter, and which specific models the pros use — from versatile Zildjian A Customs to dark Meinl Byzance options. Whether you play thrash, death, black, progressive, or modern metal, the right hi-hats make every groove feel locked and powerful.`,
       keyPoints: [
@@ -10548,7 +10548,7 @@ Lars Ulrich of Metallica has used Zildjian A Custom cymbals extensively througho
 
           description: `The Meinl Byzance Traditional Medium Hi-Hats bring a darker, more complex character to metal hi-hat work. The traditional finish and Meinl's hand-hammering process create a warmer, more nuanced sound with complex overtones — perfect for progressive metal, technical death metal, and any style where the hi-hat needs to do more than just cut.
 
-Mike Mangini of Dream Theater is a long-time Meinl endorser whose complex polyrhythmic hi-hat patterns demand a cymbal that responds to subtle dynamics and intricate technique. The Byzance Traditional's warm character works beautifully in progressive contexts where the hi-hat is as melodic as it is rhythmic. Blake Richardson of Between the Buried and Me uses Meinl cymbals for a similar reason — the darker, more complex character suits progressive metal's harmonic sophistication.`,
+Matt Halpern of Periphery is a Meinl endorser (Artist Concept series) whose intricate djent rhythms demand a cymbal that responds to subtle dynamics and complex technique. The Byzance Traditional's warm character works beautifully in progressive contexts where the hi-hat is as melodic as it is rhythmic.`,
 
           pros: [
             "Dark, complex character with warm overtones",
@@ -10570,8 +10570,6 @@ Mike Mangini of Dream Theater is a long-time Meinl endorser whose complex polyrh
             series: "Byzance Traditional"
           },
           usedBy: [
-            { name: "Mike Mangini", band: "Dream Theater", note: "Meinl endorser — progressive metal complexity" },
-            { name: "Blake Richardson", band: "Between the Buried and Me", note: "Prog metal dark character" },
             { name: "Matt Halpern", band: "Periphery", note: "Meinl endorser for djent/prog precision" }
           ],
           verdict: "Best hi-hat for progressive and technical metal. Dark, complex, and responsive to subtle technique.",
@@ -10695,7 +10693,7 @@ The K's ability to transition from aggressive closed chicks to rich, complex ope
             series: "K Zildjian"
           },
           usedBy: [
-            { name: "Mike Mangini", band: "Dream Theater", note: "Complex hi-hat dynamics in prog metal" }
+            { name: "Jason Bittner", band: "Shadows Fall / Overkill", note: "Zildjian K Hi-Hats in his A/K Custom setup" }
           ],
           verdict: "Best for progressive and atmospheric metal. Dark, complex, and musical in ways the A Custom isn't.",
           rating: 4.5,
@@ -10781,7 +10779,7 @@ The K's ability to transition from aggressive closed chicks to rich, complex ope
 - Dark, warm, complex character for nuanced styles
 - Hand-hammered for individual character
 - Best for progressive and technical metal
-- Preferred by: Mike Mangini, Blake Richardson, Matt Halpern
+- Preferred by: Matt Halpern
 
 **Paiste 2002 Sound Edge:**
 - Distinctive Sound Edge chick — tight and fast
@@ -10816,7 +10814,7 @@ The K's ability to transition from aggressive closed chicks to rich, complex ope
         {
           category: "Best for Progressive Metal",
           pedal: "Meinl Byzance Traditional Hi-Hats",
-          reason: "Dark, complex character for nuanced progressive styles. Mike Mangini's choice for a reason."
+          reason: "Dark, complex character for nuanced progressive styles. Matt Halpern's choice for a reason."
         },
         {
           category: "Best for Classic/Aggressive Metal",
@@ -10839,13 +10837,13 @@ The K's ability to transition from aggressive closed chicks to rich, complex ope
     ],
     relatedDrummers: [
       { slug: 'lars-ulrich', name: 'Lars Ulrich', reason: 'Zildjian A Custom — the definitive metal hi-hat sound' },
-      { slug: 'mike-mangini', name: 'Mike Mangini', reason: 'Meinl endorser — progressive metal hi-hat complexity' },
+      { slug: 'matt-halpern', name: 'Matt Halpern', reason: 'Meinl endorser — progressive metal hi-hat complexity' },
       { slug: 'mikkey-dee', name: 'Mikkey Dee', reason: 'Paiste 2002 — classic heavy metal hi-hat power' }
     ],
 
     featuredDrummers: [
       { slug: 'lars-ulrich', name: 'Lars Ulrich', reason: 'Zildjian A Custom — the definitive metal hi-hat benchmark across Metallica\'s career' },
-      { slug: 'mike-mangini', name: 'Mike Mangini', reason: 'Meinl Byzance — progressive metal hi-hat precision with Dream Theater' },
+      { slug: 'matt-halpern', name: 'Matt Halpern', reason: 'Meinl Byzance — progressive metal hi-hat precision with Periphery' },
       { slug: 'mikkey-dee', name: 'Mikkey Dee', reason: 'Paiste 2002 Sound Edge — iconic classic heavy metal hi-hat power' }
     ],
 
@@ -10853,7 +10851,7 @@ The K's ability to transition from aggressive closed chicks to rich, complex ope
     faq: [
       {
         question: "What hi-hats do metal drummers use?",
-        answer: "Most professional metal drummers use medium-heavy 14\" hi-hats from Zildjian, Meinl, or Paiste. Lars Ulrich of Metallica uses Zildjian A Custom hi-hats. Mike Mangini of Dream Theater uses Meinl Byzance. Mikkey Dee of Motörhead used Paiste 2002 Sound Edge. The common thread: cymbals that cut through dense guitar mixes with a focused, articulate attack."
+        answer: "Most professional metal drummers use medium-heavy 14\" hi-hats from Zildjian, Meinl, or Paiste. Lars Ulrich of Metallica uses Zildjian A Custom hi-hats. Matt Halpern of Periphery uses Meinl Byzance. Mikkey Dee of Motörhead used Paiste 2002 Sound Edge. The common thread: cymbals that cut through dense guitar mixes with a focused, articulate attack."
       },
       {
         question: "What size hi-hats are best for metal?",

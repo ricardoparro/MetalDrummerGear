@@ -11623,7 +11623,7 @@ export const DRUMMER_EVOLUTION = {
     band: 'Mayhem / Dimmu Borgir',
     totalYearsActive: '1988-Present',
     profileImage: '/images/drummers/hellhammer.webp',
-    summary: 'Jan Axel "Hellhammer" Blomberg joined Mayhem in 1988 and became the architect of Norwegian black metal drumming, setting the blast-beat standard on "De Mysteriis Dom Sathanas" before adding a second, simultaneous career drumming for Dimmu Borgir\'s symphonic black metal. His gear evolution spans Pearl kits in his early years before settling on the Sonor SQ2/Axis rig that powers both bands today.',
+    summary: 'Jan Axel "Hellhammer" Blomberg joined Mayhem in 1988 and became the architect of Norwegian black metal drumming, setting the blast-beat standard on "De Mysteriis Dom Sathanas" before adding a second, simultaneous career drumming for Dimmu Borgir\'s symphonic black metal. His gear evolution spans a developing Sonor/Paiste setup in his early years before settling on the Sonor SQ2/Axis rig that powers both bands today.',
 
     eras: [
       {
@@ -11639,27 +11639,27 @@ export const DRUMMER_EVOLUTION = {
 
         gear: {
           drums: {
-            item: 'Pearl kits (developing endorsement)',
+            item: 'Sonor (developing endorsement)',
             details: 'Raw, unpolished production-era setup',
-            notes: 'Developing Pearl relationship during the formative period — durable shells suited to the raw production aesthetic of early Norwegian black metal.',
+            notes: 'Developing Sonor relationship during the formative period — durable shells suited to the raw production aesthetic of early Norwegian black metal, in use on "De Mysteriis Dom Sathanas" (1994).',
             change: null,
           },
           snare: {
-            item: 'Pearl models, tuned bright',
+            item: 'Sonor models, tuned bright',
             details: 'Tuned for maximum crack in raw production',
             notes: 'Bright tuning essential for cutting through "De Mysteriis Dom Sathanas"\'s cold, layered guitar mix.',
             change: null,
           },
           cymbals: {
-            item: 'Zildjian (developing setup)',
-            details: 'Standard A Series during this period',
-            notes: 'The bright, cutting character he would refine across the next three decades begins here, serving Euronymous and Blackthorn\'s guitar tones.',
+            item: 'Paiste RUDE Series (developing setup)',
+            details: 'Early RUDE Series configuration during this period',
+            notes: 'The dark, cutting character he would refine across the next three decades begins here, serving Euronymous and Blackthorn\'s guitar tones.',
             change: null,
           },
           hardware: {
-            item: 'Pearl double bass pedal (early configuration)',
+            item: 'Double bass pedal (pre-Axis, unconfirmed model)',
             details: 'Chain-drive double pedal',
-            notes: 'Early pedal platform supporting the blast-beat foundation he was building.',
+            notes: 'Early pedal platform supporting the blast-beat foundation he was building — predates his confirmed 1999 switch to Axis.',
             change: null,
           },
           sticks: {
@@ -11847,7 +11847,7 @@ export const DRUMMER_EVOLUTION = {
       },
       {
         q: 'What drum kit does Hellhammer play?',
-        a: 'Hellhammer currently plays a Sonor SQ2 Heavy Beech drum kit, anchored by a Sonor SQ2 14"×5.5" maple snare — his confirmed current configuration. He started on developing-era Pearl kits in the late 1980s before moving to Sonor.',
+        a: 'Hellhammer currently plays a Sonor SQ2 Heavy Beech drum kit, anchored by a Sonor SQ2 14"×5.5" maple snare — his confirmed current configuration. He has been building his Sonor endorsement since developing-era kits in the late 1980s.',
       },
       {
         q: 'Why does Hellhammer play barefoot?',
@@ -11868,7 +11868,7 @@ export const DRUMMER_EVOLUTION = {
     ],
 
     metaTitle: 'Hellhammer Gear Evolution Timeline | Mayhem & Dimmu Borgir Drum Kit History',
-    metaDescription: 'Explore Hellhammer\'s 35+ year drum gear evolution: raw Pearl beginnings on "De Mysteriis Dom Sathanas" → the Sonor SQ2/Paiste RUDE/Axis rig that powers Mayhem and Dimmu Borgir today. Black metal\'s most enduring drummer, era by era.',
+    metaDescription: 'Explore Hellhammer\'s 35+ year drum gear evolution: raw developing-era Sonor/Paiste beginnings on "De Mysteriis Dom Sathanas" → the Sonor SQ2/Paiste RUDE/Axis rig that powers Mayhem and Dimmu Borgir today. Black metal\'s most enduring drummer, era by era.',
   },
 
   // ==========================================

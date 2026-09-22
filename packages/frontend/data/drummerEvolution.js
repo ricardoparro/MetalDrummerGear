@@ -2927,10 +2927,10 @@ export const DRUMMER_EVOLUTION = {
             change: CHANGE_TYPES.SWITCH,
           },
           sticks: {
-            item: 'Los Cabos Gene Hoglan Signature',
-            details: 'Custom hickory, precise taper',
-            notes: 'First signature drumstick model — Los Cabos Canadian brand',
-            change: CHANGE_TYPES.SIGNATURE,
+            item: 'Brand unconfirmed',
+            details: 'No signature stick deal is documented for Hoglan',
+            notes: 'No source documents a stick brand between his early Vic Firth sticks and his 2018 ProMark endorsement — specifics for this era are unconfirmed.',
+            change: null,
           },
           heads: {
             item: 'Evans G2 / EMAD',
@@ -2948,7 +2948,6 @@ export const DRUMMER_EVOLUTION = {
 
         keyChanges: [
           'Largest Tama kit configuration of career',
-          'Los Cabos Gene Hoglan Signature sticks launched',
           'Pearl Eliminator pedal adopted',
           'Evans heads partnership begins',
           'Sabian HHX series adopted',
@@ -2999,9 +2998,9 @@ export const DRUMMER_EVOLUTION = {
             change: CHANGE_TYPES.UPGRADE,
           },
           sticks: {
-            item: 'Los Cabos Gene Hoglan Signature (Refined)',
-            details: 'Updated taper and weight over years of collaboration',
-            notes: 'Ongoing Los Cabos collaboration spanning 15+ years',
+            item: 'Brand unconfirmed',
+            details: 'No stick brand is documented for this era',
+            notes: 'No source documents a stick brand between his early Vic Firth sticks and his 2018 ProMark endorsement — specifics for this era are unconfirmed.',
             change: null,
           },
           heads: {
@@ -3023,7 +3022,6 @@ export const DRUMMER_EVOLUTION = {
           'Dethklok/Metalocalypse drum recordings (2006-2013)',
           'Tama Gene Hoglan Signature Snare launched (2008)',
           'Sabian AAX series adoption',
-          'Los Cabos signature sticks refined through multiple iterations',
         ],
 
         quote: {
@@ -3071,10 +3069,10 @@ export const DRUMMER_EVOLUTION = {
             change: null,
           },
           sticks: {
-            item: 'Los Cabos Gene Hoglan Signature (Refined)',
-            details: 'Updated taper and weight over years of collaboration',
-            notes: 'Ongoing Los Cabos collaboration spanning 15+ years',
-            change: null,
+            item: 'ProMark Classic Forward 2B',
+            details: 'Standard hickory 2B model, non-signature',
+            notes: 'Settled on ProMark Classic Forward 2B sticks for his Pearl Reference Pure setup, favoring their balance across marathon touring and clinic schedules',
+            change: CHANGE_TYPES.SWITCH,
           },
           heads: {
             item: 'Evans UV2 / EMAD2',
@@ -3092,6 +3090,7 @@ export const DRUMMER_EVOLUTION = {
 
         keyChanges: [
           'Switched to Pearl Reference Pure endorsement (2018)',
+          'Signed with ProMark for Classic Forward 2B sticks (2018, non-signature)',
           'Titans of Creation (2020) with Testament',
           'Sabian AAX cymbal setup continued unchanged',
         ],

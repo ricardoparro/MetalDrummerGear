@@ -26530,7 +26530,7 @@ George Kollias (Nile) plays a Pearl D-3000 for the rock-solid stability his 260+
           },
           usedBy: [
             { name: "George Kollias", band: "Nile", note: "260+ BPM double-bass stability" },
-            { name: "Inferno", band: "Behemoth", note: "Extreme metal live sets" }
+            { name: "Inferno", band: "Behemoth", note: "Pearl D-2000 Throne for extreme metal live sets" }
           ],
           verdict: "The extreme-tempo specialist's choice. Built to stay planted no matter how fast your feet move.",
           rating: 4.7,
@@ -26693,7 +26693,7 @@ Less common in pure extreme metal but favored by drummers who run DW's full 9000
 **Round Top:**
 - Simpler design, generally more affordable
 - Wide, stable surface that suits drummers who shift position frequently
-- Preferred by: George Kollias, Inferno
+- Preferred by: George Kollias (D-3000), Inferno (D-2000)
 
 **The Truth:** Round tops dominate extreme metal because a wide, stable surface supports the aggressive, high-tempo motion the genre demands. Saddle seats shine in longer, more varied sets where sustained comfort matters more than a wide range of motion.
 

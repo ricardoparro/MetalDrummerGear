@@ -9613,3 +9613,48 @@ All 5 findings independently re-verified against current file content via fresh 
 1. Watch #7893-7897 through CEO triage.
 2. Content-gap queries unchanged/held on established precedent (Danny Carey exhausted-lever, Arin Ilejay class-2).
 3. Next drum-chair watch due Monday 2026-09-28, new group 0 (amon-amarth…cynic) per the 05:38 UTC run's resynced split.
+
+---
+
+## 2026-09-22 (run, per metrics.md 05:35 UTC) — 7 fresh proposals filed (#7926-7932): fabrication-sweep continuation + 1 L2 citation FAQ gap
+
+Open `seo-proposal` at run start: 12 (well under 45) → cleared to file up to 8 net-new. Metrics 05:35 UTC (322 users/372 sessions/516 views 7d; GSC 8,327 impr/184 clicks/2.21% CTR/pos 7.5). robots.txt: 13 `User-agent` blocks, all 8 AI crawlers explicitly allowed (stable). `/llms/*.md` endpoints: 2,016 files live (stable). Content-gap table unchanged (`arin ilejay` 363 impr/0.28% CTR, `danny carey drum kit` 92 impr/1.09% CTR) — both re-confirmed already held per existing class-2/exhausted-lever rulings (`learned-patterns.md` lines 205/211, 201/236), no new action. Today is Tuesday — drum-chair watch skipped per the once-per-Monday rule.
+
+### This run's work
+
+Dispatched two parallel research agents: one continuing the `genreGearGuides.js`-vs-`endorsementNews.js` fabrication sweep (re-checking a prior "untriaged leftovers" list from an earlier audit, since most had since been fixed), one auditing the 8 L2 "no-competitor-cited" rows from #2211's 2026-09-21 snapshot for genuine, freeze-compliant citable-fact gaps on existing pages. **Independently re-verified every finding from both agents myself via fresh `Read`/`grep` against current file content before filing anything** — this caught 2 false negatives from the L2 agent (see below), reinforcing the standing rule that agent-reported gaps must be re-checked against live source, not trusted at face value.
+
+**Fabrication fixes filed (6):**
+1. #7926 — Charlie Benante: `classicAlbumSnares` block fabricates "Pearl Brass" for the 1987 "Among the Living" entry; verified Tama since 1985, no Pearl ever.
+2. #7927 — George Kollias: "Pearl George Kollias Signature" snare fabricated in a 3rd sibling guide (`best-snare-drums-for-extreme-metal`) — #7867/#7868 already fixed the identical fabrication in 2 other guides but missed this one.
+3. #7928 — Gene Hoglan: "Tama Gene Hoglan Signature" snare fabricated across ~10 locations in the same extreme-metal snare guide; no snare model verified for him at all, and Tama was his 1983-2018 brand (not current — he's been Pearl since 2018).
+4. #7929 — Flo Mounier: pedal fabricated as "Pearl Demon Drive" in `best-drum-pedals-for-technical-death-metal`; verified Tama Speed Cobra 910 Twin Pedal (no Pearl pedal ever endorsed).
+5. #7930 — Flo Mounier: same Pearl Demon Drive pedal fabrication plus a fully invented "Pearl D-2000/D-3000" throne (no throne brand documented anywhere) in `best-drum-hardware-for-technical-death-metal`.
+6. #7931 — Ray Luzier: Pearl endorsement misdated "since 2007" in 2 guides (`best-drum-triggers-for-nu-metal`, `best-drum-kits-for-nu-metal`); verified 2013 switch from DW (signed 2010). A sibling guide already correct per #7858.
+
+**L2 citation fix filed (1):**
+7. #7932 — Nick Menza: add a "Who was Nick Menza?" FAQ item to close the #2211 no-competitor-cited gap on this bare-name query; all facts already verified elsewhere in the same `extendedBios.js` entry, no new claims.
+
+### Not filed (L2 agent's findings ruled out on independent verification)
+- `gravity-blast` "what is a gravity blast" — **false negative**. `techniques.js`'s `gravity-blast` entry has no static `faq` field, but `TechniqueDrummersPage.jsx`'s `buildTechniqueFaq()` auto-generates an FAQ (rendered with FAQPage JSON-LD) whose first question is literally "What is a Gravity Blast?" — already live, already answers the exact query. No fix needed.
+- `iowa-drum-setup` "what drum kit on iowa album" — **false negative**. The article already has a `faq` array (line ~762) with "What drum kit did Joey Jordison use on Iowa?" answered in full, quotable detail. No fix needed.
+- `nick-barker` "nick barker drum kit" — investigated, not actionable. FAQ already has a near-exact match question; the only remaining gap is prose word-count (~119w vs the 150-200w pattern), but Sonor's own artist page and `endorsementNews.js` don't document any further gear specifics for him — expanding would be padding, not new verified fact. Per the verified-only rule, left as-is.
+- `igor-cavalera` / `hellhammer drummer` (bare-name queries) — both already ruled class-2 (learned-patterns, 5 confirmed data points) — a copy/FAQ fix would repeat a disproven fix class. Correctly not filed by the research agent.
+- `sludge drum` — genuine structural gap (no sludge-metal definitional page exists, only gear-buying guides) but no safe additive fix under the new-page freeze. Logged, not filed.
+- `what bpm is master of puppets` — L2 agent found no gap (FAQ already answers it); consistent with the two false negatives above, likely a stale/noisy row in that snapshot.
+
+### Dedup notes
+All 6 fabrication findings cross-checked via `gh issue list --state all --search "<drummer>"` before filing; the Kollias/Hoglan/Mounier/Luzier findings explicitly named the sibling issues that fixed the *same* underlying fact in a *different* guide (#7867/#7868, #7570, #7858) to confirm this run's issues are genuine scope gaps, not re-files.
+
+### Open proposals waiting on CEO triage
+- #7869 (Daray, flagged human-verification-needed)
+- #7912-7921 (2026-09-21 drummerEvolution.js batch)
+- #7926-7932 (this run)
+- #2211/#3810/#3819 (standing umbrellas)
+
+### Next run
+1. Watch #7926-7932 through CEO triage.
+2. Content-gap queries unchanged/held on established precedent (Danny Carey exhausted-lever, Arin Ilejay class-2).
+3. `genreGearGuides.js`'s snare/pedal/hardware categories are still not fully exhausted — this run only sampled the prior leftover list plus targeted spot-checks; a broader category-by-category pass (bass-drum-shell, cymbal-stand, throne categories specifically) is worth a dedicated future sweep.
+4. If a 2nd L2 provider (item #4, `docs/seo-l2-l3-recovery.md`) ever ships, re-run the "no-competitor-cited" gap audit — today's pass showed the Perplexity-only snapshot has a non-trivial false-negative rate (2 of 8 rows already had the exact answer live), so don't treat every uncited row as a real gap without live-checking the page first.
+5. Next drum-chair watch due Monday 2026-09-28, group 0 (amon-amarth…cynic) per the 09-21 05:38 UTC run's resynced split.

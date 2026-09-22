@@ -17523,7 +17523,7 @@ The DW 9000's memory-lock system lets a groove metal drummer rebuild the exact s
           tier: "mid",
           material: "Double-braced round base",
 
-          description: `Shannon Larkin's decades of hard-hitting Godsmack grooves depend as much on a stable seat as on any stand. Pearl's D-3000 delivers a wide, double-braced round base and a locking height collar that stays put through the deliberate, driving hits groove metal is built around.
+          description: `A stable seat matters as much as any stand in groove metal's hard-hitting, riff-locked pocket. Pearl's D-3000 delivers a wide, double-braced round base and a locking height collar that stays put through the deliberate, driving hits groove metal is built around.
 
 A throne might seem like the least important piece of hardware in a pocket kit, but at groove metal's hard-hitting dynamic, any wobble under the seat translates directly into lost timing precision.`,
 
@@ -17545,7 +17545,7 @@ A throne might seem like the least important piece of hardware in a pocket kit, 
             weight: "Medium"
           },
           usedBy: [
-            { name: "Shannon Larkin", band: "Godsmack", note: "Pearl D-3000 throne for stability under hard-hitting grooves" }
+            { name: "Groove metal drummers", band: "Various", note: "Stable double-braced throne for hard-hitting grooves" }
           ],
           verdict: "The throne of choice for groove metal's hardest-hitting players.",
           rating: 4.6,
@@ -17707,7 +17707,7 @@ For a lean, standard-footprint groove metal kit, the Armory pack delivers double
         {
           category: "Best Throne",
           pedal: "Pearl D-3000 Roadster Throne",
-          reason: "Shannon Larkin's choice for rock-solid stability under hard, deliberate hits."
+          reason: "Rock-solid stability under groove metal's hard, deliberate hits."
         },
         {
           category: "Best Budget",
@@ -17746,8 +17746,8 @@ For a lean, standard-footprint groove metal kit, the Armory pack delivers double
         answer: "Generally, no. Groove metal's mid-tempo, riff-locked grooves are built around a standard 4-5 piece kit. Vinnie Paul and Shannon Larkin have both built careers on lean, standalone hardware setups rather than sprawling rack systems designed for technical, multi-tom playing."
       },
       {
-        question: "What throne does Shannon Larkin use?",
-        answer: "Shannon Larkin (Godsmack) relies on a wide, double-braced round-base throne in the style of Pearl's D-3000 Roadster, valued for staying stable under groove metal's hard, deliberate hitting dynamic across decades of touring."
+        question: "What throne is best for groove metal's hard-hitting dynamic?",
+        answer: "A wide, double-braced round-base throne like Pearl's D-3000 Roadster holds up best, since groove metal's hard, deliberate hitting dynamic can work a wobbly seat loose over a long set. Prioritize a locking height collar and genuine double-bracing over cushioning alone."
       },
       {
         question: "Is a full hardware pack or individual stands better for groove metal?",

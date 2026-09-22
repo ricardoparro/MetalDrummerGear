@@ -4550,40 +4550,40 @@ export const DRUMMER_EVOLUTION = {
         years: '2009–2015',
         startYear: 2009,
         endYear: 2015,
-        description: 'Gojira\'s most dynamic record. L\'Enfant Sauvage required Mario\'s most versatile performance — from blast beats to delicate atmospheric passages. The Gretsch rig was expanded and refined, with updated cymbal choices reflecting a more nuanced sonic palette.',
+        description: 'Gojira\'s most dynamic record. L\'Enfant Sauvage required Mario\'s most versatile performance — from blast beats to delicate atmospheric passages. The Tama rig, signed in 2010, was expanded and refined, with updated cymbal choices reflecting a more nuanced sonic palette.',
         albums: ['L\'Enfant Sauvage (2012)'],
         tours: ['L\'Enfant Sauvage World Tour', 'Festival circuit 2012–2014'],
         image: null,
 
         gear: {
           drums: {
-            item: 'Gretsch USA Custom (expanded)',
-            details: 'Maple shells: dual 22"×18" kicks, 8"/10"/12"/13"/16"/18" toms',
-            notes: 'Added smaller 8" rack tom for higher melodic range used in the album\'s more atmospheric passages. Gretsch configuration fully matured.',
+            item: 'Tama Starclassic Bubinga',
+            details: 'Bubinga shells: dual 22"×18" kicks, 8"/10"/12"/13"/16"/18" toms',
+            notes: 'Added smaller 8" rack tom for higher melodic range used in the album\'s more atmospheric passages. Tama configuration fully matured following the 2010 signing.',
             change: CHANGE_TYPES.UPGRADE,
           },
           snare: {
-            item: 'Gretsch USA Custom 14"×6.5"',
-            details: 'Maple shell — continued',
-            notes: 'Consistent Gretsch snare through this era. The maple warmth balanced well against L\'Enfant Sauvage\'s dynamic range.',
+            item: 'Tama Starclassic Bubinga 14"×6.5"',
+            details: 'Bubinga shell — continued',
+            notes: 'Consistent Tama snare through this era. The bubinga density balanced well against L\'Enfant Sauvage\'s dynamic range.',
             change: null,
           },
           cymbals: {
-            item: 'Meinl Byzance',
-            details: '14" Byzance Traditional hi-hats, 17"/18"/19" crashes, 21" ride, 18" China',
-            notes: 'Switched from Paiste 2002 to Meinl Byzance — darker, more complex tonal character suited L\'Enfant Sauvage\'s blend of brutality and atmosphere.',
-            change: CHANGE_TYPES.SWITCH,
+            item: 'Zildjian K Custom / A Custom / Z Custom',
+            details: '14" hi-hats, 17"/18"/19" crashes, 21" ride, 18" China',
+            notes: 'Zildjian K Custom, A Custom, and Z Custom mix suited L\'Enfant Sauvage\'s blend of brutality and atmosphere.',
+            change: null,
           },
           hardware: {
-            item: 'DW 9000 Double Pedal',
+            item: 'Tama Iron Cobra Double Pedal',
             details: 'Twin-chain drive double pedal',
-            notes: 'Upgraded to DW 9000 for improved response and consistency during longer live sets.',
-            change: CHANGE_TYPES.UPGRADE,
+            notes: 'Tama Iron Cobra double pedal for improved response and consistency during longer live sets.',
+            change: null,
           },
           sticks: {
             item: 'Vic Firth 5B',
             details: 'Continued hickory',
-            notes: 'Consistent stick choice throughout the Gretsch years.',
+            notes: 'Consistent stick choice through this era.',
             change: null,
           },
           heads: {
@@ -4601,16 +4601,10 @@ export const DRUMMER_EVOLUTION = {
         },
 
         keyChanges: [
-          'Cymbal switch from Paiste 2002 to Meinl Byzance',
           'Kit expanded with 8" rack tom for atmospheric range',
           'Evans heads adopted for improved kick attack definition',
           'L\'Enfant Sauvage (2012) — widely considered Gojira\'s finest album',
         ],
-
-        quote: {
-          text: "L\'Enfant Sauvage was about more control, more dynamics. The Byzance cymbals gave me that musical depth I needed for the quieter passages.",
-          source: 'Drum! Magazine, 2012',
-        },
 
         videos: [],
       },

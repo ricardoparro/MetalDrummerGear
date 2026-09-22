@@ -5,7 +5,7 @@ page_type: "gear_evolution"
 profile_url: "https://metalforge.io/drummers/mario-duplantier"
 evolution_url: "https://metalforge.io/drummers/mario-duplantier/evolution"
 source: "https://metalforge.io"
-last_updated: "2026-06-26"
+last_updated: "2026-09-22"
 ---
 
 # Mario Duplantier Drum Kit Evolution — Complete Timeline
@@ -71,23 +71,20 @@ The breakthrough. *From Mars to Sirius* put Gojira on the global metal map and b
 **Albums:** L'Enfant Sauvage (2012)
 **Tours:** L'Enfant Sauvage World Tour; festival circuit 2012–2014
 
-Widely considered Gojira's masterpiece, *L'Enfant Sauvage* required Mario's most versatile performance — from searing blast beats to delicate atmospheric passages in the same song. The cymbal switch to Meinl Byzance reflected the album's broader sonic ambition, and the expanded kit configuration gave Mario tonal range to match Gojira's most compositionally sophisticated work.
+Widely considered Gojira's masterpiece, *L'Enfant Sauvage* required Mario's most versatile performance — from searing blast beats to delicate atmospheric passages in the same song. The Tama rig, signed in 2010, and its expanded kit configuration gave Mario tonal range to match Gojira's most compositionally sophisticated work.
 
-- **Drums:** Gretsch USA Custom (expanded) — dual 22"×18" kicks, 8"/10"/12"/13"/16"/18" toms *(upgrade — added 8" rack tom for atmospheric range)*
-- **Snare:** Gretsch USA Custom 14"×6.5" maple (continued)
-- **Cymbals:** Meinl Byzance — 14" Traditional hi-hats, 17"/18"/19" crashes, 21" Vintage ride, 18" China *(switch — darker, more complex tonal character)*
-- **Hardware:** DW 9000 Double Pedal *(upgrade — improved response for longer live sets)*
+- **Drums:** Tama Starclassic Bubinga — bubinga shells: dual 22"×18" kicks, 8"/10"/12"/13"/16"/18" toms *(upgrade — added 8" rack tom for atmospheric range)*
+- **Snare:** Tama Starclassic Bubinga 14"×6.5" (continued)
+- **Cymbals:** Zildjian K Custom / A Custom / Z Custom — 14" hi-hats, 17"/18"/19" crashes, 21" ride, 18" China
+- **Hardware:** Tama Iron Cobra Double Pedal *(improved response for longer live sets)*
 - **Sticks:** Vic Firth 5B hickory (continued)
 - **Heads:** Evans G2 on toms, EMAD on kicks *(switch — better attack definition and kick focus)*
 - **Estimated kit cost (original):** ~$12,000
 
 **Key developments:**
-- Cymbal switch from Paiste 2002 to Meinl Byzance — major tonal shift
 - Kit expanded with 8" rack tom for atmospheric register
 - Evans heads adopted for improved kick attack definition
 - *L'Enfant Sauvage* (2012) — widely considered Gojira's finest album
-
-> "L'Enfant Sauvage was about more control, more dynamics. The Byzance cymbals gave me that musical depth I needed for the quieter passages." — *Drum! Magazine, 2012*
 
 ---
 
@@ -130,12 +127,13 @@ Gojira reached global headliner status — opening for Metallica at stadiums, he
 ## Gear Brand Partnerships Timeline
 
 - **Pearl Export** — 1996–2004 (formative era)
-- **Gretsch USA Custom** — 2005–2015 (international breakthrough endorsement)
-- **Tama Starclassic Bubinga** — 2016–present (current flagship kit)
+- **Gretsch USA Custom** — 2005–2008 (international breakthrough endorsement)
+- **Tama Starclassic Bubinga** — 2009–present (signed 2010, current flagship kit)
 - **Paiste 2002** — 1996–2008 (founding cymbal partnership)
-- **Meinl Byzance** — 2009–present (current cymbal partnership)
-- **DW 5000/9000** — 2005–2015 (pedal partnership)
-- **Tama Iron Cobra** — 2016–present (current pedal)
+- **Zildjian K Custom / A Custom / Z Custom** — 2009–2015 (L'Enfant Sauvage era)
+- **Meinl Byzance** — 2016–present (current cymbal partnership)
+- **DW 5000/9000** — 2005–2008 (pedal partnership)
+- **Tama Iron Cobra** — 2009–present (current pedal)
 - **Tama Mario Duplantier Signature Sticks** — 2016–present
 
 ---
@@ -146,7 +144,7 @@ Gojira reached global headliner status — opening for Metallica at stadiums, he
 A: Mario recorded *Magma* (2016) with his Tama Starclassic Bubinga kit — bubinga shells with dual 22"×18" kick drums, and toms in 10", 12", 13", 16", and 18" sizes. Cymbals were Meinl Byzance series. Hardware was Tama Iron Cobra 900 Power Glide double pedals.
 
 **Q: What cymbals does Mario Duplantier use?**
-A: Mario has used Meinl Byzance cymbals since approximately 2009, replacing the Paiste 2002 he used for the first decade of Gojira's career. His current Byzance setup includes 14" Traditional hi-hats, 17"/18"/19" crashes, a 21" Vintage ride, and an 18" China.
+A: Mario played Paiste 2002 for the first decade of Gojira's career, switched to Zildjian K Custom / A Custom / Z Custom for the L'Enfant Sauvage era (2009–2015), and has used Meinl Byzance since the Magma/Fortitude era (2016–present) — his current Byzance setup includes 14" Traditional hi-hats, 17"/18"/19" crashes, a 21" Vintage ride, and an 18" China.
 
 **Q: What drum kit did Mario use on From Mars to Sirius?**
 A: *From Mars to Sirius* (2005) was recorded with Mario's first major endorsement kit — the Gretsch USA Custom in maple shells, with dual 22"×18" kick drums. Cymbals were Paiste 2002, and hardware included the DW 5000 Turbo double pedal.

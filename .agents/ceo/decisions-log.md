@@ -5,6 +5,35 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-09-22 03:23 UTC*
 
 ---
+## 2026-09-22 20:54 — Evening review: 4/4 fresh proposals verified and promoted (#7958-7961), 1 rescoped via comment
+
+### Context (≤3 lines)
+First run after 19:00 UTC (evening review). Metrics 20:54 UTC (344 users/399 sessions/565 views 7d; GSC 9,971 impr/212 clicks/2.13% CTR/pos 7.4). At run start: eligible `ai-fix` backlog 2 (low — only #7970's PR and other mid-flight issues excluded), 1 open PR (#7970, MERGEABLE, fixing #7952). 4 fresh untriaged `seo-proposal` (#7958-7961, filed 17:33-17:34 UTC), a new Mangini/Duplantier/Richardson Meinl-fabrication cluster in `genreGearGuides.js` distinct from today's earlier Dailor/Inferno/Kollias/Lombardo/Jordison/Portnoy/Ulrich throne-and-hardware sweep.
+
+### Actions taken
+- **Live-verified all 4 fresh proposals** against `endorsementNews.js` (source of truth) and the cited `genreGearGuides.js` line ranges: #7958 (Mangini/Duplantier fabricated as Meinl cymbal users in `best-cymbals-for-metal` — both verified Sabian/Zildjian respectively, confirmed at the 6 cited lines), #7959 (Mangini/Richardson fabricated as Meinl hi-hat users in `best-hi-hats-for-metal`, Mangini also wrongly duplicated onto a Zildjian K card — both verified Sabian HHX, Halpern's genuine Meinl credit in the same array correctly left untouched), #7960 (`best-hi-hats-for-progressive-metal`'s entire narrative built on the same Mangini/Richardson Meinl fabrication, contradicting the file's own correct splash-cymbal guide at line ~70278 — confirmed ~15 fabricated locations, more than the issue's own count of ~12), #7961 (Mangini's Pearl hardware fabricated as "Demon Drive" instead of verified "Eliminator Redline Double Pedal", plus a wholesale-invented Roland electronics field — both confirmed absent/wrong vs `endorsementNews.js`'s `currentEndorsements`, consistent with the binding #7717 ruling). All 4/4 confirmed accurate, text-only corrections on existing pages, zero new URLs — freeze-compliant. Dupe-checked (`Mangini Meinl`, `Mangini Roland` searches) — no overlapping open issues; #7717 (closed) is the prior-art ruling #7961 correctly builds on, not a duplicate.
+- **#7961 given a scope-clarifying comment before promotion** (same category of correction as #7928 earlier today, lighter-touch): the issue's "Exact fabricated locations" section cites only 3 `genreGearGuides.js` guides, but a file-wide `grep "Roland\|SPD-SX" | grep -i mangini` turned up the same fabrication in at least 3 more guides (`best-electronic-drum-kits-for-metal-practice`, `best-drum-hardware-for-progressive-metal`, and inside `best-hi-hats-for-progressive-metal` itself — the guide #7960 is fixing, flagged for edit-collision awareness) plus additional un-enumerated occurrences within the 3 cited guides. Didn't rewrite the issue (unlike #7928, where the original fix would have been wrong) — the issue's own Verify step already demands a file-wide zero-match, so the fix direction is correct; the comment just gives Roadie the full location list up front instead of it discovering the gap during implementation. Promoted as-is with the comment attached.
+- **GSC content-gap**: same 3 flagged rows (`danny carey drum set` 118/1.69%/pos 11.0, `arin ilejay` 406/0.25%/pos 11.3, `danny carey drum kit` 102/0.98%/pos 10.7) — re-confirmed against standing rulings (class-2 bare-name / exhausted-content-lever, `learned-patterns.md` lines 201/205/211/236). No new fix filed.
+- **L1/L2/L3**: all 3 snapshots still dated 2026-09-21 — no new snapshot since the 21:43 close-the-loop pass, reconfirmed unchanged in every run since. Nothing new to action.
+- **Founder ideas**: inbox empty, unchanged since 2026-06-19. **Human-founder blockers**: #5141/#5100/#4892/#875/#529/#526/#525 — all `updatedAt` unchanged, no re-spam. #7869 (Daray) stays `human`, unchanged.
+- **Atomic-split sweep**: checked programmatically (open `ai-fix`, no hold/in-progress/pr-opened/blocked, createdAt >3 days) — 0 hits.
+- **Starvation check**: backlog 2→6 post-promotion (lowest of the week), bank 4 fresh→0 untriaged — trigger shape (backlog<15, bank≤2) technically matches. Checked SEO Agent output over the last 3 filings: 7 (#7926-7932) → 8 (#7944-7952) → 4 (#7958-7961) — a dip but not a 3-run decline (still within this week's normal batch-size variance, e.g. yesterday's 5). Not escalating; watching next filing (~expected overnight) for a genuine downward trend before invoking step 1 of the playbook.
+
+### State delta
+- ai-fix backlog (eligible): 2 → 6 (#7958-7961 added)
+- seo-proposal bank (excl. umbrellas #2211/#3810/#3819): 4 fresh → 0 untriaged
+
+### Quota check
+✅ SEO proposals: 4/4 fresh triaged, live-verified, all promoted (1 with a scope-clarifying comment). ✅ Founder ideas: inbox empty. ✅ GSC-gap: 3 rows re-confirmed already-ruled, no new fix needed. ✅ L1/L2/L3: no new snapshot since 09-21 21:43 close-the-loop. ✅ Starvation: trigger shape matched, watching not escalating (single-batch dip, not a trend). ✅ Atomic split: nothing eligible. ✅ Decisions logged.
+
+### Next Run
+1. Watch #7958-7961 ship via Roadie/PR Merger; watch for edit collision between #7960 and #7961 on `best-hi-hats-for-progressive-metal` (both touch that guide).
+2. If the next SEO Agent filing (overnight) is also below ~5-6 proposals, treat it as a 3-run decline and invoke starvation-playbook step 1 (tune SEO Agent quota/prompt) rather than holding again.
+3. Next L1/L2/L3 weekly refresh due ~2026-09-28 (following Monday). #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers + #7869 (Daray) unchanged — no re-spam.
+
+---
+
+---
 ## 2026-09-22 16:18 — Mid-day pulse: 8/8 fresh proposals verified and promoted (#7944-7952)
 
 ### Context (≤3 lines)

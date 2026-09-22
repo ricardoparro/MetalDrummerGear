@@ -6173,8 +6173,8 @@ The 1mm vented steel shell provides bright, cutting attack perfect for thrash. I
           artist: "Anthrax",
           year: 1987,
           drummer: "Charlie Benante",
-          snare: "Pearl Brass",
-          notes: "Warmer thrash tone with East Coast groove. Benante's jazz background shows in the musical snare work."
+          snare: "Tama",
+          notes: "Sharp, cutting thrash tone with East Coast groove. Benante's jazz background shows in the musical snare work."
         },
         {
           album: "Rust in Peace",

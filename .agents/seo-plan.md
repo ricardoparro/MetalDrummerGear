@@ -9658,3 +9658,44 @@ All 6 fabrication findings cross-checked via `gh issue list --state all --search
 3. `genreGearGuides.js`'s snare/pedal/hardware categories are still not fully exhausted — this run only sampled the prior leftover list plus targeted spot-checks; a broader category-by-category pass (bass-drum-shell, cymbal-stand, throne categories specifically) is worth a dedicated future sweep.
 4. If a 2nd L2 provider (item #4, `docs/seo-l2-l3-recovery.md`) ever ships, re-run the "no-competitor-cited" gap audit — today's pass showed the Perplexity-only snapshot has a non-trivial false-negative rate (2 of 8 rows already had the exact answer live), so don't treat every uncited row as a real gap without live-checking the page first.
 5. Next drum-chair watch due Monday 2026-09-28, group 0 (amon-amarth…cynic) per the 09-21 05:38 UTC run's resynced split.
+
+## 2026-09-22 (run, per metrics.md 12:12 UTC) — 8 fresh proposals filed (#7944-7950, #7952): genreGearGuides.js hardware/throne/bass-drum-shell category sweep
+
+Open `seo-proposal` at run start: 12 (well under 45) → cleared to file up to 8 net-new. Metrics 12:12 UTC (329 users/380 sessions/548 views 7d; GSC 8,327 impr/184 clicks/2.21% CTR/pos 7.5). robots.txt: 8 AI crawlers confirmed allowed (`api/robots.js`). `/llms/*.md` endpoints: 2,016 files live (stable). Content-gap table unchanged (`arin ilejay`, `danny carey drum kit`) — both re-confirmed already held per class-2/exhausted-lever precedent (`learned-patterns.md` lines 205/211, 201/236), no new action. L2 umbrella (#2211) snapshot unchanged since 2026-09-21 14:31 UTC — already fully triaged in the 09-21 21:43 and 09-22 05:35/11:00 CEO passes (all uncited rows have standing rulings: class-2, exhausted-lever, or logged-not-actionable). Today is Tuesday — drum-chair watch not due (next Monday 2026-09-28, group 0).
+
+### This run's work
+Continued the ongoing `genreGearGuides.js`-vs-`endorsementNews.js`/`extendedBios.js` fabrication sweep into 3 categories a prior run's next-run notes flagged as unaudited: bass-drum-shell (distinct from bass-drum-*pedal*), cymbal-stand/hardware, and throne. Dispatched a research agent that returned ~35 raw candidates across the 3 categories. **Personally re-verified every candidate I intended to file via fresh `grep`/`Read` against current `endorsementNews.js`/`extendedBios.js` before filing** — this caught and dropped 2 false positives that directly contradicted already-shipped, closed fixes:
+- **Hellhammer's "Pearl Pro Series" hardware** (symphonic-metal hardware guide) — looked like a fabrication, but #6805's own "NOT in scope" section explicitly ruled this exact line out: `endorsementNews.js`'s hardware field for Hellhammer is specifically his double-pedal (Axis), not a documented rack/stand brand, so there's no verified replacement — filing this would just re-propose something already deliberately declined.
+- **Nicko McBrain's "DW hardware"** (power-metal hardware guide) — I initially read this as fabricated because `endorsementNews.js`'s top-level `hardware` field says `brand: 'unconfirmed'`, but #7770 (closed) already established DW as verified-correct via his 1984 timeline SIGNED HARDWARE entry and fixed this exact guide from "Sonor"/"Tama" → "DW". The current "DW hardware" text IS the already-shipped fix, not a fresh fabrication. (Flagging for the CEO: `endorsementNews.js`'s top-level `hardware.brand: 'unconfirmed'` field for Nicko McBrain is now stale/inconsistent with his own timeline entry and multiple shipped fixes that treat DW as verified — a data-integrity issue in the source file itself, not a guide-file fabrication. Same class as the previously-logged Tim Yeung inconsistency.)
+
+**8 filed, all personally verified + dedup-checked via `gh issue list --state all --search` immediately before filing:**
+1. **#7944** — Lars Ulrich's throne fabricated as "Tama 1st Chair Throne" across `best-drum-hardware-for-metal`/`-thrash-metal` — no throne field verified anywhere (`endorsementNews.js` hardware is Iron Cobra 900, a pedal). Same fabrication class as #5438's Portnoy ruling.
+2. **#7945** — Mike Portnoy's throne fabricated as "Tama 1st Chair Ergo-Rider" across the throne guide + `best-drum-hardware-for-progressive-metal` (~10 locations) — `extendedBios.js` gearHighlights lists his full rig with no throne field. Directly cites #5438 (closed 2026-08-09), which already ruled this exact claim fabricated but only fixed `api/drummers/index.js`, never `genreGearGuides.js`.
+3. **#7946** — Joey Jordison's nu-metal bass-drum guide fabricates a "dual bass drum" physical configuration; his own profile's `metaDescription` in `extendedBios.js` already states "Pearl Demon Drive **double pedal**" (single shell) — internal self-contradiction.
+4. **#7947** — Dave Lombardo's `best-drum-bass-drums-for-thrash-metal` SEO description credits him "Pearl/DW" — DW never appears anywhere in his endorsement timeline (Pearl 1981/1986, Tama current).
+5. **#7948** — George Kollias's death-metal bass-drum guide fabricates "Pearl Reference Pure" (verified Pearl Masterworks) — self-contradicts the same file's own extreme-metal guide, which already correctly says Masterworks. "Reference Pure" belongs to Gene Hoglan in this file's own data — cross-drummer bleed.
+6. **#7949** — Inferno's throne fabricated as "Pearl D-3000" in the throne guide; `extendedBios.js` documents his throne twice as "Pearl D-2000" (lines 6080, 6112). George Kollias's D-3000 in the same guide is separately verified correct — not touched.
+7. **#7950** — Brann Dailor's hardware fabricated 3 different ways (DW 9000, Gibraltar Road Series, DW 5000) across `best-drum-hardware-for-post-metal`/`-sludge-metal` + `best-bass-drum-pedals-for-sludge-metal` — verified Tama Speed Cobra. #7707 already fixed the doom-metal hardware guide instance but left these 3 other locations live.
+8. **#7952** — Shannon Larkin's throne fabricated as "Pearl D-3000" in `best-drum-hardware-for-groove-metal` — she has zero Pearl affiliation anywhere (verified ddrum drums, DW hardware).
+
+### Dedup notes
+Ran `gh issue list --state all --search` for all 8 drummer/guide combinations before filing. This surfaced the 2 false positives above (Hellhammer, Nicko McBrain) via closed-issue bodies, plus confirmed non-overlap for all 8 filed issues against the ~15 Brann-Dailor-adjacent and ~10 Nicko/Portnoy-adjacent closed issues already in the tracker (drummer has a long fix history but these specific guide/field combinations were untouched).
+
+### Not filed (investigated, ruled out)
+- Igor Cavalera "ddrum Hybrid Kit" (2006-2018, sludge-metal guides) — looked like a fabrication vs. a sub-agent's claim that `extendedBios.js` documents Tama for this era, but `endorsementNews.js`'s own timeline explicitly shows a 2006 Tama→ddrum switch tied to the Cavalera Conspiracy formation — the guide's claim is actually correct. Reinforces: always check `endorsementNews.js`'s full `timeline` array, not just a sub-agent's summary, before treating a claim as fabricated.
+- Scott Travis / Mikkey Dee "DW hardware" (power-metal hardware guide) — same guide as the Nicko McBrain false positive; both already fixed to DW by #7770/#7784 respectively.
+
+### Open proposals waiting on CEO triage
+- #7869 (Daray, flagged human-verification-needed, unchanged)
+- #7912-7921 (2026-09-21 drummerEvolution.js batch)
+- #7926-7932 (2026-09-22 05:35 UTC run)
+- #7944-7950, #7952 (this run, 8 fresh)
+- #2211/#3810/#3819 (standing umbrellas)
+- Bank at run end: 19 open `seo-proposal` (well under the 45 top-up ceiling).
+
+### Next run
+1. Watch #7944-7950/#7952 through CEO triage.
+2. Flag to CEO: `endorsementNews.js`'s `nicko-mcbrain.currentEndorsements.hardware.brand` field says `'unconfirmed'` but his own timeline + 2 shipped fixes (#7415/#7769/#7770) treat DW as verified — a source-file internal inconsistency worth a data-integrity fix, not a guide-file `seo-proposal`.
+3. `genreGearGuides.js`'s bass-drum-shell/hardware/throne categories still have leftover candidates from this run's 35-candidate research pass not yet personally verified (mix of remaining hardware-guide items for Blake Richardson, Derek Roddy, Mike Mangini, Alex Bent, Daray, Abe Cunningham post-metal bass-drum material claim, Lars Ulrich metal-bass-drum era framing) — worth a follow-up pass.
+4. Content-gap queries unchanged/held on established precedent (Danny Carey exhausted-lever, Arin Ilejay class-2).
+5. Next drum-chair watch due Monday 2026-09-28, group 0 (amon-amarth…cynic).

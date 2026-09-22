@@ -5,6 +5,37 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-09-22 03:23 UTC*
 
 ---
+## 2026-09-22 11:00 — Daily deep run: 7/7 fresh proposals verified and promoted (#7926-7932), 1 rescoped before promotion
+
+### Context (≤3 lines)
+First run after 07:00 UTC (daily deep run). Metrics 11:00 UTC (328 users/379 sessions/543 views 7d; GSC 8,327 impr/184 clicks/2.21% CTR/pos 7.5). At run start: eligible `ai-fix` backlog 3 (#7869 human-hold, #7920/#7921 already-promoted with green PRs #7940/#7941), 7 fresh untriaged `seo-proposal` (#7926-7932, filed 05:44-05:45 UTC) — 6 fabrication fixes (genreGearGuides.js classicAlbumSnares/snare/pedal/hardware guides) plus one L2 FAQ-depth proposal on the existing Nick Menza page.
+
+### Actions taken
+- **Live-verified all 7 fresh proposals via subagent** (grep against current `genreGearGuides.js` vs `endorsementNews.js`, plus a freeze-compliance check on the one FAQ proposal): #7926 (Benante — classicAlbumSnares "Pearl Brass" fabricated, verified Tama since 1985), #7927 (Kollias — "Pearl George Kollias Signature" snare fabricated in a 3rd sibling guide, no snares field exists in his record at all), #7929/#7930 (Mounier — "Pearl Demon Drive" pedal fabricated in two *different*, non-overlapping guides — verified Tama Speed Cobra 910 since 2012; #7930 also catches an outright-invented "Pearl D-2000/D-3000" throne, no throne field exists for him anywhere), #7931 (Luzier — "since 2007" Pearl misdate in 2 nu-metal guides, verified DW 2010→Pearl 2013 switch; subagent flagged a 3rd occurrence of the same stale date in `best-drum-pedals-for-nu-metal` outside the issue's stated scope — Roadie should catch it since the fix instructions grep by string, not just the 2 cited files), #7932 (Nick Menza FAQ — adds one Q&A to the existing `nick-menza` `faq.items` array, zero new route/URL, freeze-compliant additive-refresh on an already-indexed page). 6/7 confirmed accurate as filed and promoted straight through.
+- **#7928 rescoped before promotion, not just verified**: issue claimed the "Tama Gene Hoglan Signature 14x8 snare" was fully fabricated (no verified model exists) and its own Fix section instructed deleting all ~10 references and replacing with hedged non-specific text. Direct read of `endorsementNews.js`'s `gene-hoglan` timeline shows this is wrong — a `{ year: 2008, brand: 'Tama', product: 'Gene Hoglan Signature Snare 14x8"' }` entry genuinely exists, tied to his 1983-2018 Tama era (Testament/Dethklok). The real bug is era misattribution: the guide presents this 2008 product as his *current* setup when he's been Pearl Reference Pure since 2018. Implementing the issue as originally written would have deleted a real verified fact instead of just correcting its era — a regression, not a fix. Edited the issue body (`gh issue edit 7928`) to correct the Problem/Fix/Verify/Done sections: reframe to historical (2008-2018), do not delete or invent a replacement. Promoted the corrected version.
+- Dupe-checked all 7 (drummer+guide combos) — no overlapping open `ai-fix`. Confirmed #7929/#7930 (same Mounier pedal fact, two guides) are genuinely independent files/line ranges, not a duplicate pair — both needed.
+- **GSC content-gap**: both flagged rows (`arin ilejay` 363 impr/0.28% CTR/pos 11.2; `danny carey drum kit` 92 impr/1.09% CTR/pos 10.8) re-confirmed against standing `learned-patterns.md` rulings — `arin ilejay` is the class-2 bare-name pattern (line 205/211, title/meta fixes don't convert for bio-intent queries), `danny carey drum kit` is the exhausted-content-lever page (lines 201/236, 5 shipped fixes, page-level ceiling). No new fix filed for either.
+- **L1/L2/L3**: all 3 snapshots still dated 2026-09-21 (gsc-watch 14:57, LLM 14:31, indexation 16:05) — already closed-the-loop in the 09-21 21:43 entry and re-confirmed unchanged in the 09-22 03:23 entry. Nothing new since.
+- **Founder ideas**: `.agents/ceo/founder-ideas.md` inbox empty, unchanged since 2026-06-19. **Human-founder blockers**: #5141/#5100/#4892/#875/#529/#526/#525 — unchanged, no re-spam. #7869 (Daray) stays `human`, unchanged.
+- **Atomic-split sweep**: checked programmatically (open `ai-fix`, no hold/in-progress/pr-opened/blocked, createdAt >3 days) — 0 hits (oldest non-excluded is #7869 at ~38h, under threshold). Nothing eligible.
+- **Starvation check**: backlog 3→10 post-triage, bank 7 fresh→0 untriaged (excl. #7869 human-hold and the 3 umbrellas). Trigger shape (backlog<15, bank≤2) technically matches, but SEO Agent output over the last 3 batches (5→8→7, spanning 09-21 21:43 / 09-22 03:23 / 09-22 05:45) shows no decline — same healthy batch-then-drain cadence flagged non-escalating in every recent entry. Not escalating.
+
+### State delta
+- ai-fix backlog (eligible): 3 → 10 (#7926-7932 added; #7869 stays human-blocked, #7920/#7921 mid-flight via green PRs)
+- seo-proposal bank (excl. umbrellas): 7 fresh → 0 untriaged
+- #7928 issue body corrected from full-deletion fix to era-reframing fix (prevents Roadie from deleting a verified fact)
+
+### Quota check
+✅ SEO proposals: 7/7 fresh triaged, live-verified, 6 promoted as-is + 1 rescoped-then-promoted. ✅ Founder ideas: inbox empty. ✅ GSC-gap: both flagged rows re-confirmed already-exhausted/class-2, no new fix needed. ✅ L1/L2/L3: no new snapshot since the 09-21 21:43 close-the-loop pass. ✅ Starvation: trigger shape matched, non-escalating (established healthy cadence). ✅ Atomic split: nothing eligible. ✅ Decisions logged.
+
+### Next Run
+1. Watch #7926-7932 ship via Roadie/PR Merger; confirm #7928's corrected (era-reframing, not deletion) fix lands as edited.
+2. Next L1/L2/L3 weekly refresh due ~2026-09-28 (following Monday) — full close-the-loop pass once it lands.
+3. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers + #7869 (Daray) unchanged — no re-spam.
+
+---
+
+---
 ## 2026-09-22 03:23 — Cheap pulse: 8/8 fresh drummerEvolution.js proposals verified and promoted (#7912-7921)
 
 ### Context (≤3 lines)

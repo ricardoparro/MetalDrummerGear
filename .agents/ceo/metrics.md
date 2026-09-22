@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-09-22 05:35 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-09-22 11:00 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,49 +8,49 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 322 |
-| Sessions | 372 |
-| Page views | 516 |
-| Engagement rate | 54.84% |
-| Avg session (s) | 112 |
+| Active users | 328 |
+| Sessions | 379 |
+| Page views | 543 |
+| Engagement rate | 60.95% |
+| Avg session (s) | 97 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
-| /drummer/joey-jordison | 18 | 11 |
+| /drummer/joey-jordison | 19 | 12 |
+| /bpm | 17 | 3 |
 | / | 16 | 11 |
 | /drummers | 16 | 5 |
-| /bpm | 15 | 2 |
 | /drummer/bill-ward | 15 | 10 |
-| /drummer/mario-duplantier | 11 | 9 |
-| /drummer/frost | 10 | 3 |
-| /drummer/matt-greiner | 10 | 11 |
+| /drummer/matt-greiner | 12 | 11 |
+| /drummer/frost | 11 | 3 |
+| /drummer/mario-duplantier | 11 | 10 |
 | /drummer/abe-cunningham | 8 | 1 |
 | /drummer/danny-carey | 8 | 7 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 274 | 226 |
-| Direct | 56 | 55 |
-| Unassigned | 46 | 44 |
-| Cross-network | 26 | 26 |
+| Organic Search | 305 | 256 |
+| Direct | 59 | 58 |
+| Unassigned | 15 | 14 |
+| Cross-network | 10 | 10 |
 | AI Assistant | 1 | 1 |
 | Referral | 1 | 1 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 139 | 116 |
-| United Kingdom | 31 | 18 |
-| Singapore | 20 | 20 |
+| United States | 141 | 118 |
+| United Kingdom | 32 | 18 |
+| Singapore | 21 | 21 |
 | Germany | 19 | 15 |
 | Canada | 13 | 12 |
 | France | 13 | 13 |
 | Finland | 12 | 11 |
-| China | 10 | 10 |
+| China | 11 | 11 |
+| Australia | 9 | 9 |
 | Italy | 9 | 7 |
-| Australia | 8 | 8 |
 
 ## Search Console — Search performance
 | Metric | Last 7d |

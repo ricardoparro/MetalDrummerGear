@@ -68148,14 +68148,14 @@ Budget shouldn't stop you either. A Tama Metalworks or Pearl Modern Utility snar
       title: "Why Extreme Metal Snares Have to Survive Before They Have to Sound Good",
       content: `Extreme metal — death metal, technical death metal, and the grindcore-adjacent brutality that surrounds them — places durability and speed demands on a snare drum that few other genres match. At 200-280 BPM sustained blast beats, a snare gets struck thousands of times a set, night after touring night, and has to keep firing instantly on every stroke long after ordinary snares would lose sensitivity or crack under the repeated impact.
 
-George Kollias of Nile plays a Pearl George Kollias Signature 14"x6.5" brass snare, relying on its cutting articulation to slice through Nile's densely layered technical death metal even while sustaining blast beats past 240 BPM. Pete Sandoval of Morbid Angel built his gravity-blast sound on a ddrum maple snare (specific model unconfirmed) through his 2013 departure from the band, valuing the warm, controlled response that survived his uniquely punishing technique. Derek Roddy of Hate Eternal and Nile plays a Tama Starclassic Bubinga 14"x6.5" snare, prized for the crack and durability that hold up across his "One Take" recording sessions and relentless touring schedule.
+George Kollias of Nile is a longtime Pearl drums endorser (Pearl Masterworks Series), though Pearl hasn't publicly documented his specific snare model — free-floating brass snares, prized for the cutting articulation that lets every stroke fire cleanly through Nile's densely layered technical death metal even while sustaining blast beats past 240 BPM, are what many extreme-tempo Pearl endorsers gravitate toward. Pete Sandoval of Morbid Angel built his gravity-blast sound on a ddrum maple snare (specific model unconfirmed) through his 2013 departure from the band, valuing the warm, controlled response that survived his uniquely punishing technique. Derek Roddy of Hate Eternal and Nile plays a Tama Starclassic Bubinga 14"x6.5" snare, prized for the crack and durability that hold up across his "One Take" recording sessions and relentless touring schedule.
 
 Gene Hoglan of Death and Testament plays a Tama Gene Hoglan Signature 14"x8" steel snare, an exceptionally deep shell built for the thunderous power and cutting attack his metronomic "Atomic Clock" precision demands.
 
 This guide breaks down what actually makes a snare survive extreme metal's demands — durability, fast response, and consistent crack under sustained abuse — and recommends specific models across every budget, from a first touring-durable snare to the exact drums extreme metal's most demanding drummers play.`,
       keyPoints: [
         "Extreme metal's sustained blast beats destroy snares that work fine in slower metal styles — durability is not optional",
-        "George Kollias's Pearl Signature brass snare and Derek Roddy's Tama Starclassic Bubinga snare both prioritize cutting crack under repeated impact",
+        "Free-floating brass snares — the design many Pearl-endorsed drummers like George Kollias favor — and Derek Roddy's Tama Starclassic Bubinga snare both prioritize cutting crack under repeated impact",
         "Gene Hoglan's unusually deep 14x8\" steel snare shows how depth can add thunderous power without sacrificing attack",
         "14x6.5\" is the most common depth across extreme metal's fastest drummers, balancing crack, body, and fast response"
       ]
@@ -68168,19 +68168,19 @@ This guide breaks down what actually makes a snare survive extreme metal's deman
         {
           name: "Instant, Cutting Attack",
           icon: "⚡",
-          description: "George Kollias's brass snare and Derek Roddy's bubinga snare are both voiced to speak instantly at 240+ BPM, so every stroke registers clearly instead of blurring into the wall of blast beats around it.",
+          description: "Free-floating brass snares — the design many Pearl-endorsed drummers like George Kollias favor — and Derek Roddy's bubinga snare are both voiced to speak instantly at 240+ BPM, so every stroke registers clearly instead of blurring into the wall of blast beats around it.",
           recommendation: "Brass or dense wood shells for cutting attack that projects through dense, downtuned mixes"
         },
         {
           name: "Durability Under Sustained Abuse",
           icon: "🛡️",
-          description: "Extreme metal practice and touring inflicts thousands of full-force strokes a night. Thick metal shells and reinforced hardware, like the setups Kollias and Roddy rely on, hold tuning and resist cracking where budget shells fail.",
+          description: "Extreme metal practice and touring inflicts thousands of full-force strokes a night. Thick metal shells and reinforced hardware, like the setup Roddy relies on and the free-floating Pearl designs Kollias favors, hold tuning and resist cracking where budget shells fail.",
           recommendation: "Reinforced hoops and a quality metal shell built for daily, full-force extreme metal use"
         },
         {
           name: "Standard 14x6.5\" Depth for Versatility",
           icon: "📏",
-          description: "Kollias and Roddy favor a 14x6.5\" depth — the same depth Sandoval favored during his Morbid Angel career — balancing crack and body across both blast beats and heavier, groove-based passages within extreme metal's broader stylistic range.",
+          description: "Roddy favors a 14x6.5\" depth — the same depth Sandoval favored during his Morbid Angel career — balancing crack and body across both blast beats and heavier, groove-based passages within extreme metal's broader stylistic range.",
           recommendation: "14x6.5\" for the versatility to handle both blast beats and slower, weightier sections"
         },
         {
@@ -68210,43 +68210,40 @@ This guide breaks down what actually makes a snare survive extreme metal's deman
       pedals: [
         {
           rank: 1,
-          name: "Pearl George Kollias Signature",
+          name: "Pearl Sensitone Premium Free-Floating Brass",
           brand: "Pearl",
-          model: "George Kollias Signature 14\"x6.5\" Brass",
+          model: "Sensitone Premium Free-Floating 14\"x6.5\" Brass",
           image: "https://upload.wikimedia.org/wikipedia/commons/a/ac/Drums_01.jpg",
           priceRange: "€400-500",
           tier: "pro",
           material: "Brass",
 
-          description: `George Kollias's Pearl George Kollias Signature 14"x6.5" brass snare is built for cutting articulation through Nile's densely layered technical death metal walls. Kollias, one of the fastest drummers in extreme metal, needs a snare that fires cleanly on every stroke while sustaining blast beats past 240 BPM.
+          description: `Pearl's Sensitone Premium Free-Floating brass snare is built for cutting articulation through extreme metal's densely layered walls of sound. The free-floating system suspends the shell from its own flanges rather than external lug casings, eliminating dampening so every stroke fires cleanly while sustaining blast beats past 240 BPM.
 
-The brass shell adds warmth to the crack, keeping the snare musical and legible even at extreme tempos — essential for the ghost notes and dynamic transitions Kollias weaves into Nile's brutal framework.`,
+The brass shell adds warmth to the crack, keeping the snare musical and legible even at extreme tempos. George Kollias of Nile is a longtime Pearl drums endorser (Pearl Masterworks Series), though Pearl hasn't publicly documented a specific signature snare model for him — free-floating brass designs like this one are what many extreme-tempo Pearl endorsers gravitate toward.`,
 
           pros: [
-            "George Kollias's signature setup — extreme metal's fastest drummer's choice",
+            "Free-floating system eliminates lug dampening for maximum resonance",
             "Brass shell delivers cutting crack with musical warmth",
-            "Proven across 240+ BPM sustained blast beats",
+            "The free-floating design many extreme-tempo Pearl-endorsed drummers favor",
             "14x6.5\" depth balances crack and body for versatile playing",
-            "Signature-tier hardware built for extreme metal's demands"
+            "Pearl build quality and reliability"
           ],
           cons: [
-            "Premium signature pricing",
+            "Premium pro-tier pricing",
             "Brass brightness may feel harsh for drummers wanting a darker tone",
-            "Requires careful tuning to avoid excess ring at high volume"
+            "Free-floating design requires careful tuning technique"
           ],
           specs: {
             shell: "Brass",
             size: "14\" x 6.5\"",
             hoops: "Die-cast",
-            lugs: "Pearl signature tube lugs",
+            lugs: "Free-floating (no shell-mounted lugs)",
             bestFor: "Cutting, musical crack for sustained blast beats past 240 BPM"
           },
-          usedBy: [
-            { name: "George Kollias", band: "Nile", note: "Pearl George Kollias Signature 14\"x6.5\" Brass — current touring and recording setup" }
-          ],
-          verdict: "The extreme metal speed standard. Kollias's signature brass snare delivers cutting, musical crack at the genre's most extreme tempos.",
+          verdict: "The extreme metal speed standard. Free-floating brass delivers cutting, musical crack at the genre's most extreme tempos.",
           rating: 4.8,
-          affiliateLink: "https://www.thomann.de/intl/pearl_george_kollias_signature_snare.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/pearl_sensitone_premium_free_floating.htm?partner_id=metalforge"
         },
         {
           rank: 2,
@@ -68397,10 +68394,10 @@ The maple shell's warmth sits well against dense, downtuned guitar work, proving
           priceRange: "€200-280",
           tier: "budget",
           material: "Steel",
-          description: "The Pearl Sensitone Elite offers a budget path toward the cutting brass tone George Kollias's signature snare represents, in a more affordable steel configuration. It's a genuinely capable snare for developing fast, technical blast beat playing.",
-          pros: ["Budget entry into Pearl's signature-adjacent tonal family", "Good projection for developing blast beat technique", "Versatile across extreme metal subgenres"],
-          cons: ["Less refined than a full signature build", "Standard configurations only"],
-          verdict: "Best budget path toward Kollias's cutting Pearl signature sound.",
+          description: "The Pearl Sensitone Elite offers a budget path toward the cutting Pearl tone the brand's free-floating brass line is known for, in a more affordable steel configuration. It's a genuinely capable snare for developing fast, technical blast beat playing.",
+          pros: ["Budget entry into Pearl's Sensitone tonal family", "Good projection for developing blast beat technique", "Versatile across extreme metal subgenres"],
+          cons: ["Less refined than the free-floating brass line", "Standard configurations only"],
+          verdict: "Best budget path toward Pearl's cutting free-floating brass sound.",
           rating: 4.0,
           affiliateLink: "https://www.thomann.de/intl/pearl_sensitone_snare_steel.htm?partner_id=metalforge"
         }
@@ -68412,7 +68409,7 @@ The maple shell's warmth sits well against dense, downtuned guitar work, proving
       title: "Brass vs Bubinga vs Steel vs Maple for Extreme Metal Snares",
       content: `Shell material splits extreme metal's fastest drummers into distinct camps. Here's how each compares:
 
-**Brass (George Kollias):**
+**Brass (free-floating Pearl designs favored by drummers like George Kollias):**
 - Cutting, musical crack that stays legible at 240+ BPM
 - Standard 14x6.5\" depth balances speed and body
 - Best for: Technical death metal demanding instant, warm-edged attack
@@ -68447,8 +68444,8 @@ The maple shell's warmth sits well against dense, downtuned guitar work, proving
       picks: [
         {
           category: "Best Overall",
-          pedal: "Pearl George Kollias Signature",
-          reason: "George Kollias's Nile setup — cutting, musical crack proven at 240+ BPM."
+          pedal: "Pearl Sensitone Premium Free-Floating Brass",
+          reason: "The free-floating brass design many Pearl-endorsed extreme metal drummers favor — cutting, musical crack proven at 240+ BPM."
         },
         {
           category: "Best for Touring Durability",
@@ -68476,7 +68473,7 @@ The maple shell's warmth sits well against dense, downtuned guitar work, proving
       'best-hi-hats-for-extreme-metal'
     ],
     relatedDrummers: [
-      { slug: 'george-kollias', name: 'George Kollias', reason: 'Pearl George Kollias Signature 14x6.5\" Brass — Nile\'s 240+ BPM blast beat endurance' },
+      { slug: 'george-kollias', name: 'George Kollias', reason: 'Pearl Masterworks endorser — Nile\'s 240+ BPM blast beat endurance' },
       { slug: 'pete-sandoval', name: 'Pete Sandoval', reason: 'ddrum (career-long endorsement, model unconfirmed) — pioneer of the gravity blast technique' },
       { slug: 'derek-roddy', name: 'Derek Roddy', reason: 'Tama Starclassic Bubinga 14x6.5\" — one-take recording durability' },
       { slug: 'gene-hoglan', name: 'Gene Hoglan', reason: 'Tama Gene Hoglan Signature 14x8\" Steel — The Atomic Clock\'s thunderous power' }
@@ -68484,7 +68481,7 @@ The maple shell's warmth sits well against dense, downtuned guitar work, proving
 
     // Featured drummers (issue template)
     featuredDrummers: [
-      { slug: 'george-kollias', name: 'George Kollias', reason: 'Pearl George Kollias Signature 14x6.5\" Brass — Nile\'s 240+ BPM blast beat endurance' },
+      { slug: 'george-kollias', name: 'George Kollias', reason: 'Pearl Masterworks endorser — Nile\'s 240+ BPM blast beat endurance' },
       { slug: 'pete-sandoval', name: 'Pete Sandoval', reason: 'ddrum (career-long endorsement, model unconfirmed) — pioneer of the gravity blast technique' },
       { slug: 'derek-roddy', name: 'Derek Roddy', reason: 'Tama Starclassic Bubinga 14x6.5\" — one-take recording durability' },
       { slug: 'gene-hoglan', name: 'Gene Hoglan', reason: 'Tama Gene Hoglan Signature 14x8\" Steel — The Atomic Clock\'s thunderous power' }
@@ -68494,7 +68491,7 @@ The maple shell's warmth sits well against dense, downtuned guitar work, proving
     faq: [
       {
         question: "What snare does George Kollias use?",
-        answer: "George Kollias of Nile plays a Pearl George Kollias Signature 14\"x6.5\" brass snare, giving his blast beats past 240 BPM a cutting, musical crack that stays legible through Nile's densely layered technical death metal."
+        answer: "George Kollias of Nile is a longtime Pearl drums endorser (Pearl Masterworks Series), though Pearl hasn't publicly documented his specific snare model. His verified signature product is the Pearl Demon XR pedal line, co-designed for sustaining blast beats past 240 BPM."
       },
       {
         question: "What snare did Pete Sandoval play?",
@@ -68502,11 +68499,11 @@ The maple shell's warmth sits well against dense, downtuned guitar work, proving
       },
       {
         question: "Steel, brass, bronze, or maple snare for extreme metal?",
-        answer: "All four work at the highest level. George Kollias's brass snare delivers cutting, musical attack; Derek Roddy's bubinga snare offers dark, durable crack; Gene Hoglan's deep steel snare provides thunderous power; and Pete Sandoval's maple ddrum snare gave warm, controlled response during his Morbid Angel career. Match the material to whether you prioritize speed, durability, power, or warmth."
+        answer: "All four work at the highest level. Free-floating brass snares, the design many Pearl-endorsed drummers like George Kollias favor, deliver cutting, musical attack; Derek Roddy's bubinga snare offers dark, durable crack; Gene Hoglan's deep steel snare provides thunderous power; and Pete Sandoval's maple ddrum snare gave warm, controlled response during his Morbid Angel career. Match the material to whether you prioritize speed, durability, power, or warmth."
       },
       {
         question: "What size snare is best for extreme metal?",
-        answer: "A 14\"x6.5\" shell is most common, balancing crack and body — the depth George Kollias and Derek Roddy use, and the depth Pete Sandoval favored during his Morbid Angel career. Gene Hoglan's deeper 14\"x8\" signature snare suits extreme metal's more groove-heavy, power-focused side."
+        answer: "A 14\"x6.5\" shell is most common, balancing crack and body — the depth Derek Roddy uses, and the depth Pete Sandoval favored during his Morbid Angel career. Gene Hoglan's deeper 14\"x8\" signature snare suits extreme metal's more groove-heavy, power-focused side."
       },
       {
         question: "Do I need a signature snare to play extreme metal?",
@@ -68517,7 +68514,7 @@ The maple shell's warmth sits well against dense, downtuned guitar work, proving
     // Conclusion
     conclusion: {
       title: "Find Your Extreme Metal Snare Voice",
-      content: `Extreme metal snare choice comes down to how much instant, cutting crack your blast beats demand versus how much durability, power, or warmth you need to survive touring and recording. George Kollias's Pearl signature brass snare defined the cutting, musical standard for technical death metal speed. Derek Roddy's dense Tama bubinga snare proved durability under one-take recording pressure and relentless touring. Gene Hoglan's unusually deep steel signature snare shows how thunderous power can anchor groove-heavy extreme metal, while Pete Sandoval's maple ddrum snare showed that warmth and control could still cut through the genre's harshest sonic environment during his Morbid Angel career.
+      content: `Extreme metal snare choice comes down to how much instant, cutting crack your blast beats demand versus how much durability, power, or warmth you need to survive touring and recording. Pearl's free-floating brass line — the design many extreme-tempo Pearl endorsers like George Kollias favor — defines the cutting, musical standard for technical death metal speed. Derek Roddy's dense Tama bubinga snare proved durability under one-take recording pressure and relentless touring. Gene Hoglan's unusually deep steel signature snare shows how thunderous power can anchor groove-heavy extreme metal, while Pete Sandoval's maple ddrum snare showed that warmth and control could still cut through the genre's harshest sonic environment during his Morbid Angel career.
 
 None of these approaches is more "correct" — all four represent extreme metal's founding commitment to snares that survive sustained blast beat abuse without sacrificing crack. Start with whichever voicing matches your material's balance of speed, power, and durability.
 

@@ -5,6 +5,34 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-09-22 03:23 UTC*
 
 ---
+## 2026-09-22 16:18 — Mid-day pulse: 8/8 fresh proposals verified and promoted (#7944-7952)
+
+### Context (≤3 lines)
+First run after 13:00 UTC (mid-day pulse). Metrics 16:18 UTC (331 users/382 sessions/551 views 7d; GSC 8,327 impr/184 clicks/2.21% CTR/pos 7.5, unchanged from the 11:00 deep run — GSC lags). At run start: eligible `ai-fix` backlog 3 (#7930/#7928 green-PR-bound, #7869 human-hold), 8 fresh untriaged `seo-proposal` (#7944-7952, filed 12:38-12:39 UTC) continuing this week's `genreGearGuides.js`-vs-`endorsementNews.js`/`extendedBios.js` fabrication sweep — throne fabrications (Larkin, Inferno, Portnoy, Ulrich), hardware/pedal cross-drummer contamination (Dailor: DW/Gibraltar vs verified Tama Speed Cobra), a self-contradiction within the file itself (Kollias bass drum: "Reference Pure" here vs "Masterworks" in the file's own extreme-metal guide), a brand slip (Lombardo "Pearl/DW", DW never in his record), and a structural error (Jordison's double PEDAL on one shell misdescribed as "dual bass drums").
+
+### Actions taken
+- **Live-verified all 8 fresh proposals via subagent** (grep/read against current `genreGearGuides.js` vs `endorsementNews.js`/`extendedBios.js`, plus a dupe check per drummer): #7952 (Larkin — confirmed Pearl D-3000 throne fabricated 4x, verified ddrum/DW, no Pearl/throne anywhere in her record), #7950 (Dailor — confirmed DW 9000/Gibraltar Road Series/DW 5000 fabricated across 3 guides left unscoped by #7707's narrower fix, verified Tama Speed Cobra), #7949 (Inferno — confirmed D-3000 fabricated (his real throne is D-2000 per `extendedBios.js`), correctly leaves George Kollias's genuine D-3000 credit in the same product block untouched), #7948 (Kollias — confirmed "Pearl Reference Pure" fabricated ~10x, verified Masterworks, genuine internal self-contradiction vs the file's own extreme-metal guide), #7947 (Lombardo — confirmed "Pearl/DW" in SEO description, DW never appears in his verified Pearl→Tama timeline; issue's guide-slug name has a minor word-order typo but content/location unambiguous), #7946 (Jordison — confirmed "dual bass drum" framing pervasive across ~8+ locations, verified single Pearl Reference Series shell + Demon Drive double pedal, matches the site's own bio metaDescription), #7945 (Portnoy — confirmed "Tama 1st Chair Ergo-Rider" throne fabricated ~10x across 2 guides, no throne field in either source file, same claim already ruled fabricated in a different file by closed #5438), #7944 (Ulrich — confirmed "Tama 1st Chair Throne" fabricated across 2 guides, verified Iron Cobra 900 hardware/pedal, no throne field anywhere). All 8/8 confirmed, text-only corrections on existing pages, zero new URLs — freeze-compliant. No duplicate open `ai-fix`/in-progress issues for any of the 8. Promoted all 8 (`ai-fix`).
+- **GSC content-gap**: both flagged rows (`arin ilejay` 363 impr/0.28% CTR/pos 11.2; `danny carey drum kit` 92 impr/1.09% CTR/pos 10.8) unchanged from the 11:00 entry, re-confirmed against standing rulings (class-2 bare-name query / exhausted-content-lever page, `learned-patterns.md` lines 201/205/211/236). No new fix filed.
+- **L1/L2/L3**: all 3 snapshots still dated 2026-09-21 — already closed-the-loop in the 21:43 entry, reconfirmed unchanged since. Nothing new.
+- **Founder ideas**: inbox empty, unchanged since 2026-06-19. **Human-founder blockers**: #5141/#5100/#4892/#875/#529/#526/#525 — all `updatedAt` unchanged, no re-spam. #7869 (Daray) stays `human`, unchanged.
+- **Atomic-split sweep**: checked programmatically (open `ai-fix`, no hold/in-progress/pr-opened/blocked, createdAt >3 days) — 0 hits. Nothing eligible.
+- **Starvation check**: backlog 3→11 post-triage (#7930/#7928 mid-flight, #7869 human-hold), bank 8 fresh→0 untriaged. Non-event — healthy batch cadence continues.
+
+### State delta
+- ai-fix backlog (eligible): 3 → 11 (#7944-7952 added; #7869 stays human-blocked)
+- seo-proposal bank (excl. umbrellas): 8 fresh → 0 untriaged
+
+### Quota check
+✅ SEO proposals: 8/8 fresh triaged, live-verified, all promoted. ✅ Founder ideas: inbox empty. ✅ GSC-gap: both rows re-confirmed already-ruled, no new fix needed. ✅ L1/L2/L3: no new snapshot since 09-21 21:43 close-the-loop. ✅ Starvation: non-event. ✅ Atomic split: nothing eligible. ✅ Decisions logged.
+
+### Next Run
+1. Watch #7944-7952 ship via Roadie/PR Merger; flag to watch #7948/#7949 don't collide (both touch nearby `genreGearGuides.js` lines around the Kollias/Inferno throne+bass-drum blocks).
+2. Next L1/L2/L3 weekly refresh due ~2026-09-28 (following Monday).
+3. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers + #7869 (Daray) unchanged — no re-spam.
+
+---
+
+---
 ## 2026-09-22 11:00 — Daily deep run: 7/7 fresh proposals verified and promoted (#7926-7932), 1 rescoped before promotion
 
 ### Context (≤3 lines)

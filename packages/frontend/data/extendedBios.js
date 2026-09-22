@@ -8540,6 +8540,7 @@ Menza's playing was distinguished by surgical double-bass precision at 180-200 B
       faq: {
         title: 'Frequently Asked Questions',
         items: [
+          { q: 'Who was Nick Menza?', a: 'Nick Menza (July 23, 1964 – May 21, 2016) was an American drummer best known as Megadeth\'s drummer from 1989 to 1998, and again briefly in 2004. He recorded Rust in Peace (1990), Countdown to Extinction (1992), Youthanasia (1994), and Cryptic Writings (1997) with the band. After leaving Megadeth, he drummed for the jazz-metal fusion group OHM from 2004 until his death in 2016, when he collapsed on stage during a performance.' },
           { q: 'What albums did Nick Menza play drums on with Megadeth?', a: 'Nick Menza recorded Rust in Peace (1990), Countdown to Extinction (1992), Youthanasia (1994), and Cryptic Writings (1997) with Megadeth.' },
           { q: 'What drum kit did Nick Menza use on Rust in Peace?', a: 'Nick Menza played a Tama Swingstar 5-piece kit with poplar shells, Zildjian A Series cymbals, and a DW 5000 double pedal on Rust in Peace.' },
           { q: 'Why did Nick Menza leave Megadeth?', a: 'Nick Menza was fired from Megadeth in 1998 following a knee injury; he briefly rejoined the band in 2004 before departing again.' },

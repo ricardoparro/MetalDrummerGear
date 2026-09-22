@@ -109935,13 +109935,13 @@ Whatever you choose, prioritize reinforced tension bolts and oversized, tip-resi
       title: "Why Technical Death Metal Hardware Can't Tolerate Even a Millimeter of Drift",
       content: `Technical death metal pushes both tempo and precision further than almost any other style of metal. Blast beats sustained well past 240 BPM, dense multi-part arrangements with exact cymbal and tom placement, and rapid, constantly shifting subdivisions all combine to put sustained, high-frequency vibration through hardware in a way that punishes even the smallest amount of drift. A cymbal stand that creeps a few millimeters mid-song can throw off a passage that took months to drill.
 
-Hannes Grossmann, whose classically-informed precision has powered bands including Obscura and Alkaloid, relies on DW 9000 Series double pedal hardware chosen for the exact, repeatable response his technical arrangements demand. Flo Mounier of Cryptopsy, one of the drummers most responsible for pushing gravity-blast technique to its physical limits, depends on a Pearl Demon Drive-anchored rig with a Pearl D-2000 throne built to stay locked in through decades of extreme-tempo playing. Derek Roddy of Hate Eternal and Nile, known for his one-footed blast beat technique, drives that technique on a Tama Speed Cobra 910 double pedal engineered specifically for the consistency his technique requires at speed.
+Hannes Grossmann, whose classically-informed precision has powered bands including Obscura and Alkaloid, relies on DW 9000 Series double pedal hardware chosen for the exact, repeatable response his technical arrangements demand. Flo Mounier of Cryptopsy, one of the drummers most responsible for pushing gravity-blast technique to its physical limits, drives that technique on a Tama Speed Cobra 910 Twin Pedal built to stay locked in through decades of extreme-tempo playing. Derek Roddy of Hate Eternal and Nile, known for his one-footed blast beat technique, drives that technique on a Tama Speed Cobra 910 double pedal engineered specifically for the consistency his technique requires at speed.
 
 This guide breaks down what actually separates hardware that survives sustained blast-beat vibration without drifting from stands that only hold up under slower, less demanding metal styles, which specific hardware the genre's most precise players actually rely on, and where to spend versus where to save.`,
       keyPoints: [
         "Technical death metal's sustained blast beats past 240 BPM generate constant vibration that punishes even minor hardware drift",
         "Hannes Grossmann's DW hardware is chosen for the exact, repeatable response his classically-informed technical arrangements demand",
-        "Flo Mounier's Pearl-anchored rig has held up through decades of pushing gravity-blast technique to its physical limits",
+        "Flo Mounier's Tama Speed Cobra 910 Twin Pedal has held up through decades of pushing gravity-blast technique to its physical limits",
         "Derek Roddy's Tama Speed Cobra 910 was chosen specifically for the consistency his one-footed blast beat technique requires at speed"
       ]
     },
@@ -109959,7 +109959,7 @@ This guide breaks down what actually separates hardware that survives sustained 
         {
           name: "Vibration-Resistant Bracing",
           icon: "🔧",
-          description: "Sustained blast beats generate constant, high-frequency lateral vibration that slowly loosens anything less than genuinely heavy-gauge, double-braced tubing. Hannes Grossmann's DW hardware and Flo Mounier's Pearl setup both prioritize bracing built to absorb that specific kind of sustained stress.",
+          description: "Sustained blast beats generate constant, high-frequency lateral vibration that slowly loosens anything less than genuinely heavy-gauge, double-braced tubing. Hannes Grossmann's DW hardware prioritizes bracing built to absorb that specific kind of sustained stress.",
           recommendation: "Double-braced, heavy-gauge (1.5mm+) tubing as an absolute minimum for extreme-tempo blast beat playing"
         },
         {
@@ -110073,7 +110073,7 @@ For any technical death metal drummer whose technique depends on total lower-bod
           tier: "mid",
           material: "Double-braced round base",
 
-          description: `Flo Mounier of Cryptopsy has spent decades pushing gravity-blast technique to its physical limits, and his Pearl-anchored rig relies on the wide, stable round top of Pearl's D-3000 throne to keep his technique locked in at extreme tempos.
+          description: `The wide, stable round top of Pearl's D-3000 throne keeps a drummer's technique locked in at extreme tempos, exactly the demand technical death metal's fastest, most precise players put on a seat.
 
 The D-3000's wide, double-braced round base and locking height collar stay put through the most demanding technical death metal sets, exactly why it's become a go-to pick among the genre's fastest, most precise players.`,
 
@@ -110095,7 +110095,7 @@ The D-3000's wide, double-braced round base and locking height collar stay put t
             weight: "Medium"
           },
           usedBy: [
-            { name: "Flo Mounier", band: "Cryptopsy", note: "Pearl D-3000 throne for decades of gravity-blast technique stability" }
+            { name: "Technical death metal drummers", band: "Various", note: "Pearl D-3000 throne for extreme-tempo stability" }
           ],
           verdict: "A proven throne choice among technical death metal's fastest, most precise players.",
           rating: 4.6,
@@ -110280,14 +110280,14 @@ The memory-lock system lets a drummer rebuild an identical, precise setup at eve
     ],
     relatedDrummers: [
       { slug: 'hannes-grossmann', name: 'Hannes Grossmann', reason: 'DW hardware for classically-informed exact technical precision' },
-      { slug: 'flo-mounier', name: 'Flo Mounier', reason: 'Pearl D-3000 Throne for decades of gravity-blast technique stability' },
+      { slug: 'flo-mounier', name: 'Flo Mounier', reason: 'Tama Speed Cobra 910 Twin Pedal for decades of gravity-blast technique stability' },
       { slug: 'derek-roddy', name: 'Derek Roddy', reason: 'Tama Speed Cobra 910 — consistency for one-footed blast beat technique at speed' }
     ],
 
     // Featured drummers (issue template)
     featuredDrummers: [
       { slug: 'hannes-grossmann', name: 'Hannes Grossmann', reason: 'DW hardware — exact response for dense technical writing' },
-      { slug: 'flo-mounier', name: 'Flo Mounier', reason: 'Pearl throne stability across decades of gravity-blast technique' },
+      { slug: 'flo-mounier', name: 'Flo Mounier', reason: 'Tama Speed Cobra 910 Twin Pedal stability across decades of gravity-blast technique' },
       { slug: 'derek-roddy', name: 'Derek Roddy', reason: 'Tama Speed Cobra 910 for one-footed blast beat consistency at speed' }
     ],
 

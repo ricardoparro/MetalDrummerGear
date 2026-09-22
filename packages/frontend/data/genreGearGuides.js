@@ -19668,7 +19668,7 @@ This guide breaks down what makes hardware genuinely suited to post-metal's atmo
           tier: "pro",
           material: "Double-braced heavy-gauge steel",
 
-          description: `Brann Dailor's wide, tall-boomed cymbal array needs hardware that holds an exact position through both delicate, jazz-informed texture work and full-weight sludge hits. The DW 9000 Series' tall boom arms and oversized tripod bases give a post-metal drummer room to build a wide, dynamically flexible cymbal layout without stands crowding each other.
+          description: `A wide, tall-boomed cymbal array needs hardware that holds an exact position through both delicate, jazz-informed texture work and full-weight sludge hits. The DW 9000 Series' tall boom arms and oversized tripod bases give a post-metal drummer room to build that kind of wide, dynamically flexible cymbal layout without stands crowding each other.
 
 For touring post-metal acts running long, atmospheric sets, the memory-lock system lets a drummer rebuild an identical, precise setup at every soundcheck — essential when a wide cymbal spread depends on exact positioning.`,
 
@@ -19691,7 +19691,7 @@ For touring post-metal acts running long, atmospheric sets, the memory-lock syst
             weight: "Heavy"
           },
           usedBy: [
-            { name: "Brann Dailor", band: "Mastodon", note: "Tall boom stands anchoring a wide, dynamically flexible cymbal array" }
+            { name: "Post-metal and atmospheric metal drummers", band: "Various", note: "Tall boom stands anchoring a wide, dynamically flexible cymbal array" }
           ],
           verdict: "The touring-grade standard for post-metal's wide, dynamically flexible cymbal setups.",
           rating: 4.8,
@@ -106693,7 +106693,7 @@ Whichever you choose, remember that progressive metal rewards precision and adju
       title: "Why Sludge Metal Needs Heavier Spring Tension and Real Durability",
       content: `Sludge metal shares doom's commitment to slow, riff-driven weight, but layers in a grittier, more aggressive edge borrowed from hardcore and Southern groove. That combination asks a bass drum pedal to deliver a thick, heavy hit that locks in with a crushing, down-tuned riff — with heavier spring tension and a durable build that can survive both the constant weighted strokes and the occasional faster, riffier passage that separates sludge from pure doom.
 
-Igor Cavalera's Tama Iron Cobra double pedal anchors Sepultura's tribal, down-tuned heaviness with reliable, controlled response. Mario Duplantier skips a double pedal entirely, driving Gojira's dual bass drums with two independent Tama Iron Cobra 900 Power Glide pedals for crushing, tectonic weight. Brann Dailor pairs his kit with a DW 5000 Series pedal on Mastodon's crushing early catalog, and Shannon Larkin's DW 9000 Series Double Pedal gives Godsmack's platinum-selling, groove-heavy sludge influence its weighted, dependable low end.
+Igor Cavalera's Tama Iron Cobra double pedal anchors Sepultura's tribal, down-tuned heaviness with reliable, controlled response. Mario Duplantier skips a double pedal entirely, driving Gojira's dual bass drums with two independent Tama Iron Cobra 900 Power Glide pedals for crushing, tectonic weight. Brann Dailor pairs his kit with a Tama Speed Cobra pedal on Mastodon's crushing early catalog, and Shannon Larkin's DW 9000 Series Double Pedal gives Godsmack's platinum-selling, groove-heavy sludge influence its weighted, dependable low end.
 
 This guide breaks down drive systems, spring tension, and beater mass for sludge-metal bass drum pedals — comparing single and dual independent setups across four drummers whose lineages define the genre's crushing, riff-driven foundation, with recommendations from budget to professional touring rigs.`,
       keyPoints: [
@@ -106828,11 +106828,10 @@ For sludge drummers running dual kicks rather than a single kick with a double p
           priceRange: "€300-420 per double set",
           tier: "pro",
           driveType: "Chain Drive",
-          description: `Brann Dailor pairs his kit with a DW 5000 Series pedal on Mastodon's crushing early catalog, valuing the Turbo drive system's subtle acceleration through the stroke for extra punch on impact without needing extreme spring tension.
+          description: `Sludge metal drummers looking for a dependable mid-pro option can lock into a DW 5000 Series pedal, valuing the Turbo drive system's subtle acceleration through the stroke for extra punch on impact without needing extreme spring tension.
 
 DW's signature smooth, dependable action gives sludge's heavy, down-tuned grooves consistent, weighted low end whether the tempo is patient or picks up for a grittier passage.`,
           pros: [
-            "Brann Dailor's proven Mastodon setup",
             "Turbo drive adds impact punch without extreme spring tension",
             "American build quality at a mid-pro price point",
             "Cast aluminum frame built for touring durability"
@@ -106849,10 +106848,8 @@ DW's signature smooth, dependable action gives sludge's heavy, down-tuned groove
             beater: "Hard felt (stock)",
             footboard: "Standard length"
           },
-          usedBy: [
-            { name: "Brann Dailor", band: "Mastodon", note: "Weighted, dependable low end for crushing early-catalog material" }
-          ],
-          verdict: "A dependable, weighted pedal proven across Mastodon's crushing catalog.",
+          usedBy: [],
+          verdict: "A dependable, weighted mid-pro pedal for sludge metal's crushing, down-tuned grooves.",
           rating: 4.5,
           affiliateLink: "https://www.thomann.de/intl/dw_5000_turbo_double_pedal.htm?partner_id=metalforge"
         },
@@ -106949,7 +106946,7 @@ Its magnetic controlled-friction spring system makes it easy to dial in the heav
     relatedDrummers: [
       { slug: 'igor-cavalera', name: 'Igor Cavalera', reason: 'Tama Iron Cobra double pedal — reliable, controlled tonnage for tribal, down-tuned heaviness' },
       { slug: 'mario-duplantier', name: 'Mario Duplantier', reason: 'Dual independent Tama Iron Cobra 900 pedals for Gojira\'s tectonic low end' },
-      { slug: 'brann-dailor', name: 'Brann Dailor', reason: 'DW 5000 Series pedal for Mastodon\'s crushing early catalog' },
+      { slug: 'brann-dailor', name: 'Brann Dailor', reason: 'Tama Speed Cobra pedal for Mastodon\'s crushing early catalog' },
       { slug: 'shannon-larkin', name: 'Shannon Larkin', reason: 'DW 9000 Series Double Pedal for Godsmack\'s groove-heavy sludge influence' }
     ],
 
@@ -106974,7 +106971,7 @@ Its magnetic controlled-friction spring system makes it easy to dial in the heav
       },
       {
         question: "What pedal does Brann Dailor use with Mastodon?",
-        answer: "Brann Dailor pairs his kit with a DW 5000 Series pedal on Mastodon's crushing early catalog, relying on the Turbo drive system's subtle acceleration for extra impact punch without needing extreme spring tension."
+        answer: "Brann Dailor pairs his kit with a Tama Speed Cobra pedal on Mastodon's crushing early catalog, relying on the Speedo-Ring sprocket's blend of direct-drive smoothness and chain-drive swing for extra impact punch without needing extreme spring tension."
       },
       {
         question: "What's a good budget bass drum pedal for sludge metal?",
@@ -110906,7 +110903,7 @@ Oversized tripod bases and reinforced tension bolts hold cymbal angle dead-stead
           tier: "mid",
           material: "Steel tube rack + clamps",
 
-          description: `Brann Dailor's crushing early Mastodon catalog runs a heavy array of large, low-tuned cymbals, and a rack system is exactly what keeps hardware like that from becoming a forest of individually-tensioned stands prone to tipping under hard hits.
+          description: `A heavy array of large, low-tuned cymbals like sludge metal's crushing early catalogs demand can quickly become a forest of individually-tensioned stands prone to tipping under hard hits, and a rack system is exactly what keeps hardware like that under control.
 
 For a sludge metal drummer running oversized crash and china cymbals, a rack's oversized clamps hold heavy hardware securely while consolidating the whole setup onto one rigid, stable frame.`,
 
@@ -110929,7 +110926,7 @@ For a sludge metal drummer running oversized crash and china cymbals, a rack's o
             weight: "Medium"
           },
           usedBy: [
-            { name: "Brann Dailor", band: "Mastodon", note: "Heavy, low-tuned cymbal array consolidated onto one rigid frame" }
+            { name: "Sludge metal drummers", band: "Various", note: "Heavy, low-tuned cymbal arrays consolidated onto one rigid frame" }
           ],
           verdict: "Best for sludge metal kits running an oversized, heavy crash and china array.",
           rating: 4.5,
@@ -111165,7 +111162,7 @@ For a sludge metal drummer building a first serious touring rig, the Armory pack
     faq: [
       {
         question: "What hardware do sludge metal drummers use?",
-        answer: "Sludge metal drummers favor heavy-gauge, double-braced hardware built to absorb hard, deliberate hits. Mario Duplantier relies on Tama's Titan Series for his dual-kick Gojira rig, Brann Dailor's heavy cymbal array often runs on a Gibraltar Road Series rack, Igor Cavalera has run a Tama Iron Cobra Double Pedal since 2018, and Shannon Larkin uses genuinely heavy-duty DW hardware for Godsmack's punishing sets."
+        answer: "Sludge metal drummers favor heavy-gauge, double-braced hardware built to absorb hard, deliberate hits. Mario Duplantier relies on Tama's Titan Series for his dual-kick Gojira rig, Brann Dailor's hardware endorsement is Tama as well, Igor Cavalera has run a Tama Iron Cobra Double Pedal since 2018, and Shannon Larkin uses genuinely heavy-duty DW hardware for Godsmack's punishing sets."
       },
       {
         question: "Do I need heavier hardware for sludge metal than other genres?",
@@ -111190,7 +111187,7 @@ For a sludge metal drummer building a first serious touring rig, the Armory pack
       title: "Build a Rig That Absorbs the Impact",
       content: `Sludge metal hardware faces a different kind of punishment than the sustained blast-beat abuse of faster genres — it has to absorb comparatively rare but much harder individual hits, from oversized crash and china cymbals hammered at crushing, down-tuned tempos. Mario Duplantier, Brann Dailor, Igor Cavalera, and Shannon Larkin didn't build their crushing sounds on hardware that merely looked heavy-duty — they needed stands and clamps that could genuinely take the force.
 
-If you're running a heavy, oversized cymbal array like Brann Dailor's low-tuned Mastodon setup, a rack system like Gibraltar's Road Series with oversized clamps keeps everything secure on one rigid frame. If you're running a compact, dual-kick sludge setup, heavy-duty standalone hardware from Tama or DW absorbs full-force impacts without drifting.
+If you're running a heavy, oversized cymbal array like the kind sludge metal's low-tuned catalogs demand, a rack system like Gibraltar's Road Series with oversized clamps keeps everything secure on one rigid frame. If you're running a compact, dual-kick sludge setup, heavy-duty standalone hardware from Tama or DW absorbs full-force impacts without drifting.
 
 Whatever you choose, prioritize heavy-gauge tubing and reinforced tension bolts over price alone — a stand that can't take a single hard hit isn't built for sludge metal.
 

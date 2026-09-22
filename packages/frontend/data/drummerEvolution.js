@@ -2583,26 +2583,26 @@ export const DRUMMER_EVOLUTION = {
       
       {
         id: 'lombardo-1995-return',
-        era: 'DW & Tama Era',
+        era: 'Tama & Paiste Era',
         years: '1995-2010',
         startYear: 1995,
         endYear: 2010,
-        description: 'The evolution continues. After leaving and returning to Slayer, Dave explored different gear and sounds.',
+        description: 'The evolution continues. After leaving and returning to Slayer, Dave settled into the long-running Tama and Paiste setup that carried through the reunion years.',
         albums: ['Christ Illusion (2006)', 'World Painted Blood (2009)'],
         tours: ['Unholy Alliance Tour'],
         image: null,
-        
+
         gear: {
           drums: {
-            item: 'DW Collector\'s Series',
+            item: 'Tama Starclassic Maple',
             details: 'Maple shells: 24" kick, 10"/12"/14"/16" toms',
-            notes: 'Premium DW sound',
+            notes: 'Switched to Tama for the reunion era',
             change: CHANGE_TYPES.SWITCH,
           },
           snare: {
-            item: 'DW Edge Snare',
-            details: '14"x6.5" with VLT shell',
-            notes: 'Warm yet cutting',
+            item: 'Tama S.L.P. 14"x6.5" G-Maple',
+            details: '14"x6.5" maple shell',
+            notes: 'Tama snare paired with the new kit',
             change: CHANGE_TYPES.SWITCH,
           },
           cymbals: {
@@ -2612,15 +2612,15 @@ export const DRUMMER_EVOLUTION = {
             change: null,
           },
           hardware: {
-            item: 'DW 9000 Double Pedal',
-            details: 'Upgraded DW pedals',
-            notes: 'Latest DW technology',
-            change: CHANGE_TYPES.UPGRADE,
+            item: 'Tama Iron Cobra 900 Double Pedal',
+            details: 'Double pedal driving his double kick',
+            notes: 'Switched to Tama hardware',
+            change: CHANGE_TYPES.SWITCH,
           },
           sticks: {
-            item: 'Vic Firth Dave Lombardo Signature',
-            details: 'Hickory with custom specs',
-            notes: 'First signature stick',
+            item: 'Promark Dave Lombardo Signature 2Bx',
+            details: 'Heavier signature model matched to thrash tempos',
+            notes: 'Signature stick partnership begins',
             change: CHANGE_TYPES.SIGNATURE,
           },
           heads: {
@@ -2636,25 +2636,20 @@ export const DRUMMER_EVOLUTION = {
             change: CHANGE_TYPES.NEW,
           },
         },
-        
+
         estimatedCost: {
           original: 20000,
           inflationAdjusted: 30000,
           currency: 'USD',
         },
-        
+
         keyChanges: [
-          'DW endorsement (major gear upgrade)',
-          'Vic Firth signature sticks',
+          'Switched to Tama drum endorsement',
+          'Promark signature stick partnership begins',
           'Returned to Slayer (2001)',
           'Christ Illusion Grammy win',
         ],
-        
-        quote: {
-          text: "DW gave me the warmth I was looking for while keeping the attack. Best of both worlds.",
-          source: 'DW Artist Spotlight, 2007',
-        },
-        
+
         videos: [],
       },
       

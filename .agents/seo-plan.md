@@ -9735,3 +9735,44 @@ Searched `gh issue list --state all --search` for "mangini", "blake richardson",
 2. `genreGearGuides.js`'s hardware/throne/bass-drum-shell categories still have unverified leftover candidates from the 2026-09-22 12:12 UTC run's 35-candidate research pass (Blake Richardson, Derek Roddy, Alex Bent's *other* gear categories not yet sampled) — worth a follow-up pass, though this run's Mangini detour already used the budget for one deep-dive.
 3. Content-gap queries unchanged/held on established precedent (Danny Carey exhausted-lever, Arin Ilejay class-2).
 4. Next drum-chair watch due Monday 2026-09-28, group 0 (amon-amarth…cynic).
+
+## 2026-09-22 (run, per metrics.md 21:43 UTC) — 4 fresh proposals filed (#7971-7973, #7975): Blake Richardson Meinl-vs-Sabian fabrication across 3 cymbal guides + a stick-size fabrication
+
+Open `seo-proposal` at run start: 9 (5 fresh untriaged incl. #7869 human-hold + 3 standing umbrellas #2211/#3810/#3819) — well under 45 → cleared to file up to 8 net-new. Metrics 21:43 UTC (346 users/401 sessions/568 views 7d; GSC 9,971 impr/212 clicks/2.13% CTR/pos 7.4). robots.txt: 8 AI crawlers confirmed allowed (13 User-agent blocks in `api/robots.js`). `/llms/*.md` endpoints: 2,016 files live (stable). Content-gap table unchanged (`danny carey drum set/kit`, `arin ilejay`) — all re-confirmed already held per class-2/exhausted-lever precedent (`learned-patterns.md` lines 201/205/211/236), no new action. Today is Tuesday — drum-chair watch not due (next Monday 2026-09-28, group 0).
+
+### This run's work
+
+Followed up on the prior run's next-run note (leftover `genreGearGuides.js` categories for Blake Richardson, Derek Roddy, Alex Bent not yet sampled). Dispatched two parallel research agents: one auditing Richardson/Roddy/Bent's non-cymbal/hi-hat/head gear categories (snares, pedals, hardware, thrones, sticks, bass drums) against `endorsementNews.js`/`extendedBios.js`; one re-auditing the latest #2211 L2 snapshot for genuine uncited-query gaps. **Personally re-verified every candidate via fresh `grep`/`Read`/`sed` against current file content before filing anything.**
+
+**L2 audit: zero action.** All 31 rows in the 09-21 snapshot are false negatives — every query already has a direct-answer FAQ/prose/structured-data match on the relevant existing page (the detector likely misses answers living in `description`/prose fields rather than dedicated `faq` arrays, a pattern already logged twice before). No new L2 issue filed.
+
+**Fabrication sweep: Richardson's cymbal brand (Meinl vs. verified Sabian since 2018) is fabricated in 3 more guides beyond the already-filed #7958-7961.** Personally confirmed via `endorsementNews.js:1760-1834`: Richardson SIGNED Meinl in 2006 (Alaska/Colors/Parallax) but SWITCHED to Sabian in 2018 (HHX Evolution/AAX/HH) — the same fact already fixed in `drummerEvolution.js` (#5880), `endorsementNews.js` itself (#6148), `soundLikeGuides.js` (#6636), and (this week) `best-hi-hats-for-metal`/`best-hi-hats-for-progressive-metal`/`best-cymbals-for-metal` (#7958-7961, still open). Dedup-checked via `gh issue list --state all --search` for "richardson china"/"richardson mathcore ride"/"richardson progressive china" — zero overlap, confirming these are genuine scope gaps in guides the prior batch never touched:
+
+1. **#7971** — `best-china-cymbals-for-progressive-metal` (4 locations: intro, product description, usedBy, relatedDrummers).
+2. **#7972** — `best-china-cymbals-for-mathcore` (8 locations incl. FAQ Q&A and conclusion).
+3. **#7973** — `best-ride-cymbals-for-mathcore` (7 locations, same shape as the china-mathcore guide).
+4. **#7975** — `best-drumsticks-for-mathcore`: a distinct fabrication (not the Meinl saga) — Richardson's verified single stick model (Vic Firth American Classic 3A since 2006) is fabricated as "5A or 5B" with an entirely invented "dual-size, matches size to passage" narrative, across 13 locations. Confirmed a *different* guide in the same file (line ~88042) already states the correct 3A model, ruling out a site-wide stick-data error — this is isolated to one guide.
+
+### Not filed (investigated, ruled out)
+
+- Derek Roddy and Alex Bent's non-cymbal categories (snare, pedal, hardware, sticks, bass drum, kit shell) — research agent found all correct against `endorsementNews.js`/`extendedBios.js`. One pre-existing internal inconsistency noted (Roddy's snare model conflicts between `extendedBios.js`'s own FAQ vs. gearHighlights — Starclassic Bubinga vs. SLP Black Brass) but that's a source-file data-integrity issue, not a `genreGearGuides.js` fabrication — logging for a future data-integrity pass, not filing as an SEO proposal.
+- Richardson's "Tama Titan Series" hardware-model naming (line ~15603, shared FAQ answer covering multiple drummers) — brand is correct (verified Tama hardware), only the specific model name is imprecise; low-severity, shared answer covers other drummers too, left for a future dedicated hardware-guide pass rather than filing a thin fix this run.
+
+### Dedup notes
+
+All 4 filed issues cross-checked via `gh issue list --state all --search` (drummer name + guide-family keywords) before filing — confirmed none overlap the 4 Mangini/Richardson Meinl issues filed earlier today (#7958-7961, different guides) or the 4 closed Richardson sagas (#5880/#6148/#6636/#5327, different files).
+
+### Open proposals waiting on CEO triage
+
+- #7869 (Daray, flagged human-verification-needed, unchanged)
+- #7952, #7958-7961 (earlier runs today, still untriaged per bank count at run start)
+- #7971-7973, #7975 (this run, 4 fresh)
+- #2211/#3810/#3819 (standing umbrellas)
+- Bank at run end: 13 open `seo-proposal` (well under the 45 top-up ceiling).
+
+### Next run
+
+1. Watch #7971-7973/#7975 through CEO triage.
+2. Richardson's "Titan Series" hardware-model imprecision (line ~15603) and Roddy's internal snare-model conflict (`extendedBios.js` FAQ vs. gearHighlights) are logged, not filed — worth a future low-priority pass.
+3. Content-gap queries unchanged/held on established precedent (Danny Carey exhausted-lever, Arin Ilejay class-2).
+4. Next drum-chair watch due Monday 2026-09-28, group 0 (amon-amarth…cynic).

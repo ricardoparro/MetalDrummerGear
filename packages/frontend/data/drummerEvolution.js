@@ -5971,34 +5971,34 @@ export const DRUMMER_EVOLUTION = {
         years: '2011–2016',
         startYear: 2011,
         endYear: 2016,
-        description: 'Eloy Casagrande joined Sepultura in 2011 at just 16 years old — one of the most remarkable early career milestones in metal history. His debut album with the band, The Mediator Between Head and Hands Must Also Be the Conductor (2013), announced a talent of rare precision and power. His Pearl endorsement began immediately, providing the professional-grade platform for his first decade of international touring.',
+        description: 'Eloy Casagrande joined Sepultura in 2011 at just 16 years old — one of the most remarkable early career milestones in metal history. His debut album with the band, The Mediator Between Head and Hands Must Also Be the Conductor (2013), announced a talent of rare precision and power. His Tama endorsement began immediately, providing the professional-grade platform for his first decade of international touring.',
         albums: ['The Mediator Between Head and Hands Must Also Be the Conductor (2013)'],
         tours: ['The Mediator World Tour 2013–2014', 'South American and European dates'],
         image: null,
 
         gear: {
           drums: {
-            item: 'Pearl Masters Premium',
-            details: 'Maple shells: 22" kick, 10"/12"/14"/16" toms',
-            notes: 'First Pearl endorsement — the Masters Premium maple shells provided the warm, powerful tone befitting Sepultura\'s aggressive thrash/groove metal sound.',
+            item: 'Tama Starclassic Bubinga',
+            details: 'Bubinga shells: 22" kick, 10"/12"/14"/16" toms',
+            notes: 'First professional-grade endorsement as a 16-year-old — the Starclassic Bubinga provided the warm, powerful tone befitting Sepultura\'s aggressive thrash/groove metal sound.',
             change: null,
           },
           snare: {
-            item: 'Pearl Free-Floating Steel 14"×6.5"',
-            details: 'Free-floating shell for maximum attack',
+            item: 'Tama Bell Brass 14"×5.5" (BB146)',
+            details: 'Bell brass shell for a bright, cutting attack',
             notes: 'Sharp, explosive snare response suited to Sepultura\'s fast, aggressive material.',
             change: null,
           },
           cymbals: {
-            item: 'Meinl Cymbals',
+            item: 'Paiste',
             details: '14" hi-hats, 16"/18" crashes, 20" ride, 18" China',
-            notes: 'Meinl endorsement from early in his Sepultura tenure — bright, powerful response for live metal performance.',
+            notes: 'Already a Paiste artist since 2005 (age 17) — bright, powerful response for live metal performance carried into the Sepultura era.',
             change: null,
           },
           hardware: {
-            item: 'Pearl Eliminator Double Pedal',
-            details: 'Cam-driven double pedal for controlled aggression',
-            notes: 'Pearl Eliminator to complement the Pearl kit — adjustable cam for varied speed and feel requirements.',
+            item: 'Tama Iron Cobra Double Pedal',
+            details: 'Chain-drive double pedal for controlled aggression',
+            notes: 'Tama Iron Cobra to complement the Starclassic kit — reliable double bass performance from the start of his pro career.',
             change: null,
           },
           sticks: {
@@ -6023,15 +6023,10 @@ export const DRUMMER_EVOLUTION = {
 
         keyChanges: [
           'Joined Sepultura at age 16 (2011) — one of metal\'s most remarkable debut signings',
-          'Pearl Masters Premium endorsement begins',
-          'Meinl cymbal endorsement established',
+          'Tama Starclassic Bubinga endorsement begins',
+          'Already a Paiste artist since 2005, six years before joining Sepultura',
           'The Mediator (2013) announces his arrival as a world-class metal drummer',
         ],
-
-        quote: {
-          text: "Being in Sepultura at 16 was a dream. I had to grow up fast — the music and the touring demanded everything from me immediately.",
-          source: 'Modern Drummer, 2014',
-        },
 
         videos: [],
       },
@@ -6049,28 +6044,28 @@ export const DRUMMER_EVOLUTION = {
 
         gear: {
           drums: {
-            item: 'Pearl Reference Series',
-            details: 'Maple/birch hybrid: 22" kick, 8"/10"/12"/14"/16" toms',
-            notes: 'Upgraded to Pearl Reference — the maple/birch hybrid provided a broader tonal palette suited to Quadra\'s varied dynamics from acoustic passages to full brutality.',
+            item: 'Tama Starclassic Bubinga',
+            details: 'Bubinga shells: 22" kick, 8"/10"/12"/14"/16" toms',
+            notes: 'Expanded Starclassic Bubinga configuration — a broader tonal palette suited to Quadra\'s varied dynamics from acoustic passages to full brutality.',
             change: CHANGE_TYPES.UPGRADE,
           },
           snare: {
-            item: 'Pearl Free-Floating Steel 14"×6.5"',
-            details: 'Continued Free-Floating steel preference',
+            item: 'Tama Bell Brass 14"×5.5" (BB146)',
+            details: 'Continued Bell Brass preference',
             notes: 'Consistent snare choice across the entire Sepultura tenure.',
             change: null,
           },
           cymbals: {
-            item: 'Meinl Classics Custom / Pure Alloy',
+            item: 'Paiste',
             details: '14" hi-hats, 16"/18"/19" crashes, 21" ride, 18" China',
-            notes: 'Expanded cymbal setup with Meinl Classics Custom for a broader dynamic range across Quadra\'s varied material.',
+            notes: 'Expanded Paiste cymbal setup for a broader dynamic range across Quadra\'s varied material.',
             change: CHANGE_TYPES.UPGRADE,
           },
           hardware: {
-            item: 'Pearl Demon Drive Double Pedal',
-            details: 'Direct drive for maximum control',
-            notes: 'Switched to Demon Drive for the Machine Messiah era — direct drive delivers more precise response for the album\'s technical demands.',
-            change: CHANGE_TYPES.SWITCH,
+            item: 'Tama Iron Cobra Double Pedal',
+            details: 'Chain-drive double pedal for maximum control',
+            notes: 'Continued reliance on the Iron Cobra — proven double bass performance for the album\'s technical demands.',
+            change: null,
           },
           sticks: {
             item: 'Vic Firth 5A / Custom',
@@ -6099,17 +6094,12 @@ export const DRUMMER_EVOLUTION = {
         },
 
         keyChanges: [
-          'Upgraded to Pearl Reference — broader tonal range for Quadra\'s dynamics',
-          'Pearl Demon Drive direct drive adopted',
+          'Upgraded to expanded Tama Starclassic Bubinga configuration — broader tonal range for Quadra\'s dynamics',
+          'Expanded Paiste cymbal setup for Quadra\'s varied material',
           'Remo EMAD kick heads integrated',
           'Roland SPD-SX added for live electronics',
           'Quadra (2020) widely recognised as career-defining achievement',
         ],
-
-        quote: {
-          text: "Quadra gave me the chance to show every side of what I can do. Aggressive, melodic, dynamic — I had to be all of it.",
-          source: 'Revolver Magazine, 2020',
-        },
 
         videos: [],
       },

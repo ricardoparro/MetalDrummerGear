@@ -10272,9 +10272,9 @@ export const DRUMMER_EVOLUTION = {
             change: CHANGE_TYPES.SWITCH,
           },
           cymbals: {
-            item: 'Zildjian A Custom & K Custom Dark',
-            details: '14" A Custom hi-hats, 16"/17"/18" A Custom crashes, 22" K Custom Dark ride, 18" K China',
-            notes: 'Mature cymbal voicing balancing brightness and darkness for the atmospheric range spanning Satyricon and 1349.',
+            item: 'Zildjian A Series',
+            details: 'Standard A Series setup',
+            notes: 'Zildjian A Series cymbals adopted alongside the 2013 kit switch, carried across the dual-band Satyricon and 1349 work since.',
             change: null,
           },
           hardware: {

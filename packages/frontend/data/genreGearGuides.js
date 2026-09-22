@@ -15233,7 +15233,7 @@ Whatever you choose, prioritize consistency under sustained blast beat use over 
       title: "Why Hardware Matters More in Metal Than Any Other Genre",
       content: `Hardware is the least glamorous part of a metal drummer's rig — and the most likely to fail at the worst possible moment. Sagging cymbal stands during a blast beat, a bass drum that creeps forward on every kick, a throne that wobbles mid-fill: none of that happens because of a bad drum or cymbal. It happens because the hardware underneath wasn't built for the abuse metal drumming puts on it.
 
-Ray Luzier (Korn) runs DW's heaviest stands for exactly this reason — touring metal drummers can't afford a stand collapsing on stage. Abe Cunningham (Deftones) has relied on the same Tama Iron Cobra hardware anchoring his kit since 1997. Lars Ulrich has anchored his Tama kit on a Tama 1st Chair Throne for decades, while John Otto (Limp Bizkit) builds his entire OCDP kit around a Gibraltar custom rack system that keeps a wide double-kick, multi-cymbal setup rigid under sustained groove and blast work. George Kollias (Nile) and Inferno (Behemoth) — two of extreme metal's fastest, most demanding players — both sit on Pearl's D-Series throne line for the stability their technique requires.
+Ray Luzier (Korn) runs DW's heaviest stands for exactly this reason — touring metal drummers can't afford a stand collapsing on stage. Abe Cunningham (Deftones) has relied on the same Tama Iron Cobra hardware anchoring his kit since 1997. Lars Ulrich has anchored his Tama kit on the same heavy-duty Tama hardware line, including his Iron Cobra 900 pedal, for decades, while John Otto (Limp Bizkit) builds his entire OCDP kit around a Gibraltar custom rack system that keeps a wide double-kick, multi-cymbal setup rigid under sustained groove and blast work. George Kollias (Nile) and Inferno (Behemoth) — two of extreme metal's fastest, most demanding players — both sit on Pearl's D-Series throne line for the stability their technique requires.
 
 This guide breaks down exactly what separates real touring-grade metal hardware from the flimsy stands that ship with entry-level kits, which specific hardware the pros actually use, and where to spend versus where to save.`,
       keyPoints: [
@@ -15335,7 +15335,7 @@ The 9000 Series' oversized tripod bases and reinforced tension bolts hold cymbal
           tier: "pro",
           material: "Double-braced steel",
 
-          description: `Lars Ulrich has anchored his Tama Starclassic setup on Tama's heavy-duty hardware line for decades, centered on his Tama 1st Chair Throne — a setup that has survived four decades of Metallica's biggest stages. Tama's Titan Series stands share the same oversized, double-braced design philosophy, engineered for drummers who hit hard and tour constantly.
+          description: `Lars Ulrich has anchored his Tama Starclassic setup on Tama's heavy-duty hardware line, including his Iron Cobra 900 pedal, for decades — a setup that has survived four decades of Metallica's biggest stages. Tama's Titan Series stands share the same oversized, double-braced design philosophy, engineered for drummers who hit hard and tour constantly.
 
 Blake Richardson (Between the Buried and Me) relies on Tama hardware for the opposite reason: BTBAM's progressive metal demands absolute cymbal placement precision across a large, complex kit, and Tama's memory-lock stands hold that precision through technically punishing sets.`,
 
@@ -15358,7 +15358,7 @@ Blake Richardson (Between the Buried and Me) relies on Tama hardware for the opp
             weight: "Heavy"
           },
           usedBy: [
-            { name: "Lars Ulrich", band: "Metallica", note: "Tama 1st Chair Throne and hardware across four decades of touring" },
+            { name: "Lars Ulrich", band: "Metallica", note: "Tama hardware, including his Iron Cobra 900 pedal, across four decades of touring" },
             { name: "Blake Richardson", band: "Between the Buried and Me", note: "Tama hardware for progressive metal cymbal precision" }
           ],
           verdict: "Metallica-proven durability with the precision technical drummers need.",
@@ -15583,7 +15583,7 @@ Pearl's D-Series line uses a wide, double-braced round base and a locking height
       'best-snare-drums-for-metal'
     ],
     relatedDrummers: [
-      { slug: 'lars-ulrich', name: 'Lars Ulrich', reason: 'Tama 1st Chair Throne and hardware across four decades of touring' },
+      { slug: 'lars-ulrich', name: 'Lars Ulrich', reason: 'Tama hardware, including his Iron Cobra 900 pedal, across four decades of touring' },
       { slug: 'abe-cunningham', name: 'Abe Cunningham', reason: 'Tama Iron Cobra hardware for Deftones\' touring rig' },
       { slug: 'john-otto', name: 'John Otto', reason: 'Gibraltar custom rack anchoring his OCDP kit' },
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Pearl D-3000 Throne for 240+ BPM blast beat stability' }
@@ -16555,12 +16555,12 @@ Whatever you choose, prioritize double-braced construction and precise memory lo
       title: "Why Thrash Metal Hardware Prizes Precision Over Bulk",
       content: `Thrash metal drumming is built around riff-tight, alternating-picking precision at speed rather than the wide, elaborate multi-tom arrays common in modern technical death metal or djent. That means thrash hardware setups have historically stayed leaner than the rack-heavy rigs of more maximalist subgenres — a standard 4-5 piece kit with a handful of well-placed stands, built to lock in exactly the same cymbal hits night after night across a punishing touring schedule.
 
-Lars Ulrich has anchored his Tama Starclassic kit on the same heavy-duty Tama hardware line for four decades, centered on a Tama 1st Chair Throne that has survived Metallica's biggest stages without ever needing to be an elaborate rack setup. Charlie Benante of Anthrax runs road-tested hardware built to survive both Anthrax's relentless touring schedule and his session work across S.O.D. and Pantera-adjacent projects. Dave Lombardo, whose work with Slayer helped define thrash metal's speed and precision, has always prioritized hardware that holds a simple, functional kit rock-steady rather than adding complexity that doesn't serve the riffs.
+Lars Ulrich has anchored his Tama Starclassic kit on the same heavy-duty Tama hardware line, including his Iron Cobra 900 pedal, for four decades — a setup that has survived Metallica's biggest stages without ever needing to be an elaborate rack setup. Charlie Benante of Anthrax runs road-tested hardware built to survive both Anthrax's relentless touring schedule and his session work across S.O.D. and Pantera-adjacent projects. Dave Lombardo, whose work with Slayer helped define thrash metal's speed and precision, has always prioritized hardware that holds a simple, functional kit rock-steady rather than adding complexity that doesn't serve the riffs.
 
 This guide breaks down what actually matters in thrash metal hardware — why lean, precise setups have outlasted rack-heavy trends for decades, which specific hardware the genre's most influential drummers rely on, and where to spend versus where to save.`,
       keyPoints: [
         "Thrash metal favors lean, standard-kit hardware setups over the wide rack systems common in technical death metal and djent",
-        "Lars Ulrich has run the same Tama hardware line and 1st Chair Throne for four decades of touring — proof that simplicity survives",
+        "Lars Ulrich has run the same Tama hardware line for four decades of touring — proof that simplicity survives",
         "Double-braced, heavy-gauge stands remain essential for the constant fast alternating picking and riff-tight rimshots thrash demands",
         "Charlie Benante and Dave Lombardo both prioritize road-tested reliability over elaborate hardware complexity"
       ]
@@ -16597,7 +16597,7 @@ This guide breaks down what actually matters in thrash metal hardware — why le
         {
           name: "Throne Stability for Fast Footwork",
           icon: "🪑",
-          description: "Thrash metal's rapid, syncopated bass drum patterns demand a throne that stays completely still under fast, aggressive footwork. Lars Ulrich's long-running Tama 1st Chair Throne uses a double-braced base and locking height adjustment specifically to keep his seated position rock solid through Metallica's most demanding sets.",
+          description: "Thrash metal's rapid, syncopated bass drum patterns demand a throne that stays completely still under fast, aggressive footwork. A double-braced base and locking height adjustment keep a drummer's seated position rock solid through a full, demanding set.",
           recommendation: "A double-braced throne with a locking memory collar built to stay still under fast footwork"
         }
       ]
@@ -16617,7 +16617,7 @@ This guide breaks down what actually matters in thrash metal hardware — why le
           tier: "pro",
           material: "Double-braced steel",
 
-          description: `Lars Ulrich has anchored his Tama Starclassic setup on Tama's heavy-duty hardware line for decades, centered on his Tama 1st Chair Throne — a setup that has survived four decades of Metallica's biggest stages without ever needing to become an elaborate rack system. Tama's Titan Series stands share the same oversized, double-braced design philosophy, engineered for drummers who hit hard and tour constantly.
+          description: `Lars Ulrich has anchored his Tama Starclassic setup on Tama's heavy-duty hardware line, including his Iron Cobra 900 pedal, for decades — a setup that has survived four decades of Metallica's biggest stages without ever needing to become an elaborate rack system. Tama's Titan Series stands share the same oversized, double-braced design philosophy, engineered for drummers who hit hard and tour constantly.
 
 The line's precise memory locks let a thrash metal drummer rebuild an identical, riff-tight cymbal and tom layout at every soundcheck of a long tour, which is exactly the kind of reliability that has kept Ulrich on the same hardware family for so long.`,
 
@@ -16640,7 +16640,7 @@ The line's precise memory locks let a thrash metal drummer rebuild an identical,
             weight: "Heavy"
           },
           usedBy: [
-            { name: "Lars Ulrich", band: "Metallica", note: "Tama 1st Chair Throne and hardware across four decades of touring" }
+            { name: "Lars Ulrich", band: "Metallica", note: "Tama hardware, including his Iron Cobra 900 pedal, across four decades of touring" }
           ],
           verdict: "Metallica-proven durability with the precision thrash metal drummers need.",
           rating: 4.8,
@@ -16732,15 +16732,15 @@ For a developing thrash metal drummer building a first serious touring-capable k
           tier: "mid",
           material: "Double-braced round base",
 
-          description: `Lars Ulrich has sat on the same Tama 1st Chair Throne lineage across four decades of Metallica's biggest stages, relying on its double-braced base and locking height adjustment to stay rock-solid under the fast, syncopated bass drum work thrash metal demands.
+          description: `Tama's 1st Chair Ergo-Rider brings the same double-braced base and locking height adjustment as the rest of Tama's touring hardware line to the throne itself, built to stay rock-solid under the fast, syncopated bass drum work thrash metal demands.
 
 A stable throne might seem like the least important piece of hardware on a kit, but at thrash metal tempos, any wobble under the seat directly disrupts the precise, riff-tight footwork the genre requires.`,
 
           pros: [
-            "Lars Ulrich's four-decade proven touring throne",
             "Double-braced base resists wobble under fast footwork",
             "Locking height collar holds position through full sets",
-            "Comfortable seating for long rehearsal and touring sessions"
+            "Comfortable seating for long rehearsal and touring sessions",
+            "Matches Tama's touring-grade hardware line"
           ],
           cons: [
             "Mid-tier pricing above entry-level thrones",
@@ -16754,7 +16754,7 @@ A stable throne might seem like the least important piece of hardware on a kit, 
             weight: "Medium"
           },
           usedBy: [
-            { name: "Lars Ulrich", band: "Metallica", note: "Four decades of touring stability on the same throne lineage" }
+            { name: "Touring thrash metal drummers", band: "Various", note: "Stable, double-braced seating for fast, syncopated footwork" }
           ],
           verdict: "The proven throne pick for thrash metal's fast, syncopated footwork demands.",
           rating: 4.6,
@@ -16880,7 +16880,7 @@ For a thrash metal drummer building a first touring-capable rig, the Armory pack
         {
           category: "Best Throne",
           pedal: "Tama 1st Chair Throne",
-          reason: "Lars Ulrich's proven pick for rock-solid stability under fast, syncopated bass drum footwork."
+          reason: "Double-braced stability and a locking height collar for rock-solid seating under fast, syncopated bass drum footwork."
         },
         {
           category: "Best Budget",
@@ -16897,7 +16897,7 @@ For a thrash metal drummer building a first touring-capable rig, the Armory pack
       'best-snare-drums-for-thrash-metal'
     ],
     relatedDrummers: [
-      { slug: 'lars-ulrich', name: 'Lars Ulrich', reason: 'Tama 1st Chair Throne and hardware across four decades of touring' },
+      { slug: 'lars-ulrich', name: 'Lars Ulrich', reason: 'Tama hardware, including his Iron Cobra 900 pedal, across four decades of touring' },
       { slug: 'charlie-benante', name: 'Charlie Benante', reason: 'Road-tested, reliable hardware across decades of touring and session work' },
       { slug: 'dave-lombardo', name: 'Dave Lombardo', reason: 'A lean, no-nonsense hardware footprint built to survive genre-defining speed' }
     ],
@@ -16913,15 +16913,11 @@ For a thrash metal drummer building a first touring-capable rig, the Armory pack
     faq: [
       {
         question: "What hardware do thrash metal drummers use?",
-        answer: "Touring thrash metal drummers favor heavy, double-braced hardware from Tama (Titan Series and the 1st Chair Throne — Lars Ulrich's four-decade pick) and DW (5000 Series), built around a lean, standard 4-5 piece kit rather than an elaborate rack system."
+        answer: "Touring thrash metal drummers favor heavy, double-braced hardware from Tama (Titan Series — Lars Ulrich's four-decade pick) and DW (5000 Series), built around a lean, standard 4-5 piece kit rather than an elaborate rack system."
       },
       {
         question: "Do thrash metal drummers need a rack system?",
         answer: "Almost never. Thrash metal kits are typically built around a standard 4-5 piece layout, which standalone stands handle easily. Rack systems are far more common in technical death metal, djent, and progressive metal, where wide double-kick, multi-cymbal setups genuinely benefit from a single rigid frame."
-      },
-      {
-        question: "What throne does Lars Ulrich use?",
-        answer: "Lars Ulrich has anchored his Metallica setup on Tama's 1st Chair Throne lineage for four decades, relying on its double-braced base and locking height collar to stay rock-solid under fast, syncopated bass drum footwork across some of the biggest stages in metal."
       },
       {
         question: "Is budget hardware good enough for thrash metal?",
@@ -16936,7 +16932,7 @@ For a thrash metal drummer building a first touring-capable rig, the Armory pack
     // Conclusion
     conclusion: {
       title: "Precision Over Bulk, Every Time",
-      content: `Thrash metal hardware has never needed to be the biggest or most elaborate rig on stage. Lars Ulrich has proven for four decades that a well-chosen set of Tama stands and a stable throne can survive Metallica's biggest tours without ever needing to become a rack system, and Charlie Benante and Dave Lombardo have both built careers on the same lean, road-tested philosophy.
+      content: `Thrash metal hardware has never needed to be the biggest or most elaborate rig on stage. Lars Ulrich has proven for four decades that a well-chosen set of Tama stands can survive Metallica's biggest tours without ever needing to become a rack system, and Charlie Benante and Dave Lombardo have both built careers on the same lean, road-tested philosophy.
 
 If you're building a thrash metal rig, start with double-braced standalone stands sized to a standard 4-5 piece kit rather than an elaborate rack setup built for a different genre's demands. Prioritize genuine double-bracing and reliable memory locks over flashy specs, and don't skimp on a stable throne — your fast, syncopated footwork depends on it as much as your pedal does.
 

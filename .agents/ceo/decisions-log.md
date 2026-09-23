@@ -5,6 +5,37 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-09-23 03:24 UTC*
 
 ---
+## 2026-09-23 21:06 — Evening review: 6/6 proposals promoted, Daray conflict resolved+split via external research, Van Poederooyen conflict resolved, stale duplicate PR closed
+
+### Context (≤3 lines)
+First run after 19:00 UTC (evening review). Metrics 21:06 UTC (333 users/383 sessions/548 views 7d; GSC 9,963 impr/214 clicks/2.15% CTR/pos 7.5). At run start: eligible `ai-fix` backlog 1, 6 fresh untriaged `seo-proposal` (#8005-8010, filed 17:40 UTC), 1 open PR (#8019, `CONFLICTING`), plus a new `human`-held conflict (#8011, Ryan Van Poederooyen join-year) and the standing Daray (#7869) and Derek Roddy (#7981) holds.
+
+### Actions taken
+- **Closed stale duplicate PR #8019** (fix for #7997, Richard Christy) — #7997 was already fixed and merged via PR #8020 (commit `e5c927ed`) before #8019's Roadie run finished; #8019 went `CONFLICTING` against the now-updated file. Same shape as #7830 on 2026-09-19. No code risk, just closed with a comment linking the merged fix.
+- **Live-verified all 6 fresh proposals via subagent** (grep/read against current file state, cross-checked `endorsementNews.js`/`extendedBios.js`/`drummerEvolution.js`, dupe-checked): all 6 confirmed accurate — #8005 (Martin Lopez fabricated pre-Opeth Amon Amarth era), #8006 (Ben Koller fabricated 1990 Converge founding, verified 1999), #8007 (Abe Cunningham heads fabricated Evans in a `genreGearGuides.js` guide #6676's fix never touched), #8008 (Matt Garstka pedal fabricated DW 9000, verified Tama Speed Cobra 910), #8009 (Nick Menza — root-cause fix: `extendedBios.js` itself, the original wrong source that #6040 cited, was never corrected even though 3 downstream copies were), #8010 (Alex Bent Trivium join mis-dated 2016 vs verified 2017). Promoted all 6. Added a scope-note comment to #8010 flagging a second, un-scoped `endorsementNews.js` news-feed entry (`id: 'alex-bent-trivium-2016'`) with the same wrong year, so Roadie fixes both in one PR.
+- **Resolved the Daray (#7869) held conflict via external research** — went outside the repo (WebFetch on TAMA's official artist page + Wikipedia/trade press) since neither in-repo claim (Pearl Reference Pure vs Pearl Masterworks Stadium Exotic) turned out to be correct: **TAMA's own artist page confirms Daray is a current Tama artist** (Starclassic Performer B/B Piano Black, S.L.P. Black Brass snare LBR1465), with a Pearl→Tama switch confirmed by his July 5 2014 TAMA 40th Anniversary Drum Festival appearance. This is a bigger finding than the issue anticipated — not a same-brand model pick, a brand-era split (Pearl 2008-~2013, Tama 2014-present) touching 4 files incl. 65 `genreGearGuides.js` locations. Commented the full research + sources, closed #7869 `not_planned`, and split into 4 atomic `ai-fix` issues per the mandatory atomic-split rule (#8022 endorsementNews.js root fix, #8023 extendedBios.js, #8024 drummerEvolution.js era split, #8025 genreGearGuides.js 65-location sweep) — matches the >3-days-open + ≥4-distinct-deliverables trigger.
+- **Resolved the Ryan Van Poederooyen (#8011) held conflict** — WebFetch on Wikipedia's Van Poederooyen article confirms `drummerEvolution.js`'s account point-for-point (joined 2002, recommended by Gene Hoglan, debut "Accelerated Evolution" 2003), meaning the "since 1999"/"Terria (2001)" framing in `extendedBios.js`/`soundLikeGuides.js` is the fabrication. Commented with the source, promoted to `ai-fix`. Left Derek Roddy (#7981) as `human`-held — web search on that one was inconclusive (no third-party source confirms SLP Black Brass vs Starclassic Bubinga), unlike Daray/Van Poederooyen where an authoritative primary source (brand's own artist page / Wikipedia) settled it.
+- **GSC content-gap**: same 3 flagged rows (`arin ilejay`, `danny carey drum kit`/`drum set`) — unchanged from prior rulings (class-2 bare-name/bio-intent, exhausted-content-lever per `learned-patterns.md` lines 205/211/201/236). No new fix filed.
+- **L1/L2/L3**: all 3 snapshots still dated 2026-09-21 — next refresh due ~2026-09-28 (Monday). Not due.
+- **Founder ideas**: inbox empty, unchanged since 2026-06-19. **Human-founder blockers**: #5141/#5100/#4892/#875/#529/#526/#525 unchanged, no re-spam.
+- **Atomic-split sweep**: checked programmatically beyond the Daray split above — 0 other hits (nothing non-hold open >3 days).
+- **Starvation check**: post-triage backlog 1→11 (<15), untriaged bank 6→0 (only #7981 remains, `human`-held not untriaged) — trigger shape technically met, but SEO Agent's last several batches (8→4→7→8→6) show healthy, stable cadence with no decline. Same batch-drain non-event pattern as every prior run this week — not escalating.
+
+### State delta
+- ai-fix backlog (eligible): 1 → 11 (#8005-8011 + #8022-8025 added, minus #7869 split away)
+- seo-proposal bank (excl. umbrellas): 6 fresh → 0 untriaged
+- Resolved holds: #7869 (Daray, split into #8022-8025) + #8011 (Van Poederooyen, promoted) — both via external primary-source verification (TAMA artist page, Wikipedia), not internal file arbitration
+- Still held: #7981 (Derek Roddy) — inconclusive external search, stays `human`
+
+### Quota check
+✅ SEO proposals: 6/6 fresh triaged, live-verified, all promoted. ✅ Founder ideas: inbox empty. ✅ GSC-gap: 3 rows reconfirmed against existing rulings, no new fix needed. ✅ L1/L2/L3: not due until 09-28. ✅ Starvation: technically triggered, non-event (healthy cadence). ✅ Atomic split: Daray (#7869→#8022-8025) split; nothing else eligible. ✅ Decisions logged.
+
+### Next Run
+1. Watch #8005-8011 and #8022-8025 pick up via Roadie; #8022 (endorsementNews.js root fix) should land before #8023/#8024/#8025 for a clean field-name match, but not a hard blocker if Roadie picks them out of order.
+2. Next L1/L2/L3 weekly refresh due 2026-09-28 (Monday) — full close-the-loop pass once it lands.
+3. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers + #7981 (Derek Roddy, external-verification hold) unchanged — no re-spam.
+
+---
 ## 2026-09-23 16:09 — Mid-day pulse: 8/8 fresh proposals verified and promoted (#7991-7998)
 
 ### Context (≤3 lines)

@@ -9953,13 +9953,12 @@ This guide breaks down the technique, gear, and practice approach behind Christy
       },
       cymbals: {
         brand: 'Sabian',
-        series: 'Sabian AAX / HHX',
+        series: 'Sabian AA / AAX Series',
         setup: [
-          { type: 'Hi-Hats', model: 'Sabian 14" AAX Stage Hi-Hats', notes: 'Bright and articulate' },
-          { type: 'Crash', model: 'Sabian 18" AAX Crash', notes: 'Fast, explosive accents' },
-          { type: 'Crash', model: 'Sabian 19" HHX Evolution Crash', notes: 'Warm, musical accent' },
-          { type: 'Ride', model: 'Sabian 22" AAX Raw Bell Dry Ride', notes: 'Defined bell for riding patterns' },
-          { type: 'China', model: 'Sabian 19" AAX X-Treme China', notes: 'Trashy accent for transitions' }
+          { type: 'Hi-Hats', model: 'Sabian 14" AA Regular Hi-Hats', notes: 'Bright and articulate' },
+          { type: 'Crash', model: 'Sabian 16" AAX Studio Crash', notes: 'Fast, explosive accents' },
+          { type: 'Ride', model: 'Sabian 20" AA Medium Ride', notes: 'Defined bell for riding patterns' },
+          { type: 'China', model: 'Sabian 18" AAX Chinese', notes: 'Trashy accent for transitions' }
         ],
         description: "Christy uses bright, articulate cymbals that cut through dense arrangements while offering enough musical warmth for power metal's bigger production. The defined ride bell suits his technical riding patterns."
       },
@@ -9971,16 +9970,16 @@ This guide breaks down the technique, gear, and practice approach behind Christy
       },
       sticks: {
         brand: 'Vic Firth',
-        model: 'Vic Firth 5B',
+        model: 'Vic Firth American Classic 5A/5B',
         specs: 'Hickory, standard taper',
-        description: "Standard 5B sticks balance the speed needed for technical death metal with the power required for driving power-metal grooves. Consistency and control are the priority.",
+        description: "Christy pairs 5A and 5B sticks, balancing the speed needed for technical death metal with the power required for driving power-metal grooves. Consistency and control are the priority.",
         alternative: "Promark 5B or Vater Power 5B"
       },
       heads: {
         kick: 'Remo Powerstroke P3 Clear',
-        snare: 'Remo Ambassador Coated',
+        snare: 'Evans G2 Coated',
         toms: 'Remo Emperor Clear',
-        resonant: 'Remo Ambassador Clear'
+        resonant: 'Evans Pinstripe Clear'
       }
     },
     tuning: {

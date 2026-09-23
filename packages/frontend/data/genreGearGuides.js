@@ -11088,8 +11088,7 @@ The DW 9000's consistent feel and American manufacturing quality make it the cho
             "XF Extended Footboard for superior leverage",
             "Magnetic spring system for consistent tension at all positions",
             "Premium American-made hardware quality",
-            "Extensive adjustability for technique customization",
-            "Trusted by Matt Garstka for technical precision"
+            "Extensive adjustability for technique customization"
           ],
           cons: [
             "Highest price point in this guide",
@@ -11103,9 +11102,7 @@ The DW 9000's consistent feel and American manufacturing quality make it the cho
             footboard: "XF Extended",
             spring: "Magnetic controlled-friction"
           },
-          usedBy: [
-            { name: "Matt Garstka", band: "Animals as Leaders", note: "DW for technical precision" }
-          ],
+          usedBy: [],
           verdict: "Best for technical precision and dynamic range.",
           rating: 4.7,
           affiliateLink: "https://www.thomann.de/intl/dw_9000_double_pedal.htm?partner_id=metalforge"
@@ -11187,7 +11184,8 @@ For metal drummers whose technique relies heavily on the heel-toe method or who 
           },
           usedBy: [
             { name: "Speed-focused metal drummers", band: "Various", note: "Heel-toe and extreme speed technique" },
-            { name: "Dirk Verbeuren", band: "Megadeth", note: "Tama Speed Cobra 910 for technical thrash precision" }
+            { name: "Dirk Verbeuren", band: "Megadeth", note: "Tama Speed Cobra 910 for technical thrash precision" },
+            { name: "Matt Garstka", band: "Animals as Leaders", note: "Tama Speed Cobra 910 Double Pedal — his verified hardware since 2021" }
           ],
           verdict: "Best for heel-toe technique and maximum speed. Dirk Verbeuren's platform for technical thrash precision.",
           rating: 4.4,

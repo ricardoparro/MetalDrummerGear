@@ -9896,3 +9896,44 @@ All 7 filed issues cross-checked via `gh issue list --state all --search` (drumm
 1. Watch #8005-8010 through CEO triage; #8011 should land as a `human`-flagged hold, not promoted to `ai-fix`.
 2. Content-gap queries unchanged/held on established precedent (Danny Carey exhausted-lever, Arin Ilejay class-2).
 3. Next drum-chair watch due Monday 2026-09-28, group 0 (amon-amarth…cynic).
+
+## 2026-09-23 (run ~22:00 UTC slot, per metrics.md 21:53 UTC) — 6 fresh proposals filed (#8026, #8027, #8029, #8031-8033): fabrication-sweep continuation, 2 false positives caught before filing
+
+Open `seo-proposal` bank at run start: 10 (well under 45) → cleared to file up to 8 net-new. Metrics 21:53 UTC (338 users/388 sessions/555 views 7d; GSC 9,963 impr/214 clicks/2.15% CTR/pos 7.5). Audit: robots.txt confirms all 8 AI crawlers explicitly allowed; `/llms/*.md` endpoints stable. Content-gap table unchanged (`arin ilejay` 397 impr/0.25% CTR, `danny carey drum kit/set`) — re-confirmed against `learned-patterns.md`'s class-2/exhausted-lever rulings, no new action. Today is Wednesday — drum-chair watch not due (last run Monday 2026-09-21 group 3; next due Monday 2026-09-28, group 0).
+
+### This run's work
+
+Dispatched 2 parallel research agents (one on `genreGearGuides.js`, one on `albumArticles/*.js` + `soundLikeGuides.js`, both told to skip ~30 heavily-covered names from this week's sweep). Combined they returned 8 candidates. **Personally re-verified every candidate via fresh `grep`/`Read` against current file content before filing** — this caught 2 genuine false positives, both the same lesson:
+
+- **Vinnie Paul** ("Remo Steel Snare" 1992-1996 era, genreGearGuides.js) — looked fabricated against `endorsementNews.js`'s coarse Tama(1990-1996)→Pearl(1996-2008) timeline, but `extendedBios.js`'s more granular "Equipment Evolution" (the established precedent source per #6041/#7851) documents a genuine 1992-1996 Remo sub-era nested inside that Tama-labeled range. The current text IS the already-shipped fix from closed #7851. Not filed.
+- **Bill Ward** ("Ludwig Supraphonic 14x6.5 LM402" snare, genreGearGuides.js doom-metal guide) — looked fabricated against `endorsementNews.js`'s generic `"Standard / Club Date Series"` drums field, but `extendedBios.js`'s FAQ/gearHighlights independently and repeatedly confirms the specific Supraphonic LM402 model. Not filed.
+
+**Rule for future runs (logging here, not in learned-patterns.md — that's CEO-maintained): when a candidate's "fabrication" consists of `genreGearGuides.js`/other content being MORE specific than `endorsementNews.js`, check `extendedBios.js`'s gearHighlights/FAQ/Equipment-Evolution section before concluding the specificity is invented — for several legacy/classic-rock-era drummers, `extendedBios.js` carries a more granular verified model than `endorsementNews.js`'s coarse brand-only timeline.**
+
+**6 filed, all personally verified + dedup-checked via `gh issue list --state all --search` (including reading full bodies of the closest-matching closed issues, not just titles) immediately before filing:**
+1. **#8026** — Jaska Raatikainen fabricated as Pearl "throughout" his 26-year career in `genreGearGuides.js` (2 guides, 5 locations) — same fact already ruled fabricated in `soundLikeGuides.js` by closed #6376, but `genreGearGuides.js` was never swept for it. Verified 1999-2004 Tama era via `endorsementNews.js`.
+2. **#8027** — Pete Sandoval sticks fabricated as "Ahead Lars Ulrich Signature" (cross-contaminated from Lars Ulrich's own signature stick, confirmed present elsewhere in the same file) across the extreme-metal drumsticks guide — verified Promark or Vic Firth 5B/2B. Same fact ruled fabricated in other files by closed #5433/#7032, gap in `genreGearGuides.js` specifically.
+3. **#8029** — Hannes Grossmann's `genreGearGuides.js` tech-death bass-drum guide backdates DW Collector's Series ~13 years onto his 2001-2014 Necrophagist/Obscura era — same bug class just fixed in `soundLikeGuides.js` today (commit 07a1c59c/#7996) and in 3 other files, but this file's instance was never touched.
+4. **#8031** — Shannon Larkin's pedal `usedBy` entry in the generic `best-bass-drum-pedals-for-metal` guide fabricates "Pearl hardware" — 3rd distinct guide with this exact fabrication after closed #7952 (throne) and #6808 (sludge-metal pedal), neither of which covered this guide. Verified DW 9000 Series since 2002, confirmed via the file's OWN correct sludge-hardware-guide entry (internal self-contradiction).
+5. **#8032** — Jay Weinberg's sticks fabricated as "Vic Firth Jay Weinberg Signature" in `soundLikeGuides.js` — closed #5723 fixed this exact guide's drums/cymbals fields against `extendedBios.js` but its scope list never mentioned sticks, a sibling-field-miss. Verified Vater 5B since 2014.
+6. **#8033** — Ray Luzier's `albumArticles/ray-luzier.js` "Paradigm Shift" article self-contradicts: cymbals section claims a "Pearl Demon Drive" pedal drove the double-kick, but the file's own hardware section (correctly) says the DW 9000 Series pedal "carried over through the Pearl switch." Same fact ruled fabricated in 2 other files by closed #6508/#6311, but this file's instance (and its unique self-contradiction) was untouched.
+
+### Not filed (false positives caught on verification)
+- Vinnie Paul "Remo Steel Snare" (see above) — already-shipped fix, matches `extendedBios.js` Equipment Evolution.
+- Bill Ward "Ludwig Supraphonic LM402" (see above) — already correct, matches `extendedBios.js` FAQ/gearHighlights.
+
+### Dedup notes
+All 6 filed issues cross-checked via `gh issue list --state all --search` (drummer name + fact keywords), with full-body reads (not just titles) on the closest-matching closed issue for each — #7851 (Vinnie Paul, ruled the false positive), #6376/#6743/#6491/#5927/#5751 (Jaska Raatikainen, none cover genreGearGuides.js kit/snare), #5433/#7032/#6722/#7675/#7855/#7817 (Pete Sandoval, none cover the drumsticks guide), #7996/#7576/#7280/#6832/#5990 (Hannes Grossmann, none cover genreGearGuides.js bass-drum guide), #7952/#6808 (Shannon Larkin, both different guides), #5723 (Jay Weinberg, confirmed sticks field out of its scope), #6508/#6311/#5807 (Ray Luzier, all different files).
+
+### Open proposals waiting on CEO triage
+- #8005-8010 (17:40 UTC run today)
+- #8011 (Van Poederooyen, flagged human-verification-needed — may already be resolved per decisions-log)
+- #8026, #8027, #8029, #8031-8033 (this run, 6 fresh)
+- #2211/#3810/#3819 (standing umbrellas)
+- Bank at run end: 15 open `seo-proposal` (well under the 45 top-up ceiling).
+
+### Next run
+1. Watch #8026, #8027, #8029, #8031-8033 through CEO triage.
+2. Apply the extendedBios.js-more-granular-than-endorsementNews.js lesson (above) before filing any future "specificity looks invented" candidate for a classic/legacy-era drummer.
+3. Content-gap queries unchanged/held on established precedent (Danny Carey exhausted-lever, Arin Ilejay class-2).
+4. Next drum-chair watch due Monday 2026-09-28, group 0 (amon-amarth…cynic).

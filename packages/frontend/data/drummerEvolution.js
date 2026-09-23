@@ -6200,15 +6200,15 @@ export const DRUMMER_EVOLUTION = {
 
         gear: {
           drums: {
-            item: 'Pearl Reference Series',
-            details: 'Maple/birch hybrid shells: 22" kick, 10"/12"/14"/16" toms',
-            notes: 'Early Pearl Reference kit used in the formative Periphery days — the gear was modest in scale; the technique was elite.',
+            item: 'Mapex',
+            details: 'Entry-level shell pack, pre-endorsement',
+            notes: 'Halpern\'s pre-endorsement Mapex kit from the earliest Periphery days, before his 2010 Yamaha endorsement — the gear was modest in scale; the technique was elite.',
             change: null,
           },
           snare: {
-            item: 'Pearl Reference 14"×6.5" Brass',
-            details: 'Brass shell, focused attack',
-            notes: 'First Reference Brass snare — the crisp, dry attack suited the polyrhythmic djent style perfectly.',
+            item: 'Mapex',
+            details: 'Standard steel snare',
+            notes: 'Stock Mapex snare from the pre-endorsement era, years before his 2015 signature snare deal.',
             change: null,
           },
           cymbals: {
@@ -6218,9 +6218,9 @@ export const DRUMMER_EVOLUTION = {
             change: null,
           },
           hardware: {
-            item: 'Pearl Demon Drive Double Pedal',
+            item: 'Mapex double pedal',
             details: 'Standard double pedal setup',
-            notes: 'Demon Drive provided the consistent, reliable double bass foundation for early Periphery live work.',
+            notes: 'Mapex hardware provided the consistent, reliable double bass foundation for early Periphery live work.',
             change: null,
           },
           sticks: {
@@ -6264,34 +6264,34 @@ export const DRUMMER_EVOLUTION = {
         years: '2012–2014',
         startYear: 2012,
         endYear: 2014,
-        description: 'Periphery II cemented the band as djent leaders. Halpern\'s Pearl Reference kit and dry, focused Reference Brass snare crack became inseparable from the band\'s sound. The combination of precise poly-rhythms and that snare response defined the Periphery sonic fingerprint.',
+        description: 'Periphery II cemented the band as djent leaders. Halpern\'s Yamaha kit, signed in 2010, anchored the band\'s sound through this breakthrough era. The combination of precise poly-rhythms and that kit\'s response defined the Periphery sonic fingerprint.',
         albums: ['Periphery II: This Time It\'s Personal (2012)', 'Clear (EP, 2014)'],
         tours: ['Periphery II World Tour', 'The Juggernaut Tour (early run)'],
         image: null,
 
         gear: {
           drums: {
-            item: 'Pearl Reference Series',
-            details: 'Maple/birch hybrid shells: 22" kick, 10"/12"/14"/16" toms',
-            notes: 'Continued Pearl Reference partnership — the balanced maple/birch tone gave Periphery\'s djent attack a musical depth that pure metal kits couldn\'t match.',
+            item: 'Yamaha',
+            details: 'Standard shell pack',
+            notes: 'Continued Yamaha partnership signed in 2010 — carried Periphery\'s djent attack through the breakthrough era.',
             change: null,
           },
           snare: {
-            item: 'Pearl Reference 14"×6.5" Brass',
-            details: 'Brass shell, dry attack',
-            notes: 'The Reference Brass snare crack — dry, focused, and perfectly articulated for intricate groove patterns.',
+            item: 'Yamaha',
+            details: 'Standard steel snare',
+            notes: 'Stock Yamaha snare during the Yamaha endorsement years, well ahead of his 2015 signature snare deal.',
             change: null,
           },
           cymbals: {
             item: 'Meinl Byzance Series',
             details: '14" hi-hats, 16"/18" crashes, 21" ride, 18" China',
-            notes: 'Switched from Istanbul to Meinl Byzance — darker Turkish B20 alloy complemented the Reference kit\'s warm tone.',
+            notes: 'Switched from Istanbul to Meinl Byzance — darker Turkish B20 alloy complemented the Yamaha kit\'s tone.',
             change: CHANGE_TYPES.SWITCH,
           },
           hardware: {
-            item: 'Pearl Demon Drive Double Pedal',
-            details: 'Continued Demon Drive foundation',
-            notes: 'Demon Drive remained the trusted double pedal through this era.',
+            item: 'Yamaha double pedal',
+            details: 'Continued double pedal foundation',
+            notes: 'Yamaha hardware remained the trusted double pedal through this era.',
             change: null,
           },
           sticks: {
@@ -6315,7 +6315,7 @@ export const DRUMMER_EVOLUTION = {
         },
 
         keyChanges: [
-          'Continued Pearl Reference Series partnership',
+          'Continued Yamaha drum kit partnership, signed 2010',
           'Switched to Meinl Byzance cymbals',
           'Periphery II (2012) — band becomes djent leaders',
           'Clear EP (2014) showcases evolved dynamic range',

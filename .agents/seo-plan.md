@@ -9776,3 +9776,41 @@ All 4 filed issues cross-checked via `gh issue list --state all --search` (drumm
 2. Richardson's "Titan Series" hardware-model imprecision (line ~15603) and Roddy's internal snare-model conflict (`extendedBios.js` FAQ vs. gearHighlights) are logged, not filed — worth a future low-priority pass.
 3. Content-gap queries unchanged/held on established precedent (Danny Carey exhausted-lever, Arin Ilejay class-2).
 4. Next drum-chair watch due Monday 2026-09-28, group 0 (amon-amarth…cynic).
+
+## 2026-09-23 (run) — 7 fresh proposals filed (#7980-7986): Richardson hardware, Roddy snare-conflict hold + cymbal fabrication, Bittner sticks/heads gap, Ågren full-narrative fabrication, Augusto sticks (2nd file), Greiner era-reframe
+
+Open `seo-proposal` bank at run start: 9 (5 fresh untriaged incl. #7869 human-hold + 3 standing umbrellas #2211/#3810/#3819) — well under 45 → cleared to file up to 8 net-new. Metrics (305 users/359 sessions/524 views 7d; GSC 8,312 impr/173 clicks/2.08% CTR/pos 7.5). Audit: robots.txt confirms all 8 AI crawlers explicitly allowed; `/llms/*.md` endpoints stable at 2,016. Today is Wednesday — drum-chair watch not due (next Monday 2026-09-28, group 0). Content-gap table unchanged (`arin ilejay`, `danny carey drum kit/set`) — all re-confirmed already held per class-2/exhausted-lever precedent, no new action.
+
+### This run's work
+
+Followed up on the prior run's next-run note (Richardson "Titan Series" hardware imprecision + Roddy's internal snare conflict, both previously logged-not-filed) via one research agent, and dispatched a second agent to sweep for entirely fresh fabrication candidates among drummers NOT touched by this week's heavy Mangini/Duplantier/Richardson/Roddy/Kollias/etc. sweep. **Personally re-verified every candidate via fresh `grep`/`sed` against current file content, and ran my own `gh issue list --state all --search` dedup checks, before filing anything** — caught that #6292 (Bittner) and #7782 (Augusto) were real prior fixes but scoped to different fields/files than my candidates, confirming both were genuine gaps rather than near-duplicates.
+
+1. **#7980** — Blake Richardson fabricated as a Tama Titan Series (stands) user in `genreGearGuides.js`'s hardware guide (3 locations); verified hardware is Iron Cobra Power Glide pedals only. Distinct fact from the already-open #7971-7973/#7975 (cymbals/sticks).
+2. **#7981** — Derek Roddy snare model conflict (`extendedBios.js`: Tama SLP Black Brass vs `genreGearGuides.js`: Tama Starclassic Bubinga, 6+ locations) — `endorsementNews.js` has no snare field to arbitrate, WebSearch found no definitive third-party source. Filed as a human-verification hold, same pattern as #7869 (Daray).
+3. **#7982** — Derek Roddy fabricated as switching to Meinl cymbals *from* an earlier Sabian/Paiste setup, across ~10 locations in `genreGearGuides.js` (ride/crash/hi-hat/full-setup guides) — verified Meinl since 1994, no prior brand ever existed. Distinct fact from #7981 (cymbals, not snare) and from the 7 already-closed Roddy cymbal-fabrication issues (none touch `genreGearGuides.js`).
+4. **#7983** — Jason Bittner sticks/heads still fabricate a pre-2017 Vic Firth/Remo era in `drummerEvolution.js` — confirmed closed #6292 scoped only drums/cymbals/hardware for this exact drummer/file, leaving sticks/heads as a genuine gap; verified ProMark/Evans since 1997.
+5. **#7984** — Morgan Ågren's entire `drummerEvolution.js` narrative fabricates a Sonor→DW/Paiste→Zildjian K "switch" — traced to the original 2015 batch issue (#3095) that seeded the error at creation; none of the 9 later closed Ågren issues touch this file. Verified continuous Paiste since 1988, Sonor since 2012.
+6. **#7985** — Nick Augusto sticks fabricated as Vic Firth in `drummerEvolution.js` — confirmed distinct from closed #7782, which fixed the identical fact but only in `genreGearGuides.js`'s metalcore-drumsticks guide. Verified Pro-Mark Nylon Tip 5B.
+7. **#7986** — Matt Greiner's metalcore-snare guide presents a pre-2016 Pearl signature snare as his *current* gear; applied the established era-reframing lesson (#7928 precedent) rather than a blind delete — `endorsementNews.js`'s 2017 SIGNATURE entry for this snare is real but tied to his pre-2016 "Reference Pure era", and no dimension/material was ever verified for it, so the fix corrects to his verified current Mapex Black Panther Design Lab kit rather than inventing replacement specs.
+
+### Not filed (investigated, ruled out)
+
+- Ben Koller's "Zildjian K Dark Series"/"Tama Starclassic Maple" in `drummerEvolution.js` — false positive; closed #5882 already established `endorsementNews.js` is the stale file here, with 3 other sources (api/drummers/index.js `verified: true`, extendedBios.js, cymbalSetups.js) agreeing the guides are correct.
+- Blake Richardson's Meinl Byzance Dark crash-cymbal pick (line ~43144) — same verified fact as open #7971-7973 but a 4th distinct guide/category; held back to avoid issue-fatigue on an already 3x-duplicated fact for this drummer this week rather than filing a near-duplicate.
+
+### Dedup notes
+
+All 7 filed issues cross-checked via `gh issue list --state all --search` (drummer + gear-category keywords) before filing, and for 2 of them (#7983 Bittner, #7985 Augusto) I additionally read the full body of the closest-matching closed issue (#6292, #7782) to confirm scope non-overlap rather than trusting the search-result title alone.
+
+### Open proposals waiting on CEO triage
+- #7869 (Daray, flagged human-verification-needed, unchanged)
+- #7961 (earlier this week, still untriaged per bank count)
+- #7980-7986 (this run, 7 fresh, incl. #7981 flagged human-verification-needed like #7869)
+- #2211/#3810/#3819 (standing umbrellas)
+- Bank at run end: 16 open `seo-proposal` (well under the 45 top-up ceiling).
+
+### Next run
+1. Watch #7980, #7982-7986 through CEO triage; #7981 should land as a `human`-flagged hold like #7869, not promoted to `ai-fix`.
+2. Blake Richardson's Meinl Byzance Dark crash-cymbal pick (line ~43144) logged, not filed — low priority, revisit only if the 3 currently-open Richardson cymbal issues (#7971-7973) ship and a dedicated pass is warranted.
+3. Content-gap queries unchanged/held on established precedent (Danny Carey exhausted-lever, Arin Ilejay class-2).
+4. Next drum-chair watch due Monday 2026-09-28, group 0 (amon-amarth…cynic).

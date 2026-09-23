@@ -9860,3 +9860,39 @@ All 8 filed issues cross-checked via `gh issue list --state all --search` (drumm
 3. Alex Bent 2016-vs-2017 join-year conflict (endorsementNews.js vs. extendedBios.js/drummerEvolution.js) — a genuine but minor 3-source tiebreak, same shape as Daray/Roddy; low priority given it's a 1-year date discrepancy, not a brand fabrication.
 4. Content-gap queries unchanged/held on established precedent (Danny Carey exhausted-lever, Arin Ilejay class-2).
 5. Next drum-chair watch due Monday 2026-09-28, group 0 (amon-amarth…cynic).
+
+## 2026-09-23 (run ~17:33 UTC slot) — 7 fresh proposals filed (#8005-8011): fabrication-sweep continuation (new drummers) + 3 leftover items resolved
+
+Open `seo-proposal` bank at run start: 14 (all already `ai-fix`-promoted except #7869/#7981 human-holds + 3 standing umbrellas #2211/#3810/#3819 — true untriaged fresh count was 0) — well under 45 → cleared to file up to 8 net-new. Metrics 17:33 UTC (326 users/376 sessions/545 views 7d; GSC 9,963 impr/214 clicks/2.15% CTR/pos 7.5). Audit: robots.txt confirms 12 `User-agent:` blocks (all 8 AI crawlers + block rules) in `api/robots.js`; `/llms/*.md` endpoints stable at 2,016. Today is Wednesday, ISO week 39 — drum-chair watch not due (already run this Monday 2026-09-21, group 3; next due Monday 2026-09-28, group 0). Content-gap table unchanged (`arin ilejay` 397 impr/0.25% CTR/pos 11.4, `danny carey drum kit` 92/1.09%, `danny carey drum set` 108/0.93%) — re-confirmed against `learned-patterns.md`'s class-2 bare-name and exhausted-content-lever rulings, no new action.
+
+### This run's work
+
+Dispatched 2 parallel research agents: one continuing the `genreGearGuides.js`/`drummerEvolution.js`/`soundLikeGuides.js` fabrication sweep among drummers not yet covered this week (given an explicit skip list of ~29 heavily-swept names), one investigating 3 specific leftover items flagged in prior "Next run" notes (Ryan Van Poederooyen join-year conflict, Nick Menza `kitOverview` prose-propagation bug, Alex Bent 2016-vs-2017 join-year conflict). **Personally re-verified all 7 candidates via direct `sed`/`grep` against current file content** (not trusting agent-reported line numbers or claims) and ran my own `gh issue list --state all --search` dedup checks before filing anything.
+
+1. **#8005** — Martin Lopez's `drummerEvolution.js` invents an entire pre-Opeth "Amon Amarth" tenure (1996-1997, invented gear + fabricated quote) — verified his professional record starts in 1997 directly with Opeth; he was never in Amon Amarth.
+2. **#8006** — Ben Koller's `drummerEvolution.js` invents a 1990-2000 founding-member Converge decade, crediting him with 2 pre-join albums — verified he joined Converge in 1999 (both `endorsementNews.js` and `extendedBios.js` agree).
+3. **#8007** — Abe Cunningham heads fabricated as Evans in `genreGearGuides.js`'s post-metal drum-heads guide — distinct file from closed #6676 (which fixed the same fact only in `soundLikeGuides.js`), verified Remo since 1997.
+4. **#8008** — Matt Garstka pedal fabricated as DW 9000 in `genreGearGuides.js`'s `best-bass-drum-pedals-for-metal` guide — distinct from #7871 (snare guide) and #7472 (albumArticles.js), verified Tama Speed Cobra 910 since 2021.
+5. **#8009** — Nick Menza's `extendedBios.js` gearHighlights/FAQ still fabricate Tama Swingstar/poplar for Rust in Peace — traced as the **root-cause source file** that #6040 originally cited when introducing this error into `gearPriceHistory.js`; 3 downstream files (`gearPriceHistory.js` #7277, `albumArticles/nick-menza.js` #7452, `top10Lists.js` #7509) were each independently reversed back to the correct Tama Artstar II/birch, but the original source (`extendedBios.js`) that seeded the error was never itself corrected.
+6. **#8010** — Alex Bent's `endorsementNews.js` timeline mis-dates his Trivium join to 2016; `extendedBios.js` and `drummerEvolution.js` both independently agree on 2017, and the `endorsementNews.js` entry's own phrasing ("in 2016 (recording debut 2017)") hints at a signing-date/join-date conflation. Resolved via majority + internal self-contradiction, filed as a normal ai-fix (not a hold) — same resolution shape as the Mangini pedal precedent.
+7. **#8011** — Ryan Van Poederooyen join-year conflict: `extendedBios.js`/`soundLikeGuides.js` say "since 1999" (crediting "Terria" 2001), `drummerEvolution.js` gives a detailed, internally consistent "recruited 2002 by Gene Hoglan, debuted Accelerated Evolution 2003" account. A 3-year discrepancy with no arbitrating `bands.js`/third source — filed as a `human`-verification hold, same pattern as #7869 (Daray)/#7981 (Roddy).
+
+### Not filed (investigated, ruled out)
+
+- None this run — both research agents' full candidate sets cleared verification and dedup, unusually clean batch.
+
+### Dedup notes
+
+All 7 filed issues cross-checked via `gh issue list --state all --search` (drummer name + fact keywords) before filing. Matt Garstka (14+ prior closed issues) and Ryan Van Poederooyen (20+ prior closed issues) required extra care — both have extensive gear-fabrication histories, but neither prior batch touched this run's specific guide/file (Garstka: `best-bass-drum-pedals-for-metal` guide, confirmed via direct grep no other issue references it) or specific fact (Van Poederooyen: join-year, all 20+ prior issues are gear-brand/model corrections only).
+
+### Open proposals waiting on CEO triage
+- #7869 (Daray, human-verification-needed, unchanged)
+- #7981 (Roddy, human-verification-needed, unchanged)
+- #8005-8011 (this run, 7 fresh, incl. #8011 flagged human-verification-needed like #7869/#7981)
+- #2211/#3810/#3819 (standing umbrellas)
+- Bank at run end: 21 open `seo-proposal` (well under the 45 top-up ceiling).
+
+### Next run
+1. Watch #8005-8010 through CEO triage; #8011 should land as a `human`-flagged hold, not promoted to `ai-fix`.
+2. Content-gap queries unchanged/held on established precedent (Danny Carey exhausted-lever, Arin Ilejay class-2).
+3. Next drum-chair watch due Monday 2026-09-28, group 0 (amon-amarth…cynic).

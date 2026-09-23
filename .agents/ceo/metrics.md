@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-09-23 16:08 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-09-23 17:33 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,11 +8,11 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 323 |
-| Sessions | 373 |
-| Page views | 544 |
-| Engagement rate | 60.86% |
-| Avg session (s) | 99 |
+| Active users | 326 |
+| Sessions | 376 |
+| Page views | 545 |
+| Engagement rate | 60.37% |
+| Avg session (s) | 98 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
@@ -26,22 +26,22 @@
 | /drummer/matt-greiner | 11 | 10 |
 | /drummer/john-otto | 9 | 9 |
 | /drummer/abe-cunningham | 8 | 1 |
-| /drummer/hellhammer | 8 | 6 |
+| /drummer/hellhammer | 8 | 7 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
 | Organic Search | 301 | 251 |
 | Direct | 52 | 52 |
-| Unassigned | 22 | 20 |
-| Cross-network | 15 | 15 |
+| Unassigned | 24 | 22 |
+| Cross-network | 17 | 17 |
 | AI Assistant | 2 | 2 |
 | Referral | 1 | 1 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 138 | 115 |
+| United States | 139 | 116 |
 | United Kingdom | 32 | 17 |
 | Singapore | 22 | 22 |
 | Germany | 16 | 12 |
@@ -50,7 +50,7 @@
 | France | 12 | 12 |
 | Australia | 11 | 11 |
 | Finland | 11 | 11 |
-| Italy | 9 | 7 |
+| Italy | 10 | 8 |
 
 ## Search Console — Search performance
 | Metric | Last 7d |

@@ -37793,7 +37793,7 @@ None of these approaches is more "correct" — all four represent groove metal's
       'ben koller ride cymbal',
       'blake richardson ride cymbal',
       'zildjian k custom ride mathcore',
-      'meinl byzance extra dry ride mathcore',
+      'sabian hh raw bell dry ride mathcore',
       'ride cymbal odd time signatures',
       'mathcore drummer ride setup',
       'best ride cymbal for converge'
@@ -37822,14 +37822,14 @@ None of these approaches is more "correct" — all four represent groove metal's
       title: "Why Mathcore Needs a Dry, Precisely Defined Ride",
       content: `Mathcore fuses hardcore punk's raw aggression with progressive rock's obsession with odd meters, asymmetrical riffing, and constantly shifting rhythmic cells — a combination that demands a ride cymbal capable of staying legible through irregular subdivisions rather than blurring into an undifferentiated wash. Where doom or black metal rides lean into dark, sustained wash, mathcore's odd-meter precision calls for a drier, more controlled voice that lets every stroke land exactly where the meter puts it.
 
-Ben Koller of Converge rides a 20" Zildjian K Custom Session Ride, whose dry, focused stick definition turned mathcore's rhythmic chaos on "Jane Doe" (2001) into genuinely legible musical expression. Blake Richardson of Between the Buried and Me plays a 22" Meinl Byzance Extra Dry Ride whose complex, controlled tone handles BTBAM's genre-hopping technicality without ever washing out. Danny Carey of Tool rides a 22" Paiste Signature Dry Heavy Ride, whose famously Fibonacci-structured polyrhythms established a mathematically rigorous drumming standard that directly informed math metal and mathcore's own rhythmic ambitions.
+Ben Koller of Converge rides a 20" Zildjian K Custom Session Ride, whose dry, focused stick definition turned mathcore's rhythmic chaos on "Jane Doe" (2001) into genuinely legible musical expression. Blake Richardson of Between the Buried and Me plays a 21" Sabian HH Raw Bell Dry Ride whose complex, controlled tone handles BTBAM's genre-hopping technicality without ever washing out. Danny Carey of Tool rides a 22" Paiste Signature Dry Heavy Ride, whose famously Fibonacci-structured polyrhythms established a mathematically rigorous drumming standard that directly informed math metal and mathcore's own rhythmic ambitions.
 
 This guide breaks down attack, dryness, and definition for mathcore ride cymbals — comparing setups across three drummers whose hardcore-rooted and progressive lineages define the genre's rhythmically unpredictable aggression, with recommendations from budget to professional touring rigs.`,
       keyPoints: [
         "Ben Koller's Zildjian K Custom Session Ride defines mathcore's founding, hardcore-rooted dry precision with Converge",
         "A drier, more controlled ride voice than typical metalcore is standard in mathcore, keeping odd-meter subdivisions legible",
         "Dry, defined rides punctuate mathcore's irregular time-signature aggression better than slow-decay wash",
-        "20\"-22\" rides are the mathcore standard, with B20 bronze (Meinl Byzance, Paiste Signature) suiting the genre's more progressive, genre-hopping wing"
+        "20\"-22\" rides are the mathcore standard, with B20 bronze (Sabian HH, Paiste Signature) suiting the genre's more progressive, genre-hopping wing"
       ]
     },
 
@@ -37846,7 +37846,7 @@ This guide breaks down attack, dryness, and definition for mathcore ride cymbals
         {
           name: "Complex, Controlled Tone",
           icon: "🎼",
-          description: "Blake Richardson's Meinl Byzance Extra Dry ride delivers complex overtones without losing control — punctuating mathcore's jarring, unpredictable riffing better than a simple, clean ride or an overly washy dark one.",
+          description: "Blake Richardson's Sabian HH Raw Bell Dry Ride delivers complex overtones without losing control — punctuating mathcore's jarring, unpredictable riffing better than a simple, clean ride or an overly washy dark one.",
           recommendation: "Dry, complex-voiced B20 rides for punctuating irregular riffing"
         },
         {
@@ -37953,40 +37953,40 @@ Its bell and edge stay distinct through jarring, unpredictable transitions witho
         },
         {
           rank: 3,
-          name: "Meinl Byzance Extra Dry Ride",
-          brand: "Meinl",
-          model: "22\" Byzance Extra Dry Ride",
+          name: "Sabian HH Raw Bell Dry Ride",
+          brand: "Sabian",
+          model: "21\" HH Raw Bell Dry Ride",
           image: "https://upload.wikimedia.org/wikipedia/commons/a/ac/Drums_01.jpg",
           priceRange: "€280-340",
           tier: "premium",
           driveType: "B20 Hand Hammered",
-          description: `Blake Richardson of Between the Buried and Me plays a 22" Meinl Byzance Extra Dry Ride, handling BTBAM's genre-hopping technicality — dramatic swings between acoustic-adjacent passages and full technical death metal density that mathcore's own unpredictability shares a lineage with. The complex, controlled tone gives Richardson room to punctuate BTBAM's odd-time whiplash without a harsh, one-dimensional attack.
+          description: `Blake Richardson of Between the Buried and Me plays a 21" Sabian HH Raw Bell Dry Ride, handling BTBAM's genre-hopping technicality — dramatic swings between acoustic-adjacent passages and full technical death metal density that mathcore's own unpredictability shares a lineage with. The complex, controlled tone gives Richardson room to punctuate BTBAM's odd-time whiplash without a harsh, one-dimensional attack.
 
-This setup proves that a complex, musical B20 ride can serve both mathcore-adjacent chaos and moments of genuine melodic restraint within the same composition.`,
+Richardson switched to Sabian for BTBAM's Automata era (2018), moving on from the Meinl Byzance Extra Dry cymbals he'd played since Alaska (2006). This setup proves that a complex, musical B20 ride can serve both mathcore-adjacent chaos and moments of genuine melodic restraint within the same composition.`,
           pros: [
-            "Blake Richardson's proven BTBAM setup — genre-hopping technicality that shares mathcore's unpredictable lineage",
+            "Blake Richardson's proven Automata-era BTBAM setup — genre-hopping technicality that shares mathcore's unpredictable lineage",
             "Dry, complex tone handles both aggressive and restrained dynamic extremes",
-            "Extra Dry finish delivers immediate, controlled attack for odd-time accents",
+            "Raw bell delivers immediate, controlled attack for odd-time accents",
             "Musical enough to serve composition, not just technical display"
           ],
           cons: [
             "Premium hand-hammered B20 pricing",
-            "Extra dry voicing offers less sustain than a wash-forward ride",
+            "Raw bell voicing offers less sustain than a wash-forward ride",
             "Individual cymbal variation is significant in hand-hammered lines"
           ],
           specs: {
-            size: "22\"",
+            size: "21\"",
             alloy: "B20 Bronze",
-            finish: "Extra Dry, Hand Hammered",
-            bell: "Standard",
+            finish: "Raw Bell, Hand Hammered",
+            bell: "Raw, unlathed",
             weight: "Medium"
           },
           usedBy: [
-            { name: "Blake Richardson", band: "Between the Buried and Me", note: "22\" Byzance Extra Dry Ride — genre-hopping mathcore-adjacent technicality" }
+            { name: "Blake Richardson", band: "Between the Buried and Me", note: "21\" HH Raw Bell Dry Ride — genre-hopping mathcore-adjacent technicality (Sabian since 2018)" }
           ],
           verdict: "Best for genre-hopping, dynamically extreme mathcore-adjacent material.",
           rating: 4.6,
-          affiliateLink: "https://www.thomann.de/intl/meinl_byzance_extra_dry_ride_22_richardson.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/sabian_hh_raw_bell_dry_ride_21_richardson.htm?partner_id=metalforge"
         },
         {
           rank: 4,
@@ -38008,7 +38008,7 @@ Carey's ride delivers weight without excessive wash, treating rhythmic mathemati
           ],
           cons: [
             "Premium CuSn8 bronze pricing",
-            "Less immediately cutting than Zildjian K Custom or Meinl Extra Dry",
+            "Less immediately cutting than Zildjian K Custom or Sabian HH Raw Bell",
             "Best suited to mathcore's more progressive, less hardcore-rooted wing"
           ],
           specs: {
@@ -38080,7 +38080,7 @@ Carey's ride delivers weight without excessive wash, treating rhythmic mathemati
 
     // Comparison
     comparison: {
-      title: "Zildjian K Custom vs Meinl Byzance vs Paiste Signature for Mathcore",
+      title: "Zildjian K Custom vs Sabian HH Raw Bell vs Paiste Signature for Mathcore",
       content: `Ride voicing splits mathcore's founding and adjacent drummers into distinct camps. Here's how they compare:
 
 **Zildjian K Custom Session Ride (Ben Koller):**
@@ -38088,7 +38088,7 @@ Carey's ride delivers weight without excessive wash, treating rhythmic mathemati
 - Mathcore's founding, most directly documented ride setup
 - Best for genre-defining, chaotic Converge-style mathcore
 
-**Meinl Byzance Extra Dry (Blake Richardson):**
+**Sabian HH Raw Bell Dry Ride (Blake Richardson):**
 - Complex, controlled overtones suited to odd-time, genre-hopping material
 - Versatile across both aggressive accents and dynamic restraint
 - Best for technical, math metal-adjacent mathcore and progressive-leaning material
@@ -38098,7 +38098,7 @@ Carey's ride delivers weight without excessive wash, treating rhythmic mathemati
 - Treats rhythmic complexity as songwriting structure over technical display
 - Best for progressive, patient mathcore-adjacent compositions
 
-**Our Recommendation:** Start with a Zildjian A series or Meinl HCS ride if you're building mathcore technique on a budget. Choose Meinl Byzance if your material blends aggression with dynamic, genre-hopping restraint. Go with Zildjian K Custom if your priority is mathcore's founding, hardcore-rooted dry precision.`,
+**Our Recommendation:** Start with a Zildjian A series or Meinl HCS ride if you're building mathcore technique on a budget. Choose Sabian HH Raw Bell if your material blends aggression with dynamic, genre-hopping restraint. Go with Zildjian K Custom if your priority is mathcore's founding, hardcore-rooted dry precision.`,
       comparisonTable: [
         { feature: "Attack Speed", directDrive: "⭐⭐⭐⭐⭐", chainDrive: "⭐⭐⭐⭐" },
         { feature: "Tonal Complexity", directDrive: "⭐⭐⭐", chainDrive: "⭐⭐⭐⭐⭐" },
@@ -38118,7 +38118,7 @@ Carey's ride delivers weight without excessive wash, treating rhythmic mathemati
         },
         {
           category: "Best for Genre-Hopping Dynamics",
-          pedal: "Meinl Byzance Extra Dry Ride",
+          pedal: "Sabian HH Raw Bell Dry Ride",
           reason: "Blake Richardson's BTBAM setup — dramatic dynamic range across mathcore-adjacent technicality."
         },
         {
@@ -38138,14 +38138,14 @@ Carey's ride delivers weight without excessive wash, treating rhythmic mathemati
     ],
     relatedDrummers: [
       { slug: 'ben-koller', name: 'Ben Koller', reason: 'Zildjian K Custom Session Ride — Converge mathcore\'s founding dry precision' },
-      { slug: 'blake-richardson', name: 'Blake Richardson', reason: 'Meinl Byzance Extra Dry Ride — BTBAM genre-hopping technicality' },
+      { slug: 'blake-richardson', name: 'Blake Richardson', reason: 'Sabian HH Raw Bell Dry Ride — BTBAM genre-hopping technicality' },
       { slug: 'danny-carey', name: 'Danny Carey', reason: 'Paiste Signature Dry Heavy Ride — Tool\'s Fibonacci-structured rigor' }
     ],
 
     // Featured drummers (issue template)
     featuredDrummers: [
       { slug: 'ben-koller', name: 'Ben Koller', reason: 'Zildjian K Custom Session Ride — Converge mathcore\'s founding dry precision' },
-      { slug: 'blake-richardson', name: 'Blake Richardson', reason: 'Meinl Byzance Extra Dry Ride — BTBAM genre-hopping technicality' }
+      { slug: 'blake-richardson', name: 'Blake Richardson', reason: 'Sabian HH Raw Bell Dry Ride — BTBAM genre-hopping technicality' }
     ],
     relatedComparisons: [],
 
@@ -38157,11 +38157,11 @@ Carey's ride delivers weight without excessive wash, treating rhythmic mathemati
       },
       {
         question: "What ride cymbal does Blake Richardson use?",
-        answer: "Blake Richardson of Between the Buried and Me plays a 22\" Meinl Byzance Extra Dry Ride, handling BTBAM's genre-hopping technicality with complex, controlled tone."
+        answer: "Blake Richardson of Between the Buried and Me plays a 21\" Sabian HH Raw Bell Dry Ride, handling BTBAM's genre-hopping technicality with complex, controlled tone. He switched to Sabian for the Automata era (2018) after playing Meinl Byzance Extra Dry cymbals since 2006."
       },
       {
         question: "Why does mathcore need a drier ride cymbal than doom or death metal?",
-        answer: "Mathcore's irregular time signatures and sudden tempo shifts call for a ride whose strokes stay individually legible through odd subdivisions. A dry, controlled voice — like Ben Koller's Zildjian K Custom Session Ride or Blake Richardson's Meinl Byzance Extra Dry — keeps each accent distinct where a dark, wash-heavy ride built for doom or black metal would blur consecutive odd-meter strokes together."
+        answer: "Mathcore's irregular time signatures and sudden tempo shifts call for a ride whose strokes stay individually legible through odd subdivisions. A dry, controlled voice — like Ben Koller's Zildjian K Custom Session Ride or Blake Richardson's Sabian HH Raw Bell Dry Ride — keeps each accent distinct where a dark, wash-heavy ride built for doom or black metal would blur consecutive odd-meter strokes together."
       },
       {
         question: "What's the best budget ride cymbal for mathcore?",
@@ -38172,7 +38172,7 @@ Carey's ride delivers weight without excessive wash, treating rhythmic mathemati
     // Conclusion
     conclusion: {
       title: "Build Your Mathcore Ride Around Dry Precision",
-      content: `Mathcore ride choices come down to a simple decision between two proven philosophies: Zildjian K Custom's dry, fast-attack cutting precision (Ben Koller's founding sound) or Meinl Byzance's complex, controlled overtones (Blake Richardson's genre-hopping approach). Danny Carey's Paiste Signature Dry Heavy ride offers a third path for mathcore's most compositionally ambitious wing.
+      content: `Mathcore ride choices come down to a simple decision between two proven philosophies: Zildjian K Custom's dry, fast-attack cutting precision (Ben Koller's founding sound) or Sabian HH Raw Bell's complex, controlled overtones (Blake Richardson's genre-hopping approach). Danny Carey's Paiste Signature Dry Heavy ride offers a third path for mathcore's most compositionally ambitious wing.
 
 Start with whichever character matches your playing style, and prioritize dry, legible stroke definition over wash — mathcore's odd-time unpredictability rewards a ride you can trust to speak clearly on every subdivision.
 

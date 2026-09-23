@@ -17686,9 +17686,9 @@ export const DRUMMER_EVOLUTION = {
             change: null,
           },
           sticks: {
-            item: 'Vic Firth American Classic (standard models)',
+            item: 'Pro-Mark Nylon Tip 5B',
             details: 'Pre-Trivium era',
-            notes: 'Long-running Vic Firth relationship that continued unbroken into his Trivium career.',
+            notes: 'No timeline exists for this endorsement beyond his current documented Pro-Mark relationship.',
             change: null,
           },
           heads: {
@@ -17752,8 +17752,8 @@ export const DRUMMER_EVOLUTION = {
             change: CHANGE_TYPES.NEW,
           },
           sticks: {
-            item: 'Vic Firth American Classic 5B',
-            details: 'Hickory, standard 5B weight',
+            item: 'Pro-Mark Nylon Tip 5B',
+            details: 'Nylon tip, standard 5B weight',
             notes: 'Unchanged from his pre-Trivium years.',
             change: null,
           },
@@ -17818,7 +17818,7 @@ export const DRUMMER_EVOLUTION = {
             change: null,
           },
           sticks: {
-            item: 'Vic Firth American Classic 5B',
+            item: 'Pro-Mark Nylon Tip 5B',
             details: 'Unchanged',
             notes: 'No change from the previous era.',
             change: null,
@@ -17884,9 +17884,9 @@ export const DRUMMER_EVOLUTION = {
             change: null,
           },
           sticks: {
-            item: 'Vic Firth American Classic 5B',
+            item: 'Pro-Mark Nylon Tip 5B',
             details: 'Unchanged',
-            notes: 'Long-running Vic Firth relationship carried from the Trivium years.',
+            notes: 'Continued Pro-Mark relationship carried from the Trivium years.',
             change: null,
           },
           heads: {
@@ -17907,7 +17907,7 @@ export const DRUMMER_EVOLUTION = {
           'Departed Trivium in 2014 and formed his own band, Corrosion',
           'Continued touring with acts including Light the Torch',
           'Moved from a single dedicated endorsement rig to varied session/touring gear',
-          'Vic Firth American Classic 5B sticks remain the one documented constant since his Trivium years',
+          'Pro-Mark Nylon Tip 5B sticks remain the one documented constant since his Trivium years',
         ],
 
         videos: [],

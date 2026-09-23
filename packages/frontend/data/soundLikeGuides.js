@@ -370,7 +370,7 @@ But don't let the complexity fool you—Danny's playing always serves the music.
         finish: 'Custom Danny Carey configuration',
         config: {
           kick: '24" x 17" Bass Drum',
-          snare: '14" x 6.5" Sonor SQ2 Snare',
+          snare: '14" x 8" Sonor Danny Carey Signature Bronze Snare',
           toms: ['10" x 8" Tom', '12" x 9" Tom', '14" x 11" Tom'],
           floorToms: ['16" x 14" Floor Tom', '18" x 16" Floor Tom']
         },
@@ -379,23 +379,22 @@ But don't let the complexity fool you—Danny's playing always serves the music.
       },
       snare: {
         brand: 'Sonor',
-        model: 'SQ2 Heavy Beech',
-        size: '14" x 6.5"',
-        shell: 'Beech',
-        description: "Danny's snare has body and projection. The beech shell provides warmth that cuts through Tool's dense arrangements without being harsh.",
+        model: 'Sonor Danny Carey Signature',
+        size: '14" x 8"',
+        shell: 'Bronze',
+        description: "Danny's signature bronze snare has body and projection. The bronze shell provides warmth that cuts through Tool's dense arrangements without being harsh.",
         alternative: "Sonor SQ1 or Tama SLP for similar projection"
       },
       cymbals: {
         brand: 'Paiste',
         series: 'Paiste Signature Series',
         setup: [
-          { type: 'Hi-Hats', model: 'Paiste 15" Signature Dark Crisp Hi-Hats', notes: 'Complex, musical sound' },
-          { type: 'Crash', model: 'Paiste 19" Signature Dark Energy Crash Mk1', notes: 'Dark, complex tone' },
-          { type: 'Crash', model: 'Paiste 20" Signature Dark Energy Crash Mk2', notes: 'Full-bodied and warm' },
-          { type: 'Ride', model: 'Paiste 22" Signature Dark Energy Ride Mk1', notes: 'Complex overtones, musical wash' },
-          { type: 'China', model: 'Paiste 20" Signature Thin China', notes: 'Controlled trash' }
+          { type: 'Hi-Hats', model: 'Paiste Signature Sound Edge Hi-Hats', notes: 'Cutting, articulate sound' },
+          { type: 'Crash', model: 'Paiste Signature Power Crash', notes: 'Full-bodied and powerful' },
+          { type: 'Ride', model: 'Paiste Signature Dry Heavy Ride', notes: 'Complex overtones, controlled wash' },
+          { type: 'China', model: 'Paiste Signature China', notes: 'Controlled trash' }
         ],
-        description: "Danny was instrumental in developing Paiste's Dark Energy line. These cymbals have complex overtones and a musical quality that suits Tool's textured sound."
+        description: "These Paiste Signature cymbals have complex overtones and a musical quality that suits Tool's textured sound."
       },
       pedals: {
         brand: 'Sonor',
@@ -508,7 +507,7 @@ But don't let the complexity fool you—Danny's playing always serves the music.
         price: "$8,000+",
         label: "Professional Setup",
         kit: "Sonor SQ2 Custom ($4,000+)",
-        cymbals: "Paiste Signature Dark Energy Custom ($2,500+)",
+        cymbals: "Paiste Signature Series Custom ($2,500+)",
         pedals: "DW 9000 Double ($700)",
         heads: "Full Remo setup ($200)",
         notes: "Studio-quality setup matching Danny's sound."

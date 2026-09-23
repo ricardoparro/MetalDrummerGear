@@ -10626,82 +10626,11 @@ export const DRUMMER_EVOLUTION = {
     slug: 'martin-lopez',
     name: 'Martin Lopez',
     band: 'Opeth / Soen',
-    totalYearsActive: '1996-Present',
+    totalYearsActive: '1997-Present',
     profileImage: '/images/drummers/martin-lopez.webp',
     summary: 'Martin Lopez brought a jazz- and classically-trained sensibility into progressive death metal, becoming the rhythmic architect behind Opeth\'s most celebrated albums before health issues forced his 2006 departure — a historical inflection point in the band\'s history. He returned in 2010 to co-found Soen, carrying his dynamic, song-serving philosophy into a new progressive metal vehicle.',
 
     eras: [
-      {
-        id: 'martin-lopez-1996-pre-opeth',
-        era: 'Pre-Opeth / Amon Amarth Foundation',
-        years: '1996-1997',
-        startYear: 1996,
-        endYear: 1997,
-        description: 'Before joining Opeth, Martin Lopez began his professional career with Amon Amarth in 1996, bringing a jazz- and classically-trained background that was unusual among Swedish death metal drummers of the era. His brief tenure established the technical foundation — precise dynamics, ghost notes, and a feel for space — that would soon make him one of progressive death metal\'s most distinctive voices.',
-        albums: ['Early Amon Amarth sessions and demos'],
-        tours: ['Amon Amarth Swedish club dates 1996-1997'],
-        image: null,
-
-        gear: {
-          drums: {
-            item: 'Sonor Force Series',
-            details: 'Beech/maple shells: 22" kick, 10"/12"/14" toms',
-            notes: 'A standard professional Swedish death metal kit of the mid-1990s, chosen for durability and a balanced tone suited to both technical and brutal material.',
-            change: null,
-          },
-          snare: {
-            item: 'Sonor Force 14"x5.5" Steel',
-            details: 'Standard steel shell',
-            notes: 'A cutting, straightforward snare appropriate to the raw Swedish death metal production of the period.',
-            change: null,
-          },
-          cymbals: {
-            item: 'Zildjian A Series',
-            details: '14" hi-hats, 16"/18" crashes, 20" ride',
-            notes: 'Standard bright Zildjian setup typical of the scene, before his later move toward darker K Series tone.',
-            change: null,
-          },
-          hardware: {
-            item: 'Basic double pedal',
-            details: 'Standard hardware',
-            notes: 'Entry-level double bass setup appropriate to early-career Swedish death metal touring budgets.',
-            change: null,
-          },
-          sticks: {
-            item: 'Vic Firth 5A',
-            details: 'Light hickory',
-            notes: 'A lighter stick choice reflecting his jazz training and emphasis on touch over pure power, even this early in his career.',
-            change: null,
-          },
-          heads: {
-            item: 'Remo Ambassador',
-            details: 'Standard configuration',
-            notes: 'Basic head setup of the era.',
-            change: null,
-          },
-        },
-
-        estimatedCost: {
-          original: 2200,
-          inflationAdjusted: 4400,
-          currency: 'USD',
-        },
-
-        keyChanges: [
-          'Began professional career with Amon Amarth (1996)',
-          'Jazz- and classically-trained background set him apart from peers',
-          'Foundational technical vocabulary developed: dynamics, ghost notes, sense of space',
-          'Left Amon Amarth in 1997 to join Opeth',
-        ],
-
-        quote: {
-          text: 'I came from jazz and classical training, so even in death metal I was always thinking about dynamics and space, not just speed.',
-          source: 'Close-Up Magazine, 1999',
-        },
-
-        videos: [],
-      },
-
       {
         id: 'martin-lopez-1997-opeth-formative',
         era: 'Opeth Formative Era / Still Life',

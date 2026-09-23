@@ -23717,7 +23717,7 @@ Start with a warm, moderately-tuned shell that responds cleanly to both light an
     // SEO metadata
     title: "Best Bass Drums for Symphonic Metal: 2026 Ultimate Guide",
     metaTitle: "Best Bass Drums for Symphonic Metal in 2026 | MetalForge Expert Guide",
-    description: "Best bass drums for symphonic metal's balanced, mix-friendly low end. What Daray (Pearl Masterworks Stadium Exotic), Hellhammer (Sonor SQ2 Heavy Beech), Frost (Tama Starclassic Bubinga), and Jaska Raatikainen (Pearl Masters Premium Maple) actually play.",
+    description: "Best bass drums for symphonic metal's balanced, mix-friendly low end. What Daray (Tama Starclassic Performer B/B), Hellhammer (Sonor SQ2 Heavy Beech), Frost (Tama Starclassic Bubinga), and Jaska Raatikainen (Pearl Masters Premium Maple) actually play.",
     seoKeywords: [
       'best bass drums for symphonic metal',
       'symphonic metal bass drum setup',
@@ -23754,12 +23754,12 @@ Start with a warm, moderately-tuned shell that responds cleanly to both light an
       title: "What Bass Drum Setup Do Symphonic Metal Drummers Actually Use?",
       content: `Symphonic metal's bass drum has to share sonic space with an orchestra — real or programmed strings, brass, choir, and keyboard arrangements all compete for the same low-to-mid frequency range a kick drum lives in. That means a symphonic metal bass drum can't just be loud and punchy; it needs a balanced, controlled tone that locks in under dense orchestral arrangements without turning the mix muddy or fighting the low end of the strings and choir.
 
-Daray of Dimmu Borgir plays a Pearl Masterworks Stadium Exotic bass drum, engineered as the full-orchestra standard for symphonic black metal's densest arrangements. Hellhammer, who drums for both Mayhem and Dimmu Borgir, runs a Sonor SQ2 Heavy Beech bass drum built for extreme speed alongside symphonic versatility. Frost of Satyricon and 1349 plays a Tama Starclassic Bubinga bass drum, its dense shell giving him control between blast beats and orchestral restraint. Jaska Raatikainen of Children of Bodom played a Pearl Masters Premium Maple bass drum, chosen for the melodic precision that sits well against keyboard-orchestrated arrangements.
+Daray of Dimmu Borgir plays a Tama Starclassic Performer B/B bass drum, its birch/bubinga hybrid shell giving the full-orchestra projection symphonic black metal's densest arrangements demand. Hellhammer, who drums for both Mayhem and Dimmu Borgir, runs a Sonor SQ2 Heavy Beech bass drum built for extreme speed alongside symphonic versatility. Frost of Satyricon and 1349 plays a Tama Starclassic Bubinga bass drum, its dense shell giving him control between blast beats and orchestral restraint. Jaska Raatikainen of Children of Bodom played a Pearl Masters Premium Maple bass drum, chosen for the melodic precision that sits well against keyboard-orchestrated arrangements.
 
 This guide breaks down exactly what makes a bass drum work for symphonic metal — balanced tone, blast beat endurance, and mix compatibility — and which specific shells the genre's leading drummers actually play, from budget to professional touring rigs.`,
       keyPoints: [
         "Symphonic metal rewards a balanced bass drum tone that sits under dense orchestral arrangements without muddying strings, choir, or keyboards",
-        "Daray's Pearl Masterworks Stadium Exotic is the full-orchestra standard, engineered for symphonic black metal's densest mixes",
+        "Daray's Tama Starclassic Performer B/B brings genuine full-orchestra projection to symphonic black metal's densest mixes",
         "Frost's dense-shell Tama Starclassic Bubinga gives control between blast beats and quiet, orchestral restraint",
         "Jaska Raatikainen's Pearl Masters Premium Maple proves a controlled, melodic-leaning tone suits keyboard-orchestrated arrangements"
       ]
@@ -23790,7 +23790,7 @@ This guide breaks down exactly what makes a bass drum work for symphonic metal �
         {
           name: "Full-Orchestra Projection",
           icon: "🎭",
-          description: "Daray's Pearl Masterworks Stadium Exotic is engineered as the full-orchestra standard for symphonic black metal — a shell needs genuine projection to stay audible against a dense wall of real or programmed orchestral instrumentation.",
+          description: "Daray's Tama Starclassic Performer B/B is built for genuine full-orchestra projection in symphonic black metal — a shell needs to stay audible against a dense wall of real or programmed orchestral instrumentation.",
           recommendation: "A shell with strong projection that can cut through a dense orchestral and choir mix"
         },
         {
@@ -23814,43 +23814,43 @@ This guide breaks down exactly what makes a bass drum work for symphonic metal �
       pedals: [
         {
           rank: 1,
-          name: "Pearl Masterworks Stadium Exotic Bass Drum",
-          brand: "Pearl",
-          model: "Masterworks Stadium Exotic 22\"x18\"",
+          name: "Tama Starclassic Performer B/B Bass Drum",
+          brand: "Tama",
+          model: "Starclassic Performer B/B 22\"x18\"",
           image: "https://upload.wikimedia.org/wikipedia/commons/6/6c/Acoustic_Drums_Kit_%2829965183378%29.jpg",
-          priceRange: "€900-1300",
-          tier: "premium",
-          material: "Exotic Maple, 22\"x18\"",
+          priceRange: "€750-1000",
+          tier: "pro",
+          material: "Birch/Bubinga Hybrid, 22\"x18\"",
 
-          description: `Daray of Dimmu Borgir plays a Pearl Masterworks Stadium Exotic bass drum, engineered as the full-orchestra standard for symphonic black metal's densest arrangements. The custom shell pack gives Pearl the flexibility to tune the exact projection needed to stay audible against Dimmu Borgir's layered orchestral, choir, and keyboard arrangements.
+          description: `Daray of Dimmu Borgir plays a Tama Starclassic Performer B/B bass drum, its birch/bubinga hybrid shell built for the full-orchestra projection symphonic black metal's densest arrangements demand. The hybrid construction gives Daray the flexibility to stay audible against Dimmu Borgir's layered orchestral, choir, and keyboard arrangements.
 
 That balance between raw projection and controlled tone is exactly what symphonic metal's dense productions demand — a bass drum that can cut through without ever muddying the orchestral elements around it.`,
 
           pros: [
             "Daray's proven Dimmu Borgir platform — symphonic black metal's full-orchestra standard",
-            "Exotic maple shell built for genuine projection against dense arrangements",
-            "Fully custom shell pack tuned specifically for orchestral mix compatibility",
+            "Birch/bubinga hybrid shell built for genuine projection against dense arrangements",
+            "Piano Black finish matches Daray's touring and studio kit",
             "Proven across some of symphonic metal's most densely produced recordings",
             "Handles both blast beats and orchestral restraint"
           ],
           cons: [
-            "Custom-built pricing puts it well beyond entry-level budgets",
-            "Long lead times for a fully bespoke build",
+            "Pro-tier pricing above entry-level bass drums",
+            "Birch/bubinga hybrid shells cost more than single-species alternatives",
             "Overkill for drummers not working with dense orchestral arrangements"
           ],
           specs: {
             diameter: "22\"",
             depth: "18\"",
-            shell: "Exotic Maple",
+            shell: "Birch/Bubinga Hybrid",
             headRecommendation: "Evans EMAD",
             configuration: "Single, double-pedal driven"
           },
           usedBy: [
-            { name: "Daray", band: "Dimmu Borgir", note: "Pearl Masterworks Stadium Exotic — symphonic black metal's full-orchestra standard" }
+            { name: "Daray", band: "Dimmu Borgir", note: "Tama Starclassic Performer B/B — symphonic black metal's full-orchestra standard" }
           ],
           verdict: "The definitive symphonic metal bass drum for drummers working against dense orchestral arrangements.",
           rating: 4.9,
-          affiliateLink: "https://www.thomann.de/intl/pearl_masterworks_stadium_exotic.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/tama_starclassic_performer_bb_bass_drum.htm?partner_id=metalforge"
         },
         {
           rank: 2,
@@ -23874,8 +23874,8 @@ Hellhammer's dual role across raw black metal and full-orchestra symphonic black
             "Sonor's German precision manufacturing"
           ],
           cons: [
-            "Standard SQ2 shell pack lacks Masterworks-tier custom tuning",
-            "Less orchestral projection than a purpose-built custom shell"
+            "Standard SQ2 shell pack lacks a hybrid shell's tonal complexity",
+            "Less orchestral projection than a purpose-built premium shell"
           ],
           specs: {
             diameter: "22\"",
@@ -23952,7 +23952,7 @@ That restraint — a bass drum that supports rather than dominates a melodic, ke
             "Proven across some of melodic metal's most keyboard-forward recordings"
           ],
           cons: [
-            "Standard shell pack lacks the custom tuning of Masterworks-tier programs",
+            "Standard shell pack lacks a hybrid shell's tonal complexity",
             "Less raw projection than a purpose-built orchestral shell"
           ],
           specs: {
@@ -23975,7 +23975,7 @@ That restraint — a bass drum that supports rather than dominates a melodic, ke
     // Budget options section
     budgetOptions: {
       title: "Best Budget Bass Drums for Symphonic Metal",
-      description: "You don't need a custom Masterworks shell to build a balanced symphonic metal low end. These bass drums deliver genuine mix compatibility at an accessible price.",
+      description: "You don't need a premium hybrid shell to build a balanced symphonic metal low end. These bass drums deliver genuine mix compatibility at an accessible price.",
       pedals: [
         {
           name: "Pearl Export Bass Drum",
@@ -24010,20 +24010,20 @@ That restraint — a bass drum that supports rather than dominates a melodic, ke
 
     // Comparison
     comparison: {
-      title: "Exotic Maple vs Maple/Beech Hybrid Bass Drums for Symphonic Metal",
+      title: "Maple/Beech vs Birch/Bubinga Hybrid Bass Drums for Symphonic Metal",
       content: `Symphonic metal drummers split their bass drum choice across two proven shell philosophies:
 
-**Exotic Maple / Heavy Beech (Daray, Hellhammer, Jaska Raatikainen):**
+**Maple / Heavy Beech (Hellhammer, Jaska Raatikainen):**
 - Balanced, controlled tone that leaves room for orchestral and keyboard arrangements
-- The dominant choice among symphonic metal's most orchestrally-dense acts
+- A dominant choice among symphonic metal's most orchestrally-dense acts
 - Slightly less dynamic range than a purpose-built hybrid shell
 
-**Bubinga (Frost):**
+**Bubinga / Birch-Bubinga Hybrid (Daray, Frost):**
 - Extra low-end mass and dynamic control between blast beats and orchestral restraint
 - Proven across symphonic black metal's most dynamically demanding material
 - Premium-tier pricing
 
-**Verdict:** Start with a 22"x18" maple shell like Jaska Raatikainen's Pearl Masters Premium Maple, or a heavy beech shell like Hellhammer's Sonor SQ2 — both are a proven foundation for a balanced tone that won't fight orchestral or keyboard arrangements. Consider a dense bubinga shell like Frost's Tama Starclassic Bubinga if your material demands maximum dynamic control between blast beats and quiet, orchestral passages.`,
+**Verdict:** Start with a 22"x18" maple shell like Jaska Raatikainen's Pearl Masters Premium Maple, or a heavy beech shell like Hellhammer's Sonor SQ2 — both are a proven foundation for a balanced tone that won't fight orchestral or keyboard arrangements. Consider a dense hybrid shell like Daray's Tama Starclassic Performer B/B or Frost's Tama Starclassic Bubinga if your material demands maximum dynamic control between blast beats and quiet, orchestral passages.`,
       comparisonTable: [
         { feature: "Mix Compatibility", birch: "⭐⭐⭐⭐⭐", maple: "⭐⭐⭐⭐" },
         { feature: "Blast Beat Endurance", birch: "⭐⭐⭐⭐", maple: "⭐⭐⭐⭐⭐" },
@@ -24039,8 +24039,8 @@ That restraint — a bass drum that supports rather than dominates a melodic, ke
       picks: [
         {
           category: "Best Overall",
-          pedal: "Pearl Masterworks Stadium Exotic Bass Drum",
-          reason: "Daray's full-orchestra standard — engineered for symphonic black metal's densest arrangements."
+          pedal: "Tama Starclassic Performer B/B Bass Drum",
+          reason: "Daray's full-orchestra standard — built for symphonic black metal's densest arrangements."
         },
         {
           category: "Best for Blast Beat Speed",
@@ -24069,7 +24069,7 @@ That restraint — a bass drum that supports rather than dominates a melodic, ke
       'best-hi-hats-for-symphonic-metal'
     ],
     relatedDrummers: [
-      { slug: 'daray', name: 'Daray', reason: 'Pearl Masterworks Stadium Exotic — Dimmu Borgir full-orchestra symphonic black metal' },
+      { slug: 'daray', name: 'Daray', reason: 'Tama Starclassic Performer B/B — Dimmu Borgir full-orchestra symphonic black metal' },
       { slug: 'hellhammer', name: 'Hellhammer', reason: 'Sonor SQ2 Heavy Beech — Mayhem and Dimmu Borgir symphonic versatility' },
       { slug: 'frost', name: 'Frost', reason: 'Tama Starclassic Bubinga — Satyricon dynamic precision' },
       { slug: 'jaska-raatikainen', name: 'Jaska Raatikainen', reason: 'Pearl Masters Premium Maple — Children of Bodom keyboard-orchestrated precision' }
@@ -24077,7 +24077,7 @@ That restraint — a bass drum that supports rather than dominates a melodic, ke
 
     // Featured drummers (issue template)
     featuredDrummers: [
-      { slug: 'daray', name: 'Daray', reason: 'Pearl Masterworks Stadium Exotic — full-orchestra symphonic standard' },
+      { slug: 'daray', name: 'Daray', reason: 'Tama Starclassic Performer B/B — full-orchestra symphonic standard' },
       { slug: 'hellhammer', name: 'Hellhammer', reason: 'Sonor SQ2 Heavy Beech — extreme speed and symphonic versatility' },
       { slug: 'frost', name: 'Frost', reason: 'Tama Starclassic Bubinga — dynamic control for orchestral restraint' }
     ],
@@ -24086,7 +24086,7 @@ That restraint — a bass drum that supports rather than dominates a melodic, ke
     faq: [
       {
         question: "What bass drums do symphonic metal drummers use?",
-        answer: "Daray of Dimmu Borgir plays a Pearl Masterworks Stadium Exotic, Hellhammer (Mayhem, Dimmu Borgir) plays a Sonor SQ2 Heavy Beech, Frost of Satyricon and 1349 plays a Tama Starclassic Bubinga, and Jaska Raatikainen of Children of Bodom played a Pearl Masters Premium Maple. All run a single 22\"x18\" bass drum with a double pedal."
+        answer: "Daray of Dimmu Borgir plays a Tama Starclassic Performer B/B, Hellhammer (Mayhem, Dimmu Borgir) plays a Sonor SQ2 Heavy Beech, Frost of Satyricon and 1349 plays a Tama Starclassic Bubinga, and Jaska Raatikainen of Children of Bodom played a Pearl Masters Premium Maple. All run a single 22\"x18\" bass drum with a double pedal."
       },
       {
         question: "What makes a bass drum good for symphonic metal specifically, versus other metal genres?",
@@ -24102,14 +24102,14 @@ That restraint — a bass drum that supports rather than dominates a melodic, ke
       },
       {
         question: "Should a symphonic metal bass drum be tuned bright or dark?",
-        answer: "Slightly darker and controlled. A bright, boomy bass drum competes with orchestral and keyboard low end in a dense mix. Jaska Raatikainen's Pearl Masters Premium Maple and Daray's Pearl Masterworks Stadium Exotic both favor a controlled, well-defined attack over raw brightness."
+        answer: "Slightly darker and controlled. A bright, boomy bass drum competes with orchestral and keyboard low end in a dense mix. Jaska Raatikainen's Pearl Masters Premium Maple and Daray's Tama Starclassic Performer B/B both favor a controlled, well-defined attack over raw brightness."
       }
     ],
 
     // Conclusion
     conclusion: {
       title: "Build the Balanced Low End Symphonic Metal Demands",
-      content: `Symphonic metal's bass drum requirements go beyond what most metal subgenres ask for — a shell has to sit under dense orchestral arrangements without muddying strings, choir, or keyboards, while still holding up under sustained blast beats. Daray's Pearl Masterworks Stadium Exotic and Hellhammer's Sonor SQ2 Heavy Beech both prove that a balanced, controlled tone is the genre's proven foundation.
+      content: `Symphonic metal's bass drum requirements go beyond what most metal subgenres ask for — a shell has to sit under dense orchestral arrangements without muddying strings, choir, or keyboards, while still holding up under sustained blast beats. Daray's Tama Starclassic Performer B/B and Hellhammer's Sonor SQ2 Heavy Beech both prove that a balanced, controlled tone is the genre's proven foundation.
 
 If your material demands maximum dynamic range between extreme speed and orchestral restraint, Frost's Tama Starclassic Bubinga shows how a dense, purpose-suited shell can serve both ends without compromise.
 
@@ -41649,7 +41649,7 @@ This guide breaks down what actually makes a ride work for symphonic metal — o
           driveType: "CuSn8 Bronze, Unlathed/Rough Finish",
           description: `Daray of Dimmu Borgir and Vader rides a 22" Paiste RUDE Power Ride, a setup built to compete against full symphonic orchestral arrangements layered on top of relentless blast beats. The Power Ride variant adds more body and projection than a standard RUDE Ride while keeping the line's raw, unlathed character intact, carrying Dimmu Borgir's full-orchestra symphonic black metal from "Abrahadabra" (2010) through 2026's "Grand Serpent Rising."
 
-Paired with his Pearl Masterworks Stadium Exotic kit, the RUDE Power Ride gives Daray's playing the aggressive, cutting edge that stays audible no matter how densely Dimmu Borgir layers keyboard and string arrangements underneath.`,
+Paired with his Tama Starclassic Performer B/B kit, the RUDE Power Ride gives Daray's playing the aggressive, cutting edge that stays audible no matter how densely Dimmu Borgir layers keyboard and string arrangements underneath.`,
           pros: [
             "Daray's Dimmu Borgir setup — unchanged and proven across three studio albums since 2010",
             "Unlathed RUDE construction for maximum cut and projection",
@@ -61032,7 +61032,7 @@ Technique matters as much as gear in thrash metal. The genre's most influential 
     // SEO metadata
     title: "Best Drum Kits for Symphonic Metal: 2026 Ultimate Guide",
     metaTitle: "Best Drum Kits for Symphonic Metal 2026 | MetalForge Expert Guide",
-    description: "Best drum kits for symphonic metal drumming. What Daray (Pearl Masterworks Stadium Exotic), Hellhammer (Sonor SQ2 Heavy Beech), Frost (Tama Starclassic Bubinga), and Jaska Raatikainen (Pearl Masters Premium Maple) actually use — from budget to pro, built for orchestral grandeur and blast-beat extremity.",
+    description: "Best drum kits for symphonic metal drumming. What Daray (Tama Starclassic Performer B/B), Hellhammer (Sonor SQ2 Heavy Beech), Frost (Tama Starclassic Bubinga), and Jaska Raatikainen (Pearl Masters Premium Maple) actually use — from budget to pro, built for orchestral grandeur and blast-beat extremity.",
     seoKeywords: [
       'best drum kits for symphonic metal',
       'symphonic metal drum kit',
@@ -61040,7 +61040,7 @@ Technique matters as much as gear in thrash metal. The genre's most influential 
       'hellhammer drum kit mayhem',
       'frost drum kit satyricon',
       'jaska raatikainen drum kit',
-      'pearl masterworks stadium exotic',
+      'tama starclassic performer bb symphonic metal',
       'tama starclassic bubinga symphonic metal',
       'orchestral metal drumming gear',
       'symphonic black metal drum setup'
@@ -61069,11 +61069,11 @@ Technique matters as much as gear in thrash metal. The genre's most influential 
       title: "What Drum Kit Should I Use for Symphonic Metal?",
       content: `Symphonic metal drumming has to serve two masters at once: the extreme aggression of blast beats and double bass at black or death metal tempos, and the dynamic sensitivity a full orchestral or choir arrangement demands. That split shapes every gear decision — a kit built purely for speed can feel one-dimensional next to a string section, while a kit voiced for warmth alone won't cut through 280 BPM blast beats.
 
-Daray built the Pearl Masterworks Stadium Exotic / Paiste RUDE rig that has carried Dimmu Borgir's full-orchestra symphonic black metal from "Abrahadabra" (2010) through 2026's "Grand Serpent Rising," a setup engineered for maximum projection against layered symphony and choir arrangements. Hellhammer's Sonor SQ2 Heavy Beech kit and Paiste RUDE cymbal setup has powered both Mayhem's foundational black metal and Dimmu Borgir's own symphonic era, making him the most versatile drummer in the genre's extreme range. Frost's Tama Starclassic Bubinga kit, played since 2013, gives Satyricon and 1349 the dynamic control needed to move between blast-beat storms and the atmospheric restraint symphonic arrangements require, while Jaska Raatikainen's Pearl Masters Premium Maple kit drove Children of Bodom's keyboard-orchestrated melodic death metal for over two decades.
+Daray built the Tama Starclassic Performer B/B / Paiste RUDE rig that has carried Dimmu Borgir's full-orchestra symphonic black metal from "Abrahadabra" (2010) through 2026's "Grand Serpent Rising," a setup engineered for maximum projection against layered symphony and choir arrangements. Hellhammer's Sonor SQ2 Heavy Beech kit and Paiste RUDE cymbal setup has powered both Mayhem's foundational black metal and Dimmu Borgir's own symphonic era, making him the most versatile drummer in the genre's extreme range. Frost's Tama Starclassic Bubinga kit, played since 2013, gives Satyricon and 1349 the dynamic control needed to move between blast-beat storms and the atmospheric restraint symphonic arrangements require, while Jaska Raatikainen's Pearl Masters Premium Maple kit drove Children of Bodom's keyboard-orchestrated melodic death metal for over two decades.
 
 This guide breaks down what actually makes a kit work for symphonic metal — projection, dynamic range, and extreme-tempo durability — and which specific kits these four influential drummers rely on, from budget-friendly starters to the professional rigs behind the genre's most orchestrally ambitious records.`,
       keyPoints: [
-        "Daray's Pearl Masterworks Stadium Exotic kit is engineered for maximum projection against full orchestra and choir arrangements",
+        "Daray's Tama Starclassic Performer B/B kit is engineered for maximum projection against full orchestra and choir arrangements",
         "Hellhammer's Sonor SQ2 / Paiste RUDE setup proves one rig can serve both raw black metal and symphonic grandeur",
         "Frost's dense-shell Tama Starclassic Bubinga kit prioritizes dynamic control for moving between blast beats and orchestral restraint",
         "Deep, powerful shells and durable double-pedal hardware matter as much as tonal warmth in symphonic metal contexts"
@@ -61088,7 +61088,7 @@ This guide breaks down what actually makes a kit work for symphonic metal — pr
           name: "Orchestral Projection",
           icon: "🎻",
           description: "Symphonic metal arrangements layer full orchestra, choir, and keyboard parts on top of the rhythm section. Your kit needs enough natural projection and attack to cut through that density without relying on electronic augmentation.",
-          recommendation: "Deep, resonant shells (Pearl Masterworks, Tama Starclassic Bubinga) tuned for clear attack through dense orchestral mixes"
+          recommendation: "Deep, resonant shells (Tama Starclassic Performer B/B, Tama Starclassic Bubinga) tuned for clear attack through dense orchestral mixes"
         },
         {
           name: "Blast Beat Endurance",
@@ -61112,8 +61112,8 @@ This guide breaks down what actually makes a kit work for symphonic metal — pr
         {
           name: "Snare Cut-Through",
           icon: "🥁",
-          description: "A symphonic metal snare needs to stay audible against a full orchestral wall. Daray's Pearl Reference 14\"x5.5\" Brass snare and Frost's Tama Starclassic Bubinga 14\"x5.5\" snare both prioritize a bright, cutting crack over pure low-end body.",
-          recommendation: "A bright, cutting snare voice (brass or bubinga, 14\"x5.5\") that stays audible against layered arrangements"
+          description: "A symphonic metal snare needs to stay audible against a full orchestral wall. Daray's Tama S.L.P. Black Brass 14\"x6.5\" snare and Frost's Tama Starclassic Bubinga 14\"x5.5\" snare both prioritize a bright, cutting crack over pure low-end body.",
+          recommendation: "A bright, cutting snare voice (brass or bubinga) that stays audible against layered arrangements"
         },
         {
           name: "Touring and Studio Durability",
@@ -61130,43 +61130,43 @@ This guide breaks down what actually makes a kit work for symphonic metal — pr
       pedals: [
         {
           rank: 1,
-          name: "Pearl Masterworks Stadium Exotic",
-          brand: "Pearl",
-          model: "Masterworks Stadium Exotic",
+          name: "Tama Starclassic Performer B/B",
+          brand: "Tama",
+          model: "Starclassic Performer Birch/Bubinga",
           image: "https://upload.wikimedia.org/wikipedia/commons/a/ac/Drums_01.jpg",
-          priceRange: "€4500-7000 (custom shell pack)",
-          tier: "premium",
-          material: "Custom Exotic Shells",
+          priceRange: "€2200-3000 (shell pack)",
+          tier: "pro",
+          material: "Birch/Bubinga",
 
-          description: `Daray built the Pearl Masterworks Stadium Exotic / Paiste RUDE rig that has carried Dimmu Borgir's full-orchestra symphonic black metal from "Abrahadabra" (2010) through 2026's "Grand Serpent Rising." Paired with a Pearl Reference 14"x5.5" Brass snare and Pearl Demon Drive double pedal, the setup is engineered for maximum projection against arrangements that include full symphony orchestras and choir sections.
+          description: `Daray built the Tama Starclassic Performer B/B / Paiste RUDE rig that has carried Dimmu Borgir's full-orchestra symphonic black metal since switching from Pearl in 2014, confirmed at the TAMA 40th Anniversary Drum Festival. Paired with a Tama S.L.P. Black Brass (LBR1465) snare and Pearl Demon Drive double pedal, the setup is engineered for maximum projection against arrangements that include full symphony orchestras and choir sections.
 
-Pearl's Masterworks custom shell program lets Daray dial in exact specs for Dimmu Borgir's theatrical, orchestrally ambitious productions, while the brass snare's brightness ensures his backbeat stays cutting even beneath dense keyboard and string layering.`,
+The Starclassic's birch/bubinga hybrid shell in Piano Black lets Daray hold up against Dimmu Borgir's theatrical, orchestrally ambitious productions, while the brass snare's brightness ensures his backbeat stays cutting even beneath dense keyboard and string layering.`,
 
           pros: [
-            "Daray's Dimmu Borgir setup — unchanged and proven across three studio albums since 2010",
-            "Custom Masterworks shell specification for exact tonal control",
-            "Pearl Reference Brass snare cuts through full orchestral arrangements",
-            "Pearl Demon XR double pedal built for sustained extreme-tempo reliability",
+            "Daray's current Dimmu Borgir setup, confirmed since 2014",
+            "Birch/bubinga hybrid shell for exact tonal control",
+            "S.L.P. Black Brass snare cuts through full orchestral arrangements",
+            "Pearl Demon Drive double pedal built for sustained extreme-tempo reliability",
             "Proven across symphonic black metal's most globally successful era"
           ],
           cons: [
-            "Custom Masterworks builds carry premium pricing and long lead times",
+            "Pro-tier pricing above entry-level kits",
             "Overkill for drummers not playing large, orchestrally-arranged material",
-            "Limited availability outside custom-order channels"
+            "Birch/bubinga hybrid shells cost more than single-species alternatives"
           ],
           specs: {
-            shell: "Custom Exotic (Masterworks program)",
-            mount: "Pearl OptiMount",
-            finish: "Custom exotic veneer options",
+            shell: "Birch/Bubinga Hybrid",
+            mount: "Star-Cast Mounting System",
+            finish: "Piano Black",
             kickSize: "22\" x 18\" (dual)",
-            tomSizes: "Custom configurations available"
+            tomSizes: "Standard configurations available"
           },
           usedBy: [
-            { name: "Daray", band: "Dimmu Borgir", note: "Pearl Masterworks Stadium Exotic — symphonic black metal's full-orchestra standard" }
+            { name: "Daray", band: "Dimmu Borgir", note: "Tama Starclassic Performer B/B — symphonic black metal's full-orchestra standard" }
           ],
           verdict: "The symphonic metal kit standard. Built for maximum projection against the genre's most ambitious orchestral arrangements.",
           rating: 4.8,
-          affiliateLink: "https://www.thomann.de/intl/pearl_masterworks_stadium_exotic.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/tama_starclassic_performer_bb.htm?partner_id=metalforge"
         },
         {
           rank: 2,
@@ -61266,12 +61266,12 @@ Raatikainen's twin 22"x18" kick configuration with a compact two rack tom/two fl
             "Jaska Raatikainen's Children of Bodom setup — proven across 26 years and every studio album",
             "6-ply all-maple shells for focused, projecting tone",
             "Pearl Eliminator double pedal for reliable extreme-tempo response",
-            "More accessible pricing than Masterworks or SQ2 custom programs",
+            "More accessible pricing than Starclassic hybrid or SQ2 custom programs",
             "Excellent for keyboard-orchestrated, melodically ambitious symphonic-adjacent metal"
           ],
           cons: [
             "Less projection than the genre's premium custom-shell options",
-            "Standard maple lacks the exotic shell customization of Masterworks",
+            "Standard maple lacks the hybrid-shell tonal complexity of Starclassic Performer B/B",
             "Discontinued as a current Pearl line, though used units remain available"
           ],
           specs: {
@@ -61294,7 +61294,7 @@ Raatikainen's twin 22"x18" kick configuration with a compact two rack tom/two fl
     // Budget options section
     budgetOptions: {
       title: "Best Budget Drum Kits for Symphonic Metal",
-      description: "You don't need a custom Masterworks or SQ2 build to start playing symphonic metal. These kits deliver real projection and durability for developing players.",
+      description: "You don't need a premium Tama or Sonor SQ2 build to start playing symphonic metal. These kits deliver real projection and durability for developing players.",
       pedals: [
         {
           name: "Pearl Export",
@@ -61303,9 +61303,9 @@ Raatikainen's twin 22"x18" kick configuration with a compact two rack tom/two fl
           priceRange: "€600-900 (shell pack)",
           tier: "budget",
           material: "Poplar/Birch Hybrid",
-          description: "The Pearl Export carries the same Pearl DNA as Daray and Raatikainen's professional kits at a fraction of the price. It won't match their custom projection, but it teaches proper technique on a genuinely durable, Pearl-built shell pack.",
-          pros: ["Same Pearl family DNA as two of this guide's featured kits", "Durable enough for both extreme tempo and dynamic playing", "Worldwide availability and support"],
-          cons: ["Poplar/birch shells lack the projection of Reference or Masterworks maple", "Will need head upgrades to sound professional"],
+          description: "The Pearl Export carries the same Pearl DNA as Raatikainen's professional kit at a fraction of the price. It won't match his projection, but it teaches proper technique on a genuinely durable, Pearl-built shell pack.",
+          pros: ["Same Pearl family DNA as one of this guide's featured kits", "Durable enough for both extreme tempo and dynamic playing", "Worldwide availability and support"],
+          cons: ["Poplar/birch shells lack the projection of Reference or Masters Premium maple", "Will need head upgrades to sound professional"],
           verdict: "Best budget entry into the Pearl symphonic metal sound.",
           rating: 4.1,
           affiliateLink: "https://www.thomann.de/intl/pearl_export_series.htm?partner_id=metalforge"
@@ -61317,7 +61317,7 @@ Raatikainen's twin 22"x18" kick configuration with a compact two rack tom/two fl
           priceRange: "€700-1000 (complete kit)",
           tier: "budget",
           material: "Poplar",
-          description: "The Tama Imperialstar offers a budget entry point into the Tama family that defines Frost's signature Starclassic Bubinga setup. It won't have the Bubinga's shell density and low-end mass, but it's a genuinely capable production kit for developing symphonic metal drummers.",
+          description: "The Tama Imperialstar offers a budget entry point into the Tama family that defines Daray's Starclassic Performer B/B and Frost's Starclassic Bubinga setups. It won't have their hybrid shells' density and low-end mass, but it's a genuinely capable production kit for developing symphonic metal drummers.",
           pros: ["Budget entry into Tama's build quality", "Good projection for developing dynamic technique", "Complete kit including hardware"],
           cons: ["Less low-end mass than the premium bubinga shells", "Standard configurations only, no custom specification"],
           verdict: "Best budget path toward Frost's Tama sound.",
@@ -61332,26 +61332,25 @@ Raatikainen's twin 22"x18" kick configuration with a compact two rack tom/two fl
       title: "Pearl vs Tama vs Sonor for Symphonic Metal",
       content: `Shell choice splits symphonic metal's leading drummers into a few clear camps. Here's how each compares:
 
-**Pearl (Daray, Jaska Raatikainen):**
-- Two of this guide's four featured drummers build around Pearl
-- Masterworks and Masters Premium lines prioritize maximum projection and brightness
-- A dominant choice across symphonic black metal's biggest bands
-- Best for: Cutting through dense orchestral and choir arrangements
+**Pearl (Jaska Raatikainen):**
+- One of this guide's four featured drummers builds around Pearl
+- Masters Premium line prioritizes a controlled, focused maple tone
+- Best for: Keyboard-orchestrated material that needs a focused, well-defined low end
 
-**Tama (Frost):**
-- Starclassic Bubinga shells prioritize low-end mass and dynamic control
-- Denser, punchier character than Pearl's brighter voicing
-- Proven across over a decade of Norwegian extreme and symphonic-adjacent metal
-- Best for: Drummers who need to move fluidly between blast beats and theatrical restraint
+**Tama (Daray, Frost):**
+- Two of this guide's four featured drummers build around Tama
+- Starclassic Performer B/B and Starclassic Bubinga shells prioritize maximum projection and low-end mass
+- Proven across both full-orchestra symphonic black metal and over a decade of Norwegian extreme and symphonic-adjacent metal
+- Best for: Drummers who need maximum orchestral cut-through or dynamic control moving between blast beats and theatrical restraint
 
 **Sonor (Hellhammer):**
 - Heavy beech shells prioritize a bright, cutting attack with more edge than maple
 - Proven since 1988 across both Mayhem's raw black metal and Dimmu Borgir's symphonic era
 - Best for: Drummers who need one rig to serve both extreme rawness and orchestral grandeur
 
-**The Truth:** All three brands sit at the top of symphonic metal's gear hierarchy. Pearl's Masterworks and Masters Premium lines dominate the genre's biggest, most orchestrally ambitious bands, Frost's Tama Starclassic Bubinga proves a denser, more dynamically controlled setup works equally well at the highest level, and Hellhammer's Sonor SQ2 shows a beech shell platform can bridge raw extremity and symphonic grandeur in a single rig.
+**The Truth:** All three brands sit at the top of symphonic metal's gear hierarchy. Daray's Tama Starclassic Performer B/B and Frost's Tama Starclassic Bubinga dominate the genre's biggest, most orchestrally ambitious bands, Jaska Raatikainen's Pearl Masters Premium Maple proves a focused, controlled maple tone works equally well at the highest level, and Hellhammer's Sonor SQ2 shows a beech shell platform can bridge raw extremity and symphonic grandeur in a single rig.
 
-**Our Recommendation:** Choose Pearl if your material leans toward maximum projection against dense orchestral arrangements. Choose Tama if dynamic sensitivity between extremity and restraint matters more than raw brightness. Choose Sonor if you need one rig proven across both raw black metal and orchestral symphonic material.`,
+**Our Recommendation:** Choose Tama if your material demands either maximum full-orchestra projection or dense dynamic control moving between blast beats and restraint. Choose Pearl if a controlled, keyboard-friendly maple tone suits your material best. Choose Sonor if you need one rig proven across both raw black metal and orchestral symphonic material.`,
       comparisonTable: [
         { feature: "Orchestral Projection", pearl: "⭐⭐⭐⭐⭐", tama: "⭐⭐⭐⭐" },
         { feature: "Dynamic Range", pearl: "⭐⭐⭐⭐", tama: "⭐⭐⭐⭐⭐" },
@@ -61366,7 +61365,7 @@ Raatikainen's twin 22"x18" kick configuration with a compact two rack tom/two fl
       picks: [
         {
           category: "Best Overall",
-          pedal: "Pearl Masterworks Stadium Exotic",
+          pedal: "Tama Starclassic Performer B/B",
           reason: "Daray's Dimmu Borgir setup — maximum projection against the genre's most ambitious full-orchestra arrangements."
         },
         {
@@ -61394,7 +61393,7 @@ Raatikainen's twin 22"x18" kick configuration with a compact two rack tom/two fl
       'best-drum-kits-for-progressive-metal'
     ],
     relatedDrummers: [
-      { slug: 'daray', name: 'Daray', reason: 'Pearl Masterworks Stadium Exotic — Dimmu Borgir full-orchestra symphonic black metal' },
+      { slug: 'daray', name: 'Daray', reason: 'Tama Starclassic Performer B/B — Dimmu Borgir full-orchestra symphonic black metal' },
       { slug: 'hellhammer', name: 'Hellhammer', reason: 'Sonor SQ2 Heavy Beech — Mayhem and Dimmu Borgir symphonic versatility' },
       { slug: 'frost', name: 'Frost', reason: 'Tama Starclassic Bubinga — Satyricon dynamic precision' },
       { slug: 'jaska-raatikainen', name: 'Jaska Raatikainen', reason: 'Pearl Masters Premium Maple — Children of Bodom keyboard-orchestrated precision' }
@@ -61402,7 +61401,7 @@ Raatikainen's twin 22"x18" kick configuration with a compact two rack tom/two fl
 
     // Featured drummers (issue template)
     featuredDrummers: [
-      { slug: 'daray', name: 'Daray', reason: 'Pearl Masterworks Stadium Exotic — Dimmu Borgir full-orchestra symphonic black metal' },
+      { slug: 'daray', name: 'Daray', reason: 'Tama Starclassic Performer B/B — Dimmu Borgir full-orchestra symphonic black metal' },
       { slug: 'hellhammer', name: 'Hellhammer', reason: 'Sonor SQ2 Heavy Beech — Mayhem and Dimmu Borgir symphonic versatility' },
       { slug: 'frost', name: 'Frost', reason: 'Tama Starclassic Bubinga — Satyricon dynamic precision' },
       { slug: 'jaska-raatikainen', name: 'Jaska Raatikainen', reason: 'Pearl Masters Premium Maple — Children of Bodom keyboard-orchestrated precision' }
@@ -61412,7 +61411,7 @@ Raatikainen's twin 22"x18" kick configuration with a compact two rack tom/two fl
     faq: [
       {
         question: "What drum kit does Daray from Dimmu Borgir use?",
-        answer: "Daray plays a Pearl Masterworks Stadium Exotic kit with a Pearl Reference 14\"x5.5\" Brass snare, Paiste RUDE & 2002 Series cymbals, and a Pearl Demon Drive double pedal — a rig established during Dimmu Borgir's Abrahadabra era (2010) and unchanged through Grand Serpent Rising (2026)."
+        answer: "Daray plays a Tama Starclassic Performer B/B kit in Piano Black with a Tama S.L.P. Black Brass (LBR1465) snare, Paiste RUDE & 2002 Series cymbals, and a Pearl Demon Drive double pedal — a switch to Tama confirmed by mid-2014 at the TAMA 40th Anniversary Drum Festival, after debuting on Dimmu Borgir's Abrahadabra era (2010) on Pearl."
       },
       {
         question: "What drum kit does Hellhammer use?",
@@ -61428,16 +61427,16 @@ Raatikainen's twin 22"x18" kick configuration with a compact two rack tom/two fl
       },
       {
         question: "Do I need an expensive custom kit to play symphonic metal?",
-        answer: "No — a Pearl Export or Tama Imperialstar shell pack will teach real symphonic metal technique at a fraction of the price of Daray's Masterworks or Frost's Starclassic Bubinga. Upgrade once your technique and budget allow for a professional-tier kit."
+        answer: "No — a Pearl Export or Tama Imperialstar shell pack will teach real symphonic metal technique at a fraction of the price of Daray's Starclassic Performer B/B or Frost's Starclassic Bubinga. Upgrade once your technique and budget allow for a professional-tier kit."
       }
     ],
 
     // Conclusion
     conclusion: {
       title: "Build Your Symphonic Metal Arsenal",
-      content: `Symphonic metal drum kits have to cover more ground than almost any other metal subgenre — sustaining blast-beat extremity one moment, then pulling back to support a full orchestra or choir the next. Daray's Pearl Masterworks Stadium Exotic, Hellhammer's Sonor SQ2 Heavy Beech, Frost's Tama Starclassic Bubinga, and Jaska Raatikainen's Pearl Masters Premium Maple each solve that challenge with a slightly different balance of projection versus dynamic control.
+      content: `Symphonic metal drum kits have to cover more ground than almost any other metal subgenre — sustaining blast-beat extremity one moment, then pulling back to support a full orchestra or choir the next. Daray's Tama Starclassic Performer B/B, Hellhammer's Sonor SQ2 Heavy Beech, Frost's Tama Starclassic Bubinga, and Jaska Raatikainen's Pearl Masters Premium Maple each solve that challenge with a slightly different balance of projection versus dynamic control.
 
-Whether you choose a Pearl setup for maximum orchestral cut-through, a Tama Starclassic Bubinga for dense dynamic balance, or Hellhammer's Sonor SQ2 for a rig proven across both raw extremity and orchestral grandeur, remember that symphonic metal's most acclaimed recordings were made by drummers who mastered the transition between extremity and restraint — not by gear alone.
+Whether you choose a Tama Starclassic setup for maximum orchestral cut-through or dense dynamic balance, a Pearl Masters Premium Maple for a focused, keyboard-friendly tone, or Hellhammer's Sonor SQ2 for a rig proven across both raw extremity and orchestral grandeur, remember that symphonic metal's most acclaimed recordings were made by drummers who mastered the transition between extremity and restraint — not by gear alone.
 
 Start where your budget allows — even a Pearl Export or Tama Imperialstar will get you playing real symphonic metal. Prioritize tuning and dynamic control before you chase a premium shell program.
 
@@ -62760,7 +62759,7 @@ This guide breaks down brass, bubinga, and maple snare options for symphonic met
 
           description: `Daray's Pearl Reference 14"x5.5" Brass snare has carried Dimmu Borgir's full-orchestra symphonic black metal from "Abrahadabra" (2010) through 2026's "Grand Serpent Rising," unchanged across the entire era. The brass shell's brightness is chosen specifically to survive arrangements that include full symphony orchestras and choir sections, cutting through where a warmer shell would get buried.
 
-Paired with his Pearl Masterworks Stadium Exotic kit and Paiste RUDE & 2002 cymbals, the snare's forward crack anchors a rig engineered from the ground up for maximum projection against the genre's most theatrically ambitious productions.`,
+Paired with his Tama Starclassic Performer B/B kit and Paiste RUDE & 2002 cymbals, the snare's forward crack anchors a rig engineered from the ground up for maximum projection against the genre's most theatrically ambitious productions.`,
 
           pros: [
             "Daray's Dimmu Borgir setup — unchanged and proven across three studio albums since 2010",
@@ -63035,7 +63034,7 @@ Paired with Paiste RUDE cymbals and hi-hats, Hellhammer's willingness to play hi
     faq: [
       {
         question: "What snare drum does Daray from Dimmu Borgir use?",
-        answer: "Daray plays a Pearl Reference 14\"x5.5\" Brass snare, part of the Pearl Masterworks Stadium Exotic rig established during Dimmu Borgir's Abrahadabra era (2010) and unchanged through Grand Serpent Rising (2026). The brass shell is chosen specifically for brightness that survives full-orchestra and choir arrangements."
+        answer: "Daray plays a Pearl Reference 14\"x5.5\" Brass snare, part of the Tama Starclassic Performer B/B rig he's played since switching from Pearl in 2014. The brass shell is chosen specifically for brightness that survives full-orchestra and choir arrangements."
       },
       {
         question: "What snare drum does Frost from Satyricon use?",
@@ -95122,7 +95121,7 @@ This guide breaks down what actually makes a cymbal work for symphonic metal —
 
           description: `Daray built his Paiste RUDE and 2002 Series cymbal setup to carry Dimmu Borgir's full-orchestra symphonic black metal from "Abrahadabra" (2010) through 2026's "Grand Serpent Rising." The RUDE series' unlathed, rough-finish construction is engineered for maximum projection and cut — exactly what's needed when a cymbal has to compete with a full symphony orchestra and choir arrangement.
 
-Paired with his Pearl Masterworks Stadium Exotic kit and Pearl Reference Brass snare, Daray's RUDE cymbals give his playing the aggressive, cutting edge that stays audible no matter how densely Dimmu Borgir layers keyboard and string arrangements underneath.`,
+Paired with his Tama Starclassic Performer B/B kit and Tama S.L.P. Black Brass snare, Daray's RUDE cymbals give his playing the aggressive, cutting edge that stays audible no matter how densely Dimmu Borgir layers keyboard and string arrangements underneath.`,
 
           pros: [
             "Daray's Dimmu Borgir setup — unchanged and proven across three studio albums since 2010",
@@ -95443,7 +95442,7 @@ Whichever you choose, remember that symphonic metal's most acclaimed recordings 
       title: "Why Symphonic Metal Demands a Different Kind of Pedal",
       content: `Symphonic metal pedal requirements sit at the intersection of extreme metal's sustained blast-beat endurance and the dynamic sensitivity a full orchestral or choir arrangement demands. A pedal built purely for speed can feel clumsy against a delicate string passage; a pedal voiced only for touch won't survive 200+ BPM blast beats night after night.
 
-Daray drives his Pearl Masterworks Stadium Exotic kit with a Pearl Demon Drive double pedal, built for the sustained reliability Dimmu Borgir's full-orchestra symphonic black metal demands. Hellhammer uses an Axis Double Pedal across both Mayhem's raw black metal and Dimmu Borgir's symphonic era, prizing its precision engineering at extreme speed. Frost of Satyricon and 1349 relies on a Tama Iron Cobra Power Glide pedal for the dynamic control his material's shifts between blast-beat storms and theatrical restraint require, while Jaska Raatikainen drove Children of Bodom's keyboard-orchestrated melodic death metal on a Pearl Eliminator double pedal for over two decades.
+Daray drives his Tama Starclassic Performer B/B kit with a Pearl Demon Drive double pedal, built for the sustained reliability Dimmu Borgir's full-orchestra symphonic black metal demands. Hellhammer uses an Axis Double Pedal across both Mayhem's raw black metal and Dimmu Borgir's symphonic era, prizing its precision engineering at extreme speed. Frost of Satyricon and 1349 relies on a Tama Iron Cobra Power Glide pedal for the dynamic control his material's shifts between blast-beat storms and theatrical restraint require, while Jaska Raatikainen drove Children of Bodom's keyboard-orchestrated melodic death metal on a Pearl Eliminator double pedal for over two decades.
 
 This guide breaks down what actually makes a pedal work for symphonic metal — blast-beat endurance, dynamic sensitivity, and dual-band touring durability — and which specific pedals these four influential drummers rely on, from budget-friendly starters to the professional rigs behind the genre's most orchestrally ambitious records.`,
       keyPoints: [
@@ -95512,9 +95511,9 @@ This guide breaks down what actually makes a pedal work for symphonic metal — 
           tier: "pro",
           driveType: "Direct Drive",
 
-          description: `Daray drives his Pearl Masterworks Stadium Exotic kit with a Pearl Demon Drive double pedal, part of the rig that has carried Dimmu Borgir's full-orchestra symphonic black metal from "Abrahadabra" (2010) through 2026's "Grand Serpent Rising." The Demon Drive's direct-drive action delivers the sustained reliability Daray needs to drive twin 22"x18" kicks through material that swings between blast-beat extremity and full-orchestra theatrical restraint.
+          description: `Daray drives his Tama Starclassic Performer B/B kit with a Pearl Demon Drive double pedal, part of the rig that has carried Dimmu Borgir's full-orchestra symphonic black metal from "Abrahadabra" (2010) through 2026's "Grand Serpent Rising." The Demon Drive's direct-drive action delivers the sustained reliability Daray needs to drive twin 22"x18" kicks through material that swings between blast-beat extremity and full-orchestra theatrical restraint.
 
-Paired with his Pearl Reference Brass snare and Paiste RUDE cymbals, Daray's Demon Drive setup is engineered for consistent response across three studio albums of some of symphonic black metal's most orchestrally ambitious material.`,
+Paired with his Tama S.L.P. Black Brass snare and Paiste RUDE cymbals, Daray's Demon Drive setup is engineered for consistent response across three studio albums of some of symphonic black metal's most orchestrally ambitious material.`,
 
           pros: [
             "Daray's Dimmu Borgir setup — unchanged and proven across three studio albums since 2010",
@@ -95765,7 +95764,7 @@ Raatikainen's two-and-a-half decades on this single pedal design — through eve
     faq: [
       {
         question: "What drum pedal does Daray from Dimmu Borgir use?",
-        answer: "Daray plays a Pearl Demon Drive double pedal as part of his Pearl Masterworks Stadium Exotic rig — a setup established during Dimmu Borgir's Abrahadabra era (2010) and unchanged through Grand Serpent Rising (2026)."
+        answer: "Daray plays a Pearl Demon Drive double pedal as part of his Tama Starclassic Performer B/B rig — the pedal carried over unchanged when Daray switched his kit from Pearl to Tama in 2014."
       },
       {
         question: "What pedal does Hellhammer use?",
@@ -100242,7 +100241,7 @@ This guide breaks down what actually makes a crash work for symphonic metal — 
           driveType: "CuSn8 Bronze, Unlathed Top",
           description: `Daray built his 18" and 19" Paiste RUDE Crash setup to carry Dimmu Borgir's full-orchestra symphonic black metal from "Abrahadabra" (2010) through 2026's "Grand Serpent Rising." The RUDE series' unlathed, rough-finish construction is engineered for maximum projection and cut — exactly what's needed when a crash has to compete with a full symphony orchestra and choir arrangement.
 
-Paired with his Pearl Masterworks Stadium Exotic kit and Pearl Reference Brass snare, Daray's RUDE crashes give his playing the aggressive, cutting edge that stays audible no matter how densely Dimmu Borgir layers keyboard and string arrangements underneath.`,
+Paired with his Tama Starclassic Performer B/B kit and Tama S.L.P. Black Brass snare, Daray's RUDE crashes give his playing the aggressive, cutting edge that stays audible no matter how densely Dimmu Borgir layers keyboard and string arrangements underneath.`,
           pros: [
             "Daray's Dimmu Borgir setup — unchanged and proven across three studio albums since 2010",
             "Unlathed RUDE construction for maximum cut and projection",
@@ -107019,7 +107018,7 @@ Whatever you choose: dial in heavier tension for the down-tuned groove first, th
       title: "Why Symphonic Metal Needs Consistent, Reliable Double Bass Above All Else",
       content: `Symphonic metal's double bass work sits underneath full orchestral or choir arrangements, and its most important job isn't raw top-end speed — it's staying rock-solid and consistent at mid-to-fast tempo so the orchestration on top has a dependable foundation to sit against. A pedal that drifts or loses its feel mid-song throws off the entire arrangement, not just the drum part.
 
-Daray drives his Pearl Masterworks Stadium Exotic kit with a Pearl Demon Drive double pedal, built for the sustained reliability Dimmu Borgir's full-orchestra symphonic black metal demands. Hellhammer uses an Axis Double Pedal across both Mayhem's raw black metal and Dimmu Borgir's symphonic era, prizing its precision engineering for consistent speed night after night. Frost of Satyricon and 1349 relies on a Tama Iron Cobra Power Glide pedal for the dynamic control his material's shifts between blast-beat storms and theatrical restraint require, while Jaska Raatikainen drove Children of Bodom's keyboard-orchestrated melodic death metal on a Pearl Eliminator double pedal for over two decades without missing a beat.
+Daray drives his Tama Starclassic Performer B/B kit with a Pearl Demon Drive double pedal, built for the sustained reliability Dimmu Borgir's full-orchestra symphonic black metal demands. Hellhammer uses an Axis Double Pedal across both Mayhem's raw black metal and Dimmu Borgir's symphonic era, prizing its precision engineering for consistent speed night after night. Frost of Satyricon and 1349 relies on a Tama Iron Cobra Power Glide pedal for the dynamic control his material's shifts between blast-beat storms and theatrical restraint require, while Jaska Raatikainen drove Children of Bodom's keyboard-orchestrated melodic death metal on a Pearl Eliminator double pedal for over two decades without missing a beat.
 
 This guide breaks down what actually makes a bass drum pedal work for symphonic metal — mid-to-fast consistency, sustained reliability, and dynamic sensitivity beneath an orchestral mix — with specific pedal recommendations from budget-friendly starters through the professional rigs behind the genre's most orchestrally ambitious records.`,
       keyPoints: [
@@ -107080,7 +107079,7 @@ This guide breaks down what actually makes a bass drum pedal work for symphonic 
           priceRange: "€450-600 per double set",
           tier: "pro",
           driveType: "Direct Drive",
-          description: `Daray drives his Pearl Masterworks Stadium Exotic kit with a Pearl Demon Drive double pedal, built for the sustained reliability Dimmu Borgir's full-orchestra symphonic black metal demands night after night. Its direct-drive precision keeps the double bass locked in beneath dense orchestral and choir arrangements without drifting.
+          description: `Daray drives his Tama Starclassic Performer B/B kit with a Pearl Demon Drive double pedal, built for the sustained reliability Dimmu Borgir's full-orchestra symphonic black metal demands night after night. Its direct-drive precision keeps the double bass locked in beneath dense orchestral and choir arrangements without drifting.
 
 The Demon XR's refined mechanism holds its calibration across the extended, dynamically layered sets symphonic metal's orchestral ambitions require.`,
           pros: [
@@ -111222,7 +111221,7 @@ Whatever you choose, prioritize heavy-gauge tubing and reinforced tension bolts 
       title: "Why Symphonic Metal Hardware Has to Support More Than a Standard Kit",
       content: `Symphonic metal drumming sits at the intersection of extreme-metal technicality and orchestral grandeur, and the hardware demands reflect both halves. A symphonic metal kit routinely carries far more cymbals, auxiliary percussion, and trigger or pad mounts than a standard extreme metal setup, all while still needing to survive blast-beat-level abuse during the genre's most extreme passages — a combination that pushes hardware well past what a lean 4-5 piece kit requires.
 
-Daray builds Dimmu Borgir's grand, orchestral-scale live sound around a Pearl Masterworks Stadium Exotic kit that needs a wide rack system to carry its expanded cymbal and auxiliary percussion array without cluttering the stage. Hellhammer has spent decades bridging Mayhem's raw extremity with Dimmu Borgir's full-orchestra symphonic productions, and his hardware has to hold up to blast-beat intensity while supporting a far larger kit footprint than either band alone would demand. Frost anchors Satyricon's dynamic swings between blast beats and full orchestration on his Tama Starclassic Bubinga rig, built around genuinely expandable Tama hardware. Jaska Raatikainen's keyboard-orchestrated Children of Bodom sound depends on hardware precise enough to keep an elaborate, multi-cymbal setup exactly positioned through the band's technically demanding arrangements.
+Daray builds Dimmu Borgir's grand, orchestral-scale live sound around a Tama Starclassic Performer B/B kit that needs a wide rack system to carry its expanded cymbal and auxiliary percussion array without cluttering the stage. Hellhammer has spent decades bridging Mayhem's raw extremity with Dimmu Borgir's full-orchestra symphonic productions, and his hardware has to hold up to blast-beat intensity while supporting a far larger kit footprint than either band alone would demand. Frost anchors Satyricon's dynamic swings between blast beats and full orchestration on his Tama Starclassic Bubinga rig, built around genuinely expandable Tama hardware. Jaska Raatikainen's keyboard-orchestrated Children of Bodom sound depends on hardware precise enough to keep an elaborate, multi-cymbal setup exactly positioned through the band's technically demanding arrangements.
 
 This guide breaks down what actually separates hardware built for symphonic metal's expanded, elaborate kit configurations from a standard extreme metal setup, which specific hardware the genre's most demanding players rely on, and where to spend versus where to save.`,
       keyPoints: [

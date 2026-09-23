@@ -29378,7 +29378,7 @@ Start with one bright china in the 18"-20" range, and layer a second voicing —
       title: "Why Mathcore Needs a Fast, Dissonant China",
       content: `Mathcore fuses hardcore punk's raw aggression with progressive rock's obsession with odd meters, asymmetrical riffing, and constantly shifting rhythmic cells — a combination that demands a china cymbal capable of instant, jarring attack across a wider range of accent points than a typical metalcore setup needs. Where straightforward metalcore can lean on a small, consistent china voice for breakdown accents, mathcore's irregular time signatures and sudden tempo shifts reward a more dissonant, unpredictable trash.
 
-Ben Koller of Converge plays a Zildjian K and A Custom China, whose fluid control within apparent rhythmic chaos on "Jane Doe" (2001) turned mathcore's unpredictability into genuine musical expression. Blake Richardson of Between the Buried and Me plays a Meinl Byzance Extra Dry China whose complex, dissonant tone handles BTBAM's genre-hopping technicality. Danny Carey of Tool runs a Paiste Signature China, whose famously Fibonacci-structured polyrhythms established a mathematically rigorous drumming standard that directly informed math metal and mathcore's own rhythmic ambitions.
+Ben Koller of Converge plays a Zildjian K and A Custom China, whose fluid control within apparent rhythmic chaos on "Jane Doe" (2001) turned mathcore's unpredictability into genuine musical expression. Blake Richardson of Between the Buried and Me plays a Sabian AAX Holy China whose trashy, dissonant tone handles BTBAM's genre-hopping technicality. Danny Carey of Tool runs a Paiste Signature China, whose famously Fibonacci-structured polyrhythms established a mathematically rigorous drumming standard that directly informed math metal and mathcore's own rhythmic ambitions.
 
 This guide breaks down attack speed, dissonance, and complexity for mathcore china cymbals — comparing setups across three drummers whose hardcore-rooted and progressive lineages define the genre's rhythmically unpredictable aggression, with recommendations from budget to professional touring rigs.`,
       keyPoints: [
@@ -29402,7 +29402,7 @@ This guide breaks down attack speed, dissonance, and complexity for mathcore chi
         {
           name: "Dissonant, Complex Tone",
           icon: "🎼",
-          description: "Blake Richardson's Meinl Byzance Extra Dry china delivers dissonant, complex overtones that punctuate mathcore's jarring, unpredictable riffing better than a simple, clean crash-like trash.",
+          description: "Blake Richardson's Sabian AAX Holy China delivers a trashy, dissonant overtone that punctuates mathcore's jarring, unpredictable riffing better than a simple, clean crash-like trash.",
           recommendation: "Dissonant, complex-voiced B20 chinas for punctuating irregular riffing"
         },
         {
@@ -29509,40 +29509,40 @@ Its complex overtones punctuate jarring, unpredictable transitions without colla
         },
         {
           rank: 3,
-          name: "Meinl Byzance Extra Dry China",
-          brand: "Meinl",
-          model: "18\" Byzance Extra Dry China",
+          name: "Sabian AAX Holy China",
+          brand: "Sabian",
+          model: "21\" AAX Holy China",
           image: "https://upload.wikimedia.org/wikipedia/commons/7/74/Dixon-double-pedal.jpg",
-          priceRange: "€200-250",
+          priceRange: "€220-270",
           tier: "pro",
-          driveType: "B20 Bronze, Dark/Dry",
-          description: `Blake Richardson of Between the Buried and Me plays an 18" Meinl Byzance Extra Dry China, handling BTBAM's genre-hopping technicality — dramatic swings between acoustic-adjacent passages and full technical death metal density that mathcore's own unpredictability shares a lineage with. The complex, dark tone gives Richardson room to punctuate BTBAM's odd-time whiplash without a harsh, one-dimensional attack.
+          driveType: "B20 Bronze",
+          description: `Blake Richardson of Between the Buried and Me plays a 21" Sabian AAX Holy China, handling BTBAM's genre-hopping technicality — dramatic swings between acoustic-adjacent passages and full technical death metal density that mathcore's own unpredictability shares a lineage with. The trashy, organic tone gives Richardson room to punctuate BTBAM's odd-time whiplash without a harsh, one-dimensional attack.
 
 This setup proves that a complex, musical B20 china can serve both mathcore-adjacent chaos and moments of genuine melodic restraint within the same composition.`,
           pros: [
             "Blake Richardson's proven BTBAM setup — genre-hopping technicality that shares mathcore's unpredictable lineage",
-            "Dark, complex tone handles both aggressive and restrained dynamic extremes",
-            "Extra Dry finish delivers immediate, controlled attack for odd-time accents",
+            "Trashy, organic tone handles both aggressive and restrained dynamic extremes",
+            "Holy China finish delivers immediate, controlled attack for odd-time accents",
             "Musical enough to serve composition, not just technical display"
           ],
           cons: [
-            "Premium hand-hammered B20 pricing",
-            "Dark voicing needs a brighter complementary cymbal for maximum cutting power",
-            "Individual cymbal variation is significant in hand-hammered lines"
+            "Premium B20 pricing",
+            "Trashy voicing needs a brighter complementary cymbal for maximum cutting power",
+            "Larger 21\" size is less nimble than the 16\"-18\" mathcore standard"
           ],
           specs: {
-            size: "18\"",
+            size: "21\"",
             alloy: "B20 Bronze",
-            finish: "Extra Dry, Hand Hammered",
+            finish: "Natural",
             weight: "Medium",
             mounting: "Standard or Inverted"
           },
           usedBy: [
-            { name: "Blake Richardson", band: "Between the Buried and Me", note: "18\" Byzance Extra Dry China — genre-hopping mathcore-adjacent technicality" }
+            { name: "Blake Richardson", band: "Between the Buried and Me", note: "21\" AAX Holy China — genre-hopping mathcore-adjacent technicality" }
           ],
           verdict: "Best for genre-hopping, dynamically extreme mathcore-adjacent material.",
           rating: 4.6,
-          affiliateLink: "https://www.thomann.de/intl/meinl_byzance_extra_dry_china_18_richardson.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/sabian_aax_holy_china_21_richardson.htm?partner_id=metalforge"
         },
         {
           rank: 4,
@@ -29564,7 +29564,7 @@ Carey's china delivers weight without excessive wash, treating rhythmic mathemat
           ],
           cons: [
             "Premium CuSn8 bronze pricing",
-            "Less immediately cutting than Zildjian A Custom or Meinl Extra Dry",
+            "Less immediately cutting than Zildjian A Custom or Sabian AAX Holy China",
             "Best suited to mathcore's more progressive, less hardcore-rooted wing"
           ],
           specs: {
@@ -29657,7 +29657,7 @@ Carey's china delivers weight without excessive wash, treating rhythmic mathemat
 
     // Comparison
     comparison: {
-      title: "Zildjian K/A Custom vs Meinl Byzance vs Paiste Signature for Mathcore",
+      title: "Zildjian K/A Custom vs Sabian AAX vs Paiste Signature for Mathcore",
       content: `China voicing splits mathcore's founding and adjacent drummers into distinct camps. Here's how they compare:
 
 **Zildjian K and A Custom (Ben Koller):**
@@ -29665,8 +29665,8 @@ Carey's china delivers weight without excessive wash, treating rhythmic mathemat
 - Mathcore's founding, most directly documented china setup
 - Best for genre-defining, chaotic Converge-style mathcore
 
-**Meinl Byzance Extra Dry (Blake Richardson):**
-- Complex, dissonant overtones suited to odd-time, genre-hopping material
+**Sabian AAX Holy China (Blake Richardson):**
+- Trashy, dissonant overtones suited to odd-time, genre-hopping material
 - Versatile across both aggressive accents and dynamic restraint
 - Best for technical, math metal-adjacent mathcore and progressive-leaning material
 
@@ -29675,7 +29675,7 @@ Carey's china delivers weight without excessive wash, treating rhythmic mathemat
 - Treats rhythmic complexity as songwriting structure over technical display
 - Best for progressive, patient mathcore-adjacent compositions
 
-**Our Recommendation:** Start with a Zildjian ZBT or Meinl HCS china if you're building mathcore technique on a budget. Choose Meinl Byzance if your material blends aggression with dynamic, genre-hopping restraint. Go with Zildjian K/A Custom if your priority is mathcore's founding, hardcore-rooted cutting attack.`,
+**Our Recommendation:** Start with a Zildjian ZBT or Meinl HCS china if you're building mathcore technique on a budget. Choose Sabian AAX Holy China if your material blends aggression with dynamic, genre-hopping restraint. Go with Zildjian K/A Custom if your priority is mathcore's founding, hardcore-rooted cutting attack.`,
       comparisonTable: [
         { feature: "Attack Speed", directDrive: "⭐⭐⭐⭐⭐", chainDrive: "⭐⭐⭐⭐" },
         { feature: "Tonal Complexity", directDrive: "⭐⭐⭐", chainDrive: "⭐⭐⭐⭐⭐" },
@@ -29695,7 +29695,7 @@ Carey's china delivers weight without excessive wash, treating rhythmic mathemat
         },
         {
           category: "Best for Genre-Hopping Dynamics",
-          pedal: "Meinl Byzance Extra Dry China",
+          pedal: "Sabian AAX Holy China",
           reason: "Blake Richardson's BTBAM setup — dramatic dynamic range across mathcore-adjacent technicality."
         },
         {
@@ -29714,7 +29714,7 @@ Carey's china delivers weight without excessive wash, treating rhythmic mathemat
     ],
     relatedDrummers: [
       { slug: 'ben-koller', name: 'Ben Koller', reason: 'Zildjian K and A Custom China — Converge mathcore\'s founding cutting attack' },
-      { slug: 'blake-richardson', name: 'Blake Richardson', reason: 'Meinl Byzance Extra Dry China — BTBAM genre-hopping technicality' },
+      { slug: 'blake-richardson', name: 'Blake Richardson', reason: 'Sabian AAX Holy China — BTBAM genre-hopping technicality' },
       { slug: 'danny-carey', name: 'Danny Carey', reason: 'Paiste Signature China — Tool\'s Fibonacci-structured rigor' }
     ],
     relatedComparisons: [],
@@ -29727,11 +29727,11 @@ Carey's china delivers weight without excessive wash, treating rhythmic mathemat
       },
       {
         question: "What china cymbal does Blake Richardson use?",
-        answer: "Blake Richardson of Between the Buried and Me plays an 18\" Meinl Byzance Extra Dry China, handling BTBAM's genre-hopping technicality with complex, dark tone."
+        answer: "Blake Richardson of Between the Buried and Me plays a 21\" Sabian AAX Holy China, handling BTBAM's genre-hopping technicality with a trashy, dissonant tone (switched from Meinl in 2018)."
       },
       {
         question: "Why does mathcore need a more dissonant china than typical metalcore?",
-        answer: "Mathcore's irregular time signatures and sudden tempo shifts call for a jarring, unpredictable accent rather than a clean, controlled trash. Meinl Byzance Extra Dry china — played by Blake Richardson — delivers that complex, dissonant character."
+        answer: "Mathcore's irregular time signatures and sudden tempo shifts call for a jarring, unpredictable accent rather than a clean, controlled trash. The Sabian AAX Holy China — played by Blake Richardson — delivers that trashy, dissonant character."
       },
       {
         question: "What's the best budget china cymbal for mathcore?",
@@ -29742,7 +29742,7 @@ Carey's china delivers weight without excessive wash, treating rhythmic mathemat
     // Conclusion
     conclusion: {
       title: "Build Your Mathcore China Sound",
-      content: `Mathcore china choices come down to a simple decision between two proven philosophies: Zildjian K/A Custom's bright, fast-attack cutting power (Ben Koller's founding sound) or Meinl Byzance's complex, dissonant overtones (Blake Richardson's genre-hopping approach). Danny Carey's Paiste Signature china offers a third path for mathcore's most compositionally ambitious wing.
+      content: `Mathcore china choices come down to a simple decision between two proven philosophies: Zildjian K/A Custom's bright, fast-attack cutting power (Ben Koller's founding sound) or Sabian AAX Holy China's trashy, dissonant overtones (Blake Richardson's genre-hopping approach). Danny Carey's Paiste Signature china offers a third path for mathcore's most compositionally ambitious wing.
 
 Start with whichever character matches your playing style, and don't overlook the budget tier — Zildjian ZBT and Meinl HCS both provide genuine upgrade paths toward the pro-level sound without requiring a full investment up front.
 

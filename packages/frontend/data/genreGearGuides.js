@@ -77702,7 +77702,7 @@ Start with one splash matched to whichever side of deathcore's structure your ma
     // SEO metadata
     title: "Best Snare Drums for Metalcore: 2026 Ultimate Guide",
     metaTitle: "Best Snare Drums for Metalcore 2026 | MetalForge Expert Guide",
-    description: "Best snare drums for metalcore drumming: what Matt Greiner (Pearl Signature Steel), Matt Halpern (Pearl Reference Brass), and Alex Bent (Tama Starclassic Maple) actually play. Cutting attack for breakdowns and syncopated riffing — ranked budget to pro.",
+    description: "Best snare drums for metalcore drumming: what Matt Greiner (Pearl Signature Steel, 2011-2016 era), Matt Halpern (Pearl Reference Brass), and Alex Bent (Tama Starclassic Maple) played. Cutting attack for breakdowns and syncopated riffing — ranked budget to pro.",
     seoKeywords: [
       'best snare drum for metalcore',
       'metalcore snare drum',
@@ -77738,11 +77738,11 @@ Start with one splash matched to whichever side of deathcore's structure your ma
       title: "Why Metalcore Needs a Cutting, Articulate Snare",
       content: `Metalcore drumming lives between two worlds — breakdown-driven heaviness and technical, syncopated precision — and the genre's snare choice has to serve both at once. A snare that's too dark or damp gets swallowed by palm-muted breakdown chugs, while a snare that's too thin loses the punch needed to land a crushing half-time hit. Metalcore drummers instead reach for bright, cutting shells that stay articulate through complex time signature changes and still deliver real crack when the breakdown hits.
 
-Matt Greiner of August Burns Red plays a Pearl Matt Greiner Signature 14x6" Steel snare, its steel shell giving the sharp, cutting attack that drives the band's Grammy-nominated, jazz-influenced technical metalcore. Matt Halpern of Periphery drives the djent-metalcore hybrid on a Pearl Reference 14x6.5" Brass snare, chosen for cutting, focused crack that sits precisely within downtuned guitar layers. Alex Bent, who brought technical death metal precision to Trivium's thrash-meets-metalcore sound, plays a Tama Starclassic Maple 14x5" snare, its maple shell giving a warm, full-bodied crack at a shallower depth built for speed.
+Matt Greiner of August Burns Red played a Pearl signature steel snare during his 2011-2016 Pearl Reference Pure era, its steel shell giving the sharp, cutting attack behind the band's Grammy-nominated, jazz-influenced technical metalcore; Greiner's current kit is a Mapex Black Panther Design Lab setup (since 2016). Matt Halpern of Periphery drives the djent-metalcore hybrid on a Pearl Reference 14x6.5" Brass snare, chosen for cutting, focused crack that sits precisely within downtuned guitar layers. Alex Bent, who brought technical death metal precision to Trivium's thrash-meets-metalcore sound, plays a Tama Starclassic Maple 14x5" snare, its maple shell giving a warm, full-bodied crack at a shallower depth built for speed.
 
 This guide breaks down shell material, depth, and tuning for metalcore snares — comparing three drummers whose setups define the genre's cutting, articulate standard, with recommendations from budget to professional touring rigs.`,
       keyPoints: [
-        "Matt Greiner's Pearl Signature Steel snare anchors August Burns Red's technical, breakdown-heavy metalcore with a sharp, cutting attack",
+        "Matt Greiner's Pearl signature steel snare anchored August Burns Red's technical, breakdown-heavy metalcore during his 2011-2016 Pearl era; his current kit is Mapex Black Panther Design Lab",
         "Brass and steel shells dominate metalcore for their bright, cutting projection through dense, downtuned arrangements",
         "14\" diameter is the metalcore standard, with depths ranging 5\"-6.5\" depending on how much crack versus speed a drummer prioritizes",
         "A snare that stays articulate through syncopation and still cracks on breakdown hits is metalcore's core requirement"
@@ -77756,7 +77756,7 @@ This guide breaks down shell material, depth, and tuning for metalcore snares �
         {
           name: "Bright, Cutting Shell Material",
           icon: "⚡",
-          description: "Steel (Matt Greiner) and brass (Matt Halpern) dominate metalcore's snare choices for their bright, cutting attack that punches through dense, downtuned guitar layers, while Alex Bent's maple shell trades some of that brightness for a warmer, fuller crack.",
+          description: "Steel (Matt Greiner's 2011-2016 Pearl era) and brass (Matt Halpern) dominate metalcore's snare choices for their bright, cutting attack that punches through dense, downtuned guitar layers, while Alex Bent's maple shell trades some of that brightness for a warmer, fuller crack.",
           recommendation: "Steel or brass shell for bright, cutting projection through dense arrangements; maple for a warmer, fuller crack"
         },
         {
@@ -77774,7 +77774,7 @@ This guide breaks down shell material, depth, and tuning for metalcore snares �
         {
           name: "Depth for Crack vs. Speed",
           icon: "📏",
-          description: "Matt Greiner's and Matt Halpern's deeper 6\"-6.5\" shells add more crack and body for breakdown-heavy material, while Alex Bent's shallower 5\" depth favors quicker rebound for technical, faster-paced metalcore.",
+          description: "Matt Greiner's Pearl-era and Matt Halpern's current 6\"-6.5\" deeper shells add more crack and body for breakdown-heavy material, while Alex Bent's shallower 5\" depth favors quicker rebound for technical, faster-paced metalcore.",
           recommendation: "14x6\"-6.5\" for maximum crack and body; 14x5\" for faster rebound on technical material"
         },
         {
@@ -77798,7 +77798,7 @@ This guide breaks down shell material, depth, and tuning for metalcore snares �
       pedals: [
         {
           rank: 1,
-          name: "Pearl Matt Greiner Signature",
+          name: "Pearl Signature Steel Snare",
           brand: "Pearl",
           model: "Matt Greiner Signature 14x6\" Steel",
           image: "https://upload.wikimedia.org/wikipedia/commons/4/46/2006-07-06_snare_14.jpg",
@@ -77806,12 +77806,12 @@ This guide breaks down shell material, depth, and tuning for metalcore snares �
           tier: "pro",
           material: "Steel (14x6\")",
 
-          description: `Matt Greiner's Pearl Signature snare is the definitive sound behind August Burns Red's Grammy-nominated, jazz-influenced technical metalcore. The 14x6" steel shell delivers a sharp, cutting attack that drives the band's complex patterns and powerful dynamics across two decades of touring.
+          description: `Matt Greiner's Pearl signature snare was the definitive sound behind August Burns Red's Grammy-nominated, jazz-influenced technical metalcore during his 2011-2016 Pearl Reference Pure era. The 14x6" steel shell delivered a sharp, cutting attack that drove the band's complex patterns and powerful dynamics.
 
-Greiner's own signature partnership with Pearl reflects his standing as one of metalcore's most influential and technically respected drummers, and the steel shell's bright projection is central to August Burns Red's signature sound.`,
+Greiner switched his drum endorsement to Mapex in 2016, and his current kit is a Mapex Black Panther Design Lab setup — no specific current snare model is verified, but the steel shell's bright projection remains central to the classic August Burns Red sound documented on this Pearl-era signature snare.`,
 
           pros: [
-            "Matt Greiner's own signature partnership — a proven metalcore standard",
+            "Matt Greiner's own signature partnership — a proven metalcore standard from his 2011-2016 Pearl era",
             "Steel shell delivers bright, cutting projection through dense arrangements",
             "14x6\" depth balances real crack with articulate response",
             "Proven across August Burns Red's Grammy-nominated catalog",
@@ -77820,7 +77820,7 @@ Greiner's own signature partnership with Pearl reflects his standing as one of m
           cons: [
             "Signature pricing above generic steel alternatives",
             "Steel's bright voicing may need damping in very live rooms",
-            "Limited availability outside Pearl's signature production run"
+            "No longer Matt Greiner's current setup — he switched to Mapex in 2016"
           ],
           specs: {
             shell: "Steel (Pearl Signature)",
@@ -77830,9 +77830,9 @@ Greiner's own signature partnership with Pearl reflects his standing as one of m
             wires: "20-strand"
           },
           usedBy: [
-            { name: "Matt Greiner", band: "August Burns Red", note: "14x6\" Pearl Signature Steel — metalcore's cutting, technical standard" }
+            { name: "Matt Greiner", band: "August Burns Red", note: "14x6\" Pearl Signature Steel — 2011-2016 Pearl era, not his current setup" }
           ],
-          verdict: "The metalcore snare standard. Greiner's signature steel shell defines the genre's cutting, technical sound.",
+          verdict: "The metalcore snare standard from Greiner's 2011-2016 Pearl era. His current kit is Mapex Black Panther Design Lab.",
           rating: 4.8,
           affiliateLink: "https://www.thomann.de/intl/pearl_matt_greiner_signature_snare.htm?partner_id=metalforge"
         },
@@ -77931,7 +77931,7 @@ For metalcore drummers who prioritize speed and technical precision over maximum
           priceRange: "€100-150",
           tier: "budget",
           material: "Steel",
-          description: "The Pearl Export steel snare carries the same bright, cutting DNA as Matt Greiner's professional signature snare at a fraction of the price. Tune it moderately tight to get closer to metalcore's cutting, articulate attack.",
+          description: "The Pearl Export steel snare carries the same bright, cutting DNA as Matt Greiner's Pearl-era professional signature snare at a fraction of the price. Tune it moderately tight to get closer to metalcore's cutting, articulate attack.",
           pros: ["Same bright steel DNA as pro metalcore snares", "Affordable, widely available entry point", "Responsive enough to develop breakdown and syncopation technique"],
           cons: ["Less refined projection than signature-tier shells", "Basic hardware compared to Reference or Signature models"],
           verdict: "Best budget entry into metalcore's bright, cutting steel sound.",
@@ -77960,7 +77960,7 @@ For metalcore drummers who prioritize speed and technical precision over maximum
       title: "Steel vs Brass vs Maple for Metalcore",
       content: `Bright, cutting projection stays consistent across metalcore's closest working lineage, but shell material and depth split these drummers into distinct camps. Here's how they compare:
 
-**Steel (Matt Greiner):**
+**Steel (Matt Greiner's 2011-2016 Pearl era):**
 - Sharp, cutting attack with maximum brightness
 - 6\" depth adds real crack for breakdown-heavy material
 - Best for technical, breakdown-driven metalcore
@@ -77975,7 +77975,7 @@ For metalcore drummers who prioritize speed and technical precision over maximum
 - 5\" depth favors quick rebound for fast, technical passages
 - Best for fast, technical metalcore
 
-**Our Recommendation:** Start with a Pearl Export or Tama Stagestar steel snare if you're building metalcore technique on a budget. Choose a 14x5\" shell if speed and technicality are your priority. Go with Matt Greiner's signature steel shell if your priority is maximum breakdown crack.`,
+**Our Recommendation:** Start with a Pearl Export or Tama Stagestar steel snare if you're building metalcore technique on a budget. Choose a 14x5\" shell if speed and technicality are your priority. Go with a Pearl signature-style steel shell — the sound Matt Greiner played during his 2011-2016 Pearl era — if your priority is maximum breakdown crack.`,
       comparisonTable: [
         { feature: "Brightness/Cut", maple: "⭐⭐⭐⭐⭐", hybrid: "⭐⭐⭐⭐⭐", dual: "⭐⭐⭐⭐" },
         { feature: "Breakdown Punch", maple: "⭐⭐⭐⭐⭐", hybrid: "⭐⭐⭐⭐", dual: "⭐⭐⭐⭐" },
@@ -77990,8 +77990,8 @@ For metalcore drummers who prioritize speed and technical precision over maximum
       picks: [
         {
           category: "Best Overall",
-          pedal: "Pearl Matt Greiner Signature",
-          reason: "Matt Greiner's August Burns Red setup — metalcore's cutting, technical snare standard."
+          pedal: "Pearl Signature Steel Snare",
+          reason: "The steel snare Matt Greiner played during his 2011-2016 Pearl era — metalcore's cutting, technical standard. His current kit is Mapex Black Panther Design Lab."
         },
         {
           category: "Best for Djent-Metalcore",
@@ -78013,14 +78013,14 @@ For metalcore drummers who prioritize speed and technical precision over maximum
       'best-snare-drums-for-djent'
     ],
     relatedDrummers: [
-      { slug: 'matt-greiner', name: 'Matt Greiner', reason: 'Pearl Signature Steel — August Burns Red\'s cutting, technical metalcore standard' },
+      { slug: 'matt-greiner', name: 'Matt Greiner', reason: 'Pearl Signature Steel (2011-2016 era); current kit is Mapex Black Panther Design Lab — August Burns Red\'s cutting, technical metalcore standard' },
       { slug: 'matt-halpern', name: 'Matt Halpern', reason: 'Pearl Reference Brass — Periphery\'s djent-metalcore articulation' },
       { slug: 'alex-bent', name: 'Alex Bent', reason: 'Tama Starclassic Maple — Trivium\'s fast, technical metalcore attack' }
     ],
 
     // Featured drummers (issue template)
     featuredDrummers: [
-      { slug: 'matt-greiner', name: 'Matt Greiner', reason: 'Pearl Signature Steel — August Burns Red\'s cutting, technical metalcore standard' },
+      { slug: 'matt-greiner', name: 'Matt Greiner', reason: 'Pearl Signature Steel (2011-2016 era); current kit is Mapex Black Panther Design Lab — August Burns Red\'s cutting, technical metalcore standard' },
       { slug: 'matt-halpern', name: 'Matt Halpern', reason: 'Pearl Reference Brass — Periphery\'s djent-metalcore articulation' },
       { slug: 'alex-bent', name: 'Alex Bent', reason: 'Tama Starclassic Maple — Trivium\'s fast, technical metalcore attack' }
     ],
@@ -78029,19 +78029,19 @@ For metalcore drummers who prioritize speed and technical precision over maximum
     faq: [
       {
         question: "Who are the best metalcore drummers and what snares do they use?",
-        answer: "Matt Greiner of August Burns Red plays a Pearl Matt Greiner Signature 14x6\" Steel snare. Matt Halpern of Periphery plays a Pearl Reference 14x6.5\" Brass snare, and Alex Bent of Trivium plays a Tama Starclassic Maple 14x5\" snare."
+        answer: "Matt Greiner of August Burns Red currently plays a Mapex Black Panther Design Lab kit (since 2016); Pearl previously released a Matt Greiner signature steel snare during his 2011-2016 Pearl Reference Pure era. Matt Halpern of Periphery plays a Pearl Reference 14x6.5\" Brass snare, and Alex Bent of Trivium plays a Tama Starclassic Maple 14x5\" snare."
       },
       {
         question: "What snare drum does Matt Greiner use?",
-        answer: "Matt Greiner of August Burns Red plays his own Pearl Matt Greiner Signature 14x6\" Steel snare — a bright, cutting shell that drives the band's Grammy-nominated, jazz-influenced technical metalcore."
+        answer: "Matt Greiner of August Burns Red now plays a Mapex Black Panther Design Lab kit, switched to in 2016. Pearl previously released a Matt Greiner signature steel snare tied to his 2011-2016 Pearl Reference Pure era, but no specific snare model is verified for his current Mapex setup."
       },
       {
         question: "Steel or brass — which is better for metalcore?",
-        answer: "Both work. Steel (Matt Greiner) delivers maximum brightness and crack, ideal for breakdown-heavy material. Brass (Matt Halpern) balances warmth with cutting articulation, while Alex Bent's maple shell trades some brightness for a warmer, fuller tone. Choose steel for maximum breakdown punch, brass for a more rounded tone, maple for warmth."
+        answer: "Both work. Steel (the shell Matt Greiner played during his 2011-2016 Pearl era) delivers maximum brightness and crack, ideal for breakdown-heavy material. Brass (Matt Halpern) balances warmth with cutting articulation, while Alex Bent's maple shell trades some brightness for a warmer, fuller tone. Choose steel for maximum breakdown punch, brass for a more rounded tone, maple for warmth."
       },
       {
         question: "What snare depth is best for metalcore?",
-        answer: "14x6\"-6.5\" (Matt Greiner, Matt Halpern) adds real crack and body for breakdown-heavy material, while 14x5\" (Alex Bent) favors quicker rebound for faster, more technical metalcore. Both depths are common across the genre's top drummers."
+        answer: "14x6\"-6.5\" (Matt Greiner's 2011-2016 Pearl era, Matt Halpern currently) adds real crack and body for breakdown-heavy material, while 14x5\" (Alex Bent) favors quicker rebound for faster, more technical metalcore. Both depths are common across the genre's top drummers."
       },
       {
         question: "Do I need a pro-level snare to play metalcore?",
@@ -78052,7 +78052,7 @@ For metalcore drummers who prioritize speed and technical precision over maximum
     // Conclusion
     conclusion: {
       title: "Find Your Metalcore Snare Voice",
-      content: `Metalcore snare choice comes down to how much crack and brightness your riffs and breakdowns demand. Matt Greiner's Pearl Signature Steel snare defined the genre's cutting, technical standard, anchoring August Burns Red's Grammy-nominated catalog. Matt Halpern's Pearl Reference Brass shows how djent-metalcore's polyrhythmic complexity demands both body and articulation, while Alex Bent's shallower Tama Starclassic Maple demonstrates how technical death metal precision can sharpen metalcore's speed.
+      content: `Metalcore snare choice comes down to how much crack and brightness your riffs and breakdowns demand. Matt Greiner's Pearl signature steel snare defined the genre's cutting, technical standard during his 2011-2016 Pearl era, anchoring August Burns Red's Grammy-nominated catalog — his current kit is Mapex Black Panther Design Lab. Matt Halpern's Pearl Reference Brass shows how djent-metalcore's polyrhythmic complexity demands both body and articulation, while Alex Bent's shallower Tama Starclassic Maple demonstrates how technical death metal precision can sharpen metalcore's speed.
 
 None of these approaches is more "correct" — all three represent metalcore's founding commitment to cutting through dense, downtuned arrangements while staying articulate through syncopation. Start with whichever shell material and depth matches your material's balance of speed versus breakdown weight.
 

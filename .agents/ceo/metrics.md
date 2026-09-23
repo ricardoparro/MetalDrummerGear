@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-09-22 21:53 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-09-23 03:24 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,92 +8,92 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 346 |
-| Sessions | 401 |
-| Page views | 568 |
-| Engagement rate | 57.61% |
-| Avg session (s) | 100 |
+| Active users | 305 |
+| Sessions | 355 |
+| Page views | 520 |
+| Engagement rate | 56.06% |
+| Avg session (s) | 106 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
-| /drummer/joey-jordison | 19 | 12 |
-| /bpm | 17 | 3 |
-| / | 16 | 11 |
-| /drummer/bill-ward | 16 | 10 |
-| /drummers | 16 | 5 |
-| /drummer/mario-duplantier | 13 | 11 |
-| /drummer/frost | 12 | 3 |
-| /drummer/matt-greiner | 12 | 11 |
+| /drummers | 19 | 6 |
+| /drummer/joey-jordison | 18 | 11 |
+| /drummer/bill-ward | 15 | 9 |
+| / | 13 | 10 |
+| /bpm | 13 | 2 |
+| /drummer/frost | 11 | 3 |
+| /drummer/matt-greiner | 11 | 10 |
+| /drummer/john-otto | 9 | 9 |
 | /drummer/abe-cunningham | 8 | 1 |
-| /drummer/danny-carey | 8 | 7 |
+| /drummer/hellhammer | 8 | 6 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 309 | 257 |
-| Direct | 64 | 63 |
-| Unassigned | 33 | 31 |
-| Cross-network | 18 | 18 |
+| Organic Search | 272 | 224 |
+| Direct | 48 | 48 |
+| Unassigned | 45 | 42 |
+| Cross-network | 26 | 26 |
 | AI Assistant | 1 | 1 |
 | Referral | 1 | 1 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 148 | 125 |
-| United Kingdom | 33 | 18 |
-| Singapore | 24 | 24 |
-| Germany | 21 | 16 |
-| Canada | 14 | 13 |
-| Finland | 13 | 12 |
-| France | 13 | 13 |
-| China | 12 | 12 |
-| Australia | 9 | 9 |
+| United States | 133 | 110 |
+| United Kingdom | 31 | 17 |
+| Singapore | 21 | 21 |
+| Germany | 15 | 11 |
+| Canada | 12 | 12 |
+| China | 11 | 11 |
+| Finland | 11 | 11 |
+| France | 11 | 11 |
 | Italy | 9 | 7 |
+| Australia | 8 | 8 |
 
 ## Search Console — Search performance
 | Metric | Last 7d |
 | --- | --- |
-| Impressions | 9,971 |
-| Clicks | 212 |
-| CTR | 2.13% |
-| Avg position | 7.4 |
+| Impressions | 8,312 |
+| Clicks | 173 |
+| CTR | 2.08% |
+| Avg position | 7.5 |
 
 ### Top queries
 | Query | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| danny carey drum set | 118 | 2 | 1.69% | 11.0 |
 | hellhammer drum kit | 4 | 2 | 50.00% | 3.0 |
-| arin ilejay | 406 | 1 | 0.25% | 11.3 |
+| arin ilejay | 333 | 1 | 0.30% | 11.2 |
 | best death metal drummers | 3 | 1 | 33.33% | 6.0 |
-| best metal drummers of all time | 41 | 1 | 2.44% | 8.8 |
+| best metal drummers of all time | 35 | 1 | 2.86% | 8.7 |
 | bill ward cymbals | 3 | 1 | 33.33% | 5.7 |
 | bill ward paranoid drum kit | 1 | 1 | 100.00% | 4.0 |
-| danny carey drum kit | 102 | 1 | 0.98% | 10.7 |
-| danny carey drum setup | 31 | 1 | 3.23% | 10.7 |
+| danny carey drum kit | 84 | 1 | 1.19% | 10.5 |
+| danny carey drum set | 99 | 1 | 1.01% | 10.9 |
+| danny carey drum setup | 27 | 1 | 3.70% | 10.8 |
 | death metal drum kit | 3 | 1 | 33.33% | 16.0 |
 
 ### Top countries (impressions, last 7d)
 | Country | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| usa | 3,803 | 84 | 2.21% | 7.9 |
-| deu | 364 | 14 | 3.85% | 6.9 |
-| fra | 240 | 11 | 4.58% | 6.9 |
-| fin | 149 | 9 | 6.04% | 6.4 |
-| gbr | 611 | 9 | 1.47% | 7.8 |
-| ita | 185 | 9 | 4.86% | 6.0 |
-| can | 602 | 8 | 1.33% | 7.6 |
-| aus | 451 | 7 | 1.55% | 7.5 |
-| bra | 284 | 5 | 1.76% | 7.0 |
-| arg | 68 | 4 | 5.88% | 7.4 |
+| usa | 3,152 | 65 | 2.06% | 7.9 |
+| deu | 293 | 12 | 4.10% | 7.0 |
+| fra | 201 | 10 | 4.98% | 7.0 |
+| can | 521 | 8 | 1.54% | 7.7 |
+| ita | 156 | 8 | 5.13% | 6.0 |
+| gbr | 520 | 7 | 1.35% | 7.9 |
+| fin | 123 | 6 | 4.88% | 6.6 |
+| aus | 380 | 5 | 1.32% | 7.6 |
+| arg | 57 | 4 | 7.02% | 7.6 |
+| bra | 230 | 4 | 1.74% | 6.9 |
 
 ### 🎯 Content-gap queries (impr ≥50, CTR <2%) — CEO MUST address
 | Query | Impr | CTR | Pos | Action |
 | --- | --- | --- | --- | --- |
-| danny carey drum set | 118 | 1.69% | 11.0 | open issue to answer better |
-| arin ilejay | 406 | 0.25% | 11.3 | open issue to answer better |
-| danny carey drum kit | 102 | 0.98% | 10.7 | open issue to answer better |
+| arin ilejay | 333 | 0.30% | 11.2 | open issue to answer better |
+| danny carey drum kit | 84 | 1.19% | 10.5 | open issue to answer better |
+| danny carey drum set | 99 | 1.01% | 10.9 | open issue to answer better |
 
 ---
 *Re-run manually: `node .agents/scripts/fetch-metrics.cjs`*

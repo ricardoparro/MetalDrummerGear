@@ -36996,7 +36996,7 @@ Start with one dark, heavy ride in the 22" range, and add a second voicing — w
       title: "Why Extreme Metal Rides Have to Survive Before They Have to Sound Good",
       content: `Extreme metal — death metal, technical death metal, and the grindcore-adjacent brutality that surrounds them — places durability demands on a ride cymbal that few other genres match. At 200-280 BPM sustained blast beats, a ride gets struck thousands of times a set, night after touring night, and has to keep responding accurately and staying articulate long after ordinary cymbals would develop keyholing or lose their voice.
 
-George Kollias of Nile rides a 21" Zildjian A Custom Mega Bell Ride, relying on its oversized bell for the piercing accents that cut through Nile's densely layered technical death metal even while sustaining blast beats past 240 BPM. Derek Roddy of Hate Eternal and Nile plays a 22" Meinl Byzance Raw Bell Dark Ride, a switch from his earlier Sabian and Paiste setups that gives his one-footed blast technique a hand-hammered surface built to hold up over time. Gene Hoglan of Death and Testament rides a 22" Sabian AAX Ride, prized for the versatile, durable response it delivers under his metronomic "Atomic Clock" precision.
+George Kollias of Nile rides a 21" Zildjian A Custom Mega Bell Ride, relying on its oversized bell for the piercing accents that cut through Nile's densely layered technical death metal even while sustaining blast beats past 240 BPM. Derek Roddy of Hate Eternal and Nile plays a 22" Meinl Byzance Raw Bell Dark Ride, a long-time Meinl loyalist since the mid-90s whose hand-hammered surface gives his one-footed blast technique a surface built to hold up over time. Gene Hoglan of Death and Testament rides a 22" Sabian AAX Ride, prized for the versatile, durable response it delivers under his metronomic "Atomic Clock" precision.
 
 This guide breaks down what actually makes a ride survive extreme metal's demands — durability, fast attack, and consistent response under sustained abuse — and recommends specific models across every budget, from a first touring-durable ride to the exact cymbals extreme metal's most demanding drummers ride.`,
       keyPoints: [
@@ -37134,7 +37134,7 @@ Sabian's B20 construction is built to survive the repeated, high-force striking 
           priceRange: "€300-360",
           tier: "premium",
           driveType: "B20 Bronze, Hand Hammered",
-          description: `Derek Roddy of Hate Eternal and Nile plays a 22" Meinl Byzance Raw Bell Dark Ride, a shift from his earlier Sabian and Paiste endorsements that reflects a career-long refinement of what actually survives one-footed blast technique night after night on tour.
+          description: `Derek Roddy of Hate Eternal and Nile plays a 22" Meinl Byzance Raw Bell Dark Ride, a long-time Meinl loyalist since the mid-90s whose hand-hammered surface reflects a career-long refinement of what actually survives one-footed blast technique night after night on tour.
 
 Roddy's move to a hand-hammered B20 line at this weight shows that even a drummer known for speed prioritizes construction that holds its voicing across a demanding touring schedule.`,
           pros: [
@@ -37336,7 +37336,7 @@ Hoglan's longevity on this exact setup is itself evidence that the AAX Ride surv
       },
       {
         question: "What ride cymbal does Derek Roddy use?",
-        answer: "Derek Roddy of Hate Eternal and Nile currently plays a 22\" Meinl Byzance Raw Bell Dark Ride, a shift from his earlier Sabian and Paiste endorsements that reflects his search for maximum long-term touring durability under one-footed blast technique."
+        answer: "Derek Roddy of Hate Eternal and Nile currently plays a 22\" Meinl Byzance Raw Bell Dark Ride, a long-time Meinl loyalist since the mid-90s whose hand-hammered surface reflects his search for maximum long-term touring durability under one-footed blast technique."
       },
       {
         question: "What ride cymbal does Gene Hoglan use?",
@@ -45844,7 +45844,7 @@ Start with one dark, heavy crash in the 18"-19" range, and add a second voicing 
       title: "Why Extreme Metal Crashes Have to Survive Before They Have to Sound Good",
       content: `Extreme metal — death metal, technical death metal, and the grindcore-adjacent brutality that surrounds them — places durability demands on a crash cymbal that few other genres match. At 200-280 BPM sustained blast beats, a crash gets struck thousands of times a set, night after touring night, and has to keep responding accurately and sounding consistent long after ordinary cymbals would develop keyholing or lose their voice.
 
-George Kollias of Nile runs Zildjian K Custom Dark Crashes in the 17"-19" range, over-hammered for a quick, bright attack and extra-fast decay that keeps pace with blast beats past 240 BPM. Derek Roddy of Hate Eternal and Nile plays Meinl Byzance Brilliant Heavy Hammered Crashes, a switch from his earlier Sabian and Paiste setups that gives his one-footed blast technique a hand-hammered surface built to hold up over time. Gene Hoglan of Death and Testament runs an 18" Sabian AAX X-Plosion Crash, prized for the explosive, immediate punch it delivers under his metronomic "Atomic Clock" precision.
+George Kollias of Nile runs Zildjian K Custom Dark Crashes in the 17"-19" range, over-hammered for a quick, bright attack and extra-fast decay that keeps pace with blast beats past 240 BPM. Derek Roddy of Hate Eternal and Nile plays Meinl Byzance Brilliant Heavy Hammered Crashes, a long-time Meinl loyalist since the mid-90s whose hand-hammered surface gives his one-footed blast technique a surface built to hold up over time. Gene Hoglan of Death and Testament runs an 18" Sabian AAX X-Plosion Crash, prized for the explosive, immediate punch it delivers under his metronomic "Atomic Clock" precision.
 
 This guide breaks down what actually makes a crash survive extreme metal's demands — durability, fast attack, and consistent response under sustained abuse — and recommends specific models across every budget, from a first touring-durable crash to the exact cymbals extreme metal's most demanding drummers play.`,
       keyPoints: [
@@ -45982,7 +45982,7 @@ Sabian AAX's B20 construction is built to survive the repeated, high-force strik
           priceRange: "€280-340",
           tier: "premium",
           driveType: "B20 Bronze, Hand Hammered",
-          description: `Derek Roddy of Hate Eternal and Nile plays Meinl Byzance Brilliant Heavy Hammered Crashes, a shift from his earlier Sabian and Paiste endorsements that reflects a career-long refinement of what actually survives one-footed blast technique night after night on tour.
+          description: `Derek Roddy of Hate Eternal and Nile plays Meinl Byzance Brilliant Heavy Hammered Crashes, a long-time Meinl loyalist since the mid-90s whose hand-hammered surface reflects a career-long refinement of what actually survives one-footed blast technique night after night on tour.
 
 Roddy's move to a hand-hammered B20 line at this weight shows that even a drummer known for speed prioritizes construction that holds its voicing across a demanding touring schedule.`,
           pros: [
@@ -46184,7 +46184,7 @@ Hoglan's longevity on this exact setup — across Death, Testament, and Dethklok
       },
       {
         question: "What crash cymbal does Derek Roddy use?",
-        answer: "Derek Roddy of Hate Eternal and Nile currently plays Meinl Byzance Brilliant Heavy Hammered Crashes, a shift from his earlier Sabian and Paiste endorsements that reflects his search for maximum long-term touring durability under one-footed blast technique."
+        answer: "Derek Roddy of Hate Eternal and Nile currently plays Meinl Byzance Brilliant Heavy Hammered Crashes, a long-time Meinl loyalist since the mid-90s whose hand-hammered surface reflects his search for maximum long-term touring durability under one-footed blast technique."
       },
       {
         question: "What crash cymbal does Gene Hoglan use?",
@@ -85424,7 +85424,7 @@ This pair reflects a philosophy shared across extreme metal's founding drummers:
           tier: "pro",
           material: "B20 Bronze, Heavy Hammered",
 
-          description: `Derek Roddy of Hate Eternal and Nile plays Meinl Byzance Brilliant Heavy Hammered Hi-Hats, matching the hand-hammered crash surface he switched to after years on Sabian and Paiste — a change made specifically to maximize long-term durability under his distinctive one-footed blast technique.
+          description: `Derek Roddy of Hate Eternal and Nile plays Meinl Byzance Brilliant Heavy Hammered Hi-Hats, matching the hand-hammered crash surface of a long-time Meinl loyalist since the mid-90s — a construction chosen specifically to maximize long-term durability under his distinctive one-footed blast technique.
 
 The heavy-hammered surface distributes stress differently than a machine-finished pair, giving Roddy a hi-hat built to hold its voicing over years of relentless touring and recording.`,
 
@@ -112121,7 +112121,7 @@ Whatever you land on, don't overlook wood quality and weight-matching — a pair
       title: "What Cymbals Survive Extreme Metal's Blast Beats?",
       content: `Extreme metal — death metal, technical death metal, and the grindcore-adjacent brutality surrounding both — puts more sustained abuse on a full cymbal setup than almost any other style of drumming. At 200-280 BPM blast beats, hi-hats, crashes, and rides all get struck thousands of times a set, night after touring night, and have to keep responding accurately long after ordinary cymbals would develop keyholing or lose their voice entirely.
 
-George Kollias of Nile runs a full Zildjian K Custom Dark setup — 14" hi-hats and 17"/19" crashes — paired with a 21" Zildjian A Custom Mega Bell Ride, giving his technical death metal drumming a dark, controlled voicing that stays articulate past 240 BPM. Derek Roddy of Hate Eternal and Nile plays Meinl Byzance Brilliant Heavy Hammered hi-hats and crashes with a 22" Byzance Raw Bell Dark Ride, a switch from his earlier Sabian and Paiste setups made specifically for long-term touring durability. Gene Hoglan of Death and Testament runs Sabian AAX X-Plosion hi-hats and crash with a 22" AAX Ride, prized for the explosive, reliable punch that matches his metronomic "Atomic Clock" precision.
+George Kollias of Nile runs a full Zildjian K Custom Dark setup — 14" hi-hats and 17"/19" crashes — paired with a 21" Zildjian A Custom Mega Bell Ride, giving his technical death metal drumming a dark, controlled voicing that stays articulate past 240 BPM. Derek Roddy of Hate Eternal and Nile plays Meinl Byzance Brilliant Heavy Hammered hi-hats and crashes with a 22" Byzance Raw Bell Dark Ride, a long-time Meinl loyalist since the mid-90s whose hand-hammered surfaces are built specifically for long-term touring durability. Gene Hoglan of Death and Testament runs Sabian AAX X-Plosion hi-hats and crash with a 22" AAX Ride, prized for the explosive, reliable punch that matches his metronomic "Atomic Clock" precision.
 
 This guide breaks down what actually makes a cymbal setup survive extreme metal's demands — durability, fast attack, and consistent response under sustained abuse — and recommends specific setups across every budget, from a first touring-durable pack to the exact cymbals extreme metal's most demanding drummers play.`,
       keyPoints: [
@@ -112266,7 +112266,7 @@ This setup reflects a philosophy shared across extreme metal's founding drummers
           tier: "pro",
           material: "B20 Bronze, Heavy Hammered",
 
-          description: `Derek Roddy of Hate Eternal and Nile plays Meinl Byzance Brilliant Heavy Hammered hi-hats and crashes, paired with a 22" Byzance Raw Bell Dark Ride — a switch made after years on Sabian and Paiste, specifically to maximize long-term durability under his distinctive one-footed blast technique.
+          description: `Derek Roddy of Hate Eternal and Nile plays Meinl Byzance Brilliant Heavy Hammered hi-hats and crashes, paired with a 22" Byzance Raw Bell Dark Ride — a long-time Meinl loyalist since the mid-90s, whose hand-hammered surfaces are built specifically to maximize long-term durability under his distinctive one-footed blast technique.
 
 The heavy-hammered surface distributes stress differently than a machine-finished setup, giving Roddy a full cymbal rig built to hold its voicing over years of relentless touring and recording.`,
 
@@ -112459,7 +112459,7 @@ The X-Plosion series delivers a faster, more explosive attack than standard AAX 
       },
       {
         question: "What cymbals does Derek Roddy use?",
-        answer: "Derek Roddy of Hate Eternal and Nile plays Meinl Byzance Brilliant Heavy Hammered hi-hats and crashes with a 22\" Byzance Raw Bell Dark Ride, a switch made from his earlier Sabian and Paiste setups for maximum long-term touring durability."
+        answer: "Derek Roddy of Hate Eternal and Nile plays Meinl Byzance Brilliant Heavy Hammered hi-hats and crashes with a 22\" Byzance Raw Bell Dark Ride, a long-time Meinl loyalist since the mid-90s whose hand-hammered surfaces are built for maximum long-term touring durability."
       },
       {
         question: "What cymbals does Gene Hoglan use?",

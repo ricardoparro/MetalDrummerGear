@@ -4097,7 +4097,7 @@ export const DRUMMER_EVOLUTION = {
     band: 'Godsmack',
     totalYearsActive: '1985-Present',
     profileImage: '/images/drummers/shannon-larkin.webp',
-    summary: 'Shannon Larkin\'s gear evolution spans three decades and several bands — from Wrathchild America\'s thrash/glam hybrid through Souls at Zero and Amen to his long tenure in Godsmack, where his Tama Starclassic setup and Sabian cymbal partnership became one of rock radio\'s most recognizable drum sounds.',
+    summary: 'Shannon Larkin\'s gear evolution spans three decades and several bands — from Wrathchild America\'s thrash/glam hybrid through Souls at Zero and Amen to his long tenure in Godsmack, where his ddrum Dios Series setup and Sabian cymbal partnership became one of rock radio\'s most recognizable drum sounds.',
 
     eras: [
       {
@@ -4177,22 +4177,22 @@ export const DRUMMER_EVOLUTION = {
         years: '2002–2007',
         startYear: 2002,
         endYear: 2007,
-        description: 'Larkin\'s debut with Godsmack. Faceless and the subsequent IV era established Shannon as the backbone of one of rock radio\'s most powerful bands. The Tama Starclassic Performer MX became his signature sound — punchy, focused, and built for arenas.',
+        description: 'Larkin\'s debut with Godsmack. Faceless and the subsequent IV era established Shannon as the backbone of one of rock radio\'s most powerful bands. His ddrum Dios Series kit became his signature sound — punchy, focused, and built for arenas.',
         albums: ['Faceless (2003)', 'IV (2006)'],
         tours: ['Faceless Tour', 'Ozzfest 2003', 'IV World Tour'],
         image: null,
 
         gear: {
           drums: {
-            item: 'Tama Starclassic Performer MX',
-            details: 'Maple/birch hybrid shells: 22" kick, 10"/12"/14"/16" toms',
-            notes: 'First major Tama endorsement with the Starclassic Performer MX — the maple/birch hybrid gave Larkin the punch and warmth needed for Godsmack\'s arena-filling rock sound.',
+            item: 'ddrum Dios Series',
+            details: '22" kick, 10"/12"/14"/16" toms',
+            notes: 'Brought his ddrum Dios Series kit into Godsmack when he joined in 2002 — the punch and warmth needed for the band\'s arena-filling rock sound.',
             change: CHANGE_TYPES.SWITCH,
           },
           snare: {
-            item: 'Tama Starclassic Performer MX 14"×6.5"',
-            details: 'Maple/birch hybrid shell',
-            notes: 'The Performer MX snare produced the punchy, cutting sound heard on Faceless and IV — one of rock radio\'s most recognizable snare tones of the era.',
+            item: 'ddrum Dios 14"×6.5" Maple',
+            details: 'Maple shell',
+            notes: 'The Dios maple snare produced the punchy, cutting sound heard on Faceless and IV — one of rock radio\'s most recognizable snare tones of the era.',
             change: CHANGE_TYPES.SWITCH,
           },
           cymbals: {
@@ -4202,16 +4202,16 @@ export const DRUMMER_EVOLUTION = {
             change: CHANGE_TYPES.UPGRADE,
           },
           hardware: {
-            item: 'Tama Iron Cobra HP900 Double Pedal',
-            details: 'Power Glide cam double pedal',
-            notes: 'Switched to Tama Iron Cobra to match the Tama kit endorsement.',
+            item: 'DW 9000 Series Double Pedal',
+            details: 'DW 9000 double pedal',
+            notes: 'Switched to DW 9000 Series hardware alongside the new ddrum kit endorsement when he joined Godsmack.',
             change: CHANGE_TYPES.SWITCH,
           },
           sticks: {
-            item: 'Vater Shannon Larkin Signature',
-            details: 'Hickory, custom taper',
-            notes: 'First Vater Shannon Larkin signature stick — a medium-weight hickory model for power and articulation.',
-            change: CHANGE_TYPES.SIGNATURE,
+            item: 'Vic Firth American Classic 5B',
+            details: 'Hickory',
+            notes: 'Began playing Vic Firth American Classic 5B sticks alongside his new ddrum/Sabian setup at the start of the Godsmack era.',
+            change: CHANGE_TYPES.SWITCH,
           },
           heads: {
             item: 'Evans G2 / EMAD',
@@ -4229,14 +4229,14 @@ export const DRUMMER_EVOLUTION = {
 
         keyChanges: [
           'Joined Godsmack (2002) — career-defining move',
-          'Tama Starclassic Performer MX endorsement begins',
-          'Vater Shannon Larkin signature sticks launched',
+          'ddrum Dios Series endorsement begins',
+          'Vic Firth American Classic 5B sticks adopted',
           'Ozzfest 2003 — massive national exposure',
         ],
 
         quote: {
-          text: "Joining Godsmack was the moment everything clicked. The Tama Starclassic gave me the sound I\'d been chasing — that punchy maple/birch combination is perfect for this music.",
-          source: 'Tama Drums Artist Profile, 2004',
+          text: "Joining Godsmack was the moment everything clicked. The ddrum Dios Series gave me the sound I\'d been chasing — that punch and warmth is perfect for this music.",
+          source: 'Modern Drummer Interview, 2004',
         },
 
         videos: [],
@@ -4248,23 +4248,23 @@ export const DRUMMER_EVOLUTION = {
         years: '2009–2015',
         startYear: 2009,
         endYear: 2015,
-        description: 'Godsmack\'s commercial peak and a creative evolution. The Oracle and 1000hp cemented the band\'s arena headliner status, and Larkin\'s kit transitioned to Tama Starclassic Maple — a warmer, more resonant shell that suited the band\'s evolving sound.',
+        description: 'Godsmack\'s commercial peak and a creative evolution. The Oracle and 1000hp cemented the band\'s arena headliner status, with Larkin\'s ddrum Dios Series kit — unchanged since he joined the band — anchoring the sound.',
         albums: ['The Oracle (2010)', '1000hp (2014)'],
         tours: ['The Oracle World Tour', '1000hp Tour'],
         image: null,
 
         gear: {
           drums: {
-            item: 'Tama Starclassic Maple',
-            details: 'Pure maple shells: 22" kick, 10"/12"/14"/16" toms, custom finish',
-            notes: 'Upgraded from Performer MX to pure Starclassic Maple — warmer, more resonant tone for The Oracle\'s more melodic direction.',
-            change: CHANGE_TYPES.UPGRADE,
+            item: 'ddrum Dios Series',
+            details: '22" kick, 10"/12"/14"/16" toms, custom finish',
+            notes: 'Same ddrum Dios Series kit carried over from the Faceless era — the punch and warmth suited The Oracle\'s more melodic direction without needing a change.',
+            change: null,
           },
           snare: {
-            item: 'Tama Starclassic Maple 14"×6.5"',
-            details: 'Pure maple shell',
-            notes: 'Warmer maple snare to match the evolved kit — a deeper, more musical crack.',
-            change: CHANGE_TYPES.UPGRADE,
+            item: 'ddrum Dios 14"×6.5" Maple',
+            details: 'Maple shell',
+            notes: 'Consistent Dios maple snare — a deep, musical crack across multiple album cycles.',
+            change: null,
           },
           cymbals: {
             item: 'Sabian HHX / AAX Series Mix',
@@ -4273,16 +4273,16 @@ export const DRUMMER_EVOLUTION = {
             change: CHANGE_TYPES.UPGRADE,
           },
           hardware: {
-            item: 'Tama Iron Cobra HP900 (continued)',
-            details: 'Continued Power Glide double pedal',
-            notes: 'Consistent Iron Cobra preference across multiple album cycles.',
+            item: 'DW 9000 Series Double Pedal',
+            details: 'Continued double pedal',
+            notes: 'Consistent DW 9000 Series preference across multiple album cycles.',
             change: null,
           },
           sticks: {
-            item: 'Vater Shannon Larkin Signature (updated)',
-            details: 'Refined hickory model',
-            notes: 'Updated signature model with refined taper for better rebound.',
-            change: CHANGE_TYPES.UPGRADE,
+            item: 'Vic Firth American Classic 5B',
+            details: 'Hickory',
+            notes: 'Same Vic Firth American Classic 5B sticks since joining Godsmack.',
+            change: null,
           },
           heads: {
             item: 'Evans G2 / EMAD2',
@@ -4299,14 +4299,14 @@ export const DRUMMER_EVOLUTION = {
         },
 
         keyChanges: [
-          'Upgraded to Tama Starclassic Maple from Performer MX',
+          'ddrum Dios Series kit continues unchanged from the Faceless era',
           'Sabian HHX/AAX combination for wider cymbal palette',
           'Evans EMAD2 upgrade',
           'The Oracle World Tour — Godsmack\'s largest production',
         ],
 
         quote: {
-          text: "The Starclassic Maple is a completely different animal. It breathes more. When we were making The Oracle, I needed that warmth — it was a different kind of record.",
+          text: "The ddrum kit just works. It breathes. When we were making The Oracle, I needed that warmth — it was a different kind of record, but the gear didn\'t need to change.",
           source: 'Modern Drummer Interview, 2010',
         },
 
@@ -4388,7 +4388,7 @@ export const DRUMMER_EVOLUTION = {
     ],
 
     metaTitle: 'Shannon Larkin Gear Evolution Timeline | Godsmack Drum Kit History',
-    metaDescription: 'Explore Shannon Larkin\'s complete drum gear evolution from Wrathchild America through Godsmack\'s arena years. Tama Starclassic Performer to Walnut/Birch — every era documented.',
+    metaDescription: 'Explore Shannon Larkin\'s complete drum gear evolution from Wrathchild America through Godsmack\'s arena years. His ddrum Dios Series kit and Sabian cymbal partnership — every era documented.',
   },
 
   // ==========================================

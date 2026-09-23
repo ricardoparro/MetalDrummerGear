@@ -3241,11 +3241,11 @@ Daray's drumming combines extreme speed and technical precision with theatrical 
       },
       gearHighlights: {
         title: 'Gear Highlights',
-        content: `Daray is a Pearl Drums endorser, using their Masterworks Stadium Exotic series for both studio recording and live performances with Dimmu Borgir.
+        content: `Daray played a Pearl Masterworks Stadium Exotic kit from 2008 through 2013, tracked on Dimmu Borgir's "Abrahadabra" (2010). He switched to Tama in 2014, debuting the brand with a Starclassic Performer B/B kit at the TAMA 40th Anniversary Drum Festival (July 5, 2014), and has used Tama for studio recording and live performances with Dimmu Borgir since.
 
-**Current Setup:**
-- **Drums**: Pearl Masterworks Stadium Exotic
-- **Snare**: Pearl Reference 14"x5.5" Brass
+**Current Setup (2014-present):**
+- **Drums**: Tama Starclassic Performer B/B, Piano Black (PBK)
+- **Snare**: Tama S.L.P. Black Brass (LBR1465)
 - **Cymbals**: Paiste (15" Sound Edge Hi-Hats, 2002 and RUDE crashes, 22" RUDE Power Ride)
 - **Hardware**: Pearl Demon XR double pedal
 - **Sticks**: Vic Firth American Classic Extreme 5B
@@ -3272,13 +3272,13 @@ Daray's drumming combines extreme speed and technical precision with theatrical 
       faq: {
         title: 'Frequently Asked Questions',
         items: [
-          { q: 'What drum kit does Daray use?', a: 'Daray\'s kit is anchored by a Pearl Masterworks Stadium Exotic shell pack, built for the volume and low-end depth needed to carry Dimmu Borgir\'s grandiose symphonic arrangements and Vader\'s blast-driven death metal assault. It centers on a Pearl Reference 14"x5.5" Brass snare.' },
-          { q: 'What drum set does Daray use?', a: 'Daray\'s drum set pairs his Pearl Masterworks shells and brass snare with a Pearl Demon XR double pedal, giving him the speed and control behind his rapid-fire double bass work with both Dimmu Borgir and Vader.' },
+          { q: 'What drum kit does Daray use?', a: 'Since switching to Tama in 2014, Daray\'s kit has been anchored by a Starclassic Performer B/B shell pack in Piano Black, built for the volume and low-end depth needed to carry Dimmu Borgir\'s grandiose symphonic arrangements. It centers on a Tama S.L.P. Black Brass snare. He played a Pearl Masterworks Stadium Exotic kit from 2008-2013, tracked on "Abrahadabra."' },
+          { q: 'What drum set does Daray use?', a: 'Daray\'s drum set pairs his Tama Starclassic Performer B/B shells and S.L.P. Black Brass snare with a Pearl Demon XR double pedal, giving him the speed and control behind his rapid-fire double bass work with Dimmu Borgir.' },
           { q: 'What cymbals does Daray play?', a: 'Daray plays Paiste RUDE and 2002 Series cymbals: 14" RUDE Hi-Hats, 17" and 18" RUDE Crashes, and a 22" RUDE Power Ride cutting through extreme-tempo passages.' },
-          { q: 'What snare does Daray use?', a: 'Daray\'s snare is a Pearl Reference 14"x5.5" Brass, supplying a sharp, cutting crack that stays audible against dense orchestral layers and extreme blast-beat tempos alike.' },
+          { q: 'What snare does Daray use?', a: 'Daray\'s snare is a Tama S.L.P. Black Brass (LBR1465), supplying a sharp, cutting crack that stays audible against dense orchestral layers and extreme blast-beat tempos alike.' },
           { q: 'What sticks does Daray use?', a: 'Daray uses Vic Firth American Classic Extreme 5B drumsticks, a heavier stick variant built for extreme metal\'s demands.' },
           { q: 'What bass drum pedal does Daray use?', a: 'Daray drives his rapid-fire double bass work with a Pearl Demon XR double pedal.' },
-          { q: 'What drumheads does Daray use?', a: 'Daray uses Evans drumheads across his Pearl Masterworks kit.' },
+          { q: 'What drumheads does Daray use?', a: 'Daray uses Evans drumheads across his Tama Starclassic kit.' },
           { q: 'What band is Daray in?', a: 'Daray (Dariusz Brzozowski) has drummed for Dimmu Borgir since 2008 and previously drummed for Vader (2006-2016) and Vesania (since 2003).' },
           { q: 'Does Daray use trigger-assisted drums?', a: 'Daray uses trigger-assisted drums live to maintain consistency at the extreme tempos Dimmu Borgir\'s symphonic productions demand, and relies on in-ear monitoring to stay synchronized with orchestral arrangements during performances.' }
         ]
@@ -3286,6 +3286,7 @@ Daray's drumming combines extreme speed and technical precision with theatrical 
       sources: {
         title: 'Sources',
         items: [
+          { name: 'Tama Drums', url: 'https://www.tama.com' },
           { name: 'Pearl Drums', url: 'https://pearldrum.com' },
           { name: 'Dimmu Borgir Official', url: 'https://www.dimmu-borgir.com' },
           { name: 'Paiste Cymbals', url: 'https://www.paiste.com' },

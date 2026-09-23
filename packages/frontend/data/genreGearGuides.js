@@ -1499,7 +1499,7 @@ Budget shouldn't stop you — Remo Ambassador X and Evans G1 Coated both offer a
       title: "Why Post-Metal Needs Heads That Breathe and Crush",
       content: `Post-metal lives on contrast. A song can spend four minutes building a hushed, cymbal-washed crescendo before detonating into a wall of down-tuned, distorted weight — and the drum heads underneath have to serve both halves of that arc without compromise. A head that's tuned purely for crushing low end goes dead and unresponsive during the quiet build; a head chasing maximum sensitivity can't carry the tectonic low-tuned tom hits that define the genre's climaxes.
 
-Brann Dailor of Mastodon built his sound on exactly this tension — warm, focused Evans G2 Clear heads that respond to brushed, jazz-informed dynamics one moment and slam into crushing sludge weight the next. Danny Carey's massive Tool kit uses the same open, resonant philosophy for the band's more atmospheric, post-metal-adjacent material, while Mario Duplantier of Gojira pairs thicker Remo Emperor and EMAD-family heads for a heavier, more controlled version of the same idea across his dual-kick setup. Abe Cunningham of Deftones rounds out the picture with a Tama Starclassic Maple/Bubinga kit voiced specifically to serve both ambient restraint and explosive heaviness from one build.
+Brann Dailor of Mastodon built his sound on exactly this tension — warm, focused Evans G2 Clear heads that respond to brushed, jazz-informed dynamics one moment and slam into crushing sludge weight the next. Danny Carey's massive Tool kit uses the same open, resonant philosophy for the band's more atmospheric, post-metal-adjacent material, while Mario Duplantier of Gojira pairs thicker Remo Emperor and EMAD-family heads for a heavier, more controlled version of the same idea across his dual-kick setup. Abe Cunningham of Deftones rounds out the picture with Remo heads across his Tama Starclassic Maple/Bubinga kit, voiced specifically to serve both ambient restraint and explosive heaviness from one build.
 
 This guide breaks down the drum heads that deliver post-metal's full dynamic range — why moderate-ply, resonant constructions beat both fully open and heavily muffled extremes here, and which specific models let a kit whisper and crush within the same song.`,
       keyPoints: [
@@ -1591,7 +1591,8 @@ For a genre defined by contrast, the Ambassador's open, natural sustain gives qu
             sizes: "6\" to 28\""
           },
           usedBy: [
-            { name: "Danny Carey", band: "Tool", note: "Remo drumheads for atmospheric, post-metal-adjacent material" }
+            { name: "Danny Carey", band: "Tool", note: "Remo drumheads for atmospheric, post-metal-adjacent material" },
+            { name: "Abe Cunningham", band: "Deftones", note: "Remo Powerstroke P3 / Pinstripe / Ambassador since 1997" }
           ],
           verdict: "The definitive post-metal head. Start here if your kit needs to whisper and crush in the same song.",
           rating: 4.8,
@@ -1687,7 +1688,7 @@ For post-metal's extreme dynamic swings, this level of control is a genuine nece
           tier: "mid-pro",
           material: "1-Ply Clear (10mil)",
 
-          description: `Abe Cunningham's Tama Starclassic Maple/Bubinga kit with Deftones is voiced to serve both heaviness and atmosphere from one build, and the Evans G1 Clear is the resonant-side head that makes that possible. Single-ply and unmuffled, it maximizes natural resonance, letting a coated Ambassador or Emperor batter's low end bloom fully during a climax while still singing during quiet, ambient passages.
+          description: `A kit voiced to serve both heaviness and atmosphere from one build needs a resonant head that stays out of the way, and the Evans G1 Clear is exactly that. Single-ply and unmuffled, it maximizes natural resonance, letting a coated Ambassador or Emperor batter's low end bloom fully during a climax while still singing during quiet, ambient passages.
 
 The Level 360 collar also makes precise tuning easy — useful when hunting for the specific low pitch a post-metal build's key center demands.`,
 
@@ -1710,9 +1711,7 @@ The Level 360 collar also makes precise tuning easy — useful when hunting for 
             coating: "Clear",
             sizes: "6\" to 26\""
           },
-          usedBy: [
-            { name: "Abe Cunningham", band: "Deftones", note: "Evans-family resonant heads for ambient-to-crushing range" }
-          ],
+          usedBy: [],
           verdict: "The standard resonant-side pairing for post-metal's maximum dynamic range.",
           rating: 4.4,
           affiliateLink: "https://www.thomann.de/intl/evans_g1_coated.htm?partner_id=metalforge"
@@ -1836,7 +1835,7 @@ For drummers whose post-metal leans toward the heaviest, most crushing end of th
 - EMAD2 kick heads give the adjustable muffling dual-kick, dynamically extreme setups need
 - G1 Clear is an excellent open, sustain-maximizing resonant head
 - G2 Clear is Brann Dailor's batter head choice for Mastodon's dynamic range
-- Preferred by: Brann Dailor, Abe Cunningham (as part of a bespoke, dynamically flexible kit)
+- Preferred by: Brann Dailor
 
 **Aquarian:**
 - Studio-X's unusual ply combination handles the most extreme low tunings
@@ -1891,20 +1890,20 @@ For drummers whose post-metal leans toward the heaviest, most crushing end of th
       { slug: 'brann-dailor', name: 'Brann Dailor', reason: 'Evans G2 Clear — Mastodon\'s warm, dynamically honest tone' },
       { slug: 'danny-carey', name: 'Danny Carey', reason: 'Remo drumheads — Tool\'s atmospheric, post-metal-adjacent range' },
       { slug: 'mario-duplantier', name: 'Mario Duplantier', reason: 'Remo Emperor + EMAD-family heads — Gojira\'s crushing dual-kick weight' },
-      { slug: 'abe-cunningham', name: 'Abe Cunningham', reason: 'Evans-family heads — Deftones\' ambient-to-crushing range' }
+      { slug: 'abe-cunningham', name: 'Abe Cunningham', reason: 'Remo heads — Deftones\' ambient-to-crushing range' }
     ],
 
     featuredDrummers: [
       { slug: 'brann-dailor', name: 'Brann Dailor', reason: 'Evans G2 Clear — dynamic range from ambient builds to sludge weight' },
       { slug: 'mario-duplantier', name: 'Mario Duplantier', reason: 'Remo Emperor + EMAD-family heads — crushing, low-tuned climax weight' },
-      { slug: 'abe-cunningham', name: 'Abe Cunningham', reason: 'Evans-family heads — a kit voiced for both restraint and heaviness' }
+      { slug: 'abe-cunningham', name: 'Abe Cunningham', reason: 'Remo heads — a kit voiced for both restraint and heaviness' }
     ],
 
     // FAQ section for SEO
     faq: [
       {
         question: "What drum heads do post-metal drummers use?",
-        answer: "Post-metal drummers overwhelmingly favor warm, dynamically responsive heads. Danny Carey uses Remo, particularly the Coated Ambassador, while Brann Dailor is an Evans endorser running the G2 Clear, and Mario Duplantier steps up to the thicker Remo Emperor and EMAD-family heads for Gojira's heavier, more crushing material. Abe Cunningham's bespoke Deftones kit uses Evans-family heads voiced to serve both restraint and heaviness."
+        answer: "Post-metal drummers overwhelmingly favor warm, dynamically responsive heads. Danny Carey uses Remo, particularly the Coated Ambassador, while Brann Dailor is an Evans endorser running the G2 Clear, and Mario Duplantier steps up to the thicker Remo Emperor and EMAD-family heads for Gojira's heavier, more crushing material. Abe Cunningham's Deftones kit uses Remo heads — Powerstroke P3, Pinstripe, and Ambassador — voiced to serve both restraint and heaviness."
       },
       {
         question: "Why do post-metal drummers need heads that work at both extremes?",

@@ -4873,10 +4873,10 @@ export const DRUMMER_EVOLUTION = {
             change: CHANGE_TYPES.UPGRADE,
           },
           hardware: {
-            item: 'Pearl Demon Drive Double Pedal',
-            details: 'Direct drive double pedal for maximum speed',
-            notes: 'Switched to the Pearl Demon Drive\'s direct drive mechanism for the most responsive blast beat performance possible.',
-            change: CHANGE_TYPES.UPGRADE,
+            item: 'Pearl Eliminator Double Bass Pedal',
+            details: 'Cam-driven double pedal for maximum speed',
+            notes: 'The Pearl Eliminator has remained Paul\'s pedal of choice, delivering the speed and consistency blast beat work demands.',
+            change: null,
           },
           sticks: {
             item: 'Vic Firth 5B',
@@ -4906,7 +4906,7 @@ export const DRUMMER_EVOLUTION = {
 
         keyChanges: [
           'Pearl Reference Series replaces Pearl Masters',
-          'Pearl Demon Drive direct double pedal adopted',
+          'Pearl Eliminator double pedal continues',
           'Evans heads replace Remo across the kit',
           'ddrum kick triggers for live consistency',
           'Kill (2006) — widely considered the definitive Cannibal Corpse album',
@@ -4951,9 +4951,9 @@ export const DRUMMER_EVOLUTION = {
             change: null,
           },
           hardware: {
-            item: 'Pearl Demon Drive Double Pedal',
-            details: 'Continued direct drive — longest partnership in Paul\'s career',
-            notes: 'The Demon Drive remains Paul\'s preference for its direct response and durability across hundreds of live performances annually.',
+            item: 'Pearl Eliminator Double Bass Pedal',
+            details: 'Continued cam-driven double pedal — longest partnership in Paul\'s career',
+            notes: 'The Eliminator remains Paul\'s preference for its response and durability across hundreds of live performances annually.',
             change: null,
           },
           sticks: {

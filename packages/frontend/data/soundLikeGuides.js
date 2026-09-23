@@ -7565,7 +7565,7 @@ This guide covers Bostaph's groove-thrash technique, his Pearl Masters Maple Com
     genre: 'Technical Death Metal',
     priority: 28,
     title: "How to Sound Like Hannes Grossmann: Complete Gear & Technique Guide",
-    description: "Master Hannes Grossmann's technical death metal drum sound. Learn his open-handed technique, polyrhythmic precision, classical influences, and DW Collectors / Meinl Byzance setup from Obscura, Necrophagist, and Alkaloid.",
+    description: "Master Hannes Grossmann's technical death metal drum sound. Learn his open-handed technique, polyrhythmic precision, classical influences, and Tama Starclassic / Meinl Byzance setup from Obscura, Necrophagist, and Alkaloid.",
     seoKeywords: ['hannes grossmann drumming', 'how to sound like hannes grossmann', 'obscura drums', 'hannes grossmann gear', 'hannes grossmann technique', 'hannes grossmann drum kit', 'technical death metal drumming', 'obscura drum sound'],
     ogImage: '/images/guides/hannes-grossmann-guide.webp',
     datePublished: '2026-06-25',
@@ -7581,7 +7581,7 @@ Grossmann first gained international attention as the drummer for Necrophagist o
 
 What sets Grossmann apart from other technical drummers is his open-handed technique. Rather than using traditional matched grip for all patterns, he regularly plays open-handed (left hand on hi-hat or ride, right on snare) for specific patterns, allowing more fluid movement around the kit without crossing hands. This approach gives him access to unusual voicings and independent limb combinations that crossed-hands technique cannot achieve.
 
-This guide covers Grossmann's technique in depth — classical influences, open-handed approach, polyrhythmic construction, compositional thinking — and his DW Collectors Series / Meinl Byzance setup.`,
+This guide covers Grossmann's technique in depth — classical influences, open-handed approach, polyrhythmic construction, compositional thinking — and his Tama Starclassic Maple / Meinl Byzance setup.`,
       keyPoints: [
         "Trained in classical percussion before extreme metal — Bach and Bartok inform his rhythmic thinking as much as metal",
         "Open-handed technique (left hand leads on hi-hat/ride) gives him access to voicings impossible with crossed-hands approach",
@@ -7640,28 +7640,28 @@ This guide covers Grossmann's technique in depth — classical influences, open-
       ]
     },
     gear: {
-      title: "Hannes' DW Collectors / Meinl Byzance Setup",
+      title: "Hannes' Tama Starclassic / Meinl Byzance Setup",
       drumKit: {
-        brand: 'DW',
-        model: 'DW Collectors Series',
-        shells: 'North American Maple',
-        finish: 'Custom Obscura / Alkaloid configurations',
+        brand: 'Tama',
+        model: 'Tama Starclassic Maple',
+        shells: 'All-Maple',
+        finish: 'Necrophagist / Obscura-era configuration',
         config: {
           kick: '22" x 18" Bass Drums (x2)',
-          snare: '14" x 5.5" DW Collectors Maple',
+          snare: '14" x 6" Tama S.L.P. G-Maple',
           toms: ['10" x 8" Rack Tom', '12" x 9" Rack Tom'],
           floorToms: ['14" x 14" Floor Tom', '16" x 16" Floor Tom']
         },
-        description: "Grossmann plays DW Collectors Series — DW's flagship production shell line, custom-built with North American maple for precise attack and controlled sustain. The Collectors' articulate response suits the dense polyrhythmic arrangements of Obscura and Alkaloid where every note needs to be distinguishable within extremely complex drum parts.",
-        affiliateNote: "DW Performance or DW Design Series are accessible alternatives with DW's maple-focused tone."
+        description: "Grossmann played a Tama Starclassic Maple kit throughout the Necrophagist and Obscura era — an all-maple shell pack built for precise attack and controlled sustain. The Starclassic's articulate response suited the dense arrangements of Epitaph (2004), Cosmogenesis (2009), and Omnivium (2011), where every note needed to be distinguishable within extremely complex drum parts. He switched to a DW kit in 2014 while co-founding Alkaloid.",
+        affiliateNote: "Tama Superstar Classic or Tama Imperialstar are accessible alternatives with Tama's maple-focused tone."
       },
       snare: {
-        brand: 'DW',
-        model: 'DW Collectors 14" x 5.5" Maple',
-        size: '14" x 5.5"',
+        brand: 'Tama',
+        model: 'Tama S.L.P. G-Maple 14" x 6"',
+        size: '14" x 6"',
         shell: 'Maple',
-        description: "Grossmann's 14\" x 5.5\" maple snare is tuned for a bright, articulate crack that cuts through dense technical arrangements. The maple shell provides warmth without sacrificing the definition that fast, ghost-note-heavy patterns require — each stroke must be audibly distinct, even at extremely high tempos.",
-        alternative: "DW Performance Maple 14\" x 5.5\" or Pearl Free-Floating Steel 14\" x 5\" for similar bright, precise response"
+        description: "Grossmann's 14\" x 6\" G-Maple snare is tuned for a bright, articulate crack that cuts through dense technical arrangements. The maple shell provides warmth without sacrificing the definition that fast, ghost-note-heavy patterns require — each stroke must be audibly distinct, even at extremely high tempos.",
+        alternative: "Tama Starclassic Maple 14\" x 5.5\" or Pearl Free-Floating Steel 14\" x 5\" for similar bright, precise response"
       },
       cymbals: {
         brand: 'Meinl',
@@ -7676,10 +7676,10 @@ This guide covers Grossmann's technique in depth — classical influences, open-
         description: "Grossmann uses Meinl Byzance cymbals — Meinl's hand-hammered B20 bronze series known for warm, harmonically complex sound. The Byzance's dark, traditional character integrates naturally in dense progressive death metal mixes without fighting the harmonic complexity of the arrangements. His open-handed technique requires hi-hats that respond evenly to both sticks — the Byzance Traditional Hi-Hats provide this consistency."
       },
       pedals: {
-        brand: 'DW',
-        model: 'DW 9000 Series Double Pedal',
-        description: "Grossmann uses DW 9000 Series double pedals — DW's professional chain-drive flagship known for smooth, consistent response. The 9000's adjustable cam system allows him to tune the pedal's feel to match his specific double-bass technique requirements for different passage types.",
-        alternative: "DW 5002 Double Pedal or Tama Iron Cobra 900 for comparable smooth chain-drive feel"
+        brand: 'Tama',
+        model: 'Tama Iron Cobra Double Pedal',
+        description: "Grossmann used a Tama Iron Cobra double pedal through the Necrophagist and Obscura era — Tama's chain-drive flagship known for smooth, consistent response. The Iron Cobra's precision gave him the reliability needed for Cosmogenesis and Omnivium's rapid tempo shifts, before he switched to a DW pedal in 2014 alongside his move to DW.",
+        alternative: "Tama Iron Cobra 900 or Pearl Eliminator for comparable smooth chain-drive feel"
       },
       sticks: {
         brand: 'Vic Firth',
@@ -7763,35 +7763,35 @@ This guide covers Grossmann's technique in depth — classical influences, open-
         label: "Starter Technical Death Metal Setup",
         kit: "Pearl Export ($550) or Tama Imperialstar ($500)",
         cymbals: "Meinl HCS Bronze or Byzance Basics ($300)",
-        pedals: "DW 5002 Double Pedal ($200)",
+        pedals: "Tama Iron Cobra 900 ($200)",
         sticks: "Vic Firth 5B ($10)",
-        notes: "Meinl at any price point shares the dark, warm character of the Byzance series. DW pedals at any level have the consistent feel Grossmann requires."
+        notes: "Meinl at any price point shares the dark, warm character of the Byzance series. Tama pedals at any level have the consistent feel Grossmann's Necrophagist/Obscura-era kit required."
       },
       mid: {
         price: "$3,800",
         label: "Intermediate Setup",
-        kit: "DW Performance Series ($1,800)",
+        kit: "Tama Starclassic Performer B/B ($1,600)",
         cymbals: "Meinl Byzance Traditional Selection ($1,500)",
-        pedals: "DW 9000 Series Double Pedal ($450)",
+        pedals: "Tama Iron Cobra 900 Double Pedal ($400)",
         sticks: "Vic Firth 5B ($10)",
         heads: "Evans G2 Clear set ($150)",
-        notes: "DW Performance shares the Collectors' construction philosophy. Meinl Byzance Traditional at this level matches Grossmann's exact cymbal character."
+        notes: "Tama Starclassic Performer shares the Starclassic Maple's construction philosophy. Meinl Byzance Traditional at this level matches Grossmann's exact cymbal character."
       },
       pro: {
         price: "$7,000+",
         label: "Professional Setup",
-        kit: "DW Collectors Series ($3,500+)",
+        kit: "Tama Starclassic Maple ($3,200+)",
         cymbals: "Meinl Byzance Full Selection ($2,500+)",
-        pedals: "DW 9000 Series Custom ($550)",
-        snare: "DW Collectors 14\" x 5.5\" Maple ($350)",
+        pedals: "Tama Iron Cobra Power Glide ($500)",
+        snare: "Tama S.L.P. G-Maple 14\" x 6\" ($350)",
         heads: "Full Evans/Remo mix ($250)",
-        notes: "DW Collectors Series is Grossmann's current touring and recording kit. Meinl Byzance Traditional cymbals are his exact endorsement setup."
+        notes: "Tama Starclassic Maple was Grossmann's touring and recording kit through the Necrophagist and Obscura era, before his 2014 switch to DW. Meinl Byzance Traditional cymbals are his exact endorsement setup."
       }
     },
     faq: [
       {
         question: "What drum kit does Hannes Grossmann play?",
-        answer: "Hannes Grossmann plays DW Collectors Series drums — DW's flagship production shell line with custom-built North American maple shells. His configuration uses double 22\" x 18\" kick drums, 10\" and 12\" rack toms, 14\" and 16\" floor toms, and a DW Collectors 14\" x 5.5\" maple snare. The Collectors' precision construction provides the articulate attack his complex polyrhythmic arrangements require."
+        answer: "Through the Necrophagist and Obscura era, Hannes Grossmann played a Tama Starclassic Maple kit — an all-maple shell pack. His configuration used double 22\" x 18\" kick drums, 10\" and 12\" rack toms, 14\" and 16\" floor toms, and a Tama S.L.P. G-Maple 14\" x 6\" snare. The Starclassic's precise construction provided the articulate attack his complex polyrhythmic arrangements on Epitaph, Cosmogenesis, and Omnivium required. He switched to a DW kit in 2014 while co-founding Alkaloid."
       },
       {
         question: "What cymbals does Hannes Grossmann play?",
@@ -7814,7 +7814,7 @@ This guide covers Grossmann's technique in depth — classical influences, open-
       drummerProfile: '/drummer/hannes-grossmann',
       similarDrummers: ['Sean Reinert', 'Matt Garstka', 'Flo Mounier'],
       relatedGuides: ['how-to-sound-like-sean-reinert', 'how-to-sound-like-flo-mounier', 'how-to-sound-like-alex-rudinger'],
-      gearPages: ['/gear/pedals', '/brands/dw', '/brands/meinl']
+      gearPages: ['/gear/pedals', '/brands/tama', '/brands/meinl']
     },
     licksUrl: '/drummers/hannes-grossmann/licks',
     relatedArticles: [

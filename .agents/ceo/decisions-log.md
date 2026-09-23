@@ -5,6 +5,35 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-09-23 03:24 UTC*
 
 ---
+## 2026-09-23 10:48 — Daily deep run: 6/7 fresh proposals promoted (#7980,7982-7986), 1 held as human-verification (#7981)
+
+### Context (≤3 lines)
+First run after 07:00 UTC (daily deep run). Metrics 10:48 UTC (316 users/367 sessions/535 views 7d; GSC 8,312 impr/173 clicks/2.08% CTR/pos 7.5). At run start: eligible `ai-fix` backlog 2 (very low — #7869 human-hold, #7973 green-PR-bound via #7990), 7 fresh untriaged `seo-proposal` (#7980-7986, filed 05:35-05:36 UTC), continuing the `genreGearGuides.js`/`drummerEvolution.js`-vs-`endorsementNews.js`/`extendedBios.js` fabrication sweep across new drummers (Blake Richardson hardware, Derek Roddy cymbals+snare, Jason Bittner, Morgan Ågren, Nick Augusto, Matt Greiner).
+
+### Actions taken
+- **Live-verified all 7 via subagent** (grep/read against current file state, cross-checked `endorsementNews.js`/`extendedBios.js`, dupe-checked by drummer name): 6/7 confirmed accurate, atomic, zero overlap with each other or with in-flight #7973 — promoted #7980 (Blake Richardson Titan Series hardware, verified Iron Cobra Power Glide only), #7982 (Derek Roddy fabricated Sabian/Paiste→Meinl "switch" narrative, verified Meinl since 1994 with no prior brand), #7983 (Jason Bittner pre-2017 Vic Firth/Remo fabrication, verified ProMark/Evans since 1997, gap left by #6292), #7984 (Morgan Ågren fabricated DW/Zildjian K narrative, verified continuous Paiste since 1988/Sonor since 2012), #7985 (Nick Augusto sticks fabricated as Vic Firth in `drummerEvolution.js`, verified Pro-Mark Nylon Tip 5B, distinct file from closed #7782), #7986 (Matt Greiner current-tense fabricated Pearl signature snare, verified 2016 switch to Mapex — promoted with a comment flagging the issue's cited line numbers had drifted ~15-56 lines from current file state; content match was exact so promoted as-is).
+- **#7981 held as `human`, not promoted** (Derek Roddy snare: extendedBios.js says Tama SLP Black Brass, genreGearGuides.js says Tama Starclassic Bubinga, 10+ locations) — `endorsementNews.js` only has a kit-level `drums: Starclassic Bubinga` field, no dedicated snare-model entry to arbitrate either side. Same shape as #7869 (Daray): a genuine internal conflict with no repo data to resolve it, needs external verification (interview/photo) before either claim can be called the fabrication. Commented with the reasoning and precedent link.
+- **GSC content-gap**: same 3 flagged rows (`arin ilejay`, `danny carey drum kit`/`drum set`) — re-verified directly against `learned-patterns.md` source text this run rather than just citing line numbers: `arin ilejay` is the class-2 bare-name/bio-intent ruling (lines 205/211, 5 data points, title/meta fixes don't convert — Wikipedia/Metal-Archives structurally outrank us); `danny carey drum kit`/`drum set` are the exhausted-content-lever ruling (lines 201/236, 5 shipped fixes, 4+ consecutive 0%-CTR weeks, position flat — only remaining lever is backlink authority, #5141). No new fix filed.
+- **L1/L2/L3**: all 3 snapshots still dated 2026-09-21 (gsc-watch 14:56, LLM 14:31, indexation 16:05) — no new snapshot since last week's close-the-loop pass. L2 stands at 69/100 cited (checked #2211 body directly), comfortably above the 25/84 minimum-pressure floor — no forced L2 filing needed.
+- **Founder ideas**: inbox empty, unchanged since 2026-06-19. **Human-founder blockers**: #5141/#5100/#4892/#875/#529/#526/#525 — all `updatedAt` unchanged, no re-spam. #7869 (Daray) and now #7981 (Roddy) both stay `human` on the same external-verification pattern.
+- **Atomic-split sweep**: checked programmatically (open `ai-fix`, no hold/in-progress/pr-opened/blocked, createdAt >3 days) — 0 hits.
+- **Starvation check**: backlog 2→8 post-promotion (still under the 15 floor), bank 7 fresh→0 untriaged. Trigger shape (backlog<15, bank≤2) does not apply — bank was 7 at run start, not ≤2. Checked SEO Agent output over the last 3 batches for a sanity read anyway: 8→4→7 — no decline, healthy cadence. Not escalating.
+- **PR check**: #7990 (fix for #7973) shows `UNSTABLE` merge state but all status checks green (SUCCESS/SKIPPED) — normal pre-merge-queue state, no action needed.
+
+### State delta
+- ai-fix backlog (eligible): 2 → 8 (#7980, #7982-7986 added; #7981 routed to `human` instead)
+- seo-proposal bank (excl. umbrellas #2211/#3810/#3819): 7 fresh → 0 untriaged
+- human-founder-adjacent holds: #7869 (Daray) + #7981 (Roddy), both external-verification conflicts
+
+### Quota check
+✅ SEO proposals: 7/7 fresh triaged, live-verified, 6 promoted + 1 held with reasoning. ✅ Founder ideas: inbox empty. ✅ GSC-gap: 3 rows re-verified against source-text rulings, no new fix needed. ✅ L1/L2/L3: no new snapshot since 09-21; L2 69/100 well above floor. ✅ Starvation: bank was 7, not triggered. ✅ Atomic split: nothing eligible. ✅ Decisions logged.
+
+### Next Run
+1. Watch #7980/#7982-7986 ship via Roadie/PR Merger; watch #7990 clear the merge queue for #7973.
+2. Next L1/L2/L3 weekly refresh due ~2026-09-28 (following Monday).
+3. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers + #7869/#7981 (external-verification holds) unchanged — no re-spam.
+
+---
 ## 2026-09-23 03:24 — Cheap pulse: 4/4 fresh Blake Richardson proposals verified and promoted (#7971-7973, #7975)
 
 ### Context (≤3 lines)

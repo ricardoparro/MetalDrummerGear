@@ -19804,7 +19804,7 @@ export const DRUMMER_EVOLUTION = {
 
   // ==========================================
   // Daray - Dimmu Borgir / ex-Vader (Drummer Evolution batch 24, Issue #3682)
-  // Undocumented Vader years -> Pearl/Paiste rig through Dimmu Borgir's Abrahadabra to Grand Serpent Rising
+  // Undocumented Vader years -> Pearl/Paiste rig for Abrahadabra -> Tama/Paiste rig for Eonian through Grand Serpent Rising
   // ==========================================
   'daray': {
     slug: 'daray',
@@ -19812,7 +19812,7 @@ export const DRUMMER_EVOLUTION = {
     band: 'Dimmu Borgir',
     totalYearsActive: '2004-Present',
     profileImage: '/images/drummers/daray.webp',
-    summary: 'Dariusz "Daray" Brzozowski stepped in for an injured Krzysztof "Doc" Raczkowski in Vader in 2004, then crossed straight from his final Vader show into Dimmu Borgir\'s audition room in August 2008, building the Pearl Masterworks Stadium Exotic / Paiste RUDE rig that has carried the band\'s symphonic black metal from "Abrahadabra" (2010) through 2026\'s "Grand Serpent Rising."',
+    summary: 'Dariusz "Daray" Brzozowski stepped in for an injured Krzysztof "Doc" Raczkowski in Vader in 2004, then crossed straight from his final Vader show into Dimmu Borgir\'s audition room in August 2008, building the Pearl Masterworks Stadium Exotic / Paiste RUDE rig behind "Abrahadabra" (2010) before switching to a Tama Starclassic Performer B/B kit by 2014, the rig that has carried the band\'s symphonic black metal through 2026\'s "Grand Serpent Rising."',
 
     eras: [
       {
@@ -19953,23 +19953,23 @@ export const DRUMMER_EVOLUTION = {
         years: '2018–Present',
         startYear: 2018,
         endYear: 2026,
-        description: 'Brzozowski recorded Dimmu Borgir\'s "Eonian" (2018) and, after an eight-year wait, the band\'s tenth studio album "Grand Serpent Rising" (2026), tracked in Gothenburg with longtime collaborator Fredrik Nordström and released on Nuclear Blast Records. His Pearl Masterworks / Paiste RUDE rig has remained unchanged across both albums, continuing to anchor Dimmu Borgir\'s orchestral, theatrical brand of symphonic black metal.',
+        description: 'Brzozowski recorded Dimmu Borgir\'s "Eonian" (2018) and, after an eight-year wait, the band\'s tenth studio album "Grand Serpent Rising" (2026), tracked in Gothenburg with longtime collaborator Fredrik Nordström and released on Nuclear Blast Records. By his July 5, 2014 appearance at the TAMA 40th Anniversary Drum Festival he had switched to a Tama Starclassic Performer B/B (Piano Black) kit with a Tama S.L.P. Black Brass snare, confirmed on TAMA\'s official artist page — the rig documented across both albums. His Paiste RUDE cymbal setup continued unchanged.',
         albums: ['Dimmu Borgir: Eonian (2018)', 'Dimmu Borgir: Grand Serpent Rising (2026)'],
         tours: ['Dimmu Borgir World Tours (2018–present)'],
         image: null,
 
         gear: {
           drums: {
-            item: 'Pearl Masterworks Stadium Exotic',
-            details: 'Unchanged configuration',
-            notes: 'No change — the rig established during the Abrahadabra era remains his documented setup.',
-            change: null,
+            item: 'Tama Starclassic Performer B/B (Piano Black)',
+            details: 'Birch/bubinga hybrid shell pack, Piano Black finish',
+            notes: 'Switched from Pearl to Tama by his July 5, 2014 appearance at the TAMA 40th Anniversary Drum Festival, per TAMA\'s official artist page.',
+            change: CHANGE_TYPES.SWITCH,
           },
           snare: {
-            item: 'Pearl Reference 14"x5.5" Brass',
-            details: 'Unchanged',
-            notes: 'No change from the previous era.',
-            change: null,
+            item: 'Tama S.L.P. Black Brass (LBR1465)',
+            details: '14"x6.5" Black Brass shell',
+            notes: 'Switched alongside the drum kit; confirmed on TAMA\'s official artist page.',
+            change: CHANGE_TYPES.SWITCH,
           },
           cymbals: {
             item: 'Paiste RUDE & 2002 Series',
@@ -20007,7 +20007,8 @@ export const DRUMMER_EVOLUTION = {
           'Recorded Eonian (2018)',
           'Recorded Grand Serpent Rising (2026), Dimmu Borgir\'s tenth studio album, after an eight-year gap',
           'Grand Serpent Rising tracked in Gothenburg with producer Fredrik Nordström',
-          'Pearl Masterworks / Paiste RUDE rig unchanged since the Abrahadabra era',
+          'Switched from Pearl to Tama (Starclassic Performer B/B, S.L.P. Black Brass snare) by his July 5, 2014 TAMA 40th Anniversary Drum Festival appearance',
+          'Paiste RUDE cymbal setup unchanged since the Abrahadabra era',
         ],
 
         videos: [],
@@ -20017,7 +20018,7 @@ export const DRUMMER_EVOLUTION = {
     faqs: [
       {
         q: 'What drum kit does Daray play?',
-        a: 'Daray plays a Pearl Masterworks Stadium Exotic kit with a Pearl Reference 14"x5.5" Brass snare, Paiste RUDE & 2002 Series cymbals, and a Pearl Demon XR double pedal — a rig established during Dimmu Borgir\'s Abrahadabra era (2010) and unchanged through Grand Serpent Rising (2026).',
+        a: 'Daray played a Pearl Masterworks Stadium Exotic kit with a Pearl Reference 14"x5.5" Brass snare during Dimmu Borgir\'s Abrahadabra era (2010), before switching to a Tama Starclassic Performer B/B (Piano Black) kit with a Tama S.L.P. Black Brass snare by his July 5, 2014 TAMA 40th Anniversary Drum Festival appearance — the Tama rig documented through Eonian (2018) and Grand Serpent Rising (2026). His Paiste RUDE & 2002 Series cymbals and Pearl Demon XR double pedal have remained constant.',
       },
       {
         q: 'Was Daray in Vader before Dimmu Borgir?',
@@ -20038,7 +20039,7 @@ export const DRUMMER_EVOLUTION = {
     ],
 
     metaTitle: 'Daray Gear Evolution Timeline | Dimmu Borgir Drum Kit History',
-    metaDescription: 'Explore Daray\'s complete drum gear evolution: from the undocumented Vader years (2004–2008) through the Pearl Masterworks Stadium Exotic / Paiste RUDE rig behind Dimmu Borgir\'s Abrahadabra (2010), Eonian (2018), and 2026\'s Grand Serpent Rising.',
+    metaDescription: 'Explore Daray\'s complete drum gear evolution: from the undocumented Vader years (2004–2008) through the Pearl Masterworks Stadium Exotic rig behind Dimmu Borgir\'s Abrahadabra (2010), to the Tama Starclassic Performer B/B rig behind Eonian (2018) and 2026\'s Grand Serpent Rising.',
   },
 
   // ==========================================

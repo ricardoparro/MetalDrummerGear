@@ -80074,13 +80074,13 @@ Budget shouldn't stop you either. A Pearl Demonator or Tama Iron Cobra 600 will 
       title: "Why Power Metal Needs a Bright, Cutting Snare",
       content: `Power metal's soaring vocal melodies, galloping riffs, and sustained double-bass patterns need a snare that cuts through a dense, often orchestral or keyboard-heavy mix without ever sounding harsh. That means power metal drummers generally favor brighter, more cutting tones than doom or sludge metal's deep, resonant approach — a snare voice built to punctuate anthemic choruses and stay articulate at high tempos.
 
-Scott Travis has run his own ddrum Scott Travis Signature 14"x6.5" snare, part of his ddrum Dominion Series shell pack, since switching to ddrum for Judas Priest's "Firepower" (2018), carrying through to "Invincible Shield" (2024). Aquiles Priester's Mapex Saturn Evolution 14"x6.5" snare, part of his signature kit, gives Angra's neoclassical, high-tempo material its cutting attack. Nicko McBrain's Sonor Nicko McBrain Signature 14"x6.5" snare has anchored Iron Maiden's galloping anthems from "Virtual XI" (1998) through "Senjutsu" (2021). Mikkey Dee's Sonor SQ2 Mikkey Dee Signature 14"x7.25" birch snare, built on his longtime Sonor SQ2 endorsement dating back to his King Diamond days, carried the final years of his 23-year Motörhead tenure and now continues with Scorpions.
+Scott Travis has run his own ddrum Scott Travis Signature 14"x6.5" snare, part of his ddrum Dominion Series shell pack, since switching to ddrum for Judas Priest's "Firepower" (2018), carrying through to "Invincible Shield" (2024). Aquiles Priester's Mapex Saturn Evolution 14"x6.5" snare, part of his signature kit, gives Angra's neoclassical, high-tempo material its cutting attack. Nicko McBrain's Sonor Nicko McBrain Signature 14"x6.5" snare has anchored Iron Maiden's galloping anthems since he switched to Sonor in 2010, and it continues within his current British Drum Co. kit (since 2019). Mikkey Dee's Sonor SQ2 Mikkey Dee Signature 14"x7.25" birch snare, built on his longtime Sonor SQ2 endorsement dating back to his King Diamond days, carried the final years of his 23-year Motörhead tenure and now continues with Scorpions.
 
 This guide breaks down shell material, brightness, and projection for power metal snares — comparing four drummers whose setups define the genre's cutting, anthemic sound, with recommendations from budget to professional touring rigs.`,
       keyPoints: [
         "Scott Travis's ddrum Scott Travis Signature snare has anchored Judas Priest since \"Firepower\" (2018)",
         "Aquiles Priester's Mapex Saturn Evolution snare cuts through Angra's neoclassical, high-tempo material",
-        "Nicko McBrain's Sonor Signature snare has powered Iron Maiden's galloping anthems since 1998",
+        "Nicko McBrain's Sonor Signature snare has powered Iron Maiden's galloping anthems since 2010, continuing within his current British Drum Co. kit",
         "Bright, cutting purpose-built and steel shells dominate power metal, prioritizing projection over deep resonance"
       ]
     },
@@ -80110,7 +80110,7 @@ This guide breaks down shell material, brightness, and projection for power meta
         {
           name: "Sensitivity for Galloping Patterns",
           icon: "🐎",
-          description: "Iron Maiden's signature galloping rhythm, which Nicko McBrain's Sonor Signature snare has carried since \"Virtual XI\" (1998), demands a snare that responds cleanly to rapid, syncopated patterns without buzzing or choking.",
+          description: "Iron Maiden's signature galloping rhythm, which Nicko McBrain's Sonor Signature snare has carried since 2010 and continues to carry within his current British Drum Co. kit, demands a snare that responds cleanly to rapid, syncopated patterns without buzzing or choking.",
           recommendation: "High-strand-count wires for clean response on rapid, syncopated galloping rhythms"
         },
         {
@@ -80182,7 +80182,7 @@ Travis's signature shell shows how a snare built to a drummer's own specificatio
           tier: "premium",
           material: "Steel (14x6.5\")",
 
-          description: `Nicko McBrain's Sonor Nicko McBrain Signature 14"x6.5" steel snare has anchored Iron Maiden's galloping anthems since he adopted his current Sonor SQ1/SQ2 rig around "Virtual XI" (1998), carrying through to "Senjutsu" (2021). The signature spec is tuned to punch through Maiden's dual/triple-guitar harmonies while staying crisp enough for the band's signature galloping rhythm.
+          description: `Nicko McBrain's Sonor Nicko McBrain Signature 14"x6.5" steel snare has anchored Iron Maiden's galloping anthems since he switched to his Sonor SQ2 rig in 2010, and it continues to anchor his kit today, carried over into his current British Drum Co. setup (since 2019). The signature spec is tuned to punch through Maiden's dual/triple-guitar harmonies while staying crisp enough for the band's signature galloping rhythm.
 
 McBrain's decades-long partnership with this signature spec proves a steel shell tuned for bright cut can anchor some of metal's most enduring anthemic material.`,
 
@@ -80190,7 +80190,7 @@ McBrain's decades-long partnership with this signature spec proves a steel shell
             "Nicko McBrain's current Iron Maiden setup — decades of galloping anthem pedigree",
             "Signature spec tuned specifically for Maiden's dual/triple-guitar harmonies",
             "6.5\" depth adds anthemic body without sacrificing cut",
-            "Proven across \"Virtual XI\" (1998) through \"Senjutsu\" (2021)",
+            "Proven since his 2010 Sonor switch, carrying into his current British Drum Co. kit (since 2019)",
             "Sonor build quality built for decades of touring"
           ],
           cons: [
@@ -80206,7 +80206,7 @@ McBrain's decades-long partnership with this signature spec proves a steel shell
             wires: "20-strand"
           },
           usedBy: [
-            { name: "Nicko McBrain", band: "Iron Maiden", note: "14x6.5\" Sonor Signature — galloping anthem projection since 1998" }
+            { name: "Nicko McBrain", band: "Iron Maiden", note: "14x6.5\" Sonor Signature — galloping anthem projection since 2010, carried into his current British Drum Co. kit" }
           ],
           verdict: "Best for galloping, anthemic power metal. Decades-proven cut through dual/triple-guitar arrangements.",
           rating: 4.7,

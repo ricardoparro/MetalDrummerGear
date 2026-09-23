@@ -3003,12 +3003,12 @@ export const ENDORSEMENT_TIMELINE = {
     },
     timeline: [
       {
-        year: 2016,
+        year: 2017,
         changeType: ENDORSEMENT_CHANGE_TYPES.SIGNED,
         category: ENDORSEMENT_CATEGORIES.DRUMS,
         from: null,
         to: 'Tama',
-        notes: 'Signed with Tama drums upon joining Trivium in 2016 (recording debut 2017), replacing Paul Wandtke, after his 2008-2017 run in technical death metal outfit Arkaik',
+        notes: 'Signed with Tama drums upon joining Trivium in 2017, replacing Paul Wandtke, after his 2008-2017 run in technical death metal outfit Arkaik',
       },
       {
         year: 2017,

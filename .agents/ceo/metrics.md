@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-09-23 13:29 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-09-23 16:08 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,10 +8,10 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 320 |
-| Sessions | 371 |
-| Page views | 541 |
-| Engagement rate | 61.19% |
+| Active users | 323 |
+| Sessions | 373 |
+| Page views | 544 |
+| Engagement rate | 60.86% |
 | Avg session (s) | 99 |
 
 ### Top pages (by page views, last 7d)
@@ -31,17 +31,17 @@
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 301 | 250 |
+| Organic Search | 301 | 251 |
 | Direct | 52 | 52 |
-| Unassigned | 20 | 18 |
-| Cross-network | 14 | 14 |
-| AI Assistant | 1 | 1 |
+| Unassigned | 22 | 20 |
+| Cross-network | 15 | 15 |
+| AI Assistant | 2 | 2 |
 | Referral | 1 | 1 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 137 | 114 |
+| United States | 138 | 115 |
 | United Kingdom | 32 | 17 |
 | Singapore | 22 | 22 |
 | Germany | 16 | 12 |
@@ -55,45 +55,45 @@
 ## Search Console — Search performance
 | Metric | Last 7d |
 | --- | --- |
-| Impressions | 8,312 |
-| Clicks | 173 |
-| CTR | 2.08% |
+| Impressions | 9,963 |
+| Clicks | 214 |
+| CTR | 2.15% |
 | Avg position | 7.5 |
 
 ### Top queries
 | Query | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
 | hellhammer drum kit | 4 | 2 | 50.00% | 3.0 |
-| arin ilejay | 333 | 1 | 0.30% | 11.2 |
-| best death metal drummers | 3 | 1 | 33.33% | 6.0 |
-| best metal drummers of all time | 35 | 1 | 2.86% | 8.7 |
+| arin ilejay | 397 | 1 | 0.25% | 11.4 |
+| best death metal drummers | 4 | 1 | 25.00% | 7.3 |
+| best metal drummers of all time | 47 | 1 | 2.13% | 8.8 |
 | bill ward cymbals | 3 | 1 | 33.33% | 5.7 |
 | bill ward paranoid drum kit | 1 | 1 | 100.00% | 4.0 |
-| danny carey drum kit | 84 | 1 | 1.19% | 10.5 |
-| danny carey drum set | 99 | 1 | 1.01% | 10.9 |
-| danny carey drum setup | 27 | 1 | 3.70% | 10.8 |
+| danny carey drum kit | 92 | 1 | 1.09% | 10.5 |
+| danny carey drum set | 108 | 1 | 0.93% | 10.8 |
+| danny carey drum setup | 28 | 1 | 3.57% | 10.7 |
 | death metal drum kit | 3 | 1 | 33.33% | 16.0 |
 
 ### Top countries (impressions, last 7d)
 | Country | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| usa | 3,152 | 65 | 2.06% | 7.9 |
-| deu | 293 | 12 | 4.10% | 7.0 |
-| fra | 201 | 10 | 4.98% | 7.0 |
-| can | 521 | 8 | 1.54% | 7.7 |
-| ita | 156 | 8 | 5.13% | 6.0 |
-| gbr | 520 | 7 | 1.35% | 7.9 |
-| fin | 123 | 6 | 4.88% | 6.6 |
-| aus | 380 | 5 | 1.32% | 7.6 |
-| arg | 57 | 4 | 7.02% | 7.6 |
-| bra | 230 | 4 | 1.74% | 6.9 |
+| usa | 3,770 | 77 | 2.04% | 7.7 |
+| deu | 356 | 12 | 3.37% | 7.1 |
+| fra | 229 | 11 | 4.80% | 6.8 |
+| gbr | 615 | 9 | 1.46% | 8.1 |
+| can | 611 | 8 | 1.31% | 7.7 |
+| fin | 157 | 8 | 5.10% | 6.7 |
+| ita | 181 | 8 | 4.42% | 6.2 |
+| aus | 441 | 6 | 1.36% | 7.7 |
+| arg | 68 | 4 | 5.88% | 7.2 |
+| bra | 300 | 4 | 1.33% | 6.7 |
 
 ### 🎯 Content-gap queries (impr ≥50, CTR <2%) — CEO MUST address
 | Query | Impr | CTR | Pos | Action |
 | --- | --- | --- | --- | --- |
-| arin ilejay | 333 | 0.30% | 11.2 | open issue to answer better |
-| danny carey drum kit | 84 | 1.19% | 10.5 | open issue to answer better |
-| danny carey drum set | 99 | 1.01% | 10.9 | open issue to answer better |
+| arin ilejay | 397 | 0.25% | 11.4 | open issue to answer better |
+| danny carey drum kit | 92 | 1.09% | 10.5 | open issue to answer better |
+| danny carey drum set | 108 | 0.93% | 10.8 | open issue to answer better |
 
 ---
 *Re-run manually: `node .agents/scripts/fetch-metrics.cjs`*

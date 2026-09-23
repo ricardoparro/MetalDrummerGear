@@ -5,6 +5,34 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-09-23 03:24 UTC*
 
 ---
+## 2026-09-23 16:09 — Mid-day pulse: 8/8 fresh proposals verified and promoted (#7991-7998)
+
+### Context (≤3 lines)
+First run after 13:00 UTC (mid-day pulse). Metrics 16:08 UTC (323 users/373 sessions/544 views 7d; GSC 9,963 impr/214 clicks/2.15% CTR/pos 7.5). At run start: eligible `ai-fix` backlog 2 (#7981 human-hold, PR #8003 mid-flight), 8 fresh untriaged `seo-proposal` (#7991-7998, filed 12:43-12:44 UTC), continuing the fabrication sweep across `genreGearGuides.js`/`drummerEvolution.js`/`soundLikeGuides.js` (Mikkey Dee 2nd pedal guide, Nicko McBrain snare-switch date, Shannon Larkin, Paul Mazurkiewicz, Danny Carey, Hannes Grossmann, Richard Christy, Matt Halpern).
+
+### Actions taken
+- **Live-verified all 8 via subagent** (grep/read against current file state, cross-checked `endorsementNews.js`/`extendedBios.js`, dupe/overlap-checked): all 8 confirmed accurate, text-only fixes on existing pages, freeze-compliant, no overlapping line regions with each other or open `ai-fix` issues. Promoted #7991 (Mikkey Dee Demon Drive fabrication in a *second* untouched power-metal pedal guide, verified DW 5000 Series), #7992 (Nicko McBrain Sonor switch mis-dated to 1998 "Virtual XI", verified 2010 + 2019 British Drum Co. move omitted), #7993 (Shannon Larkin 2003/2010 eras still fabricate Tama/Vater, verified continuous ddrum/Vic Firth since 2002), #7994 (Paul Mazurkiewicz hardware fabricated as "Pearl Demon Drive", verified Pearl Eliminator since 1990s), #7995 (Danny Carey soundLikeGuides snare dims + invented "Dark Energy" cymbal line survived #6435's narrower fix), #7996 (Hannes Grossmann DW kit backdated ~13yrs over his Necrophagist/Obscura era, verified Tama until 2014), #7997 (Richard Christy cymbals invented + sticks/heads half-omitted, #6682's fix only touched FAQ pedal clause), #7998 (Matt Halpern pre-2015 eras show Pearl throughout, verified Mapex→Yamaha→Pearl(2015) progression).
+- **#7992 line-number correction**: subagent found the issue's cited lines (~L104504-104840) are stale — actual content is ~24,700 lines earlier (genreGearGuides.js L80031-80211). Commented with the correct location before promoting so the implementer locates by content, not by drifted line number.
+- **GSC content-gap**: same 3 flagged rows (`arin ilejay` 397 impr/0.25% CTR, `danny carey drum kit`/`drum set`) — unchanged from prior rulings (class-2 bare-name/bio-intent for arin ilejay, exhausted-content-lever for danny carey per `learned-patterns.md` lines 205/211/201/236). No new fix filed.
+- **L1/L2/L3**: all 3 snapshots still dated 2026-09-21 — next refresh due ~2026-09-28 (Monday). Not due.
+- **Founder ideas**: inbox empty, unchanged since 2026-06-19. **Human-founder blockers**: #5141/#5100/#4892/#875/#529/#526/#525 unchanged, no re-spam. #7869 (Daray) + #7981 (Roddy) remain `human`-held on external-verification conflicts.
+- **PR check**: #8003 (fix for #7985) shows `UNSTABLE` merge state but all status checks green (SUCCESS/SKIPPED) — same normal pre-merge-queue state noted in the 10:48 entry, no action needed.
+- **Atomic-split sweep**: checked programmatically — 0 hits (nothing non-hold open >3 days).
+- **Starvation check**: post-triage backlog 2→10 (<15), untriaged bank 8→0 (only #7981 remains, `human`-labeled not untriaged) — trigger shape technically met, but SEO Agent output over the last 4 batches (8→4→7→8) shows healthy, stable cadence with no decline. This is the expected batch-drain shape immediately after a full triage, not sustained starvation — not escalating, matches the 2026-09-20 precedent for this exact pattern.
+
+### State delta
+- ai-fix backlog (eligible): 2 → 10 (#7991-7998 added; #7981 stays `human`)
+- seo-proposal bank (excl. umbrellas #2211/#3810/#3819, excl. `human`-held #7981): 8 fresh → 0 untriaged
+
+### Quota check
+✅ SEO proposals: 8/8 fresh triaged, live-verified, all promoted. ✅ Founder ideas: inbox empty. ✅ GSC-gap: 3 rows reconfirmed against existing rulings, no new fix needed. ✅ L1/L2/L3: not due until 09-28. ✅ Starvation: technically triggered, non-event (healthy SEO Agent cadence, batch-drain shape). ✅ Atomic split: nothing eligible. ✅ Decisions logged.
+
+### Next Run
+1. Watch #7991-7998 pick up via Roadie; watch #8003 clear the merge queue for #7985.
+2. Next L1/L2/L3 weekly refresh due 2026-09-28 (Monday) — full close-the-loop pass once it lands.
+3. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers + #7869/#7981 (external-verification holds) unchanged — no re-spam.
+
+---
 ## 2026-09-23 10:48 — Daily deep run: 6/7 fresh proposals promoted (#7980,7982-7986), 1 held as human-verification (#7981)
 
 ### Context (≤3 lines)

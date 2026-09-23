@@ -104544,14 +104544,14 @@ Start with whichever approach matches your material's demands — groove and dur
       title: "Why Power Metal Rewards Stamina and Consistency Over Peak Speed",
       content: `Power metal's galloping, triplet-based rhythms don't test a pedal's absolute top-end speed the way a blast beat does — they test whether that pedal can deliver the exact same response, hit after hit, for an entire 90-minute festival set of sustained mid-tempo double-kick patterns. A pedal that feels fast for the first three songs and then fatigues your ankle or loses consistency by song forty is worse than one that's simply reliable from start to finish.
 
-Scott Travis drives Judas Priest's twin bass drums with a DW 9000 Series double pedal mounted on a Gibraltar rack, part of the ddrum-era setup that's carried "Painkiller" (1990)'s foundational blueprint forward since "Firepower" (2018). Aquiles Priester relies on the same DW 9000 Series double pedal to sustain his relaxation-based, 180-220+ BPM neoclassical double-bass technique on Angra's current rig. Nicko McBrain has never used a double pedal at all — Iron Maiden's entire galloping, triplet-based rhythmic vocabulary runs through one precise DW single pedal. Mikkey Dee's Pearl Demon Drive double pedal has carried him through 23+ years of Motörhead's relentless touring and into Scorpions' festival-circuit schedule without a platform change.
+Scott Travis drives Judas Priest's twin bass drums with a DW 9000 Series double pedal mounted on a Gibraltar rack, part of the ddrum-era setup that's carried "Painkiller" (1990)'s foundational blueprint forward since "Firepower" (2018). Aquiles Priester relies on the same DW 9000 Series double pedal to sustain his relaxation-based, 180-220+ BPM neoclassical double-bass technique on Angra's current rig. Nicko McBrain has never used a double pedal at all — Iron Maiden's entire galloping, triplet-based rhythmic vocabulary runs through one precise DW single pedal. Mikkey Dee's DW 5000 Series double pedal has carried him through 23+ years of Motörhead's relentless touring and into Scorpions' festival-circuit schedule without a platform change.
 
 This guide breaks down what actually matters for power metal's sustained, mid-tempo double-kick demands — comparing what these four influential drummers play and why, with recommendations across every budget.`,
       keyPoints: [
         "Power metal tests sustained consistency across long, gallop-heavy sets more than peak double-bass speed",
         "Scott Travis and Aquiles Priester both drive their kicks with a DW 9000 Series double pedal for sustained speed",
         "Nicko McBrain has never used a double pedal — Iron Maiden's entire galloping foundation runs through one precise DW pedal",
-        "Mikkey Dee's Pearl Demon Drive has proven reliable across 23+ years of Motörhead and Scorpions touring without a platform change"
+        "Mikkey Dee's DW 5000 Series double pedal has proven reliable across 23+ years of Motörhead and Scorpions touring without a platform change"
       ]
     },
 
@@ -104580,7 +104580,7 @@ This guide breaks down what actually matters for power metal's sustained, mid-te
         {
           name: "Touring Durability",
           icon: "🛡️",
-          description: "Mikkey Dee's Pearl Demon Drive has held up across 23+ years of Motörhead's relentless touring and into Scorpions' arena and festival schedule without a platform change — proof reliability matters as much as top-end speed at the professional level.",
+          description: "Mikkey Dee's DW 5000 Series double pedal has held up across 23+ years of Motörhead's relentless touring and into Scorpions' arena and festival schedule without a platform change — proof reliability matters as much as top-end speed at the professional level.",
           recommendation: "Reinforced construction and quality bearings that hold up to a demanding festival-circuit touring schedule"
         },
         {
@@ -104673,40 +104673,40 @@ For power metal drummers whose material leans on gallop-first, triplet-based rhy
         },
         {
           rank: 3,
-          name: "Pearl Demon Drive",
-          brand: "Pearl",
-          model: "P3002D Demon Drive",
-          image: "https://upload.wikimedia.org/wikipedia/commons/b/b1/Tama_Iron_Cobra_double_bass_drum_pedal.jpg",
-          priceRange: "€500-600",
+          name: "DW 5000 Series Double Pedal",
+          brand: "DW",
+          model: "DWCP5002 Double Pedal",
+          image: "https://upload.wikimedia.org/wikipedia/commons/7/74/Dixon-double-pedal.jpg",
+          priceRange: "€400-500",
           tier: "pro",
-          driveType: "Direct Drive",
-          description: `Mikkey Dee's Pearl Demon Drive double pedal has carried him through the final chapter of his 23-year Motörhead tenure and remains his platform with Scorpions, proving reliable across arena and festival stages without a platform change. The NiNjA bearing system delivers virtually frictionless action, while Click-Lock spring tension keeps adjustments precise across a demanding festival-circuit touring schedule.
+          driveType: "Chain Drive",
+          description: `Mikkey Dee's DW 5000 Series double pedal has carried him through the final chapter of his 23-year Motörhead tenure and remains his platform with Scorpions, proving reliable across arena and festival stages without a platform change. The interchangeable cam system delivers smooth, consistent action, while the dual bearing spring rocker keeps adjustments precise across a demanding festival-circuit touring schedule.
 
 For power metal's biggest festival-headlining bands, that kind of set-to-set, tour-to-tour reliability matters as much as raw top-end speed.`,
           pros: [
             "Mikkey Dee's setup — proven across 23+ years of relentless Motörhead and Scorpions touring",
-            "NiNjA bearing system for ultimate smoothness",
-            "Click-Lock spring tension adjustment stays precise across demanding tours",
-            "Direct drive delivers instant, linear response for sustained double-bass runs"
+            "Interchangeable cam system for a customizable feel",
+            "Dual bearing spring rocker stays precise across demanding tours",
+            "Chain drive delivers reliable, consistent response for sustained double-bass runs"
           ],
           cons: [
             "Less directly tied to power metal's fantasy-themed lyrical tradition",
-            "Direct drive takes adjustment if coming from chain drive",
-            "Premium price point"
+            "Fewer adjustment options than DW's 9000 Series",
+            "Chain drive feels less refined than direct-drive flagship pedals"
           ],
           specs: {
-            drive: "Direct Drive (interchangeable cams)",
-            cam: "Eccentric cam",
-            frame: "Aircraft-grade aluminum",
-            beater: "Demon Beater (reversible)",
-            footboard: "PowerShifter longboard"
+            drive: "Chain Drive (interchangeable cams)",
+            cam: "Interchangeable cam",
+            frame: "Machined aluminum",
+            beater: "DW SM101 (reversible)",
+            footboard: "Standard Longboard"
           },
           usedBy: [
-            { name: "Mikkey Dee", band: "Motörhead / Scorpions", note: "Pearl Demon Drive — touring stamina across two legendary bands" }
+            { name: "Mikkey Dee", band: "Motörhead / Scorpions", note: "DW 5000 Series Double Pedal — touring stamina across two legendary bands" }
           ],
           verdict: "Best for touring stamina. Dee's setup brings arena-level reliability to power metal's biggest stages.",
           rating: 4.5,
-          affiliateLink: "https://www.thomann.de/intl/pearl_p3002d_demon_drive_double.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/dw_dwcp5002_double_pedal.htm?partner_id=metalforge"
         }
       ]
     },
@@ -104731,18 +104731,18 @@ For power metal's biggest festival-headlining bands, that kind of set-to-set, to
           affiliateLink: "https://www.thomann.de/intl/tama_hp600dtw_iron_cobra_600_double.htm?partner_id=metalforge"
         },
         {
-          name: "Pearl Eliminator Redline",
-          brand: "Pearl",
-          model: "P2052C Eliminator Redline",
-          priceRange: "€350-400",
+          name: "DW 3000 Series Double Pedal",
+          brand: "DW",
+          model: "DWCP3002 Double Pedal",
+          priceRange: "€300-350",
           tier: "mid",
           material: "Cast aluminum",
-          description: "The Eliminator Redline brings many features from Mikkey Dee's Demon Drive at a more accessible price. The interchangeable cam system lets you experiment with different feels, and the NiNjA bearings are the same as the flagship model.",
-          pros: ["Interchangeable cams included", "NiNjA bearing system shared with the Demon Drive", "Solid build quality for developing players"],
-          cons: ["Chain drive limits ultimate speed versus direct drive", "Not as refined as the Demon Drive"],
-          verdict: "Best mid-range path toward Mikkey Dee's Pearl sound.",
-          rating: 4.3,
-          affiliateLink: "https://www.thomann.de/intl/pearl_p2052c_eliminator_redline.htm?partner_id=metalforge"
+          description: "The DW 3000 Series brings many of the same cam and drive features as Mikkey Dee's 5000 Series at a more accessible price. The interchangeable cam system lets you experiment with different feels on a genuinely durable, DW-built pedal.",
+          pros: ["Interchangeable cams included", "Same drive-feel DNA as the 5000 Series", "Solid build quality for developing players"],
+          cons: ["Lighter-duty hardware than the 5000 Series", "Not as refined as DW's flagship pedals"],
+          verdict: "Best mid-range path toward Mikkey Dee's DW sound.",
+          rating: 4.2,
+          affiliateLink: "https://www.thomann.de/intl/dw_dwcp3002_double_pedal.htm?partner_id=metalforge"
         },
         {
           name: "DW 5000 Delta III Single Pedal",
@@ -104772,7 +104772,7 @@ For power metal's biggest festival-headlining bands, that kind of set-to-set, to
         },
         {
           category: "Best for Touring Stamina",
-          pedal: "Pearl Demon Drive",
+          pedal: "DW 5000 Series Double Pedal",
           reason: "Mikkey Dee's setup — proven reliable across 23+ years of Motörhead and Scorpions touring."
         },
         {
@@ -104794,12 +104794,12 @@ For power metal's biggest festival-headlining bands, that kind of set-to-set, to
       { slug: 'scott-travis', name: 'Scott Travis', reason: 'DW 9000 Series Double Pedal — Judas Priest sustained double-bass speed' },
       { slug: 'aquiles-priester', name: 'Aquiles Priester', reason: 'DW 9000 Series Double Pedal — Angra neoclassical double-bass precision' },
       { slug: 'nicko-mcbrain', name: 'Nicko McBrain', reason: 'Single DW pedal — Iron Maiden galloping foundation' },
-      { slug: 'mikkey-dee', name: 'Mikkey Dee', reason: 'Pearl Demon Drive — Motörhead/Scorpions touring stamina' }
+      { slug: 'mikkey-dee', name: 'Mikkey Dee', reason: 'DW 5000 Series Double Pedal — Motörhead/Scorpions touring stamina' }
     ],
 
     featuredDrummers: [
       { slug: 'nicko-mcbrain', name: 'Nicko McBrain', reason: 'Single DW pedal anchoring Iron Maiden\'s galloping foundation for four-plus decades' },
-      { slug: 'mikkey-dee', name: 'Mikkey Dee', reason: 'Pearl Demon Drive — 23+ years of touring stamina across Motörhead and Scorpions' }
+      { slug: 'mikkey-dee', name: 'Mikkey Dee', reason: 'DW 5000 Series Double Pedal — 23+ years of touring stamina across Motörhead and Scorpions' }
     ],
 
     // FAQ section for SEO
@@ -104822,14 +104822,14 @@ For power metal's biggest festival-headlining bands, that kind of set-to-set, to
       },
       {
         question: "Do I need an expensive double pedal to play power metal?",
-        answer: "No — a Tama Iron Cobra 600 or Pearl Eliminator Redline will teach real double-bass stamina at a fraction of the price of Scott Travis's or Aquiles Priester's DW 9000 or Mikkey Dee's Demon Drive. If your material is gallop-first rather than double-bass-heavy, a DW-style single pedal is even more affordable."
+        answer: "No — a Tama Iron Cobra 600 or DW 3000 Series will teach real double-bass stamina at a fraction of the price of Scott Travis's or Aquiles Priester's DW 9000 or Mikkey Dee's DW 5000. If your material is gallop-first rather than double-bass-heavy, a DW-style single pedal is even more affordable."
       }
     ],
 
     // Conclusion
     conclusion: {
       title: "Choose Your Foot Foundation",
-      content: `Power metal pedal choice comes down to a fundamental question: does your material need sustained double-bass stamina across a full set, or does it live and die on gallop-first foot independence? Scott Travis and Aquiles Priester both found their answer in the DW 9000 Series double pedal, sustaining extreme tempo across an entire set. Nicko McBrain never touched a double pedal at all, proving Iron Maiden's entire rhythmic foundation could run on one precise DW pedal for four-plus decades of touring. Mikkey Dee depends on his own fast, reliable Pearl Demon Drive to sustain extreme tempo across an entire set.
+      content: `Power metal pedal choice comes down to a fundamental question: does your material need sustained double-bass stamina across a full set, or does it live and die on gallop-first foot independence? Scott Travis and Aquiles Priester both found their answer in the DW 9000 Series double pedal, sustaining extreme tempo across an entire set. Nicko McBrain never touched a double pedal at all, proving Iron Maiden's entire rhythmic foundation could run on one precise DW pedal for four-plus decades of touring. Mikkey Dee depends on his own fast, reliable DW 5000 Series double pedal to sustain extreme tempo across an entire set.
 
 Start with whichever setup matches your material's balance of gallop-first triplets versus sustained neoclassical double bass, and prioritize consistency over raw top-end numbers.
 

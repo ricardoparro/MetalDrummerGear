@@ -25655,13 +25655,13 @@ Start with a 22"x18" maple shell and a quality single or double pedal — it's t
       title: "What Bass Drum Setup Do Progressive Metal Drummers Actually Use?",
       content: `Progressive metal's bass drum faces the widest range of demands in all of metal. A single song might require the sensitivity for a delicate, jazz-influenced passage, the punch to anchor a djent-adjacent breakdown, and the tonal range to shift between both without the shell sounding wrong in either context. Unlike death or thrash metal, where the kick's job is fairly constant across a set, progressive metal drummers need a bass drum that responds to nuance, odd-meter phrasing, and complex orchestration from bar to bar.
 
-Mike Portnoy built Dream Theater's foundational bass drum sound on his dual side-by-side "Dream Monster" kit, pairing a Tama Starclassic Maple shell with a Tama Starclassic Bubinga shell for a blended tonal character across the two bass drums. Mike Mangini, Portnoy's successor since 2010, plays a Pearl Reference Series bass drum integrated with a Roland SPD-SX sampling pad — a hybrid approach built for the band's increasingly complex modern material. Gavin Harrison of Porcupine Tree and King Crimson and Danny Carey of Tool both rely on Sonor SQ2's fully customizable shell, though for very different ends: Harrison's build favors touch and restraint, while Carey's Heavy Beech configuration is voiced for Tool's dense polyrhythmic soundscapes.
+Mike Portnoy built Dream Theater's foundational bass drum sound on his dual side-by-side "Dream Monster" kit, pairing a Tama Starclassic Maple shell with a Tama Starclassic Bubinga shell for a blended tonal character across the two bass drums. Mike Mangini, Portnoy's successor since 2010, plays a Pearl Reference Series bass drum, chosen for its exceptional sensitivity across Dream Theater's increasingly complex modern material. Gavin Harrison of Porcupine Tree and King Crimson and Danny Carey of Tool both rely on Sonor SQ2's fully customizable shell, though for very different ends: Harrison's build favors touch and restraint, while Carey's Heavy Beech configuration is voiced for Tool's dense polyrhythmic soundscapes.
 
 This guide breaks down exactly what makes a bass drum work for progressive metal — shell tuning range, material, and dynamic response — and which specific shells these four influential drummers actually play.`,
       keyPoints: [
         "Progressive metal demands a bass drum with a wide tuning range, from whisper-soft dynamics to full-volume double-bass passages",
         "Mike Portnoy's dual-shell Tama Starclassic Maple + Bubinga \"Dream Monster\" kit pairs two different shell types side-by-side",
-        "Hybrid acoustic/electronic setups (Mangini's Roland SPD-SX, Carey's Mandala Drum) are increasingly common for triggering samples alongside the acoustic shell",
+        "Hybrid acoustic/electronic setups like Carey's Mandala Drum are increasingly common for triggering samples alongside the acoustic shell",
         "Sonor SQ2's full customization lets Harrison and Carey build completely different tonal identities from the same platform"
       ]
     },
@@ -25691,7 +25691,7 @@ This guide breaks down exactly what makes a bass drum work for progressive metal
         {
           name: "Hybrid Electronics Integration",
           icon: "🔌",
-          description: "Mike Mangini pairs his Pearl Reference Series bass drum with a Roland SPD-SX for triggered samples in Dream Theater's increasingly complex modern material, and Danny Carey integrates a Mandala Drum and Octobans around his Sonor SQ2 shell for Tool's dense arrangements.",
+          description: "Danny Carey integrates a Mandala Drum and Octobans around his Sonor SQ2 shell for Tool's dense arrangements, showing how a bass drum anchors a broader hybrid acoustic/electronic rig.",
           recommendation: "Trigger-ready hardware or hybrid pad integration if your material calls for layered or sampled bass drum tones"
         },
         {
@@ -25763,33 +25763,31 @@ Pairing two different Starclassic shell types side-by-side gives Portnoy a broad
           tier: "pro",
           material: "Maple, 22\"x18\"",
 
-          description: `Mike Mangini, Mike Portnoy's successor in Dream Theater since 2010, plays a Pearl Reference Series bass drum integrated with a Roland SPD-SX sampling pad — a hybrid approach built for the band's increasingly complex modern material. The pure maple shell delivers exceptional sensitivity across the widest dynamic range of any shell on this list.
+          description: `Mike Mangini, Mike Portnoy's successor in Dream Theater since 2010, plays a Pearl Reference Series bass drum. The pure maple shell delivers exceptional sensitivity across the widest dynamic range of any shell on this list.
 
-That sensitivity gives Mangini the tonal precision to voice everything from restrained clean sections to sample-triggered layered textures without the acoustic shell ever sounding out of place.`,
+That sensitivity gives Mangini the tonal precision to voice everything from restrained clean sections to full-force double-bass passages without the acoustic shell ever sounding out of place.`,
 
           pros: [
-            "Mike Mangini's Dream Theater bass drum — modern prog metal's hybrid standard",
+            "Mike Mangini's Dream Theater bass drum — modern prog metal's sensitivity standard",
             "Pure maple shell for exceptional dynamic sensitivity",
-            "Integrates cleanly with Roland SPD-SX sample triggering",
             "Pearl engineering and hardware reliability",
-            "Excellent for drummers blending acoustic and electronic textures"
+            "Excellent for drummers who need the widest dynamic range in a single shell"
           ],
           cons: [
             "Premium pricing",
-            "Sensitivity means tuning imprecision is immediately audible",
-            "Hybrid electronics setup adds cost and complexity"
+            "Sensitivity means tuning imprecision is immediately audible"
           ],
           specs: {
             diameter: "22\"",
             depth: "18\"",
             shell: "Maple",
             headRecommendation: "Evans EMAD",
-            configuration: "Single, hybrid-electronics integrated"
+            configuration: "Single"
           },
           usedBy: [
-            { name: "Mike Mangini", band: "Dream Theater", note: "Pearl Reference Series integrated with Roland SPD-SX for modern material" }
+            { name: "Mike Mangini", band: "Dream Theater", note: "Pearl Reference Series bass drum for Dream Theater's modern material" }
           ],
-          verdict: "Best for drummers who want a sensitive acoustic foundation for hybrid electronic integration.",
+          verdict: "Best for drummers who want the most sensitive acoustic foundation for wide-ranging dynamics.",
           rating: 4.8,
           affiliateLink: "https://www.thomann.de/intl/pearl_reference_series_bass_drum_progressive_metal.htm?partner_id=metalforge"
         },
@@ -25885,15 +25883,13 @@ The SQ2's build-your-own system lets each drummer specify shell material, depth,
 
 **Pure Maple (Mike Mangini):**
 - Exceptional sensitivity for the widest possible dynamic range
-- Ideal for hybrid acoustic/electronic integration
 - Requires more careful tuning to avoid sounding thin under heavy playing
 
-**Verdict:** Start with a 22"x18" maple shell for a balanced, versatile all-around tone, or follow Mike Portnoy's lead with a dual Tama Starclassic Maple + Bubinga "Dream Monster" pairing for two distinct voices. Choose a pure maple shell like Mike Mangini's Pearl Reference if dynamic sensitivity and hybrid electronics integration matter more than raw punch.`,
+**Verdict:** Start with a 22"x18" maple shell for a balanced, versatile all-around tone, or follow Mike Portnoy's lead with a dual Tama Starclassic Maple + Bubinga "Dream Monster" pairing for two distinct voices. Choose a pure maple shell like Mike Mangini's Pearl Reference if dynamic sensitivity matters more than raw punch.`,
       comparisonTable: [
         { feature: "Dynamic Sensitivity", birch: "⭐⭐⭐⭐", maple: "⭐⭐⭐⭐⭐" },
         { feature: "Heavy Section Punch", birch: "⭐⭐⭐⭐⭐", maple: "⭐⭐⭐⭐" },
         { feature: "Tonal Versatility", birch: "⭐⭐⭐⭐⭐", maple: "⭐⭐⭐⭐" },
-        { feature: "Electronics Integration", birch: "⭐⭐⭐", maple: "⭐⭐⭐⭐⭐" },
         { feature: "Price (entry)", birch: "€230+", maple: "€650+" }
       ]
     },
@@ -25908,9 +25904,9 @@ The SQ2's build-your-own system lets each drummer specify shell material, depth,
           reason: "Mike Portnoy's foundational Dream Theater tone — the widest balanced tonal range of any shell here."
         },
         {
-          category: "Best for Hybrid Electronics",
+          category: "Best for Dynamic Sensitivity",
           pedal: "Pearl Reference Series Bass Drum",
-          reason: "Mike Mangini's pick — sensitive acoustic foundation built to integrate with sample triggering."
+          reason: "Mike Mangini's pick — the most sensitive acoustic foundation for the widest dynamic range."
         },
         {
           category: "Best for Total Customization",
@@ -25934,7 +25930,7 @@ The SQ2's build-your-own system lets each drummer specify shell material, depth,
     ],
     relatedDrummers: [
       { slug: 'mike-portnoy', name: 'Mike Portnoy', reason: 'Tama Starclassic Maple + Bubinga "Dream Monster" dual kit — Dream Theater\'s foundational prog metal tone' },
-      { slug: 'mike-mangini', name: 'Mike Mangini', reason: 'Pearl Reference Series with Roland SPD-SX hybrid integration' },
+      { slug: 'mike-mangini', name: 'Mike Mangini', reason: 'Pearl Reference Series for maximum dynamic sensitivity' },
       { slug: 'gavin-harrison', name: 'Gavin Harrison', reason: 'Sonor SQ2 built for touch and dynamic restraint' },
       { slug: 'danny-carey', name: 'Danny Carey', reason: 'Sonor SQ2 Heavy Beech — Tool\'s dark, polyrhythmic low end' }
     ],
@@ -25942,7 +25938,7 @@ The SQ2's build-your-own system lets each drummer specify shell material, depth,
     // Featured drummers (issue template)
     featuredDrummers: [
       { slug: 'mike-portnoy', name: 'Mike Portnoy', reason: 'Tama Starclassic Maple + Bubinga "Dream Monster" dual kit — the foundational prog metal blueprint' },
-      { slug: 'mike-mangini', name: 'Mike Mangini', reason: 'Pearl Reference Series — sensitive hybrid electronics integration' },
+      { slug: 'mike-mangini', name: 'Mike Mangini', reason: 'Pearl Reference Series — the most sensitive shell for dynamic range' },
       { slug: 'danny-carey', name: 'Danny Carey', reason: 'Sonor SQ2 Heavy Beech — dark, dense polyrhythmic tone' }
     ],
 
@@ -25950,7 +25946,7 @@ The SQ2's build-your-own system lets each drummer specify shell material, depth,
     faq: [
       {
         question: "What bass drums do progressive metal drummers use?",
-        answer: "Mike Portnoy built Dream Theater's foundational sound on his dual side-by-side Tama Starclassic Maple + Bubinga \"Dream Monster\" kit, his successor Mike Mangini plays a Pearl Reference Series integrated with a Roland SPD-SX, and Gavin Harrison and Danny Carey both rely on Sonor SQ2's fully customizable platform for very different tonal ends."
+        answer: "Mike Portnoy built Dream Theater's foundational sound on his dual side-by-side Tama Starclassic Maple + Bubinga \"Dream Monster\" kit, his successor Mike Mangini plays a Pearl Reference Series for maximum dynamic sensitivity, and Gavin Harrison and Danny Carey both rely on Sonor SQ2's fully customizable platform for very different tonal ends."
       },
       {
         question: "What size bass drum is best for progressive metal?",
@@ -25958,11 +25954,11 @@ The SQ2's build-your-own system lets each drummer specify shell material, depth,
       },
       {
         question: "Do progressive metal drummers use electronic triggers on their bass drum?",
-        answer: "Many do — Mike Mangini integrates a Roland SPD-SX with his Pearl Reference Series bass drum, and Danny Carey pairs his Sonor SQ2 with a Mandala Drum and Octobans, letting both drummers layer sampled or electronic textures on top of their acoustic shell for complex modern material."
+        answer: "Some do — Danny Carey pairs his Sonor SQ2 with a Mandala Drum and Octobans, letting him layer sampled or electronic textures on top of the acoustic shell for Tool's complex modern material."
       },
       {
         question: "Dual-shell (Maple + Bubinga) or pure maple bass drum for progressive metal?",
-        answer: "A dual-shell pairing, like Mike Portnoy's Tama Starclassic Maple + Bubinga \"Dream Monster\" kit, gives access to two distinct tonal voices side-by-side. Pure maple, like Mike Mangini's Pearl Reference, offers superior dynamic sensitivity, especially useful when integrating hybrid electronics."
+        answer: "A dual-shell pairing, like Mike Portnoy's Tama Starclassic Maple + Bubinga \"Dream Monster\" kit, gives access to two distinct tonal voices side-by-side. Pure maple, like Mike Mangini's Pearl Reference, offers superior dynamic sensitivity across the widest possible range."
       },
       {
         question: "Why do progressive metal drummers need a more versatile bass drum than other metal genres?",
@@ -25973,7 +25969,7 @@ The SQ2's build-your-own system lets each drummer specify shell material, depth,
     // Conclusion
     conclusion: {
       title: "Build the Versatile Low End Progressive Metal Demands",
-      content: `Progressive metal's bass drum requirements come down to versatility: a shell that responds to nuance, odd-meter phrasing, and complex orchestration across the widest tonal range in metal. Mike Portnoy's dual-shell Tama Starclassic Maple + Bubinga "Dream Monster" kit proves two paired shells can carry an entire foundational sound, while Mike Mangini's Pearl Reference Series shows how a sensitive pure maple shell integrates cleanly with modern hybrid electronics.
+      content: `Progressive metal's bass drum requirements come down to versatility: a shell that responds to nuance, odd-meter phrasing, and complex orchestration across the widest tonal range in metal. Mike Portnoy's dual-shell Tama Starclassic Maple + Bubinga "Dream Monster" kit proves two paired shells can carry an entire foundational sound, while Mike Mangini's Pearl Reference Series shows how a sensitive pure maple shell delivers the widest dynamic range in the genre.
 
 If your material demands total tonal control, follow Gavin Harrison's and Danny Carey's example with a fully custom Sonor SQ2 build — proof the same platform can serve touch-first restraint and dense polyrhythmic weight equally well.
 
@@ -50065,12 +50061,12 @@ Start with a budget option if you're building your first setup. The Export and F
       title: "What Drum Kit Should I Use for Progressive Metal?",
       content: `Progressive metal drum kits face the widest range of demands in all of metal. A single song might require the tonal warmth for a delicate, jazz-influenced passage, the punch to anchor a djent-adjacent breakdown, and the dynamic range to shift between both without the kit sounding wrong in either context. Unlike death or black metal, where raw speed and endurance dominate the equation, progressive metal drummers need kits that respond to nuance, odd-meter phrasing, and complex orchestration.
 
-Mike Portnoy built Dream Theater's foundational sound on his dual side-by-side "Dream Monster" kit, pairing a Tama Starclassic Maple shell type with a Tama Starclassic Bubinga shell type for two distinct tonal voices. Mike Mangini, Portnoy's successor in Dream Theater since 2010, plays a Pearl Reference Series kit integrated with a Roland SPD-SX sampling pad — a hybrid approach built for the band's increasingly complex modern material. Gavin Harrison of Porcupine Tree and King Crimson and Danny Carey of Tool both rely on Sonor SQ2's fully customizable platform, though for very different ends: Harrison's build favors touch and restraint, while Carey's Heavy Beech configuration is built around Octobans and electronics for Tool's dense polyrhythmic soundscapes.
+Mike Portnoy built Dream Theater's foundational sound on his dual side-by-side "Dream Monster" kit, pairing a Tama Starclassic Maple shell type with a Tama Starclassic Bubinga shell type for two distinct tonal voices. Mike Mangini, Portnoy's successor in Dream Theater since 2010, plays a Pearl Reference Series kit built around thin 6-ply maple shells for exceptional sensitivity — chosen for the band's increasingly complex modern material. Gavin Harrison of Porcupine Tree and King Crimson and Danny Carey of Tool both rely on Sonor SQ2's fully customizable platform, though for very different ends: Harrison's build favors touch and restraint, while Carey's Heavy Beech configuration is built around Octobans and electronics for Tool's dense polyrhythmic soundscapes.
 
-This guide breaks down what actually makes a kit work for progressive metal — shell material, hybrid electronics integration, and dynamic range — and which specific kits these four influential drummers rely on, from accessible starter kits to the professional setups behind prog metal's most celebrated records.`,
+This guide breaks down what actually makes a kit work for progressive metal — shell material, dynamic sensitivity, and dynamic range — and which specific kits these four influential drummers rely on, from accessible starter kits to the professional setups behind prog metal's most celebrated records.`,
       keyPoints: [
         "Tama Starclassic Maple + Bubinga \"Dream Monster\" dual kit defined Dream Theater's foundational prog metal tone under Mike Portnoy",
-        "Hybrid acoustic/electronic setups (Mangini's Roland SPD-SX, Carey's Mandala Drum) are increasingly standard in modern progressive metal",
+        "Hybrid acoustic/electronic setups like Carey's Mandala Drum are increasingly standard in modern progressive metal",
         "Sonor SQ2's full customization lets Harrison and Carey build completely different tonal identities from the same platform",
         "Dynamic range matters more than raw power — prog metal kits must respond to both whisper-soft and full-volume passages"
       ]
@@ -50095,7 +50091,7 @@ This guide breaks down what actually makes a kit work for progressive metal — 
         {
           name: "Electronics Integration",
           icon: "🔌",
-          description: "Mangini's Roland SPD-SX sampling pad and Carey's Mandala Drum electronic pads show that hybrid acoustic/electronic setups are now standard in progressive metal for triggered samples and melodic textures.",
+          description: "Carey's Mandala Drum electronic pads show that hybrid acoustic/electronic setups are now standard in progressive metal for triggered samples and melodic textures.",
           recommendation: "Choose a kit and hardware ecosystem that integrates cleanly with sampling pads and triggers"
         },
         {
@@ -50175,19 +50171,17 @@ Tama's Air Ride mounting system lets the shells resonate as freely as possible w
 
           description: `Mike Mangini, Portnoy's successor in Dream Theater since 2010, plays a Pearl Reference Series kit built around thin 6-ply maple shells for exceptional sensitivity and resonance. That sensitivity matters for Mangini's famously independent limb technique, where subtle dynamic shifts across all four limbs need to translate clearly through the kit.
 
-Mangini's setup integrates a Roland SPD-SX sampling pad directly into the acoustic kit, reflecting progressive metal's growing embrace of hybrid acoustic/electronic setups for triggered samples and textures. Multiple Reference snare options (14x5" and 14x6.5" brass) let him switch crack character depending on the specific demands of Dream Theater's modern, dense material.`,
+Multiple Reference snare options (14x5" and 14x6.5" brass) let him switch crack character depending on the specific demands of Dream Theater's modern, dense material.`,
 
           pros: [
             "Mike Mangini's Dream Theater setup since 2010",
             "Thin 6-ply maple shells for exceptional sensitivity",
-            "Proven hybrid integration with Roland SPD-SX sampling",
             "Multiple snare options for tonal flexibility",
             "SST construction for consistent resonance"
           ],
           cons: [
             "Thin shells slightly less durable than heavier alternatives",
-            "Premium Reference Series pricing",
-            "Hybrid electronics integration adds setup complexity"
+            "Premium Reference Series pricing"
           ],
           specs: {
             shell: "6-ply Maple (SST)",
@@ -50197,9 +50191,9 @@ Mangini's setup integrates a Roland SPD-SX sampling pad directly into the acoust
             tomSizes: "Various configurations"
           },
           usedBy: [
-            { name: "Mike Mangini", band: "Dream Theater", note: "Pearl Reference Series with Roland SPD-SX hybrid integration" }
+            { name: "Mike Mangini", band: "Dream Theater", note: "Pearl Reference Series kit for exceptional dynamic sensitivity" }
           ],
-          verdict: "Best hybrid acoustic/electronic prog metal kit. Mangini's sensitivity and modern sample integration.",
+          verdict: "Best for dynamic sensitivity. Mangini's thin-shell maple kit for independent limb technique.",
           rating: 4.8,
           affiliateLink: "https://www.thomann.de/intl/pearl_reference_series.htm?partner_id=metalforge"
         },
@@ -50335,21 +50329,19 @@ While not tied to one of prog metal's most famous specific rigs, the Collector's
 
 **Pearl Reference Series (Mike Mangini):**
 - Thin maple shells for maximum sensitivity
-- Best paired with hybrid electronics integration (Roland SPD-SX)
-- Best for: Modern prog metal with sample/trigger integration
+- Best for: Modern prog metal drummers who need the widest dynamic range
 
 **Sonor SQ2 (Gavin Harrison, Danny Carey):**
 - Fully customizable — can be built toward either restraint or polyrhythmic complexity
 - Best for: Drummers with a precise, individual tonal vision and the budget to realize it
 
-**The Truth:** Portnoy's dual-shell Starclassic proved that pairing two different shell types side-by-side works at the top of the genre for three decades. Mangini's Reference Series shows how far sensitivity and electronics integration can push modern prog metal. Harrison and Carey both chose Sonor SQ2 but built completely different sounds from it — proof that full customization is a strength when a drummer knows exactly what they want.
+**The Truth:** Portnoy's dual-shell Starclassic proved that pairing two different shell types side-by-side works at the top of the genre for three decades. Mangini's Reference Series shows how far sensitivity can push modern prog metal. Harrison and Carey both chose Sonor SQ2 but built completely different sounds from it — proof that full customization is a strength when a drummer knows exactly what they want.
 
-**Our Recommendation:** Start with a Tama Starclassic-style maple shell for balanced versatility across prog metal's dynamic range. Move to Pearl Reference if hybrid electronics integration matters to your setup, or invest in a custom Sonor SQ2 once you have a precise tonal vision worth building toward.`,
+**Our Recommendation:** Start with a Tama Starclassic-style maple shell for balanced versatility across prog metal's dynamic range. Move to Pearl Reference if dynamic sensitivity matters most to your setup, or invest in a custom Sonor SQ2 once you have a precise tonal vision worth building toward.`,
       comparisonTable: [
         { feature: "Tonal Balance", tama: "⭐⭐⭐⭐⭐", pearl: "⭐⭐⭐⭐", sonor: "⭐⭐⭐⭐" },
         { feature: "Sensitivity", tama: "⭐⭐⭐⭐", pearl: "⭐⭐⭐⭐⭐", sonor: "⭐⭐⭐⭐" },
         { feature: "Customization", tama: "⭐⭐⭐", pearl: "⭐⭐⭐", sonor: "⭐⭐⭐⭐⭐" },
-        { feature: "Electronics Integration", tama: "⭐⭐⭐", pearl: "⭐⭐⭐⭐⭐", sonor: "⭐⭐⭐⭐" },
         { feature: "Price (entry)", tama: "€700+", pearl: "€600+", sonor: "€3000+" }
       ]
     },
@@ -50364,9 +50356,9 @@ While not tied to one of prog metal's most famous specific rigs, the Collector's
           reason: "Mike Portnoy's foundational Dream Theater sound. Two distinct tonal voices for three decades of prog metal."
         },
         {
-          category: "Best for Hybrid Electronics",
+          category: "Best for Dynamic Sensitivity",
           pedal: "Pearl Reference Series",
-          reason: "Mangini's setup — thin maple sensitivity integrated with Roland SPD-SX sampling."
+          reason: "Mangini's setup — thin maple shells for the widest dynamic range in the genre."
         },
         {
           category: "Best for Custom Tonal Control",
@@ -50389,7 +50381,7 @@ While not tied to one of prog metal's most famous specific rigs, the Collector's
     ],
     relatedDrummers: [
       { slug: 'mike-portnoy', name: 'Mike Portnoy', reason: 'Tama Starclassic Maple + Bubinga "Dream Monster" dual kit — Dream Theater\'s foundational prog metal sound' },
-      { slug: 'mike-mangini', name: 'Mike Mangini', reason: 'Pearl Reference Series with Roland SPD-SX hybrid integration' },
+      { slug: 'mike-mangini', name: 'Mike Mangini', reason: 'Pearl Reference Series for exceptional dynamic sensitivity' },
       { slug: 'gavin-harrison', name: 'Gavin Harrison', reason: 'Sonor SQ2 — touch and dynamic restraint for Porcupine Tree/King Crimson' },
       { slug: 'danny-carey', name: 'Danny Carey', reason: 'Sonor SQ2 Heavy Beech with Octobans — Tool\'s polyrhythmic complexity' }
     ],
@@ -50397,7 +50389,7 @@ While not tied to one of prog metal's most famous specific rigs, the Collector's
     // Featured drummers (issue template)
     featuredDrummers: [
       { slug: 'mike-portnoy', name: 'Mike Portnoy', reason: 'Tama Starclassic Maple + Bubinga "Dream Monster" dual kit — Dream Theater\'s foundational prog metal sound' },
-      { slug: 'mike-mangini', name: 'Mike Mangini', reason: 'Pearl Reference Series with Roland SPD-SX hybrid integration' },
+      { slug: 'mike-mangini', name: 'Mike Mangini', reason: 'Pearl Reference Series for exceptional dynamic sensitivity' },
       { slug: 'gavin-harrison', name: 'Gavin Harrison', reason: 'Sonor SQ2 — touch and dynamic restraint for Porcupine Tree/King Crimson' },
       { slug: 'danny-carey', name: 'Danny Carey', reason: 'Sonor SQ2 Heavy Beech with Octobans — Tool\'s polyrhythmic complexity' }
     ],
@@ -50418,7 +50410,7 @@ While not tied to one of prog metal's most famous specific rigs, the Collector's
       },
       {
         question: "What drum kit does Mike Mangini use?",
-        answer: "Mike Mangini, Dream Theater's drummer from 2010–2023, plays a Pearl Reference Series kit with thin 6-ply maple shells for maximum sensitivity, integrated with a Roland SPD-SX sampling pad for triggered samples and electronic textures."
+        answer: "Mike Mangini, Dream Theater's drummer from 2010–2023, plays a Pearl Reference Series kit with thin 6-ply maple shells for maximum sensitivity."
       },
       {
         question: "Do I need a custom kit to play progressive metal?",
@@ -50433,7 +50425,7 @@ While not tied to one of prog metal's most famous specific rigs, the Collector's
     // Conclusion
     conclusion: {
       title: "Choose Your Progressive Metal Platform",
-      content: `Progressive metal drum kits reward a clear tonal vision more than any other metal subgenre. Mike Portnoy found his in the dual side-by-side pairing of Tama's Starclassic Maple and Starclassic Bubinga. Mike Mangini found his in Pearl Reference's sensitivity combined with modern electronics integration. Gavin Harrison and Danny Carey both found theirs in Sonor's SQ2 platform — from completely opposite directions.
+      content: `Progressive metal drum kits reward a clear tonal vision more than any other metal subgenre. Mike Portnoy found his in the dual side-by-side pairing of Tama's Starclassic Maple and Starclassic Bubinga. Mike Mangini found his in Pearl Reference's thin-shell maple sensitivity. Gavin Harrison and Danny Carey both found theirs in Sonor's SQ2 platform — from completely opposite directions.
 
 That's the real lesson here: there's no single "correct" progressive metal kit, because the genre itself refuses to sit still. Start with a Starclassic-style shell pack for balanced versatility, and don't be afraid to add hybrid electronics — Roland pads and Mandala-style triggers are increasingly part of the modern prog metal vocabulary, not a compromise.
 
@@ -52995,11 +52987,10 @@ Start lean: a single kick trigger and a basic interface will reinforce your loud
     // SEO metadata
     title: "Best Drum Triggers for Progressive Metal: 2026 Ultimate Guide",
     metaTitle: "Best Drum Triggers for Progressive Metal in 2026 | MetalForge Expert Guide",
-    description: "Discover the best drum triggers for progressive metal drumming. Expert recommendations on hybrid triggered sample layering for odd-meter precision, featuring Mike Mangini's Roland SPD-SX, Danny Carey's Mandala Drum electronic pads, and Mario Duplantier's click-and-sample-trigger IEM system.",
+    description: "Discover the best drum triggers for progressive metal drumming. Expert recommendations on hybrid triggered sample layering for odd-meter precision, featuring Danny Carey's Mandala Drum electronic pads and Mario Duplantier's click-and-sample-trigger IEM system.",
     seoKeywords: [
       'best drum triggers for progressive metal',
       'progressive metal drum trigger',
-      'mike mangini roland spd-sx',
       'danny carey mandala drum',
       'mario duplantier trigger setup',
       'hybrid trigger kit prog metal',
@@ -53032,12 +53023,11 @@ Start lean: a single kick trigger and a basic interface will reinforce your loud
       title: "Why Progressive Metal Drummers Reach for Triggers",
       content: `A drum trigger is a small piezo or optical sensor clipped or mounted directly onto an acoustic drumhead. It converts the physical vibration of a hit into an electronic signal that can drive a sample, reinforce a weak-sounding mic, or feed a click-synced monitor rig — without changing how the acoustic drum feels under the stick or beater. Progressive metal puts a distinct spin on this: the genre's odd-meter complexity and dense, layered arrangements mean triggers are used as much for adding melodic and textural samples as for simple attack reinforcement.
 
-Mike Mangini of Dream Theater integrates a Roland SPD-SX sampling pad directly into his hybrid acoustic Pearl kit, using it to trigger samples and textures alongside his acoustic setup. Danny Carey of Tool uses Mandala Drum electronic pads, and his hybrid acoustic/electronic setup reflects how standard triggered samples and melodic textures have become in progressive metal. Mario Duplantier of Gojira runs a full in-ear monitor system built for click and sample-trigger precision on stages of every size, keeping his tightly arranged parts locked in from clubs to arenas.
+Danny Carey of Tool uses Mandala Drum electronic pads, and his hybrid acoustic/electronic setup reflects how standard triggered samples and melodic textures have become in progressive metal. Mario Duplantier of Gojira runs a full in-ear monitor system built for click and sample-trigger precision on stages of every size, keeping his tightly arranged parts locked in from clubs to arenas.
 
 This guide covers what actually matters when choosing drum triggers and sample pads for progressive metal — mounting type, dual-zone sensing, and the distinction between acoustic-trigger reinforcement and sample-pad layering — with specific recommendations across every budget.`,
       keyPoints: [
         "Progressive metal triggers are used as much for layering melodic and textural samples as for reinforcing raw attack",
-        "Mike Mangini integrates a Roland SPD-SX sampling pad into his hybrid acoustic Pearl kit for triggered samples and textures",
         "Danny Carey's Mandala Drum electronic pads reflect how standard hybrid acoustic/electronic setups have become in progressive metal",
         "Mario Duplantier runs a full in-ear monitor system for click and sample-trigger precision on stages of every size"
       ]
@@ -53050,7 +53040,7 @@ This guide covers what actually matters when choosing drum triggers and sample p
         {
           name: "Acoustic Trigger vs Sample Pad",
           icon: "🎹",
-          description: "An acoustic trigger clips or mounts onto an existing drumhead and only sends a signal when that drum is struck. A sample pad like the Roland SPD-SX has its own velocity-sensitive playing surface plus inputs for acoustic triggers — the setup Mike Mangini integrates into his hybrid Dream Theater kit for melodic textures beyond simple attack reinforcement.",
+          description: "An acoustic trigger clips or mounts onto an existing drumhead and only sends a signal when that drum is struck. A sample pad like the Roland SPD-SX has its own velocity-sensitive playing surface plus inputs for acoustic triggers — the same category Danny Carey's Mandala Drum belongs to, built for melodic textures beyond simple attack reinforcement.",
           recommendation: "Start with acoustic triggers for reinforcement; add a sample pad once you want genuine textural layering"
         },
         {
@@ -53068,7 +53058,7 @@ This guide covers what actually matters when choosing drum triggers and sample p
         {
           name: "Sample Editing and Import Depth",
           icon: "🎛️",
-          description: "A sample pad's usefulness in progressive metal often comes down to how deeply you can edit and import your own textures and melodic samples — the kind of layering Danny Carey's Mandala Drum and Mike Mangini's SPD-SX both enable well beyond basic trigger reinforcement.",
+          description: "A sample pad's usefulness in progressive metal often comes down to how deeply you can edit and import your own textures and melodic samples — the kind of layering Danny Carey's Mandala Drum enables well beyond basic trigger reinforcement.",
           recommendation: "Choose a sample pad with real onboard editing, not just playback, if you plan to layer original textures"
         },
         {
@@ -53099,11 +53089,10 @@ This guide covers what actually matters when choosing drum triggers and sample p
           priceRange: "€700-800",
           tier: "pro",
           driveType: "Sampling pad / trigger module",
-          description: `Mike Mangini integrates a Roland SPD-SX directly into his hybrid acoustic Pearl kit, using it to trigger samples, backing textures, and layered electronic sounds without replacing a single acoustic drum. It's the most common way progressive metal drummers add electronics to an otherwise fully acoustic rig.
+          description: `The Roland SPD-SX integrates directly into a hybrid acoustic kit, triggering samples, backing textures, and layered electronic sounds without replacing a single acoustic drum. It's one of the most common ways progressive metal drummers add electronics to an otherwise fully acoustic rig.
 
 The nine velocity-sensitive pads and deep sample-editing tools make the SPD-SX equally useful for live sample triggering and quick electronic composition — a genuinely flexible unit rather than a single-purpose trigger box, and the same category Danny Carey's Mandala Drum belongs to.`,
           pros: [
-            "Mike Mangini's proven live hybrid setup component",
             "Nine velocity-sensitive trigger pads plus acoustic trigger inputs",
             "Deep on-board sample editing for original textures",
             "Mounts directly into an existing acoustic kit",
@@ -53121,9 +53110,7 @@ The nine velocity-sensitive pads and deep sample-editing tools make the SPD-SX e
             connectivity: "USB, MIDI, audio out",
             use: "Sample triggering / hybrid layering"
           },
-          usedBy: [
-            { name: "Mike Mangini", band: "Dream Theater", note: "Integrated into his hybrid acoustic Pearl kit for sample and texture triggering" }
-          ],
+          usedBy: [],
           verdict: "The go-to way to add electronic layers and melodic textures to an acoustic progressive metal kit.",
           rating: 4.7,
           affiliateLink: "https://www.thomann.de/intl/roland_spd_sx.htm?partner_id=metalforge"
@@ -53139,7 +53126,7 @@ The nine velocity-sensitive pads and deep sample-editing tools make the SPD-SX e
           driveType: "XLR Kick Trigger, Dual Zone",
           description: `ddrum essentially invented modern acoustic drum triggering, and the Chrome Elite kick trigger remains a reliable choice for progressive metal drummers who need a clean bass drum signal underneath dense, layered arrangements. Its dual-zone design and updated transducer give a module, interface, or DAW plugin a cleaner, more consistent signal than older single-zone kick triggers can provide.
 
-Paired with a sample pad like the SPD-SX, this trigger gives a progressive metal drummer both a reinforced acoustic attack and a foundation for layering the kind of textures Danny Carey and Mike Mangini both build into their kits.`,
+Paired with a sample pad like the SPD-SX, this trigger gives a progressive metal drummer both a reinforced acoustic attack and a foundation for layering the kind of textures Danny Carey builds into his kit.`,
           pros: [
             "Dual-zone sensing for a cleaner, more detailed trigger signal",
             "Secure XLR connection resists cable failure across long sessions",
@@ -53175,7 +53162,7 @@ Paired with a sample pad like the SPD-SX, this trigger gives a progressive metal
           driveType: "Clip-On Acoustic Trigger",
           description: `Roland's RT-30 series clips directly onto a tension rod with a free-floating piezo element resting on the head, with dedicated head/rim (HR), kick (K), and snare (S) variants tuned for their specific drum. Because it's Roland's own platform, it pairs seamlessly with an SPD-SX for a unified, single-brand hybrid rig.
 
-For progressive metal drummers who want per-drum reinforcement feeding into the same sampling pad ecosystem Mike Mangini uses, the RT-30 series is the simplest way to build that chain.`,
+For progressive metal drummers who want per-drum reinforcement feeding into the same Roland sampling pad ecosystem as the SPD-SX, the RT-30 series is the simplest way to build that chain.`,
           pros: [
             "Fast clip-on installation with no adhesive residue on a borrowed or backline kit",
             "Dedicated kick, snare, and tom-tuned variants",
@@ -53321,11 +53308,11 @@ For progressive metal drummers who've already invested in triggers or pads from 
 - A lean starting point before adding any electronic textures
 
 **Hybrid Sample-Pad Layering (Roland SPD-SX, Mandala-style pads, ATV aD5):**
-- The category Mike Mangini and Danny Carey both build into their hybrid kits
+- The category Danny Carey builds into his hybrid kit
 - Genuine melodic and textural sample layering, not just attack reinforcement
 - Higher upfront cost but far more flexibility for complex, layered arrangements
 
-**The Truth:** Most progressive metal drummers start with a single kick trigger reinforcing their acoustic kit, then step up to a sample pad like the SPD-SX once they want to genuinely layer textures the way Mike Mangini and Danny Carey do.
+**The Truth:** Most progressive metal drummers start with a single kick trigger reinforcing their acoustic kit, then step up to a sample pad like the SPD-SX once they want to genuinely layer textures the way Danny Carey does.
 
 **Our Recommendation:** Start with a single ddrum Chrome Elite or Roland RT-30 on your kick drum. Step up to a Roland SPD-SX once you're ready to build the kind of hybrid textural layers that define modern progressive metal kits.`,
       comparisonTable: [
@@ -53344,7 +53331,7 @@ For progressive metal drummers who've already invested in triggers or pads from 
         {
           category: "Best Overall",
           pedal: "Roland SPD-SX Sampling Pad",
-          reason: "Mike Mangini's proven hybrid setup component for layering samples and textures into an acoustic kit."
+          reason: "The most common way progressive metal drummers layer samples and textures into an acoustic kit."
         },
         {
           category: "Best for Acoustic Reinforcement",
@@ -53371,7 +53358,6 @@ For progressive metal drummers who've already invested in triggers or pads from 
       'best-cymbals-for-progressive-metal'
     ],
     relatedDrummers: [
-      { slug: 'mike-mangini', name: 'Mike Mangini', reason: 'Roland SPD-SX integrated into his hybrid Dream Theater kit' },
       { slug: 'danny-carey', name: 'Danny Carey', reason: 'Mandala Drum electronic pads for triggered samples and melodic textures' },
       { slug: 'mario-duplantier', name: 'Mario Duplantier', reason: 'Full in-ear monitor system for click and sample-trigger precision' }
     ],
@@ -53381,15 +53367,15 @@ For progressive metal drummers who've already invested in triggers or pads from 
     faq: [
       {
         question: "What drum triggers do progressive metal drummers use?",
-        answer: "Mike Mangini of Dream Theater integrates a Roland SPD-SX sampling pad into his hybrid acoustic Pearl kit. Danny Carey of Tool uses Mandala Drum electronic pads. Mario Duplantier of Gojira runs a full in-ear monitor system built for click and sample-trigger precision on stages of every size."
+        answer: "Danny Carey of Tool uses Mandala Drum electronic pads. Mario Duplantier of Gojira runs a full in-ear monitor system built for click and sample-trigger precision on stages of every size."
       },
       {
         question: "Why do progressive metal drummers use triggers differently than other metal genres?",
-        answer: "In many extreme metal subgenres, triggers mainly reinforce attack for consistency at high tempo. Progressive metal drummers like Mike Mangini and Danny Carey use hybrid sample pads for genuine melodic and textural layering — adding backing sounds and electronic elements that go well beyond simply cleaning up an acoustic hit."
+        answer: "In many extreme metal subgenres, triggers mainly reinforce attack for consistency at high tempo. Progressive metal drummers like Danny Carey use hybrid sample pads for genuine melodic and textural layering — adding backing sounds and electronic elements that go well beyond simply cleaning up an acoustic hit."
       },
       {
         question: "What's the difference between an acoustic trigger and a sample pad like the SPD-SX?",
-        answer: "An acoustic trigger clips or mounts onto an existing drumhead and only sends a signal when that drum is struck. A sample pad like the Roland SPD-SX has its own velocity-sensitive playing surface plus inputs for acoustic triggers, letting a drummer trigger layered samples and textures from either source — the setup Mike Mangini integrates into his hybrid kit."
+        answer: "An acoustic trigger clips or mounts onto an existing drumhead and only sends a signal when that drum is struck. A sample pad like the Roland SPD-SX has its own velocity-sensitive playing surface plus inputs for acoustic triggers, letting a drummer trigger layered samples and textures from either source — the same category Danny Carey's Mandala Drum belongs to."
       },
       {
         question: "Do I need an in-ear monitor system if I'm using triggers live?",
@@ -53404,7 +53390,7 @@ For progressive metal drummers who've already invested in triggers or pads from 
     // Conclusion
     conclusion: {
       title: "Layer the Texture, Not Just the Attack",
-      content: `Progressive metal's use of triggers goes beyond simple reinforcement — Mike Mangini's Roland SPD-SX and Danny Carey's Mandala Drum both show how hybrid acoustic/electronic setups have become standard for layering melodic and textural samples into complex, odd-meter arrangements. Mario Duplantier's full in-ear monitor system for click and sample-trigger precision shows how far that reinforcement extends into live performance at any venue size.
+      content: `Progressive metal's use of triggers goes beyond simple reinforcement — sample pads like the Roland SPD-SX and Danny Carey's Mandala Drum both show how hybrid acoustic/electronic setups have become standard for layering melodic and textural samples into complex, odd-meter arrangements. Mario Duplantier's full in-ear monitor system for click and sample-trigger precision shows how far that reinforcement extends into live performance at any venue size.
 
 Start lean: a single kick trigger and a basic interface will reinforce your loudest, most tempo-critical drum without touching how your acoustic kit feels. Step up to a Roland SPD-SX once you're ready to build the kind of hybrid textural layers that define modern progressive metal kits.
 

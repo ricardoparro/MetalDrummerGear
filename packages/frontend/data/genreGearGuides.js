@@ -15331,9 +15331,7 @@ The 9000 Series' oversized tripod bases and reinforced tension bolts hold cymbal
           tier: "pro",
           material: "Double-braced steel",
 
-          description: `Lars Ulrich has anchored his Tama Starclassic setup on Tama's heavy-duty hardware line, including his Iron Cobra 900 pedal, for decades — a setup that has survived four decades of Metallica's biggest stages. Tama's Titan Series stands share the same oversized, double-braced design philosophy, engineered for drummers who hit hard and tour constantly.
-
-Blake Richardson (Between the Buried and Me) relies on Tama hardware for the opposite reason: BTBAM's progressive metal demands absolute cymbal placement precision across a large, complex kit, and Tama's memory-lock stands hold that precision through technically punishing sets.`,
+          description: `Lars Ulrich has anchored his Tama Starclassic setup on Tama's heavy-duty hardware line, including his Iron Cobra 900 pedal, for decades — a setup that has survived four decades of Metallica's biggest stages. Tama's Titan Series stands share the same oversized, double-braced design philosophy, engineered for drummers who hit hard and tour constantly.`,
 
           pros: [
             "Lars Ulrich's decades-proven touring hardware line",
@@ -15354,8 +15352,7 @@ Blake Richardson (Between the Buried and Me) relies on Tama hardware for the opp
             weight: "Heavy"
           },
           usedBy: [
-            { name: "Lars Ulrich", band: "Metallica", note: "Tama hardware, including his Iron Cobra 900 pedal, across four decades of touring" },
-            { name: "Blake Richardson", band: "Between the Buried and Me", note: "Tama hardware for progressive metal cymbal precision" }
+            { name: "Lars Ulrich", band: "Metallica", note: "Tama hardware, including his Iron Cobra 900 pedal, across four decades of touring" }
           ],
           verdict: "Metallica-proven durability with the precision technical drummers need.",
           rating: 4.7,
@@ -15596,7 +15593,8 @@ Pearl's D-Series line uses a wide, double-braced round base and a locking height
     faq: [
       {
         question: "What hardware do metal drummers use?",
-        answer: "Touring metal drummers favor heavy, double-braced hardware from DW (9000 Series — Ray Luzier), Tama (Titan Series — Lars Ulrich, Blake Richardson; Iron Cobra hardware — Abe Cunningham), and Sonor (600 Series — Gavin Harrison). Rack systems like Gibraltar's Road Series (John Otto) are common for wide double-kick setups, and Pearl's D-Series thrones (George Kollias, Inferno) are popular for their stability at extreme tempos."
+        answer: "Touring metal drummers favor heavy, double-braced hardware from DW (9000 Series — Ray Luzier), Tama (Titan Series — Lars Ulrich; Iron Cobra hardware — Abe Cunningham, " +
+          "Blake Richardson), and Sonor (600 Series — Gavin Harrison). Rack systems like Gibraltar's Road Series (John Otto) are common for wide double-kick setups, and Pearl's D-Series thrones (George Kollias, Inferno) are popular for their stability at extreme tempos."
       },
       {
         question: "Do I need a rack for metal?",

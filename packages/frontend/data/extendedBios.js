@@ -2583,21 +2583,19 @@ Mangini departed Dream Theater in 2023 when founding drummer Mike Portnoy rejoin
       },
       gearHighlights: {
         title: 'Gear Highlights',
-        content: `Mike Mangini uses a massive Pearl Drums kit with numerous electronic and acoustic elements. His setup reflects his technical approach—designed for maximum efficiency and sonic variety.
+        content: `Mike Mangini uses a massive Pearl Drums kit with numerous acoustic elements. His setup reflects his technical approach—designed for maximum efficiency and sonic variety.
 
 **Current Setup:**
 - **Drums**: Pearl Reference Series (custom configuration)
 - **Snares**: Pearl Reference 14"x5" and 14"x6.5" (multiple)
 - **Cymbals**: Sabian (HHX Evolution, AAX X-Plosion crashes, custom hi-hats)
-- **Hardware**: Pearl Demon Drive double pedal
+- **Hardware**: Pearl Eliminator Redline Double Pedal
 - **Sticks**: Vater Mike Mangini Wicked Piston (VHMMWP)
 - **Throne**: Pearl Roadster
-- **Electronics**: Roland TD-50 module for triggers and samples
 
 **Setup Philosophy:**
 - Ergonomically optimized for biomechanical efficiency
 - Multiple snare drums for tonal variety
-- Extensive electronic integration for progressive soundscapes
 - Symmetrical layout where possible
 - Custom positioning based on scientific analysis of motion`
       },
@@ -2622,13 +2620,12 @@ Mangini departed Dream Theater in 2023 when founding drummer Mike Portnoy rejoin
           { q: 'What band does Mike Mangini play drums for?', a: 'Mike Mangini drummed for Dream Theater from 2010 to 2023, departing when founding member Mike Portnoy returned to the band. Since June 2026 he has been Godsmack\'s touring drummer, and he continues to play with Extreme.' },
           { q: 'What drums does Mike Mangini play?', a: 'Mike Mangini plays a Pearl Reference Series drum kit.' },
           { q: 'What drum kit does Mike Mangini play?', a: 'Mike Mangini\'s drum kit is a Pearl Reference Series shell pack built around two signature-spec Pearl Reference brass snares (14"x5" and 14"x6.5"), with Evans drumheads.' },
-          { q: 'What drum set does Mike Mangini play?', a: 'Mike Mangini\'s drum set pairs Pearl Reference Series shells and his two Pearl Reference brass snares with Sabian HHX and AAX Series cymbals, plus a Roland SPD-SX sampling pad for electronic textures.' },
+          { q: 'What drum set does Mike Mangini play?', a: 'Mike Mangini\'s drum set pairs Pearl Reference Series shells and his two Pearl Reference brass snares with Sabian HHX and AAX Series cymbals.' },
           { q: 'What cymbals does Mike Mangini use?', a: 'Mike Mangini uses Sabian HHX and AAX Series cymbals, including 14" HHX Evolution Hi-Hats, 17", 18", and 19" HHX Evolution Crashes, and a 21" HHX Raw Bell Dry Ride.' },
           { q: 'What hi-hats does Mike Mangini use?', a: 'Mike Mangini plays 14" Sabian HHX Evolution Hi-Hats, providing the crisp, articulate chick sound needed to cut through Dream Theater\'s dense, technical arrangements.' },
           { q: 'What snare drum does Mike Mangini use?', a: 'Mike Mangini plays two Pearl Reference brass snares — a 14"x5" and a 14"x6.5" — switching between them for different sonic needs.' },
-          { q: 'What pedals does Mike Mangini use?', a: 'Mike Mangini drives his technical double bass patterns with a Pearl Demon Drive double pedal.' },
-          { q: 'What drumsticks does Mike Mangini use?', a: 'Mike Mangini plays his own signature Vater Mike Mangini Wicked Piston (VHMMWP) drumsticks.' },
-          { q: 'What electronics does Mike Mangini use?', a: 'Mike Mangini integrates a Roland TD-50 module for triggers and samples into his Pearl Reference Series drum kit, giving his drum set the electronic textures heard on recent Dream Theater albums.' }
+          { q: 'What pedals does Mike Mangini use?', a: 'Mike Mangini drives his technical double bass patterns with a Pearl Eliminator Redline Double Pedal.' },
+          { q: 'What drumsticks does Mike Mangini use?', a: 'Mike Mangini plays his own signature Vater Mike Mangini Wicked Piston (VHMMWP) drumsticks.' }
         ]
       },
       sources: {

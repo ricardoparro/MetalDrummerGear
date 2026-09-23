@@ -90550,7 +90550,7 @@ One overlooked factor: groove metal's deliberate pacing means a stick's per-hit 
     // SEO metadata
     title: "Best Drumsticks for Mathcore: 2026 Ultimate Guide",
     metaTitle: "Best Drumsticks for Mathcore 2026 | MetalForge Expert Guide",
-    description: "Best drumsticks for mathcore drumming: what Ben Koller (Vic Firth 5B), Matt Greiner (Vic Firth Signature), Blake Richardson (Vic Firth 5A/5B), and Danny Carey (Vic Firth Signature) actually play. Lighter, faster sticks for odd-time signature precision — ranked budget to pro.",
+    description: "Best drumsticks for mathcore drumming: what Ben Koller (Vic Firth 5B), Matt Greiner (Vic Firth Signature), Blake Richardson (Vic Firth American Classic 3A), and Danny Carey (Vic Firth Signature) actually play. Lighter, faster sticks for odd-time signature precision — ranked budget to pro.",
     seoKeywords: [
       'best drumsticks for mathcore',
       'mathcore drumsticks',
@@ -90587,13 +90587,13 @@ One overlooked factor: groove metal's deliberate pacing means a stick's per-hit 
       title: "Why Mathcore Sticks Need Precision, Not Just Power",
       content: `Mathcore fuses hardcore punk's raw aggression with progressive rock's obsession with odd meters, asymmetrical riffing, and constantly shifting rhythmic cells. That combination puts a premium on a stick's control and articulation across a wide range of accent points — unlike a straightforward groove or breakdown-driven genre, mathcore rarely settles into a repeating pattern long enough for a drummer to lean purely on raw power.
 
-Ben Koller of Converge plays a standard Vic Firth American Classic 5B, favoring its dependable balance of power and control within mathcore's apparent rhythmic chaos. Matt Greiner of August Burns Red plays his own Vic Firth signature stick — an elongated-taper, teardrop-tip model built for the rebound and control needed across odd-time signatures and sudden tempo shifts. Blake Richardson of Between the Buried and Me plays standard Vic Firth 5A or 5B sticks, sized to match BTBAM's genre-hopping technicality on a given passage. Danny Carey of Tool, whose Fibonacci-structured polyrhythms established a mathematically rigorous drumming standard that directly informed mathcore's own rhythmic ambitions, plays his own barrel-tipped Vic Firth signature stick.
+Ben Koller of Converge plays a standard Vic Firth American Classic 5B, favoring its dependable balance of power and control within mathcore's apparent rhythmic chaos. Matt Greiner of August Burns Red plays his own Vic Firth signature stick — an elongated-taper, teardrop-tip model built for the rebound and control needed across odd-time signatures and sudden tempo shifts. Blake Richardson of Between the Buried and Me plays the Vic Firth American Classic 3A, chosen for the mass and control needed across BTBAM's blast-beat-to-ghost-note dynamic range. Danny Carey of Tool, whose Fibonacci-structured polyrhythms established a mathematically rigorous drumming standard that directly informed mathcore's own rhythmic ambitions, plays his own barrel-tipped Vic Firth signature stick.
 
 This guide covers what actually makes a drumstick work for mathcore's rhythmically unpredictable, precision-first demands, what the genre's most technical drummers actually play, and concrete recommendations from budget to pro.`,
       keyPoints: [
         "Mathcore's odd-time signatures and constantly shifting rhythmic cells reward control and articulation over raw power alone",
         "Matt Greiner's elongated-taper signature stick improves rebound across mathcore's irregular accent points",
-        "Ben Koller's standard 5B and Blake Richardson's standard 5A/5B show mathcore doesn't strictly require specialized signature geometry",
+        "Ben Koller's standard 5B and Blake Richardson's standard 3A show mathcore doesn't strictly require specialized signature geometry",
         "Lighter-to-medium diameters dominate mathcore, trading some raw power for the speed and control odd-meter precision demands"
       ]
     },
@@ -90611,7 +90611,7 @@ This guide covers what actually makes a drumstick work for mathcore's rhythmical
         {
           name: "Lighter, Faster Diameter",
           icon: "⚡",
-          description: "Unlike breakdown-first genres that reward maximum diameter, mathcore's odd-meter precision benefits from a lighter stick that keeps hand speed high across rapid, irregular subdivisions. Blake Richardson's standard 5A choice reflects this need for speed over raw mass.",
+          description: "Unlike breakdown-first genres that reward maximum diameter, mathcore's odd-meter precision benefits from a lighter stick that keeps hand speed high across rapid, irregular subdivisions. Blake Richardson's Vic Firth American Classic 3A choice reflects this need for speed over raw mass.",
           recommendation: "5A-to-5B range, sized toward the lighter end for maximum rhythmic agility"
         },
         {
@@ -90725,42 +90725,42 @@ For mathcore drummers who want proven reliability without a specialized signatur
         },
         {
           rank: 3,
-          name: "Vic Firth American Classic 5A/5B",
+          name: "Vic Firth American Classic 3A",
           brand: "Vic Firth",
-          model: "American Classic 5A/5B Wood Tip",
+          model: "American Classic 3A Wood Tip",
           image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Drumsticks.jpg/640px-Drumsticks.jpg",
-          priceRange: "€8-15 (pair)",
+          priceRange: "€9-13 (pair)",
           tier: "pro",
           material: "American Hickory",
 
-          description: `Blake Richardson of Between the Buried and Me plays standard Vic Firth 5A or 5B sticks, sizing his choice to match BTBAM's genre-hopping technicality on a given passage — reaching for the lighter 5A on rapid, odd-meter sections and the heavier 5B when the material calls for more weight.
+          description: `Blake Richardson of Between the Buried and Me plays the Vic Firth American Classic 3A — a lighter, shorter-tapered stick chosen for the mass and control needed across BTBAM's blast-beat-to-ghost-note dynamic range.
 
-Richardson's dual-size approach reflects mathcore's core demand: the ability to shift control and power on the fly, matching the stick to the bar rather than the whole set.`,
+For mathcore drummers whose material swings between rapid odd-meter passages and dense, technical fills, the 3A's lighter weight and quick response make it easier to move between wildly different dynamic demands within the same performance.`,
 
           pros: [
-            "Blake Richardson's proven BTBAM setup — genre-hopping technical versatility",
-            "Standard, dependable sizing available in both lighter and heavier options",
+            "Blake Richardson's proven BTBAM setup since 2006",
+            "Barrel tip delivers bright, articulate cymbal sound",
+            "Lighter weight suits fast dynamic shifts across genre-hopping material",
             "American hickory for reliable durability across technical material",
-            "Flexible two-stick approach matches control to specific passages",
-            "Widely available and affordably priced"
+            "Affordable — standard American Classic pricing, not signature"
           ],
           cons: [
-            "Requires carrying two stick sizes for the full dual-size approach",
-            "Neither size is purpose-built specifically for mathcore's odd-meter demands"
+            "Less power than a full 5B for heavily accented sections",
+            "Barrel tip has a narrower sweet spot than oval/teardrop tips"
           ],
           specs: {
             material: "American Hickory",
-            diameter: "0.565\"-0.595\"",
-            length: "16\"",
-            tip: "Oval (wood)",
+            diameter: "0.580\"",
+            length: "16.2\"",
+            tip: "Barrel (wood)",
             grip: "Lacquered"
           },
           usedBy: [
-            { name: "Blake Richardson", band: "Between the Buried and Me", note: "Vic Firth 5A/5B — matched to BTBAM's genre-hopping technicality" }
+            { name: "Blake Richardson", band: "Between the Buried and Me", note: "Vic Firth American Classic 3A — mass and control across BTBAM's dynamic range" }
           ],
-          verdict: "The flexible technical pick. Best for mathcore drummers who want to match stick weight to specific odd-meter passages.",
+          verdict: "The lightweight technical pick. Best for mathcore drummers whose material demands fast shifts between dynamic extremes.",
           rating: 4.5,
-          affiliateLink: "https://www.thomann.de/intl/vic_firth_american_classic_5a.htm?partner_id=metalforge"
+          affiliateLink: "https://www.thomann.de/intl/vic_firth_american_classic_3a.htm?partner_id=metalforge"
         },
         {
           rank: 4,
@@ -90850,9 +90850,9 @@ For mathcore drummers drawn to Tool's polyrhythmic lineage, Carey's signature st
 - Elongated taper and barrel/teardrop tips built for odd-time precision
 - Preferred by: Matt Greiner, Danny Carey
 
-**Standard Sizes (Vic Firth American Classic 5A/5B):**
+**Standard Sizes (Vic Firth American Classic 3A/5B):**
 - Broadly proven, widely available, and more affordable
-- Ben Koller's 5B and Blake Richardson's 5A/5B show mathcore doesn't require signature geometry
+- Ben Koller's 5B and Blake Richardson's 3A show mathcore doesn't require signature geometry
 - Preferred by: Ben Koller, Blake Richardson
 
 **The Truth:** Both approaches work at mathcore's highest level. Matt Greiner's signature stick solves a specific problem — maintaining rebound and control across August Burns Red's constantly shifting odd-time material. Ben Koller's standard 5B choice shows that raw power and control can carry a drummer through mathcore's rhythmic chaos without anything more specialized.
@@ -90883,8 +90883,8 @@ For mathcore drummers drawn to Tool's polyrhythmic lineage, Carey's signature st
         },
         {
           category: "Best for Genre-Hopping Flexibility",
-          pedal: "Vic Firth American Classic 5A/5B",
-          reason: "Blake Richardson's dual-size approach — stick weight matched to specific odd-meter passages."
+          pedal: "Vic Firth American Classic 3A",
+          reason: "Blake Richardson's proven BTBAM setup — lightweight articulation across genre-hopping material."
         },
         {
           category: "Best Budget Pick",
@@ -90904,7 +90904,7 @@ For mathcore drummers drawn to Tool's polyrhythmic lineage, Carey's signature st
     relatedDrummers: [
       { slug: 'ben-koller', name: 'Ben Koller', reason: 'Vic Firth American Classic 5B — Converge\'s control within rhythmic chaos' },
       { slug: 'matt-greiner', name: 'Matt Greiner', reason: 'Vic Firth signature — odd-time control and rebound for August Burns Red' },
-      { slug: 'blake-richardson', name: 'Blake Richardson', reason: 'Vic Firth 5A/5B — BTBAM\'s genre-hopping technicality' },
+      { slug: 'blake-richardson', name: 'Blake Richardson', reason: 'Vic Firth American Classic 3A — BTBAM\'s genre-hopping technicality' },
       { slug: 'danny-carey', name: 'Danny Carey', reason: 'Vic Firth signature — Tool\'s polyrhythmic lineage behind math metal' }
     ],
 
@@ -90912,7 +90912,7 @@ For mathcore drummers drawn to Tool's polyrhythmic lineage, Carey's signature st
     featuredDrummers: [
       { slug: 'ben-koller', name: 'Ben Koller', reason: 'Vic Firth American Classic 5B — Converge\'s hardcore-rooted mathcore intensity' },
       { slug: 'matt-greiner', name: 'Matt Greiner', reason: 'Vic Firth Signature Series — August Burns Red\'s odd-time compositional precision' },
-      { slug: 'blake-richardson', name: 'Blake Richardson', reason: 'Vic Firth 5A/5B — Between the Buried and Me\'s technical versatility' },
+      { slug: 'blake-richardson', name: 'Blake Richardson', reason: 'Vic Firth American Classic 3A — Between the Buried and Me\'s technical versatility' },
       { slug: 'danny-carey', name: 'Danny Carey', reason: 'Vic Firth Signature — Tool\'s polyrhythmic mathematical rigor' }
     ],
     relatedComparisons: [],
@@ -90933,11 +90933,11 @@ For mathcore drummers drawn to Tool's polyrhythmic lineage, Carey's signature st
       },
       {
         question: "What drumsticks does Blake Richardson use?",
-        answer: "Blake Richardson of Between the Buried and Me plays standard Vic Firth 5A or 5B sticks, sizing his choice to match BTBAM's genre-hopping technicality — lighter 5A for rapid odd-meter sections, heavier 5B when the material calls for more weight."
+        answer: "Blake Richardson of Between the Buried and Me plays the Vic Firth American Classic 3A, chosen for the mass and control needed across BTBAM's blast-beat-to-ghost-note dynamic range."
       },
       {
         question: "Do mathcore drummers need lighter sticks than other metal genres?",
-        answer: "Often, yes. Mathcore's constantly shifting rhythmic cells reward hand speed and control over raw power, which is why Blake Richardson reaches for a lighter 5A on rapid passages and Matt Greiner's signature model sits at a lighter 0.585\" diameter rather than a full 5B."
+        answer: "Often, yes. Mathcore's constantly shifting rhythmic cells reward hand speed and control over raw power, which is why Blake Richardson plays the lighter American Classic 3A rather than a full 5B, and Matt Greiner's signature model sits at a lighter 0.585\" diameter rather than a full 5B."
       }
     ],
 

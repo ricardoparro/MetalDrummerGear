@@ -28098,7 +28098,7 @@ Start with an 18" in a dry, fast-decaying voice, and size down to 16" if your ma
       title: "Why Progressive Metal Demands a Versatile China",
       content: `Progressive metal asks more of a china cymbal than almost any other subgenre. A single song might move from a delicate, atmospheric passage to a crushing odd-meter climax, and the china needs to work as both a subtle textural color and an explosive structural accent — sometimes within the same eight bars.
 
-Mario Duplantier's graduated Zildjian setup with Gojira uses china accents as part of a broader dynamic and textural palette, one piece in an arsenal built for the band's shifts between atmospheric passages and crushing heaviness. Danny Carey's Paiste Signature setup with Tool treats cymbal choices — china included — as compositional tools suited to the band's famously complex, Fibonacci-influenced time signatures. Blake Richardson's Meinl Byzance Dark china with Between the Buried and Me handles the band's extreme dynamic range, while Brann Dailor's Meinl Mb20 & Mb8 Series setup with Mastodon has carried a GRAMMY-winning progressive metal sound across records built on constant structural surprise.
+Mario Duplantier's graduated Zildjian setup with Gojira uses china accents as part of a broader dynamic and textural palette, one piece in an arsenal built for the band's shifts between atmospheric passages and crushing heaviness. Danny Carey's Paiste Signature setup with Tool treats cymbal choices — china included — as compositional tools suited to the band's famously complex, Fibonacci-influenced time signatures, while Brann Dailor's Meinl Mb20 & Mb8 Series setup with Mastodon has carried a GRAMMY-winning progressive metal sound across records built on constant structural surprise.
 
 This guide covers what makes a china work across progressive metal's demanding range: tonal versatility, dynamic control, and musicality, along with specific model recommendations across every budget.`,
       keyPoints: [
@@ -28241,7 +28241,7 @@ Danny Carey's Paiste Signature setup with Tool treats every cymbal choice as par
           driveType: "B20 Bronze, Dark",
           description: `The Byzance Dark China balances a controlled attack with real tonal depth, giving progressive metal drummers a china that handles extreme dynamic range — from delicate atmospheric passages to full-force climactic hits.
 
-Blake Richardson's Meinl Byzance Dark setup with Between the Buried and Me handles the band's extreme dynamic range and constant genre-blending shifts, where a china needs to sound equally convincing in a jazz-influenced interlude and a blast-beat-driven climax.`,
+Its hand-hammered B20 construction gives it the musical, overtone-rich voice progressive metal needs when a china has to sound equally convincing in a quiet interlude and a blast-beat-driven climax.`,
           pros: [
             "Wide dynamic range for extreme genre-blending arrangements",
             "Dark, controlled tone that scales from subtle to explosive",
@@ -28260,9 +28260,7 @@ Blake Richardson's Meinl Byzance Dark setup with Between the Buried and Me handl
             weight: "Medium",
             mounting: "Standard or Inverted"
           },
-          usedBy: [
-            { name: "Blake Richardson", band: "Between the Buried and Me", note: "Extreme dynamic range across genre-blending arrangements" }
-          ],
+          usedBy: [],
           verdict: "Best for drummers whose material swings between delicate and extreme within the same song.",
           rating: 4.6,
           affiliateLink: "https://www.thomann.de/intl/meinl_byzance_dark_china_18.htm?partner_id=metalforge"
@@ -28441,7 +28439,7 @@ Mario Duplantier's graduated Zildjian setup with Gojira uses a bright, cutting c
     relatedDrummers: [
       { slug: 'brann-dailor', name: 'Brann Dailor', reason: 'Meinl Mb8 China — Mastodon\'s GRAMMY-winning prog metal sound' },
       { slug: 'danny-carey', name: 'Danny Carey', reason: 'Paiste Signature Full China — Tool\'s Fibonacci-influenced complexity' },
-      { slug: 'blake-richardson', name: 'Blake Richardson', reason: 'Meinl Byzance Dark China — BTBAM\'s dynamic extremity' },
+      { slug: 'blake-richardson', name: 'Blake Richardson', reason: 'Sabian AAX Holy China — BTBAM\'s dynamic extremity since the 2018 Automata switch' },
       { slug: 'mario-duplantier', name: 'Mario Duplantier', reason: 'Zildjian A Custom China within a graduated cymbal palette' }
     ],
     relatedComparisons: [],

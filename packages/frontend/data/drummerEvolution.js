@@ -7080,95 +7080,24 @@ export const DRUMMER_EVOLUTION = {
   },
 
   // ==========================================
-  // Ben Koller - Converge (1990–Present)
+  // Ben Koller - Converge (1999–Present)
   // ==========================================
   'ben-koller': {
     slug: 'ben-koller',
     name: 'Ben Koller',
     band: 'Converge',
-    totalYearsActive: '1990-Present',
+    totalYearsActive: '1999-Present',
     profileImage: '/images/drummers/ben-koller.webp',
-    summary: 'Ben Koller\'s evolution is the story of how raw hardcore chaos becomes controlled precision. From DIY club kits built for speed and aggression in 1990s Massachusetts to the polished Tama setup behind Converge\'s most ambitious records, Koller transformed chaotic energy into one of modern heavy music\'s most distinctive and influential drum voices — channeling the breakneck tempos of Jane Doe into the layered complexity of Axe to Fall and beyond.',
+    summary: 'Ben Koller\'s evolution is the story of how raw hardcore chaos becomes controlled precision. From the standard touring-grade Tama kits he played after joining Converge in 1999 to the polished Tama setup behind the band\'s most ambitious records, Koller transformed chaotic energy into one of modern heavy music\'s most distinctive and influential drum voices — channeling the breakneck tempos of Jane Doe into the layered complexity of Axe to Fall and beyond.',
 
     eras: [
       {
-        id: 'ben-koller-1990-early-hardcore',
-        era: 'Early Hardcore / DIY Formation Era',
-        years: '1990–2000',
-        startYear: 1990,
-        endYear: 2000,
-        description: 'Ben Koller co-founded Converge in Salem, Massachusetts in 1990 as a high-school hardcore band. Through the 1990s the band released a series of raw, self-produced records on independent labels — Petitioning the Empty Sky (1996), When Forever Comes Crashing (1998) — that established Converge\'s reputation for chaotic intensity. Koller played on whatever kit was available: secondhand Pearl and Tama kits acquired through trades and local music stores, held together by determination and urgency. The sound was appropriately brutal.',
-        albums: ['Petitioning the Empty Sky (1996)', 'When Forever Comes Crashing (1998)', 'The Poacher Diaries (1998)'],
-        tours: ['New England hardcore circuit', 'DIY Northeast US tours'],
-        image: null,
-
-        gear: {
-          drums: {
-            item: 'Various secondhand Pearl / Tama kits',
-            details: '20"–22" kick, standard tom configuration',
-            notes: 'DIY-era setups — Koller used whatever was available, with an emphasis on durability over tone. Pearl and Tama were the most commonly sourced brands on the used market of the era.',
-            change: null,
-          },
-          snare: {
-            item: 'Pearl Steel 14"×5"',
-            details: 'Steel shell, tight crack',
-            notes: 'Steel snare for maximum punch in underpowered PA environments — the sharp attack cut through dense hardcore guitar walls in small venues.',
-            change: null,
-          },
-          cymbals: {
-            item: 'Zildjian ZBT / Sabian B8 Series',
-            details: '13"–14" hi-hats, 16"/18" crashes, 20" ride',
-            notes: 'Entry-level brass cymbals — loud, durable, and affordable for a band touring on no budget. Replaced frequently as a result of aggressive playing.',
-            change: null,
-          },
-          hardware: {
-            item: 'Pearl P-100 Single / Basic Double Pedal',
-            details: 'Budget chain-drive double pedal',
-            notes: 'Basic double pedal hardware — Koller\'s early playing emphasised raw speed and aggression over refined technique, demanding a pedal that could take punishment.',
-            change: null,
-          },
-          sticks: {
-            item: 'Vic Firth 5B',
-            details: 'Standard hickory',
-            notes: 'Heavier 5B sticks for the power-forward demands of hardcore drumming — survival over subtlety.',
-            change: null,
-          },
-          heads: {
-            item: 'Remo Ambassador',
-            details: 'Single-ply batter heads',
-            notes: 'Standard Ambassador heads — replaced frequently due to the physicality of hardcore performance.',
-            change: null,
-          },
-        },
-
-        estimatedCost: {
-          original: 1500,
-          inflationAdjusted: 2800,
-          currency: 'USD',
-        },
-
-        keyChanges: [
-          'Converge formed in Salem, Massachusetts (1990)',
-          'DIY recording approach on independent labels',
-          'Petitioning the Empty Sky (1996) and When Forever Comes Crashing (1998) establish Converge in underground',
-          'Raw, urgency-driven playing style developed under real-world constraint',
-        ],
-
-        quote: {
-          text: "We were always just trying to get louder and faster. Whatever kit I could get my hands on, that was the kit.",
-          source: 'Revolver Magazine Interview, 2012',
-        },
-
-        videos: [],
-      },
-
-      {
-        id: 'ben-koller-2001-jane-doe',
+        id: 'ben-koller-1999-jane-doe',
         era: 'Jane Doe Breakthrough Era',
-        years: '2001–2008',
-        startYear: 2001,
+        years: '1999–2008',
+        startYear: 1999,
         endYear: 2008,
-        description: 'Jane Doe (2001, Hydra Head Records) was the record that redefined what hardcore could be — and Ben Koller\'s drumming was central to its impact. The album\'s chaotic, jazz-influenced rhythmic structures demanded a step up in both setup and technique. Koller moved to a more stable Tama Rockstar / Imperialstar configuration, and the increased production quality of Jane Doe and its follow-ups (You Fail Me, No Heroes) amplified the power and precision of his upgraded setup. The stripped-down, direct sound of You Fail Me and No Heroes reflected deliberate restraint in gear as well as composition.',
+        description: 'Ben Koller joined Converge in 1999, playing standard touring-grade Tama kits through the band\'s landmark Jane Doe (2001, Hydra Head Records) — the record that redefined what hardcore could be, with Koller\'s drumming central to its impact. The album\'s chaotic, jazz-influenced rhythmic structures demanded a step up in both setup and technique. Koller moved to a more stable Tama Rockstar / Imperialstar configuration, and the increased production quality of Jane Doe and its follow-ups (You Fail Me, No Heroes) amplified the power and precision of his upgraded setup. The stripped-down, direct sound of You Fail Me and No Heroes reflected deliberate restraint in gear as well as composition.',
         albums: ['Jane Doe (2001)', 'You Fail Me (2004)', 'No Heroes (2006)'],
         tours: ['Hydra Head Records touring circuit', 'Metallic hardcore underground tours', 'Various US and European hardcore dates'],
         image: null,
@@ -7309,7 +7238,7 @@ export const DRUMMER_EVOLUTION = {
     ],
 
     metaTitle: 'Ben Koller Gear Evolution Timeline | Converge Drum Kit History',
-    metaDescription: 'Explore Ben Koller\'s complete drum gear evolution from DIY hardcore beginnings to the Tama Starclassic era. The full Converge drum kit history across Jane Doe, Axe to Fall, and beyond.',
+    metaDescription: 'Explore Ben Koller\'s complete drum gear evolution from his 1999 Converge debut to the Tama Starclassic era. The full Converge drum kit history across Jane Doe, Axe to Fall, and beyond.',
   },
 
   // ==========================================

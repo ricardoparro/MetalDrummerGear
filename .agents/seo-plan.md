@@ -9814,3 +9814,49 @@ All 7 filed issues cross-checked via `gh issue list --state all --search` (drumm
 2. Blake Richardson's Meinl Byzance Dark crash-cymbal pick (line ~43144) logged, not filed — low priority, revisit only if the 3 currently-open Richardson cymbal issues (#7971-7973) ship and a dedicated pass is warranted.
 3. Content-gap queries unchanged/held on established precedent (Danny Carey exhausted-lever, Arin Ilejay class-2).
 4. Next drum-chair watch due Monday 2026-09-28, group 0 (amon-amarth…cynic).
+
+## 2026-09-23 (run ~13:00 UTC slot, per metrics.md 12:26 UTC) — 8 fresh proposals filed (#7991-7998): fabrication-sweep continuation across genreGearGuides.js/drummerEvolution.js/soundLikeGuides.js
+
+Open `seo-proposal` bank at run start: 12 (all already `ai-fix`-promoted or `human`-held except the 3 standing umbrellas #2211/#3810/#3819 — true untriaged fresh count was 0) — well under 45 → cleared to file up to 8 net-new. Metrics (320 users/371 sessions/541 views 7d; GSC 8,312 impr/173 clicks/2.08% CTR/pos 7.5, unchanged from the morning snapshot). Audit: robots.txt confirms all 8 AI crawlers explicitly allowed (`api/robots.js`); `/llms/*.md` endpoints stable at 2,016. Today is Wednesday, ISO week 39 — drum-chair watch not due (already run this Monday 2026-09-21, group 3; next due Monday 2026-09-28, group 0). Content-gap table unchanged (`arin ilejay`, `danny carey drum kit/set`) — re-confirmed against `learned-patterns.md`'s class-2 bare-name (line 205/211) and exhausted-content-lever (line 201/236) rulings, no new action.
+
+### This run's work
+
+Dispatched 2 parallel research agents — one continuing the `genreGearGuides.js`/`drummerEvolution.js` sweep (told to skip this week's heavily-covered names: Richardson, Roddy, Bittner, Ågren, Augusto, Greiner, Mangini, Kollias, Benante, Lombardo, Jordison, Portnoy, Ulrich, Dailor, Mounier, Hoglan, Adler, Bozzio, Carey, Frost, Casagrande, Hellhammer, Duplantier), one sweeping `soundLikeGuides.js` specifically (comparatively unmined — only #7870/Martin Lopez and a few older batch issues touch it). Combined they returned 16 candidates. **Personally re-verified all 16 via direct `grep`/`Read` against current file content** (not trusting agent-reported line numbers or claims) before filing anything — this caught two errors:
+
+1. **A false positive**: one agent's first "Mikkey Dee Pearl Demon Drive" candidate turned out to already be correctly fixed (DW 5000) in the guide it cited — but a second grep (searching for a different drummer's name that happened to co-occur in the same paragraph) surfaced the *actual* live fabrication in a different, near-duplicate guide (`best-bass-drum-pedals-for-power-metal` vs. the already-fixed guide). Lesson: a `head`-truncated grep can hide the real hit sitting a few lines further down — re-ran without truncation before ruling a candidate dead.
+2. **A wrong framing to drop**: the Alex Bent "invented October 2025 departure + fake 'Struck Dead' album" candidate turned out NOT to be a fabrication — `extendedBios.js`'s `bands` array independently and consistently records `trivium period '2017-2025'`, corroborating `drummerEvolution.js`'s departure narrative rather than contradicting it. There IS a real, smaller 2016-vs-2017 join-year conflict between `endorsementNews.js` and `extendedBios.js`/`drummerEvolution.js`, but that's a 2-source tiebreak conflict of the Daray/Roddy shape (needs external verification), not a clear-cut fabrication — dropped rather than filed to avoid a wrong `human`-hold framing without doing the full verification work first.
+
+Also ran full `gh issue view <n> --json body` reads (not just title search) on the closest-matching prior issue for every candidate with issue-dense history (Mikkey Dee, Nicko McBrain, Shannon Larkin, Hannes Grossmann, Richard Christy, Matt Halpern, Danny Carey) — several of these drummers have 15-30+ prior closed issues, so title-only dedup search was not enough; had to confirm exact field/line-range scope from each closed issue's body to be sure of non-overlap.
+
+1. **#7991** — Mikkey Dee's Pearl Demon Drive pedal fabrication survives in a 2nd, near-duplicate `best-bass-drum-pedals-for-power-metal` guide never touched by #6533 (which fixed a different, already-correct guide at a different line range) — verified DW 5000 Series.
+2. **#7992** — Nicko McBrain's snare guide mis-dates his Sonor switch to "Virtual XI" (1998) — actual switch was 2010 (1998 was mid-Yamaha-era) — and frames Sonor as still "current" when his kit moved to British Drum Co. in 2019.
+3. **#7993** — Shannon Larkin's `drummerEvolution.js` 2003 and 2010 era blocks still fabricate Tama/Vater — #5861 only fixed the latest (2018-present) era block, leaving these two untouched with the identical fabrication class.
+4. **#7994** — Paul Mazurkiewicz's `drummerEvolution.js` hardware fabricated as "Pearl Demon Drive" — verified Pearl Eliminator Double Bass Pedal since the 1990s, no documented Demon Drive switch.
+5. **#7995** — Danny Carey's `soundLikeGuides.js` snare/cymbal fields still fabricated after #6435's narrower fix (which only touched `drumKit.model`/`pedals`) — wrong snare dimensions (14x6.5 Beech vs. verified signature 14x8 Bronze) + an invented "Dark Energy" cymbal product line with an unsourced "instrumental in developing" claim.
+6. **#7996** — Hannes Grossmann's `soundLikeGuides.js` entry backdates his DW kit ~13 years over the Necrophagist/Obscura era it's describing — the last unswept file for this fact class (every sibling file already fixed: #7280/#7576/#6960/#6443/#6832/#5990/#5313/#5551/#7048).
+7. **#7997** — Richard Christy's `soundLikeGuides.js` cymbal models are invented (HHX Evolution Crash / AAX X-Treme China don't exist in his verified setup) and sticks/heads fields silently drop half his verified brand mix — #6682 only fixed the FAQ section's pedal clause, not this main `gear` block.
+8. **#7998** — Matt Halpern's `drummerEvolution.js` 2009-2011 and 2012-2014 era blocks show "Pearl Reference Series" the whole time — #5860 only fixed the 2019-modern era's Mapex→Pearl correction; these two earlier blocks have a different, still-unfixed error (Pearl shown 4-6 years before it actually began, skipping his verified Mapex/Yamaha history).
+
+### Not filed (investigated, ruled out)
+
+- Alex Bent's "2025 departure + Struck Dead album" — see lesson #2 above; the departure is a corroborated internal fact, not a fabrication. The smaller 2016-vs-2017 join-year conflict is logged here for a future run to pick up as a proper Daray/Roddy-shape human-verification candidate if someone wants to do the full 3-source arbitration work.
+- Ryan Van Poederooyen's join-year/debut-album narrative — flagged by the research agent but not independently re-verified this run (time-boxed to 8 filings); worth a follow-up pass.
+- Nick Menza's `kitOverview` prose-vs-structured-field propagation bug (flagged as a "bonus" by the research agent) — distinct in shape from the other 7 (a root-cause data-field bug, not a simple brand swap) — logged for a future run rather than filed under time pressure this run.
+
+### Dedup notes
+
+All 8 filed issues cross-checked via `gh issue list --state all --search` (drummer + gear-category keywords), and for the 6 with issue-dense history (15-30+ prior closed issues per drummer) additionally verified via full `gh issue view --json body` reads of the closest-matching closed issue to confirm exact field/line-range non-overlap rather than trusting title-search alone.
+
+### Open proposals waiting on CEO triage
+- #7869 (Daray, human-verification-needed, unchanged)
+- #7981 (Roddy, human-verification-needed, unchanged, filed 09-23 earlier run)
+- #7991-7998 (this run, 8 fresh)
+- #2211/#3810/#3819 (standing umbrellas)
+- Bank at run end: 20 open `seo-proposal` (well under the 45 top-up ceiling).
+
+### Next run
+1. Watch #7991-7998 through CEO triage.
+2. Ryan Van Poederooyen join-year/debut-album candidate and Nick Menza `kitOverview` prose-propagation bug — both logged above, worth independent verification in a future run.
+3. Alex Bent 2016-vs-2017 join-year conflict (endorsementNews.js vs. extendedBios.js/drummerEvolution.js) — a genuine but minor 3-source tiebreak, same shape as Daray/Roddy; low priority given it's a 1-year date discrepancy, not a brand fabrication.
+4. Content-gap queries unchanged/held on established precedent (Danny Carey exhausted-lever, Arin Ilejay class-2).
+5. Next drum-chair watch due Monday 2026-09-28, group 0 (amon-amarth…cynic).

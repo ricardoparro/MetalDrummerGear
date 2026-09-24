@@ -13118,7 +13118,7 @@ This guide breaks down the technique, gear, and practice approach behind Verbeur
         finish: 'Various finishes across touring periods',
         config: {
           kick: '22" x 18" Bass Drums (x2, double bass configuration)',
-          snare: '14" x 6.5" Tama S.L.P. Big Black Steel Snare',
+          snare: '14" x 5.5" Tama S.L.P. Dynamic Bronze Snare',
           toms: ['10" x 8" Rack Tom', '12" x 9" Rack Tom'],
           floorToms: ['16" x 14" Floor Tom', '18" x 16" Floor Tom']
         },
@@ -13127,11 +13127,11 @@ This guide breaks down the technique, gear, and practice approach behind Verbeur
       },
       snare: {
         brand: 'Tama',
-        model: 'Tama S.L.P. Big Black Steel Snare',
-        size: '14" x 6.5"',
-        shell: 'Steel',
-        description: "A steel shell tuned for a sharp, cutting crack that stays articulate whether Verbeuren is executing an extreme-tempo blast beat or a precise mid-tempo thrash groove.",
-        alternative: "Any 14\" steel-shell snare tuned bright and medium-high will approximate the cut."
+        model: 'Tama S.L.P. Dynamic Bronze Snare',
+        size: '14" x 5.5"',
+        shell: 'Bronze',
+        description: "A bronze shell tuned for a warm, complex crack that stays articulate whether Verbeuren is executing an extreme-tempo blast beat or a precise mid-tempo thrash groove.",
+        alternative: "Any 14\" bronze-shell snare tuned bright and medium-high will approximate the cut."
       },
       cymbals: {
         brand: 'Meinl',
@@ -13179,7 +13179,7 @@ This guide breaks down the technique, gear, and practice approach behind Verbeur
       snare: {
         tension: "Medium-bright",
         muffling: "Light",
-        description: "Bright tuning keeps the steel snare cutting through Megadeth's dense guitar mix at both blast tempo and mid-tempo groove sections.",
+        description: "Bright tuning keeps the bronze snare cutting through Megadeth's dense guitar mix at both blast tempo and mid-tempo groove sections.",
         tip: "A slightly bright snare tuning holds up better once the full band mix is added than it sounds in isolation."
       },
       toms: {
@@ -13257,7 +13257,7 @@ This guide breaks down the technique, gear, and practice approach behind Verbeur
       },
       {
         question: "What gear should I use to sound like Dirk Verbeuren?",
-        answer: "Verbeuren plays a Tama Starclassic Maple kit with a double 22\" x 18\" bass drum configuration, a 14\" x 6.5\" Tama S.L.P. Big Black Steel snare, Meinl Byzance Brilliant & Classics Custom Dark cymbals, a Tama Speed Cobra 910 double pedal, and Tama O-DVM2 signature sticks. A Pearl Export kit with Meinl HCS cymbals approximates the attack-focused character on a budget."
+        answer: "Verbeuren plays a Tama Starclassic Maple kit with a double 22\" x 18\" bass drum configuration, a 14\" x 5.5\" Tama S.L.P. Dynamic Bronze snare, Meinl Byzance Brilliant & Classics Custom Dark cymbals, a Tama Speed Cobra 910 double pedal, and Tama O-DVM2 signature sticks. A Pearl Export kit with Meinl HCS cymbals approximates the attack-focused character on a budget."
       },
       {
         question: "What tempo should I practice at to sound like Dirk Verbeuren?",

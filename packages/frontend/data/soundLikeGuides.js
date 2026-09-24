@@ -3391,26 +3391,26 @@ This guide breaks down Mounier's blast technique, his endurance methodology, and
     gear: {
       title: "Flo's Technical Death Metal Arsenal",
       drumKit: {
-        brand: 'Pearl',
-        model: 'Pearl Reference Pure',
-        shells: 'Maple/Fiberglass hybrid',
+        brand: 'Tama',
+        model: 'Tama Starclassic Maple',
+        shells: 'All-maple shell pack',
         finish: 'Custom Cryptopsy configurations',
         config: {
           kick: '22" x 18" Bass Drums (x2)',
-          snare: '14" x 6.5" Pearl Free-Floating Snare',
+          snare: '14" x 6.5" Tama Starclassic Maple Snare',
           toms: ['10" x 8" Rack Tom', '12" x 9" Rack Tom'],
           floorToms: ['16" x 16" Floor Tom']
         },
-        description: "Flo has used Pearl drums throughout much of his career, valuing their attack-focused projection for death metal's demanding sonic environment. The kick drums are central — two bass drums provide the foundation for his sustained blast work.",
-        affiliateNote: "Pearl Masters or Export series provide similar Pearl attack characteristics at various price points."
+        description: "Flo has played Tama's Starclassic Maple kit since 2012, valuing its attack-focused projection for death metal's demanding sonic environment. The kick drums are central — two bass drums provide the foundation for his sustained blast work.",
+        affiliateNote: "Tama Imperialstar or Superstar Classic provide similar Tama attack characteristics at various price points."
       },
       snare: {
-        brand: 'Pearl',
-        model: 'Pearl Free-Floating Steel Snare',
+        brand: 'Tama',
+        model: 'Tama Starclassic Maple Snare',
         size: '14" x 6.5"',
-        shell: 'Steel',
-        description: "Flo's snare must perform at 220+ BPM with audible clarity. The Free-Floating design maximizes resonance while the steel shell provides the brightness needed to compete with technical death metal's extreme guitar and bass frequencies.",
-        alternative: "Pearl Sensitone or Ludwig Supraphonic for similar steel shell projection"
+        shell: 'Maple',
+        description: "Flo's snare must perform at 220+ BPM with audible clarity. The Starclassic Maple shell provides the crack and projection needed to compete with technical death metal's extreme guitar and bass frequencies.",
+        alternative: "Tama S.L.P. Big Black Steel or Ludwig Supraphonic for similar bright, cutting projection"
       },
       cymbals: {
         brand: 'Sabian',
@@ -3425,9 +3425,9 @@ This guide breaks down Mounier's blast technique, his endurance methodology, and
         description: "Flo's Sabian setup prioritizes attack speed and clarity — essential when cymbals must speak distinctly within Cryptopsy's compressed, extreme sonic space."
       },
       pedals: {
-        brand: 'Pearl',
-        model: 'Pearl Demon Drive Double Pedal',
-        description: "Pearl's direct-drive system gives Flo the responsive, lag-free feel needed for sustained blast work at 220+ BPM. The direct connection between footboard and cam is essential for the precision his technique demands.",
+        brand: 'Tama',
+        model: 'Tama Speed Cobra 910 Twin Pedal',
+        description: "Tama's Speed Cobra system gives Flo the responsive, lag-free feel needed for sustained blast work at 220+ BPM. The direct-drive linkage is essential for the precision his technique demands.",
         alternative: "Axis Longboard or DW 9000 direct drive for similar response"
       },
       sticks: {
@@ -3514,28 +3514,28 @@ This guide breaks down Mounier's blast technique, his endurance methodology, and
       budget: {
         price: "$1,100",
         label: "Starter Setup",
-        kit: "Pearl Export Series ($700)",
+        kit: "Tama Imperialstar Series ($700)",
         cymbals: "Sabian B8X Pack ($250)",
-        pedals: "Pearl P930 Double Pedal ($150)",
+        pedals: "Tama Camco Double Pedal ($150)",
         sticks: "Vic Firth 5B ($10)",
-        notes: "Pearl Export is a legitimate foundation for developing Mounier's technique. Invest in practice time before gear upgrades."
+        notes: "Tama Imperialstar is a legitimate foundation for developing Mounier's technique. Invest in practice time before gear upgrades."
       },
       mid: {
         price: "$3,200",
         label: "Intermediate Setup",
-        kit: "Pearl Masters Maple ($1,800)",
+        kit: "Tama Superstar Classic ($1,800)",
         cymbals: "Sabian AAX Set ($900)",
-        pedals: "Pearl Demon Drive ($600)",
+        pedals: "Tama Speed Cobra 910 ($600)",
         sticks: "Vic Firth 5B ($10)",
-        notes: "Pearl Masters plus Demon Drive moves you into Mounier's actual gear territory."
+        notes: "Tama Superstar Classic plus Speed Cobra 910 moves you into Mounier's actual gear territory."
       },
       pro: {
         price: "$6,500+",
         label: "Professional Setup",
-        kit: "Pearl Reference Pure ($3,000+)",
+        kit: "Tama Starclassic Maple ($3,000+)",
         cymbals: "Sabian HH Custom or AAX Complete ($2,000+)",
-        pedals: "Pearl Demon Drive ($600)",
-        snare: "Pearl Free-Floating Steel ($500)",
+        pedals: "Tama Speed Cobra 910 Twin Pedal ($600)",
+        snare: "Tama Starclassic Maple Snare ($500)",
         heads: "Full Remo setup ($180)",
         notes: "Stage and studio-ready Cryptopsy-level setup."
       }
@@ -3566,7 +3566,7 @@ This guide breaks down Mounier's blast technique, his endurance methodology, and
       drummerProfile: '/drummer/flo-mounier',
       similarDrummers: ['George Kollias', 'Pete Sandoval', 'Derek Roddy'],
       relatedGuides: ['how-to-sound-like-george-kollias', 'how-to-sound-like-dave-lombardo'],
-      gearPages: ['/gear/drums', '/brands/pearl', '/brands/sabian']
+      gearPages: ['/gear/drums', '/brands/tama', '/brands/sabian']
     },
     licksUrl: '/drummers/flo-mounier/licks',
     relatedArticles: [

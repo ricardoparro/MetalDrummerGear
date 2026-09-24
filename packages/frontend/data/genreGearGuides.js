@@ -65200,7 +65200,7 @@ Budget shouldn't stop you either. A Pearl Export or Tama Imperialstar snare will
       title: "Why Sludge Metal Needs a Thick, Damp, Low-Tuned Snare",
       content: `Sludge metal grew out of the 1980s New Orleans scene by fusing doom metal's down-tuned, riff-locked weight with hardcore punk's raw aggression — and that fusion demands a snare voice that's fundamentally different from thrash or death metal's bright, cutting crack. Where speed-driven subgenres need a snare that punches through fast picking, sludge's slow, crushing grooves reward a thick, damp, low-tuned snare that adds tonnage rather than cut, punctuated by sudden bursts of hardcore-derived speed.
 
-Brann Dailor of Mastodon — the genre's most direct working analogue currently profiled at MetalForge, having built the band's early catalog on "Remission" (2002) and "Leviathan" (2004) — doesn't have a separately documented signature snare, but his verified Tama Starclassic Performer B/B kit's matching birch/bubinga snare anchors Mastodon's crushing, down-tuned sludge riffs with warm, musical resonance. Igor Cavalera of Cavalera Conspiracy plays a Yamaha Absolute Hybrid Maple snare (his verified gear since 2018), bringing down-tuned heaviness rooted in his tribal groove metal lineage. Mario Duplantier of Gojira brings a parallel down-tuned weight on a Tama S.L.P. G-Maple snare from technical death metal's own lineage — both parallel sludge's own tonnage-first foundation from entirely different corners of metal. Shannon Larkin of Godsmack plays a Ddrum Shannon Larkin Signature 14"x6.5" snare built for the slow-building, riff-locked grooves that carry sludge's patient heaviness into mainstream hard rock.
+Brann Dailor of Mastodon — the genre's most direct working analogue currently profiled at MetalForge, having built the band's early catalog on "Remission" (2002) and "Leviathan" (2004) — doesn't have a separately documented signature snare, but his verified Tama Starclassic Performer B/B kit's matching birch/bubinga snare anchors Mastodon's crushing, down-tuned sludge riffs with warm, musical resonance. Igor Cavalera of Cavalera Conspiracy plays a Yamaha Absolute Hybrid Maple snare (his verified gear since 2018), bringing down-tuned heaviness rooted in his tribal groove metal lineage. Mario Duplantier of Gojira brings a parallel down-tuned weight on a Tama S.L.P. G-Maple snare from technical death metal's own lineage — both parallel sludge's own tonnage-first foundation from entirely different corners of metal. Shannon Larkin of Godsmack plays a ddrum Dios Series 14"x6.5" Maple snare built for the slow-building, riff-locked grooves that carry sludge's patient heaviness into mainstream hard rock.
 
 This guide breaks down shell depth, material, and tuning for sludge metal snares — comparing thick, damp tone across four drummers whose lineages share sludge's foundational commitment to weight and riff-driven aggression, with recommendations from budget to professional touring rigs.`,
       keyPoints: [
@@ -65371,43 +65371,41 @@ The G-Maple shell delivers a grinding, resonant low-end that suits sludge's tonn
         },
         {
           rank: 4,
-          name: "Ddrum Shannon Larkin Signature",
-          brand: "Ddrum",
-          model: "Shannon Larkin Signature 14\"x6.5\"",
-          image: "https://upload.wikimedia.org/wikipedia/commons/e/ee/Pearl_MCX_snare_drum.JPG",
+          name: "ddrum Dios Series",
+          brand: "ddrum",
+          model: "Dios Series 14\"x6.5\" Maple",
+          image: "https://upload.wikimedia.org/wikipedia/commons/a/ac/Drums_01.jpg",
           priceRange: "€300-400",
           tier: "mid-pro",
-          material: "Maple/Steel hybrid (14x6.5\")",
+          material: "Maple (14x6.5\")",
 
-          description: `Shannon Larkin's Ddrum Signature snare gives Godsmack's slow-building, riff-locked grooves the same patient, weight-over-speed philosophy that defines sludge metal's rhythmic foundation — proof the genre's crushing template can translate into platinum-selling hard rock.
+          description: `Shannon Larkin's ddrum Dios Series snare gives Godsmack's slow-building, riff-locked grooves the same patient, weight-over-speed philosophy that defines sludge metal's rhythmic foundation — proof the genre's crushing template can translate into platinum-selling hard rock.
 
-Designed for durability and powerful projection, this signature snare handles the deep pocket and dynamic control Larkin's playing demands, from quiet verses to explosive, tonnage-first choruses.`,
+Built for durability and powerful projection, this maple snare handles the deep pocket and dynamic control Larkin's playing demands, from quiet verses to explosive, tonnage-first choruses.`,
 
           pros: [
             "Shannon Larkin's Godsmack setup — sludge's tempo-disciplined heaviness in a mainstream hard rock context",
             "Built for durability and powerful, cutting projection",
             "6.5\" depth balances weight with reliable backbeat definition",
             "Proven across Godsmack's platinum-selling catalog",
-            "More accessible pricing than boutique signature snares"
+            "More accessible pricing than boutique hardwood snares"
           ],
           cons: [
             "Voiced slightly brighter than pure sludge/doom-descended snares",
-            "Signature hardware options are Ddrum-specific",
+            "Less widely stocked than major flagship snares",
             "Less common outside North American retailers"
           ],
           specs: {
-            shell: "Maple/Steel hybrid",
+            shell: "Maple (Dios Series)",
             diameter: "14\"",
             depth: "6.5\"",
-            throwOff: "Ddrum signature strainer",
             wires: "20-strand"
           },
           usedBy: [
-            { name: "Shannon Larkin", band: "Godsmack", note: "14x6.5\" Ddrum Signature — sludge's patient, riff-locked weight in hard rock" }
+            { name: "Shannon Larkin", band: "Godsmack", note: "14x6.5\" ddrum Dios Series Maple — sludge's patient, riff-locked weight in hard rock" }
           ],
           verdict: "Best for sludge-influenced hard rock. Larkin's setup proves the genre's weight-over-speed philosophy scales to arenas.",
-          rating: 4.4,
-          affiliateLink: "https://www.thomann.de/intl/ddrum_shannon_larkin_signature_snare.htm?partner_id=metalforge"
+          rating: 4.4
         }
       ]
     },

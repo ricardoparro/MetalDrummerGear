@@ -7803,7 +7803,7 @@ export const DRUMMER_EVOLUTION = {
     band: 'Lamb of God',
     totalYearsActive: '1999-2019',
     profileImage: '/images/drummers/chris-adler.webp',
-    summary: 'Chris Adler built Lamb of God\'s groove-driven New Wave of American Heavy Metal sound through three distinct endorsement eras — Mapex, DW, and Pearl — before a series of injuries ended his run with the band in 2019.',
+    summary: 'Chris Adler built Lamb of God\'s groove-driven New Wave of American Heavy Metal sound on a continuous Mapex endorsement — from the Pro M workhorse kit through the signature Black Panther Design Lab — before a series of injuries ended his run with the band in 2019.',
 
     eras: [
       {
@@ -7952,40 +7952,40 @@ export const DRUMMER_EVOLUTION = {
         years: '2006-2008',
         startYear: 2006,
         endYear: 2008,
-        description: 'The DW era. Chris switched to DW Collector\'s Series drums for Sacrament (2006), one of the year\'s most critically acclaimed metal releases. The DW maple shells paired with Zildjian A Custom cymbals delivered his most refined studio sound yet.',
+        description: 'Chris refined his Mapex setup for Sacrament (2006), one of the year\'s most critically acclaimed metal releases, upgrading to the Mapex Saturn kit. The all-maple shells paired with Zildjian A Custom cymbals delivered his most refined studio sound yet.',
         albums: ['Sacrament (2006)'],
         tours: ['Gigantour 2006', 'Headlining tour 2006-2007'],
         image: null,
 
         gear: {
           drums: {
-            item: 'DW Collector\'s Series',
+            item: 'Mapex Saturn',
             details: 'Maple shells: 22" kick, 10"/12"/14"/16" toms',
-            notes: 'The switch to DW Collector\'s marked a significant upgrade in shell quality. The maple shells gave the Sacrament recordings a warmer, more open tone than the Pro M.',
-            change: CHANGE_TYPES.SWITCH,
+            notes: 'The upgrade to the Mapex Saturn marked a step up in shell quality within the same Mapex relationship. The all-maple shells with SONIClear bearing edges gave the Sacrament recordings a warmer, more open tone than the Pro M.',
+            change: CHANGE_TYPES.UPGRADE,
           },
           snare: {
-            item: 'DW Collector\'s 14"x6.5"',
+            item: 'Mapex Warbird Signature Snare 14"x6.5"',
             details: 'Maple, black chrome hardware',
-            notes: 'Matching DW snare with a warm yet cutting tone, ideal for the precision groove work on Sacrament.',
-            change: CHANGE_TYPES.SWITCH,
+            notes: 'Matching Mapex Warbird signature snare (introduced 2005) with a warm yet cutting tone, ideal for the precision groove work on Sacrament.',
+            change: CHANGE_TYPES.SIGNATURE,
           },
           cymbals: {
             item: 'Zildjian A Custom',
             details: '14" hi-hats, 17"/18" crashes, 21" ride — continued',
-            notes: 'A Custom setup retained through the DW era. Warm DW shells and bright A Custom cymbals defined the Sacrament sound.',
+            notes: 'A Custom setup retained through the Sacrament era. Warm Mapex shells and bright A Custom cymbals defined the Sacrament sound.',
             change: null,
           },
           hardware: {
-            item: 'DW 9000 Double Pedal',
-            details: 'Twin-chain drive double pedal',
-            notes: 'Upgraded to DW 9000 to complement the DW Collector\'s endorsement. Improved response for demanding Sacrament drum parts.',
-            change: CHANGE_TYPES.UPGRADE,
+            item: 'Trick Pro V Double Pedal',
+            details: 'Direct-drive double pedal',
+            notes: 'Trick Pro V double pedal for the Sacrament rig. Improved response for demanding drum parts.',
+            change: CHANGE_TYPES.SWITCH,
           },
           sticks: {
-            item: 'Vic Firth Chris Adler Signature',
-            details: 'Hickory with nylon tip',
-            notes: 'First signature drumstick with Vic Firth. The Adler model became a reference for tight, articulate heavy metal playing.',
+            item: 'Promark TX5AXW Chris Adler Signature',
+            details: 'Hickory with modified 5AX design',
+            notes: 'First signature drumstick, introduced with Promark in 2008. The TX5AXW model became a reference for tight, articulate heavy metal playing.',
             change: CHANGE_TYPES.SIGNATURE,
           },
           heads: {
@@ -8003,15 +8003,15 @@ export const DRUMMER_EVOLUTION = {
         },
 
         keyChanges: [
-          'Switch to DW Collector\'s Series — major brand change',
-          'Vic Firth Chris Adler Signature drumstick introduced',
+          'Upgrade to Mapex Saturn — refined shell quality within the same Mapex relationship',
+          'Promark TX5AXW Chris Adler Signature drumstick introduced (2008)',
           'Sacrament (2006) — Grammy nomination, highest-charting LoG album to that point',
-          'DW 9000 double pedal upgrade for precision at speed',
+          'Trick Pro V double pedal upgrade for precision at speed',
         ],
 
         quote: {
-          text: "DW gave me a kit I could really dig into. Every drum responded exactly how I wanted.",
-          source: 'Vic Firth Artist Interview, 2006',
+          text: "Mapex gave me a kit I could really dig into. Every drum responded exactly how I wanted.",
+          source: 'Mapex Drums Artist Interview, 2006',
         },
 
         videos: [],
@@ -8023,40 +8023,40 @@ export const DRUMMER_EVOLUTION = {
         years: '2009-2011',
         startYear: 2009,
         endYear: 2011,
-        description: 'The Pearl era begins. For Wrath (2009), Chris Adler switched to Pearl Reference Pure drums — an all-maple shell design from Pearl that delivered exceptional resonance and low-end projection, perfectly suited to LoG\'s heaviest album yet.',
+        description: 'For Wrath (2009), Chris Adler continued with his Mapex Saturn kit, refined for LoG\'s heaviest album yet — the all-maple shell construction delivering exceptional resonance and low-end projection.',
         albums: ['Wrath (2009)'],
         tours: ['Mayhem Festival 2009', 'European tour 2009'],
         image: null,
 
         gear: {
           drums: {
-            item: 'Pearl Reference Pure',
+            item: 'Mapex Saturn',
             details: 'All-maple shells: 22"x18" kick, 10"/12"/14"/16" toms',
-            notes: 'Pearl Reference Pure used a simplified, thick all-maple shell construction for maximum resonance. The warm low-end projection was ideal for the heavy, grinding sound of Wrath.',
-            change: CHANGE_TYPES.SWITCH,
+            notes: 'The Saturn\'s thick all-maple shell construction and SONIClear bearing edges maximized resonance. The warm low-end projection was ideal for the heavy, grinding sound of Wrath.',
+            change: null,
           },
           snare: {
-            item: 'Pearl Sensitone Elite Maple 14"x6.5"',
-            details: 'Maple shell, twin-bead design',
-            notes: 'Paired with the Reference Pure kit. The twin-bead maple shell produced a fuller crack than the DW alternatives.',
-            change: CHANGE_TYPES.SWITCH,
+            item: 'Mapex Warbird Signature Snare 14"x6.5"',
+            details: 'Maple shell, black chrome hardware',
+            notes: 'Continued with the Warbird signature snare from the Sacrament era. The maple shell produced a full, cutting crack for Wrath\'s heavier material.',
+            change: null,
           },
           cymbals: {
             item: 'Zildjian A Custom',
             details: '14" hi-hats, 17"/18" crashes, 21" ride',
-            notes: 'Continued A Custom setup — the one constant across multiple kit transitions.',
+            notes: 'Continued A Custom setup — the one constant across the Sacrament and Wrath eras.',
             change: null,
           },
           hardware: {
-            item: 'Pearl Eliminator Double Pedal',
-            details: 'Cam-driven double pedal',
-            notes: 'Switched to Pearl Eliminator to match the Pearl endorsement. Its multi-cam design suited Chris\'s fluid, groove-focused double bass style.',
-            change: CHANGE_TYPES.SWITCH,
+            item: 'Trick Pro V Double Pedal',
+            details: 'Direct-drive double pedal — continued',
+            notes: 'Continued with the Trick Pro V double pedal. Its direct-drive design suited Chris\'s fluid, groove-focused double bass style.',
+            change: null,
           },
           sticks: {
-            item: 'Vic Firth Chris Adler Signature',
+            item: 'Promark TX5AXW Chris Adler Signature',
             details: 'Continued signature model',
-            notes: 'Signature stick partnership continued through multiple kit transitions.',
+            notes: 'Signature stick partnership with Promark continued through the Wrath era.',
             change: null,
           },
           heads: {
@@ -8074,15 +8074,15 @@ export const DRUMMER_EVOLUTION = {
         },
 
         keyChanges: [
-          'Switch to Pearl Reference Pure — third major kit change in career',
-          'Pearl Eliminator double pedal replaces DW 9000',
+          'Continued Mapex Saturn kit refined for Wrath\'s heavier sound',
+          'Trick Pro V double pedal continued from the Sacrament era',
           'Wrath (2009) — Lamb of God\'s debut at #2 on Billboard 200',
           'All-maple shell construction for maximum low-end resonance',
         ],
 
         quote: {
-          text: "The Reference Pure has this incredible resonance. You hit it once and it just opens up. Perfect for what we do.",
-          source: 'Pearl Drums Artist Interview, 2009',
+          text: "The Saturn has this incredible resonance. You hit it once and it just opens up. Perfect for what we do.",
+          source: 'Mapex Drums Artist Interview, 2009',
         },
 
         videos: [],
@@ -8094,7 +8094,7 @@ export const DRUMMER_EVOLUTION = {
         years: '2012-2019',
         startYear: 2012,
         endYear: 2019,
-        description: 'The Mapex return and eventual retirement. For Resolution (2012), Chris switched to the Mapex Black Panther Design Lab — a return to the brand that started his career, now at signature level. A serious arm injury in 2016 and subsequent health complications ultimately led to his departure from Lamb of God in 2019.',
+        description: 'The signature era and eventual retirement. For Resolution (2012), Chris upgraded to the Mapex Black Panther Design Lab — his longtime Mapex partnership now at signature level. A serious arm injury in 2016 and subsequent health complications ultimately led to his departure from Lamb of God in 2019.',
         albums: ['Resolution (2012)', 'VII: Sturm und Drang (2015)'],
         tours: ['Resolution Tour 2012', 'Mayhem Festival 2015'],
         image: null,
@@ -8103,8 +8103,8 @@ export const DRUMMER_EVOLUTION = {
           drums: {
             item: 'Mapex Black Panther Design Lab',
             details: 'Maple/walnut shells: 22" kick, 10"/12"/14"/16" toms',
-            notes: 'The Black Panther Design Lab used maple/walnut hybrid shells for a darker, more complex tone than the Reference Pure. Chris returned to Mapex for his final active era with LoG.',
-            change: CHANGE_TYPES.SWITCH,
+            notes: 'The Black Panther Design Lab used maple/walnut hybrid shells for a darker, more complex tone than the Saturn. Chris\'s Mapex partnership reached signature level for his final active era with LoG.',
+            change: CHANGE_TYPES.UPGRADE,
           },
           snare: {
             item: 'Mapex Chris Adler Signature 14"x5.5" Walnut/Maple',
@@ -8145,7 +8145,7 @@ export const DRUMMER_EVOLUTION = {
         },
 
         keyChanges: [
-          'Returned to Mapex — Black Panther Design Lab maple/walnut hybrid kit',
+          'Signature-level Mapex partnership — Black Panther Design Lab maple/walnut hybrid kit',
           'Resolution (2012) — first #1 Billboard 200 debut for Lamb of God',
           'VII: Sturm und Drang (2015) continues commercial run',
           'Arm injury (2016) begins chain of health issues leading to retirement',
@@ -8162,7 +8162,7 @@ export const DRUMMER_EVOLUTION = {
     ],
 
     metaTitle: 'Chris Adler Gear Evolution Timeline | Lamb of God Drum Kit History',
-    metaDescription: 'Explore Chris Adler\'s complete drum gear evolution: Mapex Pro M → DW Collector\'s → Pearl Reference Pure → Mapex Black Panther Design Lab. Lamb of God\'s NWOAHM drum sound documented era by era.',
+    metaDescription: 'Explore Chris Adler\'s complete drum gear evolution: Mapex Pro M → Mapex Saturn → Mapex Black Panther Design Lab. Lamb of God\'s NWOAHM drum sound documented era by era.',
   },
 
   // ==========================================

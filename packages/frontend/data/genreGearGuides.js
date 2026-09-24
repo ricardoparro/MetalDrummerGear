@@ -11062,7 +11062,6 @@ George Kollias of Nile — one of the fastest and most technically precise drumm
             { name: "George Kollias", band: "Nile", note: "Pearl Demon XR — fastest feet in death metal" },
             { name: "Gene Hoglan", band: "Death / Testament / Dark Angel", note: "Pearl Demon Drive — The Atomic Clock's precision instrument since 2008" },
             { name: "Joey Jordison", band: "Slipknot", note: "Pearl Demon Drive — explosive groove and extreme metal precision since 2010" },
-            { name: "Shannon Larkin", band: "Godsmack", note: "Pearl hardware for heavy groove" },
             { name: "Anton Johansson", band: "Various", note: "Extreme speed precision" }
           ],
           verdict: "Best for extreme speed and death metal precision. Direct drive is faster than chain when technique is dialed.",
@@ -11101,7 +11100,9 @@ The DW 9000's consistent feel and American manufacturing quality make it the cho
             footboard: "XF Extended",
             spring: "Magnetic controlled-friction"
           },
-          usedBy: [],
+          usedBy: [
+            { name: "Shannon Larkin", band: "Godsmack", note: "DW 9000 Series Double Pedal — sludge-influenced groove weight since 2002" }
+          ],
           verdict: "Best for technical precision and dynamic range.",
           rating: 4.7,
           affiliateLink: "https://www.thomann.de/intl/dw_9000_double_pedal.htm?partner_id=metalforge"

@@ -14034,12 +14034,12 @@ This guide breaks down the technique, gear, and practice approach behind Augusto
       title: "Thrash Metal's Precision Specialist",
       content: `Jon Dette occupies a rare spot in thrash metal history: one of only a handful of drummers to have performed with three of the genre's biggest acts — Slayer, Testament, and Anthrax. Born August 25, 1967, in Milwaukee, Wisconsin, Dette built his reputation as the reliable professional who could learn an entire demanding setlist on short notice and deliver it with metronomic accuracy from the first night of touring.
 
-Dette stepped in for Slayer in 1996–1997 while Paul Bostaph was unavailable, mastering the band's fastest and most technically demanding live catalogue under intense fan scrutiny. His longest tenure came with Testament across two periods (1997–1999, 2001–2012), recording three studio albums — The Gathering (1999), The Formation of Damnation (2008), and Dark Roots of Earth (2012) — before filling in for Charlie Benante on Anthrax tour dates in 2010.
+Dette stepped in for Slayer in 1996–1997 while Paul Bostaph was unavailable, mastering the band's fastest and most technically demanding live catalogue under intense fan scrutiny. His longest tenure came with Testament across two periods (1997–1999, 2001–2012) as the band's touring drummer — not a studio member; the studio albums released during that span, The Gathering (1999), The Formation of Damnation (2008), and Dark Roots of Earth (2012), were recorded by Dave Lombardo, Paul Bostaph, and Gene Hoglan respectively — before filling in for Charlie Benante on Anthrax tour dates in 2010.
 
 This guide breaks down the technique, gear, and practice approach behind Dette's precision-focused thrash metal drumming — essential study for any drummer chasing accuracy and reliability at high tempo.`,
       keyPoints: [
         "Slayer touring drummer 1996–1997 — mastered the band's full live setlist on short notice",
-        "Testament drummer across two periods (1997–1999, 2001–2012) — three studio albums, including The Gathering",
+        "Testament touring drummer across two periods (1997–1999, 2001–2012) — not a studio member; The Gathering, The Formation of Damnation, and Dark Roots of Earth were recorded by Lombardo, Bostaph, and Hoglan",
         "Filled in for Charlie Benante on Anthrax tour dates in 2010 — three Big Four-adjacent acts in one career",
         "Known for metronomic consistency and rapid setlist adaptation rather than flash"
       ]
@@ -14080,10 +14080,10 @@ This guide breaks down the technique, gear, and practice approach behind Dette's
         }
       ],
       keySongs: [
-        { song: "D.N.R. (Do Not Resuscitate)", album: "The Gathering", year: 1999, why: "Testament's heaviest era — showcases Dette's metronomic double-bass drive at full thrash intensity" },
-        { song: "Down for Life", album: "The Gathering", year: 1999, why: "Demonstrates the precision and endurance behind Dette's most acclaimed studio performance" },
-        { song: "More Than Meets the Eye", album: "The Formation of Damnation", year: 2008, why: "Testament's Nuclear Blast-era comeback single — modern production showcasing consistent, controlled thrash drumming" },
-        { song: "Native Blood", album: "Dark Roots of Earth", year: 2012, why: "Late-career Dette — powerful, focused drumming anchoring one of Testament's most acclaimed tracks" }
+        { song: "D.N.R. (Do Not Resuscitate)", album: "The Gathering", year: 1999, why: "Testament's heaviest era — part of the live setlist Dette toured, studio drums by Dave Lombardo; study it for the metronomic double-bass drive Dette matched live" },
+        { song: "Down for Life", album: "The Gathering", year: 1999, why: "Another Dave Lombardo studio performance from Dette's touring-era setlist — demonstrates the precision and endurance Dette had to replicate night after night" },
+        { song: "More Than Meets the Eye", album: "The Formation of Damnation", year: 2008, why: "Testament's Nuclear Blast-era comeback single, recorded by Paul Bostaph — part of the live catalogue Dette toured during this Testament stint" },
+        { song: "Native Blood", album: "Dark Roots of Earth", year: 2012, why: "Studio drums by Gene Hoglan — anchored one of Testament's most acclaimed tracks, which Dette performed live during this touring period" }
       ]
     },
     gear: {
@@ -14240,11 +14240,11 @@ This guide breaks down the technique, gear, and practice approach behind Dette's
       },
       {
         question: "Which bands did Jon Dette play drums for?",
-        answer: "Jon Dette played with three major thrash metal acts: Slayer (touring, 1996-1997, filling in for Paul Bostaph), Testament (1997-1999 and 2001-2012, recording three studio albums), and Anthrax (touring fill-in for Charlie Benante in 2010). This makes him one of only a handful of drummers to have performed with three of thrash's biggest bands."
+        answer: "Jon Dette played with three major thrash metal acts: Slayer (touring, 1996-1997, filling in for Paul Bostaph), Testament (touring drummer, 1997-1999 and 2001-2012 — not a studio member on the era's albums), and Anthrax (touring fill-in for Charlie Benante in 2010). This makes him one of only a handful of drummers to have performed with three of thrash's biggest bands."
       },
       {
         question: "What Testament albums should I study for Jon Dette's drumming?",
-        answer: "The Gathering (1999) is Dette's most acclaimed studio work — start with 'D.N.R. (Do Not Resuscitate)' and 'Down for Life' for his metronomic double-bass drive at full intensity. The Formation of Damnation (2008) shows his playing in Testament's modern comeback era on 'More Than Meets the Eye,' and Dark Roots of Earth (2012) captures his late-career precision on 'Native Blood.'"
+        answer: "Dette was Testament's touring drummer, not a studio member — the studio albums released across his tenure were recorded by Dave Lombardo, Paul Bostaph, and Gene Hoglan. Still, these were the records that shaped his live sets: study The Gathering (1999) via 'D.N.R. (Do Not Resuscitate)' and 'Down for Life' for the metronomic double-bass drive he replicated on tour, The Formation of Damnation (2008) via 'More Than Meets the Eye' for the modern comeback era, and Dark Roots of Earth (2012) via 'Native Blood' for the late-career material he performed live."
       }
     ],
     related: {

@@ -4264,7 +4264,7 @@ Verbeuren's drumming combines the technical precision of melodic death metal wit
         content: `Dirk Verbeuren is endorsed by Tama Drums, Meinl Cymbals, and his own signature Tama drumsticks. His setup is designed for both the technical demands of modern metal and the power required for arena-level thrash performances.
 
 **Current Setup (Megadeth):**
-- **Drums**: Tama Starclassic Walnut/Birch (22"x18" Bass, various toms)
+- **Drums**: Tama Starclassic Maple (22"x18" Bass, various toms)
 - **Snare**: Tama S.L.P. Big Black Steel 14"x6.5"
 - **Cymbals**: Meinl Byzance Brilliant & Classics Custom Dark (14" Byzance Brilliant Hi-Hat, 18"/19"/20"/21" Classics Custom Dark Crashes, 22" Byzance Brilliant Ride, 18" Byzance Brilliant China)
 - **Hardware**: Tama Speed Cobra 910 Double Pedal
@@ -4294,14 +4294,14 @@ Verbeuren's drumming combines the technical precision of melodic death metal wit
       faq: {
         title: 'Frequently Asked Questions',
         items: [
-          { q: 'What drum kit does Dirk Verbeuren use?', a: 'Dirk Verbeuren\'s drum kit is a Tama Starclassic Walnut/Birch hybrid shell kit, chosen for the tight low end and articulate attack needed to anchor Megadeth\'s thrash riffing. It centers on a Tama S.L.P. Big Black Steel 14"x6.5" snare and is topped with Meinl Byzance Brilliant and Classics Custom Dark cymbals, driven by Tama Speed Cobra 910 double pedals.' },
-          { q: 'What drum set does Dirk Verbeuren use?', a: 'Dirk Verbeuren\'s drum set is a Tama Starclassic Walnut/Birch configuration built around his dark, aggressive-sounding Tama S.L.P. Big Black Steel 14"x6.5" snare. The drum set carries Meinl Byzance Brilliant and Classics Custom Dark cymbals, Tama Speed Cobra 910 double pedals, and his signature Tama O-DVM2 sticks.' },
+          { q: 'What drum kit does Dirk Verbeuren use?', a: 'Dirk Verbeuren\'s drum kit is a Tama Starclassic Maple hybrid shell kit, chosen for the tight low end and articulate attack needed to anchor Megadeth\'s thrash riffing. It centers on a Tama S.L.P. Big Black Steel 14"x6.5" snare and is topped with Meinl Byzance Brilliant and Classics Custom Dark cymbals, driven by Tama Speed Cobra 910 double pedals.' },
+          { q: 'What drum set does Dirk Verbeuren use?', a: 'Dirk Verbeuren\'s drum set is a Tama Starclassic Maple configuration built around his dark, aggressive-sounding Tama S.L.P. Big Black Steel 14"x6.5" snare. The drum set carries Meinl Byzance Brilliant and Classics Custom Dark cymbals, Tama Speed Cobra 910 double pedals, and his signature Tama O-DVM2 sticks.' },
           { q: 'What cymbals does Dirk Verbeuren use?', a: 'Dirk Verbeuren uses Meinl Byzance Brilliant and Classics Custom Dark cymbals: a 14" Byzance Brilliant Hi-Hat, 18", 19", 20", and 21" Classics Custom Dark Crashes stacked for layered accents, a 22" Byzance Brilliant Ride, and an 18" Byzance Brilliant China for punctuation.' },
           { q: 'What snare drum does Dirk Verbeuren play?', a: 'Dirk Verbeuren plays a Tama S.L.P. Big Black Steel 14"x6.5" snare, a dark, aggressive-sounding steel shell that gives tracks like "Tornado of Souls" and "The Conjuring" their sharp, cutting backbeat live.' },
           { q: 'What bass drum pedals does Dirk Verbeuren use?', a: 'Dirk Verbeuren uses Tama Speed Cobra 910 double pedals, delivering the fast, even double-bass runs heard throughout his Soilwork catalog and Megadeth\'s The Sick, the Dying... and the Dead! era.' },
           { q: 'What band is Dirk Verbeuren in?', a: 'Dirk Verbeuren has been Megadeth\'s drummer since 2016, and previously drummed for Swedish melodic death metal band Soilwork from 1998 to 2016.' },
           { q: 'What drumsticks does Dirk Verbeuren use?', a: 'Dirk Verbeuren uses his signature Tama O-DVM2 Dirk Verbeuren drumsticks.' },
-          { q: 'What drumheads does Dirk Verbeuren use?', a: 'Dirk Verbeuren uses Evans drumheads across his Tama Starclassic Walnut/Birch kit.' },
+          { q: 'What drumheads does Dirk Verbeuren use?', a: 'Dirk Verbeuren uses Evans drumheads across his Tama Starclassic Maple kit.' },
           { q: 'What size bass drum does Dirk Verbeuren use?', a: 'Dirk Verbeuren plays a 22"x18" bass drum as part of his Tama Starclassic drum kit and drum set, giving Megadeth\'s thrash riffing a tight, articulate low end.' }
         ]
       },

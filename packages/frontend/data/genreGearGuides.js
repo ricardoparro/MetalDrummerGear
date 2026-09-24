@@ -22110,13 +22110,13 @@ Whichever depth you choose, pair it with a reinforced, trigger-compatible head l
       title: "What Bass Drum Setup Do Technical Death Metal Drummers Actually Use?",
       content: `Technical death metal asks more of a bass drum than almost any other extreme metal subgenre. Where straightforward death metal rewards raw low-end weight, tech-death drummers need a shell that responds instantly and stays articulate through odd-meter runs, sudden tempo modulations, and blast beats sustained well past 240 BPM — without the low end turning to mud or losing definition under relentless double bass work.
 
-George Kollias has anchored Nile's extreme technical death metal assault since 2004 on a Pearl Masterworks Stadium Exotic bass drum, purpose-built for surgical clarity at 240+ BPM. Hannes Grossmann — who drummed on Necrophagist's genre-defining "Epitaph" before founding Obscura and later joining Alkaloid — plays a DW Collector's Series bass drum chosen for the crisp, controlled response his classically-informed, odd-subdivision compositions demand. Flo Mounier, the only constant member of Cryptopsy since 1992, has driven the band's gravity-blast technique on a Tama Starclassic Maple bass drum since 2012. Derek Roddy — who recorded with both Hate Eternal and Nile — built his reputation for speed and endurance on a dense Tama Starclassic Bubinga bass drum.
+George Kollias has anchored Nile's extreme technical death metal assault since 2004 on a Pearl Masterworks Stadium Exotic bass drum, purpose-built for surgical clarity at 240+ BPM. Hannes Grossmann played a Tama Starclassic Maple bass drum throughout Necrophagist's genre-defining "Epitaph" and the Obscura years before switching to a DW Collector's Series bass drum in 2014 when he joined Alkaloid, chosen for the crisp, controlled response his classically-informed, odd-subdivision compositions demand. Flo Mounier, the only constant member of Cryptopsy since 1992, has driven the band's gravity-blast technique on a Tama Starclassic Maple bass drum since 2012. Derek Roddy — who recorded with both Hate Eternal and Nile — built his reputation for speed and endurance on a dense Tama Starclassic Bubinga bass drum.
 
 This guide breaks down exactly what separates a great technical death metal bass drum from a merely adequate one — shell material, response speed, and head selection — along with specific recommendations from these four drummers' actual rigs.`,
       keyPoints: [
         "Technical death metal demands a fast-responding shell that stays articulate through 240+ BPM blast beats and odd-meter runs",
         "George Kollias's Pearl Masterworks and Flo Mounier's Tama Starclassic Maple both prove maple's cutting articulation at extreme tempo",
-        "Hannes Grossmann's DW Collector's Series favors crisp, controlled response for classically-informed, odd-subdivision writing",
+        "Hannes Grossmann's DW Collector's Series (since 2014, joining Alkaloid) favors crisp, controlled response for classically-informed, odd-subdivision writing — a switch from the Tama Starclassic Maple he played through Necrophagist and Obscura",
         "Derek Roddy's dense Tama Starclassic Bubinga shows how a heavier shell can still serve speed and one-footed blast technique"
       ]
     },
@@ -22218,12 +22218,12 @@ Kollias's co-designed Pearl Demon XR double pedal completes a rig built specific
           tier: "pro",
           material: "Maple, 22\"x18\"",
 
-          description: `Hannes Grossmann — who recorded Necrophagist's genre-defining "Epitaph" (2004) before co-founding Obscura and later joining Alkaloid — plays a DW Collector's Series maple bass drum chosen for the crisp, controlled response his classically-informed, odd-meter compositions demand. Grossmann's dual identity as a technical death metal drummer and classically-trained composer shows in the shell's emphasis on control and articulation.
+          description: `Hannes Grossmann has played a DW Collector's Series maple bass drum since joining Alkaloid in 2014, chosen for the crisp, controlled response his classically-informed, odd-meter compositions demand. Grossmann's dual identity as a technical death metal drummer and classically-trained composer shows in the shell's emphasis on control and articulation — a refinement from the Tama Starclassic Maple kit he played throughout Necrophagist's genre-defining "Epitaph" (2004) and the Obscura era.
 
 DW's True-Pitch tensioning ensures precise, repeatable tuning under heavy use — essential when a single track can shift through a dozen meter changes without ever settling into a predictable groove.`,
 
           pros: [
-            "Hannes Grossmann's setup across Necrophagist, Obscura, and Alkaloid",
+            "Hannes Grossmann's setup since joining Alkaloid in 2014",
             "True-Pitch tensioning for perfectly balanced, repeatable tuning",
             "Crisp maple response suited to intricate, odd-meter phrasing",
             "Exceptional DW hardware refinement and build quality",
@@ -22242,7 +22242,7 @@ DW's True-Pitch tensioning ensures precise, repeatable tuning under heavy use �
             configuration: "Single, double-pedal driven"
           },
           usedBy: [
-            { name: "Hannes Grossmann", band: "Obscura / ex-Necrophagist / Alkaloid", note: "Crisp, controlled response for classically-informed, odd-meter tech-death" }
+            { name: "Hannes Grossmann", band: "Alkaloid", note: "DW Collector's Series since 2014; Tama Starclassic Maple during the Necrophagist/Obscura era" }
           ],
           verdict: "Best for drummers whose technical playing favors precise control over raw volume.",
           rating: 4.8,
@@ -22443,7 +22443,7 @@ Paired with a Tama Speed Cobra 910 double pedal, the setup proves that a heavier
     faq: [
       {
         question: "What bass drums do technical death metal drummers use?",
-        answer: "George Kollias of Nile plays a Pearl Masterworks Stadium Exotic, Hannes Grossmann (Obscura, ex-Necrophagist, Alkaloid) plays a DW Collector's Series, Flo Mounier of Cryptopsy plays a Tama Starclassic Maple, and Derek Roddy (Hate Eternal, Nile) plays a Tama Starclassic Bubinga. All run a single 22\"x18\" bass drum with a double pedal."
+        answer: "George Kollias of Nile plays a Pearl Masterworks Stadium Exotic, Hannes Grossmann of Alkaloid (formerly Necrophagist and Obscura) plays a DW Collector's Series since 2014, Flo Mounier of Cryptopsy plays a Tama Starclassic Maple, and Derek Roddy (Hate Eternal, Nile) plays a Tama Starclassic Bubinga. All run a single 22\"x18\" bass drum with a double pedal."
       },
       {
         question: "What makes a bass drum good for technical death metal specifically, versus regular death metal?",

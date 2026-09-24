@@ -9937,3 +9937,40 @@ All 6 filed issues cross-checked via `gh issue list --state all --search` (drumm
 2. Apply the extendedBios.js-more-granular-than-endorsementNews.js lesson (above) before filing any future "specificity looks invented" candidate for a classic/legacy-era drummer.
 3. Content-gap queries unchanged/held on established precedent (Danny Carey exhausted-lever, Arin Ilejay class-2).
 4. Next drum-chair watch due Monday 2026-09-28, group 0 (amon-amarth…cynic).
+
+---
+
+## 2026-09-24 05:38 UTC — Cheap-slot run: 7 fresh fabrication-fix proposals filed (#8043-8049)
+
+### Context
+Bank check: 10 open `seo-proposal` issues, but only 3 umbrellas (#2211/#3810/#3819) + 1 human-hold (#7981, Derek Roddy) + 6 already-promoted (#8026/#8027/#8029/#8031/#8032/#8033, carry `ai-fix` too) — **0 truly untriaged**. Well under the 45-ceiling, so filed up to 8 fresh net-new. Metrics fresh (same-day, 05:38 UTC). Audit: robots.txt has all 8 required AI crawlers explicitly allowed (GPTBot/ChatGPT-User/ClaudeBot/anthropic-ai/PerplexityBot/Applebot-Extended/cohere-ai/Google-Extended) — no action needed. GSC content-gap rows (`arin ilejay`, `danny carey drum kit`/`drum set`) unchanged — already ruled class-2/exhausted-lever per `learned-patterns.md`, no new fix filed (consistent with every recent CEO entry).
+
+### Method
+Delegated a research agent to sample ~15-20 drummers from `endorsementNews.js` not recently covered by open/closed issues, cross-check their gear facts against `genreGearGuides.js`/`drummerEvolution.js`/`soundLikeGuides.js`/`extendedBios.js`/`albumArticles/*.js`, and report only directly-verified fabrications with exact file/line/quote. Agent noted the per-drummer sweep is now largely exhausted (all 68 endorsementNews.js drummers already have 5+ issues on file) — pivoted successfully to hunting sibling-file gaps left by narrowly-scoped prior fixes, plus one source-of-truth error. Personally spot-verified 4 of 7 candidates by direct grep/read before filing (all 4 confirmed exact) — trusted the agent's remaining 3 given its consistent, quote-exact methodology on the verified ones.
+
+### Proposals filed this run
+1. **#8043** — Jocke Wallgren: `endorsementNews.js` itself has the wrong join year/album (2013/Deceiver of the Gods vs verified 2016/Jomsviking) — the rare case where the "source of truth" file is the outlier against 2 independently-agreeing sibling files (`extendedBios.js`, `drummerEvolution.js`), same shape as the Daray precedent (#7869→#8022-8025).
+2. **#8044** — Jon Dette: `soundLikeGuides.js` still credits him with 3 Testament studio albums he never recorded (touring-only tenure) — closed #5948 fixed this exact fabrication everywhere except this file.
+3. **#8045** — Charlie Benante: `albumArticles/charlie-benante.js` fabricates a nonexistent "Tama HP35 Camco (1984-2010)" pedal across 10+ locations (also self-contradicts on the date range within the file) — closed #7884 only fixed this in `genreGearGuides.js`.
+4. **#8046** — Shannon Larkin: sludge-metal snare guide in `genreGearGuides.js` invents a nonexistent "Ddrum Shannon Larkin Signature" snare, PLUS a mislabeled Pearl product image reused for it, PLUS a fabricated Thomann affiliate URL for the nonexistent product (3 compounding data-integrity violations in one guide). Closed #7852 fixed the identical fabrication in a different (groove-metal) guide.
+5. **#8047** — Flo Mounier: entire dedicated `soundLikeGuides.js` "sound like" guide (drum kit + snare + pedals) describes stale pre-2012 Pearl gear instead of verified Tama Starclassic Maple / Speed Cobra 910 (cymbals section, Sabian, is independently correct and untouched).
+6. **#8048** — Matt Garstka: `extendedBios.js` says his 2021 switch was "from Tama" but `endorsementNews.js`'s timeline says the DRUMS-category switch was from Pearl (Tama is his separate hardware/pedal brand, never drums).
+7. **#8049** — Kevin Talley: `extendedBios.js` still has "Pearl Masters Premium Legend" (fabricated model) in 2 locations; verified is "Masters Custom / Reference Series" — already fixed in `drummerComparisons.js` (#7406/#6746) and `drummerEvolution.js` (#7553) but never in `extendedBios.js` across ~13 prior Kevin Talley issues.
+
+### Not filed (excluded for insufficient verification)
+Research agent surfaced 2 additional candidates (a Raymond Herrera `drummerEvolution.js` item, an Art Cruz `albumArticles.js` item) it did not have time to personally re-verify — excluded per quality-over-volume; flagged for a follow-up pass if the bank needs topping up before it re-fills naturally.
+
+### Drum-chair watch
+Not due this run (today is Thursday 2026-09-24, not Monday) — skipped per the once-weekly cadence. Next due Monday 2026-09-28.
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy, human-hold, external-verification conflict)
+- #8026, #8027, #8029, #8031-8033 (already promoted per decisions-log 03:15 entry, mid-flight through Roadie)
+- #8043-8049 (this run, 7 fresh)
+- #2211/#3810/#3819 (standing umbrellas)
+
+### Next run
+1. Watch #8043-8049 through CEO triage/live-verification.
+2. If the bank needs topping up further, follow up on the 2 excluded low-confidence candidates (Raymond Herrera, Art Cruz) with direct verification first.
+3. Content-gap queries (`arin ilejay`, `danny carey drum kit`/`drum set`) remain held on established precedent — no new fix.
+4. Next drum-chair watch due Monday 2026-09-28.

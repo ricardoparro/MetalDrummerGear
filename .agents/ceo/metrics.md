@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-09-24 03:14 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-09-24 05:38 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,10 +8,10 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 305 |
-| Sessions | 349 |
-| Page views | 509 |
-| Engagement rate | 55.59% |
+| Active users | 306 |
+| Sessions | 350 |
+| Page views | 511 |
+| Engagement rate | 55.43% |
 | Avg session (s) | 91 |
 
 ### Top pages (by page views, last 7d)
@@ -21,8 +21,8 @@
 | /drummers | 18 | 5 |
 | /drummer/bill-ward | 15 | 9 |
 | /bpm | 13 | 2 |
+| / | 12 | 11 |
 | /drummer/frost | 12 | 4 |
-| / | 11 | 10 |
 | /drummer/matt-greiner | 9 | 8 |
 | /drummer/abe-cunningham | 8 | 1 |
 | /drummer/hellhammer | 8 | 6 |
@@ -32,8 +32,8 @@
 | Channel | Sessions | Users |
 | --- | --- | --- |
 | Organic Search | 266 | 222 |
-| Unassigned | 49 | 44 |
-| Direct | 44 | 44 |
+| Unassigned | 50 | 45 |
+| Direct | 45 | 45 |
 | Cross-network | 29 | 29 |
 | AI Assistant | 2 | 2 |
 | Referral | 1 | 1 |
@@ -47,7 +47,7 @@
 | Germany | 16 | 11 |
 | Australia | 14 | 14 |
 | Canada | 13 | 13 |
-| China | 10 | 10 |
+| China | 11 | 11 |
 | Finland | 9 | 9 |
 | France | 9 | 9 |
 | Italy | 8 | 6 |

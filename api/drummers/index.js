@@ -2618,7 +2618,7 @@ const drummers = [
     country: 'Belgium',
     image: '/images/drummers/dirk-verbeuren.webp',
     bio: 'Dirk Verbeuren (born 1975) is a Belgian drummer who has been the drummer for Megadeth since 2016. Before joining Megadeth, he was best known for his work with Swedish melodic death metal band Soilwork from 1998 to 2016. His precise, powerful playing combines European metal sensibilities with American thrash aggression. Verbeuren\'s technical abilities, double bass precision, and dynamic range have been praised by critics and fans alike. He has also performed with Devin Townsend, Scarve, and various other metal projects.',
-    kitOverview: 'Dirk Verbeuren plays a Tama Starclassic Walnut/Birch drum kit — a hybrid shell combination chosen for the tight low end and articulate attack needed to anchor Megadeth\'s thrash riffing while still translating the melodic death metal groove he built over eighteen years with Soilwork. The heart of the Dirk Verbeuren drum set is a Tama S.L.P. Big Black Steel 14x6.5" snare, a dark, aggressive-sounding steel shell that gives tracks like "Tornado of Souls" and "The Conjuring" their sharp, cutting backbeat live.\n\nMeinl Byzance Brilliant and Classics Custom Dark cymbals shape the tonal palette of the Dirk Verbeuren drum kit: a 14" Byzance Brilliant Hi-Hat for crisp, controlled chops during rapid thrash picking patterns; 18", 19", 20", and 21" Classics Custom Dark Crashes stacked for layered accents; a 22" Byzance Brilliant Ride for definition through Megadeth\'s technical arrangements; and an 18" Byzance Brilliant China for abrupt punctuation. Tama Speed Cobra 910 double pedals deliver the fast, even double-bass runs heard throughout his Soilwork catalog and Megadeth\'s The Sick, the Dying... and the Dead! era, while Tama O-DVM2 Dirk Verbeuren Signature sticks and Evans heads complete a setup built for both precision and power.',
+    kitOverview: 'Dirk Verbeuren plays a Tama Starclassic Maple drum kit — an all-maple shell configuration chosen for the warm, punchy attack needed to anchor Megadeth\'s thrash riffing while still translating the melodic death metal groove he built over eighteen years with Soilwork. The heart of the Dirk Verbeuren drum set is a Tama S.L.P. Dynamic Bronze 14x5.5" snare, a bright, cutting bronze shell that gives tracks like "Tornado of Souls" and "The Conjuring" their sharp, cutting backbeat live.\n\nMeinl Byzance Brilliant and Classics Custom Dark cymbals shape the tonal palette of the Dirk Verbeuren drum kit: a 14" Byzance Brilliant Hi-Hat for crisp, controlled chops during rapid thrash picking patterns; 18", 19", 20", and 21" Classics Custom Dark Crashes stacked for layered accents; a 22" Byzance Brilliant Ride for definition through Megadeth\'s technical arrangements; and an 18" Byzance Brilliant China for abrupt punctuation. Tama Speed Cobra 910 double pedals deliver the fast, even double-bass runs heard throughout his Soilwork catalog and Megadeth\'s The Sick, the Dying... and the Dead! era, while Tama O-DVM2 Dirk Verbeuren Signature sticks and Evans heads complete a setup built for both precision and power.',
     sameAs: [
       'https://en.wikipedia.org/wiki/Dirk_Verbeuren',
       'https://www.instagram.com/dirkverbeuren/',
@@ -2626,8 +2626,8 @@ const drummers = [
       'https://www.allmusic.com/artist/dirk-verbeuren-mn0000591637'
     ],
     gear: {
-      drums: 'Tama Starclassic Walnut/Birch',
-      snare: 'Tama S.L.P. Big Black Steel 14x6.5"',
+      drums: 'Tama Starclassic Maple',
+      snare: 'Tama S.L.P. Dynamic Bronze 14x5.5"',
       cymbals: 'Meinl Byzance Brilliant & Classics Custom Dark Series (14" Byzance Brilliant Hi-Hat, 18"-21" Classics Custom Dark Crashes, 22" Byzance Brilliant Ride, 18" Byzance Brilliant China)',
       hardware: 'Tama Speed Cobra 910 Double Pedal, Tama Iron Cobra Hi-Hat Stand',
       sticks: 'Tama O-DVM2 Dirk Verbeuren Signature',

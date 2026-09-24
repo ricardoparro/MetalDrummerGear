@@ -3618,7 +3618,7 @@ Talley's drumming combines the technical demands of brutal death metal with the 
         content: `Kevin Talley has used various drum setups throughout his career, favoring equipment that can handle the extreme demands of brutal death metal.
 
 **Current Setup:**
-- **Drums**: Pearl Masters Premium Legend
+- **Drums**: Pearl Masters Custom / Reference Series
 - **Snare**: Pearl Masters 14"x5.5" Maple
 - **Cymbals**: Sabian AAX Series (14" Stage Hi-Hats, 17" & 18" X-Plosion Crashes, 20" Stage Ride)
 - **Hardware**: Pearl Eliminator double pedal
@@ -3647,7 +3647,7 @@ Talley's drumming combines the technical demands of brutal death metal with the 
       faq: {
         title: 'Frequently Asked Questions',
         items: [
-          { q: 'What drum kit does Kevin Talley use?', a: 'Kevin Talley plays a Pearl Masters Premium Legend drum kit — a durable, all-maple shell pack chosen for the low-end punch and touring reliability his relentless schedule across Dying Fetus, Misery Index, Suffocation, Chimaira, and Six Feet Under has demanded for over two decades. It centers on a Pearl Masters 14"x5.5" Maple snare.' },
+          { q: 'What drum kit does Kevin Talley use?', a: 'Kevin Talley plays a Pearl Masters Custom / Reference Series drum kit — a durable, all-maple shell pack chosen for the low-end punch and touring reliability his relentless schedule across Dying Fetus, Misery Index, Suffocation, Chimaira, and Six Feet Under has demanded for over two decades. It centers on a Pearl Masters 14"x5.5" Maple snare.' },
           { q: 'What drum set does Kevin Talley use?', a: 'Kevin Talley\'s drum set pairs his Pearl Masters shells and maple snare with a Pearl Eliminator double pedal, powering the relentless blast beats and gravity-blast technique that helped define brutal death metal across his work with Dying Fetus and Misery Index.' },
           { q: 'What cymbals does Kevin Talley play?', a: 'Kevin Talley plays Sabian AAX Series cymbals: 14" Stage Hi-Hats, 17" and 18" X-Plosion Crashes, and a 20" Stage Ride.' },
           { q: 'What snare does Kevin Talley use?', a: 'Kevin Talley\'s snare is a Pearl Masters 14"x5.5" Maple, delivering a bright, cracking response that cuts through brutal death metal\'s dense, downtuned guitar work at his signature blistering tempos.' },

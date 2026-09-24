@@ -146,8 +146,8 @@ export const articles = {
           "type": "Bass Drum Pedals",
           "brand": "Tama",
           "model": "Tama Speed Cobra Double Pedal",
-          "notes": "Replaced his legendary HP35 Camco pedals in 2010",
-          "description": "For 26 years (1984-2010), Benante used Tama HP35 Camco chain-drive pedals — a testament to his preference for proven gear. When Tama discontinued them, he switched to Speed Cobra pedals, which offered similar feel with modern improvements in speed and reliability."
+          "notes": "Switched from his earlier chain-drive pedal setup around 2010",
+          "description": "For years before 2010, Benante relied on a chain-drive pedal setup — a testament to his preference for proven gear. He eventually switched to Speed Cobra pedals, which offered similar feel with modern improvements in speed and reliability."
         },
         {
           "type": "Hi-Hat Stand",
@@ -240,7 +240,7 @@ export const articles = {
           "drums": "Tama Artstar / Granstar",
           "snare": "Tama metal snares",
           "cymbals": "Paiste 2002 / RUDE",
-          "hardware": "Tama HP35 Camco (legendary 26-year use)"
+          "hardware": "Chain-drive pedal setup of the era"
         }
       },
       {
@@ -257,7 +257,7 @@ export const articles = {
           "drums": "Tama Starclassic",
           "snare": "Tama signature models",
           "cymbals": "Paiste 2002 / Signature",
-          "hardware": "Tama HP35 Camco (still going)"
+          "hardware": "Chain-drive pedal setup carried over"
         }
       },
       {
@@ -272,7 +272,7 @@ export const articles = {
           "drums": "Tama Starclassic Maple",
           "snare": "Charlie Benante Signature",
           "cymbals": "Paiste 2002 / Signature / RUDE",
-          "hardware": "Tama Speed Cobra (replaced Camco in 2010)"
+          "hardware": "Tama Speed Cobra (switched to around 2010)"
         }
       },
       {
@@ -303,7 +303,7 @@ export const articles = {
           "Cymbal work cuts through dense guitar wall",
           "Became a pit anthem that defined thrash shows"
         ],
-        "gearNotes": "The HP35 Camco pedals handle the relentless double bass. Paiste hi-hats cut through at extreme tempos."
+        "gearNotes": "His chain-drive pedal setup of the era handles the relentless double bass. Paiste hi-hats cut through at extreme tempos."
       },
       {
         "track": "Indians",
@@ -421,7 +421,7 @@ export const articles = {
     ],
     "conclusion": {
       "title": "The Big Four's Unsung Architect",
-      "content": "In the Big Four of Thrash, Charlie Benante often receives less attention than Lars Ulrich's celebrity or Dave Lombardo's flash. But from a technical and innovative standpoint, Benante may be the most influential of them all.\n\nConsider his contributions: pioneered sustained double bass patterns in thrash metal. Popularized the blast beat that would birth extreme metal subgenres. Co-invented crossover thrash with S.O.D. Served as Anthrax's primary composer while delivering demanding drum performances. And now, at 63 years old, he's honoring his late friend Vinnie Paul by drumming for Pantera's reunion tour.\n\nThe gear tells part of the story — the Tama Starclassic Maple that's served him for decades, the Paiste cymbals that cut through thrash's guitar wall, the HP35 Camco pedals he used for 26 years before switching to Speed Cobras. But gear is just tools. Benante's contribution lies in what he did with those tools.\n\nFew drummers can claim to have invented techniques that defined a genre. Fewer still have done it while also composing the music and designing the artwork. Benante's role in Anthrax transcends drumming — he's been the band's creative engine for four decades.\n\nThe Pantera reunion puts his legacy in perspective. When Philip Anselmo and Rex Brown needed someone to honor Vinnie Paul's irreplaceable contribution, they chose Charlie Benante. Not because he plays like Vinnie — no one can — but because he understands what it means to be a thrash metal pioneer, to define a sound, to give everything to the music.\n\n**What to Take Away:**\n- Pioneer double bass patterns that feel natural, not forced\n- Draw from diverse influences beyond metal\n- Serve the song above showcasing technique  \n- Treat gear as tools — master them, don't chase upgrades\n- Longevity requires physical and creative intelligence\n\nFrom The Bronx to Big Four co-founder, from \"Fistful of Metal\" to Pantera's arenas, Charlie Benante has spent 40+ years proving that technical innovation and musical service aren't opposites. The thrash metal drumming vocabulary he helped create continues to influence every fast, aggressive drummer who follows.\n\nWhen the history of metal drumming is written, Charlie Benante deserves a chapter of his own — not just as one of the Big Four, but as the technical pioneer who gave thrash its rhythmic foundation.\n\n🥁 *\"I didn't just play drums for Anthrax — I composed with them.\"* ⚡"
+      "content": "In the Big Four of Thrash, Charlie Benante often receives less attention than Lars Ulrich's celebrity or Dave Lombardo's flash. But from a technical and innovative standpoint, Benante may be the most influential of them all.\n\nConsider his contributions: pioneered sustained double bass patterns in thrash metal. Popularized the blast beat that would birth extreme metal subgenres. Co-invented crossover thrash with S.O.D. Served as Anthrax's primary composer while delivering demanding drum performances. And now, at 63 years old, he's honoring his late friend Vinnie Paul by drumming for Pantera's reunion tour.\n\nThe gear tells part of the story — the Tama Starclassic Maple that's served him for decades, the Paiste cymbals that cut through thrash's guitar wall, the chain-drive pedal setup he relied on for years before switching to Speed Cobras. But gear is just tools. Benante's contribution lies in what he did with those tools.\n\nFew drummers can claim to have invented techniques that defined a genre. Fewer still have done it while also composing the music and designing the artwork. Benante's role in Anthrax transcends drumming — he's been the band's creative engine for four decades.\n\nThe Pantera reunion puts his legacy in perspective. When Philip Anselmo and Rex Brown needed someone to honor Vinnie Paul's irreplaceable contribution, they chose Charlie Benante. Not because he plays like Vinnie — no one can — but because he understands what it means to be a thrash metal pioneer, to define a sound, to give everything to the music.\n\n**What to Take Away:**\n- Pioneer double bass patterns that feel natural, not forced\n- Draw from diverse influences beyond metal\n- Serve the song above showcasing technique  \n- Treat gear as tools — master them, don't chase upgrades\n- Longevity requires physical and creative intelligence\n\nFrom The Bronx to Big Four co-founder, from \"Fistful of Metal\" to Pantera's arenas, Charlie Benante has spent 40+ years proving that technical innovation and musical service aren't opposites. The thrash metal drumming vocabulary he helped create continues to influence every fast, aggressive drummer who follows.\n\nWhen the history of metal drumming is written, Charlie Benante deserves a chapter of his own — not just as one of the Big Four, but as the technical pioneer who gave thrash its rhythmic foundation.\n\n🥁 *\"I didn't just play drums for Anthrax — I composed with them.\"* ⚡"
     }
   },
   "charlie-benante-among-the-living-drum-setup": {
@@ -550,14 +550,14 @@ export const articles = {
       "estimatedValue": "$1,500-2,000 total (1987 era)"
     },
     "hardware": {
-      "title": "Tama HP35 Camco Foundation",
+      "title": "Chain-Drive Pedal Foundation",
       "items": [
         {
           "type": "Bass Drum Pedals",
           "brand": "Tama",
-          "model": "Tama HP35 Camco",
-          "notes": "His legendary chain-drive pedals, used from 1984 to 2010",
-          "description": "The Tama HP35 Camco chain-drive pedal was Benante's weapon of choice for over 26 years. The Camco design provided a direct, responsive feel with consistent spring action that allowed his pioneering double bass technique to develop and flourish. These pedals are central to the Among the Living drum sound — the reason his double bass patterns feel controlled rather than frantic."
+          "model": "Chain-drive pedal (specific model unconfirmed)",
+          "notes": "His chain-drive pedal setup of the era, used before the 2010s switch to Speed Cobra",
+          "description": "Benante's chain-drive pedal setup of the era was his weapon of choice for years before the Speed Cobra switch. Chain-drive pedals provide a direct, responsive feel with consistent spring action that allowed his pioneering double bass technique to develop and flourish. This pedal setup is central to the Among the Living drum sound — the reason his double bass patterns feel controlled rather than frantic."
         },
         {
           "type": "Hi-Hat Stand",
@@ -630,7 +630,7 @@ export const articles = {
           "Dynamic shifts from verse groove to chorus intensity",
           "One of Benante's most celebrated recorded performances"
         ],
-        "gearNotes": "The double bass sustain on the chorus sections showcases the HP35 Camco pedals at their best. Bass drum tone is full and punchy throughout."
+        "gearNotes": "The double bass sustain on the chorus sections showcases his chain-drive pedal setup at its best. Bass drum tone is full and punchy throughout."
       },
       {
         "track": "Indians",
@@ -666,8 +666,8 @@ export const articles = {
         },
         {
           "category": "Pedals",
-          "then": "Tama HP35 Camco (1984-2010)",
-          "now": "Tama Speed Cobra (2010-present)"
+          "then": "Chain-drive pedal setup of the era",
+          "now": "Tama Speed Cobra (2010s-present)"
         },
         {
           "category": "Sticks",
@@ -683,11 +683,11 @@ export const articles = {
       },
       {
         "question": "What is Charlie Benante's drum setup?",
-        "answer": "Charlie Benante's drum setup on Among the Living consisted of a Tama Artstar II kit with dual 22\" bass drums, Paiste 2002 cymbals (including 14\" Sound Edge hi-hats and an 18\" China), a Tama steel snare, and the legendary Tama HP35 Camco pedals he used from 1984 to 2010. In modern use he plays Tama Starclassic Maple, Paiste cymbals, and Vic Firth Charlie Benante Signature sticks."
+        "answer": "Charlie Benante's drum setup on Among the Living consisted of a Tama Artstar II kit with dual 22\" bass drums, Paiste 2002 cymbals (including 14\" Sound Edge hi-hats and an 18\" China), a Tama steel snare, and the chain-drive pedal setup he relied on before switching to Tama Speed Cobra pedals in the 2010s. In modern use he plays Tama Starclassic Maple, Paiste cymbals, and Vic Firth Charlie Benante Signature sticks."
       },
       {
         "question": "What gear did the Anthrax drummer use on Among the Living?",
-        "answer": "Anthrax drummer Charlie Benante used Tama Artstar II drums, Paiste 2002 cymbals, and Tama HP35 Camco bass drum pedals on Among the Living. The album was produced by Eddie Kramer at Kajem/Victory Studios in 1987. Benante's double bass patterns — particularly on \"Caught in a Mosh,\" \"I Am the Law,\" and \"Indians\" — are considered among the finest thrash drumming performances of the 1980s."
+        "answer": "Anthrax drummer Charlie Benante used Tama Artstar II drums, Paiste 2002 cymbals, and a chain-drive bass drum pedal setup on Among the Living. The album was produced by Eddie Kramer at Kajem/Victory Studios in 1987. Benante's double bass patterns — particularly on \"Caught in a Mosh,\" \"I Am the Law,\" and \"Indians\" — are considered among the finest thrash drumming performances of the 1980s."
       },
       {
         "question": "What is the drum setup on Among the Living?",
@@ -713,7 +713,7 @@ export const articles = {
     "relatedLicks": [],
     "conclusion": {
       "title": "The Blueprint for Big Four Anthrax Drumming",
-      "content": "Among the Living stands as Charlie Benante's definitive studio statement — the moment where everything he had been developing since joining Anthrax in 1983 crystallized into something timeless. The double bass patterns, the groove within the aggression, the musical intelligence applied to thrash metal's raw energy: it's all here, captured by Eddie Kramer in a production that still sounds vital decades later.\n\nFor drummers studying the Big Four, Among the Living is essential listening alongside Metallica's Master of Puppets, Slayer's Reign in Blood, and Megadeth's Rust in Peace. Each album represents a different vision of what thrash drumming could achieve. Benante's contribution is the one most concerned with feel — you can hear him swinging, breathing, making the music move in ways that pure speed alone cannot.\n\nThe Tama HP35 Camco pedals, the Artstar II birch shells, the Paiste 2002 cymbals: the gear was excellent, but the man behind it is what made Among the Living transcendent. Charlie Benante didn't just play these songs — he wrote most of them, conceived the arrangements, and then executed them with the authority of someone who knew exactly what he wanted to say.\n\nFor the full Charlie Benante gear story beyond Among the Living, visit the [Charlie Benante drummer profile](/drummer/charlie-benante). For Anthrax's complete drummer history and band context, see the [Anthrax band page](/bands/anthrax)."
+      "content": "Among the Living stands as Charlie Benante's definitive studio statement — the moment where everything he had been developing since joining Anthrax in 1983 crystallized into something timeless. The double bass patterns, the groove within the aggression, the musical intelligence applied to thrash metal's raw energy: it's all here, captured by Eddie Kramer in a production that still sounds vital decades later.\n\nFor drummers studying the Big Four, Among the Living is essential listening alongside Metallica's Master of Puppets, Slayer's Reign in Blood, and Megadeth's Rust in Peace. Each album represents a different vision of what thrash drumming could achieve. Benante's contribution is the one most concerned with feel — you can hear him swinging, breathing, making the music move in ways that pure speed alone cannot.\n\nHis chain-drive pedal setup of the era, the Artstar II birch shells, the Paiste 2002 cymbals: the gear was excellent, but the man behind it is what made Among the Living transcendent. Charlie Benante didn't just play these songs — he wrote most of them, conceived the arrangements, and then executed them with the authority of someone who knew exactly what he wanted to say.\n\nFor the full Charlie Benante gear story beyond Among the Living, visit the [Charlie Benante drummer profile](/drummer/charlie-benante). For Anthrax's complete drummer history and band context, see the [Anthrax band page](/bands/anthrax)."
     }
   },
   "sound-of-white-noise-drum-setup": {
@@ -843,14 +843,14 @@ export const articles = {
       "estimatedValue": "$1,200-1,800 total (1993 era)"
     },
     "hardware": {
-      "title": "Tama HP35 Camco: Nine Years In, Still the Foundation",
+      "title": "Chain-Drive Pedals: Still the Foundation for the Groove-Metal Pivot",
       "items": [
         {
           "type": "Bass Drum Pedals",
           "brand": "Tama",
-          "model": "Tama HP35 Camco",
-          "notes": "Nine years into the 26-year HP35 Camco relationship — unchanged for the groove-metal pivot",
-          "description": "By Sound of White Noise, Charlie Benante had been using Tama HP35 Camco chain-drive pedals for nine years, and the groove-metal pivot didn't change that. The Camco's direct, responsive feel had already carried him through the fastest sustained double bass in thrash; on Sound of White Noise, the same mechanical foundation delivers double bass work that lands with physical authority — exactly what Jerden's production approach rewarded. Because Charlie used two separate 22\" bass drums rather than a single drum with a double pedal, his setup consisted of two single HP35 Camco pedals rather than a double-pedal mechanism."
+          "model": "Chain-drive pedal (specific model unconfirmed)",
+          "notes": "His chain-drive pedal setup of the era — unchanged for the groove-metal pivot",
+          "description": "By Sound of White Noise, Charlie Benante had been using a chain-drive pedal setup for years, and the groove-metal pivot didn't change that. The direct, responsive feel had already carried him through the fastest sustained double bass in thrash; on Sound of White Noise, the same mechanical foundation delivers double bass work that lands with physical authority — exactly what Jerden's production approach rewarded. Because Charlie used two separate 22\" bass drums rather than a single drum with a double pedal, his setup consisted of two single chain-drive pedals rather than a double-pedal mechanism."
         },
         {
           "type": "Hi-Hat Stand",
@@ -923,7 +923,7 @@ export const articles = {
           "Showcases John Bush's vocal arrival immediately",
           "One of the few up-tempo tracks on the record"
         ],
-        "gearNotes": "The Tama HP35 Camco pedals deliver the sustained double bass with weight and consistency. Paiste China cymbal accents punctuate the chorus transitions."
+        "gearNotes": "His chain-drive pedal setup delivers the sustained double bass with weight and consistency. Paiste China cymbal accents punctuate the chorus transitions."
       },
       {
         "track": "Room for One More",
@@ -940,7 +940,7 @@ export const articles = {
     ],
     "evolution": {
       "title": "From Among the Living to Sound of White Noise: Same Gear, New Approach",
-      "content": "Sound of White Noise is a study in how far a drummer can stretch without changing equipment. Among the Living (1987) had documented Charlie Benante's peak Tama Artstar-era thrash configuration — birch shells, Paiste 2002/RUDE cymbals, Tama HP35 Camco pedals. Six years later, Sound of White Noise runs the same Tama kit and Paiste cymbals through a completely different musical approach: lower tuning, heavier damping, and a Dave Jerden production aesthetic built for groove rather than thrash speed. The gear evolution here is one of tuning and technique, not brand.",
+      "content": "Sound of White Noise is a study in how far a drummer can stretch without changing equipment. Among the Living (1987) had documented Charlie Benante's peak Tama Artstar-era thrash configuration — birch shells, Paiste 2002/RUDE cymbals, his chain-drive pedal setup of the era. Six years later, Sound of White Noise runs the same Tama kit and Paiste cymbals through a completely different musical approach: lower tuning, heavier damping, and a Dave Jerden production aesthetic built for groove rather than thrash speed. The gear evolution here is one of tuning and technique, not brand.",
       "thenVsNow": [
         {
           "category": "Kit",
@@ -959,8 +959,8 @@ export const articles = {
         },
         {
           "category": "Pedals",
-          "then": "Tama HP35 Camco",
-          "now": "Tama HP35 Camco (unchanged)"
+          "then": "Chain-drive pedal setup of the era",
+          "now": "Chain-drive pedal setup of the era (unchanged)"
         },
         {
           "category": "Sticks",
@@ -1012,7 +1012,7 @@ export const articles = {
     "relatedLicks": [],
     "conclusion": {
       "title": "The Album That Proved Anthrax Could Evolve",
-      "content": "Sound of White Noise is the album where Anthrax stopped being a thrash band and started being something more flexible — a heavy band capable of operating across genres without losing identity. Charlie Benante's playing did all the work of that transformation while his gear stayed constant: the same Tama kit, the same Paiste cymbals, the same Tama HP35 Camco pedals he had used since the mid-1980s. This was not a cosmetic switch; it was a comprehensive rethinking of how he wanted his familiar drums to sound and what kind of music he wanted them to support.\n\nThe album's commercial success — debuting at #7 on the Billboard 200 (Anthrax's highest chart position ever), going Gold in the US, and producing two singles in \"Only\" and \"Black Lodge\" that received significant radio and MTV rotation — validated the risk. The fan base that worried John Bush would not work showed up in larger numbers than ever before. The critical reception, mixed at the time, has only grown more positive in retrospect: Sound of White Noise is now widely regarded as Anthrax's most underrated album and arguably the band's high-water mark of the 1990s.\n\nFor Charlie Benante, Sound of White Noise documents the moment where his thrash-pioneering identity expanded into a more complete drummer's vocabulary. The double bass technique that defined Among the Living is still present, but used selectively. The groove sensibility that had always been embedded in his playing — audible even in thrash contexts like \"Caught in a Mosh\" — moves to the foreground. The musical intelligence applied to thrash metal arrangements now serves slower, weightier songs that require different forms of restraint and dynamic control.\n\nFor the thrash-era Charlie Benante story, visit the [Among the Living drum setup article](/articles/charlie-benante-among-the-living-drum-setup). For Charlie's full career and complete gear timeline, see the [Charlie Benante drummer profile](/drummer/charlie-benante). For Anthrax's complete drummer history and band context, see the [Anthrax band page](/bands/anthrax)."
+      "content": "Sound of White Noise is the album where Anthrax stopped being a thrash band and started being something more flexible — a heavy band capable of operating across genres without losing identity. Charlie Benante's playing did all the work of that transformation while his gear stayed constant: the same Tama kit, the same Paiste cymbals, the same chain-drive pedal setup he had used since the mid-1980s. This was not a cosmetic switch; it was a comprehensive rethinking of how he wanted his familiar drums to sound and what kind of music he wanted them to support.\n\nThe album's commercial success — debuting at #7 on the Billboard 200 (Anthrax's highest chart position ever), going Gold in the US, and producing two singles in \"Only\" and \"Black Lodge\" that received significant radio and MTV rotation — validated the risk. The fan base that worried John Bush would not work showed up in larger numbers than ever before. The critical reception, mixed at the time, has only grown more positive in retrospect: Sound of White Noise is now widely regarded as Anthrax's most underrated album and arguably the band's high-water mark of the 1990s.\n\nFor Charlie Benante, Sound of White Noise documents the moment where his thrash-pioneering identity expanded into a more complete drummer's vocabulary. The double bass technique that defined Among the Living is still present, but used selectively. The groove sensibility that had always been embedded in his playing — audible even in thrash contexts like \"Caught in a Mosh\" — moves to the foreground. The musical intelligence applied to thrash metal arrangements now serves slower, weightier songs that require different forms of restraint and dynamic control.\n\nFor the thrash-era Charlie Benante story, visit the [Among the Living drum setup article](/articles/charlie-benante-among-the-living-drum-setup). For Charlie's full career and complete gear timeline, see the [Charlie Benante drummer profile](/drummer/charlie-benante). For Anthrax's complete drummer history and band context, see the [Anthrax band page](/bands/anthrax)."
     }
   },
   "spreading-the-disease-drum-setup": {
@@ -1046,14 +1046,14 @@ export const articles = {
     "ogImage": "/images/albums/spreading-the-disease-drums.webp",
     "intro": {
       "title": "The Classic Lineup's Recording Debut — Thrash Metal Ignited",
-      "content": "Released on November 1, 1985, Anthrax's Spreading the Disease is where the classic lineup announced itself to the world. It was the band's first album with Joey Belladonna on vocals, and it established the sonic blueprint — relentless double bass, melodic aggression, blast-beat innovation — that would define the next five years of Anthrax history and place Charlie Benante at the forefront of thrash drumming.\n\nProduced by Carl Canedy (drummer of The Rods) at Pyramid Sound Studios in Ithaca, New York, the album gave Benante a more professional recording environment than the Fistful of Metal sessions and allowed his technical innovations to register fully on tape. Canedy understood hard-hitting drumming intimately and worked to capture the full dynamic range of Benante's kit — from the explosive snare cracks to the sustained double-bass patterns that were already unlike anything else in thrash.\n\nThe album opens with 'A.I.R.' and within eight bars it's clear this is a different beast. The double bass drives the main riff with a locked, mechanical precision that was years ahead of the competition. 'Madhouse' became Anthrax's signature song and remains one of the most-cited tracks in thrash history — its mid-tempo groove underpinned by Benante's perfect snare placement and hi-hat command. 'Lone Justice,' 'Aftershock,' and 'Medusa' showed that this wasn't a band that front-loaded albums with their best material; Spreading the Disease maintained intensity across all nine tracks.\n\nFor drummers, the album documents a key moment in Charlie Benante's development: the gear configuration was settling into its first endorsement-era shape (Tama drums, Paiste 2002 and RUDE cymbals, the HP35 Camco pedals he'd started using in 1984), and the techniques that would define his reputation — blast beats in a metal context, sustained double-bass triplet figures, compositional fills that served arrangements — were being committed to tape for the first time in their fully realised form.\n\nThis article documents every piece of equipment Charlie Benante used to record Spreading the Disease and connects the album to its place in the arc that leads to Among the Living (1987) and beyond.",
+      "content": "Released on November 1, 1985, Anthrax's Spreading the Disease is where the classic lineup announced itself to the world. It was the band's first album with Joey Belladonna on vocals, and it established the sonic blueprint — relentless double bass, melodic aggression, blast-beat innovation — that would define the next five years of Anthrax history and place Charlie Benante at the forefront of thrash drumming.\n\nProduced by Carl Canedy (drummer of The Rods) at Pyramid Sound Studios in Ithaca, New York, the album gave Benante a more professional recording environment than the Fistful of Metal sessions and allowed his technical innovations to register fully on tape. Canedy understood hard-hitting drumming intimately and worked to capture the full dynamic range of Benante's kit — from the explosive snare cracks to the sustained double-bass patterns that were already unlike anything else in thrash.\n\nThe album opens with 'A.I.R.' and within eight bars it's clear this is a different beast. The double bass drives the main riff with a locked, mechanical precision that was years ahead of the competition. 'Madhouse' became Anthrax's signature song and remains one of the most-cited tracks in thrash history — its mid-tempo groove underpinned by Benante's perfect snare placement and hi-hat command. 'Lone Justice,' 'Aftershock,' and 'Medusa' showed that this wasn't a band that front-loaded albums with their best material; Spreading the Disease maintained intensity across all nine tracks.\n\nFor drummers, the album documents a key moment in Charlie Benante's development: the gear configuration was settling into its first endorsement-era shape (Tama drums, Paiste 2002 and RUDE cymbals, the chain-drive pedal setup he was using at the time), and the techniques that would define his reputation — blast beats in a metal context, sustained double-bass triplet figures, compositional fills that served arrangements — were being committed to tape for the first time in their fully realised form.\n\nThis article documents every piece of equipment Charlie Benante used to record Spreading the Disease and connects the album to its place in the arc that leads to Among the Living (1987) and beyond.",
       "keyPoints": [
         "First Anthrax album with Joey Belladonna — debut of the classic lineup",
         "Recorded at Pyramid Sound Studios, Ithaca, New York in 1985",
         "Produced by Carl Canedy (drummer of The Rods)",
         "Features 'Madhouse' — one of the most-cited thrash metal songs ever recorded",
         "Benante's blast beats and double-bass innovations captured in their earliest full studio form",
-        "Tama Artstar kit with Paiste 2002 / RUDE cymbals and HP35 Camco pedals"
+        "Tama Artstar kit with Paiste 2002 / RUDE cymbals and a chain-drive pedal setup"
       ]
     },
     "drumKit": {
@@ -1142,14 +1142,14 @@ export const articles = {
       "estimatedValue": "$1,200-1,800 total (1985 era)"
     },
     "hardware": {
-      "title": "Tama HP35 Camco — The Legendary Pedal Begins",
+      "title": "Chain-Drive Pedals — The Foundation Begins",
       "items": [
         {
           "type": "Bass Drum Pedals",
           "brand": "Tama",
-          "model": "Tama HP35 Camco",
-          "notes": "The pedals Charlie used from 1984 to 2010 — first full album on these legendary chain-drives",
-          "description": "Spreading the Disease was the first Anthrax album recorded with the Tama HP35 Camco pedals that Charlie Benante would use for the next 26 years. The Camco chain-drive design provided a direct, responsive feel with consistent spring action — the mechanical foundation of his pioneering sustained double-bass technique. The HP35 Camco's design was simple and reliable: consistent enough that Benante never felt the need to upgrade until Tama discontinued the line in 2010."
+          "model": "Chain-drive pedal (specific model unconfirmed)",
+          "notes": "The chain-drive pedal setup Charlie used before switching to Speed Cobra pedals in the 2010s — early in that run on Spreading the Disease",
+          "description": "Spreading the Disease was among the earliest Anthrax albums recorded with the chain-drive pedal setup that Charlie Benante would rely on for years to come. Chain-drive pedals provided a direct, responsive feel with consistent spring action — the mechanical foundation of his pioneering sustained double-bass technique. The setup was simple and reliable: consistent enough that Benante never felt the need to upgrade until he eventually switched to Speed Cobra pedals."
         },
         {
           "type": "Hi-Hat Stand",
@@ -1199,7 +1199,7 @@ export const articles = {
           "Melodic tom fills that serve the song's compositional architecture",
           "The song that made 'Madhouse drum setup' a search term decades later"
         ],
-        "gearNotes": "The 2002 Sound Edge hi-hats drive the groove with crisp 16th-note articulation. The steel snare's crack defines the backbeat. HP35 Camco pedals handle the double-bass passages with controlled precision."
+        "gearNotes": "The 2002 Sound Edge hi-hats drive the groove with crisp 16th-note articulation. The steel snare's crack defines the backbeat. His chain-drive pedal setup handles the double-bass passages with controlled precision."
       },
       {
         "track": "A.I.R.",
@@ -1207,7 +1207,7 @@ export const articles = {
         "signature": "4/4",
         "highlights": [
           "Album opener that establishes the double-bass template immediately",
-          "Sustained kick patterns demonstrate Benante's early HP35 Camco control",
+          "Sustained kick patterns demonstrate Benante's early chain-drive pedal control",
           "Hi-hat patterns maintain clarity at blistering opening tempo",
           "One of thrash's most effective album-opening drum statements"
         ],
@@ -1223,7 +1223,7 @@ export const articles = {
           "S.O.D. crossover influence audible in the raw, direct approach",
           "One of the fastest tracks on the album"
         ],
-        "gearNotes": "The Paiste China cymbal accents the chorus transitions. Double-bass patterns show the HP35 Camco at its most demanding."
+        "gearNotes": "The Paiste China cymbal accents the chorus transitions. Double-bass patterns show his chain-drive pedal setup at its most demanding."
       },
       {
         "track": "Aftershock",
@@ -1240,7 +1240,7 @@ export const articles = {
     ],
     "evolution": {
       "title": "From Spreading the Disease to Among the Living and Beyond",
-      "content": "Spreading the Disease established the gear and technique template that Charlie Benante would refine over the next five years of peak-era Anthrax. The Tama Artstar kit, Paiste 2002/RUDE cymbals, and HP35 Camco pedals that served Spreading the Disease were the direct ancestors of the configuration documented on Among the Living (1987) — and the double-bass innovations and blast-beat vocabulary introduced here were the seeds of the entire subsequent era.",
+      "content": "Spreading the Disease established the gear and technique template that Charlie Benante would refine over the next five years of peak-era Anthrax. The Tama Artstar kit, Paiste 2002/RUDE cymbals, and chain-drive pedal setup that served Spreading the Disease were the direct ancestors of the configuration documented on Among the Living (1987) — and the double-bass innovations and blast-beat vocabulary introduced here were the seeds of the entire subsequent era.",
       "thenVsNow": [
         {
           "category": "Kit",
@@ -1259,8 +1259,8 @@ export const articles = {
         },
         {
           "category": "Pedals",
-          "then": "Tama HP35 Camco (first album on these legendary pedals)",
-          "now": "Tama HP35 Camco (used continuously until 2010)"
+          "then": "Chain-drive pedal setup of the era (early in this run)",
+          "now": "Chain-drive pedal setup of the era (used continuously until the Speed Cobra switch)"
         },
         {
           "category": "Producer",
@@ -1284,7 +1284,7 @@ export const articles = {
       },
       {
         "question": "What pedals did Charlie Benante use on Spreading the Disease?",
-        "answer": "Charlie Benante used Tama HP35 Camco chain-drive pedals on Spreading the Disease — the same pedals he had started using in 1984 and would continue to use for 26 years until Tama discontinued the line in 2010. The Camco's direct, responsive chain-drive feel was the mechanical foundation of Benante's pioneering sustained double-bass technique. Spreading the Disease is likely the first full Anthrax album recorded with these legendary pedals."
+        "answer": "Charlie Benante used a chain-drive pedal setup on Spreading the Disease — the same type of setup he relied on for years before eventually switching to Tama Speed Cobra pedals in the 2010s. The direct, responsive chain-drive feel was the mechanical foundation of Benante's pioneering sustained double-bass technique. Spreading the Disease is likely the first full Anthrax album recorded with this setup."
       },
       {
         "question": "Who produced Spreading the Disease and where was it recorded?",
@@ -1292,7 +1292,7 @@ export const articles = {
       },
       {
         "question": "How does Spreading the Disease fit in Charlie Benante's drum setup arc?",
-        "answer": "Spreading the Disease is the opening chapter of Charlie Benante's classic-era gear arc. It documents his first full album on Tama Artstar drums and HP35 Camco pedals, his early Paiste 2002/RUDE cymbal setup, and the nascent form of the double-bass and blast-beat techniques that would be fully refined on Among the Living (1987) and Persistence of Time (1990). For the next chapter in his gear evolution, see the Among the Living drum setup breakdown."
+        "answer": "Spreading the Disease is the opening chapter of Charlie Benante's classic-era gear arc. It documents his first full album on Tama Artstar drums and a chain-drive pedal setup, his early Paiste 2002/RUDE cymbal setup, and the nascent form of the double-bass and blast-beat techniques that would be fully refined on Among the Living (1987) and Persistence of Time (1990). For the next chapter in his gear evolution, see the Among the Living drum setup breakdown."
       }
     ],
     "videos": [],
@@ -1314,7 +1314,7 @@ export const articles = {
     "relatedLicks": [],
     "conclusion": {
       "title": "The Album That Started the Arc",
-      "content": "Spreading the Disease is where the Charlie Benante story begins in earnest — not because Fistful of Metal didn't exist, but because everything that defines the Anthrax sound arrived here simultaneously. Joey Belladonna's voice, Scott Ian and Dan Spitz's twin-guitar aggression, Frank Bello's rumbling bass, and Charlie Benante's technically advanced, compositionally intelligent drumming: this is the lineup that wrote the Anthrax chapter of thrash history, and Spreading the Disease is its opening statement.\n\nFor drummers, the album is a study in priorities. Benante was already one of thrash's most technically accomplished practitioners in 1985, but the gear choices and production approach on Spreading the Disease reflect the priorities he has maintained for four decades: gear that serves the music, technique that serves the song, and innovations that expand the vocabulary rather than merely display it. The HP35 Camco pedals he started using in 1984 appear here for the first time on a full-length Anthrax album. The Paiste 2002 Sound Edge hi-hats deliver the crisp, defined patterns that have driven Anthrax grooves ever since. The dual Tama bass drums establish the physical foundation of the most sustained double-bass technique in Big Four thrash.\n\nTracks like 'Madhouse' and 'A.I.R.' have remained in Anthrax's live set for four decades not because the band is nostalgic, but because the material is genuinely great — and at the core of that greatness is Charlie Benante's drumming. 'Madhouse' in particular has become one of the most-searched Anthrax drum topics on the internet because it represents something rare: a song where the drums are simultaneously appropriate for the song and undeniably impressive on their own terms.\n\nFor the full Charlie Benante gear story, visit the [Charlie Benante drummer profile](/drummer/charlie-benante). For the album that immediately followed this one, see the [Among the Living drum setup breakdown](/articles/charlie-benante-among-the-living-drum-setup). For Anthrax's complete drummer history, see the [Anthrax band page](/bands/anthrax)."
+      "content": "Spreading the Disease is where the Charlie Benante story begins in earnest — not because Fistful of Metal didn't exist, but because everything that defines the Anthrax sound arrived here simultaneously. Joey Belladonna's voice, Scott Ian and Dan Spitz's twin-guitar aggression, Frank Bello's rumbling bass, and Charlie Benante's technically advanced, compositionally intelligent drumming: this is the lineup that wrote the Anthrax chapter of thrash history, and Spreading the Disease is its opening statement.\n\nFor drummers, the album is a study in priorities. Benante was already one of thrash's most technically accomplished practitioners in 1985, but the gear choices and production approach on Spreading the Disease reflect the priorities he has maintained for four decades: gear that serves the music, technique that serves the song, and innovations that expand the vocabulary rather than merely display it. The chain-drive pedal setup he relied on for years appears here for the first time on a full-length Anthrax album. The Paiste 2002 Sound Edge hi-hats deliver the crisp, defined patterns that have driven Anthrax grooves ever since. The dual Tama bass drums establish the physical foundation of the most sustained double-bass technique in Big Four thrash.\n\nTracks like 'Madhouse' and 'A.I.R.' have remained in Anthrax's live set for four decades not because the band is nostalgic, but because the material is genuinely great — and at the core of that greatness is Charlie Benante's drumming. 'Madhouse' in particular has become one of the most-searched Anthrax drum topics on the internet because it represents something rare: a song where the drums are simultaneously appropriate for the song and undeniably impressive on their own terms.\n\nFor the full Charlie Benante gear story, visit the [Charlie Benante drummer profile](/drummer/charlie-benante). For the album that immediately followed this one, see the [Among the Living drum setup breakdown](/articles/charlie-benante-among-the-living-drum-setup). For Anthrax's complete drummer history, see the [Anthrax band page](/bands/anthrax)."
     }
   },
   "persistence-of-time-drum-setup": {
@@ -1334,7 +1334,7 @@ export const articles = {
     "dateModified": "2026-06-29",
     "author": "MetalForge Editorial",
     "title": "Persistence of Time Drum Setup: Charlie Benante's 1990 Anthrax Gear Breakdown",
-    "description": "Complete breakdown of Charlie Benante's drum setup on Anthrax's Persistence of Time (1990). Tama Artstar Custom kit, Paiste cymbals, HP35 Camco pedals — the final Joey Belladonna-era album that went Platinum in the US.",
+    "description": "Complete breakdown of Charlie Benante's drum setup on Anthrax's Persistence of Time (1990). Tama Artstar Custom kit, Paiste cymbals, chain-drive pedal setup — the final Joey Belladonna-era album that went Platinum in the US.",
     "seoKeywords": [
       "charlie benante persistence of time drum setup",
       "persistence of time drums 1990",
@@ -1444,14 +1444,14 @@ export const articles = {
       "estimatedValue": "$1,500-2,200 total (1990 era)"
     },
     "hardware": {
-      "title": "Tama HP35 Camco — The 1990 Chapter of a 26-Year Relationship",
+      "title": "Chain-Drive Pedals — The 1990 Chapter of a Long Relationship",
       "items": [
         {
           "type": "Bass Drum Pedals",
           "brand": "Tama",
-          "model": "Tama HP35 Camco",
-          "notes": "Sixth year of the 26-year HP35 Camco relationship — utterly dialed in by 1990",
-          "description": "By Persistence of Time, Charlie Benante had been using Tama HP35 Camco chain-drive pedals for six years. The relationship was so deeply established that the mechanical feel of the Camco was simply part of his physical vocabulary — the spring tension, travel, and chain response were extensions of his body. On an album where 'Got the Time' demands pedal performance at the outer edge of human speed, the Camco's reliability and consistency were non-negotiable. These pedals would continue to serve him through another 20 years of Anthrax recordings and tours."
+          "model": "Chain-drive pedal (specific model unconfirmed)",
+          "notes": "Years into his chain-drive pedal relationship — utterly dialed in by 1990",
+          "description": "By Persistence of Time, Charlie Benante had been using a chain-drive pedal setup for years. The relationship was so deeply established that the mechanical feel was simply part of his physical vocabulary — the spring tension, travel, and chain response were extensions of his body. On an album where 'Got the Time' demands pedal performance at the outer edge of human speed, the setup's reliability and consistency were non-negotiable. This pedal setup would continue to serve him for years of subsequent Anthrax recordings and tours before he eventually switched to Speed Cobra pedals."
         },
         {
           "type": "Hi-Hat Stand",
@@ -1505,10 +1505,10 @@ export const articles = {
           "Joe Jackson cover transformed into a 90-second thrash sprint",
           "One of the fastest and most precisely executed Anthrax drum performances",
           "Hi-hat patterns maintain absolute clarity at the extreme tempo",
-          "Double-bass driving the opening riff demonstrates Camco pedal mastery",
+          "Double-bass driving the opening riff demonstrates chain-drive pedal mastery",
           "One of thrash's most studied and covered drum performances"
         ],
-        "gearNotes": "The HP35 Camco pedals are at their limit here — speed and consistency at 230 BPM. The Paiste Sound Edge Hi-Hats articulate every 16th note with absolute clarity. The brass snare crack cuts through at every tempo point."
+        "gearNotes": "His chain-drive pedal setup is at its limit here — speed and consistency at 230 BPM. The Paiste Sound Edge Hi-Hats articulate every 16th note with absolute clarity. The brass snare crack cuts through at every tempo point."
       },
       {
         "track": "In My World",
@@ -1549,7 +1549,7 @@ export const articles = {
     ],
     "evolution": {
       "title": "From State of Euphoria to Persistence of Time — and Into the John Bush Era",
-      "content": "Persistence of Time is the conclusion of the first chapter of Charlie Benante's Anthrax gear arc. The Tama Artstar Custom birch kit, Paiste 2002/RUDE cymbals, HP35 Camco pedals, Pro-Mark sticks, and Remo heads that serve the album represent a fully matured version of the configuration that had been taking shape since Spreading the Disease in 1985. Three years later, Sound of White Noise would put that same gear through a dramatic stylistic reinvention — different producer, different tuning approach — as the John Bush era began.",
+      "content": "Persistence of Time is the conclusion of the first chapter of Charlie Benante's Anthrax gear arc. The Tama Artstar Custom birch kit, Paiste 2002/RUDE cymbals, chain-drive pedal setup, Pro-Mark sticks, and Remo heads that serve the album represent a fully matured version of the configuration that had been taking shape since Spreading the Disease in 1985. Three years later, Sound of White Noise would put that same gear through a dramatic stylistic reinvention — different producer, different tuning approach — as the John Bush era began.",
       "thenVsNow": [
         {
           "category": "Kit",
@@ -1568,8 +1568,8 @@ export const articles = {
         },
         {
           "category": "Pedals",
-          "then": "Tama HP35 Camco (year 6 of 26)",
-          "now": "Tama HP35 Camco (unchanged) — Sound of White Noise (1993)"
+          "then": "Chain-drive pedal setup of the era",
+          "now": "Chain-drive pedal setup of the era (unchanged) — Sound of White Noise (1993)"
         },
         {
           "category": "Producer",
@@ -1585,7 +1585,7 @@ export const articles = {
       },
       {
         "question": "What is Charlie Benante's drum setup on 'Got the Time'?",
-        "answer": "On 'Got the Time,' Charlie Benante used his standard Persistence of Time setup: Tama Artstar Custom birch kit with dual 22\" bass drums, Paiste 2002 cymbals including 14\" Sound Edge Hi-Hats, and Tama HP35 Camco bass drum pedals. The track runs at approximately 230 BPM, and the double-bass patterns in the opening riff — combined with the crystal-clear hi-hat articulation — represent the HP35 Camco operating at the outer limits of pedal speed. The performance remains one of the most studied drum recordings in thrash history."
+        "answer": "On 'Got the Time,' Charlie Benante used his standard Persistence of Time setup: Tama Artstar Custom birch kit with dual 22\" bass drums, Paiste 2002 cymbals including 14\" Sound Edge Hi-Hats, and his chain-drive bass drum pedal setup. The track runs at approximately 230 BPM, and the double-bass patterns in the opening riff — combined with the crystal-clear hi-hat articulation — represent that pedal setup operating at the outer limits of pedal speed. The performance remains one of the most studied drum recordings in thrash history."
       },
       {
         "question": "What cymbals did Charlie Benante use on Persistence of Time?",
@@ -1601,7 +1601,7 @@ export const articles = {
       },
       {
         "question": "How does Persistence of Time connect to Sound of White Noise drum-wise?",
-        "answer": "Persistence of Time is the direct predecessor to Sound of White Noise (1993) in Charlie Benante's gear arc, and the gear itself carried straight through — the same Tama Artstar Custom birch drums, Paiste cymbals, and Tama HP35 Camco pedals appear on both records. What changed was the production and the tuning: Mark Dodson's tight, forward production on Persistence of Time gave way to Dave Jerden's organic, room-rich approach on Sound of White Noise, with the kit tuned lower and damped more heavily to match. For the complete comparison, see the Sound of White Noise drum setup article."
+        "answer": "Persistence of Time is the direct predecessor to Sound of White Noise (1993) in Charlie Benante's gear arc, and the gear itself carried straight through — the same Tama Artstar Custom birch drums, Paiste cymbals, and chain-drive pedal setup appear on both records. What changed was the production and the tuning: Mark Dodson's tight, forward production on Persistence of Time gave way to Dave Jerden's organic, room-rich approach on Sound of White Noise, with the kit tuned lower and damped more heavily to match. For the complete comparison, see the Sound of White Noise drum setup article."
       }
     ],
     "videos": [],
@@ -1623,7 +1623,7 @@ export const articles = {
     "relatedLicks": [],
     "conclusion": {
       "title": "The Classic Era's Final Masterclass",
-      "content": "Persistence of Time closes the first and perhaps greatest chapter of Anthrax's story. It is the album where everything the classic lineup had been building since Spreading the Disease — the double-bass command, the compositional intelligence, the technical precision, the groove within aggression — achieves its most complete expression in the thrash metal format. The Platinum certification, the #24 Billboard debut, the enduring fan passion for tracks like 'In My World,' 'Got the Time,' and 'Blood': these are the marks of a band and a drummer operating at their creative and commercial peak simultaneously.\n\nFor Charlie Benante specifically, Persistence of Time represents the completion of a five-year gear arc. The Tama Artstar Custom kit, the Paiste 2002/RUDE cymbals, the HP35 Camco pedals, the Remo heads, the Pro-Mark sticks: every piece of this configuration had been refined and field-tested across Spreading the Disease, Among the Living, and State of Euphoria before arriving at their most mature expression here. When Mark Dodson captured this kit at Bearsville in 1990, he was recording equipment and technique that had been genuinely optimised for these specific demands.\n\nThe John Bush era that followed — Sound of White Noise (1993) and beyond — would require Benante to reinvent his playing approach on this same gear, and he did so successfully. But for drummers studying the craft, the Joey Belladonna era arc from Spreading the Disease through Persistence of Time is one of the most instructive in metal history: a drummer growing from technically proficient to genuinely transcendent, on record, across five years and four albums.\n\n'Got the Time' alone would be enough to secure Persistence of Time's place in thrash drumming history. But the album gives you 'In My World,' 'Blood,' 'Time,' 'H8 Red,' and more — a full album of masterclass drumming that rewards deep listening.\n\nFor the full Charlie Benante gear story beyond this album, visit the [Charlie Benante drummer profile](/drummer/charlie-benante). For the album that immediately preceded this one, see the [State of Euphoria drum setup breakdown](/articles/state-of-euphoria-drum-setup). For the Sound of White Noise evolution, see the [Sound of White Noise drum setup article](/articles/sound-of-white-noise-drum-setup). For Anthrax's complete history, see the [Anthrax band page](/bands/anthrax)."
+      "content": "Persistence of Time closes the first and perhaps greatest chapter of Anthrax's story. It is the album where everything the classic lineup had been building since Spreading the Disease — the double-bass command, the compositional intelligence, the technical precision, the groove within aggression — achieves its most complete expression in the thrash metal format. The Platinum certification, the #24 Billboard debut, the enduring fan passion for tracks like 'In My World,' 'Got the Time,' and 'Blood': these are the marks of a band and a drummer operating at their creative and commercial peak simultaneously.\n\nFor Charlie Benante specifically, Persistence of Time represents the completion of a five-year gear arc. The Tama Artstar Custom kit, the Paiste 2002/RUDE cymbals, the chain-drive pedal setup, the Remo heads, the Pro-Mark sticks: every piece of this configuration had been refined and field-tested across Spreading the Disease, Among the Living, and State of Euphoria before arriving at their most mature expression here. When Mark Dodson captured this kit at Bearsville in 1990, he was recording equipment and technique that had been genuinely optimised for these specific demands.\n\nThe John Bush era that followed — Sound of White Noise (1993) and beyond — would require Benante to reinvent his playing approach on this same gear, and he did so successfully. But for drummers studying the craft, the Joey Belladonna era arc from Spreading the Disease through Persistence of Time is one of the most instructive in metal history: a drummer growing from technically proficient to genuinely transcendent, on record, across five years and four albums.\n\n'Got the Time' alone would be enough to secure Persistence of Time's place in thrash drumming history. But the album gives you 'In My World,' 'Blood,' 'Time,' 'H8 Red,' and more — a full album of masterclass drumming that rewards deep listening.\n\nFor the full Charlie Benante gear story beyond this album, visit the [Charlie Benante drummer profile](/drummer/charlie-benante). For the album that immediately preceded this one, see the [State of Euphoria drum setup breakdown](/articles/state-of-euphoria-drum-setup). For the Sound of White Noise evolution, see the [Sound of White Noise drum setup article](/articles/sound-of-white-noise-drum-setup). For Anthrax's complete history, see the [Anthrax band page](/bands/anthrax)."
     }
   },
   "state-of-euphoria-drum-setup": {
@@ -1753,14 +1753,14 @@ export const articles = {
       "estimatedValue": "$1,500-2,000 total (1988 era)"
     },
     "hardware": {
-      "title": "Tama Camco-Era Hardware Foundation",
+      "title": "Chain-Drive Pedal Hardware Foundation",
       "items": [
         {
           "type": "Bass Drum Pedals",
           "brand": "Tama",
-          "model": "Tama HP35 Camco",
-          "notes": "Chain-drive pedals Charlie used from 1984 to 2010 — pre-Iron Cobra era",
-          "description": "The Iron Cobra would not arrive until 1993, so for State of Euphoria Charlie was firmly in the Tama HP35 Camco era. The Camco chain-drive design provided a direct, responsive feel with consistent spring action — the foundation of the sustained right-foot triplets and double-bass passages on the album. These pedals are central to the State of Euphoria drum sound and remained Charlie's primary pedal for over a quarter-century."
+          "model": "Chain-drive pedal (specific model unconfirmed)",
+          "notes": "The chain-drive pedal setup of the era Charlie used before eventually switching to Speed Cobra pedals in the 2010s",
+          "description": "For State of Euphoria, Charlie was still in his chain-drive pedal era. Chain-drive pedals provided a direct, responsive feel with consistent spring action — the foundation of the sustained right-foot triplets and double-bass passages on the album. This pedal setup is central to the State of Euphoria drum sound and remained Charlie's primary setup for years."
         },
         {
           "type": "Hi-Hat Stand",
@@ -1852,7 +1852,7 @@ export const articles = {
     "relatedLicks": [],
     "conclusion": {
       "title": "The Bridge Album in Charlie Benante's Late-80s Arc",
-      "content": "State of Euphoria sits in a critical place in Charlie Benante's recorded history. It follows the watershed Among the Living, precedes the more ambitious Persistence of Time, and captures Charlie at the precise moment his identity as a working endorser stabilised — Tama drums, Paiste cymbals, Pro-Mark sticks, Remo heads. Everything that would define his sound for the next two decades is in place on this record.\n\nFor drummers studying his evolution, State of Euphoria is the album where the Tama Granstar bridges the Artstar II of Among the Living and the kits to come; where the Tama Bell Brass snare provides one of the most prominent recorded examples of that legendary shell; where the Tama HP35 Camco pedals continue the chain-drive legacy that lasted until 2010; and where Charlie's Remo drumhead endorsement makes its first fully credited Anthrax appearance.\n\nProducer Mark Dodson's tighter, drier, more forward approach gave the album a distinctly different sonic personality from its predecessor — and the result is a record that sounds unmistakably late-80s thrash, full of the upper-midrange aggression that defined the era. It remains essential listening for anyone tracing the lineage of Big Four thrash drumming.\n\nFor the full Charlie Benante gear story, visit the [Charlie Benante drummer profile](/drummer/charlie-benante). For the album that immediately preceded this one, see the [Among the Living drum setup breakdown](/articles/charlie-benante-among-the-living-drum-setup)."
+      "content": "State of Euphoria sits in a critical place in Charlie Benante's recorded history. It follows the watershed Among the Living, precedes the more ambitious Persistence of Time, and captures Charlie at the precise moment his identity as a working endorser stabilised — Tama drums, Paiste cymbals, Pro-Mark sticks, Remo heads. Everything that would define his sound for the next two decades is in place on this record.\n\nFor drummers studying his evolution, State of Euphoria is the album where the Tama Granstar bridges the Artstar II of Among the Living and the kits to come; where the Tama Bell Brass snare provides one of the most prominent recorded examples of that legendary shell; where his chain-drive pedal setup continues the legacy that lasted until his eventual switch to Speed Cobra pedals; and where Charlie's Remo drumhead endorsement makes its first fully credited Anthrax appearance.\n\nProducer Mark Dodson's tighter, drier, more forward approach gave the album a distinctly different sonic personality from its predecessor — and the result is a record that sounds unmistakably late-80s thrash, full of the upper-midrange aggression that defined the era. It remains essential listening for anyone tracing the lineage of Big Four thrash drumming.\n\nFor the full Charlie Benante gear story, visit the [Charlie Benante drummer profile](/drummer/charlie-benante). For the album that immediately preceded this one, see the [Among the Living drum setup breakdown](/articles/charlie-benante-among-the-living-drum-setup)."
     }
   },
   "worship-music-drum-setup": {
@@ -1886,12 +1886,12 @@ export const articles = {
     "ogImage": "/images/albums/worship-music-drums.webp",
     "intro": {
       "title": "The Reunion Album: Anthrax and Joey Belladonna Return",
-      "content": "Released on September 13, 2011, Worship Music ended one of metal's longest and most emotionally charged reunion stories. Joey Belladonna — the high-register vocalist who had defined Anthrax's classic era before his contentious 1992 departure — was back, and the album that greeted his return was the strongest material the band had written in nearly two decades. Worship Music debuted at #12 on the US Billboard 200 and earned a Grammy nomination for Best Metal Performance with \"In the End\" — Anthrax's first Grammy nod in the 21st century and a validation of everything the reunion had promised.\n\nFor Charlie Benante, Worship Music marked the convergence of two significant gear transitions. In 2010, after 26 years of relying on legendary Tama HP35 Camco chain-drive pedals, Benante had finally switched to Tama's Speed Cobra series — faster, lighter, and optimized for the rapid double bass passages that had been his signature since Among the Living. The Speed Cobras arrived just in time for Worship Music's sessions at Sphere Studios in North Hollywood, and producer Jay Ruston — working with Anthrax for the first time — captured their mechanical precision in a production that was simultaneously modern and faithful to the band's thrash roots.\n\nThe production philosophy Jay Ruston brought to Worship Music was the opposite of Dave Jerden's mid-range-heavy 1993 approach. Where Sound of White Noise had pulled back from thrash's defining characteristics, Worship Music leaned into them. Benante's double bass patterns are prominent throughout; the snare sits forward and aggressive in the mix; the cymbals cut. This was a deliberate reconnection with the Among the Living energy that Joey Belladonna's voice had always demanded — a sonic environment where thrash's defining characteristics were assets rather than memories.\n\nThe album also closed an 18-year gap in Anthrax's studio partnership with Belladonna. Persistence of Time (1990) had been their last full album together before the split. Worship Music picks up that thread while incorporating everything Benante had learned in the intervening years — the groove sensibility of Sound of White Noise, the compositional maturity of the Bush era, and the technical refinements that decades of touring and recording had produced. The result is an album where Charlie Benante sounds fully himself: technical, powerful, musical, and in complete command of his instrument.",
+      "content": "Released on September 13, 2011, Worship Music ended one of metal's longest and most emotionally charged reunion stories. Joey Belladonna — the high-register vocalist who had defined Anthrax's classic era before his contentious 1992 departure — was back, and the album that greeted his return was the strongest material the band had written in nearly two decades. Worship Music debuted at #12 on the US Billboard 200 and earned a Grammy nomination for Best Metal Performance with \"In the End\" — Anthrax's first Grammy nod in the 21st century and a validation of everything the reunion had promised.\n\nFor Charlie Benante, Worship Music marked the convergence of two significant gear transitions. Around 2010, after years of relying on his chain-drive pedal setup of the era, Benante had finally switched to Tama's Speed Cobra series — faster, lighter, and optimized for the rapid double bass passages that had been his signature since Among the Living. The Speed Cobras arrived just in time for Worship Music's sessions at Sphere Studios in North Hollywood, and producer Jay Ruston — working with Anthrax for the first time — captured their mechanical precision in a production that was simultaneously modern and faithful to the band's thrash roots.\n\nThe production philosophy Jay Ruston brought to Worship Music was the opposite of Dave Jerden's mid-range-heavy 1993 approach. Where Sound of White Noise had pulled back from thrash's defining characteristics, Worship Music leaned into them. Benante's double bass patterns are prominent throughout; the snare sits forward and aggressive in the mix; the cymbals cut. This was a deliberate reconnection with the Among the Living energy that Joey Belladonna's voice had always demanded — a sonic environment where thrash's defining characteristics were assets rather than memories.\n\nThe album also closed an 18-year gap in Anthrax's studio partnership with Belladonna. Persistence of Time (1990) had been their last full album together before the split. Worship Music picks up that thread while incorporating everything Benante had learned in the intervening years — the groove sensibility of Sound of White Noise, the compositional maturity of the Bush era, and the technical refinements that decades of touring and recording had produced. The result is an album where Charlie Benante sounds fully himself: technical, powerful, musical, and in complete command of his instrument.",
       "keyPoints": [
         "Joey Belladonna's return — first full studio album with him since Persistence of Time (1990)",
         "Grammy nominated: Best Metal Performance for 'In the End' (54th Grammy Awards, 2012)",
         "Debuted at #12 US Billboard 200 — strong commercial performance",
-        "Charlie's first album with Tama Speed Cobra pedals, switched in 2010 after 26 years on HP35 Camco",
+        "Charlie's first album with Tama Speed Cobra pedals, switched around 2010 after years on his earlier chain-drive pedal setup",
         "Produced by Jay Ruston at Sphere Studios, North Hollywood — beginning of long Anthrax-Ruston partnership",
         "Closes the 18-year gap: Persistence of Time (1990) → Worship Music (2011)"
       ]
@@ -1996,8 +1996,8 @@ export const articles = {
           "type": "Bass Drum Pedals",
           "brand": "Tama",
           "model": "Tama Speed Cobra HP910LN (two single pedals)",
-          "notes": "Switched from HP35 Camco in 2010 — first Anthrax album with Speed Cobra",
-          "description": "Worship Music is the first Anthrax album recorded with Tama Speed Cobra pedals — one of the most significant hardware transitions of Charlie Benante's career. For 26 years (1984-2010), Benante had relied on the legendary Tama HP35 Camco chain-drive pedals, a partnership so long that many considered him the defining Camco endorsee. When Tama discontinued the HP35 line, Benante switched to the Speed Cobra — a lighter, faster, longboard design that retained the chain-drive mechanism he preferred while adding modern engineering improvements in spring tension and beater angle adjustment. The Speed Cobra's longer board footprint accommodates Benante's heel-toe technique on the more demanding double bass passages while the lighter overall construction allows faster single-stroke velocity. On Worship Music's recording sessions at Sphere Studios, the Speed Cobras had already been in Benante's live rig for roughly a year, giving him the familiarity needed for studio-quality performance across the album's intensive tracking schedule."
+          "notes": "Switched from his earlier chain-drive pedal setup around 2010 — first Anthrax album with Speed Cobra",
+          "description": "Worship Music is the first Anthrax album recorded with Tama Speed Cobra pedals — one of the most significant hardware transitions of Charlie Benante's career. For years before 2010, Benante had relied on a chain-drive pedal setup of the era. He then switched to the Speed Cobra — a lighter, faster, longboard design that retained the chain-drive mechanism he preferred while adding modern engineering improvements in spring tension and beater angle adjustment. The Speed Cobra's longer board footprint accommodates Benante's heel-toe technique on the more demanding double bass passages while the lighter overall construction allows faster single-stroke velocity. On Worship Music's recording sessions at Sphere Studios, the Speed Cobras had already been in Benante's live rig for roughly a year, giving him the familiarity needed for studio-quality performance across the album's intensive tracking schedule."
         },
         {
           "type": "Hi-Hat Stand",
@@ -2087,7 +2087,7 @@ export const articles = {
     ],
     "evolution": {
       "title": "From Sound of White Noise to Worship Music: The Modern Era Arrives",
-      "content": "Worship Music closes an 18-year gap in the Benante-Belladonna studio partnership while also documenting 18 years of gear evolution. The Sound of White Noise (1993) had found Benante on his Tama Artstar Custom kit and Paiste cymbals, tuned low for the groove-metal pivot. Worship Music (2011) documents his fully settled modern configuration: the Tama Starclassic Maple he'd upgraded to on We've Come for You All (2003), the same long-running Paiste cymbal line, and now on Speed Cobra pedals that replaced the legendary HP35 Camcos just in time for these sessions. The evolution is complete — Benante arrived at Worship Music's recording sessions with a setup that represents decades of refinement distilled into a working professional's toolkit.",
+      "content": "Worship Music closes an 18-year gap in the Benante-Belladonna studio partnership while also documenting 18 years of gear evolution. The Sound of White Noise (1993) had found Benante on his Tama Artstar Custom kit and Paiste cymbals, tuned low for the groove-metal pivot. Worship Music (2011) documents his fully settled modern configuration: the Tama Starclassic Maple he'd upgraded to on We've Come for You All (2003), the same long-running Paiste cymbal line, and now on Speed Cobra pedals that replaced his earlier chain-drive pedal setup just in time for these sessions. The evolution is complete — Benante arrived at Worship Music's recording sessions with a setup that represents decades of refinement distilled into a working professional's toolkit.",
       "thenVsNow": [
         {
           "category": "Kit",
@@ -2106,8 +2106,8 @@ export const articles = {
         },
         {
           "category": "Pedals",
-          "then": "Tama HP35 Camco (two single pedals)",
-          "now": "Tama Speed Cobra HP910LN (switched 2010)"
+          "then": "Chain-drive pedal setup of the era (two single pedals)",
+          "now": "Tama Speed Cobra HP910LN (switched around 2010)"
         },
         {
           "category": "Producer",
@@ -2132,7 +2132,7 @@ export const articles = {
       },
       {
         "question": "Why did Charlie Benante switch to Speed Cobra pedals for Worship Music?",
-        "answer": "Charlie Benante switched from his legendary Tama HP35 Camco chain-drive pedals to Tama Speed Cobra pedals in 2010, when Tama discontinued the HP35 line he had used since 1984. The Speed Cobra offered similar chain-drive action with modern engineering improvements: a longer board footprint for better heel-toe technique, lighter overall construction for faster single-stroke velocity, and adjustable beater angle and spring tension. Worship Music (2011) was the first Anthrax studio album recorded with the Speed Cobras — by that time Benante had already toured with them for approximately a year, giving him the familiarity needed for studio-quality double bass performance throughout the sessions."
+        "answer": "Charlie Benante switched from his earlier chain-drive pedal setup to Tama Speed Cobra pedals around 2010. The Speed Cobra offered similar chain-drive action with modern engineering improvements: a longer board footprint for better heel-toe technique, lighter overall construction for faster single-stroke velocity, and adjustable beater angle and spring tension. Worship Music (2011) was the first Anthrax studio album recorded with the Speed Cobras — by that time Benante had already toured with them for approximately a year, giving him the familiarity needed for studio-quality double bass performance throughout the sessions."
       },
       {
         "question": "What is the drum setup on 'In the End' by Anthrax?",
@@ -2140,7 +2140,7 @@ export const articles = {
       },
       {
         "question": "How does Worship Music compare to Among the Living drum-wise?",
-        "answer": "Worship Music (2011) and Among the Living (1987) share the same fundamental configuration — Charlie Benante on dual 22\" bass drums, Tama kit, forward thrash production — but represent 24 years of gear and technique refinement. Among the Living used the Tama Artstar II birch kit and Paiste 2002 cymbals with HP35 Camco pedals and a Vic Firth 2B stick; Worship Music used the Tama Starclassic Maple, the same Paiste 2002/Signature cymbals, and the new Speed Cobra pedals. Sonically, the biggest differences are the modern production context (Jay Ruston vs. Eddie Kramer), the fuller maple shell warmth versus birch's snappier upper-midrange, and the Speed Cobra's different pedal action from the original Camco mechanism. For the full Among the Living breakdown, see the [Among the Living drum setup article](/articles/charlie-benante-among-the-living-drum-setup). For the next album in the arc, see [For All Kings drum setup](/articles/for-all-kings-drum-setup)."
+        "answer": "Worship Music (2011) and Among the Living (1987) share the same fundamental configuration — Charlie Benante on dual 22\" bass drums, Tama kit, forward thrash production — but represent 24 years of gear and technique refinement. Among the Living used the Tama Artstar II birch kit and Paiste 2002 cymbals with a chain-drive pedal setup and a Vic Firth 2B stick; Worship Music used the Tama Starclassic Maple, the same Paiste 2002/Signature cymbals, and the new Speed Cobra pedals. Sonically, the biggest differences are the modern production context (Jay Ruston vs. Eddie Kramer), the fuller maple shell warmth versus birch's snappier upper-midrange, and the Speed Cobra's different pedal action from his earlier chain-drive mechanism. For the full Among the Living breakdown, see the [Among the Living drum setup article](/articles/charlie-benante-among-the-living-drum-setup). For the next album in the arc, see [For All Kings drum setup](/articles/for-all-kings-drum-setup)."
       }
     ],
     "relatedAlbums": [
@@ -2162,7 +2162,7 @@ export const articles = {
     "relatedLicks": [],
     "conclusion": {
       "title": "The Grammy Album: Anthrax's Modern Thrash Benchmark",
-      "content": "Worship Music is the album that proved Anthrax's classic lineup could produce material worthy of their 1980s peak — and that Charlie Benante, two and a half decades into his career, remained one of thrash metal's defining drummers. The Grammy nomination for \"In the End\" was not a lifetime achievement recognition; it was a direct acknowledgment that the music on Worship Music was among the best heavy metal of 2011. The album debuted at #12 on the US Billboard 200, closed a two-decade gap in the Belladonna-Benante partnership, and established Jay Ruston as the band's production partner for the decade to come.\n\nFor Charlie Benante, Worship Music was the first major studio document of his Speed Cobra era — the pedals that replaced the HP35 Camcos he had used since 1984 and would carry him through all future Anthrax recordings. The Starclassic Maple kit, Paiste 2002 and Signature cymbals, and the high-tension snare tuning that Ruston captured at Sphere Studios represents the fully realized modern Benante configuration.\n\nFor the album that followed and completed this modern arc, see the [For All Kings drum setup article](/articles/for-all-kings-drum-setup). For the Sound of White Noise-era gear evolution, visit the [Sound of White Noise drum setup](/articles/sound-of-white-noise-drum-setup). For Charlie's complete career and gear timeline, see the [Charlie Benante drummer profile](/drummer/charlie-benante) and the [Anthrax band page](/bands/anthrax)."
+      "content": "Worship Music is the album that proved Anthrax's classic lineup could produce material worthy of their 1980s peak — and that Charlie Benante, two and a half decades into his career, remained one of thrash metal's defining drummers. The Grammy nomination for \"In the End\" was not a lifetime achievement recognition; it was a direct acknowledgment that the music on Worship Music was among the best heavy metal of 2011. The album debuted at #12 on the US Billboard 200, closed a two-decade gap in the Belladonna-Benante partnership, and established Jay Ruston as the band's production partner for the decade to come.\n\nFor Charlie Benante, Worship Music was the first major studio document of his Speed Cobra era — the pedals that replaced the chain-drive pedal setup he had used for years and would carry him through all future Anthrax recordings. The Starclassic Maple kit, Paiste 2002 and Signature cymbals, and the high-tension snare tuning that Ruston captured at Sphere Studios represents the fully realized modern Benante configuration.\n\nFor the album that followed and completed this modern arc, see the [For All Kings drum setup article](/articles/for-all-kings-drum-setup). For the Sound of White Noise-era gear evolution, visit the [Sound of White Noise drum setup](/articles/sound-of-white-noise-drum-setup). For Charlie's complete career and gear timeline, see the [Charlie Benante drummer profile](/drummer/charlie-benante) and the [Anthrax band page](/bands/anthrax)."
     }
   },
   "for-all-kings-drum-setup": {
@@ -2307,7 +2307,7 @@ export const articles = {
           "brand": "Tama",
           "model": "Tama Speed Cobra HP910LN (two single pedals)",
           "notes": "Six years of Speed Cobra experience — fully broken in for For All Kings",
-          "description": "By 2015-2016 when For All Kings was recorded at Sphere Studios, Charlie Benante had six years of continuous professional experience with Tama's Speed Cobra pedals — the configuration that had replaced his legendary 26-year HP35 Camco partnership in 2010. The difference in Speed Cobra performance between Worship Music (one year of experience) and For All Kings (six years) is audible: the double bass work on For All Kings is more relaxed, more precise, and deployed with greater compositional intelligence than on the already-strong Worship Music sessions. The Speed Cobra's longboard design and lighter construction had become Benante's second nature, allowing him to execute the full vocabulary of his double bass technique — sustained tremolo patterns, accented single kicks, heel-toe phrases, and the explosive short bursts that punctuate thrash metal's most aggressive passages — with complete control."
+          "description": "By 2015-2016 when For All Kings was recorded at Sphere Studios, Charlie Benante had six years of continuous professional experience with Tama's Speed Cobra pedals — the configuration that had replaced his earlier chain-drive pedal setup around 2010. The difference in Speed Cobra performance between Worship Music (one year of experience) and For All Kings (six years) is audible: the double bass work on For All Kings is more relaxed, more precise, and deployed with greater compositional intelligence than on the already-strong Worship Music sessions. The Speed Cobra's longboard design and lighter construction had become Benante's second nature, allowing him to execute the full vocabulary of his double bass technique — sustained tremolo patterns, accented single kicks, heel-toe phrases, and the explosive short bursts that punctuate thrash metal's most aggressive passages — with complete control."
         },
         {
           "type": "Hi-Hat Stand",
@@ -2445,7 +2445,7 @@ export const articles = {
       },
       {
         "question": "What Anthrax albums has Charlie Benante recorded with Tama Speed Cobra pedals?",
-        "answer": "Charlie Benante switched to Tama Speed Cobra pedals in 2010, replacing the legendary HP35 Camco chain-drive pedals he had used since 1984. Both modern Anthrax studio albums — Worship Music (2011) and For All Kings (2016) — were recorded with Speed Cobra pedals. Worship Music was the first Anthrax album with Speed Cobras (approximately one year of familiarity at the time of recording); For All Kings was the second (six years of experience). All subsequent Anthrax touring and session work, including his role in Pantera's reunion tour from 2022, used the Speed Cobra configuration. For the full modern kit overview, see [What's In Charlie Benante's Kit](/articles/whats-in-charlie-benantes-kit)."
+        "answer": "Charlie Benante switched to Tama Speed Cobra pedals around 2010, replacing the chain-drive pedal setup he had used for years. Both modern Anthrax studio albums — Worship Music (2011) and For All Kings (2016) — were recorded with Speed Cobra pedals. Worship Music was the first Anthrax album with Speed Cobras (approximately one year of familiarity at the time of recording); For All Kings was the second (six years of experience). All subsequent Anthrax touring and session work, including his role in Pantera's reunion tour from 2022, used the Speed Cobra configuration. For the full modern kit overview, see [What's In Charlie Benante's Kit](/articles/whats-in-charlie-benantes-kit)."
       }
     ],
     "relatedAlbums": [
@@ -2596,14 +2596,14 @@ export const articles = {
       "estimatedValue": "$1,400-2,000 total (1995 era)"
     },
     "hardware": {
-      "title": "Tama HP35 Camco: Holding Steady",
+      "title": "Chain-Drive Pedals: Holding Steady",
       "items": [
         {
           "type": "Bass Drum Pedals",
           "brand": "Tama",
-          "model": "Tama HP35 Camco",
-          "notes": "Two single HP35 Camco pedals, one per bass drum, carried over from Sound of White Noise",
-          "description": "Charlie Benante's Tama HP35 Camco pedals carried over unchanged from Sound of White Noise, providing the chain-drive consistency he had relied on for over a decade. With two independent 22\" bass drums rather than a single kick and double pedal, Benante's setup used two single Camco pedals. By Stomp 442, the pedals were thoroughly broken in, and the result is double bass work on \"Random Acts of Senseless Violence\" that is both heavier and more controlled than the still-adjusting 1993 performances."
+          "model": "Chain-drive pedal (specific model unconfirmed)",
+          "notes": "Two single chain-drive pedals, one per bass drum, carried over from Sound of White Noise",
+          "description": "Charlie Benante's chain-drive pedal setup carried over unchanged from Sound of White Noise, providing the consistency he had relied on for years. With two independent 22\" bass drums rather than a single kick and double pedal, Benante's setup used two single chain-drive pedals. By Stomp 442, the pedals were thoroughly broken in, and the result is double bass work on \"Random Acts of Senseless Violence\" that is both heavier and more controlled than the still-adjusting 1993 performances."
         },
         {
           "type": "Hi-Hat Stand",
@@ -2651,7 +2651,7 @@ export const articles = {
           "Showcases Benante's ability to alternate thrash-speed sections with groove-metal restraint within a single song",
           "Fan-favorite live staple to this day"
         ],
-        "gearNotes": "The Tama HP35 Camco pedals deliver the sustained double bass runs with weight and consistency, while the lower-tuned bass drums give the verse groove a thicker, more physical thud."
+        "gearNotes": "His chain-drive pedal setup delivers the sustained double bass runs with weight and consistency, while the lower-tuned bass drums give the verse groove a thicker, more physical thud."
       },
       {
         "track": "King Size",
@@ -2708,8 +2708,8 @@ export const articles = {
         },
         {
           "category": "Pedals",
-          "then": "Tama HP35 Camco (two single pedals)",
-          "now": "Tama HP35 Camco (unchanged)"
+          "then": "Chain-drive pedal setup of the era (two single pedals)",
+          "now": "Chain-drive pedal setup of the era (unchanged)"
         },
         {
           "category": "Producer",
@@ -2894,14 +2894,14 @@ export const articles = {
       "estimatedValue": "$1,400-2,000 total (1998 era)"
     },
     "hardware": {
-      "title": "Tama HP35 Camco: The Final Album of This Tuning Era",
+      "title": "Chain-Drive Pedals: The Final Album of This Tuning Era",
       "items": [
         {
           "type": "Bass Drum Pedals",
           "brand": "Tama",
-          "model": "Tama HP35 Camco",
-          "notes": "Two single HP35 Camco pedals, carried over from Sound of White Noise and Stomp 442",
-          "description": "Charlie Benante's Tama HP35 Camco pedals completed their third album cycle in this configuration on Volume 8, having carried over unchanged from Sound of White Noise and Stomp 442. With two independent 22\" bass drums, Benante's setup again used two single Camco pedals rather than a double-pedal mechanism. By this point the pedals were fully broken in, delivering the consistent, weighted double bass feel that anchors Volume 8's heavier, more groove-centered material — even as the album calls for less constant double bass than the earlier thrash-pioneering records."
+          "model": "Chain-drive pedal (specific model unconfirmed)",
+          "notes": "Two single chain-drive pedals, carried over from Sound of White Noise and Stomp 442",
+          "description": "Charlie Benante's chain-drive pedal setup completed their third album cycle in this configuration on Volume 8, having carried over unchanged from Sound of White Noise and Stomp 442. With two independent 22\" bass drums, Benante's setup again used two single chain-drive pedals rather than a double-pedal mechanism. By this point the pedals were fully broken in, delivering the consistent, weighted double bass feel that anchors Volume 8's heavier, more groove-centered material — even as the album calls for less constant double bass than the earlier thrash-pioneering records."
         },
         {
           "type": "Hi-Hat Stand",
@@ -3190,14 +3190,14 @@ export const articles = {
       "estimatedValue": "$1,800-2,400 total (2003 Paiste 2002/RUDE setup)"
     },
     "hardware": {
-      "title": "Tama HP35 Camco: Unbroken Since 1984",
+      "title": "Chain-Drive Pedals: A Long-Running Setup",
       "items": [
         {
           "type": "Bass Drum Pedals",
           "brand": "Tama",
-          "model": "Tama HP35 Camco Chain-Drive Double Pedal Configuration",
-          "notes": "Two single HP35 Camco pedals, one per bass drum — unchanged since 1984",
-          "description": "Charlie Benante's bass drum pedals never changed through the groove-metal years — the HP35 Camco chain-drive pedals he had used since 1984 stayed in his rig throughout Sound of White Noise, Stomp 442, and Volume 8. We've Come for You All carries that same continuity forward: two single HP35 Camco pedals, one per independent 22\" bass drum, by this point nearly two decades into the longest hardware relationship of Benante's career. The Speed Cobra pedals that would eventually replace the HP35 Camco were still seven years away in 2003 — this album documents the Camco pedals in their mature, fully broken-in form, still delivering the sustained double bass attack that had defined Benante's playing since Among the Living."
+          "model": "Chain-drive double pedal configuration (specific model unconfirmed)",
+          "notes": "Two single chain-drive pedals, one per bass drum — long unchanged",
+          "description": "Charlie Benante's bass drum pedals never changed through the groove-metal years — the chain-drive pedal setup he had used for years stayed in his rig throughout Sound of White Noise, Stomp 442, and Volume 8. We've Come for You All carries that same continuity forward: two single chain-drive pedals, one per independent 22\" bass drum, by this point years into the longest hardware relationship of Benante's career. The Speed Cobra pedals that would eventually replace this setup were still years away in 2003 — this album documents the chain-drive pedals in their mature, fully broken-in form, still delivering the sustained double bass attack that had defined Benante's playing since Among the Living."
         },
         {
           "type": "Hi-Hat Stand",
@@ -3256,7 +3256,7 @@ export const articles = {
           "One of the album's fastest, most aggressive tracks",
           "Sustained double bass passages recall the Among the Living era"
         ],
-        "gearNotes": "The HP35 Camco pedals, by now nearly two decades into Benante's rig, deliver the relentless double bass runs that anchor the track's aggression."
+        "gearNotes": "His chain-drive pedal setup, by now years into Benante's rig, delivers the relentless double bass runs that anchor the track's aggression."
       },
       {
         "track": "Strap It On",
@@ -3283,7 +3283,7 @@ export const articles = {
     ],
     "evolution": {
       "title": "From Volume 8 to We've Come for You All: A Model Upgrade, Not a Brand Change",
-      "content": "We've Come for You All represents the most significant equipment upgrade of Charlie Benante's John Bush era — a move from the Tama Artstar Custom birch kit he'd played since Persistence of Time to the newer Tama Starclassic Maple line, paired with a brighter, thrash-leaning tuning approach on the same Paiste cymbals he'd always used. The dual 22\" bass drums and HP35 Camco pedals carried through in concept, while the shells and snare moved to the models that would carry his thrash-era voice forward — setting up the modern Starclassic Maple and Paiste 2002/Signature configuration that Benante would still be playing on Worship Music and For All Kings nearly two decades later.",
+      "content": "We've Come for You All represents the most significant equipment upgrade of Charlie Benante's John Bush era — a move from the Tama Artstar Custom birch kit he'd played since Persistence of Time to the newer Tama Starclassic Maple line, paired with a brighter, thrash-leaning tuning approach on the same Paiste cymbals he'd always used. The dual 22\" bass drums and chain-drive pedal setup carried through in concept, while the shells and snare moved to the models that would carry his thrash-era voice forward — setting up the modern Starclassic Maple and Paiste 2002/Signature configuration that Benante would still be playing on Worship Music and For All Kings nearly two decades later.",
       "thenVsNow": [
         {
           "category": "Kit",
@@ -3302,8 +3302,8 @@ export const articles = {
         },
         {
           "category": "Pedals",
-          "then": "Tama HP35 Camco (carried through the groove-metal era unchanged)",
-          "now": "Tama HP35 Camco (unchanged — still seven years from the Speed Cobra switch)"
+          "then": "Chain-drive pedal setup of the era (carried through the groove-metal era unchanged)",
+          "now": "Chain-drive pedal setup of the era (unchanged — still years from the Speed Cobra switch)"
         },
         {
           "category": "Producer",

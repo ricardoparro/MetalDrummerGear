@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-09-24 05:38 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-09-24 11:08 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,17 +8,17 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 306 |
-| Sessions | 350 |
-| Page views | 511 |
-| Engagement rate | 55.43% |
-| Avg session (s) | 91 |
+| Active users | 314 |
+| Sessions | 360 |
+| Page views | 531 |
+| Engagement rate | 63.61% |
+| Avg session (s) | 92 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
+| /drummers | 19 | 5 |
 | /drummer/joey-jordison | 18 | 11 |
-| /drummers | 18 | 5 |
 | /drummer/bill-ward | 15 | 9 |
 | /bpm | 13 | 2 |
 | / | 12 | 11 |
@@ -31,22 +31,22 @@
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 266 | 222 |
-| Unassigned | 50 | 45 |
-| Direct | 45 | 45 |
-| Cross-network | 29 | 29 |
+| Organic Search | 300 | 254 |
+| Direct | 46 | 46 |
+| Unassigned | 17 | 16 |
+| Cross-network | 10 | 10 |
 | AI Assistant | 2 | 2 |
 | Referral | 1 | 1 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 126 | 107 |
-| United Kingdom | 29 | 15 |
+| United States | 131 | 111 |
+| United Kingdom | 30 | 16 |
 | Singapore | 18 | 18 |
-| Germany | 16 | 11 |
-| Australia | 14 | 14 |
-| Canada | 13 | 13 |
+| Germany | 16 | 12 |
+| Australia | 15 | 14 |
+| Canada | 14 | 14 |
 | China | 11 | 11 |
 | Finland | 9 | 9 |
 | France | 9 | 9 |

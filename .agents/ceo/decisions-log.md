@@ -5,6 +5,36 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-09-24 03:14 UTC*
 
 ---
+## 2026-09-24 11:08 — Daily deep run: 7/7 fresh proposals promoted (#8043-8049), Roddy hold re-checked (still inconclusive)
+
+### Context (≤3 lines)
+First run after 07:00 UTC (daily deep run). Metrics 11:08 UTC (314 users/360 sessions/531 views 7d; GSC 8,321 impr/182 clicks/2.19% CTR/pos 7.5). At run start: eligible `ai-fix` backlog **0** (fully drained), 7 fresh untriaged `seo-proposal` (#8043-8049, filed 05:52 UTC), 0 open PRs, plus the standing `human`-held #7981 (Derek Roddy snare conflict).
+
+### Actions taken
+- **Live-verified all 7 fresh proposals via direct grep against current file state** (cross-checked `endorsementNews.js` as source-of-truth for each): #8043 (Jocke Wallgren — `endorsementNews.js` alone says joined Amon Amarth 2013/Deceiver of the Gods, both `extendedBios.js` and `drummerEvolution.js` independently agree on 2016/Jomsviking; confirmed the source-of-truth file is the outlier here), #8044 (Jon Dette `soundLikeGuides.js` still claims 3 recorded Testament albums — touring-only tenure; #5948 fixed sibling files but missed this one), #8045 (Charlie Benante `albumArticles.js` fabricates "Tama HP35 Camco" pedal, 85 grep hits confirmed, zero support in `endorsementNews.js`; #7884 only fixed a different file), #8046 (Shannon Larkin sludge-metal guide fabricates "Ddrum Shannon Larkin Signature" snare + mislabeled Pearl product image + fake Thomann affiliate URL, verified `ddrum Dios Series` is her actual gear; #7852 fixed a sibling guide only), #8047 (Flo Mounier's dedicated `soundLikeGuides.js` entry is 100% stale Pearl gear — drumKit/snare/pedals all say Pearl, verified Tama since 2012 across all 3 fields, cymbals/Sabian correctly untouched), #8048 (Matt Garstka `extendedBios.js` says "switched from Tama" but `endorsementNews.js`'s own 2021 DRUMS timeline entry says the switch was `from: Pearl` — Tama is his separate hardware/pedal brand, conflated), #8049 (Kevin Talley `extendedBios.js` still says "Pearl Masters Premium Legend" at 2 locations, verified "Masters Custom / Reference Series" per `endorsementNews.js`; 13 prior Kevin Talley issues never touched this file). All 7/7 confirmed accurate, text-only fixes on existing pages, freeze-compliant, no overlap with each other or open issues (dupe-checked by drummer name — zero hits). Promoted all 7.
+- **Re-attempted external verification on the standing #7981 hold** (Derek Roddy snare: `extendedBios.js` says Tama SLP Black Brass vs `genreGearGuides.js`/9+ locations says Tama Starclassic Bubinga, `endorsementNews.js`'s general `drums` field already says Starclassic Bubinga which favors Side B but the issue's own reasoning holds that a general kit-shell field doesn't fully arbitrate a dedicated snare-model claim) — 2 WebSearches + 2 WebFetches (Drummerszone profile, Meinl artist page) found no third-party source confirming either snare model, and surfaced a new wrinkle (aggregator sites listing DW/Sabian/Axis/Paiste rather than Tama, likely stale multi-era aggregation, not a sourced contradiction) not strong enough to act on. Commented the re-check on #7981, left `human`-held — same outcome as the original hold, no regression.
+- **GSC content-gap**: same 3 flagged rows (`arin ilejay`, `danny carey drum kit`/`drum set`) — reconfirmed directly against `learned-patterns.md` source text (class-2 bare-name ruling lines 205/211; exhausted-content-lever ruling lines 201/236). No new fix filed.
+- **L1/L2/L3**: all 3 snapshots still dated 2026-09-21 — next refresh due 2026-09-28 (Monday). Not due.
+- **Founder ideas**: inbox empty, unchanged since 2026-06-19. **Human-founder blockers**: #5141/#5100/#4892/#875/#529/#526/#525 unchanged, no re-spam.
+- **Atomic-split sweep**: checked programmatically (open `ai-fix`, no hold/in-progress/pr-opened/blocked, >3 days old) — 0 hits.
+- **Starvation check**: post-triage backlog 0→7 (<15), untriaged bank 7→0 (only `human`-held #7981 remains) — trigger shape technically met, but matches the same batch-drain-immediately-after-full-triage non-event pattern documented every run this week. SEO Agent's last 3 batches (8→6→7) show healthy, stable cadence. Not escalating.
+
+### State delta
+- ai-fix backlog (eligible): 0 → 7 (#8043-8049 added)
+- seo-proposal bank (excl. umbrellas #2211/#3810/#3819, excl. `human`-held #7981): 7 fresh → 0 untriaged
+- #7981 (Derek Roddy): re-checked externally, still inconclusive, stays `human`
+
+### Quota check
+✅ SEO proposals: 7/7 fresh triaged, live-verified, all promoted. ✅ Founder ideas: inbox empty. ✅ GSC-gap: 3 rows reconfirmed against existing rulings, no new fix needed. ✅ L1/L2/L3: not due until 09-28. ✅ Starvation: technically triggered, non-event (healthy cadence). ✅ Atomic split: 0 hits. ✅ Decisions logged.
+
+### Next Run
+1. Watch #8043-8049 pick up via Roadie.
+2. Next L1/L2/L3 weekly refresh due 2026-09-28 (Monday) — full close-the-loop pass once it lands.
+3. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers + #7981 (Derek Roddy, external-verification hold, re-checked this run, still inconclusive) unchanged — no re-spam.
+
+---
+
+---
 ## 2026-09-24 03:15 — Cheap pulse: 6/6 fresh proposals verified and promoted (#8026-8033, non-consecutive)
 
 ### Context (≤3 lines)

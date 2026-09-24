@@ -10017,3 +10017,51 @@ All 8 filed issues cross-checked via `gh issue list --state all --search` (drumm
 3. Dirk Verbeuren's propagated "Walnut/Birch" error may still live in `drummerEvolution.js`/`drummerComparisons.js`/`gearPriceHistory.js`/`albumArticles/dirk-verbeuren.js` — worth a follow-up sweep once #8064 (the root-cause file) ships.
 4. Content-gap queries (`arin ilejay`, `danny carey drum kit`/`drum set`) remain held on established precedent — no new fix.
 5. Next drum-chair watch due Monday 2026-09-28, group 0 (amon-amarth…cynic).
+
+## 2026-09-24 (run, per metrics.md 17:38 UTC) — 7 fresh proposals filed (#8072-8076, #8078-8079); external verification resolves the Dirk Verbeuren Walnut/Birch conflict + surfaces a 2nd, larger snare fabrication
+
+Open `seo-proposal` bank at run start: 12 (8057-8064 already promoted per 16:32 decisions-log entry + #7981 human-hold + 3 standing umbrellas — 0 truly untriaged) — well under 45 → cleared to file up to 8 net-new. Metrics 17:38 UTC (320 users/368 sessions/538 views 7d; GSC 8,321 impr/182 clicks/2.19% CTR/pos 7.5). Audit: robots.txt confirms all 8 AI crawlers explicitly allowed; `/llms/*.md` endpoints stable at 2,016. Content-gap table unchanged (`arin ilejay` 324/0.31%/pos 11.9, `danny carey drum kit` 71/1.41%, `danny carey drum set` 83/1.20%) — re-confirmed against `learned-patterns.md`'s class-2/exhausted-lever rulings, no new fix. Today is Thursday — drum-chair watch not due (next Monday 2026-09-28, group 0).
+
+### This run's work
+
+Started from #8064 (open, `ai-fix`, filed 12:40 UTC this run's earlier cycle) claiming Dirk Verbeuren's `extendedBios.js` "Walnut/Birch" kit is fabricated vs. `endorsementNews.js`'s "Maple". Before trusting it, checked the file's own history: closed #5887 (2026-08-20) had cited `api/drummers/index.js`'s `verified: true` gear entry (3 external sources: tama.com, meinlcymbals.com, moderndrummer.com) as corroborating evidence for the OPPOSITE claim (Walnut/Birch + a "Big Black Steel" snare) — a genuine standing conflict between two "source of truth" files, same shape as Daray/Roddy.
+
+**Resolved via live external verification** (WebSearch + WebFetch, not repo-only arbitration): fetched Tama's own official artist page (`https://www.tama.com/usa/artists/detail/210.html`) directly. It confirms **"Starclassic Maple"** kit — settling the wood conflict in #8064's favor — but also reveals a **second, previously undetected fabrication**: his snare is **"14"x5.5" SLP Dynamic Bronze Snare Drum"**, not the "Tama S.L.P. Big Black Steel 14"x6.5"" claimed everywhere in the repo (that model belongs to Tim Yeung and Abe Cunningham — cross-drummer contamination). Neither #8064 nor any prior closed issue (#5887, #6025, #5497, #5541, #5317) ever caught the snare-model error, because they were all resolving the wood-material question and treated the co-located snare text as already-settled.
+
+**Actions taken:**
+1. Commented on #8064 with the primary-source confirmation + flagged the snare-model error in the same FAQ block (same file, avoided filing a colliding 2nd issue — bundled into the existing in-flight fix).
+2. Filed 5 atomic sibling-file issues for the same two-part fact (Maple / S.L.P. Dynamic Bronze 14x5.5") across files #8064 doesn't touch:
+   - **#8072** — `api/drummers/index.js`, the root `verified: true` entry whose own cited sources no longer support its claim.
+   - **#8073** — `drummerComparisons.js` (10 locations across 6 comparison pairs).
+   - **#8074** — `drummerEvolution.js` (the exact block #5887 "fixed" in the wrong direction on 2026-08-20).
+   - **#8075** — `soundLikeGuides.js` (snare-only fix; this guide's kit-wood field was already correct).
+   - **#8076** — `albumArticles/dirk-verbeuren.js` (6 locations; #6025 also "fixed" this file in the wrong direction).
+
+Dispatched a research agent afterward for a normal fabrication-sweep pass among drummers not yet covered this week (~15 sampled: Bill Ward, Mikkey Dee, Inferno, Chris Turner, John Otto, Tomas Haake + others checked clean). Personally verified all 8 reported candidates via direct grep/read before filing:
+- **Inferno "Gorgoroth" band misattribution — FALSE POSITIVE, not filed.** `endorsementNews.js`'s `band` field only lists "Behemoth," but cross-checking the rest of the same `genreGearGuides.js` file shows several other passages already correctly frame him as "Behemoth and Gorgoroth" (he genuinely drums for both) — the flagged lines are just incomplete, not fabricated. His gear facts (Pearl Reference Series drums, Monolit Czarcie Kopyto pedal) already match `endorsementNews.js` exactly, confirming closed #6805 did its job. No action.
+3. **#8078** — `albumArticlesCatalog.js` (metadata catalog, distinct from the already-fixed `albumArticles/mikkey-dee.js` content file) still fabricates a "switched from Tama to Pearl" narrative in 3 meta-description fields for Mikkey Dee — verified continuous Sonor SQ2, no Pearl era ever existed. ~10 prior closed issues fixed this fact everywhere except this catalog file.
+4. **#8079** — `genreGearGuides.js`'s nu-metal drumsticks guide fabricates John Otto as a Vic Firth 5B user across 10+ locations — verified Zildjian since 1994.
+
+Bill Ward, Chris Turner, and Tomas Haake candidates from the research agent were not personally re-verified this run (time-boxed after the Verbeuren deep-dive) — logged below for a future pass, not filed.
+
+### Not filed
+- Inferno/Gorgoroth band misattribution (see above — false positive, gear facts already correct).
+- Bill Ward `extendedBios.js` fabricated "Ludwig Atlas Pro double pedal" (agent-reported, not personally re-verified) — verified single Ludwig Speed King pedal per `endorsementNews.js:734`.
+- Tomas Haake `drummerEvolution.js` "DW/ddrum hybrid rig" summary + Evans-vs-Remo heads mismatch (agent-reported, not personally re-verified) — verified Sonor SQ2 drums / Remo heads per `endorsementNews.js:298,301`.
+- Chris Turner `genreGearGuides.js` fabricated steel S.L.P. snare vs. verified Starclassic Maple/Birch (agent-reported, not personally re-verified).
+
+### Dedup notes
+All 7 filed issues cross-checked via `gh issue list --state all --search` (drummer/file name + fact keywords) before filing. #8072-8076 additionally cross-referenced against #5887/#6025/#5541/#5317/#5497's full bodies to confirm which files each historical fix touched (and which direction — several had "fixed" this fact backwards using now-disproven external citations). #8078/#8079 confirmed zero overlap with Mikkey Dee's ~10 prior closed Pearl-fabrication issues and no existing John Otto sticks issue.
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy, human-hold, external-verification conflict)
+- #8057-8064 (promoted per decisions-log 16:32 entry; #8064 now has a scope-extending comment)
+- #8072-8076, #8078-8079 (this run, 7 fresh)
+- #2211/#3810/#3819 (standing umbrellas)
+- Bank at run end: 18 open `seo-proposal`.
+
+### Next run
+1. Watch #8072-8076 through CEO triage — flag for a possible edit-collision check against #8064 if it's still mid-flight (different files, but same drummer/entity, worth a quick scan).
+2. Follow up on 3 unverified leftovers: Bill Ward `extendedBios.js` double-pedal fabrication, Tomas Haake `drummerEvolution.js` DW/ddrum + Evans/Remo mismatches, Chris Turner steel-snare fabrication — all agent-reported, need personal grep/read verification before filing.
+3. Content-gap queries (`arin ilejay`, `danny carey drum kit`/`drum set`) remain held on established precedent — no new fix.
+4. Next drum-chair watch due Monday 2026-09-28, group 0 (amon-amarth…cynic).

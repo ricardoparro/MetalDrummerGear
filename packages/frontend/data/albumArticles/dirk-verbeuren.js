@@ -32,7 +32,7 @@ export const articles = {
       "title": "From Swedish Death Metal to Thrash Royalty",
       "content": "Dirk Verbeuren represents something rare in metal drumming: a musician who seamlessly transitioned between two completely different subgenres at the highest level. After 18 years anchoring Soilwork's melodic death metal assault, he stepped into one of the most demanding seats in metal — drummer for Megadeth, one of thrash metal's Big Four.\n\nBorn January 8, 1975, in Belgium, Verbeuren developed his craft through years of European metal scenes before joining Soilwork in 1998. Chris Adler (Lamb of God) recorded the drum parts for Megadeth's 2016 album \"Dystopia,\" but scheduling conflicts kept him from touring it. Dave Mustaine turned to Verbeuren instead, who took over touring duties in 2016 and was subsequently confirmed as the band's permanent drummer, proving himself night after night on the world's biggest metal stages.\n\nWhat makes Dirk remarkable isn't just his technical ability — it's his versatility. He had to master decades of Megadeth classics, from the thrash fury of \"Peace Sells\" to the progressive complexity of \"Rust in Peace,\" while bringing his own precision and power. His first full studio album with the band, \"The Sick, the Dying... and the Dead!\" (2022), showcased his complete integration into Megadeth's sound.\n\nThis article breaks down every piece of gear that powers Dirk's crushing performances — from his Tama Starclassic drums to his dark Meinl cymbals. Whether you're a thrash devotee or a melodic death metal fan, understanding Dirk's setup reveals how a world-class drummer adapts his sound for metal's biggest stage.",
       "keyPoints": [
-        "Tama Drums endorsee with Starclassic Walnut/Birch kit",
+        "Tama Drums endorsee with Starclassic Maple kit",
         "Meinl Cymbals — Byzance series for dark, complex tones",
         "Speed Cobra 910 pedals for precise double bass",
         "First full Megadeth album: \"The Sick, the Dying... and the Dead!\" (2022)",
@@ -43,7 +43,7 @@ export const articles = {
     "drumKit": {
       "title": "Dirk's Tama Starclassic Arsenal",
       "brand": "Tama",
-      "model": "Tama Starclassic Walnut/Birch",
+      "model": "Tama Starclassic Maple",
       "finish": "Custom finishes (varies by tour)",
       "config": {
         "bassdrums": [
@@ -57,25 +57,25 @@ export const articles = {
           "14\" x 14\" Floor Tom",
           "16\" x 16\" Floor Tom"
         ],
-        "shells": "Walnut/Birch hybrid shells with Star-Cast mounting system"
+        "shells": "All-maple shells with Star-Cast mounting system"
       },
-      "description": "Dirk Verbeuren's choice of Tama Starclassic Walnut/Birch reflects his need for a kit that can handle both the precision of melodic death metal and the raw power of classic thrash. The Starclassic series has long been a favorite of metal drummers for its balanced tone and incredible projection.\n\nThe 22\" x 18\" bass drum provides the deep, punchy foundation essential for Megadeth's driving rhythms. The deeper shell (18\" vs standard 16\") gives Dirk more low-end power while maintaining the attack needed for thrash's rapid kick patterns. Unlike some metal drummers who use double bass drums, Dirk achieves his thunderous footwork with a single bass drum and Speed Cobra double pedal.\n\nThe rack tom configuration — 10\" and 12\" — gives Dirk quick, articulate toms for his fills without the excessive setup some drummers prefer. This relatively compact tom setup allows faster transitions and keeps his kit streamlined for Megadeth's complex arrangements.\n\nThe floor tom pairing (14\" and 16\") provides the deep, resonant tones needed for Megadeth's heavy accents. Tama's Star-Cast mounting system ensures the toms resonate freely without choking, essential for the big, open drum sound that characterizes modern thrash production.\n\nThe walnut/birch hybrid shells deliver a punchier low-mid attack with tighter sustain than an all-maple shell — perfect for cutting through Megadeth's wall of guitar while maintaining musicality during dynamic passages.",
+      "description": "Dirk Verbeuren's choice of Tama Starclassic Maple reflects his need for a kit that can handle both the precision of melodic death metal and the raw power of classic thrash. The Starclassic series has long been a favorite of metal drummers for its balanced tone and incredible projection.\n\nThe 22\" x 18\" bass drum provides the deep, punchy foundation essential for Megadeth's driving rhythms. The deeper shell (18\" vs standard 16\") gives Dirk more low-end power while maintaining the attack needed for thrash's rapid kick patterns. Unlike some metal drummers who use double bass drums, Dirk achieves his thunderous footwork with a single bass drum and Speed Cobra double pedal.\n\nThe rack tom configuration — 10\" and 12\" — gives Dirk quick, articulate toms for his fills without the excessive setup some drummers prefer. This relatively compact tom setup allows faster transitions and keeps his kit streamlined for Megadeth's complex arrangements.\n\nThe floor tom pairing (14\" and 16\") provides the deep, resonant tones needed for Megadeth's heavy accents. Tama's Star-Cast mounting system ensures the toms resonate freely without choking, essential for the big, open drum sound that characterizes modern thrash production.\n\nThe all-maple shells deliver a warm, full-bodied tone with balanced sustain across the frequency spectrum — perfect for cutting through Megadeth's wall of guitar while maintaining musicality during dynamic passages.",
       "notes": [
         "Single bass drum setup with double pedal for mobility",
-        "Starclassic Walnut/Birch for balanced attack and projection",
+        "Starclassic Maple for balanced attack and projection",
         "Star-Cast mounting preserves tom resonance",
         "Compact tom setup for quick transitions",
         "Deep floor toms for heavy accents"
       ],
-      "estimatedValue": "$4,500-6,500 (Starclassic Walnut/Birch configuration)"
+      "estimatedValue": "$4,500-6,500 (Starclassic Maple configuration)"
     },
     "snare": {
       "title": "The S.L.P. Crack",
       "brand": "Tama",
-      "model": "Tama S.L.P. Big Black Steel",
-      "size": "14\" x 6.5\"",
-      "shell": "Steel",
-      "description": "Dirk's snare choice — the Tama S.L.P. Big Black Steel — delivers the cutting crack essential for thrash metal while maintaining the sensitivity needed for dynamic playing. The S.L.P. (Sound Lab Project) series represents Tama's boutique line, offering unique shell constructions at professional-grade quality.\n\nThe Big Black Steel features a steel shell finished in a black nickel-plated coating, giving it a bright, cutting overtone profile with a sharp, focused crack that projects even in a dense mix. This provides the aggressive tonal character metal drummers look for when they need a snare to sit clearly on top of down-tuned guitars.\n\nAt 14\" x 6.5\", the snare offers the depth needed for body and power while maintaining the standard 14\" diameter for versatility. Dirk typically tunes medium-high for maximum cut through Megadeth's guitar wall, with snare wires tight enough for crisp response at all dynamics.\n\nThe steel shell delivers the bright, metallic attack that keeps the snare present and aggressive even when played hard, without the added warmth a wood shell would bring. This is crucial for Megadeth's varied material, which ranges from aggressive thrash to more melodic passages where subtlety matters.",
+      "model": "Tama S.L.P. Dynamic Bronze",
+      "size": "14\" x 5.5\"",
+      "shell": "Bronze",
+      "description": "Dirk's snare choice — the Tama S.L.P. Dynamic Bronze — delivers the cutting crack essential for thrash metal while maintaining the sensitivity needed for dynamic playing. The S.L.P. (Sound Lab Project) series represents Tama's boutique line, offering unique shell constructions at professional-grade quality.\n\nThe Dynamic Bronze features a bronze shell that gives it a warm, complex overtone profile with a full, articulate crack that still projects in a dense mix. This provides the rich tonal character metal drummers look for when they need a snare to sit clearly on top of down-tuned guitars without sounding one-dimensional.\n\nAt 14\" x 5.5\", the snare offers a versatile depth that balances body and sensitivity while maintaining the standard 14\" diameter for compatibility with a wide range of heads and snare wires. Dirk typically tunes medium-high for maximum cut through Megadeth's guitar wall, with snare wires tight enough for crisp response at all dynamics.\n\nThe bronze shell delivers a warmer, more complex attack than a steel shell would, keeping the snare present and musical even when played hard, while still adding the extra brightness and sustain a wood shell wouldn't provide. This is crucial for Megadeth's varied material, which ranges from aggressive thrash to more melodic passages where subtlety matters.",
       "tuningSetting": "Medium-high tension for maximum cut and articulation",
       "heads": "Evans G2 Coated (batter), Evans Hazy 300 (resonant)",
       "estimatedValue": "$350-450"
@@ -210,8 +210,8 @@ export const articles = {
         ],
         "description": "First studio album with Megadeth, complete integration.",
         "gear": {
-          "drums": "Tama Starclassic Walnut/Birch",
-          "snare": "Tama S.L.P. Big Black Steel",
+          "drums": "Tama Starclassic Maple",
+          "snare": "Tama S.L.P. Dynamic Bronze",
           "cymbals": "Meinl Byzance Brilliant & Classics Custom Dark",
           "hardware": "Tama Speed Cobra 910"
         },
@@ -220,7 +220,7 @@ export const articles = {
     ],
     "getThisSound": {
       "title": "Get This Sound",
-      "content": "Want to capture Dirk Verbeuren's precision thrash tone? Here's how to approach his sound at different budgets:\n\n**The Key Elements:**\n- **Tight, Controlled Bass Drum:** Dirk's kick is punchy and defined, not boomy. He uses a ported front head with internal dampening for focused attack.\n- **Cutting Snare:** Medium-high tuning with tight snare wires. The steel shell adds brightness, and the tuning ensures cut.\n- **Dark Cymbals:** Unlike some thrash drummers who use bright cymbals, Dirk's Byzance setup adds complexity and depth.\n- **Precision Double Bass:** The Speed Cobra's consistent response enables his clean footwork. Practice at slower tempos first.\n\n**Budget Build (~$2,000):**\n- Tama Superstar Classic kit\n- Tama S.L.P. or Metalworks snare\n- Meinl HCS or Classic Custom cymbals\n- Tama Speed Cobra 310 pedals\n\n**Mid-Range Build (~$4,000):**\n- Tama Starclassic Performer\n- Tama S.L.P. G-Maple snare\n- Meinl Byzance Traditional cymbals\n- Tama Speed Cobra 910 pedals\n\n**Pro Build (~$7,000+):**\n- Tama Starclassic Walnut/Birch (exact spec)\n- Tama S.L.P. Big Black Steel 14x6.5\"\n- Full Meinl Byzance Brilliant/Classics Custom Dark setup\n- Complete Tama Iron Cobra hardware package",
+      "content": "Want to capture Dirk Verbeuren's precision thrash tone? Here's how to approach his sound at different budgets:\n\n**The Key Elements:**\n- **Tight, Controlled Bass Drum:** Dirk's kick is punchy and defined, not boomy. He uses a ported front head with internal dampening for focused attack.\n- **Cutting Snare:** Medium-high tuning with tight snare wires. The bronze shell adds warmth and complexity, and the tuning ensures cut.\n- **Dark Cymbals:** Unlike some thrash drummers who use bright cymbals, Dirk's Byzance setup adds complexity and depth.\n- **Precision Double Bass:** The Speed Cobra's consistent response enables his clean footwork. Practice at slower tempos first.\n\n**Budget Build (~$2,000):**\n- Tama Superstar Classic kit\n- Tama S.L.P. or Metalworks snare\n- Meinl HCS or Classic Custom cymbals\n- Tama Speed Cobra 310 pedals\n\n**Mid-Range Build (~$4,000):**\n- Tama Starclassic Performer\n- Tama S.L.P. G-Maple snare\n- Meinl Byzance Traditional cymbals\n- Tama Speed Cobra 910 pedals\n\n**Pro Build (~$7,000+):**\n- Tama Starclassic Maple (exact spec)\n- Tama S.L.P. Dynamic Bronze 14x5.5\"\n- Full Meinl Byzance Brilliant/Classics Custom Dark setup\n- Complete Tama Iron Cobra hardware package",
       "keyPoints": [
         "Focus on tuning and technique before expensive gear",
         "Speed Cobra pedals are worth the investment for thrash",
@@ -278,13 +278,13 @@ export const articles = {
       "title": "Gear Availability",
       "items": [
         {
-          "item": "Tama Starclassic Walnut/Birch Kit",
+          "item": "Tama Starclassic Maple Kit",
           "available": true,
           "priceRange": "$3,500-5,500 (configuration dependent)",
           "notes": "Available through authorized Tama dealers worldwide"
         },
         {
-          "item": "Tama S.L.P. Big Black Steel Snare",
+          "item": "Tama S.L.P. Dynamic Bronze Snare",
           "available": true,
           "priceRange": "$350-450",
           "notes": "Part of Tama's Sound Lab Project line"
@@ -356,7 +356,7 @@ export const articles = {
     "faq": [
       {
         "question": "What drum kit does Dirk Verbeuren use with Megadeth?",
-        "answer": "Dirk Verbeuren plays a Tama Starclassic Walnut/Birch kit with hybrid shells and Tama's Star-Cast mounting system. His configuration includes a 22x18 inch bass drum, 10 and 12 inch rack toms, and 14 and 16 inch floor toms. The Star-Cast suspension system allows shells to resonate freely without contact dampening, contributing to the punchy, articulate tone Verbeuren brings to Megadeth's thrash sound. This is the setup Verbeuren settled into after his years playing an all-maple Starclassic during his time with Soilwork and his early Megadeth touring."
+        "answer": "Dirk Verbeuren plays a Tama Starclassic Maple kit with Tama's Star-Cast mounting system. His configuration includes a 22x18 inch bass drum, 10 and 12 inch rack toms, and 14 and 16 inch floor toms. The Star-Cast suspension system allows shells to resonate freely without contact dampening, contributing to the punchy, articulate tone Verbeuren brings to Megadeth's thrash sound. Verbeuren has stayed on an all-maple Starclassic across his Soilwork years and into his Megadeth tenure."
       },
       {
         "question": "What cymbals does Dirk Verbeuren use with Megadeth?",
@@ -364,7 +364,7 @@ export const articles = {
       },
       {
         "question": "How much does Dirk Verbeuren's Megadeth drum kit cost?",
-        "answer": "Dirk Verbeuren's Tama Starclassic Walnut/Birch shell pack is estimated at $4,500 to $6,500 new. His Tama S.L.P. Big Black Steel snare adds approximately $350 to $450. The Meinl Byzance cymbal setup runs roughly $1,500 to $2,500. With Tama hardware, Iron Cobra pedals, and accessories, a fully comparable Verbeuren setup can total between $9,000 and $13,000."
+        "answer": "Dirk Verbeuren's Tama Starclassic Maple shell pack is estimated at $4,500 to $6,500 new. His Tama S.L.P. Dynamic Bronze snare adds approximately $350 to $450. The Meinl Byzance cymbal setup runs roughly $1,500 to $2,500. With Tama hardware, Iron Cobra pedals, and accessories, a fully comparable Verbeuren setup can total between $9,000 and $13,000."
       }
     ],
     "conclusion": {

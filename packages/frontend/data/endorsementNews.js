@@ -1460,8 +1460,8 @@ export const ENDORSEMENT_TIMELINE = {
         changeType: ENDORSEMENT_CHANGE_TYPES.SIGNATURE,
         category: ENDORSEMENT_CATEGORIES.DRUMS,
         brand: 'Tama',
-        product: 'Signature Series Dirk Verbeuren Snare 14x5.5"',
-        notes: 'Debuted his first signature snare on "The Sick, the Dying... and the Dead!" — a shallower steel model built to his specs after six years with the band',
+        product: 'Tama S.L.P. Dynamic Bronze Snare 14x5.5" (LBZ1455DV)',
+        notes: 'Debuted his first signature snare on "The Sick, the Dying... and the Dead!" — a paper-thin 1.5mm bronze shell built to his specs after six years with the band',
       },
       {
         year: 2022,

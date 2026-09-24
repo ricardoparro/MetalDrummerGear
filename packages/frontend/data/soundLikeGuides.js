@@ -1663,10 +1663,10 @@ At 6'3" and over 250 pounds, Gene's physical presence translates to a massive dr
         alternative: "ProMark Classic Forward 5B or equivalent"
       },
       heads: {
-        kick: 'Remo Powerstroke P3 Clear',
-        snare: 'Remo Emperor X Coated',
-        toms: 'Remo Emperor Clear',
-        resonant: 'Remo Ambassador Clear'
+        kick: 'Evans EMAD2 Clear',
+        snare: 'Evans Genera HD Dry',
+        toms: 'Evans G2 Clear',
+        resonant: 'Evans G1 Clear'
       }
     },
     tuning: {

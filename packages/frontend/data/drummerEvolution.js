@@ -11883,20 +11883,20 @@ export const DRUMMER_EVOLUTION = {
         years: '2020–Present',
         startYear: 2020,
         endYear: 2026,
-        description: 'Verbeuren\'s first studio album as a full member, "The Sick, the Dying... and the Dead!" (2022), showcased his complete integration into Megadeth\'s sound — technical, powerful, and unmistakably thrash. His Tama Starclassic Walnut/Birch kit, Tama S.L.P. Big Black Steel snare, and Meinl Byzance Brilliant/Classics Custom Dark cymbals remained the settled platform, joined by a refined Speed Cobra 910 setup that anchors both the album\'s precision double-bass work and the band\'s ongoing touring schedule.',
+        description: 'Verbeuren\'s first studio album as a full member, "The Sick, the Dying... and the Dead!" (2022), showcased his complete integration into Megadeth\'s sound — technical, powerful, and unmistakably thrash. His Tama Starclassic Maple kit, Tama S.L.P. Dynamic Bronze snare, and Meinl Byzance Brilliant/Classics Custom Dark cymbals remained the settled platform, joined by a refined Speed Cobra 910 setup that anchors both the album\'s precision double-bass work and the band\'s ongoing touring schedule.',
         albums: ['The Sick, the Dying... and the Dead! (2022)'],
         tours: ['The Sick, the Dying... and the Dead! World Tour 2022–2024'],
         image: null,
 
         gear: {
           drums: {
-            item: 'Tama Starclassic Walnut/Birch',
+            item: 'Tama Starclassic Maple',
             details: 'Hybrid shell configuration, settled configuration',
             notes: 'Same platform from the transition era, now fully dialed in for studio and stage.',
             change: null,
           },
           snare: {
-            item: 'Tama S.L.P. Big Black Steel 14"×6.5"',
+            item: 'Tama S.L.P. Dynamic Bronze 14"×5.5"',
             details: 'Confirmed current snare',
             notes: 'Steel shell delivers the dark, aggressive cut needed for classic thrash material.',
             change: null,
@@ -11936,7 +11936,7 @@ export const DRUMMER_EVOLUTION = {
         keyChanges: [
           '"The Sick, the Dying... and the Dead!" (2022) — first full studio album as a Megadeth member',
           'Complete integration into Megadeth\'s sound — technical precision plus classic thrash power',
-          'Settled Tama Starclassic Walnut/Birch / S.L.P. Big Black Steel / Speed Cobra 910 platform',
+          'Settled Tama Starclassic Maple / S.L.P. Dynamic Bronze / Speed Cobra 910 platform',
           '18 years with Soilwork plus the Megadeth chapter — a journeyman\'s rise to thrash metal\'s top tier',
         ],
 

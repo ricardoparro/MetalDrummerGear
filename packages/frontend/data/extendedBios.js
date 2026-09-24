@@ -4396,7 +4396,7 @@ Frost is renowned for his blistering speed, metronomic precision, and seemingly 
 **Current Setup:**
 - **Drums**: Tama Starclassic Bubinga Series (Piano Black finish)
 - **Snare**: Tama Starclassic Bubinga 14"x5.5"
-- **Cymbals**: Zildjian A Custom & K Series (14" A Custom Hi-Hats, 16", 17", 18" A Custom Crashes, 22" K Custom Dark Ride, 18" K China)
+- **Cymbals**: Zildjian A Series
 - **Hardware**: Tama Iron Cobra Power Glide Pedal, Tama Iron Cobra Lever Glide Hi-Hat Stand
 - **Sticks**: Vic Firth American Classic Extreme 5B
 - **Heads**: Remo
@@ -4404,7 +4404,7 @@ Frost is renowned for his blistering speed, metronomic precision, and seemingly 
 **Setup Philosophy:**
 - Compact kit for quick access during extreme passages
 - Tama Iron Cobra pedal for speed and control
-- Zildjian K series for dark, washy tones suited to black metal
+- Zildjian A Series for bright, cutting articulation suited to hyperspeed blast beats
 - Emphasizes durability for punishing live performances`
       },
       trivia: {
@@ -4427,8 +4427,8 @@ Frost is renowned for his blistering speed, metronomic precision, and seemingly 
           { q: 'What bands does Frost play drums for?', a: 'Frost (Kjetil-Vidar Haraldstad) has been the drummer for Satyricon since 1993, and also drums for 1349 since 2001.' },
           { q: 'What drums does Frost play?', a: 'Frost plays a Tama Starclassic Bubinga drum kit.' },
           { q: 'What drum kit does Frost play?', a: 'Frost\'s drum kit is a Tama Starclassic Bubinga shell pack, built around a Tama Starclassic Bubinga 14"x5.5" snare drum, with Remo drumheads.' },
-          { q: 'What drum set does Frost play?', a: 'Frost\'s drum set pairs Tama Starclassic Bubinga shells and his 14"x5.5" snare with Zildjian A Custom and K Series cymbals and a Tama Iron Cobra Power Glide pedal built for his hyperspeed blast beats.' },
-          { q: 'What cymbals does Frost use?', a: 'Frost uses Zildjian A Custom and K Series cymbals, including 14" A Custom Hi-Hats, 16", 17", and 18" A Custom Crashes, a 22" K Custom Dark Ride, and an 18" K China.' },
+          { q: 'What drum set does Frost play?', a: 'Frost\'s drum set pairs Tama Starclassic Bubinga shells and his 14"x5.5" snare with Zildjian A Series cymbals and a Tama Iron Cobra Power Glide pedal built for his hyperspeed blast beats.' },
+          { q: 'What cymbals does Frost use?', a: 'Frost uses Zildjian A Series cymbals, chosen for their bright, cutting articulation at his hyperspeed, technically precise blast beat tempos.' },
           { q: 'What snare drum does Frost use?', a: 'Frost\'s primary snare is the Tama Starclassic Bubinga, a 14"x5.5" shell.' },
           { q: 'What pedals does Frost use?', a: 'Frost drives his hyperspeed double bass patterns with a Tama Iron Cobra Power Glide pedal on Tama hardware.' },
           { q: 'What drumsticks does Frost use?', a: 'Frost plays Vic Firth American Classic Extreme 5B drumsticks.' },

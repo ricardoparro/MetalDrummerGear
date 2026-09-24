@@ -2108,10 +2108,10 @@ export const ENDORSEMENT_TIMELINE = {
     name: 'Jocke Wallgren',
     band: 'Amon Amarth',
     currentEndorsements: {
-      drums: { brand: 'Pearl', model: 'Reference Pure', since: '2013' },
+      drums: { brand: 'Pearl', model: 'Reference Pure', since: '2016' },
       cymbals: { brand: 'Zildjian', model: 'A Custom & K Custom Series', since: '2005' },
-      sticks: { brand: 'Vic Firth', model: 'American Classic 5B', since: '2013', signature: false },
-      heads: { brand: 'Evans', since: '2013' },
+      sticks: { brand: 'Vic Firth', model: 'American Classic 5B', since: '2016', signature: false },
+      heads: { brand: 'Evans', since: '2016' },
       hardware: { brand: 'Pearl', model: 'Demon Drive Double Pedal', since: '2005' },
     },
     timeline: [
@@ -2132,15 +2132,15 @@ export const ENDORSEMENT_TIMELINE = {
         notes: 'Adopted a Pearl double bass pedal configuration during his Rage and Evergrey years, ahead of the Demon Drive model becoming his standard',
       },
       {
-        year: 2013,
+        year: 2016,
         changeType: ENDORSEMENT_CHANGE_TYPES.SIGNED,
         category: ENDORSEMENT_CATEGORIES.DRUMS,
         from: null,
         to: 'Pearl',
-        notes: 'Signed with Pearl on joining Amon Amarth for Deceiver of the Gods (2013), settling on the Reference Pure single-species maple kit',
+        notes: 'Signed with Pearl on joining Amon Amarth for Jomsviking (2016), settling on the Reference Pure single-species maple kit',
       },
       {
-        year: 2013,
+        year: 2016,
         changeType: ENDORSEMENT_CHANGE_TYPES.RENEWED,
         category: ENDORSEMENT_CATEGORIES.CYMBALS,
         brand: 'Zildjian',

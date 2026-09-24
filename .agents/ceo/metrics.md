@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-09-24 17:38 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-09-24 21:10 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,20 +8,20 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 320 |
-| Sessions | 368 |
-| Page views | 538 |
-| Engagement rate | 62.23% |
-| Avg session (s) | 90 |
+| Active users | 326 |
+| Sessions | 377 |
+| Page views | 543 |
+| Engagement rate | 60.74% |
+| Avg session (s) | 88 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
 | /drummers | 19 | 5 |
 | /drummer/joey-jordison | 18 | 11 |
-| /drummer/bill-ward | 15 | 9 |
+| /drummer/bill-ward | 16 | 9 |
+| /drummer/frost | 14 | 4 |
 | /bpm | 13 | 2 |
-| /drummer/frost | 13 | 4 |
 | / | 12 | 11 |
 | /drummer/matt-greiner | 9 | 8 |
 | /drummer/abe-cunningham | 8 | 1 |
@@ -31,20 +31,20 @@
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 302 | 255 |
-| Direct | 47 | 47 |
-| Unassigned | 23 | 22 |
-| Cross-network | 13 | 13 |
+| Organic Search | 304 | 255 |
+| Direct | 48 | 48 |
+| Unassigned | 30 | 27 |
+| Cross-network | 15 | 15 |
 | AI Assistant | 2 | 2 |
 | Referral | 1 | 1 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 131 | 111 |
-| United Kingdom | 31 | 16 |
+| United States | 133 | 113 |
+| United Kingdom | 34 | 17 |
+| Singapore | 19 | 19 |
 | Germany | 18 | 14 |
-| Singapore | 18 | 18 |
 | Australia | 16 | 15 |
 | Canada | 14 | 14 |
 | China | 12 | 12 |
@@ -55,45 +55,46 @@
 ## Search Console — Search performance
 | Metric | Last 7d |
 | --- | --- |
-| Impressions | 8,321 |
-| Clicks | 182 |
-| CTR | 2.19% |
-| Avg position | 7.5 |
+| Impressions | 9,964 |
+| Clicks | 206 |
+| CTR | 2.07% |
+| Avg position | 7.4 |
 
 ### Top queries
 | Query | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
 | hellhammer drum kit | 4 | 2 | 50.00% | 3.0 |
-| arin ilejay | 324 | 1 | 0.31% | 11.9 |
+| arin ilejay | 410 | 1 | 0.24% | 11.9 |
 | best death metal drummers | 3 | 1 | 33.33% | 6.7 |
-| best metal drummers of all time | 44 | 1 | 2.27% | 8.7 |
+| best extreme metal drummers | 1 | 1 | 100.00% | 6.0 |
+| best metal drummers of all time | 50 | 1 | 2.00% | 8.7 |
 | bill ward cymbals | 2 | 1 | 50.00% | 4.0 |
 | bill ward paranoid drum kit | 1 | 1 | 100.00% | 4.0 |
-| danny carey drum kit | 71 | 1 | 1.41% | 10.4 |
-| danny carey drum set | 83 | 1 | 1.20% | 10.5 |
+| danny carey drum kit | 87 | 1 | 1.15% | 10.7 |
+| danny carey drum set | 93 | 1 | 1.08% | 10.5 |
 | danny carey drum setup | 22 | 1 | 4.55% | 10.4 |
-| death metal drum kit | 2 | 1 | 50.00% | 7.0 |
 
 ### Top countries (impressions, last 7d)
 | Country | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| usa | 3,129 | 62 | 1.98% | 7.8 |
-| deu | 290 | 11 | 3.79% | 7.2 |
-| fra | 191 | 9 | 4.71% | 6.8 |
-| can | 494 | 7 | 1.42% | 7.6 |
-| fin | 137 | 7 | 5.11% | 6.7 |
-| gbr | 518 | 7 | 1.35% | 8.3 |
-| ita | 141 | 7 | 4.96% | 6.2 |
-| aus | 365 | 6 | 1.64% | 7.7 |
-| bra | 265 | 4 | 1.51% | 6.6 |
-| pol | 128 | 4 | 3.13% | 6.1 |
+| usa | 3,734 | 72 | 1.93% | 7.8 |
+| deu | 354 | 12 | 3.39% | 7.2 |
+| aus | 438 | 10 | 2.28% | 7.6 |
+| fin | 162 | 9 | 5.56% | 6.7 |
+| fra | 231 | 9 | 3.90% | 6.8 |
+| can | 597 | 8 | 1.34% | 7.6 |
+| gbr | 608 | 8 | 1.32% | 8.2 |
+| ita | 159 | 8 | 5.03% | 6.5 |
+| pol | 160 | 5 | 3.13% | 6.0 |
+| bra | 309 | 4 | 1.29% | 6.6 |
 
 ### 🎯 Content-gap queries (impr ≥50, CTR <2%) — CEO MUST address
 | Query | Impr | CTR | Pos | Action |
 | --- | --- | --- | --- | --- |
-| arin ilejay | 324 | 0.31% | 11.9 | open issue to answer better |
-| danny carey drum kit | 71 | 1.41% | 10.4 | open issue to answer better |
-| danny carey drum set | 83 | 1.20% | 10.5 | open issue to answer better |
+| arin ilejay | 410 | 0.24% | 11.9 | open issue to answer better |
+| danny carey drum kit | 87 | 1.15% | 10.7 | open issue to answer better |
+| danny carey drum set | 93 | 1.08% | 10.5 | open issue to answer better |
+| mario duplantier drum kit | 82 | 1.22% | 7.2 | open issue to answer better |
 
 ---
 *Re-run manually: `node .agents/scripts/fetch-metrics.cjs`*

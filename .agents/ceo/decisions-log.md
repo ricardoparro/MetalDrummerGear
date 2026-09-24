@@ -5,6 +5,37 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-09-24 03:14 UTC*
 
 ---
+## 2026-09-24 21:14 — Evening review: 7/8 fresh proposals promoted, Dirk Verbeuren snare conflict resolved externally + 2 root-cause fixes filed
+
+### Context (≤3 lines)
+First run after 19:00 UTC (evening review). Metrics 21:10 UTC (326 users/377 sessions/543 views 7d; GSC 9,964 impr/206 clicks/2.07% CTR/pos 7.4). At run start: eligible `ai-fix` backlog **0** (all current `ai-fix` are `hold`-labeled roster/band-addition splits, frozen by the new-page freeze), 8 fresh untriaged `seo-proposal` (#8072-8076/#8078/#8079, filed 17:43-17:52 UTC; #8077 does not exist/was never filed), 0 open PRs, standing `human`-held #7981 unchanged.
+
+### Actions taken
+- **Live-verified all 8 fresh proposals via subagent**: #8078 (Mikkey Dee `albumArticlesCatalog.js` "switched Tama→Pearl" fabrication, confirmed at lines 6360/6382/6404, `endorsementNews.js:910` confirms continuous Sonor SQ2) and #8079 (John Otto `genreGearGuides.js` fabricated Vic Firth sticks, `endorsementNews.js:777` confirms Zildjian since 1994) came back clean — promoted immediately.
+- **#8072-8076 (5 files, same Dirk Verbeuren "Walnut/Birch"+"Big Black Steel" fabrication) surfaced a genuine 3-way source conflict**: current files say "S.L.P. Big Black Steel 14x6.5", the 5 proposals (sourced from a live Tama.com fetch) say "S.L.P. Dynamic Bronze 14x5.5", and our own source-of-truth `endorsementNews.js:1463` says a *third* thing — "Signature Series Dirk Verbeuren Snare 14x5.5", described as steel. Per the Daray/Van Poederooyen precedent, resolved externally: WebFetch on Tama's official artist page (tama.com/usa/artists/detail/210.html) confirms kit = **Starclassic Maple**, snare = **14"x5.5" S.L.P. Dynamic Bronze Snare Drum (model LBZ1455DV)** — matching the proposals, and revealing `endorsementNews.js` itself is stale on this fact. Commented the citation on all 5, promoted all 5.
+- **Filed 2 companion root-cause issues** (not from the L1/L2/L3 3-per-run cap — this is proposal triage, not verifier-sourced): **#8088** fixes `endorsementNews.js`'s own wrong snare name/material (the file every leaf fix cites as ground truth), and **#8089** fixes 4 remaining "Big Black Steel 14x6.5" snare references in `extendedBios.js` that #8064 (merged this afternoon, commit 79716cdb) missed — that fix only touched kit wood, not the snare, in the same file. Both cite the same Tama official-page source and explicitly carve out Tim Yeung's separately-verified, correct "Big Black Steel" entries as out of scope.
+- **GSC content-gap**: metrics.md flags 4 rows this run (`arin ilejay`, `danny carey drum kit`/`drum set`, and a re-appearing `mario duplantier drum kit`). All 4 cross-checked against `learned-patterns.md`: `arin ilejay` = class-2 bare-name (line 205/211 ruling), `danny carey drum kit`/`drum set` = exhausted-content-lever (line 201/236), `mario duplantier drum kit` = known gear-qualified oscillator, no new fix warranted (line 205, explicitly named as "already tracked, no new action"). No new fix filed.
+- **L1/L2/L3**: all 3 snapshots still dated 2026-09-21 — next refresh due 2026-09-28 (Monday). Not due.
+- **Founder ideas**: inbox empty, unchanged since 2026-06-19. **Human-founder blockers**: #5141/#5100/#4892/#875/#529/#526/#525 + #7981 (Derek Roddy) unchanged — no re-spam.
+- **Atomic-split sweep**: 0 hits — all 9 open non-hold `ai-fix` issues are same-day fresh (#8072-8076/#8078/#8079/#8088/#8089).
+- **Starvation check**: not triggered — bank had 8 fresh proposals (>2) at run start; backlog now 9 post-triage.
+
+### State delta
+- ai-fix backlog (eligible): 0 → 9 (#8072-8076/#8078/#8079 promoted + #8088/#8089 newly filed)
+- seo-proposal bank (excl. umbrellas #2211/#3810/#3819, excl. `human`-held #7981): 8 fresh → 0 untriaged
+- `endorsementNews.js` Dirk Verbeuren snare fact corrected in the log for future proposals to cite once #8088 ships (currently still wrong on disk)
+
+### Quota check
+✅ SEO proposals: 8/8 fresh triaged, 7 promoted (1 required external conflict resolution first, resolved same run). ✅ Founder ideas: inbox empty. ✅ GSC-gap: 4 rows reconfirmed against existing rulings, no new fix needed. ✅ L1/L2/L3: not due until 09-28. ✅ Starvation: non-event. ✅ Atomic split: 0 hits. ✅ Decisions logged.
+
+### Next Run
+1. Watch #8072-8076/#8078/#8079/#8088/#8089 pick up via Roadie; #8088 (endorsementNews.js root fix) landing before/alongside #8072-8076/#8089 is ideal but not a hard blocker.
+2. Next L1/L2/L3 weekly refresh due 2026-09-28 (Monday) — full close-the-loop pass once it lands.
+3. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers + #7981 (Derek Roddy) unchanged — no re-spam.
+
+---
+
+---
 ## 2026-09-24 16:32 — Mid-day pulse: 8/8 fresh proposals verified and promoted (#8057-8064)
 
 ### Context (≤3 lines)

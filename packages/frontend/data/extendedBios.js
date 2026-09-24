@@ -2713,7 +2713,7 @@ Garstka joined Animals as Leaders after the departure of original drummer Navene
       // a source confirming a hardware change alongside the drum/snare switch (#5806).
       gearHighlights: {
         title: 'Gear Highlights',
-        content: `Matt Garstka is endorsed by Meinl Cymbals and DW Drums, having switched from Tama to a DW custom shop kit in September 2021. His setup reflects his fusion approach—versatile, dynamic, and designed for the full range of expression required by Animals as Leaders' music.
+        content: `Matt Garstka is endorsed by Meinl Cymbals and DW Drums, having switched from Pearl to a DW custom shop kit in September 2021, with a Tama Speed Cobra double pedal as his hardware. His setup reflects his fusion approach—versatile, dynamic, and designed for the full range of expression required by Animals as Leaders' music.
 
 **Current Setup:**
 - **Drums**: DW Collector's Series (mixed Collector's Series wood species and shell configurations, per DW custom shop)

@@ -89814,7 +89814,7 @@ One overlooked factor: doom's slow pace means a stick's weight matters more than
     // SEO metadata
     title: "Best Drumsticks for Extreme Metal: 2026 Ultimate Guide",
     metaTitle: "Best Drumsticks for Extreme Metal 2026 | MetalForge Expert Guide",
-    description: "Best drumsticks for extreme metal drumming: what Pete Sandoval (Ahead Lars Ulrich Signature), Derek Roddy (Vater 5B), Gene Hoglan (ProMark Classic Forward 2B), and George Kollias (Vic Firth) actually play. Durable, fast sticks built to survive sustained blast beats — ranked budget to pro.",
+    description: "Best drumsticks for extreme metal drumming: what Derek Roddy (Vater 5B), Gene Hoglan (ProMark Classic Forward 2B), and George Kollias (Vic Firth) actually play, plus Pete Sandoval's own Promark or Vic Firth 5B/2B pick. Durable, fast sticks built to survive sustained blast beats — ranked budget to pro.",
     seoKeywords: [
       'best drumsticks for extreme metal',
       'extreme metal drumsticks',
@@ -89823,8 +89823,7 @@ One overlooked factor: doom's slow pace means a stick's weight matters more than
       'derek roddy drumsticks',
       'gene hoglan drumsticks',
       'best sticks for blast beats',
-      'durable drumsticks for extreme metal',
-      'ahead aluminum drumsticks metal'
+      'durable drumsticks for extreme metal'
     ],
     ogImage: '/api/og/guide?type=genre-gear&gear=sticks&genre=extreme-metal',
     datePublished: '2026-07-07',
@@ -89839,7 +89838,7 @@ One overlooked factor: doom's slow pace means a stick's weight matters more than
       subtitle: "Durable, Fast-Rebound Sticks Built to Survive Sustained Blast Beats",
       badge: "GEAR GUIDE 2026",
       stats: [
-        { value: '3', label: 'Sticks Reviewed' },
+        { value: '2', label: 'Sticks Reviewed' },
         { value: '7 min', label: 'Read Time' },
         { value: '2026', label: 'Updated' }
       ]
@@ -89850,13 +89849,13 @@ One overlooked factor: doom's slow pace means a stick's weight matters more than
       title: "Why Extreme Metal Sticks Have to Survive Before They Have to Feel Good",
       content: `Extreme metal — death metal, technical death metal, and the grindcore-adjacent brutality surrounding them — puts more cumulative stress on a stick than almost any other genre. At 200-280 BPM sustained blast beats, a stick strikes a rim, cymbal, or head thousands of times a set, night after touring night, and has to keep rebounding accurately long after a lighter or lower-quality stick would splinter or lose its snap.
 
-Pete Sandoval of Morbid Angel, who pioneered the gravity blast technique, plays the Ahead Lars Ulrich Signature — an aluminum-core, polyurethane-sleeved stick whose synthetic construction survives his uniquely punishing technique far longer than solid wood. Derek Roddy of Hate Eternal and Nile plays a standard Vater 5B, a durable, dependable diameter that has anchored his one-footed blast technique since 2001. Gene Hoglan of Death and Testament, nicknamed "The Atomic Clock" for his metronomic precision, runs a ProMark Classic Forward 2B for its forward-weighted balance and consistent feel across marathon touring schedules. George Kollias of Nile plays Vic Firth sticks.
+Pete Sandoval of Morbid Angel, who pioneered the gravity blast technique, has used a Promark or Vic Firth 5B/2B stick since 1989. Derek Roddy of Hate Eternal and Nile plays a standard Vater 5B, a durable, dependable diameter that has anchored his one-footed blast technique since 2001. Gene Hoglan of Death and Testament, nicknamed "The Atomic Clock" for his metronomic precision, runs a ProMark Classic Forward 2B for its forward-weighted balance and consistent feel across marathon touring schedules. George Kollias of Nile plays Vic Firth sticks.
 
 This guide covers what actually makes a drumstick survive extreme metal's demands, what the genre's most respected drummers actually play, and concrete recommendations from budget to pro.`,
       keyPoints: [
         "Extreme metal's sustained blast beats destroy sticks that work fine in slower metal styles — durability is not optional",
         "Derek Roddy's standard Vater 5B proves a dependable, off-the-shelf diameter can anchor his one-footed blast technique",
-        "Pete Sandoval's Ahead aluminum-core stick shows synthetic construction can outlast solid wood under his gravity-blast technique",
+        "Pete Sandoval has relied on a standard Promark or Vic Firth 5B/2B since 1989 — proof that a dependable, off-the-shelf stick can survive his gravity-blast technique",
         "Gene Hoglan's standard ProMark Classic Forward 2B proves an off-the-shelf, forward-weighted stick can anchor decades of extreme metal touring"
       ]
     },
@@ -89868,8 +89867,8 @@ This guide covers what actually makes a drumstick survive extreme metal's demand
         {
           name: "Touring Durability",
           icon: "🛡️",
-          description: "Extreme metal's sustained blast beats put more cumulative stress on a stick than almost any other metal style. Pete Sandoval's move to an Ahead aluminum-core, polyurethane-sleeved stick reflects a search for construction that survives his gravity-blast technique night after night without splintering.",
-          recommendation: "Synthetic-core or dense, high-grade hickory built to survive sustained, high-velocity striking"
+          description: "Extreme metal's sustained blast beats put more cumulative stress on a stick than almost any other metal style. Pete Sandoval has stuck with a standard Promark or Vic Firth 5B/2B since 1989 — proof that a well-chosen heavier diameter, not exotic construction, is what survives his gravity-blast technique night after night.",
+          recommendation: "Dense, high-grade hickory built to survive sustained, high-velocity striking"
         },
         {
           name: "Fast Rebound and Light Weight",
@@ -89884,10 +89883,10 @@ This guide covers what actually makes a drumstick survive extreme metal's demand
           recommendation: "Teardrop or small oval tips for quick, articulate attack at high tempo"
         },
         {
-          name: "Material: Wood vs Synthetic",
+          name: "Material: American Hickory",
           icon: "⚙️",
-          description: "Pete Sandoval's Ahead Lars Ulrich Signature uses an aluminum core wrapped in a polyurethane sleeve — a genuinely different approach that resists breakage far better than solid wood under repeated, high-force striking, at the cost of a different in-hand feel.",
-          recommendation: "American hickory for traditional feel; aluminum-core synthetic sticks for maximum breakage resistance"
+          description: "The sticks that anchor this guide — Derek Roddy's Vater 5B and Gene Hoglan's ProMark Classic Forward 2B — are both standard American hickory. Pete Sandoval's own long-standing Promark or Vic Firth 5B/2B pick reinforces the same pattern: dependable hickory construction, not exotic materials, dominates the genre's highest level.",
+          recommendation: "American hickory for a proven, traditional feel and dependable durability"
         },
         {
           name: "Diameter and Gauge",
@@ -89910,45 +89909,6 @@ This guide covers what actually makes a drumstick survive extreme metal's demand
       pedals: [
         {
           rank: 1,
-          name: "Ahead Lars Ulrich Signature",
-          brand: "Ahead",
-          model: "Lars Ulrich Signature",
-          image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Drumsticks.jpg/640px-Drumsticks.jpg",
-          priceRange: "€28-36 (pair)",
-          tier: "pro",
-          material: "Aluminum Core / Polyurethane Sleeve",
-
-          description: `Pete Sandoval of Morbid Angel, who pioneered the gravity blast technique that revolutionized extreme metal drumming, plays the Ahead Lars Ulrich Signature — a synthetic stick built around an aluminum core wrapped in a polyurethane outer sleeve. That construction resists breakage far better than solid hickory under Sandoval's uniquely punishing, repeated-force technique.
-
-For drummers whose technique destroys wood sticks faster than they can restock them, Sandoval's choice proves synthetic construction is a legitimate professional option, not just a novelty.`,
-
-          pros: [
-            "Pete Sandoval's proven Morbid Angel setup — survives gravity-blast technique's repeated force",
-            "Aluminum-core, polyurethane-sleeve construction resists breakage far better than wood",
-            "Consistent weight and balance that doesn't vary stick to stick like natural wood",
-            "Reduces the need for frequent stick replacement on demanding tours",
-            "Proven across decades of Sandoval's most punishing recorded and live work"
-          ],
-          cons: [
-            "Premium synthetic-stick pricing above standard hickory options",
-            "Different in-hand feel and sound than traditional wood sticks"
-          ],
-          specs: {
-            material: "Aluminum Core / Polyurethane Sleeve",
-            diameter: "0.590\" (5B equivalent)",
-            length: "16\"",
-            tip: "Nylon",
-            grip: "Polyurethane sleeve"
-          },
-          usedBy: [
-            { name: "Pete Sandoval", band: "Morbid Angel", note: "Ahead Lars Ulrich Signature — durability under gravity-blast technique" }
-          ],
-          verdict: "The maximum-durability pick. Best for drummers whose technique breaks wood sticks faster than a touring budget can handle.",
-          rating: 4.6,
-          affiliateLink: "https://www.thomann.de/intl/ahead_lars_ulrich_signature.htm?partner_id=metalforge"
-        },
-        {
-          rank: 2,
           name: "Vater 5B",
           brand: "Vater",
           model: "5B",
@@ -89987,7 +89947,7 @@ Roddy's choice is proof that in extreme metal, a well-chosen standard 5B can hol
           affiliateLink: ""
         },
         {
-          rank: 3,
+          rank: 2,
           name: "ProMark Classic Forward 2B",
           brand: "ProMark",
           model: "Classic Forward 2B (TX2B family)",
@@ -90066,28 +90026,27 @@ Hoglan's choice underscores that extreme metal's technical demands don't strictl
 
     // Comparison section
     comparison: {
-      title: "Wood vs Synthetic Sticks for Extreme Metal",
-      content: `Extreme metal's most demanding drummers split between traditional wood sticks and a genuinely different synthetic construction — here's the honest breakdown of when each makes sense:
+      title: "5B vs 2B Diameter for Extreme Metal",
+      content: `Extreme metal's most demanding drummers favor dependable, heavier stick diameters over specialized, lightweight geometry — here's the honest breakdown of when each size makes sense:
 
-**Standard Wood Sticks (Vater 5B, ProMark Classic Forward 2B):**
-- Traditional feel, sound, and rebound characteristics
-- Dependable, off-the-shelf diameters proven at the genre's highest level
-- Preferred by: Derek Roddy, Gene Hoglan
+**5B Diameter (Vater 5B):**
+- Slightly slimmer than 2B, still built for durability and fast rebound
+- Dependable, off-the-shelf diameter proven at the genre's highest level
+- Preferred by: Derek Roddy; Pete Sandoval has also used a 5B/2B Promark or Vic Firth stick since 1989
 
-**Synthetic Sticks (Ahead Lars Ulrich Signature):**
-- Aluminum core and polyurethane sleeve resist breakage far better than solid wood
-- Consistent weight and balance that doesn't vary stick to stick
-- Preferred by: Pete Sandoval
+**2B Diameter (ProMark Classic Forward 2B):**
+- Thicker, forward-weighted taper for maximum durability and attack authority
+- Preferred by: Gene Hoglan
 
-**The Truth:** Both approaches work at extreme metal's highest level. Derek Roddy's standard Vater 5B shows a well-chosen off-the-shelf diameter can hold up to extreme-speed technique directly, while Pete Sandoval's synthetic Ahead stick solves the durability problem his gravity-blast technique creates for solid wood. Gene Hoglan's standard ProMark Classic Forward 2B shows a proven, off-the-shelf size can still anchor decades of demanding professional work.
+**The Truth:** Both diameters work at extreme metal's highest level. Derek Roddy's standard Vater 5B shows a well-chosen off-the-shelf diameter can hold up to extreme-speed technique directly, while Gene Hoglan's standard ProMark Classic Forward 2B shows a proven, off-the-shelf size can still anchor decades of demanding professional work. Pete Sandoval's own longstanding pick, a Promark or Vic Firth 5B/2B since 1989, reinforces that extreme metal's most punishing technique doesn't require anything beyond a standard heavier diameter.
 
-**Our Recommendation:** Start with a standard Vater or Vic Firth 5A/5B and assess where your technique breaks sticks fastest. If breakage is a constant issue regardless of stick quality, Pete Sandoval's synthetic Ahead option is worth the premium.`,
+**Our Recommendation:** Start with a standard Vater or Vic Firth 5A/5B and assess where your technique breaks sticks fastest. If attack authority matters more than raw speed, size up to a 2B like Gene Hoglan's Classic Forward.`,
       comparisonTable: [
-        { feature: "Breakage Resistance", wood: "⭐⭐⭐", aluminum: "⭐⭐⭐⭐⭐" },
-        { feature: "Blast-Beat Speed", wood: "⭐⭐⭐⭐⭐", aluminum: "⭐⭐⭐⭐" },
-        { feature: "Traditional Feel", wood: "⭐⭐⭐⭐⭐", aluminum: "⭐⭐⭐" },
-        { feature: "Affordability", wood: "⭐⭐⭐⭐", aluminum: "⭐⭐" },
-        { feature: "Cost Per Pair", wood: "€10-19", aluminum: "€28-36" }
+        { feature: "Diameter", fiveB: "0.605\"", twoB: "0.630\"" },
+        { feature: "Blast-Beat Speed", fiveB: "⭐⭐⭐⭐⭐", twoB: "⭐⭐⭐⭐" },
+        { feature: "Attack Authority", fiveB: "⭐⭐⭐⭐", twoB: "⭐⭐⭐⭐⭐" },
+        { feature: "Affordability", fiveB: "⭐⭐⭐⭐", twoB: "⭐⭐⭐⭐" },
+        { feature: "Cost Per Pair", fiveB: "€10-14", twoB: "€12-18" }
       ]
     },
 
@@ -90097,13 +90056,13 @@ Hoglan's choice underscores that extreme metal's technical demands don't strictl
       picks: [
         {
           category: "Best Overall",
-          pedal: "Ahead Lars Ulrich Signature",
-          reason: "Pete Sandoval's synthetic pick — survives gravity-blast technique far longer than wood."
+          pedal: "Vater 5B",
+          reason: "Derek Roddy's proven, dependable diameter — anchors extreme-speed technique without a specialized signature model."
         },
         {
-          category: "Best for Blast-Beat Speed",
-          pedal: "Vater 5B",
-          reason: "Derek Roddy's standard, dependable diameter proven under extreme one-footed blast technique."
+          category: "Best for Technical Precision",
+          pedal: "ProMark Classic Forward 2B",
+          reason: "Gene Hoglan's forward-weighted pick, dependable across decades of metronomic, precision-first touring."
         },
         {
           category: "Best Budget Pick",
@@ -90121,7 +90080,7 @@ Hoglan's choice underscores that extreme metal's technical demands don't strictl
       'best-drum-kits-for-metal'
     ],
     relatedDrummers: [
-      { slug: 'pete-sandoval', name: 'Pete Sandoval', reason: 'Ahead Lars Ulrich Signature — durability under gravity-blast technique' },
+      { slug: 'pete-sandoval', name: 'Pete Sandoval', reason: 'Promark or Vic Firth 5B/2B since 1989 — pioneer of the gravity blast technique' },
       { slug: 'derek-roddy', name: 'Derek Roddy', reason: 'Standard Vater 5B — dependable diameter for one-footed blast technique' },
       { slug: 'gene-hoglan', name: 'Gene Hoglan', reason: 'ProMark Classic Forward 2B — dependable balance for metronomic precision' },
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Vic Firth sticks — Nile\'s extreme blast-beat precision' }
@@ -90129,7 +90088,7 @@ Hoglan's choice underscores that extreme metal's technical demands don't strictl
 
     // Featured drummers (issue template)
     featuredDrummers: [
-      { slug: 'pete-sandoval', name: 'Pete Sandoval', reason: 'Ahead Lars Ulrich Signature — gravity-blast pioneer\'s durability pick' },
+      { slug: 'pete-sandoval', name: 'Pete Sandoval', reason: 'Promark or Vic Firth 5B/2B since 1989 — gravity-blast pioneer' },
       { slug: 'derek-roddy', name: 'Derek Roddy', reason: 'Standard Vater 5B — one-footed blast-beat speed' },
       { slug: 'gene-hoglan', name: 'Gene Hoglan', reason: 'ProMark Classic Forward 2B — "The Atomic Clock" precision' },
       { slug: 'george-kollias', name: 'George Kollias', reason: 'Vic Firth sticks — Nile\'s extreme blast-beat precision' }
@@ -90144,11 +90103,11 @@ Hoglan's choice underscores that extreme metal's technical demands don't strictl
       },
       {
         question: "What drumsticks does Pete Sandoval use?",
-        answer: "Pete Sandoval of Morbid Angel plays the Ahead Lars Ulrich Signature, a synthetic stick with an aluminum core and polyurethane sleeve that resists breakage far better than solid wood under his gravity-blast technique."
+        answer: "Pete Sandoval of Morbid Angel has used a Promark or Vic Firth 5B/2B stick since 1989. The exact brand isn't publicly confirmed, but the diameter has held throughout his career, including the gravity blast technique he pioneered."
       },
       {
         question: "What's the most durable drumstick for extreme metal?",
-        answer: "Synthetic sticks like the Ahead Lars Ulrich Signature, played by Pete Sandoval, offer the highest breakage resistance thanks to an aluminum core and polyurethane sleeve. Among wood sticks, standard heavier models like Gene Hoglan's ProMark Classic Forward 2B hold up well across sustained touring use."
+        answer: "Among the sticks this guide covers, heavier standard models hold up best under sustained touring use — Gene Hoglan's ProMark Classic Forward 2B and Pete Sandoval's own Promark or Vic Firth 5B/2B pick both favor a thicker, more durable diameter over a lighter, more specialized one."
       },
       {
         question: "What drumsticks does Derek Roddy use?",
@@ -90163,9 +90122,9 @@ Hoglan's choice underscores that extreme metal's technical demands don't strictl
     // Conclusion
     conclusion: {
       title: "Find Your Extreme Metal Stick",
-      content: `Extreme metal's stick choices come down to surviving first and performing second. Derek Roddy's standard Vater 5B shows a dependable, off-the-shelf diameter can still deliver the fast, consistent rebound blast beats demand. Pete Sandoval's synthetic Ahead stick solves a different problem entirely — durability under a gravity-blast technique that destroys ordinary wood sticks faster than most drummers can restock them.
+      content: `Extreme metal's stick choices come down to surviving first and performing second. Derek Roddy's standard Vater 5B shows a dependable, off-the-shelf diameter can still deliver the fast, consistent rebound blast beats demand. Pete Sandoval's own longstanding Promark or Vic Firth 5B/2B pick, played since 1989, reinforces the same lesson: a well-chosen standard diameter, not exotic construction, is what survives extreme metal's most punishing technique.
 
-For most extreme metal drummers, start with a standard Vater or Vic Firth 5A/5B and pay attention to where your technique breaks sticks fastest. If your material leans toward maximum blast-beat tempo, a lighter signature model is worth the upgrade. If breakage itself is the recurring problem, Pete Sandoval's synthetic option is worth the premium.
+For most extreme metal drummers, start with a standard Vater or Vic Firth 5A/5B and pay attention to where your technique breaks sticks fastest. If your material leans toward maximum blast-beat tempo, a lighter signature model is worth the upgrade. If attack authority matters more than raw speed, size up to a 2B like Gene Hoglan's Classic Forward.
 
 One overlooked factor: extreme metal's sustained abuse means a stick's long-term durability often matters more than its day-one feel. Test your candidates across a full-length set, not just a few bars, before committing.
 

@@ -10065,3 +10065,38 @@ All 7 filed issues cross-checked via `gh issue list --state all --search` (drumm
 2. Follow up on 3 unverified leftovers: Bill Ward `extendedBios.js` double-pedal fabrication, Tomas Haake `drummerEvolution.js` DW/ddrum + Evans/Remo mismatches, Chris Turner steel-snare fabrication — all agent-reported, need personal grep/read verification before filing.
 3. Content-gap queries (`arin ilejay`, `danny carey drum kit`/`drum set`) remain held on established precedent — no new fix.
 4. Next drum-chair watch due Monday 2026-09-28, group 0 (amon-amarth…cynic).
+
+## 2026-09-24 (run, per metrics.md 21:53 UTC) — 8 fresh fabrication-fix proposals filed (#8098-8100, #8102-8106); 3 prior-run leftovers resolved (2 filed, 1 dropped as ambiguous)
+
+### Context
+Bank check: 11 open `seo-proposal` at run start — 3 standing umbrellas (#2211/#3810/#3819) + 1 human-hold (#7981, Derek Roddy snare, unchanged) + 7 already-promoted (#8072-8076/#8078/#8079, carry `ai-fix` too, confirmed via decisions-log 21:14 entry) → 0 truly untriaged, well under 45 → cleared to file up to 8 net-new. Metrics 21:53 UTC (328 users/379 sessions/543 views 7d; GSC 9,964 impr/206 clicks/2.07% CTR/pos 7.4). Audit: robots.txt confirms all 8 required AI crawlers explicitly allowed. Content-gap table unchanged (`arin ilejay` 410/0.24%/pos 11.9, `danny carey drum kit` 87/1.15%, `danny carey drum set` 93/1.08%, `mario duplantier drum kit` 82/1.22%) — re-confirmed against `learned-patterns.md`'s class-2/exhausted-lever rulings, no new fix. Today is Thursday — drum-chair watch not due (next Monday 2026-09-28, group 0).
+
+### Method
+Resolved the 3 leftovers flagged at the end of the 17:38 UTC run first (personal grep/read verification), then dispatched one research agent for a fresh sibling-file-gap sweep among drummers not covered in the last ~2 weeks. Personally re-verified all 5 of its reported candidates via direct grep/read against `endorsementNews.js` before filing (not trusted blind) — all 5 confirmed accurate.
+
+**Leftovers resolved:**
+- **Bill Ward** `extendedBios.js` "Ludwig Atlas Pro double pedal" (L2350, L2354) — CONFIRMED, filed as #8098. Same fabrication already fixed in `pedals.js` (#7348) and `drummerComparisons.js` (#6307), never in `extendedBios.js`. Verified single Ludwig Speed King Pedal since 1970.
+- **Tomas Haake** `drummerEvolution.js` — the flagged Evans/Remo heads mismatch was dropped as ambiguous per the extendedBios.js-more-granular lesson (a legitimate per-era heads progression is plausible, not a clean fabrication). But personal re-reading of the same summary field turned up a cleaner, previously-unflagged fabrication: "DW/ddrum hybrid rig" (L1254) contradicts the file's own current-era gear block (Sonor SQ2, correct) — filed as #8099.
+- **Chris Turner** `genreGearGuides.js` steel-snare fabrication — CONFIRMED, filed as #8100. Entire `best-snare-drums-for-deathcore` guide (15+ locations) fabricates "Tama S.L.P. Vintage Hammered Steel"; verified snare is "Tama S.L.P. G-Maple" per `endorsementNews.js` timeline + already-correct in the closed #6098 fix (different file, same drummer/fact).
+
+**5 fresh candidates from this run's sweep, all personally verified:**
+1. **#8102** — Nicko McBrain: `albumArticles/nicko-mcbrain.js` fabricates "Sonor SQ1" as his current kit at 12+ locations, including a `thenVsNow` block with identical then/now values (L3787-3788) — verified British Drum Co. since 2019 (Senjutsu, 2019 recording, postdates the switch). Prior fixes (#6250, #5693) explicitly left most of these instances unswept.
+2. **#8103** — Igor Cavalera: `extendedBios.js` "Cavalera Conspiracy Era (2007-2018)" heading has the *wrong era's* gear attached (Tama/Paiste, which was actually the tail of the 1996-2006 Sepultura era) — verified ddrum/Zildjian A Custom/DW for the actual 2006-2018 Cavalera Conspiracy era. Prior fix #6003 preserved this exact mislabel as "correct" while adding a newer section on top.
+3. **#8104** — Blake Richardson: `albumArticles/blake-richardson.js` fabricates an entire nonexistent "Pearl Reference Pure" kit-brand switch for the Automata era (2018) plus wrong stick size (5B vs verified 3A) — verified continuous Tama Starclassic Bubinga since 2018, Pearl never appears in his record. Prior fixes (#7381, #6958, #6833) all scoped to other files, never this one.
+4. **#8105** — Aquiles Priester: `extendedBios.js` fabricates "Evans" heads (2 locations) — verified Remo since 1996. Prior fix #7751 corrected the identical fabrication in `genreGearGuides.js` only.
+5. **#8106** — Derek Roddy: 4 files (`extendedBios.js`, `drummerEvolution.js` ×2, `studies/drumEndorsementLandscape.js`, `studies/mostUsedGearBrands.js`) fabricate a nonexistent signature stick "Vater Player's Design Derek Roddy Model (VHDRW)" — verified non-signature Vater 5B since 2001. 4 *other* sibling files already fixed (#7019/#7656/#7746/#6624). Explicitly noted in the issue body this is a distinct fact from the standing #7981 snare hold — no overlap.
+
+### Dedup notes
+All 8 filed issues cross-checked via `gh issue list --state all --search` (drummer/file name + fact keywords) before filing, with full-body reads of the closest-matching prior issues in each case (#7348/#6307 Bill Ward; #5857 Haake; #6098 Turner; #6250/#5693 McBrain; #6003 Cavalera; #7381/#6958/#6833 Richardson; #7751 Priester; #7019/#7656/#7746/#6624 Roddy) — none cover the exact file+fact filed this run.
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy, human-hold, external-verification conflict — snare, unrelated to this run's #8106 sticks fix)
+- #8072-8076, #8078-8079 (promoted per decisions-log 21:14 entry)
+- #8098-8100, #8102-8106 (this run, 8 fresh)
+- #2211/#3810/#3819 (standing umbrellas)
+- Bank at run end: 21 open `seo-proposal` (well under the 45 top-up ceiling).
+
+### Next run
+1. Watch #8098-8100/#8102-8106 through CEO triage.
+2. Content-gap queries (`arin ilejay`, `danny carey drum kit`/`drum set`, `mario duplantier drum kit`) remain held on established precedent — no new fix.
+3. Next drum-chair watch due Monday 2026-09-28, group 0 (amon-amarth…cynic).

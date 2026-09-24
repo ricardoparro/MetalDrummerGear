@@ -9974,3 +9974,46 @@ Not due this run (today is Thursday 2026-09-24, not Monday) — skipped per the 
 2. If the bank needs topping up further, follow up on the 2 excluded low-confidence candidates (Raymond Herrera, Art Cruz) with direct verification first.
 3. Content-gap queries (`arin ilejay`, `danny carey drum kit`/`drum set`) remain held on established precedent — no new fix.
 4. Next drum-chair watch due Monday 2026-09-28.
+
+## 2026-09-24 (run ~13:00 UTC slot) — 8 fresh fabrication-fix proposals filed (#8057-8064); Raymond Herrera leftover resolved, Art Cruz leftover closed out clean
+
+### Context
+Bank check: 11 open `seo-proposal` issues at run start — 3 standing umbrellas (#2211/#3810/#3819) + 1 human-hold (#7981, Derek Roddy) + 7 already-promoted (#8043-8049, carry `ai-fix` too) → 0 truly untriaged, well under 45 → cleared to file up to 8 net-new. Metrics 12:24 UTC (314 users/360 sessions/531 views 7d; GSC 8,321 impr/182 clicks/2.19% CTR/pos 7.5, unchanged bucket). Audit: robots.js confirms all 8 required AI crawlers explicitly allowed (GPTBot/ChatGPT-User/ClaudeBot/anthropic-ai/PerplexityBot/Applebot-Extended/cohere-ai/Google-Extended, plus AhrefsBot/SemrushBot/MJ/Claude-Web block rules); `/llms/*.md` endpoints stable at 2,016. Content-gap table unchanged (`arin ilejay` 324/0.31%/pos 11.9, `danny carey drum kit` 71/1.41%, `danny carey drum set` 83/1.20%) — re-confirmed against `learned-patterns.md`'s class-2 bare-name and exhausted-content-lever rulings, no new fix. Today is Thursday — drum-chair watch not due (next due Monday 2026-09-28, group 0).
+
+### Method
+Resolved last run's 2 flagged leftovers first (1 research agent), then dispatched a fresh sibling-file-gap sweep (1 research agent) plus a targeted follow-up verifying 6 candidates the sweep agent surfaced but didn't have time to personally re-check (1 more agent) — 3 agents total, all results personally cross-referenced against `endorsementNews.js` line numbers and `gh issue list --state all --search` dedup before filing.
+
+**Leftovers resolved:**
+- **Raymond Herrera** — CONFIRMED, filed as #8057. `drummerEvolution.js`'s 1995-2001 era block still fabricates Pearl; closed #5886 only fixed the adjacent 2002+ block, leaving this one untouched.
+- **Art Cruz** — FALSE POSITIVE, not filed. The self-contradiction flagged last run was already fixed by closed #6083; current file content shows no remaining conflict.
+
+**9 candidates confirmed this run via direct grep/read; filed the strongest 8 (dropped an Igor Cavalera FAQ chronology-reversal item as the lowest-impact single-sentence find, logged below for a future top-up):**
+1. **#8057** — Raymond Herrera (see above).
+2. **#8058** — Frost's `extendedBios.js` still says "Zildjian A Custom & K Series" — sibling files (`drummerEvolution.js` #7913, `cymbalSetups.js` #7568, `genreGearGuides.js` #7753/#7718) already fixed to plain "A Series"; `extendedBios.js` was never swept.
+3. **#8059** — Nick Augusto's `genreGearGuides.js` fabricates "Pearl Demon Drive" pedal at ~30 locations across 2 guides; `endorsementNews.js` has no pedal field for him at all (intentionally omitted per #7481, whose own MusicRadar source shows a mixed DW9000+Pearl-hardware setup) — filed as a verified-only/omit-if-unsure correction to "DW 9000 Series," not a brand swap.
+4. **#8060** — Scott Travis's `soundLikeGuides.js` intro/keyPoints block (distinct from the `gear:` sub-object) still says Tama/Sabian/Iron Cobra; #6308's fix (PR #6341) only touched the `gear:` sub-object starting at line 8451, missing the earlier intro block.
+5. **#8061** — Gene Hoglan's `soundLikeGuides.js` heads field fabricates Remo; verified Evans since the 1980s — ~20 prior Hoglan issues never touched this specific field.
+6. **#8062** — Hellhammer's `drummerEvolution.js` 1999-2013 middle era still fabricates Pearl/Zildjian; closed #7919 explicitly flagged this block as out-of-scope when it fixed the adjacent 1988 era and recommended a follow-up that was never filed until now.
+7. **#8063** — Chris Adler's `drummerEvolution.js` invents two entire fake DW/Pearl endorsement eras (2006 Sacrament, 2009 Wrath) plus a summary line claiming "three distinct endorsement eras" — verified continuous Mapex throughout his career.
+8. **#8064** — Dirk Verbeuren's `extendedBios.js` fabricates "Walnut/Birch" — traced as the root-cause file: closed #5541 originally broke this (changed the correct "Maple" to match its own wrong FAQ instead of checking `endorsementNews.js`), and #6619 later fixed `soundLikeGuides.js` but never `extendedBios.js`. Flagged in the issue body that `drummerEvolution.js`/`drummerComparisons.js`/`gearPriceHistory.js`/`albumArticles/dirk-verbeuren.js` may carry the same propagated error and need separate follow-up issues.
+
+### Not filed
+- **Igor Cavalera** (`soundLikeGuides.js` FAQ reverses the Pearl-1993→Tama-1996 chronology) — confirmed real and undupped, but dropped as the lowest-impact of 9 candidates to respect the 8-per-run cap. Logged here for next run's top-up pass.
+- **Sean Reinert** — checked, all current gear claims match `endorsementNews.js`; one candidate (a Focus-era 1993 Zildjian A→K switch) was ruled a genuine granular sub-era per the Vinnie-Paul-precedent check (corroborated consistently across 2 independent files), not a fabrication.
+
+### Dedup notes
+All 8 filed issues cross-checked via `gh issue list --state all --search` (drummer name + fact keywords), with full-body reads (not just titles) of the closest-matching prior issues — #5886 (Herrera), #7913/#7568/#7753/#7718 (Frost), #7481/#7310/#7660/#7036/#6605 (Augusto), #6308 (Travis), #6380/#7570/#7673/#7920 (Hoglan), #7919 (Hellhammer), #6252/#5844/#6325 (Adler), #5541/#6619 (Verbeuren) — none cover the exact file+fact filed this run.
+
+### Open proposals waiting on CEO triage
+- #7981 (Derek Roddy, human-hold, external-verification conflict)
+- #8043-8049 (promoted per decisions-log 11:08 entry, mid-flight through Roadie)
+- #8057-8064 (this run, 8 fresh)
+- #2211/#3810/#3819 (standing umbrellas)
+- Bank at run end: 19 open `seo-proposal` (well under the 45 top-up ceiling).
+
+### Next run
+1. Watch #8057-8064 through CEO triage/live-verification.
+2. Top-up candidate on file for next run: Igor Cavalera's `soundLikeGuides.js` FAQ chronology reversal (Pearl 1993→Tama 1996 stated backwards) — confirmed, undupped, just deprioritized this run.
+3. Dirk Verbeuren's propagated "Walnut/Birch" error may still live in `drummerEvolution.js`/`drummerComparisons.js`/`gearPriceHistory.js`/`albumArticles/dirk-verbeuren.js` — worth a follow-up sweep once #8064 (the root-cause file) ships.
+4. Content-gap queries (`arin ilejay`, `danny carey drum kit`/`drum set`) remain held on established precedent — no new fix.
+5. Next drum-chair watch due Monday 2026-09-28, group 0 (amon-amarth…cynic).

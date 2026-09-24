@@ -5,6 +5,34 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-09-24 03:14 UTC*
 
 ---
+## 2026-09-24 16:32 — Mid-day pulse: 8/8 fresh proposals verified and promoted (#8057-8064)
+
+### Context (≤3 lines)
+First run after 13:00 UTC (mid-day pulse). Metrics 16:32 UTC (317 users/365 sessions/534 views 7d; GSC 8,321 impr/182 clicks/2.19% CTR/pos 7.5). At run start: eligible `ai-fix` backlog **0** (the 11:08 run's #8043-8049 batch fully shipped — confirmed all 7 closed, matching HEAD commits), 8 fresh untriaged `seo-proposal` (#8057-8064, filed 12:40-12:41 UTC), 0 open PRs, standing `human`-held #7981 unchanged.
+
+### Actions taken
+- **Live-verified all 8 fresh proposals via direct grep against current file state**, cross-checking `endorsementNews.js` as source-of-truth for each: #8057 (Raymond Herrera `drummerEvolution.js` 1995-2001 era block — confirmed Pearl fabrication at lines 11040/11046/11058, `endorsementNews.js` confirms continuous Tama Starclassic since 1995; #5886 only fixed the later 2002+ era block), #8058 (Frost `extendedBios.js` gearHighlights line 4399 confirmed "Zildjian A Custom & K Series" fabrication vs. verified plain A Series; sibling files already fixed by #7913/#7568/#7753/#7718), #8059 (Nick Augusto `genreGearGuides.js` — confirmed "Demon Drive" claims, `endorsementNews.js` has no hardware field for him at all per closed #7481), #8060 (Scott Travis `soundLikeGuides.js` intro/keyPoints still say Sabian/Iron Cobra — confirmed stale, #6308 only fixed the `gear:` sub-object further down), #8061 (Gene Hoglan `soundLikeGuides.js` heads block confirmed "Remo" fabrication at lines 1666-1669 vs. verified Evans), #8062 (Hellhammer `drummerEvolution.js` 1999-2013 era block confirmed present at line 11553, #7919 explicitly flagged this block as out-of-scope follow-up), #8063 (Chris Adler `drummerEvolution.js` — confirmed two fabricated DW/Pearl era blocks at lines 7950/8021, `endorsementNews.js` confirms continuous Mapex, no DW/Pearl era ever existed), #8064 (Dirk Verbeuren `extendedBios.js` line 4267 confirmed "Walnut/Birch" vs. verified Maple per `endorsementNews.js:1411-1412` and already-fixed `soundLikeGuides.js` #6619). All 8/8 confirmed accurate, text-only fixes on existing pages, freeze-compliant, zero overlap (8 distinct drummers/files). Promoted all 8.
+- **GSC content-gap**: same 3 flagged rows (`arin ilejay`, `danny carey drum kit`/`drum set`) — reconfirmed against existing `learned-patterns.md` rulings (class-2 bare-name line 205/211; exhausted-content-lever line 201/236). No new fix filed.
+- **L1/L2/L3**: all 3 snapshots dated 2026-09-21, next refresh due 2026-09-28 (Monday). Not due. No open `gsc-watch`/`llm-citations`/`indexation-watch` umbrella issues currently.
+- **Founder ideas**: inbox empty, unchanged since 2026-06-19. **Human-founder blockers**: #5141/#5100/#4892/#875/#529/#526/#525 + #7981 (Derek Roddy, rechecked this morning, still inconclusive) — unchanged, no re-spam.
+- **Atomic-split sweep**: 0 hits — all open non-hold `ai-fix` issues are same-day fresh (#8057-8064).
+- **Starvation check**: not triggered — bank had 8 fresh proposals (>2) at run start.
+
+### State delta
+- ai-fix backlog (eligible): 0 → 8 (#8057-8064 added)
+- seo-proposal bank (excl. umbrellas #2211/#3810/#3819, excl. `human`-held #7981): 8 fresh → 0 untriaged
+
+### Quota check
+✅ SEO proposals: 8/8 fresh triaged, live-verified, all promoted. ✅ Founder ideas: inbox empty. ✅ GSC-gap: 3 rows reconfirmed against existing rulings. ✅ L1/L2/L3: not due until 09-28. ✅ Starvation: non-event. ✅ Atomic split: 0 hits. ✅ Decisions logged.
+
+### Next Run
+1. Watch #8057-8064 pick up via Roadie.
+2. Next L1/L2/L3 weekly refresh due 2026-09-28 (Monday) — full close-the-loop pass once it lands.
+3. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers + #7981 (Derek Roddy) unchanged — no re-spam.
+
+---
+
+---
 ## 2026-09-24 11:08 — Daily deep run: 7/7 fresh proposals promoted (#8043-8049), Roddy hold re-checked (still inconclusive)
 
 ### Context (≤3 lines)

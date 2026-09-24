@@ -11562,27 +11562,27 @@ export const DRUMMER_EVOLUTION = {
 
         gear: {
           drums: {
-            item: 'Pearl Reference Series',
-            details: 'Flagship maple shells for dual-band schedule',
-            notes: 'Upgraded to Pearl\'s flagship line to meet the demands of touring and recording with two bands simultaneously.',
+            item: 'Sonor SQ2 Heavy Beech',
+            details: 'Heavy beech shells for dual-band schedule',
+            notes: 'Moved to the Sonor SQ2 Heavy Beech kit to meet the demands of touring and recording with two bands simultaneously.',
             change: CHANGE_TYPES.UPGRADE,
           },
           snare: {
-            item: 'Pearl Reference Snare 14"×6.5"',
+            item: 'Sonor matching SQ2 snare',
             details: 'Consistent across both bands\' production contexts',
             notes: 'Same snare voice serving Mayhem\'s raw attack and Dimmu Borgir\'s orchestrated approach.',
             change: CHANGE_TYPES.UPGRADE,
           },
           cymbals: {
-            item: 'Zildjian A Custom (full setup)',
+            item: 'Paiste RUDE',
             details: 'Hi-hats, crashes, ride',
-            notes: 'Full A Custom setup providing consistent brightness across both bands\' contrasting production styles.',
+            notes: 'Full RUDE series setup providing consistent cutting power across both bands\' contrasting production styles.',
             change: CHANGE_TYPES.UPGRADE,
           },
           hardware: {
-            item: 'Pearl Demon Drive Double Pedal',
+            item: 'Axis Double Pedal',
             details: 'Direct-drive double bass pedal',
-            notes: 'Switched to Demon Drive\'s direct-drive mechanism — zero mechanical delay for precise blast-beat execution at extreme tempos.',
+            notes: 'Switched to Axis\'s direct-drive mechanism — zero mechanical delay for precise blast-beat execution at extreme tempos.',
             change: CHANGE_TYPES.SWITCH,
           },
           sticks: {
@@ -11607,8 +11607,8 @@ export const DRUMMER_EVOLUTION = {
 
         keyChanges: [
           'Joined Dimmu Borgir in 1999 while remaining Mayhem\'s drummer — a dual career unique in black metal',
-          'Upgraded to Pearl Reference Series and Pearl Demon Drive direct-drive pedal',
-          'Full Zildjian A Custom cymbal setup established',
+          'Moved to Sonor SQ2 Heavy Beech kit and Axis direct-drive double pedal',
+          'Full Paiste RUDE cymbal setup established',
           '"Ordo Ad Chao" (2007) — recorded without a bassist, among his most demanding performances',
         ],
 

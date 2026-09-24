@@ -8353,7 +8353,7 @@ This guide covers Larkin's groove-focused technique, his physical approach to ha
     genre: 'Heavy Metal / Speed Metal',
     priority: 31,
     title: "How to Sound Like Scott Travis: Complete Gear & Technique Guide",
-    description: "Master Scott Travis's Judas Priest drum sound. Learn his precision speed metal technique, controlled double-bass, groove-oriented NWOBHM approach, and the Tama / Sabian / Iron Cobra setup behind Painkiller, Firepower, and Invincible Shield.",
+    description: "Master Scott Travis's Judas Priest drum sound. Learn his precision speed metal technique, controlled double-bass, groove-oriented NWOBHM approach, and the ddrum / Paiste / DW setup behind Painkiller, Firepower, and Invincible Shield.",
     seoKeywords: ['scott travis drumming', 'how to sound like scott travis', 'judas priest drums', 'scott travis gear', 'scott travis technique', 'scott travis drum kit', 'painkiller drumming', 'judas priest drum sound'],
     ogImage: '/images/guides/scott-travis-guide.webp',
     datePublished: '2026-06-25',
@@ -8369,12 +8369,12 @@ Painkiller transformed Judas Priest. After the commercial experimentation of Ram
 
 What separates Travis from pure speed metal drummers is his compositional intelligence. After Painkiller, his work on Jugulator (1997), Demolition (2001), Angel of Retribution (2005), Redeemer of Souls (2014), Firepower (2018), and Invincible Shield (2024) demonstrates increasing stylistic range: more dynamic variation, greater groove sophistication, and the ability to serve extremely different Priest production styles while maintaining the foundational precision and power that define his playing.
 
-This guide covers Travis's technique across both the extreme Painkiller era and his more developed later style, along with his Tama / Sabian / Iron Cobra setup.`,
+This guide covers Travis's technique across both the extreme Painkiller era and his more developed later style, along with his ddrum / Paiste / DW setup.`,
       keyPoints: [
         "Joined Judas Priest in 1989 from Racer X; debut album Painkiller (1990) is considered one of heavy metal's greatest recordings",
         "Precision speed metal technique: 200+ BPM double-bass with machine-like consistency while maintaining heavy metal groove",
         "His playing evolved across seven Priest albums — from extreme speed metal to more dynamic, groove-oriented approach",
-        "Tama drums, Sabian cymbals, and Tama Iron Cobra double pedals form the core of his touring and recording setup"
+        "ddrum drums, Paiste cymbals, and DW 9000 double pedals form the core of his touring and recording setup"
       ]
     },
     technique: {

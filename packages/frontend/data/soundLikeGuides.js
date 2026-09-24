@@ -3699,10 +3699,10 @@ This guide breaks down Jay's core techniques, his SJC Custom Drums setup, and th
         alternative: "DW 5000 or Tama Iron Cobra 900 for similar direct-drive feel"
       },
       sticks: {
-        brand: 'Vic Firth',
-        model: 'Vic Firth Jay Weinberg Signature',
+        brand: 'Vater',
+        model: 'Vater 5B',
         specs: '5B length, .595" diameter, wood tip',
-        description: "Jay's signature Vic Firth stick is built for endurance at high-energy shows — the 5B diameter gives him power without sacrificing speed.",
+        description: "Jay plays Vater 5B sticks, built for endurance at high-energy shows — the 5B diameter gives him power without sacrificing speed.",
         alternative: "Vic Firth 5B or 2B for similar weight and diameter"
       },
       heads: {
@@ -3790,7 +3790,7 @@ This guide breaks down Jay's core techniques, his SJC Custom Drums setup, and th
         kit: "Pearl Masters Maple/Gum ($1,800)",
         cymbals: "Zildjian A Custom Set ($800)",
         pedals: "DW 5000 Double Pedal ($350)",
-        sticks: "Vic Firth Jay Weinberg Signature ($15)",
+        sticks: "Vater 5B ($10)",
         notes: "Closer to Jay's actual tone. Maple shells deliver the punch and warmth his style needs."
       },
       pro: {

@@ -61069,7 +61069,7 @@ Technique matters as much as gear in thrash metal. The genre's most influential 
       title: "What Drum Kit Should I Use for Symphonic Metal?",
       content: `Symphonic metal drumming has to serve two masters at once: the extreme aggression of blast beats and double bass at black or death metal tempos, and the dynamic sensitivity a full orchestral or choir arrangement demands. That split shapes every gear decision — a kit built purely for speed can feel one-dimensional next to a string section, while a kit voiced for warmth alone won't cut through 280 BPM blast beats.
 
-Daray built the Tama Starclassic Performer B/B / Paiste RUDE rig that has carried Dimmu Borgir's full-orchestra symphonic black metal from "Abrahadabra" (2010) through 2026's "Grand Serpent Rising," a setup engineered for maximum projection against layered symphony and choir arrangements. Hellhammer's Sonor SQ2 Heavy Beech kit and Paiste RUDE cymbal setup has powered both Mayhem's foundational black metal and Dimmu Borgir's own symphonic era, making him the most versatile drummer in the genre's extreme range. Frost's Tama Starclassic Bubinga kit, played since 2013, gives Satyricon and 1349 the dynamic control needed to move between blast-beat storms and the atmospheric restraint symphonic arrangements require, while Jaska Raatikainen's Pearl Masters Premium Maple kit drove Children of Bodom's keyboard-orchestrated melodic death metal for over two decades.
+Daray built the Tama Starclassic Performer B/B / Paiste RUDE rig that has carried Dimmu Borgir's full-orchestra symphonic black metal from "Abrahadabra" (2010) through 2026's "Grand Serpent Rising," a setup engineered for maximum projection against layered symphony and choir arrangements. Hellhammer's Sonor SQ2 Heavy Beech kit and Paiste RUDE cymbal setup has powered both Mayhem's foundational black metal and Dimmu Borgir's own symphonic era, making him the most versatile drummer in the genre's extreme range. Frost's Tama Starclassic Bubinga kit, played since 2013, gives Satyricon and 1349 the dynamic control needed to move between blast-beat storms and the atmospheric restraint symphonic arrangements require, while Jaska Raatikainen's Pearl Masters Premium Maple kit drove Children of Bodom's keyboard-orchestrated melodic death metal from 2004's "Are You Dead Yet?" through the band's 2019 dissolution.
 
 This guide breaks down what actually makes a kit work for symphonic metal — projection, dynamic range, and extreme-tempo durability — and which specific kits these four influential drummers rely on, from budget-friendly starters to the professional rigs behind the genre's most orchestrally ambitious records.`,
       keyPoints: [
@@ -61258,12 +61258,12 @@ That dynamic sensitivity is exactly what symphonic metal's orchestral arrangemen
           tier: "pro",
           material: "6-ply Maple",
 
-          description: `Jaska Raatikainen drove Children of Bodom's keyboard-orchestrated melodic death metal on a Pearl Masters Premium Maple kit throughout the band's 26-year career, paired with a Pearl Masters 14"x5.5" maple snare and Pearl Eliminator double pedal. The six-ply all-maple shell pack gives a focused, projecting tone suited to Bodom's complex, high-energy material — the closest working analogue to symphonic metal's keyboard-and-orchestra hybrid outside Dimmu Borgir's own lineage.
+          description: `Jaska Raatikainen drove Children of Bodom's keyboard-orchestrated melodic death metal on a Pearl Masters Premium Maple kit from 2004's "Are You Dead Yet?" through the band's 2019 dissolution (he played Tama Starclassic from 1999-2004, on "Hatebreeder," "Follow the Reaper," and "Hate Crew Deathroll"), paired with a Pearl Masters 14"x5.5" maple snare and Pearl Eliminator double pedal. The six-ply all-maple shell pack gives a focused, projecting tone suited to Bodom's complex, high-energy material — the closest working analogue to symphonic metal's keyboard-and-orchestra hybrid outside Dimmu Borgir's own lineage.
 
 Raatikainen's twin 22"x18" kick configuration with a compact two rack tom/two floor tom spread was built specifically for melodic fill-heavy material, proving Pearl's mid-tier flagship line can hold up against the same orchestrated complexity as its premium custom siblings.`,
 
           pros: [
-            "Jaska Raatikainen's Children of Bodom setup — proven across 26 years and every studio album",
+            "Jaska Raatikainen's Children of Bodom setup — proven from 2004's \"Are You Dead Yet?\" through the band's 2019 dissolution",
             "6-ply all-maple shells for focused, projecting tone",
             "Pearl Eliminator double pedal for reliable extreme-tempo response",
             "More accessible pricing than Starclassic hybrid or SQ2 custom programs",
@@ -62689,7 +62689,7 @@ Budget shouldn't stop you either. A Tama Iron Cobra 600 or a simple single pedal
       title: "Why Symphonic Metal Needs a Snare That Cuts Through the Orchestra",
       content: `A symphonic metal snare has one job that most metal subgenres don't require: staying clearly audible underneath a full orchestra, choir, and keyboard arrangement, whether the tempo sits at a stately march or a 280 BPM blast beat. That's a much harder brief than it sounds — a snare voiced purely for extreme-metal dryness can disappear into dense orchestral layering, while a snare tuned for warmth alone can lose the crack a galloping symphonic arrangement needs to stay driving.
 
-Daray's Pearl Reference 14"x5.5" Brass snare has carried Dimmu Borgir's full-orchestra symphonic black metal from "Abrahadabra" (2010) through 2026's "Grand Serpent Rising," its brass shell chosen specifically for brightness that survives layered symphony and choir arrangements. Frost's Tama Starclassic Bubinga 14"x5.5" snare gives Satyricon and 1349 a denser, more controlled crack that still holds its own at extreme tempo. Jaska Raatikainen's Pearl Masters 14"x5.5" maple snare drove Children of Bodom's keyboard-orchestrated melodic death metal for over two decades. Hellhammer's Sonor SQ2 14"x5.5" maple snare has powered both Mayhem's foundational black metal and Dimmu Borgir's own symphonic era, proving one snare can serve raw extremity and orchestral grandeur alike.
+Daray's Pearl Reference 14"x5.5" Brass snare has carried Dimmu Borgir's full-orchestra symphonic black metal from "Abrahadabra" (2010) through 2026's "Grand Serpent Rising," its brass shell chosen specifically for brightness that survives layered symphony and choir arrangements. Frost's Tama Starclassic Bubinga 14"x5.5" snare gives Satyricon and 1349 a denser, more controlled crack that still holds its own at extreme tempo. Jaska Raatikainen's Pearl Masters 14"x5.5" maple snare drove Children of Bodom's keyboard-orchestrated melodic death metal from 2004's "Are You Dead Yet?" through the band's 2019 dissolution. Hellhammer's Sonor SQ2 14"x5.5" maple snare has powered both Mayhem's foundational black metal and Dimmu Borgir's own symphonic era, proving one snare can serve raw extremity and orchestral grandeur alike.
 
 This guide breaks down brass, bubinga, and maple snare options for symphonic metal — comparing shell material, depth, and cut-through against orchestral density — and which specific snares these four influential drummers rely on, from budget-friendly starters to the professional snares behind the genre's most orchestrally ambitious records.`,
       keyPoints: [
@@ -62837,12 +62837,12 @@ Matched to his Tama Starclassic Bubinga kit and Zildjian A Custom/K Custom Dark 
           tier: "mid-pro",
           material: "Maple (14x5.5\")",
 
-          description: `Jaska Raatikainen's Pearl Masters 14"x5.5" maple snare drove Children of Bodom's keyboard-orchestrated melodic death metal throughout the band's 26-year career, matched to his Pearl Masters Premium Maple shell pack. The warm maple tone gives a focused, projecting crack suited to Bodom's complex, high-energy material — the closest working analogue to symphonic metal's keyboard-and-orchestra hybrid outside Dimmu Borgir's own lineage.
+          description: `Jaska Raatikainen's Pearl Masters 14"x5.5" maple snare drove Children of Bodom's keyboard-orchestrated melodic death metal from 2004's "Are You Dead Yet?" through the band's 2019 dissolution, matched to his Pearl Masters Premium Maple shell pack (he ran a Tama Starclassic setup from 1999-2004, on "Hatebreeder," "Follow the Reaper," and "Hate Crew Deathroll"). The warm maple tone gives a focused, projecting crack suited to Bodom's complex, high-energy material — the closest working analogue to symphonic metal's keyboard-and-orchestra hybrid outside Dimmu Borgir's own lineage.
 
-Unchanged from the band's earliest fully-documented setup through its 2019 farewell tour, the snare proves a warm, mid-tier shell can hold its own against orchestrated complexity without needing a brass or custom-program upgrade.`,
+Unchanged from "Are You Dead Yet?" through the band's 2019 farewell tour, the snare proves a warm, mid-tier shell can hold its own against orchestrated complexity without needing a brass or custom-program upgrade.`,
 
           pros: [
-            "Jaska Raatikainen's Children of Bodom setup — proven across 26 years and every studio album",
+            "Jaska Raatikainen's Children of Bodom setup — proven from 2004's \"Are You Dead Yet?\" through the band's 2019 dissolution",
             "Warm maple tone gives focused, projecting crack for keyboard-orchestrated material",
             "More accessible pricing than brass or fully custom alternatives",
             "Pearl Masters build quality holds tuning through relentless touring",
@@ -95442,14 +95442,14 @@ Whichever you choose, remember that symphonic metal's most acclaimed recordings 
       title: "Why Symphonic Metal Demands a Different Kind of Pedal",
       content: `Symphonic metal pedal requirements sit at the intersection of extreme metal's sustained blast-beat endurance and the dynamic sensitivity a full orchestral or choir arrangement demands. A pedal built purely for speed can feel clumsy against a delicate string passage; a pedal voiced only for touch won't survive 200+ BPM blast beats night after night.
 
-Daray drives his Tama Starclassic Performer B/B kit with a Pearl Demon Drive double pedal, built for the sustained reliability Dimmu Borgir's full-orchestra symphonic black metal demands. Hellhammer uses an Axis Double Pedal across both Mayhem's raw black metal and Dimmu Borgir's symphonic era, prizing its precision engineering at extreme speed. Frost of Satyricon and 1349 relies on a Tama Iron Cobra Power Glide pedal for the dynamic control his material's shifts between blast-beat storms and theatrical restraint require, while Jaska Raatikainen drove Children of Bodom's keyboard-orchestrated melodic death metal on a Pearl Eliminator double pedal for over two decades.
+Daray drives his Tama Starclassic Performer B/B kit with a Pearl Demon Drive double pedal, built for the sustained reliability Dimmu Borgir's full-orchestra symphonic black metal demands. Hellhammer uses an Axis Double Pedal across both Mayhem's raw black metal and Dimmu Borgir's symphonic era, prizing its precision engineering at extreme speed. Frost of Satyricon and 1349 relies on a Tama Iron Cobra Power Glide pedal for the dynamic control his material's shifts between blast-beat storms and theatrical restraint require, while Jaska Raatikainen drove Children of Bodom's keyboard-orchestrated melodic death metal on a Pearl Eliminator double pedal from 2004's "Are You Dead Yet?" through the band's 2019 dissolution.
 
 This guide breaks down what actually makes a pedal work for symphonic metal — blast-beat endurance, dynamic sensitivity, and dual-band touring durability — and which specific pedals these four influential drummers rely on, from budget-friendly starters to the professional rigs behind the genre's most orchestrally ambitious records.`,
       keyPoints: [
         "Daray's Pearl Demon Drive is built for sustained reliability across Dimmu Borgir's full-orchestra material",
         "Hellhammer's Axis Double Pedal delivers precision across both Mayhem and Dimmu Borgir",
         "Frost's Tama Iron Cobra Power Glide pedal prioritizes the dynamic control symphonic metal's restraint demands",
-        "Jaska Raatikainen's Pearl Eliminator proved reliable across 26 years of Children of Bodom's orchestrated material"
+        "Jaska Raatikainen's Pearl Eliminator proved reliable from 2004's \"Are You Dead Yet?\" through Children of Bodom's 2019 dissolution"
       ]
     },
 
@@ -95472,7 +95472,7 @@ This guide breaks down what actually makes a pedal work for symphonic metal — 
         {
           name: "Sustained Reliability",
           icon: "🔄",
-          description: "Jaska Raatikainen's Pearl Eliminator held up across Children of Bodom's entire 26-year career and every studio album — proof that consistent, dependable action over the long term matters more than novelty features.",
+          description: "Jaska Raatikainen's Pearl Eliminator held up from 2004's \"Are You Dead Yet?\" through Children of Bodom's 2019 dissolution — proof that consistent, dependable action over the long term matters more than novelty features.",
           recommendation: "A proven, durable double pedal design with a long professional track record"
         },
         {
@@ -95630,12 +95630,12 @@ That dynamic sensitivity is exactly what symphonic metal's orchestral arrangemen
           tier: "mid-pro",
           driveType: "Chain with Interchangeable Cams",
 
-          description: `Jaska Raatikainen drove Children of Bodom's keyboard-orchestrated melodic death metal on a Pearl Eliminator double pedal throughout the band's 26-year career, paired with his Pearl Masters Premium Maple kit and Pearl Masters 14"x5.5" maple snare. The chain drive with interchangeable cams gave him the flexibility to dial in the right balance of swing and precision for Bodom's complex, high-energy material.
+          description: `Jaska Raatikainen drove Children of Bodom's keyboard-orchestrated melodic death metal on a Pearl Eliminator double pedal from 2004's "Are You Dead Yet?" through the band's 2019 dissolution, paired with his Pearl Masters Premium Maple kit and Pearl Masters 14"x5.5" maple snare (he ran a Tama Starclassic setup from 1999-2004, on "Hatebreeder," "Follow the Reaper," and "Hate Crew Deathroll"). The chain drive with interchangeable cams gave him the flexibility to dial in the right balance of swing and precision for Bodom's complex, high-energy material.
 
-Raatikainen's two-and-a-half decades on this single pedal design — through every Children of Bodom studio album — is itself the strongest evidence for the Eliminator's reliability at the professional level, the closest working analogue to symphonic metal's keyboard-and-orchestra hybrid outside Dimmu Borgir's own lineage.`,
+Raatikainen's run on this pedal design from "Are You Dead Yet?" through every subsequent Children of Bodom studio album is itself strong evidence for the Eliminator's reliability at the professional level, the closest working analogue to symphonic metal's keyboard-and-orchestra hybrid outside Dimmu Borgir's own lineage.`,
 
           pros: [
-            "Jaska Raatikainen's Children of Bodom setup — proven across 26 years and every studio album",
+            "Jaska Raatikainen's Children of Bodom setup — proven from 2004's \"Are You Dead Yet?\" through the band's 2019 dissolution",
             "Interchangeable cams for customizable feel",
             "NiNjA bearings for smooth, enduring action",
             "More accessible pricing than Demon XR or Demon Drive",
@@ -95654,7 +95654,7 @@ Raatikainen's two-and-a-half decades on this single pedal design — through eve
             weight: "3.8 kg (pair)"
           },
           usedBy: [
-            { name: "Jaska Raatikainen", band: "Children of Bodom", note: "Pearl Eliminator — 26 years of keyboard-orchestrated melodic precision" }
+            { name: "Jaska Raatikainen", band: "Children of Bodom", note: "Pearl Eliminator — 2004-2019, keyboard-orchestrated melodic precision" }
           ],
           verdict: "Best value pro-level pedal for keyboard-orchestrated symphonic and melodic death metal hybrids.",
           rating: 4.5,
@@ -95698,7 +95698,7 @@ Raatikainen's two-and-a-half decades on this single pedal design — through eve
 **Chain Drive (Tama Iron Cobra Power Glide — Frost; Pearl Eliminator — Raatikainen):**
 - Slight natural swing that rewards nuanced dynamic control
 - Frost's Power Glide proves chain drive handles orchestral restraint just as well as raw blast-beat force
-- Raatikainen's 26-year track record on the Eliminator proves chain drive holds up under sustained professional use
+- Raatikainen's 2004-2019 track record on the Eliminator proves chain drive holds up under sustained professional use
 - Generally more accessible pricing
 
 **The Truth:** All four approaches have carried some of symphonic metal's most acclaimed recordings. Daray's and Hellhammer's direct drive choices suit drummers whose material leans toward maximum blast-beat reliability. Frost's and Raatikainen's chain drive choices prove that dynamic sensitivity and long-term durability serve orchestral complexity just as effectively.
@@ -95734,7 +95734,7 @@ Raatikainen's two-and-a-half decades on this single pedal design — through eve
         {
           category: "Best Value",
           pedal: "Pearl Eliminator Redline",
-          reason: "Jaska Raatikainen's 26-year Children of Bodom setup — proven reliability for keyboard-orchestrated material."
+          reason: "Jaska Raatikainen's 2004-2019 Children of Bodom setup — proven reliability for keyboard-orchestrated material."
         }
       ]
     },
@@ -95776,7 +95776,7 @@ Raatikainen's two-and-a-half decades on this single pedal design — through eve
       },
       {
         question: "What pedal did Jaska Raatikainen use in Children of Bodom?",
-        answer: "Jaska Raatikainen played a Pearl Eliminator double pedal throughout Children of Bodom's entire 26-year career, paired with his Pearl Masters Premium Maple kit — proof of the Eliminator's reliability across every studio album the band released."
+        answer: "Jaska Raatikainen played a Pearl Eliminator double pedal from 2004's \"Are You Dead Yet?\" through Children of Bodom's 2019 dissolution, paired with his Pearl Masters Premium Maple kit (he ran Tama Starclassic gear from 1999-2004) — proof of the Eliminator's reliability across every studio album from that era."
       },
       {
         question: "Direct drive or chain drive for symphonic metal?",
@@ -95787,7 +95787,7 @@ Raatikainen's two-and-a-half decades on this single pedal design — through eve
     // Conclusion
     conclusion: {
       title: "Find Your Symphonic Metal Pedal Voice",
-      content: `Symphonic metal pedal choice comes down to how your material balances blast-beat extremity against orchestral restraint. Daray's Pearl Demon Drive and Hellhammer's Axis Double Pedal prove that direct-drive precision can carry Dimmu Borgir's most ambitious full-orchestra productions and Mayhem's raw extremity alike. Frost's Tama Iron Cobra Power Glide proves that chain-drive dynamic sensitivity serves Satyricon's shifts between blast beats and theatrical restraint just as well. Jaska Raatikainen's 26-year run on a single Pearl Eliminator shows that proven reliability matters more than novelty over a long career.
+      content: `Symphonic metal pedal choice comes down to how your material balances blast-beat extremity against orchestral restraint. Daray's Pearl Demon Drive and Hellhammer's Axis Double Pedal prove that direct-drive precision can carry Dimmu Borgir's most ambitious full-orchestra productions and Mayhem's raw extremity alike. Frost's Tama Iron Cobra Power Glide proves that chain-drive dynamic sensitivity serves Satyricon's shifts between blast beats and theatrical restraint just as well. Jaska Raatikainen's 2004-2019 run on a single Pearl Eliminator shows that proven reliability matters more than novelty over a long career.
 
 Whichever you choose, remember that symphonic metal's most acclaimed recordings were made by drummers who mastered the transition between extremity and orchestral restraint — not by gear alone.
 
@@ -107018,13 +107018,13 @@ Whatever you choose: dial in heavier tension for the down-tuned groove first, th
       title: "Why Symphonic Metal Needs Consistent, Reliable Double Bass Above All Else",
       content: `Symphonic metal's double bass work sits underneath full orchestral or choir arrangements, and its most important job isn't raw top-end speed — it's staying rock-solid and consistent at mid-to-fast tempo so the orchestration on top has a dependable foundation to sit against. A pedal that drifts or loses its feel mid-song throws off the entire arrangement, not just the drum part.
 
-Daray drives his Tama Starclassic Performer B/B kit with a Pearl Demon Drive double pedal, built for the sustained reliability Dimmu Borgir's full-orchestra symphonic black metal demands. Hellhammer uses an Axis Double Pedal across both Mayhem's raw black metal and Dimmu Borgir's symphonic era, prizing its precision engineering for consistent speed night after night. Frost of Satyricon and 1349 relies on a Tama Iron Cobra Power Glide pedal for the dynamic control his material's shifts between blast-beat storms and theatrical restraint require, while Jaska Raatikainen drove Children of Bodom's keyboard-orchestrated melodic death metal on a Pearl Eliminator double pedal for over two decades without missing a beat.
+Daray drives his Tama Starclassic Performer B/B kit with a Pearl Demon Drive double pedal, built for the sustained reliability Dimmu Borgir's full-orchestra symphonic black metal demands. Hellhammer uses an Axis Double Pedal across both Mayhem's raw black metal and Dimmu Borgir's symphonic era, prizing its precision engineering for consistent speed night after night. Frost of Satyricon and 1349 relies on a Tama Iron Cobra Power Glide pedal for the dynamic control his material's shifts between blast-beat storms and theatrical restraint require, while Jaska Raatikainen drove Children of Bodom's keyboard-orchestrated melodic death metal on a Pearl Eliminator double pedal from 2004's "Are You Dead Yet?" through the band's 2019 dissolution without missing a beat.
 
 This guide breaks down what actually makes a bass drum pedal work for symphonic metal — mid-to-fast consistency, sustained reliability, and dynamic sensitivity beneath an orchestral mix — with specific pedal recommendations from budget-friendly starters through the professional rigs behind the genre's most orchestrally ambitious records.`,
       keyPoints: [
         "Symphonic metal rewards consistent, reliable mid-to-fast double bass over raw top-end speed — the orchestration on top depends on a dependable foundation",
         "Daray's Pearl Demon Drive is built for sustained reliability across Dimmu Borgir's full-orchestra material",
-        "Jaska Raatikainen's Pearl Eliminator proved reliable across 26 years of Children of Bodom's orchestrated material without missing a beat",
+        "Jaska Raatikainen's Pearl Eliminator proved reliable from 2004's \"Are You Dead Yet?\" through Children of Bodom's 2019 dissolution without missing a beat",
         "A pedal that drifts or loses feel mid-song throws off the entire orchestral arrangement, not just the drum part"
       ]
     },
@@ -107042,7 +107042,7 @@ This guide breaks down what actually makes a bass drum pedal work for symphonic 
         {
           name: "Sustained Reliability Across Long Sets",
           icon: "🛡️",
-          description: "Jaska Raatikainen's Pearl Eliminator held up across Children of Bodom's entire 26-year career and every studio album — proof that consistent, dependable action over the long term matters more than novelty features when an orchestral arrangement depends on it.",
+          description: "Jaska Raatikainen's Pearl Eliminator held up from 2004's \"Are You Dead Yet?\" through Children of Bodom's 2019 dissolution — proof that consistent, dependable action over the long term matters more than novelty features when an orchestral arrangement depends on it.",
           recommendation: "A proven, durable double pedal design with a long professional track record"
         },
         {
@@ -107189,11 +107189,11 @@ That dynamic range, combined with reliable mid-to-fast consistency, makes it a s
           priceRange: "€250-350 per double set",
           tier: "budget",
           driveType: "Dual Chain Drive",
-          description: `Jaska Raatikainen drove Children of Bodom's keyboard-orchestrated melodic death metal on a Pearl Eliminator double pedal for over two decades — proof that a durable, accessible chain-drive pedal can deliver the sustained, reliable consistency symphonic material demands across a full career.
+          description: `Jaska Raatikainen drove Children of Bodom's keyboard-orchestrated melodic death metal on a Pearl Eliminator double pedal from 2004's "Are You Dead Yet?" through the band's 2019 dissolution — proof that a durable, accessible chain-drive pedal can deliver the sustained, reliable consistency symphonic material demands.
 
 The interchangeable cam system and dual-chain drive gave Raatikainen dependable mid-to-fast double bass night after night beneath Children of Bodom's dense, keyboard-led arrangements.`,
           pros: [
-            "Jaska Raatikainen's proven Children of Bodom setup — over two decades of reliable use",
+            "Jaska Raatikainen's proven Children of Bodom setup — reliable from 2004's \"Are You Dead Yet?\" through 2019",
             "Interchangeable cams for tuning mid-to-fast consistency",
             "Dual-chain drive built for sustained, dependable response",
             "Accessible price for genuinely proven durability"
@@ -107210,9 +107210,9 @@ The interchangeable cam system and dual-chain drive gave Raatikainen dependable 
             footboard: "Standard length"
           },
           usedBy: [
-            { name: "Jaska Raatikainen", band: "Children of Bodom", note: "Over two decades of reliable, orchestrated melodic death metal" }
+            { name: "Jaska Raatikainen", band: "Children of Bodom", note: "2004-2019, reliable orchestrated melodic death metal" }
           ],
-          verdict: "Best budget-friendly pedal with a proven, multi-decade track record of reliability.",
+          verdict: "Best budget-friendly pedal with a proven track record of reliability.",
           rating: 4.4,
           affiliateLink: "https://www.thomann.de/intl/pearl_p2052c_eliminator_double_pedal.htm?partner_id=metalforge"
         }
@@ -107231,8 +107231,8 @@ The interchangeable cam system and dual-chain drive gave Raatikainen dependable 
           priceRange: "€250-350 per double set",
           tier: "budget",
           material: "Steel/aluminum hybrid",
-          description: "Jaska Raatikainen's proven Children of Bodom pedal — over two decades of reliable, dependable double bass at an accessible price.",
-          pros: ["Jaska Raatikainen's proven, multi-decade setup", "Interchangeable cams for tuning consistency", "Accessible price for proven durability"],
+          description: "Jaska Raatikainen's proven Children of Bodom pedal — reliable, dependable double bass at an accessible price from 2004's \"Are You Dead Yet?\" through the band's 2019 dissolution.",
+          pros: ["Jaska Raatikainen's proven, 2004-2019 Pearl-era setup", "Interchangeable cams for tuning consistency", "Accessible price for proven durability"],
           cons: ["Not as fast as premium direct-drive pedals at extreme tempo"],
           verdict: "The budget choice for symphonic metal's reliable, consistent double bass foundation.",
           rating: 4.4,
@@ -107258,7 +107258,7 @@ The interchangeable cam system and dual-chain drive gave Raatikainen dependable 
         {
           category: "Best Budget",
           pedal: "Pearl Eliminator",
-          reason: "Jaska Raatikainen's proven entry point — over two decades of reliable, dependable double bass without flagship pricing."
+          reason: "Jaska Raatikainen's proven entry point — reliable, dependable double bass from 2004-2019 without flagship pricing."
         }
       ]
     },
@@ -107274,7 +107274,7 @@ The interchangeable cam system and dual-chain drive gave Raatikainen dependable 
       { slug: 'daray', name: 'Daray', reason: 'Pearl Demon Drive — sustained reliability beneath Dimmu Borgir\'s full-orchestra material' },
       { slug: 'hellhammer', name: 'Hellhammer', reason: 'Axis Double Pedal — precision across Mayhem and Dimmu Borgir' },
       { slug: 'frost', name: 'Frost', reason: 'Tama Iron Cobra Power Glide — dynamic control between blast-beat storms and theatrical restraint' },
-      { slug: 'jaska-raatikainen', name: 'Jaska Raatikainen', reason: 'Pearl Eliminator — over two decades of reliable Children of Bodom double bass' }
+      { slug: 'jaska-raatikainen', name: 'Jaska Raatikainen', reason: 'Pearl Eliminator — reliable Children of Bodom double bass, 2004-2019' }
     ],
 
     featuredDrummers: [
@@ -107298,11 +107298,11 @@ The interchangeable cam system and dual-chain drive gave Raatikainen dependable 
       },
       {
         question: "What pedal does Jaska Raatikainen use?",
-        answer: "Jaska Raatikainen drove Children of Bodom's keyboard-orchestrated melodic death metal on a Pearl Eliminator double pedal for over two decades, proving that a durable, accessible chain-drive pedal can deliver the sustained reliability symphonic material demands across a full career."
+        answer: "Jaska Raatikainen drove Children of Bodom's keyboard-orchestrated melodic death metal on a Pearl Eliminator double pedal from 2004's \"Are You Dead Yet?\" through the band's 2019 dissolution, proving that a durable, accessible chain-drive pedal can deliver the sustained reliability symphonic material demands."
       },
       {
         question: "What's a good budget bass drum pedal for symphonic metal?",
-        answer: "The Pearl Eliminator (around €250-350) — the same pedal Jaska Raatikainen used across Children of Bodom's 26-year career — gives you an interchangeable cam system and dual-chain drive for dependable mid-to-fast consistency without flagship pricing."
+        answer: "The Pearl Eliminator (around €250-350) — the same pedal Jaska Raatikainen used from 2004's \"Are You Dead Yet?\" through Children of Bodom's 2019 dissolution — gives you an interchangeable cam system and dual-chain drive for dependable mid-to-fast consistency without flagship pricing."
       }
     ],
 
@@ -107311,7 +107311,7 @@ The interchangeable cam system and dual-chain drive gave Raatikainen dependable 
       title: "Build a Foundation the Orchestration Can Trust",
       content: `Symphonic metal's double bass work only succeeds if it's rock-solid and consistent underneath a full orchestral or choir arrangement — Daray's Pearl Demon Drive and Hellhammer's Axis Double Pedal both prove that reliable, direct-drive precision at mid-to-fast tempo matters more than chasing the fastest possible blast beat. Frost's Tama Iron Cobra Power Glide shows that dynamic control beneath orchestration is just as essential.
 
-For most symphonic metal drummers, the Pearl Demon XR is the clearest choice for locking double bass in beneath a dense arrangement. If you also need extreme blast-beat capability for a raw black metal side project, Hellhammer's Axis Double Pedal covers both ends. And Jaska Raatikainen's Pearl Eliminator proves a budget-friendly pedal can deliver two decades of dependable, career-spanning reliability.
+For most symphonic metal drummers, the Pearl Demon XR is the clearest choice for locking double bass in beneath a dense arrangement. If you also need extreme blast-beat capability for a raw black metal side project, Hellhammer's Axis Double Pedal covers both ends. And Jaska Raatikainen's Pearl Eliminator proves a budget-friendly pedal can deliver dependable reliability across a 2004-2019 professional run.
 
 Whatever you choose: prioritize consistency first, then build speed and dynamics on top of it.
 

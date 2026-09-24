@@ -11030,21 +11030,21 @@ export const DRUMMER_EVOLUTION = {
         years: '1995–2001',
         startYear: 1995,
         endYear: 2001,
-        description: 'Demanufacture (1995) and Obsolete (1998) are the records that defined industrial metal drumming. Herrera moved to Pearl Reference Series and built out a full ddrum/Roland trigger system across kick, snare, and toms — fusing acoustic shell resonance with electronically processed samples to create the "machine-like" precision that became Fear Factory\'s signature. Digimortal (2001) extended this hybrid approach into the band\'s commercial peak.',
+        description: 'Demanufacture (1995) and Obsolete (1998) are the records that defined industrial metal drumming. Herrera kept his Tama Starclassic kit and built out a full ddrum/Roland trigger system across kick, snare, and toms — fusing acoustic shell resonance with electronically processed samples to create the "machine-like" precision that became Fear Factory\'s signature. Digimortal (2001) extended this hybrid approach into the band\'s commercial peak.',
         albums: ['Demanufacture (1995)', 'Obsolete (1998)', 'Digimortal (2001)'],
         tours: ['Demanufacture World Tour 1995–1996', 'Ozzfest 1997, 1999, 2001', 'Obsolete World Tour 1998–1999'],
         image: null,
 
         gear: {
           drums: {
-            item: 'Pearl Reference Series',
+            item: 'Tama Starclassic (with triggering)',
             details: 'Maple shells: dual 22" kicks, 10"/12"/14"/16" toms — fully triggered',
-            notes: 'Pearl Reference maple shells provided the consistent acoustic foundation needed for reliable trigger response — essential for Demanufacture\'s machine-gun double-kick passages.',
-            change: CHANGE_TYPES.UPGRADE,
+            notes: 'The Tama Starclassic maple shells provided the consistent acoustic foundation needed for reliable trigger response — essential for Demanufacture\'s machine-gun double-kick passages.',
+            change: null,
           },
           snare: {
-            item: 'Pearl Custom 14"×6.5" (triggered)',
-            details: 'Steel shell with integral trigger',
+            item: 'Tama 14"×6.5" Brass (triggered)',
+            details: 'Brass shell with integral trigger',
             notes: 'Triggered snare let producers Ross Robinson and Rhys Fulber layer a processed, mechanical sample over the acoustic crack — the defining Fear Factory snare sound.',
             change: CHANGE_TYPES.UPGRADE,
           },
@@ -11055,9 +11055,9 @@ export const DRUMMER_EVOLUTION = {
             change: CHANGE_TYPES.SWITCH,
           },
           hardware: {
-            item: 'Pearl Eliminator Double Pedal',
-            details: 'Refined cam-driven double pedal',
-            notes: 'Continued and refined Eliminator double pedal driving the machine-gun double-kick patterns at the heart of "Replica" and the Demanufacture title track.',
+            item: 'DW 5000 Series',
+            details: 'Cam-driven double pedal',
+            notes: 'DW 5000 double pedal driving the machine-gun double-kick patterns at the heart of "Replica" and the Demanufacture title track.',
             change: null,
           },
           sticks: {

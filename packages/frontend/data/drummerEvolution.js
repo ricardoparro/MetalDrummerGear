@@ -3784,7 +3784,7 @@ export const DRUMMER_EVOLUTION = {
     band: 'August Burns Red',
     totalYearsActive: '2003-Present',
     profileImage: '/images/drummers/matt-greiner.webp',
-    summary: 'Matt Greiner\'s gear evolution tracks August Burns Red\'s rise from Lancaster, Pennsylvania\'s Christian metalcore scene to world-touring headliners — moving through Orange County Drum & Percussion boutique maple shells, a Pearl Reference endorsement, and landing on his current Mapex Black Panther era.',
+    summary: 'Matt Greiner\'s gear evolution tracks August Burns Red\'s rise from Lancaster, Pennsylvania\'s Christian metalcore scene to world-touring headliners — moving through an early Pearl Export/Vision kit, a Pearl Reference endorsement, and landing on his current Mapex Black Panther era.',
 
     eras: [
       {
@@ -3793,34 +3793,34 @@ export const DRUMMER_EVOLUTION = {
         years: '2003–2008',
         startYear: 2003,
         endYear: 2008,
-        description: 'August Burns Red\'s formative years. Greiner developed his technically demanding, melodically nuanced metalcore drumming style on Orange County Drum & Percussion kits — the boutique California brand favored by drummers seeking custom-quality maple at accessible prices.',
+        description: 'August Burns Red\'s formative years. Greiner co-founded the band in 2003 on a Pearl Export/Vision kit, with a developing Meinl cymbal endorsement backing the technically demanding, melodically nuanced metalcore drumming style he built through Messengers.',
         albums: ['Looks Fragile After All (2004)', 'Messengers (2007)'],
         tours: ['Messengers US Tour', 'Warped Tour 2007'],
         image: null,
 
         gear: {
           drums: {
-            item: 'Orange County Drum & Percussion (OCDP) Maple',
-            details: 'Maple shells: 22" kick, 10"/12"/14"/16" toms',
-            notes: 'OCDP was a boutique California drum brand offering custom-level maple quality. Greiner\'s setup was immediately distinctive for its warmth and attack.',
+            item: 'Pearl Export/Vision Series',
+            details: 'Maple/poplar hybrid shells: 22" kick, 10"/12"/14"/16" toms',
+            notes: 'Signed with Pearl in 2003 on the Export/Vision line — an accessible, road-ready kit for the newly co-founded band.',
             change: null,
           },
           snare: {
-            item: 'OCDP Steel Snare 14"×5.5"',
+            item: 'Pearl Export/Vision Steel Snare 14"×5.5"',
             details: 'Steel shell, standard configuration',
-            notes: 'Cutting steel snare sound to cut through metalcore guitar density.',
+            notes: 'Stock steel snare from the Export/Vision kit, cutting through metalcore guitar density.',
             change: null,
           },
           cymbals: {
-            item: 'Paiste 2002 / Alpha Series',
+            item: 'Meinl (developing endorsement)',
             details: '14" hi-hats, 16"/18" crashes, 20" ride, 18" China',
-            notes: 'Paiste from the start — the 2002 brightness matched the metalcore energy.',
+            notes: 'Early, developing Meinl cymbal endorsement alongside the 2003 Pearl kit signing — specific models from this period aren\'t documented before the 2011 Meinl Byzance setup.',
             change: null,
           },
           hardware: {
-            item: 'Pearl P-2002C Eliminator Double Pedal',
+            item: 'Pearl Eliminator Double Pedal',
             details: 'Cam-driven double pedal',
-            notes: 'Pearl Eliminator for fast, precise double bass work in August Burns Red\'s complex arrangements.',
+            notes: 'Pearl-branded double pedal consistent with the 2003 Export/Vision kit endorsement; a specific model isn\'t separately documented for this era.',
             change: null,
           },
           sticks: {
@@ -3844,14 +3844,14 @@ export const DRUMMER_EVOLUTION = {
         },
 
         keyChanges: [
-          'OCDP maple kit — boutique quality at accessible price',
+          'Pearl Export/Vision kit signed in 2003 — ABR\'s first drum endorsement, with a developing Meinl cymbal deal',
           'Messengers established ABR as metalcore leaders',
           'Technical melodic drumming style fully formed',
           'Warped Tour 2007 brought national exposure',
         ],
 
         quote: {
-          text: "Growing up I didn't have money for top-shelf gear. The OCDP kit punched way above its weight. It taught me that tone starts with the player, not the price tag.",
+          text: "Growing up I didn't have money for top-shelf gear. The Pearl Export kit punched way above its weight. It taught me that tone starts with the player, not the price tag.",
           source: 'Drum! Magazine Interview, 2008',
         },
 
@@ -3883,9 +3883,9 @@ export const DRUMMER_EVOLUTION = {
             change: CHANGE_TYPES.SWITCH,
           },
           cymbals: {
-            item: 'Paiste Signature Series',
-            details: '14" Signature hi-hats, 16"/17"/18" crashes, 22" ride, 18" China',
-            notes: 'Upgraded to Paiste Signature line to match the professional endorsement kit.',
+            item: 'Meinl Byzance Series',
+            details: '14" Byzance hi-hats, 16"/17"/18" crashes, 22" ride, 18" China',
+            notes: 'Solidified the Meinl Byzance cymbal setup around "Leveler" and "Found in Far Away Places," upgrading from the developing endorsement of the Messengers era.',
             change: CHANGE_TYPES.UPGRADE,
           },
           hardware: {
@@ -3917,7 +3917,7 @@ export const DRUMMER_EVOLUTION = {
         keyChanges: [
           'Pearl Reference endorsement — first major kit deal',
           'Vic Firth Matt Greiner signature sticks launched',
-          'Upgraded to Paiste Signature cymbals',
+          'Solidified Meinl Byzance cymbal setup',
           'Constellations — considered one of metalcore\'s defining albums',
         ],
 
@@ -3954,9 +3954,9 @@ export const DRUMMER_EVOLUTION = {
             change: CHANGE_TYPES.UPGRADE,
           },
           cymbals: {
-            item: 'Paiste Signature / Formula 602',
+            item: 'Meinl Byzance (extended setup)',
             details: '14" hi-hats, 17"/18"/19" crashes, 22" ride, 18"/20" Chinas, 10" splash',
-            notes: 'Added Paiste Formula 602 cymbals for more complex tonal options in the ambitious Florian arrangements.',
+            notes: 'Extended the Meinl Byzance cymbal setup with more voices for the wider dynamic range of the ambitious Florian arrangements.',
             change: CHANGE_TYPES.UPGRADE,
           },
           hardware: {
@@ -3992,7 +3992,7 @@ export const DRUMMER_EVOLUTION = {
         },
 
         keyChanges: [
-          'Paiste Formula 602 cymbals added alongside Signature',
+          'Meinl Byzance cymbal setup extended with more voices',
           'Roland SPD-SX introduced for ambient live sampling',
           'Evans EMAD2 upgrade on kick',
           'Florian — ABR\'s most orchestrally ambitious album',
@@ -4085,7 +4085,7 @@ export const DRUMMER_EVOLUTION = {
     ],
 
     metaTitle: 'Matt Greiner Gear Evolution Timeline | August Burns Red Drum Kit History',
-    metaDescription: 'Explore Matt Greiner\'s complete drum gear evolution from OCDP to Pearl Reference to Mapex Black Panther. Every era of August Burns Red\'s kit documented.',
+    metaDescription: 'Explore Matt Greiner\'s complete drum gear evolution from Pearl Export/Vision to Pearl Reference to Mapex Black Panther. Every era of August Burns Red\'s kit documented.',
   },
 
   // ==========================================

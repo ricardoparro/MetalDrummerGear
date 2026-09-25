@@ -5,6 +5,32 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-09-25 03:31 UTC*
 
 ---
+## 2026-09-25 21:06 — Evening review: 8/8 fresh proposals verified and promoted (#8143-8150)
+
+### Context (≤3 lines)
+First run after 19:00 UTC (evening review). Metrics 21:06 UTC (326 users/380 sessions/533 views 7d; GSC 9,944 impr/206 clicks/2.07% CTR/pos 7.4 — new fetch, up from ~8.4K impr). At run start: eligible `ai-fix` backlog **0** (mid-day's #8133-8136 + #8126 already merged — confirmed via `git log` showing all 5 fix commits landed), **8** fresh untriaged `seo-proposal` (#8143-8150, filed 17:48-17:50 UTC) continuing today's fabrication sweep across `genreGearGuides.js`/`gearPriceHistory.js`/`albumArticles/gene-hoglan.js`/`drummerEvolution.js`/`extendedBios.js`/`albumArticles/daniel-erlandsson.js`/`soundLikeGuides.js`.
+
+### Actions taken
+- **Live-verified all 8 fresh proposals via direct grep** against current source vs. `endorsementNews.js`/`extendedBios.js` ground truth: #8143 (Jay Weinberg — `genreGearGuides.js` splash guide still says "Slayer" at 2 locations, verified current band Suicidal Tendencies), #8144 (Nick Barker — scoped re-check of the exact `gearPriceHistory.js` entry at lines ~9417-9433 confirmed a fabricated "Paiste RUDE/Dimensions" cymbals field + fake catalog source + priced total, vs. `extendedBios.js`'s own "not publicly documented" FAQ ruling for the same field; my first broad grep pass was polluted by unrelated Paiste hits for other drummers elsewhere in the file, rescoped before trusting it), #8145 (Richard Christy — Gene Hoglan's own article credits Christy with "Symbolic" at 2 related-links blocks despite Hoglan himself recording it; Christy's only Death album is The Sound of Perseverance 1998), #8146 (Mario Duplantier — `mario-2005-from-mars` 2005-2008 block fabricates a Gretsch/DW era + fake MD quote, `endorsementNews.js` shows only one drums timeline entry ever, a 2010 Tama signing — same bug class #7921 fixed in the adjacent later block), #8147 (Daray — "Pearl Demon XR" cross-contaminated from George Kollias's own co-designed pedal into Daray's `extendedBios.js` (3 spots) and `drummerEvolution.js` (3 spots incl. FAQ), verified Daray's actual pedal is "Pearl Demon Drive"; #7783 already fixed this in `genreGearGuides.js` only), #8148 (Daniel Erlandsson — article's own FAQ explicitly refutes its own title: "Daniel Erlandsson has never been the drummer for At The Gates," yet `title`/`metaTitle` and the catalog mirror both still say "At The Gates & Arch Enemy Kit Guide"), #8149 (Jason Bittner — `soundLikeGuides.js` still says he joined Overkill in 2012 at 2 locations, `extendedBios.js` consistently uses verified 2017; #6293 already fixed this identical fact in `albumArticles.js` only), #8150 (Nick Menza — `nick-menza-1990-rust-in-peace` block claims a Pearl Masters switch already happened for Rust in Peace 1990, but `endorsementNews.js` shows Rust in Peace was Tama and the Pearl switch was 1992 for Countdown to Extinction). 8/8 confirmed accurate, zero file/line overlap between issues, text-only corrections on existing pages — freeze-compliant. Dupe-checked all 8 via `gh issue list --search` — no overlapping open issue. Promoted all 8 (`ai-fix`).
+- **GSC content-gap**: both flagged rows (`danny carey drum set` 79 impr/1.27% CTR, `mario duplantier drum kit` 87 impr/1.15% CTR) re-confirmed against `learned-patterns.md` lines 236 (danny-carey page-level exhausted-lever ruling) and 205 (mario-duplantier known gear-qualified oscillator) — both already ruled, no new fix filed.
+- **L1/L2/L3**: all snapshots still dated 2026-09-21 (already closed out that day) — next refresh due 2026-09-28 (Monday), not due. No open `gsc-watch`/`llm-citations`/`indexation-watch` issues needing action.
+- **Founder ideas**: inbox empty, unchanged since 2026-06-19. **Human-founder blockers**: #5141/#5100/#4892/#875/#529/#526/#525 — all `updatedAt` unchanged, no re-spam.
+- **Atomic-split sweep**: nothing eligible — all 8 non-hold `ai-fix` issues are same-day fresh (created 17:48-17:50 UTC today).
+- **Starvation check**: not triggered — bank was 8 (>2) at run start.
+
+### State delta
+- ai-fix backlog (eligible): 0 → 8 (#8143-8150 added)
+- seo-proposal bank (excl. umbrellas #2211/#3810/#3819, human-held #7981): 8 fresh → 0 untriaged
+
+### Quota check
+✅ SEO proposals: 8/8 fresh triaged, live-verified against source (one rescoped after an over-broad first grep), all promoted. ✅ Founder ideas: inbox empty. ✅ GSC-gap: both rows already-exhausted/oscillating rulings reconfirmed. ✅ L1/L2/L3: not due until 09-28. ✅ Starvation: non-event. ✅ Atomic split: nothing eligible. ✅ Decisions logged.
+
+### Next Run
+1. Watch #8143-8150 pick up via Roadie.
+2. Next L1/L2/L3 weekly refresh due 2026-09-28 (Monday) — full close-the-loop pass once it lands.
+3. #5141/#5100/#4892/#875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---
 ## 2026-09-25 11:11 — Daily deep run: 8/8 fresh proposals promoted (#8108-8115), root-caused a 'Pearl Demon Drive' boilerplate-fabrication pattern → 2 new ai-fix (#8125-8126)
 
 ### Context (≤3 lines)

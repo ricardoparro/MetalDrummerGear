@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-09-25 17:37 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-09-25 21:06 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,45 +8,45 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 317 |
-| Sessions | 370 |
-| Page views | 515 |
-| Engagement rate | 52.16% |
-| Avg session (s) | 87 |
+| Active users | 326 |
+| Sessions | 380 |
+| Page views | 533 |
+| Engagement rate | 60.53% |
+| Avg session (s) | 96 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
+| /drummer/bill-ward | 15 | 9 |
 | /drummer/joey-jordison | 15 | 10 |
-| /drummer/bill-ward | 14 | 9 |
+| /drummer/mario-duplantier | 14 | 13 |
 | /bpm | 13 | 2 |
-| /drummer/frost | 12 | 3 |
-| /drummer/mario-duplantier | 12 | 12 |
+| /drummer/frost | 13 | 3 |
 | /drummers | 12 | 4 |
+| /drummer/hellhammer | 10 | 8 |
+| /drummer/jaska-raatikainen | 10 | 6 |
+| /drummer/matt-greiner | 10 | 10 |
 | /drummer/eloy-casagrande | 9 | 6 |
-| /drummer/hellhammer | 9 | 7 |
-| /drummer/matt-greiner | 9 | 9 |
-| /drummer/jaska-raatikainen | 8 | 6 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 284 | 236 |
-| Unassigned | 68 | 59 |
-| Direct | 41 | 41 |
-| Cross-network | 29 | 29 |
+| Organic Search | 313 | 262 |
+| Direct | 42 | 42 |
+| Unassigned | 30 | 27 |
+| Cross-network | 13 | 13 |
 | AI Assistant | 1 | 1 |
 
 ### Top countries (sessions, last 7d)
 | Country | Sessions | Users |
 | --- | --- | --- |
-| United States | 138 | 112 |
-| United Kingdom | 30 | 15 |
+| United States | 141 | 116 |
+| United Kingdom | 31 | 15 |
 | Australia | 18 | 17 |
 | Canada | 16 | 15 |
+| Germany | 16 | 13 |
 | Singapore | 16 | 16 |
-| Germany | 15 | 12 |
-| Finland | 10 | 10 |
+| Finland | 11 | 11 |
 | China | 9 | 9 |
 | France | 8 | 8 |
 | Poland | 7 | 7 |

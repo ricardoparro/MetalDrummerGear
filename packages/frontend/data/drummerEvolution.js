@@ -1251,7 +1251,7 @@ export const DRUMMER_EVOLUTION = {
     band: 'Meshuggah',
     totalYearsActive: '1989-Present',
     profileImage: '/images/drummers/tomas-haake.webp',
-    summary: 'Tomas Haake\'s gear evolution tracks the development of djent and extreme precision drumming — from a budget kit in Umeå basements to the DW/ddrum hybrid rig that has defined modern metal drumming for two decades.',
+    summary: 'Tomas Haake\'s gear evolution tracks the development of djent and extreme precision drumming — from a budget kit in Umeå basements to the Sonor SQ2 kit paired with Tama Speed Cobra pedals and ddrum electronic triggers that has defined modern metal drumming for two decades.',
 
     eras: [
       {

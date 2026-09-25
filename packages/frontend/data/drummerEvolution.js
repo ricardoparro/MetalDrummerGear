@@ -9248,23 +9248,23 @@ export const DRUMMER_EVOLUTION = {
         years: '1990–1992',
         startYear: 1990,
         endYear: 1992,
-        description: 'Rust in Peace (1990) is one of thrash metal\'s greatest albums — and Nick Menza\'s drumming is central to its power. Tracks like "Holy Wars," "Hangar 18," and "Tornado of Souls" feature some of the most technically demanding thrash drumming ever recorded. Menza upgraded to Pearl Masters during this period for a more resonant, powerful sound that matched the album\'s landmark production.',
+        description: 'Rust in Peace (1990) is one of thrash metal\'s greatest albums — and Nick Menza\'s drumming is central to its power. Tracks like "Holy Wars," "Hangar 18," and "Tornado of Souls" feature some of the most technically demanding thrash drumming ever recorded, all delivered on the same Tama Artstar II kit carried over from the So Far, So Good era.',
         albums: ['Rust in Peace (1990)'],
         tours: ['Clash of the Titans Tour 1990', 'Rust in Peace World Tour 1990–1992'],
         image: null,
 
         gear: {
           drums: {
-            item: 'Pearl Masters Professional',
-            details: 'Maple shells: 22" kick, 10"/12"/14"/16" toms',
-            notes: 'Switched to Pearl Masters — maple shells offered a warmer, more resonant tone than the Tama Artstar birch, giving Rust in Peace\'s production the depth it needed alongside Marty Friedman\'s fluid leads.',
-            change: CHANGE_TYPES.SWITCH,
+            item: 'Tama Artstar II',
+            details: 'Birch shells, Midnight Blue finish: 22" kick, 10"/12"/14"/16" toms',
+            notes: 'Recorded Rust in Peace on the same Tama Artstar II birch kit from the So Far, So Good era — no gear change during this period. The focused, punchy birch attack cut through Dave Mustaine and Marty Friedman\'s dense guitar arrangements. The Pearl Masters switch came later, for Countdown to Extinction (1992).',
+            change: null,
           },
           snare: {
-            item: 'Pearl Free-Floating Steel 14"×6.5"',
-            details: 'Steel shell, bright and explosive',
-            notes: 'Pearl Free-Floating steel snare — explosive, cutting attack that defined the Rust in Peace snare sound heard on "Holy Wars" and "Hangar 18."',
-            change: CHANGE_TYPES.SWITCH,
+            item: 'Tama Artstar II 14"×6.5" Birch',
+            details: 'Birch shell, die-cast hoops',
+            notes: 'Same birch Tama Artstar II snare carried over from the So Far, So Good era — no snare change is documented until the 1992 Pearl Masters switch.',
+            change: null,
           },
           cymbals: {
             item: 'Zildjian A Custom Series',
@@ -9300,8 +9300,8 @@ export const DRUMMER_EVOLUTION = {
 
         keyChanges: [
           'Rust in Peace (1990) — one of thrash metal\'s defining albums; Menza\'s career-defining performance',
-          'Switched from Tama Artstar to Pearl Masters — critical tonal upgrade',
-          'Pearl Free-Floating steel snare defines the Rust in Peace snare sound',
+          'Recorded on the same Tama Artstar II kit from the So Far, So Good era — no gear switch until the 1992 Pearl Masters upgrade',
+          'Tama Artstar II birch snare carried over from the So Far, So Good era',
           '"Holy Wars," "Hangar 18," "Tornado of Souls" — extreme technical demands met with precision',
           'Clash of the Titans Tour (1990) — alongside Slayer, Anthrax, Alice in Chains',
         ],
